@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 15:54",
+ "actualizado": "2026-11-06 16:05",
  "redes": {
   "instagram": {
    "seguidores": 26,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 1951,
-   "hoy": 45,
+   "seguidores": 1954,
+   "hoy": 48,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    1951
+    1954
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 284,
-   "hoy": 7,
+   "seguidores": 286,
+   "hoy": 9,
    "serie": [
     176,
     207,
@@ -50,17 +50,17 @@
     232,
     245,
     277,
-    284
+    286
    ]
   }
  },
- "total": 2261,
- "total_hoy": 53,
+ "total": 2266,
+ "total_hoy": 58,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "20:00",
   "dia": "2026-11-06",
-  "titulo": "La loca del viernes x6,23"
+  "titulo": "Combi Sevilla vs Alaves"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,9 +156,9 @@
   },
   "2026-11-06": {
    "instagram": 26,
-   "threads": 1951,
+   "threads": 1954,
    "facebook": 0,
-   "telegram": 284
+   "telegram": 286
   }
  },
  "tipos_instagram": {
