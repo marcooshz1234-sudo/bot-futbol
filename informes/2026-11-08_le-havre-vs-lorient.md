@@ -1,10 +1,10 @@
 # Le Havre – Lorient
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:22_
 
 - **1X2:** 1 **2.80**  ·  X **3.30**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**
@@ -56,8 +56,10 @@ _Actualizadas: 06/11 02:14_
     - 1,5: más **1.73** · menos **2.00**
 - **Total ShotOnGoal:**
     - 8,5: más **1.91** · menos **1.80**
+- **ShotOnTarget 1x2:** 1 **1.95**  ·  X **7.00**  ·  2 **2.20**
 - **Total Shots:**
     - 25,5: más **1.91** · menos **1.80**
+- **Shots.1x2:** 1 **1.73**  ·  X **15.00**  ·  2 **2.10**
 - **Home Player Shots On Target Total:** Elias Jelert - 1 **7.00**  ·  Elias Jelert - 2 **19.00**  ·  Ahmed Touba - 1 **5.50**  ·  Rayan Fofana - 1 **1.57**  ·  Rayan Fofana - 2 **3.75**  ·  Rayan Fofana - 3 **11.00**  ·  Josh Maja - 1 **1.62**  ·  Ally Samatta - 1 **1.53**  ·  Andy Logbo - 1 **1.91**  ·  Sota Nakamura - 1 **1.67**  ·  Rassoul Ndiaye - 1 **3.25**  ·  Enzo Koffi - 1 **1.73**  ·  Ismail Bouneb - 1 **3.25**  ·  Kaito Mizuta - 1 **1.91**  ·  Amir Richardson - 1 **2.25**  ·  Guy Zohouri - 1 **4.50**  ·  Vincent Sasso - 1 **3.75**  ·  Junior Mwanga - 1 **3.75**  ·  Simon Ebonog - 1 **3.75**  ·  Ayumu Seko - 1 **3.75**  ·  Daren Mosengo - 1 **2.62**  ·  Djibril Ouziad - 1 **1.91**  ·  Timothee Pembele - 1 **3.25**  ·  Stephan Zagadou - 1 **7.00**  ·  Josh Maja - 2 **4.00**  ·  Ally Samatta - 2 **3.50**  ·  Andy Logbo - 2 **6.00**  ·  Sota Nakamura - 2 **4.33**  ·  Rassoul Ndiaye - 2 **15.00**  ·  Enzo Koffi - 2 **4.50**  ·  Ismail Bouneb - 2 **15.00**  ·  Kaito Mizuta - 2 **6.00**  ·  Amir Richardson - 2 **9.00**  ·  Guy Zohouri - 2 **21.00**  ·  Vincent Sasso - 2 **21.00**  ·  Junior Mwanga - 2 **21.00**  ·  Simon Ebonog - 2 **21.00**  ·  Ayumu Seko - 2 **21.00**  ·  Daren Mosengo - 2 **11.00**  ·  Djibril Ouziad - 2 **6.00**  ·  Timothee Pembele - 2 **15.00**  ·  Josh Maja - 3 **13.00**  ·  Ally Samatta - 3 **11.00**  ·  Andy Logbo - 3 **21.00**  ·  Sota Nakamura - 3 **15.00**  ·  Rassoul Ndiaye - 3 **21.00**  ·  Enzo Koffi - 3 **15.00**  ·  Ismail Bouneb - 3 **21.00**  ·  Kaito Mizuta - 3 **21.00**  ·  Djibril Ouziad - 3 **21.00**  ·  Ally Samatta - 4 **21.00**  ·  Hakim Dongopandji - 1 **2.00**  ·  Mohamed Lamine N'Diaye - 1 **4.50**  ·  Hakim Dongopandji - 2 **6.50**  ·  Mohamed Lamine N'Diaye - 2 **21.00**  ·  Hakim Dongopandji - 3 **21.00**
 - **Away Player Shots On Target Total:** Rayan Fofana **12.00**  ·  Stephan Zagadou **23.00**  ·  Isak Jensen **11.00**  ·  Noah Cadiou **23.00**  ·  Ayumu Seko **21.00**  ·  Nathaniel Adjei **21.00**  ·  Arthur Avom **26.00**  ·  Panos Katseris **23.00**  ·  Tosin Aiyegun **11.00**  ·  Jean-Victor Makengo **21.00**  ·  Simon Ebonog **29.00**  ·  Guy Zohouri **21.00**  ·  Souleymane Faye **23.00**  ·  Enzo Koffi **19.00**  ·  Josh Maja **21.00**  ·  Andy Logbo **12.00**  ·  Ismail Bouneb **23.00**  ·  Daren Mosengo **21.00**  ·  Rassoul Ndiaye **21.00**  ·  Timothee Pembele **26.00**  ·  Junior Mwanga **51.00**  ·  Dembo Sylla **26.00**  ·  Ally Samatta **11.00**  ·  Nosa Obaretin **13.00**  ·  Enzo Genton **15.00**  ·  Mohamed Bamba **10.00**  ·  Amir Richardson **51.00**  ·  Montassar Talbi **21.00**  ·  Souleymane Toure **13.00**  ·  Kaito Mizuta **26.00**  ·  Vincent Sasso **13.00**  ·  Alec Georgen **23.00**  ·  Gabin Bernardeau **29.00**  ·  Sota Nakamura **17.00**  ·  Theo Le Bris **23.00**
 - **Away Player Shots Total:**

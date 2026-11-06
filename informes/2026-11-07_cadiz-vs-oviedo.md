@@ -1,16 +1,16 @@
 # Cadiz – Oviedo
 **Segunda División** · Regular Season - 13 · 07/11/2026 16:15 (hora España) · Nuevo Mirandilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
-- **1X2:** 1 **2.70**  ·  X **3.10**  ·  2 **2.50**
+- **1X2:** 1 **2.80**  ·  X **3.25**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.44**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.06** · menos **9.50**
     - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.50** · menos **1.28**
@@ -28,7 +28,7 @@ _Actualizadas: 06/11 02:14_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.80** · menos **2.00**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.05**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -191,14 +191,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 37% | 38% | 2.50 | -4% |
-| 1X2: X | 24% | 30% | 27% | 3.10 | -17% |
-| 1X2: 1 | 36% | 34% | 35% | 2.70 | -6% |
+| 1X2: 2 | 40% | 38% | 39% | 2.50 | -3% |
+| 1X2: X | 24% | 29% | 26% | 3.25 | -14% |
+| 1X2: 1 | 36% | 34% | 35% | 2.80 | -3% |
 | Doble oportunidad: X2 | 64% | 66% | 65% | 1.44 | -6% |
 | Doble oportunidad: 12 | 76% | 70% | 73% | 1.36 | -1% |
 | Doble oportunidad: 1X | 60% | 64% | 62% | 1.50 | -8% |
-| Ambos marcan: No | 39% | 50% | 44% | 1.83 | -19% |
-| Ambos marcan: Sí | 61% | 50% | 56% | 1.83 | +2% |
+| Ambos marcan: No | 39% | 49% | 44% | 1.91 | -17% |
+| Ambos marcan: Sí | 61% | 51% | 56% | 1.80 | +1% |
 | Goles más/menos: Más de 1.5 | 81% | 72% | 77% | 1.30 | -0% |
 | Goles más/menos: Más de 2.5 | 59% | 47% | 53% | 2.00 | +6% |
 | Goles más/menos: Más de 3.5 | 36% | 27% | 32% | 3.50 | +11% |
@@ -217,8 +217,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 47% | 35% | 41% | 2.62 | +8% |
 | Goles del visitante: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
-| Córners más/menos: Más de 9.5 | 50% | 51% | 51% | 1.80 | -8% |
-| Córners más/menos: Menos de 9.5 | 50% | 49% | 49% | 1.91 | -6% |
+| Córners más/menos: Más de 9.5 | 50% | 53% | 51% | 1.80 | -7% |
+| Córners más/menos: Menos de 9.5 | 50% | 47% | 49% | 2.00 | -3% |
 | 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -3% |
 | 1X2 descanso: X | 40% | 45% | 42% | 2.05 | -14% |
 | 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -5% |

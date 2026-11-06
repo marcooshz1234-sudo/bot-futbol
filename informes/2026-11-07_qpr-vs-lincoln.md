@@ -1,10 +1,10 @@
 # QPR – Lincoln
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Loftus Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **1.62**  ·  X **3.80**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**

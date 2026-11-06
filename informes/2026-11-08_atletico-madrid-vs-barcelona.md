@@ -1,10 +1,10 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:15_
+_Actualizadas: 06/11 08:22_
 
 - **1X2:** 1 **3.70**  ·  X **4.33**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.20**  ·  X2 **1.28**

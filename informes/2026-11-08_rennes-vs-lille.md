@@ -1,20 +1,21 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **2.10**  ·  X **3.60**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
     - 4,5: más **4.50** · menos **1.20**
-    - 5,5: más **8.00** · menos **1.08**
+    - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**

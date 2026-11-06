@@ -1,10 +1,10 @@
 # FSV Mainz 05 – Bayern München
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · MEWA Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:13_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **7.00**  ·  X **6.50**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.25**  ·  12 **1.11**  ·  X2 **1.10**
@@ -12,20 +12,20 @@ _Actualizadas: 06/11 02:13_
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **10.00**
     - 2,5: más **1.22** · menos **4.33**
-    - 3,5: más **1.57** · menos **2.38**
+    - 3,5: más **1.62** · menos **2.30**
     - 4,5: más **2.30** · menos **1.62**
     - 5,5: más **3.75** · menos **1.28**
-    - 6,5: más **6.00** · menos **1.12**
-    - 7,5: más **11.00** · menos **1.05**
+    - 6,5: más **6.50** · menos **1.11**
+    - 7,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.50** · menos **1.11**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 1,5: más **1.20** · menos **4.33**
     - 2,5: más **1.67** · menos **2.10**
@@ -223,20 +223,20 @@ _Goles esperados: local 1,34 · visitante 3,35 · córners esperados 9,9._
 | Ambos marcan: No | 29% | 35% | 32% | 2.62 | -16% |
 | Ambos marcan: Sí | 71% | 65% | 68% | 1.44 | -2% |
 | Goles más/menos: Más de 2.5 | 85% | 78% | 81% | 1.22 | -1% |
-| Goles más/menos: Más de 3.5 | 69% | 60% | 65% | 1.57 | +1% |
+| Goles más/menos: Más de 3.5 | 69% | 59% | 64% | 1.62 | +3% |
 | Goles más/menos: Más de 4.5 | 50% | 41% | 46% | 2.30 | +6% |
 | Goles más/menos: Más de 5.5 | 33% | 25% | 29% | 3.75 | +10% |
 | Goles más/menos: Menos de 2.5 | 15% | 22% | 19% | 4.33 | -19% |
-| Goles más/menos: Menos de 3.5 | 31% | 40% | 35% | 2.38 | -16% |
+| Goles más/menos: Menos de 3.5 | 31% | 41% | 36% | 2.30 | -17% |
 | Goles más/menos: Menos de 4.5 | 50% | 59% | 54% | 1.62 | -12% |
 | Goles más/menos: Menos de 5.5 | 67% | 75% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 61% | 56% | 58% | 1.67 | -3% |
 | Goles 1ª parte más/menos: Más de 2.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 39% | 44% | 42% | 2.10 | -12% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles del local: Más de 0.5 | 74% | 71% | 72% | 1.33 | -4% |
+| Goles del local: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles del local: Más de 1.5 | 39% | 35% | 37% | 2.62 | -3% |
-| Goles del local: Menos de 0.5 | 26% | 29% | 28% | 3.25 | -10% |
+| Goles del local: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles del local: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -9% |
 | Goles del visitante: Más de 1.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles del visitante: Más de 2.5 | 65% | 56% | 60% | 1.67 | +1% |

@@ -1,10 +1,10 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **3.30**  ·  X **3.60**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.33**
@@ -48,7 +48,7 @@ _Actualizadas: 06/11 02:14_
     - 4,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
 - **Total ShotOnGoal:**
     - 9,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **2.25**  ·  X **7.50**  ·  2 **1.91**

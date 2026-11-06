@@ -1,10 +1,10 @@
 # Nacional – Academico Viseu
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 16:30 (hora España) · Estádio da Madeira
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **3.00**  ·  X **3.30**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.36**
@@ -28,12 +28,12 @@ _Actualizadas: 06/11 02:14_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **1.88** · menos **1.92**
+    - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
@@ -219,8 +219,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 47% | 39% | 43% | 2.38 | +2% |
 | Goles del visitante: Menos de 0.5 | 21% | 27% | 24% | 3.50 | -17% |
 | Goles del visitante: Menos de 1.5 | 53% | 61% | 57% | 1.53 | -13% |
-| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.88 | -10% |
-| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.92 | +1% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 53% | 1.83 | -4% |
 | 1X2 descanso: 2 | 36% | 31% | 33% | 3.00 | -0% |
 | 1X2 descanso: X | 43% | 44% | 43% | 2.10 | -9% |
 | 1X2 descanso: 1 | 22% | 26% | 24% | 3.60 | -15% |

@@ -1,10 +1,10 @@
 # Burgos – Celta de Vigo II
 **Segunda División** · Regular Season - 13 · 07/11/2026 14:00 (hora España) · Municipal El Plantio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:13_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **1.65**  ·  X **3.60**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.20**
@@ -30,7 +30,7 @@ _Actualizadas: 06/11 02:13_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 8,5: más **1.80** · menos **2.00**
+    - 8,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -216,8 +216,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 30% | 25% | 27% | 3.75 | +2% |
 | Goles del visitante: Menos de 0.5 | 34% | 41% | 37% | 2.25 | -16% |
 | Goles del visitante: Menos de 1.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Córners más/menos: Más de 8.5 | 52% | 53% | 52% | 1.80 | -6% |
-| Córners más/menos: Menos de 8.5 | 48% | 47% | 48% | 2.00 | -5% |
+| Córners más/menos: Más de 8.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Córners más/menos: Menos de 8.5 | 48% | 49% | 48% | 1.91 | -8% |
 | 1X2 descanso: X | 39% | 41% | 40% | 2.25 | -10% |
 | 1X2 descanso: 1 | 42% | 41% | 41% | 2.25 | -7% |
 

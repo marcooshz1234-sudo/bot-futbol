@@ -1,10 +1,10 @@
 # Parma – Bologna
 **Serie A** · Regular Season - 11 · 07/11/2026 18:00 (hora España) · Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **4.50**  ·  X **3.50**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.18**
@@ -49,6 +49,10 @@ _Actualizadas: 06/11 02:14_
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
+- **Home Team Total Cards:**
+    - 1,5: más **1.73** · menos **2.00**
+- **Away Team Total Cards:**
+    - 1,5: más **1.62** · menos **2.20**
 - **Total ShotOnGoal:**
     - 7,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **3.20**  ·  X **7.00**  ·  2 **1.53**

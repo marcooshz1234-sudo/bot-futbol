@@ -1,10 +1,10 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:13_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.36**

@@ -1,10 +1,10 @@
 # Ipswich – Bournemouth
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Portman Road Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **3.80**  ·  X **3.75**  ·  2 **1.91**
 - **Doble oportunidad:** 1X **1.83**  ·  12 **1.25**  ·  X2 **1.25**
@@ -51,7 +51,7 @@ _Actualizadas: 06/11 02:14_
     - 3,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 - **Home Team Total Cards:**
     - 2,5: más **2.10** · menos **1.67**
 - **Away Team Total Cards:**

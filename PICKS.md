@@ -1,18 +1,17 @@
 # Picks del Analista
 
-_Generado el 2026-11-06 02:15 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-06 08:22 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 06/11
 
 **🔒 Combi segura · cuota 1,70**
 - Akor Adams: 1+ tiros a puerta (1,28) · Akor Adams 8/10
-- Carlton Morris comete 1+ faltas (1,33) · Carlton Morris 8/10
+- Josh Sheehan comete 1+ faltas (1,33) · Josh Sheehan 8/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Akor Adams: 1+ tiros a puerta | jugador | 1.28 | 80% | Akor Adams 8/10 |
 | 20:45 | Juan Jesus comete 1+ faltas | jugador | 1.28 | 83% | Juan Jesus 5/6 |
-| 21:00 | Carlton Morris comete 1+ faltas | jugador | 1.33 | 80% | Carlton Morris 8/10 |
 | 20:45 | Redouane Halhal comete 1+ faltas | jugador | 1.25 | 88% | Redouane Halhal 7/8 |
 | 21:00 | Josh Sheehan comete 1+ faltas | jugador | 1.33 | 80% | Josh Sheehan 8/10 |
 | 20:45 | Casper Tengstedt: 1+ tiros a puerta | jugador | 1.28 | 80% | Casper Tengstedt 4/5 |
@@ -62,35 +61,41 @@ _Generado el 2026-11-06 02:15 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:30 | Tom Bischof comete 1+ faltas | jugador | 1.33 | 100% | Tom Bischof 7/7 |
 | 15:30 | Fabian Rieder comete 1+ faltas | jugador | 1.30 | 80% | Fabian Rieder 8/10 |
 | 16:00 | Calvin Bassey comete 1+ faltas | jugador | 1.40 | 80% | Calvin Bassey 8/10 |
+| 18:30 | Abel Bretones comete 1+ faltas | jugador | 1.40 | 100% | Abel Bretones 9/9 |
 | 16:00 | Gabriel Magalhaes comete 1+ faltas | jugador | 1.67 | 80% | Gabriel Magalhaes 8/10 |
 | 13:30 | Kieffer Moore: 1+ tiros a puerta | jugador | 1.50 | 80% | Kieffer Moore 8/10 |
 | 15:30 | Dayot Upamecano comete 1+ faltas | jugador | 1.57 | 80% | Dayot Upamecano 8/10 |
 | 18:30 | Grischa Promel comete 1+ faltas | jugador | 1.44 | 90% | Grischa Promel 9/10 |
 | 18:30 | Alex Berenguer comete 1+ faltas | jugador | 1.44 | 83% | Alex Berenguer 5/6 |
 | 16:00 | QPR ve más de 1,5 tarjetas | tarjetas | 1.53 | 75% | QPR 8/10 · Lincoln (en contra) 7/10 |
-| 21:05 | Estac Troyes hace más de 2,5 córners | corners | 1.57 | 90% | Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9 |
 | 13:30 | Jan Paul van Hecke comete 1+ faltas | jugador | 1.40 | 80% | Jan Paul van Hecke 8/10 |
+| 21:05 | Estac Troyes hace más de 2,5 córners | corners | 1.57 | 90% | Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9 |
 | 16:00 | Nico Gonzalez comete 2+ faltas | jugador | 1.67 | 88% | Nico Gonzalez 7/8 |
 | 13:30 | Stoke City hace más de 4,5 córners | corners | 1.73 | 75% | Portsmouth (en contra) 8/10 · Stoke City 7/10 |
 
 ## Domingo 08/11
 
-**🔒 Combi segura · cuota 1,75**
+**🔒 Combi segura · cuota 1,60**
+- Brighton o empate (1,28) · Brighton 9/10 · Brentford 7/10
 - Más de 1,5 goles en Sunderland–Chelsea (1,25) · Sunderland 8/10 · Chelsea 10/10
-- Jorthy Mokio: 1+ tiros (1,40) · Jorthy Mokio 9/10
 
-**🤪 Combi loca · cuota 11,69**
+**💥 Combi cuota 3-4 · cuota 3,02**
 - Más de 1,5 goles en Sporting Gijon–Valladolid (1,33) · Sporting Gijon 8/10 · Valladolid 8/10
+- Jorthy Mokio: 1+ tiros (1,40) · Jorthy Mokio 9/10
+- Heerenveen hace más de 3,5 córners (1,62) · Heerenveen 8/10 · Feyenoord (en contra) 7/10
+
+**🤪 Combi loca · cuota 8,18**
 - Más de 1,5 goles en Estoril–Maritimo (1,25) · Estoril 8/10 · Maritimo 10/10
 - Más de 1,5 goles en Girona–Almeria (1,25) · Girona 8/10 · Almeria 9/10
+- Más de 1,5 goles en Genoa–AC Milan (1,36) · Genoa 7/10 · AC Milan 10/10
 - Lamine Yamal: 3+ tiros (1,28) · Lamine Yamal 10/10
 - Wout Weghorst: 1+ tiros a puerta (1,25) · Wout Weghorst 9/10
-- James Hill comete 1+ faltas (1,30) · James Hill 8/10
-- Heerenveen hace más de 3,5 córners (1,62) · Heerenveen 8/10 · Feyenoord (en contra) 7/10
+- Gustavo Varela: 1+ tiros a puerta (1,44) · Gustavo Varela 9/10
 - Más de 2,5 fueras de juego en Sunderland–Chelsea (1,67) · Sunderland 7/9 · Chelsea 7/9
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 15:00 | Brighton o empate | resultado | 1.28 | 80% | Brighton 9/10 · Brentford 7/10 |
 | 15:00 | Más de 1,5 goles en Sunderland–Chelsea | goles | 1.25 | 90% | Sunderland 8/10 · Chelsea 10/10 |
 | 18:30 | Más de 1,5 goles en Sporting Gijon–Valladolid | goles | 1.33 | 80% | Sporting Gijon 8/10 · Valladolid 8/10 |
 | 16:30 | Más de 1,5 goles en Estoril–Maritimo | goles | 1.25 | 90% | Estoril 8/10 · Maritimo 10/10 |
@@ -99,6 +104,7 @@ _Generado el 2026-11-06 02:15 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 15:00 | Más de 1,5 goles en Genoa–AC Milan | goles | 1.36 | 85% | Genoa 7/10 · AC Milan 10/10 |
 | 21:00 | Lamine Yamal: 3+ tiros | jugador | 1.28 | 100% | Lamine Yamal 10/10 |
 | 14:30 | Wout Weghorst: 1+ tiros a puerta | jugador | 1.25 | 90% | Wout Weghorst 9/10 |
+| 15:00 | Gustavo Varela: 1+ tiros a puerta | jugador | 1.44 | 90% | Gustavo Varela 9/10 |
 | 15:00 | James Hill comete 1+ faltas | jugador | 1.30 | 80% | James Hill 8/10 |
 | 15:00 | Sebastian Szymanski: 1+ tiros | jugador | 1.25 | 89% | Sebastian Szymanski 8/9 |
 | 15:00 | Jeremy Jacquet comete 1+ faltas | jugador | 1.28 | 80% | Jeremy Jacquet 8/10 |

@@ -1,10 +1,10 @@
 # Angers – Nice
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:22_
 
 - **1X2:** 1 **3.50**  ·  X **3.60**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.28**  ·  X2 **1.28**

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06 02:15",
+ "generado": "2026-11-06 08:22",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -76,37 +76,6 @@
      "prob_aprendida": 0.668
     },
     {
-     "partido_id": 1563256,
-     "fecha": "2026-11-06T21:00",
-     "competicion": "Championship",
-     "liga_id": 40,
-     "local": "Derby",
-     "visitante": "Bolton",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Carlton Morris - 1",
-     "cuota": 1.33,
-     "frecuencia": 0.8,
-     "ventaja": 0.048,
-     "tipo": "jugador",
-     "jugador": "Carlton Morris",
-     "equipo": "Derby",
-     "jugador_id": 19083,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Carlton Morris comete 1+ faltas",
-     "detalle": "Carlton Morris 8/10",
-     "temporada": "8/11",
-     "movimiento": -0.113,
-     "cuota_inicial": 1.5,
-     "posiciones": [
-      23,
-      17,
-      24
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.638
-    },
-    {
      "partido_id": 1550196,
      "fecha": "2026-11-06T20:45",
      "competicion": "Serie A",
@@ -158,6 +127,8 @@
      "texto": "Josh Sheehan comete 1+ faltas",
      "detalle": "Josh Sheehan 8/10",
      "temporada": "11/15",
+     "arbitro": "James Bell",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       23,
       17,
@@ -190,7 +161,7 @@
      "movimiento": -0.059,
      "cuota_inicial": 1.36,
      "arbitro": "Mathieu Vernice",
-     "arbitro_tarjetas": 3.0,
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       12,
       13,
@@ -251,6 +222,8 @@
      "texto": "Lucas Boye comete 2+ faltas",
      "detalle": "Lucas Boye 8/10",
      "temporada": "8/10",
+     "arbitro": "Luis Bestard Servera",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       6,
       11,
@@ -302,27 +275,27 @@
      "local": "Derby",
      "visitante": "Bolton",
      "mercado": "Player Fouls Committed",
-     "opcion": "Carlton Morris - 1",
+     "opcion": "Josh Sheehan - 1",
      "cuota": 1.33,
      "frecuencia": 0.8,
      "ventaja": 0.048,
      "tipo": "jugador",
-     "jugador": "Carlton Morris",
-     "equipo": "Derby",
-     "jugador_id": 19083,
+     "jugador": "Josh Sheehan",
+     "equipo": "Bolton",
+     "jugador_id": 82034,
      "campo": "faltas_c",
      "n": 1,
-     "texto": "Carlton Morris comete 1+ faltas",
-     "detalle": "Carlton Morris 8/10",
-     "temporada": "8/11",
-     "movimiento": -0.113,
-     "cuota_inicial": 1.5,
+     "texto": "Josh Sheehan comete 1+ faltas",
+     "detalle": "Josh Sheehan 8/10",
+     "temporada": "11/15",
+     "arbitro": "James Bell",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       23,
       17,
       24
      ],
-     "contexto": "peor_lejos_abajo",
+     "contexto": "mejor_lejos_abajo",
      "prob_aprendida": 0.638
     },
     {
@@ -349,7 +322,7 @@
      "movimiento": -0.059,
      "cuota_inicial": 1.36,
      "arbitro": "Mathieu Vernice",
-     "arbitro_tarjetas": 3.0,
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       12,
       13,
@@ -410,6 +383,8 @@
      "texto": "Lucas Boye comete 2+ faltas",
      "detalle": "Lucas Boye 8/10",
      "temporada": "8/10",
+     "arbitro": "Luis Bestard Servera",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       6,
       11,
@@ -463,27 +438,27 @@
        "local": "Derby",
        "visitante": "Bolton",
        "mercado": "Player Fouls Committed",
-       "opcion": "Carlton Morris - 1",
+       "opcion": "Josh Sheehan - 1",
        "cuota": 1.33,
        "frecuencia": 0.8,
        "ventaja": 0.048,
        "tipo": "jugador",
-       "jugador": "Carlton Morris",
-       "equipo": "Derby",
-       "jugador_id": 19083,
+       "jugador": "Josh Sheehan",
+       "equipo": "Bolton",
+       "jugador_id": 82034,
        "campo": "faltas_c",
        "n": 1,
-       "texto": "Carlton Morris comete 1+ faltas",
-       "detalle": "Carlton Morris 8/10",
-       "temporada": "8/11",
-       "movimiento": -0.113,
-       "cuota_inicial": 1.5,
+       "texto": "Josh Sheehan comete 1+ faltas",
+       "detalle": "Josh Sheehan 8/10",
+       "temporada": "11/15",
+       "arbitro": "James Bell",
+       "arbitro_tarjetas": 3.8,
        "posiciones": [
         23,
         17,
         24
        ],
-       "contexto": "peor_lejos_abajo",
+       "contexto": "mejor_lejos_abajo",
        "prob_aprendida": 0.638
       }
      ],
@@ -632,6 +607,8 @@
      "temporada": "5/5",
      "movimiento": -0.111,
      "cuota_inicial": 1.44,
+     "arbitro": "Andrew Kitchen",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       16,
       3,
@@ -687,7 +664,7 @@
      "detalle": "Parma 9/10 · Bologna 7/10",
      "valor_mercado": -0.007,
      "arbitro": "Luca Zufferli",
-     "arbitro_tarjetas": 2.3,
+     "arbitro_tarjetas": 2.8,
      "prob_xg": 0.79,
      "xg_esperado": 2.93,
      "posiciones": [
@@ -814,6 +791,8 @@
      "temporada": "10/14",
      "movimiento": -0.022,
      "cuota_inicial": 1.36,
+     "arbitro": "Oliver Langford",
+     "arbitro_tarjetas": 3.3,
      "posiciones": [
       18,
       22,
@@ -895,7 +874,7 @@
      "ventaja": 0.228,
      "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
      "arbitro": "Samuel Barrott",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       19,
       2,
@@ -925,6 +904,8 @@
      "texto": "Fernando Lopez comete 1+ faltas",
      "detalle": "Fernando Lopez 9/10",
      "temporada": "11/13",
+     "arbitro": "Andrew Kitchen",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       16,
       3,
@@ -1081,7 +1062,7 @@
      "detalle": "Calvin Bassey 8/10",
      "temporada": "8/10",
      "arbitro": "Robert Jones",
-     "arbitro_tarjetas": 3.5,
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       15,
       13,
@@ -1089,6 +1070,37 @@
      ],
      "contexto": "peor_igualado_medio",
      "prob_aprendida": 0.586
+    },
+    {
+     "partido_id": 1570448,
+     "fecha": "2026-11-07T18:30",
+     "competicion": "LaLiga",
+     "liga_id": 140,
+     "local": "Osasuna",
+     "visitante": "Athletic Club",
+     "mercado": "Player Fouls Committed",
+     "opcion": "Abel Bretones - 1",
+     "cuota": 1.4,
+     "frecuencia": 1.0,
+     "ventaja": 0.286,
+     "tipo": "jugador",
+     "jugador": "Abel Bretones",
+     "equipo": "Osasuna",
+     "jugador_id": 181259,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Abel Bretones comete 1+ faltas",
+     "detalle": "Abel Bretones 9/9",
+     "temporada": "9/9",
+     "movimiento": -0.108,
+     "cuota_inicial": 1.57,
+     "posiciones": [
+      15,
+      7,
+      20
+     ],
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.537
     },
     {
      "partido_id": 1557457,
@@ -1146,6 +1158,8 @@
      "temporada": "9/12",
      "movimiento": 0.103,
      "cuota_inicial": 1.36,
+     "arbitro": "Andrew Kitchen",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       16,
       3,
@@ -1261,6 +1275,8 @@
      "ventaja": 0.096,
      "detalle": "QPR 8/10 · Lincoln (en contra) 7/10",
      "valor_mercado": -0.159,
+     "arbitro": "Bobby Madley",
+     "arbitro_tarjetas": 2.0,
      "posiciones": [
       11,
       19,
@@ -1268,34 +1284,6 @@
      ],
      "contexto": "mejor_lejos_medio",
      "prob_aprendida": 0.559
-    },
-    {
-     "partido_id": 1552815,
-     "fecha": "2026-11-07T21:05",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Estac Troyes",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "corners",
-     "texto": "Estac Troyes hace más de 2,5 córners",
-     "cuota": 1.57,
-     "frecuencia": 0.895,
-     "ventaja": 0.258,
-     "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
-     "valor_mercado": 0.013,
-     "movimiento": -0.142,
-     "cuota_inicial": 1.83,
-     "arbitro": "Ruddy Buquet",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      1,
-      16,
-      18
-     ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.444
     },
     {
      "partido_id": 1557463,
@@ -1329,6 +1317,34 @@
      "prob_aprendida": 0.5
     },
     {
+     "partido_id": 1552815,
+     "fecha": "2026-11-07T21:05",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Paris Saint Germain",
+     "visitante": "Estac Troyes",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "Estac Troyes hace más de 2,5 córners",
+     "cuota": 1.57,
+     "frecuencia": 0.895,
+     "ventaja": 0.258,
+     "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
+     "valor_mercado": 0.026,
+     "movimiento": -0.142,
+     "cuota_inicial": 1.83,
+     "arbitro": "Ruddy Buquet",
+     "arbitro_tarjetas": 4.0,
+     "posiciones": [
+      1,
+      16,
+      18
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.393
+    },
+    {
      "partido_id": 1557461,
      "fecha": "2026-11-07T16:00",
      "competicion": "Premier",
@@ -1350,7 +1366,7 @@
      "detalle": "Nico Gonzalez 7/8",
      "temporada": "7/8",
      "arbitro": "Robert Jones",
-     "arbitro_tarjetas": 3.5,
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       15,
       13,
@@ -1374,14 +1390,16 @@
      "frecuencia": 0.75,
      "ventaja": 0.172,
      "detalle": "Portsmouth (en contra) 8/10 · Stoke City 7/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": -0.006,
+     "arbitro": "Ben Speedie",
+     "arbitro_tarjetas": 2.0,
      "posiciones": [
       10,
       5,
       24
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.394
+     "prob_aprendida": 0.392
     }
    ],
    "mejores_por_partido": [
@@ -1519,6 +1537,8 @@
      "temporada": "5/5",
      "movimiento": -0.111,
      "cuota_inicial": 1.44,
+     "arbitro": "Andrew Kitchen",
+     "arbitro_tarjetas": 3.8,
      "posiciones": [
       16,
       3,
@@ -1574,7 +1594,7 @@
      "detalle": "Parma 9/10 · Bologna 7/10",
      "valor_mercado": -0.007,
      "arbitro": "Luca Zufferli",
-     "arbitro_tarjetas": 2.3,
+     "arbitro_tarjetas": 2.8,
      "prob_xg": 0.79,
      "xg_esperado": 2.93,
      "posiciones": [
@@ -1639,6 +1659,8 @@
      "temporada": "10/14",
      "movimiento": -0.022,
      "cuota_inicial": 1.36,
+     "arbitro": "Oliver Langford",
+     "arbitro_tarjetas": 3.3,
      "posiciones": [
       18,
       22,
@@ -1689,7 +1711,7 @@
      "ventaja": 0.228,
      "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
      "arbitro": "Samuel Barrott",
-     "arbitro_tarjetas": 4.0,
+     "arbitro_tarjetas": 3.5,
      "posiciones": [
       19,
       2,
@@ -1815,7 +1837,7 @@
      "detalle": "Calvin Bassey 8/10",
      "temporada": "8/10",
      "arbitro": "Robert Jones",
-     "arbitro_tarjetas": 3.5,
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       15,
       13,
@@ -1832,26 +1854,28 @@
      "local": "Osasuna",
      "visitante": "Athletic Club",
      "mercado": "Player Fouls Committed",
-     "opcion": "Alex Berenguer - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.833,
-     "ventaja": 0.139,
+     "opcion": "Abel Bretones - 1",
+     "cuota": 1.4,
+     "frecuencia": 1.0,
+     "ventaja": 0.286,
      "tipo": "jugador",
-     "jugador": "Alex Berenguer",
-     "equipo": "Athletic Club",
-     "jugador_id": 30510,
+     "jugador": "Abel Bretones",
+     "equipo": "Osasuna",
+     "jugador_id": 181259,
      "campo": "faltas_c",
      "n": 1,
-     "texto": "Alex Berenguer comete 1+ faltas",
-     "detalle": "Alex Berenguer 5/6",
-     "temporada": "5/6",
+     "texto": "Abel Bretones comete 1+ faltas",
+     "detalle": "Abel Bretones 9/9",
+     "temporada": "9/9",
+     "movimiento": -0.108,
+     "cuota_inicial": 1.57,
      "posiciones": [
       15,
       7,
       20
      ],
-     "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.522
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.537
     },
     {
      "partido_id": 1563259,
@@ -1869,6 +1893,8 @@
      "ventaja": 0.096,
      "detalle": "QPR 8/10 · Lincoln (en contra) 7/10",
      "valor_mercado": -0.159,
+     "arbitro": "Bobby Madley",
+     "arbitro_tarjetas": 2.0,
      "posiciones": [
       11,
       19,
@@ -1892,7 +1918,7 @@
      "frecuencia": 0.895,
      "ventaja": 0.258,
      "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
-     "valor_mercado": 0.013,
+     "valor_mercado": 0.026,
      "movimiento": -0.142,
      "cuota_inicial": 1.83,
      "arbitro": "Ruddy Buquet",
@@ -1903,7 +1929,7 @@
       18
      ],
      "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.444
+     "prob_aprendida": 0.393
     },
     {
      "partido_id": 1563257,
@@ -1920,14 +1946,16 @@
      "frecuencia": 0.75,
      "ventaja": 0.172,
      "detalle": "Portsmouth (en contra) 8/10 · Stoke City 7/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": -0.006,
+     "arbitro": "Ben Speedie",
+     "arbitro_tarjetas": 2.0,
      "posiciones": [
       10,
       5,
       24
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.394
+     "prob_aprendida": 0.392
     }
    ],
    "combis": {
@@ -2072,6 +2100,8 @@
        "temporada": "5/5",
        "movimiento": -0.111,
        "cuota_inicial": 1.44,
+       "arbitro": "Andrew Kitchen",
+       "arbitro_tarjetas": 3.8,
        "posiciones": [
         16,
         3,
@@ -2158,7 +2188,7 @@
        "detalle": "Parma 9/10 · Bologna 7/10",
        "valor_mercado": -0.007,
        "arbitro": "Luca Zufferli",
-       "arbitro_tarjetas": 2.3,
+       "arbitro_tarjetas": 2.8,
        "prob_xg": 0.79,
        "xg_esperado": 2.93,
        "posiciones": [
@@ -2223,6 +2253,8 @@
        "temporada": "10/14",
        "movimiento": -0.022,
        "cuota_inicial": 1.36,
+       "arbitro": "Oliver Langford",
+       "arbitro_tarjetas": 3.3,
        "posiciones": [
         18,
         22,
@@ -2247,7 +2279,7 @@
        "ventaja": 0.228,
        "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
        "arbitro": "Samuel Barrott",
-       "arbitro_tarjetas": 4.0,
+       "arbitro_tarjetas": 3.5,
        "posiciones": [
         19,
         2,
@@ -2272,6 +2304,8 @@
        "ventaja": 0.096,
        "detalle": "QPR 8/10 · Lincoln (en contra) 7/10",
        "valor_mercado": -0.159,
+       "arbitro": "Bobby Madley",
+       "arbitro_tarjetas": 2.0,
        "posiciones": [
         11,
         19,
@@ -2295,7 +2329,7 @@
        "frecuencia": 0.895,
        "ventaja": 0.258,
        "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
-       "valor_mercado": 0.013,
+       "valor_mercado": 0.026,
        "movimiento": -0.142,
        "cuota_inicial": 1.83,
        "arbitro": "Ruddy Buquet",
@@ -2306,7 +2340,7 @@
         18
        ],
        "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.444
+       "prob_aprendida": 0.393
       }
      ],
      "cuota": 10.84
@@ -2450,6 +2484,8 @@
        "temporada": "5/5",
        "movimiento": -0.111,
        "cuota_inicial": 1.44,
+       "arbitro": "Andrew Kitchen",
+       "arbitro_tarjetas": 3.8,
        "posiciones": [
         16,
         3,
@@ -2506,6 +2542,8 @@
        "valor_mercado": 0.015,
        "movimiento": -0.029,
        "cuota_inicial": 1.4,
+       "arbitro": "Oliver Langford",
+       "arbitro_tarjetas": 3.3,
        "posiciones": [
         18,
         22,
@@ -2531,7 +2569,7 @@
        "detalle": "Parma 9/10 · Bologna 7/10",
        "valor_mercado": -0.007,
        "arbitro": "Luca Zufferli",
-       "arbitro_tarjetas": 2.3,
+       "arbitro_tarjetas": 2.8,
        "prob_xg": 0.79,
        "xg_esperado": 2.93,
        "posiciones": [
@@ -2615,7 +2653,7 @@
        "ventaja": 0.228,
        "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
        "arbitro": "Samuel Barrott",
-       "arbitro_tarjetas": 4.0,
+       "arbitro_tarjetas": 3.5,
        "posiciones": [
         19,
         2,
@@ -2705,7 +2743,7 @@
        "detalle": "Fulham 6/9 · Newcastle (en contra) 7/10",
        "valor_mercado": 0.0,
        "arbitro": "Robert Jones",
-       "arbitro_tarjetas": 3.5,
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         15,
         13,
@@ -2761,6 +2799,8 @@
        "ventaja": 0.15,
        "detalle": "Portsmouth 7/10 · Stoke City (en contra) 6/10",
        "valor_mercado": 0.111,
+       "arbitro": "Ben Speedie",
+       "arbitro_tarjetas": 2.0,
        "posiciones": [
         10,
         5,
@@ -2780,10 +2820,12 @@
        "opcion": "Away",
        "tipo": "tiros a puerta",
        "texto": "Frosinone hace más tiros a puerta",
-       "cuota": 1.95,
+       "cuota": 1.91,
        "frecuencia": 0.75,
-       "ventaja": 0.237,
+       "ventaja": 0.226,
        "detalle": "Cagliari 7/10 · Frosinone 8/10",
+       "movimiento": -0.021,
+       "cuota_inicial": 1.95,
        "arbitro": "Giovanni Ayroldi",
        "arbitro_tarjetas": 4.0,
        "posiciones": [
@@ -2792,40 +2834,70 @@
         20
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.461
+       "prob_aprendida": 0.468
       },
       {
-       "partido_id": 1563259,
-       "fecha": "2026-11-07T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "QPR",
-       "visitante": "Lincoln",
-       "mercado": "Home Team Total Cards",
+       "partido_id": 1575543,
+       "fecha": "2026-11-07T21:30",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Sporting CP",
+       "visitante": "Moreirense",
+       "mercado": "Away Corners Over/Under",
        "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "QPR ve más de 1,5 tarjetas",
-       "cuota": 1.53,
-       "frecuencia": 0.75,
-       "ventaja": 0.096,
-       "detalle": "QPR 8/10 · Lincoln (en contra) 7/10",
-       "valor_mercado": -0.159,
+       "tipo": "corners",
+       "texto": "Moreirense hace más de 1,5 córners",
+       "cuota": 1.62,
+       "frecuencia": 0.737,
+       "ventaja": 0.12,
+       "detalle": "Sporting CP (en contra) 8/10 · Moreirense 6/9",
+       "valor_mercado": 0.08,
+       "arbitro": "Joao Goncalves",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
-        11,
-        19,
-        24
+        3,
+        9,
+        18
        ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.559
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.454
       }
      ],
-     "cuota": 488.26
+     "cuota": 506.37
     }
    },
    "combis_partido": []
   },
   "2026-11-08": {
    "picks": [
+    {
+     "partido_id": 1557458,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brighton",
+     "visitante": "Brentford",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Brighton o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.8,
+     "ventaja": 0.019,
+     "detalle": "Brighton 9/10 · Brentford 7/10",
+     "valor_mercado": -0.008,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.28,
+     "arbitro": "M. Oliver",
+     "arbitro_tarjetas": 2.9,
+     "posiciones": [
+      3,
+      6,
+      20
+     ],
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.846
+    },
     {
      "partido_id": 1557466,
      "fecha": "2026-11-08T15:00",
@@ -3056,6 +3128,37 @@
      ],
      "contexto": "peor_igualado_arriba",
      "prob_aprendida": 0.717
+    },
+    {
+     "partido_id": 1550192,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Monza",
+     "visitante": "Atalanta",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Gustavo Varela - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.9,
+     "ventaja": 0.206,
+     "tipo": "jugador",
+     "jugador": "Gustavo Varela",
+     "equipo": "Monza",
+     "jugador_id": 340547,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Gustavo Varela: 1+ tiros a puerta",
+     "detalle": "Gustavo Varela 9/10",
+     "temporada": "9/10",
+     "movimiento": 0.029,
+     "cuota_inicial": 1.4,
+     "posiciones": [
+      18,
+      13,
+      20
+     ],
+     "contexto": "peor_lejos_abajo",
+     "prob_aprendida": 0.691
     },
     {
      "partido_id": 1557462,
@@ -3814,6 +3917,34 @@
    ],
    "mejores_por_partido": [
     {
+     "partido_id": 1557458,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Brighton",
+     "visitante": "Brentford",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Brighton o empate",
+     "cuota": 1.28,
+     "frecuencia": 0.8,
+     "ventaja": 0.019,
+     "detalle": "Brighton 9/10 · Brentford 7/10",
+     "valor_mercado": -0.008,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.28,
+     "arbitro": "M. Oliver",
+     "arbitro_tarjetas": 2.9,
+     "posiciones": [
+      3,
+      6,
+      20
+     ],
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.846
+    },
+    {
      "partido_id": 1557466,
      "fecha": "2026-11-08T15:00",
      "competicion": "Premier",
@@ -4016,6 +4147,37 @@
      "prob_aprendida": 0.761
     },
     {
+     "partido_id": 1550192,
+     "fecha": "2026-11-08T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Monza",
+     "visitante": "Atalanta",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Gustavo Varela - 1",
+     "cuota": 1.44,
+     "frecuencia": 0.9,
+     "ventaja": 0.206,
+     "tipo": "jugador",
+     "jugador": "Gustavo Varela",
+     "equipo": "Monza",
+     "jugador_id": 340547,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Gustavo Varela: 1+ tiros a puerta",
+     "detalle": "Gustavo Varela 9/10",
+     "temporada": "9/10",
+     "movimiento": 0.029,
+     "cuota_inicial": 1.4,
+     "posiciones": [
+      18,
+      13,
+      20
+     ],
+     "contexto": "peor_lejos_abajo",
+     "prob_aprendida": 0.691
+    },
+    {
      "partido_id": 1557462,
      "fecha": "2026-11-08T15:00",
      "competicion": "Premier",
@@ -4169,37 +4331,6 @@
      ],
      "contexto": "mejor_lejos_abajo",
      "prob_aprendida": 0.621
-    },
-    {
-     "partido_id": 1557458,
-     "fecha": "2026-11-08T15:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Brighton",
-     "visitante": "Brentford",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Vitaly Janelt - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "tipo": "jugador",
-     "jugador": "Vitaly Janelt",
-     "equipo": "Brentford",
-     "jugador_id": 25073,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Vitaly Janelt comete 1+ faltas",
-     "detalle": "Vitaly Janelt 9/10",
-     "temporada": "9/10",
-     "arbitro": "M. Oliver",
-     "arbitro_tarjetas": 2.9,
-     "posiciones": [
-      3,
-      6,
-      20
-     ],
-     "contexto": "peor_igualado_arriba",
-     "prob_aprendida": 0.612
     },
     {
      "partido_id": 1570449,
@@ -4410,6 +4541,34 @@
     "segura": {
      "picks": [
       {
+       "partido_id": 1557458,
+       "fecha": "2026-11-08T15:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Brighton",
+       "visitante": "Brentford",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Brighton o empate",
+       "cuota": 1.28,
+       "frecuencia": 0.8,
+       "ventaja": 0.019,
+       "detalle": "Brighton 9/10 · Brentford 7/10",
+       "valor_mercado": -0.008,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.28,
+       "arbitro": "M. Oliver",
+       "arbitro_tarjetas": 2.9,
+       "posiciones": [
+        3,
+        6,
+        20
+       ],
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.846
+      },
+      {
        "partido_id": 1557466,
        "fecha": "2026-11-08T15:00",
        "competicion": "Premier",
@@ -4438,6 +4597,37 @@
        ],
        "contexto": "total_abismo_medio",
        "prob_aprendida": 0.823
+      }
+     ],
+     "cuota": 1.6
+    },
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1570008,
+       "fecha": "2026-11-08T18:30",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Sporting Gijon",
+       "visitante": "Valladolid",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Sporting Gijon–Valladolid",
+       "cuota": 1.33,
+       "frecuencia": 0.8,
+       "ventaja": 0.048,
+       "detalle": "Sporting Gijon 8/10 · Valladolid 8/10",
+       "valor_mercado": 0.0,
+       "prob_xg": 0.748,
+       "xg_esperado": 2.68,
+       "posiciones": [
+        6,
+        13,
+        22
+       ],
+       "contexto": "total_lejos_medio",
+       "prob_aprendida": 0.81
       },
       {
        "partido_id": 1552222,
@@ -4469,39 +4659,36 @@
        ],
        "contexto": "mejor_igualado_arriba",
        "prob_aprendida": 0.728
+      },
+      {
+       "partido_id": 1552221,
+       "fecha": "2026-11-08T12:15",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Heerenveen",
+       "visitante": "Feyenoord",
+       "mercado": "Home Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Heerenveen hace más de 3,5 córners",
+       "cuota": 1.62,
+       "frecuencia": 0.75,
+       "ventaja": 0.133,
+       "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
+       "valor_mercado": 0.032,
+       "posiciones": [
+        7,
+        1,
+        18
+       ],
+       "contexto": "peor_lejos_arriba",
+       "prob_aprendida": 0.529
       }
      ],
-     "cuota": 1.75
+     "cuota": 3.02
     },
-    "cuota_3": null,
     "loca": {
      "picks": [
-      {
-       "partido_id": 1570008,
-       "fecha": "2026-11-08T18:30",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Sporting Gijon",
-       "visitante": "Valladolid",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Sporting Gijon–Valladolid",
-       "cuota": 1.33,
-       "frecuencia": 0.8,
-       "ventaja": 0.048,
-       "detalle": "Sporting Gijon 8/10 · Valladolid 8/10",
-       "valor_mercado": 0.0,
-       "prob_xg": 0.748,
-       "xg_esperado": 2.68,
-       "posiciones": [
-        6,
-        13,
-        22
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.81
-      },
       {
        "partido_id": 1575537,
        "fecha": "2026-11-08T16:30",
@@ -4557,6 +4744,34 @@
        ],
        "contexto": "total_lejos_arriba",
        "prob_aprendida": 0.811
+      },
+      {
+       "partido_id": 1550190,
+       "fecha": "2026-11-08T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Genoa",
+       "visitante": "AC Milan",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Genoa–AC Milan",
+       "cuota": 1.36,
+       "frecuencia": 0.85,
+       "ventaja": 0.115,
+       "detalle": "Genoa 7/10 · AC Milan 10/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.023,
+       "cuota_inicial": 1.33,
+       "prob_xg": 0.793,
+       "xg_esperado": 2.95,
+       "posiciones": [
+        11,
+        5,
+        20
+       ],
+       "contexto": "total_lejos_medio",
+       "prob_aprendida": 0.751
       },
       {
        "partido_id": 1570443,
@@ -4619,59 +4834,35 @@
        "prob_aprendida": 0.717
       },
       {
-       "partido_id": 1557462,
+       "partido_id": 1550192,
        "fecha": "2026-11-08T15:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Ipswich",
-       "visitante": "Bournemouth",
-       "mercado": "Player Fouls Committed",
-       "opcion": "James Hill - 1",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Monza",
+       "visitante": "Atalanta",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Gustavo Varela - 1",
+       "cuota": 1.44,
+       "frecuencia": 0.9,
+       "ventaja": 0.206,
        "tipo": "jugador",
-       "jugador": "James Hill",
-       "equipo": "Bournemouth",
-       "jugador_id": 20093,
-       "campo": "faltas_c",
+       "jugador": "Gustavo Varela",
+       "equipo": "Monza",
+       "jugador_id": 340547,
+       "campo": "a_puerta",
        "n": 1,
-       "texto": "James Hill comete 1+ faltas",
-       "detalle": "James Hill 8/10",
-       "temporada": "11/13",
-       "arbitro": "S. Hooper",
-       "arbitro_tarjetas": 3.0,
+       "texto": "Gustavo Varela: 1+ tiros a puerta",
+       "detalle": "Gustavo Varela 9/10",
+       "temporada": "9/10",
+       "movimiento": 0.029,
+       "cuota_inicial": 1.4,
        "posiciones": [
-        14,
-        8,
+        18,
+        13,
         20
        ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.703
-      },
-      {
-       "partido_id": 1552221,
-       "fecha": "2026-11-08T12:15",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Heerenveen",
-       "visitante": "Feyenoord",
-       "mercado": "Home Corners Over/Under",
-       "opcion": "Over 3.5",
-       "tipo": "corners",
-       "texto": "Heerenveen hace más de 3,5 córners",
-       "cuota": 1.62,
-       "frecuencia": 0.75,
-       "ventaja": 0.133,
-       "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
-       "valor_mercado": 0.032,
-       "posiciones": [
-        7,
-        1,
-        18
-       ],
-       "contexto": "peor_lejos_arriba",
-       "prob_aprendida": 0.529
+       "contexto": "peor_lejos_abajo",
+       "prob_aprendida": 0.691
       },
       {
        "partido_id": 1557466,
@@ -4699,135 +4890,11 @@
        "prob_aprendida": 0.498
       }
      ],
-     "cuota": 11.69
+     "cuota": 8.18
     },
     "doble": null
    },
-   "estilos": {
-    "tema": {
-     "picks": [
-      {
-       "partido_id": 1550190,
-       "fecha": "2026-11-08T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Genoa",
-       "visitante": "AC Milan",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Genoa–AC Milan",
-       "cuota": 1.36,
-       "frecuencia": 0.85,
-       "ventaja": 0.115,
-       "detalle": "Genoa 7/10 · AC Milan 10/10",
-       "valor_mercado": 0.0,
-       "movimiento": 0.023,
-       "cuota_inicial": 1.33,
-       "prob_xg": 0.793,
-       "xg_esperado": 2.95,
-       "posiciones": [
-        11,
-        5,
-        20
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.751
-      },
-      {
-       "partido_id": 1552816,
-       "fecha": "2026-11-08T15:00",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Rennes",
-       "visitante": "Lille",
-       "mercado": "Home Player Shots",
-       "opcion": "Sebastian Szymanski - 1",
-       "cuota": 1.25,
-       "frecuencia": 0.889,
-       "ventaja": 0.089,
-       "tipo": "jugador",
-       "jugador": "Sebastian Szymanski",
-       "equipo": "Rennes",
-       "jugador_id": 40403,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Sebastian Szymanski: 1+ tiros",
-       "detalle": "Sebastian Szymanski 8/9",
-       "temporada": "8/9",
-       "movimiento": 0.157,
-       "cuota_inicial": 1.08,
-       "posiciones": [
-        5,
-        2,
-        18
-       ],
-       "contexto": "peor_igualado_arriba",
-       "prob_aprendida": 0.758
-      }
-     ],
-     "cuota": 1.7,
-     "titulo": "🛡️ DOMINGO DE SEGUROS",
-     "tema": "seguros"
-    },
-    "atreve": {
-     "picks": [
-      {
-       "partido_id": 1550193,
-       "fecha": "2026-11-08T12:30",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Napoli",
-       "visitante": "Lazio",
-       "mercado": "To Win Either Half",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Lazio gana alguna de las dos partes",
-       "cuota": 1.91,
-       "frecuencia": 0.8,
-       "ventaja": 0.276,
-       "detalle": "Napoli 6/10 · Lazio 10/10",
-       "valor_mercado": -0.045,
-       "movimiento": -0.151,
-       "cuota_inicial": 2.25,
-       "posiciones": [
-        8,
-        1,
-        20
-       ],
-       "contexto": "mejor_lejos_arriba",
-       "prob_aprendida": 0.558
-      },
-      {
-       "partido_id": 1575544,
-       "fecha": "2026-11-08T19:00",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Vitória SC",
-       "visitante": "FC Porto",
-       "mercado": "First Half Winner",
-       "opcion": "Draw",
-       "tipo": "resultado",
-       "texto": "Empate al descanso en Vitória SC–FC Porto",
-       "cuota": 2.3,
-       "frecuencia": 0.7,
-       "ventaja": 0.265,
-       "detalle": "Vitória SC 6/10 · FC Porto 8/10",
-       "valor_mercado": 0.022,
-       "movimiento": -0.034,
-       "cuota_inicial": 2.38,
-       "posiciones": [
-        13,
-        1,
-        18
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.438
-      }
-     ],
-     "cuota": 4.39
-    }
-   },
+   "estilos": {},
    "combis_partido": []
   }
  }

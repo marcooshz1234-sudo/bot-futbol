@@ -1,12 +1,12 @@
 # West Brom – Millwall
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:13_
+_Actualizadas: 06/11 08:21_
 
-- **1X2:** 1 **1.95**  ·  X **3.40**  ·  2 **3.75**
+- **1X2:** 1 **1.95**  ·  X **3.40**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 25% | 29% | 3.75 | +10% |
+| 1X2: 2 | 34% | 25% | 29% | 3.80 | +11% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
 | 1X2: 1 | 41% | 48% | 45% | 1.95 | -13% |
 | Doble oportunidad: X2 | 59% | 52% | 55% | 1.80 | -0% |

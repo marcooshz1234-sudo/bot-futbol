@@ -8967,9 +8967,9 @@
   "campo": null,
   "n": null,
   "valor_mercado": -0.008,
-  "movimiento": null,
+  "movimiento": 0.0,
   "ventaja": 0.019,
-  "prob_aprendida": 0.879,
+  "prob_aprendida": 0.846,
   "acierto": null
  },
  "1552812|Home Player Shots On Target Total|Pathe Mboup - 1": {
@@ -9453,16 +9453,16 @@
   "opcion": "Gustavo Varela - 1",
   "tipo": "jugador",
   "texto": "Gustavo Varela: 1+ tiros a puerta",
-  "cuota": 1.36,
+  "cuota": 1.44,
   "frecuencia": 0.9,
   "jugador_id": 340547,
   "jugador": "Gustavo Varela",
   "campo": "a_puerta",
   "n": 1,
   "valor_mercado": null,
-  "movimiento": -0.029,
-  "ventaja": 0.165,
-  "prob_aprendida": 0.731,
+  "movimiento": 0.029,
+  "ventaja": 0.206,
+  "prob_aprendida": 0.691,
   "acierto": null
  },
  "1550193|Home Player Shots On Target Total|Noa Lang - 1": {
@@ -10811,10 +10811,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
+  "valor_mercado": -0.006,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.394,
+  "prob_aprendida": 0.392,
   "acierto": null
  },
  "1552221|Home Corners Over/Under|Over 3.5": {
@@ -11958,10 +11958,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.013,
+  "valor_mercado": 0.026,
   "movimiento": -0.142,
   "ventaja": 0.258,
-  "prob_aprendida": 0.444,
+  "prob_aprendida": 0.393,
   "acierto": null
  },
  "1570009|Goals Over/Under|Over 1.5": {
@@ -12270,6 +12270,28 @@
   "movimiento": 0.146,
   "ventaja": 0.244,
   "prob_aprendida": 0.468,
+  "acierto": null
+ },
+ "1570448|Player Fouls Committed|Abel Bretones - 1": {
+  "partido_id": 1570448,
+  "fecha": "2026-11-07T18:30",
+  "competicion": "LaLiga",
+  "local": "Osasuna",
+  "visitante": "Athletic Club",
+  "mercado": "Player Fouls Committed",
+  "opcion": "Abel Bretones - 1",
+  "tipo": "jugador",
+  "texto": "Abel Bretones comete 1+ faltas",
+  "cuota": 1.4,
+  "frecuencia": 1.0,
+  "jugador_id": 181259,
+  "jugador": "Abel Bretones",
+  "campo": "faltas_c",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": -0.108,
+  "ventaja": 0.286,
+  "prob_aprendida": 0.537,
   "acierto": null
  }
 }

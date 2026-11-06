@@ -1,10 +1,10 @@
 # Birmingham – Swansea
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:13_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **1.83**  ·  X **3.60**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
@@ -30,7 +30,7 @@ _Actualizadas: 06/11 02:13_
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
     - 4,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.25**  ·  2 **4.50**
@@ -238,8 +238,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 29% | 28% | 28% | 3.40 | -4% |
 | Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -8% |
 | Goles del visitante: Menos de 1.5 | 71% | 72% | 72% | 1.30 | -7% |
-| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -12% |
-| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
+| Córners más/menos: Más de 9.5 | 44% | 47% | 46% | 2.00 | -9% |
+| Córners más/menos: Menos de 9.5 | 56% | 53% | 54% | 1.80 | -2% |
 | 1X2 descanso: 2 | 22% | 21% | 21% | 4.50 | -5% |
 | 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
 | 1X2 descanso: 1 | 35% | 38% | 37% | 2.40 | -12% |

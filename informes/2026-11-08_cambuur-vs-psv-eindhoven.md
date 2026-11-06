@@ -1,10 +1,10 @@
 # Cambuur – PSV Eindhoven
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:14_
+_Actualizadas: 06/11 08:22_
 
 - **1X2:** 1 **7.00**  ·  X **5.50**  ·  2 **1.36**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.14**  ·  X2 **1.10**

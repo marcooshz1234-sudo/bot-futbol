@@ -1,10 +1,10 @@
 # Portsmouth – Stoke City
 **Championship** · Regular Season - 15 · 07/11/2026 13:30 (hora España) · Fratton Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 08:22._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 02:13_
+_Actualizadas: 06/11 08:21_
 
 - **1X2:** 1 **2.30**  ·  X **3.25**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
@@ -48,7 +48,7 @@ _Actualizadas: 06/11 02:13_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 - **Home Team Total Cards:**
     - 1,5: más **2.00** · menos **1.73**
 - **Away Team Total Cards:**
