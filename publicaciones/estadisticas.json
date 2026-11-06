@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 22:58",
+ "actualizado": "2026-11-06 23:08",
  "redes": {
   "instagram": {
    "seguidores": 26,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2001,
-   "hoy": 95,
+   "seguidores": 2003,
+   "hoy": 97,
    "serie": [
     1375,
     1407,
@@ -24,7 +24,7 @@
     1520,
     1638,
     1906,
-    2001
+    2003
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2320,
- "total_hoy": 112,
+ "total": 2322,
+ "total_hoy": 114,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:00",
-  "dia": "2026-11-06",
-  "titulo": "7 picks para mañana"
+  "hora": "01:00",
+  "dia": "2026-11-07",
+  "titulo": "Quién gana hoy"
  },
  "ayer": {
   "aciertos": 21,
@@ -156,19 +156,19 @@
   },
   "2026-11-06": {
    "instagram": 26,
-   "threads": 2001,
+   "threads": 2003,
    "facebook": 0,
    "telegram": 293
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 4,
+  "Combi loca (reel)": {
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 44,
+  "Escalera (reel)": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
