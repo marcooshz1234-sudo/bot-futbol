@@ -1166,14 +1166,14 @@
   },
   "2026-11-06": {
     "dia": "2026-11-06",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -1193,13 +1193,19 @@
         "titulo": "📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-06-combi-tres",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀",
+        "estado": "pendiente",
+        "cuota": 2.96
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 26
+      "total": 30
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n⏳ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n⏳ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
