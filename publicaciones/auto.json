@@ -2595,7 +2595,7 @@
   {
     "id": "2026-11-06-combi-partido-1570450",
     "fecha": "2026-11-06T20:00",
-    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 SEVILLA vs ALAVES 🇪🇸\n\n🎯 GOL EN LA 2ª PARTE [x1.28]\n✅ SEVILLA HACE 8+ TIROS [x1.35]\n✅ ALAVES MARCA [x1.57]\n✅ EMPATE AL DESCANSO [x2.10]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 4,27\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 SEVILLA vs ALAVES 🇪🇸\n\n🎯 GOL EN LA 2ª PARTE [x1.28]\n✅ SEVILLA HACE 8+ TIROS [x1.35]\n✅ ALAVES MARCA [x1.62]\n✅ EMPATE AL DESCANSO [x2.05]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 4,30\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2608,8 +2608,8 @@
     "cuotas": [
       1.28,
       1.35,
-      1.57,
-      2.1
+      1.62,
+      2.05
     ],
     "tarjeta": {
       "local": "Sevilla",
@@ -2620,7 +2620,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/542.png",
       "fecha": "2026-11-06T21:00",
       "liga": "LaLiga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-06T18:37"
   },
   {
     "id": "2026-11-06-combi-partido-1575539",
