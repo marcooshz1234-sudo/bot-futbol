@@ -820,5 +820,14 @@
    "threads": "17939471820403160",
    "instagram": "18380495461240080"
   }
+ },
+ "2026-11-06-semana-europa-resultado": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": "18083356712373760"
+  },
+  "errores_redes": {
+   "instagram": "No module named 'playwright'"
+  }
  }
 }

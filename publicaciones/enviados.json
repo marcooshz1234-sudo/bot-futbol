@@ -459,5 +459,9 @@
   "2026-11-06-escalera": {
     "enviado": "2026-11-06T11:00",
     "mensaje_id": 315
+  },
+  "2026-11-06-semana-europa-resultado": {
+    "enviado": "2026-11-06T12:00",
+    "mensaje_id": 316
   }
 }
