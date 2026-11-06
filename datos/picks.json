@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06 14:10",
+ "generado": "2026-11-06 20:00",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -474,34 +474,6 @@
   "2026-11-07": {
    "picks": [
     {
-     "partido_id": 1570005,
-     "fecha": "2026-11-07T16:15",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cadiz",
-     "visitante": "Oviedo",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Cadiz–Oviedo",
-     "cuota": 1.3,
-     "frecuencia": 0.85,
-     "ventaja": 0.081,
-     "detalle": "Cadiz 8/10 · Oviedo 9/10",
-     "valor_mercado": -0.023,
-     "movimiento": -0.044,
-     "cuota_inicial": 1.36,
-     "prob_xg": 0.833,
-     "xg_esperado": 3.23,
-     "posiciones": [
-      20,
-      9,
-      22
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.893
-    },
-    {
      "partido_id": 1575220,
      "fecha": "2026-11-07T15:30",
      "competicion": "Bundesliga",
@@ -557,6 +529,34 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.858
+    },
+    {
+     "partido_id": 1570005,
+     "fecha": "2026-11-07T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cadiz",
+     "visitante": "Oviedo",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Cadiz–Oviedo",
+     "cuota": 1.33,
+     "frecuencia": 0.85,
+     "ventaja": 0.098,
+     "detalle": "Cadiz 8/10 · Oviedo 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": -0.022,
+     "cuota_inicial": 1.36,
+     "prob_xg": 0.833,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      20,
+      9,
+      22
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.832
     },
     {
      "partido_id": 1570012,
@@ -662,7 +662,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.065,
      "detalle": "Parma 9/10 · Bologna 7/10",
-     "valor_mercado": -0.007,
+     "valor_mercado": 0.0,
      "arbitro": "Luca Zufferli",
      "arbitro_tarjetas": 2.8,
      "prob_xg": 0.79,
@@ -673,7 +673,7 @@
       20
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.747
+     "prob_aprendida": 0.75
     },
     {
      "partido_id": 1557463,
@@ -808,32 +808,6 @@
      "liga_id": 39,
      "local": "Arsenal",
      "visitante": "Hull City",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 0.5",
-     "tipo": "tarjetas",
-     "texto": "Arsenal ve más de 0,5 tarjetas",
-     "cuota": 1.53,
-     "frecuencia": 0.85,
-     "ventaja": 0.196,
-     "detalle": "Arsenal 9/10 · Hull City (en contra) 8/10",
-     "valor_mercado": 0.055,
-     "arbitro": "Farai Hallam",
-     "arbitro_tarjetas": 3.5,
-     "posiciones": [
-      1,
-      11,
-      20
-     ],
-     "contexto": "mejor_abismo_arriba",
-     "prob_aprendida": 0.613
-    },
-    {
-     "partido_id": 1557457,
-     "fecha": "2026-11-07T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Arsenal",
-     "visitante": "Hull City",
      "mercado": "Player Fouls Committed",
      "opcion": "Mohamed Belloumi - 1",
      "cuota": 1.33,
@@ -859,29 +833,30 @@
      "prob_aprendida": 0.674
     },
     {
-     "partido_id": 1557465,
-     "fecha": "2026-11-07T18:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Nottingham Forest",
-     "visitante": "Manchester City",
-     "mercado": "Offsides Away Total",
-     "opcion": "Over 0.5",
-     "tipo": "fueras de juego",
-     "texto": "Manchester City hace más de 0,5 fueras de juego",
-     "cuota": 1.5,
-     "frecuencia": 0.895,
-     "ventaja": 0.228,
-     "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
-     "arbitro": "Samuel Barrott",
-     "arbitro_tarjetas": 3.5,
+     "partido_id": 1570005,
+     "fecha": "2026-11-07T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cadiz",
+     "visitante": "Oviedo",
+     "mercado": "To Win Either Half",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Oviedo gana alguna de las dos partes",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Cadiz 8/10 · Oviedo 8/10",
+     "valor_mercado": -0.027,
+     "movimiento": -0.016,
+     "cuota_inicial": 1.83,
      "posiciones": [
-      19,
-      2,
-      20
+      20,
+      9,
+      22
      ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.63
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.606
     },
     {
      "partido_id": 1563262,
@@ -1317,34 +1292,6 @@
      "prob_aprendida": 0.5
     },
     {
-     "partido_id": 1552815,
-     "fecha": "2026-11-07T21:05",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Estac Troyes",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "corners",
-     "texto": "Estac Troyes hace más de 2,5 córners",
-     "cuota": 1.57,
-     "frecuencia": 0.895,
-     "ventaja": 0.258,
-     "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
-     "valor_mercado": 0.026,
-     "movimiento": -0.142,
-     "cuota_inicial": 1.83,
-     "arbitro": "Ruddy Buquet",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      1,
-      16,
-      18
-     ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.393
-    },
-    {
      "partido_id": 1557461,
      "fecha": "2026-11-07T16:00",
      "competicion": "Premier",
@@ -1390,7 +1337,7 @@
      "frecuencia": 0.75,
      "ventaja": 0.172,
      "detalle": "Portsmouth (en contra) 8/10 · Stoke City 7/10",
-     "valor_mercado": -0.006,
+     "valor_mercado": -0.075,
      "arbitro": "Ben Speedie",
      "arbitro_tarjetas": 2.0,
      "posiciones": [
@@ -1399,38 +1346,10 @@
       24
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.392
+     "prob_aprendida": 0.428
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1570005,
-     "fecha": "2026-11-07T16:15",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cadiz",
-     "visitante": "Oviedo",
-     "mercado": "Goals Over/Under",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en Cadiz–Oviedo",
-     "cuota": 1.3,
-     "frecuencia": 0.85,
-     "ventaja": 0.081,
-     "detalle": "Cadiz 8/10 · Oviedo 9/10",
-     "valor_mercado": -0.023,
-     "movimiento": -0.044,
-     "cuota_inicial": 1.36,
-     "prob_xg": 0.833,
-     "xg_esperado": 3.23,
-     "posiciones": [
-      20,
-      9,
-      22
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.893
-    },
     {
      "partido_id": 1575220,
      "fecha": "2026-11-07T15:30",
@@ -1487,6 +1406,34 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.858
+    },
+    {
+     "partido_id": 1570005,
+     "fecha": "2026-11-07T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cadiz",
+     "visitante": "Oviedo",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Cadiz–Oviedo",
+     "cuota": 1.33,
+     "frecuencia": 0.85,
+     "ventaja": 0.098,
+     "detalle": "Cadiz 8/10 · Oviedo 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": -0.022,
+     "cuota_inicial": 1.36,
+     "prob_xg": 0.833,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      20,
+      9,
+      22
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.832
     },
     {
      "partido_id": 1570012,
@@ -1592,7 +1539,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.065,
      "detalle": "Parma 9/10 · Bologna 7/10",
-     "valor_mercado": -0.007,
+     "valor_mercado": 0.0,
      "arbitro": "Luca Zufferli",
      "arbitro_tarjetas": 2.8,
      "prob_xg": 0.79,
@@ -1603,7 +1550,7 @@
       20
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.747
+     "prob_aprendida": 0.75
     },
     {
      "partido_id": 1557463,
@@ -1676,15 +1623,20 @@
      "liga_id": 39,
      "local": "Arsenal",
      "visitante": "Hull City",
-     "mercado": "Home Team Total Cards",
-     "opcion": "Over 0.5",
-     "tipo": "tarjetas",
-     "texto": "Arsenal ve más de 0,5 tarjetas",
-     "cuota": 1.53,
-     "frecuencia": 0.85,
-     "ventaja": 0.196,
-     "detalle": "Arsenal 9/10 · Hull City (en contra) 8/10",
-     "valor_mercado": 0.055,
+     "mercado": "Player Fouls Committed",
+     "opcion": "Mohamed Belloumi - 1",
+     "cuota": 1.33,
+     "frecuencia": 0.875,
+     "ventaja": 0.123,
+     "tipo": "jugador",
+     "jugador": "Mohamed Belloumi",
+     "equipo": "Hull City",
+     "jugador_id": 299923,
+     "campo": "faltas_c",
+     "n": 1,
+     "texto": "Mohamed Belloumi comete 1+ faltas",
+     "detalle": "Mohamed Belloumi 7/8",
+     "temporada": "7/8",
      "arbitro": "Farai Hallam",
      "arbitro_tarjetas": 3.5,
      "posiciones": [
@@ -1692,33 +1644,8 @@
       11,
       20
      ],
-     "contexto": "mejor_abismo_arriba",
-     "prob_aprendida": 0.613
-    },
-    {
-     "partido_id": 1557465,
-     "fecha": "2026-11-07T18:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Nottingham Forest",
-     "visitante": "Manchester City",
-     "mercado": "Offsides Away Total",
-     "opcion": "Over 0.5",
-     "tipo": "fueras de juego",
-     "texto": "Manchester City hace más de 0,5 fueras de juego",
-     "cuota": 1.5,
-     "frecuencia": 0.895,
-     "ventaja": 0.228,
-     "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
-     "arbitro": "Samuel Barrott",
-     "arbitro_tarjetas": 3.5,
-     "posiciones": [
-      19,
-      2,
-      20
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.63
+     "contexto": "peor_abismo_arriba",
+     "prob_aprendida": 0.674
     },
     {
      "partido_id": 1575214,
@@ -1904,34 +1831,6 @@
      "prob_aprendida": 0.559
     },
     {
-     "partido_id": 1552815,
-     "fecha": "2026-11-07T21:05",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Paris Saint Germain",
-     "visitante": "Estac Troyes",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "corners",
-     "texto": "Estac Troyes hace más de 2,5 córners",
-     "cuota": 1.57,
-     "frecuencia": 0.895,
-     "ventaja": 0.258,
-     "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
-     "valor_mercado": 0.026,
-     "movimiento": -0.142,
-     "cuota_inicial": 1.83,
-     "arbitro": "Ruddy Buquet",
-     "arbitro_tarjetas": 4.0,
-     "posiciones": [
-      1,
-      16,
-      18
-     ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.393
-    },
-    {
      "partido_id": 1563257,
      "fecha": "2026-11-07T13:30",
      "competicion": "Championship",
@@ -1946,7 +1845,7 @@
      "frecuencia": 0.75,
      "ventaja": 0.172,
      "detalle": "Portsmouth (en contra) 8/10 · Stoke City 7/10",
-     "valor_mercado": -0.006,
+     "valor_mercado": -0.075,
      "arbitro": "Ben Speedie",
      "arbitro_tarjetas": 2.0,
      "posiciones": [
@@ -1955,40 +1854,12 @@
       24
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.392
+     "prob_aprendida": 0.428
     }
    ],
    "combis": {
     "segura": {
      "picks": [
-      {
-       "partido_id": 1570005,
-       "fecha": "2026-11-07T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Cadiz",
-       "visitante": "Oviedo",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Cadiz–Oviedo",
-       "cuota": 1.3,
-       "frecuencia": 0.85,
-       "ventaja": 0.081,
-       "detalle": "Cadiz 8/10 · Oviedo 9/10",
-       "valor_mercado": -0.023,
-       "movimiento": -0.044,
-       "cuota_inicial": 1.36,
-       "prob_xg": 0.833,
-       "xg_esperado": 3.23,
-       "posiciones": [
-        20,
-        9,
-        22
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.893
-      },
       {
        "partido_id": 1575220,
        "fecha": "2026-11-07T15:30",
@@ -2021,12 +1892,7 @@
        ],
        "contexto": "peor_lejos_medio",
        "prob_aprendida": 0.812
-      }
-     ],
-     "cuota": 1.66
-    },
-    "cuota_3": {
-     "picks": [
+      },
       {
        "partido_id": 1552217,
        "fecha": "2026-11-07T16:30",
@@ -2050,6 +1916,40 @@
        ],
        "contexto": "mejor_abismo_medio",
        "prob_aprendida": 0.858
+      }
+     ],
+     "cuota": 1.64
+    },
+    "cuota_3": null,
+    "loca": {
+     "picks": [
+      {
+       "partido_id": 1570005,
+       "fecha": "2026-11-07T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Cadiz",
+       "visitante": "Oviedo",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Cadiz–Oviedo",
+       "cuota": 1.33,
+       "frecuencia": 0.85,
+       "ventaja": 0.098,
+       "detalle": "Cadiz 8/10 · Oviedo 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "prob_xg": 0.833,
+       "xg_esperado": 3.23,
+       "posiciones": [
+        20,
+        9,
+        22
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.832
       },
       {
        "partido_id": 1570012,
@@ -2111,37 +2011,6 @@
        "prob_aprendida": 0.785
       },
       {
-       "partido_id": 1557457,
-       "fecha": "2026-11-07T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Arsenal",
-       "visitante": "Hull City",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 0.5",
-       "tipo": "tarjetas",
-       "texto": "Arsenal ve más de 0,5 tarjetas",
-       "cuota": 1.53,
-       "frecuencia": 0.85,
-       "ventaja": 0.196,
-       "detalle": "Arsenal 9/10 · Hull City (en contra) 8/10",
-       "valor_mercado": 0.055,
-       "arbitro": "Farai Hallam",
-       "arbitro_tarjetas": 3.5,
-       "posiciones": [
-        1,
-        11,
-        20
-       ],
-       "contexto": "mejor_abismo_arriba",
-       "prob_aprendida": 0.613
-      }
-     ],
-     "cuota": 3.21
-    },
-    "loca": {
-     "picks": [
-      {
        "partido_id": 1550195,
        "fecha": "2026-11-07T15:00",
        "competicion": "Serie A",
@@ -2170,34 +2039,6 @@
        ],
        "contexto": "total_igualado_medio",
        "prob_aprendida": 0.81
-      },
-      {
-       "partido_id": 1550194,
-       "fecha": "2026-11-07T18:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Parma",
-       "visitante": "Bologna",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Parma–Bologna",
-       "cuota": 1.36,
-       "frecuencia": 0.8,
-       "ventaja": 0.065,
-       "detalle": "Parma 9/10 · Bologna 7/10",
-       "valor_mercado": -0.007,
-       "arbitro": "Luca Zufferli",
-       "arbitro_tarjetas": 2.8,
-       "prob_xg": 0.79,
-       "xg_esperado": 2.93,
-       "posiciones": [
-        15,
-        9,
-        20
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.747
       },
       {
        "partido_id": 1557463,
@@ -2264,31 +2105,6 @@
        "prob_aprendida": 0.67
       },
       {
-       "partido_id": 1557465,
-       "fecha": "2026-11-07T18:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Nottingham Forest",
-       "visitante": "Manchester City",
-       "mercado": "Offsides Away Total",
-       "opcion": "Over 0.5",
-       "tipo": "fueras de juego",
-       "texto": "Manchester City hace más de 0,5 fueras de juego",
-       "cuota": 1.5,
-       "frecuencia": 0.895,
-       "ventaja": 0.228,
-       "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
-       "arbitro": "Samuel Barrott",
-       "arbitro_tarjetas": 3.5,
-       "posiciones": [
-        19,
-        2,
-        20
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.63
-      },
-      {
        "partido_id": 1563259,
        "fecha": "2026-11-07T16:00",
        "competicion": "Championship",
@@ -2315,69 +2131,39 @@
        "prob_aprendida": 0.559
       },
       {
-       "partido_id": 1552815,
-       "fecha": "2026-11-07T21:05",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Paris Saint Germain",
-       "visitante": "Estac Troyes",
+       "partido_id": 1563257,
+       "fecha": "2026-11-07T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Portsmouth",
+       "visitante": "Stoke City",
        "mercado": "Away Corners Over/Under",
-       "opcion": "Over 2.5",
+       "opcion": "Over 4.5",
        "tipo": "corners",
-       "texto": "Estac Troyes hace más de 2,5 córners",
-       "cuota": 1.57,
-       "frecuencia": 0.895,
-       "ventaja": 0.258,
-       "detalle": "Paris Saint Germain (en contra) 9/10 · Estac Troyes 8/9",
-       "valor_mercado": 0.026,
-       "movimiento": -0.142,
-       "cuota_inicial": 1.83,
-       "arbitro": "Ruddy Buquet",
-       "arbitro_tarjetas": 4.0,
+       "texto": "Stoke City hace más de 4,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Portsmouth (en contra) 8/10 · Stoke City 7/10",
+       "valor_mercado": -0.075,
+       "arbitro": "Ben Speedie",
+       "arbitro_tarjetas": 2.0,
        "posiciones": [
-        1,
-        16,
-        18
+        10,
+        5,
+        24
        ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.393
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.428
       }
      ],
-     "cuota": 10.84
+     "cuota": 12.76
     },
     "doble": null
    },
    "estilos": {
     "500": {
      "picks": [
-      {
-       "partido_id": 1570005,
-       "fecha": "2026-11-07T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Cadiz",
-       "visitante": "Oviedo",
-       "mercado": "Goals Over/Under",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en Cadiz–Oviedo",
-       "cuota": 1.3,
-       "frecuencia": 0.85,
-       "ventaja": 0.081,
-       "detalle": "Cadiz 8/10 · Oviedo 9/10",
-       "valor_mercado": -0.023,
-       "movimiento": -0.044,
-       "cuota_inicial": 1.36,
-       "prob_xg": 0.833,
-       "xg_esperado": 3.23,
-       "posiciones": [
-        20,
-        9,
-        22
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.893
-      },
       {
        "partido_id": 1575220,
        "fecha": "2026-11-07T15:30",
@@ -2434,6 +2220,34 @@
        ],
        "contexto": "mejor_abismo_medio",
        "prob_aprendida": 0.858
+      },
+      {
+       "partido_id": 1570005,
+       "fecha": "2026-11-07T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Cadiz",
+       "visitante": "Oviedo",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Cadiz–Oviedo",
+       "cuota": 1.33,
+       "frecuencia": 0.85,
+       "ventaja": 0.098,
+       "detalle": "Cadiz 8/10 · Oviedo 9/10",
+       "valor_mercado": 0.0,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "prob_xg": 0.833,
+       "xg_esperado": 3.23,
+       "posiciones": [
+        20,
+        9,
+        22
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.832
       },
       {
        "partido_id": 1570012,
@@ -2567,7 +2381,7 @@
        "frecuencia": 0.8,
        "ventaja": 0.065,
        "detalle": "Parma 9/10 · Bologna 7/10",
-       "valor_mercado": -0.007,
+       "valor_mercado": 0.0,
        "arbitro": "Luca Zufferli",
        "arbitro_tarjetas": 2.8,
        "prob_xg": 0.79,
@@ -2578,7 +2392,7 @@
         20
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.747
+       "prob_aprendida": 0.75
       },
       {
        "partido_id": 1557463,
@@ -2618,15 +2432,20 @@
        "liga_id": 39,
        "local": "Arsenal",
        "visitante": "Hull City",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 0.5",
-       "tipo": "tarjetas",
-       "texto": "Arsenal ve más de 0,5 tarjetas",
-       "cuota": 1.53,
-       "frecuencia": 0.85,
-       "ventaja": 0.196,
-       "detalle": "Arsenal 9/10 · Hull City (en contra) 8/10",
-       "valor_mercado": 0.055,
+       "mercado": "Player Fouls Committed",
+       "opcion": "Mohamed Belloumi - 1",
+       "cuota": 1.33,
+       "frecuencia": 0.875,
+       "ventaja": 0.123,
+       "tipo": "jugador",
+       "jugador": "Mohamed Belloumi",
+       "equipo": "Hull City",
+       "jugador_id": 299923,
+       "campo": "faltas_c",
+       "n": 1,
+       "texto": "Mohamed Belloumi comete 1+ faltas",
+       "detalle": "Mohamed Belloumi 7/8",
+       "temporada": "7/8",
        "arbitro": "Farai Hallam",
        "arbitro_tarjetas": 3.5,
        "posiciones": [
@@ -2634,33 +2453,8 @@
         11,
         20
        ],
-       "contexto": "mejor_abismo_arriba",
-       "prob_aprendida": 0.613
-      },
-      {
-       "partido_id": 1557465,
-       "fecha": "2026-11-07T18:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Nottingham Forest",
-       "visitante": "Manchester City",
-       "mercado": "Offsides Away Total",
-       "opcion": "Over 0.5",
-       "tipo": "fueras de juego",
-       "texto": "Manchester City hace más de 0,5 fueras de juego",
-       "cuota": 1.5,
-       "frecuencia": 0.895,
-       "ventaja": 0.228,
-       "detalle": "Nottingham Forest (en contra) 9/10 · Manchester City 8/9",
-       "arbitro": "Samuel Barrott",
-       "arbitro_tarjetas": 3.5,
-       "posiciones": [
-        19,
-        2,
-        20
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.63
+       "contexto": "peor_abismo_arriba",
+       "prob_aprendida": 0.674
       },
       {
        "partido_id": 1575214,
@@ -2727,61 +2521,56 @@
        "prob_aprendida": 0.62
       },
       {
-       "partido_id": 1557461,
-       "fecha": "2026-11-07T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Fulham",
-       "visitante": "Newcastle",
-       "mercado": "Home Team Total Cards",
+       "partido_id": 1575543,
+       "fecha": "2026-11-07T21:30",
+       "competicion": "Primeira Liga",
+       "liga_id": 94,
+       "local": "Sporting CP",
+       "visitante": "Moreirense",
+       "mercado": "Away Corners Over/Under",
        "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Fulham ve más de 1,5 tarjetas",
-       "cuota": 1.5,
-       "frecuencia": 0.684,
-       "ventaja": 0.018,
-       "detalle": "Fulham 6/9 · Newcastle (en contra) 7/10",
-       "valor_mercado": 0.0,
-       "arbitro": "Robert Jones",
+       "tipo": "corners",
+       "texto": "Moreirense hace más de 1,5 córners",
+       "cuota": 1.62,
+       "frecuencia": 0.737,
+       "ventaja": 0.12,
+       "detalle": "Sporting CP (en contra) 8/10 · Moreirense 6/9",
+       "valor_mercado": 0.174,
+       "arbitro": "Joao Goncalves",
        "arbitro_tarjetas": 4.0,
        "posiciones": [
-        15,
-        13,
-        20
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.579
-      },
-      {
-       "partido_id": 1575213,
-       "fecha": "2026-11-07T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "RB Leipzig",
-       "visitante": "FC Augsburg",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Fabian Rieder - 1",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
-       "tipo": "jugador",
-       "jugador": "Fabian Rieder",
-       "equipo": "FC Augsburg",
-       "jugador_id": 163032,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Fabian Rieder comete 1+ faltas",
-       "detalle": "Fabian Rieder 8/10",
-       "temporada": "8/10",
-       "arbitro": "Daniel Schlager",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        4,
-        10,
+        3,
+        9,
         18
        ],
        "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.61
+       "prob_aprendida": 0.491
+      },
+      {
+       "partido_id": 1557465,
+       "fecha": "2026-11-07T18:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Nottingham Forest",
+       "visitante": "Manchester City",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Nottingham Forest ve más de 1,5 tarjetas",
+       "cuota": 1.57,
+       "frecuencia": 0.7,
+       "ventaja": 0.063,
+       "detalle": "Nottingham Forest 8/10 · Manchester City (en contra) 6/10",
+       "valor_mercado": -0.031,
+       "arbitro": "Samuel Barrott",
+       "arbitro_tarjetas": 3.5,
+       "posiciones": [
+        19,
+        2,
+        20
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.555
       },
       {
        "partido_id": 1563257,
@@ -2810,60 +2599,86 @@
        "prob_aprendida": 0.428
       },
       {
-       "partido_id": 1550188,
-       "fecha": "2026-11-07T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Cagliari",
-       "visitante": "Frosinone",
-       "mercado": "ShotOnTarget 1x2",
-       "opcion": "Away",
-       "tipo": "tiros a puerta",
-       "texto": "Frosinone hace más tiros a puerta",
-       "cuota": 1.91,
+       "partido_id": 1563259,
+       "fecha": "2026-11-07T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "QPR",
+       "visitante": "Lincoln",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "QPR ve más de 1,5 tarjetas",
+       "cuota": 1.53,
        "frecuencia": 0.75,
-       "ventaja": 0.226,
-       "detalle": "Cagliari 7/10 · Frosinone 8/10",
-       "movimiento": -0.021,
-       "cuota_inicial": 1.95,
-       "arbitro": "Giovanni Ayroldi",
-       "arbitro_tarjetas": 4.0,
+       "ventaja": 0.096,
+       "detalle": "QPR 8/10 · Lincoln (en contra) 7/10",
+       "valor_mercado": -0.159,
+       "arbitro": "Bobby Madley",
+       "arbitro_tarjetas": 2.0,
        "posiciones": [
-        12,
-        6,
-        20
+        11,
+        19,
+        24
        ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.468
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.559
       },
       {
-       "partido_id": 1575543,
-       "fecha": "2026-11-07T21:30",
-       "competicion": "Primeira Liga",
-       "liga_id": 94,
-       "local": "Sporting CP",
-       "visitante": "Moreirense",
-       "mercado": "Away Corners Over/Under",
+       "partido_id": 1557461,
+       "fecha": "2026-11-07T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Fulham",
+       "visitante": "Newcastle",
+       "mercado": "ShotOnTarget 1x2",
+       "opcion": "Home",
+       "tipo": "tiros a puerta",
+       "texto": "Fulham hace más tiros a puerta",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "Fulham 7/10 · Newcastle 6/10",
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 4.0,
+       "posiciones": [
+        15,
+        13,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.479
+      },
+      {
+       "partido_id": 1550187,
+       "fecha": "2026-11-07T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "AS Roma",
+       "visitante": "Sassuolo",
+       "mercado": "Home Team Total Cards",
        "opcion": "Over 1.5",
-       "tipo": "corners",
-       "texto": "Moreirense hace más de 1,5 córners",
-       "cuota": 1.62,
-       "frecuencia": 0.737,
-       "ventaja": 0.12,
-       "detalle": "Sporting CP (en contra) 8/10 · Moreirense 6/9",
-       "valor_mercado": 0.08,
-       "arbitro": "Joao Goncalves",
+       "tipo": "tarjetas",
+       "texto": "AS Roma ve más de 1,5 tarjetas",
+       "cuota": 2.0,
+       "frecuencia": 0.7,
+       "ventaja": 0.2,
+       "detalle": "AS Roma 7/10 · Sassuolo (en contra) 7/10",
+       "valor_mercado": -0.111,
+       "movimiento": -0.048,
+       "cuota_inicial": 2.1,
+       "arbitro": "Marco Di Bello",
        "arbitro_tarjetas": 4.0,
        "posiciones": [
         3,
-        9,
-        18
+        17,
+        20
        ],
-       "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.454
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.474
       }
      ],
-     "cuota": 506.37
+     "cuota": 646.72
     }
    },
    "combis_partido": []
@@ -3082,9 +2897,9 @@
      "visitante": "Barcelona",
      "mercado": "Away Player Shots",
      "opcion": "Lamine Yamal - 3",
-     "cuota": 1.28,
+     "cuota": 1.25,
      "frecuencia": 1.0,
-     "ventaja": 0.219,
+     "ventaja": 0.2,
      "tipo": "jugador",
      "jugador": "Lamine Yamal",
      "equipo": "Barcelona",
@@ -3094,7 +2909,7 @@
      "texto": "Lamine Yamal: 3+ tiros",
      "detalle": "Lamine Yamal 10/10",
      "temporada": "14/15",
-     "movimiento": 0.049,
+     "movimiento": 0.025,
      "cuota_inicial": 1.22,
      "posiciones": [
       2,
@@ -3102,7 +2917,7 @@
       20
      ],
      "contexto": "mejor_igualado_arriba",
-     "prob_aprendida": 0.761
+     "prob_aprendida": 0.773
     },
     {
      "partido_id": 1552222,
@@ -3132,39 +2947,6 @@
      ],
      "contexto": "peor_igualado_arriba",
      "prob_aprendida": 0.717
-    },
-    {
-     "partido_id": 1550192,
-     "fecha": "2026-11-08T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Monza",
-     "visitante": "Atalanta",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Gustavo Varela - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "tipo": "jugador",
-     "jugador": "Gustavo Varela",
-     "equipo": "Monza",
-     "jugador_id": 340547,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Gustavo Varela: 1+ tiros a puerta",
-     "detalle": "Gustavo Varela 9/10",
-     "temporada": "9/10",
-     "movimiento": 0.029,
-     "cuota_inicial": 1.4,
-     "arbitro": "Claudio Giuseppe Allegretta",
-     "arbitro_tarjetas": 1.0,
-     "posiciones": [
-      18,
-      13,
-      20
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.691
     },
     {
      "partido_id": 1557462,
@@ -3262,35 +3044,28 @@
      "prob_aprendida": 0.672
     },
     {
-     "partido_id": 1575216,
-     "fecha": "2026-11-08T17:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SC Freiburg",
-     "visitante": "Union Berlin",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Zeno Van Den Bosch - 1",
-     "cuota": 1.33,
-     "frecuencia": 0.875,
-     "ventaja": 0.123,
-     "tipo": "jugador",
-     "jugador": "Zeno Van Den Bosch",
-     "equipo": "Union Berlin",
-     "jugador_id": 303679,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Zeno Van Den Bosch comete 1+ faltas",
-     "detalle": "Zeno Van Den Bosch 7/8",
-     "temporada": "7/8",
-     "arbitro": "Sascha Stegemann",
-     "arbitro_tarjetas": 3.0,
+     "partido_id": 1552221,
+     "fecha": "2026-11-08T12:15",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Heerenveen",
+     "visitante": "Feyenoord",
+     "mercado": "Home Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Heerenveen hace más de 3,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
+     "valor_mercado": 0.08,
      "posiciones": [
-      3,
-      16,
+      7,
+      1,
       18
      ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.638
+     "contexto": "peor_lejos_arriba",
+     "prob_aprendida": 0.548
     },
     {
      "partido_id": 1575215,
@@ -3355,59 +3130,6 @@
      "prob_aprendida": 0.612
     },
     {
-     "partido_id": 1570449,
-     "fecha": "2026-11-08T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Real Sociedad",
-     "visitante": "Rayo Vallecano",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Jorge De Frutos - 1",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "ventaja": 0.057,
-     "tipo": "jugador",
-     "jugador": "Jorge De Frutos",
-     "equipo": "Rayo Vallecano",
-     "jugador_id": 128582,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Jorge De Frutos comete 1+ faltas",
-     "detalle": "Jorge De Frutos 6/7",
-     "temporada": "6/7",
-     "posiciones": [
-      5,
-      12,
-      20
-     ],
-     "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.613
-    },
-    {
-     "partido_id": 1552221,
-     "fecha": "2026-11-08T12:15",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Heerenveen",
-     "visitante": "Feyenoord",
-     "mercado": "Home Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Heerenveen hace más de 3,5 córners",
-     "cuota": 1.62,
-     "frecuencia": 0.75,
-     "ventaja": 0.133,
-     "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
-     "valor_mercado": 0.032,
-     "posiciones": [
-      7,
-      1,
-      18
-     ],
-     "contexto": "peor_lejos_arriba",
-     "prob_aprendida": 0.529
-    },
-    {
      "partido_id": 1552812,
      "fecha": "2026-11-08T17:15",
      "competicion": "Ligue 1",
@@ -3430,6 +3152,8 @@
      "temporada": "8/9",
      "movimiento": -0.067,
      "cuota_inicial": 1.5,
+     "arbitro": "Jeremy Stinat",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       10,
       3,
@@ -3490,6 +3214,8 @@
      "temporada": "8/9",
      "movimiento": 0.195,
      "cuota_inicial": 1.28,
+     "arbitro": "Jeremy Stinat",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       10,
       3,
@@ -3623,31 +3349,6 @@
      "prob_aprendida": 0.563
     },
     {
-     "partido_id": 1557466,
-     "fecha": "2026-11-08T15:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Sunderland",
-     "visitante": "Chelsea",
-     "mercado": "Offsides Total",
-     "opcion": "Over 2.5",
-     "tipo": "fueras de juego",
-     "texto": "Más de 2,5 fueras de juego en Sunderland–Chelsea",
-     "cuota": 1.67,
-     "frecuencia": 0.778,
-     "ventaja": 0.179,
-     "detalle": "Sunderland 7/9 · Chelsea 7/9",
-     "arbitro": "Jarred Gillett",
-     "arbitro_tarjetas": 5.0,
-     "posiciones": [
-      20,
-      4,
-      20
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.498
-    },
-    {
      "partido_id": 1575219,
      "fecha": "2026-11-08T15:30",
      "competicion": "Bundesliga",
@@ -3677,35 +3378,6 @@
      ],
      "contexto": "mejor_lejos_medio",
      "prob_aprendida": 0.491
-    },
-    {
-     "partido_id": 1570443,
-     "fecha": "2026-11-08T21:00",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Atletico Madrid",
-     "visitante": "Barcelona",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Marc Pubill - 1",
-     "cuota": 1.36,
-     "frecuencia": 0.8,
-     "ventaja": 0.065,
-     "tipo": "jugador",
-     "jugador": "Marc Pubill",
-     "equipo": "Atletico Madrid",
-     "jugador_id": 295793,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Marc Pubill comete 1+ faltas",
-     "detalle": "Marc Pubill 8/10",
-     "temporada": "8/10",
-     "posiciones": [
-      2,
-      1,
-      20
-     ],
-     "contexto": "peor_igualado_arriba",
-     "prob_aprendida": 0.543
     },
     {
      "partido_id": 1557462,
@@ -3759,6 +3431,8 @@
      "texto": "Radu Dragusin comete 1+ faltas",
      "detalle": "Radu Dragusin 8/10",
      "temporada": "9/11",
+     "arbitro": "Andrea Colombo",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       16,
       7,
@@ -3859,37 +3533,6 @@
      ],
      "contexto": "peor_lejos_medio",
      "prob_aprendida": 0.476
-    },
-    {
-     "partido_id": 1575216,
-     "fecha": "2026-11-08T17:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SC Freiburg",
-     "visitante": "Union Berlin",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Jordy Makengo - 1",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "tipo": "jugador",
-     "jugador": "Jordy Makengo",
-     "equipo": "SC Freiburg",
-     "jugador_id": 191160,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Jordy Makengo comete 1+ faltas",
-     "detalle": "Jordy Makengo 8/10",
-     "temporada": "9/12",
-     "arbitro": "Sascha Stegemann",
-     "arbitro_tarjetas": 3.0,
-     "posiciones": [
-      3,
-      16,
-      18
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.449
     },
     {
      "partido_id": 1575215,
@@ -4164,9 +3807,9 @@
      "visitante": "Barcelona",
      "mercado": "Away Player Shots",
      "opcion": "Lamine Yamal - 3",
-     "cuota": 1.28,
+     "cuota": 1.25,
      "frecuencia": 1.0,
-     "ventaja": 0.219,
+     "ventaja": 0.2,
      "tipo": "jugador",
      "jugador": "Lamine Yamal",
      "equipo": "Barcelona",
@@ -4176,7 +3819,7 @@
      "texto": "Lamine Yamal: 3+ tiros",
      "detalle": "Lamine Yamal 10/10",
      "temporada": "14/15",
-     "movimiento": 0.049,
+     "movimiento": 0.025,
      "cuota_inicial": 1.22,
      "posiciones": [
       2,
@@ -4184,40 +3827,7 @@
       20
      ],
      "contexto": "mejor_igualado_arriba",
-     "prob_aprendida": 0.761
-    },
-    {
-     "partido_id": 1550192,
-     "fecha": "2026-11-08T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Monza",
-     "visitante": "Atalanta",
-     "mercado": "Home Player Shots On Target Total",
-     "opcion": "Gustavo Varela - 1",
-     "cuota": 1.44,
-     "frecuencia": 0.9,
-     "ventaja": 0.206,
-     "tipo": "jugador",
-     "jugador": "Gustavo Varela",
-     "equipo": "Monza",
-     "jugador_id": 340547,
-     "campo": "a_puerta",
-     "n": 1,
-     "texto": "Gustavo Varela: 1+ tiros a puerta",
-     "detalle": "Gustavo Varela 9/10",
-     "temporada": "9/10",
-     "movimiento": 0.029,
-     "cuota_inicial": 1.4,
-     "arbitro": "Claudio Giuseppe Allegretta",
-     "arbitro_tarjetas": 1.0,
-     "posiciones": [
-      18,
-      13,
-      20
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.691
+     "prob_aprendida": 0.773
     },
     {
      "partido_id": 1557462,
@@ -4315,35 +3925,28 @@
      "prob_aprendida": 0.672
     },
     {
-     "partido_id": 1575216,
-     "fecha": "2026-11-08T17:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SC Freiburg",
-     "visitante": "Union Berlin",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Zeno Van Den Bosch - 1",
-     "cuota": 1.33,
-     "frecuencia": 0.875,
-     "ventaja": 0.123,
-     "tipo": "jugador",
-     "jugador": "Zeno Van Den Bosch",
-     "equipo": "Union Berlin",
-     "jugador_id": 303679,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Zeno Van Den Bosch comete 1+ faltas",
-     "detalle": "Zeno Van Den Bosch 7/8",
-     "temporada": "7/8",
-     "arbitro": "Sascha Stegemann",
-     "arbitro_tarjetas": 3.0,
+     "partido_id": 1552221,
+     "fecha": "2026-11-08T12:15",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Heerenveen",
+     "visitante": "Feyenoord",
+     "mercado": "Home Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Heerenveen hace más de 3,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
+     "valor_mercado": 0.08,
      "posiciones": [
-      3,
-      16,
+      7,
+      1,
       18
      ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.638
+     "contexto": "peor_lejos_arriba",
+     "prob_aprendida": 0.548
     },
     {
      "partido_id": 1575215,
@@ -4377,59 +3980,6 @@
      "prob_aprendida": 0.621
     },
     {
-     "partido_id": 1570449,
-     "fecha": "2026-11-08T16:15",
-     "competicion": "LaLiga",
-     "liga_id": 140,
-     "local": "Real Sociedad",
-     "visitante": "Rayo Vallecano",
-     "mercado": "Player Fouls Committed",
-     "opcion": "Jorge De Frutos - 1",
-     "cuota": 1.25,
-     "frecuencia": 0.857,
-     "ventaja": 0.057,
-     "tipo": "jugador",
-     "jugador": "Jorge De Frutos",
-     "equipo": "Rayo Vallecano",
-     "jugador_id": 128582,
-     "campo": "faltas_c",
-     "n": 1,
-     "texto": "Jorge De Frutos comete 1+ faltas",
-     "detalle": "Jorge De Frutos 6/7",
-     "temporada": "6/7",
-     "posiciones": [
-      5,
-      12,
-      20
-     ],
-     "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.613
-    },
-    {
-     "partido_id": 1552221,
-     "fecha": "2026-11-08T12:15",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Heerenveen",
-     "visitante": "Feyenoord",
-     "mercado": "Home Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Heerenveen hace más de 3,5 córners",
-     "cuota": 1.62,
-     "frecuencia": 0.75,
-     "ventaja": 0.133,
-     "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
-     "valor_mercado": 0.032,
-     "posiciones": [
-      7,
-      1,
-      18
-     ],
-     "contexto": "peor_lejos_arriba",
-     "prob_aprendida": 0.529
-    },
-    {
      "partido_id": 1552812,
      "fecha": "2026-11-08T17:15",
      "competicion": "Ligue 1",
@@ -4452,6 +4002,8 @@
      "temporada": "8/9",
      "movimiento": -0.067,
      "cuota_inicial": 1.5,
+     "arbitro": "Jeremy Stinat",
+     "arbitro_tarjetas": 3.7,
      "posiciones": [
       10,
       3,
@@ -4541,6 +4093,8 @@
      "texto": "Radu Dragusin comete 1+ faltas",
      "detalle": "Radu Dragusin 8/10",
      "temporada": "9/11",
+     "arbitro": "Andrea Colombo",
+     "arbitro_tarjetas": 4.0,
      "posiciones": [
       16,
       7,
@@ -4579,6 +4133,32 @@
      ],
      "contexto": "peor_lejos_medio",
      "prob_aprendida": 0.516
+    },
+    {
+     "partido_id": 1575216,
+     "fecha": "2026-11-08T17:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Freiburg",
+     "visitante": "Union Berlin",
+     "mercado": "Cards Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "tarjetas",
+     "texto": "Más de 3,5 tarjetas en SC Freiburg–Union Berlin",
+     "cuota": 1.73,
+     "frecuencia": 0.85,
+     "ventaja": 0.272,
+     "detalle": "SC Freiburg 8/10 · Union Berlin 9/10",
+     "valor_mercado": 0.0,
+     "arbitro": "Sascha Stegemann",
+     "arbitro_tarjetas": 3.0,
+     "posiciones": [
+      3,
+      16,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.391
     }
    ],
    "combis": {
@@ -4719,19 +4299,23 @@
        "frecuencia": 0.75,
        "ventaja": 0.133,
        "detalle": "Heerenveen 8/10 · Feyenoord (en contra) 7/10",
-       "valor_mercado": 0.032,
+       "valor_mercado": 0.08,
        "posiciones": [
         7,
         1,
         18
        ],
        "contexto": "peor_lejos_arriba",
-       "prob_aprendida": 0.529
+       "prob_aprendida": 0.548
       }
      ],
      "cuota": 3.02
     },
-    "loca": {
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
      "picks": [
       {
        "partido_id": 1575537,
@@ -4820,134 +4404,13 @@
        ],
        "contexto": "total_lejos_medio",
        "prob_aprendida": 0.751
-      },
-      {
-       "partido_id": 1570443,
-       "fecha": "2026-11-08T21:00",
-       "competicion": "LaLiga",
-       "liga_id": 140,
-       "local": "Atletico Madrid",
-       "visitante": "Barcelona",
-       "mercado": "Away Player Shots",
-       "opcion": "Lamine Yamal - 3",
-       "cuota": 1.28,
-       "frecuencia": 1.0,
-       "ventaja": 0.219,
-       "tipo": "jugador",
-       "jugador": "Lamine Yamal",
-       "equipo": "Barcelona",
-       "jugador_id": 386828,
-       "campo": "tiros",
-       "n": 3,
-       "texto": "Lamine Yamal: 3+ tiros",
-       "detalle": "Lamine Yamal 10/10",
-       "temporada": "14/15",
-       "movimiento": 0.049,
-       "cuota_inicial": 1.22,
-       "posiciones": [
-        2,
-        1,
-        20
-       ],
-       "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.761
-      },
-      {
-       "partido_id": 1550192,
-       "fecha": "2026-11-08T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Monza",
-       "visitante": "Atalanta",
-       "mercado": "Home Player Shots On Target Total",
-       "opcion": "Gustavo Varela - 1",
-       "cuota": 1.44,
-       "frecuencia": 0.9,
-       "ventaja": 0.206,
-       "tipo": "jugador",
-       "jugador": "Gustavo Varela",
-       "equipo": "Monza",
-       "jugador_id": 340547,
-       "campo": "a_puerta",
-       "n": 1,
-       "texto": "Gustavo Varela: 1+ tiros a puerta",
-       "detalle": "Gustavo Varela 9/10",
-       "temporada": "9/10",
-       "movimiento": 0.029,
-       "cuota_inicial": 1.4,
-       "arbitro": "Claudio Giuseppe Allegretta",
-       "arbitro_tarjetas": 1.0,
-       "posiciones": [
-        18,
-        13,
-        20
-       ],
-       "contexto": "peor_lejos_abajo",
-       "prob_aprendida": 0.691
-      },
-      {
-       "partido_id": 1557462,
-       "fecha": "2026-11-08T15:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Ipswich",
-       "visitante": "Bournemouth",
-       "mercado": "Player Fouls Committed",
-       "opcion": "James Hill - 1",
-       "cuota": 1.3,
-       "frecuencia": 0.8,
-       "ventaja": 0.031,
-       "tipo": "jugador",
-       "jugador": "James Hill",
-       "equipo": "Bournemouth",
-       "jugador_id": 20093,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "James Hill comete 1+ faltas",
-       "detalle": "James Hill 8/10",
-       "temporada": "11/13",
-       "arbitro": "Simon Hooper",
-       "arbitro_tarjetas": 3.5,
-       "posiciones": [
-        14,
-        8,
-        20
-       ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.703
-      },
-      {
-       "partido_id": 1575216,
-       "fecha": "2026-11-08T17:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "SC Freiburg",
-       "visitante": "Union Berlin",
-       "mercado": "Cards Over/Under",
-       "opcion": "Over 3.5",
-       "tipo": "tarjetas",
-       "texto": "Más de 3,5 tarjetas en SC Freiburg–Union Berlin",
-       "cuota": 1.73,
-       "frecuencia": 0.85,
-       "ventaja": 0.272,
-       "detalle": "SC Freiburg 8/10 · Union Berlin 9/10",
-       "valor_mercado": 0.0,
-       "arbitro": "Sascha Stegemann",
-       "arbitro_tarjetas": 3.0,
-       "posiciones": [
-        3,
-        16,
-        18
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.391
       }
      ],
-     "cuota": 8.81
-    },
-    "doble": null
+     "cuota": 2.12,
+     "titulo": "🛡️ DOMINGO DE SEGUROS",
+     "tema": "seguros"
+    }
    },
-   "estilos": {},
    "combis_partido": []
   }
  }
