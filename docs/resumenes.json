@@ -1169,17 +1169,17 @@
     "total": 8,
     "cuentas": {
       "verde": 0,
-      "rojo": 1,
+      "rojo": 3,
       "pendiente": 5,
-      "sin_datos": 2,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 5
     },
     "combis": [
       {
         "id": "2026-11-06-ganadores-win",
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1209,7 +1209,7 @@
       {
         "id": "2026-11-06-combi-loca",
         "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL VIERNES x6,23! 🤪",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 6.23
       },
       {
@@ -1226,10 +1226,10 @@
       }
     ],
     "picks": {
-      "verde": 2,
-      "rojo": 2,
+      "verde": 5,
+      "rojo": 4,
       "total": 39
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 1 EN VERDE 📊\n\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n❌ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS ≈x15,24! 🍀 · pendiente\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL VIERNES x6,23! 🤪 · 6,23 · faltan datos\n⏳ ✅ COMBI LOCAS | LALIGA · 4,30 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 6,57 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 3 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x2,10 🍀 · 2,10 · pendiente\n❌ 📊 RESULTADO · LOS PICKS DE LA SEMANA: 9 DE 13! 🏆\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL VIERNES x2,96! 🍀 · 2,96 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS ≈x15,24! 🍀 · pendiente\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL VIERNES x6,23! 🤪 · 6,23\n⏳ ✅ COMBI LOCAS | LALIGA · 4,30 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 6,57 · pendiente\n\n✅ 0 acertadas · ❌ 3 falladas · ⏳ 5 sin resolver"
   }
 }
