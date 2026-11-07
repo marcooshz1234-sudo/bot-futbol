@@ -2686,7 +2686,7 @@
       1.62,
       1.62,
       1.5,
-      1.65
+      1.8
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -2742,7 +2742,8 @@
           "pick": "WIN"
         }
       ]
-    }
+    },
+    "cuotas_revisadas": "2026-11-07T08:46"
   },
   {
     "id": "2026-11-07-pick-seguro",
