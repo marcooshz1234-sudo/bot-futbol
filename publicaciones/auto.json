@@ -3002,7 +3002,7 @@
   {
     "id": "2026-11-07-combi-partido-1570005",
     "fecha": "2026-11-07T15:15",
-    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 CADIZ vs OVIEDO 🇪🇸\n\n🎯 GOL EN LA 2ª PARTE [x1.25]\n✅ CADIZ HACE 8+ TIROS [x1.28]\n✅ CADIZ HACE 3+ CÓRNERS [x1.28]\n✅ GANA EL OVIEDO [x2.50]\n\n🔥 Resultado probable: 1-2 | 0-1 | 0-2\n💥 Cuota total aprox.: 3,72\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 CADIZ vs OVIEDO 🇪🇸\n\n🎯 GOL EN LA 2ª PARTE [x1.25]\n✅ CADIZ HACE 8+ TIROS [x1.28]\n✅ CADIZ HACE 3+ CÓRNERS [x1.28]\n✅ GANA EL OVIEDO [x2.40]\n\n🔥 Resultado probable: 1-2 | 0-1 | 0-2\n💥 Cuota total aprox.: 3,57\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3016,7 +3016,7 @@
       1.25,
       1.28,
       1.28,
-      2.5
+      2.4
     ],
     "tarjeta": {
       "local": "Cadiz",
@@ -3027,7 +3027,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/718.png",
       "fecha": "2026-11-07T16:15",
       "liga": "Segunda"
-    }
+    },
+    "cuotas_revisadas": "2026-11-07T13:48"
   },
   {
     "id": "2026-11-07-estrella-1557457",
