@@ -3170,6 +3170,56 @@
     }
   },
   {
+    "id": "2026-11-05-ganadores-conference",
+    "fecha": "2026-11-05T11:52",
+    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇮🇹 Atalanta - Gana\n2. 🇷🇸 Estrella Roja - Gana\n3. 🇵🇹 Braga - Gana\n4. 🇭🇷 Hajduk Split - Gana\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Gana\n6. 🇩🇰 Copenhague - Gana\n7. 🇫🇷 Mónaco - Gana\n8. 🇬🇷 Panathinaikos - Gana\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1636383|Match Winner|Home",
+      "1636399|Match Winner|Home",
+      "1636376|Match Winner|Away",
+      "1636444|Match Winner|Away",
+      "1636416|Match Winner|Away",
+      "1636408|Match Winner|Home",
+      "1636456|Match Winner|Home",
+      "1636465|Match Winner|Home"
+    ],
+    "nota": "05/11 04:34: Marcos «súbelos, solo a Threads» (formato ganadores con escudos, plantilla oro) · 04:35 Marcos «así no»: en pausa hasta arreglar la foto · 04:37: logo completo (C y E rellenadas), vuelve a las 14:00 · 04:37 Marcos «la de Conference a las 10» · 11:52: no salió a las 10 (el cambio de hora se perdió al fusionar la cola); sale ya",
+    "redes": {
+      "threads": "18112736174225147"
+    }
+  },
+  {
+    "id": "2026-11-05-ganadores-conference-bis",
+    "fecha": "2026-11-05T12:15",
+    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇮🇹 Atalanta - Win\n2. 🇷🇸 Estrella Roja - Win\n3. 🇵🇹 Braga - Win\n4. 🇭🇷 Hajduk Split - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n6. 🇩🇰 Copenhague - Win\n7. 🇫🇷 Mónaco - Win\n8. 🇬🇷 Panathinaikos - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1636383|Match Winner|Home",
+      "1636399|Match Winner|Home",
+      "1636376|Match Winner|Away",
+      "1636444|Match Winner|Away",
+      "1636416|Match Winner|Away",
+      "1636408|Match Winner|Home",
+      "1636456|Match Winner|Home",
+      "1636465|Match Winner|Home"
+    ],
+    "nota": "05/11 12:15: Marcos borró la de las 11:52 (ponía GANA); de nuevo con WIN",
+    "redes": {
+      "threads": "18132183457763078"
+    }
+  },
+  {
     "id": "2026-11-05-ambos-marcan-18",
     "fecha": "2026-11-05T13:00",
     "texto": "⚽🔥 AMBOS MARCAN · 18 PARTIDOS · COMBILOCAS 🍀\n\n🏆 EUROPA LEAGUE\n🇪🇸 Real Sociedad–Lyon\n🇮🇹 Milan–Ferencváros\n🇳🇱 NEC–Omonia\n🇳🇴 Lillestrøm–Plzeň\n🇪🇸 Celta–Union SG\n🇵🇹 Torreense–Ararat\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland–Dinamo\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic–Beşiktaş\n\n🏆 CONFERENCE\n🇨🇭 Thun–Hearts\n🇩🇰 Midtjylland–Ajax\n🇬🇮 Lincoln–Hajduk\n🇹🇷 Trabzonspor–Friburgo\n🇧🇪 St. Truiden–Brann\n🇨🇭 Lugano–Kauno\n🇫🇷 Mónaco–Nordsjælland\n🇬🇷 Panathinaikos–CSKA\n🇳🇱 Twente–Pafos\n🇷🇴 Craiova–Egnatia\n\n🎯 CUOTA APROX. 8.462 🚀\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -3223,56 +3273,6 @@
       "instagram_reel": null,
       "threads": "18120499670069917",
       "instagram": "17905918539600160"
-    }
-  },
-  {
-    "id": "2026-11-05-ganadores-conference",
-    "fecha": "2026-11-05T11:52",
-    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇮🇹 Atalanta - Gana\n2. 🇷🇸 Estrella Roja - Gana\n3. 🇵🇹 Braga - Gana\n4. 🇭🇷 Hajduk Split - Gana\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Gana\n6. 🇩🇰 Copenhague - Gana\n7. 🇫🇷 Mónaco - Gana\n8. 🇬🇷 Panathinaikos - Gana\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "sin_instagram": true,
-    "forzar": true,
-    "sel": [
-      "1636383|Match Winner|Home",
-      "1636399|Match Winner|Home",
-      "1636376|Match Winner|Away",
-      "1636444|Match Winner|Away",
-      "1636416|Match Winner|Away",
-      "1636408|Match Winner|Home",
-      "1636456|Match Winner|Home",
-      "1636465|Match Winner|Home"
-    ],
-    "nota": "05/11 04:34: Marcos «súbelos, solo a Threads» (formato ganadores con escudos, plantilla oro) · 04:35 Marcos «así no»: en pausa hasta arreglar la foto · 04:37: logo completo (C y E rellenadas), vuelve a las 14:00 · 04:37 Marcos «la de Conference a las 10» · 11:52: no salió a las 10 (el cambio de hora se perdió al fusionar la cola); sale ya",
-    "redes": {
-      "threads": "18112736174225147"
-    }
-  },
-  {
-    "id": "2026-11-05-ganadores-conference-bis",
-    "fecha": "2026-11-05T12:15",
-    "texto": "🏆 CONFERENCE LEAGUE - GANADORES\n\n1. 🇮🇹 Atalanta - Win\n2. 🇷🇸 Estrella Roja - Win\n3. 🇵🇹 Braga - Win\n4. 🇭🇷 Hajduk Split - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n6. 🇩🇰 Copenhague - Win\n7. 🇫🇷 Mónaco - Win\n8. 🇬🇷 Panathinaikos - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "sin_instagram": true,
-    "forzar": true,
-    "sel": [
-      "1636383|Match Winner|Home",
-      "1636399|Match Winner|Home",
-      "1636376|Match Winner|Away",
-      "1636444|Match Winner|Away",
-      "1636416|Match Winner|Away",
-      "1636408|Match Winner|Home",
-      "1636456|Match Winner|Home",
-      "1636465|Match Winner|Home"
-    ],
-    "nota": "05/11 12:15: Marcos borró la de las 11:52 (ponía GANA); de nuevo con WIN",
-    "redes": {
-      "threads": "18132183457763078"
     }
   },
   {
@@ -3566,6 +3566,28 @@
     },
     "redes": {
       "threads": "18158502751493750"
+    }
+  },
+  {
+    "id": "2026-11-07-verde-auto-2026-11-07-combi-partido-1575212",
+    "fecha": "2026-11-07T17:43",
+    "texto": "✅💚 ¡VERDE x5,35! COMBI LOCAS · BORUSSIA DORTMUND vs SV ELVERSBERG 💚✅\n\n✅ Gana el Borussia Dortmund\n✅ Ambos ven tarjeta en Borussia Dortmund–SV Elversberg\n✅ SV Elversberg hace más de 2,5 córners\n✅ Más de 1,5 goles en la 2ª parte del Borussia Dortmund–SV Elversberg\n✅ Ambos marcan en Borussia Dortmund–SV Elversberg\n\n🎯 Cuota 5,35\n💶 10€ → 53,50€\n\n¿Quién la llevaba? 👇💚",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-07-combi-partido-1575212",
+    "enviado": "2026-11-07T17:44",
+    "mensaje_id": 340,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18093646055294346",
+      "threads_enlace": "18111239339218698"
+    },
+    "errores_redes": {
+      "instagram": "contenedor ERROR: ERROR",
+      "instagram_story": "400: Only photo or video can be accepted as media type."
     }
   },
   {

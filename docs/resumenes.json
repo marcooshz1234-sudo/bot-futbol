@@ -1236,12 +1236,12 @@
     "dia": "2026-11-07",
     "total": 13,
     "cuentas": {
-      "verde": 0,
+      "verde": 1,
       "rojo": 2,
       "pendiente": 8,
-      "sin_datos": 3,
+      "sin_datos": 2,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 10
     },
     "combis": [
       {
@@ -1283,7 +1283,7 @@
       {
         "id": "2026-11-07-combi-partido-1575212",
         "titulo": "✅ COMBI LOCAS | BUNDESLIGA",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 5.35
       },
       {
@@ -1324,10 +1324,10 @@
       }
     ],
     "picks": {
-      "verde": 15,
+      "verde": 22,
       "rojo": 3,
       "total": 73
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 2 EN VERDE 📊\n\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80\n❔ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38 · faltan datos\n❌ ✅ COMBI LOCAS | PREMIER · 5,20\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,39! 🍀 · 3,39 · pendiente\n❔ ✅ COMBI LOCAS | BUNDESLIGA · 5,35 · faltan datos\n⏳ ✅ COMBI LOCAS | PREMIER · 3,95 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x26,39! 🍀 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 5,50 · pendiente\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,57 · pendiente\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ARSENAL 🆚 HULL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,07 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x6,25! 🤪 · 6,25 · pendiente\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 1 DE 3 EN VERDE 📊\n\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80\n❔ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38 · faltan datos\n❌ ✅ COMBI LOCAS | PREMIER · 5,20\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,39! 🍀 · 3,39 · pendiente\n✅ ✅ COMBI LOCAS | BUNDESLIGA · 5,35\n⏳ ✅ COMBI LOCAS | PREMIER · 3,95 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x26,39! 🍀 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 5,50 · pendiente\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,57 · pendiente\n⏳ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ARSENAL 🆚 HULL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,07 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x6,25! 🤪 · 6,25 · pendiente\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 10 sin resolver"
   }
 }
