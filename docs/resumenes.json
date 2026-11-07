@@ -1234,14 +1234,14 @@
   },
   "2026-11-07": {
     "dia": "2026-11-07",
-    "total": 17,
+    "total": 18,
     "cuentas": {
-      "verde": 3,
+      "verde": 2,
       "rojo": 8,
-      "pendiente": 3,
-      "sin_datos": 3,
+      "pendiente": 4,
+      "sin_datos": 4,
       "no_jugo": 0,
-      "sin_resolver": 6
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -1253,7 +1253,7 @@
       {
         "id": "2026-11-07-pick-seguro",
         "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": 1.5
       },
       {
@@ -1345,13 +1345,19 @@
         "titulo": "✅ COMBI LOCAS | LALIGA",
         "estado": "pendiente",
         "cuota": 6.85
+      },
+      {
+        "id": "2026-11-07-combi-partido-1552815",
+        "titulo": "✅ COMBI LOCAS | LIGUE 1",
+        "estado": "pendiente",
+        "cuota": 4.94
       }
     ],
     "picks": {
-      "verde": 37,
+      "verde": 36,
       "rojo": 16,
-      "total": 88
+      "total": 91
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 11 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80\n❌ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38\n❌ ✅ COMBI LOCAS | PREMIER · 5,20\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,39! 🍀 · 3,39\n✅ ✅ COMBI LOCAS | BUNDESLIGA · 5,35\n❌ ✅ COMBI LOCAS | PREMIER · 3,95\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x26,39! 🍀\n❌ ✅ COMBI LOCAS | PREMIER · 5,50\n✅ ✅ COMBI LOCAS | SEGUNDA · 3,57\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ARSENAL 🆚 HULL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,07\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x6,25! 🤪 · 6,25 · faltan datos\n❔ ✅ COMBI LOCAS | LALIGA · 5,42 · faltan datos\n❔ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 NOTTINGHAM FOREST 🆚 MANCHESTER CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,59 · faltan datos\n⏳ ✅ COMBI LOCAS | SERIE A · 5,50 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 6,85 · pendiente\n\n✅ 3 acertadas · ❌ 8 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 2 DE 10 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n❔ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · faltan datos\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80\n❌ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38\n❌ ✅ COMBI LOCAS | PREMIER · 5,20\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,39! 🍀 · 3,39\n✅ ✅ COMBI LOCAS | BUNDESLIGA · 5,35\n❌ ✅ COMBI LOCAS | PREMIER · 3,95\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x26,39! 🍀\n❌ ✅ COMBI LOCAS | PREMIER · 5,50\n✅ ✅ COMBI LOCAS | SEGUNDA · 3,57\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ARSENAL 🆚 HULL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,07\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL SÁBADO x6,25! 🤪 · 6,25 · faltan datos\n❔ ✅ COMBI LOCAS | LALIGA · 5,42 · faltan datos\n❔ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 NOTTINGHAM FOREST 🆚 MANCHESTER CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,59 · faltan datos\n⏳ ✅ COMBI LOCAS | SERIE A · 5,50 · pendiente\n⏳ ✅ COMBI LOCAS | LALIGA · 6,85 · pendiente\n⏳ ✅ COMBI LOCAS | LIGUE 1 · 4,94 · pendiente\n\n✅ 2 acertadas · ❌ 8 falladas · ⏳ 8 sin resolver"
   }
 }
