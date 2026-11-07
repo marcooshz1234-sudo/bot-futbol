@@ -907,10 +907,11 @@
   "redes": {
    "instagram_reel": null,
    "instagram": "18108740234339553",
-   "instagram_story": "17910742743570169"
+   "instagram_story": "17910742743570169",
+   "threads": null
   },
   "errores_redes": {
-   "threads": "735 caracteres (máx. 500)"
+   "threads": "caducado: no salió a tiempo"
   }
  }
 }
