@@ -1,10 +1,10 @@
 # Auxerre – Paris FC
 **Ligue 1** · Regular Season - 10 · 07/11/2026 19:00 (hora España) · Stade de l'Abbé-Deschamps
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **4.33**  ·  X **4.00**  ·  2 **1.75**
 - **Doble oportunidad:** 1X **2.00**  ·  12 **1.22**  ·  X2 **1.20**
@@ -30,7 +30,7 @@ _Actualizadas: 06/11 19:58_
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.90** · menos **1.90**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.00** · menos **1.73**
@@ -210,7 +210,7 @@ _Goles esperados: local 1,03 · visitante 2,21 · córners esperados 9,3._
 | 1X2: 2 | 64% | 54% | 59% | 1.75 | +4% |
 | 1X2: X | 19% | 24% | 22% | 4.00 | -14% |
 | 1X2: 1 | 16% | 22% | 19% | 4.33 | -17% |
-| Doble oportunidad: X2 | 84% | 77% | 81% | 1.20 | -3% |
+| Doble oportunidad: X2 | 84% | 77% | 80% | 1.20 | -3% |
 | Doble oportunidad: 12 | 81% | 76% | 78% | 1.22 | -4% |
 | Doble oportunidad: 1X | 36% | 46% | 41% | 2.00 | -18% |
 | Ambos marcan: No | 43% | 44% | 44% | 2.10 | -9% |
@@ -218,23 +218,23 @@ _Goles esperados: local 1,03 · visitante 2,21 · córners esperados 9,3._
 | Goles más/menos: Más de 1.5 | 83% | 78% | 81% | 1.22 | -2% |
 | Goles más/menos: Más de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
 | Goles más/menos: Más de 3.5 | 41% | 34% | 38% | 2.75 | +3% |
-| Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -16% |
+| Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.10 | -14% |
 | Goles más/menos: Menos de 3.5 | 59% | 66% | 62% | 1.44 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 72% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 38% | 39% | 2.50 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
 | Goles del local: Más de 0.5 | 64% | 65% | 64% | 1.44 | -7% |
-| Goles del local: Más de 1.5 | 27% | 29% | 28% | 3.25 | -8% |
+| Goles del local: Más de 1.5 | 28% | 29% | 28% | 3.25 | -8% |
 | Goles del local: Menos de 0.5 | 36% | 35% | 36% | 2.62 | -7% |
-| Goles del local: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -5% |
+| Goles del local: Menos de 1.5 | 72% | 71% | 72% | 1.33 | -5% |
 | Goles del visitante: Más de 1.5 | 65% | 54% | 59% | 1.73 | +2% |
 | Goles del visitante: Más de 2.5 ✅ | 38% | 28% | 33% | 3.40 | +12% |
 | Goles del visitante: Menos de 1.5 | 35% | 46% | 41% | 2.00 | -18% |
 | Goles del visitante: Menos de 2.5 | 62% | 72% | 67% | 1.30 | -13% |
-| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.90 | -11% |
+| Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.90 | +1% |
 | 1X2 descanso: 2 | 47% | 40% | 44% | 2.30 | +1% |
 | 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -11% |
 | 1X2 descanso: 1 | 17% | 21% | 19% | 4.50 | -16% |

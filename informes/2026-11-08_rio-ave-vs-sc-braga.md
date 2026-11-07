@@ -1,10 +1,10 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España) · Estádio dos Arcos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:04_
 
 - **1X2:** 1 **6.00**  ·  X **4.10**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.12**
@@ -20,6 +20,14 @@ _Actualizadas: 06/11 19:59_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.33** · menos **1.20**
+- **Goles del visitante:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.38**  ·  2 **2.05**
@@ -180,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | D. Huseinbašić | M | 9 | 313 | 0 | 0 | 9 | 1,0 | 3 | 0,3 | 8 | 4 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,51 · visitante 1,62 · córners esperados 9,3._
+_Goles esperados: local 0,51 · visitante 1,61 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -195,15 +203,23 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 68% | 50% | 59% | 1.91 | +13% |
 | Ambos marcan: Sí | 32% | 50% | 41% | 1.91 | -22% |
 | Goles más/menos: Más de 1.5 | 63% | 75% | 69% | 1.25 | -14% |
-| Goles más/menos: Más de 2.5 | 36% | 53% | 44% | 1.80 | -20% |
+| Goles más/menos: Más de 2.5 | 36% | 53% | 44% | 1.80 | -21% |
 | Goles más/menos: Más de 3.5 | 17% | 31% | 24% | 3.00 | -28% |
 | Goles más/menos: Menos de 1.5 | 37% | 25% | 31% | 3.75 | +17% |
 | Goles más/menos: Menos de 2.5 | 64% | 47% | 56% | 2.00 | +12% |
-| Goles más/menos: Menos de 3.5 | 83% | 69% | 76% | 1.36 | +3% |
+| Goles más/menos: Menos de 3.5 | 83% | 69% | 76% | 1.36 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 71% | 66% | 1.33 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 24% | 35% | 30% | 2.62 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 29% | 34% | 3.25 | +12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles del local: Más de 0.5 | 40% | 58% | 49% | 1.62 | -21% |
+| Goles del local: Más de 1.5 | 9% | 22% | 16% | 4.33 | -33% |
+| Goles del local: Menos de 0.5 | 60% | 42% | 51% | 2.20 | +13% |
+| Goles del local: Menos de 1.5 | 91% | 78% | 84% | 1.20 | +1% |
+| Goles del visitante: Más de 1.5 | 48% | 58% | 53% | 1.62 | -15% |
+| Goles del visitante: Más de 2.5 | 22% | 31% | 27% | 3.00 | -20% |
+| Goles del visitante: Menos de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
+| Goles del visitante: Menos de 2.5 | 78% | 69% | 73% | 1.36 | -0% |
 | Córners más/menos: Más de 9.5 | 43% | 50% | 47% | 1.83 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 50% | 53% | 1.83 | -2% |
 | 1X2 descanso: 2 | 43% | 45% | 44% | 2.05 | -9% |

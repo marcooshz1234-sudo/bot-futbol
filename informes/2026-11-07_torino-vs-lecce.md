@@ -1,16 +1,16 @@
 # Torino – Lecce
 **Serie A** · Regular Season - 11 · 07/11/2026 15:00 (hora España) · Stadio Olimpico Grande Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:02_
 
 - **1X2:** 1 **1.80**  ·  X **3.50**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.75**
     - 2,5: más **1.91** · menos **1.91**
     - 3,5: más **3.20** · menos **1.36**
@@ -33,7 +33,7 @@ _Actualizadas: 06/11 19:58_
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.95** · menos **1.85**
 - **Tarjetas más/menos:**
-    - 2,5: más **1.83** · menos **1.83**
+    - 2,5: más **1.73** · menos **2.00**
     - 3,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.38**  ·  X **2.25**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
@@ -52,7 +52,7 @@ _Actualizadas: 06/11 19:58_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
 - **Home Team Total Cards:**
     - 1,5: más **2.10** · menos **1.67**
 - **Away Team Total Cards:**

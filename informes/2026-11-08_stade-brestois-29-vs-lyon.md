@@ -1,10 +1,10 @@
 # Stade Brestois 29 – Lyon
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **2.75**  ·  X **3.40**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.40**
@@ -52,6 +52,10 @@ _Actualizadas: 06/11 19:59_
     - 4,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):**
     - 4,5: más **1.92** · menos **1.88**
+- **Home Team Total Cards:**
+    - 2,5: más **2.38** · menos **1.53**
+- **Away Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
 - **Total ShotOnGoal:**
     - 9,5: más **1.91** · menos **1.80**
 - **Total Shots:**
@@ -208,7 +212,7 @@ _Goles esperados: local 1,31 · visitante 1,20 · córners esperados 9,6._
 | Doble oportunidad: X2 | 61% | 66% | 64% | 1.40 | -11% |
 | Doble oportunidad: 12 | 73% | 72% | 72% | 1.30 | -6% |
 | Doble oportunidad: 1X | 66% | 62% | 64% | 1.50 | -4% |
-| Ambos marcan: No | 49% | 45% | 47% | 2.05 | -3% |
+| Ambos marcan: No | 49% | 45% | 47% | 2.05 | -4% |
 | Ambos marcan: Sí | 51% | 55% | 53% | 1.70 | -10% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
 | Goles más/menos: Más de 2.5 | 46% | 50% | 48% | 1.91 | -8% |
@@ -220,17 +224,17 @@ _Goles esperados: local 1,31 · visitante 1,20 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
+| Goles del local: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
 | Goles del local: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles del local: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del local: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
-| Goles del visitante: Más de 0.5 | 70% | 75% | 73% | 1.25 | -9% |
-| Goles del visitante: Más de 1.5 | 34% | 41% | 38% | 2.25 | -16% |
-| Goles del visitante: Menos de 0.5 | 30% | 25% | 27% | 3.75 | +3% |
-| Goles del visitante: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
+| Goles del local: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Más de 0.5 | 70% | 75% | 72% | 1.25 | -9% |
+| Goles del visitante: Más de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
+| Goles del visitante: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +3% |
+| Goles del visitante: Menos de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -12% |
+| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -13% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -3% |
 

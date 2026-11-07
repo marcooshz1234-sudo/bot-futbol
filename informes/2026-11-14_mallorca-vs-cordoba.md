@@ -1,7 +1,7 @@
 # Mallorca – Cordoba
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Nélson Monte | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 2,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,77 · visitante 1,11 · córners esperados 9,7._
+_Goles esperados: local 1,77 · visitante 1,10 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

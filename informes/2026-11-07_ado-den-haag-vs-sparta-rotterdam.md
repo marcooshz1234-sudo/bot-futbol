@@ -1,10 +1,10 @@
 # ADO Den Haag – Sparta Rotterdam
 **Eredivisie** · Regular Season - 12 · 07/11/2026 18:45 (hora España) · Bingoal Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **2.55**  ·  X **3.60**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
@@ -199,25 +199,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 42% | 36% | 39% | 2.62 | +3% |
 | 1X2: X | 23% | 26% | 25% | 3.60 | -11% |
 | 1X2: 1 | 35% | 37% | 36% | 2.55 | -8% |
-| Doble oportunidad: X2 | 65% | 62% | 64% | 1.50 | -4% |
+| Doble oportunidad: X2 | 65% | 62% | 64% | 1.50 | -5% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 58% | 65% | 61% | 1.44 | -12% |
 | Ambos marcan: No | 35% | 38% | 36% | 2.50 | -9% |
 | Ambos marcan: Sí | 65% | 62% | 64% | 1.50 | -4% |
 | Goles más/menos: Más de 2.5 | 64% | 60% | 62% | 1.57 | -3% |
 | Goles más/menos: Más de 3.5 | 42% | 39% | 40% | 2.38 | -4% |
-| Goles más/menos: Más de 4.5 | 23% | 23% | 23% | 4.00 | -6% |
-| Goles más/menos: Menos de 2.5 | 36% | 40% | 38% | 2.35 | -10% |
+| Goles más/menos: Más de 4.5 | 24% | 23% | 23% | 4.00 | -6% |
+| Goles más/menos: Menos de 2.5 | 36% | 40% | 38% | 2.35 | -11% |
 | Goles más/menos: Menos de 3.5 | 58% | 61% | 60% | 1.53 | -9% |
-| Goles más/menos: Menos de 4.5 | 77% | 77% | 77% | 1.22 | -7% |
+| Goles más/menos: Menos de 4.5 | 76% | 77% | 77% | 1.22 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 25% | 3.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
 | Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
-| Goles del local: Más de 1.5 | 46% | 49% | 47% | 1.91 | -10% |
+| Goles del local: Más de 1.5 | 46% | 49% | 47% | 1.91 | -9% |
 | Goles del local: Más de 2.5 | 21% | 23% | 22% | 4.00 | -12% |
-| Goles del local: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -7% |
+| Goles del local: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -8% |
 | Goles del local: Menos de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
 | Goles del local: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del visitante: Más de 0.5 | 82% | 78% | 80% | 1.20 | -4% |

@@ -1,10 +1,10 @@
 # Villarreal – Getafe
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Estadio de la Cerámica
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **1.42**  ·  X **4.50**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **2.75**
@@ -31,7 +31,13 @@ _Actualizadas: 06/11 19:59_
     - 1,5: más **5.00** · menos **1.17**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
+    - 10: más **2.02** · menos **1.78**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.40**  ·  2 **7.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **1.25**  ·  2 **3.50**
@@ -43,10 +49,11 @@ _Actualizadas: 06/11 19:59_
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 3,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.85** · menos **1.95**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
+- **ShotOnTarget 1x2:** 1 **1.22**  ·  X **9.00**  ·  2 **5.50**
 - **Total Shots:**
     - 26,5: más **2.00** · menos **1.73**
+- **Shots.1x2:** 1 **1.12**  ·  X **19.00**  ·  2 **6.00**
 - **Home Player Shots On Target Total:** Nathan-Dylan Saliba - 1 **2.25**  ·  Nathan-Dylan Saliba - 2 **9.00**  ·  Alberto Moleiro - 1 **1.44**  ·  Ayoze Perez - 1 **1.33**  ·  Moreno Gerard - 1 **1.33**  ·  Nicolas Pepe - 1 **1.36**  ·  Tani Oluwaseyi - 1 **1.50**  ·  Ilias Akhomach - 1 **1.36**  ·  Cheikh Thiam - 1 **2.50**  ·  Pape Gueye - 1 **2.10**  ·  Tajon Buchanan - 1 **1.50**  ·  Alex Freeman - 1 **4.33**  ·  Carlos Romero - 1 **2.75**  ·  Santiago Comesana - 1 **3.25**  ·  Carlos Macia - 1 **4.33**  ·  Sergi Cardona - 1 **3.50**  ·  Renato Veiga - 1 **4.33**  ·  Santiago Mourino - 1 **4.33**  ·  Pau Navarro - 1 **4.33**  ·  Logan Costa - 1 **3.50**  ·  Juan Foyth - 1 **3.75**  ·  Georges Mikautadze - 2 **1.83**  ·  Alberto Moleiro - 2 **3.25**  ·  Ayoze Perez - 2 **2.62**  ·  Moreno Gerard - 2 **2.62**  ·  Nicolas Pepe - 2 **2.75**  ·  Tani Oluwaseyi - 2 **3.40**  ·  Ilias Akhomach - 2 **2.75**  ·  Cheikh Thiam - 2 **10.00**  ·  Pape Gueye - 2 **7.00**  ·  Tajon Buchanan - 2 **3.50**  ·  Alex Freeman - 2 **21.00**  ·  Carlos Romero - 2 **13.00**  ·  Santiago Comesana - 2 **15.00**  ·  Carlos Macia - 2 **21.00**  ·  Sergi Cardona - 2 **19.00**  ·  Renato Veiga - 2 **21.00**  ·  Santiago Mourino - 2 **21.00**  ·  Pau Navarro - 2 **21.00**  ·  Logan Costa - 2 **19.00**  ·  Juan Foyth - 2 **21.00**  ·  Georges Mikautadze - 3 **3.75**  ·  Alberto Moleiro - 3 **9.00**  ·  Ayoze Perez - 3 **6.50**  ·  Moreno Gerard - 3 **6.50**  ·  Nicolas Pepe - 3 **7.00**  ·  Tani Oluwaseyi - 3 **10.00**  ·  Ilias Akhomach - 3 **7.00**  ·  Pape Gueye - 3 **21.00**  ·  Tajon Buchanan - 3 **10.00**  ·  Georges Mikautadze - 4 **9.00**  ·  Alberto Moleiro - 4 **21.00**  ·  Ayoze Perez - 4 **19.00**  ·  Moreno Gerard - 4 **19.00**  ·  Nicolas Pepe - 4 **21.00**  ·  Tani Oluwaseyi - 4 **21.00**  ·  Ilias Akhomach - 4 **21.00**  ·  Georges Mikautadze - 5 **21.00**  ·  Georges Mikautadze - 1 **1.18**  ·  Alassane Diatta - 2 **15.00**  ·  Nizar El Jmili - 3 **21.00**  ·  Alassane Diatta - 1 **3.25**  ·  Nizar El Jmili - 1 **2.10**  ·  Nizar El Jmili - 2 **7.00**  ·  Jose Gaitan Diaz - 1 **1.36**  ·  Jose Gaitan Diaz - 2 **2.75**  ·  Jose Gaitan Diaz - 3 **7.00**  ·  Jose Gaitan Diaz - 4 **21.00**
 - **Away Player Shots On Target Total:** Zaid Romero **26.00**  ·  Ivan Azon **13.00**  ·  Francho Serrano **23.00**  ·  Andres Garcia **34.00**  ·  Sebastian Boselli **34.00**  ·  Nicolas Pepe **21.00**  ·  Georges Mikautadze **19.00**  ·  Santiago Mourino **9.50**  ·  Mancha Davinchi **67.00**  ·  Jean Valou **41.00**  ·  Martin Satriano **11.00**  ·  Enes Unal **19.00**  ·  Moya Borja Mayoral **15.00**  ·  Moreno Gerard **21.00**  ·  Ayoze Perez **10.00**  ·  Mario Martin **29.00**  ·  Tajon Buchanan **26.00**  ·  Santiago Comesana **29.00**  ·  Kiko Femenia **81.00**  ·  Tani Oluwaseyi **11.00**  ·  Alex Freeman **9.00**  ·  Nathan-Dylan Saliba **26.00**  ·  Carlos Macia **15.00**  ·  Alberto Moleiro **17.00**  ·  Ibrahima Danfakha **19.00**  ·  Cheikh Thiam **41.00**  ·  Nemanja Gudelj **34.00**  ·  Ilias Akhomach **23.00**  ·  Pape Gueye **21.00**  ·  Sergi Cardona **34.00**  ·  Jesus Martinez **101.00**  ·  Johan Mojica **101.00**  ·  Dani Carvajal **81.00**  ·  Orel Mangala **101.00**  ·  Abdelkabir Abqar **21.00**  ·  Renato Veiga **23.00**  ·  Saba Sazonov **23.00**  ·  Pau Navarro **12.00**  ·  Ramon Terrats **67.00**  ·  Logan Costa **17.00**  ·  Juan Foyth **15.00**  ·  Alberto Risco **67.00**  ·  Dakonam Djene **21.00**  ·  Alassane Diatta **21.00**  ·  Carlos Romero **41.00**
 - **Away Player Shots Total:**
@@ -191,7 +198,7 @@ _Sin bajas comunicadas por ahora._
 | Borja Mayoral | F | 9 | 229 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 3 | 5 | 0,6 | 3 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,79 · visitante 0,91 · córners esperados 10,0._
+_Goles esperados: local 1,80 · visitante 0,91 · córners esperados 10,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -202,26 +209,26 @@ _Goles esperados: local 1,79 · visitante 0,91 · córners esperados 10,0._
 | Doble oportunidad: 12 | 77% | 79% | 78% | 1.18 | -8% |
 | Doble oportunidad: 1X | 81% | 87% | 84% | 1.08 | -9% |
 | Ambos marcan: No | 50% | 52% | 51% | 1.80 | -8% |
-| Ambos marcan: Sí | 50% | 48% | 49% | 1.95 | -5% |
+| Ambos marcan: Sí | 50% | 48% | 49% | 1.95 | -4% |
 | Goles más/menos: Más de 1.5 | 75% | 76% | 76% | 1.25 | -5% |
 | Goles más/menos: Más de 2.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Goles más/menos: Más de 3.5 | 29% | 32% | 30% | 3.00 | -9% |
 | Goles más/menos: Menos de 1.5 | 25% | 24% | 24% | 4.00 | -3% |
-| Goles más/menos: Menos de 2.5 | 49% | 47% | 48% | 2.00 | -3% |
+| Goles más/menos: Menos de 2.5 | 49% | 47% | 48% | 2.00 | -4% |
 | Goles más/menos: Menos de 3.5 | 71% | 68% | 70% | 1.40 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del local: Más de 1.5 | 53% | 61% | 57% | 1.53 | -13% |
-| Goles del local: Más de 2.5 | 27% | 35% | 31% | 2.62 | -19% |
-| Goles del local: Menos de 1.5 | 47% | 39% | 43% | 2.38 | +2% |
+| Goles del local: Más de 1.5 | 54% | 61% | 57% | 1.53 | -12% |
+| Goles del local: Más de 2.5 | 27% | 35% | 31% | 2.62 | -18% |
+| Goles del local: Menos de 1.5 | 46% | 39% | 43% | 2.38 | +2% |
 | Goles del local: Menos de 2.5 | 73% | 65% | 69% | 1.44 | -1% |
 | Goles del visitante: Más de 0.5 | 60% | 54% | 57% | 1.73 | -2% |
 | Goles del visitante: Menos de 0.5 | 40% | 46% | 43% | 2.00 | -13% |
 | Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -11% |
 | Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -3% |
-| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -4% |
+| 1X2 descanso: X | 41% | 38% | 40% | 2.40 | -5% |
 | 1X2 descanso: 1 | 42% | 48% | 45% | 1.91 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

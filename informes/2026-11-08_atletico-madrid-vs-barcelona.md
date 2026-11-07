@@ -1,21 +1,21 @@
 # Atletico Madrid – Barcelona
 **LaLiga** · Regular Season - 12 · 08/11/2026 21:00 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:04_
 
 - **1X2:** 1 **3.75**  ·  X **4.33**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.95**  ·  12 **1.20**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.33**  ·  No **3.25**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.33** · menos **3.40**
+    - 2,5: más **1.30** · menos **3.50**
     - 3,5: más **1.80** · menos **2.00**
     - 4,5: más **2.75** · menos **1.44**
     - 5,5: más **4.50** · menos **1.20**
-    - 6,5: más **9.00** · menos **1.07**
+    - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -54,8 +54,12 @@ _Actualizadas: 06/11 19:59_
 - **Away Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
+- **Total ShotOnGoal:**
+    - 11,5: más **2.00** · menos **1.73**
+- **ShotOnTarget 1x2:** 1 **2.88**  ·  X **8.50**  ·  2 **1.53**
 - **Total Shots:**
     - 29,5: más **1.83** · menos **1.83**
+- **Shots.1x2:** 1 **2.62**  ·  X **17.00**  ·  2 **1.50**
 - **Home Player Shots On Target Total:** Alexander Sorloth - 1 **1.22**  ·  Ademola Lookman - 1 **1.53**  ·  Arnau Ortiz - 1 **1.83**  ·  Kang-In Lee - 1 **1.80**  ·  Rodrigo Mendoza - 1 **1.91**  ·  Alex Baena - 1 **1.73**  ·  Giuliano Simeone - 1 **2.00**  ·  Morten Hjulmand - 1 **4.00**  ·  Alex Grimaldo - 1 **2.10**  ·  David Hancko - 1 **5.00**  ·  Obed Vargas - 1 **4.50**  ·  Pablo Barrios - 1 **3.40**  ·  Jorge Koke - 1 **4.00**  ·  Marc Pubill - 1 **3.50**  ·  Marcos Llorente - 1 **4.50**  ·  Johnny Cardoso - 1 **5.00**  ·  Dani Martinez - 1 **3.75**  ·  Jorge Dominguez - 1 **4.00**  ·  Robin Le Normand - 1 **9.00**  ·  Alexander Sorloth - 2 **2.10**  ·  Ademola Lookman - 2 **3.50**  ·  Arnau Ortiz - 2 **5.50**  ·  Kang-In Lee - 2 **5.00**  ·  Rodrigo Mendoza - 2 **6.00**  ·  Alex Baena - 2 **4.50**  ·  Giuliano Simeone - 2 **7.00**  ·  Morten Hjulmand - 2 **21.00**  ·  Alex Grimaldo - 2 **7.00**  ·  Obed Vargas - 2 **21.00**  ·  Pablo Barrios - 2 **17.00**  ·  Jorge Koke - 2 **21.00**  ·  Marc Pubill - 2 **19.00**  ·  Marcos Llorente - 2 **21.00**  ·  Dani Martinez - 2 **21.00**  ·  Jorge Dominguez - 2 **21.00**  ·  Alexander Sorloth - 3 **4.50**  ·  Ademola Lookman - 3 **11.00**  ·  Arnau Ortiz - 3 **19.00**  ·  Kang-In Lee - 3 **17.00**  ·  Rodrigo Mendoza - 3 **21.00**  ·  Alex Baena - 3 **17.00**  ·  Giuliano Simeone - 3 **21.00**  ·  Alex Grimaldo - 3 **21.00**  ·  Alexander Sorloth - 4 **11.00**  ·  Jonathan David - 2 **3.50**  ·  Jonathan David - 3 **11.00**  ·  Jonathan David - 1 **1.53**  ·  Julian Alvarez - 1 **1.40**  ·  Jorge Castillo - 1 **3.75**  ·  Julian Alvarez - 2 **2.75**  ·  Jorge Castillo - 2 **21.00**  ·  Julian Alvarez - 3 **8.00**  ·  Julian Alvarez - 4 **21.00**  ·  Cristian Romero - 1 **2.75**  ·  Cristian Romero - 2 **13.00**
 - **Away Player Shots On Target Total:** Morten Hjulmand **34.00**  ·  Jonathan David **13.00**  ·  Kang-In Lee **29.00**  ·  Rodrigo Mendoza **11.00**  ·  Marc Pubill **51.00**  ·  Jules Kounde **19.00**  ·  Alexander Sorloth **6.50**  ·  David Hancko **15.00**  ·  Lamine Yamal **21.00**  ·  Alex Baena **21.00**  ·  Pedri **41.00**  ·  Alex Grimaldo **41.00**  ·  Pau Cubarsi **15.00**  ·  Joao Cancelo **67.00**  ·  Julian Alvarez **26.00**  ·  Raphinha **23.00**  ·  Xavi Espart **51.00**  ·  Gabriel Jesus **15.00**  ·  Andreas Christensen **12.00**  ·  Marc Bernal **13.00**  ·  Eric Garcia **13.00**  ·  Jorge Koke **81.00**  ·  Obed Vargas **126.00**  ·  Dani Martinez **81.00**  ·  Dani Olmo **29.00**  ·  Gavi **51.00**  ·  Jorge Castillo **29.00**  ·  Fermin Lopez **15.00**  ·  Hamza Abdelkarim **12.00**  ·  Brian Farinas **21.00**  ·  Orian Goren **34.00**  ·  Jorge Dominguez **12.00**  ·  Romeo Hueso **29.00**  ·  Arnau Ortiz **21.00**  ·  Marcos Llorente **81.00**  ·  Robin Le Normand **21.00**  ·  Alex Campos **12.00**  ·  Johnny Cardoso **19.00**  ·  Anthony Gordon **17.00**  ·  Cristian Romero **11.00**  ·  Giuliano Simeone **51.00**  ·  Pablo Barrios **51.00**  ·  Frenkie De Jong **51.00**  ·  Alex Balde **51.00**  ·  Ademola Lookman **29.00**  ·  Karim Adeyemi **21.00**  ·  Martin Gerard **41.00**
 - **Away Player Shots Total:**
@@ -199,47 +203,47 @@ _Sin bajas comunicadas por ahora._
 | B. Farinas | D | 2 | 172 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,95 · córners esperados 9,1._
+_Goles esperados: local 1,29 · visitante 1,96 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 53% | 53% | 53% | 1.80 | -5% |
 | 1X2: X | 22% | 22% | 22% | 4.33 | -5% |
-| 1X2: 1 | 25% | 25% | 25% | 3.75 | -6% |
+| 1X2: 1 | 25% | 25% | 25% | 3.75 | -5% |
 | Doble oportunidad: X2 | 75% | 75% | 75% | 1.25 | -7% |
 | Doble oportunidad: 12 | 78% | 78% | 78% | 1.20 | -7% |
 | Doble oportunidad: 1X | 47% | 48% | 47% | 1.95 | -8% |
-| Ambos marcan: No ✅ | 38% | 29% | 33% | 3.25 | +9% |
-| Ambos marcan: Sí | 62% | 71% | 67% | 1.33 | -12% |
-| Goles más/menos: Más de 2.5 | 63% | 72% | 67% | 1.33 | -10% |
+| Ambos marcan: No ✅ | 38% | 29% | 33% | 3.25 | +8% |
+| Ambos marcan: Sí | 62% | 71% | 67% | 1.33 | -11% |
+| Goles más/menos: Más de 2.5 | 63% | 73% | 68% | 1.30 | -12% |
 | Goles más/menos: Más de 3.5 | 41% | 53% | 47% | 1.80 | -16% |
-| Goles más/menos: Más de 4.5 | 23% | 34% | 28% | 2.75 | -22% |
+| Goles más/menos: Más de 4.5 | 23% | 34% | 29% | 2.75 | -21% |
 | Goles más/menos: Más de 5.5 | 11% | 21% | 16% | 4.50 | -28% |
-| Goles más/menos: Menos de 2.5 ✅ | 37% | 28% | 33% | 3.40 | +11% |
-| Goles más/menos: Menos de 3.5 | 59% | 47% | 53% | 2.00 | +7% |
-| Goles más/menos: Menos de 4.5 | 77% | 66% | 72% | 1.44 | +3% |
+| Goles más/menos: Menos de 2.5 ✅ | 37% | 27% | 32% | 3.50 | +12% |
+| Goles más/menos: Menos de 3.5 | 59% | 47% | 53% | 2.00 | +6% |
+| Goles más/menos: Menos de 4.5 | 77% | 66% | 71% | 1.44 | +3% |
 | Goles más/menos: Menos de 5.5 | 89% | 79% | 84% | 1.20 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 79% | 77% | 1.18 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 50% | 46% | 1.83 | -17% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 50% | 46% | 1.83 | -16% |
 | Goles 1ª parte más/menos: Más de 2.5 | 17% | 25% | 21% | 3.75 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 21% | 23% | 4.50 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 50% | 54% | 1.83 | -0% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 21% | 23% | 4.50 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 50% | 54% | 1.83 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del local: Más de 0.5 | 72% | 78% | 75% | 1.20 | -10% |
+| Goles del local: Más de 0.5 | 73% | 78% | 75% | 1.20 | -10% |
 | Goles del local: Más de 1.5 | 37% | 46% | 42% | 2.00 | -17% |
-| Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles del local: Menos de 0.5 | 28% | 22% | 25% | 4.33 | +7% |
+| Goles del local: Más de 2.5 | 14% | 22% | 18% | 4.33 | -22% |
+| Goles del local: Menos de 0.5 | 27% | 22% | 25% | 4.33 | +6% |
 | Goles del local: Menos de 1.5 | 63% | 54% | 58% | 1.73 | +1% |
 | Goles del local: Menos de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles del visitante: Más de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 2.5 | 31% | 39% | 35% | 2.38 | -16% |
-| Goles del visitante: Más de 3.5 | 13% | 21% | 17% | 4.50 | -23% |
+| Goles del visitante: Más de 3.5 | 14% | 21% | 17% | 4.50 | -23% |
 | Goles del visitante: Menos de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
 | Goles del visitante: Menos de 2.5 | 69% | 61% | 65% | 1.53 | -1% |
-| Goles del visitante: Menos de 3.5 | 87% | 79% | 83% | 1.18 | -2% |
+| Goles del visitante: Menos de 3.5 | 86% | 79% | 83% | 1.18 | -2% |
 | Córners más/menos: Más de 10.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Córners más/menos: Menos de 10.5 | 66% | 54% | 60% | 1.73 | +4% |
-| 1X2 descanso: 2 | 40% | 41% | 41% | 2.25 | -8% |
+| 1X2 descanso: 2 | 40% | 41% | 41% | 2.25 | -9% |
 | 1X2 descanso: X | 37% | 34% | 36% | 2.75 | -2% |
 | 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -11% |
 

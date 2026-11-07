@@ -1,12 +1,12 @@
 # Osasuna – Athletic Club
 **LaLiga** · Regular Season - 12 · 07/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:03_
 
-- **1X2:** 1 **3.60**  ·  X **3.50**  ·  2 **2.05**
+- **1X2:** 1 **3.70**  ·  X **3.50**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.28**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
@@ -31,6 +31,9 @@ _Actualizadas: 06/11 19:58_
 - **Córners más/menos:**
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.92** · menos **1.88**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.91** · menos **1.80**
+    - 5,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **4.33**  ·  X **2.10**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -38,10 +41,10 @@ _Actualizadas: 06/11 19:58_
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **2.25**  ·  2 **1.57**
-- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **3.50**
+- **To Win Either Half:** 1 **2.38**  ·  2 **1.57**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **3.40**
 - **Win Both Halves:** 1 **15.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.50**  ·  Home/No **6.00**  ·  Draw/No **9.00**  ·  Away/No **3.40**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.50**  ·  Home/No **6.00**  ·  Draw/No **9.00**  ·  Away/No **3.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
 - **Home Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
@@ -198,38 +201,38 @@ _Sin bajas comunicadas por ahora._
 | Dani Vivian | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 2 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,85 · córners esperados 9,9._
+_Goles esperados: local 1,23 · visitante 1,86 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 52% | 46% | 49% | 2.05 | +1% |
+| 1X2: 2 | 52% | 47% | 50% | 2.00 | -1% |
 | 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
-| 1X2: 1 | 25% | 26% | 26% | 3.60 | -7% |
+| 1X2: 1 | 25% | 26% | 25% | 3.70 | -6% |
 | Doble oportunidad: X2 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 48% | 54% | 51% | 1.73 | -12% |
-| Ambos marcan: No | 41% | 52% | 46% | 1.80 | -17% |
-| Ambos marcan: Sí | 59% | 48% | 54% | 1.95 | +5% |
+| Ambos marcan: No | 40% | 52% | 46% | 1.80 | -17% |
+| Ambos marcan: Sí | 60% | 48% | 54% | 1.95 | +5% |
 | Goles más/menos: Más de 1.5 | 81% | 70% | 76% | 1.36 | +3% |
-| Goles más/menos: Más de 2.5 | 59% | 45% | 52% | 2.10 | +9% |
-| Goles más/menos: Más de 3.5 ✅ | 37% | 24% | 30% | 4.00 | +21% |
+| Goles más/menos: Más de 2.5 | 60% | 45% | 52% | 2.10 | +10% |
+| Goles más/menos: Más de 3.5 ✅ | 37% | 24% | 30% | 4.00 | +22% |
 | Goles más/menos: Menos de 1.5 | 19% | 30% | 24% | 3.20 | -22% |
-| Goles más/menos: Menos de 2.5 | 41% | 55% | 48% | 1.73 | -17% |
+| Goles más/menos: Menos de 2.5 | 40% | 55% | 48% | 1.73 | -18% |
 | Goles más/menos: Menos de 3.5 | 63% | 76% | 70% | 1.25 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 65% | 69% | 1.44 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 ✅ | 38% | 29% | 34% | 3.25 | +10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 ✅ | 39% | 29% | 34% | 3.25 | +10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 71% | 66% | 1.33 | -12% |
-| Goles del local: Más de 0.5 | 70% | 62% | 66% | 1.50 | -0% |
-| Goles del local: Más de 1.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del local: Menos de 0.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles del local: Menos de 1.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 0.5 | 84% | 75% | 80% | 1.25 | -1% |
-| Goles del visitante: Más de 1.5 | 55% | 42% | 49% | 2.20 | +7% |
-| Goles del visitante: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -23% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -12% |
+| Goles del local: Más de 0.5 | 71% | 62% | 67% | 1.50 | -0% |
+| Goles del local: Más de 1.5 | 35% | 28% | 31% | 3.40 | +6% |
+| Goles del local: Menos de 0.5 | 29% | 38% | 33% | 2.50 | -16% |
+| Goles del local: Menos de 1.5 | 65% | 72% | 69% | 1.30 | -11% |
+| Goles del visitante: Más de 0.5 | 84% | 75% | 80% | 1.25 | -0% |
+| Goles del visitante: Más de 1.5 | 55% | 42% | 49% | 2.20 | +8% |
+| Goles del visitante: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -24% |
 | Goles del visitante: Menos de 1.5 | 45% | 58% | 51% | 1.62 | -17% |
-| Córners más/menos: Más de 8.5 | 57% | 56% | 57% | 1.67 | -5% |
-| Córners más/menos: Menos de 8.5 | 43% | 44% | 43% | 2.10 | -9% |
+| Córners más/menos: Más de 8.5 | 57% | 56% | 56% | 1.67 | -6% |
+| Córners más/menos: Menos de 8.5 | 43% | 44% | 44% | 2.10 | -9% |
 | 1X2 descanso: 2 | 39% | 34% | 36% | 2.75 | +0% |
 | 1X2 descanso: X | 39% | 44% | 42% | 2.10 | -13% |
 | 1X2 descanso: 1 | 22% | 22% | 22% | 4.33 | -5% |

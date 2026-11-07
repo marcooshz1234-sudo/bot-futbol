@@ -1,18 +1,18 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 06/11/2026 20:00. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 07/11/2026 02:04. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 93 · **acertados:** 30 (32%)
-- **Beneficio:** -14.56 unidades · **rentabilidad (yield):** -15.7%
-- **Cuota media:** 2.85 · **pendientes:** 38
+- **Picks jugados:** 94 · **acertados:** 31 (33%)
+- **Beneficio:** -13.31 unidades · **rentabilidad (yield):** -14.2%
+- **Cuota media:** 2.84 · **pendientes:** 41
 
-_Con 93 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+_Con 94 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 23 | 8 (35%) | -1.85 | -8.0% |
+| 1X2 | 24 | 9 (38%) | -0.60 | -2.5% |
 | Goles más/menos | 19 | 5 (26%) | -5.53 | -29.1% |
 | Goles del local | 17 | 8 (47%) | +5.10 | +30.0% |
 | Goles del visitante | 15 | 2 (13%) | -9.76 | -65.1% |
@@ -25,6 +25,7 @@ _Con 93 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-06 | Toulouse – Strasbourg | 1X2: 1 | 2.25 | ✅ | +1.25 |
 | 2026-11-05 | Bayer Leverkusen – Marseille | Goles del local: Más de 3.5 | 3.25 | ❌ | -1.00 |
 | 2026-11-05 | Bayer Leverkusen – Marseille | Goles más/menos: Más de 4.5 | 3.00 | ❌ | -1.00 |
 | 2026-11-05 | Getafe – Brighton | Goles del visitante: Más de 2.5 | 3.25 | ❌ | -1.00 |
@@ -64,4 +65,3 @@ _Con 93 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-31 | Bournemouth – Leeds | 1X2: 1 | 2.10 | ✅ | +1.10 |
 | 2026-10-31 | Manchester City – Brighton | Doble oportunidad: X2 | 2.15 | ✅ | +1.15 |
 | 2026-10-31 | Manchester City – Brighton | Goles del local: Menos de 1.5 | 2.62 | ✅ | +1.62 |
-| 2026-10-31 | Hull City – Ipswich | 1X2: 1 | 2.80 | ❌ | -1.00 |

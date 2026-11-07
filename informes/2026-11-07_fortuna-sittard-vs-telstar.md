@@ -1,10 +1,10 @@
 # Fortuna Sittard – Telstar
 **Eredivisie** · Regular Season - 12 · 07/11/2026 16:30 (hora España) · Fortuna Sittard Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **2.05**  ·  X **3.60**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.73**
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | Harrie Kuster | M | 6 | 143 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 7 | 1,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 1,29 · córners esperados 9,8._
+_Goles esperados: local 1,49 · visitante 1,28 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -201,14 +201,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 58% | 54% | 56% | 1.73 | -3% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 67% | 73% | 70% | 1.28 | -10% |
-| Ambos marcan: No | 44% | 39% | 41% | 2.38 | -1% |
-| Ambos marcan: Sí | 56% | 61% | 59% | 1.53 | -10% |
-| Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles más/menos: Más de 2.5 | 53% | 58% | 55% | 1.62 | -10% |
+| Ambos marcan: No | 44% | 39% | 42% | 2.38 | -1% |
+| Ambos marcan: Sí | 56% | 61% | 58% | 1.53 | -11% |
+| Goles más/menos: Más de 1.5 | 76% | 79% | 78% | 1.18 | -8% |
+| Goles más/menos: Más de 2.5 | 52% | 58% | 55% | 1.62 | -10% |
 | Goles más/menos: Más de 3.5 | 30% | 38% | 34% | 2.50 | -15% |
 | Goles más/menos: Más de 4.5 | 15% | 22% | 18% | 4.33 | -21% |
-| Goles más/menos: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
-| Goles más/menos: Menos de 2.5 | 47% | 42% | 45% | 2.25 | +0% |
+| Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | -0% |
+| Goles más/menos: Menos de 2.5 | 48% | 42% | 45% | 2.25 | +1% |
 | Goles más/menos: Menos de 3.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles más/menos: Menos de 4.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |
@@ -225,7 +225,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
 | Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -1% |
-| 1X2 descanso: 2 | 26% | 26% | 26% | 3.60 | -6% |
+| 1X2 descanso: 2 | 26% | 26% | 26% | 3.60 | -7% |
 | 1X2 descanso: X | 42% | 39% | 40% | 2.38 | -4% |
 | 1X2 descanso: 1 | 32% | 36% | 34% | 2.60 | -12% |
 

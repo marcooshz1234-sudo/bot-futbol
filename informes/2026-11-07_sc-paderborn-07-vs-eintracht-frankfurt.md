@@ -1,10 +1,10 @@
 # SC Paderborn 07 – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 9 · 07/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:02_
 
 - **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.36**
@@ -28,25 +28,25 @@ _Actualizadas: 06/11 19:58_
 - **Goles del visitante:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.50** · menos **1.28**
+    - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
 - **Tarjetas más/menos:**
     - 3,5: más **1.91** · menos **1.80**
-- **1X2 descanso:** 1 **3.40**  ·  X **2.40**  ·  2 **2.62**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.50**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
-- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
 - **To Win Either Half:** 1 **1.91**  ·  2 **1.57**
 - **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **2.62**
 - **Win Both Halves:** 1 **11.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.50**  ·  Home/No **7.00**  ·  Draw/No **17.00**  ·  Away/No **4.50**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.50**  ·  Home/No **7.00**  ·  Draw/No **19.00**  ·  Away/No **4.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
 - **Home Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
@@ -63,7 +63,7 @@ _Actualizadas: 06/11 19:58_
 - **Total Shots:**
     - 27,5: más **1.83** · menos **1.83**
     - 28,5: más **1.80** · menos **1.91**
-- **Shots.1x2:** 1 **1.73**  ·  X **15.00**  ·  2 **2.20**
+- **Shots.1x2:** 1 **1.67**  ·  X **15.00**  ·  2 **2.20**
 - **Home Player Shots On Target Total:** Rayan Philippe - 1 **1.50**  ·  Rayan Philippe - 2 **3.50**  ·  Rayan Philippe - 3 **10.00**  ·  Marvin Pieringer - 1 **1.73**  ·  Stefano Marino - 1 **1.50**  ·  Steffen Tigges - 1 **1.83**  ·  Sven Michel - 1 **1.50**  ·  Deniz Zeitler - 1 **1.57**  ·  Gabriel Vidovic - 1 **5.00**  ·  Sebastian Klaas - 1 **1.91**  ·  Laurin Curda - 1 **2.20**  ·  Laurin Ulrich - 1 **2.20**  ·  Luka Djuric - 1 **2.20**  ·  Oliver Batista Meier - 1 **1.83**  ·  Ruben Muller - 1 **2.75**  ·  Clemens Lippmann - 1 **3.00**  ·  Jonah Sticker - 1 **2.75**  ·  Raphael Obermair - 1 **3.75**  ·  Santiago Castaneda - 1 **3.00**  ·  Jano Ter Horst - 1 **2.50**  ·  Tom Baack - 1 **3.00**  ·  Felix Gotze - 1 **7.00**  ·  Mattes Hansen - 1 **3.75**  ·  Tjark Scheller - 1 **7.00**  ·  Marcel Hoffmeier - 1 **4.33**  ·  Nyamekye Awortwie Grant - 1 **4.33**  ·  Marvin Pieringer - 2 **4.50**  ·  Stefano Marino - 2 **3.40**  ·  Steffen Tigges - 2 **5.50**  ·  Sven Michel - 2 **3.50**  ·  Deniz Zeitler - 2 **3.75**  ·  Sebastian Klaas - 2 **6.00**  ·  Laurin Curda - 2 **8.00**  ·  Laurin Ulrich - 2 **8.00**  ·  Luka Djuric - 2 **8.00**  ·  Oliver Batista Meier - 2 **6.00**  ·  Ruben Muller - 2 **13.00**  ·  Clemens Lippmann - 2 **15.00**  ·  Jonah Sticker - 2 **13.00**  ·  Raphael Obermair - 2 **21.00**  ·  Santiago Castaneda - 2 **15.00**  ·  Jano Ter Horst - 2 **11.00**  ·  Tom Baack - 2 **15.00**  ·  Mattes Hansen - 2 **21.00**  ·  Marcel Hoffmeier - 2 **21.00**  ·  Nyamekye Awortwie Grant - 2 **21.00**  ·  Marvin Pieringer - 3 **15.00**  ·  Stefano Marino - 3 **10.00**  ·  Steffen Tigges - 3 **19.00**  ·  Sven Michel - 3 **10.00**  ·  Deniz Zeitler - 3 **13.00**  ·  Sebastian Klaas - 3 **21.00**  ·  Laurin Curda - 3 **21.00**  ·  Oliver Batista Meier - 3 **21.00**  ·  Stefano Marino - 4 **21.00**  ·  Niklas Mohr - 1 **3.25**  ·  Niklas Mohr - 2 **15.00**
 - **Away Player Shots Total:**
     - 13,5: más **1.83** · menos **1.83**
@@ -207,42 +207,42 @@ _Sin bajas comunicadas por ahora._
 | Malik Pimpong | F | 2 | 27 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,61 · córners esperados 9,9._
+_Goles esperados: local 1,28 · visitante 1,60 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 45% | 44% | 45% | 2.15 | -4% |
-| 1X2: X | 24% | 25% | 25% | 3.80 | -6% |
+| 1X2: X | 25% | 25% | 25% | 3.80 | -6% |
 | 1X2: 1 | 31% | 31% | 31% | 3.10 | -5% |
 | Doble oportunidad: X2 | 69% | 69% | 69% | 1.36 | -6% |
-| Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
+| Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 55% | 56% | 56% | 1.67 | -7% |
-| Ambos marcan: No | 42% | 35% | 39% | 2.62 | +1% |
+| Ambos marcan: No | 42% | 35% | 39% | 2.62 | +2% |
 | Ambos marcan: Sí | 58% | 65% | 61% | 1.44 | -12% |
-| Goles más/menos: Más de 2.5 | 55% | 62% | 59% | 1.53 | -10% |
-| Goles más/menos: Más de 3.5 | 33% | 41% | 37% | 2.30 | -14% |
+| Goles más/menos: Más de 2.5 | 55% | 62% | 58% | 1.53 | -11% |
+| Goles más/menos: Más de 3.5 | 33% | 41% | 37% | 2.30 | -15% |
 | Goles más/menos: Más de 4.5 | 17% | 24% | 20% | 4.00 | -19% |
-| Goles más/menos: Menos de 2.5 | 45% | 38% | 41% | 2.50 | +3% |
+| Goles más/menos: Menos de 2.5 | 45% | 38% | 42% | 2.50 | +4% |
 | Goles más/menos: Menos de 3.5 | 67% | 59% | 63% | 1.62 | +2% |
 | Goles más/menos: Menos de 4.5 | 83% | 76% | 80% | 1.25 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 77% | 74% | 1.22 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 44% | 40% | 2.10 | -16% |
-| Goles 1ª parte más/menos: Más de 2.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 23% | 26% | 4.00 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | -0% |
+| Goles 1ª parte más/menos: Más de 2.5 | 13% | 21% | 17% | 4.50 | -24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 56% | 60% | 1.67 | +0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
 | Goles del local: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
-| Goles del local: Más de 1.5 | 37% | 42% | 40% | 2.20 | -13% |
-| Goles del local: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -2% |
-| Goles del local: Menos de 1.5 | 63% | 58% | 60% | 1.62 | -2% |
+| Goles del local: Más de 1.5 | 37% | 42% | 39% | 2.20 | -13% |
+| Goles del local: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
+| Goles del local: Menos de 1.5 | 63% | 58% | 61% | 1.62 | -2% |
 | Goles del visitante: Más de 1.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Goles del visitante: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
-| Goles del visitante: Menos de 1.5 | 52% | 46% | 49% | 2.00 | -2% |
-| Goles del visitante: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
+| Goles del visitante: Más de 2.5 | 22% | 28% | 25% | 3.40 | -16% |
+| Goles del visitante: Menos de 1.5 | 52% | 46% | 49% | 2.00 | -1% |
+| Goles del visitante: Menos de 2.5 | 78% | 72% | 75% | 1.30 | -2% |
 | Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: 2 | 34% | 35% | 35% | 2.62 | -10% |
-| 1X2 descanso: X | 41% | 38% | 39% | 2.40 | -6% |
+| 1X2 descanso: 2 | 34% | 35% | 35% | 2.62 | -9% |
+| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -3% |
 | 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

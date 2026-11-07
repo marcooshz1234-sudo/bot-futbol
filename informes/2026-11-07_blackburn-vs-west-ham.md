@@ -1,13 +1,13 @@
 # Blackburn – West Ham
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:02_
 
 - **1X2:** 1 **5.50**  ·  X **3.80**  ·  2 **1.62**
-- **Doble oportunidad:** 1X **2.15**  ·  12 **1.25**  ·  X2 **1.17**
+- **Doble oportunidad:** 1X **2.25**  ·  12 **1.25**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
@@ -34,14 +34,14 @@ _Actualizadas: 06/11 19:58_
     - 11,5: más **2.00** · menos **1.73**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**
-- **1X2 descanso:** 1 **4.75**  ·  X **2.50**  ·  2 **2.20**
+- **1X2 descanso:** 1 **4.75**  ·  X **2.50**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **2.62**  ·  2 **1.33**
 - **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.25**
 - **Win Both Halves:** 1 **19.00**  ·  2 **4.00**
@@ -56,8 +56,10 @@ _Actualizadas: 06/11 19:58_
     - 2,5: más **2.25** · menos **1.57**
 - **Away Team Total Cards:**
     - 2,5: más **2.25** · menos **1.57**
+- **ShotOnTarget 1x2:** 1 **2.88**  ·  X **7.50**  ·  2 **1.57**
 - **Total Shots:**
     - 27,5: más **1.91** · menos **1.80**
+- **Shots.1x2:** 1 **3.25**  ·  X **17.00**  ·  2 **1.33**
 - **Home Player Shots On Target Total:** Mathias Jorgensen - 2 **6.00**  ·  Mathias Jorgensen - 3 **21.00**  ·  Andri Gudjohnsen - 1 **1.83**  ·  Ryoya Morishita - 1 **1.91**  ·  Todd Cantwell - 1 **1.80**  ·  Augustus Kargbo - 1 **1.73**  ·  Oladapo Afolayan - 1 **1.80**  ·  Mathias Jorgensen - 1 **1.91**  ·  Moussa Baradji - 1 **2.10**  ·  Jayden Fevrier - 1 **1.91**  ·  Kristi Montgomery - 1 **4.00**  ·  Sean McLoughlin - 1 **7.00**  ·  Dion De Neve - 1 **3.40**  ·  Jake Garrett - 1 **3.75**  ·  Sam Morsy - 1 **3.40**  ·  Tom Atcheson - 1 **8.00**  ·  Adam Forshaw - 1 **5.00**  ·  Hayden Carter - 1 **7.00**  ·  Harry Pickering - 1 **5.50**  ·  Yuri Ribeiro - 1 **8.00**  ·  Ryan Alebiosu - 1 **5.00**  ·  Andri Gudjohnsen - 2 **5.50**  ·  Ryoya Morishita - 2 **6.00**  ·  Todd Cantwell - 2 **5.50**  ·  Augustus Kargbo - 2 **5.00**  ·  Oladapo Afolayan - 2 **5.00**  ·  Moussa Baradji - 2 **7.00**  ·  Jayden Fevrier - 2 **6.00**  ·  Kristi Montgomery - 2 **21.00**  ·  Dion De Neve - 2 **17.00**  ·  Jake Garrett - 2 **21.00**  ·  Sam Morsy - 2 **17.00**  ·  Andri Gudjohnsen - 3 **19.00**  ·  Ryoya Morishita - 3 **21.00**  ·  Todd Cantwell - 3 **19.00**  ·  Augustus Kargbo - 3 **17.00**  ·  Oladapo Afolayan - 3 **17.00**  ·  Moussa Baradji - 3 **21.00**  ·  Jayden Fevrier - 3 **21.00**  ·  Gady Beyuku - 1 **5.00**
 - **Away Player Shots On Target Total:** Taty Castellanos **6.00**  ·  Kristi Montgomery **34.00**  ·  Arne Engels **41.00**  ·  Manor Solomon **29.00**  ·  Andri Gudjohnsen **12.00**  ·  Tomas Soucek **8.00**  ·  Jayden Fevrier **67.00**  ·  Jake Garrett **81.00**  ·  Mathias Jorgensen **15.00**  ·  Augustus Kargbo **34.00**  ·  Yuki Ohashi **23.00**  ·  Mohamadou Kante **13.00**  ·  Airidas Golambeckis **11.00**  ·  Scott Wharton **19.00**  ·  Divine Mukasa **34.00**  ·  Joel Piroe **21.00**  ·  Todd Cantwell **29.00**  ·  Harry Pickering **51.00**  ·  Hayden Carter **26.00**  ·  Adam Forshaw **101.00**  ·  Soungoutou Magassa **51.00**  ·  Sean McLoughlin **26.00**  ·  Dion De Neve **67.00**  ·  Ryan Alebiosu **81.00**  ·  Max Kilman **15.00**  ·  Joel Veltman **21.00**  ·  Edvin Austbo **17.00**  ·  Joshua Ajala **12.00**  ·  Ryoya Morishita **34.00**  ·  Kyle Walker-Peters **81.00**  ·  Yuri Ribeiro **126.00**  ·  Jarrod Bowen **11.00**  ·  Konstantinos Mavropanos **6.00**  ·  Pablo Felipe **12.00**  ·  Felipe Morato **15.00**  ·  Oliver Scarles **23.00**  ·  Adama Boiro **81.00**  ·  Oladapo Afolayan **19.00**  ·  Sam Morsy **67.00**  ·  Lewis Orford **26.00**  ·  Ezra Mayers **19.00**
 - **Away Player Shots Total:**
@@ -205,12 +207,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 63% | 58% | 61% | 1.62 | -2% |
+| 1X2: 2 | 63% | 58% | 60% | 1.62 | -2% |
 | 1X2: X | 18% | 25% | 21% | 3.80 | -19% |
 | 1X2: 1 | 19% | 17% | 18% | 5.50 | -0% |
-| Doble oportunidad: X2 | 81% | 81% | 81% | 1.17 | -6% |
+| Doble oportunidad: X2 | 81% | 83% | 82% | 1.14 | -7% |
 | Doble oportunidad: 12 | 82% | 75% | 79% | 1.25 | -2% |
-| Doble oportunidad: 1X | 37% | 44% | 40% | 2.15 | -13% |
+| Doble oportunidad: 1X | 37% | 42% | 40% | 2.25 | -11% |
 | Ambos marcan: No | 31% | 42% | 37% | 2.20 | -19% |
 | Ambos marcan: Sí | 69% | 58% | 63% | 1.62 | +2% |
 | Goles más/menos: Más de 2.5 | 75% | 60% | 68% | 1.57 | +6% |
@@ -227,13 +229,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 40% | 29% | 34% | 3.25 | +12% |
 | Goles del local: Menos de 0.5 | 25% | 35% | 30% | 2.62 | -20% |
 | Goles del local: Menos de 1.5 | 60% | 71% | 66% | 1.33 | -13% |
-| Goles del visitante: Más de 1.5 | 72% | 61% | 67% | 1.53 | +2% |
-| Goles del visitante: Más de 2.5 | 47% | 35% | 41% | 2.62 | +8% |
-| Goles del visitante: Menos de 1.5 | 28% | 39% | 33% | 2.38 | -20% |
+| Goles del visitante: Más de 1.5 | 72% | 61% | 66% | 1.53 | +2% |
+| Goles del visitante: Más de 2.5 | 47% | 35% | 41% | 2.62 | +7% |
+| Goles del visitante: Menos de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
 | Goles del visitante: Menos de 2.5 | 53% | 65% | 59% | 1.44 | -15% |
 | Córners más/menos: Más de 11.5 | 37% | 46% | 42% | 2.00 | -17% |
 | Córners más/menos: Menos de 11.5 | 63% | 54% | 58% | 1.73 | +1% |
-| 1X2 descanso: 2 | 48% | 43% | 45% | 2.20 | -0% |
-| 1X2 descanso: X | 32% | 38% | 35% | 2.50 | -13% |
+| 1X2 descanso: 2 | 48% | 44% | 46% | 2.10 | -4% |
+| 1X2 descanso: X | 32% | 37% | 35% | 2.50 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

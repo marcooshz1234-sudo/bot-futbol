@@ -1,10 +1,10 @@
 # Excelsior – GO Ahead Eagles
 **Eredivisie** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Van Donge & De Roo Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **2.80**  ·  X **3.60**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
@@ -190,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | Eus Waayers | D | 1 | 31 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,91 · córners esperados 9,4._
+_Goles esperados: local 1,64 · visitante 1,91 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -198,14 +198,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 45% | 40% | 42% | 2.35 | -0% |
 | 1X2: X | 22% | 26% | 24% | 3.60 | -13% |
-| 1X2: 1 | 33% | 34% | 33% | 2.80 | -6% |
-| Doble oportunidad: X2 | 67% | 67% | 67% | 1.40 | -6% |
+| 1X2: 1 | 33% | 34% | 34% | 2.80 | -6% |
+| Doble oportunidad: X2 | 67% | 67% | 67% | 1.40 | -7% |
 | Doble oportunidad: 12 | 78% | 73% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 55% | 60% | 58% | 1.57 | -10% |
-| Ambos marcan: No | 32% | 35% | 34% | 2.62 | -12% |
-| Ambos marcan: Sí | 68% | 65% | 66% | 1.44 | -4% |
+| Ambos marcan: No | 31% | 35% | 33% | 2.62 | -12% |
+| Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
 | Goles más/menos: Más de 2.5 | 69% | 62% | 66% | 1.50 | -2% |
-| Goles más/menos: Más de 3.5 | 47% | 42% | 45% | 2.20 | -2% |
+| Goles más/menos: Más de 3.5 | 47% | 42% | 45% | 2.20 | -1% |
 | Goles más/menos: Más de 4.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles más/menos: Menos de 2.5 | 31% | 38% | 34% | 2.50 | -14% |
 | Goles más/menos: Menos de 3.5 | 53% | 58% | 55% | 1.62 | -11% |
@@ -214,20 +214,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 42% | 44% | 2.20 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -9% |
-| Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del local: Más de 1.5 | 48% | 46% | 47% | 2.00 | -5% |
-| Goles del local: Más de 2.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -11% |
-| Goles del local: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -9% |
-| Goles del local: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Goles del local: Más de 0.5 | 81% | 78% | 79% | 1.20 | -5% |
+| Goles del local: Más de 1.5 | 49% | 46% | 48% | 2.00 | -5% |
+| Goles del local: Más de 2.5 | 23% | 22% | 22% | 4.33 | -4% |
+| Goles del local: Menos de 0.5 | 19% | 22% | 21% | 4.33 | -11% |
+| Goles del local: Menos de 1.5 | 51% | 54% | 52% | 1.73 | -9% |
+| Goles del local: Menos de 2.5 | 77% | 78% | 78% | 1.20 | -7% |
 | Goles del visitante: Más de 1.5 | 57% | 51% | 54% | 1.80 | -2% |
 | Goles del visitante: Más de 2.5 | 30% | 25% | 27% | 3.75 | +3% |
-| Goles del visitante: Menos de 1.5 | 43% | 49% | 46% | 1.91 | -12% |
+| Goles del visitante: Menos de 1.5 | 43% | 49% | 46% | 1.91 | -13% |
 | Goles del visitante: Menos de 2.5 | 70% | 75% | 73% | 1.25 | -9% |
 | Córners más/menos: Más de 9.5 | 44% | 51% | 48% | 1.80 | -14% |
 | Córners más/menos: Menos de 9.5 | 56% | 49% | 52% | 1.91 | -0% |
-| 1X2 descanso: 2 | 36% | 33% | 34% | 2.75 | -5% |
+| 1X2 descanso: 2 | 35% | 33% | 34% | 2.75 | -5% |
 | 1X2 descanso: X | 36% | 37% | 36% | 2.50 | -9% |
-| 1X2 descanso: 1 | 28% | 30% | 29% | 3.10 | -10% |
+| 1X2 descanso: 1 | 29% | 30% | 29% | 3.10 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

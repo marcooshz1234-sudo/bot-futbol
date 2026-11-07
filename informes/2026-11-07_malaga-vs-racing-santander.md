@@ -1,14 +1,14 @@
 # Malaga – Racing Santander
 **LaLiga** · Regular Season - 12 · 07/11/2026 14:00 (hora España) · La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:02_
 
 - **1X2:** 1 **2.35**  ·  X **3.60**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
-- **Ambos marcan:** Sí **1.53**  ·  No **2.38**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.50**
@@ -18,7 +18,7 @@ _Actualizadas: 06/11 19:58_
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.38** · menos **1.53**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.20** · menos **4.33**
@@ -34,8 +34,8 @@ _Actualizadas: 06/11 19:58_
     - 10: más **1.85** · menos **1.95**
     - 10,5: más **2.00** · menos **1.73**
 - **Tarjetas más/menos:**
-    - 5,5: más **2.20** · menos **1.62**
-- **1X2 descanso:** 1 **2.88**  ·  X **2.38**  ·  2 **3.25**
+    - 5,5: más **1.91** · menos **1.80**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.30**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -46,13 +46,17 @@ _Actualizadas: 06/11 19:58_
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.83**
 - **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **3.50**
 - **Win Both Halves:** 1 **8.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.75**  ·  Home/No **4.50**  ·  Draw/No **15.00**  ·  Away/No **6.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.50**  ·  Draw/No **13.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Home Team Total Cards:**
+    - 2,5: más **1.80** · menos **1.91**
+- **Away Team Total Cards:**
+    - 2,5: más **1.73** · menos **2.00**
 - **Total ShotOnGoal:**
     - 9,5: más **1.80** · menos **1.91**
 - **Total Shots:**
@@ -66,7 +70,7 @@ _Actualizadas: 06/11 19:58_
 - **Player Fouls Committed:** Adam Aznou - 1 **1.22**  ·  Adam Aznou - 2 **2.00**  ·  Adam Aznou - 3 **4.00**  ·  Jeanuel Belocian - 1 **1.14**  ·  Jeanuel Belocian - 2 **1.67**  ·  Jeanuel Belocian - 3 **3.00**  ·  Jeanuel Belocian - 4 **6.00**  ·  Facundo Gonzalez - 1 **1.53**  ·  Facundo Gonzalez - 2 **3.50**  ·  Facundo Gonzalez - 3 **10.00**  ·  Aaron Martin - 1 **1.36**  ·  Aaron Martin - 2 **2.62**  ·  Aaron Martin - 3 **6.50**  ·  Aaron Martin - 4 **19.00**  ·  Pablo Garcia - 1 **1.25**  ·  Pablo Garcia - 2 **2.20**  ·  Pablo Garcia - 3 **4.50**  ·  Pablo Garcia - 4 **13.00**  ·  Pablo Garcia - 5 **26.00**  ·  Andre Almeida - 1 **1.25**  ·  Andre Almeida - 2 **2.20**  ·  Andre Almeida - 3 **4.50**  ·  Andre Almeida - 4 **13.00**  ·  Juan Berrocal - 1 **1.33**  ·  Juan Berrocal - 2 **2.62**  ·  Juan Berrocal - 3 **6.00**  ·  Juan Berrocal - 4 **17.00**  ·  Carlos Chupete - 1 **1.20**  ·  Adrian Nino - 1 **1.40**  ·  David Larrubia - 1 **1.50**  ·  Eneko Jauregui - 1 **1.11**  ·  Joaquin Munoz - 1 **1.53**  ·  Juan Cruz - 1 **1.44**  ·  Rafa Rodriguez - 1 **1.05**  ·  Francisco Juani - 1 **1.30**  ·  Haitam Abaida - 1 **1.05**  ·  Carlos Dotor - 1 **1.25**  ·  Jose Salinas - 1 **1.12**  ·  Daniel Lorenzo - 1 **1.30**  ·  Izan Merino - 1 **1.44**  ·  Ramon Enriquez - 1 **1.11**  ·  Fernando Calero - 1 **1.44**  ·  Rafa Garrido - 1 **1.44**  ·  Alex Pastor - 1 **1.12**  ·  Angel Recio - 1 **1.17**  ·  Azaceta Einar Galilea - 1 **1.67**  ·  Carlos Puga - 1 **1.05**  ·  Moussa Diarra - 1 **1.20**  ·  Carlos Chupete - 2 **1.83**  ·  Adrian Nino - 2 **2.75**  ·  David Larrubia - 2 **3.40**  ·  Eneko Jauregui - 2 **1.57**  ·  Joaquin Munoz - 2 **3.50**  ·  Juan Cruz - 2 **3.25**  ·  Rafa Rodriguez - 2 **1.28**  ·  Francisco Juani - 2 **2.38**  ·  Haitam Abaida - 2 **1.30**  ·  Carlos Dotor - 2 **2.10**  ·  Jose Salinas - 2 **1.62**  ·  Daniel Lorenzo - 2 **2.38**  ·  Izan Merino - 2 **3.00**  ·  Ramon Enriquez - 2 **1.57**  ·  Fernando Calero - 2 **3.25**  ·  Rafa Garrido - 2 **3.00**  ·  Alex Pastor - 2 **1.62**  ·  Angel Recio - 2 **1.80**  ·  Azaceta Einar Galilea - 2 **4.00**  ·  Carlos Puga - 2 **1.28**  ·  Moussa Diarra - 2 **1.83**  ·  Carlos Chupete - 3 **3.75**  ·  Adrian Nino - 3 **7.00**  ·  David Larrubia - 3 **9.00**  ·  Eneko Jauregui - 3 **2.62**  ·  Joaquin Munoz - 3 **10.00**  ·  Juan Cruz - 3 **9.00**  ·  Rafa Rodriguez - 3 **1.83**  ·  Francisco Juani - 3 **5.50**  ·  Haitam Abaida - 3 **1.83**  ·  Carlos Dotor - 3 **4.33**  ·  Jose Salinas - 3 **2.75**  ·  Daniel Lorenzo - 3 **5.50**  ·  Izan Merino - 3 **8.00**  ·  Ramon Enriquez - 3 **2.62**  ·  Carlos Chupete - 4 **9.00**  ·  Adrian Nino - 4 **19.00**  ·  David Larrubia - 4 **23.00**  ·  Eneko Jauregui - 4 **5.50**  ·  Joaquin Munoz - 4 **26.00**  ·  Juan Cruz - 4 **23.00**  ·  Rafa Rodriguez - 4 **3.25**  ·  Francisco Juani - 4 **15.00**  ·  Haitam Abaida - 4 **3.25**  ·  Carlos Chupete - 5 **21.00**  ·  Eneko Jauregui - 5 **13.00**  ·  Jens Cajuste - 1 **1.30**  ·  Jens Cajuste - 2 **2.38**  ·  Jens Cajuste - 3 **5.50**  ·  Andre Almeida - 5 **26.00**  ·  Adam Aznou - 4 **10.00**  ·  Jens Cajuste - 4 **15.00**  ·  Adam Aznou - 5 **23.00**  ·  Carlos Puga - 3 **1.83**  ·  Alex Pastor - 3 **2.75**  ·  Rafa Garrido - 3 **8.00**  ·  Moussa Diarra - 3 **3.75**  ·  Fernando Calero - 3 **9.00**  ·  Angel Recio - 3 **3.40**  ·  Azaceta Einar Galilea - 3 **13.00**  ·  Carlos Puga - 4 **3.25**  ·  Alex Pastor - 4 **6.00**  ·  Ramon Enriquez - 4 **5.50**  ·  Rafa Garrido - 4 **21.00**  ·  Jose Salinas - 4 **6.00**  ·  Moussa Diarra - 4 **9.00**  ·  Daniel Lorenzo - 4 **15.00**  ·  Carlos Dotor - 4 **11.00**  ·  Fernando Calero - 4 **23.00**  ·  Izan Merino - 4 **21.00**  ·  Angel Recio - 4 **7.00**  ·  Carlos Puga - 5 **6.00**  ·  Alex Pastor - 5 **13.00**  ·  Ramon Enriquez - 5 **13.00**  ·  Jose Salinas - 5 **13.00**  ·  Moussa Diarra - 5 **21.00**  ·  Carlos Puga - 6 **13.00**  ·  Alex Pastor - 6 **26.00**  ·  Ramon Enriquez - 6 **26.00**  ·  Carlos Puga - 7 **23.00**  ·  Rafa Rodriguez - 5 **6.00**  ·  Haitam Abaida - 5 **6.00**  ·  Angel Recio - 5 **17.00**  ·  Carlos Dotor - 5 **26.00**  ·  Rafa Rodriguez - 6 **13.00**  ·  Haitam Abaida - 6 **13.00**  ·  Eneko Jauregui - 6 **26.00**  ·  Jose Salinas - 6 **26.00**  ·  Rafa Rodriguez - 7 **23.00**  ·  Haitam Abaida - 7 **26.00**  ·  Pablo Martinez - 4 **11.00**  ·  Pablo Martinez - 1 **1.25**  ·  Juan Carlos Arana - 1 **1.18**  ·  Andres Martin - 1 **1.73**  ·  Asier Villalibre - 1 **1.18**  ·  Sergio Canales - 1 **1.36**  ·  Yassir Zabiri - 1 **1.22**  ·  Giorgi Guliashvili - 1 **1.17**  ·  Diego Diaz - 1 **1.67**  ·  Inigo Vicente - 1 **1.50**  ·  Gustavo Puerta - 1 **1.11**  ·  Maguette Gueye - 1 **1.11**  ·  Inigo Sainz-Maza - 1 **1.25**  ·  Jorge Salinas - 1 **1.25**  ·  Alvaro Mantilla - 1 **1.30**  ·  Manu Hernando - 1 **1.67**  ·  Pablo Ramon - 1 **1.83**  ·  Juan Carlos Arana - 2 **1.83**  ·  Andres Martin - 2 **4.50**  ·  Asier Villalibre - 2 **1.83**  ·  Sergio Canales - 2 **2.62**  ·  Yassir Zabiri - 2 **2.00**  ·  Giorgi Guliashvili - 2 **1.73**  ·  Diego Diaz - 2 **4.00**  ·  Inigo Vicente - 2 **3.40**  ·  Gustavo Puerta - 2 **1.57**  ·  Maguette Gueye - 2 **1.57**  ·  Inigo Sainz-Maza - 2 **2.20**  ·  Jorge Salinas - 2 **2.20**  ·  Alvaro Mantilla - 2 **2.38**  ·  Manu Hernando - 2 **4.00**  ·  Pablo Ramon - 2 **5.00**  ·  Juan Carlos Arana - 3 **3.75**  ·  Andres Martin - 3 **15.00**  ·  Asier Villalibre - 3 **3.75**  ·  Sergio Canales - 3 **6.50**  ·  Yassir Zabiri - 3 **4.00**  ·  Giorgi Guliashvili - 3 **3.40**  ·  Diego Diaz - 3 **13.00**  ·  Inigo Vicente - 3 **9.00**  ·  Gustavo Puerta - 3 **2.62**  ·  Maguette Gueye - 3 **2.62**  ·  Inigo Sainz-Maza - 3 **4.50**  ·  Jorge Salinas - 3 **4.50**  ·  Alvaro Mantilla - 3 **5.50**  ·  Manu Hernando - 3 **13.00**  ·  Pablo Ramon - 3 **17.00**  ·  Juan Carlos Arana - 4 **9.00**  ·  Asier Villalibre - 4 **9.00**  ·  Sergio Canales - 4 **19.00**  ·  Yassir Zabiri - 4 **10.00**  ·  Giorgi Guliashvili - 4 **7.00**  ·  Inigo Vicente - 4 **23.00**  ·  Gustavo Puerta - 4 **5.50**  ·  Maguette Gueye - 4 **5.50**  ·  Inigo Sainz-Maza - 4 **13.00**  ·  Juan Carlos Arana - 5 **19.00**  ·  Asier Villalibre - 5 **19.00**  ·  Yassir Zabiri - 5 **23.00**  ·  Giorgi Guliashvili - 5 **17.00**  ·  Ivan Martin - 1 **1.33**  ·  Ivan Martin - 2 **2.50**  ·  Ivan Martin - 3 **6.00**  ·  Pablo Martinez - 2 **2.10**  ·  Pablo Martinez - 3 **4.33**  ·  Pablo Martinez - 5 **26.00**  ·  Maguette Gueye - 5 **13.00**  ·  Jorge Salinas - 4 **13.00**  ·  Alvaro Mantilla - 4 **15.00**  ·  Ivan Martin - 4 **17.00**  ·  Facundo Gonzalez - 4 **26.00**  ·  Inigo Sainz-Maza - 5 **26.00**  ·  Jorge Salinas - 5 **26.00**  ·  Maguette Gueye - 6 **26.00**  ·  Gustavo Puerta - 5 **13.00**  ·  Gustavo Puerta - 6 **26.00**  ·  Iker Luque - 1 **1.36**  ·  Matteo Prati - 1 **1.25**  ·  Iker Luque - 2 **2.62**  ·  Matteo Prati - 2 **2.20**  ·  Iker Luque - 3 **6.50**  ·  Matteo Prati - 3 **4.50**  ·  Iker Luque - 4 **17.00**  ·  Matteo Prati - 4 **13.00**  ·  Jeanuel Belocian - 5 **15.00**  ·  Matteo Prati - 5 **26.00**  ·  Pedro Felipe - 1 **1.30**  ·  Pedro Felipe - 2 **2.38**  ·  Pedro Felipe - 3 **5.50**  ·  Pedro Felipe - 4 **15.00**
 - **Goalkeeper Saves:** Julen Agirrezabala - 2 **1.11**  ·  Julen Agirrezabala - 3 **1.40**  ·  Julen Agirrezabala - 4 **1.91**  ·  Julen Agirrezabala - 5 **3.25**  ·  Julen Agirrezabala - 6 **6.00**  ·  Alfonso Herrero - 3 **1.50**  ·  Alfonso Herrero - 4 **2.20**  ·  Alfonso Herrero - 5 **3.75**  ·  Alfonso Herrero - 6 **7.00**  ·  Alfonso Herrero - 2 **1.14**  ·  Julen Agirrezabala **11.00**
 - **Anytime Goal Scorer:** Pablo Ramon **15.00**  ·  RaFA Rodriguez **3.50**  ·  Pablo Garcia **4.00**  ·  Eneko Jauregui **2.50**  ·  Aaron Martin **12.00**  ·  David Larrubia **3.20**  ·  Haitam Abaida **4.00**  ·  Daniel Lorenzo **5.50**  ·  Ramon Enriquez **10.00**  ·  Izan Merino **7.50**  ·  Alex Pastor **12.00**  ·  Azaceta Einar Galilea **12.00**  ·  Carlos Puga **12.00**  ·  Joaquin Munoz **3.50**  ·  Jose Salinas **8.00**  ·  Pablo Martinez **5.50**  ·  Andres Martin **2.75**  ·  Juan Carlos Arana **2.88**  ·  Alvaro Mantilla **15.00**  ·  Inigo Vicente **5.50**  ·  Jorge Salinas **10.00**  ·  Maguette Gueye **7.50**  ·  Manu Hernando **15.00**  ·  Inigo Sainz-Maza **6.50**  ·  Giorgi Guliashvili **3.40**  ·  Angel Recio **9.00**  ·  Pedro Felipe dos Santos **12.00**  ·  Gustavo Puerta **7.50**  ·  Jeanuel Belocian **12.00**  ·  Ivan Martin **9.00**  ·  Andre Almeida **4.75**  ·  Facundo Gonzalez **12.00**  ·  Sergio Canales **3.40**  ·  Iker Luque **4.33**  ·  Francisco Juani **4.00**  ·  Juan Cruz **2.88**  ·  Jens Cajuste **8.00**  ·  Yassir Zabiri **2.50**  ·  Asier Villalibre **2.50**  ·  Moussa Diarra **12.00**  ·  Diego Diaz **4.00**  ·  Adam Aznou **6.00**  ·  Matteo Prati **6.50**  ·  Juan Berrocal **15.00**  ·  Carlos Dotor **3.50**  ·  Fernando Calero **10.00**  ·  Carlos Chupete **2.05**  ·  Adrian Nino **2.05**  ·  Rafa Garrido **10.00**
-- **Player to Score or Assist:** Pablo Ramon **9.00**  ·  RaFA Rodriguez **2.38**  ·  Pablo Garcia **2.88**  ·  Eneko Jauregui **1.95**  ·  Aaron Martin **3.10**  ·  David Larrubia **2.25**  ·  Haitam Abaida **2.50**  ·  Daniel Lorenzo **3.10**  ·  Ramon Enriquez **3.00**  ·  Izan Merino **2.88**  ·  Alex Pastor **6.50**  ·  Azaceta Einar Galilea **6.50**  ·  Carlos Puga **4.50**  ·  Joaquin Munoz **2.25**  ·  Jose Salinas **3.75**  ·  Pablo Martinez **2.62**  ·  Andres Martin **1.95**  ·  Juan Carlos Arana **2.40**  ·  Alvaro Mantilla **8.50**  ·  Inigo Vicente **2.40**  ·  Jorge Salinas **4.00**  ·  Maguette Gueye **5.00**  ·  Manu Hernando **10.00**  ·  Inigo Sainz-Maza **4.75**  ·  Giorgi Guliashvili **2.40**  ·  Angel Recio **5.50**  ·  Gustavo Puerta **4.33**  ·  Jeanuel Belocian **8.00**  ·  Ivan Martin **4.50**  ·  Andre Almeida **2.88**  ·  Facundo Gonzalez **8.50**  ·  Sergio Canales **2.05**  ·  Iker Luque **2.62**  ·  Francisco Juani **2.38**  ·  Juan Cruz **1.91**  ·  Jens Cajuste **4.75**  ·  Yassir Zabiri **2.05**  ·  Asier Villalibre **2.05**  ·  Moussa Diarra **6.50**  ·  Diego Diaz **2.50**  ·  Adam Aznou **3.60**  ·  Matteo Prati **4.50**  ·  Juan Berrocal **9.00**  ·  Carlos Dotor **2.40**  ·  Fernando Calero **5.50**  ·  Pedro Felipe **6.00**  ·  Carlos Chupete **1.73**  ·  Adrian Nino **1.73**  ·  Rafa Garrido **4.50**
+- **Player to Score or Assist:** Pablo Ramon **9.00**  ·  RaFA Rodriguez **2.38**  ·  Pablo Garcia **2.88**  ·  Eneko Jauregui **1.95**  ·  Aaron Martin **3.10**  ·  David Larrubia **2.30**  ·  Haitam Abaida **2.50**  ·  Daniel Lorenzo **3.10**  ·  Ramon Enriquez **3.00**  ·  Izan Merino **2.88**  ·  Alex Pastor **6.50**  ·  Azaceta Einar Galilea **6.50**  ·  Carlos Puga **4.50**  ·  Joaquin Munoz **2.25**  ·  Jose Salinas **3.75**  ·  Pablo Martinez **2.62**  ·  Andres Martin **1.95**  ·  Juan Carlos Arana **2.40**  ·  Alvaro Mantilla **8.50**  ·  Inigo Vicente **2.50**  ·  Jorge Salinas **4.00**  ·  Maguette Gueye **5.00**  ·  Manu Hernando **10.00**  ·  Inigo Sainz-Maza **4.75**  ·  Giorgi Guliashvili **2.40**  ·  Angel Recio **5.50**  ·  Gustavo Puerta **4.33**  ·  Jeanuel Belocian **8.00**  ·  Ivan Martin **4.50**  ·  Andre Almeida **2.88**  ·  Facundo Gonzalez **8.50**  ·  Sergio Canales **2.05**  ·  Iker Luque **2.62**  ·  Francisco Juani **2.38**  ·  Juan Cruz **1.91**  ·  Jens Cajuste **4.75**  ·  Yassir Zabiri **2.10**  ·  Asier Villalibre **2.05**  ·  Moussa Diarra **6.50**  ·  Diego Diaz **2.50**  ·  Adam Aznou **3.60**  ·  Matteo Prati **4.50**  ·  Juan Berrocal **9.00**  ·  Carlos Dotor **2.40**  ·  Fernando Calero **5.50**  ·  Pedro Felipe **6.00**  ·  Carlos Chupete **1.73**  ·  Adrian Nino **1.73**  ·  Rafa Garrido **4.50**
 
 ## Estadísticas de equipo
 | | Malaga (total) | Malaga en casa | Racing Santander (total) | Racing Santander fuera |
@@ -201,30 +205,30 @@ _Sin bajas comunicadas por ahora._
 | M. Gueye | M | 7 | 175 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 1,45 · córners esperados 11,0._
+_Goles esperados: local 1,57 · visitante 1,45 · córners esperados 11,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 33% | 34% | 2.88 | -1% |
+| 1X2: 2 | 35% | 33% | 34% | 2.88 | -2% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 40% | 41% | 40% | 2.35 | -5% |
+| 1X2: 1 | 40% | 41% | 41% | 2.35 | -5% |
 | Doble oportunidad: X2 | 60% | 60% | 60% | 1.57 | -6% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -5% |
 | Doble oportunidad: 1X | 65% | 67% | 66% | 1.40 | -8% |
-| Ambos marcan: No | 40% | 39% | 39% | 2.38 | -6% |
-| Ambos marcan: Sí | 60% | 61% | 61% | 1.53 | -7% |
+| Ambos marcan: No | 39% | 41% | 40% | 2.25 | -9% |
+| Ambos marcan: Sí | 61% | 59% | 60% | 1.57 | -6% |
 | Goles más/menos: Más de 1.5 | 80% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 58% | 57% | 57% | 1.67 | -4% |
 | Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -6% |
-| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -11% |
+| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -10% |
 | Goles más/menos: Menos de 1.5 | 20% | 21% | 20% | 4.50 | -8% |
 | Goles más/menos: Menos de 2.5 | 42% | 43% | 43% | 2.20 | -6% |
 | Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
 | Goles más/menos: Menos de 4.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
 | Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
 | Goles del local: Más de 1.5 | 46% | 49% | 47% | 1.91 | -9% |
 | Goles del local: Más de 2.5 | 21% | 23% | 22% | 4.00 | -12% |
@@ -237,8 +241,8 @@ _Goles esperados: local 1,56 · visitante 1,45 · córners esperados 11,0._
 | Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
 | Córners más/menos: Más de 10.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Córners más/menos: Menos de 10.5 | 51% | 54% | 52% | 1.73 | -9% |
-| 1X2 descanso: 2 | 29% | 29% | 29% | 3.25 | -7% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
-| 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -8% |
+| 1X2 descanso: 2 | 29% | 28% | 28% | 3.25 | -8% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 32% | 32% | 32% | 2.88 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

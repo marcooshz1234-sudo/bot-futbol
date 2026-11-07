@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 439 · aciertos: 274 (62%) · beneficio a 1 € por pick: -52.28 €
+Picks ya jugados: 451 · aciertos: 280 (62%) · beneficio a 1 € por pick: -56.53 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 49 | 76 | 64% | -4.49 € |
-| jugador | 81 | 126 | 64% | -14.97 € |
-| goles | 128 | 201 | 64% | -23.26 € |
+| jugador | 87 | 136 | 64% | -17.22 € |
+| resultado | 49 | 77 | 64% | -5.49 € |
+| goles | 128 | 202 | 63% | -24.26 € |
 | tarjetas | 8 | 13 | 62% | -0.33 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 2 | 10 | 20% | -6.76 € |
@@ -21,7 +21,7 @@ Picks ya jugados: 439 · aciertos: 274 (62%) · beneficio a 1 € por pick: -52.
 |---|---|---|---|
 | To Win Either Half · Home | 5 | 5 | 100% |
 | Match Winner · Away | 6 | 7 | 86% |
-| Goals Over/Under · Over 1.5 | 21 | 26 | 81% |
+| Goals Over/Under · Over 1.5 | 21 | 27 | 78% |
 | Match Winner · Home | 6 | 8 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
@@ -38,13 +38,27 @@ Picks ya jugados: 439 · aciertos: 274 (62%) · beneficio a 1 € por pick: -52.
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
-| Double Chance · Draw/Away | 7 | 19 | 37% |
+| Double Chance · Draw/Away | 7 | 20 | 35% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-06 · 6/12
+- ❌ Florian Neuhaus comete 1+ faltas · 1.33 (3-1)
+- ✅ Casper Tengstedt: 1+ tiros a puerta · 1.28 (3-1)
+- ✅ Akor Adams: 1+ tiros a puerta · 1.28 (2-1)
+- ❌ Redouane Halhal comete 1+ faltas · 1.25 (2-1)
+- ✅ Juan Jesus comete 1+ faltas · 1.28 (2-1)
+- ❌ Más de 1,5 goles en Sevilla–Alaves · 1.40 (0-0)
+- ❌ Josh Sheehan: 1+ tiros · 1.25 (3-1)
+- ✅ Thierno Barry: 1+ tiros a puerta · 1.25 (3-1)
+- ❌ Lucas Boye comete 2+ faltas · 1.30 (0-0)
+- ✅ Josh Sheehan comete 1+ faltas · 1.33 (3-1)
+- ✅ Carlton Morris comete 1+ faltas · 1.33 (3-1)
+- ❌ Arouca o empate · 1.80 (1-0)
 
 ### 2026-11-05 · 21/29
 - ✅ Gol en la 1ª parte del FC Midtjylland–Ajax · 1.28 (1-6)
@@ -334,24 +348,4 @@ Picks ya jugados: 439 · aciertos: 274 (62%) · beneficio a 1 € por pick: -52.
 - ❌ Sabadell o empate · 1.57 (2-1)
 - ❌ Lucas Boye comete 2+ faltas · 1.36 (6-1)
 - ✅ Barcelona ve más de 0,5 tarjetas · 1.44 (6-1)
-
-### 2026-10-30 · 11/18
-- ✅ Amir Richardson: 1+ tiros · 1.50 (1-5)
-- ✅ No hay empate en SV Elversberg–FSV Mainz 05 · 1.25 (4-1)
-- ✅ Phillip Tietz: 3+ tiros · 1.62 (4-1)
-- ✅ Más de 2,5 goles en SV Elversberg–FSV Mainz 05 · 1.50 (4-1)
-- ✅ Más de 1,5 goles en la 2ª parte del SV Elversberg–FSV Mainz 05 · 1.73 (4-1)
-- ❌ FSV Mainz 05 hace más tiros · 1.53 (4-1)
-- ✅ Espanyol marca · 1.53 (0-1)
-- ❌ Ambos marcan en Villarreal–Espanyol · 1.70 (0-1)
-- ❌ Más de 1,5 goles en Sheffield Utd–Wrexham · 1.28 (1-0)
-- ✅ Gol en la 1ª parte del Sheffield Utd–Wrexham · 1.36 (1-0)
-- ✅ Sheffield Utd marca · 1.28 (1-0)
-- ❌ Roberto Fernandez: 2+ tiros · 1.40 (0-1)
-- ✅ Liam Kitching comete 1+ faltas · 1.67 (1-0)
-- ✅ Sheffield Utd ve más de 1,5 tarjetas · 1.73 (1-0)
-- ❌ Thomas Cannon comete 1+ faltas · 1.53 (1-0)
-- ✅ No hay empate en Lille–Lens · 1.28 (1-0)
-- ❌ Gol en la 1ª parte del Lille–Lens · 1.30 (1-0)
-- ❌ Más de 24,5 tiros en Lille–Lens · 1.80 (1-0)
 

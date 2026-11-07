@@ -1,10 +1,10 @@
 # Twente – Ajax
 **Eredivisie** · Regular Season - 12 · 08/11/2026 14:30 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **2.25**  ·  X **3.80**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.25**  ·  X2 **1.62**
@@ -13,8 +13,24 @@ _Actualizadas: 06/11 19:59_
     - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.48** · menos **2.60**
     - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.75** · menos **1.25**
+    - 4,5: más **3.50** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.50**  ·  2 **3.20**
@@ -34,7 +50,7 @@ _Actualizadas: 06/11 19:59_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
 - **Home Player Shots On Target Total:** Lucas Vennegoor of Hesselink - 1 **1.57**  ·  Wout Weghorst - 1 **1.25**  ·  Younes Taha - 1 **1.33**  ·  Naci Unuvar - 1 **1.73**  ·  Sondre Orjasaeter - 1 **1.67**  ·  Daouda Weidmann - 1 **2.50**  ·  Thomas Van den Belt - 1 **1.83**  ·  Bart van Rooij - 1 **2.75**  ·  Gijs Besselink - 1 **2.62**  ·  Ramiz Zerrouki - 1 **2.50**  ·  Ruud Nijstad - 1 **6.00**  ·  Guilherme Peixoto - 1 **3.25**  ·  Aske Adelgaard - 1 **3.25**  ·  Robin Propper - 1 **3.75**  ·  Krzysztof Kurowski - 1 **3.50**  ·  Max Bruns - 1 **3.50**  ·  Stav Lemkin - 1 **3.50**  ·  Julien Mesbahi - 1 **3.75**  ·  Daan Rots - 2 **2.62**  ·  Kristian Hlynsson - 2 **2.75**  ·  Marko Pjaca - 2 **3.00**  ·  Lucas Vennegoor of Hesselink - 2 **3.75**  ·  Wout Weghorst - 2 **2.20**  ·  Younes Taha - 2 **2.50**  ·  Naci Unuvar - 2 **4.50**  ·  Sondre Orjasaeter - 2 **4.33**  ·  Daouda Weidmann - 2 **10.00**  ·  Thomas Van den Belt - 2 **5.50**  ·  Bart van Rooij - 2 **13.00**  ·  Gijs Besselink - 2 **11.00**  ·  Ramiz Zerrouki - 2 **10.00**  ·  Guilherme Peixoto - 2 **15.00**  ·  Aske Adelgaard - 2 **17.00**  ·  Robin Propper - 2 **21.00**  ·  Krzysztof Kurowski - 2 **19.00**  ·  Max Bruns - 2 **19.00**  ·  Stav Lemkin - 2 **19.00**  ·  Julien Mesbahi - 2 **21.00**  ·  Daan Rots - 3 **7.00**  ·  Kristian Hlynsson - 3 **7.00**  ·  Marko Pjaca - 3 **8.00**  ·  Lucas Vennegoor of Hesselink - 3 **11.00**  ·  Wout Weghorst - 3 **5.00**  ·  Younes Taha - 3 **6.50**  ·  Naci Unuvar - 3 **17.00**  ·  Sondre Orjasaeter - 3 **15.00**  ·  Thomas Van den Belt - 3 **19.00**  ·  Daan Rots - 4 **19.00**  ·  Kristian Hlynsson - 4 **21.00**  ·  Marko Pjaca - 4 **21.00**  ·  Wout Weghorst - 4 **13.00**  ·  Younes Taha - 4 **17.00**  ·  Marko Pjaca - 1 **1.40**  ·  Daan Rots - 1 **1.36**  ·  Kristian Hlynsson - 1 **1.36**  ·  Filip Thorvaldsen - 1 **1.28**  ·  Benjamin Nagel - 1 **3.25**  ·  Filip Thorvaldsen - 2 **2.25**  ·  Benjamin Nagel - 2 **15.00**  ·  Filip Thorvaldsen - 3 **5.00**  ·  Filip Thorvaldsen - 4 **15.00**  ·  Jordy Bawuah - 1 **2.62**  ·  Michal Rosiak - 1 **2.00**  ·  Jordy Bawuah - 2 **11.00**  ·  Michal Rosiak - 2 **6.50**  ·  Michal Rosiak - 3 **21.00**
 - **Home Player Shots:** Lucas Vennegoor of Hesselink - 1 **1.07**  ·  Wout Weghorst - 1 **1.02**  ·  Younes Taha - 1 **1.02**  ·  Naci Unuvar - 1 **1.11**  ·  Sondre Orjasaeter - 1 **1.10**  ·  Daouda Weidmann - 1 **1.10**  ·  Thomas Van den Belt - 1 **1.11**  ·  Bart van Rooij - 1 **1.36**  ·  Gijs Besselink - 1 **1.40**  ·  Ramiz Zerrouki - 1 **1.33**  ·  Ruud Nijstad - 1 **2.25**  ·  Guilherme Peixoto - 1 **1.53**  ·  Aske Adelgaard - 1 **1.57**  ·  Robin Propper - 1 **1.62**  ·  Krzysztof Kurowski - 1 **1.67**  ·  Max Bruns - 1 **1.67**  ·  Stav Lemkin - 1 **1.67**  ·  Julien Mesbahi - 1 **1.83**  ·  Daan Rots - 2 **1.08**  ·  Kristian Hlynsson - 2 **1.11**  ·  Marko Pjaca - 2 **1.14**  ·  Lucas Vennegoor of Hesselink - 2 **1.36**  ·  Wout Weghorst - 2 **1.17**  ·  Younes Taha - 2 **1.14**  ·  Naci Unuvar - 2 **1.53**  ·  Sondre Orjasaeter - 2 **1.44**  ·  Daouda Weidmann - 2 **1.50**  ·  Thomas Van den Belt - 2 **1.50**  ·  Bart van Rooij - 2 **2.62**  ·  Gijs Besselink - 2 **2.62**  ·  Ramiz Zerrouki - 2 **2.38**  ·  Ruud Nijstad - 2 **8.00**  ·  Guilherme Peixoto - 2 **3.40**  ·  Aske Adelgaard - 2 **3.50**  ·  Robin Propper - 2 **3.75**  ·  Krzysztof Kurowski - 2 **4.00**  ·  Max Bruns - 2 **4.00**  ·  Stav Lemkin - 2 **4.00**  ·  Julien Mesbahi - 2 **5.00**  ·  Daan Rots - 3 **1.28**  ·  Kristian Hlynsson - 3 **1.36**  ·  Marko Pjaca - 3 **1.44**  ·  Lucas Vennegoor of Hesselink - 3 **2.00**  ·  Wout Weghorst - 3 **1.50**  ·  Younes Taha - 3 **1.44**  ·  Naci Unuvar - 3 **2.50**  ·  Sondre Orjasaeter - 3 **2.25**  ·  Daouda Weidmann - 3 **2.38**  ·  Thomas Van den Belt - 3 **2.50**  ·  Bart van Rooij - 3 **6.00**  ·  Gijs Besselink - 3 **6.00**  ·  Ramiz Zerrouki - 3 **5.50**  ·  Ruud Nijstad - 3 **21.00**  ·  Guilherme Peixoto - 3 **9.00**  ·  Aske Adelgaard - 3 **10.00**  ·  Robin Propper - 3 **10.00**  ·  Krzysztof Kurowski - 3 **11.00**  ·  Max Bruns - 3 **11.00**  ·  Stav Lemkin - 3 **11.00**  ·  Julien Mesbahi - 3 **15.00**  ·  Daan Rots - 4 **1.67**  ·  Kristian Hlynsson - 4 **1.83**  ·  Marko Pjaca - 4 **2.10**  ·  Lucas Vennegoor of Hesselink - 4 **3.50**  ·  Wout Weghorst - 4 **2.10**  ·  Younes Taha - 4 **2.10**  ·  Naci Unuvar - 4 **4.50**  ·  Sondre Orjasaeter - 4 **4.00**  ·  Daouda Weidmann - 4 **4.33**  ·  Thomas Van den Belt - 4 **4.50**  ·  Bart van Rooij - 4 **15.00**  ·  Gijs Besselink - 4 **15.00**  ·  Ramiz Zerrouki - 4 **13.00**  ·  Guilherme Peixoto - 4 **21.00**  ·  Aske Adelgaard - 4 **21.00**  ·  Robin Propper - 4 **21.00**  ·  Daan Rots - 5 **2.38**  ·  Kristian Hlynsson - 5 **2.75**  ·  Marko Pjaca - 5 **3.40**  ·  Lucas Vennegoor of Hesselink - 5 **7.00**  ·  Wout Weghorst - 5 **3.50**  ·  Younes Taha - 5 **3.40**  ·  Naci Unuvar - 5 **10.00**  ·  Sondre Orjasaeter - 5 **9.00**  ·  Daouda Weidmann - 5 **10.00**  ·  Thomas Van den Belt - 5 **10.00**  ·  Daan Rots - 6 **3.75**  ·  Kristian Hlynsson - 6 **4.50**  ·  Marko Pjaca - 6 **6.00**  ·  Lucas Vennegoor of Hesselink - 6 **13.00**  ·  Wout Weghorst - 6 **6.00**  ·  Younes Taha - 6 **6.00**  ·  Naci Unuvar - 6 **21.00**  ·  Sondre Orjasaeter - 6 **17.00**  ·  Daouda Weidmann - 6 **19.00**  ·  Thomas Van den Belt - 6 **19.00**  ·  Daan Rots - 7 **6.50**  ·  Kristian Hlynsson - 7 **9.00**  ·  Marko Pjaca - 7 **11.00**  ·  Lucas Vennegoor of Hesselink - 7 **21.00**  ·  Wout Weghorst - 7 **11.00**  ·  Younes Taha - 7 **11.00**  ·  Daan Rots - 8 **13.00**  ·  Kristian Hlynsson - 8 **15.00**  ·  Marko Pjaca - 8 **21.00**  ·  Wout Weghorst - 8 **21.00**  ·  Younes Taha - 8 **21.00**  ·  Daan Rots - 9 **21.00**  ·  Kristian Hlynsson - 9 **21.00**  ·  Marko Pjaca - 1 **1.02**  ·  Daan Rots - 1 **1.01**  ·  Kristian Hlynsson - 1 **1.01**  ·  Filip Thorvaldsen - 1 **1.01**  ·  Benjamin Nagel - 1 **1.53**  ·  Filip Thorvaldsen - 2 **1.11**  ·  Benjamin Nagel - 2 **3.40**  ·  Filip Thorvaldsen - 3 **1.36**  ·  Benjamin Nagel - 3 **9.00**  ·  Filip Thorvaldsen - 4 **1.83**  ·  Benjamin Nagel - 4 **21.00**  ·  Filip Thorvaldsen - 5 **2.75**  ·  Filip Thorvaldsen - 6 **4.50**  ·  Filip Thorvaldsen - 7 **9.00**  ·  Filip Thorvaldsen - 8 **15.00**  ·  Filip Thorvaldsen - 9 **21.00**  ·  Jordy Bawuah - 1 **1.40**  ·  Michal Rosiak - 1 **1.17**  ·  Jordy Bawuah - 2 **2.62**  ·  Michal Rosiak - 2 **1.80**  ·  Jordy Bawuah - 3 **6.00**  ·  Michal Rosiak - 3 **3.25**  ·  Jordy Bawuah - 4 **15.00**  ·  Michal Rosiak - 4 **7.00**  ·  Michal Rosiak - 5 **15.00**
 - **Away Player Shots:** Thilo Kehrer - 1 **1.67**  ·  Thilo Kehrer - 2 **4.00**  ·  Thilo Kehrer - 3 **11.00**  ·  Viktor Tsygankov - 1 **1.07**  ·  Viktor Tsygankov - 2 **1.36**  ·  Viktor Tsygankov - 3 **2.00**  ·  Viktor Tsygankov - 4 **3.50**  ·  Viktor Tsygankov - 5 **7.00**  ·  Viktor Tsygankov - 6 **13.00**  ·  Viktor Tsygankov - 7 **21.00**  ·  Simon Adingra - 1 **1.08**  ·  Simon Adingra - 2 **1.40**  ·  Simon Adingra - 3 **2.20**  ·  Simon Adingra - 4 **3.75**  ·  Simon Adingra - 5 **8.00**  ·  Simon Adingra - 6 **17.00**  ·  Oscar Gloukh - 1 **1.04**  ·  Toluwalase Arokodare - 1 **1.02**  ·  Rayane Bounida - 1 **1.10**  ·  Julian Brandt - 1 **1.06**  ·  Steven Berghuis - 1 **1.14**  ·  Abdellah Ouazane - 1 **1.14**  ·  Davy Klaassen - 1 **1.14**  ·  Lucas Rosa - 1 **1.33**  ·  Caio Henrique - 1 **1.62**  ·  Aaron Bouwman - 1 **1.57**  ·  Jorthy Mokio - 1 **1.40**  ·  Owen Wijndal - 1 **1.67**  ·  Youri Baas - 1 **1.67**  ·  Marcos Leonardo - 2 **1.11**  ·  Oliver Valaker Edvardsen - 2 **1.28**  ·  Oscar Gloukh - 2 **1.22**  ·  Toluwalase Arokodare - 2 **1.14**  ·  Rayane Bounida - 2 **1.44**  ·  Julian Brandt - 2 **1.33**  ·  Steven Berghuis - 2 **1.67**  ·  Abdellah Ouazane - 2 **1.62**  ·  Davy Klaassen - 2 **1.67**  ·  Lucas Rosa - 2 **2.50**  ·  Caio Henrique - 2 **3.75**  ·  Aaron Bouwman - 2 **3.50**  ·  Jorthy Mokio - 2 **2.62**  ·  Owen Wijndal - 2 **4.00**  ·  Youri Baas - 2 **4.00**  ·  Marcos Leonardo - 3 **1.36**  ·  Oliver Valaker Edvardsen - 3 **1.83**  ·  Oscar Gloukh - 3 **1.67**  ·  Toluwalase Arokodare - 3 **1.44**  ·  Rayane Bounida - 3 **2.25**  ·  Julian Brandt - 3 **1.91**  ·  Steven Berghuis - 3 **2.75**  ·  Abdellah Ouazane - 3 **2.75**  ·  Davy Klaassen - 3 **2.75**  ·  Lucas Rosa - 3 **5.50**  ·  Caio Henrique - 3 **10.00**  ·  Aaron Bouwman - 3 **10.00**  ·  Jorthy Mokio - 3 **6.00**  ·  Owen Wijndal - 3 **11.00**  ·  Youri Baas - 3 **11.00**  ·  Marcos Leonardo - 4 **1.83**  ·  Oliver Valaker Edvardsen - 4 **3.00**  ·  Oscar Gloukh - 4 **2.50**  ·  Toluwalase Arokodare - 4 **2.10**  ·  Rayane Bounida - 4 **4.00**  ·  Julian Brandt - 4 **3.40**  ·  Steven Berghuis - 4 **5.50**  ·  Abdellah Ouazane - 4 **5.50**  ·  Davy Klaassen - 4 **5.50**  ·  Lucas Rosa - 4 **15.00**  ·  Caio Henrique - 4 **21.00**  ·  Aaron Bouwman - 4 **21.00**  ·  Jorthy Mokio - 4 **15.00**  ·  Marcos Leonardo - 5 **2.75**  ·  Oliver Valaker Edvardsen - 5 **5.50**  ·  Oscar Gloukh - 5 **4.33**  ·  Toluwalase Arokodare - 5 **3.40**  ·  Rayane Bounida - 5 **9.00**  ·  Julian Brandt - 5 **6.00**  ·  Steven Berghuis - 5 **13.00**  ·  Abdellah Ouazane - 5 **13.00**  ·  Davy Klaassen - 5 **13.00**  ·  Marcos Leonardo - 6 **5.00**  ·  Oliver Valaker Edvardsen - 6 **11.00**  ·  Oscar Gloukh - 6 **8.00**  ·  Toluwalase Arokodare - 6 **6.00**  ·  Rayane Bounida - 6 **17.00**  ·  Julian Brandt - 6 **13.00**  ·  Steven Berghuis - 6 **21.00**  ·  Abdellah Ouazane - 6 **21.00**  ·  Davy Klaassen - 6 **21.00**  ·  Marcos Leonardo - 7 **9.00**  ·  Oliver Valaker Edvardsen - 7 **21.00**  ·  Oscar Gloukh - 7 **17.00**  ·  Toluwalase Arokodare - 7 **11.00**  ·  Julian Brandt - 7 **21.00**  ·  Marcos Leonardo - 8 **17.00**  ·  Toluwalase Arokodare - 8 **19.00**  ·  Marcos Leonardo - 9 **21.00**  ·  Marcos Leonardo - 1 **1.01**  ·  Oliver Valaker Edvardsen - 1 **1.05**  ·  Dies Janse - 1 **1.83**  ·  Dies Janse - 2 **5.00**  ·  Dies Janse - 3 **15.00**  ·  Jofre Torrents - 1 **1.57**  ·  Jofre Torrents - 2 **3.50**  ·  Jofre Torrents - 3 **10.00**  ·  Jofre Torrents - 4 **21.00**  ·  Mohamed Abdalla - 1 **1.11**  ·  Mohamed Abdalla - 2 **1.50**  ·  Mohamed Abdalla - 3 **2.50**  ·  Mohamed Abdalla - 4 **4.50**  ·  Mohamed Abdalla - 5 **10.00**  ·  Mohamed Abdalla - 6 **19.00**  ·  Sofyan Amrabat - 1 **1.40**  ·  Sofyan Amrabat - 2 **2.62**  ·  Sofyan Amrabat - 3 **6.00**  ·  Sofyan Amrabat - 4 **15.00**  ·  Yves Bissouma - 1 **1.40**  ·  Yves Bissouma - 2 **2.62**  ·  Yves Bissouma - 3 **6.00**  ·  Yves Bissouma - 4 **15.00**
@@ -174,26 +190,42 @@ _Sin bajas comunicadas por ahora._
 | Maarten Paes | G | 5 | 457 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,33 · visitante 1,44 · córners esperados 9,5._
+_Goles esperados: local 2,34 · visitante 1,44 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 23% | 33% | 28% | 2.90 | -19% |
-| 1X2: X | 20% | 25% | 22% | 3.80 | -15% |
-| 1X2: 1 | 57% | 42% | 50% | 2.25 | +12% |
-| Doble oportunidad: X2 | 43% | 58% | 50% | 1.62 | -19% |
-| Doble oportunidad: 12 | 80% | 75% | 78% | 1.25 | -3% |
+| 1X2: X | 19% | 25% | 22% | 3.80 | -15% |
+| 1X2: 1 | 58% | 42% | 50% | 2.25 | +12% |
+| Doble oportunidad: X2 | 42% | 58% | 50% | 1.62 | -19% |
+| Doble oportunidad: 12 | 81% | 75% | 78% | 1.25 | -3% |
 | Doble oportunidad: 1X | 77% | 67% | 72% | 1.40 | +1% |
 | Ambos marcan: No | 31% | 34% | 32% | 2.75 | -11% |
 | Ambos marcan: Sí | 69% | 66% | 68% | 1.40 | -5% |
 | Goles más/menos: Más de 2.5 | 73% | 64% | 68% | 1.48 | +1% |
 | Goles más/menos: Más de 3.5 | 52% | 44% | 48% | 2.10 | +1% |
-| Goles más/menos: Más de 4.5 | 33% | 25% | 29% | 3.75 | +8% |
+| Goles más/menos: Más de 4.5 | 33% | 27% | 30% | 3.50 | +4% |
 | Goles más/menos: Menos de 2.5 | 27% | 36% | 32% | 2.60 | -17% |
-| Goles más/menos: Menos de 3.5 | 48% | 56% | 52% | 1.67 | -13% |
-| Goles más/menos: Menos de 4.5 | 67% | 75% | 71% | 1.25 | -11% |
+| Goles más/menos: Menos de 3.5 | 48% | 56% | 52% | 1.67 | -14% |
+| Goles más/menos: Menos de 4.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 75% | 78% | 1.25 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 49% | 44% | 47% | 2.10 | -2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 56% | 53% | 1.67 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 79% | 78% | 1.18 | -8% |
+| Goles del local: Más de 1.5 | 68% | 54% | 61% | 1.73 | +5% |
+| Goles del local: Más de 2.5 | 41% | 28% | 35% | 3.40 | +17% |
+| Goles del local: Menos de 1.5 | 32% | 46% | 39% | 2.00 | -21% |
+| Goles del local: Menos de 2.5 | 59% | 72% | 65% | 1.30 | -15% |
+| Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles del visitante: Más de 1.5 | 42% | 46% | 44% | 2.00 | -12% |
+| Goles del visitante: Más de 2.5 | 18% | 22% | 20% | 4.33 | -15% |
+| Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles del visitante: Menos de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
+| Goles del visitante: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 55% | 50% | 53% | 1.83 | -4% |
 | 1X2 descanso: 2 | 22% | 29% | 26% | 3.20 | -18% |

@@ -1,10 +1,10 @@
 # Alverca – Casa Pia
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 19:00 (hora España) · Complexo Desportivo FC Alverca
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:03_
 
 - **1X2:** 1 **1.75**  ·  X **3.80**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.25**  ·  X2 **2.00**
@@ -185,39 +185,39 @@ _Sin bajas comunicadas por ahora._
 | P. Sequeira | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,67 · visitante 0,77 · córners esperados 9,8._
+_Goles esperados: local 1,68 · visitante 0,77 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 17% | 22% | 19% | 4.33 | -16% |
-| 1X2: X | 24% | 25% | 24% | 3.80 | -7% |
-| 1X2: 1 | 59% | 54% | 56% | 1.75 | -2% |
+| 1X2: X | 24% | 25% | 24% | 3.80 | -8% |
+| 1X2: 1 | 59% | 54% | 56% | 1.75 | -1% |
 | Doble oportunidad: X2 | 41% | 47% | 44% | 2.00 | -12% |
-| Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
+| Doble oportunidad: 12 | 76% | 75% | 76% | 1.25 | -6% |
 | Doble oportunidad: 1X | 83% | 78% | 81% | 1.20 | -3% |
 | Ambos marcan: No | 56% | 50% | 53% | 1.91 | +1% |
 | Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -10% |
 | Goles más/menos: Más de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
+| Goles más/menos: Más de 2.5 | 44% | 49% | 47% | 1.95 | -9% |
 | Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
 | Goles más/menos: Menos de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
+| Goles más/menos: Menos de 2.5 | 56% | 51% | 53% | 1.85 | -1% |
 | Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 69% | 67% | 1.36 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 81% | 79% | 80% | 1.18 | -5% |
-| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Goles del local: Más de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
 | Goles del local: Más de 2.5 | 24% | 25% | 24% | 3.75 | -9% |
 | Goles del local: Menos de 0.5 | 19% | 21% | 20% | 4.50 | -11% |
-| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -8% |
+| Goles del local: Menos de 1.5 | 50% | 50% | 50% | 1.83 | -9% |
 | Goles del local: Menos de 2.5 | 76% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 0.5 | 54% | 61% | 57% | 1.53 | -12% |
 | Goles del visitante: Más de 1.5 | 18% | 27% | 22% | 3.50 | -21% |
-| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +1% |
+| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +2% |
 | Goles del visitante: Menos de 1.5 | 82% | 73% | 78% | 1.28 | -1% |
 | Córners más/menos: Más de 9.5 | 47% | 50% | 49% | 1.83 | -11% |
 | Córners más/menos: Menos de 9.5 | 53% | 50% | 51% | 1.83 | -6% |

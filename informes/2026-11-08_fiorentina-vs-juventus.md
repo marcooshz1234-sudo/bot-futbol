@@ -1,10 +1,10 @@
 # Fiorentina – Juventus
 **Serie A** · Regular Season - 11 · 08/11/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:59_
+_Actualizadas: 07/11 02:04_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.30**
@@ -25,20 +25,20 @@ _Actualizadas: 06/11 19:59_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
+    - 3,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.30**  ·  2 **2.62**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.25**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
+    - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **2.10**  ·  2 **1.57**
@@ -55,6 +55,8 @@ _Actualizadas: 06/11 19:59_
     - 2,5: más **2.10** · menos **1.67**
 - **Away Team Total Cards:**
     - 2,5: más **2.25** · menos **1.57**
+- **Total ShotOnGoal:**
+    - 8,5: más **1.67** · menos **2.10**
 - **ShotOnTarget 1x2:** 1 **2.62**  ·  X **7.50**  ·  2 **1.67**
 - **Total Shots:**
     - 27,5: más **1.80** · menos **1.91**
@@ -202,12 +204,12 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Boga | F | 9 | 218 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 0 | 4 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,48 · córners esperados 9,3._
+_Goles esperados: local 1,12 · visitante 1,47 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 45% | 45% | 45% | 2.10 | -5% |
-| 1X2: X | 26% | 27% | 26% | 3.50 | -7% |
+| 1X2: X | 26% | 27% | 27% | 3.50 | -7% |
 | 1X2: 1 | 29% | 28% | 28% | 3.40 | -4% |
 | Doble oportunidad: X2 | 71% | 72% | 72% | 1.30 | -7% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.28 | -6% |
@@ -215,9 +217,9 @@ _Goles esperados: local 1,12 · visitante 1,48 · córners esperados 9,3._
 | Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 1.5 | 73% | 76% | 75% | 1.25 | -7% |
-| Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -9% |
+| Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -10% |
 | Goles más/menos: Más de 3.5 | 26% | 32% | 29% | 3.00 | -13% |
-| Goles más/menos: Menos de 1.5 | 27% | 24% | 25% | 4.00 | +1% |
+| Goles más/menos: Menos de 1.5 | 27% | 24% | 25% | 4.00 | +2% |
 | Goles más/menos: Menos de 2.5 | 52% | 47% | 50% | 2.00 | -1% |
 | Goles más/menos: Menos de 3.5 | 74% | 68% | 71% | 1.40 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 71% | 69% | 1.33 | -8% |
@@ -228,16 +230,16 @@ _Goles esperados: local 1,12 · visitante 1,48 · córners esperados 9,3._
 | Goles del local: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del local: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +0% |
 | Goles del local: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del visitante: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
+| Goles del visitante: Más de 0.5 | 77% | 78% | 78% | 1.20 | -7% |
 | Goles del visitante: Más de 1.5 | 43% | 49% | 46% | 1.91 | -12% |
-| Goles del visitante: Más de 2.5 | 19% | 23% | 21% | 4.00 | -16% |
-| Goles del visitante: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles del visitante: Más de 2.5 | 18% | 23% | 21% | 4.00 | -16% |
+| Goles del visitante: Menos de 0.5 | 23% | 22% | 22% | 4.33 | -3% |
 | Goles del visitante: Menos de 1.5 | 57% | 51% | 54% | 1.80 | -3% |
-| Goles del visitante: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles del visitante: Menos de 2.5 | 82% | 77% | 79% | 1.22 | -4% |
 | Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
-| 1X2 descanso: 2 | 33% | 35% | 34% | 2.62 | -10% |
-| 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
-| 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -10% |
+| 1X2 descanso: 2 | 33% | 35% | 34% | 2.62 | -11% |
+| 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
+| 1X2 descanso: 1 | 23% | 24% | 24% | 3.75 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

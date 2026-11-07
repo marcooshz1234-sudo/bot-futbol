@@ -1,5 +1,43 @@
 # Lecciones del bot
 
+## 2026-11-06
+
+```
+🧠 LECCIONES DEL 06/11
+Picks del bot: 6 ✅ · 6 ❌
+
+❌ Lo que falló en lo publicado:
+• Alaves marca → 0 de 1 gol
+• Arouca hace más de 7,5 tiros → 7 de 8 tiros
+• Gana el Arouca → Marcador: 1–0
+• Gana el PEC Zwolle → Marcador: 1–1
+• Gana el Sevilla → Marcador: 0–0
+• Willem II hace más de 2,5 córners → 2 de 3 córners
+
+❌ Fallos de los picks del bot y por qué:
+• Más de 1,5 goles en Sevilla–Alaves — partido cerrado (0-0): faltó 2 goles
+• Arouca o empate — resultado 1-0
+• Josh Sheehan: 1+ tiros — jugó 90′ e hizo 0 (necesitaba 1)
+• Lucas Boye comete 2+ faltas — jugó 85′ e hizo 1 (necesitaba 2)
+• Redouane Halhal comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Florian Neuhaus comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Sevilla–Alaves
+
+📐 Modelo: 280/451 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo mercado Double Chance|Draw/Away: 7/20 (-14 pts)
+⬇️ castigo tipo jugador:faltas_c: 43/74 (-9 pts)
+⬇️ castigo liga LaLiga: 21/39 (-6 pts)
+⬇️ castigo liga Ligue 1: 26/50 (-6 pts)
+⬆️ premio mercado Goals Over/Under|Over 1.5: 21/27 (+6 pts)
+⬇️ castigo tipo resultado: 49/77 (-4 pts)
+⬆️ premio tipo jugador:tiros: 25/35 (+4 pts)
+⬇️ castigo liga Bundesliga: 26/44 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-05
 
 ```

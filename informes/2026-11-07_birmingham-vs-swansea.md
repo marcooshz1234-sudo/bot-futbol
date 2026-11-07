@@ -1,10 +1,10 @@
 # Birmingham – Swansea
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · St. Andrew's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:02_
 
 - **1X2:** 1 **1.83**  ·  X **3.60**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
@@ -26,7 +26,7 @@ _Actualizadas: 06/11 19:58_
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **Tarjetas más/menos:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.00** · menos **1.73**
@@ -47,11 +47,12 @@ _Actualizadas: 06/11 19:58_
     - 5,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):**
-    - 4,5: más **2.05** · menos **1.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Home Team Total Cards:**
+    - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.38** · menos **1.53**
 - **Away Team Total Cards:**
+    - 1,5: más **1.53** · menos **2.38**
     - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 8,5: más **1.91** · menos **1.80**
@@ -206,7 +207,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 22% | 24% | 4.20 | +3% |
+| 1X2: 2 | 26% | 22% | 24% | 4.20 | +2% |
 | 1X2: X | 26% | 26% | 26% | 3.60 | -7% |
 | 1X2: 1 | 48% | 51% | 50% | 1.83 | -9% |
 | Doble oportunidad: X2 | 52% | 49% | 51% | 1.91 | -3% |
@@ -226,12 +227,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -5% |
 | Goles del local: Menos de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
 | Goles del local: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
-| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del visitante: Más de 0.5 | 65% | 65% | 65% | 1.44 | -6% |
 | Goles del visitante: Más de 1.5 | 29% | 28% | 28% | 3.40 | -4% |
-| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -8% |
+| Goles del visitante: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -8% |
 | Goles del visitante: Menos de 1.5 | 71% | 72% | 72% | 1.30 | -7% |
-| Córners más/menos: Más de 9.5 | 44% | 47% | 46% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 56% | 53% | 54% | 1.80 | -2% |
+| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.91 | -12% |
+| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.80 | -3% |
 | 1X2 descanso: 2 | 22% | 21% | 21% | 4.50 | -5% |
 | 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -5% |
 | 1X2 descanso: 1 | 35% | 38% | 37% | 2.40 | -12% |

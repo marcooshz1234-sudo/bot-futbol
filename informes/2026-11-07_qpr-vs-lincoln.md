@@ -1,28 +1,32 @@
 # QPR – Lincoln
 **Championship** · Regular Season - 15 · 07/11/2026 16:00 (hora España) · Loftus Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 06/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
 
 ## Cuotas Bet365
-_Actualizadas: 06/11 19:58_
+_Actualizadas: 07/11 02:02_
 
 - **1X2:** 1 **1.62**  ·  X **3.90**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.04** · menos **12.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.40**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.53** · menos **2.38**
+    - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
@@ -38,21 +42,20 @@ _Actualizadas: 06/11 19:58_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.36**  ·  2 **2.75**
+- **To Win Either Half:** 1 **1.36**  ·  2 **2.62**
 - **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **6.00**
-- **Win Both Halves:** 1 **4.33**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.75**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **12.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.60**
+- **Win Both Halves:** 1 **4.33**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.75**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **12.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 5,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.92** · menos **1.88**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 - **Home Team Total Cards:**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.80** · menos **1.91**
 - **Away Team Total Cards:**
-    - 2,5: más **1.83** · menos **1.83**
+    - 2,5: más **2.20** · menos **1.62**
 - **Total ShotOnGoal:**
     - 8,5: más **1.91** · menos **1.80**
 - **ShotOnTarget 1x2:** 1 **1.40**  ·  X **7.50**  ·  2 **3.50**
@@ -63,10 +66,10 @@ _Actualizadas: 06/11 19:58_
 - **Away Player Shots Total:**
     - 9,5: más **1.73** · menos **2.00**
 - **Home Player Shots:** Ilias Chair - 1 **1.04**  ·  Richard Kone - 1 **1.05**  ·  Karamoko Dembele - 1 **1.07**  ·  Rayan Kolli - 1 **1.03**  ·  Rumarn Burrell - 1 **1.03**  ·  Kwame Poku - 1 **1.04**  ·  Alfie Lloyd - 1 **1.02**  ·  Paul Smyth - 1 **1.08**  ·  Justin Obikwu - 1 **1.02**  ·  Harvey Vale - 1 **1.08**  ·  Koki Saito - 1 **1.28**  ·  Nicolas Madsen - 1 **1.28**  ·  Boy Kemper - 1 **1.53**  ·  Jonathan Varane - 1 **1.62**  ·  Glen Kamara - 1 **1.67**  ·  Kealey Adamson - 1 **1.67**  ·  Jimmy Dunne - 1 **1.67**  ·  Dennis Cirkin - 1 **1.50**  ·  Tariq Lamptey - 1 **1.28**  ·  Jake Clarke-Salter - 1 **2.25**  ·  Liam Morrison - 1 **2.25**  ·  Ronnie Edwards - 1 **2.20**  ·  Ilias Chair - 2 **1.25**  ·  Richard Kone - 2 **1.28**  ·  Karamoko Dembele - 2 **1.36**  ·  Rayan Kolli - 2 **1.20**  ·  Rumarn Burrell - 2 **1.20**  ·  Kwame Poku - 2 **1.22**  ·  Alfie Lloyd - 2 **1.12**  ·  Paul Smyth - 2 **1.40**  ·  Justin Obikwu - 2 **1.14**  ·  Harvey Vale - 2 **1.40**  ·  Koki Saito - 2 **2.10**  ·  Nicolas Madsen - 2 **2.10**  ·  Boy Kemper - 2 **3.40**  ·  Jonathan Varane - 2 **3.75**  ·  Glen Kamara - 2 **4.00**  ·  Kealey Adamson - 2 **4.00**  ·  Jimmy Dunne - 2 **4.00**  ·  Dennis Cirkin - 2 **3.00**  ·  Tariq Lamptey - 2 **2.10**  ·  Jake Clarke-Salter - 2 **7.00**  ·  Liam Morrison - 2 **7.00**  ·  Ronnie Edwards - 2 **6.50**  ·  Ilias Chair - 3 **1.73**  ·  Richard Kone - 3 **1.83**  ·  Karamoko Dembele - 3 **2.00**  ·  Rayan Kolli - 3 **1.57**  ·  Rumarn Burrell - 3 **1.57**  ·  Kwame Poku - 3 **1.62**  ·  Alfie Lloyd - 3 **1.40**  ·  Paul Smyth - 3 **2.10**  ·  Justin Obikwu - 3 **1.44**  ·  Harvey Vale - 3 **2.10**  ·  Koki Saito - 3 **4.33**  ·  Nicolas Madsen - 3 **4.33**  ·  Boy Kemper - 3 **9.00**  ·  Jonathan Varane - 3 **10.00**  ·  Glen Kamara - 3 **11.00**  ·  Kealey Adamson - 3 **11.00**  ·  Jimmy Dunne - 3 **11.00**  ·  Dennis Cirkin - 3 **8.00**  ·  Tariq Lamptey - 3 **4.33**  ·  Ilias Chair - 4 **2.75**  ·  Richard Kone - 4 **3.00**  ·  Karamoko Dembele - 4 **3.50**  ·  Rayan Kolli - 4 **2.38**  ·  Rumarn Burrell - 4 **2.38**  ·  Kwame Poku - 4 **2.50**  ·  Alfie Lloyd - 4 **1.91**  ·  Paul Smyth - 4 **3.75**  ·  Justin Obikwu - 4 **2.00**  ·  Harvey Vale - 4 **3.75**  ·  Koki Saito - 4 **11.00**  ·  Nicolas Madsen - 4 **11.00**  ·  Ilias Chair - 5 **5.00**  ·  Richard Kone - 5 **5.50**  ·  Karamoko Dembele - 5 **7.00**  ·  Rayan Kolli - 5 **4.00**  ·  Rumarn Burrell - 5 **4.00**  ·  Kwame Poku - 5 **4.33**  ·  Alfie Lloyd - 5 **3.00**  ·  Paul Smyth - 5 **7.00**  ·  Justin Obikwu - 5 **3.40**  ·  Harvey Vale - 5 **7.00**  ·  Koki Saito - 5 **21.00**  ·  Nicolas Madsen - 5 **21.00**  ·  Ilias Chair - 6 **10.00**  ·  Richard Kone - 6 **11.00**  ·  Karamoko Dembele - 6 **13.00**  ·  Rayan Kolli - 6 **7.00**  ·  Rumarn Burrell - 6 **7.00**  ·  Kwame Poku - 6 **8.00**  ·  Alfie Lloyd - 6 **5.00**  ·  Paul Smyth - 6 **15.00**  ·  Justin Obikwu - 6 **5.50**  ·  Harvey Vale - 6 **15.00**  ·  Ilias Chair - 7 **19.00**  ·  Richard Kone - 7 **21.00**  ·  Karamoko Dembele - 7 **21.00**  ·  Rayan Kolli - 7 **15.00**  ·  Rumarn Burrell - 7 **15.00**  ·  Kwame Poku - 7 **15.00**  ·  Jake Clarke-Salter - 3 **21.00**  ·  Liam Morrison - 3 **21.00**  ·  Ronnie Edwards - 3 **21.00**  ·  Boy Kemper - 4 **21.00**  ·  Jonathan Varane - 4 **21.00**  ·  Alfie Lloyd - 7 **10.00**  ·  Rayan Kolli - 8 **21.00**  ·  Rumarn Burrell - 8 **21.00**  ·  Justin Obikwu - 7 **11.00**  ·  Kwame Poku - 8 **21.00**  ·  Dennis Cirkin - 4 **19.00**  ·  Tariq Lamptey - 4 **11.00**  ·  Leon Scarlett - 1 **1.06**  ·  Leon Scarlett - 2 **1.33**  ·  Leon Scarlett - 3 **2.00**  ·  Leon Scarlett - 4 **3.40**  ·  Leon Scarlett - 5 **6.50**  ·  Leon Scarlett - 6 **13.00**  ·  Leon Scarlett - 7 **21.00**  ·  Alfie Lloyd - 8 **17.00**  ·  Justin Obikwu - 8 **19.00**  ·  Tariq Lamptey - 5 **21.00**
-- **Away Player Shots:** Isaac Olaofe - 1 **1.12**  ·  Freddie Draper - 1 **1.12**  ·  Mason Melia - 1 **1.14**  ·  Rob Street - 1 **1.17**  ·  Ben House - 1 **1.25**  ·  Reeco Hackett - 1 **1.17**  ·  Adam Reach - 1 **1.67**  ·  Dom Jefferies - 1 **1.40**  ·  Tom Bayliss - 1 **1.67**  ·  Deji Elerewe - 1 **2.25**  ·  Tendayi Darikwa - 1 **2.10**  ·  Yunus Emre Konak - 1 **1.73**  ·  Conor McGrandles - 1 **2.10**  ·  Andrei Coubis - 1 **1.44**  ·  Ivan Varfolomeyev - 1 **1.73**  ·  Sonny Bradley - 1 **2.62**  ·  Ryley Towler - 1 **2.75**  ·  Callum Elder - 1 **2.62**  ·  Tom Hamer - 1 **2.50**  ·  Isaac Olaofe - 2 **1.62**  ·  Freddie Draper - 2 **1.62**  ·  Mason Melia - 2 **1.67**  ·  Rob Street - 2 **1.73**  ·  Ben House - 2 **2.10**  ·  Reeco Hackett - 2 **1.73**  ·  Adam Reach - 2 **4.00**  ·  Dom Jefferies - 2 **2.62**  ·  Tom Bayliss - 2 **4.00**  ·  Deji Elerewe - 2 **7.00**  ·  Tendayi Darikwa - 2 **6.50**  ·  Yunus Emre Konak - 2 **4.33**  ·  Conor McGrandles - 2 **6.50**  ·  Andrei Coubis - 2 **3.00**  ·  Ivan Varfolomeyev - 2 **4.33**  ·  Sonny Bradley - 2 **10.00**  ·  Ryley Towler - 2 **11.00**  ·  Callum Elder - 2 **10.00**  ·  Tom Hamer - 2 **8.00**  ·  Isaac Olaofe - 3 **2.75**  ·  Freddie Draper - 3 **2.75**  ·  Mason Melia - 3 **2.75**  ·  Rob Street - 3 **3.25**  ·  Ben House - 3 **4.33**  ·  Reeco Hackett - 3 **3.25**  ·  Adam Reach - 3 **11.00**  ·  Dom Jefferies - 3 **6.00**  ·  Tom Bayliss - 3 **11.00**  ·  Deji Elerewe - 3 **21.00**  ·  Tendayi Darikwa - 3 **19.00**  ·  Yunus Emre Konak - 3 **13.00**  ·  Conor McGrandles - 3 **19.00**  ·  Andrei Coubis - 3 **7.00**  ·  Ivan Varfolomeyev - 3 **13.00**  ·  Tom Hamer - 3 **21.00**  ·  Isaac Olaofe - 4 **5.50**  ·  Freddie Draper - 4 **5.50**  ·  Mason Melia - 4 **5.50**  ·  Rob Street - 4 **6.50**  ·  Ben House - 4 **10.00**  ·  Reeco Hackett - 4 **6.50**  ·  Dom Jefferies - 4 **15.00**  ·  Isaac Olaofe - 5 **11.00**  ·  Freddie Draper - 5 **11.00**  ·  Mason Melia - 5 **13.00**  ·  Rob Street - 5 **15.00**  ·  Ben House - 5 **21.00**  ·  Reeco Hackett - 5 **15.00**  ·  Isaac Olaofe - 6 **21.00**  ·  Freddie Draper - 6 **21.00**  ·  Mason Melia - 6 **21.00**  ·  Rob Street - 6 **21.00**  ·  Chiedozie Ogbene - 1 **1.17**  ·  Chiedozie Ogbene - 2 **1.73**  ·  Chiedozie Ogbene - 3 **3.25**  ·  Chiedozie Ogbene - 4 **6.50**  ·  Daniel Oyegoke - 1 **1.57**  ·  Daniel Oyegoke - 2 **3.50**  ·  Daniel Oyegoke - 3 **10.00**  ·  Daniel Oyegoke - 4 **21.00**  ·  Ethan Wheatley - 1 **1.11**  ·  Ethan Wheatley - 2 **1.53**  ·  Ethan Wheatley - 3 **2.62**  ·  Ethan Wheatley - 4 **5.00**  ·  Ethan Wheatley - 5 **10.00**  ·  Ethan Wheatley - 6 **21.00**  ·  Chiedozie Ogbene - 5 **15.00**  ·  Mikkel Ladefoged - 1 **1.10**  ·  Mikkel Ladefoged - 2 **1.50**  ·  Mikkel Ladefoged - 3 **2.38**  ·  Mikkel Ladefoged - 4 **4.33**  ·  Mikkel Ladefoged - 5 **9.00**  ·  Mikkel Ladefoged - 6 **19.00**  ·  Chiedozie Ogbene - 6 **21.00**  ·  Andrei Coubis - 4 **19.00**
+- **Away Player Shots:** Isaac Olaofe - 1 **1.12**  ·  Freddie Draper - 1 **1.12**  ·  Mason Melia - 1 **1.14**  ·  Rob Street - 1 **1.17**  ·  Ben House - 1 **1.25**  ·  Reeco Hackett - 1 **1.17**  ·  Adam Reach - 1 **1.67**  ·  Dom Jefferies - 1 **1.40**  ·  Tom Bayliss - 1 **1.67**  ·  Deji Elerewe - 1 **2.00**  ·  Tendayi Darikwa - 1 **2.10**  ·  Yunus Emre Konak - 1 **1.73**  ·  Conor McGrandles - 1 **2.10**  ·  Andrei Coubis - 1 **1.44**  ·  Ivan Varfolomeyev - 1 **1.73**  ·  Sonny Bradley - 1 **2.62**  ·  Ryley Towler - 1 **2.75**  ·  Callum Elder - 1 **2.62**  ·  Tom Hamer - 1 **2.50**  ·  Isaac Olaofe - 2 **1.62**  ·  Freddie Draper - 2 **1.62**  ·  Mason Melia - 2 **1.67**  ·  Rob Street - 2 **1.73**  ·  Ben House - 2 **2.10**  ·  Reeco Hackett - 2 **1.73**  ·  Adam Reach - 2 **4.00**  ·  Dom Jefferies - 2 **2.62**  ·  Tom Bayliss - 2 **4.00**  ·  Deji Elerewe - 2 **6.00**  ·  Tendayi Darikwa - 2 **6.50**  ·  Yunus Emre Konak - 2 **4.33**  ·  Conor McGrandles - 2 **6.50**  ·  Andrei Coubis - 2 **3.00**  ·  Ivan Varfolomeyev - 2 **4.33**  ·  Sonny Bradley - 2 **10.00**  ·  Ryley Towler - 2 **11.00**  ·  Callum Elder - 2 **10.00**  ·  Tom Hamer - 2 **8.00**  ·  Isaac Olaofe - 3 **2.75**  ·  Freddie Draper - 3 **2.75**  ·  Mason Melia - 3 **2.75**  ·  Rob Street - 3 **3.25**  ·  Ben House - 3 **4.33**  ·  Reeco Hackett - 3 **3.25**  ·  Adam Reach - 3 **11.00**  ·  Dom Jefferies - 3 **6.00**  ·  Tom Bayliss - 3 **11.00**  ·  Deji Elerewe - 3 **17.00**  ·  Tendayi Darikwa - 3 **19.00**  ·  Yunus Emre Konak - 3 **13.00**  ·  Conor McGrandles - 3 **19.00**  ·  Andrei Coubis - 3 **7.00**  ·  Ivan Varfolomeyev - 3 **13.00**  ·  Tom Hamer - 3 **21.00**  ·  Isaac Olaofe - 4 **5.50**  ·  Freddie Draper - 4 **5.50**  ·  Mason Melia - 4 **5.50**  ·  Rob Street - 4 **6.50**  ·  Ben House - 4 **10.00**  ·  Reeco Hackett - 4 **6.50**  ·  Dom Jefferies - 4 **15.00**  ·  Isaac Olaofe - 5 **11.00**  ·  Freddie Draper - 5 **11.00**  ·  Mason Melia - 5 **13.00**  ·  Rob Street - 5 **15.00**  ·  Ben House - 5 **21.00**  ·  Reeco Hackett - 5 **15.00**  ·  Isaac Olaofe - 6 **21.00**  ·  Freddie Draper - 6 **21.00**  ·  Mason Melia - 6 **21.00**  ·  Rob Street - 6 **21.00**  ·  Chiedozie Ogbene - 1 **1.17**  ·  Chiedozie Ogbene - 2 **1.73**  ·  Chiedozie Ogbene - 3 **3.25**  ·  Chiedozie Ogbene - 4 **6.50**  ·  Daniel Oyegoke - 1 **1.57**  ·  Daniel Oyegoke - 2 **3.50**  ·  Daniel Oyegoke - 3 **10.00**  ·  Daniel Oyegoke - 4 **21.00**  ·  Ethan Wheatley - 1 **1.11**  ·  Ethan Wheatley - 2 **1.53**  ·  Ethan Wheatley - 3 **2.62**  ·  Ethan Wheatley - 4 **5.00**  ·  Ethan Wheatley - 5 **10.00**  ·  Ethan Wheatley - 6 **21.00**  ·  Chiedozie Ogbene - 5 **15.00**  ·  Mikkel Ladefoged - 1 **1.10**  ·  Mikkel Ladefoged - 2 **1.50**  ·  Mikkel Ladefoged - 3 **2.38**  ·  Mikkel Ladefoged - 4 **4.33**  ·  Mikkel Ladefoged - 5 **9.00**  ·  Mikkel Ladefoged - 6 **19.00**  ·  Chiedozie Ogbene - 6 **21.00**  ·  Andrei Coubis - 4 **19.00**
 - **Goalkeeper Saves:** Pierce Charles - 3 **2.20**  ·  Pierce Charles - 4 **4.33**  ·  Pierce Charles - 5 **9.00**  ·  Pierce Charles - 2 **1.40**  ·  George Wickens - 2 **1.14**  ·  George Wickens - 3 **1.44**  ·  George Wickens - 4 **2.20**  ·  George Wickens - 5 **3.75**  ·  Pierce Charles - 1 **1.07**  ·  George Wickens - 6 **7.00**
 - **Anytime Goal Scorer:** Freddie Draper **3.60**  ·  Justin Obikwu **2.50**  ·  Rob Street **4.50**  ·  Dom Jefferies **8.50**  ·  Tom Hamer **15.00**  ·  Tendayi Darikwa **10.00**  ·  Glen Kamara **8.50**  ·  Paul Smyth **3.00**  ·  Kwame Poku **2.50**  ·  Isaac Olaofe **3.75**  ·  Richard Kone **2.50**  ·  Ben House **4.75**  ·  Tom Bayliss **10.00**  ·  Conor McGrandles **10.00**  ·  Mason Melia **4.33**  ·  Ivan Varfolomeyev **10.00**  ·  Mikkel Ladefoged **3.50**  ·  Andrei Coubis **7.50**  ·  Ilias Chair **2.75**  ·  Rayan Kolli **2.30**  ·  Karamoko Dembele **3.25**  ·  Koki Saito **4.50**  ·  Ryley Towler **19.00**  ·  Nicolas Madsen **4.50**  ·  Alfie Lloyd **2.50**  ·  Jimmy Dunne **9.50**  ·  Jake Clarke-Salter **10.00**  ·  Liam Morrison **10.00**  ·  Callum Elder **15.00**  ·  Sonny Bradley **15.00**  ·  Dennis Cirkin **9.50**  ·  Reeco Hackett **4.33**  ·  Rumarn Burrell **2.30**  ·  Daniel Oyegoke **7.50**  ·  Boy Kemper **7.50**  ·  Kealey Adamson **7.50**  ·  Leon Scarlett **3.00**  ·  Jonathan Varane **7.50**  ·  Chiedozie Ogbene **4.50**  ·  Tariq Lamptey **7.50**  ·  Ethan Wheatley **3.60**  ·  Ronnie Edwards **10.00**  ·  Yunus Emre Konak **10.00**  ·  Deji Elerewe **15.00**  ·  Harvey Vale **3.75**  ·  Adam Reach **10.00**  ·  Isak Alemayehu **4.50**
-- **Player to Score or Assist:** Freddie Draper **2.75**  ·  Justin Obikwu **2.00**  ·  Rob Street **3.60**  ·  Dom Jefferies **4.75**  ·  Tom Hamer **5.50**  ·  Tendayi Darikwa **5.00**  ·  Glen Kamara **4.33**  ·  Paul Smyth **2.20**  ·  Kwame Poku **1.80**  ·  Isaac Olaofe **3.00**  ·  Richard Kone **2.00**  ·  Ben House **3.50**  ·  Tom Bayliss **4.50**  ·  Conor McGrandles **6.50**  ·  Mason Melia **3.20**  ·  Ivan Varfolomeyev **6.00**  ·  Mikkel Ladefoged **2.60**  ·  Andrei Coubis **3.75**  ·  Ilias Chair **1.83**  ·  Rayan Kolli **1.67**  ·  Karamoko Dembele **2.10**  ·  Koki Saito **2.25**  ·  Ryley Towler **11.00**  ·  Nicolas Madsen **2.50**  ·  Alfie Lloyd **1.95**  ·  Jimmy Dunne **3.75**  ·  Jake Clarke-Salter **4.50**  ·  Liam Morrison **5.50**  ·  Callum Elder **5.50**  ·  Sonny Bradley **11.00**  ·  Dennis Cirkin **4.50**  ·  Reeco Hackett **2.88**  ·  Rumarn Burrell **1.80**  ·  Daniel Oyegoke **6.00**  ·  Boy Kemper **3.50**  ·  Kealey Adamson **4.75**  ·  Leon Scarlett **1.91**  ·  Jonathan Varane **4.75**  ·  Chiedozie Ogbene **3.00**  ·  Tariq Lamptey **4.00**  ·  Ethan Wheatley **2.75**  ·  Ronnie Edwards **7.50**  ·  Yunus Emre Konak **6.00**  ·  Deji Elerewe **6.50**  ·  Harvey Vale **2.20**  ·  Adam Reach **4.75**  ·  Isak Alemayehu **2.40**
+- **Player to Score or Assist:** Freddie Draper **2.75**  ·  Justin Obikwu **2.00**  ·  Rob Street **3.60**  ·  Dom Jefferies **4.75**  ·  Tom Hamer **5.00**  ·  Tendayi Darikwa **4.75**  ·  Glen Kamara **4.33**  ·  Paul Smyth **2.20**  ·  Kwame Poku **1.80**  ·  Isaac Olaofe **3.00**  ·  Richard Kone **2.00**  ·  Ben House **3.50**  ·  Tom Bayliss **4.33**  ·  Conor McGrandles **6.00**  ·  Mason Melia **3.20**  ·  Ivan Varfolomeyev **5.50**  ·  Mikkel Ladefoged **2.60**  ·  Andrei Coubis **3.75**  ·  Ilias Chair **1.83**  ·  Rayan Kolli **1.67**  ·  Karamoko Dembele **2.10**  ·  Koki Saito **2.25**  ·  Ryley Towler **11.00**  ·  Nicolas Madsen **2.50**  ·  Alfie Lloyd **1.95**  ·  Jimmy Dunne **3.75**  ·  Jake Clarke-Salter **4.50**  ·  Liam Morrison **5.50**  ·  Callum Elder **5.00**  ·  Sonny Bradley **11.00**  ·  Dennis Cirkin **4.50**  ·  Reeco Hackett **2.75**  ·  Rumarn Burrell **1.80**  ·  Daniel Oyegoke **6.00**  ·  Boy Kemper **3.50**  ·  Kealey Adamson **4.75**  ·  Leon Scarlett **1.95**  ·  Jonathan Varane **4.75**  ·  Chiedozie Ogbene **3.00**  ·  Tariq Lamptey **4.00**  ·  Ethan Wheatley **2.62**  ·  Ronnie Edwards **7.50**  ·  Yunus Emre Konak **5.50**  ·  Deji Elerewe **6.50**  ·  Harvey Vale **2.20**  ·  Adam Reach **4.50**  ·  Isak Alemayehu **2.40**
 
 ## Estadísticas de equipo
 | | QPR (total) | QPR en casa | Lincoln (total) | Lincoln fuera |
@@ -196,7 +199,7 @@ _Sin precedentes recientes._
 | T. Hamer | D | 6 | 309 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 5 | 3 | 0,5 | 1 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 0,88 · córners esperados 9,9._
+_Goles esperados: local 1,64 · visitante 0,87 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -212,17 +215,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 47% | 54% | 50% | 1.73 | -13% |
 | Goles más/menos: Más de 1.5 | 72% | 76% | 74% | 1.25 | -8% |
 | Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -11% |
-| Goles más/menos: Más de 3.5 | 25% | 32% | 28% | 3.00 | -15% |
-| Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +4% |
+| Goles más/menos: Más de 3.5 | 25% | 32% | 28% | 3.00 | -16% |
+| Goles más/menos: Menos de 1.5 | 28% | 24% | 26% | 4.00 | +5% |
 | Goles más/menos: Menos de 2.5 | 54% | 47% | 51% | 2.00 | +1% |
-| Goles más/menos: Menos de 3.5 | 75% | 68% | 72% | 1.40 | +0% |
+| Goles más/menos: Menos de 3.5 | 75% | 68% | 72% | 1.40 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Goles del local: Más de 2.5 | 23% | 29% | 26% | 3.25 | -16% |
 | Goles del local: Menos de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
 | Goles del local: Menos de 2.5 | 77% | 71% | 74% | 1.33 | -1% |
-| Goles del visitante: Más de 0.5 | 58% | 61% | 60% | 1.53 | -9% |
+| Goles del visitante: Más de 0.5 | 58% | 62% | 60% | 1.50 | -9% |
 | Goles del visitante: Más de 1.5 | 22% | 27% | 24% | 3.50 | -15% |
-| Goles del visitante: Menos de 0.5 | 42% | 39% | 40% | 2.38 | -4% |
+| Goles del visitante: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del visitante: Menos de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Córners más/menos: Más de 9.5 | 49% | 51% | 50% | 1.80 | -10% |
 | Córners más/menos: Menos de 9.5 | 51% | 49% | 50% | 1.91 | -5% |
