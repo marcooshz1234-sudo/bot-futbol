@@ -9130,31 +9130,175 @@
    }
   },
   "1550194": {
-   "hora": "2026-11-07T17:21:35.013085+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T17:33:28.551819+01:00",
+   "xi": [
+    "G. Daffara",
+    "E. Del Prato",
+    "M. Troilo",
+    "A. N&apos;Diaye",
+    "B. Cremaschi",
+    "G. Fabbian",
+    "V. Sierro",
+    "M. Keita",
+    "E. Valeri",
+    "S. Lontani",
+    "D. Romero",
+    "Ł. Skorupski",
+    "M. Darmian",
+    "N. Casale",
+    "A. Theate",
+    "N. Zortea",
+    "L. Ferguson",
+    "T. Pobega",
+    "Juan Miranda",
+    "F. Bernardeschi",
+    "J. Odgaard",
+    "N. Cambiaghi"
+   ],
+   "banquillo": [
+    "F. Carboni",
+    "E. Touré",
+    "E. Corvi",
+    "Ousmane Diallo",
+    "Diego Carlos",
+    "N. Elphege",
+    "M. Frigan",
+    "S. Ghidotti",
+    "Abdou Konate",
+    "H. Nicolussi",
+    "C. Ordoñez",
+    "S. Britschgi",
+    "P. Almqvist",
+    "M. Vitík",
+    "R. Alhassane",
+    "M. Amondarain",
+    "A. Dovbyk",
+    "O. El Azzouzi",
+    "R. Piccoli",
+    "M. Pessina",
+    "R. Orsolini",
+    "N. Moro",
+    "S. Mbangula",
+    "M. Libra",
+    "T. Heggem",
+    "U. Happonen",
+    "E. Helland"
+   ],
+   "equipos": {
+    "523": [
+     {
+      "n": "G. Daffara",
+      "pos": "G"
+     },
+     {
+      "n": "E. Del Prato",
+      "pos": "D"
+     },
+     {
+      "n": "M. Troilo",
+      "pos": "D"
+     },
+     {
+      "n": "A. N&apos;Diaye",
+      "pos": "D"
+     },
+     {
+      "n": "B. Cremaschi",
+      "pos": "M"
+     },
+     {
+      "n": "G. Fabbian",
+      "pos": "M"
+     },
+     {
+      "n": "V. Sierro",
+      "pos": "M"
+     },
+     {
+      "n": "M. Keita",
+      "pos": "M"
+     },
+     {
+      "n": "E. Valeri",
+      "pos": "M"
+     },
+     {
+      "n": "S. Lontani",
+      "pos": "F"
+     },
+     {
+      "n": "D. Romero",
+      "pos": "F"
+     }
+    ],
+    "500": [
+     {
+      "n": "Ł. Skorupski",
+      "pos": "G"
+     },
+     {
+      "n": "M. Darmian",
+      "pos": "D"
+     },
+     {
+      "n": "N. Casale",
+      "pos": "D"
+     },
+     {
+      "n": "A. Theate",
+      "pos": "D"
+     },
+     {
+      "n": "N. Zortea",
+      "pos": "M"
+     },
+     {
+      "n": "L. Ferguson",
+      "pos": "M"
+     },
+     {
+      "n": "T. Pobega",
+      "pos": "M"
+     },
+     {
+      "n": "Juan Miranda",
+      "pos": "M"
+     },
+     {
+      "n": "F. Bernardeschi",
+      "pos": "F"
+     },
+     {
+      "n": "J. Odgaard",
+      "pos": "F"
+     },
+     {
+      "n": "N. Cambiaghi",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575214": {
-   "hora": "2026-11-07T17:21:35.013085+01:00",
+   "hora": "2026-11-07T17:33:28.551819+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1557465": {
-   "hora": "2026-11-07T17:21:35.013085+01:00",
+   "hora": "2026-11-07T17:33:28.551819+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570012": {
-   "hora": "2026-11-07T17:21:35.013085+01:00",
+   "hora": "2026-11-07T17:33:28.551819+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570007": {
-   "hora": "2026-11-07T17:21:35.013085+01:00",
+   "hora": "2026-11-07T17:33:28.551819+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
