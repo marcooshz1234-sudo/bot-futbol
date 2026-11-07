@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 20:06",
+ "actualizado": "2026-11-07 20:17",
  "redes": {
   "instagram": {
    "seguidores": 33,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2104,
-   "hoy": 100,
+   "seguidores": 2105,
+   "hoy": 101,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2104
+    2105
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 306,
-   "hoy": 12,
+   "seguidores": 307,
+   "hoy": 13,
    "serie": [
     207,
     214,
@@ -50,17 +50,17 @@
     245,
     277,
     294,
-    306
+    307
    ]
   }
  },
- "total": 2444,
- "total_hoy": 119,
+ "total": 2446,
+ "total_hoy": 121,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:10",
+  "hora": "20:30",
   "dia": "2026-11-07",
-  "titulo": "Combi As Roma vs Sassuolo"
+  "titulo": "Combi Paris Saint Germain vs Estac Tro"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,19 +162,19 @@
   },
   "2026-11-07": {
    "instagram": 33,
-   "threads": 2104,
+   "threads": 2105,
    "facebook": 1,
-   "telegram": 306
+   "telegram": 307
   }
  },
  "tipos_instagram": {
-  "Verdes/balance (reel)": {
-   "posts": 2,
+  "Combi loca (reel)": {
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 43,
+  "Verdes/balance (reel)": {
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -189,7 +189,7 @@
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
