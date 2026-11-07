@@ -3033,7 +3033,7 @@
   {
     "id": "2026-11-07-estrella-1557457",
     "fecha": "2026-11-07T15:25",
-    "texto": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 ARSENAL 🆚 HULL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⭐ PARTIDO ESTRELLA · 16:00 ⭐\n\n✅1. Mohamed Belloumi: 1+ tiros\n✅2. Noni Madueke comete 1+ faltas\n✅3. Hull City marca\n\n🎯 Cuota: 4,07\n💶 10€ → 40,70€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 ARSENAL 🆚 HULL CITY 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⭐ PARTIDO ESTRELLA · 16:00 ⭐\n\n✅1. Mohamed Belloumi: 1+ tiros\n✅2. Noni Madueke comete 1+ faltas\n✅3. Hull City marca\n\n🎯 Cuota: 4,07\n💶 10€ → 41,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3045,9 +3045,10 @@
     "cuotas": [
       1.25,
       1.5,
-      2.2
+      2.25
     ],
-    "espera_alineacion": true
+    "espera_alineacion": true,
+    "cuotas_revisadas": "2026-11-07T13:59"
   },
   {
     "id": "2026-11-07-combi-loca",
