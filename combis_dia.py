@@ -836,7 +836,9 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     partidos = []
     for pool in pools:
         r = combi_partido(pool, PARTIDO)
-        if not r and pool[0].get("liga_id") in EUROPA:   # 02/11: en las europeas, si no hay de 4, de 3 cosas desde cuota 3
+        from plantillas import GRANDES
+        grande = any(g in f"{pool[0].get('local', '')} {pool[0].get('visitante', '')}".lower() for g in GRANDES)
+        if not r and (pool[0].get("liga_id") in EUROPA or grande):   # 02/11 europeas · 07/11 (Marcos): Madrid, PSG… siempre con escudos
             r = mejor_combi([p for p in pool if familia(p) not in SIN_EN_ESCUDOS], (3, 3), (3.0, PARTIDO["cuota"][1]), PROB_MIN_RELAJADA)
         if r:
             b = pool[0]

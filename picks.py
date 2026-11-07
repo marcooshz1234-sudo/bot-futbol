@@ -99,6 +99,9 @@ def excluido(mercado, opcion):
     # 05/11 (Marcos): los tiros del partido entero («Más de 27,5 tiros en …») no le gustan (los córners sí)
     if mercado in ("Total Shots", "Total ShotOnGoal"):
         return True
+    # 07/11 (Marcos): nada de «empate al descanso» / «gana al descanso» en las combis
+    if mercado in ("First Half Winner", "HT/FT Double", "Halftime/Fulltime", "Half Time/Full Time"):
+        return True
     # 05/11 (Marcos): nada de «gol en la 1ª parte» ni de «más de 2,5 goles» (o más) en el partido
     if mercado in ("Goals Over/Under First Half", "Both Teams Score - First Half"):
         return True

@@ -3567,5 +3567,37 @@
     "redes": {
       "threads": "18158502751493750"
     }
+  },
+  {
+    "id": "2026-11-07-combi-partido-1570451",
+    "fecha": "2026-11-07T20:15",
+    "texto": "✅ COMBI LOCAS | LALIGA\n🇪🇸 VALENCIA vs REAL MADRID 🇪🇸\n\n🎯 GANA EL REAL MADRID [x1.27]\n✅ KYLIAN MBAPPÉ (REAL MADRID): 4+ TIROS [x1.25]\n✅ ARNAUT DANJUMA (VALENCIA) COMETE 1+ FALTAS [x1.36]\n✅ MÁS DE 9,5 CÓRNERS [x1.73]\n✅ VALENCIA MARCA [x1.67]\n\n🔥 Resultado probable: 1-2 | 1-3 | 2-3\n💥 Cuota total aprox.: 6,85\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570451|Match Winner|Away",
+      "1570451|Away Player Shots|Kylian Mbappe - 4",
+      "1570451|Player Fouls Committed|Arnaut Danjuma - 1",
+      "1570451|Corners Over Under|Over 9.5",
+      "1570451|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.27,
+      1.25,
+      1.36,
+      1.73,
+      1.67
+    ],
+    "tarjeta": {
+      "local": "Valencia",
+      "visitante": "Real Madrid",
+      "id_l": 532,
+      "id_v": 541,
+      "logo_l": "https://media.api-sports.io/football/teams/532.png",
+      "logo_v": "https://media.api-sports.io/football/teams/541.png",
+      "fecha": "2026-11-07T21:00",
+      "liga": "LaLiga"
+    }
   }
 ]
