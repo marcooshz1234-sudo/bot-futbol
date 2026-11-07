@@ -8986,10 +8986,148 @@
    }
   },
   "1552217": {
-   "hora": "2026-11-07T15:53:22.342503+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T16:04:38.144289+01:00",
+   "xi": [
+    "M. Branderhorst",
+    "Ivo Pinto",
+    "S. van Ottele",
+    "Iván Márquez",
+    "Justin Quincy Hubner",
+    "J. Dahlhaus",
+    "M. Ihattaren",
+    "P. Brittijn",
+    "Shiloh Kiesar ’t Zand",
+    "K. Peterson",
+    "A. Descotte",
+    "R. Koeman",
+    "S. Valk",
+    "A. Soualhia",
+    "M. Peersman",
+    "G. Caschili",
+    "N. Rossen",
+    "T. Owusu",
+    "Isaiah Ahmed",
+    "A. Martha",
+    "P. Brouwer",
+    "N. Þórisson"
+   ],
+   "banquillo": [
+    "Ganni Buyukhan",
+    "Moussa Gbemou",
+    "L. Koopmans",
+    "K. Reitmaier",
+    "S. Simons",
+    "S. Wylin",
+    "N. de Groot",
+    "K. van Burgsteden",
+    "Y. Oukili",
+    "F. Turay",
+    "N. Shenkman",
+    "Jelani Seedorf",
+    "F. Rust",
+    "D. Reiziger",
+    "R. Oudsten",
+    "N. Nwankwo",
+    "Finn Mulder",
+    "H. Kuster",
+    "J. Hardeveld",
+    "E. Demircan",
+    "P. Aning"
+   ],
+   "equipos": {
+    "205": [
+     {
+      "n": "M. Branderhorst",
+      "pos": "G"
+     },
+     {
+      "n": "Ivo Pinto",
+      "pos": "D"
+     },
+     {
+      "n": "S. van Ottele",
+      "pos": "D"
+     },
+     {
+      "n": "Iván Márquez",
+      "pos": "D"
+     },
+     {
+      "n": "Justin Quincy Hubner",
+      "pos": "D"
+     },
+     {
+      "n": "J. Dahlhaus",
+      "pos": "D"
+     },
+     {
+      "n": "M. Ihattaren",
+      "pos": "M"
+     },
+     {
+      "n": "P. Brittijn",
+      "pos": "M"
+     },
+     {
+      "n": "Shiloh Kiesar ’t Zand",
+      "pos": "M"
+     },
+     {
+      "n": "K. Peterson",
+      "pos": "M"
+     },
+     {
+      "n": "A. Descotte",
+      "pos": "F"
+     }
+    ],
+    "427": [
+     {
+      "n": "R. Koeman",
+      "pos": "G"
+     },
+     {
+      "n": "S. Valk",
+      "pos": "D"
+     },
+     {
+      "n": "A. Soualhia",
+      "pos": "D"
+     },
+     {
+      "n": "M. Peersman",
+      "pos": "D"
+     },
+     {
+      "n": "G. Caschili",
+      "pos": "M"
+     },
+     {
+      "n": "N. Rossen",
+      "pos": "M"
+     },
+     {
+      "n": "T. Owusu",
+      "pos": "M"
+     },
+     {
+      "n": "Isaiah Ahmed",
+      "pos": "M"
+     },
+     {
+      "n": "A. Martha",
+      "pos": "M"
+     },
+     {
+      "n": "P. Brouwer",
+      "pos": "M"
+     },
+     {
+      "n": "N. Þórisson",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
