@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-11-07 23:59",
+ "actualizado": "2026-11-08 00:08",
  "redes": {
   "instagram": {
    "seguidores": 33,
-   "hoy": 6,
+   "hoy": 0,
    "serie": [
-    21,
     22,
     23,
     24,
     25,
     27,
+    33,
     33
    ]
   },
   "threads": {
-   "seguidores": 2126,
-   "hoy": 122,
+   "seguidores": 2127,
+   "hoy": 1,
    "serie": [
-    1407,
     1430,
     1520,
     1638,
     1906,
     2004,
-    2126
+    2126,
+    2127
    ]
   },
   "facebook": {
    "seguidores": 1,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
     0,
     0,
     0,
     0,
     0,
-    0,
+    1,
     1
    ]
   },
   "telegram": {
    "seguidores": 307,
-   "hoy": 13,
+   "hoy": 0,
    "serie": [
-    207,
     214,
     232,
     245,
     277,
     294,
+    307,
     307
    ]
   }
  },
- "total": 2467,
- "total_hoy": 142,
+ "total": 2468,
+ "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
   "hora": "01:00",
@@ -63,8 +63,8 @@
   "titulo": "Quién gana hoy"
  },
  "ayer": {
-  "aciertos": 6,
-  "total": 12
+  "aciertos": 21,
+  "total": 36
  },
  "escalera": {
   "dia": 1,
@@ -163,6 +163,12 @@
   "2026-11-07": {
    "instagram": 33,
    "threads": 2126,
+   "facebook": 1,
+   "telegram": 307
+  },
+  "2026-11-08": {
+   "instagram": 33,
+   "threads": 2127,
    "facebook": 1,
    "telegram": 307
   }
