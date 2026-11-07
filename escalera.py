@@ -170,7 +170,12 @@ def resultado(pick):
         return "anulada"   # 07/11: partido aplazado o suspendido: bet365 la anula
     if not p or p.get("estado") not in ("FT", "AET", "PEN"):
         return None
-    return evaluar_pick(pick, p)
+    r = evaluar_pick(pick, p)
+    if r is None:
+        from picks import no_jugo
+        if no_jugo(pick, p):
+            return "anulada"   # 07/11: el jugador no jugó
+    return r
 
 
 def main():

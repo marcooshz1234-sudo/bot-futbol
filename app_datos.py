@@ -217,6 +217,10 @@ def fila_sel(sel, cuota, directo, conocidos=None):
         sube = str(opcion).startswith(SUBEN) or " - " in str(opcion)
         if fin:
             estado = "verde" if r is True else "rojo" if r is False else "sin_datos"
+            if r is None:   # 07/11: jugador que no jugó → bet365 anula la pata (no se queda «sin datos» para siempre)
+                from picks import no_jugo
+                if no_jugo({"mercado": mercado, "opcion": opcion}, d):
+                    estado = "anulada"
         elif r is True and (sube or (mercado == "Match Winner" and opcion in ("Home", "Away"))):
             # 27/10: «gana X» con 2 goles de ventaja ya está pagada (evaluar_pick solo da True si ya es seguro
             # o si va ganando; se comprueba la ventaja para no dar verde a un 1-0)

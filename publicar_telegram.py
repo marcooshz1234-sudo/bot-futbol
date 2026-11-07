@@ -169,6 +169,13 @@ def main(objetivo=None):
             cambios += 1
             print(f"Caducada (no se publica): {p['id']}")
             continue
+        from bot import partido_caido
+        motivo = partido_caido(p)
+        if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica
+            p["caducada"] = motivo
+            cambios += 1
+            print(f"No se publica {p['id']}: {motivo}")
+            continue
         if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
             continue

@@ -120,6 +120,23 @@ class LimiteAlcanzado(Exception):
 # ---------------------------------------------------------------- utilidades
 
 
+def partido_caido(post):
+    """07/11 (Marcos: «piensa en todo lo que puede fallar»): texto con el motivo si algún partido de un post
+    pendiente se ha aplazado/suspendido o ya ha terminado; None si se puede publicar."""
+    sel = post.get("sel") or []
+    if not sel or post.get("verde_de") or post.get("resultado"):
+        return None
+    directo = leer(DATOS / "en_directo.json", {}) or {}
+    for s in sel:
+        fid = str(s).split("|")[0]
+        e = (directo.get(fid) or {}).get("estado")
+        if e in ("PST", "CANC", "ABD", "AWD", "WO"):
+            return f"partido {fid} aplazado o suspendido ({e})"
+        if e in ("FT", "AET", "PEN"):
+            return f"partido {fid} ya terminado"
+    return None
+
+
 def leer(ruta, defecto=None):
     try:
         return json.loads(Path(ruta).read_text(encoding="utf-8"))

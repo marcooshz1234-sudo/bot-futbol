@@ -914,6 +914,23 @@ def evaluar_pick(pick, partido):
     return r
 
 
+def no_jugo(pick, partido):
+    """07/11: pata de jugador cuyo jugador no llegó a jugar (convocado sin minutos): bet365 la anula.
+    Solo si se le encuentra en la lista con 0 minutos; si no se le encuentra (nombre distinto) no se decide."""
+    mercado = pick.get("mercado")
+    if not (pick.get("tipo") == "jugador" or pick.get("jugador_id") or mercado in JUG_MERCADOS):
+        return False
+    if partido.get("estado") not in TERMINADOS:
+        return False
+    nombre = pick.get("jugador")
+    if not nombre and not pick.get("jugador_id"):
+        o = str(pick.get("opcion") or "")
+        nombre = o.rsplit(" - ", 1)[0] if " - " in o else o
+    cands = [j for lista in (partido.get("jugadores") or {}).values() for j in lista
+             if (j.get("id") == pick["jugador_id"] if pick.get("jugador_id") else mismo_jugador(nombre, j.get("nombre")))]
+    return len(cands) == 1 and not cands[0].get("min") and not sustituto_de(partido, cands[0])
+
+
 def historial():
     idx = defaultdict(list)
     for f in PARTIDOS.glob("*.json"):

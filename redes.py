@@ -442,6 +442,9 @@ def main(objetivo=None):
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
         if cuando > ahora or ahora - cuando > MAX_RETRASO + REEL_TRAS:
             continue
+        from bot import partido_caido
+        if not (p.get("redes") or {}) and partido_caido(p):   # 07/11: partido aplazado o ya jugado
+            continue
         if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             continue   # 28/10 (Marcos): combi de partido SIEMPRE con su foto; se espera a que el bucle la haga
         hecho = p.setdefault("redes", {})
