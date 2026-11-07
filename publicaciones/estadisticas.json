@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 10:19",
+ "actualizado": "2026-11-07 10:33",
  "redes": {
   "instagram": {
    "seguidores": 28,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2050,
-   "hoy": 46,
+   "seguidores": 2051,
+   "hoy": 47,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2050
+    2051
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2375,
- "total_hoy": 50,
+ "total": 2376,
+ "total_hoy": 51,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-07",
-  "titulo": "Pick seguro del día"
+  "titulo": "Reto escalera · día 2/7 · x1,80"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,14 +162,19 @@
   },
   "2026-11-07": {
    "instagram": 28,
-   "threads": 2050,
+   "threads": 2051,
    "facebook": 0,
    "telegram": 297
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
-   "posts": 44,
+   "posts": 43,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -185,11 +190,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
