@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 14:22",
+ "actualizado": "2026-11-07 14:32",
  "redes": {
   "instagram": {
    "seguidores": 31,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2070,
-   "hoy": 66,
+   "seguidores": 2072,
+   "hoy": 68,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2070
+    2072
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2399,
- "total_hoy": 74,
+ "total": 2401,
+ "total_hoy": 76,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "14:40",
   "dia": "2026-11-07",
-  "titulo": "Combi de 8 partidos x25,80"
+  "titulo": "Combi Fulham vs Newcastle"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,7 +162,7 @@
   },
   "2026-11-07": {
    "instagram": 31,
-   "threads": 2070,
+   "threads": 2072,
    "facebook": 1,
    "telegram": 297
   }
