@@ -60,6 +60,9 @@ def main():
         minutos = (ahora - datetime.fromisoformat(visto).replace(tzinfo=MADRID)).total_seconds() / 60
         if not terminados and minutos < ESPERA_MIN:
             continue
+        # 07/11 (Marcos): con una pata anulada (partido aplazado) bet365 paga sin ella: la cuota se rehace
+        p = dict(p, cuota=cuota_real(p))
+        anuladas = [x for x in p.get("picks", []) if x.get("estado") == "anulada"]
         x = f" x{num(p['cuota'])}" if p.get("cuota") else ""   # 26/10: la cuota en la primera línea
         titulo = limpio(p["titulo"])
         if "COMBI LOCAS" in p["titulo"]:   # combi de partido: «COMBI LOCAS · SASSUOLO vs LAZIO»
@@ -71,6 +74,8 @@ def main():
             titulo = "CREAR APUESTA"
         texto = f"✅💚 ¡VERDE{x}! {titulo} 💚✅" + ("\n\n📲 Montada en bet365, partido a partido 👇" if boleto else
                                                    "\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs))
+        if anuladas and not boleto:
+            texto += "\n" + "\n".join(f"⏸️ {x['texto']} (no se jugó: no cuenta)" for x in anuladas)
         if p.get("cuota"):
             texto += f"\n\n🎯 Cuota {num(p['cuota'])}\n💶 10€ → {num(p['cuota'] * 10)}€"
         texto += "\n\n¿Quién la llevaba? 👇💚"
@@ -113,6 +118,21 @@ def main():
     ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
     for post in nuevos:
         print("Verde automático:", post["id"])
+
+
+def cuota_real(p):
+    """Cuota contando solo las patas que no se anularon (como paga bet365). Sin datos, la publicada."""
+    import math
+    picks = p.get("picks") or []
+    anuladas = [x for x in picks if x.get("estado") == "anulada"]
+    if not anuladas or not p.get("cuota"):
+        return p.get("cuota")
+    vivas = [x for x in picks if x.get("estado") != "anulada"]
+    if vivas and all(x.get("cuota") for x in vivas):
+        return round(math.prod(float(x["cuota"]) for x in vivas), 2)
+    if all(x.get("cuota") for x in anuladas):
+        return round(p["cuota"] / math.prod(float(x["cuota"]) for x in anuladas), 2)
+    return p.get("cuota")
 
 
 if __name__ == "__main__":

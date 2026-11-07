@@ -12,6 +12,7 @@ el día anterior. Si sale verde, sube un escalón; si falla, se reinicia con 20 
 """
 
 import json
+import math
 from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, PARTIDOS, leer
@@ -165,6 +166,8 @@ def elegir_(dia, compartir, nivel=NIVELES[0], fecha=None):
 def resultado(pick):
     """True/False si el partido ya terminó, None si aún no."""
     p = leer(PARTIDOS / f"{pick['partido_id']}.json")
+    if p and p.get("estado") in ("PST", "CANC", "ABD", "AWD", "WO"):
+        return "anulada"   # 07/11: partido aplazado o suspendido: bet365 la anula
     if not p or p.get("estado") not in ("FT", "AET", "PEN"):
         return None
     return evaluar_pick(pick, p)
@@ -182,9 +185,12 @@ def main():
         ultimo = max(datetime.fromisoformat(p["fecha"][:16]) for p in act["picks"]).replace(tzinfo=MADRID)
         if any(r is None for r in res) and datetime.now(MADRID) - ultimo > timedelta(hours=30):
             # pasado más de un día sin dato (p. ej. jugador que no jugó): bet365 la anula → cuenta como acertada
-            res = [True if r is None else r for r in res]
+            res = ["anulada" if r is None else r for r in res]
         if all(r is not None for r in res) or any(r is False for r in res):   # una pata fallada ya es roja
-            verde = all(r is True for r in res)
+            verde = all(r in (True, "anulada") for r in res) and any(r is True for r in res)
+            if verde and "anulada" in res:   # 07/11 (Marcos): la cuota se rehace sin la pata anulada
+                act["cuota_publicada"] = act["cuota"]
+                act["cuota"] = round(math.prod(float(p["cuota"]) for p, r in zip(act["picks"], res) if r is True), 2)
             act["resultado"] = "verde" if verde else "roja"
             act["aciertos"] = res
             estado["historial"].append(act)
