@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 17:44",
+ "actualizado": "2026-11-07 17:54",
  "redes": {
   "instagram": {
    "seguidores": 32,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2089,
-   "hoy": 85,
+   "seguidores": 2093,
+   "hoy": 89,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2089
+    2093
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 301,
-   "hoy": 7,
+   "seguidores": 302,
+   "hoy": 8,
    "serie": [
     207,
     214,
@@ -50,28 +50,28 @@
     245,
     277,
     294,
-    301
+    302
    ]
   }
  },
- "total": 2423,
- "total_hoy": 98,
+ "total": 2428,
+ "total_hoy": 103,
  "likes_hoy": 0,
  "proximo": {
   "hora": "17:55",
   "dia": "2026-11-07",
-  "titulo": "Nottingham forest manchester city"
+  "titulo": "Combi Osasuna vs Athletic Club"
  },
  "ayer": {
   "aciertos": 6,
   "total": 12
  },
  "escalera": {
-  "dia": 2,
+  "dia": 1,
   "de": 7,
-  "stake": 42.0,
-  "objetivo": 75.6,
-  "fecha": "2026-11-07"
+  "stake": 20.0,
+  "objetivo": 38.2,
+  "fecha": "2026-11-08"
  },
  "historial": {
   "2026-10-23": {
@@ -162,14 +162,14 @@
   },
   "2026-11-07": {
    "instagram": 32,
-   "threads": 2089,
+   "threads": 2093,
    "facebook": 1,
-   "telegram": 301
+   "telegram": 302
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 43,
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -194,7 +194,7 @@
    "comentarios_media": 0.0
   },
   "Verdes/balance (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
