@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 20:27",
+ "actualizado": "2026-11-07 20:38",
  "redes": {
   "instagram": {
    "seguidores": 33,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2108,
-   "hoy": 104,
+   "seguidores": 2111,
+   "hoy": 107,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2108
+    2111
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2449,
- "total_hoy": 124,
+ "total": 2452,
+ "total_hoy": 127,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:30",
+  "hora": "23:00",
   "dia": "2026-11-07",
-  "titulo": "Combi Paris Saint Germain vs Estac Tro"
+  "titulo": "7 picks para mañana"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,7 +162,7 @@
   },
   "2026-11-07": {
    "instagram": 33,
-   "threads": 2108,
+   "threads": 2111,
    "facebook": 1,
    "telegram": 307
   }
