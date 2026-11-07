@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 15:22",
+ "actualizado": "2026-11-07 15:32",
  "redes": {
   "instagram": {
    "seguidores": 32,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2076,
-   "hoy": 72,
+   "seguidores": 2079,
+   "hoy": 75,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2076
+    2079
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 299,
-   "hoy": 5,
+   "seguidores": 300,
+   "hoy": 6,
    "serie": [
     207,
     214,
@@ -50,17 +50,17 @@
     245,
     277,
     294,
-    299
+    300
    ]
   }
  },
- "total": 2408,
- "total_hoy": 83,
+ "total": 2412,
+ "total_hoy": 87,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:25",
+  "hora": "16:00",
   "dia": "2026-11-07",
-  "titulo": "Arsenal hull city"
+  "titulo": "La loca del sábado x6,25"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,12 +162,17 @@
   },
   "2026-11-07": {
    "instagram": 32,
-   "threads": 2076,
+   "threads": 2079,
    "facebook": 1,
-   "telegram": 299
+   "telegram": 300
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 5,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 43,
    "likes_media": 0.0,
@@ -188,13 +193,8 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi de partido (reel)": {
-   "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Verdes/balance (reel)": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
