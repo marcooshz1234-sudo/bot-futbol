@@ -1234,14 +1234,14 @@
   },
   "2026-11-07": {
     "dia": "2026-11-07",
-    "total": 4,
+    "total": 5,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 4,
+      "pendiente": 5,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 5
     },
     "combis": [
       {
@@ -1267,13 +1267,19 @@
         "titulo": "🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮",
         "estado": "pendiente",
         "cuota": 453.38
+      },
+      {
+        "id": "2026-11-07-combi-partido-1557463",
+        "titulo": "✅ COMBI LOCAS | PREMIER",
+        "estado": "pendiente",
+        "cuota": 5.2
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 39
+      "total": 43
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80 · pendiente\n⏳ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80 · pendiente\n⏳ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 5,20 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
