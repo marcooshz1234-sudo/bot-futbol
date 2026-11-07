@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 02:02",
+ "actualizado": "2026-11-07 02:12",
  "redes": {
   "instagram": {
    "seguidores": 27,
@@ -62,13 +62,16 @@
   "dia": "2026-11-07",
   "titulo": "Partidos de hoy - ganadores"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 6,
+  "total": 12
+ },
  "escalera": {
-  "dia": 1,
+  "dia": 2,
   "de": 7,
-  "stake": 20.0,
-  "objetivo": 42.0,
-  "fecha": "2026-11-06"
+  "stake": 42.0,
+  "objetivo": 75.6,
+  "fecha": "2026-11-07"
  },
  "historial": {
   "2026-10-23": {
