@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 10:54",
+ "actualizado": "2026-11-07 11:04",
  "redes": {
   "instagram": {
    "seguidores": 28,
@@ -58,9 +58,9 @@
  "total_hoy": 50,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "12:00",
   "dia": "2026-11-07",
-  "titulo": "Reto escalera · día 2/7 · x1,80"
+  "titulo": "De 1 a 500 x453,38"
  },
  "ayer": {
   "aciertos": 6,
@@ -168,18 +168,18 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 5,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 43,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 4,
+   "posts": 42,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
