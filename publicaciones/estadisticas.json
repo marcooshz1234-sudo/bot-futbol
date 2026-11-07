@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 11:59",
+ "actualizado": "2026-11-07 12:09",
  "redes": {
   "instagram": {
    "seguidores": 30,
@@ -58,9 +58,9 @@
  "total_hoy": 55,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:00",
+  "hora": "12:55",
   "dia": "2026-11-07",
-  "titulo": "De 1 a 500 x453,38"
+  "titulo": "Combi Leeds vs Tottenham"
  },
  "ayer": {
   "aciertos": 6,
@@ -168,6 +168,11 @@
   }
  },
  "tipos_instagram": {
+  "Picks (reel)": {
+   "posts": 2,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 5,
    "likes_media": 0.0,
@@ -179,12 +184,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 42,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks (reel)": {
-   "posts": 1,
+   "posts": 41,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
