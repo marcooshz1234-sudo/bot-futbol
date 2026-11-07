@@ -2681,11 +2681,11 @@
     ],
     "cuotas": [
       1.62,
-      1.55,
-      1.62,
-      1.62,
-      1.62,
       1.5,
+      1.62,
+      1.62,
+      1.62,
+      1.53,
       1.8
     ],
     "ganadores_img": {
@@ -2743,12 +2743,12 @@
         }
       ]
     },
-    "cuotas_revisadas": "2026-11-07T08:46"
+    "cuotas_revisadas": "2026-11-07T09:18"
   },
   {
     "id": "2026-11-07-pick-seguro",
     "fecha": "2026-11-07T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇪🇸 Cordoba – AD Ceuta FC · 18:30\n✅ Gana el Cordoba\n\n🎯 Cuota 1,50\n💶 10€ → 15,00€\n\n📊 Pick seguro: 2 ✅ · 2 ❌ · -21 %\n\n🍀 Uno al día, sin locuras",
+    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇪🇸 Cordoba – AD Ceuta FC · 18:30\n✅ Gana el Cordoba\n\n🎯 Cuota 1,50\n💶 10€ → 15,30€\n\n📊 Pick seguro: 2 ✅ · 2 ❌ · -21 %\n\n🍀 Uno al día, sin locuras",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -2756,8 +2756,9 @@
       "1570007|Match Winner|Home"
     ],
     "cuotas": [
-      1.5
-    ]
+      1.53
+    ],
+    "cuotas_revisadas": "2026-11-07T09:18"
   },
   {
     "id": "2026-11-07-escalera",
