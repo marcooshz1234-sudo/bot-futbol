@@ -8682,7 +8682,8 @@
   "movimiento": null,
   "ventaja": 0.056,
   "prob_aprendida": 0.823,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1552217|Double Chance|Home/Draw": {
   "partido_id": 1552217,
@@ -8770,7 +8771,8 @@
   "movimiento": -0.21,
   "ventaja": 0.119,
   "prob_aprendida": 0.779,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1570446|Double Chance|Draw/Away": {
   "partido_id": 1570446,
@@ -8970,7 +8972,7 @@
   "valor_mercado": -0.008,
   "movimiento": 0.0,
   "ventaja": 0.019,
-  "prob_aprendida": 0.853,
+  "prob_aprendida": 0.839,
   "acierto": null
  },
  "1552812|Home Player Shots On Target Total|Pathe Mboup - 1": {
@@ -8992,7 +8994,7 @@
   "valor_mercado": null,
   "movimiento": -0.067,
   "ventaja": 0.175,
-  "prob_aprendida": 0.624,
+  "prob_aprendida": 0.61,
   "acierto": null
  },
  "1552812|Home Player Shots|Pathe Mboup - 2": {
@@ -9014,7 +9016,7 @@
   "valor_mercado": null,
   "movimiento": 0.195,
   "ventaja": 0.235,
-  "prob_aprendida": 0.608,
+  "prob_aprendida": 0.631,
   "acierto": null
  },
  "1570445|Double Chance|Draw/Away": {
@@ -9149,7 +9151,8 @@
   "movimiento": null,
   "ventaja": 0.083,
   "prob_aprendida": 0.408,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1552223|Double Chance|Home/Draw": {
   "partido_id": 1552223,
@@ -9329,7 +9332,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.774,
+  "prob_aprendida": 0.769,
   "acierto": null
  },
  "1550193|Home Player Shots On Target Total|Scott McTominay - 1": {
@@ -9464,7 +9467,7 @@
   "valor_mercado": null,
   "movimiento": 0.029,
   "ventaja": 0.206,
-  "prob_aprendida": 0.691,
+  "prob_aprendida": 0.729,
   "acierto": null
  },
  "1550193|Home Player Shots On Target Total|Noa Lang - 1": {
@@ -9874,7 +9877,8 @@
   "movimiento": -0.038,
   "ventaja": 0.119,
   "prob_aprendida": 0.797,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1550188|To Win Either Half|Away": {
   "partido_id": 1550188,
@@ -9896,7 +9900,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.453,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1550188|Double Chance|Draw/Away": {
   "partido_id": 1550188,
@@ -9918,7 +9923,8 @@
   "movimiento": null,
   "ventaja": 0.106,
   "prob_aprendida": 0.46,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1550189|To Win Either Half|Away": {
   "partido_id": 1550189,
@@ -10007,7 +10013,7 @@
   "valor_mercado": 0.0,
   "movimiento": -0.023,
   "ventaja": 0.1,
-  "prob_aprendida": 0.816,
+  "prob_aprendida": 0.832,
   "acierto": null
  },
  "1563239|Home Team Total Cards|Over 1.5": {
@@ -10168,7 +10174,8 @@
   "movimiento": 0.016,
   "ventaja": 0.031,
   "prob_aprendida": 0.784,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1550194|Goals Over/Under|Over 1.5": {
   "partido_id": 1550194,
@@ -10180,16 +10187,16 @@
   "opcion": "Over 1.5",
   "tipo": "goles",
   "texto": "Más de 1,5 goles en Parma–Bologna",
-  "cuota": 1.33,
+  "cuota": 1.36,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.015,
-  "movimiento": -0.022,
-  "ventaja": 0.048,
-  "prob_aprendida": 0.773,
+  "valor_mercado": 0.007,
+  "movimiento": 0.0,
+  "ventaja": 0.065,
+  "prob_aprendida": 0.75,
   "acierto": null
  },
  "1563258|To Win Either Half|Away": {
@@ -10255,7 +10262,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.023,
   "ventaja": 0.115,
-  "prob_aprendida": 0.739,
+  "prob_aprendida": 0.748,
   "acierto": null
  },
  "1636337|Player Fouls Committed|Evanilson - 1": {
@@ -10459,7 +10466,7 @@
   "valor_mercado": -0.016,
   "movimiento": -0.023,
   "ventaja": 0.1,
-  "prob_aprendida": 0.822,
+  "prob_aprendida": 0.808,
   "acierto": null
  },
  "1570009|Away Player Shots|Stefan Dzodic - 1": {
@@ -10539,16 +10546,16 @@
   "opcion": "Over 1.5",
   "tipo": "goles",
   "texto": "Más de 1,5 goles en Sporting Gijon–Valladolid",
-  "cuota": 1.33,
+  "cuota": 1.36,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.022,
-  "movimiento": null,
-  "ventaja": 0.048,
-  "prob_aprendida": 0.846,
+  "valor_mercado": 0.0,
+  "movimiento": 0.023,
+  "ventaja": 0.065,
+  "prob_aprendida": 0.769,
   "acierto": null
  },
  "1550189|Goals Over/Under|Over 1.5": {
@@ -10821,7 +10828,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.428,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-2"
  },
  "1552221|Home Corners Over/Under|Over 3.5": {
   "partido_id": 1552221,
@@ -10842,7 +10850,7 @@
   "valor_mercado": 0.08,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.523,
+  "prob_aprendida": 0.496,
   "acierto": null
  },
  "1563261|Double Chance|Home/Draw": {
@@ -10887,7 +10895,8 @@
   "movimiento": -0.015,
   "ventaja": 0.219,
   "prob_aprendida": 0.71,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1557463|Player Fouls Committed|Dominic Calvert-Lewin - 1": {
   "partido_id": 1557463,
@@ -10909,7 +10918,8 @@
   "movimiento": null,
   "ventaja": 0.2,
   "prob_aprendida": 0.649,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1557463|Player Fouls Committed|Omar Marmoush - 1": {
   "partido_id": 1557463,
@@ -10931,7 +10941,8 @@
   "movimiento": null,
   "ventaja": 0.219,
   "prob_aprendida": 0.681,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1557463|Player Fouls Committed|Ao Tanaka - 1": {
   "partido_id": 1557463,
@@ -10953,7 +10964,8 @@
   "movimiento": null,
   "ventaja": 0.106,
   "prob_aprendida": 0.674,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1557463|Player Fouls Committed|Jan Paul van Hecke - 1": {
   "partido_id": 1557463,
@@ -10975,7 +10987,8 @@
   "movimiento": null,
   "ventaja": 0.086,
   "prob_aprendida": 0.494,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1557462|Player Fouls Committed|Evanilson - 1": {
   "partido_id": 1557462,
@@ -11172,7 +11185,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.179,
-  "prob_aprendida": 0.498,
+  "prob_aprendida": 0.483,
   "acierto": null
  },
  "1557464|Home Player Shots On Target Total|Bryan Mbeumo - 1": {
@@ -11194,7 +11207,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.585,
+  "prob_aprendida": 0.561,
   "acierto": null
  },
  "1557457|Player Fouls Committed|Mohamed Belloumi - 1": {
@@ -11324,10 +11337,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.008,
+  "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.019,
-  "prob_aprendida": 0.817,
+  "prob_aprendida": 0.84,
   "acierto": null
  },
  "1570005|Away Player Shots|Mikel Goti - 1": {
@@ -11508,7 +11521,7 @@
   "valor_mercado": null,
   "movimiento": 0.049,
   "ventaja": 0.108,
-  "prob_aprendida": 0.718,
+  "prob_aprendida": 0.728,
   "acierto": null
  },
  "1563254|Home Player Shots On Target Total|Jack Moylan - 1": {
@@ -11553,7 +11566,8 @@
   "movimiento": 0.103,
   "ventaja": 0.133,
   "prob_aprendida": 0.641,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-1"
  },
  "1557457|Home Team Total Cards|Over 0.5": {
   "partido_id": 1557457,
@@ -11619,7 +11633,8 @@
   "movimiento": null,
   "ventaja": 0.248,
   "prob_aprendida": 0.578,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-2"
  },
  "1575217|Player Fouls Committed|Dayot Upamecano - 1": {
   "partido_id": 1575217,
@@ -11641,7 +11656,8 @@
   "movimiento": -0.045,
   "ventaja": 0.133,
   "prob_aprendida": 0.504,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1575214|Player Fouls Committed|Grischa Promel - 1": {
   "partido_id": 1575214,
@@ -11752,7 +11768,8 @@
   "movimiento": null,
   "ventaja": 0.1,
   "prob_aprendida": 0.652,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1575213|Player Fouls Committed|Fabian Rieder - 1": {
   "partido_id": 1575213,
@@ -11774,7 +11791,8 @@
   "movimiento": null,
   "ventaja": 0.031,
   "prob_aprendida": 0.571,
-  "acierto": null
+  "acierto": true,
+  "marcador": "5-2"
  },
  "1570448|Player Fouls Committed|Alex Berenguer - 1": {
   "partido_id": 1570448,
@@ -11839,7 +11857,7 @@
   "valor_mercado": null,
   "movimiento": 0.157,
   "ventaja": 0.089,
-  "prob_aprendida": 0.755,
+  "prob_aprendida": 0.789,
   "acierto": null
  },
  "1550190|Player Fouls Committed|Mikael Egill Ellertsson - 1": {
@@ -11952,7 +11970,8 @@
   "movimiento": -0.111,
   "ventaja": 0.219,
   "prob_aprendida": 0.782,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1552815|Away Corners Over/Under|Over 2.5": {
   "partido_id": 1552815,
@@ -11995,7 +12014,7 @@
   "valor_mercado": 0.025,
   "movimiento": 0.059,
   "ventaja": 0.05,
-  "prob_aprendida": 0.811,
+  "prob_aprendida": 0.812,
   "acierto": null
  },
  "1552222|Away Player Shots|Jorthy Mokio - 1": {
@@ -12017,7 +12036,7 @@
   "valor_mercado": null,
   "movimiento": -0.028,
   "ventaja": 0.186,
-  "prob_aprendida": 0.715,
+  "prob_aprendida": 0.737,
   "acierto": null
  },
  "1570443|Away Player Shots|Lamine Yamal - 3": {
@@ -12030,16 +12049,16 @@
   "opcion": "Lamine Yamal - 3",
   "tipo": "jugador",
   "texto": "Lamine Yamal: 3+ tiros",
-  "cuota": 1.25,
+  "cuota": 1.28,
   "frecuencia": 1.0,
   "jugador_id": 386828,
   "jugador": "Lamine Yamal",
   "campo": "tiros",
   "n": 3,
   "valor_mercado": null,
-  "movimiento": 0.025,
-  "ventaja": 0.2,
-  "prob_aprendida": 0.748,
+  "movimiento": 0.049,
+  "ventaja": 0.219,
+  "prob_aprendida": 0.765,
   "acierto": null
  },
  "1575216|Player Fouls Committed|Zeno Van Den Bosch - 1": {
@@ -12281,7 +12300,7 @@
   "valor_mercado": null,
   "movimiento": 0.146,
   "ventaja": 0.244,
-  "prob_aprendida": 0.5,
+  "prob_aprendida": 0.488,
   "acierto": null
  },
  "1570448|Player Fouls Committed|Abel Bretones - 1": {
@@ -12322,10 +12341,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
+  "valor_mercado": 0.081,
   "movimiento": null,
   "ventaja": 0.272,
-  "prob_aprendida": 0.368,
+  "prob_aprendida": 0.34,
   "acierto": null
  },
  "1570005|To Win Either Half|Away": {
@@ -12388,10 +12407,54 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.006,
+  "valor_mercado": -0.043,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.491,
+  "prob_aprendida": 0.513,
+  "acierto": null
+ },
+ "1570448|Goals Over/Under|Over 1.5": {
+  "partido_id": 1570448,
+  "fecha": "2026-11-07T18:30",
+  "competicion": "LaLiga",
+  "local": "Osasuna",
+  "visitante": "Athletic Club",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "tipo": "goles",
+  "texto": "Más de 1,5 goles en Osasuna–Athletic Club",
+  "cuota": 1.33,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.022,
+  "movimiento": 0.0,
+  "ventaja": 0.098,
+  "prob_aprendida": 0.765,
+  "acierto": null
+ },
+ "1557462|Home Team Total Cards|Over 1.5": {
+  "partido_id": 1557462,
+  "fecha": "2026-11-08T15:00",
+  "competicion": "Premier",
+  "local": "Ipswich",
+  "visitante": "Bournemouth",
+  "mercado": "Home Team Total Cards",
+  "opcion": "Over 1.5",
+  "tipo": "tarjetas",
+  "texto": "Ipswich ve más de 1,5 tarjetas",
+  "cuota": 1.5,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.056,
+  "movimiento": null,
+  "ventaja": 0.183,
+  "prob_aprendida": 0.553,
   "acierto": null
  }
 }

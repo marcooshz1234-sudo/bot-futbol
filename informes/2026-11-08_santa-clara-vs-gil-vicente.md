@@ -1,10 +1,10 @@
 # Santa Clara – GIL Vicente
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estádio de São Miguel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 02:03_
+_Actualizadas: 07/11 17:45_
 
 - **1X2:** 1 **2.25**  ·  X **3.10**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.36**  ·  X2 **1.62**
@@ -30,6 +30,10 @@ _Actualizadas: 07/11 02:03_
 - **Córners más/menos:**
     - 8,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **3.00**  ·  X **1.95**  ·  2 **4.33**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
 - **To Win Either Half:** 1 **1.73**  ·  2 **2.25**
@@ -208,9 +212,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
 | Goles del local: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
 | Goles del local: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
-| Goles del visitante: Más de 0.5 | 55% | 61% | 58% | 1.53 | -11% |
+| Goles del visitante: Más de 0.5 | 56% | 61% | 58% | 1.53 | -11% |
 | Goles del visitante: Más de 1.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del visitante: Menos de 0.5 | 45% | 39% | 42% | 2.38 | -0% |
+| Goles del visitante: Menos de 0.5 | 44% | 39% | 42% | 2.38 | -1% |
 | Goles del visitante: Menos de 1.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Córners más/menos: Más de 8.5 | 49% | 51% | 50% | 1.80 | -10% |
 | Córners más/menos: Menos de 8.5 | 51% | 49% | 50% | 1.91 | -5% |

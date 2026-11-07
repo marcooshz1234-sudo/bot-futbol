@@ -1,10 +1,10 @@
 # Utrecht – NEC Nijmegen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 20:00 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 02:04_
+_Actualizadas: 07/11 17:45_
 
 - **1X2:** 1 **2.45**  ·  X **3.80**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.53**
@@ -50,7 +50,7 @@ _Actualizadas: 07/11 02:04_
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
 - **Home Player Shots On Target Total:** Jakov Medic - 1 **3.50**  ·  Jakov Medic - 2 **19.00**  ·  Marius Broholm - 1 **1.57**  ·  Marius Broholm - 2 **3.75**  ·  Marius Broholm - 3 **13.00**  ·  Yoann Cathline - 1 **1.30**  ·  Artem Stepanov - 1 **1.30**  ·  Angel Alarcon - 1 **1.67**  ·  Davy van den Berg - 1 **1.83**  ·  Adrian Blake - 1 **1.57**  ·  Kevin Paredes - 1 **1.73**  ·  Dani de Wit - 1 **1.57**  ·  Ferdinand Pohl - 1 **2.50**  ·  Joris van Overeem - 1 **2.50**  ·  Arthur Zagre - 1 **2.50**  ·  Siebe Horemans - 1 **2.75**  ·  Niklas Vesterlund - 1 **3.40**  ·  Guus Offerhaus - 1 **3.50**  ·  Matisse Didden - 1 **3.40**  ·  Neville Nwankwo - 1 **3.75**  ·  Per Kloosterboer - 1 **3.50**  ·  Yoann Cathline - 2 **2.50**  ·  Artem Stepanov - 2 **2.38**  ·  Angel Alarcon - 2 **4.33**  ·  Davy van den Berg - 2 **5.50**  ·  Adrian Blake - 2 **3.75**  ·  Kevin Paredes - 2 **4.50**  ·  Dani de Wit - 2 **3.75**  ·  Ferdinand Pohl - 2 **10.00**  ·  Joris van Overeem - 2 **10.00**  ·  Arthur Zagre - 2 **10.00**  ·  Siebe Horemans - 2 **13.00**  ·  Niklas Vesterlund - 2 **17.00**  ·  Guus Offerhaus - 2 **19.00**  ·  Matisse Didden - 2 **17.00**  ·  Neville Nwankwo - 2 **21.00**  ·  Per Kloosterboer - 2 **19.00**  ·  Yoann Cathline - 3 **6.00**  ·  Artem Stepanov - 3 **6.00**  ·  Angel Alarcon - 3 **15.00**  ·  Davy van den Berg - 3 **19.00**  ·  Adrian Blake - 3 **11.00**  ·  Kevin Paredes - 3 **17.00**  ·  Dani de Wit - 3 **13.00**  ·  Yoann Cathline - 4 **17.00**  ·  Artem Stepanov - 4 **15.00**  ·  Sem van Duijn - 1 **1.40**  ·  Sem van Duijn - 2 **3.00**  ·  Sem van Duijn - 3 **8.00**  ·  Sem van Duijn - 4 **21.00**  ·  Viggo Plantinga - 1 **3.50**  ·  Viggo Plantinga - 2 **19.00**  ·  Nordin Amrabat - 1 **2.10**  ·  Nikolas Panagiotou - 1 **2.62**  ·  Nordin Amrabat - 2 **7.00**  ·  Nikolas Panagiotou - 2 **11.00**  ·  Nordin Amrabat - 3 **21.00**  ·  Oualid Agougil - 1 **2.25**  ·  Oualid Agougil - 2 **9.00**
 - **Away Player Shots On Target Total:** Kaj Sierhuis **4.75**  ·  Willum Willumsson **17.00**  ·  Clement Bischoff **21.00**  ·  Angel Alarcon **5.50**  ·  Neville Nwankwo **15.00**  ·  Arthur Zagre **51.00**  ·  Yassin Moslih **11.00**  ·  Darko Nejasmic **13.00**  ·  Noe Lebreton **8.50**  ·  Deveron Fonville **12.00**  ·  Merijn van de Wiel **8.50**  ·  Bryan Linssen **4.75**  ·  Tjaronn Chery **5.00**  ·  Kevin Paredes **34.00**  ·  Nordin Amrabat **41.00**  ·  Philippe Sandler **21.00**  ·  Bram Nuytinck **15.00**  ·  Dusan Tadic **67.00**  ·  Yoann Cathline **23.00**  ·  Adrian Blake **34.00**  ·  Siebe Horemans **15.00**  ·  Matisse Didden **15.00**  ·  Ahmetcan Kaplan **11.00**  ·  Isak Hansen-Aaroen **21.00**  ·  Jamiro Monteiro **41.00**  ·  Davy van den Berg **41.00**  ·  Ayodele Thomas **26.00**  ·  Oualid Agougil **11.00**  ·  Kevin Kers **13.00**  ·  Joris van Overeem **10.00**  ·  Emmanuel Owen **21.00**  ·  Niklas Vesterlund **29.00**  ·  Adam Tahaui **10.00**  ·  Jamie Schuldes **15.00**  ·  Gabriel Bras **12.00**  ·  Emre Mor **17.00**  ·  Dennis Geiger **81.00**  ·  Perr Schuurs **10.00**  ·  Artem Stepanov **3.40**  ·  Dani de Wit **13.00**  ·  Jakov Medic **12.00**  ·  Almugera Kabar **41.00**  ·  Guus Offerhaus **15.00**  ·  Sem van Duijn **3.75**  ·  Tobias Storm **13.00**
 - **Home Player Shots:** Jakov Medic - 1 **1.73**  ·  Jakov Medic - 2 **4.33**  ·  Jakov Medic - 3 **13.00**  ·  Marius Broholm - 1 **1.07**  ·  Marius Broholm - 2 **1.36**  ·  Marius Broholm - 3 **2.10**  ·  Marius Broholm - 4 **3.75**  ·  Marius Broholm - 5 **7.00**  ·  Yoann Cathline - 1 **1.01**  ·  Artem Stepanov - 1 **1.02**  ·  Angel Alarcon - 1 **1.10**  ·  Davy van den Berg - 1 **1.07**  ·  Adrian Blake - 1 **1.07**  ·  Kevin Paredes - 1 **1.11**  ·  Dani de Wit - 1 **1.07**  ·  Ferdinand Pohl - 1 **1.33**  ·  Joris van Overeem - 1 **1.33**  ·  Arthur Zagre - 1 **1.22**  ·  Siebe Horemans - 1 **1.36**  ·  Niklas Vesterlund - 1 **1.62**  ·  Guus Offerhaus - 1 **1.73**  ·  Matisse Didden - 1 **1.57**  ·  Neville Nwankwo - 1 **1.83**  ·  Per Kloosterboer - 1 **1.73**  ·  Yoann Cathline - 2 **1.12**  ·  Artem Stepanov - 2 **1.17**  ·  Angel Alarcon - 2 **1.44**  ·  Davy van den Berg - 2 **1.36**  ·  Adrian Blake - 2 **1.36**  ·  Kevin Paredes - 2 **1.53**  ·  Dani de Wit - 2 **1.40**  ·  Ferdinand Pohl - 2 **2.38**  ·  Joris van Overeem - 2 **2.38**  ·  Arthur Zagre - 2 **1.91**  ·  Siebe Horemans - 2 **2.62**  ·  Niklas Vesterlund - 2 **3.75**  ·  Guus Offerhaus - 2 **4.33**  ·  Matisse Didden - 2 **3.50**  ·  Neville Nwankwo - 2 **5.00**  ·  Per Kloosterboer - 2 **4.00**  ·  Yoann Cathline - 3 **1.40**  ·  Artem Stepanov - 3 **1.50**  ·  Angel Alarcon - 3 **2.25**  ·  Davy van den Berg - 3 **2.00**  ·  Adrian Blake - 3 **2.00**  ·  Kevin Paredes - 3 **2.50**  ·  Dani de Wit - 3 **2.10**  ·  Ferdinand Pohl - 3 **5.00**  ·  Joris van Overeem - 3 **5.50**  ·  Arthur Zagre - 3 **3.75**  ·  Siebe Horemans - 3 **6.00**  ·  Niklas Vesterlund - 3 **11.00**  ·  Guus Offerhaus - 3 **13.00**  ·  Matisse Didden - 3 **10.00**  ·  Neville Nwankwo - 3 **15.00**  ·  Per Kloosterboer - 3 **13.00**  ·  Yoann Cathline - 4 **1.91**  ·  Artem Stepanov - 4 **2.20**  ·  Angel Alarcon - 4 **4.00**  ·  Davy van den Berg - 4 **3.50**  ·  Adrian Blake - 4 **3.50**  ·  Kevin Paredes - 4 **4.50**  ·  Dani de Wit - 4 **3.75**  ·  Ferdinand Pohl - 4 **13.00**  ·  Joris van Overeem - 4 **13.00**  ·  Arthur Zagre - 4 **9.00**  ·  Siebe Horemans - 4 **15.00**  ·  Yoann Cathline - 5 **3.00**  ·  Artem Stepanov - 5 **3.50**  ·  Angel Alarcon - 5 **9.00**  ·  Davy van den Berg - 5 **6.50**  ·  Adrian Blake - 5 **6.50**  ·  Kevin Paredes - 5 **10.00**  ·  Yoann Cathline - 6 **5.00**  ·  Artem Stepanov - 6 **6.50**  ·  Angel Alarcon - 6 **17.00**  ·  Davy van den Berg - 6 **13.00**  ·  Adrian Blake - 6 **13.00**  ·  Yoann Cathline - 7 **9.00**  ·  Artem Stepanov - 7 **13.00**  ·  Dani de Wit - 5 **7.00**  ·  Niklas Vesterlund - 4 **21.00**  ·  Ferdinand Pohl - 5 **21.00**  ·  Arthur Zagre - 5 **19.00**  ·  Kevin Paredes - 6 **21.00**  ·  Dani de Wit - 6 **15.00**  ·  Davy van den Berg - 7 **21.00**  ·  Adrian Blake - 7 **21.00**  ·  Yoann Cathline - 8 **17.00**  ·  Artem Stepanov - 8 **21.00**  ·  Sem van Duijn - 1 **1.04**  ·  Sem van Duijn - 2 **1.22**  ·  Sem van Duijn - 3 **1.67**  ·  Sem van Duijn - 4 **2.62**  ·  Sem van Duijn - 5 **4.50**  ·  Sem van Duijn - 6 **9.00**  ·  Sem van Duijn - 7 **17.00**  ·  Viggo Plantinga - 1 **1.73**  ·  Viggo Plantinga - 2 **4.00**  ·  Viggo Plantinga - 3 **13.00**  ·  Nordin Amrabat - 1 **1.20**  ·  Nikolas Panagiotou - 1 **1.36**  ·  Nordin Amrabat - 2 **1.83**  ·  Nikolas Panagiotou - 2 **2.62**  ·  Nordin Amrabat - 3 **3.75**  ·  Nikolas Panagiotou - 3 **6.00**  ·  Nordin Amrabat - 4 **8.00**  ·  Nordin Amrabat - 5 **19.00**  ·  Matisse Didden - 4 **21.00**  ·  Dani de Wit - 7 **21.00**  ·  Nikolas Panagiotou - 4 **15.00**  ·  Marius Broholm - 6 **15.00**  ·  Marius Broholm - 7 **21.00**  ·  Oualid Agougil - 1 **1.25**  ·  Oualid Agougil - 2 **2.10**  ·  Oualid Agougil - 3 **4.33**  ·  Oualid Agougil - 4 **10.00**  ·  Oualid Agougil - 5 **21.00**
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | A. Thomas | M | 6 | 354 | 0 | 0 | 8 | 1,3 | 3 | 0,5 | 5 | 4 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,77 · visitante 1,65 · córners esperados 9,2._
+_Goles esperados: local 1,76 · visitante 1,65 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -206,21 +206,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 33% | 35% | 34% | 2.62 | -10% |
 | Ambos marcan: Sí | 67% | 65% | 66% | 1.44 | -5% |
 | Goles más/menos: Más de 2.5 | 66% | 62% | 64% | 1.50 | -3% |
-| Goles más/menos: Más de 3.5 | 44% | 42% | 43% | 2.20 | -4% |
+| Goles más/menos: Más de 3.5 | 44% | 42% | 43% | 2.20 | -5% |
 | Goles más/menos: Más de 4.5 | 26% | 25% | 25% | 3.75 | -5% |
 | Goles más/menos: Menos de 2.5 | 34% | 38% | 36% | 2.50 | -11% |
 | Goles más/menos: Menos de 3.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles más/menos: Menos de 4.5 | 74% | 75% | 75% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles del local: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles del local: Más de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Goles del local: Más de 2.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles del local: Más de 2.5 | 26% | 25% | 25% | 3.75 | -4% |
 | Goles del local: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -15% |
 | Goles del local: Menos de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
-| Goles del local: Menos de 2.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles del local: Menos de 2.5 | 74% | 75% | 75% | 1.25 | -7% |
 | Goles del visitante: Más de 0.5 | 81% | 78% | 80% | 1.20 | -5% |
 | Goles del visitante: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
 | Goles del visitante: Más de 2.5 | 23% | 23% | 23% | 4.00 | -8% |
@@ -230,7 +230,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 42% | 56% | 49% | 1.67 | -18% |
 | Córners más/menos: Menos de 9.5 | 58% | 44% | 51% | 2.10 | +7% |
 | 1X2 descanso: 2 | 30% | 31% | 30% | 3.00 | -9% |
-| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -8% |
+| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -7% |
 | 1X2 descanso: 1 | 33% | 32% | 33% | 2.88 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

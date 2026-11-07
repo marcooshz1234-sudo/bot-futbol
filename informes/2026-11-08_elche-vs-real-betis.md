@@ -1,10 +1,10 @@
 # Elche – Real Betis
 **LaLiga** · Regular Season - 12 · 08/11/2026 14:00 (hora España) · Estadio Manuel Martínez Valero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 02:03_
+_Actualizadas: 07/11 17:45_
 
 - **1X2:** 1 **3.50**  ·  X **3.60**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
@@ -52,12 +52,12 @@ _Actualizadas: 07/11 02:03_
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Total ShotOnGoal:**
     - 9,5: más **1.83** · menos **1.83**
-- **ShotOnTarget 1x2:** 1 **2.20**  ·  X **7.50**  ·  2 **1.91**
+- **ShotOnTarget 1x2:** 1 **2.25**  ·  X **7.50**  ·  2 **1.91**
 - **Total Shots:**
     - 27,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **2.10**  ·  X **15.00**  ·  2 **1.73**
 - **Home Player Shots On Target Total:** Kevin Lomonaco - 1 **13.00**  ·  Thomas Lemar - 1 **2.00**  ·  Thomas Lemar - 2 **6.50**  ·  Thomas Lemar - 3 **21.00**  ·  Ruben Sanchez - 1 **8.00**  ·  Bambo Diaby - 1 **13.00**  ·  Buba Sangare - 1 **13.00**  ·  Federico Redondo - 1 **5.50**  ·  Gonzalo Villar - 1 **3.75**  ·  Javier Morcillo - 1 **4.33**  ·  Matia Barzic - 1 **6.00**  ·  Pedro Bigas - 1 **5.50**  ·  Victor Chust - 1 **6.50**  ·  Ali Houary - 2 **6.00**  ·  Alvaro Padilla - 2 **6.00**  ·  Carvalho Martim Neto - 2 **19.00**  ·  Facundo Buonanotte - 2 **4.00**  ·  Fernandez Josan - 2 **9.00**  ·  Grady Diangana - 2 **8.00**  ·  Tete Morente - 2 **6.00**  ·  Ezequiel Ponce - 3 **17.00**  ·  Abiel Osorio - 4 **21.00**  ·  Fernando Nino - 4 **21.00**  ·  Abiel Osorio - 1 **1.44**  ·  Ali Houary - 1 **1.91**  ·  Alvaro Padilla - 1 **1.91**  ·  Carvalho Martim Neto - 1 **3.50**  ·  Ezequiel Ponce - 1 **1.73**  ·  Facundo Buonanotte - 1 **1.62**  ·  Fernandez Josan - 1 **2.25**  ·  German Valera - 1 **2.50**  ·  Grady Diangana - 1 **2.20**  ·  Lucas Cepeda - 1 **1.50**  ·  Marc Aguado - 1 **4.50**  ·  Tete Morente - 1 **1.91**  ·  Fernando Nino - 2 **3.25**  ·  Fernando Nino - 1 **1.44**  ·  Lucas Cepeda - 2 **3.50**  ·  Abiel Osorio - 2 **3.25**  ·  German Valera - 2 **10.00**  ·  Ezequiel Ponce - 2 **4.50**  ·  Gonzalo Villar - 2 **21.00**  ·  Javier Morcillo - 2 **21.00**  ·  Fernando Nino - 3 **9.00**  ·  Lucas Cepeda - 3 **10.00**  ·  Abiel Osorio - 3 **9.00**  ·  Facundo Buonanotte - 3 **13.00**  ·  Tete Morente - 3 **21.00**  ·  Ali Houary - 3 **21.00**  ·  Alvaro Padilla - 3 **21.00**  ·  Roy Revivo - 1 **3.75**  ·  Roy Revivo - 2 **21.00**
-- **Away Player Shots On Target Total:** Marc Aguado **41.00**  ·  Victor Chust **21.00**  ·  Gonzalo Villar **34.00**  ·  Ruben Sanchez **23.00**  ·  Ali Houary **21.00**  ·  Bambo Diaby **19.00**  ·  Fernandez Josan **21.00**  ·  Matia Barzic **19.00**  ·  Pedro Bigas **19.00**  ·  Valentin Gomez **34.00**  ·  Fernando Nino **8.50**  ·  Abiel Osorio **19.00**  ·  Troy Parrott **15.00**  ·  Nelson Deossa **19.00**  ·  Lucas Cepeda **21.00**  ·  Facundo Bernal **29.00**  ·  Abdessamad Ezzalzouli **29.00**  ·  Grady Diangana **21.00**  ·  Kevin Lomonaco **19.00**  ·  Cucho Hernandez **15.00**  ·  Antony **51.00**  ·  German Valera **51.00**  ·  Alarcon Isco **29.00**  ·  Hector Bellerin **126.00**  ·  Alvaro Fidalgo **41.00**  ·  Ezequiel Ponce **9.50**  ·  Federico Redondo **26.00**  ·  Roy Revivo **34.00**  ·  Javier Morcillo **34.00**  ·  Carvalho Martim Neto **26.00**  ·  Alvaro Padilla **34.00**  ·  Aitor Ruibal **21.00**  ·  Diego Llorente **17.00**  ·  Giovani Lo Celso **34.00**  ·  Marc Roca **67.00**  ·  Pablo Fornals **41.00**  ·  Facundo Buonanotte **23.00**  ·  Natan Bernardo **19.00**  ·  Angel Ortiz **67.00**  ·  Rodrigo Riquelme **81.00**  ·  Thomas Lemar **126.00**  ·  Marc Bartra **21.00**  ·  Buba Sangare **81.00**  ·  Dani Ceballos **67.00**  ·  Francisco Garcia **81.00**  ·  Tete Morente **34.00**
+- **Away Player Shots On Target Total:** Marc Aguado **41.00**  ·  Victor Chust **21.00**  ·  Gonzalo Villar **34.00**  ·  Ruben Sanchez **26.00**  ·  Ali Houary **21.00**  ·  Bambo Diaby **19.00**  ·  Fernandez Josan **21.00**  ·  Matia Barzic **21.00**  ·  Pedro Bigas **19.00**  ·  Valentin Gomez **34.00**  ·  Fernando Nino **9.00**  ·  Abiel Osorio **21.00**  ·  Troy Parrott **13.00**  ·  Nelson Deossa **19.00**  ·  Lucas Cepeda **23.00**  ·  Facundo Bernal **29.00**  ·  Abdessamad Ezzalzouli **29.00**  ·  Grady Diangana **21.00**  ·  Kevin Lomonaco **19.00**  ·  Cucho Hernandez **15.00**  ·  Antony **51.00**  ·  German Valera **51.00**  ·  Alarcon Isco **29.00**  ·  Hector Bellerin **126.00**  ·  Alvaro Fidalgo **41.00**  ·  Ezequiel Ponce **10.00**  ·  Federico Redondo **26.00**  ·  Roy Revivo **34.00**  ·  Javier Morcillo **34.00**  ·  Carvalho Martim Neto **26.00**  ·  Alvaro Padilla **34.00**  ·  Aitor Ruibal **21.00**  ·  Diego Llorente **17.00**  ·  Giovani Lo Celso **34.00**  ·  Marc Roca **67.00**  ·  Pablo Fornals **34.00**  ·  Facundo Buonanotte **23.00**  ·  Natan Bernardo **19.00**  ·  Angel Ortiz **67.00**  ·  Rodrigo Riquelme **67.00**  ·  Thomas Lemar **126.00**  ·  Marc Bartra **21.00**  ·  Buba Sangare **81.00**  ·  Dani Ceballos **67.00**  ·  Francisco Garcia **81.00**  ·  Tete Morente **34.00**
 - **Away Player Shots Total:**
     - 13,5: más **1.73** · menos **2.00**
 - **Home Player Shots:** Kevin Lomonaco - 1 **3.40**  ·  Kevin Lomonaco - 2 **15.00**  ·  Thomas Lemar - 1 **1.17**  ·  Thomas Lemar - 2 **1.73**  ·  Thomas Lemar - 3 **3.25**  ·  Thomas Lemar - 4 **6.50**  ·  Thomas Lemar - 5 **15.00**  ·  Ruben Sanchez - 1 **1.80**  ·  Ruben Sanchez - 2 **4.50**  ·  Ruben Sanchez - 3 **13.00**  ·  Bambo Diaby - 1 **4.00**  ·  Buba Sangare - 1 **4.00**  ·  Federico Redondo - 1 **1.80**  ·  Gonzalo Villar - 1 **1.40**  ·  Javier Morcillo - 1 **1.80**  ·  Matia Barzic - 1 **2.38**  ·  Pedro Bigas - 1 **2.38**  ·  Victor Chust - 1 **2.62**  ·  Ali Houary - 2 **1.53**  ·  Alvaro Padilla - 2 **1.73**  ·  Carvalho Martim Neto - 2 **3.40**  ·  Facundo Buonanotte - 2 **1.36**  ·  Fernandez Josan - 2 **2.50**  ·  Grady Diangana - 2 **1.73**  ·  Marc Aguado - 2 **8.00**  ·  Tete Morente - 2 **1.62**  ·  Ezequiel Ponce - 3 **2.38**  ·  German Valera - 3 **4.50**  ·  Abiel Osorio - 4 **2.50**  ·  Fernando Nino - 4 **3.25**  ·  Lucas Cepeda - 4 **3.00**  ·  Abiel Osorio - 1 **1.04**  ·  Ali Houary - 1 **1.11**  ·  Alvaro Padilla - 1 **1.17**  ·  Carvalho Martim Neto - 1 **1.53**  ·  Ezequiel Ponce - 1 **1.10**  ·  Facundo Buonanotte - 1 **1.07**  ·  Fernandez Josan - 1 **1.33**  ·  German Valera - 1 **1.28**  ·  Grady Diangana - 1 **1.17**  ·  Lucas Cepeda - 1 **1.05**  ·  Marc Aguado - 1 **2.38**  ·  Tete Morente - 1 **1.14**  ·  Fernando Nino - 2 **1.30**  ·  Fernando Nino - 1 **1.06**  ·  Lucas Cepeda - 2 **1.28**  ·  Abiel Osorio - 2 **1.20**  ·  German Valera - 2 **2.20**  ·  Ezequiel Ponce - 2 **1.44**  ·  Gonzalo Villar - 2 **2.75**  ·  Federico Redondo - 2 **4.50**  ·  Javier Morcillo - 2 **4.50**  ·  Matia Barzic - 2 **8.00**  ·  Bambo Diaby - 2 **19.00**  ·  Pedro Bigas - 2 **8.00**  ·  Buba Sangare - 2 **19.00**  ·  Victor Chust - 2 **10.00**  ·  Fernando Nino - 3 **1.83**  ·  Lucas Cepeda - 3 **1.80**  ·  Abiel Osorio - 3 **1.62**  ·  Facundo Buonanotte - 3 **2.00**  ·  Tete Morente - 3 **2.75**  ·  Ali Houary - 3 **2.62**  ·  Fernandez Josan - 3 **5.50**  ·  Grady Diangana - 3 **3.25**  ·  Alvaro Padilla - 3 **3.25**  ·  Carvalho Martim Neto - 3 **9.00**  ·  Marc Aguado - 3 **21.00**  ·  Gonzalo Villar - 3 **6.50**  ·  Federico Redondo - 3 **13.00**  ·  Javier Morcillo - 3 **13.00**  ·  Matia Barzic - 3 **21.00**  ·  Pedro Bigas - 3 **21.00**  ·  German Valera - 4 **11.00**  ·  Ezequiel Ponce - 4 **4.33**  ·  Facundo Buonanotte - 4 **3.50**  ·  Tete Morente - 4 **5.50**  ·  Ali Houary - 4 **5.00**  ·  Fernandez Josan - 4 **13.00**  ·  Grady Diangana - 4 **6.50**  ·  Alvaro Padilla - 4 **6.50**  ·  Carvalho Martim Neto - 4 **21.00**  ·  Gonzalo Villar - 4 **17.00**  ·  Fernando Nino - 5 **6.00**  ·  Lucas Cepeda - 5 **5.50**  ·  Abiel Osorio - 5 **4.33**  ·  German Valera - 5 **21.00**  ·  Ezequiel Ponce - 5 **9.00**  ·  Facundo Buonanotte - 5 **6.50**  ·  Tete Morente - 5 **13.00**  ·  Ali Houary - 5 **11.00**  ·  Grady Diangana - 5 **15.00**  ·  Alvaro Padilla - 5 **15.00**  ·  Fernando Nino - 6 **13.00**  ·  Lucas Cepeda - 6 **11.00**  ·  Abiel Osorio - 6 **8.00**  ·  Ezequiel Ponce - 6 **19.00**  ·  Facundo Buonanotte - 6 **13.00**  ·  Tete Morente - 6 **21.00**  ·  Ali Houary - 6 **21.00**  ·  Fernando Nino - 7 **21.00**  ·  Lucas Cepeda - 7 **21.00**  ·  Abiel Osorio - 7 **15.00**  ·  Abiel Osorio - 8 **21.00**  ·  Roy Revivo - 1 **1.80**  ·  Roy Revivo - 2 **4.50**  ·  Roy Revivo - 3 **13.00**  ·  Facundo Buonanotte - 7 **21.00**
@@ -204,18 +204,18 @@ _Goles esperados: local 1,43 · visitante 1,61 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 47% | 45% | 2.00 | -11% |
+| 1X2: 2 | 42% | 47% | 44% | 2.00 | -11% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 ✅ | 34% | 27% | 30% | 3.50 | +6% |
+| 1X2: 1 ✅ | 34% | 27% | 30% | 3.50 | +7% |
 | Doble oportunidad: X2 | 66% | 74% | 70% | 1.28 | -11% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 58% | 52% | 55% | 1.80 | -1% |
+| Doble oportunidad: 1X | 58% | 52% | 55% | 1.80 | -0% |
 | Ambos marcan: No | 39% | 41% | 40% | 2.25 | -10% |
 | Ambos marcan: Sí | 61% | 59% | 60% | 1.57 | -6% |
 | Goles más/menos: Más de 1.5 | 81% | 79% | 80% | 1.20 | -4% |
 | Goles más/menos: Más de 2.5 | 59% | 57% | 58% | 1.67 | -4% |
 | Goles más/menos: Más de 3.5 | 36% | 36% | 36% | 2.62 | -5% |
-| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -9% |
+| Goles más/menos: Más de 4.5 | 19% | 21% | 20% | 4.50 | -10% |
 | Goles más/menos: Menos de 1.5 | 19% | 21% | 20% | 4.50 | -9% |
 | Goles más/menos: Menos de 2.5 | 41% | 43% | 42% | 2.20 | -7% |
 | Goles más/menos: Menos de 3.5 | 64% | 64% | 64% | 1.50 | -4% |
@@ -227,8 +227,8 @@ _Goles esperados: local 1,43 · visitante 1,61 · córners esperados 9,4._
 | Goles del local: Más de 0.5 | 76% | 72% | 74% | 1.30 | -4% |
 | Goles del local: Más de 1.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del local: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -12% |
-| Goles del local: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -9% |
-| Goles del visitante: Más de 1.5 | 48% | 51% | 50% | 1.80 | -10% |
+| Goles del local: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
+| Goles del visitante: Más de 1.5 | 48% | 51% | 50% | 1.80 | -11% |
 | Goles del visitante: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
 | Goles del visitante: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
 | Goles del visitante: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |

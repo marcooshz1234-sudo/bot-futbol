@@ -1,12 +1,12 @@
 # Rio Ave – SC Braga
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España) · Estádio dos Arcos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 02:04_
+_Actualizadas: 07/11 17:46_
 
-- **1X2:** 1 **6.00**  ·  X **4.10**  ·  2 **1.53**
+- **1X2:** 1 **6.00**  ·  X **4.10**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.12**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
@@ -47,7 +47,7 @@ _Actualizadas: 07/11 02:04_
     - 3,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 5,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 - **Home Player Shots On Target Total:** Ulisses Tamble Monteiro - 1 **2.10**  ·  Jalen Blesa - 1 **1.83**  ·  Diogo Bezerra - 1 **2.62**  ·  Rafael Lobato - 1 **2.25**  ·  Tobias Medina - 1 **2.50**  ·  Marios Vrousai - 1 **2.75**  ·  Miguel Patricio - 1 **2.25**  ·  Diogo Nascimento - 1 **2.75**  ·  Dario Spikic - 1 **2.62**  ·  Roland Galcik - 1 **2.62**  ·  Antoine Wenck - 1 **3.00**  ·  Guilherme Ryan - 1 **3.00**  ·  Samuel Alves - 1 **3.25**  ·  Francisco Petrasso - 1 **5.50**  ·  Georgios Liavas - 1 **3.75**  ·  Tamas Nikitscher - 1 **3.75**  ·  Andreas Ntoi - 1 **8.00**  ·  Jakub Brabec - 1 **6.00**  ·  Teixeira Gustavo Mancha - 1 **6.00**  ·  Caike Valenca - 1 **6.50**  ·  Joao Tome - 1 **5.50**  ·  Julien Lomboto - 1 **6.50**  ·  Nelson Abbey - 1 **6.50**  ·  Ulisses Tamble Monteiro - 2 **7.00**  ·  Jalen Blesa - 2 **5.50**  ·  Diogo Bezerra - 2 **11.00**  ·  Rafael Lobato - 2 **9.00**  ·  Tobias Medina - 2 **10.00**  ·  Marios Vrousai - 2 **13.00**  ·  Miguel Patricio - 2 **9.00**  ·  Diogo Nascimento - 2 **13.00**  ·  Dario Spikic - 2 **11.00**  ·  Roland Galcik - 2 **11.00**  ·  Antoine Wenck - 2 **13.00**  ·  Guilherme Ryan - 2 **13.00**  ·  Samuel Alves - 2 **17.00**  ·  Georgios Liavas - 2 **21.00**  ·  Tamas Nikitscher - 2 **21.00**  ·  Ulisses Tamble Monteiro - 3 **21.00**  ·  Jalen Blesa - 3 **19.00**  ·  Jose Ze Carlos - 1 **5.00**  ·  Dai Balde - 1 **3.75**  ·  Dai Balde - 2 **21.00**  ·  Malik Sellouki - 1 **2.25**  ·  Miguel Pedro Amaral - 1 **6.00**  ·  Malik Sellouki - 2 **9.00**  ·  Sebastian Clemmensen - 1 **2.25**  ·  Radek Siler - 1 **2.62**  ·  Simon Garcia - 1 **6.50**  ·  Sebastian Clemmensen - 2 **9.00**  ·  Radek Siler - 2 **11.00**
 - **Away Player Shots On Target Total:** Ruben Furtado **29.00**  ·  Teixeira Gustavo Mancha **17.00**  ·  Diogo Nascimento **81.00**  ·  Samuel Alves **34.00**  ·  Denis Huseinbasic **29.00**  ·  Adrian Barisic **17.00**  ·  Mario Dorgeles **34.00**  ·  Simon Garcia **23.00**  ·  Tamas Nikitscher **51.00**  ·  Jalen Blesa **21.00**  ·  Yanis da Rocha **17.00**  ·  Julien Lomboto **26.00**  ·  Joao Aragao **34.00**  ·  Ulisses Tamble Monteiro **23.00**  ·  Diego Rodrigues **34.00**  ·  Nelson Abbey **26.00**  ·  Georgios Liavas **51.00**  ·  Gustaf Lagerbielke **13.00**  ·  Pau Victor **10.00**  ·  Jakub Brabec **19.00**  ·  Gabriel Martinez **51.00**  ·  Tomas Marques **41.00**  ·  Dario Spikic **51.00**  ·  Adrian Bajrami **21.00**  ·  Diogo Bezerra **51.00**  ·  Luz Ricardo Horta **26.00**  ·  Fran Navarro **5.00**  ·  Felipe Joao Moutinho **51.00**  ·  Jean-Baptiste Gorby **51.00**  ·  Vitor Carvalho **21.00**  ·  Bright Arrey-Mbi **29.00**  ·  Victor Gomez **67.00**  ·  Teixeira Luisinho **15.00**  ·  Diogo Travassos **51.00**  ·  Jose Ze Carlos **67.00**  ·  Brandon Aguilera **67.00**  ·  Tobias Medina **51.00**  ·  Marios Vrousai **26.00**  ·  Demir Tiknaz **19.00**  ·  Joao Tome **126.00**  ·  Francisco Petrasso **34.00**  ·  Jovan Milosevic **6.00**  ·  Roland Galcik **51.00**  ·  Flinto Costa **23.00**  ·  Diogo Lobo **51.00**  ·  Andreas Ntoi **34.00**  ·  Jonas Wind **9.00**  ·  Radek Siler **13.00**  ·  Rafael Lobato **51.00**  ·  Gabriel Silva Vieira **23.00**
 - **Home Player Shots:** Ulisses Tamble Monteiro - 1 **1.20**  ·  Jalen Blesa - 1 **1.14**  ·  Diogo Bezerra - 1 **1.28**  ·  Rafael Lobato - 1 **1.25**  ·  Tobias Medina - 1 **1.25**  ·  Marios Vrousai - 1 **1.30**  ·  Miguel Patricio - 1 **1.25**  ·  Diogo Nascimento - 1 **1.40**  ·  Dario Spikic - 1 **1.40**  ·  Roland Galcik - 1 **1.40**  ·  Antoine Wenck - 1 **1.44**  ·  Guilherme Ryan - 1 **1.44**  ·  Samuel Alves - 1 **1.57**  ·  Francisco Petrasso - 1 **2.10**  ·  Georgios Liavas - 1 **1.83**  ·  Tamas Nikitscher - 1 **1.83**  ·  Andreas Ntoi - 1 **3.25**  ·  Jakub Brabec - 1 **2.25**  ·  Teixeira Gustavo Mancha - 1 **2.25**  ·  Caike Valenca - 1 **2.75**  ·  Joao Tome - 1 **2.38**  ·  Julien Lomboto - 1 **2.75**  ·  Nelson Abbey - 1 **2.75**  ·  Ulisses Tamble Monteiro - 2 **1.83**  ·  Jalen Blesa - 2 **1.62**  ·  Diogo Bezerra - 2 **2.20**  ·  Rafael Lobato - 2 **2.10**  ·  Tobias Medina - 2 **2.10**  ·  Marios Vrousai - 2 **2.38**  ·  Miguel Patricio - 2 **2.10**  ·  Diogo Nascimento - 2 **2.75**  ·  Dario Spikic - 2 **2.62**  ·  Roland Galcik - 2 **2.62**  ·  Antoine Wenck - 2 **3.00**  ·  Guilherme Ryan - 2 **3.00**  ·  Samuel Alves - 2 **3.50**  ·  Francisco Petrasso - 2 **6.50**  ·  Georgios Liavas - 2 **5.00**  ·  Tamas Nikitscher - 2 **5.00**  ·  Andreas Ntoi - 2 **13.00**  ·  Jakub Brabec - 2 **8.00**  ·  Teixeira Gustavo Mancha - 2 **8.00**  ·  Caike Valenca - 2 **10.00**  ·  Joao Tome - 2 **8.00**  ·  Julien Lomboto - 2 **10.00**  ·  Nelson Abbey - 2 **10.00**  ·  Ulisses Tamble Monteiro - 3 **3.50**  ·  Jalen Blesa - 3 **2.75**  ·  Diogo Bezerra - 3 **4.50**  ·  Rafael Lobato - 3 **4.33**  ·  Tobias Medina - 3 **4.33**  ·  Marios Vrousai - 3 **5.00**  ·  Miguel Patricio - 3 **4.33**  ·  Diogo Nascimento - 3 **6.50**  ·  Dario Spikic - 3 **6.00**  ·  Roland Galcik - 3 **6.00**  ·  Antoine Wenck - 3 **7.00**  ·  Guilherme Ryan - 3 **7.00**  ·  Samuel Alves - 3 **10.00**  ·  Francisco Petrasso - 3 **21.00**  ·  Georgios Liavas - 3 **15.00**  ·  Tamas Nikitscher - 3 **15.00**  ·  Jakub Brabec - 3 **21.00**  ·  Teixeira Gustavo Mancha - 3 **21.00**  ·  Joao Tome - 3 **21.00**  ·  Ulisses Tamble Monteiro - 4 **8.00**  ·  Jalen Blesa - 4 **5.50**  ·  Diogo Bezerra - 4 **11.00**  ·  Rafael Lobato - 4 **10.00**  ·  Tobias Medina - 4 **10.00**  ·  Marios Vrousai - 4 **13.00**  ·  Miguel Patricio - 4 **10.00**  ·  Diogo Nascimento - 4 **17.00**  ·  Dario Spikic - 4 **15.00**  ·  Roland Galcik - 4 **15.00**  ·  Antoine Wenck - 4 **19.00**  ·  Guilherme Ryan - 4 **19.00**  ·  Ulisses Tamble Monteiro - 5 **17.00**  ·  Jalen Blesa - 5 **13.00**  ·  Jose Ze Carlos - 1 **2.20**  ·  Jose Ze Carlos - 2 **7.00**  ·  Jose Ze Carlos - 3 **21.00**  ·  Diogo Bezerra - 5 **21.00**  ·  Dai Balde - 1 **1.83**  ·  Dai Balde - 2 **5.00**  ·  Dai Balde - 3 **15.00**  ·  Miguel Patricio - 5 **21.00**  ·  Rafael Lobato - 5 **21.00**  ·  Tobias Medina - 5 **21.00**  ·  Jalen Blesa - 6 **21.00**  ·  Samuel Alves - 4 **21.00**  ·  Marios Vrousai - 5 **21.00**  ·  Malik Sellouki - 1 **1.25**  ·  Miguel Pedro Amaral - 1 **2.25**  ·  Malik Sellouki - 2 **2.10**  ·  Miguel Pedro Amaral - 2 **8.00**  ·  Malik Sellouki - 3 **4.33**  ·  Miguel Pedro Amaral - 3 **21.00**  ·  Malik Sellouki - 4 **10.00**  ·  Malik Sellouki - 5 **21.00**  ·  Sebastian Clemmensen - 1 **1.25**  ·  Radek Siler - 1 **1.36**  ·  Simon Garcia - 1 **2.62**  ·  Sebastian Clemmensen - 2 **2.10**  ·  Radek Siler - 2 **2.62**  ·  Simon Garcia - 2 **10.00**  ·  Sebastian Clemmensen - 3 **4.33**  ·  Radek Siler - 3 **6.00**  ·  Sebastian Clemmensen - 4 **10.00**  ·  Radek Siler - 4 **15.00**  ·  Sebastian Clemmensen - 5 **21.00**
@@ -194,20 +194,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 65% | 61% | 63% | 1.53 | -4% |
-| 1X2: X | 24% | 23% | 23% | 4.10 | -4% |
-| 1X2: 1 | 11% | 16% | 14% | 6.00 | -19% |
+| 1X2: 2 | 65% | 61% | 63% | 1.55 | -3% |
+| 1X2: X | 24% | 23% | 24% | 4.10 | -3% |
+| 1X2: 1 | 11% | 16% | 14% | 6.00 | -18% |
 | Doble oportunidad: X2 | 89% | 84% | 86% | 1.12 | -3% |
 | Doble oportunidad: 12 | 76% | 77% | 76% | 1.22 | -7% |
 | Doble oportunidad: 1X | 35% | 39% | 37% | 2.38 | -11% |
 | Ambos marcan: No | 68% | 50% | 59% | 1.91 | +13% |
 | Ambos marcan: Sí | 32% | 50% | 41% | 1.91 | -22% |
 | Goles más/menos: Más de 1.5 | 63% | 75% | 69% | 1.25 | -14% |
-| Goles más/menos: Más de 2.5 | 36% | 53% | 44% | 1.80 | -21% |
+| Goles más/menos: Más de 2.5 | 36% | 53% | 44% | 1.80 | -20% |
 | Goles más/menos: Más de 3.5 | 17% | 31% | 24% | 3.00 | -28% |
 | Goles más/menos: Menos de 1.5 | 37% | 25% | 31% | 3.75 | +17% |
 | Goles más/menos: Menos de 2.5 | 64% | 47% | 56% | 2.00 | +12% |
-| Goles más/menos: Menos de 3.5 | 83% | 69% | 76% | 1.36 | +4% |
+| Goles más/menos: Menos de 3.5 | 83% | 69% | 76% | 1.36 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 71% | 66% | 1.33 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 24% | 35% | 30% | 2.62 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 29% | 34% | 3.25 | +12% |
@@ -216,7 +216,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 9% | 22% | 16% | 4.33 | -33% |
 | Goles del local: Menos de 0.5 | 60% | 42% | 51% | 2.20 | +13% |
 | Goles del local: Menos de 1.5 | 91% | 78% | 84% | 1.20 | +1% |
-| Goles del visitante: Más de 1.5 | 48% | 58% | 53% | 1.62 | -15% |
+| Goles del visitante: Más de 1.5 | 48% | 58% | 53% | 1.62 | -14% |
 | Goles del visitante: Más de 2.5 | 22% | 31% | 27% | 3.00 | -20% |
 | Goles del visitante: Menos de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
 | Goles del visitante: Menos de 2.5 | 78% | 69% | 73% | 1.36 | -0% |

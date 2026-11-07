@@ -1,20 +1,20 @@
 # Le Havre – Lorient
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 02:03_
+_Actualizadas: 07/11 17:45_
 
 - **1X2:** 1 **2.88**  ·  X **3.30**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **9.50**
-    - 1,5: más **1.30** · menos **3.50**
+    - 1,5: más **1.33** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.50** · menos **1.30**
-    - 4,5: más **6.50** · menos **1.11**
+    - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
@@ -33,13 +33,18 @@ _Actualizadas: 07/11 02:03_
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.10**  ·  2 **3.10**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **1.83**  ·  2 **1.80**
 - **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **3.75**
 - **Win Both Halves:** 1 **10.00**  ·  2 **9.00**
 - **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.50**  ·  Away/No **4.33**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
@@ -63,7 +68,7 @@ _Actualizadas: 07/11 02:03_
 - **Away Player Shots:** Mohamed Bamba - 5 **4.50**  ·  Mohamed Bamba - 1 **1.04**  ·  Tosin Aiyegun - 1 **1.08**  ·  Jean-Victor Makengo - 1 **1.14**  ·  Mamadou Kone - 1 **1.04**  ·  Gabin Bernardeau - 1 **1.14**  ·  Souleymane Faye - 1 **1.08**  ·  Panos Katseris - 1 **1.22**  ·  Theo Le Bris - 1 **1.73**  ·  Noah Cadiou - 1 **1.40**  ·  Daniel Semedo - 1 **1.73**  ·  Arthur Avom - 1 **1.57**  ·  Arsene Kouassi - 1 **2.50**  ·  Noah Mbamba - 1 **1.57**  ·  Enzo Genton - 1 **3.25**  ·  Souleymane Toure - 1 **1.80**  ·  Alec Georgen - 1 **3.25**  ·  Dembo Sylla - 1 **2.50**  ·  Montassar Talbi - 1 **1.83**  ·  Nathaniel Adjei - 1 **3.25**  ·  Mohamed Bamba - 2 **1.25**  ·  Tosin Aiyegun - 2 **1.44**  ·  Jean-Victor Makengo - 2 **1.62**  ·  Mamadou Kone - 2 **1.22**  ·  Gabin Bernardeau - 2 **1.67**  ·  Souleymane Faye - 2 **1.40**  ·  Panos Katseris - 2 **2.00**  ·  Theo Le Bris - 2 **4.00**  ·  Noah Cadiou - 2 **2.62**  ·  Daniel Semedo - 2 **4.00**  ·  Arthur Avom - 2 **3.50**  ·  Arsene Kouassi - 2 **9.00**  ·  Noah Mbamba - 2 **3.50**  ·  Enzo Genton - 2 **13.00**  ·  Souleymane Toure - 2 **4.50**  ·  Alec Georgen - 2 **13.00**  ·  Dembo Sylla - 2 **9.00**  ·  Montassar Talbi - 2 **5.00**  ·  Nathaniel Adjei - 2 **13.00**  ·  Mohamed Bamba - 3 **1.73**  ·  Tosin Aiyegun - 3 **2.25**  ·  Jean-Victor Makengo - 3 **2.75**  ·  Mamadou Kone - 3 **1.62**  ·  Gabin Bernardeau - 3 **3.00**  ·  Souleymane Faye - 3 **2.10**  ·  Panos Katseris - 3 **4.00**  ·  Theo Le Bris - 3 **11.00**  ·  Noah Cadiou - 3 **6.50**  ·  Daniel Semedo - 3 **11.00**  ·  Arthur Avom - 3 **10.00**  ·  Arsene Kouassi - 3 **21.00**  ·  Noah Mbamba - 3 **10.00**  ·  Souleymane Toure - 3 **13.00**  ·  Dembo Sylla - 3 **21.00**  ·  Montassar Talbi - 3 **15.00**  ·  Mohamed Bamba - 4 **2.62**  ·  Tosin Aiyegun - 4 **4.00**  ·  Jean-Victor Makengo - 4 **5.50**  ·  Mamadou Kone - 4 **2.50**  ·  Gabin Bernardeau - 4 **6.00**  ·  Souleymane Faye - 4 **3.75**  ·  Panos Katseris - 4 **10.00**  ·  Noah Cadiou - 4 **17.00**  ·  Arthur Avom - 4 **21.00**  ·  Noah Mbamba - 4 **21.00**  ·  Tosin Aiyegun - 5 **9.00**  ·  Jean-Victor Makengo - 5 **13.00**  ·  Mamadou Kone - 5 **4.33**  ·  Gabin Bernardeau - 5 **13.00**  ·  Souleymane Faye - 5 **7.00**  ·  Panos Katseris - 5 **21.00**  ·  Mohamed Bamba - 6 **9.00**  ·  Tosin Aiyegun - 6 **17.00**  ·  Jean-Victor Makengo - 6 **21.00**  ·  Mamadou Kone - 6 **8.00**  ·  Gabin Bernardeau - 6 **21.00**  ·  Souleymane Faye - 6 **15.00**  ·  Mohamed Bamba - 7 **19.00**  ·  Isak Jensen - 1 **1.11**  ·  Isak Jensen - 2 **1.53**  ·  Isak Jensen - 3 **2.62**  ·  Isak Jensen - 4 **5.00**  ·  Isak Jensen - 5 **11.00**  ·  Isak Jensen - 6 **21.00**  ·  Srdjan Kuzmic - 1 **1.73**  ·  Srdjan Kuzmic - 2 **4.00**  ·  Srdjan Kuzmic - 3 **11.00**  ·  Nosa Obaretin - 1 **1.83**  ·  Nosa Obaretin - 2 **5.00**  ·  Nosa Obaretin - 3 **15.00**  ·  Mamadou Kone - 7 **15.00**  ·  Ibrahima Balde - 1 **1.06**  ·  Ibrahima Balde - 2 **1.30**  ·  Ibrahima Balde - 3 **1.83**  ·  Ibrahima Balde - 4 **3.25**  ·  Ibrahima Balde - 5 **6.00**  ·  Ibrahima Balde - 6 **11.00**  ·  Ibrahima Balde - 7 **21.00**
 - **Goalkeeper Saves:** Gauthier Gallon - 3 **1.73**  ·  Gauthier Gallon - 4 **3.00**  ·  Gauthier Gallon - 5 **5.50**  ·  Gauthier Gallon - 6 **11.00**  ·  Gauthier Gallon - 2 **1.25**  ·  Landry Mvogo - 2 **1.18**  ·  Landry Mvogo - 3 **1.57**  ·  Landry Mvogo - 4 **2.50**  ·  Landry Mvogo - 5 **4.33**  ·  Landry Mvogo - 6 **9.00**
 - **Anytime Goal Scorer:** Rayan Fofana **3.50**  ·  Stephan Zagadou **13.00**  ·  Isak Jensen **3.50**  ·  Srdjan Kuzmic **10.00**  ·  Ahmed Touba **13.00**  ·  Noah Cadiou **6.00**  ·  Ayumu Seko **11.00**  ·  Nathaniel Adjei **11.00**  ·  Arthur Avom **6.50**  ·  Panos Katseris **5.00**  ·  Tosin Aiyegun **3.40**  ·  Jean-Victor Makengo **5.00**  ·  Simon Ebonog **8.00**  ·  Guy Zohouri **6.50**  ·  Souleymane Faye **3.75**  ·  Enzo Koffi **7.50**  ·  Josh Maja **3.20**  ·  Andy Logbo **3.50**  ·  Ismail Bouneb **4.75**  ·  Daren Mosengo **10.00**  ·  Rassoul Ndiaye **5.00**  ·  Timothee Pembele **11.00**  ·  Junior Mwanga **10.00**  ·  Dembo Sylla **11.00**  ·  Ally Samatta **3.40**  ·  Noah Mbamba **8.00**  ·  Nosa Obaretin **9.00**  ·  Elias Jelert **9.00**  ·  Arsene Kouassi **8.00**  ·  Daniel Semedo **6.50**  ·  Ibrahima Balde **3.00**  ·  Enzo Genton **9.00**  ·  Djibril Ouziad **10.00**  ·  Hakim Dongopandji **5.00**  ·  Mohamed Lamine N'Diaye **10.00**  ·  Mohamed Bamba **3.20**  ·  Amir Richardson **6.50**  ·  Montassar Talbi **11.00**  ·  Souleymane Toure **9.00**  ·  Kaito Mizuta **5.00**  ·  Vincent Sasso **8.00**  ·  Alec Georgen **10.00**  ·  Gabin Bernardeau **5.00**  ·  Mamadou Kone **3.20**  ·  Sota Nakamura **3.75**  ·  Theo Le Bris **5.00**
-- **Player to Score or Assist:** Rayan Fofana **2.62**  ·  Stephan Zagadou **8.00**  ·  Isak Jensen **2.40**  ·  Srdjan Kuzmic **6.50**  ·  Ahmed Touba **8.00**  ·  Noah Cadiou **3.75**  ·  Ayumu Seko **7.00**  ·  Nathaniel Adjei **7.00**  ·  Arthur Avom **4.33**  ·  Panos Katseris **3.10**  ·  Tosin Aiyegun **2.30**  ·  Jean-Victor Makengo **3.10**  ·  Simon Ebonog **5.00**  ·  Guy Zohouri **3.75**  ·  Souleymane Faye **2.60**  ·  Enzo Koffi **3.60**  ·  Josh Maja **2.60**  ·  Andy Logbo **2.75**  ·  Ismail Bouneb **3.75**  ·  Daren Mosengo **5.50**  ·  Rassoul Ndiaye **3.60**  ·  Timothee Pembele **5.50**  ·  Junior Mwanga **5.50**  ·  Dembo Sylla **6.00**  ·  Ally Samatta **2.60**  ·  Noah Mbamba **4.75**  ·  Nosa Obaretin **7.00**  ·  Elias Jelert **4.33**  ·  Arsene Kouassi **3.40**  ·  Daniel Semedo **3.50**  ·  Ibrahima Balde **2.40**  ·  Enzo Genton **6.00**  ·  Djibril Ouziad **4.50**  ·  Hakim Dongopandji **2.88**  ·  Mohamed Lamine N'Diaye **6.50**  ·  Mohamed Bamba **2.40**  ·  Amir Richardson **4.50**  ·  Montassar Talbi **7.00**  ·  Souleymane Toure **5.50**  ·  Kaito Mizuta **3.00**  ·  Vincent Sasso **5.50**  ·  Alec Georgen **5.50**  ·  Gabin Bernardeau **3.10**  ·  Mamadou Kone **2.38**  ·  Sota Nakamura **2.60**  ·  Theo Le Bris **3.25**
+- **Player to Score or Assist:** Rayan Fofana **2.75**  ·  Stephan Zagadou **8.00**  ·  Isak Jensen **2.40**  ·  Srdjan Kuzmic **6.50**  ·  Ahmed Touba **8.00**  ·  Noah Cadiou **3.75**  ·  Ayumu Seko **7.00**  ·  Nathaniel Adjei **7.00**  ·  Arthur Avom **4.33**  ·  Panos Katseris **3.10**  ·  Tosin Aiyegun **2.30**  ·  Jean-Victor Makengo **3.10**  ·  Simon Ebonog **5.00**  ·  Guy Zohouri **3.75**  ·  Souleymane Faye **2.62**  ·  Enzo Koffi **3.60**  ·  Josh Maja **2.60**  ·  Andy Logbo **2.75**  ·  Ismail Bouneb **3.75**  ·  Daren Mosengo **5.50**  ·  Rassoul Ndiaye **3.60**  ·  Timothee Pembele **5.50**  ·  Junior Mwanga **5.50**  ·  Dembo Sylla **6.00**  ·  Ally Samatta **2.60**  ·  Noah Mbamba **4.75**  ·  Nosa Obaretin **7.00**  ·  Elias Jelert **4.33**  ·  Arsene Kouassi **3.40**  ·  Daniel Semedo **3.50**  ·  Ibrahima Balde **2.40**  ·  Enzo Genton **6.00**  ·  Djibril Ouziad **4.50**  ·  Hakim Dongopandji **2.88**  ·  Mohamed Lamine N'Diaye **6.50**  ·  Mohamed Bamba **2.40**  ·  Amir Richardson **4.50**  ·  Montassar Talbi **7.00**  ·  Souleymane Toure **5.50**  ·  Kaito Mizuta **3.00**  ·  Vincent Sasso **5.50**  ·  Alec Georgen **5.50**  ·  Gabin Bernardeau **3.10**  ·  Mamadou Kone **2.38**  ·  Sota Nakamura **2.62**  ·  Theo Le Bris **3.25**
 
 ## Estadísticas de equipo
 | | Le Havre (total) | Le Havre en casa | Lorient (total) | Lorient fuera |
@@ -204,16 +209,16 @@ _Goles esperados: local 1,09 · visitante 1,13 · córners esperados 9,6._
 |---|---|---|---|---|---|
 | 1X2: 2 | 37% | 38% | 37% | 2.50 | -7% |
 | 1X2: X | 29% | 29% | 29% | 3.30 | -5% |
-| 1X2: 1 | 35% | 33% | 34% | 2.88 | -3% |
-| Doble oportunidad: X2 | 65% | 67% | 66% | 1.40 | -7% |
+| 1X2: 1 | 34% | 33% | 34% | 2.88 | -3% |
+| Doble oportunidad: X2 | 66% | 67% | 66% | 1.40 | -7% |
 | Doble oportunidad: 12 | 71% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 63% | 63% | 63% | 1.50 | -5% |
+| Doble oportunidad: 1X | 63% | 63% | 63% | 1.50 | -6% |
 | Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
-| Goles más/menos: Más de 1.5 | 65% | 73% | 69% | 1.30 | -10% |
+| Goles más/menos: Más de 1.5 | 65% | 72% | 68% | 1.33 | -9% |
 | Goles más/menos: Más de 2.5 | 38% | 47% | 43% | 2.00 | -14% |
 | Goles más/menos: Más de 3.5 | 18% | 27% | 23% | 3.50 | -20% |
-| Goles más/menos: Menos de 1.5 ✅ | 35% | 27% | 31% | 3.50 | +9% |
+| Goles más/menos: Menos de 1.5 ✅ | 35% | 28% | 32% | 3.40 | +7% |
 | Goles más/menos: Menos de 2.5 | 62% | 53% | 57% | 1.80 | +3% |
 | Goles más/menos: Menos de 3.5 | 82% | 73% | 77% | 1.30 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |

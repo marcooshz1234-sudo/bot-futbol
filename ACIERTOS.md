@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 451 · aciertos: 280 (62%) · beneficio a 1 € por pick: -56.53 €
+Picks ya jugados: 470 · aciertos: 289 (61%) · beneficio a 1 € por pick: -63.64 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 87 | 136 | 64% | -17.22 € |
-| resultado | 49 | 77 | 64% | -5.49 € |
-| goles | 128 | 202 | 63% | -24.26 € |
+| jugador | 94 | 148 | 64% | -20.05 € |
+| goles | 129 | 204 | 63% | -24.98 € |
+| resultado | 50 | 81 | 62% | -8.05 € |
 | tarjetas | 8 | 13 | 62% | -0.33 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 2 | 10 | 20% | -6.76 € |
+| corners | 2 | 11 | 18% | -7.76 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
@@ -20,31 +20,53 @@ Picks ya jugados: 451 · aciertos: 280 (62%) · beneficio a 1 € por pick: -56.
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
 | To Win Either Half · Home | 5 | 5 | 100% |
+| Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Match Winner · Away | 6 | 7 | 86% |
-| Goals Over/Under · Over 1.5 | 21 | 27 | 78% |
+| Goals Over/Under · Over 1.5 | 22 | 29 | 76% |
 | Match Winner · Home | 6 | 8 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
+| Double Chance · Home/Draw | 5 | 7 | 71% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 30 | 44 | 68% |
-| Double Chance · Home/Draw | 4 | 6 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
 | Home Team Total Cards · Over 1.5 | 5 | 8 | 62% |
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Away · Over 0.5 | 27 | 46 | 59% |
-| To Win Either Half · Away | 4 | 7 | 57% |
+| To Win Either Half · Away | 4 | 8 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
-| Double Chance · Draw/Away | 7 | 20 | 35% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
+| Double Chance · Draw/Away | 7 | 22 | 32% |
 
 ## Últimos días
+
+### 2026-11-07 · 9/19
+- ✅ Leeds o empate · 1.44 (1-0)
+- ❌ Tottenham o empate · 1.50 (1-0)
+- ❌ Más de 1,5 goles en Leeds–Tottenham · 1.30 (1-0)
+- ❌ Stoke City hace más de 4,5 córners · 1.73 (1-2)
+- ✅ Jayden Bogle comete 1+ faltas · 1.28 (1-0)
+- ❌ Dominic Calvert-Lewin comete 1+ faltas · 1.25 (1-0)
+- ✅ Omar Marmoush comete 1+ faltas · 1.28 (1-0)
+- ❌ Ao Tanaka comete 1+ faltas · 1.30 (1-0)
+- ❌ Jan Paul van Hecke comete 1+ faltas · 1.40 (1-0)
+- ❌ Kieffer Moore: 1+ tiros a puerta · 1.50 (1-1)
+- ✅ Fernando Lopez comete 1+ faltas · 1.25 (1-1)
+- ✅ Rafiki Said: 2+ tiros · 1.28 (1-1)
+- ✅ Más de 1,5 goles en Torino–Lecce · 1.28 (1-1)
+- ❌ Frosinone gana alguna de las dos partes · 1.73 (1-0)
+- ❌ Frosinone o empate · 1.44 (1-0)
+- ✅ Santiago Castaneda: 1+ tiros · 1.28 (2-2)
+- ❌ Tom Bischof comete 1+ faltas · 1.33 (1-2)
+- ✅ Dayot Upamecano comete 1+ faltas · 1.50 (1-2)
+- ✅ Fabian Rieder comete 1+ faltas · 1.30 (5-2)
 
 ### 2026-11-06 · 6/12
 - ❌ Florian Neuhaus comete 1+ faltas · 1.33 (3-1)
@@ -226,126 +248,4 @@ Picks ya jugados: 451 · aciertos: 280 (62%) · beneficio a 1 € por pick: -56.
 - ❌ Robert Navarro: 1+ tiros a puerta · 1.44 (2-1)
 - ❌ Mamadou Sarr comete 1+ faltas · 1.40 (2-1)
 - ✅ Enric Gallego: 1+ tiros a puerta · 1.30 (2-2)
-
-### 2026-10-31 · 72/120
-- ❌ Manchester United marca · 1.36 (2-0)
-- ✅ Stoke City gana alguna de las dos partes · 1.44 (2-0)
-- ✅ Gol en la 1ª parte del Norwich–Watford · 1.25 (3-2)
-- ❌ Watford hace más de 2,5 córners · 1.62 (3-2)
-- ✅ Gana el Stoke City · 1.73 (2-0)
-- ✅ Birmingham o empate · 1.36 (1-3)
-- ✅ Gol en la 1ª parte del Lincoln–Birmingham · 1.40 (1-3)
-- ✅ Manchester United hace más de 3,5 córners · 1.62 (2-0)
-- ❌ Pedro Neto comete 1+ faltas · 1.50 (2-0)
-- ✅ Pedro Neto: 1+ tiros a puerta · 1.73 (2-0)
-- ❌ Luke Graham comete 1+ faltas · 1.44 (2-0)
-- ❌ Ben Wilmot comete 1+ faltas · 1.50 (2-0)
-- ❌ Watford ve más de 1,5 tarjetas · 1.53 (3-2)
-- ❌ Girona o empate · 1.28 (1-0)
-- ❌ Girona gana alguna de las dos partes · 1.53 (1-0)
-- ❌ Gol en la 1ª parte del Real Sociedad II–Girona · 1.28 (1-0)
-- ❌ Gana el Girona · 2.00 (1-0)
-- ❌ Atletico Madrid hace más tiros · 1.40 (0-2)
-- ✅ Gustavo Varela: 2+ tiros · 1.40 (2-1)
-- ✅ Monza marca · 1.53 (2-1)
-- ✅ Federico Bernardeschi: 1+ tiros a puerta · 1.30 (2-1)
-- ✅ Gol en la 1ª parte del FC Augsburg–SC Freiburg · 1.25 (1-2)
-- ✅ Más de 2,5 goles en FC Augsburg–SC Freiburg · 1.50 (1-2)
-- ✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–1899 Hoffenheim · 1.57 (2-0)
-- ❌ Más de 2,5 goles en Werder Bremen–1899 Hoffenheim · 1.40 (2-0)
-- ❌ Ambos marcan en Werder Bremen–1899 Hoffenheim · 1.36 (2-0)
-- ✅ SC Freiburg gana alguna de las dos partes · 1.57 (1-2)
-- ❌ Ambos marcan y más de 2,5 goles en Werder Bremen–1899 Hoffenheim · 1.62 (2-0)
-- ✅ Ambos marcan y más de 2,5 goles en FC Augsburg–SC Freiburg · 1.67 (1-2)
-- ✅ Ambos marcan en FC Augsburg–SC Freiburg · 1.44 (1-2)
-- ✅ SC Freiburg o empate · 1.40 (1-2)
-- ❌ 1899 Hoffenheim marca 2 o más · 1.67 (2-0)
-- ❌ 1899 Hoffenheim hace más de 4,5 córners · 1.73 (2-0)
-- ✅ Niclas Fullkrug: 1+ tiros a puerta · 1.25 (2-0)
-- ✅ Santiago Castaneda: 1+ tiros · 1.40 (0-0)
-- ❌ Gana el Bayer Leverkusen · 1.75 (2-4)
-- ❌ Borussia Mönchengladbach hace más de 4,5 córners · 1.67 (0-0)
-- ❌ Maximilian Eggestein: 1+ tiros · 1.25 (1-2)
-- ❌ Gol en la 1ª parte del Borussia Mönchengladbach–SC Paderborn 07 · 1.25 (0-0)
-- ❌ Koki Machida comete 1+ faltas · 1.30 (2-0)
-- ✅ Ibrahim Maza comete 1+ faltas · 1.30 (2-4)
-- ✅ Satoshi Tanaka comete 1+ faltas · 1.44 (0-2)
-- ✅ Fisnik Asllani comete 1+ faltas · 1.36 (2-0)
-- ✅ No hay empate en Coventry–Sunderland · 1.33 (3-1)
-- ✅ Brentford o empate · 1.33 (2-0)
-- ✅ Hull City marca · 1.25 (2-2)
-- ✅ Más de 1,5 goles en Bournemouth–Leeds · 1.28 (2-0)
-- ❌ Leeds marca · 1.33 (2-0)
-- ✅ Bournemouth o empate · 1.30 (2-0)
-- ❌ Cardiff marca · 1.36 (3-0)
-- ✅ Gol en la 1ª parte del Swansea–Blackburn · 1.36 (4-0)
-- ✅ Keven Schlotterbeck: 1+ tiros · 1.44 (4-1)
-- ❌ Más de 1,5 goles en Burnley–Portsmouth · 1.28 (0-0)
-- ✅ Josh Sheehan: 1+ tiros · 1.25 (2-3)
-- ❌ Portsmouth marca · 1.40 (0-0)
-- ✅ Gol en la 1ª parte del Southampton–QPR · 1.28 (4-1)
-- ❌ Gol en la 1ª parte del Burnley–Portsmouth · 1.36 (0-0)
-- ✅ Portsmouth o empate · 1.57 (0-0)
-- ✅ Gol en la 1ª parte del Millwall–Derby · 1.36 (4-1)
-- ✅ Jarrod Bowen: 1+ tiros a puerta · 1.25 (1-3)
-- ❌ Mohamed Belloumi: 2+ tiros · 1.30 (2-2)
-- ✅ Dominic Calvert-Lewin comete 1+ faltas · 1.28 (2-0)
-- ✅ Jayden Bogle comete 1+ faltas · 1.25 (2-0)
-- ❌ Adrien Truffert comete 1+ faltas · 1.25 (2-0)
-- ✅ Evanilson comete 1+ faltas · 1.30 (2-0)
-- ✅ Adam Smith comete 1+ faltas · 1.30 (2-0)
-- ✅ James Hill comete 1+ faltas · 1.28 (2-0)
-- ❌ Antonio Silva comete 1+ faltas · 1.28 (2-0)
-- ✅ Oliver McBurnie comete 1+ faltas · 1.25 (2-2)
-- ✅ Daniel Munoz comete 1+ faltas · 1.28 (2-0)
-- ✅ Elliot Anderson comete 1+ faltas · 1.30 (0-1)
-- ✅ Ao Tanaka comete 1+ faltas · 1.28 (2-0)
-- ✅ Bournemouth ve más de 1,5 tarjetas · 1.53 (2-0)
-- ✅ Mohamed Belloumi comete 1+ faltas · 1.36 (2-2)
-- ✅ Vitaly Janelt comete 1+ faltas · 1.36 (2-0)
-- ✅ Más de 1,5 goles en Rayo Vallecano–Celta Vigo · 1.33 (3-0)
-- ✅ Rayo Vallecano marca · 1.25 (3-0)
-- ✅ Gol en la 2ª parte del Rayo Vallecano–Celta Vigo · 1.25 (3-0)
-- ❌ Celta Vigo o empate · 1.53 (3-0)
-- ✅ Fortuna Sittard marca · 1.73 (1-1)
-- ✅ Estrela marca · 1.28 (2-1)
-- ✅ Más de 1,5 goles en Moreirense–Estrela · 1.28 (2-1)
-- ❌ Gol en la 1ª parte del Moreirense–Estrela · 1.40 (2-1)
-- ❌ Rennes o empate · 1.44 (5-2)
-- ✅ Elye Wahi: 1+ tiros a puerta · 1.40 (5-2)
-- ✅ Gana el AS Roma · 1.57 (2-5)
-- ✅ Más de 26,5 tiros en Udinese–AS Roma · 1.73 (2-5)
-- ✅ AS Roma gana alguna de las dos partes · 1.30 (2-5)
-- ❌ Malaga hace más de 3,5 córners · 1.80 (2-1)
-- ❌ Más de 9,5 córners en Bayern München–Borussia Dortmund · 1.73 (2-2)
-- ✅ Dayot Upamecano: 1+ tiros · 1.62 (2-2)
-- ✅ Borussia Dortmund marca · 1.36 (2-2)
-- ✅ Felix Nmecha comete 1+ faltas · 1.25 (2-2)
-- ❌ Anan Khalaili comete 1+ faltas · 1.28 (2-0)
-- ✅ Omar Marmoush comete 1+ faltas · 1.30 (2-0)
-- ❌ Jan Paul van Hecke comete 1+ faltas · 1.44 (2-0)
-- ❌ Michael Olise: 2+ tiros a puerta · 1.57 (2-2)
-- ❌ Abdessamad Ezzalzouli: 1+ tiros a puerta · 1.25 (2-1)
-- ✅ Heerenveen o empate · 1.36 (1-0)
-- ❌ Willem II marca · 1.67 (7-0)
-- ❌ Ambos marcan en PSV Eindhoven–Willem II · 1.70 (7-0)
-- ❌ Lorient marca · 1.28 (0-2)
-- ✅ Más de 1,5 goles en Estac Troyes–Le Mans · 1.25 (2-0)
-- ❌ Le Mans marca · 1.33 (2-0)
-- ✅ Gol en la 1ª parte del Lyon–Angers · 1.25 (2-0)
-- ✅ Gol en la 1ª parte del Estac Troyes–Le Mans · 1.33 (2-0)
-- ❌ Angers marca · 1.62 (2-0)
-- ✅ Noah Cadiou: 1+ tiros · 1.25 (0-2)
-- ✅ Nicolo Barella: 1+ tiros · 1.33 (3-1)
-- ✅ Gol en la 2ª parte del Lorient–Stade Brestois 29 · 1.25 (0-2)
-- ✅ Alaves marca · 1.73 (6-1)
-- ❌ No hay empate en Aston Villa–Fulham · 1.30 (1-1)
-- ❌ GO Ahead Eagles o empate · 1.40 (4-0)
-- ❌ Ambos marcan en Cambuur–GO Ahead Eagles · 1.40 (4-0)
-- ✅ Más de 2,5 goles en Cambuur–GO Ahead Eagles · 1.44 (4-0)
-- ✅ Rafik El Arguioui: 1+ tiros a puerta · 1.50 (4-0)
-- ✅ Fulham marca · 1.36 (1-1)
-- ❌ Sabadell o empate · 1.57 (2-1)
-- ❌ Lucas Boye comete 2+ faltas · 1.36 (6-1)
-- ✅ Barcelona ve más de 0,5 tarjetas · 1.44 (6-1)
 

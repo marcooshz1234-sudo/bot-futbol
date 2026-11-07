@@ -1,21 +1,19 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 07/11/2026 08:02. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 07/11/2026 17:46. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 94 · **acertados:** 31 (33%)
-- **Beneficio:** -13.31 unidades · **rentabilidad (yield):** -14.2%
-- **Cuota media:** 2.84 · **pendientes:** 41
-
-_Con 94 picks el resultado todavía depende mucho de la suerte; a partir de unos 200–300 se puede juzgar si el modelo funciona._
+- **Picks jugados:** 102 · **acertados:** 35 (34%)
+- **Beneficio:** -9.04 unidades · **rentabilidad (yield):** -8.9%
+- **Cuota media:** 2.86 · **pendientes:** 36
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 24 | 9 (38%) | -0.60 | -2.5% |
-| Goles más/menos | 19 | 5 (26%) | -5.53 | -29.1% |
-| Goles del local | 17 | 8 (47%) | +5.10 | +30.0% |
-| Goles del visitante | 15 | 2 (13%) | -9.76 | -65.1% |
+| 1X2 | 26 | 10 (38%) | +0.15 | +0.6% |
+| Goles más/menos | 22 | 6 (27%) | -5.91 | -26.9% |
+| Goles del local | 19 | 9 (47%) | +6.50 | +34.2% |
+| Goles del visitante | 16 | 3 (19%) | -7.26 | -45.4% |
 | Doble oportunidad | 10 | 4 (40%) | -1.25 | -12.5% |
 | 1X2 descanso | 5 | 2 (40%) | +0.63 | +12.6% |
 | Córners más/menos | 2 | 1 (50%) | +0.10 | +5.0% |
@@ -25,6 +23,14 @@ _Con 94 picks el resultado todavía depende mucho de la suerte; a partir de unos
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-07 | RB Leipzig – FC Augsburg | Goles del local: Más de 3.5 | 3.40 | ✅ | +2.40 |
+| 2026-11-07 | RB Leipzig – FC Augsburg | Goles más/menos: Más de 4.5 | 2.62 | ✅ | +1.62 |
+| 2026-11-07 | Borussia Dortmund – SV Elversberg | Goles más/menos: Menos de 2.5 | 3.00 | ❌ | -1.00 |
+| 2026-11-07 | Borussia Dortmund – SV Elversberg | Goles del local: Menos de 1.5 | 3.75 | ❌ | -1.00 |
+| 2026-11-07 | FSV Mainz 05 – Bayern München | Goles más/menos: Más de 4.5 | 2.50 | ❌ | -1.00 |
+| 2026-11-07 | Cagliari – Frosinone | 1X2: 2 | 2.50 | ❌ | -1.00 |
+| 2026-11-07 | Leeds – Tottenham | Goles del visitante: Menos de 0.5 | 3.50 | ✅ | +2.50 |
+| 2026-11-07 | Leeds – Tottenham | 1X2: 1 | 2.75 | ✅ | +1.75 |
 | 2026-11-06 | Toulouse – Strasbourg | 1X2: 1 | 2.25 | ✅ | +1.25 |
 | 2026-11-05 | Bayer Leverkusen – Marseille | Goles del local: Más de 3.5 | 3.25 | ❌ | -1.00 |
 | 2026-11-05 | Bayer Leverkusen – Marseille | Goles más/menos: Más de 4.5 | 3.00 | ❌ | -1.00 |
@@ -57,11 +63,3 @@ _Con 94 picks el resultado todavía depende mucho de la suerte; a partir de unos
 | 2026-10-31 | AC Milan – Inter | 1X2: 1 | 3.70 | ✅ | +2.70 |
 | 2026-10-31 | Tottenham – Crystal Palace | Goles del local: Menos de 1.5 | 2.25 | ❌ | -1.00 |
 | 2026-10-31 | Tottenham – Crystal Palace | Doble oportunidad: X2 | 2.25 | ❌ | -1.00 |
-| 2026-10-31 | Bayern München – Borussia Dortmund | Goles del local: Menos de 1.5 | 4.00 | ❌ | -1.00 |
-| 2026-10-31 | Bayern München – Borussia Dortmund | Goles más/menos: Menos de 2.5 | 3.75 | ❌ | -1.00 |
-| 2026-10-31 | Udinese – AS Roma | Goles del visitante: Más de 2.5 | 2.62 | ✅ | +1.62 |
-| 2026-10-31 | Brentford – Nottingham Forest | 1X2: 1 | 2.15 | ✅ | +1.15 |
-| 2026-10-31 | Bournemouth – Leeds | 1X2 descanso: 1 | 2.75 | ✅ | +1.75 |
-| 2026-10-31 | Bournemouth – Leeds | 1X2: 1 | 2.10 | ✅ | +1.10 |
-| 2026-10-31 | Manchester City – Brighton | Doble oportunidad: X2 | 2.15 | ✅ | +1.15 |
-| 2026-10-31 | Manchester City – Brighton | Goles del local: Menos de 1.5 | 2.62 | ✅ | +1.62 |

@@ -1,34 +1,34 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 02:03_
+_Actualizadas: 07/11 17:45_
 
 - **1X2:** 1 **2.15**  ·  X **3.50**  ·  2 **3.20**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.70**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.33**
     - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.62** · menos **1.50**
+    - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
@@ -36,9 +36,9 @@ _Actualizadas: 07/11 02:03_
     - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.38**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
@@ -56,6 +56,8 @@ _Actualizadas: 07/11 02:03_
     - 1,5: más **1.91** · menos **1.80**
 - **Away Team Total Cards:**
     - 1,5: más **1.50** · menos **2.50**
+- **Total ShotOnGoal:**
+    - 9,5: más **1.83** · menos **1.83**
 - **ShotOnTarget 1x2:** 1 **1.73**  ·  X **7.50**  ·  2 **2.40**
 - **Total Shots:**
     - 28,5: más **1.83** · menos **1.83**
@@ -202,38 +204,40 @@ _Sin bajas comunicadas por ahora._
 | G. Perrin | F | 8 | 213 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 1,40 · córners esperados 9,7._
+_Goles esperados: local 1,56 · visitante 1,40 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 29% | 32% | 3.20 | +1% |
+| 1X2: 2 | 34% | 29% | 32% | 3.20 | +2% |
 | 1X2: X | 24% | 27% | 26% | 3.50 | -10% |
 | 1X2: 1 | 42% | 44% | 43% | 2.15 | -8% |
-| Doble oportunidad: X2 | 58% | 55% | 57% | 1.70 | -3% |
+| Doble oportunidad: X2 | 58% | 57% | 58% | 1.67 | -4% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 66% | 71% | 68% | 1.33 | -9% |
-| Ambos marcan: No | 40% | 41% | 41% | 2.25 | -8% |
-| Ambos marcan: Sí | 60% | 59% | 59% | 1.57 | -7% |
-| Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
+| Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
+| Ambos marcan: No | 41% | 41% | 41% | 2.25 | -8% |
+| Ambos marcan: Sí | 59% | 59% | 59% | 1.57 | -7% |
+| Goles más/menos: Más de 1.5 | 79% | 78% | 79% | 1.22 | -4% |
 | Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
-| Goles más/menos: Más de 3.5 | 34% | 36% | 35% | 2.62 | -7% |
-| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -8% |
+| Goles más/menos: Más de 3.5 | 34% | 34% | 34% | 2.75 | -5% |
+| Goles más/menos: Menos de 1.5 | 21% | 22% | 21% | 4.33 | -8% |
 | Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -7% |
-| Goles más/menos: Menos de 3.5 | 66% | 64% | 65% | 1.50 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
+| Goles más/menos: Menos de 3.5 | 66% | 66% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
+| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles del local: Más de 2.5 | 21% | 23% | 22% | 4.00 | -12% |
+| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles del local: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
-| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles del visitante: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
+| Goles del local: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
+| Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles del visitante: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
+| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
+| Goles del visitante: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
+| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -13% |
+| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | -0% |
 | 1X2 descanso: 2 | 28% | 27% | 27% | 3.50 | -5% |
 | 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -5% |
 | 1X2 descanso: 1 | 32% | 34% | 33% | 2.75 | -9% |
