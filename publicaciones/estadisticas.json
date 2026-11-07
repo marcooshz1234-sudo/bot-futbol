@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 14:32",
+ "actualizado": "2026-11-07 14:43",
  "redes": {
   "instagram": {
    "seguidores": 31,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2072,
-   "hoy": 68,
+   "seguidores": 2073,
+   "hoy": 69,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2072
+    2073
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 297,
-   "hoy": 3,
+   "seguidores": 298,
+   "hoy": 4,
    "serie": [
     207,
     214,
@@ -50,17 +50,17 @@
     245,
     277,
     294,
-    297
+    298
    ]
   }
  },
- "total": 2401,
- "total_hoy": 76,
+ "total": 2403,
+ "total_hoy": 78,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:40",
+  "hora": "15:15",
   "dia": "2026-11-07",
-  "titulo": "Combi Fulham vs Newcastle"
+  "titulo": "Combi Cadiz vs Oviedo"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,9 +162,9 @@
   },
   "2026-11-07": {
    "instagram": 31,
-   "threads": 2072,
+   "threads": 2073,
    "facebook": 1,
-   "telegram": 297
+   "telegram": 298
   }
  },
  "tipos_instagram": {
