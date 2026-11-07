@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 13:20",
+ "actualizado": "2026-11-07 13:31",
  "redes": {
   "instagram": {
    "seguidores": 30,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2059,
-   "hoy": 55,
+   "seguidores": 2060,
+   "hoy": 56,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2059
+    2060
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2386,
- "total_hoy": 61,
+ "total": 2387,
+ "total_hoy": 62,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "13:40",
   "dia": "2026-11-07",
-  "titulo": "Combi del sábado x3,39"
+  "titulo": "Combi Borussia Dortmund vs Sv Elversbe"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,14 +162,14 @@
   },
   "2026-11-07": {
    "instagram": 30,
-   "threads": 2059,
+   "threads": 2060,
    "facebook": 0,
    "telegram": 297
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 41,
+   "posts": 42,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -189,7 +189,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
