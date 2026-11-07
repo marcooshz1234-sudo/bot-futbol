@@ -14,6 +14,7 @@ from datetime import datetime, timedelta
 from bot import EXTRA, MADRID, leer
 
 HORA = (10, 0)
+HORA_NOCHE = (2, 0)   # 07/11 (Marcos): uno de madrugada («a las 2») y otro por la mañana con OTROS partidos, todos los días
 MIN_PROB, N, MIN_N = 0.55, 8, 6
 MIN_PROB_POCOS = 0.40   # 05/11: el viernes 06/11 con 0,45 solo salían 4 y no había post
 TITULOS = {2: "CHAMPIONS LEAGUE", 3: "EUROPA LEAGUE", 848: "CONFERENCE LEAGUE", 140: "LALIGA", 39: "PREMIER LEAGUE",
@@ -25,10 +26,10 @@ CORTO = {"Bayer Leverkusen": "Leverkusen", "AC Milan": "Milan", "NEC Nijmegen": 
          "Atletico Madrid": "Atlético", "Borussia Dortmund": "Dortmund", "Manchester City": "Man City",
          "Manchester United": "Man United", "Inter": "Inter", "Real Betis": "Betis", "AS Roma": "Roma",
          "PSV Eindhoven": "PSV", "SC Freiburg": "Friburgo", "Sporting CP": "Sporting", "RB Leipzig": "Leipzig",
-         "Hamburger SV": "Hamburgo", "Famalicao": "Famalicão", "Atletico Madrid": "Atlético"}
+         "Hamburger SV": "Hamburgo", "Famalicao": "Famalicão", "Cordoba": "Córdoba", "VfB Stuttgart": "Stuttgart", "1899 Hoffenheim": "Hoffenheim", "AZ Alkmaar": "AZ", "Atletico Madrid": "Atlético", "Alaves": "Alavés", "Cadiz": "Cádiz", "Leganes": "Leganés", "Malaga": "Málaga", "Almeria": "Almería", "Atletico Madrid": "Atlético"}
 
 
-def candidatos(dia, minimo=None):
+def candidatos(dia, minimo=None, excluir=()):
     import picks as P
     from plantillas import GRANDES
     salida = []
@@ -47,7 +48,7 @@ def candidatos(dia, minimo=None):
         s = sum(inv.values())
         lado = max(("Home", "Away"), key=lambda k: inv[k])
         prob = inv[lado] / s
-        if prob < (MIN_PROB if minimo is None else minimo):
+        if prob < (MIN_PROB if minimo is None else minimo) or pa["fixture"]["id"] in excluir:
             continue
         eq = pa["teams"]["home" if lado == "Home" else "away"]
         grande = any(g in eq["name"].lower() for g in GRANDES)
@@ -56,10 +57,30 @@ def candidatos(dia, minimo=None):
     return salida
 
 
-def post(dia):
+def posts(dia):
+    """07/11: los dos del día: madrugada (02:00) y mañana (10:00) sin repetir partidos."""
+    import json
+    from bot import DATOS
+    salida = []
+    p1 = post(dia, hora=HORA_NOCHE)
+    try:   # si el de madrugada ya está en la cola (subido a mano), cuentan sus partidos
+        cola = json.loads((DATOS.parent / "publicaciones" / "cola.json").read_text())
+        p1 = next((x for x in cola if x.get("id") == f"{dia}-ganadores-win"), None) or p1
+    except Exception:
+        pass
+    if p1:
+        salida.append(p1)
+    usados = {int(x.split("|")[0]) for x in (p1 or {}).get("sel", [])}
+    p2 = post(dia, hora=HORA, excluir=usados, sufijo="-2")
+    if p2:
+        salida.append(p2)
+    return salida
+
+
+def post(dia, hora=HORA, excluir=(), sufijo=""):
     """Dict de post para la cola (o None)."""
     import semana
-    c = candidatos(dia)
+    c = candidatos(dia, excluir=excluir)
     por_liga = {}
     for x in c:
         por_liga.setdefault(x["liga"], []).append(x)
@@ -70,7 +91,7 @@ def post(dia):
     else:
         liga, sel, titulo = None, c, "PARTIDOS DE HOY"
         if len(sel) < MIN_N:   # 05/11 (Marcos): días con pocos partidos (viernes) → todos juntos, el favorito de cada uno
-            sel = candidatos(dia, MIN_PROB_POCOS)
+            sel = candidatos(dia, MIN_PROB_POCOS, excluir)
     if len(sel) < (MIN_N if llenas else 5) or not titulo:
         return None
     sel = sorted(sel, key=lambda x: -(x["prob"] + (0.06 if x["grande"] else 0)))[:N]   # los grandes llaman más
@@ -84,9 +105,9 @@ def post(dia):
         filas.append({"pais": pais, "bandera": bandera, "escudo_url": x["equipo"].get("logo"), "nombre": nombre, "pick": "WIN"})
         lineas.append(f"{i}. {bandera} {nombre} - Win")
     texto = f"🏆 {titulo} - GANADORES\n\n" + "\n".join(lineas) + "\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
-    f = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=HORA[0], minute=HORA[1])
+    f = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hora[0], minute=hora[1])
     f = min(f, sel[0]["ini"] - timedelta(hours=1))
-    return {"id": f"{dia}-ganadores-win", "fecha": f.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
+    return {"id": f"{dia}-ganadores-win{sufijo}", "fecha": f.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
             "origen": "analista", "directo": True, "solo_redes": True, "sin_instagram": True, "forzar": True,
             "sel": [f"{x['fid']}|Match Winner|{x['lado']}" for x in sel], "cuotas": [x["cuota"] for x in sel],
             "ganadores_img": {"titulo": titulo, "liga": liga, "filas": filas}}

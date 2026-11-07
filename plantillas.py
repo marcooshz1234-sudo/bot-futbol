@@ -640,9 +640,7 @@ def posts_del_dia(dia, d):
     # 05/11 (Marcos): «GANADORES» con escudos cada día, solo en Threads (ganadores_win.py)
     try:
         import ganadores_win
-        w = ganadores_win.post(dia)
-        if w:
-            salida.append(w)
+        salida += ganadores_win.posts(dia)   # 07/11: uno a las 02:00 y otro a las 10:00 con otros partidos
     except Exception as e:
         print("ganadores win:", str(e)[:150])
     return salida
