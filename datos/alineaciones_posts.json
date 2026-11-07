@@ -26,6 +26,9 @@
   "2026-11-07-combi-500|Ermedin Demirovic: 1+ tiros a puerta",
   "2026-11-07-combi-500|Mohamed Belloumi comete 1+ faltas",
   "2026-11-07-combi-500|Rafiki Said: 2+ tiros",
+  "2026-11-07-combi-loca|Achraf Hakimi: 2+ tiros",
+  "2026-11-07-combi-multi|Achraf Hakimi: 2+ tiros",
+  "2026-11-07-combi-partido-1552815|Achraf Hakimi: 2+ tiros",
   "2026-11-07-estrella-1557457|Mohamed Belloumi: 1+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
@@ -7991,13 +7994,148 @@
    }
   },
   "1552815": {
-   "hora": "2026-11-07T20:28:57.862797+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T20:40:10.431110+01:00",
+   "xi": [
+    "M. Safonov",
+    "W. Zaïre-Emery",
+    "I. Zabarnyi",
+    "W. Pacho",
+    "L. Hernández",
+    "Senny Mayulu",
+    "Vitinha",
+    "Fabián Ruiz",
+    "D. Doué",
+    "Ferran Torres",
+    "M. Godts",
+    "H. Konaté",
+    "L. Maronnier",
+    "A. Monfray",
+    "M. Diaz",
+    "I. Boura",
+    "A. Mille",
+    "M. Diop",
+    "M. Ifnaoui",
+    "K. Diawara",
+    "D. Karim",
+    "R. Ripart"
+   ],
+   "banquillo": [
+    "D. Boly",
+    "L. Digne",
+    "Pedro Fernández",
+    "João Neves",
+    "L. Chevalier",
+    "Y. Idder",
+    "A. Longoni",
+    "Beraldo",
+    "Quentin Ndjantou Mbitcha",
+    "Y. Titi",
+    "P. Beach",
+    "I. Gomis",
+    "P. Gozzi",
+    "J. Le Douaron",
+    "T. Nkada",
+    "A. Phliponeau",
+    "H. Picard",
+    "I. Soukouna"
+   ],
+   "equipos": {
+    "85": [
+     {
+      "n": "M. Safonov",
+      "pos": "G"
+     },
+     {
+      "n": "W. Zaïre-Emery",
+      "pos": "D"
+     },
+     {
+      "n": "I. Zabarnyi",
+      "pos": "D"
+     },
+     {
+      "n": "W. Pacho",
+      "pos": "D"
+     },
+     {
+      "n": "L. Hernández",
+      "pos": "D"
+     },
+     {
+      "n": "Senny Mayulu",
+      "pos": "M"
+     },
+     {
+      "n": "Vitinha",
+      "pos": "M"
+     },
+     {
+      "n": "Fabián Ruiz",
+      "pos": "M"
+     },
+     {
+      "n": "D. Doué",
+      "pos": "F"
+     },
+     {
+      "n": "Ferran Torres",
+      "pos": "F"
+     },
+     {
+      "n": "M. Godts",
+      "pos": "F"
+     }
+    ],
+    "110": [
+     {
+      "n": "H. Konaté",
+      "pos": "G"
+     },
+     {
+      "n": "L. Maronnier",
+      "pos": "D"
+     },
+     {
+      "n": "A. Monfray",
+      "pos": "D"
+     },
+     {
+      "n": "M. Diaz",
+      "pos": "D"
+     },
+     {
+      "n": "I. Boura",
+      "pos": "D"
+     },
+     {
+      "n": "A. Mille",
+      "pos": "M"
+     },
+     {
+      "n": "M. Diop",
+      "pos": "M"
+     },
+     {
+      "n": "M. Ifnaoui",
+      "pos": "M"
+     },
+     {
+      "n": "K. Diawara",
+      "pos": "M"
+     },
+     {
+      "n": "D. Karim",
+      "pos": "M"
+     },
+     {
+      "n": "R. Ripart",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575543": {
-   "hora": "2026-11-07T20:28:57.862797+01:00",
+   "hora": "2026-11-07T20:40:10.431110+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

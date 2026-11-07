@@ -3167,19 +3167,17 @@
   {
     "id": "2026-11-07-combi-partido-1552815",
     "fecha": "2026-11-07T20:30",
-    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 PARIS SAINT GERMAIN vs ESTAC TROYES 🇫🇷\n\n🎯 PARIS SAINT GERMAIN HACE 8+ TIROS [x1.18]\n✅ ACHRAF HAKIMI: 2+ TIROS [x1.53]\n✅ ESTAC TROYES HACE MÁS DE 2,5 CÓRNERS [x1.80]\n✅ ESTAC TROYES MARCA [x1.80]\n\n🔥 Resultado probable: 2-1 | 1-1 | 2-2\n💥 Cuota total aprox.: 4,94\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGUE 1\n🇫🇷 PARIS SAINT GERMAIN vs ESTAC TROYES 🇫🇷\n\n🎯 PARIS SAINT GERMAIN HACE 8+ TIROS [x1.18]\n✅ ESTAC TROYES HACE MÁS DE 2,5 CÓRNERS [x1.80]\n✅ ESTAC TROYES MARCA [x1.80]\n\n🔥 Resultado probable: 2-1 | 1-1 | 2-2\n💥 Cuota total aprox.: 3,43\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552815|Shots. Home Total|Over 7.5",
-      "1552815|Home Player Shots|Achraf Hakimi - 2",
       "1552815|Away Corners Over/Under|Over 2.5",
       "1552815|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.18,
-      1.53,
       1.8,
       1.8
     ],
@@ -3193,7 +3191,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/110.png",
       "fecha": "2026-11-07T21:05",
       "liga": "Ligue 1"
-    }
+    },
+    "revisado_alineaciones": "2026-11-07T20:40"
   },
   {
     "id": "2026-11-08-picks-manana",
