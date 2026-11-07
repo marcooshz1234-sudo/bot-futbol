@@ -172,6 +172,7 @@
   "clave|2026-11-07-combi-multi|1563260|Total - Home|Over 0.5|M. Boadu",
   "clave|2026-11-07-combi-partido-1557457|1557457|Total - Home|Over 1.5|E. Eze",
   "clave|2026-11-07-combi-partido-1557457|1557457|Total - Home|Over 1.5|V. Gyökeres",
+  "clave|2026-11-07-combi-partido-1570005|1570005|Match Winner|Away|Alberto Reina",
   "clave|2026-11-07-combi-partido-1575212|1575212|Match Winner|Home|S. Guirassy",
   "clave|2026-11-07-combi-tres|1563251|Home Player Shots On Target Total|Jay Stansfield - 1|A. Priske",
   "clave|2026-11-07-escalera|1550195|Match Winner|Home|C. Adams",
@@ -8838,13 +8839,154 @@
    }
   },
   "1570005": {
-   "hora": "2026-11-07T15:39:27.202726+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T15:53:22.342503+01:00",
+   "xi": [
+    "Jokin Ezkieta",
+    "G. Gocholeishvili",
+    "B. Kovačević",
+    "Javi Castro",
+    "Sergio Arribas",
+    "A. Moueffek",
+    "D. A. Zarate Hidalgo",
+    "Borja Vazquez",
+    "Ibon Sánchez",
+    "Antonio Cordero",
+    "Álvaro García",
+    "Aarón Escandell",
+    "David Jiménez",
+    "Dani Calvo",
+    "Carlos Domínguez",
+    "S. Rodriguez",
+    "I. Chaira",
+    "Enzo Perez",
+    "Y. Didi",
+    "Estanis",
+    "Mikel Goti",
+    "A. Ișfan"
+   ],
+   "banquillo": [
+    "J. Diaz Peregrina",
+    "M. Doué",
+    "Manu Fernández",
+    "David Gil",
+    "Cristian Gutiérrez",
+    "Urko Izeta",
+    "Javi Ontiveros",
+    "Damián Rodríguez",
+    "K. Toibibou",
+    "E. Aghama",
+    "N. Ukwuije",
+    "Beñat de Jesús",
+    "Miguel Narváez",
+    "Dani Villahermosa",
+    "Nacho Vidal",
+    "Pablo Sáenz",
+    "Alberto Reina",
+    "José Luis Morales",
+    "D. Menendez",
+    "Jacobo González",
+    "V. Mingo",
+    "David Costas",
+    "Aritz Aldasoro",
+    "Juan Cruz"
+   ],
+   "equipos": {
+    "724": [
+     {
+      "n": "Jokin Ezkieta",
+      "pos": "G"
+     },
+     {
+      "n": "G. Gocholeishvili",
+      "pos": "D"
+     },
+     {
+      "n": "B. Kovačević",
+      "pos": "D"
+     },
+     {
+      "n": "Javi Castro",
+      "pos": "D"
+     },
+     {
+      "n": "Sergio Arribas",
+      "pos": "D"
+     },
+     {
+      "n": "A. Moueffek",
+      "pos": "M"
+     },
+     {
+      "n": "D. A. Zarate Hidalgo",
+      "pos": "M"
+     },
+     {
+      "n": "Borja Vazquez",
+      "pos": "M"
+     },
+     {
+      "n": "Ibon Sánchez",
+      "pos": "M"
+     },
+     {
+      "n": "Antonio Cordero",
+      "pos": "M"
+     },
+     {
+      "n": "Álvaro García",
+      "pos": "F"
+     }
+    ],
+    "718": [
+     {
+      "n": "Aarón Escandell",
+      "pos": "G"
+     },
+     {
+      "n": "David Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "Dani Calvo",
+      "pos": "D"
+     },
+     {
+      "n": "Carlos Domínguez",
+      "pos": "D"
+     },
+     {
+      "n": "S. Rodriguez",
+      "pos": "D"
+     },
+     {
+      "n": "I. Chaira",
+      "pos": "M"
+     },
+     {
+      "n": "Enzo Perez",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Didi",
+      "pos": "M"
+     },
+     {
+      "n": "Estanis",
+      "pos": "M"
+     },
+     {
+      "n": "Mikel Goti",
+      "pos": "F"
+     },
+     {
+      "n": "A. Ișfan",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552217": {
-   "hora": "2026-11-07T15:39:27.202726+01:00",
+   "hora": "2026-11-07T15:53:22.342503+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
