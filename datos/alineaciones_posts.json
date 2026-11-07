@@ -170,6 +170,8 @@
   "clave|2026-11-06-ganadores-win|1552216|Match Winner|Away|Thijs Oosting",
   "clave|2026-11-06-ganadores-win|1575539|Match Winner|Home|Marcos Peña",
   "clave|2026-11-07-combi-500|1575214|Home Player Shots On Target Total|Ermedin Demirovic - 1|A. Stiller",
+  "clave|2026-11-07-combi-loca|1552811|Home Player Shots On Target Total|Cameron Archer - 1|K. Danois",
+  "clave|2026-11-07-combi-multi|1552811|Home Player Shots On Target Total|Cameron Archer - 1|K. Danois",
   "clave|2026-11-07-combi-multi|1563260|Total - Home|Over 0.5|H. Kyprianou",
   "clave|2026-11-07-combi-multi|1563260|Total - Home|Over 0.5|M. Boadu",
   "clave|2026-11-07-combi-partido-1557457|1557457|Total - Home|Over 1.5|E. Eze",
@@ -7401,10 +7403,145 @@
    }
   },
   "1552811": {
-   "hora": "2026-11-07T18:24:19.748203+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T18:34:44.382536+01:00",
+   "xi": [
+    "P. Nardi",
+    "M. Senaya",
+    "S. Diomandé",
+    "A. Tuanzebe",
+    "T. Siwe",
+    "N. Ahamada",
+    "P. Ekwah",
+    "F. Oppegård",
+    "R. Faivre",
+    "C. Archer",
+    "D. Namaso",
+    "K. Trapp",
+    "H. Traoré",
+    "D. Coppola",
+    "Otávio",
+    "M. Simon",
+    "M. Lopez",
+    "P. Lees-Melou",
+    "I. Kebbal",
+    "P. Pagis",
+    "R. Matondo",
+    "L. Sinayoko"
+   ],
+   "banquillo": [
+    "L. Sy",
+    "Aristide Zossou",
+    "C. Akpa",
+    "K. Danois",
+    "M. Diop",
+    "R. Mandengue",
+    "R. Labeau Lascary",
+    "C. Makosso",
+    "A. Piedfort",
+    "T. De Smet",
+    "L. Koleosho",
+    "J. Krasso",
+    "V. Marchetti",
+    "E. Mbemba",
+    "M. Mbow",
+    "O. Nkambadio",
+    "O. Sissoko",
+    "E. Zabi"
+   ],
+   "equipos": {
+    "108": [
+     {
+      "n": "P. Nardi",
+      "pos": "G"
+     },
+     {
+      "n": "M. Senaya",
+      "pos": "D"
+     },
+     {
+      "n": "S. Diomandé",
+      "pos": "D"
+     },
+     {
+      "n": "A. Tuanzebe",
+      "pos": "D"
+     },
+     {
+      "n": "T. Siwe",
+      "pos": "D"
+     },
+     {
+      "n": "N. Ahamada",
+      "pos": "M"
+     },
+     {
+      "n": "P. Ekwah",
+      "pos": "M"
+     },
+     {
+      "n": "F. Oppegård",
+      "pos": "M"
+     },
+     {
+      "n": "R. Faivre",
+      "pos": "F"
+     },
+     {
+      "n": "C. Archer",
+      "pos": "F"
+     },
+     {
+      "n": "D. Namaso",
+      "pos": "F"
+     }
+    ],
+    "114": [
+     {
+      "n": "K. Trapp",
+      "pos": "G"
+     },
+     {
+      "n": "H. Traoré",
+      "pos": "D"
+     },
+     {
+      "n": "D. Coppola",
+      "pos": "D"
+     },
+     {
+      "n": "Otávio",
+      "pos": "D"
+     },
+     {
+      "n": "M. Simon",
+      "pos": "D"
+     },
+     {
+      "n": "M. Lopez",
+      "pos": "M"
+     },
+     {
+      "n": "P. Lees-Melou",
+      "pos": "M"
+     },
+     {
+      "n": "I. Kebbal",
+      "pos": "M"
+     },
+     {
+      "n": "P. Pagis",
+      "pos": "M"
+     },
+     {
+      "n": "R. Matondo",
+      "pos": "M"
+     },
+     {
+      "n": "L. Sinayoko",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570448": {
    "hora": "2026-11-07T18:04:20.956686+01:00",
