@@ -1238,8 +1238,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 11,
-      "sin_datos": 0,
+      "pendiente": 10,
+      "sin_datos": 1,
       "no_jugo": 0,
       "sin_resolver": 11
     },
@@ -1265,7 +1265,7 @@
       {
         "id": "2026-11-07-combi-500",
         "titulo": "🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 453.38
       },
       {
@@ -1312,10 +1312,10 @@
       }
     ],
     "picks": {
-      "verde": 6,
+      "verde": 5,
       "rojo": 0,
       "total": 68
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80 · pendiente\n⏳ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 5,20 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,39! 🍀 · 3,39 · pendiente\n⏳ ✅ COMBI LOCAS | BUNDESLIGA · 5,35 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 3,95 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x26,39! 🍀 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 5,50 · pendiente\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,57 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,50 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,80 🍀 · 1,80 · pendiente\n❔ 🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮 · 453,38 · faltan datos\n⏳ ✅ COMBI LOCAS | PREMIER · 5,20 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL SÁBADO x3,39! 🍀 · 3,39 · pendiente\n⏳ ✅ COMBI LOCAS | BUNDESLIGA · 5,35 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 3,95 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x26,39! 🍀 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 5,50 · pendiente\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,57 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
   }
 }
