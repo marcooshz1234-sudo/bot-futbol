@@ -15,7 +15,7 @@ class PreferenciasTest(unittest.TestCase):
             self.assertTrue(picks.es_sin_empate('Double Chance',opcion))
             self.assertTrue(picks.excluido('Double Chance',opcion))
         for mercado,opcion in [('Match Winner','Home'),('Match Winner','Away'),('Match Winner','Draw'),
-                ('Double Chance','Home/Draw'),('Double Chance','Draw/Away'),('First Half Winner','Home'),
+                ('Double Chance','Home/Draw'),('Double Chance','Draw/Away'),
                 ('To Win Either Half','Away'),('Results/Both Teams Score','Home/Yes'),('Draw No Bet','Home'),
                 ('Goals Over/Under','Over 1.5'),('Both Teams Score','Yes'),('Shots.1x2','Home')]:
             with self.subTest(mercado=mercado,opcion=opcion):
@@ -61,3 +61,9 @@ class PreferenciasTest(unittest.TestCase):
 
 if __name__=='__main__':
     unittest.main()
+
+
+class SinDescansoTest(unittest.TestCase):
+    def test_sin_descanso(self):   # 07/11 (Marcos): nada de «empate al descanso» / «gana al descanso»
+        for o in ('Home', 'Draw', 'Away'):
+            self.assertTrue(picks.excluido('First Half Winner', o))
