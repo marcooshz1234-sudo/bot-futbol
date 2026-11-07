@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 02:23",
+ "actualizado": "2026-11-07 02:33",
  "redes": {
   "instagram": {
    "seguidores": 27,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2019,
-   "hoy": 15,
+   "seguidores": 2020,
+   "hoy": 16,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2019
+    2020
    ]
   },
   "facebook": {
@@ -54,11 +54,11 @@
    ]
   }
  },
- "total": 2341,
- "total_hoy": 16,
+ "total": 2342,
+ "total_hoy": 17,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:00",
+  "hora": "02:40",
   "dia": "2026-11-07",
   "titulo": "Partidos de hoy - ganadores"
  },
@@ -162,7 +162,7 @@
   },
   "2026-11-07": {
    "instagram": 27,
-   "threads": 2019,
+   "threads": 2020,
    "facebook": 0,
    "telegram": 295
   }
