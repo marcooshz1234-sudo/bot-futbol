@@ -546,5 +546,14 @@
   "2026-11-07-combi-loca": {
     "enviado": "2026-11-07T16:00",
     "mensaje_id": 339
+  },
+  "2026-11-07-combi-partido-1570448": {
+    "enviado": "2026-11-07T17:55",
+    "mensaje_id": 341,
+    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1570448.tarjeta.jpg"
+  },
+  "2026-11-07-estrella-1557465": {
+    "enviado": "2026-11-07T17:55",
+    "mensaje_id": 342
   }
 }
