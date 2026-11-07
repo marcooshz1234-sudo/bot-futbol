@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 09:58",
+ "actualizado": "2026-11-07 10:09",
  "redes": {
   "instagram": {
    "seguidores": 28,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2048,
-   "hoy": 44,
+   "seguidores": 2049,
+   "hoy": 45,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2048
+    2049
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 295,
-   "hoy": 1,
+   "seguidores": 296,
+   "hoy": 2,
    "serie": [
     207,
     214,
@@ -50,17 +50,17 @@
     245,
     277,
     294,
-    295
+    296
    ]
   }
  },
- "total": 2371,
- "total_hoy": 46,
+ "total": 2373,
+ "total_hoy": 48,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:00",
+  "hora": "10:30",
   "dia": "2026-11-07",
-  "titulo": "Partidos de hoy - ganadores"
+  "titulo": "Pick seguro del día"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,9 +162,9 @@
   },
   "2026-11-07": {
    "instagram": 28,
-   "threads": 2048,
+   "threads": 2049,
    "facebook": 0,
-   "telegram": 295
+   "telegram": 296
   }
  },
  "tipos_instagram": {
