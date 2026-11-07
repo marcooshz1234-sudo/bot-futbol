@@ -1,7 +1,7 @@
 # AZ Alkmaar – Groningen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · AFAS Stadion（Alkmaar）
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 02:03_

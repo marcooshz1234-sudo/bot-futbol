@@ -1,7 +1,7 @@
 # ADO Den Haag – Sparta Rotterdam
 **Eredivisie** · Regular Season - 12 · 07/11/2026 18:45 (hora España) · Bingoal Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 02:04._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 08:01._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 02:03_

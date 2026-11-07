@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-07 02:04",
+ "generado": "2026-11-07 08:02",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -79,6 +79,8 @@
      "valor_mercado": -0.008,
      "movimiento": -0.044,
      "cuota_inicial": 1.36,
+     "arbitro": "Marta Huerta de Aza",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.833,
      "xg_esperado": 3.23,
      "posiciones": [
@@ -171,6 +173,8 @@
      "ventaja": 0.019,
      "detalle": "Leganes 7/10 · Albacete 9/10",
      "valor_mercado": -0.008,
+     "arbitro": "Gordillo",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.788,
      "xg_esperado": 2.91,
      "posiciones": [
@@ -507,6 +511,8 @@
      "valor_mercado": -0.027,
      "movimiento": -0.016,
      "cuota_inicial": 1.83,
+     "arbitro": "Marta Huerta de Aza",
+     "arbitro_tarjetas": null,
      "posiciones": [
       20,
       9,
@@ -759,6 +765,8 @@
      "temporada": "9/9",
      "movimiento": -0.108,
      "cuota_inicial": 1.57,
+     "arbitro": "Miguel Sesma Espinosa",
+     "arbitro_tarjetas": 5.2,
      "posiciones": [
       15,
       7,
@@ -909,6 +917,8 @@
      "texto": "Alex Berenguer comete 1+ faltas",
      "detalle": "Alex Berenguer 5/6",
      "temporada": "5/6",
+     "arbitro": "Miguel Sesma Espinosa",
+     "arbitro_tarjetas": 5.2,
      "posiciones": [
       15,
       7,
@@ -1074,6 +1084,8 @@
      "valor_mercado": -0.008,
      "movimiento": -0.044,
      "cuota_inicial": 1.36,
+     "arbitro": "Marta Huerta de Aza",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.833,
      "xg_esperado": 3.23,
      "posiciones": [
@@ -1166,6 +1178,8 @@
      "ventaja": 0.019,
      "detalle": "Leganes 7/10 · Albacete 9/10",
      "valor_mercado": -0.008,
+     "arbitro": "Gordillo",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.788,
      "xg_esperado": 2.91,
      "posiciones": [
@@ -1484,6 +1498,8 @@
      "temporada": "9/9",
      "movimiento": -0.108,
      "cuota_inicial": 1.57,
+     "arbitro": "Miguel Sesma Espinosa",
+     "arbitro_tarjetas": 5.2,
      "posiciones": [
       15,
       7,
@@ -1618,6 +1634,8 @@
        "valor_mercado": -0.008,
        "movimiento": -0.044,
        "cuota_inicial": 1.36,
+       "arbitro": "Marta Huerta de Aza",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.833,
        "xg_esperado": 3.23,
        "posiciones": [
@@ -1710,6 +1728,8 @@
        "ventaja": 0.019,
        "detalle": "Leganes 7/10 · Albacete 9/10",
        "valor_mercado": -0.008,
+       "arbitro": "Gordillo",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.788,
        "xg_esperado": 2.91,
        "posiciones": [
@@ -2009,6 +2029,8 @@
        "valor_mercado": -0.008,
        "movimiento": -0.044,
        "cuota_inicial": 1.36,
+       "arbitro": "Marta Huerta de Aza",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.833,
        "xg_esperado": 3.23,
        "posiciones": [
@@ -2101,6 +2123,8 @@
        "ventaja": 0.019,
        "detalle": "Leganes 7/10 · Albacete 9/10",
        "valor_mercado": -0.008,
+       "arbitro": "Gordillo",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.788,
        "xg_esperado": 2.91,
        "posiciones": [
