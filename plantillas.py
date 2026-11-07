@@ -434,6 +434,12 @@ def posts_del_dia(dia, d):
             apuntar(sel)
         for cp, cuota, hora in cd.get("estrella") or []:   # 01/11 (Marcos): partido estrella (top 4 de las 5 grandes)
             posts.append((f"estrella-{cp['partido_id']}", hora, cp["picks"], texto_estrella(cp, cuota)))
+            try:   # 07/11 (Marcos: «en el partido del City no ha subido los escudos»): el estrella también con escudos
+                b = cp["picks"][0]
+                tarjetas[f"estrella-{cp['partido_id']}"] = datos_tarjeta(
+                    dict({k: b.get(k) for k in ("local", "visitante", "fecha", "competicion")}, picks=cp["picks"]))
+            except Exception as e:
+                print("tarjeta estrella:", str(e)[:120])
             apuntar(cp["picks"])
         for clave_m, titulo in (("tres", "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"), ("loca", "🤪🔥 COMBILOCAS — ¡LA LOCA DEL {n} x{c}! 🤪")):
             r = cd.get(clave_m)
