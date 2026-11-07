@@ -1,7 +1,7 @@
 # SC Freiburg – Union Berlin
 **Bundesliga** · Regular Season - 9 · 08/11/2026 17:30 (hora España) · Europa-Park-Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -210,12 +210,12 @@ _Goles esperados: local 2,64 · visitante 0,84 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 15% | 12% | 6.25 | -23% |
+| 1X2: 2 | 9% | 15% | 12% | 6.25 | -23% |
 | 1X2: X | 15% | 21% | 18% | 4.50 | -20% |
 | 1X2: 1 | 76% | 64% | 70% | 1.48 | +3% |
 | Doble oportunidad: X2 | 24% | 36% | 30% | 2.62 | -21% |
 | Doble oportunidad: 12 | 85% | 80% | 83% | 1.18 | -3% |
-| Doble oportunidad: 1X | 90% | 84% | 87% | 1.12 | -2% |
+| Doble oportunidad: 1X | 91% | 84% | 87% | 1.12 | -2% |
 | Ambos marcan: No | 47% | 47% | 47% | 2.00 | -6% |
 | Ambos marcan: Sí | 53% | 53% | 53% | 1.75 | -7% |
 | Goles más/menos: Más de 1.5 | 86% | 79% | 83% | 1.20 | -1% |
@@ -235,10 +235,10 @@ _Goles esperados: local 2,64 · visitante 0,84 · córners esperados 9,3._
 | Goles del local: Menos de 1.5 | 26% | 38% | 32% | 2.50 | -21% |
 | Goles del local: Menos de 2.5 | 51% | 62% | 57% | 1.50 | -15% |
 | Goles del visitante: Más de 0.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del visitante: Más de 1.5 | 21% | 25% | 23% | 3.75 | -15% |
+| Goles del visitante: Más de 1.5 | 20% | 25% | 23% | 3.75 | -15% |
 | Goles del visitante: Menos de 0.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles del visitante: Menos de 1.5 | 79% | 75% | 77% | 1.25 | -3% |
-| Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
+| Goles del visitante: Menos de 1.5 | 80% | 75% | 77% | 1.25 | -3% |
+| Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -8% |
 | Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
 | 1X2 descanso: X | 32% | 37% | 35% | 2.50 | -13% |
 | 1X2 descanso: 1 | 56% | 48% | 52% | 1.95 | +1% |

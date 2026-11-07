@@ -1,7 +1,7 @@
 # Brighton – Brentford
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · American Express Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -210,22 +210,22 @@ _Goles esperados: local 2,01 · visitante 1,07 · córners esperados 9,7._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 20% | 26% | 23% | 3.70 | -17% |
-| 1X2: X | 21% | 25% | 23% | 3.80 | -13% |
+| 1X2: X | 21% | 25% | 23% | 3.80 | -12% |
 | 1X2: 1 | 59% | 50% | 54% | 1.90 | +3% |
-| Doble oportunidad: X2 | 41% | 50% | 45% | 1.91 | -14% |
+| Doble oportunidad: X2 | 41% | 50% | 45% | 1.91 | -13% |
 | Doble oportunidad: 12 | 79% | 76% | 77% | 1.25 | -3% |
 | Doble oportunidad: 1X | 80% | 74% | 77% | 1.28 | -1% |
 | Ambos marcan: No | 43% | 39% | 41% | 2.38 | -2% |
 | Ambos marcan: Sí | 57% | 61% | 59% | 1.53 | -10% |
-| Goles más/menos: Más de 2.5 | 60% | 60% | 60% | 1.57 | -6% |
+| Goles más/menos: Más de 2.5 | 59% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Más de 3.5 | 37% | 40% | 38% | 2.38 | -9% |
-| Goles más/menos: Más de 4.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles más/menos: Menos de 2.5 | 40% | 40% | 40% | 2.38 | -5% |
+| Goles más/menos: Más de 4.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles más/menos: Menos de 2.5 | 41% | 40% | 40% | 2.38 | -4% |
 | Goles más/menos: Menos de 3.5 | 63% | 60% | 62% | 1.57 | -3% |
-| Goles más/menos: Menos de 4.5 | 80% | 78% | 79% | 1.22 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles más/menos: Menos de 4.5 | 80% | 78% | 79% | 1.22 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 73% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 27% | 3.50 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Más de 1.5 | 60% | 56% | 58% | 1.67 | -4% |
 | Goles del local: Más de 2.5 | 33% | 29% | 31% | 3.25 | +0% |
@@ -233,7 +233,7 @@ _Goles esperados: local 2,01 · visitante 1,07 · córners esperados 9,7._
 | Goles del local: Menos de 2.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles del visitante: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
 | Goles del visitante: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +5% |
+| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +6% |
 | Goles del visitante: Menos de 1.5 | 71% | 62% | 67% | 1.50 | +0% |
 | Córners más/menos: Más de 9.5 | 47% | 56% | 51% | 1.67 | -15% |
 | Córners más/menos: Menos de 9.5 | 53% | 44% | 49% | 2.10 | +3% |

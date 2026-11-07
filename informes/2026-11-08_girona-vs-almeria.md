@@ -1,7 +1,7 @@
 # Girona – Almeria
 **Segunda División** · Regular Season - 13 · 08/11/2026 16:15 (hora España) · Estadi Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,15 · córners esperados 9,2._
+_Goles esperados: local 1,35 · visitante 1,15 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -214,8 +214,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 0.5 | 74% | 79% | 77% | 1.18 | -10% |
-| Goles del local: Más de 1.5 | 39% | 49% | 44% | 1.91 | -17% |
-| Goles del local: Más de 2.5 | 15% | 23% | 19% | 4.00 | -23% |
+| Goles del local: Más de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
+| Goles del local: Más de 2.5 | 15% | 23% | 19% | 4.00 | -22% |
 | Goles del local: Menos de 0.5 | 26% | 21% | 23% | 4.50 | +5% |
 | Goles del local: Menos de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
 | Goles del local: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -2% |
@@ -225,8 +225,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -9% |
 | Córners más/menos: Menos de 9.5 | 58% | 56% | 57% | 1.67 | -5% |
-| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -3% |
+| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -4% |
 | 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 30% | 35% | 33% | 2.62 | -14% |
+| 1X2 descanso: 1 | 31% | 35% | 33% | 2.62 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

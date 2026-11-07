@@ -1,18 +1,9 @@
 # Próximos partidos
 
-_Actualizado el 07/11/2026 17:46 (hora España). Partidos guardados en la base de datos: 1747._
+_Actualizado el 07/11/2026 19:50 (hora España). Partidos guardados en la base de datos: 1760._
 
 
 ## Sábado 07/11
-- 18:00 · Serie A · [Parma – Bologna](informes/2026-11-07_parma-vs-bologna.md) · 1X2: 5.25 / 3.60 / 1.70
-- 18:30 · LaLiga · [Osasuna – Athletic Club](informes/2026-11-07_osasuna-vs-athletic-club.md) · 1X2: 3.70 / 3.50 / 2.00
-- 18:30 · Premier League · [Nottingham Forest – Manchester City](informes/2026-11-07_nottingham-forest-vs-manchester-city.md) · 1X2: 4.75 / 3.90 / 1.73
-- 18:30 · Bundesliga · [VfB Stuttgart – Werder Bremen](informes/2026-11-07_vfb-stuttgart-vs-werder-bremen.md) · 1X2: 1.90 / 4.10 / 3.50
-- 18:30 · Segunda División · [Leganes – Albacete](informes/2026-11-07_leganes-vs-albacete.md) · 1X2: 2.15 / 3.40 / 3.30
-- 18:30 · Segunda División · [Cordoba – AD Ceuta FC](informes/2026-11-07_cordoba-vs-ad-ceuta-fc.md) · 1X2: 1.53 / 4.33 / 5.50
-- 18:45 · Eredivisie · [ADO Den Haag – Sparta Rotterdam](informes/2026-11-07_ado-den-haag-vs-sparta-rotterdam.md) · 1X2: 2.55 / 3.60 / 2.62
-- 19:00 · Ligue 1 · [Auxerre – Paris FC](informes/2026-11-07_auxerre-vs-paris-fc.md) · 1X2: 4.75 / 4.10 / 1.70
-- 19:00 · Primeira Liga · [Alverca – Casa Pia](informes/2026-11-07_alverca-vs-casa-pia.md) · 1X2: 1.75 / 3.80 / 4.33
 - 20:45 · Serie A · [AS Roma – Sassuolo](informes/2026-11-07_as-roma-vs-sassuolo.md) · 1X2: 1.33 / 5.50 / 8.50
 - 21:00 · LaLiga · [Valencia – Real Madrid](informes/2026-11-07_valencia-vs-real-madrid.md) · 1X2: 9.00 / 6.50 / 1.27
 - 21:00 · Eredivisie · [Excelsior – GO Ahead Eagles](informes/2026-11-07_excelsior-vs-go-ahead-eagles.md) · 1X2: 2.75 / 3.50 / 2.45
@@ -86,3 +77,5 @@ _Actualizado el 07/11/2026 17:46 (hora España). Partidos guardados en la base d
 ## Domingo 15/11
 - 14:00 · Segunda División · [Tenerife – AD Ceuta FC](informes/2026-11-15_tenerife-vs-ad-ceuta-fc.md)
 - 16:15 · Segunda División · [Granada CF – Las Palmas](informes/2026-11-15_granada-cf-vs-las-palmas.md)
+- 18:30 · Segunda División · [Eibar – Cadiz](informes/2026-11-15_eibar-vs-cadiz.md)
+- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md)

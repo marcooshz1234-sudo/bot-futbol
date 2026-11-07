@@ -1,7 +1,7 @@
 # AZ Alkmaar – Groningen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · AFAS Stadion（Alkmaar）
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | R. Metu | F | 3 | 22 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,57 · visitante 1,17 · córners esperados 10,0._
+_Goles esperados: local 2,57 · visitante 1,16 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -209,7 +209,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 51% | 46% | 49% | 2.00 | -2% |
 | Goles más/menos: Más de 4.5 | 32% | 28% | 30% | 3.40 | +1% |
 | Goles más/menos: Menos de 2.5 | 28% | 33% | 30% | 2.88 | -13% |
-| Goles más/menos: Menos de 3.5 | 49% | 54% | 51% | 1.73 | -12% |
+| Goles más/menos: Menos de 3.5 | 49% | 54% | 51% | 1.73 | -11% |
 | Goles más/menos: Menos de 4.5 | 68% | 72% | 70% | 1.30 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -5% |
@@ -224,9 +224,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 53% | 58% | 55% | 1.62 | -11% |
 | Goles del local: Menos de 3.5 | 74% | 78% | 76% | 1.20 | -8% |
 | Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
-| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
-| Goles del visitante: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
+| Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -14% |
 | Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -1% |
 | 1X2 descanso: X | 33% | 34% | 33% | 2.75 | -9% |

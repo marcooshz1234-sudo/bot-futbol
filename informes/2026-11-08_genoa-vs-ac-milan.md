@@ -1,7 +1,7 @@
 # Genoa – AC Milan
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España) · Luigi Ferraris
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -201,7 +201,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Alexis Saelemaekers | F | 5 | 218 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 7 | 1,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,03 · visitante 1,32 · córners esperados 9,1._
+_Goles esperados: local 1,03 · visitante 1,31 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

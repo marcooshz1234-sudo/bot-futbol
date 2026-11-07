@@ -1,7 +1,7 @@
 # Le Havre – Lorient
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -207,12 +207,12 @@ _Goles esperados: local 1,09 · visitante 1,13 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 37% | 38% | 37% | 2.50 | -7% |
+| 1X2: 2 | 36% | 38% | 37% | 2.50 | -7% |
 | 1X2: X | 29% | 29% | 29% | 3.30 | -5% |
-| 1X2: 1 | 34% | 33% | 34% | 2.88 | -3% |
-| Doble oportunidad: X2 | 66% | 67% | 66% | 1.40 | -7% |
+| 1X2: 1 | 35% | 33% | 34% | 2.88 | -3% |
+| Doble oportunidad: X2 | 65% | 67% | 66% | 1.40 | -7% |
 | Doble oportunidad: 12 | 71% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 63% | 63% | 63% | 1.50 | -6% |
+| Doble oportunidad: 1X | 64% | 63% | 63% | 1.50 | -5% |
 | Ambos marcan: No | 55% | 47% | 51% | 2.00 | +2% |
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 72% | 68% | 1.33 | -9% |
@@ -231,7 +231,7 @@ _Goles esperados: local 1,09 · visitante 1,13 · córners esperados 9,6._
 | Goles del local: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del visitante: Más de 0.5 | 68% | 73% | 70% | 1.28 | -10% |
 | Goles del visitante: Más de 1.5 | 31% | 39% | 35% | 2.38 | -16% |
-| Goles del visitante: Menos de 0.5 | 32% | 27% | 30% | 3.50 | +3% |
+| Goles del visitante: Menos de 0.5 | 32% | 27% | 30% | 3.50 | +4% |
 | Goles del visitante: Menos de 1.5 | 69% | 61% | 65% | 1.53 | -1% |
 | Córners más/menos: Más de 9.5 | 46% | 46% | 46% | 2.00 | -8% |
 | Córners más/menos: Menos de 9.5 | 54% | 54% | 54% | 1.73 | -7% |

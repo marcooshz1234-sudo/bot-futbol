@@ -1,18 +1,18 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 07/11/2026 17:46. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 07/11/2026 19:50. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 102 · **acertados:** 35 (34%)
-- **Beneficio:** -9.04 unidades · **rentabilidad (yield):** -8.9%
-- **Cuota media:** 2.86 · **pendientes:** 36
+- **Picks jugados:** 106 · **acertados:** 38 (36%)
+- **Beneficio:** -3.04 unidades · **rentabilidad (yield):** -2.9%
+- **Cuota media:** 2.87 · **pendientes:** 32
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 26 | 10 (38%) | +0.15 | +0.6% |
-| Goles más/menos | 22 | 6 (27%) | -5.91 | -26.9% |
-| Goles del local | 19 | 9 (47%) | +6.50 | +34.2% |
+| 1X2 | 27 | 10 (37%) | -0.85 | -3.1% |
+| Goles más/menos | 23 | 7 (30%) | -4.41 | -19.2% |
+| Goles del local | 21 | 11 (52%) | +12.00 | +57.1% |
 | Goles del visitante | 16 | 3 (19%) | -7.26 | -45.4% |
 | Doble oportunidad | 10 | 4 (40%) | -1.25 | -12.5% |
 | 1X2 descanso | 5 | 2 (40%) | +0.63 | +12.6% |
@@ -23,6 +23,10 @@ _Actualizado el 07/11/2026 17:46. Cada pick cuenta como 1 unidad apostada a la c
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-07 | Espanyol – Deportivo La Coruna | 1X2: 2 | 3.20 | ❌ | -1.00 |
+| 2026-11-07 | Espanyol – Deportivo La Coruna | Goles del local: Menos de 0.5 | 3.75 | ✅ | +2.75 |
+| 2026-11-07 | Arsenal – Hull City | Goles más/menos: Menos de 2.5 | 2.50 | ✅ | +1.50 |
+| 2026-11-07 | Arsenal – Hull City | Goles del local: Menos de 1.5 | 3.75 | ✅ | +2.75 |
 | 2026-11-07 | RB Leipzig – FC Augsburg | Goles del local: Más de 3.5 | 3.40 | ✅ | +2.40 |
 | 2026-11-07 | RB Leipzig – FC Augsburg | Goles más/menos: Más de 4.5 | 2.62 | ✅ | +1.62 |
 | 2026-11-07 | Borussia Dortmund – SV Elversberg | Goles más/menos: Menos de 2.5 | 3.00 | ❌ | -1.00 |
@@ -59,7 +63,3 @@ _Actualizado el 07/11/2026 17:46. Cada pick cuenta como 1 unidad apostada a la c
 | 2026-10-31 | Barcelona – Alaves | Córners más/menos: Menos de 10.5 | 2.10 | ✅ | +1.10 |
 | 2026-10-31 | Estac Troyes – Le Mans | 1X2 descanso: 2 | 3.50 | ❌ | -1.00 |
 | 2026-10-31 | Estac Troyes – Le Mans | 1X2: 2 | 3.00 | ❌ | -1.00 |
-| 2026-10-31 | AC Milan – Inter | Goles más/menos: Más de 3.5 | 2.62 | ✅ | +1.62 |
-| 2026-10-31 | AC Milan – Inter | 1X2: 1 | 3.70 | ✅ | +2.70 |
-| 2026-10-31 | Tottenham – Crystal Palace | Goles del local: Menos de 1.5 | 2.25 | ❌ | -1.00 |
-| 2026-10-31 | Tottenham – Crystal Palace | Doble oportunidad: X2 | 2.25 | ❌ | -1.00 |

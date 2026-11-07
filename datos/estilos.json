@@ -1,8 +1,8 @@
 {
- "generado": "2026-11-07 17:46",
+ "generado": "2026-11-07 19:50",
  "estilos": {
   "escalera": {
-   "nota": 1.694,
+   "nota": 1.751,
    "posts_threads": 11,
    "resultados": 10,
    "verdes": 2
@@ -14,13 +14,13 @@
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 2.091,
+   "nota": 2.185,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-dia": {
-   "nota": 2.43,
+   "nota": 2.524,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
@@ -56,9 +56,9 @@
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 1.062,
+   "nota": 1.012,
    "posts_threads": 8,
-   "resultados": 2,
+   "resultados": 3,
    "verdes": 0
   },
   "combi-partido-1550167": {
@@ -278,9 +278,9 @@
    "verdes": 0
   },
   "combi-multi": {
-   "nota": 1.246,
+   "nota": 1.171,
    "posts_threads": 3,
-   "resultados": 1,
+   "resultados": 2,
    "verdes": 0
   },
   "combi-partido-1635745": {
@@ -353,6 +353,12 @@
    "nota": 0.922,
    "posts_threads": 1,
    "resultados": 0,
+   "verdes": 0
+  },
+  "ganadores-win-2": {
+   "nota": 0.875,
+   "posts_threads": 0,
+   "resultados": 1,
    "verdes": 0
   }
  }

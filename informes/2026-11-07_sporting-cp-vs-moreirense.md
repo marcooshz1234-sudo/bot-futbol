@@ -1,7 +1,7 @@
 # Sporting CP – Moreirense
 **Primeira Liga** · Regular Season - 11 · 07/11/2026 21:30 (hora España) · Estádio José Alvalade
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_

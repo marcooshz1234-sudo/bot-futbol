@@ -1,7 +1,7 @@
 # Sunderland – Chelsea
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -213,7 +213,7 @@ _Sin bajas comunicadas por ahora._
 | Estêvão | M | 9 | 284 | 0 | 0 | 13 | 1,4 | 5 | 0,6 | 4 | 7 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 2,03 · córners esperados 10,1._
+_Goles esperados: local 1,50 · visitante 2,05 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -222,30 +222,30 @@ _Goles esperados: local 1,49 · visitante 2,03 · córners esperados 10,1._
 | 1X2: 1 | 28% | 25% | 27% | 3.75 | +0% |
 | Doble oportunidad: X2 | 72% | 75% | 73% | 1.25 | -8% |
 | Doble oportunidad: 12 | 79% | 73% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 50% | 52% | 51% | 1.80 | -8% |
-| Ambos marcan: No | 33% | 45% | 39% | 2.05 | -20% |
-| Ambos marcan: Sí | 67% | 55% | 61% | 1.70 | +4% |
-| Goles más/menos: Más de 1.5 | 87% | 76% | 81% | 1.25 | +2% |
-| Goles más/menos: Más de 2.5 | 68% | 53% | 60% | 1.80 | +9% |
-| Goles más/menos: Más de 3.5 ✅ | 47% | 32% | 39% | 3.00 | +18% |
-| Goles más/menos: Menos de 1.5 | 13% | 24% | 19% | 4.00 | -26% |
-| Goles más/menos: Menos de 2.5 | 32% | 47% | 40% | 2.00 | -21% |
-| Goles más/menos: Menos de 3.5 | 53% | 68% | 61% | 1.40 | -15% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 71% | 75% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 29% | 25% | 3.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
-| Goles del local: Más de 0.5 | 77% | 66% | 72% | 1.40 | +1% |
+| Doble oportunidad: 1X | 50% | 52% | 51% | 1.80 | -9% |
+| Ambos marcan: No | 32% | 45% | 39% | 2.05 | -20% |
+| Ambos marcan: Sí | 68% | 55% | 61% | 1.70 | +4% |
+| Goles más/menos: Más de 1.5 | 87% | 76% | 82% | 1.25 | +2% |
+| Goles más/menos: Más de 2.5 | 69% | 53% | 61% | 1.80 | +9% |
+| Goles más/menos: Más de 3.5 ✅ | 47% | 32% | 40% | 3.00 | +19% |
+| Goles más/menos: Menos de 1.5 | 13% | 24% | 18% | 4.00 | -26% |
+| Goles más/menos: Menos de 2.5 | 31% | 47% | 39% | 2.00 | -21% |
+| Goles más/menos: Menos de 3.5 | 53% | 68% | 60% | 1.40 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 71% | 75% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 35% | 41% | 2.62 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 29% | 25% | 3.25 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -14% |
+| Goles del local: Más de 0.5 | 78% | 66% | 72% | 1.40 | +1% |
 | Goles del local: Más de 1.5 ✅ | 44% | 31% | 38% | 3.00 | +13% |
-| Goles del local: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -23% |
+| Goles del local: Menos de 0.5 | 22% | 34% | 28% | 2.75 | -23% |
 | Goles del local: Menos de 1.5 | 56% | 69% | 62% | 1.36 | -15% |
 | Goles del visitante: Más de 0.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del visitante: Más de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles del visitante: Más de 2.5 | 33% | 25% | 29% | 3.75 | +9% |
+| Goles del visitante: Más de 1.5 | 61% | 50% | 55% | 1.83 | +1% |
+| Goles del visitante: Más de 2.5 | 34% | 25% | 29% | 3.75 | +10% |
 | Goles del visitante: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles del visitante: Menos de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles del visitante: Menos de 2.5 | 67% | 75% | 71% | 1.25 | -11% |
-| Córners más/menos: Más de 9.5 | 50% | 51% | 51% | 1.80 | -9% |
+| Goles del visitante: Menos de 1.5 | 39% | 50% | 45% | 1.83 | -18% |
+| Goles del visitante: Menos de 2.5 | 66% | 75% | 71% | 1.25 | -12% |
+| Córners más/menos: Más de 9.5 | 50% | 51% | 51% | 1.80 | -8% |
 | Córners más/menos: Menos de 9.5 | 50% | 49% | 49% | 1.91 | -6% |
 | 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -6% |
 | 1X2 descanso: X | 36% | 41% | 38% | 2.25 | -14% |

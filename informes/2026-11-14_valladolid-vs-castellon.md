@@ -1,7 +1,7 @@
 # Valladolid – Castellón
 **Segunda División** · Regular Season - 14 · 14/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | I. Kostis | D | 3 | 106 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,95 · visitante 1,77 · córners esperados 9,0._
+_Goles esperados: local 0,95 · visitante 1,76 · córners esperados 9,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

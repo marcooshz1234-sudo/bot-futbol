@@ -1,7 +1,7 @@
 # Crystal Palace – Liverpool
 **Premier League** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -212,39 +212,39 @@ _Sin bajas comunicadas por ahora._
 | G. Mamardashvili | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,95 · córners esperados 9,6._
+_Goles esperados: local 1,29 · visitante 1,96 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 53% | 61% | 57% | 1.57 | -11% |
 | 1X2: X | 22% | 22% | 22% | 4.33 | -5% |
-| 1X2: 1 | 25% | 17% | 21% | 5.50 | +16% |
+| 1X2: 1 | 25% | 17% | 21% | 5.50 | +17% |
 | Doble oportunidad: X2 | 75% | 82% | 78% | 1.14 | -11% |
 | Doble oportunidad: 12 | 78% | 78% | 78% | 1.20 | -7% |
 | Doble oportunidad: 1X | 47% | 41% | 44% | 2.30 | +1% |
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
-| Goles más/menos: Más de 2.5 | 63% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
-| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 37% | 40% | 39% | 2.38 | -8% |
-| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -6% |
-| Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles más/menos: Más de 2.5 | 63% | 60% | 62% | 1.57 | -3% |
+| Goles más/menos: Más de 3.5 | 41% | 40% | 40% | 2.38 | -4% |
+| Goles más/menos: Más de 4.5 | 23% | 22% | 22% | 4.33 | -3% |
+| Goles más/menos: Menos de 2.5 | 37% | 40% | 38% | 2.38 | -9% |
+| Goles más/menos: Menos de 3.5 | 59% | 60% | 60% | 1.57 | -6% |
+| Goles más/menos: Menos de 4.5 | 77% | 78% | 78% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 58% | 58% | 1.62 | -5% |
-| Goles del local: Más de 0.5 | 72% | 65% | 68% | 1.44 | -2% |
-| Goles del local: Más de 1.5 ✅ | 37% | 29% | 33% | 3.25 | +7% |
-| Goles del local: Menos de 0.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 25% | 25% | 3.75 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 58% | 58% | 1.62 | -6% |
+| Goles del local: Más de 0.5 | 73% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 1.5 ✅ | 37% | 29% | 33% | 3.25 | +8% |
+| Goles del local: Menos de 0.5 | 27% | 35% | 31% | 2.62 | -18% |
 | Goles del local: Menos de 1.5 | 63% | 71% | 67% | 1.33 | -11% |
-| Goles del visitante: Más de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
-| Goles del visitante: Más de 2.5 | 31% | 35% | 33% | 2.62 | -13% |
+| Goles del visitante: Más de 1.5 | 58% | 62% | 60% | 1.50 | -9% |
+| Goles del visitante: Más de 2.5 | 31% | 35% | 33% | 2.62 | -12% |
 | Goles del visitante: Menos de 1.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del visitante: Menos de 2.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
+| Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
+| Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -0% |
 | 1X2 descanso: 2 | 40% | 45% | 42% | 2.05 | -13% |
-| 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
+| 1X2 descanso: X | 37% | 37% | 37% | 2.50 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

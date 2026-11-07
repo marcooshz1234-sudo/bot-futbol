@@ -1,7 +1,7 @@
 # Napoli – Lazio
 **Serie A** · Regular Season - 11 · 08/11/2026 12:30 (hora España) · Maradona Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -210,7 +210,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Adam Marušić | D | 2 | 109 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,58 · visitante 1,47 · córners esperados 9,5._
+_Goles esperados: local 1,59 · visitante 1,47 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -232,10 +232,10 @@ _Goles esperados: local 1,58 · visitante 1,47 · córners esperados 9,5._
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
-| Goles del local: Más de 0.5 | 79% | 78% | 79% | 1.20 | -5% |
+| Goles del local: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles del local: Más de 1.5 | 47% | 46% | 47% | 2.00 | -7% |
 | Goles del local: Más de 2.5 | 21% | 22% | 21% | 4.33 | -7% |
-| Goles del local: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -9% |
+| Goles del local: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles del local: Menos de 1.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles del local: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -6% |
 | Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |

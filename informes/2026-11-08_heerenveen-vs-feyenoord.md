@@ -1,7 +1,7 @@
 # Heerenveen – Feyenoord
 **Eredivisie** · Regular Season - 12 · 08/11/2026 12:15 (hora España) · Abe Lenstra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | J. Zinhagel | F | 2 | 44 | 1 | 0 | 3 | 1,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,14 · visitante 1,65 · córners esperados 9,5._
+_Goles esperados: local 1,14 · visitante 1,64 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -207,15 +207,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 45% | 34% | 39% | 2.75 | +8% |
 | Ambos marcan: Sí | 55% | 66% | 61% | 1.40 | -15% |
 | Goles más/menos: Más de 2.5 | 53% | 67% | 60% | 1.40 | -16% |
-| Goles más/menos: Más de 3.5 | 31% | 49% | 40% | 1.91 | -24% |
+| Goles más/menos: Más de 3.5 | 30% | 49% | 39% | 1.91 | -25% |
 | Goles más/menos: Más de 4.5 | 15% | 29% | 22% | 3.25 | -28% |
 | Goles más/menos: Menos de 2.5 | 47% | 33% | 40% | 2.88 | +15% |
-| Goles más/menos: Menos de 3.5 | 69% | 51% | 60% | 1.80 | +9% |
+| Goles más/menos: Menos de 3.5 | 70% | 51% | 61% | 1.80 | +9% |
 | Goles más/menos: Menos de 4.5 | 85% | 71% | 78% | 1.33 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 78% | 74% | 1.20 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 49% | 41% | 1.91 | -21% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 23% | 18% | 4.00 | -29% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 22% | 26% | 4.33 | +12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 51% | 59% | 1.80 | +6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles del local: Más de 0.5 | 68% | 73% | 71% | 1.28 | -10% |

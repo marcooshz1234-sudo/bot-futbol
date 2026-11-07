@@ -1,7 +1,7 @@
 # Vitória SC – FC Porto
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 19:00 (hora España) · Estádio D. Afonso Henriques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 28% | 19% | 23% | 5.00 | +16% |
 | Doble oportunidad: X2 | 72% | 81% | 77% | 1.17 | -10% |
 | Doble oportunidad: 12 | 72% | 78% | 75% | 1.22 | -9% |
-| Doble oportunidad: 1X | 56% | 41% | 48% | 2.30 | +12% |
+| Doble oportunidad: 1X | 56% | 41% | 49% | 2.30 | +12% |
 | Ambos marcan: No | 54% | 50% | 52% | 1.91 | -0% |
 | Ambos marcan: Sí | 46% | 50% | 48% | 1.91 | -9% |
 | Goles más/menos: Más de 1.5 | 67% | 75% | 71% | 1.25 | -11% |
@@ -210,19 +210,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 20% | 29% | 24% | 3.25 | -21% |
 | Goles más/menos: Menos de 1.5 | 33% | 25% | 29% | 3.75 | +9% |
 | Goles más/menos: Menos de 2.5 | 60% | 49% | 54% | 1.95 | +6% |
-| Goles más/menos: Menos de 3.5 | 80% | 71% | 76% | 1.33 | +0% |
+| Goles más/menos: Menos de 3.5 | 80% | 71% | 76% | 1.33 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 35% | 31% | 2.62 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Goles del local: Más de 0.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 1.5 | 26% | 23% | 24% | 4.00 | -2% |
+| Goles del local: Más de 1.5 | 26% | 23% | 25% | 4.00 | -2% |
 | Goles del local: Menos de 0.5 | 38% | 42% | 40% | 2.20 | -12% |
-| Goles del local: Menos de 1.5 | 74% | 77% | 76% | 1.22 | -8% |
+| Goles del local: Menos de 1.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles del visitante: Más de 1.5 | 38% | 54% | 46% | 1.73 | -21% |
-| Goles del visitante: Más de 2.5 | 15% | 28% | 21% | 3.40 | -28% |
+| Goles del visitante: Más de 2.5 | 14% | 28% | 21% | 3.40 | -28% |
 | Goles del visitante: Menos de 1.5 | 62% | 46% | 54% | 2.00 | +9% |
-| Goles del visitante: Menos de 2.5 | 85% | 72% | 79% | 1.30 | +3% |
+| Goles del visitante: Menos de 2.5 | 86% | 72% | 79% | 1.30 | +3% |
 | Córners más/menos: Más de 8.5 | 55% | 56% | 55% | 1.67 | -8% |
 | Córners más/menos: Menos de 8.5 | 45% | 44% | 45% | 2.10 | -6% |
 | 1X2 descanso: 2 | 32% | 42% | 37% | 2.20 | -19% |

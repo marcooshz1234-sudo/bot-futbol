@@ -1,7 +1,7 @@
 # Sporting Gijon – Valladolid
 **Segunda División** · Regular Season - 13 · 08/11/2026 18:30 (hora España) · El Molinón-Enrique Castro Quini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | M. Lachuer | M | 7 | 221 | 0 | 0 | 5 | 0,7 | 3 | 0,4 | 6 | 4 | 0,6 | 3 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,07 · córners esperados 9,0._
+_Goles esperados: local 1,34 · visitante 1,06 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

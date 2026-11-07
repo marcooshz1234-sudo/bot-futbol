@@ -1,7 +1,7 @@
 # Monza – Atalanta
 **Serie A** · Regular Season - 11 · 08/11/2026 15:00 (hora España) · Stadio Brianteo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -211,14 +211,14 @@ _Goles esperados: local 1,77 · visitante 1,46 · córners esperados 9,6._
 | 1X2: 2 | 32% | 45% | 39% | 2.10 | -19% |
 | 1X2: X | 23% | 27% | 25% | 3.60 | -11% |
 | 1X2: 1 ✅ | 45% | 28% | 37% | 3.40 | +24% |
-| Doble oportunidad: X2 | 55% | 72% | 63% | 1.30 | -17% |
+| Doble oportunidad: X2 | 55% | 72% | 63% | 1.30 | -18% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 68% | 55% | 62% | 1.70 | +5% |
 | Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
 | Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
 | Goles más/menos: Más de 2.5 | 63% | 62% | 62% | 1.53 | -5% |
 | Goles más/menos: Más de 3.5 | 40% | 41% | 41% | 2.30 | -6% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -7% |
+| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -8% |
 | Goles más/menos: Menos de 2.5 | 37% | 38% | 38% | 2.50 | -6% |
 | Goles más/menos: Menos de 3.5 | 60% | 59% | 59% | 1.62 | -4% |
 | Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
@@ -230,9 +230,9 @@ _Goles esperados: local 1,77 · visitante 1,46 · córners esperados 9,6._
 | Goles del local: Más de 1.5 | 53% | 41% | 47% | 2.25 | +6% |
 | Goles del local: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -21% |
 | Goles del local: Menos de 1.5 | 47% | 59% | 53% | 1.57 | -17% |
-| Goles del visitante: Más de 1.5 | 43% | 54% | 48% | 1.73 | -16% |
+| Goles del visitante: Más de 1.5 | 43% | 54% | 48% | 1.73 | -17% |
 | Goles del visitante: Más de 2.5 | 18% | 28% | 23% | 3.40 | -22% |
-| Goles del visitante: Menos de 1.5 | 57% | 46% | 52% | 2.00 | +3% |
+| Goles del visitante: Menos de 1.5 | 57% | 46% | 52% | 2.00 | +4% |
 | Goles del visitante: Menos de 2.5 | 82% | 72% | 77% | 1.30 | +0% |
 | Córners más/menos: Más de 9.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Córners más/menos: Menos de 9.5 | 54% | 56% | 55% | 1.67 | -8% |

@@ -1,7 +1,7 @@
 # Santa Clara – GIL Vicente
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estádio de São Miguel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -192,7 +192,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 28% | 28% | 3.40 | -5% |
+| 1X2: 2 | 28% | 28% | 28% | 3.40 | -6% |
 | 1X2: X | 32% | 30% | 31% | 3.10 | -3% |
 | 1X2: 1 | 40% | 42% | 41% | 2.25 | -8% |
 | Doble oportunidad: X2 | 60% | 58% | 59% | 1.62 | -4% |
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 36% | 45% | 41% | 2.05 | -17% |
 | Goles más/menos: Más de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
 | Goles más/menos: Más de 2.5 | 28% | 38% | 33% | 2.50 | -18% |
-| Goles más/menos: Menos de 1.5 | 45% | 35% | 40% | 2.62 | +5% |
+| Goles más/menos: Menos de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
 | Goles más/menos: Menos de 2.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 55% | 61% | 58% | 1.53 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 19% | 27% | 23% | 3.50 | -20% |
@@ -212,13 +212,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
 | Goles del local: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
 | Goles del local: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
-| Goles del visitante: Más de 0.5 | 56% | 61% | 58% | 1.53 | -11% |
+| Goles del visitante: Más de 0.5 | 55% | 61% | 58% | 1.53 | -11% |
 | Goles del visitante: Más de 1.5 | 19% | 25% | 22% | 3.75 | -17% |
-| Goles del visitante: Menos de 0.5 | 44% | 39% | 42% | 2.38 | -1% |
+| Goles del visitante: Menos de 0.5 | 45% | 39% | 42% | 2.38 | -0% |
 | Goles del visitante: Menos de 1.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Córners más/menos: Más de 8.5 | 49% | 51% | 50% | 1.80 | -10% |
 | Córners más/menos: Menos de 8.5 | 51% | 49% | 50% | 1.91 | -5% |
-| 1X2 descanso: 2 | 20% | 21% | 21% | 4.33 | -9% |
+| 1X2 descanso: 2 | 20% | 21% | 21% | 4.33 | -10% |
 | 1X2 descanso: X | 52% | 48% | 50% | 1.95 | -3% |
 | 1X2 descanso: 1 | 27% | 31% | 29% | 3.00 | -13% |
 

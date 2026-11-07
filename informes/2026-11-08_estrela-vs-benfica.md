@@ -1,7 +1,7 @@
 # Estrela – Benfica
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España) · Estadio Jose Gomes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:46_
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 10% | 9% | 9% | 10.00 | -5% |
 | Doble oportunidad: X2 | 90% | 90% | 90% | 1.06 | -4% |
 | Doble oportunidad: 12 | 86% | 84% | 85% | 1.14 | -3% |
-| Doble oportunidad: 1X | 24% | 26% | 25% | 3.75 | -8% |
+| Doble oportunidad: 1X | 24% | 26% | 25% | 3.75 | -7% |
 | Ambos marcan: No | 44% | 48% | 46% | 1.95 | -10% |
 | Ambos marcan: Sí | 56% | 52% | 54% | 1.80 | -3% |
 | Goles más/menos: Más de 2.5 | 71% | 65% | 68% | 1.44 | -2% |

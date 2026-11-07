@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 07/11/2026 17:46 (hora España)._
+_Actualizado el 07/11/2026 19:50 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -11,22 +11,13 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
-| 15:00 | [Cagliari – Frosinone](informes/2026-11-07_cagliari-vs-frosinone.md) | 1X2: 2 | 2.50 | 48% | 38% | 43% | **+7%** |
-| 15:30 | [Borussia Dortmund – SV Elversberg](informes/2026-11-07_borussia-dortmund-vs-sv-elversberg.md) | Goles del local: Menos de 1.5 | 3.75 | 39% | 25% | 32% | **+21%** |
-| 15:30 | [Borussia Dortmund – SV Elversberg](informes/2026-11-07_borussia-dortmund-vs-sv-elversberg.md) | Doble oportunidad: X2 | 3.40 | 38% | 28% | 33% | **+12%** |
-| 15:30 | [RB Leipzig – FC Augsburg](informes/2026-11-07_rb-leipzig-vs-fc-augsburg.md) | Goles más/menos: Más de 4.5 | 2.62 | 50% | 36% | 43% | **+13%** |
-| 15:30 | [RB Leipzig – FC Augsburg](informes/2026-11-07_rb-leipzig-vs-fc-augsburg.md) | Goles del visitante: Más de 1.5 | 2.38 | 51% | 39% | 45% | **+7%** |
-| 16:00 | [Arsenal – Hull City](informes/2026-11-07_arsenal-vs-hull-city.md) | Goles del local: Menos de 1.5 | 3.75 | 47% | 25% | 36% | **+36%** |
-| 16:00 | [Arsenal – Hull City](informes/2026-11-07_arsenal-vs-hull-city.md) | Goles más/menos: Menos de 2.5 | 2.50 | 60% | 38% | 49% | **+23%** |
-| 16:15 | [Espanyol – Deportivo La Coruna](informes/2026-11-07_espanyol-vs-deportivo-la-coruna.md) | Goles del local: Menos de 0.5 | 3.75 | 36% | 25% | 31% | **+15%** |
-| 16:15 | [Espanyol – Deportivo La Coruna](informes/2026-11-07_espanyol-vs-deportivo-la-coruna.md) | 1X2: 2 | 3.20 | 39% | 30% | 34% | **+10%** |
 | 18:00 | [Parma – Bologna](informes/2026-11-07_parma-vs-bologna.md) | Goles más/menos: Menos de 1.5 | 3.20 | 37% | 30% | 33% | **+7%** |
-| 18:30 | [Osasuna – Athletic Club](informes/2026-11-07_osasuna-vs-athletic-club.md) | Goles más/menos: Más de 3.5 | 3.75 | 37% | 25% | 31% | **+17%** |
+| 18:30 | [Osasuna – Athletic Club](informes/2026-11-07_osasuna-vs-athletic-club.md) | Goles más/menos: Más de 3.5 | 3.75 | 37% | 25% | 31% | **+18%** |
 | 18:30 | [Osasuna – Athletic Club](informes/2026-11-07_osasuna-vs-athletic-club.md) | Goles 1ª parte más/menos: Más de 1.5 | 3.25 | 39% | 29% | 34% | **+10%** |
-| 18:30 | [VfB Stuttgart – Werder Bremen](informes/2026-11-07_vfb-stuttgart-vs-werder-bremen.md) | 1X2: 2 | 3.50 | 35% | 27% | 31% | **+8%** |
+| 18:30 | [VfB Stuttgart – Werder Bremen](informes/2026-11-07_vfb-stuttgart-vs-werder-bremen.md) | 1X2: 2 | 3.50 | 34% | 27% | 31% | **+8%** |
 | 19:00 | [Auxerre – Paris FC](informes/2026-11-07_auxerre-vs-paris-fc.md) | Goles del visitante: Más de 2.5 | 3.25 | 38% | 29% | 34% | **+9%** |
 | 20:45 | [AS Roma – Sassuolo](informes/2026-11-07_as-roma-vs-sassuolo.md) | Goles más/menos: Más de 4.5 | 3.40 | 38% | 28% | 33% | **+13%** |
-| 21:00 | [Valencia – Real Madrid](informes/2026-11-07_valencia-vs-real-madrid.md) | Goles del visitante: Menos de 1.5 | 3.40 | 36% | 28% | 32% | **+9%** |
+| 21:00 | [Valencia – Real Madrid](informes/2026-11-07_valencia-vs-real-madrid.md) | Goles del visitante: Menos de 1.5 | 3.40 | 36% | 28% | 32% | **+8%** |
 | 21:00 | [Valencia – Real Madrid](informes/2026-11-07_valencia-vs-real-madrid.md) | Goles más/menos: Menos de 2.5 | 2.62 | 46% | 36% | 41% | **+8%** |
 | 21:05 | [Paris Saint Germain – Estac Troyes](informes/2026-11-07_paris-saint-germain-vs-estac-troyes.md) | Goles más/menos: Más de 4.5 | 3.00 | 41% | 32% | 37% | **+10%** |
 | 21:05 | [Paris Saint Germain – Estac Troyes](informes/2026-11-07_paris-saint-germain-vs-estac-troyes.md) | Goles del local: Más de 3.5 | 2.62 | 47% | 35% | 41% | **+8%** |
@@ -35,13 +26,13 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
-| 14:00 | [Elche – Real Betis](informes/2026-11-08_elche-vs-real-betis.md) | 1X2: 1 | 3.50 | 34% | 27% | 30% | **+7%** |
-| 15:00 | [Ipswich – Bournemouth](informes/2026-11-08_ipswich-vs-bournemouth.md) | Goles del visitante: Más de 2.5 | 3.50 | 43% | 27% | 35% | **+23%** |
+| 14:00 | [Elche – Real Betis](informes/2026-11-08_elche-vs-real-betis.md) | 1X2: 1 | 3.50 | 34% | 27% | 31% | **+7%** |
+| 15:00 | [Ipswich – Bournemouth](informes/2026-11-08_ipswich-vs-bournemouth.md) | Goles del visitante: Más de 2.5 | 3.50 | 44% | 27% | 35% | **+23%** |
 | 15:00 | [Ipswich – Bournemouth](informes/2026-11-08_ipswich-vs-bournemouth.md) | Goles más/menos: Más de 3.5 | 2.75 | 48% | 34% | 41% | **+13%** |
-| 15:00 | [Crystal Palace – Liverpool](informes/2026-11-08_crystal-palace-vs-liverpool.md) | Goles del local: Más de 1.5 | 3.25 | 37% | 29% | 33% | **+7%** |
+| 15:00 | [Crystal Palace – Liverpool](informes/2026-11-08_crystal-palace-vs-liverpool.md) | Goles del local: Más de 1.5 | 3.25 | 37% | 29% | 33% | **+8%** |
 | 15:00 | [Monza – Atalanta](informes/2026-11-08_monza-vs-atalanta.md) | 1X2: 1 | 3.40 | 45% | 28% | 37% | **+24%** |
 | 15:00 | [Monza – Atalanta](informes/2026-11-08_monza-vs-atalanta.md) | 1X2 descanso: 1 | 3.50 | 35% | 26% | 31% | **+7%** |
-| 15:00 | [Sunderland – Chelsea](informes/2026-11-08_sunderland-vs-chelsea.md) | Goles más/menos: Más de 3.5 | 3.00 | 47% | 32% | 39% | **+18%** |
+| 15:00 | [Sunderland – Chelsea](informes/2026-11-08_sunderland-vs-chelsea.md) | Goles más/menos: Más de 3.5 | 3.00 | 47% | 32% | 40% | **+19%** |
 | 15:00 | [Sunderland – Chelsea](informes/2026-11-08_sunderland-vs-chelsea.md) | Goles del local: Más de 1.5 | 3.00 | 44% | 31% | 38% | **+13%** |
 | 15:30 | [1. FC Köln – Bayer Leverkusen](informes/2026-11-08_1-fc-koln-vs-bayer-leverkusen.md) | Goles más/menos: Menos de 2.5 | 3.00 | 43% | 32% | 37% | **+12%** |
 | 15:30 | [1. FC Köln – Bayer Leverkusen](informes/2026-11-08_1-fc-koln-vs-bayer-leverkusen.md) | Goles del visitante: Menos de 1.5 | 2.50 | 49% | 38% | 43% | **+8%** |

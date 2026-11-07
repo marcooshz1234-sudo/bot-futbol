@@ -1,7 +1,7 @@
 # Anaitasuna – Alaves
 **Copa del Rey** · Round of 128 · 10/11/2026 19:00 (hora España) · Campo Txerloia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

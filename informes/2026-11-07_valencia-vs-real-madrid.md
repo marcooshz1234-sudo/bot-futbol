@@ -1,7 +1,7 @@
 # Valencia – Real Madrid
 **LaLiga** · Regular Season - 12 · 07/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:44_
@@ -208,7 +208,7 @@ _Sin bajas comunicadas por ahora._
 | Éder Militão | D | 2 | 100 | 0 | 0 | 2 | 1,0 | 1 | 0,5 | 1 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,67 · visitante 2,17 · córners esperados 9,6._
+_Goles esperados: local 0,67 · visitante 2,18 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -222,10 +222,10 @@ _Goles esperados: local 0,67 · visitante 2,17 · córners esperados 9,6._
 | Ambos marcan: Sí | 43% | 52% | 48% | 1.80 | -14% |
 | Goles más/menos: Más de 2.5 | 54% | 64% | 59% | 1.50 | -12% |
 | Goles más/menos: Más de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
-| Goles más/menos: Más de 4.5 | 16% | 25% | 21% | 3.75 | -23% |
+| Goles más/menos: Más de 4.5 | 16% | 25% | 21% | 3.75 | -22% |
 | Goles más/menos: Menos de 2.5 ✅ | 46% | 36% | 41% | 2.62 | +8% |
 | Goles más/menos: Menos de 3.5 | 68% | 57% | 63% | 1.67 | +4% |
-| Goles más/menos: Menos de 4.5 | 84% | 75% | 79% | 1.28 | +2% |
+| Goles más/menos: Menos de 4.5 | 84% | 75% | 79% | 1.28 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 46% | 41% | 2.00 | -19% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
@@ -233,15 +233,15 @@ _Goles esperados: local 0,67 · visitante 2,17 · córners esperados 9,6._
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
 | Goles del local: Más de 0.5 | 49% | 56% | 52% | 1.67 | -13% |
-| Goles del local: Más de 1.5 | 15% | 21% | 18% | 4.50 | -21% |
+| Goles del local: Más de 1.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles del local: Menos de 0.5 | 51% | 44% | 48% | 2.10 | +0% |
 | Goles del local: Menos de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del visitante: Más de 1.5 | 64% | 72% | 68% | 1.30 | -11% |
 | Goles del visitante: Más de 2.5 | 37% | 49% | 43% | 1.91 | -18% |
-| Goles del visitante: Más de 3.5 | 17% | 28% | 23% | 3.40 | -23% |
-| Goles del visitante: Menos de 1.5 ✅ | 36% | 28% | 32% | 3.40 | +9% |
+| Goles del visitante: Más de 3.5 | 18% | 28% | 23% | 3.40 | -23% |
+| Goles del visitante: Menos de 1.5 ✅ | 36% | 28% | 32% | 3.40 | +8% |
 | Goles del visitante: Menos de 2.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles del visitante: Menos de 3.5 | 83% | 72% | 77% | 1.30 | +1% |
+| Goles del visitante: Menos de 3.5 | 82% | 72% | 77% | 1.30 | +1% |
 | Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
 | 1X2 descanso: 2 | 51% | 57% | 54% | 1.62 | -12% |

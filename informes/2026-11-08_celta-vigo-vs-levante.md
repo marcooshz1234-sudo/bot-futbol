@@ -1,7 +1,7 @@
 # Celta Vigo – Levante
 **LaLiga** · Regular Season - 12 · 08/11/2026 18:30 (hora España) · Municipal de Balaídos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -199,7 +199,7 @@ _Sin bajas comunicadas por ahora._
 | Hugo Sotelo | M | 4 | 99 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,13 · visitante 1,09 · córners esperados 8,8._
+_Goles esperados: local 1,14 · visitante 1,09 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -213,18 +213,18 @@ _Goles esperados: local 1,13 · visitante 1,09 · córners esperados 8,8._
 | Ambos marcan: Sí | 45% | 53% | 49% | 1.75 | -14% |
 | Goles más/menos: Más de 1.5 | 65% | 75% | 70% | 1.28 | -11% |
 | Goles más/menos: Más de 2.5 | 38% | 50% | 44% | 1.91 | -16% |
-| Goles más/menos: Más de 3.5 | 18% | 28% | 23% | 3.40 | -21% |
+| Goles más/menos: Más de 3.5 | 19% | 28% | 23% | 3.40 | -21% |
 | Goles más/menos: Menos de 1.5 ✅ | 35% | 25% | 30% | 3.75 | +13% |
 | Goles más/menos: Menos de 2.5 | 62% | 50% | 56% | 1.91 | +7% |
-| Goles más/menos: Menos de 3.5 | 82% | 72% | 77% | 1.33 | +2% |
+| Goles más/menos: Menos de 3.5 | 81% | 72% | 77% | 1.33 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| Goles del local: Más de 0.5 | 68% | 79% | 73% | 1.18 | -13% |
+| Goles del local: Más de 0.5 | 68% | 79% | 74% | 1.18 | -13% |
 | Goles del local: Más de 1.5 | 31% | 50% | 41% | 1.83 | -26% |
 | Goles del local: Más de 2.5 | 11% | 25% | 18% | 3.75 | -33% |
-| Goles del local: Menos de 0.5 | 32% | 21% | 27% | 4.50 | +19% |
+| Goles del local: Menos de 0.5 | 32% | 21% | 26% | 4.50 | +19% |
 | Goles del local: Menos de 1.5 ✅ | 69% | 50% | 59% | 1.83 | +9% |
 | Goles del local: Menos de 2.5 | 89% | 75% | 82% | 1.25 | +3% |
 | Goles del visitante: Más de 0.5 | 66% | 62% | 64% | 1.50 | -3% |
@@ -234,7 +234,7 @@ _Goles esperados: local 1,13 · visitante 1,09 · córners esperados 8,8._
 | Córners más/menos: Más de 8.5 | 48% | 49% | 48% | 1.91 | -8% |
 | Córners más/menos: Menos de 8.5 | 52% | 51% | 52% | 1.80 | -7% |
 | 1X2 descanso: 2 | 26% | 21% | 23% | 4.50 | +4% |
-| 1X2 descanso: X | 48% | 41% | 44% | 2.25 | -0% |
-| 1X2 descanso: 1 | 27% | 38% | 33% | 2.40 | -22% |
+| 1X2 descanso: X | 47% | 41% | 44% | 2.25 | -0% |
+| 1X2 descanso: 1 | 27% | 38% | 33% | 2.40 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

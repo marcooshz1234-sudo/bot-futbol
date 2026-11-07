@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:46_
@@ -213,9 +213,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -4% |
 | Goles del local: Menos de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
 | Goles del local: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
-| Goles del visitante: Más de 0.5 | 59% | 58% | 58% | 1.62 | -6% |
+| Goles del visitante: Más de 0.5 | 58% | 58% | 58% | 1.62 | -6% |
 | Goles del visitante: Más de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles del visitante: Menos de 0.5 | 41% | 42% | 42% | 2.20 | -8% |
+| Goles del visitante: Menos de 0.5 | 42% | 42% | 42% | 2.20 | -8% |
 | Goles del visitante: Menos de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
 | Córners más/menos: Más de 9.5 | 47% | 49% | 48% | 1.91 | -9% |
 | Córners más/menos: Menos de 9.5 | 53% | 51% | 52% | 1.80 | -6% |

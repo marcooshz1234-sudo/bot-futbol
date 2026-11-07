@@ -1,7 +1,7 @@
 # Fiorentina – Juventus
 **Serie A** · Regular Season - 11 · 08/11/2026 20:45 (hora España) · Stadio Artemio Franchi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -219,10 +219,10 @@ _Goles esperados: local 1,12 · visitante 1,48 · córners esperados 9,3._
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 1.5 | 73% | 76% | 75% | 1.25 | -7% |
 | Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -9% |
-| Goles más/menos: Más de 3.5 | 27% | 32% | 29% | 3.00 | -12% |
+| Goles más/menos: Más de 3.5 | 26% | 32% | 29% | 3.00 | -13% |
 | Goles más/menos: Menos de 1.5 | 27% | 24% | 25% | 4.00 | +1% |
 | Goles más/menos: Menos de 2.5 | 52% | 47% | 50% | 2.00 | -1% |
-| Goles más/menos: Menos de 3.5 | 73% | 68% | 71% | 1.40 | -1% |
+| Goles más/menos: Menos de 3.5 | 74% | 68% | 71% | 1.40 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 29% | 31% | 3.25 | -0% |

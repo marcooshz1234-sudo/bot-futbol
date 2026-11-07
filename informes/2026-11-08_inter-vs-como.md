@@ -1,7 +1,7 @@
 # Inter – Como
 **Serie A** · Regular Season - 11 · 08/11/2026 18:00 (hora España) · San Siro/Giuseppe Meazza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -219,12 +219,12 @@ _Goles esperados: local 1,79 · visitante 1,64 · córners esperados 9,7._
 | Doble oportunidad: X2 | 58% | 49% | 54% | 1.91 | +2% |
 | Doble oportunidad: 12 | 78% | 78% | 78% | 1.20 | -7% |
 | Doble oportunidad: 1X | 64% | 73% | 69% | 1.28 | -12% |
-| Ambos marcan: No | 33% | 35% | 34% | 2.62 | -11% |
+| Ambos marcan: No | 33% | 35% | 34% | 2.62 | -10% |
 | Ambos marcan: Sí | 67% | 65% | 66% | 1.44 | -5% |
 | Goles más/menos: Más de 2.5 | 67% | 64% | 65% | 1.50 | -2% |
 | Goles más/menos: Más de 3.5 | 45% | 43% | 44% | 2.20 | -3% |
 | Goles más/menos: Más de 4.5 | 26% | 25% | 26% | 3.75 | -3% |
-| Goles más/menos: Menos de 2.5 | 33% | 36% | 35% | 2.62 | -9% |
+| Goles más/menos: Menos de 2.5 | 33% | 36% | 35% | 2.62 | -8% |
 | Goles más/menos: Menos de 3.5 | 55% | 57% | 56% | 1.67 | -6% |
 | Goles más/menos: Menos de 4.5 | 74% | 75% | 74% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |

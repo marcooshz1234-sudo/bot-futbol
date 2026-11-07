@@ -1,15 +1,15 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 470 · aciertos: 289 (61%) · beneficio a 1 € por pick: -63.64 €
+Picks ya jugados: 487 · aciertos: 301 (62%) · beneficio a 1 € por pick: -62.09 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 94 | 148 | 64% | -20.05 € |
-| goles | 129 | 204 | 63% | -24.98 € |
-| resultado | 50 | 81 | 62% | -8.05 € |
-| tarjetas | 8 | 13 | 62% | -0.33 € |
+| jugador | 98 | 154 | 64% | -20.13 € |
+| goles | 130 | 205 | 63% | -24.68 € |
+| resultado | 56 | 89 | 63% | -6.52 € |
+| tarjetas | 9 | 15 | 60% | -0.53 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 2 | 11 | 18% | -7.76 € |
 | fueras de juego | 0 | 1 | 0% | -1.00 € |
@@ -19,35 +19,35 @@ Picks ya jugados: 470 · aciertos: 289 (61%) · beneficio a 1 € por pick: -63.
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| To Win Either Half · Home | 5 | 5 | 100% |
+| To Win Either Half · Home | 6 | 6 | 100% |
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
-| Match Winner · Away | 6 | 7 | 86% |
-| Goals Over/Under · Over 1.5 | 22 | 29 | 76% |
-| Match Winner · Home | 6 | 8 | 75% |
+| Double Chance · Home/Draw | 7 | 9 | 78% |
+| Match Winner · Home | 7 | 9 | 78% |
+| Goals Over/Under · Over 1.5 | 23 | 30 | 77% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
-| Double Chance · Home/Draw | 5 | 7 | 71% |
+| Match Winner · Away | 6 | 8 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 30 | 44 | 68% |
+| Home Team Total Cards · Over 1.5 | 6 | 9 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
-| Home Team Total Cards · Over 1.5 | 5 | 8 | 62% |
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Away · Over 0.5 | 27 | 46 | 59% |
-| To Win Either Half · Away | 4 | 8 | 50% |
+| To Win Either Half · Away | 5 | 10 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
+| Double Chance · Draw/Away | 8 | 23 | 35% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
-| Double Chance · Draw/Away | 7 | 22 | 32% |
 
 ## Últimos días
 
-### 2026-11-07 · 9/19
+### 2026-11-07 · 21/36
 - ✅ Leeds o empate · 1.44 (1-0)
 - ❌ Tottenham o empate · 1.50 (1-0)
 - ❌ Más de 1,5 goles en Leeds–Tottenham · 1.30 (1-0)
@@ -67,6 +67,23 @@ Picks ya jugados: 470 · aciertos: 289 (61%) · beneficio a 1 € por pick: -63.
 - ❌ Tom Bischof comete 1+ faltas · 1.33 (1-2)
 - ✅ Dayot Upamecano comete 1+ faltas · 1.50 (1-2)
 - ✅ Fabian Rieder comete 1+ faltas · 1.30 (5-2)
+- ❌ Southampton gana alguna de las dos partes · 1.30 (1-0)
+- ❌ Gana el Southampton · 1.67 (1-0)
+- ✅ West Brom o empate · 1.28 (3-0)
+- ❌ Calvin Bassey comete 1+ faltas · 1.40 (1-1)
+- ✅ Nico Gonzalez comete 2+ faltas · 1.67 (1-1)
+- ✅ Jack Moylan: 1+ tiros a puerta · 1.33 (5-4)
+- ❌ Arsenal ve más de 0,5 tarjetas · 1.53 (1-0)
+- ✅ Gabriel Magalhaes comete 1+ faltas · 1.67 (1-0)
+- ❌ Camiel Neghli: 1+ tiros · 1.30 (3-0)
+- ✅ QPR ve más de 1,5 tarjetas · 1.80 (2-1)
+- ✅ Cardiff gana alguna de las dos partes · 1.50 (5-4)
+- ✅ Deportivo La Coruna o empate · 1.67 (0-0)
+- ✅ Mikel Goti: 1+ tiros · 1.25 (1-2)
+- ✅ Más de 1,5 goles en Cadiz–Oviedo · 1.30 (1-2)
+- ✅ Oviedo gana alguna de las dos partes · 1.80 (1-2)
+- ✅ Fortuna Sittard o empate · 1.28 (2-2)
+- ✅ Gana el Fortuna Sittard · 2.00 (2-2)
 
 ### 2026-11-06 · 6/12
 - ❌ Florian Neuhaus comete 1+ faltas · 1.33 (3-1)

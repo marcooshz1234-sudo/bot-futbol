@@ -1,7 +1,7 @@
 # Lens – Marseille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 17:46._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 07/11 17:45_
@@ -207,7 +207,7 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,97 · visitante 1,91 · córners esperados 9,5._
+_Goles esperados: local 1,97 · visitante 1,90 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@ _Goles esperados: local 1,97 · visitante 1,91 · córners esperados 9,5._
 | Goles del local: Menos de 2.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles del visitante: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles del visitante: Más de 1.5 | 57% | 46% | 52% | 2.00 | +3% |
-| Goles del visitante: Más de 2.5 | 30% | 22% | 26% | 4.33 | +12% |
+| Goles del visitante: Más de 2.5 | 30% | 22% | 26% | 4.33 | +11% |
 | Goles del visitante: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -21% |
 | Goles del visitante: Menos de 1.5 | 43% | 54% | 48% | 1.73 | -16% |
 | Goles del visitante: Menos de 2.5 | 70% | 78% | 74% | 1.20 | -11% |
