@@ -9304,16 +9304,157 @@
    "equipos": {}
   },
   "1552811": {
-   "hora": "2026-11-07T17:51:36.640658+01:00",
+   "hora": "2026-11-07T18:04:20.956686+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570448": {
-   "hora": "2026-11-07T17:51:36.640658+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T18:04:20.956686+01:00",
+   "xi": [
+    "Aitor Fernández",
+    "V. Rosier",
+    "Catena",
+    "F. Boyomo",
+    "Abel Bretones",
+    "Moncayola",
+    "Lucas Torró",
+    "Moi Gómez",
+    "Rubén García",
+    "A. Budimir",
+    "Raul Moro",
+    "Unai Simón",
+    "Hugo Rincón",
+    "Dani Vivian",
+    "Aymeric Laporte",
+    "Yuri",
+    "Beñat Gerenabarrena",
+    "Peio Canales",
+    "Álex Berenguer",
+    "Robert Navarro",
+    "Nico Williams",
+    "I. Williams"
+   ],
+   "banquillo": [
+    "Kike Barja",
+    "Íñigo Arguibide",
+    "Jonathan Dubasin",
+    "Mauro Echegoyen",
+    "Raúl García",
+    "Sergio Herrera",
+    "Iker Muñoz",
+    "Asier Osambela",
+    "Rafa Fernández",
+    "Diego Rico",
+    "U. Santos",
+    "R. Yeboah",
+    "Jesús Areso",
+    "Jesús Vizcay Hurtado",
+    "Oihan Sancet",
+    "Ruíz de Galarreta",
+    "Alejandro Rego",
+    "Beñat Prados",
+    "Álex Padilla",
+    "J. Louis-Jean",
+    "Mikel Jauregizar",
+    "Álvaro Djaló",
+    "Yeray",
+    "Christian Imga"
+   ],
+   "equipos": {
+    "727": [
+     {
+      "n": "Aitor Fernández",
+      "pos": "G"
+     },
+     {
+      "n": "V. Rosier",
+      "pos": "D"
+     },
+     {
+      "n": "Catena",
+      "pos": "D"
+     },
+     {
+      "n": "F. Boyomo",
+      "pos": "D"
+     },
+     {
+      "n": "Abel Bretones",
+      "pos": "D"
+     },
+     {
+      "n": "Moncayola",
+      "pos": "M"
+     },
+     {
+      "n": "Lucas Torró",
+      "pos": "M"
+     },
+     {
+      "n": "Moi Gómez",
+      "pos": "M"
+     },
+     {
+      "n": "Rubén García",
+      "pos": "F"
+     },
+     {
+      "n": "A. Budimir",
+      "pos": "F"
+     },
+     {
+      "n": "Raul Moro",
+      "pos": "F"
+     }
+    ],
+    "531": [
+     {
+      "n": "Unai Simón",
+      "pos": "G"
+     },
+     {
+      "n": "Hugo Rincón",
+      "pos": "D"
+     },
+     {
+      "n": "Dani Vivian",
+      "pos": "D"
+     },
+     {
+      "n": "Aymeric Laporte",
+      "pos": "D"
+     },
+     {
+      "n": "Yuri",
+      "pos": "D"
+     },
+     {
+      "n": "Beñat Gerenabarrena",
+      "pos": "M"
+     },
+     {
+      "n": "Peio Canales",
+      "pos": "M"
+     },
+     {
+      "n": "Álex Berenguer",
+      "pos": "M"
+     },
+     {
+      "n": "Robert Navarro",
+      "pos": "M"
+     },
+     {
+      "n": "Nico Williams",
+      "pos": "M"
+     },
+     {
+      "n": "I. Williams",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07 17:54",
+ "actualizado": "2026-11-07 18:04",
  "redes": {
   "instagram": {
    "seguidores": 32,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2093,
-   "hoy": 89,
+   "seguidores": 2092,
+   "hoy": 88,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2093
+    2092
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2428,
- "total_hoy": 103,
+ "total": 2427,
+ "total_hoy": 102,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:55",
+  "hora": "20:10",
   "dia": "2026-11-07",
-  "titulo": "Combi Osasuna vs Athletic Club"
+  "titulo": "Combi As Roma vs Sassuolo"
  },
  "ayer": {
   "aciertos": 6,
@@ -162,19 +162,19 @@
   },
   "2026-11-07": {
    "instagram": 32,
-   "threads": 2093,
+   "threads": 2092,
    "facebook": 1,
    "telegram": 302
   }
  },
  "tipos_instagram": {
-  "Combi loca (reel)": {
-   "posts": 44,
+  "Combi de partido (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi de partido (reel)": {
-   "posts": 5,
+  "Combi loca (reel)": {
+   "posts": 43,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
