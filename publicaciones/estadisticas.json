@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07 13:31",
+ "actualizado": "2026-11-07 13:42",
  "redes": {
   "instagram": {
-   "seguidores": 30,
-   "hoy": 3,
+   "seguidores": 31,
+   "hoy": 4,
    "serie": [
     21,
     22,
@@ -11,12 +11,12 @@
     24,
     25,
     27,
-    30
+    31
    ]
   },
   "threads": {
-   "seguidores": 2060,
-   "hoy": 56,
+   "seguidores": 2062,
+   "hoy": 58,
    "serie": [
     1407,
     1430,
@@ -24,7 +24,7 @@
     1638,
     1906,
     2004,
-    2060
+    2062
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2387,
- "total_hoy": 62,
+ "total": 2390,
+ "total_hoy": 65,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:40",
+  "hora": "14:10",
   "dia": "2026-11-07",
-  "titulo": "Combi Borussia Dortmund vs Sv Elversbe"
+  "titulo": "Combi Arsenal vs Hull City"
  },
  "ayer": {
   "aciertos": 6,
@@ -161,15 +161,15 @@
    "telegram": 294
   },
   "2026-11-07": {
-   "instagram": 30,
-   "threads": 2060,
+   "instagram": 31,
+   "threads": 2062,
    "facebook": 0,
    "telegram": 297
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 42,
+   "posts": 43,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -189,7 +189,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
