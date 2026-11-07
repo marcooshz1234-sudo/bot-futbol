@@ -6942,8 +6942,22 @@
   "1552218": [],
   "1552815": [],
   "1575543": [],
-  "1552221": []
+  "1552221": [],
+  "1550193": [
+   {
+    "equipo": 487,
+    "jugador": "Patric",
+    "tipo": "Missing Fixture",
+    "motivo": "Sprained Ankle"
+   },
+   {
+    "equipo": 492,
+    "jugador": "A. Buongiorno",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   }
+  ]
  },
- "ultima": "2026-11-07T06:15:54.469783+01:00",
+ "ultima": "2026-11-07T06:51:04.182285+01:00",
  "avisados": []
 }
