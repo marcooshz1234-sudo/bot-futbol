@@ -23,6 +23,7 @@
   "2026-11-05-combi-partido-1636229|Alexander Bah: 1+ tiros",
   "2026-11-05-combi-partido-1636254|Adam Hlozek comete 1+ faltas",
   "2026-11-05-lista-europa-1|Alexander Bah: 1+ tiros",
+  "2026-11-07-combi-500|Ermedin Demirovic: 1+ tiros a puerta",
   "2026-11-07-combi-500|Mohamed Belloumi comete 1+ faltas",
   "2026-11-07-combi-500|Rafiki Said: 2+ tiros",
   "2026-11-07-estrella-1557457|Mohamed Belloumi: 1+ tiros",
@@ -168,6 +169,7 @@
   "clave|2026-11-05-marcos-dieces-favoritos|1636465|Match Winner|Home|Etienne Camara",
   "clave|2026-11-06-ganadores-win|1552216|Match Winner|Away|Thijs Oosting",
   "clave|2026-11-06-ganadores-win|1575539|Match Winner|Home|Marcos Peña",
+  "clave|2026-11-07-combi-500|1575214|Home Player Shots On Target Total|Ermedin Demirovic - 1|A. Stiller",
   "clave|2026-11-07-combi-multi|1563260|Total - Home|Over 0.5|H. Kyprianou",
   "clave|2026-11-07-combi-multi|1563260|Total - Home|Over 0.5|M. Boadu",
   "clave|2026-11-07-combi-partido-1557457|1557457|Total - Home|Over 1.5|E. Eze",
@@ -182,6 +184,7 @@
   "clave|2026-11-07-ganadores-win-2|1563252|Match Winner|Away|Pablo",
   "clave|2026-11-07-ganadores-win-2|1563260|Match Winner|Away|W. Lankshear",
   "clave|2026-11-07-ganadores-win-2|1570004|Match Winner|Home|David González",
+  "clave|2026-11-07-ganadores-win-2|1575214|Match Winner|Home|A. Stiller",
   "clave|2026-11-07-ganadores-win|1557457|Match Winner|Home|E. Eze",
   "clave|2026-11-07-ganadores-win|1557457|Match Winner|Home|V. Gyökeres",
   "clave|2026-11-07-ganadores-win|1575212|Match Winner|Home|S. Guirassy",
@@ -9280,28 +9283,577 @@
    }
   },
   "1575214": {
-   "hora": "2026-11-07T17:58:33.208307+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T18:09:46.292328+01:00",
+   "xi": [
+    "D. Seimen",
+    "L. Jaquez",
+    "J. Chabot",
+    "R. Hendriks",
+    "J. Leweling",
+    "Y. Spalt",
+    "G. Prömel",
+    "M. Mittelstädt",
+    "B. El Khannouss",
+    "C. Führich",
+    "D. Undav",
+    "K. Hein",
+    "Arthur",
+    "A. Pieper",
+    "M. Friedl",
+    "O. Deman",
+    "S. Lynen",
+    "Y. Regeer",
+    "E. Dinkçi",
+    "L. Reis",
+    "M. Grüll",
+    "N. Füllkrug"
+   ],
+   "banquillo": [
+    "A. Karazor",
+    "N. Nartey",
+    "D. Pejčinović",
+    "A. Al Dakhil",
+    "L. Assignon",
+    "F. Bredlow",
+    "E. Demirović",
+    "Finn Jeltsch",
+    "Tiago Tomás",
+    "J. Njinmah",
+    "K. Quetant",
+    "A. Schlager",
+    "Mick Schmetgens",
+    "Dariusz Stalmach",
+    "N. Stark",
+    "O. Wójcik",
+    "Chuky San José",
+    "C. Itten"
+   ],
+   "equipos": {
+    "172": [
+     {
+      "n": "D. Seimen",
+      "pos": "G"
+     },
+     {
+      "n": "L. Jaquez",
+      "pos": "D"
+     },
+     {
+      "n": "J. Chabot",
+      "pos": "D"
+     },
+     {
+      "n": "R. Hendriks",
+      "pos": "D"
+     },
+     {
+      "n": "J. Leweling",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Spalt",
+      "pos": "M"
+     },
+     {
+      "n": "G. Prömel",
+      "pos": "M"
+     },
+     {
+      "n": "M. Mittelstädt",
+      "pos": "M"
+     },
+     {
+      "n": "B. El Khannouss",
+      "pos": "M"
+     },
+     {
+      "n": "C. Führich",
+      "pos": "M"
+     },
+     {
+      "n": "D. Undav",
+      "pos": "F"
+     }
+    ],
+    "162": [
+     {
+      "n": "K. Hein",
+      "pos": "G"
+     },
+     {
+      "n": "Arthur",
+      "pos": "D"
+     },
+     {
+      "n": "A. Pieper",
+      "pos": "D"
+     },
+     {
+      "n": "M. Friedl",
+      "pos": "D"
+     },
+     {
+      "n": "O. Deman",
+      "pos": "D"
+     },
+     {
+      "n": "S. Lynen",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Regeer",
+      "pos": "M"
+     },
+     {
+      "n": "E. Dinkçi",
+      "pos": "M"
+     },
+     {
+      "n": "L. Reis",
+      "pos": "M"
+     },
+     {
+      "n": "M. Grüll",
+      "pos": "M"
+     },
+     {
+      "n": "N. Füllkrug",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557465": {
-   "hora": "2026-11-07T17:58:33.208307+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T18:09:46.292328+01:00",
+   "xi": [
+    "M. Sels",
+    "Jair",
+    "N. Milenković",
+    "Murillo",
+    "D. Muñoz",
+    "R. Yates",
+    "X. Schlager",
+    "N. Williams",
+    "J. McAtee",
+    "M. Gibbs-White",
+    "L. Delap",
+    "G. Donnarumma",
+    "A. Khusanov",
+    "Rúben Dias",
+    "M. Guéhi",
+    "J. Gvardiol",
+    "E. Anderson",
+    "E. Fernández",
+    "I. Ndiaye",
+    "R. Cherki",
+    "J. Doku",
+    "E. Haaland"
+   ],
+   "banquillo": [
+    "Igor Jesus",
+    "A. Kalimuendo",
+    "John",
+    "O. Diomande",
+    "L. Netz",
+    "I. Sangaré",
+    "C. Hudson-Odoi",
+    "D. Ndoye",
+    "C. Wood",
+    "P. Foden",
+    "A. Bouaddi",
+    "M. Kovačić",
+    "R. Lewis",
+    "Matheus Nunes",
+    "Vitor Nunes",
+    "G. Rulli",
+    "Allan",
+    "N. O&apos;Reilly"
+   ],
+   "equipos": {
+    "65": [
+     {
+      "n": "M. Sels",
+      "pos": "G"
+     },
+     {
+      "n": "Jair",
+      "pos": "D"
+     },
+     {
+      "n": "N. Milenković",
+      "pos": "D"
+     },
+     {
+      "n": "Murillo",
+      "pos": "D"
+     },
+     {
+      "n": "D. Muñoz",
+      "pos": "M"
+     },
+     {
+      "n": "R. Yates",
+      "pos": "M"
+     },
+     {
+      "n": "X. Schlager",
+      "pos": "M"
+     },
+     {
+      "n": "N. Williams",
+      "pos": "M"
+     },
+     {
+      "n": "J. McAtee",
+      "pos": "M"
+     },
+     {
+      "n": "M. Gibbs-White",
+      "pos": "M"
+     },
+     {
+      "n": "L. Delap",
+      "pos": "F"
+     }
+    ],
+    "50": [
+     {
+      "n": "G. Donnarumma",
+      "pos": "G"
+     },
+     {
+      "n": "A. Khusanov",
+      "pos": "D"
+     },
+     {
+      "n": "Rúben Dias",
+      "pos": "D"
+     },
+     {
+      "n": "M. Guéhi",
+      "pos": "D"
+     },
+     {
+      "n": "J. Gvardiol",
+      "pos": "D"
+     },
+     {
+      "n": "E. Anderson",
+      "pos": "M"
+     },
+     {
+      "n": "E. Fernández",
+      "pos": "M"
+     },
+     {
+      "n": "I. Ndiaye",
+      "pos": "M"
+     },
+     {
+      "n": "R. Cherki",
+      "pos": "M"
+     },
+     {
+      "n": "J. Doku",
+      "pos": "M"
+     },
+     {
+      "n": "E. Haaland",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570012": {
-   "hora": "2026-11-07T17:58:33.208307+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T18:09:46.292328+01:00",
+   "xi": [
+    "L. Zidane",
+    "Rubén Peña",
+    "Javi Montero",
+    "Marvel",
+    "Enric Franquesa",
+    "Álex Sancris",
+    "Miguel Atienza",
+    "Z. Buurmeester",
+    "Ismaël Gharbi",
+    "Álex Millán",
+    "Álvaro Morata",
+    "Diego Mariño",
+    "Lorenzo Aguado",
+    "Lluís López",
+    "Vallejo",
+    "Carlos Neva",
+    "San Bartolomé",
+    "Antonio Pacheco",
+    "Sergio Ortu",
+    "Víctor Valverde",
+    "Alex Rubio",
+    "Higinio Marín"
+   ],
+   "banquillo": [
+    "A. Diawara",
+    "Suleiman El Haddadi Mohamed",
+    "Raúl Fernández",
+    "Naim García",
+    "Álex González",
+    "Jorge Martínez",
+    "P. Soko",
+    "Diego Pérez Moreno",
+    "Dani Rodríguez",
+    "Álvaro Tejero",
+    "U. del Cura",
+    "Andrés Campos",
+    "Pepe Sánchez",
+    "Mario Soberón",
+    "Antonio David",
+    "Agus Medina",
+    "Carlos Marín",
+    "Róber",
+    "F. Garcia",
+    "Jota Domingo",
+    "D. Bernabeu",
+    "A. Albarracín",
+    "A. Velilla",
+    "Javi Villar"
+   ],
+   "equipos": {
+    "537": [
+     {
+      "n": "L. Zidane",
+      "pos": "G"
+     },
+     {
+      "n": "Rubén Peña",
+      "pos": "D"
+     },
+     {
+      "n": "Javi Montero",
+      "pos": "D"
+     },
+     {
+      "n": "Marvel",
+      "pos": "D"
+     },
+     {
+      "n": "Enric Franquesa",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Sancris",
+      "pos": "M"
+     },
+     {
+      "n": "Miguel Atienza",
+      "pos": "M"
+     },
+     {
+      "n": "Z. Buurmeester",
+      "pos": "M"
+     },
+     {
+      "n": "Ismaël Gharbi",
+      "pos": "M"
+     },
+     {
+      "n": "Álex Millán",
+      "pos": "F"
+     },
+     {
+      "n": "Álvaro Morata",
+      "pos": "F"
+     }
+    ],
+    "722": [
+     {
+      "n": "Diego Mariño",
+      "pos": "G"
+     },
+     {
+      "n": "Lorenzo Aguado",
+      "pos": "D"
+     },
+     {
+      "n": "Lluís López",
+      "pos": "D"
+     },
+     {
+      "n": "Vallejo",
+      "pos": "D"
+     },
+     {
+      "n": "Carlos Neva",
+      "pos": "D"
+     },
+     {
+      "n": "San Bartolomé",
+      "pos": "M"
+     },
+     {
+      "n": "Antonio Pacheco",
+      "pos": "M"
+     },
+     {
+      "n": "Sergio Ortu",
+      "pos": "M"
+     },
+     {
+      "n": "Víctor Valverde",
+      "pos": "M"
+     },
+     {
+      "n": "Alex Rubio",
+      "pos": "F"
+     },
+     {
+      "n": "Higinio Marín",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570007": {
-   "hora": "2026-11-07T17:58:33.208307+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-07T18:09:46.292328+01:00",
+   "xi": [
+    "Iker Álvarez",
+    "Daniel Budesca",
+    "Juan Gutiérrez",
+    "Rubén Alves",
+    "Dani Tasende",
+    "Adnane Ghailan",
+    "D. Caceres",
+    "Eder García",
+    "Cristian Carracedo",
+    "Percan",
+    "Diego Bri",
+    "Pedro López",
+    "A. Tuhami",
+    "Carlos Hernández",
+    "Albert Caparrós",
+    "José Matos",
+    "Álex Meléndez",
+    "Y. Bodiger",
+    "Marino Illescas",
+    "Kuki",
+    "Jordi Escobar",
+    "Cedric Teguia"
+   ],
+   "banquillo": [
+    "Nélson Monte",
+    "S. El Jebari",
+    "Carlos Albarrán",
+    "Egoitz Muñoz",
+    "Enol Rodríguez",
+    "Ibai Sanz",
+    "Guilherme Fernandes",
+    "V. Sanchez",
+    "T. Zidane",
+    "Abraham Bueno Espinosa",
+    "Alejandro Camacho Ramírez",
+    "Joaquín",
+    "Guille Vallejo",
+    "E. Sevikyan",
+    "O. Sadik",
+    "Redru",
+    "Alex Petxarroman",
+    "Chidiebere Gabriel Okoro",
+    "Arick Betancourt",
+    "Toni Abad",
+    "Magno Alexander Murillo Arboleda"
+   ],
+   "equipos": {
+    "713": [
+     {
+      "n": "Iker Álvarez",
+      "pos": "G"
+     },
+     {
+      "n": "Daniel Budesca",
+      "pos": "D"
+     },
+     {
+      "n": "Juan Gutiérrez",
+      "pos": "D"
+     },
+     {
+      "n": "Rubén Alves",
+      "pos": "D"
+     },
+     {
+      "n": "Dani Tasende",
+      "pos": "D"
+     },
+     {
+      "n": "Adnane Ghailan",
+      "pos": "M"
+     },
+     {
+      "n": "D. Caceres",
+      "pos": "M"
+     },
+     {
+      "n": "Eder García",
+      "pos": "M"
+     },
+     {
+      "n": "Cristian Carracedo",
+      "pos": "F"
+     },
+     {
+      "n": "Percan",
+      "pos": "F"
+     },
+     {
+      "n": "Diego Bri",
+      "pos": "F"
+     }
+    ],
+    "10139": [
+     {
+      "n": "Pedro López",
+      "pos": "G"
+     },
+     {
+      "n": "A. Tuhami",
+      "pos": "D"
+     },
+     {
+      "n": "Carlos Hernández",
+      "pos": "D"
+     },
+     {
+      "n": "Albert Caparrós",
+      "pos": "D"
+     },
+     {
+      "n": "José Matos",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Meléndez",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Bodiger",
+      "pos": "M"
+     },
+     {
+      "n": "Marino Illescas",
+      "pos": "M"
+     },
+     {
+      "n": "Kuki",
+      "pos": "F"
+     },
+     {
+      "n": "Jordi Escobar",
+      "pos": "F"
+     },
+     {
+      "n": "Cedric Teguia",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552811": {
    "hora": "2026-11-07T18:04:20.956686+01:00",
