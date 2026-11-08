@@ -231,153 +231,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1552216": {
-   "hora": "2026-11-06T19:36:16.691805+01:00",
-   "xi": [
-    "M. Delanghe",
-    "H. ter Avest",
-    "F. Stam",
-    "M. Dekker",
-    "N. Tjoe-A-On",
-    "Anass Zarrouk",
-    "C. Twigt",
-    "T. Vilhena",
-    "Uriel van Aalst",
-    "V. van Crooij",
-    "D. Haen",
-    "J. Schendelaar",
-    "O. Aertssen",
-    "T. Velthuis",
-    "N. Viergever",
-    "D. van der Haar",
-    "R. Thomas",
-    "T. Sommer",
-    "Gilles van der Wal",
-    "Y. Namli",
-    "D. Mbayo",
-    "S. van Hooijdonk"
-   ],
-   "banquillo": [
-    "A. Ciranni",
-    "K. Boogaard",
-    "A. Culum",
-    "A. Et-Taïbi",
-    "E. Gürbüz",
-    "M. Lemmens",
-    "O. Martin",
-    "J. Schuurman",
-    "T. Verheydt",
-    "K. de Leeuw",
-    "Per van Loon",
-    "W. van der Steen",
-    "Jan Bürger",
-    "Dylan Ruward",
-    "Torben Bos",
-    "T. Oosting",
-    "E. Sørensen",
-    "I. Cissoko",
-    "N. Fichtinger",
-    "G. Reiziger",
-    "Jadiel Pereira da Gama",
-    "K. Kostons",
-    "D. Verduin",
-    "T. de Graaff"
-   ],
-   "equipos": {
-    "195": [
-     {
-      "n": "M. Delanghe",
-      "pos": "G"
-     },
-     {
-      "n": "H. ter Avest",
-      "pos": "D"
-     },
-     {
-      "n": "F. Stam",
-      "pos": "D"
-     },
-     {
-      "n": "M. Dekker",
-      "pos": "D"
-     },
-     {
-      "n": "N. Tjoe-A-On",
-      "pos": "D"
-     },
-     {
-      "n": "Anass Zarrouk",
-      "pos": "M"
-     },
-     {
-      "n": "C. Twigt",
-      "pos": "M"
-     },
-     {
-      "n": "T. Vilhena",
-      "pos": "M"
-     },
-     {
-      "n": "Uriel van Aalst",
-      "pos": "M"
-     },
-     {
-      "n": "V. van Crooij",
-      "pos": "M"
-     },
-     {
-      "n": "D. Haen",
-      "pos": "F"
-     }
-    ],
-    "193": [
-     {
-      "n": "J. Schendelaar",
-      "pos": "G"
-     },
-     {
-      "n": "O. Aertssen",
-      "pos": "D"
-     },
-     {
-      "n": "T. Velthuis",
-      "pos": "D"
-     },
-     {
-      "n": "N. Viergever",
-      "pos": "D"
-     },
-     {
-      "n": "D. van der Haar",
-      "pos": "D"
-     },
-     {
-      "n": "R. Thomas",
-      "pos": "M"
-     },
-     {
-      "n": "T. Sommer",
-      "pos": "M"
-     },
-     {
-      "n": "Gilles van der Wal",
-      "pos": "M"
-     },
-     {
-      "n": "Y. Namli",
-      "pos": "M"
-     },
-     {
-      "n": "D. Mbayo",
-      "pos": "M"
-     },
-     {
-      "n": "S. van Hooijdonk",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1570006": {
    "hora": "2026-11-06T20:19:28.766633+01:00",
    "xi": [],
@@ -8865,19 +8718,19 @@
    }
   },
   "1550189": {
-   "hora": "2026-11-08T19:26:37.195111+01:00",
+   "hora": "2026-11-08T19:37:35.911318+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1552818": {
-   "hora": "2026-11-08T19:26:37.195111+01:00",
+   "hora": "2026-11-08T19:37:35.911318+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570443": {
-   "hora": "2026-11-08T19:26:37.195111+01:00",
+   "hora": "2026-11-08T19:37:35.911318+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
