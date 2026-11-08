@@ -605,5 +605,9 @@
     "enviado": "2026-11-08T14:00",
     "mensaje_id": 357,
     "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550190.tarjeta.jpg"
+  },
+  "2026-11-08-combi-multi": {
+    "enviado": "2026-11-08T14:30",
+    "mensaje_id": 361
   }
 }
