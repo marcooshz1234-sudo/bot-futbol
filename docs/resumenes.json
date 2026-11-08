@@ -1362,14 +1362,14 @@
   },
   "2026-11-08": {
     "dia": "2026-11-08",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -1389,13 +1389,19 @@
         "titulo": "🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀",
         "estado": "pendiente",
         "cuota": 1.85
+      },
+      {
+        "id": "2026-11-08-combi-partido-1552221",
+        "titulo": "✅ COMBI LOCAS | EREDIVISIE",
+        "estado": "pendiente",
+        "cuota": 3.59
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 23
+      "total": 27
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85 · pendiente\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,59 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
