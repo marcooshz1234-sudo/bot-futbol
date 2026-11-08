@@ -1362,14 +1362,14 @@
   },
   "2026-11-08": {
     "dia": "2026-11-08",
-    "total": 9,
+    "total": 10,
     "cuentas": {
       "verde": 1,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 9
     },
     "combis": [
       {
@@ -1425,13 +1425,19 @@
         "titulo": "✅ COMBI LOCAS | PREMIER",
         "estado": "pendiente",
         "cuota": 10.0
+      },
+      {
+        "id": "2026-11-08-combi-multi",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 4,
       "rojo": 0,
-      "total": 46
+      "total": 52
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 1 DE 1 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85 · pendiente\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❔ ✅ COMBI LOCAS | SERIE A · 3,89 · faltan datos\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38 · pendiente\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 3,01 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 10,00 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 1 DE 1 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n⏳ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85 · pendiente\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❔ ✅ COMBI LOCAS | SERIE A · 3,89 · faltan datos\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38 · pendiente\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 3,01 · pendiente\n⏳ ✅ COMBI LOCAS | PREMIER · 10,00 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
   }
 }

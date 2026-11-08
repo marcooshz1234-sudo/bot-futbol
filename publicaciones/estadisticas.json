@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 14:22",
+ "actualizado": "2026-11-08 14:33",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2167,
-   "hoy": 41,
+   "seguidores": 2166,
+   "hoy": 40,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2167
+    2166
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2521,
- "total_hoy": 54,
+ "total": 2520,
+ "total_hoy": 53,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "16:00",
   "dia": "2026-11-08",
-  "titulo": "Combi de 8 partidos x26,87"
+  "titulo": "La loca del domingo x7,15"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,14 +168,14 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2167,
+   "threads": 2166,
    "facebook": 1,
    "telegram": 319
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 43,
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -190,12 +190,12 @@
    "comentarios_media": 0.0
   },
   "Verdes/balance (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
