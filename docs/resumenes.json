@@ -1364,24 +1364,24 @@
     "dia": "2026-11-08",
     "total": 17,
     "cuentas": {
-      "verde": 2,
+      "verde": 4,
       "rojo": 6,
-      "pendiente": 5,
-      "sin_datos": 4,
+      "pendiente": 7,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 7
     },
     "combis": [
       {
         "id": "2026-11-08-ganadores-win",
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
         "id": "2026-11-08-pick-seguro",
         "titulo": "🔒 PICK SEGURO DEL DÍA 🔒",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 1.57
       },
       {
@@ -1429,7 +1429,7 @@
       {
         "id": "2026-11-08-combi-multi",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -1453,7 +1453,7 @@
       {
         "id": "2026-11-08-combi-partido-1575544",
         "titulo": "✅ COMBI LOCAS | PRIMEIRA LIGA",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 3.49
       },
       {
@@ -1476,10 +1476,10 @@
       }
     ],
     "picks": {
-      "verde": 35,
+      "verde": 40,
       "rojo": 10,
       "total": 80
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 8 EN VERDE 📊\n\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n❔ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · faltan datos\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · faltan datos\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,73 · pendiente\n❔ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49 · faltan datos\n⏳ ✅ COMBI LOCAS | SERIE A · 6,23 · pendiente\n⏳ 🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸 · 4,70 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 4,96 · pendiente\n\n✅ 2 acertadas · ❌ 6 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 4 DE 10 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · pendiente\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,73 · pendiente\n✅ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49\n⏳ ✅ COMBI LOCAS | SERIE A · 6,23 · pendiente\n⏳ 🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸 · 4,70 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 4,96 · pendiente\n\n✅ 4 acertadas · ❌ 6 falladas · ⏳ 7 sin resolver"
   }
 }
