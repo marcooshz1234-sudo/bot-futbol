@@ -1,7 +1,7 @@
 # Santa Clara – GIL Vicente
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 16:30 (hora España) · Estádio de São Miguel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 08:04._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 02:09_

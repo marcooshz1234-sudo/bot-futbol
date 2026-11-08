@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Schalke 04
 **Bundesliga** · Regular Season - 9 · 08/11/2026 19:30 (hora España) · Prezero Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 08:04._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 02:09_

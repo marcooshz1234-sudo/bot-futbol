@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 08/11/2026 02:09 (hora España). Partidos guardados en la base de datos: 1774._
+_Actualizado el 08/11/2026 08:04 (hora España). Partidos guardados en la base de datos: 1774._
 
 
 ## Domingo 08/11
@@ -51,7 +51,7 @@ _Actualizado el 08/11/2026 02:09 (hora España). Partidos guardados en la base d
 
 ## Jueves 12/11
 - 18:30 · Copa del Rey · [Calvo Sotelo – Albacete](informes/2026-11-12_calvo-sotelo-vs-albacete.md)
-- 19:00 · Copa del Rey · [Navalcarnero – Real Betis](informes/2026-11-12_navalcarnero-vs-real-betis.md) · 1X2: 21.00 / 9.00 / 1.10
+- 19:00 · Copa del Rey · [Navalcarnero – Real Betis](informes/2026-11-12_navalcarnero-vs-real-betis.md) · 1X2: 17.00 / 9.00 / 1.10
 - 19:00 · Copa del Rey · [Tarancón – Levante](informes/2026-11-12_tarancon-vs-levante.md)
 
 ## Viernes 13/11

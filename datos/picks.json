@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-08 02:10",
+ "generado": "2026-11-08 08:04",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -27,6 +27,8 @@
      "valor_mercado": -0.022,
      "movimiento": 0.0,
      "cuota_inicial": 1.33,
+     "arbitro": "Daniel Palencia Caballero",
+     "arbitro_tarjetas": 7.0,
      "prob_xg": 0.748,
      "xg_esperado": 2.68,
      "posiciones": [
@@ -148,6 +150,8 @@
      "texto": "Wout Weghorst: 1+ tiros a puerta",
      "detalle": "Wout Weghorst 9/10",
      "temporada": "13/18",
+     "arbitro": "Joey Kooij",
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       4,
       2,
@@ -209,6 +213,8 @@
      "temporada": "10/12",
      "movimiento": -0.028,
      "cuota_inicial": 1.44,
+     "arbitro": "Joey Kooij",
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       4,
       2,
@@ -627,6 +633,8 @@
      "valor_mercado": -0.022,
      "movimiento": 0.0,
      "cuota_inicial": 1.33,
+     "arbitro": "Daniel Palencia Caballero",
+     "arbitro_tarjetas": 7.0,
      "prob_xg": 0.748,
      "xg_esperado": 2.68,
      "posiciones": [
@@ -748,6 +756,8 @@
      "texto": "Wout Weghorst: 1+ tiros a puerta",
      "detalle": "Wout Weghorst 9/10",
      "temporada": "13/18",
+     "arbitro": "Joey Kooij",
+     "arbitro_tarjetas": 3.6,
      "posiciones": [
       4,
       2,
@@ -1081,6 +1091,8 @@
        "valor_mercado": -0.022,
        "movimiento": 0.0,
        "cuota_inicial": 1.33,
+       "arbitro": "Daniel Palencia Caballero",
+       "arbitro_tarjetas": 7.0,
        "prob_xg": 0.748,
        "xg_esperado": 2.68,
        "posiciones": [
@@ -1112,6 +1124,8 @@
        "texto": "Wout Weghorst: 1+ tiros a puerta",
        "detalle": "Wout Weghorst 9/10",
        "temporada": "13/18",
+       "arbitro": "Joey Kooij",
+       "arbitro_tarjetas": 3.6,
        "posiciones": [
         4,
         2,
@@ -1423,6 +1437,8 @@
        "temporada": "10/12",
        "movimiento": -0.028,
        "cuota_inicial": 1.44,
+       "arbitro": "Joey Kooij",
+       "arbitro_tarjetas": 3.6,
        "posiciones": [
         4,
         2,
