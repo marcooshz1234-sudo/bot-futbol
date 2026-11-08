@@ -1,15 +1,15 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 547 · aciertos: 340 (62%) · beneficio a 1 € por pick: -66.35 €
+Picks ya jugados: 563 · aciertos: 350 (62%) · beneficio a 1 € por pick: -68.02 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| resultado | 64 | 100 | 64% | -5.50 € |
-| jugador | 118 | 185 | 64% | -22.93 € |
-| goles | 137 | 215 | 64% | -25.51 € |
-| tarjetas | 12 | 19 | 63% | +0.20 € |
+| jugador | 125 | 195 | 64% | -22.68 € |
+| goles | 139 | 217 | 64% | -24.93 € |
+| resultado | 64 | 102 | 63% | -7.50 € |
+| tarjetas | 13 | 21 | 62% | -0.30 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 3 | 13 | 23% | -8.14 € |
 | fueras de juego | 0 | 3 | 0% | -3.00 € |
@@ -22,23 +22,24 @@ Picks ya jugados: 547 · aciertos: 340 (62%) · beneficio a 1 € por pick: -66.
 | To Win Either Half · Home | 6 | 6 | 100% |
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
-| Double Chance · Home/Draw | 8 | 10 | 80% |
 | Match Winner · Home | 7 | 9 | 78% |
-| Goals Over/Under · Over 1.5 | 29 | 38 | 76% |
+| Goals Over/Under · Over 1.5 | 31 | 40 | 78% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
+| Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
+| Double Chance · Home/Draw | 8 | 11 | 73% |
 | Match Winner · Away | 8 | 11 | 73% |
-| Home Team Total Cards · Over 1.5 | 8 | 11 | 73% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
+| Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Away · Over 0.5 | 27 | 47 | 57% |
-| To Win Either Half · Away | 6 | 12 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
+| To Win Either Half · Away | 6 | 13 | 46% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
 | Double Chance · Draw/Away | 12 | 28 | 43% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
@@ -47,10 +48,11 @@ Picks ya jugados: 547 · aciertos: 340 (62%) · beneficio a 1 € por pick: -66.
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 2.5 | 1 | 3 | 33% |
+| Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
 
 ## Últimos días
 
-### 2026-11-08 · 31/41
+### 2026-11-08 · 41/57
 - ✅ Heerenveen hace más de 3,5 córners · 1.62 (5-3)
 - ✅ Scott McTominay: 1+ tiros a puerta · 1.50 (1-1)
 - ✅ Noa Lang: 1+ tiros a puerta · 1.50 (1-1)
@@ -92,6 +94,22 @@ Picks ya jugados: 547 · aciertos: 340 (62%) · beneficio a 1 € por pick: -66.
 - ✅ Zeno Van Den Bosch comete 1+ faltas · 1.33 (2-0)
 - ❌ Jordy Makengo comete 1+ faltas · 1.67 (2-0)
 - ✅ Más de 3,5 tarjetas en SC Freiburg–Union Berlin · 1.73 (2-0)
+- ✅ Carlos Augusto: 1+ tiros · 1.33 (2-0)
+- ✅ Más de 1,5 goles en Sporting Gijon–Valladolid · 1.33 (1-2)
+- ❌ Ivan Romero comete 1+ faltas · 1.28 (0-0)
+- ❌ Más de 4,5 tarjetas en Villarreal–Getafe · 1.62 (2-0)
+- ✅ Villarreal ve más de 1,5 tarjetas · 1.50 (2-0)
+- ✅ Fisnik Asllani comete 1+ faltas · 1.40 (2-1)
+- ✅ Satoshi Tanaka comete 1+ faltas · 1.53 (2-1)
+- ❌ Koki Machida comete 1+ faltas · 1.33 (2-1)
+- ✅ Alexander Prass: 1+ tiros a puerta · 1.80 (2-1)
+- ❌ Utrecht o empate · 1.40 (2-3)
+- ❌ Juventus gana alguna de las dos partes · 1.50 (2-2)
+- ✅ Más de 1,5 goles en Fiorentina–Juventus · 1.25 (2-2)
+- ✅ Radu Dragusin comete 1+ faltas · 1.53 (2-2)
+- ✅ Lamine Yamal: 3+ tiros · 1.30 (1-2)
+- ✅ Marc Pubill comete 1+ faltas · 1.36 (1-2)
+- ❌ Alex Grimaldo: 1+ tiros · 1.36 (1-2)
 
 ### 2026-11-07 · 29/55
 - ✅ Leeds o empate · 1.44 (1-0)

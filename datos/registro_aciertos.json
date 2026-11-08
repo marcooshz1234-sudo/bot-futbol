@@ -9188,7 +9188,8 @@
   "movimiento": 0.0,
   "ventaja": 0.036,
   "prob_aprendida": 0.769,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-3"
  },
  "1557459|Match Winner|Away": {
   "partido_id": 1557459,
@@ -9463,7 +9464,8 @@
   "movimiento": null,
   "ventaja": 0.105,
   "prob_aprendida": 0.802,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1550192|Home Player Shots On Target Total|Gustavo Varela - 1": {
   "partido_id": 1550192,
@@ -9967,7 +9969,8 @@
   "movimiento": null,
   "ventaja": 0.083,
   "prob_aprendida": 0.478,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-2"
  },
  "1636444|Corners Over Under|Over 8.5": {
   "partido_id": 1636444,
@@ -10586,7 +10589,8 @@
   "movimiento": 0.0,
   "ventaja": 0.048,
   "prob_aprendida": 0.875,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1550189|Goals Over/Under|Over 1.5": {
   "partido_id": 1550189,
@@ -10608,7 +10612,8 @@
   "movimiento": 0.025,
   "ventaja": 0.2,
   "prob_aprendida": 0.83,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1635745|Player Fouls Committed|Joe Bell - 1": {
   "partido_id": 1635745,
@@ -12007,7 +12012,8 @@
   "movimiento": null,
   "ventaja": 0.146,
   "prob_aprendida": 0.497,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1563262|Away Player Shots|Rafiki Said - 2": {
   "partido_id": 1563262,
@@ -12121,7 +12127,8 @@
   "movimiento": 0.066,
   "ventaja": 0.231,
   "prob_aprendida": 0.749,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1575216|Player Fouls Committed|Zeno Van Den Bosch - 1": {
   "partido_id": 1575216,
@@ -12166,7 +12173,8 @@
   "movimiento": null,
   "ventaja": 0.286,
   "prob_aprendida": 0.584,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1570449|Player Fouls Committed|Jorge De Frutos - 1": {
   "partido_id": 1570449,
@@ -12211,7 +12219,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.561,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-0"
  },
  "1575215|Player Fouls Committed|Satoshi Tanaka - 1": {
   "partido_id": 1575215,
@@ -12233,7 +12242,8 @@
   "movimiento": null,
   "ventaja": 0.221,
   "prob_aprendida": 0.508,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1575215|Player Fouls Committed|Koki Machida - 1": {
   "partido_id": 1575215,
@@ -12255,7 +12265,8 @@
   "movimiento": null,
   "ventaja": 0.123,
   "prob_aprendida": 0.526,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-1"
  },
  "1575219|Player Fouls Committed|Miguel Gutierrez - 1": {
   "partido_id": 1575219,
@@ -12300,7 +12311,8 @@
   "movimiento": null,
   "ventaja": 0.065,
   "prob_aprendida": 0.543,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1575219|Player Fouls Committed|Marius Bulter - 1": {
   "partido_id": 1575219,
@@ -12368,7 +12380,8 @@
   "movimiento": 0.146,
   "ventaja": 0.244,
   "prob_aprendida": 0.501,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-1"
  },
  "1570448|Player Fouls Committed|Abel Bretones - 1": {
   "partido_id": 1570448,
@@ -12597,7 +12610,8 @@
   "movimiento": 0.214,
   "ventaja": 0.165,
   "prob_aprendida": 0.592,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-2"
  },
  "1570449|Home Team Total Cards|Over 1.5": {
   "partido_id": 1570449,
@@ -12642,7 +12656,8 @@
   "movimiento": -0.064,
   "ventaja": 0.272,
   "prob_aprendida": 0.407,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1570452|Home Team Total Cards|Over 1.5": {
   "partido_id": 1570452,
@@ -12664,6 +12679,7 @@
   "movimiento": null,
   "ventaja": 0.111,
   "prob_aprendida": 0.451,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  }
 }

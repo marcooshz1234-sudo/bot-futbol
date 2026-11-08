@@ -1,28 +1,37 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 08/11/2026 19:50. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 08/11/2026 23:31. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 128 · **acertados:** 39 (30%)
-- **Beneficio:** -22.84 unidades · **rentabilidad (yield):** -17.8%
-- **Cuota media:** 2.91 · **pendientes:** 8
+- **Picks jugados:** 136 · **acertados:** 42 (31%)
+- **Beneficio:** -24.86 unidades · **rentabilidad (yield):** -18.3%
+- **Cuota media:** 2.88 · **pendientes:** 0
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| Goles más/menos | 32 | 7 (22%) | -13.41 | -41.9% |
+| Goles más/menos | 35 | 7 (20%) | -16.41 | -46.9% |
 | 1X2 | 31 | 10 (32%) | -4.85 | -15.6% |
-| Goles del local | 24 | 11 (46%) | +9.00 | +37.5% |
-| Goles del visitante | 21 | 4 (19%) | -10.06 | -47.9% |
-| Doble oportunidad | 10 | 4 (40%) | -1.25 | -12.5% |
+| Goles del local | 26 | 12 (46%) | +8.83 | +34.0% |
+| Goles del visitante | 22 | 5 (23%) | -8.86 | -40.3% |
+| Doble oportunidad | 11 | 5 (45%) | -0.30 | -2.7% |
 | 1X2 descanso | 5 | 2 (40%) | +0.63 | +12.6% |
 | Goles 1ª parte más/menos | 3 | 0 (0%) | -3.00 | -100.0% |
 | Córners más/menos | 2 | 1 (50%) | +0.10 | +5.0% |
+| Ambos marcan | 1 | 0 (0%) | -1.00 | -100.0% |
 
 ## Últimos picks
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-08 | Atletico Madrid – Barcelona | Goles más/menos: Menos de 2.5 | 3.20 | ❌ | -1.00 |
+| 2026-11-08 | Atletico Madrid – Barcelona | Ambos marcan: No | 3.25 | ❌ | -1.00 |
+| 2026-11-08 | Lens – Marseille | Goles del visitante: Más de 1.5 | 2.20 | ✅ | +1.20 |
+| 2026-11-08 | Lens – Marseille | Goles más/menos: Más de 3.5 | 2.62 | ❌ | -1.00 |
+| 2026-11-08 | 1899 Hoffenheim – FC Schalke 04 | Goles más/menos: Menos de 2.5 | 2.38 | ❌ | -1.00 |
+| 2026-11-08 | 1899 Hoffenheim – FC Schalke 04 | Goles del local: Menos de 1.5 | 2.50 | ❌ | -1.00 |
+| 2026-11-08 | Celta Vigo – Levante | Doble oportunidad: X2 | 1.95 | ✅ | +0.95 |
+| 2026-11-08 | Celta Vigo – Levante | Goles del local: Menos de 1.5 | 1.83 | ✅ | +0.83 |
 | 2026-11-08 | SC Freiburg – Union Berlin | Goles más/menos: Más de 3.5 | 2.62 | ❌ | -1.00 |
 | 2026-11-08 | SC Freiburg – Union Berlin | Goles del local: Más de 2.5 | 2.50 | ❌ | -1.00 |
 | 2026-11-08 | Manchester United – Aston Villa | 1X2: 2 | 3.10 | ❌ | -1.00 |
@@ -55,11 +64,3 @@ _Actualizado el 08/11/2026 19:50. Cada pick cuenta como 1 unidad apostada a la c
 | 2026-11-07 | Borussia Dortmund – SV Elversberg | Goles del local: Menos de 1.5 | 3.75 | ❌ | -1.00 |
 | 2026-11-07 | FSV Mainz 05 – Bayern München | Goles más/menos: Más de 4.5 | 2.50 | ❌ | -1.00 |
 | 2026-11-07 | Cagliari – Frosinone | 1X2: 2 | 2.50 | ❌ | -1.00 |
-| 2026-11-07 | Leeds – Tottenham | Goles del visitante: Menos de 0.5 | 3.50 | ✅ | +2.50 |
-| 2026-11-07 | Leeds – Tottenham | 1X2: 1 | 2.75 | ✅ | +1.75 |
-| 2026-11-06 | Toulouse – Strasbourg | 1X2: 1 | 2.25 | ✅ | +1.25 |
-| 2026-11-05 | Bayer Leverkusen – Marseille | Goles del local: Más de 3.5 | 3.25 | ❌ | -1.00 |
-| 2026-11-05 | Bayer Leverkusen – Marseille | Goles más/menos: Más de 4.5 | 3.00 | ❌ | -1.00 |
-| 2026-11-05 | Getafe – Brighton | Goles del visitante: Más de 2.5 | 3.25 | ❌ | -1.00 |
-| 2026-11-05 | Crystal Palace – 1899 Hoffenheim | Goles del visitante: Más de 1.5 | 2.50 | ❌ | -1.00 |
-| 2026-11-05 | Crystal Palace – 1899 Hoffenheim | 1X2: 2 | 3.75 | ❌ | -1.00 |
