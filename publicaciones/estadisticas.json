@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 23:27",
+ "actualizado": "2026-11-08 23:38",
  "redes": {
   "instagram": {
    "seguidores": 35,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2225,
-   "hoy": 99,
+   "seguidores": 2228,
+   "hoy": 102,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2225
+    2228
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 329,
-   "hoy": 22,
+   "seguidores": 330,
+   "hoy": 23,
    "serie": [
     214,
     232,
@@ -50,23 +50,25 @@
     277,
     294,
     307,
-    329
+    330
    ]
   }
  },
- "total": 2590,
- "total_hoy": 123,
+ "total": 2594,
+ "total_hoy": 127,
  "likes_hoy": 0,
- "proximo": {
-  "hora": "18:00",
-  "dia": "2026-11-09",
-  "titulo": "Llega el parón de selecciones"
- },
+ "proximo": null,
  "ayer": {
   "aciertos": 29,
   "total": 55
  },
- "escalera": null,
+ "escalera": {
+  "dia": 2,
+  "de": 7,
+  "stake": 37.0,
+  "objetivo": 64.01,
+  "fecha": "2026-11-09"
+ },
  "historial": {
   "2026-10-23": {
    "threads": 836,
@@ -162,9 +164,9 @@
   },
   "2026-11-08": {
    "instagram": 35,
-   "threads": 2225,
+   "threads": 2228,
    "facebook": 1,
-   "telegram": 329
+   "telegram": 330
   }
  },
  "tipos_instagram": {
