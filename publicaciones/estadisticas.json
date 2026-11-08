@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 17:23",
+ "actualizado": "2026-11-08 17:33",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -58,9 +58,9 @@
  "total_hoy": 77,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:30",
+  "hora": "18:00",
   "dia": "2026-11-08",
-  "titulo": "Combi Las Palmas vs Eldense"
+  "titulo": "Combi Vitória Sc vs Fc Porto"
  },
  "ayer": {
   "aciertos": 29,
@@ -174,18 +174,18 @@
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 45,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi de partido (reel)": {
    "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 44,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
