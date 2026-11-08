@@ -5974,10 +5974,147 @@
    }
   },
   "1552222": {
-   "hora": "2026-11-08T13:54:42.448829+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T14:05:57.677054+01:00",
+   "xi": [
+    "J. Drommel",
+    "B. van Rooij",
+    "R. Pröpper",
+    "R. Nijstad",
+    "A. Adelgaard",
+    "R. Zerrouki",
+    "D. Weidmann",
+    "D. Rots",
+    "Y. Taha",
+    "S. Ørjasæter",
+    "W. Weghorst",
+    "M. ter Stegen",
+    "Lucas Rosa",
+    "A. Bouwman",
+    "Y. Baas",
+    "O. Wijndal",
+    "J. Mokio",
+    "Y. Bissouma",
+    "D. Janse",
+    "D. Klaassen",
+    "T. Arokodare",
+    "O. Gloukh"
+   ],
+   "banquillo": [
+    "Jordy Bawuah",
+    "Yannick Gerritsen",
+    "K. Hlynsson",
+    "K. Kurowski",
+    "R. Pasveer",
+    "M. Pjaca",
+    "M. Rosiak",
+    "T. van den Belt",
+    "Lucas Vennegoor of Hesselink",
+    "M. Paes",
+    "Jofre Torrents",
+    "Marcos Leonardo",
+    "J. Heerkens",
+    "A. Ouazane",
+    "O. Edvardsen",
+    "Caio Henrique",
+    "Rayane Bounida",
+    "D. Blind",
+    "Mohamed Abdalla",
+    "S. Amrabat"
+   ],
+   "equipos": {
+    "415": [
+     {
+      "n": "J. Drommel",
+      "pos": "G"
+     },
+     {
+      "n": "B. van Rooij",
+      "pos": "D"
+     },
+     {
+      "n": "R. Pröpper",
+      "pos": "D"
+     },
+     {
+      "n": "R. Nijstad",
+      "pos": "D"
+     },
+     {
+      "n": "A. Adelgaard",
+      "pos": "D"
+     },
+     {
+      "n": "R. Zerrouki",
+      "pos": "M"
+     },
+     {
+      "n": "D. Weidmann",
+      "pos": "M"
+     },
+     {
+      "n": "D. Rots",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Taha",
+      "pos": "M"
+     },
+     {
+      "n": "S. Ørjasæter",
+      "pos": "M"
+     },
+     {
+      "n": "W. Weghorst",
+      "pos": "F"
+     }
+    ],
+    "194": [
+     {
+      "n": "M. ter Stegen",
+      "pos": "G"
+     },
+     {
+      "n": "Lucas Rosa",
+      "pos": "D"
+     },
+     {
+      "n": "A. Bouwman",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Baas",
+      "pos": "D"
+     },
+     {
+      "n": "O. Wijndal",
+      "pos": "D"
+     },
+     {
+      "n": "J. Mokio",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Bissouma",
+      "pos": "M"
+     },
+     {
+      "n": "D. Janse",
+      "pos": "M"
+     },
+     {
+      "n": "D. Klaassen",
+      "pos": "F"
+     },
+     {
+      "n": "T. Arokodare",
+      "pos": "F"
+     },
+     {
+      "n": "O. Gloukh",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557458": {
    "hora": "2026-11-08T14:00:18.171183+01:00",
