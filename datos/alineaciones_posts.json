@@ -7119,25 +7119,307 @@
    "equipos": {}
   },
   "1552224": {
-   "hora": "2026-11-08T16:14:57.080712+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T16:25:21.765054+01:00",
+   "xi": [
+    "J. De Busser",
+    "E. Dijkstra",
+    "W. Goes",
+    "W. Hoedt",
+    "M. Chávez",
+    "D. Kwakman",
+    "P. Koopmeiners",
+    "A. Oufkir",
+    "V. Byskov",
+    "R. Daal",
+    "M. Meerdink",
+    "E. Vaessen",
+    "H. Hateboer",
+    "T. Blokzijl",
+    "M. Rente",
+    "M. Csinger",
+    "T. de Jonge",
+    "P. Clement",
+    "J. Schreuders",
+    "T. van Bergen",
+    "J. Ondrejka",
+    "B. Willumsson"
+   ],
+   "banquillo": [
+    "H. Verhulst",
+    "C. Stengs",
+    "K. Smit",
+    "R. Owusu-Oduro",
+    "A. Natali",
+    "S. Maikuma",
+    "B. Kovacs",
+    "D. Kasius",
+    "R. Ichihara",
+    "M. de Wit",
+    "J. Clasie",
+    "Wassim bouziane",
+    "O. Zawada",
+    "E. van der Laan",
+    "L. Štubljar",
+    "Wouter Prins",
+    "A. Nordin",
+    "J. Mosselaar",
+    "Tyrique Mercera",
+    "T. Land",
+    "Nils Eggens",
+    "Besnik Mashuku",
+    "M. Brandis",
+    "P. Boevink"
+   ],
+   "equipos": {
+    "201": [
+     {
+      "n": "J. De Busser",
+      "pos": "G"
+     },
+     {
+      "n": "E. Dijkstra",
+      "pos": "D"
+     },
+     {
+      "n": "W. Goes",
+      "pos": "D"
+     },
+     {
+      "n": "W. Hoedt",
+      "pos": "D"
+     },
+     {
+      "n": "M. Chávez",
+      "pos": "D"
+     },
+     {
+      "n": "D. Kwakman",
+      "pos": "M"
+     },
+     {
+      "n": "P. Koopmeiners",
+      "pos": "M"
+     },
+     {
+      "n": "A. Oufkir",
+      "pos": "M"
+     },
+     {
+      "n": "V. Byskov",
+      "pos": "M"
+     },
+     {
+      "n": "R. Daal",
+      "pos": "M"
+     },
+     {
+      "n": "M. Meerdink",
+      "pos": "F"
+     }
+    ],
+    "202": [
+     {
+      "n": "E. Vaessen",
+      "pos": "G"
+     },
+     {
+      "n": "H. Hateboer",
+      "pos": "D"
+     },
+     {
+      "n": "T. Blokzijl",
+      "pos": "D"
+     },
+     {
+      "n": "M. Rente",
+      "pos": "D"
+     },
+     {
+      "n": "M. Csinger",
+      "pos": "D"
+     },
+     {
+      "n": "T. de Jonge",
+      "pos": "M"
+     },
+     {
+      "n": "P. Clement",
+      "pos": "M"
+     },
+     {
+      "n": "J. Schreuders",
+      "pos": "M"
+     },
+     {
+      "n": "T. van Bergen",
+      "pos": "M"
+     },
+     {
+      "n": "J. Ondrejka",
+      "pos": "M"
+     },
+     {
+      "n": "B. Willumsson",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552219": {
-   "hora": "2026-11-08T16:14:57.080712+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T16:25:21.765054+01:00",
+   "xi": [
+    "T. Jansen",
+    "D. Bouah",
+    "I. Baouf",
+    "B. van Duijl",
+    "M. Costarelli",
+    "M. Maertens",
+    "N. Souren",
+    "R. El Arguioui",
+    "J. Çeka",
+    "N. Binder",
+    "I. Hamache",
+    "M. Kovář",
+    "S. Dest",
+    "L. Geertruida",
+    "A. Obispo",
+    "F. Kostić",
+    "K. Sano",
+    "Mauro Júnior",
+    "E. Bajraktarevic",
+    "S. Mijnans",
+    "R. van Bommel",
+    "G. Til"
+   ],
+   "banquillo": [
+    "J. Berkhout",
+    "S. Vink",
+    "L. Plogmann",
+    "R. Mulders",
+    "F. Kvam",
+    "W. Kooistra",
+    "Ethan Apkakou",
+    "S. Bouhoudane",
+    "Iwan Henstra",
+    "L. Jetten",
+    "M. Kalisvaart",
+    "B. Vogelzang",
+    "N. Fernandez",
+    "R. Flamingo",
+    "Yarek Gasiorowski",
+    "S. Lammers",
+    "D. Man",
+    "N. Olij",
+    "R. Pepi",
+    "A. Santos",
+    "K. Sildillia",
+    "S. Cornecion",
+    "M. Hansen",
+    "T. Smolenaars"
+   ],
+   "equipos": {
+    "420": [
+     {
+      "n": "T. Jansen",
+      "pos": "G"
+     },
+     {
+      "n": "D. Bouah",
+      "pos": "D"
+     },
+     {
+      "n": "I. Baouf",
+      "pos": "D"
+     },
+     {
+      "n": "B. van Duijl",
+      "pos": "D"
+     },
+     {
+      "n": "M. Costarelli",
+      "pos": "D"
+     },
+     {
+      "n": "M. Maertens",
+      "pos": "M"
+     },
+     {
+      "n": "N. Souren",
+      "pos": "M"
+     },
+     {
+      "n": "R. El Arguioui",
+      "pos": "M"
+     },
+     {
+      "n": "J. Çeka",
+      "pos": "F"
+     },
+     {
+      "n": "N. Binder",
+      "pos": "F"
+     },
+     {
+      "n": "I. Hamache",
+      "pos": "F"
+     }
+    ],
+    "197": [
+     {
+      "n": "M. Kovář",
+      "pos": "G"
+     },
+     {
+      "n": "S. Dest",
+      "pos": "D"
+     },
+     {
+      "n": "L. Geertruida",
+      "pos": "D"
+     },
+     {
+      "n": "A. Obispo",
+      "pos": "D"
+     },
+     {
+      "n": "F. Kostić",
+      "pos": "D"
+     },
+     {
+      "n": "K. Sano",
+      "pos": "M"
+     },
+     {
+      "n": "Mauro Júnior",
+      "pos": "M"
+     },
+     {
+      "n": "E. Bajraktarevic",
+      "pos": "M"
+     },
+     {
+      "n": "S. Mijnans",
+      "pos": "M"
+     },
+     {
+      "n": "R. van Bommel",
+      "pos": "M"
+     },
+     {
+      "n": "G. Til",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552812": {
-   "hora": "2026-11-08T16:14:57.080712+01:00",
+   "hora": "2026-11-08T16:25:21.765054+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1552814": {
-   "hora": "2026-11-08T16:14:57.080712+01:00",
+   "hora": "2026-11-08T16:25:21.765054+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
@@ -7150,6 +7432,12 @@
   },
   "1575216": {
    "hora": "2026-11-08T16:20:03.221569+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1550191": {
+   "hora": "2026-11-08T16:25:21.765054+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
