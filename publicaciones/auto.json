@@ -3710,7 +3710,7 @@
   {
     "id": "2026-11-08-combi-partido-1550189",
     "fecha": "2026-11-08T19:45",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 FIORENTINA vs JUVENTUS 🇮🇹\n\n🎯 MÁS DE 1,5 GOLES [x1.25]\n✅ FIORENTINA HACE 3+ CÓRNERS [x1.24]\n✅ AMBOS VEN TARJETA [x1.35]\n✅ JUVENTUS HACE MÁS TIROS A PUERTA [x1.67]\n✅ GANA EL JUVENTUS [x2.15]\n\n🔥 Resultado probable: 1-2 | 0-2 | 1-3\n💥 Cuota total aprox.: 6,09\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 FIORENTINA vs JUVENTUS 🇮🇹\n\n🎯 MÁS DE 1,5 GOLES [x1.25]\n✅ FIORENTINA HACE 3+ CÓRNERS [x1.24]\n✅ AMBOS VEN TARJETA [x1.35]\n✅ JUVENTUS HACE MÁS TIROS A PUERTA [x1.67]\n✅ GANA EL JUVENTUS [x2.20]\n\n🔥 Resultado probable: 1-2 | 0-2 | 1-3\n💥 Cuota total aprox.: 6,23\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3726,7 +3726,7 @@
       1.24,
       1.35,
       1.67,
-      2.15
+      2.2
     ],
     "tarjeta": {
       "local": "Fiorentina",
@@ -3737,7 +3737,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/496.png",
       "fecha": "2026-11-08T20:45",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-11-08T18:18"
   },
   {
     "id": "2026-11-08-estrella-1570443",
