@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 10:54",
+ "actualizado": "2026-11-08 11:05",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -58,9 +58,9 @@
  "total_hoy": 33,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "11:40",
   "dia": "2026-11-08",
-  "titulo": "Reto escalera · día 1/7 · x1,85"
+  "titulo": "Combi Heerenveen vs Feyenoord"
  },
  "ayer": {
   "aciertos": 29,
@@ -174,13 +174,18 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 5,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 43,
+   "posts": 42,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -196,11 +201,6 @@
   },
   "Picks (reel)": {
    "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
