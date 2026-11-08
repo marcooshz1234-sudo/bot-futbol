@@ -609,5 +609,9 @@
   "2026-11-08-combi-multi": {
     "enviado": "2026-11-08T14:30",
     "mensaje_id": 361
+  },
+  "2026-11-08-combi-loca": {
+    "enviado": "2026-11-08T16:00",
+    "mensaje_id": 362
   }
 }
