@@ -103,7 +103,8 @@ def post(dia, hora=HORA, excluir=(), sufijo=""):
         n = x["equipo"]["name"]
         pais = semana.pais_equipo(n)
         bandera = semana.BANDERAS.get(pais, "⚽")
-        nombre = CORTO.get(n, n)
+        from combis_dia import nombre_es
+        nombre = CORTO.get(n, nombre_es(n))
         filas.append({"pais": pais, "bandera": bandera, "escudo_url": x["equipo"].get("logo"), "nombre": nombre, "pick": "WIN"})
         lineas.append(f"{i}. {bandera} {nombre} - Win")
     texto = f"🏆 {titulo} - GANADORES\n\n" + "\n".join(lineas) + "\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"

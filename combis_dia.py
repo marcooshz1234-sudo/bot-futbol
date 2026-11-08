@@ -93,6 +93,89 @@ def tiros_jugadores(ex, hist, base, lok, vok):
     return list(salida.values())
 
 
+PAISES_ES = {"Spain": "España", "France": "Francia", "England": "Inglaterra", "Italy": "Italia", "Germany": "Alemania",
+             "Netherlands": "Países Bajos", "Belgium": "Bélgica", "Croatia": "Croacia", "Czechia": "Chequia",
+             "Türkiye": "Turquía", "Denmark": "Dinamarca", "Norway": "Noruega", "Wales": "Gales", "Greece": "Grecia",
+             "Switzerland": "Suiza", "Scotland": "Escocia", "Iceland": "Islandia", "Sweden": "Suecia", "Poland": "Polonia",
+             "Romania": "Rumanía", "Hungary": "Hungría", "Ukraine": "Ucrania", "Slovakia": "Eslovaquia",
+             "Slovenia": "Eslovenia", "Finland": "Finlandia", "Rep. Of Ireland": "Irlanda", "Northern Ireland": "Irlanda del Norte",
+             "Bosnia & Herzegovina": "Bosnia", "FYR Macedonia": "Macedonia del Norte", "Cyprus": "Chipre", "Latvia": "Letonia",
+             "Lithuania": "Lituania", "Luxembourg": "Luxemburgo", "Moldova": "Moldavia", "Kazakhstan": "Kazajistán",
+             "Belarus": "Bielorrusia", "Faroe Islands": "Islas Feroe", "Azerbaijan": "Azerbaiyán"}
+
+
+def nombre_es(n):
+    """Selecciones en español y las femeninas sin la «W»."""
+    if n in PAISES_ES:
+        return PAISES_ES[n]
+    return n[:-2] + " (fem.)" if n.endswith(" W") else n
+
+
+SOLO_BET365 = (5, 525)   # 08/11 (Marcos): parón: Nations League y Champions femenina
+MERCADOS_BET365 = ("Match Winner", "Double Chance", "Both Teams Score", "Goals Over/Under", "Total - Home",
+                   "Total - Away", "To Win Either Half")
+
+
+def texto_es(t, loc, vis):
+    for n in (loc, vis):
+        es = nombre_es(n)
+        if es != n:
+            if n in PAISES_ES:
+                t = t.replace(f"Gana el {n}", f"Gana {es}").replace(f"el {n}", es)
+            t = t.replace(n, es)
+    return t
+
+
+def pool_bet365(ex):
+    """Picks de un partido sin historial de equipos: probabilidad = la de bet365 quitando su margen."""
+    import picks as P
+    pa = ex["partido"]
+    loc, vis = pa["teams"]["home"], pa["teams"]["away"]
+    inicio = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
+    base = {"partido_id": pa["fixture"]["id"], "fecha": inicio.strftime("%Y-%m-%dT%H:%M"),
+            "competicion": P.COMPETICION.get(pa["league"]["id"], pa["league"]["name"]), "liga_id": pa["league"]["id"],
+            "local": loc["name"], "visitante": vis["name"]}
+    pool = []
+    cu = ex.get("cuotas") or {}
+    mw = {o: float(c) for o, c in cu.get("Match Winner", []) if o in ("Home", "Away")}
+    fav = min(mw, key=mw.get) if mw else None   # «Home» / «Away»
+    for m in MERCADOS_BET365:
+        ops = []
+        for o, c in cu.get(m, []):
+            try:
+                ops.append((o, float(c)))
+            except (TypeError, ValueError):
+                pass
+        if not ops:
+            continue
+        if m in ("Goals Over/Under", "Total - Home", "Total - Away"):
+            grupos = {}
+            for o, c in ops:
+                grupos.setdefault(o.split()[-1], []).append((o, c))
+        elif m == "Double Chance":
+            grupos = {o: [(o, c)] for o, c in ops}
+        else:
+            grupos = {"": ops}
+        for g in grupos.values():
+            margen = sum(1 / c for _, c in g) if len(g) > 1 else 1.05
+            for o, c in g:
+                if c < CUOTA_MIN_PATA or c > 3.0 or P.excluido(m, o) or str(o).startswith("Under") or o == "No" \
+                        or P.es_sin_empate(m, o):
+                    continue
+                prob = (1 / c) / (margen if len(g) > 1 else 1.08 if m == "Double Chance" else 1.05)
+                if prob < 0.5:
+                    continue
+                ld = P.lado_pick({"mercado": m, "opcion": o})
+                if m == "Double Chance":
+                    ld = "local" if o == "Home/Draw" else "visitante" if o == "Draw/Away" else None
+                es_fav = ld is None or (fav == "Home" and ld == "local") or (fav == "Away" and ld == "visitante")
+                pool.append(dict(base, favorito=es_fav, mercado=m, opcion=o, tipo=P.tipo_de(m),
+                                 texto=texto_es(P.texto_pick(m, o, loc["name"], vis["name"]), loc["name"], vis["name"]), cuota=c,
+                                 frecuencia=round(prob, 3), prob_aprendida=round(prob, 3), ventaja=0.0,
+                                 detalle="según bet365", solo_bet365=True))
+    return pool
+
+
 def pool_partido(ex, hist, ap):
     """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos."""
     import aprender
@@ -107,6 +190,8 @@ def pool_partido(ex, hist, ap):
     h_loc = [(p, loc["id"]) for p in hist.get(loc["id"], [])[:P.ULTIMOS]]
     h_vis = [(p, vis["id"]) for p in hist.get(vis["id"], [])[:P.ULTIMOS]]
     lok, vok = len(h_loc) >= P.MIN_PARTIDOS, len(h_vis) >= P.MIN_PARTIDOS
+    if pa["league"]["id"] in SOLO_BET365 and not (lok and vok):
+        return pool_bet365(ex)   # 08/11: selecciones y femenina: sin historial, lo que dice bet365 (sin margen)
     if not (lok or vok) or (not (lok and vok) and pa["league"]["id"] not in P.COPAS):
         return []
     inicio = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)

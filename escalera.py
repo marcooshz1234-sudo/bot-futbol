@@ -79,7 +79,8 @@ def elegir_pool_(fecha, prob_min, comb_min):
             if any(x in k for x in FUERA) or p["fecha"] <= limite \
                     or p.get("estimada") or p.get("solo_con_tarjetas") or not C.fijisimo(p) \
                     or p.get("liga_id") in pausadas or es_sin_empate(p["mercado"], p["opcion"]) \
-                    or (p.get("ventaja") or 0) < MIN_VENTAJA[0]:   # 06/11 (Marcos): nada que bet365 vea mejor que el bot
+                    or (p.get("ventaja") or 0) < MIN_VENTAJA[0] \
+                    or (p.get("solo_bet365") and not p.get("favorito")):   # 08/11: en el parón, solo lo del favorito
                 continue
             if SEGURA["rango"][0] <= p["cuota"] <= SEGURA["rango"][1]:
                 solas.append(p)   # 06/11 (Marcos: «Gana el Sevilla» sola salía más que la pareja/trío del bot)
