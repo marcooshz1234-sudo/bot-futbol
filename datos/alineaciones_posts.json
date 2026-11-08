@@ -207,11 +207,14 @@
   "clave|2026-11-08-combi-loca|1575216|To Win Either Half|Home|Vincenzo Grifo",
   "clave|2026-11-08-combi-multi|1552814|Total - Home|Over 0.5|Adil Bourabaa",
   "clave|2026-11-08-combi-multi|1575216|Match Winner|Home|Vincenzo Grifo",
+  "clave|2026-11-08-combi-multi|1575538|Total - Home|Over 0.5|Eddy Doue",
+  "clave|2026-11-08-combi-multi|1575541|Total - Home|Over 0.5|Tamás Nikitscher",
   "clave|2026-11-08-combi-partido-1550193|1550193|Away Player Shots|Gustav Isaksen - 2|M. Zaccagni",
   "clave|2026-11-08-combi-partido-1550193|1550193|Home Player Shots On Target Total|Scott McTominay - 1|M. Politano",
   "clave|2026-11-08-combi-partido-1550193|1550193|Total - Away|Over 0.5|M. Zaccagni",
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots On Target Total|Jacob Trenskow - 1|Ringo Meerveld",
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots|Maxence Rivera - 2|Ringo Meerveld",
+  "clave|2026-11-08-combi-partido-1575538|1575538|Total - Home|Over 0.5|Eddy Doue",
   "clave|2026-11-08-estrella-1570443|1570443|Away Player Shots|Anthony Gordon - 2|Rodri",
   "clave|2026-11-08-estrella-1570443|1570443|Away Player Shots|Lamine Yamal - 3|Rodri",
   "clave|2026-11-08-ganadores-win-2|1552814|Match Winner|Away|Paris Brunner",
@@ -8425,16 +8428,298 @@
    }
   },
   "1575538": {
-   "hora": "2026-11-08T20:56:43.732507+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T21:07:51.084078+01:00",
+   "xi": [
+    "Léo Linck",
+    "M. Scholze",
+    "S. Leković",
+    "Patrick Luan",
+    "Rafa Soares",
+    "Santiago Serra",
+    "K. Höög Jansson",
+    "A. Marcus",
+    "L. Zvonarek",
+    "I. Stoica",
+    "L. Antonetti",
+    "Samuel Soares",
+    "A. Bah",
+    "Tomás Araújo",
+    "C. Lenglet",
+    "S. Dahl",
+    "H. Sudakov",
+    "João Palhinha",
+    "Rafa",
+    "C. Echeverri",
+    "G. Prestianni",
+    "V. Pavlidis"
+   ],
+   "banquillo": [
+    "R. Muteba",
+    "H. Poniewas",
+    "Joan Jordán",
+    "Diogo Pinto",
+    "A. Chernev",
+    "Alisson",
+    "David Grilo",
+    "T. Moustier",
+    "Robinho",
+    "E. Pedro Vanga",
+    "Bernardo Schappo",
+    "Jefferson Encada",
+    "E. Barrenechea",
+    "Tiago Freitas",
+    "J. Durán",
+    "S. El Karouani",
+    "A. Cabral",
+    "Daniel Banjaqui",
+    "J. Kamiński",
+    "D. Lukebakio",
+    "A. Schjelderup",
+    "Manu",
+    "A. Trubin",
+    "A. Circati"
+   ],
+   "equipos": {
+    "15130": [
+     {
+      "n": "Léo Linck",
+      "pos": "G"
+     },
+     {
+      "n": "M. Scholze",
+      "pos": "D"
+     },
+     {
+      "n": "S. Leković",
+      "pos": "D"
+     },
+     {
+      "n": "Patrick Luan",
+      "pos": "D"
+     },
+     {
+      "n": "Rafa Soares",
+      "pos": "D"
+     },
+     {
+      "n": "Santiago Serra",
+      "pos": "M"
+     },
+     {
+      "n": "K. Höög Jansson",
+      "pos": "M"
+     },
+     {
+      "n": "A. Marcus",
+      "pos": "M"
+     },
+     {
+      "n": "L. Zvonarek",
+      "pos": "M"
+     },
+     {
+      "n": "I. Stoica",
+      "pos": "M"
+     },
+     {
+      "n": "L. Antonetti",
+      "pos": "F"
+     }
+    ],
+    "211": [
+     {
+      "n": "Samuel Soares",
+      "pos": "G"
+     },
+     {
+      "n": "A. Bah",
+      "pos": "D"
+     },
+     {
+      "n": "Tomás Araújo",
+      "pos": "D"
+     },
+     {
+      "n": "C. Lenglet",
+      "pos": "D"
+     },
+     {
+      "n": "S. Dahl",
+      "pos": "D"
+     },
+     {
+      "n": "H. Sudakov",
+      "pos": "M"
+     },
+     {
+      "n": "João Palhinha",
+      "pos": "M"
+     },
+     {
+      "n": "Rafa",
+      "pos": "M"
+     },
+     {
+      "n": "C. Echeverri",
+      "pos": "M"
+     },
+     {
+      "n": "G. Prestianni",
+      "pos": "M"
+     },
+     {
+      "n": "V. Pavlidis",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575541": {
-   "hora": "2026-11-08T20:56:43.732507+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T21:07:51.084078+01:00",
+   "xi": [
+    "E. van der Gouw",
+    "João Tomé",
+    "J. Lomboto",
+    "Gustavo Mancha",
+    "M. Vrousai",
+    "M. Patricio",
+    "G. Liavas",
+    "Diogo Bezerra",
+    "Diogo Nascimento",
+    "S. Clemmensen",
+    "J. Blesa",
+    "Bernardo Fontes",
+    "G. Lagerbielke",
+    "A. Barišić",
+    "B. Arrey-Mbi",
+    "Diogo Travassos",
+    "J. Gorby",
+    "João Moutinho",
+    "Gabri Martínez",
+    "Pau Victor",
+    "Fran Navarro",
+    "Ricardo Horta"
+   ],
+   "banquillo": [
+    "R. Galčík",
+    "Jose Carlos Teixeira Lopes Reis Goncalves",
+    "Vitor Hugo",
+    "Tamble Monteiro",
+    "D. Špikić",
+    "R. Šiler",
+    "M. Sellouki",
+    "B. Aguilera",
+    "S. Garcia",
+    "T. Nikitscher",
+    "F. Petrasso",
+    "Ryan Guilherme",
+    "J. Wind",
+    "A. Bajrami",
+    "Vitor Carvalho",
+    "Tiago Sá",
+    "Diego Rodrigues",
+    "J. Milošević",
+    "Tomás Marqués",
+    "D. Huseinbašić",
+    "Víctor Gómez",
+    "M. Dorgeles",
+    "Flinto Augusto Patrão Da Costa",
+    "Sergio Barcia"
+   ],
+   "equipos": {
+    "226": [
+     {
+      "n": "E. van der Gouw",
+      "pos": "G"
+     },
+     {
+      "n": "João Tomé",
+      "pos": "D"
+     },
+     {
+      "n": "J. Lomboto",
+      "pos": "D"
+     },
+     {
+      "n": "Gustavo Mancha",
+      "pos": "D"
+     },
+     {
+      "n": "M. Vrousai",
+      "pos": "D"
+     },
+     {
+      "n": "M. Patricio",
+      "pos": "M"
+     },
+     {
+      "n": "G. Liavas",
+      "pos": "M"
+     },
+     {
+      "n": "Diogo Bezerra",
+      "pos": "M"
+     },
+     {
+      "n": "Diogo Nascimento",
+      "pos": "M"
+     },
+     {
+      "n": "S. Clemmensen",
+      "pos": "M"
+     },
+     {
+      "n": "J. Blesa",
+      "pos": "F"
+     }
+    ],
+    "217": [
+     {
+      "n": "Bernardo Fontes",
+      "pos": "G"
+     },
+     {
+      "n": "G. Lagerbielke",
+      "pos": "D"
+     },
+     {
+      "n": "A. Barišić",
+      "pos": "D"
+     },
+     {
+      "n": "B. Arrey-Mbi",
+      "pos": "D"
+     },
+     {
+      "n": "Diogo Travassos",
+      "pos": "M"
+     },
+     {
+      "n": "J. Gorby",
+      "pos": "M"
+     },
+     {
+      "n": "João Moutinho",
+      "pos": "M"
+     },
+     {
+      "n": "Gabri Martínez",
+      "pos": "M"
+     },
+     {
+      "n": "Pau Victor",
+      "pos": "F"
+     },
+     {
+      "n": "Fran Navarro",
+      "pos": "F"
+     },
+     {
+      "n": "Ricardo Horta",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
