@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 11:38",
+ "actualizado": "2026-11-08 11:49",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2150,
-   "hoy": 24,
+   "seguidores": 2151,
+   "hoy": 25,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2150
+    2151
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2501,
- "total_hoy": 34,
+ "total": 2502,
+ "total_hoy": 35,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:40",
+  "hora": "11:55",
   "dia": "2026-11-08",
-  "titulo": "Combi Heerenveen vs Feyenoord"
+  "titulo": "Combi Napoli vs Lazio"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,12 +168,17 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2150,
+   "threads": 2151,
    "facebook": 1,
    "telegram": 316
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 42,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 5,
    "likes_media": 0.0,
@@ -181,11 +186,6 @@
   },
   "Otros (reel)": {
    "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 42,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
