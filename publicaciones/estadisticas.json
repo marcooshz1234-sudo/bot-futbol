@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 15:51",
+ "actualizado": "2026-11-08 16:02",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2178,
-   "hoy": 52,
+   "seguidores": 2179,
+   "hoy": 53,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2178
+    2179
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 322,
-   "hoy": 15,
+   "seguidores": 323,
+   "hoy": 16,
    "serie": [
     214,
     232,
@@ -50,17 +50,17 @@
     277,
     294,
     307,
-    322
+    323
    ]
   }
  },
- "total": 2535,
- "total_hoy": 68,
+ "total": 2537,
+ "total_hoy": 70,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "16:55",
   "dia": "2026-11-08",
-  "titulo": "La loca del domingo x7,01"
+  "titulo": "Manchester united aston villa"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,9 +168,9 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2178,
+   "threads": 2179,
    "facebook": 1,
-   "telegram": 322
+   "telegram": 323
   }
  },
  "tipos_instagram": {
