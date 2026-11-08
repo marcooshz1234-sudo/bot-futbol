@@ -3776,7 +3776,7 @@
   {
     "id": "2026-11-08-combi-partido-1575538",
     "fecha": "2026-11-08T20:30",
-    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 ESTRELA vs BENFICA 🇵🇹\n\n🎯 ESTRELA HACE 8+ TIROS [x1.18]\n✅ ESTRELA MARCA [x1.73]\n✅ BENFICA MARCA EN LAS DOS PARTES [x1.73]\n✅ ESTRELA HACE MÁS DE 2,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 1-1 | 1-2 | 1-0\n💥 Cuota total aprox.: 5,84\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 ESTRELA vs BENFICA 🇵🇹\n\n🎯 ESTRELA HACE 8+ TIROS [x1.18]\n✅ ESTRELA MARCA [x1.67]\n✅ BENFICA MARCA EN LAS DOS PARTES [x1.67]\n✅ ESTRELA HACE MÁS DE 2,5 CÓRNERS [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 1-0\n💥 Cuota total aprox.: 4,96\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3788,9 +3788,9 @@
     ],
     "cuotas": [
       1.18,
-      1.73,
-      1.73,
-      1.83
+      1.67,
+      1.67,
+      1.67
     ],
     "tarjeta": {
       "local": "Estrela",
@@ -3801,6 +3801,7 @@
       "logo_v": "https://media.api-sports.io/football/teams/211.png",
       "fecha": "2026-11-08T21:30",
       "liga": "Primeira Liga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-08T19:01"
   }
 ]
