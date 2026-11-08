@@ -3770,7 +3770,15 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-08-pick-seguro"
+    "verde_de": "2026-11-08-pick-seguro",
+    "enviado": "2026-11-08T21:19",
+    "mensaje_id": 370,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18120696149118088",
+      "instagram": "18345536851286048",
+      "instagram_story": "18118266143038871"
+    }
   },
   {
     "id": "2026-11-08-verde-auto-2026-11-08-combi-partido-1575544",
@@ -3781,6 +3789,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-08-combi-partido-1575544"
+    "verde_de": "2026-11-08-combi-partido-1575544",
+    "enviado": "2026-11-08T21:19",
+    "mensaje_id": 371,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18435256546145569",
+      "instagram": "18134517883760296",
+      "instagram_story": "18108607373203234"
+    }
   }
 ]
