@@ -160,3 +160,4 @@
 2026-11-08 01:37:32 texto /combis → ok
 2026-11-08 01:37:32 texto /combis → ok
 2026-11-08 02:12:51 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
+2026-11-08 07:42:38 arranca el bot del móvil
