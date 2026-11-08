@@ -3679,7 +3679,7 @@
   {
     "id": "2026-11-08-combi-partido-1575544",
     "fecha": "2026-11-08T18:00",
-    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 VITÓRIA SC vs FC PORTO 🇵🇹\n\n🎯 VITÓRIA SC HACE 8+ TIROS [x1.18]\n✅ GANA EL FC PORTO [x1.53]\n✅ VITÓRIA SC HACE 3+ CÓRNERS [x1.35]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x2.10]\n\n🔥 Resultado probable: 0-1 | 1-2 | 0-2\n💥 Cuota total aprox.: 3,56\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 VITÓRIA SC vs FC PORTO 🇵🇹\n\n🎯 VITÓRIA SC HACE 8+ TIROS [x1.18]\n✅ GANA EL FC PORTO [x1.50]\n✅ VITÓRIA SC HACE 3+ CÓRNERS [x1.35]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x2.10]\n\n🔥 Resultado probable: 0-1 | 1-2 | 0-2\n💥 Cuota total aprox.: 3,49\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3691,7 +3691,7 @@
     ],
     "cuotas": [
       1.18,
-      1.53,
+      1.5,
       1.35,
       2.1
     ],
@@ -3704,7 +3704,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/212.png",
       "fecha": "2026-11-08T19:00",
       "liga": "Primeira Liga"
-    }
+    },
+    "cuotas_revisadas": "2026-11-08T16:31"
   },
   {
     "id": "2026-11-08-combi-partido-1550189",
