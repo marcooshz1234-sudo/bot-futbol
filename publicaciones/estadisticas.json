@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 15:11",
+ "actualizado": "2026-11-08 15:22",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2170,
-   "hoy": 44,
+   "seguidores": 2173,
+   "hoy": 47,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2170
+    2173
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 321,
-   "hoy": 14,
+   "seguidores": 322,
+   "hoy": 15,
    "serie": [
     214,
     232,
@@ -50,17 +50,17 @@
     277,
     294,
     307,
-    321
+    322
    ]
   }
  },
- "total": 2526,
- "total_hoy": 59,
+ "total": 2530,
+ "total_hoy": 63,
  "likes_hoy": 0,
  "proximo": {
   "hora": "16:00",
   "dia": "2026-11-08",
-  "titulo": "La loca del domingo x7,15"
+  "titulo": "La loca del domingo x7,01"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,9 +168,9 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2170,
+   "threads": 2173,
    "facebook": 1,
-   "telegram": 321
+   "telegram": 322
   }
  },
  "tipos_instagram": {
