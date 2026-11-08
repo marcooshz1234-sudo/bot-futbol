@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 20:16",
+ "actualizado": "2026-11-08 20:26",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2202,
-   "hoy": 76,
+   "seguidores": 2205,
+   "hoy": 79,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2202
+    2205
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 327,
-   "hoy": 20,
+   "seguidores": 328,
+   "hoy": 21,
    "serie": [
     214,
     232,
@@ -50,17 +50,17 @@
     277,
     294,
     307,
-    327
+    328
    ]
   }
  },
- "total": 2564,
- "total_hoy": 97,
+ "total": 2568,
+ "total_hoy": 101,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:25",
+  "hora": "20:30",
   "dia": "2026-11-08",
-  "titulo": "Atletico madrid barcelona"
+  "titulo": "Combi Estrela vs Benfica"
  },
  "ayer": {
   "aciertos": 29,
@@ -162,19 +162,19 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2202,
+   "threads": 2205,
    "facebook": 1,
-   "telegram": 327
+   "telegram": 328
   }
  },
  "tipos_instagram": {
-  "Combi loca (reel)": {
-   "posts": 45,
+  "Combi de partido (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi de partido (reel)": {
-   "posts": 5,
+  "Combi loca (reel)": {
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
