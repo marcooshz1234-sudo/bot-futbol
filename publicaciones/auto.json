@@ -3481,7 +3481,7 @@
   {
     "id": "2026-11-08-combi-partido-1550193",
     "fecha": "2026-11-08T11:55",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 NAPOLI vs LAZIO 🇮🇹\n\n🎯 GUSTAV ISAKSEN: 2+ TIROS [x1.25]\n✅ LAZIO MARCA [x1.28]\n✅ SCOTT MCTOMINAY: 1+ TIROS A PUERTA [x1.57]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.83]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 4,10\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 NAPOLI vs LAZIO 🇮🇹\n\n🎯 GUSTAV ISAKSEN: 2+ TIROS [x1.22]\n✅ LAZIO MARCA [x1.28]\n✅ SCOTT MCTOMINAY: 1+ TIROS A PUERTA [x1.53]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.83]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 3,89\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3492,9 +3492,9 @@
       "1550193|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.25,
+      1.22,
       1.28,
-      1.57,
+      1.53,
       1.83
     ],
     "espera_alineacion": true,
@@ -3507,7 +3507,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/487.png",
       "fecha": "2026-11-08T12:30",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-11-08T10:32"
   },
   {
     "id": "2026-11-08-combi-tres",
