@@ -30,6 +30,7 @@
   "2026-11-07-combi-multi|Achraf Hakimi: 2+ tiros",
   "2026-11-07-combi-partido-1552815|Achraf Hakimi: 2+ tiros",
   "2026-11-07-estrella-1557457|Mohamed Belloumi: 1+ tiros",
+  "2026-11-08-combi-loca|Pathe Mboup: 2+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -200,11 +201,13 @@
   "clave|2026-11-07-ganadores-win|1557457|Match Winner|Home|V. Gyökeres",
   "clave|2026-11-07-ganadores-win|1575212|Match Winner|Home|S. Guirassy",
   "clave|2026-11-07-ganadores-win|1575213|Match Winner|Home|A. Nusa",
+  "clave|2026-11-08-combi-multi|1552814|Total - Home|Over 0.5|Adil Bourabaa",
   "clave|2026-11-08-combi-partido-1550193|1550193|Away Player Shots|Gustav Isaksen - 2|M. Zaccagni",
   "clave|2026-11-08-combi-partido-1550193|1550193|Home Player Shots On Target Total|Scott McTominay - 1|M. Politano",
   "clave|2026-11-08-combi-partido-1550193|1550193|Total - Away|Over 0.5|M. Zaccagni",
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots On Target Total|Jacob Trenskow - 1|Ringo Meerveld",
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots|Maxence Rivera - 2|Ringo Meerveld",
+  "clave|2026-11-08-ganadores-win-2|1552814|Match Winner|Away|Paris Brunner",
   "clave|2026-11-08-ganadores-win|1557459|Match Winner|Away|T. Nyoni",
   "clave|2026-11-08-picks-manana|1552816|Home Player Shots|Sebastian Szymanski - 1|S. Szymański",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
@@ -7413,16 +7416,286 @@
    }
   },
   "1552812": {
-   "hora": "2026-11-08T16:36:42.116387+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T16:47:12.753900+01:00",
+   "xi": [
+    "E. Selvik",
+    "K. Lala",
+    "L. Tousart",
+    "G. Lloris",
+    "B. Locko",
+    "J. Chotard",
+    "H. Magnetti",
+    "Mama Baldé",
+    "K. Doumbia",
+    "N. Edjouma",
+    "L. Ajorque",
+    "D. Greif",
+    "Z. Athekame",
+    "R. Kluivert",
+    "M. Niakhaté",
+    "N. Tagliafico",
+    "N. Nartey",
+    "T. Tessmann",
+    "C. Tolisso",
+    "K. Boudache",
+    "K. Merah",
+    "Keito Nakamura"
+   ],
+   "banquillo": [
+    "J. Bourgault",
+    "M. Diambou",
+    "Ibrahim Yayiya Kante",
+    "P. Mboup",
+    "D. N´Guessan",
+    "J. Nonge Boende",
+    "M. Patouillet",
+    "G. Versini",
+    "L. Zogbe",
+    "J. Duranville",
+    "Alejandro Gomes Rodriguez",
+    "N. Kamara",
+    "Clinton Mata",
+    "E. Nuamah",
+    "R. Descamps",
+    "M. Bidstrup",
+    "F. Bacher",
+    "Abner"
+   ],
+   "equipos": {
+    "106": [
+     {
+      "n": "E. Selvik",
+      "pos": "G"
+     },
+     {
+      "n": "K. Lala",
+      "pos": "D"
+     },
+     {
+      "n": "L. Tousart",
+      "pos": "D"
+     },
+     {
+      "n": "G. Lloris",
+      "pos": "D"
+     },
+     {
+      "n": "B. Locko",
+      "pos": "D"
+     },
+     {
+      "n": "J. Chotard",
+      "pos": "M"
+     },
+     {
+      "n": "H. Magnetti",
+      "pos": "M"
+     },
+     {
+      "n": "Mama Baldé",
+      "pos": "M"
+     },
+     {
+      "n": "K. Doumbia",
+      "pos": "M"
+     },
+     {
+      "n": "N. Edjouma",
+      "pos": "M"
+     },
+     {
+      "n": "L. Ajorque",
+      "pos": "F"
+     }
+    ],
+    "80": [
+     {
+      "n": "D. Greif",
+      "pos": "G"
+     },
+     {
+      "n": "Z. Athekame",
+      "pos": "D"
+     },
+     {
+      "n": "R. Kluivert",
+      "pos": "D"
+     },
+     {
+      "n": "M. Niakhaté",
+      "pos": "D"
+     },
+     {
+      "n": "N. Tagliafico",
+      "pos": "D"
+     },
+     {
+      "n": "N. Nartey",
+      "pos": "M"
+     },
+     {
+      "n": "T. Tessmann",
+      "pos": "M"
+     },
+     {
+      "n": "C. Tolisso",
+      "pos": "M"
+     },
+     {
+      "n": "K. Boudache",
+      "pos": "F"
+     },
+     {
+      "n": "K. Merah",
+      "pos": "F"
+     },
+     {
+      "n": "Keito Nakamura",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1552814": {
-   "hora": "2026-11-08T16:36:42.116387+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T16:47:12.753900+01:00",
+   "xi": [
+    "N. Kocik",
+    "R. Bamba",
+    "S. Yohou",
+    "H. Voyer",
+    "L. Bretelle",
+    "L. Buadés",
+    "D. Traoré",
+    "J. Vercruysse",
+    "L. Calodat",
+    "L. Mafouta",
+    "D. Guèye",
+    "L. Hrádecký",
+    "Vanderson",
+    "Sadibou Sané",
+    "E. Dier",
+    "Flávio Nazinho",
+    "L. Camara",
+    "D. Zakaria",
+    "M. Coulibaly",
+    "A. Golovin",
+    "M. Detourbet",
+    "M. Abline"
+   ],
+   "banquillo": [
+    "Raúl Torrente",
+    "N. Boissé",
+    "E. Colas",
+    "W. Harhouz",
+    "E. Hatfout",
+    "Y. Larouci",
+    "A. Lauray",
+    "A. Rabillard",
+    "Adnane Kharroubi",
+    "F. Balogun",
+    "Paris Josua  Brunner",
+    "Pape Cabral",
+    "E. Diop",
+    "P. Köhn",
+    "C. Mawissa Elebi",
+    "T. Minamino",
+    "J. Teze",
+    "I. Touré"
+   ],
+   "equipos": {
+    "1298": [
+     {
+      "n": "N. Kocik",
+      "pos": "G"
+     },
+     {
+      "n": "R. Bamba",
+      "pos": "D"
+     },
+     {
+      "n": "S. Yohou",
+      "pos": "D"
+     },
+     {
+      "n": "H. Voyer",
+      "pos": "D"
+     },
+     {
+      "n": "L. Bretelle",
+      "pos": "M"
+     },
+     {
+      "n": "L. Buadés",
+      "pos": "M"
+     },
+     {
+      "n": "D. Traoré",
+      "pos": "M"
+     },
+     {
+      "n": "J. Vercruysse",
+      "pos": "M"
+     },
+     {
+      "n": "L. Calodat",
+      "pos": "M"
+     },
+     {
+      "n": "L. Mafouta",
+      "pos": "F"
+     },
+     {
+      "n": "D. Guèye",
+      "pos": "F"
+     }
+    ],
+    "91": [
+     {
+      "n": "L. Hrádecký",
+      "pos": "G"
+     },
+     {
+      "n": "Vanderson",
+      "pos": "D"
+     },
+     {
+      "n": "Sadibou Sané",
+      "pos": "D"
+     },
+     {
+      "n": "E. Dier",
+      "pos": "D"
+     },
+     {
+      "n": "Flávio Nazinho",
+      "pos": "D"
+     },
+     {
+      "n": "L. Camara",
+      "pos": "M"
+     },
+     {
+      "n": "D. Zakaria",
+      "pos": "M"
+     },
+     {
+      "n": "M. Coulibaly",
+      "pos": "M"
+     },
+     {
+      "n": "A. Golovin",
+      "pos": "M"
+     },
+     {
+      "n": "M. Detourbet",
+      "pos": "M"
+     },
+     {
+      "n": "M. Abline",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557464": {
    "hora": "2026-11-08T16:41:46.989377+01:00",
@@ -7437,7 +7710,7 @@
    "equipos": {}
   },
   "1550191": {
-   "hora": "2026-11-08T16:36:42.116387+01:00",
+   "hora": "2026-11-08T16:47:12.753900+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
