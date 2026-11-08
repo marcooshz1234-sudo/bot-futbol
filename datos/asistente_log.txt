@@ -156,3 +156,4 @@
 2026-11-07 13:33:55 arranca el bot del móvil
 2026-11-07 19:28:41 arranca el bot del móvil
 2026-11-08 01:15:26 texto /picks → ok
+2026-11-08 01:37:16 arranca el bot del móvil
