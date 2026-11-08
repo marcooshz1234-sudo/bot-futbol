@@ -120,6 +120,12 @@ class LimiteAlcanzado(Exception):
 # ---------------------------------------------------------------- utilidades
 
 
+def partidos_fuera():
+    """08/11 (Marcos): partidos que bet365 tiene bloqueados (publicaciones/control.json → «partidos_fuera»)."""
+    c = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
+    return {int(x) for x in c.get("partidos_fuera", [])}
+
+
 def partido_caido(post):
     """07/11 (Marcos: «piensa en todo lo que puede fallar»): texto con el motivo si algún partido de un post
     pendiente se ha aplazado/suspendido o ya ha terminado; None si se puede publicar."""
@@ -127,8 +133,11 @@ def partido_caido(post):
     if not sel or post.get("verde_de") or post.get("resultado"):
         return None
     directo = leer(DATOS / "en_directo.json", {}) or {}
+    fuera = partidos_fuera()
     for s in sel:
         fid = str(s).split("|")[0]
+        if fid.isdigit() and int(fid) in fuera:
+            return f"partido {fid} bloqueado en bet365"
         e = (directo.get(fid) or {}).get("estado")
         if e in ("PST", "CANC", "ABD", "AWD", "WO"):
             return f"partido {fid} aplazado o suspendido ({e})"

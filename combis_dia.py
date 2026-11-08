@@ -100,6 +100,9 @@ def pool_partido(ex, hist, ap):
     pa = ex.get("partido")
     if not pa or pa["fixture"]["status"]["short"] not in ("NS", "TBD"):
         return []
+    from bot import partidos_fuera
+    if pa["fixture"]["id"] in partidos_fuera():   # 08/11 (Marcos): partido bloqueado en bet365
+        return []
     loc, vis = pa["teams"]["home"], pa["teams"]["away"]
     h_loc = [(p, loc["id"]) for p in hist.get(loc["id"], [])[:P.ULTIMOS]]
     h_vis = [(p, vis["id"]) for p in hist.get(vis["id"], [])[:P.ULTIMOS]]

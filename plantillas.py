@@ -384,6 +384,13 @@ LINEA_LISTA = ("ℹ️ No hace falta coger todos los picks: es info de los que h
 
 def posts_del_dia(dia, d):
     global FORMATO_27
+    from bot import partidos_fuera
+    fuera = partidos_fuera()
+    if fuera and isinstance(d, dict):   # 08/11 (Marcos): partidos bloqueados en bet365, fuera de todo
+        d = dict(d)
+        for k in ("picks", "mejores_por_partido"):
+            if isinstance(d.get(k), list):
+                d[k] = [p for p in d[k] if not (isinstance(p, dict) and p.get("partido_id") in fuera)]
     FORMATO_27 = dia >= FORMATO_27_DESDE   # el 27 ya está hecho a mano (cola.json)
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     nombre = DIAS[f.weekday()]

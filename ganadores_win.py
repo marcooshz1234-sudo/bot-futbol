@@ -48,7 +48,9 @@ def candidatos(dia, minimo=None, excluir=()):
         s = sum(inv.values())
         lado = max(("Home", "Away"), key=lambda k: inv[k])
         prob = inv[lado] / s
-        if prob < (MIN_PROB if minimo is None else minimo) or pa["fixture"]["id"] in excluir:
+        from bot import partidos_fuera
+        if prob < (MIN_PROB if minimo is None else minimo) or pa["fixture"]["id"] in excluir \
+                or pa["fixture"]["id"] in partidos_fuera():
             continue
         eq = pa["teams"]["home" if lado == "Home" else "away"]
         grande = any(g in eq["name"].lower() for g in GRANDES)
