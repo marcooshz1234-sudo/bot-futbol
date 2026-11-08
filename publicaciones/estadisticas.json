@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 16:52",
+ "actualizado": "2026-11-08 17:03",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2181,
-   "hoy": 55,
+   "seguidores": 2182,
+   "hoy": 56,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2181
+    2182
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2541,
- "total_hoy": 74,
+ "total": 2542,
+ "total_hoy": 75,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:55",
+  "hora": "17:30",
   "dia": "2026-11-08",
-  "titulo": "Manchester united aston villa"
+  "titulo": "Combi Las Palmas vs Eldense"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,12 +168,17 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2181,
+   "threads": 2182,
    "facebook": 1,
    "telegram": 325
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 5,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 6,
    "likes_media": 0.0,
@@ -185,17 +190,12 @@
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Verdes/balance (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
-   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

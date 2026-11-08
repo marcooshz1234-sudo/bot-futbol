@@ -31,6 +31,7 @@
   "2026-11-07-combi-partido-1552815|Achraf Hakimi: 2+ tiros",
   "2026-11-07-estrella-1557457|Mohamed Belloumi: 1+ tiros",
   "2026-11-08-combi-loca|Pathe Mboup: 2+ tiros",
+  "2026-11-08-estrella-1557464|Emiliano Buendia comete 1+ faltas",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -201,7 +202,9 @@
   "clave|2026-11-07-ganadores-win|1557457|Match Winner|Home|V. Gyökeres",
   "clave|2026-11-07-ganadores-win|1575212|Match Winner|Home|S. Guirassy",
   "clave|2026-11-07-ganadores-win|1575213|Match Winner|Home|A. Nusa",
+  "clave|2026-11-08-combi-loca|1575216|To Win Either Half|Home|Vincenzo Grifo",
   "clave|2026-11-08-combi-multi|1552814|Total - Home|Over 0.5|Adil Bourabaa",
+  "clave|2026-11-08-combi-multi|1575216|Match Winner|Home|Vincenzo Grifo",
   "clave|2026-11-08-combi-partido-1550193|1550193|Away Player Shots|Gustav Isaksen - 2|M. Zaccagni",
   "clave|2026-11-08-combi-partido-1550193|1550193|Home Player Shots On Target Total|Scott McTominay - 1|M. Politano",
   "clave|2026-11-08-combi-partido-1550193|1550193|Total - Away|Over 0.5|M. Zaccagni",
@@ -209,6 +212,7 @@
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots|Maxence Rivera - 2|Ringo Meerveld",
   "clave|2026-11-08-ganadores-win-2|1552814|Match Winner|Away|Paris Brunner",
   "clave|2026-11-08-ganadores-win|1557459|Match Winner|Away|T. Nyoni",
+  "clave|2026-11-08-ganadores-win|1575216|Match Winner|Home|Vincenzo Grifo",
   "clave|2026-11-08-picks-manana|1552816|Home Player Shots|Sebastian Szymanski - 1|S. Szymański",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
@@ -7698,16 +7702,286 @@
    }
   },
   "1557464": {
-   "hora": "2026-11-08T16:52:13.599975+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T17:03:06.045136+01:00",
+   "xi": [
+    "S. Lammens",
+    "N. Mazraoui",
+    "L. Yoro",
+    "H. Maguire",
+    "Diogo Dalot",
+    "Y. Tielemans",
+    "K. Mainoo",
+    "A. Diallo",
+    "Bruno Fernandes",
+    "Matheus Cunha",
+    "B. Mbeumo",
+    "Z. Suzuki",
+    "V. Lindelöf",
+    "T. Harwood-Bellis",
+    "Pau Torres",
+    "I. Maatsen",
+    "B. Kamara",
+    "L. Goretzka",
+    "Alysson Edward",
+    "J.  McGinn",
+    "J. Manzambi",
+    "N. Jackson"
+   ],
+   "banquillo": [
+    "J. Fletcher",
+    "M. Mount",
+    "J. Zirkzee",
+    "S. Lacey",
+    "K. Darlow",
+    "M. de Ligt",
+    "A. Heaven",
+    "P. Dorgu",
+    "Andrey Santos",
+    "T. Mings",
+    "M. Cissé",
+    "R. Barkley",
+    "E. Buendía",
+    "João Gomes",
+    "I. Mbaye",
+    "Brian Madjo",
+    "M. Bizot",
+    "George Hemmings"
+   ],
+   "equipos": {
+    "33": [
+     {
+      "n": "S. Lammens",
+      "pos": "G"
+     },
+     {
+      "n": "N. Mazraoui",
+      "pos": "D"
+     },
+     {
+      "n": "L. Yoro",
+      "pos": "D"
+     },
+     {
+      "n": "H. Maguire",
+      "pos": "D"
+     },
+     {
+      "n": "Diogo Dalot",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Tielemans",
+      "pos": "M"
+     },
+     {
+      "n": "K. Mainoo",
+      "pos": "M"
+     },
+     {
+      "n": "A. Diallo",
+      "pos": "M"
+     },
+     {
+      "n": "Bruno Fernandes",
+      "pos": "M"
+     },
+     {
+      "n": "Matheus Cunha",
+      "pos": "M"
+     },
+     {
+      "n": "B. Mbeumo",
+      "pos": "F"
+     }
+    ],
+    "66": [
+     {
+      "n": "Z. Suzuki",
+      "pos": "G"
+     },
+     {
+      "n": "V. Lindelöf",
+      "pos": "D"
+     },
+     {
+      "n": "T. Harwood-Bellis",
+      "pos": "D"
+     },
+     {
+      "n": "Pau Torres",
+      "pos": "D"
+     },
+     {
+      "n": "I. Maatsen",
+      "pos": "D"
+     },
+     {
+      "n": "B. Kamara",
+      "pos": "M"
+     },
+     {
+      "n": "L. Goretzka",
+      "pos": "M"
+     },
+     {
+      "n": "Alysson Edward",
+      "pos": "M"
+     },
+     {
+      "n": "J.  McGinn",
+      "pos": "M"
+     },
+     {
+      "n": "J. Manzambi",
+      "pos": "M"
+     },
+     {
+      "n": "N. Jackson",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575216": {
-   "hora": "2026-11-08T16:52:13.599975+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T17:03:06.045136+01:00",
+   "xi": [
+    "M. Backhaus",
+    "P. Treu",
+    "M. Ginter",
+    "P. Lienhart",
+    "J. Makengo",
+    "M. Eggestein",
+    "Y. Engelhardt",
+    "J. Beste",
+    "Y. Suzuki",
+    "D. Scherhant",
+    "I. Matanović",
+    "F. Rønnow",
+    "Z. Van Den Bosch",
+    "M. Friedrich",
+    "R. Khedira",
+    "J. Haberer",
+    "A. Schäfer",
+    "M. Aebischer",
+    "D. Köhn",
+    "K. Imeri",
+    "T. Skarke",
+    "Livan Burcu"
+   ],
+   "banquillo": [
+    "K. Goto",
+    "V. Grifo",
+    "C. Günter",
+    "L. Höler",
+    "Cyriaque Kalou Irié",
+    "L. Kübler",
+    "F. Müller",
+    "P. Osterhage",
+    "M. Rosenfelder",
+    "E. Latte Lath",
+    "L. Querfeld",
+    "M. Raab",
+    "T. Rothe",
+    "C. Trimmel",
+    "Jeong Woo-Yeong",
+    "A. Ilić",
+    "Linus Guther",
+    "O. Burke"
+   ],
+   "equipos": {
+    "160": [
+     {
+      "n": "M. Backhaus",
+      "pos": "G"
+     },
+     {
+      "n": "P. Treu",
+      "pos": "D"
+     },
+     {
+      "n": "M. Ginter",
+      "pos": "D"
+     },
+     {
+      "n": "P. Lienhart",
+      "pos": "D"
+     },
+     {
+      "n": "J. Makengo",
+      "pos": "D"
+     },
+     {
+      "n": "M. Eggestein",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Engelhardt",
+      "pos": "M"
+     },
+     {
+      "n": "J. Beste",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Suzuki",
+      "pos": "M"
+     },
+     {
+      "n": "D. Scherhant",
+      "pos": "M"
+     },
+     {
+      "n": "I. Matanović",
+      "pos": "F"
+     }
+    ],
+    "182": [
+     {
+      "n": "F. Rønnow",
+      "pos": "G"
+     },
+     {
+      "n": "Z. Van Den Bosch",
+      "pos": "D"
+     },
+     {
+      "n": "M. Friedrich",
+      "pos": "D"
+     },
+     {
+      "n": "R. Khedira",
+      "pos": "D"
+     },
+     {
+      "n": "J. Haberer",
+      "pos": "M"
+     },
+     {
+      "n": "A. Schäfer",
+      "pos": "M"
+     },
+     {
+      "n": "M. Aebischer",
+      "pos": "M"
+     },
+     {
+      "n": "D. Köhn",
+      "pos": "M"
+     },
+     {
+      "n": "K. Imeri",
+      "pos": "M"
+     },
+     {
+      "n": "T. Skarke",
+      "pos": "F"
+     },
+     {
+      "n": "Livan Burcu",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1550191": {
    "hora": "2026-11-08T16:57:21.541508+01:00",
