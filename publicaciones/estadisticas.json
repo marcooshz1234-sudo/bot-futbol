@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 13:21",
+ "actualizado": "2026-11-08 13:32",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 318,
-   "hoy": 11,
+   "seguidores": 319,
+   "hoy": 12,
    "serie": [
     214,
     232,
@@ -50,17 +50,17 @@
     277,
     294,
     307,
-    318
+    319
    ]
   }
  },
- "total": 2512,
- "total_hoy": 45,
+ "total": 2513,
+ "total_hoy": 46,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "13:55",
   "dia": "2026-11-08",
-  "titulo": "Combi del domingo x2,38"
+  "titulo": "Combi Twente vs Ajax"
  },
  "ayer": {
   "aciertos": 29,
@@ -170,7 +170,7 @@
    "instagram": 34,
    "threads": 2159,
    "facebook": 1,
-   "telegram": 318
+   "telegram": 319
   }
  },
  "tipos_instagram": {
