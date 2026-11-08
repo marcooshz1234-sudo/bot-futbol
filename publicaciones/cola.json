@@ -3698,11 +3698,9 @@
     "redes": {
       "instagram_reel": null,
       "threads": "18599502361065573",
-      "threads_enlace": "17996159222847209"
-    },
-    "errores_redes": {
-      "instagram": "contenedor ERROR: ERROR",
-      "instagram_story": "400: Only photo or video can be accepted as media type."
+      "threads_enlace": "17996159222847209",
+      "instagram": "17920106412531532",
+      "instagram_story": "17933978886167900"
     }
   }
 ]
