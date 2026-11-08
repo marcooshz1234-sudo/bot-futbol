@@ -3806,7 +3806,8 @@
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sin_instagram": true
+    "sin_instagram": true,
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-10-recuerdo-729",
@@ -3815,7 +3816,8 @@
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sin_instagram": true
+    "sin_instagram": true,
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-11-verdes-semana",
@@ -3824,7 +3826,8 @@
     "foto": null,
     "origen": "analista",
     "directo": true,
-    "sin_instagram": true
+    "sin_instagram": true,
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-08-balance-auto",
