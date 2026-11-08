@@ -1,7 +1,7 @@
 # Estrela – Benfica
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 21:30 (hora España) · Estadio Jose Gomes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 13:56_
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | E. Barrenechea | M | 6 | 282 | 0 | 2 | 1 | 0,2 | 0 | 0,0 | 3 | 5 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,92 · visitante 2,81 · córners esperados 9,5._
+_Goles esperados: local 0,92 · visitante 2,83 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -199,31 +199,31 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 77% | 77% | 77% | 1.22 | -6% |
 | 1X2: X | 14% | 14% | 14% | 6.50 | -8% |
-| 1X2: 1 | 10% | 9% | 9% | 11.00 | -1% |
-| Doble oportunidad: X2 | 90% | 90% | 90% | 1.05 | -5% |
+| 1X2: 1 | 9% | 9% | 9% | 11.00 | -1% |
+| Doble oportunidad: X2 | 91% | 90% | 90% | 1.05 | -5% |
 | Doble oportunidad: 12 | 86% | 85% | 85% | 1.12 | -4% |
 | Doble oportunidad: 1X | 23% | 25% | 24% | 3.75 | -9% |
-| Ambos marcan: No | 44% | 50% | 47% | 1.91 | -11% |
-| Ambos marcan: Sí | 56% | 50% | 53% | 1.91 | +2% |
+| Ambos marcan: No | 43% | 50% | 47% | 1.91 | -11% |
+| Ambos marcan: Sí | 57% | 50% | 53% | 1.91 | +2% |
 | Goles más/menos: Más de 2.5 | 72% | 70% | 71% | 1.36 | -4% |
-| Goles más/menos: Más de 3.5 | 51% | 50% | 51% | 1.83 | -8% |
-| Goles más/menos: Más de 4.5 | 32% | 31% | 31% | 3.00 | -6% |
-| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.10 | -9% |
-| Goles más/menos: Menos de 3.5 | 49% | 50% | 49% | 1.83 | -9% |
-| Goles más/menos: Menos de 4.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles más/menos: Más de 3.5 | 52% | 50% | 51% | 1.83 | -7% |
+| Goles más/menos: Más de 4.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles más/menos: Menos de 2.5 | 28% | 30% | 29% | 3.10 | -10% |
+| Goles más/menos: Menos de 3.5 | 48% | 50% | 49% | 1.83 | -10% |
+| Goles más/menos: Menos de 4.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 77% | 78% | 1.22 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
 | Goles del local: Más de 0.5 | 60% | 54% | 57% | 1.73 | -2% |
 | Goles del local: Menos de 0.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Goles del visitante: Más de 1.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del visitante: Más de 2.5 | 53% | 50% | 52% | 1.83 | -6% |
-| Goles del visitante: Más de 3.5 | 31% | 29% | 30% | 3.25 | -3% |
+| Goles del visitante: Más de 2.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Goles del visitante: Más de 3.5 | 31% | 29% | 30% | 3.25 | -2% |
 | Goles del visitante: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles del visitante: Menos de 2.5 | 47% | 50% | 48% | 1.83 | -11% |
+| Goles del visitante: Menos de 2.5 | 46% | 50% | 48% | 1.83 | -12% |
 | Goles del visitante: Menos de 3.5 | 69% | 71% | 70% | 1.33 | -7% |
 | Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
 | Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |

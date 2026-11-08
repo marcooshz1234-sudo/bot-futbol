@@ -3743,23 +3743,23 @@
   {
     "id": "2026-11-08-estrella-1570443",
     "fecha": "2026-11-08T20:25",
-    "texto": "🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Marc Pubill comete 1+ faltas\n✅2. Anthony Gordon: 2+ tiros\n✅3. Julian Alvarez: 2+ tiros\n✅4. Alex Grimaldo: 1+ tiros\n✅5. Ambos ven tarjeta\n\n🎯 Cuota: 4,06\n💶 10€ → 40,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸\n⭐ PARTIDO ESTRELLA · 21:00 ⭐\n\n✅1. Marc Pubill comete 1+ faltas\n✅2. Anthony Gordon: 2+ tiros\n✅3. Lamine Yamal: 3+ tiros\n✅4. Julian Alvarez: 2+ tiros\n✅5. Más de 1,5 goles en la 2ª parte\n\n🎯 Cuota: 4,70\n💶 10€ → 47,00€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570443|Player Fouls Committed|Marc Pubill - 1",
       "1570443|Away Player Shots|Anthony Gordon - 2",
+      "1570443|Away Player Shots|Lamine Yamal - 3",
       "1570443|Home Player Shots|Julian Alvarez - 2",
-      "1570443|Home Player Shots|Alex Grimaldo - 1",
-      "1570443|Both Teams Cards|Yes"
+      "1570443|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.36,
       1.28,
+      1.3,
       1.36,
-      1.36,
-      1.24
+      1.53
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -3776,7 +3776,7 @@
   {
     "id": "2026-11-08-combi-partido-1575538",
     "fecha": "2026-11-08T20:30",
-    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 ESTRELA vs BENFICA 🇵🇹\n\n🎯 ESTRELA HACE 8+ TIROS [x1.18]\n✅ ESTRELA MARCA [x1.67]\n✅ BENFICA MARCA EN LAS DOS PARTES [x1.67]\n✅ ESTRELA HACE MÁS DE 2,5 CÓRNERS [x1.67]\n\n🔥 Resultado probable: 1-1 | 1-2 | 1-0\n💥 Cuota total aprox.: 4,96\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 ESTRELA vs BENFICA 🇵🇹\n\n🎯 ESTRELA HACE 8+ TIROS [x1.18]\n✅ ESTRELA MARCA [x1.73]\n✅ BENFICA MARCA EN LAS DOS PARTES [x1.73]\n✅ ESTRELA HACE MÁS DE 2,5 CÓRNERS [x1.83]\n\n🔥 Resultado probable: 1-1 | 1-2 | 1-0\n💥 Cuota total aprox.: 5,84\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3788,9 +3788,9 @@
     ],
     "cuotas": [
       1.18,
-      1.67,
-      1.67,
-      1.67
+      1.73,
+      1.73,
+      1.83
     ],
     "tarjeta": {
       "local": "Estrela",
@@ -3801,7 +3801,6 @@
       "logo_v": "https://media.api-sports.io/football/teams/211.png",
       "fecha": "2026-11-08T21:30",
       "liga": "Primeira Liga"
-    },
-    "cuotas_revisadas": "2026-11-08T19:01"
+    }
   }
 ]

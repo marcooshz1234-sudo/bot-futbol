@@ -1,7 +1,7 @@
 # Oviedo – Girona
 **Segunda División** · Regular Season - 14 · 14/11/2026 21:00 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Oviedo (total) | Oviedo en casa | Girona (total) | Girona fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 6 | 13 | 6 |
-| Forma (últimos 5) | VDEEV | DVVED | DVVVE | DVEVV |
-| Balance | 6V 4E 4D | 2V 2E 2D | 7V 3E 3D | 3V 1E 2D |
-| Goles a favor / partido | 1,57 | 1,17 | 1,85 | 1,33 |
-| Goles en contra / partido | 1,36 | 0,83 | 0,85 | 0,83 |
-| Goles a favor 1ª parte | 0,64 | 0,50 | 1,15 | 0,83 |
-| Goles a favor 2ª parte | 0,93 | 0,67 | 0,69 | 0,50 |
-| Goles en contra 1ª parte | 0,57 | 0,50 | 0,23 | 0,50 |
-| Goles en contra 2ª parte | 0,79 | 0,33 | 0,62 | 0,33 |
-| Más de 1,5 goles | 71% | 50% | 85% | 83% |
-| Más de 2,5 goles | 64% | 33% | 38% | 33% |
-| Más de 3,5 goles | 43% | 33% | 15% | 0% |
-| Ambos marcan | 57% | 33% | 54% | 50% |
-| Portería a cero | 36% | 50% | 38% | 33% |
-| Se queda sin marcar | 21% | 50% | 15% | 17% |
-| xG a favor | 1,69 | 1,81 | 1,48 | 1,00 |
-| xG en contra | 1,56 | 1,27 | 1,36 | 1,44 |
-| Tiros / partido | 15,7 | 18,3 | 14,4 | 11,0 |
-| Tiros a puerta / partido | 5,2 | 5,0 | 5,0 | 4,0 |
+| Partidos analizados | 14 | 6 | 14 | 6 |
+| Forma (últimos 5) | VDEEV | DVVED | DDVVV | DVEVV |
+| Balance | 6V 4E 4D | 2V 2E 2D | 7V 3E 4D | 3V 1E 2D |
+| Goles a favor / partido | 1,57 | 1,17 | 1,71 | 1,33 |
+| Goles en contra / partido | 1,36 | 0,83 | 0,86 | 0,83 |
+| Goles a favor 1ª parte | 0,64 | 0,50 | 1,07 | 0,83 |
+| Goles a favor 2ª parte | 0,93 | 0,67 | 0,64 | 0,50 |
+| Goles en contra 1ª parte | 0,57 | 0,50 | 0,21 | 0,50 |
+| Goles en contra 2ª parte | 0,79 | 0,33 | 0,64 | 0,33 |
+| Más de 1,5 goles | 71% | 50% | 79% | 83% |
+| Más de 2,5 goles | 64% | 33% | 36% | 33% |
+| Más de 3,5 goles | 43% | 33% | 14% | 0% |
+| Ambos marcan | 57% | 33% | 50% | 50% |
+| Portería a cero | 36% | 50% | 36% | 33% |
+| Se queda sin marcar | 21% | 50% | 21% | 17% |
+| xG a favor | 1,69 | 1,81 | 1,44 | 1,00 |
+| xG en contra | 1,56 | 1,27 | 1,32 | 1,44 |
+| Tiros / partido | 15,7 | 18,3 | 14,5 | 11,0 |
+| Tiros a puerta / partido | 5,2 | 5,0 | 4,8 | 4,0 |
 | Tiros recibidos | 13,6 | 11,7 | 11,8 | 15,0 |
-| Tiros a puerta recibidos | 4,2 | 3,5 | 4,2 | 4,2 |
+| Tiros a puerta recibidos | 4,2 | 3,5 | 4,1 | 4,2 |
 | Posesión media % | 51 | 52 | 50 | 48 |
-| Córners a favor | 5,2 | 7,2 | 3,8 | 2,2 |
-| Córners en contra | 4,9 | 3,8 | 4,1 | 3,4 |
-| Córners a favor 1ª parte | 1,9 | 3,0 | 1,7 | 1,4 |
-| Córners a favor 2ª parte | 3,3 | 4,2 | 2,1 | 0,8 |
-| Córners totales del partido | 10,1 | 11,0 | 7,8 | 5,6 |
-| Córners totales 1ª parte | 4,1 | 5,3 | 3,3 | 2,6 |
+| Córners a favor | 5,2 | 7,2 | 4,0 | 2,2 |
+| Córners en contra | 4,9 | 3,8 | 3,9 | 3,4 |
+| Córners a favor 1ª parte | 1,9 | 3,0 | 1,8 | 1,4 |
+| Córners a favor 2ª parte | 3,3 | 4,2 | 2,2 | 0,8 |
+| Córners totales del partido | 10,1 | 11,0 | 7,9 | 5,6 |
+| Córners totales 1ª parte | 4,1 | 5,3 | 3,5 | 2,6 |
 | Córners totales 2ª parte | 6,0 | 5,7 | 4,5 | 3,0 |
-| Más de 8,5 córners | 71% | 83% | 42% | 20% |
-| Más de 9,5 córners | 64% | 67% | 17% | 0% |
-| Más de 10,5 córners | 64% | 67% | 17% | 0% |
-| Faltas cometidas | 13,9 | 12,8 | 11,0 | 11,8 |
-| Faltas recibidas | 13,7 | 14,7 | 15,8 | 18,0 |
-| Amarillas propias | 3,1 | 3,0 | 2,3 | 3,4 |
+| Más de 8,5 córners | 71% | 83% | 46% | 20% |
+| Más de 9,5 córners | 64% | 67% | 15% | 0% |
+| Más de 10,5 córners | 64% | 67% | 15% | 0% |
+| Faltas cometidas | 13,9 | 12,8 | 11,4 | 11,8 |
+| Faltas recibidas | 13,7 | 14,7 | 15,6 | 18,0 |
+| Amarillas propias | 3,1 | 3,0 | 2,5 | 3,4 |
 | Amarillas del rival | 3,0 | 3,0 | 3,3 | 3,8 |
-| Rojas / partido | 0,07 | 0,17 | 0,17 | 0,20 |
+| Rojas / partido | 0,07 | 0,17 | 0,15 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Oviedo | Recibe Oviedo | Tarjetas Oviedo | Goles Girona | Recibe Girona | Tarjetas Girona |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 0 | 1 | 4 | 1 | 2 |
-| 16-30' | 3 | 6 | 8 | 6 | 1 | 3 |
-| 31-45' | 3 | 2 | 6 | 5 | 1 | 2 |
+| 16-30' | 3 | 6 | 8 | 6 | 1 | 4 |
+| 31-45' | 3 | 2 | 6 | 5 | 1 | 4 |
 | 46-60' | 2 | 3 | 4 | 4 | 4 | 6 |
-| 61-75' | 4 | 2 | 9 | 1 | 0 | 8 |
-| 76-90' | 7 | 6 | 17 | 4 | 4 | 12 |
+| 61-75' | 4 | 2 | 9 | 1 | 1 | 9 |
+| 76-90' | 7 | 6 | 17 | 4 | 4 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -107,38 +107,38 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Girona
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-08 | Segunda División | Girona 0-1 Almeria | casa | 7-2 | 16 (3) - 12 (3) | 5-3 |
 | 2026-10-31 | Segunda División | Real Sociedad II 1-0 Girona | fuera | 1-3 | 8 (3) - 14 (5) | 1-6 |
 | 2026-10-27 | Copa del Rey | Cuarte 0-2 Girona | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Segunda División | Girona 5-1 Celta de Vigo II | casa | 7-2 | 21 (8) - 3 (3) | 1-3 |
 | 2026-10-18 | Segunda División | Girona 2-0 FC Andorra | casa | 2-6 | 11 (4) - 6 (3) | 2-2 |
 | 2026-10-12 | Segunda División | Tenerife 1-1 Girona | fuera | 3-6 | 12 (4) - 13 (3) | 4-3 |
-| 2026-10-04 | Segunda División | Girona 0-0 Mallorca | casa | 5-7 | 16 (5) - 9 (1) | 1-4 |
 
 ## Jugadores de Girona
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Álex Moreno | D | 12 | 1068 | 0 | 2 | 11 | 0,9 | 4 | 0,3 | 11 | 20 | 1,7 | 3 | 0 |
-| P. Gazzaniga | G | 12 | 1035 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| I. Gonzalez | M | 12 | 927 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 17 | 23 | 1,9 | 3 | 0 |
-| Alejandro Francés | D | 12 | 920 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 8 | 13 | 1,1 | 1 | 0 |
-| Fran Beltrán | M | 11 | 865 | 1 | 1 | 6 | 0,5 | 4 | 0,4 | 4 | 11 | 1,0 | 2 | 0 |
+| Álex Moreno | D | 13 | 1152 | 0 | 2 | 11 | 0,8 | 4 | 0,3 | 15 | 21 | 1,6 | 4 | 0 |
+| P. Gazzaniga | G | 13 | 1125 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| I. Gonzalez | M | 13 | 1017 | 1 | 0 | 8 | 0,6 | 2 | 0,2 | 18 | 25 | 1,9 | 4 | 0 |
+| Alejandro Francés | D | 13 | 1010 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 8 | 15 | 1,2 | 1 | 0 |
+| Fran Beltrán | M | 12 | 937 | 1 | 1 | 8 | 0,7 | 4 | 0,3 | 5 | 11 | 0,9 | 3 | 0 |
+| Carles Pérez | M | 10 | 762 | 3 | 1 | 12 | 1,2 | 7 | 0,7 | 18 | 21 | 2,1 | 1 | 0 |
 | David López | D | 9 | 696 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 3 | 0,3 | 1 | 1 |
-| Carles Pérez | M | 9 | 672 | 3 | 1 | 10 | 1,1 | 6 | 0,7 | 16 | 19 | 2,1 | 1 | 0 |
 | Holmes Júnior Zamorano Muñoz | D | 8 | 644 | 1 | 0 | 6 | 0,8 | 2 | 0,2 | 9 | 10 | 1,2 | 2 | 0 |
-| V. Vanat | F | 8 | 550 | 5 | 2 | 14 | 1,8 | 9 | 1,1 | 6 | 4 | 0,5 | 1 | 0 |
-| Y. Asprilla | M | 10 | 526 | 5 | 1 | 17 | 1,7 | 10 | 1,0 | 2 | 5 | 0,5 | 0 | 0 |
-| Abel Ruiz | F | 9 | 496 | 2 | 1 | 11 | 1,2 | 5 | 0,6 | 5 | 2 | 0,2 | 2 | 1 |
+| V. Vanat | F | 9 | 633 | 5 | 2 | 16 | 1,8 | 9 | 1,0 | 6 | 4 | 0,4 | 1 | 0 |
+| Abel Ruiz | F | 10 | 559 | 2 | 1 | 13 | 1,3 | 6 | 0,6 | 7 | 2 | 0,2 | 2 | 1 |
+| Y. Asprilla | M | 11 | 553 | 5 | 1 | 18 | 1,6 | 10 | 0,9 | 3 | 8 | 0,7 | 0 | 0 |
 | Bryan Gil | M | 8 | 450 | 1 | 0 | 12 | 1,5 | 4 | 0,5 | 5 | 9 | 1,1 | 1 | 0 |
 | Javier Boñar | D | 8 | 440 | 0 | 1 | 5 | 0,6 | 2 | 0,2 | 7 | 8 | 1,0 | 0 | 0 |
-| Iván Morante | M | 8 | 387 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 3 | 6 | 0,8 | 0 | 0 |
+| Iván Morante | M | 9 | 405 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 5 | 6 | 0,7 | 0 | 0 |
+| Mateu Morey | D | 5 | 303 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 3 | 4 | 0,8 | 1 | 0 |
 | D. van de Beek | M | 7 | 297 | 1 | 0 | 4 | 0,6 | 3 | 0,4 | 4 | 3 | 0,4 | 1 | 0 |
-| Oleksandr Pishchur | F | 9 | 288 | 0 | 0 | 6 | 0,7 | 1 | 0,1 | 5 | 8 | 0,9 | 2 | 0 |
-| Mateu Morey | D | 4 | 213 | 0 | 1 | 2 | 0,5 | 0 | 0,0 | 2 | 3 | 0,8 | 0 | 0 |
+| Oleksandr Pishchur | F | 10 | 294 | 0 | 0 | 9 | 0,9 | 2 | 0,2 | 5 | 8 | 0,8 | 3 | 0 |
+| Unai Hernández | M | 7 | 221 | 1 | 1 | 6 | 0,9 | 2 | 0,3 | 3 | 7 | 1,0 | 0 | 0 |
+| Holmes Zamorano | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 2 | 1 | 0,5 | 0 | 0 |
 | Arnau Martínez | D | 2 | 180 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
-| A. Mumin | D | 7 | 163 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 0,4 | 1 | 0 |
-| Unai Hernández | F | 6 | 149 | 1 | 1 | 5 | 0,8 | 2 | 0,3 | 2 | 4 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,50 · córners esperados 9,4._
+_Goles esperados: local 1,34 · visitante 1,46 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 13:56_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | Alex Garcia | M | 3 | 174 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 0 | 4 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 0,88 · córners esperados 9,7._
+_Goles esperados: local 1,53 · visitante 0,88 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -201,10 +201,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 46% | 46% | 46% | 2.00 | -8% |
 | Goles más/menos: Más de 1.5 | 69% | 71% | 70% | 1.33 | -7% |
 | Goles más/menos: Más de 2.5 | 43% | 46% | 45% | 2.05 | -9% |
-| Goles más/menos: Más de 3.5 | 22% | 25% | 24% | 3.75 | -12% |
+| Goles más/menos: Más de 3.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles más/menos: Menos de 1.5 | 31% | 29% | 30% | 3.25 | -3% |
 | Goles más/menos: Menos de 2.5 | 57% | 54% | 55% | 1.75 | -3% |
-| Goles más/menos: Menos de 3.5 | 78% | 75% | 76% | 1.25 | -4% |
+| Goles más/menos: Menos de 3.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 65% | 65% | 1.44 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -7% |
@@ -215,13 +215,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 22% | 22% | 22% | 4.33 | -6% |
 | Goles del local: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
 | Goles del local: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -4% |
-| Goles del visitante: Más de 0.5 | 58% | 58% | 58% | 1.62 | -6% |
+| Goles del visitante: Más de 0.5 | 59% | 58% | 58% | 1.62 | -6% |
 | Goles del visitante: Más de 1.5 | 22% | 23% | 23% | 4.00 | -9% |
-| Goles del visitante: Menos de 0.5 | 42% | 42% | 42% | 2.20 | -8% |
+| Goles del visitante: Menos de 0.5 | 41% | 42% | 42% | 2.20 | -8% |
 | Goles del visitante: Menos de 1.5 | 78% | 77% | 77% | 1.22 | -6% |
 | Córners más/menos: Más de 9.5 | 47% | 49% | 48% | 1.91 | -9% |
 | Córners más/menos: Menos de 9.5 | 53% | 51% | 52% | 1.80 | -6% |
-| 1X2 descanso: X | 45% | 42% | 44% | 2.20 | -4% |
+| 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -4% |
 | 1X2 descanso: 1 | 37% | 39% | 38% | 2.38 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

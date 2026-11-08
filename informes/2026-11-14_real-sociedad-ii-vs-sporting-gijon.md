@@ -1,7 +1,7 @@
 # Real Sociedad II – Sporting Gijon
 **Segunda División** · Regular Season - 14 · 14/11/2026 16:15 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -138,6 +138,6 @@ _Sin bajas comunicadas por ahora._
 | Antonio Casas | F | 5 | 182 | 3 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,18 · visitante 1,40 · córners esperados 9,4._
+_Goles esperados: local 1,19 · visitante 1,41 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

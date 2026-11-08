@@ -1,19 +1,19 @@
 # Resultados de las apuestas de valor
 
-_Actualizado el 08/11/2026 13:56. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
+_Actualizado el 08/11/2026 19:50. Cada pick cuenta como 1 unidad apostada a la cuota de Bet365 de la última actualización antes del partido._
 
-- **Picks jugados:** 116 · **acertados:** 38 (33%)
-- **Beneficio:** -13.04 unidades · **rentabilidad (yield):** -11.2%
-- **Cuota media:** 2.90 · **pendientes:** 19
+- **Picks jugados:** 128 · **acertados:** 39 (30%)
+- **Beneficio:** -22.84 unidades · **rentabilidad (yield):** -17.8%
+- **Cuota media:** 2.91 · **pendientes:** 8
 
 ## Por tipo de apuesta
 
 | Mercado | Picks | Acertados | Beneficio | Yield |
 |---|---|---|---|---|
-| 1X2 | 28 | 10 (36%) | -1.85 | -6.6% |
-| Goles más/menos | 28 | 7 (25%) | -9.41 | -33.6% |
-| Goles del local | 22 | 11 (50%) | +11.00 | +50.0% |
-| Goles del visitante | 18 | 3 (17%) | -9.26 | -51.4% |
+| Goles más/menos | 32 | 7 (22%) | -13.41 | -41.9% |
+| 1X2 | 31 | 10 (32%) | -4.85 | -15.6% |
+| Goles del local | 24 | 11 (46%) | +9.00 | +37.5% |
+| Goles del visitante | 21 | 4 (19%) | -10.06 | -47.9% |
 | Doble oportunidad | 10 | 4 (40%) | -1.25 | -12.5% |
 | 1X2 descanso | 5 | 2 (40%) | +0.63 | +12.6% |
 | Goles 1ª parte más/menos | 3 | 0 (0%) | -3.00 | -100.0% |
@@ -23,6 +23,18 @@ _Actualizado el 08/11/2026 13:56. Cada pick cuenta como 1 unidad apostada a la c
 
 | Fecha | Partido | Apuesta | Cuota | Resultado | Unidades |
 |---|---|---|---|---|---|
+| 2026-11-08 | SC Freiburg – Union Berlin | Goles más/menos: Más de 3.5 | 2.62 | ❌ | -1.00 |
+| 2026-11-08 | SC Freiburg – Union Berlin | Goles del local: Más de 2.5 | 2.50 | ❌ | -1.00 |
+| 2026-11-08 | Manchester United – Aston Villa | 1X2: 2 | 3.10 | ❌ | -1.00 |
+| 2026-11-08 | Angers – Nice | 1X2: 1 | 3.50 | ❌ | -1.00 |
+| 2026-11-08 | Le Havre – Lorient | Goles más/menos: Menos de 1.5 | 3.40 | ❌ | -1.00 |
+| 2026-11-08 | Real Sociedad – Rayo Vallecano | Goles del visitante: Más de 1.5 | 2.75 | ❌ | -1.00 |
+| 2026-11-08 | Sunderland – Chelsea | Goles del local: Más de 1.5 | 3.00 | ❌ | -1.00 |
+| 2026-11-08 | Sunderland – Chelsea | Goles más/menos: Más de 3.5 | 3.00 | ❌ | -1.00 |
+| 2026-11-08 | Monza – Atalanta | Goles del visitante: Menos de 1.5 | 2.20 | ✅ | +1.20 |
+| 2026-11-08 | Monza – Atalanta | 1X2: 1 | 3.50 | ❌ | -1.00 |
+| 2026-11-08 | Ipswich – Bournemouth | Goles más/menos: Más de 3.5 | 2.75 | ❌ | -1.00 |
+| 2026-11-08 | Ipswich – Bournemouth | Goles del visitante: Más de 2.5 | 3.50 | ❌ | -1.00 |
 | 2026-11-07 | Paris Saint Germain – Estac Troyes | Goles del local: Más de 3.5 | 2.62 | ❌ | -1.00 |
 | 2026-11-07 | Paris Saint Germain – Estac Troyes | Goles más/menos: Más de 4.5 | 3.00 | ❌ | -1.00 |
 | 2026-11-07 | Valencia – Real Madrid | Goles más/menos: Menos de 2.5 | 2.62 | ❌ | -1.00 |
@@ -51,15 +63,3 @@ _Actualizado el 08/11/2026 13:56. Cada pick cuenta como 1 unidad apostada a la c
 | 2026-11-05 | Getafe – Brighton | Goles del visitante: Más de 2.5 | 3.25 | ❌ | -1.00 |
 | 2026-11-05 | Crystal Palace – 1899 Hoffenheim | Goles del visitante: Más de 1.5 | 2.50 | ❌ | -1.00 |
 | 2026-11-05 | Crystal Palace – 1899 Hoffenheim | 1X2: 2 | 3.75 | ❌ | -1.00 |
-| 2026-11-05 | Real Sociedad – Lyon | Doble oportunidad: X2 | 2.15 | ✅ | +1.15 |
-| 2026-11-05 | Real Sociedad – Lyon | Goles del local: Menos de 1.5 | 2.38 | ✅ | +1.38 |
-| 2026-11-04 | RB Leipzig – Manchester City | Doble oportunidad: 1X | 2.38 | ❌ | -1.00 |
-| 2026-11-04 | RB Leipzig – Manchester City | Goles del visitante: Menos de 1.5 | 3.40 | ❌ | -1.00 |
-| 2026-11-04 | Borussia Dortmund – Real Betis | Goles más/menos: Menos de 2.5 | 2.75 | ❌ | -1.00 |
-| 2026-11-03 | Atletico Madrid – Bayern München | 1X2: 2 | 2.25 | ✅ | +1.25 |
-| 2026-11-03 | Manchester United – AS Roma | 1X2: 2 | 2.90 | ❌ | -1.00 |
-| 2026-11-02 | Newcastle – Everton | Goles del local: Menos de 1.5 | 1.83 | ✅ | +0.83 |
-| 2026-11-02 | Newcastle – Everton | 1X2: 2 | 3.20 | ✅ | +2.20 |
-| 2026-11-02 | Atalanta – Parma | Goles del local: Menos de 1.5 | 2.62 | ✅ | +1.62 |
-| 2026-11-02 | Atalanta – Parma | Goles más/menos: Menos de 2.5 | 2.50 | ❌ | -1.00 |
-| 2026-11-02 | Lorient – Stade Brestois 29 | Goles del local: Menos de 0.5 | 3.25 | ✅ | +2.25 |

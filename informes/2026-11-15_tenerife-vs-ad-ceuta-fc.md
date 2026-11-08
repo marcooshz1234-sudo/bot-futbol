@@ -1,7 +1,7 @@
 # Tenerife – AD Ceuta FC
 **Segunda División** · Regular Season - 14 · 15/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Alex Petxarroman | D | 6 | 311 | 0 | 0 | 5 | 0,8 | 2 | 0,3 | 4 | 7 | 1,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,09 · córners esperados 9,0._
+_Goles esperados: local 1,62 · visitante 1,10 · córners esperados 9,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

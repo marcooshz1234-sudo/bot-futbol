@@ -1,18 +1,18 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 504 · aciertos: 309 (61%) · beneficio a 1 € por pick: -68.32 €
+Picks ya jugados: 547 · aciertos: 340 (62%) · beneficio a 1 € por pick: -66.35 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 134 | 210 | 64% | -24.43 € |
-| jugador | 101 | 161 | 63% | -23.01 € |
-| resultado | 57 | 91 | 63% | -7.12 € |
-| tarjetas | 9 | 16 | 56% | -1.53 € |
+| resultado | 64 | 100 | 64% | -5.50 € |
+| jugador | 118 | 185 | 64% | -22.93 € |
+| goles | 137 | 215 | 64% | -25.51 € |
+| tarjetas | 12 | 19 | 63% | +0.20 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 2 | 12 | 17% | -8.76 € |
-| fueras de juego | 0 | 2 | 0% | -2.00 € |
+| corners | 3 | 13 | 23% | -8.14 € |
+| fueras de juego | 0 | 3 | 0% | -3.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
 ## Por mercado (mín. 3 picks)
@@ -21,25 +21,27 @@ Picks ya jugados: 504 · aciertos: 309 (61%) · beneficio a 1 € por pick: -68.
 |---|---|---|---|
 | To Win Either Half · Home | 6 | 6 | 100% |
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
-| Goals Over/Under · Over 1.5 | 26 | 33 | 79% |
-| Double Chance · Home/Draw | 7 | 9 | 78% |
+| Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
+| Double Chance · Home/Draw | 8 | 10 | 80% |
 | Match Winner · Home | 7 | 9 | 78% |
+| Goals Over/Under · Over 1.5 | 29 | 38 | 76% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
+| Match Winner · Away | 8 | 11 | 73% |
+| Home Team Total Cards · Over 1.5 | 8 | 11 | 73% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
-| Match Winner · Away | 6 | 9 | 67% |
-| Home Team Total Cards · Over 1.5 | 6 | 9 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
+| Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Away · Over 0.5 | 27 | 47 | 57% |
-| To Win Either Half · Away | 5 | 10 | 50% |
+| To Win Either Half · Away | 6 | 12 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
+| Double Chance · Draw/Away | 12 | 28 | 43% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
-| Double Chance · Draw/Away | 9 | 24 | 38% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
@@ -48,7 +50,50 @@ Picks ya jugados: 504 · aciertos: 309 (61%) · beneficio a 1 € por pick: -68.
 
 ## Últimos días
 
-### 2026-11-07 · 29/53
+### 2026-11-08 · 31/41
+- ✅ Heerenveen hace más de 3,5 córners · 1.62 (5-3)
+- ✅ Scott McTominay: 1+ tiros a puerta · 1.50 (1-1)
+- ✅ Noa Lang: 1+ tiros a puerta · 1.50 (1-1)
+- ✅ Real Betis o empate · 1.36 (0-2)
+- ✅ Wout Weghorst: 1+ tiros a puerta · 1.25 (2-2)
+- ✅ Jorthy Mokio: 1+ tiros · 1.40 (2-2)
+- ✅ Brighton o empate · 1.28 (2-0)
+- ✅ Gana el Liverpool · 1.70 (1-3)
+- ✅ Gustavo Varela: 1+ tiros a puerta · 1.44 (0-1)
+- ✅ Gana el Bournemouth · 1.85 (1-2)
+- ❌ Más de 1,5 goles en Sunderland–Chelsea · 1.25 (1-0)
+- ✅ Más de 1,5 goles en Genoa–AC Milan · 1.36 (1-2)
+- ✅ Evanilson comete 1+ faltas · 1.33 (1-2)
+- ✅ James Hill comete 1+ faltas · 1.30 (1-2)
+- ✅ Jeremy Jacquet comete 1+ faltas · 1.28 (1-3)
+- ❌ Vitaly Janelt comete 1+ faltas · 1.44 (2-0)
+- ✅ Adrien Truffert comete 1+ faltas · 1.28 (1-2)
+- ✅ Keane Lewis-Potter comete 1+ faltas · 1.57 (2-0)
+- ❌ Cole Palmer comete 1+ faltas · 1.53 (1-0)
+- ✅ Exequiel Palacios comete 1+ faltas · 1.62 (1-2)
+- ❌ Más de 2,5 fueras de juego en Sunderland–Chelsea · 1.67 (1-0)
+- ❌ Sebastian Szymanski: 1+ tiros · 1.25 (1-2)
+- ✅ Mikael Egill Ellertsson comete 1+ faltas · 1.50 (1-2)
+- ✅ Ipswich ve más de 1,5 tarjetas · 1.50 (1-2)
+- ✅ Bayer Leverkusen gana alguna de las dos partes · 1.36 (1-2)
+- ❌ Miguel Gutierrez comete 1+ faltas · 1.73 (1-2)
+- ✅ Marius Bulter comete 1+ faltas · 1.73 (1-2)
+- ✅ Stefan Dzodic: 1+ tiros · 1.40 (0-1)
+- ❌ Más de 1,5 goles en Girona–Almeria · 1.25 (0-1)
+- ✅ Jorge De Frutos comete 1+ faltas · 1.25 (1-0)
+- ✅ Real Sociedad ve más de 1,5 tarjetas · 1.50 (1-0)
+- ❌ Pathe Mboup: 1+ tiros a puerta · 1.40 (2-0)
+- ❌ Pathe Mboup: 2+ tiros · 1.30 (2-0)
+- ✅ Lorient o empate · 1.40 (0-2)
+- ✅ Más de 1,5 goles en Stade Brestois 29–Lyon · 1.28 (2-0)
+- ✅ Más de 1,5 goles en Le Mans–Monaco · 1.28 (1-1)
+- ✅ Aston Villa o empate · 1.67 (4-4)
+- ✅ Bryan Mbeumo: 1+ tiros a puerta · 1.40 (4-4)
+- ✅ Zeno Van Den Bosch comete 1+ faltas · 1.33 (2-0)
+- ❌ Jordy Makengo comete 1+ faltas · 1.67 (2-0)
+- ✅ Más de 3,5 tarjetas en SC Freiburg–Union Berlin · 1.73 (2-0)
+
+### 2026-11-07 · 29/55
 - ✅ Leeds o empate · 1.44 (1-0)
 - ❌ Tottenham o empate · 1.50 (1-0)
 - ❌ Más de 1,5 goles en Leeds–Tottenham · 1.30 (1-0)
@@ -85,6 +130,8 @@ Picks ya jugados: 504 · aciertos: 309 (61%) · beneficio a 1 € por pick: -68.
 - ✅ Oviedo gana alguna de las dos partes · 1.80 (1-2)
 - ✅ Fortuna Sittard o empate · 1.28 (2-2)
 - ✅ Gana el Fortuna Sittard · 2.00 (2-2)
+- ❌ Academico Viseu gana alguna de las dos partes · 1.73 (1-0)
+- ❌ Academico Viseu o empate · 1.40 (1-0)
 - ✅ Más de 1,5 goles en Parma–Bologna · 1.36 (1-2)
 - ❌ Werder Bremen marca · 1.33 (1-0)
 - ❌ Gana el Manchester City · 1.73 (3-1)
@@ -218,69 +265,4 @@ Picks ya jugados: 504 · aciertos: 309 (61%) · beneficio a 1 € por pick: -68.
 - ✅ Gol en la 2ª parte del Deportivo La Coruna–Osasuna · 1.30 (2-1)
 - ✅ Thierno Barry: 2+ tiros · 1.25 (0-1)
 - ✅ Osasuna marca · 1.50 (2-1)
-
-### 2026-11-01 · 42/63
-- ❌ ADO Den Haag marca · 1.25 (1-0)
-- ❌ Más de 1,5 goles en la 2ª parte del PEC Zwolle–ADO Den Haag · 1.80 (1-0)
-- ✅ Gol en la 1ª parte del PEC Zwolle–ADO Den Haag · 1.28 (1-0)
-- ✅ Gana el Como · 1.30 (1-0)
-- ❌ Antoine Hainaut: 1+ tiros · 1.36 (1-0)
-- ❌ Akor Adams: 2+ tiros · 1.40 (1-0)
-- ❌ Como marca 2 o más · 1.28 (1-0)
-- ✅ Sevilla marca · 1.40 (3-1)
-- ✅ Gol en la 2ª parte del Getafe–Sevilla · 1.36 (3-1)
-- ❌ Sevilla o empate · 1.36 (3-1)
-- ✅ Más de 1,5 goles en Getafe–Sevilla · 1.53 (3-1)
-- ✅ Granada CF marca · 1.33 (0-2)
-- ✅ Más de 2,5 goles en Telstar–Utrecht · 1.53 (4-2)
-- ❌ Utrecht o empate · 1.36 (4-2)
-- ✅ Auxerre marca · 1.33 (5-1)
-- ✅ No hay empate en Strasbourg–Auxerre · 1.25 (5-1)
-- ✅ Más de 2,5 goles en Strasbourg–Auxerre · 1.57 (5-1)
-- ✅ Ambos marcan en Strasbourg–Auxerre · 1.57 (5-1)
-- ✅ Más de 1,5 goles en la 2ª parte del Strasbourg–Auxerre · 1.80 (5-1)
-- ✅ Gol en la 1ª parte del Strasbourg–Auxerre · 1.28 (5-1)
-- ✅ Alessandro Romano: 1+ tiros · 1.40 (2-1)
-- ❌ Gol en la 1ª parte del Frosinone–Torino · 1.25 (2-0)
-- ✅ Gana el Lazio · 1.48 (2-1)
-- ❌ Pietro Comuzzo comete 1+ faltas · 1.28 (2-0)
-- ✅ Patrizio Masini comete 2+ faltas · 1.62 (2-0)
-- ✅ Said El Mala: 3+ tiros · 1.50 (1-1)
-- ❌ Rani Khedira comete 1+ faltas · 1.25 (1-1)
-- ❌ Said El Mala comete 1+ faltas · 1.40 (1-1)
-- ✅ Zeno Van Den Bosch comete 1+ faltas · 1.40 (1-1)
-- ✅ Marius Bulter comete 1+ faltas · 1.67 (1-1)
-- ❌ Racing Santander marca · 1.44 (0-3)
-- ❌ Ambos marcan y más de 2,5 goles en Racing Santander–Real Madrid · 1.62 (0-3)
-- ❌ Ambos marcan en Racing Santander–Real Madrid · 1.50 (0-3)
-- ✅ Gana el Sporting Gijon · 2.15 (0-2)
-- ✅ Gol en la 1ª parte del AD Ceuta FC–Sporting Gijon · 1.36 (0-2)
-- ✅ Más de 1,5 goles en AD Ceuta FC–Sporting Gijon · 1.25 (0-2)
-- ✅ Arouca gana alguna de las dos partes · 1.40 (1-0)
-- ✅ Gana el Arouca · 1.73 (1-0)
-- ❌ Gol en la 1ª parte del Arouca–Nacional · 1.36 (1-0)
-- ✅ Sparta Rotterdam marca · 1.30 (2-3)
-- ✅ Ambos marcan en Groningen–Sparta Rotterdam · 1.44 (2-3)
-- ✅ Más de 2,5 goles en Groningen–Sparta Rotterdam · 1.44 (2-3)
-- ✅ Ambos marcan y más de 2,5 goles en Groningen–Sparta Rotterdam · 1.67 (2-3)
-- ✅ Groningen marca 2 o más · 1.53 (2-3)
-- ❌ Más de 1,5 goles en la 2ª parte del Groningen–Sparta Rotterdam · 1.67 (2-3)
-- ✅ No hay empate en Liverpool–Arsenal · 1.30 (0-1)
-- ❌ David Wolfe comete 1+ faltas · 1.44 (3-1)
-- ✅ Más de 1,5 goles en Lecce–Genoa · 1.44 (1-2)
-- ✅ Gol en la 1ª parte del Lecce–Genoa · 1.50 (1-2)
-- ✅ Genoa marca · 1.36 (1-2)
-- ✅ Más de 23,5 tiros en Lecce–Genoa · 1.80 (1-2)
-- ✅ Gol en la 1ª parte del Burgos–Castellón · 1.33 (1-1)
-- ✅ Gol en la 1ª parte del Academico Viseu–Rio Ave · 1.36 (2-1)
-- ✅ Gol en la 1ª parte del Maritimo–Santa Clara · 1.53 (0-2)
-- ✅ Santa Clara marca · 1.33 (0-2)
-- ✅ Gana el Academico Viseu · 1.80 (2-1)
-- ✅ Gana el Santa Clara · 2.20 (0-2)
-- ❌ Toulouse marca · 1.33 (2-0)
-- ✅ Más de 1,5 goles en Athletic Club–Real Sociedad · 1.25 (2-1)
-- ❌ Real Sociedad o empate · 1.80 (2-1)
-- ❌ Robert Navarro: 1+ tiros a puerta · 1.44 (2-1)
-- ❌ Mamadou Sarr comete 1+ faltas · 1.40 (2-1)
-- ✅ Enric Gallego: 1+ tiros a puerta · 1.30 (2-2)
 

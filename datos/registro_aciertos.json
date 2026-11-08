@@ -8981,7 +8981,8 @@
   "movimiento": 0.0,
   "ventaja": 0.019,
   "prob_aprendida": 0.866,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1552812|Home Player Shots On Target Total|Pathe Mboup - 1": {
   "partido_id": 1552812,
@@ -9003,7 +9004,8 @@
   "movimiento": -0.067,
   "ventaja": 0.175,
   "prob_aprendida": 0.568,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1552812|Home Player Shots|Pathe Mboup - 2": {
   "partido_id": 1552812,
@@ -9025,7 +9027,8 @@
   "movimiento": 0.016,
   "ventaja": 0.12,
   "prob_aprendida": 0.743,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1570445|Double Chance|Draw/Away": {
   "partido_id": 1570445,
@@ -9047,7 +9050,8 @@
   "movimiento": null,
   "ventaja": 0.065,
   "prob_aprendida": 0.448,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1557464|Double Chance|Draw/Away": {
   "partido_id": 1557464,
@@ -9069,7 +9073,8 @@
   "movimiento": null,
   "ventaja": 0.251,
   "prob_aprendida": 0.301,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-4"
  },
  "1552813|Double Chance|Draw/Away": {
   "partido_id": 1552813,
@@ -9091,7 +9096,8 @@
   "movimiento": null,
   "ventaja": 0.168,
   "prob_aprendida": 0.343,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1635662|Away Player Shots|Carlos Augusto - 1": {
   "partido_id": 1635662,
@@ -9172,16 +9178,16 @@
   "opcion": "Home/Draw",
   "tipo": "resultado",
   "texto": "Utrecht o empate",
-  "cuota": 1.44,
-  "frecuencia": 0.8,
+  "cuota": 1.4,
+  "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
   "valor_mercado": 0.0,
-  "movimiento": 0.029,
-  "ventaja": 0.106,
-  "prob_aprendida": 0.71,
+  "movimiento": 0.0,
+  "ventaja": 0.036,
+  "prob_aprendida": 0.769,
   "acierto": null
  },
  "1557459|Match Winner|Away": {
@@ -9204,7 +9210,8 @@
   "movimiento": null,
   "ventaja": 0.012,
   "prob_aprendida": 0.375,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-3"
  },
  "1563250|Double Chance|Draw/Away": {
   "partido_id": 1563250,
@@ -9341,7 +9348,8 @@
   "movimiento": null,
   "ventaja": 0.1,
   "prob_aprendida": 0.797,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1550193|Home Player Shots On Target Total|Scott McTominay - 1": {
   "partido_id": 1550193,
@@ -9363,7 +9371,8 @@
   "movimiento": null,
   "ventaja": 0.167,
   "prob_aprendida": 0.627,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1635622|Home Player Shots|Alex Grimaldo - 1": {
   "partido_id": 1635622,
@@ -9476,7 +9485,8 @@
   "movimiento": 0.029,
   "ventaja": 0.206,
   "prob_aprendida": 0.688,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1550193|Home Player Shots On Target Total|Noa Lang - 1": {
   "partido_id": 1550193,
@@ -9498,7 +9508,8 @@
   "movimiento": null,
   "ventaja": 0.133,
   "prob_aprendida": 0.562,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1557462|Match Winner|Away": {
   "partido_id": 1557462,
@@ -9520,7 +9531,8 @@
   "movimiento": -0.026,
   "ventaja": 0.109,
   "prob_aprendida": 0.542,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1575219|To Win Either Half|Away": {
   "partido_id": 1575219,
@@ -9542,7 +9554,8 @@
   "movimiento": 0.023,
   "ventaja": 0.015,
   "prob_aprendida": 0.559,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1635662|Away Player Shots|Nicolo Barella - 1": {
   "partido_id": 1635662,
@@ -10022,7 +10035,8 @@
   "movimiento": -0.023,
   "ventaja": 0.1,
   "prob_aprendida": 0.86,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1563239|Home Team Total Cards|Over 1.5": {
   "partido_id": 1563239,
@@ -10274,7 +10288,8 @@
   "movimiento": 0.023,
   "ventaja": 0.115,
   "prob_aprendida": 0.768,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1636337|Player Fouls Committed|Evanilson - 1": {
   "partido_id": 1636337,
@@ -10434,7 +10449,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.533,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1575540|Double Chance|Draw/Away": {
   "partido_id": 1575540,
@@ -10456,7 +10472,8 @@
   "movimiento": null,
   "ventaja": 0.036,
   "prob_aprendida": 0.417,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1575537|Goals Over/Under|Over 1.5": {
   "partido_id": 1575537,
@@ -10500,7 +10517,8 @@
   "movimiento": null,
   "ventaja": 0.175,
   "prob_aprendida": 0.739,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1575539|Double Chance|Draw/Away": {
   "partido_id": 1575539,
@@ -10589,7 +10607,7 @@
   "valor_mercado": -0.008,
   "movimiento": 0.025,
   "ventaja": 0.2,
-  "prob_aprendida": 0.854,
+  "prob_aprendida": 0.83,
   "acierto": null
  },
  "1635745|Player Fouls Committed|Joe Bell - 1": {
@@ -10863,7 +10881,8 @@
   "movimiento": null,
   "ventaja": 0.133,
   "prob_aprendida": 0.556,
-  "acierto": null
+  "acierto": true,
+  "marcador": "5-3"
  },
  "1563261|Double Chance|Home/Draw": {
   "partido_id": 1563261,
@@ -11023,7 +11042,8 @@
   "movimiento": null,
   "ventaja": 0.148,
   "prob_aprendida": 0.615,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1557462|Player Fouls Committed|James Hill - 1": {
   "partido_id": 1557462,
@@ -11045,7 +11065,8 @@
   "movimiento": null,
   "ventaja": 0.031,
   "prob_aprendida": 0.69,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1557459|Player Fouls Committed|Jeremy Jacquet - 1": {
   "partido_id": 1557459,
@@ -11067,7 +11088,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.663,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-3"
  },
  "1557458|Player Fouls Committed|Vitaly Janelt - 1": {
   "partido_id": 1557458,
@@ -11089,7 +11111,8 @@
   "movimiento": null,
   "ventaja": 0.206,
   "prob_aprendida": 0.604,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1557462|Player Fouls Committed|Adrien Truffert - 1": {
   "partido_id": 1557462,
@@ -11111,7 +11134,8 @@
   "movimiento": null,
   "ventaja": 0.019,
   "prob_aprendida": 0.518,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1557458|Player Fouls Committed|Keane Lewis-Potter - 1": {
   "partido_id": 1557458,
@@ -11133,7 +11157,8 @@
   "movimiento": null,
   "ventaja": 0.163,
   "prob_aprendida": 0.531,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1557466|Player Fouls Committed|Cole Palmer - 1": {
   "partido_id": 1557466,
@@ -11155,7 +11180,8 @@
   "movimiento": null,
   "ventaja": 0.146,
   "prob_aprendida": 0.529,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1557462|Player Fouls Committed|Exequiel Palacios - 1": {
   "partido_id": 1557462,
@@ -11177,7 +11203,8 @@
   "movimiento": null,
   "ventaja": 0.216,
   "prob_aprendida": 0.486,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1557466|Offsides Total|Over 2.5": {
   "partido_id": 1557466,
@@ -11199,7 +11226,8 @@
   "movimiento": null,
   "ventaja": 0.179,
   "prob_aprendida": 0.475,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1557464|Home Player Shots On Target Total|Bryan Mbeumo - 1": {
   "partido_id": 1557464,
@@ -11221,7 +11249,8 @@
   "movimiento": -0.067,
   "ventaja": 0.086,
   "prob_aprendida": 0.54,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-4"
  },
  "1557457|Player Fouls Committed|Mohamed Belloumi - 1": {
   "partido_id": 1557457,
@@ -11886,7 +11915,8 @@
   "movimiento": 0.157,
   "ventaja": 0.089,
   "prob_aprendida": 0.779,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-2"
  },
  "1550190|Player Fouls Committed|Mikael Egill Ellertsson - 1": {
   "partido_id": 1550190,
@@ -11908,7 +11938,8 @@
   "movimiento": null,
   "ventaja": 0.133,
   "prob_aprendida": 0.462,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1636245|Goals Over/Under|Over 1.5": {
   "partido_id": 1636245,
@@ -12044,7 +12075,8 @@
   "movimiento": 0.059,
   "ventaja": 0.05,
   "prob_aprendida": 0.841,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1552222|Away Player Shots|Jorthy Mokio - 1": {
   "partido_id": 1552222,
@@ -12066,7 +12098,8 @@
   "movimiento": -0.028,
   "ventaja": 0.186,
   "prob_aprendida": 0.748,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1570443|Away Player Shots|Lamine Yamal - 3": {
   "partido_id": 1570443,
@@ -12087,7 +12120,7 @@
   "valor_mercado": null,
   "movimiento": 0.066,
   "ventaja": 0.231,
-  "prob_aprendida": 0.76,
+  "prob_aprendida": 0.749,
   "acierto": null
  },
  "1575216|Player Fouls Committed|Zeno Van Den Bosch - 1": {
@@ -12110,7 +12143,8 @@
   "movimiento": null,
   "ventaja": 0.123,
   "prob_aprendida": 0.6,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1575215|Player Fouls Committed|Fisnik Asllani - 1": {
   "partido_id": 1575215,
@@ -12154,7 +12188,8 @@
   "movimiento": null,
   "ventaja": 0.057,
   "prob_aprendida": 0.573,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1570444|Player Fouls Committed|Ivan Romero - 1": {
   "partido_id": 1570444,
@@ -12242,7 +12277,8 @@
   "movimiento": null,
   "ventaja": 0.222,
   "prob_aprendida": 0.443,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-2"
  },
  "1570443|Player Fouls Committed|Marc Pubill - 1": {
   "partido_id": 1570443,
@@ -12286,7 +12322,8 @@
   "movimiento": null,
   "ventaja": 0.279,
   "prob_aprendida": 0.438,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1575216|Player Fouls Committed|Jordy Makengo - 1": {
   "partido_id": 1575216,
@@ -12308,7 +12345,8 @@
   "movimiento": null,
   "ventaja": 0.201,
   "prob_aprendida": 0.405,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1575215|Home Player Shots On Target Total|Alexander Prass - 1": {
   "partido_id": 1575215,
@@ -12375,7 +12413,8 @@
   "movimiento": null,
   "ventaja": 0.272,
   "prob_aprendida": 0.323,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1570005|To Win Either Half|Away": {
   "partido_id": 1570005,
@@ -12489,7 +12528,8 @@
   "movimiento": null,
   "ventaja": 0.183,
   "prob_aprendida": 0.449,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-2"
  },
  "1552812|Goals Over/Under|Over 1.5": {
   "partido_id": 1552812,
@@ -12511,7 +12551,8 @@
   "movimiento": 0.049,
   "ventaja": 0.113,
   "prob_aprendida": 0.792,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1552814|Goals Over/Under|Over 1.5": {
   "partido_id": 1552814,
@@ -12533,7 +12574,8 @@
   "movimiento": 0.094,
   "ventaja": 0.166,
   "prob_aprendida": 0.788,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1570443|Home Player Shots|Alex Grimaldo - 1": {
   "partido_id": 1570443,
@@ -12554,7 +12596,7 @@
   "valor_mercado": null,
   "movimiento": 0.214,
   "ventaja": 0.165,
-  "prob_aprendida": 0.635,
+  "prob_aprendida": 0.592,
   "acierto": null
  },
  "1570449|Home Team Total Cards|Over 1.5": {
@@ -12577,7 +12619,8 @@
   "movimiento": null,
   "ventaja": 0.083,
   "prob_aprendida": 0.478,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1570452|Cards Over/Under|Over 4.5": {
   "partido_id": 1570452,

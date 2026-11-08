@@ -1,7 +1,7 @@
 # Lens – Marseille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 13:56_
@@ -207,46 +207,46 @@ _Sin bajas comunicadas por ahora._
 | D. Cornelius | D | 4 | 101 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,01 · visitante 1,93 · córners esperados 9,5._
+_Goles esperados: local 2,04 · visitante 1,93 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 33% | 36% | 2.88 | +2% |
+| 1X2: 2 | 38% | 33% | 35% | 2.88 | +2% |
 | 1X2: X | 21% | 26% | 23% | 3.70 | -14% |
-| 1X2: 1 | 41% | 41% | 41% | 2.30 | -5% |
-| Doble oportunidad: X2 | 59% | 60% | 59% | 1.57 | -7% |
+| 1X2: 1 | 42% | 41% | 42% | 2.30 | -5% |
+| Doble oportunidad: X2 | 58% | 60% | 59% | 1.57 | -7% |
 | Doble oportunidad: 12 | 79% | 73% | 76% | 1.28 | -2% |
-| Doble oportunidad: 1X | 62% | 67% | 64% | 1.40 | -10% |
-| Ambos marcan: No | 26% | 39% | 33% | 2.38 | -23% |
-| Ambos marcan: Sí | 74% | 61% | 67% | 1.53 | +3% |
-| Goles más/menos: Más de 1.5 | 90% | 79% | 85% | 1.20 | +2% |
-| Goles más/menos: Más de 2.5 | 75% | 59% | 67% | 1.62 | +9% |
+| Doble oportunidad: 1X | 62% | 67% | 65% | 1.40 | -9% |
+| Ambos marcan: No | 26% | 39% | 32% | 2.38 | -23% |
+| Ambos marcan: Sí | 74% | 61% | 68% | 1.53 | +3% |
+| Goles más/menos: Más de 1.5 | 91% | 79% | 85% | 1.20 | +2% |
+| Goles más/menos: Más de 2.5 | 76% | 59% | 67% | 1.62 | +9% |
 | Goles más/menos: Más de 3.5 ✅ | 56% | 36% | 46% | 2.62 | +21% |
-| Goles más/menos: Más de 4.5 | 36% | 21% | 29% | 4.50 | +29% |
-| Goles más/menos: Menos de 1.5 | 10% | 21% | 15% | 4.50 | -31% |
-| Goles más/menos: Menos de 2.5 | 25% | 41% | 33% | 2.30 | -24% |
+| Goles más/menos: Más de 4.5 | 37% | 21% | 29% | 4.50 | +30% |
+| Goles más/menos: Menos de 1.5 | 9% | 21% | 15% | 4.50 | -32% |
+| Goles más/menos: Menos de 2.5 | 24% | 41% | 33% | 2.30 | -25% |
 | Goles más/menos: Menos de 3.5 | 44% | 64% | 54% | 1.50 | -19% |
-| Goles más/menos: Menos de 4.5 | 64% | 79% | 71% | 1.20 | -14% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
+| Goles más/menos: Menos de 4.5 | 63% | 79% | 71% | 1.20 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 82% | 75% | 79% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 51% | 44% | 48% | 2.10 | +0% |
-| Goles 1ª parte más/menos: Más de 2.5 | 25% | 21% | 23% | 4.50 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
+| Goles 1ª parte más/menos: Más de 2.5 | 25% | 21% | 23% | 4.50 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 21% | 3.75 | -20% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 49% | 56% | 52% | 1.67 | -13% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
 | Goles del local: Más de 0.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del local: Más de 1.5 | 60% | 49% | 54% | 1.91 | +3% |
-| Goles del local: Más de 2.5 | 33% | 23% | 28% | 4.00 | +12% |
-| Goles del local: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles del local: Menos de 1.5 | 40% | 51% | 46% | 1.80 | -17% |
-| Goles del local: Menos de 2.5 | 67% | 77% | 72% | 1.22 | -12% |
+| Goles del local: Más de 1.5 | 60% | 49% | 54% | 1.91 | +4% |
+| Goles del local: Más de 2.5 | 33% | 23% | 28% | 4.00 | +14% |
+| Goles del local: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -24% |
+| Goles del local: Menos de 1.5 | 40% | 51% | 46% | 1.80 | -18% |
+| Goles del local: Menos de 2.5 | 67% | 77% | 72% | 1.22 | -13% |
 | Goles del visitante: Más de 0.5 | 86% | 75% | 80% | 1.25 | +0% |
 | Goles del visitante: Más de 1.5 ✅ | 58% | 42% | 50% | 2.20 | +10% |
 | Goles del visitante: Menos de 0.5 | 14% | 25% | 20% | 3.75 | -26% |
 | Goles del visitante: Menos de 1.5 | 42% | 58% | 50% | 1.62 | -19% |
-| Córners más/menos: Más de 9.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Córners más/menos: Menos de 9.5 | 55% | 50% | 52% | 1.83 | -4% |
-| 1X2 descanso: 2 | 32% | 29% | 31% | 3.20 | -2% |
-| 1X2 descanso: X | 34% | 37% | 36% | 2.50 | -11% |
-| 1X2 descanso: 1 | 34% | 34% | 34% | 2.75 | -7% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 53% | 1.83 | -4% |
+| 1X2 descanso: 2 | 32% | 29% | 30% | 3.20 | -3% |
+| 1X2 descanso: X | 34% | 37% | 35% | 2.50 | -11% |
+| 1X2 descanso: 1 | 34% | 34% | 34% | 2.75 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Mallorca – Cordoba
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 13:56._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 19:50._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Carlos Albarrán | D | 7 | 201 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,73 · visitante 1,07 · córners esperados 9,8._
+_Goles esperados: local 1,74 · visitante 1,08 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._
