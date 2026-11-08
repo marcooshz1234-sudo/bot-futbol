@@ -69,7 +69,8 @@ COMPETICION = {140: "LaLiga", 39: "Premier", 135: "Serie A", 78: "Bundesliga",
                61: "Ligue 1", 2: "Champions", 3: "Europa League", 848: "Conference",
                141: "Segunda", 40: "Championship", 88: "Eredivisie", 94: "Primeira Liga",
                143: "Copa del Rey", 48: "Carabao Cup", 45: "FA Cup", 137: "Coppa Italia", 81: "DFB-Pokal",
-               66: "Coupe de France", 96: "Taça de Portugal", 90: "KNVB Beker"}
+               66: "Coupe de France", 96: "Taça de Portugal", 90: "KNVB Beker",
+               5: "Nations League", 525: "Champions Femenina"}   # 08/11: parón de selecciones
 
 TERMINADOS = {"FT", "AET", "PEN"}
 

@@ -67,7 +67,7 @@ def elegir_pool_(fecha, prob_min, comb_min):
     ap = leer(DATOS / "aprendizaje.json") or {}
     limite = (datetime.now(MADRID) + timedelta(minutes=40)).strftime("%Y-%m-%dT%H:%M")
     pausadas = PAUSADAS.get(fecha, ())
-    cand, solas = [], []
+    cand, solas, mismos = [], [], {}
     for f in C.EXTRA.glob("*.json"):
         ex = leer(f) or {}
         pa = ex.get("partido")
@@ -85,6 +85,7 @@ def elegir_pool_(fecha, prob_min, comb_min):
                 solas.append(p)   # 06/11 (Marcos: «Gana el Sevilla» sola salía más que la pareja/trío del bot)
             if p["prob_aprendida"] < prob_min:
                 continue
+            mismos.setdefault(p["partido_id"], []).append(p)
             if not ya:
                 cand.append(p)
                 ya = True   # la mejor de cada partido para las parejas
@@ -104,6 +105,22 @@ def elegir_pool_(fecha, prob_min, comb_min):
             pr = math.prod(prud(p) for p in comb)
             if pr >= comb_min and (not mejor or pr > mejor[0]):
                 mejor = (pr, list(comb), round(c, 2))
+    if not mejor:   # 08/11 (Marcos: «haz las escaleras igualmente»): días de un solo partido → Crear apuesta de 2
+        for l in mismos.values():
+            for a, b in itertools.combinations(l[:10], 2):
+                if C.implica(a, b) or C.implica(b, a):
+                    continue
+                sel = [f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in (a, b)]
+                c = C.cuota_real_sel(sel, [a["cuota"], b["cuota"]]) or a["cuota"] * b["cuota"]
+                if not SEGURA["rango"][0] <= c <= SEGURA["rango"][1]:
+                    continue
+                pr = prud(a) * prud(b)
+                if pr >= comb_min and (not mejor or pr > mejor[0]):
+                    mejor = (pr, [a, b], round(c, 2))
+    if not mejor:   # y si tampoco: una sola pata desde 1,60
+        for p in (x for l in mismos.values() for x in l):
+            if 1.60 <= p["cuota"] <= SEGURA["rango"][1] and prud(p) >= comb_min and (not mejor or prud(p) > mejor[0]):
+                mejor = (prud(p), [p], round(p["cuota"], 2))
     return mejor
 
 
@@ -210,13 +227,13 @@ def main():
 
     # 2) preparar el siguiente escalón (el primer día con picks desde hoy)
     if not estado.get("actual") and picks:
-        for dia in sorted(picks["dias"]):
+        for dia in sorted(set(picks["dias"]) | dias_con_partidos()):   # 08/11: también días sin picks (parón)
             if dia < max(hoy, DESDE):
                 continue
             ya = any(h["dia"] == dia for h in estado["historial"])
             if ya:
                 continue
-            elegido = elegir(picks["dias"][dia], fecha=dia)
+            elegido = elegir(picks["dias"].get(dia) or {"picks": [], "mejores_por_partido": []}, fecha=dia)
             if elegido:
                 _, sel, cuota = elegido
                 ahora = datetime.now(MADRID)
@@ -242,6 +259,21 @@ def main():
                 estado["actual"] = None
 
     ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def dias_con_partidos(dias=4):
+    """Días (de hoy en adelante) con algún partido sin empezar en los datos."""
+    import combis_dia as C
+    hoy = datetime.now(MADRID)
+    hasta = (hoy + timedelta(days=dias)).strftime("%Y-%m-%d")
+    salida = set()
+    for f in C.EXTRA.glob("*.json"):
+        pa = (leer(f) or {}).get("partido")
+        if pa and pa["fixture"]["status"]["short"] in ("NS", "TBD"):
+            d = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d")
+            if hoy.strftime("%Y-%m-%d") <= d <= hasta:
+                salida.add(d)
+    return salida
 
 
 if __name__ == "__main__":

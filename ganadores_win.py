@@ -17,9 +17,9 @@ HORA = (10, 0)
 HORA_NOCHE = (2, 0)   # 07/11 (Marcos): uno de madrugada («a las 2») y otro por la mañana con OTROS partidos, todos los días
 MIN_PROB, N, MIN_N = 0.55, 8, 6
 MIN_PROB_POCOS = 0.40   # 05/11: el viernes 06/11 con 0,45 solo salían 4 y no había post
-TITULOS = {2: "CHAMPIONS LEAGUE", 3: "EUROPA LEAGUE", 848: "CONFERENCE LEAGUE", 140: "LALIGA", 39: "PREMIER LEAGUE",
+TITULOS = {5: "NATIONS LEAGUE", 2: "CHAMPIONS LEAGUE", 3: "EUROPA LEAGUE", 848: "CONFERENCE LEAGUE", 140: "LALIGA", 39: "PREMIER LEAGUE",
            135: "SERIE A", 78: "BUNDESLIGA", 61: "LIGUE 1", 94: "LIGA PORTUGAL", 88: "EREDIVISIE"}
-PRIORIDAD = (2, 3, 848, 140, 39, 135, 78, 61)
+PRIORIDAD = (5, 2, 3, 848, 140, 39, 135, 78, 61)
 CORTO = {"Bayer Leverkusen": "Leverkusen", "AC Milan": "Milan", "NEC Nijmegen": "NEC", "HNK Hajduk Split": "Hajduk Split",
          "FC Lugano": "Lugano", "FC Copenhagen": "Copenhague", "Universitatea Craiova": "Univ. Craiova", "Monaco": "Mónaco",
          "FK Crvena Zvezda": "Estrella Roja", "SC Braga": "Braga", "Paris Saint Germain": "PSG", "Bayern München": "Bayern",

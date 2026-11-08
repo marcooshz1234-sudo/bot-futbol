@@ -54,6 +54,9 @@ COMPETICIONES = {
     66: "Coupe de France",
     96: "Taça de Portugal",
     90: "KNVB Beker",
+    # 08/11 (Marcos): parón de selecciones (9-17/11): Nations League y la Champions femenina (martes y miércoles)
+    5: "Nations League",
+    525: "Champions Femenina",
 }
 COPAS = {143, 48, 45, 137, 81, 66, 96, 90}
 

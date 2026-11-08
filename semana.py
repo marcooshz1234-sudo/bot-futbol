@@ -37,7 +37,16 @@ def pais_equipo(nombre):
                     idx.setdefault(x["teams"][lado]["name"], x["league"].get("country"))
         idx.update(leer(DATOS / "paises_equipos.json", {}) or {})   # 03/11: equipos de copas europeas (bot.py los pide a la API)
         pais_equipo.idx = idx
+    sel = SELECCIONES.get(nombre, nombre)   # 08/11: selecciones (Nations League): el país es el propio equipo
+    if sel in BANDERAS:
+        return sel
     return pais_equipo.idx.get(nombre)
+
+
+SELECCIONES = {"Czech Republic": "Czech-Republic", "Czechia": "Czech-Republic", "Türkiye": "Turkey",
+               "North Macedonia": "North-Macedonia", "Faroe Islands": "Faroe-Islands",
+               "Bosnia and Herzegovina": "Bosnia", "Bosnia & Herzegovina": "Bosnia", "Republic of Ireland": "Ireland",
+               "Northern Ireland": "Northern-Ireland"}
 
 
 BANDERAS = {"Slovakia": "🇸🇰", "Hungary": "🇭🇺", "Slovenia": "🇸🇮", "Kazakhstan": "🇰🇿", "Cyprus": "🇨🇾", "Armenia": "🇦🇲",
