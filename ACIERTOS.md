@@ -1,18 +1,18 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 487 · aciertos: 301 (62%) · beneficio a 1 € por pick: -62.09 €
+Picks ya jugados: 504 · aciertos: 309 (61%) · beneficio a 1 € por pick: -68.32 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 98 | 154 | 64% | -20.13 € |
-| goles | 130 | 205 | 63% | -24.68 € |
-| resultado | 56 | 89 | 63% | -6.52 € |
-| tarjetas | 9 | 15 | 60% | -0.53 € |
+| goles | 134 | 210 | 64% | -24.43 € |
+| jugador | 101 | 161 | 63% | -23.01 € |
+| resultado | 57 | 91 | 63% | -7.12 € |
+| tarjetas | 9 | 16 | 56% | -1.53 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 2 | 11 | 18% | -7.76 € |
-| fueras de juego | 0 | 1 | 0% | -1.00 € |
+| corners | 2 | 12 | 17% | -8.76 € |
+| fueras de juego | 0 | 2 | 0% | -2.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
 ## Por mercado (mín. 3 picks)
@@ -21,33 +21,34 @@ Picks ya jugados: 487 · aciertos: 301 (62%) · beneficio a 1 € por pick: -62.
 |---|---|---|---|
 | To Win Either Half · Home | 6 | 6 | 100% |
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
+| Goals Over/Under · Over 1.5 | 26 | 33 | 79% |
 | Double Chance · Home/Draw | 7 | 9 | 78% |
 | Match Winner · Home | 7 | 9 | 78% |
-| Goals Over/Under · Over 1.5 | 23 | 30 | 77% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
-| Match Winner · Away | 6 | 8 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Goals Over/Under First Half · Over 0.5 | 30 | 44 | 68% |
+| Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
+| Match Winner · Away | 6 | 9 | 67% |
 | Home Team Total Cards · Over 1.5 | 6 | 9 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
-| Total - Away · Over 0.5 | 27 | 46 | 59% |
+| Total - Away · Over 0.5 | 27 | 47 | 57% |
 | To Win Either Half · Away | 5 | 10 | 50% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 8 | 18 | 44% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
-| Double Chance · Draw/Away | 8 | 23 | 35% |
+| Double Chance · Draw/Away | 9 | 24 | 38% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
 | Total - Away · Over 1.5 | 1 | 3 | 33% |
+| Away Corners Over/Under · Over 2.5 | 1 | 3 | 33% |
 
 ## Últimos días
 
-### 2026-11-07 · 21/36
+### 2026-11-07 · 29/53
 - ✅ Leeds o empate · 1.44 (1-0)
 - ❌ Tottenham o empate · 1.50 (1-0)
 - ❌ Más de 1,5 goles en Leeds–Tottenham · 1.30 (1-0)
@@ -84,6 +85,23 @@ Picks ya jugados: 487 · aciertos: 301 (62%) · beneficio a 1 € por pick: -62.
 - ✅ Oviedo gana alguna de las dos partes · 1.80 (1-2)
 - ✅ Fortuna Sittard o empate · 1.28 (2-2)
 - ✅ Gana el Fortuna Sittard · 2.00 (2-2)
+- ✅ Más de 1,5 goles en Parma–Bologna · 1.36 (1-2)
+- ❌ Werder Bremen marca · 1.33 (1-0)
+- ❌ Gana el Manchester City · 1.73 (3-1)
+- ❌ Ermedin Demirovic: 3+ tiros · 1.33 (1-0)
+- ❌ Ante Budimir: 1+ tiros a puerta · 1.36 (1-1)
+- ❌ Manchester City hace más de 0,5 fueras de juego · 1.50 (3-1)
+- ✅ Más de 1,5 goles en Leganes–Albacete · 1.28 (1-3)
+- ❌ Ermedin Demirovic: 1+ tiros a puerta · 1.28 (1-0)
+- ✅ Marco Grull comete 1+ faltas · 1.28 (1-0)
+- ❌ Grischa Promel comete 1+ faltas · 1.44 (1-0)
+- ✅ Alex Berenguer comete 1+ faltas · 1.44 (1-1)
+- ✅ Abel Bretones comete 1+ faltas · 1.40 (1-1)
+- ✅ Más de 1,5 goles en Osasuna–Athletic Club · 1.33 (1-1)
+- ✅ Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam · 1.28 (3-1)
+- ❌ Más de 2,5 tarjetas en AS Roma–Sassuolo · 1.57 (3-0)
+- ✅ GO Ahead Eagles o empate · 1.40 (0-1)
+- ❌ Estac Troyes hace más de 2,5 córners · 1.57 (1-0)
 
 ### 2026-11-06 · 6/12
 - ❌ Florian Neuhaus comete 1+ faltas · 1.33 (3-1)

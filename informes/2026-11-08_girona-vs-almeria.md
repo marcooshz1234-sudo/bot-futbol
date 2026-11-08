@@ -1,17 +1,17 @@
 # Girona – Almeria
 **Segunda División** · Regular Season - 13 · 08/11/2026 16:15 (hora España) · Estadi Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
-- **1X2:** 1 **2.05**  ·  X **3.30**  ·  2 **3.60**
-- **Doble oportunidad:** 1X **1.28**  ·  12 **1.33**  ·  X2 **1.73**
+- **1X2:** 1 **2.00**  ·  X **3.30**  ·  2 **3.75**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.33**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.25** · menos **3.75**
+    - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
     - 4,5: más **5.50** · menos **1.14**
@@ -32,7 +32,10 @@ _Actualizadas: 07/11 17:45_
 - **Córners más/menos:**
     - 9: más **1.90** · menos **1.90**
     - 9,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **2.62**  ·  X **2.25**  ·  2 **4.00**
+- **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.88**
+- **Tarjetas más/menos:**
+    - 5,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.25**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -40,10 +43,10 @@ _Actualizadas: 07/11 17:45_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **1.57**  ·  2 **2.10**
-- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.33**
-- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **11.00**  ·  Away/No **7.00**
+- **To Win Either Half:** 1 **1.53**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.50**
+- **Win Both Halves:** 1 **6.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **11.00**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 5,5: más **2.20** · menos **1.62**
@@ -189,44 +192,44 @@ _Sin bajas comunicadas por ahora._
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 1,15 · córners esperados 9,2._
+_Goles esperados: local 1,34 · visitante 1,14 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 26% | 29% | 3.60 | +4% |
+| 1X2: 2 | 32% | 25% | 28% | 3.75 | +6% |
 | 1X2: X | 27% | 28% | 28% | 3.30 | -9% |
-| 1X2: 1 | 41% | 46% | 43% | 2.05 | -11% |
-| Doble oportunidad: X2 | 59% | 55% | 57% | 1.73 | -2% |
+| 1X2: 1 | 41% | 47% | 44% | 2.00 | -12% |
+| Doble oportunidad: X2 | 59% | 53% | 56% | 1.80 | +0% |
 | Doble oportunidad: 12 | 73% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 68% | 74% | 71% | 1.28 | -9% |
-| Ambos marcan: No | 49% | 44% | 47% | 2.10 | -2% |
-| Ambos marcan: Sí | 51% | 56% | 53% | 1.67 | -11% |
-| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -12% |
+| Doble oportunidad: 1X | 68% | 76% | 72% | 1.25 | -10% |
+| Ambos marcan: No | 50% | 44% | 47% | 2.10 | -1% |
+| Ambos marcan: Sí | 50% | 56% | 53% | 1.67 | -11% |
+| Goles más/menos: Más de 1.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles más/menos: Más de 2.5 | 45% | 53% | 49% | 1.80 | -12% |
 | Goles más/menos: Más de 3.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 54% | 47% | 51% | 2.00 | +2% |
-| Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
+| Goles más/menos: Menos de 1.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles más/menos: Menos de 2.5 | 55% | 47% | 51% | 2.00 | +2% |
+| Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 35% | 32% | 2.62 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 65% | 68% | 1.44 | -3% |
 | Goles del local: Más de 0.5 | 74% | 79% | 77% | 1.18 | -10% |
-| Goles del local: Más de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
-| Goles del local: Más de 2.5 | 15% | 23% | 19% | 4.00 | -22% |
-| Goles del local: Menos de 0.5 | 26% | 21% | 23% | 4.50 | +5% |
+| Goles del local: Más de 1.5 | 39% | 49% | 44% | 1.91 | -17% |
+| Goles del local: Más de 2.5 | 15% | 23% | 19% | 4.00 | -23% |
+| Goles del local: Menos de 0.5 | 26% | 21% | 23% | 4.50 | +6% |
 | Goles del local: Menos de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
 | Goles del local: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -2% |
-| Goles del visitante: Más de 0.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles del visitante: Más de 0.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del visitante: Menos de 0.5 | 32% | 31% | 31% | 3.00 | -6% |
+| Goles del visitante: Menos de 0.5 | 32% | 31% | 32% | 3.00 | -5% |
 | Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -9% |
 | Córners más/menos: Menos de 9.5 | 58% | 56% | 57% | 1.67 | -5% |
 | 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -4% |
-| 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 31% | 35% | 33% | 2.62 | -13% |
+| 1X2 descanso: X | 45% | 41% | 43% | 2.25 | -4% |
+| 1X2 descanso: 1 | 31% | 36% | 33% | 2.60 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -6252,7 +6252,7 @@
   "dia": "2026-11-08",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 1.91,
+  "cuota": 1.85,
   "picks": [
    {
     "partido_id": 1557462,
@@ -6265,9 +6265,9 @@
     "opcion": "Away",
     "tipo": "resultado",
     "texto": "Gana el Bournemouth",
-    "cuota": 1.91,
+    "cuota": 1.85,
     "frecuencia": 0.65,
-    "ventaja": 0.126,
+    "ventaja": 0.109,
     "detalle": "Ipswich 5/10 · Bournemouth 8/10",
     "contexto": "mejor_lejos_medio",
     "forma": "forma_mejor",
@@ -6276,8 +6276,8 @@
      "57": [],
      "35": []
     },
-    "prob_aprendida": 0.559,
-    "prob_sin_calibrar": 0.48596370483102935
+    "prob_aprendida": 0.558,
+    "prob_sin_calibrar": 0.4856164988774402
    }
   ],
   "hora": null,

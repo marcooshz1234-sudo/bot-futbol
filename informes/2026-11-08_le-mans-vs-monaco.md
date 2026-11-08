@@ -1,10 +1,10 @@
 # Le Mans – Monaco
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · MMArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
 - **1X2:** 1 **4.75**  ·  X **4.00**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.18**
@@ -29,7 +29,7 @@ _Actualizadas: 07/11 17:45_
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 8,5: más **1.85** · menos **1.95**
+    - 8,5: más **1.83** · menos **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **4.75**  ·  X **2.50**  ·  2 **2.20**
@@ -49,7 +49,7 @@ _Actualizadas: 07/11 17:45_
     - 3,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.20**
 - **Home Team Total Cards:**
     - 2,5: más **2.10** · menos **1.67**
 - **Away Team Total Cards:**
@@ -201,41 +201,41 @@ _Sin bajas comunicadas por ahora._
 | Anis Soubeir | M | 8 | 186 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 6 | 1 | 0,1 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,00 · visitante 1,94 · córners esperados 9,1._
+_Goles esperados: local 1,02 · visitante 1,96 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 59% | 56% | 58% | 1.70 | -2% |
 | 1X2: X | 22% | 24% | 23% | 4.00 | -9% |
-| 1X2: 1 | 19% | 20% | 20% | 4.75 | -7% |
+| 1X2: 1 | 19% | 20% | 20% | 4.75 | -6% |
 | Doble oportunidad: X2 | 81% | 79% | 80% | 1.18 | -6% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 41% | 44% | 43% | 2.10 | -11% |
-| Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
-| Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 59% | 58% | 1.62 | -7% |
-| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles más/menos: Más de 4.5 | 18% | 21% | 19% | 4.50 | -13% |
-| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles más/menos: Menos de 2.5 | 44% | 41% | 42% | 2.30 | -2% |
-| Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
-| Goles más/menos: Menos de 4.5 | 82% | 79% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Doble oportunidad: 1X | 41% | 44% | 43% | 2.10 | -10% |
+| Ambos marcan: No | 45% | 41% | 43% | 2.25 | -3% |
+| Ambos marcan: Sí | 55% | 59% | 57% | 1.57 | -11% |
+| Goles más/menos: Más de 1.5 | 80% | 79% | 79% | 1.20 | -5% |
+| Goles más/menos: Más de 2.5 | 57% | 59% | 58% | 1.62 | -6% |
+| Goles más/menos: Más de 3.5 | 35% | 38% | 36% | 2.50 | -9% |
+| Goles más/menos: Más de 4.5 | 18% | 21% | 20% | 4.50 | -12% |
+| Goles más/menos: Menos de 1.5 | 20% | 21% | 21% | 4.50 | -7% |
+| Goles más/menos: Menos de 2.5 | 43% | 41% | 42% | 2.30 | -3% |
+| Goles más/menos: Menos de 3.5 | 65% | 62% | 64% | 1.53 | -3% |
+| Goles más/menos: Menos de 4.5 | 82% | 79% | 80% | 1.20 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
-| Goles del local: Más de 0.5 | 63% | 66% | 65% | 1.40 | -9% |
-| Goles del local: Más de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
-| Goles del local: Menos de 0.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles del local: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 1.5 | 58% | 59% | 58% | 1.57 | -8% |
+| Goles del local: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Goles del local: Más de 1.5 | 27% | 31% | 29% | 3.00 | -12% |
+| Goles del local: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles del local: Menos de 1.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles del visitante: Más de 1.5 | 58% | 59% | 59% | 1.57 | -8% |
 | Goles del visitante: Más de 2.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del visitante: Menos de 1.5 | 42% | 41% | 42% | 2.25 | -6% |
+| Goles del visitante: Menos de 1.5 | 42% | 41% | 41% | 2.25 | -7% |
 | Goles del visitante: Menos de 2.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Córners más/menos: Más de 8.5 | 50% | 51% | 51% | 1.85 | -6% |
-| Córners más/menos: Menos de 8.5 | 50% | 49% | 49% | 1.95 | -4% |
+| Córners más/menos: Más de 8.5 | 50% | 50% | 50% | 1.83 | -8% |
+| Córners más/menos: Menos de 8.5 | 50% | 50% | 50% | 1.83 | -9% |
 | 1X2 descanso: 2 | 43% | 43% | 43% | 2.20 | -6% |
-| 1X2 descanso: X | 39% | 38% | 38% | 2.50 | -4% |
+| 1X2 descanso: X | 39% | 38% | 38% | 2.50 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

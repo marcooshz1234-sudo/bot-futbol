@@ -1,7 +1,7 @@
 # Eibar – Cadiz
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | G. Gocholeishvili | D | 4 | 217 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,88 · visitante 1,05 · córners esperados 9,8._
+_Goles esperados: local 1,88 · visitante 1,04 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,10 +1,10 @@
 # Angers – Nice
 **Ligue 1** · Regular Season - 10 · 08/11/2026 17:15 (hora España) · Stade Raymond Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
 - **1X2:** 1 **3.60**  ·  X **3.60**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
@@ -32,8 +32,9 @@ _Actualizadas: 07/11 17:45_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
+- **Córners 1X2:** 1 **2.50**  ·  X **8.00**  ·  2 **1.73**
 - **Tarjetas más/menos:**
-    - 3,5: más **1.83** · menos **1.83**
+    - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.30**  ·  2 **2.60**
 - **Goals Over/Under - Second Half:**
@@ -54,14 +55,17 @@ _Actualizadas: 07/11 17:45_
     - 5,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 - **Home Team Total Cards:**
+    - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.50** · menos **1.50**
 - **Away Team Total Cards:**
     - 2,5: más **2.50** · menos **1.50**
 - **Total ShotOnGoal:**
     - 8,5: más **1.67** · menos **2.10**
+- **ShotOnTarget 1x2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.73**
 - **Total Shots:**
     - 25,5: más **1.73** · menos **2.00**
     - 26,5: más **2.00** · menos **1.73**
+- **Shots.1x2:** 1 **2.25**  ·  X **15.00**  ·  2 **1.67**
 - **Home Player Shots On Target Total:** Mamadou Simbakoli - 1 **1.73**  ·  Jim Allevinah - 1 **1.83**  ·  Prosper Peter - 1 **1.53**  ·  Amine El Ouazzani - 1 **1.67**  ·  Amine Sbai - 1 **1.83**  ·  Harouna Djibirin - 1 **1.53**  ·  Bane Diatta - 1 **5.50**  ·  Anthony Bermont - 1 **2.00**  ·  Branco van den Boomen - 1 **2.00**  ·  Louis Mouton - 1 **2.38**  ·  Yassin Belkhdim - 1 **2.38**  ·  Lilian Raolisoa - 1 **4.00**  ·  Emmanuel Biumla - 1 **7.00**  ·  Haris Belkebla - 1 **7.00**  ·  Carlens Arcus - 1 **5.50**  ·  Joseph Kalulu - 1 **7.00**  ·  Jordan Lefort - 1 **7.00**  ·  Mael Gernigon - 1 **7.00**  ·  Marius Louer - 1 **6.50**  ·  Ousmane Camara - 1 **7.00**  ·  Mamadou Simbakoli - 2 **4.50**  ·  Jim Allevinah - 2 **5.50**  ·  Prosper Peter - 2 **3.50**  ·  Amine El Ouazzani - 2 **4.33**  ·  Amine Sbai - 2 **5.50**  ·  Harouna Djibirin - 2 **3.50**  ·  Anthony Bermont - 2 **6.50**  ·  Branco van den Boomen - 2 **6.50**  ·  Louis Mouton - 2 **9.00**  ·  Yassin Belkhdim - 2 **9.00**  ·  Lilian Raolisoa - 2 **21.00**  ·  Mamadou Simbakoli - 3 **15.00**  ·  Jim Allevinah - 3 **19.00**  ·  Prosper Peter - 3 **11.00**  ·  Amine El Ouazzani - 3 **15.00**  ·  Amine Sbai - 3 **19.00**  ·  Harouna Djibirin - 3 **11.00**  ·  Anthony Bermont - 3 **21.00**  ·  Branco van den Boomen - 3 **21.00**  ·  Jules Bouffandeau - 1 **7.00**
 - **Away Player Shots On Target Total:** Prosper Peter **9.00**  ·  Jonathan Clauss **12.00**  ·  Mohamed Amoura **15.00**  ·  Hicham Boudaoui **26.00**  ·  Anthony Bermont **23.00**  ·  Mohamed Abdelmonem **15.00**  ·  Djibril Coulibaly **23.00**  ·  Marius Louer **23.00**  ·  Gauthier Hein **9.50**  ·  Elye Wahi **17.00**  ·  Morgan Sanson **17.00**  ·  Issiaga Camara **13.00**  ·  Sofiane Diop **15.00**  ·  Ali Abdi **26.00**  ·  Youssouf Ndayishimiye **15.00**  ·  Antoine Mendy **21.00**  ·  Louis Mouton **29.00**  ·  Alidu Seidu **17.00**  ·  Jim Allevinah **12.00**  ·  Haris Belkebla **21.00**  ·  Carlens Arcus **21.00**  ·  Yassin Belkhdim **29.00**  ·  Ousmane Camara **19.00**  ·  Emmanuel Biumla **26.00**  ·  Jordan Lefort **23.00**  ·  Lilian Raolisoa **41.00**  ·  Harouna Djibirin **19.00**  ·  Isak Jansson **19.00**  ·  Nathan Ngoumou **34.00**  ·  Branco van den Boomen **34.00**  ·  Pereira Everton **21.00**  ·  Amine El Ouazzani **17.00**  ·  Mamadou Simbakoli **9.50**  ·  Hamza Koutone **17.00**  ·  Salis Abdul Samed **23.00**  ·  Amine Sbai **26.00**  ·  Axel Witsel **34.00**  ·  Niels Nkounkou **67.00**
 - **Away Player Shots Total:**
@@ -205,40 +209,40 @@ _Sin bajas comunicadas por ahora._
 | H. Koutoune | D | 4 | 58 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,37 · visitante 1,59 · córners esperados 10,1._
+_Goles esperados: local 1,39 · visitante 1,60 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 47% | 45% | 2.00 | -10% |
+| 1X2: 2 | 42% | 47% | 45% | 2.00 | -10% |
 | 1X2: X | 24% | 26% | 25% | 3.60 | -9% |
 | 1X2: 1 | 33% | 26% | 30% | 3.60 | +7% |
 | Doble oportunidad: X2 | 67% | 74% | 70% | 1.28 | -10% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 57% | 52% | 55% | 1.80 | -1% |
-| Ambos marcan: No | 41% | 42% | 42% | 2.20 | -9% |
-| Ambos marcan: Sí | 59% | 58% | 58% | 1.62 | -5% |
-| Goles más/menos: Más de 1.5 | 79% | 78% | 79% | 1.22 | -4% |
-| Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -4% |
-| Goles más/menos: Más de 3.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles más/menos: Menos de 1.5 | 21% | 22% | 21% | 4.33 | -8% |
-| Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -7% |
-| Goles más/menos: Menos de 3.5 | 66% | 66% | 66% | 1.44 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 72% | 1.33 | -5% |
+| Doble oportunidad: 1X | 58% | 52% | 55% | 1.80 | -1% |
+| Ambos marcan: No | 40% | 42% | 41% | 2.20 | -9% |
+| Ambos marcan: Sí | 60% | 58% | 59% | 1.62 | -5% |
+| Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
+| Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Más de 3.5 | 35% | 34% | 35% | 2.75 | -5% |
+| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -8% |
+| Goles más/menos: Menos de 3.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 28% | 3.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
 | Goles del local: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles del local: Más de 1.5 | 40% | 35% | 38% | 2.62 | -2% |
-| Goles del local: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -11% |
-| Goles del local: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles del local: Más de 1.5 | 41% | 35% | 38% | 2.62 | -0% |
+| Goles del local: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
+| Goles del local: Menos de 1.5 | 59% | 65% | 62% | 1.44 | -11% |
 | Goles del visitante: Más de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
-| Goles del visitante: Más de 2.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles del visitante: Más de 2.5 | 22% | 25% | 23% | 3.75 | -13% |
 | Goles del visitante: Menos de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Goles del visitante: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Menos de 2.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -10% |
 | Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -4% |
 | 1X2 descanso: 2 | 33% | 36% | 34% | 2.60 | -11% |
 | 1X2 descanso: X | 40% | 41% | 40% | 2.30 | -7% |
-| 1X2 descanso: 1 | 27% | 23% | 25% | 4.00 | +0% |
+| 1X2 descanso: 1 | 27% | 23% | 25% | 4.00 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

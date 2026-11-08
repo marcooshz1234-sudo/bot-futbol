@@ -1,10 +1,10 @@
 # Cambuur – PSV Eindhoven
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
 - **1X2:** 1 **6.25**  ·  X **5.50**  ·  2 **1.40**
 - **Doble oportunidad:** 1X **2.75**  ·  12 **1.14**  ·  X2 **1.12**
@@ -33,7 +33,7 @@ _Actualizadas: 07/11 17:45_
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **5.50**  ·  X **3.00**  ·  2 **1.80**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.08** · menos **8.00**
@@ -193,7 +193,7 @@ _Sin bajas comunicadas por ahora._
 | A. Santos | M | 5 | 96 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 1 | 3 | 0,6 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 2,31 · córners esperados 10,0._
+_Goles esperados: local 1,21 · visitante 2,31 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -208,30 +208,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 37% | 35% | 36% | 2.62 | -5% |
 | Ambos marcan: Sí | 63% | 65% | 64% | 1.44 | -8% |
 | Goles más/menos: Más de 2.5 | 68% | 74% | 71% | 1.28 | -9% |
-| Goles más/menos: Más de 3.5 | 47% | 56% | 51% | 1.67 | -15% |
-| Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -19% |
-| Goles más/menos: Más de 5.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles más/menos: Menos de 2.5 | 32% | 26% | 29% | 3.60 | +5% |
-| Goles más/menos: Menos de 3.5 | 53% | 44% | 49% | 2.10 | +3% |
+| Goles más/menos: Más de 3.5 | 47% | 56% | 51% | 1.67 | -14% |
+| Goles más/menos: Más de 4.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles más/menos: Más de 5.5 | 15% | 22% | 18% | 4.33 | -21% |
+| Goles más/menos: Menos de 2.5 | 32% | 26% | 29% | 3.60 | +4% |
+| Goles más/menos: Menos de 3.5 | 53% | 44% | 49% | 2.10 | +2% |
 | Goles más/menos: Menos de 4.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles más/menos: Menos de 5.5 | 86% | 78% | 82% | 1.20 | -2% |
+| Goles más/menos: Menos de 5.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 45% | 51% | 48% | 1.80 | -13% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 27% | 23% | 3.50 | -19% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 27% | 23% | 3.50 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 55% | 49% | 52% | 1.91 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 0.5 | 70% | 71% | 70% | 1.33 | -6% |
+| Goles del local: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Goles del local: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles del local: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -4% |
+| Goles del local: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -4% |
 | Goles del local: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del visitante: Más de 1.5 | 67% | 75% | 71% | 1.25 | -11% |
 | Goles del visitante: Más de 2.5 | 41% | 50% | 45% | 1.83 | -17% |
 | Goles del visitante: Más de 3.5 | 20% | 29% | 25% | 3.25 | -20% |
 | Goles del visitante: Menos de 1.5 | 33% | 25% | 29% | 3.75 | +8% |
-| Goles del visitante: Menos de 2.5 | 59% | 50% | 55% | 1.83 | +0% |
+| Goles del visitante: Menos de 2.5 | 59% | 50% | 55% | 1.83 | -0% |
 | Goles del visitante: Menos de 3.5 | 80% | 71% | 75% | 1.33 | +0% |
-| Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -15% |
-| Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: 2 | 46% | 52% | 49% | 1.80 | -11% |
+| Córners más/menos: Más de 10.5 | 41% | 48% | 44% | 1.98 | -12% |
+| Córners más/menos: Menos de 10.5 | 59% | 52% | 56% | 1.82 | +1% |
+| 1X2 descanso: 2 | 46% | 52% | 49% | 1.80 | -12% |
 | 1X2 descanso: X | 35% | 31% | 33% | 3.00 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

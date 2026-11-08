@@ -1,10 +1,10 @@
 # Rennes – Lille
 **Ligue 1** · Regular Season - 10 · 08/11/2026 15:00 (hora España) · Roazhon Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
 - **1X2:** 1 **2.15**  ·  X **3.50**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -32,6 +32,7 @@ _Actualizadas: 07/11 17:45_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**
+- **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.40**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.38**  ·  2 **3.50**
@@ -61,7 +62,7 @@ _Actualizadas: 07/11 17:45_
 - **ShotOnTarget 1x2:** 1 **1.73**  ·  X **7.50**  ·  2 **2.40**
 - **Total Shots:**
     - 28,5: más **1.83** · menos **1.83**
-- **Shots.1x2:** 1 **1.50**  ·  X **15.00**  ·  2 **2.75**
+- **Shots.1x2:** 1 **1.50**  ·  X **15.00**  ·  2 **2.62**
 - **Home Player Shots On Target Total:** Arnaud Nordin - 1 **1.67**  ·  Eliezer Mayenda - 1 **1.44**  ·  Issa Soumare - 1 **1.50**  ·  Ludovic Blas - 1 **1.62**  ·  Mousa Tamari - 1 **1.57**  ·  Elias Legendre - 1 **2.00**  ·  Sebastian Szymanski - 1 **2.10**  ·  Henrick Do Marcolino - 1 **1.83**  ·  Adrien Thomasson - 1 **2.62**  ·  Djaoui Cisse - 1 **2.00**  ·  Mahdi Camara - 1 **2.62**  ·  Valentin Rongier - 1 **3.25**  ·  Quentin Merlin - 1 **3.75**  ·  Przemyslaw Frankowski - 1 **3.75**  ·  Charlie Cresswell - 1 **4.33**  ·  Anthony Rouault - 1 **4.33**  ·  Bryan Reynolds - 1 **4.33**  ·  Mahamadou Nagida - 1 **3.00**  ·  Abdelhamid Ait Boudlal - 1 **3.75**  ·  Esteban Lepaul - 2 **2.00**  ·  Arnaud Nordin - 2 **4.33**  ·  Eliezer Mayenda - 2 **3.00**  ·  Issa Soumare - 2 **3.50**  ·  Ludovic Blas - 2 **4.00**  ·  Mousa Tamari - 2 **3.75**  ·  Elias Legendre - 2 **6.50**  ·  Sebastian Szymanski - 2 **7.00**  ·  Henrick Do Marcolino - 2 **5.50**  ·  Adrien Thomasson - 2 **11.00**  ·  Djaoui Cisse - 2 **6.50**  ·  Mahdi Camara - 2 **11.00**  ·  Valentin Rongier - 2 **15.00**  ·  Quentin Merlin - 2 **19.00**  ·  Przemyslaw Frankowski - 2 **21.00**  ·  Charlie Cresswell - 2 **21.00**  ·  Anthony Rouault - 2 **21.00**  ·  Bryan Reynolds - 2 **21.00**  ·  Mahamadou Nagida - 2 **15.00**  ·  Abdelhamid Ait Boudlal - 2 **19.00**  ·  Esteban Lepaul - 3 **4.33**  ·  Arnaud Nordin - 3 **15.00**  ·  Eliezer Mayenda - 3 **8.00**  ·  Issa Soumare - 3 **10.00**  ·  Ludovic Blas - 3 **13.00**  ·  Mousa Tamari - 3 **13.00**  ·  Elias Legendre - 3 **21.00**  ·  Sebastian Szymanski - 3 **21.00**  ·  Henrick Do Marcolino - 3 **19.00**  ·  Djaoui Cisse - 3 **21.00**  ·  Esteban Lepaul - 4 **11.00**  ·  Eliezer Mayenda - 4 **21.00**  ·  Esteban Lepaul - 5 **21.00**  ·  Esteban Lepaul - 1 **1.22**  ·  Boulaye Dia - 1 **1.53**  ·  Boulaye Dia - 2 **3.50**  ·  Boulaye Dia - 3 **11.00**  ·  Goncalo Oliveira - 1 **3.40**  ·  Goncalo Oliveira - 2 **17.00**
 - **Away Player Shots Total:**
     - 12,5: más **1.83** · menos **1.83**
@@ -204,42 +205,42 @@ _Sin bajas comunicadas por ahora._
 | G. Perrin | F | 8 | 213 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 1,39 · córners esperados 9,7._
+_Goles esperados: local 1,58 · visitante 1,41 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 29% | 32% | 3.20 | +1% |
-| 1X2: X | 24% | 27% | 26% | 3.50 | -10% |
+| 1X2: 2 | 34% | 29% | 32% | 3.20 | +2% |
+| 1X2: X | 24% | 27% | 26% | 3.50 | -11% |
 | 1X2: 1 | 42% | 44% | 43% | 2.15 | -8% |
-| Doble oportunidad: X2 | 58% | 57% | 57% | 1.67 | -4% |
+| Doble oportunidad: X2 | 58% | 57% | 58% | 1.67 | -4% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 66% | 70% | 68% | 1.36 | -8% |
-| Ambos marcan: No | 40% | 41% | 41% | 2.25 | -8% |
-| Ambos marcan: Sí | 60% | 59% | 59% | 1.57 | -7% |
+| Ambos marcan: No | 40% | 41% | 40% | 2.25 | -9% |
+| Ambos marcan: Sí | 60% | 59% | 60% | 1.57 | -7% |
 | Goles más/menos: Más de 1.5 | 80% | 78% | 79% | 1.22 | -4% |
-| Goles más/menos: Más de 2.5 | 57% | 55% | 56% | 1.73 | -3% |
-| Goles más/menos: Más de 3.5 | 34% | 34% | 34% | 2.75 | -5% |
-| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -8% |
-| Goles más/menos: Menos de 2.5 | 43% | 45% | 44% | 2.10 | -7% |
-| Goles más/menos: Menos de 3.5 | 66% | 66% | 66% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -6% |
+| Goles más/menos: Más de 2.5 | 58% | 55% | 56% | 1.73 | -3% |
+| Goles más/menos: Más de 3.5 | 35% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Menos de 1.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles más/menos: Menos de 2.5 | 42% | 45% | 44% | 2.10 | -8% |
+| Goles más/menos: Menos de 3.5 | 65% | 66% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 37% | 38% | 37% | 2.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
-| Goles del local: Más de 2.5 | 21% | 23% | 22% | 4.00 | -12% |
-| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
+| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -6% |
+| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -11% |
+| Goles del local: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
+| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -7% |
+| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -6% |
 | Goles del local: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
-| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles del visitante: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -13% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | -0% |
+| Goles del visitante: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
+| Goles del visitante: Más de 1.5 | 41% | 39% | 40% | 2.38 | -4% |
+| Goles del visitante: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -11% |
+| Goles del visitante: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -9% |
+| Córners más/menos: Más de 9.5 | 47% | 54% | 50% | 1.73 | -13% |
+| Córners más/menos: Menos de 9.5 | 53% | 46% | 50% | 2.00 | -0% |
 | 1X2 descanso: 2 | 28% | 27% | 27% | 3.50 | -5% |
-| 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -5% |
+| 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -6% |
 | 1X2 descanso: 1 | 32% | 34% | 33% | 2.75 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

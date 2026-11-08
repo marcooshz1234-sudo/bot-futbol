@@ -1,7 +1,7 @@
 # Granada CF – Las Palmas
 **Segunda División** · Regular Season - 14 · 15/11/2026 16:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Sergio Ruiz | M | 3 | 80 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,83 · visitante 0,98 · córners esperados 9,4._
+_Goles esperados: local 1,81 · visitante 0,97 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

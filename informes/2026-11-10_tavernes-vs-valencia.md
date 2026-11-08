@@ -1,7 +1,7 @@
 # Tavernes – Valencia
 **Copa del Rey** · Round of 128 · 10/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 05/11 02:11_
@@ -30,53 +30,53 @@ _Actualizadas: 05/11 02:11_
 ## Estadísticas de equipo
 | | Tavernes (total) | Tavernes en casa | Valencia (total) | Valencia fuera |
 |---|---|---|---|---|
-| Partidos analizados | 0 | 0 | 11 | 5 |
-| Forma (últimos 5) |  |  | VDEED | VEVDD |
-| Balance | 0V 0E 0D | 0V 0E 0D | 2V 3E 6D | 2V 1E 2D |
-| Goles a favor / partido | – | – | 0,73 | 1,00 |
-| Goles en contra / partido | – | – | 1,55 | 1,20 |
-| Goles a favor 1ª parte | – | – | 0,27 | 0,40 |
-| Goles a favor 2ª parte | – | – | 0,45 | 0,60 |
-| Goles en contra 1ª parte | – | – | 0,55 | 0,60 |
+| Partidos analizados | 0 | 0 | 12 | 5 |
+| Forma (últimos 5) |  |  | DVDEE | VEVDD |
+| Balance | 0V 0E 0D | 0V 0E 0D | 2V 3E 7D | 2V 1E 2D |
+| Goles a favor / partido | – | – | 0,67 | 1,00 |
+| Goles en contra / partido | – | – | 1,67 | 1,20 |
+| Goles a favor 1ª parte | – | – | 0,25 | 0,40 |
+| Goles a favor 2ª parte | – | – | 0,42 | 0,60 |
+| Goles en contra 1ª parte | – | – | 0,67 | 0,60 |
 | Goles en contra 2ª parte | – | – | 1,00 | 0,60 |
-| Más de 1,5 goles | – | – | 45% | 40% |
-| Más de 2,5 goles | – | – | 45% | 40% |
-| Más de 3,5 goles | – | – | 36% | 40% |
-| Ambos marcan | – | – | 36% | 40% |
-| Portería a cero | – | – | 36% | 40% |
-| Se queda sin marcar | – | – | 45% | 20% |
-| xG a favor | – | – | 1,04 | 0,98 |
-| xG en contra | – | – | 1,47 | 1,20 |
-| Tiros / partido | – | – | 10,4 | 8,0 |
-| Tiros a puerta / partido | – | – | 2,9 | 2,4 |
-| Tiros recibidos | – | – | 15,5 | 15,0 |
-| Tiros a puerta recibidos | – | – | 4,7 | 5,0 |
-| Posesión media % | – | – | 44 | 49 |
-| Córners a favor | – | – | 4,0 | 3,8 |
+| Más de 1,5 goles | – | – | 50% | 40% |
+| Más de 2,5 goles | – | – | 50% | 40% |
+| Más de 3,5 goles | – | – | 33% | 40% |
+| Ambos marcan | – | – | 33% | 40% |
+| Portería a cero | – | – | 33% | 40% |
+| Se queda sin marcar | – | – | 50% | 20% |
+| xG a favor | – | – | 0,97 | 0,98 |
+| xG en contra | – | – | 1,55 | 1,20 |
+| Tiros / partido | – | – | 9,8 | 8,0 |
+| Tiros a puerta / partido | – | – | 2,8 | 2,4 |
+| Tiros recibidos | – | – | 15,8 | 15,0 |
+| Tiros a puerta recibidos | – | – | 5,2 | 5,0 |
+| Posesión media % | – | – | 43 | 49 |
+| Córners a favor | – | – | 3,8 | 3,8 |
 | Córners en contra | – | – | 5,0 | 5,4 |
-| Córners a favor 1ª parte | – | – | 1,5 | 1,6 |
-| Córners a favor 2ª parte | – | – | 2,5 | 2,2 |
-| Córners totales del partido | – | – | 9,0 | 9,2 |
+| Córners a favor 1ª parte | – | – | 1,4 | 1,6 |
+| Córners a favor 2ª parte | – | – | 2,4 | 2,2 |
+| Córners totales del partido | – | – | 8,8 | 9,2 |
 | Córners totales 1ª parte | – | – | 4,2 | 4,2 |
-| Córners totales 2ª parte | – | – | 4,8 | 5,0 |
-| Más de 8,5 córners | – | – | 55% | 60% |
-| Más de 9,5 córners | – | – | 55% | 60% |
-| Más de 10,5 córners | – | – | 27% | 20% |
-| Faltas cometidas | – | – | 11,9 | 11,2 |
-| Faltas recibidas | – | – | 11,0 | 10,6 |
-| Amarillas propias | – | – | 2,3 | 2,4 |
+| Córners totales 2ª parte | – | – | 4,7 | 5,0 |
+| Más de 8,5 córners | – | – | 50% | 60% |
+| Más de 9,5 córners | – | – | 50% | 60% |
+| Más de 10,5 córners | – | – | 25% | 20% |
+| Faltas cometidas | – | – | 13,1 | 11,2 |
+| Faltas recibidas | – | – | 10,6 | 10,6 |
+| Amarillas propias | – | – | 2,4 | 2,4 |
 | Amarillas del rival | – | – | 2,4 | 2,0 |
-| Rojas / partido | – | – | 0,09 | 0,00 |
+| Rojas / partido | – | – | 0,17 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Tavernes | Recibe Tavernes | Tarjetas Tavernes | Goles Valencia | Recibe Valencia | Tarjetas Valencia |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 0 | 0 | 1 | 2 | 2 |
-| 16-30' | 0 | 0 | 0 | 1 | 3 | 4 |
-| 31-45' | 0 | 0 | 0 | 1 | 1 | 6 |
-| 46-60' | 0 | 0 | 0 | 1 | 3 | 2 |
-| 61-75' | 0 | 0 | 0 | 2 | 1 | 5 |
-| 76-90' | 0 | 0 | 0 | 2 | 7 | 8 |
+| 16-30' | 0 | 0 | 0 | 1 | 4 | 5 |
+| 31-45' | 0 | 0 | 0 | 1 | 2 | 6 |
+| 46-60' | 0 | 0 | 0 | 1 | 3 | 4 |
+| 61-75' | 0 | 0 | 0 | 2 | 2 | 5 |
+| 76-90' | 0 | 0 | 0 | 2 | 7 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -97,36 +97,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Valencia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-07 | LaLiga | Valencia 0-3 Real Madrid | casa | 2-5 | 4 (2) - 19 (11) | 4-3 |
 | 2026-11-01 | LaLiga | Elche 0-1 Valencia | fuera | 2-6 | 5 (3) - 16 (3) | 2-3 |
 | 2026-10-24 | LaLiga | Valencia 1-2 Villarreal | casa | 6-9 | 9 (5) - 19 (3) | 3-3 |
 | 2026-10-17 | LaLiga | Valencia 0-0 Athletic Club | casa | 2-6 | 16 (3) - 9 (2) | 3-3 |
 | 2026-10-11 | LaLiga | Racing Santander 2-2 Valencia | fuera | 3-8 | 10 (2) - 20 (11) | 3-3 |
 | 2026-09-20 | LaLiga | Valencia 2-3 Real Sociedad | casa | 7-5 | 22 (5) - 21 (6) | 2-3 |
-| 2026-09-15 | LaLiga | Alaves 0-1 Valencia | fuera | 5-2 | 10 (3) - 15 (3) | 4-1 |
 
 ## Jugadores de Valencia
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Dimitrievski | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
-| Pepelu | D | 11 | 928 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 11 | 6 | 0,5 | 2 | 0 |
-| Javi Guerra | F | 11 | 898 | 0 | 2 | 12 | 1,1 | 3 | 0,3 | 12 | 11 | 1,0 | 2 | 0 |
-| A. Danjuma | F | 11 | 839 | 0 | 1 | 16 | 1,5 | 6 | 0,5 | 9 | 11 | 1,0 | 0 | 0 |
-| José Gayà | D | 9 | 715 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 6 | 0,7 | 1 | 0 |
-| G. Rodríguez | M | 8 | 673 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 15 | 1,9 | 3 | 0 |
-| Pablo Maffeo | M | 10 | 644 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 6 | 0,6 | 3 | 0 |
-| César Tárrega | D | 8 | 600 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 10 | 4 | 0,5 | 1 | 0 |
-| F. Ugrinic | M | 11 | 600 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 6 | 12 | 1,1 | 0 | 0 |
-| J. de Haas | D | 6 | 458 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
+| S. Dimitrievski | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
+| Pepelu | D | 12 | 1018 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 13 | 6 | 0,5 | 3 | 0 |
+| Javi Guerra | M | 12 | 980 | 0 | 2 | 12 | 1,0 | 3 | 0,2 | 14 | 11 | 0,9 | 2 | 0 |
+| A. Danjuma | F | 12 | 929 | 0 | 1 | 17 | 1,4 | 7 | 0,6 | 9 | 11 | 0,9 | 0 | 0 |
+| José Gayà | D | 10 | 794 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 11 | 6 | 0,6 | 1 | 1 |
+| G. Rodríguez | M | 9 | 736 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 15 | 15 | 1,7 | 4 | 0 |
+| Pablo Maffeo | D | 11 | 707 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 15 | 8 | 0,7 | 4 | 0 |
+| César Tárrega | D | 9 | 690 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 11 | 4 | 0,4 | 1 | 0 |
+| F. Ugrinic | M | 12 | 627 | 0 | 0 | 5 | 0,4 | 3 | 0,2 | 7 | 12 | 1,0 | 0 | 0 |
+| J. de Haas | D | 7 | 503 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 2 | 0,3 | 2 | 0 |
 | Hugo Duro | F | 10 | 429 | 0 | 1 | 6 | 0,6 | 0 | 0,0 | 5 | 11 | 1,1 | 0 | 0 |
-| Jesús Vázquez | D | 9 | 366 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 10 | 1,1 | 0 | 0 |
-| Arnau Martínez | D | 7 | 361 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
+| Arnau Martínez | D | 8 | 388 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
+| Jesús Vázquez | D | 10 | 374 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 10 | 1,0 | 0 | 0 |
+| Luis Rioja | F | 8 | 372 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 0 | 2 | 0,2 | 1 | 0 |
 | David Otorbi | M | 9 | 352 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 2 | 5 | 0,6 | 0 | 0 |
+| Aaron Mayol | M | 4 | 348 | 1 | 0 | 3 | 0,8 | 2 | 0,5 | 9 | 2 | 0,5 | 1 | 0 |
 | M. Diakhaby | D | 6 | 334 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 2 | 0 |
-| Luis Rioja | M | 7 | 327 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 0 | 2 | 0,3 | 0 | 0 |
 | Ryunosuke Sato | M | 5 | 297 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 4 | 1 | 0,2 | 2 | 0 |
-| Aaron Mayol | M | 3 | 258 | 1 | 0 | 2 | 0,7 | 1 | 0,3 | 6 | 2 | 0,7 | 1 | 0 |
+| U. Sadiq | F | 5 | 246 | 2 | 0 | 6 | 1,2 | 6 | 1,2 | 6 | 2 | 0,4 | 0 | 0 |
 | Aliou Dieng | M | 6 | 244 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
-| Dani Raba | F | 5 | 188 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 7 | 7 | 1,4 | 3 | 0 |
 
 ## Probabilidades del modelo
 _No hay suficientes partidos de alguno de los dos equipos para calcularlas._

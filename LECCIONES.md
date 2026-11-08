@@ -1,5 +1,70 @@
 # Lecciones del bot
 
+## 2026-11-07
+
+```
+🧠 LECCIONES DEL 07/11
+Picks del bot: 29 ✅ · 24 ❌ · 3 sin resultado
+
+❌ Lo que falló en lo publicado:
+• AS Roma ve más de 1,5 tarjetas → 0 de 2 tarjetas
+• Ambos ven tarjeta en AS Roma–Sassuolo → Marcador: 3–0
+• Ambos ven tarjeta en Arsenal–Hull City → Marcador: 1–0
+• Ambos ven tarjeta en Nottingham Forest–Manchester City → Marcador: 3–1
+• Ante Budimir: 1+ tiros a puerta → 0 de 1 tiro a puerta
+• Arnaut Danjuma comete 1+ faltas → 0 de 1 falta
+• Arsenal marca 2 o más → 1 de 2 goles
+• Arsenal ve más de 0,5 tarjetas → 0 de 1 tarjeta
+• Ermedin Demirovic: 1+ tiros a puerta → 0 de 1 tiro a puerta
+• Estac Troyes hace más de 2,5 córners → 1 de 3 córners
+• Estac Troyes marca → 0 de 1 gol
+• FSV Mainz 05 ve más de 1,5 tarjetas → 0 de 2 tarjetas
+• Fulham hace más tiros a puerta → Tiros a puerta: 5 – 5
+• Fulham ve más de 1,5 tarjetas → 0 de 2 tarjetas
+• Gana el Athletic Club → Marcador: 1–1
+
+❌ Fallos de los picks del bot y por qué:
+• Werder Bremen marca — Werder Bremen no marcó lo esperado (1-0)
+• Gana el Manchester City — resultado 3-1
+• Ermedin Demirovic: 3+ tiros — jugó 7′ e hizo 0 (necesitaba 3)
+• Tottenham o empate — resultado 1-0
+• Frosinone gana alguna de las dos partes — no llegó a la línea (1-0)
+• Frosinone o empate — resultado 1-0
+• Más de 1,5 goles en Leeds–Tottenham — partido cerrado (1-0): faltó 1 gol
+• Southampton gana alguna de las dos partes — no llegó a la línea (1-0)
+• Gana el Southampton — resultado 1-0
+• Ante Budimir: 1+ tiros a puerta — jugó 80′ e hizo 0 (necesitaba 1)
+• Stoke City hace más de 4,5 córners — no llegó a la línea (1-2)
+• Dominic Calvert-Lewin comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Ao Tanaka comete 1+ faltas — jugó 77′ e hizo 0 (necesitaba 1)
+• Jan Paul van Hecke comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Manchester City hace más de 0,5 fueras de juego — no llegó a la línea (3-1)
+• Calvin Bassey comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Ermedin Demirovic: 1+ tiros a puerta — jugó 7′ e hizo 0 (necesitaba 1)
+• Kieffer Moore: 1+ tiros a puerta — jugó 77′ e hizo 0 (necesitaba 1)
+• Arsenal ve más de 0,5 tarjetas — no llegó a la línea (1-0)
+• Tom Bischof comete 1+ faltas — jugó 23′ e hizo 0 (necesitaba 1)
+• Grischa Promel comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Camiel Neghli: 1+ tiros — jugó 90′ e hizo 0 (necesitaba 1)
+• Estac Troyes hace más de 2,5 córners — no llegó a la línea (1-0)
+• Más de 2,5 tarjetas en AS Roma–Sassuolo — no llegó a la línea (3-0)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): VfB Stuttgart–Werder Bremen, Nottingham Forest–Manchester City, Leeds–Tottenham, Cagliari–Frosinone, Preston–Southampton
+
+📐 Modelo: 309/504 aciertos reales (61%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo corners: 2/12 (-14 pts)
+⬇️ castigo mercado Double Chance|Draw/Away: 9/24 (-11 pts)
+⬆️ premio mercado Goals Over/Under|Over 1.5: 26/33 (+7 pts)
+⬇️ castigo liga Ligue 1: 26/51 (-7 pts)
+⬇️ castigo tipo tarjetas: 9/16 (-4 pts)
+⬇️ castigo mercado Cards Over/Under|Over 2.5: 0/1 (-4 pts)
+⬇️ castigo liga Bundesliga: 30/53 (-4 pts)
+⬆️ premio liga Eredivisie: 15/23 (+4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-06
 
 ```

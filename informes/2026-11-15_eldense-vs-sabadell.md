@@ -1,7 +1,7 @@
 # Eldense – Sabadell
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Pipa | M | 5 | 181 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,85 · visitante 0,95 · córners esperados 9,8._
+_Goles esperados: local 0,84 · visitante 0,95 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

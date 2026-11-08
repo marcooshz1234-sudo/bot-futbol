@@ -1,7 +1,7 @@
 # Leganes – Burgos
 **Segunda División** · Regular Season - 14 · 13/11/2026 20:30 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Leganes (total) | Leganes en casa | Burgos (total) | Burgos fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 14 | 6 |
-| Forma (últimos 5) | DEDDD | EDDVV | VEVVV | VVDVE |
-| Balance | 3V 3E 6D | 2V 1E 2D | 8V 3E 3D | 3V 1E 2D |
-| Goles a favor / partido | 0,83 | 1,00 | 1,64 | 1,67 |
-| Goles en contra / partido | 1,67 | 1,20 | 1,14 | 1,33 |
-| Goles a favor 1ª parte | 0,33 | 0,40 | 0,79 | 0,83 |
-| Goles a favor 2ª parte | 0,50 | 0,60 | 0,86 | 0,83 |
-| Goles en contra 1ª parte | 0,67 | 0,60 | 0,79 | 0,67 |
-| Goles en contra 2ª parte | 1,00 | 0,60 | 0,36 | 0,67 |
-| Más de 1,5 goles | 67% | 60% | 64% | 67% |
-| Más de 2,5 goles | 33% | 20% | 57% | 67% |
-| Más de 3,5 goles | 25% | 20% | 36% | 33% |
-| Ambos marcan | 33% | 40% | 64% | 67% |
-| Portería a cero | 25% | 20% | 21% | 17% |
-| Se queda sin marcar | 50% | 40% | 21% | 33% |
-| xG a favor | 1,34 | 2,13 | 1,40 | 1,25 |
-| xG en contra | 1,74 | 0,99 | 1,38 | 1,45 |
-| Tiros / partido | 11,6 | 13,8 | 12,0 | 10,8 |
-| Tiros a puerta / partido | 3,9 | 5,2 | 4,0 | 3,4 |
-| Tiros recibidos | 17,8 | 17,8 | 13,3 | 17,8 |
-| Tiros a puerta recibidos | 5,7 | 4,8 | 4,3 | 5,8 |
-| Posesión media % | 46 | 47 | 48 | 42 |
-| Córners a favor | 3,5 | 4,2 | 3,9 | 3,3 |
-| Córners en contra | 5,8 | 5,4 | 4,6 | 6,2 |
-| Córners a favor 1ª parte | 2,1 | 3,2 | 1,5 | 1,2 |
-| Córners a favor 2ª parte | 1,4 | 1,0 | 2,4 | 2,2 |
-| Córners totales del partido | 9,3 | 9,6 | 8,6 | 9,5 |
-| Córners totales 1ª parte | 4,1 | 5,2 | 3,6 | 4,0 |
-| Córners totales 2ª parte | 5,2 | 4,4 | 4,9 | 5,5 |
-| Más de 8,5 córners | 67% | 60% | 50% | 67% |
-| Más de 9,5 córners | 50% | 60% | 50% | 67% |
-| Más de 10,5 córners | 33% | 40% | 36% | 50% |
-| Faltas cometidas | 15,7 | 15,4 | 14,8 | 16,4 |
-| Faltas recibidas | 12,3 | 12,2 | 13,5 | 12,6 |
-| Amarillas propias | 3,2 | 3,6 | 2,4 | 2,7 |
-| Amarillas del rival | 2,2 | 2,2 | 2,4 | 2,2 |
-| Rojas / partido | 0,17 | 0,20 | 0,00 | 0,00 |
+| Partidos analizados | 13 | 6 | 14 | 6 |
+| Forma (últimos 5) | DDEDD | DEDDV | VEVVV | VVDVE |
+| Balance | 3V 3E 7D | 2V 1E 3D | 8V 3E 3D | 3V 1E 2D |
+| Goles a favor / partido | 0,85 | 1,00 | 1,64 | 1,67 |
+| Goles en contra / partido | 1,77 | 1,50 | 1,14 | 1,33 |
+| Goles a favor 1ª parte | 0,31 | 0,33 | 0,79 | 0,83 |
+| Goles a favor 2ª parte | 0,54 | 0,67 | 0,86 | 0,83 |
+| Goles en contra 1ª parte | 0,77 | 0,83 | 0,79 | 0,67 |
+| Goles en contra 2ª parte | 1,00 | 0,67 | 0,36 | 0,67 |
+| Más de 1,5 goles | 69% | 67% | 64% | 67% |
+| Más de 2,5 goles | 38% | 33% | 57% | 67% |
+| Más de 3,5 goles | 31% | 33% | 36% | 33% |
+| Ambos marcan | 38% | 50% | 64% | 67% |
+| Portería a cero | 23% | 17% | 21% | 17% |
+| Se queda sin marcar | 46% | 33% | 21% | 33% |
+| xG a favor | 1,46 | 2,23 | 1,40 | 1,25 |
+| xG en contra | 1,79 | 1,38 | 1,38 | 1,45 |
+| Tiros / partido | 12,0 | 14,3 | 12,0 | 10,8 |
+| Tiros a puerta / partido | 4,2 | 5,5 | 4,0 | 3,4 |
+| Tiros recibidos | 17,5 | 17,0 | 13,3 | 17,8 |
+| Tiros a puerta recibidos | 5,5 | 4,7 | 4,3 | 5,8 |
+| Posesión media % | 48 | 50 | 48 | 42 |
+| Córners a favor | 3,9 | 5,0 | 3,9 | 3,3 |
+| Córners en contra | 5,8 | 5,3 | 4,6 | 6,2 |
+| Córners a favor 1ª parte | 2,2 | 3,3 | 1,5 | 1,2 |
+| Córners a favor 2ª parte | 1,7 | 1,7 | 2,4 | 2,2 |
+| Córners totales del partido | 9,7 | 10,3 | 8,6 | 9,5 |
+| Córners totales 1ª parte | 4,2 | 5,3 | 3,6 | 4,0 |
+| Córners totales 2ª parte | 5,5 | 5,0 | 4,9 | 5,5 |
+| Más de 8,5 córners | 69% | 67% | 50% | 67% |
+| Más de 9,5 córners | 54% | 67% | 50% | 67% |
+| Más de 10,5 córners | 38% | 50% | 36% | 50% |
+| Faltas cometidas | 16,0 | 16,2 | 14,8 | 16,4 |
+| Faltas recibidas | 12,5 | 12,5 | 13,5 | 12,6 |
+| Amarillas propias | 3,3 | 3,8 | 2,4 | 2,7 |
+| Amarillas del rival | 2,5 | 2,8 | 2,4 | 2,2 |
+| Rojas / partido | 0,23 | 0,33 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Leganes | Recibe Leganes | Tarjetas Leganes | Goles Burgos | Recibe Burgos | Tarjetas Burgos |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 2 | 3 | 2 | 6 | 2 |
-| 16-30' | 2 | 5 | 6 | 5 | 1 | 3 |
-| 31-45' | 0 | 1 | 4 | 4 | 4 | 6 |
-| 46-60' | 2 | 6 | 4 | 3 | 1 | 6 |
-| 61-75' | 1 | 3 | 9 | 3 | 2 | 6 |
-| 76-90' | 3 | 3 | 14 | 6 | 2 | 12 |
+| 16-30' | 2 | 6 | 6 | 5 | 1 | 3 |
+| 31-45' | 0 | 2 | 5 | 4 | 4 | 6 |
+| 46-60' | 2 | 7 | 5 | 3 | 1 | 6 |
+| 61-75' | 2 | 3 | 10 | 3 | 2 | 6 |
+| 76-90' | 3 | 3 | 17 | 6 | 2 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Leganes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-07 | Segunda División | Leganes 1-3 Albacete | casa | 9-5 | 17 (7) - 13 (4) | 5-6 |
 | 2026-11-02 | Segunda División | Valladolid 4-3 Leganes | fuera | 4-6 | 21 (10) - 17 (10) | 5-1 |
 | 2026-10-24 | Segunda División | Leganes 1-1 Mallorca | casa | 7-4 | 13 (4) - 10 (3) | 5-4 |
 | 2026-10-16 | Segunda División | Leganes 0-1 Cordoba | casa | 4-7 | 9 (2) - 20 (3) | 4-2 |
 | 2026-10-11 | Segunda División | Almeria 3-0 Leganes | fuera | 3-8 | 7 (1) - 18 (8) | 5-2 |
 | 2026-10-03 | Segunda División | Cadiz 4-0 Leganes | fuera | 4-5 | 12 (1) - 24 (9) | 3-2 |
-| 2026-09-28 | Segunda División | Leganes 0-2 Castellón | casa | 4-4 | 15 (2) - 22 (7) | 6-1 |
 
 ## Jugadores de Leganes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Ismaël Gharbi | M | 12 | 907 | 2 | 1 | 14 | 1,2 | 6 | 0,5 | 11 | 16 | 1,3 | 2 | 0 |
+| L. Zidane | G | 10 | 874 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 0 | 0 |
 | Naim García | F | 12 | 860 | 2 | 1 | 15 | 1,2 | 5 | 0,4 | 12 | 10 | 0,8 | 1 | 0 |
-| Ismaël Gharbi | M | 11 | 839 | 2 | 1 | 13 | 1,2 | 5 | 0,5 | 8 | 16 | 1,5 | 2 | 0 |
+| Z. Buurmeester | M | 13 | 848 | 0 | 0 | 6 | 0,5 | 3 | 0,2 | 11 | 3 | 0,2 | 2 | 0 |
+| Miguel Atienza | M | 10 | 839 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 10 | 9 | 0,9 | 0 | 0 |
 | Y. Kechta | M | 12 | 829 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 25 | 9 | 0,8 | 4 | 0 |
-| Z. Buurmeester | M | 12 | 803 | 0 | 0 | 6 | 0,5 | 3 | 0,2 | 10 | 2 | 0,2 | 1 | 0 |
-| Luca Zidane | G | 9 | 784 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 0 | 0 |
+| Marvel | D | 10 | 825 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 10 | 7 | 0,7 | 4 | 0 |
 | Lalo Aguilar | D | 9 | 771 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 8 | 5 | 0,6 | 0 | 0 |
-| Miguel Atienza | M | 9 | 749 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 9 | 1,0 | 0 | 0 |
-| Marvel | D | 9 | 735 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 8 | 7 | 0,8 | 4 | 0 |
+| P. Soko | F | 13 | 685 | 1 | 0 | 15 | 1,2 | 8 | 0,6 | 10 | 4 | 0,3 | 1 | 0 |
 | Ignasi Miquel | D | 8 | 671 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 8 | 1,0 | 1 | 0 |
-| P. Soko | F | 12 | 640 | 1 | 0 | 13 | 1,1 | 7 | 0,6 | 8 | 4 | 0,3 | 0 | 0 |
-| Álex Sancris | M | 9 | 534 | 0 | 2 | 14 | 1,6 | 5 | 0,6 | 8 | 7 | 0,8 | 3 | 0 |
-| Javi Montero | D | 7 | 497 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 10 | 7 | 1,0 | 2 | 0 |
+| Álex Sancris | M | 10 | 624 | 0 | 3 | 17 | 1,7 | 6 | 0,6 | 10 | 7 | 0,7 | 3 | 0 |
+| Javi Montero | D | 8 | 596 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 11 | 7 | 0,9 | 2 | 1 |
+| Álvaro Morata | F | 9 | 560 | 3 | 0 | 13 | 1,4 | 5 | 0,6 | 24 | 16 | 1,8 | 4 | 1 |
 | Dani Rodríguez | M | 12 | 477 | 0 | 0 | 3 | 0,2 | 2 | 0,2 | 15 | 14 | 1,2 | 1 | 0 |
-| Álvaro Morata | F | 8 | 470 | 2 | 0 | 10 | 1,2 | 3 | 0,4 | 22 | 9 | 1,1 | 3 | 1 |
+| Rubén Peña | D | 8 | 393 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 4 | 0,5 | 1 | 0 |
 | Rubén Pulido | D | 9 | 387 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 7 | 2 | 0,2 | 4 | 0 |
-| Rubén Peña | D | 7 | 348 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 4 | 0,6 | 1 | 0 |
-| Álvaro Tejero | M | 5 | 314 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 8 | 1,6 | 0 | 0 |
+| Álvaro Tejero | D | 6 | 359 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 8 | 1,3 | 1 | 0 |
+| Enric Franquesa | D | 5 | 315 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
+| Álex Millán | F | 9 | 309 | 2 | 0 | 11 | 1,2 | 5 | 0,6 | 9 | 9 | 1,0 | 2 | 0 |
 | Raúl Fernández | G | 4 | 293 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 1 |
-| Álex Millán | F | 8 | 264 | 2 | 0 | 10 | 1,2 | 5 | 0,6 | 6 | 8 | 1,0 | 2 | 0 |
-| Enric Franquesa | D | 4 | 234 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 6 | 1,5 | 1 | 0 |
 
 ## Últimos partidos de Burgos
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | K. Appin | M | 6 | 181 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 5 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,44 · córners esperados 9,4._
+_Goles esperados: local 1,10 · visitante 1,53 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

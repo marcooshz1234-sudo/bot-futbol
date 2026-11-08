@@ -1,10 +1,10 @@
 # AZ Alkmaar – Groningen
 **Eredivisie** · Regular Season - 12 · 08/11/2026 16:45 (hora España) · AFAS Stadion（Alkmaar）
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
 - **1X2:** 1 **1.53**  ·  X **4.50**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.38**
@@ -32,7 +32,7 @@ _Actualizadas: 07/11 17:45_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.75**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -49,8 +49,8 @@ _Actualizadas: 07/11 17:45_
 - **Home Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
-    - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
+    - 3,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.05**  ·  Menos de 5 **1.75**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
 - **Home Player Shots On Target Total:** Valdemar Andreasen - 1 **1.62**  ·  Valdemar Andreasen - 2 **4.00**  ·  Valdemar Andreasen - 3 **13.00**  ·  Weslley Patati - 1 **1.25**  ·  Bendeguz Kovacs - 1 **1.18**  ·  Wassim Bouziane - 1 **1.73**  ·  Calvin Stengs - 1 **1.50**  ·  Ro-Zangelo Daal - 1 **1.40**  ·  Ayoub Oufkir - 1 **1.44**  ·  Kees Smit - 1 **1.62**  ·  Mees de Wit - 1 **3.00**  ·  Lewis Schouten - 1 **2.00**  ·  Seiya Maikuma - 1 **1.91**  ·  Dave Kwakman - 1 **1.80**  ·  Hessel de Wit - 1 **2.00**  ·  Peer Koopmeiners - 1 **2.20**  ·  Elijah Dijkstra - 1 **2.50**  ·  Mateo Chavez - 1 **2.50**  ·  Andrea Natali - 1 **2.75**  ·  Rion Ichihara - 1 **3.50**  ·  Wouter Goes - 1 **3.75**  ·  Weslley Patati - 2 **2.25**  ·  Bendeguz Kovacs - 2 **1.83**  ·  Wassim Bouziane - 2 **4.50**  ·  Calvin Stengs - 2 **3.40**  ·  Ro-Zangelo Daal - 2 **3.00**  ·  Ayoub Oufkir - 2 **3.25**  ·  Kees Smit - 2 **4.00**  ·  Mees de Wit - 2 **13.00**  ·  Lewis Schouten - 2 **6.50**  ·  Seiya Maikuma - 2 **6.00**  ·  Dave Kwakman - 2 **5.50**  ·  Hessel de Wit - 2 **6.50**  ·  Peer Koopmeiners - 2 **8.00**  ·  Elijah Dijkstra - 2 **10.00**  ·  Mateo Chavez - 2 **10.00**  ·  Andrea Natali - 2 **13.00**  ·  Rion Ichihara - 2 **19.00**  ·  Wouter Goes - 2 **19.00**  ·  Mexx Meerdink - 3 **2.38**  ·  Weslley Patati - 3 **5.00**  ·  Bendeguz Kovacs - 3 **3.75**  ·  Wassim Bouziane - 3 **15.00**  ·  Calvin Stengs - 3 **10.00**  ·  Ro-Zangelo Daal - 3 **8.00**  ·  Ayoub Oufkir - 3 **9.00**  ·  Kees Smit - 3 **13.00**  ·  Lewis Schouten - 3 **21.00**  ·  Seiya Maikuma - 3 **21.00**  ·  Dave Kwakman - 3 **19.00**  ·  Hessel de Wit - 3 **21.00**  ·  Mexx Meerdink - 4 **4.50**  ·  Weslley Patati - 4 **13.00**  ·  Bendeguz Kovacs - 4 **9.00**  ·  Calvin Stengs - 4 **21.00**  ·  Ro-Zangelo Daal - 4 **21.00**  ·  Ayoub Oufkir - 4 **21.00**  ·  Mexx Meerdink - 5 **11.00**  ·  Bendeguz Kovacs - 5 **21.00**  ·  Mexx Meerdink - 6 **21.00**  ·  Mexx Meerdink - 1 **1.08**  ·  Mexx Meerdink - 2 **1.44**  ·  Jordy Clasie - 1 **2.50**  ·  Jizz Hornkamp - 2 **2.00**  ·  Jordy Clasie - 2 **10.00**  ·  Jizz Hornkamp - 3 **4.33**  ·  Jizz Hornkamp - 4 **11.00**  ·  Jizz Hornkamp - 5 **21.00**  ·  Jizz Hornkamp - 1 **1.22**  ·  Wesley Hoedt - 1 **3.25**  ·  Wesley Hoedt - 2 **15.00**  ·  Jerolldino Bergraaf - 1 **1.25**  ·  Denso Kasius - 1 **1.73**  ·  Jerolldino Bergraaf - 2 **2.10**  ·  Denso Kasius - 2 **5.00**  ·  Jerolldino Bergraaf - 3 **4.50**  ·  Denso Kasius - 3 **17.00**  ·  Jerolldino Bergraaf - 4 **13.00**
 - **Away Player Shots On Target Total:** Wassim Bouziane **13.00**  ·  Brynjolfur Willumsson **9.50**  ·  Valdemar Andreasen **34.00**  ·  Tyrique Mercera **34.00**  ·  Elvis van der Laan **21.00**  ·  Mark Csinger **15.00**  ·  Nils Eggens **9.50**  ·  Hans Hateboer **29.00**  ·  Jacob Ondrejka **21.00**  ·  Ayoub Oufkir **12.00**  ·  Oskar Zawada **12.00**  ·  Tygo Land **67.00**  ·  Jorg Schreuders **81.00**  ·  Thom van Bergen **17.00**  ·  Wouter Prins **51.00**  ·  Thijmen Blokzijl **21.00**  ·  Marco Rente **15.00**  ·  Jizz Hornkamp **11.00**  ·  Mateo Chavez **15.00**  ·  Calvin Stengs **12.00**  ·  Pelle Clement **26.00**  ·  Mexx Meerdink **4.75**  ·  Kees Smit **34.00**  ·  Mees de Wit **34.00**  ·  Dave Kwakman **9.50**  ·  Peer Koopmeiners **15.00**  ·  Denso Kasius **15.00**  ·  Seiya Maikuma **17.00**  ·  Jordy Clasie **19.00**  ·  Wouter Goes **21.00**  ·  Wesley Hoedt **21.00**  ·  Ryan Metu **23.00**  ·  Rion Ichihara **12.00**  ·  Bendeguz Kovacs **6.00**  ·  Tika de Jonge **34.00**  ·  Nikolas Brandis **34.00**  ·  Ro-Zangelo Daal **6.50**  ·  Elijah Dijkstra **8.50**  ·  Weslley Patati **6.00**  ·  David van der Werff **51.00**  ·  Jerolldino Bergraaf **8.00**  ·  Andrea Natali **10.00**  ·  Lewis Schouten **7.50**  ·  Travis Hernes **34.00**
 - **Home Player Shots:** Valdemar Andreasen - 1 **1.06**  ·  Valdemar Andreasen - 2 **1.33**  ·  Valdemar Andreasen - 3 **1.91**  ·  Valdemar Andreasen - 4 **3.25**  ·  Valdemar Andreasen - 5 **6.00**  ·  Valdemar Andreasen - 6 **13.00**  ·  Weslley Patati - 1 **1.01**  ·  Bendeguz Kovacs - 1 **1.01**  ·  Wassim Bouziane - 1 **1.11**  ·  Calvin Stengs - 1 **1.04**  ·  Ro-Zangelo Daal - 1 **1.04**  ·  Ayoub Oufkir - 1 **1.05**  ·  Kees Smit - 1 **1.08**  ·  Mees de Wit - 1 **1.44**  ·  Lewis Schouten - 1 **1.18**  ·  Seiya Maikuma - 1 **1.14**  ·  Dave Kwakman - 1 **1.14**  ·  Hessel de Wit - 1 **1.17**  ·  Peer Koopmeiners - 1 **1.18**  ·  Elijah Dijkstra - 1 **1.33**  ·  Mateo Chavez - 1 **1.33**  ·  Andrea Natali - 1 **1.44**  ·  Rion Ichihara - 1 **1.67**  ·  Wouter Goes - 1 **1.80**  ·  Weslley Patati - 2 **1.11**  ·  Bendeguz Kovacs - 2 **1.08**  ·  Wassim Bouziane - 2 **1.50**  ·  Calvin Stengs - 2 **1.22**  ·  Ro-Zangelo Daal - 2 **1.22**  ·  Ayoub Oufkir - 2 **1.28**  ·  Kees Smit - 2 **1.40**  ·  Mees de Wit - 2 **3.00**  ·  Lewis Schouten - 2 **1.80**  ·  Seiya Maikuma - 2 **1.67**  ·  Dave Kwakman - 2 **1.67**  ·  Hessel de Wit - 2 **1.80**  ·  Peer Koopmeiners - 2 **1.83**  ·  Elijah Dijkstra - 2 **2.38**  ·  Mateo Chavez - 2 **2.38**  ·  Andrea Natali - 2 **3.00**  ·  Rion Ichihara - 2 **4.00**  ·  Wouter Goes - 2 **4.33**  ·  Mexx Meerdink - 3 **1.05**  ·  Weslley Patati - 3 **1.36**  ·  Bendeguz Kovacs - 3 **1.28**  ·  Wassim Bouziane - 3 **2.50**  ·  Calvin Stengs - 3 **1.67**  ·  Ro-Zangelo Daal - 3 **1.67**  ·  Ayoub Oufkir - 3 **1.80**  ·  Kees Smit - 3 **2.20**  ·  Mees de Wit - 3 **7.00**  ·  Lewis Schouten - 3 **3.40**  ·  Seiya Maikuma - 3 **2.75**  ·  Dave Kwakman - 3 **2.75**  ·  Hessel de Wit - 3 **3.25**  ·  Peer Koopmeiners - 3 **3.40**  ·  Elijah Dijkstra - 3 **5.50**  ·  Mateo Chavez - 3 **5.50**  ·  Andrea Natali - 3 **7.00**  ·  Rion Ichihara - 3 **11.00**  ·  Wouter Goes - 3 **13.00**  ·  Mexx Meerdink - 4 **1.17**  ·  Weslley Patati - 4 **1.83**  ·  Bendeguz Kovacs - 4 **1.67**  ·  Wassim Bouziane - 4 **4.50**  ·  Calvin Stengs - 4 **2.62**  ·  Ro-Zangelo Daal - 4 **2.62**  ·  Ayoub Oufkir - 4 **3.00**  ·  Kees Smit - 4 **3.75**  ·  Mees de Wit - 4 **19.00**  ·  Lewis Schouten - 4 **7.00**  ·  Seiya Maikuma - 4 **6.00**  ·  Dave Kwakman - 4 **5.50**  ·  Hessel de Wit - 4 **7.00**  ·  Peer Koopmeiners - 4 **7.00**  ·  Elijah Dijkstra - 4 **13.00**  ·  Mateo Chavez - 4 **13.00**  ·  Andrea Natali - 4 **19.00**  ·  Mexx Meerdink - 5 **1.36**  ·  Weslley Patati - 5 **2.75**  ·  Bendeguz Kovacs - 5 **2.50**  ·  Wassim Bouziane - 5 **10.00**  ·  Calvin Stengs - 5 **4.33**  ·  Ro-Zangelo Daal - 5 **4.50**  ·  Ayoub Oufkir - 5 **5.50**  ·  Kees Smit - 5 **8.00**  ·  Lewis Schouten - 5 **15.00**  ·  Seiya Maikuma - 5 **13.00**  ·  Dave Kwakman - 5 **13.00**  ·  Hessel de Wit - 5 **15.00**  ·  Peer Koopmeiners - 5 **17.00**  ·  Mexx Meerdink - 6 **1.73**  ·  Weslley Patati - 6 **4.50**  ·  Bendeguz Kovacs - 6 **3.75**  ·  Wassim Bouziane - 6 **19.00**  ·  Calvin Stengs - 6 **9.00**  ·  Ro-Zangelo Daal - 6 **9.00**  ·  Ayoub Oufkir - 6 **11.00**  ·  Kees Smit - 6 **15.00**  ·  Seiya Maikuma - 6 **21.00**  ·  Dave Kwakman - 6 **21.00**  ·  Mexx Meerdink - 7 **2.38**  ·  Weslley Patati - 7 **9.00**  ·  Bendeguz Kovacs - 7 **6.50**  ·  Calvin Stengs - 7 **17.00**  ·  Ro-Zangelo Daal - 7 **17.00**  ·  Ayoub Oufkir - 7 **19.00**  ·  Mexx Meerdink - 8 **3.50**  ·  Weslley Patati - 8 **15.00**  ·  Bendeguz Kovacs - 8 **13.00**  ·  Mexx Meerdink - 9 **5.50**  ·  Weslley Patati - 9 **21.00**  ·  Bendeguz Kovacs - 9 **21.00**  ·  Mexx Meerdink - 10 **9.00**  ·  Mexx Meerdink - 11 **15.00**  ·  Mexx Meerdink - 12 **21.00**  ·  Mexx Meerdink - 2 **1.01**  ·  Jordy Clasie - 1 **1.28**  ·  Jizz Hornkamp - 2 **1.11**  ·  Jordy Clasie - 2 **2.10**  ·  Jizz Hornkamp - 3 **1.36**  ·  Jordy Clasie - 3 **4.33**  ·  Jizz Hornkamp - 4 **1.83**  ·  Jordy Clasie - 4 **11.00**  ·  Jizz Hornkamp - 5 **2.75**  ·  Jordy Clasie - 5 **21.00**  ·  Jizz Hornkamp - 6 **4.50**  ·  Jizz Hornkamp - 7 **9.00**  ·  Jizz Hornkamp - 8 **15.00**  ·  Jizz Hornkamp - 9 **21.00**  ·  Jizz Hornkamp - 1 **1.01**  ·  Wesley Hoedt - 1 **1.50**  ·  Wesley Hoedt - 2 **3.25**  ·  Wesley Hoedt - 3 **8.00**  ·  Wesley Hoedt - 4 **19.00**  ·  Valdemar Andreasen - 7 **21.00**  ·  Jerolldino Bergraaf - 1 **1.01**  ·  Denso Kasius - 1 **1.10**  ·  Jerolldino Bergraaf - 2 **1.12**  ·  Denso Kasius - 2 **1.50**  ·  Jerolldino Bergraaf - 3 **1.40**  ·  Denso Kasius - 3 **2.38**  ·  Jerolldino Bergraaf - 4 **1.91**  ·  Denso Kasius - 4 **4.33**  ·  Jerolldino Bergraaf - 5 **3.00**  ·  Denso Kasius - 5 **9.00**  ·  Jerolldino Bergraaf - 6 **5.00**  ·  Denso Kasius - 6 **19.00**  ·  Jerolldino Bergraaf - 7 **9.00**  ·  Jerolldino Bergraaf - 8 **17.00**
@@ -191,14 +191,14 @@ _Sin bajas comunicadas por ahora._
 | R. Metu | F | 3 | 22 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,57 · visitante 1,16 · córners esperados 10,0._
+_Goles esperados: local 2,59 · visitante 1,17 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 15% | 17% | 16% | 5.50 | -11% |
-| 1X2: X | 17% | 21% | 19% | 4.50 | -14% |
+| 1X2: X | 17% | 21% | 19% | 4.50 | -15% |
 | 1X2: 1 | 68% | 62% | 65% | 1.53 | -1% |
 | Doble oportunidad: X2 | 32% | 39% | 36% | 2.38 | -15% |
 | Doble oportunidad: 12 | 83% | 79% | 81% | 1.18 | -4% |
@@ -206,30 +206,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 36% | 38% | 37% | 2.50 | -8% |
 | Ambos marcan: Sí | 64% | 62% | 63% | 1.50 | -5% |
 | Goles más/menos: Más de 2.5 | 72% | 67% | 70% | 1.40 | -2% |
-| Goles más/menos: Más de 3.5 | 51% | 46% | 49% | 2.00 | -2% |
-| Goles más/menos: Más de 4.5 | 32% | 28% | 30% | 3.40 | +1% |
+| Goles más/menos: Más de 3.5 | 52% | 46% | 49% | 2.00 | -2% |
+| Goles más/menos: Más de 4.5 | 32% | 28% | 30% | 3.40 | +2% |
 | Goles más/menos: Menos de 2.5 | 28% | 33% | 30% | 2.88 | -13% |
-| Goles más/menos: Menos de 3.5 | 49% | 54% | 51% | 1.73 | -11% |
+| Goles más/menos: Menos de 3.5 | 48% | 54% | 51% | 1.73 | -12% |
 | Goles más/menos: Menos de 4.5 | 68% | 72% | 70% | 1.30 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -4% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
-| Goles del local: Más de 1.5 | 73% | 66% | 69% | 1.40 | -3% |
-| Goles del local: Más de 2.5 | 47% | 42% | 45% | 2.20 | -1% |
-| Goles del local: Más de 3.5 | 26% | 22% | 24% | 4.33 | +3% |
-| Goles del local: Menos de 1.5 | 27% | 34% | 31% | 2.75 | -16% |
-| Goles del local: Menos de 2.5 | 53% | 58% | 55% | 1.62 | -11% |
-| Goles del local: Menos de 3.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles del local: Más de 1.5 | 73% | 66% | 70% | 1.40 | -3% |
+| Goles del local: Más de 2.5 | 48% | 42% | 45% | 2.20 | -1% |
+| Goles del local: Más de 3.5 | 26% | 22% | 24% | 4.33 | +4% |
+| Goles del local: Menos de 1.5 | 27% | 34% | 30% | 2.75 | -17% |
+| Goles del local: Menos de 2.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles del local: Menos de 3.5 | 74% | 78% | 76% | 1.20 | -9% |
 | Goles del visitante: Más de 0.5 | 69% | 69% | 69% | 1.36 | -6% |
-| Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -6% |
-| Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Córners más/menos: Más de 10.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Córners más/menos: Menos de 10.5 | 59% | 51% | 55% | 1.80 | -1% |
-| 1X2 descanso: X | 33% | 34% | 33% | 2.75 | -9% |
+| Goles del visitante: Más de 1.5 | 33% | 34% | 33% | 2.75 | -9% |
+| Goles del visitante: Menos de 0.5 | 31% | 31% | 31% | 3.00 | -7% |
+| Goles del visitante: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -6% |
+| Córners más/menos: Más de 10.5 | 41% | 46% | 44% | 2.00 | -13% |
+| Córners más/menos: Menos de 10.5 | 59% | 54% | 56% | 1.73 | -3% |
+| 1X2 descanso: X | 32% | 34% | 33% | 2.75 | -9% |
 | 1X2 descanso: 1 | 51% | 48% | 49% | 1.95 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,12 +1,12 @@
 # Vitória SC – FC Porto
 **Primeira Liga** · Regular Season - 11 · 08/11/2026 19:00 (hora España) · Estádio D. Afonso Henriques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 07/11 19:50._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 08/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 07/11 17:45_
+_Actualizadas: 08/11 02:09_
 
-- **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
+- **1X2:** 1 **5.25**  ·  X **4.10**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
@@ -50,7 +50,7 @@ _Actualizadas: 07/11 17:45_
     - 3,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 5,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 - **Home Player Shots On Target Total:** Orest Lebedenko - 1 **3.00**  ·  Orest Lebedenko - 2 **15.00**  ·  Gustavo Silva - 1 **2.50**  ·  Gustavo Silva - 2 **10.00**  ·  Gustavo Silva - 3 **21.00**  ·  Toni Borevkovic - 1 **5.50**  ·  Alioune Ndoye - 1 **1.62**  ·  Miguel Nogueira - 1 **2.00**  ·  Telmo Arcanjo - 1 **2.38**  ·  Silva Samu - 1 **2.20**  ·  Oumar Camara - 1 **3.25**  ·  Marco Cruz - 1 **2.62**  ·  Fabio Blanco - 1 **2.62**  ·  Goncalo Nogueira - 1 **3.25**  ·  Matija Mitrovic - 1 **3.50**  ·  Santi Verdi - 1 **3.50**  ·  Ahmed Sidibe - 1 **3.50**  ·  Lohann Doucet - 1 **3.75**  ·  Joao Miguel Teixeira Mendes - 1 **6.00**  ·  Oscar Rivas - 1 **5.00**  ·  Miguel Maga - 1 **5.50**  ·  Mukendi Beni - 1 **6.00**  ·  Rica Rocha - 1 **6.00**  ·  Tony Strata - 1 **6.00**  ·  Francisco Dias - 1 **5.50**  ·  Yeimar Mosquera - 1 **5.50**  ·  Thiago Balieiro - 1 **6.50**  ·  Miguel Joao Nobrega - 1 **6.50**  ·  Alioune Ndoye - 2 **4.00**  ·  Miguel Nogueira - 2 **6.50**  ·  Telmo Arcanjo - 2 **9.00**  ·  Silva Samu - 2 **8.00**  ·  Oumar Camara - 2 **15.00**  ·  Marco Cruz - 2 **11.00**  ·  Fabio Blanco - 2 **11.00**  ·  Goncalo Nogueira - 2 **17.00**  ·  Matija Mitrovic - 2 **19.00**  ·  Santi Verdi - 2 **19.00**  ·  Ahmed Sidibe - 2 **19.00**  ·  Lohann Doucet - 2 **19.00**  ·  Alioune Ndoye - 3 **13.00**  ·  Miguel Nogueira - 3 **21.00**  ·  Silva Samu - 3 **21.00**  ·  Vignon Ouotro - 1 **1.73**  ·  Victor Andersson - 1 **2.62**  ·  Vignon Ouotro - 2 **4.50**  ·  Victor Andersson - 2 **11.00**  ·  Vignon Ouotro - 3 **15.00**  ·  Arnel Jakupovic - 1 **1.73**  ·  Alan Guimaraes - 1 **2.62**  ·  Arnel Jakupovic - 2 **4.50**  ·  Alan Guimaraes - 2 **11.00**  ·  Arnel Jakupovic - 3 **15.00**
 - **Away Player Shots On Target Total:** Joao Victor Souza **34.00**  ·  Orest Lebedenko **17.00**  ·  Gabriel Mec **19.00**  ·  Victor Froholdt **19.00**  ·  Tony Strata **126.00**  ·  Seko Fofana **17.00**  ·  Joao Teixeira **34.00**  ·  Fabio Blanco **17.00**  ·  Oumar Camara **23.00**  ·  Matija Mitrovic **26.00**  ·  Miguel Joao Nobrega **41.00**  ·  Dominik Prpic **26.00**  ·  Thiago Balieiro **51.00**  ·  Alioune Ndoye **26.00**  ·  Lohann Doucet **34.00**  ·  Yeimar Mosquera **29.00**  ·  Miguel Nogueira **15.00**  ·  Rica Rocha **51.00**  ·  Mohammed Kebdani **101.00**  ·  Borja Sainz **23.00**  ·  Pablo Rosario **12.00**  ·  In-Beom Hwang **51.00**  ·  Gabriel Veiga **29.00**  ·  Chris Smalling **15.00**  ·  Alan Varela **51.00**  ·  Eduardo Pepê **29.00**  ·  Francisco Moura **19.00**  ·  Martim Fernandes **41.00**  ·  Zaidu Sanusi **13.00**  ·  Nehuen Perez **17.00**  ·  Francisco Dias **151.00**  ·  Gustavo Silva **26.00**  ·  Marco Cruz **29.00**  ·  Silva Samu **29.00**  ·  Telmo Arcanjo **29.00**  ·  Goncalo Nogueira **34.00**  ·  Joao Miguel Teixeira Mendes **41.00**  ·  Miguel Maga **67.00**  ·  Oscar Rivas **51.00**  ·  Toni Borevkovic **41.00**  ·  Mukendi Beni **41.00**  ·  Oskar Pietuszewski **23.00**  ·  Duarte Cunha **41.00**  ·  Vignon Ouotro **23.00**  ·  Domingos Luis Gomes **15.00**  ·  Samuel Aghehowa **7.50**  ·  Jan Bednarek **12.00**  ·  Alberto Costa **26.00**  ·  Tiago Silva **26.00**  ·  Miguel Andre Silva **8.50**  ·  Jakub Kiwior **17.00**  ·  Santiago Gimenez **6.00**  ·  William Carvalho **26.00**
 - **Home Player Shots:** Orest Lebedenko - 1 **1.50**  ·  Orest Lebedenko - 2 **3.25**  ·  Orest Lebedenko - 3 **8.00**  ·  Orest Lebedenko - 4 **21.00**  ·  Gustavo Silva - 1 **1.18**  ·  Gustavo Silva - 2 **1.83**  ·  Gustavo Silva - 3 **3.40**  ·  Gustavo Silva - 4 **7.00**  ·  Gustavo Silva - 5 **17.00**  ·  Gustavo Silva - 6 **19.00**  ·  Toni Borevkovic - 1 **2.25**  ·  Toni Borevkovic - 2 **8.00**  ·  Toni Borevkovic - 3 **21.00**  ·  Alioune Ndoye - 1 **1.11**  ·  Miguel Nogueira - 1 **1.18**  ·  Telmo Arcanjo - 1 **1.17**  ·  Silva Samu - 1 **1.20**  ·  Oumar Camara - 1 **1.22**  ·  Marco Cruz - 1 **1.40**  ·  Fabio Blanco - 1 **1.40**  ·  Goncalo Nogueira - 1 **1.57**  ·  Matija Mitrovic - 1 **1.67**  ·  Santi Verdi - 1 **1.67**  ·  Ahmed Sidibe - 1 **1.73**  ·  Lohann Doucet - 1 **1.73**  ·  Joao Miguel Teixeira Mendes - 1 **2.25**  ·  Oscar Rivas - 1 **2.20**  ·  Miguel Maga - 1 **2.38**  ·  Mukendi Beni - 1 **2.25**  ·  Rica Rocha - 1 **2.25**  ·  Tony Strata - 1 **2.25**  ·  Francisco Dias - 1 **2.38**  ·  Yeimar Mosquera - 1 **2.38**  ·  Thiago Balieiro - 1 **2.50**  ·  Miguel Joao Nobrega - 1 **2.75**  ·  Alioune Ndoye - 2 **1.50**  ·  Miguel Nogueira - 2 **1.80**  ·  Telmo Arcanjo - 2 **1.73**  ·  Silva Samu - 2 **1.83**  ·  Oumar Camara - 2 **1.91**  ·  Marco Cruz - 2 **2.62**  ·  Fabio Blanco - 2 **2.62**  ·  Goncalo Nogueira - 2 **3.50**  ·  Matija Mitrovic - 2 **4.00**  ·  Santi Verdi - 2 **4.00**  ·  Ahmed Sidibe - 2 **4.33**  ·  Lohann Doucet - 2 **4.33**  ·  Joao Miguel Teixeira Mendes - 2 **8.00**  ·  Oscar Rivas - 2 **7.00**  ·  Miguel Maga - 2 **8.00**  ·  Mukendi Beni - 2 **8.00**  ·  Rica Rocha - 2 **8.00**  ·  Tony Strata - 2 **8.00**  ·  Francisco Dias - 2 **8.00**  ·  Yeimar Mosquera - 2 **8.00**  ·  Thiago Balieiro - 2 **9.00**  ·  Miguel Joao Nobrega - 2 **10.00**  ·  Alioune Ndoye - 3 **2.50**  ·  Miguel Nogueira - 3 **3.40**  ·  Telmo Arcanjo - 3 **3.25**  ·  Silva Samu - 3 **3.50**  ·  Oumar Camara - 3 **3.75**  ·  Marco Cruz - 3 **6.50**  ·  Fabio Blanco - 3 **6.50**  ·  Goncalo Nogueira - 3 **10.00**  ·  Matija Mitrovic - 3 **11.00**  ·  Santi Verdi - 3 **11.00**  ·  Ahmed Sidibe - 3 **13.00**  ·  Lohann Doucet - 3 **13.00**  ·  Joao Miguel Teixeira Mendes - 3 **21.00**  ·  Oscar Rivas - 3 **21.00**  ·  Miguel Maga - 3 **21.00**  ·  Mukendi Beni - 3 **21.00**  ·  Rica Rocha - 3 **21.00**  ·  Tony Strata - 3 **21.00**  ·  Francisco Dias - 3 **21.00**  ·  Yeimar Mosquera - 3 **21.00**  ·  Alioune Ndoye - 4 **4.50**  ·  Miguel Nogueira - 4 **7.00**  ·  Telmo Arcanjo - 4 **6.50**  ·  Silva Samu - 4 **8.00**  ·  Oumar Camara - 4 **9.00**  ·  Marco Cruz - 4 **15.00**  ·  Fabio Blanco - 4 **15.00**  ·  Goncalo Nogueira - 4 **21.00**  ·  Matija Mitrovic - 4 **21.00**  ·  Santi Verdi - 4 **21.00**  ·  Alioune Ndoye - 5 **10.00**  ·  Miguel Nogueira - 5 **15.00**  ·  Telmo Arcanjo - 5 **15.00**  ·  Silva Samu - 5 **17.00**  ·  Oumar Camara - 5 **19.00**  ·  Alioune Ndoye - 6 **19.00**  ·  Miguel Nogueira - 6 **21.00**  ·  Marco Cruz - 5 **21.00**  ·  Vignon Ouotro - 1 **1.11**  ·  Victor Andersson - 1 **1.40**  ·  Vignon Ouotro - 2 **1.50**  ·  Victor Andersson - 2 **2.62**  ·  Vignon Ouotro - 3 **2.50**  ·  Victor Andersson - 3 **6.50**  ·  Vignon Ouotro - 4 **4.50**  ·  Victor Andersson - 4 **15.00**  ·  Vignon Ouotro - 5 **10.00**  ·  Victor Andersson - 5 **21.00**  ·  Vignon Ouotro - 6 **21.00**  ·  Arnel Jakupovic - 1 **1.11**  ·  Alan Guimaraes - 1 **1.36**  ·  Arnel Jakupovic - 2 **1.50**  ·  Alan Guimaraes - 2 **2.62**  ·  Arnel Jakupovic - 3 **2.50**  ·  Alan Guimaraes - 3 **6.00**  ·  Arnel Jakupovic - 4 **4.50**  ·  Alan Guimaraes - 4 **15.00**  ·  Arnel Jakupovic - 5 **10.00**  ·  Arnel Jakupovic - 6 **21.00**  ·  Alan Guimaraes - 5 **21.00**
@@ -191,41 +191,41 @@ _Sin bajas comunicadas por ahora._
 | S. Giménez | F | 6 | 106 | 1 | 1 | 7 | 1,2 | 6 | 1,0 | 3 | 4 | 0,7 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,98 · visitante 1,31 · córners esperados 9,6._
+_Goles esperados: local 0,99 · visitante 1,31 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 44% | 58% | 51% | 1.60 | -18% |
-| 1X2: X | 28% | 23% | 26% | 4.00 | +2% |
-| 1X2: 1 | 28% | 19% | 23% | 5.00 | +16% |
-| Doble oportunidad: X2 | 72% | 81% | 77% | 1.17 | -10% |
+| 1X2: 2 | 44% | 59% | 52% | 1.57 | -19% |
+| 1X2: X | 28% | 23% | 25% | 4.10 | +4% |
+| 1X2: 1 | 28% | 18% | 23% | 5.25 | +20% |
+| Doble oportunidad: X2 | 72% | 81% | 76% | 1.17 | -11% |
 | Doble oportunidad: 12 | 72% | 78% | 75% | 1.22 | -9% |
 | Doble oportunidad: 1X | 56% | 41% | 49% | 2.30 | +12% |
-| Ambos marcan: No | 54% | 50% | 52% | 1.91 | -0% |
-| Ambos marcan: Sí | 46% | 50% | 48% | 1.91 | -9% |
+| Ambos marcan: No | 54% | 50% | 52% | 1.91 | -1% |
+| Ambos marcan: Sí | 46% | 50% | 48% | 1.91 | -8% |
 | Goles más/menos: Más de 1.5 | 67% | 75% | 71% | 1.25 | -11% |
-| Goles más/menos: Más de 2.5 | 40% | 51% | 46% | 1.85 | -15% |
-| Goles más/menos: Más de 3.5 | 20% | 29% | 24% | 3.25 | -21% |
+| Goles más/menos: Más de 2.5 | 41% | 51% | 46% | 1.85 | -15% |
+| Goles más/menos: Más de 3.5 | 20% | 29% | 25% | 3.25 | -20% |
 | Goles más/menos: Menos de 1.5 | 33% | 25% | 29% | 3.75 | +9% |
-| Goles más/menos: Menos de 2.5 | 60% | 49% | 54% | 1.95 | +6% |
-| Goles más/menos: Menos de 3.5 | 80% | 71% | 76% | 1.33 | +1% |
+| Goles más/menos: Menos de 2.5 | 59% | 49% | 54% | 1.95 | +5% |
+| Goles más/menos: Menos de 3.5 | 80% | 71% | 75% | 1.33 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 26% | 35% | 31% | 2.62 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 65% | 69% | 1.44 | -0% |
-| Goles del local: Más de 0.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 1.5 | 26% | 23% | 25% | 4.00 | -2% |
-| Goles del local: Menos de 0.5 | 38% | 42% | 40% | 2.20 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 65% | 69% | 1.44 | -1% |
+| Goles del local: Más de 0.5 | 63% | 58% | 60% | 1.62 | -2% |
+| Goles del local: Más de 1.5 | 26% | 23% | 25% | 4.00 | -1% |
+| Goles del local: Menos de 0.5 | 37% | 42% | 40% | 2.20 | -12% |
 | Goles del local: Menos de 1.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles del visitante: Más de 1.5 | 38% | 54% | 46% | 1.73 | -21% |
-| Goles del visitante: Más de 2.5 | 14% | 28% | 21% | 3.40 | -28% |
+| Goles del visitante: Más de 2.5 | 15% | 28% | 21% | 3.40 | -28% |
 | Goles del visitante: Menos de 1.5 | 62% | 46% | 54% | 2.00 | +9% |
-| Goles del visitante: Menos de 2.5 | 86% | 72% | 79% | 1.30 | +3% |
+| Goles del visitante: Menos de 2.5 | 85% | 72% | 79% | 1.30 | +3% |
 | Córners más/menos: Más de 8.5 | 55% | 56% | 55% | 1.67 | -8% |
 | Córners más/menos: Menos de 8.5 | 45% | 44% | 45% | 2.10 | -6% |
 | 1X2 descanso: 2 | 32% | 42% | 37% | 2.20 | -19% |
-| 1X2 descanso: X | 47% | 41% | 44% | 2.30 | +0% |
+| 1X2 descanso: X | 46% | 41% | 43% | 2.30 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
