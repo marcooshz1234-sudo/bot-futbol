@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 20:26",
+ "actualizado": "2026-11-08 20:37",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -57,11 +57,7 @@
  "total": 2568,
  "total_hoy": 101,
  "likes_hoy": 0,
- "proximo": {
-  "hora": "20:30",
-  "dia": "2026-11-08",
-  "titulo": "Combi Estrela vs Benfica"
- },
+ "proximo": null,
  "ayer": {
   "aciertos": 29,
   "total": 55
@@ -168,13 +164,13 @@
   }
  },
  "tipos_instagram": {
-  "Combi de partido (reel)": {
-   "posts": 6,
+  "Combi loca (reel)": {
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 44,
+  "Combi de partido (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
