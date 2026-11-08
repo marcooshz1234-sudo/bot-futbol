@@ -3513,7 +3513,7 @@
   {
     "id": "2026-11-08-combi-tres",
     "fecha": "2026-11-08T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,50! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Sunderland–Chelsea\n🇳🇱 AZ Alkmaar gana alguna de las dos partes\n🇮🇹 Más de 1,5 goles en Fiorentina–Juventus\n🇵🇹 Gana el Benfica\n\n🎯 CUOTA 2,50 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,44! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Sunderland–Chelsea\n🇳🇱 AZ Alkmaar gana alguna de las dos partes\n🇮🇹 Más de 1,5 goles en Fiorentina–Juventus\n🇵🇹 Gana el Benfica\n\n🎯 CUOTA 2,44 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3525,10 +3525,11 @@
     ],
     "cuotas": [
       1.25,
-      1.28,
+      1.25,
       1.25,
       1.25
-    ]
+    ],
+    "cuotas_revisadas": "2026-11-08T12:02"
   },
   {
     "id": "2026-11-08-combi-partido-1552222",
