@@ -200,6 +200,8 @@
   "clave|2026-11-07-ganadores-win|1557457|Match Winner|Home|V. Gyökeres",
   "clave|2026-11-07-ganadores-win|1575212|Match Winner|Home|S. Guirassy",
   "clave|2026-11-07-ganadores-win|1575213|Match Winner|Home|A. Nusa",
+  "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots On Target Total|Jacob Trenskow - 1|Ringo Meerveld",
+  "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots|Maxence Rivera - 2|Ringo Meerveld",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -5673,10 +5675,151 @@
    }
   },
   "1552221": {
-   "hora": "2026-11-08T11:39:32.280352+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T11:50:14.937136+01:00",
+   "xi": [
+    "B. Klaverboer",
+    "O. Braude",
+    "S. Kersten",
+    "M. Willemsen",
+    "V. Zagaritis",
+    "N. Courtens",
+    "M. Linday",
+    "L. Smans",
+    "J. Trenskow",
+    "D. Vente",
+    "M. Rivera",
+    "T. Ernst",
+    "G. Read",
+    "T. Watanabe",
+    "Mika Màrmol",
+    "Javi López",
+    "G. Zechiël",
+    "C. Vanhoutte",
+    "O. Targhalline",
+    "A. Hadj-Moussa",
+    "Nacho Ferri",
+    "L. Valente"
+   ],
+   "banquillo": [
+    "M. Egbring",
+    "D. Bladi",
+    "M. Farji",
+    "M. Hilgers",
+    "L. Machine",
+    "R. Meerveld",
+    "A. Noppert",
+    "L. Oyen",
+    "H. Petrov",
+    "D. Proper",
+    "R. Uldriķis",
+    "T. Schreuder",
+    "M. Deijl",
+    "Theodoros Delianidis",
+    "G. Diarra",
+    "F. Kastenmeier",
+    "T. Kraaijeveld",
+    "R. Nelson",
+    "J. Schaken",
+    "Dani Slory",
+    "S. Steijn",
+    "T. van den Elshout",
+    "S. van Persie",
+    "L. Bossin"
+   ],
+   "equipos": {
+    "210": [
+     {
+      "n": "B. Klaverboer",
+      "pos": "G"
+     },
+     {
+      "n": "O. Braude",
+      "pos": "D"
+     },
+     {
+      "n": "S. Kersten",
+      "pos": "D"
+     },
+     {
+      "n": "M. Willemsen",
+      "pos": "D"
+     },
+     {
+      "n": "V. Zagaritis",
+      "pos": "D"
+     },
+     {
+      "n": "N. Courtens",
+      "pos": "M"
+     },
+     {
+      "n": "M. Linday",
+      "pos": "M"
+     },
+     {
+      "n": "L. Smans",
+      "pos": "M"
+     },
+     {
+      "n": "J. Trenskow",
+      "pos": "F"
+     },
+     {
+      "n": "D. Vente",
+      "pos": "F"
+     },
+     {
+      "n": "M. Rivera",
+      "pos": "F"
+     }
+    ],
+    "209": [
+     {
+      "n": "T. Ernst",
+      "pos": "G"
+     },
+     {
+      "n": "G. Read",
+      "pos": "D"
+     },
+     {
+      "n": "T. Watanabe",
+      "pos": "D"
+     },
+     {
+      "n": "Mika Màrmol",
+      "pos": "D"
+     },
+     {
+      "n": "Javi López",
+      "pos": "D"
+     },
+     {
+      "n": "G. Zechiël",
+      "pos": "M"
+     },
+     {
+      "n": "C. Vanhoutte",
+      "pos": "M"
+     },
+     {
+      "n": "O. Targhalline",
+      "pos": "M"
+     },
+     {
+      "n": "A. Hadj-Moussa",
+      "pos": "F"
+     },
+     {
+      "n": "Nacho Ferri",
+      "pos": "F"
+     },
+     {
+      "n": "L. Valente",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1550193": {
    "hora": "2026-11-08T11:44:58.509815+01:00",
