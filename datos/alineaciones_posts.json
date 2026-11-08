@@ -200,6 +200,9 @@
   "clave|2026-11-07-ganadores-win|1557457|Match Winner|Home|V. Gyökeres",
   "clave|2026-11-07-ganadores-win|1575212|Match Winner|Home|S. Guirassy",
   "clave|2026-11-07-ganadores-win|1575213|Match Winner|Home|A. Nusa",
+  "clave|2026-11-08-combi-partido-1550193|1550193|Away Player Shots|Gustav Isaksen - 2|M. Zaccagni",
+  "clave|2026-11-08-combi-partido-1550193|1550193|Home Player Shots On Target Total|Scott McTominay - 1|M. Politano",
+  "clave|2026-11-08-combi-partido-1550193|1550193|Total - Away|Over 0.5|M. Zaccagni",
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots On Target Total|Jacob Trenskow - 1|Ringo Meerveld",
   "clave|2026-11-08-combi-partido-1552221|1552221|Home Player Shots|Maxence Rivera - 2|Ringo Meerveld",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
@@ -5822,10 +5825,153 @@
    }
   },
   "1550193": {
-   "hora": "2026-11-08T11:57:09.368857+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T12:08:01.797220+01:00",
+   "xi": [
+    "V. Milinković-Savić",
+    "S. Beukema",
+    "Amir Rrahmani",
+    "Rafa Marín",
+    "A. Vergara",
+    "K. De Bruyne",
+    "B. Gilmour",
+    "S. McTominay",
+    "M. Olivera",
+    "R. Højlund",
+    "N. Lang",
+    "C. Mandas",
+    "R. Floriani Mussolini",
+    "J. Šutalo",
+    "O. Provstgaard",
+    "Nuno Tavares",
+    "D. Frattesi",
+    "R. Belahyane",
+    "K. Taylor",
+    "G. Isaksen",
+    "A. Pinamonti",
+    "T. Noslin"
+   ],
+   "banquillo": [
+    "M. Politano",
+    "A. Meret",
+    "L. Lucca",
+    "Claudio Lieto",
+    "Giovane",
+    "N. Contini",
+    "A. Zambo Anguissa",
+    "Nikita Melnyk",
+    "Milton Agustín Pereyra",
+    "F. Barido",
+    "A. Chiummariello",
+    "Diogo Leite",
+    "M. Cancellieri",
+    "D. Cataldi",
+    "F. Dele-Bashiru",
+    "D. Doekhi",
+    "V. Farcomeni",
+    "M. Lazzari",
+    "A. Marušić",
+    "E. Motta",
+    "Pedraza",
+    "L. Pellegrini",
+    "A. Przyborek",
+    "D. Renzetti",
+    "N. Rovella",
+    "F. Serra"
+   ],
+   "equipos": {
+    "492": [
+     {
+      "n": "V. Milinković-Savić",
+      "pos": "G"
+     },
+     {
+      "n": "S. Beukema",
+      "pos": "D"
+     },
+     {
+      "n": "Amir Rrahmani",
+      "pos": "D"
+     },
+     {
+      "n": "Rafa Marín",
+      "pos": "D"
+     },
+     {
+      "n": "A. Vergara",
+      "pos": "M"
+     },
+     {
+      "n": "K. De Bruyne",
+      "pos": "M"
+     },
+     {
+      "n": "B. Gilmour",
+      "pos": "M"
+     },
+     {
+      "n": "S. McTominay",
+      "pos": "M"
+     },
+     {
+      "n": "M. Olivera",
+      "pos": "M"
+     },
+     {
+      "n": "R. Højlund",
+      "pos": "F"
+     },
+     {
+      "n": "N. Lang",
+      "pos": "F"
+     }
+    ],
+    "487": [
+     {
+      "n": "C. Mandas",
+      "pos": "G"
+     },
+     {
+      "n": "R. Floriani Mussolini",
+      "pos": "D"
+     },
+     {
+      "n": "J. Šutalo",
+      "pos": "D"
+     },
+     {
+      "n": "O. Provstgaard",
+      "pos": "D"
+     },
+     {
+      "n": "Nuno Tavares",
+      "pos": "D"
+     },
+     {
+      "n": "D. Frattesi",
+      "pos": "M"
+     },
+     {
+      "n": "R. Belahyane",
+      "pos": "M"
+     },
+     {
+      "n": "K. Taylor",
+      "pos": "M"
+     },
+     {
+      "n": "G. Isaksen",
+      "pos": "F"
+     },
+     {
+      "n": "A. Pinamonti",
+      "pos": "F"
+     },
+     {
+      "n": "T. Noslin",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
