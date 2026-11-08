@@ -237,147 +237,6 @@
    "banquillo": [],
    "equipos": {}
   },
-  "1575218": {
-   "hora": "2026-11-06T20:09:16.655704+01:00",
-   "xi": [
-    "Daniel Heuer Fernandes",
-    "S. Nandja",
-    "S. Bornauw",
-    "W. Omari",
-    "Z. El Ouahdi",
-    "M. Adeline",
-    "A. Sambi Lokonga",
-    "M. Muheim",
-    "D. Møller Wolfe",
-    "P. Daka",
-    "A. Grønbæk",
-    "D. Batz",
-    "P. Sander",
-    "K. Itakura",
-    "F. Chiarodia",
-    "J. Scally",
-    "Z. Uno",
-    "F. Neuhaus",
-    "L. Ullrich",
-    "R. Hack",
-    "W. Mohya",
-    "S. Machino"
-   ],
-   "banquillo": [
-    "J. Bissi Mouelle",
-    "L. Lemke",
-    "T. Moffi",
-    "Y. Poulsen",
-    "Kofi Jeremy Amoako",
-    "Alexander Røssing-Lelesiit",
-    "Otto Emerson Stange",
-    "S. Tangvik",
-    "J. Torunarigha",
-    "J. Castrop",
-    "K. Diks",
-    "D. Herold",
-    "F. Honorat",
-    "Y. Konoplya",
-    "I. Lidberg",
-    "M. Nguefack",
-    "J. Olschowsky",
-    "K. Stöger"
-   ],
-   "equipos": {
-    "175": [
-     {
-      "n": "Daniel Heuer Fernandes",
-      "pos": "G"
-     },
-     {
-      "n": "S. Nandja",
-      "pos": "D"
-     },
-     {
-      "n": "S. Bornauw",
-      "pos": "D"
-     },
-     {
-      "n": "W. Omari",
-      "pos": "D"
-     },
-     {
-      "n": "Z. El Ouahdi",
-      "pos": "M"
-     },
-     {
-      "n": "M. Adeline",
-      "pos": "M"
-     },
-     {
-      "n": "A. Sambi Lokonga",
-      "pos": "M"
-     },
-     {
-      "n": "M. Muheim",
-      "pos": "M"
-     },
-     {
-      "n": "D. Møller Wolfe",
-      "pos": "M"
-     },
-     {
-      "n": "P. Daka",
-      "pos": "F"
-     },
-     {
-      "n": "A. Grønbæk",
-      "pos": "F"
-     }
-    ],
-    "163": [
-     {
-      "n": "D. Batz",
-      "pos": "G"
-     },
-     {
-      "n": "P. Sander",
-      "pos": "D"
-     },
-     {
-      "n": "K. Itakura",
-      "pos": "D"
-     },
-     {
-      "n": "F. Chiarodia",
-      "pos": "D"
-     },
-     {
-      "n": "J. Scally",
-      "pos": "M"
-     },
-     {
-      "n": "Z. Uno",
-      "pos": "M"
-     },
-     {
-      "n": "F. Neuhaus",
-      "pos": "M"
-     },
-     {
-      "n": "L. Ullrich",
-      "pos": "M"
-     },
-     {
-      "n": "R. Hack",
-      "pos": "M"
-     },
-     {
-      "n": "W. Mohya",
-      "pos": "M"
-     },
-     {
-      "n": "S. Machino",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1550196": {
    "hora": "2026-11-06T20:19:28.766633+01:00",
    "xi": [
@@ -8718,31 +8577,31 @@
    }
   },
   "1550189": {
-   "hora": "2026-11-08T19:59:38.945660+01:00",
+   "hora": "2026-11-08T20:09:59.984907+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1552818": {
-   "hora": "2026-11-08T19:59:38.945660+01:00",
+   "hora": "2026-11-08T20:09:59.984907+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570443": {
-   "hora": "2026-11-08T19:59:38.945660+01:00",
+   "hora": "2026-11-08T20:09:59.984907+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1575538": {
-   "hora": "2026-11-08T19:59:38.945660+01:00",
+   "hora": "2026-11-08T20:09:59.984907+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1575541": {
-   "hora": "2026-11-08T19:59:38.945660+01:00",
+   "hora": "2026-11-08T20:09:59.984907+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
