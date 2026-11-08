@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 11:49",
+ "actualizado": "2026-11-08 11:59",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2151,
-   "hoy": 25,
+   "seguidores": 2152,
+   "hoy": 26,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2151
+    2152
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2502,
- "total_hoy": 35,
+ "total": 2503,
+ "total_hoy": 36,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:55",
+  "hora": "13:30",
   "dia": "2026-11-08",
-  "titulo": "Combi Napoli vs Lazio"
+  "titulo": "Combi del domingo x2,50"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,7 +168,7 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2151,
+   "threads": 2152,
    "facebook": 1,
    "telegram": 316
   }
