@@ -3421,7 +3421,7 @@
   {
     "id": "2026-11-08-pick-seguro",
     "fecha": "2026-11-08T10:30",
-    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇵🇹 Vitória SC – FC Porto · 19:00\n✅ Gana el FC Porto\n\n🎯 Cuota 1,57\n💶 10€ → 15,70€\n\n📊 Pick seguro: 3 ✅ · 2 ❌ · -7 %\n\n🍀 Uno al día, sin locuras",
+    "texto": "🔒 PICK SEGURO DEL DÍA 🔒\n\n🇵🇹 Vitória SC – FC Porto · 19:00\n✅ Gana el FC Porto\n\n🎯 Cuota 1,57\n💶 10€ → 15,30€\n\n📊 Pick seguro: 3 ✅ · 2 ❌ · -7 %\n\n🍀 Uno al día, sin locuras",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3429,8 +3429,9 @@
       "1575544|Match Winner|Away"
     ],
     "cuotas": [
-      1.57
-    ]
+      1.53
+    ],
+    "cuotas_revisadas": "2026-11-08T09:35"
   },
   {
     "id": "2026-11-08-escalera",
