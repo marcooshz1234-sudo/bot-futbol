@@ -861,8 +861,32 @@ def jugador_a_90(partido, j, sustituto, campo, n, valor):
     return False if valor < n else None
 
 
+_CORRECCIONES = None
+
+
+def corregir_partido(partido):
+    """08/11 (Marcos: «el tiro de Weghorst lo han quitado»): bet365 a veces quita o da una estadística después.
+    datos/correcciones.json = [{"partido": id, "jugador": "Wout Weghorst", "campo": "a_puerta", "valor": 1}]
+    pisa ese dato del jugador para corregir picks y verdes como paga bet365."""
+    global _CORRECCIONES
+    if _CORRECCIONES is None:   # se lee una vez por ejecución
+        _CORRECCIONES = leer(DATOS / "correcciones.json", []) or []
+    corr = [c for c in _CORRECCIONES if str(c.get("partido")) == str(partido.get("id"))]
+    if not corr:
+        return partido
+    import copy
+    partido = copy.deepcopy(partido)
+    for c in corr:
+        for lista in (partido.get("jugadores") or {}).values():
+            for j in lista:
+                if mismo_jugador(c["jugador"], j.get("nombre")):
+                    j[c["campo"]] = c["valor"]
+    return partido
+
+
 def evaluar_pick(pick, partido):
     """Evalúa una selección estructurada; None significa que faltan datos, no un fallo."""
+    partido = corregir_partido(partido)
     mercado = pick.get("mercado")
     if pick.get("tipo") == "jugador" or pick.get("jugador_id") or mercado in JUG_MERCADOS:
         campo = pick.get("campo") or (JUG_MERCADOS.get(mercado) or (None,))[0]
