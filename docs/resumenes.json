@@ -1366,8 +1366,8 @@
     "cuentas": {
       "verde": 2,
       "rojo": 5,
-      "pendiente": 4,
-      "sin_datos": 3,
+      "pendiente": 5,
+      "sin_datos": 2,
       "no_jugo": 0,
       "sin_resolver": 7
     },
@@ -1375,7 +1375,7 @@
       {
         "id": "2026-11-08-ganadores-win",
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -1458,10 +1458,10 @@
       }
     ],
     "picks": {
-      "verde": 25,
+      "verde": 27,
       "rojo": 9,
       "total": 69
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 7 EN VERDE 📊\n\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · faltan datos\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❔ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16 · faltan datos\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,73 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49 · pendiente\n\n✅ 2 acertadas · ❌ 5 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 7 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · faltan datos\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❔ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16 · faltan datos\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,73 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49 · pendiente\n\n✅ 2 acertadas · ❌ 5 falladas · ⏳ 7 sin resolver"
   }
 }
