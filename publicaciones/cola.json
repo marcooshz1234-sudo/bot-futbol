@@ -3750,6 +3750,14 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-08-escalera"
+    "verde_de": "2026-11-08-escalera",
+    "enviado": "2026-11-08T16:26",
+    "mensaje_id": 363,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18107113415645698",
+      "instagram": "18111069638251500",
+      "instagram_story": "17977874603939350"
+    }
   }
 ]
