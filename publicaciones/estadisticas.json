@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08 17:54",
+ "actualizado": "2026-11-08 18:05",
  "redes": {
   "instagram": {
    "seguidores": 34,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2184,
-   "hoy": 58,
+   "seguidores": 2186,
+   "hoy": 60,
    "serie": [
     1430,
     1520,
@@ -24,7 +24,7 @@
     1906,
     2004,
     2126,
-    2184
+    2186
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2545,
- "total_hoy": 78,
+ "total": 2547,
+ "total_hoy": 80,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:00",
+  "hora": "19:45",
   "dia": "2026-11-08",
-  "titulo": "Combi Vitória Sc vs Fc Porto"
+  "titulo": "Combi Fiorentina vs Juventus"
  },
  "ayer": {
   "aciertos": 29,
@@ -168,7 +168,7 @@
   },
   "2026-11-08": {
    "instagram": 34,
-   "threads": 2184,
+   "threads": 2186,
    "facebook": 1,
    "telegram": 326
   }
