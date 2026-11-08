@@ -1366,8 +1366,8 @@
     "cuentas": {
       "verde": 2,
       "rojo": 6,
-      "pendiente": 8,
-      "sin_datos": 1,
+      "pendiente": 9,
+      "sin_datos": 0,
       "no_jugo": 0,
       "sin_resolver": 9
     },
@@ -1375,7 +1375,7 @@
       {
         "id": "2026-11-08-ganadores-win",
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -1476,10 +1476,10 @@
       }
     ],
     "picks": {
-      "verde": 33,
+      "verde": 36,
       "rojo": 10,
       "total": 80
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 8 EN VERDE 📊\n\n❔ 🏆 PARTIDOS DE HOY - GANADORES · faltan datos\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · pendiente\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,73 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 6,23 · pendiente\n⏳ 🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸 · 4,70 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 4,96 · pendiente\n\n✅ 2 acertadas · ❌ 6 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 8 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57 · pendiente\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀 · pendiente\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,73 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49 · pendiente\n⏳ ✅ COMBI LOCAS | SERIE A · 6,23 · pendiente\n⏳ 🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸 · 4,70 · pendiente\n⏳ ✅ COMBI LOCAS | PRIMEIRA LIGA · 4,96 · pendiente\n\n✅ 2 acertadas · ❌ 6 falladas · ⏳ 9 sin resolver"
   }
 }
