@@ -6972,13 +6972,148 @@
    }
   },
   "1575219": {
-   "hora": "2026-11-08T14:55:41.394777+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-08T15:06:45.654605+01:00",
+   "xi": [
+    "M. Schwäbe",
+    "J. Schmied",
+    "Jahmai Simpson-Pusey",
+    "T. Krauß",
+    "S. Sebulonsen",
+    "L. Maina",
+    "Paul Michael Junior Okon-Engstler",
+    "M. Moore",
+    "B. Sosa",
+    "M. Bülter",
+    "S. El Mala",
+    "M. Flekken",
+    "J. Quansah",
+    "E. Tapsoba",
+    "F. Medina",
+    "Miguel Gutiérrez",
+    "E. Fernández",
+    "Aleix García",
+    "Afonso Moreira",
+    "M. Tillman",
+    "I. Maza",
+    "P. Schick"
+   ],
+   "banquillo": [
+    "A. Castro-Montes",
+    "Reigan Heskey",
+    "Í. Bergmann Jóhannesson",
+    "L. Lochoshvili",
+    "G. Mensah",
+    "J. Thielmann",
+    "L. Waldschmidt",
+    "R. Zieler",
+    "M. El Mala",
+    "J. Hofmann",
+    "T. Oermann",
+    "Lucas Vázquez",
+    "M. Culbreath",
+    "V. Boniface",
+    "J. Blaswich",
+    "E. Ben Seghir",
+    "L. Badé",
+    "R. Andrich"
+   ],
+   "equipos": {
+    "192": [
+     {
+      "n": "M. Schwäbe",
+      "pos": "G"
+     },
+     {
+      "n": "J. Schmied",
+      "pos": "D"
+     },
+     {
+      "n": "Jahmai Simpson-Pusey",
+      "pos": "D"
+     },
+     {
+      "n": "T. Krauß",
+      "pos": "D"
+     },
+     {
+      "n": "S. Sebulonsen",
+      "pos": "M"
+     },
+     {
+      "n": "L. Maina",
+      "pos": "M"
+     },
+     {
+      "n": "Paul Michael Junior Okon-Engstler",
+      "pos": "M"
+     },
+     {
+      "n": "M. Moore",
+      "pos": "M"
+     },
+     {
+      "n": "B. Sosa",
+      "pos": "M"
+     },
+     {
+      "n": "M. Bülter",
+      "pos": "F"
+     },
+     {
+      "n": "S. El Mala",
+      "pos": "F"
+     }
+    ],
+    "168": [
+     {
+      "n": "M. Flekken",
+      "pos": "G"
+     },
+     {
+      "n": "J. Quansah",
+      "pos": "D"
+     },
+     {
+      "n": "E. Tapsoba",
+      "pos": "D"
+     },
+     {
+      "n": "F. Medina",
+      "pos": "D"
+     },
+     {
+      "n": "Miguel Gutiérrez",
+      "pos": "D"
+     },
+     {
+      "n": "E. Fernández",
+      "pos": "M"
+     },
+     {
+      "n": "Aleix García",
+      "pos": "M"
+     },
+     {
+      "n": "Afonso Moreira",
+      "pos": "M"
+     },
+     {
+      "n": "M. Tillman",
+      "pos": "M"
+     },
+     {
+      "n": "I. Maza",
+      "pos": "M"
+     },
+     {
+      "n": "P. Schick",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575537": {
-   "hora": "2026-11-08T14:55:41.394777+01:00",
+   "hora": "2026-11-08T15:06:45.654605+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
