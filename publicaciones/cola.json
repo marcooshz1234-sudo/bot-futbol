@@ -3702,5 +3702,34 @@
       "instagram": "17920106412531532",
       "instagram_story": "17933978886167900"
     }
+  },
+  {
+    "id": "2026-11-08-combi-partido-1557466-marcos",
+    "fecha": "2026-11-08T14:20",
+    "texto": "✅ COMBI LOCAS | PREMIER\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 SUNDERLAND vs CHELSEA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n🎯 GANA EL CHELSEA\n✅ PEDRO NETO (CHELSEA): 2+ TIROS\n✅ MORGAN ROGERS (CHELSEA): 1+ TIRO\n✅ COLE PALMER (CHELSEA): 1+ TIRO A PUERTA\n✅ MÁS DE 1,5 GOLES\n✅ CHELSEA 2+ CÓRNERS EN LA 2ª PARTE\n✅ CHELSEA 4+ CÓRNERS\n✅ TRAI HUME (SUNDERLAND) COMETE 1+ FALTAS\n✅ MOISÉS CAICEDO (CHELSEA) COMETE 1+ FALTAS\n\n💥 Cuota total: 10,00\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557466|Match Winner|Away",
+      "1557466|Away Player Shots|Pedro Neto - 2",
+      "1557466|Away Player Shots|Morgan Rogers - 1",
+      "1557466|Away Player Shots On Target Total|Cole Palmer - 1",
+      "1557466|Goals Over/Under|Over 1.5",
+      "1557466|Away Corners Over/Under|Over 3.5",
+      "1557466|Player Fouls Committed|Trai Hume - 1",
+      "1557466|Player Fouls Committed|Moises Caicedo - 1"
+    ],
+    "cuota": 10.0,
+    "tarjeta": {
+      "local": "Sunderland",
+      "visitante": "Chelsea",
+      "id_l": 746,
+      "id_v": 49,
+      "logo_l": "https://media.api-sports.io/football/teams/746.png",
+      "logo_v": "https://media.api-sports.io/football/teams/49.png",
+      "fecha": "2026-11-08T15:00",
+      "liga": "Premier League"
+    }
   }
 ]
