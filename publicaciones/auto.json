@@ -3513,7 +3513,7 @@
   {
     "id": "2026-11-08-combi-tres",
     "fecha": "2026-11-08T13:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,44! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Sunderland–Chelsea\n🇳🇱 AZ Alkmaar gana alguna de las dos partes\n🇮🇹 Más de 1,5 goles en Fiorentina–Juventus\n🇵🇹 Gana el Benfica\n\n🎯 CUOTA 2,44 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en Sunderland–Chelsea\n🇳🇱 AZ Alkmaar gana alguna de las dos partes\n🇮🇹 Más de 1,5 goles en Fiorentina–Juventus\n🇵🇹 Gana el Benfica\n\n🎯 CUOTA 2,38 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3527,9 +3527,9 @@
       1.25,
       1.25,
       1.25,
-      1.25
+      1.22
     ],
-    "cuotas_revisadas": "2026-11-08T12:02"
+    "cuotas_revisadas": "2026-11-08T12:35"
   },
   {
     "id": "2026-11-08-combi-partido-1552222",
@@ -3566,7 +3566,7 @@
   {
     "id": "2026-11-08-combi-partido-1550190",
     "fecha": "2026-11-08T14:00",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs AC MILAN 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.28]\n✅ GENOA MARCA [x1.57]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ AC MILAN HACE MÁS TIROS A PUERTA [x1.57]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 3,62\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs AC MILAN 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.28]\n✅ GENOA MARCA [x1.57]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ AC MILAN HACE MÁS TIROS A PUERTA [x1.50]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 3,46\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3580,7 +3580,7 @@
       1.28,
       1.57,
       1.32,
-      1.57
+      1.5
     ],
     "tarjeta": {
       "local": "Genoa",
@@ -3591,7 +3591,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/489.png",
       "fecha": "2026-11-08T15:00",
       "liga": "Serie A"
-    }
+    },
+    "cuotas_revisadas": "2026-11-08T12:35"
   },
   {
     "id": "2026-11-08-combi-multi",
