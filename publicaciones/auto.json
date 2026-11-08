@@ -3532,52 +3532,18 @@
     "cuotas_revisadas": "2026-11-08T12:35"
   },
   {
-    "id": "2026-11-08-combi-partido-1552222",
-    "fecha": "2026-11-08T13:55",
-    "texto": "✅ COMBI LOCAS | EREDIVISIE\n🇳🇱 TWENTE vs AJAX 🇳🇱\n\n🎯 WOUT WEGHORST: 1+ TIROS A PUERTA [x1.22]\n✅ JORTHY MOKIO: 1+ TIROS [x1.40]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x1.67]\n\n🔥 Resultado probable: 2-1 | 1-1 | 3-1\n💥 Cuota total aprox.: 3,75\n🟢 VERDE A VERDE 🟢",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552222|Home Player Shots On Target Total|Wout Weghorst - 1",
-      "1552222|Away Player Shots|Jorthy Mokio - 1",
-      "1552222|Both Teams Cards|Yes",
-      "1552222|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.22,
-      1.4,
-      1.32,
-      1.67
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Twente",
-      "visitante": "Ajax",
-      "id_l": 415,
-      "id_v": 194,
-      "logo_l": "https://media.api-sports.io/football/teams/415.png",
-      "logo_v": "https://media.api-sports.io/football/teams/194.png",
-      "fecha": "2026-11-08T14:30",
-      "liga": "Eredivisie"
-    },
-    "cuotas_revisadas": "2026-11-08T12:29"
-  },
-  {
     "id": "2026-11-08-combi-partido-1550190",
     "fecha": "2026-11-08T14:00",
-    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs AC MILAN 🇮🇹\n\n🎯 GOL EN LA 2ª PARTE [x1.28]\n✅ GENOA MARCA [x1.57]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ AC MILAN HACE MÁS TIROS A PUERTA [x1.50]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 3,46\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | SERIE A\n🇮🇹 GENOA vs AC MILAN 🇮🇹\n\n🎯 GENOA MARCA [x1.57]\n✅ AMBOS VEN TARJETA [x1.32]\n✅ AC MILAN HACE MÁS TIROS A PUERTA [x1.50]\n\n🔥 Resultado probable: 1-1 | 1-2 | 2-1\n💥 Cuota total aprox.: 3,01\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550190|Goals Over/Under - Second Half|Over 0.5",
       "1550190|Total - Home|Over 0.5",
       "1550190|Both Teams Cards|Yes",
       "1550190|ShotOnTarget 1x2|Away"
     ],
     "cuotas": [
-      1.28,
       1.57,
       1.32,
       1.5
@@ -3591,68 +3557,66 @@
       "logo_v": "https://media.api-sports.io/football/teams/489.png",
       "fecha": "2026-11-08T15:00",
       "liga": "Serie A"
-    },
-    "cuotas_revisadas": "2026-11-08T12:35"
+    }
   },
   {
     "id": "2026-11-08-combi-multi",
     "fecha": "2026-11-08T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x19,61! 🍀\n\n🇩🇪 Said El Mala (1. FC Köln): 3+ tiros\n🇫🇷 Pathe Mboup (Stade Brestois 29): 2+ tiros\n🇫🇷 Le Mans marca\n🇩🇪 Gana el SC Freiburg\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United hace más tiros\n🇪🇸 Sporting Gijon o empate\n🇵🇹 Gana el FC Porto\n🇵🇹 Rio Ave marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀\n\n🇩🇪 Said El Mala (1. FC Köln): 3+ tiros\n🇫🇷 Le Mans marca\n🇩🇪 Gana el SC Freiburg\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United hace más tiros\n🇵🇹 Gana el FC Porto\n🇳🇱 Utrecht o empate\n🇵🇹 Estrela marca\n🇵🇹 Rio Ave marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575219|Home Player Shots|Said El Mala - 3",
-      "1552812|Home Player Shots|Pathe Mboup - 2",
       "1552814|Total - Home|Over 0.5",
       "1575216|Match Winner|Home",
       "1557464|Shots.1x2|Home",
-      "1570008|Double Chance|Home/Draw",
       "1575544|Match Winner|Away",
+      "1552223|Double Chance|Home/Draw",
+      "1575538|Total - Home|Over 0.5",
       "1575541|Total - Home|Over 0.5"
     ],
     "cuotas": [
       1.44,
-      1.3,
       1.5,
       1.48,
       1.4,
-      1.36,
       1.53,
+      1.4,
+      1.73,
       1.62
-    ],
-    "cuotas_revisadas": "2026-11-08T13:02"
+    ]
   },
   {
     "id": "2026-11-08-combi-loca",
     "fecha": "2026-11-08T16:00",
-    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,26! 🤪\n\n🇫🇷 Pathe Mboup (Stade Brestois 29): 2+ tiros\n🇪🇸 Las Palmas hace 8+ tiros\n🇪🇸 Gol en la 2ª parte del Sporting Gijon–Valladolid\n🇵🇹 Gana el FC Porto\n🇳🇱 Utrecht hace 8+ tiros\n🇪🇸 Lamine Yamal (Barcelona): 3+ tiros\n🇵🇹 Gana el Benfica\n\n🎯 CUOTA 7,26 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,32! 🤪\n\n🇫🇷 Pathe Mboup (Stade Brestois 29): 2+ tiros\n🇩🇪 SC Freiburg gana alguna de las dos partes\n🇪🇸 Gol en la 2ª parte del Sporting Gijon–Valladolid\n🇵🇹 Gana el FC Porto\n🇮🇹 Fiorentina marca\n🇫🇷 Lens hace más tiros\n🇪🇸 Lamine Yamal (Barcelona): 3+ tiros\n\n🎯 CUOTA 7,32 💎\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1552812|Home Player Shots|Pathe Mboup - 2",
-      "1570011|Shots. Home Total|Over 7.5",
+      "1575216|To Win Either Half|Home",
       "1570008|Goals Over/Under - Second Half|Over 0.5",
       "1575544|Match Winner|Away",
-      "1552223|Shots. Home Total|Over 7.5",
-      "1570443|Away Player Shots|Lamine Yamal - 3",
-      "1575538|Match Winner|Away"
+      "1550189|Total - Home|Over 0.5",
+      "1552818|Shots.1x2|Home",
+      "1570443|Away Player Shots|Lamine Yamal - 3"
     ],
     "cuotas": [
-      1.4,
-      1.28,
-      1.28,
-      1.57,
-      1.24,
       1.3,
-      1.25
+      1.25,
+      1.28,
+      1.53,
+      1.33,
+      1.33,
+      1.3
     ]
   },
   {
     "id": "2026-11-08-estrella-1557464",
     "fecha": "2026-11-08T16:55",
-    "texto": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⭐ PARTIDO ESTRELLA · 17:30 ⭐\n\n✅1. Johan Manzambi: 2+ tiros\n✅2. Emiliano Buendia comete 1+ faltas\n✅3. Bryan Mbeumo: 1+ tiros a puerta\n✅4. Más de 1,5 goles en la 2ª parte\n\n🎯 Cuota: 4,62\n💶 10€ → 46,20€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⭐ PARTIDO ESTRELLA · 17:30 ⭐\n\n✅1. Johan Manzambi: 2+ tiros\n✅2. Emiliano Buendia comete 1+ faltas\n✅3. Bryan Mbeumo: 1+ tiros a puerta\n✅4. Más de 1,5 goles en la 2ª parte\n\n🎯 Cuota: 4,16\n💶 10€ → 41,60€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3665,8 +3629,8 @@
     "cuotas": [
       1.4,
       1.25,
-      1.5,
-      1.73
+      1.4,
+      1.67
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -3713,19 +3677,19 @@
   {
     "id": "2026-11-08-combi-partido-1575544",
     "fecha": "2026-11-08T18:00",
-    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 VITÓRIA SC vs FC PORTO 🇵🇹\n\n🎯 VITÓRIA SC HACE 8+ TIROS [x1.18]\n✅ AMBOS VEN TARJETA [x1.18]\n✅ VITÓRIA SC HACE 3+ CÓRNERS [x1.35]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x2.10]\n\n🔥 Resultado probable: 1-1 | 0-1 | 1-2\n💥 Cuota total aprox.: 3,94\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | PRIMEIRA LIGA\n🇵🇹 VITÓRIA SC vs FC PORTO 🇵🇹\n\n🎯 VITÓRIA SC HACE 8+ TIROS [x1.18]\n✅ GANA EL FC PORTO [x1.53]\n✅ VITÓRIA SC HACE 3+ CÓRNERS [x1.35]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x2.10]\n\n🔥 Resultado probable: 0-1 | 1-2 | 0-2\n💥 Cuota total aprox.: 3,56\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575544|Shots. Home Total|Over 7.5",
-      "1575544|Both Teams Cards|Yes",
+      "1575544|Match Winner|Away",
       "1575544|Home Corners Over/Under|Over 2.5",
       "1575544|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.18,
-      1.18,
+      1.53,
       1.35,
       2.1
     ],
