@@ -336,23 +336,44 @@ def responder_threads(token):
 COMENTARIOS = RAIZ / "datos" / "comentarios_threads.json"
 CADA_COMENTARIOS = timedelta(minutes=15)
 SUGERENCIAS = [   # 30/10 (Marcos): respuestas cortas, en plan chaval, sin tildes
-    # 09/11 (Marcos): con la voz de los tipsters grandes («familia», «señores»), y los fallos se reconocen sin excusas
+    # 09/11 (Marcos): a una persona se le habla a ella («tio», «crack»), nada de «familia»; y con lo que ha pasado de
+    # verdad en ESE post (ver sugerir)
     (("roja", "rojo", "perd", "fall", "falt", "casi", "por poco", "joder", "pena", "palo", "mierda", "que mal"),
-     ["Hoy no salio familia, aqui se marcan tambien los fallos. Mañana volvemos 💪",
-      "Toca levantarse señores, a por la siguiente 🍀", "Nos dolio a todos tio, mañana la sacamos 💪"]),
+     ["Si tio, esta no entro 😩 Mañana la sacamos 💪", "Nos dolio a todos crack 💔 A por la siguiente"]),
     (("?", "recomiend", "meto", "meterias", "sale ", "crees", "que opinas", "vale la pena", "entro", "stake"),
-     ["Yo voy con ella tio 🍀", "Stake pequeño y a disfrutar familia 🧠", "Esa yo no la tocaria 🙅‍♂️"]),
+     ["Yo voy con ella tio 🍀", "Stake pequeño y a disfrutar crack 🧠", "Esa yo no la tocaria 🙅‍♂️"]),
     (("verde", "gan", "dentro", "crack", "maquina", "gracias", "grande", "bien", "toma", "cobr", "vamos"),
-     ["Para dentro señores 🤑", "A por la siguiente familia 💚", "Asi se hace crack 🔥"]),
+     ["Para dentro tio 🤑", "A por la siguiente crack 💚", "Asi se hace 🔥"]),
 ]
-GENERICAS = ["Vamos familia 💪", "Gracias crack 💚", "🔥🔥"]
+GENERICAS = ["Vamos tio 💪", "Gracias crack 💚", "🔥🔥"]
 
 
-def sugerir(texto):
+def sugerir(texto, post=None):
+    """Respuestas sugeridas a un comentario. post: el nuestro (id, estado, picks con marcador) para hablar de lo que
+    ha pasado de verdad: «Si tio, el Sabadell se quedo en 0-0 😩 Mañana empezamos otra escalera desde 20€ 💪»."""
     t = (texto or "").lower()
+    estado = (post or {}).get("estado")
+    picks = (post or {}).get("picks") or []
+    fallo = next((x for x in picks if x.get("estado") == "rojo"), None)
+    marcador, quien = "", ""
+    if fallo and isinstance(fallo.get("marcador"), list) and len(fallo["marcador"]) == 2:
+        marcador = f"{fallo['marcador'][0]}-{fallo['marcador'][1]}"
+        m = re.match(r"Gana (?:el |la |los )?(.+)$", fallo.get("texto", ""))
+        quien = m.group(1) if m else ""
+    escalera = "escalera" in (post or {}).get("id", "")
     for claves, frases in SUGERENCIAS:
-        if any(k in t for k in claves):
-            return frases
+        if not any(k in t for k in claves):
+            continue
+        if claves is SUGERENCIAS[0][0] and estado == "rojo":
+            base = (f"Si tio, el {quien} no paso del {marcador} 😩" if quien and marcador else
+                    f"Si tio, acabo {marcador} y no entro 😩" if marcador else "Si tio, esta no entro 😩")
+            return [base + (" Mañana empezamos otra escalera desde 20€ 💪" if escalera else " Mañana la sacamos 💪"),
+                    "Nos dolio a todos crack 💔 A por la siguiente"]
+        if claves is SUGERENCIAS[0][0] and estado == "verde":
+            return ["Esta entro tio, mira bien 😅✅", "Verde crack, para dentro 🤑"]
+        if claves is SUGERENCIAS[2][0] and estado == "rojo":
+            return ["Esta no entro tio 😩 Mañana la sacamos", "A por la siguiente crack 💪"]
+        return frases
     return GENERICAS
 
 
@@ -365,6 +386,11 @@ def leer_comentarios(token, posts, ahora):
         return
     marca.write_text(ahora.isoformat())
     ya = {c["id"] for c in lista}
+    try:   # 09/11: cómo acabó cada post (para responder con lo que pasó de verdad)
+        estados = {x["id"]: x for x in (json.loads((RAIZ / "docs" / "datos.json").read_text(encoding="utf-8"))
+                                        .get("publicados_hoy") or [])}
+    except Exception:
+        estados = {}
     desde = (ahora - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M")
     nuevos = 0
     for p in posts:
@@ -382,7 +408,7 @@ def leer_comentarios(token, posts, ahora):
             if x["id"] in ya or (x.get("username") or "").lower() == "combilocas" or not x.get("text"):
                 continue
             lista.append({"id": x["id"], "post_id": tid, "post": post, "usuario": x.get("username"), "texto": x["text"][:400],
-                          "fecha": (x.get("timestamp") or "")[:16], "sugerencias": sugerir(x["text"])})
+                          "fecha": (x.get("timestamp") or "")[:16], "sugerencias": sugerir(x["text"], estados.get(p["id"]))})
             nuevos += 1
     COMENTARIOS.write_text(json.dumps(lista[-300:], ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     if nuevos:
