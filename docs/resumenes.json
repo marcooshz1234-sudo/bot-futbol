@@ -1488,8 +1488,8 @@
     "cuentas": {
       "verde": 1,
       "rojo": 0,
-      "pendiente": 5,
-      "sin_datos": 0,
+      "pendiente": 1,
+      "sin_datos": 4,
       "no_jugo": 0,
       "sin_resolver": 5
     },
@@ -1497,19 +1497,19 @@
       {
         "id": "2026-11-09-escalera",
         "titulo": "🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 1.73
       },
       {
         "id": "2026-11-09-combi-tres",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 2.73
       },
       {
         "id": "2026-11-09-combi-loca",
         "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 6.58
       },
       {
@@ -1521,7 +1521,7 @@
       {
         "id": "2026-11-09-combi-partido-1570013",
         "titulo": "✅ COMBI LOCAS | SEGUNDA",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 4.12
       },
       {
@@ -1532,10 +1532,10 @@
       }
     ],
     "picks": {
-      "verde": 8,
+      "verde": 7,
       "rojo": 0,
       "total": 16
     },
-    "texto": "📊 BALANCE DEL LUNES: 1 DE 1 EN VERDE 📊\n\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58 · pendiente\n✅ ✅ COMBI LOCAS | LIGA I · 3,79\n⏳ ✅ COMBI LOCAS | SEGUNDA · 4,12 · pendiente\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,83 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 1 DE 1 EN VERDE 📊\n\n❔ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · faltan datos\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58 · faltan datos\n✅ ✅ COMBI LOCAS | LIGA I · 3,79\n❔ ✅ COMBI LOCAS | SEGUNDA · 4,12 · faltan datos\n⏳ ✅ COMBI LOCAS | SEGUNDA · 3,83 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
