@@ -151,6 +151,11 @@ def pool_bet365(ex):
         if m in ("Goals Over/Under", "Total - Home", "Total - Away"):
             grupos = {}
             for o, c in ops:
+                try:   # 09/11: «Valencia marca 7 o más» a 1,57 (Copa): líneas raras de API-Football; de equipo, hasta 3,5
+                    if m != "Goals Over/Under" and float(o.split()[-1]) > 3.5:
+                        continue
+                except ValueError:
+                    pass
                 grupos.setdefault(o.split()[-1], []).append((o, c))
         elif m == "Double Chance":
             grupos = {o: [(o, c)] for o, c in ops}
@@ -1043,6 +1048,8 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         salida = res["partidos"]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
     res["seguro"] = pick_seguro(pools, dia)
+    if dia >= SEGURO_DESDE:
+        res["seguro2"] = pick_seguro(pools, dia, segundo=res["seguro"][0] if res["seguro"] else None)
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     # 27/10 (norma de Marcos): una misma selección en 2 posts como mucho (combis de partido, escalera, x3, loca)
     from collections import Counter
@@ -1286,14 +1293,26 @@ def estrellas(pools, ya, dia):
 
 
 SEGURO = {"cuota": (1.50, 2.00), "familias": ("resultado", "goles", "jugador"), "hora": (10, 30), "prob_min": 0.62}
+# 09/11 (Marcos): desde el 10/11 en Telegram solo «las medio seguras»: 1-2 picks de 1,50-1,70 al día (con razones y
+# stake), la escalera y una combi guapa. El 2º pick seguro sale a las 18:00 (2ª mejor hora en Metricool), de otro partido.
+SEGURO_DESDE = "2026-11-10"
+SEGURO_NUEVO = {"cuota": (1.50, 1.70), "hora2": (18, 0)}
 
 
-def pick_seguro(pools, dia):
+def pick_seguro(pools, dia, segundo=False):
     """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
-    jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo."""
-    hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=SEGURO["hora"][0], minute=SEGURO["hora"][1])
+    jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo.
+    09/11: desde SEGURO_DESDE, cuota 1,50-1,70; segundo=<el 1º> (o None si no hubo) → otro de las 18:00."""
+    hh, mm = SEGURO["hora"]
+    lo, hi = SEGURO["cuota"]
+    if dia >= SEGURO_DESDE:
+        lo, hi = SEGURO_NUEVO["cuota"]
+        if segundo is not False:
+            hh, mm = SEGURO_NUEVO["hora2"]
+    hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
+    otro = segundo["partido_id"] if segundo else None
     cand = [p for pool in pools for p in pool
-            if SEGURO["cuota"][0] <= p["cuota"] <= SEGURO["cuota"][1] and familia(p).split("-")[0] in SEGURO["familias"]
+            if lo <= p["cuota"] <= hi and p["partido_id"] != otro and familia(p).split("-")[0] in SEGURO["familias"]
             and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada") and fijisimo(p)
             and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     if not cand:

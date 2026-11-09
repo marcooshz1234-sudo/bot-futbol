@@ -250,7 +250,7 @@ def balance_seguro():
     gan = 0.0
     for dia in res.values():
         for c in dia.get("combis") or []:
-            if c.get("id", "").endswith("-pick-seguro") and c.get("cuota") and c.get("estado") in ("verde", "rojo"):
+            if re.search(r"-pick-seguro(-2)?$", c.get("id", "")) and c.get("cuota") and c.get("estado") in ("verde", "rojo"):
                 if c["estado"] == "verde":
                     v += 1
                     gan += 10 * (c["cuota"] - 1)
@@ -260,10 +260,36 @@ def balance_seguro():
     return v, r, gan
 
 
-def texto_seguro(p):
-    """01/11 (Marcos): un solo pick, el más seguro del día, con su balance acumulado."""
+def stake(p):
+    """09/11: stake sobre 10 según lo probable que lo vemos (nunca «metedle 200 €»)."""
+    pr = p.get("prob_aprendida") or 0
+    return 4 if pr >= 0.74 else 3 if pr >= 0.66 else 2
+
+
+def texto_seguro(p, dia=""):
+    """01/11 (Marcos): un solo pick, el más seguro del día, con su balance acumulado.
+    09/11: desde SEGURO_DESDE, con 2-3 razones reales y stake (como los tipsters grandes), sin «10€ → X€»."""
     band = BANDERA.get(p.get("competicion"), "⚽")
     v, r, gan = balance_seguro()
+    import combis_dia as _c
+    if dia and dia >= _c.SEGURO_DESDE:
+        try:
+            import razones as R
+            from picks import historial
+            motivos = R.razones(p, historial())
+        except Exception as e:
+            print("razones:", str(e)[:120])
+            motivos = []
+        lineas = ["🔒 PICK DEL DÍA 🔒", "",
+                  f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}", "",
+                  f"✅ {con_equipo(p)}", f"🎯 Cuota {num(p['cuota'])} · Stake {stake(p)}/10"]
+        if motivos:
+            lineas += ["", "👨‍💻 Por qué:"] + [f"• {m}" for m in motivos]
+        if v + r:
+            roi = 100 * gan / (10 * (v + r))
+            lineas += ["", f"📊 Historial: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
+        lineas += ["", "🔞 Juega con cabeza: nunca más de lo que puedas perder"]
+        return "\n".join(lineas)
     lineas = ["🔒 PICK SEGURO DEL DÍA 🔒", "",
               f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}",
               f"✅ {con_equipo(p)}", "",
@@ -430,7 +456,11 @@ def posts_del_dia(dia, d):
             apuntar(cp["picks"])
         if cd.get("seguro"):   # 01/11 (Marcos): pick seguro del día (historial para el VIP)
             ps, hs = cd["seguro"]
-            posts.append(("pick-seguro", hs, [ps], texto_seguro(ps)))
+            posts.append(("pick-seguro", hs, [ps], texto_seguro(ps, dia)))
+            apuntar([ps])
+        if cd.get("seguro2"):   # 09/11: el 2º de las 18:00
+            ps, hs = cd["seguro2"]
+            posts.append(("pick-seguro-2", hs, [ps], texto_seguro(ps, dia)))
             apuntar([ps])
         for i, (hora, sel) in enumerate(cd.get("listas_europa") or [], 1):   # 02/11 (Marcos): mucho contenido de Champions
             texto_l, sel = texto_lista_europa(sel, i, len(cd["listas_europa"]))   # sel recortado igual que el texto
@@ -651,6 +681,20 @@ def posts_del_dia(dia, d):
             salida[-1]["tarjeta"] = tarjeta
         if tipo in tarjetas and tarjetas[tipo]:
             salida[-1]["tarjeta"] = tarjetas[tipo]
+    # 09/11 (Marcos): desde el 10/11, en Telegram solo los picks del día (1-2), la escalera y UNA combi guapa
+    # (la del partido grande con escudos); lo demás sigue en Threads e Instagram
+    import combis_dia as _c2
+    if dia >= _c2.SEGURO_DESDE:
+        def peso(p):
+            t = p["id"][11:]
+            return (0 if t.startswith("estrella") else 1 if t.startswith("combi-partido") and p.get("tarjeta") else 2,
+                    p["fecha"])
+        combis = sorted([p for p in salida if re.match(r"(estrella|combi-partido|combi-tres|combi-loca)", p["id"][11:])],
+                        key=peso)
+        en_tg = {f"{dia}-escalera", f"{dia}-pick-seguro", f"{dia}-pick-seguro-2"} | ({combis[0]["id"]} if combis else set())
+        for p in salida:
+            if p["id"] not in en_tg:
+                p["solo_redes"] = True
     # 05/11 (Marcos): «GANADORES» con escudos cada día, solo en Threads (ganadores_win.py)
     try:
         import ganadores_win
