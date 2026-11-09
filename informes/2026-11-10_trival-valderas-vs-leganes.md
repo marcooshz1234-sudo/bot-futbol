@@ -1,16 +1,16 @@
 # Trival Valderas – Leganes
 **Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 08:32_
+_Actualizadas: 09/11 19:59_
 
-- **1X2:** 1 **17.00**  ·  X **8.00**  ·  2 **1.14**
-- **Doble oportunidad:** 1X **5.50**  ·  12 **1.10**  ·  X2 **1.02**
-- **Ambos marcan:** Sí **2.50**  ·  No **1.50**
+- **1X2:** 1 **23.00**  ·  X **8.50**  ·  2 **1.12**
+- **Doble oportunidad:** 1X **6.00**  ·  12 **1.08**  ·  X2 **1.01**
+- **Ambos marcan:** Sí **3.00**  ·  No **1.36**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.53** · menos **2.40**
     - 3,5: más **2.25** · menos **1.57**
     - 4,5: más **4.00** · menos **1.22**
@@ -25,24 +25,24 @@ _Actualizadas: 09/11 08:32_
     - 1,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **1.91**
-    - 3,5: más **3.00** · menos **1.36**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
-- **1X2 descanso:** 1 **15.00**  ·  X **3.00**  ·  2 **1.44**
+- **1X2 descanso:** 1 **19.00**  ·  X **3.10**  ·  2 **1.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **6.50**  ·  No **1.11**
-- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
 - **To Win Either Half:** 1 **7.00**  ·  2 **1.08**
 - **To Score In Both Halves By Teams:** 1 **17.00**  ·  2 **1.67**
 - **Win Both Halves:** 1 **101.00**  ·  2 **2.10**
-- **Results/Both Teams Score:** Home/Yes **34.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **3.25**  ·  Home/No **26.00**  ·  Draw/No **15.00**  ·  Away/No **1.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **2.75**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **2.75**
+- **Results/Both Teams Score:** Home/Yes **41.00**  ·  Draw/Yes **11.00**  ·  Away/Yes **3.60**  ·  Home/No **29.00**  ·  Draw/No **15.00**  ·  Away/No **1.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.40**  ·  o/no 2.5 **2.50**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Trival Valderas (total) | Trival Valderas en casa | Leganes (total) | Leganes fuera |

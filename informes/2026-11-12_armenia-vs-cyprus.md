@@ -1,10 +1,10 @@
 # Armenia – Cyprus
 **Nations League** · League C - 5 · 12/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 19:59_
 
 - **1X2:** 1 **2.15**  ·  X **3.40**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.67**
@@ -21,8 +21,7 @@ _Actualizadas: 08/11 23:29_
 - **Goles del local:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **4.50** · menos **1.17**
-    - 3,5: más **9.00** · menos **1.04**
+    - 2,5: más **5.00** · menos **1.14**
 - **Goles del visitante:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
@@ -30,7 +29,7 @@ _Actualizadas: 08/11 23:29_
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.62**
-- **1X2 descanso:** 1 **2.75**  ·  X **2.10**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.20** · menos **1.62**
@@ -40,14 +39,15 @@ _Actualizadas: 08/11 23:29_
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.10**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
-- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **9.50**  ·  Away/No **5.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.50**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
+- **Anytime Goal Scorer:** Styopa Mkrtchyan **13.00**  ·  Charalambos Kyriakou **13.00**  ·  Nicholas Tsaroulla **9.00**  ·  Hector Kyprianou **10.00**  ·  Artur Miranyan **3.10**  ·  Grant-Leon Ranos **2.75**  ·  Zhiaryr Shaghoyan **5.00**  ·  Edgar Sevikyan **5.00**  ·  Gor Manvelyan **4.33**  ·  Nayair Tiknizyan **12.00**  ·  Artur Serobyan **4.33**  ·  Hovhannes Harutyunyan **6.00**  ·  Uguchukwu Iwu **10.00**  ·  Edgar Grigoryan **17.00**  ·  Georgy Arutyunyan **13.00**  ·  Andronikos Kakoullis **4.33**  ·  Ioannis Pittas **3.60**  ·  Grigoris Kastanos **6.00**  ·  Loizos Loizou **6.00**  ·  Marinos Tzionis **7.00**  ·  Charalampos Charalampous **8.50**  ·  Konstantinos Laifis **10.00**  ·  Kostakis Artymatas **13.00**  ·  Kostas Pileas **10.00**  ·  Nikolas Panayiotou **17.00**  ·  Leonidas Konomis **13.00**  ·  Karen Nalbandyan **4.33**  ·  Stavros Georgiou **5.00**  ·  Erik Piloyan **12.00**  ·  Ioannis Kosti **7.00**  ·  Marcus Edwards **5.00**  ·  Karlen Hovhannisyan **7.50**  ·  Narek Hovhannisyan **3.75**  ·  Angelos Neofytou **4.33**  ·  Argishti Petrosyan **12.00**  ·  Khariton Ayvazyan **12.00**  ·  Artur Gharibyan **3.25**  ·  Artyom Bandikyan **12.00**  ·  Arman Ghazaryan **10.00**  ·  Iasonas Pikis **3.75**  ·  Narek Grigoryan **5.00**  ·  Morgan Brown **9.00**  ·  Evagoras Antoniou **17.00**  ·  Karen Muradyan **12.00**  ·  Giorgos Malekkidis **13.00**  ·  Zanos Savva **5.00**  ·  Edgar Piloyan **9.00**
 
 ## Estadísticas de equipo
 | | Armenia (total) | Armenia en casa | Cyprus (total) | Cyprus fuera |

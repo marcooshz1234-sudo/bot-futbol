@@ -1,20 +1,20 @@
 # Deportivo de La Coruña W – Valencia W
 **Liga F** · Regular Season - 10 · 09/11/2026 21:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 13:07_
+_Actualizadas: 09/11 19:59_
 
-- **1X2:** 1 **1.62**  ·  X **3.50**  ·  2 **5.00**
-- **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.10**
-- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
+- **1X2:** 1 **1.50**  ·  X **3.75**  ·  2 **5.50**
+- **Doble oportunidad:** 1X **1.10**  ·  12 **1.20**  ·  X2 **2.30**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **8.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.05** · menos **1.75**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **6.50** · menos **1.10**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
@@ -30,19 +30,20 @@ _Actualizadas: 09/11 13:07_
 - **Córners más/menos:**
     - 8: más **1.78** · menos **2.02**
     - 8,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **2.20**  ·  X **2.20**  ·  2 **5.50**
+- **1X2 descanso:** 1 **2.00**  ·  X **2.30**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
-- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
-- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
-- **To Win Either Half:** 1 **1.40**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **8.00**
-- **Win Both Halves:** 1 **4.50**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **9.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.08**  ·  Menos de 4 **1.72**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.33**  ·  2 **3.25**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **8.00**
+- **Win Both Halves:** 1 **4.00**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **11.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.38**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.50**  ·  Menos de 4 **2.10**
 
 ## Estadísticas de equipo
 | | Deportivo de La Coruña W (total) | Deportivo de La Coruña W en casa | Valencia W (total) | Valencia W fuera |
@@ -142,20 +143,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 11% | 18% | 15% | 5.00 | -26% |
-| 1X2: X | 21% | 26% | 24% | 3.50 | -17% |
-| 1X2: 1 | 67% | 56% | 62% | 1.62 | -0% |
-| Doble oportunidad: X2 | 33% | 43% | 38% | 2.10 | -20% |
-| Doble oportunidad: 12 | 79% | 75% | 77% | 1.22 | -7% |
-| Doble oportunidad: 1X | 89% | 82% | 85% | 1.11 | -5% |
-| Ambos marcan: No | 63% | 54% | 58% | 1.73 | +0% |
-| Ambos marcan: Sí | 37% | 46% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 1.5 | 70% | 71% | 70% | 1.33 | -7% |
-| Goles más/menos: Más de 2.5 | 43% | 46% | 45% | 2.05 | -8% |
-| Goles más/menos: Más de 3.5 | 22% | 27% | 25% | 3.50 | -14% |
-| Goles más/menos: Menos de 1.5 | 30% | 29% | 30% | 3.25 | -3% |
-| Goles más/menos: Menos de 2.5 | 57% | 54% | 55% | 1.75 | -3% |
-| Goles más/menos: Menos de 3.5 | 78% | 73% | 75% | 1.28 | -4% |
+| 1X2: 2 | 11% | 16% | 14% | 5.50 | -24% |
+| 1X2: X | 21% | 24% | 23% | 3.75 | -15% |
+| 1X2: 1 | 67% | 60% | 63% | 1.50 | -5% |
+| Doble oportunidad: X2 | 33% | 40% | 36% | 2.30 | -16% |
+| Doble oportunidad: 12 | 79% | 77% | 78% | 1.20 | -7% |
+| Doble oportunidad: 1X | 89% | 84% | 86% | 1.10 | -5% |
+| Ambos marcan: No | 63% | 51% | 57% | 1.80 | +3% |
+| Ambos marcan: Sí | 37% | 49% | 43% | 1.91 | -18% |
+| Goles más/menos: Más de 1.5 | 70% | 75% | 72% | 1.25 | -10% |
+| Goles más/menos: Más de 2.5 | 43% | 51% | 47% | 1.85 | -12% |
+| Goles más/menos: Más de 3.5 | 22% | 29% | 26% | 3.25 | -16% |
+| Goles más/menos: Menos de 1.5 | 30% | 25% | 28% | 3.75 | +4% |
+| Goles más/menos: Menos de 2.5 | 57% | 49% | 53% | 1.95 | +3% |
+| Goles más/menos: Menos de 3.5 | 78% | 71% | 74% | 1.33 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
@@ -170,7 +171,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 12% | 22% | 17% | 4.33 | -27% |
 | Goles del visitante: Menos de 0.5 | 55% | 44% | 50% | 2.10 | +5% |
 | Goles del visitante: Menos de 1.5 | 88% | 78% | 83% | 1.20 | -0% |
-| 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -8% |
-| 1X2 descanso: 1 | 46% | 42% | 44% | 2.20 | -3% |
+| 1X2 descanso: X | 42% | 39% | 41% | 2.30 | -6% |
+| 1X2 descanso: 1 | 46% | 45% | 46% | 2.00 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

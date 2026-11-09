@@ -1,13 +1,13 @@
 # OH Leuven W – Køge W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Gemeentelijk Sportstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 08:32_
+_Actualizadas: 09/11 19:59_
 
 - **1X2:** 1 **4.75**  ·  X **4.33**  ·  2 **1.62**
-- **Doble oportunidad:** 1X **2.10**  ·  12 **1.18**  ·  X2 **1.17**
+- **Doble oportunidad:** 1X **2.20**  ·  12 **1.20**  ·  X2 **1.17**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
@@ -25,13 +25,13 @@ _Actualizadas: 09/11 08:32_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.12** · menos **5.50**
+    - 0,5: más **1.11** · menos **6.00**
     - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **5.50** · menos **1.12**
     - 4,5: más **9.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **2.00** · menos **1.80**
 - **Córners 1X2:** 1 **2.88**  ·  X **8.50**  ·  2 **1.53**
 - **1X2 descanso:** 1 **4.50**  ·  X **2.50**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
@@ -44,7 +44,7 @@ _Actualizadas: 09/11 08:32_
 - **To Win Either Half:** 1 **2.50**  ·  2 **1.36**
 - **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.38**
 - **Win Both Halves:** 1 **17.00**  ·  2 **4.33**
-- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **9.00**  ·  Draw/No **17.00**  ·  Away/No **3.25**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **10.00**  ·  Draw/No **15.00**  ·  Away/No **3.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
@@ -149,9 +149,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 44% | 58% | 51% | 1.62 | -18% |
 | 1X2: X | 27% | 22% | 24% | 4.33 | +5% |
 | 1X2: 1 | 30% | 20% | 25% | 4.75 | +18% |
-| Doble oportunidad: X2 | 70% | 78% | 74% | 1.17 | -13% |
-| Doble oportunidad: 12 | 73% | 78% | 76% | 1.18 | -11% |
-| Doble oportunidad: 1X | 56% | 44% | 50% | 2.10 | +5% |
+| Doble oportunidad: X2 | 70% | 80% | 75% | 1.17 | -12% |
+| Doble oportunidad: 12 | 73% | 78% | 76% | 1.20 | -9% |
+| Doble oportunidad: 1X | 56% | 42% | 49% | 2.20 | +9% |
 | Ambos marcan: No | 50% | 42% | 46% | 2.20 | +1% |
 | Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
 | Goles más/menos: Más de 1.5 | 71% | 79% | 75% | 1.17 | -12% |
@@ -176,8 +176,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 17% | 34% | 25% | 2.75 | -31% |
 | Goles del visitante: Menos de 1.5 | 59% | 41% | 50% | 2.25 | +13% |
 | Goles del visitante: Menos de 2.5 | 83% | 66% | 75% | 1.40 | +5% |
-| Córners más/menos: Más de 9.5 | 39% | 49% | 44% | 1.91 | -16% |
-| Córners más/menos: Menos de 9.5 | 61% | 51% | 56% | 1.80 | +1% |
+| Córners más/menos: Más de 9.5 | 39% | 47% | 43% | 2.00 | -13% |
+| Córners más/menos: Menos de 9.5 | 61% | 53% | 57% | 1.80 | +2% |
 | 1X2 descanso: 2 | 32% | 43% | 38% | 2.10 | -21% |
 | 1X2 descanso: X | 44% | 36% | 40% | 2.50 | +1% |
 | 1X2 descanso: 1 | 24% | 20% | 22% | 4.50 | -1% |
