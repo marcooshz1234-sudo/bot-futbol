@@ -1,7 +1,7 @@
 # FC Botosani – Oţelul
 **Liga I** · Regular Season - 15 · 09/11/2026 19:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 13:07_

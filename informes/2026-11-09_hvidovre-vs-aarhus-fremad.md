@@ -1,7 +1,7 @@
 # Hvidovre – Aarhus Fremad
 **1. Division** · Regular Season - 14 · 09/11/2026 19:00 (hora España) · Hvidovre Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 13:07_

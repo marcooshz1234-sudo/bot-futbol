@@ -1,7 +1,7 @@
 # Torreense – União de Leiria
 **Segunda Liga** · Regular Season - 10 · 09/11/2026 21:15 (hora España) · Estadio Manuel Marques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 13:07_

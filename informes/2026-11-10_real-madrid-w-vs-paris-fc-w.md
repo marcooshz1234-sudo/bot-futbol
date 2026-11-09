@@ -1,7 +1,7 @@
 # Real Madrid W – Paris FC W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 08:32_

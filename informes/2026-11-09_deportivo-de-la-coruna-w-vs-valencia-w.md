@@ -1,7 +1,7 @@
 # Deportivo de La Coruña W – Valencia W
 **Liga F** · Regular Season - 10 · 09/11/2026 21:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 14:19._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 13:07_
