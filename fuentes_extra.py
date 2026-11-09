@@ -62,6 +62,9 @@ def clubelo():
         print("ClubElo: ya está el de hoy")
         return
     b = bajar(f"http://api.clubelo.com/{hoy}")
+    if not b:   # 09/11: a medianoche de Madrid ClubElo aún no tiene el día (502) → el de ayer
+        b = bajar(f"http://api.clubelo.com/{(datetime.now(MADRID) - timedelta(days=1)).strftime('%Y-%m-%d')}")
+        hoy = None if b else hoy
     if not b:
         return
     elo = {}
