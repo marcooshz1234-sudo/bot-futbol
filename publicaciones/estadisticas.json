@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 19:09",
+ "actualizado": "2026-11-09 19:49",
  "redes": {
   "instagram": {
    "seguidores": 35,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2326,
-   "hoy": 95,
+   "seguidores": 2329,
+   "hoy": 98,
    "serie": [
     1520,
     1638,
@@ -24,7 +24,7 @@
     2004,
     2126,
     2231,
-    2326
+    2329
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2716,
- "total_hoy": 118,
+ "total": 2719,
+ "total_hoy": 121,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:30",
-  "dia": "2026-11-09",
-  "titulo": "Combi Las Palmas vs Eldense"
+  "hora": "01:00",
+  "dia": "2026-11-10",
+  "titulo": "Quién gana hoy"
  },
  "ayer": {
   "aciertos": 41,
@@ -174,7 +174,7 @@
   },
   "2026-11-09": {
    "instagram": 35,
-   "threads": 2326,
+   "threads": 2329,
    "facebook": 1,
    "telegram": 354
   }
