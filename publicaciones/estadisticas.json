@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 14:28",
+ "actualizado": "2026-11-09 15:03",
  "redes": {
   "instagram": {
    "seguidores": 35,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2292,
-   "hoy": 61,
+   "seguidores": 2294,
+   "hoy": 63,
    "serie": [
     1520,
     1638,
@@ -24,7 +24,7 @@
     2004,
     2126,
     2231,
-    2292
+    2294
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2675,
- "total_hoy": 77,
+ "total": 2677,
+ "total_hoy": 79,
  "likes_hoy": 0,
  "proximo": {
   "hora": "16:00",
   "dia": "2026-11-09",
-  "titulo": "La loca del lunes x6,42"
+  "titulo": "La loca del lunes x6,58"
  },
  "ayer": {
   "aciertos": 41,
@@ -174,7 +174,7 @@
   },
   "2026-11-09": {
    "instagram": 35,
-   "threads": 2292,
+   "threads": 2294,
    "facebook": 1,
    "telegram": 347
   }
