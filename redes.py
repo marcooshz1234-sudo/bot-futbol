@@ -382,7 +382,11 @@ def leer_comentarios(token, posts, ahora):
     No se guardan los nuestros ni los ya contestados. Cada 10 minutos como mucho."""
     lista = json.loads(COMENTARIOS.read_text(encoding="utf-8")) if COMENTARIOS.exists() else []
     marca = COMENTARIOS.with_suffix(".visto")
-    if marca.exists() and ahora - datetime.fromisoformat(marca.read_text().strip()) < CADA_COMENTARIOS:
+    try:   # 09/11: el 03/11 se quedó con marcas de conflicto de git y desde entonces no se leía ningún comentario
+        visto = datetime.fromisoformat(marca.read_text().strip()) if marca.exists() else None
+    except ValueError:
+        visto = None
+    if visto and ahora - visto < CADA_COMENTARIOS:
         return
     marca.write_text(ahora.isoformat())
     ya = {c["id"] for c in lista}

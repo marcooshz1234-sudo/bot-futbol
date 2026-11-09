@@ -5,6 +5,7 @@ Lo llama app_datos.py en cada vuelta. Sale en docs/panel/datos.json.
   cola         lo que va a salir en las próximas 48 h (texto como saldrá, imagen, si está cancelado)
   redes        lo de las últimas 30 h: en qué red ha salido cada post, qué ha fallado y si se puede reintentar
   comentarios  comentarios de Threads sin contestar (los trae redes.py) con respuestas propuestas
+  claude       09/11: los mismos, con la respuesta que propone Claude (datos/comentarios_claude.json)
   ajustes      interruptores del bot (control.json → "ajustes") con sus valores por defecto
   rendimiento  seguidores, mejores posts de la semana en Threads y qué tipo de post / hora funciona mejor
 Las acciones las manda la mini app al bot del móvil (asistente.py, panel_acciones.py). Aquí solo se lee.
@@ -14,6 +15,11 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, RAIZ, leer
+
+
+def id_threads(p):
+    t = (p.get("redes") or {}).get("threads")
+    return t if isinstance(t, str) and t.isdigit() else None
 from incidencias import identificador, motivo_bloqueo, publicaciones
 
 SALIDA = RAIZ / "docs" / "panel" / "datos.json"
@@ -106,6 +112,32 @@ def main():
                       "titulo": titulo(textos.get(p["id"], p["texto"])), "redes": estado})
 
     com = [c for c in (leer(DATOS / "comentarios_threads.json", []) or []) if not c.get("hecho")]
+    # 09/11 (Marcos): pestaña «Con Claude»: las respuestas que propone Claude en las sesiones de comentarios
+    # (datos/comentarios_claude.json: {id del comentario: {"t": respuesta, "por": por qué}}); solo las escribe Claude
+    propuestas = leer(DATOS / "comentarios_claude.json", {}) or {}
+    ya = {r.get("comentario") for r in (leer(RAIZ / "publicaciones" / "respuestas_threads.json", []) or []) if r.get("hecho")}
+    # cómo acabó el post de cada comentario (para contestar con lo que pasó de verdad)
+    hilo = {str(id_threads(p)): p["id"] for p in posts if id_threads(p)}
+    est = {x["id"]: x for x in (leer(RAIZ / "docs" / "datos.json", {}) or {}).get("publicados_hoy") or []}
+    try:
+        from redes import sugerir
+    except Exception:
+        sugerir = None
+    hace48 = (ahora - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M")
+    com = [c for c in com if (c.get("fecha") or "9") >= hace48]   # lo viejo ya no se contesta
+    for c in com:
+        x = est.get(hilo.get(str(c.get("post_id"))))
+        if sugerir:   # 09/11: las sugerencias con la voz nueva y con lo que pasó en ese post
+            c["sugerencias"] = sugerir(c.get("texto"), x)
+        if x:
+            ico = {"verde": "✅ Entró", "rojo": "❌ Falló"}.get(x.get("estado"), "⏳ En juego")
+            m = next((y.get("marcador") for y in x.get("picks") or [] if y.get("marcador")), None)
+            c["resultado"] = ico + (f" ({m[0]}-{m[1]})" if isinstance(m, list) and len(m) == 2 and len(
+                {y.get("partido") for y in x.get("picks") or []}) == 1 else "")
+        if c["id"] in propuestas and c["id"] not in ya:
+            c["claude"], c["por"] = propuestas[c["id"]].get("t"), propuestas[c["id"]].get("por", "")
+    com = [c for c in com if c["id"] not in ya]
+    claude = [c for c in com if c.get("claude")]
 
     # rendimiento
     est = leer(RAIZ / "publicaciones" / "estadisticas.json", {}) or {}
@@ -131,7 +163,7 @@ def main():
     }
 
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "pausa": bool(control.get("pausa")),
-             "cola": cola, "redes": redes, "comentarios": com[-30:],
+             "cola": cola, "redes": redes, "comentarios": com[-30:], "claude": claude[-40:],
              "ajustes": {k: dict(a, v=ajustes(control)[k]) for k, a in AJUSTES.items()}, "rendimiento": rendimiento}
     SALIDA.parent.mkdir(parents=True, exist_ok=True)
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False) + "\n", encoding="utf-8")
