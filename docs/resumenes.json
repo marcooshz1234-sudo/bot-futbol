@@ -1484,14 +1484,14 @@
   },
   "2026-11-09": {
     "dia": "2026-11-09",
-    "total": 4,
+    "total": 5,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 4,
+      "pendiente": 5,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 5
     },
     "combis": [
       {
@@ -1517,13 +1517,19 @@
         "titulo": "✅ COMBI LOCAS | LIGA I",
         "estado": "pendiente",
         "cuota": 3.79
+      },
+      {
+        "id": "2026-11-09-combi-partido-1570013",
+        "titulo": "✅ COMBI LOCAS | SEGUNDA",
+        "estado": "pendiente",
+        "cuota": 4.12
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 12
+      "total": 14
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58 · pendiente\n⏳ ✅ COMBI LOCAS | LIGA I · 3,79 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58 · pendiente\n⏳ ✅ COMBI LOCAS | LIGA I · 3,79 · pendiente\n⏳ ✅ COMBI LOCAS | SEGUNDA · 4,12 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
