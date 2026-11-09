@@ -164,7 +164,7 @@ def razones(fid, pick=None):
     t = c.get("tiempo") or {}
     if t.get("lluvia_mm", 0) >= 3 or t.get("viento_kmh", 0) >= 35:
         out.append((3 if "gol" in texto or "marca" in texto else 2,
-                    "Se espera " + " y ".join(x for x in (f"lluvia ({t['lluvia_mm']} mm)" if t.get("lluvia_mm", 0) >= 3 else "",
+                    "Se espera " + " y ".join(x for x in (f"lluvia ({str(t['lluvia_mm']).replace('.', ',')} mm)" if t.get("lluvia_mm", 0) >= 3 else "",
                                                          f"viento fuerte ({round(t['viento_kmh'])} km/h)" if t.get("viento_kmh", 0) >= 35 else "") if x)
                     + ": suele haber menos goles"))
     a = c.get("arbitro")
