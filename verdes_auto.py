@@ -11,10 +11,13 @@ import json
 import re
 from datetime import datetime
 
+from pathlib import Path
+
 from bot import DATOS, MADRID, RAIZ, leer
 
 COLA = RAIZ / "publicaciones" / "cola.json"
 ESTADO = DATOS / "verdes_auto.json"
+MEDIA = RAIZ / "publicaciones" / "media"
 ESPERA = DATOS / "verdes_espera.json"   # 30/10: cuándo se vio cada combi toda en verde por primera vez
 ESPERA_MIN = 10                         # minutos en verde antes de celebrarla (gol anulado por el VAR: Espanyol 30/10)
 TERMINADO = {"FT", "AET", "PEN"}
@@ -83,8 +86,10 @@ def main():
         if pid in ids_cola:
             hechos.add(p["id"])
             continue
+        # 09/11 (Marcos): los verdes no salen solos: el bot se los manda y salen cuando le da a «✅ Publicar»
         post = {"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
-                "origen": "bot", "directo": True, "facebook": "foto", "resultado": "verde", "verde_de": p["id"]}
+                "origen": "bot", "directo": True, "facebook": "foto", "resultado": "verde", "verde_de": p["id"],
+                "requiere_ok": True, "_combi": p}
         foto = (originales.get(p["id"]) or {}).get("imagen") or (originales.get(p["id"]) or {}).get("foto")
         if boleto and isinstance(foto, str) and (RAIZ / foto).exists():   # con la captura recortada
             import shutil
@@ -96,6 +101,32 @@ def main():
     if not nuevos:
         ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
         return
+    # 09/11 (Marcos): imagen del verde = ticket de Combilocas (opción 2); si mandó la captura real de su apuesta
+    # para ese post, en Telegram y Threads va su captura con la franja «✔ ACERTADO» (opción 1)
+    try:
+        from playwright.sync_api import sync_playwright
+        import ticket_verde as T
+        with sync_playwright() as pw:
+            nav = pw.chromium.launch()
+            pagina = nav.new_page()
+            for post in nuevos:
+                combi = post.get("_combi") or {}
+                orig = originales.get(post["verde_de"]) or {}
+                publicado = (orig.get("enviado") or combi.get("fecha") or "")[11:16]
+                post["_ticket"] = str(T.ticket(pagina, combi, publicado, MEDIA / f"{post['id']}.ticket.jpg"))
+                captura = T.CAPTURAS / f"{post['verde_de']}.jpg"
+                if not captura.exists() and post.get("foto"):   # boleto de bet365 que subió Marcos
+                    captura = RAIZ / post["foto"]
+                foto = MEDIA / f"{post['id']}.tarjeta.jpg"
+                if captura.exists():
+                    T.sello(captura, foto)
+                else:
+                    import shutil
+                    shutil.copy(post["_ticket"], foto)
+                post["foto"] = str(foto.relative_to(RAIZ))
+            nav.close()
+    except Exception as e:
+        print(f"Verdes: sin ticket ({e})")
     try:   # imagen y reel sin las líneas de dinero
         from playwright.sync_api import sync_playwright
         from imagenes import generar
@@ -105,14 +136,22 @@ def main():
             for post in nuevos:
                 # sin dinero y sin la foto del boleto (norma de Instagram); la foto solo va a Telegram y Threads
                 # (la escalera sí lleva dinero: en eso consiste el reto)
-                generar(dict(post, foto=None, texto="\n".join(l for l in post["texto"].splitlines()
+                generar(dict(post, foto=None, tarjeta=None, texto="\n".join(l for l in post["texto"].splitlines()
                                                               if ("€" not in l or "escalera" in post["id"])
                                                               and "Montada en bet365" not in l)), pagina)
+                tk = post.get("_ticket")
+                if tk and Path(tk).exists():   # 09/11: en Instagram, el ticket (sin dinero) en vez del texto
+                    import shutil
+                    shutil.copy(tk, MEDIA / f"{post['id']}.jpg")
+                    (MEDIA / f"{post['id']}.mp4").unlink(missing_ok=True)   # sin reel: en Instagram, el ticket
             nav.close()
     except Exception as e:
         print(f"Verdes: sin imagen ({e}); se publica sin Instagram")
         for post in nuevos:
             post["sin_instagram"] = True
+    for post in nuevos:
+        post.pop("_combi", None)
+        post.pop("_ticket", None)
     cola.extend(nuevos)
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")

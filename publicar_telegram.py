@@ -162,6 +162,11 @@ def main(objetivo=None):
             cambios += 1
             continue
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
+        if p.get("requiere_ok"):   # 09/11 (Marcos): los verdes solo salen cuando él le da a «✅ Publicar»
+            ok = (control.get("aprobados") or {}).get(p["id"])
+            if not ok:
+                continue
+            cuando = datetime.fromisoformat(ok).replace(tzinfo=MADRID)
         if cuando > ahora:
             continue
         if ahora - cuando > MAX_RETRASO:

@@ -440,6 +440,11 @@ def main(objetivo=None):
         texto = control.get("textos", {}).get(p["id"], p["texto"])
         p = dict(p, texto=texto, _texto_cambiado=texto != p["texto"])
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
+        if p.get("requiere_ok"):   # 09/11 (Marcos): los verdes solo salen cuando él le da a «✅ Publicar»
+            ok = (control.get("aprobados") or {}).get(p["id"])
+            if not ok:
+                continue
+            cuando = datetime.fromisoformat(ok).replace(tzinfo=MADRID)
         if cuando > ahora or ahora - cuando > MAX_RETRASO + REEL_TRAS:
             continue
         from bot import partido_caido

@@ -260,7 +260,40 @@ class Asistente:
         return sorted(posts, key=lambda p: p["fecha"])
 
     # ---------------------------------------------------------------- avisos previos
+    def avisar_verdes(self):
+        """09/11 (Marcos): los verdes no salen solos. Se le mandan con su imagen y salen al darle a «✅ Publicar»."""
+        import hashlib
+        c = self.control()
+        nuevos = False
+        for p in self.programados():
+            if (not p.get("requiere_ok") or p.get("enviado") or p.get("mensaje_id") or p.get("caducada")
+                    or p["id"] in c["avisados"] or p["id"] in c["cancelados"]):
+                continue
+            corto = hashlib.md5(p["id"].encode()).hexdigest()[:10]
+            c.setdefault("por_aprobar", {})[corto] = p["id"]
+            botones = [[("✅ Publicar", f"ap|{corto}"), ("❌ No sale", f"apno|{corto}")]]
+            aviso = "💚 ¡VERDE! Revísalo: solo sale cuando le des a Publicar.\n\n" + c["textos"].get(p["id"], p["texto"])
+            foto = (RAIZ / p["foto"]) if isinstance(p.get("foto"), str) else None
+            if foto and foto.exists() and len(aviso) <= 1024:
+                api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": aviso, "reply_markup": json.dumps(
+                    {"inline_keyboard": [[{"text": t, "callback_data": d} for t, d in fila] for fila in botones]})},
+                    archivo=foto)
+            else:
+                if foto and foto.exists():
+                    api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": "💚 Imagen del verde"}, archivo=foto)
+                self.enviar(aviso, botones)
+            c["avisados"].append(p["id"])
+            nuevos = True
+        if nuevos:
+            c["avisados"] = c["avisados"][-200:]
+            escribir(CONTROL, c)
+            guardar("verdes por aprobar")
+
     def avisar_borradores(self):
+        try:
+            self.avisar_verdes()
+        except Exception as e:
+            print("avisar_verdes:", str(e)[:200])
         c = self.control()
         ahora = datetime.now(MADRID)
         cambios = False
@@ -536,7 +569,7 @@ class Asistente:
         # va pegado el botón (antes se perdía y el botón no hacía nada, sin avisar)
         orig = (q.get("message") or {}).get("reply_to_message") or {}
         foto_orig = (orig.get("photo") or [{}])[-1].get("file_id")
-        if accion in ("subir", "boleto", "aprender", "mio") and not self.borrador and (foto_orig or orig.get("text")):
+        if accion in ("subir", "boleto", "aprender", "mio", "capt", "capp") and not self.borrador and (foto_orig or orig.get("text")):
             self.borrador = {"texto": orig.get("caption") or orig.get("text") or "", "foto": foto_orig,
                              "msg": orig.get("message_id")}
         if accion in ("boleto_ok", "boleto_cuota") and not self.boleto and foto_orig:
@@ -558,6 +591,23 @@ class Asistente:
             resultado = solicitar(RAIZ, resto[0])
             guardar("solicitud de reintento")
             return self.enviar(resultado)
+        if accion in ("ap", "apno"):   # 09/11: verdes que esperan el OK de Marcos
+            pid = (c.get("por_aprobar") or {}).get(resto[0])
+            if not pid:
+                return self.enviar("⚠️ No encuentro ese verde. Dímelo y lo miro.")
+            if accion == "apno":
+                c["cancelados"].append(pid)
+                escribir(CONTROL, c)
+                guardar(f"verde no sale {pid}")
+                return self.enviar("❌ Vale, ese verde no sale.")
+            c.setdefault("aprobados", {})[pid] = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
+            escribir(CONTROL, c)
+            guardar(f"verde aprobado {pid}")
+            return self.enviar("✅ Sale ahora en el canal y en las redes.")
+        if accion == "capt" and self.borrador and self.borrador.get("foto"):
+            return self.elegir_post_captura()
+        if accion == "capp" and self.borrador and self.borrador.get("foto"):
+            return self.guardar_captura(resto[0])
         if accion == "ok":
             return self.enviar("👍 Saldrá a su hora.")
         if accion == "recuperar":
@@ -622,6 +672,48 @@ class Asistente:
         # nunca en silencio: si el botón no se ha podido atender, se dice
         return self.enviar("⚠️ Ese botón ya no vale (el bot se ha reiniciado y no tengo lo que iba con él). "
                            "Mándamelo otra vez.")
+
+    # ---------------------------------------------------------------- captura de la apuesta de un post (09/11)
+    def elegir_post_captura(self):
+        import hashlib
+        hoy = datetime.now(MADRID).strftime("%Y-%m-%d")
+        posts = [p for p in self.programados() if p["fecha"][:10] == hoy and not p.get("requiere_ok")
+                 and (p.get("enviado") or p.get("mensaje_id") or p["fecha"] > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M"))
+                 and re.search(r"combi|escalera|seguro|boleto", p["id"])]
+        if not posts:
+            return self.enviar("No veo combis de hoy a las que ponerle la captura.")
+        self._capturas = {}
+        botones = []
+        for p in posts[-12:]:
+            corto = hashlib.md5(p["id"].encode()).hexdigest()[:10]
+            self._capturas[corto] = p["id"]
+            titulo = re.sub(r"[^\w\s,.·x–-]", "", p["texto"].strip().splitlines()[0]).strip()[:40]
+            botones.append([(f"{p['fecha'][11:16]} · {titulo}", f"capp|{corto}")])
+        return self.enviar("¿De qué post es esta apuesta?", botones)
+
+    def guardar_captura(self, corto):
+        from urllib.request import urlopen
+        pid = getattr(self, "_capturas", {}).get(corto)
+        if not pid:
+            return self.enviar("⚠️ Ese botón ya no vale. Mándame la captura otra vez.")
+        b, self.borrador = self.borrador, None
+        info = api(self.t, "getFile", {"file_id": b["foto"]})["result"]
+        carpeta = RAIZ / "publicaciones" / "capturas"
+        carpeta.mkdir(parents=True, exist_ok=True)
+        origen = carpeta / "_original.jpg"
+        destino = carpeta / f"{pid}.jpg"
+        origen.write_bytes(urlopen(f"https://api.telegram.org/file/bot{self.t}/{info['file_path']}", timeout=60).read())
+        try:   # sin el dinero (como los boletos); si no sabe recortarla, tal cual
+            import boleto_foto
+            boleto_foto.recortar(origen, destino)
+        except Exception as e:
+            print("recortar captura:", e)
+            origen.replace(destino)
+        origen.unlink(missing_ok=True)
+        ok = guardar_archivos([destino], f"captura de la apuesta de {pid}")
+        return self.enviar("📎 Guardada. Si ese post sale verde, el verde irá con tu captura y la franja «✔ ACERTADO» "
+                           "(y te lo mando antes para que le des a Publicar)." if ok else
+                           "⚠️ No he podido guardarla. Mándamela otra vez.")
 
     # ---------------------------------------------------------------- capturas para aprender
     def guardar_para_aprender(self):
@@ -841,6 +933,8 @@ class Asistente:
             botones.insert(1, [("🧠 Solo para que aprenda (no se publica)", "aprender")])
             # 01/11 (Marcos): su apuesta a su app «Mis combis» para seguirla en directo (no se publica)
             botones.insert(1, [("📲 A mis combis (no se publica)", "mio")])
+            # 09/11 (Marcos): la captura real de la apuesta que echó para un post: si sale verde, va con ella
+            botones.insert(1, [("📎 Es mi apuesta de un post (para el verde)", "capt")])
         return self.enviar(f"¿Lo subo así al canal?\n\n{vista}", botones, responder=m.get("message_id"))
 
     # ---------------------------------------------------------------- bucle
