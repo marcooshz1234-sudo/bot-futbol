@@ -1,7 +1,7 @@
 # OH Leuven W – Køge W
-**Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España)
+**Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Gemeentelijk Sportstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 00:12._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 23:29_

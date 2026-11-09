@@ -1,7 +1,7 @@
 # Tenerife – AD Ceuta FC
 **Segunda División** · Regular Season - 14 · 15/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 00:12._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

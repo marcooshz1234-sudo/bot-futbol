@@ -1,7 +1,7 @@
 # Juventus W – Lyon W
-**Champions Femenina** · League Stage - 4 · 11/11/2026 21:00 (hora España) · Stadio Vittorio Pozzo
+**Champions Femenina** · League Stage - 4 · 11/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 00:12._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 23:29_

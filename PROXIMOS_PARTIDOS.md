@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 09/11/2026 00:12 (hora España). Partidos guardados en la base de datos: 2021._
+_Actualizado el 09/11/2026 02:12 (hora España). Partidos guardados en la base de datos: 2021._
 
 
 ## Lunes 09/11

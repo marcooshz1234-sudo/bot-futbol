@@ -1,5 +1,53 @@
 # Lecciones del bot
 
+## 2026-11-08
+
+```
+🧠 LECCIONES DEL 08/11
+Picks del bot: 41 ✅ · 16 ❌ · 1 sin resultado
+
+❌ Lo que falló en lo publicado:
+• AC Milan hace más tiros a puerta → Tiros a puerta: 5 – 2
+• Anthony Gordon: 2+ tiros → 1 de 2 tiros
+• CHELSEA 4+ CÓRNERS → 2 de 4 córners
+• Estrela hace más de 2,5 córners → 1 de 3 córners
+• Estrela hace más de 7,5 tiros → 7 de 8 tiros
+• Gana el Chelsea → Marcador: 1–0
+• Gana el Juventus → Marcador: 2–2
+• Gana el Monaco → Marcador: 1–1
+• Johan Manzambi: 2+ tiros → 1 de 2 tiros
+• Juventus hace más tiros a puerta → Tiros a puerta: 6 – 6
+• Lens hace más tiros → Tiros: 13 – 16
+• MÁS DE 1,5 GOLES → 1 de 2 goles
+• Más de 1,5 goles en Sunderland–Chelsea → 1 de 2 goles
+• Más de 1,5 goles en la 2ª parte del Atletico Madrid–Barcelona → Marcador: 1–2
+• Más de 1,5 goles en la 2ª parte del Napoli–Lazio → Marcador: 1–1
+
+❌ Fallos de los picks del bot y por qué:
+• Pathe Mboup: 1+ tiros a puerta — jugó 24′ e hizo 0 (necesitaba 1)
+• Pathe Mboup: 2+ tiros — jugó 24′ e hizo 0 (necesitaba 2)
+• Utrecht o empate — resultado 2-3
+• Juventus gana alguna de las dos partes — no llegó a la línea (2-2)
+• Más de 1,5 goles en Sunderland–Chelsea — partido cerrado (1-0): faltó 1 gol
+• Vitaly Janelt comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Cole Palmer comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Más de 2,5 fueras de juego en Sunderland–Chelsea — no llegó a la línea (1-0)
+• Sebastian Szymanski: 1+ tiros — jugó 8′ e hizo 0 (necesitaba 1)
+• Más de 1,5 goles en Girona–Almeria — partido cerrado (0-1): faltó 1 gol
+• Ivan Romero comete 1+ faltas — jugó 45′ e hizo 0 (necesitaba 1)
+• Koki Machida comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Miguel Gutierrez comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Jordy Makengo comete 1+ faltas — jugó 90′ e hizo 0 (necesitaba 1)
+• Alex Grimaldo: 1+ tiros — jugó 90′ e hizo 0 (necesitaba 1)
+• Más de 4,5 tarjetas en Villarreal–Getafe — no llegó a la línea (2-0)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Stade Brestois 29–Lyon, Sunderland–Chelsea
+
+📐 Modelo: 350/563 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-07
 
 ```
