@@ -14,6 +14,7 @@ import csv
 import io
 import json
 import os
+import re
 import sys
 import time
 import unicodedata
@@ -36,7 +37,13 @@ def bajar(url, intentos=3):
                                         timeout=40) as r:
                 return r.read()
         except Exception as e:
-            print(f"  {url}: {e}")
+            cuerpo = ""
+            try:
+                cuerpo = e.read().decode("utf-8", "ignore")[:300]   # el motivo del error (HTTP 4xx)
+            except Exception:
+                pass
+            # 09/11: NUNCA la clave en los logs (repo público): se tapa el apiKey
+            print(f"  {re.sub(r'apiKey=[^&]+', 'apiKey=***', url)}: {e} {cuerpo}")
             time.sleep(3 * (i + 1))
     return None
 
@@ -155,49 +162,82 @@ def prueba_historico():
 
 
 # ---------------------------------------------------------------- 3) OddsPapi (con clave)
+API_OP = "https://api.oddspapi.io/v4"
+
+
+def _op(ruta, clave, **kw):
+    b = bajar(f"{API_OP}/{ruta}?" + "&".join(f"{k}={v}" for k, v in dict(kw, apiKey=clave).items()))
+    return json.loads(b) if b else None
+
+
+def _lista(x):
+    return x if isinstance(x, list) else (x or {}).get("data") or (x or {}).get("fixtures") or []
+
+
 def oddspapi():
+    """Plan gratis (250 peticiones/mes): equipos (1 vez por semana), partidos de hoy (1) y cuotas de Pinnacle,
+    bet365 y Betfair de hasta 5 partidos nuestros (5) → ≈7 al día. Se casa por nombre de equipo."""
     clave = os.environ.get("ODDSPAPI_KEY")
     if not clave:
         print("OddsPapi: sin clave (secreto ODDSPAPI_KEY), no se usa")
         return
     hoy = datetime.now(MADRID)
     ruta = DATOS / "cuotas_sharp.json"
-    viejo = leer(ruta, {}) or {}
-    if viejo.get("dia") == hoy.strftime("%Y-%m-%d"):
+    if (leer(ruta, {}) or {}).get("dia") == hoy.strftime("%Y-%m-%d"):
         print("OddsPapi: ya está el de hoy")
         return
-    base = "https://api.oddspapi.io/v4"
-    q = lambda ruta_, **kw: bajar(f"{base}/{ruta_}?" + "&".join(f"{k}={v}" for k, v in dict(kw, apiKey=clave).items()))
-    b = q("fixtures", sportId=10, **{"from": hoy.strftime("%Y-%m-%d"), "to": (hoy + timedelta(days=1)).strftime("%Y-%m-%d")})
-    if not b:
-        return
-    fixtures = json.loads(b)
-    fixtures = fixtures if isinstance(fixtures, list) else fixtures.get("data") or []
-    # los partidos del día que tenemos (de las grandes primero): se casan por nombre
+    usadas = 0
+    eq_ruta = DATOS / "oddspapi_equipos.json"
+    eq = leer(eq_ruta, {}) or {}
+    if not eq.get("equipos") or eq.get("dia", "") < (hoy - timedelta(days=7)).strftime("%Y-%m-%d"):
+        r = _op("participants", clave, sportId=10)
+        usadas += 1
+        lst = r if isinstance(r, list) else (r or {}).get("data") if isinstance((r or {}).get("data"), list) else None
+        if isinstance(r, dict) and not lst:   # {id: nombre}
+            eq = {"dia": hoy.strftime("%Y-%m-%d"), "equipos": {str(k): v if isinstance(v, str) else
+                                                                (v or {}).get("name") for k, v in r.items()}}
+        elif lst:
+            eq = {"dia": hoy.strftime("%Y-%m-%d"),
+                  "equipos": {str(x.get("participantId") or x.get("id")): x.get("participantName") or x.get("name")
+                              for x in lst}}
+        else:
+            print("OddsPapi participants:", str(r)[:300])
+        escribir(eq_ruta, eq)
+    nombres = eq.get("equipos") or {}
+    print("OddsPapi: equipos", len(nombres))
+    fx = _op("fixtures", clave, sportId=10, **{"from": hoy.strftime("%Y-%m-%d"),
+                                                "to": (hoy + timedelta(days=1)).strftime("%Y-%m-%d")})
+    usadas += 1
+    fixtures = _lista(fx)
+    print("OddsPapi: partidos", len(fixtures), (json.dumps(fixtures[0])[:300] if fixtures else str(fx)[:300]))
     import combis_dia as C
     nuestros = []
     for f in C.EXTRA.glob("*.json"):
         pa = (leer(f) or {}).get("partido")
         if pa and pa["fixture"]["date"][:10] == hoy.strftime("%Y-%m-%d") and pa["fixture"]["status"]["short"] == "NS":
             nuestros.append(pa)
-    nuestros.sort(key=lambda pa: pa["league"]["id"] not in (2, 3, 848, 140, 39, 135, 78, 61, 5))
+    nuestros.sort(key=lambda pa: pa["league"]["id"] not in (2, 3, 848, 140, 39, 135, 78, 61, 5, 141))
     salida = {"dia": hoy.strftime("%Y-%m-%d"), "partidos": {}}
-    usadas = 1
     for pa in nuestros:
         if usadas >= 7:
             break
         l, v = norm(pa["teams"]["home"]["name"]), norm(pa["teams"]["away"]["name"])
-        m = next((x for x in fixtures if l[:5] in norm(x.get("participant1Name") or x.get("homeName") or "")
-                  and v[:5] in norm(x.get("participant2Name") or x.get("awayName") or "")), None)
+
+        def nom(x, k):
+            return norm(x.get(f"participant{k}Name") or nombres.get(str(x.get(f"participant{k}Id"))) or "")
+        m = next((x for x in fixtures if (l[:5] in nom(x, 1) or nom(x, 1)[:5] in l)
+                  and (v[:5] in nom(x, 2) or nom(x, 2)[:5] in v) and nom(x, 1) and nom(x, 2)), None)
         if not m:
             continue
         fid = m.get("fixtureId") or m.get("id")
-        b = q("odds", fixtureId=fid, bookmakers="pinnacle,bet365,betfair-ex")
+        r = _op("odds", clave, fixtureId=fid, bookmakers="pinnacle,bet365,betfair-ex")
         usadas += 1
-        if b:
-            salida["partidos"][str(pa["fixture"]["id"])] = {"oddspapi": fid, "cuotas": json.loads(b)}
+        if r:
+            salida["partidos"][str(pa["fixture"]["id"])] = {"oddspapi": fid, "cuotas": r}
+            if len(salida["partidos"]) == 1:
+                print("OddsPapi: ejemplo de cuotas", json.dumps(r)[:400])
     escribir(ruta, salida)
-    print(f"OddsPapi: {len(salida['partidos'])} partidos, {usadas} peticiones")
+    print(f"OddsPapi: {len(salida['partidos'])} partidos con cuotas, {usadas} peticiones")
 
 
 if __name__ == "__main__":
