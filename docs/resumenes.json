@@ -1365,11 +1365,11 @@
     "total": 17,
     "cuentas": {
       "verde": 5,
-      "rojo": 10,
+      "rojo": 11,
       "pendiente": 1,
-      "sin_datos": 1,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 1
     },
     "combis": [
       {
@@ -1447,7 +1447,7 @@
       {
         "id": "2026-11-08-combi-partido-1570011",
         "titulo": "✅ COMBI LOCAS | SEGUNDA",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.73
       },
       {
@@ -1476,40 +1476,40 @@
       }
     ],
     "picks": {
-      "verde": 52,
-      "rojo": 20,
+      "verde": 55,
+      "rojo": 21,
       "total": 81
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 5 DE 15 EN VERDE 📊\n\n✅ 🏆 PARTIDOS DE HOY - GANADORES\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16\n❔ ✅ COMBI LOCAS | SEGUNDA · 3,73 · faltan datos\n✅ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49\n❌ ✅ COMBI LOCAS | SERIE A · 6,23\n❌ 🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸 · 4,70\n❌ ✅ COMBI LOCAS | PRIMEIRA LIGA · 4,96\n\n✅ 5 acertadas · ❌ 10 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 5 DE 16 EN VERDE 📊\n\n✅ 🏆 PARTIDOS DE HOY - GANADORES\n✅ 🔒 PICK SEGURO DEL DÍA 🔒 · 1,57\n✅ 🪜 RETO ESCALERA · DÍA 1/7 · x1,85 🍀 · 1,85\n✅ ✅ COMBI LOCAS | EREDIVISIE · 3,59\n❌ ✅ COMBI LOCAS | SERIE A · 3,89\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL DOMINGO x2,38! 🍀 · 2,38\n⏳ ✅ COMBI LOCAS | EREDIVISIE · 3,75 · pendiente\n❌ ✅ COMBI LOCAS | SERIE A · 3,01\n❌ ✅ COMBI LOCAS | PREMIER · 10,00\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,87! 🍀\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL DOMINGO x7,01! 🤪 · 7,01\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER UNITED 🆚 ASTON VILLA 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 4,16\n❌ ✅ COMBI LOCAS | SEGUNDA · 3,73\n✅ ✅ COMBI LOCAS | PRIMEIRA LIGA · 3,49\n❌ ✅ COMBI LOCAS | SERIE A · 6,23\n❌ 🇪🇸 ATLETICO MADRID 🆚 BARCELONA 🇪🇸 · 4,70\n❌ ✅ COMBI LOCAS | PRIMEIRA LIGA · 4,96\n\n✅ 5 acertadas · ❌ 11 falladas · ⏳ 1 sin resolver"
   },
   "2026-11-09": {
     "dia": "2026-11-09",
     "total": 6,
     "cuentas": {
       "verde": 1,
-      "rojo": 0,
-      "pendiente": 0,
-      "sin_datos": 5,
+      "rojo": 4,
+      "pendiente": 1,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 1
     },
     "combis": [
       {
         "id": "2026-11-09-escalera",
         "titulo": "🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 1.73
       },
       {
         "id": "2026-11-09-combi-tres",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": 2.73
       },
       {
         "id": "2026-11-09-combi-loca",
         "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 6.58
       },
       {
@@ -1521,21 +1521,21 @@
       {
         "id": "2026-11-09-combi-partido-1570013",
         "titulo": "✅ COMBI LOCAS | SEGUNDA",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 4.12
       },
       {
         "id": "2026-11-09-combi-partido-1570011",
         "titulo": "✅ COMBI LOCAS | SEGUNDA",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 3.83
       }
     ],
     "picks": {
-      "verde": 5,
-      "rojo": 0,
+      "verde": 10,
+      "rojo": 5,
       "total": 16
     },
-    "texto": "📊 BALANCE DEL LUNES: 1 DE 1 EN VERDE 📊\n\n❔ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · faltan datos\n❔ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58 · faltan datos\n✅ ✅ COMBI LOCAS | LIGA I · 3,79\n❔ ✅ COMBI LOCAS | SEGUNDA · 4,12 · faltan datos\n❔ ✅ COMBI LOCAS | SEGUNDA · 3,83 · faltan datos\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 1 DE 5 EN VERDE 📊\n\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · pendiente\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58\n✅ ✅ COMBI LOCAS | LIGA I · 3,79\n❌ ✅ COMBI LOCAS | SEGUNDA · 4,12\n❌ ✅ COMBI LOCAS | SEGUNDA · 3,83\n\n✅ 1 acertadas · ❌ 4 falladas · ⏳ 1 sin resolver"
   }
 }
