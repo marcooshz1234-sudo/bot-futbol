@@ -294,7 +294,11 @@ def texto_seguro(p, dia=""):
             if p.get("tipster") and len(motivos) < 2:   # 09/11: pick de los tipsters: los datos que dan ellos (hechos)
                 import tipsters
                 tk = next((x for x in tipsters.picks_del_dia(dia) if x["partido_id"] == p["partido_id"]), {})
-                motivos = (motivos + list(tk.get("argumento") or []))[:3]
+                tipo_de = lambda t: {k for k, rx in tipsters.RAZONES.items() if re.search(rx, t, re.I)} & {"categoría", "casa/fuera"}
+                for a in tk.get("argumento") or []:   # sin repetir lo que ya dicen nuestros datos
+                    if not any(tipo_de(a) & tipo_de(m) for m in motivos):
+                        motivos.append(a)
+                motivos = motivos[:3]
         except Exception as e:
             print("razones:", str(e)[:120])
             motivos = []

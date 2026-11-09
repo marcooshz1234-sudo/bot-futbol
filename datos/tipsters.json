@@ -87,12 +87,13 @@
   "opcion": "Away",
   "cuota": 1.96,
   "argumento": [
-   "Dos categorías de diferencia: Jaén en Primera Federación, Mijas en Tercera",
+   "Una categoría de diferencia: el Jaén juega en Primera Federación y el Mijas en Segunda Federación",
    "Gran arranque del Jaén como recién ascendido",
-   "El Mijas no juega en su campo (aplazado dos veces): pierde la ventaja de casa",
+   "El Mijas no juega en su campo: el partido es en Estepona (aplazado dos veces)",
    "Primera vez del Mijas en Copa del Rey"
   ],
-  "partido_id": 1644362
+  "partido_id": 1644362,
+  "corregido": "09/11: TipsAnalistas dijo dos categorías; el Mijas subió a Segunda Federación en 2026-27 (Wikipedia, futboltotal)"
  },
  {
   "tipster": "Tipster Pérez",
