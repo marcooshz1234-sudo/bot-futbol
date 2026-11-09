@@ -145,8 +145,8 @@ const MERCADOS_ES = {"Goals Over/Under":"Más de X goles","Goals Over/Under Firs
   "Away Player Shots On Target Total":"Tiros a puerta de jugador (visitante)","Total Goals/Both Teams To Score":"Goles y ambos marcan",
   "Results/Both Teams Score":"Resultado y ambos marcan"};
 const nombreMercado = m => MERCADOS_ES[m] || m;   // versión para compartir: sin lo interno
-const PESTANAS = [["hoy","⚽","Hoy"],["info","ℹ️","Info"],["picks","🎯","Picks"],["partidos","📅","Partidos"],["contenido","✍️","Posts"],["stats","📈","Stats"]]
-  .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));
+const PESTANAS = [["hoy","🏠","Hoy"],["info","ℹ️","Info"],["directo","⚽","Directo"],["historial","📊","Historial"],["contenido","✍️","Posts"]]
+  .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));   // 09/11: de 5 pestañas con mucho lío a 4 (5 para Marcos)
 let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
 function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
 function guardar(k,v){try{localStorage.setItem("cl_"+k,v)}catch(e){}}
@@ -172,7 +172,7 @@ async function cargar(){
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
 function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
 function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
-function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,info:vInfo,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
+function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,info:vInfo,directo:vDirectoTab,historial:vHistorial,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
   const aviso = avisoDatos(D.generado_iso); $("#vista").innerHTML = (/Datos atrasados|sin confirmar/.test(aviso)?`<div style="margin-bottom:10px">${aviso}</div>`:"") + v(); }
 function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; const B = D.bot; const col = B.pausa?"var(--warn)":(B.errores||[]).length?"var(--live)":"var(--ok)";
   b.innerHTML = `<span class="punto" style="background:${col}"></span> 🤖`; }
@@ -225,6 +225,50 @@ function toggle(k){ abiertos.has(k)?abiertos.delete(k):abiertos.add(k); pintar()
 const sinEmoji = s => String(s||"").replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{FE0F}\u{1F1E6}-\u{1F1FF}\u{E0060}-\u{E007F}]/gu,"").replace(/\s*[—–-]\s*$/,"").replace(/\s+/g," ").trim();
 
 
+
+/* ---------------- 09/11 (Marcos: «que sea más fácil, menos texto, menos lío») ---------------- */
+function textoLimpio(t){   // el texto del post sin el cierre ni líneas de relleno
+  return String(t||"").split("\n").filter(l => l.trim() && !/^🔔|^🔞|¿LA PINTAMOS|No hace falta coger|^ℹ️/.test(l)).map(l=>l.trim());
+}
+function pickDelDia(dia){
+  const pub = (D.publicados_hoy||[]).filter(p => /pick-seguro/.test(p.id) && p.fecha.slice(0,10)===dia);
+  const cal = (D.calendario||[]).filter(p => /pick-seguro/.test(p.id) && p.fecha.slice(0,10)===dia && !p.cancelado);
+  if(!pub.length && !cal.length) return "";
+  const card = (p, publicado) => {
+    const ls = textoLimpio(p.texto || ((D.publicados||[]).find(x=>x.id===p.id)||{}).texto);
+    const pick = ls.find(l => /^🍀/.test(l)) || (p.picks&&p.picks[0] ? "🍀 "+p.picks[0].texto+" @"+n2(p.cuota) : "");
+    const stake = ls.find(l => /^🧠/.test(l)) || "";
+    const args = ls.filter(l => /^•/.test(l));
+    const partido = ls.find(l => / – /.test(l) && !/^🍀/.test(l)) || (p.picks&&p.picks[0]?p.picks[0].partido:"");
+    const est = publicado && p.estado==="verde" ? `<span class="chip ok" style="font-size:14px">✅ Acertado</span>` : publicado && p.estado==="rojo" ? `<span class="chip ko" style="font-size:14px">❌ Fallado</span>` : publicado ? `<span class="chip warn">⏳ En juego</span>` : `<span class="chip">Sale a las ${p.fecha.slice(11,16)}</span>`;
+    return `<div class="prox" style="cursor:default"><div class="row"><div class="t sp">🔒 Pick del día</div>${est}</div>
+      <div class="s" style="margin-top:6px">${esc(partido)}</div><div class="n">${esc(pick.replace(/^🍀\s*/,""))}</div>
+      ${stake?`<div class="s">${esc(stake)}</div>`:""}
+      ${args.length?`<div style="margin-top:8px;font-size:14px;color:#e2e8f0">${args.map(a=>`<div>${esc(a)}</div>`).join("")}</div>`:""}
+      ${pick?`<button class="btn2" style="margin-top:10px" onclick='copiar(${JSON.stringify(pick.replace(/^🍀\s*/,""))})'>📋 Copiar para bet365</button>`:""}</div>`;
+  };
+  return pub.map(p=>card(p,true)).join("") + cal.filter(c => !pub.some(p=>p.id===c.id)).map(p=>card(p,false)).join("");
+}
+function vDirectoTab(){
+  const [modo, t] = subTabs("dmodo", [["directo","⚽ En directo"],["terminados","Terminados"]], "directo");
+  return t + vDirecto(modo);
+}
+function vHistorial(){
+  const R = D.resumenes || {}, dias = Object.keys(R).sort();
+  const todas = dias.flatMap(d => (R[d].combis||[]).map(c => ({...c, dia:d})));
+  const seg = todas.filter(c => /pick-seguro/.test(c.id) && (c.estado==="verde"||c.estado==="rojo"));
+  const v = seg.filter(c=>c.estado==="verde").length, r = seg.length - v;
+  const ud = seg.reduce((s,c) => s + (c.estado==="verde" ? (c.cuota||1)-1 : -1), 0);
+  let h = `<div class="card hero"><span class="mut">Pick del día</span><b>${seg.length?Math.round(100*v/seg.length)+"%":"—"}</b>
+    <span class="sub">${v} ✅ · ${r} ❌${seg.length?` · ${ud>=0?"+":""}${ud.toFixed(1).replace(".",",")} stakes`:""}</span></div>`;
+  if(seg.length) h += `<div class="card">${seg.slice(-10).reverse().map(c=>`<div class="leg"><span class="hora">${c.dia.slice(8,10)}/${c.dia.slice(5,7)}</span><span class="sp">${esc(sinEmoji(c.titulo||"Pick del día"))}</span><span class="cuota">@${n2(c.cuota)}</span>${c.estado==="verde"?"✅":"❌"}</div>`).join("")}</div>`;
+  const E = (D.escalera.historial||[]).filter(x=>x.resultado);
+  if(E.length) h += `<h2>Reto escalera</h2><div class="card">${E.slice(-7).reverse().map(x=>`<div class="leg"><span class="hora">${x.dia.slice(8,10)}/${x.dia.slice(5,7)}</span><span class="sp">Día ${x.escalon} · ${esc((x.picks||[]).map(p=>p.texto).join(" + "))}</span><span class="cuota">@${n2(x.cuota)}</span>${x.resultado==="verde"?"✅":"❌"}</div>`).join("")}</div>`;
+  h += `<h2>Últimos días</h2><div class="card">${dias.slice(-7).reverse().map(d => { const cs=(R[d].combis||[]).filter(c=>c.estado==="verde"||c.estado==="rojo"); const vv=cs.filter(c=>c.estado==="verde").length;
+    return `<div class="leg"><span class="sp"><b>${diaTxt(d)}</b></span><span class="chip ok">${vv} ✅</span><span class="chip ko">${cs.length-vv} ❌</span></div>` }).join("")}</div>`;
+  if(!PUBLICA) h += `<button class="btn2" style="width:100%;margin-top:6px" onclick="ir('stats')">📈 Ver todas las estadísticas</button>`;
+  return h;
+}
 /* ---------------- INFO (09/11, Marcos: «una pestaña con información de los partidos que hay») ---------------- */
 function vInfo(){
   const [dia, t] = subTabs("idia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
@@ -274,7 +318,7 @@ function filaPost(p){   // 28/10: una línea por post; al tocarla se ven las pat
   const clase = x => x.estado==="verde"||(x.estado==="va_bien"&&x.definitivo)?"v":x.estado==="rojo"?"r":x.estado==="va_bien"?"b":x.estado==="va_mal"?"m":x.estado==="comprobando"?"c":"";
   const barra = p.picks.length>1 ? `<div class="patas">${p.picks.map(x=>`<i class="${clase(x)}"></i>`).join("")}</div>` : "";
   return `<div class="card ${borde}"><div class="fila" onclick="toggle('${k}')"><span class="hora">${p.fecha.slice(11,16)}</span>${esc2}<div class="col sp">${cabeza}</div>${p.cuota?`<span class="cuota">${n2(p.cuota)}</span>`:""}${resultadoPost(p)}</div>${barra}
-    ${abierto?`<div class="det">${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${eqP(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
+    ${abierto?`<div class="det">${p.picks.length?`<button class="btn2" style="margin:6px 0" onclick='event.stopPropagation();copiar(${JSON.stringify(p.picks.map(x=>x.texto).join("\n")).replace(/'/g,"&#39;")})'>📋 Copiar para bet365</button>`:""}${p.picks.map(x=>`<div class="leg"><div class="col sp"><span>${conEmoji(x.texto,x.partido)}</span><span class="mut" style="padding-left:22px">${eqP(x.partido||"")}${x.marcador&&x.marcador[0]!=null?` · ${x.marcador[0]}-${x.marcador[1]}`:""}</span>${progresoPick(x)}</div>${x.cuota?`<span class="cuota">${n2(x.cuota)}</span>`:""}${icono(x)}</div>`).join("")}</div>`:""}</div>`;
 }
 function filaPick(p){
   const k = "k:"+p.partido_id+"|"+p.texto, abierto = abiertos.has(k);
@@ -283,13 +327,13 @@ function filaPick(p){
 function selectorDia(){ const ayer = ayerDe(D.hoy); return subTabs("hoydia", [[ayer,"Ayer"],[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy) }
 function vHoy(){
   const ayer = ayerDe(D.hoy);
-  const [dia, t] = selectorDia();
-  let h = t;
+  const dia = D.hoy;   // 09/11: sin Ayer/Hoy/Mañana (lo de ayer, en Historial)
+  let h = pickDelDia(dia);
   const pubs = (D.publicados_hoy||[]).filter(p => p.fecha.slice(0,10)===dia && !esRepostVerde(p)).sort((a,b)=>a.fecha.localeCompare(b.fecha));
   const cb = pubs.filter(p=>!p.lista), v = cb.filter(p=>p.estado==="verde").length, r = cb.filter(p=>p.estado==="rojo").length;
   if(pubs.length) h += `<div class="grid3"><div class="stat kpi"><b style="color:var(--ok)">${v}</b><span>verdes</span></div><div class="stat kpi"><b style="color:var(--ko)">${r}</b><span>rojas</span></div><div class="stat kpi"><b>${cb.length-v-r}</b><span>en juego</span></div></div>`;
   const vivos = D.partidos.filter(esVivo);
-  if(dia===D.hoy && vivos.length) h += `<div class="card fila" onclick="sub.pmodo='directo';ir('partidos')" style="margin-top:8px"><span class="chip live">● En directo</span><span class="sp">${vivos.length} partido${vivos.length>1?"s":""} ahora</span><span class="mut">Ver ›</span></div>`;
+  if(dia===D.hoy && vivos.length) h += `<div class="card fila" onclick="sub.dmodo='directo';ir('directo')" style="margin-top:8px"><span class="chip live">● En directo</span><span class="sp">${vivos.length} partido${vivos.length>1?"s":""} ahora</span><span class="mut">Ver ›</span></div>`;
   h += `<h2>Publicadas</h2>` + (pubs.length ? `<div class="lista">${pubs.map(filaPost).join("")}</div>` : `<div class="empty">${dia===ayer?"No hubo publicaciones":dia===D.manana?"Todavía no ha salido nada de mañana":"Aún no se ha publicado nada hoy"}</div>`);
   const prox = (D.calendario||[]).filter(p => p.fecha.slice(0,10)===dia);
   if(prox.length && dia!==ayer) h += `<h2>Próximos posts</h2><div class="card">${prox.map(p=>`<div class="leg" onclick="sub.cmodo='calendario';ir('contenido')" style="cursor:pointer"><span class="hora">${p.fecha.slice(11,16)}</span>${fidPost(p)?escudosDe(fidPost(p)):""}<span class="sp tit" style="font-weight:500">${titPost(p)}</span>${p.cancelado?`<span class="chip rojo">Cancelado</span>`:p.cambiado?`<span class="chip">Editado</span>`:""}</div>`).join("")}</div>`;
@@ -300,7 +344,7 @@ function vHoy(){
   // 09/11: arriba, en grande, lo siguiente que sale (como en el panel del bot)
   if(dia===D.hoy || dia===D.manana){
     const ahora = new Date(), y = ahora.getFullYear()+"-"+String(ahora.getMonth()+1).padStart(2,"0")+"-"+String(ahora.getDate()).padStart(2,"0")+"T"+String(ahora.getHours()).padStart(2,"0")+":"+String(ahora.getMinutes()).padStart(2,"0");
-    const sig = (D.calendario||[]).filter(p => !p.cancelado && p.fecha > y).sort((a,b)=>a.fecha.localeCompare(b.fecha))[0];
+    const sig = (D.calendario||[]).filter(p => !p.cancelado && !p.solo_redes && !/pick-seguro/.test(p.id) && p.fecha > y).sort((a,b)=>a.fecha.localeCompare(b.fecha))[0];
     if(sig) h = `<div class="prox" onclick="sub.cmodo='calendario';ir('contenido')"><div class="t">Lo siguiente · ${sig.fecha.slice(0,10)===D.hoy?"":diaTxt(sig.fecha.slice(0,10))+" "}${sig.fecha.slice(11,16)}</div><div class="n">${titPost(sig)}</div></div>` + h;
   }
   return h;

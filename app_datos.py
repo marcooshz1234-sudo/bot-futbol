@@ -853,7 +853,8 @@ def main():
                                    cancelado=p["id"] in ctl.get("cancelados", []),
                                    texto=(ctl.get("textos") or {}).get(p["id"], p["texto"]),
                                    cambiado=p["id"] in (ctl.get("textos") or {}),
-                                   destinos=["Telegram"] + (["Threads", "Instagram"] if p.get("directo") else [])))
+                                   solo_redes=bool(p.get("solo_redes")),   # 09/11: no sale en Telegram
+                                   destinos=([] if p.get("solo_redes") else ["Telegram"]) + (["Threads", "Instagram"] if p.get("directo") else [])))
     publicados = publicados[-300:][::-1]
     semana = (ahora - timedelta(days=7)).strftime("%Y-%m-%d")
     muro = [p for p in publicados if p["resultado"] == "verde" and p["fecha"] >= semana]
