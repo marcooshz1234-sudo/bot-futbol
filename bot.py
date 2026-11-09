@@ -57,6 +57,12 @@ COMPETICIONES = {
     # 08/11 (Marcos): parón de selecciones (9-17/11): Nations League y la Champions femenina (martes y miércoles)
     5: "Nations League",
     525: "Champions Femenina",
+    # 09/11 (Marcos: «busca más partidos para contenido»): más ligas para el parón; con lo que dice bet365
+    142: "Liga F",
+    95: "Segunda Liga",
+    138: "Serie C",
+    283: "Liga I",
+    120: "1. Division",
 }
 COPAS = {143, 48, 45, 137, 81, 66, 96, 90}
 

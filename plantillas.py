@@ -147,7 +147,8 @@ BANDERA = {"LaLiga": "🇪🇸", "Premier": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Pre
            "Ligue 1": "🇫🇷", "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢",
            "Champions": "⭐", "Conference": "🟢", "Segunda": "🇪🇸", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Eredivisie": "🇳🇱",
            "Primeira Liga": "🇵🇹", "Copa del Rey": "🇪🇸", "Carabao Cup": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "FA Cup": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-           "Coppa Italia": "🇮🇹", "DFB-Pokal": "🇩🇪", "Coupe de France": "🇫🇷", "Taça de Portugal": "🇵🇹", "KNVB Beker": "🇳🇱"}
+           "Coppa Italia": "🇮🇹", "DFB-Pokal": "🇩🇪", "Coupe de France": "🇫🇷", "Taça de Portugal": "🇵🇹", "KNVB Beker": "🇳🇱",
+           "Liga F": "🇪🇸", "Segunda Liga": "🇵🇹", "Serie C": "🇮🇹", "Liga I": "🇷🇴", "1. Division": "🇩🇰"}
 CORTO = {"paris saint germain": "PSG", "manchester united": "MAN. UNITED", "manchester city": "MAN. CITY",
          "bayern münchen": "BAYERN", "borussia dortmund": "DORTMUND", "bayer leverkusen": "LEVERKUSEN",
          "atletico madrid": "ATLÉTICO", "real madrid": "MADRID", "barcelona": "BARÇA", "ac milan": "MILAN"}
