@@ -1,18 +1,18 @@
 # Paris Saint Germain W – Bayern Munich W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 21:00 (hora España) · Stade Georges Lefevre
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **3.80**  ·  X **3.40**  ·  2 **1.75**
-- **Doble oportunidad:** 1X **1.91**  ·  12 **1.25**  ·  X2 **1.18**
+- **1X2:** 1 **4.20**  ·  X **3.80**  ·  2 **1.75**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.22**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
     - 2,5: más **1.57** · menos **2.35**
-    - 3,5: más **2.38** · menos **1.53**
+    - 3,5: más **2.25** · menos **1.57**
     - 4,5: más **4.00** · menos **1.22**
     - 5,5: más **7.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -35,16 +35,16 @@ _Actualizadas: 08/11 23:29_
 - **Córners 1X2:** 1 **3.00**  ·  X **8.00**  ·  2 **1.50**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.25**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **2.25**  ·  2 **1.40**
 - **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.50**
 - **Win Both Halves:** 1 **15.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.25**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **3.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.25**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 3,5: más **1.91** · menos **1.80**

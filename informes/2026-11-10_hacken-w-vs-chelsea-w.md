@@ -1,16 +1,16 @@
 # Häcken W – Chelsea W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 18:45 (hora España) · Nordic Wellness Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **13.00**  ·  X **6.50**  ·  2 **1.18**
-- **Doble oportunidad:** 1X **4.50**  ·  12 **1.10**  ·  X2 **1.01**
+- **1X2:** 1 **13.00**  ·  X **7.00**  ·  2 **1.18**
+- **Doble oportunidad:** 1X **4.50**  ·  12 **1.08**  ·  X2 **1.01**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.00**
+    - 1,5: más **1.12** · menos **5.50**
     - 2,5: más **1.40** · menos **2.75**
     - 3,5: más **2.00** · menos **1.73**
     - 4,5: más **3.40** · menos **1.30**
@@ -22,11 +22,11 @@ _Actualizadas: 08/11 23:29_
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **8.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **1.83** · menos **1.83**
+    - 0,5: más **1.91** · menos **1.80**
     - 1,5: más **5.50** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.04** · menos **9.00**
-    - 1,5: más **1.22** · menos **4.00**
+    - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.73** · menos **2.00**
     - 3,5: más **2.75** · menos **1.40**
     - 4,5: más **5.00** · menos **1.14**
@@ -43,11 +43,11 @@ _Actualizadas: 08/11 23:29_
     - 3,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **5.00**  ·  2 **1.10**
-- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **1.67**
+- **To Win Either Half:** 1 **5.50**  ·  2 **1.11**
+- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.67**
 - **Win Both Halves:** 1 **51.00**  ·  2 **2.20**
 - **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.75**  ·  Home/No **23.00**  ·  Draw/No **21.00**  ·  Away/No **1.91**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.40**
 - **Home Corners Over/Under:**
     - 2,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**

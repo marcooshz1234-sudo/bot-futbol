@@ -1,10 +1,10 @@
 # Salamanca UDS – Celta Vigo
 **Copa del Rey** · Round of 128 · 13/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 08:04_
+_Actualizadas: 09/11 08:32_
 
 - **1X2:** 1 **8.00**  ·  X **5.00**  ·  2 **1.36**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.17**  ·  X2 **1.08**

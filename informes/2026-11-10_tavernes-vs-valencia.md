@@ -1,31 +1,58 @@
 # Tavernes – Valencia
 **Copa del Rey** · Round of 128 · 10/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 05/11 02:11_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **51.00**  ·  X **26.00**  ·  2 **1.00**
-- **Doble oportunidad:** 1X **34.00**  ·  12 **1.01**  ·  X2 **1.00**
-- **Ambos marcan:** Sí **3.40**  ·  No **1.30**
+- **1X2:** 1 **51.00**  ·  X **23.00**  ·  2 **1.01**
+- **Doble oportunidad:** 1X **51.00**  ·  12 **1.00**  ·  X2 **1.00**
+- **Ambos marcan:** Sí **3.00**  ·  No **1.36**
 - **Goles más/menos:**
-    - 3,5: más **1.07** · menos **9.00**
-    - 4,5: más **1.18** · menos **4.50**
-    - 5,5: más **1.40** · menos **2.75**
-    - 6,5: más **1.80** · menos **1.91**
-    - 7,5: más **2.50** · menos **1.50**
-    - 8,5: más **3.75** · menos **1.25**
-    - 9,5: más **6.00** · menos **1.12**
-    - 10,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **81.00**  ·  X **13.00**  ·  2 **1.04**
-- **Both Teams Score - First Half:** Sí **13.00**  ·  No **1.04**
-- **Both Teams To Score - Second Half:** Sí **8.00**  ·  No **1.08**
-- **To Win Either Half:** 1 **51.00**  ·  2 **1.00**
-- **To Score In Both Halves By Teams:** 1 **51.00**  ·  2 **1.06**
-- **Win Both Halves:** 2 **1.08**
-- **Results/Both Teams Score:** Home/Yes **126.00**  ·  Draw/Yes **51.00**  ·  Away/Yes **3.40**  ·  Home/No **501.00**  ·  Draw/No **34.00**  ·  Away/No **1.30**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.75**  ·  o/no 2.5 **1.18**  ·  u/yes 2.5 **101.00**  ·  u/no 2.5 **15.00**
+    - 4,5: más **1.10** · menos **7.00**
+    - 5,5: más **1.22** · menos **4.00**
+    - 6,5: más **1.44** · menos **2.62**
+    - 7,5: más **1.83** · menos **1.83**
+    - 8,5: más **2.50** · menos **1.50**
+    - 9,5: más **3.75** · menos **1.25**
+    - 10,5: más **5.50** · menos **1.14**
+    - 11,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.40** · menos **2.75**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **3.00** · menos **1.36**
+- **Goles del visitante:**
+    - 3,5: más **1.05** · menos **11.00**
+    - 4,5: más **1.12** · menos **6.00**
+    - 5,5: más **1.30** · menos **3.40**
+    - 6,5: más **1.57** · menos **2.25**
+    - 7,5: más **2.10** · menos **1.67**
+    - 8,5: más **3.00** · menos **1.36**
+    - 9,5: más **4.33** · menos **1.20**
+    - 10,5: más **7.00** · menos **1.10**
+    - 11,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **41.00**  ·  X **13.00**  ·  2 **1.04**
+- **Goals Over/Under - Second Half:**
+    - 1,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.22** · menos **4.00**
+    - 3,5: más **1.57** · menos **2.25**
+    - 4,5: más **2.25** · menos **1.57**
+    - 5,5: más **3.75** · menos **1.25**
+    - 6,5: más **6.50** · menos **1.11**
+    - 7,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **29.00**  ·  2 **1.00**
+- **To Score In Both Halves By Teams:** 1 **17.00**  ·  2 **1.04**
+- **Win Both Halves:** 2 **1.10**
+- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **51.00**  ·  Away/Yes **3.00**  ·  Home/No **501.00**  ·  Draw/No **41.00**  ·  Away/No **1.36**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **1.53**  ·  u/yes 2.5 **101.00**  ·  u/no 2.5 **34.00**
 
 ## Estadísticas de equipo
 | | Tavernes (total) | Tavernes en casa | Valencia (total) | Valencia fuera |

@@ -1,12 +1,12 @@
 # Juventus W – Lyon W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **13.00**  ·  X **7.00**  ·  2 **1.14**
+- **1X2:** 1 **12.00**  ·  X **7.50**  ·  2 **1.17**
 - **Doble oportunidad:** 1X **5.00**  ·  12 **1.08**  ·  X2 **1.01**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
@@ -17,10 +17,10 @@ _Actualizadas: 08/11 23:29_
     - 5,5: más **4.33** · menos **1.20**
     - 6,5: más **7.50** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.17** · menos **4.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **7.00** · menos **1.08**
+    - 0,5: más **1.14** · menos **5.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **6.50** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.80** · menos **1.91**
     - 1,5: más **4.50** · menos **1.17**
@@ -31,7 +31,8 @@ _Actualizadas: 08/11 23:29_
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **7.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.78** · menos **2.02**
+    - 9,5: más **1.73** · menos **2.00**
+- **Córners 1X2:** 1 **8.00**  ·  X **13.00**  ·  2 **1.10**
 - **1X2 descanso:** 1 **9.50**  ·  X **3.25**  ·  2 **1.44**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.11** · menos **6.50**

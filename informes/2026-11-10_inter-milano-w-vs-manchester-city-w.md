@@ -1,14 +1,14 @@
 # Inter Milano W – Manchester City W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 21:00 (hora España) · Felice Chinetti Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **7.00**  ·  X **4.50**  ·  2 **1.33**
-- **Doble oportunidad:** 1X **2.88**  ·  12 **1.12**  ·  X2 **1.06**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **1X2:** 1 **7.50**  ·  X **5.00**  ·  2 **1.36**
+- **Doble oportunidad:** 1X **2.75**  ·  12 **1.12**  ·  X2 **1.07**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **5.50**
     - 2,5: más **1.44** · menos **2.62**
@@ -22,37 +22,37 @@ _Actualizadas: 08/11 23:29_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **8.50** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.62** · menos **2.20**
-    - 1,5: más **4.00** · menos **1.22**
-    - 2,5: más **9.00** · menos **1.04**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.06** · menos **8.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.00** · menos **1.73**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **7.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **1.95** · menos **1.85**
-- **Córners 1X2:** 1 **5.00**  ·  X **11.00**  ·  2 **1.22**
-- **1X2 descanso:** 1 **6.50**  ·  X **2.75**  ·  2 **1.67**
+- **Córners 1X2:** 1 **4.75**  ·  X **10.00**  ·  2 **1.22**
+- **1X2 descanso:** 1 **6.00**  ·  X **2.75**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **3.75**  ·  2 **1.18**
-- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.83**
-- **Win Both Halves:** 1 **29.00**  ·  2 **2.75**
-- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **2.75**  ·  Home/No **17.00**  ·  Draw/No **19.00**  ·  Away/No **2.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.40**
+- **To Win Either Half:** 1 **3.40**  ·  2 **1.20**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.91**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.25**
+- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **2.75**  ·  Home/No **15.00**  ·  Draw/No **19.00**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.25**
 - **Home Corners Over/Under:**
-    - 3,5: más **2.25** · menos **1.57**
+    - 3,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 
 ## Estadísticas de equipo
 | | Inter Milano W (total) | Inter Milano W en casa | Manchester City W (total) | Manchester City W fuera |

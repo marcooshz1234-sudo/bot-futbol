@@ -1,20 +1,20 @@
 # OH Leuven W – Køge W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Gemeentelijk Sportstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **4.00**  ·  X **3.90**  ·  2 **1.62**
+- **1X2:** 1 **4.75**  ·  X **4.33**  ·  2 **1.62**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.18**  ·  X2 **1.17**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
     - 2,5: más **1.57** · menos **2.35**
     - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.00** · menos **1.22**
-    - 5,5: más **7.00** · menos **1.08**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **7.50** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -33,7 +33,7 @@ _Actualizadas: 08/11 23:29_
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **2.88**  ·  X **8.50**  ·  2 **1.53**
-- **1X2 descanso:** 1 **4.33**  ·  X **2.50**  ·  2 **2.10**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.50**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -45,7 +45,7 @@ _Actualizadas: 08/11 23:29_
 - **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.38**
 - **Win Both Halves:** 1 **17.00**  ·  2 **4.33**
 - **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **9.00**  ·  Draw/No **17.00**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
@@ -146,9 +146,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 55% | 49% | 1.62 | -21% |
-| 1X2: X | 28% | 23% | 25% | 3.90 | -2% |
-| 1X2: 1 | 30% | 22% | 26% | 4.00 | +5% |
+| 1X2: 2 | 42% | 58% | 50% | 1.62 | -19% |
+| 1X2: X | 28% | 22% | 25% | 4.33 | +7% |
+| 1X2: 1 | 30% | 20% | 25% | 4.75 | +19% |
 | Doble oportunidad: X2 | 70% | 78% | 74% | 1.17 | -13% |
 | Doble oportunidad: 12 | 72% | 78% | 75% | 1.18 | -11% |
 | Doble oportunidad: 1X | 58% | 44% | 51% | 2.10 | +7% |
@@ -157,11 +157,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 69% | 79% | 74% | 1.17 | -13% |
 | Goles más/menos: Más de 2.5 | 43% | 60% | 51% | 1.57 | -20% |
 | Goles más/menos: Más de 3.5 | 22% | 39% | 30% | 2.38 | -28% |
-| Goles más/menos: Más de 4.5 | 9% | 23% | 16% | 4.00 | -35% |
+| Goles más/menos: Más de 4.5 | 9% | 22% | 16% | 4.33 | -33% |
 | Goles más/menos: Menos de 1.5 | 31% | 21% | 26% | 4.50 | +17% |
 | Goles más/menos: Menos de 2.5 | 57% | 40% | 49% | 2.35 | +15% |
 | Goles más/menos: Menos de 3.5 | 78% | 61% | 70% | 1.53 | +6% |
-| Goles más/menos: Menos de 4.5 | 91% | 77% | 84% | 1.22 | +2% |
+| Goles más/menos: Menos de 4.5 | 91% | 78% | 84% | 1.20 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 75% | 70% | 1.25 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 42% | 35% | 2.20 | -23% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 21% | 15% | 4.50 | -34% |
@@ -178,8 +178,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 85% | 66% | 76% | 1.40 | +6% |
 | Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -15% |
 | Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: 2 | 31% | 43% | 37% | 2.10 | -23% |
-| 1X2 descanso: X | 46% | 36% | 41% | 2.50 | +2% |
-| 1X2 descanso: 1 | 24% | 21% | 22% | 4.33 | -4% |
+| 1X2 descanso: 2 | 31% | 43% | 37% | 2.10 | -22% |
+| 1X2 descanso: X | 46% | 36% | 41% | 2.50 | +3% |
+| 1X2 descanso: 1 | 24% | 20% | 22% | 4.50 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

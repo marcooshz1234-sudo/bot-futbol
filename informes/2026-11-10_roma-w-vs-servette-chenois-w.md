@@ -1,20 +1,20 @@
 # Roma W – Servette Chênois W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 21:00 (hora España) · Stadio Tre Fontane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **1.20**  ·  X **5.75**  ·  2 **10.00**
+- **1X2:** 1 **1.20**  ·  X **6.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 1,5: más **1.08** · menos **7.00**
-    - 2,5: más **1.30** · menos **3.40**
-    - 3,5: más **1.73** · menos **2.00**
-    - 4,5: más **2.62** · menos **1.44**
-    - 5,5: más **4.33** · menos **1.20**
+    - 1,5: más **1.07** · menos **7.50**
+    - 2,5: más **1.28** · menos **3.50**
+    - 3,5: más **1.67** · menos **2.10**
+    - 4,5: más **2.50** · menos **1.50**
+    - 5,5: más **4.00** · menos **1.22**
     - 6,5: más **7.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **4.50**
@@ -23,10 +23,10 @@ _Actualizadas: 08/11 23:29_
     - 3,5: más **7.00** · menos **1.08**
 - **Goles del local:**
     - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.62** · menos **2.20**
-    - 3,5: más **2.62** · menos **1.44**
+    - 2,5: más **1.57** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **8.00** · menos **1.06**
+    - 5,5: más **7.50** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.62** · menos **2.20**
     - 1,5: más **4.00** · menos **1.22**
@@ -36,23 +36,23 @@ _Actualizadas: 08/11 23:29_
 - **Córners 1X2:** 1 **1.14**  ·  X **12.00**  ·  2 **6.50**
 - **1X2 descanso:** 1 **1.50**  ·  X **3.10**  ·  2 **7.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
-    - 4,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.11**  ·  2 **4.33**
 - **To Score In Both Halves By Teams:** 1 **1.57**  ·  2 **7.00**
 - **Win Both Halves:** 1 **2.25**  ·  2 **41.00**
-- **Results/Both Teams Score:** Home/Yes **2.38**  ·  Draw/Yes **7.00**  ·  Away/Yes **15.00**  ·  Home/No **2.25**  ·  Draw/No **26.00**  ·  Away/No **23.00**
+- **Results/Both Teams Score:** Home/Yes **2.30**  ·  Draw/Yes **7.00**  ·  Away/Yes **17.00**  ·  Home/No **2.25**  ·  Draw/No **29.00**  ·  Away/No **23.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **3.50**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **4.33**
 - **Home Corners Over/Under:**
     - 7,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 2,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.00**  ·  Menos de 5 **1.80**
 
 ## Estadísticas de equipo
 | | Roma W (total) | Roma W en casa | Servette Chênois W (total) | Servette Chênois W fuera |

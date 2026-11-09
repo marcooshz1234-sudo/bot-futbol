@@ -1,16 +1,16 @@
 # Real Madrid W – Paris FC W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **6.25**
-- **Doble oportunidad:** 1X **1.08**  ·  12 **1.12**  ·  X2 **2.75**
+- **1X2:** 1 **1.36**  ·  X **5.00**  ·  2 **7.50**
+- **Doble oportunidad:** 1X **1.07**  ·  12 **1.14**  ·  X2 **3.00**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **5.50**
+    - 1,5: más **1.14** · menos **5.00**
     - 2,5: más **1.44** · menos **2.62**
     - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**

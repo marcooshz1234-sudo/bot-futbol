@@ -1,20 +1,20 @@
 # SL Benfica W – Austria Wien W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 21:00 (hora España) · Estadio da Tapadinha
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 02:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 08:32_
 
-- **1X2:** 1 **1.50**  ·  X **3.80**  ·  2 **5.25**
-- **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.30**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **1X2:** 1 **1.53**  ·  X **4.50**  ·  2 **5.25**
+- **Doble oportunidad:** 1X **1.14**  ·  12 **1.17**  ·  X2 **2.38**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.65** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.17**
-    - 5,5: más **8.00** · menos **1.06**
+    - 1,5: más **1.14** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
@@ -41,11 +41,11 @@ _Actualizadas: 08/11 23:29_
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.30**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **6.00**
-- **Win Both Halves:** 1 **3.75**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.50**  ·  Home/No **2.62**  ·  Draw/No **13.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.75**
+- **To Win Either Half:** 1 **1.30**  ·  2 **2.62**
+- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **5.00**
+- **Win Both Halves:** 1 **3.75**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **5.00**  ·  Away/Yes **7.50**  ·  Home/No **3.00**  ·  Draw/No **19.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.20**
 - **Home Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
