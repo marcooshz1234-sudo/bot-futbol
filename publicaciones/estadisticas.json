@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 13:03",
+ "actualizado": "2026-11-09 13:14",
  "redes": {
   "instagram": {
    "seguidores": 35,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2273,
-   "hoy": 42,
+   "seguidores": 2278,
+   "hoy": 47,
    "serie": [
     1520,
     1638,
@@ -24,7 +24,7 @@
     2004,
     2126,
     2231,
-    2273
+    2278
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 345,
-   "hoy": 14,
+   "seguidores": 344,
+   "hoy": 13,
    "serie": [
     232,
     245,
@@ -50,17 +50,17 @@
     294,
     307,
     331,
-    345
+    344
    ]
   }
  },
- "total": 2654,
- "total_hoy": 56,
+ "total": 2658,
+ "total_hoy": 60,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:00",
+  "hora": "13:30",
   "dia": "2026-11-09",
-  "titulo": "Combi Sabadell vs Real Sociedad Ii"
+  "titulo": "Combi del lunes x2,73"
  },
  "ayer": {
   "aciertos": 41,
@@ -174,9 +174,9 @@
   },
   "2026-11-09": {
    "instagram": 35,
-   "threads": 2273,
+   "threads": 2278,
    "facebook": 1,
-   "telegram": 345
+   "telegram": 344
   }
  },
  "tipos_instagram": {
