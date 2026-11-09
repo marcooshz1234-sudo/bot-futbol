@@ -749,6 +749,8 @@ def main():
                     p["fecha"] = (datetime.now(MADRID) + timedelta(minutes=10)).strftime("%Y-%m-%dT%H:%M")
             if p["fecha"] <= ahora:          # su hora ya pasó sin publicarse
                 continue
+            # 09/11: femeninas: «Atletico Madrid W» → «Atletico Madrid (fem.)»
+            p["texto"] = re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", p["texto"], flags=re.M)
             nuevos[p["id"]] = p
     # conservar los ya publicados para que quede registro, y los fijados a mano
     for pid, p in anteriores.items():
