@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 18:38",
+ "actualizado": "2026-11-09 18:48",
  "redes": {
   "instagram": {
    "seguidores": 35,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2320,
-   "hoy": 89,
+   "seguidores": 2323,
+   "hoy": 92,
    "serie": [
     1520,
     1638,
@@ -24,7 +24,7 @@
     2004,
     2126,
     2231,
-    2320
+    2323
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 353,
-   "hoy": 22,
+   "seguidores": 354,
+   "hoy": 23,
    "serie": [
     232,
     245,
@@ -50,17 +50,17 @@
     294,
     307,
     331,
-    353
+    354
    ]
   }
  },
- "total": 2709,
- "total_hoy": 111,
+ "total": 2713,
+ "total_hoy": 115,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:45",
+  "hora": "19:30",
   "dia": "2026-11-09",
-  "titulo": "Combi Sabadell vs Real Sociedad Ii"
+  "titulo": "Combi Las Palmas vs Eldense"
  },
  "ayer": {
   "aciertos": 41,
@@ -174,14 +174,14 @@
   },
   "2026-11-09": {
    "instagram": 35,
-   "threads": 2320,
+   "threads": 2323,
    "facebook": 1,
-   "telegram": 353
+   "telegram": 354
   }
  },
  "tipos_instagram": {
   "Combi loca (reel)": {
-   "posts": 43,
+   "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -196,7 +196,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 5,
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
