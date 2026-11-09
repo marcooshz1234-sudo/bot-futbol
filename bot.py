@@ -373,7 +373,12 @@ def recoger(api):
     for liga, nombre in sorted(COMPETICIONES.items(), key=lambda x: x[0] in COPAS):
         lista = api.get("fixtures", league=liga, season=TEMPORADA)
         if liga in COPAS:   # fuera los partidos sin ningún equipo nuestro (aficionados, categorías bajas)
-            lista = [p for p in lista if p["teams"]["home"]["id"] in nuestros or p["teams"]["away"]["id"] in nuestros]
+            # 09/11 (Marcos: «mételos también»): de la Copa del Rey, también los partidos de los próximos 7 días
+            # entre equipos de categorías bajas (Jaén–Mijas…); los ya jugados de esos no se descargan
+            limite = (datetime.now(MADRID) + timedelta(days=7)).strftime("%Y-%m-%d")
+            lista = [p for p in lista if p["teams"]["home"]["id"] in nuestros or p["teams"]["away"]["id"] in nuestros
+                     or (liga == 143 and p["fixture"]["status"]["short"] in ("NS", "TBD")
+                         and p["fixture"]["date"][:10] <= limite)]
         print(f"- {nombre}: {len(lista)} partidos en el calendario")
         if lista:
             escribir(DATOS / f"calendario_{liga}.json", lista)

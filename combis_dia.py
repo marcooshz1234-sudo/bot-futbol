@@ -111,7 +111,7 @@ def nombre_es(n):
     return n[:-2] + " (fem.)" if n.endswith(" W") else n
 
 
-SOLO_BET365 = (5, 525, 142, 95, 138, 283, 120)   # 09/11: ligas nuevas del parón, sin historial aún   # 08/11 (Marcos): parón: Nations League y Champions femenina
+SOLO_BET365 = (5, 525, 142, 95, 138, 283, 120, 143)   # 09/11: ligas nuevas del parón, sin historial aún   # 08/11 (Marcos): parón: Nations League y Champions femenina
 MERCADOS_BET365 = ("Match Winner", "Double Chance", "Both Teams Score", "Goals Over/Under", "Total - Home",
                    "Total - Away", "To Win Either Half")
 
