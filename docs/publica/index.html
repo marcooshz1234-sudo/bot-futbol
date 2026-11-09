@@ -145,7 +145,7 @@ const MERCADOS_ES = {"Goals Over/Under":"Más de X goles","Goals Over/Under Firs
   "Away Player Shots On Target Total":"Tiros a puerta de jugador (visitante)","Total Goals/Both Teams To Score":"Goles y ambos marcan",
   "Results/Both Teams Score":"Resultado y ambos marcan"};
 const nombreMercado = m => MERCADOS_ES[m] || m;   // versión para compartir: sin lo interno
-const PESTANAS = [["hoy","⚽","Hoy"],["picks","🎯","Picks"],["partidos","📅","Partidos"],["contenido","✍️","Posts"],["stats","📈","Stats"]]
+const PESTANAS = [["hoy","⚽","Hoy"],["info","ℹ️","Info"],["picks","🎯","Picks"],["partidos","📅","Partidos"],["contenido","✍️","Posts"],["stats","📈","Stats"]]
   .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));
 let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
 function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
@@ -172,7 +172,7 @@ async function cargar(){
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
 function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
 function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
-function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
+function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,info:vInfo,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
   const aviso = avisoDatos(D.generado_iso); $("#vista").innerHTML = (/Datos atrasados|sin confirmar/.test(aviso)?`<div style="margin-bottom:10px">${aviso}</div>`:"") + v(); }
 function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; const B = D.bot; const col = B.pausa?"var(--warn)":(B.errores||[]).length?"var(--live)":"var(--ok)";
   b.innerHTML = `<span class="punto" style="background:${col}"></span> 🤖`; }
@@ -224,6 +224,41 @@ const conEmoji = (texto, partido) => `<span style="display:inline-block;width:22
 function toggle(k){ abiertos.has(k)?abiertos.delete(k):abiertos.add(k); pintar() }
 const sinEmoji = s => String(s||"").replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}\u{FE0F}\u{1F1E6}-\u{1F1FF}\u{E0060}-\u{E007F}]/gu,"").replace(/\s*[—–-]\s*$/,"").replace(/\s+/g," ").trim();
 
+
+/* ---------------- INFO (09/11, Marcos: «una pestaña con información de los partidos que hay») ---------------- */
+function vInfo(){
+  const [dia, t] = subTabs("idia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
+  const L = D.partidos.filter(p => p.fecha.slice(0,10)===dia && !esFinal(p)).sort((a,b)=>a.fecha.localeCompare(b.fecha));
+  if(!L.length) return t + `<div class="empty">No hay partidos ${dia===D.hoy?"hoy":"mañana"}</div>`;
+  const picksDe = id => ((D.dias[dia]||{}).picks||[]).filter(x => String(x.partido_id)===String(id)).sort((a,b)=>(b.pct_real??b.frecuencia??0)-(a.pct_real??a.frecuencia??0));
+  const barra = (pl, pe, pv) => `<div style="display:flex;height:10px;border-radius:99px;overflow:hidden;margin:6px 0 4px"><div style="width:${pl}%;background:var(--ok)"></div><div style="width:${pe}%;background:#64748b"></div><div style="width:${pv}%;background:#60a5fa"></div></div>`;
+  const dato = (n, a, b, suf="") => (a==null&&b==null) ? "" : `<div class="row" style="font-size:14px;padding:5px 0;border-top:1px solid var(--line)"><b style="width:52px">${a!=null?String(a).replace(".",",")+suf:"—"}</b><span class="sp mut" style="text-align:center">${n}</span><b style="width:52px;text-align:right">${b!=null?String(b).replace(".",",")+suf:"—"}</b></div>`;
+  let h = t;
+  let liga = "";
+  for(const p of L){
+    if(p.liga!==liga){ liga = p.liga; h += `<h2>${esc(liga)}</h2>` }
+    const f = p.ficha || {}, l = f.local || {}, v = f.visitante || {}, ml = l.medias||{}, mv = v.medias||{}, cl = l.pct||{}, cv = v.pct||{};
+    const k = "i:"+p.id, ab = abiertos.has(k), b = f.bot_1x2, vivo = esVivo(p);
+    const pk = picksDe(p.id).slice(0,3);
+    h += `<div class="card"><div class="fila" onclick="toggle('${k}')">
+      <span class="hora">${vivo?`<span class="chip live">${p.minuto||""}'</span>`:p.fecha.slice(11,16)}</span>
+      <div class="col sp"><div class="team"><img src="${esc(p.logo_l)}" alt="" style="width:22px;height:22px" loading="lazy"><span>${esc(p.local.replace(/ W$/," (fem.)"))}</span></div>
+      <div class="team" style="margin-top:4px"><img src="${esc(p.logo_v)}" alt="" style="width:22px;height:22px" loading="lazy"><span>${esc(p.visitante.replace(/ W$/," (fem.)"))}</span></div></div>
+      <div class="col" style="align-items:flex-end;gap:4px">${forma(l.forma)}${forma(v.forma)}</div></div>
+      ${b ? `${barra(b.local,b.empate,b.visitante)}<div class="row mut" style="font-size:12px"><span class="sp">Local ${b.local}%</span><span>Empate ${b.empate}%</span><span class="sp" style="text-align:right">Visit. ${b.visitante}%</span></div>` : ""}
+      ${pk.length ? `<div style="margin-top:8px">${pk.map(x=>`<div class="row" style="font-size:14px;padding:3px 0"><span>🍀</span><span class="sp">${esc(x.texto)}</span><span class="cuota" style="font-size:15px">@${n2(x.cuota)}</span></div>`).join("")}</div>` : ""}
+      ${ab ? `<div style="margin-top:10px">
+        <div class="row mut" style="font-size:12px;font-weight:700"><span style="width:52px">LOCAL</span><span class="sp" style="text-align:center">Media por partido</span><span style="width:52px;text-align:right">VISIT.</span></div>
+        ${dato("Goles a favor", ml.gf, mv.gf)}${dato("Goles en contra", ml.gc, mv.gc)}
+        ${dato("Ambos marcan", cl.ambos, cv.ambos, "%")}${dato("Más de 2,5 goles", cl.mas25, cv.mas25, "%")}
+        ${dato("Córners", ml.corners, mv.corners)}${dato("Tiros", ml.tiros, mv.tiros)}${dato("Tarjetas", ml.tarjetas, mv.tarjetas)}
+        ${f.arbitro && f.arbitro.nombre ? `<div class="mut" style="margin-top:8px">🟨 Árbitro: ${esc(f.arbitro.nombre)}${f.arbitro.partidos>=3?` · ${String(f.arbitro.tarjetas).replace(".",",")} tarjetas por partido`:""}</div>` : ""}
+        ${Object.keys(f.bajas_importantes||{}).length ? `<div class="mut" style="margin-top:4px">🚑 Bajas: ${esc(Object.values(f.bajas_importantes).flat().map(x=>x.nombre||x).join(", "))}</div>` : ""}
+      </div>` : `<div class="mut" style="text-align:center;margin-top:6px;font-size:12px">Toca para ver los datos ▾</div>`}
+    </div>`;
+  }
+  return h + `<div class="mut" style="padding:0 4px">Barra: probabilidad según nuestros datos · Cuadros: últimos 5 (G/E/P)</div>`;
+}
 /* ---------------- HOY ---------------- */
 function legs(picks){ return picks.map(p => `<div class="leg"><div class="col sp"><span>${conEmoji(p.texto,p.partido)}</span><span class="mut" style="padding-left:22px">${eqP(p.partido||"")} · ${(p.fecha||"").slice(11)}</span>${progresoPick(p)}</div><span class="cuota">${n2(p.cuota)}</span>${icono(p)}</div>`).join("") }
 function resultadoPost(p){ const okN = p.picks.filter(x=>x.estado==="verde").length;
