@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 13:24",
+ "actualizado": "2026-11-09 13:47",
  "redes": {
   "instagram": {
    "seguidores": 35,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2278,
-   "hoy": 47,
+   "seguidores": 2285,
+   "hoy": 54,
    "serie": [
     1520,
     1638,
@@ -24,7 +24,7 @@
     2004,
     2126,
     2231,
-    2278
+    2285
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 343,
-   "hoy": 12,
+   "seguidores": 344,
+   "hoy": 13,
    "serie": [
     232,
     245,
@@ -50,17 +50,17 @@
     294,
     307,
     331,
-    343
+    344
    ]
   }
  },
- "total": 2657,
- "total_hoy": 59,
+ "total": 2665,
+ "total_hoy": 67,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "16:00",
   "dia": "2026-11-09",
-  "titulo": "Combi del lunes x2,73"
+  "titulo": "La loca del lunes x6,42"
  },
  "ayer": {
   "aciertos": 41,
@@ -174,19 +174,19 @@
   },
   "2026-11-09": {
    "instagram": 35,
-   "threads": 2278,
+   "threads": 2285,
    "facebook": 1,
-   "telegram": 343
+   "telegram": 344
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 6,
+  "Combi loca (reel)": {
+   "posts": 42,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 42,
+  "Escalera (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
