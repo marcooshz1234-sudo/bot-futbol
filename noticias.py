@@ -26,19 +26,20 @@ from bot import DATOS, MADRID, RAIZ, leer
 
 SALIDA = DATOS / "noticias.json"
 AVISADAS = DATOS / "noticias_avisadas.json"
-TIPOS = {   # tipo → palabras (en minúsculas y sin tildes)
-    "baja": r"lesion|lesionad|baja|no viaja|descartad|sancionad|fuera de la convocatoria|no convocad|se pierde|roja directa|operad|rotura",
-    "duda": r"\bduda\b|en duda|entre algodones|no esta al 100|molestias|tocado|ultima hora",
-    "vuelve": r"vuelve|recupera|alta medica|reaparece|ya entrena",
-    "rotaciones": r"rotacion|suplentes|descanso a|reservar|once alternativo|juveniles|canteranos|filial",
-    "campo": r"se jugara en|estadio alternativo|cesped|cambio de estadio|fuera de su campo|campo neutral|puerta cerrada|sin publico",
-    "aplazado": r"aplaza|suspend|nueva fecha",
-    "entrenador": r"destitu|cesad|nuevo entrenador|nuevo tecnico|interino|debut en el banquillo|ultimatum",
-    "crisis": r"huelga|impago|sin cobrar|crisis|concurso de acreedores|venta del club|protesta",
-    "arbitro": r"arbitro|colegiado|designad|var\b",
-    "motivacion": r"derbi|final|clasificad|descendid|se juega la|asciende|liderato|lider",
-    "clima": r"lluvia|temporal|nieve|viento|alerta|calor extremo",
-    "cansancio": r"seleccion|internacional|viaje|vuelo|jet lag|tres partidos en|entre semana",
+TIPOS = {   # tipo → palabras (en minúsculas y sin tildes); \b para no pillar «devuelve» como «vuelve»
+    "baja": r"\blesion|\blesionad|\bbaja\b|\bbajas\b|no viaja|\bdescartad|\bsancionad|fuera de la convocatoria|no convocad|se pierde|roja directa|\boperad|\brotura",
+    "duda": r"\bduda\b|en duda|entre algodones|no esta al 100|\bmolestias|\btocado\b",
+    "vuelve": r"\bvuelve a (jugar|entrenar|la convocatoria|estar)|\brecupera a|alta medica|\breaparece|ya entrena",
+    "rotaciones": r"\brotacion|\bsuplentes\b|once alternativo|\bjuveniles\b|\bcanteranos\b|dosificar|reservar a",
+    "portero": r"\bportero\b|\bguardameta\b|bajo palos",
+    "campo": r"se jugara en|estadio alternativo|\bcesped\b|cambio de estadio|fuera de su campo|campo neutral|puerta cerrada|sin publico",
+    "aplazado": r"\baplaza|\bsuspend|nueva fecha",
+    "entrenador": r"\bdestitu|\bcesad|nuevo entrenador|nuevo tecnico|\binterino\b|debut en el banquillo|\bultimatum",
+    "crisis": r"\bhuelga\b|\bimpago|sin cobrar|concurso de acreedores|venta del club|\bprotesta",
+    "arbitro": r"\barbitro\b|\bcolegiado\b|\bdesignad|\bvar\b",
+    "motivacion": r"\bderbi\b|se juega la|\bascenso\b|\bdescenso\b|\bliderato\b|\bcolista\b",
+    "clima": r"\blluvia\b|\btemporal\b|\bnieve\b|\bviento\b|alerta (naranja|roja|amarilla)",
+    "cansancio": r"convocatoria de la seleccion|\binternacionales\b|\bjet lag|tres partidos en|\bpalizon|\bcansancio",
 }
 HACE = timedelta(hours=36)
 

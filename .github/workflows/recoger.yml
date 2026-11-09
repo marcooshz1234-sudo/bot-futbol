@@ -21,6 +21,8 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python -u bot.py
+      - name: Contexto extra (cansancio, tiempo, árbitro, cuotas, tabla) (09/11)
+        run: python -u contexto_extra.py || echo "contexto_extra falló (no bloquea)"
       - name: Contexto de la Copa (categoría, arranque, campo, aplazamientos) (09/11)
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}

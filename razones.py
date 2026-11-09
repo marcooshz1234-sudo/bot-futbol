@@ -68,6 +68,11 @@ def razones(p, hist, ex=None, maximo=3):
         copa += noticias.razones(p["partido_id"])
     except Exception:
         pass
+    try:   # 09/11: cansancio, tiempo, árbitro, cuota que baja, tabla (contexto_extra.py)
+        import contexto_extra
+        copa += contexto_extra.razones(p["partido_id"], p)
+    except Exception:
+        pass
     pa = (ex or leer(DATOS / "proximos" / f"{p['partido_id']}.json", {}) or {}).get("partido") or {}
     t = pa.get("teams") or {}
     il, iv = (t.get("home") or {}).get("id"), (t.get("away") or {}).get("id")

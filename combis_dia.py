@@ -276,6 +276,24 @@ def pool_partido(ex, hist, ap):
         pool = [p for p in pool if not (p.get("jugador") and noticias.jugador_tocado(pa["fixture"]["id"], p["jugador"]))]
     except Exception as e:
         print("noticias:", e)
+    try:   # 09/11: si un equipo puede rotar (Europa en ≤3 días o noticia de rotaciones), sus «gana» valen un poco menos
+        import contexto_extra
+        import noticias as N
+        cx = (leer(DATOS / "contexto_extra.json", {}) or {}).get(str(pa["fixture"]["id"])) or {}
+        nots = (leer(DATOS / "noticias.json", {}) or {}).get(str(pa["fixture"]["id"])) or []
+        for lado, eq in (("local", loc), ("visitante", vis)):
+            e = cx.get(lado) or {}
+            rota = (e.get("siguiente_europa") and (e.get("dias_hasta") or 9) <= 3) or \
+                any("rotaciones" in (n.get("tipos") or []) and n.get("equipo") == eq["name"] for n in nots)
+            if not rota:
+                continue
+            for p in pool:
+                if p.get("mercado") in ("Match Winner", "Double Chance", "To Win Either Half") and \
+                        str(p.get("opcion", "")).startswith("Home" if lado == "local" else ("Away", "Draw/Away")):
+                    p["prob_aprendida"] = round(p["prob_aprendida"] * 0.95, 3)
+                    p["rotaciones"] = True
+    except Exception as e:
+        print("rotaciones:", e)
     for p in pool:
         ld = P.lado_pick(p) if not p.get("equipo") else ("local" if p["equipo"] == loc["name"] else "visitante")
         p["contexto"] = contexto.de_pick(pos, ld)

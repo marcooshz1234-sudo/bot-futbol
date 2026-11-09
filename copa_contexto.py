@@ -28,7 +28,19 @@ NIVEL = [   # nombre de la liga (API-Football) → categoría
 NOMBRE_NIVEL = {1: "Primera", 2: "Segunda", 3: "Primera Federación", 4: "Segunda Federación", 5: "Tercera Federación"}
 
 
-def nivel(nombre):
+def nivel(nombre, pais="Spain", femenino=False):
+    """09/11: con el mapa de categorías (ligas.py / datos/ligas_mapa.json)."""
+    try:
+        import ligas
+        c = ligas.categoria(nombre, pais, femenino)
+        if c:
+            return c["nivel"]
+    except Exception:
+        pass
+    return nivel_viejo(nombre)
+
+
+def nivel_viejo(nombre):
     # 09/11: de más largo a más corto («Segunda División RFEF» no es «Segunda División»)
     for n, v in sorted(NIVEL, key=lambda x: -len(x[0])):
         if nombre.lower().startswith(n.lower()):

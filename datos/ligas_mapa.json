@@ -1,0 +1,84 @@
+{
+ "nota": "09/11 (Marcos): el mapa de categorías para que el bot sepa qué liga es mejor o peor. nivel 1 = la mejor de su país. «patrones»: cómo se llaman en API-Football (empieza por). «fuerza»: nivel aproximado comparando países (1 = élite europea, más alto = más flojo), para cruces entre países (Champions, amistosos).",
+ "paises": {
+  "Spain": [
+   {"nivel": 1, "nombre": "Primera (LaLiga EA Sports)", "patrones": ["La Liga"], "equipos": 20, "grupos": 1, "fuerza": 1},
+   {"nivel": 2, "nombre": "Segunda (LaLiga Hypermotion)", "patrones": ["Segunda División"], "equipos": 22, "grupos": 1, "fuerza": 3},
+   {"nivel": 3, "nombre": "Primera Federación", "patrones": ["Primera División RFEF", "Primera RFEF", "Primera Federación"], "equipos": 40, "grupos": 2, "fuerza": 5},
+   {"nivel": 4, "nombre": "Segunda Federación", "patrones": ["Segunda División RFEF", "Segunda RFEF", "Segunda Federación"], "equipos": 90, "grupos": 5, "fuerza": 6},
+   {"nivel": 5, "nombre": "Tercera Federación", "patrones": ["Tercera División RFEF", "Tercera RFEF", "Tercera Federación", "Tercera División"], "equipos": 324, "grupos": 18, "fuerza": 7},
+   {"nivel": 6, "nombre": "Regional (Preferente y otras)", "patrones": ["Preferente", "Regional", "Divisiones Regionales"], "fuerza": 8}
+  ],
+  "Spain (femenino)": [
+   {"nivel": 1, "nombre": "Liga F", "patrones": ["Primera División Femenina", "Liga F"], "equipos": 16, "fuerza": 2},
+   {"nivel": 2, "nombre": "Primera Federación femenina", "patrones": ["Primera Federación Femenina", "Segunda División Femenina", "Liga F Moeve"], "fuerza": 4},
+   {"nivel": 3, "nombre": "Segunda Federación femenina", "patrones": ["Segunda Federación Femenina"], "fuerza": 5},
+   {"nivel": 4, "nombre": "Tercera Federación femenina", "patrones": ["Tercera Federación Femenina"], "fuerza": 6}
+  ],
+  "England": [
+   {"nivel": 1, "nombre": "Premier League", "patrones": ["Premier League"], "fuerza": 1},
+   {"nivel": 2, "nombre": "Championship", "patrones": ["Championship"], "fuerza": 3},
+   {"nivel": 3, "nombre": "League One", "patrones": ["League One"], "fuerza": 4},
+   {"nivel": 4, "nombre": "League Two", "patrones": ["League Two"], "fuerza": 5},
+   {"nivel": 5, "nombre": "National League", "patrones": ["National League"], "fuerza": 6}
+  ],
+  "Italy": [
+   {"nivel": 1, "nombre": "Serie A", "patrones": ["Serie A"], "fuerza": 1},
+   {"nivel": 2, "nombre": "Serie B", "patrones": ["Serie B"], "fuerza": 3},
+   {"nivel": 3, "nombre": "Serie C", "patrones": ["Serie C"], "fuerza": 5},
+   {"nivel": 4, "nombre": "Serie D", "patrones": ["Serie D"], "fuerza": 6}
+  ],
+  "Germany": [
+   {"nivel": 1, "nombre": "Bundesliga", "patrones": ["Bundesliga"], "fuerza": 1},
+   {"nivel": 2, "nombre": "2. Bundesliga", "patrones": ["2. Bundesliga"], "fuerza": 3},
+   {"nivel": 3, "nombre": "3. Liga", "patrones": ["3. Liga"], "fuerza": 4},
+   {"nivel": 4, "nombre": "Regionalliga", "patrones": ["Regionalliga"], "fuerza": 6}
+  ],
+  "France": [
+   {"nivel": 1, "nombre": "Ligue 1", "patrones": ["Ligue 1"], "fuerza": 2},
+   {"nivel": 2, "nombre": "Ligue 2", "patrones": ["Ligue 2"], "fuerza": 4},
+   {"nivel": 3, "nombre": "National", "patrones": ["National 1", "National"], "fuerza": 5},
+   {"nivel": 4, "nombre": "National 2", "patrones": ["National 2"], "fuerza": 6}
+  ],
+  "Portugal": [
+   {"nivel": 1, "nombre": "Liga Portugal (Primeira Liga)", "patrones": ["Primeira Liga"], "fuerza": 2},
+   {"nivel": 2, "nombre": "Liga Portugal 2 (Segunda Liga)", "patrones": ["Segunda Liga", "Liga Portugal 2"], "fuerza": 4},
+   {"nivel": 3, "nombre": "Liga 3", "patrones": ["Liga 3"], "fuerza": 5}
+  ],
+  "Netherlands": [
+   {"nivel": 1, "nombre": "Eredivisie", "patrones": ["Eredivisie"], "fuerza": 2},
+   {"nivel": 2, "nombre": "Eerste Divisie", "patrones": ["Eerste Divisie"], "fuerza": 4}
+  ],
+  "Belgium": [
+   {"nivel": 1, "nombre": "Jupiler Pro League", "patrones": ["Jupiler Pro League", "First Division A"], "fuerza": 3},
+   {"nivel": 2, "nombre": "Challenger Pro League", "patrones": ["Challenger Pro League", "First Division B"], "fuerza": 5}
+  ],
+  "Turkey": [
+   {"nivel": 1, "nombre": "Süper Lig", "patrones": ["Süper Lig"], "fuerza": 3},
+   {"nivel": 2, "nombre": "1. Lig", "patrones": ["1. Lig"], "fuerza": 5}
+  ],
+  "Scotland": [
+   {"nivel": 1, "nombre": "Premiership", "patrones": ["Premiership"], "fuerza": 4},
+   {"nivel": 2, "nombre": "Championship", "patrones": ["Championship"], "fuerza": 6}
+  ],
+  "Denmark": [
+   {"nivel": 1, "nombre": "Superliga", "patrones": ["Superliga"], "fuerza": 4},
+   {"nivel": 2, "nombre": "1. Division", "patrones": ["1. Division"], "fuerza": 6}
+  ],
+  "Romania": [
+   {"nivel": 1, "nombre": "Liga I", "patrones": ["Liga I"], "fuerza": 5},
+   {"nivel": 2, "nombre": "Liga II", "patrones": ["Liga II"], "fuerza": 6}
+  ]
+ },
+ "europa": [
+  {"nivel": 1, "nombre": "Champions League", "patrones": ["UEFA Champions League"]},
+  {"nivel": 2, "nombre": "Europa League", "patrones": ["UEFA Europa League"]},
+  {"nivel": 3, "nombre": "Conference League", "patrones": ["UEFA Europa Conference League", "UEFA Conference League"]}
+ ],
+ "copas_espana": [
+  {"nombre": "Copa del Rey", "quien": "Primera, Segunda, Primera Federación, Segunda Federación, campeones de Tercera y algún regional", "nota": "eliminatoria a partido único; el de menos categoría juega en casa"},
+  {"nombre": "Supercopa de España", "quien": "4 equipos de Primera"},
+  {"nombre": "Copa Federación (Copa RFEF)", "quien": "Primera, Segunda y Tercera Federación"},
+  {"nombre": "Copa de la Reina", "quien": "femenino"}
+ ]
+}
