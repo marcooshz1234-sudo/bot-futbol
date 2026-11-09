@@ -1,7 +1,7 @@
 # Deportivo Alavés W – Eibar W
 **Liga F** · Regular Season - 11 · 14/11/2026 18:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -95,6 +95,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,77 · visitante 0,77._
+_Goles esperados: local 0,78 · visitante 0,77._
 
 _Sin cuotas de Bet365 todavía para comparar._

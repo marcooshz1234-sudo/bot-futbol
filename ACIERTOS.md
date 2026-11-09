@@ -1,6 +1,6 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 563 · aciertos: 350 (62%) · beneficio a 1 € por pick: -68.02 €
+Picks ya jugados: 564 · aciertos: 351 (62%) · beneficio a 1 € por pick: -67.77 €
 
 ## Por tipo
 
@@ -8,7 +8,7 @@ Picks ya jugados: 563 · aciertos: 350 (62%) · beneficio a 1 € por pick: -68.
 |---|---|---|---|---|
 | jugador | 125 | 195 | 64% | -22.68 € |
 | goles | 139 | 217 | 64% | -24.93 € |
-| resultado | 64 | 102 | 63% | -7.50 € |
+| resultado | 65 | 103 | 63% | -7.25 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 3 | 13 | 23% | -8.14 € |
@@ -24,9 +24,9 @@ Picks ya jugados: 563 · aciertos: 350 (62%) · beneficio a 1 € por pick: -68.
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
 | Match Winner · Home | 7 | 9 | 78% |
 | Goals Over/Under · Over 1.5 | 31 | 40 | 78% |
+| Double Chance · Home/Draw | 9 | 12 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
-| Double Chance · Home/Draw | 8 | 11 | 73% |
 | Match Winner · Away | 8 | 11 | 73% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
@@ -51,6 +51,9 @@ Picks ya jugados: 563 · aciertos: 350 (62%) · beneficio a 1 € por pick: -68.
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-09 · 1/1
+- ✅ Hvidovre o empate · 1.25 (3-0)
 
 ### 2026-11-08 · 41/57
 - ✅ Heerenveen hace más de 3,5 córners · 1.62 (5-3)
@@ -265,22 +268,4 @@ Picks ya jugados: 563 · aciertos: 350 (62%) · beneficio a 1 € por pick: -68.
 - ❌ Givairo Read comete 1+ faltas · 1.50 (0-3)
 - ✅ Andreas Helmersen comete 2+ faltas · 1.67 (0-0)
 - ❌ Birmingham ve más de 1,5 tarjetas · 1.80 (3-0)
-
-### 2026-11-02 · 15/16
-- ✅ Gol en la 1ª parte del Oviedo–Las Palmas · 1.36 (2-3)
-- ✅ Ambos marcan en Sassuolo–Fiorentina · 1.53 (2-4)
-- ✅ Más de 2,5 goles en Sassuolo–Fiorentina · 1.62 (2-4)
-- ✅ Gol en la 2ª parte del Valladolid–Leganes · 1.28 (4-3)
-- ✅ Fiorentina marca · 1.25 (2-4)
-- ✅ Sassuolo marca · 1.25 (2-4)
-- ✅ Radu Dragusin comete 1+ faltas · 1.40 (2-4)
-- ✅ Fiorentina hace más tiros · 1.80 (2-4)
-- ✅ Pathe Mboup: 2+ tiros · 1.30 (0-2)
-- ❌ Lorient o empate · 1.36 (0-2)
-- ✅ Más de 1,5 goles en Atalanta–Parma · 1.25 (0-3)
-- ✅ Más de 1,5 goles en Deportivo La Coruna–Osasuna · 1.40 (2-1)
-- ✅ Antonito Cordero: 1+ tiros · 1.25 (2-1)
-- ✅ Gol en la 2ª parte del Deportivo La Coruna–Osasuna · 1.30 (2-1)
-- ✅ Thierno Barry: 2+ tiros · 1.25 (0-1)
-- ✅ Osasuna marca · 1.50 (2-1)
 

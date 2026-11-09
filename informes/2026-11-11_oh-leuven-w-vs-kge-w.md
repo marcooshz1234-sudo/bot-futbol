@@ -1,7 +1,7 @@
 # OH Leuven W – Køge W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Gemeentelijk Sportstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 19:59_
@@ -140,23 +140,23 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,11 · visitante 1,40 · córners esperados 8,9._
+_Goles esperados: local 1,11 · visitante 1,39 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 44% | 58% | 51% | 1.62 | -18% |
+| 1X2: 2 | 43% | 58% | 51% | 1.62 | -18% |
 | 1X2: X | 27% | 22% | 24% | 4.33 | +5% |
 | 1X2: 1 | 30% | 20% | 25% | 4.75 | +18% |
 | Doble oportunidad: X2 | 70% | 80% | 75% | 1.17 | -12% |
 | Doble oportunidad: 12 | 73% | 78% | 76% | 1.20 | -9% |
-| Doble oportunidad: 1X | 56% | 42% | 49% | 2.20 | +9% |
+| Doble oportunidad: 1X | 57% | 42% | 49% | 2.20 | +9% |
 | Ambos marcan: No | 50% | 42% | 46% | 2.20 | +1% |
 | Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
 | Goles más/menos: Más de 1.5 | 71% | 79% | 75% | 1.17 | -12% |
 | Goles más/menos: Más de 2.5 | 46% | 60% | 53% | 1.57 | -17% |
-| Goles más/menos: Más de 3.5 | 24% | 39% | 32% | 2.38 | -24% |
+| Goles más/menos: Más de 3.5 | 24% | 39% | 32% | 2.38 | -25% |
 | Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -29% |
 | Goles más/menos: Menos de 1.5 | 29% | 21% | 25% | 4.50 | +11% |
 | Goles más/menos: Menos de 2.5 | 54% | 40% | 47% | 2.35 | +11% |

@@ -1,13 +1,7 @@
 # Próximos partidos
 
-_Actualizado el 09/11/2026 20:00 (hora España). Partidos guardados en la base de datos: 2544._
+_Actualizado el 09/11/2026 21:30 (hora España). Partidos guardados en la base de datos: 2547._
 
-
-## Lunes 09/11
-- 20:30 · Segunda División · [Las Palmas – Eldense](informes/2026-11-09_las-palmas-vs-eldense.md) · 1X2: 2.00 / 3.50 / 3.60
-- 20:30 · Segunda División · [Sabadell – Real Sociedad II](informes/2026-11-09_sabadell-vs-real-sociedad-ii.md) · 1X2: 1.73 / 3.60 / 4.50
-- 21:00 · Liga F · [Deportivo de La Coruña W – Valencia W](informes/2026-11-09_deportivo-de-la-coruna-w-vs-valencia-w.md) · 1X2: 1.50 / 3.75 / 5.50
-- 21:15 · Segunda Liga · [Torreense – União de Leiria](informes/2026-11-09_torreense-vs-uniao-de-leiria.md) · 1X2: 1.90 / 3.40 / 3.75
 
 ## Martes 10/11
 - 18:45 · Champions Femenina · [Real Madrid W – Paris FC W](informes/2026-11-10_real-madrid-w-vs-paris-fc-w.md) · 1X2: 1.40 / 5.00 / 6.50
@@ -34,8 +28,8 @@ _Actualizado el 09/11/2026 20:00 (hora España). Partidos guardados en la base d
 - 19:00 · Copa del Rey · [Tarancón – Levante](informes/2026-11-12_tarancon-vs-levante.md)
 - 20:45 · Nations League · [England – Croatia](informes/2026-11-12_england-vs-croatia.md) · 1X2: 1.25 / 7.00 / 8.50
 - 20:45 · Nations League · [Italy – France](informes/2026-11-12_italy-vs-france.md) · 1X2: 3.80 / 3.80 / 1.83
-- 20:45 · Nations League · [Czechia – Spain](informes/2026-11-12_czechia-vs-spain.md) · 1X2: 15.00 / 7.50 / 1.17
-- 20:45 · Nations League · [Albania – Finland](informes/2026-11-12_albania-vs-finland.md) · 1X2: 1.95 / 3.20 / 3.90
+- 20:45 · Nations League · [Czechia – Spain](informes/2026-11-12_czechia-vs-spain.md) · 1X2: 17.00 / 9.00 / 1.12
+- 20:45 · Nations League · [Albania – Finland](informes/2026-11-12_albania-vs-finland.md) · 1X2: 1.80 / 3.30 / 4.33
 - 20:45 · Nations League · [Montenegro – Latvia](informes/2026-11-12_montenegro-vs-latvia.md) · 1X2: 1.33 / 4.50 / 8.00
 - 20:45 · Nations League · [San Marino – Belarus](informes/2026-11-12_san-marino-vs-belarus.md) · 1X2: 15.00 / 8.50 / 1.12
 
@@ -117,3 +111,13 @@ _Actualizado el 09/11/2026 20:00 (hora España). Partidos guardados en la base d
 - 20:45 · Nations League · [Gibraltar – Malta](informes/2026-11-16_gibraltar-vs-malta.md)
 - 20:45 · Nations League · [FYR Macedonia – Slovenia](informes/2026-11-16_fyr-macedonia-vs-slovenia.md)
 - 20:45 · Nations League · [Greece – Serbia](informes/2026-11-16_greece-vs-serbia.md)
+
+## Martes 17/11
+- 20:45 · Nations League · [Denmark – Norway](informes/2026-11-17_denmark-vs-norway.md)
+- 20:45 · Nations League · [Poland – Sweden](informes/2026-11-17_poland-vs-sweden.md)
+- 20:45 · Nations League · [Wales – Portugal](informes/2026-11-17_wales-vs-portugal.md)
+- 20:45 · Nations League · [Hungary – Northern Ireland](informes/2026-11-17_hungary-vs-northern-ireland.md)
+- 20:45 · Nations League · [Ukraine – Georgia](informes/2026-11-17_ukraine-vs-georgia.md)
+- 20:45 · Nations League · [Rep. Of Ireland – Kosovo](informes/2026-11-17_rep-of-ireland-vs-kosovo.md)
+- 20:45 · Nations League · [Bosnia & Herzegovina – Romania](informes/2026-11-17_bosnia-herzegovina-vs-romania.md)
+- 20:45 · Nations League · [Israel – Austria](informes/2026-11-17_israel-vs-austria.md)

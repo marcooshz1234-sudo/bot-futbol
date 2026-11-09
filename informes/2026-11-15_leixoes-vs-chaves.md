@@ -1,7 +1,7 @@
 # Leixoes – Chaves
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 20:00._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -114,6 +114,6 @@ _Sin bajas comunicadas por ahora._
 | Kiko Pereira | D | 1 | 10 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,13 · visitante 1,49 · córners esperados 9,1._
+_Goles esperados: local 2,13 · visitante 1,48 · córners esperados 9,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

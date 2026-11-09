@@ -12702,7 +12702,8 @@
   "movimiento": null,
   "ventaja": 0.1,
   "prob_aprendida": 0.837,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1573636|Goals Over/Under|Over 1.5": {
   "partido_id": 1573636,
