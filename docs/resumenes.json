@@ -1484,14 +1484,14 @@
   },
   "2026-11-09": {
     "dia": "2026-11-09",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -1505,13 +1505,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀",
         "estado": "pendiente",
         "cuota": 2.73
+      },
+      {
+        "id": "2026-11-09-combi-loca",
+        "titulo": "🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪",
+        "estado": "pendiente",
+        "cuota": 6.58
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 5
+      "total": 8
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73 · pendiente\n⏳ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
