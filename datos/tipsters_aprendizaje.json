@@ -1,0 +1,173 @@
+{
+ "tipster": {
+  "TipsAnalistas": {
+   "n": 5,
+   "verdes": 3,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Tipster Pérez": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.5
+  }
+ },
+ "mercado": {
+  "Double Chance Draw/Away": {
+   "n": 2,
+   "verdes": 2,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Double Chance Home/Draw": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Match Winner Away": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Asian Handicap Home -0.25": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.5
+  }
+ },
+ "equipo": {
+  "Real Betis": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Celta Vigo": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Atletico Madrid": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Almeria": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Real Jaén": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Sabadell": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.5
+  }
+ },
+ "razon": {
+  "casa/fuera": {
+   "n": 5,
+   "verdes": 2,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -0.5
+  },
+  "clasificación": {
+   "n": 4,
+   "verdes": 2,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -0.5
+  },
+  "racha": {
+   "n": 4,
+   "verdes": 1,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -0.5
+  },
+  "motivación": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "bajas": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "sin razón": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "categoría": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "goles": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.5
+  }
+ },
+ "cuota": {
+  "?": {
+   "n": 4,
+   "verdes": 3,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "1,80-2,20": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "1,50-1,80": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.5
+  }
+ }
+}

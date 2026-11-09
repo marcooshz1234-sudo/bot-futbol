@@ -291,6 +291,10 @@ def texto_seguro(p, dia=""):
             import razones as R
             from picks import historial
             motivos = R.razones(p, historial())
+            if p.get("tipster") and len(motivos) < 2:   # 09/11: pick de los tipsters: los datos que dan ellos (hechos)
+                import tipsters
+                tk = next((x for x in tipsters.picks_del_dia(dia) if x["partido_id"] == p["partido_id"]), {})
+                motivos = (motivos + list(tk.get("argumento") or []))[:3]
         except Exception as e:
             print("razones:", str(e)[:120])
             motivos = []

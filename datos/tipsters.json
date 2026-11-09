@@ -1,0 +1,119 @@
+[
+ {
+  "tipster": "TipsAnalistas",
+  "dia": "2026-11-08",
+  "local": "Elche",
+  "visitante": "Real Betis",
+  "texto": "Betis o empate",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": null,
+  "argumento": [
+   "Elche peor local de Primera: 1 punto de 15 en casa, sin Lemar ni Aguado",
+   "Betis 4º y solo 3 derrotas en el año"
+  ],
+  "partido_id": 1570445,
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "dia": "2026-11-08",
+  "local": "Celta Vigo",
+  "visitante": "Levante",
+  "texto": "Celta o empate",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "cuota": null,
+  "argumento": [
+   "Levante 18º y solo 2 victorias en Liga",
+   "Celta en casa solo ha perdido 3 de 11"
+  ],
+  "partido_id": 1570444,
+  "estado": "verde",
+  "marcador": [
+   0,
+   0
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "dia": "2026-11-08",
+  "local": "Atletico Madrid",
+  "visitante": "Barcelona",
+  "texto": "Atlético o empate",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "cuota": null,
+  "argumento": [
+   "Atlético 8 victorias seguidas en Liga y muy fuerte en casa",
+   "Al Barça le faltan varios (bajas) y De Jong no está al 100",
+   "Si gana se pone líder antes del parón"
+  ],
+  "partido_id": 1570443,
+  "estado": "rojo",
+  "marcador": [
+   1,
+   2
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "dia": "2026-11-08",
+  "local": "Girona",
+  "visitante": "Almeria",
+  "texto": "Almería o empate",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": null,
+  "argumento": [],
+  "partido_id": 1570009,
+  "estado": "verde",
+  "marcador": [
+   0,
+   1
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "dia": "2026-11-10",
+  "local": "Mijas Las Lagunas",
+  "visitante": "Real Jaén",
+  "texto": "Gana el Real Jaén",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.96,
+  "argumento": [
+   "Dos categorías de diferencia: Jaén en Primera Federación, Mijas en Tercera",
+   "Gran arranque del Jaén como recién ascendido",
+   "El Mijas no juega en su campo (aplazado dos veces): pierde la ventaja de casa",
+   "Primera vez del Mijas en Copa del Rey"
+  ],
+  "partido_id": 1644362
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "dia": "2026-11-09",
+  "local": "Sabadell",
+  "visitante": "Real Sociedad II",
+  "texto": "Sabadell hándicap asiático 0/-0,5",
+  "mercado": "Asian Handicap",
+  "opcion": "Home -0.25",
+  "cuota": 1.525,
+  "argumento": [
+   "Sabadell invicto en casa (3V 2E)",
+   "Real Sociedad B ha perdido 6 de sus últimos 7 de Liga y encaja mucho (22 en 12)",
+   "Sabadell sólido en defensa (11 encajados)",
+   "Sabadell mitad de tabla, filial abajo"
+  ],
+  "partido_id": 1570013,
+  "estado": "medio_rojo",
+  "marcador": [
+   0,
+   0
+  ]
+ }
+]

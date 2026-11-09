@@ -17,7 +17,7 @@ import itertools
 import math
 from datetime import datetime, timedelta
 
-from bot import EXTRA, MADRID, leer
+from bot import DATOS, EXTRA, MADRID, leer
 
 CUOTA_MIN_PATA = 1.25
 SIN_EN_ESCUDOS = ("corners", "tarjetas")   # 01/11: córners 43 % y tarjetas 36 % en octubre
@@ -1079,6 +1079,15 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             mas.sort(key=lambda p: -p["prob_aprendida"])
             r = mejor_combi(mas, (cfg["patas"][0], cfg["patas"][1] + 1), (cfg["cuota"][0] * 0.85, cfg["cuota"][1]),
                             una_por_partido=True, por_partido=cfg.get("por_partido", 1), min_jugadores=0)
+        if r and clave == "tres" and dia >= SEGURO_DESDE:   # 09/11 (Marcos): uno de los tipsters en la combi del día
+            ya = {(p["partido_id"], p["mercado"], p["opcion"]) for p in r[1]}
+            seg = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
+            ya |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in seg}
+            tk = pick_de_tipster(pools, dia, hora, usados=ya)
+            if tk and tk["partido_id"] not in {p["partido_id"] for p in r[1]}:
+                patas = sorted(r[1] + [tk], key=lambda p: p.get("fecha", ""))
+                import math
+                r = (r[0], patas, round(math.prod(p["cuota"] for p in patas), 2))
         res[clave] = (r[1], r[2], hora) if r else None
         if r:
             usos.update(sel(p) for p in r[1])
@@ -1299,6 +1308,42 @@ SEGURO_DESDE = "2026-11-10"
 SEGURO_NUEVO = {"cuota": (1.50, 1.70), "hora2": (18, 0)}
 
 
+def pick_de_tipster(pools, dia, hora, otro=None, usados=()):
+    """09/11: un pick de los tipsters que sigue Marcos (tipsters.py), como pick nuestro: con la cuota de bet365 si
+    lo tenemos en el pool; si el modelo lo ve claramente peor que su cuota (8 puntos), no."""
+    try:
+        import tipsters
+        lista = tipsters.picks_del_dia(dia)
+    except Exception as e:
+        print("tipsters:", e)
+        return None
+    por_sel = {(p["partido_id"], p["mercado"], p["opcion"]): p for pool in pools for p in pool}
+    for tk in lista:
+        if tk["partido_id"] == otro or (tk["partido_id"], tk.get("mercado"), tk.get("opcion")) in usados:
+            continue
+        p = por_sel.get((tk["partido_id"], tk.get("mercado"), tk.get("opcion")))
+        if p:
+            if p.get("prob_aprendida") and p["prob_aprendida"] < 1 / p["cuota"] - 0.08:
+                print(f"tipsters: {tk['texto']} no (el modelo lo ve al {p['prob_aprendida']:.0%})")
+                continue
+            p = dict(p)
+        else:
+            fx = next((f for c in DATOS.glob("calendario_*.json") for f in (leer(c, []) or [])
+                       if f["fixture"]["id"] == tk["partido_id"]), None)
+            if not fx:
+                continue
+            p = {"partido_id": tk["partido_id"], "liga_id": fx["league"]["id"], "competicion": fx["league"]["name"],
+                 "fecha": datetime.fromisoformat(fx["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
+                 "local": fx["teams"]["home"]["name"], "visitante": fx["teams"]["away"]["name"],
+                 "mercado": tk.get("mercado"), "opcion": tk.get("opcion"), "tipo": "resultado",
+                 "texto": tk["texto"], "cuota": tk["cuota"], "prob_aprendida": 0.66}
+        if datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=45):
+            continue
+        p["tipster"] = tk["tipster"]
+        return p
+    return None
+
+
 def pick_seguro(pools, dia, segundo=False):
     """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
     jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo.
@@ -1311,6 +1356,10 @@ def pick_seguro(pools, dia, segundo=False):
             hh, mm = SEGURO_NUEVO["hora2"]
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     otro = segundo["partido_id"] if segundo else None
+    if dia >= SEGURO_DESDE:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
+        t = pick_de_tipster(pools, dia, hora, otro)
+        if t:
+            return t, hora
     cand = [p for pool in pools for p in pool
             if lo <= p["cuota"] <= hi and p["partido_id"] != otro and familia(p).split("-")[0] in SEGURO["familias"]
             and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada") and fijisimo(p)
