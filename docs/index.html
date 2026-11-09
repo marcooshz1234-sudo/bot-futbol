@@ -238,7 +238,7 @@ function pickDelDia(dia){
     const ls = textoLimpio(p.texto || ((D.publicados||[]).find(x=>x.id===p.id)||{}).texto);
     const pick = ls.find(l => /^🍀/.test(l)) || (p.picks&&p.picks[0] ? "🍀 "+p.picks[0].texto+" @"+n2(p.cuota) : "");
     const stake = ls.find(l => /^🧠/.test(l)) || "";
-    const args = ls.filter(l => /^•/.test(l));
+    const args = ls.filter(l => /^•|^👨‍💻/.test(l) && !/Argumento:?$/.test(l));
     const partido = ls.find(l => / – /.test(l) && !/^🍀/.test(l)) || (p.picks&&p.picks[0]?p.picks[0].partido:"");
     const est = publicado && p.estado==="verde" ? `<span class="chip ok" style="font-size:14px">✅ Acertado</span>` : publicado && p.estado==="rojo" ? `<span class="chip ko" style="font-size:14px">❌ Fallado</span>` : publicado ? `<span class="chip warn">⏳ En juego</span>` : `<span class="chip">Sale a las ${p.fecha.slice(11,16)}</span>`;
     return `<div class="prox" style="cursor:default"><div class="row"><div class="t sp">🔒 Pick del día</div>${est}</div>

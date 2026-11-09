@@ -302,7 +302,7 @@ def texto_seguro(p, dia=""):
                   f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}", "",
                   f"🍀 {con_equipo(p)} @{num(p['cuota'])}", f"🧠 Stake {stake(p)}/10"]
         if motivos:
-            lineas += ["", "👨‍💻 Argumento:"] + [f"• {m}" for m in motivos]
+            lineas += [""] + [f"👨‍💻 {m}" for m in motivos]   # 09/11 (Marcos): sin la palabra «Argumento»
         if v + r:
             roi = 100 * gan / (10 * (v + r))
             lineas += ["", f"📊 Historial: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
