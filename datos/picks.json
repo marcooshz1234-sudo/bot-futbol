@@ -1,10 +1,149 @@
 {
- "generado": "2026-11-09 08:33",
+ "generado": "2026-11-09 13:09",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
   "frecuencia_equipo_min": 0.7,
   "ultimos_partidos": 10
  },
- "dias": {}
+ "dias": {
+  "2026-11-09": {
+   "picks": [
+    {
+     "partido_id": 1551374,
+     "fecha": "2026-11-09T19:00",
+     "competicion": "1. Division",
+     "liga_id": 120,
+     "local": "Hvidovre",
+     "visitante": "Aarhus Fremad",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Hvidovre o empate",
+     "cuota": 1.25,
+     "frecuencia": 0.9,
+     "ventaja": 0.1,
+     "detalle": "Hvidovre 10/10 · Aarhus Fremad 8/10",
+     "valor_mercado": 0.0,
+     "arbitro": "J. Kobberrod",
+     "arbitro_tarjetas": 0.0,
+     "prob_aprendida": 0.837
+    },
+    {
+     "partido_id": 1573636,
+     "fecha": "2026-11-09T21:00",
+     "competicion": "Liga F",
+     "liga_id": 142,
+     "local": "Deportivo de La Coruña W",
+     "visitante": "Valencia W",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Deportivo de La Coruña W–Valencia W",
+     "cuota": 1.33,
+     "frecuencia": 0.778,
+     "ventaja": 0.026,
+     "detalle": "Deportivo de La Coruña W 7/9 · Valencia W 7/9",
+     "valor_mercado": 0.0,
+     "arbitro": "A. Acevedo",
+     "arbitro_tarjetas": 0.0,
+     "prob_aprendida": 0.809
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1551374,
+     "fecha": "2026-11-09T19:00",
+     "competicion": "1. Division",
+     "liga_id": 120,
+     "local": "Hvidovre",
+     "visitante": "Aarhus Fremad",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Hvidovre o empate",
+     "cuota": 1.25,
+     "frecuencia": 0.9,
+     "ventaja": 0.1,
+     "detalle": "Hvidovre 10/10 · Aarhus Fremad 8/10",
+     "valor_mercado": 0.0,
+     "arbitro": "J. Kobberrod",
+     "arbitro_tarjetas": 0.0,
+     "prob_aprendida": 0.837
+    },
+    {
+     "partido_id": 1573636,
+     "fecha": "2026-11-09T21:00",
+     "competicion": "Liga F",
+     "liga_id": 142,
+     "local": "Deportivo de La Coruña W",
+     "visitante": "Valencia W",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Deportivo de La Coruña W–Valencia W",
+     "cuota": 1.33,
+     "frecuencia": 0.778,
+     "ventaja": 0.026,
+     "detalle": "Deportivo de La Coruña W 7/9 · Valencia W 7/9",
+     "valor_mercado": 0.0,
+     "arbitro": "A. Acevedo",
+     "arbitro_tarjetas": 0.0,
+     "prob_aprendida": 0.809
+    }
+   ],
+   "combis": {
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1551374,
+       "fecha": "2026-11-09T19:00",
+       "competicion": "1. Division",
+       "liga_id": 120,
+       "local": "Hvidovre",
+       "visitante": "Aarhus Fremad",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Hvidovre o empate",
+       "cuota": 1.25,
+       "frecuencia": 0.9,
+       "ventaja": 0.1,
+       "detalle": "Hvidovre 10/10 · Aarhus Fremad 8/10",
+       "valor_mercado": 0.0,
+       "arbitro": "J. Kobberrod",
+       "arbitro_tarjetas": 0.0,
+       "prob_aprendida": 0.837
+      },
+      {
+       "partido_id": 1573636,
+       "fecha": "2026-11-09T21:00",
+       "competicion": "Liga F",
+       "liga_id": 142,
+       "local": "Deportivo de La Coruña W",
+       "visitante": "Valencia W",
+       "mercado": "Goals Over/Under",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en Deportivo de La Coruña W–Valencia W",
+       "cuota": 1.33,
+       "frecuencia": 0.778,
+       "ventaja": 0.026,
+       "detalle": "Deportivo de La Coruña W 7/9 · Valencia W 7/9",
+       "valor_mercado": 0.0,
+       "arbitro": "A. Acevedo",
+       "arbitro_tarjetas": 0.0,
+       "prob_aprendida": 0.809
+      }
+     ],
+     "cuota": 1.66
+    },
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  }
+ }
 }

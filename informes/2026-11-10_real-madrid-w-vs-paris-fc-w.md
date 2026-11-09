@@ -1,7 +1,7 @@
 # Real Madrid W – Paris FC W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 08:32_
@@ -56,21 +56,21 @@ _Actualizadas: 09/11 08:32_
 ## Estadísticas de equipo
 | | Real Madrid W (total) | Real Madrid W en casa | Paris FC W (total) | Paris FC W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 5 | 2 | 3 | 1 |
-| Forma (últimos 5) | EEEVV | EV | EED | D |
-| Balance | 2V 3E 0D | 1V 1E 0D | 0V 2E 1D | 0V 0E 1D |
-| Goles a favor / partido | 1,60 | 1,50 | 1,67 | 2,00 |
-| Goles en contra / partido | 1,00 | 1,00 | 2,67 | 5,00 |
-| Goles a favor 1ª parte | 1,00 | 0,50 | 0,67 | 1,00 |
-| Goles a favor 2ª parte | 0,60 | 1,00 | 1,00 | 1,00 |
-| Goles en contra 1ª parte | 0,20 | 0,00 | 1,67 | 4,00 |
-| Goles en contra 2ª parte | 0,80 | 1,00 | 1,00 | 1,00 |
-| Más de 1,5 goles | 100% | 100% | 100% | 100% |
-| Más de 2,5 goles | 40% | 50% | 67% | 100% |
-| Más de 3,5 goles | 20% | 0% | 67% | 100% |
-| Ambos marcan | 80% | 100% | 100% | 100% |
-| Portería a cero | 20% | 0% | 0% | 0% |
-| Se queda sin marcar | 0% | 0% | 0% | 0% |
+| Partidos analizados | 15 | 7 | 3 | 1 |
+| Forma (últimos 5) | EVEVV | VVEVE | EED | D |
+| Balance | 9V 5E 1D | 5V 2E 0D | 0V 2E 1D | 0V 0E 1D |
+| Goles a favor / partido | 2,07 | 2,14 | 1,67 | 2,00 |
+| Goles en contra / partido | 1,53 | 1,14 | 2,67 | 5,00 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,67 | 1,00 |
+| Goles a favor 2ª parte | 1,07 | 1,14 | 1,00 | 1,00 |
+| Goles en contra 1ª parte | 0,73 | 0,43 | 1,67 | 4,00 |
+| Goles en contra 2ª parte | 0,80 | 0,71 | 1,00 | 1,00 |
+| Más de 1,5 goles | 93% | 86% | 100% | 100% |
+| Más de 2,5 goles | 60% | 71% | 67% | 100% |
+| Más de 3,5 goles | 53% | 57% | 67% | 100% |
+| Ambos marcan | 73% | 86% | 100% | 100% |
+| Portería a cero | 20% | 14% | 0% | 0% |
+| Se queda sin marcar | 13% | 14% | 0% | 0% |
 | xG a favor | 1,33 | – | 1,56 | – |
 | xG en contra | 2,65 | – | 0,94 | – |
 | Tiros / partido | 12,0 | 12,0 | 12,0 | 12,0 |
@@ -97,12 +97,12 @@ _Actualizadas: 09/11 08:32_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Real Madrid W | Recibe Real Madrid W | Tarjetas Real Madrid W | Goles Paris FC W | Recibe Paris FC W | Tarjetas Paris FC W |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 0 | 1 | 2 | 0 | 0 |
-| 16-30' | 2 | 1 | 2 | 0 | 2 | 1 |
-| 31-45' | 1 | 0 | 1 | 0 | 3 | 0 |
-| 46-60' | 1 | 3 | 0 | 0 | 1 | 0 |
-| 61-75' | 1 | 1 | 1 | 2 | 1 | 0 |
-| 76-90' | 1 | 0 | 3 | 1 | 1 | 2 |
+| 1-15' | 6 | 2 | 1 | 2 | 0 | 0 |
+| 16-30' | 3 | 3 | 7 | 0 | 2 | 1 |
+| 31-45' | 6 | 6 | 3 | 0 | 3 | 0 |
+| 46-60' | 2 | 6 | 3 | 0 | 1 | 0 |
+| 61-75' | 4 | 2 | 2 | 2 | 1 | 0 |
+| 76-90' | 10 | 4 | 9 | 1 | 1 | 2 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -119,11 +119,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Madrid W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-07 | Liga F | Athletic Club W 1-1 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
+| 2026-11-01 | Liga F | Sevilla W 1-3 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-28 | Champions Femenina | Bayern Munich W 2-2 Real Madrid W | fuera | 0-7 | 8 (4) - 16 (4) | 2-2 |
-| 2026-10-01 | Champions Femenina | Manchester City W 1-1 Real Madrid W | fuera | 7-5 | 16 (5) - 16 (2) | 0-0 |
-| 2026-09-22 | Champions Femenina | Real Madrid W 1-1 Paris Saint Germain W | casa | 6-4 | 12 (4) - 13 (4) | 2-2 |
-| 2026-09-02 | Champions Femenina | Real Madrid W 2-1 Ajax W | casa | 9-1 | – (10) - – (2) | 3-1 |
-| 2026-08-26 | Champions Femenina | Ajax W 0-2 Real Madrid W | fuera | –-– | – (–) - – (–) | 1-0 |
+| 2026-10-24 | Liga F | Real Madrid W 3-2 Granad. Tenerife W | casa | –-– | – (–) - – (–) | –-– |
+| 2026-10-17 | Liga F | Real Madrid W 3-1 Espanyol W | casa | –-– | – (–) - – (–) | –-– |
+| 2026-10-04 | Liga F | Barcelona W 7-0 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Real Madrid W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

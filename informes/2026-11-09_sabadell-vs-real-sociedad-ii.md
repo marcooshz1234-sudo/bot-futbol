@@ -1,7 +1,7 @@
 # Sabadell – Real Sociedad II
 **Segunda División** · Regular Season - 13 · 09/11/2026 20:30 (hora España) · Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 08:32_
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | Alex Garcia | M | 3 | 174 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 0 | 4 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,53 · visitante 0,88 · córners esperados 9,7._
+_Goles esperados: local 1,53 · visitante 0,88 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -217,16 +217,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
 | Goles del local: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 45% | 49% | 47% | 1.91 | -10% |
-| Goles del local: Más de 2.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles del local: Más de 2.5 | 20% | 23% | 22% | 4.00 | -14% |
 | Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -5% |
 | Goles del local: Menos de 1.5 | 55% | 51% | 53% | 1.80 | -4% |
 | Goles del local: Menos de 2.5 | 80% | 77% | 78% | 1.22 | -4% |
 | Goles del visitante: Más de 0.5 | 58% | 58% | 58% | 1.62 | -6% |
-| Goles del visitante: Más de 1.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles del visitante: Más de 1.5 | 22% | 23% | 23% | 4.00 | -10% |
 | Goles del visitante: Menos de 0.5 | 42% | 42% | 42% | 2.20 | -8% |
 | Goles del visitante: Menos de 1.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Córners más/menos: Más de 9.5 | 46% | 47% | 47% | 2.00 | -6% |
-| Córners más/menos: Menos de 9.5 | 54% | 53% | 53% | 1.80 | -4% |
+| Córners más/menos: Más de 9.5 | 45% | 47% | 46% | 2.00 | -7% |
+| Córners más/menos: Menos de 9.5 | 55% | 53% | 54% | 1.80 | -3% |
 | 1X2 descanso: X | 45% | 42% | 43% | 2.20 | -4% |
 | 1X2 descanso: 1 | 37% | 39% | 38% | 2.38 | -9% |
 

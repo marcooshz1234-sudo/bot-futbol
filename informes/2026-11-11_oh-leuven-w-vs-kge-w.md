@@ -1,7 +1,7 @@
 # OH Leuven W – Køge W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Gemeentelijk Sportstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 08:32_
@@ -140,46 +140,46 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,31 · córners esperados 9,0._
+_Goles esperados: local 1,11 · visitante 1,40 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 58% | 50% | 1.62 | -19% |
-| 1X2: X | 28% | 22% | 25% | 4.33 | +7% |
-| 1X2: 1 | 30% | 20% | 25% | 4.75 | +19% |
+| 1X2: 2 | 44% | 58% | 51% | 1.62 | -18% |
+| 1X2: X | 27% | 22% | 24% | 4.33 | +5% |
+| 1X2: 1 | 30% | 20% | 25% | 4.75 | +18% |
 | Doble oportunidad: X2 | 70% | 78% | 74% | 1.17 | -13% |
-| Doble oportunidad: 12 | 72% | 78% | 75% | 1.18 | -11% |
-| Doble oportunidad: 1X | 58% | 44% | 51% | 2.10 | +7% |
-| Ambos marcan: No | 52% | 42% | 47% | 2.20 | +4% |
-| Ambos marcan: Sí | 48% | 58% | 53% | 1.62 | -14% |
-| Goles más/menos: Más de 1.5 | 69% | 79% | 74% | 1.17 | -13% |
-| Goles más/menos: Más de 2.5 | 43% | 60% | 51% | 1.57 | -20% |
-| Goles más/menos: Más de 3.5 | 22% | 39% | 30% | 2.38 | -28% |
-| Goles más/menos: Más de 4.5 | 9% | 22% | 16% | 4.33 | -33% |
-| Goles más/menos: Menos de 1.5 | 31% | 21% | 26% | 4.50 | +17% |
-| Goles más/menos: Menos de 2.5 | 57% | 40% | 49% | 2.35 | +15% |
-| Goles más/menos: Menos de 3.5 | 78% | 61% | 70% | 1.53 | +6% |
-| Goles más/menos: Menos de 4.5 | 91% | 78% | 84% | 1.20 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 75% | 70% | 1.25 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 42% | 35% | 2.20 | -23% |
-| Goles 1ª parte más/menos: Más de 2.5 | 9% | 21% | 15% | 4.50 | -34% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 25% | 30% | 3.75 | +14% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 58% | 65% | 1.62 | +5% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 91% | 79% | 85% | 1.17 | -0% |
-| Goles del local: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
-| Goles del local: Más de 1.5 | 29% | 31% | 30% | 3.00 | -10% |
-| Goles del local: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -6% |
-| Goles del local: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
-| Goles del visitante: Más de 1.5 | 38% | 59% | 48% | 1.57 | -24% |
-| Goles del visitante: Más de 2.5 | 15% | 34% | 24% | 2.75 | -34% |
-| Goles del visitante: Menos de 1.5 | 62% | 41% | 52% | 2.25 | +16% |
-| Goles del visitante: Menos de 2.5 | 85% | 66% | 76% | 1.40 | +6% |
-| Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -15% |
-| Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -0% |
-| 1X2 descanso: 2 | 31% | 43% | 37% | 2.10 | -22% |
-| 1X2 descanso: X | 46% | 36% | 41% | 2.50 | +3% |
+| Doble oportunidad: 12 | 73% | 78% | 76% | 1.18 | -11% |
+| Doble oportunidad: 1X | 56% | 44% | 50% | 2.10 | +5% |
+| Ambos marcan: No | 50% | 42% | 46% | 2.20 | +1% |
+| Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
+| Goles más/menos: Más de 1.5 | 71% | 79% | 75% | 1.17 | -12% |
+| Goles más/menos: Más de 2.5 | 46% | 60% | 53% | 1.57 | -17% |
+| Goles más/menos: Más de 3.5 | 24% | 39% | 32% | 2.38 | -24% |
+| Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -29% |
+| Goles más/menos: Menos de 1.5 | 29% | 21% | 25% | 4.50 | +11% |
+| Goles más/menos: Menos de 2.5 | 54% | 40% | 47% | 2.35 | +11% |
+| Goles más/menos: Menos de 3.5 | 76% | 61% | 68% | 1.53 | +4% |
+| Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.20 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 75% | 71% | 1.25 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 42% | 36% | 2.20 | -21% |
+| Goles 1ª parte más/menos: Más de 2.5 | 10% | 21% | 15% | 4.50 | -32% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 25% | 29% | 3.75 | +10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 58% | 64% | 1.62 | +4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 90% | 79% | 85% | 1.17 | -1% |
+| Goles del local: Más de 0.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Goles del local: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles del local: Menos de 0.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles del local: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles del visitante: Más de 1.5 | 41% | 59% | 50% | 1.57 | -22% |
+| Goles del visitante: Más de 2.5 | 17% | 34% | 25% | 2.75 | -31% |
+| Goles del visitante: Menos de 1.5 | 59% | 41% | 50% | 2.25 | +13% |
+| Goles del visitante: Menos de 2.5 | 83% | 66% | 75% | 1.40 | +5% |
+| Córners más/menos: Más de 9.5 | 39% | 49% | 44% | 1.91 | -16% |
+| Córners más/menos: Menos de 9.5 | 61% | 51% | 56% | 1.80 | +1% |
+| 1X2 descanso: 2 | 32% | 43% | 38% | 2.10 | -21% |
+| 1X2 descanso: X | 44% | 36% | 40% | 2.50 | +1% |
 | 1X2 descanso: 1 | 24% | 20% | 22% | 4.50 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

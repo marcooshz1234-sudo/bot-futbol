@@ -1,7 +1,7 @@
 # Almeria – FC Andorra
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Julian Dean Rijkhoff | F | 7 | 212 | 0 | 0 | 10 | 1,4 | 7 | 1,0 | 5 | 3 | 0,4 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,72 · visitante 1,28 · córners esperados 9,7._
+_Goles esperados: local 1,72 · visitante 1,28 · córners esperados 9,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

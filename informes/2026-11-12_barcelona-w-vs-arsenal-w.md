@@ -1,7 +1,7 @@
 # Barcelona W – Arsenal W
-**Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Estadi Johan Cruyff
+**Champions Femenina** · League Stage - 4 · 12/11/2026 18:45 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 08:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 13:08._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 08:32_
@@ -59,20 +59,20 @@ _Actualizadas: 09/11 08:32_
 ## Estadísticas de equipo
 | | Barcelona W (total) | Barcelona W en casa | Arsenal W (total) | Arsenal W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 3 | 1 | 3 | 1 |
-| Forma (últimos 5) | VVV | V | VEV | E |
-| Balance | 3V 0E 0D | 1V 0E 0D | 2V 1E 0D | 0V 1E 0D |
-| Goles a favor / partido | 6,33 | 5,00 | 2,00 | 2,00 |
-| Goles en contra / partido | 0,67 | 2,00 | 0,67 | 2,00 |
-| Goles a favor 1ª parte | 2,67 | 4,00 | 0,67 | 1,00 |
-| Goles a favor 2ª parte | 3,67 | 1,00 | 1,33 | 1,00 |
-| Goles en contra 1ª parte | 0,33 | 1,00 | 0,00 | 0,00 |
-| Goles en contra 2ª parte | 0,33 | 1,00 | 0,67 | 2,00 |
+| Partidos analizados | 13 | 6 | 3 | 1 |
+| Forma (últimos 5) | VVVVD | VVVVV | VEV | E |
+| Balance | 12V 0E 1D | 6V 0E 0D | 2V 1E 0D | 0V 1E 0D |
+| Goles a favor / partido | 4,62 | 4,83 | 2,00 | 2,00 |
+| Goles en contra / partido | 0,54 | 0,83 | 0,67 | 2,00 |
+| Goles a favor 1ª parte | 2,08 | 2,33 | 0,67 | 1,00 |
+| Goles a favor 2ª parte | 2,54 | 2,50 | 1,33 | 1,00 |
+| Goles en contra 1ª parte | 0,31 | 0,33 | 0,00 | 0,00 |
+| Goles en contra 2ª parte | 0,23 | 0,50 | 0,67 | 2,00 |
 | Más de 1,5 goles | 100% | 100% | 67% | 100% |
-| Más de 2,5 goles | 100% | 100% | 67% | 100% |
-| Más de 3,5 goles | 100% | 100% | 33% | 100% |
-| Ambos marcan | 33% | 100% | 33% | 100% |
-| Portería a cero | 67% | 0% | 67% | 0% |
+| Más de 2,5 goles | 92% | 100% | 67% | 100% |
+| Más de 3,5 goles | 77% | 83% | 33% | 100% |
+| Ambos marcan | 31% | 50% | 33% | 100% |
+| Portería a cero | 69% | 50% | 67% | 0% |
 | Se queda sin marcar | 0% | 0% | 0% | 0% |
 | xG a favor | 4,18 | – | 3,01 | – |
 | xG en contra | 0,26 | – | 0,31 | – |
@@ -100,12 +100,12 @@ _Actualizadas: 09/11 08:32_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Barcelona W | Recibe Barcelona W | Tarjetas Barcelona W | Goles Arsenal W | Recibe Arsenal W | Tarjetas Arsenal W |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 1 | 0 | 0 | 0 | 0 |
-| 16-30' | 3 | 0 | 0 | 0 | 0 | 0 |
-| 31-45' | 4 | 0 | 0 | 2 | 0 | 0 |
-| 46-60' | 4 | 0 | 0 | 1 | 0 | 0 |
-| 61-75' | 5 | 1 | 1 | 1 | 1 | 1 |
-| 76-90' | 2 | 0 | 1 | 2 | 1 | 0 |
+| 1-15' | 5 | 3 | 1 | 0 | 0 | 0 |
+| 16-30' | 9 | 0 | 1 | 0 | 0 | 0 |
+| 31-45' | 13 | 1 | 2 | 2 | 0 | 0 |
+| 46-60' | 10 | 1 | 0 | 1 | 0 | 0 |
+| 61-75' | 16 | 1 | 3 | 1 | 1 | 1 |
+| 76-90' | 7 | 1 | 6 | 2 | 1 | 0 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -120,9 +120,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Barcelona W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-08 | Liga F | Barcelona W 5-1 Madrid CFF W | casa | –-– | – (–) - – (–) | –-– |
+| 2026-11-01 | Liga F | FC Levante Badalona W 0-4 Barcelona W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-29 | Champions Femenina | Køge W 0-8 Barcelona W | fuera | 9-3 | 26 (10) - 4 (1) | 1-1 |
-| 2026-09-30 | Champions Femenina | Roma W 0-6 Barcelona W | fuera | 6-2 | 20 (11) - 4 (0) | 1-0 |
-| 2026-09-23 | Champions Femenina | Barcelona W 5-2 Paris FC W | casa | 8-7 | 20 (14) - 12 (4) | 0-1 |
+| 2026-10-24 | Liga F | Barcelona W 3-0 Granada | casa | –-– | – (–) - – (–) | –-– |
+| 2026-10-18 | Liga F | Real Sociedad W 2-1 Barcelona W | fuera | –-– | – (–) - – (–) | –-– |
+| 2026-10-04 | Liga F | Barcelona W 7-0 Real Madrid W | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Barcelona W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
