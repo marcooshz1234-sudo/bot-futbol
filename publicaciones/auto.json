@@ -3867,7 +3867,7 @@
   {
     "id": "2026-11-09-combi-partido-1565299",
     "fecha": "2026-11-09T18:00",
-    "texto": "✅ COMBI LOCAS | LIGA I\n🇷🇴 FC BOTOSANI vs OŢELUL 🇷🇴\n\n🎯 AMBOS VEN TARJETA [x1.17]\n✅ FC BOTOSANI O EMPATE [x1.33]\n✅ AMBOS MARCAN [x1.67]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 3,58\n🟢 VERDE A VERDE 🟢",
+    "texto": "✅ COMBI LOCAS | LIGA I\n🇷🇴 FC BOTOSANI vs OŢELUL 🇷🇴\n\n🎯 AMBOS VEN TARJETA [x1.17]\n✅ FC BOTOSANI O EMPATE [x1.36]\n✅ AMBOS MARCAN [x1.73]\n✅ MÁS DE 1,5 GOLES EN LA 2ª PARTE [x2.00]\n\n🔥 Resultado probable: 1-1 | 2-1 | 2-2\n💥 Cuota total aprox.: 3,79\n🟢 VERDE A VERDE 🟢",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -3879,8 +3879,8 @@
     ],
     "cuotas": [
       1.17,
-      1.33,
-      1.67,
+      1.36,
+      1.73,
       2.0
     ],
     "tarjeta": {
@@ -3892,7 +3892,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/6886.png",
       "fecha": "2026-11-09T19:00",
       "liga": "Liga I"
-    }
+    },
+    "cuotas_revisadas": "2026-11-09T16:30"
   },
   {
     "id": "2026-11-09-combi-partido-1570011",
