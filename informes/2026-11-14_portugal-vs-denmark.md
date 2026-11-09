@@ -1,7 +1,7 @@
 # Portugal – Denmark
 **Nations League** · League A - 5 · 14/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Actualizadas: 08/11 23:30_

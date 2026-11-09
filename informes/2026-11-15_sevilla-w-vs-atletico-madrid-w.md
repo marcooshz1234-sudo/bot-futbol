@@ -1,7 +1,7 @@
 # Sevilla W – Atletico Madrid W
 **Liga F** · Regular Season - 11 · 15/11/2026 16:00 (hora España) · Estadio Jesus Navas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -99,6 +99,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,00 · visitante 1,89._
+_Goles esperados: local 1,00 · visitante 1,91._
 
 _Sin cuotas de Bet365 todavía para comparar._

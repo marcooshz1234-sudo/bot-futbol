@@ -1,7 +1,7 @@
 # Faroe Islands – Moldova
 **Nations League** · League C - 6 · 16/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

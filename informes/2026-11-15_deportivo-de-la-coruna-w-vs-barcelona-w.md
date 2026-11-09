@@ -1,7 +1,7 @@
 # Deportivo de La Coruña W – Barcelona W
 **Liga F** · Regular Season - 11 · 15/11/2026 18:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Deportivo de La Coruña W (total) | Deportivo de La Coruña W en casa | Barcelona W (total) | Barcelona W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 5 | 13 | 7 |
-| Forma (últimos 5) | DVVDE | VDEDD | VVVVD | VVDVV |
-| Balance | 3V 2E 4D | 1V 1E 3D | 12V 0E 1D | 6V 0E 1D |
-| Goles a favor / partido | 1,22 | 0,80 | 4,62 | 4,43 |
-| Goles en contra / partido | 1,22 | 1,40 | 0,54 | 0,29 |
-| Goles a favor 1ª parte | 0,44 | 0,00 | 2,08 | 1,86 |
-| Goles a favor 2ª parte | 0,78 | 0,80 | 2,54 | 2,57 |
-| Goles en contra 1ª parte | 0,67 | 1,20 | 0,31 | 0,29 |
-| Goles en contra 2ª parte | 0,56 | 0,20 | 0,23 | 0,00 |
-| Más de 1,5 goles | 78% | 80% | 100% | 100% |
-| Más de 2,5 goles | 56% | 40% | 92% | 86% |
-| Más de 3,5 goles | 11% | 0% | 77% | 71% |
-| Ambos marcan | 56% | 60% | 31% | 14% |
-| Portería a cero | 22% | 0% | 69% | 86% |
-| Se queda sin marcar | 33% | 40% | 0% | 0% |
+| Partidos analizados | 10 | 6 | 13 | 7 |
+| Forma (últimos 5) | DDVVD | DVDED | VVVVD | VVDVV |
+| Balance | 3V 2E 5D | 1V 1E 4D | 12V 0E 1D | 6V 0E 1D |
+| Goles a favor / partido | 1,10 | 0,67 | 4,62 | 4,43 |
+| Goles en contra / partido | 1,30 | 1,50 | 0,54 | 0,29 |
+| Goles a favor 1ª parte | 0,40 | 0,00 | 2,08 | 1,86 |
+| Goles a favor 2ª parte | 0,70 | 0,67 | 2,54 | 2,57 |
+| Goles en contra 1ª parte | 0,60 | 1,00 | 0,31 | 0,29 |
+| Goles en contra 2ª parte | 0,70 | 0,50 | 0,23 | 0,00 |
+| Más de 1,5 goles | 80% | 83% | 100% | 100% |
+| Más de 2,5 goles | 50% | 33% | 92% | 86% |
+| Más de 3,5 goles | 10% | 0% | 77% | 71% |
+| Ambos marcan | 50% | 50% | 31% | 14% |
+| Portería a cero | 20% | 0% | 69% | 86% |
+| Se queda sin marcar | 40% | 50% | 0% | 0% |
 | xG a favor | – | – | 4,18 | 4,18 |
 | xG en contra | – | – | 0,26 | 0,26 |
 | Tiros / partido | – | – | 22,0 | 23,0 |
@@ -51,10 +51,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tramo | Goles Deportivo de La Coruña W | Recibe Deportivo de La Coruña W | Tarjetas Deportivo de La Coruña W | Goles Barcelona W | Recibe Barcelona W | Tarjetas Barcelona W |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 2 | 5 | 3 | 1 |
-| 16-30' | 2 | 2 | 0 | 9 | 0 | 1 |
+| 16-30' | 2 | 2 | 1 | 9 | 0 | 1 |
 | 31-45' | 1 | 3 | 2 | 13 | 1 | 2 |
 | 46-60' | 0 | 1 | 1 | 10 | 1 | 0 |
-| 61-75' | 2 | 0 | 2 | 16 | 1 | 3 |
+| 61-75' | 2 | 2 | 4 | 16 | 1 | 3 |
 | 76-90' | 5 | 4 | 5 | 7 | 1 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Deportivo de La Coruña W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-09 | Liga F | Deportivo de La Coruña W 0-2 Valencia W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Liga F | Madrid CFF W 2-1 Deportivo de La Coruña W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | Liga F | Deportivo de La Coruña W 2-1 Deportivo Alavés W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-18 | Liga F | Eibar W 2-3 Deportivo de La Coruña W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-03 | Liga F | Deportivo de La Coruña W 1-2 Atletico Madrid W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-09-27 | Liga F | Deportivo de La Coruña W 1-1 Espanyol W | casa | –-– | – (–) - – (–) | –-– |
-| 2026-09-20 | Liga F | Granada 0-3 Deportivo de La Coruña W | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Deportivo de La Coruña W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -99,6 +99,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,57 · visitante 3,27._
+_Goles esperados: local 0,50 · visitante 3,59._
 
 _Sin cuotas de Bet365 todavía para comparar._

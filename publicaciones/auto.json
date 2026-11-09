@@ -4030,41 +4030,86 @@
     }
   },
   {
+    "id": "2026-11-10-escalera",
+    "fecha": "2026-11-10T11:00",
+    "texto": "🪜 Reto escalera · Día 1/7\n\n❌ Ayer se cayó el día 2. Aquí no se borra nada: otra vez desde 20€ 💪\n\n🇪🇸 Ambos marcan en Badajoz–Tenerife\n\n📈 Cuota @1,91\n💶 20,00€ → 38,20€\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1644346|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.91
+    ]
+  },
+  {
     "id": "2026-11-10-combi-tres",
     "fecha": "2026-11-10T13:30",
-    "texto": "Vamos con la combi del martes familia 🔥\n\n🇪🇸 Gana el Real Madrid (fem.)\n✅ Manchester City (fem.) marca 2 o más\n✅ Paris Saint Germain (fem.) marca\n\n📈 Cuota @2,59\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del martes familia 🔥\n\n🇪🇸 Gana el Real Madrid (fem.)\n🇪🇸 Amorebieta marca\n✅ Manchester City (fem.) marca 2 o más\n\n📈 Cuota @2,53\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1638332|Match Winner|Home",
-      "1638308|Total - Away|Over 1.5",
-      "1638328|Total - Home|Over 0.5"
+      "1644335|Total - Home|Over 0.5",
+      "1638308|Total - Away|Over 1.5"
     ],
     "cuotas": [
       1.4,
-      1.36,
+      1.33,
       1.36
     ]
   },
   {
-    "id": "2026-11-10-combi-loca",
-    "fecha": "2026-11-10T16:00",
-    "texto": "Y para los valientes, la loca del martes 🤪🔥\n\n✅ Gana el Chelsea (fem.)\n🇪🇸 Ambos marcan en Real Madrid (fem.)–Paris FC (fem.)\n✅ Ambos marcan en Inter Milano (fem.)–Manchester City (fem.)\n✅ Gana el Bayern Munich (fem.)\n\n📈 Cuota @6,10\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "id": "2026-11-10-combi-multi",
+    "fecha": "2026-11-10T14:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x22,26! 🍀\n\n🇪🇸 Gana el Real Madrid (fem.)\n✅ Chelsea (fem.) marca 3 o más\n🇪🇸 Alaves marca 4 o más\n🇪🇸 Ambos marcan en Amorebieta–UD Logroñés\n🇪🇸 Real Jaén o empate\n🇪🇸 Más de 1,5 goles en Mijas Las Lagunas–Real Jaén\n🇪🇸 Más de 1,5 goles en Badajoz–Tenerife\n🇪🇸 Tenerife gana alguna de las dos partes\n✅ Bayern Munich (fem.) gana alguna de las dos partes\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1638304|Match Winner|Away",
-      "1638332|Both Teams Score|Yes",
-      "1638308|Both Teams Score|Yes",
-      "1638328|Match Winner|Away"
+      "1638332|Match Winner|Home",
+      "1638304|Total - Away|Over 2.5",
+      "1644336|Total - Away|Over 3.5",
+      "1644335|Both Teams Score|Yes",
+      "1644362|Double Chance|Draw/Away",
+      "1644362|Goals Over/Under|Over 1.5",
+      "1644346|Goals Over/Under|Over 1.5",
+      "1644346|To Win Either Half|Away",
+      "1638328|To Win Either Half|Away"
     ],
     "cuotas": [
+      1.4,
+      1.73,
+      1.57,
+      1.67,
+      1.28,
+      1.28,
       1.25,
+      1.36,
+      1.4
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-10-combi-loca",
+    "fecha": "2026-11-10T16:00",
+    "texto": "Y para los valientes, la loca del martes 🤪🔥\n\n🇪🇸 Gana el Real Madrid (fem.)\n🇪🇸 Gana el Tenerife\n🇪🇸 Ambos marcan en Amorebieta–UD Logroñés\n✅ Ambos marcan en Inter Milano (fem.)–Manchester City (fem.)\n\n📈 Cuota @6,52\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1638332|Match Winner|Home",
+      "1644346|Match Winner|Away",
+      "1644335|Both Teams Score|Yes",
+      "1638308|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.4,
       1.67,
       1.67,
-      1.75
+      1.67
     ],
     "solo_redes": true
   },
@@ -4190,25 +4235,25 @@
   {
     "id": "2026-11-12-combi-tres",
     "fecha": "2026-11-12T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana Inglaterra\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n\n📈 Cuota @2,62\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Real Betis marca 3 o más\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana Inglaterra\n\n📈 Cuota @2,70\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1528958|Both Teams Score|Yes",
-      "1528962|Match Winner|Home",
-      "1528963|Goals Over/Under|Over 1.5"
+      "1644363|Total - Away|Over 2.5",
+      "1528962|Match Winner|Home"
     ],
     "cuotas": [
       1.5,
-      1.25,
-      1.4
+      1.44,
+      1.25
     ]
   },
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,13! 🍀\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Ambos marcan en Barcelona (fem.)–Arsenal (fem.)\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇫🇷 Francia gana alguna de las dos partes\n🇭🇷 Croacia marca\n🇲🇪 Gana el Montenegro\n🇲🇪 Más de 1,5 goles en Montenegro–Letonia\n🇧🇾 Bielorrusia marca 3 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x27,65! 🍀\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Ambos marcan en Barcelona (fem.)–Arsenal (fem.)\n🇪🇸 Real Betis marca 3 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇫🇷 Francia gana alguna de las dos partes\n🇭🇷 Croacia marca\n🇲🇪 Gana el Montenegro\n🇲🇪 Más de 1,5 goles en Montenegro–Letonia\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4216,43 +4261,43 @@
       "1528959|Total - Away|Over 0.5",
       "1528958|Both Teams Score|Yes",
       "1638295|Both Teams Score|Yes",
+      "1644363|Total - Away|Over 2.5",
       "1528963|Goals Over/Under|Over 1.5",
       "1528960|To Win Either Half|Away",
       "1528962|Total - Away|Over 0.5",
       "1545613|Match Winner|Home",
-      "1545613|Goals Over/Under|Over 1.5",
-      "1528964|Total - Away|Over 2.5"
+      "1545613|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
       1.4,
       1.5,
       1.62,
+      1.44,
       1.4,
       1.44,
       1.8,
       1.33,
-      1.25,
-      1.83
+      1.25
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇨🇾 Chipre o empate\n🇪🇸 Barcelona (fem.) marca 3 o más\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana Inglaterra\n🇫🇮 Finlandia marca\n\n📈 Cuota @6,03\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇨🇾 Chipre o empate\n🇪🇸 Ambos marcan en Barcelona (fem.)–Arsenal (fem.)\n🇲🇪 Gana el Montenegro\n🇫🇮 Finlandia marca\n\n📈 Cuota @6,01\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1528959|Double Chance|Draw/Away",
-      "1638295|Total - Home|Over 2.5",
-      "1528962|Match Winner|Home",
+      "1638295|Both Teams Score|Yes",
+      "1545613|Match Winner|Home",
       "1528963|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.67,
-      1.73,
-      1.25,
+      1.62,
+      1.33,
       1.67
     ],
     "solo_redes": true
@@ -4398,21 +4443,21 @@
   {
     "id": "2026-11-13-combi-loca",
     "fecha": "2026-11-13T16:00",
-    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇸🇰 Eslovaquia marca 2 o más\n🇨🇭 Gana Suiza\n🇪🇪 Estonia o empate\n\n📈 Cuota @6,17\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇸🇰 Eslovaquia marca 2 o más\n🇮🇸 Islandia gana alguna de las dos partes\n🇨🇭 Gana Suiza\n🇪🇸 Salamanca UDS marca\n\n📈 Cuota @6,01\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1545614|Goals Over/Under|Over 1.5",
       "1528967|Total - Home|Over 1.5",
+      "1528969|To Win Either Half|Away",
       "1545654|Match Winner|Away",
-      "1545614|Double Chance|Draw/Away"
+      "1644376|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.44,
+      1.5,
       1.5,
       1.65,
-      1.67
+      1.62
     ],
     "solo_redes": true
   },

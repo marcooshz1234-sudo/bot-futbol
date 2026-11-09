@@ -1,7 +1,7 @@
 # Leganes – Burgos
 **Segunda División** · Regular Season - 14 · 13/11/2026 20:30 (hora España) · Estadio Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | K. Appin | M | 6 | 181 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 5 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,10 · visitante 1,53 · córners esperados 9,3._
+_Goles esperados: local 1,11 · visitante 1,54 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

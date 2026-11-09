@@ -1,5 +1,23 @@
 # Lecciones del bot
 
+## 2026-11-09
+
+```
+🧠 LECCIONES DEL 09/11
+Picks del bot: 2 ✅ · 0 ❌
+
+❌ Lo que falló en lo publicado:
+• Eldense marca → 0 de 1 gol
+• Gana el Sabadell → Marcador: 0–0
+• Gol en la 2ª parte del Sabadell–Real Sociedad II → Marcador: 0–0
+• Las Palmas ve más de 2,5 tarjetas → 2 de 3 tarjetas
+• Sabadell ve más de 2,5 tarjetas → 2 de 3 tarjetas
+
+📐 Modelo: 352/565 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-08
 
 ```

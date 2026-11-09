@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 09/11/2026 21:30 (hora España). Partidos guardados en la base de datos: 2547._
+_Actualizado el 09/11/2026 23:22 (hora España). Partidos guardados en la base de datos: 2551._
 
 
 ## Martes 10/11
@@ -8,7 +8,9 @@ _Actualizado el 09/11/2026 21:30 (hora España). Partidos guardados en la base d
 - 18:45 · Champions Femenina · [Häcken W – Chelsea W](informes/2026-11-10_hacken-w-vs-chelsea-w.md) · 1X2: 10.00 / 6.25 / 1.25
 - 19:00 · Copa del Rey · [Pamplona – Eibar](informes/2026-11-10_pamplona-vs-eibar.md) · 1X2: 11.00 / 7.00 / 1.20
 - 19:00 · Copa del Rey · [Anaitasuna – Alaves](informes/2026-11-10_anaitasuna-vs-alaves.md) · 1X2: 26.00 / 15.00 / 1.04
+- 20:00 · Copa del Rey · [Amorebieta – UD Logroñés](informes/2026-11-10_amorebieta-vs-ud-logrones.md) · 1X2: 3.30 / 3.50 / 2.10
 - 20:00 · Copa del Rey · [Trival Valderas – Leganes](informes/2026-11-10_trival-valderas-vs-leganes.md) · 1X2: 23.00 / 8.50 / 1.12
+- 20:00 · Copa del Rey · [Mijas Las Lagunas – Real Jaén](informes/2026-11-10_mijas-las-lagunas-vs-real-jaen.md) · 1X2: 3.60 / 3.40 / 2.00
 - 21:00 · Champions Femenina · [Paris Saint Germain W – Bayern Munich W](informes/2026-11-10_paris-saint-germain-w-vs-bayern-munich-w.md) · 1X2: 4.33 / 3.80 / 1.75
 - 21:00 · Champions Femenina · [Roma W – Servette Chênois W](informes/2026-11-10_roma-w-vs-servette-chenois-w.md) · 1X2: 1.27 / 5.75 / 9.50
 - 21:00 · Champions Femenina · [Inter Milano W – Manchester City W](informes/2026-11-10_inter-milano-w-vs-manchester-city-w.md) · 1X2: 6.50 / 5.50 / 1.36

@@ -1,7 +1,7 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -132,6 +132,6 @@ _Sin bajas comunicadas por ahora._
 | Ilies Fauré | F | 1 | 3 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,95 · visitante 1,17 · córners esperados 7,5._
+_Goles esperados: local 0,94 · visitante 1,16 · córners esperados 7,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

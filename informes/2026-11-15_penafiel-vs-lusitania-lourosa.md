@@ -1,7 +1,7 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -111,6 +111,6 @@ _Sin bajas comunicadas por ahora._
 | Danny | M | 1 | 4 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 0 | 3 | 3,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 1,11 · córners esperados 8,3._
+_Goles esperados: local 1,62 · visitante 1,10 · córners esperados 8,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

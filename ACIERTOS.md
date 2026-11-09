@@ -1,13 +1,13 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 564 · aciertos: 351 (62%) · beneficio a 1 € por pick: -67.77 €
+Picks ya jugados: 565 · aciertos: 352 (62%) · beneficio a 1 € por pick: -67.44 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
+| goles | 140 | 218 | 64% | -24.60 € |
 | jugador | 125 | 195 | 64% | -22.68 € |
-| goles | 139 | 217 | 64% | -24.93 € |
 | resultado | 65 | 103 | 63% | -7.25 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
@@ -22,8 +22,8 @@ Picks ya jugados: 564 · aciertos: 351 (62%) · beneficio a 1 € por pick: -67.
 | To Win Either Half · Home | 6 | 6 | 100% |
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
+| Goals Over/Under · Over 1.5 | 32 | 41 | 78% |
 | Match Winner · Home | 7 | 9 | 78% |
-| Goals Over/Under · Over 1.5 | 31 | 40 | 78% |
 | Double Chance · Home/Draw | 9 | 12 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
@@ -52,8 +52,9 @@ Picks ya jugados: 564 · aciertos: 351 (62%) · beneficio a 1 € por pick: -67.
 
 ## Últimos días
 
-### 2026-11-09 · 1/1
+### 2026-11-09 · 2/2
 - ✅ Hvidovre o empate · 1.25 (3-0)
+- ✅ Más de 1,5 goles en Deportivo de La Coruña W–Valencia W · 1.33 (0-2)
 
 ### 2026-11-08 · 41/57
 - ✅ Heerenveen hace más de 3,5 córners · 1.62 (5-3)

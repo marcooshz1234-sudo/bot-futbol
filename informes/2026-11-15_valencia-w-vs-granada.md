@@ -1,7 +1,7 @@
 # Valencia W – Granada
 **Liga F** · Regular Season - 11 · 15/11/2026 18:15 (hora España) · Estadio Antonio Puchades
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Valencia W (total) | Valencia W en casa | Granada (total) | Granada fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 10 | 5 |
-| Forma (últimos 5) | VDDDD | VDDD | DEDVE | DVVDD |
-| Balance | 1V 0E 8D | 1V 0E 3D | 3V 2E 5D | 2V 0E 3D |
-| Goles a favor / partido | 0,67 | 1,00 | 0,90 | 1,00 |
-| Goles en contra / partido | 2,11 | 1,75 | 1,60 | 1,80 |
+| Partidos analizados | 10 | 4 | 10 | 5 |
+| Forma (últimos 5) | VVDDD | VDDD | DEDVE | DVVDD |
+| Balance | 2V 0E 8D | 1V 0E 3D | 3V 2E 5D | 2V 0E 3D |
+| Goles a favor / partido | 0,80 | 1,00 | 0,90 | 1,00 |
+| Goles en contra / partido | 1,90 | 1,75 | 1,60 | 1,80 |
 | Goles a favor 1ª parte | 0,00 | 0,00 | 0,30 | 0,20 |
-| Goles a favor 2ª parte | 0,67 | 1,00 | 0,60 | 0,80 |
-| Goles en contra 1ª parte | 0,78 | 0,75 | 0,90 | 0,80 |
-| Goles en contra 2ª parte | 1,33 | 1,00 | 0,70 | 1,00 |
-| Más de 1,5 goles | 78% | 75% | 60% | 60% |
-| Más de 2,5 goles | 67% | 75% | 50% | 60% |
-| Más de 3,5 goles | 33% | 25% | 30% | 40% |
-| Ambos marcan | 56% | 75% | 40% | 40% |
-| Portería a cero | 0% | 0% | 20% | 20% |
-| Se queda sin marcar | 44% | 25% | 50% | 40% |
+| Goles a favor 2ª parte | 0,80 | 1,00 | 0,60 | 0,80 |
+| Goles en contra 1ª parte | 0,70 | 0,75 | 0,90 | 0,80 |
+| Goles en contra 2ª parte | 1,20 | 1,00 | 0,70 | 1,00 |
+| Más de 1,5 goles | 80% | 75% | 60% | 60% |
+| Más de 2,5 goles | 60% | 75% | 50% | 60% |
+| Más de 3,5 goles | 30% | 25% | 30% | 40% |
+| Ambos marcan | 50% | 75% | 40% | 40% |
+| Portería a cero | 10% | 0% | 20% | 20% |
+| Se queda sin marcar | 40% | 25% | 50% | 40% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 2 | 0 | 0 | 2 | 1 |
 | 16-30' | 0 | 3 | 1 | 3 | 3 | 3 |
-| 31-45' | 0 | 2 | 6 | 0 | 4 | 6 |
-| 46-60' | 1 | 3 | 1 | 1 | 1 | 4 |
-| 61-75' | 2 | 7 | 6 | 2 | 4 | 8 |
-| 76-90' | 3 | 2 | 10 | 3 | 2 | 6 |
+| 31-45' | 0 | 2 | 7 | 0 | 4 | 6 |
+| 46-60' | 1 | 3 | 2 | 1 | 1 | 4 |
+| 61-75' | 4 | 7 | 7 | 2 | 4 | 8 |
+| 76-90' | 3 | 2 | 11 | 3 | 2 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -71,12 +71,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Valencia W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-09 | Liga F | Deportivo de La Coruña W 0-2 Valencia W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Liga F | Valencia W 2-1 Eibar W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | Liga F | Atletico Madrid W 4-0 Valencia W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-17 | Liga F | Athletic Club W 1-0 Valencia W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-04 | Liga F | Valencia W 0-1 Real Sociedad W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-09-27 | Liga F | Valencia W 1-2 Granad. Tenerife W | casa | –-– | – (–) - – (–) | –-– |
-| 2026-09-19 | Liga F | Real Madrid W 3-1 Valencia W | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Valencia W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -97,6 +97,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,79 · visitante 1,22._
+_Goles esperados: local 0,93 · visitante 1,11._
 
 _Sin cuotas de Bet365 todavía para comparar._

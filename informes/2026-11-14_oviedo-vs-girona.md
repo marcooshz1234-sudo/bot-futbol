@@ -1,7 +1,7 @@
 # Oviedo – Girona
 **Segunda División** · Regular Season - 14 · 14/11/2026 21:00 (hora España) · Estadio Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 21:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Arnau Martínez | D | 2 | 180 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 1,44 · córners esperados 9,2._
+_Goles esperados: local 1,35 · visitante 1,46 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

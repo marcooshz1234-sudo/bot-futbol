@@ -12725,6 +12725,7 @@
   "movimiento": null,
   "ventaja": 0.026,
   "prob_aprendida": 0.809,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  }
 }
