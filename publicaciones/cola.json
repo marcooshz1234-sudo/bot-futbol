@@ -3852,5 +3852,33 @@
     "origen": "bot",
     "enviado": "2026-11-09T10:34",
     "mensaje_id": 374
+  },
+  {
+    "id": "2026-11-09-combi-partido-1570013",
+    "fecha": "2026-11-09T18:00",
+    "texto": "✅ COMBI LOCAS | SEGUNDA\n🇪🇸 SABADELL vs REAL SOCIEDAD II 🇪🇸\n\n🎯 GANA EL SABADELL [x1.73]\n✅ SABADELL HACE MÁS CÓRNERS [x1.40]\n✅ SABADELL VE MÁS DE 2,5 TARJETAS [x1.91]\n\n🔥 Resultado probable: 1-0 | 2-1 | 2-0\n💥 Cuota total aprox.: 4,12\n🟢 VERDE A VERDE 🟢",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570013|Match Winner|Home",
+      "1570013|Corners 1x2|Home",
+      "1570013|Home Team Total Cards|Over 2.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.4,
+      1.91
+    ],
+    "tarjeta": {
+      "local": "Sabadell",
+      "visitante": "Real Sociedad II",
+      "id_l": 9593,
+      "id_v": 9585,
+      "logo_l": "https://media.api-sports.io/football/teams/9593.png",
+      "logo_v": "https://media.api-sports.io/football/teams/9585.png",
+      "fecha": "2026-11-09T20:30",
+      "liga": "Segunda"
+    }
   }
 ]

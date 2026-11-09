@@ -693,6 +693,14 @@ def balance(dia, posts_ayer):
             "origen": "analista", "directo": True, "sel": []}
 
 
+def _primer_partido_escalera(dia):
+    """Hora del primer partido del escalón de ese día ('' si no hay)."""
+    act = (leer(DATOS / "escalera.json", {}) or {}).get("actual") or {}
+    if act.get("dia") != dia:
+        return ""
+    return min((x["fecha"] for x in act.get("picks") or []), default="")
+
+
 def main():
     picks = leer(DATOS / "picks.json")
     if not picks:
@@ -709,7 +717,17 @@ def main():
     # 26/10: a la hora de una combi cambiada a mano no sale otra combi automática (salían dos a las 12:00)
     horas_fijas = {p["fecha"] for p in anteriores.values() if p.get("fijo")}
     nuevos = {}
-    for dia, d in picks["dias"].items():
+    # 09/11: en el parón picks.py no saca días (0 picks) y no salía nada, ni la escalera: también los días
+    # con partidos en los datos, aunque no tengan picks (las combis salen del pool de bet365)
+    dias = dict(picks["dias"])
+    try:
+        from escalera import dias_con_partidos
+        for dia in dias_con_partidos():
+            dias.setdefault(dia, {"picks": [], "mejores_por_partido": []})
+    except Exception as e:
+        print("dias_con_partidos falló:", e)
+    hoy = ahora[:10]
+    for dia, d in sorted(dias.items()):
         if dia < ESCALERA_DESDE:
             continue
         todos = posts_del_dia(dia, d)
@@ -723,6 +741,11 @@ def main():
                 continue
             if "-combi-" in p["id"] and p["fecha"] in horas_fijas:
                 continue
+            if p["fecha"] <= ahora and p["id"] == f"{hoy}-escalera":
+                # 09/11: la escalera sale todos los días: si su hora pasó sin salir y el partido no ha empezado,
+                # sale en 10 minutos
+                if _primer_partido_escalera(hoy) > ahora:
+                    p["fecha"] = (datetime.now(MADRID) + timedelta(minutes=10)).strftime("%Y-%m-%dT%H:%M")
             if p["fecha"] <= ahora:          # su hora ya pasó sin publicarse
                 continue
             nuevos[p["id"]] = p
