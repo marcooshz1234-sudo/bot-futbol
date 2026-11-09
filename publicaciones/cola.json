@@ -3918,6 +3918,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-09T23:16",
+    "mensaje_id": 383,
+    "redes": {
+      "threads": "18249678202312853"
+    }
   }
 ]
