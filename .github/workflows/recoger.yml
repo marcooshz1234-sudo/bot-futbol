@@ -39,6 +39,11 @@ jobs:
         env:
           ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
         run: python -u fuentes_extra.py || echo "fuentes_extra falló (no bloquea)"
+      - name: Noticias de los periódicos (09/11)
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CANAL: "-1003953339107"
+        run: python -u noticias.py --ya || echo "noticias falló (no bloquea)"
       - name: Elegir picks y combis
         run: python -u picks.py
       - name: Registro de aciertos y modelo de valor

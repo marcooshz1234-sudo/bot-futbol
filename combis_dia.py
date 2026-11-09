@@ -271,6 +271,11 @@ def pool_partido(ex, hist, ap):
     lesion = lambda nombre: any(P.mismo_jugador(n, nombre) for n in les)
     fuera = {eq: [n for _, n in contexto.claves(eq, h) if lesion(n)] for eq, h in ((loc["id"], hl), (vis["id"], hv))}
     pool = [p for p in pool if not (p.get("jugador") and lesion(p["jugador"]))]   # lesionados o sancionados
+    try:   # 09/11: y los que salen de baja o duda en los periódicos (noticias.py)
+        import noticias
+        pool = [p for p in pool if not (p.get("jugador") and noticias.jugador_tocado(pa["fixture"]["id"], p["jugador"]))]
+    except Exception as e:
+        print("noticias:", e)
     for p in pool:
         ld = P.lado_pick(p) if not p.get("equipo") else ("local" if p["equipo"] == loc["name"] else "visitante")
         p["contexto"] = contexto.de_pick(pos, ld)

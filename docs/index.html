@@ -296,6 +296,7 @@ function vInfo(){
         ${dato("Goles a favor", ml.gf, mv.gf)}${dato("Goles en contra", ml.gc, mv.gc)}
         ${dato("Ambos marcan", cl.ambos, cv.ambos, "%")}${dato("Más de 2,5 goles", cl.mas25, cv.mas25, "%")}
         ${dato("Córners", ml.corners, mv.corners)}${dato("Tiros", ml.tiros, mv.tiros)}${dato("Tarjetas", ml.tarjetas, mv.tarjetas)}
+        ${(p.noticias||[]).length ? `<div style="margin-top:8px">${p.noticias.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener" style="display:block;color:var(--sub);font-size:13px;padding:4px 0;text-decoration:none">📰 ${esc(n.titulo)} <span class="mut">· ${esc(n.fuente)}</span></a>`).join("")}</div>` : ""}
         ${f.arbitro && f.arbitro.nombre ? `<div class="mut" style="margin-top:8px">🟨 Árbitro: ${esc(f.arbitro.nombre)}${f.arbitro.partidos>=3?` · ${String(f.arbitro.tarjetas).replace(".",",")} tarjetas por partido`:""}</div>` : ""}
         ${Object.keys(f.bajas_importantes||{}).length ? `<div class="mut" style="margin-top:4px">🚑 Bajas: ${esc(Object.values(f.bajas_importantes).flat().map(x=>x.nombre||x).join(", "))}</div>` : ""}
       </div>` : `<div class="mut" style="text-align:center;margin-top:6px;font-size:12px">Toca para ver los datos ▾</div>`}

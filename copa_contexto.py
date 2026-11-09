@@ -29,7 +29,8 @@ NOMBRE_NIVEL = {1: "Primera", 2: "Segunda", 3: "Primera Federación", 4: "Segund
 
 
 def nivel(nombre):
-    for n, v in NIVEL:
+    # 09/11: de más largo a más corto («Segunda División RFEF» no es «Segunda División»)
+    for n, v in sorted(NIVEL, key=lambda x: -len(x[0])):
         if nombre.lower().startswith(n.lower()):
             return v
     return None
@@ -41,7 +42,7 @@ def escribir(ruta, datos):
 
 def info_equipo(api, tid, eq, hoy):
     e = eq.setdefault(str(tid), {})
-    if e.get("temporada") != TEMPORADA:
+    if e.get("temporada") != TEMPORADA or e.get("v") != 2:   # v2: niveles bien (09/11)
         ligas = api.get("leagues", team=tid, season=TEMPORADA)
         cands = [(nivel(l["league"]["name"]), l["league"]["name"]) for l in ligas
                  if l["league"].get("type") == "League" and (l.get("country") or {}).get("name") == "Spain"]
@@ -50,7 +51,7 @@ def info_equipo(api, tid, eq, hoy):
         t = api.get("teams", id=tid)
         v = (t[0].get("venue") or {}) if t else {}
         e["estadio"], e["estadio_id"] = v.get("name"), v.get("id")
-        e["temporada"] = TEMPORADA
+        e["temporada"], e["v"] = TEMPORADA, 2
     if e.get("dia") != hoy:
         fx = api.get("fixtures", team=tid, season=TEMPORADA, last=6)
         res = []
@@ -94,10 +95,11 @@ def main():
                 continue
             sede = (f["fixture"].get("venue") or {})
             fuera_de_casa = bool(el.get("estadio_id") and sede.get("id") and sede["id"] != el["estadio_id"])
+            en_campo_visitante = bool(ev.get("estadio_id") and sede.get("id") == ev["estadio_id"])
             salida[fid] = {
                 "local": {"nombre": l["name"], "nivel": el.get("nivel"), "liga": el.get("liga"), "ultimos": el.get("ultimos")},
                 "visitante": {"nombre": v["name"], "nivel": ev.get("nivel"), "liga": ev.get("liga"), "ultimos": ev.get("ultimos")},
-                "sede": sede.get("name"), "estadio_local": el.get("estadio"), "local_fuera_de_su_campo": fuera_de_casa,
+                "sede": sede.get("name"), "estadio_local": el.get("estadio"), "local_fuera_de_su_campo": fuera_de_casa, "en_campo_visitante": en_campo_visitante,
                 "aplazamientos": max(len(visto["fechas"]) - 1, 1 if visto["aplazado"] else 0),
             }
     escribir(EQUIPOS, eq)
@@ -127,7 +129,9 @@ def razones(fid):
                 out.append((3, f"El {e['nombre']} llega lanzado: {v} victorias en sus últimos {len(u)}"))
             elif v == 0 and d >= 3:
                 out.append((3, f"El {e['nombre']} no gana en sus últimos {len(u)}"))
-    if c.get("local_fuera_de_su_campo") and c.get("sede"):
+    if c.get("en_campo_visitante") and c.get("sede"):
+        out.append((5, f"Se juega en el campo del {V['nombre']} ({c['sede']}): el {L['nombre']} pierde la ventaja de casa"))
+    elif c.get("local_fuera_de_su_campo") and c.get("sede"):
         out.append((4, f"El {L['nombre']} no juega en su campo ({c['sede']}): pierde la ventaja de casa"))
     if c.get("aplazamientos"):
         n = c["aplazamientos"]

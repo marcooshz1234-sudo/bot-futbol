@@ -63,6 +63,11 @@ def razones(p, hist, ex=None, maximo=3):
         copa = copa_contexto.razones(p["partido_id"])
     except Exception:
         pass
+    try:   # 09/11: hechos de los periódicos (campo, aplazamiento, entrenador, crisis)
+        import noticias
+        copa += noticias.razones(p["partido_id"])
+    except Exception:
+        pass
     pa = (ex or leer(DATOS / "proximos" / f"{p['partido_id']}.json", {}) or {}).get("partido") or {}
     t = pa.get("teams") or {}
     il, iv = (t.get("home") or {}).get("id"), (t.get("away") or {}).get("id")

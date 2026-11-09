@@ -677,6 +677,7 @@ def main():
 
     # --- partidos de hoy y mañana
     partidos, nombres = [], {}
+    NOTICIAS = leer(DATOS / "noticias.json", {}) or {}
     for liga in COMPETICIONES:
         for f in leer(DATOS / f"calendario_{liga}.json", []) or []:
             for lado in ("home", "away"):
@@ -698,6 +699,8 @@ def main():
                 "goles": vivo.get("goles") or [f["goals"]["home"], f["goals"]["away"]],
                 "arbitro_nombre": (f["fixture"].get("referee") or "").split(",")[0].strip() or None,
                 "actualizado": vivo.get("visto"), "actualizado_iso": fecha_iso(vivo.get("visto")),
+                # 09/11: titulares de los periódicos de ese partido (noticias.py), los más útiles primero
+                "noticias": sorted(sorted(NOTICIAS.get(str(fid), []), key=lambda n: n["fecha"], reverse=True), key=lambda n: not n.get("tipos"))[:3],
                 "ficha": None if h.strftime("%Y-%m-%d") == ayer else {
                     "local": ficha_equipo(f["teams"]["home"]["id"], f["teams"]["home"]["name"], hist),
                     "visitante": ficha_equipo(f["teams"]["away"]["id"], f["teams"]["away"]["name"], hist),
