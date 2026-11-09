@@ -240,147 +240,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1552811": {
-   "hora": "2026-11-07T18:34:44.382536+01:00",
-   "xi": [
-    "P. Nardi",
-    "M. Senaya",
-    "S. Diomandé",
-    "A. Tuanzebe",
-    "T. Siwe",
-    "N. Ahamada",
-    "P. Ekwah",
-    "F. Oppegård",
-    "R. Faivre",
-    "C. Archer",
-    "D. Namaso",
-    "K. Trapp",
-    "H. Traoré",
-    "D. Coppola",
-    "Otávio",
-    "M. Simon",
-    "M. Lopez",
-    "P. Lees-Melou",
-    "I. Kebbal",
-    "P. Pagis",
-    "R. Matondo",
-    "L. Sinayoko"
-   ],
-   "banquillo": [
-    "L. Sy",
-    "Aristide Zossou",
-    "C. Akpa",
-    "K. Danois",
-    "M. Diop",
-    "R. Mandengue",
-    "R. Labeau Lascary",
-    "C. Makosso",
-    "A. Piedfort",
-    "T. De Smet",
-    "L. Koleosho",
-    "J. Krasso",
-    "V. Marchetti",
-    "E. Mbemba",
-    "M. Mbow",
-    "O. Nkambadio",
-    "O. Sissoko",
-    "E. Zabi"
-   ],
-   "equipos": {
-    "108": [
-     {
-      "n": "P. Nardi",
-      "pos": "G"
-     },
-     {
-      "n": "M. Senaya",
-      "pos": "D"
-     },
-     {
-      "n": "S. Diomandé",
-      "pos": "D"
-     },
-     {
-      "n": "A. Tuanzebe",
-      "pos": "D"
-     },
-     {
-      "n": "T. Siwe",
-      "pos": "D"
-     },
-     {
-      "n": "N. Ahamada",
-      "pos": "M"
-     },
-     {
-      "n": "P. Ekwah",
-      "pos": "M"
-     },
-     {
-      "n": "F. Oppegård",
-      "pos": "M"
-     },
-     {
-      "n": "R. Faivre",
-      "pos": "F"
-     },
-     {
-      "n": "C. Archer",
-      "pos": "F"
-     },
-     {
-      "n": "D. Namaso",
-      "pos": "F"
-     }
-    ],
-    "114": [
-     {
-      "n": "K. Trapp",
-      "pos": "G"
-     },
-     {
-      "n": "H. Traoré",
-      "pos": "D"
-     },
-     {
-      "n": "D. Coppola",
-      "pos": "D"
-     },
-     {
-      "n": "Otávio",
-      "pos": "D"
-     },
-     {
-      "n": "M. Simon",
-      "pos": "D"
-     },
-     {
-      "n": "M. Lopez",
-      "pos": "M"
-     },
-     {
-      "n": "P. Lees-Melou",
-      "pos": "M"
-     },
-     {
-      "n": "I. Kebbal",
-      "pos": "M"
-     },
-     {
-      "n": "P. Pagis",
-      "pos": "M"
-     },
-     {
-      "n": "R. Matondo",
-      "pos": "M"
-     },
-     {
-      "n": "L. Sinayoko",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1550187": {
    "hora": "2026-11-07T20:23:28.384413+01:00",
    "xi": [
@@ -4864,16 +4723,154 @@
    }
   },
   "1573633": {
-   "hora": "2026-11-09T18:27:30.138379+01:00",
+   "hora": "2026-11-09T18:39:08.050626+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1565299": {
-   "hora": "2026-11-09T18:27:30.138379+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-09T18:39:08.050626+01:00",
+   "xi": [
+    "Ioannis Anestis",
+    "Brian Bayeye",
+    "George Miron",
+    "Djibril Diaw",
+    "Răzvan Creț",
+    "Lucas de Vega",
+    "Charles Petro",
+    "Enriko Papa",
+    "Zoran Mitrov",
+    "Andrei Dumiter",
+    "Sebastian Mailat",
+    "Cosmin Dur-Bozoancă",
+    "Habib Sylla",
+    "Dominick Zator",
+    "Paul Iacob",
+    "Miguel Silva",
+    "Pedro Nuno",
+    "Andrei Ciobanu",
+    "Rafael Brito",
+    "Denis Bordun",
+    "Patrick Fernandes",
+    "Andrézinho"
+   ],
+   "banquillo": [
+    "David Dincă",
+    "Ion Gurău",
+    "Alexandru Țigănașu",
+    "Rijad Sadiku",
+    "Teodor Afilipoaie",
+    "George Sorodoc",
+    "Ştefan Bodişteanu",
+    "Roland Idowu",
+    "Mihai Bordeianu",
+    "Mario Preda",
+    "Jovan Marković",
+    "Mykola Kovtalyuk",
+    "Mario Contra",
+    "Kazu",
+    "Dan Neicu",
+    "Teodor Lungu",
+    "Matei Frunză",
+    "Dragoș Aftene",
+    "João Paulino",
+    "Cristian Neicu",
+    "Alexandru Bălănică"
+   ],
+   "equipos": {
+    "2581": [
+     {
+      "n": "Ioannis Anestis",
+      "pos": "G"
+     },
+     {
+      "n": "Brian Bayeye",
+      "pos": "D"
+     },
+     {
+      "n": "George Miron",
+      "pos": "D"
+     },
+     {
+      "n": "Djibril Diaw",
+      "pos": "D"
+     },
+     {
+      "n": "Răzvan Creț",
+      "pos": "D"
+     },
+     {
+      "n": "Lucas de Vega",
+      "pos": "M"
+     },
+     {
+      "n": "Charles Petro",
+      "pos": "M"
+     },
+     {
+      "n": "Enriko Papa",
+      "pos": "M"
+     },
+     {
+      "n": "Zoran Mitrov",
+      "pos": "F"
+     },
+     {
+      "n": "Andrei Dumiter",
+      "pos": "F"
+     },
+     {
+      "n": "Sebastian Mailat",
+      "pos": "F"
+     }
+    ],
+    "6886": [
+     {
+      "n": "Cosmin Dur-Bozoancă",
+      "pos": "G"
+     },
+     {
+      "n": "Habib Sylla",
+      "pos": "D"
+     },
+     {
+      "n": "Dominick Zator",
+      "pos": "D"
+     },
+     {
+      "n": "Paul Iacob",
+      "pos": "D"
+     },
+     {
+      "n": "Miguel Silva",
+      "pos": "D"
+     },
+     {
+      "n": "Pedro Nuno",
+      "pos": "M"
+     },
+     {
+      "n": "Andrei Ciobanu",
+      "pos": "M"
+     },
+     {
+      "n": "Rafael Brito",
+      "pos": "M"
+     },
+     {
+      "n": "Denis Bordun",
+      "pos": "F"
+     },
+     {
+      "n": "Patrick Fernandes",
+      "pos": "F"
+     },
+     {
+      "n": "Andrézinho",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
