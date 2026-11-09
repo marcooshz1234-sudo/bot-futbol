@@ -20,6 +20,7 @@ import time
 import unicodedata
 from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import urllib.request
 
@@ -44,6 +45,12 @@ def bajar(url, intentos=3):
                 pass
             # 09/11: NUNCA la clave en los logs (repo público): se tapa el apiKey
             print(f"  {re.sub(r'apiKey=[^&]+', 'apiKey=***', url)}: {e} {cuerpo}")
+            codigo = getattr(e, "code", None)
+            if codigo == 429:            # 09/11: OddsPapi pide esperar un poco
+                time.sleep(1.5)
+                continue
+            if codigo and 400 <= codigo < 500:
+                return None              # 403/404: reintentar solo gasta peticiones del plan gratis
             time.sleep(3 * (i + 1))
     return None
 
@@ -209,12 +216,17 @@ def oddspapi():
                                                 "to": (hoy + timedelta(days=1)).strftime("%Y-%m-%d")})
     usadas += 1
     fixtures = _lista(fx)
+    # 09/11: solo partidos que no han empezado (≥30 min) y con cuotas (los de en directo dan 403 en el plan gratis)
+    limite = (datetime.now(MADRID) + timedelta(minutes=30)).astimezone(ZoneInfo("UTC")).strftime("%Y-%m-%dT%H:%M")
+    fixtures = [x for x in fixtures if x.get("hasOdds") is not False and not x.get("trueStartTime")
+                and (x.get("startTime") or "") >= limite]
     print("OddsPapi: partidos", len(fixtures), (json.dumps(fixtures[0])[:300] if fixtures else str(fx)[:300]))
     import combis_dia as C
     nuestros = []
     for f in C.EXTRA.glob("*.json"):
         pa = (leer(f) or {}).get("partido")
-        if pa and pa["fixture"]["date"][:10] == hoy.strftime("%Y-%m-%d") and pa["fixture"]["status"]["short"] == "NS":
+        if pa and pa["fixture"]["date"][:10] == hoy.strftime("%Y-%m-%d") and pa["fixture"]["status"]["short"] == "NS" \
+                and datetime.fromisoformat(pa["fixture"]["date"]) > datetime.now(MADRID) + timedelta(minutes=30):
             nuestros.append(pa)
     nuestros.sort(key=lambda pa: pa["league"]["id"] not in (2, 3, 848, 140, 39, 135, 78, 61, 5, 141))
     salida = {"dia": hoy.strftime("%Y-%m-%d"), "partidos": {}}
@@ -232,6 +244,7 @@ def oddspapi():
         fid = m.get("fixtureId") or m.get("id")
         r = _op("odds", clave, fixtureId=fid, bookmakers="pinnacle,bet365,betfair-ex")
         usadas += 1
+        time.sleep(1.2)   # sin pasarse del límite por segundo
         if r:
             salida["partidos"][str(pa["fixture"]["id"])] = {"oddspapi": fid, "cuotas": r}
             if len(salida["partidos"]) == 1:
