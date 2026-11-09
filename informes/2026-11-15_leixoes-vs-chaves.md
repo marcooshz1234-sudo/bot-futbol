@@ -1,7 +1,7 @@
 # Leixoes – Chaves
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:47._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:54._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

@@ -1,0 +1,240 @@
+{
+ "1644362": {
+  "local": {
+   "nombre": "Mijas Las Lagunas",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Real Jaén",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.1,
+   "viento_kmh": 4.3,
+   "temperatura": 20.1
+  }
+ },
+ "1644346": {
+  "local": {
+   "nombre": "Badajoz",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Tenerife",
+   "dias_desde": 2,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.9,
+   "viento_kmh": 17.9,
+   "temperatura": 18.0
+  }
+ },
+ "1638291": {
+  "local": {
+   "nombre": "Roma W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 9,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Servette Chênois W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 9,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.1,
+   "temperatura": 17.1
+  }
+ },
+ "1644382": {
+  "local": {
+   "nombre": "Trival Valderas",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Leganes",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 1.8,
+   "viento_kmh": 11.4,
+   "temperatura": 14.9
+  }
+ },
+ "1638308": {
+  "local": {
+   "nombre": "Inter Milano W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 7,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Manchester City W",
+   "dias_desde": 12,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 7,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.1,
+   "temperatura": 7.2
+  }
+ },
+ "1644365": {
+  "local": {
+   "nombre": "Pamplona",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Eibar",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null
+  }
+ },
+ "1644380": {
+  "local": {
+   "nombre": "Tavernes",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Valencia",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 11,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.2,
+   "temperatura": 19.7
+  }
+ },
+ "1644336": {
+  "local": {
+   "nombre": "Anaitasuna",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Alaves",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 11,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 7.5,
+   "viento_kmh": 8.4,
+   "temperatura": 16.7
+  }
+ },
+ "1638328": {
+  "local": {
+   "nombre": "Paris Saint Germain W",
+   "dias_desde": 12,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Bayern Munich W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.8,
+   "viento_kmh": 5.6,
+   "temperatura": 13.3
+  }
+ },
+ "1638332": {
+  "local": {
+   "nombre": "Real Madrid W",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Paris FC W",
+   "dias_desde": 12,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 9,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": null
+ },
+ "1638304": {
+  "local": {
+   "nombre": "Häcken W",
+   "dias_desde": 12,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Chelsea W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 11.5,
+   "temperatura": 7.4
+  }
+ },
+ "1644335": {
+  "local": {
+   "nombre": "Amorebieta",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "UD Logroñés",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  }
+ }
+}
