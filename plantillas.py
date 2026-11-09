@@ -72,8 +72,25 @@ DATOS_ACTIVO = False       # posts de fútbol sin apuesta (datos_futbol.py): qui
 
 
 def combi(titulo, picks, cuota):
-    """Post de combi corto: título, selecciones, cuota y cierre. Nada más (27/10: menos texto = más likes)."""
-    return f"{titulo}\n\n{lista(picks)}\n\n🎯 CUOTA {num(cuota)} 💎\n\n{VERDE}"
+    """Post de combi corto: título, selecciones, cuota y cierre. Nada más (27/10: menos texto = más likes).
+    09/11 (Marcos: «parecemos un bot»): estilo de tipster de verdad: una frase como persona, los picks, «Cuota @x»."""
+    return f"{intro(titulo)}\n\n{lista(picks)}\n\n📈 Cuota @{num(cuota)}\n\n{CIERRE_TELEGRAM}"
+
+
+def intro(titulo):
+    """09/11: el título de máquina («🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀») → frase de persona."""
+    m = re.search(r"DEL (LUNES|MARTES|MIÉRCOLES|JUEVES|VIERNES|SÁBADO|DOMINGO)", titulo)
+    d = m.group(1).lower() if m else "día"
+    t = titulo.upper()
+    if "LA LOCA" in t:
+        return f"Y para los valientes, la loca del {d} 🤪🔥"
+    if "GANA O EMPATA" in t:
+        return f"Os dejo la de «gana o empata» para el {d} 🛡️"
+    if "SEGURA" in t:
+        return f"Vamos con la segura del {d} familia 🔒"
+    if "COMBILOCAS" in t:
+        return f"Vamos con la combi del {d} familia 🔥"
+    return titulo
 
 
 def clave(p):
@@ -230,16 +247,13 @@ def resultados_probables(cp, tj, n=3):
 def texto_combi_partido(cp, tj, cuota):
     liga = LIGA_NOMBRE.get(cp.get("competicion"), str(cp.get("competicion") or "").upper())
     band = BANDERA.get(cp.get("competicion"), "⚽")
-    lineas = [f"✅ COMBI LOCAS | {liga}", f"{band} {cp['local'].upper()} vs {cp['visitante'].upper()} {band}", ""]
+    # 09/11 (Marcos): como un tipster de verdad, sin mayúsculas ni «[x1.73]» ni «cuota aprox.»
+    lineas = [f"Os dejo la combi del {cp['local']} – {cp['visitante']} {band}🔥", ""]
     partido = f"{cp['local']}–{cp['visitante']}"
-    for i, p in enumerate(cp["picks"]):
+    for p in cp["picks"]:
         t = p["texto"].replace(f" en el {partido}", "").replace(f" del {partido}", "").replace(f" en {partido}", "")
-        lineas.append(f"{'🎯' if i == 0 else '✅'} {t.upper()} [x{p['cuota']:.2f}]")
-    rp = resultados_probables(cp, tj) if tj else []
-    lineas.append("")
-    if rp:
-        lineas.append(f"🔥 Resultado probable: {' | '.join(rp)}")
-    lineas += [f"💥 Cuota total aprox.: {num(cuota)}", "🟢 VERDE A VERDE 🟢"]
+        lineas.append(f"🍀 {t}")
+    lineas += ["", f"📈 Cuota @{num(cuota)}", "", CIERRE_TELEGRAM]
     return "\n".join(lineas)
 
 
@@ -280,15 +294,15 @@ def texto_seguro(p, dia=""):
         except Exception as e:
             print("razones:", str(e)[:120])
             motivos = []
-        lineas = ["🔒 PICK DEL DÍA 🔒", "",
+        lineas = ["Vamos con el pick de hoy familia 🔥", "",
                   f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}", "",
-                  f"✅ {con_equipo(p)}", f"🎯 Cuota {num(p['cuota'])} · Stake {stake(p)}/10"]
+                  f"🍀 {con_equipo(p)} @{num(p['cuota'])}", f"🧠 Stake {stake(p)}/10"]
         if motivos:
-            lineas += ["", "👨‍💻 Por qué:"] + [f"• {m}" for m in motivos]
+            lineas += ["", "👨‍💻 Argumento:"] + [f"• {m}" for m in motivos]
         if v + r:
             roi = 100 * gan / (10 * (v + r))
             lineas += ["", f"📊 Historial: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
-        lineas += ["", "🔞 Juega con cabeza: nunca más de lo que puedas perder"]
+        lineas += ["", "🔞 Juega con cabeza", CIERRE_TELEGRAM]
         return "\n".join(lineas)
     lineas = ["🔒 PICK SEGURO DEL DÍA 🔒", "",
               f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}",
@@ -305,13 +319,12 @@ def texto_estrella(cp, cuota):
     """01/11 (Marcos): «partido estrella», solo texto (como «🇮🇹 NAPOLI 🆚 ROMA 🇮🇹», 5.643 visitas en Threads)."""
     band = BANDERA.get(cp.get("competicion"), "⚽")
     partido = f"{cp['local']}–{cp['visitante']}"
-    lineas = [f"{band} {cp['local'].upper()} 🆚 {cp['visitante'].upper()} {band}",
-              f"⭐ PARTIDO ESTRELLA · {cp['fecha'][11:16]} ⭐", ""]
-    for i, p in enumerate(cp["picks"], 1):
+    lineas = [f"Hoy hay partidazo: {cp['local']} 🆚 {cp['visitante']} {band}⭐", "",
+              f"Vamos con la combi del partido estrella ({cp['fecha'][11:16]}) 🔥", ""]
+    for p in cp["picks"]:
         t = p["texto"].replace(f" en el {partido}", "").replace(f" del {partido}", "").replace(f" en {partido}", "")
-        lineas.append(f"✅{i}. {t}")
-    lineas += ["", f"🎯 Cuota: {num(cuota)}", f"💶 10€ → {num(cuota * 10)}€"]
-    lineas += ["", "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"]
+        lineas.append(f"🍀 {t}")
+    lineas += ["", f"📈 Cuota @{num(cuota)}", "", CIERRE_TELEGRAM]
     return "\n".join(lineas)
 
 
@@ -537,17 +550,17 @@ def posts_del_dia(dia, d):
             ayer = (f - timedelta(days=1)).strftime("%Y-%m-%d")
             cuando = "Ayer" if ant and ant.get("dia") == ayer else \
                 f"El {DIAS[datetime.fromisoformat(ant['dia']).weekday()].lower()}" if ant else ""
-            intro = (f"❌ {cuando} se cayó el día {ant.get('escalon')}. Aquí no se borra nada: otra vez desde 20€ 💪"
+            intro_esc = (f"❌ {cuando} se cayó el día {ant.get('escalon')}. Aquí no se borra nada: otra vez desde 20€ 💪"
                      if ant else "Empezamos con 20€ y subimos un escalón cada día 🚀")
         else:
-            intro = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
+            intro_esc = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
         apuntar(act["picks"])
         from panel_datos import ajustes   # 30/10: hora de la escalera desde el panel
         h_esc, m_esc = (int(x) for x in (act.get("hora") or ajustes()["hora_escalera"]).split(":"))   # 29/10: si se prepara tarde, sale tarde
         posts.append(("escalera", f.replace(hour=h_esc, minute=m_esc), act["picks"],
-                      f"🪜 RETO ESCALERA · DÍA {act['escalon']}/7 · x{num(act['cuota'])} 🍀\n\n{intro}\n\n"
-                      f"{lista(act['picks'])}\n\n🎯 CUOTA {num(act['cuota'])} 💎 · "
-                      f"{num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n{VERDE}"))
+                      f"🪜 Reto escalera · Día {act['escalon']}/7\n\n{intro_esc}\n\n"
+                      f"{lista(act['picks'])}\n\n📈 Cuota @{num(act['cuota'])}\n"
+                      f"💶 {num(act['stake'])}€ → {num(act['stake'] * act['cuota'])}€\n\n{CIERRE_TELEGRAM}"))
 
     # ---- estilos (26/10): tema del día, liga, la que nadie se atreve, de 1 € a 500 €
     est = {k: v for k, v in (d.get("estilos") or {}).items() if k == "500"} if FORMATO_27 else (d.get("estilos") or {})

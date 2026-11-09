@@ -22,7 +22,7 @@ def balance(posts, dia):
         # Las previas de mañana no pertenecen al balance del día en que se anuncian.
         # 27/10: «✅ COMBI LOCAS» sí cuenta; solo fuera los posts de ¡VERDE! y las listas (quién gana, exactos)
         if (p['fecha'][:10] != dia or titulo.startswith(('🔄', '📋')) or p.get('lista')
-                or (titulo.startswith('✅') and 'VERDE' in titulo.upper()) or 'verde-auto' in p['id']
+                or (titulo.startswith('✅') and 'VERDE' in titulo.upper()) or 'verde-auto' in p['id'] or 'rojo-auto' in p['id']
                 or 'BALANCE' in titulo.upper() or 'picks-manana' in p['id']
                 or 'PARA MAÑANA' in titulo.upper()):
             continue

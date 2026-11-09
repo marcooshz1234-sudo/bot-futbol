@@ -75,13 +75,18 @@ def main():
         boleto = "-boleto-" in p["id"]   # 27/10: boleto de bet365 (Marcos): solo la foto y poco texto, sin las patas
         if boleto:
             titulo = "CREAR APUESTA"
-        texto = f"✅💚 ¡VERDE{x}! {titulo} 💚✅" + ("\n\n📲 Montada en bet365, partido a partido 👇" if boleto else
-                                                   "\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs))
+        # 09/11 (Marcos: «parecemos un bot»): como los tipsters de verdad: corto y con alegría
+        frases = ["Otra más pa' la saca familia 😎", "A cobrar señores 🤑", "Seguimos sumando 📈",
+                  "¿Quién la llevaba? 👇💚"]
+        texto = "PARA DENTRO SEÑORES ✅🤑" + ("\n\n📲 Montada en bet365, partido a partido 👇" if boleto else
+                                            "\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs))
         if anuladas and not boleto:
-            texto += "\n" + "\n".join(f"⏸️ {x['texto']} (no se jugó: no cuenta)" for x in anuladas)
+            texto += "\n" + "\n".join(f"🔵 {x['texto']} (no se jugó: no cuenta)" for x in anuladas)
         if p.get("cuota"):
-            texto += f"\n\n🎯 Cuota {num(p['cuota'])}\n💶 10€ → {num(p['cuota'] * 10)}€"
-        texto += "\n\n¿Quién la llevaba? 👇💚"
+            texto += f"\n\n📈 Cuota @{num(p['cuota'])}"
+            if "escalera" in p["id"]:   # la escalera sí lleva el dinero (en eso consiste el reto)
+                texto += f"\n💶 {titulo_escalera(p)}"
+        texto += "\n\n" + frases[sum(map(ord, p["id"])) % len(frases)]
         pid = f"{ahora:%Y-%m-%d}-verde-auto-{p['id'][-40:]}"
         if pid in ids_cola:
             hechos.add(p["id"])
@@ -97,7 +102,16 @@ def main():
             shutil.copy(RAIZ / foto, RAIZ / "publicaciones" / "media" / f"{pid}.tarjeta.jpg")
         nuevos.append(post)
         hechos.add(p["id"])
+    try:
+        nuevos_rojos = rojos(d, hechos, ahora, ids_cola)
+    except Exception as e:
+        print("rojos:", e)
+        nuevos_rojos = []
     ESPERA.write_text(json.dumps(espera, ensure_ascii=False) + "\n", encoding="utf-8")
+    if nuevos_rojos:
+        cola.extend(nuevos_rojos)
+        if not nuevos:
+            COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if not nuevos:
         ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
         return
@@ -157,6 +171,41 @@ def main():
     ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
     for post in nuevos:
         print("Verde automático:", post["id"])
+
+
+def titulo_escalera(p):
+    """«37€ → 64,01€» del escalón (datos/escalera.json); si no está, solo la cuota."""
+    try:
+        e = leer(DATOS / "escalera.json", {}) or {}
+        for h in [e.get("actual") or {}] + list(e.get("historial") or []):
+            if h.get("dia") and h["dia"] in p["id"]:
+                return f"{num(h['stake'])}€ → {num(h['stake'] * h['cuota'])}€"
+    except Exception:
+        pass
+    return ""
+
+
+def rojos(d, hechos, ahora, ids_cola):
+    """09/11 (Marcos): el pick del día que falla también se cuenta (da confianza). Pasa por su OK como los verdes."""
+    nuevos = []
+    for p in d.get("publicados_hoy", []):
+        if p["id"] in hechos or p.get("estado") != "rojo" or not re.search(r"-pick-seguro(-2)?$", p["id"]):
+            continue
+        if not all(x.get("definitivo") or x.get("estado_partido") in TERMINADO for x in p.get("picks", [])):
+            continue
+        x = (p.get("picks") or [{}])[0]
+        m = x.get("marcador")
+        res = f" ({x.get('partido', '')} {m[0]}–{m[1]})" if isinstance(m, list) and len(m) == 2 else ""
+        texto = (f"Hoy no ha podido ser ❌\n\n❌ {x.get('texto', '')}{res}\n\n"
+                 "Aquí se marcan también los fallos. Mañana volvemos con todo 💪")
+        pid = f"{ahora:%Y-%m-%d}-rojo-auto-{p['id'][-40:]}"
+        hechos.add(p["id"])
+        if pid in ids_cola:
+            continue
+        nuevos.append({"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
+                       "origen": "bot", "directo": True, "resultado": "rojo", "rojo_de": p["id"], "requiere_ok": True,
+                       "sin_instagram": True})
+    return nuevos
 
 
 def cuota_real(p):

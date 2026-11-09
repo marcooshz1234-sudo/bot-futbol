@@ -336,14 +336,16 @@ def responder_threads(token):
 COMENTARIOS = RAIZ / "datos" / "comentarios_threads.json"
 CADA_COMENTARIOS = timedelta(minutes=15)
 SUGERENCIAS = [   # 30/10 (Marcos): respuestas cortas, en plan chaval, sin tildes
-    (("?", "recomiend", "meto", "meterias", "sale ", "crees", "que opinas", "vale la pena", "entro"),
-     ["Yo la llevo tio 🍀", "Hoy salimos de dudas 💪", "Esa yo no la tocaria 🙅‍♂️"]),
-    (("falt", "corner", "casi", "por poco", "joder", "una ", "pena", "rojo", "fallo", "palo"),
-     ["Que pena tio, mañana la sacamos 💪", "Nos dolio a todos 💔", "Por nada se escapa, la proxima es nuestra 🍀"]),
-    (("verde", "gan", "dentro", "crack", "maquina", "gracias", "grande", "bien", "toma", "cobr"),
-     ["Maquina 🔥", "A por la siguiente 💚", "Asi se hace crack 🔥"]),
+    # 09/11 (Marcos): con la voz de los tipsters grandes («familia», «señores»), y los fallos se reconocen sin excusas
+    (("roja", "rojo", "perd", "fall", "falt", "casi", "por poco", "joder", "pena", "palo", "mierda", "que mal"),
+     ["Hoy no salio familia, aqui se marcan tambien los fallos. Mañana volvemos 💪",
+      "Toca levantarse señores, a por la siguiente 🍀", "Nos dolio a todos tio, mañana la sacamos 💪"]),
+    (("?", "recomiend", "meto", "meterias", "sale ", "crees", "que opinas", "vale la pena", "entro", "stake"),
+     ["Yo voy con ella tio 🍀", "Stake pequeño y a disfrutar familia 🧠", "Esa yo no la tocaria 🙅‍♂️"]),
+    (("verde", "gan", "dentro", "crack", "maquina", "gracias", "grande", "bien", "toma", "cobr", "vamos"),
+     ["Para dentro señores 🤑", "A por la siguiente familia 💚", "Asi se hace crack 🔥"]),
 ]
-GENERICAS = ["Vamos tio 💪", "Gracias crack 💚", "🔥🔥"]
+GENERICAS = ["Vamos familia 💪", "Gracias crack 💚", "🔥🔥"]
 
 
 def sugerir(texto):

@@ -53,11 +53,11 @@ def partes(texto):
     titulo = filas[0]
     sub, lineas, cuota, dato = None, [], [], None
     for f in filas[1:]:
-        if not f or f.startswith(("🔞", "🍀 ¿LA", "¡Combina")):
+        if not f or f.startswith(("🔞", "🍀 ¿LA", "¡Combina", "🔔")):
             continue
         if f.startswith("💥 COMBI DEL PARTIDO"):
             sub = f
-        elif f.startswith(("🎯", "💶")):
+        elif f.startswith(("🎯", "💶", "📈", "🧠")):
             cuota.append(f)
         elif f.startswith("📊"):
             dato = f
@@ -175,7 +175,7 @@ def tarjeta(p, pagina):
     dia = "Hoy" if ini.date() == hoy.date() else "Mañana" if (ini.date() - hoy.date()).days == 1 else dias[ini.weekday()]
     doc = TARJETA
     import re
-    m = re.search(r"Cuota total aprox\.: (\d+,\d+)", p.get("texto", ""))
+    m = re.search(r"(?:Cuota total aprox\.: |Cuota @)(\d+,\d+)", p.get("texto", ""))
     doc = doc.replace("{cuota}", f'<div class="cuota">💥 COMBI DEL PARTIDO · x{m.group(1)}</div>' if m else "")
     bandera = {"LaLiga": "🇪🇸", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪", "Ligue 1": "🇫🇷",
                "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢", "Primeira Liga": "🇵🇹",

@@ -13,10 +13,12 @@ class CombiPartido(unittest.TestCase):
               "picks": [pk("Goals Over/Under", "Over 3.5", "Más de 3,5 goles en Barcelona–Real Madrid", 1.5),
                         pk("Both Teams Score", "Yes", "Ambos marcan", 1.24)]}
         t = plantillas.texto_combi_partido(cp, None, 1.86)
-        self.assertTrue(t.startswith("✅ COMBI LOCAS | LALIGA\n🇪🇸 BARCELONA vs REAL MADRID 🇪🇸"))
-        self.assertIn("🎯 MÁS DE 3,5 GOLES [x1.50]", t)
-        self.assertIn("✅ AMBOS MARCAN [x1.24]", t)
-        self.assertIn("🟢 VERDE A VERDE 🟢", t)
+        # 09/11 (Marcos): estilo de tipster de verdad
+        self.assertTrue(t.startswith("Os dejo la combi del Barcelona – Real Madrid 🇪🇸🔥"))
+        self.assertIn("🍀 Más de 3,5 goles", t)
+        self.assertIn("🍀 Ambos marcan", t)
+        self.assertIn("📈 Cuota @1,86", t)
+        self.assertNotIn("[x", t)
 
     def test_marcadores_que_cumplen(self):
         p = pk("Goals Over/Under", "Over 3.5", "", 1.5)

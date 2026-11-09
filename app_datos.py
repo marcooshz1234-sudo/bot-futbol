@@ -254,7 +254,7 @@ def tipo_combi(c):
     return "otras", "📊 Otras combis"
 
 
-FORMATOS = [("⚽ Combi de partido", r"COMBI LOCAS|🆚| VS "), ("✅ Verdes", r"VERDE"), ("⚽ Quién gana", r"QUIÉN GANA"),
+FORMATOS = [("⚽ Combi de partido", r"COMBI LOCAS|🆚| VS "), ("✅ Verdes", r"VERDE|PARA DENTRO"), ("⚽ Quién gana", r"QUIÉN GANA"),
             ("🔥 Picks / listas", r"PICKS|OPCIONES"), ("🪜 Escalera", r"ESCALERA"), ("🤪 La loca", r"\bLA LOCA\b|COMBI LOCA\b"),
             ("🔥 Combis", r"COMBI\b|COMBINADA|COMBI DEL|COMBI X|\bX\d+[,.]\d+|CUOTA"), ("📊 Datos sin apuesta", r"RACHAS|SABÍAS|PICHICHIS|DATOS|PREVIA"),
             ("📋 Balances", r"BALANCE|ASÍ FUE|PLENO")]
