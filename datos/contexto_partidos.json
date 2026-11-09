@@ -1,0 +1,281 @@
+{
+ "1644365": {
+  "local": {
+   "nombre": "Pamplona",
+   "nivel": 5,
+   "liga": "Tercera División RFEF - Group 15",
+   "ultimos": [
+    "D",
+    "D",
+    "D",
+    "V",
+    "D",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Eibar",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "E",
+    "D",
+    "E",
+    "D",
+    "V"
+   ]
+  },
+  "sede": "Campo de Futbol Beitikuntzea",
+  "estadio_local": "Campo de Fútbol Beitikuntzea",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644336": {
+  "local": {
+   "nombre": "Anaitasuna",
+   "nivel": null,
+   "liga": null,
+   "ultimos": [
+    "V",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Alaves",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "E",
+    "D",
+    "E",
+    "D",
+    "D",
+    "E"
+   ]
+  },
+  "sede": "Campo Txerloia",
+  "estadio_local": "Campo Txerloia",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644335": {
+  "local": {
+   "nombre": "Amorebieta",
+   "nivel": 2,
+   "liga": "Segunda División RFEF - Group 1",
+   "ultimos": [
+    "D",
+    "V",
+    "V",
+    "V",
+    "D",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "UD Logroñés",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 1",
+   "ultimos": [
+    "V",
+    "D",
+    "V",
+    "E",
+    "D",
+    "V"
+   ]
+  },
+  "sede": "Campo Municipal de Urritxe",
+  "estadio_local": "Campo Municipal de Urritxe",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644382": {
+  "local": {
+   "nombre": "Trival Valderas",
+   "nivel": 5,
+   "liga": "Tercera División RFEF - Group 7",
+   "ultimos": [
+    "E",
+    "E",
+    "E",
+    "E",
+    "D",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Leganes",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "D",
+    "D",
+    "E",
+    "D",
+    "D",
+    "D"
+   ]
+  },
+  "sede": "Estadio Municipal de Butarque",
+  "estadio_local": "Estadio La Canaleja",
+  "local_fuera_de_su_campo": true,
+  "aplazamientos": 0
+ },
+ "1644362": {
+  "local": {
+   "nombre": "Mijas Las Lagunas",
+   "nivel": 2,
+   "liga": "Segunda División RFEF - Group 4",
+   "ultimos": [
+    "E",
+    "E",
+    "E",
+    "V",
+    "V",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Real Jaén",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 2",
+   "ultimos": [
+    "D",
+    "V",
+    "E",
+    "V",
+    "E",
+    "E"
+   ]
+  },
+  "sede": null,
+  "estadio_local": "Ciudad Deportiva Las Lagunas",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644380": {
+  "local": {
+   "nombre": "Tavernes",
+   "nivel": null,
+   "liga": null,
+   "ultimos": [
+    "E",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Valencia",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "D",
+    "V",
+    "D",
+    "E",
+    "E",
+    "D"
+   ]
+  },
+  "sede": "Estadio de Mestalla",
+  "estadio_local": null,
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644370": {
+  "local": {
+   "nombre": "Calvo Sotelo",
+   "nivel": 2,
+   "liga": "Segunda División RFEF - Group 5",
+   "ultimos": [
+    "D",
+    "D",
+    "E",
+    "D",
+    "E",
+    "D"
+   ]
+  },
+  "visitante": {
+   "nombre": "Albacete",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "V",
+    "V",
+    "V",
+    "D",
+    "D",
+    "D"
+   ]
+  },
+  "sede": "New Municipal Stadium Ciudad de Puertollano",
+  "estadio_local": "Estadio Ciudad de Puertollano",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644363": {
+  "local": {
+   "nombre": "Navalcarnero",
+   "nivel": 2,
+   "liga": "Segunda División RFEF - Group 5",
+   "ultimos": [
+    "E",
+    "V",
+    "V",
+    "E",
+    "E",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Real Betis",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "V",
+    "D",
+    "V",
+    "E",
+    "V",
+    "D"
+   ]
+  },
+  "sede": "Estadio Municipal de Santo Domingo",
+  "estadio_local": "Campo de San Francisco",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ },
+ "1644379": {
+  "local": {
+   "nombre": "Tarancón",
+   "nivel": 5,
+   "liga": "Tercera División RFEF - Group 18",
+   "ultimos": [
+    "D",
+    "E",
+    "E",
+    "V",
+    "V",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Levante",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "E",
+    "D",
+    "D",
+    "V",
+    "E",
+    "E"
+   ]
+  },
+  "sede": "Estadio Municipal de Tarancon",
+  "estadio_local": "Polideportivo Estadio Municipal Tarancón",
+  "local_fuera_de_su_campo": false,
+  "aplazamientos": 0
+ }
+}

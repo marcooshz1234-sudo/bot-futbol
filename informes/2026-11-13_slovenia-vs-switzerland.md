@@ -1,10 +1,10 @@
 # Slovenia – Switzerland
 **Nations League** · League B - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
 - **1X2:** 1 **5.75**  ·  X **3.50**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.20**  ·  12 **1.28**  ·  X2 **1.14**
@@ -21,7 +21,7 @@ _Actualizadas: 08/11 23:29_
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.73** · menos **2.00**
-    - 1,5: más **4.50** · menos **1.18**
+    - 1,5: más **5.00** · menos **1.17**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
@@ -29,6 +29,7 @@ _Actualizadas: 08/11 23:29_
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 8,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **3.25**  ·  X **8.50**  ·  2 **1.44**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.20**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -45,7 +46,7 @@ _Actualizadas: 08/11 23:29_
     - 3,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 
 ## Estadísticas de equipo
 | | Slovenia (total) | Slovenia en casa | Switzerland (total) | Switzerland fuera |

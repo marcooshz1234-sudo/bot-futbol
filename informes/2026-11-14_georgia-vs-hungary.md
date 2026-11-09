@@ -1,34 +1,34 @@
 # Georgia – Hungary
 **Nations League** · League B - 5 · 14/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:30_
+_Actualizadas: 09/11 23:39_
 
 - **1X2:** 1 **3.20**  ·  X **3.20**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.36**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **7.50**
+    - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.35** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **10.00** · menos **1.06**
+    - 2,5: más **2.40** · menos **1.53**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 8,5: más **1.91** · menos **1.80**
+    - 8,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **2.20**  ·  X **7.50**  ·  2 **1.91**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.00**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
@@ -46,8 +46,7 @@ _Actualizadas: 08/11 23:30_
     - 3,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):**
-    - 4: más **2.05** · menos **1.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.50**  ·  Menos de 4 **2.10**
 
 ## Estadísticas de equipo
 | | Georgia (total) | Georgia en casa | Hungary (total) | Hungary fuera |

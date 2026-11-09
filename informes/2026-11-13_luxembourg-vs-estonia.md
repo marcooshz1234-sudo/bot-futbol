@@ -1,10 +1,10 @@
 # Luxembourg – Estonia
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
 - **1X2:** 1 **2.15**  ·  X **3.20**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.36**  ·  X2 **1.67**
@@ -20,17 +20,17 @@ _Actualizadas: 08/11 23:29_
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **8.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.00** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **5.50** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.50** · menos **1.28**
-    - 2,5: más **8.00** · menos **1.06**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **8.50** · menos **1.05**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.00** · menos **1.80**
-- **Córners 1X2:** 1 **1.80**  ·  X **7.50**  ·  2 **2.30**
+- **Córners 1X2:** 1 **1.80**  ·  X **7.50**  ·  2 **2.38**
 - **1X2 descanso:** 1 **2.75**  ·  X **1.95**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.33** · menos **3.25**

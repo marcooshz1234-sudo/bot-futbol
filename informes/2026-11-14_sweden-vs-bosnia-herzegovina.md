@@ -1,10 +1,10 @@
 # Sweden – Bosnia & Herzegovina
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:30_
+_Actualizadas: 09/11 23:39_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.50**
@@ -13,8 +13,8 @@ _Actualizadas: 08/11 23:30_
     - 1,5: más **1.18** · menos **4.50**
     - 2,5: más **1.62** · menos **2.25**
     - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
-    - 5,5: más **10.00** · menos **1.06**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
@@ -30,7 +30,8 @@ _Actualizadas: 08/11 23:30_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.85** · menos **1.95**
+    - 8,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.40**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -48,7 +49,7 @@ _Actualizadas: 08/11 23:30_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.92**  ·  Menos de 4 **1.88**
 
 ## Estadísticas de equipo
 | | Sweden (total) | Sweden en casa | Bosnia & Herzegovina (total) | Bosnia & Herzegovina fuera |

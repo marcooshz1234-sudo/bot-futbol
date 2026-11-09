@@ -1,0 +1,281 @@
+{
+ "9854": {
+  "nivel": 5,
+  "liga": "Tercera División RFEF - Group 15",
+  "estadio": "Campo de Fútbol Beitikuntzea",
+  "estadio_id": 6934,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "D",
+   "D",
+   "V",
+   "D",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "545": {
+  "nivel": 2,
+  "liga": "Segunda División",
+  "estadio": "Estadio Municipal de Ipurúa",
+  "estadio_id": 1472,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "D",
+   "E",
+   "D",
+   "V"
+  ],
+  "dia": "2026-11-09"
+ },
+ "15340": {
+  "nivel": null,
+  "liga": null,
+  "estadio": "Campo Txerloia",
+  "estadio_id": 11006,
+  "temporada": 2026,
+  "ultimos": [
+   "V",
+   "V"
+  ],
+  "dia": "2026-11-09"
+ },
+ "542": {
+  "nivel": 1,
+  "liga": "La Liga",
+  "estadio": "Estadio de Mendizorroza",
+  "estadio_id": 1470,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "D",
+   "E",
+   "D",
+   "D",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "9380": {
+  "nivel": 2,
+  "liga": "Segunda División RFEF - Group 1",
+  "estadio": "Campo Municipal de Urritxe",
+  "estadio_id": 6482,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "V",
+   "V",
+   "V",
+   "D",
+   "V"
+  ],
+  "dia": "2026-11-09"
+ },
+ "5280": {
+  "nivel": 3,
+  "liga": "Primera División RFEF - Group 1",
+  "estadio": "Estadio Nuevo Municipal Las Gaunas",
+  "estadio_id": 3994,
+  "temporada": 2026,
+  "ultimos": [
+   "V",
+   "D",
+   "V",
+   "E",
+   "D",
+   "V"
+  ],
+  "dia": "2026-11-09"
+ },
+ "9718": {
+  "nivel": 5,
+  "liga": "Tercera División RFEF - Group 7",
+  "estadio": "Estadio La Canaleja",
+  "estadio_id": 6807,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "E",
+   "E",
+   "E",
+   "D",
+   "V"
+  ],
+  "dia": "2026-11-09"
+ },
+ "537": {
+  "nivel": 2,
+  "liga": "Segunda División",
+  "estadio": "Estadio Municipal de Butarque",
+  "estadio_id": 1464,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "D",
+   "E",
+   "D",
+   "D",
+   "D"
+  ],
+  "dia": "2026-11-09"
+ },
+ "22569": {
+  "nivel": 2,
+  "liga": "Segunda División RFEF - Group 4",
+  "estadio": "Ciudad Deportiva Las Lagunas",
+  "estadio_id": 21275,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "E",
+   "E",
+   "V",
+   "V",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "5274": {
+  "nivel": 3,
+  "liga": "Primera División RFEF - Group 2",
+  "estadio": "Nuevo Estadio La Victoria",
+  "estadio_id": 3988,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "V",
+   "E",
+   "V",
+   "E",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "28415": {
+  "nivel": null,
+  "liga": null,
+  "estadio": null,
+  "estadio_id": null,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "532": {
+  "nivel": 1,
+  "liga": "La Liga",
+  "estadio": "Estadio de Mestalla",
+  "estadio_id": 1497,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "V",
+   "D",
+   "E",
+   "E",
+   "D"
+  ],
+  "dia": "2026-11-09"
+ },
+ "9899": {
+  "nivel": 2,
+  "liga": "Segunda División RFEF - Group 5",
+  "estadio": "Estadio Ciudad de Puertollano",
+  "estadio_id": 6977,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "D",
+   "E",
+   "D",
+   "E",
+   "D"
+  ],
+  "dia": "2026-11-09"
+ },
+ "722": {
+  "nivel": 2,
+  "liga": "Segunda División",
+  "estadio": "Estadio Carlos Belmonte",
+  "estadio_id": 1458,
+  "temporada": 2026,
+  "ultimos": [
+   "V",
+   "V",
+   "V",
+   "D",
+   "D",
+   "D"
+  ],
+  "dia": "2026-11-09"
+ },
+ "5271": {
+  "nivel": 2,
+  "liga": "Segunda División RFEF - Group 5",
+  "estadio": "Campo de San Francisco",
+  "estadio_id": 3985,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "V",
+   "V",
+   "E",
+   "E",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "543": {
+  "nivel": 1,
+  "liga": "La Liga",
+  "estadio": "Estadio La Cartuja de Sevilla",
+  "estadio_id": 22785,
+  "temporada": 2026,
+  "ultimos": [
+   "V",
+   "D",
+   "V",
+   "E",
+   "V",
+   "D"
+  ],
+  "dia": "2026-11-09"
+ },
+ "9907": {
+  "nivel": 5,
+  "liga": "Tercera División RFEF - Group 18",
+  "estadio": "Polideportivo Estadio Municipal Tarancón",
+  "estadio_id": 6984,
+  "temporada": 2026,
+  "ultimos": [
+   "D",
+   "E",
+   "E",
+   "V",
+   "V",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ },
+ "539": {
+  "nivel": 1,
+  "liga": "La Liga",
+  "estadio": "Estadio Ciudad de Valencia",
+  "estadio_id": 1482,
+  "temporada": 2026,
+  "ultimos": [
+   "E",
+   "D",
+   "D",
+   "V",
+   "E",
+   "E"
+  ],
+  "dia": "2026-11-09"
+ }
+}

@@ -1,24 +1,24 @@
 # Serbia – Germany
 **Nations League** · League A - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
-- **1X2:** 1 **8.00**  ·  X **6.25**  ·  2 **1.30**
-- **Doble oportunidad:** 1X **3.40**  ·  12 **1.12**  ·  X2 **1.08**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **1X2:** 1 **8.00**  ·  X **6.50**  ·  2 **1.28**
+- **Doble oportunidad:** 1X **3.50**  ·  12 **1.11**  ·  X2 **1.08**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.36** · menos **3.10**
     - 3,5: más **1.91** · menos **1.80**
     - 4,5: más **3.25** · menos **1.33**
-    - 5,5: más **6.00** · menos **1.12**
+    - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **2.00** · menos **1.73**
+    - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del local:**
@@ -27,32 +27,32 @@ _Actualizadas: 08/11 23:29_
     - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.30** · menos **3.40**
+    - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.83** · menos **1.83**
-    - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **7.00** · menos **1.10**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
     - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **4.33**  ·  X **9.50**  ·  2 **1.28**
 - **1X2 descanso:** 1 **7.50**  ·  X **2.88**  ·  2 **1.67**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **3.75**  ·  2 **1.17**
+- **To Win Either Half:** 1 **3.75**  ·  2 **1.14**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.73**
-- **Win Both Halves:** 1 **29.00**  ·  2 **2.62**
-- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.50**  ·  Home/No **17.00**  ·  Draw/No **26.00**  ·  Away/No **2.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.60**
+- **Win Both Halves:** 1 **34.00**  ·  2 **2.62**
+- **Results/Both Teams Score:** Home/Yes **12.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.40**  ·  Home/No **17.00**  ·  Draw/No **26.00**  ·  Away/No **2.38**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
     - 2,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**
     - 5,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
 
 ## Estadísticas de equipo
 | | Serbia (total) | Serbia en casa | Germany (total) | Germany fuera |

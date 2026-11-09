@@ -1,14 +1,14 @@
 # Scotland – FYR Macedonia
 **Nations League** · League B - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
-- **1X2:** 1 **1.20**  ·  X **5.75**  ·  2 **15.00**
-- **Doble oportunidad:** 1X **1.03**  ·  12 **1.14**  ·  X2 **4.33**
-- **Ambos marcan:** Sí **2.62**  ·  No **1.44**
+- **1X2:** 1 **1.18**  ·  X **6.00**  ·  2 **17.00**
+- **Doble oportunidad:** 1X **1.02**  ·  12 **1.12**  ·  X2 **4.50**
+- **Ambos marcan:** Sí **2.75**  ·  No **1.40**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.22** · menos **4.00**
@@ -22,36 +22,35 @@ _Actualizadas: 08/11 23:29_
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.20** · menos **1.62**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
     - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **2.50** · menos **1.50**
-    - 1,5: más **10.00** · menos **1.06**
+    - 0,5: más **2.62** · menos **1.44**
+    - 1,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
     - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.08**  ·  X **13.00**  ·  2 **9.00**
-- **1X2 descanso:** 1 **1.62**  ·  X **2.62**  ·  2 **13.00**
+- **1X2 descanso:** 1 **1.57**  ·  X **2.62**  ·  2 **15.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
-- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
-- **To Win Either Half:** 1 **1.12**  ·  2 **6.00**
-- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **17.00**
-- **Win Both Halves:** 1 **2.50**  ·  2 **67.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **8.50**  ·  Away/Yes **29.00**  ·  Home/No **1.67**  ·  Draw/No **11.00**  ·  Away/No **21.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.25**  ·  o/no 2.5 **3.25**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **2.30**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **To Win Either Half:** 1 **1.12**  ·  2 **6.50**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **19.00**
+- **Win Both Halves:** 1 **2.38**  ·  2 **101.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **9.00**  ·  Away/Yes **34.00**  ·  Home/No **1.62**  ·  Draw/No **11.00**  ·  Away/No **21.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.40**  ·  o/no 2.5 **3.20**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 7,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 1,5: más **1.53** · menos **2.38**
-- **Total Corners (1st Half):**
-    - 4,5: más **1.92** · menos **1.88**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 
 ## Estadísticas de equipo
 | | Scotland (total) | Scotland en casa | FYR Macedonia (total) | FYR Macedonia fuera |

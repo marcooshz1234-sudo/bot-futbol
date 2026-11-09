@@ -1,10 +1,10 @@
 # Bulgaria – Iceland
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
 - **1X2:** 1 **4.00**  ·  X **3.50**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.22**
@@ -31,6 +31,7 @@ _Actualizadas: 08/11 23:29_
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.00** · menos **1.80**
+- **Córners 1X2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.73**
 - **1X2 descanso:** 1 **4.50**  ·  X **2.10**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -47,7 +48,7 @@ _Actualizadas: 08/11 23:29_
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
 
 ## Estadísticas de equipo
 | | Bulgaria (total) | Bulgaria en casa | Iceland (total) | Iceland fuera |

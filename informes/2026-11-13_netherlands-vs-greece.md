@@ -1,10 +1,10 @@
 # Netherlands – Greece
 **Nations League** · League A - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:30_
+_Actualizadas: 09/11 23:38_
 
 - **1X2:** 1 **1.42**  ·  X **5.00**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.75**
@@ -50,7 +50,7 @@ _Actualizadas: 08/11 23:30_
     - 5,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 
 ## Estadísticas de equipo
 | | Netherlands (total) | Netherlands en casa | Greece (total) | Greece fuera |

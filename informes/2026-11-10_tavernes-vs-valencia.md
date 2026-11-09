@@ -1,7 +1,7 @@
 # Tavernes – Valencia
 **Copa del Rey** · Round of 128 · 10/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 19:59_

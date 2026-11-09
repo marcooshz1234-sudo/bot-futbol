@@ -1,10 +1,10 @@
 # Norway – Wales
 **Nations League** · League A - 5 · 14/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:30_
+_Actualizadas: 09/11 23:39_
 
 - **1X2:** 1 **1.25**  ·  X **6.50**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.11**  ·  X2 **3.75**
@@ -51,8 +51,7 @@ _Actualizadas: 08/11 23:30_
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 2,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):**
-    - 4,5: más **2.02** · menos **1.78**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
 
 ## Estadísticas de equipo
 | | Norway (total) | Norway en casa | Wales (total) | Wales fuera |

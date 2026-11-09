@@ -1,10 +1,10 @@
 # Slovakia – Faroe Islands
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
 - **1X2:** 1 **1.33**  ·  X **4.75**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.17**  ·  X2 **3.25**
@@ -29,7 +29,7 @@ _Actualizadas: 08/11 23:29_
     - 0,5: más **1.91** · menos **1.80**
     - 1,5: más **5.50** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.20**  ·  X **10.00**  ·  2 **5.50**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.40**  ·  2 **8.00**
 - **Goals Over/Under - Second Half:**

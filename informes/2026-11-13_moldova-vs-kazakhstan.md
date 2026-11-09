@@ -1,10 +1,10 @@
 # Moldova – Kazakhstan
 **Nations League** · League C - 5 · 13/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:29_
+_Actualizadas: 09/11 23:38_
 
 - **1X2:** 1 **2.50**  ·  X **3.10**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.36**  ·  X2 **1.50**
@@ -29,6 +29,7 @@ _Actualizadas: 08/11 23:29_
     - 2,5: más **7.50** · menos **1.07**
 - **Córners más/menos:**
     - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.91**  ·  X **7.50**  ·  2 **2.20**
 - **1X2 descanso:** 1 **3.25**  ·  X **1.91**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.36** · menos **3.00**
@@ -45,8 +46,7 @@ _Actualizadas: 08/11 23:29_
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):**
-    - 4: más **1.72** · menos **2.08**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 
 ## Estadísticas de equipo
 | | Moldova (total) | Moldova en casa | Kazakhstan (total) | Kazakhstan fuera |

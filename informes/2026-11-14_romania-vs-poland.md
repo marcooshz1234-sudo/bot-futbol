@@ -1,13 +1,13 @@
 # Romania – Poland
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:39._
 
 ## Cuotas Bet365
-_Actualizadas: 08/11 23:30_
+_Actualizadas: 09/11 23:39_
 
-- **1X2:** 1 **3.60**  ·  X **3.50**  ·  2 **2.00**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
+- **1X2:** 1 **3.80**  ·  X **3.50**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **12.00**
@@ -30,9 +30,9 @@ _Actualizadas: 08/11 23:30_
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 8,5: más **1.92** · menos **1.88**
+    - 8,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.67**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.30**  ·  2 **2.60**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.30**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -40,16 +40,16 @@ _Actualizadas: 08/11 23:30_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **2.20**  ·  2 **1.53**
-- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.00**
-- **Win Both Halves:** 1 **13.00**  ·  2 **6.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **12.00**  ·  Away/No **3.50**
+- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.75**
+- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **12.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.02**  ·  Menos de 4 **1.78**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.40**  ·  Menos de 4 **2.10**
 
 ## Estadísticas de equipo
 | | Romania (total) | Romania en casa | Poland (total) | Poland fuera |
