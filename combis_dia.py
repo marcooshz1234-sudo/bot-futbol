@@ -1344,6 +1344,33 @@ def pick_de_tipster(pools, dia, hora, otro=None, usados=()):
     return None
 
 
+def pick_de_copa(pools, hora, otro=None):
+    """09/11 (la lógica del Jaén): en Copa, «gana el X» si le saca 2+ categorías al rival (copa_contexto.py) y bet365
+    lo paga entre 1,40 y 2,10. Se mide en el historial del pick del día como cualquier otro."""
+    try:
+        ctx = leer(DATOS / "contexto_partidos.json", {}) or {}
+    except Exception:
+        return None
+    mejor = None
+    for pool in pools:
+        for p in pool:
+            c = ctx.get(str(p["partido_id"]))
+            if not c or p["partido_id"] == otro or p.get("mercado") != "Match Winner" or p.get("opcion") not in ("Home", "Away"):
+                continue
+            nl, nv = c["local"].get("nivel"), c["visitante"].get("nivel")
+            if not nl or not nv:
+                continue
+            dif = (nv - nl) if p["opcion"] == "Home" else (nl - nv)
+            if dif < 2 or not 1.40 <= p["cuota"] <= 2.10:
+                continue
+            if datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=45):
+                continue
+            k = (dif, -p["cuota"])
+            if not mejor or k > mejor[0]:
+                mejor = (k, dict(p, copa=True))
+    return mejor[1] if mejor else None
+
+
 def pick_seguro(pools, dia, segundo=False):
     """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
     jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo.
@@ -1357,7 +1384,7 @@ def pick_seguro(pools, dia, segundo=False):
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     otro = segundo["partido_id"] if segundo else None
     if dia >= SEGURO_DESDE:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
-        t = pick_de_tipster(pools, dia, hora, otro)
+        t = pick_de_tipster(pools, dia, hora, otro) or pick_de_copa(pools, hora, otro)
         if t:
             return t, hora
     cand = [p for pool in pools for p in pool

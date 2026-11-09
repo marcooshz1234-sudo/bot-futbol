@@ -57,11 +57,17 @@ def vde(res):
 
 def razones(p, hist, ex=None, maximo=3):
     """p: pick del pool (con partido_id, liga_id, local/visitante, mercado/opcion). → lista de frases."""
+    copa = []
+    try:   # 09/11: Copa (categoría, arranque, campo, aplazamientos) → copa_contexto.py
+        import copa_contexto
+        copa = copa_contexto.razones(p["partido_id"])
+    except Exception:
+        pass
     pa = (ex or leer(DATOS / "proximos" / f"{p['partido_id']}.json", {}) or {}).get("partido") or {}
     t = pa.get("teams") or {}
     il, iv = (t.get("home") or {}).get("id"), (t.get("away") or {}).get("id")
     if not il or not iv:
-        return []
+        return [f for _, f in sorted(copa, key=lambda x: -x[0])][:maximo]
     L, V = p["local"], p["visitante"]
     favor_local = p.get("opcion") in ("Home", "Home/Draw", "1X") or p["texto"].startswith(f"Gana el {L}") \
         or p["texto"].startswith(f"Gana {L}") or f"{L} o empate" in p["texto"]
@@ -109,6 +115,7 @@ def razones(p, hist, ex=None, maximo=3):
         bajas = [x for x in les if (x.get("equipo_id") or x.get("team_id")) == rival]
         if len(bajas) >= 3:
             cand.append((1, f"El {V if rival == iv else L} tiene {len(bajas)} bajas."))
+    cand += copa
     cand.sort(key=lambda x: -x[0])
     vistas, out = set(), []
     for _, f in cand:
