@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 01:59",
+ "actualizado": "2026-11-10 02:10",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2358,
-   "hoy": -1,
+   "seguidores": 2360,
+   "hoy": 1,
    "serie": [
     1638,
     1906,
@@ -24,7 +24,7 @@
     2126,
     2231,
     2359,
-    2358
+    2360
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 360,
-   "hoy": 0,
+   "seguidores": 359,
+   "hoy": -1,
    "serie": [
     245,
     277,
@@ -50,17 +50,17 @@
     307,
     331,
     360,
-    360
+    359
    ]
   }
  },
- "total": 2755,
- "total_hoy": -1,
+ "total": 2756,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "02:00",
+  "hora": "10:30",
   "dia": "2026-11-10",
-  "titulo": "Partidos de hoy - ganadores"
+  "titulo": "Vamos con el pick de hoy familia"
  },
  "ayer": {
   "aciertos": 2,
@@ -180,9 +180,9 @@
   },
   "2026-11-10": {
    "instagram": 36,
-   "threads": 2358,
+   "threads": 2360,
    "facebook": 1,
-   "telegram": 360
+   "telegram": 359
   }
  },
  "tipos_instagram": {
