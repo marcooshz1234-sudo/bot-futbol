@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 15:58",
+ "actualizado": "2026-11-10 16:08",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 369,
-   "hoy": 9,
+   "seguidores": 370,
+   "hoy": 10,
    "serie": [
     245,
     277,
@@ -50,17 +50,17 @@
     307,
     331,
     360,
-    369
+    370
    ]
   }
  },
- "total": 2955,
- "total_hoy": 199,
+ "total": 2956,
+ "total_hoy": 200,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
-  "dia": "2026-11-10",
-  "titulo": "Y para los valientes, la loca del mart"
+  "hora": "10:30",
+  "dia": "2026-11-11",
+  "titulo": "Vamos con el pick de hoy familia"
  },
  "ayer": {
   "aciertos": 2,
@@ -182,7 +182,7 @@
    "instagram": 36,
    "threads": 2549,
    "facebook": 1,
-   "telegram": 369
+   "telegram": 370
   }
  },
  "tipos_instagram": {
