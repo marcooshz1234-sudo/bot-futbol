@@ -152,7 +152,28 @@ def partido_caido(post):
             return f"partido {fid} aplazado o suspendido ({e})"
         if e in ("FT", "AET", "PEN"):
             return f"partido {fid} ya terminado"
+        # 10/11: partido movido a otro día (estado NS pero fecha nueva; Badajoz–Tenerife pasó al 18/11)
+        nueva = fechas_calendario().get(fid)
+        try:
+            dia_post = datetime.fromisoformat(post["fecha"][:16]).date()
+            if nueva and fecha(nueva).astimezone(MADRID).date() > dia_post + timedelta(days=1):
+                return f"partido {fid} movido al {fecha(nueva).astimezone(MADRID).strftime('%d/%m')}"
+        except (KeyError, ValueError):
+            pass
     return None
+
+
+def fechas_calendario():
+    """10/11: id de partido → fecha actual según datos/calendario_*.json."""
+    out = {}
+    for f in DATOS.glob("calendario_*.json"):
+        d = leer(f, []) or []
+        for x in (d if isinstance(d, list) else d.get("response", [])):
+            try:
+                out[str(x["fixture"]["id"])] = x["fixture"]["date"]
+            except (KeyError, TypeError):
+                pass
+    return out
 
 
 def leer(ruta, defecto=None):
