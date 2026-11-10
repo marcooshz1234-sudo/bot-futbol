@@ -39,5 +39,55 @@
   57.70716,
   11.96679
  ],
- "Amorebieta-Etxano": null
+ "Amorebieta-Etxano": null,
+ "Estepona|Spain": [
+  36.42764,
+  -5.14589
+ ],
+ "Badajoz|Spain": [
+  38.87789,
+  -6.97061
+ ],
+ "Rome|World": [
+  41.89193,
+  12.51133
+ ],
+ "Turin|World": [
+  45.07049,
+  7.68682
+ ],
+ "Leuven|World": [
+  50.87959,
+  4.70093
+ ],
+ "Leganes|Spain": [
+  40.32718,
+  -3.7635
+ ],
+ "Varese|World": [
+  45.82058,
+  8.82511
+ ],
+ "Valencia|Spain": null,
+ "Azcoitia|Spain": [
+  43.17744,
+  -2.31129
+ ],
+ "Paris|World": [
+  48.85341,
+  2.3488
+ ],
+ "Lisbon|World": [
+  38.72509,
+  -9.1498
+ ],
+ "Madrid|World": [
+  40.4165,
+  -3.70256
+ ],
+ "Gothenburg|World": [
+  57.70716,
+  11.96679
+ ],
+ "Amorebieta-Etxano|Spain": null
 }

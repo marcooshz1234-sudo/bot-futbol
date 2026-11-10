@@ -1,7 +1,7 @@
 # Eldense – Sabadell
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 09/11 23:54._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 01:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

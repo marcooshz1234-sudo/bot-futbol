@@ -15,9 +15,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 4.3,
-   "temperatura": 20.1
+   "lluvia_mm": 0.0,
+   "viento_kmh": 5.6,
+   "temperatura": 20.8
   }
  },
  "1644346": {
@@ -36,9 +36,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.9,
-   "viento_kmh": 17.9,
-   "temperatura": 18.0
+   "lluvia_mm": 1.0,
+   "viento_kmh": 18.7,
+   "temperatura": 18.1
   }
  },
  "1638291": {
@@ -58,8 +58,50 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.1,
-   "temperatura": 17.1
+   "viento_kmh": 4.6,
+   "temperatura": 17.0
+  }
+ },
+ "1638311": {
+  "local": {
+   "nombre": "Juventus W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 7,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Lyon W",
+   "dias_desde": 14,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 1.7,
+   "temperatura": 9.8
+  }
+ },
+ "1638318": {
+  "local": {
+   "nombre": "OH Leuven W",
+   "dias_desde": 14,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 7,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Køge W",
+   "dias_desde": 12,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.7,
+   "temperatura": 5.6
   }
  },
  "1644382": {
@@ -78,9 +120,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.8,
-   "viento_kmh": 11.4,
-   "temperatura": 14.9
+   "lluvia_mm": 1.4,
+   "viento_kmh": 13.2,
+   "temperatura": 15.0
   }
  },
  "1638308": {
@@ -134,11 +176,6 @@
    "ultimo_europa": null,
    "dias_hasta": 11,
    "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 6.2,
-   "temperatura": 19.7
   }
  },
  "1644336": {
@@ -157,9 +194,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 7.5,
-   "viento_kmh": 8.4,
-   "temperatura": 16.7
+   "lluvia_mm": 14.4,
+   "viento_kmh": 7.1,
+   "temperatura": 18.0
   }
  },
  "1638328": {
@@ -178,9 +215,30 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.8,
-   "viento_kmh": 5.6,
-   "temperatura": 13.3
+   "lluvia_mm": 0.7,
+   "viento_kmh": 5.9,
+   "temperatura": 13.4
+  }
+ },
+ "1638339": {
+  "local": {
+   "nombre": "SL Benfica W",
+   "dias_desde": 14,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 8,
+   "siguiente_europa": "Champions femenina"
+  },
+  "visitante": {
+   "nombre": "Austria Wien W",
+   "dias_desde": 13,
+   "ultimo_europa": "Champions femenina",
+   "dias_hasta": 7,
+   "siguiente_europa": "Champions femenina"
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.1,
+   "temperatura": 17.4
   }
  },
  "1638332": {
@@ -198,7 +256,11 @@
    "dias_hasta": 9,
    "siguiente_europa": "Champions femenina"
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 6.1,
+   "viento_kmh": 12.6,
+   "temperatura": 15.2
+  }
  },
  "1638304": {
   "local": {
@@ -218,7 +280,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 11.5,
-   "temperatura": 7.4
+   "temperatura": 7.5
   }
  },
  "1644335": {

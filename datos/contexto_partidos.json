@@ -286,5 +286,38 @@
   "local_fuera_de_su_campo": false,
   "en_campo_visitante": false,
   "aplazamientos": 0
+ },
+ "1644376": {
+  "local": {
+   "nombre": "Salamanca UDS",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 5",
+   "ultimos": [
+    "V",
+    "V",
+    "D",
+    "E",
+    "D",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Celta Vigo",
+   "nivel": 1,
+   "liga": "La Liga",
+   "ultimos": [
+    "E",
+    "D",
+    "D",
+    "E",
+    "V",
+    "V"
+   ]
+  },
+  "sede": null,
+  "estadio_local": "Estadio El Helmántico",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
  }
 }
