@@ -183,3 +183,4 @@
 2026-11-10 22:17:22 botón ap|20b31113dd → ok
 2026-11-10 22:59:16 arranca el bot del móvil
 2026-11-10 23:10:08 botón apno|0bfe356da4 → ok
+2026-11-10 23:14:37 botón apno|558ca0d1ff → ok
