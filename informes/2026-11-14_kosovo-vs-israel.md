@@ -1,7 +1,7 @@
 # Kosovo – Israel
 **Nations League** · League B - 5 · 14/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 23:39_

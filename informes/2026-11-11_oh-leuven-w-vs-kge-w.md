@@ -1,14 +1,14 @@
 # OH Leuven W – Køge W
 **Champions Femenina** · League Stage - 4 · 11/11/2026 18:45 (hora España) · Gemeentelijk Sportstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 02:07._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 19:59_
+_Actualizadas: 10/11 02:06_
 
-- **1X2:** 1 **4.75**  ·  X **4.33**  ·  2 **1.62**
-- **Doble oportunidad:** 1X **2.20**  ·  12 **1.20**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **1X2:** 1 **3.90**  ·  X **4.10**  ·  2 **1.80**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.22**  ·  X2 **1.25**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
     - 2,5: más **1.57** · menos **2.35**
@@ -33,7 +33,7 @@ _Actualizadas: 09/11 19:59_
 - **Córners más/menos:**
     - 9,5: más **2.00** · menos **1.80**
 - **Córners 1X2:** 1 **2.88**  ·  X **8.50**  ·  2 **1.53**
-- **1X2 descanso:** 1 **4.50**  ·  X **2.50**  ·  2 **2.10**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -41,16 +41,19 @@ _Actualizadas: 09/11 19:59_
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.50**  ·  2 **1.36**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.38**
-- **Win Both Halves:** 1 **17.00**  ·  2 **4.33**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.10**  ·  Home/No **10.00**  ·  Draw/No **15.00**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.40**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.50**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.25**  ·  Home/No **8.00**  ·  Draw/No **17.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Home Player Shots:** Anouk Van Praet - 1 **1.03**  ·  Ioanna Papatheodorou - 1 **1.03**  ·  Jeslynn Kuijpers - 1 **1.03**  ·  Kadhiya De Ceuster - 1 **1.03**  ·  Manon Heremans - 1 **1.03**  ·  Linnea Viola Stromberg - 1 **1.05**  ·  Manon Van Raay - 1 **1.06**  ·  Julie Biesmans - 1 **1.08**  ·  Lily Hoekx - 1 **1.11**  ·  Nel Neyrinck - 1 **1.12**  ·  Camille Lafaix - 1 **1.17**  ·  Lili Verstrepen - 1 **1.17**  ·  Alixe Bosteels - 1 **1.25**  ·  Flo Hermans - 1 **1.30**  ·  Saar Janssen - 1 **1.30**  ·  Agathe Ollivier - 1 **2.00**  ·  Amelie Van Holderbeke - 1 **1.73**  ·  Kimberley Smit - 1 **1.73**  ·  Sterre Gielen - 1 **1.73**  ·  Kim Everaerts - 1 **1.80**  ·  Jada Conjnenberg - 2 **1.11**  ·  Anouk Van Praet - 2 **1.20**  ·  Ioanna Papatheodorou - 2 **1.20**  ·  Jeslynn Kuijpers - 2 **1.20**  ·  Kadhiya De Ceuster - 2 **1.18**  ·  Manon Heremans - 2 **1.20**  ·  Linnea Viola Stromberg - 2 **1.28**  ·  Manon Van Raay - 2 **1.30**  ·  Julie Biesmans - 2 **1.44**  ·  Lily Hoekx - 2 **1.53**  ·  Nel Neyrinck - 2 **1.57**  ·  Camille Lafaix - 2 **1.67**  ·  Lili Verstrepen - 2 **1.67**  ·  Alixe Bosteels - 2 **2.10**  ·  Flo Hermans - 2 **2.25**  ·  Saar Janssen - 2 **2.25**  ·  Agathe Ollivier - 2 **5.50**  ·  Amelie Van Holderbeke - 2 **4.00**  ·  Kimberley Smit - 2 **4.00**  ·  Sterre Gielen - 2 **4.00**  ·  Kim Everaerts - 2 **4.50**  ·  Jada Conjnenberg - 3 **1.36**  ·  Anouk Van Praet - 3 **1.57**  ·  Ioanna Papatheodorou - 3 **1.57**  ·  Jeslynn Kuijpers - 3 **1.57**  ·  Kadhiya De Ceuster - 3 **1.53**  ·  Manon Heremans - 3 **1.57**  ·  Linnea Viola Stromberg - 3 **1.80**  ·  Manon Van Raay - 3 **1.83**  ·  Julie Biesmans - 3 **2.20**  ·  Lily Hoekx - 3 **2.50**  ·  Nel Neyrinck - 3 **2.62**  ·  Camille Lafaix - 3 **3.00**  ·  Lili Verstrepen - 3 **3.00**  ·  Alixe Bosteels - 3 **4.33**  ·  Flo Hermans - 3 **5.00**  ·  Saar Janssen - 3 **5.00**  ·  Agathe Ollivier - 3 **17.00**  ·  Amelie Van Holderbeke - 3 **11.00**  ·  Kimberley Smit - 3 **11.00**  ·  Sterre Gielen - 3 **11.00**  ·  Kim Everaerts - 3 **13.00**  ·  Jada Conjnenberg - 4 **1.83**  ·  Anouk Van Praet - 4 **2.38**  ·  Ioanna Papatheodorou - 4 **2.38**  ·  Jeslynn Kuijpers - 4 **2.38**  ·  Kadhiya De Ceuster - 4 **2.20**  ·  Manon Heremans - 4 **2.38**  ·  Linnea Viola Stromberg - 4 **2.75**  ·  Manon Van Raay - 4 **3.25**  ·  Julie Biesmans - 4 **3.75**  ·  Lily Hoekx - 4 **4.50**  ·  Nel Neyrinck - 4 **5.00**  ·  Camille Lafaix - 4 **6.00**  ·  Lili Verstrepen - 4 **6.00**  ·  Alixe Bosteels - 4 **10.00**  ·  Flo Hermans - 4 **11.00**  ·  Saar Janssen - 4 **11.00**  ·  Jada Conjnenberg - 5 **2.75**  ·  Anouk Van Praet - 5 **4.00**  ·  Ioanna Papatheodorou - 5 **4.00**  ·  Jeslynn Kuijpers - 5 **4.00**  ·  Kadhiya De Ceuster - 5 **3.75**  ·  Manon Heremans - 5 **4.00**  ·  Linnea Viola Stromberg - 5 **5.00**  ·  Manon Van Raay - 5 **5.50**  ·  Julie Biesmans - 5 **8.00**  ·  Lily Hoekx - 5 **10.00**  ·  Nel Neyrinck - 5 **10.00**  ·  Camille Lafaix - 5 **13.00**  ·  Lili Verstrepen - 5 **13.00**  ·  Alixe Bosteels - 5 **21.00**  ·  Flo Hermans - 5 **21.00**  ·  Saar Janssen - 5 **21.00**  ·  Jada Conjnenberg - 6 **4.50**  ·  Anouk Van Praet - 6 **7.00**  ·  Ioanna Papatheodorou - 6 **7.00**  ·  Jeslynn Kuijpers - 6 **7.00**  ·  Kadhiya De Ceuster - 6 **6.50**  ·  Manon Heremans - 6 **7.00**  ·  Linnea Viola Stromberg - 6 **10.00**  ·  Manon Van Raay - 6 **11.00**  ·  Julie Biesmans - 6 **15.00**  ·  Lily Hoekx - 6 **19.00**  ·  Nel Neyrinck - 6 **21.00**  ·  Camille Lafaix - 6 **21.00**  ·  Lili Verstrepen - 6 **21.00**  ·  Jada Conjnenberg - 7 **8.00**  ·  Anouk Van Praet - 7 **13.00**  ·  Ioanna Papatheodorou - 7 **13.00**  ·  Jeslynn Kuijpers - 7 **13.00**  ·  Kadhiya De Ceuster - 7 **13.00**  ·  Manon Heremans - 7 **13.00**  ·  Linnea Viola Stromberg - 7 **19.00**  ·  Manon Van Raay - 7 **21.00**  ·  Jada Conjnenberg - 8 **15.00**  ·  Anouk Van Praet - 8 **21.00**  ·  Ioanna Papatheodorou - 8 **21.00**  ·  Jeslynn Kuijpers - 8 **21.00**  ·  Kadhiya De Ceuster - 8 **21.00**  ·  Manon Heremans - 8 **21.00**  ·  Jada Conjnenberg - 9 **21.00**  ·  Jada Conjnenberg - 1 **1.01**  ·  Isabella Dekker - 2 **1.14**  ·  Isabella Dekker - 3 **1.44**  ·  Isabella Dekker - 4 **2.00**  ·  Isabella Dekker - 5 **3.25**  ·  Isabella Dekker - 6 **5.50**  ·  Isabella Dekker - 7 **10.00**  ·  Isabella Dekker - 8 **19.00**  ·  Isabella Dekker - 1 **1.02**  ·  Axelle Van Besauw - 1 **1.30**  ·  Viraj Nagy - 1 **2.00**  ·  Axelle Van Besauw - 2 **2.25**  ·  Viraj Nagy - 2 **5.50**  ·  Axelle Van Besauw - 3 **5.00**  ·  Viraj Nagy - 3 **17.00**  ·  Axelle Van Besauw - 4 **11.00**  ·  Axelle Van Besauw - 5 **21.00**
+- **Away Player Shots:** Aemu Oyama - 1 **1.17**  ·  Andrea Termansen - 1 **1.73**  ·  Augusta Callesen - 1 **1.62**  ·  Catherine Paulson - 1 **1.14**  ·  Emelia Oskarsdottir - 1 **1.06**  ·  Emma Flick - 1 **1.73**  ·  Julia Gutowska - 1 **1.06**  ·  Kyra Carusa - 1 **1.04**  ·  Laura Munk Hermann - 1 **1.33**  ·  Macy Schultz - 1 **1.53**  ·  Mai Wendicke - 1 **1.04**  ·  Maria Uhre - 1 **1.73**  ·  Mille Gejl - 1 **1.06**  ·  Mwanalima Jereko - 1 **1.06**  ·  Nadia Nadim - 1 **1.04**  ·  Rikke Marie Madsen - 1 **1.04**  ·  Samantha Williams - 1 **1.04**  ·  Sarah Thygesen - 1 **1.04**  ·  Simone Boye - 1 **1.17**  ·  Sydney Jones - 1 **1.73**  ·  Yukina Sakabe - 1 **1.73**  ·  Zuzanna Witek - 1 **1.11**  ·  Kyra Carusa - 2 **1.20**  ·  Mai Wendicke - 2 **1.22**  ·  Samantha Williams - 2 **1.22**  ·  Nadia Nadim - 2 **1.25**  ·  Rikke Marie Madsen - 2 **1.25**  ·  Emelia Oskarsdottir - 2 **1.33**  ·  Julia Gutowska - 2 **1.33**  ·  Mille Gejl - 2 **1.33**  ·  Mwanalima Jereko - 2 **1.33**  ·  Zuzanna Witek - 2 **1.53**  ·  Catherine Paulson - 2 **1.62**  ·  Sarah Thygesen - 2 **1.20**  ·  Aemu Oyama - 2 **1.73**  ·  Laura Munk Hermann - 2 **2.38**  ·  Simone Boye - 2 **1.67**  ·  Andrea Termansen - 2 **4.00**  ·  Augusta Callesen - 2 **3.75**  ·  Emma Flick - 2 **4.00**  ·  Macy Schultz - 2 **3.40**  ·  Maria Uhre - 2 **4.00**  ·  Sydney Jones - 2 **4.00**  ·  Yukina Sakabe - 2 **4.00**  ·  Kyra Carusa - 3 **1.62**  ·  Mai Wendicke - 3 **1.67**  ·  Samantha Williams - 3 **1.67**  ·  Nadia Nadim - 3 **1.67**  ·  Rikke Marie Madsen - 3 **1.67**  ·  Emelia Oskarsdottir - 3 **1.91**  ·  Julia Gutowska - 3 **1.91**  ·  Mille Gejl - 3 **1.91**  ·  Mwanalima Jereko - 3 **1.91**  ·  Zuzanna Witek - 3 **2.50**  ·  Catherine Paulson - 3 **2.75**  ·  Sarah Thygesen - 3 **1.62**  ·  Aemu Oyama - 3 **3.00**  ·  Laura Munk Hermann - 3 **5.00**  ·  Simone Boye - 3 **3.00**  ·  Kyra Carusa - 4 **2.38**  ·  Mai Wendicke - 4 **2.62**  ·  Samantha Williams - 4 **2.62**  ·  Nadia Nadim - 4 **2.62**  ·  Rikke Marie Madsen - 4 **2.62**  ·  Emelia Oskarsdottir - 4 **3.25**  ·  Julia Gutowska - 4 **3.25**  ·  Mille Gejl - 4 **3.40**  ·  Mwanalima Jereko - 4 **3.25**  ·  Zuzanna Witek - 4 **4.50**  ·  Augusta Callesen - 3 **10.00**  ·  Catherine Paulson - 4 **5.50**  ·  Sarah Thygesen - 4 **2.50**  ·  Simone Boye - 4 **6.00**  ·  Aemu Oyama - 4 **6.00**  ·  Kyra Carusa - 5 **4.00**  ·  Mai Wendicke - 5 **4.33**  ·  Samantha Williams - 5 **4.33**  ·  Rikke Marie Madsen - 5 **4.33**  ·  Andrea Termansen - 3 **11.00**  ·  Emma Flick - 3 **11.00**  ·  Macy Schultz - 3 **8.00**  ·  Maria Uhre - 3 **11.00**  ·  Sydney Jones - 3 **11.00**  ·  Yukina Sakabe - 3 **11.00**  ·  Laura Munk Hermann - 4 **13.00**  ·  Augusta Callesen - 4 **21.00**  ·  Macy Schultz - 4 **21.00**  ·  Nadia Nadim - 5 **4.33**  ·  Emelia Oskarsdottir - 5 **6.00**  ·  Julia Gutowska - 5 **6.00**  ·  Mille Gejl - 5 **6.00**  ·  Mwanalima Jereko - 5 **6.00**  ·  Zuzanna Witek - 5 **10.00**  ·  Catherine Paulson - 5 **11.00**  ·  Sarah Thygesen - 5 **4.00**  ·  Aemu Oyama - 5 **13.00**  ·  Simone Boye - 5 **13.00**  ·  Laura Munk Hermann - 5 **21.00**  ·  Kyra Carusa - 6 **7.00**  ·  Mai Wendicke - 6 **8.00**  ·  Samantha Williams - 6 **8.00**  ·  Nadia Nadim - 6 **9.00**  ·  Rikke Marie Madsen - 6 **9.00**  ·  Emelia Oskarsdottir - 6 **11.00**  ·  Julia Gutowska - 6 **11.00**  ·  Mille Gejl - 6 **13.00**  ·  Mwanalima Jereko - 6 **11.00**  ·  Zuzanna Witek - 6 **19.00**  ·  Catherine Paulson - 6 **21.00**  ·  Sarah Thygesen - 6 **8.00**  ·  Aemu Oyama - 6 **21.00**  ·  Simone Boye - 6 **21.00**  ·  Kyra Carusa - 7 **15.00**  ·  Mai Wendicke - 7 **15.00**  ·  Samantha Williams - 7 **15.00**  ·  Nadia Nadim - 7 **17.00**  ·  Rikke Marie Madsen - 7 **17.00**  ·  Emelia Oskarsdottir - 7 **21.00**  ·  Julia Gutowska - 7 **21.00**  ·  Mille Gejl - 7 **21.00**  ·  Mwanalima Jereko - 7 **21.00**  ·  Kyra Carusa - 8 **21.00**  ·  Mai Wendicke - 8 **21.00**  ·  Samantha Williams - 8 **21.00**  ·  Sarah Thygesen - 7 **15.00**  ·  Mercy Chipasula - 1 **1.01**  ·  Mercy Chipasula - 2 **1.10**  ·  Mercy Chipasula - 3 **1.30**  ·  Mercy Chipasula - 4 **1.73**  ·  Mercy Chipasula - 5 **2.50**  ·  Wilma Boeck - 1 **1.11**  ·  Wilma Boeck - 2 **1.53**  ·  Wilma Boeck - 3 **2.50**  ·  Wilma Boeck - 4 **4.50**  ·  Wilma Boeck - 5 **10.00**  ·  Mercy Chipasula - 6 **4.00**  ·  Wilma Boeck - 6 **19.00**  ·  Mercy Chipasula - 7 **7.00**  ·  Mercy Chipasula - 8 **13.00**  ·  Sarah Thygesen - 8 **21.00**  ·  Mercy Chipasula - 9 **21.00**
+- **Anytime Goal Scorer:** Kyra Carusa **2.50**  ·  Mille Gejl **3.25**  ·  Nadia Nadim **2.75**  ·  Rikke Marie Madsen **2.75**  ·  Catherine Paulson **4.33**  ·  Julie Biesmans **4.50**  ·  Alixe Bosteels **6.50**  ·  Anouk Van Praet **3.40**  ·  Axelle Van Besauw **7.00**  ·  Flo Hermans **7.00**  ·  Ioanna Papatheodorou **3.40**  ·  Jada Conjnenberg **2.75**  ·  Jeslynn Kuijpers **3.40**  ·  Kadhiya De Ceuster **3.25**  ·  Manon Heremans **3.40**  ·  Manon Van Raay **4.00**  ·  Nel Neyrinck **5.00**  ·  Saar Janssen **7.00**  ·  Agathe Ollivier **13.00**  ·  Isabella Dekker **3.00**  ·  Lily Hoekx **4.00**  ·  Amelie Van Holderbeke **9.50**  ·  Lili Verstrepen **4.50**  ·  Kim Everaerts **13.00**  ·  Andrea Termansen **9.50**  ·  Augusta Callesen **8.50**  ·  Emelia Oskarsdottir **3.25**  ·  Emma Flick **9.50**  ·  Julia Gutowska **3.25**  ·  Laura Munk Hermann **6.00**  ·  Macy Schultz **9.50**  ·  Mai Wendicke **2.75**  ·  Maria Uhre **9.50**  ·  Mwanalima Jereko **3.25**  ·  Samantha Williams **2.75**  ·  Sarah Thygesen **2.62**  ·  Simone Boye **4.50**  ·  Sydney Jones **9.50**  ·  Yukina Sakabe **9.50**  ·  Zuzanna Witek **4.00**  ·  Camille Lafaix **4.50**  ·  Kimberley Smit **9.50**  ·  Linnea Viola Stromberg **3.00**  ·  Sterre Gielen **9.50**  ·  Viraj Nagy **13.00**  ·  Mercy Chipasula **1.95**  ·  Wilma Boeck **4.00**  ·  Aemu Oyama **4.50**
 
 ## Estadísticas de equipo
 | | OH Leuven W (total) | OH Leuven W en casa | Køge W (total) | Køge W fuera |
@@ -146,14 +149,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 58% | 51% | 1.62 | -18% |
-| 1X2: X | 27% | 22% | 24% | 4.33 | +5% |
-| 1X2: 1 | 30% | 20% | 25% | 4.75 | +18% |
-| Doble oportunidad: X2 | 70% | 80% | 75% | 1.17 | -12% |
-| Doble oportunidad: 12 | 73% | 78% | 76% | 1.20 | -9% |
-| Doble oportunidad: 1X | 57% | 42% | 49% | 2.20 | +9% |
-| Ambos marcan: No | 50% | 42% | 46% | 2.20 | +1% |
-| Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
+| 1X2: 2 | 43% | 53% | 48% | 1.80 | -14% |
+| 1X2: X | 27% | 23% | 25% | 4.10 | +2% |
+| 1X2: 1 | 30% | 24% | 27% | 3.90 | +6% |
+| Doble oportunidad: X2 | 70% | 75% | 72% | 1.25 | -10% |
+| Doble oportunidad: 12 | 73% | 76% | 75% | 1.22 | -9% |
+| Doble oportunidad: 1X | 57% | 49% | 53% | 1.91 | +1% |
+| Ambos marcan: No | 50% | 41% | 45% | 2.25 | +2% |
+| Ambos marcan: Sí | 50% | 59% | 55% | 1.57 | -14% |
 | Goles más/menos: Más de 1.5 | 71% | 79% | 75% | 1.17 | -12% |
 | Goles más/menos: Más de 2.5 | 46% | 60% | 53% | 1.57 | -17% |
 | Goles más/menos: Más de 3.5 | 24% | 39% | 32% | 2.38 | -25% |
@@ -178,8 +181,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 83% | 66% | 75% | 1.40 | +5% |
 | Córners más/menos: Más de 9.5 | 39% | 47% | 43% | 2.00 | -13% |
 | Córners más/menos: Menos de 9.5 | 61% | 53% | 57% | 1.80 | +2% |
-| 1X2 descanso: 2 | 32% | 43% | 38% | 2.10 | -21% |
-| 1X2 descanso: X | 44% | 36% | 40% | 2.50 | +1% |
-| 1X2 descanso: 1 | 24% | 20% | 22% | 4.50 | -1% |
+| 1X2 descanso: 2 | 32% | 41% | 36% | 2.20 | -20% |
+| 1X2 descanso: X | 44% | 37% | 41% | 2.40 | -2% |
+| 1X2 descanso: 1 | 24% | 22% | 23% | 4.00 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

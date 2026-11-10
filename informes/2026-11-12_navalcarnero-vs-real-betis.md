@@ -1,20 +1,20 @@
 # Navalcarnero – Real Betis
 **Copa del Rey** · Round of 128 · 12/11/2026 19:00 (hora España) · Estadio Municipal de Santo Domingo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 02:07._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 19:59_
+_Actualizadas: 10/11 02:06_
 
-- **1X2:** 1 **17.00**  ·  X **9.00**  ·  2 **1.10**
-- **Doble oportunidad:** 1X **7.00**  ·  12 **1.07**  ·  X2 **1.02**
-- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **1X2:** 1 **17.00**  ·  X **9.50**  ·  2 **1.11**
+- **Doble oportunidad:** 1X **6.50**  ·  12 **1.08**  ·  X2 **1.03**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
     - 1,5: más **1.07** · menos **9.00**
-    - 2,5: más **1.25** · menos **4.00**
-    - 3,5: más **1.67** · menos **2.10**
-    - 4,5: más **2.50** · menos **1.50**
-    - 5,5: más **4.00** · menos **1.22**
+    - 2,5: más **1.28** · menos **3.60**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.62** · menos **1.44**
+    - 5,5: más **4.33** · menos **1.20**
     - 6,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**
@@ -23,14 +23,14 @@ _Actualizadas: 09/11 19:59_
     - 3,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.91** · menos **1.80**
-    - 1,5: más **6.50** · menos **1.11**
+    - 1,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.44** · menos **2.62**
-    - 3,5: más **2.10** · menos **1.67**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.25** · menos **1.57**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **13.00**  ·  X **3.60**  ·  2 **1.36**
+    - 5,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **13.00**  ·  X **3.60**  ·  2 **1.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
@@ -38,12 +38,12 @@ _Actualizadas: 09/11 19:59_
     - 3,5: más **5.00** · menos **1.17**
     - 4,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **7.00**  ·  2 **1.06**
-- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.44**
-- **Win Both Halves:** 1 **101.00**  ·  2 **1.83**
-- **Results/Both Teams Score:** Home/Yes **26.00**  ·  Draw/Yes **11.00**  ·  Away/Yes **2.50**  ·  Home/No **29.00**  ·  Draw/No **29.00**  ·  Away/No **1.83**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **2.60**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **4.33**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **6.50**  ·  2 **1.06**
+- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.50**
+- **Win Both Halves:** 1 **67.00**  ·  2 **1.83**
+- **Results/Both Teams Score:** Home/Yes **23.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **2.40**  ·  Home/No **29.00**  ·  Draw/No **29.00**  ·  Away/No **1.91**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **2.75**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **4.33**
 
 ## Estadísticas de equipo
 | | Navalcarnero (total) | Navalcarnero en casa | Real Betis (total) | Real Betis fuera |

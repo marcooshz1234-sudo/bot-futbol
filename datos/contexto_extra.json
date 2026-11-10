@@ -2,14 +2,14 @@
  "1644362": {
   "local": {
    "nombre": "Mijas Las Lagunas",
-   "dias_desde": null,
+   "dias_desde": 3,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
   },
   "visitante": {
    "nombre": "Real Jaén",
-   "dias_desde": null,
+   "dias_desde": 3,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
@@ -99,15 +99,21 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.7,
-   "temperatura": 5.6
+   "lluvia_mm": 0.3,
+   "viento_kmh": 6.1,
+   "temperatura": 5.2
+  },
+  "cuotas": {
+   "Away": [
+    1.62,
+    1.8
+   ]
   }
  },
  "1644382": {
   "local": {
    "nombre": "Trival Valderas",
-   "dias_desde": null,
+   "dias_desde": 2,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
@@ -142,14 +148,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.1,
-   "temperatura": 7.2
+   "viento_kmh": 1.8,
+   "temperatura": 7.7
   }
  },
  "1644365": {
   "local": {
    "nombre": "Pamplona",
-   "dias_desde": null,
+   "dias_desde": 3,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
@@ -165,7 +171,7 @@
  "1644380": {
   "local": {
    "nombre": "Tavernes",
-   "dias_desde": null,
+   "dias_desde": 37,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
@@ -181,7 +187,7 @@
  "1644336": {
   "local": {
    "nombre": "Anaitasuna",
-   "dias_desde": null,
+   "dias_desde": 38,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
@@ -215,9 +221,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.7,
-   "viento_kmh": 5.9,
-   "temperatura": 13.4
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.8,
+   "temperatura": 12.8
   }
  },
  "1638339": {
@@ -280,20 +286,20 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 11.5,
-   "temperatura": 7.5
+   "temperatura": 6.8
   }
  },
  "1644335": {
   "local": {
    "nombre": "Amorebieta",
-   "dias_desde": null,
+   "dias_desde": 3,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null
   },
   "visitante": {
    "nombre": "UD Logroñés",
-   "dias_desde": null,
+   "dias_desde": 3,
    "ultimo_europa": null,
    "dias_hasta": null,
    "siguiente_europa": null

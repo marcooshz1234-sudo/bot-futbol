@@ -1,7 +1,7 @@
 # Czechia – Spain
-**Nations League** · League A - 5 · 12/11/2026 20:45 (hora España)
+**Nations League** · League A - 5 · 12/11/2026 20:45 (hora España) · Stadion Letná
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 01:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 02:07._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 21:28_
