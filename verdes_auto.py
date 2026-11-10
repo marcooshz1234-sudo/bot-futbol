@@ -55,7 +55,7 @@ def main():
     espera = {}
     for p in d.get("publicados_hoy", []):
         # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
-        es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera", p["id"]) and "verde-auto" not in p["id"])
+        es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera|-pick-", p["id"]) and "verde-auto" not in p["id"])   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
         if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
             continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
