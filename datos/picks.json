@@ -1,10 +1,101 @@
 {
- "generado": "2026-11-10 08:17",
+ "generado": "2026-11-10 13:09",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
   "frecuencia_equipo_min": 0.7,
   "ultimos_partidos": 10
  },
- "dias": {}
+ "dias": {
+  "2026-11-15": {
+   "picks": [
+    {
+     "partido_id": 1570016,
+     "fecha": "2026-11-15T18:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Eibar",
+     "visitante": "Cadiz",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Eibar–Cadiz",
+     "cuota": 1.25,
+     "frecuencia": 0.85,
+     "ventaja": 0.05,
+     "detalle": "Eibar 9/10 · Cadiz 8/10",
+     "valor_mercado": 0.025,
+     "prob_xg": 0.798,
+     "xg_esperado": 2.98,
+     "posiciones": [
+      4,
+      20,
+      22
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.849
+    },
+    {
+     "partido_id": 1570016,
+     "fecha": "2026-11-15T18:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Eibar",
+     "visitante": "Cadiz",
+     "mercado": "To Win Either Half",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Eibar gana alguna de las dos partes",
+     "cuota": 1.36,
+     "frecuencia": 0.75,
+     "ventaja": 0.015,
+     "detalle": "Eibar 7/10 · Cadiz 8/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      4,
+      20,
+      22
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.752
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1570016,
+     "fecha": "2026-11-15T18:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Eibar",
+     "visitante": "Cadiz",
+     "mercado": "Goals Over/Under",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en Eibar–Cadiz",
+     "cuota": 1.25,
+     "frecuencia": 0.85,
+     "ventaja": 0.05,
+     "detalle": "Eibar 9/10 · Cadiz 8/10",
+     "valor_mercado": 0.025,
+     "prob_xg": 0.798,
+     "xg_esperado": 2.98,
+     "posiciones": [
+      4,
+      20,
+      22
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.849
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  }
+ }
 }

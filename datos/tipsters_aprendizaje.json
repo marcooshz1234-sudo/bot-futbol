@@ -8,7 +8,7 @@
    "unidades": 0.0
   },
   "Tipster Pérez": {
-   "n": 1,
+   "n": 2,
    "verdes": 0,
    "rojos": 1,
    "nulos": 0,
@@ -43,6 +43,13 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": -0.5
+  },
+  "Asian Handicap Away +1.75": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
@@ -87,6 +94,13 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": -0.5
+  },
+  "Paris FC W": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
@@ -118,17 +132,17 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "sin razón": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "bajas": {
    "n": 1,
    "verdes": 0,
    "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.0
-  },
-  "sin razón": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -155,19 +169,19 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "1,50-1,80": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -0.5
+  },
   "1,80-2,20": {
    "n": 1,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
-  },
-  "1,50-1,80": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -0.5
   }
  }
 }

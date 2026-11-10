@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 10/11/2026 08:15 (hora España). Partidos guardados en la base de datos: 2551._
+_Actualizado el 10/11/2026 13:07 (hora España). Partidos guardados en la base de datos: 2551._
 
 
 ## Martes 10/11
@@ -48,7 +48,7 @@ _Actualizado el 10/11/2026 08:15 (hora España). Partidos guardados en la base d
 - 20:45 · Nations League · [Scotland – FYR Macedonia](informes/2026-11-13_scotland-vs-fyr-macedonia.md) · 1X2: 1.18 / 6.00 / 17.00
 - 20:45 · Nations League · [Andorra – Gibraltar](informes/2026-11-13_andorra-vs-gibraltar.md) · 1X2: 1.85 / 3.10 / 4.75
 - 20:45 · Nations League · [Netherlands – Greece](informes/2026-11-13_netherlands-vs-greece.md) · 1X2: 1.42 / 5.00 / 6.25
-- 21:00 · Copa del Rey · [Salamanca UDS – Celta Vigo](informes/2026-11-13_salamanca-uds-vs-celta-vigo.md) · 1X2: 8.00 / 5.00 / 1.36
+- 21:00 · Copa del Rey · [Salamanca UDS – Celta Vigo](informes/2026-11-13_salamanca-uds-vs-celta-vigo.md) · 1X2: 7.50 / 5.00 / 1.36
 
 ## Sábado 14/11
 - 12:00 · Liga F · [Espanyol W – Granad. Tenerife W](informes/2026-11-14_espanyol-w-vs-granad-tenerife-w.md)
@@ -93,8 +93,8 @@ _Actualizado el 10/11/2026 08:15 (hora España). Partidos guardados en la base d
 - 18:00 · Nations League · [Belarus – Albania](informes/2026-11-15_belarus-vs-albania.md)
 - 18:00 · Liga F · [Deportivo de La Coruña W – Barcelona W](informes/2026-11-15_deportivo-de-la-coruna-w-vs-barcelona-w.md)
 - 18:15 · Liga F · [Valencia W – Granada](informes/2026-11-15_valencia-w-vs-granada.md)
-- 18:30 · Segunda División · [Eibar – Cadiz](informes/2026-11-15_eibar-vs-cadiz.md)
-- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md)
+- 18:30 · Segunda División · [Eibar – Cadiz](informes/2026-11-15_eibar-vs-cadiz.md) · 1X2: 1.62 / 3.70 / 5.25
+- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md) · 1X2: 2.50 / 3.20 / 2.75
 - 19:00 · Segunda Liga · [Leixoes – Chaves](informes/2026-11-15_leixoes-vs-chaves.md)
 - 20:45 · Nations League · [Belgium – Italy](informes/2026-11-15_belgium-vs-italy.md)
 - 20:45 · Nations League · [France – Türkiye](informes/2026-11-15_france-vs-turkiye.md)

@@ -1,18 +1,18 @@
 # Salamanca UDS – Celta Vigo
 **Copa del Rey** · Round of 128 · 13/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 08:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:07._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 08:32_
+_Actualizadas: 10/11 13:06_
 
-- **1X2:** 1 **8.00**  ·  X **5.00**  ·  2 **1.36**
-- **Doble oportunidad:** 1X **3.00**  ·  12 **1.17**  ·  X2 **1.08**
+- **1X2:** 1 **7.50**  ·  X **5.00**  ·  2 **1.36**
+- **Doble oportunidad:** 1X **3.00**  ·  12 **1.17**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.25** · menos **1.57**
+    - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -25,7 +25,7 @@ _Actualizadas: 09/11 08:32_
     - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.07** · menos **9.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.36** · menos **3.00**
     - 2,5: más **2.20** · menos **1.62**
     - 3,5: más **4.00** · menos **1.22**
@@ -42,7 +42,7 @@ _Actualizadas: 09/11 08:32_
 - **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.91**
 - **Win Both Halves:** 1 **29.00**  ·  2 **3.00**
 - **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.75**  ·  Home/No **15.00**  ·  Draw/No **17.00**  ·  Away/No **2.38**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.10**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **3.10**
 
 ## Estadísticas de equipo
 | | Salamanca UDS (total) | Salamanca UDS en casa | Celta Vigo (total) | Celta Vigo fuera |
