@@ -1542,12 +1542,12 @@
     "dia": "2026-11-10",
     "total": 6,
     "cuentas": {
-      "verde": 0,
+      "verde": 1,
       "rojo": 2,
-      "pendiente": 3,
+      "pendiente": 2,
       "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -1559,7 +1559,7 @@
       {
         "id": "2026-11-10-pick-seguro",
         "titulo": "Vamos con el pick de hoy familia 🔥",
-        "estado": "pendiente",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -1588,10 +1588,10 @@
       }
     ],
     "picks": {
-      "verde": 6,
+      "verde": 7,
       "rojo": 2,
       "total": 21
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 2 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Os dejo un pick para la Champions femenina 🔥 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n⏳ Vamos con un pick para la Champions femenina 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 1 DE 3 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n✅ Vamos con el pick de hoy familia 🔥\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Os dejo un pick para la Champions femenina 🔥 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n⏳ Vamos con un pick para la Champions femenina 🔥 · pendiente\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 3 sin resolver"
   }
 }
