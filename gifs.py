@@ -313,12 +313,12 @@ def main(ahora=None, enviar=None, rnd=random):
     est = leer(ESTADO, {}) or {}
     votos = leer(VOTOS, {}) or {}
     cola = leer(RAIZ / "publicaciones" / "cola.json", []) or []
-    auto = leer(RAIZ / "publicaciones" / "auto.json", []) or []
+    auto_posts = leer(RAIZ / "publicaciones" / "auto.json", []) or []   # 10/11: se llamaba «auto» y tapaba auto()
     env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
     app = leer(RAIZ / "docs" / "datos.json", {}) or {}
     if (leer(RAIZ / "publicaciones" / "control.json", {}) or {}).get("pausa"):
         return
-    for k, momento, extra in momentos(ahora, cola, auto, env, app, est)[:1]:   # uno por vuelta
+    for k, momento, extra in momentos(ahora, cola, auto_posts, env, app, est)[:1]:   # uno por vuelta
         if not puede(ahora, est, cola, env) and momento != "seguidores":
             break
         est.setdefault("hechos", []).append(k)

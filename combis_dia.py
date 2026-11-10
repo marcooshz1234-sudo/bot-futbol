@@ -1417,13 +1417,24 @@ def pick_seguro(pools, dia, segundo=False):
     09/11: desde SEGURO_DESDE, cuota 1,50-1,70; segundo=<el 1º> (o None si no hubo) → otro de las 18:00."""
     hh, mm = SEGURO["hora"]
     lo, hi = SEGURO["cuota"]
+    primero_tipsters = True
     if dia >= SEGURO_DESDE:
         lo, hi = SEGURO_NUEVO["cuota"]
-        if segundo is not False:
-            hh, mm = SEGURO_NUEVO["hora2"]
+        hh, mm = SEGURO["hora"] if segundo is False else SEGURO_NUEVO["hora2"]
+        try:   # 10/11: ficha del Analista en la Oficina (por defecto, lo mismo de siempre)
+            import ajustes as AJ
+            c = AJ._control()
+            if AJ.pausado("analista", c):
+                print("Analista en pausa (Oficina): sin pick del día nuevo")
+                return None
+            lo, hi = float(AJ.valor("pick_cuota_min", c)), float(AJ.valor("pick_cuota_max", c))
+            hh, mm = AJ.hora("hora_pick1" if segundo is False else "hora_pick2", c)
+            primero_tipsters = bool(AJ.valor("tipsters_primero", c))
+        except Exception as e:
+            print("ajustes analista:", e)
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     otro = segundo["partido_id"] if segundo else None
-    if dia >= SEGURO_DESDE:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
+    if dia >= SEGURO_DESDE and primero_tipsters:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
         t = pick_de_tipster(pools, dia, hora, otro) or pick_de_copa(pools, hora, otro)
         if t:
             return t, hora

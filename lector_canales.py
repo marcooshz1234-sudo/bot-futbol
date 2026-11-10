@@ -41,6 +41,7 @@ def leer_canal(usuario):
 
 CANALES_PRIVADOS = {"TIPSTER PÉREZ": "Tipster Pérez"}   # título del canal en Telegram → nombre (con la cuenta de Marcos)
 FOTOS = DATOS / "tipsters_fotos"
+APAGADOS = set()   # 10/11: canales apagados desde la Oficina (ajustes.canales_off)
 NUESTRO = "3953339107"   # nuestro canal (no se lee)
 APUESTAS = re.compile(r"pick|tips|tipster|apuest|analist|stake|insider|trader|basquet|cuota|pronost|\bbet", re.I)
 
@@ -87,6 +88,8 @@ def leer_con_cuenta(datos):
                     continue
                 nombre = (d.name or str(d.id)).strip()
             vistos.append(nombre)
+            if nombre in APAGADOS:   # 10/11: apagado desde la ficha del Ojeador (sale en la lista para encenderlo)
+                continue
             lista = datos.setdefault(nombre, [])
             ya = {p["id"] for p in lista}
             nuevos_canal = 0
@@ -123,9 +126,20 @@ def main(forzar=False):
     except ValueError:
         pass
     marca.write_text(datetime.now(MADRID).isoformat())
+    try:   # 10/11: ficha del Ojeador en la Oficina
+        import ajustes as AJ
+        if AJ.pausado("ojeador"):
+            print("Ojeador en pausa (Oficina): no se leen canales")
+            return
+        global APAGADOS
+        APAGADOS = AJ.canales_off()
+    except Exception as e:
+        print("ajustes ojeador:", e)
     datos = leer(SALIDA, {}) or {}
     nuevos = 0
     for usuario, nombre in CANALES.items():
+        if nombre in APAGADOS:
+            continue
         try:
             posts = leer_canal(usuario)
         except Exception as e:

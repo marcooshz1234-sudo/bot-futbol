@@ -72,7 +72,7 @@ jobs:
               # 03/11: si no se puede guardar 3 veces seguidas, aviso al móvil (una vez por tanda): sin estado guardado se repiten posts
               if git status -sb | head -1 | grep -q ahead; then
                 n=$(( $(cat /tmp/fallos_push 2>/dev/null || echo 0) + 1 )); echo $n > /tmp/fallos_push
-                if [ "$n" = 3 ]; then python -c "from alineaciones_posts import dm; dm('⚠️ El bucle no consigue guardar su estado en GitHub (3 veces seguidas). Riesgo de posts repetidos: avisa a Claude.')" || true; fi
+                if [ "$n" = 3 ]; then python -c "import ajustes,sys; sys.exit(0 if ajustes.valor('aviso_guardar') else 1)" && python -c "from alineaciones_posts import dm; dm('⚠️ El bucle no consigue guardar su estado en GitHub (3 veces seguidas). Riesgo de posts repetidos: avisa a Claude.')" || true; fi
               else echo 0 > /tmp/fallos_push; fi
               ult_commit=$(date +%s)
             fi

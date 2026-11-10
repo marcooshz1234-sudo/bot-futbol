@@ -36,6 +36,13 @@ def num(c):
 
 
 def main():
+    try:   # 10/11: Verificador en pausa desde la Oficina
+        import ajustes as AJ
+        if AJ.pausado("verificador"):
+            print("Verificador en pausa (Oficina): sin verdes ni rojos")
+            return
+    except Exception as e:
+        print("ajustes verificador:", e)
     d = leer(RAIZ / "docs" / "datos.json", {}) or {}
     hechos = set(leer(ESTADO, []) or [])
     cola = leer(COLA, []) or []
@@ -103,7 +110,8 @@ def main():
         nuevos.append(post)
         hechos.add(p["id"])
     try:
-        nuevos_rojos = rojos(d, hechos, ahora, ids_cola)
+        import ajustes as AJ   # 10/11: ficha del Verificador: rojos del pick del día sí / no
+        nuevos_rojos = rojos(d, hechos, ahora, ids_cola) if AJ.valor("rojos_pick") else []
     except Exception as e:
         print("rojos:", e)
         nuevos_rojos = []

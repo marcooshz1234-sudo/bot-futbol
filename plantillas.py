@@ -302,10 +302,21 @@ def texto_seguro(p, dia=""):
         except Exception as e:
             print("razones:", str(e)[:120])
             motivos = []
-        lineas = ["Vamos con el pick de hoy familia 🔥", "",
+        saludo, con_razones, con_stake = "Vamos con el pick de hoy familia 🔥", True, True
+        try:   # 10/11: ficha del Redactor en la Oficina (por defecto, lo de siempre)
+            import ajustes as AJ
+            c = AJ._control()
+            saludo = AJ.valor("saludo_pick", c) or saludo
+            con_razones, con_stake = bool(AJ.valor("pick_razones", c)), bool(AJ.valor("pick_stake", c))
+        except Exception as e:
+            print("ajustes redactor:", e)
+        if not con_razones:
+            motivos = []
+        lineas = [saludo, "",
                   f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}", "",
-                  f"🍀 {con_equipo(p)} @{num(p['cuota'])}" + (" (aprox.)" if p.get("cuota_tipster") else ""),
-                  f"🧠 Stake {stake(p)}/10"]
+                  f"🍀 {con_equipo(p)} @{num(p['cuota'])}" + (" (aprox.)" if p.get("cuota_tipster") else "")]
+        if con_stake:
+            lineas.append(f"🧠 Stake {stake(p)}/10")
         if motivos:
             lineas += [""] + [f"👨‍💻 {m}" for m in motivos]   # 09/11 (Marcos): sin la palabra «Argumento»
         if v + r:

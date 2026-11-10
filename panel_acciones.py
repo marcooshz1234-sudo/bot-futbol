@@ -10,7 +10,9 @@ cambios ({"v":1,"acc":[...]}) y asistente.py llama a aplicar(). Devuelve (línea
   resp       {"id","post","u","c","t"}  responder en Threads a un comentario (lo publica redes.py)
   ignorar    {"id"}                  comentario que no se contesta
   pausa      {"v"}                   parar / reanudar todo
-  ajuste     {"k","v"}               interruptores (control.json → ajustes)
+  ajuste     {"k","v"}               interruptores (control.json → ajustes; también los de cada rol, ajustes.py)
+  canal      {"n","v"}               10/11: Ojeador: leer (v=true) o no un canal de tipster (control.json → canales_off)
+  verde      {"id","ok"}             10/11: Verificador: publicar o no un verde que espera el OK
   subir      {}                      el bot pide la foto o el texto
 """
 import json
@@ -123,12 +125,38 @@ def aplicar(datos, ahora=None):
                     v = int(v) if cfg["paso"] == 1 else v
                 elif cfg["tipo"] == "si_no":
                     v = bool(v)
+                elif cfg["tipo"] == "texto":   # 10/11: el saludo del pick (ficha del Redactor)
+                    v = " ".join(str(v or "").split())[:80]
+                    if not v:
+                        continue
                 elif not (isinstance(v, str) and len(v) == 5 and v[2] == ":"):
                     continue
                 control.setdefault("ajustes", {})[k] = v
                 tocados.add(CONTROL)
                 bonito = ("sí" if v else "no") if cfg["tipo"] == "si_no" else str(v).replace(".", ",")
-                lineas.append(f"🎛️ {cfg['t']}: {bonito}")
+                rol = cfg.get("rol")
+                if rol:   # 10/11: «Analista · Cuota mínima…»
+                    from ajustes import ROLES
+                    lineas.append(f"🏢 {ROLES[rol]['t']} · {cfg['t']}: {bonito}")
+                else:
+                    lineas.append(f"🎛️ {cfg['t']}: {bonito}")
+            elif tipo == "canal" and a.get("n"):   # 10/11: ficha del Ojeador: canal de tipster sí / no
+                off = set(control.get("canales_off") or [])
+                (off.discard if a.get("v") else off.add)(a["n"])
+                control["canales_off"] = sorted(off)
+                tocados.add(CONTROL)
+                lineas.append(f"🔎 Ojeador: {a['n']} {'se lee' if a.get('v') else 'ya no se lee'}")
+            elif tipo == "verde" and pid:   # 10/11: ficha del Verificador: ✅ Publicar / ❌ No sale
+                if pid not in (control.get("por_aprobar") or {}).values():
+                    lineas.append("⚠️ Ese verde ya no está pendiente.")
+                    continue
+                if a.get("ok"):
+                    control.setdefault("aprobados", {})[pid] = ahora.strftime("%Y-%m-%dT%H:%M")
+                    lineas.append("✅ Verde aprobado: sale ahora en el canal y en las redes.")
+                else:
+                    control["cancelados"].append(pid)
+                    lineas.append("❌ Ese verde no sale.")
+                tocados.add(CONTROL)
         except Exception as e:
             lineas.append(f"⚠️ No he podido hacer «{tipo}»: {str(e)[:80]}")
     a_cuota = (control.get("ajustes") or {})

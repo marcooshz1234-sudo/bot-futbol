@@ -39,6 +39,9 @@ AJUSTES = {
     "hora_loca": {"t": "Hora de la loca", "tipo": "hora", "v": "16:00"},
     "hora_picks": {"t": "Hora de picks para mañana", "tipo": "hora", "v": "23:00"},
 }
+# 10/11: los de cada rol de la Oficina (ficha de cada muñeco); van aparte en la pestaña 🏢 Oficina
+from ajustes import AJUSTES_ROLES  # noqa: E402
+AJUSTES.update(AJUSTES_ROLES)
 
 
 def ajustes(control=None):
@@ -138,6 +141,14 @@ def main():
             c["claude"], c["por"] = propuestas[c["id"]].get("t"), propuestas[c["id"]].get("por", "")
     com = [c for c in com if c["id"] not in ya]
     claude = [c for c in com if c.get("claude")]
+    try:   # 10/11: Community en pausa → el panel no enseña las respuestas propuestas
+        from ajustes import pausado
+        if pausado("community", control):
+            claude = []
+            for c in com:
+                c.pop("claude", None)
+    except Exception as e:
+        print("community:", e)
 
     # rendimiento
     est = leer(RAIZ / "publicaciones" / "estadisticas.json", {}) or {}
@@ -164,9 +175,14 @@ def main():
 
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "pausa": bool(control.get("pausa")),
              "cola": cola, "redes": redes, "comentarios": com[-30:], "claude": claude[-40:],
-             "ajustes": {k: dict(a, v=ajustes(control)[k]) for k, a in AJUSTES.items()}, "rendimiento": rendimiento}
+             "ajustes": {k: dict(a, v=ajustes(control)[k]) for k, a in AJUSTES.items() if "rol" not in a}, "rendimiento": rendimiento}
     SALIDA.parent.mkdir(parents=True, exist_ok=True)
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False) + "\n", encoding="utf-8")
+    try:   # 10/11: la Oficina Combilocas (pestaña 🏢)
+        import oficina_datos
+        oficina_datos.main(control)
+    except Exception as e:
+        print("oficina:", e)
     return datos
 
 
