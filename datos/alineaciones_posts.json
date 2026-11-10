@@ -393,288 +393,6 @@
     ]
    }
   },
-  "1550189": {
-   "hora": "2026-11-08T20:21:06.595962+01:00",
-   "xi": [
-    "David de Gea",
-    "Álex Jiménez",
-    "R. Drăgușin",
-    "Viery",
-    "João Mário",
-    "C. Ndour",
-    "C. Inao OulaÃ¯",
-    "Franco Mastantuono",
-    "Pote",
-    "A. Njie",
-    "Mateo Pellegrino",
-    "G. Vicario",
-    "P. Kalulu",
-    "Bremer",
-    "J. Lucumí",
-    "J. Cabal",
-    "W. McKennie",
-    "T. Koopmeiners",
-    "Douglas Luiz",
-    "J. Boga",
-    "R. Kolo Muani",
-    "N. Woltemade"
-   ],
-   "banquillo": [
-    "Beto",
-    "Valde",
-    "M. Brescianini",
-    "O. Christensen",
-    "Dodô",
-    "N. Fagioli",
-    "W. Gnonto",
-    "L. Lezzerini",
-    "L. Ranieri",
-    "D. Beldenti",
-    "Antonio Pirrò",
-    "B. Mazzeo",
-    "L. Kelly",
-    "D. Rugani",
-    "C. Pinsoglio",
-    "F. Gatti",
-    "Neto",
-    "Kerim-Sam Alajbegović",
-    "Z. Çelik",
-    "P. Sarr",
-    "J. Ekhator",
-    "E. Zhegrova"
-   ],
-   "equipos": {
-    "502": [
-     {
-      "n": "David de Gea",
-      "pos": "G"
-     },
-     {
-      "n": "Álex Jiménez",
-      "pos": "D"
-     },
-     {
-      "n": "R. Drăgușin",
-      "pos": "D"
-     },
-     {
-      "n": "Viery",
-      "pos": "D"
-     },
-     {
-      "n": "João Mário",
-      "pos": "D"
-     },
-     {
-      "n": "C. Ndour",
-      "pos": "M"
-     },
-     {
-      "n": "C. Inao OulaÃ¯",
-      "pos": "M"
-     },
-     {
-      "n": "Franco Mastantuono",
-      "pos": "M"
-     },
-     {
-      "n": "Pote",
-      "pos": "M"
-     },
-     {
-      "n": "A. Njie",
-      "pos": "M"
-     },
-     {
-      "n": "Mateo Pellegrino",
-      "pos": "F"
-     }
-    ],
-    "496": [
-     {
-      "n": "G. Vicario",
-      "pos": "G"
-     },
-     {
-      "n": "P. Kalulu",
-      "pos": "D"
-     },
-     {
-      "n": "Bremer",
-      "pos": "D"
-     },
-     {
-      "n": "J. Lucumí",
-      "pos": "D"
-     },
-     {
-      "n": "J. Cabal",
-      "pos": "D"
-     },
-     {
-      "n": "W. McKennie",
-      "pos": "M"
-     },
-     {
-      "n": "T. Koopmeiners",
-      "pos": "M"
-     },
-     {
-      "n": "Douglas Luiz",
-      "pos": "M"
-     },
-     {
-      "n": "J. Boga",
-      "pos": "M"
-     },
-     {
-      "n": "R. Kolo Muani",
-      "pos": "F"
-     },
-     {
-      "n": "N. Woltemade",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1552818": {
-   "hora": "2026-11-08T20:21:06.595962+01:00",
-   "xi": [
-    "R. Risser",
-    "J. Gradit",
-    "S. Baidoo",
-    "J. Todibo",
-    "Saud Abdulhamid",
-    "Y. Titraoui",
-    "A. Haidara",
-    "M. Udol",
-    "F. Thauvin",
-    "F. Sotoca",
-    "T. Hazard",
-    "J. de Lange",
-    "T. Weah",
-    "C. Egan-Riley",
-    "N. Aguerd",
-    "U. Garcia",
-    "T. Nnadi",
-    "P. Højbjerg",
-    "A. Harit",
-    "H. Abdelli",
-    "Igor Paixão",
-    "A. Gouiri"
-   ],
-   "banquillo": [
-    "K. Antonio",
-    "R. Aguilar",
-    "A. Bulatović",
-    "M. Cuisance",
-    "Moussa Diarra",
-    "M. Gorgelin",
-    "J. Kadile",
-    "M. Soares",
-    "M. Skóraś",
-    "Nouhoum Kamissoko",
-    "K. Abdallah",
-    "K. Bezahaf",
-    "A. Gomes",
-    "G. Kondogbia"
-   ],
-   "equipos": {
-    "116": [
-     {
-      "n": "R. Risser",
-      "pos": "G"
-     },
-     {
-      "n": "J. Gradit",
-      "pos": "D"
-     },
-     {
-      "n": "S. Baidoo",
-      "pos": "D"
-     },
-     {
-      "n": "J. Todibo",
-      "pos": "D"
-     },
-     {
-      "n": "Saud Abdulhamid",
-      "pos": "M"
-     },
-     {
-      "n": "Y. Titraoui",
-      "pos": "M"
-     },
-     {
-      "n": "A. Haidara",
-      "pos": "M"
-     },
-     {
-      "n": "M. Udol",
-      "pos": "M"
-     },
-     {
-      "n": "F. Thauvin",
-      "pos": "M"
-     },
-     {
-      "n": "F. Sotoca",
-      "pos": "M"
-     },
-     {
-      "n": "T. Hazard",
-      "pos": "F"
-     }
-    ],
-    "81": [
-     {
-      "n": "J. de Lange",
-      "pos": "G"
-     },
-     {
-      "n": "T. Weah",
-      "pos": "D"
-     },
-     {
-      "n": "C. Egan-Riley",
-      "pos": "D"
-     },
-     {
-      "n": "N. Aguerd",
-      "pos": "D"
-     },
-     {
-      "n": "U. Garcia",
-      "pos": "D"
-     },
-     {
-      "n": "T. Nnadi",
-      "pos": "M"
-     },
-     {
-      "n": "P. Højbjerg",
-      "pos": "M"
-     },
-     {
-      "n": "A. Harit",
-      "pos": "M"
-     },
-     {
-      "n": "H. Abdelli",
-      "pos": "M"
-     },
-     {
-      "n": "Igor Paixão",
-      "pos": "M"
-     },
-     {
-      "n": "A. Gouiri",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1570443": {
    "hora": "2026-11-08T20:33:26.719695+01:00",
    "xi": [
@@ -2006,25 +1724,25 @@
    }
   },
   "1638308": {
-   "hora": "2026-11-10T20:19:55.356139+01:00",
+   "hora": "2026-11-10T20:28:11.037964+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1638291": {
-   "hora": "2026-11-10T20:19:55.356139+01:00",
+   "hora": "2026-11-10T20:28:11.037964+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644380": {
-   "hora": "2026-11-10T20:19:55.356139+01:00",
+   "hora": "2026-11-10T20:28:11.037964+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1638328": {
-   "hora": "2026-11-10T20:19:55.356139+01:00",
+   "hora": "2026-11-10T20:28:11.037964+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
