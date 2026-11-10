@@ -389,153 +389,6 @@
     ]
    }
   },
-  "1575544": {
-   "hora": "2026-11-08T18:35:57.459868+01:00",
-   "xi": [
-    "Lucas Furtado",
-    "T. Strata",
-    "T. Borevković",
-    "A. Sidibé",
-    "João Mendes",
-    "Gonçalo Nogueira",
-    "Beni",
-    "Gustavo",
-    "Samu",
-    "O. Camara",
-    "A. Jakupovic",
-    "Diogo Costa",
-    "Alberto Baio",
-    "J. Bednarek",
-    "J. Kiwior",
-    "Z. Sanusi",
-    "Victor Mow Froholdt",
-    "P. Rosario",
-    "Gabri Veiga",
-    "Pepê Aquino",
-    "Samu",
-    "Borja Sainz"
-   ],
-   "banquillo": [
-    "Alan",
-    "L. Doucet",
-    "Miguel Maga",
-    "M. Mitrović",
-    "A. Ndoye",
-    "Miguel Nogueira",
-    "V. Ouotro",
-    "Óscar Rivas",
-    "Thiago Balieiro",
-    "O. Zych",
-    "Mohammed Kebdani",
-    "V. Andersson",
-    "A. Varela",
-    "Cláudio Ramos",
-    "Souza",
-    "D. Prpić",
-    "O. Pietuszewski",
-    "N. Pérez",
-    "Francisco Moura",
-    "Hwang In-Beom",
-    "S. Giménez",
-    "S. Fofana",
-    "Martim Fernandes",
-    "André Silva"
-   ],
-   "equipos": {
-    "224": [
-     {
-      "n": "Lucas Furtado",
-      "pos": "G"
-     },
-     {
-      "n": "T. Strata",
-      "pos": "D"
-     },
-     {
-      "n": "T. Borevković",
-      "pos": "D"
-     },
-     {
-      "n": "A. Sidibé",
-      "pos": "D"
-     },
-     {
-      "n": "João Mendes",
-      "pos": "D"
-     },
-     {
-      "n": "Gonçalo Nogueira",
-      "pos": "M"
-     },
-     {
-      "n": "Beni",
-      "pos": "M"
-     },
-     {
-      "n": "Gustavo",
-      "pos": "M"
-     },
-     {
-      "n": "Samu",
-      "pos": "M"
-     },
-     {
-      "n": "O. Camara",
-      "pos": "M"
-     },
-     {
-      "n": "A. Jakupovic",
-      "pos": "F"
-     }
-    ],
-    "212": [
-     {
-      "n": "Diogo Costa",
-      "pos": "G"
-     },
-     {
-      "n": "Alberto Baio",
-      "pos": "D"
-     },
-     {
-      "n": "J. Bednarek",
-      "pos": "D"
-     },
-     {
-      "n": "J. Kiwior",
-      "pos": "D"
-     },
-     {
-      "n": "Z. Sanusi",
-      "pos": "D"
-     },
-     {
-      "n": "Victor Mow Froholdt",
-      "pos": "M"
-     },
-     {
-      "n": "P. Rosario",
-      "pos": "M"
-     },
-     {
-      "n": "Gabri Veiga",
-      "pos": "M"
-     },
-     {
-      "n": "Pepê Aquino",
-      "pos": "F"
-     },
-     {
-      "n": "Samu",
-      "pos": "F"
-     },
-     {
-      "n": "Borja Sainz",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1575215": {
    "hora": "2026-11-08T19:01:47.107800+01:00",
    "xi": [
@@ -2133,13 +1986,31 @@
    }
   },
   "1644336": {
-   "hora": "2026-11-10T18:22:01.158289+01:00",
+   "hora": "2026-11-10T18:36:09.085504+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644365": {
-   "hora": "2026-11-10T18:22:01.158289+01:00",
+   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1644382": {
+   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1644362": {
+   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1644335": {
+   "hora": "2026-11-10T18:36:09.085504+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
