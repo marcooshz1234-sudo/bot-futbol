@@ -1,7 +1,7 @@
 # Barcelona W – Arsenal W
 **Champions Femenina** · League Stage - 4 · 12/11/2026 18:45 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 16:44_

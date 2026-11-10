@@ -16,8 +16,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.3,
-   "temperatura": 21.0
+   "viento_kmh": 4.7,
+   "temperatura": 20.7
   },
   "cuotas": {
    "Away": [
@@ -42,8 +42,8 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 2.3,
-   "viento_kmh": 16.7,
+   "lluvia_mm": 1.9,
+   "viento_kmh": 17.1,
    "temperatura": 18.1
   }
  },
@@ -64,8 +64,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.1,
-   "viento_kmh": 2.6,
-   "temperatura": 16.5
+   "viento_kmh": 3.8,
+   "temperatura": 17.4
   }
  },
  "1638311": {
@@ -85,8 +85,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 2.0,
-   "temperatura": 9.8
+   "viento_kmh": 0.7,
+   "temperatura": 9.5
   }
  },
  "1638318": {
@@ -105,9 +105,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 5.8,
-   "temperatura": 4.9
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.7,
+   "temperatura": 4.8
   }
  },
  "1644382": {
@@ -126,8 +126,8 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 2.9,
-   "viento_kmh": 12.9,
+   "lluvia_mm": 2.2,
+   "viento_kmh": 12.6,
    "temperatura": 14.8
   }
  },
@@ -148,29 +148,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.7,
+   "viento_kmh": 3.3,
    "temperatura": 7.2
-  }
- },
- "1644365": {
-  "local": {
-   "nombre": "Pamplona",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Eibar",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": 4,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 6.3,
-   "temperatura": 19.5
   }
  },
  "1644380": {
@@ -183,22 +162,6 @@
   },
   "visitante": {
    "nombre": "Valencia",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": 10,
-   "siguiente_europa": null
-  }
- },
- "1644336": {
-  "local": {
-   "nombre": "Anaitasuna",
-   "dias_desde": 38,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Alaves",
    "dias_desde": 3,
    "ultimo_europa": null,
    "dias_hasta": 10,
@@ -221,9 +184,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.2,
-   "viento_kmh": 5.4,
-   "temperatura": 12.7
+   "lluvia_mm": 4.1,
+   "viento_kmh": 1.8,
+   "temperatura": 12.5
   }
  },
  "1638339": {
@@ -243,50 +206,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.8,
-   "temperatura": 16.7
-  }
- },
- "1638332": {
-  "local": {
-   "nombre": "Real Madrid W",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": 4,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Paris FC W",
-   "dias_desde": 12,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 9,
-   "siguiente_europa": "Champions femenina"
-  },
-  "tiempo": {
-   "lluvia_mm": 1.7,
-   "viento_kmh": 9.5,
-   "temperatura": 16.0
-  }
- },
- "1638304": {
-  "local": {
-   "nombre": "Häcken W",
-   "dias_desde": 12,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 8,
-   "siguiente_europa": "Champions femenina"
-  },
-  "visitante": {
-   "nombre": "Chelsea W",
-   "dias_desde": 13,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 8,
-   "siguiente_europa": "Champions femenina"
-  },
-  "tiempo": {
-   "lluvia_mm": 0.4,
-   "viento_kmh": 8.3,
-   "temperatura": 8.4
+   "viento_kmh": 5.8,
+   "temperatura": 16.4
   }
  },
  "1644335": {
@@ -305,9 +226,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 2.1,
+   "lluvia_mm": 0.4,
    "viento_kmh": 10.7,
-   "temperatura": 16.0
+   "temperatura": 16.2
   }
  }
 }

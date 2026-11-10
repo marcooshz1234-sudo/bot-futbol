@@ -1,13 +1,9 @@
 # Próximos partidos
 
-_Actualizado el 10/11/2026 16:45 (hora España). Partidos guardados en la base de datos: 2551._
+_Actualizado el 10/11/2026 19:59 (hora España). Partidos guardados en la base de datos: 2551._
 
 
 ## Martes 10/11
-- 18:45 · Champions Femenina · [Real Madrid W – Paris FC W](informes/2026-11-10_real-madrid-w-vs-paris-fc-w.md) · 1X2: 1.40 / 5.00 / 7.00
-- 18:45 · Champions Femenina · [Häcken W – Chelsea W](informes/2026-11-10_hacken-w-vs-chelsea-w.md) · 1X2: 9.50 / 7.00 / 1.22
-- 19:00 · Copa del Rey · [Pamplona – Eibar](informes/2026-11-10_pamplona-vs-eibar.md) · 1X2: 12.00 / 7.50 / 1.18
-- 19:00 · Copa del Rey · [Anaitasuna – Alaves](informes/2026-11-10_anaitasuna-vs-alaves.md) · 1X2: 34.00 / 13.00 / 1.04
 - 20:00 · Copa del Rey · [Amorebieta – UD Logroñés](informes/2026-11-10_amorebieta-vs-ud-logrones.md) · 1X2: 3.20 / 3.40 / 2.20
 - 20:00 · Copa del Rey · [Trival Valderas – Leganes](informes/2026-11-10_trival-valderas-vs-leganes.md) · 1X2: 15.00 / 7.50 / 1.17
 - 20:00 · Copa del Rey · [Mijas Las Lagunas – Real Jaén](informes/2026-11-10_mijas-las-lagunas-vs-real-jaen.md) · 1X2: 5.00 / 3.80 / 1.67
@@ -36,7 +32,7 @@ _Actualizado el 10/11/2026 16:45 (hora España). Partidos guardados en la base d
 - 20:45 · Nations League · [San Marino – Belarus](informes/2026-11-12_san-marino-vs-belarus.md) · 1X2: 13.00 / 8.50 / 1.14
 
 ## Viernes 13/11
-- 18:00 · Nations League · [Moldova – Kazakhstan](informes/2026-11-13_moldova-vs-kazakhstan.md) · 1X2: 2.50 / 3.10 / 2.75
+- 18:00 · Nations League · [Moldova – Kazakhstan](informes/2026-11-13_moldova-vs-kazakhstan.md) · 1X2: 2.62 / 3.00 / 2.88
 - 20:30 · Segunda División · [Leganes – Burgos](informes/2026-11-13_leganes-vs-burgos.md)
 - 20:30 · Serie C · [Ospitaletto – Dolomiti Bellunesi](informes/2026-11-13_ospitaletto-vs-dolomiti-bellunesi.md)
 - 20:45 · Nations League · [Serbia – Germany](informes/2026-11-13_serbia-vs-germany.md) · 1X2: 8.00 / 6.50 / 1.28
@@ -123,3 +119,8 @@ _Actualizado el 10/11/2026 16:45 (hora España). Partidos guardados en la base d
 - 20:45 · Nations League · [Rep. Of Ireland – Kosovo](informes/2026-11-17_rep-of-ireland-vs-kosovo.md)
 - 20:45 · Nations League · [Bosnia & Herzegovina – Romania](informes/2026-11-17_bosnia-herzegovina-vs-romania.md)
 - 20:45 · Nations League · [Israel – Austria](informes/2026-11-17_israel-vs-austria.md)
+
+## Miércoles 18/11
+- 18:45 · Champions Femenina · [Real Madrid W – Inter Milano W](informes/2026-11-18_real-madrid-w-vs-inter-milano-w.md)
+- 18:45 · Champions Femenina · [Häcken W – Manchester City W](informes/2026-11-18_hacken-w-vs-manchester-city-w.md)
+- 19:00 · Copa del Rey · [Utebo – Sabadell](informes/2026-11-18_utebo-vs-sabadell.md) · 1X2: 5.75 / 3.50 / 1.67
