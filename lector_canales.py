@@ -41,6 +41,7 @@ def leer_canal(usuario):
 
 CANALES_PRIVADOS = {"TIPSTER PÉREZ": "Tipster Pérez"}   # título del canal en Telegram → nombre (con la cuenta de Marcos)
 FOTOS = DATOS / "tipsters_fotos"
+NUESTRO = "3953339107"   # nuestro canal (no se lee)
 
 
 def leer_con_cuenta(datos):
@@ -62,21 +63,32 @@ def leer_con_cuenta(datos):
         print(f"TG_SESSION no parece completa: {len(ses)} caracteres (debe tener 353 y empezar por 1)")
     with TelegramClient(StringSession(ses), int(os.environ["TG_API_ID"]),
                         os.environ["TG_API_HASH"], receive_updates=False) as cli:
+        vistos = []
         for d in cli.iter_dialogs():
-            nombre = next((v for k, v in CANALES_PRIVADOS.items() if k.lower() in (d.name or "").lower()), None)
-            if not nombre:
+            # 10/11 (Marcos: «he metido más canales… míralos todos»): todos los CANALES que sigue (no grupos ni
+            # chats privados), menos el nuestro. Los de CANALES_PRIVADOS con su nombre corto; el resto con su título.
+            if not getattr(d, "is_channel", False) or getattr(d, "is_group", False):
                 continue
+            plano = re.sub(r"\W", "", (d.name or "").lower())
+            if str(d.id).endswith(NUESTRO) or "combilocas" in plano or "tipsanalistas" == plano:   # este ya va por la web
+                continue
+            nombre = next((v for k, v in CANALES_PRIVADOS.items() if k.lower() in (d.name or "").lower()), None) \
+                or (d.name or str(d.id)).strip()
+            vistos.append(nombre)
             lista = datos.setdefault(nombre, [])
             ya = {p["id"] for p in lista}
+            nuevos_canal = 0
             for m in cli.iter_messages(d.entity, limit=30):
                 pid = f"{d.id}/{m.id}"
                 if pid in ya:
                     continue
+                nuevos_canal += 1
                 p = {"id": pid, "fecha": m.date.astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
                      "texto": m.message or "", "foto": bool(m.photo),
                      "visto": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")}
-                if m.photo:
-                    ruta = FOTOS / f"{nombre.replace(' ', '_')}_{m.id}.jpg"
+                # fotos (boletos) solo de los 2 últimos días: que el repo no crezca con fotos viejas
+                if m.photo and (datetime.now(MADRID) - m.date.astimezone(MADRID)).days < 2:
+                    ruta = FOTOS / f"{re.sub(r'[^A-Za-z0-9ÁÉÍÓÚáéíóúÑñ]+', '_', nombre)[:40]}_{m.id}.jpg"
                     try:
                         cli.download_media(m, file=str(ruta))
                         p["foto_ruta"] = str(ruta.relative_to(DATOS.parent))
@@ -86,7 +98,8 @@ def leer_con_cuenta(datos):
                 nuevos += 1
             lista.sort(key=lambda p: p["fecha"] or "")
             datos[nombre] = lista[-200:]
-            print(f"{nombre} (cuenta): {nuevos} nuevos")
+            print(f"{nombre} (cuenta): {nuevos_canal} nuevos")
+        (DATOS / "canales_telegram.json").write_text(json.dumps(sorted(vistos), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return nuevos
 
 
