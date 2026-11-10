@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 12:50",
+ "actualizado": "2026-11-10 13:00",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2513,
-   "hoy": 154,
+   "seguidores": 2515,
+   "hoy": 156,
    "serie": [
     1638,
     1906,
@@ -24,7 +24,7 @@
     2126,
     2231,
     2359,
-    2513
+    2515
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2913,
- "total_hoy": 157,
+ "total": 2915,
+ "total_hoy": 159,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "13:01",
   "dia": "2026-11-10",
-  "titulo": "Vamos con la combi del martes familia"
+  "titulo": "Os dejo un pick para la champions feme"
  },
  "ayer": {
   "aciertos": 2,
@@ -180,7 +180,7 @@
   },
   "2026-11-10": {
    "instagram": 36,
-   "threads": 2513,
+   "threads": 2515,
    "facebook": 1,
    "telegram": 363
   }
