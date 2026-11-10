@@ -40,6 +40,13 @@ def leer_canal(usuario):
 
 
 def main():
+    marca = DATOS / "tipsters_raw.visto"   # cada 30 min como mucho (el bucle lo llama cada pocos minutos)
+    try:
+        if marca.exists() and (datetime.now(MADRID) - datetime.fromisoformat(marca.read_text().strip())).total_seconds() < 1800:
+            return
+    except ValueError:
+        pass
+    marca.write_text(datetime.now(MADRID).isoformat())
     datos = leer(SALIDA, {}) or {}
     nuevos = 0
     for usuario, nombre in CANALES.items():
