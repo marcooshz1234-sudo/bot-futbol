@@ -42,6 +42,13 @@ def leer_canal(usuario):
 CANALES_PRIVADOS = {"TIPSTER PÉREZ": "Tipster Pérez"}   # título del canal en Telegram → nombre (con la cuenta de Marcos)
 FOTOS = DATOS / "tipsters_fotos"
 NUESTRO = "3953339107"   # nuestro canal (no se lee)
+APUESTAS = re.compile(r"pick|tips|tipster|apuest|analist|stake|insider|trader|basquet|cuota|pronost|\bbet", re.I)
+
+
+def es_de_apuestas(nombre):
+    import unicodedata
+    plano = unicodedata.normalize("NFKD", nombre or "")   # «𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀» → «MAX ANALISTA»
+    return bool(APUESTAS.search(plano))
 
 
 def leer_con_cuenta(datos):
@@ -72,8 +79,13 @@ def leer_con_cuenta(datos):
             plano = re.sub(r"\W", "", (d.name or "").lower())
             if str(d.id).endswith(NUESTRO) or "combilocas" in plano or "tipsanalistas" == plano:   # este ya va por la web
                 continue
-            nombre = next((v for k, v in CANALES_PRIVADOS.items() if k.lower() in (d.name or "").lower()), None) \
-                or (d.name or str(d.id)).strip()
+            nombre = next((v for k, v in CANALES_PRIVADOS.items() if k.lower() in (d.name or "").lower()), None)
+            if not nombre:
+                # 10/11: SOLO canales de apuestas (por el nombre). El resto de canales de Marcos (cine, noticias…)
+                # ni se lee ni se apunta en ningún sitio: el repo es público.
+                if not es_de_apuestas(d.name):
+                    continue
+                nombre = (d.name or str(d.id)).strip()
             vistos.append(nombre)
             lista = datos.setdefault(nombre, [])
             ya = {p["id"] for p in lista}
