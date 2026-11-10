@@ -117,7 +117,7 @@ def post(dia, hora=HORA, excluir=(), sufijo=""):
 
 
 def hacer_imagen(p):
-    """Tarjeta de Threads (publicaciones/media/<id>.tarjeta.jpg) con la plantilla oro."""
+    """Tarjeta de Threads (publicaciones/media/<id>.tarjeta.jpg). 11/11: plantilla «estadio» (logo nuevo)."""
     import ganadores_img as G
     from pathlib import Path
     from imagenes import MEDIA, escudo
@@ -134,4 +134,4 @@ def hacer_imagen(p):
     if g.get("liga"):
         l = MEDIA / "escudos" / f"liga-{g['liga']}.png"
         liga = str(l) if l.exists() else G.logo_liga(g["liga"])
-    return G.generar(filas, g["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "oro", liga=liga)
+    return G.generar(filas, g["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga)

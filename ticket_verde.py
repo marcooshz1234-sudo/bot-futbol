@@ -13,6 +13,7 @@ import html
 import re
 
 from bot import DATOS, RAIZ, leer
+from marca import CIRCULO
 
 MEDIA = RAIZ / "publicaciones" / "media"
 CAPTURAS = RAIZ / "publicaciones" / "capturas"
@@ -44,47 +45,18 @@ def marcador(x):
 
 
 def documento(p, publicado, alto=1350):
-    """p: la combi de docs/datos.json (publicados_hoy) ya en verde. publicado: «HH:MM»."""
+    """p: la combi de docs/datos.json (publicados_hoy) ya en verde. publicado: «HH:MM».
+    11/11: plantillas nuevas (fotos.py): un partido → tarjeta con escudos, marcador y sello ACERTADO; varios → lista."""
+    import fotos
     patas = [x for x in p.get("picks", []) if x.get("estado") in ("verde", "anulada")]
     partidos = {x.get("partido_id") for x in patas}
-    uno = len(partidos) == 1
+    cuota = num(p["cuota"]) if p.get("cuota") else None
+    if len(patas) == 1 and len(partidos) == 1 and patas[0].get("partido_id"):
+        t = fotos.partido({"sel": [f"{patas[0]['partido_id']}|x|x"]})
+        if t:
+            return fotos.verde_partido(t, patas[0], cuota, publicado, t.get("liga"), alto)
     titulo = "PICK ACERTADO" if len(patas) == 1 else "COMBI ACERTADA"
-    cab = ""
-    if uno:
-        l, v = equipos(next(iter(partidos)))
-        el, ev = escudo_b64(l), escudo_b64(v)
-        if el and ev:
-            cab = (f'<div class="esc"><img src="data:image/png;base64,{el}"><span>vs</span>'
-                   f'<img src="data:image/png;base64,{ev}"></div>')
-        else:
-            cab = f'<div class="partido">{html.escape(fem(patas[0].get("partido", "")))}</div>'
-    filas = ""
-    for x in patas:
-        anul = x.get("estado") == "anulada"
-        extra = "" if uno else f'<small>{html.escape(fem(x.get("partido", "")))} · {marcador(x)}</small>'
-        filas += (f'<div class="pata{" anul" if anul else ""}"><b>{"⏸️" if anul else "✅"}</b>'
-                  f'<div>{html.escape(fem(x.get("texto", "")))}{" (no se jugó)" if anul else ""}{extra}</div></div>')
-    datos = [("Cuota", num(p["cuota"]) if p.get("cuota") else "—"), ("Publicado", publicado or "—")]
-    if uno and marcador(patas[0]):
-        datos.append(("Final", marcador(patas[0])))
-    cajas = "".join(f"<div>{a}<b>{b}</b></div>" for a, b in datos)
-    letra = 40 if len(patas) <= 3 else 32 if len(patas) <= 5 else 26
-    return f"""<html><head><meta charset="utf-8"><style>
-body{{margin:0;width:1080px;height:{alto}px;font-family:Arial,'Noto Color Emoji',sans-serif;color:#fff;
-background:linear-gradient(160deg,#14532d,#0b1a12 60%);display:flex;flex-direction:column;justify-content:center;
-box-sizing:border-box;padding:70px;border:8px solid #22c55e}}
-.m{{color:#86efac;letter-spacing:12px;font-weight:bold;font-size:30px;text-align:center}}
-.big{{font-size:86px;font-weight:900;text-align:center;margin:24px 0 10px;color:#22c55e;line-height:1}}
-.esc{{display:flex;justify-content:center;align-items:center;gap:50px;margin:40px 0;font-size:40px;font-weight:bold}}
-.esc img{{height:170px}}.partido{{text-align:center;font-size:40px;font-weight:bold;margin:34px 0}}
-.pata{{display:flex;gap:18px;align-items:flex-start;background:#ffffff14;border-radius:18px;padding:20px 26px;
-margin:12px 0;font-size:{letra}px;font-weight:bold}}.pata small{{display:block;font-size:24px;color:#cbd5e1;
-font-weight:normal;margin-top:6px}}.anul{{opacity:.55}}
-.q{{display:flex;justify-content:space-around;margin-top:40px;font-size:30px;color:#cbd5e1;text-align:center}}
-.q b{{display:block;font-size:56px;color:#fff;margin-top:8px}}
-.pie{{text-align:center;margin-top:50px;font-size:28px;color:#86efac}}
-</style></head><body><div class="m">COMBILOCAS</div><div class="big">✅ {titulo}</div>{cab}{filas}
-<div class="q">{cajas}</div><div class="pie">🔔 Activad las notificaciones, que vienen más combis 👀</div></body></html>"""
+    return fotos.verde_lista(patas, titulo, cuota, publicado, alto)
 
 
 def ticket(pagina, p, publicado, destino, alto=1350):
@@ -106,14 +78,19 @@ def sello(captura, destino):
     out = Image.new("RGB", (w, h + banda), (11, 26, 18))
     out.paste(im, (0, banda))
     d = ImageDraw.Draw(out)
-    d.rectangle([0, 0, w, banda - 1], fill=(20, 83, 45))
-    d.rectangle([0, banda - max(4, w // 150), w, banda - 1], fill=(34, 197, 94))
+    d.rectangle([0, 0, w, banda - 1], fill=(10, 20, 64))
+    d.rectangle([0, banda - max(4, w // 150), w, banda - 1], fill=(242, 201, 76))
     negrita = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
     f1 = ImageFont.truetype(negrita, int(banda * 0.42))
     f2 = ImageFont.truetype(negrita, int(banda * 0.17))
-    for texto, f, y, color in (("✔ ACERTADO", f1, banda * 0.14, (255, 255, 255)),
-                               ("C O M B I L O C A S", f2, banda * 0.66, (134, 239, 172))):
-        d.text(((w - d.textlength(texto, font=f)) / 2, y), texto, font=f, fill=color)
+    izq = int(banda * 1.1) if CIRCULO.exists() else 0   # 11/11: el texto a la derecha del logo, sin pisarlo
+    for texto, f, y, color in (("✔ ACERTADO", f1, banda * 0.14, (62, 224, 122)),
+                               ("C O M B I L O C A S", f2, banda * 0.66, (242, 201, 76))):
+        d.text((izq + (w - izq - d.textlength(texto, font=f)) / 2, y), texto, font=f, fill=color)
+    if CIRCULO.exists():   # 11/11: el logo redondo a la izquierda de la franja
+        lado = int(banda * 0.8)
+        logo = Image.open(CIRCULO).convert("RGBA").resize((lado, lado), Image.LANCZOS)
+        out.paste(logo, (max(10, int(banda * 0.15)), (banda - lado) // 2), logo)
     destino.parent.mkdir(parents=True, exist_ok=True)
     out.save(destino, "JPEG", quality=92)
     return destino

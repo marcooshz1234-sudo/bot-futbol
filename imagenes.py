@@ -21,30 +21,32 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
+from marca import LETRA, ORO, base, logo_img
+
 RAIZ = Path(__file__).resolve().parent
 MEDIA = RAIZ / "publicaciones" / "media"
 
 CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
-body{width:%(w)dpx;height:%(h)dpx;background:radial-gradient(120%% 80%% at 50%% 0%%,#1d3b2a 0%%,#0d1712 55%%,#070b09 100%%);
- font-family:'Liberation Sans','DejaVu Sans',sans-serif,'Noto Color Emoji';color:#f4f7f5;display:flex;flex-direction:column;
- padding:%(pad)dpx 70px 60px;overflow:hidden}
-.marca{font-size:30px;letter-spacing:6px;color:#7ee2a8;font-weight:700;text-align:center;margin-bottom:26px}
-.foto{width:100%%;border-radius:22px;margin-bottom:30px;box-shadow:0 10px 30px rgba(0,0,0,.5)}
-.titulo{font-size:%(ft)dpx;font-weight:800;line-height:1.15;text-align:center;margin-bottom:34px}
-.sub{font-size:40px;font-weight:700;text-align:center;color:#ffd84d;margin:-18px 0 30px}
+body{width:%(w)dpx;height:%(h)dpx;font-family:%(letra)s;color:#f7f3e8;display:flex;flex-direction:column;
+ padding:%(pad)dpx 76px 60px;overflow:hidden}
+.marca{text-align:center;margin-bottom:14px}
+.foto{width:100%%;border-radius:22px;margin-bottom:30px;border:4px solid %(oro)s;box-shadow:0 10px 30px rgba(0,0,0,.6)}
+.titulo{font-size:%(ft)dpx;line-height:1.08;text-align:center;margin-bottom:30px;padding:0 10px}
+.sub{font-size:44px;text-align:center;margin:-14px 0 28px;line-height:1.1}
 .lineas{display:flex;flex-direction:column;gap:%(gap)dpx}
-.l{font-size:%(fl)dpx;line-height:1.25;background:rgba(255,255,255,.06);border-left:6px solid #2ecc71;
- border-radius:14px;padding:16px 22px}
+.l{font-size:%(fl)dpx;font-weight:600;line-height:1.2;background:linear-gradient(180deg,rgba(22,36,110,.9),rgba(8,16,52,.9));
+ border:2px solid rgba(242,201,76,.55);border-left:9px solid %(oro)s;border-radius:16px;padding:14px 24px;
+ box-shadow:0 6px 16px rgba(0,0,0,.4)}
 .cuota{margin-top:30px;display:flex;gap:18px;justify-content:center;flex-wrap:wrap}
-.cuota div{font-size:42px;font-weight:800;background:#2ecc71;color:#06140c;border-radius:16px;padding:14px 26px}
-.cuota div.b{background:#ffd84d}
-.dato{margin-top:28px;font-size:33px;line-height:1.3;color:#cfe9da;text-align:center}
-.pie{margin-top:auto;display:flex;justify-content:space-between;font-size:28px;color:#8fb3a0;padding-top:24px}
+.cuota div{font-size:48px;padding:6px 30px}
+.cuota div.b{background:linear-gradient(180deg,#8ff0a8,#22c55e 55%%,#0d6b2a);color:#fff;border-color:#d4ffe1;box-shadow:0 6px 0 #0a4d1e}
+.dato{margin-top:26px;font-size:36px;font-weight:600;line-height:1.25;color:#f3e3b0;text-align:center;text-shadow:0 2px 8px #000}
+.pie{margin-top:auto;display:flex;justify-content:center;padding-top:22px}
+.pie .banda{padding:6px 40px 8px}
 .oculto{visibility:hidden}
 .v{justify-content:center}
-.v .marca{font-size:36px}
-.v .pie{position:absolute;bottom:70px;left:70px;right:70px;margin:0}
+.v .pie{position:absolute;bottom:90px;left:70px;right:70px;margin:0}
 """
 
 
@@ -71,37 +73,44 @@ def partes(texto):
 
 
 def documento(p, vertical, mostrar=None, foto_b64=None):
+    if "-pick" in p.get("id", "") and "verde" not in p.get("id", "") and not foto_b64:
+        import fotos   # 11/11: el pick suelto con su plantilla (escudos, VS, cuota)
+        doc = fotos.pick_del_dia(p, 1080, 1920 if vertical else 1350)
+        if doc:
+            return doc, 1
     titulo, sub, lineas, cuota, dato = partes(p["texto"])
     w, h = (1080, 1920) if vertical else (1080, 1350)
     n = len(lineas)
-    fl = 40 if n <= 5 else 35 if n <= 7 else 31 if n <= 12 else 26 if n <= 16 else 22   # 05/11: listas de 18 partidos
+    fl = 46 if n <= 5 else 41 if n <= 7 else 36 if n <= 12 else 30 if n <= 16 else 25   # 05/11: listas de 18 partidos
     if vertical:
         fl += 8
     gap = 14 if n <= 7 else 10 if n <= 12 else 6 if n <= 16 else 4
     if foto_b64 and not vertical:   # con foto de escudos hay menos sitio en 1080x1350
         fl -= 4
         gap = 10
-    css = CSS % {"w": w, "h": h, "pad": 70 if vertical else 50, "ft": 64 if vertical else 52, "fl": fl, "gap": gap}
+    css = base(h) + CSS % {"w": w, "h": h, "pad": 80 if vertical else 56, "ft": 76 if vertical else 64, "fl": fl, "gap": gap,
+                          "oro": ORO, "letra": LETRA}
     total = 1 + n + 2
     ver = total if mostrar is None else mostrar
 
     def cls(i):
         return "" if i < ver else " oculto"
     e = html.escape
-    partes_html = ['<div class="marca">COMBILOCAS</div>']
+    tam = (220 if vertical else 180) if n <= 7 else (150 if vertical else 120) if n <= 12 else 80
+    partes_html = [f'<div class="marca">{logo_img(tam)}</div>']
     if foto_b64:
         partes_html.append(f'<img class="foto" src="data:image/jpeg;base64,{foto_b64}">')
-    partes_html.append(f'<div class="titulo">{e(titulo)}</div>')
+    partes_html.append(f'<div class="titulo oro">{e(titulo)}</div>')
     if sub:
-        partes_html.append(f'<div class="sub">{e(sub)}</div>')
+        partes_html.append(f'<div class="sub b3d">{e(sub)}</div>')
     partes_html.append('<div class="lineas">' + "".join(
         f'<div class="l{cls(1 + i)}">{e(l)}</div>' for i, l in enumerate(lineas)) + "</div>")
     if cuota:
         partes_html.append(f'<div class="cuota{cls(1 + n)}">' + "".join(
-            f'<div class="{"b" if c.startswith("💶") else ""}">{e(c)}</div>' for c in cuota) + "</div>")
+            f'<div class="pastilla{" b" if c.startswith("💶") else ""}">{e(c)}</div>' for c in cuota) + "</div>")
     if dato:
         partes_html.append(f'<div class="dato{cls(2 + n)}">{e(dato)}</div>')
-    partes_html.append('<div class="pie"><span>@combilocas</span><span></span></div>')
+    partes_html.append('<div class="pie"><div class="banda"><span class="oro" style="font-size:40px">@COMBILOCAS</span></div></div>')
     clase = ' class="v"' if vertical else ""
     return f"<html><head><meta charset='utf-8'><style>{css}</style></head><body{clase}>{''.join(partes_html)}</body></html>", total
 
@@ -114,7 +123,7 @@ def ajustar_al_lienzo(pagina, alto):
         el => el.getBoundingClientRect().bottom)) + 24""")
     if fondo > alto:
         escala = (alto - 12) / fondo
-        pagina.add_style_tag(content=f"html{{background:#070b09}} body{{overflow:visible;transform:scale({escala});transform-origin:top center}}")
+        pagina.add_style_tag(content=f"body{{overflow:visible;background:none;transform:scale({escala});transform-origin:top center}}")
     pagina.evaluate("window.scrollTo(0, 0)")
     comienzo = pagina.evaluate("""() => Math.min(...Array.from(document.body.children,
         el => el.getBoundingClientRect().top))""")
@@ -173,18 +182,11 @@ def tarjeta(p, pagina):
     hoy = datetime.fromisoformat(p["fecha"][:10])
     dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
     dia = "Hoy" if ini.date() == hoy.date() else "Mañana" if (ini.date() - hoy.date()).days == 1 else dias[ini.weekday()]
-    doc = TARJETA
     import re
+    import fotos   # 11/11: con el estilo del logo nuevo
     m = re.search(r"(?:Cuota total aprox\.: |Cuota @)(\d+,\d+)", p.get("texto", ""))
-    doc = doc.replace("{cuota}", f'<div class="cuota">💥 COMBI DEL PARTIDO · x{m.group(1)}</div>' if m else "")
-    bandera = {"LaLiga": "🇪🇸", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪", "Ligue 1": "🇫🇷",
-               "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢", "Primeira Liga": "🇵🇹",
-               "Eredivisie": "🇳🇱", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Segunda División": "🇪🇸"}.get(t.get("liga"), "⚽")
-    for k, v in {"liga": f"{bandera} {(t.get('liga') or '').upper()}", "local": t["local"], "visitante": t["visitante"],
-                 "hora": f"{ini:%H:%M}", "dia": dia}.items():
-        doc = doc.replace("{" + k + "}", html.escape(str(v)))
-    for k, nombre in (("logo_l", t["local"]), ("logo_v", t["visitante"])):
-        doc = doc.replace('<img src="{' + k + '}">', escudo(t.get(k), nombre))
+    cuando = f"{dia.upper()} · {ini:%H:%M}"
+    doc = fotos.tarjeta_partido(t, cuando, m.group(1) if m else None)
     pagina.set_viewport_size({"width": 1180, "height": 340})
     pagina.goto("about:blank")
     pagina.set_content(doc, wait_until="networkidle")
@@ -266,7 +268,8 @@ def generar(p, pagina):
 
 def huella(p):
     import hashlib
-    return hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
+    # «diseño-2»: 11/11, plantillas con el logo nuevo → se rehacen las imágenes de los posts que aún no han salido
+    return hashlib.sha1((p["texto"] + str(p.get("foto")) + "diseño-2").encode()).hexdigest()[:12]
 
 
 def pendientes_de(cola, ahora, control=None, estado=None):
