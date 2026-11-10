@@ -179,3 +179,4 @@
 2026-11-10 16:31:25 botón cancelar|2026-11-10-combi-loca → ok
 2026-11-10 19:37:09 arranca el bot del móvil
 2026-11-10 20:38:53 botón gifquitar|Vb5bLtv04WXKNrpYJN|387 → ok
+2026-11-10 22:17:19 botón ap|20b31113dd → ok
