@@ -125,6 +125,8 @@ def threads(p, token):
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
     datos = {"media_type": "TEXT", "text": t, "access_token": token}
     foto = url_media(p, "tarjeta.jpg")   # 27/10: combis de un partido → con la foto del partido (escudos y hora)
+    if p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo)-auto-", p["id"]):
+        foto = None   # 10/11 (Marcos): los verdes y rojos en Threads, solo el texto
     if foto:
         datos = {"media_type": "IMAGE", "image_url": foto, "text": t, "access_token": token}
     if TEMA_THREADS:
