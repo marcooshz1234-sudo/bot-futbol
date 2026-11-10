@@ -1542,12 +1542,12 @@
     "dia": "2026-11-10",
     "total": 6,
     "cuentas": {
-      "verde": 3,
+      "verde": 2,
       "rojo": 3,
       "pendiente": 0,
-      "sin_datos": 0,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 0
+      "sin_resolver": 1
     },
     "combis": [
       {
@@ -1583,15 +1583,15 @@
       {
         "id": "2026-11-10-pick-inter-fem",
         "titulo": "Vamos con un pick para la Champions femenina 🔥",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 14,
+      "verde": 11,
       "rojo": 6,
       "total": 21
     },
-    "texto": "📊 BALANCE DEL MARTES: 3 DE 6 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n✅ Vamos con el pick de hoy familia 🔥\n✅ 🪜 Reto escalera · Día 1/7\n❌ Os dejo un pick para la Champions femenina 🔥\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n✅ Vamos con un pick para la Champions femenina 🔥\n\n✅ 3 acertadas · ❌ 3 falladas · ⏳ 0 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 2 DE 5 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n✅ Vamos con el pick de hoy familia 🔥\n✅ 🪜 Reto escalera · Día 1/7\n❌ Os dejo un pick para la Champions femenina 🔥\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n❔ Vamos con un pick para la Champions femenina 🔥 · faltan datos\n\n✅ 2 acertadas · ❌ 3 falladas · ⏳ 1 sin resolver"
   }
 }
