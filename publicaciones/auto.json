@@ -4092,7 +4092,7 @@
   {
     "id": "2026-11-10-combi-loca",
     "fecha": "2026-11-10T16:00",
-    "texto": "Y para los valientes, la loca del martes 🤪🔥\n\n🇪🇸 Gana el Real Madrid (fem.)\n🇪🇸 Gana el Tenerife\n✅ Servette Chênois (fem.) marca\n✅ Ambos marcan en Inter Milano (fem.)–Manchester City (fem.)\n\n📈 Cuota @6,42\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del martes 🤪🔥\n\n🇪🇸 Gana el Real Madrid (fem.)\n🇪🇸 Gana el Tenerife\n✅ Servette Chênois (fem.) marca\n✅ Ambos marcan en Inter Milano (fem.)–Manchester City (fem.)\n\n📈 Cuota @5,95\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4103,12 +4103,13 @@
       "1638308|Both Teams Score|Yes"
     ],
     "cuotas": [
-      1.42,
+      1.36,
       1.67,
-      1.62,
+      1.57,
       1.67
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-10T14:33"
   },
   {
     "id": "2026-11-10-pick-seguro-2",
