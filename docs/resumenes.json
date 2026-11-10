@@ -1537,5 +1537,31 @@
       "total": 16
     },
     "texto": "📊 BALANCE DEL LUNES: 1 DE 6 EN VERDE 📊\n\n❌ 🪜 RETO ESCALERA · DÍA 2/7 · x1,73 🍀 · 1,73\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DEL LUNES x2,73! 🍀 · 2,73\n❌ 🤪🔥 COMBILOCAS — ¡LA LOCA DEL LUNES x6,58! 🤪 · 6,58\n✅ ✅ COMBI LOCAS | LIGA I · 3,79\n❌ ✅ COMBI LOCAS | SEGUNDA · 4,12\n❌ ✅ COMBI LOCAS | SEGUNDA · 3,83\n\n✅ 1 acertadas · ❌ 5 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-11-10": {
+    "dia": "2026-11-10",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-10-ganadores-win",
+        "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 8
+    },
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
