@@ -207,6 +207,9 @@ def fila_sel(sel, cuota, directo, conocidos=None):
         texto = f"{mercado} {opcion}"
     if mercado == "?":   # pata de un boleto que no se ha podido reconocer: se enseña tal cual y no se corrige sola
         texto = opcion
+    if mercado == "Asian Handicap" and all(nombres):   # 10/11: pick de tipster (Paris FC +1,75) salía en inglés y sin corregir
+        lado, _, linea = str(opcion).partition(" ")
+        texto = f"{nombres[0] if lado == 'Home' else nombres[1]} hándicap asiático {linea.replace('.', ',')}"
     estado = "pendiente"
     if d and d.get("estado") not in (None, "NS", "TBD", "PST"):
         r = evaluar_pick({"mercado": mercado, "opcion": opcion}, d)
@@ -217,6 +220,10 @@ def fila_sel(sel, cuota, directo, conocidos=None):
         sube = str(opcion).startswith(SUBEN) or " - " in str(opcion)
         if fin:
             estado = "verde" if r is True else "rojo" if r is False else "sin_datos"
+            if mercado == "Asian Handicap" and r is None and None not in (d.get("goles") or [None]):
+                from tipsters import resultado as res_ah
+                estado = {"verde": "verde", "medio_verde": "verde", "rojo": "rojo", "medio_rojo": "rojo",
+                          "nulo": "anulada"}.get(res_ah({"mercado": mercado, "opcion": opcion}, d["goles"]), estado)
             if r is None:   # 07/11: jugador que no jugó → bet365 anula la pata (no se queda «sin datos» para siempre)
                 from picks import no_jugo
                 if no_jugo({"mercado": mercado, "opcion": opcion}, d):
