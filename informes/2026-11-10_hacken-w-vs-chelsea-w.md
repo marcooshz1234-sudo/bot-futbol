@@ -1,7 +1,7 @@
 # Häcken W – Chelsea W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 18:45 (hora España) · Nordic Wellness Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:31._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:37._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 08:14_
