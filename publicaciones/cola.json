@@ -4093,6 +4093,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-10T23:16",
+    "mensaje_id": 390,
+    "redes": {
+      "threads": "18140088181735528"
+    }
   }
 ]
