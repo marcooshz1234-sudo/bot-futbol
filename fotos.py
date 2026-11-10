@@ -300,32 +300,59 @@ def tarjeta_partido(t, cuando_txt, cuota=None):
     return _html(cuerpo, 1180, 340, extra="html::after{inset:8px;border-width:4px;border-radius:22px}")
 
 
+QG_CSS = """
+.f{display:flex;align-items:center;height:%(h)dpx;position:relative;width:1000px}
+.f:before{content:"";position:absolute;left:44px;right:0;top:7px;bottom:7px;border-radius:50px;
+ background:linear-gradient(180deg,#ffffff,#f3eee2);box-shadow:0 6px 18px rgba(0,0,0,.45),inset 0 0 0 3px #f2c94c}
+.n{position:relative;z-index:1;width:126px;height:%(nh)dpx;transform:skewX(-18deg);border-radius:14px 4px 4px 14px;
+ background:linear-gradient(180deg,#ffe58a,#e3a71b 55%%,#a66f00);box-shadow:0 4px 0 #7a5300;display:flex;align-items:center}
+.n span{transform:skewX(18deg);font-family:%(letra)s;font-weight:900;font-style:italic;font-size:%(nf)dpx;color:#fff;
+ text-shadow:0 3px 0 #7a5300;margin-left:24px}
+.fl{position:relative;z-index:1;width:%(fw)dpx;height:%(fh)dpx;margin-left:-14px;transform:skewX(-18deg);background:#fff;border-radius:6px;
+ overflow:hidden;box-shadow:0 0 0 3px #f6d46a,0 4px 0 4px #a66f00;display:flex;align-items:center;justify-content:center}
+.fl svg{width:100%%;height:100%%;display:block}
+.fl span{transform:skewX(18deg);font-size:%(fe)dpx;line-height:1}
+.es{position:relative;z-index:1;width:%(eh)dpx;height:%(eh)dpx;margin:0 6px 0 22px;display:flex;align-items:center;justify-content:center}
+.es img{max-width:100%%;max-height:100%%;filter:drop-shadow(0 3px 4px rgba(0,0,0,.3))}
+.nom{position:relative;z-index:1;flex:1;font-family:%(letra)s;font-weight:900;font-style:italic;font-size:%(nomf)dpx;color:#0a1440;
+ text-align:center;line-height:1;padding:0 6px}
+.flecha{position:relative;z-index:1;font-family:%(letra)s;font-weight:900;color:#e39a00;font-size:%(nf)dpx;margin-right:12px}
+.pick{position:relative;z-index:1;display:flex;align-items:center;gap:12px;height:%(ph)dpx;padding:0 30px 0 10px;border-radius:40px;margin-right:10px;
+ background:linear-gradient(180deg,#ffe58a,#e3a71b 55%%,#a66f00);box-shadow:0 4px 0 #7a5300,inset 0 0 0 2px #fff3c4}
+.pick b{font-family:%(letra)s;font-weight:900;font-style:italic;font-size:%(pf)dpx;color:#fff;text-shadow:0 2px 0 #7a5300;letter-spacing:1px}
+.ck{width:%(ck)dpx;height:%(ck)dpx;border-radius:50%%;border:4px solid #fff;display:flex;align-items:center;justify-content:center;
+ color:#fff;font-size:%(ckf)dpx;font-weight:900;font-family:Arial,sans-serif}
+.ok .pick{background:linear-gradient(180deg,#8ff0a8,#22b14c 55%%,#0d6b2a);box-shadow:0 4px 0 #0a4d1e}
+.ko .pick{background:linear-gradient(180deg,#ff9a8a,#d63a2a 55%%,#8a1a10);box-shadow:0 4px 0 #5e0f08}
+"""
+
+
 def quien_gana(filas, titulo, sub=None):
-    """«GANADORES»: cada equipo con su escudo, bandera y la pastilla WIN (verde si acertó, roja si falló)."""
+    """«GANADORES» (11/11, Marcos: «lo más parecido a como lo teníamos antes»): como la plantilla oro (número dorado,
+    bandera dibujada, escudo, flecha y WIN) sobre el fondo del logo nuevo. Selecciones: solo su bandera (no se repite)."""
+    from ganadores_img import _bandera
     n = len(filas)
-    alto_f = 112 if n <= 6 else 96 if n <= 8 else 80
+    h = 112 if n <= 6 else 100 if n <= 8 else 84
+    css = QG_CSS % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 34) * 1.5), "fh": h - 34, "fe": h // 2,
+                    "eh": h - 14, "nomf": h // 2 - 4, "ph": h - 36, "pf": h // 2 - 12, "ck": h // 2 - 12, "ckf": h // 4 + 2,
+                    "letra": LETRA}
     lis = ""
     for i, f in enumerate(filas, 1):
         ok = f.get("ok")
-        color = "#3ee07a" if ok is True else "#ff5a4a" if ok is False else ORO
-        marca = "✓ " if ok is True else "✕ " if ok is False else ""
-        esc = escudo(None, None, f["nombre"], alto_f - 14)
-        if f.get("escudo") and Path(f["escudo"]).is_file():
-            esc = (f'<div class="escudo" style="width:{alto_f - 14}px;height:{alto_f - 14}px">'
-                   f'<img src="data:image/png;base64,{nitido(Path(f["escudo"]), alto_f - 14)}"></div>')
-        lis += (f'<div class="card" style="height:{alto_f}px;display:flex;align-items:center;gap:20px;padding:0 18px;border-width:3px;'
-                f'border-color:{color}">'
-                f'<span class="oro" style="font-size:{alto_f // 2}px;width:66px;text-align:center">{i}</span>'
-                f'<span style="font-size:{alto_f // 2 - 6}px">{f.get("bandera", "")}</span>{esc}'
-                f'<span class="b3d" style="flex:1;font-size:{_tam(mayus(f["nombre"]), alto_f // 2 + 4, 16)}px">{e(mayus(f["nombre"]))}</span>'
-                f'<span class="pastilla" style="font-size:{alto_f // 2 - 4}px;padding:0 26px;height:{alto_f - 34}px;'
-                + (f'background:linear-gradient(180deg,#8ff0a8,#22b14c 55%,#0d6b2a);color:#fff;' if ok is True else
-                   f'background:linear-gradient(180deg,#ff9a8a,#d63a2a 55%,#8a1a10);color:#fff;' if ok is False else "")
-                + f'">{marca}{e(f.get("pick", "WIN"))}</span></div>')
+        cls = " ok" if ok is True else " ko" if ok is False else ""
+        marca = "✕" if ok is False else "✓"
+        esc = '<div class="es"></div>'   # hueco igual para que los nombres queden alineados
+        if not f.get("seleccion") and f.get("escudo") and Path(f["escudo"]).is_file():
+            esc = f'<div class="es"><img src="data:image/png;base64,{nitido(Path(f["escudo"]), h - 14)}"></div>'
+        bandera = f'<div class="fl">{_bandera(f)}</div>' if (f.get("pais") or f.get("bandera")) else ""
+        nombre = equipo(f["nombre"])
+        lis += (f'<div class="f{cls}"><div class="n"><span>{i}.</span></div>{bandera}{esc}'
+                f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">➜</div>'
+                f'<div class="pick"><div class="ck">{marca}</div><b>{e(f.get("pick", "WIN"))}</b></div></div>')
     cuerpo = (
         f'<div style="margin-top:36px">{logo_img(170)}</div>'
         f'<div style="margin-top:4px">{_cinta(e(titulo or "QUIÉN GANA HOY"), 70)}</div>'
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
-        + f'<div style="margin-top:30px;width:960px;display:flex;flex-direction:column;gap:12px">{lis}</div>'
+        + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'
         f'<div style="margin:36px 0 64px;display:flex;justify-content:center">{_cinta("¿LA PINTAMOS DE VERDE? 🍀", 54)}</div>')
-    return _html(cuerpo, 1080, 1350)
+    return _html(cuerpo, 1080, 1350, extra=css)

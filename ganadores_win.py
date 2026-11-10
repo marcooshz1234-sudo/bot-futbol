@@ -105,7 +105,9 @@ def post(dia, hora=HORA, excluir=(), sufijo=""):
         bandera = semana.BANDERAS.get(pais, "⚽")
         from combis_dia import nombre_es
         nombre = CORTO.get(n, nombre_es(n))
-        filas.append({"pais": pais, "bandera": bandera, "escudo_url": x["equipo"].get("logo"), "nombre": nombre, "pick": "WIN"})
+        seleccion = semana.SELECCIONES.get(n, n) in semana.BANDERAS   # 11/11: selección → solo su bandera, sin escudo
+        filas.append({"pais": pais, "bandera": bandera, "escudo_url": x["equipo"].get("logo"), "nombre": nombre, "pick": "WIN",
+                      "seleccion": seleccion})
         lineas.append(f"{i}. {bandera} {nombre} - Win")
     texto = f"🏆 {titulo} - GANADORES\n\n" + "\n".join(lineas) + "\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hora[0], minute=hora[1])
