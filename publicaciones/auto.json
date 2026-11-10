@@ -4079,7 +4079,7 @@
   {
     "id": "2026-11-10-combi-multi",
     "fecha": "2026-11-10T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x37,09! 🍀\n\n✅ Real Madrid (fem.) marca 2 o más\n✅ Häcken (fem.) marca\n🇪🇸 Alaves marca 4 o más\n🇪🇸 Real Jaén gana alguna de las dos partes\n🇪🇸 UD Logroñés o empate\n🇪🇸 Más de 1,5 goles en Amorebieta–UD Logroñés\n🇪🇸 Leganes marca 3 o más\n✅ Bayern Munich (fem.) gana alguna de las dos partes\n✅ Servette Chênois (fem.) marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n\n✅ Real Madrid (fem.) marca 2 o más\n✅ Häcken (fem.) marca\n🇪🇸 Alaves marca 4 o más\n🇪🇸 Real Jaén gana alguna de las dos partes\n🇪🇸 UD Logroñés o empate\n🇪🇸 Más de 1,5 goles en Amorebieta–UD Logroñés\n🇪🇸 Leganes marca 3 o más\n✅ Bayern Munich (fem.) gana alguna de las dos partes\n✅ Servette Chênois (fem.) marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4096,16 +4096,17 @@
     ],
     "cuotas": [
       1.4,
-      1.8,
+      1.83,
       1.57,
       1.4,
-      1.33,
+      1.3,
       1.25,
       1.8,
       1.4,
-      1.62
+      1.57
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-10T13:01"
   },
   {
     "id": "2026-11-10-combi-loca",
