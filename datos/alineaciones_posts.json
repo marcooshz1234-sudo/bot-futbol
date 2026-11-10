@@ -226,6 +226,10 @@
   "clave|2026-11-08-picks-manana|1552816|Home Player Shots|Sebastian Szymanski - 1|S. Szymański",
   "clave|2026-11-08-picks-manana|1570443|Away Player Shots|Lamine Yamal - 3|Rodri",
   "clave|2026-11-09-combi-partido-1570011|1570011|Total - Away|Over 0.5|Aingeru Olabarrieta",
+  "clave|2026-11-10-combi-multi|1644336|Total - Away|Over 3.5|Pablo Ibáñez",
+  "clave|2026-11-10-combi-multi|1644336|Total - Away|Over 3.5|Toni Martínez",
+  "clave|2026-11-10-ganadores-win|1644336|Match Winner|Away|Pablo Ibáñez",
+  "clave|2026-11-10-ganadores-win|1644336|Match Winner|Away|Toni Martínez",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -1986,31 +1990,167 @@
    }
   },
   "1644336": {
-   "hora": "2026-11-10T18:36:09.085504+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-10T18:46:50.507781+01:00",
+   "xi": [
+    "Alain Sudupe",
+    "Aimar Guembe",
+    "Jokin Errazu",
+    "Unai Perez Alberdi",
+    "Julen Larramendi",
+    "Julen Aramendi",
+    "Carlos Juaristi",
+    "Beñat Garmendia Olabarria",
+    "Oihan Etxaniz Uzin",
+    "Hicham Hazin",
+    "Ander Pastrian",
+    "Adrián Rodríguez",
+    "Jonny Otto",
+    "Xanet Olaiz",
+    "Nicolás Valentini",
+    "Ángel Pérez",
+    "Carlos Benavídez",
+    "Hugo Novoa",
+    "Denis Suárez",
+    "Carles Aleñá",
+    "Miguel Rodríguez",
+    "Mariano Díaz"
+   ],
+   "banquillo": [
+    "Josue Goenaga",
+    "Ander Bizkarguenaga",
+    "Julen Odriozola Alberdi",
+    "Julen Olaizola Ucin",
+    "Jakes Díaz",
+    "Luis Juaristi",
+    "Mikel Zubizarreta",
+    "Ekai Sudupe",
+    "Aritz Clement",
+    "Grégoire Swiderski",
+    "Antonio Sivera",
+    "Nahuel Tenaglia",
+    "Ander Guevara",
+    "Antonio Blanco",
+    "Pablo Ibáñez",
+    "Selu Diallo",
+    "Lucas Boyé",
+    "Toni Martínez",
+    "Aitor Mañas"
+   ],
+   "equipos": {
+    "15340": [
+     {
+      "n": "Alain Sudupe",
+      "pos": "G"
+     },
+     {
+      "n": "Aimar Guembe",
+      "pos": "D"
+     },
+     {
+      "n": "Jokin Errazu",
+      "pos": "D"
+     },
+     {
+      "n": "Unai Perez Alberdi",
+      "pos": "D"
+     },
+     {
+      "n": "Julen Larramendi",
+      "pos": "D"
+     },
+     {
+      "n": "Julen Aramendi",
+      "pos": "M"
+     },
+     {
+      "n": "Carlos Juaristi",
+      "pos": "M"
+     },
+     {
+      "n": "Beñat Garmendia Olabarria",
+      "pos": "M"
+     },
+     {
+      "n": "Oihan Etxaniz Uzin",
+      "pos": "M"
+     },
+     {
+      "n": "Hicham Hazin",
+      "pos": "F"
+     },
+     {
+      "n": "Ander Pastrian",
+      "pos": "F"
+     }
+    ],
+    "542": [
+     {
+      "n": "Adrián Rodríguez",
+      "pos": "G"
+     },
+     {
+      "n": "Jonny Otto",
+      "pos": "D"
+     },
+     {
+      "n": "Xanet Olaiz",
+      "pos": "D"
+     },
+     {
+      "n": "Nicolás Valentini",
+      "pos": "D"
+     },
+     {
+      "n": "Ángel Pérez",
+      "pos": "M"
+     },
+     {
+      "n": "Carlos Benavídez",
+      "pos": "M"
+     },
+     {
+      "n": "Hugo Novoa",
+      "pos": "M"
+     },
+     {
+      "n": "Denis Suárez",
+      "pos": "M"
+     },
+     {
+      "n": "Carles Aleñá",
+      "pos": "M"
+     },
+     {
+      "n": "Miguel Rodríguez",
+      "pos": "F"
+     },
+     {
+      "n": "Mariano Díaz",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1644365": {
-   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "hora": "2026-11-10T18:46:50.507781+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644382": {
-   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "hora": "2026-11-10T18:46:50.507781+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644362": {
-   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "hora": "2026-11-10T18:46:50.507781+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644335": {
-   "hora": "2026-11-10T18:36:09.085504+01:00",
+   "hora": "2026-11-10T18:46:50.507781+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
