@@ -177,3 +177,4 @@
 2026-11-10 07:50:09 arranca el bot del móvil
 2026-11-10 13:49:08 arranca el bot del móvil
 2026-11-10 16:31:25 botón cancelar|2026-11-10-combi-loca → ok
+2026-11-10 19:37:09 arranca el bot del móvil
