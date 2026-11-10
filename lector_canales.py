@@ -54,7 +54,13 @@ def leer_con_cuenta(datos):
     from telethon.sync import TelegramClient
     nuevos = 0
     FOTOS.mkdir(parents=True, exist_ok=True)
-    with TelegramClient(StringSession(os.environ["TG_SESSION"]), int(os.environ["TG_API_ID"]),
+    # 10/11: limpia lo que se cuela al pegar (espacios, saltos, comillas, «TG_SESSION=»). Solo se imprime la
+    # longitud (nunca el contenido): una sesión buena mide 353 caracteres y empieza por 1.
+    ses = re.sub(r"\s+", "", os.environ["TG_SESSION"]).strip("'\"")
+    ses = ses.split("=", 1)[1] if ses.upper().startswith("TG_SESSION=") else ses
+    if len(ses) != 353 or not ses.startswith("1"):
+        print(f"TG_SESSION no parece completa: {len(ses)} caracteres (debe tener 353 y empezar por 1)")
+    with TelegramClient(StringSession(ses), int(os.environ["TG_API_ID"]),
                         os.environ["TG_API_HASH"], receive_updates=False) as cli:
         for d in cli.iter_dialogs():
             nombre = next((v for k, v in CANALES_PRIVADOS.items() if k.lower() in (d.name or "").lower()), None)
