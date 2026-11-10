@@ -304,7 +304,8 @@ def texto_seguro(p, dia=""):
             motivos = []
         lineas = ["Vamos con el pick de hoy familia 🔥", "",
                   f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}", "",
-                  f"🍀 {con_equipo(p)} @{num(p['cuota'])}", f"🧠 Stake {stake(p)}/10"]
+                  f"🍀 {con_equipo(p)} @{num(p['cuota'])}" + (" (aprox.)" if p.get("cuota_tipster") else ""),
+                  f"🧠 Stake {stake(p)}/10"]
         if motivos:
             lineas += [""] + [f"👨‍💻 {m}" for m in motivos]   # 09/11 (Marcos): sin la palabra «Argumento»
         if v + r:

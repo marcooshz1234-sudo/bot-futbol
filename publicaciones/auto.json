@@ -4032,7 +4032,7 @@
   {
     "id": "2026-11-10-pick-seguro",
     "fecha": "2026-11-10T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Mijas Las Lagunas – Real Jaén · 20:00\n\n🍀 Gana el Real Jaén @1,96\n🧠 Stake 3/10\n\n👨‍💻 Una categoría de diferencia: el Real Jaén juega en Primera Federación y el Mijas Las Lagunas en Segunda Federación\n👨‍💻 Gran arranque del Jaén como recién ascendido\n👨‍💻 El Mijas no juega en su campo: el partido es en Estepona (aplazado dos veces)\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Mijas Las Lagunas – Real Jaén · 20:00\n\n🍀 Gana el Real Jaén @2,00\n🧠 Stake 3/10\n\n👨‍💻 Una categoría de diferencia: el Real Jaén juega en Primera Federación y el Mijas Las Lagunas en Segunda Federación\n👨‍💻 Gran arranque del Jaén como recién ascendido\n👨‍💻 El Mijas no juega en su campo: el partido es en Estepona (aplazado dos veces)\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4040,7 +4040,7 @@
       "1644362|Match Winner|Away"
     ],
     "cuotas": [
-      1.96
+      2.0
     ]
   },
   {
@@ -4486,6 +4486,201 @@
     "directo": true,
     "sel": [
       "1528967|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.5
+    ]
+  },
+  {
+    "id": "2026-11-14-ganadores",
+    "fecha": "2026-11-14T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇪🇸 Castellón — Gana o empata\n✅2. 🇪🇸 Sporting Gijon — Gana o empata\n✅3. 🇪🇸 Almeria — Gana\n✅4. 🇪🇸 Mallorca — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": [],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-14-ganadores-win",
+    "fecha": "2026-11-14T02:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇽🇰 Kosovo - Win\n2. 🇭🇺 Hungría - Win\n3. 🇳🇴 Noruega - Win\n4. 🇦🇹 Austria - Win\n5. 🇵🇱 Polonia - Win\n6. 🇵🇹 Portugal - Win\n7. 🇸🇪 Suecia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1528971|Match Winner|Home",
+      "1528973|Match Winner|Away",
+      "1528972|Match Winner|Home",
+      "1528976|Match Winner|Home",
+      "1528977|Match Winner|Away",
+      "1528974|Match Winner|Home",
+      "1528978|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.85,
+      2.25,
+      1.25,
+      1.57,
+      1.95,
+      1.45,
+      1.5
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Kosovo",
+          "bandera": "🇽🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/1111.png",
+          "nombre": "Kosovo",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Hungary",
+          "bandera": "🇭🇺",
+          "escudo_url": "https://media.api-sports.io/football/teams/769.png",
+          "nombre": "Hungría",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Norway",
+          "bandera": "🇳🇴",
+          "escudo_url": "https://media.api-sports.io/football/teams/1090.png",
+          "nombre": "Noruega",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Austria",
+          "bandera": "🇦🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/775.png",
+          "nombre": "Austria",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Poland",
+          "bandera": "🇵🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/24.png",
+          "nombre": "Polonia",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/27.png",
+          "nombre": "Portugal",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Sweden",
+          "bandera": "🇸🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/5.png",
+          "nombre": "Suecia",
+          "pick": "WIN"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2026-11-14-pick-seguro",
+    "fecha": "2026-11-14T10:30",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ Georgia – Hungary · 18:00\n\n🍀 Georgia marca @1,50\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528973|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.5
+    ]
+  },
+  {
+    "id": "2026-11-14-combi-tres",
+    "fecha": "2026-11-14T13:30",
+    "texto": "Vamos con la combi del sábado familia 🔥\n\n🇳🇴 Gana Noruega\n🇷🇴 Rumanía marca\n🇵🇹 Portugal marca 2 o más\n\n📈 Cuota @2,55\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528972|Match Winner|Home",
+      "1528977|Total - Home|Over 0.5",
+      "1528974|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.25,
+      1.36,
+      1.5
+    ]
+  },
+  {
+    "id": "2026-11-14-combi-multi",
+    "fecha": "2026-11-14T14:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS ≈x28,27! 🍀\n\n🇪🇸 Real Sociedad II hace 8+ tiros\n🇪🇸 Real Sociedad II hace 3+ córners\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales marca\n✅ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇵🇹 Gana el Portugal\n🇸🇪 Gana Suecia\n🇵🇱 Polonia gana alguna de las dos partes\n🇦🇹 Más de 1,5 goles en Austria–Irlanda\n🇦🇹 Austria gana alguna de las dos partes\n\n👉 ¡Coged los picks que más os gusten! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570022|Shots. Home Total|Over 7.5",
+      "1570022|Home Corners Over/Under|Over 2.5",
+      "1528973|Goals Over/Under|Over 1.5",
+      "1528972|Total - Away|Over 0.5",
+      "1528975|Goals Over/Under|Over 1.5",
+      "1528974|Match Winner|Home",
+      "1528978|Match Winner|Home",
+      "1528977|To Win Either Half|Away",
+      "1528976|Goals Over/Under|Over 1.5",
+      "1528976|To Win Either Half|Home"
+    ],
+    "cuotas": [
+      1.18,
+      1.35,
+      1.44,
+      1.73,
+      1.44,
+      1.45,
+      1.5,
+      1.5,
+      1.25,
+      1.33
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-14-combi-loca",
+    "fecha": "2026-11-14T16:00",
+    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇬🇪 Georgia o empate\n🇦🇹 Gana el Austria\n🇷🇴 Ambos marcan en Rumanía–Polonia\n\n📈 Cuota @6,32\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528973|Goals Over/Under|Over 1.5",
+      "1528973|Double Chance|Home/Draw",
+      "1528976|Match Winner|Home",
+      "1528977|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.44,
+      1.62,
+      1.57,
+      1.67
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-14-pick-seguro-2",
+    "fecha": "2026-11-14T18:00",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ Portugal – Denmark · 20:45\n\n🍀 Portugal marca 2 o más @1,50\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528974|Total - Home|Over 1.5"
     ],
     "cuotas": [
       1.5

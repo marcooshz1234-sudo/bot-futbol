@@ -64,7 +64,7 @@ def info_equipo(api, tid, eq, hoy):
         v = (t[0].get("venue") or {}) if t else {}
         e["estadio"], e["estadio_id"] = v.get("name"), v.get("id")
         e["temporada"], e["v"] = TEMPORADA, 2
-    if e.get("dia") != hoy:
+    if e.get("dia") != hoy or "fechas" not in e:
         fx = api.get("fixtures", team=tid, season=TEMPORADA, last=6)
         res = []
         for f in fx:
@@ -75,6 +75,7 @@ def info_equipo(api, tid, eq, hoy):
             gf, gc = (g["home"], g["away"]) if casa else (g["away"], g["home"])
             res.append("V" if gf > gc else "E" if gf == gc else "D")
         e["ultimos"], e["dia"] = res, hoy
+        e["fechas"] = sorted(f["fixture"]["date"] for f in fx if (f.get("goals") or {}).get("home") is not None)
     return e
 
 

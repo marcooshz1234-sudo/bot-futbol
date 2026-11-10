@@ -150,9 +150,8 @@ def main(forzar=False):
     ya = set(leer(AVISADAS, []) or [])
     lineas = []
     for (fid, j), posts in jugadores_pendientes().items():
-        ap = norm(j.split()[-1]) if j else ""
         for n in datos.get(fid, []):
-            if ap and len(ap) > 3 and ap in norm(n["titulo"]) and {"baja", "duda"} & set(n["tipos"]):
+            if nombra(n["titulo"], j, n.get("equipo")) and {"baja", "duda"} & set(n["tipos"]):
                 clave = f"{fid}|{j}|{n['titulo'][:60]}"
                 if clave in ya:
                     continue
@@ -168,12 +167,21 @@ def main(forzar=False):
     AVISADAS.write_text(json.dumps(sorted(ya)[-500:], ensure_ascii=False) + "\n", encoding="utf-8")
 
 
+def nombra(titulo, jugador, equipo=""):
+    """10/11: que el titular hable de ESE jugador: nombre y apellido, o el apellido y su equipo (no otro «Williams»)."""
+    t = norm(titulo)
+    partes = [norm(x) for x in (jugador or "").replace(".", " ").split() if len(x) > 2]
+    if not partes or len(partes[-1]) <= 3 or partes[-1] not in t:
+        return False
+    if len(partes) >= 2 and all(p in t for p in partes[-2:]):
+        return True
+    eq = norm(corto(equipo)) if equipo else ""
+    return bool(eq) and eq.split()[0] in t
+
+
 def jugador_tocado(fid, jugador):
     """True si hay noticia de baja o duda del jugador en ese partido (para no meterlo en combis nuevas)."""
-    ap = norm((jugador or "").split()[-1]) if jugador else ""
-    if len(ap) <= 3:
-        return False
-    return any(ap in norm(n["titulo"]) and {"baja", "duda"} & set(n.get("tipos") or [])
+    return any(nombra(n["titulo"], jugador, n.get("equipo")) and {"baja", "duda"} & set(n.get("tipos") or [])
                and "vuelve" not in (n.get("tipos") or [])
                for n in (leer(SALIDA, {}) or {}).get(str(fid), []))
 

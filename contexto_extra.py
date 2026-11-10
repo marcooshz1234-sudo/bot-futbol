@@ -29,9 +29,29 @@ def bajar_json(url):
         return None
 
 
-def coords(ciudad, cache):
+PAIS_ISO = {"Spain": "ES", "England": "GB", "Scotland": "GB", "Italy": "IT", "Germany": "DE", "France": "FR",
+            "Portugal": "PT", "Netherlands": "NL", "Belgium": "BE", "Turkey": "TR", "Denmark": "DK", "Romania": "RO",
+            "Sweden": "SE", "Norway": "NO", "Switzerland": "CH", "Austria": "AT", "Greece": "GR", "Poland": "PL",
+            "Czech-Republic": "CZ", "Croatia": "HR", "Serbia": "RS", "Ukraine": "UA", "Cyprus": "CY", "Israel": "IL"}
+
+
+def coords(ciudad, cache, pais=None):
+    """10/11: la ciudad buscada dentro del país del partido (no la de otro país con el mismo nombre)."""
     if not ciudad:
         return None
+    clave = f"{ciudad}|{pais or ''}"
+    if clave in cache:
+        return cache[clave]
+    r = bajar_json("https://geocoding-api.open-meteo.com/v1/search?" + urllib.parse.urlencode(
+        {"name": ciudad.split(",")[0], "count": 10, "language": "es"}))
+    lista = (r or {}).get("results") or []
+    iso = PAIS_ISO.get(pais or "")
+    res = next((x for x in lista if iso and x.get("country_code") == iso), None) or (lista[0] if lista and not iso else None)
+    cache[clave] = [res["latitude"], res["longitude"]] if res else None
+    return cache[clave]
+
+
+def _viejo(ciudad, cache):
     if ciudad in cache:
         return cache[ciudad]
     r = bajar_json("https://geocoding-api.open-meteo.com/v1/search?" + urllib.parse.urlencode(
@@ -68,7 +88,13 @@ def calendario_equipos():
 
 
 def descanso(cal, tid, fid, fecha):
-    lista = cal.get(tid, [])
+    lista = list(cal.get(tid, []))
+    try:   # 10/11: los de categoría baja no tienen su liga en nuestros calendarios: sus fechas de copa_contexto
+        info = (leer(DATOS / "equipos_info.json", {}) or {}).get(str(tid)) or {}
+        lista += [(f, 0, None) for f in info.get("fechas") or [] if not any(x[0][:10] == f[:10] for x in lista)]
+        lista.sort()
+    except Exception:
+        pass
     antes = [x for x in lista if x[0] < fecha and x[2] != fid]
     despues = [x for x in lista if x[0] > fecha and x[2] != fid]
     d0 = datetime.fromisoformat(fecha)
@@ -113,7 +139,7 @@ def main():
         c = {"local": {"nombre": l["name"], **descanso(cal, l["id"], fid, fecha)},
              "visitante": {"nombre": v["name"], **descanso(cal, v["id"], fid, fecha)}}
         sede = pa["fixture"].get("venue") or {}
-        ll = coords(sede.get("city"), cache)
+        ll = coords(sede.get("city"), cache, pa["league"].get("country"))
         if ll:
             c["tiempo"] = tiempo(ll[0], ll[1], inicio)
         if nombre_arbitro:

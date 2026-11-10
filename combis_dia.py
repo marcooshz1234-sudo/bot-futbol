@@ -1359,7 +1359,14 @@ def pick_de_tipster(pools, dia, hora, otro=None, usados=()):
                  "fecha": datetime.fromisoformat(fx["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
                  "local": fx["teams"]["home"]["name"], "visitante": fx["teams"]["away"]["name"],
                  "mercado": tk.get("mercado"), "opcion": tk.get("opcion"), "tipo": "resultado",
-                 "texto": tk["texto"], "cuota": tk["cuota"], "prob_aprendida": 0.66}
+                 "texto": tk["texto"], "cuota": tk["cuota"], "prob_aprendida": 0.66, "cuota_tipster": True}
+            # 10/11: la cuota de bet365 si la tenemos (si no, la del tipster, marcada como orientativa)
+            for o, c in ((leer(EXTRA / f"{tk['partido_id']}.json", {}) or {}).get("cuotas") or {}).get(tk.get("mercado"), []):
+                if o == tk.get("opcion"):
+                    try:
+                        p["cuota"], p["cuota_tipster"] = float(c), False
+                    except ValueError:
+                        pass
         if datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=45):
             continue
         p["tipster"] = tk["tipster"]

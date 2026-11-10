@@ -1006,6 +1006,17 @@ def main():
              "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
+    # 10/11: el repositorio crecía mucho (600 KB guardados cada 3 min). Si no ha cambiado nada de verdad (solo la hora
+    # o el estado del bot) y la última es de hace menos de 15 min, no se reescribe (y no se sube)
+    try:
+        viejo = json.loads(SALIDA.read_text(encoding="utf-8"))
+        igual = lambda d: {k: v for k, v in d.items() if k not in ("generado", "generado_iso", "bot")}
+        if igual(viejo) == igual(json.loads(json.dumps(datos, ensure_ascii=False))) and \
+                ahora - datetime.fromisoformat(viejo["generado_iso"]) < timedelta(minutes=15):
+            print("App: sin cambios, no se reescribe")
+            return
+    except Exception:
+        pass
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     # 26/10: la versión pública lee su propio archivo, sin lo interno (estado del bot, calendario, ideas, avisos)
     publico = {k: v for k, v in datos.items() if k not in ("bot", "calendario", "revision", "ideas", "redes")}
