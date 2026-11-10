@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 14:25",
+ "actualizado": "2026-11-10 14:58",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2531,
-   "hoy": 172,
+   "seguidores": 2541,
+   "hoy": 182,
    "serie": [
     1638,
     1906,
@@ -24,7 +24,7 @@
     2126,
     2231,
     2359,
-    2531
+    2541
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 365,
-   "hoy": 5,
+   "seguidores": 367,
+   "hoy": 7,
    "serie": [
     245,
     277,
@@ -50,17 +50,17 @@
     307,
     331,
     360,
-    365
+    367
    ]
   }
  },
- "total": 2933,
- "total_hoy": 177,
+ "total": 2945,
+ "total_hoy": 189,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "16:00",
   "dia": "2026-11-10",
-  "titulo": "Combi de 8 partidos x35,72"
+  "titulo": "Y para los valientes, la loca del mart"
  },
  "ayer": {
   "aciertos": 2,
@@ -180,12 +180,17 @@
   },
   "2026-11-10": {
    "instagram": 36,
-   "threads": 2531,
+   "threads": 2541,
    "facebook": 1,
-   "telegram": 365
+   "telegram": 367
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 43,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 4,
    "likes_media": 0.0,
@@ -193,11 +198,6 @@
   },
   "Escalera (reel)": {
    "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 43,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
