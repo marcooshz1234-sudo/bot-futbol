@@ -126,7 +126,11 @@
   "mercado": "Asian Handicap",
   "opcion": "Away +1.75",
   "cuota": 1.6,
-  "argumento": [],
+  "argumento": [
+   "Paris FC llega con seis partidos seguidos sin perder (tres victorias y tres empates), con 1-1 ante el PSG y 2-2 ante el Arsenal en la Champions",
+   "Al Real Madrid le pesan los problemas físicos de Linda Caicedo: pierde desborde y uno contra uno por banda",
+   "Solidez defensiva del Paris FC y al Madrid le cuesta ganar por mucho: vale victoria, empate o derrota por un gol"
+  ],
   "partido_id": 1638332
  }
 ]

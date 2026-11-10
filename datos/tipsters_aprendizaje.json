@@ -111,16 +111,16 @@
    "nulos": 0,
    "unidades": -0.5
   },
-  "clasificación": {
-   "n": 4,
-   "verdes": 2,
+  "racha": {
+   "n": 5,
+   "verdes": 1,
    "rojos": 2,
    "nulos": 0,
    "unidades": -0.5
   },
-  "racha": {
+  "clasificación": {
    "n": 4,
-   "verdes": 1,
+   "verdes": 2,
    "rojos": 2,
    "nulos": 0,
    "unidades": -0.5
@@ -132,17 +132,24 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "sin razón": {
+  "goles": {
    "n": 2,
-   "verdes": 1,
-   "rojos": 0,
+   "verdes": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -0.5
   },
   "bajas": {
    "n": 1,
    "verdes": 0,
    "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "sin razón": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -152,13 +159,6 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
-  },
-  "goles": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -0.5
   }
  },
  "cuota": {
