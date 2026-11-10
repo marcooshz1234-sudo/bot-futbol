@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 12:03",
+ "actualizado": "2026-11-10 12:14",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2500,
-   "hoy": 141,
+   "seguidores": 2502,
+   "hoy": 143,
    "serie": [
     1638,
     1906,
@@ -24,7 +24,7 @@
     2126,
     2231,
     2359,
-    2500
+    2502
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2900,
- "total_hoy": 144,
+ "total": 2902,
+ "total_hoy": 146,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "12:25",
   "dia": "2026-11-10",
-  "titulo": "Vamos con la combi del martes familia"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": {
   "aciertos": 2,
@@ -70,7 +70,7 @@
   "dia": 1,
   "de": 7,
   "stake": 20.0,
-  "objetivo": 38.2,
+  "objetivo": 36.0,
   "fecha": "2026-11-10"
  },
  "historial": {
@@ -180,7 +180,7 @@
   },
   "2026-11-10": {
    "instagram": 36,
-   "threads": 2500,
+   "threads": 2502,
    "facebook": 1,
    "telegram": 363
   }
