@@ -679,7 +679,7 @@ class Asistente:
         hoy = datetime.now(MADRID).strftime("%Y-%m-%d")
         posts = [p for p in self.programados() if p["fecha"][:10] == hoy and not p.get("requiere_ok")
                  and (p.get("enviado") or p.get("mensaje_id") or p["fecha"] > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M"))
-                 and re.search(r"combi|escalera|seguro|boleto", p["id"])]
+                 and re.search(r"combi|escalera|seguro|boleto|-pick-", p["id"])]   # 10/11: también los picks puestos a mano
         if not posts:
             return self.enviar("No veo combis de hoy a las que ponerle la captura.")
         self._capturas = {}

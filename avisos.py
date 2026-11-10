@@ -106,7 +106,8 @@ def main():
             if p.get("enviado") or p.get("caducada") or not (ahora.strftime("%Y-%m-%dT%H:%M") < p["fecha"] <= limite):
                 continue
             real = p.get("cuota_bet365") or combis_dia.cuota_real_sel(p.get("sel"), p.get("cuotas") or [])
-            m = re.search(r"(?:Cuota total aprox\.:|CUOTA|Cuota @|x)\s*(\d+,\d+)", p["texto"])
+            m = re.search(r"(?:Cuota total aprox\.:|CUOTA|Cuota @|x)\s*(\d+,\d+)", p["texto"]) \
+                or re.search(r"^🍀 [^\n]*@(\d+,\d+)", p["texto"], re.M)   # 10/11: pick del día con el estilo nuevo
             if not real or not m:
                 continue
             pone = float(m.group(1).replace(",", "."))

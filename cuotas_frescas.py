@@ -101,6 +101,8 @@ def main():
         texto = re.sub(r"🎯 Cuota total: \d+,\d\d", f"🎯 Cuota total: {num(total)}", texto)
         texto = re.sub(r"🎯 CUOTA \d+,\d\d", f"🎯 CUOTA {num(total)}", texto)
         texto = re.sub(r"Cuota @\d+,\d\d", f"Cuota @{num(total)}", texto)   # 09/11: estilo nuevo
+        if len(p.get("sel") or []) == 1:   # 10/11: pick del día «🍀 … @1,62» (no si es la cuota aproximada de un tipster)
+            texto = re.sub(r"^(🍀 [^\n]*@)\d+,\d\d(?! \(aprox)", lambda m: m.group(1) + num(total), texto, flags=re.M)
         texto = re.sub(r"💶 10€ → \d+,\d\d€", f"💶 10€ → {num(total * 10)}€", texto)
         p["texto"], p["cuotas_revisadas"] = texto, ahora.strftime("%Y-%m-%dT%H:%M")
         cambiados.append(p)
