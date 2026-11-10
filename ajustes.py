@@ -28,6 +28,7 @@ AJUSTES_ROLES = {
     "pick_cuota_max": {"rol": "analista", "t": "Cuota máxima del pick del día", "tipo": "num", "v": 1.7, "paso": 0.05, "min": 1.3, "max": 4},
     "hora_pick1": {"rol": "analista", "t": "Hora del 1.er pick", "tipo": "hora", "v": "10:30"},
     "hora_pick2": {"rol": "analista", "t": "Hora del 2.º pick", "tipo": "hora", "v": "18:00"},
+    "minimo_diario": {"rol": "analista", "t": "Mínimo diario", "d": "Si no hay pick de 1,50-1,70, plan B: 1,45-1,85, un tipster o el más probable hasta 2,00", "tipo": "si_no", "v": True},
     "tipsters_primero": {"rol": "analista", "t": "Picks de los tipsters primero", "d": "TipsAnalistas y Pérez antes que el modelo", "tipo": "si_no", "v": True},
     "saludo_pick": {"rol": "redactor", "t": "Saludo del pick", "tipo": "texto", "v": "Vamos con el pick de hoy familia 🔥"},
     "pick_razones": {"rol": "redactor", "t": "Poner las razones (👨‍💻)", "tipo": "si_no", "v": True},

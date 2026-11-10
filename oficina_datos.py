@@ -160,6 +160,28 @@ def main(control=None):
                       or [{"h": ult.strftime("%H:%M") if ult else "", "t": "Sin fallos hoy en el bucle"}]),
     }
 
+    # 10/11 (Marcos: «un mínimo diario»): a las 17:00, si hoy falta el pick del día, aviso al móvil (una vez al día)
+    try:
+        faltan = [n for n, k in (("pick de las 10:30", "-pick-seguro"), ("pick de las 18:00", "-pick-seguro-2"))
+                  if not any(pid.startswith(hoy) and pid.endswith(k) and pid not in cancel for pid in todos)]
+        marca = DATOS / "minimo_avisado.txt"
+        if faltan and ahora.hour == 17 and valor("aviso_guardar", control) and \
+                (not marca.exists() or marca.read_text().strip() != hoy):
+            from alineaciones_posts import dm
+            dm("⚠️ Mínimo diario: hoy falta el " + " y el ".join(faltan)
+               + ". El bot no encontró ninguno que cumpla. Dime si buscamos uno a mano 👀")
+            marca.write_text(hoy)
+            roles["vigilante"]["historial"].insert(0, {"h": ahora.strftime("%H:%M"), "t": "Aviso: falta el " + " y el ".join(faltan)})
+    except Exception as e:
+        print("mínimo diario:", e)
+
+    # 10/11: lo que apuntan los roles de IA (las revisiones programadas de Claude) en datos/oficina_roles.json
+    for x in leer(DATOS / "oficina_roles.json", []) or []:
+        if (x.get("hora") or "")[:10] == hoy and x.get("rol") in roles:
+            roles[x["rol"]]["historial"].insert(0, {"h": x["hora"][11:16], "t": "🤖 " + corto(x.get("texto"), 120)})
+    for r in roles.values():
+        r["historial"] = sorted(r["historial"], key=lambda h: h["h"] if h["h"][:1].isdigit() else "", reverse=True)[:8]
+
     h1, h2 = valor("hora_pick1", control), valor("hora_pick2", control)
     salida = []
     for rid, meta in ROLES.items():

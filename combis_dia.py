@@ -1411,6 +1411,14 @@ def pick_de_copa(pools, hora, otro=None):
     return mejor[1] if mejor else None
 
 
+def minimo_diario():
+    try:
+        import ajustes as AJ
+        return bool(AJ.valor("minimo_diario"))
+    except Exception:
+        return True
+
+
 def pick_seguro(pools, dia, segundo=False):
     """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
     jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo.
@@ -1438,10 +1446,25 @@ def pick_seguro(pools, dia, segundo=False):
         t = pick_de_tipster(pools, dia, hora, otro) or pick_de_copa(pools, hora, otro)
         if t:
             return t, hora
-    cand = [p for pool in pools for p in pool
-            if lo <= p["cuota"] <= hi and p["partido_id"] != otro and familia(p).split("-")[0] in SEGURO["familias"]
-            and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada") and fijisimo(p)
-            and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
+    def buscar(lo, hi, prob_min, fijo=True):
+        return [p for pool in pools for p in pool
+                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and familia(p).split("-")[0] in SEGURO["familias"]
+                and p["prob_aprendida"] >= prob_min and not suelto_no(p) and not p.get("estimada") and (fijisimo(p) or not fijo)
+                and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
+    cand = buscar(lo, hi, SEGURO["prob_min"])
+    if not cand and dia >= SEGURO_DESDE and minimo_diario():
+        # 10/11 (Marcos: «tenemos que hacer un mínimo diario»): si no hay ninguno en el rango, plan B por orden:
+        # 1) 1,45-1,85  2) el pick de un tipster del día  3) el más probable del modelo hasta 2,00
+        cand = buscar(min(lo, 1.45), max(hi, 1.85), SEGURO["prob_min"])
+        if not cand and not primero_tipsters:
+            t = pick_de_tipster(pools, dia, hora, otro) or pick_de_copa(pools, hora, otro)
+            if t:
+                print("Mínimo diario: pick de tipster")
+                return t, hora
+        if not cand:
+            cand = buscar(1.30, 2.00, SEGURO["prob_min"] - 0.05, fijo=False)
+        if cand:
+            print(f"Mínimo diario: plan B ({len(cand)} candidatos)")
     if not cand:
         return None
     # 03/11 (Marcos: «cambia el seguro», salía Olise 3+ tiros): primero resultado y goles; jugadores solo si no hay
