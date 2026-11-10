@@ -39,6 +39,51 @@ def leer_canal(usuario):
     return posts
 
 
+CANALES_PRIVADOS = {"TIPSTER PÉREZ": "Tipster Pérez"}   # título del canal en Telegram → nombre (con la cuenta de Marcos)
+FOTOS = DATOS / "tipsters_fotos"
+
+
+def leer_con_cuenta(datos):
+    """10/11: con la cuenta de Marcos (Telethon; secretos TG_API_ID, TG_API_HASH, TG_SESSION que pone él): lee también
+    los canales privados. Guarda texto y las fotos (los boletos) para que Claude las mire en las revisiones.
+    Solo LEE: no escribe, no se une a nada, no marca como leído."""
+    import os
+    if not all(os.environ.get(k) for k in ("TG_API_ID", "TG_API_HASH", "TG_SESSION")):
+        return 0
+    from telethon.sessions import StringSession
+    from telethon.sync import TelegramClient
+    nuevos = 0
+    FOTOS.mkdir(parents=True, exist_ok=True)
+    with TelegramClient(StringSession(os.environ["TG_SESSION"]), int(os.environ["TG_API_ID"]),
+                        os.environ["TG_API_HASH"], receive_updates=False) as cli:
+        for d in cli.iter_dialogs():
+            nombre = next((v for k, v in CANALES_PRIVADOS.items() if k.lower() in (d.name or "").lower()), None)
+            if not nombre:
+                continue
+            lista = datos.setdefault(nombre, [])
+            ya = {p["id"] for p in lista}
+            for m in cli.iter_messages(d.entity, limit=30):
+                pid = f"{d.id}/{m.id}"
+                if pid in ya:
+                    continue
+                p = {"id": pid, "fecha": m.date.astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"),
+                     "texto": m.message or "", "foto": bool(m.photo),
+                     "visto": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")}
+                if m.photo:
+                    ruta = FOTOS / f"{nombre.replace(' ', '_')}_{m.id}.jpg"
+                    try:
+                        cli.download_media(m, file=str(ruta))
+                        p["foto_ruta"] = str(ruta.relative_to(DATOS.parent))
+                    except Exception as e:
+                        print("foto:", e)
+                lista.append(p)
+                nuevos += 1
+            lista.sort(key=lambda p: p["fecha"] or "")
+            datos[nombre] = lista[-200:]
+            print(f"{nombre} (cuenta): {nuevos} nuevos")
+    return nuevos
+
+
 def main():
     marca = DATOS / "tipsters_raw.visto"   # cada 30 min como mucho (el bucle lo llama cada pocos minutos)
     try:
@@ -64,6 +109,10 @@ def main():
                 nuevos += 1
         datos[nombre] = lista[-200:]
         print(f"{nombre}: {len(posts)} posts en la web, {nuevos} nuevos")
+    try:
+        leer_con_cuenta(datos)
+    except Exception as e:
+        print("lector con la cuenta:", e)
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
