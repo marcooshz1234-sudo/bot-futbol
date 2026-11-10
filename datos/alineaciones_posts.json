@@ -1577,28 +1577,442 @@
    }
   },
   "1638308": {
-   "hora": "2026-11-10T20:28:11.037964+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-10T20:39:39.745754+01:00",
+   "xi": [
+    "C. Rúnarsdóttir",
+    "E. Bartoli",
+    "M. MilinkoviÄ",
+    "Ivana Andrés",
+    "S. van Diemen",
+    "B. Glionna",
+    "M. Tomašević",
+    "K. Vilhjálmsdóttir",
+    "C. Robustellini",
+    "E. Polli",
+    "H. Bugeja",
+    "A. Yamashita",
+    "K. Casparij",
+    "Jade Rose",
+    "Gracie Prior",
+    "C. Wamser",
+    "Laura Blindkilde Brown",
+    "S. Coffey",
+    "I. Beney",
+    "Grace Clinton",
+    "A. Fujino",
+    "M. Fowler"
+   ],
+   "banquillo": [
+    "I. Santi",
+    "M. Detruyer",
+    "M. Cambiaghi",
+    "M. Bressan",
+    "E. Belli",
+    "C. Forcinella",
+    "R. Giudici",
+    "Emma Kullberg",
+    "T. Payne",
+    "B. Raphino",
+    "R. Shimizu",
+    "K. Shaw",
+    "S. Lohmann",
+    "S. Lewis",
+    "R. Knaak",
+    "L. Hemp",
+    "Yui Hasegawa",
+    "E. Cumings",
+    "Millie Burdon"
+   ],
+   "equipos": {
+    "7533": [
+     {
+      "n": "C. Rúnarsdóttir",
+      "pos": "G"
+     },
+     {
+      "n": "E. Bartoli",
+      "pos": "D"
+     },
+     {
+      "n": "M. MilinkoviÄ",
+      "pos": "D"
+     },
+     {
+      "n": "Ivana Andrés",
+      "pos": "D"
+     },
+     {
+      "n": "S. van Diemen",
+      "pos": "D"
+     },
+     {
+      "n": "B. Glionna",
+      "pos": "M"
+     },
+     {
+      "n": "M. Tomašević",
+      "pos": "M"
+     },
+     {
+      "n": "K. Vilhjálmsdóttir",
+      "pos": "M"
+     },
+     {
+      "n": "C. Robustellini",
+      "pos": "M"
+     },
+     {
+      "n": "E. Polli",
+      "pos": "F"
+     },
+     {
+      "n": "H. Bugeja",
+      "pos": "F"
+     }
+    ],
+    "1854": [
+     {
+      "n": "A. Yamashita",
+      "pos": "G"
+     },
+     {
+      "n": "K. Casparij",
+      "pos": "D"
+     },
+     {
+      "n": "Jade Rose",
+      "pos": "D"
+     },
+     {
+      "n": "Gracie Prior",
+      "pos": "D"
+     },
+     {
+      "n": "C. Wamser",
+      "pos": "D"
+     },
+     {
+      "n": "Laura Blindkilde Brown",
+      "pos": "M"
+     },
+     {
+      "n": "S. Coffey",
+      "pos": "M"
+     },
+     {
+      "n": "I. Beney",
+      "pos": "M"
+     },
+     {
+      "n": "Grace Clinton",
+      "pos": "M"
+     },
+     {
+      "n": "A. Fujino",
+      "pos": "M"
+     },
+     {
+      "n": "M. Fowler",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1638291": {
-   "hora": "2026-11-10T20:28:11.037964+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-10T20:39:39.745754+01:00",
+   "xi": [
+    "Rachele Baldi",
+    "F. Thøgersen",
+    "S. Oladipo",
+    "E. Ottey",
+    "E. Oliviero",
+    "M. Doms",
+    "A. Rieke",
+    "G. Greggi",
+    "M. Giugliano",
+    "A. Pilgrim",
+    "K. van Dooren",
+    "J. Weimar",
+    "B. Simon",
+    "L. Balleste",
+    "É. Nakkach",
+    "D. Bourma",
+    "P. Serrano",
+    "G. Karchouni",
+    "Paola Hernández",
+    "G. Marinelli",
+    "M. Sobal",
+    "Joana Marchão"
+   ],
+   "banquillo": [
+    "V. Bergamaschi",
+    "M. Antoine",
+    "A. Corelli",
+    "W. Heatley",
+    "Sofia Jahnukainen",
+    "M. Pandini",
+    "Giada Cimò",
+    "Magda Piekarska",
+    "M. Piemonte",
+    "V. Soggiu",
+    "B. Vergani",
+    "R. Babajide",
+    "M. Cardia",
+    "N. Andonova",
+    "N. Carage",
+    "A. Chaney",
+    "M. Le Page",
+    "A. MuratoviÄ",
+    "G. Nein",
+    "L. Sergeant-huet",
+    "M. Terchoun",
+    "C. Wallin",
+    "Stefanie da Eira"
+   ],
+   "equipos": {
+    "1892": [
+     {
+      "n": "Rachele Baldi",
+      "pos": "G"
+     },
+     {
+      "n": "F. Thøgersen",
+      "pos": "D"
+     },
+     {
+      "n": "S. Oladipo",
+      "pos": "D"
+     },
+     {
+      "n": "E. Ottey",
+      "pos": "D"
+     },
+     {
+      "n": "E. Oliviero",
+      "pos": "D"
+     },
+     {
+      "n": "M. Doms",
+      "pos": "M"
+     },
+     {
+      "n": "A. Rieke",
+      "pos": "M"
+     },
+     {
+      "n": "G. Greggi",
+      "pos": "M"
+     },
+     {
+      "n": "M. Giugliano",
+      "pos": "M"
+     },
+     {
+      "n": "A. Pilgrim",
+      "pos": "M"
+     },
+     {
+      "n": "K. van Dooren",
+      "pos": "F"
+     }
+    ],
+    "15548": [
+     {
+      "n": "J. Weimar",
+      "pos": "G"
+     },
+     {
+      "n": "B. Simon",
+      "pos": "D"
+     },
+     {
+      "n": "L. Balleste",
+      "pos": "D"
+     },
+     {
+      "n": "É. Nakkach",
+      "pos": "D"
+     },
+     {
+      "n": "D. Bourma",
+      "pos": "D"
+     },
+     {
+      "n": "P. Serrano",
+      "pos": "M"
+     },
+     {
+      "n": "G. Karchouni",
+      "pos": "M"
+     },
+     {
+      "n": "Paola Hernández",
+      "pos": "M"
+     },
+     {
+      "n": "G. Marinelli",
+      "pos": "F"
+     },
+     {
+      "n": "M. Sobal",
+      "pos": "F"
+     },
+     {
+      "n": "Joana Marchão",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1644380": {
-   "hora": "2026-11-10T20:28:11.037964+01:00",
+   "hora": "2026-11-10T20:39:39.745754+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1638328": {
-   "hora": "2026-11-10T20:28:11.037964+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-10T20:39:39.745754+01:00",
+   "xi": [
+    "K. Kiedrzynek",
+    "Belinha",
+    "Olga Carmona",
+    "P. Dudek",
+    "G. Mbock Bathy",
+    "O. Echegini",
+    "J. Groenen",
+    "E. ÃsterÃ¥s",
+    "N. Feller",
+    "M. Lafontaine",
+    "M. Kanjinga",
+    "E. Mahmutovic",
+    "G. Gwinn",
+    "S. Ballisager",
+    "M. Eriksson",
+    "F. Kett",
+    "M. Tanikawa",
+    "B. Amani",
+    "L. Dallmann",
+    "P. Harder",
+    "K. Bühl",
+    "J. DamnjanoviÄ"
+   ],
+   "banquillo": [
+    "O. Toussaint",
+    "O. Szperkowska",
+    "N. Fatier",
+    "T. Elimbi",
+    "A. Charlier",
+    "Yaya",
+    "Katia Imarazene",
+    "F. Jourde",
+    "J. Le Guilly",
+    "G. Le Roux",
+    "L. Morissaint",
+    "T. Samoura",
+    "A. Åehitler",
+    "R. van Eijk",
+    "S. Zadrazil",
+    "G. Viggósdóttir",
+    "K. Naschenweng",
+    "S. Mattner-Trembleau",
+    "A. Klink",
+    "E. Imade",
+    "B. Dunst"
+   ],
+   "equipos": {
+    "1667": [
+     {
+      "n": "K. Kiedrzynek",
+      "pos": "G"
+     },
+     {
+      "n": "Belinha",
+      "pos": "D"
+     },
+     {
+      "n": "Olga Carmona",
+      "pos": "D"
+     },
+     {
+      "n": "P. Dudek",
+      "pos": "D"
+     },
+     {
+      "n": "G. Mbock Bathy",
+      "pos": "D"
+     },
+     {
+      "n": "O. Echegini",
+      "pos": "M"
+     },
+     {
+      "n": "J. Groenen",
+      "pos": "M"
+     },
+     {
+      "n": "E. ÃsterÃ¥s",
+      "pos": "M"
+     },
+     {
+      "n": "N. Feller",
+      "pos": "M"
+     },
+     {
+      "n": "M. Lafontaine",
+      "pos": "F"
+     },
+     {
+      "n": "M. Kanjinga",
+      "pos": "F"
+     }
+    ],
+    "1860": [
+     {
+      "n": "E. Mahmutovic",
+      "pos": "G"
+     },
+     {
+      "n": "G. Gwinn",
+      "pos": "D"
+     },
+     {
+      "n": "S. Ballisager",
+      "pos": "D"
+     },
+     {
+      "n": "M. Eriksson",
+      "pos": "D"
+     },
+     {
+      "n": "F. Kett",
+      "pos": "D"
+     },
+     {
+      "n": "M. Tanikawa",
+      "pos": "M"
+     },
+     {
+      "n": "B. Amani",
+      "pos": "M"
+     },
+     {
+      "n": "L. Dallmann",
+      "pos": "M"
+     },
+     {
+      "n": "P. Harder",
+      "pos": "M"
+     },
+     {
+      "n": "K. Bühl",
+      "pos": "M"
+     },
+     {
+      "n": "J. DamnjanoviÄ",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
