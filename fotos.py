@@ -308,13 +308,13 @@ QG_CSS = """
  background:linear-gradient(180deg,#ffe58a,#e3a71b 55%%,#a66f00);box-shadow:0 4px 0 #7a5300;display:flex;align-items:center}
 .n span{transform:skewX(18deg);font-family:%(letra)s;font-weight:900;font-style:italic;font-size:%(nf)dpx;color:#fff;
  text-shadow:0 3px 0 #7a5300;margin-left:24px}
-.fl{position:relative;z-index:1;width:%(fw)dpx;height:%(fh)dpx;margin-left:-14px;transform:skewX(-18deg);background:#fff;border-radius:6px;
- overflow:hidden;box-shadow:0 0 0 3px #f6d46a,0 4px 0 4px #a66f00;display:flex;align-items:center;justify-content:center}
+.fl{position:relative;z-index:1;width:%(fw)dpx;height:%(fh)dpx;margin-left:14px;background:#fff;border-radius:8px;
+ overflow:hidden;box-shadow:0 0 0 4px #f2c94c,0 5px 10px rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;flex:none}
 .fl svg{width:100%%;height:100%%;display:block}
-.fl img.real{width:100%%;height:100%%;object-fit:cover;display:block;transform:skewX(18deg) scale(1.32)}
-.fl span{transform:skewX(18deg);font-size:%(fe)dpx;line-height:1}
-.es{position:relative;z-index:1;width:%(eh)dpx;height:%(eh)dpx;margin:0 6px 0 22px;display:flex;align-items:center;justify-content:center}
-.es img{max-width:100%%;max-height:100%%;filter:drop-shadow(0 3px 4px rgba(0,0,0,.3))}
+.fl img.real{width:100%%;height:100%%;object-fit:cover;display:block}
+.fl span{font-size:%(fe)dpx;line-height:1}
+.es{position:relative;z-index:1;width:%(eh)dpx;height:%(eh)dpx;margin:0 6px 0 22px;display:flex;align-items:center;justify-content:center;flex:none}
+.es img{width:100%%;height:100%%;object-fit:contain;filter:drop-shadow(0 3px 4px rgba(0,0,0,.3))}
 .nom{position:relative;z-index:1;flex:1;font-family:%(letra)s;font-weight:900;font-style:italic;font-size:%(nomf)dpx;color:#0a1440;
  text-align:center;line-height:1;padding:0 6px}
 .flecha{position:relative;z-index:1;font-family:%(letra)s;font-weight:900;color:#e39a00;font-size:%(nf)dpx;margin-right:12px}
@@ -350,8 +350,8 @@ def quien_gana(filas, titulo, sub=None):
     from ganadores_img import _bandera
     n = len(filas)
     h = 112 if n <= 6 else 100 if n <= 8 else 84
-    css = QG_CSS % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 34) * 1.5), "fh": h - 34, "fe": h // 2,
-                    "eh": h - 14, "nomf": h // 2 - 4, "ph": h - 36, "pf": h // 2 - 12, "ck": h // 2 - 12, "ckf": h // 4 + 2,
+    css = QG_CSS % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 32) * 4 / 3), "fh": h - 32, "fe": h // 2,
+                    "eh": h - 22, "nomf": h // 2 - 4, "ph": h - 36, "pf": h // 2 - 12, "ck": h // 2 - 12, "ckf": h // 4 + 2,
                     "letra": LETRA}
     lis = ""
     for i, f in enumerate(filas, 1):
@@ -360,7 +360,7 @@ def quien_gana(filas, titulo, sub=None):
         marca = "✕" if ok is False else "✓"
         esc = '<div class="es"></div>'   # hueco igual para que los nombres queden alineados
         if not f.get("seleccion") and f.get("escudo") and Path(f["escudo"]).is_file():
-            esc = f'<div class="es"><img src="data:image/png;base64,{nitido(Path(f["escudo"]), h - 14)}"></div>'
+            esc = f'<div class="es"><img src="data:image/png;base64,{nitido(Path(f["escudo"]), h - 22)}"></div>'
         bandera = f'<div class="fl">{bandera_real(f.get("pais")) or _bandera(f)}</div>' if (f.get("pais") or f.get("bandera")) else ""
         nombre = equipo(f["nombre"])
         lis += (f'<div class="f{cls}"><div class="n"><span>{i}.</span></div>{bandera}{esc}'
