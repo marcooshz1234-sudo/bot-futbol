@@ -1,0 +1,1 @@
+Banderas: flag-icons (https://github.com/lipis/flag-icons), licencia MIT.

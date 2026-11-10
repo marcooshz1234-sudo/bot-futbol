@@ -311,6 +311,7 @@ QG_CSS = """
 .fl{position:relative;z-index:1;width:%(fw)dpx;height:%(fh)dpx;margin-left:-14px;transform:skewX(-18deg);background:#fff;border-radius:6px;
  overflow:hidden;box-shadow:0 0 0 3px #f6d46a,0 4px 0 4px #a66f00;display:flex;align-items:center;justify-content:center}
 .fl svg{width:100%%;height:100%%;display:block}
+.fl img.real{width:100%%;height:100%%;object-fit:cover;display:block;transform:skewX(18deg) scale(1.32)}
 .fl span{transform:skewX(18deg);font-size:%(fe)dpx;line-height:1}
 .es{position:relative;z-index:1;width:%(eh)dpx;height:%(eh)dpx;margin:0 6px 0 22px;display:flex;align-items:center;justify-content:center}
 .es img{max-width:100%%;max-height:100%%;filter:drop-shadow(0 3px 4px rgba(0,0,0,.3))}
@@ -325,6 +326,22 @@ QG_CSS = """
 .ok .pick{background:linear-gradient(180deg,#8ff0a8,#22b14c 55%%,#0d6b2a);box-shadow:0 4px 0 #0a4d1e}
 .ko .pick{background:linear-gradient(180deg,#ff9a8a,#d63a2a 55%%,#8a1a10);box-shadow:0 4px 0 #5e0f08}
 """
+
+
+BANDERAS = RAIZ / "publicaciones" / "media" / "marca" / "banderas"
+
+
+def bandera_real(pais):
+    """11/11 (Marcos: «las banderas originales, como los escudos»): la bandera de verdad (flag-icons, MIT) o None."""
+    import json
+    if not hasattr(bandera_real, "cod"):
+        f = BANDERAS / "paises.json"
+        bandera_real.cod = json.loads(f.read_text()) if f.exists() else {}
+    c = bandera_real.cod.get(pais or "")
+    svg = BANDERAS / f"{c}.svg" if c else None
+    if not (svg and svg.exists()):
+        return None
+    return f'<img class="real" src="data:image/svg+xml;base64,{base64.b64encode(svg.read_bytes()).decode()}" alt="">'
 
 
 def quien_gana(filas, titulo, sub=None):
@@ -344,7 +361,7 @@ def quien_gana(filas, titulo, sub=None):
         esc = '<div class="es"></div>'   # hueco igual para que los nombres queden alineados
         if not f.get("seleccion") and f.get("escudo") and Path(f["escudo"]).is_file():
             esc = f'<div class="es"><img src="data:image/png;base64,{nitido(Path(f["escudo"]), h - 14)}"></div>'
-        bandera = f'<div class="fl">{_bandera(f)}</div>' if (f.get("pais") or f.get("bandera")) else ""
+        bandera = f'<div class="fl">{bandera_real(f.get("pais")) or _bandera(f)}</div>' if (f.get("pais") or f.get("bandera")) else ""
         nombre = equipo(f["nombre"])
         lis += (f'<div class="f{cls}"><div class="n"><span>{i}.</span></div>{bandera}{esc}'
                 f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">➜</div>'
