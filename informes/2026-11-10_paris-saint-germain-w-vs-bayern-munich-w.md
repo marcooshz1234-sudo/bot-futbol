@@ -1,7 +1,7 @@
 # Paris Saint Germain W – Bayern Munich W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 21:00 (hora España) · Stade Georges Lefevre
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 08:14_
