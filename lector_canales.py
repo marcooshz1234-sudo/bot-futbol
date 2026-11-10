@@ -84,10 +84,10 @@ def leer_con_cuenta(datos):
     return nuevos
 
 
-def main():
+def main(forzar=False):
     marca = DATOS / "tipsters_raw.visto"   # cada 30 min como mucho (el bucle lo llama cada pocos minutos)
     try:
-        if marca.exists() and (datetime.now(MADRID) - datetime.fromisoformat(marca.read_text().strip())).total_seconds() < 1800:
+        if not forzar and marca.exists() and (datetime.now(MADRID) - datetime.fromisoformat(marca.read_text().strip())).total_seconds() < 1800:
             return
     except ValueError:
         pass
@@ -117,4 +117,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(forzar="--ya" in sys.argv)
