@@ -1,676 +1,673 @@
 {
-  "2026-10-24-escalera": {
-    "enviado": "2026-10-24T11:00",
-    "mensaje_id": 64
-  },
-  "2026-10-25-escalera": {
-    "enviado": "2026-10-25T11:00",
-    "mensaje_id": 87
-  },
-  "2026-10-26-datos-rachas": {
-    "enviado": "2026-10-26T10:00",
-    "mensaje_id": 111
-  },
-  "2026-10-26-combi-segura": {
-    "enviado": "2026-10-26T12:00",
-    "mensaje_id": 113
-  },
-  "2026-10-26-combi-dia": {
-    "enviado": "2026-10-26T12:00",
-    "mensaje_id": 114
-  },
-  "2026-10-26-combi-tema": {
-    "enviado": "2026-10-26T13:00",
-    "mensaje_id": 115
-  },
-  "2026-10-27-datos-manana": {
-    "enviado": "2026-10-26T15:10",
-    "mensaje_id": 117
-  },
-  "2026-10-26-datos-xg": {
-    "caducada": true
-  },
-  "2026-10-27-combi-segura": {
-    "caducada": "cancelado"
-  },
-  "2026-10-27-ganadores": {
-    "enviado": "2026-10-27T10:30",
-    "mensaje_id": 125
-  },
-  "2026-10-27-escalera": {
-    "enviado": "2026-10-27T11:00",
-    "mensaje_id": 126
-  },
-  "2026-10-27-combi-liga": {
-    "enviado": "2026-10-27T15:27",
-    "mensaje_id": 129
-  },
-  "2026-10-28-picks-manana": {
-    "enviado": "2026-10-27T23:00",
-    "mensaje_id": 141
-  },
-  "2026-10-28-ganadores": {
-    "enviado": "2026-10-28T01:00",
-    "mensaje_id": 146
-  },
-  "2026-10-28-escalera": {
-    "enviado": "2026-10-28T11:00",
-    "mensaje_id": 150
-  },
-  "2026-10-28-combi-tres": {
-    "enviado": "2026-10-28T13:30",
-    "mensaje_id": 152
-  },
-  "2026-10-28-combi-partido-1550167": {
-    "enviado": "2026-10-28T16:40",
-    "mensaje_id": 154,
-    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550167.tarjeta.jpg"
-  },
-  "2026-10-28-combi-partido-1640387": {
-    "enviado": "2026-10-28T17:55",
-    "mensaje_id": 156,
-    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1640387.tarjeta.jpg"
-  },
-  "2026-10-28-combi-partido-1640383": {
-    "enviado": "2026-10-28T18:25",
-    "mensaje_id": 157,
-    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1640383.tarjeta.jpg"
-  },
-  "2026-10-28-combi-partido-1550171": {
-    "enviado": "2026-10-28T18:56",
-    "mensaje_id": 158,
-    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550171.tarjeta.jpg"
-  },
-  "2026-10-28-combi-partido-1550172": {
-    "enviado": "2026-10-28T19:25",
-    "mensaje_id": 159,
-    "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550172.tarjeta.jpg"
-  },
-  "2026-10-29-ganadores": {
-    "enviado": "2026-10-29T01:00",
-    "mensaje_id": 164
-  },
-  "2026-10-29-combi-tres": {
-    "enviado": "2026-10-29T13:30",
-    "mensaje_id": 165
-  },
-  "2026-10-29-combi-partido-1550170": {
-    "enviado": "2026-10-29T17:30",
-    "mensaje_id": 166,
-    "foto_tg": "publicaciones/media/2026-10-29-combi-partido-1550170.tarjeta.jpg"
-  },
-  "2026-10-29-escalera": {
-    "enviado": "2026-10-29T18:23",
-    "mensaje_id": 167
-  },
-  "2026-10-29-combi-partido-1640385": {
-    "enviado": "2026-10-29T19:25",
-    "mensaje_id": 168,
-    "foto_tg": "publicaciones/media/2026-10-29-combi-partido-1640385.tarjeta.jpg"
-  },
-  "2026-10-29-combi-partido-1550169": {
-    "enviado": "2026-10-29T19:45",
-    "mensaje_id": 170,
-    "foto_tg": "publicaciones/media/2026-10-29-combi-partido-1550169.tarjeta.jpg"
-  },
-  "2026-10-30-picks-manana": {
-    "enviado": "2026-10-29T23:04",
-    "mensaje_id": 176
-  },
-  "2026-10-30-ganadores": {
-    "enviado": "2026-10-30T01:00",
-    "mensaje_id": 181
-  },
-  "2026-10-30-escalera": {
-    "enviado": "2026-10-30T11:00",
-    "mensaje_id": 182
-  },
-  "2026-10-30-combi-partido-1575211": {
-    "enviado": "2026-10-30T18:40",
-    "mensaje_id": 184,
-    "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1575211.tarjeta.jpg"
-  },
-  "2026-10-30-combi-partido-1570442": {
-    "enviado": "2026-10-30T19:10",
-    "mensaje_id": 185,
-    "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1570442.tarjeta.jpg"
-  },
-  "2026-10-30-combi-partido-1563233": {
-    "enviado": "2026-10-30T19:40",
-    "mensaje_id": 186,
-    "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1563233.tarjeta.jpg"
-  },
-  "2026-10-30-combi-partido-1552802": {
-    "enviado": "2026-10-30T20:05",
-    "mensaje_id": 187,
-    "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1552802.tarjeta.jpg"
-  },
-  "2026-10-31-picks-manana": {
-    "enviado": "2026-10-30T23:00",
-    "mensaje_id": 192
-  },
-  "2026-10-31-combi-partido-1557450": {
-    "enviado": "2026-10-31T00:30",
-    "mensaje_id": 194,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1557450.tarjeta.jpg"
-  },
-  "2026-10-31-ganadores": {
-    "enviado": "2026-10-31T01:00",
-    "mensaje_id": 195
-  },
-  "2026-10-31-combi-partido-1570439": {
-    "enviado": "2026-10-31T01:30",
-    "mensaje_id": 196,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1570439.tarjeta.jpg"
-  },
-  "2026-10-31-escalera": {
-    "enviado": "2026-10-31T11:00",
-    "mensaje_id": 199
-  },
-  "2026-10-31-combi-500": {
-    "enviado": "2026-10-31T12:00",
-    "mensaje_id": 200
-  },
-  "2026-10-31-combi-tres": {
-    "enviado": "2026-10-31T13:30",
-    "mensaje_id": 201
-  },
-  "2026-10-31-combi-partido-1575204": {
-    "enviado": "2026-10-31T14:32",
-    "mensaje_id": 202,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1575204.tarjeta.jpg"
-  },
-  "2026-10-31-combi-partido-1557454": {
-    "enviado": "2026-10-31T15:00",
-    "mensaje_id": 203,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1557454.tarjeta.jpg"
-  },
-  "2026-10-31-combi-loca": {
-    "enviado": "2026-10-31T16:00",
-    "mensaje_id": 204
-  },
-  "2026-10-31-combi-partido-1550186": {
-    "enviado": "2026-10-31T16:40",
-    "mensaje_id": 205,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1550186.tarjeta.jpg"
-  },
-  "2026-10-31-combi-partido-1557456": {
-    "enviado": "2026-10-31T17:10",
-    "mensaje_id": 206,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1557456.tarjeta.jpg"
-  },
-  "2026-10-31-combi-partido-1575203": {
-    "enviado": "2026-10-31T17:30",
-    "mensaje_id": 207,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1575203.tarjeta.jpg"
-  },
-  "2026-10-31-combi-partido-1550177": {
-    "enviado": "2026-10-31T19:45",
-    "mensaje_id": 209,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1550177.tarjeta.jpg"
-  },
-  "2026-10-31-combi-partido-1552210": {
-    "enviado": "2026-10-31T20:00",
-    "mensaje_id": 211,
-    "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1552210.tarjeta.jpg"
-  },
-  "2026-11-01-picks-manana": {
-    "enviado": "2026-10-31T23:00",
-    "mensaje_id": 214
-  },
-  "2026-11-01-combi-partido-1557453": {
-    "enviado": "2026-11-01T00:30",
-    "mensaje_id": 216,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1557453.tarjeta.jpg"
-  },
-  "2026-11-01-ganadores": {
-    "enviado": "2026-11-01T01:00",
-    "mensaje_id": 217
-  },
-  "2026-11-01-combi-partido-1575534": {
-    "enviado": "2026-11-01T01:30",
-    "mensaje_id": 218,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1575534.tarjeta.jpg"
-  },
-  "2026-11-01-escalera": {
-    "enviado": "2026-11-01T11:00",
-    "mensaje_id": 219
-  },
-  "2026-11-01-combi-tres": {
-    "enviado": "2026-11-01T13:30",
-    "mensaje_id": 220
-  },
-  "2026-11-01-combi-partido-1550183": {
-    "enviado": "2026-11-01T14:00",
-    "mensaje_id": 221,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1550183.tarjeta.jpg"
-  },
-  "2026-11-01-combi-partido-1575207": {
-    "enviado": "2026-11-01T14:30",
-    "mensaje_id": 222,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1575207.tarjeta.jpg"
-  },
-  "2026-11-01-combi-partido-1570440": {
-    "enviado": "2026-11-01T15:15",
-    "mensaje_id": 223,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1570440.tarjeta.jpg"
-  },
-  "2026-11-01-combi-partido-1570437": {
-    "enviado": "2026-11-01T17:30",
-    "mensaje_id": 224,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1570437.tarjeta.jpg"
-  },
-  "2026-11-01-combi-partido-1550182": {
-    "enviado": "2026-11-01T19:25",
-    "mensaje_id": 225,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1550182.tarjeta.jpg"
-  },
-  "2026-11-01-combi-partido-1570433": {
-    "enviado": "2026-11-01T20:00",
-    "mensaje_id": 227,
-    "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1570433.tarjeta.jpg"
-  },
-  "2026-11-02-combi-partido-1557455": {
-    "enviado": "2026-11-02T00:30",
-    "mensaje_id": 230,
-    "foto_tg": "publicaciones/media/2026-11-02-combi-partido-1557455.tarjeta.jpg"
-  },
-  "2026-11-02-ganadores": {
-    "enviado": "2026-11-02T01:00",
-    "mensaje_id": 231
-  },
-  "2026-11-02-pick-seguro": {
-    "enviado": "2026-11-02T10:30",
-    "mensaje_id": 232
-  },
-  "2026-11-02-escalera": {
-    "enviado": "2026-11-02T11:00",
-    "mensaje_id": 234
-  },
-  "2026-11-02-combi-tres": {
-    "enviado": "2026-11-02T13:30",
-    "mensaje_id": 235
-  },
-  "2026-11-02-combi-partido-1570436": {
-    "enviado": "2026-11-02T19:10",
-    "mensaje_id": 236,
-    "foto_tg": "publicaciones/media/2026-11-02-combi-partido-1570436.tarjeta.jpg"
-  },
-  "2026-11-02-combi-partido-1569998": {
-    "enviado": "2026-11-02T19:40",
-    "mensaje_id": 237,
-    "foto_tg": "publicaciones/media/2026-11-02-combi-partido-1569998.tarjeta.jpg"
-  },
-  "2026-11-03-picks-manana": {
-    "enviado": "2026-11-02T23:00",
-    "mensaje_id": 239
-  },
-  "2026-11-03-combi-partido-1635662": {
-    "enviado": "2026-11-03T00:30",
-    "mensaje_id": 244,
-    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635662.tarjeta.jpg"
-  },
-  "2026-11-03-ganadores": {
-    "enviado": "2026-11-03T01:00",
-    "mensaje_id": 245
-  },
-  "2026-11-03-pick-seguro": {
-    "enviado": "2026-11-03T10:30",
-    "mensaje_id": 248
-  },
-  "2026-11-03-escalera": {
-    "enviado": "2026-11-03T11:00",
-    "mensaje_id": 249
-  },
-  "2026-11-03-combi-tres": {
-    "enviado": "2026-11-03T13:42",
-    "mensaje_id": 252
-  },
-  "2026-11-03-lista-europa-2": {
-    "enviado": "2026-11-03T15:00",
-    "mensaje_id": 254
-  },
-  "2026-11-03-combi-partido-1635622": {
-    "caducada": "cancelado"
-  },
-  "2026-11-03-combi-partido-1635677": {
-    "enviado": "2026-11-03T20:25",
-    "mensaje_id": 266,
-    "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635677.tarjeta.jpg"
-  },
-  "2026-11-04-combi-partido-1635656": {
-    "enviado": "2026-11-04T00:30",
-    "mensaje_id": 274,
-    "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635656.tarjeta.jpg"
-  },
-  "2026-11-04-ganadores": {
-    "enviado": "2026-11-04T01:00",
-    "mensaje_id": 275
-  },
-  "2026-11-04-combi-partido-1635681": {
-    "enviado": "2026-11-04T01:30",
-    "mensaje_id": 276,
-    "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635681.tarjeta.jpg"
-  },
-  "2026-11-04-pick-seguro": {
-    "enviado": "2026-11-04T10:30",
-    "mensaje_id": 277
-  },
-  "2026-11-04-escalera": {
-    "enviado": "2026-11-04T11:00",
-    "mensaje_id": 278
-  },
-  "2026-11-04-lista-europa-1": {
-    "enviado": "2026-11-04T12:00",
-    "mensaje_id": 279
-  },
-  "2026-11-04-combi-tres": {
-    "enviado": "2026-11-04T13:30",
-    "mensaje_id": 283
-  },
-  "2026-11-04-combi-multi": {
-    "enviado": "2026-11-04T14:38",
-    "mensaje_id": 284
-  },
-  "2026-11-04-lista-europa-2": {
-    "enviado": "2026-11-04T15:00",
-    "mensaje_id": 285
-  },
-  "2026-11-04-combi-loca": {
-    "enviado": "2026-11-04T16:00",
-    "mensaje_id": 286
-  },
-  "2026-11-04-combi-partido-1635745": {
-    "enviado": "2026-11-04T20:25",
-    "mensaje_id": 289,
-    "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635745.tarjeta.jpg"
-  },
-  "2026-11-04-estrella-1635656": {
-    "enviado": "2026-11-04T20:25",
-    "mensaje_id": 290
-  },
-  "2026-11-04-estrella-1635651": {
-    "enviado": "2026-11-04T20:25",
-    "mensaje_id": 291
-  },
-  "2026-11-05-ganadores": {
-    "enviado": "2026-11-05T01:00",
-    "mensaje_id": 295
-  },
-  "2026-11-05-pick-seguro": {
-    "enviado": "2026-11-05T10:30",
-    "mensaje_id": 296
-  },
-  "2026-11-05-escalera": {
-    "enviado": "2026-11-05T11:00",
-    "mensaje_id": 297
-  },
-  "2026-11-05-lista-europa-1": {
-    "enviado": "2026-11-05T12:00",
-    "mensaje_id": 298
-  },
-  "2026-11-05-combi-tres": {
-    "enviado": "2026-11-05T13:30",
-    "mensaje_id": 300
-  },
-  "2026-11-05-combi-multi": {
-    "enviado": "2026-11-05T14:41",
-    "mensaje_id": 301
-  },
-  "2026-11-05-lista-europa-2": {
-    "enviado": "2026-11-05T15:00",
-    "mensaje_id": 302
-  },
-  "2026-11-05-combi-loca": {
-    "enviado": "2026-11-05T16:00",
-    "mensaje_id": 303
-  },
-  "2026-11-05-lista-europa-3": {
-    "enviado": "2026-11-05T17:30",
-    "mensaje_id": 304
-  },
-  "2026-11-05-combi-partido-1636383": {
-    "enviado": "2026-11-05T17:53",
-    "mensaje_id": 305,
-    "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636383.tarjeta.jpg"
-  },
-  "2026-11-05-combi-partido-1636254": {
-    "enviado": "2026-11-05T18:10",
-    "mensaje_id": 306,
-    "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636254.tarjeta.jpg"
-  },
-  "2026-11-05-combi-partido-1636229": {
-    "enviado": "2026-11-05T20:25",
-    "mensaje_id": 307,
-    "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636229.tarjeta.jpg"
-  },
-  "2026-11-05-estrella-1636223": {
-    "enviado": "2026-11-05T20:25",
-    "mensaje_id": 308
-  },
-  "2026-11-05-estrella-1636219": {
-    "enviado": "2026-11-05T20:25",
-    "mensaje_id": 309
-  },
-  "2026-11-06-ganadores": {
-    "enviado": "2026-11-06T01:00",
-    "mensaje_id": 314
-  },
-  "2026-11-06-escalera": {
-    "enviado": "2026-11-06T11:00",
-    "mensaje_id": 315
-  },
-  "2026-11-06-semana-europa-resultado": {
-    "enviado": "2026-11-06T12:00",
-    "mensaje_id": 316
-  },
-  "2026-11-06-combi-tres": {
-    "enviado": "2026-11-06T13:30",
-    "mensaje_id": 317
-  },
-  "2026-11-06-combi-multi": {
-    "enviado": "2026-11-06T14:35",
-    "mensaje_id": 318
-  },
-  "2026-11-06-combi-loca": {
-    "enviado": "2026-11-06T16:00",
-    "mensaje_id": 319
-  },
-  "2026-11-06-combi-partido-1570450": {
-    "enviado": "2026-11-06T20:00",
-    "mensaje_id": 320,
-    "foto_tg": "publicaciones/media/2026-11-06-combi-partido-1570450.tarjeta.jpg"
-  },
-  "2026-11-06-combi-partido-1575539": {
-    "enviado": "2026-11-06T20:45",
-    "mensaje_id": 321,
-    "foto_tg": "publicaciones/media/2026-11-06-combi-partido-1575539.tarjeta.jpg"
-  },
-  "2026-11-07-picks-manana": {
-    "enviado": "2026-11-06T23:00",
-    "mensaje_id": 324
-  },
-  "2026-11-07-ganadores": {
-    "enviado": "2026-11-07T01:00",
-    "mensaje_id": 327
-  },
-  "2026-11-07-pick-seguro": {
-    "enviado": "2026-11-07T10:32",
-    "mensaje_id": 328
-  },
-  "2026-11-07-escalera": {
-    "enviado": "2026-11-07T11:00",
-    "mensaje_id": 329
-  },
-  "2026-11-07-combi-500": {
-    "enviado": "2026-11-07T12:00",
-    "mensaje_id": 330
-  },
-  "2026-11-07-combi-partido-1557463": {
-    "enviado": "2026-11-07T12:55",
-    "mensaje_id": 331,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1557463.tarjeta.jpg"
-  },
-  "2026-11-07-combi-tres": {
-    "enviado": "2026-11-07T13:30",
-    "mensaje_id": 332
-  },
-  "2026-11-07-combi-partido-1575212": {
-    "enviado": "2026-11-07T13:40",
-    "mensaje_id": 333,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1575212.tarjeta.jpg"
-  },
-  "2026-11-07-combi-partido-1557457": {
-    "enviado": "2026-11-07T14:10",
-    "mensaje_id": 334,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1557457.tarjeta.jpg"
-  },
-  "2026-11-07-combi-multi": {
-    "enviado": "2026-11-07T14:30",
-    "mensaje_id": 335
-  },
-  "2026-11-07-combi-partido-1557461": {
-    "enviado": "2026-11-07T14:40",
-    "mensaje_id": 336,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1557461.tarjeta.jpg"
-  },
-  "2026-11-07-combi-partido-1570005": {
-    "enviado": "2026-11-07T15:15",
-    "mensaje_id": 337,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1570005.tarjeta.jpg"
-  },
-  "2026-11-07-estrella-1557457": {
-    "enviado": "2026-11-07T15:25",
-    "mensaje_id": 338
-  },
-  "2026-11-07-combi-loca": {
-    "enviado": "2026-11-07T16:00",
-    "mensaje_id": 339
-  },
-  "2026-11-07-combi-partido-1570448": {
-    "enviado": "2026-11-07T17:55",
-    "mensaje_id": 341,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1570448.tarjeta.jpg"
-  },
-  "2026-11-07-estrella-1557465": {
-    "enviado": "2026-11-07T17:55",
-    "mensaje_id": 342
-  },
-  "2026-11-07-combi-partido-1550187": {
-    "enviado": "2026-11-07T20:10",
-    "mensaje_id": 345,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1550187.tarjeta.jpg"
-  },
-  "2026-11-07-combi-partido-1552815": {
-    "enviado": "2026-11-07T20:30",
-    "mensaje_id": 347,
-    "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1552815.tarjeta.jpg"
-  },
-  "2026-11-08-picks-manana": {
-    "enviado": "2026-11-07T23:00",
-    "mensaje_id": 348
-  },
-  "2026-11-08-ganadores": {
-    "enviado": "2026-11-08T01:00",
-    "mensaje_id": 350
-  },
-  "2026-11-08-pick-seguro": {
-    "enviado": "2026-11-08T10:32",
-    "mensaje_id": 351
-  },
-  "2026-11-08-escalera": {
-    "enviado": "2026-11-08T11:00",
-    "mensaje_id": 352
-  },
-  "2026-11-08-combi-partido-1552221": {
-    "enviado": "2026-11-08T11:40",
-    "mensaje_id": 353,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1552221.tarjeta.jpg"
-  },
-  "2026-11-08-combi-partido-1550193": {
-    "enviado": "2026-11-08T11:55",
-    "mensaje_id": 354,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550193.tarjeta.jpg"
-  },
-  "2026-11-08-combi-tres": {
-    "enviado": "2026-11-08T13:30",
-    "mensaje_id": 355
-  },
-  "2026-11-08-combi-partido-1552222": {
-    "enviado": "2026-11-08T13:57",
-    "mensaje_id": 356,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1552222.tarjeta.jpg"
-  },
-  "2026-11-08-combi-partido-1550190": {
-    "enviado": "2026-11-08T14:00",
-    "mensaje_id": 357,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550190.tarjeta.jpg"
-  },
-  "2026-11-08-combi-multi": {
-    "enviado": "2026-11-08T14:30",
-    "mensaje_id": 361
-  },
-  "2026-11-08-combi-loca": {
-    "enviado": "2026-11-08T16:00",
-    "mensaje_id": 362
-  },
-  "2026-11-08-estrella-1557464": {
-    "enviado": "2026-11-08T16:55",
-    "mensaje_id": 364,
-    "foto_tg": "publicaciones/media/2026-11-08-estrella-1557464.tarjeta.jpg"
-  },
-  "2026-11-08-combi-partido-1570011": {
-    "enviado": "2026-11-08T17:30",
-    "mensaje_id": 365,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1570011.tarjeta.jpg"
-  },
-  "2026-11-08-combi-partido-1575544": {
-    "enviado": "2026-11-08T18:00",
-    "mensaje_id": 366,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1575544.tarjeta.jpg"
-  },
-  "2026-11-08-combi-partido-1550189": {
-    "enviado": "2026-11-08T19:45",
-    "mensaje_id": 367,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550189.tarjeta.jpg"
-  },
-  "2026-11-08-estrella-1570443": {
-    "enviado": "2026-11-08T20:25",
-    "mensaje_id": 368,
-    "foto_tg": "publicaciones/media/2026-11-08-estrella-1570443.tarjeta.jpg"
-  },
-  "2026-11-08-combi-partido-1575538": {
-    "enviado": "2026-11-08T20:30",
-    "mensaje_id": 369,
-    "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1575538.tarjeta.jpg"
-  },
-  "2026-11-09-escalera": {
-    "enviado": "2026-11-09T12:53",
-    "mensaje_id": 375
-  },
-  "2026-11-09-combi-tres": {
-    "enviado": "2026-11-09T13:30",
-    "mensaje_id": 376
-  },
-  "2026-11-09-combi-loca": {
-    "enviado": "2026-11-09T16:19",
-    "mensaje_id": 377
-  },
-  "2026-11-09-combi-partido-1565299": {
-    "enviado": "2026-11-09T18:01",
-    "mensaje_id": 378,
-    "foto_tg": "publicaciones/media/2026-11-09-combi-partido-1565299.tarjeta.jpg"
-  },
-  "2026-11-09-combi-partido-1570011": {
-    "enviado": "2026-11-09T19:47",
-    "mensaje_id": 380,
-    "foto_tg": "publicaciones/media/2026-11-09-combi-partido-1570011.tarjeta.jpg"
-  },
-  "2026-11-10-pick-seguro": {
-    "enviado": "2026-11-10T10:30",
-    "mensaje_id": 384
-  },
-  "2026-11-10-escalera": {
-    "caducada": "partido 1644346 movido al 18/11"
-  }
+ "2026-10-24-escalera": {
+  "enviado": "2026-10-24T11:00",
+  "mensaje_id": 64
+ },
+ "2026-10-25-escalera": {
+  "enviado": "2026-10-25T11:00",
+  "mensaje_id": 87
+ },
+ "2026-10-26-datos-rachas": {
+  "enviado": "2026-10-26T10:00",
+  "mensaje_id": 111
+ },
+ "2026-10-26-combi-segura": {
+  "enviado": "2026-10-26T12:00",
+  "mensaje_id": 113
+ },
+ "2026-10-26-combi-dia": {
+  "enviado": "2026-10-26T12:00",
+  "mensaje_id": 114
+ },
+ "2026-10-26-combi-tema": {
+  "enviado": "2026-10-26T13:00",
+  "mensaje_id": 115
+ },
+ "2026-10-27-datos-manana": {
+  "enviado": "2026-10-26T15:10",
+  "mensaje_id": 117
+ },
+ "2026-10-26-datos-xg": {
+  "caducada": true
+ },
+ "2026-10-27-combi-segura": {
+  "caducada": "cancelado"
+ },
+ "2026-10-27-ganadores": {
+  "enviado": "2026-10-27T10:30",
+  "mensaje_id": 125
+ },
+ "2026-10-27-escalera": {
+  "enviado": "2026-10-27T11:00",
+  "mensaje_id": 126
+ },
+ "2026-10-27-combi-liga": {
+  "enviado": "2026-10-27T15:27",
+  "mensaje_id": 129
+ },
+ "2026-10-28-picks-manana": {
+  "enviado": "2026-10-27T23:00",
+  "mensaje_id": 141
+ },
+ "2026-10-28-ganadores": {
+  "enviado": "2026-10-28T01:00",
+  "mensaje_id": 146
+ },
+ "2026-10-28-escalera": {
+  "enviado": "2026-10-28T11:00",
+  "mensaje_id": 150
+ },
+ "2026-10-28-combi-tres": {
+  "enviado": "2026-10-28T13:30",
+  "mensaje_id": 152
+ },
+ "2026-10-28-combi-partido-1550167": {
+  "enviado": "2026-10-28T16:40",
+  "mensaje_id": 154,
+  "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550167.tarjeta.jpg"
+ },
+ "2026-10-28-combi-partido-1640387": {
+  "enviado": "2026-10-28T17:55",
+  "mensaje_id": 156,
+  "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1640387.tarjeta.jpg"
+ },
+ "2026-10-28-combi-partido-1640383": {
+  "enviado": "2026-10-28T18:25",
+  "mensaje_id": 157,
+  "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1640383.tarjeta.jpg"
+ },
+ "2026-10-28-combi-partido-1550171": {
+  "enviado": "2026-10-28T18:56",
+  "mensaje_id": 158,
+  "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550171.tarjeta.jpg"
+ },
+ "2026-10-28-combi-partido-1550172": {
+  "enviado": "2026-10-28T19:25",
+  "mensaje_id": 159,
+  "foto_tg": "publicaciones/media/2026-10-28-combi-partido-1550172.tarjeta.jpg"
+ },
+ "2026-10-29-ganadores": {
+  "enviado": "2026-10-29T01:00",
+  "mensaje_id": 164
+ },
+ "2026-10-29-combi-tres": {
+  "enviado": "2026-10-29T13:30",
+  "mensaje_id": 165
+ },
+ "2026-10-29-combi-partido-1550170": {
+  "enviado": "2026-10-29T17:30",
+  "mensaje_id": 166,
+  "foto_tg": "publicaciones/media/2026-10-29-combi-partido-1550170.tarjeta.jpg"
+ },
+ "2026-10-29-escalera": {
+  "enviado": "2026-10-29T18:23",
+  "mensaje_id": 167
+ },
+ "2026-10-29-combi-partido-1640385": {
+  "enviado": "2026-10-29T19:25",
+  "mensaje_id": 168,
+  "foto_tg": "publicaciones/media/2026-10-29-combi-partido-1640385.tarjeta.jpg"
+ },
+ "2026-10-29-combi-partido-1550169": {
+  "enviado": "2026-10-29T19:45",
+  "mensaje_id": 170,
+  "foto_tg": "publicaciones/media/2026-10-29-combi-partido-1550169.tarjeta.jpg"
+ },
+ "2026-10-30-picks-manana": {
+  "enviado": "2026-10-29T23:04",
+  "mensaje_id": 176
+ },
+ "2026-10-30-ganadores": {
+  "enviado": "2026-10-30T01:00",
+  "mensaje_id": 181
+ },
+ "2026-10-30-escalera": {
+  "enviado": "2026-10-30T11:00",
+  "mensaje_id": 182
+ },
+ "2026-10-30-combi-partido-1575211": {
+  "enviado": "2026-10-30T18:40",
+  "mensaje_id": 184,
+  "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1575211.tarjeta.jpg"
+ },
+ "2026-10-30-combi-partido-1570442": {
+  "enviado": "2026-10-30T19:10",
+  "mensaje_id": 185,
+  "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1570442.tarjeta.jpg"
+ },
+ "2026-10-30-combi-partido-1563233": {
+  "enviado": "2026-10-30T19:40",
+  "mensaje_id": 186,
+  "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1563233.tarjeta.jpg"
+ },
+ "2026-10-30-combi-partido-1552802": {
+  "enviado": "2026-10-30T20:05",
+  "mensaje_id": 187,
+  "foto_tg": "publicaciones/media/2026-10-30-combi-partido-1552802.tarjeta.jpg"
+ },
+ "2026-10-31-picks-manana": {
+  "enviado": "2026-10-30T23:00",
+  "mensaje_id": 192
+ },
+ "2026-10-31-combi-partido-1557450": {
+  "enviado": "2026-10-31T00:30",
+  "mensaje_id": 194,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1557450.tarjeta.jpg"
+ },
+ "2026-10-31-ganadores": {
+  "enviado": "2026-10-31T01:00",
+  "mensaje_id": 195
+ },
+ "2026-10-31-combi-partido-1570439": {
+  "enviado": "2026-10-31T01:30",
+  "mensaje_id": 196,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1570439.tarjeta.jpg"
+ },
+ "2026-10-31-escalera": {
+  "enviado": "2026-10-31T11:00",
+  "mensaje_id": 199
+ },
+ "2026-10-31-combi-500": {
+  "enviado": "2026-10-31T12:00",
+  "mensaje_id": 200
+ },
+ "2026-10-31-combi-tres": {
+  "enviado": "2026-10-31T13:30",
+  "mensaje_id": 201
+ },
+ "2026-10-31-combi-partido-1575204": {
+  "enviado": "2026-10-31T14:32",
+  "mensaje_id": 202,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1575204.tarjeta.jpg"
+ },
+ "2026-10-31-combi-partido-1557454": {
+  "enviado": "2026-10-31T15:00",
+  "mensaje_id": 203,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1557454.tarjeta.jpg"
+ },
+ "2026-10-31-combi-loca": {
+  "enviado": "2026-10-31T16:00",
+  "mensaje_id": 204
+ },
+ "2026-10-31-combi-partido-1550186": {
+  "enviado": "2026-10-31T16:40",
+  "mensaje_id": 205,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1550186.tarjeta.jpg"
+ },
+ "2026-10-31-combi-partido-1557456": {
+  "enviado": "2026-10-31T17:10",
+  "mensaje_id": 206,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1557456.tarjeta.jpg"
+ },
+ "2026-10-31-combi-partido-1575203": {
+  "enviado": "2026-10-31T17:30",
+  "mensaje_id": 207,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1575203.tarjeta.jpg"
+ },
+ "2026-10-31-combi-partido-1550177": {
+  "enviado": "2026-10-31T19:45",
+  "mensaje_id": 209,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1550177.tarjeta.jpg"
+ },
+ "2026-10-31-combi-partido-1552210": {
+  "enviado": "2026-10-31T20:00",
+  "mensaje_id": 211,
+  "foto_tg": "publicaciones/media/2026-10-31-combi-partido-1552210.tarjeta.jpg"
+ },
+ "2026-11-01-picks-manana": {
+  "enviado": "2026-10-31T23:00",
+  "mensaje_id": 214
+ },
+ "2026-11-01-combi-partido-1557453": {
+  "enviado": "2026-11-01T00:30",
+  "mensaje_id": 216,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1557453.tarjeta.jpg"
+ },
+ "2026-11-01-ganadores": {
+  "enviado": "2026-11-01T01:00",
+  "mensaje_id": 217
+ },
+ "2026-11-01-combi-partido-1575534": {
+  "enviado": "2026-11-01T01:30",
+  "mensaje_id": 218,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1575534.tarjeta.jpg"
+ },
+ "2026-11-01-escalera": {
+  "enviado": "2026-11-01T11:00",
+  "mensaje_id": 219
+ },
+ "2026-11-01-combi-tres": {
+  "enviado": "2026-11-01T13:30",
+  "mensaje_id": 220
+ },
+ "2026-11-01-combi-partido-1550183": {
+  "enviado": "2026-11-01T14:00",
+  "mensaje_id": 221,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1550183.tarjeta.jpg"
+ },
+ "2026-11-01-combi-partido-1575207": {
+  "enviado": "2026-11-01T14:30",
+  "mensaje_id": 222,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1575207.tarjeta.jpg"
+ },
+ "2026-11-01-combi-partido-1570440": {
+  "enviado": "2026-11-01T15:15",
+  "mensaje_id": 223,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1570440.tarjeta.jpg"
+ },
+ "2026-11-01-combi-partido-1570437": {
+  "enviado": "2026-11-01T17:30",
+  "mensaje_id": 224,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1570437.tarjeta.jpg"
+ },
+ "2026-11-01-combi-partido-1550182": {
+  "enviado": "2026-11-01T19:25",
+  "mensaje_id": 225,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1550182.tarjeta.jpg"
+ },
+ "2026-11-01-combi-partido-1570433": {
+  "enviado": "2026-11-01T20:00",
+  "mensaje_id": 227,
+  "foto_tg": "publicaciones/media/2026-11-01-combi-partido-1570433.tarjeta.jpg"
+ },
+ "2026-11-02-combi-partido-1557455": {
+  "enviado": "2026-11-02T00:30",
+  "mensaje_id": 230,
+  "foto_tg": "publicaciones/media/2026-11-02-combi-partido-1557455.tarjeta.jpg"
+ },
+ "2026-11-02-ganadores": {
+  "enviado": "2026-11-02T01:00",
+  "mensaje_id": 231
+ },
+ "2026-11-02-pick-seguro": {
+  "enviado": "2026-11-02T10:30",
+  "mensaje_id": 232
+ },
+ "2026-11-02-escalera": {
+  "enviado": "2026-11-02T11:00",
+  "mensaje_id": 234
+ },
+ "2026-11-02-combi-tres": {
+  "enviado": "2026-11-02T13:30",
+  "mensaje_id": 235
+ },
+ "2026-11-02-combi-partido-1570436": {
+  "enviado": "2026-11-02T19:10",
+  "mensaje_id": 236,
+  "foto_tg": "publicaciones/media/2026-11-02-combi-partido-1570436.tarjeta.jpg"
+ },
+ "2026-11-02-combi-partido-1569998": {
+  "enviado": "2026-11-02T19:40",
+  "mensaje_id": 237,
+  "foto_tg": "publicaciones/media/2026-11-02-combi-partido-1569998.tarjeta.jpg"
+ },
+ "2026-11-03-picks-manana": {
+  "enviado": "2026-11-02T23:00",
+  "mensaje_id": 239
+ },
+ "2026-11-03-combi-partido-1635662": {
+  "enviado": "2026-11-03T00:30",
+  "mensaje_id": 244,
+  "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635662.tarjeta.jpg"
+ },
+ "2026-11-03-ganadores": {
+  "enviado": "2026-11-03T01:00",
+  "mensaje_id": 245
+ },
+ "2026-11-03-pick-seguro": {
+  "enviado": "2026-11-03T10:30",
+  "mensaje_id": 248
+ },
+ "2026-11-03-escalera": {
+  "enviado": "2026-11-03T11:00",
+  "mensaje_id": 249
+ },
+ "2026-11-03-combi-tres": {
+  "enviado": "2026-11-03T13:42",
+  "mensaje_id": 252
+ },
+ "2026-11-03-lista-europa-2": {
+  "enviado": "2026-11-03T15:00",
+  "mensaje_id": 254
+ },
+ "2026-11-03-combi-partido-1635622": {
+  "caducada": "cancelado"
+ },
+ "2026-11-03-combi-partido-1635677": {
+  "enviado": "2026-11-03T20:25",
+  "mensaje_id": 266,
+  "foto_tg": "publicaciones/media/2026-11-03-combi-partido-1635677.tarjeta.jpg"
+ },
+ "2026-11-04-combi-partido-1635656": {
+  "enviado": "2026-11-04T00:30",
+  "mensaje_id": 274,
+  "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635656.tarjeta.jpg"
+ },
+ "2026-11-04-ganadores": {
+  "enviado": "2026-11-04T01:00",
+  "mensaje_id": 275
+ },
+ "2026-11-04-combi-partido-1635681": {
+  "enviado": "2026-11-04T01:30",
+  "mensaje_id": 276,
+  "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635681.tarjeta.jpg"
+ },
+ "2026-11-04-pick-seguro": {
+  "enviado": "2026-11-04T10:30",
+  "mensaje_id": 277
+ },
+ "2026-11-04-escalera": {
+  "enviado": "2026-11-04T11:00",
+  "mensaje_id": 278
+ },
+ "2026-11-04-lista-europa-1": {
+  "enviado": "2026-11-04T12:00",
+  "mensaje_id": 279
+ },
+ "2026-11-04-combi-tres": {
+  "enviado": "2026-11-04T13:30",
+  "mensaje_id": 283
+ },
+ "2026-11-04-combi-multi": {
+  "enviado": "2026-11-04T14:38",
+  "mensaje_id": 284
+ },
+ "2026-11-04-lista-europa-2": {
+  "enviado": "2026-11-04T15:00",
+  "mensaje_id": 285
+ },
+ "2026-11-04-combi-loca": {
+  "enviado": "2026-11-04T16:00",
+  "mensaje_id": 286
+ },
+ "2026-11-04-combi-partido-1635745": {
+  "enviado": "2026-11-04T20:25",
+  "mensaje_id": 289,
+  "foto_tg": "publicaciones/media/2026-11-04-combi-partido-1635745.tarjeta.jpg"
+ },
+ "2026-11-04-estrella-1635656": {
+  "enviado": "2026-11-04T20:25",
+  "mensaje_id": 290
+ },
+ "2026-11-04-estrella-1635651": {
+  "enviado": "2026-11-04T20:25",
+  "mensaje_id": 291
+ },
+ "2026-11-05-ganadores": {
+  "enviado": "2026-11-05T01:00",
+  "mensaje_id": 295
+ },
+ "2026-11-05-pick-seguro": {
+  "enviado": "2026-11-05T10:30",
+  "mensaje_id": 296
+ },
+ "2026-11-05-escalera": {
+  "enviado": "2026-11-05T11:00",
+  "mensaje_id": 297
+ },
+ "2026-11-05-lista-europa-1": {
+  "enviado": "2026-11-05T12:00",
+  "mensaje_id": 298
+ },
+ "2026-11-05-combi-tres": {
+  "enviado": "2026-11-05T13:30",
+  "mensaje_id": 300
+ },
+ "2026-11-05-combi-multi": {
+  "enviado": "2026-11-05T14:41",
+  "mensaje_id": 301
+ },
+ "2026-11-05-lista-europa-2": {
+  "enviado": "2026-11-05T15:00",
+  "mensaje_id": 302
+ },
+ "2026-11-05-combi-loca": {
+  "enviado": "2026-11-05T16:00",
+  "mensaje_id": 303
+ },
+ "2026-11-05-lista-europa-3": {
+  "enviado": "2026-11-05T17:30",
+  "mensaje_id": 304
+ },
+ "2026-11-05-combi-partido-1636383": {
+  "enviado": "2026-11-05T17:53",
+  "mensaje_id": 305,
+  "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636383.tarjeta.jpg"
+ },
+ "2026-11-05-combi-partido-1636254": {
+  "enviado": "2026-11-05T18:10",
+  "mensaje_id": 306,
+  "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636254.tarjeta.jpg"
+ },
+ "2026-11-05-combi-partido-1636229": {
+  "enviado": "2026-11-05T20:25",
+  "mensaje_id": 307,
+  "foto_tg": "publicaciones/media/2026-11-05-combi-partido-1636229.tarjeta.jpg"
+ },
+ "2026-11-05-estrella-1636223": {
+  "enviado": "2026-11-05T20:25",
+  "mensaje_id": 308
+ },
+ "2026-11-05-estrella-1636219": {
+  "enviado": "2026-11-05T20:25",
+  "mensaje_id": 309
+ },
+ "2026-11-06-ganadores": {
+  "enviado": "2026-11-06T01:00",
+  "mensaje_id": 314
+ },
+ "2026-11-06-escalera": {
+  "enviado": "2026-11-06T11:00",
+  "mensaje_id": 315
+ },
+ "2026-11-06-semana-europa-resultado": {
+  "enviado": "2026-11-06T12:00",
+  "mensaje_id": 316
+ },
+ "2026-11-06-combi-tres": {
+  "enviado": "2026-11-06T13:30",
+  "mensaje_id": 317
+ },
+ "2026-11-06-combi-multi": {
+  "enviado": "2026-11-06T14:35",
+  "mensaje_id": 318
+ },
+ "2026-11-06-combi-loca": {
+  "enviado": "2026-11-06T16:00",
+  "mensaje_id": 319
+ },
+ "2026-11-06-combi-partido-1570450": {
+  "enviado": "2026-11-06T20:00",
+  "mensaje_id": 320,
+  "foto_tg": "publicaciones/media/2026-11-06-combi-partido-1570450.tarjeta.jpg"
+ },
+ "2026-11-06-combi-partido-1575539": {
+  "enviado": "2026-11-06T20:45",
+  "mensaje_id": 321,
+  "foto_tg": "publicaciones/media/2026-11-06-combi-partido-1575539.tarjeta.jpg"
+ },
+ "2026-11-07-picks-manana": {
+  "enviado": "2026-11-06T23:00",
+  "mensaje_id": 324
+ },
+ "2026-11-07-ganadores": {
+  "enviado": "2026-11-07T01:00",
+  "mensaje_id": 327
+ },
+ "2026-11-07-pick-seguro": {
+  "enviado": "2026-11-07T10:32",
+  "mensaje_id": 328
+ },
+ "2026-11-07-escalera": {
+  "enviado": "2026-11-07T11:00",
+  "mensaje_id": 329
+ },
+ "2026-11-07-combi-500": {
+  "enviado": "2026-11-07T12:00",
+  "mensaje_id": 330
+ },
+ "2026-11-07-combi-partido-1557463": {
+  "enviado": "2026-11-07T12:55",
+  "mensaje_id": 331,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1557463.tarjeta.jpg"
+ },
+ "2026-11-07-combi-tres": {
+  "enviado": "2026-11-07T13:30",
+  "mensaje_id": 332
+ },
+ "2026-11-07-combi-partido-1575212": {
+  "enviado": "2026-11-07T13:40",
+  "mensaje_id": 333,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1575212.tarjeta.jpg"
+ },
+ "2026-11-07-combi-partido-1557457": {
+  "enviado": "2026-11-07T14:10",
+  "mensaje_id": 334,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1557457.tarjeta.jpg"
+ },
+ "2026-11-07-combi-multi": {
+  "enviado": "2026-11-07T14:30",
+  "mensaje_id": 335
+ },
+ "2026-11-07-combi-partido-1557461": {
+  "enviado": "2026-11-07T14:40",
+  "mensaje_id": 336,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1557461.tarjeta.jpg"
+ },
+ "2026-11-07-combi-partido-1570005": {
+  "enviado": "2026-11-07T15:15",
+  "mensaje_id": 337,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1570005.tarjeta.jpg"
+ },
+ "2026-11-07-estrella-1557457": {
+  "enviado": "2026-11-07T15:25",
+  "mensaje_id": 338
+ },
+ "2026-11-07-combi-loca": {
+  "enviado": "2026-11-07T16:00",
+  "mensaje_id": 339
+ },
+ "2026-11-07-combi-partido-1570448": {
+  "enviado": "2026-11-07T17:55",
+  "mensaje_id": 341,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1570448.tarjeta.jpg"
+ },
+ "2026-11-07-estrella-1557465": {
+  "enviado": "2026-11-07T17:55",
+  "mensaje_id": 342
+ },
+ "2026-11-07-combi-partido-1550187": {
+  "enviado": "2026-11-07T20:10",
+  "mensaje_id": 345,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1550187.tarjeta.jpg"
+ },
+ "2026-11-07-combi-partido-1552815": {
+  "enviado": "2026-11-07T20:30",
+  "mensaje_id": 347,
+  "foto_tg": "publicaciones/media/2026-11-07-combi-partido-1552815.tarjeta.jpg"
+ },
+ "2026-11-08-picks-manana": {
+  "enviado": "2026-11-07T23:00",
+  "mensaje_id": 348
+ },
+ "2026-11-08-ganadores": {
+  "enviado": "2026-11-08T01:00",
+  "mensaje_id": 350
+ },
+ "2026-11-08-pick-seguro": {
+  "enviado": "2026-11-08T10:32",
+  "mensaje_id": 351
+ },
+ "2026-11-08-escalera": {
+  "enviado": "2026-11-08T11:00",
+  "mensaje_id": 352
+ },
+ "2026-11-08-combi-partido-1552221": {
+  "enviado": "2026-11-08T11:40",
+  "mensaje_id": 353,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1552221.tarjeta.jpg"
+ },
+ "2026-11-08-combi-partido-1550193": {
+  "enviado": "2026-11-08T11:55",
+  "mensaje_id": 354,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550193.tarjeta.jpg"
+ },
+ "2026-11-08-combi-tres": {
+  "enviado": "2026-11-08T13:30",
+  "mensaje_id": 355
+ },
+ "2026-11-08-combi-partido-1552222": {
+  "enviado": "2026-11-08T13:57",
+  "mensaje_id": 356,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1552222.tarjeta.jpg"
+ },
+ "2026-11-08-combi-partido-1550190": {
+  "enviado": "2026-11-08T14:00",
+  "mensaje_id": 357,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550190.tarjeta.jpg"
+ },
+ "2026-11-08-combi-multi": {
+  "enviado": "2026-11-08T14:30",
+  "mensaje_id": 361
+ },
+ "2026-11-08-combi-loca": {
+  "enviado": "2026-11-08T16:00",
+  "mensaje_id": 362
+ },
+ "2026-11-08-estrella-1557464": {
+  "enviado": "2026-11-08T16:55",
+  "mensaje_id": 364,
+  "foto_tg": "publicaciones/media/2026-11-08-estrella-1557464.tarjeta.jpg"
+ },
+ "2026-11-08-combi-partido-1570011": {
+  "enviado": "2026-11-08T17:30",
+  "mensaje_id": 365,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1570011.tarjeta.jpg"
+ },
+ "2026-11-08-combi-partido-1575544": {
+  "enviado": "2026-11-08T18:00",
+  "mensaje_id": 366,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1575544.tarjeta.jpg"
+ },
+ "2026-11-08-combi-partido-1550189": {
+  "enviado": "2026-11-08T19:45",
+  "mensaje_id": 367,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1550189.tarjeta.jpg"
+ },
+ "2026-11-08-estrella-1570443": {
+  "enviado": "2026-11-08T20:25",
+  "mensaje_id": 368,
+  "foto_tg": "publicaciones/media/2026-11-08-estrella-1570443.tarjeta.jpg"
+ },
+ "2026-11-08-combi-partido-1575538": {
+  "enviado": "2026-11-08T20:30",
+  "mensaje_id": 369,
+  "foto_tg": "publicaciones/media/2026-11-08-combi-partido-1575538.tarjeta.jpg"
+ },
+ "2026-11-09-escalera": {
+  "enviado": "2026-11-09T12:53",
+  "mensaje_id": 375
+ },
+ "2026-11-09-combi-tres": {
+  "enviado": "2026-11-09T13:30",
+  "mensaje_id": 376
+ },
+ "2026-11-09-combi-loca": {
+  "enviado": "2026-11-09T16:19",
+  "mensaje_id": 377
+ },
+ "2026-11-09-combi-partido-1565299": {
+  "enviado": "2026-11-09T18:01",
+  "mensaje_id": 378,
+  "foto_tg": "publicaciones/media/2026-11-09-combi-partido-1565299.tarjeta.jpg"
+ },
+ "2026-11-09-combi-partido-1570011": {
+  "enviado": "2026-11-09T19:47",
+  "mensaje_id": 380,
+  "foto_tg": "publicaciones/media/2026-11-09-combi-partido-1570011.tarjeta.jpg"
+ },
+ "2026-11-10-pick-seguro": {
+  "enviado": "2026-11-10T10:30",
+  "mensaje_id": 384
+ }
 }

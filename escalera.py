@@ -251,11 +251,40 @@ def main():
         # si el escalón aún no ha empezado, se actualizan cuotas/picks con los datos nuevos
         act = estado["actual"]
         primero = min(p["fecha"] for p in act["picks"])
-        publicado = f"{act['dia']}-escalera" in (leer(DATOS.parent / "publicaciones" / "enviados.json", {}) or {})
-        if not publicado and primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M") and act["dia"] in picks["dias"]:
-            elegido = elegir(picks["dias"][act["dia"]], fecha=act["dia"])
-            if elegido:
+        env_ruta = DATOS.parent / "publicaciones" / "enviados.json"
+        enviados = leer(env_ruta, {}) or {}
+        reg = enviados.get(f"{act['dia']}-escalera") or {}
+        publicado = bool(reg.get("enviado") or reg.get("mensaje_id"))   # 10/11: «caducada» no es publicada
+        # 10/11: si el partido del escalón se ha movido de día o aplazado (Badajoz–Tenerife → 18/11) y aún no ha
+        # salido, se elige otro para ese mismo día (la escalera sale todos los días)
+        movido = False
+        try:
+            from bot import fechas_calendario
+            cal = fechas_calendario()
+        except Exception:
+            cal = {}
+        for p in act["picks"]:
+            pa = (leer(DATOS / "proximos" / f"{p['partido_id']}.json", {}) or {}).get("partido") or {}
+            f = (pa.get("fixture") or {})
+            nueva = cal.get(str(p["partido_id"])) or f.get("date")
+            if f.get("status", {}).get("short") in ("PST", "CANC", "SUSP") or (
+                    nueva and datetime.fromisoformat(str(nueva)).astimezone(MADRID).strftime("%Y-%m-%d") != act["dia"]):
+                movido = True
+        if not publicado and (movido or primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")):
+            dia_datos = picks["dias"].get(act["dia"]) or {"picks": [], "mejores_por_partido": []}
+            elegido = elegir(dia_datos, fecha=act["dia"])
+            if elegido and (movido or act["dia"] in picks["dias"]):
                 act["picks"], act["cuota"] = elegido[1], elegido[2]
+                if movido:
+                    ahora = datetime.now(MADRID)
+                    if ahora.strftime("%Y-%m-%d") == act["dia"]:
+                        act["hora"] = (ahora + timedelta(minutes=15)).strftime("%H:%M")
+                    if reg.get("caducada"):   # que pueda salir el nuevo
+                        enviados.pop(f"{act['dia']}-escalera", None)
+                        env_ruta.write_text(json.dumps(enviados, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+                    print(f"Escalera: partido movido, nuevo escalón x{act['cuota']}")
+            elif movido:
+                print("Escalera: partido movido y no hay otro pick que valga hoy")
             elif any(es_sin_empate(p["mercado"], p["opcion"]) for p in act["picks"]):
                 estado["actual"] = None
 

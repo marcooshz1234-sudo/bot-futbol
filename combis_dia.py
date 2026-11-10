@@ -188,6 +188,16 @@ def pool_partido(ex, hist, ap):
     pa = ex.get("partido")
     if not pa or pa["fixture"]["status"]["short"] not in ("NS", "TBD"):
         return []
+    try:   # 10/11: si el calendario dice que el partido se ha movido a otro día (Badajoz–Tenerife → 18/11), fuera
+        global _CAL
+        if "_CAL" not in globals():
+            from bot import fechas_calendario
+            _CAL = fechas_calendario()
+        nueva = _CAL.get(str(pa["fixture"]["id"]))
+        if nueva and str(nueva)[:10] != pa["fixture"]["date"][:10]:
+            return []
+    except Exception:
+        pass
     from bot import partidos_fuera
     if pa["fixture"]["id"] in partidos_fuera():   # 08/11 (Marcos): partido bloqueado en bet365
         return []
