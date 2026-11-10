@@ -3939,14 +3939,14 @@
       1.6
     ],
     "tarjeta": {
-      "local": "Real Madrid W",
-      "visitante": "Paris FC W",
+      "local": "Real Madrid (fem.)",
+      "visitante": "Paris FC (fem.)",
       "id_l": 15224,
       "id_v": 1676,
       "logo_l": "https://media.api-sports.io/football/teams/15224.png",
       "logo_v": "https://media.api-sports.io/football/teams/1676.png",
       "fecha": "2026-11-10T18:45",
-      "liga": "Champions Femenina"
+      "liga": "Champions femenina"
     }
   }
 ]
