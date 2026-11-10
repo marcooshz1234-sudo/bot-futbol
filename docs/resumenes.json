@@ -1543,11 +1543,11 @@
     "total": 6,
     "cuentas": {
       "verde": 1,
-      "rojo": 2,
+      "rojo": 3,
       "pendiente": 0,
-      "sin_datos": 3,
+      "sin_datos": 2,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -1571,7 +1571,7 @@
       {
         "id": "2026-11-10-pick-paris-fc",
         "titulo": "Os dejo un pick para la Champions femenina 🔥",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1588,10 +1588,10 @@
       }
     ],
     "picks": {
-      "verde": 8,
-      "rojo": 2,
+      "verde": 9,
+      "rojo": 6,
       "total": 21
     },
-    "texto": "📊 BALANCE DEL MARTES: 1 DE 3 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❔ Vamos con el pick de hoy familia 🔥 · faltan datos\n❔ 🪜 Reto escalera · Día 1/7 · faltan datos\n❔ Os dejo un pick para la Champions femenina 🔥 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n✅ Vamos con un pick para la Champions femenina 🔥\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 1 DE 4 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❔ Vamos con el pick de hoy familia 🔥 · faltan datos\n❔ 🪜 Reto escalera · Día 1/7 · faltan datos\n❌ Os dejo un pick para la Champions femenina 🔥\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n✅ Vamos con un pick para la Champions femenina 🔥\n\n✅ 1 acertadas · ❌ 3 falladas · ⏳ 2 sin resolver"
   }
 }
