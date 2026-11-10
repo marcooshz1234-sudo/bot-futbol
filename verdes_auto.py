@@ -71,6 +71,16 @@ def main():
         if not terminados and minutos < ESPERA_MIN:
             continue
         # 07/11 (Marcos): con una pata anulada (partido aplazado) bet365 paga sin ella: la cuota se rehace
+        # 10/11 (Marcos: «si sale acertado, que ponga la cuota de la publicación que hemos hecho»): los picks no
+        # traen la cuota en el título; se saca del post publicado («🍀 … @1,57» / «Cuota @x») o de las patas
+        orig_txt = (originales.get(p["id"]) or {}).get("texto") or ""
+        if not p.get("cuota"):
+            m = re.search(r"^🍀 [^\n]*@(\d+,\d+)", orig_txt, re.M) or re.search(r"Cuota @(\d+,\d+)", orig_txt)
+            if m:
+                p = dict(p, cuota=float(m.group(1).replace(",", ".")))
+            elif p.get("picks") and all(x.get("cuota") for x in p["picks"]):
+                import math
+                p = dict(p, cuota=round(math.prod(float(x["cuota"]) for x in p["picks"]), 2))
         p = dict(p, cuota=cuota_real(p))
         anuladas = [x for x in p.get("picks", []) if x.get("estado") == "anulada"]
         x = f" x{num(p['cuota'])}" if p.get("cuota") else ""   # 26/10: la cuota en la primera línea
@@ -85,6 +95,12 @@ def main():
         # 09/11 (Marcos: «parecemos un bot»): como los tipsters de verdad: corto y con alegría
         frases = ["Otra más pa' la saca familia 😎", "A cobrar señores 🤑", "Seguimos sumando 📈",
                   "¿Quién la llevaba? 👇💚"]
+        # 10/11: en un pick suelto, el pick tal cual lo publicamos («Inter (fem.) marca», no «Inter Milano W marca»)
+        trebol = re.search(r"^🍀 ([^\n@]+?)\s*@", orig_txt, re.M)
+        if len(legs) == 1 and len(p.get("picks") or []) == 1 and trebol:
+            legs = [dict(legs[0], texto=trebol.group(1).strip())]
+            p = dict(p, picks=legs)   # también en la imagen del ticket
+        legs = [dict(x, texto=re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", x["texto"])) for x in legs]
         texto = "PARA DENTRO SEÑORES ✅🤑" + ("\n\n📲 Montada en bet365, partido a partido 👇" if boleto else
                                             "\n\n" + "\n".join(f"✅ {x['texto']}" for x in legs))
         if anuladas and not boleto:

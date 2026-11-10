@@ -4060,9 +4060,21 @@
     }
   },
   {
+    "id": "2026-11-10-verde-auto-2026-11-10-pick-inter-fem",
+    "fecha": "2026-11-10T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Inter (fem.) marca\n\n📈 Cuota @1,57\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-10-verde-auto-2026-11-10-pick-inter-fem.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-10-pick-inter-fem",
+    "requiere_ok": true
+  },
+  {
     "id": "2026-11-10-verde-auto-2026-11-10-pick-seguro",
-    "fecha": "2026-11-10T22:58",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Real Jaén\n\nA cobrar señores 🤑",
+    "fecha": "2026-11-10T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Real Jaén\n\n📈 Cuota @1,75\n\nA cobrar señores 🤑",
     "foto": "publicaciones/media/2026-11-10-verde-auto-2026-11-10-pick-seguro.tarjeta.jpg",
     "origen": "bot",
     "directo": true,
@@ -4070,18 +4082,5 @@
     "resultado": "verde",
     "verde_de": "2026-11-10-pick-seguro",
     "requiere_ok": true
-  },
-  {
-    "id": "2026-11-10-verde-auto-2026-11-10-pick-inter-fem",
-    "fecha": "2026-11-10T23:07",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Inter Milano W marca\n\n¿Quién la llevaba? 👇💚",
-    "foto": "publicaciones/media/2026-11-10-verde-auto-2026-11-10-pick-inter-fem.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-10-pick-inter-fem",
-    "requiere_ok": true,
-    "caducada": "cancelado"
   }
 ]
