@@ -393,153 +393,6 @@
     ]
    }
   },
-  "1552223": {
-   "hora": "2026-11-08T19:32:20.935773+01:00",
-   "xi": [
-    "V. Barkas",
-    "N. Vesterlund",
-    "M. Didden",
-    "N. Panagiotou",
-    "P. Kloosterboer",
-    "M. Broholm",
-    "J. van Overeem",
-    "D. de Wit",
-    "Ángel Alarcón",
-    "Artem Stepanov",
-    "Y. Cathline",
-    "G. Crettaz",
-    "Gabriel Brás",
-    "A. Kaplan",
-    "Deveron Fonville",
-    "Kevin Kers",
-    "D. Nejašmić",
-    "N. Lebreton",
-    "M. Bakker",
-    "T. Chery",
-    "D. Tadić",
-    "B. Linssen"
-   ],
-   "banquillo": [
-    "O. Agougil",
-    "N. Amrabat",
-    "A. Blake",
-    "K. Gadellaa",
-    "S. Horemans",
-    "J. Medić",
-    "G. Offerhaus",
-    "N. Ogidi Nwankwo",
-    "S. Padt",
-    "D. van den Berg",
-    "S. van Duijn",
-    "A. Zagré",
-    "W. Willumsson",
-    "Almugera Raouf Mohammed Kabar",
-    "Jamiro Monteiro",
-    "Y. Moslih",
-    "N. Polster",
-    "P. Sandler",
-    "K. Sierhuis",
-    "T. Storm",
-    "Adam Tahaui",
-    "A. Thomas",
-    "Clement Bischoff",
-    "I. Hansen-Aarøen"
-   ],
-   "equipos": {
-    "207": [
-     {
-      "n": "V. Barkas",
-      "pos": "G"
-     },
-     {
-      "n": "N. Vesterlund",
-      "pos": "D"
-     },
-     {
-      "n": "M. Didden",
-      "pos": "D"
-     },
-     {
-      "n": "N. Panagiotou",
-      "pos": "D"
-     },
-     {
-      "n": "P. Kloosterboer",
-      "pos": "D"
-     },
-     {
-      "n": "M. Broholm",
-      "pos": "M"
-     },
-     {
-      "n": "J. van Overeem",
-      "pos": "M"
-     },
-     {
-      "n": "D. de Wit",
-      "pos": "M"
-     },
-     {
-      "n": "Ángel Alarcón",
-      "pos": "F"
-     },
-     {
-      "n": "Artem Stepanov",
-      "pos": "F"
-     },
-     {
-      "n": "Y. Cathline",
-      "pos": "F"
-     }
-    ],
-    "413": [
-     {
-      "n": "G. Crettaz",
-      "pos": "G"
-     },
-     {
-      "n": "Gabriel Brás",
-      "pos": "D"
-     },
-     {
-      "n": "A. Kaplan",
-      "pos": "D"
-     },
-     {
-      "n": "Deveron Fonville",
-      "pos": "D"
-     },
-     {
-      "n": "Kevin Kers",
-      "pos": "M"
-     },
-     {
-      "n": "D. Nejašmić",
-      "pos": "M"
-     },
-     {
-      "n": "N. Lebreton",
-      "pos": "M"
-     },
-     {
-      "n": "M. Bakker",
-      "pos": "M"
-     },
-     {
-      "n": "T. Chery",
-      "pos": "M"
-     },
-     {
-      "n": "D. Tadić",
-      "pos": "M"
-     },
-     {
-      "n": "B. Linssen",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1550189": {
    "hora": "2026-11-08T20:21:06.595962+01:00",
    "xi": [
@@ -2015,25 +1868,25 @@
    "equipos": {}
   },
   "1638308": {
-   "hora": "2026-11-10T19:25:17.374780+01:00",
+   "hora": "2026-11-10T19:35:46.073117+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1638291": {
-   "hora": "2026-11-10T19:25:17.374780+01:00",
+   "hora": "2026-11-10T19:35:46.073117+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644380": {
-   "hora": "2026-11-10T19:25:17.374780+01:00",
+   "hora": "2026-11-10T19:35:46.073117+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1638328": {
-   "hora": "2026-11-10T19:25:17.374780+01:00",
+   "hora": "2026-11-10T19:35:46.073117+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
