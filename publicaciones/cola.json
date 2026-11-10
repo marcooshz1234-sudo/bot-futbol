@@ -4082,6 +4082,17 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-10-pick-seguro",
-    "requiere_ok": true
+    "requiere_ok": true,
+    "caducada": "cancelado"
+  },
+  {
+    "id": "2026-11-10-balance-auto",
+    "fecha": "2026-11-10T23:15",
+    "texto": "📊 BALANCE DEL MARTES · 15 DE 21 PICKS EN VERDE 🍀\n\n🎯 71 % de acierto\n✅ 15 acertados · ❌ 6 fallados\n\n🔥 Lo mejor: goles 5/8\n⚽ Ganadores: 10/13\n\n🔔 Mañana más picks: activad las notificaciones 👀\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
