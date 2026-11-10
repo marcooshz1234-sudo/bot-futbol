@@ -3924,5 +3924,29 @@
     "redes": {
       "threads": "18249678202312853"
     }
+  },
+  {
+    "id": "2026-11-10-pick-paris-fc",
+    "fecha": "2026-11-10T13:01",
+    "texto": "Os dejo un pick para la Champions femenina 🔥\n\n⭐ Real Madrid (fem.) – Paris FC (fem.) · 18:45\n\n🍀 Paris FC (fem.) hándicap asiático +1,5/+2 @1,60\n🧠 Stake 3/10\n\n👨‍💻 Si el Paris FC no pierde por 2 o más, ganamos. Si pierde por 2 justos, nos devuelven la mitad\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1638332|Asian Handicap|Away +1.75"
+    ],
+    "cuotas": [
+      1.6
+    ],
+    "tarjeta": {
+      "local": "Real Madrid W",
+      "visitante": "Paris FC W",
+      "id_l": 15224,
+      "id_v": 1676,
+      "logo_l": "https://media.api-sports.io/football/teams/15224.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1676.png",
+      "fecha": "2026-11-10T18:45",
+      "liga": "Champions Femenina"
+    }
   }
 ]

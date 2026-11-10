@@ -116,5 +116,17 @@
    0,
    0
   ]
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "dia": "2026-11-10",
+  "local": "Real Madrid W",
+  "visitante": "Paris FC W",
+  "texto": "Paris FC (fem.) hándicap asiático +1,5/+2",
+  "mercado": "Asian Handicap",
+  "opcion": "Away +1.75",
+  "cuota": 1.6,
+  "argumento": [],
+  "partido_id": 1638332
  }
 ]
