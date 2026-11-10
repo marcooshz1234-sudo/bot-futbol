@@ -3956,5 +3956,30 @@
       "threads": "18121324340065854",
       "instagram": "18122712505952801"
     }
+  },
+  {
+    "id": "2026-11-10-pick-inter-fem",
+    "fecha": "2026-11-10T20:44",
+    "texto": "Vamos con un pick para la Champions femenina 🔥\n\n⭐ Inter (fem.) – Manchester City (fem.) · 21:00\n\n🍀 Inter (fem.) marca @1,57\n🧠 Stake 4/10\n\n👨‍💻 El Inter juega en casa y bet365 paga el «ambos marcan» a solo 1,67: el gol del Inter lo ven probable\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1638308|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "tarjeta": {
+      "local": "Inter (fem.)",
+      "visitante": "Manchester City (fem.)",
+      "id_l": 7533,
+      "id_v": 1854,
+      "logo_l": "https://media.api-sports.io/football/teams/7533.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1854.png",
+      "fecha": "2026-11-10T21:00",
+      "liga": "Champions femenina"
+    },
+    "nota": "Marcos 10/11 20:42: «sube una ya»"
   }
 ]
