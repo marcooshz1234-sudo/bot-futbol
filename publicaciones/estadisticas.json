@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-10 23:45",
+ "actualizado": "2026-11-11 00:03",
  "redes": {
   "instagram": {
    "seguidores": 36,
    "hoy": 0,
    "serie": [
-    24,
     25,
     27,
     33,
     35,
     36,
+    36,
     36
    ]
   },
   "threads": {
-   "seguidores": 2593,
-   "hoy": 234,
+   "seguidores": 2594,
+   "hoy": 1,
    "serie": [
-    1638,
     1906,
     2004,
     2126,
     2231,
     2359,
-    2593
+    2593,
+    2594
    ]
   },
   "facebook": {
@@ -33,7 +33,7 @@
    "serie": [
     0,
     0,
-    0,
+    1,
     1,
     1,
     1,
@@ -41,31 +41,28 @@
    ]
   },
   "telegram": {
-   "seguidores": 378,
-   "hoy": 18,
+   "seguidores": 377,
+   "hoy": -1,
    "serie": [
-    245,
     277,
     294,
     307,
     331,
     360,
-    378
+    378,
+    377
    ]
   }
  },
  "total": 3008,
- "total_hoy": 252,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
   "hora": "02:00",
   "dia": "2026-11-11",
   "titulo": "Partidos de hoy - ganadores"
  },
- "ayer": {
-  "aciertos": 2,
-  "total": 2
- },
+ "ayer": null,
  "escalera": {
   "dia": 1,
   "de": 7,
@@ -183,6 +180,12 @@
    "threads": 2593,
    "facebook": 1,
    "telegram": 378
+  },
+  "2026-11-11": {
+   "instagram": 36,
+   "threads": 2594,
+   "facebook": 1,
+   "telegram": 377
   }
  },
  "tipos_instagram": {
