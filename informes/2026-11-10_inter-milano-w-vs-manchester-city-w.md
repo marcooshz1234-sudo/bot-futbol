@@ -1,20 +1,20 @@
 # Inter Milano W – Manchester City W
 **Champions Femenina** · League Stage - 4 · 10/11/2026 21:00 (hora España) · Felice Chinetti Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
 - **1X2:** 1 **6.50**  ·  X **5.50**  ·  2 **1.36**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.12**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **5.50**
+    - 1,5: más **1.14** · menos **5.00**
     - 2,5: más **1.44** · menos **2.62**
     - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.50** · menos **1.28**
-    - 5,5: más **6.00** · menos **1.11**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.10**
     - 6,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**

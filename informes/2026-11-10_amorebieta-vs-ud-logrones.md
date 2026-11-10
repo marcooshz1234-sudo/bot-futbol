@@ -1,13 +1,13 @@
 # Amorebieta – UD Logroñés
-**Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España) · Campo Municipal de Urritxe
+**Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España) · Instalaciones de Lezama
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
-- **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **2.10**
-- **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.33**
+- **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.20**
+- **Doble oportunidad:** 1X **1.70**  ·  12 **1.28**  ·  X2 **1.30**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
@@ -21,27 +21,27 @@ _Actualizadas: 10/11 08:14_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **1X2 descanso:** 1 **3.75**  ·  X **2.25**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.00** · menos **1.22**
+    - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **2.10**  ·  2 **1.62**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **3.25**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.57**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.25**
 - **Win Both Halves:** 1 **13.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.00**  ·  Draw/No **11.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.50**  ·  Draw/No **11.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | Amorebieta (total) | Amorebieta en casa | UD Logroñés (total) | UD Logroñés fuera |

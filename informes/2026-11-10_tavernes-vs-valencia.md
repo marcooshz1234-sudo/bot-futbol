@@ -1,13 +1,13 @@
 # Tavernes – Valencia
 **Copa del Rey** · Round of 128 · 10/11/2026 21:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
-- **1X2:** 1 **67.00**  ·  X **26.00**  ·  2 **1.00**
-- **Doble oportunidad:** 1X **51.00**  ·  12 **1.01**  ·  X2 **1.00**
+- **1X2:** 1 **67.00**  ·  X **34.00**  ·  2 **1.00**
+- **Doble oportunidad:** 1X **41.00**  ·  12 **1.00**  ·  X2 **1.00**
 - **Ambos marcan:** Sí **2.75**  ·  No **1.40**
 - **Goles más/menos:**
     - 3,5: más **1.04** · menos **13.00**
@@ -38,6 +38,7 @@ _Actualizadas: 10/11 08:14_
     - 10,5: más **7.00** · menos **1.10**
     - 11,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
+    - 11,5: más **1.80** · menos **1.91**
     - 12,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **51.00**  ·  X **13.00**  ·  2 **1.04**
 - **Goals Over/Under - Second Half:**
@@ -53,8 +54,8 @@ _Actualizadas: 10/11 08:14_
 - **To Win Either Half:** 1 **41.00**  ·  2 **1.00**
 - **To Score In Both Halves By Teams:** 1 **23.00**  ·  2 **1.04**
 - **Win Both Halves:** 2 **1.08**
-- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **41.00**  ·  Away/Yes **2.75**  ·  Home/No **501.00**  ·  Draw/No **34.00**  ·  Away/No **1.40**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **1.40**  ·  u/yes 2.5 **101.00**  ·  u/no 2.5 **29.00**
+- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **51.00**  ·  Away/Yes **2.75**  ·  Home/No **501.00**  ·  Draw/No **34.00**  ·  Away/No **1.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **1.40**  ·  u/yes 2.5 **126.00**  ·  u/no 2.5 **29.00**
 
 ## Estadísticas de equipo
 | | Tavernes (total) | Tavernes en casa | Valencia (total) | Valencia fuera |

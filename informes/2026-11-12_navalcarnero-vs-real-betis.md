@@ -1,13 +1,13 @@
 # Navalcarnero – Real Betis
 **Copa del Rey** · Round of 128 · 12/11/2026 19:00 (hora España) · Estadio Municipal de Santo Domingo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
 - **1X2:** 1 **17.00**  ·  X **9.50**  ·  2 **1.11**
-- **Doble oportunidad:** 1X **6.50**  ·  12 **1.08**  ·  X2 **1.03**
+- **Doble oportunidad:** 1X **6.50**  ·  12 **1.07**  ·  X2 **1.02**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
     - 1,5: más **1.07** · menos **9.00**

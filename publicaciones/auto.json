@@ -4090,31 +4090,9 @@
     "cuotas_revisadas": "2026-11-10T14:16"
   },
   {
-    "id": "2026-11-10-combi-loca",
-    "fecha": "2026-11-10T16:00",
-    "texto": "Y para los valientes, la loca del martes 🤪🔥\n\n🇪🇸 Gana el Real Madrid (fem.)\n🇪🇸 Gana el Tenerife\n✅ Servette Chênois (fem.) marca\n✅ Ambos marcan en Inter Milano (fem.)–Manchester City (fem.)\n\n📈 Cuota @5,95\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1638332|Match Winner|Home",
-      "1644346|Match Winner|Away",
-      "1638291|Total - Away|Over 0.5",
-      "1638308|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.36,
-      1.67,
-      1.57,
-      1.67
-    ],
-    "solo_redes": true,
-    "cuotas_revisadas": "2026-11-10T14:33"
-  },
-  {
     "id": "2026-11-10-pick-seguro-2",
     "fecha": "2026-11-10T17:45",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ Real Madrid (fem.) – Paris FC (fem.) · 18:45\n\n🍀 Paris FC (fem.) hándicap asiático +1,5/+2 @1,60 (aprox.)\n🧠 Stake 3/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ Real Madrid (fem.) – Paris FC (fem.) · 18:45\n\n🍀 Paris FC (fem.) hándicap asiático +1,5/+2 @1,60 (aprox.)\n🧠 Stake 3/10\n\n👨‍💻 Paris FC llega con seis partidos seguidos sin perder (tres victorias y tres empates), con 1-1 ante el PSG y 2-2 ante el Arsenal en la Champions\n👨‍💻 Al Real Madrid le pesan los problemas físicos de Linda Caicedo: pierde desborde y uno contra uno por banda\n👨‍💻 Solidez defensiva del Paris FC y al Madrid le cuesta ganar por mucho: vale victoria, empate o derrota por un gol\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4160,7 +4138,7 @@
   {
     "id": "2026-11-12-ganadores-win",
     "fecha": "2026-11-12T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Barcelona (fem.) - Win\n2. 🇪🇸 Betis - Win\n3. 🇧🇾 Bielorrusia - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - Win\n5. 🇲🇪 Montenegro - Win\n6. 🇪🇸 España - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Barcelona (fem.) - Win\n2. 🇪🇸 Betis - Win\n3. 🇧🇾 Bielorrusia - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - Win\n5. 🇫🇷 Francia - Win\n6. 🇲🇪 Montenegro - Win\n7. 🇪🇸 España - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4172,14 +4150,16 @@
       "1644363|Match Winner|Away",
       "1528964|Match Winner|Away",
       "1528962|Match Winner|Home",
+      "1528960|Match Winner|Away",
       "1545613|Match Winner|Home",
       "1528961|Match Winner|Away"
     ],
     "cuotas": [
       1.27,
       1.11,
-      1.12,
-      1.22,
+      1.14,
+      1.25,
+      1.73,
       1.3,
       1.2
     ],
@@ -4216,6 +4196,13 @@
           "pick": "WIN"
         },
         {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/2.png",
+          "nombre": "Francia",
+          "pick": "WIN"
+        },
+        {
           "pais": "Montenegro",
           "bandera": "🇲🇪",
           "escudo_url": "https://media.api-sports.io/football/teams/1109.png",
@@ -4249,25 +4236,25 @@
   {
     "id": "2026-11-12-combi-tres",
     "fecha": "2026-11-12T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇲🇪 Gana el Montenegro\n🇮🇹 Italia marca\n\n📈 Cuota @2,59\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del jueves familia 🔥\n\n✅ Arsenal (fem.) marca\n🇪🇸 Real Betis marca 3 o más\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana Inglaterra\n\n📈 Cuota @2,81\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528958|Both Teams Score|Yes",
-      "1545613|Match Winner|Home",
-      "1528960|Total - Home|Over 0.5"
+      "1638295|Total - Away|Over 0.5",
+      "1644363|Total - Away|Over 2.5",
+      "1528962|Match Winner|Home"
     ],
     "cuotas": [
       1.5,
-      1.3,
-      1.33
+      1.5,
+      1.25
     ]
   },
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,66! 🍀\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n✅ Arsenal (fem.) marca\n🇪🇸 Real Betis marca 3 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇫🇷 Francia gana alguna de las dos partes\n🇲🇪 Gana el Montenegro\n🇲🇪 Más de 1,5 goles en Montenegro–Letonia\n🇭🇷 Croacia marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,40! 🍀\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n✅ Arsenal (fem.) marca\n🇪🇸 Real Betis marca 3 o más\n🇮🇹 Italia marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Gana el Montenegro\n🇲🇪 Más de 1,5 goles en Montenegro–Letonia\n🇭🇷 Croacia marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4276,43 +4263,22 @@
       "1528958|Both Teams Score|Yes",
       "1638295|Total - Away|Over 0.5",
       "1644363|Total - Away|Over 2.5",
+      "1528960|Total - Home|Over 0.5",
       "1528963|Goals Over/Under|Over 1.5",
-      "1528960|To Win Either Half|Away",
       "1545613|Match Winner|Home",
       "1545613|Goals Over/Under|Over 1.5",
       "1528962|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.4,
+      1.44,
       1.5,
-      1.53,
       1.5,
       1.4,
-      1.44,
+      1.4,
       1.3,
       1.25,
       1.8
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-12-combi-loca",
-    "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇦🇲 Más de 1,5 goles en Armenia–Chipre\n🇨🇾 Chipre o empate\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇫🇷 Gana Francia\n\n📈 Cuota @6,46\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528959|Goals Over/Under|Over 1.5",
-      "1528959|Double Chance|Draw/Away",
-      "1638295|Total - Home|Over 2.5",
-      "1528960|Match Winner|Away"
-    ],
-    "cuotas": [
-      1.33,
-      1.62,
-      1.67,
-      1.75
     ],
     "solo_redes": true
   },

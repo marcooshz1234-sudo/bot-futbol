@@ -1,12 +1,12 @@
 # Mijas Las Lagunas – Real Jaén
 **Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
-- **1X2:** 1 **4.50**  ·  X **3.70**  ·  2 **1.75**
+- **1X2:** 1 **5.00**  ·  X **3.80**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.00**  ·  12 **1.28**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
@@ -20,14 +20,14 @@ _Actualizadas: 10/11 08:14_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
-    - 3,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.25**  ·  2 **2.30**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -39,7 +39,7 @@ _Actualizadas: 10/11 08:14_
 - **To Win Either Half:** 1 **2.62**  ·  2 **1.40**
 - **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.75**
 - **Win Both Halves:** 1 **19.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.75**  ·  Home/No **8.00**  ·  Draw/No **10.00**  ·  Away/No **3.00**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo

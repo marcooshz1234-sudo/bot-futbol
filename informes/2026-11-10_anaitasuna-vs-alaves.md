@@ -1,17 +1,17 @@
 # Anaitasuna – Alaves
 **Copa del Rey** · Round of 128 · 10/11/2026 19:00 (hora España) · Txerloia Futbol Zelaia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
-- **1X2:** 1 **41.00**  ·  X **15.00**  ·  2 **1.03**
-- **Doble oportunidad:** 1X **13.00**  ·  12 **1.03**  ·  X2 **1.01**
+- **1X2:** 1 **34.00**  ·  X **13.00**  ·  2 **1.04**
+- **Doble oportunidad:** 1X **15.00**  ·  12 **1.03**  ·  X2 **1.00**
 - **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
     - 1,5: más **1.04** · menos **13.00**
-    - 2,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.17** · menos **5.00**
     - 3,5: más **1.40** · menos **2.75**
     - 4,5: más **1.83** · menos **1.83**
     - 5,5: más **2.75** · menos **1.40**
@@ -24,10 +24,10 @@ _Actualizadas: 10/11 08:14_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **2.75** · menos **1.40**
-    - 1,5: más **13.00** · menos **1.04**
+    - 0,5: más **2.50** · menos **1.50**
+    - 1,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 1,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.06** · menos **10.00**
     - 2,5: más **1.22** · menos **4.00**
     - 3,5: más **1.57** · menos **2.25**
     - 4,5: más **2.25** · menos **1.57**
@@ -36,20 +36,20 @@ _Actualizadas: 10/11 08:14_
     - 7,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.80** · menos **2.00**
-- **1X2 descanso:** 1 **23.00**  ·  X **5.00**  ·  2 **1.20**
+- **1X2 descanso:** 1 **21.00**  ·  X **4.75**  ·  2 **1.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.00** · menos **1.73**
     - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
-- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
-- **To Win Either Half:** 1 **13.00**  ·  2 **1.02**
-- **To Score In Both Halves By Teams:** 1 **17.00**  ·  2 **1.25**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **11.00**  ·  2 **1.02**
+- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.25**
 - **Win Both Halves:** 1 **101.00**  ·  2 **1.44**
-- **Results/Both Teams Score:** Home/Yes **41.00**  ·  Draw/Yes **21.00**  ·  Away/Yes **2.62**  ·  Home/No **51.00**  ·  Draw/No **34.00**  ·  Away/No **1.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **1.83**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **6.00**
+- **Results/Both Teams Score:** Home/Yes **51.00**  ·  Draw/Yes **15.00**  ·  Away/Yes **2.50**  ·  Home/No **67.00**  ·  Draw/No **34.00**  ·  Away/No **1.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **1.91**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **6.00**
 
 ## Estadísticas de equipo
 | | Anaitasuna (total) | Anaitasuna en casa | Alaves (total) | Alaves fuera |

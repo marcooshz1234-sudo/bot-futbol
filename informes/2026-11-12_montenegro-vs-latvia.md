@@ -1,13 +1,13 @@
 # Montenegro – Latvia
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · Gradski Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 08:14_
+_Actualizadas: 10/11 16:44_
 
 - **1X2:** 1 **1.30**  ·  X **5.50**  ·  2 **9.00**
-- **Doble oportunidad:** 1X **1.05**  ·  12 **1.17**  ·  X2 **3.25**
+- **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **3.40**
 - **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
     - 1,5: más **1.25** · menos **3.75**
@@ -16,13 +16,13 @@ _Actualizadas: 10/11 08:14_
     - 4,5: más **5.00** · menos **1.14**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **6.50**
     - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.62** · menos **1.44**
+    - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
     - 4,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
@@ -31,7 +31,7 @@ _Actualizadas: 10/11 08:14_
 - **Córners más/menos:**
     - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.22**  ·  X **10.00**  ·  2 **5.00**
-- **1X2 descanso:** 1 **1.80**  ·  X **2.38**  ·  2 **8.00**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.40**  ·  2 **8.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
@@ -48,8 +48,8 @@ _Actualizadas: 10/11 08:14_
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 2,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
-- **Anytime Goal Scorer:** Vladislavs Gutkovskis **5.00**  ·  Roberts Savalnieks **23.00**  ·  Andrejs Ciganiks **19.00**  ·  Janis Ikaunieks **6.50**  ·  Roberts Uldrikis **6.50**  ·  Antonijs Cernomordijs **23.00**  ·  Raivis Jurkovskis **29.00**  ·  Dmitrijs Zelenkovs **13.00**  ·  Daniels Balodis **29.00**  ·  Maksims Tonisevs **29.00**  ·  Deniss Melniks **23.00**  ·  Lukas Vapne **11.00**  ·  Eduards Daskevics **8.00**  ·  Andrija Bulatovic **4.00**  ·  Kristaps Grabovskis **13.00**  ·  Stevan Jovetic **2.10**  ·  Milutin Osmajic **2.38**  ·  Milan Vukotic **4.33**  ·  Marko Jankovic **5.50**  ·  Milos Brnovic **5.50**  ·  Risto Radunovic **8.00**  ·  Igor Vujacic **9.50**  ·  Milan Roganovic **11.00**  ·  Andrej Duric **9.50**  ·  Aleksa Latkovic **2.88**  ·  Slobodan Rubezic **9.50**  ·  Bodin Tomasevic **9.50**  ·  Viktor Dukanovic **3.10**  ·  Danila Patijcuks **8.00**  ·  Dennis Cirkin **23.00**  ·  Aleksa Maras **2.20**  ·  Sead Haksabanovic **4.33**  ·  Dusan Vukovic **2.88**  ·  Stefan Savic **8.00**  ·  Eduards Emsis **13.00**  ·  Albert Aleksanjan **7.00**  ·  Marko Vesovic **8.00**  ·  Kristers Cudars **13.00**  ·  Markuss Strods **8.00**  ·  Ivans Patrikejevs **11.00**  ·  Oskars Vientiess **23.00**  ·  Stefan Loncar **5.50**  ·  Adam Marusic **6.50**  ·  Ognjen Gasevic **9.50**  ·  Vasilije Adzic **3.10**  ·  Nikola Krstovic **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
+- **Anytime Goal Scorer:** Vladislavs Gutkovskis **5.00**  ·  Roberts Savalnieks **23.00**  ·  Andrejs Ciganiks **19.00**  ·  Janis Ikaunieks **6.50**  ·  Roberts Uldrikis **6.50**  ·  Antonijs Cernomordijs **23.00**  ·  Raivis Jurkovskis **29.00**  ·  Dmitrijs Zelenkovs **12.00**  ·  Daniels Balodis **29.00**  ·  Maksims Tonisevs **29.00**  ·  Deniss Melniks **23.00**  ·  Lukas Vapne **11.00**  ·  Eduards Daskevics **8.50**  ·  Andrija Bulatovic **4.00**  ·  Kristaps Grabovskis **12.00**  ·  Stevan Jovetic **2.10**  ·  Milutin Osmajic **2.38**  ·  Milan Vukotic **4.33**  ·  Marko Jankovic **5.50**  ·  Milos Brnovic **5.50**  ·  Risto Radunovic **8.00**  ·  Igor Vujacic **9.50**  ·  Milan Roganovic **11.00**  ·  Andrej Duric **9.50**  ·  Aleksa Latkovic **2.62**  ·  Slobodan Rubezic **9.50**  ·  Bodin Tomasevic **9.50**  ·  Viktor Dukanovic **3.00**  ·  Danila Patijcuks **8.00**  ·  Dennis Cirkin **23.00**  ·  Aleksa Maras **2.20**  ·  Sead Haksabanovic **4.33**  ·  Dusan Vukovic **2.62**  ·  Stefan Savic **8.00**  ·  Eduards Emsis **12.00**  ·  Albert Aleksanjan **7.00**  ·  Marko Vesovic **8.00**  ·  Kristers Cudars **12.00**  ·  Markuss Strods **8.50**  ·  Ivans Patrikejevs **11.00**  ·  Oskars Vientiess **23.00**  ·  Stefan Loncar **5.50**  ·  Adam Marusic **6.50**  ·  Ognjen Gasevic **9.50**  ·  Vasilije Adzic **3.00**  ·  Nikola Krstovic **2.20**
 
 ## Estadísticas de equipo
 | | Montenegro (total) | Montenegro en casa | Latvia (total) | Latvia fuera |

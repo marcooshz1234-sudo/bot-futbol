@@ -87,9 +87,9 @@
     "V"
    ]
   },
-  "sede": "Campo Municipal de Urritxe",
+  "sede": "Instalaciones de Lezama",
   "estadio_local": "Campo Municipal de Urritxe",
-  "local_fuera_de_su_campo": false,
+  "local_fuera_de_su_campo": true,
   "en_campo_visitante": false,
   "aplazamientos": 0
  },
@@ -120,10 +120,10 @@
     "D"
    ]
   },
-  "sede": "Estadio Municipal de Butarque",
+  "sede": "Campo de Futbol La Canaleja",
   "estadio_local": "Estadio La Canaleja",
-  "local_fuera_de_su_campo": true,
-  "en_campo_visitante": true,
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
   "aplazamientos": 0
  },
  "1644362": {

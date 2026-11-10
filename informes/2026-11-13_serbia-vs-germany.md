@@ -1,7 +1,7 @@
 # Serbia – Germany
 **Nations League** · League A - 5 · 13/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 16:45._
 
 ## Cuotas Bet365
 _Actualizadas: 09/11 23:38_
