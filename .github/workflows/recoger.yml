@@ -41,8 +41,14 @@ jobs:
         env:
           ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
         run: python -u fuentes_extra.py || echo "fuentes_extra falló (no bloquea)"
-      - name: Canales públicos de los tipsters (10/11)
-        run: python -u lector_canales.py || echo "lector_canales falló (no bloquea)"
+      - name: Canales de los tipsters (públicos, y privados con la cuenta de Marcos) (10/11)
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_SESSION: ${{ secrets.TG_SESSION }}
+        run: |
+          pip install -q telethon >/dev/null 2>&1 || true
+          python -u lector_canales.py || echo "lector_canales falló (no bloquea)"
       - name: Noticias de los periódicos (09/11)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
