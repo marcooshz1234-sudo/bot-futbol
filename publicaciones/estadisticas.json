@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 13:21",
+ "actualizado": "2026-11-10 13:44",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2519,
-   "hoy": 160,
+   "seguidores": 2522,
+   "hoy": 163,
    "serie": [
     1638,
     1906,
@@ -24,7 +24,7 @@
     2126,
     2231,
     2359,
-    2519
+    2522
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2919,
- "total_hoy": 163,
+ "total": 2922,
+ "total_hoy": 166,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:30",
   "dia": "2026-11-10",
-  "titulo": "Vamos con la combi del martes familia"
+  "titulo": "Combi de 8 partidos x35,72"
  },
  "ayer": {
   "aciertos": 2,
@@ -180,7 +180,7 @@
   },
   "2026-11-10": {
    "instagram": 36,
-   "threads": 2519,
+   "threads": 2522,
    "facebook": 1,
    "telegram": 363
   }
