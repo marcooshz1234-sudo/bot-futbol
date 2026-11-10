@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 22:10",
+ "actualizado": "2026-11-10 22:21",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -186,13 +186,18 @@
   }
  },
  "tipos_instagram": {
+  "Otros": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 42,
+   "posts": 41,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
