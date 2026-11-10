@@ -1,16 +1,16 @@
 # Armenia – Cyprus
 **Nations League** · League C - 5 · 12/11/2026 18:00 (hora España) · Vazgen Sargsyan Republican Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 02:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 08:15._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 02:06_
+_Actualizadas: 10/11 08:14_
 
-- **1X2:** 1 **2.20**  ·  X **3.40**  ·  2 **3.00**
+- **1X2:** 1 **2.25**  ·  X **3.40**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.62**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **8.00**
+    - 0,5: más **1.04** · menos **9.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
@@ -28,21 +28,21 @@ _Actualizadas: 10/11 02:06_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **7.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.62**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
-- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.50**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**

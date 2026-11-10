@@ -16,8 +16,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.6,
-   "temperatura": 20.8
+   "viento_kmh": 5.0,
+   "temperatura": 20.6
+  },
+  "cuotas": {
+   "Away": [
+    2.0,
+    1.75
+   ]
   }
  },
  "1644346": {
@@ -37,7 +43,7 @@
   },
   "tiempo": {
    "lluvia_mm": 1.0,
-   "viento_kmh": 18.7,
+   "viento_kmh": 16.4,
    "temperatura": 18.1
   }
  },
@@ -58,8 +64,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.6,
-   "temperatura": 17.0
+   "viento_kmh": 3.3,
+   "temperatura": 17.1
   }
  },
  "1638311": {
@@ -79,8 +85,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 1.7,
-   "temperatura": 9.8
+   "viento_kmh": 1.5,
+   "temperatura": 10.3
   }
  },
  "1638318": {
@@ -99,15 +105,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.3,
-   "viento_kmh": 6.1,
-   "temperatura": 5.2
-  },
-  "cuotas": {
-   "Away": [
-    1.62,
-    1.8
-   ]
+   "lluvia_mm": 0.0,
+   "viento_kmh": 5.4,
+   "temperatura": 5.1
   }
  },
  "1644382": {
@@ -126,9 +126,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.4,
-   "viento_kmh": 13.2,
-   "temperatura": 15.0
+   "lluvia_mm": 4.9,
+   "viento_kmh": 13.4,
+   "temperatura": 15.2
   }
  },
  "1638308": {
@@ -148,8 +148,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 1.8,
-   "temperatura": 7.7
+   "viento_kmh": 2.9,
+   "temperatura": 7.4
   }
  },
  "1644365": {
@@ -200,9 +200,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 14.4,
-   "viento_kmh": 7.1,
-   "temperatura": 18.0
+   "lluvia_mm": 10.4,
+   "viento_kmh": 12.7,
+   "temperatura": 18.8
   }
  },
  "1638328": {
@@ -221,9 +221,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 3.8,
-   "temperatura": 12.8
+   "lluvia_mm": 1.0,
+   "viento_kmh": 6.4,
+   "temperatura": 12.6
   }
  },
  "1638339": {
@@ -243,8 +243,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.1,
-   "temperatura": 17.4
+   "viento_kmh": 7.0,
+   "temperatura": 17.1
   }
  },
  "1638332": {
@@ -263,9 +263,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 6.1,
-   "viento_kmh": 12.6,
-   "temperatura": 15.2
+   "lluvia_mm": 3.5,
+   "viento_kmh": 13.2,
+   "temperatura": 15.7
   }
  },
  "1638304": {
@@ -284,9 +284,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 11.5,
-   "temperatura": 6.8
+   "lluvia_mm": 0.1,
+   "viento_kmh": 7.6,
+   "temperatura": 6.2
   }
  },
  "1644335": {

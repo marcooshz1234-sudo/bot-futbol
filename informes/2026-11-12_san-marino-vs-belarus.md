@@ -1,57 +1,56 @@
 # San Marino – Belarus
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · San Marino Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 02:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 08:15._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 21:29_
+_Actualizadas: 10/11 08:14_
 
-- **1X2:** 1 **15.00**  ·  X **8.50**  ·  2 **1.12**
-- **Doble oportunidad:** 1X **5.50**  ·  12 **1.05**  ·  X2 **1.01**
-- **Ambos marcan:** Sí **3.00**  ·  No **1.36**
+- **1X2:** 1 **16.00**  ·  X **9.00**  ·  2 **1.12**
+- **Doble oportunidad:** 1X **5.00**  ·  12 **1.07**  ·  X2 **1.01**
+- **Ambos marcan:** Sí **2.75**  ·  No **1.40**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
-    - 2,5: más **1.57** · menos **2.35**
-    - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.00** · menos **1.22**
-    - 5,5: más **7.00** · menos **1.08**
+    - 2,5: más **1.60** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **7.50** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **4.50** · menos **1.17**
-    - 3,5: más **9.00** · menos **1.04**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.00** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **2.62** · menos **1.44**
-    - 1,5: más **8.50** · menos **1.05**
+    - 0,5: más **2.50** · menos **1.50**
+    - 1,5: más **8.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.05** · menos **8.50**
-    - 1,5: más **1.28** · menos **3.50**
+    - 0,5: más **1.06** · menos **8.00**
+    - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **1.83** · menos **1.83**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **5.50** · menos **1.12**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.00** · menos **1.11**
     - 5,5: más **9.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **7.00**  ·  X **12.00**  ·  2 **1.12**
-- **1X2 descanso:** 1 **15.00**  ·  X **2.88**  ·  2 **1.44**
+- **1X2 descanso:** 1 **15.00**  ·  X **2.75**  ·  2 **1.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
 - **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
-- **To Win Either Half:** 1 **7.00**  ·  2 **1.08**
-- **To Score In Both Halves By Teams:** 1 **19.00**  ·  2 **1.73**
-- **Win Both Halves:** 1 **101.00**  ·  2 **2.10**
-- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **12.00**  ·  Away/Yes **3.75**  ·  Home/No **21.00**  ·  Draw/No **17.00**  ·  Away/No **1.53**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.25**  ·  o/no 2.5 **2.60**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **2.60**
+- **To Win Either Half:** 1 **7.00**  ·  2 **1.10**
+- **To Score In Both Halves By Teams:** 1 **19.00**  ·  2 **1.80**
+- **Win Both Halves:** 1 **101.00**  ·  2 **2.20**
+- **Results/Both Teams Score:** Home/Yes **23.00**  ·  Draw/Yes **11.00**  ·  Away/Yes **3.75**  ·  Home/No **19.00**  ·  Draw/No **15.00**  ·  Away/No **1.57**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.25**  ·  o/no 2.5 **2.75**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **2.50**
 - **Home Corners Over/Under:**
     - 2,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 6,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
-- **Anytime Goal Scorer:** Lorenzo Capicchioni **21.00**  ·  Kirill Zinovich **3.60**  ·  Zakhar Volkov **4.50**  ·  Valeri Gromyko **1.95**  ·  Kirill Pechenin **5.00**  ·  Max Ebong **2.62**  ·  German Barkovsky **1.83**  ·  Artem Kontsevoy **2.62**  ·  Valeriy Bocherov **3.60**  ·  Fausto Salicioni **9.50**  ·  Gabriel Capicchioni **9.50**  ·  Nicola Nanni **7.00**  ·  Nicolas Giacopetti **9.00**  ·  Lorenzo Lazzari **9.50**  ·  Andrea Contadini **13.00**  ·  Samuele Zannoni **13.00**  ·  Alessandro Golinucci **17.00**  ·  Marcello Mularoni **26.00**  ·  Filippo Fabbri **29.00**  ·  Simone Giocondi **17.00**  ·  Alessandro Tosi **41.00**  ·  Giacomo Benvenuti **41.00**  ·  Marco Pasolini **41.00**  ·  Tommaso Benvenuti **41.00**  ·  Dante Rossi **41.00**  ·  Karen Vardanyan **1.95**  ·  Cristian Meloni **13.00**  ·  Artem Shumanskiy **2.50**  ·  Samuel Pancotti **11.00**  ·  Gleb Shevchenko **7.00**  ·  Ivan Tikhomirov **8.00**  ·  Trofim Melnichenko **1.83**  ·  Aleksandr Selyava **4.50**  ·  Roman Begunov **5.00**  ·  Vladislav Kalinin **9.00**  ·  Kirill Gomanov **8.00**  ·  Anton Kovalev **3.25**  ·  Timofey Simanenka **2.05**  ·  Pietro Marinucci **29.00**  ·  Bartolomeo Riggioni **29.00**  ·  Enea Della Balda **13.00**  ·  Giulio Maria Bugli **29.00**  ·  Aleksandr Svirepa **3.60**  ·  Anton Lukashov **3.60**  ·  Vitali Lisakovich **1.73**
+- **Anytime Goal Scorer:** Lorenzo Capicchioni **21.00**  ·  Kirill Zinovich **3.60**  ·  Zakhar Volkov **4.50**  ·  Valeri Gromyko **2.00**  ·  Kirill Pechenin **5.50**  ·  Max Ebong **2.88**  ·  German Barkovsky **1.83**  ·  Artem Kontsevoy **2.88**  ·  Valeriy Bocherov **3.60**  ·  Fausto Salicioni **9.00**  ·  Gabriel Capicchioni **10.00**  ·  Nicola Nanni **7.00**  ·  Nicolas Giacopetti **8.00**  ·  Lorenzo Lazzari **10.00**  ·  Andrea Contadini **13.00**  ·  Samuele Zannoni **13.00**  ·  Alessandro Golinucci **17.00**  ·  Marcello Mularoni **26.00**  ·  Filippo Fabbri **29.00**  ·  Simone Giocondi **17.00**  ·  Alessandro Tosi **41.00**  ·  Giacomo Benvenuti **41.00**  ·  Marco Pasolini **41.00**  ·  Tommaso Benvenuti **41.00**  ·  Dante Rossi **41.00**  ·  Karen Vardanyan **2.00**  ·  Cristian Meloni **13.00**  ·  Artem Shumanskiy **2.50**  ·  Samuel Pancotti **12.00**  ·  Gleb Shevchenko **7.00**  ·  Ivan Tikhomirov **8.00**  ·  Trofim Melnichenko **1.83**  ·  Aleksandr Selyava **5.50**  ·  Roman Begunov **5.50**  ·  Vladislav Kalinin **9.00**  ·  Kirill Gomanov **8.00**  ·  Anton Kovalev **3.25**  ·  Timofey Simanenka **2.05**  ·  Pietro Marinucci **29.00**  ·  Bartolomeo Riggioni **29.00**  ·  Enea Della Balda **12.00**  ·  Giulio Maria Bugli **29.00**  ·  Aleksandr Svirepa **3.60**  ·  Anton Lukashov **3.60**  ·  Vitali Lisakovich **1.73**
 
 ## Estadísticas de equipo
 | | San Marino (total) | San Marino en casa | Belarus (total) | Belarus fuera |
