@@ -41,6 +41,8 @@ jobs:
         env:
           ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
         run: python -u fuentes_extra.py || echo "fuentes_extra falló (no bloquea)"
+      - name: Canales públicos de los tipsters (10/11)
+        run: python -u lector_canales.py || echo "lector_canales falló (no bloquea)"
       - name: Noticias de los periódicos (09/11)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
