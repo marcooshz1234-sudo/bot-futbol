@@ -44,6 +44,24 @@ def equipo(t):
     return n
 
 
+def nitido(f, lado):
+    """11/11 (Marcos: «solo el escudo, más grande y nítido»): el PNG (150 px) ampliado al tamaño exacto con
+    Lanczos y un poco de enfoque, mejor que dejar que lo estire el navegador."""
+    import io
+    from PIL import Image, ImageFilter
+    try:
+        im = Image.open(f).convert("RGBA")
+        k = lado / max(im.size)
+        if k > 1:
+            im = im.resize((round(im.width * k), round(im.height * k)), Image.LANCZOS)
+            im = im.filter(ImageFilter.UnsharpMask(radius=1.6, percent=90, threshold=2))
+        b = io.BytesIO()
+        im.save(b, "PNG")
+        return base64.b64encode(b.getvalue()).decode()
+    except Exception:
+        return base64.b64encode(f.read_bytes()).decode()
+
+
 def escudo(team_id=None, url=None, nombre="", lado=200):
     """Escudo dentro del círculo dorado. Guardado en escudos/<id>.png; si no está, se intenta bajar; si no, iniciales."""
     f = None
@@ -59,7 +77,7 @@ def escudo(team_id=None, url=None, nombre="", lado=200):
             except Exception as ex:
                 print(f"Escudo de {nombre}: {ex}")
                 f = None
-    dentro = (f'<img src="data:image/png;base64,{base64.b64encode(f.read_bytes()).decode()}" alt="">' if f and f.exists()
+    dentro = (f'<img src="data:image/png;base64,{nitido(f, lado)}" alt="">' if f and f.exists()
               else f'<b style="font-size:{lado // 3}px">{e("".join(w[0] for w in (nombre or "?").split()[:2]).upper())}</b>')
     return f'<div class="escudo" style="width:{lado}px;height:{lado}px">{dentro}</div>'
 
@@ -169,11 +187,11 @@ def pick_del_dia(p, w=1080, h=1350):
     razon_html = (f'<div style="margin-top:26px;width:900px;font-weight:600;font-size:34px;line-height:1.25;'
                   f'text-align:center;color:#f3e3b0;text-shadow:0 2px 8px #000">{e(fem(razon))}</div>') if razon and len(razon) < 170 else ""
     cuerpo = (
-        f'<div style="margin-top:{90 if vertical else 40}px">{logo_img(250 if vertical else 200)}</div>'
+        f'<div style="margin-top:{90 if vertical else 34}px">{logo_img(250 if vertical else 170)}</div>'
         f'<div style="margin-top:6px">{_cinta("PICK DEL DÍA", 84)}</div>'
-        f'<div style="margin-top:{70 if vertical else 44}px">{_vs(t, 230 if vertical else 200, 52)}</div>'
+        f'<div style="margin-top:{70 if vertical else 30}px">{_vs(t, 270 if vertical else 240, 52)}</div>'
         f'<div style="margin-top:26px;font-weight:700;font-size:36px;letter-spacing:3px;color:#c9d4ff">{e(info)}</div>'
-        f'<div class="card" style="margin-top:{60 if vertical else 40}px;width:960px;min-height:150px;display:flex;align-items:center;'
+        f'<div class="card" style="margin-top:{60 if vertical else 30}px;width:960px;min-height:150px;display:flex;align-items:center;'
         f'justify-content:space-between;gap:20px;padding:16px 16px 16px 40px">'
         f'<div class="b3d" style="font-size:{_tam(pk, 64, 18)}px;line-height:1.02">{e(pk)}</div>'
         f'<div class="pastilla" style="font-size:80px;height:118px;flex:none">@{e(cuota)}</div></div>'
@@ -218,7 +236,7 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
         '<div class="oro" style="font-size:110px">VS</div>'
     l, v = equipo(t["local"]), equipo(t["visitante"])
     col = lambda n, i, u: (f'<div style="display:flex;flex-direction:column;align-items:center;gap:14px;width:320px">'
-                           f'{escudo(i, u, n, 190)}<div class="b3d" style="font-size:{_tam(n, 46, 13)}px;line-height:1;'
+                           f'{escudo(i, u, n, 220)}<div class="b3d" style="font-size:{_tam(n, 46, 13)}px;line-height:1;'
                            f'text-align:center">{e(n)}</div></div>')
     datos = [("CUOTA", cuota or "—"), ("PUBLICADO", publicado or "—")]
     if liga:
@@ -270,7 +288,7 @@ def tarjeta_partido(t, cuando_txt, cuota=None):
     """Foto apaisada del partido (1180x340) para las combis de un partido."""
     l, v = equipo(t["local"]), equipo(t["visitante"])
     col = lambda n, i, u: (f'<div style="display:flex;flex-direction:column;align-items:center;gap:12px;width:330px">'
-                           f'{escudo(i, u, n, 150)}<div class="b3d" style="font-size:{_tam(n, 40, 14)}px;line-height:1;'
+                           f'{escudo(i, u, n, 175)}<div class="b3d" style="font-size:{_tam(n, 40, 14)}px;line-height:1;'
                            f'text-align:center">{e(n)}</div></div>')
     centro = (f'<div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:10px">'
               f'{logo_img(110)}<div class="oro" style="font-size:64px;line-height:1">{e(cuando_txt)}</div>'
@@ -293,8 +311,8 @@ def quien_gana(filas, titulo, sub=None):
         marca = "✓ " if ok is True else "✕ " if ok is False else ""
         esc = escudo(None, None, f["nombre"], alto_f - 14)
         if f.get("escudo") and Path(f["escudo"]).is_file():
-            esc = (f'<div class="escudo" style="width:{alto_f - 14}px;height:{alto_f - 14}px;border-width:5px">'
-                   f'<img src="data:image/png;base64,{base64.b64encode(Path(f["escudo"]).read_bytes()).decode()}"></div>')
+            esc = (f'<div class="escudo" style="width:{alto_f - 14}px;height:{alto_f - 14}px">'
+                   f'<img src="data:image/png;base64,{nitido(Path(f["escudo"]), alto_f - 14)}"></div>')
         lis += (f'<div class="card" style="height:{alto_f}px;display:flex;align-items:center;gap:20px;padding:0 18px;border-width:3px;'
                 f'border-color:{color}">'
                 f'<span class="oro" style="font-size:{alto_f // 2}px;width:66px;text-align:center">{i}</span>'

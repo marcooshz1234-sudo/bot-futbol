@@ -109,10 +109,9 @@ CLASES = f"""
 .pastilla{{display:inline-flex;align-items:center;justify-content:center;border-radius:18px;padding:6px 30px;
  background:linear-gradient(180deg,#fff3b0,#ffd84a 45%,#d99a10);border:4px solid #fff6d0;color:{MARINO};
  font-family:{LETRA};font-weight:900;font-style:italic;box-shadow:0 6px 0 #6b4a10,0 0 22px rgba(242,201,76,.6)}}
-.escudo{{border-radius:50%;background:radial-gradient(circle,#ffffff 0%,#e8ecff 70%);border:7px solid {ORO};
- display:flex;align-items:center;justify-content:center;box-shadow:0 0 34px rgba(120,160,255,.6),0 8px 0 #6b4a10}}
-.escudo img{{width:70%;height:70%;object-fit:contain}}
-.escudo b{{font-family:{LETRA};font-weight:900;color:{MARINO}}}
+.escudo{{display:flex;align-items:center;justify-content:center}}
+.escudo img{{width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 6px 10px rgba(0,0,0,.6)) drop-shadow(0 0 2px rgba(255,255,255,.5))}}
+.escudo b{{font-family:{LETRA};font-weight:900;color:#fff;-webkit-text-stroke:2px #0b1550}}
 """
 
 
