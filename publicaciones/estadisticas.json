@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 10:21",
+ "actualizado": "2026-11-10 10:31",
  "redes": {
   "instagram": {
    "seguidores": 36,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2474,
-   "hoy": 115,
+   "seguidores": 2475,
+   "hoy": 116,
    "serie": [
     1638,
     1906,
@@ -24,7 +24,7 @@
     2126,
     2231,
     2359,
-    2474
+    2475
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 2874,
- "total_hoy": 118,
+ "total": 2875,
+ "total_hoy": 119,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-10",
-  "titulo": "Vamos con el pick de hoy familia"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": {
   "aciertos": 2,
@@ -180,19 +180,24 @@
   },
   "2026-11-10": {
    "instagram": 36,
-   "threads": 2474,
+   "threads": 2475,
    "facebook": 1,
    "telegram": 363
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 44,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -203,11 +208,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
