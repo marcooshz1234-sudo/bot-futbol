@@ -1,7 +1,7 @@
 # Mallorca – Cordoba
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:31._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

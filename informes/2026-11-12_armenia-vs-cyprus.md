@@ -1,7 +1,7 @@
 # Armenia – Cyprus
 **Nations League** · League C - 5 · 12/11/2026 18:00 (hora España) · Vazgen Sargsyan Republican Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:31._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 08:14_

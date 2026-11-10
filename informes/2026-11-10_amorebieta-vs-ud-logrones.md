@@ -1,7 +1,7 @@
 # Amorebieta – UD Logroñés
 **Copa del Rey** · Round of 128 · 10/11/2026 20:00 (hora España) · Campo Municipal de Urritxe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 13:31._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 08:14_
