@@ -344,10 +344,25 @@ def bandera_real(pais):
     return f'<img class="real" src="data:image/svg+xml;base64,{base64.b64encode(svg.read_bytes()).decode()}" alt="">'
 
 
+def es_seleccion(f):
+    """¿La fila es una selección? Entonces solo va su bandera (Marcos: no repetir bandera y escudo)."""
+    if f.get("seleccion"):
+        return True
+    pais = f.get("pais")
+    if not pais:
+        return False
+    try:
+        from combis_dia import nombre_es
+        nombres = {pais, pais.replace("-", " "), nombre_es(pais), nombre_es(pais.replace("-", " "))}
+    except Exception:
+        nombres = {pais, pais.replace("-", " ")}
+    return fem(f.get("nombre", "")).replace(" (fem.)", "") in nombres
+
+
 def quien_gana(filas, titulo, sub=None):
     """«GANADORES» (11/11, Marcos: «lo más parecido a como lo teníamos antes»): como la plantilla oro (número dorado,
     bandera dibujada, escudo, flecha y WIN) sobre el fondo del logo nuevo. Selecciones: solo su bandera (no se repite)."""
-    from ganadores_img import _bandera
+    from ganadores_img import BANDERAS_SVG, _bandera
     n = len(filas)
     h = 112 if n <= 6 else 100 if n <= 8 else 84
     css = QG_CSS % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 32) * 4 / 3), "fh": h - 32, "fe": h // 2,
@@ -359,17 +374,21 @@ def quien_gana(filas, titulo, sub=None):
         cls = " ok" if ok is True else " ko" if ok is False else ""
         marca = "✕" if ok is False else "✓"
         esc = '<div class="es"></div>'   # hueco igual para que los nombres queden alineados
-        if not f.get("seleccion") and f.get("escudo") and Path(f["escudo"]).is_file():
+        if not es_seleccion(f) and f.get("escudo") and Path(f["escudo"]).is_file():
             esc = f'<div class="es"><img src="data:image/png;base64,{nitido(Path(f["escudo"]), h - 22)}"></div>'
-        bandera = f'<div class="fl">{bandera_real(f.get("pais")) or _bandera(f)}</div>' if (f.get("pais") or f.get("bandera")) else ""
+        if bandera_real(f.get("pais")) or (f.get("pais") or "") in BANDERAS_SVG:
+            bandera = f'<div class="fl">{bandera_real(f.get("pais")) or _bandera(f)}</div>'
+        else:   # sin país conocido (p. ej. equipos femeninos): hueco del mismo tamaño, nada de ⚽
+            bandera = '<div class="fl" style="visibility:hidden"></div>'
         nombre = equipo(f["nombre"])
         lis += (f'<div class="f{cls}"><div class="n"><span>{i}.</span></div>{bandera}{esc}'
                 f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">➜</div>'
                 f'<div class="pick"><div class="ck">{marca}</div><b>{e(f.get("pick", "WIN"))}</b></div></div>')
     cuerpo = (
-        f'<div style="margin-top:36px">{logo_img(170)}</div>'
+        f'<div style="margin-top:{36 if n > 5 else 0}px">{logo_img(170 if n > 5 else 220)}</div>'
         f'<div style="margin-top:4px">{_cinta(e(titulo or "QUIÉN GANA HOY"), 70)}</div>'
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
         + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'
         f'<div style="margin:36px 0 64px;display:flex;justify-content:center">{_cinta("¿LA PINTAMOS DE VERDE? 🍀", 54)}</div>')
-    return _html(cuerpo, 1080, 1350, extra=css)
+    centrar = "body{justify-content:center;height:1350px}" if n <= 5 else ""   # pocas filas: todo centrado
+    return _html(cuerpo, 1080, 1350, extra=css + centrar)

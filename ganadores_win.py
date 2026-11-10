@@ -102,6 +102,8 @@ def post(dia, hora=HORA, excluir=(), sufijo=""):
     for i, x in enumerate(sel, 1):
         n = x["equipo"]["name"]
         pais = semana.pais_equipo(n)
+        if pais in (None, "World") and n.endswith(" W"):   # 11/11: femeninos → el país del club (Lyon W → Francia)
+            pais = semana.pais_equipo(n[:-2]) or pais
         bandera = semana.BANDERAS.get(pais, "⚽")
         from combis_dia import nombre_es
         nombre = CORTO.get(n, nombre_es(n))
