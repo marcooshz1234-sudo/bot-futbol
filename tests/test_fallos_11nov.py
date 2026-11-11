@@ -179,6 +179,18 @@ class TestFallos11Nov(unittest.TestCase):
             self.assertIn('url("../fondo.jpg")', src, app)
         self.assertIn('url("fondo.jpg")', (RAIZ / "docs" / "index.html").read_text(encoding="utf-8"))
 
+    def test_verde_de_escalera_lo_dice(self):
+        import ticket_verde as T
+        p = {"id": "2026-11-11-escalera-2", "titulo": "🪜 Reto escalera · Día 2/7", "cuota": 2.02,
+             "picks": [{"texto": "OH Leuven (fem.) marca", "estado": "verde"}, {"texto": "Lyon (fem.) marca 3 o más", "estado": "verde"}]}
+        with mock.patch.object(T, "_escalon", lambda p: {"escalon": 2, "stake": 36.0, "cuota": 2.02}):
+            html = T.documento(p, "15:15")
+        self.assertIn("ESCALERA · DÍA 2 SUPERADO", html)
+        self.assertIn("36,00€ → 72,72€", html)
+        self.assertIn("DÍA 3", html)
+        html = T.documento(dict(p, id="2026-11-11-combi-tres"), "15:15")
+        self.assertIn("COMBI ACERTADA", html)
+
 
 if __name__ == "__main__":
     unittest.main()

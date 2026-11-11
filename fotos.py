@@ -430,7 +430,7 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
     return _html(cuerpo, 1080, alto, verde=True)
 
 
-def verde_lista(patas, titulo, cuota, publicado, alto=1350):
+def verde_lista(patas, titulo, cuota, publicado, alto=1350, cajas=None, lema=None):
     """Acierto de varias patas / partidos: lista de patas con su tick y el sello."""
     n = len(patas)
     letra = 44 if n <= 3 else 38 if n <= 5 else 30 if n <= 8 else 24
@@ -453,8 +453,9 @@ def verde_lista(patas, titulo, cuota, publicado, alto=1350):
         f'<div style="margin-top:6px">{_cinta(e(titulo), 76 if n <= 6 else 62)}</div>'
         f'<div style="margin-top:{30 if n <= 6 else 16}px">{_sello(60 if n <= 6 else 46)}</div>'
         f'<div style="margin-top:{44 if n <= 6 else 26}px;width:940px;display:flex;flex-direction:column;gap:{14 if n <= 5 else 8}px">{filas}</div>'
-        f'{_cajas([("CUOTA", cuota or "—"), ("PUBLICADO", publicado or "—")])}'
-        f'<div style="margin:40px 0 70px;display:flex;justify-content:center">{_brocha("¿QUIÉN LA LLEVABA? 🍀" if CL else "¿QUIÉN LA LLEVABA?", 54)}</div>')
+        f'{_cajas(cajas or [("CUOTA", cuota or "—"), ("PUBLICADO", publicado or "—")])}'
+        f'<div style="margin:40px 0 70px;display:flex;justify-content:center">'
+        f'{_brocha(lema or ("¿QUIÉN LA LLEVABA? 🍀" if CL else "¿QUIÉN LA LLEVABA?"), 54)}</div>')
     return _html(cuerpo, 1080, alto, verde=True)
 
 

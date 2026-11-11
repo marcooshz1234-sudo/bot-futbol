@@ -44,6 +44,39 @@ def marcador(x):
     return f"{m[0]}–{m[1]}" if isinstance(m, list) and len(m) == 2 and None not in m else ""
 
 
+def _escalon(p):
+    """El escalón de la escalera de este post (datos/escalera.json): {dia, escalon, stake, cuota}."""
+    import re
+    e = leer(DATOS / "escalera.json", {}) or {}
+    dia = (p.get("id") or "")[:10]
+    for x in [e.get("actual") or {}] + list(reversed(e.get("historial") or [])):
+        if x.get("dia") == dia:
+            return x
+    m = re.search(r"[Dd][ií]a (\d+)", p.get("titulo") or "")
+    return {"escalon": int(m.group(1))} if m else {}
+
+
+def escalera_textos(p, cuota):
+    n = _escalon(p).get("escalon")
+    return (f"ESCALERA · DÍA {n} SUPERADO" if n else "ESCALERA SUPERADA"), cuota
+
+
+def escalera_extra(p, cuota):
+    """Cajas con el dinero (la escalera es el único sitio donde sale: en eso consiste el reto) y el siguiente día."""
+    x = _escalon(p)
+    n, stake, c = x.get("escalon"), x.get("stake"), x.get("cuota")
+    try:
+        c = c or float(str(cuota).replace(",", "."))
+    except (TypeError, ValueError):
+        c = None
+    dinero = (lambda v: f"{v:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".") + "€")
+    cajas = [("CUOTA", cuota or (num(c) if c else "—"))]
+    if stake and c:
+        cajas.append(("ESCALERA", f"{dinero(stake)} → {dinero(stake * c)}"))
+    lema = f"¡A POR EL DÍA {n + 1}! 🪜" if n and n < 7 else "¡RETO COMPLETADO! 🏆" if n == 7 else None
+    return {"cajas": cajas, "lema": lema}
+
+
 def documento(p, publicado, alto=1350):
     """p: la combi de docs/datos.json (publicados_hoy) ya en verde. publicado: «HH:MM».
     11/11: plantillas nuevas (fotos.py): un partido → tarjeta con escudos, marcador y sello ACERTADO; varios → lista."""
@@ -51,6 +84,8 @@ def documento(p, publicado, alto=1350):
     patas = [x for x in p.get("picks", []) if x.get("estado") in ("verde", "anulada")]
     partidos = {x.get("partido_id") for x in patas}
     cuota = num(p["cuota"]) if p.get("cuota") else None
+    if "escalera" in (p.get("id") or ""):   # 12/11 (Marcos: «cuando sea escalera, que lo ponga»)
+        return fotos.verde_lista(patas, *escalera_textos(p, cuota), publicado, alto=alto, **escalera_extra(p, cuota))
     if len(patas) == 1 and len(partidos) == 1 and patas[0].get("partido_id"):
         t = fotos.partido({"sel": [f"{patas[0]['partido_id']}|x|x"]})
         if t:
