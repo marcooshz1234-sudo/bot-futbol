@@ -188,7 +188,9 @@ def decoracion(alto=1350, verde=False):
         t = rnd.randint(8, 16)
         out.append(f'<span style="position:absolute;left:{x}px;top:{y}px;width:{t}px;height:{t // 2 + 3}px;'
                    f'background:{rnd.choice(colores)};transform:rotate({rnd.randint(0, 180)}deg);z-index:0;opacity:.9"></span>')
-    return "".join(out)
+    # todo dentro de una capa del tamaño del lienzo (si no, imagenes.ajustar_al_lienzo lo ve «recortado por arriba»)
+    return (f'<div class="deco" style="position:absolute;left:0;top:0;width:1080px;height:{alto}px;overflow:hidden;'
+            f'z-index:0;pointer-events:none">' + "".join(out) + "</div>")
 
 
 def _html(cuerpo, w, h, verde=False, extra=""):

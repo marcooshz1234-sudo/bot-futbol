@@ -30,7 +30,8 @@ CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
 body{width:%(w)dpx;height:%(h)dpx;font-family:%(letra)s;color:#f7f3e8;display:flex;flex-direction:column;
  padding:%(pad)dpx 76px 60px;overflow:hidden}
-.marca{text-align:center;margin-bottom:14px}
+.marca{text-align:center;margin-bottom:14px;position:relative;z-index:1}
+.titulo,.sub,.lineas,.cuota,.dato,.pie,.foto{position:relative;z-index:1}
 .foto{width:100%%;border-radius:22px;margin-bottom:30px;border:4px solid %(oro)s;box-shadow:0 10px 30px rgba(0,0,0,.6)}
 .titulo{font-size:%(ft)dpx;line-height:1.08;text-align:center;margin-bottom:30px;padding:0 10px}
 .sub{font-size:44px;text-align:center;margin:-14px 0 28px;line-height:1.1}
@@ -97,7 +98,8 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
         return "" if i < ver else " oculto"
     e = html.escape
     tam = (220 if vertical else 180) if n <= 7 else (150 if vertical else 120) if n <= 12 else 80
-    partes_html = [f'<div class="marca">{logo_img(tam)}</div>']
+    import fotos   # 11/11: los mismos adornos que el pick del día (cintas, copas, laureles, confeti)
+    partes_html = [fotos.decoracion(h), f'<div class="marca">{logo_img(tam)}</div>']
     if foto_b64:
         partes_html.append(f'<img class="foto" src="data:image/jpeg;base64,{foto_b64}">')
     partes_html.append(f'<div class="titulo oro">{e(titulo)}</div>')
