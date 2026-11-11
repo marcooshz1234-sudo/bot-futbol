@@ -4433,7 +4433,7 @@
   },
   {
     "id": "2026-11-11-verde-auto-2026-11-11-escalera-2",
-    "fecha": "2026-11-11T23:57",
+    "fecha": "2026-11-12T00:20",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ OH Leuven (fem.) marca\n✅ Lyon (fem.) marca 3 o más\n\n📈 Cuota @2,02\n💶 36,00€ → 72,72€\n\nOtra más pa' la saca familia 😎",
     "foto": "publicaciones/media/2026-11-11-verde-auto-2026-11-11-escalera-2.tarjeta.jpg",
     "origen": "bot",
@@ -4445,14 +4445,13 @@
     "enviado": "2026-11-12T00:07",
     "mensaje_id": 408,
     "redes": {
-      "threads": "ya-publicado",
-      "instagram": "ya-publicado",
       "instagram_story": "18043106066844745"
-    }
+    },
+    "fecha_redes_reintento": "2026-11-12T00:20"
   },
   {
     "id": "2026-11-11-verde-auto-2026-11-11-pick-extra-1",
-    "fecha": "2026-11-11T23:57",
+    "fecha": "2026-11-12T00:20",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Lyon (fem.) y la Juventus (fem.) no marca\n\n📈 Cuota @1,83\n\n¿Quién la llevaba? 👇💚",
     "foto": "publicaciones/media/2026-11-11-verde-auto-2026-11-11-pick-extra-1.tarjeta.jpg",
     "origen": "bot",
@@ -4464,9 +4463,8 @@
     "enviado": "2026-11-12T00:07",
     "mensaje_id": 409,
     "redes": {
-      "threads": "ya-publicado",
-      "instagram": "ya-publicado",
       "instagram_story": "17914341003480826"
-    }
+    },
+    "fecha_redes_reintento": "2026-11-12T00:20"
   }
 ]

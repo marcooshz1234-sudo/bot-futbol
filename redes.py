@@ -268,7 +268,10 @@ def _titulo(t):
     """Huella para no publicar dos veces lo mismo. 28/10: las 2 primeras líneas (antes solo la 1ª): Bayern y
     Leverkusen empiezan igual («✅ COMBI LOCAS | DFB-POKAL») y el Leverkusen no salió en Threads ni Instagram."""
     import re as _re
-    return _re.sub(r"\W+", "", " ".join((t or "").strip().split("\n")[:2])).lower()[:80]
+    # 12/11: 3 primeras líneas CON texto: todos los verdes empiezan «PARA DENTRO SEÑORES ✅🤑» + línea en blanco y
+    # el del Accrington hizo que los de la escalera y el Lyon se dieran por «ya publicados» sin salir
+    lineas = [x for x in (t or "").strip().split("\n") if x.strip()][:3]
+    return _re.sub(r"\W+", "", " ".join(lineas)).lower()[:120]
 
 
 _RECIENTES = {}

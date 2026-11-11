@@ -200,6 +200,13 @@ class TestFallos11Nov(unittest.TestCase):
         html = T.documento(dict(p, id="2026-11-11-combi-tres"), "15:15")
         self.assertIn("COMBI ACERTADA", html)
 
+    def test_verdes_distintos_no_son_duplicados(self):
+        import redes
+        a = "PARA DENTRO SEÑORES ✅🤑\n\n✅ Accrington +1,5 (hándicap)\n\n📈 Cuota @1,51"
+        b = "PARA DENTRO SEÑORES ✅🤑\n\n✅ OH Leuven (fem.) marca\n✅ Lyon (fem.) marca 3 o más"
+        self.assertNotEqual(redes._titulo(a), redes._titulo(b))
+        self.assertEqual(redes._titulo(a), redes._titulo(a + "\n\nOtra cosa"))
+
 
 if __name__ == "__main__":
     unittest.main()
