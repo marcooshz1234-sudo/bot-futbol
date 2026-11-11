@@ -1,7 +1,7 @@
 {
  "tipster": {
   "TipsAnalistas": {
-   "n": 6,
+   "n": 7,
    "verdes": 4,
    "rojos": 1,
    "nulos": 0,
@@ -19,7 +19,7 @@
    "prob_cuota": 0.667
   },
   "Tipster Pérez": {
-   "n": 2,
+   "n": 4,
    "verdes": 0,
    "rojos": 2,
    "nulos": 0,
@@ -149,11 +149,32 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Asian Handicap Away +1.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "To Win Either Half Away": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Total - Away Over 1.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 9,
+   "n": 10,
    "verdes": 1,
    "rojos": 2,
    "nulos": 0,
@@ -231,17 +252,40 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.649
+  },
+  "Accrington Stanley": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Køge W": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "goles": {
-   "n": 7,
+   "n": 9,
    "verdes": 0,
    "rojos": 2,
    "nulos": 0,
    "unidades": -1.5,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.281
+  },
+  "racha": {
+   "n": 6,
+   "verdes": 2,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": -0.54,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.791
   },
   "sin razón": {
    "n": 6,
@@ -270,17 +314,8 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.305
   },
-  "racha": {
-   "n": 5,
-   "verdes": 2,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": -0.54,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.791
-  },
   "motivación": {
-   "n": 2,
+   "n": 3,
    "verdes": 1,
    "rojos": 1,
    "nulos": 0,
@@ -306,15 +341,8 @@
   }
  },
  "cuota": {
-  "?": {
-   "n": 6,
-   "verdes": 3,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "1,50-1,80": {
-   "n": 6,
+   "n": 7,
    "verdes": 1,
    "rojos": 4,
    "nulos": 0,
@@ -323,9 +351,16 @@
    "prob_cuota": 3.199
   },
   "<1,50": {
-   "n": 5,
+   "n": 7,
    "verdes": 0,
    "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "?": {
+   "n": 6,
+   "verdes": 3,
+   "rojos": 2,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -341,13 +376,22 @@
  },
  "liga": {
   "?": {
-   "n": 15,
+   "n": 16,
    "verdes": 4,
    "rojos": 5,
    "nulos": 0,
    "unidades": -2.0,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.574
+  },
+  "UEFA Champions League Women": {
+   "n": 3,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.625
   },
   "Copa del Rey": {
    "n": 1,
@@ -358,15 +402,6 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.51
   },
-  "UEFA Champions League Women": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.625
-  },
   "UEFA Nations League": {
    "n": 1,
    "verdes": 0,
@@ -376,6 +411,15 @@
   }
  },
  "lado": {
+  "visitante": {
+   "n": 9,
+   "verdes": 3,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -1.04,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.784
+  },
   "partido": {
    "n": 9,
    "verdes": 1,
@@ -384,15 +428,6 @@
    "unidades": -0.5,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.269
-  },
-  "visitante": {
-   "n": 6,
-   "verdes": 3,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -1.04,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.784
   },
   "local": {
    "n": 3,
@@ -415,7 +450,7 @@
    "prob_cuota": 2.393
   },
   "goles": {
-   "n": 2,
+   "n": 5,
    "verdes": 1,
    "rojos": 0,
    "nulos": 0,
@@ -467,7 +502,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 18,
+   "n": 21,
    "verdes": 5,
    "rojos": 6,
    "nulos": 0,

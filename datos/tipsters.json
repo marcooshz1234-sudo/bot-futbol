@@ -417,5 +417,58 @@
   "por_que": [
    "Vale que gane, empate o pierda por un gol; con el Sheffield rotando y el Accrington jugándose el pase, tiene sentido"
   ]
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/46954",
+  "dia": "2026-11-11",
+  "hora": "18:45",
+  "local": "OH Leuven W",
+  "visitante": "Køge W",
+  "texto": "El Køge gana al menos una de las dos partes",
+  "mercado": "To Win Either Half",
+  "opcion": "Away",
+  "cuota": 1.36,
+  "stake": 3,
+  "combinada": "-1001468963672/46954",
+  "argumento": [
+   "Leuven, colista de la Champions femenina: 1 punto y 1-10 en goles (perdió 5-0 con el PSG y 5-1 con el Servette)",
+   "Køge suma 3 puntos con 5 goles a favor"
+  ],
+  "por_que": [
+   "Leuven encaja mucho; basta con que el Køge gane una mitad."
+  ],
+  "partido_id": 1638318,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.36,
+   "prob_cuota": 0.735
+  }
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/46954",
+  "dia": "2026-11-11",
+  "hora": "21:00",
+  "local": "Juventus W",
+  "visitante": "Lyon W",
+  "texto": "El Lyon marca más de 1,5 goles",
+  "mercado": "Total - Away",
+  "opcion": "Over 1.5",
+  "cuota": 1.14,
+  "stake": 3,
+  "combinada": "-1001468963672/46954",
+  "argumento": [
+   "Lyon lleva 14-0 en goles en la Champions femenina (8-0 al Servette, 6-0 al Inter)"
+  ],
+  "por_que": [
+   "Lyon es de las mejores de Europa y no ha dejado de golear; la Juve encaja poco pero sufre ante las grandes."
+  ],
+  "partido_id": 1638311,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.12,
+   "prob_cuota": 0.877
+  }
  }
 ]
