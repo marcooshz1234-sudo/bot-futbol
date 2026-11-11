@@ -67,7 +67,7 @@ jobs:
       - name: Imágenes y reels de los posts del bot
         run: |
           sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null
-          pip install -q playwright && python -m playwright install --with-deps chromium >/dev/null
+          pip install -q playwright pillow && python -m playwright install --with-deps chromium >/dev/null
           python -u imagenes.py publicaciones/auto.json --pendientes || echo "imagenes.py falló (no bloquea)"
       - name: Quitar imágenes de posts viejos (01/11)
         run: python -u limpiar_media.py || echo "limpiar_media falló (no bloquea)"

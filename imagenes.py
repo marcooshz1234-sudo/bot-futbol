@@ -74,7 +74,7 @@ def partes(texto):
 
 
 def documento(p, vertical, mostrar=None, foto_b64=None):
-    if "-pick" in p.get("id", "") and "verde" not in p.get("id", "") and not foto_b64:
+    if re.search(r"-pick(-|$)", p.get("id", "")) and not re.search(r"verde|rojo", p.get("id", "")) and not foto_b64:
         import fotos   # 11/11: el pick suelto con su plantilla (escudos, VS, cuota)
         doc = fotos.pick_del_dia(p, 1080, 1920 if vertical else 1350)
         if doc:

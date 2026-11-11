@@ -48,8 +48,8 @@ def nitido(f, lado):
     """11/11 (Marcos: «solo el escudo, más grande y nítido»): el PNG (150 px) ampliado al tamaño exacto con
     Lanczos y un poco de enfoque, mejor que dejar que lo estire el navegador."""
     import io
-    from PIL import Image, ImageFilter
-    try:
+    try:   # si en GitHub no está Pillow, el escudo tal cual (antes de esto, la imagen fallaba entera)
+        from PIL import Image, ImageFilter
         im = Image.open(f).convert("RGBA")
         k = lado / max(im.size)
         if k > 1:
@@ -189,7 +189,7 @@ def decoracion(alto=1350, verde=False):
         out.append(f'<span style="position:absolute;left:{x}px;top:{y}px;width:{t}px;height:{t // 2 + 3}px;'
                    f'background:{rnd.choice(colores)};transform:rotate({rnd.randint(0, 180)}deg);z-index:0;opacity:.9"></span>')
     # todo dentro de una capa del tamaño del lienzo (si no, imagenes.ajustar_al_lienzo lo ve «recortado por arriba»)
-    return (f'<div class="deco" style="position:absolute;left:0;top:0;width:1080px;height:{alto}px;overflow:hidden;'
+    return (f'<div class="deco" style="position:absolute;left:0;top:0;width:1080px;height:100%;min-height:{alto}px;overflow:hidden;'
             f'z-index:0;pointer-events:none">' + "".join(out) + "</div>")
 
 
@@ -320,12 +320,13 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
 def verde_lista(patas, titulo, cuota, publicado, alto=1350):
     """Acierto de varias patas / partidos: lista de patas con su tick y el sello."""
     n = len(patas)
-    letra = 44 if n <= 3 else 38 if n <= 5 else 32 if n <= 8 else 26
+    letra = 44 if n <= 3 else 38 if n <= 5 else 30 if n <= 8 else 24
+    pad = 14 if n <= 5 else 8
     filas = ""
     for x in patas:
         anul = x.get("estado") == "anulada"
         sub = " · ".join(s for s in (fem(x.get("partido", "")), _marcador(x)) if s)
-        filas += (f'<div class="card" style="display:flex;align-items:center;gap:20px;padding:14px 26px;border-width:3px;'
+        filas += (f'<div class="card" style="display:flex;align-items:center;gap:20px;padding:{pad}px 26px;border-width:3px;'
                   f'border-left:10px solid {"#8a8f9e" if anul else "#3ee07a"};opacity:{.55 if anul else 1}">'
                   f'<span style="font-size:{letra}px">{"⏸️" if anul else "✅"}</span><div style="flex:1">'
                   f'<div class="b3d" style="font-size:{letra}px;line-height:1.05">{e(mayus(x.get("texto", "")))}'
@@ -333,10 +334,10 @@ def verde_lista(patas, titulo, cuota, publicado, alto=1350):
                   + (f'<div style="font-weight:600;font-size:{max(22, letra - 14)}px;color:#cbd5e1;margin-top:4px">{e(sub)}</div>' if sub else "")
                   + "</div></div>")
     cuerpo = (
-        f'<div style="margin-top:40px">{logo_img(180 if n <= 4 else 140)}</div>'
-        f'<div style="margin-top:6px">{_cinta(e(titulo), 76)}</div>'
-        f'<div style="margin-top:30px">{_sello(60)}</div>'
-        f'<div style="margin-top:44px;width:940px;display:flex;flex-direction:column;gap:{14 if n <= 5 else 10}px">{filas}</div>'
+        f'<div style="margin-top:{40 if n <= 5 else 30}px">{logo_img(180 if n <= 4 else 140 if n <= 6 else 110)}</div>'
+        f'<div style="margin-top:6px">{_cinta(e(titulo), 76 if n <= 6 else 62)}</div>'
+        f'<div style="margin-top:{30 if n <= 6 else 16}px">{_sello(60 if n <= 6 else 46)}</div>'
+        f'<div style="margin-top:{44 if n <= 6 else 26}px;width:940px;display:flex;flex-direction:column;gap:{14 if n <= 5 else 8}px">{filas}</div>'
         f'{_cajas([("CUOTA", cuota or "—"), ("PUBLICADO", publicado or "—")])}'
         f'<div style="margin:40px 0 70px;display:flex;justify-content:center">{_cinta("¿QUIÉN LA LLEVABA?", 56)}</div>')
     return _html(cuerpo, 1080, alto, verde=True)

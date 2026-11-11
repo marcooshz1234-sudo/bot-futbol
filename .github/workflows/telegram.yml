@@ -39,6 +39,7 @@ jobs:
           git config merge.cola.driver "python fusionar_cola.py %O %A %B"
           pip install -q telethon >/dev/null 2>&1 || true   # 10/11: lector de canales con la cuenta de Marcos
           pip install -q numpy >/dev/null 2>&1 || true   # 01/11: calibrar_crear.py lo necesita (fallaba desde el 30/10)
+          pip install -q pillow >/dev/null 2>&1 || true   # 11/11: fotos.py (escudos nítidos) y ticket_verde.sello
           # 27/10: la instalación de Chromium/ffmpeg (para rehacer imágenes) llegó a tardar 47 min y el bucle no
           # publicaba nada mientras tanto (posts con 30 min de retraso). Ahora va en segundo plano: el bucle
           # empieza a publicar al momento y las imágenes se rehacen en cuanto termina la instalación.

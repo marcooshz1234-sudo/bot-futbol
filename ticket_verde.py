@@ -64,8 +64,13 @@ def ticket(pagina, p, publicado, destino, alto=1350):
     pagina.goto("about:blank")
     pagina.set_content(documento(p, publicado, alto))
     pagina.wait_for_timeout(200)
+    # 11/11: Instagram no admite fotos más altas que 4:5 → si hay muchas patas, se encoge todo para que quepa en 1080x1350
+    h = pagina.evaluate("document.documentElement.scrollHeight")
+    if h > alto:
+        pagina.evaluate(f"document.body.style.transformOrigin = 'top center'; document.body.style.transform = 'scale({alto / h:.4f})'")
+        pagina.wait_for_timeout(100)
     destino.parent.mkdir(parents=True, exist_ok=True)
-    pagina.screenshot(path=str(destino), type="jpeg", quality=92, full_page=True)
+    pagina.screenshot(path=str(destino), type="jpeg", quality=92, clip={"x": 0, "y": 0, "width": 1080, "height": alto})
     return destino
 
 
