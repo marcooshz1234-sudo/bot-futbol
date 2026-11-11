@@ -391,7 +391,7 @@ def _cajas(datos):
                 for a, b in datos) + "</div>")
 
 
-def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
+def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350, lema=None):
     """Acierto de UN partido: escudos, marcador final, el pick con su cuota y el sello ✓ ACERTADO (Verde B + sello C)."""
     # 11/11: los escudos ya dicen el partido → fuera el «en Local–Visitante» del texto del pick
     pk = re.sub(r"\s+(?:en|del?)\s+[^–-]+\s*[–-]\s*.+$", "", pata.get("texto", "")).strip() or pata.get("texto", "")
@@ -426,7 +426,7 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
            f'<div style="position:absolute;right:24px;top:-74px">{_sello(64)}</div></div>')
         + f'{_cajas(datos)}</div>'
         f'<div style="position:absolute;left:0;right:0;bottom:56px;display:flex;justify-content:center">'
-        f'{_brocha("¿QUIÉN LA LLEVABA? 🍀" if CL else "¿QUIÉN LA LLEVABA?", 56)}</div>')
+        f'{_brocha((lema or "¿QUIÉN LA LLEVABA?") + (" 🍀" if CL else ""), 56)}</div>')
     return _html(cuerpo, 1080, alto, verde=True)
 
 

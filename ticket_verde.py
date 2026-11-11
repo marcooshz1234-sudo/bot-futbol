@@ -77,6 +77,12 @@ def escalera_extra(p, cuota):
     return {"cajas": cajas, "lema": lema}
 
 
+def _lema(p):
+    """12/11 (Marcos): la cinta del verde cambia de un post a otro (no siempre «¿QUIÉN LA LLEVABA?»)."""
+    from plantillas import lema_verde
+    return lema_verde(p.get("id") or p.get("titulo") or "") + " 🍀"
+
+
 def documento(p, publicado, alto=1350):
     """p: la combi de docs/datos.json (publicados_hoy) ya en verde. publicado: «HH:MM».
     11/11: plantillas nuevas (fotos.py): un partido → tarjeta con escudos, marcador y sello ACERTADO; varios → lista."""
@@ -89,9 +95,9 @@ def documento(p, publicado, alto=1350):
     if len(patas) == 1 and len(partidos) == 1 and patas[0].get("partido_id"):
         t = fotos.partido({"sel": [f"{patas[0]['partido_id']}|x|x"]})
         if t:
-            return fotos.verde_partido(t, patas[0], cuota, publicado, t.get("liga"), alto)
+            return fotos.verde_partido(t, patas[0], cuota, publicado, t.get("liga"), alto, lema=_lema(p))
     titulo = "PICK ACERTADO" if len(patas) == 1 else "COMBI ACERTADA"
-    return fotos.verde_lista(patas, titulo, cuota, publicado, alto)
+    return fotos.verde_lista(patas, titulo, cuota, publicado, alto, lema=_lema(p))
 
 
 def ticket(pagina, p, publicado, destino, alto=1350):

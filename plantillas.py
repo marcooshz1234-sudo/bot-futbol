@@ -80,6 +80,16 @@ LEMAS = ("¿LA PINTAMOS DE VERDE?", "¿CUÁNTOS ACERTAMOS HOY?", "¿TODO VERDE H
          "¿NOS LA JUGAMOS?", "¿CUÁL FALLA?", "¿PLENO HOY?")
 
 
+# 12/11 (Marcos: «sí», variar también el de los verdes): la cinta de la foto de cada verde
+LEMAS_VERDE = ("¿QUIÉN LA LLEVABA?", "¡PARA DENTRO!", "¡A COBRAR!", "¡OTRA MÁS!", "¿QUIÉN LA COGIÓ?",
+               "¡SEGUIMOS SUMANDO!", "¡VERDE QUE TE QUIERO VERDE!")
+
+
+def lema_verde(semilla):
+    import hashlib
+    return LEMAS_VERDE[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(LEMAS_VERDE)]
+
+
 def lema(semilla):
     import hashlib
     return LEMAS[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(LEMAS)]

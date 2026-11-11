@@ -233,6 +233,16 @@ class TestFallos11Nov(unittest.TestCase):
             G.posts("2026-11-14")
         self.assertEqual(len(set(frases)), 2)   # mismo día, frases distintas
 
+    def test_lema_verdes_varia(self):
+        import ticket_verde as T
+        lemas = set()
+        for i in range(12):
+            p = {"id": f"2026-11-1{i % 9}-combi-{i}", "cuota": 2, "picks": [{"texto": "Gana el Betis", "estado": "verde"},
+                                                                         {"texto": "Marca el Sevilla", "estado": "verde"}]}
+            html = T.documento(p, "12:00")
+            lemas |= {l for l in __import__("plantillas").LEMAS_VERDE if l in html}
+        self.assertGreater(len(lemas), 2)
+
 
 if __name__ == "__main__":
     unittest.main()
