@@ -171,6 +171,14 @@ class TestFallos11Nov(unittest.TestCase):
         src = (RAIZ / "vigilante.py").read_text(encoding="utf-8")
         self.assertIn('if p["id"] not in borrados', src)
 
+    def test_fondo_de_las_apps(self):
+        # 11/11: la app pública buscaba publica/fondo.jpg (no existe) y se veía negra
+        self.assertTrue((RAIZ / "docs" / "fondo.jpg").exists())
+        for app in ("publica", "panel", "mis"):
+            src = (RAIZ / "docs" / app / "index.html").read_text(encoding="utf-8")
+            self.assertIn('url("../fondo.jpg")', src, app)
+        self.assertIn('url("fondo.jpg")', (RAIZ / "docs" / "index.html").read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()
