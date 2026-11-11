@@ -377,5 +377,25 @@
   "por_que": [
    "Over típico de EFL Trophy con sub-21; sin datos nuestros del partido."
   ]
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44950",
+  "dia": "2026-11-12",
+  "local": "Czechia",
+  "visitante": "Spain",
+  "partido_id": 1528961,
+  "texto": "+1.5 Goles Rep Checa - España",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.12,
+   "prob_cuota": 0.893
+  }
  }
 ]

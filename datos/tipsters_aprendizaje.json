@@ -28,7 +28,7 @@
    "prob_cuota": 1.281
   },
   "INSIDER": {
-   "n": 1,
+   "n": 2,
    "verdes": 0,
    "rojos": 1,
    "nulos": 0,
@@ -142,11 +142,18 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
+  },
+  "Goals Over/Under Over 1.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 8,
+   "n": 9,
    "verdes": 1,
    "rojos": 2,
    "nulos": 0,
@@ -236,6 +243,15 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.281
   },
+  "sin razón": {
+   "n": 6,
+   "verdes": 2,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -0.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.269
+  },
   "casa/fuera": {
    "n": 5,
    "verdes": 3,
@@ -262,15 +278,6 @@
    "unidades": -0.54,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.791
-  },
-  "sin razón": {
-   "n": 5,
-   "verdes": 2,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.269
   },
   "motivación": {
    "n": 2,
@@ -299,6 +306,13 @@
   }
  },
  "cuota": {
+  "?": {
+   "n": 6,
+   "verdes": 3,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "1,50-1,80": {
    "n": 6,
    "verdes": 1,
@@ -307,13 +321,6 @@
    "unidades": -3.0,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.199
-  },
-  "?": {
-   "n": 5,
-   "verdes": 3,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "<1,50": {
    "n": 5,
@@ -359,11 +366,18 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.625
+  },
+  "UEFA Nations League": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "lado": {
   "partido": {
-   "n": 8,
+   "n": 9,
    "verdes": 1,
    "rojos": 2,
    "nulos": 0,
@@ -392,7 +406,7 @@
  },
  "por_que": {
   "—": {
-   "n": 13,
+   "n": 14,
    "verdes": 4,
    "rojos": 5,
    "nulos": 0,
@@ -453,7 +467,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 17,
+   "n": 18,
    "verdes": 5,
    "rojos": 6,
    "nulos": 0,
