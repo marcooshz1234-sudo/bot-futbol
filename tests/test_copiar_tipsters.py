@@ -39,7 +39,7 @@ class TestCopiarTipsters(unittest.TestCase):
                                                             "local": "A", "visitante": "B", "texto": "Gana A", "partido_id": 9}]))
             with mock.patch.object(C, "DATOS", d), mock.patch.object(C, "REGISTRO", d / "r.json"), \
                     mock.patch.object(C, "COLA", d / "cola.json"), \
-                    mock.patch.object(C, "inicio", lambda pk: datetime(2026, 11, 11, 8, 30, tzinfo=MADRID)):
+                    mock.patch.object(C, "inicio", lambda pk: datetime(2026, 11, 11, 8, 10, tzinfo=MADRID)):
                 self.assertEqual(C.main(datetime(2026, 11, 11, 8, 0, tzinfo=MADRID)), [])
 
 

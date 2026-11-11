@@ -18,8 +18,8 @@ from bot import DATOS, MADRID, leer
 COPIAR = ("TipsAnalistas", "Tipster Pérez", "PABLO ANALISTA")
 REGISTRO = DATOS / "tipsters_copiados.json"
 COLA = DATOS.parent / "publicaciones" / "cola.json"
-MARGEN = timedelta(minutes=35)
-ESPERA = timedelta(minutes=20)
+MARGEN = timedelta(minutes=15)
+ESPERA = timedelta(minutes=2)   # 11/11 15:37 (Marcos: «subirlo rápido, las casas bajan la cuota»): la foto la hace este mismo script
 
 
 ABRE_PICK = ["Otro pick que nos gusta mucho familia 🔥", "Vamos con otro pick, familia 👇", "Este nos encanta para hoy 🔥",
@@ -54,6 +54,22 @@ def inicio(pk):
                 f = x["fixture"]["date"]
                 break
     return datetime.fromisoformat(f).astimezone(MADRID) if f else None
+
+
+def cuota_bet365(pk):
+    """11/11 (Marcos: «comprueba las cuotas, no te fíes de lo que pongan ellos»): la de bet365 que tenemos ahora
+    (datos/cuotas_frescas.json o la del partido), si la hay; si no, la suya."""
+    fid = str(pk.get("partido_id") or "")
+    if fid:
+        for c in ((leer(DATOS / "cuotas_frescas.json", {}) or {}).get(fid, {}).get("cuotas"),
+                  ((leer(DATOS / "proximos" / f"{fid}.json", {}) or {}).get("cuotas") or {})):
+            try:
+                v = float((c or {})[pk["mercado"]][pk["opcion"]])
+                if 1.01 < v < 50:
+                    return v, True
+            except (KeyError, TypeError, ValueError):
+                pass
+    return pk.get("cuota"), False
 
 
 def texto_pata(pk):
@@ -120,7 +136,10 @@ def main(ahora=None):
         if not ini or ini - ahora < MARGEN + ESPERA:
             hechos.add(clave(x))   # ya empezado o muy justo: no se copia (y no se vuelve a mirar)
             continue
-        x = dict(x, _ini=ini)
+        cu, comprobada = cuota_bet365(x)
+        if comprobada and x.get("cuota") and cu < float(x["cuota"]) - 0.001:
+            print(f"Cuota bajada en bet365: {x['texto']} {x['cuota']} → {cu}")
+        x = dict(x, _ini=ini, cuota=cu, cuota_comprobada=comprobada)
         if x.get("combinada"):
             combis.setdefault(f"{x['tipster']}|{x['combinada']}", []).append(x)
         else:
@@ -149,6 +168,21 @@ def main(ahora=None):
     if nuevos:
         cola += nuevos
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        try:   # foto y reel al momento (Instagram no espera a la pasada de imagenes.py); solo en el bot de GitHub
+            import os
+            if os.environ.get("GITHUB_ACTIONS") != "true":
+                raise RuntimeError("fuera del bot: las fotos las hará imagenes.py")
+            import imagenes
+            from playwright.sync_api import sync_playwright
+            with sync_playwright() as pw:
+                nav = pw.chromium.launch()
+                pg = nav.new_page()
+                for p in nuevos:
+                    imagenes.generar(p, pg)
+                    (imagenes.MEDIA / f"{p['id']}.huella").write_text(imagenes.huella(p))
+                nav.close()
+        except Exception as e:
+            print("copiar_tipsters (fotos):", e)
         for p in nuevos:
             print(f"Copiado de tipster: {p['id']} a las {p['fecha'][11:]} · {p['texto'].splitlines()[3]}")
     REGISTRO.write_text(json.dumps(sorted(hechos)[-2000:], ensure_ascii=False) + "\n", encoding="utf-8")
