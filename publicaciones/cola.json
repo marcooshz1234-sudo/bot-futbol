@@ -4176,7 +4176,9 @@
       "fuente": "Pinnacle",
       "edad_h": 0.0,
       "texto": "Empate en SL Benfica W–Austria Wien W"
-    }
+    },
+    "caducada": true,
+    "nota": " · 17:40 Claude: caducada (Benfica–Austria aplazado al 12/11)"
   },
   {
     "id": "2026-11-11-cuotaza-1638311-f85cd8",
@@ -4208,7 +4210,9 @@
       "fuente": "Pinnacle",
       "edad_h": 0.0,
       "texto": "Juventus W marca"
-    }
+    },
+    "caducada": true,
+    "nota": " · 17:40 Claude: caducada (cuota de las 09:05, más de 8 h sin comprobar)"
   },
   {
     "id": "2026-11-11-cuotaza-1638339-060d5b",
@@ -4240,7 +4244,9 @@
       "fuente": "Pinnacle",
       "edad_h": 0.0,
       "texto": "Austria Wien W o empate"
-    }
+    },
+    "caducada": true,
+    "nota": " · 17:40 Claude: caducada (Benfica–Austria aplazado al 12/11)"
   },
   {
     "id": "2026-11-11-verdes-semana",
