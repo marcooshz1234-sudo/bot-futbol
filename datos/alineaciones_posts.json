@@ -246,291 +246,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1570011": {
-   "hora": "2026-11-09T20:09:20.984662+01:00",
-   "xi": [
-    "José Caro",
-    "Valentín Pezzolesi",
-    "Álex Suárez",
-    "Juan Herzog",
-    "A. Rodriguez",
-    "T. Miyashiro",
-    "E. Loiodice",
-    "Kirian Rodríguez",
-    "Iván Jaime",
-    "Jesé",
-    "Manu Fuster",
-    "Ramón Vila",
-    "Jesús Clemente",
-    "Alex Serradell",
-    "Iker Recio",
-    "Juan Larios",
-    "J. Smith",
-    "Marcos Bustillo",
-    "Fidel",
-    "Roberto López",
-    "Jorge Rastrojo",
-    "M. Carmona"
-   ],
-   "banquillo": [
-    "Adrián Suárez",
-    "J. Recoba",
-    "Adrián Rodríguez del Rosario",
-    "Jefté Betancor",
-    "A. Bassinga",
-    "Mateo Acimovic",
-    "G. Bonfanti",
-    "Rafa Cruz",
-    "Ale García",
-    "N. Opoku",
-    "Sandro Ramírez",
-    "Elías Romero",
-    "F. Smand",
-    "A. Ibarrondo",
-    "Jordi Martín",
-    "Javi Martínez",
-    "Manu Nieto",
-    "Aingeru Olabarrieta",
-    "J. Olaizola",
-    "Juanpa",
-    "Waldo Rubio",
-    "D. Ruiz",
-    "Carlos Guirao",
-    "Pau Cabanes"
-   ],
-   "equipos": {
-    "534": [
-     {
-      "n": "José Caro",
-      "pos": "G"
-     },
-     {
-      "n": "Valentín Pezzolesi",
-      "pos": "D"
-     },
-     {
-      "n": "Álex Suárez",
-      "pos": "D"
-     },
-     {
-      "n": "Juan Herzog",
-      "pos": "D"
-     },
-     {
-      "n": "A. Rodriguez",
-      "pos": "D"
-     },
-     {
-      "n": "T. Miyashiro",
-      "pos": "M"
-     },
-     {
-      "n": "E. Loiodice",
-      "pos": "M"
-     },
-     {
-      "n": "Kirian Rodríguez",
-      "pos": "M"
-     },
-     {
-      "n": "Iván Jaime",
-      "pos": "M"
-     },
-     {
-      "n": "Jesé",
-      "pos": "F"
-     },
-     {
-      "n": "Manu Fuster",
-      "pos": "F"
-     }
-    ],
-    "9692": [
-     {
-      "n": "Ramón Vila",
-      "pos": "G"
-     },
-     {
-      "n": "Jesús Clemente",
-      "pos": "D"
-     },
-     {
-      "n": "Alex Serradell",
-      "pos": "D"
-     },
-     {
-      "n": "Iker Recio",
-      "pos": "D"
-     },
-     {
-      "n": "Juan Larios",
-      "pos": "D"
-     },
-     {
-      "n": "J. Smith",
-      "pos": "M"
-     },
-     {
-      "n": "Marcos Bustillo",
-      "pos": "M"
-     },
-     {
-      "n": "Fidel",
-      "pos": "M"
-     },
-     {
-      "n": "Roberto López",
-      "pos": "M"
-     },
-     {
-      "n": "Jorge Rastrojo",
-      "pos": "M"
-     },
-     {
-      "n": "M. Carmona",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1570013": {
-   "hora": "2026-11-09T20:09:20.984662+01:00",
-   "xi": [
-    "Diego Fuoli",
-    "Ton Ripoll",
-    "José Luis Català",
-    "Edgar González",
-    "Genar Fornés",
-    "Ángel Baena",
-    "Q. Liameed",
-    "Pere Pons",
-    "Y. Rahmani",
-    "J. Priego",
-    "Gastón Valles",
-    "Lander Olasagasti",
-    "Rupérez",
-    "Luken Beitia",
-    "K. Kita",
-    "Unax Agote",
-    "Dani Díaz",
-    "Tomás Carbonell",
-    "A. Lebarbier",
-    "Alex Garcia",
-    "Gorka Gorosabel",
-    "Javier Soroeta"
-   ],
-   "banquillo": [
-    "Marc Vidal",
-    "Joaquim Utgés Almeda",
-    "J. Ortega",
-    "Urri",
-    "Alain Ribeiro",
-    "Arthur Bonaldo",
-    "Kaiser Lázaro",
-    "Javi López",
-    "Y. Owusu",
-    "N. Obolskiy",
-    "Andrews Adjabeng",
-    "Lander Astiazarán",
-    "A. Unax",
-    "Jon Balda",
-    "I. Calderon"
-   ],
-   "equipos": {
-    "9593": [
-     {
-      "n": "Diego Fuoli",
-      "pos": "G"
-     },
-     {
-      "n": "Ton Ripoll",
-      "pos": "D"
-     },
-     {
-      "n": "José Luis Català",
-      "pos": "D"
-     },
-     {
-      "n": "Edgar González",
-      "pos": "D"
-     },
-     {
-      "n": "Genar Fornés",
-      "pos": "D"
-     },
-     {
-      "n": "Ángel Baena",
-      "pos": "M"
-     },
-     {
-      "n": "Q. Liameed",
-      "pos": "M"
-     },
-     {
-      "n": "Pere Pons",
-      "pos": "M"
-     },
-     {
-      "n": "Y. Rahmani",
-      "pos": "M"
-     },
-     {
-      "n": "J. Priego",
-      "pos": "F"
-     },
-     {
-      "n": "Gastón Valles",
-      "pos": "F"
-     }
-    ],
-    "9585": [
-     {
-      "n": "Lander Olasagasti",
-      "pos": "G"
-     },
-     {
-      "n": "Rupérez",
-      "pos": "D"
-     },
-     {
-      "n": "Luken Beitia",
-      "pos": "D"
-     },
-     {
-      "n": "K. Kita",
-      "pos": "D"
-     },
-     {
-      "n": "Unax Agote",
-      "pos": "D"
-     },
-     {
-      "n": "Dani Díaz",
-      "pos": "M"
-     },
-     {
-      "n": "Tomás Carbonell",
-      "pos": "M"
-     },
-     {
-      "n": "A. Lebarbier",
-      "pos": "M"
-     },
-     {
-      "n": "Alex Garcia",
-      "pos": "M"
-     },
-     {
-      "n": "Gorka Gorosabel",
-      "pos": "F"
-     },
-     {
-      "n": "Javier Soroeta",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1573636": {
    "hora": "2026-11-09T21:05:12.820378+01:00",
    "xi": [],
@@ -1718,10 +1433,149 @@
    }
   },
   "1638311": {
-   "hora": "2026-11-11T19:57:28.588687+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-11T20:47:35.251723+01:00",
+   "xi": [
+    "D. de Jong",
+    "K. Sylla",
+    "C. Salvai",
+    "M. Lenzini",
+    "Tatiana Pinto",
+    "M. Hayashi",
+    "E. Schatzer",
+    "Estela Carbonell",
+    "D. Noordman",
+    "Alba Redondo",
+    "M. Pavan",
+    "M. Grohs",
+    "J. Brand",
+    "Wassa Sangare",
+    "W. Renard",
+    "S. Bacha",
+    "Lily Yohannes",
+    "D. Egurrola",
+    "M. Dumornay",
+    "V. Bècho",
+    "M. Katoto",
+    "T. Chawinga"
+   ],
+   "banquillo": [
+    "Ornella Graziani",
+    "J. Bartel",
+    "Giorgia Bianchi",
+    "R. Chiba",
+    "Cristina Librán",
+    "Giulia Martinazzi",
+    "M. Rosucci",
+    "L. Rusek",
+    "Amaiur Sarriegi",
+    "A. Serturini",
+    "M. Fathallah",
+    "C. Endler",
+    "Liana Joseph",
+    "E. Junttila-Nelhage",
+    "A. Lawrence",
+    "Salma Paralluelo",
+    "K. Albert",
+    "A. Hegerberg",
+    "Julie Swierot",
+    "I. Engen",
+    "Tarciane Karen Dos Santos de Lima",
+    "I. Benyahia"
+   ],
+   "equipos": {
+    "1886": [
+     {
+      "n": "D. de Jong",
+      "pos": "G"
+     },
+     {
+      "n": "K. Sylla",
+      "pos": "D"
+     },
+     {
+      "n": "C. Salvai",
+      "pos": "D"
+     },
+     {
+      "n": "M. Lenzini",
+      "pos": "D"
+     },
+     {
+      "n": "Tatiana Pinto",
+      "pos": "M"
+     },
+     {
+      "n": "M. Hayashi",
+      "pos": "M"
+     },
+     {
+      "n": "E. Schatzer",
+      "pos": "M"
+     },
+     {
+      "n": "Estela Carbonell",
+      "pos": "M"
+     },
+     {
+      "n": "D. Noordman",
+      "pos": "F"
+     },
+     {
+      "n": "Alba Redondo",
+      "pos": "F"
+     },
+     {
+      "n": "M. Pavan",
+      "pos": "F"
+     }
+    ],
+    "1674": [
+     {
+      "n": "M. Grohs",
+      "pos": "G"
+     },
+     {
+      "n": "J. Brand",
+      "pos": "D"
+     },
+     {
+      "n": "Wassa Sangare",
+      "pos": "D"
+     },
+     {
+      "n": "W. Renard",
+      "pos": "D"
+     },
+     {
+      "n": "S. Bacha",
+      "pos": "D"
+     },
+     {
+      "n": "Lily Yohannes",
+      "pos": "M"
+     },
+     {
+      "n": "D. Egurrola",
+      "pos": "M"
+     },
+     {
+      "n": "M. Dumornay",
+      "pos": "M"
+     },
+     {
+      "n": "V. Bècho",
+      "pos": "F"
+     },
+     {
+      "n": "M. Katoto",
+      "pos": "F"
+     },
+     {
+      "n": "T. Chawinga",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

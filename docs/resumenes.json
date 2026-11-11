@@ -1600,8 +1600,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
-      "sin_datos": 0,
+      "pendiente": 5,
+      "sin_datos": 2,
       "no_jugo": 0,
       "sin_resolver": 7
     },
@@ -1633,13 +1633,13 @@
       {
         "id": "2026-11-11-pick-seguro-3",
         "titulo": "Vamos con el pick de la tarde familia 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-11-combi-tip-1",
         "titulo": "Combinada que nos gusta mucho familia 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1652,8 +1652,8 @@
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 11
+      "total": 9
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ Vamos con el pick de la tarde familia 🔥 · pendiente\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n⏳ Y para cerrar el día, otro pick que nos gusta mucho 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n❔ Vamos con el pick de la tarde familia 🔥 · faltan datos\n❔ Combinada que nos gusta mucho familia 🔥 · faltan datos\n⏳ Y para cerrar el día, otro pick que nos gusta mucho 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
   }
 }
