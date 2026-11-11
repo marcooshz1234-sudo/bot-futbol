@@ -319,6 +319,8 @@ def texto_seguro(p, dia=""):
             con_razones, con_stake = bool(AJ.valor("pick_razones", c)), bool(AJ.valor("pick_stake", c))
         except Exception as e:
             print("ajustes redactor:", e)
+        # 11/11: fuera los titulares de prensa sueltos («El deporte 'esquiva' la huelga (La Tribuna…)»): no explican el pick
+        motivos = [m for m in motivos if not re.search(r"\([A-ZÁÉÍÓÚ][^()]{3,40}\)\s*$", m)]
         if not con_razones:
             motivos = []
         lineas = [saludo, "",
