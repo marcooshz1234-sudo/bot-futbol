@@ -127,6 +127,10 @@ class TestFallos11Nov(unittest.TestCase):
             for m in re.finditer(r'\.huella"\)\.write_text\((.*)', src):
                 self.assertIn("huella(p)", m.group(1), f.name)
 
+    def test_no_titular_sin_rehacer_no_sale(self):
+        src = (RAIZ / "alineaciones_espera.py").read_text(encoding="utf-8")
+        self.assertIn('nuevo["caducada"] = f"no titular:', src)   # antes salía con el jugador suplente
+
 
 if __name__ == "__main__":
     unittest.main()

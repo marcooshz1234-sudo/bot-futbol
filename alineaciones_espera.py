@@ -95,6 +95,15 @@ def main():
                 nuevo = r
             print(f"Alineación: {p['id']} llevaba a {', '.join(fuera)} (no titular) → {'rehecho' if r else 'sin cambio posible'}")
         nuevo.update(fecha=ahora.strftime("%Y-%m-%dT%H:%M"), alineacion_ok=True, espera_alineacion=True)
+        if fuera and not r:
+            # 11/11: antes salía igual con el jugador que no es titular. Ahora no sale y se avisa a Marcos
+            nuevo["caducada"] = f"no titular: {', '.join(fuera)}"
+            try:
+                from alineaciones_posts import dm
+                dm(f"⚠️ No sale «{(p.get('texto') or '').splitlines()[0][:60]}»: {', '.join(fuera)} no es titular "
+                   "y no había otra combi del partido sin él.")
+            except Exception as e:
+                print("aviso no titular:", e)
         publicar.append(nuevo)
     if publicar:
         ids = {x["id"] for x in publicar}
@@ -102,7 +111,8 @@ def main():
         (RAIZ / "publicaciones" / "cola.json").write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         from alineaciones_posts import rehacer_imagen
         for x in publicar:
-            rehacer_imagen(x)
+            if not x.get("caducada"):
+                rehacer_imagen(x)
         print("Alineaciones confirmadas, salen ya:", ", ".join(sorted(ids)))
     ESTADO.write_text(json.dumps(est, ensure_ascii=False, indent=1), encoding="utf-8")
 
