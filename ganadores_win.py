@@ -110,13 +110,15 @@ def posts(dia):
         pass
     salida = []
     for i, (clave, sel) in enumerate(grupos(dia, usados)):
-        p = post(dia, hora=HORAS[min(i, len(HORAS) - 1)], sufijo=clave, sel=sel)
+        from plantillas import LEMAS, lema as _lema
+        primero = LEMAS.index(_lema(dia))   # 12/11: cada post del día con una frase distinta
+        p = post(dia, hora=HORAS[min(i, len(HORAS) - 1)], sufijo=clave, sel=sel, frase=LEMAS[(primero + i) % len(LEMAS)])
         if p:
             salida.append(p)
     return salida
 
 
-def post(dia, hora=HORA, excluir=(), sufijo="", sel=None):
+def post(dia, hora=HORA, excluir=(), sufijo="", sel=None, frase=None):
     """Dict de post para la cola (o None). Con sel: esos partidos (un grupo de grupos())."""
     import semana
     if sel is None:   # el de antes: una liga con 8+ favoritos o todos juntos
@@ -155,13 +157,15 @@ def post(dia, hora=HORA, excluir=(), sufijo="", sel=None):
         filas.append({"pais": pais, "bandera": bandera, "escudo_url": x["equipo"].get("logo"), "nombre": nombre, "pick": "WIN",
                       "seleccion": seleccion})
         lineas.append(f"{i}. {bandera} {nombre} - Win")
-    texto = f"🏆 {titulo} - GANADORES\n\n" + "\n".join(lineas) + "\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
+    from plantillas import lema as _lema
+    frase = frase or _lema(f"{dia}-ganadores-{sufijo}")   # 12/11 (Marcos): no siempre «¿LA PINTAMOS DE VERDE?»
+    texto = f"🏆 {titulo} - GANADORES\n\n" + "\n".join(lineas) + f"\n\n🍀 {frase} 👀💚"
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hora[0], minute=hora[1])
     f = min(f, sel[0]["ini"] - timedelta(hours=1))
     return {"id": f"{dia}-ganadores-{sufijo}", "fecha": f.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
             "origen": "analista", "directo": True, "solo_redes": True, "forzar": True,   # 11/11: también a Instagram (reel)
             "sel": [f"{x['fid']}|Match Winner|{x['lado']}" for x in sel], "cuotas": [x["cuota"] for x in sel],
-            "ganadores_img": {"titulo": titulo, "liga": liga, "filas": filas}}
+            "ganadores_img": {"titulo": titulo, "liga": liga, "filas": filas, "lema": frase}}
 
 
 def datos_imagen(p):
@@ -190,4 +194,5 @@ def hacer_imagen(p):
     import ganadores_img as G
     from imagenes import MEDIA
     filas, liga = datos_imagen(p)
-    return G.generar(filas, p["ganadores_img"]["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga)
+    return G.generar(filas, p["ganadores_img"]["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga,
+                     lema=p["ganadores_img"].get("lema"))

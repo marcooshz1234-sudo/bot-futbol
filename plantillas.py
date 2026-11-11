@@ -74,6 +74,15 @@ def lista(picks):
 
 
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
+# 12/11 (Marcos: «lo de la pintamos de verde se podría variar un poco»): la frase de cierre de los «Partidos de hoy»
+# cambia de un post a otro (la misma en la foto y en el texto)
+LEMAS = ("¿LA PINTAMOS DE VERDE?", "¿CUÁNTOS ACERTAMOS HOY?", "¿TODO VERDE HOY?", "¿QUIÉN SE APUNTA?",
+         "¿NOS LA JUGAMOS?", "¿CUÁL FALLA?", "¿PLENO HOY?")
+
+
+def lema(semilla):
+    import hashlib
+    return LEMAS[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(LEMAS)]
 FORMATO_27 = True          # el formato del martes 27/10 (combis_dia.py)
 FORMATO_27_DESDE = "2026-10-28"   # poner "9999" para volver al de antes
 GANADORES_ACTIVO = False   # 11/11 (Marcos): quitado; ya están los «Partidos de hoy» con escudos (ganadores_win.py)

@@ -240,22 +240,23 @@ body{margin:0;width:1080px;height:1350px;overflow:hidden;position:relative;font-
             f"<div class='lista'>{lis}</div><div class='pie'>@COMBILOCAS 🍀</div></body></html>")
 
 
-def html_estadio(filas, titulo, liga=None):
+def html_estadio(filas, titulo, liga=None, lema=None):
     """11/11 (Marcos): con la pinta del logo nuevo (fotos.quien_gana)."""
     import fotos
-    return fotos.quien_gana(filas, titulo, liga=liga)
+    return fotos.quien_gana(filas, titulo, liga=liga, lema=lema)
 
 
 PLANTILLAS = {"oro": (html_oro, (1350, 1000)), "noche": (html_noche, (1080, 1350)), "estadio": (html_estadio, (1080, 1350))}
 
 
-def generar(filas, titulo, salida, plantilla="oro", liga=None):
+def generar(filas, titulo, salida, plantilla="oro", liga=None, lema=None):
     from playwright.sync_api import sync_playwright
     hacer, (w, h) = PLANTILLAS[plantilla]
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page(viewport={"width": w, "height": h})
-        pg.set_content(hacer(filas, titulo, liga) if plantilla in ("oro", "estadio") else hacer(filas, titulo))
+        pg.set_content(html_estadio(filas, titulo, liga, lema) if plantilla == "estadio" else
+                       hacer(filas, titulo, liga) if plantilla == "oro" else hacer(filas, titulo))
         pg.wait_for_timeout(800)
         pg.screenshot(path=str(salida), type="jpeg", quality=92)
         b.close()

@@ -219,6 +219,20 @@ class TestFallos11Nov(unittest.TestCase):
             g = dict(G.grupos("2026-11-12"))
         self.assertEqual(len(g["nations"]), 8)   # «tiene que haber 8-9»
 
+    def test_lema_partidos_de_hoy_varia(self):
+        import fotos, ganadores_win as G, plantillas
+        self.assertGreater(len({plantillas.lema(f"2026-11-{d:02d}") for d in range(1, 31)}), 3)
+        html = fotos.quien_gana([], "NATIONS LEAGUE", lema="¿PLENO HOY?")
+        self.assertIn("¿PLENO HOY?", html)
+        self.assertNotIn("PINTAMOS", html)
+        base = {"ini": 0, "equipo": {"name": "x"}, "grande": False, "lado": "Home", "cuota": 1.5, "prob": 0.7}
+        gr = [("laliga", [dict(base, fid=1, liga=140)]), ("premier", [dict(base, fid=2, liga=39)])]
+        frases = []
+        with mock.patch.object(G, "grupos", lambda d, e=(): gr), \
+                mock.patch.object(G, "post", lambda *a, **k: frases.append(k["frase"]) or {"x": 1}):
+            G.posts("2026-11-14")
+        self.assertEqual(len(set(frases)), 2)   # mismo día, frases distintas
+
 
 if __name__ == "__main__":
     unittest.main()
