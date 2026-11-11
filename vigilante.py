@@ -68,7 +68,8 @@ def revisar(ahora=None):
     ahora = ahora or datetime.now(MADRID)
     hoy = ahora.strftime("%Y-%m-%d")
     control = leer(PUB / "control.json", {}) or {}
-    posts = todos()
+    borrados = set(leer(PUB / "borrados.json", []) or [])   # los que Marcos borró: ni se cuentan ni se avisa
+    posts = [p for p in todos() if p["id"] not in borrados]
     out = []
     from bot import partido_caido
 

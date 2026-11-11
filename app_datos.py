@@ -241,6 +241,7 @@ def fila_sel(sel, cuota, directo, conocidos=None):
     m_lin = re.match(r"Over (\d+)$", str(opcion))
     if estado == "rojo" and m_lin and prog and prog.get("actual") == int(m_lin.group(1)):
         estado = "anulada"
+    texto = re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", texto)   # 11/11: «Køge W» → «Køge (fem.)»
     return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,
             "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo", "anulada"),
             "progreso": prog,
@@ -832,6 +833,9 @@ def main():
     auto = [dict(p, **enviados.get(p["id"], {}), **est_redes.get(p["id"], {}))
             for p in (leer(RAIZ / "publicaciones" / "auto.json", []) or [])]
     todos = cola + [p for p in auto if p["id"] not in {c["id"] for c in cola}]
+    # 11/11: los que Marcos borró de las redes (publicaciones/borrados.json) no cuentan en la app ni en los aciertos
+    borrados = set(leer(RAIZ / "publicaciones" / "borrados.json", []) or [])
+    todos = [p for p in todos if p["id"] not in borrados]
     # 27/10: boletos de bet365 que sube el asistente (las patas se leen de la captura)
     todos += [dict(p, fecha=p.get("fecha") or p["enviado"]) for p in leer(RAIZ / "publicaciones" / "asistente.json", []) or []
               if p.get("boleto") and p.get("sel") and p["id"] not in {c["id"] for c in todos}]

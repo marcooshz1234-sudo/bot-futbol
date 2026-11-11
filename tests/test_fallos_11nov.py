@@ -165,6 +165,12 @@ class TestFallos11Nov(unittest.TestCase):
         src = (RAIZ / "alineaciones_posts.py").read_text(encoding="utf-8")
         self.assertIn("r = cambiar_patas(p, cambios) if cambios and not enviado else None", src)
 
+    def test_app_sin_borrados(self):
+        src = (RAIZ / "app_datos.py").read_text(encoding="utf-8")
+        self.assertIn('todos = [p for p in todos if p["id"] not in borrados]', src)
+        src = (RAIZ / "vigilante.py").read_text(encoding="utf-8")
+        self.assertIn('if p["id"] not in borrados', src)
+
 
 if __name__ == "__main__":
     unittest.main()
