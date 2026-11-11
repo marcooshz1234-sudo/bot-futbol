@@ -1,16 +1,16 @@
 # Kosovo – Israel
 **Nations League** · League B - 5 · 14/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 02:09_
+_Actualizadas: 11/11 20:02_
 
 - **1X2:** 1 **1.85**  ·  X **3.40**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.30**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.90** · menos **1.90**
     - 3,5: más **3.25** · menos **1.33**

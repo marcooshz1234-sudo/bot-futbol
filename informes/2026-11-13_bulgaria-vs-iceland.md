@@ -1,10 +1,10 @@
 # Bulgaria – Iceland
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Hristo Botev Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 08:20_
+_Actualizadas: 11/11 20:02_
 
 - **1X2:** 1 **4.33**  ·  X **3.60**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.20**

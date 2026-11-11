@@ -1,10 +1,10 @@
 # Arzignano Valchiampo – Alcione
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 08:20_
+_Actualizadas: 11/11 20:02_
 
 - **1X2:** 1 **2.00**  ·  X **3.25**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.67**

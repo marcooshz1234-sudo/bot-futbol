@@ -1,10 +1,10 @@
 {
- "generado": "2026-11-11 14:16",
+ "generado": "2026-11-11 20:03",
  "estilos": {
   "escalera": {
-   "nota": 1.94,
+   "nota": 2.003,
    "posts_threads": 15,
-   "resultados": 11,
+   "resultados": 10,
    "verdes": 3
   },
   "datos-rachas": {
@@ -14,13 +14,13 @@
    "verdes": 0
   },
   "combi-segura": {
-   "nota": 1.895,
+   "nota": 1.874,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
   },
   "combi-dia": {
-   "nota": 2.134,
+   "nota": 2.113,
    "posts_threads": 1,
    "resultados": 1,
    "verdes": 1
@@ -50,7 +50,7 @@
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 1.1,
+   "nota": 1.092,
    "posts_threads": 0,
    "resultados": 7,
    "verdes": 1

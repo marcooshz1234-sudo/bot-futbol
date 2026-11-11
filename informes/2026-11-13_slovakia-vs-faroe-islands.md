@@ -1,10 +1,10 @@
 # Slovakia – Faroe Islands
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Kosicka futbalova arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 08:20_
+_Actualizadas: 11/11 20:02_
 
 - **1X2:** 1 **1.36**  ·  X **4.50**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.17**  ·  X2 **3.00**
@@ -21,17 +21,17 @@ _Actualizadas: 11/11 08:20_
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **6.50**
-    - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **4.50** · menos **1.17**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.00** · menos **1.14**
     - 4,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **2.00** · menos **1.73**
-    - 1,5: más **6.00** · menos **1.11**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **5.50** · menos **1.12**
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.20**  ·  X **10.00**  ·  2 **5.50**
-- **1X2 descanso:** 1 **1.80**  ·  X **2.38**  ·  2 **8.00**
+- **1X2 descanso:** 1 **1.80**  ·  X **2.38**  ·  2 **7.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
@@ -42,14 +42,14 @@ _Actualizadas: 11/11 08:20_
 - **To Win Either Half:** 1 **1.22**  ·  2 **4.00**
 - **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **11.00**
 - **Win Both Halves:** 1 **3.25**  ·  2 **41.00**
-- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **6.50**  ·  Away/Yes **19.00**  ·  Home/No **1.91**  ·  Draw/No **11.00**  ·  Away/No **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **6.50**  ·  Away/Yes **17.00**  ·  Home/No **2.00**  ·  Draw/No **11.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 2,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
-- **Anytime Goal Scorer:** Aki Samuelsen **6.50**  ·  David Strelec **1.95**  ·  Robert Bozenik **2.20**  ·  Tomas Rigo **4.75**  ·  Milan Skriniar **8.00**  ·  Tomas Suslov **3.60**  ·  Lukas Haraslin **2.88**  ·  Ondrej Duda **4.00**  ·  Matus Bero **4.00**  ·  David Hancko **6.50**  ·  Timotej Hranica **6.50**  ·  Lubomir Satka **9.50**  ·  Jakup Andreasen **13.00**  ·  Martin Agnarsson **15.00**  ·  Adrian Kapralik **3.00**  ·  Mario Sauer **3.60**  ·  Joannes Bjartalid **7.00**  ·  Adrian Justinussen **7.00**  ·  Gunnar Vatnhamar **13.00**  ·  Meinhard Olsen **8.00**  ·  Petur Knudsen **6.50**  ·  Andrias Edmundsson **29.00**  ·  Arnbjorn Svensson **15.00**  ·  Odmar Faero **23.00**  ·  Hanus Sorensen **11.00**  ·  Jann Benjaminsen **13.00**  ·  Samuel Chukwudi **23.00**  ·  Joannes Danielsen **23.00**  ·  Peter Pokorny **6.50**  ·  Tomas Bobcek **2.10**  ·  Mattias Hellisdal **13.00**  ·  Aron Benjaminsen **8.00**  ·  Ivan Mesik **13.00**  ·  Ludovit Reis **4.75**  ·  Albert Rusnak **2.50**  ·  Tobias Paliscak **9.50**  ·  Nino Marcelli **2.88**  ·  Artur Gajdos **3.60**  ·  Ari Olsen **19.00**  ·  Martin Valjent **9.50**  ·  Matej Trusa **2.38**  ·  Sebastian Nebyla **3.00**  ·  Erik Prekop **2.10**  ·  David Krcik **6.50**  ·  Poul Kallsberg **7.00**  ·  Adam Obert **8.00**  ·  Geza David Turi **13.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
+- **Anytime Goal Scorer:** Aki Samuelsen **5.50**  ·  David Strelec **2.00**  ·  Robert Bozenik **2.20**  ·  Tomas Rigo **4.75**  ·  Milan Skriniar **8.50**  ·  Tomas Suslov **3.60**  ·  Lukas Haraslin **2.88**  ·  Ondrej Duda **4.00**  ·  Matus Bero **4.00**  ·  David Hancko **6.50**  ·  Timotej Hranica **6.50**  ·  Lubomir Satka **9.50**  ·  Jakup Andreasen **13.00**  ·  Martin Agnarsson **15.00**  ·  Adrian Kapralik **3.00**  ·  Mario Sauer **3.60**  ·  Joannes Bjartalid **7.00**  ·  Adrian Justinussen **7.00**  ·  Gunnar Vatnhamar **13.00**  ·  Meinhard Olsen **7.00**  ·  Petur Knudsen **6.50**  ·  Andrias Edmundsson **29.00**  ·  Arnbjorn Svensson **15.00**  ·  Odmar Faero **23.00**  ·  Hanus Sorensen **11.00**  ·  Jann Benjaminsen **13.00**  ·  Samuel Chukwudi **23.00**  ·  Joannes Danielsen **23.00**  ·  Peter Pokorny **6.50**  ·  Tomas Bobcek **2.10**  ·  Mattias Hellisdal **11.00**  ·  Aron Benjaminsen **8.00**  ·  Ivan Mesik **13.00**  ·  Ludovit Reis **4.75**  ·  Albert Rusnak **2.50**  ·  Tobias Paliscak **9.50**  ·  Nino Marcelli **2.88**  ·  Artur Gajdos **3.60**  ·  Ari Olsen **19.00**  ·  Martin Valjent **9.50**  ·  Matej Trusa **2.38**  ·  Sebastian Nebyla **3.00**  ·  Erik Prekop **2.10**  ·  David Krcik **6.50**  ·  Poul Kallsberg **6.50**  ·  Adam Obert **8.50**  ·  Geza David Turi **11.00**
 
 ## Estadísticas de equipo
 | | Slovakia (total) | Slovakia en casa | Faroe Islands (total) | Faroe Islands fuera |

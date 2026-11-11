@@ -1,10 +1,10 @@
 # Netherlands – Greece
 **Nations League** · League A - 5 · 13/11/2026 20:45 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 08:20_
+_Actualizadas: 11/11 20:02_
 
 - **1X2:** 1 **1.50**  ·  X **4.50**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.50**
@@ -33,6 +33,8 @@ _Actualizadas: 11/11 08:20_
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.92** · menos **1.88**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.60**
+- **Tarjetas más/menos:**
+    - 4,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -42,7 +44,7 @@ _Actualizadas: 11/11 08:20_
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.28**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **6.00**
+- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **6.00**
 - **Win Both Halves:** 1 **3.75**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.75**  ·  Draw/No **17.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.00**

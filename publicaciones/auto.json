@@ -4153,7 +4153,7 @@
     "cuotas": [
       1.14,
       1.22,
-      1.3,
+      1.28,
       1.18
     ],
     "ganadores_img": {
@@ -4210,9 +4210,9 @@
       "1644363|Match Winner|Away"
     ],
     "cuotas": [
-      1.55,
-      1.1,
-      1.12
+      1.53,
+      1.09,
+      1.14
     ],
     "ganadores_img": {
       "titulo": "COPA DEL REY",
@@ -4264,11 +4264,11 @@
     ],
     "cuotas": [
       2.35,
-      1.83,
-      1.27,
-      1.91,
-      1.75,
-      1.6
+      1.8,
+      1.22,
+      1.95,
+      1.95,
+      1.62
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -4328,7 +4328,7 @@
   {
     "id": "2026-11-12-pick-seguro",
     "fecha": "2026-11-12T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Calvo Sotelo – Albacete · 18:30\n\n🍀 Gana el Albacete @1,55\n🧠 Stake 2/10\n\n👨‍💻 2 categorías de diferencia: el Albacete juega en Segunda y el Calvo Sotelo en Segunda Federación\n👨‍💻 El Calvo Sotelo no gana en sus últimos 6\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Calvo Sotelo – Albacete · 18:30\n\n🍀 Gana el Albacete @1,53\n🧠 Stake 2/10\n\n👨‍💻 2 categorías de diferencia: el Albacete juega en Segunda y el Calvo Sotelo en Segunda Federación\n👨‍💻 El Calvo Sotelo no gana en sus últimos 6\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4336,52 +4336,54 @@
       "1644370|Match Winner|Away"
     ],
     "cuotas": [
-      1.55
+      1.53
     ]
   },
   {
     "id": "2026-11-12-combi-tres",
     "fecha": "2026-11-12T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇪🇸 Gana el Albacete\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Albania gana alguna de las dos partes\n\n📈 Cuota @3,56\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n⚽ Arsenal (fem.) marca\n🇦🇱 Albania gana alguna de las dos partes\n🇲🇪 Gana Montenegro\n\n📈 Cuota @4,41\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1644370|Match Winner|Away",
-      "1545613|Total - Home|Over 1.5",
-      "1528963|To Win Either Half|Home"
+      "1528958|Both Teams Score|Yes",
+      "1638295|Total - Away|Over 0.5",
+      "1528963|To Win Either Half|Home",
+      "1545613|Match Winner|Home"
     ],
     "cuotas": [
-      1.55,
       1.5,
-      1.53
+      1.5,
+      1.53,
+      1.28
     ]
   },
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x20,00! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n⚽ Arsenal (fem.) marca\n🇪🇸 Real Betis marca 3 o más\n🇮🇹 Italia marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más\n⚽ Austria Wien (fem.) marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x20,99! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Gana el Albacete\n⚽ Arsenal (fem.) marca\n🇪🇸 Levante marca 3 o más\n🇮🇹 Italia marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más\n⚽ Austria Wien (fem.) marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528959|Total - Away|Over 0.5",
       "1528958|Both Teams Score|Yes",
+      "1644370|Match Winner|Away",
       "1638295|Total - Away|Over 0.5",
-      "1644363|Total - Away|Over 2.5",
+      "1644379|Total - Away|Over 2.5",
       "1528960|Total - Home|Over 0.5",
       "1528963|Goals Over/Under|Over 1.5",
       "1545613|Total - Home|Over 1.5",
       "1638339|Total - Away|Over 0.5"
     ],
     "cuotas": [
+      1.5,
+      1.53,
+      1.5,
+      1.5,
       1.4,
-      1.5,
-      1.5,
-      1.5,
       1.4,
-      1.4,
-      1.5,
+      1.44,
       1.44
     ],
     "solo_redes": true
@@ -4389,21 +4391,21 @@
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n⚽ Arsenal (fem.) marca\n🇫🇷 Gana Francia\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,30\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇦🇲 Armenia gana alguna de las dos partes\n🇧🇪 Gana Bélgica\n🇪🇸 Levante marca 3 o más\n🇫🇮 Finlandia marca\n\n📈 Cuota @7,57\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528958|Both Teams Score|Yes",
-      "1638295|Total - Away|Over 0.5",
-      "1528960|Match Winner|Away",
-      "1638339|Match Winner|Home"
+      "1528959|To Win Either Half|Home",
+      "1528958|Match Winner|Away",
+      "1644379|Total - Away|Over 2.5",
+      "1528963|Total - Away|Over 0.5"
     ],
     "cuotas": [
+      1.73,
+      1.8,
       1.5,
-      1.5,
-      1.75,
-      1.6
+      1.62
     ],
     "solo_redes": true
   },
@@ -4440,11 +4442,11 @@
     ],
     "cuotas": [
       1.28,
-      1.25,
+      1.28,
       1.5,
       1.18,
       1.36,
-      1.6
+      1.67
     ],
     "ganadores_img": {
       "titulo": "NATIONS LEAGUE",
@@ -4524,7 +4526,7 @@
       1.85,
       1.8,
       2.15,
-      1.36
+      1.33
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -4616,7 +4618,7 @@
   {
     "id": "2026-11-13-combi-multi",
     "fecha": "2026-11-13T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x22,59! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇦🇩 Andorra gana alguna de las dos partes\n🇮🇸 Islandia gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇸🇰 Eslovaquia marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,04! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇦🇩 Andorra gana alguna de las dos partes\n🇮🇸 Islandia gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇸🇰 Eslovaquia marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4638,28 +4640,28 @@
       1.5,
       1.5,
       1.5,
-      1.5
+      1.53
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-13-combi-loca",
     "fecha": "2026-11-13T16:00",
-    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇮🇹 Ospitaletto marca 2 o más\n🇳🇱 Gana Países Bajos\n🇸🇰 Eslovaquia marca 2 o más\n🇱🇺 Luxemburgo gana alguna de las dos partes\n\n📈 Cuota @6,31\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇮🇹 Ospitaletto marca 2 o más\n🇳🇱 Gana Países Bajos\n🇱🇺 Luxemburgo gana alguna de las dos partes\n🇪🇸 Salamanca UDS marca\n\n📈 Cuota @6,81\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608368|Total - Home|Over 1.5",
       "1528966|Match Winner|Home",
-      "1528967|Total - Home|Over 1.5",
-      "1545614|To Win Either Half|Home"
+      "1545614|To Win Either Half|Home",
+      "1644376|Total - Home|Over 0.5"
     ],
     "cuotas": [
       1.62,
       1.5,
-      1.5,
-      1.73
+      1.73,
+      1.62
     ],
     "solo_redes": true
   },
@@ -4922,7 +4924,7 @@
   {
     "id": "2026-11-14-combi-loca",
     "fecha": "2026-11-14T16:00",
-    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇬🇪 Georgia o empate\n🇪🇸 Mallorca marca 2 o más\n🇵🇹 Gana el Portugal\n\n📈 Cuota @5,96\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇬🇪 Georgia o empate\n🇪🇸 Mallorca marca 2 o más\n🇦🇹 Gana el Austria\n\n📈 Cuota @6,15\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4930,13 +4932,13 @@
       "1528973|Goals Over/Under|Over 1.5",
       "1528973|Double Chance|Home/Draw",
       "1570020|Total - Home|Over 1.5",
-      "1528974|Match Winner|Home"
+      "1528976|Match Winner|Home"
     ],
     "cuotas": [
       1.44,
-      1.62,
+      1.57,
       1.67,
-      1.48
+      1.57
     ],
     "solo_redes": true
   },

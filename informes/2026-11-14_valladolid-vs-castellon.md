@@ -1,10 +1,10 @@
 # Valladolid – Castellón
 **Segunda División** · Regular Season - 14 · 14/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 08:20_
+_Actualizadas: 11/11 20:02_
 
 - **1X2:** 1 **3.00**  ·  X **3.40**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.36**
