@@ -179,18 +179,26 @@ def escudo(url, nombre):
 
 def tarjeta(p, pagina):
     """27/10: foto del partido para las combis de un solo partido (escudos, hora y día), como las que
-    mejor funcionaron en Threads. → publicaciones/media/{id}.tarjeta.jpg"""
+    mejor funcionaron en Threads. → publicaciones/media/{id}.tarjeta.jpg
+    11/11 (Marcos): las de UN partido se quedan SIEMPRE con este formato de antes, no se cambia."""
     import html
     t = p["tarjeta"]
     ini = datetime.fromisoformat(t["fecha"])
     hoy = datetime.fromisoformat(p["fecha"][:10])
     dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
     dia = "Hoy" if ini.date() == hoy.date() else "Mañana" if (ini.date() - hoy.date()).days == 1 else dias[ini.weekday()]
+    doc = TARJETA
     import re
-    import fotos   # 11/11: con el estilo del logo nuevo
     m = re.search(r"(?:Cuota total aprox\.: |Cuota @)(\d+,\d+)", p.get("texto", ""))
-    cuando = f"{dia.upper()} · {ini:%H:%M}"
-    doc = fotos.tarjeta_partido(t, cuando, m.group(1) if m else None)
+    doc = doc.replace("{cuota}", f'<div class="cuota">💥 COMBI DEL PARTIDO · x{m.group(1)}</div>' if m else "")
+    bandera = {"LaLiga": "🇪🇸", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪", "Ligue 1": "🇫🇷",
+               "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢", "Primeira Liga": "🇵🇹",
+               "Eredivisie": "🇳🇱", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Segunda División": "🇪🇸"}.get(t.get("liga"), "⚽")
+    for k, v in {"liga": f"{bandera} {(t.get('liga') or '').upper()}", "local": t["local"], "visitante": t["visitante"],
+                 "hora": f"{ini:%H:%M}", "dia": dia}.items():
+        doc = doc.replace("{" + k + "}", html.escape(str(v)))
+    for k, nombre in (("logo_l", t["local"]), ("logo_v", t["visitante"])):
+        doc = doc.replace('<img src="{' + k + '}">', escudo(t.get(k), nombre))
     pagina.set_viewport_size({"width": 1180, "height": 340})
     pagina.goto("about:blank")
     pagina.set_content(doc, wait_until="networkidle")
@@ -272,8 +280,8 @@ def generar(p, pagina):
 
 def huella(p):
     import hashlib
-    # «diseño-2»: 11/11, plantillas con el logo nuevo → se rehacen las imágenes de los posts que aún no han salido
-    return hashlib.sha1((p["texto"] + str(p.get("foto")) + "diseño-2").encode()).hexdigest()[:12]
+    # «diseño-3»: 11/11, plantillas con el logo nuevo y tarjeta de 1 partido con el formato de antes → se rehacen las imágenes de los posts que aún no han salido
+    return hashlib.sha1((p["texto"] + str(p.get("foto")) + "diseño-3").encode()).hexdigest()[:12]
 
 
 def pendientes_de(cola, ahora, control=None, estado=None):
