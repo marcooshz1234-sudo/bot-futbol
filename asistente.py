@@ -272,7 +272,8 @@ class Asistente:
             corto = hashlib.md5(p["id"].encode()).hexdigest()[:10]
             c.setdefault("por_aprobar", {})[corto] = p["id"]
             botones = [[("✅ Publicar", f"ap|{corto}"), ("❌ No sale", f"apno|{corto}")]]
-            aviso = "💚 ¡VERDE! Revísalo: solo sale cuando le des a Publicar.\n\n" + c["textos"].get(p["id"], p["texto"])
+            cab = (p["aviso"] + "\n\n") if p.get("aviso") else "💚 ¡VERDE! Revísalo: solo sale cuando le des a Publicar.\n\n"   # 11/11: cuotazas
+            aviso = cab + c["textos"].get(p["id"], p["texto"])
             foto = (RAIZ / p["foto"]) if isinstance(p.get("foto"), str) else None
             if foto and foto.exists() and len(aviso) <= 1024:
                 api(self.t, "sendPhoto", {"chat_id": self.duenio, "caption": aviso, "reply_markup": json.dumps(

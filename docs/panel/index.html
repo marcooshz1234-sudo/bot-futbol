@@ -269,7 +269,7 @@ function aj(k, v){ poner({a:"ajuste", k, v, quitar: v === D.ajustes[k].v}); }
 
 // ---------- 🏢 oficina (10/11): cada rol es un muñeco en su sala; al pulsar, su ficha con lo que ha hecho y sus ajustes
 const OF_COL = {ojeador:["#3b82f6","#2b1a0e","#60a5fa"], analista:["#f97316","#111","#fdba74"], redactor:["#a855f7","#6b3a1e","#d8b4fe"],
-  verificador:["#22c55e","#d4a017","#86efac"], community:["#ec4899","#1b1b1b","#f9a8d4"], vigilante:["#eab308","#3f3f46","#fde68a"]};
+  verificador:["#22c55e","#d4a017","#86efac"], community:["#ec4899","#1b1b1b","#f9a8d4"], vigilante:["#eab308","#3f3f46","#fde68a"], cazador:["#ef4444","#3b2412","#fca5a5"]};
 const OF_EST = {trabajando:"Trabajando", esperando:"Esperando", pausa:"En pausa", alerta:"¡Ojo!"};
 let ofSel = "ojeador";
 function rv(a){ const c = cambio("ajuste", a.k); return c ? c.v : a.v; }

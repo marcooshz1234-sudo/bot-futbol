@@ -11,7 +11,7 @@ from bot import DATOS, MADRID, RAIZ, leer
 
 SALIDA = RAIZ / "docs" / "panel" / "oficina.json"
 RITMO = {"ojeador": "cada 30 min", "analista": "picks a las {h1} y {h2}", "redactor": "antes de cada post",
-         "verificador": "cada 3 min en directo", "community": "2 veces al día", "vigilante": "siempre"}
+         "verificador": "cada 3 min en directo", "community": "2 veces al día", "vigilante": "siempre", "cazador": "cada 10 min"}
 
 
 def corto(t, n=90):
@@ -158,6 +158,21 @@ def main(control=None):
         "alerta": mins is None or mins > 15 or len(fallos) >= 3,
         "historial": ([{"h": t.strftime("%H:%M"), "t": f"Fallo en {n} (código {c})"} for t, n, c in fallos[-5:]][::-1]
                       or [{"h": ult.strftime("%H:%M") if ult else "", "t": "Sin fallos hoy en el bucle"}]),
+    }
+
+    # 🎯 Cazador (11/11): cuotas de bet365 por encima de lo justo
+    cz = leer(DATOS / "cazador.json", {}) or {}
+    ult = cz.get("ultima") or {}
+    mejor = ult.get("mejor")
+    avisos_hoy = [v for v in (cz.get("avisos") or {}).values() if v.get("dia") == hoy]
+    roles["cazador"] = {
+        "ahora": (f"Última vuelta {ult.get('hora', '')[11:16]}: " + (f"mejor {corto(mejor['texto'], 40)} @{mejor['cuota']} (justa {mejor['justa']})"
+                                                                    if mejor else "nada por encima de lo justo")) if ult else "Aún no ha buscado",
+        "trabajando": bool(ult and (ult.get("hora") or "") >= (ahora - timedelta(minutes=15)).strftime("%Y-%m-%dT%H:%M")),
+        "alerta": bool(avisos_hoy and any(v.get("post") not in (control.get("aprobados") or {}) and v.get("post") not in cancel
+                                          for v in avisos_hoy)),
+        "historial": [{"h": x["hora"][11:16], "t": "🚨 " + corto(x["t"], 90)} for x in (cz.get("historial") or [])
+                      if x["hora"][:10] == hoy][-6:],
     }
 
     # 10/11 (Marcos: «un mínimo diario»): a las 17:00, si hoy falta el pick del día, aviso al móvil (una vez al día)
