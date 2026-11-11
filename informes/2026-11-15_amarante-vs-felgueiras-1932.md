@@ -1,10 +1,44 @@
 # Amarante – Felgueiras 1932
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Amarante Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 14:15_
+
+- **1X2:** 1 **2.40**  ·  X **3.00**  ·  2 **2.80**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
+- **Goles más/menos:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.40** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **3.25**  ·  X **2.00**  ·  2 **3.60**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **1.83**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **5.00**
+- **Win Both Halves:** 1 **10.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **7.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **1.91**
 
 ## Estadísticas de equipo
 | | Amarante (total) | Amarante en casa | Felgueiras 1932 (total) | Felgueiras 1932 fuera |
@@ -112,4 +146,38 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,19 · visitante 1,17 · córners esperados 8,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 35% | 32% | 34% | 2.80 | -5% |
+| 1X2: X | 28% | 30% | 29% | 3.00 | -13% |
+| 1X2: 1 | 37% | 38% | 37% | 2.40 | -11% |
+| Doble oportunidad: X2 | 63% | 62% | 63% | 1.50 | -6% |
+| Doble oportunidad: 12 | 72% | 70% | 71% | 1.33 | -6% |
+| Doble oportunidad: 1X | 65% | 68% | 66% | 1.36 | -10% |
+| Ambos marcan: No | 52% | 54% | 53% | 1.73 | -9% |
+| Ambos marcan: Sí | 48% | 46% | 47% | 2.00 | -6% |
+| Goles más/menos: Más de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
+| Goles más/menos: Más de 2.5 | 42% | 39% | 40% | 2.40 | -3% |
+| Goles más/menos: Más de 3.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles más/menos: Menos de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
+| Goles más/menos: Menos de 2.5 | 58% | 61% | 60% | 1.53 | -9% |
+| Goles más/menos: Menos de 3.5 | 79% | 79% | 79% | 1.18 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 62% | 63% | 1.50 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles del local: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Goles del local: Más de 1.5 | 34% | 34% | 34% | 2.75 | -8% |
+| Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del local: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles del visitante: Más de 1.5 | 33% | 29% | 31% | 3.25 | +0% |
+| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
+| Goles del visitante: Menos de 1.5 | 67% | 71% | 69% | 1.33 | -8% |
+| 1X2 descanso: 2 | 27% | 26% | 26% | 3.60 | -6% |
+| 1X2 descanso: X | 46% | 46% | 46% | 2.00 | -8% |
+| 1X2 descanso: 1 | 27% | 28% | 28% | 3.25 | -9% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

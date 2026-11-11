@@ -4136,20 +4136,6 @@
     ]
   },
   {
-    "id": "2026-11-11-pick-seguro-2",
-    "fecha": "2026-11-11T18:00",
-    "texto": "Vamos con el pick de hoy familia 🔥\n🧠 Esta va con cabeza: analizada\n\n⚽ Juventus (fem.) – Lyon (fem.) · 21:00\n\n🍀 Lyon (fem.) marca 3 o más @1,40\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Juventus (fem.) llevan 3,0 goles de media (últimos 7).\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1638311|Total - Away|Over 2.5"
-    ],
-    "cuotas": [
-      1.4
-    ]
-  },
-  {
     "id": "2026-11-12-ganadores-nations",
     "fecha": "2026-11-12T00:00",
     "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇧🇾 Bielorrusia - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - Win\n3. 🇲🇪 Montenegro - Win\n4. 🇪🇸 España - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
@@ -4262,7 +4248,7 @@
   {
     "id": "2026-11-12-ganadores-resto",
     "fecha": "2026-11-12T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇦🇲 Armenia - Win\n2. 🇧🇪 Bélgica - Win\n3. 🇪🇸 Barcelona (fem.) - Win\n4. 🇦🇱 Albania - Win\n5. 🇫🇷 Francia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇦🇲 Armenia - Win\n2. 🇧🇪 Bélgica - Win\n3. 🇪🇸 Barcelona (fem.) - Win\n4. 🇦🇱 Albania - Win\n5. 🇫🇷 Francia - Win\n6. ⚽ SL Benfica (fem.) - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4273,14 +4259,16 @@
       "1528958|Match Winner|Away",
       "1638295|Match Winner|Home",
       "1528963|Match Winner|Home",
-      "1528960|Match Winner|Away"
+      "1528960|Match Winner|Away",
+      "1638339|Match Winner|Home"
     ],
     "cuotas": [
       2.35,
       1.83,
       1.27,
       1.91,
-      1.75
+      1.75,
+      1.6
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -4325,6 +4313,14 @@
           "nombre": "Francia",
           "pick": "WIN",
           "seleccion": true
+        },
+        {
+          "pais": "World",
+          "bandera": "⚽",
+          "escudo_url": "https://media.api-sports.io/football/teams/15495.png",
+          "nombre": "SL Benfica (fem.)",
+          "pick": "WIN",
+          "seleccion": false
         }
       ]
     }
@@ -4364,7 +4360,7 @@
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x20,84! 🍀\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n✅ Arsenal (fem.) marca\n🇪🇸 Real Betis marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇮🇹 Italia marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x20,00! 🍀\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇨🇾 Chipre marca\n🇹🇷 Ambos marcan en Turquía–Bélgica\n✅ Arsenal (fem.) marca\n🇪🇸 Real Betis marca 3 o más\n🇮🇹 Italia marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más\n✅ Austria Wien (fem.) marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4373,41 +4369,41 @@
       "1528958|Both Teams Score|Yes",
       "1638295|Total - Away|Over 0.5",
       "1644363|Total - Away|Over 2.5",
-      "1644379|Total - Away|Over 2.5",
       "1528960|Total - Home|Over 0.5",
       "1528963|Goals Over/Under|Over 1.5",
-      "1545613|Total - Home|Over 1.5"
+      "1545613|Total - Home|Over 1.5",
+      "1638339|Total - Away|Over 0.5"
     ],
     "cuotas": [
       1.4,
       1.5,
       1.5,
       1.5,
+      1.4,
+      1.4,
       1.5,
-      1.4,
-      1.4,
-      1.5
+      1.44
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n✅ Arsenal (fem.) marca\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Albania gana alguna de las dos partes\n🇫🇷 Gana Francia\n\n📈 Cuota @6,02\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Albania gana alguna de las dos partes\n✅ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,13\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1638295|Total - Away|Over 0.5",
+      "1638295|Total - Home|Over 2.5",
       "1545613|Total - Home|Over 1.5",
       "1528963|To Win Either Half|Home",
-      "1528960|Match Winner|Away"
+      "1638339|Match Winner|Home"
     ],
     "cuotas": [
-      1.5,
+      1.67,
       1.5,
       1.53,
-      1.75
+      1.6
     ],
     "solo_redes": true
   },
@@ -4755,7 +4751,7 @@
   {
     "id": "2026-11-14-ganadores-resto",
     "fecha": "2026-11-14T01:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Castellón - Win\n2. 🇮🇹 Arzignano Valchiampo - Win\n3. 🇮🇹 Renate - Win\n4. 🇮🇹 Union Brescia - Win\n5. 🇽🇰 Kosovo - Win\n6. 🇮🇹 Trento - Win\n7. 🇭🇺 Hungría - Win\n8. 🇵🇱 Polonia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Castellón - Win\n2. 🇮🇹 Arzignano Valchiampo - Win\n3. 🇮🇹 Renate - Win\n4. 🇮🇹 Union Brescia - Win\n5. 🇽🇰 Kosovo - Win\n6. 🇮🇹 Trento - Win\n7. 🇭🇺 Hungría - Win\n8. 🇪🇸 Mallorca - Win\n9. 🇵🇱 Polonia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4769,6 +4765,7 @@
       "1528971|Match Winner|Home",
       "1608366|Match Winner|Away",
       "1528973|Match Winner|Away",
+      "1570020|Match Winner|Home",
       "1528977|Match Winner|Away"
     ],
     "cuotas": [
@@ -4779,6 +4776,7 @@
       1.85,
       1.83,
       2.3,
+      1.67,
       1.9
     ],
     "ganadores_img": {
@@ -4842,6 +4840,14 @@
           "seleccion": true
         },
         {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/798.png",
+          "nombre": "Mallorca",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
           "pais": "Poland",
           "bandera": "🇵🇱",
           "escudo_url": "https://media.api-sports.io/football/teams/24.png",
@@ -4887,14 +4893,14 @@
   {
     "id": "2026-11-14-combi-multi",
     "fecha": "2026-11-14T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,53! 🍀\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇮🇹 Lumezzane marca\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales marca\n🇷🇴 Rumanía marca\n🇵🇹 Portugal marca 2 o más\n✅ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇧🇦 Bosnia marca\n🇦🇹 Gana el Austria\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x19,85! 🍀\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇮🇹 Lumezzane marca\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇪🇸 Mallorca gana alguna de las dos partes\n🇷🇴 Rumanía marca\n🇵🇹 Portugal marca 2 o más\n✅ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇧🇦 Bosnia marca\n🇦🇹 Gana el Austria\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608366|Total - Home|Over 0.5",
       "1528973|Goals Over/Under|Over 1.5",
-      "1528972|Total - Away|Over 0.5",
+      "1570020|To Win Either Half|Home",
       "1528977|Total - Home|Over 0.5",
       "1528974|Total - Home|Over 1.5",
       "1528975|Goals Over/Under|Over 1.5",
@@ -4904,7 +4910,7 @@
     "cuotas": [
       1.44,
       1.44,
-      1.73,
+      1.4,
       1.4,
       1.44,
       1.44,
@@ -4916,21 +4922,21 @@
   {
     "id": "2026-11-14-combi-loca",
     "fecha": "2026-11-14T16:00",
-    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇬🇪 Georgia o empate\n🇦🇹 Gana el Austria\n🇵🇹 Ambos marcan en Portugal–Dinamarca\n\n📈 Cuota @6,13\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇬🇪 Georgia o empate\n🇪🇸 Mallorca marca 2 o más\n🇵🇹 Gana el Portugal\n\n📈 Cuota @5,96\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1528973|Goals Over/Under|Over 1.5",
       "1528973|Double Chance|Home/Draw",
-      "1528976|Match Winner|Home",
-      "1528974|Both Teams Score|Yes"
+      "1570020|Total - Home|Over 1.5",
+      "1528974|Match Winner|Home"
     ],
     "cuotas": [
       1.44,
       1.62,
-      1.57,
-      1.62
+      1.67,
+      1.48
     ],
     "solo_redes": true
   },
@@ -4951,7 +4957,7 @@
   {
     "id": "2026-11-15-ganadores-resto",
     "fecha": "2026-11-15T00:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Granada CF - Win\n2. 🇮🇹 Cittadella - Win\n3. 🇮🇹 Pergolettese - Win\n4. 🇪🇸 Eibar - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Granada CF - Win\n2. 🇮🇹 Cittadella - Win\n3. 🇮🇹 Pergolettese - Win\n4. 🇪🇸 Eibar - Win\n5. 🇪🇸 Eldense - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4961,13 +4967,15 @@
       "1570018|Match Winner|Home",
       "1608364|Match Winner|Home",
       "1608369|Match Winner|Home",
-      "1570016|Match Winner|Home"
+      "1570016|Match Winner|Home",
+      "1570017|Match Winner|Home"
     ],
     "cuotas": [
       1.67,
       1.4,
       2.25,
-      1.62
+      1.62,
+      2.3
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -5004,6 +5012,14 @@
           "nombre": "Eibar",
           "pick": "WIN",
           "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/9692.png",
+          "nombre": "Eldense",
+          "pick": "WIN",
+          "seleccion": false
         }
       ]
     }
@@ -5037,6 +5053,31 @@
       1.67,
       1.62
     ]
+  },
+  {
+    "id": "2026-11-15-combi-multi",
+    "fecha": "2026-11-15T14:30",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS x15,27! 🍀\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇪🇸 Gana el Granada CF\n🇮🇹 Gana el Cittadella\n🇮🇹 Juventus U23 marca\n🇮🇹 Pergolettese marca 2 o más\n🇪🇸 Gana el Eibar\n🇪🇸 Sabadell marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570018|Match Winner|Home",
+      "1608364|Match Winner|Home",
+      "1608365|Total - Home|Over 0.5",
+      "1608369|Total - Home|Over 1.5",
+      "1570016|Match Winner|Home",
+      "1570017|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.4,
+      1.4,
+      2.0,
+      1.62,
+      1.44
+    ],
+    "solo_redes": true
   },
   {
     "id": "2026-11-15-combi-loca",

@@ -1,10 +1,59 @@
 # Mallorca – Cordoba
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 14:15_
+
+- **1X2:** 1 **1.67**  ·  X **4.00**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.00**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 10: más **1.82** · menos **1.98**
+    - 10,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.80**  ·  X **8.00**  ·  2 **2.30**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.40**  ·  2 **4.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.40**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **5.00**
+- **Win Both Halves:** 1 **4.50**  ·  2 **17.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.50**  ·  Home/No **3.25**  ·  Draw/No **15.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.75**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
+- **Home Player Shots:** Adrian Fuentes - 1 **1.01**  ·  Abdon Prats - 1 **1.02**  ·  Justin-Noel Kalumba - 1 **1.08**  ·  Sergi Darder - 1 **1.18**  ·  Antoniu Roca - 1 **1.04**  ·  Arnau Puigmal - 1 **1.06**  ·  Josep Cerda - 1 **1.05**  ·  Antonio Sanchez - 1 **1.10**  ·  Daniel Luna - 1 **1.10**  ·  Jandro Garcia - 1 **1.10**  ·  Pablo Torre - 1 **1.06**  ·  Antonio Raillo - 1 **1.22**  ·  Manu Morlanes - 1 **1.28**  ·  Alex Sala - 1 **1.02**  ·  David Lopez - 1 **1.33**  ·  Antonio Toni Lato - 1 **1.44**  ·  Luis Orejuela - 1 **1.50**  ·  Miguel Calatayud - 1 **1.50**  ·  Aboubaka Soumahoro - 1 **1.80**  ·  Martin Valjent - 1 **1.80**  ·  Andre Zito Luvumbo - 2 **1.04**  ·  Adam Buksa - 2 **1.05**  ·  Adrian Liso - 2 **1.10**  ·  Adrian Fuentes - 2 **1.11**  ·  Abdon Prats - 2 **1.17**  ·  Justin-Noel Kalumba - 2 **1.40**  ·  Sergi Darder - 2 **1.80**  ·  Antoniu Roca - 2 **1.25**  ·  Arnau Puigmal - 2 **1.30**  ·  Josep Cerda - 2 **1.25**  ·  Antonio Sanchez - 2 **1.44**  ·  Daniel Luna - 2 **1.44**  ·  Jandro Garcia - 2 **1.44**  ·  Pablo Torre - 2 **1.33**  ·  Antonio Raillo - 2 **2.00**  ·  Manu Morlanes - 2 **2.20**  ·  Alex Sala - 2 **1.17**  ·  David Lopez - 2 **2.38**  ·  Antonio Toni Lato - 2 **3.00**  ·  Luis Orejuela - 2 **3.25**  ·  Miguel Calatayud - 2 **3.25**  ·  Aboubaka Soumahoro - 2 **4.33**  ·  Martin Valjent - 2 **4.33**  ·  Andre Zito Luvumbo - 3 **1.17**  ·  Adam Buksa - 3 **1.17**  ·  Adrian Liso - 3 **1.30**  ·  Adrian Fuentes - 3 **1.36**  ·  Abdon Prats - 3 **1.50**  ·  Justin-Noel Kalumba - 3 **2.20**  ·  Sergi Darder - 3 **3.40**  ·  Antoniu Roca - 3 **1.73**  ·  Arnau Puigmal - 3 **1.83**  ·  Josep Cerda - 3 **1.73**  ·  Antonio Sanchez - 3 **2.25**  ·  Daniel Luna - 3 **2.25**  ·  Jandro Garcia - 3 **2.25**  ·  Pablo Torre - 3 **1.91**  ·  Antonio Raillo - 3 **3.75**  ·  Manu Morlanes - 3 **4.33**  ·  Alex Sala - 3 **1.50**  ·  David Lopez - 3 **5.50**  ·  Antonio Toni Lato - 3 **7.00**  ·  Luis Orejuela - 3 **8.00**  ·  Miguel Calatayud - 3 **8.00**  ·  Aboubaka Soumahoro - 3 **13.00**  ·  Martin Valjent - 3 **13.00**  ·  Andre Zito Luvumbo - 4 **1.44**  ·  Adam Buksa - 4 **1.44**  ·  Adrian Liso - 4 **1.73**  ·  Adrian Fuentes - 4 **1.83**  ·  Abdon Prats - 4 **2.20**  ·  Justin-Noel Kalumba - 4 **3.75**  ·  Sergi Darder - 4 **7.00**  ·  Antoniu Roca - 4 **2.62**  ·  Arnau Puigmal - 4 **3.25**  ·  Josep Cerda - 4 **2.75**  ·  Antonio Sanchez - 4 **4.00**  ·  Daniel Luna - 4 **4.00**  ·  Jandro Garcia - 4 **4.00**  ·  Pablo Torre - 4 **3.25**  ·  Antonio Raillo - 4 **9.00**  ·  Manu Morlanes - 4 **11.00**  ·  Alex Sala - 4 **2.20**  ·  David Lopez - 4 **13.00**  ·  Antonio Toni Lato - 4 **19.00**  ·  Luis Orejuela - 4 **21.00**  ·  Miguel Calatayud - 4 **21.00**  ·  Andre Zito Luvumbo - 5 **1.83**  ·  Adam Buksa - 5 **1.91**  ·  Adrian Liso - 5 **2.62**  ·  Adrian Fuentes - 5 **2.75**  ·  Abdon Prats - 5 **3.50**  ·  Justin-Noel Kalumba - 5 **8.00**  ·  Sergi Darder - 5 **15.00**  ·  Antoniu Roca - 5 **4.50**  ·  Arnau Puigmal - 5 **5.50**  ·  Josep Cerda - 5 **5.00**  ·  Antonio Sanchez - 5 **9.00**  ·  Daniel Luna - 5 **9.00**  ·  Jandro Garcia - 5 **8.00**  ·  Pablo Torre - 5 **6.00**  ·  Antonio Raillo - 5 **19.00**  ·  Manu Morlanes - 5 **21.00**  ·  Alex Sala - 5 **3.50**  ·  David Lopez - 5 **21.00**  ·  Andre Zito Luvumbo - 6 **2.75**  ·  Adam Buksa - 6 **2.75**  ·  Adrian Liso - 6 **4.33**  ·  Adrian Fuentes - 6 **4.50**  ·  Abdon Prats - 6 **6.50**  ·  Justin-Noel Kalumba - 6 **15.00**  ·  Antoniu Roca - 6 **9.00**  ·  Arnau Puigmal - 6 **11.00**  ·  Josep Cerda - 6 **10.00**  ·  Antonio Sanchez - 6 **17.00**  ·  Daniel Luna - 6 **17.00**  ·  Jandro Garcia - 6 **17.00**  ·  Pablo Torre - 6 **11.00**  ·  Andre Zito Luvumbo - 7 **4.33**  ·  Adam Buksa - 7 **4.33**  ·  Adrian Liso - 7 **8.00**  ·  Adrian Fuentes - 7 **9.00**  ·  Abdon Prats - 7 **13.00**  ·  Justin-Noel Kalumba - 7 **15.00**  ·  Antoniu Roca - 7 **17.00**  ·  Arnau Puigmal - 7 **21.00**  ·  Josep Cerda - 7 **19.00**  ·  Andre Zito Luvumbo - 8 **7.00**  ·  Adam Buksa - 8 **8.00**  ·  Adrian Liso - 8 **13.00**  ·  Adrian Fuentes - 8 **15.00**  ·  Abdon Prats - 8 **21.00**  ·  Justin-Noel Kalumba - 8 **21.00**  ·  Andre Zito Luvumbo - 9 **13.00**  ·  Adam Buksa - 9 **13.00**  ·  Adrian Liso - 9 **21.00**  ·  Adrian Fuentes - 9 **21.00**  ·  Andre Zito Luvumbo - 10 **21.00**  ·  Adam Buksa - 10 **21.00**  ·  Adrian Liso - 1 **1.01**  ·  John Donald - 1 **1.36**  ·  John Donald - 2 **2.50**  ·  John Donald - 3 **5.50**  ·  John Donald - 4 **15.00**  ·  Alex Sala - 6 **6.00**  ·  Alex Sala - 7 **11.00**  ·  Aimar Pena - 1 **1.03**  ·  Aimar Pena - 2 **1.20**  ·  Aimar Pena - 3 **1.62**  ·  Aimar Pena - 4 **2.38**  ·  Aimar Pena - 5 **4.00**  ·  Aimar Pena - 6 **8.00**  ·  Aimar Pena - 7 **15.00**  ·  Guille Fernandez - 1 **1.18**  ·  Guille Fernandez - 2 **1.80**  ·  Guille Fernandez - 3 **3.40**  ·  Guille Fernandez - 4 **7.00**  ·  Guille Fernandez - 5 **15.00**  ·  Aimar Pena - 8 **21.00**  ·  Alex Sala - 8 **21.00**  ·  Alberto Moreno - 1 **1.22**  ·  Alberto Moreno - 2 **2.00**  ·  Alberto Moreno - 3 **3.75**  ·  Alberto Moreno - 4 **9.00**  ·  Alberto Moreno - 5 **19.00**  ·  Pablo Torre - 7 **21.00**
+- **Away Player Shots:** Diego Percan - 1 **1.06**  ·  Enol Rodriguez - 1 **1.06**  ·  Ibai Sanz - 1 **1.08**  ·  Victor Sanchez - 1 **1.08**  ·  Diego Bri - 1 **1.20**  ·  Cristian Carracedo - 1 **1.25**  ·  Theo Zidane - 1 **1.40**  ·  Daniel Budesca - 1 **1.73**  ·  Kevin Medina - 1 **1.25**  ·  Adnane Ghailan - 1 **1.20**  ·  Damian Caceres - 1 **1.40**  ·  Eder Garcia - 1 **1.25**  ·  Isma Ruiz - 1 **1.36**  ·  Ruben Alves - 1 **1.67**  ·  Dani Tasende - 1 **2.00**  ·  Yussi Diarra - 1 **1.73**  ·  Alex Lopez - 1 **1.73**  ·  Carlos Albarran - 1 **2.10**  ·  Juan Gutierrez - 1 **2.20**  ·  Egoitz Munoz - 1 **2.38**  ·  Alex Martin - 1 **2.20**  ·  Franck Fomeyem - 1 **2.62**  ·  Diego Percan - 2 **1.30**  ·  Enol Rodriguez - 2 **1.33**  ·  Ibai Sanz - 2 **1.40**  ·  Victor Sanchez - 2 **1.40**  ·  Diego Bri - 2 **1.83**  ·  Cristian Carracedo - 2 **2.10**  ·  Theo Zidane - 2 **2.62**  ·  Daniel Budesca - 2 **4.33**  ·  Kevin Medina - 2 **2.00**  ·  Adnane Ghailan - 2 **1.83**  ·  Damian Caceres - 2 **2.62**  ·  Eder Garcia - 2 **2.10**  ·  Isma Ruiz - 2 **2.50**  ·  Ruben Alves - 2 **4.00**  ·  Dani Tasende - 2 **5.50**  ·  Yussi Diarra - 2 **4.33**  ·  Alex Lopez - 2 **4.33**  ·  Carlos Albarran - 2 **6.50**  ·  Juan Gutierrez - 2 **6.50**  ·  Egoitz Munoz - 2 **8.00**  ·  Alex Martin - 2 **6.50**  ·  Franck Fomeyem - 2 **9.00**  ·  Diego Percan - 3 **1.83**  ·  Enol Rodriguez - 3 **1.91**  ·  Ibai Sanz - 3 **2.10**  ·  Victor Sanchez - 3 **2.10**  ·  Diego Bri - 3 **3.50**  ·  Cristian Carracedo - 3 **4.33**  ·  Theo Zidane - 3 **6.00**  ·  Daniel Budesca - 3 **13.00**  ·  Kevin Medina - 3 **4.00**  ·  Adnane Ghailan - 3 **3.50**  ·  Damian Caceres - 3 **6.00**  ·  Eder Garcia - 3 **4.33**  ·  Isma Ruiz - 3 **5.50**  ·  Ruben Alves - 3 **11.00**  ·  Dani Tasende - 3 **17.00**  ·  Yussi Diarra - 3 **13.00**  ·  Alex Lopez - 3 **13.00**  ·  Carlos Albarran - 3 **21.00**  ·  Juan Gutierrez - 3 **21.00**  ·  Egoitz Munoz - 3 **21.00**  ·  Alex Martin - 3 **21.00**  ·  Franck Fomeyem - 3 **21.00**  ·  Diego Percan - 4 **3.25**  ·  Enol Rodriguez - 4 **3.25**  ·  Ibai Sanz - 4 **3.75**  ·  Victor Sanchez - 4 **3.75**  ·  Diego Bri - 4 **8.00**  ·  Cristian Carracedo - 4 **10.00**  ·  Theo Zidane - 4 **15.00**  ·  Kevin Medina - 4 **10.00**  ·  Adnane Ghailan - 4 **8.00**  ·  Damian Caceres - 4 **15.00**  ·  Eder Garcia - 4 **10.00**  ·  Isma Ruiz - 4 **15.00**  ·  Diego Percan - 5 **6.00**  ·  Enol Rodriguez - 5 **6.00**  ·  Ibai Sanz - 5 **7.00**  ·  Victor Sanchez - 5 **7.00**  ·  Diego Bri - 5 **17.00**  ·  Cristian Carracedo - 5 **21.00**  ·  Kevin Medina - 5 **21.00**  ·  Adnane Ghailan - 5 **17.00**  ·  Eder Garcia - 5 **21.00**  ·  Diego Percan - 6 **11.00**  ·  Enol Rodriguez - 6 **13.00**  ·  Ibai Sanz - 6 **15.00**  ·  Victor Sanchez - 6 **15.00**  ·  Diego Percan - 7 **21.00**  ·  Enol Rodriguez - 7 **21.00**  ·  Macedo Nelson Monte - 1 **1.73**  ·  Macedo Nelson Monte - 2 **4.33**  ·  Macedo Nelson Monte - 3 **13.00**  ·  Borja Garcia - 1 **1.33**  ·  Borja Garcia - 2 **2.38**  ·  Borja Garcia - 3 **5.50**  ·  Borja Garcia - 4 **13.00**  ·  Borja Garcia - 5 **21.00**
+- **Anytime Goal Scorer:** Adrian Liso **2.60**  ·  Yussi Diarra **10.00**  ·  Dani Tasende **15.00**  ·  Ruben Alves **12.00**  ·  Kevin Medina **6.00**  ·  Alex Lopez **10.00**  ·  Alex Sala **3.75**  ·  Carlos Albarran **15.00**  ·  Cristian Carracedo **5.50**  ·  Isma Ruiz **7.50**  ·  Theo Zidane **7.50**  ·  Alex Martin **17.00**  ·  John Donald **7.50**  ·  Arnau Puigmal **4.75**  ·  David Lopez **6.00**  ·  Juan Gutierrez **17.00**  ·  Adam Buksa **2.25**  ·  Josep Cerda **2.88**  ·  Enol Rodriguez **3.60**  ·  Diego Bri **5.50**  ·  Franck Fomeyem **17.00**  ·  Macedo Nelson Monte **10.00**  ·  Justin-Noel Kalumba **3.60**  ·  Alberto Moreno **6.00**  ·  Abdon Prats **2.40**  ·  Antonio Sanchez **3.75**  ·  Antonio Raillo **6.00**  ·  Guille Fernandez **4.75**  ·  Eder Garcia **5.50**  ·  Jandro Garcia **3.75**  ·  Diego Percan **3.20**  ·  Daniel Budesca **10.00**  ·  Victor Sanchez **3.60**  ·  Damian Caceres **6.50**  ·  Miguel Calatayud **7.50**  ·  Ibai Sanz **3.60**  ·  Adnane Ghailan **6.50**  ·  Adrian Fuentes **2.10**  ·  Aimar Pena **2.60**  ·  Egoitz Munoz **15.00**  ·  Borja Garcia **6.00**  ·  Manu Morlanes **6.00**  ·  Martin Valjent **10.00**  ·  Sergi Darder **5.50**  ·  Pablo Torre **3.20**  ·  Andre Zito Luvumbo **2.60**  ·  Antoniu Roca **3.20**  ·  Daniel Luna **3.75**  ·  Antonio Toni Lato **8.00**  ·  Luis Orejuela **7.50**  ·  Salim El Jebari **6.00**  ·  Aboubaka Soumahoro **10.00**
+- **Player to Score or Assist:** Adrian Liso **1.83**  ·  Yussi Diarra **5.00**  ·  Dani Tasende **3.40**  ·  Ruben Alves **7.50**  ·  Kevin Medina **3.50**  ·  Alex Lopez **6.00**  ·  Alex Sala **2.62**  ·  Carlos Albarran **5.50**  ·  Cristian Carracedo **2.40**  ·  Isma Ruiz **4.33**  ·  Theo Zidane **3.75**  ·  Alex Martin **9.00**  ·  John Donald **5.50**  ·  Arnau Puigmal **2.10**  ·  David Lopez **4.75**  ·  Juan Gutierrez **4.50**  ·  Adam Buksa **1.67**  ·  Josep Cerda **1.83**  ·  Enol Rodriguez **2.50**  ·  Diego Bri **3.10**  ·  Franck Fomeyem **9.00**  ·  Macedo Nelson Monte **4.50**  ·  Justin-Noel Kalumba **2.25**  ·  Alberto Moreno **3.00**  ·  Abdon Prats **1.91**  ·  Antonio Sanchez **2.50**  ·  Antonio Raillo **4.75**  ·  Guille Fernandez **2.50**  ·  Eder Garcia **3.10**  ·  Jandro Garcia **2.20**  ·  Diego Percan **2.40**  ·  Daniel Budesca **4.50**  ·  Victor Sanchez **2.62**  ·  Damian Caceres **4.00**  ·  Miguel Calatayud **3.10**  ·  Ibai Sanz **2.75**  ·  Adnane Ghailan **3.60**  ·  Adrian Fuentes **1.62**  ·  Aimar Pena **1.91**  ·  Egoitz Munoz **5.00**  ·  Borja Garcia **3.60**  ·  Manu Morlanes **3.50**  ·  Martin Valjent **6.50**  ·  Sergi Darder **2.20**  ·  Pablo Torre **1.73**  ·  Andre Zito Luvumbo **1.73**  ·  Antoniu Roca **2.25**  ·  Daniel Luna **2.88**  ·  Antonio Toni Lato **3.60**  ·  Luis Orejuela **3.10**  ·  Salim El Jebari **3.25**  ·  Aboubaka Soumahoro **4.00**
 
 ## Estadísticas de equipo
 | | Mallorca (total) | Mallorca en casa | Cordoba (total) | Cordoba fuera |
@@ -139,4 +188,39 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,76 · visitante 1,08 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 23% | 20% | 22% | 4.75 | +3% |
+| 1X2: X | 24% | 24% | 24% | 4.00 | -6% |
+| 1X2: 1 | 53% | 57% | 55% | 1.67 | -8% |
+| Doble oportunidad: X2 | 47% | 46% | 46% | 2.00 | -7% |
+| Doble oportunidad: 12 | 76% | 76% | 76% | 1.22 | -7% |
+| Doble oportunidad: 1X | 77% | 78% | 77% | 1.18 | -9% |
+| Ambos marcan: No | 45% | 44% | 45% | 2.10 | -6% |
+| Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -8% |
+| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Goles más/menos: Más de 2.5 | 54% | 56% | 55% | 1.67 | -8% |
+| Goles más/menos: Más de 3.5 | 32% | 35% | 34% | 2.62 | -12% |
+| Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -4% |
+| Goles más/menos: Menos de 2.5 | 46% | 44% | 45% | 2.15 | -4% |
+| Goles más/menos: Menos de 3.5 | 68% | 65% | 66% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 39% | 37% | 2.38 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 28% | 28% | 3.40 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 61% | 63% | 1.53 | -4% |
+| Goles del local: Más de 1.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Goles del local: Más de 2.5 | 26% | 29% | 27% | 3.25 | -11% |
+| Goles del local: Menos de 1.5 | 48% | 44% | 46% | 2.10 | -4% |
+| Goles del local: Menos de 2.5 | 74% | 71% | 73% | 1.33 | -3% |
+| Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
+| Goles del visitante: Más de 1.5 | 29% | 29% | 29% | 3.25 | -5% |
+| Goles del visitante: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del visitante: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -6% |
+| Córners más/menos: Más de 10.5 | 38% | 46% | 42% | 2.00 | -16% |
+| Córners más/menos: Menos de 10.5 | 62% | 54% | 58% | 1.73 | +0% |
+| 1X2 descanso: X | 40% | 39% | 40% | 2.40 | -5% |
+| 1X2 descanso: 1 | 39% | 41% | 40% | 2.25 | -10% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

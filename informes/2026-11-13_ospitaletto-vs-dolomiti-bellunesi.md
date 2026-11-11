@@ -1,7 +1,7 @@
 # Ospitaletto – Dolomiti Bellunesi
 **Serie C** · Girone A - 14 · 13/11/2026 20:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 08:20_

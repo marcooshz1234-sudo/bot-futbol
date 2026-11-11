@@ -1,7 +1,7 @@
 # Liechtenstein – Azerbaijan
 **Nations League** · League D - 5 · 13/11/2026 20:45 (hora España) · Rheinpark Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 08:20_

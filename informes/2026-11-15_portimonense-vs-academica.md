@@ -1,10 +1,45 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 14:15_
+
+- **1X2:** 1 **2.25**  ·  X **3.10**  ·  2 **2.90**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.53**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.05** · menos **1.75**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **9.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Portimonense (total) | Portimonense en casa | Academica (total) | Academica fuera |
@@ -134,4 +169,38 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,94 · visitante 1,16 · córners esperados 7,5._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 41% | 31% | 36% | 2.90 | +4% |
+| 1X2: X | 30% | 29% | 29% | 3.10 | -9% |
+| 1X2: 1 | 29% | 40% | 35% | 2.25 | -22% |
+| Doble oportunidad: X2 | 71% | 61% | 66% | 1.53 | +1% |
+| Doble oportunidad: 12 | 70% | 70% | 70% | 1.33 | -7% |
+| Doble oportunidad: 1X | 59% | 69% | 64% | 1.36 | -13% |
+| Ambos marcan: No | 58% | 49% | 53% | 1.91 | +2% |
+| Ambos marcan: Sí | 42% | 51% | 47% | 1.80 | -16% |
+| Goles más/menos: Más de 1.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles más/menos: Más de 2.5 | 35% | 46% | 41% | 2.05 | -17% |
+| Goles más/menos: Más de 3.5 | 16% | 27% | 21% | 3.50 | -25% |
+| Goles más/menos: Menos de 1.5 | 38% | 29% | 34% | 3.25 | +9% |
+| Goles más/menos: Menos de 2.5 | 65% | 54% | 59% | 1.75 | +4% |
+| Goles más/menos: Menos de 3.5 | 84% | 73% | 79% | 1.28 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 66% | 63% | 1.40 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
+| Goles del local: Más de 0.5 | 61% | 73% | 67% | 1.28 | -14% |
+| Goles del local: Más de 1.5 | 24% | 41% | 33% | 2.25 | -27% |
+| Goles del local: Menos de 0.5 | 39% | 27% | 33% | 3.50 | +15% |
+| Goles del local: Menos de 1.5 | 76% | 59% | 67% | 1.57 | +6% |
+| Goles del visitante: Más de 0.5 | 69% | 66% | 67% | 1.40 | -6% |
+| Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
+| Goles del visitante: Menos de 0.5 | 31% | 34% | 33% | 2.75 | -11% |
+| Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
+| 1X2 descanso: 2 | 29% | 25% | 27% | 3.75 | +1% |
+| 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |
+| 1X2 descanso: 1 | 22% | 31% | 27% | 3.00 | -20% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

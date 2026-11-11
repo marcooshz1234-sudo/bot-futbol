@@ -1,7 +1,7 @@
 # Real Sociedad W – Athletic Club W
 **Liga F** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Instalaciones de Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 14:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
