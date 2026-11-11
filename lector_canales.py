@@ -33,10 +33,32 @@ def leer_canal(usuario):
         texto = re.search(r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>', bloque, re.S)
         if not pid:
             continue
-        posts.append({"id": pid.group(1), "fecha": fecha.group(1)[:16] if fecha else None,
-                      "texto": limpiar(texto.group(1)) if texto else "",
-                      "foto": "tgme_widget_message_photo" in bloque})
+        post = {"id": pid.group(1), "fecha": fecha.group(1)[:16] if fecha else None,
+                "texto": limpiar(texto.group(1)) if texto else "",
+                "foto": "tgme_widget_message_photo" in bloque}
+        # 11/11: la URL de la foto (el boleto) para bajarla: antes solo se bajaban las de la cuenta y los boletos
+        # de TipsAnalistas (web) se quedaban sin mirar
+        url = re.search(r"tgme_widget_message_photo_wrap[^>]*background-image:url\('([^']+)'\)", bloque)
+        if url:
+            post["foto_url"] = html.unescape(url.group(1))
+        posts.append(post)
     return posts
+
+
+def bajar_foto_web(p, nombre):
+    """11/11: baja la foto de un post de la web (t.me/s) a datos/tipsters_fotos/ y deja su ruta en foto_ruta."""
+    url = p.pop("foto_url", None)
+    if not url:
+        return
+    FOTOS.mkdir(parents=True, exist_ok=True)
+    ruta = FOTOS / f"{re.sub(r'[^A-Za-z0-9ÁÉÍÓÚáéíóúÑñ]+', '_', nombre)[:40]}_{p['id'].rsplit('/', 1)[-1]}.jpg"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 combilocas-bot"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            ruta.write_bytes(r.read())
+        p["foto_ruta"] = str(ruta.relative_to(DATOS.parent))
+    except Exception as e:
+        print("foto web:", e)
 
 
 CANALES_PRIVADOS = {"TIPSTER PÉREZ": "Tipster Pérez"}   # título del canal en Telegram → nombre (con la cuenta de Marcos)
@@ -149,6 +171,7 @@ def main(forzar=False):
         ya = {p["id"] for p in lista}
         for p in posts:
             if p["id"] not in ya:
+                bajar_foto_web(p, nombre)
                 p["visto"] = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
                 lista.append(p)
                 nuevos += 1
