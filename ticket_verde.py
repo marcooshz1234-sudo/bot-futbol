@@ -83,14 +83,16 @@ def sello(captura, destino):
     out = Image.new("RGB", (w, h + banda), (11, 26, 18))
     out.paste(im, (0, banda))
     d = ImageDraw.Draw(out)
-    d.rectangle([0, 0, w, banda - 1], fill=(10, 20, 64))
-    d.rectangle([0, banda - max(4, w // 150), w, banda - 1], fill=(242, 201, 76))
+    import marca
+    cl = marca.TEMA == "cl"   # 11/11: estilo CL → franja negra con raya verde neón
+    d.rectangle([0, 0, w, banda - 1], fill=(6, 8, 6) if cl else (10, 20, 64))
+    d.rectangle([0, banda - max(4, w // 150), w, banda - 1], fill=(126, 240, 58) if cl else (242, 201, 76))
     negrita = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
     f1 = ImageFont.truetype(negrita, int(banda * 0.42))
     f2 = ImageFont.truetype(negrita, int(banda * 0.17))
     izq = int(banda * 1.1) if CIRCULO.exists() else 0   # 11/11: el texto a la derecha del logo, sin pisarlo
-    for texto, f, y, color in (("✔ ACERTADO", f1, banda * 0.14, (62, 224, 122)),
-                               ("C O M B I L O C A S", f2, banda * 0.66, (242, 201, 76))):
+    for texto, f, y, color in (("✔ ACERTADO", f1, banda * 0.14, (126, 240, 58) if cl else (62, 224, 122)),
+                               ("C O M B I L O C A S", f2, banda * 0.66, (255, 255, 255) if cl else (242, 201, 76))):
         d.text((izq + (w - izq - d.textlength(texto, font=f)) / 2, y), texto, font=f, fill=color)
     if CIRCULO.exists():   # 11/11: el logo redondo a la izquierda de la franja
         lado = int(banda * 0.8)

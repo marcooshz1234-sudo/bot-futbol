@@ -51,6 +51,17 @@ body{width:%(w)dpx;height:%(h)dpx;font-family:%(letra)s;color:#f7f3e8;display:fl
 """
 
 
+CSS_CL = """
+.l{background:linear-gradient(180deg,rgba(16,20,16,.9),rgba(4,6,4,.9));border:2px solid rgba(126,240,58,.75);
+ border-left:9px solid #7ef03a;box-shadow:0 0 14px rgba(126,240,58,.22);color:#fff;font-style:italic}
+.titulo{text-transform:uppercase}
+.marca{margin-top:auto}
+.sub{font-size:40px}
+.cuota div.b{background:linear-gradient(180deg,#fff3b0,#ffd84a 45%%,#d99a10);color:#1a1200;box-shadow:0 0 20px rgba(255,216,74,.5)}
+.dato{color:#f2f2f2;font-style:italic}
+"""
+
+
 def partes(texto):
     filas = [f.strip() for f in texto.split("\n")]
     titulo = filas[0]
@@ -93,6 +104,9 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
         gap = 10
     css = base(h) + CSS % {"w": w, "h": h, "pad": 80 if vertical else 56, "ft": 76 if vertical else 64, "fl": fl, "gap": gap,
                           "oro": ORO, "letra": LETRA}
+    import marca
+    if marca.TEMA == "cl":
+        css += CSS_CL % {}
     total = 1 + n + 2
     ver = total if mostrar is None else mostrar
 
@@ -114,7 +128,10 @@ def documento(p, vertical, mostrar=None, foto_b64=None):
             f'<div class="pastilla{" b" if c.startswith("💶") else ""}">{e(c)}</div>' for c in cuota) + "</div>")
     if dato:
         partes_html.append(f'<div class="dato{cls(2 + n)}">{e(dato)}</div>')
-    partes_html.append('<div class="pie"><div class="banda"><span class="oro" style="font-size:40px">@COMBILOCAS</span></div></div>')
+    if fotos.CL:
+        partes_html.append(f'<div class="pie">{fotos._firma()}</div>')
+    else:
+        partes_html.append('<div class="pie"><div class="banda"><span class="oro" style="font-size:40px">@COMBILOCAS</span></div></div>')
     clase = ' class="v"' if vertical else ""
     return f"<html><head><meta charset='utf-8'><style>{css}</style></head><body{clase}>{''.join(partes_html)}</body></html>", total
 

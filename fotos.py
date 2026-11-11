@@ -14,7 +14,10 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import marca
 from marca import LETRA, ORO, base, logo_img, trebol
+
+CL = marca.TEMA == "cl"   # 11/11 05:04: estilo CL verde neón (Marcos, ChatGPT)
 
 RAIZ = Path(__file__).resolve().parent
 ESCUDOS = RAIZ / "publicaciones" / "media" / "escudos"
@@ -189,6 +192,9 @@ DESTELLO = ('<svg viewBox="0 0 40 40" width="{t}" height="{t}" style="{e}"><path
 
 def decoracion(alto=1350, verde=False):
     """Capa de adornos detrás del contenido: cintas doradas en las esquinas, laureles, copas, destellos y confeti."""
+    if CL:   # estilo CL: el fondo es la foto del estadio, sin copas, laureles ni confeti
+        return (f'<div class="deco" style="position:absolute;left:0;top:0;width:1080px;height:100%;min-height:{alto}px;'
+                f'z-index:0;pointer-events:none"></div>')
     import random
     rnd = random.Random(7)   # siempre igual
     cinta = ("position:absolute;width:460px;height:{h}px;background:{b};box-shadow:0 4px 10px rgba(0,0,0,.4);"
@@ -234,15 +240,45 @@ def _html(cuerpo, w, h, verde=False, extra=""):
 
 
 def _cinta(texto, tam=54):
+    if CL:   # título blanco en cursiva con la raya verde debajo
+        return (f'<div class="banda"><div class="oro" style="font-size:{int(tam * 1.08)}px;line-height:1.02;'
+                f'text-align:center">{texto}</div></div>')
     return (f'<div class="banda" style="transform:rotate(-2deg)"><div class="oro" style="font-size:{tam}px;'
             f'line-height:1.05;text-align:center">{texto}</div></div>')
+
+
+def _brocha(texto, tam=52):
+    """Franja verde de brocha con letra negra («¿LA PINTAMOS DE VERDE?», «¿QUIÉN LA LLEVABA?»)."""
+    if not CL:
+        return _cinta(texto, tam)
+    return f'<div class="brocha"><span style="font-size:{tam}px">{texto}</span></div>'
+
+
+def _firma():
+    """@COMBILOCAS entre dos rayas verdes (pie del estilo CL)."""
+    raya = '<span style="width:130px;height:3px;background:#7ef03a;box-shadow:0 0 8px #7ef03a"></span>'
+    return (f'<div style="display:flex;align-items:center;gap:34px">{raya}'
+            f'<span class="b3d" style="font-size:40px;letter-spacing:1px">@COMBILOCAS</span>{raya}</div>')
+
+
+ICONO = {
+    "cal": '<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/>'
+           '<path d="M3 10h18M8 3v4M16 3v4"/><path d="M7 14h2M11 14h2M15 14h2M7 17h2M11 17h2" stroke-linecap="round"/></svg>',
+    "monedas": '<svg width="54" height="44" viewBox="0 0 54 44"><g fill="#7ef03a" stroke="#06140a" stroke-width="2.5">'
+               + "".join(f'<ellipse cx="{c}" cy="{y}" rx="15" ry="6"/>' for c, y in ((18, 36), (18, 28), (18, 20), (36, 36), (36, 28)))
+               + '</g></svg>',
+    "barras": '<svg width="40" height="40" viewBox="0 0 24 24" fill="#7ef03a"><rect x="3" y="14" width="4" height="7"/>'
+              '<rect x="10" y="9" width="4" height="12"/><rect x="17" y="4" width="4" height="17"/></svg>',
+    "check": '<svg width="{t}" height="{t}" viewBox="0 0 40 40"><rect width="40" height="40" rx="8" fill="#7ef03a"/>'
+             '<path d="M9 21 L17 29 L31 12" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+}
 
 
 def _vs(t, lado, nombre_tam):
     l, v = equipo(t["local"]), equipo(t["visitante"])
     col = lambda n, i, u: (f'<div style="display:flex;flex-direction:column;align-items:center;gap:18px;width:360px">'
-                           f'{escudo(i, u, n, lado)}<div class="b3d" style="font-size:{_tam(n, nombre_tam, 13)}px;'
-                           f'line-height:1;text-align:center">{e(n)}</div></div>')
+                           f'{escudo(i, u, n, lado)}<div class="{"nombre" if CL else ""}"><div class="b3d" style="font-size:'
+                           f'{_tam(n, nombre_tam, 13) - (6 if CL else 0)}px;line-height:1;text-align:center">{e(n)}</div></div></div>')
     return (f'<div style="display:flex;align-items:center;justify-content:space-between;width:960px">'
             f'{col(l, t.get("id_l"), t.get("logo_l"))}<div class="oro" style="font-size:110px">VS</div>'
             f'{col(v, t.get("id_v"), t.get("logo_v"))}</div>')
@@ -273,6 +309,8 @@ def pick_del_dia(p, w=1080, h=1350):
     vertical = h > 1500
     liga = mayus(t.get("liga") or "")
     info = " · ".join(x for x in (cuando(t, p.get("fecha", "")), liga) if x)
+    if CL:
+        return _pick_cl(t, mayus(pick), cuota, stake, razon, info, w, h)
     pk = mayus(pick)
     razon_html = (f'<div style="margin-top:26px;width:900px;font-weight:600;font-size:34px;line-height:1.25;'
                   f'text-align:center;color:#f3e3b0;text-shadow:0 2px 8px #000">{e(fem(razon))}</div>') if razon and len(razon) < 170 else ""
@@ -293,12 +331,41 @@ def pick_del_dia(p, w=1080, h=1350):
     return _html(cuerpo, w, h)
 
 
+def _pick_cl(t, pk, cuota, stake, razon, info, w, h):
+    """Pick del día con el estilo CL (como el de ChatGPT de Marcos, 11/11)."""
+    vertical = h > 1500
+    razon_html = (f'<div style="margin-top:28px;width:900px;display:flex;gap:18px;align-items:flex-start;justify-content:center">'
+                  f'<span style="flex:none;margin-top:2px">{ICONO["barras"]}</span><span style="font-weight:600;font-style:italic;'
+                  f'font-size:34px;line-height:1.3;text-align:center;color:#f2f2f2;text-shadow:0 2px 8px #000">{e(fem(razon))}</span></div>'
+                  ) if razon and len(razon) < 170 else ""
+    cuerpo = (
+        f'<div style="margin-top:{90 if vertical else 30}px">{logo_img(230 if vertical else 190)}</div>'
+        f'<div style="margin-top:4px">{_cinta("PICK DEL DÍA", 84)}</div>'
+        f'<div style="margin-top:{70 if vertical else 30}px">{_vs(t, 270 if vertical else 220, 50)}</div>'
+        f'<div style="margin-top:28px;display:flex;align-items:center;gap:18px">{ICONO["cal"]}'
+        f'<span class="b3d" style="font-size:38px;letter-spacing:1px">{e(info)}</span></div>'
+        f'<div class="card" style="margin-top:{60 if vertical else 30}px;width:960px;min-height:150px;display:flex;align-items:center;'
+        f'justify-content:space-between;gap:20px;padding:16px 18px 16px 44px">'
+        f'<div class="b3d" style="font-size:{_tam(pk, 66, 18)}px;line-height:1.02">{e(pk)}</div>'
+        f'<div class="pastilla" style="font-size:78px;height:112px;flex:none">@{e(cuota)}</div></div>'
+        + (f'<div style="margin-top:34px;display:flex;align-items:center;gap:20px">{ICONO["monedas"]}'
+           f'<span class="b3d" style="font-size:46px">STAKE {e(stake)}</span></div>' if stake else "")
+        + razon_html
+        + f'<div style="position:absolute;left:0;right:0;bottom:{120 if vertical else 50}px;display:flex;justify-content:center">'
+        f'{_firma()}</div>')
+    return _html(cuerpo, w, h)
+
+
 def _marcador(x):
     m = x.get("marcador")
     return f"{m[0]} - {m[1]}" if isinstance(m, list) and len(m) == 2 and None not in m else ""
 
 
 def _sello(tam=72):
+    if CL:   # pastilla verde «✓ ACERTADO» (sin girar)
+        return (f'<div class="pastilla" style="gap:16px;padding:6px 30px 6px 10px;font-size:{tam}px;border-radius:14px">'
+                f'<span style="background:#06140a;border-radius:10px;display:flex;padding:4px">'
+                f'{ICONO["check"].format(t=tam - 8).replace("#7ef03a", "#06140a", 1)}</span>ACERTADO</div>')
     return (f'<div style="display:flex;align-items:center;gap:14px;padding:8px 32px;border:9px solid #3ee07a;border-radius:18px;'
             f'background:rgba(6,42,28,.8);box-shadow:0 0 30px rgba(62,224,122,.6);transform:rotate(-12deg)">'
             f'<svg width="{tam - 8}" height="{tam - 8}" viewBox="0 0 64 64"><path d="M10 34 L26 50 L56 16" fill="none" '
@@ -311,8 +378,8 @@ def _cajas(datos):
     return ('<div style="margin-top:34px;width:880px;display:grid;grid-template-columns:repeat(%d,minmax(0,1fr));gap:16px">'
             % len(datos) + "".join(
                 f'<div class="card" style="padding:12px 0;display:flex;flex-direction:column;align-items:center;border-width:3px">'
-                f'<span style="font-weight:700;font-size:26px;color:#c9d4ff;letter-spacing:3px">{e(a)}</span>'
-                f'<span class="oro" style="font-size:{_tam(str(b), 56, 9)}px;line-height:1.08">{e(str(b))}</span></div>'
+                f'<span style="font-weight:700;font-size:26px;color:{"#eef3ea" if CL else "#c9d4ff"};letter-spacing:3px">{e(a)}</span>'
+                f'<span class="{"neon" if CL else "oro"}" style="font-size:{_tam(str(b), 56, 9)}px;line-height:1.08">{e(str(b))}</span></div>'
                 for a, b in datos) + "</div>")
 
 
@@ -328,8 +395,8 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
         '<div class="oro" style="font-size:110px">VS</div>'
     l, v = equipo(t["local"]), equipo(t["visitante"])
     col = lambda n, i, u: (f'<div style="display:flex;flex-direction:column;align-items:center;gap:14px;width:320px">'
-                           f'{escudo(i, u, n, 220)}<div class="b3d" style="font-size:{_tam(n, 46, 13)}px;line-height:1;'
-                           f'text-align:center">{e(n)}</div></div>')
+                           f'{escudo(i, u, n, 220)}<div class="{"nombre" if CL else ""}"><div class="b3d" style="font-size:'
+                           f'{_tam(n, 46, 13) - (6 if CL else 0)}px;line-height:1;text-align:center">{e(n)}</div></div></div>')
     datos = [("CUOTA", cuota or "—"), ("PUBLICADO", publicado or "—")]
     if liga:
         datos.append(("COMPETICIÓN", mayus(liga)[:16]))
@@ -340,14 +407,18 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
         f'inset 0 2px 0 rgba(255,255,255,.2);padding:34px 0 34px;display:flex;flex-direction:column;align-items:center">'
         f'<div style="width:100%;display:flex;align-items:center;justify-content:space-around">'
         f'{col(l, t.get("id_l"), t.get("logo_l"))}{centro}{col(v, t.get("id_v"), t.get("logo_v"))}</div>'
-        f'<div style="position:relative;margin-top:120px;width:880px">'
-        f'<div class="card" style="min-height:136px;display:flex;align-items:center;justify-content:space-between;gap:20px;'
-        f'padding:10px 30px;border-color:#5b7bff"><span class="b3d" style="font-size:{_tam(pk, 60, 18)}px;line-height:1.02">{e(pk)}</span>'
-        f'<span class="oro" style="font-size:84px;line-height:1;flex:none">@{e(cuota or "")}</span></div>'
-        f'<div style="position:absolute;right:24px;top:-74px">{_sello(64)}</div></div>'
-        f'{_cajas(datos)}</div>'
+        + (f'<div style="margin-top:34px">{_sello(54)}</div><div style="margin-top:26px;width:880px">'
+           f'<div class="card" style="min-height:130px;display:flex;align-items:center;justify-content:space-between;gap:20px;'
+           f'padding:10px 14px 10px 34px"><span class="b3d" style="font-size:{_tam(pk, 60, 18)}px;line-height:1.02">{e(pk)}</span>'
+           f'<span class="pastilla" style="font-size:72px;height:104px;flex:none">@{e(cuota or "")}</span></div></div>' if CL else
+           f'<div style="position:relative;margin-top:120px;width:880px">'
+           f'<div class="card" style="min-height:136px;display:flex;align-items:center;justify-content:space-between;gap:20px;'
+           f'padding:10px 30px;border-color:#5b7bff"><span class="b3d" style="font-size:{_tam(pk, 60, 18)}px;line-height:1.02">{e(pk)}</span>'
+           f'<span class="oro" style="font-size:84px;line-height:1;flex:none">@{e(cuota or "")}</span></div>'
+           f'<div style="position:absolute;right:24px;top:-74px">{_sello(64)}</div></div>')
+        + f'{_cajas(datos)}</div>'
         f'<div style="position:absolute;left:0;right:0;bottom:56px;display:flex;justify-content:center">'
-        f'{_cinta("¿QUIÉN LA LLEVABA?", 60)}</div>')
+        f'{_brocha("¿QUIÉN LA LLEVABA? 🍀" if CL else "¿QUIÉN LA LLEVABA?", 56)}</div>')
     return _html(cuerpo, 1080, alto, verde=True)
 
 
@@ -362,7 +433,9 @@ def verde_lista(patas, titulo, cuota, publicado, alto=1350):
         sub = " · ".join(s for s in (fem(x.get("partido", "")), _marcador(x)) if s)
         filas += (f'<div class="card" style="display:flex;align-items:center;gap:20px;padding:{pad}px 26px;border-width:3px;'
                   f'border-left:10px solid {"#8a8f9e" if anul else "#3ee07a"};opacity:{.55 if anul else 1}">'
-                  f'<span style="font-size:{letra}px">{"⏸️" if anul else "✅"}</span><div style="flex:1">'
+                  + (f'<span style="flex:none;display:flex">{"⏸️" if anul else ICONO["check"].format(t=letra + 6)}</span>' if CL else
+                     f'<span style="font-size:{letra}px">{"⏸️" if anul else "✅"}</span>')
+                  + f'<div style="flex:1">'
                   f'<div class="b3d" style="font-size:{letra}px;line-height:1.05">{e(mayus(x.get("texto", "")))}'
                   f'{" (NO SE JUGÓ)" if anul else ""}</div>'
                   + (f'<div style="font-weight:600;font-size:{max(22, letra - 14)}px;color:#cbd5e1;margin-top:4px">{e(sub)}</div>' if sub else "")
@@ -373,7 +446,7 @@ def verde_lista(patas, titulo, cuota, publicado, alto=1350):
         f'<div style="margin-top:{30 if n <= 6 else 16}px">{_sello(60 if n <= 6 else 46)}</div>'
         f'<div style="margin-top:{44 if n <= 6 else 26}px;width:940px;display:flex;flex-direction:column;gap:{14 if n <= 5 else 8}px">{filas}</div>'
         f'{_cajas([("CUOTA", cuota or "—"), ("PUBLICADO", publicado or "—")])}'
-        f'<div style="margin:40px 0 70px;display:flex;justify-content:center">{_cinta("¿QUIÉN LA LLEVABA?", 56)}</div>')
+        f'<div style="margin:40px 0 70px;display:flex;justify-content:center">{_brocha("¿QUIÉN LA LLEVABA? 🍀" if CL else "¿QUIÉN LA LLEVABA?", 54)}</div>')
     return _html(cuerpo, 1080, alto, verde=True)
 
 
@@ -421,6 +494,21 @@ QG_CSS = """
 """
 
 
+QG_CL = """
+.f:before{background:linear-gradient(180deg,rgba(18,22,18,.94),rgba(4,6,4,.94));box-shadow:0 0 18px rgba(126,240,58,.3),
+ inset 0 0 0 3px rgba(126,240,58,.85)}
+.n{background:linear-gradient(180deg,#b6ff6e,#7ef03a 55%%,#4fc21a);box-shadow:0 0 16px rgba(126,240,58,.5)}
+.n span{color:#06140a;text-shadow:none}
+.fl{box-shadow:0 3px 8px rgba(0,0,0,.6)}
+.es img{filter:drop-shadow(0 3px 5px rgba(0,0,0,.7))}
+.nom{color:#fff;text-shadow:0 3px 0 rgba(0,0,0,.6);text-align:left;padding-left:18px}
+.flecha{color:#7ef03a;font-size:%(nf)dpx}
+.pick,.ok .pick{background:linear-gradient(180deg,#b6ff6e,#7ef03a 55%%,#4fc21a);box-shadow:0 0 16px rgba(126,240,58,.5)}
+.pick b{color:#06140a;text-shadow:none}
+.ck{border-color:#06140a;background:#06140a;color:#7ef03a}
+"""
+
+
 BANDERAS = RAIZ / "publicaciones" / "media" / "marca" / "banderas"
 
 
@@ -458,7 +546,7 @@ def quien_gana(filas, titulo, sub=None):
     from ganadores_img import BANDERAS_SVG, _bandera
     n = len(filas)
     h = 112 if n <= 6 else 100 if n <= 8 else 84
-    css = QG_CSS % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 32) * 4 / 3), "fh": h - 32, "fe": h // 2,
+    css = (QG_CSS + (QG_CL if CL else "")) % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 32) * 4 / 3), "fh": h - 32, "fe": h // 2,
                     "eh": h - 22, "nomf": h // 2 - 4, "ph": h - 36, "pf": h // 2 - 12, "ck": h // 2 - 12, "ckf": h // 4 + 2,
                     "letra": LETRA}
     lis = ""
@@ -475,13 +563,13 @@ def quien_gana(filas, titulo, sub=None):
             bandera = '<div class="fl" style="visibility:hidden"></div>'
         nombre = equipo(f["nombre"])
         lis += (f'<div class="f{cls}"><div class="n"><span>{i}.</span></div>{bandera}{esc}'
-                f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">➜</div>'
+                f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">{"»" if CL else "➜"}</div>'
                 f'<div class="pick"><div class="ck">{marca}</div><b>{e(f.get("pick", "WIN"))}</b></div></div>')
     cuerpo = (
         f'<div style="margin-top:{36 if n > 5 else 0}px">{logo_img(170 if n > 5 else 220)}</div>'
         f'<div style="margin-top:4px">{_cinta(e(titulo or "QUIÉN GANA HOY"), 70)}</div>'
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
         + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'
-        f'<div style="margin:36px 0 64px;display:flex;justify-content:center">{_cinta("¿LA PINTAMOS DE VERDE? 🍀", 54)}</div>')
+        f'<div style="margin:36px 0 64px;display:flex;justify-content:center">{_brocha("¿LA PINTAMOS DE VERDE? 🍀", 54)}</div>')
     centrar = "body{justify-content:center;height:1350px}" if n <= 5 else ""   # pocas filas: todo centrado
     return _html(cuerpo, 1080, 1350, extra=css + centrar)
