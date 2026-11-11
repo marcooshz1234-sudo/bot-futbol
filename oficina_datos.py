@@ -160,6 +160,14 @@ def main(control=None):
                       or [{"h": ult.strftime("%H:%M") if ult else "", "t": "Sin fallos hoy en el bucle"}]),
     }
 
+    # 11/11: lo que ve vigilante.py (posts sin salir, fotos, textos rotos, repetidos…)
+    vg = leer(DATOS / "vigilante.json", {}) or {}
+    if vg.get("abiertos"):
+        roles["vigilante"]["alerta"] = True
+        roles["vigilante"]["ahora"] += f" · {len(vg['abiertos'])} cosa(s) por revisar"
+    roles["vigilante"]["historial"] = ([{"h": x["hora"][11:16], "t": x["t"]} for x in vg.get("historial") or []
+                                        if x["hora"][:10] == hoy][:8] + roles["vigilante"]["historial"])[:10]
+
     # 🎯 Cazador (11/11): cuotas de bet365 por encima de lo justo
     cz = leer(DATOS / "cazador.json", {}) or {}
     ult = cz.get("ultima") or {}
