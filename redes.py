@@ -100,7 +100,8 @@ def url_media(p, ext):
         return None
     if p.get("_texto_cambiado"):
         huella = RAIZ / "publicaciones" / "media" / f"{p['id']}.huella"
-        esperada = hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12]
+        from marca import DISENO   # 11/11: la misma huella que imagenes.huella (si no, nunca coincidía)
+        esperada = hashlib.sha1((p["texto"] + str(p.get("foto")) + DISENO).encode()).hexdigest()[:12]
         if not huella.exists() or huella.read_text().strip() != esperada:
             return None  # La imagen anterior no debe contradecir el texto corregido.
     return f"{RAW}{p['id']}.{ext}?v={int(f.stat().st_mtime)}"   # cambia si se regenera
@@ -125,6 +126,8 @@ def threads(p, token):
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
     datos = {"media_type": "TEXT", "text": t, "access_token": token}
     foto = url_media(p, "tarjeta.jpg")   # 27/10: combis de un partido → con la foto del partido (escudos y hora)
+    if not foto and re.search(r"-pick(-|$)", p["id"]) and not re.search(r"verde|rojo", p["id"]):
+        foto = url_media(p, "jpg")   # 11/11 (Marcos): el pick del día también en Threads con su foto (la de Instagram)
     if p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo)-auto-", p["id"]):
         foto = None   # 10/11 (Marcos): los verdes y rojos en Threads, solo el texto
     if foto:

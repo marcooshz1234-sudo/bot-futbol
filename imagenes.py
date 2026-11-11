@@ -21,7 +21,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-from marca import LETRA, ORO, base, logo_img
+from marca import DISENO, LETRA, ORO, base, logo_img
 
 RAIZ = Path(__file__).resolve().parent
 MEDIA = RAIZ / "publicaciones" / "media"
@@ -303,7 +303,7 @@ def generar(p, pagina):
 def huella(p):
     import hashlib
     # «diseño-4»: 11/11 estilo CL; «diseño-3»: 11/11, plantillas con el logo nuevo y tarjeta de 1 partido con el formato de antes → se rehacen las imágenes de los posts que aún no han salido
-    return hashlib.sha1((p["texto"] + str(p.get("foto")) + "diseño-4").encode()).hexdigest()[:12]
+    return hashlib.sha1((p["texto"] + str(p.get("foto")) + DISENO).encode()).hexdigest()[:12]
 
 
 def pendientes_de(cola, ahora, control=None, estado=None):
