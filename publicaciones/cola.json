@@ -4495,5 +4495,109 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-12-ganadores-nations-8",
+    "fecha": "2026-11-12T00:26",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇦🇲 Armenia - Win\n2. 🇧🇪 Bélgica - Win\n3. 🇦🇱 Albania - Win\n4. 🇧🇾 Bielorrusia - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - Win\n6. 🇫🇷 Francia - Win\n7. 🇲🇪 Montenegro - Win\n8. 🇪🇸 España - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1528959|Match Winner|Home",
+      "1528958|Match Winner|Away",
+      "1528963|Match Winner|Home",
+      "1528964|Match Winner|Away",
+      "1528962|Match Winner|Home",
+      "1528960|Match Winner|Away",
+      "1545613|Match Winner|Home",
+      "1528961|Match Winner|Away"
+    ],
+    "cuotas": [
+      2.35,
+      1.8,
+      1.95,
+      1.14,
+      1.22,
+      1.95,
+      1.28,
+      1.18
+    ],
+    "ganadores_img": {
+      "titulo": "NATIONS LEAGUE",
+      "liga": 5,
+      "filas": [
+        {
+          "pais": "Armenia",
+          "bandera": "🇦🇲",
+          "escudo_url": "https://media.api-sports.io/football/teams/1094.png",
+          "nombre": "Armenia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Belgium",
+          "bandera": "🇧🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/1.png",
+          "nombre": "Bélgica",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Albania",
+          "bandera": "🇦🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/778.png",
+          "nombre": "Albania",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Belarus",
+          "bandera": "🇧🇾",
+          "escudo_url": "https://media.api-sports.io/football/teams/1100.png",
+          "nombre": "Bielorrusia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/10.png",
+          "nombre": "Inglaterra",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/2.png",
+          "nombre": "Francia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Montenegro",
+          "bandera": "🇲🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/1109.png",
+          "nombre": "Montenegro",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/9.png",
+          "nombre": "España",
+          "pick": "WIN",
+          "seleccion": true
+        }
+      ]
+    },
+    "solo_en": [
+      "threads"
+    ],
+    "nota": "12/11 00:27 Marcos: versión de 8 partidos del de las 00:00 (4), solo en Threads"
   }
 ]
