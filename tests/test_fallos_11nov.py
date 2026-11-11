@@ -207,6 +207,18 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertNotEqual(redes._titulo(a), redes._titulo(b))
         self.assertEqual(redes._titulo(a), redes._titulo(a + "\n\nOtra cosa"))
 
+    def test_logo_liga_sin_circulo_y_partidos_fijas(self):
+        import fotos, ganadores_win as G
+        html = fotos._logo_liga(RAIZ / "publicaciones" / "media" / "escudos" / "liga-5.png", 190)
+        self.assertNotIn("border-radius:50%", html)   # Marcos 12/11: sin el círculo blanco
+        self.assertIn("width:190px", html)
+        base = {"ini": 0, "equipo": {"name": "x"}, "grande": False, "lado": "Home", "cuota": 1.5, "liga": 5}
+        altos = [dict(base, fid=i, prob=0.7) for i in range(4)]
+        bajos = altos + [dict(base, fid=10 + i, prob=0.45) for i in range(4)]
+        with mock.patch.object(G, "candidatos", lambda dia, minimo=None, excluir=(): bajos if minimo else altos):
+            g = dict(G.grupos("2026-11-12"))
+        self.assertEqual(len(g["nations"]), 8)   # «tiene que haber 8-9»
+
 
 if __name__ == "__main__":
     unittest.main()

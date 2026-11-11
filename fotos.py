@@ -503,15 +503,15 @@ QG_CSS = """
 """
 
 
-def _logo_liga(ruta, lado=120):
-    """11/11 (Marcos): si todos los partidos son de la misma competición, su logo (Champions femenina, Nations League,
-    LaLiga…) en un círculo blanco al lado del título. Sin archivo → nada."""
+def _logo_liga(ruta, lado=170):
+    """11/11 (Marcos): si todos los partidos son de la misma competición, su logo al lado del título.
+    12/11 (Marcos): sin el círculo blanco, el logo tal cual y más grande (con un halo claro para que se lea sobre el
+    fondo oscuro). Sin archivo → nada."""
     if not ruta or not Path(str(ruta)).is_file():
         return ""
-    return (f'<div style="width:{lado}px;height:{lado}px;flex:none;border-radius:50%;background:#fff;display:flex;'
-            f'align-items:center;justify-content:center;box-shadow:0 0 0 4px #7ef03a,0 0 22px rgba(126,240,58,.5)">'
-            f'<img src="data:image/png;base64,{nitido(Path(str(ruta)), int(lado * .72))}" '
-            f'style="width:72%;height:72%;object-fit:contain"></div>')
+    return (f'<img src="data:image/png;base64,{nitido(Path(str(ruta)), lado)}" style="width:{lado}px;height:{lado}px;'
+            f'flex:none;object-fit:contain;filter:drop-shadow(0 0 1.5px #fff) drop-shadow(0 0 1.5px #fff) '
+            f'drop-shadow(0 0 14px rgba(255,255,255,.45))">')
 
 
 QG_CL = """
@@ -587,8 +587,8 @@ def quien_gana(filas, titulo, sub=None, liga=None, alto=1350):
                 f'<div class="pick"><div class="ck">{marca}</div><b>{e(f.get("pick", "WIN"))}</b></div></div>')
     cuerpo = (
         f'<div style="margin-top:{36 if n > 5 else 0}px">{logo_img(170 if n > 5 else 220)}</div>'
-        + (f'<div style="margin-top:4px;display:flex;align-items:center;gap:26px">{_logo_liga(liga, 120)}'
-           f'{_cinta(e(titulo or "QUIÉN GANA HOY"), 66)}</div>' if _logo_liga(liga, 120) else
+        + (f'<div style="margin-top:4px;display:flex;align-items:center;gap:26px">{_logo_liga(liga, 190)}'
+           f'{_cinta(e(titulo or "QUIÉN GANA HOY"), 66)}</div>' if _logo_liga(liga, 190) else
            f'<div style="margin-top:4px">{_cinta(e(titulo or "QUIÉN GANA HOY"), 70)}</div>')
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
         + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'

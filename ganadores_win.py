@@ -68,6 +68,7 @@ FIJAS = (("laliga", {140}, 3), ("premier", {39}, 3), ("champions", {2}, 3), ("eu
 ROTAN = (("seriea", {135}, 4), ("bundesliga", {78}, 4), ("ligue1", {61}, 4))
 HORAS = ((0, 0), (1, 0), (2, 0), (9, 0), (10, 0), (11, 0), (12, 0), (13, 0))
 MAX_FILAS = 10
+LLENAR = 8   # 12/11: las competiciones fijas se llenan hasta 8 filas si hay partidos
 
 
 def grupos(dia, excluir=()):
@@ -81,6 +82,9 @@ def grupos(dia, excluir=()):
         sel = [x for x in c if x["liga"] in ligas]
         if clave in ("laliga", "premier") and len(sel) < minimo:   # LaLiga y Premier, fijas: se baja un poco el listón
             sel = [x for x in candidatos(dia, 0.45, excluir) if x["liga"] in ligas]
+        if (clave, ligas, minimo) in FIJAS and len(sel) < LLENAR:
+            # 12/11 (Marcos: «tiene que haber 8-9»): en las fijas se completa con los favoritos más ajustados (≥ 40 %)
+            sel = [x for x in candidatos(dia, MIN_PROB_POCOS, excluir) if x["liga"] in ligas]
         if len(sel) >= minimo:
             salida.append((clave, sel))
             usados |= {x["fid"] for x in sel}
