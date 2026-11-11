@@ -4169,5 +4169,101 @@
     ],
     "forzar": true,
     "nota": "Marcos 11/11 01:05: post del logo nuevo (foto en Threads, reel en Instagram) · 05:09: cambiado al logo CL (Marcos: «solo el formato nuevo»)"
+  },
+  {
+    "id": "2026-11-11-cuotaza-1638339-70e344",
+    "fecha": "2026-11-11T09:05",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ SL Benfica W – Austria Wien W · 21:00\n\n🍀 Empate en SL Benfica (fem.)–Austria Wien (fem.) @4,33\n\n👀 Lo normal sería @3,13: está mal puesta. Corred antes de que la bajen ⚡\n🧠 Stake 2/10\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: SL Benfica W – Austria Wien W (21:00)\nEmpate en SL Benfica W–Austria Wien W @4,33 en bet365; lo justo según Pinnacle es @3,13 (+38%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1638339|Match Winner|Draw"
+    ],
+    "cuotas": [
+      4.33
+    ],
+    "cuotaza": {
+      "partido_id": 1638339,
+      "local": "SL Benfica W",
+      "visitante": "Austria Wien W",
+      "inicio": "2026-11-11T21:00",
+      "liga": "UEFA Champions League Women",
+      "mercado": "Match Winner",
+      "opcion": "Draw",
+      "cuota": 4.33,
+      "justa": 3.13,
+      "ev": 0.382,
+      "fuente": "Pinnacle",
+      "edad_h": 0.0,
+      "texto": "Empate en SL Benfica W–Austria Wien W"
+    }
+  },
+  {
+    "id": "2026-11-11-cuotaza-1638311-f85cd8",
+    "fecha": "2026-11-11T09:05",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Juventus W – Lyon W · 21:00\n\n🍀 Juventus (fem.) marca @2,38\n\n👀 Lo normal sería @2,05: está mal puesta. Corred antes de que la bajen ⚡\n🧠 Stake 2/10\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Juventus W – Lyon W (21:00)\nJuventus W marca @2,38 en bet365; lo justo según Pinnacle es @2,05 (+16%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1638311|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      2.38
+    ],
+    "cuotaza": {
+      "partido_id": 1638311,
+      "local": "Juventus W",
+      "visitante": "Lyon W",
+      "inicio": "2026-11-11T21:00",
+      "liga": "UEFA Champions League Women",
+      "mercado": "Total - Home",
+      "opcion": "Over 0.5",
+      "cuota": 2.38,
+      "justa": 2.05,
+      "ev": 0.158,
+      "fuente": "Pinnacle",
+      "edad_h": 0.0,
+      "texto": "Juventus W marca"
+    }
+  },
+  {
+    "id": "2026-11-11-cuotaza-1638339-060d5b",
+    "fecha": "2026-11-11T09:05",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ SL Benfica W – Austria Wien W · 21:00\n\n🍀 Austria Wien (fem.) o empate @2,38\n\n👀 Lo normal sería @2,19: está mal puesta. Corred antes de que la bajen ⚡\n🧠 Stake 2/10\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: SL Benfica W – Austria Wien W (21:00)\nAustria Wien W o empate @2,38 en bet365; lo justo según Pinnacle es @2,19 (+9%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1638339|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      2.38
+    ],
+    "cuotaza": {
+      "partido_id": 1638339,
+      "local": "SL Benfica W",
+      "visitante": "Austria Wien W",
+      "inicio": "2026-11-11T21:00",
+      "liga": "UEFA Champions League Women",
+      "mercado": "Double Chance",
+      "opcion": "Draw/Away",
+      "cuota": 2.38,
+      "justa": 2.19,
+      "ev": 0.087,
+      "fuente": "Pinnacle",
+      "edad_h": 0.0,
+      "texto": "Austria Wien W o empate"
+    }
   }
 ]

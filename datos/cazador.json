@@ -1,16 +1,46 @@
 {
- "avisos": {},
+ "avisos": {
+  "1638339|Match Winner|Draw": {
+   "dia": "2026-11-11",
+   "cuota": 4.33,
+   "ev": 0.382,
+   "post": "2026-11-11-cuotaza-1638339-70e344"
+  },
+  "1638311|Total - Home|Over 0.5": {
+   "dia": "2026-11-11",
+   "cuota": 2.38,
+   "ev": 0.158,
+   "post": "2026-11-11-cuotaza-1638311-f85cd8"
+  },
+  "1638339|Double Chance|Draw/Away": {
+   "dia": "2026-11-11",
+   "cuota": 2.38,
+   "ev": 0.087,
+   "post": "2026-11-11-cuotaza-1638339-060d5b"
+  }
+ },
  "top": [
+  {
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Empate en SL Benfica W–Austria Wien W",
+   "cuota": 4.33,
+   "justa": 3.13,
+   "ev": 0.382,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
   {
    "local": "Juventus W",
    "visitante": "Lyon W",
    "inicio": "2026-11-11T21:00",
-   "texto": "Más de 2,5 goles en la 2ª parte del Juventus W–Lyon W",
-   "cuota": 2.62,
-   "justa": 2.56,
-   "ev": 0.024,
-   "fuente": "las otras casas",
-   "edad_h": 6.0
+   "texto": "Juventus W marca",
+   "cuota": 2.38,
+   "justa": 2.05,
+   "ev": 0.158,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "SL Benfica W",
@@ -18,10 +48,21 @@
    "inicio": "2026-11-11T21:00",
    "texto": "Austria Wien W o empate",
    "cuota": 2.38,
-   "justa": 2.36,
-   "ev": 0.007,
+   "justa": 2.19,
+   "ev": 0.087,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Juventus W",
+   "visitante": "Lyon W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Juventus W–Lyon W",
+   "cuota": 2.62,
+   "justa": 2.58,
+   "ev": 0.015,
    "fuente": "las otras casas",
-   "edad_h": 6.0
+   "edad_h": 0.0
   },
   {
    "local": "Juventus W",
@@ -32,46 +73,40 @@
    "justa": 1.55,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 6.0
-  },
-  {
-   "local": "Juventus W",
-   "visitante": "Lyon W",
-   "inicio": "2026-11-11T21:00",
-   "texto": "Lyon W marca 3 o más",
-   "cuota": 1.53,
-   "justa": 1.55,
-   "ev": -0.011,
-   "fuente": "las otras casas",
-   "edad_h": 6.0
-  },
-  {
-   "local": "Juventus W",
-   "visitante": "Lyon W",
-   "inicio": "2026-11-11T21:00",
-   "texto": "Lyon W marca 4 o más",
-   "cuota": 2.25,
-   "justa": 2.29,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 6.0
-  },
-  {
-   "local": "OH Leuven W",
-   "visitante": "Køge W",
-   "inicio": "2026-11-11T18:45",
-   "texto": "Ambos marcan en OH Leuven W–Køge W",
-   "cuota": 1.67,
-   "justa": 1.7,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-11T08:10",
-  "revisadas": 0,
-  "mejor": null
+  "hora": "2026-11-11T09:05",
+  "revisadas": 3,
+  "mejor": {
+   "partido_id": 1638339,
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "inicio": "2026-11-11T21:00",
+   "liga": "UEFA Champions League Women",
+   "mercado": "Match Winner",
+   "opcion": "Draw",
+   "cuota": 4.33,
+   "justa": 3.13,
+   "ev": 0.382,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0,
+   "texto": "Empate en SL Benfica W–Austria Wien W"
+  }
  },
- "historial": []
+ "historial": [
+  {
+   "hora": "2026-11-11T09:05",
+   "t": "Empate en SL Benfica W–Austria Wien W @4,33 (justa 3,13, +38%)"
+  },
+  {
+   "hora": "2026-11-11T09:05",
+   "t": "Juventus W marca @2,38 (justa 2,05, +16%)"
+  },
+  {
+   "hora": "2026-11-11T09:05",
+   "t": "Austria Wien W o empate @2,38 (justa 2,19, +9%)"
+  }
+ ]
 }
