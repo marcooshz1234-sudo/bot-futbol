@@ -4470,5 +4470,19 @@
       "instagram": "18102961937651732"
     },
     "fecha_redes_reintento": "2026-11-12T00:20"
+  },
+  {
+    "id": "2026-11-11-verde-escalera-2-telegram",
+    "fecha": "2026-11-12T00:21",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ OH Leuven (fem.) marca\n✅ Lyon (fem.) marca 3 o más\n\n📈 Cuota @2,02\n💶 36,00€ → 72,72€\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-11-verde-escalera-2-telegram.tarjeta.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "resultado": "verde",
+    "verde_de": "2026-11-11-escalera-2",
+    "nota": "12/11 Marcos borró el verde de la escalera de Telegram (msg 408) y pidió subirlo otra vez con la foto nueva; Threads/IG ya lo tienen"
   }
 ]
