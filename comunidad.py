@@ -150,6 +150,9 @@ def corregir(est):
     return cambios
 
 
+CANAL_ACTIVO = False
+
+
 def encuesta(est, ahora):
     hoy = ahora.strftime("%Y-%m-%d")
     if est.get("encuesta") == hoy or not ("19:30" <= ahora.strftime("%H:%M") < "21:00"):
@@ -208,7 +211,10 @@ def semanales(est, ahora):
 def main():
     ahora = datetime.now(MADRID)
     est = leer(ESTADO, {}) or {}
-    for paso in (lambda: corregir(est), lambda: encuesta(est, ahora), lambda: semanales(est, ahora)):
+    # 11/11 (Marcos: «quitar los tres»): ni encuesta, ni concurso, ni ranking en el canal (en Telegram solo pick del
+    # día, escalera y una combi). Los picks que manden los seguidores por privado se siguen corrigiendo
+    pasos = [lambda: corregir(est)] + ([lambda: encuesta(est, ahora), lambda: semanales(est, ahora)] if CANAL_ACTIVO else [])
+    for paso in pasos:
         try:
             paso()
         except Exception as e:

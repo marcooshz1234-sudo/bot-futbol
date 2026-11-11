@@ -149,6 +149,22 @@ class TestFallos11Nov(unittest.TestCase):
     def test_sin_quien_gana_antiguo(self):
         self.assertFalse(plantillas.GANADORES_ACTIVO)   # Marcos 11/11: solo los «Partidos de hoy» con escudos
 
+    def test_comunidad_no_publica_en_el_canal(self):
+        import comunidad
+        self.assertFalse(comunidad.CANAL_ACTIVO)   # Marcos 11/11: en Telegram solo pick, escalera y una combi
+        llamadas = []
+        with mock.patch.object(comunidad, "canal", lambda *a, **k: llamadas.append(a)), \
+                mock.patch.object(comunidad, "publicar_cola", lambda *a: llamadas.append(a)), \
+                mock.patch.object(comunidad, "guardar", lambda e: None):
+            comunidad.main()
+        self.assertEqual(llamadas, [])
+
+    def test_sin_gifs_ni_editar_publicados(self):
+        import gifs
+        self.assertFalse(gifs.ACTIVO)   # Marcos 11/11
+        src = (RAIZ / "alineaciones_posts.py").read_text(encoding="utf-8")
+        self.assertIn("r = cambiar_patas(p, cambios) if cambios and not enviado else None", src)
+
 
 if __name__ == "__main__":
     unittest.main()

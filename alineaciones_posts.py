@@ -385,7 +385,9 @@ def main():
                     pid_, m_, o_ = p["sel"][k].split("|", 2)
                     s = sustituto(int(pid_), m_, o_, als[k][1])
                     cambios[k] = s if s and not any(s[0] == x.split("|", 2)[2] for x in p["sel"]) else None
-            r = cambiar_patas(p, cambios) if cambios else None
+            # 11/11 (Marcos: «no editar, solo avisarme»): si ya está publicado no se toca (ni el canal ni el post);
+            # solo el aviso de abajo. Lo que aún no ha salido sí se rehace
+            r = cambiar_patas(p, cambios) if cambios and not enviado else None
             if r:
                 antes = "\n".join(f"• {t} → {cambios[k][2]} (x{num(cambios[k][1])})" if cambios[k] else
                                    f"• {t} → quitada (no hay otro titular de su posición que lo haga casi siempre)"
