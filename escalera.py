@@ -209,9 +209,10 @@ def main():
     if act:
         res = [resultado(p) for p in act["picks"]]
         ultimo = max(datetime.fromisoformat(p["fecha"][:16]) for p in act["picks"]).replace(tzinfo=MADRID)
+        # 11/11 (Marcos: «esperar y avisarme»): sin dato a las 30 h ya NO se da por anulada (podía contar un verde con
+        # una pata fallada). Se queda pendiente; el vigilante avisa y Claude lo resuelve con el resultado real
         if any(r is None for r in res) and datetime.now(MADRID) - ultimo > timedelta(hours=30):
-            # pasado más de un día sin dato (p. ej. jugador que no jugó): bet365 la anula → cuenta como acertada
-            res = ["anulada" if r is None else r for r in res]
+            print("Escalera: sin resultado de alguna pata a las 30 h; pendiente de revisar a mano")
         if res and all(r == "anulada" for r in res):
             # 11/11: todas anuladas (partido aplazado…): bet365 devuelve la apuesta → mismo escalón y mismo dinero
             # (antes contaba como roja y el reto volvía a 20 €)

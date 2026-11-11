@@ -76,6 +76,18 @@ class TestVigilante(unittest.TestCase):
         self.assertIn("repe", self.revisar(posts))
         self.assertNotIn("repe", self.revisar(posts[:2] + [dict(posts[2], id="2026-11-12-ganadores-win-1")]))
 
+    def test_escalon_sin_resolver(self):
+        with tempfile.TemporaryDirectory() as d:
+            pub = Path(d)
+            (pub / "media").mkdir()
+            (pub / "escalera.json").write_text(json.dumps({"actual": {"dia": "2026-11-10", "picks": [
+                {"fecha": "2026-11-10T20:00"}]}}))
+            with mock.patch.object(vigilante, "todos", lambda: [post("escalera", "2026-11-12T11:00", enviado="x")]), \
+                    mock.patch.object(vigilante, "PUB", pub), mock.patch.object(vigilante, "DATOS", pub), \
+                    mock.patch("bot.partido_caido", lambda p: None):
+                claves = [k for k, _ in vigilante.revisar(AHORA)]
+        self.assertIn("escalon-2026-11-10", claves)
+
     def test_escalera(self):
         self.assertIn("escalera", self.revisar([], escalera=False))
 

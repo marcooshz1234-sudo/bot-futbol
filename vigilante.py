@@ -178,6 +178,16 @@ def revisar(ahora=None):
             if n >= 3:
                 out.append((f"bucle-{paso}-{ahora:%Y%m%d%H}", f"🔧 El paso «{paso}» del bot ha fallado {n} veces en la última hora"))
 
+    # 11. escalón sin resolver a las 30 h (Marcos 11/11: «esperar y avisarme»)
+    act = (leer(DATOS / "escalera.json", {}) or {}).get("actual") or {}
+    try:
+        ult = max(datetime.fromisoformat(x["fecha"][:16]).replace(tzinfo=MADRID) for x in act.get("picks") or [])
+        if ahora - ult > timedelta(hours=30):
+            out.append((f"escalon-{act.get('dia')}", f"🪜 El escalón del {act.get('dia', '')[8:]}/{act.get('dia', '')[5:7]} "
+                        "lleva más de 30 h sin resultado de alguna pata: hay que mirarlo a mano (datos/escalera.json)"))
+    except (ValueError, KeyError):
+        pass
+
     # 10. escalera de hoy
     if ahora.hour >= 12 and not any(p["id"].startswith(f"{hoy}-escalera") for p in posts) \
             and not (leer(DATOS / "escalera.json", {}) or {}).get("pausa"):
