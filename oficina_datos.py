@@ -11,7 +11,7 @@ from bot import DATOS, MADRID, RAIZ, leer
 
 SALIDA = RAIZ / "docs" / "panel" / "oficina.json"
 RITMO = {"ojeador": "cada 30 min", "analista": "picks a las {h1} y {h2}", "redactor": "antes de cada post",
-         "verificador": "cada 3 min en directo", "community": "2 veces al día", "vigilante": "siempre", "cazador": "cada 10 min"}
+         "verificador": "cada 3 min en directo", "community": "2 veces al día", "vigilante": "siempre", "cazador": "cada 20 min"}
 
 
 def corto(t, n=90):
@@ -212,7 +212,23 @@ def main(control=None):
                         for k, a in AJUSTES_ROLES.items() if a["rol"] == rid],
             **{k: r[k] for k in ("canales", "pendientes", "propuestas") if k in r},
         })
-    datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "roles": salida}
+    # 11/11 (Marcos: «más menús, más información y todo bien dividido»): pestañas de cada rol y resumen general
+    try:
+        import oficina_secciones as S
+        env_d = {pid: v.get("enviado") for pid, v in enviados.items() if isinstance(v, dict) and v.get("enviado")}
+        env_d.update({pid: p["enviado"] for pid, p in todos.items() if isinstance(p.get("enviado"), str)})
+        ctx = {"ahora": ahora, "hoy": hoy, "manana": (ahora + timedelta(days=1)).strftime("%Y-%m-%d"), "todos": todos,
+               "cancel": cancel, "control": control, "env": env_d, "off": off, "base": roles,
+               "datos": leer(RAIZ / "docs" / "datos.json", {}) or {}}
+        secciones = S.todo(ctx)
+        for r in salida:
+            r["secciones"] = secciones.get(r["id"]) or []
+            r["como"] = S.COMO.get(r["id"], "")
+        cabecera = S.general(ctx, salida)
+    except Exception as e:
+        print("oficina (secciones):", str(e)[:200])
+        cabecera = {}
+    datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "roles": salida, **cabecera}
     SALIDA.parent.mkdir(parents=True, exist_ok=True)
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False) + "\n", encoding="utf-8")
     return datos

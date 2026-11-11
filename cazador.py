@@ -102,7 +102,7 @@ def refrescar(ahora):
     return n
 
 
-def buscar(ahora=None, umbral=0.08):
+def buscar(ahora=None, umbral=0.08, cuota_min=1.40):
     """Lista de cuotazas [{partido_id, local, visitante, inicio, mercado, opcion, cuota, justa, ev, fuente, edad_h}]."""
     import picks as P
     import sharp
@@ -129,7 +129,7 @@ def buscar(ahora=None, umbral=0.08):
         for m, lista in (ex.get("cuotas") or {}).items():
             for o, c in lista or []:
                 c = _f(c)
-                if not c or c < 1.25 or c > 5 or P.excluido(m, o):
+                if not c or c < cuota_min or c > 5 or P.excluido(m, o):   # 11/11 (Marcos): mínimo 1,40
                     continue
                 pj, fuente = sharp.prob_justa(fid, m, o) or pin_api.get((m, str(o))), "Pinnacle"
                 if not pj:
@@ -183,7 +183,13 @@ def main(ahora=None):
     except Exception as e:
         print("Cazador (refrescar):", str(e)[:150])
     hoy_n = sum(1 for v in avisos.values() if v.get("dia") == hoy)
-    hallazgos = buscar(ahora, umbral)
+    cuota_min = float(AJ.valor("cazador_cuota_min", c))
+    hallazgos = buscar(ahora, umbral, cuota_min)
+    try:   # para la Oficina: las mejores de la vuelta aunque no lleguen al umbral
+        est["top"] = [dict({k: x[k] for k in ("local", "visitante", "inicio", "texto", "cuota", "justa", "ev", "fuente", "edad_h")})
+                      for x in buscar(ahora, -0.02, cuota_min)[:8]]
+    except Exception as e:
+        print("Cazador (top):", str(e)[:120])
     est["ultima"] = {"hora": ahora.strftime("%Y-%m-%dT%H:%M"), "revisadas": len(hallazgos),
                      "mejor": hallazgos[0] if hallazgos else None}
     cola = leer(COLA, []) or []

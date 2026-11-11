@@ -114,6 +114,37 @@ header h1 small{display:block;font-size:12px;font-weight:600;color:var(--mut);le
 .of-pend{background:#fffdf3;color:#1b1b1b;border:3px solid #1b1b1b;box-shadow:3px 3px 0 #000;padding:10px;margin-bottom:8px;font-weight:700;font-size:13px}
 .of-pend.pend{outline:3px solid #fbbf24}
 .of-pix{border:3px solid #1b1b1b;box-shadow:3px 3px 0 #000;border-radius:0}
+.of-kpis{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px;margin:6px 0 10px}
+.of-kpi{background:#0e1a14;border:3px solid #2f5a43;box-shadow:3px 3px 0 #000;padding:8px 10px;color:#e8f3ec;min-width:0}
+.of-kpi.ok{border-color:#22c55e}.of-kpi.ko{border-color:#ef4444}.of-kpi.warn{border-color:#eab308}
+.of-kt{font-size:11px;color:#a9c4b4;font-weight:700}.of-kv{font-family:"Press Start 2P",monospace;font-size:14px;color:#f5c542;margin:6px 0 4px;word-break:break-word}
+.of-ks{font-size:11px;color:#cfe3d6}
+.of-subtabs{display:flex;gap:6px;overflow-x:auto;padding:4px 2px 8px;margin:6px 0;scrollbar-width:none}
+.of-subtabs button{all:unset;cursor:pointer;white-space:nowrap;padding:7px 10px;font-weight:800;font-size:12px;background:#0e1a14;color:#cfe3d6;border:3px solid #2f5a43;box-shadow:2px 2px 0 #000}
+.of-subtabs button.on{background:#f5c542;color:#1b1b1b;border-color:#1b1b1b}
+.of-subtabs button:focus-visible{outline:3px solid #f5c542}
+.of-main button{font-size:12px}
+.of-fcab{display:flex;gap:12px;align-items:flex-start;margin-top:10px}
+.of-fcab .of-esc{width:110px;flex:none}
+.of-volver{background:#0e1a14;color:#e8f3ec}
+.of-cuerpo{margin-top:4px}
+.of-txt{background:#0e1a14;border:2px solid #23402f;padding:10px;font-size:13px;line-height:1.5;color:#e8f3ec}
+.of-tw{overflow-x:auto;border:2px solid #23402f;background:#0e1a14}
+.of-tb{border-collapse:collapse;width:100%;font-size:12px;color:#e8f3ec}
+.of-tb th{background:#1d3a2a;color:#f5c542;text-align:left;padding:6px 8px;font-weight:800;white-space:nowrap}
+.of-tb td{padding:6px 8px;border-top:1px solid #23402f;white-space:nowrap}
+.of-tb tr:nth-child(even) td{background:#112219}
+.of-nota{margin:6px 0 4px;font-size:11px}
+.of-bars{display:flex;flex-direction:column;gap:6px;background:#0e1a14;border:2px solid #23402f;padding:10px}
+.of-bar{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr) auto;gap:8px;align-items:center;font-size:12px;color:#e8f3ec}
+.of-bar small{grid-column:1/-1;color:#a9c4b4;font-size:11px;margin-top:-4px}
+.of-bl{overflow-wrap:anywhere;line-height:1.2}
+.of-bt{height:12px;background:#1d3a2a;border:2px solid #000}
+.of-bt i{display:block;height:100%;background:#22c55e}.of-bt i.neg{background:#ef4444}
+.of-li span small{display:block;color:#a9c4b4;font-size:11px;margin-top:3px}
+.of-li.ok{border-color:#166534}.of-li.ko{border-color:#7f1d1d}
+.of-dot{display:inline-block;width:9px;height:9px;margin-right:6px;border:2px solid #000;vertical-align:middle}
+
 </style>
 </head>
 <body>
@@ -267,30 +298,34 @@ function vAjustes(){
 }
 function aj(k, v){ poner({a:"ajuste", k, v, quitar: v === D.ajustes[k].v}); }
 
-// ---------- 🏢 oficina (10/11): cada rol es un muñeco en su sala; al pulsar, su ficha con lo que ha hecho y sus ajustes
+// ---------- 🏢 oficina (10/11 · 11/11 más completa): resumen, salas con su muñeco y una ficha por rol con pestañas
 const OF_COL = {ojeador:["#3b82f6","#2b1a0e","#60a5fa"], analista:["#f97316","#111","#fdba74"], redactor:["#a855f7","#6b3a1e","#d8b4fe"],
   verificador:["#22c55e","#d4a017","#86efac"], community:["#ec4899","#1b1b1b","#f9a8d4"], vigilante:["#eab308","#3f3f46","#fde68a"], cazador:["#ef4444","#3b2412","#fca5a5"]};
+const OF_ICO = {ojeador:"🔎", analista:"🧠", redactor:"✍️", verificador:"✅", community:"💬", vigilante:"🛠️", cazador:"🎯"};
 const OF_EST = {trabajando:"Trabajando", esperando:"Esperando", pausa:"En pausa", alerta:"¡Ojo!"};
-let ofSel = "ojeador";
+let ofSel = null, ofVista = "salas", ofSec = {};
 function rv(a){ const c = cambio("ajuste", a.k); return c ? c.v : a.v; }
 function ajr(k, v, def){ poner({a:"ajuste", k, v, quitar: v === def}); }
-function vOficina(){
-  const O = D.oficina;
-  if (!O || !O.roles) return `<div class="vacio">La oficina aún no tiene datos. Vuelve en unos minutos.</div>`;
-  let h = `<div class="of-tit">OFICINA COMBILOCAS</div><div class="mut" style="margin-bottom:10px">Pulsa en una sala para ver qué hace y cambiarle cosas · act. ${esc(O.generado.slice(11))}</div><div class="of-grid">`;
-  h += O.roles.map(r => { const [cu, pe, pa] = OF_COL[r.id] || ["#888","#333","#ccc"];
-    const pausa = r.ajustes.find(a => a.k === "pausa_"+r.id), est = pausa && rv(pausa) ? "pausa" : (pausa && !rv(pausa) && r.estado==="pausa" ? "esperando" : r.estado);
-    return `<button class="of-sala ${est} ${r.id===ofSel?"sel":""}" onclick="ofSel='${r.id}';pintar()" aria-label="Ficha de ${esc(r.t)}">
-      <div class="of-cab"><span class="of-nom">${esc(r.t.toUpperCase())}</span><span class="of-est ${est}">${OF_EST[est]||est}</span></div>
-      <div class="of-boc">${esc(r.ahora)}</div>
-      <div class="of-esc" aria-hidden="true"><div class="of-suelo"></div><div class="of-mesa"></div><div class="of-mon"><i style="${est==="trabajando"||est==="alerta"?"background-color:"+pa:""}"></i></div>
-        <div class="of-pj"><div class="ca"></div><div class="pe" style="background:${pe}"></div><div class="ojo" style="left:19px"></div><div class="ojo" style="left:27px"></div>
-        <div class="cu" style="background:${cu}"></div><div class="br" style="background:${cu}"></div></div></div>
-      <div class="of-pie">${esc(r.ritmo)}</div></button>`; }).join("") + `</div>`;
-  const r = O.roles.find(x => x.id === ofSel) || O.roles[0];
-  h += `<div class="of-ficha"><div class="row"><div class="sp"><div class="of-nom" style="font-size:11px">FICHA · ${esc(r.t.toUpperCase())}</div><div class="mut" style="margin-top:6px">${esc(r.d)}</div></div></div>`;
-  h += `<h3>LO QUE HA HECHO HOY</h3>` + (r.historial.length ? r.historial.map(x => `<div class="of-li"><b>${esc(x.h)}</b><span>${esc(x.t)}</span></div>`).join("") : `<div class="mut">Nada todavía hoy.</div>`);
-  if (r.pendientes) h += `<h3>VERDES ESPERANDO TU OK</h3>` + (r.pendientes.length ? r.pendientes.map(p => { const c = cambio("verde", p.id);
+function ofEstado(r){ const pausa = r.ajustes.find(a => a.k === "pausa_"+r.id); return pausa && rv(pausa) ? "pausa" : (pausa && !rv(pausa) && r.estado==="pausa" ? "esperando" : r.estado); }
+function ofMuneco(r, est, grande){ const [cu, pe, pa] = OF_COL[r.id] || ["#888","#333","#ccc"];
+  return `<div class="of-esc ${grande?"gr":""}" aria-hidden="true"><div class="of-suelo"></div><div class="of-mesa"></div><div class="of-mon"><i style="${est==="trabajando"||est==="alerta"?"background-color:"+pa:""}"></i></div>
+    <div class="of-pj"><div class="ca"></div><div class="pe" style="background:${pe}"></div><div class="ojo" style="left:19px"></div><div class="ojo" style="left:27px"></div>
+    <div class="cu" style="background:${cu}"></div><div class="br" style="background:${cu}"></div></div></div>`; }
+function ofKpis(items){ return `<div class="of-kpis">` + items.map(k => `<div class="of-kpi ${k.c||""}"><div class="of-kt">${esc(k.t)}</div><div class="of-kv">${esc(k.v)}</div>${k.s?`<div class="of-ks">${esc(k.s)}</div>`:""}</div>`).join("") + `</div>`; }
+function ofBloque(b){
+  const t = b.t ? `<h3>${esc(b.t)}</h3>` : "";
+  if (b.tipo === "kpis") return t + ofKpis(b.items);
+  if (b.tipo === "texto") return t + `<div class="of-txt">${esc(b.txt).replace(/\n/g,"<br>")}</div>`;
+  if (b.tipo === "lista") return t + b.items.map(x => `<div class="of-li ${x.c||""}"><b>${esc(x.h||"")}</b><span>${esc(x.t)}${x.s?`<small>${esc(x.s)}</small>`:""}</span></div>`).join("");
+  if (b.tipo === "tabla") return t + `<div class="of-tw"><table class="of-tb"><thead><tr>${b.cols.map(c=>`<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>${
+      b.filas.map(f => `<tr>${f.map(c=>`<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>` + (b.nota?`<div class="mut of-nota">${esc(b.nota)}</div>`:"");
+  if (b.tipo === "barras") { const m = Math.max(...b.items.map(x=>Math.abs(x.v)), 1);
+    return t + `<div class="of-bars">` + b.items.map(x => `<div class="of-bar"><span class="of-bl">${esc(x.t)}</span><div class="of-bt"><i class="${x.v<0?"neg":""}" style="width:${Math.max(3,100*Math.abs(x.v)/m)}%"></i></div><b>${esc(String(x.v).replace(".",","))}</b>${x.s?`<small>${esc(x.s)}</small>`:""}</div>`).join("") + `</div>` + (b.nota?`<div class="mut of-nota">${esc(b.nota)}</div>`:""); }
+  return "";
+}
+function ofAjustes(r){
+  let h = "";
+  if (r.pendientes) h += `<h3>ESPERANDO TU OK</h3>` + (r.pendientes.length ? r.pendientes.map(p => { const c = cambio("verde", p.id);
     return `<div class="of-pend ${c?"pend":""}">${esc(p.texto)}${c?`<div class="mut" style="color:#92400e;margin-top:4px">${c.ok?"✅ Saldrá al aplicar":"❌ No saldrá"}</div>`:""}
       <div class="acciones"><button class="btn acc of-pix" onclick="poner({a:'verde',id:'${esc(p.id)}',ok:true,quitar:${!!(c&&c.ok)}})">✅ Publicar</button>
       <button class="btn of-pix" style="background:#e5e7eb;color:#1b1b1b" onclick="poner({a:'verde',id:'${esc(p.id)}',ok:false,quitar:${!!(c&&!c.ok)}})">❌ No sale</button></div></div>`; }).join("") : `<div class="mut">Nada pendiente.</div>`);
@@ -303,7 +338,45 @@ function vOficina(){
       : a.tipo==="hora" ? `<input type="time" value="${esc(v)}" onchange="ajr('${a.k}',this.value,'${esc(a.v)}')">`
       : `<input type="text" value="${esc(v)}" maxlength="80" onchange="ajr('${a.k}',this.value.trim(),${esc(JSON.stringify(a.v))})">`;
     return `<div class="of-aj ${pend?"pend":""}" style="${a.tipo==="texto"?"flex-wrap:wrap":""}"><div class="sp"><b>${esc(a.t)}</b>${a.d?`<div class="mut">${esc(a.d)}</div>`:""}</div>${ctrl}</div>`; }).join("");
-  return h + `<div class="mut" style="margin-top:10px">Los cambios se mandan al bot con «Aplicar». Las reglas de fondo (sin mercados de 1ª parte, no editar posts publicados…) no se tocan desde aquí.</div></div>`;
+  if (!h) h = `<div class="mut">Este rol no tiene ajustes.</div>`;
+  return h + `<div class="mut" style="margin-top:10px">Los cambios se mandan al bot con «Aplicar». Las reglas de fondo (sin mercados de 1ª parte, no editar posts publicados…) no se tocan desde aquí.</div>`;
+}
+function ofFicha(r){
+  const est = ofEstado(r), secs = (r.secciones||[]).concat([{id:"ajustes", t:(r.pendientes&&r.pendientes.length?"⏳ ":"")+"Ajustes"}]);
+  const cur = secs.find(s => s.id === ofSec[r.id]) || secs[0];
+  let h = `<div class="of-ficha" style="border-color:${(OF_COL[r.id]||["#f5c542"])[0]}">
+    <button class="btn sm of-pix of-volver" onclick="ofSel=null;pintar()">← Todas las salas</button>
+    <div class="of-fcab">${ofMuneco(r, est, true)}<div class="sp"><div class="of-nom" style="font-size:12px">${OF_ICO[r.id]||""} ${esc(r.t.toUpperCase())}</div>
+      <span class="of-est ${est}">${OF_EST[est]||est}</span><div class="of-boc" style="margin-top:8px">${esc(r.ahora)}</div>
+      <div class="mut" style="margin-top:8px">${esc(r.como||r.d)} · <b>${esc(r.ritmo)}</b></div></div></div>
+    <div class="of-subtabs" role="tablist">${secs.map(s => `<button role="tab" class="${s.id===cur.id?"on":""}" onclick="ofSec['${r.id}']='${s.id}';pintar()">${esc(s.t)}</button>`).join("")}</div>
+    <div class="of-cuerpo">`;
+  h += cur.id === "ajustes" ? ofAjustes(r) : (cur.bloques.length ? cur.bloques.map(ofBloque).join("") : `<div class="mut">Sin datos todavía.</div>`);
+  if (cur.id === (secs[0]||{}).id && r.historial.length) h += `<h3>LO QUE HA HECHO HOY</h3>` + r.historial.map(x => `<div class="of-li"><b>${esc(x.h)}</b><span>${esc(x.t)}</span></div>`).join("");
+  return h + `</div></div>`;
+}
+function vOficina(){
+  const O = D.oficina;
+  if (!O || !O.roles) return `<div class="vacio">La oficina aún no tiene datos. Vuelve en unos minutos.</div>`;
+  const pt = O.para_ti || [];
+  let h = `<div class="of-tit">OFICINA COMBILOCAS</div><div class="mut" style="margin-bottom:10px">7 bots trabajando para el canal · act. ${esc(O.generado.slice(11))}</div>`;
+  if (O.kpis) h += ofKpis(O.kpis);
+  h += `<div class="of-subtabs of-main">${[["salas","🏢 Salas"],["parati",`🔔 Para ti${pt.length?" ("+pt.length+")":""}`],["actividad","📰 Actividad"],["mapa","🧭 Quién hace qué"]]
+    .map(([k,n]) => `<button class="${ofVista===k?"on":""}" onclick="ofVista='${k}';ofSel=null;pintar()">${n}</button>`).join("")}</div>`;
+  if (ofVista === "parati") return h + (pt.length ? pt.map(p => `<div class="of-pend"><div>${OF_ICO[p.rol]||""} ${esc(p.t)}</div><div class="acciones"><button class="btn sm acc of-pix" onclick="ofVista='salas';ofSel='${p.rol}';pintar()">Ir a la sala</button></div></div>`).join("")
+      : `<div class="of-txt">Nada pendiente para ti ahora mismo ✅</div>`);
+  if (ofVista === "actividad") return h + ((O.actividad||[]).length ? O.actividad.map(a => `<div class="of-li"><b>${esc(a.h)}</b><span><i class="of-dot" style="background:${(OF_COL[a.rol]||["#888"])[0]}"></i>${OF_ICO[a.rol]||""} ${esc(a.t)}</span></div>`).join("")
+      : `<div class="of-txt">Hoy aún no hay actividad.</div>`);
+  if (ofVista === "mapa") return h + O.roles.map(r => `<div class="of-aj"><span style="font-size:22px">${OF_ICO[r.id]||""}</span><div class="sp"><b>${esc(r.t)}</b><div class="mut">${esc(r.como||r.d)}</div><div class="mut">⏱️ ${esc(r.ritmo)} · ${(r.secciones||[]).map(s=>esc(s.t)).join(" · ")}</div></div><button class="btn sm of-pix" onclick="ofVista='salas';ofSel='${r.id}';pintar()">Abrir</button></div>`).join("");
+  const r = O.roles.find(x => x.id === ofSel);
+  if (r) return h + ofFicha(r);
+  h += `<div class="mut" style="margin:8px 0">Pulsa en una sala para ver todo lo que hace ese bot.</div><div class="of-grid">`;
+  h += O.roles.map(r => { const est = ofEstado(r);
+    return `<button class="of-sala ${est}" onclick="ofSel='${r.id}';pintar();window.scrollTo(0,0)" aria-label="Abrir la sala de ${esc(r.t)}">
+      <div class="of-cab"><span class="of-nom">${OF_ICO[r.id]||""} ${esc(r.t.toUpperCase())}</span><span class="of-est ${est}">${OF_EST[est]||est}</span></div>
+      <div class="of-boc">${esc(r.ahora)}</div>${ofMuneco(r, est)}
+      <div class="of-pie">${esc(r.ritmo)} · ${(r.secciones||[]).length} pestañas</div></button>`; }).join("") + `</div>`;
+  return h;
 }
 // ---------- 📈 números
 function vRend(){

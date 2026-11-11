@@ -39,6 +39,7 @@ AJUSTES_ROLES = {
     "pausa_community": {"rol": "community", "t": "En pausa", "d": "El panel no enseña respuestas propuestas", "tipo": "si_no", "v": False},
     "pausa_cazador": {"rol": "cazador", "t": "En pausa", "d": "No busca cuotazas", "tipo": "si_no", "v": False},
     "cazador_umbral": {"rol": "cazador", "t": "Avisar desde (% por encima de lo justo)", "tipo": "num", "v": 8, "paso": 1, "min": 3, "max": 25},
+    "cazador_cuota_min": {"rol": "cazador", "t": "Cuota mínima", "d": "Por debajo nadie la quiere aunque sea buena", "tipo": "num", "v": 1.4, "paso": 0.05, "min": 1.25, "max": 3},
     "aviso_guardar": {"rol": "vigilante", "t": "Avisarme si el bot no guarda", "tipo": "si_no", "v": True},
 }
 
