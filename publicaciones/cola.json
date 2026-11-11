@@ -4405,6 +4405,25 @@
     "resultado": "verde",
     "verde_de": "2026-11-11-pick-tip-1",
     "requiere_ok": true,
-    "nota": "Sheffield Wednesday 0-4 Accrington (Yorkshire Post); EFL Trophy, sin corrección automática"
+    "nota": "Sheffield Wednesday 0-4 Accrington (Yorkshire Post); EFL Trophy, sin corrección automática",
+    "enviado": "2026-11-11T23:39",
+    "mensaje_id": 406,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18110604140297646",
+      "instagram": "18161398102564724",
+      "instagram_story": "18177234922458223",
+      "threads_enlace": "17956945929035318"
+    }
+  },
+  {
+    "id": "2026-11-11-balance-auto",
+    "fecha": "2026-11-11T23:42",
+    "texto": "📊 BALANCE DEL MIÉRCOLES · 1 DE 4 PICKS EN VERDE 🍀\n\n🎯 25 % de acierto\n✅ 1 acertados · ❌ 3 fallados\n\n🔥 Lo mejor: goles 1/2\n⚽ Ganadores: 0/2\n😤 Lo peor: ganadores 0/2\n\n🔔 Mañana más picks: activad las notificaciones 👀\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
