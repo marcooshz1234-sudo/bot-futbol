@@ -5,7 +5,27 @@
 > mantenerlo y los errores que ya pasaron y no pueden repetirse. Si algo de lo que vas a hacer
 > contradice este documento, pregunta a Marcos antes.
 >
-> Última actualización: 01/11/2026. Copia de este archivo en el repositorio: `MANUAL_PROYECTO.md`.
+> Última actualización: 11/11/2026 (sección 0). Del 02/11 al 11/11, el detalle está en `informes/bitacora/2026-11.md`. Copia de este archivo en el repositorio: `MANUAL_PROYECTO.md`.
+
+---
+
+## 0. Novedades del 02/11 al 11/11 (LÉELO PRIMERO)
+
+Detalle día a día: `informes/bitacora/2026-11.md`. Análisis del 11/11: Proyecto de Claude «pronosticador» → `ANALISIS_BOT_11NOV.md`.
+
+| Pieza nueva | Archivo | Qué hace |
+|---|---|---|
+| Oficina (7 roles) | `oficina_datos.py`, `oficina_secciones.py`, `ajustes.py`, pestaña 🏢 del panel | Ojeador, Analista, Redactor, Verificador, Community, Vigilante y Cazador: qué hacen, sus datos y sus ajustes (control.json → ajustes) |
+| Turnos de Claude | Tareas programadas: 09:03, 14:34, 22:04 y lunes 11:33 | Lo que necesita IA: picks de tipsters con su porqué, alineaciones de prensa, respuestas de Threads, revisión del día. Apuntan en `datos/oficina_roles.json` con `anotar_rol.py` |
+| Tipsters | `lector_canales.py` (cuenta de Marcos, cada 3 min), `tipsters_auto.py` (picks claros sin IA), `anotar_tipster.py` (Claude), `tipsters.py` (corrige y aprende) | `datos/tipsters_raw.json` → `datos/tipsters.json` → `datos/tipsters_aprendizaje.json` |
+| Pinnacle | `sharp.py`, `fuentes_extra.oddspapi` | Lo justo según Pinnacle (OddsPapi, ~5 partidos/día). Fuera si bet365 paga 10%+ menos; si no, 60% Pinnacle + 40% lo nuestro |
+| Modelo de patas | `modelo_patas.py`, `contexto_pata.py` | Probabilidad real de cada pata (aprende el margen de bet365). Se reentrena cada 6 h y solo se usa si gana al de antes. Contexto (descanso, forma, árbitro, tiempo, estadio) entra solo cuando mejore |
+| Cazador | `cazador.py` | Cuotazas de bet365 (≥8% sobre lo justo, cuota ≥1,40) → post «🚨 CUOTAZA» con ✅ Publicar en el móvil |
+| Imagen | `marca.py`, `fotos.py`, `publicaciones/media/marca/` | Logo nuevo y plantillas de foto (pick del día, verdes, Partidos de hoy, foto del partido, resto) |
+| Etiquetas | `plantillas.etiquetar` | «🧠 Esta va con cabeza» / «🎉 Esta es por diversión» en la 2.ª línea |
+| Verdes con OK | `verdes_auto.py`, `asistente.avisar_verdes` | Verdes, rojos y cuotazas solo salen cuando Marcos pulsa ✅ Publicar |
+
+Reglas nuevas de noviembre (además de las de abajo): Telegram solo pick del día (1,50-1,70, 10:30 y 18:00), escalera y una combi; el resto solo redes. Threads: verdes y rojos sin imagen. Nada de fueras de juego, tiros del partido, gol 1ª parte, +2,5 goles del partido ni descanso. Femeninas con «(fem.)». Respuestas a Marcos por partes, en formato pregunta-respuesta.
 
 ---
 
