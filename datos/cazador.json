@@ -10,7 +10,7 @@
    "justa": 2.56,
    "ev": 0.024,
    "fuente": "las otras casas",
-   "edad_h": 5.7
+   "edad_h": 6.0
   },
   {
    "local": "SL Benfica W",
@@ -21,7 +21,7 @@
    "justa": 2.36,
    "ev": 0.007,
    "fuente": "las otras casas",
-   "edad_h": 5.7
+   "edad_h": 6.0
   },
   {
    "local": "Juventus W",
@@ -32,7 +32,7 @@
    "justa": 1.55,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 5.7
+   "edad_h": 6.0
   },
   {
    "local": "Juventus W",
@@ -43,7 +43,7 @@
    "justa": 1.55,
    "ev": -0.011,
    "fuente": "las otras casas",
-   "edad_h": 5.7
+   "edad_h": 6.0
   },
   {
    "local": "Juventus W",
@@ -54,7 +54,7 @@
    "justa": 2.29,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 5.7
+   "edad_h": 6.0
   },
   {
    "local": "OH Leuven W",
@@ -65,11 +65,11 @@
    "justa": 1.7,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-11T07:49",
+  "hora": "2026-11-11T08:10",
   "revisadas": 0,
   "mejor": null
  },
