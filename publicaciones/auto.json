@@ -4389,20 +4389,20 @@
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Albania gana alguna de las dos partes\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,13\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n⚽ Arsenal (fem.) marca\n🇫🇷 Gana Francia\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,30\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1638295|Total - Home|Over 2.5",
-      "1545613|Total - Home|Over 1.5",
-      "1528963|To Win Either Half|Home",
+      "1528958|Both Teams Score|Yes",
+      "1638295|Total - Away|Over 0.5",
+      "1528960|Match Winner|Away",
       "1638339|Match Winner|Home"
     ],
     "cuotas": [
-      1.67,
       1.5,
-      1.53,
+      1.5,
+      1.75,
       1.6
     ],
     "solo_redes": true
@@ -4598,18 +4598,18 @@
   {
     "id": "2026-11-13-combi-tres",
     "fecha": "2026-11-13T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n\n🇮🇹 Gana el Ospitaletto\n🇦🇩 Andorra gana alguna de las dos partes\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n\n📈 Cuota @3,41\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del viernes familia 🔥\n\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n\n📈 Cuota @3,04\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608368|Match Winner|Home",
-      "1545615|To Win Either Half|Home",
+      "1545654|To Win Either Half|Away",
       "1545614|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
       1.45,
-      1.57,
+      1.4,
       1.5
     ]
   },
@@ -4645,21 +4645,21 @@
   {
     "id": "2026-11-13-combi-loca",
     "fecha": "2026-11-13T16:00",
-    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇮🇹 Ospitaletto marca 2 o más\n🇦🇩 Andorra gana alguna de las dos partes\n🇮🇸 Islandia gana alguna de las dos partes\n🇪🇸 Salamanca UDS marca\n\n📈 Cuota @6,18\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇮🇹 Ospitaletto marca 2 o más\n🇳🇱 Gana Países Bajos\n🇸🇰 Eslovaquia marca 2 o más\n🇱🇺 Luxemburgo gana alguna de las dos partes\n\n📈 Cuota @6,31\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608368|Total - Home|Over 1.5",
-      "1545615|To Win Either Half|Home",
-      "1528969|To Win Either Half|Away",
-      "1644376|Total - Home|Over 0.5"
+      "1528966|Match Winner|Home",
+      "1528967|Total - Home|Over 1.5",
+      "1545614|To Win Either Half|Home"
     ],
     "cuotas": [
       1.62,
-      1.57,
       1.5,
-      1.62
+      1.5,
+      1.73
     ],
     "solo_redes": true
   },
@@ -5041,17 +5041,19 @@
   {
     "id": "2026-11-15-combi-tres",
     "fecha": "2026-11-15T13:30",
-    "texto": "Vamos con la combi del domingo familia 🔥\n\n🇪🇸 Gana el Granada CF\n🇪🇸 Gana el Eibar\n\n📈 Cuota @2,71\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del domingo familia 🔥\n\n🇪🇸 Gana el Granada CF\n🇮🇹 Gana el Cittadella\n🇮🇹 Juventus U23 marca\n\n📈 Cuota @3,27\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570018|Match Winner|Home",
-      "1570016|Match Winner|Home"
+      "1608364|Match Winner|Home",
+      "1608365|Total - Home|Over 0.5"
     ],
     "cuotas": [
       1.67,
-      1.62
+      1.4,
+      1.4
     ]
   },
   {
@@ -5076,27 +5078,6 @@
       2.0,
       1.62,
       1.44
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-15-combi-loca",
-    "fecha": "2026-11-15T16:00",
-    "texto": "Y para los valientes, la loca del domingo 🤪🔥\n🎢 Cuota grande, stake pequeño 🤏\n\n🇮🇹 Gana el Cittadella\n🇮🇹 Juventus U23 marca\n🇮🇹 Pergolettese marca 2 o más\n🇪🇸 Gana el Eibar\n\n📈 Cuota @6,35\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1608364|Match Winner|Home",
-      "1608365|Total - Home|Over 0.5",
-      "1608369|Total - Home|Over 1.5",
-      "1570016|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      2.0,
-      1.62
     ],
     "solo_redes": true
   }
