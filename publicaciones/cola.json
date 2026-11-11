@@ -4441,7 +4441,14 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-11-escalera-2",
-    "requiere_ok": true
+    "requiere_ok": true,
+    "enviado": "2026-11-12T00:07",
+    "mensaje_id": 408,
+    "redes": {
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado",
+      "instagram_story": "18043106066844745"
+    }
   },
   {
     "id": "2026-11-11-verde-auto-2026-11-11-pick-extra-1",
@@ -4453,6 +4460,13 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-11-pick-extra-1",
-    "requiere_ok": true
+    "requiere_ok": true,
+    "enviado": "2026-11-12T00:07",
+    "mensaje_id": 409,
+    "redes": {
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado",
+      "instagram_story": "17914341003480826"
+    }
   }
 ]
