@@ -397,5 +397,25 @@
    "cuota_bet365": 1.12,
    "prob_cuota": 0.893
   }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/1358-accrington",
+  "dia": "2026-11-11",
+  "hora": "20:00",
+  "local": "Sheffield Wednesday",
+  "visitante": "Accrington Stanley",
+  "texto": "Accrington +1,5 (hándicap)",
+  "mercado": "Asian Handicap",
+  "opcion": "Away +1.5",
+  "cuota": 1.51,
+  "argumento": [
+   "Al Accrington le vale un punto para clasificarse",
+   "El Sheffield Wednesday ya está clasificado y va a rotar",
+   "Accrington venía de diez partidos sin perder antes de caer en Copa"
+  ],
+  "por_que": [
+   "Vale que gane, empate o pierda por un gol; con el Sheffield rotando y el Accrington jugándose el pase, tiene sentido"
+  ]
  }
 ]

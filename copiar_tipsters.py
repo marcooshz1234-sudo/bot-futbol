@@ -29,7 +29,9 @@ def coma(c):
 def inicio(pk):
     """Hora de inicio (Madrid) del partido del pick, de nuestros datos."""
     fid = pk.get("partido_id")
-    if not fid:
+    if not fid:   # 11/11: partidos que no seguimos (EFL Trophy…): la hora que apunta Claude («hora»: "20:00")
+        if pk.get("hora") and pk.get("dia"):
+            return datetime.fromisoformat(f"{pk['dia']}T{pk['hora']}").replace(tzinfo=MADRID)
         return None
     pa = (leer(DATOS / "proximos" / f"{fid}.json", {}) or {}).get("partido") or {}
     f = (pa.get("fixture") or {}).get("date")
@@ -68,7 +70,7 @@ def post_suelto(pk, ini, ahora, n):
     return {"id": f"{pk['dia']}-pick-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
-            "sel": [f"{pk['partido_id']}|{pk.get('mercado')}|{pk.get('opcion')}"],
+            "sel": [f"{pk['partido_id']}|{pk.get('mercado')}|{pk.get('opcion')}"] if pk.get("partido_id") else [],
             "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 
@@ -85,7 +87,7 @@ def post_combi(patas, ahora, n):
     return {"id": f"{patas[0]['dia']}-combi-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
-            "sel": [f"{p['partido_id']}|{p.get('mercado')}|{p.get('opcion')}" for p in patas],
+            "sel": [f"{p['partido_id']}|{p.get('mercado')}|{p.get('opcion')}" for p in patas if p.get("partido_id")],
             "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 
@@ -94,7 +96,7 @@ def main(ahora=None):
     hoy, manana = ahora.strftime("%Y-%m-%d"), (ahora + timedelta(days=1)).strftime("%Y-%m-%d")
     hechos = set(leer(REGISTRO, []) or [])
     lista = [x for x in leer(DATOS / "tipsters.json", []) or []
-             if x.get("tipster") in COPIAR and x.get("dia") in (hoy, manana) and x.get("partido_id")]
+             if x.get("tipster") in COPIAR and x.get("dia") in (hoy, manana) and (x.get("partido_id") or x.get("hora"))]
     clave = lambda x: f"{x.get('fuente') or x['tipster'] + '|' + x['dia'] + '|' + x['local']}|{x.get('mercado')}|{x.get('opcion')}"
     sueltos, combis = [], {}
     for x in lista:

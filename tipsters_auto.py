@@ -92,6 +92,8 @@ def mercado(l, lado_l, lado_v):
     lado = "Home" if lado_l and not lado_v else "Away" if lado_v and not lado_l else None
     if re.search(r"ambos marcan|btts|ambos equipos marcan", l):
         return "Both Teams Score", "Yes"
+    if re.search(r"[a-z]{3,}\s*[+-]\s*\d(?:[.,]\d+)?(?!\s*goles?)\b", l) and not re.search(r"(?:mas de|over)\s*\d", l):
+        return None   # 11/11: «Accrington +1,5» es hándicap del equipo, no «más de 1,5 goles»: que lo mire Claude
     m = re.search(r"(?:mas de|over|\+)\s*(\d)[.,]5\s*goles?|(?:mas de|over|\+)\s*(\d)[.,]5\b", l)
     if m and not re.search(r"\bmarca", l):
         if re.search(r"1\s*(?:a|era|ª)?\s*parte|primera parte|descanso|1t\b", l):
