@@ -100,6 +100,7 @@ class API:
                     rest = r.headers.get("x-ratelimit-requests-remaining")
                     if rest is not None:
                         self.restantes = int(rest)
+                        guardar_cuota_api(self.restantes, r.headers.get("x-ratelimit-requests-limit"))
             except (HTTPError, URLError, TimeoutError) as e:
                 print(f"  ! error de red en {ruta}: {e}; reintento")
                 time.sleep(3 + intento * 5)
@@ -174,6 +175,19 @@ def fechas_calendario():
             except (KeyError, TypeError):
                 pass
     return out
+
+
+def guardar_cuota_api(restantes, limite):
+    """11/11: lo que queda de la cuota diaria de API-Football (datos/api_cuota.json), para que el vigilante avise.
+    Solo se escribe cada 25 peticiones o cuando quedan pocas (no en cada llamada)."""
+    try:
+        if restantes % 25 and restantes > 500:
+            return
+        (DATOS / "api_cuota.json").write_text(json.dumps(
+            {"restantes": restantes, "limite": int(limite) if limite else None,
+             "hora": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")}) + "\n", encoding="utf-8")
+    except Exception:
+        pass
 
 
 def leer(ruta, defecto=None):

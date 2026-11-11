@@ -88,6 +88,20 @@ class TestVigilante(unittest.TestCase):
                 claves = [k for k, _ in vigilante.revisar(AHORA)]
         self.assertIn("escalon-2026-11-10", claves)
 
+    def test_claves_y_api(self):
+        from datetime import datetime as dt
+        with tempfile.TemporaryDirectory() as d:
+            pub = Path(d)
+            (pub / "media").mkdir()
+            (pub / "api_cuota.json").write_text(json.dumps({"restantes": 300, "limite": 7500, "hora": "2026-12-01T10:00"}))
+            with mock.patch.object(vigilante, "todos", lambda: []), mock.patch.object(vigilante, "PUB", pub), \
+                    mock.patch.object(vigilante, "DATOS", pub), mock.patch("bot.partido_caido", lambda p: None):
+                antes = [k for k, _ in vigilante.revisar(AHORA)]
+                claves = [k for k, _ in vigilante.revisar(dt(2026, 12, 1, 11, 0, tzinfo=MADRID))]
+        self.assertFalse(any(k.startswith(("claves", "api")) for k in antes))
+        self.assertIn("claves-2026-12-01", claves)
+        self.assertIn("api-2026-12-01", claves)
+
     def test_escalera(self):
         self.assertIn("escalera", self.revisar([], escalera=False))
 

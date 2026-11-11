@@ -28,6 +28,8 @@ PUB = RAIZ / "publicaciones"
 TIPSTERS = ("Tipster Pérez", "Tipster Perez", "TipsAnalistas", "PABLO ANALISTA", "Pablo Analista", "INSIDER",
             "CRIMINALPICKS", "Lafiebredelpick", "TRADER FOOTBALL", "TipsPro", "MAX ANALISTA", "CREAR APUESTA CUOTA")
 RESTOS = re.compile(r"\bNone\b|\bnan\b|\{[a-z_]+\}|\bundefined\b|@0,00\b")
+CADUCAN_META = "2026-12-21"   # cambiar cuando Marcos las renueve (y en comprobar_redes.py)
+AVISO_CLAVES = ("2026-12-01", "2026-12-15", "2026-12-19", "2026-12-20")
 NO_CUENTAN = ("ganadores", "lista-europa", "verde", "rojo", "balance", "logo")
 
 
@@ -188,6 +190,20 @@ def revisar(ahora=None):
                         "lleva más de 30 h sin resultado de alguna pata: hay que mirarlo a mano (datos/escalera.json)"))
     except (ValueError, KeyError):
         pass
+
+    # 12. cuota diaria de la API de fútbol (bot.guardar_cuota_api)
+    q = leer(DATOS / "api_cuota.json", {}) or {}
+    if q.get("limite") and q.get("restantes") is not None and (q.get("hora") or "")[:10] == hoy \
+            and q["restantes"] < q["limite"] * 0.10:
+        out.append((f"api-{hoy}", f"📉 Quedan {q['restantes']} de {q['limite']} peticiones a la API de fútbol hoy: "
+                    "si se acaban, el bot no tendrá cuotas ni resultados hasta mañana"))
+
+    # 13. claves de Meta (Threads e Instagram): caducan; las renueva Marcos (Claude nunca las ve)
+    if hoy >= AVISO_CLAVES[0]:
+        cual = max(d for d in AVISO_CLAVES if d <= hoy)
+        out.append((f"claves-{cual}", f"🔑 Las claves de Threads e Instagram caducan el {CADUCAN_META[8:]}/{CADUCAN_META[5:7]}. "
+                    "Si no se renuevan, ese día dejan de salir los posts en redes. Dile a Claude «renovar claves» y te "
+                    "guía paso a paso (las pones tú en GitHub)"))
 
     # 10. escalera de hoy
     if ahora.hour >= 12 and not any(p["id"].startswith(f"{hoy}-escalera") for p in posts) \
