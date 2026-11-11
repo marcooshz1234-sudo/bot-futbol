@@ -136,11 +136,67 @@ def _tam(texto, grande, ancho_letras):
     return grande if n <= ancho_letras else max(int(grande * ancho_letras / n), int(grande * .55))
 
 
+# 11/11 (Marcos: «muy simple, antes tenía muchas cosas»): adornos alrededor, como la plantilla oro de antes
+COPA = ('<svg viewBox="0 0 170 220" width="{w}" style="{e}"><path d="M40 20 H130 V70 C130 110 105 130 85 132 C65 130 40 110 40 70 Z" '
+        'fill="url(#oroG)" stroke="#7a3d00" stroke-width="6"/><path d="M40 34 H14 C14 70 30 84 46 88 M130 34 H156 C156 70 140 84 124 88" '
+        'fill="none" stroke="#ffd84a" stroke-width="10"/><rect x="74" y="132" width="22" height="34" fill="#e59b0c" stroke="#7a3d00" '
+        'stroke-width="5"/><rect x="46" y="166" width="78" height="26" rx="4" fill="url(#oroG)" stroke="#7a3d00" stroke-width="6"/>'
+        '<path d="M66 40 L66 90" stroke="#fff6c2" stroke-width="8" stroke-linecap="round"/>'
+        '<defs><linearGradient id="oroG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3c4"/>'
+        '<stop offset=".4" stop-color="#f0c24b"/><stop offset=".7" stop-color="#b8860b"/><stop offset="1" stop-color="#ffe08a"/>'
+        '</linearGradient></defs></svg>')
+LAUREL = ('<svg viewBox="0 0 60 600" width="60" height="{h}" preserveAspectRatio="none" style="{e}">'
+          '<path d="M40 590 C10 450 10 150 40 10" fill="none" stroke="#e3a71b" stroke-width="6"/>'
+          '<g fill="#f2c94c" stroke="#7a3d00" stroke-width="3">'
+          + "".join(f'<ellipse cx="{cx}" cy="{cy}" rx="9" ry="20" transform="rotate({r} {cx} {cy})"/>'
+                    for cx, cy, r in ((32, 40, -35), (26, 110, -28), (22, 180, -20), (20, 250, -12), (19, 320, -4),
+                                      (20, 390, 6), (22, 460, 14), (27, 530, 24))) + "</g></svg>")
+DESTELLO = ('<svg viewBox="0 0 40 40" width="{t}" height="{t}" style="{e}"><path d="M20 0 L24 16 L40 20 L24 24 L20 40 '
+            'L16 24 L0 20 L16 16 Z" fill="#ffe58a"/></svg>')
+
+
+def decoracion(alto=1350, verde=False):
+    """Capa de adornos detrás del contenido: cintas doradas en las esquinas, laureles, copas, destellos y confeti."""
+    import random
+    rnd = random.Random(7)   # siempre igual
+    cinta = ("position:absolute;width:460px;height:{h}px;background:{b};box-shadow:0 4px 10px rgba(0,0,0,.4);"
+             "z-index:0;{p}")
+    oro = "linear-gradient(90deg,#7a5300,#f6d46a 30%,#fff6cf 50%,#d39b1a 70%,#7a5300)"
+    osc = "linear-gradient(90deg,#3a2700,#c8920e,#3a2700)"
+    acento = "#3ee07a" if verde else "#ffd84a"
+    out = []
+    for lado, rot in (("left", -40), ("right", 40)):
+        for y, h, b in ((70, 54, oro), (150, 18, osc)):
+            out.append(f'<div style="{cinta.format(h=h, b=b, p=f"top:{y - 40}px;{lado}:-150px;transform:rotate({rot}deg)")}"></div>')
+            out.append(f'<div style="{cinta.format(h=h, b=b, p=f"bottom:{y - 40}px;{lado}:-150px;transform:rotate({-rot}deg)")}"></div>')
+    largo = alto - 760
+    out.append(LAUREL.format(h=largo, e=f"position:absolute;left:8px;top:380px;z-index:0"))
+    out.append(LAUREL.format(h=largo, e=f"position:absolute;right:8px;top:380px;z-index:0;transform:scaleX(-1)"))
+    out.append(COPA.format(w=120, e="position:absolute;left:200px;top:60px;z-index:0;transform:rotate(-12deg);"
+                                     "filter:drop-shadow(0 6px 8px rgba(0,0,0,.5))"))
+    out.append(COPA.replace('id="oroG"', 'id="oroG2"').replace("url(#oroG)", "url(#oroG2)").format(
+        w=120, e="position:absolute;right:200px;top:60px;z-index:0;transform:rotate(12deg);filter:drop-shadow(0 6px 8px rgba(0,0,0,.5))"))
+    for x, y, t in ((150, 330, 34), (900, 300, 40), (80, 560, 26), (990, 640, 30), (120, 900, 30), (960, 980, 36),
+                    (330, 40, 24), (740, 36, 28)):
+        out.append(DESTELLO.format(t=t, e=f"position:absolute;left:{x}px;top:{y * alto // 1350}px;z-index:0;"
+                                          "filter:drop-shadow(0 0 8px rgba(255,230,140,.9))"))
+    colores = ["#ffd84a", "#fff3c4", acento, "#e3a71b", "#ffffff"]
+    for _ in range(26):
+        x, y = rnd.randint(40, 1040), rnd.randint(260, alto - 260)
+        if 140 < x < 940:   # el confeti solo por los lados, sin tapar las filas
+            x = rnd.choice((rnd.randint(30, 130), rnd.randint(950, 1050)))
+        t = rnd.randint(8, 16)
+        out.append(f'<span style="position:absolute;left:{x}px;top:{y}px;width:{t}px;height:{t // 2 + 3}px;'
+                   f'background:{rnd.choice(colores)};transform:rotate({rnd.randint(0, 180)}deg);z-index:0;opacity:.9"></span>')
+    return "".join(out)
+
+
 def _html(cuerpo, w, h, verde=False, extra=""):
     return (f"<!doctype html><html><head><meta charset='utf-8'><style>{base(h, verde)}"
             f"*{{box-sizing:border-box}} body{{margin:0;width:{w}px;min-height:{h}px;font-family:{LETRA};color:#fff;"
-            f"display:flex;flex-direction:column;align-items:center;position:relative}}{extra}</style></head>"
-            f"<body>{cuerpo}</body></html>")
+            f"display:flex;flex-direction:column;align-items:center;position:relative;overflow:hidden}}{extra}"
+            f"body>*{{position:relative;z-index:1}}</style></head>"
+            f"<body>{decoracion(h, verde) if w == 1080 else ''}{cuerpo}</body></html>")
 
 
 def _cinta(texto, tam=54):

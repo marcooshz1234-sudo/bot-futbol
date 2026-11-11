@@ -3993,7 +3993,7 @@
   {
     "id": "2026-11-11-ganadores-win",
     "fecha": "2026-11-11T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. ⚽ Køge (fem.) - Win\n2. ⚽ Lyon (fem.) - Win\n3. ⚽ Benfica (fem.) - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇰 Køge (fem.) - Win\n2. 🇫🇷 Lyon (fem.) - Win\n3. 🇵🇹 Benfica (fem.) - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4016,21 +4016,21 @@
       "filas": [
         {
           "pais": "Denmark",
-          "bandera": "⚽",
+          "bandera": "🇩🇰",
           "escudo_url": "https://media.api-sports.io/football/teams/13982.png",
           "nombre": "Køge (fem.)",
           "pick": "WIN"
         },
         {
           "pais": "France",
-          "bandera": "⚽",
+          "bandera": "🇫🇷",
           "escudo_url": "https://media.api-sports.io/football/teams/1674.png",
           "nombre": "Lyon (fem.)",
           "pick": "WIN"
         },
         {
           "pais": "Portugal",
-          "bandera": "⚽",
+          "bandera": "🇵🇹",
           "escudo_url": "https://media.api-sports.io/football/teams/15495.png",
           "nombre": "Benfica (fem.)",
           "pick": "WIN"
