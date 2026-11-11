@@ -55,7 +55,7 @@ CSS_CL = """
 .l{background:linear-gradient(180deg,rgba(16,20,16,.9),rgba(4,6,4,.9));border:2px solid rgba(126,240,58,.75);
  border-left:9px solid #7ef03a;box-shadow:0 0 14px rgba(126,240,58,.22);color:#fff;font-style:italic}
 .titulo{text-transform:uppercase}
-.marca{margin-top:auto}
+body:not(.v) .marca{margin-top:auto}
 .sub{font-size:40px}
 .cuota div.b{background:linear-gradient(180deg,#fff3b0,#ffd84a 45%%,#d99a10);color:#1a1200;box-shadow:0 0 20px rgba(255,216,74,.5)}
 .dato{color:#f2f2f2;font-style:italic}
