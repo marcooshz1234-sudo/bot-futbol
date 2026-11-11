@@ -29,7 +29,18 @@
    "justa": 3.26,
    "ev": 0.075,
    "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 6.6
+  },
+  {
+   "local": "San Marino",
+   "visitante": "Belarus",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Ambos marcan en San Marino–Belarus",
+   "cuota": 3.25,
+   "justa": 3.07,
+   "ev": 0.058,
+   "fuente": "las otras casas",
+   "edad_h": 6.6
   },
   {
    "local": "OH Leuven W",
@@ -40,7 +51,40 @@
    "justa": 3.16,
    "ev": 0.027,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
+  },
+  {
+   "local": "Czechia",
+   "visitante": "Spain",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Spain marca 4 o más",
+   "cuota": 3.25,
+   "justa": 3.21,
+   "ev": 0.014,
+   "fuente": "las otras casas",
+   "edad_h": 6.6
+  },
+  {
+   "local": "Czechia",
+   "visitante": "Spain",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Más de 2,5 goles en la 2ª parte del Czechia–Spain",
+   "cuota": 3.25,
+   "justa": 3.22,
+   "ev": 0.009,
+   "fuente": "las otras casas",
+   "edad_h": 6.6
+  },
+  {
+   "local": "Italy",
+   "visitante": "France",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Italy marca 2 o más",
+   "cuota": 3.0,
+   "justa": 3.0,
+   "ev": 0.0,
+   "fuente": "las otras casas",
+   "edad_h": 6.6
   },
   {
    "local": "OH Leuven W",
@@ -51,7 +95,7 @@
    "justa": 1.69,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "OH Leuven W",
@@ -62,22 +106,11 @@
    "justa": 1.67,
    "ev": -0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Barcelona W",
-   "visitante": "Arsenal W",
-   "inicio": "2026-11-12T18:45",
-   "texto": "Más de 2,5 goles en la 2ª parte del Barcelona W–Arsenal W",
-   "cuota": 2.5,
-   "justa": 2.54,
-   "ev": -0.014,
-   "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-11T14:33",
+  "hora": "2026-11-11T14:54",
   "revisadas": 0,
   "mejor": null
  },

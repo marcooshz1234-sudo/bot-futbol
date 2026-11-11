@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 14:44",
+ "actualizado": "2026-11-11 14:54",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -58,16 +58,16 @@
  "total_hoy": 43,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
-  "dia": "2026-11-12",
-  "titulo": "Nations league - ganadores"
+  "hora": "15:15",
+  "dia": "2026-11-11",
+  "titulo": "Reto escalera · día 2/7"
  },
  "ayer": null,
  "escalera": {
   "dia": 2,
   "de": 7,
   "stake": 36.0,
-  "objetivo": 75.6,
+  "objetivo": 72.72,
   "fecha": "2026-11-11"
  },
  "historial": {
@@ -190,7 +190,7 @@
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 9,
+   "posts": 8,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -199,13 +199,13 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Escalera (reel)": {
-   "posts": 5,
+  "Otros": {
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros": {
-   "posts": 1,
+  "Escalera (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -216,6 +216,11 @@
   },
   "Combi de partido (reel)": {
    "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Picks (reel)": {
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
