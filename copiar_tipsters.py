@@ -118,8 +118,12 @@ def post_combi(patas, ahora, n):
     return {"id": f"{patas[0]['dia']}-combi-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
-            "sel": [f"{p['partido_id']}|{p.get('mercado')}|{p.get('opcion')}" for p in patas if p.get("partido_id")],
-            "cuotas": [p.get("cuota") for p in patas if p.get("partido_id")] if all(p.get("cuota") for p in patas) else [],
+            # 11/11: si alguna pata es de un partido que no seguimos, NADA de corrección automática: con patas a medias
+            # el verde saldría aunque la pata sin seguir fallase (el verde/rojo lo prepara Claude a mano)
+            "sel": [f"{p['partido_id']}|{p.get('mercado')}|{p.get('opcion')}" for p in patas]
+                   if all(p.get("partido_id") for p in patas) else [],
+            "cuotas": [p.get("cuota") for p in patas]
+                      if all(p.get("partido_id") and p.get("cuota") for p in patas) else [],
             "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 

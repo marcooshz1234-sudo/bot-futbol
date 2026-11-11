@@ -35,6 +35,21 @@ class TestCopiarTipsters(unittest.TestCase):
                     self.assertEqual(len(p["sel"]), len(p["cuotas"]))
                 self.assertEqual(C.main(datetime(2026, 11, 11, 8, 5, tzinfo=MADRID)), [])   # no se repite
 
+    def test_combi_con_pata_sin_seguir_no_se_corrige_sola(self):
+        import copiar_tipsters as C
+        from datetime import datetime
+        from bot import MADRID
+        ini = datetime(2026, 11, 11, 20, 0, tzinfo=MADRID)
+        patas = [{"dia": "2026-11-11", "texto": "Gana el Betis", "cuota": 1.5, "partido_id": 1, "mercado": "Match Winner",
+                  "opcion": "Home", "_ini": ini},
+                 {"dia": "2026-11-11", "texto": "Accrington +1,5", "cuota": 1.5, "hora": "20:00", "_ini": ini}]
+        p = C.post_combi(patas, ini.replace(hour=12), 1)
+        self.assertEqual(p["sel"], [])   # si no, el verde saldría sin mirar la pata de Accrington
+        self.assertEqual(p["cuotas"], [])
+        p = C.post_combi([patas[0], dict(patas[0], partido_id=2)], ini.replace(hour=12), 1)
+        self.assertEqual(len(p["sel"]), 2)
+        self.assertEqual(p["cuotas"], [1.5, 1.5])
+
     def test_empezado_no(self):
         with tempfile.TemporaryDirectory() as d:
             d = Path(d)
