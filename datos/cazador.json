@@ -1,0 +1,66 @@
+{
+ "avisos": {},
+ "top": [
+  {
+   "local": "Juventus W",
+   "visitante": "Lyon W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Juventus W–Lyon W",
+   "cuota": 2.62,
+   "justa": 2.56,
+   "ev": 0.024,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Austria Wien W o empate",
+   "cuota": 2.38,
+   "justa": 2.36,
+   "ev": 0.007,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Juventus W",
+   "visitante": "Lyon W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Más de 1,5 goles en la 2ª parte del Juventus W–Lyon W",
+   "cuota": 1.53,
+   "justa": 1.55,
+   "ev": -0.01,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Juventus W",
+   "visitante": "Lyon W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Lyon W marca 3 o más",
+   "cuota": 1.53,
+   "justa": 1.55,
+   "ev": -0.011,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Juventus W",
+   "visitante": "Lyon W",
+   "inicio": "2026-11-11T21:00",
+   "texto": "Lyon W marca 4 o más",
+   "cuota": 2.25,
+   "justa": 2.29,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  }
+ ],
+ "ultima": {
+  "hora": "2026-11-11T02:50",
+  "revisadas": 0,
+  "mejor": null
+ },
+ "historial": []
+}
