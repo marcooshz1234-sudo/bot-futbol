@@ -8949,7 +8949,7 @@
   "dia": "2026-11-11",
   "escalon": 2,
   "stake": 36.0,
-  "cuota": 2.1,
+  "cuota": 2.02,
   "picks": [
    {
     "partido_id": 1638318,
@@ -8962,9 +8962,9 @@
     "opcion": "Over 0.5",
     "tipo": "goles",
     "texto": "OH Leuven W marca",
-    "cuota": 1.4,
+    "cuota": 1.44,
     "frecuencia": 0.786,
-    "ventaja": 0.071,
+    "ventaja": 0.091,
     "detalle": "OH Leuven W 5/7 · Køge W 6/7",
     "contexto": null,
     "forma": "forma_igual",
@@ -8973,32 +8973,30 @@
      "1790": [],
      "13982": []
     },
-    "prob_aprendida": 0.671,
-    "prob_bet365": 0.6671289163019205,
+    "prob_aprendida": 0.677,
+    "prob_bet365": 0.6833632306209467,
     "prob_tipo": 0.7844314474140923,
-    "prob_sin_calibrar": 0.6933528198378441
+    "prob_sin_calibrar": 0.6990949167494936
    },
    {
-    "partido_id": 1638339,
+    "partido_id": 1638311,
     "fecha": "2026-11-11T21:00",
     "competicion": "Champions Femenina",
     "liga_id": 525,
-    "local": "SL Benfica W",
-    "visitante": "Austria Wien W",
-    "favorito": true,
-    "mercado": "Total - Home",
-    "opcion": "Over 1.5",
+    "local": "Juventus W",
+    "visitante": "Lyon W",
+    "mercado": "Total - Away",
+    "opcion": "Over 2.5",
     "tipo": "goles",
-    "texto": "SL Benfica (fem.) marca 2 o más",
-    "cuota": 1.5,
-    "frecuencia": 0.625,
-    "prob_aprendida": 0.625,
+    "texto": "Lyon (fem.) marca 3 o más",
+    "cuota": 1.4,
+    "frecuencia": 0.663,
     "ventaja": 0.0,
     "detalle": "según bet365",
-    "solo_bet365": true
+    "prob_aprendida": 0.663
    }
   ],
-  "hora": null,
+  "hora": "15:15",
   "anterior": {
    "dia": "2026-11-10",
    "escalon": 1,
@@ -9931,7 +9929,8 @@
    "aciertos": [
     true
    ]
-  }
+  },
+  "nota": "11/11 14:50 (Marcos): el Benfica–Austria se aplazó y borró la escalera de las 11:00 → rehecha sin el Benfica"
  },
  "correccion_manual": {
   "fecha": "2026-10-25",
