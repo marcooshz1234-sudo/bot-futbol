@@ -468,14 +468,28 @@ SIN_ETIQUETA = {"cabeza": 0.5, "diversion": 0.25}   # la mitad de las «con cabe
 ES_ETIQUETA = tuple(x.split(":")[0][:14] for x in ETIQUETAS_CABEZA + ETIQUETAS_DIVERSION)
 
 
+ORDEN_ETIQUETA = {"pick-seguro": 0, "pick-seguro-2": 1, "combi-tres": 2, "escalera": 3, "combi-segura": 4, "combi-doble": 5,
+                  "combi-cuota_3": 5, "combi-loca": 0, "combi-partido": 1, "estrella": 2, "combi-multi": 3, "lista-europa": 4}
+
+
 def etiqueta(clase, semilla):
-    """La etiqueta de este post (o None): siempre la misma para el mismo post, distinta entre posts."""
+    """La etiqueta de este post (o None). Semilla «AAAA-MM-DD-tipo»: dentro del mismo día cada tipo lleva una distinta
+    y van alternando con y sin etiqueta; de un día a otro cambia el orden."""
     import hashlib
-    h = int(hashlib.sha1(str(semilla).encode()).hexdigest(), 16)
-    if (h % 1000) / 1000 < SIN_ETIQUETA[clase]:
-        return None
+    import re as _re
+    m = _re.match(r"(\d{4}-\d{2}-\d{2})-(.+)", str(semilla))
+    dia, tipo = (m.group(1), m.group(2)) if m else ("", str(semilla))
+    hd = int(hashlib.sha1(dia.encode()).hexdigest(), 16)
+    off = ORDEN_ETIQUETA.get(tipo)
+    if off is None:
+        off = next((v for k, v in ORDEN_ETIQUETA.items() if tipo.startswith(k + "-")), None)
+    if off is None:
+        off = int(hashlib.sha1(tipo.encode()).hexdigest(), 16) % 97
+    k = hd + off
     lista = ETIQUETAS_CABEZA if clase == "cabeza" else ETIQUETAS_DIVERSION
-    return lista[(h // 1000) % len(lista)]
+    if clase == "cabeza" and k % 2 == 0 or clase != "cabeza" and k % 4 == 0:
+        return None
+    return lista[(k // 2 if clase == "cabeza" else k) % len(lista)]
 
 
 def etiquetar(tipo, texto, semilla=None):

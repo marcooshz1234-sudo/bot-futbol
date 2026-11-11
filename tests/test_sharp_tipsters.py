@@ -52,7 +52,7 @@ class TestEtiquetas(unittest.TestCase):
         locas = [plantillas.etiquetar("combi-loca", "Hola\n\n🍀 a", f"d{i}").split("\n")[1] for i in range(60)]
         self.assertTrue(set(locas) - {""} <= set(plantillas.ETIQUETAS_DIVERSION))
         self.assertEqual(plantillas.etiquetar("ganadores-win", "Hola"), "Hola")
-        t = plantillas.etiquetar("combi-tres", "Hola\n\n🍀 a", "x1")
+        t = plantillas.etiquetar("pick-seguro-2", "Hola\n\n🍀 a", "2026-11-12-pick-seguro-2")
         self.assertEqual(plantillas.etiquetar("combi-tres", t, "x2"), t)
 
 
