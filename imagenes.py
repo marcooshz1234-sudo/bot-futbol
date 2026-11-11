@@ -58,7 +58,9 @@ def partes(texto):
     for f in filas[1:]:
         if not f or f.startswith(("🔞", "🍀 ¿LA", "¡Combina", "🔔")):
             continue
-        if f.startswith("💥 COMBI DEL PARTIDO"):
+        if f.startswith(("🎉 Esta es por diversión", "🧠 Esta va con cabeza")):   # 11/11: la etiqueta, debajo del título
+            sub = sub or f
+        elif f.startswith("💥 COMBI DEL PARTIDO"):
             sub = f
         elif f.startswith(("🎯", "💶", "📈", "🧠")):
             cuota.append(f)

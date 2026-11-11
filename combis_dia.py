@@ -182,7 +182,29 @@ def pool_bet365(ex):
 
 
 def pool_partido(ex, hist, ap):
-    """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos."""
+    """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos.
+    11/11 (Marcos): con Pinnacle de referencia (sharp.py): fuera las patas caras; en las demás, su probabilidad."""
+    pool = _pool_partido(ex, hist, ap)
+    try:
+        import sharp
+        pool = sharp.filtrar(pool)
+    except Exception as e:
+        print("Pinnacle:", str(e)[:120])
+    try:   # 11/11 (Marcos: «que el bot aprenda de lo que cogen los tipsters»): si un tipster coge esa pata, un empujón
+        import tipsters
+        salida = []
+        for p in pool:
+            extra, quienes = tipsters.bonus(p)
+            if quienes:
+                p = dict(p, prob_aprendida=round(min(0.97, p.get("prob_aprendida", 0) + extra), 3), tipsters=quienes)
+            salida.append(p)
+        pool = salida
+    except Exception as e:
+        print("tipsters (bonus):", str(e)[:120])
+    return pool
+
+
+def _pool_partido(ex, hist, ap):
     import aprender
     import picks as P
     pa = ex.get("partido")

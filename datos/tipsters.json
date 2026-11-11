@@ -17,7 +17,8 @@
   "marcador": [
    0,
    2
-  ]
+  ],
+  "analisis": {}
  },
  {
   "tipster": "TipsAnalistas",
@@ -37,7 +38,8 @@
   "marcador": [
    0,
    0
-  ]
+  ],
+  "analisis": {}
  },
  {
   "tipster": "TipsAnalistas",
@@ -58,7 +60,8 @@
   "marcador": [
    1,
    2
-  ]
+  ],
+  "analisis": {}
  },
  {
   "tipster": "TipsAnalistas",
@@ -75,7 +78,8 @@
   "marcador": [
    0,
    1
-  ]
+  ],
+  "analisis": {}
  },
  {
   "tipster": "TipsAnalistas",
@@ -93,7 +97,12 @@
    "Primera vez del Mijas en Copa del Rey"
   ],
   "partido_id": 1644362,
-  "corregido": "09/11: TipsAnalistas dijo dos categorías; el Mijas subió a Segunda Federación en 2026-27 (Wikipedia, futboltotal)"
+  "corregido": "09/11: TipsAnalistas dijo dos categorías; el Mijas subió a Segunda Federación en 2026-27 (Wikipedia, futboltotal)",
+  "analisis": {
+   "liga": "Copa del Rey",
+   "cuota_bet365": 1.67,
+   "prob_cuota": 0.51
+  }
  },
  {
   "tipster": "Tipster Pérez",
@@ -115,7 +124,10 @@
   "marcador": [
    0,
    0
-  ]
+  ],
+  "analisis": {
+   "prob_cuota": 0.656
+  }
  },
  {
   "tipster": "Tipster Pérez",
@@ -131,6 +143,10 @@
    "Al Real Madrid le pesan los problemas físicos de Linda Caicedo: pierde desborde y uno contra uno por banda",
    "Solidez defensiva del Paris FC y al Madrid le cuesta ganar por mucho: vale victoria, empate o derrota por un gol"
   ],
-  "partido_id": 1638332
+  "partido_id": 1638332,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "prob_cuota": 0.625
+  }
  }
 ]

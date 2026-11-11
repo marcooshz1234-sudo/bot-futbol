@@ -442,6 +442,27 @@ LINEA_LISTA = ("ℹ️ No hace falta coger todos los picks: es info de los que h
                "los partidos. Quédate con los que más te gusten 👌")
 
 
+# 11/11 (Marcos: «que especifique cuándo unas son para una cosa y otras por diversión»)
+DIVERSION = ("combi-loca", "combi-partido", "estrella", "combi-multi", "lista-europa")
+CON_CABEZA = ("pick-seguro", "combi-tres", "escalera", "combi-segura", "combi-doble", "combi-cuota_3")
+ETIQUETA_DIVERSION = "🎉 Esta es por diversión: stake mínimo 🤏"
+ETIQUETA_CABEZA = "🧠 Esta va con cabeza: analizada"
+
+
+def etiquetar(tipo, texto):
+    """Segunda línea del post: si es para ganar (con cabeza) o para echarse unas risas (diversión)."""
+    if ETIQUETA_DIVERSION in texto or ETIQUETA_CABEZA in texto:
+        return texto
+    if tipo.startswith(DIVERSION):
+        et = ETIQUETA_DIVERSION
+    elif tipo.startswith(CON_CABEZA):
+        et = ETIQUETA_CABEZA
+    else:
+        return texto
+    primera, _, resto = texto.partition("\n")
+    return f"{primera}\n{et}\n{resto}" if resto else f"{primera}\n{et}"
+
+
 def posts_del_dia(dia, d):
     global FORMATO_27
     from bot import partidos_fuera
@@ -702,6 +723,7 @@ def posts_del_dia(dia, d):
         if picks and not espera:
             primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
             hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
+        texto = etiquetar(tipo, texto)
         if tipo in POSTS_LISTA:   # 31/10 (Marcos): no hace falta coger todos los picks
             texto = texto.rstrip() + "\n\n" + LINEA_LISTA
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),
