@@ -153,5 +153,26 @@
    3,
    0
   ]
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44942",
+  "dia": "2026-11-10",
+  "local": "Trival Valderas",
+  "visitante": "Leganes",
+  "partido_id": 1644382,
+  "texto": "INSIDER  🍀 +2.5 Trival Valderas - Lega",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {},
+  "estado": "rojo",
+  "marcador": [
+   0,
+   1
+  ]
  }
 ]

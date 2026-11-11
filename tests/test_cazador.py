@@ -26,3 +26,19 @@ class TestCazador(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestTipstersAuto(unittest.TestCase):
+    def test_lee_picks_claros(self):
+        from datetime import datetime
+        import tipsters_auto as T
+        from bot import MADRID
+        d = datetime(2026, 11, 12, 20, 0, tzinfo=MADRID)
+        c = [(1, d, "Real Betis", "Sevilla"), (3, d, "Trival Valderas", "Leganes")]
+        r = lambda t: [(x["mercado"], x["opcion"], x["cuota"]) for x in T.analizar_post("X", {"id": "a", "texto": t}, c)]
+        self.assertEqual(r("🍀 Betis o empate @1,45"), [("Double Chance", "Home/Draw", 1.45)])
+        self.assertEqual(r("🍀 Betis marca 2 o más @1,60"), [("Total - Home", "Over 1.5", 1.6)])
+        self.assertEqual(r("🍀 Sevilla marca @1,40"), [("Total - Away", "Over 0.5", 1.4)])
+        self.assertEqual(r("🍀 +2.5 Trival Valderas - Lega"), [("Goals Over/Under", "Over 2.5", None)])
+        self.assertEqual(r("🍀 Leganés gana y Jaén marca"), [])   # varias cosas juntas: para Claude
+        self.assertEqual(r("➡️DEVIN BOOKER 25+PUNTOS\n📊CUOTA 1.71"), [])   # baloncesto

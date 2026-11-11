@@ -15,6 +15,13 @@
    "unidades": -1.5,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.281
+  },
+  "INSIDER": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "mercado": {
@@ -56,6 +63,13 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.625
+  },
+  "Goals Over/Under Over 2.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
@@ -111,6 +125,13 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.625
+  },
+  "—": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
@@ -148,6 +169,13 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "sin razón": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "goles": {
    "n": 2,
    "verdes": 0,
@@ -164,13 +192,6 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "sin razón": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "categoría": {
    "n": 1,
    "verdes": 0,
@@ -181,9 +202,9 @@
  },
  "cuota": {
   "?": {
-   "n": 4,
+   "n": 5,
    "verdes": 3,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -206,9 +227,9 @@
  },
  "liga": {
   "?": {
-   "n": 5,
+   "n": 6,
    "verdes": 3,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
    "unidades": -0.5,
    "resueltos_con_cuota": 1,
@@ -249,13 +270,20 @@
    "unidades": -0.5,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.656
+  },
+  "partido": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "por_que": {
   "—": {
-   "n": 7,
+   "n": 8,
    "verdes": 3,
-   "rojos": 3,
+   "rojos": 4,
    "nulos": 0,
    "unidades": -1.5,
    "resueltos_con_cuota": 2,
@@ -264,9 +292,9 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 7,
+   "n": 8,
    "verdes": 3,
-   "rojos": 3,
+   "rojos": 4,
    "nulos": 0,
    "unidades": -1.5,
    "resueltos_con_cuota": 2,
