@@ -76,7 +76,7 @@ def lista(picks):
 VERDE = "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
 FORMATO_27 = True          # el formato del martes 27/10 (combis_dia.py)
 FORMATO_27_DESDE = "2026-10-28"   # poner "9999" para volver al de antes
-GANADORES_ACTIVO = True
+GANADORES_ACTIVO = False   # 11/11 (Marcos): quitado; ya están los «Partidos de hoy» con escudos (ganadores_win.py)
 DATOS_ACTIVO = False       # posts de fútbol sin apuesta (datos_futbol.py): quitados por Marcos el 27/10    # «quién gana hoy» (activado por Marcos el 27/10)   # el cierre de los posts con más likes
 
 

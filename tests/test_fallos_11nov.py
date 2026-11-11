@@ -146,6 +146,9 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertEqual(llamadas[1], ("copa", (1.5, 1.7)))
         self.assertTrue(C.pick_de_copa(pools, dt(2026, 11, 12, 10, 30, tzinfo=MADRID), rango=(1.5, 1.7)) is None)
 
+    def test_sin_quien_gana_antiguo(self):
+        self.assertFalse(plantillas.GANADORES_ACTIVO)   # Marcos 11/11: solo los «Partidos de hoy» con escudos
+
 
 if __name__ == "__main__":
     unittest.main()
