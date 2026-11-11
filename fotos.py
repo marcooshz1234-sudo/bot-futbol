@@ -114,6 +114,38 @@ def partido(p):
                         pass
                     t.setdefault("liga", (pa.get("league") or {}).get("name"))
                     break
+    if fid and not (t.get("local") and t.get("visitante")):
+        # 11/11: los verdes salen cuando el partido ya terminó y ya no está en proximos → se busca en lo jugado
+        for f in (RAIZ / "datos" / "partidos" / f"{fid}.json", RAIZ / "datos" / "en_directo" / f"{fid}.json"):
+            if not f.exists():
+                continue
+            try:
+                pa = json.loads(f.read_text(encoding="utf-8"))
+                h, a = pa["local"], pa["visitante"]
+            except Exception:
+                continue
+            base = "https://media.api-sports.io/football/teams/{}.png"
+            t.setdefault("local", h.get("nombre"))
+            t.setdefault("visitante", a.get("nombre"))
+            t.setdefault("id_l", h.get("id"))
+            t.setdefault("id_v", a.get("id"))
+            t.setdefault("logo_l", base.format(h.get("id")))
+            t.setdefault("logo_v", base.format(a.get("id")))
+            if pa.get("estado") in ("FT", "AET", "PEN"):
+                t.setdefault("marcador", pa.get("goles_90") or pa.get("goles"))
+            try:
+                t.setdefault("fecha", datetime.fromisoformat(pa["fecha"]).astimezone(MADRID).strftime("%Y-%m-%dT%H:%M"))
+            except Exception:
+                pass
+            for c in (RAIZ / "datos").glob("calendario_*.json"):
+                try:
+                    x = next((x for x in json.loads(c.read_text(encoding="utf-8")) if str(x["fixture"]["id"]) == str(fid)), None)
+                except Exception:
+                    x = None
+                if x:
+                    t.setdefault("liga", x["league"].get("name"))
+                    break
+            break
     if not (t.get("local") and t.get("visitante")):
         return None
     return t
@@ -286,8 +318,10 @@ def _cajas(datos):
 
 def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350):
     """Acierto de UN partido: escudos, marcador final, el pick con su cuota y el sello ✓ ACERTADO (Verde B + sello C)."""
-    pk = mayus(pata.get("texto", ""))
-    fin = _marcador(pata)
+    # 11/11: los escudos ya dicen el partido → fuera el «en Local–Visitante» del texto del pick
+    pk = re.sub(r"\s+(?:en|del?)\s+[^–-]+\s*[–-]\s*.+$", "", pata.get("texto", "")).strip() or pata.get("texto", "")
+    pk = mayus(pk)
+    fin = _marcador(pata) or _marcador(t)
     centro = (f'<div style="display:flex;flex-direction:column;align-items:center;gap:10px">'
               f'<span style="font-weight:800;font-style:italic;font-size:30px;letter-spacing:4px;color:#c9d4ff">FINAL</span>'
               f'<span class="pastilla" style="height:136px;width:250px;font-size:96px">{e(fin)}</span></div>') if fin else \
