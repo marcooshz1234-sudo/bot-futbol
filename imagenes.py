@@ -69,7 +69,8 @@ def partes(texto):
     for f in filas[1:]:
         if not f or f.startswith(("🔞", "🍀 ¿LA", "¡Combina", "🔔")):
             continue
-        if f.startswith(("🎉 Esta es por diversión", "🧠 Esta va con cabeza")):   # 11/11: la etiqueta, debajo del título
+        from plantillas import ES_ETIQUETA
+        if f.startswith(ES_ETIQUETA):   # 11/11: la etiqueta, debajo del título
             sub = sub or f
         elif f.startswith("💥 COMBI DEL PARTIDO"):
             sub = f

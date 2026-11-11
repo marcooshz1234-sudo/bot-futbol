@@ -22,6 +22,18 @@ MARGEN = timedelta(minutes=35)
 ESPERA = timedelta(minutes=20)
 
 
+ABRE_PICK = ["Otro pick que nos gusta mucho familia 🔥", "Vamos con otro pick, familia 👇", "Este nos encanta para hoy 🔥",
+             "Os dejo otro pick que pinta muy bien 👀", "Pick que no podía faltar hoy ⚽"]
+ABRE_COMBI = ["Combinada que nos gusta mucho familia 🔥", "Vamos con una combinada cortita 👇",
+              "Os dejo una combinada que pinta bien 👀", "Combinada para hoy, con cabeza ⚽"]
+
+
+def abrir(lista, semilla):
+    """11/11 (Marcos: «no quiero un canal repetitivo»): la primera frase cambia de un post a otro."""
+    import hashlib
+    return lista[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(lista)]
+
+
 def coma(c):
     return f"{float(c):.2f}".replace(".", ",")
 
@@ -55,14 +67,15 @@ def stake(pk):
 
 
 def post_suelto(pk, ini, ahora, n):
-    from plantillas import ETIQUETA_CABEZA
+    from plantillas import etiqueta
     arg = next((a for a in pk.get("argumento") or [] if len(a) > 25), None)
     try:
         from combis_dia import nombre_es
     except Exception:
         nombre_es = str
     dia = "hoy" if ini.date() == ahora.date() else "mañana" if (ini.date() - ahora.date()).days == 1 else f"{ini:%d/%m}"
-    lineas = ["Otro pick que nos gusta mucho familia 🔥", ETIQUETA_CABEZA, "", texto_pata(pk), "",
+    et = etiqueta("cabeza", f"{pk['dia']}-pick-tip-{n}")   # 11/11: no siempre la misma etiqueta
+    lineas = [abrir(ABRE_PICK, f"{pk['dia']}-pick-tip-{n}")] + ([et] if et else []) + ["", texto_pata(pk), "",
               f"⚽ {nombre_es(pk['local'])} – {nombre_es(pk['visitante'])} · {dia} {ini:%H:%M}"]
     if arg:
         lineas += ["", f"👨‍💻 {arg}"]
@@ -75,12 +88,13 @@ def post_suelto(pk, ini, ahora, n):
 
 
 def post_combi(patas, ahora, n):
-    from plantillas import ETIQUETA_CABEZA
+    from plantillas import etiqueta
     patas = sorted(patas, key=lambda x: x["_ini"])   # Marcos: siempre por hora
     total = 1.0
     for p in patas:
         total *= float(p["cuota"]) if p.get("cuota") else 1
-    lineas = ["Combinada que nos gusta mucho familia 🔥", ETIQUETA_CABEZA, ""] + [texto_pata(p) for p in patas]
+    et = etiqueta("cabeza", f"{patas[0]['dia']}-combi-tip-{n}")
+    lineas = [abrir(ABRE_COMBI, f"{patas[0]['dia']}-combi-tip-{n}")] + ([et] if et else []) + [""] + [texto_pata(p) for p in patas]
     if all(p.get("cuota") for p in patas):
         lineas += ["", f"📈 Cuota @{coma(total)}"]
     lineas += ["", f"Stake {min(stake(patas[0]), 2)}/10"]

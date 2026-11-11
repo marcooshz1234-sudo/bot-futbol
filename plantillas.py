@@ -447,19 +447,48 @@ DIVERSION = ("combi-loca", "combi-partido", "estrella", "combi-multi", "lista-eu
 CON_CABEZA = ("pick-seguro", "combi-tres", "escalera", "combi-segura", "combi-doble", "combi-cuota_3")
 ETIQUETA_DIVERSION = "🎉 Esta es por diversión: stake mínimo 🤏"
 ETIQUETA_CABEZA = "🧠 Esta va con cabeza: analizada"
+# 11/11 15:16 (Marcos: «eres muy repetitivo, no pongas "esta va con cabeza" en todas; a veces sí, a veces otra cosa,
+# con datos, lo que sea, pero no siempre lo mismo»): la etiqueta cambia y no siempre sale.
+ETIQUETAS_CABEZA = [
+    ETIQUETA_CABEZA,
+    "📊 Con datos detrás, nada de corazonadas",
+    "🔎 Mirada a fondo: forma, bajas y cuotas",
+    "📈 De las que hemos estudiado bien",
+    "🧠 Pensada con calma, sin prisas",
+    "📋 Números en la mano antes de meterla",
+]
+ETIQUETAS_DIVERSION = [
+    ETIQUETA_DIVERSION,
+    "🤪 Para soñar un poco: con poquito dinero",
+    "🎲 De las locas: stake bajito 🤏",
+    "🍿 Para darle emoción al día, con calma en el stake",
+    "🎢 Cuota grande, stake pequeño 🤏",
+]
+SIN_ETIQUETA = {"cabeza": 0.5, "diversion": 0.25}   # la mitad de las «con cabeza» y 1 de cada 4 «por diversión», sin etiqueta
+ES_ETIQUETA = tuple(x.split(":")[0][:14] for x in ETIQUETAS_CABEZA + ETIQUETAS_DIVERSION)
 
 
-def etiquetar(tipo, texto):
-    """Segunda línea del post: si es para ganar (con cabeza) o para echarse unas risas (diversión)."""
-    if ETIQUETA_DIVERSION in texto or ETIQUETA_CABEZA in texto:
-        return texto
-    if tipo.startswith(DIVERSION):
-        et = ETIQUETA_DIVERSION
-    elif tipo.startswith(CON_CABEZA):
-        et = ETIQUETA_CABEZA
-    else:
-        return texto
+def etiqueta(clase, semilla):
+    """La etiqueta de este post (o None): siempre la misma para el mismo post, distinta entre posts."""
+    import hashlib
+    h = int(hashlib.sha1(str(semilla).encode()).hexdigest(), 16)
+    if (h % 1000) / 1000 < SIN_ETIQUETA[clase]:
+        return None
+    lista = ETIQUETAS_CABEZA if clase == "cabeza" else ETIQUETAS_DIVERSION
+    return lista[(h // 1000) % len(lista)]
+
+
+def etiquetar(tipo, texto, semilla=None):
+    """Segunda línea del post: si es para ganar (con cabeza) o para echarse unas risas (diversión). Varía y a veces no va."""
     primera, _, resto = texto.partition("\n")
+    if resto.lstrip().startswith(ES_ETIQUETA):
+        return texto
+    clase = "diversion" if tipo.startswith(DIVERSION) else "cabeza" if tipo.startswith(CON_CABEZA) else None
+    if not clase:
+        return texto
+    et = etiqueta(clase, semilla or f"{tipo}|{primera}")
+    if not et:
+        return texto
     return f"{primera}\n{et}\n{resto}" if resto else f"{primera}\n{et}"
 
 
@@ -723,7 +752,7 @@ def posts_del_dia(dia, d):
         if picks and not espera:
             primero = min(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) for p in picks)
             hora = min(hora, primero - (timedelta(minutes=50) if tipo == "combi-partido" else MARGEN_ANTES_PARTIDO))
-        texto = etiquetar(tipo, texto)
+        texto = etiquetar(tipo, texto, f"{dia}-{tipo}")
         if tipo in POSTS_LISTA:   # 31/10 (Marcos): no hace falta coger todos los picks
             texto = texto.rstrip() + "\n\n" + LINEA_LISTA
         salida.append({"id": f"{dia}-{tipo}", "fecha": hora.strftime("%Y-%m-%dT%H:%M"),

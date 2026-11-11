@@ -45,11 +45,15 @@ class TestSharp(unittest.TestCase):
 
 class TestEtiquetas(unittest.TestCase):
     def test_etiquetas(self):
-        self.assertIn(plantillas.ETIQUETA_DIVERSION, plantillas.etiquetar("combi-loca", "Hola\n\n🍀 a"))
-        self.assertIn(plantillas.ETIQUETA_CABEZA, plantillas.etiquetar("pick-seguro", "Hola\n\n🍀 a"))
+        # 11/11: la etiqueta varía y a veces no va
+        vistas = {plantillas.etiquetar("pick-seguro", "Hola\n\n🍀 a", f"d{i}").split("\n")[1] for i in range(60)}
+        self.assertIn("", vistas)
+        self.assertGreater(len(vistas & set(plantillas.ETIQUETAS_CABEZA)), 3)
+        locas = [plantillas.etiquetar("combi-loca", "Hola\n\n🍀 a", f"d{i}").split("\n")[1] for i in range(60)]
+        self.assertTrue(set(locas) - {""} <= set(plantillas.ETIQUETAS_DIVERSION))
         self.assertEqual(plantillas.etiquetar("ganadores-win", "Hola"), "Hola")
-        t = plantillas.etiquetar("combi-tres", "Hola\n\n🍀 a")
-        self.assertEqual(plantillas.etiquetar("combi-tres", t), t)
+        t = plantillas.etiquetar("combi-tres", "Hola\n\n🍀 a", "x1")
+        self.assertEqual(plantillas.etiquetar("combi-tres", t, "x2"), t)
 
 
 class TestTipsters(unittest.TestCase):
