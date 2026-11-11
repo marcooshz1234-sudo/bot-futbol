@@ -184,6 +184,9 @@ def elegir_(dia, compartir, nivel=NIVELES[0], fecha=None):
 def resultado(pick):
     """True/False si el partido ya terminó, None si aún no."""
     p = leer(PARTIDOS / f"{pick['partido_id']}.json")
+    if not p or p.get("estado") not in ("FT", "AET", "PEN"):
+        # 11/11: partidos que el bot no guarda en datos/partidos (Copa con equipos pequeños): el del directo
+        p = leer(DATOS / "en_directo" / f"{pick['partido_id']}.json") or p
     if p and p.get("estado") in ("PST", "CANC", "ABD", "AWD", "WO"):
         return "anulada"   # 07/11: partido aplazado o suspendido: bet365 la anula
     if not p or p.get("estado") not in ("FT", "AET", "PEN"):
