@@ -36,7 +36,7 @@ assert.ok(vm.runInContext('vDirecto("terminados")', context).includes('EquipoEnJ
 assert.ok(html.includes('src="logo.png?v=cl4"'));
 const pub = fs.readFileSync('docs/publica/index.html','utf8');
 assert.ok(pub.includes('src="../logo.png?v=cl4"'));
-assert.ok(pub.includes('href="../icono-180.png?v=cl4"'));
+assert.ok(pub.includes('href="../icono-180.png?v=cl5"'));
 for (const dir of ['docs','docs/publica']) {
   const manifest=JSON.parse(fs.readFileSync(dir+'/manifest.json','utf8'));
   assert.ok(manifest.icons.some(i=>i.sizes==='192x192'));
