@@ -21,6 +21,28 @@
  },
  "top": [
   {
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "inicio": "2026-11-12T21:00",
+   "texto": "Empate en SL Benfica W–Austria Wien W",
+   "cuota": 4.33,
+   "justa": 3.13,
+   "ev": 0.382,
+   "fuente": "Pinnacle",
+   "edad_h": 2.0
+  },
+  {
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "inicio": "2026-11-12T21:00",
+   "texto": "Austria Wien W o empate",
+   "cuota": 2.38,
+   "justa": 2.19,
+   "ev": 0.087,
+   "fuente": "Pinnacle",
+   "edad_h": 2.0
+  },
+  {
    "local": "Barcelona W",
    "visitante": "Arsenal W",
    "inicio": "2026-11-12T18:45",
@@ -29,7 +51,7 @@
    "justa": 3.26,
    "ev": 0.075,
    "fuente": "las otras casas",
-   "edad_h": 6.6
+   "edad_h": 6.9
   },
   {
    "local": "San Marino",
@@ -40,7 +62,7 @@
    "justa": 3.07,
    "ev": 0.058,
    "fuente": "las otras casas",
-   "edad_h": 6.6
+   "edad_h": 6.9
   },
   {
    "local": "OH Leuven W",
@@ -51,7 +73,7 @@
    "justa": 3.16,
    "ev": 0.027,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Czechia",
@@ -62,7 +84,7 @@
    "justa": 3.21,
    "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 6.6
+   "edad_h": 6.9
   },
   {
    "local": "Czechia",
@@ -73,7 +95,7 @@
    "justa": 3.22,
    "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 6.6
+   "edad_h": 6.9
   },
   {
    "local": "Italy",
@@ -84,35 +106,27 @@
    "justa": 3.0,
    "ev": 0.0,
    "fuente": "las otras casas",
-   "edad_h": 6.6
-  },
-  {
-   "local": "OH Leuven W",
-   "visitante": "Køge W",
-   "inicio": "2026-11-11T18:45",
-   "texto": "Køge W marca 2 o más",
-   "cuota": 1.67,
-   "justa": 1.69,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "OH Leuven W",
-   "visitante": "Køge W",
-   "inicio": "2026-11-11T18:45",
-   "texto": "Gana el Køge W",
-   "cuota": 1.65,
-   "justa": 1.67,
-   "ev": -0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 6.9
   }
  ],
  "ultima": {
-  "hora": "2026-11-11T14:54",
-  "revisadas": 0,
-  "mejor": null
+  "hora": "2026-11-11T15:16",
+  "revisadas": 2,
+  "mejor": {
+   "partido_id": 1638339,
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "inicio": "2026-11-12T21:00",
+   "liga": "UEFA Champions League Women",
+   "mercado": "Match Winner",
+   "opcion": "Draw",
+   "cuota": 4.33,
+   "justa": 3.13,
+   "ev": 0.382,
+   "fuente": "Pinnacle",
+   "edad_h": 2.0,
+   "texto": "Empate en SL Benfica W–Austria Wien W"
+  }
  },
  "historial": [
   {

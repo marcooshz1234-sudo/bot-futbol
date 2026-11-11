@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 15:05",
+ "actualizado": "2026-11-11 15:16",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2632,
-   "hoy": 39,
+   "seguidores": 2631,
+   "hoy": 38,
    "serie": [
     1906,
     2004,
@@ -24,7 +24,7 @@
     2231,
     2359,
     2593,
-    2632
+    2631
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3051,
- "total_hoy": 43,
+ "total": 3050,
+ "total_hoy": 42,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:15",
-  "dia": "2026-11-11",
-  "titulo": "Reto escalera · día 2/7"
+  "hora": "00:00",
+  "dia": "2026-11-12",
+  "titulo": "Nations league - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -183,14 +183,19 @@
   },
   "2026-11-11": {
    "instagram": 37,
-   "threads": 2632,
+   "threads": 2631,
    "facebook": 1,
    "telegram": 381
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 8,
+   "posts": 7,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -201,11 +206,6 @@
   },
   "Otros": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
