@@ -41,6 +41,11 @@ def mayus(t):
 
 def equipo(t):
     """Nombre de equipo para las fotos: en mayúsculas y abreviado si es muy largo (MAN. CITY (FEM.))."""
+    try:   # 11/11: en español (Spain → ESPAÑA, Czechia → CHEQUIA)
+        from combis_dia import nombre_es
+        t = nombre_es(t.replace(" (fem.)", "").replace(" W", "")) + (" (fem.)" if t.endswith((" W", "(fem.)")) else "")
+    except Exception:
+        pass
     n = mayus(t)
     for largo, corto in CORTOS.items():
         n = n.replace(largo, corto)
@@ -310,7 +315,10 @@ def pick_del_dia(p, w=1080, h=1350):
     liga = mayus(t.get("liga") or "")
     info = " · ".join(x for x in (cuando(t, p.get("fecha", "")), liga) if x)
     if CL:
-        return _pick_cl(t, mayus(pick), cuota, stake, razon, info, w, h)
+        # 11/11: los copiados de tipsters no son «el pick del día» (ese es solo el de las 10:30/18:00)
+        titulo = "PICK DEL DÍA" if "-tip-" not in p.get("id", "") else (
+            "PICK DE HOY" if cuando(t, p.get("fecha", "")).startswith("HOY") else "PICK DE MAÑANA")
+        return _pick_cl(t, mayus(pick), cuota, stake, razon, info, w, h, titulo)
     pk = mayus(pick)
     razon_html = (f'<div style="margin-top:26px;width:900px;font-weight:600;font-size:34px;line-height:1.25;'
                   f'text-align:center;color:#f3e3b0;text-shadow:0 2px 8px #000">{e(fem(razon))}</div>') if razon and len(razon) < 170 else ""
@@ -331,7 +339,7 @@ def pick_del_dia(p, w=1080, h=1350):
     return _html(cuerpo, w, h)
 
 
-def _pick_cl(t, pk, cuota, stake, razon, info, w, h):
+def _pick_cl(t, pk, cuota, stake, razon, info, w, h, titulo="PICK DEL DÍA"):
     """Pick del día con el estilo CL (como el de ChatGPT de Marcos, 11/11)."""
     vertical = h > 1500
     razon_html = (f'<div style="margin-top:28px;width:900px;display:flex;gap:18px;align-items:flex-start;justify-content:center">'
@@ -340,7 +348,7 @@ def _pick_cl(t, pk, cuota, stake, razon, info, w, h):
                   ) if razon and len(razon) < 170 else ""
     cuerpo = (
         f'<div style="margin-top:{90 if vertical else 30}px">{logo_img(230 if vertical else 190)}</div>'
-        f'<div style="margin-top:4px">{_cinta("PICK DEL DÍA", 84)}</div>'
+        f'<div style="margin-top:4px">{_cinta(titulo, 84)}</div>'
         f'<div style="margin-top:{70 if vertical else 30}px">{_vs(t, 270 if vertical else 220, 50)}</div>'
         f'<div style="margin-top:28px;display:flex;align-items:center;gap:18px">{ICONO["cal"]}'
         f'<span class="b3d" style="font-size:38px;letter-spacing:1px">{e(info)}</span></div>'
