@@ -60,12 +60,12 @@ def candidatos(dia, minimo=None, excluir=()):
 
 
 # 11/11 05:26 (Marcos): varios «Partidos de hoy» por día, cada uno de UNA competición con su logo cuando se pueda.
-# LaLiga fija siempre que haya (la primera, a las 00:00); Champions, Europa League, Conference (y Nations League,
+# LaLiga y Premier fijas siempre que haya (00:00 y 01:00, Marcos 05:31); Champions, Europa League, Conference (y Nations League,
 # Copa del Rey, Champions femenina) siempre que haya; luego las otras grandes, que van rotando de hora cada día; al
 # final, «el resto» mezclado. Cada una a su hora (00:00, 01:00, 02:00, 09:00…), como mucho 10 filas.
-FIJAS = (("laliga", {140}, 3), ("champions", {2}, 3), ("europa", {3}, 3), ("conference", {848}, 3), ("nations", {5}, 3),
+FIJAS = (("laliga", {140}, 3), ("premier", {39}, 3), ("champions", {2}, 3), ("europa", {3}, 3), ("conference", {848}, 3), ("nations", {5}, 3),
          ("copa", {143}, 3), ("champions-fem", {525}, 3))
-ROTAN = (("premier", {39}, 4), ("seriea", {135}, 4), ("bundesliga", {78}, 4), ("ligue1", {61}, 4))
+ROTAN = (("seriea", {135}, 4), ("bundesliga", {78}, 4), ("ligue1", {61}, 4))
 HORAS = ((0, 0), (1, 0), (2, 0), (9, 0), (10, 0), (11, 0), (12, 0), (13, 0))
 MAX_FILAS = 10
 
@@ -79,7 +79,7 @@ def grupos(dia, excluir=()):
     salida, usados = [], set()
     for clave, ligas, minimo in FIJAS + tuple(rot):
         sel = [x for x in c if x["liga"] in ligas]
-        if clave == "laliga" and len(sel) < minimo:   # LaLiga, fija: se baja un poco el listón antes de no sacarla
+        if clave in ("laliga", "premier") and len(sel) < minimo:   # LaLiga y Premier, fijas: se baja un poco el listón
             sel = [x for x in candidatos(dia, 0.45, excluir) if x["liga"] in ligas]
         if len(sel) >= minimo:
             salida.append((clave, sel))
