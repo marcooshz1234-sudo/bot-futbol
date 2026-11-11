@@ -100,6 +100,7 @@ def post_suelto(pk, ini, ahora, n):
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
             "sel": [f"{pk['partido_id']}|{pk.get('mercado')}|{pk.get('opcion')}"] if pk.get("partido_id") else [],
+            "cuotas": [pk.get("cuota")] if pk.get("partido_id") and pk.get("cuota") else [],   # sin cuotas la app no lo corrige
             "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 
@@ -118,6 +119,7 @@ def post_combi(patas, ahora, n):
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
             "sel": [f"{p['partido_id']}|{p.get('mercado')}|{p.get('opcion')}" for p in patas if p.get("partido_id")],
+            "cuotas": [p.get("cuota") for p in patas if p.get("partido_id")] if all(p.get("cuota") for p in patas) else [],
             "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 

@@ -30,6 +30,9 @@ class TestCopiarTipsters(unittest.TestCase):
                 self.assertIn("🍀 Gana España @1,50", n[0]["texto"])
                 self.assertIn("Cuota @1,82", n[1]["texto"])
                 self.assertNotIn("Pérez", n[0]["texto"] + n[1]["texto"])
+                # 11/11: con sel y cuotas de la misma longitud, para que la app y los verdes los corrijan
+                for p in n:
+                    self.assertEqual(len(p["sel"]), len(p["cuotas"]))
                 self.assertEqual(C.main(datetime(2026, 11, 11, 8, 5, tzinfo=MADRID)), [])   # no se repite
 
     def test_empezado_no(self):
