@@ -680,5 +680,9 @@
   "2026-11-11-pick-seguro": {
     "enviado": "2026-11-11T10:30",
     "mensaje_id": 396
+  },
+  "2026-11-11-escalera": {
+    "enviado": "2026-11-11T11:00",
+    "mensaje_id": 397
   }
 }
