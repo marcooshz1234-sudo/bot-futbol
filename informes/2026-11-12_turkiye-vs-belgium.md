@@ -1,10 +1,10 @@
 # Türkiye – Belgium
 **Nations League** · League A - 5 · 12/11/2026 18:00 (hora España) · Gürsel Aksel Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 02:09_
+_Actualizadas: 11/11 08:20_
 
 - **1X2:** 1 **3.80**  ·  X **4.00**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.22**  ·  X2 **1.28**

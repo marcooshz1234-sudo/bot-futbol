@@ -1,7 +1,7 @@
 # Cyprus – Montenegro
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

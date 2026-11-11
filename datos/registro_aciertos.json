@@ -12771,5 +12771,27 @@
   "ventaja": 0.015,
   "prob_aprendida": 0.752,
   "acierto": null
+ },
+ "1608362|Both Teams Score|Yes": {
+  "partido_id": 1608362,
+  "fecha": "2026-11-14T14:30",
+  "competicion": "Serie C",
+  "local": "Arzignano Valchiampo",
+  "visitante": "Alcione",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "tipo": "goles",
+  "texto": "Ambos marcan en Arzignano Valchiampo–Alcione",
+  "cuota": 1.73,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.011,
+  "movimiento": null,
+  "ventaja": 0.172,
+  "prob_aprendida": 0.589,
+  "acierto": null
  }
 }

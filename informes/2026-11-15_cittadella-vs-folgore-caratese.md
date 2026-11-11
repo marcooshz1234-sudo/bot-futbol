@@ -1,10 +1,44 @@
 # Cittadella – Folgore Caratese
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 08:21_
+
+- **1X2:** 1 **1.40**  ·  X **4.00**  ·  2 **6.50**
+- **Doble oportunidad:** 1X **1.07**  ·  12 **1.17**  ·  X2 **2.60**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **Goles más/menos:**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.00** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **5.50**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **5.50** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **5.50** · menos **1.12**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.25**  ·  2 **7.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **1.25**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **11.00**
+- **Win Both Halves:** 1 **3.50**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **6.50**  ·  Away/Yes **15.00**  ·  Home/No **2.10**  ·  Draw/No **10.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Cittadella (total) | Cittadella en casa | Folgore Caratese (total) | Folgore Caratese fuera |
@@ -96,4 +130,35 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,99 · visitante 0,33._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 5% | 14% | 9% | 6.50 | -39% |
+| 1X2: X | 17% | 22% | 20% | 4.00 | -20% |
+| 1X2: 1 | 77% | 64% | 71% | 1.40 | -1% |
+| Doble oportunidad: X2 | 23% | 35% | 29% | 2.60 | -25% |
+| Doble oportunidad: 12 | 83% | 79% | 81% | 1.17 | -6% |
+| Doble oportunidad: 1X | 95% | 86% | 90% | 1.07 | -3% |
+| Ambos marcan: No | 76% | 58% | 67% | 1.62 | +8% |
+| Ambos marcan: Sí | 24% | 42% | 33% | 2.20 | -27% |
+| Goles más/menos: Más de 1.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles más/menos: Más de 2.5 | 41% | 49% | 45% | 1.95 | -13% |
+| Goles más/menos: Más de 3.5 | 20% | 28% | 24% | 3.40 | -18% |
+| Goles más/menos: Menos de 1.5 | 33% | 27% | 30% | 3.50 | +4% |
+| Goles más/menos: Menos de 2.5 | 59% | 51% | 55% | 1.85 | +2% |
+| Goles más/menos: Menos de 3.5 | 80% | 72% | 76% | 1.30 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 30% | 2.75 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -2% |
+| Goles del local: Más de 1.5 | 59% | 58% | 58% | 1.62 | -5% |
+| Goles del local: Más de 2.5 | 32% | 31% | 32% | 3.00 | -5% |
+| Goles del local: Menos de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
+| Goles del local: Menos de 2.5 | 68% | 69% | 68% | 1.36 | -7% |
+| Goles del visitante: Más de 0.5 | 28% | 49% | 38% | 1.91 | -27% |
+| Goles del visitante: Menos de 0.5 | 72% | 51% | 62% | 1.80 | +11% |
+| 1X2 descanso: X | 41% | 40% | 41% | 2.25 | -9% |
+| 1X2 descanso: 1 | 53% | 47% | 50% | 1.91 | -4% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,12 +1,12 @@
 # Czechia – Spain
 **Nations League** · League A - 5 · 12/11/2026 20:45 (hora España) · Stadion Letná
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 02:09_
+_Actualizadas: 11/11 08:20_
 
-- **1X2:** 1 **12.00**  ·  X **7.50**  ·  2 **1.20**
+- **1X2:** 1 **13.00**  ·  X **8.00**  ·  2 **1.18**
 - **Doble oportunidad:** 1X **4.33**  ·  12 **1.10**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**

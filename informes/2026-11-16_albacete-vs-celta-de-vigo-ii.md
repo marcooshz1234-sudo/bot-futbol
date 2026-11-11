@@ -1,10 +1,59 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Estadio Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 08:21_
+
+- **1X2:** 1 **1.65**  ·  X **3.75**  ·  2 **5.00**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.30**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9,5: más **1.82** · menos **1.98**
+- **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.40**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.40**  ·  2 **4.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.33**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **5.50**
+- **Win Both Halves:** 1 **4.00**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **3.20**  ·  Draw/Yes **4.50**  ·  Away/Yes **9.00**  ·  Home/No **3.25**  ·  Draw/No **13.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
+- **Home Player Shots:** Diego Rodriguez - 2 **1.40**  ·  Diego Rodriguez - 3 **2.10**  ·  Diego Rodriguez - 4 **3.75**  ·  Diego Rodriguez - 5 **7.00**  ·  Diego Rodriguez - 6 **15.00**  ·  Agustin Medina - 1 **1.01**  ·  Agustin Medina - 2 **1.11**  ·  Agustin Medina - 3 **1.36**  ·  Agustin Medina - 4 **1.83**  ·  Agustin Medina - 5 **2.75**  ·  Mario Soberon - 1 **1.01**  ·  Samuel Obeng - 1 **1.01**  ·  Antonio Puertas - 1 **1.01**  ·  Fabio Garcia-Moreno - 1 **1.01**  ·  Alex Rubio - 1 **1.02**  ·  Higinio Marin - 1 **1.02**  ·  Jose Corpas - 1 **1.01**  ·  Tomas Ingles - 1 **1.02**  ·  Roberto Gonzalez - 1 **1.02**  ·  Victor San Bartolome - 1 **1.04**  ·  Victor Valverde - 1 **1.03**  ·  Sergio Ortuno - 1 **1.06**  ·  Diego Rodriguez - 1 **1.08**  ·  Hugo Martinez Capi - 1 **1.14**  ·  Antonio Pacheco - 1 **1.18**  ·  Javi Villar - 1 **1.25**  ·  Antono Velilla - 1 **1.40**  ·  Fran Gamez - 1 **1.53**  ·  Carlos Neva - 1 **1.57**  ·  Marmol Lluis Lopez - 1 **1.62**  ·  Lorenzo Aguado - 1 **1.67**  ·  Daniel Bernabeu - 1 **2.00**  ·  Javier Moreno - 1 **2.00**  ·  Jesus Vallejo - 1 **2.00**  ·  Pepe Sanchez - 1 **2.00**  ·  Mario Soberon - 2 **1.07**  ·  Samuel Obeng - 2 **1.08**  ·  Antonio Puertas - 2 **1.08**  ·  Fabio Garcia-Moreno - 2 **1.10**  ·  Alex Rubio - 2 **1.12**  ·  Higinio Marin - 2 **1.12**  ·  Jose Corpas - 2 **1.11**  ·  Tomas Ingles - 2 **1.14**  ·  Roberto Gonzalez - 2 **1.14**  ·  Victor San Bartolome - 2 **1.25**  ·  Victor Valverde - 2 **1.20**  ·  Sergio Ortuno - 2 **1.33**  ·  Hugo Martinez Capi - 2 **1.62**  ·  Antonio Pacheco - 2 **1.80**  ·  Javi Villar - 2 **2.10**  ·  Antono Velilla - 2 **2.62**  ·  Fran Gamez - 2 **3.40**  ·  Carlos Neva - 2 **3.40**  ·  Marmol Lluis Lopez - 2 **3.75**  ·  Lorenzo Aguado - 2 **4.00**  ·  Daniel Bernabeu - 2 **5.50**  ·  Javier Moreno - 2 **5.50**  ·  Jesus Vallejo - 2 **5.50**  ·  Pepe Sanchez - 2 **5.50**  ·  Mario Soberon - 3 **1.25**  ·  Samuel Obeng - 3 **1.28**  ·  Antonio Puertas - 3 **1.28**  ·  Fabio Garcia-Moreno - 3 **1.33**  ·  Alex Rubio - 3 **1.40**  ·  Higinio Marin - 3 **1.40**  ·  Jose Corpas - 3 **1.36**  ·  Tomas Ingles - 3 **1.50**  ·  Roberto Gonzalez - 3 **1.44**  ·  Victor San Bartolome - 3 **1.73**  ·  Victor Valverde - 3 **1.62**  ·  Sergio Ortuno - 3 **1.91**  ·  Hugo Martinez Capi - 3 **2.75**  ·  Antonio Pacheco - 3 **3.40**  ·  Javi Villar - 3 **4.33**  ·  Antono Velilla - 3 **6.00**  ·  Fran Gamez - 3 **9.00**  ·  Carlos Neva - 3 **9.00**  ·  Marmol Lluis Lopez - 3 **10.00**  ·  Lorenzo Aguado - 3 **11.00**  ·  Daniel Bernabeu - 3 **17.00**  ·  Javier Moreno - 3 **17.00**  ·  Jesus Vallejo - 3 **17.00**  ·  Pepe Sanchez - 3 **17.00**  ·  Mario Soberon - 4 **1.62**  ·  Samuel Obeng - 4 **1.67**  ·  Antonio Puertas - 4 **1.67**  ·  Fabio Garcia-Moreno - 4 **1.80**  ·  Alex Rubio - 4 **1.91**  ·  Higinio Marin - 4 **1.91**  ·  Jose Corpas - 4 **1.83**  ·  Tomas Ingles - 4 **2.10**  ·  Roberto Gonzalez - 4 **2.00**  ·  Victor San Bartolome - 4 **2.62**  ·  Victor Valverde - 4 **2.50**  ·  Sergio Ortuno - 4 **3.40**  ·  Hugo Martinez Capi - 4 **5.50**  ·  Antonio Pacheco - 4 **7.00**  ·  Javi Villar - 4 **10.00**  ·  Mario Soberon - 5 **2.38**  ·  Samuel Obeng - 5 **2.50**  ·  Antonio Puertas - 5 **2.50**  ·  Fabio Garcia-Moreno - 5 **2.62**  ·  Alex Rubio - 5 **3.00**  ·  Higinio Marin - 5 **3.00**  ·  Jose Corpas - 5 **2.75**  ·  Tomas Ingles - 5 **3.40**  ·  Roberto Gonzalez - 5 **3.40**  ·  Victor San Bartolome - 5 **4.50**  ·  Victor Valverde - 5 **4.00**  ·  Sergio Ortuno - 5 **6.00**  ·  Mario Soberon - 6 **3.75**  ·  Samuel Obeng - 6 **3.75**  ·  Antonio Puertas - 6 **3.75**  ·  Fabio Garcia-Moreno - 6 **4.33**  ·  Agustin Medina - 6 **4.50**  ·  Alex Rubio - 6 **5.00**  ·  Higinio Marin - 6 **5.00**  ·  Jose Corpas - 6 **4.50**  ·  Tomas Ingles - 6 **6.00**  ·  Roberto Gonzalez - 6 **5.50**  ·  Victor San Bartolome - 6 **9.00**  ·  Mario Soberon - 7 **6.00**  ·  Samuel Obeng - 7 **6.50**  ·  Antonio Puertas - 7 **6.50**  ·  Fabio Garcia-Moreno - 7 **8.00**  ·  Agustin Medina - 7 **8.00**  ·  Alex Rubio - 7 **9.00**  ·  Higinio Marin - 7 **10.00**  ·  Jose Corpas - 7 **8.00**  ·  Agustin Albarracin - 1 **1.02**  ·  Agustin Albarracin - 2 **1.14**  ·  Agustin Albarracin - 3 **1.44**  ·  Agustin Albarracin - 4 **2.00**  ·  Agustin Albarracin - 5 **3.40**  ·  El Haddadi Munir - 1 **1.02**  ·  El Haddadi Munir - 2 **1.14**  ·  El Haddadi Munir - 3 **1.50**  ·  El Haddadi Munir - 4 **2.10**  ·  Antono Velilla - 4 **15.00**  ·  El Haddadi Munir - 5 **3.40**  ·  Antonio Pacheco - 5 **15.00**  ·  Hugo Martinez Capi - 5 **13.00**  ·  Agustin Albarracin - 6 **5.50**  ·  El Haddadi Munir - 6 **6.00**  ·  Victor Valverde - 6 **8.00**  ·  Sergio Ortuno - 6 **13.00**  ·  Agustin Albarracin - 7 **11.00**  ·  El Haddadi Munir - 7 **11.00**  ·  Roberto Gonzalez - 7 **11.00**  ·  Tomas Ingles - 7 **11.00**  ·  Victor Valverde - 7 **15.00**  ·  Antonio Puertas - 8 **11.00**  ·  Mario Soberon - 8 **11.00**  ·  Samuel Obeng - 8 **11.00**  ·  Alex Rubio - 8 **17.00**  ·  Fabio Garcia-Moreno - 8 **15.00**  ·  Higinio Marin - 8 **17.00**  ·  Carlos Neva - 4 **21.00**  ·  Javi Villar - 5 **21.00**  ·  Agustin Medina - 8 **15.00**  ·  Jose Corpas - 8 **15.00**  ·  Victor San Bartolome - 7 **17.00**  ·  Agustin Albarracin - 8 **19.00**  ·  El Haddadi Munir - 8 **21.00**  ·  Samuel Obeng - 9 **21.00**  ·  Joaquin Domingo - 1 **1.40**  ·  Vicente Vidal - 1 **1.40**  ·  Joaquin Domingo - 2 **2.62**  ·  Vicente Vidal - 2 **2.62**  ·  Joaquin Domingo - 3 **6.00**  ·  Vicente Vidal - 3 **6.00**  ·  Joaquin Domingo - 4 **15.00**  ·  Vicente Vidal - 4 **15.00**  ·  Antonio Moreno - 1 **1.33**  ·  Antonio Moreno - 2 **2.38**  ·  Antonio Moreno - 3 **5.50**  ·  Antonio Moreno - 4 **13.00**  ·  Fran Gamez - 4 **21.00**  ·  Marmol Lluis Lopez - 4 **21.00**  ·  Antonio Moreno - 5 **21.00**  ·  Hugo Martinez Capi - 6 **21.00**  ·  Roberto Gonzalez - 8 **19.00**  ·  Tomas Ingles - 8 **21.00**  ·  Antonio Puertas - 9 **21.00**  ·  Mario Soberon - 9 **19.00**  ·  Sergio Ortuno - 7 **21.00**  ·  Fabio Garcia-Moreno - 9 **21.00**  ·  Victor Valverde - 8 **21.00**  ·  Agustin Medina - 9 **21.00**  ·  Jose Corpas - 9 **21.00**  ·  Antonio Pacheco - 6 **21.00**
+- **Away Player Shots:** Stefan Bajcetic - 1 **2.00**  ·  Stefan Bajcetic - 2 **5.50**  ·  Stefan Bajcetic - 3 **17.00**  ·  Angel Davila - 1 **1.07**  ·  Alvaro Marin - 1 **1.07**  ·  Hugo Lopez - 1 **1.07**  ·  Aldrine Kibet - 1 **1.25**  ·  Angel Arcos - 1 **1.14**  ·  Germain Milla - 1 **1.33**  ·  Hugo Cuenca - 1 **1.33**  ·  Oscar Marcos - 1 **1.12**  ·  Vladimir Silva - 1 **1.33**  ·  Adria Capdevila - 1 **1.67**  ·  Pablo Gavian - 1 **1.73**  ·  Jan Oliveras - 1 **2.00**  ·  Mateo Sobral - 1 **2.00**  ·  Alexis Olmedo - 1 **2.25**  ·  Anxo Rodriguez - 1 **2.25**  ·  Joel Lopez - 1 **2.25**  ·  Enrique Ribes - 1 **2.50**  ·  Pablo Meixus - 1 **2.50**  ·  Seyni Ndiaye - 1 **2.50**  ·  Angel Davila - 2 **1.36**  ·  Alvaro Marin - 2 **1.36**  ·  Hugo Lopez - 2 **1.36**  ·  Aldrine Kibet - 2 **2.10**  ·  Angel Arcos - 2 **1.67**  ·  Germain Milla - 2 **2.38**  ·  Hugo Cuenca - 2 **2.38**  ·  Oscar Marcos - 2 **1.57**  ·  Vladimir Silva - 2 **2.38**  ·  Adria Capdevila - 2 **4.00**  ·  Pablo Gavian - 2 **4.33**  ·  Jan Oliveras - 2 **5.50**  ·  Mateo Sobral - 2 **5.50**  ·  Alexis Olmedo - 2 **7.00**  ·  Anxo Rodriguez - 2 **7.00**  ·  Joel Lopez - 2 **8.00**  ·  Enrique Ribes - 2 **9.00**  ·  Pablo Meixus - 2 **9.00**  ·  Seyni Ndiaye - 2 **9.00**  ·  Angel Davila - 3 **2.00**  ·  Alvaro Marin - 3 **2.00**  ·  Hugo Lopez - 3 **2.10**  ·  Aldrine Kibet - 3 **4.33**  ·  Angel Arcos - 3 **2.75**  ·  Germain Milla - 3 **5.00**  ·  Hugo Cuenca - 3 **5.50**  ·  Oscar Marcos - 3 **2.62**  ·  Vladimir Silva - 3 **5.50**  ·  Adria Capdevila - 3 **11.00**  ·  Pablo Gavian - 3 **13.00**  ·  Jan Oliveras - 3 **17.00**  ·  Mateo Sobral - 3 **17.00**  ·  Alexis Olmedo - 3 **21.00**  ·  Anxo Rodriguez - 3 **21.00**  ·  Joel Lopez - 3 **21.00**  ·  Angel Davila - 4 **3.50**  ·  Alvaro Marin - 4 **3.50**  ·  Hugo Lopez - 4 **3.75**  ·  Aldrine Kibet - 4 **10.00**  ·  Angel Arcos - 4 **6.00**  ·  Germain Milla - 4 **13.00**  ·  Hugo Cuenca - 4 **13.00**  ·  Oscar Marcos - 4 **5.00**  ·  Vladimir Silva - 4 **13.00**  ·  Angel Davila - 5 **6.50**  ·  Alvaro Marin - 5 **6.50**  ·  Hugo Lopez - 5 **7.00**  ·  Aldrine Kibet - 5 **21.00**  ·  Angel Arcos - 5 **13.00**  ·  Angel Davila - 6 **13.00**  ·  Alvaro Marin - 6 **13.00**  ·  Hugo Lopez - 6 **15.00**  ·  Angel Davila - 7 **21.00**  ·  Alvaro Marin - 7 **21.00**  ·  Hugo Lopez - 7 **21.00**  ·  Germain Milla - 5 **21.00**  ·  Hugo Cuenca - 5 **21.00**  ·  Oscar Marcos - 5 **11.00**  ·  Enrique Ribes - 3 **21.00**  ·  Pablo Meixus - 3 **21.00**  ·  Seyni Ndiaye - 3 **21.00**  ·  Adria Capdevila - 4 **21.00**  ·  Pablo Gavian - 4 **21.00**  ·  Angel Arcos - 6 **21.00**  ·  Oscar Marcos - 6 **21.00**  ·  Noah Rodriguez - 1 **1.33**  ·  Jorge Perez-Lafuente Rey - 1 **1.50**  ·  David Sueiro - 1 **2.25**  ·  Noah Rodriguez - 2 **2.38**  ·  Jorge Perez-Lafuente Rey - 2 **3.25**  ·  David Sueiro - 2 **7.00**  ·  Noah Rodriguez - 3 **5.00**  ·  Jorge Perez-Lafuente Rey - 3 **8.00**  ·  David Sueiro - 3 **21.00**  ·  Noah Rodriguez - 4 **13.00**  ·  Jorge Perez-Lafuente Rey - 4 **21.00**  ·  Noah Rodriguez - 5 **21.00**  ·  Raul Chirveches - 1 **2.00**  ·  Raul Chirveches - 2 **5.50**  ·  Raul Chirveches - 3 **17.00**
+- **Anytime Goal Scorer:** Agustin Albarracin **2.88**  ·  Alexis Olmedo **13.00**  ·  Daniel Bernabeu **12.00**  ·  Mario Soberon **1.83**  ·  Marmol Lluis Lopez **10.00**  ·  Jose Corpas **2.88**  ·  Antonio Puertas **2.38**  ·  Sergio Ortuno **4.75**  ·  Fran Gamez **10.00**  ·  Higinio Marin **2.20**  ·  Agustin Medina **2.88**  ·  Antonio Pacheco **4.75**  ·  Javi Villar **5.50**  ·  Carlos Neva **9.00**  ·  Pablo Rodriguez **3.00**  ·  Victor Valverde **3.60**  ·  Antono Velilla **6.50**  ·  Hugo Lopez **3.50**  ·  Diego Rodriguez **3.60**  ·  Stefan Bajcetic **12.00**  ·  Roberto Gonzalez **2.88**  ·  Vicente Vidal **6.50**  ·  Jesus Vallejo **12.00**  ·  El Haddadi Munir **2.38**  ·  Angel Arcos **5.50**  ·  Jan Oliveras **12.00**  ·  Victor San Bartolome **2.88**  ·  Alex Rubio **2.20**  ·  Samuel Obeng **2.38**  ·  Fabio Garcia-Moreno **2.05**  ·  Joel Lopez **13.00**  ·  Angel Davila **3.40**  ·  Alvaro Marin **3.40**  ·  Aldrine Kibet **5.50**  ·  Oscar Marcos **4.75**  ·  Vladimir Silva **7.50**  ·  Adria Capdevila **9.00**  ·  Pablo Gavian **10.00**  ·  Anxo Rodriguez **13.00**  ·  Enrique Ribes **17.00**  ·  Pablo Meixus **17.00**  ·  Seyni Ndiaye **17.00**  ·  Tomas Ingles **2.38**  ·  Mateo Sobral **12.00**  ·  Germain Milla **6.00**  ·  Jorge Perez-Lafuente Rey **7.50**  ·  David Sueiro **13.00**  ·  Antonio Moreno **6.00**  ·  Noah Rodriguez **6.00**  ·  Raul Chirveches **12.00**  ·  Hugo Martinez Capi **4.33**  ·  Hugo Cuenca **6.00**  ·  Lorenzo Aguado **9.00**  ·  Pepe Sanchez **12.00**  ·  Joaquin Domingo **6.50**  ·  Javier Moreno **12.00**
+- **Player to Score or Assist:** Agustin Albarracin **2.20**  ·  Alexis Olmedo **9.50**  ·  Daniel Bernabeu **5.50**  ·  Mario Soberon **1.53**  ·  Marmol Lluis Lopez **6.00**  ·  Jose Corpas **1.67**  ·  Antonio Puertas **1.73**  ·  Sergio Ortuno **2.40**  ·  Fran Gamez **3.10**  ·  Higinio Marin **1.62**  ·  Agustin Medina **2.10**  ·  Antonio Pacheco **2.75**  ·  Javi Villar **2.75**  ·  Carlos Neva **3.20**  ·  Victor Valverde **2.10**  ·  Antono Velilla **4.33**  ·  Hugo Lopez **2.60**  ·  Diego Rodriguez **2.20**  ·  Stefan Bajcetic **6.50**  ·  Roberto Gonzalez **2.05**  ·  Vicente Vidal **4.33**  ·  Jesus Vallejo **6.50**  ·  El Haddadi Munir **1.80**  ·  Angel Arcos **3.60**  ·  Jan Oliveras **4.00**  ·  Victor San Bartolome **2.00**  ·  Alex Rubio **1.73**  ·  Samuel Obeng **1.80**  ·  Fabio Garcia-Moreno **1.62**  ·  Joel Lopez **6.50**  ·  Angel Davila **2.50**  ·  Alvaro Marin **2.75**  ·  Aldrine Kibet **3.25**  ·  Oscar Marcos **3.10**  ·  Vladimir Silva **4.00**  ·  Adria Capdevila **4.50**  ·  Pablo Gavian **5.00**  ·  Anxo Rodriguez **9.50**  ·  Enrique Ribes **11.00**  ·  Pablo Meixus **11.00**  ·  Seyni Ndiaye **11.00**  ·  Tomas Ingles **1.80**  ·  Mateo Sobral **5.00**  ·  Germain Milla **3.50**  ·  Jorge Perez-Lafuente Rey **4.00**  ·  David Sueiro **9.50**  ·  Antonio Moreno **2.88**  ·  Noah Rodriguez **3.50**  ·  Raul Chirveches **7.50**  ·  Hugo Martinez Capi **2.62**  ·  Hugo Cuenca **3.50**  ·  Lorenzo Aguado **3.10**  ·  Pepe Sanchez **5.50**  ·  Joaquin Domingo **2.88**  ·  Javier Moreno **6.50**
 
 ## Estadísticas de equipo
 | | Albacete (total) | Albacete en casa | Celta de Vigo II (total) | Celta de Vigo II fuera |
@@ -136,4 +185,41 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 1,60 · visitante 1,49 · córners esperados 9,9._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 36% | 19% | 27% | 5.00 | +36% |
+| 1X2: X | 24% | 25% | 24% | 3.75 | -9% |
+| 1X2: 1 | 40% | 56% | 48% | 1.65 | -20% |
+| Doble oportunidad: X2 | 60% | 42% | 51% | 2.30 | +17% |
+| Doble oportunidad: 12 | 76% | 75% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 64% | 83% | 73% | 1.17 | -14% |
+| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
+| Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
+| Goles más/menos: Más de 1.5 | 82% | 79% | 80% | 1.18 | -5% |
+| Goles más/menos: Más de 2.5 | 60% | 58% | 59% | 1.62 | -4% |
+| Goles más/menos: Más de 3.5 | 37% | 38% | 37% | 2.50 | -6% |
+| Goles más/menos: Más de 4.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 20% | 4.50 | -12% |
+| Goles más/menos: Menos de 2.5 | 40% | 42% | 41% | 2.25 | -8% |
+| Goles más/menos: Menos de 3.5 | 63% | 62% | 63% | 1.50 | -6% |
+| Goles más/menos: Menos de 4.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 39% | 39% | 2.38 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -7% |
+| Goles del local: Más de 1.5 | 48% | 59% | 53% | 1.57 | -16% |
+| Goles del local: Más de 2.5 | 22% | 34% | 28% | 2.75 | -24% |
+| Goles del local: Menos de 1.5 | 52% | 41% | 47% | 2.25 | +5% |
+| Goles del local: Menos de 2.5 | 78% | 66% | 72% | 1.40 | +1% |
+| Goles del visitante: Más de 0.5 | 78% | 65% | 71% | 1.44 | +2% |
+| Goles del visitante: Más de 1.5 | 44% | 29% | 37% | 3.25 | +19% |
+| Goles del visitante: Menos de 0.5 | 22% | 35% | 29% | 2.62 | -24% |
+| Goles del visitante: Menos de 1.5 | 56% | 71% | 63% | 1.33 | -16% |
+| Córners más/menos: Más de 9.5 | 48% | 52% | 50% | 1.82 | -9% |
+| Córners más/menos: Menos de 9.5 | 52% | 48% | 50% | 1.98 | -1% |
+| 1X2 descanso: X | 39% | 39% | 39% | 2.40 | -7% |
+| 1X2 descanso: 1 | 32% | 42% | 37% | 2.20 | -19% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

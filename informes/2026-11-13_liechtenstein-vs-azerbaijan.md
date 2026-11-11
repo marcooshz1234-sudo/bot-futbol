@@ -1,46 +1,46 @@
 # Liechtenstein – Azerbaijan
 **Nations League** · League D - 5 · 13/11/2026 20:45 (hora España) · Rheinpark Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 02:09_
+_Actualizadas: 11/11 08:20_
 
-- **1X2:** 1 **14.00**  ·  X **5.50**  ·  2 **1.22**
-- **Doble oportunidad:** 1X **3.75**  ·  12 **1.14**  ·  X2 **1.03**
-- **Ambos marcan:** Sí **3.00**  ·  No **1.36**
+- **1X2:** 1 **11.00**  ·  X **5.00**  ·  2 **1.28**
+- **Doble oportunidad:** 1X **3.50**  ·  12 **1.14**  ·  X2 **1.02**
+- **Ambos marcan:** Sí **3.25**  ·  No **1.33**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **8.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.08** · menos **1.73**
-    - 3,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.15** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **7.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **7.00** · menos **1.08**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **7.50** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **2.62** · menos **1.44**
     - 1,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.11** · menos **6.00**
+    - 0,5: más **1.12** · menos **5.50**
     - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.00** · menos **1.14**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **5.50** · menos **1.12**
     - 4,5: más **9.00** · menos **1.04**
-- **1X2 descanso:** 1 **11.00**  ·  X **2.25**  ·  2 **1.73**
+- **1X2 descanso:** 1 **12.00**  ·  X **2.20**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
-- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
-- **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
-- **To Win Either Half:** 1 **5.50**  ·  2 **1.18**
-- **To Score In Both Halves By Teams:** 1 **19.00**  ·  2 **2.25**
+- **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
+- **Both Teams To Score - Second Half:** Sí **6.50**  ·  No **1.11**
+- **To Win Either Half:** 1 **6.00**  ·  2 **1.20**
+- **To Score In Both Halves By Teams:** 1 **21.00**  ·  2 **2.38**
 - **Win Both Halves:** 1 **67.00**  ·  2 **3.00**
-- **Results/Both Teams Score:** Home/Yes **26.00**  ·  Draw/Yes **9.00**  ·  Away/Yes **4.50**  ·  Home/No **15.00**  ·  Draw/No **9.00**  ·  Away/No **1.67**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.75**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **1.91**
-- **Anytime Goal Scorer:** Jens Hofer **34.00**  ·  Villiam Pizzi **8.50**  ·  Fabio Luque-Notaro **8.00**  ·  Khayal Aliyev **4.75**  ·  Emil Mustafayev **4.00**  ·  Emin Mahmudov **2.75**  ·  Qismat Aliyev **8.50**  ·  Rahil Mammadov **12.00**  ·  Tural Bayramov **4.00**  ·  Luca Beck **21.00**  ·  Rahman Dashdamirov **11.00**  ·  Tellur Mutallimov **6.00**  ·  Dennis Salanovic **8.00**  ·  Elvin Badalov **12.00**  ·  Philipp Ospelt **8.50**  ·  Nicolas Hasler **13.00**  ·  Livio Meier **13.00**  ·  Aron Sele **17.00**  ·  Maximilian Goppel **29.00**  ·  Fabio Wolfinger **13.00**  ·  Niklas Beck **41.00**  ·  Andrin Netzer **11.00**  ·  Simon Luchinger **17.00**  ·  Liam Kranz **17.00**  ·  Emanuel Zund **13.00**  ·  Alessio Hasler **13.00**  ·  Marcel Buchel **13.00**  ·  Mahir Emreli **2.25**  ·  Anton Krivotsyuk **11.00**  ·  Abdulakh Khaybulaev **5.00**  ·  Musa Qurbanly **2.38**  ·  Farid Yusifli **8.50**  ·  Rufat Abbasov **8.50**  ·  Ferhat Saglam **8.50**  ·  Rufat Abdullazada **3.75**  ·  Murad Mammadov **4.00**  ·  Lorenzo Mezzotero **2.38**  ·  Alessandro Lo Russo **8.00**  ·  Bruno Poitner **8.50**  ·  Florian Allgauer **13.00**  ·  Manuel Mikus **13.00**  ·  Yonas Abidi **29.00**  ·  Oruc Mammadov **7.00**  ·  Namiq Alasgarov **4.00**  ·  Badavi Guseynov **11.00**  ·  Esqin Ahmadov **7.00**  ·  Nihad Ahmadzada **2.75**  ·  Samuel Cernadas **26.00**  ·  Aleksey Isayev **5.50**  ·  Andreas Malin **34.00**  ·  Severin Schlegel **17.00**
+- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **9.00**  ·  Away/Yes **4.75**  ·  Home/No **15.00**  ·  Draw/No **8.00**  ·  Away/No **1.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.00**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **1.91**
+- **Anytime Goal Scorer:** Jens Hofer **34.00**  ·  Villiam Pizzi **8.50**  ·  Fabio Luque-Notaro **8.00**  ·  Khayal Aliyev **4.75**  ·  Emil Mustafayev **4.33**  ·  Emin Mahmudov **2.75**  ·  Qismat Aliyev **8.50**  ·  Rahil Mammadov **12.00**  ·  Tural Bayramov **4.33**  ·  Luca Beck **21.00**  ·  Rahman Dashdamirov **11.00**  ·  Tellur Mutallimov **6.50**  ·  Dennis Salanovic **8.00**  ·  Elvin Badalov **12.00**  ·  Philipp Ospelt **8.50**  ·  Nicolas Hasler **15.00**  ·  Livio Meier **17.00**  ·  Aron Sele **17.00**  ·  Maximilian Goppel **29.00**  ·  Fabio Wolfinger **15.00**  ·  Niklas Beck **41.00**  ·  Andrin Netzer **11.00**  ·  Simon Luchinger **17.00**  ·  Liam Kranz **17.00**  ·  Emanuel Zund **15.00**  ·  Alessio Hasler **17.00**  ·  Marcel Buchel **15.00**  ·  Mahir Emreli **2.40**  ·  Anton Krivotsyuk **11.00**  ·  Abdulakh Khaybulaev **5.00**  ·  Musa Qurbanly **2.40**  ·  Farid Yusifli **8.50**  ·  Rufat Abbasov **8.50**  ·  Ferhat Saglam **8.50**  ·  Rufat Abdullazada **3.75**  ·  Murad Mammadov **4.33**  ·  Lorenzo Mezzotero **2.40**  ·  Alessandro Lo Russo **8.00**  ·  Bruno Poitner **8.50**  ·  Florian Allgauer **15.00**  ·  Manuel Mikus **17.00**  ·  Yonas Abidi **29.00**  ·  Oruc Mammadov **7.00**  ·  Namiq Alasgarov **4.33**  ·  Badavi Guseynov **11.00**  ·  Esqin Ahmadov **7.00**  ·  Nihad Ahmadzada **2.75**  ·  Samuel Cernadas **26.00**  ·  Aleksey Isayev **5.50**  ·  Andreas Malin **34.00**  ·  Severin Schlegel **17.00**
 
 ## Estadísticas de equipo
 | | Liechtenstein (total) | Liechtenstein en casa | Azerbaijan (total) | Azerbaijan fuera |

@@ -1,10 +1,45 @@
 # Juventus U23 – Treviso
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 08:21_
+
+- **1X2:** 1 **2.80**  ·  X **3.10**  ·  2 **2.25**
+- **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.33**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **9.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.05** · menos **1.75**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.00** · menos **1.14**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.10**  ·  2 **3.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Juventus U23 (total) | Juventus U23 en casa | Treviso (total) | Treviso fuera |
@@ -96,4 +131,38 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 0,61 · visitante 1,36._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 55% | 40% | 47% | 2.25 | +7% |
+| 1X2: X | 28% | 29% | 28% | 3.10 | -12% |
+| 1X2: 1 | 17% | 32% | 24% | 2.80 | -32% |
+| Doble oportunidad: X2 | 83% | 69% | 76% | 1.33 | +1% |
+| Doble oportunidad: 12 | 72% | 71% | 72% | 1.28 | -8% |
+| Doble oportunidad: 1X | 45% | 60% | 52% | 1.53 | -20% |
+| Ambos marcan: No | 66% | 50% | 58% | 1.83 | +6% |
+| Ambos marcan: Sí | 34% | 50% | 42% | 1.83 | -23% |
+| Goles más/menos: Más de 1.5 | 59% | 71% | 65% | 1.33 | -14% |
+| Goles más/menos: Más de 2.5 | 32% | 46% | 39% | 2.05 | -20% |
+| Goles más/menos: Más de 3.5 | 14% | 27% | 20% | 3.50 | -29% |
+| Goles más/menos: Menos de 1.5 | 41% | 29% | 35% | 3.25 | +14% |
+| Goles más/menos: Menos de 2.5 | 68% | 54% | 61% | 1.75 | +7% |
+| Goles más/menos: Menos de 3.5 | 86% | 73% | 80% | 1.28 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 58% | 66% | 62% | 1.40 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 21% | 31% | 26% | 3.00 | -21% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +0% |
+| Goles del local: Más de 0.5 | 46% | 66% | 56% | 1.40 | -22% |
+| Goles del local: Más de 1.5 | 12% | 34% | 23% | 2.75 | -36% |
+| Goles del local: Menos de 0.5 | 54% | 34% | 44% | 2.75 | +21% |
+| Goles del local: Menos de 1.5 | 88% | 66% | 77% | 1.40 | +8% |
+| Goles del visitante: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
+| Goles del visitante: Más de 1.5 | 40% | 39% | 39% | 2.38 | -6% |
+| Goles del visitante: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -10% |
+| Goles del visitante: Menos de 1.5 | 60% | 61% | 61% | 1.53 | -7% |
+| 1X2 descanso: 2 | 37% | 30% | 34% | 3.00 | +1% |
+| 1X2 descanso: X | 49% | 43% | 46% | 2.10 | -3% |
+| 1X2 descanso: 1 | 14% | 27% | 20% | 3.40 | -31% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

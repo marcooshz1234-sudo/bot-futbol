@@ -1,10 +1,46 @@
 # Arzignano Valchiampo – Alcione
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 08:20_
+
+- **1X2:** 1 **2.00**  ·  X **3.25**  ·  2 **3.20**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.67**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.00** · menos **1.11**
+    - 5,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **8.50** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.20**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.62**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **4.50**
+- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **10.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo
 | | Arzignano Valchiampo (total) | Arzignano Valchiampo en casa | Alcione (total) | Alcione fuera |
@@ -99,4 +135,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,78 · visitante 1,26._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 27% | 28% | 27% | 3.20 | -12% |
+| 1X2: X | 23% | 27% | 25% | 3.25 | -18% |
+| 1X2: 1 | 50% | 45% | 47% | 2.00 | -6% |
+| Doble oportunidad: X2 | 50% | 55% | 53% | 1.67 | -12% |
+| Doble oportunidad: 12 | 77% | 73% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 73% | 72% | 72% | 1.28 | -7% |
+| Ambos marcan: No | 40% | 46% | 43% | 2.00 | -13% |
+| Ambos marcan: Sí | 60% | 54% | 57% | 1.73 | -2% |
+| Goles más/menos: Más de 1.5 | 81% | 73% | 77% | 1.28 | -1% |
+| Goles más/menos: Más de 2.5 | 59% | 49% | 54% | 1.95 | +5% |
+| Goles más/menos: Más de 3.5 | 36% | 29% | 33% | 3.25 | +6% |
+| Goles más/menos: Menos de 1.5 | 19% | 27% | 23% | 3.50 | -19% |
+| Goles más/menos: Menos de 2.5 | 41% | 51% | 46% | 1.85 | -14% |
+| Goles más/menos: Menos de 3.5 | 64% | 71% | 67% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 34% | 36% | 2.75 | -1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 31% | 29% | 3.00 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 66% | 64% | 1.40 | -10% |
+| Goles del local: Más de 0.5 | 83% | 77% | 80% | 1.22 | -2% |
+| Goles del local: Más de 1.5 | 53% | 44% | 49% | 2.10 | +2% |
+| Goles del local: Más de 2.5 | 27% | 22% | 24% | 4.33 | +4% |
+| Goles del local: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -20% |
+| Goles del local: Menos de 1.5 | 47% | 56% | 51% | 1.67 | -14% |
+| Goles del local: Menos de 2.5 | 73% | 78% | 76% | 1.20 | -9% |
+| Goles del visitante: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
+| Goles del visitante: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles del visitante: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
+| Goles del visitante: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
+| 1X2 descanso: 2 | 23% | 24% | 24% | 3.75 | -11% |
+| 1X2 descanso: X | 39% | 41% | 40% | 2.20 | -12% |
+| 1X2 descanso: 1 | 37% | 35% | 36% | 2.62 | -6% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

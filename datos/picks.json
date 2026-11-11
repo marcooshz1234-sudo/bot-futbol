@@ -1,10 +1,61 @@
 {
- "generado": "2026-11-11 06:45",
+ "generado": "2026-11-11 08:23",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
   "frecuencia_equipo_min": 0.7,
   "ultimos_partidos": 10
  },
- "dias": {}
+ "dias": {
+  "2026-11-14": {
+   "picks": [
+    {
+     "partido_id": 1608362,
+     "fecha": "2026-11-14T14:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Arzignano Valchiampo",
+     "visitante": "Alcione",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Arzignano Valchiampo–Alcione",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Arzignano Valchiampo 7/10 · Alcione 8/10",
+     "valor_mercado": -0.011,
+     "prob_aprendida": 0.589
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1608362,
+     "fecha": "2026-11-14T14:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Arzignano Valchiampo",
+     "visitante": "Alcione",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Arzignano Valchiampo–Alcione",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Arzignano Valchiampo 7/10 · Alcione 8/10",
+     "valor_mercado": -0.011,
+     "prob_aprendida": 0.589
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  }
+ }
 }

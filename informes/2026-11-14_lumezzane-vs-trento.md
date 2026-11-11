@@ -1,10 +1,46 @@
 # Lumezzane – Trento
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Tullio Saleri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 08:20_
+
+- **1X2:** 1 **3.70**  ·  X **3.40**  ·  2 **1.83**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.22**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **7.50** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **7.50** · menos **1.07**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.20**  ·  2 **2.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.00**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **11.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.40**
 
 ## Estadísticas de equipo
 | | Lumezzane (total) | Lumezzane en casa | Trento (total) | Trento fuera |
@@ -101,4 +137,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,52 · visitante 1,36._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 58% | 49% | 53% | 1.83 | -2% |
+| 1X2: X | 28% | 26% | 27% | 3.40 | -7% |
+| 1X2: 1 | 14% | 24% | 19% | 3.70 | -29% |
+| Doble oportunidad: X2 | 86% | 75% | 81% | 1.22 | -2% |
+| Doble oportunidad: 12 | 72% | 74% | 73% | 1.25 | -9% |
+| Doble oportunidad: 1X | 42% | 51% | 47% | 1.80 | -16% |
+| Ambos marcan: No | 70% | 46% | 58% | 2.00 | +16% |
+| Ambos marcan: Sí | 30% | 54% | 42% | 1.73 | -27% |
+| Goles más/menos: Más de 1.5 | 56% | 75% | 66% | 1.25 | -18% |
+| Goles más/menos: Más de 2.5 | 29% | 51% | 40% | 1.85 | -26% |
+| Goles más/menos: Más de 3.5 | 12% | 31% | 22% | 3.00 | -35% |
+| Goles más/menos: Menos de 1.5 | 44% | 25% | 34% | 3.75 | +29% |
+| Goles más/menos: Menos de 2.5 | 71% | 49% | 60% | 1.95 | +17% |
+| Goles más/menos: Menos de 3.5 | 88% | 69% | 78% | 1.36 | +6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 62% | 1.36 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 35% | 28% | 2.62 | -28% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 44% | 31% | 38% | 3.00 | +13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 80% | 65% | 72% | 1.44 | +4% |
+| Goles del local: Más de 0.5 | 41% | 65% | 53% | 1.44 | -24% |
+| Goles del local: Más de 1.5 | 10% | 29% | 19% | 3.25 | -37% |
+| Goles del local: Menos de 0.5 | 59% | 35% | 47% | 2.62 | +24% |
+| Goles del local: Menos de 1.5 | 90% | 71% | 81% | 1.33 | +7% |
+| Goles del visitante: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles del visitante: Más de 1.5 | 39% | 50% | 45% | 1.83 | -18% |
+| Goles del visitante: Más de 2.5 | 16% | 25% | 20% | 3.75 | -24% |
+| Goles del visitante: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +3% |
+| Goles del visitante: Menos de 1.5 | 61% | 50% | 55% | 1.83 | +1% |
+| Goles del visitante: Menos de 2.5 | 84% | 75% | 80% | 1.25 | -0% |
+| 1X2 descanso: 2 | 38% | 37% | 37% | 2.40 | -10% |
+| 1X2 descanso: X | 50% | 41% | 45% | 2.20 | -0% |
+| 1X2 descanso: 1 | 12% | 22% | 17% | 4.00 | -31% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,47 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 08:21_
+
+- **1X2:** 1 **2.25**  ·  X **3.20**  ·  2 **2.88**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.70**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.00** · menos **1.11**
+    - 5,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **8.50** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.20**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.57**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **5.00**
+- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **10.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo
 | | Pergolettese (total) | Pergolettese en casa | PRO Vercelli (total) | PRO Vercelli fuera |
@@ -101,4 +138,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,55 · visitante 0,92._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 22% | 31% | 27% | 2.88 | -22% |
+| 1X2: X | 26% | 28% | 27% | 3.20 | -14% |
+| 1X2: 1 | 52% | 40% | 46% | 2.25 | +4% |
+| Doble oportunidad: X2 | 48% | 54% | 51% | 1.70 | -14% |
+| Doble oportunidad: 12 | 74% | 73% | 74% | 1.25 | -8% |
+| Doble oportunidad: 1X | 78% | 73% | 75% | 1.25 | -6% |
+| Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
+| Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
+| Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles más/menos: Más de 2.5 | 45% | 49% | 47% | 1.95 | -9% |
+| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
+| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -2% |
+| Goles más/menos: Menos de 3.5 | 76% | 71% | 74% | 1.33 | -2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
+| Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
+| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles del local: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
+| Goles del local: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles del visitante: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles del visitante: Más de 1.5 | 24% | 31% | 27% | 3.00 | -18% |
+| Goles del visitante: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
+| Goles del visitante: Menos de 1.5 | 76% | 69% | 73% | 1.36 | -1% |
+| 1X2 descanso: 2 | 19% | 24% | 22% | 3.75 | -19% |
+| 1X2 descanso: X | 44% | 41% | 43% | 2.20 | -6% |
+| 1X2 descanso: 1 | 37% | 35% | 36% | 2.60 | -7% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

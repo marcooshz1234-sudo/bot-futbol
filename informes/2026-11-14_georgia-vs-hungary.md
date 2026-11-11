@@ -1,7 +1,7 @@
 # Georgia – Hungary
 **Nations League** · League B - 5 · 14/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 08:21._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 02:10_
