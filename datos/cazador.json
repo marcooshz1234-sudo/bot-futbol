@@ -29,7 +29,7 @@
    "justa": 3.13,
    "ev": 0.382,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "SL Benfica W",
@@ -40,11 +40,11 @@
    "justa": 2.19,
    "ev": 0.087,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-11T10:42",
+  "hora": "2026-11-11T11:03",
   "revisadas": 2,
   "mejor": {
    "partido_id": 1638339,
@@ -58,7 +58,7 @@
    "justa": 3.13,
    "ev": 0.382,
    "fuente": "Pinnacle",
-   "edad_h": 0.4,
+   "edad_h": 0.0,
    "texto": "Empate en SL Benfica W–Austria Wien W"
   }
  },
