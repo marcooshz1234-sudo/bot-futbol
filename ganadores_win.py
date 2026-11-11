@@ -98,6 +98,8 @@ def post(dia, hora=HORA, excluir=(), sufijo=""):
         return None
     sel = sorted(sel, key=lambda x: -(x["prob"] + (0.06 if x["grande"] else 0)))[:N]   # los grandes llaman más
     sel.sort(key=lambda x: (x["ini"], x["equipo"]["name"]))
+    if liga is None and len({x["liga"] for x in sel}) == 1:   # 11/11 (Marcos): todos de la misma competición → su logo
+        liga = sel[0]["liga"]
     filas, lineas = [], []
     for i, x in enumerate(sel, 1):
         n = x["equipo"]["name"]

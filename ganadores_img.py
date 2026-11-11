@@ -243,7 +243,7 @@ body{margin:0;width:1080px;height:1350px;overflow:hidden;position:relative;font-
 def html_estadio(filas, titulo, liga=None):
     """11/11 (Marcos): con la pinta del logo nuevo (fotos.quien_gana)."""
     import fotos
-    return fotos.quien_gana(filas, titulo)
+    return fotos.quien_gana(filas, titulo, liga=liga)
 
 
 PLANTILLAS = {"oro": (html_oro, (1350, 1000)), "noche": (html_noche, (1080, 1350)), "estadio": (html_estadio, (1080, 1350))}
