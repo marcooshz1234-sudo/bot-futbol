@@ -60,6 +60,20 @@ def posts():
     return todos
 
 
+def pendientes_ok(control, todos):
+    """Ids que de verdad esperan el «✅ Publicar» de Marcos. 11/11: sin las cuotazas caducadas (60 min sin OK)
+    ni lo ya publicado, que seguían saliendo en la Oficina como pendientes."""
+    aprob = control.get("aprobados") or {}
+    cancel = set(control.get("cancelados") or [])
+    out = []
+    for pid in dict.fromkeys((control.get("por_aprobar") or {}).values()):
+        p = todos.get(pid) or {}
+        if pid in aprob or pid in cancel or p.get("caducada") or p.get("enviado") or p.get("mensaje_id"):
+            continue
+        out.append(pid)
+    return out
+
+
 def main(control=None):
     ahora = datetime.now(MADRID)
     hoy = ahora.strftime("%Y-%m-%d")
@@ -118,7 +132,7 @@ def main(control=None):
     res = [x for x in d.get("publicados_hoy") or [] if x.get("estado") in ("verde", "rojo") and (x.get("fecha") or "")[:10] >= (ahora - timedelta(days=1)).strftime("%Y-%m-%d")]
     vivo = {k: v for k, v in (leer(DATOS / "en_directo.json", {}) or {}).items() if v.get("estado") not in ("FT", "AET", "PEN", "NS", "PST", "CANC")}
     aprob = control.get("aprobados") or {}
-    pend = [pid for pid in (control.get("por_aprobar") or {}).values() if pid not in aprob and pid not in cancel]
+    pend = pendientes_ok(control, todos)
     pend = [{"id": pid, "texto": corto(primera(todos[pid]["texto"]) + " · " + (linea(todos[pid]["texto"], "📈") or linea(todos[pid]["texto"], "🍀")), 110)}
             for pid in dict.fromkeys(pend) if pid in todos]
     roles["verificador"] = {

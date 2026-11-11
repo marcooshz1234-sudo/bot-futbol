@@ -396,7 +396,10 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.12,
    "prob_cuota": 0.893
-  }
+  },
+  "por_que": [
+   "Chequia–España (Nations League): España marca mucho y Chequia en casa suele marcar; bet365 lo paga @1,12 (89% implícita). Cuota demasiado baja para pick del día (1,50-1,70); solo vale de pata en una combi."
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -443,7 +446,12 @@
    "liga": "UEFA Champions League Women",
    "cuota_bet365": 1.36,
    "prob_cuota": 0.735
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -613,6 +621,25 @@
   ],
   "por_que": [
    "No da razones. Racha de forma en su foto: Liverpool LLDLL y Aston Villa WWDDL; el Liverpool pierde mucho y encaja, lo que apoya goles, pero en Copa de la Liga femenina suelen rotar. Partido que no está en nuestros datos: sin estadísticas para confirmar."
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL",
+  "fuente": "-1001550157115/2026-11-11T17:33",
+  "dia": "2026-11-11",
+  "hora": "23:00",
+  "local": "Copa Bolivia",
+  "visitante": "(partido sin nombre)",
+  "texto": "Más de 2,5 goles (Copa de Bolivia, 23:00)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Pronóstico gratuito, no da partido ni razones en el texto"
+  ],
+  "por_que": [
+   "Mercado prohibido (más de 2,5 goles): no se copia. Sin nombre de partido en el texto: no se puede corregir solo."
   ]
  }
 ]

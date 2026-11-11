@@ -24,8 +24,11 @@ Detalle día a día: `informes/bitacora/2026-11.md`. Análisis del 11/11: Proyec
 | Imagen | `marca.py`, `fotos.py`, `publicaciones/media/marca/` | Logo nuevo y plantillas de foto (pick del día, verdes, Partidos de hoy, foto del partido, resto) |
 | Etiquetas | `plantillas.etiquetar` | «🧠 Esta va con cabeza» / «🎉 Esta es por diversión» en la 2.ª línea |
 | Verdes con OK | `verdes_auto.py`, `asistente.avisar_verdes` | Verdes, rojos y cuotazas solo salen cuando Marcos pulsa ✅ Publicar |
+| Vigilante (11/11) | `vigilante.py` (cada 10 min en el bucle; `--sin-aviso` para Claude) | No cambia nada: avisa una vez por fallo (aplazados, posts sin salir, fotos, mercados prohibidos, +2 posts por pronóstico, escalera, cuota API, claves Meta) → `datos/vigilante.json` |
+| Copiar tipsters (11/11) | `copiar_tipsters.py` | Picks de Pérez, TipsAnalistas y Pablo Analista salen como nuestros a los 2 min (cuota bet365 nuestra, sin su nombre) → `datos/tipsters_copiados.json` |
+| Posts borrados a mano | `publicaciones/borrados.json` | La app, aciertos y vigilante los saltan; sus verdes no salen (`datos/verdes_auto.json`) |
 
-Reglas nuevas de noviembre (además de las de abajo): Telegram solo pick del día (1,50-1,70, 10:30 y 18:00), escalera y una combi; el resto solo redes. Threads: verdes y rojos sin imagen. Nada de fueras de juego, tiros del partido, gol 1ª parte, +2,5 goles del partido ni descanso. Femeninas con «(fem.)». Respuestas a Marcos por partes, en formato pregunta-respuesta.
+Reglas nuevas de noviembre (además de las de abajo): Telegram solo pick del día (1,50-1,70, 10:30 y 18:00), escalera y una combi; el resto solo redes (sin encuesta, concurso, ranking ni GIF desde el 11/11). Un pronóstico en 2 posts como mucho. Etiquetas 🧠/🎉 solo en algunos y con frases variadas. No editar posts publicados (alineaciones solo avisa). Threads: verdes y rojos sin imagen. Nada de fueras de juego, tiros del partido, gol 1ª parte, +2,5 goles del partido ni descanso. Femeninas con «(fem.)». Respuestas a Marcos por partes, en formato pregunta-respuesta.
 
 ---
 
