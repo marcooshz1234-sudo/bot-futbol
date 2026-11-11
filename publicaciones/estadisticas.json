@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 18:31",
+ "actualizado": "2026-11-11 18:41",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -58,9 +58,9 @@
  "total_hoy": 51,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
-  "dia": "2026-11-12",
-  "titulo": "Nations league - ganadores"
+  "hora": "20:00",
+  "dia": "2026-11-11",
+  "titulo": "Y para cerrar el día, otro pick que no"
  },
  "ayer": null,
  "escalera": {
@@ -189,13 +189,13 @@
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 6,
+  "Otros (reel)": {
+   "posts": 8,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 7,
+  "Escalera (reel)": {
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
