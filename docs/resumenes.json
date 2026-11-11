@@ -1598,12 +1598,12 @@
     "dia": "2026-11-11",
     "total": 7,
     "cuentas": {
-      "verde": 0,
+      "verde": 1,
       "rojo": 2,
       "pendiente": 4,
-      "sin_datos": 1,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -1645,15 +1645,15 @@
       {
         "id": "2026-11-11-pick-extra-1",
         "titulo": "Y para cerrar el día, otro pick que nos gusta mucho 👇",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 1,
+      "verde": 5,
       "rojo": 3,
       "total": 9
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 2 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n❌ Vamos con el pick de la tarde familia 🔥\n❌ Combinada que nos gusta mucho familia 🔥\n❔ Y para cerrar el día, otro pick que nos gusta mucho 👇 · faltan datos\n\n✅ 0 acertadas · ❌ 2 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 1 DE 3 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n❌ Vamos con el pick de la tarde familia 🔥\n❌ Combinada que nos gusta mucho familia 🔥\n✅ Y para cerrar el día, otro pick que nos gusta mucho 👇\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 4 sin resolver"
   }
 }
