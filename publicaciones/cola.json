@@ -4043,6 +4043,55 @@
     }
   },
   {
+    "id": "2026-11-11-ganadores-win-2",
+    "fecha": "2026-11-11T05:15",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇰 Køge (fem.) - Win\n2. 🇫🇷 Lyon (fem.) - Win\n3. 🇵🇹 Benfica (fem.) - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "sin_instagram": true,
+    "forzar": true,
+    "sel": [
+      "1638318|Match Winner|Away",
+      "1638311|Match Winner|Away",
+      "1638339|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.65,
+      1.14,
+      1.53
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Denmark",
+          "bandera": "🇩🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/13982.png",
+          "nombre": "Køge (fem.)",
+          "pick": "WIN"
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/1674.png",
+          "nombre": "Lyon (fem.)",
+          "pick": "WIN"
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/15495.png",
+          "nombre": "Benfica (fem.)",
+          "pick": "WIN"
+        }
+      ]
+    },
+    "nota": "Marcos 11/11 05:13: borró la de las 02:00 (formato viejo) → «hazla de nuevo con el formato nuevo ya». Mismo post, foto estilo CL."
+  },
+  {
     "id": "2026-11-10-verde-auto-2026-11-10-escalera",
     "fecha": "2026-11-10T22:14",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Mijas Las Lagunas–Real Jaén\n\nOtra más pa' la saca familia 😎",
