@@ -56,6 +56,7 @@ CSS_CL = """
  border-left:9px solid #7ef03a;box-shadow:0 0 14px rgba(126,240,58,.22);color:#fff;font-style:italic}
 .titulo{text-transform:uppercase}
 body:not(.v) .marca{margin-top:auto}
+.v .pie{position:static;margin-top:44px}
 .sub{font-size:40px}
 .cuota div.b{background:linear-gradient(180deg,#fff3b0,#ffd84a 45%%,#d99a10);color:#1a1200;box-shadow:0 0 20px rgba(255,216,74,.5)}
 .dato{color:#f2f2f2;font-style:italic}
@@ -236,7 +237,13 @@ def sin_dinero(texto):
     las líneas de 💶 y cualquier línea que siga llevando €. El texto del post (Telegram, Threads) no se toca."""
     t = re.sub(r"\s*·?\s*\d+(?:[.,]\d+)?\s*€\s*→\s*\d+(?:[.,]\d+)?\s*€", "", texto)
     t = re.sub(r"desde \d+(?:[.,]\d+)?\s*€", "desde el día 1", t)
-    t = "\n".join(re.sub(r":\s*$", "", l) for l in t.split("\n") if "€" not in l and not l.startswith("💶"))
+    filas = t.split("\n")
+    if filas and "€" in filas[0]:   # 11/11: el título se queda (sin el dinero); antes caía y la 1ª pata hacía de título
+        filas[0] = re.sub(r"¡?\s*(?:DE|DESDE)?\s*\d+(?:[.,]\d+)?\s*€(?:\s*(?:A|→)\s*\d+(?:[.,]\d+)?\s*€)?\s*!?", " ",
+                          filas[0], flags=re.I)
+        filas[0] = re.sub(r"\s*—\s*(?=x\d)", " · ", re.sub(r"\s{2,}", " ", filas[0])).strip()
+    t = "\n".join([filas[0]] * bool(filas) + [re.sub(r":\s*$", "", l) for l in filas[1:]
+                   if "€" not in l and not l.startswith("💶")])
     return re.sub(r"\n{3,}", "\n\n", t).strip()
 
 

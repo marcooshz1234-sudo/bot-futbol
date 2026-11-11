@@ -72,6 +72,17 @@ class TestFallos11Nov(unittest.TestCase):
         src = (RAIZ / "imagenes.py").read_text(encoding="utf-8")
         self.assertNotIn("\n.marca{margin-top:auto}", src)
 
+    def test_historia_pie_no_pisa_la_cuota(self):
+        src = (RAIZ / "imagenes.py").read_text(encoding="utf-8")
+        self.assertIn(".v .pie{position:static", src)   # el pie va detrás de la cuota, nunca encima
+
+    def test_titulo_con_euros_no_se_pierde(self):
+        import imagenes
+        t = imagenes.sin_dinero("🧮 COMBILOCAS — ¡DE 1€ A 500€! x453,38 🧮\n\n🇳🇱 Fortuna Sittard o empate\n💶 1€ → 453€")
+        self.assertEqual(imagenes.partes(t)[0], "🧮 COMBILOCAS · x453,38 🧮")
+        self.assertNotIn("€", t)
+        self.assertIn("Fortuna", t)
+
 
 if __name__ == "__main__":
     unittest.main()
