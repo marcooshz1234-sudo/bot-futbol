@@ -47,6 +47,22 @@ class TestFallos11Nov(unittest.TestCase):
                     mock.patch.object(C, "inicio", lambda pk: datetime(2026, 11, 12, 20, 0, tzinfo=MADRID)):
                 self.assertEqual(C.main(datetime(2026, 11, 11, 20, 0, tzinfo=MADRID)), [])
 
+    def test_cuotaza_sin_aprobar_caduca(self):
+        import json, tempfile
+        from datetime import datetime
+        from unittest import mock
+        import cazador
+        from bot import MADRID
+        with tempfile.TemporaryDirectory() as d:
+            d = Path(d)
+            cola = d / "cola.json"
+            cola.write_text(json.dumps([{"id": "2026-11-11-cuotaza-1-abc", "fecha": "2026-11-11T09:05", "requiere_ok": True,
+                                         "texto": "x"}]))
+            with mock.patch.object(cazador, "COLA", cola), mock.patch.object(cazador, "ESTADO", d / "e.json"), \
+                    mock.patch.object(cazador, "refrescar", lambda a: 0), mock.patch.object(cazador, "buscar", lambda *a, **k: []):
+                cazador.main(datetime(2026, 11, 11, 17, 0, tzinfo=MADRID))
+            self.assertTrue(json.loads(cola.read_text())[0].get("caducada"))
+
     def test_chromium_del_bucle_por_su_lado(self):
         wf = (RAIZ / ".github/workflows/telegram.yml").read_text(encoding="utf-8")
         self.assertNotIn("playwright install --with-deps chromium >/dev/null 2>&1' || echo", wf)

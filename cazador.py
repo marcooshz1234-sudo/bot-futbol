@@ -193,6 +193,21 @@ def main(ahora=None):
     est["ultima"] = {"hora": ahora.strftime("%Y-%m-%dT%H:%M"), "revisadas": len(hallazgos),
                      "mejor": hallazgos[0] if hallazgos else None}
     cola = leer(COLA, []) or []
+    # 11/11: una cuotaza que Marcos no aprueba en 60 min ya no vale (la cuota se mueve): se caduca sola
+    caducadas = 0
+    for p in cola:
+        if "-cuotaza-" in p.get("id", "") and p.get("requiere_ok") and not (p.get("enviado") or p.get("mensaje_id")
+                                                                             or p.get("redes") or p.get("caducada")):
+            try:
+                if ahora - datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) > timedelta(minutes=60):
+                    p["caducada"] = True
+                    p["nota"] = (p.get("nota") or "") + " · caducada sola: 60 min sin aprobar"
+                    caducadas += 1
+            except (KeyError, ValueError):
+                pass
+    if caducadas:
+        print(f"Cazador: {caducadas} cuotazas caducadas (60 min sin aprobar)")
+        COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     nuevos = []
     for x in hallazgos:
         if hoy_n >= MAX_DIA:
