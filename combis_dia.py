@@ -1076,7 +1076,6 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # 01/11 (Marcos): «partido estrella» (el pilar con más visitas de mediana en octubre): partidos con alguno de los
     # 3-4 primeros de las 5 grandes ligas. 4 cosas distintas de la combi con escudos de ese partido, cuota 4-8.
     res["listas_europa"] = listas_europa(pools, dia) if dia_europeo else []
-    res["multi"] = combi_multi(pools, dia, dia_europeo)
     res["estrella"] = estrellas(pools, salida + res["noche"], dia)
     # 03/11 (Marcos: «no puede ser que cancele la combi»): si el estrella usa las mismas cosas que la combi con
     # escudos de ese partido, la de escudos se rehace con OTRAS cosas del partido; solo si no hay, no sale
@@ -1115,6 +1114,14 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     esc = (leer(DATOS / "escalera.json") or {}).get("actual") or {}
     if esc.get("dia") == dia:
         usos.update(sel(p) for p in esc.get("picks", []))
+    # 11/11 (Marcos: «máx. 2 veces»): también cuentan el pick del día, el 2º pick y el estrella; la multi lo respeta
+    for x in (res.get("seguro"), res.get("seguro2")):
+        if x:
+            usos[sel(x[0])] += 1
+    usos.update(sel(p) for cp, *_ in res["estrella"] for p in cp["picks"])
+    res["multi"] = combi_multi(pools, dia, dia_europeo, usos=usos)
+    if res["multi"]:
+        usos.update(sel(p) for p in res["multi"][0])
     for clave, cfg in (("tres", TRES), ("loca", LOCA)):
         hora = f0.replace(hour=cfg["hora"][0], minute=cfg["hora"][1])
         mejores = []
@@ -1141,7 +1148,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             seg = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
             ya |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in seg}
             tk = pick_de_tipster(pools, dia, hora, usados=ya, rango=(1.20, 2.20))
-            if tk and tk["partido_id"] not in {p["partido_id"] for p in r[1]}:
+            if tk and tk["partido_id"] not in {p["partido_id"] for p in r[1]} and usos[sel(tk)] < 2:
                 patas = sorted(r[1] + [tk], key=lambda p: p.get("fecha", ""))
                 import math
                 r = (r[0], patas, round(math.prod(p["cuota"] for p in patas), 2))
@@ -1226,7 +1233,7 @@ def ranking_top():
 MULTI = {"hora": (14, 30), "partidos": (6, 8), "por_partido": (1.40, 2.00), "prob_min": 0.45}
 
 
-def combi_multi(pools, dia, europeo=False):
+def combi_multi(pools, dia, europeo=False, usos=None):
     """03/11 (Marcos, como las que hacen él y sus colegas): 6-8 partidos, 1 o 2 cosas de cada uno («Crear apuesta»
     de entre 1,40 y 2,00 por partido), lo más probable de cada partido. Días europeos, sobre todo de esos partidos.
     (picks, cuota, hora) o None."""
@@ -1235,7 +1242,8 @@ def combi_multi(pools, dia, europeo=False):
     for pool in pools:
         if not pool or datetime.fromisoformat(pool[0]["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=60):
             continue
-        cand = [p for p in pool if p["prob_aprendida"] >= MULTI["prob_min"] and fijisimo(p)][:10]
+        cand = [p for p in pool if p["prob_aprendida"] >= MULTI["prob_min"] and fijisimo(p)
+                and (usos or {}).get(f"{p['partido_id']}|{p['mercado']}|{p['opcion']}", 0) < 2][:10]   # 11/11: máx. 2 posts
         mejor, mejor_n = None, {}
         for n in (1, 2):
             for comb in itertools.combinations(cand, n):

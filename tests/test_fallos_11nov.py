@@ -1,6 +1,7 @@
 """11/11: fallos que vio Marcos (o la revisión de las 18:51). Estos tests fallan si vuelven a aparecer."""
 import re
 import unittest
+from unittest import mock
 from pathlib import Path
 
 import plantillas
@@ -82,6 +83,25 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertEqual(imagenes.partes(t)[0], "🧮 COMBILOCAS · x453,38 🧮")
         self.assertNotIn("€", t)
         self.assertIn("Fortuna", t)
+
+    def test_multi_respeta_max_dos_posts(self):
+        import combis_dia
+        from datetime import datetime as dt
+        base = {"partido_id": 1, "mercado": "Match Winner", "opcion": "Home", "cuota": 1.6, "prob_aprendida": 0.9,
+                "fecha": "2026-11-15T21:00", "liga_id": 140}
+        pools = [[dict(base, partido_id=i)] for i in range(1, 9)]
+        with mock.patch.object(combis_dia, "fijisimo", lambda p: True), mock.patch.object(combis_dia, "suelto_no", lambda p: False):
+            libre = combis_dia.combi_multi(pools, "2026-11-15")
+            usos = {f"{i}|Match Winner|Home": 2 for i in range(1, 9)}
+            lleno = combis_dia.combi_multi(pools, "2026-11-15", usos=usos)
+        self.assertIsNotNone(libre)
+        self.assertIsNone(lleno)   # todas usadas ya 2 veces: no hay multi
+
+    def test_cuentan_pick_y_estrella_en_max_dos(self):
+        src = (RAIZ / "combis_dia.py").read_text(encoding="utf-8")
+        i = src.index('for x in (res.get("seguro"), res.get("seguro2"))')
+        self.assertLess(i, src.index('res["multi"] = combi_multi(pools, dia, dia_europeo, usos=usos)'))
+        self.assertLess(src.index('res["multi"] = combi_multi('), src.index('for clave, cfg in (("tres", TRES)'))
 
 
 if __name__ == "__main__":
