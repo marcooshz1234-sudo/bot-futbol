@@ -31,12 +31,16 @@ class TestSharp(unittest.TestCase):
         self.assertIsNone(sharp.prob_justa(2, "Match Winner", "Home"))
 
     def test_filtrar(self):
-        pool = [{"partido_id": 1, "mercado": "Goals Over/Under", "opcion": "Over 2.5", "cuota": 1.80, "texto": "cara"},
+        pool = [{"partido_id": 1, "mercado": "Goals Over/Under", "opcion": "Over 2.5", "cuota": 1.70, "texto": "cara"},
                 {"partido_id": 1, "mercado": "Goals Over/Under", "opcion": "Over 2.5", "cuota": 2.05, "texto": "buena"},
                 {"partido_id": 1, "mercado": "Corners", "opcion": "Over 9.5", "cuota": 1.5, "texto": "sin dato"}]
         r = sharp.filtrar(pool)
         self.assertEqual([p["texto"] for p in r], ["buena", "sin dato"])
-        self.assertEqual(r[0]["prob_aprendida"], 0.5)
+        self.assertEqual(r[0]["prob_aprendida"], 0.5)   # sin prob nuestra: la de Pinnacle
+        r2 = sharp.filtrar([{"partido_id": 1, "mercado": "Goals Over/Under", "opcion": "Over 2.5", "cuota": 1.85,
+                             "texto": "un poco cara", "prob_aprendida": 0.6}])
+        self.assertEqual(len(r2), 1)   # -7,5 %: se queda (Marcos: lógica, no solo números)
+        self.assertAlmostEqual(r2[0]["prob_aprendida"], 0.6 * 0.5 + 0.4 * 0.6, places=3)
 
 
 class TestEtiquetas(unittest.TestCase):

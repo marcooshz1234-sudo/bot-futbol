@@ -2,8 +2,9 @@
 
 Pinnacle es la casa que mejor ajusta (margen bajo, apuestas de profesionales). Quitándole su margen sale la
 probabilidad «justa» de cada mercado. Con eso:
-  - si bet365 paga MENOS que la cuota justa de Pinnacle (valor esperado < -3 %), la pata no se usa (está cara);
-  - si paga igual o más, la pata vale y su probabilidad pasa a ser la de Pinnacle (más fiable que nuestro modelo).
+  - si bet365 paga MUCHO menos que la cuota justa de Pinnacle (valor esperado < -10 %), la pata no se usa;
+  - si no, vale, y su probabilidad mezcla Pinnacle (60 %) con lo nuestro (40 %: racha, bajas, forma). Así una
+    pata un poco cara pero con buenos motivos (11/11, Marcos: «el City a 1,40 lo cojo») puede seguir saliendo.
 Solo para los partidos que baja fuentes_extra.oddspapi (datos/cuotas_sharp.json, plan gratis: ~5 al día) y para
 los mercados cuyo código de OddsPapi está comprobado. En el resto no cambia nada.
 
@@ -16,7 +17,8 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent
 RUTA = RAIZ / "datos" / "cuotas_sharp.json"
-UMBRAL = -0.03   # bet365 un 3 % por debajo de la justa → cara
+UMBRAL = -0.10   # 11/11 (Marcos: «es excesivo, hay que aplicar lógica»): solo fuera si es MUY cara (10 % o más)
+PESO_PINNACLE = 0.6   # en las demás, la probabilidad = 60 % Pinnacle + 40 % lo nuestro (racha, bajas, forma)
 LINEAS = {"0.5": "106", "1.5": "108", "2.5": "1010", "3.5": "1012", "4.5": "1014", "5.5": "1016"}
 
 
@@ -96,6 +98,8 @@ def filtrar(pool):
         if ev < UMBRAL:
             print(f"Pinnacle: fuera «{p.get('texto')}» @{p['cuota']} (justa {1 / pj:.2f}, {ev:+.0%})")
             continue
-        salida.append(dict(p, prob_aprendida=round(pj, 3), prob_pinnacle=round(pj, 3), ev_pinnacle=round(ev, 3),
+        nuestra = p.get("prob_aprendida") or pj
+        mezcla = PESO_PINNACLE * pj + (1 - PESO_PINNACLE) * nuestra
+        salida.append(dict(p, prob_aprendida=round(mezcla, 3), prob_pinnacle=round(pj, 3), ev_pinnacle=round(ev, 3),
                            detalle=(p.get("detalle") or "") + f" · Pinnacle {1 / pj:.2f}"))
     return salida

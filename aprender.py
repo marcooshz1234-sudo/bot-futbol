@@ -362,6 +362,15 @@ def prob_aprendida(p, ap):
     """Probabilidad real estimada de un pick con lo aprendido (None si no hay modelo o cuota)."""
     if not ap or not p.get("cuota"):
         return None
+    try:   # 11/11 (Marcos: «enséñale mejor cómo aprender»): el modelo nuevo, si predice mejor que esto (modelo_patas.py)
+        if not ap.get("usar_modelo_patas"):
+            raise LookupError
+        import modelo_patas
+        pm = modelo_patas.prob(p, frec_calibrada(p) if p.get("frecuencia") is not None else None)
+        if pm is not None:
+            return max(0.01, min(0.99, pm))
+    except Exception:
+        pass
     imp = implicita(p)
     prob = imp + ap["w_frecuencia"] * (frec_calibrada(p) - imp)
     for tabla, clave in (("tipos", seg_tipo(p)), ("mercados", seg_fino(p)),
@@ -547,6 +556,7 @@ def main():
             goles_partido.main()
         except Exception as e:
             print("tipo de partido:", str(e)[:150])
+        ap["usar_modelo_patas"] = True   # 11/11: prob_aprendida usa modelo_patas.py si está activo
         SALIDA.write_text(json.dumps(ap, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         print(f"Aprendizaje: w={ap['w_frecuencia']} · {ap['aciertos']}/{ap['picks_usados']}")
 

@@ -201,7 +201,9 @@ def pool_partido(ex, hist, ap):
         pool = salida
     except Exception as e:
         print("tipsters (bonus):", str(e)[:120])
-    return pool
+    # 11/11 (Marcos: «hazlo»): las patas de 1,35 o menos tienen que ser buenas de verdad: su probabilidad
+    # (ya calibrada, con Pinnacle si lo hay) al menos la que pide la cuota. Si no, restan en vez de sumar.
+    return [p for p in pool if float(p.get("cuota") or 9) > 1.35 or p.get("prob_aprendida", 0) >= 1 / float(p["cuota"])]
 
 
 def _pool_partido(ex, hist, ap):

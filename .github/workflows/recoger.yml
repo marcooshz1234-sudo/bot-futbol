@@ -36,6 +36,8 @@ jobs:
           python -u calibrar_historico.py || echo "calibración falló (no bloquea)"
           python -u prueba_xg.py || echo "prueba de xG falló (no bloquea)"
           python -u aprender.py || echo "aprender falló (no bloquea)"
+          pip install -q numpy >/dev/null 2>&1 || true
+          python -u modelo_patas.py || echo "modelo_patas falló (no bloquea)"   # 11/11: modelo nuevo de patas
           python -u tipsters.py || echo "tipsters falló (no bloquea)"   # 09/11: picks de TipsAnalistas y Pérez
       - name: Fuentes extra (ClubElo, Football-Data, OddsPapi) (09/11)
         env:

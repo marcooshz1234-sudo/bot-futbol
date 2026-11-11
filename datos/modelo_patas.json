@@ -1,0 +1,61 @@
+{
+ "generado": "2026-11-11 01:43",
+ "activo": true,
+ "patas": 565,
+ "evaluacion": {
+  "nuevo": {
+   "n": 565,
+   "logloss": 0.6607,
+   "brier": 0.2333,
+   "prometido": 0.624,
+   "real": 0.623
+  },
+  "solo_cuota": {
+   "n": 565,
+   "logloss": 0.6769,
+   "brier": 0.2406,
+   "prometido": 0.71,
+   "real": 0.623
+  },
+  "antes_mismas_patas": {
+   "n": 454,
+   "logloss": 0.6826,
+   "brier": 0.2432,
+   "prometido": 0.636,
+   "real": 0.628
+  },
+  "nuevo_mismas_patas": {
+   "n": 454,
+   "logloss": 0.6607,
+   "brier": 0.2331,
+   "prometido": 0.629,
+   "real": 0.628
+  }
+ },
+ "constante": 0.0139,
+ "pesos": {
+  "baja_1_35": 0.2421,
+  "cuota": 0.2077,
+  "fam=corners": -0.5626,
+  "fam=fueras de juego": -0.3885,
+  "fam=goles": 0.3289,
+  "fam=jugador:?": 0.0731,
+  "fam=jugador:a_puerta": 0.1879,
+  "fam=jugador:faltas_c": -0.1036,
+  "fam=jugador:tiros": 0.1167,
+  "fam=resultado": 0.2718,
+  "fam=tarjetas": 0.0118,
+  "fam=tiros": 0.209,
+  "fam=tiros a puerta": -0.1444,
+  "lado=jugador": 0.274,
+  "lado=local": 0.3269,
+  "lado=partido": -0.1097,
+  "lado=visitante": -0.4911,
+  "liga_grande": -0.0016,
+  "senal=b365_mas": -0.1683,
+  "senal=b365_menos": 0.4164,
+  "senal=igual": 0.0533,
+  "senal=sin_otras": -0.3014,
+  "ventaja_racha": 0.2121
+ }
+}
