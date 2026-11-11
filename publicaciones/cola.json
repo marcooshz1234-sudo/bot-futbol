@@ -4099,5 +4099,19 @@
     "redes": {
       "threads": "18140088181735528"
     }
+  },
+  {
+    "id": "2026-11-11-logo-nuevo",
+    "fecha": "2026-11-11T13:00",
+    "texto": "🆕 ESTRENAMOS IMAGEN 👑⚽\n\nNuevo logo de COMBILOCAS y fotos nuevas para los picks, los verdes y los partidos de hoy 🍀\n\n¿Qué os parece? ¿Os mola o lo dejábamos como estaba? 👇\nOs leo en comentarios",
+    "foto": null,
+    "origen": "marcos",
+    "solo_redes": true,
+    "solo_en": [
+      "threads",
+      "instagram"
+    ],
+    "forzar": true,
+    "nota": "Marcos 11/11 01:05: post del logo nuevo (foto en Threads, reel en Instagram)"
   }
 ]
