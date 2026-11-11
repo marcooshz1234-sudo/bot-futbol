@@ -1,7 +1,7 @@
 # Amarante – Felgueiras 1932
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Amarante Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -110,6 +110,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 1,17 · córners esperados 8,6._
+_Goles esperados: local 1,19 · visitante 1,17 · córners esperados 8,6._
 
 _Sin cuotas de Bet365 todavía para comparar._

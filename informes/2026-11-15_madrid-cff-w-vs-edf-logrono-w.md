@@ -1,7 +1,7 @@
 # Madrid CFF W – Edf Logrono W
 **Liga F** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Estadio Fernando Torres
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -98,6 +98,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,41._
+_Goles esperados: local 1,61 · visitante 1,40._
 
 _Sin cuotas de Bet365 todavía para comparar._

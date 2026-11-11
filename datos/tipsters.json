@@ -147,6 +147,11 @@
   "analisis": {
    "liga": "UEFA Champions League Women",
    "prob_cuota": 0.625
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   3,
+   0
+  ]
  }
 ]

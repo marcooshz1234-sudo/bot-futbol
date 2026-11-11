@@ -1,10 +1,24 @@
 # Calvo Sotelo – Albacete
 **Copa del Rey** · Round of 128 · 12/11/2026 18:30 (hora España) · New Municipal Stadium Ciudad de Puertollano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 02:09_
+
+- **1X2:** 1 **5.50**  ·  X **4.20**  ·  2 **1.55**
+- **Ambos marcan:** Sí **1.75**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.20**  ·  Home/No **11.00**  ·  Draw/No **15.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Calvo Sotelo (total) | Calvo Sotelo en casa | Albacete (total) | Albacete fuera |

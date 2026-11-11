@@ -102,5 +102,50 @@
  "Lezama|Spain": [
   43.02799,
   -2.97257
+ ],
+ "Serravalle|World": [
+  43.96897,
+  12.48167
+ ],
+ "Podgorica|World": [
+  42.44124,
+  19.26309
+ ],
+ "Biella|World": [
+  45.56304,
+  8.05796
+ ],
+ "Milan|World": [
+  45.46427,
+  9.18951
+ ],
+ "London|World": [
+  51.50853,
+  -0.12574
+ ],
+ "Barcelona|World": [
+  41.38879,
+  2.15899
+ ],
+ "Yerevan|World": [
+  40.17765,
+  44.5126
+ ],
+ "Tirana|World": null,
+ "Izmir|World": [
+  38.41273,
+  27.13838
+ ],
+ "Prague|World": [
+  50.08804,
+  14.42076
+ ],
+ "Tarancon|Spain": [
+  40.00851,
+  -3.00731
+ ],
+ "Puertollano|Spain": [
+  38.68712,
+  -4.10734
  ]
 }

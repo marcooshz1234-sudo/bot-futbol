@@ -1,13 +1,13 @@
 # Navalcarnero – Real Betis
 **Copa del Rey** · Round of 128 · 12/11/2026 19:00 (hora España) · Estadio Municipal de Santo Domingo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 16:44_
+_Actualizadas: 11/11 02:09_
 
-- **1X2:** 1 **17.00**  ·  X **9.50**  ·  2 **1.11**
-- **Doble oportunidad:** 1X **6.50**  ·  12 **1.07**  ·  X2 **1.02**
+- **1X2:** 1 **15.00**  ·  X **9.50**  ·  2 **1.12**
+- **Doble oportunidad:** 1X **6.00**  ·  12 **1.07**  ·  X2 **1.03**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
     - 1,5: más **1.07** · menos **9.00**
@@ -39,11 +39,11 @@ _Actualizadas: 10/11 16:44_
     - 4,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **6.50**  ·  2 **1.06**
+- **To Win Either Half:** 1 **6.50**  ·  2 **1.07**
 - **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.50**
-- **Win Both Halves:** 1 **67.00**  ·  2 **1.83**
-- **Results/Both Teams Score:** Home/Yes **26.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **2.50**  ·  Home/No **29.00**  ·  Draw/No **29.00**  ·  Away/No **1.83**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **2.75**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **4.00**
+- **Win Both Halves:** 1 **67.00**  ·  2 **1.91**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **2.50**  ·  Home/No **26.00**  ·  Draw/No **29.00**  ·  Away/No **1.83**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **2.75**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **4.00**
 
 ## Estadísticas de equipo
 | | Navalcarnero (total) | Navalcarnero en casa | Real Betis (total) | Real Betis fuera |

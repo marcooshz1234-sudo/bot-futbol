@@ -1,7 +1,7 @@
 # Athletic Carpi – Giana Erminio
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -95,6 +95,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,33 · visitante 1,44._
+_Goles esperados: local 1,32 · visitante 1,44._
 
 _Sin cuotas de Bet365 todavía para comparar._

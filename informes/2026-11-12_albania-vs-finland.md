@@ -1,10 +1,10 @@
 # Albania – Finland
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · Arena Kombëtare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 16:44_
+_Actualizadas: 11/11 02:09_
 
 - **1X2:** 1 **1.90**  ·  X **3.30**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.30**  ·  X2 **1.83**

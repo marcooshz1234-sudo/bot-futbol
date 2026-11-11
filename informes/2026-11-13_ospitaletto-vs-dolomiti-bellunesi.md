@@ -1,7 +1,7 @@
 # Ospitaletto – Dolomiti Bellunesi
 **Serie C** · Girone A - 14 · 13/11/2026 20:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -96,6 +96,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,04 · visitante 0,56._
+_Goles esperados: local 2,03 · visitante 0,55._
 
 _Sin cuotas de Bet365 todavía para comparar._

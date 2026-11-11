@@ -10,11 +10,11 @@
   "Tipster Pérez": {
    "n": 2,
    "verdes": 0,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   }
  },
  "mercado": {
@@ -51,9 +51,11 @@
   "Asian Handicap Away +1.75": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.625
   }
  },
  "equipo": {
@@ -104,9 +106,11 @@
   "Paris FC W": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.625
   }
  },
  "razon": {
@@ -122,11 +126,11 @@
   "racha": {
    "n": 5,
    "verdes": 1,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   },
   "clasificación": {
    "n": 4,
@@ -147,11 +151,11 @@
   "goles": {
    "n": 2,
    "verdes": 0,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   },
   "bajas": {
    "n": 1,
@@ -186,11 +190,11 @@
   "1,50-1,80": {
    "n": 2,
    "verdes": 0,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   },
   "1,80-2,20": {
    "n": 1,
@@ -220,18 +224,22 @@
   "UEFA Champions League Women": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.625
   }
  },
  "lado": {
   "visitante": {
    "n": 4,
    "verdes": 2,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.625
   },
   "local": {
    "n": 3,
@@ -247,22 +255,22 @@
   "—": {
    "n": 7,
    "verdes": 3,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   }
  },
  "valor_pinnacle": {
   "?": {
    "n": 7,
    "verdes": 3,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   }
  }
 }

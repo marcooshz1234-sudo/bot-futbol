@@ -1,7 +1,7 @@
 # Eibar – Cadiz
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 13:07_
@@ -50,20 +50,20 @@ _Actualizadas: 10/11 13:07_
 ## Estadísticas de equipo
 | | Eibar (total) | Eibar en casa | Cadiz (total) | Cadiz fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 14 | 6 |
-| Forma (últimos 5) | EDEDV | EEVVV | DDVVD | DVDED |
-| Balance | 7V 2E 3D | 3V 2E 1D | 3V 4E 7D | 1V 2E 3D |
-| Goles a favor / partido | 1,75 | 1,67 | 1,36 | 1,50 |
-| Goles en contra / partido | 1,17 | 1,17 | 1,36 | 1,83 |
-| Goles a favor 1ª parte | 0,83 | 0,83 | 0,29 | 0,33 |
+| Partidos analizados | 13 | 6 | 14 | 6 |
+| Forma (últimos 5) | VEDED | EEVVV | DDVVD | DVDED |
+| Balance | 8V 2E 3D | 3V 2E 1D | 3V 4E 7D | 1V 2E 3D |
+| Goles a favor / partido | 1,85 | 1,67 | 1,36 | 1,50 |
+| Goles en contra / partido | 1,08 | 1,17 | 1,36 | 1,83 |
+| Goles a favor 1ª parte | 0,92 | 0,83 | 0,29 | 0,33 |
 | Goles a favor 2ª parte | 0,92 | 0,83 | 1,07 | 1,17 |
-| Goles en contra 1ª parte | 0,58 | 0,67 | 0,79 | 0,83 |
-| Goles en contra 2ª parte | 0,58 | 0,50 | 0,57 | 1,00 |
-| Más de 1,5 goles | 83% | 83% | 79% | 100% |
-| Más de 2,5 goles | 58% | 50% | 57% | 67% |
-| Más de 3,5 goles | 42% | 33% | 36% | 50% |
-| Ambos marcan | 58% | 67% | 64% | 83% |
-| Portería a cero | 33% | 33% | 14% | 0% |
+| Goles en contra 1ª parte | 0,54 | 0,67 | 0,79 | 0,83 |
+| Goles en contra 2ª parte | 0,54 | 0,50 | 0,57 | 1,00 |
+| Más de 1,5 goles | 85% | 83% | 79% | 100% |
+| Más de 2,5 goles | 62% | 50% | 57% | 67% |
+| Más de 3,5 goles | 38% | 33% | 36% | 50% |
+| Ambos marcan | 54% | 67% | 64% | 83% |
+| Portería a cero | 38% | 33% | 14% | 0% |
 | Se queda sin marcar | 8% | 0% | 29% | 17% |
 | xG a favor | 1,56 | 1,82 | 1,28 | 0,97 |
 | xG en contra | 1,41 | 0,97 | 1,39 | 1,46 |
@@ -91,10 +91,10 @@ _Actualizadas: 10/11 13:07_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Eibar | Recibe Eibar | Tarjetas Eibar | Goles Cadiz | Recibe Cadiz | Tarjetas Cadiz |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 3 | 1 | 1 | 2 | 4 |
-| 16-30' | 2 | 2 | 1 | 3 | 2 | 5 |
+| 1-15' | 6 | 3 | 1 | 1 | 2 | 4 |
+| 16-30' | 3 | 2 | 2 | 3 | 2 | 5 |
 | 31-45' | 3 | 2 | 5 | 0 | 7 | 5 |
-| 46-60' | 3 | 3 | 4 | 6 | 3 | 3 |
+| 46-60' | 4 | 3 | 4 | 6 | 3 | 3 |
 | 61-75' | 5 | 1 | 4 | 4 | 3 | 9 |
 | 76-90' | 3 | 3 | 11 | 5 | 2 | 20 |
 
@@ -114,12 +114,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Eibar
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-10 | Copa del Rey | Pamplona 0-3 Eibar | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Segunda División | Eibar 1-1 Almeria | casa | 5-3 | 20 (4) - 13 (3) | 3-3 |
 | 2026-10-24 | Segunda División | Cordoba 2-0 Eibar | fuera | 2-16 | 14 (4) - 23 (11) | 2-5 |
 | 2026-10-17 | Segunda División | Eibar 1-1 Mallorca | casa | 5-7 | 13 (6) - 16 (5) | 1-4 |
 | 2026-10-12 | Segunda División | Oviedo 3-1 Eibar | fuera | 5-10 | 18 (6) - 17 (7) | 3-4 |
 | 2026-10-03 | Segunda División | Albacete 1-3 Eibar | fuera | 0-6 | 8 (6) - 22 (6) | 1-2 |
-| 2026-09-27 | Segunda División | Eibar 3-2 Las Palmas | casa | 6-1 | 18 (6) - 11 (5) | 0-8 |
 
 ## Jugadores de Eibar
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -180,39 +180,39 @@ _Sin bajas comunicadas por ahora._
 | G. Gocholeishvili | D | 4 | 217 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,89 · visitante 1,04 · córners esperados 9,6._
+_Goles esperados: local 1,92 · visitante 1,00 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 18% | 19% | 5.25 | +0% |
-| 1X2: X | 22% | 25% | 24% | 3.70 | -12% |
-| 1X2: 1 | 57% | 57% | 57% | 1.62 | -7% |
-| Doble oportunidad: X2 | 43% | 43% | 43% | 2.25 | -4% |
-| Doble oportunidad: 12 | 78% | 75% | 76% | 1.28 | -2% |
-| Doble oportunidad: 1X | 80% | 82% | 81% | 1.17 | -5% |
-| Ambos marcan: No | 45% | 50% | 48% | 1.83 | -13% |
-| Ambos marcan: Sí | 55% | 50% | 52% | 1.83 | -4% |
+| 1X2: 2 | 19% | 18% | 18% | 5.25 | -3% |
+| 1X2: X | 22% | 25% | 23% | 3.70 | -13% |
+| 1X2: 1 | 59% | 57% | 58% | 1.62 | -6% |
+| Doble oportunidad: X2 | 41% | 43% | 42% | 2.25 | -6% |
+| Doble oportunidad: 12 | 78% | 75% | 77% | 1.28 | -2% |
+| Doble oportunidad: 1X | 81% | 82% | 81% | 1.17 | -5% |
+| Ambos marcan: No | 46% | 50% | 48% | 1.83 | -12% |
+| Ambos marcan: Sí | 54% | 50% | 52% | 1.83 | -5% |
 | Goles más/menos: Más de 1.5 | 79% | 75% | 77% | 1.25 | -4% |
 | Goles más/menos: Más de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
-| Goles más/menos: Más de 3.5 | 34% | 31% | 32% | 3.00 | -3% |
-| Goles más/menos: Menos de 1.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles más/menos: Menos de 2.5 | 44% | 49% | 46% | 1.95 | -10% |
-| Goles más/menos: Menos de 3.5 | 66% | 69% | 68% | 1.36 | -8% |
+| Goles más/menos: Más de 3.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles más/menos: Menos de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles más/menos: Menos de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
+| Goles más/menos: Menos de 3.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 1.5 | 56% | 54% | 55% | 1.73 | -5% |
-| Goles del local: Más de 2.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles del local: Menos de 1.5 | 44% | 46% | 45% | 2.00 | -10% |
-| Goles del local: Menos de 2.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles del visitante: Más de 0.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles del visitante: Más de 1.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles del visitante: Menos de 0.5 | 35% | 41% | 38% | 2.25 | -14% |
-| Goles del visitante: Menos de 1.5 | 72% | 75% | 74% | 1.25 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
+| Goles del local: Más de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
+| Goles del local: Más de 2.5 | 30% | 29% | 30% | 3.25 | -4% |
+| Goles del local: Menos de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
+| Goles del local: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -6% |
+| Goles del visitante: Más de 0.5 | 63% | 59% | 61% | 1.57 | -4% |
+| Goles del visitante: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles del visitante: Menos de 0.5 | 37% | 41% | 39% | 2.25 | -12% |
+| Goles del visitante: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
 | 1X2 descanso: X | 39% | 41% | 40% | 2.30 | -8% |
-| 1X2 descanso: 1 | 42% | 42% | 42% | 2.20 | -7% |
+| 1X2 descanso: 1 | 43% | 42% | 43% | 2.20 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

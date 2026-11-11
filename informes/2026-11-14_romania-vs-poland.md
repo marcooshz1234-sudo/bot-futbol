@@ -1,13 +1,13 @@
 # Romania – Poland
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 23:39_
+_Actualizadas: 11/11 02:10_
 
-- **1X2:** 1 **3.80**  ·  X **3.50**  ·  2 **1.95**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.25**
+- **1X2:** 1 **3.90**  ·  X **3.50**  ·  2 **1.90**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **12.00**
@@ -21,18 +21,18 @@ _Actualizadas: 09/11 23:39_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.18** · menos **4.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
+    - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.92** · menos **1.88**
 - **Córners 1X2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.67**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.30**  ·  2 **2.50**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.30**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -40,16 +40,18 @@ _Actualizadas: 09/11 23:39_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.50**
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.75**
-- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
-- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **12.00**  ·  Away/No **3.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **12.00**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.40**  ·  Menos de 4 **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.40**  ·  Menos de 4 **2.20**
+- **Anytime Goal Scorer:** Kamil Piatkowski **15.00**  ·  Tony Strata **11.00**  ·  Karol Swiderski **3.00**  ·  Sebastian Szymanski **3.40**  ·  Przemyslaw Frankowski **7.50**  ·  Tudor Baluta **8.50**  ·  Ianis Hagi **5.00**  ·  Florinel Coman **4.33**  ·  Nicusor Bancu **12.00**  ·  Virgil Ghita **15.00**  ·  Alexandru Cicaldau **7.50**  ·  Andrei Coubis **11.00**  ·  Kacper Potulski **12.00**  ·  Lisav Eissat **12.00**  ·  Rares Ilie **4.33**  ·  Michal Skoras **5.50**  ·  Tomasz Kedziora **9.50**  ·  Lukasz Poreba **6.50**  ·  Mateusz Zukowski **2.50**  ·  Daniel Birligea **3.40**  ·  Marius Corbu **5.00**  ·  Vlad Dragomir **7.50**  ·  Oskar Kubiak **4.33**  ·  Wiktor Nowak **5.50**  ·  Robert Lewandowski **2.10**  ·  Marcel Regula **5.50**  ·  Andrei Ratiu **12.00**  ·  Matty Cash **6.50**  ·  Jan Bednarek **12.00**  ·  Olimpiu Morutan **6.50**  ·  Radu Dragusin **19.00**  ·  Ianis Stoica **5.00**  ·  Vladimir Screciu **11.00**  ·  Matei Ilie **19.00**  ·  Catalin Cirjan **6.50**  ·  Nicola Zalewski **4.33**  ·  Adrian Benedyczak **2.30**  ·  Dennis Man **4.33**  ·  Kacper Urbanski **4.33**  ·  Razvan Marin **6.50**  ·  Piotr Zielinski **3.75**  ·  Jakub Kiwior **15.00**  ·  Tymoteusz Puchacz **8.50**  ·  Bartosz Mazurek **6.50**
+- **Player to Score or Assist:** Kamil Piatkowski **7.00**  ·  Tony Strata **5.00**  ·  Karol Swiderski **1.91**  ·  Sebastian Szymanski **2.05**  ·  Przemyslaw Frankowski **4.00**  ·  Tudor Baluta **5.00**  ·  Ianis Hagi **2.75**  ·  Florinel Coman **2.88**  ·  Nicusor Bancu **4.50**  ·  Virgil Ghita **8.00**  ·  Alexandru Cicaldau **3.75**  ·  Andrei Coubis **6.50**  ·  Kacper Potulski **6.00**  ·  Lisav Eissat **7.00**  ·  Rares Ilie **2.88**  ·  Michal Skoras **3.20**  ·  Tomasz Kedziora **4.33**  ·  Lukasz Poreba **3.75**  ·  Mateusz Zukowski **1.91**  ·  Daniel Birligea **2.50**  ·  Marius Corbu **3.10**  ·  Vlad Dragomir **4.00**  ·  Oskar Kubiak **2.60**  ·  Wiktor Nowak **3.10**  ·  Robert Lewandowski **1.67**  ·  Marcel Regula **3.20**  ·  Andrei Ratiu **5.50**  ·  Matty Cash **3.60**  ·  Jan Bednarek **6.50**  ·  Olimpiu Morutan **3.40**  ·  Radu Dragusin **13.00**  ·  Ianis Stoica **3.20**  ·  Vladimir Screciu **6.50**  ·  Matei Ilie **9.00**  ·  Catalin Cirjan **3.25**  ·  Nicola Zalewski **2.62**  ·  Adrian Benedyczak **1.91**  ·  Dennis Man **2.50**  ·  Kacper Urbanski **2.60**  ·  Razvan Marin **3.75**  ·  Piotr Zielinski **2.20**  ·  Jakub Kiwior **6.50**  ·  Tymoteusz Puchacz **2.88**  ·  Bartosz Mazurek **3.40**
 
 ## Estadísticas de equipo
 | | Romania (total) | Romania en casa | Poland (total) | Poland fuera |

@@ -1,29 +1,67 @@
 # Leganes – Burgos
-**Segunda División** · Regular Season - 14 · 13/11/2026 20:30 (hora España) · Estadio Municipal de Butarque
+**Segunda División** · Regular Season - 14 · 13/11/2026 20:30 (hora España) · Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 11/11 02:09_
+
+- **1X2:** 1 **2.15**  ·  X **3.00**  ·  2 **3.40**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.33**  ·  X2 **1.62**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Goles más/menos:**
+    - 0,5: más **1.08** · menos **7.50**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.25** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.00**  ·  2 **4.33**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **1.67**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **6.00**
+- **Win Both Halves:** 1 **7.00**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.50**  ·  Home/No **3.50**  ·  Draw/No **7.50**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.05**
+- **Home Player Shots:** Alex Sancris - 1 **1.03**  ·  Alex Sancris - 2 **1.18**  ·  Alex Sancris - 3 **1.53**  ·  Alex Sancris - 4 **2.25**  ·  Alex Sancris - 5 **3.75**  ·  Alex Sancris - 6 **7.00**  ·  Alex Sancris - 7 **13.00**  ·  Unax del Cura - 1 **1.05**  ·  Alex Millan - 1 **1.06**  ·  Suleiman El Haddadi - 1 **1.11**  ·  Dani Rodriguez - 1 **1.08**  ·  Patrick Soko - 1 **1.10**  ·  Yassine Kechta - 1 **1.08**  ·  Gonzalo Melero - 1 **1.14**  ·  Andres Campos Bautista - 1 **1.25**  ·  Naim Garcia - 1 **1.20**  ·  Ismael Gharbi - 1 **1.08**  ·  Zico Buurmeester - 1 **1.33**  ·  Ruben Pena - 1 **1.62**  ·  Alvaro Tejero - 1 **1.67**  ·  Amadou Diawara - 1 **1.53**  ·  Enric Franquesa - 1 **1.67**  ·  Gonzalo Aguilar - 1 **1.73**  ·  Miguel Atienza - 1 **1.67**  ·  Beltran Auguste - 1 **1.73**  ·  David Hamansenya - 1 **1.73**  ·  Ignasi Miquel - 1 **1.91**  ·  Marvel Antolin Garzon - 1 **2.38**  ·  Ruben Pulido - 1 **2.50**  ·  Unax del Cura - 2 **1.28**  ·  Alex Millan - 2 **1.33**  ·  Suleiman El Haddadi - 2 **1.50**  ·  Dani Rodriguez - 2 **1.40**  ·  Patrick Soko - 2 **1.44**  ·  Yassine Kechta - 2 **1.40**  ·  Gonzalo Melero - 2 **1.67**  ·  Andres Campos Bautista - 2 **2.10**  ·  Naim Garcia - 2 **1.83**  ·  Ismael Gharbi - 2 **1.40**  ·  Zico Buurmeester - 2 **2.38**  ·  Ruben Pena - 2 **3.75**  ·  Alvaro Tejero - 2 **4.00**  ·  Amadou Diawara - 2 **3.40**  ·  Enric Franquesa - 2 **3.75**  ·  Gonzalo Aguilar - 2 **4.33**  ·  Miguel Atienza - 2 **4.00**  ·  Beltran Auguste - 2 **4.33**  ·  David Hamansenya - 2 **4.33**  ·  Ignasi Miquel - 2 **5.50**  ·  Marvel Antolin Garzon - 2 **8.00**  ·  Ruben Pulido - 2 **9.00**  ·  Unax del Cura - 3 **1.80**  ·  Alex Millan - 3 **1.91**  ·  Suleiman El Haddadi - 3 **2.50**  ·  Dani Rodriguez - 3 **2.20**  ·  Patrick Soko - 3 **2.25**  ·  Yassine Kechta - 3 **2.20**  ·  Gonzalo Melero - 3 **3.00**  ·  Andres Campos Bautista - 3 **4.33**  ·  Naim Garcia - 3 **3.75**  ·  Ismael Gharbi - 3 **2.20**  ·  Zico Buurmeester - 3 **5.50**  ·  Ruben Pena - 3 **11.00**  ·  Alvaro Tejero - 3 **11.00**  ·  Amadou Diawara - 3 **9.00**  ·  Enric Franquesa - 3 **11.00**  ·  Gonzalo Aguilar - 3 **13.00**  ·  Miguel Atienza - 3 **11.00**  ·  Beltran Auguste - 3 **13.00**  ·  David Hamansenya - 3 **13.00**  ·  Ignasi Miquel - 3 **17.00**  ·  Marvel Antolin Garzon - 3 **21.00**  ·  Ruben Pulido - 3 **21.00**  ·  Unax del Cura - 4 **2.75**  ·  Alex Millan - 4 **3.40**  ·  Suleiman El Haddadi - 4 **4.50**  ·  Dani Rodriguez - 4 **3.75**  ·  Patrick Soko - 4 **4.00**  ·  Yassine Kechta - 4 **3.75**  ·  Gonzalo Melero - 4 **6.00**  ·  Andres Campos Bautista - 4 **10.00**  ·  Naim Garcia - 4 **8.00**  ·  Ismael Gharbi - 4 **3.75**  ·  Zico Buurmeester - 4 **13.00**  ·  Ruben Pena - 4 **21.00**  ·  Amadou Diawara - 4 **21.00**  ·  Enric Franquesa - 4 **21.00**  ·  Miguel Atienza - 4 **21.00**  ·  Unax del Cura - 5 **5.00**  ·  Alex Millan - 5 **6.00**  ·  Suleiman El Haddadi - 5 **10.00**  ·  Dani Rodriguez - 5 **8.00**  ·  Patrick Soko - 5 **9.00**  ·  Yassine Kechta - 5 **8.00**  ·  Gonzalo Melero - 5 **13.00**  ·  Andres Campos Bautista - 5 **21.00**  ·  Naim Garcia - 5 **19.00**  ·  Ismael Gharbi - 5 **8.00**  ·  Unax del Cura - 6 **10.00**  ·  Alex Millan - 6 **13.00**  ·  Suleiman El Haddadi - 6 **19.00**  ·  Dani Rodriguez - 6 **17.00**  ·  Patrick Soko - 6 **17.00**  ·  Yassine Kechta - 6 **17.00**  ·  Gonzalo Melero - 6 **21.00**  ·  Unax del Cura - 7 **19.00**  ·  Alex Millan - 7 **21.00**  ·  Yassine Kechta - 7 **21.00**  ·  Ismael Gharbi - 6 **17.00**  ·  Alvaro Morata - 1 **1.05**  ·  Alvaro Morata - 2 **1.30**  ·  Alvaro Morata - 3 **1.83**  ·  Alvaro Morata - 4 **3.00**  ·  Alvaro Morata - 5 **5.50**  ·  Alvaro Morata - 6 **11.00**  ·  Alvaro Morata - 7 **21.00**  ·  Alex Sancris - 8 **21.00**  ·  Alex Fita - 1 **1.83**  ·  Francisco Javi Montero - 1 **2.20**  ·  Alex Fita - 2 **5.00**  ·  Francisco Javi Montero - 2 **6.50**  ·  Alex Fita - 3 **15.00**  ·  Francisco Javi Montero - 3 **21.00**  ·  Jorge Herrero - 1 **1.25**  ·  Jorge Herrero - 2 **2.10**  ·  Jorge Herrero - 3 **4.33**  ·  Jorge Herrero - 4 **10.00**  ·  Jorge Herrero - 5 **21.00**  ·  Ismael Gharbi - 7 **21.00**  ·  Sulaiman Mulumba - 1 **1.73**  ·  Sulaiman Mulumba - 2 **4.33**  ·  Sulaiman Mulumba - 3 **13.00**  ·  Jorge Martinez - 1 **1.14**  ·  Jorge Martinez - 2 **1.67**  ·  Jorge Martinez - 3 **3.00**  ·  Jorge Martinez - 4 **6.00**  ·  Jorge Martinez - 5 **13.00**  ·  Jorge Martinez - 6 **21.00**
+- **Away Player Shots:** Unai Vencedor - 1 **1.80**  ·  Unai Vencedor - 2 **4.33**  ·  Unai Vencedor - 3 **13.00**  ·  Jon Karrikaburu - 1 **1.11**  ·  Jon Karrikaburu - 2 **1.50**  ·  Jon Karrikaburu - 3 **2.50**  ·  Jon Karrikaburu - 4 **4.50**  ·  Jon Karrikaburu - 5 **10.00**  ·  Jon Karrikaburu - 6 **19.00**  ·  David Gonzalez - 1 **1.06**  ·  Francisco Curro - 1 **1.11**  ·  Alex Fores - 1 **1.11**  ·  Kevin Appin - 1 **1.53**  ·  Santiago Lencina - 1 **1.53**  ·  Alberto Dadie - 1 **1.40**  ·  Fermin Garcia - 1 **1.62**  ·  Marcelo Exposito - 1 **1.62**  ·  Pablo Galdames - 1 **1.50**  ·  Javi Llabres - 1 **1.28**  ·  Mario Cantero - 1 **1.67**  ·  Saul del Cerro - 1 **1.67**  ·  Alex Lizancos - 1 **1.73**  ·  Sergio Gonzalez - 1 **1.73**  ·  Ignasi Vilarrasa - 1 **1.83**  ·  Jose Gragera - 1 **2.00**  ·  Brais Martinez - 1 **2.20**  ·  Oier Luengo - 1 **1.91**  ·  Gregorio Sierra - 1 **2.50**  ·  David Gonzalez - 2 **1.33**  ·  Francisco Curro - 2 **1.50**  ·  Alex Fores - 2 **1.53**  ·  Kevin Appin - 2 **3.40**  ·  Santiago Lencina - 2 **3.40**  ·  Alberto Dadie - 2 **2.62**  ·  Fermin Garcia - 2 **3.75**  ·  Marcelo Exposito - 2 **3.75**  ·  Pablo Galdames - 2 **3.25**  ·  Javi Llabres - 2 **2.20**  ·  Mario Cantero - 2 **4.00**  ·  Saul del Cerro - 2 **4.00**  ·  Alex Lizancos - 2 **4.00**  ·  Sergio Gonzalez - 2 **4.33**  ·  Ignasi Vilarrasa - 2 **5.00**  ·  Jose Gragera - 2 **5.50**  ·  Brais Martinez - 2 **6.50**  ·  Oier Luengo - 2 **5.50**  ·  Gregorio Sierra - 2 **9.00**  ·  David Gonzalez - 3 **1.91**  ·  Francisco Curro - 3 **2.50**  ·  Alex Fores - 3 **2.50**  ·  Kevin Appin - 3 **9.00**  ·  Santiago Lencina - 3 **9.00**  ·  Alberto Dadie - 3 **6.00**  ·  Fermin Garcia - 3 **11.00**  ·  Marcelo Exposito - 3 **11.00**  ·  Pablo Galdames - 3 **8.00**  ·  Javi Llabres - 3 **4.50**  ·  Mario Cantero - 3 **11.00**  ·  Saul del Cerro - 3 **11.00**  ·  Alex Lizancos - 3 **11.00**  ·  Sergio Gonzalez - 3 **13.00**  ·  Ignasi Vilarrasa - 3 **15.00**  ·  Jose Gragera - 3 **17.00**  ·  Brais Martinez - 3 **21.00**  ·  Oier Luengo - 3 **17.00**  ·  Gregorio Sierra - 3 **21.00**  ·  David Gonzalez - 4 **3.40**  ·  Francisco Curro - 4 **4.50**  ·  Alex Fores - 4 **4.50**  ·  Kevin Appin - 4 **21.00**  ·  Santiago Lencina - 4 **21.00**  ·  Alberto Dadie - 4 **15.00**  ·  Fermin Garcia - 4 **21.00**  ·  Marcelo Exposito - 4 **21.00**  ·  Pablo Galdames - 4 **19.00**  ·  Javi Llabres - 4 **11.00**  ·  Mario Cantero - 4 **21.00**  ·  Saul del Cerro - 4 **21.00**  ·  David Gonzalez - 5 **6.50**  ·  Francisco Curro - 5 **10.00**  ·  Alex Fores - 5 **10.00**  ·  Javi Llabres - 5 **21.00**  ·  David Gonzalez - 6 **13.00**  ·  Francisco Curro - 6 **19.00**  ·  Alex Fores - 6 **21.00**  ·  David Gonzalez - 7 **21.00**  ·  Irian Ribas - 1 **1.20**  ·  Ivan Martinez - 1 **2.00**  ·  Irian Ribas - 2 **1.83**  ·  Ivan Martinez - 2 **5.50**  ·  Irian Ribas - 3 **3.50**  ·  Ivan Martinez - 3 **17.00**  ·  Irian Ribas - 4 **8.00**  ·  Irian Ribas - 5 **17.00**  ·  Irian Ribas - 6 **21.00**  ·  David Hernaiz - 1 **2.38**  ·  David Hernaiz - 2 **8.00**  ·  David Hernaiz - 3 **21.00**
+- **Anytime Goal Scorer:** Amadou Diawara **9.00**  ·  Brais Martinez **17.00**  ·  Sergio Gonzalez **12.00**  ·  Patrick Soko **4.50**  ·  Alex Fita **11.00**  ·  Gonzalo Aguilar **12.00**  ·  Ignasi Vilarrasa **15.00**  ·  Ruben Pulido **17.00**  ·  Ignasi Miquel **15.00**  ·  Marvel Antolin Garzon **15.00**  ·  Alex Millan **3.25**  ·  Gonzalo Melero **4.50**  ·  Oier Luengo **17.00**  ·  Jon Karrikaburu **4.00**  ·  Francisco Javi Montero **17.00**  ·  Unai Vencedor **10.00**  ·  Francisco Curro **5.00**  ·  Alex Sancris **4.00**  ·  Alberto Dadie **6.50**  ·  David Gonzalez **4.33**  ·  Kevin Appin **8.50**  ·  Marcelo Exposito **8.50**  ·  Miguel Atienza **9.00**  ·  Saul del Cerro **9.00**  ·  Alvaro Morata **3.10**  ·  Alex Lizancos **11.00**  ·  Andres Campos Bautista **5.50**  ·  Pablo Galdames **9.00**  ·  Fermin Garcia **8.50**  ·  David Hamansenya **10.00**  ·  Santiago Lencina **8.50**  ·  Yassine Kechta **4.50**  ·  Enric Franquesa **11.00**  ·  Dani Rodriguez **4.00**  ·  Javi Llabres **6.50**  ·  Alvaro Tejero **12.00**  ·  Jose Gragera **12.00**  ·  Ruben Pena **8.50**  ·  Victor Mollejo **6.50**  ·  Naim Garcia **5.00**  ·  Zico Buurmeester **6.50**  ·  Suleiman El Haddadi **4.00**  ·  Irian Ribas **5.00**  ·  Ivan Martinez **12.00**  ·  Unax del Cura **4.00**  ·  Jorge Herrero **5.50**  ·  Ismael Gharbi **4.50**  ·  Beltran Auguste **10.00**  ·  David Hernaiz **15.00**  ·  Sulaiman Mulumba **10.00**  ·  Jorge Martinez **4.50**  ·  Mario Cantero **9.00**  ·  Gregorio Sierra **17.00**  ·  Alex Fores **4.00**
+- **Player to Score or Assist:** Amadou Diawara **4.50**  ·  Brais Martinez **6.00**  ·  Sergio Gonzalez **6.50**  ·  Patrick Soko **2.50**  ·  Alex Fita **4.75**  ·  Gonzalo Aguilar **7.00**  ·  Ignasi Vilarrasa **6.00**  ·  Ruben Pulido **8.50**  ·  Ignasi Miquel **7.50**  ·  Marvel Antolin Garzon **7.50**  ·  Alex Millan **2.25**  ·  Gonzalo Melero **2.60**  ·  Oier Luengo **13.00**  ·  Jon Karrikaburu **2.60**  ·  Francisco Javi Montero **8.50**  ·  Unai Vencedor **6.00**  ·  Francisco Curro **3.20**  ·  Alex Sancris **2.30**  ·  Alberto Dadie **3.50**  ·  David Gonzalez **2.50**  ·  Kevin Appin **5.00**  ·  Marcelo Exposito **4.00**  ·  Miguel Atienza **4.50**  ·  Saul del Cerro **5.00**  ·  Alvaro Morata **2.30**  ·  Alex Lizancos **5.00**  ·  Andres Campos Bautista **2.88**  ·  Pablo Galdames **4.33**  ·  Fermin Garcia **4.00**  ·  David Hamansenya **4.33**  ·  Santiago Lencina **5.00**  ·  Yassine Kechta **3.10**  ·  Enric Franquesa **4.75**  ·  Dani Rodriguez **2.50**  ·  Javi Llabres **4.00**  ·  Alvaro Tejero **3.00**  ·  Jose Gragera **6.00**  ·  Ruben Pena **4.00**  ·  Victor Mollejo **3.50**  ·  Naim Garcia **2.75**  ·  Zico Buurmeester **3.75**  ·  Suleiman El Haddadi **2.62**  ·  Irian Ribas **3.00**  ·  Ivan Martinez **8.00**  ·  Unax del Cura **2.62**  ·  Jorge Herrero **2.88**  ·  Ismael Gharbi **2.75**  ·  Beltran Auguste **6.00**  ·  David Hernaiz **6.00**  ·  Sulaiman Mulumba **4.33**  ·  Jorge Martinez **2.88**  ·  Mario Cantero **5.00**  ·  Gregorio Sierra **9.50**  ·  Alex Fores **3.20**
 
 ## Estadísticas de equipo
 | | Leganes (total) | Leganes en casa | Burgos (total) | Burgos fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 14 | 6 |
-| Forma (últimos 5) | DDEDD | DEDDV | VEVVV | VVDVE |
-| Balance | 3V 3E 7D | 2V 1E 3D | 8V 3E 3D | 3V 1E 2D |
-| Goles a favor / partido | 0,85 | 1,00 | 1,64 | 1,67 |
-| Goles en contra / partido | 1,77 | 1,50 | 1,14 | 1,33 |
-| Goles a favor 1ª parte | 0,31 | 0,33 | 0,79 | 0,83 |
-| Goles a favor 2ª parte | 0,54 | 0,67 | 0,86 | 0,83 |
-| Goles en contra 1ª parte | 0,77 | 0,83 | 0,79 | 0,67 |
-| Goles en contra 2ª parte | 1,00 | 0,67 | 0,36 | 0,67 |
-| Más de 1,5 goles | 69% | 67% | 64% | 67% |
-| Más de 2,5 goles | 38% | 33% | 57% | 67% |
-| Más de 3,5 goles | 31% | 33% | 36% | 33% |
-| Ambos marcan | 38% | 50% | 64% | 67% |
-| Portería a cero | 23% | 17% | 21% | 17% |
-| Se queda sin marcar | 46% | 33% | 21% | 33% |
+| Partidos analizados | 14 | 6 | 14 | 6 |
+| Forma (últimos 5) | VDDED | DEDDV | VEVVV | VVDVE |
+| Balance | 4V 3E 7D | 2V 1E 3D | 8V 3E 3D | 3V 1E 2D |
+| Goles a favor / partido | 0,86 | 1,00 | 1,64 | 1,67 |
+| Goles en contra / partido | 1,64 | 1,50 | 1,14 | 1,33 |
+| Goles a favor 1ª parte | 0,29 | 0,33 | 0,79 | 0,83 |
+| Goles a favor 2ª parte | 0,57 | 0,67 | 0,86 | 0,83 |
+| Goles en contra 1ª parte | 0,71 | 0,83 | 0,79 | 0,67 |
+| Goles en contra 2ª parte | 0,93 | 0,67 | 0,36 | 0,67 |
+| Más de 1,5 goles | 64% | 67% | 64% | 67% |
+| Más de 2,5 goles | 36% | 33% | 57% | 67% |
+| Más de 3,5 goles | 29% | 33% | 36% | 33% |
+| Ambos marcan | 36% | 50% | 64% | 67% |
+| Portería a cero | 29% | 17% | 21% | 17% |
+| Se queda sin marcar | 43% | 33% | 21% | 33% |
 | xG a favor | 1,46 | 2,23 | 1,40 | 1,25 |
 | xG en contra | 1,79 | 1,38 | 1,38 | 1,45 |
 | Tiros / partido | 12,0 | 14,3 | 12,0 | 10,8 |
@@ -51,9 +89,9 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tramo | Goles Leganes | Recibe Leganes | Tarjetas Leganes | Goles Burgos | Recibe Burgos | Tarjetas Burgos |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 2 | 3 | 2 | 6 | 2 |
-| 16-30' | 2 | 6 | 6 | 5 | 1 | 3 |
-| 31-45' | 0 | 2 | 5 | 4 | 4 | 6 |
-| 46-60' | 2 | 7 | 5 | 3 | 1 | 6 |
+| 16-30' | 2 | 6 | 7 | 5 | 1 | 3 |
+| 31-45' | 0 | 2 | 6 | 4 | 4 | 6 |
+| 46-60' | 3 | 7 | 5 | 3 | 1 | 6 |
 | 61-75' | 2 | 3 | 10 | 3 | 2 | 6 |
 | 76-90' | 3 | 3 | 17 | 6 | 2 | 12 |
 
@@ -73,12 +111,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Leganes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-10 | Copa del Rey | Trival Valderas 0-1 Leganes | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Segunda División | Leganes 1-3 Albacete | casa | 9-5 | 17 (7) - 13 (4) | 5-6 |
 | 2026-11-02 | Segunda División | Valladolid 4-3 Leganes | fuera | 4-6 | 21 (10) - 17 (10) | 5-1 |
 | 2026-10-24 | Segunda División | Leganes 1-1 Mallorca | casa | 7-4 | 13 (4) - 10 (3) | 5-4 |
 | 2026-10-16 | Segunda División | Leganes 0-1 Cordoba | casa | 4-7 | 9 (2) - 20 (3) | 4-2 |
 | 2026-10-11 | Segunda División | Almeria 3-0 Leganes | fuera | 3-8 | 7 (1) - 18 (8) | 5-2 |
-| 2026-10-03 | Segunda División | Cadiz 4-0 Leganes | fuera | 4-5 | 12 (1) - 24 (9) | 3-2 |
 
 ## Jugadores de Leganes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -139,6 +177,40 @@ _Sin bajas comunicadas por ahora._
 | K. Appin | M | 6 | 181 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 5 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,11 · visitante 1,54 · córners esperados 9,3._
+_Goles esperados: local 1,09 · visitante 1,48 · córners esperados 9,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 46% | 27% | 37% | 3.40 | +24% |
+| 1X2: X | 26% | 31% | 28% | 3.00 | -15% |
+| 1X2: 1 | 28% | 43% | 35% | 2.15 | -24% |
+| Doble oportunidad: X2 | 72% | 57% | 65% | 1.62 | +5% |
+| Doble oportunidad: 12 | 74% | 69% | 72% | 1.33 | -5% |
+| Doble oportunidad: 1X | 54% | 74% | 64% | 1.25 | -20% |
+| Ambos marcan: No | 49% | 51% | 50% | 1.80 | -10% |
+| Ambos marcan: Sí | 51% | 49% | 50% | 1.91 | -5% |
+| Goles más/menos: Más de 1.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles más/menos: Más de 2.5 | 48% | 42% | 45% | 2.25 | +1% |
+| Goles más/menos: Más de 3.5 | 26% | 23% | 25% | 4.00 | -1% |
+| Goles más/menos: Menos de 1.5 | 27% | 31% | 29% | 3.00 | -12% |
+| Goles más/menos: Menos de 2.5 | 52% | 58% | 55% | 1.62 | -10% |
+| Goles más/menos: Menos de 3.5 | 74% | 77% | 75% | 1.22 | -8% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 62% | 65% | 1.50 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 73% | 71% | 1.28 | -9% |
+| Goles del local: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
+| Goles del local: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles del local: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +4% |
+| Goles del local: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -0% |
+| Goles del visitante: Más de 0.5 | 77% | 61% | 69% | 1.53 | +6% |
+| Goles del visitante: Más de 1.5 | 44% | 25% | 34% | 3.75 | +29% |
+| Goles del visitante: Menos de 0.5 | 23% | 39% | 31% | 2.38 | -26% |
+| Goles del visitante: Menos de 1.5 | 56% | 75% | 66% | 1.25 | -18% |
+| 1X2 descanso: 2 | 34% | 21% | 28% | 4.33 | +20% |
+| 1X2 descanso: X | 43% | 46% | 45% | 2.00 | -10% |
+| 1X2 descanso: 1 | 23% | 32% | 27% | 2.88 | -21% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Real Sociedad II – Sporting Gijon
 **Segunda División** · Regular Season - 14 · 14/11/2026 16:15 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 08:14_
@@ -175,36 +175,36 @@ _Sin bajas comunicadas por ahora._
 | Diego Sánchez | D | 5 | 186 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 1,37 · córners esperados 9,4._
+_Goles esperados: local 1,21 · visitante 1,37 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 39% | 40% | 2.35 | -7% |
+| 1X2: 2 | 40% | 39% | 40% | 2.35 | -6% |
 | 1X2: X | 26% | 28% | 27% | 3.30 | -10% |
-| 1X2: 1 | 33% | 33% | 33% | 2.80 | -7% |
+| 1X2: 1 | 33% | 33% | 33% | 2.80 | -8% |
 | Doble oportunidad: X2 | 67% | 68% | 67% | 1.40 | -6% |
-| Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -3% |
+| Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -4% |
 | Doble oportunidad: 1X | 60% | 61% | 60% | 1.57 | -6% |
-| Ambos marcan: No | 47% | 42% | 45% | 2.20 | -1% |
-| Ambos marcan: Sí | 53% | 58% | 55% | 1.62 | -11% |
-| Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.25 | -7% |
-| Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -9% |
+| Ambos marcan: No | 48% | 42% | 45% | 2.20 | -1% |
+| Ambos marcan: Sí | 52% | 58% | 55% | 1.62 | -11% |
+| Goles más/menos: Más de 1.5 | 73% | 75% | 74% | 1.25 | -8% |
+| Goles más/menos: Más de 2.5 | 48% | 53% | 50% | 1.80 | -10% |
 | Goles más/menos: Más de 3.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles más/menos: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -3% |
-| Goles más/menos: Menos de 2.5 | 52% | 47% | 50% | 2.00 | -1% |
+| Goles más/menos: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
+| Goles más/menos: Menos de 2.5 | 52% | 47% | 50% | 2.00 | -0% |
 | Goles más/menos: Menos de 3.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles del local: Más de 0.5 | 71% | 72% | 71% | 1.30 | -7% |
-| Goles del local: Más de 1.5 | 35% | 39% | 37% | 2.38 | -12% |
-| Goles del local: Menos de 0.5 | 29% | 28% | 29% | 3.40 | -3% |
-| Goles del local: Menos de 1.5 | 65% | 61% | 63% | 1.53 | -3% |
-| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del local: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
+| Goles del local: Más de 1.5 | 34% | 39% | 37% | 2.38 | -13% |
+| Goles del local: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -3% |
+| Goles del local: Menos de 1.5 | 66% | 61% | 63% | 1.53 | -3% |
+| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -7% |
 | Goles del visitante: Más de 1.5 | 40% | 44% | 42% | 2.10 | -12% |
-| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -5% |
 | Goles del visitante: Menos de 1.5 | 60% | 56% | 58% | 1.67 | -3% |
 | 1X2 descanso: 2 | 30% | 31% | 31% | 3.00 | -8% |
-| 1X2 descanso: X | 43% | 41% | 42% | 2.25 | -4% |
+| 1X2 descanso: X | 44% | 41% | 42% | 2.25 | -4% |
 | 1X2 descanso: 1 | 26% | 27% | 27% | 3.40 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

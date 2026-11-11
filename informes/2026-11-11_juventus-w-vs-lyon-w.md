@@ -1,12 +1,12 @@
 # Juventus W – Lyon W
-**Champions Femenina** · League Stage - 4 · 11/11/2026 21:00 (hora España) · Juventus Center
+**Champions Femenina** · League Stage - 4 · 11/11/2026 21:00 (hora España) · Stadio Pozzi Lamarmora
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 16:44_
+_Actualizadas: 11/11 02:09_
 
-- **1X2:** 1 **13.00**  ·  X **9.00**  ·  2 **1.14**
+- **1X2:** 1 **26.00**  ·  X **11.00**  ·  2 **1.06**
 - **Doble oportunidad:** 1X **5.00**  ·  12 **1.04**  ·  X2 **1.01**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
@@ -42,11 +42,11 @@ _Actualizadas: 10/11 16:44_
     - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **5.50**  ·  2 **1.08**
-- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **1.50**
-- **Win Both Halves:** 1 **51.00**  ·  2 **2.00**
-- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **2.40**  ·  Home/No **26.00**  ·  Draw/No **29.00**  ·  Away/No **1.91**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **4.00**
+- **To Win Either Half:** 1 **9.00**  ·  2 **1.04**
+- **To Score In Both Halves By Teams:** 1 **17.00**  ·  2 **1.40**
+- **Win Both Halves:** 1 **101.00**  ·  2 **1.73**
+- **Results/Both Teams Score:** Home/Yes **41.00**  ·  Draw/Yes **13.00**  ·  Away/Yes **2.88**  ·  Home/No **41.00**  ·  Draw/No **29.00**  ·  Away/No **1.57**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **2.20**  ·  u/yes 2.5 **23.00**  ·  u/no 2.5 **4.00**
 - **Home Corners Over/Under:**
     - 2,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**

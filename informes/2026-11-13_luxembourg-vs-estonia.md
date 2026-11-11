@@ -1,30 +1,30 @@
 # Luxembourg – Estonia
-**Nations League** · League C - 5 · 13/11/2026 20:45 (hora España)
+**Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Stade de Luxembourg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 09/11 23:38_
+_Actualizadas: 11/11 02:09_
 
-- **1X2:** 1 **2.15**  ·  X **3.20**  ·  2 **3.40**
+- **1X2:** 1 **2.05**  ·  X **3.20**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.36**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **7.00**
+    - 0,5: más **1.10** · menos **6.50**
     - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.35** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **8.00** · menos **1.06**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.17**
+    - 4,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.50** · menos **1.28**
-    - 2,5: más **8.00** · menos **1.06**
+    - 2,5: más **8.50** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.30** · menos **3.40**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **5.50** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.53** · menos **2.38**
+    - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **8.50** · menos **1.05**
 - **Córners más/menos:**
@@ -34,20 +34,21 @@ _Actualizadas: 09/11 23:38_
 - **1X2 descanso:** 1 **2.75**  ·  X **1.95**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.25**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **6.00**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **6.50**
 - **Win Both Halves:** 1 **8.00**  ·  2 **15.00**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **7.00**  ·  Away/No **5.50**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.50**  ·  Home/No **3.25**  ·  Draw/No **7.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.91**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.88**  ·  Menos de 4 **1.92**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
+- **Anytime Goal Scorer:** Tanel Tammik **10.00**  ·  Vincent Thill **4.50**  ·  Enzo Duarte **5.50**  ·  Kevor Palumets **7.50**  ·  Maksim Paskotsi **17.00**  ·  Markus Poom **7.50**  ·  Martin Miller **5.50**  ·  Mattias Kait **6.50**  ·  Mihkel Ainsalu **7.50**  ·  Patrik Kristal **6.50**  ·  Rasmus Peetson **7.50**  ·  Rocco Robert Shein **10.00**  ·  Michael Schjonning- Larsen **13.00**  ·  Aiman Dardari **3.75**  ·  Jayson Videira **3.75**  ·  Sebastien Thill **5.50**  ·  Mathias Olesen **8.50**  ·  Timothe Rupil **4.50**  ·  Florian Bohnert **10.00**  ·  Eldin Dzogovic **13.00**  ·  Dirk Carlson **15.00**  ·  Enes Mahmutovic **15.00**  ·  Laurent Jans **10.00**  ·  Tomas Moreira **6.00**  ·  Karel Mustmaa **4.33**  ·  Marten Chris Paalberg **4.33**  ·  Eric Veiga **8.50**  ·  Miguel Goncalves **10.00**  ·  Hamza Kadamani **3.50**  ·  Frank Liivak **5.00**  ·  Maksimilian Skvortsov **6.00**  ·  Mattias Mannilaan **4.33**  ·  Omar Natami **3.75**  ·  Tim Hall **15.00**  ·  Farid Ikene **6.50**  ·  Mihhail Kolobov **15.00**  ·  Nikita Mihhailov **10.00**  ·  Patrick Macedo **3.50**  ·  Joseph Saliste **15.00**  ·  Erko Tougjas **15.00**  ·  Karol Mets **15.00**  ·  Vahid Selimovic **13.00**  ·  Vladislav Kreida **10.00**
 
 ## Estadísticas de equipo
 | | Luxembourg (total) | Luxembourg en casa | Estonia (total) | Estonia fuera |

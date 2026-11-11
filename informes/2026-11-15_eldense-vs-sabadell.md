@@ -1,7 +1,7 @@
 # Eldense – Sabadell
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Actualizadas: 10/11 13:07_
@@ -167,21 +167,21 @@ _Sin bajas comunicadas por ahora._
 | Pipa | M | 5 | 181 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,78 · visitante 0,89 · córners esperados 9,4._
+_Goles esperados: local 0,78 · visitante 0,88 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 36% | 34% | 35% | 2.75 | -4% |
-| 1X2: X | 34% | 29% | 32% | 3.20 | +1% |
+| 1X2: X | 34% | 29% | 32% | 3.20 | +2% |
 | 1X2: 1 | 30% | 37% | 34% | 2.50 | -16% |
 | Doble oportunidad: X2 | 70% | 60% | 65% | 1.57 | +3% |
 | Doble oportunidad: 12 | 66% | 70% | 68% | 1.36 | -8% |
 | Doble oportunidad: 1X | 64% | 70% | 67% | 1.36 | -9% |
 | Ambos marcan: No | 68% | 50% | 59% | 1.83 | +8% |
 | Ambos marcan: Sí | 32% | 50% | 41% | 1.83 | -25% |
-| Goles más/menos: Más de 1.5 | 50% | 69% | 59% | 1.36 | -19% |
+| Goles más/menos: Más de 1.5 | 50% | 69% | 59% | 1.36 | -20% |
 | Goles más/menos: Más de 2.5 | 23% | 44% | 34% | 2.15 | -28% |
 | Goles más/menos: Más de 3.5 | 9% | 25% | 17% | 3.75 | -37% |
 | Goles más/menos: Menos de 1.5 | 50% | 31% | 41% | 3.00 | +22% |

@@ -1,7 +1,7 @@
 # Cittadella – Folgore Caratese
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -94,6 +94,6 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,00 · visitante 0,33._
+_Goles esperados: local 1,99 · visitante 0,33._
 
 _Sin cuotas de Bet365 todavía para comparar._

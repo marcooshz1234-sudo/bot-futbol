@@ -1,10 +1,10 @@
 # England – Croatia
 **Nations League** · League A - 5 · 12/11/2026 20:45 (hora España) · Wembley Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 16:44_
+_Actualizadas: 11/11 02:09_
 
 - **1X2:** 1 **1.25**  ·  X **7.00**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.10**  ·  X2 **4.00**

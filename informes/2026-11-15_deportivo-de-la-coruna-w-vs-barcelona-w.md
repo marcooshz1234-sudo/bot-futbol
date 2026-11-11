@@ -1,7 +1,7 @@
 # Deportivo de La Coruña W – Barcelona W
 **Liga F** · Regular Season - 11 · 15/11/2026 18:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -99,6 +99,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,50 · visitante 3,59._
+_Goles esperados: local 0,50 · visitante 3,58._
 
 _Sin cuotas de Bet365 todavía para comparar._

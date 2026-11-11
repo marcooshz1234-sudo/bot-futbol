@@ -1,10 +1,10 @@
 # Montenegro – Latvia
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · Gradski Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 10/11 19:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 02:11._
 
 ## Cuotas Bet365
-_Actualizadas: 10/11 16:44_
+_Actualizadas: 11/11 02:09_
 
 - **1X2:** 1 **1.30**  ·  X **5.50**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **3.40**
