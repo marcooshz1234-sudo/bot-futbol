@@ -190,3 +190,4 @@
 2026-11-11 07:54:22 arranca el bot del móvil
 2026-11-11 13:50:47 arranca el bot del móvil
 2026-11-11 19:42:52 arranca el bot del móvil
+2026-11-11 22:43:15 botón ap|74271b2502 → ok
