@@ -1655,5 +1655,31 @@
       "total": 9
     },
     "texto": "📊 BALANCE DEL MIÉRCOLES: 1 DE 3 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n❌ Vamos con el pick de la tarde familia 🔥\n❌ Combinada que nos gusta mucho familia 🔥\n✅ Y para cerrar el día, otro pick que nos gusta mucho 👇\n\n✅ 1 acertadas · ❌ 2 falladas · ⏳ 4 sin resolver"
+  },
+  "2026-11-12": {
+    "dia": "2026-11-12",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-12-ganadores-nations",
+        "titulo": "🏆 NATIONS LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 4
+    },
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
