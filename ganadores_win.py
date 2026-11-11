@@ -17,7 +17,7 @@ HORA = (10, 0)
 HORA_NOCHE = (2, 0)   # 07/11 (Marcos): uno de madrugada («a las 2») y otro por la mañana con OTROS partidos, todos los días
 MIN_PROB, N, MIN_N = 0.55, 8, 6
 MIN_PROB_POCOS = 0.40   # 05/11: el viernes 06/11 con 0,45 solo salían 4 y no había post
-TITULOS = {5: "NATIONS LEAGUE", 2: "CHAMPIONS LEAGUE", 3: "EUROPA LEAGUE", 848: "CONFERENCE LEAGUE", 140: "LALIGA", 39: "PREMIER LEAGUE",
+TITULOS = {525: "CHAMPIONS FEMENINA", 143: "COPA DEL REY", 5: "NATIONS LEAGUE", 2: "CHAMPIONS LEAGUE", 3: "EUROPA LEAGUE", 848: "CONFERENCE LEAGUE", 140: "LALIGA", 39: "PREMIER LEAGUE",
            135: "SERIE A", 78: "BUNDESLIGA", 61: "LIGUE 1", 94: "LIGA PORTUGAL", 88: "EREDIVISIE"}
 PRIORIDAD = (5, 2, 3, 848, 140, 39, 135, 78, 61)
 CORTO = {"Bayer Leverkusen": "Leverkusen", "AC Milan": "Milan", "NEC Nijmegen": "NEC", "HNK Hajduk Split": "Hajduk Split",
@@ -59,47 +59,85 @@ def candidatos(dia, minimo=None, excluir=()):
     return salida
 
 
-def posts(dia):
-    """07/11: los dos del día: madrugada (02:00) y mañana (10:00) sin repetir partidos."""
-    import json
-    from bot import DATOS
-    salida = []
-    p1 = post(dia, hora=HORA_NOCHE)
-    try:   # si el de madrugada ya está en la cola (subido a mano), cuentan sus partidos
-        cola = json.loads((DATOS.parent / "publicaciones" / "cola.json").read_text())
-        p1 = next((x for x in cola if x.get("id") == f"{dia}-ganadores-win"), None) or p1
-    except Exception:
-        pass
-    if p1:
-        salida.append(p1)
-    usados = {int(x.split("|")[0]) for x in (p1 or {}).get("sel", [])}
-    p2 = post(dia, hora=HORA, excluir=usados, sufijo="-2")
-    if p2:
-        salida.append(p2)
+# 11/11 05:26 (Marcos): varios «Partidos de hoy» por día, cada uno de UNA competición con su logo cuando se pueda.
+# LaLiga fija siempre que haya (la primera, a las 00:00); Champions, Europa League, Conference (y Nations League,
+# Copa del Rey, Champions femenina) siempre que haya; luego las otras grandes, que van rotando de hora cada día; al
+# final, «el resto» mezclado. Cada una a su hora (00:00, 01:00, 02:00, 09:00…), como mucho 10 filas.
+FIJAS = (("laliga", {140}, 3), ("champions", {2}, 3), ("europa", {3}, 3), ("conference", {848}, 3), ("nations", {5}, 3),
+         ("copa", {143}, 3), ("champions-fem", {525}, 3))
+ROTAN = (("premier", {39}, 4), ("seriea", {135}, 4), ("bundesliga", {78}, 4), ("ligue1", {61}, 4))
+HORAS = ((0, 0), (1, 0), (2, 0), (9, 0), (10, 0), (11, 0), (12, 0), (13, 0))
+MAX_FILAS = 10
+
+
+def grupos(dia, excluir=()):
+    """[(clave, partidos)] del día en el orden en que salen."""
+    c = candidatos(dia, excluir=excluir)
+    rot = list(ROTAN)
+    k = datetime.fromisoformat(dia).toordinal() % len(rot)
+    rot = rot[k:] + rot[:k]   # cada día empieza otra liga grande
+    salida, usados = [], set()
+    for clave, ligas, minimo in FIJAS + tuple(rot):
+        sel = [x for x in c if x["liga"] in ligas]
+        if clave == "laliga" and len(sel) < minimo:   # LaLiga, fija: se baja un poco el listón antes de no sacarla
+            sel = [x for x in candidatos(dia, 0.45, excluir) if x["liga"] in ligas]
+        if len(sel) >= minimo:
+            salida.append((clave, sel))
+            usados |= {x["fid"] for x in sel}
+    resto = [x for x in c if x["fid"] not in usados]
+    if len(resto) < 4:
+        resto = [x for x in candidatos(dia, MIN_PROB_POCOS, excluir) if x["fid"] not in usados]
+    if len(resto) >= 4:
+        salida.append(("resto", resto))
     return salida
 
 
-def post(dia, hora=HORA, excluir=(), sufijo=""):
-    """Dict de post para la cola (o None)."""
+def posts(dia):
+    """Todos los «Partidos de hoy» del día (ver arriba). Lo subido a mano para ese día no se repite."""
+    import json
+    from bot import DATOS
+    usados = set()
+    try:
+        cola = json.loads((DATOS.parent / "publicaciones" / "cola.json").read_text())
+        for x in cola:
+            if x.get("id", "").startswith(f"{dia}-ganadores-win"):
+                usados |= {int(s.split("|")[0]) for s in x.get("sel", [])}
+    except Exception:
+        pass
+    salida = []
+    for i, (clave, sel) in enumerate(grupos(dia, usados)):
+        p = post(dia, hora=HORAS[min(i, len(HORAS) - 1)], sufijo=clave, sel=sel)
+        if p:
+            salida.append(p)
+    return salida
+
+
+def post(dia, hora=HORA, excluir=(), sufijo="", sel=None):
+    """Dict de post para la cola (o None). Con sel: esos partidos (un grupo de grupos())."""
     import semana
-    c = candidatos(dia, excluir=excluir)
-    por_liga = {}
-    for x in c:
-        por_liga.setdefault(x["liga"], []).append(x)
-    llenas = [l for l, v in por_liga.items() if len(v) >= N]
-    if llenas:
-        liga = max(llenas, key=lambda l: (len(por_liga[l]), -PRIORIDAD.index(l) if l in PRIORIDAD else -99))
-        sel, titulo = por_liga[liga], TITULOS.get(liga) or ""
-    else:
-        liga, sel, titulo = None, c, "PARTIDOS DE HOY"
-        if len(sel) < MIN_N:   # 05/11 (Marcos): días con pocos partidos (viernes) → todos juntos, el favorito de cada uno
-            sel = candidatos(dia, MIN_PROB_POCOS, excluir)
-    if len(sel) < (MIN_N if llenas else 5) or not titulo:
+    if sel is None:   # el de antes: una liga con 8+ favoritos o todos juntos
+        c = candidatos(dia, excluir=excluir)
+        por_liga = {}
+        for x in c:
+            por_liga.setdefault(x["liga"], []).append(x)
+        llenas = [l for l, v in por_liga.items() if len(v) >= N]
+        if llenas:
+            liga = max(llenas, key=lambda l: (len(por_liga[l]), -PRIORIDAD.index(l) if l in PRIORIDAD else -99))
+            sel = por_liga[liga]
+        else:
+            sel = c
+            if len(sel) < MIN_N:   # 05/11 (Marcos): días con pocos partidos (viernes) → todos juntos
+                sel = candidatos(dia, MIN_PROB_POCOS, excluir)
+        if len(sel) < (MIN_N if llenas else 5):
+            return None
+        sufijo = "win" + sufijo
+    if not sel:
         return None
-    sel = sorted(sel, key=lambda x: -(x["prob"] + (0.06 if x["grande"] else 0)))[:N]   # los grandes llaman más
+    ligas = {x["liga"] for x in sel}
+    liga = ligas.pop() if len(ligas) == 1 else None
+    titulo = (TITULOS.get(liga) if liga else None) or "PARTIDOS DE HOY"
+    sel = sorted(sel, key=lambda x: -(x["prob"] + (0.06 if x["grande"] else 0)))[:MAX_FILAS]   # los grandes llaman más
     sel.sort(key=lambda x: (x["ini"], x["equipo"]["name"]))
-    if liga is None and len({x["liga"] for x in sel}) == 1:   # 11/11 (Marcos): todos de la misma competición → su logo
-        liga = sel[0]["liga"]
     filas, lineas = [], []
     for i, x in enumerate(sel, 1):
         n = x["equipo"]["name"]
@@ -116,14 +154,14 @@ def post(dia, hora=HORA, excluir=(), sufijo=""):
     texto = f"🏆 {titulo} - GANADORES\n\n" + "\n".join(lineas) + "\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚"
     f = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hora[0], minute=hora[1])
     f = min(f, sel[0]["ini"] - timedelta(hours=1))
-    return {"id": f"{dia}-ganadores-win{sufijo}", "fecha": f.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
-            "origen": "analista", "directo": True, "solo_redes": True, "sin_instagram": True, "forzar": True,
+    return {"id": f"{dia}-ganadores-{sufijo}", "fecha": f.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
+            "origen": "analista", "directo": True, "solo_redes": True, "forzar": True,   # 11/11: también a Instagram (reel)
             "sel": [f"{x['fid']}|Match Winner|{x['lado']}" for x in sel], "cuotas": [x["cuota"] for x in sel],
             "ganadores_img": {"titulo": titulo, "liga": liga, "filas": filas}}
 
 
-def hacer_imagen(p):
-    """Tarjeta de Threads (publicaciones/media/<id>.tarjeta.jpg). 11/11: plantilla «estadio» (logo nuevo)."""
+def datos_imagen(p):
+    """(filas con la ruta del escudo, ruta del logo de la competición o None) del post."""
     import ganadores_img as G
     from pathlib import Path
     from imagenes import MEDIA, escudo
@@ -140,4 +178,12 @@ def hacer_imagen(p):
     if g.get("liga"):
         l = MEDIA / "escudos" / f"liga-{g['liga']}.png"
         liga = str(l) if l.exists() else G.logo_liga(g["liga"])
-    return G.generar(filas, g["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga)
+    return filas, liga
+
+
+def hacer_imagen(p):
+    """Tarjeta de Threads (publicaciones/media/<id>.tarjeta.jpg). 11/11: plantilla «estadio» (logo nuevo)."""
+    import ganadores_img as G
+    from imagenes import MEDIA
+    filas, liga = datos_imagen(p)
+    return G.generar(filas, p["ganadores_img"]["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga)

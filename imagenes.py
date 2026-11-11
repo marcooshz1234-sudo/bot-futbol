@@ -87,6 +87,11 @@ def partes(texto):
 
 
 def documento(p, vertical, mostrar=None, foto_b64=None):
+    if p.get("ganadores_img"):   # 11/11: «Partidos de hoy» en Instagram = la misma foto (reel e historia en vertical)
+        import fotos
+        import ganadores_win
+        filas, liga = ganadores_win.datos_imagen(p)
+        return fotos.quien_gana(filas, p["ganadores_img"]["titulo"], liga=liga, alto=1920 if vertical else 1350), 1
     if re.search(r"-pick(-|$)", p.get("id", "")) and not re.search(r"verde|rojo", p.get("id", "")) and not foto_b64:
         import fotos   # 11/11: el pick suelto con su plantilla (escudos, VS, cuota)
         doc = fotos.pick_del_dia(p, 1080, 1920 if vertical else 1350)

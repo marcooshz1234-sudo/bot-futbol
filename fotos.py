@@ -551,7 +551,7 @@ def es_seleccion(f):
     return fem(f.get("nombre", "")).replace(" (fem.)", "") in nombres
 
 
-def quien_gana(filas, titulo, sub=None, liga=None):
+def quien_gana(filas, titulo, sub=None, liga=None, alto=1350):
     """«GANADORES» (11/11, Marcos: «lo más parecido a como lo teníamos antes»): como la plantilla oro (número dorado,
     bandera dibujada, escudo, flecha y WIN) sobre el fondo del logo nuevo. Selecciones: solo su bandera (no se repite)."""
     from ganadores_img import BANDERAS_SVG, _bandera
@@ -584,5 +584,5 @@ def quien_gana(filas, titulo, sub=None, liga=None):
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
         + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'
         f'<div style="margin:36px 0 64px;display:flex;justify-content:center">{_brocha("¿LA PINTAMOS DE VERDE? 🍀", 54)}</div>')
-    centrar = "body{justify-content:center;height:1350px}" if n <= 5 else ""   # pocas filas: todo centrado
-    return _html(cuerpo, 1080, 1350, extra=css + centrar)
+    centrar = f"body{{justify-content:center;height:{alto}px}}" if n <= 5 or alto > 1350 else ""   # pocas filas: centrado
+    return _html(cuerpo, 1080, alto, extra=css + centrar)
