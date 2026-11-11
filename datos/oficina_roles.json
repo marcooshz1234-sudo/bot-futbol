@@ -28,5 +28,25 @@
   "rol": "ojeador",
   "hora": "2026-11-11T14:12",
   "texto": "Pérez 46954: combi Køge gana una mitad + Lyon +1,5 goles (@1,55) apuntada y en cola 14:32. Accrington +1,5 ya estaba."
+ },
+ {
+  "rol": "vigilante",
+  "hora": "2026-11-11T14:38",
+  "texto": "Mañana OK en TG/Threads/IG; bucle en marcha. Benfica fem. aplazado al 12/11: avisado a Marcos"
+ },
+ {
+  "rol": "redactor",
+  "hora": "2026-11-11T14:38",
+  "texto": "Revisados posts de hoy y ganadores de esta noche; aviso de 3 posts con el partido aplazado y 2 cuotazas con hora mala"
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-11T14:38",
+  "texto": "6 picks nuevos apuntados (INSIDER, TipsPro, TRADER) + tipsters.py"
+ },
+ {
+  "rol": "community",
+  "hora": "2026-11-11T14:38",
+  "texto": "1 respuesta propuesta (aplazado del Benfica); spam sin contestar"
  }
 ]

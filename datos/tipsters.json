@@ -470,5 +470,149 @@
    "cuota_bet365": 1.12,
    "prob_cuota": 0.877
   }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44950",
+  "dia": "2026-11-12",
+  "hora": "18:30",
+  "local": "Calvo Sotelo",
+  "visitante": "Albacete",
+  "texto": "Albacete no pierde (doble oportunidad)",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": 1.14,
+  "combinada": "-1001299202120/44950",
+  "argumento": [
+   "Combinada de 3 a @1,57 (200 €): Albacete o empate, +1,5 goles Chequia–España y gana Montenegro"
+  ],
+  "por_que": [
+   "Albacete (2ª) visita a un 2ª Federación último de su grupo (1 victoria en 10, 6 goles a favor, según TipsPro). Cuota de gana Albacete 1,55: el X2 a 1,14 es de lo más sólido de la Copa, aunque rote."
+  ],
+  "partido_id": 1644370,
+  "analisis": {
+   "liga": "Copa del Rey",
+   "cuota_bet365": 1.14,
+   "prob_cuota": 0.877
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44950",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Montenegro",
+  "visitante": "Latvia",
+  "texto": "Gana Montenegro",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.23,
+  "combinada": "-1001299202120/44950",
+  "argumento": [
+   "Pata de la combinada a @1,57"
+  ],
+  "por_que": [
+   "Montenegro favorito claro en casa (1,30 en nuestros datos; ellos la cogen a 1,23, algo por debajo). Letonia de las más flojas de su grupo; riesgo: Montenegro juega con presión y puede atascarse."
+  ],
+  "partido_id": 1545613,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.3,
+   "prob_cuota": 0.813
+  }
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10064",
+  "dia": "2026-11-12",
+  "hora": "18:30",
+  "local": "Calvo Sotelo",
+  "visitante": "Albacete",
+  "texto": "Se clasifica Albacete",
+  "mercado": "To Qualify",
+  "opcion": "Away",
+  "cuota": 1.26,
+  "combinada": "-1001262785423/10064",
+  "argumento": [
+   "El Albacete rotará, pero el local va último en su grupo de 2ª Federación: 1 victoria en 10 jornadas y 6 goles a favor"
+  ],
+  "por_que": [
+   "Dos categorías de diferencia y el de abajo en mala racha: «se clasifica» cubre prórroga y penaltis. Lección del 10/11: con 2 categorías de diferencia el favorito sí cumple; a 1,26 hay poco valor pero mucha probabilidad."
+  ],
+  "partido_id": 1644370,
+  "analisis": {
+   "liga": "Copa del Rey",
+   "prob_cuota": 0.794
+  }
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10064",
+  "dia": "2026-11-12",
+  "hora": "19:00",
+  "local": "Navalcarnero",
+  "visitante": "Real Betis",
+  "texto": "Gana el Betis y más de 1,5 goles (Crear apuesta)",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.23,
+  "combinada": "-1001262785423/10064",
+  "argumento": [
+   "El Betis tiene muchas bajas por selecciones, pero 9 días hasta el siguiente partido: saldrá con lo que queda del primer equipo, suficiente ante un 2ª Federación"
+  ],
+  "por_que": [
+   "Betis a 1,12 y +1,5 goles a 1,07 en nuestros datos: muy probable, aunque en Copa el grande a veces gana 0-1 y se queda corto en goles. Combinada total @1,55 (500 €)."
+  ],
+  "partido_id": 1644363,
+  "analisis": {
+   "liga": "Copa del Rey",
+   "cuota_bet365": 1.12,
+   "prob_cuota": 0.813
+  }
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10067",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "England",
+  "visitante": "Croatia",
+  "texto": "Gana Inglaterra, Inglaterra marca más de 1,5 y más de 0,5 goles en la 1ª parte (Crear apuesta)",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.54,
+  "argumento": [
+   "En casa y con casi todos disponibles; quiere llegar a la última jornada con opciones de ser 1º",
+   "En la ida les metieron 7 a Croacia",
+   "Croacia juega por no descender y tiene bajas importantes en puestos clave"
+  ],
+  "por_que": [
+   "Inglaterra 1,22 en nuestros datos y +1,5 goles del partido 1,14: tiene sentido que Inglaterra marque 2. Ojo: lleva una pata de 1ª parte (+0,5 goles 1ª mitad), que nosotros no usamos. 500 € apostados."
+  ],
+  "partido_id": 1528962,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.22,
+   "prob_cuota": 0.649
+  }
+ },
+ {
+  "tipster": "TRADER FOOTBALL",
+  "fuente": "-1001550157115/100150",
+  "dia": "2026-11-11",
+  "hora": "20:00",
+  "local": "Liverpool W",
+  "visitante": "Aston Villa W",
+  "texto": "Más de 2,5 goles en Liverpool (fem.) – Aston Villa (fem.)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.53,
+  "stake": 3,
+  "argumento": [
+   "Pronóstico gratuito, FA WSL Cup (Prenton Park, 20:00)"
+  ],
+  "por_que": [
+   "No da razones. Racha de forma en su foto: Liverpool LLDLL y Aston Villa WWDDL; el Liverpool pierde mucho y encaja, lo que apoya goles, pero en Copa de la Liga femenina suelen rotar. Partido que no está en nuestros datos: sin estadísticas para confirmar."
+  ]
  }
 ]
