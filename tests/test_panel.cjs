@@ -33,10 +33,10 @@ assert.ok(!finals.includes('EquipoEnJuego'));
 vm.runInContext('D.partidos[1].estado="FT"', context);
 assert.ok(!vm.runInContext('vDirecto()', context).includes('EquipoEnJuego'));
 assert.ok(vm.runInContext('vDirecto("terminados")', context).includes('EquipoEnJuego'));
-assert.ok(html.includes('src="logo.png?v=cl3"'));
+assert.ok(html.includes('src="logo.png?v=cl4"'));
 const pub = fs.readFileSync('docs/publica/index.html','utf8');
-assert.ok(pub.includes('src="../logo.png?v=cl3"'));
-assert.ok(pub.includes('href="../icono-180.png?v=cl3"'));
+assert.ok(pub.includes('src="../logo.png?v=cl4"'));
+assert.ok(pub.includes('href="../icono-180.png?v=cl4"'));
 for (const dir of ['docs','docs/publica']) {
   const manifest=JSON.parse(fs.readFileSync(dir+'/manifest.json','utf8'));
   assert.ok(manifest.icons.some(i=>i.sizes==='192x192'));

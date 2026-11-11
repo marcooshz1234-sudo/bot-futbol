@@ -297,8 +297,8 @@ def generar(p, pagina):
 
 def huella(p):
     import hashlib
-    # «diseño-3»: 11/11, plantillas con el logo nuevo y tarjeta de 1 partido con el formato de antes → se rehacen las imágenes de los posts que aún no han salido
-    return hashlib.sha1((p["texto"] + str(p.get("foto")) + "diseño-3").encode()).hexdigest()[:12]
+    # «diseño-4»: 11/11 estilo CL; «diseño-3»: 11/11, plantillas con el logo nuevo y tarjeta de 1 partido con el formato de antes → se rehacen las imágenes de los posts que aún no han salido
+    return hashlib.sha1((p["texto"] + str(p.get("foto")) + "diseño-4").encode()).hexdigest()[:12]
 
 
 def pendientes_de(cola, ahora, control=None, estado=None):
