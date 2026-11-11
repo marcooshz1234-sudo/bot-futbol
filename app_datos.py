@@ -654,6 +654,7 @@ def copia_publica():
     html = (RAIZ / "docs" / "index.html").read_text(encoding="utf-8")
     html = (html.replace('href="icono-180.png', 'href="../icono-180.png')
             .replace('src="logo.png', 'src="../logo.png')
+            .replace('url("fondo.jpg")', 'url("../fondo.jpg")')   # 12/11: si no, la pública salía sin estadio (negra)
             )
     (pub / "index.html").write_text(html, encoding="utf-8")
     man = json.loads((RAIZ / "docs" / "manifest.json").read_text(encoding="utf-8"))

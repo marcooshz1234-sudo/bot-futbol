@@ -178,6 +178,15 @@ class TestFallos11Nov(unittest.TestCase):
             src = (RAIZ / "docs" / app / "index.html").read_text(encoding="utf-8")
             self.assertIn('url("../fondo.jpg")', src, app)
         self.assertIn('url("fondo.jpg")', (RAIZ / "docs" / "index.html").read_text(encoding="utf-8"))
+        # 12/11: la pública la rehace app_datos.copia_publica en cada pasada: el arreglo tiene que estar ahí
+        import tempfile, shutil, app_datos
+        with tempfile.TemporaryDirectory() as d:
+            (Path(d) / "docs").mkdir()
+            for f in ("index.html", "manifest.json"):
+                shutil.copy(RAIZ / "docs" / f, Path(d) / "docs" / f)
+            with mock.patch.object(app_datos, "RAIZ", Path(d)):
+                app_datos.copia_publica()
+            self.assertIn('url("../fondo.jpg")', (Path(d) / "docs" / "publica" / "index.html").read_text(encoding="utf-8"))
 
     def test_verde_de_escalera_lo_dice(self):
         import ticket_verde as T
