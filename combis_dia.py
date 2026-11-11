@@ -1140,7 +1140,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             ya = {(p["partido_id"], p["mercado"], p["opcion"]) for p in r[1]}
             seg = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
             ya |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in seg}
-            tk = pick_de_tipster(pools, dia, hora, usados=ya)
+            tk = pick_de_tipster(pools, dia, hora, usados=ya, rango=(1.20, 2.20))
             if tk and tk["partido_id"] not in {p["partido_id"] for p in r[1]}:
                 patas = sorted(r[1] + [tk], key=lambda p: p.get("fecha", ""))
                 import math
@@ -1365,7 +1365,7 @@ SEGURO_DESDE = "2026-11-10"
 SEGURO_NUEVO = {"cuota": (1.50, 1.70), "hora2": (18, 0)}
 
 
-def pick_de_tipster(pools, dia, hora, otro=None, usados=()):
+def pick_de_tipster(pools, dia, hora, otro=None, usados=(), rango=None):
     """09/11: un pick de los tipsters que sigue Marcos (tipsters.py), como pick nuestro: con la cuota de bet365 si
     lo tenemos en el pool; si el modelo lo ve claramente peor que su cuota (8 puntos), no."""
     try:
@@ -1402,6 +1402,9 @@ def pick_de_tipster(pools, dia, hora, otro=None, usados=()):
                     except ValueError:
                         pass
         if datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=45):
+            continue
+        if rango and not rango[0] <= float(p["cuota"]) <= rango[1]:   # 11/11: un @1,12 no es pick del día
+            print(f"tipsters: {tk['texto']} no (cuota {p['cuota']} fuera de {rango})")
             continue
         p["tipster"] = tk["tipster"]
         return p
@@ -1467,7 +1470,7 @@ def pick_seguro(pools, dia, segundo=False):
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     otro = segundo["partido_id"] if segundo else None
     if dia >= SEGURO_DESDE and primero_tipsters:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
-        t = pick_de_tipster(pools, dia, hora, otro) or pick_de_copa(pools, hora, otro)
+        t = pick_de_tipster(pools, dia, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85))) or pick_de_copa(pools, hora, otro)
         if t:
             return t, hora
     def buscar(lo, hi, prob_min, fijo=True):
@@ -1481,7 +1484,7 @@ def pick_seguro(pools, dia, segundo=False):
         # 1) 1,45-1,85  2) el pick de un tipster del día  3) el más probable del modelo hasta 2,00
         cand = buscar(min(lo, 1.45), max(hi, 1.85), SEGURO["prob_min"])
         if not cand and not primero_tipsters:
-            t = pick_de_tipster(pools, dia, hora, otro) or pick_de_copa(pools, hora, otro)
+            t = pick_de_tipster(pools, dia, hora, otro, rango=(1.45, 1.85)) or pick_de_copa(pools, hora, otro)
             if t:
                 print("Mínimo diario: pick de tipster")
                 return t, hora

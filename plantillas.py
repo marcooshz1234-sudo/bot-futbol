@@ -21,6 +21,15 @@ from datetime import datetime, timedelta
 from bot import DATOS, MADRID, RAIZ, leer
 from picks import es_sin_empate
 
+
+def es(nombre):
+    """11/11: nombres en español en los textos (Czechia → Chequia, Spain → España, Lyon W → Lyon (fem.))."""
+    try:
+        from combis_dia import nombre_es
+        return nombre_es(nombre)
+    except Exception:
+        return nombre
+
 AUTO = RAIZ / "publicaciones" / "auto.json"
 AUTO_DESDE = "2026-10-26"                       # días anteriores ya estaban programados en Metricool
 ESCALERA_DESDE = "2026-10-24"                   # la escalera ya sale sola desde el sábado
@@ -54,7 +63,7 @@ def bandera_pick(p):
         eq = p.get("visitante") if lado_ == "visitante" else p.get("local")
     pais = semana.pais_equipo(eq) if eq else None
     # si no se sabe el país, ✅ (las banderas de competición como ⭐ no las entiende el seguimiento de picks)
-    return semana.BANDERAS.get(pais) or "✅"
+    return semana.BANDERAS.get(pais) or "⚽"   # 11/11: con ✅ parecía que la pata ya estaba acertada
 
 
 def lista(picks):
@@ -248,7 +257,7 @@ def texto_combi_partido(cp, tj, cuota):
     liga = LIGA_NOMBRE.get(cp.get("competicion"), str(cp.get("competicion") or "").upper())
     band = BANDERA.get(cp.get("competicion"), "⚽")
     # 09/11 (Marcos): como un tipster de verdad, sin mayúsculas ni «[x1.73]» ni «cuota aprox.»
-    lineas = [f"Os dejo la combi del {cp['local']} – {cp['visitante']} {band}🔥", ""]
+    lineas = [f"Os dejo la combi del {es(cp['local'])} – {es(cp['visitante'])} {band}🔥", ""]
     partido = f"{cp['local']}–{cp['visitante']}"
     for p in cp["picks"]:
         t = p["texto"].replace(f" en el {partido}", "").replace(f" del {partido}", "").replace(f" en {partido}", "")
@@ -313,7 +322,7 @@ def texto_seguro(p, dia=""):
         if not con_razones:
             motivos = []
         lineas = [saludo, "",
-                  f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}", "",
+                  f"{band} {es(p['local'])} – {es(p['visitante'])} · {p['fecha'][11:16]}", "",
                   f"🍀 {con_equipo(p)} @{num(p['cuota'])}" + (" (aprox.)" if p.get("cuota_tipster") else "")]
         if con_stake:
             lineas.append(f"🧠 Stake {stake(p)}/10")
@@ -325,7 +334,7 @@ def texto_seguro(p, dia=""):
         lineas += ["", "🔞 Juega con cabeza", CIERRE_TELEGRAM]
         return "\n".join(lineas)
     lineas = ["🔒 PICK SEGURO DEL DÍA 🔒", "",
-              f"{band} {p['local']} – {p['visitante']} · {p['fecha'][11:16]}",
+              f"{band} {es(p['local'])} – {es(p['visitante'])} · {p['fecha'][11:16]}",
               f"✅ {con_equipo(p)}", "",
               f"🎯 Cuota {num(p['cuota'])}", f"💶 10€ → {num(p['cuota'] * 10)}€"]
     if v + r:
