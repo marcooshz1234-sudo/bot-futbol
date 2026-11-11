@@ -4445,7 +4445,9 @@
     "enviado": "2026-11-12T00:07",
     "mensaje_id": 408,
     "redes": {
-      "instagram_story": "18043106066844745"
+      "instagram_story": "18043106066844745",
+      "threads": "18140844907713961",
+      "instagram": "18038064662906390"
     },
     "fecha_redes_reintento": "2026-11-12T00:20"
   },
@@ -4463,7 +4465,9 @@
     "enviado": "2026-11-12T00:07",
     "mensaje_id": 409,
     "redes": {
-      "instagram_story": "17914341003480826"
+      "instagram_story": "17914341003480826",
+      "threads": "18142490467628220",
+      "instagram": "18102961937651732"
     },
     "fecha_redes_reintento": "2026-11-12T00:20"
   }
