@@ -1593,5 +1593,31 @@
       "total": 21
     },
     "texto": "📊 BALANCE DEL MARTES: 3 DE 6 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n✅ Vamos con el pick de hoy familia 🔥\n✅ 🪜 Reto escalera · Día 1/7\n❌ Os dejo un pick para la Champions femenina 🔥\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x35,72! 🍀\n✅ Vamos con un pick para la Champions femenina 🔥\n\n✅ 3 acertadas · ❌ 3 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-11-11": {
+    "dia": "2026-11-11",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-11-ganadores-win",
+        "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 3
+    },
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
