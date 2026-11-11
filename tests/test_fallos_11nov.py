@@ -103,6 +103,23 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertLess(i, src.index('res["multi"] = combi_multi(pools, dia, dia_europeo, usos=usos)'))
         self.assertLess(src.index('res["multi"] = combi_multi('), src.index('for clave, cfg in (("tres", TRES)'))
 
+    def test_escalera_todo_anulado_repite_escalon(self):
+        import json as js
+        import tempfile
+        import escalera
+        with tempfile.TemporaryDirectory() as d:
+            est = Path(d) / "e.json"
+            est.write_text(js.dumps({"escalon": 3, "stake": 64.8, "historial": [], "actual": {
+                "dia": "2026-11-11", "escalon": 3, "stake": 64.8, "cuota": 1.9,
+                "picks": [{"partido_id": 1, "fecha": "2026-11-11T20:00", "mercado": "Match Winner", "opcion": "Home"}]}}))
+            leer_real = escalera.leer
+            with mock.patch.object(escalera, "ESTADO", est), mock.patch.object(escalera, "resultado", lambda p: "anulada"), \
+                    mock.patch.object(escalera, "leer", lambda r, *a: None if "picks" in str(r) else leer_real(r, *a)):
+                escalera.main()
+            e = js.loads(est.read_text())
+            self.assertEqual((e["escalon"], e["stake"]), (3, 64.8))   # bet365 devuelve: no vuelve a 20 €
+            self.assertEqual(e["historial"][-1]["resultado"], "anulada")
+
 
 if __name__ == "__main__":
     unittest.main()

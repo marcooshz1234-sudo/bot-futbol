@@ -212,7 +212,14 @@ def main():
         if any(r is None for r in res) and datetime.now(MADRID) - ultimo > timedelta(hours=30):
             # pasado más de un día sin dato (p. ej. jugador que no jugó): bet365 la anula → cuenta como acertada
             res = ["anulada" if r is None else r for r in res]
-        if all(r is not None for r in res) or any(r is False for r in res):   # una pata fallada ya es roja
+        if res and all(r == "anulada" for r in res):
+            # 11/11: todas anuladas (partido aplazado…): bet365 devuelve la apuesta → mismo escalón y mismo dinero
+            # (antes contaba como roja y el reto volvía a 20 €)
+            act["resultado"], act["aciertos"] = "anulada", res
+            estado["historial"].append(act)
+            estado["actual"] = None
+            print(f"Escalón {act['escalon']} anulado: se repite con {act['stake']}€")
+        elif all(r is not None for r in res) or any(r is False for r in res):   # una pata fallada ya es roja
             verde = all(r in (True, "anulada") for r in res) and any(r is True for r in res)
             if verde and "anulada" in res:   # 07/11 (Marcos): la cuota se rehace sin la pata anulada
                 act["cuota_publicada"] = act["cuota"]

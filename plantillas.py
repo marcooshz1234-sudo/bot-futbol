@@ -641,7 +641,9 @@ def posts_del_dia(dia, d):
     act = esc.get("actual")
     if act and act["dia"] == dia:
         ant = act.get("anterior")
-        if not ant or ant.get("resultado") != "verde":
+        if ant and ant.get("resultado") == "anulada":   # 11/11: aplazado: bet365 devuelve, se repite el escalón
+            intro_esc = f"🔵 El día {ant['escalon']} se anuló (partido aplazado): repetimos con {num(ant['stake'])}€"
+        elif not ant or ant.get("resultado") != "verde":
             ayer = (f - timedelta(days=1)).strftime("%Y-%m-%d")
             cuando = "Ayer" if ant and ant.get("dia") == ayer else \
                 f"El {DIAS[datetime.fromisoformat(ant['dia']).weekday()].lower()}" if ant else ""
@@ -836,7 +838,8 @@ def balance(dia, posts_ayer):
     esc = leer(DATOS / "escalera.json") or {}
     h = next((x for x in reversed(esc.get("historial", [])) if x.get("dia") == ayer), None)
     if h and h.get("resultado"):
-        lineas.append(f"{'✅' if h['resultado'] == 'verde' else '❌'} Escalera día {h['escalon']}")
+        lineas.append(f"{'✅' if h['resultado'] == 'verde' else '🔵' if h['resultado'] == 'anulada' else '❌'} "
+                      f"Escalera día {h['escalon']}" + (" (anulada)" if h["resultado"] == "anulada" else ""))
     if not lineas:
         return None
     texto = "📋 ASÍ FUE AYER\n\n" + "\n".join(lineas)
