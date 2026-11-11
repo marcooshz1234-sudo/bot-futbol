@@ -4106,8 +4106,8 @@
     ],
     "cuotas": [
       1.65,
-      1.14,
-      1.53
+      1.06,
+      1.6
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -4136,7 +4136,8 @@
         }
       ]
     },
-    "nota": "Marcos 10/11 20:42: «la de quién gana mañana la subes también». Solo 3 partidos (Champions femenina); el bot no la sacó solo (mínimo de partidos)"
+    "nota": "Marcos 10/11 20:42: «la de quién gana mañana la subes también». Solo 3 partidos (Champions femenina); el bot no la sacó solo (mínimo de partidos)",
+    "cuotas_revisadas": "2026-11-11T01:29"
   },
   {
     "id": "2026-11-11-pick-seguro",
