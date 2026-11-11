@@ -11,15 +11,40 @@
 //   «seguidores» = el widget de antes (seguidores de Threads, Instagram y Telegram); «escalera» = reto escalera.
 // Se actualiza solo: cada vez que se ejecuta mira si hay una versión nueva de este archivo en GitHub y se
 // sobrescribe (la siguiente vez que se pinte ya sale la nueva). Marcos no tiene que tocar nada.
-const VERSION = "2026-11-01"
+const VERSION = "2026-11-11"   // 11/11: estilo CL (logo CL, estadio de noche, verde neón)
 const BASE = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/"
 const URL = BASE + "docs/mis/datos.json"
 const CODIGO = BASE + "widget/combilocas_widget.js"
 
-// los colores de la app «Mis combis»
-const FONDO = new Color("#0a0f1c"), CARTA = new Color("#141c2f"), CARTA2 = new Color("#1e2940"), BORDE = new Color("#2a3652")
-const VERDE = new Color("#22c55e"), ROJO = new Color("#f87171"), AMARILLO = new Color("#fbbf24")
-const BLANCO = Color.white(), GRIS = new Color("#9aa8c3")
+// 11/11 (Marcos: «cámbialo al formato nuevo»): estilo CL, como las fotos: estadio de noche, cajas negras con borde
+// verde neón y el logo CL arriba
+const FONDO = new Color("#050806"), CARTA = new Color("#070a07", 0.82), CARTA2 = new Color("#0e140e", 0.85), BORDE = new Color("#7ef03a", 0.75)
+const VERDE = new Color("#7ef03a"), ROJO = new Color("#f87171"), AMARILLO = new Color("#facc15")
+const BLANCO = Color.white(), GRIS = new Color("#b9c7b4")
+
+// imágenes de la marca (se bajan una vez y se guardan en el iPhone)
+async function imagen(ruta) {
+  const fm = FileManager.local(), f = fm.joinPath(fm.documentsDirectory(), "cl_" + ruta.split("/").pop())
+  if (fm.fileExists(f)) return fm.readImage(f)
+  try { const i = await new Request(BASE + ruta).loadImage(); fm.writeImage(f, i); return i } catch (e) { return null }
+}
+
+// el estadio de noche oscurecido, de fondo
+async function fondoCL(w) {
+  const foto = await imagen("publicaciones/media/marca/fondo_estadio.jpg")
+  if (!foto) { w.backgroundColor = FONDO; return }
+  const dc = new DrawContext(); dc.size = new Size(720, 340); dc.opaque = true
+  dc.drawImageInRect(foto, new Rect(0, -250, 720, 900))
+  dc.setFillColor(new Color("#000000", 0.55)); dc.fillRect(new Rect(0, 0, 720, 340))
+  w.backgroundImage = dc.getImage()
+}
+
+// «[logo] COMBILOCAS» (o el título que toque)
+async function cabeceraCL(st, titulo, tam) {
+  const logo = await imagen("publicaciones/media/marca/logo_cl_256.png")
+  if (logo) { const i = st.addImage(logo); i.imageSize = new Size(tam + 8, tam + 8); st.addSpacer(6) }
+  texto(st, titulo, tam, BLANCO, "negra")
+}
 const EN_JUEGO = ["1H", "HT", "2H", "ET", "BT", "P", "LIVE", "INT"]
 
 async function actualizarme() {
@@ -103,9 +128,7 @@ function fila(w, r, grande) {
 // («seguidores instagram» / «seguidores telegram» para el redondo de una red) o «escalera» (pequeño)
 async function widgetSeguidores(tam, modo) {
   const URL = BASE + "publicaciones/estadisticas.json"
-  const FONDO = new Color("#08140f"), CARTA = new Color("#11241b"), BORDE = new Color("#1d3a2c")
-  const VERDE = new Color("#4ade80"), ROJO = new Color("#f87171"), GRIS = new Color("#7d9b8b")
-  const BLANCO = new Color("#f1fbf5"), AMARILLO = new Color("#facc15")
+  // 11/11: los colores CL de arriba (los de cada red se quedan para las gráficas)
   const REDES = [
     { k: "threads", nombre: "Threads", color: new Color("#f1fbf5"), icono: "at" },
     { k: "instagram", nombre: "Instagram", color: new Color("#f472b6"), icono: "camera.fill" },
@@ -158,9 +181,7 @@ async function widgetSeguidores(tam, modo) {
   try { d = await new Request(URL + "?t=" + Date.now()).loadJSON() } catch (e) { d = null }
 
   const w = new ListWidget()
-  if (!(config.widgetFamily || "").startsWith("accessory")) w.backgroundColor = FONDO
-  const grad = new LinearGradient(); grad.colors = [new Color("#0d2118"), FONDO]; grad.locations = [0, 1]
-  if (!(config.widgetFamily || "").startsWith("accessory")) w.backgroundGradient = grad
+  if (!(config.widgetFamily || "").startsWith("accessory")) await fondoCL(w)
   w.refreshAfterDate = new Date(Date.now() + 15 * 60 * 1000)
   const total = d ? REDES.reduce((a, r) => a + ((d.redes[r.k] || {}).seguidores || 0), 0) : null
   const totalHoy = d ? REDES.reduce((a, r) => a + ((d.redes[r.k] || {}).hoy || 0), 0) : null
@@ -226,7 +247,7 @@ async function widgetSeguidores(tam, modo) {
     // 29/10 (Marcos): sin total arriba ni línea de abajo: solo las tres redes
     w.setPadding(12, 12, 12, 12)
     const cab = w.addStack(); cab.centerAlignContent()
-    texto(cab, "COMBILOCAS", 13, BLANCO, "negra")
+    await cabeceraCL(cab, "COMBILOCAS", 13)
     cab.addSpacer(); texto(cab, d.actualizado.slice(11), 9, GRIS, "semi")
     w.addSpacer()
     const fila = w.addStack(); fila.spacing = 6
@@ -251,7 +272,7 @@ async function widgetCombis(tam) {
 
   const w = new ListWidget()
   const bloqueo = tam.startsWith("accessory")
-  if (!bloqueo) w.backgroundColor = FONDO
+  if (!bloqueo) await fondoCL(w)
   // con combis en juego, que iOS lo repinte lo antes posible
   w.refreshAfterDate = new Date(Date.now() + (vivas ? 5 : 15) * 60 * 1000)
 
@@ -306,7 +327,7 @@ async function widgetCombis(tam) {
   } else {
     w.setPadding(12, 12, 12, 12)
     const cab = w.addStack(); cab.centerAlignContent()
-    texto(cab, "MIS COMBIS", 13, BLANCO, "negra"); cab.addSpacer(6)
+    await cabeceraCL(cab, "MIS COMBIS", 13); cab.addSpacer(6)
     if (vivas) texto(cab, `${vivas} en juego`, 10, AMARILLO, "semi")
     cab.addSpacer(); texto(cab, "act. " + d.generado.slice(11), 9, GRIS, "semi")
     w.addSpacer(8)
