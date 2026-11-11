@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-11 23:52",
+ "actualizado": "2026-11-12 00:02",
  "redes": {
   "instagram": {
    "seguidores": 37,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
-    25,
     27,
     33,
     35,
     36,
     36,
+    37,
     37
    ]
   },
   "threads": {
    "seguidores": 2644,
-   "hoy": 51,
+   "hoy": 0,
    "serie": [
-    1906,
     2004,
     2126,
     2231,
     2359,
     2593,
+    2644,
     2644
    ]
   },
@@ -32,7 +32,7 @@
    "hoy": 0,
    "serie": [
     0,
-    0,
+    1,
     1,
     1,
     1,
@@ -41,26 +41,26 @@
    ]
   },
   "telegram": {
-   "seguidores": 384,
-   "hoy": 6,
+   "seguidores": 383,
+   "hoy": -1,
    "serie": [
-    277,
     294,
     307,
     331,
     360,
     378,
-    384
+    384,
+    383
    ]
   }
  },
- "total": 3066,
- "total_hoy": 58,
+ "total": 3065,
+ "total_hoy": -1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "01:00",
   "dia": "2026-11-12",
-  "titulo": "Nations league - ganadores"
+  "titulo": "Copa del rey - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -186,11 +186,17 @@
    "threads": 2644,
    "facebook": 1,
    "telegram": 384
+  },
+  "2026-11-12": {
+   "instagram": 37,
+   "threads": 2644,
+   "facebook": 1,
+   "telegram": 383
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 10,
+   "posts": 11,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -200,7 +206,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 38,
+   "posts": 37,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
