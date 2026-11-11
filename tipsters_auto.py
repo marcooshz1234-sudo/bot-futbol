@@ -114,6 +114,18 @@ def mercado(l, lado_l, lado_v):
     return None
 
 
+def texto_limpio(mo, loc, vis, linea, canal):
+    """11/11: el texto del pick con NUESTRAS palabras y nombres en español («Más de 1,5 goles en Chequia–España»),
+    nunca la línea del tipster tal cual (salía «INSIDER 🍀 +2.5 Trival Valderas - Lega…», con su nombre)."""
+    try:
+        from combis_dia import nombre_es
+        from picks import texto_pick
+        return texto_pick(mo[0], mo[1], nombre_es(loc), nombre_es(vis))
+    except Exception:
+        t = re.sub(r"^[^\wÀ-ÿ+]+", "", linea).strip()
+        return re.sub(re.escape(canal), "", t, flags=re.I).strip()[:120]
+
+
 def lineas_pick(texto):
     ls = [x.strip() for x in texto.splitlines() if x.strip()]
     picks = [x for x in ls if x.startswith(MARCA_PICK) or re.match(r"(?i)mi (selecci[oó]n|parte)\s*:", x)]
@@ -146,7 +158,7 @@ def analizar_post(canal, p, cands):
         cu = re.search(r"(?:@|cuota\s*:?\s*)(\d+[.,]\d+)", lp, re.I) or re.search(r"(?:@|cuota\s*:?\s*)(\d+[.,]\d+)", t, re.I)
         st = re.search(r"stake\s*:?\s*(\d+)", t, re.I)
         out.append({"tipster": canal, "fuente": p.get("id"), "dia": d.strftime("%Y-%m-%d"), "local": loc, "visitante": vis,
-                    "partido_id": fid, "texto": re.sub(r"^[^\wÀ-ÿ+]+", "", lp).strip()[:120], "mercado": mo[0], "opcion": mo[1],
+                    "partido_id": fid, "texto": texto_limpio(mo, loc, vis, lp, canal), "mercado": mo[0], "opcion": mo[1],
                     "cuota": float(cu.group(1).replace(",", ".")) if cu else None, "stake": int(st.group(1)) if st else None,
                     "argumento": argumentos(t), "auto": True})
     return out

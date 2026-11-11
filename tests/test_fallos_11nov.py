@@ -26,6 +26,27 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertTrue(llamadas)
         self.assertTrue(all("rango=" in x for x in llamadas), llamadas)
 
+    def test_texto_de_tipster_sin_su_nombre(self):
+        t = tipsters_auto.texto_limpio(("Goals Over/Under", "Over 1.5"), "Czechia", "Spain", "INSIDER 🍀 +1.5 goles", "INSIDER")
+        self.assertNotIn("INSIDER", t)
+        self.assertIn("Chequia", t)
+
+    def test_no_se_copian_mercados_prohibidos(self):
+        import json, tempfile
+        from datetime import datetime
+        from unittest import mock
+        import copiar_tipsters as C
+        from bot import MADRID
+        with tempfile.TemporaryDirectory() as d:
+            d = Path(d)
+            (d / "tipsters.json").write_text(json.dumps([{"tipster": "TipsAnalistas", "fuente": "x", "dia": "2026-11-12",
+                "local": "A", "visitante": "B", "texto": "Más de 2,5 goles", "mercado": "Goals Over/Under",
+                "opcion": "Over 2.5", "cuota": 1.6, "partido_id": 5}]))
+            with mock.patch.object(C, "DATOS", d), mock.patch.object(C, "REGISTRO", d / "r.json"), \
+                    mock.patch.object(C, "COLA", d / "c.json"), \
+                    mock.patch.object(C, "inicio", lambda pk: datetime(2026, 11, 12, 20, 0, tzinfo=MADRID)):
+                self.assertEqual(C.main(datetime(2026, 11, 11, 20, 0, tzinfo=MADRID)), [])
+
     def test_chromium_del_bucle_por_su_lado(self):
         wf = (RAIZ / ".github/workflows/telegram.yml").read_text(encoding="utf-8")
         self.assertNotIn("playwright install --with-deps chromium >/dev/null 2>&1' || echo", wf)

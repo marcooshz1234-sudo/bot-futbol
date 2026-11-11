@@ -1375,8 +1375,11 @@ def pick_de_tipster(pools, dia, hora, otro=None, usados=(), rango=None):
         print("tipsters:", e)
         return None
     por_sel = {(p["partido_id"], p["mercado"], p["opcion"]): p for pool in pools for p in pool}
+    import picks as _P
     for tk in lista:
         if tk["partido_id"] == otro or (tk["partido_id"], tk.get("mercado"), tk.get("opcion")) in usados:
+            continue
+        if _P.excluido(tk.get("mercado"), tk.get("opcion")):   # 11/11: sus «más de 2,5 goles» y demás, fuera
             continue
         p = por_sel.get((tk["partido_id"], tk.get("mercado"), tk.get("opcion")))
         if p:

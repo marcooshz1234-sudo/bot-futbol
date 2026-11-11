@@ -134,6 +134,14 @@ def main(ahora=None):
     for x in lista:
         if clave(x) in hechos:
             continue
+        try:   # 11/11: los mercados que Marcos no quiere (más de 2,5 goles del partido, 1ª parte, descanso…) no se copian
+            from picks import excluido
+            if x.get("mercado") and excluido(x["mercado"], x.get("opcion")):
+                print(f"Copiar tipsters: {x['texto']} no (mercado prohibido)")
+                hechos.add(clave(x))
+                continue
+        except ImportError:
+            pass
         ini = inicio(x)
         if not ini or ini - ahora < MARGEN + ESPERA:
             hechos.add(clave(x))   # ya empezado o muy justo: no se copia (y no se vuelve a mirar)
