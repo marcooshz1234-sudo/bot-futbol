@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 14:33",
+ "actualizado": "2026-11-11 14:44",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -190,7 +190,7 @@
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 8,
+   "posts": 9,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -216,11 +216,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
