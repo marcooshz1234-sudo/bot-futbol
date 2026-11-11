@@ -112,7 +112,6 @@ def main():
         return
     AUTO.write_text(json.dumps(auto, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     try:   # la imagen y el reel tienen que decir lo mismo que el texto
-        import hashlib
         from playwright.sync_api import sync_playwright
         from imagenes import MEDIA, generar
         with sync_playwright() as pw:
@@ -120,8 +119,8 @@ def main():
             pagina = nav.new_page()
             for p in cambiados:
                 generar(p, pagina)
-                (MEDIA / f"{p['id']}.huella").write_text(
-                    hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12])
+                import imagenes   # 11/11: la misma huella de siempre (con la versión del diseño); la vieja no coincidía nunca
+                (MEDIA / f"{p['id']}.huella").write_text(imagenes.huella(p))
             nav.close()
     except Exception as e:
         print(f"Cuotas frescas: no se pudo regenerar la imagen ({e}); Instagram esperará a tenerla")

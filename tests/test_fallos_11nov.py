@@ -120,6 +120,13 @@ class TestFallos11Nov(unittest.TestCase):
             self.assertEqual((e["escalon"], e["stake"]), (3, 64.8))   # bet365 devuelve: no vuelve a 20 €
             self.assertEqual(e["historial"][-1]["resultado"], "anulada")
 
+    def test_huella_siempre_la_misma(self):
+        # 11/11: cuotas_frescas y alineaciones_posts escribían la huella vieja (sin DISENO): fotos rehechas dos veces
+        for f in RAIZ.glob("*.py"):
+            src = f.read_text(encoding="utf-8")
+            for m in re.finditer(r'\.huella"\)\.write_text\((.*)', src):
+                self.assertIn("huella(p)", m.group(1), f.name)
+
 
 if __name__ == "__main__":
     unittest.main()

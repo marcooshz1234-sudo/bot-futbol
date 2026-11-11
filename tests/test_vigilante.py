@@ -55,6 +55,9 @@ class TestVigilante(unittest.TestCase):
     def test_foto_sin_hacer(self):
         self.assertIn("foto", self.revisar([post(1, "2026-11-12T12:10")]))
 
+    def test_falta_tarjeta(self):
+        self.assertIn("tarjeta", self.revisar([post(1, "2026-11-12T12:10", tarjeta={"x": 1})]))
+
     def test_mercado_prohibido(self):
         self.assertIn("prohibido", self.revisar([post(1, "2026-11-12T20:00", sel=["1|Goals Over/Under|Over 2.5"])]))
 

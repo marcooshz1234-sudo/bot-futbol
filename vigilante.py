@@ -113,12 +113,17 @@ def revisar(ahora=None):
             jpg, h = PUB / "media" / f"{p['id']}.jpg", PUB / "media" / f"{p['id']}.huella"
             try:
                 import imagenes
-                bien = jpg.exists() and h.exists() and h.read_text().strip() == imagenes.huella(
-                    dict(p, texto=p["texto"] if "escalera" in p["id"] else imagenes.sin_dinero(p["texto"])))
+                texto = (control.get("textos") or {}).get(p["id"], p["texto"])   # como imagenes.pendientes_de
+                bien = jpg.exists() and h.exists() and h.read_text().strip() == imagenes.huella(dict(p, texto=texto))
             except Exception:
                 bien = jpg.exists()
             if not bien and t < ahora + timedelta(minutes=15):
                 out.append((f"foto-{p['id']}", f"🖼️ Sale a las {p['fecha'][11:16]} y su foto no está hecha (o es vieja): {cab}"))
+
+        # 4b. foto con escudos (combi de partido, Partidos de hoy): sin ella no sale ni en Telegram ni en redes
+        if pendiente and (p.get("tarjeta") or p.get("ganadores_img")) and t < ahora + timedelta(minutes=15) \
+                and not (PUB / "media" / f"{p['id']}.tarjeta.jpg").exists():
+            out.append((f"tarjeta-{p['id']}", f"🖼️ Sale a las {p['fecha'][11:16]} y falta su foto con escudos (sin ella no sale): {cab}"))
 
         if not pendiente or es_resultado:
             continue

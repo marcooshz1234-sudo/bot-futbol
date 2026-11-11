@@ -13,7 +13,6 @@ pide la alineación (1 llamada por partido, se guarda) y comprueba que el jugado
 
 Estado en datos/alineaciones_posts.json.
 """
-import hashlib
 import json
 import os
 import re
@@ -321,7 +320,8 @@ def rehacer_imagen(p):
         with sync_playwright() as pw:
             nav = pw.chromium.launch()
             generar(p, nav.new_page())
-            (MEDIA / f"{p['id']}.huella").write_text(hashlib.sha1((p["texto"] + str(p.get("foto"))).encode()).hexdigest()[:12])
+            import imagenes   # 11/11: la misma huella de siempre (con la versión del diseño); la vieja no coincidía nunca
+            (MEDIA / f"{p['id']}.huella").write_text(imagenes.huella(p))
             nav.close()
     except Exception as e:
         print(f"Alineaciones: no se pudo rehacer la imagen de {p['id']} ({e}); se quita la vieja")
