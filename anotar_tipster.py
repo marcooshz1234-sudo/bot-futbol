@@ -26,7 +26,8 @@ def anotar(pk):
     if falta:
         raise ValueError(f"faltan: {', '.join(falta)}")
     lista = leer(FICHERO, []) or []
-    clave = lambda x: (x.get("fuente") or f"{x['tipster']}|{x['dia']}|{x['local']}", x.get("mercado"), str(x.get("opcion")))
+    # 11/11: con el partido en la clave, las patas de una combinada con el mismo mercado no se pisan
+    clave = lambda x: (x.get("fuente") or f"{x['tipster']}|{x['dia']}", x.get("local"), x.get("mercado"), str(x.get("opcion")))
     if any(clave(x) == clave(pk) for x in lista):
         return False
     for k in ("argumento", "por_que"):

@@ -1,11 +1,22 @@
 {
  "tipster": {
   "TipsAnalistas": {
-   "n": 5,
-   "verdes": 3,
+   "n": 6,
+   "verdes": 4,
    "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.96,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.51
+  },
+  "TRADER FOOTBALL || FREE": {
+   "n": 6,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.5,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.667
   },
   "Tipster Pérez": {
    "n": 2,
@@ -22,9 +33,34 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "TipsPro": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
+  },
+  "AllSportsPicks": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.602
   }
  },
  "mercado": {
+  "Goals Over/Under Over 3.0": {
+   "n": 5,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Double Chance Draw/Away": {
    "n": 2,
    "verdes": 2,
@@ -41,10 +77,12 @@
   },
   "Match Winner Away": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.96,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.51
   },
   "Asian Handicap Home -0.25": {
    "n": 1,
@@ -70,9 +108,52 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Home/Away Away": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "To Qualify Away": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
+  },
+  "Both Teams Score Yes": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.5,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.667
+  },
+  "Corners Over Under Under 11": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.602
   }
  },
  "equipo": {
+  "—": {
+   "n": 8,
+   "verdes": 1,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -0.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.269
+  },
   "Real Betis": {
    "n": 1,
    "verdes": 1,
@@ -103,10 +184,12 @@
   },
   "Real Jaén": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.96,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.51
   },
   "Sabadell": {
    "n": 1,
@@ -126,64 +209,86 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.625
   },
-  "—": {
+  "Junior": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "UD Logroñés": {
    "n": 1,
    "verdes": 0,
    "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
   }
  },
  "razon": {
-  "casa/fuera": {
-   "n": 5,
-   "verdes": 2,
+  "goles": {
+   "n": 7,
+   "verdes": 0,
    "rojos": 2,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -1.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.281
   },
-  "racha": {
+  "casa/fuera": {
    "n": 5,
-   "verdes": 1,
+   "verdes": 3,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.46,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.166
+  },
+  "clasificación": {
+   "n": 5,
+   "verdes": 2,
    "rojos": 3,
    "nulos": 0,
    "unidades": -1.5,
    "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
+   "prob_cuota": 1.305
   },
-  "clasificación": {
-   "n": 4,
+  "racha": {
+   "n": 5,
+   "verdes": 2,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": -0.54,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.791
+  },
+  "sin razón": {
+   "n": 5,
    "verdes": 2,
    "rojos": 2,
    "nulos": 0,
    "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.269
   },
   "motivación": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.0
-  },
-  "sin razón": {
    "n": 2,
    "verdes": 1,
    "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.96,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.51
   },
-  "goles": {
+  "categoría": {
    "n": 2,
-   "verdes": 0,
-   "rojos": 2,
+   "verdes": 1,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": -1.5,
+   "unidades": -0.04,
    "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
+   "prob_cuota": 1.159
   },
   "bajas": {
    "n": 1,
@@ -191,16 +296,18 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": 0.0
-  },
-  "categoría": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   }
  },
  "cuota": {
+  "1,50-1,80": {
+   "n": 6,
+   "verdes": 1,
+   "rojos": 4,
+   "nulos": 0,
+   "unidades": -3.0,
+   "resueltos_con_cuota": 5,
+   "prob_cuota": 3.199
+  },
   "?": {
    "n": 5,
    "verdes": 3,
@@ -208,39 +315,41 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "1,50-1,80": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -1.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
-  },
-  "1,80-2,20": {
-   "n": 1,
+  "<1,50": {
+   "n": 5,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "1,80-2,20": {
+   "n": 1,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.96,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.51
   }
  },
  "liga": {
   "?": {
-   "n": 6,
-   "verdes": 3,
-   "rojos": 3,
+   "n": 15,
+   "verdes": 4,
+   "rojos": 5,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.656
+   "unidades": -2.0,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.574
   },
   "Copa del Rey": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.96,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.51
   },
   "UEFA Champions League Women": {
    "n": 1,
@@ -253,14 +362,23 @@
   }
  },
  "lado": {
-  "visitante": {
-   "n": 4,
-   "verdes": 2,
-   "rojos": 1,
+  "partido": {
+   "n": 8,
+   "verdes": 1,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.625
+   "unidades": -0.5,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.269
+  },
+  "visitante": {
+   "n": 6,
+   "verdes": 3,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -1.04,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.784
   },
   "local": {
    "n": 3,
@@ -270,35 +388,78 @@
    "unidades": -0.5,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.656
-  },
-  "partido": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.0
   }
  },
  "por_que": {
   "—": {
-   "n": 8,
-   "verdes": 3,
-   "rojos": 4,
+   "n": 13,
+   "verdes": 4,
+   "rojos": 5,
    "nulos": 0,
-   "unidades": -1.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
+   "unidades": -1.54,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.393
+  },
+  "goles": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.5,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.667
+  },
+  "categoría": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
+  },
+  "casa/fuera": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
+  },
+  "motivación": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
+  },
+  "bajas": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "clasificación": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "valor_pinnacle": {
   "?": {
-   "n": 8,
-   "verdes": 3,
-   "rojos": 4,
+   "n": 17,
+   "verdes": 5,
+   "rojos": 6,
    "nulos": 0,
-   "unidades": -1.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
+   "unidades": -2.04,
+   "resueltos_con_cuota": 6,
+   "prob_cuota": 3.709
   }
  }
 }

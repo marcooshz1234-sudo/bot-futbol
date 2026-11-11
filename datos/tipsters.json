@@ -102,7 +102,12 @@
    "liga": "Copa del Rey",
    "cuota_bet365": 1.67,
    "prob_cuota": 0.51
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -173,6 +178,204 @@
   "marcador": [
    0,
    1
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37038",
+  "dia": "2026-11-13",
+  "local": "Deportivo Pasto",
+  "visitante": "Junior",
+  "texto": "Junior, empate no válido",
+  "mercado": "Home/Away",
+  "opcion": "Away",
+  "cuota": 1.75,
+  "argumento": [
+   "Plantilla del Pasto 2 meses sin cobrar y en huelga",
+   "Juega el Sub-20 del Pasto; la última vez perdieron 0-5 con Santa Fe",
+   "bet365 la quitó y la volvió a poner a 1,14"
+  ],
+  "por_que": [
+   "Información de contexto real (huelga, juveniles) que el mercado aún no había metido: por eso la cuota bajó de 1,75 a 1,14 en minutos.",
+   "Junior es de los grandes de Colombia; contra un Sub-20 el valor estaba en entrar pronto, a 1,14 ya no hay valor."
+  ]
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10057",
+  "combinada": "-1001262785423/10057",
+  "dia": "2026-11-10",
+  "local": "Amorebieta",
+  "visitante": "UD Logroñés",
+  "texto": "Se clasifica UD Logroñés",
+  "mercado": "To Qualify",
+  "opcion": "Away",
+  "cuota": 1.54,
+  "argumento": [
+   "Logroñés 2º en Primera Federación",
+   "Rotan mucho y todos llegan con minutos",
+   "Rival de categoría inferior"
+  ],
+  "por_que": [
+   "En Copa a partido único fuera de casa, el favorito de una categoría más rota y el de abajo juega el partido del año: 1,54 se queda corto para ese riesgo.",
+   "Salió 1-0 Amorebieta: la diferencia de categoría pesa menos en Copa que en liga."
+  ],
+  "partido_id": 1644335,
+  "analisis": {
+   "prob_cuota": 0.649
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   0
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100111",
+  "combinada": "-1001550157115/100111",
+  "dia": "2026-11-10",
+  "local": "Grimsby",
+  "visitante": "Nottingham Forest U21",
+  "texto": "Más de 3.0 goles (línea asiática)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.0",
+  "cuota": 1.3,
+  "argumento": [
+   "EFL Trophy a favor de goles",
+   "Línea 3.0: con 3 goles nula"
+  ],
+  "por_que": [
+   "En EFL Trophy los sub-21 de Premier conceden y marcan mucho: suele haber goles.",
+   "Cinco overs juntos multiplican el riesgo; no tenemos el partido en datos para corregirlo."
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100116",
+  "dia": "2026-11-10",
+  "local": "Paris Saint Germain W",
+  "visitante": "Bayern Munich W",
+  "texto": "Ambos marcan",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Pronóstico gratis Champions femenina 21:00"
+  ],
+  "por_que": [
+   "Dos equipos con mucha llegada y defensas que conceden en Champions: ambos marcan a 1,50 tiene sentido.",
+   "Salió 1-2: verde."
+  ],
+  "partido_id": 1638328,
+  "analisis": {
+   "prob_cuota": 0.667
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
+ },
+ {
+  "tipster": "AllSportsPicks",
+  "fuente": "-1002463340479/86190",
+  "dia": "2026-11-10",
+  "local": "Häcken W",
+  "visitante": "Chelsea W",
+  "texto": "Menos de 11.0 córners",
+  "mercado": "Corners Over Under",
+  "opcion": "Under 11",
+  "cuota": 1.66,
+  "stake": 3,
+  "argumento": [
+   "Champions femenina, stake 3"
+  ],
+  "por_que": [
+   "Chelsea muy dominante contra un rival que se encierra: eso dispara los córners de un lado.",
+   "Salieron 15 (2-13): el under no tenía en cuenta el dominio total del favorito."
+  ],
+  "partido_id": 1638304,
+  "analisis": {
+   "prob_cuota": 0.602
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   0
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100111",
+  "combinada": "-1001550157115/100111",
+  "dia": "2026-11-10",
+  "local": "Huddersfield",
+  "visitante": "Liverpool U21",
+  "texto": "Más de 3.0 goles (línea asiática)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.0",
+  "cuota": 1.23,
+  "argumento": [
+   "EFL Trophy a favor de goles"
+  ],
+  "por_que": [
+   "Huddersfield (League One) contra un sub-21 ofensivo: over razonable pero cuota muy baja."
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100111",
+  "combinada": "-1001550157115/100111",
+  "dia": "2026-11-10",
+  "local": "Stevenage",
+  "visitante": "Fulham U21",
+  "texto": "Más de 3.0 goles (línea asiática)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.0",
+  "cuota": 1.425,
+  "argumento": [
+   "EFL Trophy a favor de goles"
+  ],
+  "por_que": [
+   "Over típico de EFL Trophy con sub-21; sin datos nuestros del partido."
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100111",
+  "combinada": "-1001550157115/100111",
+  "dia": "2026-11-10",
+  "local": "Crawley Town",
+  "visitante": "Brentford U21",
+  "texto": "Más de 3.0 goles (línea asiática)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.0",
+  "cuota": 1.425,
+  "argumento": [
+   "EFL Trophy a favor de goles"
+  ],
+  "por_que": [
+   "Over típico de EFL Trophy con sub-21; sin datos nuestros del partido."
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100111",
+  "combinada": "-1001550157115/100111",
+  "dia": "2026-11-10",
+  "local": "Colchester",
+  "visitante": "Ipswich U21",
+  "texto": "Más de 3.0 goles (línea asiática)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.0",
+  "cuota": 1.425,
+  "argumento": [
+   "EFL Trophy a favor de goles"
+  ],
+  "por_que": [
+   "Over típico de EFL Trophy con sub-21; sin datos nuestros del partido."
   ]
  }
 ]

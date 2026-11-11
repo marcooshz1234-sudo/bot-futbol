@@ -52,7 +52,7 @@ def casar(pk):
     return None
 
 
-def resultado(pk, goles):
+def resultado(pk, goles, corners=None):
     """verde / rojo / nulo (devuelven) / medio_verde / medio_rojo, con el marcador a los 90'."""
     gl, gv = goles
     m, o = pk.get("mercado"), str(pk.get("opcion") or "")
@@ -83,6 +83,11 @@ def resultado(pk, goles):
         g = gl if m == "Total - Home" else gv
         n = float(o.split()[-1])
         return "verde" if (g > n) == o.startswith("Over") else "rojo"
+    if m == "Corners Over Under" and corners is not None:
+        n = float(o.split()[-1])
+        return "nulo" if corners == n else "verde" if (corners > n) == o.startswith("Over") else "rojo"
+    if m == "To Qualify":   # solo si se decidió en los 90'
+        return None if gl == gv else "verde" if (o == "Home") == (gl > gv) else "rojo"
     return None
 
 
@@ -152,9 +157,19 @@ def actualizar():
             pk["analisis"] = analizar(pk)
         if pk.get("estado") or not pk.get("partido_id"):
             continue
-        pa = leer(DATOS / "partidos" / f"{pk['partido_id']}.json", {}) or {}
+        # 11/11: los de Copa a veces solo están en datos/en_directo (como pasó con la escalera)
+        pa = (leer(DATOS / "partidos" / f"{pk['partido_id']}.json", {}) or
+              leer(DATOS / "en_directo" / f"{pk['partido_id']}.json", {}) or {})
         g = pa.get("goles_90") or pa.get("goles")
         if pa.get("estado") in TERMINADO and g and None not in g:
+            if pk.get("mercado") == "Corners Over Under":
+                c = [x.get("corners") for x in (pa.get("stats") or {}).values()]
+                if len(c) == 2 and None not in c:
+                    pk["estado"] = resultado(pk, g, corners=sum(c))
+                    pk["marcador"] = g
+                continue
+            if pk.get("mercado") == "To Qualify" and pa.get("estado") != "FT":
+                continue   # prórroga o penaltis: a mano
             pk["estado"] = resultado(pk, g)
             pk["marcador"] = g
     FICHERO.write_text(json.dumps(lista, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
