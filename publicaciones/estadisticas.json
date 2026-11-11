@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 13:28",
+ "actualizado": "2026-11-11 13:39",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2627,
-   "hoy": 34,
+   "seguidores": 2629,
+   "hoy": 36,
    "serie": [
     1906,
     2004,
@@ -24,7 +24,7 @@
     2231,
     2359,
     2593,
-    2627
+    2629
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 381,
-   "hoy": 3,
+   "seguidores": 382,
+   "hoy": 4,
    "serie": [
     277,
     294,
@@ -50,17 +50,17 @@
     331,
     360,
     378,
-    381
+    382
    ]
   }
  },
- "total": 3046,
- "total_hoy": 38,
+ "total": 3049,
+ "total_hoy": 41,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "13:40",
   "dia": "2026-11-11",
-  "titulo": "Vamos con la combi del miércoles famil"
+  "titulo": "Estrenamos imagen"
  },
  "ayer": null,
  "escalera": {
@@ -183,19 +183,19 @@
   },
   "2026-11-11": {
    "instagram": 37,
-   "threads": 2627,
+   "threads": 2629,
    "facebook": 1,
-   "telegram": 381
+   "telegram": 382
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 6,
+  "Otros (reel)": {
+   "posts": 8,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 7,
+  "Escalera (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -205,7 +205,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 39,
+   "posts": 38,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
