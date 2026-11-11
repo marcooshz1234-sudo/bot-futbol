@@ -54,7 +54,7 @@ nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;fon
 .resumen{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:4px 0 6px}
 .resumen div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px;text-align:center}
 .resumen b{display:block;font-size:24px;font-weight:800}.resumen span{font-size:12px;color:var(--mut)}
-.prox{background:linear-gradient(135deg,#1e3a8a,#14532d);border:1px solid #3b5bb5;border-radius:16px;padding:14px;margin:8px 0 4px}
+.prox{background:linear-gradient(135deg,rgba(40,80,18,.92),rgba(6,10,6,.94));border:1px solid #7ef03a;border-radius:16px;padding:14px;margin:8px 0 4px}
 .prox .t{font-size:13px;color:#c7d7fe;font-weight:700;text-transform:uppercase;letter-spacing:.8px}
 .prox .n{font-size:20px;font-weight:800;margin-top:2px}
 .post{display:flex;gap:12px;align-items:flex-start}
@@ -72,7 +72,7 @@ nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;fon
 .pill{font-size:14px;font-weight:700;padding:5px 7px;border-radius:10px;background:var(--card2);color:var(--mut);white-space:nowrap}
 .pill.ok{background:rgba(74,222,128,.16);color:var(--ok)}.pill.ko{background:rgba(248,113,113,.18);color:var(--ko)}
 .lista{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
-.logo{width:42px;height:42px;border-radius:50%;box-shadow:0 0 14px rgba(59,130,246,.5)}
+.logo{width:42px;height:42px;border-radius:50%;box-shadow:0 0 14px rgba(126,240,58,.5)}
 header h1 small{display:block;font-size:12px;font-weight:600;color:var(--mut);letter-spacing:.3px}
 
 /* 10/11: 🏢 Oficina Combilocas */
@@ -145,6 +145,12 @@ header h1 small{display:block;font-size:12px;font-weight:600;color:var(--mut);le
 .of-li.ok{border-color:#166534}.of-li.ko{border-color:#7f1d1d}
 .of-dot{display:inline-block;width:9px;height:9px;margin-right:6px;border:2px solid #000;vertical-align:middle}
 
+</style>
+<style id="estilo-cl">/* 11/11 (Marcos): estilo CL, como las fotos y el logo nuevo: negro, verde neón y el estadio de noche */
+:root:not([x]):not([y]){--bg:#050806;--card:rgba(10,15,10,.88);--card2:rgba(20,28,20,.9);--line:rgba(126,240,58,.32);--txt:#fff;
+--sub:#d3dccf;--mut:#9fae9a;--ok:#7ef03a;--acc:#7ef03a;--warn:#facc15;--sombra:0 0 14px rgba(126,240,58,.12)}
+html{background:#050806}
+body{background:linear-gradient(180deg,rgba(0,0,0,.62),rgba(0,0,0,.82) 45%,rgba(0,0,0,.9)),url("../fondo.jpg") center top/cover fixed,#050806 !important}
 </style>
 </head>
 <body>
