@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 19:51",
+ "actualizado": "2026-11-11 20:02",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2638,
-   "hoy": 45,
+   "seguidores": 2639,
+   "hoy": 46,
    "serie": [
     1906,
     2004,
@@ -24,7 +24,7 @@
     2231,
     2359,
     2593,
-    2638
+    2639
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3060,
- "total_hoy": 52,
+ "total": 3061,
+ "total_hoy": 53,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:00",
-  "dia": "2026-11-11",
-  "titulo": "Y para cerrar el día, otro pick que no"
+  "hora": "00:00",
+  "dia": "2026-11-12",
+  "titulo": "Nations league - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -183,14 +183,14 @@
   },
   "2026-11-11": {
    "instagram": 37,
-   "threads": 2638,
+   "threads": 2639,
    "facebook": 1,
    "telegram": 384
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 8,
+   "posts": 9,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -216,11 +216,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Picks (reel)": {
-   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
