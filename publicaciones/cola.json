@@ -4447,7 +4447,8 @@
     "redes": {
       "instagram_story": "18043106066844745",
       "threads": "18140844907713961",
-      "instagram": "18038064662906390"
+      "instagram": "18038064662906390",
+      "threads_enlace": "18025488896948223"
     },
     "fecha_redes_reintento": "2026-11-12T00:20"
   },
@@ -4467,7 +4468,8 @@
     "redes": {
       "instagram_story": "17914341003480826",
       "threads": "18142490467628220",
-      "instagram": "18102961937651732"
+      "instagram": "18102961937651732",
+      "threads_enlace": "17950512663122232"
     },
     "fecha_redes_reintento": "2026-11-12T00:20"
   },
@@ -4483,6 +4485,15 @@
     ],
     "resultado": "verde",
     "verde_de": "2026-11-11-escalera-2",
-    "nota": "12/11 Marcos borró el verde de la escalera de Telegram (msg 408) y pidió subirlo otra vez con la foto nueva; Threads/IG ya lo tienen"
+    "nota": "12/11 Marcos borró el verde de la escalera de Telegram (msg 408) y pidió subirlo otra vez con la foto nueva; Threads/IG ya lo tienen",
+    "enviado": "2026-11-12T00:22",
+    "mensaje_id": 410,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
