@@ -4283,7 +4283,14 @@
     "directo": true,
     "forzar": true,
     "sel": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-11T14:31",
+    "mensaje_id": 399,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17910057951657172",
+      "instagram": "18131749723847503"
+    }
   },
   {
     "id": "2026-11-11-combi-tip-1",
@@ -4297,6 +4304,14 @@
       "1638318|To Win Either Half|Away",
       "1638311|Total - Away|Over 1.5"
     ],
-    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "redes": {
+      "threads": "18187602508420757"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    },
+    "enviado": "2026-11-11T14:33",
+    "mensaje_id": 400
   }
 ]
