@@ -4134,71 +4134,30 @@
     ]
   },
   {
-    "id": "2026-11-12-ganadores-win",
-    "fecha": "2026-11-12T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Albacete - Win\n2. 🇪🇸 Barcelona (fem.) - Win\n3. 🇪🇸 Levante - Win\n4. 🇪🇸 Betis - Win\n5. 🇧🇾 Bielorrusia - Win\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - Win\n7. 🇲🇪 Montenegro - Win\n8. 🇪🇸 España - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "id": "2026-11-12-ganadores-nations",
+    "fecha": "2026-11-12T00:00",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇧🇾 Bielorrusia - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - Win\n3. 🇲🇪 Montenegro - Win\n4. 🇪🇸 España - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "solo_redes": true,
-    "sin_instagram": true,
     "forzar": true,
     "sel": [
-      "1644370|Match Winner|Away",
-      "1638295|Match Winner|Home",
-      "1644379|Match Winner|Away",
-      "1644363|Match Winner|Away",
       "1528964|Match Winner|Away",
       "1528962|Match Winner|Home",
       "1545613|Match Winner|Home",
       "1528961|Match Winner|Away"
     ],
     "cuotas": [
-      1.55,
-      1.27,
-      1.11,
-      1.12,
       1.14,
       1.25,
       1.3,
       1.2
     ],
     "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
+      "titulo": "NATIONS LEAGUE",
+      "liga": 5,
       "filas": [
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/722.png",
-          "nombre": "Albacete",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/1918.png",
-          "nombre": "Barcelona (fem.)",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
-          "nombre": "Levante",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/543.png",
-          "nombre": "Betis",
-          "pick": "WIN",
-          "seleccion": false
-        },
         {
           "pais": "Belarus",
           "bandera": "🇧🇾",
@@ -4228,6 +4187,126 @@
           "bandera": "🇪🇸",
           "escudo_url": "https://media.api-sports.io/football/teams/9.png",
           "nombre": "España",
+          "pick": "WIN",
+          "seleccion": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2026-11-12-ganadores-copa",
+    "fecha": "2026-11-12T01:00",
+    "texto": "🏆 COPA DEL REY - GANADORES\n\n1. 🇪🇸 Albacete - Win\n2. 🇪🇸 Levante - Win\n3. 🇪🇸 Betis - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1644370|Match Winner|Away",
+      "1644379|Match Winner|Away",
+      "1644363|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.55,
+      1.11,
+      1.12
+    ],
+    "ganadores_img": {
+      "titulo": "COPA DEL REY",
+      "liga": 143,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/722.png",
+          "nombre": "Albacete",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
+          "nombre": "Levante",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/543.png",
+          "nombre": "Betis",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2026-11-12-ganadores-resto",
+    "fecha": "2026-11-12T02:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇦🇲 Armenia - Win\n2. 🇧🇪 Bélgica - Win\n3. 🇪🇸 Barcelona (fem.) - Win\n4. 🇦🇱 Albania - Win\n5. 🇫🇷 Francia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1528959|Match Winner|Home",
+      "1528958|Match Winner|Away",
+      "1638295|Match Winner|Home",
+      "1528963|Match Winner|Home",
+      "1528960|Match Winner|Away"
+    ],
+    "cuotas": [
+      2.35,
+      1.83,
+      1.27,
+      1.9,
+      1.75
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Armenia",
+          "bandera": "🇦🇲",
+          "escudo_url": "https://media.api-sports.io/football/teams/1094.png",
+          "nombre": "Armenia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Belgium",
+          "bandera": "🇧🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/1.png",
+          "nombre": "Bélgica",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/1918.png",
+          "nombre": "Barcelona (fem.)",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Albania",
+          "bandera": "🇦🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/778.png",
+          "nombre": "Albania",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/2.png",
+          "nombre": "Francia",
           "pick": "WIN",
           "seleccion": true
         }
@@ -4331,14 +4410,13 @@
     ]
   },
   {
-    "id": "2026-11-13-ganadores-win",
-    "fecha": "2026-11-13T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇦🇿 Azerbaiyán - Win\n2. 🇩🇪 Alemania - Win\n3. 🇳🇱 Países Bajos - Win\n4. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia - Win\n5. 🇸🇰 Eslovaquia - Win\n6. 🇨🇭 Suiza - Win\n7. 🇪🇸 Celta Vigo - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "id": "2026-11-13-ganadores-nations",
+    "fecha": "2026-11-13T00:00",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇦🇿 Azerbaiyán - Win\n2. 🇩🇪 Alemania - Win\n3. 🇳🇱 Países Bajos - Win\n4. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia - Win\n5. 🇸🇰 Eslovaquia - Win\n6. 🇨🇭 Suiza - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "solo_redes": true,
-    "sin_instagram": true,
     "forzar": true,
     "sel": [
       "1528970|Match Winner|Away",
@@ -4346,8 +4424,7 @@
       "1528966|Match Winner|Home",
       "1545659|Match Winner|Home",
       "1528967|Match Winner|Home",
-      "1545654|Match Winner|Away",
-      "1644376|Match Winner|Away"
+      "1545654|Match Winner|Away"
     ],
     "cuotas": [
       1.22,
@@ -4355,12 +4432,11 @@
       1.5,
       1.17,
       1.33,
-      1.65,
-      1.36
+      1.65
     ],
     "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
+      "titulo": "NATIONS LEAGUE",
+      "liga": 5,
       "filas": [
         {
           "pais": "Azerbaijan",
@@ -4407,6 +4483,68 @@
           "bandera": "🇨🇭",
           "escudo_url": "https://media.api-sports.io/football/teams/15.png",
           "nombre": "Suiza",
+          "pick": "WIN",
+          "seleccion": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2026-11-13-ganadores-resto",
+    "fecha": "2026-11-13T01:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇪🇸 Leganés - Win\n2. 🇦🇩 Andorra - Win\n3. 🇮🇸 Islandia - Win\n4. 🇱🇺 Luxemburgo - Win\n5. 🇪🇸 Celta Vigo - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1570019|Match Winner|Home",
+      "1545615|Match Winner|Home",
+      "1528969|Match Winner|Away",
+      "1545614|Match Winner|Home",
+      "1644376|Match Winner|Away"
+    ],
+    "cuotas": [
+      2.15,
+      1.8,
+      1.8,
+      2.05,
+      1.36
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/537.png",
+          "nombre": "Leganés",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Andorra",
+          "bandera": "🇦🇩",
+          "escudo_url": "https://media.api-sports.io/football/teams/1110.png",
+          "nombre": "Andorra",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Iceland",
+          "bandera": "🇮🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/18.png",
+          "nombre": "Islandia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Luxembourg",
+          "bandera": "🇱🇺",
+          "escudo_url": "https://media.api-sports.io/football/teams/1102.png",
+          "nombre": "Luxemburgo",
           "pick": "WIN",
           "seleccion": true
         },
@@ -4518,64 +4656,30 @@
     ]
   },
   {
-    "id": "2026-11-14-ganadores",
-    "fecha": "2026-11-14T01:00",
-    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇪🇸 Castellón — Gana o empata\n✅2. 🇪🇸 Sporting Gijon — Gana o empata\n✅3. 🇪🇸 Almeria — Gana\n✅4. 🇪🇸 Mallorca — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [],
-    "cuotas": [],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-14-ganadores-win",
-    "fecha": "2026-11-14T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇽🇰 Kosovo - Win\n2. 🇭🇺 Hungría - Win\n3. 🇳🇴 Noruega - Win\n4. 🇦🇹 Austria - Win\n5. 🇵🇱 Polonia - Win\n6. 🇵🇹 Portugal - Win\n7. 🇸🇪 Suecia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "id": "2026-11-14-ganadores-nations",
+    "fecha": "2026-11-14T00:00",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇳🇴 Noruega - Win\n2. 🇦🇹 Austria - Win\n3. 🇵🇹 Portugal - Win\n4. 🇸🇪 Suecia - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "solo_redes": true,
-    "sin_instagram": true,
     "forzar": true,
     "sel": [
-      "1528971|Match Winner|Home",
-      "1528973|Match Winner|Away",
       "1528972|Match Winner|Home",
       "1528976|Match Winner|Home",
-      "1528977|Match Winner|Away",
       "1528974|Match Winner|Home",
       "1528978|Match Winner|Home"
     ],
     "cuotas": [
-      1.85,
-      2.3,
       1.22,
       1.57,
-      1.9,
       1.48,
       1.5
     ],
     "ganadores_img": {
-      "titulo": "PARTIDOS DE HOY",
-      "liga": null,
+      "titulo": "NATIONS LEAGUE",
+      "liga": 5,
       "filas": [
-        {
-          "pais": "Kosovo",
-          "bandera": "🇽🇰",
-          "escudo_url": "https://media.api-sports.io/football/teams/1111.png",
-          "nombre": "Kosovo",
-          "pick": "WIN",
-          "seleccion": true
-        },
-        {
-          "pais": "Hungary",
-          "bandera": "🇭🇺",
-          "escudo_url": "https://media.api-sports.io/football/teams/769.png",
-          "nombre": "Hungría",
-          "pick": "WIN",
-          "seleccion": true
-        },
         {
           "pais": "Norway",
           "bandera": "🇳🇴",
@@ -4589,14 +4693,6 @@
           "bandera": "🇦🇹",
           "escudo_url": "https://media.api-sports.io/football/teams/775.png",
           "nombre": "Austria",
-          "pick": "WIN",
-          "seleccion": true
-        },
-        {
-          "pais": "Poland",
-          "bandera": "🇵🇱",
-          "escudo_url": "https://media.api-sports.io/football/teams/24.png",
-          "nombre": "Polonia",
           "pick": "WIN",
           "seleccion": true
         },
@@ -4618,6 +4714,17 @@
         }
       ]
     }
+  },
+  {
+    "id": "2026-11-14-ganadores",
+    "fecha": "2026-11-14T01:00",
+    "texto": "⚽ QUIÉN GANA HOY · COMBILOCAS ⚽\n\n✅1. 🇪🇸 Castellón — Gana o empata\n✅2. 🇪🇸 Sporting Gijon — Gana o empata\n✅3. 🇪🇸 Almeria — Gana\n✅4. 🇪🇸 Mallorca — Gana o empata\n\n📊 Según nuestros datos, no las cuotas\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [],
+    "cuotas": [],
+    "solo_redes": true
   },
   {
     "id": "2026-11-14-pick-seguro",
