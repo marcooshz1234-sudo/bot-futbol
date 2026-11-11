@@ -1596,14 +1596,14 @@
   },
   "2026-11-11": {
     "dia": "2026-11-11",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -1611,13 +1611,19 @@
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-11-pick-seguro",
+        "titulo": "Vamos con el pick de hoy familia 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 3
+      "total": 4
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
