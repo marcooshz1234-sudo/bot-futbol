@@ -1422,7 +1422,7 @@ def pick_de_tipster(pools, dia, hora, otro=None, usados=(), rango=None):
     return None
 
 
-def pick_de_copa(pools, hora, otro=None):
+def pick_de_copa(pools, hora, otro=None, rango=(1.40, 2.10)):
     """09/11 (la lógica del Jaén): en Copa, «gana el X» si le saca 2+ categorías al rival (copa_contexto.py) y bet365
     lo paga entre 1,40 y 2,10. Se mide en el historial del pick del día como cualquier otro."""
     try:
@@ -1439,7 +1439,7 @@ def pick_de_copa(pools, hora, otro=None):
             if not nl or not nv:
                 continue
             dif = (nv - nl) if p["opcion"] == "Home" else (nl - nv)
-            if dif < 2 or not 1.40 <= p["cuota"] <= 2.10:
+            if dif < 2 or not rango[0] <= p["cuota"] <= rango[1]:
                 continue
             if datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) < hora + timedelta(minutes=45):
                 continue
@@ -1481,7 +1481,8 @@ def pick_seguro(pools, dia, segundo=False):
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     otro = segundo["partido_id"] if segundo else None
     if dia >= SEGURO_DESDE and primero_tipsters:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
-        t = pick_de_tipster(pools, dia, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85))) or pick_de_copa(pools, hora, otro)
+        # 11/11: dentro del rango de Marcos (1,50-1,70); el 1,45-1,85 es solo el plan B (abajo)
+        t = pick_de_tipster(pools, dia, hora, otro, rango=(lo, hi)) or pick_de_copa(pools, hora, otro, rango=(lo, hi))
         if t:
             return t, hora
     def buscar(lo, hi, prob_min, fijo=True):
@@ -1494,8 +1495,9 @@ def pick_seguro(pools, dia, segundo=False):
         # 10/11 (Marcos: «tenemos que hacer un mínimo diario»): si no hay ninguno en el rango, plan B por orden:
         # 1) 1,45-1,85  2) el pick de un tipster del día  3) el más probable del modelo hasta 2,00
         cand = buscar(min(lo, 1.45), max(hi, 1.85), SEGURO["prob_min"])
-        if not cand and not primero_tipsters:
-            t = pick_de_tipster(pools, dia, hora, otro, rango=(1.45, 1.85)) or pick_de_copa(pools, hora, otro)
+        if not cand:   # 11/11: el tipster del plan B también con el rango ampliado (antes solo si no iban primero)
+            t = (pick_de_tipster(pools, dia, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85)))
+                 or pick_de_copa(pools, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85))))
             if t:
                 print("Mínimo diario: pick de tipster")
                 return t, hora

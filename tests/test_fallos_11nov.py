@@ -131,6 +131,21 @@ class TestFallos11Nov(unittest.TestCase):
         src = (RAIZ / "alineaciones_espera.py").read_text(encoding="utf-8")
         self.assertIn('nuevo["caducada"] = f"no titular:', src)   # antes salía con el jugador suplente
 
+    def test_pick_del_dia_tipster_y_copa_en_rango(self):
+        import combis_dia as C
+        from datetime import datetime as dt
+        from bot import MADRID
+        pools = [[{"partido_id": 1, "mercado": "Match Winner", "opcion": "Home", "cuota": 1.95, "fecha": "2026-11-12T20:00",
+                   "prob_aprendida": 0.7}]]
+        llamadas = []
+        with mock.patch.object(C, "pick_de_tipster", lambda *a, **k: llamadas.append(k.get("rango")) or None), \
+                mock.patch.object(C, "pick_de_copa", lambda *a, **k: llamadas.append(("copa", k.get("rango"))) or None), \
+                mock.patch.object(C, "minimo_diario", lambda: False):
+            C.pick_seguro(pools, "2026-11-12")
+        self.assertEqual(llamadas[0], (1.5, 1.7))   # primero, siempre el rango de Marcos
+        self.assertEqual(llamadas[1], ("copa", (1.5, 1.7)))
+        self.assertTrue(C.pick_de_copa(pools, dt(2026, 11, 12, 10, 30, tzinfo=MADRID), rango=(1.5, 1.7)) is None)
+
 
 if __name__ == "__main__":
     unittest.main()
