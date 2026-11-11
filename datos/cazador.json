@@ -29,7 +29,7 @@
    "justa": 3.13,
    "ev": 0.382,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Juventus W",
@@ -40,7 +40,7 @@
    "justa": 2.05,
    "ev": 0.158,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "SL Benfica W",
@@ -51,7 +51,7 @@
    "justa": 2.19,
    "ev": 0.087,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Juventus W",
@@ -62,7 +62,7 @@
    "justa": 2.58,
    "ev": 0.015,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Juventus W",
@@ -73,11 +73,11 @@
    "justa": 1.55,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-11T09:05",
+  "hora": "2026-11-11T09:26",
   "revisadas": 3,
   "mejor": {
    "partido_id": 1638339,
@@ -91,7 +91,7 @@
    "justa": 3.13,
    "ev": 0.382,
    "fuente": "Pinnacle",
-   "edad_h": 0.0,
+   "edad_h": 0.4,
    "texto": "Empate en SL Benfica W–Austria Wien W"
   }
  },
