@@ -60,8 +60,13 @@ def main():
                 continue
             vistos.add(arb)
             partidos = []
-            for temporada in (ahora.year, ahora.year - 1):
-                r = api.get("fixtures", referee=arb, season=temporada) or []
+            # 12/11: con «Nombre» a secas la API devolvía 0 partidos de todos; se prueba también el nombre tal cual
+            # viene en el partido («Nombre, País») y sin temporada
+            for nombre, temporada in ((crudo, ahora.year), (arb, ahora.year), (crudo, ahora.year - 1), (arb, None)):
+                if usadas >= MAX_PETICIONES_PASADA:
+                    break
+                params = {"referee": nombre, **({"season": temporada} if temporada else {})}
+                r = api.get("fixtures", **params) or []
                 usadas += 1
                 partidos += [x for x in r if (x.get("fixture") or {}).get("status", {}).get("short") in ("FT", "AET", "PEN")]
                 if len(partidos) >= POR_ARBITRO:
@@ -76,7 +81,8 @@ def main():
                 usadas += 1
                 if t is not None:
                     tarjetas.append(t)
-            datos[arb] = {"tarjetas": tarjetas, "act": ahora.strftime("%Y-%m-%d")}
+            if tarjetas:   # si no sale nada, se vuelve a probar en la siguiente pasada
+                datos[arb] = {"tarjetas": tarjetas, "act": ahora.strftime("%Y-%m-%d")}
             print(f"Árbitro {arb}: {len(tarjetas)} partidos, "
                   f"{round(sum(tarjetas) / len(tarjetas), 1) if tarjetas else '—'} tarjetas de media")
     except LimiteAlcanzado:
