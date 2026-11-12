@@ -9,7 +9,7 @@ Verdes automáticos · cuando una combi publicada sale verde, el bot sube el pos
 """
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from pathlib import Path
 
@@ -20,6 +20,8 @@ ESTADO = DATOS / "verdes_auto.json"
 MEDIA = RAIZ / "publicaciones" / "media"
 ESPERA = DATOS / "verdes_espera.json"   # 30/10: cuándo se vio cada combi toda en verde por primera vez
 ESPERA_MIN = 10                         # minutos en verde antes de celebrarla (gol anulado por el VAR: Espanyol 30/10)
+VENTANA_GRUPO = 15                      # 12/11: un verde seguro espera 15 min por si cae otro y salen juntos
+ESPERA_CONFIRMAR = 30                   # 12/11: minutos máximos esperando a que todas las patas estén confirmadas
 TERMINADO = {"FT", "AET", "PEN"}
 ES_COMBI = re.compile(r"COMBI|COMBINADA|ESCALERA|GANA O EMPATA|🆚|PICK SEGURO|PICK DEL DÍA", re.I)   # 01/11: pick seguro
 NO_ES = re.compile(r"¡VERDE|^\s*(📋|🔄|📲)|PICKS PARA|OPCIONES|BALANCE|ASÍ FUE|QUIÉN GANA|RESULTADOS EXACTOS", re.U | re.I)   # 27/10: «✅ COMBI LOCAS» sí
@@ -70,6 +72,9 @@ def main():
         minutos = (ahora - datetime.fromisoformat(visto).replace(tzinfo=MADRID)).total_seconds() / 60
         if not terminados and minutos < ESPERA_MIN:
             continue
+        # 12/11: espera a que la fuente confirme el resultado (confirmar.py, ~15 min tras el final) para poder subirlo solo
+        if not all(x.get("definitivo") for x in legs) and minutos < ESPERA_CONFIRMAR:
+            continue
         # 07/11 (Marcos): con una pata anulada (partido aplazado) bet365 paga sin ella: la cuota se rehace
         # 10/11 (Marcos: «si sale acertado, que ponga la cuota de la publicación que hemos hecho»): los picks no
         # traen la cuota en el título; se saca del post publicado («🍀 … @1,57» / «Cuota @x») o de las patas
@@ -115,10 +120,16 @@ def main():
         if pid in ids_cola:
             hechos.add(p["id"])
             continue
-        # 09/11 (Marcos): los verdes no salen solos: el bot se los manda y salen cuando le da a «✅ Publicar»
+        # 12/11 (Marcos: «los acertados que los suba de una ni pregunte, pero tiene que estar seguro; si no, que me lo
+        # mande»): si es seguro sale solo; si hay cualquier duda, como antes, con su «✅ Publicar»
+        duda = dudas(p, boleto)
         post = {"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
                 "origen": "bot", "directo": True, "facebook": "foto", "resultado": "verde", "verde_de": p["id"],
-                "requiere_ok": True, "_combi": p}
+                "_combi": p}
+        if duda:
+            post.update(requiere_ok=True, aviso=f"💚 ¡VERDE! Te lo paso porque {duda}. Sale cuando le des a Publicar.")
+        else:   # 12/11 (Marcos: «si hay varias, una foto en conjunto para que no haya tantas»): espera por si cae otro
+            post["fecha"] = (ahora + timedelta(minutes=VENTANA_GRUPO)).strftime("%Y-%m-%dT%H:%M")
         for k in ("solo_en", "solo_redes"):   # 12/11: el verde va donde fue el post (uno solo de Threads → solo Threads)
             if (originales.get(p["id"]) or {}).get(k):
                 post[k] = originales[p["id"]][k]
@@ -195,10 +206,102 @@ def main():
         post.pop("_combi", None)
         post.pop("_ticket", None)
     cola.extend(nuevos)
+    try:
+        agrupar(cola, ahora)
+    except Exception as e:
+        print("Verdes: sin agrupar:", e)
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
     for post in nuevos:
         print("Verde automático:", post["id"])
+
+
+NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
+           ("combi-tres", "Combi del día"), ("combi-partido", "Combi del partido"), ("combi-loca", "La loca"),
+           ("combi-multi", "Combi larga"), ("combi-", "Combi"), ("pick-", "Pick")]
+
+
+def _ya_salio(p):
+    env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
+    e = env.get(p["id"]) or {}
+    return bool(p.get("enviado") or p.get("mensaje_id") or e.get("enviado") or e.get("mensaje_id")
+                or any((p.get("redes") or {}).values()))
+
+
+def agrupar(cola, ahora):
+    """12/11 (Marcos: «si hay varias apuestas, que haga una foto en conjunto para que no haya tantas»).
+    Si hay 2 o más verdes seguros (sin «✅ Publicar») de hoy que aún no han salido, en Telegram e Instagram sale UN
+    post con todos y una sola foto. Cada verde suelto sigue saliendo en Threads como comentario de su post."""
+    control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
+    fuera = set(control.get("cancelados") or [])
+    dia = ahora.strftime("%Y-%m-%d")
+    sueltos = [p for p in cola if p.get("resultado") == "verde" and p.get("verde_de") and not p.get("requiere_ok")
+               and p["id"].startswith(dia) and not p.get("agrupado_en") and p["id"] not in fuera
+               and not p.get("caducada") and not p.get("solo_redes") and "-verde-grupo-" not in p["id"]
+               and (not p.get("solo_en") or "telegram" in p["solo_en"]) and not _ya_salio(p)]
+    if len(sueltos) < 2:
+        return None
+    gid = f"{dia}-verde-grupo-{ahora:%H%M}"
+    lineas = []
+    for p in sorted(sueltos, key=lambda p: p["verde_de"]):
+        nombre = next((n for k, n in NOMBRES if k in p["verde_de"]), "Verde")
+        patas = re.findall(r"^✅ (.+)$", p["texto"], re.M)
+        c = re.search(r"Cuota @(\d+,\d+)", p["texto"])
+        lo = patas[0] if len(patas) == 1 else " + ".join(patas) if len(patas) <= 2 else f"{len(patas)} patas"
+        lineas.append(f"✅ {nombre} · {lo}" + (f" @{c.group(1)}" if c else ""))
+    from plantillas import lema_verde
+    texto = (f"🔥 ¡{len(sueltos)} VERDES PARA DENTRO! 🔥\n\n" + "\n".join(lineas)
+             + f"\n\n💚 {lema_verde(gid)}")
+    grupo = {"id": gid, "fecha": max(p["fecha"] for p in sueltos), "texto": texto, "foto": None, "origen": "bot",
+             "directo": True, "resultado": "verde", "verdes": [p["id"] for p in sueltos],
+             "solo_en": ["telegram", "instagram"]}
+    try:   # una sola foto con todos (la misma plantilla de los verdes de varias patas)
+        from playwright.sync_api import sync_playwright
+        import fotos
+        patas = [{"texto": re.sub(r"^✅ ", "", l), "estado": "verde"} for l in lineas]
+        html = fotos.verde_lista(patas, f"{len(sueltos)} VERDES", None, None,
+                                 cajas=[("VERDES", str(len(sueltos))), ("DÍA", ahora.strftime("%d/%m"))],
+                                 lema=lema_verde(gid) + " 🍀")
+        destino = MEDIA / f"{gid}.tarjeta.jpg"
+        with sync_playwright() as pw:
+            nav = pw.chromium.launch()
+            pagina = nav.new_page(viewport={"width": 1080, "height": 1350})
+            pagina.set_content(html)
+            pagina.wait_for_timeout(200)
+            h = pagina.evaluate("document.documentElement.scrollHeight")
+            if h > 1350:
+                pagina.evaluate(f"document.body.style.transformOrigin='top center';document.body.style.transform='scale({1350 / h:.4f})'")
+            pagina.screenshot(path=str(destino), type="jpeg", quality=92, clip={"x": 0, "y": 0, "width": 1080, "height": 1350})
+            nav.close()
+        import shutil
+        shutil.copy(destino, MEDIA / f"{gid}.jpg")   # Instagram
+        grupo["foto"] = str(destino.relative_to(RAIZ))
+    except Exception as e:
+        print("Verdes: grupo sin foto:", e)
+        grupo["sin_instagram"] = True
+    for p in sueltos:   # el suelto ya no sale en Telegram ni Instagram: solo como comentario en Threads
+        p["agrupado_en"] = gid
+        p["solo_en"] = ["threads"]
+    cola.append(grupo)
+    print("Verdes agrupados:", gid, [p["id"] for p in sueltos])
+    return grupo
+
+
+def dudas(p, boleto=False):
+    """12/11: por qué un verde NO es seguro (y hay que mandárselo a Marcos), o None si puede salir solo."""
+    from bot import CUOTA_MINIMA_POST
+    picks = p.get("picks") or []
+    if boleto:
+        return "es un boleto de bet365 (hay que mirarlo a mano)"
+    if not picks or any(x.get("estado") != "verde" for x in picks):
+        return "alguna pata no está en verde (anulada o sin resultado)"
+    if not all(x.get("definitivo") for x in picks):
+        return "el resultado de alguna pata aún no está confirmado"
+    if not p.get("cuota"):
+        return "no sé la cuota con la que se publicó"
+    if p["cuota"] < CUOTA_MINIMA_POST:
+        return f"la cuota es muy baja (@{num(p['cuota'])})"
+    return None
 
 
 def titulo_escalera(p):

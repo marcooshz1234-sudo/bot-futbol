@@ -90,7 +90,12 @@
 ## 8. Verdes y rojos
 - ⚙️ Los verdes llevan la cuota de la publicación. Solo salen cuando terminan los partidos (o 10 min en verde).
 - ⚙️ Pata anulada (aplazado, jugador que no juega): se quita y la cuota se rehace, como paga bet365.
-- 👤 Verdes, rojos y cuotazas: solo con «✅ Publicar» de Marcos.
+- ⚙️ **Verdes seguros salen solos** (12/11: «los acertados que los suba de una, ni pregunte, pero tiene que estar seguro»):
+  todas las patas en verde y confirmadas, sin anuladas, con su cuota (≥ 1,35) y que no sea un boleto. Si hay cualquier
+  duda, se le mandan a Marcos con el motivo y salen con su «✅ Publicar».
+- ⚙️ **Varios verdes a la vez → un solo post con una foto** en Telegram e Instagram (12/11: «para que no haya tantas»).
+  Cada verde espera 15 min por si cae otro. En Threads, cada uno sigue como comentario de su post.
+- 👤 Rojos y cuotazas: solo con «✅ Publicar» de Marcos.
 - 👤 Si la combi nunca se publicó (captura de Marcos), el verde no lleva «¿Quién la llevaba?».
 
 ## 9. Escalera

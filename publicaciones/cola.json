@@ -5188,7 +5188,10 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-12-pick-tip-4",
-    "requiere_ok": true
+    "agrupado_en": "2026-11-12-verde-grupo-2053",
+    "solo_en": [
+      "threads"
+    ]
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-pick-seguro",
@@ -5200,7 +5203,10 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-12-pick-seguro",
-    "requiere_ok": true
+    "agrupado_en": "2026-11-12-verde-grupo-2053",
+    "solo_en": [
+      "threads"
+    ]
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-combi-partido-1528958-th",
@@ -5212,7 +5218,6 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-12-combi-partido-1528958-th",
-    "requiere_ok": true,
     "solo_en": [
       "threads"
     ]
@@ -5227,6 +5232,27 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-12-escalera",
-    "requiere_ok": true
+    "agrupado_en": "2026-11-12-verde-grupo-2053",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-12-verde-grupo-2053",
+    "fecha": "2026-11-12T20:53",
+    "texto": "🔥 ¡3 VERDES PARA DENTRO! 🔥\n\n✅ Reto escalera · Gana Bélgica @1,80\n✅ Pick del día · Gana el Albacete @1,53\n✅ Pick · Más de 2,5 goles en Turquía–Bélgica @1,50\n\n💚 ¡A COBRAR!",
+    "foto": "publicaciones/media/2026-11-12-verde-grupo-2053.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "resultado": "verde",
+    "verdes": [
+      "2026-11-12-verde-auto-2026-11-12-pick-tip-4",
+      "2026-11-12-verde-auto-2026-11-12-pick-seguro",
+      "2026-11-12-verde-auto-2026-11-12-escalera"
+    ],
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ]
   }
 ]
