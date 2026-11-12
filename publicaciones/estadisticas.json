@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 13:29",
+ "actualizado": "2026-11-12 13:40",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2677,
-   "hoy": 33,
+   "seguidores": 2678,
+   "hoy": 34,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2677
+    2678
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 385,
-   "hoy": 1,
+   "seguidores": 384,
+   "hoy": 0,
    "serie": [
     294,
     307,
@@ -50,7 +50,7 @@
     360,
     378,
     384,
-    385
+    384
    ]
   }
  },
@@ -58,9 +58,9 @@
  "total_hoy": 36,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:15",
   "dia": "2026-11-12",
-  "titulo": "Vamos con la combi del jueves familia"
+  "titulo": "Os dejo la combi del turquía – bélgica"
  },
  "ayer": null,
  "escalera": {
@@ -189,14 +189,14 @@
   },
   "2026-11-12": {
    "instagram": 39,
-   "threads": 2677,
+   "threads": 2678,
    "facebook": 1,
-   "telegram": 385
+   "telegram": 384
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 16,
+   "posts": 17,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -211,7 +211,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 30,
+   "posts": 29,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
