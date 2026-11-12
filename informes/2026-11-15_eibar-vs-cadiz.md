@@ -1,7 +1,7 @@
 # Eibar – Cadiz
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 14:18_
@@ -197,7 +197,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 19% | 17% | 18% | 5.50 | -0% |
 | 1X2: X | 22% | 25% | 23% | 3.75 | -12% |
 | 1X2: 1 | 59% | 58% | 58% | 1.62 | -5% |
-| Doble oportunidad: X2 | 41% | 42% | 42% | 2.25 | -7% |
+| Doble oportunidad: X2 | 41% | 42% | 42% | 2.25 | -6% |
 | Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 81% | 83% | 82% | 1.14 | -7% |
 | Ambos marcan: No | 46% | 49% | 47% | 1.91 | -10% |
@@ -206,7 +206,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 56% | 54% | 55% | 1.75 | -4% |
 | Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -8% |
 | Goles más/menos: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles más/menos: Menos de 2.5 | 44% | 46% | 45% | 2.05 | -8% |
+| Goles más/menos: Menos de 2.5 | 44% | 46% | 45% | 2.05 | -7% |
 | Goles más/menos: Menos de 3.5 | 67% | 66% | 66% | 1.40 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |

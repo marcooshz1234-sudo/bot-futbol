@@ -1,7 +1,7 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Estadio Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 08:27_
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 60% | 41% | 50% | 2.30 | +16% |
 | Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 64% | 83% | 74% | 1.14 | -16% |
-| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
+| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -11% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
 | Goles más/menos: Más de 2.5 | 60% | 59% | 59% | 1.60 | -5% |
 | Goles más/menos: Más de 3.5 | 37% | 39% | 38% | 2.38 | -9% |

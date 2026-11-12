@@ -35,8 +35,8 @@
     {
      "sel": "1528968|Double Chance|Draw/Away",
      "texto": "Kazajistán o empate",
-     "cuota": 1.5,
-     "prob": 0.62
+     "cuota": 1.44,
+     "prob": 0.64
     }
    ]
   },
@@ -55,7 +55,7 @@
     {
      "sel": "1608368|Match Winner|Home",
      "texto": "Gana el Ospitaletto",
-     "cuota": 1.5,
+     "cuota": 1.45,
      "prob": 0.68
     },
     {
@@ -125,16 +125,16 @@
    "datos": [],
    "picks": [
     {
-     "sel": "1528966|Match Winner|Home",
-     "texto": "Gana Países Bajos",
-     "cuota": 1.5,
-     "prob": 0.63
-    },
-    {
      "sel": "1528966|Total - Home|Over 1.5",
      "texto": "Países Bajos marca 2 o más",
      "cuota": 1.5,
      "prob": 0.62
+    },
+    {
+     "sel": "1528966|Match Winner|Home",
+     "texto": "Gana Países Bajos",
+     "cuota": 1.55,
+     "prob": 0.61
     },
     {
      "sel": "1528966|Total - Away|Over 0.5",
@@ -145,8 +145,8 @@
     {
      "sel": "1528966|Both Teams Score|Yes",
      "texto": "Ambos marcan en Países Bajos–Grecia",
-     "cuota": 1.73,
-     "prob": 0.54
+     "cuota": 1.67,
+     "prob": 0.56
     }
    ]
   },
@@ -158,12 +158,6 @@
    "liga": "Nations League",
    "datos": [],
    "picks": [
-    {
-     "sel": "1528969|Goals Over/Under|Over 1.5",
-     "texto": "Más de 1,5 goles en Bulgaria–Islandia",
-     "cuota": 1.36,
-     "prob": 0.69
-    },
     {
      "sel": "1528969|To Win Either Half|Away",
      "texto": "Islandia gana alguna de las dos partes",
@@ -179,6 +173,12 @@
     {
      "sel": "1528969|Match Winner|Away",
      "texto": "Gana Islandia",
+     "cuota": 1.83,
+     "prob": 0.51
+    },
+    {
+     "sel": "1528969|Double Chance|Home/Draw",
+     "texto": "Bulgaria o empate",
      "cuota": 1.83,
      "prob": 0.51
     }
@@ -219,6 +219,12 @@
      "texto": "Ambos marcan en Serbia–Alemania",
      "cuota": 1.73,
      "prob": 0.54
+    },
+    {
+     "sel": "1528965|Total - Away|Over 2.5",
+     "texto": "Alemania marca 3 o más",
+     "cuota": 1.83,
+     "prob": 0.5
     }
    ]
   },
@@ -267,8 +273,8 @@
     {
      "sel": "1545614|Goals Over/Under|Over 1.5",
      "texto": "Más de 1,5 goles en Luxemburgo–Estonia",
-     "cuota": 1.5,
-     "prob": 0.62
+     "cuota": 1.44,
+     "prob": 0.65
     },
     {
      "sel": "1545614|Total - Away|Over 0.5",
@@ -343,16 +349,10 @@
    "datos": [],
    "picks": [
     {
-     "sel": "1545615|Total - Home|Over 0.5",
-     "texto": "Andorra marca",
-     "cuota": 1.36,
-     "prob": 0.69
-    },
-    {
      "sel": "1545615|To Win Either Half|Home",
      "texto": "Andorra gana alguna de las dos partes",
-     "cuota": 1.57,
-     "prob": 0.67
+     "cuota": 1.5,
+     "prob": 0.7
     },
     {
      "sel": "1545615|Goals Over/Under|Over 1.5",
@@ -361,16 +361,10 @@
      "prob": 0.56
     },
     {
-     "sel": "1545615|Double Chance|Draw/Away",
-     "texto": "Gibraltar o empate",
-     "cuota": 1.83,
-     "prob": 0.51
-    },
-    {
      "sel": "1545615|Match Winner|Home",
      "texto": "Gana el Andorra",
-     "cuota": 1.85,
-     "prob": 0.5
+     "cuota": 1.75,
+     "prob": 0.53
     }
    ]
   },
@@ -511,12 +505,12 @@
      "sel": "1608362|Total - Away|Over 0.5",
      "texto": "Alcione marca",
      "cuota": 1.36,
-     "prob": 0.5
+     "prob": 0.51
     },
     {
      "sel": "1608362|Both Teams Score|Yes",
      "texto": "Ambos marcan en Arzignano Valchiampo–Alcione",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "prob": 0.42
     }
    ]
@@ -662,14 +656,14 @@
     {
      "sel": "1528973|Total - Away|Over 0.5",
      "texto": "Hungría marca",
-     "cuota": 1.36,
-     "prob": 0.69
+     "cuota": 1.4,
+     "prob": 0.66
     },
     {
      "sel": "1528973|Double Chance|Draw/Away",
      "texto": "Hungría o empate",
-     "cuota": 1.36,
-     "prob": 0.68
+     "cuota": 1.4,
+     "prob": 0.66
     },
     {
      "sel": "1528973|Goals Over/Under|Over 1.5",
@@ -680,14 +674,14 @@
     {
      "sel": "1528973|Total - Home|Over 0.5",
      "texto": "Georgia marca",
-     "cuota": 1.5,
-     "prob": 0.62
+     "cuota": 1.44,
+     "prob": 0.65
     },
     {
      "sel": "1528973|Double Chance|Home/Draw",
      "texto": "Georgia o empate",
-     "cuota": 1.53,
-     "prob": 0.6
+     "cuota": 1.5,
+     "prob": 0.62
     }
    ]
   },
@@ -702,18 +696,18 @@
     {
      "sel": "1528972|Total - Away|Over 0.5",
      "texto": "Gales marca",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528972|Total - Home|Over 2.5",
+     "texto": "Noruega marca 3 o más",
      "cuota": 1.8,
      "prob": 0.52
     },
     {
      "sel": "1528972|Both Teams Score|Yes",
      "texto": "Ambos marcan en Noruega–Gales",
-     "cuota": 1.83,
-     "prob": 0.5
-    },
-    {
-     "sel": "1528972|Total - Home|Over 2.5",
-     "texto": "Noruega marca 3 o más",
      "cuota": 1.83,
      "prob": 0.5
     }
@@ -808,8 +802,8 @@
     {
      "sel": "1528976|Match Winner|Home",
      "texto": "Gana el Austria",
-     "cuota": 1.55,
-     "prob": 0.61
+     "cuota": 1.57,
+     "prob": 0.6
     },
     {
      "sel": "1528976|Total - Away|Over 0.5",
@@ -861,7 +855,7 @@
      "sel": "1528977|Match Winner|Away",
      "texto": "Gana Polonia",
      "cuota": 1.8,
-     "prob": 0.52
+     "prob": 0.53
     },
     {
      "sel": "1528977|Total - Away|Over 1.5",
@@ -886,6 +880,12 @@
      "prob": 0.69
     },
     {
+     "sel": "1528975|Double Chance|Home/Draw",
+     "texto": "Irlanda del Norte o empate",
+     "cuota": 1.36,
+     "prob": 0.68
+    },
+    {
      "sel": "1528975|Goals Over/Under|Over 1.5",
      "texto": "Más de 1,5 goles en Irlanda del Norte–Ucrania",
      "cuota": 1.5,
@@ -902,12 +902,6 @@
      "texto": "Ucrania o empate",
      "cuota": 1.53,
      "prob": 0.6
-    },
-    {
-     "sel": "1528975|To Win Either Half|Home",
-     "texto": "Irlanda del Norte gana alguna de las dos partes",
-     "cuota": 1.8,
-     "prob": 0.54
     }
    ]
   },
@@ -920,28 +914,28 @@
    "datos": [],
    "picks": [
     {
-     "sel": "1528974|Match Winner|Home",
-     "texto": "Gana el Portugal",
-     "cuota": 1.48,
-     "prob": 0.64
-    },
-    {
      "sel": "1528974|Total - Home|Over 1.5",
      "texto": "Portugal marca 2 o más",
-     "cuota": 1.5,
-     "prob": 0.62
+     "cuota": 1.44,
+     "prob": 0.65
     },
     {
      "sel": "1528974|Total - Away|Over 0.5",
      "texto": "Dinamarca marca",
+     "cuota": 1.44,
+     "prob": 0.65
+    },
+    {
+     "sel": "1528974|Match Winner|Home",
+     "texto": "Gana el Portugal",
      "cuota": 1.5,
-     "prob": 0.62
+     "prob": 0.63
     },
     {
      "sel": "1528974|Both Teams Score|Yes",
      "texto": "Ambos marcan en Portugal–Dinamarca",
-     "cuota": 1.67,
-     "prob": 0.56
+     "cuota": 1.62,
+     "prob": 0.58
     }
    ]
   },
@@ -959,7 +953,7 @@
     {
      "sel": "1570021|Corners 1x2|Home",
      "texto": "Oviedo hace más córners",
-     "cuota": 1.91,
+     "cuota": 1.83,
      "prob": 0.52
     },
     {
@@ -1113,13 +1107,13 @@
     {
      "sel": "1570018|Match Winner|Home",
      "texto": "Gana el Granada CF",
-     "cuota": 1.73,
+     "cuota": 1.8,
      "prob": 0.67
     },
     {
      "sel": "1570018|Total - Home|Over 1.5",
      "texto": "Granada CF marca 2 o más",
-     "cuota": 1.73,
+     "cuota": 1.8,
      "prob": 0.59
     },
     {
@@ -1131,7 +1125,7 @@
     {
      "sel": "1570018|Total - Away|Over 0.5",
      "texto": "Las Palmas marca",
-     "cuota": 1.53,
+     "cuota": 1.5,
      "prob": 0.48
     },
     {
@@ -1346,13 +1340,13 @@
     {
      "sel": "1576534|Total - Home|Over 1.5",
      "texto": "Leixoes marca 2 o más",
-     "cuota": 1.91,
+     "cuota": 2.0,
      "prob": 0.57
     },
     {
      "sel": "1576534|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Leixoes–Chaves",
-     "cuota": 2.0,
+     "cuota": 2.1,
      "prob": 0.54
     },
     {

@@ -1,16 +1,16 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:19_
+_Actualizadas: 12/11 20:01_
 
-- **1X2:** 1 **2.25**  ·  X **3.00**  ·  2 **3.00**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.53**
+- **1X2:** 1 **2.20**  ·  X **3.00**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **8.50**
+    - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.10** · menos **1.70**
     - 3,5: más **3.75** · menos **1.25**
@@ -27,6 +27,10 @@ _Actualizadas: 12/11 02:19_
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9: más **1.80** · menos **2.00**
+    - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.20**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -34,11 +38,16 @@ _Actualizadas: 12/11 02:19_
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.50**
-- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **5.50**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
+- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
 
 ## Estadísticas de equipo
 | | Penafiel (total) | Penafiel en casa | Lusitânia Lourosa (total) | Lusitânia Lourosa fuera |
@@ -151,11 +160,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 30% | 28% | 3.00 | -16% |
+| 1X2: 2 | 26% | 29% | 28% | 3.10 | -15% |
 | 1X2: X | 25% | 30% | 27% | 3.00 | -18% |
-| 1X2: 1 | 49% | 40% | 45% | 2.25 | +0% |
-| Doble oportunidad: X2 | 51% | 61% | 56% | 1.53 | -15% |
-| Doble oportunidad: 12 | 75% | 70% | 72% | 1.33 | -4% |
+| 1X2: 1 | 49% | 41% | 45% | 2.20 | -1% |
+| Doble oportunidad: X2 | 51% | 60% | 55% | 1.57 | -13% |
+| Doble oportunidad: 12 | 75% | 70% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 74% | 70% | 72% | 1.33 | -4% |
 | Ambos marcan: No | 47% | 50% | 48% | 1.83 | -12% |
 | Ambos marcan: Sí | 53% | 50% | 52% | 1.83 | -5% |
@@ -177,8 +186,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 34% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Córners más/menos: Más de 9.5 | 34% | 46% | 40% | 2.00 | -20% |
+| Córners más/menos: Menos de 9.5 | 66% | 54% | 60% | 1.73 | +3% |
 | 1X2 descanso: 2 | 22% | 25% | 23% | 3.75 | -12% |
-| 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -9% |
+| 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -10% |
 | 1X2 descanso: 1 | 36% | 31% | 34% | 3.00 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

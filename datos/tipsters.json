@@ -827,7 +827,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.11,
    "prob_cuota": 0.893
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -852,7 +857,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.5,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -988,7 +998,12 @@
   ],
   "por_que": [
    "Pronóstico gratuito del canal (12/11 18:04, boleto bet365 @1,61). Apuntado por Claude."
-  ]
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.62,
+   "prob_cuota": 0.621
+  }
  },
  {
   "tipster": "STAKE REAL | JB APUESTAS",
@@ -1008,6 +1023,11 @@
   ],
   "por_que": [
    "Apuesta gratuita del canal (12/11 16:08, boleto bet365 @1,66, Sustituto+). Apuntado por Claude; el verde, a mano."
-  ]
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.83,
+   "prob_cuota": 0.602
+  }
  }
 ]

@@ -1,17 +1,17 @@
 # Luxembourg – Estonia
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Stade de Luxembourg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:26_
+_Actualizadas: 12/11 20:00_
 
 - **1X2:** 1 **2.15**  ·  X **3.10**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.36**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
     - 0,5: más **1.10** · menos **6.50**
-    - 1,5: más **1.50** · menos **2.50**
+    - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
     - 4,5: más **8.50** · menos **1.05**
@@ -47,7 +47,7 @@ _Actualizadas: 12/11 08:26_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.88**  ·  Menos de 4 **1.92**
 - **Anytime Goal Scorer:** Tanel Tammik **10.00**  ·  Vincent Thill **4.50**  ·  Enzo Duarte **5.50**  ·  Kevor Palumets **7.50**  ·  Maksim Paskotsi **17.00**  ·  Markus Poom **7.50**  ·  Martin Miller **5.50**  ·  Mattias Kait **6.50**  ·  Mihkel Ainsalu **7.50**  ·  Patrik Kristal **6.50**  ·  Rasmus Peetson **7.50**  ·  Rocco Robert Shein **10.00**  ·  Michael Schjonning- Larsen **13.00**  ·  Aiman Dardari **4.00**  ·  Jayson Videira **4.00**  ·  Sebastien Thill **5.50**  ·  Mathias Olesen **8.50**  ·  Timothe Rupil **4.50**  ·  Florian Bohnert **10.00**  ·  Eldin Dzogovic **13.00**  ·  Dirk Carlson **15.00**  ·  Enes Mahmutovic **15.00**  ·  Laurent Jans **10.00**  ·  Tomas Moreira **6.00**  ·  Karel Mustmaa **4.33**  ·  Marten Chris Paalberg **4.33**  ·  Eric Veiga **8.50**  ·  Miguel Goncalves **10.00**  ·  Hamza Kadamani **3.50**  ·  Frank Liivak **5.00**  ·  Maksimilian Skvortsov **6.00**  ·  Mattias Mannilaan **4.33**  ·  Omar Natami **4.00**  ·  Tim Hall **15.00**  ·  Farid Ikene **6.50**  ·  Mihhail Kolobov **15.00**  ·  Nikita Mihhailov **10.00**  ·  Patrick Macedo **3.50**  ·  Joseph Saliste **15.00**  ·  Erko Tougjas **15.00**  ·  Karol Mets **15.00**  ·  Vahid Selimovic **13.00**  ·  Vladislav Kreida **10.00**
 
 ## Estadísticas de equipo

@@ -1,12 +1,12 @@
 # Athletic Carpi – Giana Erminio
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:26_
+_Actualizadas: 12/11 20:00_
 
-- **1X2:** 1 **2.38**  ·  X **3.10**  ·  2 **2.70**
+- **1X2:** 1 **2.30**  ·  X **3.10**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
@@ -26,7 +26,7 @@ _Actualizadas: 12/11 08:26_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.25**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -34,10 +34,10 @@ _Actualizadas: 12/11 08:26_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.80**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.00**
-- **Win Both Halves:** 1 **9.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.50**  ·  Home/No **4.33**  ·  Draw/No **9.50**  ·  Away/No **5.00**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.33**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **9.50**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
@@ -135,10 +135,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 33% | 37% | 2.70 | -1% |
+| 1X2: 2 | 40% | 32% | 36% | 2.75 | -0% |
 | 1X2: X | 25% | 29% | 27% | 3.10 | -16% |
-| 1X2: 1 | 35% | 38% | 36% | 2.38 | -14% |
-| Doble oportunidad: X2 | 65% | 61% | 63% | 1.50 | -5% |
+| 1X2: 1 | 34% | 39% | 37% | 2.30 | -16% |
+| Doble oportunidad: X2 | 66% | 61% | 63% | 1.50 | -5% |
 | Doble oportunidad: 12 | 75% | 72% | 73% | 1.28 | -6% |
 | Doble oportunidad: 1X | 60% | 67% | 64% | 1.36 | -13% |
 | Ambos marcan: No | 44% | 49% | 46% | 1.91 | -12% |
@@ -161,7 +161,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
 | Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -14% |
 | Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
-| 1X2 descanso: 2 | 31% | 28% | 29% | 3.25 | -5% |
+| 1X2 descanso: 2 | 31% | 27% | 29% | 3.40 | -2% |
 | 1X2 descanso: X | 42% | 43% | 42% | 2.10 | -11% |
 | 1X2 descanso: 1 | 27% | 30% | 29% | 3.00 | -14% |
 

@@ -1,7 +1,7 @@
 # Barcelona W – Servette Chênois W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -94,6 +94,6 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 6,94 · visitante 0,73 · córners esperados 10,1._
+_Goles esperados: local 6,93 · visitante 0,73 · córners esperados 10,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

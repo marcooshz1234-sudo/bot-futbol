@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12 14:19",
+ "generado": "2026-11-12 20:02",
  "picks_usados": 565,
  "aciertos": 352,
  "prometido_medio": 0.702,
@@ -681,16 +681,16 @@
  },
  "publicados": {
   "Goals Over/Under|Over 2.5": {
-   "ajuste": -0.0114,
-   "n": 3,
-   "aciertos": 2,
-   "cuota_implicita": 0.725
+   "ajuste": 0.019,
+   "n": 4,
+   "aciertos": 3,
+   "cuota_implicita": 0.71
   },
   "Total - Away|Over 0.5": {
-   "ajuste": -0.0296,
-   "n": 32,
-   "aciertos": 21,
-   "cuota_implicita": 0.69
+   "ajuste": -0.0182,
+   "n": 34,
+   "aciertos": 23,
+   "cuota_implicita": 0.698
   },
   "Total - Home|Over 0.5": {
    "ajuste": -0.0349,
@@ -705,10 +705,10 @@
    "cuota_implicita": 0.699
   },
   "To Win Either Half": {
-   "ajuste": -0.0369,
-   "n": 26,
-   "aciertos": 18,
-   "cuota_implicita": 0.749
+   "ajuste": -0.0267,
+   "n": 27,
+   "aciertos": 19,
+   "cuota_implicita": 0.748
   },
   "Home Team Total Cards|Over": {
    "ajuste": -0.1145,
@@ -729,10 +729,10 @@
    "cuota_implicita": 0.634
   },
   "Match Winner": {
-   "ajuste": 0.0287,
-   "n": 98,
-   "aciertos": 67,
-   "cuota_implicita": 0.654
+   "ajuste": 0.0283,
+   "n": 100,
+   "aciertos": 68,
+   "cuota_implicita": 0.651
   },
   "Double Chance|Draw/Away": {
    "ajuste": -0.1475,
@@ -831,10 +831,10 @@
    "cuota_implicita": 0.659
   },
   "Double Chance|Home/Draw": {
-   "ajuste": 0.0667,
-   "n": 36,
-   "aciertos": 29,
-   "cuota_implicita": 0.718
+   "ajuste": 0.0727,
+   "n": 37,
+   "aciertos": 30,
+   "cuota_implicita": 0.717
   },
   "Shots.1x2|Home": {
    "ajuste": 0.0202,
@@ -849,10 +849,10 @@
    "cuota_implicita": 0.754
   },
   "Both Teams Score|Yes": {
-   "ajuste": -0.0207,
-   "n": 29,
-   "aciertos": 17,
-   "cuota_implicita": 0.618
+   "ajuste": -0.0105,
+   "n": 30,
+   "aciertos": 18,
+   "cuota_implicita": 0.62
   },
   "Home Player Shots On Target Total": {
    "ajuste": -0.0155,
@@ -957,10 +957,10 @@
    "cuota_implicita": 0.714
   },
   "Total - Away|Over 1.5": {
-   "ajuste": -0.0703,
-   "n": 4,
-   "aciertos": 2,
-   "cuota_implicita": 0.73
+   "ajuste": -0.0359,
+   "n": 5,
+   "aciertos": 3,
+   "cuota_implicita": 0.711
   },
   "Results/Both Teams Score|Away/No": {
    "ajuste": 0.0497,
@@ -2122,6 +2122,36 @@
    "ajuste": -0.0698,
    "n": 1,
    "aciertos": 0
+  },
+  "equipo|Armenia|Match Winner|gana": {
+   "ajuste": -0.0473,
+   "n": 1,
+   "aciertos": 0
+  },
+  "equipo|Belgium|Match Winner|gana": {
+   "ajuste": 0.0494,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Belgium|To Win Either Half|gana": {
+   "ajuste": 0.0317,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Belgium|Total|Over 1.5": {
+   "ajuste": 0.0403,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Cyprus|Total|Over 0.5": {
+   "ajuste": 0.0294,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Belgium|Total|Over 0.5": {
+   "ajuste": 0.011,
+   "n": 1,
+   "aciertos": 1
   },
   "equipo|Sassuolo|Total|Over 0.5": {
    "ajuste": -0.0365,
@@ -3385,6 +3415,11 @@
   },
   "equipo|Servette Chênois W|Total|Over 0.5": {
    "ajuste": 0.0392,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Armenia|Double Chance|o empate": {
+   "ajuste": 0.034,
    "n": 1,
    "aciertos": 1
   },

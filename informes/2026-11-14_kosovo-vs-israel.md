@@ -1,17 +1,17 @@
 # Kosovo – Israel
 **Nations League** · League B - 5 · 14/11/2026 15:00 (hora España) · Stadiumi Fadil Vokrri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:26_
+_Actualizadas: 12/11 20:00_
 
-- **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **4.20**
-- **Doble oportunidad:** 1X **1.18**  ·  12 **1.30**  ·  X2 **1.95**
+- **1X2:** 1 **1.80**  ·  X **3.70**  ·  2 **4.20**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.25** · menos **3.75**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.90** · menos **1.90**
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
@@ -21,13 +21,13 @@ _Actualizadas: 12/11 08:26_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.50** · menos **1.28**
+    - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 8: más **1.82** · menos **1.98**
@@ -36,16 +36,16 @@ _Actualizadas: 12/11 08:26_
 - **1X2 descanso:** 1 **2.40**  ·  X **2.25**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.44**  ·  2 **2.50**
 - **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **5.50**
 - **Win Both Halves:** 1 **5.50**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **8.50**  ·  Home/No **3.25**  ·  Draw/No **10.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **11.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**

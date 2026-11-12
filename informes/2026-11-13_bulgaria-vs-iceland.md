@@ -1,24 +1,24 @@
 # Bulgaria – Iceland
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Hristo Botev Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:26_
+_Actualizadas: 12/11 20:00_
 
 - **1X2:** 1 **4.33**  ·  X **3.50**  ·  2 **1.83**
-- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
+- **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.20**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **8.50**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.70**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **7.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **7.50** · menos **1.07**
+    - 2,5: más **7.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
@@ -32,24 +32,25 @@ _Actualizadas: 12/11 08:26_
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.00** · menos **1.80**
 - **Córners 1X2:** 1 **2.50**  ·  X **7.50**  ·  2 **1.73**
-- **1X2 descanso:** 1 **4.75**  ·  X **2.10**  ·  2 **2.40**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.10**  ·  2 **2.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
-- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **2.50**  ·  2 **1.50**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **3.25**
 - **Win Both Halves:** 1 **19.00**  ·  2 **5.50**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **4.50**  ·  Home/No **6.50**  ·  Draw/No **8.50**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.10**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.33**  ·  Home/No **7.00**  ·  Draw/No **8.50**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
-- **Anytime Goal Scorer:** Isak Thorvaldsson **2.88**  ·  Hordur Magnusson **12.00**  ·  Orri Steinn Oskarsson **2.88**  ·  Andri Gudjohnsen **2.88**  ·  Daniel Gretarsson **12.00**  ·  Gylfi Sigurdsson **3.75**  ·  Isak Johannesson **4.33**  ·  Jon Dagur Thorsteinsson **4.75**  ·  Logi Tomasson **9.50**  ·  Mikael Anderson **5.00**  ·  Mikael Egill Ellertsson **7.00**  ·  Stefan Thordarson **8.50**  ·  Victor Palsson **12.00**  ·  Kristall Ingason **4.00**  ·  Stefan Velkov **17.00**  ·  Ivaylo Chochev **6.00**  ·  Martin Minchev **4.75**  ·  Ivan Turitsov **26.00**  ·  Hristiyan Petrov **26.00**  ·  Georgi Lazarov **4.00**  ·  Yoan Stoyanov **8.50**  ·  Arnor Sigurdsson **5.00**  ·  Hakon Arnar Haraldsson **4.75**  ·  Rosen Bozhinov **17.00**  ·  Marin Petkov **6.00**  ·  Kristiyan Balov **4.75**  ·  Dimitar Velkovski **13.00**  ·  Emil Tsenov **11.00**  ·  Teodor Ivanov **17.00**  ·  Georgi Rusev **6.00**  ·  Simeon Shishkov **13.00**  ·  Asen Chandarov **8.00**  ·  Lukas Petkov **5.00**  ·  Kristian Hlynsson **4.00**  ·  Andrian Kraev **7.00**  ·  Brynjolfur Andersen Willumsson **2.88**  ·  Ivan Pankov **8.00**  ·  Atanas Iliev **4.75**  ·  Aron Gunnarsson **8.50**  ·  Thorir Johann Helgason **5.00**  ·  Ilia Gruev **13.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **Anytime Goal Scorer:** Isak Thorvaldsson **2.88**  ·  Hordur Magnusson **12.00**  ·  Orri Steinn Oskarsson **2.88**  ·  Andri Gudjohnsen **2.88**  ·  Daniel Gretarsson **12.00**  ·  Gylfi Sigurdsson **3.60**  ·  Isak Johannesson **4.33**  ·  Jon Dagur Thorsteinsson **4.50**  ·  Logi Tomasson **9.00**  ·  Mikael Anderson **5.00**  ·  Mikael Egill Ellertsson **7.00**  ·  Stefan Thordarson **8.50**  ·  Victor Palsson **12.00**  ·  Kristall Ingason **3.75**  ·  Stefan Velkov **17.00**  ·  Ivaylo Chochev **6.00**  ·  Martin Minchev **4.50**  ·  Ivan Turitsov **21.00**  ·  Hristiyan Petrov **21.00**  ·  Georgi Lazarov **3.75**  ·  Yoan Stoyanov **8.50**  ·  Arnor Sigurdsson **5.00**  ·  Hakon Arnar Haraldsson **4.50**  ·  Rosen Bozhinov **17.00**  ·  Marin Petkov **6.00**  ·  Kristiyan Balov **4.50**  ·  Dimitar Velkovski **13.00**  ·  Emil Tsenov **10.00**  ·  Teodor Ivanov **17.00**  ·  Georgi Rusev **6.00**  ·  Simeon Shishkov **13.00**  ·  Asen Chandarov **7.50**  ·  Lukas Petkov **5.00**  ·  Kristian Hlynsson **3.75**  ·  Andrian Kraev **7.00**  ·  Brynjolfur Andersen Willumsson **2.88**  ·  Ivan Pankov **7.50**  ·  Atanas Iliev **4.50**  ·  Aron Gunnarsson **8.50**  ·  Thorir Johann Helgason **5.00**  ·  Ilia Gruev **13.00**
 
 ## Estadísticas de equipo
 | | Bulgaria (total) | Bulgaria en casa | Iceland (total) | Iceland fuera |

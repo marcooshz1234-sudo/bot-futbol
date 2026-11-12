@@ -1,10 +1,10 @@
 # Leixoes – Chaves
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:19_
+_Actualizadas: 12/11 20:01_
 
 - **1X2:** 1 **1.95**  ·  X **3.25**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.73**
@@ -17,23 +17,26 @@ _Actualizadas: 12/11 02:19_
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.62** · menos **1.44**
+    - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
-- **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **2.62**  ·  X **2.20**  ·  2 **4.00**
-- **Goals Over/Under - Second Half:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.50**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.20**  ·  2 **4.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **1.57**  ·  2 **2.20**
@@ -41,6 +44,11 @@ _Actualizadas: 12/11 02:19_
 - **Win Both Halves:** 1 **6.50**  ·  2 **15.00**
 - **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **10.00**  ·  Away/No **6.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 3,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 
 ## Estadísticas de equipo
 | | Leixoes (total) | Leixoes en casa | Chaves (total) | Chaves fuera |
@@ -171,19 +179,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 31% | 51% | 41% | 1.85 | -24% |
 | Goles más/menos: Menos de 3.5 | 52% | 71% | 62% | 1.33 | -18% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 69% | 74% | 1.36 | +0% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 35% | 41% | 2.62 | +7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 34% | 40% | 2.75 | +10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles del local: Más de 0.5 | 88% | 79% | 84% | 1.18 | -1% |
-| Goles del local: Más de 1.5 | 62% | 49% | 55% | 1.91 | +6% |
-| Goles del local: Más de 2.5 | 35% | 23% | 29% | 4.00 | +17% |
-| Goles del local: Menos de 0.5 | 12% | 21% | 16% | 4.50 | -26% |
-| Goles del local: Menos de 1.5 | 38% | 51% | 45% | 1.80 | -20% |
-| Goles del local: Menos de 2.5 | 65% | 77% | 71% | 1.22 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 66% | 60% | 1.40 | -16% |
+| Goles del local: Más de 0.5 | 88% | 78% | 83% | 1.20 | -0% |
+| Goles del local: Más de 1.5 | 62% | 46% | 54% | 2.00 | +8% |
+| Goles del local: Más de 2.5 | 35% | 22% | 28% | 4.33 | +23% |
+| Goles del local: Menos de 0.5 | 12% | 22% | 17% | 4.33 | -27% |
+| Goles del local: Menos de 1.5 | 38% | 54% | 46% | 1.73 | -21% |
+| Goles del local: Menos de 2.5 | 65% | 78% | 72% | 1.20 | -14% |
 | Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +0% |
 | Goles del visitante: Más de 1.5 | 43% | 31% | 37% | 3.00 | +12% |
 | Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
 | Goles del visitante: Menos de 1.5 | 57% | 69% | 63% | 1.36 | -15% |
+| Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -14% |
+| Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -1% |
 | 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
 | 1X2 descanso: X | 35% | 42% | 39% | 2.20 | -15% |
 | 1X2 descanso: 1 | 40% | 35% | 38% | 2.62 | -1% |

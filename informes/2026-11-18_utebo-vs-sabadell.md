@@ -1,7 +1,7 @@
 # Utebo – Sabadell
 **Copa del Rey** · Round of 128 · 18/11/2026 19:00 (hora España) · Campo Santa Ana
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 20:03_
