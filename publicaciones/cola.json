@@ -4769,10 +4769,9 @@
     "enviado": "2026-11-12T12:13",
     "mensaje_id": 413,
     "redes": {
-      "threads": "18160908325520008"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "18160908325520008",
+      "instagram_reel": null,
+      "instagram": "17913470859593371"
     }
   },
   {
@@ -4791,7 +4790,14 @@
       1.14,
       1.28
     ],
-    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T12:27",
+    "mensaje_id": 414,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17919470652534315",
+      "instagram": "18024576200945489"
+    }
   },
   {
     "id": "2026-11-12-combi-tip-2",
@@ -4809,6 +4815,13 @@
       1.25,
       1.23
     ],
-    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T12:27",
+    "mensaje_id": 415,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18116983325014908",
+      "instagram": "18135854710752301"
+    }
   }
 ]

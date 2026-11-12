@@ -1658,14 +1658,14 @@
   },
   "2026-11-12": {
     "dia": "2026-11-12",
-    "total": 5,
+    "total": 7,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 7,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -1697,13 +1697,25 @@
         "titulo": "Este nos encanta para hoy 🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-12-combi-tip-1",
+        "titulo": "Combinada para hoy, con cabeza ⚽",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-12-combi-tip-2",
+        "titulo": "Vamos con una combinada cortita 👇",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 12
+      "total": 14
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
   }
 }
