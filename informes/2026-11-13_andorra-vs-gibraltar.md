@@ -1,7 +1,7 @@
 # Andorra – Gibraltar
 **Nations League** · League D - 5 · 13/11/2026 20:45 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:30._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 02:18_

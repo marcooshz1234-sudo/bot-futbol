@@ -1,7 +1,7 @@
 # Leganes – Burgos
 **Segunda División** · Regular Season - 14 · 13/11/2026 20:30 (hora España) · Municipal de Butarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:30._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 02:18_

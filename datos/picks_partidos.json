@@ -1,382 +1,1438 @@
 {
- "2026-11-12": [
+ "2026-11-13": [
   {
-   "partido_id": 1528959,
-   "fecha": "2026-11-12T18:00",
-   "local": "Armenia",
-   "visitante": "Cyprus",
+   "partido_id": 1528968,
+   "fecha": "2026-11-13T18:00",
+   "local": "Moldova",
+   "visitante": "Kazakhstan",
    "liga": "Nations League",
    "datos": [],
    "picks": [
     {
-     "sel": "1528959|Total - Away|Over 0.5",
-     "texto": "Chipre marca",
-     "cuota": 1.36,
-     "prob": 0.69
+     "sel": "1528968|Total - Home|Over 0.5",
+     "texto": "Moldavia marca",
+     "cuota": 1.4,
+     "prob": 0.66
     },
     {
-     "sel": "1528959|Double Chance|Home/Draw",
-     "texto": "Armenia o empate",
-     "cuota": 1.36,
-     "prob": 0.68
+     "sel": "1528968|Double Chance|Home/Draw",
+     "texto": "Moldavia o empate",
+     "cuota": 1.4,
+     "prob": 0.66
     },
     {
-     "sel": "1528959|Double Chance|Draw/Away",
-     "texto": "Chipre o empate",
-     "cuota": 1.57,
-     "prob": 0.59
+     "sel": "1528968|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Moldavia–Kazajistán",
+     "cuota": 1.44,
+     "prob": 0.65
     },
     {
-     "sel": "1528959|To Win Either Half|Home",
-     "texto": "Armenia gana alguna de las dos partes",
-     "cuota": 1.73,
-     "prob": 0.54
+     "sel": "1528968|Total - Away|Over 0.5",
+     "texto": "Kazajistán marca",
+     "cuota": 1.44,
+     "prob": 0.65
     },
     {
-     "sel": "1528959|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Armenia–Chipre",
-     "cuota": 1.8,
-     "prob": 0.52
+     "sel": "1528968|Double Chance|Draw/Away",
+     "texto": "Kazajistán o empate",
+     "cuota": 1.5,
+     "prob": 0.62
     }
    ]
   },
   {
-   "partido_id": 1528958,
-   "fecha": "2026-11-12T18:00",
-   "local": "Türkiye",
-   "visitante": "Belgium",
+   "partido_id": 1608368,
+   "fecha": "2026-11-13T20:30",
+   "local": "Ospitaletto",
+   "visitante": "Dolomiti Bellunesi",
+   "liga": "Serie C",
+   "datos": [
+    "El Dolomiti Bellunesi no ha ganado ninguno de sus últimos 5.",
+    "Los partidos del Ospitaletto llevan 1,9 goles de media (últimos 8).",
+    "Los partidos del Dolomiti Bellunesi llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608368|Match Winner|Home",
+     "texto": "Gana el Ospitaletto",
+     "cuota": 1.45,
+     "prob": 0.68
+    },
+    {
+     "sel": "1608368|Total - Home|Over 1.5",
+     "texto": "Ospitaletto marca 2 o más",
+     "cuota": 1.62,
+     "prob": 0.58
+    },
+    {
+     "sel": "1608368|Total - Away|Over 0.5",
+     "texto": "Dolomiti Bellunesi marca",
+     "cuota": 1.73,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1570019,
+   "fecha": "2026-11-13T20:30",
+   "local": "Leganes",
+   "visitante": "Burgos",
+   "liga": "Segunda",
+   "datos": [
+    "El Burgos va 3º y el Leganes 18º en la liga.",
+    "Los partidos del Leganes llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Burgos llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570019|Shots. Home Total|Over 7.5",
+     "texto": "Leganes hace 8+ tiros",
+     "cuota": 1.37,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570019|Total - Away|Over 0.5",
+     "texto": "Burgos marca",
+     "cuota": 1.44,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570019|Corners 1x2|Home",
+     "texto": "Leganes hace más córners",
+     "cuota": 1.73,
+     "prob": 0.49
+    },
+    {
+     "sel": "1570019|Corners Over Under|Over 9",
+     "texto": "Más de 9 córners en Leganes–Burgos",
+     "cuota": 1.85,
+     "prob": 0.45
+    },
+    {
+     "sel": "1570019|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Leganes–Burgos",
+     "cuota": 1.91,
+     "prob": 0.41
+    }
+   ]
+  },
+  {
+   "partido_id": 1545614,
+   "fecha": "2026-11-13T20:45",
+   "local": "Luxembourg",
+   "visitante": "Estonia",
    "liga": "Nations League",
    "datos": [],
    "picks": [
     {
-     "sel": "1528958|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Turquía–Bélgica",
+     "sel": "1545614|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Luxemburgo–Estonia",
      "cuota": 1.5,
      "prob": 0.62
     },
     {
-     "sel": "1528958|To Win Either Half|Away",
-     "texto": "Bélgica gana alguna de las dos partes",
-     "cuota": 1.4,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528958|Total - Away|Over 1.5",
-     "texto": "Bélgica marca 2 o más",
+     "sel": "1545614|Total - Away|Over 0.5",
+     "texto": "Estonia marca",
      "cuota": 1.57,
      "prob": 0.59
     },
     {
-     "sel": "1528958|Match Winner|Away",
-     "texto": "Gana Bélgica",
-     "cuota": 1.83,
-     "prob": 0.52
+     "sel": "1545614|To Win Either Half|Home",
+     "texto": "Luxemburgo gana alguna de las dos partes",
+     "cuota": 1.73,
+     "prob": 0.56
+    },
+    {
+     "sel": "1545614|Double Chance|Draw/Away",
+     "texto": "Estonia o empate",
+     "cuota": 1.67,
+     "prob": 0.55
     }
    ]
   },
   {
-   "partido_id": 1644370,
-   "fecha": "2026-11-12T18:30",
-   "local": "Calvo Sotelo",
-   "visitante": "Albacete",
-   "liga": "Copa del Rey",
-   "datos": [
-    "2 categorías de diferencia: el Albacete juega en Segunda y el Calvo Sotelo en Segunda Federación",
-    "El deporte 'esquiva' la huelga (La Tribuna de Ciudad Real)",
-    "El Calvo Sotelo no gana en sus últimos 6",
-    "Los partidos del Albacete llevan 3,2 goles de media (últimos 8)."
-   ],
+   "partido_id": 1528966,
+   "fecha": "2026-11-13T20:45",
+   "local": "Netherlands",
+   "visitante": "Greece",
+   "liga": "Nations League",
+   "datos": [],
    "picks": [
     {
-     "sel": "1644370|Match Winner|Away",
-     "texto": "Gana el Albacete",
+     "sel": "1528966|Match Winner|Home",
+     "texto": "Gana Países Bajos",
+     "cuota": 1.5,
+     "prob": 0.63
+    },
+    {
+     "sel": "1528966|Total - Home|Over 1.5",
+     "texto": "Países Bajos marca 2 o más",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528966|Total - Away|Over 0.5",
+     "texto": "Grecia marca",
      "cuota": 1.53,
      "prob": 0.61
     },
     {
-     "sel": "1644370|Total - Home|Over 0.5",
-     "texto": "Calvo Sotelo marca",
-     "cuota": 1.57,
-     "prob": 0.59
-    },
-    {
-     "sel": "1644370|Total - Away|Over 1.5",
-     "texto": "Albacete marca 2 o más",
-     "cuota": 1.57,
-     "prob": 0.59
-    },
-    {
-     "sel": "1644370|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Calvo Sotelo–Albacete",
-     "cuota": 1.8,
-     "prob": 0.52
+     "sel": "1528966|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Países Bajos–Grecia",
+     "cuota": 1.73,
+     "prob": 0.54
     }
    ]
   },
   {
-   "partido_id": 1638295,
-   "fecha": "2026-11-12T18:45",
-   "local": "Barcelona W",
-   "visitante": "Arsenal W",
-   "liga": "Champions Femenina",
-   "datos": [
-    "Los partidos del Barcelona W llevan 4,9 goles de media (últimos 8).",
-    "La cuota de que gane el Barcelona W ha bajado de 1,33 a 1,17: el mercado lo ve más claro"
-   ],
-   "picks": [
-    {
-     "sel": "1638295|Total - Home|Over 2.5",
-     "texto": "Barcelona (fem.) marca 3 o más",
-     "cuota": 1.57,
-     "prob": 0.59
-    },
-    {
-     "sel": "1638295|Total - Away|Over 0.5",
-     "texto": "Arsenal (fem.) marca",
-     "cuota": 1.57,
-     "prob": 0.59
-    },
-    {
-     "sel": "1638295|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Barcelona (fem.)–Arsenal (fem.)",
-     "cuota": 1.67,
-     "prob": 0.56
-    }
-   ]
-  },
-  {
-   "partido_id": 1644379,
-   "fecha": "2026-11-12T19:00",
-   "local": "Tarancón",
-   "visitante": "Levante",
-   "liga": "Copa del Rey",
-   "datos": [
-    "4 categorías de diferencia: el Levante juega en Primera y el Tarancón en Tercera Federación",
-    "Los partidos del Levante llevan 3,4 goles de media (últimos 8).",
-    "CD Tarancón - Levante UD: horario y dónde ver en directo por televisión el partido aplazado de Copa del Rey (Las Provincias)"
-   ],
-   "picks": [
-    {
-     "sel": "1644379|Total - Away|Over 2.5",
-     "texto": "Levante marca 3 o más",
-     "cuota": 1.5,
-     "prob": 0.62
-    }
-   ]
-  },
-  {
-   "partido_id": 1644363,
-   "fecha": "2026-11-12T19:00",
-   "local": "Navalcarnero",
-   "visitante": "Real Betis",
-   "liga": "Copa del Rey",
-   "datos": [
-    "3 categorías de diferencia: el Real Betis juega en Primera y el Navalcarnero en Segunda Federación",
-    "Los partidos del Real Betis llevan 3,5 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1644363|Total - Away|Over 2.5",
-     "texto": "Real Betis marca 3 o más",
-     "cuota": 1.62,
-     "prob": 0.58
-    }
-   ]
-  },
-  {
-   "partido_id": 1528963,
-   "fecha": "2026-11-12T20:45",
-   "local": "Albania",
-   "visitante": "Finland",
+   "partido_id": 1545659,
+   "fecha": "2026-11-13T20:45",
+   "local": "Scotland",
+   "visitante": "FYR Macedonia",
    "liga": "Nations League",
    "datos": [],
    "picks": [
     {
-     "sel": "1528963|Goals Over/Under|Over 1.5",
-     "texto": "Más de 1,5 goles en Albania–Finlandia",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1528963|To Win Either Half|Home",
-     "texto": "Albania gana alguna de las dos partes",
-     "cuota": 1.57,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528963|Total - Away|Over 0.5",
-     "texto": "Finlandia marca",
-     "cuota": 1.62,
-     "prob": 0.58
-    },
-    {
-     "sel": "1528963|Double Chance|Draw/Away",
-     "texto": "Finlandia o empate",
-     "cuota": 1.8,
-     "prob": 0.51
+     "sel": "1545659|Total - Home|Over 1.5",
+     "texto": "Escocia marca 2 o más",
+     "cuota": 1.36,
+     "prob": 0.69
     }
    ]
   },
   {
-   "partido_id": 1528961,
-   "fecha": "2026-11-12T20:45",
-   "local": "Czechia",
-   "visitante": "Spain",
+   "partido_id": 1528970,
+   "fecha": "2026-11-13T20:45",
+   "local": "Liechtenstein",
+   "visitante": "Azerbaijan",
    "liga": "Nations League",
    "datos": [],
    "picks": [
     {
-     "sel": "1528961|Total - Home|Over 0.5",
-     "texto": "Chequia marca",
-     "cuota": 1.83,
-     "prob": 0.5
-    },
-    {
-     "sel": "1528961|Total - Away|Over 2.5",
-     "texto": "España marca 3 o más",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1528960,
-   "fecha": "2026-11-12T20:45",
-   "local": "Italy",
-   "visitante": "France",
-   "liga": "Nations League",
-   "datos": [
-    "Se espera lluvia (4,5 mm): suele haber menos goles"
-   ],
-   "picks": [
-    {
-     "sel": "1528960|Total - Home|Over 0.5",
-     "texto": "Italia marca",
+     "sel": "1528970|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Liechtenstein–Azerbaiyán",
      "cuota": 1.36,
      "prob": 0.69
     },
     {
-     "sel": "1528960|To Win Either Half|Away",
-     "texto": "Francia gana alguna de las dos partes",
-     "cuota": 1.5,
-     "prob": 0.59
-    },
-    {
-     "sel": "1528960|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Italia–Francia",
+     "sel": "1528970|Total - Away|Over 1.5",
+     "texto": "Azerbaiyán marca 2 o más",
      "cuota": 1.57,
      "prob": 0.59
+    }
+   ]
+  },
+  {
+   "partido_id": 1545615,
+   "fecha": "2026-11-13T20:45",
+   "local": "Andorra",
+   "visitante": "Gibraltar",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1545615|To Win Either Half|Home",
+     "texto": "Andorra gana alguna de las dos partes",
+     "cuota": 1.57,
+     "prob": 0.67
     },
     {
-     "sel": "1528960|Total - Away|Over 1.5",
-     "texto": "Francia marca 2 o más",
+     "sel": "1545615|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Andorra–Gibraltar",
+     "cuota": 1.67,
+     "prob": 0.56
+    },
+    {
+     "sel": "1545615|Double Chance|Draw/Away",
+     "texto": "Gibraltar o empate",
+     "cuota": 1.83,
+     "prob": 0.51
+    },
+    {
+     "sel": "1545615|Match Winner|Home",
+     "texto": "Gana el Andorra",
+     "cuota": 1.85,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1528967,
+   "fecha": "2026-11-13T20:45",
+   "local": "Slovakia",
+   "visitante": "Faroe Islands",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528967|Match Winner|Home",
+     "texto": "Gana Eslovaquia",
+     "cuota": 1.36,
+     "prob": 0.68
+    },
+    {
+     "sel": "1528967|Total - Home|Over 1.5",
+     "texto": "Eslovaquia marca 2 o más",
+     "cuota": 1.53,
+     "prob": 0.61
+    }
+   ]
+  },
+  {
+   "partido_id": 1545654,
+   "fecha": "2026-11-13T20:45",
+   "local": "Slovenia",
+   "visitante": "Switzerland",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1545654|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Eslovenia–Suiza",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
+     "sel": "1545654|To Win Either Half|Away",
+     "texto": "Suiza gana alguna de las dos partes",
+     "cuota": 1.4,
+     "prob": 0.68
+    },
+    {
+     "sel": "1545654|Match Winner|Away",
+     "texto": "Gana Suiza",
+     "cuota": 1.67,
+     "prob": 0.56
+    },
+    {
+     "sel": "1545654|Total - Home|Over 0.5",
+     "texto": "Eslovenia marca",
      "cuota": 1.73,
      "prob": 0.54
     },
     {
-     "sel": "1528960|Double Chance|Home/Draw",
-     "texto": "Italia o empate",
+     "sel": "1545654|Total - Away|Over 1.5",
+     "texto": "Suiza marca 2 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1528965,
+   "fecha": "2026-11-13T20:45",
+   "local": "Serbia",
+   "visitante": "Germany",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528965|Total - Home|Over 0.5",
+     "texto": "Serbia marca",
+     "cuota": 1.62,
+     "prob": 0.58
+    },
+    {
+     "sel": "1528965|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Serbia–Alemania",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528965|Total - Away|Over 2.5",
+     "texto": "Alemania marca 3 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1528969,
+   "fecha": "2026-11-13T20:45",
+   "local": "Bulgaria",
+   "visitante": "Iceland",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528969|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Bulgaria–Islandia",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
+     "sel": "1528969|To Win Either Half|Away",
+     "texto": "Islandia gana alguna de las dos partes",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528969|Total - Home|Over 0.5",
+     "texto": "Bulgaria marca",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1528969|Match Winner|Away",
+     "texto": "Gana Islandia",
      "cuota": 1.83,
      "prob": 0.51
     }
    ]
   },
   {
-   "partido_id": 1528962,
-   "fecha": "2026-11-12T20:45",
-   "local": "England",
-   "visitante": "Croatia",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528962|Total - Away|Over 0.5",
-     "texto": "Croacia marca",
-     "cuota": 1.73,
-     "prob": 0.54
-    },
-    {
-     "sel": "1528962|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Inglaterra–Croacia",
-     "cuota": 1.83,
-     "prob": 0.5
-    },
-    {
-     "sel": "1528962|Total - Home|Over 2.5",
-     "texto": "Inglaterra marca 3 o más",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1545613,
-   "fecha": "2026-11-12T20:45",
-   "local": "Montenegro",
-   "visitante": "Latvia",
-   "liga": "Nations League",
+   "partido_id": 1644376,
+   "fecha": "2026-11-13T21:00",
+   "local": "Salamanca UDS",
+   "visitante": "Celta Vigo",
+   "liga": "Copa del Rey",
    "datos": [
-    "Se espera lluvia (4,8 mm): suele haber menos goles"
+    "3 categorías de diferencia: el Celta Vigo juega en Primera y el Salamanca UDS en Segunda Federación",
+    "Los partidos del Celta Vigo llevan 1,9 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1545613|Total - Home|Over 1.5",
-     "texto": "Montenegro marca 2 o más",
-     "cuota": 1.44,
-     "prob": 0.65
-    }
-   ]
-  },
-  {
-   "partido_id": 1528964,
-   "fecha": "2026-11-12T20:45",
-   "local": "San Marino",
-   "visitante": "Belarus",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528964|Total - Away|Over 2.5",
-     "texto": "Bielorrusia marca 3 o más",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1638339,
-   "fecha": "2026-11-12T21:00",
-   "local": "SL Benfica W",
-   "visitante": "Austria Wien W",
-   "liga": "Champions Femenina",
-   "datos": [
-    "Los partidos del Austria Wien W llevan 3,6 goles de media (últimos 7).",
-    "El Austria Wien W solo ha ganado 1 de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1638339|Total - Away|Over 0.5",
-     "texto": "Austria Wien (fem.) marca",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1638339|Total - Home|Over 1.5",
-     "texto": "SL Benfica (fem.) marca 2 o más",
-     "cuota": 1.57,
-     "prob": 0.59
-    },
-    {
-     "sel": "1638339|Match Winner|Home",
-     "texto": "Gana el SL Benfica (fem.)",
+     "sel": "1644376|Total - Home|Over 0.5",
+     "texto": "Salamanca UDS marca",
      "cuota": 1.62,
      "prob": 0.58
     },
     {
-     "sel": "1638339|Both Teams Score|Yes",
-     "texto": "Ambos marcan en SL Benfica (fem.)–Austria Wien (fem.)",
+     "sel": "1644376|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Salamanca UDS–Celta Vigo",
+     "cuota": 1.75,
+     "prob": 0.53
+    }
+   ]
+  }
+ ],
+ "2026-11-14": [
+  {
+   "partido_id": 1570024,
+   "fecha": "2026-11-14T14:00",
+   "local": "Valladolid",
+   "visitante": "Castellón",
+   "liga": "Segunda",
+   "datos": [
+    "El Castellón va 2º y el Valladolid 12º en la liga.",
+    "Los partidos del Valladolid llevan 4,0 goles de media (últimos 8).",
+    "Los partidos del Castellón llevan 2,8 goles de media (últimos 8).",
+    "El Castellón ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1570024|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Valladolid–Castellón",
+     "cuota": 1.83,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570024|Double Chance|Draw/Away",
+     "texto": "Castellón o empate",
+     "cuota": 1.36,
+     "prob": 0.39
+    },
+    {
+     "sel": "1570024|Total - Away|Over 1.5",
+     "texto": "Castellón marca 2 o más",
+     "cuota": 2.0,
+     "prob": 0.36
+    }
+   ]
+  },
+  {
+   "partido_id": 1608361,
+   "fecha": "2026-11-14T14:30",
+   "local": "Albinoleffe",
+   "visitante": "Union Brescia",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Albinoleffe llevan 3,8 goles de media (últimos 8).",
+    "Los partidos del Union Brescia llevan 3,4 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608361|Total - Home|Over 0.5",
+     "texto": "Albinoleffe marca",
+     "cuota": 1.62,
+     "prob": 0.64
+    },
+    {
+     "sel": "1608361|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Albinoleffe–Union Brescia",
+     "cuota": 1.91,
+     "prob": 0.41
+    },
+    {
+     "sel": "1608361|Total - Away|Over 1.5",
+     "texto": "Union Brescia marca 2 o más",
+     "cuota": 1.8,
+     "prob": 0.36
+    }
+   ]
+  },
+  {
+   "partido_id": 1608362,
+   "fecha": "2026-11-14T14:30",
+   "local": "Arzignano Valchiampo",
+   "visitante": "Alcione",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Arzignano Valchiampo llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Alcione llevan 3,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608362|Total - Home|Over 1.5",
+     "texto": "Arzignano Valchiampo marca 2 o más",
+     "cuota": 2.1,
+     "prob": 0.58
+    },
+    {
+     "sel": "1608362|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Arzignano Valchiampo–Alcione",
+     "cuota": 2.1,
+     "prob": 0.52
+    },
+    {
+     "sel": "1608362|Total - Away|Over 0.5",
+     "texto": "Alcione marca",
+     "cuota": 1.4,
+     "prob": 0.5
+    },
+    {
+     "sel": "1608362|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Arzignano Valchiampo–Alcione",
+     "cuota": 1.73,
+     "prob": 0.41
+    }
+   ]
+  },
+  {
+   "partido_id": 1608370,
+   "fecha": "2026-11-14T14:30",
+   "local": "Renate",
+   "visitante": "Desenzano Calvina",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Renate llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Desenzano Calvina llevan 1,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608370|Total - Away|Over 0.5",
+     "texto": "Desenzano Calvina marca",
+     "cuota": 1.4,
+     "prob": 0.48
+    },
+    {
+     "sel": "1608370|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Renate–Desenzano Calvina",
+     "cuota": 1.73,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1528971,
+   "fecha": "2026-11-14T15:00",
+   "local": "Kosovo",
+   "visitante": "Israel",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528971|To Win Either Half|Home",
+     "texto": "Kosovo gana alguna de las dos partes",
+     "cuota": 1.44,
+     "prob": 0.64
+    },
+    {
+     "sel": "1528971|Total - Away|Over 0.5",
+     "texto": "Israel marca",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528971|Match Winner|Home",
+     "texto": "Gana el Kosovo",
+     "cuota": 1.8,
+     "prob": 0.52
+    },
+    {
+     "sel": "1528971|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Kosovo–Israel",
+     "cuota": 1.8,
+     "prob": 0.52
+    },
+    {
+     "sel": "1528971|Total - Home|Over 1.5",
+     "texto": "Kosovo marca 2 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1570022,
+   "fecha": "2026-11-14T16:15",
+   "local": "Real Sociedad II",
+   "visitante": "Sporting Gijon",
+   "liga": "Segunda",
+   "datos": [
+    "El Sporting Gijon va 7º y el Real Sociedad II 17º en la liga.",
+    "Los partidos del Real Sociedad II llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Sporting Gijon llevan 3,0 goles de media (últimos 8).",
+    "El Real Sociedad II solo ha ganado 1 de sus últimos 5.",
+    "El Sporting Gijon ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1570022|Total Corners (1st Half)|Over 4",
+     "texto": "Más de 4 córners en la 1ª parte en Real Sociedad II–Sporting Gijon",
+     "cuota": 1.95,
+     "prob": 0.45
+    },
+    {
+     "sel": "1570022|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Real Sociedad II–Sporting Gijon",
+     "cuota": 1.73,
+     "prob": 0.42
+    },
+    {
+     "sel": "1570022|Double Chance|Draw/Away",
+     "texto": "Sporting Gijon o empate",
+     "cuota": 1.53,
+     "prob": 0.4
+    }
+   ]
+  },
+  {
+   "partido_id": 1608363,
+   "fecha": "2026-11-14T17:30",
+   "local": "Athletic Carpi",
+   "visitante": "Giana Erminio",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Athletic Carpi llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Giana Erminio llevan 2,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608363|Double Chance|Home/Draw",
+     "texto": "Athletic Carpi o empate",
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
+     "sel": "1608363|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Athletic Carpi–Giana Erminio",
+     "cuota": 1.8,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1608366,
+   "fecha": "2026-11-14T17:30",
+   "local": "Lumezzane",
+   "visitante": "Trento",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Lumezzane llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Trento llevan 2,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608366|Total - Home|Over 0.5",
+     "texto": "Lumezzane marca",
+     "cuota": 1.44,
+     "prob": 0.64
+    },
+    {
+     "sel": "1608366|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Lumezzane–Trento",
+     "cuota": 1.73,
+     "prob": 0.42
+    },
+    {
+     "sel": "1608366|Total - Away|Over 1.5",
+     "texto": "Trento marca 2 o más",
+     "cuota": 1.83,
+     "prob": 0.35
+    }
+   ]
+  },
+  {
+   "partido_id": 1528972,
+   "fecha": "2026-11-14T18:00",
+   "local": "Norway",
+   "visitante": "Wales",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528972|Total - Away|Over 0.5",
+     "texto": "Gales marca",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528972|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Noruega–Gales",
+     "cuota": 1.83,
+     "prob": 0.5
+    },
+    {
+     "sel": "1528972|Total - Home|Over 2.5",
+     "texto": "Noruega marca 3 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1528973,
+   "fecha": "2026-11-14T18:00",
+   "local": "Georgia",
+   "visitante": "Hungary",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528973|Total - Away|Over 0.5",
+     "texto": "Hungría marca",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
+     "sel": "1528973|Double Chance|Draw/Away",
+     "texto": "Hungría o empate",
+     "cuota": 1.36,
+     "prob": 0.68
+    },
+    {
+     "sel": "1528973|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Georgia–Hungría",
+     "cuota": 1.44,
+     "prob": 0.65
+    },
+    {
+     "sel": "1528973|Total - Home|Over 0.5",
+     "texto": "Georgia marca",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528973|Double Chance|Home/Draw",
+     "texto": "Georgia o empate",
+     "cuota": 1.53,
+     "prob": 0.6
+    }
+   ]
+  },
+  {
+   "partido_id": 1570020,
+   "fecha": "2026-11-14T18:30",
+   "local": "Mallorca",
+   "visitante": "Cordoba",
+   "liga": "Segunda",
+   "datos": [
+    "El Mallorca va 6º y el Cordoba 11º en la liga.",
+    "Los partidos del Mallorca llevan 1,9 goles de media (últimos 8).",
+    "Los partidos del Cordoba llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570020|To Win Either Half|Home",
+     "texto": "Mallorca gana alguna de las dos partes",
+     "cuota": 1.4,
+     "prob": 0.6
+    },
+    {
+     "sel": "1570020|Total - Home|Over 1.5",
+     "texto": "Mallorca marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.57
+    },
+    {
+     "sel": "1570020|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Mallorca–Cordoba",
+     "cuota": 1.83,
+     "prob": 0.53
+    },
+    {
+     "sel": "1570020|Total - Away|Over 0.5",
+     "texto": "Cordoba marca",
+     "cuota": 1.44,
+     "prob": 0.49
+    },
+    {
+     "sel": "1570020|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Mallorca–Cordoba",
+     "cuota": 1.67,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1528977,
+   "fecha": "2026-11-14T20:45",
+   "local": "Romania",
+   "visitante": "Poland",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528977|Total - Home|Over 0.5",
+     "texto": "Rumanía marca",
+     "cuota": 1.4,
+     "prob": 0.66
+    },
+    {
+     "sel": "1528977|To Win Either Half|Away",
+     "texto": "Polonia gana alguna de las dos partes",
+     "cuota": 1.44,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528977|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Rumanía–Polonia",
      "cuota": 1.67,
      "prob": 0.56
+    },
+    {
+     "sel": "1528977|Total - Away|Over 1.5",
+     "texto": "Polonia marca 2 o más",
+     "cuota": 1.8,
+     "prob": 0.52
+    },
+    {
+     "sel": "1528977|Match Winner|Away",
+     "texto": "Gana Polonia",
+     "cuota": 1.83,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
+   "partido_id": 1528978,
+   "fecha": "2026-11-14T20:45",
+   "local": "Sweden",
+   "visitante": "Bosnia & Herzegovina",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528978|Total - Home|Over 1.5",
+     "texto": "Suecia marca 2 o más",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528978|Total - Away|Over 0.5",
+     "texto": "Bosnia marca",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528978|Match Winner|Home",
+     "texto": "Gana Suecia",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528978|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Suecia–Bosnia",
+     "cuota": 1.67,
+     "prob": 0.56
+    }
+   ]
+  },
+  {
+   "partido_id": 1528974,
+   "fecha": "2026-11-14T20:45",
+   "local": "Portugal",
+   "visitante": "Denmark",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528974|Total - Home|Over 1.5",
+     "texto": "Portugal marca 2 o más",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528974|Total - Away|Over 0.5",
+     "texto": "Dinamarca marca",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528974|Match Winner|Home",
+     "texto": "Gana el Portugal",
+     "cuota": 1.53,
+     "prob": 0.61
+    },
+    {
+     "sel": "1528974|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Portugal–Dinamarca",
+     "cuota": 1.67,
+     "prob": 0.56
+    }
+   ]
+  },
+  {
+   "partido_id": 1528975,
+   "fecha": "2026-11-14T20:45",
+   "local": "Northern Ireland",
+   "visitante": "Ukraine",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528975|Total - Home|Over 0.5",
+     "texto": "Irlanda del Norte marca",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
+     "sel": "1528975|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Irlanda del Norte–Ucrania",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528975|Total - Away|Over 0.5",
+     "texto": "Ucrania marca",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528975|Double Chance|Draw/Away",
+     "texto": "Ucrania o empate",
+     "cuota": 1.53,
+     "prob": 0.6
+    },
+    {
+     "sel": "1528975|To Win Either Half|Home",
+     "texto": "Irlanda del Norte gana alguna de las dos partes",
+     "cuota": 1.8,
+     "prob": 0.54
+    }
+   ]
+  },
+  {
+   "partido_id": 1528976,
+   "fecha": "2026-11-14T20:45",
+   "local": "Austria",
+   "visitante": "Rep. Of Ireland",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528976|Match Winner|Home",
+     "texto": "Gana el Austria",
+     "cuota": 1.57,
+     "prob": 0.6
+    },
+    {
+     "sel": "1528976|Total - Away|Over 0.5",
+     "texto": "Irlanda marca",
+     "cuota": 1.62,
+     "prob": 0.58
+    },
+    {
+     "sel": "1528976|Total - Home|Over 1.5",
+     "texto": "Austria marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.56
+    },
+    {
+     "sel": "1528976|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Austria–Irlanda",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1570021,
+   "fecha": "2026-11-14T21:00",
+   "local": "Oviedo",
+   "visitante": "Girona",
+   "liga": "Segunda",
+   "datos": [
+    "Los partidos del Oviedo llevan 4,0 goles de media (últimos 8).",
+    "Los partidos del Girona llevan 2,0 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570021|Corners 1x2|Home",
+     "texto": "Oviedo hace más córners",
+     "cuota": 1.91,
+     "prob": 0.52
+    },
+    {
+     "sel": "1570021|Home Corners Over/Under|Over 2.5",
+     "texto": "Oviedo hace 3+ córners",
+     "cuota": 1.37,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570021|Total - Away|Over 0.5",
+     "texto": "Girona marca",
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570021|Double Chance|Home/Draw",
+     "texto": "Oviedo o empate",
+     "cuota": 1.36,
+     "prob": 0.5
+    },
+    {
+     "sel": "1570021|Total Corners (1st Half)|Over 4.5",
+     "texto": "Más de 4,5 córners en la 1ª parte en Oviedo–Girona",
+     "cuota": 2.02,
+     "prob": 0.44
+    }
+   ]
+  }
+ ],
+ "2026-11-15": [
+  {
+   "partido_id": 1576530,
+   "fecha": "2026-11-15T12:00",
+   "local": "Amarante",
+   "visitante": "Felgueiras 1932",
+   "liga": "Segunda Liga",
+   "datos": [
+    "Los partidos del Amarante llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Felgueiras 1932 llevan 2,9 goles de media (últimos 8).",
+    "El Felgueiras 1932 solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1576530|Total - Home|Over 0.5",
+     "texto": "Amarante marca",
+     "cuota": 1.4,
+     "prob": 0.69
+    },
+    {
+     "sel": "1576530|Double Chance|Home/Draw",
+     "texto": "Amarante o empate",
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
+     "sel": "1576530|Total - Away|Over 0.5",
+     "texto": "Felgueiras 1932 marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    },
+    {
+     "sel": "1576530|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Amarante–Felgueiras 1932",
+     "cuota": 2.0,
+     "prob": 0.4
+    }
+   ]
+  },
+  {
+   "partido_id": 1576537,
+   "fecha": "2026-11-15T12:00",
+   "local": "Tondela",
+   "visitante": "Farense",
+   "liga": "Segunda Liga",
+   "datos": [
+    "Los partidos del Tondela llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Farense llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1576537|Total - Away|Over 0.5",
+     "texto": "Farense marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    },
+    {
+     "sel": "1576537|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Tondela–Farense",
+     "cuota": 1.83,
+     "prob": 0.41
+    }
+   ]
+  },
+  {
+   "partido_id": 1608367,
+   "fecha": "2026-11-15T12:30",
+   "local": "Novara",
+   "visitante": "Lecco",
+   "liga": "Serie C",
+   "datos": [
+    "El Novara solo ha ganado 1 de sus últimos 5.",
+    "El Lecco ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1608367|Match Winner|Away",
+     "texto": "Gana el Lecco",
+     "cuota": 2.25,
+     "prob": 0.5
+    },
+    {
+     "sel": "1608367|Double Chance|Home/Draw",
+     "texto": "Novara o empate",
+     "cuota": 1.53,
+     "prob": 0.49
+    }
+   ]
+  },
+  {
+   "partido_id": 1576536,
+   "fecha": "2026-11-15T15:00",
+   "local": "Portimonense",
+   "visitante": "Academica",
+   "liga": "Segunda Liga",
+   "datos": [
+    "Los partidos del Portimonense llevan 1,8 goles de media (últimos 8).",
+    "Los partidos del Academica llevan 3,6 goles de media (últimos 8).",
+    "El Portimonense ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1576536|Total - Away|Over 0.5",
+     "texto": "Academica marca",
+     "cuota": 1.4,
+     "prob": 0.51
+    },
+    {
+     "sel": "1576536|Double Chance|Home/Draw",
+     "texto": "Portimonense o empate",
+     "cuota": 1.36,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1570018,
+   "fecha": "2026-11-15T16:15",
+   "local": "Granada CF",
+   "visitante": "Las Palmas",
+   "liga": "Segunda",
+   "datos": [
+    "El Granada CF va 4º y el Las Palmas 10º en la liga.",
+    "El Granada CF ha ganado 5 de sus últimos 5 partidos.",
+    "Los partidos del Granada CF llevan 3,2 goles de media (últimos 8).",
+    "Los partidos del Las Palmas llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570018|Match Winner|Home",
+     "texto": "Gana el Granada CF",
+     "cuota": 1.73,
+     "prob": 0.67
+    },
+    {
+     "sel": "1570018|Total - Home|Over 1.5",
+     "texto": "Granada CF marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.59
+    },
+    {
+     "sel": "1570018|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Granada CF–Las Palmas",
+     "cuota": 2.0,
+     "prob": 0.54
+    },
+    {
+     "sel": "1570018|Total - Away|Over 0.5",
+     "texto": "Las Palmas marca",
+     "cuota": 1.53,
+     "prob": 0.48
+    },
+    {
+     "sel": "1570018|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Granada CF–Las Palmas",
+     "cuota": 1.73,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1576535,
+   "fecha": "2026-11-15T16:30",
+   "local": "Penafiel",
+   "visitante": "Lusitânia Lourosa",
+   "liga": "Segunda Liga",
+   "datos": [
+    "Los partidos del Penafiel llevan 3,2 goles de media (últimos 8).",
+    "Los partidos del Lusitânia Lourosa llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1576535|Total - Away|Over 0.5",
+     "texto": "Lusitânia Lourosa marca",
+     "cuota": 1.4,
+     "prob": 0.49
+    },
+    {
+     "sel": "1576535|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Penafiel–Lusitânia Lourosa",
+     "cuota": 1.83,
+     "prob": 0.41
+    }
+   ]
+  },
+  {
+   "partido_id": 1608369,
+   "fecha": "2026-11-15T17:30",
+   "local": "Pergolettese",
+   "visitante": "PRO Vercelli",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Pergolettese llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del PRO Vercelli llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608369|Total - Home|Over 1.5",
+     "texto": "Pergolettese marca 2 o más",
+     "cuota": 2.0,
+     "prob": 0.58
+    },
+    {
+     "sel": "1608369|Total - Away|Over 0.5",
+     "texto": "PRO Vercelli marca",
+     "cuota": 1.44,
+     "prob": 0.5
+    },
+    {
+     "sel": "1608369|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Pergolettese–PRO Vercelli",
+     "cuota": 1.8,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1608365,
+   "fecha": "2026-11-15T17:30",
+   "local": "Juventus U23",
+   "visitante": "Treviso",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Juventus U23 llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Treviso llevan 1,2 goles de media (últimos 8).",
+    "El Juventus U23 solo ha ganado 1 de sus últimos 5.",
+    "El Treviso ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1608365|Total - Home|Over 0.5",
+     "texto": "Juventus U23 marca",
+     "cuota": 1.4,
+     "prob": 0.64
+    },
+    {
+     "sel": "1608365|Match Winner|Away",
+     "texto": "Gana el Treviso",
+     "cuota": 2.25,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
+   "partido_id": 1608364,
+   "fecha": "2026-11-15T17:30",
+   "local": "Cittadella",
+   "visitante": "Folgore Caratese",
+   "liga": "Serie C",
+   "datos": [
+    "El Cittadella ha ganado 3 de sus últimos 5 partidos.",
+    "El Folgore Caratese no ha ganado ninguno de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1608364|Match Winner|Home",
+     "texto": "Gana el Cittadella",
+     "cuota": 1.4,
+     "prob": 0.68
+    }
+   ]
+  },
+  {
+   "partido_id": 1570016,
+   "fecha": "2026-11-15T18:30",
+   "local": "Eibar",
+   "visitante": "Cadiz",
+   "liga": "Segunda",
+   "datos": [
+    "El Eibar va 5º y el Cadiz 20º en la liga.",
+    "Los partidos del Eibar llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del Cadiz llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570016|Match Winner|Home",
+     "texto": "Gana el Eibar",
+     "cuota": 1.62,
+     "prob": 0.69
+    },
+    {
+     "sel": "1570016|To Win Either Half|Home",
+     "texto": "Eibar gana alguna de las dos partes",
+     "cuota": 1.36,
+     "prob": 0.64
+    },
+    {
+     "sel": "1570016|Total - Home|Over 1.5",
+     "texto": "Eibar marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.58
+    },
+    {
+     "sel": "1570016|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Eibar–Cadiz",
+     "cuota": 2.0,
+     "prob": 0.52
+    },
+    {
+     "sel": "1570016|Total - Away|Over 0.5",
+     "texto": "Cadiz marca",
+     "cuota": 1.57,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1570017,
+   "fecha": "2026-11-15T18:30",
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "liga": "Segunda",
+   "datos": [
+    "Los partidos del Eldense llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Sabadell llevan 1,9 goles de media (últimos 8).",
+    "El Sabadell solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1570017|Total - Away|Over 0.5",
+     "texto": "Sabadell marca",
+     "cuota": 1.44,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570017|Double Chance|Home/Draw",
+     "texto": "Eldense o empate",
+     "cuota": 1.36,
+     "prob": 0.5
+    },
+    {
+     "sel": "1570017|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Eldense–Sabadell",
+     "cuota": 1.95,
+     "prob": 0.44
+    },
+    {
+     "sel": "1570017|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Eldense–Sabadell",
+     "cuota": 1.83,
+     "prob": 0.43
+    },
+    {
+     "sel": "1570017|Corners 1x2|Away",
+     "texto": "Sabadell hace más córners",
+     "cuota": 2.2,
+     "prob": 0.36
+    }
+   ]
+  },
+  {
+   "partido_id": 1576534,
+   "fecha": "2026-11-15T19:00",
+   "local": "Leixoes",
+   "visitante": "Chaves",
+   "liga": "Segunda Liga",
+   "datos": [
+    "Los partidos del Leixoes llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del Chaves llevan 3,4 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1576534|Total - Home|Over 1.5",
+     "texto": "Leixoes marca 2 o más",
+     "cuota": 1.91,
+     "prob": 0.57
+    },
+    {
+     "sel": "1576534|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Leixoes–Chaves",
+     "cuota": 2.0,
+     "prob": 0.54
+    },
+    {
+     "sel": "1576534|Total - Away|Over 0.5",
+     "texto": "Chaves marca",
+     "cuota": 1.4,
+     "prob": 0.5
+    },
+    {
+     "sel": "1576534|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Leixoes–Chaves",
+     "cuota": 1.73,
+     "prob": 0.41
+    }
+   ]
+  }
+ ],
+ "2026-11-16": [
+  {
+   "partido_id": 1570014,
+   "fecha": "2026-11-16T20:30",
+   "local": "Albacete",
+   "visitante": "Celta de Vigo II",
+   "liga": "Segunda",
+   "datos": [
+    "El Celta de Vigo II va 16º y el Albacete 21º en la liga.",
+    "Los partidos del Albacete llevan 3,2 goles de media (últimos 8).",
+    "Los partidos del Celta de Vigo II llevan 3,6 goles de media (últimos 8).",
+    "El Albacete ha ganado 3 de sus últimos 5 partidos.",
+    "El Celta de Vigo II solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1570014|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Albacete–Celta de Vigo II",
+     "cuota": 1.83,
+     "prob": 0.52
+    },
+    {
+     "sel": "1570014|Corners 1x2|Home",
+     "texto": "Albacete hace más córners",
+     "cuota": 1.4,
+     "prob": 0.5
+    },
+    {
+     "sel": "1570014|Total - Away|Over 0.5",
+     "texto": "Celta de Vigo II marca",
+     "cuota": 1.44,
+     "prob": 0.49
+    },
+    {
+     "sel": "1570014|Total Corners (1st Half)|Over 4",
+     "texto": "Más de 4 córners en la 1ª parte en Albacete–Celta de Vigo II",
+     "cuota": 1.91,
+     "prob": 0.44
+    },
+    {
+     "sel": "1570014|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Albacete–Celta de Vigo II",
+     "cuota": 1.82,
+     "prob": 0.44
     }
    ]
   }
