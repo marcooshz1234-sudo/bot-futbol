@@ -3,8 +3,8 @@
 Posts de Telegram con las imágenes de la marca (publicaciones/media/marca, hechas con ChatGPT):
   - buenos_dias:   9:30–10:20, una vez al día. Una de las 3 fotos (cambia cada día) y lo que sale hoy con su hora.
   - noche_europea: días de Champions / Europa League / Conference, 17:00–18:30, una vez.
-  - en_directo:    cuando empieza un partido de un post nuestro de Telegram (pick del día, escalera, combi…),
-                   como mucho 2 al día y no más de uno cada 45 min.
+  - en_directo:    cuando empieza un partido de un post nuestro de Telegram (pick del día, escalera, combi…).
+                   12/11 (Marcos: «esto que no lo suba tanto, uno de vez en cuando»): uno cada 3 días como mucho.
   - pleno:         si todos los posts de hoy en Telegram con picks han salido en verde (3 o más): la animación.
 (La escalera, el pick del día y los rojos llevan su foto desde publicar_telegram.foto_de_marca.)
 Estado en datos/marca_tg.json para no repetir.
@@ -19,7 +19,8 @@ from bot import DATOS, MADRID, RAIZ, leer
 MARCA = RAIZ / "publicaciones" / "media" / "marca"
 ESTADO = DATOS / "marca_tg.json"
 EUROPA = {2, 3, 848}
-MAX_DIRECTO = 2
+MAX_DIRECTO = 1
+DIAS_ENTRE_DIRECTOS = 3   # 12/11: «uno de vez en cuando»
 SALUDOS = [
     "☀️ ¡Buenos días, familia!\n\n¿Estáis listos para hoy? 🍀",
     "☀️ Buenos días a todos 👋\n\nHoy hay fútbol y hay que pintarlo de verde ✅",
@@ -134,7 +135,7 @@ def en_directo(ahora, est):
     if len(hechos) >= MAX_DIRECTO:
         return None
     ultimo = est.get("directo_ultimo")
-    if ultimo and ahora - datetime.fromisoformat(ultimo) < timedelta(minutes=45):
+    if ultimo and ahora.date() - datetime.fromisoformat(ultimo).date() < timedelta(days=DIAS_ENTRE_DIRECTOS):
         return None
     vivos = leer(DATOS / "en_directo.json", {}) or {}
     from plantillas import es
@@ -189,7 +190,7 @@ def main(ahora=None):
             f(ahora, est)
         except Exception as e:
             print(f"marca_tg ({f.__name__}):", e)
-    limite = (ahora - timedelta(days=3)).strftime("%Y-%m-%d")
+    limite = (ahora - timedelta(days=DIAS_ENTRE_DIRECTOS + 1)).strftime("%Y-%m-%d")
     est["directo"] = {d: v for d, v in (est.get("directo") or {}).items() if d >= limite}
     ESTADO.write_text(json.dumps(est, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 

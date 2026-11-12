@@ -69,7 +69,7 @@
 ## 6. Telegram (canal gratis)
 - ⚙️ Solo: pick del día (1,50–1,70), escalera, una combi buena y las copias de canales (09/11 y 12/11).
 - ⚙️ 9:30 buenos días con foto (3 que rotan) y lo que sale hoy; noche europea los días de Champions/EL/Conference;
-  «en directo» al empezar un partido nuestro (máx. 2); ¡PLENO! si sale todo (12/11). No el balance de la noche.
+  «en directo» al empezar un partido nuestro, de vez en cuando (uno cada 3 días como mucho, 12/11); ¡PLENO! si sale todo (12/11). No el balance de la noche.
 - ⚙️ Fotos de la marca en escalera, pick del día y rojos; animación ¡VERDE! en verdes de cuota ≥ 3,00 (12/11). Sin muñeco.
 - 👤 Nunca editar un post ya publicado (04/11): si falta algo, respuesta o post nuevo.
 - ⚙️ Los posts de «solo Threads» no salen en Telegram (12/11).

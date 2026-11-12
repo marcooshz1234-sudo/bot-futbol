@@ -62,6 +62,20 @@ class MarcaTG(unittest.TestCase):
             (Path(d) / "docs" / "datos.json").write_text(json.dumps(datos))
             self.assertIsNone(M.pleno(datetime(2026, 11, 12, 23, 0, tzinfo=MADRID), {}))
 
+    def test_en_directo_de_vez_en_cuando(self):   # 12/11: «esto que no lo suba tanto, uno de vez en cuando»
+        vivos = {"1": {"estado": "1H", "minuto": 2}, "2": {"estado": "1H", "minuto": 3}}
+        pa = {"partido": {"teams": {"home": {"name": "Spain"}, "away": {"name": "Czech Republic"}}}}
+        leer = lambda ruta, defecto=None: vivos if ruta.name == "en_directo.json" else pa
+        est = {}
+        with mock.patch.object(M, "leer", leer):
+            dia = lambda d, h: datetime(2026, 11, d, h, 0, tzinfo=MADRID)
+            self.assertIsNotNone(M.en_directo(dia(12, 18), est))
+            self.assertIsNone(M.en_directo(dia(12, 21), est))   # uno al día como mucho
+            self.assertIsNone(M.en_directo(dia(13, 18), est))
+            self.assertIsNone(M.en_directo(dia(14, 18), est))
+            self.assertIsNotNone(M.en_directo(dia(15, 18), est))   # y luego, cada 3 días
+        self.assertEqual(len(self.enviados), 2)
+
     def test_sin_muneco(self):   # «el muñeco no me gusta, quítalo»
         nombres = {f.name for f in M.MARCA.iterdir()}
         self.assertFalse(any("mascota" in n or "la-loca" in n for n in nombres))
