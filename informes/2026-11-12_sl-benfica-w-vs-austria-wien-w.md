@@ -1,10 +1,10 @@
 # SL Benfica W – Austria Wien W
 **Champions Femenina** · League Stage - 4 · 12/11/2026 21:00 (hora España) · Estadio da Tapadinha
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:18_
+_Actualizadas: 12/11 08:25_
 
 - **1X2:** 1 **1.62**  ·  X **4.20**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.20**  ·  X2 **2.10**

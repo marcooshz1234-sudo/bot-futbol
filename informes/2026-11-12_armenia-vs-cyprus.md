@@ -1,12 +1,12 @@
 # Armenia – Cyprus
 **Nations League** · League C - 5 · 12/11/2026 18:00 (hora España) · Vazgen Sargsyan Republican Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:18_
+_Actualizadas: 12/11 08:25_
 
-- **1X2:** 1 **2.35**  ·  X **3.25**  ·  2 **3.10**
+- **1X2:** 1 **2.62**  ·  X **3.25**  ·  2 **2.75**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**

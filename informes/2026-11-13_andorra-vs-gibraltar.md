@@ -1,16 +1,16 @@
 # Andorra – Gibraltar
 **Nations League** · League D - 5 · 13/11/2026 20:45 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:18_
+_Actualizadas: 12/11 08:26_
 
 - **1X2:** 1 **1.85**  ·  X **3.00**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.36**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **2.75**  ·  No **1.40**
 - **Goles más/menos:**
-    - 0,5: más **1.14** · menos **4.75**
+    - 0,5: más **1.14** · menos **5.00**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **6.50** · menos **1.10**
@@ -18,12 +18,12 @@ _Actualizadas: 12/11 02:18_
     - 0,5: más **1.67** · menos **2.10**
     - 1,5: más **4.33** · menos **1.20**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **2.10** · menos **1.67**
-    - 1,5: más **6.50** · menos **1.10**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **6.00** · menos **1.11**
 - **1X2 descanso:** 1 **2.60**  ·  X **1.80**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.50** · menos **2.50**
@@ -32,10 +32,10 @@ _Actualizadas: 12/11 02:18_
 - **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
 - **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
 - **To Win Either Half:** 1 **1.57**  ·  2 **3.25**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **13.00**
-- **Win Both Halves:** 1 **6.50**  ·  2 **26.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **17.00**  ·  Home/No **2.38**  ·  Draw/No **4.75**  ·  Away/No **7.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.33**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.57**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **11.00**
+- **Win Both Halves:** 1 **6.50**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **15.00**  ·  Home/No **2.38**  ·  Draw/No **4.75**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.33**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.57**
 - **Anytime Goal Scorer:** Julian Valarino **19.00**  ·  Carlos Richards **8.50**  ·  Aron Rodrigo Tapia **4.33**  ·  Guillaume Lopez **3.20**  ·  Liam Jessop **8.50**  ·  Julian Del Rio **7.50**  ·  Tjay De Barr **6.50**  ·  James Scanlon **7.50**  ·  Graeme Torrilla **13.00**  ·  Louie Annesley **19.00**  ·  Ethan Britto **23.00**  ·  Ethan Jolley **23.00**  ·  Kian Ronan **19.00**  ·  Bernardo Lopes **23.00**  ·  Nicholas Pozo **13.00**  ·  Daniel Bent **8.50**  ·  Jordi Alaez **6.50**  ·  Albert Rosas **3.20**  ·  Ricard Fernandez **3.00**  ·  Alexandre Martinez **4.33**  ·  Izan Fernandez **4.75**  ·  Christian Garcia **19.00**  ·  Eric Vales **8.50**  ·  Joel Guillen **10.00**  ·  Ian Olivera **13.00**  ·  Marc Garcia **17.00**  ·  Kiko Pomares **11.00**  ·  Max Llovera **19.00**  ·  Moises San Nicolas **13.00**  ·  Joao Da Silva **13.00**  ·  Dylan Borge **6.50**  ·  Jeremy Perera **15.00**  ·  Jesse Gomez **15.00**  ·  Ot Remolins **7.50**  ·  Leon Mason **8.50**  ·  Han Stevens **19.00**  ·  Jayvan Garro **19.00**  ·  Luke Schofield **11.00**  ·  Biel Borra **13.00**  ·  Jesus Rubio **10.00**  ·  Pau Babot **8.50**
 
 ## Estadísticas de equipo

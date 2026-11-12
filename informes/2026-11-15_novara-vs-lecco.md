@@ -1,10 +1,10 @@
 # Novara – Lecco
 **Serie C** · Girone A - 14 · 15/11/2026 12:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 08:20_
+_Actualizadas: 12/11 08:26_
 
 - **1X2:** 1 **2.90**  ·  X **3.10**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.30**

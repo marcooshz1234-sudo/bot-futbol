@@ -1,7 +1,7 @@
 # SL Benfica W – Roma W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Caixa Futebol Campus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

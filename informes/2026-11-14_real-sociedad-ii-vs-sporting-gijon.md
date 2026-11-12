@@ -1,17 +1,17 @@
 # Real Sociedad II – Sporting Gijon
 **Segunda División** · Regular Season - 14 · 14/11/2026 16:15 (hora España) · Estadio Ciudad Deportiva Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:19_
+_Actualizadas: 12/11 08:26_
 
 - **1X2:** 1 **2.40**  ·  X **3.25**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.28** · menos **3.50**
+    - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **7.00** · menos **1.10**
@@ -199,10 +199,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 59% | 67% | 63% | 1.40 | -11% |
 | Ambos marcan: No | 48% | 46% | 47% | 2.00 | -6% |
 | Ambos marcan: Sí | 52% | 54% | 53% | 1.73 | -8% |
-| Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.28 | -6% |
+| Goles más/menos: Más de 1.5 | 73% | 72% | 73% | 1.30 | -6% |
 | Goles más/menos: Más de 2.5 | 48% | 47% | 48% | 2.00 | -5% |
 | Goles más/menos: Más de 3.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -6% |
+| Goles más/menos: Menos de 1.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles más/menos: Menos de 2.5 | 52% | 53% | 52% | 1.80 | -6% |
 | Goles más/menos: Menos de 3.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |

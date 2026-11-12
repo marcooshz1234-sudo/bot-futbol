@@ -1,16 +1,16 @@
 # Kosovo – Israel
 **Nations League** · League B - 5 · 14/11/2026 15:00 (hora España) · Stadiumi Fadil Vokrri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:19_
+_Actualizadas: 12/11 08:26_
 
-- **1X2:** 1 **1.80**  ·  X **3.40**  ·  2 **4.50**
+- **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.30**  ·  X2 **1.95**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.90** · menos **1.90**
     - 3,5: más **3.25** · menos **1.33**
@@ -45,7 +45,7 @@ _Actualizadas: 12/11 02:19_
 - **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **5.50**
 - **Win Both Halves:** 1 **5.50**  ·  2 **17.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **8.50**  ·  Home/No **3.25**  ·  Draw/No **10.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**

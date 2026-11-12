@@ -1,14 +1,14 @@
 # Tarancón – Levante
 **Copa del Rey** · Round of 128 · 12/11/2026 19:00 (hora España) · Estadio Municipal de Tarancon
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:18_
+_Actualizadas: 12/11 08:25_
 
-- **1X2:** 1 **19.00**  ·  X **9.00**  ·  2 **1.10**
+- **1X2:** 1 **21.00**  ·  X **9.50**  ·  2 **1.09**
 - **Doble oportunidad:** 1X **7.00**  ·  12 **1.07**  ·  X2 **1.02**
-- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
     - 1,5: más **1.08** · menos **8.00**
     - 2,5: más **1.30** · menos **3.50**
@@ -22,15 +22,15 @@ _Actualizadas: 12/11 02:18_
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Goles del local:**
-    - 0,5: más **2.10** · menos **1.67**
+    - 0,5: más **2.20** · menos **1.62**
     - 1,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 1,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.50**
     - 3,5: más **2.25** · menos **1.57**
-    - 4,5: más **4.00** · menos **1.22**
+    - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **15.00**  ·  X **3.50**  ·  2 **1.36**
+- **1X2 descanso:** 1 **17.00**  ·  X **3.60**  ·  2 **1.36**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.53** · menos **2.38**
@@ -38,12 +38,12 @@ _Actualizadas: 12/11 02:18_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
 - **To Win Either Half:** 1 **8.00**  ·  2 **1.05**
-- **To Score In Both Halves By Teams:** 1 **13.00**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.50**
 - **Win Both Halves:** 1 **101.00**  ·  2 **1.80**
-- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **11.00**  ·  Away/Yes **2.62**  ·  Home/No **29.00**  ·  Draw/No **26.00**  ·  Away/No **1.73**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **2.50**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **3.75**
+- **Results/Both Teams Score:** Home/Yes **41.00**  ·  Draw/Yes **11.00**  ·  Away/Yes **2.75**  ·  Home/No **34.00**  ·  Draw/No **23.00**  ·  Away/No **1.67**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **2.40**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **3.75**
 
 ## Estadísticas de equipo
 | | Tarancón (total) | Tarancón en casa | Levante (total) | Levante fuera |

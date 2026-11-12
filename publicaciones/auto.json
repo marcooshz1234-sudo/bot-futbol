@@ -4277,13 +4277,13 @@
   {
     "id": "2026-11-12-combi-tres",
     "fecha": "2026-11-12T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Levante marca 3 o más\n🇦🇱 Albania gana alguna de las dos partes\n\n📈 Cuota @3,53\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del jueves familia 🔥\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇦🇱 Albania gana alguna de las dos partes\n\n📈 Cuota @3,53\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1528958|Both Teams Score|Yes",
-      "1644379|Total - Away|Over 2.5",
+      "1638295|Total - Home|Over 2.5",
       "1528963|To Win Either Half|Home"
     ],
     "cuotas": [
@@ -4295,7 +4295,7 @@
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,83! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Calvo Sotelo marca\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇪🇸 Real Betis marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n⚽ Austria Wien (fem.) marca",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,63! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Calvo Sotelo marca\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇪🇸 Real Betis marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n⚽ Austria Wien (fem.) marca",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4312,7 +4312,7 @@
     "cuotas": [
       1.5,
       1.57,
-      1.57,
+      1.5,
       1.5,
       1.62,
       1.44,
@@ -4324,20 +4324,20 @@
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇨🇾 Chipre o empate\n🇪🇸 Ambos marcan en Calvo Sotelo–Albacete\n🇮🇹 Italia marca\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,23\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇪🇸 Ambos marcan en Calvo Sotelo–Albacete\n🇮🇹 Italia marca\n🇦🇱 Albania gana alguna de las dos partes\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,23\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528959|Double Chance|Draw/Away",
       "1644370|Both Teams Score|Yes",
       "1528960|Total - Home|Over 0.5",
+      "1528963|To Win Either Half|Home",
       "1638339|Match Winner|Home"
     ],
     "cuotas": [
-      1.57,
       1.8,
       1.36,
+      1.57,
       1.62
     ],
     "solo_redes": true
@@ -4345,15 +4345,15 @@
   {
     "id": "2026-11-12-pick-seguro-2",
     "fecha": "2026-11-12T18:00",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Albania – Finlandia · 20:45\n\n🍀 Albania gana alguna de las dos partes @1,57\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇪🇸 Tarancón – Levante · 19:00\n\n🍀 Levante marca 3 o más @1,50\n🧠 Stake 2/10\n\n👨‍💻 4 categorías de diferencia: el Levante juega en Primera y el Tarancón en Tercera Federación\n👨‍💻 Los partidos del Levante llevan 3,4 goles de media (últimos 8).\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528963|To Win Either Half|Home"
+      "1644379|Total - Away|Over 2.5"
     ],
     "cuotas": [
-      1.57
+      1.5
     ]
   },
   {
@@ -4470,39 +4470,39 @@
   {
     "id": "2026-11-13-pick-seguro",
     "fecha": "2026-11-13T10:30",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n\n⚽ Andorra – Gibraltar · 20:45\n\n🍀 Andorra gana alguna de las dos partes @1,57\n🧠 Stake 3/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇮🇹 Ospitaletto – Dolomiti Bellunesi · 20:30\n\n🍀 Gana el Ospitaletto @1,50\n🧠 Stake 3/10\n\n👨‍💻 El Dolomiti Bellunesi no ha ganado ninguno de sus últimos 5.\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1545615|To Win Either Half|Home"
+      "1608368|Match Winner|Home"
     ],
     "cuotas": [
-      1.57
+      1.5
     ]
   },
   {
     "id": "2026-11-13-combi-tres",
     "fecha": "2026-11-13T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n\n📈 Cuota @3,04\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del viernes familia 🔥\n\n🇨🇭 Suiza gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n\n📈 Cuota @3,15\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1608368|Match Winner|Home",
       "1545654|To Win Either Half|Away",
+      "1528966|Match Winner|Home",
       "1545614|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
-      1.45,
       1.4,
+      1.5,
       1.5
     ]
   },
   {
     "id": "2026-11-13-combi-multi",
     "fecha": "2026-11-13T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,04! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇦🇩 Andorra gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇮🇸 Islandia gana alguna de las dos partes\n🇸🇰 Eslovaquia marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,83! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇦🇩 Andorra gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇮🇸 Islandia gana alguna de las dos partes\n🇸🇰 Eslovaquia marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4518,7 +4518,7 @@
     ],
     "cuotas": [
       1.4,
-      1.45,
+      1.5,
       1.4,
       1.57,
       1.5,
@@ -4531,7 +4531,7 @@
   {
     "id": "2026-11-13-combi-loca",
     "fecha": "2026-11-13T16:00",
-    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇮🇹 Ospitaletto marca 2 o más\n🇳🇱 Países Bajos marca 2 o más\n🇱🇺 Luxemburgo gana alguna de las dos partes\n🇨🇭 Gana Suiza\n\n📈 Cuota @7,02\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇮🇹 Ospitaletto marca 2 o más\n🇳🇱 Países Bajos marca 2 o más\n🇱🇺 Luxemburgo gana alguna de las dos partes\n🇨🇭 Gana Suiza\n\n📈 Cuota @7,24\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4542,7 +4542,7 @@
       "1545654|Match Winner|Away"
     ],
     "cuotas": [
-      1.62,
+      1.67,
       1.5,
       1.73,
       1.67
@@ -4552,15 +4552,15 @@
   {
     "id": "2026-11-13-pick-seguro-2",
     "fecha": "2026-11-13T18:00",
-    "texto": "Vamos con otro pick 🍀\n🧠 Esta va con cabeza: analizada\n\n⚽ Países Bajos – Grecia · 20:45\n\n🍀 Gana Países Bajos @1,50\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n🧠 Esta va con cabeza: analizada\n\n⚽ Andorra – Gibraltar · 20:45\n\n🍀 Andorra gana alguna de las dos partes @1,57\n🧠 Stake 3/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528966|Match Winner|Home"
+      "1545615|To Win Either Half|Home"
     ],
     "cuotas": [
-      1.5
+      1.57
     ]
   },
   {
@@ -4582,10 +4582,10 @@
     ],
     "cuotas": [
       1.8,
-      1.22,
-      1.57,
-      1.83,
-      1.53,
+      1.2,
+      1.55,
+      1.8,
+      1.48,
       1.5
     ],
     "ganadores_img": {
@@ -4667,7 +4667,7 @@
       1.95,
       1.65,
       1.83,
-      1.67
+      1.85
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -4742,80 +4742,78 @@
   {
     "id": "2026-11-14-combi-tres",
     "fecha": "2026-11-14T13:30",
-    "texto": "Vamos con la combi del sábado familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🇮🇹 Albinoleffe marca\n🇮🇱 Israel marca\n🇸🇪 Gana Suecia\n\n📈 Cuota @3,65",
+    "texto": "Vamos con la combi del sábado familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🇮🇹 Albinoleffe marca\n🇦🇹 Gana el Austria\n\n📈 Cuota @2,51",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608361|Total - Home|Over 0.5",
-      "1528971|Total - Away|Over 0.5",
-      "1528978|Match Winner|Home"
+      "1528976|Match Winner|Home"
     ],
     "cuotas": [
       1.62,
-      1.5,
-      1.5
+      1.55
     ]
   },
   {
     "id": "2026-11-14-combi-multi",
     "fecha": "2026-11-14T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x21,54! 🍀\n🍿 Para darle emoción al día, con calma en el stake\n\n🇮🇹 Lumezzane marca\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇪🇸 Mallorca gana alguna de las dos partes\n🇷🇴 Rumanía marca\n🇸🇪 Suecia marca 2 o más\n🇵🇹 Portugal marca 2 o más\n⚽ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇦🇹 Gana el Austria",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x22,93! 🍀\n🍿 Para darle emoción al día, con calma en el stake\n\n🇮🇹 Lumezzane marca\n🇬🇪 Más de 1,5 goles en Georgia–Hungría\n🇪🇸 Mallorca marca 2 o más\n🇷🇴 Rumanía marca\n🇵🇹 Gana el Portugal\n🇸🇪 Gana Suecia\n⚽ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇦🇹 Gana el Austria",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608366|Total - Home|Over 0.5",
       "1528973|Goals Over/Under|Over 1.5",
-      "1570020|To Win Either Half|Home",
+      "1570020|Total - Home|Over 1.5",
       "1528977|Total - Home|Over 0.5",
-      "1528978|Total - Home|Over 1.5",
-      "1528974|Total - Home|Over 1.5",
+      "1528974|Match Winner|Home",
+      "1528978|Match Winner|Home",
       "1528975|Goals Over/Under|Over 1.5",
       "1528976|Match Winner|Home"
     ],
     "cuotas": [
       1.44,
       1.44,
+      1.53,
       1.4,
-      1.4,
+      1.48,
       1.5,
       1.5,
-      1.5,
-      1.57
+      1.55
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-14-combi-loca",
     "fecha": "2026-11-14T16:00",
-    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇪🇸 Mallorca marca 2 o más\n⚽ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇺🇦 Ucrania o empate\n🇦🇹 Gana el Austria\n\n📈 Cuota @6,17\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del sábado 🤪🔥\n🎉 Esta es por diversión: stake mínimo 🤏\n\n🇵🇹 Gana el Portugal\n⚽ Más de 1,5 goles en Irlanda del Norte–Ucrania\n🇺🇦 Ucrania o empate\n🇪🇸 Oviedo hace más córners\n\n📈 Cuota @6,68\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570020|Total - Home|Over 1.5",
+      "1528974|Match Winner|Home",
       "1528975|Goals Over/Under|Over 1.5",
       "1528975|Double Chance|Draw/Away",
-      "1528976|Match Winner|Home"
+      "1570021|Corners 1x2|Home"
     ],
     "cuotas": [
-      1.67,
+      1.48,
       1.5,
       1.53,
-      1.57
+      1.91
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-14-pick-seguro-2",
     "fecha": "2026-11-14T18:00",
-    "texto": "Os dejo el pick, familia 👇\n\n⚽ Suecia – Bosnia · 20:45\n\n🍀 Suecia marca 2 o más @1,50\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo el pick, familia 👇\n\n⚽ Suecia – Bosnia · 20:45\n\n🍀 Gana Suecia @1,50\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528978|Total - Home|Over 1.5"
+      "1528978|Match Winner|Home"
     ],
     "cuotas": [
       1.5

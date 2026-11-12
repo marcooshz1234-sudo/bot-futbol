@@ -1,18 +1,18 @@
 # Slovenia – Switzerland
 **Nations League** · League B - 5 · 13/11/2026 20:45 (hora España) · Ljudski vrt
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:18_
+_Actualizadas: 12/11 08:26_
 
 - **1X2:** 1 **5.50**  ·  X **3.50**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.15**  ·  12 **1.28**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **8.00**
+    - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.15** · menos **1.67**
+    - 2,5: más **2.20** · menos **1.65**
     - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -21,11 +21,11 @@ _Actualizadas: 12/11 02:18_
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.73** · menos **2.00**
-    - 1,5: más **4.50** · menos **1.18**
+    - 1,5: más **5.00** · menos **1.17**
 - **Goles del visitante:**
     - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
     - 8,5: más **1.83** · menos **1.83**
@@ -35,7 +35,7 @@ _Actualizadas: 12/11 02:18_
 - **1X2 descanso:** 1 **6.00**  ·  X **2.10**  ·  2 **2.30**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
@@ -53,7 +53,7 @@ _Actualizadas: 12/11 02:18_
     - 2,5: más **2.25** · menos **1.57**
 - **Away Team Total Cards:**
     - 1,5: más **1.83** · menos **1.83**
-- **Anytime Goal Scorer:** Alvyn Sanches **3.75**  ·  Ardon Jashari **8.50**  ·  Cedric Itten **2.88**  ·  Breel Embolo **2.50**  ·  Denis Zakaria **8.50**  ·  Vanja Drkusic **26.00**  ·  Ricardo Rodriguez **11.00**  ·  Nico Elvedi **9.50**  ·  Zeki Amdouni **2.50**  ·  Andraz Sporar **4.33**  ·  Zan Celar **4.75**  ·  Zan Vipotnik **4.33**  ·  Timi Elsnik **11.00**  ·  Adam Cerin **9.50**  ·  David Zec **17.00**  ·  Erik Janza **17.00**  ·  Danijel Sturm **6.00**  ·  Srdjan Kuzmic **21.00**  ·  Zan Zaletel **21.00**  ·  Samuel Ballet **3.50**  ·  Sascha Britschgi **11.00**  ·  Isaac Schmidt **8.50**  ·  Eray Comert **12.00**  ·  Ruben Vargas **3.25**  ·  Tjas Begic **7.00**  ·  Jost Urbancic **17.00**  ·  David Brekalo **17.00**  ·  Zachary Athekame **9.50**  ·  Adrian Bajrami **11.00**  ·  Aljosa Matko **5.50**  ·  Mark Zabukovnik **13.00**  ·  Zan Karnicnik **17.00**  ·  Winsley Boteli **2.88**  ·  Manuel Akanji **11.00**  ·  Fabian Rieder **5.50**  ·  Adrian Zeljkovic **13.00**  ·  Djibril Sow **7.00**  ·  Dan Ndoye **3.50**  ·  Michel Aebischer **5.00**  ·  Remo Freuler **7.00**  ·  Granit Xhaka **5.50**  ·  Johan Manzambi **3.50**  ·  Jaka Bijol **26.00**  ·  Sandi Lovric **8.50**  ·  Roggerio Nyakossi **9.50**  ·  Benjamin Verbic **7.00**  ·  Relja Obric **26.00**
+- **Anytime Goal Scorer:** Alvyn Sanches **3.75**  ·  Ardon Jashari **8.50**  ·  Cedric Itten **3.00**  ·  Breel Embolo **2.60**  ·  Denis Zakaria **8.50**  ·  Vanja Drkusic **26.00**  ·  Ricardo Rodriguez **11.00**  ·  Nico Elvedi **9.50**  ·  Zeki Amdouni **2.60**  ·  Andraz Sporar **4.33**  ·  Zan Celar **4.75**  ·  Zan Vipotnik **4.33**  ·  Timi Elsnik **11.00**  ·  Adam Cerin **9.50**  ·  David Zec **17.00**  ·  Erik Janza **17.00**  ·  Danijel Sturm **6.50**  ·  Srdjan Kuzmic **21.00**  ·  Zan Zaletel **21.00**  ·  Samuel Ballet **3.50**  ·  Sascha Britschgi **11.00**  ·  Isaac Schmidt **8.50**  ·  Eray Comert **12.00**  ·  Ruben Vargas **3.40**  ·  Tjas Begic **8.00**  ·  Jost Urbancic **17.00**  ·  David Brekalo **17.00**  ·  Zachary Athekame **9.50**  ·  Adrian Bajrami **11.00**  ·  Aljosa Matko **5.50**  ·  Mark Zabukovnik **13.00**  ·  Zan Karnicnik **17.00**  ·  Winsley Boteli **3.00**  ·  Manuel Akanji **11.00**  ·  Fabian Rieder **5.50**  ·  Adrian Zeljkovic **13.00**  ·  Djibril Sow **7.00**  ·  Dan Ndoye **3.50**  ·  Michel Aebischer **5.00**  ·  Remo Freuler **7.00**  ·  Granit Xhaka **5.50**  ·  Johan Manzambi **3.50**  ·  Jaka Bijol **26.00**  ·  Sandi Lovric **8.50**  ·  Roggerio Nyakossi **9.50**  ·  Benjamin Verbic **7.00**  ·  Relja Obric **26.00**
 
 ## Estadísticas de equipo
 | | Slovenia (total) | Slovenia en casa | Switzerland (total) | Switzerland fuera |

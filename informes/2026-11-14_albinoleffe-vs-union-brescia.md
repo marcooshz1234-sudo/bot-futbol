@@ -1,10 +1,10 @@
 # Albinoleffe – Union Brescia
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · AlbinoLeffe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:19_
+_Actualizadas: 12/11 08:26_
 
 - **1X2:** 1 **4.50**  ·  X **3.50**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.12**

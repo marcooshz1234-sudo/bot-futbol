@@ -1,12 +1,12 @@
 # Sweden – Bosnia & Herzegovina
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Strawberry Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:19_
+_Actualizadas: 12/11 08:26_
 
-- **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **6.00**
+- **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.50**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
@@ -30,7 +30,7 @@ _Actualizadas: 12/11 02:19_
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.85** · menos **1.95**
+    - 8,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.40**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**

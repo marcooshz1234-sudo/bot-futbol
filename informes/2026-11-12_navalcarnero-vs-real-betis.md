@@ -1,14 +1,14 @@
 # Navalcarnero – Real Betis
 **Copa del Rey** · Round of 128 · 12/11/2026 19:00 (hora España) · Estadio Municipal de Santo Domingo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 02:18_
+_Actualizadas: 12/11 08:25_
 
-- **1X2:** 1 **13.00**  ·  X **8.50**  ·  2 **1.14**
-- **Doble oportunidad:** 1X **5.00**  ·  12 **1.08**  ·  X2 **1.04**
-- **Ambos marcan:** Sí **2.05**  ·  No **1.70**
+- **1X2:** 1 **12.00**  ·  X **8.00**  ·  2 **1.17**
+- **Doble oportunidad:** 1X **5.50**  ·  12 **1.08**  ·  X2 **1.04**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
     - 1,5: más **1.10** · menos **7.00**
     - 2,5: más **1.36** · menos **3.10**
@@ -38,11 +38,11 @@ _Actualizadas: 12/11 02:18_
     - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **6.00**  ·  2 **1.08**
+- **To Win Either Half:** 1 **5.50**  ·  2 **1.08**
 - **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.57**
-- **Win Both Halves:** 1 **67.00**  ·  2 **2.00**
-- **Results/Both Teams Score:** Home/Yes **23.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **2.62**  ·  Home/No **26.00**  ·  Draw/No **23.00**  ·  Away/No **1.83**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **3.50**
+- **Win Both Halves:** 1 **67.00**  ·  2 **2.10**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **9.00**  ·  Away/Yes **2.60**  ·  Home/No **23.00**  ·  Draw/No **23.00**  ·  Away/No **1.83**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **3.50**
 
 ## Estadísticas de equipo
 | | Navalcarnero (total) | Navalcarnero en casa | Real Betis (total) | Real Betis fuera |

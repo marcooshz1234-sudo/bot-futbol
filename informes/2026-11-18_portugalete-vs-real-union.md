@@ -1,7 +1,7 @@
 # Portugalete – Real Unión
 **Copa del Rey** · Round of 128 · 18/11/2026 19:00 (hora España) · Estadio La Florida
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
