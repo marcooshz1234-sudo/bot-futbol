@@ -86,6 +86,20 @@ def cuota_de_verde(p, texto):
     return float(m.group(1).replace(",", ".")) if m else None
 
 
+def foto_de_marca(p, texto):
+    """12/11 (Marcos: «activa todo menos el balance de la noche»): la escalera, el pick del día y los rojos, que
+    salían sin foto en Telegram, llevan la imagen de la marca (publicaciones/media/marca)."""
+    pid = p.get("id", "")
+    if len(texto) > LIMITE_PIE_FOTO:
+        return None
+    nombre = ("hoy-no.jpg" if "rojo" in pid else "escalera.jpg" if pid.endswith("-escalera")
+              else "pick-del-dia.jpg" if pid.endswith("-pick-seguro") else None)
+    if not nombre or (p.get("verde_de") and "rojo" not in pid):
+        return None
+    f = RAIZ / "publicaciones" / "media" / "marca" / nombre
+    return str(f.relative_to(RAIZ)) if f.exists() else None
+
+
 def animacion_verde(token, canal, p, texto):
     """Tras un verde de buena cuota (3,00 o más), el «¡VERDE! PARA DENTRO» animado (imagen de la marca)."""
     c = cuota_de_verde(p, texto)
@@ -214,7 +228,7 @@ def main(objetivo=None):
             print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
             continue
         texto = preparar_texto(control.get("textos", {}).get(p["id"], p["texto"]))
-        foto = p.get("foto")
+        foto = p.get("foto") or foto_de_marca(p, texto)
         # 27/10 (Marcos): las combis de un partido también van con su foto (escudos y hora) en Telegram
         tarjeta = RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg"
         if not foto and p.get("tarjeta") and tarjeta.exists() and len(texto) <= LIMITE_PIE_FOTO:
