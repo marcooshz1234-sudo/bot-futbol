@@ -3,16 +3,88 @@
  "vistos": {
   "prensa-1528960-82f2951f": "2026-11-12T05:55",
   "estrella-2026-11-12-combi-partido-1528960-th-4eaf9e20": "2026-11-12T05:55",
-  "prensa-1644379-165394d1": "2026-11-12T05:55"
+  "prensa-1644379-165394d1": "2026-11-12T05:55",
+  "estrella-2026-11-12-combi-partido-1528958-th-KylianMbappé": "2026-11-12T06:58",
+  "estrella-2026-11-12-escalera-KylianMbappé": "2026-11-12T06:58",
+  "prensa-1528960-39ede3d9": "2026-11-12T06:58",
+  "prensa-1528960-10a0d570": "2026-11-12T06:58",
+  "prensa-1528960-277f8ba9": "2026-11-12T06:58",
+  "prensa-1528960-d471d802": "2026-11-12T06:58",
+  "prensa-1528960-dcf29625": "2026-11-12T06:58",
+  "prensa-1528965-fff46596": "2026-11-12T06:58"
  },
  "abiertos": [
   {
+   "clave": "estrella-2026-11-12-combi-partido-1528958-th-KylianMbappé",
+   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «Os dejo la combi del Turquía – Bélgica ⚽🔥» (12:00) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "clave": "estrella-2026-11-12-escalera-KylianMbappé",
+   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «🪜 Reto escalera · Día 3/7» (11:00) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "clave": "prensa-1528960-39ede3d9",
+   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "clave": "prensa-1528960-10a0d570",
+   "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "clave": "prensa-1528960-277f8ba9",
+   "t": "📰 Italia–Francia: «Aurélien Tchouaméni es baja por lesión para los duelos de Francia por la Liga de Naciones» (El Nacional) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "clave": "prensa-1528960-d471d802",
+   "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "clave": "prensa-1528960-dcf29625",
+   "t": "📰 Italia–Francia: «Tchouaméni, lesionado, causa baja con Francia» (www.abc.com.py) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
    "clave": "prensa-1644379-165394d1",
    "t": "📰 Tarancón–Levante: «El Levante anuncia la convocatoria para visitar al Tarancón con siete bajas y varios canteranos» (FútbolFantasy) · tenemos 2 post(s) de este partido: combi-tres, combi-multi"
+  },
+  {
+   "clave": "prensa-1528965-fff46596",
+   "t": "📰 Serbia–Alemania: «Said El Mala se pierde el entrenamiento de Alemania antes del duelo de la Nations League contra Serbia» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
   }
  ],
- "revisado": "2026-11-12T06:47",
+ "revisado": "2026-11-12T06:58",
  "historial": [
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «Os dejo la combi del Turquía – Bélgica ⚽🔥» (12:00) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «🪜 Reto escalera · Día 3/7» (11:00) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "📰 Italia–Francia: «Aurélien Tchouaméni es baja por lesión para los duelos de Francia por la Liga de Naciones» (El Nacional) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "📰 Italia–Francia: «Tchouaméni, lesionado, causa baja con Francia» (www.abc.com.py) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+  },
+  {
+   "hora": "2026-11-12T06:58",
+   "t": "📰 Serbia–Alemania: «Said El Mala se pierde el entrenamiento de Alemania antes del duelo de la Nations League contra Serbia» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
   {
    "hora": "2026-11-12T05:55",
    "t": "📰 Italia–Francia: «Mbappé out against Italy—Zidane confirmed» (Yahoo Sports) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
