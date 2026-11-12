@@ -1658,14 +1658,14 @@
   },
   "2026-11-12": {
     "dia": "2026-11-12",
-    "total": 11,
+    "total": 14,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 11,
+      "pendiente": 14,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 14
     },
     "combis": [
       {
@@ -1733,13 +1733,31 @@
         "titulo": "Os dejo la combi del Turquía – Bélgica ⚽🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-12-pick-th-1",
+        "titulo": "Pick que nos gusta mucho para hoy 👀",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-12-marcadores-nations-th",
+        "titulo": "🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-12-combi-multi",
+        "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 21
+      "total": 25
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ Vamos con otro pick, familia 👇 · pendiente\n⏳ Os dejo la combi del Turquía – Bélgica ⚽🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ Vamos con otro pick, familia 👇 · pendiente\n⏳ Os dejo la combi del Turquía – Bélgica ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 14 sin resolver"
   }
 }

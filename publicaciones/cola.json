@@ -4699,7 +4699,14 @@
     "cuotas": [
       1.57
     ],
-    "nota": "12/11 Marcos: más contenido para Threads"
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "ya-publicado"
+    }
   },
   {
     "id": "2026-11-12-pick-th-2",
@@ -4913,6 +4920,59 @@
     ],
     "sel": [],
     "cuotas": [],
-    "nota": "12/11 Marcos: «preparame esta» (marcadores exactos Nations) → «hazlo». Sin cuota en nuestros datos (no se inventa). El verde/rojo lo hace Claude a mano."
+    "nota": "12/11 Marcos: «preparame esta» (marcadores exactos Nations) → «hazlo». Sin cuota en nuestros datos (no se inventa). El verde/rojo lo hace Claude a mano.",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18159491116522788"
+    }
+  },
+  {
+    "id": "2026-11-12-pick-tip-5",
+    "fecha": "2026-11-12T15:14",
+    "texto": "Vamos con otro pick, familia 👇\n\n🍀 Inglaterra -1,5 (hándicap): gana por 2 o más @1,68\n\n⚽ Inglaterra – Croacia · hoy 20:45\n\n👨‍💻 Croacia llega con 3 derrotas seguidas y dudas en defensa (Šutalo y Jakić); Inglaterra, 3 victorias seguidas peleando el liderato\n\nStake 2/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528962|Asian Handicap|Home -1.5"
+    ],
+    "cuotas": [
+      1.68
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T15:14",
+    "mensaje_id": 422,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18147282886608499"
+    },
+    "errores_redes": {
+      "instagram": "contenedor ERROR: ERROR"
+    }
+  },
+  {
+    "id": "2026-11-12-combi-tip-3",
+    "fecha": "2026-11-12T15:14",
+    "texto": "Combinada para hoy, con cabeza ⚽\n\n🍀 Gana el Barcelona (fem.) @1,25\n🍀 Antigua y Barbuda +2,5 (hándicap) · 03:00 @1,31\n\n📈 Cuota @1,64\n\nStake 2/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T15:14",
+    "mensaje_id": 423,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18119781011012642"
+    },
+    "errores_redes": {
+      "instagram": "contenedor ERROR: ERROR"
+    }
   }
 ]

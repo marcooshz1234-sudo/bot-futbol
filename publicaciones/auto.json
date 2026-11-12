@@ -4328,7 +4328,7 @@
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇨🇾 Chipre marca\n🇪🇸 Ambos marcan en Calvo Sotelo–Albacete\n🇦🇱 Albania gana alguna de las dos partes\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,86\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇨🇾 Chipre marca\n🇪🇸 Ambos marcan en Calvo Sotelo–Albacete\n🇦🇱 Albania gana alguna de las dos partes\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @5,88\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4340,11 +4340,12 @@
     ],
     "cuotas": [
       1.36,
-      1.8,
-      1.73,
-      1.62
+      1.75,
+      1.67,
+      1.48
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-12T15:11"
   },
   {
     "id": "2026-11-12-pick-seguro-2",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 14:22",
+ "actualizado": "2026-11-12 15:13",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 384,
-   "hoy": 0,
+   "seguidores": 385,
+   "hoy": 1,
    "serie": [
     294,
     307,
@@ -50,17 +50,17 @@
     360,
     378,
     384,
-    384
+    385
    ]
   }
  },
- "total": 3102,
- "total_hoy": 36,
+ "total": 3103,
+ "total_hoy": 37,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "15:14",
   "dia": "2026-11-12",
-  "titulo": "Combi de 8 partidos x29,73"
+  "titulo": "Vamos con otro pick, familia"
  },
  "ayer": null,
  "escalera": {
@@ -191,10 +191,15 @@
    "instagram": 39,
    "threads": 2678,
    "facebook": 1,
-   "telegram": 384
+   "telegram": 385
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 28,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 20,
    "likes_media": 0.0,
@@ -207,11 +212,6 @@
   },
   "Otros": {
    "posts": 3,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi loca (reel)": {
-   "posts": 28,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
