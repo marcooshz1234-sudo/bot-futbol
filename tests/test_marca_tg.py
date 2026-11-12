@@ -31,6 +31,7 @@ class MarcaTG(unittest.TestCase):
         t = M.buenos_dias(datetime(2026, 11, 12, 9, 35, tzinfo=MADRID), est)
         self.assertIn("⏰ 10:30 · Pick del día", t)
         self.assertIn("⏰ 11:00 · Reto escalera", t)
+        self.assertIn("lo que vaya saliendo, lo iremos subiendo también", t)   # Marcos 12/11
         self.assertIsNone(M.buenos_dias(datetime(2026, 11, 12, 9, 50, tzinfo=MADRID), est))
         self.assertTrue(self.enviados[0][0].startswith("buenos-dias-"))
 

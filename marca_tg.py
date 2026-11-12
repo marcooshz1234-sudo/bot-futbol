@@ -84,7 +84,8 @@ def buenos_dias(ahora, est):
     if not ag:
         return None
     foto = MARCA / f"buenos-dias-{ahora.toordinal() % 3 + 1}.jpg"
-    texto = elegir(SALUDOS, dia) + "\n\n📋 Hoy en el canal:\n" + "\n".join(ag[:6]) + "\n\n🔔 Activad las notificaciones 👀"
+    texto = (elegir(SALUDOS, dia) + "\n\n📋 Hoy en el canal:\n" + "\n".join(ag[:6])
+             + "\n\n➕ Y lo que vaya saliendo, lo iremos subiendo también 👀\n\n🔔 Activad las notificaciones")
     enviar(foto, texto)
     est["buenos_dias"] = dia
     return texto
