@@ -43,6 +43,10 @@
 - 🤖 Combis de varios partidos: **en orden de hora** (02/11) y **de un solo día** (si falla uno se cae todo el finde).
 - 🤖 Nada a favor de un equipo al que le falta su estrella (prensa), salvo que siga siendo favorito claro (≤ 1,35) (12/11).
 - 🤖 Partido aplazado, bloqueado o ya jugado: no se publica.
+- ⚙️ **Días buenos: solo partidos buenos** (12/11). Si el día tiene 4 o más partidos buenos (Champions, Europa League,
+  Conference, Nations League, Mundial/Eurocopa y clasificaciones, las 5 grandes ligas, Champions femenina, o un grande
+  aunque sea de Copa), todo lo nuestro sale solo de esos: nada de Segunda, Copa de equipos pequeños ni ligas femeninas.
+  Los días flojos, como siempre. Las copias de canales de Telegram no cambian. 👤 Los posts a mano, igual.
 - 👤 Construir sobre el escenario que se espera del partido (que pasen cosas), con datos que lo confirmen.
 - 👤 Contexto siempre: clasificación, forma, jugadores clave y sus bajas, calendario europeo, nivel de la liga.
 - 👤 Antes de las alineaciones, solo jugadores fijísimos; al salir los onces, se rehacen las patas de jugadores (05/11).

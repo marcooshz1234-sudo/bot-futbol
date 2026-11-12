@@ -182,9 +182,55 @@ def pool_bet365(ex):
     return pool
 
 
+# 12/11 (Marcos: «los días que haya partidos buenos, como hoy la Nations League o como mucho la Champions femenina,
+# solo céntrate en eso; los de Segunda y demás, déjalos para los días con menos partidos buenos»)
+BUENAS = {2, 3, 848,                    # Champions, Europa League, Conference
+          1, 4, 5, 960, 29, 30, 31, 32, 33, 34,   # Mundial, Eurocopa, Nations League y clasificaciones
+          140, 39, 135, 78, 61,         # las 5 grandes ligas
+          525}                          # Champions femenina («como mucho»)
+MIN_BUENOS = 4                          # con 4 partidos buenos o más, el día es «bueno»
+_DIAS_BUENOS = {}
+
+
+def partido_bueno(pa):
+    """Competición buena, o juega un grande (Madrid, Barça, PSG…) aunque sea de Copa (no el femenino)."""
+    from plantillas import GRANDES
+    if (pa.get("league") or {}).get("id") in BUENAS:
+        return True
+    equipos = [(pa.get("teams") or {}).get(k, {}).get("name", "") for k in ("home", "away")]
+    return any(not n.endswith(" W") and any(g == n.lower() or n.lower().startswith(g + " ") for g in GRANDES)
+               for n in equipos)
+
+
+def dia_de(pa):
+    return datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d")
+
+
+def dia_bueno(dia):
+    if dia not in _DIAS_BUENOS:
+        n = 0
+        for f in EXTRA.glob("*.json"):
+            pa = (leer(f) or {}).get("partido")
+            if pa and pa.get("fixture", {}).get("date") and dia_de(pa) == dia and partido_bueno(pa):
+                n += 1
+        _DIAS_BUENOS[dia] = n >= MIN_BUENOS
+    return _DIAS_BUENOS[dia]
+
+
+def fuera_por_dia_bueno(pa):
+    """True si es un partido menor en un día con partidos buenos (no se usa para nada nuestro)."""
+    try:
+        return bool(pa) and not partido_bueno(pa) and dia_bueno(dia_de(pa))
+    except Exception as e:
+        print("dia_bueno:", e)
+        return False
+
+
 def pool_partido(ex, hist, ap):
     """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos.
     11/11 (Marcos): con Pinnacle de referencia (sharp.py): fuera las patas caras; en las demás, su probabilidad."""
+    if fuera_por_dia_bueno(ex.get("partido")):   # 12/11: día bueno → solo partidos buenos
+        return []
     pool = _pool_partido(ex, hist, ap)
     try:
         import sharp

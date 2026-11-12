@@ -41,6 +41,9 @@ def candidatos(dia, minimo=None, excluir=()):
         ini = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
         if ini.strftime("%Y-%m-%d") != dia or pa["league"]["id"] not in P.COMPETICION and pa["league"]["id"] not in TITULOS:
             continue
+        import combis_dia
+        if combis_dia.fuera_por_dia_bueno(pa):   # 12/11: día bueno → nada de Segunda ni Copa de equipos pequeños
+            continue
         mw = {o: float(c) for o, c in (ex.get("cuotas") or {}).get("Match Winner", [])}
         if not {"Home", "Away", "Draw"} <= set(mw):
             continue
