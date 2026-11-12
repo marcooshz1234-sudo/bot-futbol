@@ -5220,7 +5220,14 @@
     "verde_de": "2026-11-12-combi-partido-1528958-th",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18111858353625617"
+    }
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-escalera",
@@ -5235,7 +5242,14 @@
     "agrupado_en": "2026-11-12-verde-grupo-2053",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18149919457559983"
+    }
   },
   {
     "id": "2026-11-12-verde-grupo-2053",
@@ -5253,6 +5267,15 @@
     "solo_en": [
       "telegram",
       "instagram"
-    ]
+    ],
+    "enviado": "2026-11-12T20:54",
+    "mensaje_id": 429,
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18641169703035835"
+    }
   }
 ]
