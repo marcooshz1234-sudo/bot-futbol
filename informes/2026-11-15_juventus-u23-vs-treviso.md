@@ -1,7 +1,7 @@
 # Juventus U23 – Treviso
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:30._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 05:37._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 08:21_
