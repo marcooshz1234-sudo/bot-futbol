@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 10:26",
+ "actualizado": "2026-11-12 10:36",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2672,
-   "hoy": 28,
+   "seguidores": 2673,
+   "hoy": 29,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2672
+    2673
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3097,
- "total_hoy": 31,
+ "total": 3098,
+ "total_hoy": 32,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-12",
-  "titulo": "Pick de hoy, con datos detrás"
+  "titulo": "Reto escalera · día 3/7"
  },
  "ayer": null,
  "escalera": {
@@ -189,14 +189,14 @@
   },
   "2026-11-12": {
    "instagram": 39,
-   "threads": 2672,
+   "threads": 2673,
    "facebook": 1,
    "telegram": 385
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 12,
+   "posts": 13,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -211,7 +211,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 34,
+   "posts": 33,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
