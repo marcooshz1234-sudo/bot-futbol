@@ -30,16 +30,43 @@
   "foto-2026-11-12-verde-auto-2026-11-12-pick-tip-3": "2026-11-12T22:34",
   "foto-2026-11-12-verde-auto-2026-11-12-pick-seguro-2": "2026-11-12T23:06",
   "bucle-imagenes_cola-2026111223": "2026-11-12T23:42",
-  "prensa-1545615-1eabbd57": "2026-11-13T00:03"
+  "prensa-1545615-1eabbd57": "2026-11-13T00:03",
+  "prensa-1528972-EHaaland": "2026-11-13T00:50",
+  "prensa-1570024-a4d16dba": "2026-11-13T00:50",
+  "prensa-1570020-a544cfbe": "2026-11-13T00:50"
  },
  "abiertos": [
   {
    "clave": "prensa-1644376-d6786598",
    "t": "📰 Salamanca UDS–Celta Vigo: «Duro golpe para el Salamanca UDS, que pierde a su máximo goleador en Liga: Asier Domínguez, unos dos meses de » (SALAMANCArtv AL DÍA) · tenemos 1 post(s) de este partido: escalera"
+  },
+  {
+   "clave": "prensa-1528972-EHaaland",
+   "t": "📰 Noruega–Gales: «Surgen dudas sobre la condición física de Haaland y Odegaard antes de los partidos de Noruega» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "clave": "prensa-1570024-a4d16dba",
+   "t": "📰 Valladolid–Castellón: «Rego regresa a Castellón por problemas físicos y es duda para Valladolid» (Cadena SER) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
+   "clave": "prensa-1570020-a544cfbe",
+   "t": "📰 Mallorca–Cordoba: «Muchas bajas, pero debería ser suficiente para ganar al Córdoba» (Fútbol desde Mallorca) · tenemos 1 post(s) de este partido: ganadores-resto"
   }
  ],
- "revisado": "2026-11-13T00:39",
+ "revisado": "2026-11-13T00:50",
  "historial": [
+  {
+   "hora": "2026-11-13T00:50",
+   "t": "📰 Noruega–Gales: «Surgen dudas sobre la condición física de Haaland y Odegaard antes de los partidos de Noruega» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "hora": "2026-11-13T00:50",
+   "t": "📰 Valladolid–Castellón: «Rego regresa a Castellón por problemas físicos y es duda para Valladolid» (Cadena SER) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
+  {
+   "hora": "2026-11-13T00:50",
+   "t": "📰 Mallorca–Cordoba: «Muchas bajas, pero debería ser suficiente para ganar al Córdoba» (Fútbol desde Mallorca) · tenemos 1 post(s) de este partido: ganadores-resto"
+  },
   {
    "hora": "2026-11-13T00:03",
    "t": "📰 Andorra–Gibraltar: «¡Jesús Owono no se retira! El arquero del Andorra sigue tocado por la tragedia» (Soy Futbol) · tenemos 2 post(s) de este partido: pick-seguro, combi-multi"
