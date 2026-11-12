@@ -5435,7 +5435,14 @@
     "verde_de": "2026-11-12-combi-partido-1528961-th",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18117096760863139"
+    }
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-pick-seguro-2",
@@ -5446,6 +5453,13 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-12-pick-seguro-2"
+    "verde_de": "2026-11-12-pick-seguro-2",
+    "enviado": "2026-11-12T23:13",
+    "mensaje_id": 432,
+    "redes": {
+      "threads": "18094251896674317",
+      "instagram": "17960472210018177",
+      "instagram_story": "18078756392746125"
+    }
   }
 ]
