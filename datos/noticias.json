@@ -17,10 +17,26 @@
    "tipos": []
   },
   {
+   "titulo": "Ver Montenegro - Letonia Online en Directo | DAZN ES",
+   "fuente": "DAZN",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVhKRTllT21NOHRnd2tHMGJMbFVmNEN2WkRhUUo1eDRaU1V6akYzMHhwX1YzYWd4bWxDbXlVS2JYbVVONXp3SDhEUGcwUnpfazl1bnpYbXVLVmFRcVN6czJBa2RUSzhBclR1cjNSOGE2YzVEWFN1UzQwMHFWQkhXd2xxaVpMYjlMRC1CUg?oc=5",
+   "fecha": "2026-11-12T02:44",
+   "equipo": "San Marino",
+   "tipos": []
+  },
+  {
    "titulo": "¡Manos salvadoras! Víctor Brid evitó el gol de Quindío",
    "fuente": "Win Sports",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3JkVFRHOGFJVG1vR2VNak5nb1prakpubWZBU1FpcWY1VUxpSzdhYmxmck9Na2x5dGI5SG9WNDhnMjBPMUl2YXQtRE85a0lOTWlpUmdUTy1XWUpJMnVlZ0xFODJPcUJCSEFQLUJjNnVYLWxZT2pkbTE4Q1V1dFRDdmZqSkd5bE41aTg5M2RyS1pZTWRoMGVTN0Z2X1lndVk1ak90aE5xRXZtX0M1aC1zWA?oc=5",
    "fecha": "2026-11-12T02:41",
+   "equipo": "San Marino",
+   "tipos": []
+  },
+  {
+   "titulo": "Richard Ríos regresó a Brasil y Palmeiras confirmó el motivo",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXNzbllhaFhHYllRQkJzcGVfRldBZVZyQ3Z1aWprVzAtSGhXeks1ajk0eHFqaGV4VFdlUmYzRGJIQndudDVoMDEyOHZxZV90dFl6MVBzT1RtSDNLMEwxSHdDU3dnY2htenJhX29BV0lkV2xjbmUtYlg2UWhubFpZRVlfZ1Q1c3ZqcFRCYmJHTHNFOWNIY2xoUTFwN2ttUXRVYnVqTW5kRHZROVRXQzVha0NISXpwdUkzcUxZ?oc=5",
+   "fecha": "2026-11-12T02:24",
    "equipo": "San Marino",
    "tipos": []
   },
@@ -57,6 +73,14 @@
    "tipos": [
     "arbitro"
    ]
+  },
+  {
+   "titulo": "Santa Fe ya negocia para retener a una de sus figuras",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDdWaWVCZUZzLVBFZ2ZKUnh0TFRoRldzQW4yWEJrMlhwRmptT1BPSWtqTXRkQ0RoNnhEX29ubGNaYzRPdWM0eFFPUXBrcmZ3LWp1Rmc5ZFVEUTdTWkZPdWVlMklCdTBScFFqcXgtOVdfU0xuVlFKWWtTSHRLQTBMNXFjYUlULTBKRjNWY2MzQl84dW9TODAwOFRnc192WExwV1hfMTlJMm8xYXRIZlVqZzBn?oc=5",
+   "fecha": "2026-11-12T00:06",
+   "equipo": "San Marino",
+   "tipos": []
   },
   {
    "titulo": "Liga de las Naciones - UEFA: Resultados en vivo, partidos y tablas",
@@ -97,40 +121,14 @@
    "fecha": "2026-11-11T20:27",
    "equipo": "San Marino",
    "tipos": []
-  },
-  {
-   "titulo": "Pronósticos San Marino vs. Bielorrusia: los visitantes buscan otra victoria ante el colista",
-   "fuente": "Gainblers",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWh4aVpOMDRTRl9VUjg5ODRsazlZZkdTOVQ3VzM0aEhKTTl1VGJHQlJKNEVFMFZNLWllREZGQXJ0enBCci11WmgyQ3lPcGRwZEdzei1SSjd4c0NWYXFSaWlmSktON1ZiOG1jMGlZYWRWUnJuMmtRaWVXaVdyUE9waW1DazI3bC1EazdsSnRNbkNPN3J5ckxXUUIydDFLVGNRcVZhOU45aTlNblJ5UENROA?oc=5",
-   "fecha": "2026-11-11T19:02",
-   "equipo": "San Marino",
-   "tipos": [
-    "motivacion"
-   ]
-  },
-  {
-   "titulo": "Real Cartagena reaccionó y evitó la derrota ante Real Cundinamarca",
-   "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOVZ6RkM4YzhQYXFZVVJ4LVFGYUlWUHg1Z3FPMDdpdXJTdk9oNVBmcTdVNUtpRnFDY3VwcHV4ZHhMazJNQ09YS1FoT0RNRDdmdEFVeGYwZ1JkWjZodnYwNzdkb0pvS1UzQXkwSnFnaktKSjhDWnd6b3JVc3lEcUw4QXE3U3kwVXpXLXlzUG9EZnYtRG9jczF3T1FRQjdtZGhtUFBXT3RWWUhNTzZJZzNZZE1YQWhlWnFfOGJkVEhoMFhpc1pFY2tpaTJmSmpnLWpjalBwQWhQWXZyRHBLNE9iMEdSZw?oc=5",
-   "fecha": "2026-11-11T17:56",
-   "equipo": "San Marino",
-   "tipos": []
-  },
-  {
-   "titulo": "San Marino vs Bielorrusia - Pronóstico y Apuestas - Liga de Naciones de la UEFA - 12/11/2026",
-   "fuente": "PrensaFútbol",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnF0Y0VwOERnLWN3bEgycWFzVFFhaEhLMVBPaXhLeWg1anFSN0tRVkE5RVhmQmRwVTQ2X3lxWE1ZY2lYVS1uNWVHc0s2cVBRMm5HM3pEWE4zU0FENnJZUjkzekpfT210WTN3VU1oRnFqcHVmOUlXMWFEamFCZUNnYjNpT1lZVUlwOHpFZW5ucVJUNFphRG1reUR0T3NGQnk0SWEtaENuREc0XzZPZWlDVFY5Vk5adw?oc=5",
-   "fecha": "2026-11-11T10:24",
-   "equipo": "San Marino",
-   "tipos": []
   }
  ],
  "1545614": [
   {
    "titulo": "Pronósticos Luxemburgo vs. Estonia: ¿podrán los locales aprovechar su última oportunidad en la Nations League?",
    "fuente": "Gainblers",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPekpKcFEwMEdReEo0QjVqRTFZNlUzRURSRVlVcm5NWFA2cERuVlhNa3Y2SGh2YzJxUXhLeTB2QzB2emRsLUw2QWM3ZGJNbGtUa3l1UjN0dC0tUXR0OTlUb2k1TWpITDhKRkpCaUlSb0hFMS10akZyd1ZlVENDOVlWOWN6X3laRjV2U0NULW1HVnV1RHFhVHJ4WkktcFdzZFRNelRkUHd4UmJ6bVJxdWk2VTZn?oc=5",
-   "fecha": "2026-11-12T00:24",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaW16cmt1aURUV1l6SzBWRDQyRXJpWUJQVEl6SS01cnBuamVGNy1pUGJ3VXY1ZUZfMzN0NDZTZThmeEZaUlVGUkF0OU9PalczdEI5aW03LVhmRG9waFB5SjlreGJFMFNGVnNPZVVfQ2VFdEdpcjFhZ0hrWV8zZC03SjNRSzlXLUtrSjJfVUstc0sycXZwOHU5V2ZYMmJJMlEzNm13YWxJWDh4dFlRRVJZdEhn?oc=5",
+   "fecha": "2026-11-11T23:51",
    "equipo": "Estonia",
    "tipos": []
   },
@@ -196,7 +194,7 @@
    "titulo": "Dónde ver en directo Montenegro contra Letonia hoy: ¿qué canal televisa el partido y dónde verlo en streaming?",
    "fuente": "Goal.com",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSUpTOHQxdW9XLVU5dVJPay1wUkZRUktzUkMwbjJCVkxDWndOSEhMWWpFQzZuelAycVlRa0JIbFJzb2hoT3JHeE1SdktBNklWTmhkUkJ5YnhnR0Y0U1J0MWNaVXZTM2JDU3FMMjhZV2lmby1ta3U3RHF3dmgtbmJ2UW02MmtzQ1dhTlNBV2M1UnNpQnFOcEVkclhkMW92OWY2OTNFMGlmNWxOMW5PYXRCanV6ajFtQjdoeGtaSm9xVmRkMUNGbWhzRURxcjZpNWhnOW12MXJ0MUZoN1pZZl92OTBmOWptTDBabFR0dEhrcmxHUQ?oc=5",
-   "fecha": "2026-11-12T02:59",
+   "fecha": "2026-11-12T03:40",
    "equipo": "Montenegro",
    "tipos": []
   },
@@ -225,16 +223,6 @@
    "tipos": []
   },
   {
-   "titulo": "La dura sanción que recibió el preparador físico de Melgar por agredir a un árbitro en la Liga 1 2026: ¿Cuántas fechas le dieron?",
-   "fuente": "Infobae",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSWdNQ25SUERyb1hWdTRhQ24zMFloVzQ1SlNwZmV1ZHRDeHJpV1I0eHRLNjdFQ3NwRXpDRXhQUGpPdk1BSlJLT1NBZDJ6MHJaQTFjVTd1OWVnOGEtelhQQk1LQldoZEMxTzEyXzAwWnR5eWpadzN4ZlhoMnZKNkg1YTNpMWVrRTRkUzJWZng5QXJONWthSHRSNGJnbmhWbU9ZY2hmWGdFU3JaZjN2TkM4aFI3eUlPWjVIeGhVcXpCSTQ3LUhRTXFTci1EeGxta2pMd1M2czZRa201VXJJUEQtdnhZMzJ1NE93bmoyQ0VUVGdZRXJKU0JzRGlteEdFdHdzMVFfYnRRUdIBogJBVV95cUxQcG1zaXpnU09LcldsVHNuQjRGS2V3MHYtbUhZcWNUaHN5U3JIZ0N6TUJxb0N1Q1RjV3dGbWRlMk4wSjVFZjY4YlhRRDJOUXVpZVhMSGR2RFVPVml3RV9GdDVWcjhtYTA4cmgxcV9hLXdZRnVrcW5oaGFzZFJseS1YQ0hUTEplc2szbGQ2UEdTM1NNUldWbldRYndiSXdIYTRMMnRKNFExZVNUNjJsbUo1aXNpWDM4RlU5UmhjbS1zNXhiandUQ3hXVDRIcUhvZ0xyVjhDNzE0U05Kd2UzMUJ5UkdOUVJlWldOdG5vTW5XV3M0OFFWdDVNSk1IejRrNDJVRVRUdDU0Tk5IUGdxbjNhN2dvQ3RzNnk5RDU3YnZQNFRHZw?oc=5",
-   "fecha": "2026-11-12T00:06",
-   "equipo": "Montenegro",
-   "tipos": [
-    "arbitro"
-   ]
-  },
-  {
    "titulo": "Estados Unidos se retiró del Mundial Sub 17 de Qatar por motivos de seguridad",
    "fuente": "Ecuavisa",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXBONTJsU2t5cnh3X3pvR0JUQXZpdDAwUDBtMUxuREQwTVBGLXZENm00R3ZFTjBzQU9sMUJmVEhpd2dEOEhJQXFUd0VlcVpGbGZ0MXYxNmpHVnp3ejJ2ZjVMSWVWMlNYaG1YOXRIRnB1VzhSVlN1M3lkS213OVJUZkhQNFU2NENCQlI2bHFrcXFPaGVvdUJmOUhpVWZUMDlINGVULVluMXNRYnJYb1ZfbkMxck1OZTAyVjdvUERuMWNUSDDSAcgBQVVfeXFMTk0zR05uZzYyQTJZNjNQRml4dDlZc2hzM2ZhZE1wOXJRWGRzQWFsdmF3VG1uSDNsOTJDLTNxeUxybG1DTDJHS3p2N3QybUxIMEl6M2ptQ0N0VWN5OW9HcHNpTExoUDF4c2J3blRmUXFkOXhacGxwbWtxcFduZGVlb0FHSVlZc3BZVlRFRU9UOENEVU4xY1NDdVE2QW9weEIxU1R2ZUN3ejh3LTdrU0RMTVZmUTRRZnpMVzF6SFBNLUZpckJxTHd0RlM?oc=5",
@@ -249,16 +237,6 @@
    "fecha": "2026-11-11T23:20",
    "equipo": "Montenegro",
    "tipos": []
-  },
-  {
-   "titulo": "Cienciano en busca de nuevo entrenador tras la sanción a Horacio Melgarejo: este es el candidato que toma fuerza en Cusco",
-   "fuente": "Infobae",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTFR6M2p3eWJvT3dOaGJJYjYtdkZQR2tnM1UtSlRHN1BTWU9oV2JwR1o5WVMyeWpFbU1OUlREMkhQRjNkZHU0Wjk0STF2TEZfRlR0OEJkNUxpOHFiakc2bldEUVVkekFuUm9udW5jUEhhNFV4RFZmZXJ5M1gyaFptSEFyUG43a3U5a25XLWh1VU9hNkV6ZkJhdVU0bE1DcGJEWXZFRWYwWExWVDFRZGJrLVgycGkxa3VHN0NZVk4yX1RPbkMzelh3YlppMmFDNEVwSFBOS1dLTk5wVWk4QlZMbWtET1drWm45SzVpeVdHdHVFMWhUVGNQb3gtbEZuVGPSAZoCQVVfeXFMT1pvUEVVV1lZcXM5NU9XVXFrb1pzTHlvX1ZVNzNpX1NYTHQzNy1TQzIzU0RvX0hjQ1JYZEZuLWgyMGtWUG5tUDdneUVFTS04NGJXY19CQVpPM0dCRklXMG9mbzlXTjVGcGU3U2luM0FCTGlYc05QNDhNR3REdUdVU1FUNzdLRnN5VzV6SXZSMmVWQlU2V0ZZYTdFY1ZBbjIzV0RPaGYzX1JEcHoySkFldFdFUzluU2tZOXBHOXlQWGJZZml2VEg5ZFVTRUYyc2V0bUZLaHdob0k5bDRTMGs1NTVCRjVUcGl0aW9lbDFCc3NiaFFkczZMVzBMNmQ0LXdoT1BISk0wUU5GVkRnOEcyOWY3ZHlVdTM4bkpB?oc=5",
-   "fecha": "2026-11-11T22:45",
-   "equipo": "Montenegro",
-   "tipos": [
-    "entrenador"
-   ]
   },
   {
    "titulo": "Montenegro-Letonia, en directo hoy: ¿Dónde ver el partido por televisión y en streaming?",
@@ -301,6 +279,16 @@
    "tipos": []
   },
   {
+   "titulo": "Mauro Cantoro afirmó que Franco Navarro no debió ser sancionado por querer agredir a Horacio Melgarejo: “Saltó a defender su casa”",
+   "fuente": "Infobae",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ1VEU1pJSmlzd0hoNlZfNGQ0Ukc4Zk8xaHN6MzJhajc0eW5UQjltM0pxM0xlZUlYR0JYNjJ1N1FNalhkQ0RMMmpDQndhS3pzSXhfeEIwbVZMbFVGa0FlNUNUTFYxNnAwQTFmMTd6aV80R00xN0dhcVNKd0xMUkh6ZFBab2JuS2I5SnZ5dURRamxKOUFWQnNPeWI2TEFObTFsajVsTExoSmp5Q20zcUo3YkJRZmxOOFdaRXcyM2gtOU9zUi1xZzllTHhpVUIwRWVFcVNlbVI1NnE4VlN1VTRfTlhDUjFSNnlRTEZPeHFhOThMLXVBYVQ0TmpvTFhuWkxVUFJna05lX2_SAaMCQVVfeXFMTk9FbVdndXI4OC1xeDU5eTlTWWxoLXVJZ3NWVzg4MEUwd25QWnhxRU4ySnkxMGtIWW9SenB5ZGlEVFd6WXJxcjlvVDZkd0cxcFFCdXNYTFQ5VlVGRmsxNXREZ0kwLTZEbFBiR2FnQ09YOTgyZ0FhMzVnbjBCYXVnTDRvLXhkaFlnTEhpMWpJenhiY2tIRi1QSGtjVzV0bm5QaUVUTGhkdGhUSzNFZWhabFNsZkt6MVFNREtWMWllbEhTd3dUcXdBZkg5a3hwLWt4R015RUptRzVFRWRRYkZ3bHQzZVBaOGNPLTFBT1hoMkJRajJnRk9jS2M1cmpMUHR6MTVZcXhRWU84U2E3YUVZbkR6dDlRVkVkNnNRVDBfUkZOTnI0?oc=5",
+   "fecha": "2026-11-11T15:50",
+   "equipo": "Montenegro",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
    "titulo": "Pronósticos Montenegro vs. Letonia: el líder busca otra victoria en la Nations League",
    "fuente": "Gainblers",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTk4bGk4UUY2LVM4S3lXamlsMERCc2lWNWpMN0F0MEVXYVJmTEhGXzI0VVNTQy13VjRsWjRzU3dEQVVfUk1HOWpGclNtSmJFVmJqeWhNeXRNN3NBZkRoeVRkMWRvSzJmTDQzOVBVelR4S1RyLXZmeDlSVEkzbm1UNE9VWHNiQ052ck40bFpyTGt2Z2dIM3c3QVVaTWI3Ums5TC10aThyWGp3UkdHSC1jVDZR?oc=5",
@@ -315,6 +303,14 @@
    "fecha": "2026-11-11T06:02",
    "equipo": "Montenegro",
    "tipos": []
+  },
+  {
+   "titulo": "James apareció en el área y firmó su primer gol con Nacional",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXg4NWRzaTVnOGl4TU9aTTRqTDladVZIR0gxeGc0X1lXMEplNDRTbWxBdVJPR0hZQ0Z4N2JGcnlNQVNXUzlVX3NwQkhOU3l3Y2hlNmQxb0dfYjJqX256bURzeDdCNFBYam9GSG5FNWc2NkQ5U3k5ODU1c3JwWFducXFUbEdTdzk2Unp3ZWFDTXVEVXNXRGZ2RU9LUDhYX214QUN2VkM2bFhwNnoyRTdvR3dCN3U5RmtwNmFV?oc=5",
+   "fecha": "2026-11-11T04:21",
+   "equipo": "Latvia",
+   "tipos": []
   }
  ],
  "1528966": [
@@ -327,26 +323,10 @@
    "tipos": []
   },
   {
-   "titulo": "Sabri Azarkane | Partidos | Países Bajos | Mundial de fútbol sala",
-   "fuente": "UEFA.com",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0otWS0xMTZJRmZDYzVDeEJSVmNwVkRpS1Q0NDh4b1NUdFlmMG9UX2dHWTFlWXZKMEVEcllKRGJ1V0MzY1N6OTNVZ3gwR1ZON2xPSnhqQW5rNXp0RlhuLWF1b2lNVDNrNnp0MjlHTW1KUFl2QmJVUlFkMDl2dW8yZzZ2NGo5SzRndHlR?oc=5",
-   "fecha": "2026-11-11T17:42",
-   "equipo": "Netherlands",
-   "tipos": []
-  },
-  {
    "titulo": "«El equipo al que nadie quiere enfrentarse»: Jurgen Klopp revela su visión definitiva para Alemania mientras aumenta la presión en la Liga de Naciones",
    "fuente": "Yahoo",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcy1iTldzMjQwX091NU9teUJCdnd2SWNzTzFPV3E0S3p0bUdvZi1zRzg3aHBjQ2FMTm9aVTZpZVFaR0lZS0IweU1LelljaHZ3djRMNWRPZEZqT1VwSk1fd2owY2JldVMxbXRBeWd1TFVZdkRFS0hqM0xXekE4emZYWnl0clBsX0dMTTk5NmE4MkNyUnlxYXJYcE5rYw?oc=5",
    "fecha": "2026-11-11T14:57",
-   "equipo": "Greece",
-   "tipos": []
-  },
-  {
-   "titulo": "Marcador en vivo y H2H de Francesco Maestrelli Johannus Monday",
-   "fuente": "Sofascore",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHo3ajV1cUQ1Z0ROWXVZNFpRTnFkNlZmLXZtT0ZSQUl3LW9lbkJsSlM1VDJNMGt0dW9KQ2xKamk4WlVnUVNUeU41QzNETjVkdFFIWFNyYW53WkRPRlJnNVdiTFBIdUtzdld2U1cyVWk3bUdCNFJLbldqcFBrZGhIU1JUQzFFU2gxMzIwY1JNTnJ4SHBacGc?oc=5",
-   "fecha": "2026-11-11T11:38",
    "equipo": "Greece",
    "tipos": []
   },
@@ -391,17 +371,17 @@
    "tipos": [
     "baja"
    ]
-  },
-  {
-   "titulo": "«Hicimos todo lo que pudimos»: Xavi reacciona a la pérdida de Ayoub Oufkir, que se decanta por Marruecos",
-   "fuente": "Lente Desportiva",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXNOMEpWZURnYm9CdVlFdFI2UnpCb2plOVFubzdsTTBCck45c1hxdjdVX1NRWmZPaTQwQXZvWnJSS2Z6Q1hRajgyNGVZMTllQndvbnVqcHFDXzB4NEJSUUtlcExVd2Z3a1d2TEJXaW9tX0I3aVhOel9GZDRsaWJHSnAzcXI0LUNxeEk2amtCOWMyX1VMUW81MHZNaWt2R3l5VEtRRXNzZmxLVDd3NjAxMURVa3M2bFV6eV9NMGN1Nm5kaFJ1aFZxSjJxRmM?oc=5",
-   "fecha": "2026-11-10T16:15",
-   "equipo": "Netherlands",
-   "tipos": []
   }
  ],
  "1528960": [
+  {
+   "titulo": "América Femenil evolucionó del estigma a la dinastía",
+   "fuente": "El Economista",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmdZbUxiLV85NW9jRHdkZUdWbDg0TlNlN0IxeHVtRTVEMm0yYlZUNkwxaWxLOTcwLUQ3dFg3dlBnbl93dGRURW5vdWRsWUtKMW93Z0tWd3N4YUJzaF9Cdkp4YTZPSjd6Q1pTQWRYZkI1TzBqXzRuWVBRUTBCNkJLb1NLaW10TEZ1TGgzdDhLMkdheFFqWkZHMFpIa0FKVG5QY1NWLVl0VzbSAa4BQVVfeXFMTm8zNnlzWlVKT29GMm1jZnZHdWRwUGlXYld5dklZZmYtTFlES3I0OC0wSXFtcU9lbXYta1UwZXBBRm81dGFXcjVtWlFrMjZQNnJ1RWVNZUotT0VMNGVvUVdmM0lwbUZ6c19ZNEc2WWJDaDdWdVRQNTB5WUYtbXhnYjJCYkc2ZFB5bWpnSmJDQ3FfUmV1ZWN6S2ZVQkQ3cXZWSDhhcVdSMGdhSFRXMThB?oc=5",
+   "fecha": "2026-11-12T04:08",
+   "equipo": "France",
+   "tipos": []
+  },
   {
    "titulo": "Informe Redgol: Fue campeón en Inglaterra, dejó en vergüenza a Messi y fue el chileno que estuvo más cerca ...",
    "fuente": "RedGol",
@@ -459,14 +439,6 @@
    "tipos": []
   },
   {
-   "titulo": "Charlyn Corral recibe ovación de pie en el Salón de la Fama 2026: reconocen su histórico año y su reciente Tr",
-   "fuente": "La Lista",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQakFrbDdtck9Bdmh5U1g4WU1ialdXQ0N5d3NMUFJQYjFYNW11RUxyZDlwdFBZdmZyN2VQcWo3Y2xxbkpLTmM0XzlvVmdRSkZiQzZvUV9PeXlTX0dMMnVPRTY4NmxKY2lMUHZHeXd1N3dWN1pRR01vNWFndkw2RGpOS2t1RUVaOUJ5QXJuQjljZ2VrWW5pblBfTEZQZlA2bjBNNFdoOWVYVW8zb2NUYmZuMWRfdDVXeHpDdzl6S1ZGTlRUVHBMVnhpSHZreUJPeF8zVnpUOHZ5MV9IeEE1blNhM3VHbElGS2JpaGkxYUU0Skxnd1ljeE9J0gH3AUFVX3lxTFBqQWtsN21yT0F2aHlTWDhZTWJqV1dDQ3l3c0xQUlBiMVg1bXVFTHJkOXB0UFl2ZnI3ZVBxajdjbHFuSktOYzRfOW9WZ1FKRmJDNm9RX095eVNfR0wydU9FNjg2bEpjaUxQdkd5d3U3d1Y3WlFHTW81YWd2TDZEak5La3VFRVo5QnlBcm5COWNnZWtZbmluUF9MRlBmUDZuME00V2g5ZVhVbzNvY1RiZm4xZF90NVd4ekN3OXpLVkZOVFRUcExWeGlIdmt5Qk94XzNWelQ4dnkxX0h4QTVuU2EzdUdsSUZLYmloaTFhRTRKTGd3WWN4T0k?oc=5",
-   "fecha": "2026-11-11T05:55",
-   "equipo": "France",
-   "tipos": []
-  },
-  {
    "titulo": "Pau Cubarsí, de la frustración de la gala del Balón de Oro a la alegría por el reconocimiento como Golden Boy",
    "fuente": "EL PAÍS",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZFlMTVVuSEUwX1g4SHZhd2d0cTVtZUhLSjFDb0s1MnFuQV9SYkt6UWUxSWRlbkc3QjI3RXlGSEtpX05Fd2NzVmxVby16bXJkWndGUDliY0h1MFp1M2ViWHhhX0pqb3pzV2xYVTZGQ05PQklDWUwxTnpiNzItdEF0bEhLN0pNLVdIekJMNElrU0w1cDVWRzBDYlVRd1BRWGdCVzVGMDR3R090c3hNWGxPUlM3VFE4X2pBNDFzdTVOR0oxUmlnQWtyTFJBcENFbUp2QVg3N2RBWGVBZ3lfb2p6bEJNZ2dySE94NzhiV29UQTRleVRBTFlTbm83TlVSVmdTdWJVMdIBhAJBVV95cUxNZFlMTVVuSEUwX1g4SHZhd2d0cTVtZUhLSjFDb0s1MnFuQV9SYkt6UWUxSWRlbkc3QjI3RXlGSEtpX05Fd2NzVmxVby16bXJkWndGUDliY0h1MFp1M2ViWHhhX0pqb3pzV2xYVTZGQ05PQklDWUwxTnpiNzItdEF0bEhLN0pNLVdIekJMNElrU0w1cDVWRzBDYlVRd1BRWGdCVzVGMDR3R090c3hNWGxPUlM3VFE4X2pBNDFzdTVOR0oxUmlnQWtyTFJBcENFbUp2QVg3N2RBWGVBZ3lfb2p6bEJNZ2dySE94NzhiV29UQTRleVRBTFlTbm83TlVSVmdTdWJVMQ?oc=5",
@@ -475,18 +447,18 @@
    "tipos": []
   },
   {
-   "titulo": "El Salón de la Fama se rinde ante Charlyn Corral: así fue su emotivo homenaje",
-   "fuente": "Ovaciones",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXNwR1RBYU5ncFU0alRZTndvM3JSa0RUNHg2anJyZ2NDOUNCMVo4UHRtdzNycVczaVdfVGJqbWZPQnFYeEx4djVfamV0clB5VkFTaFlDNUZaclNaT0lvTFdjTWNvNDQwUThuS3hQa01mWjVFRlZYWndPZGtfa2t0TjBQU1poMjFESEl5VW5Na2MwQVZ6eWkzcHFRbjh2d3ZVY0NtS3laV2VTeWxWOHQwYzczWDZ6a1ZTS2tKZFFUYw?oc=5",
-   "fecha": "2026-11-11T05:02",
-   "equipo": "France",
-   "tipos": []
-  },
-  {
    "titulo": "Charlyn Corral recibe mágico homenaje en la ceremonia del Salón de la Fama 2026 (VIDEO)",
    "fuente": "La Razón de México",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONTNwajlQbUtJWjBOVjJKRFpVcWtUdk9xOG1hbmhtOXVFc1FIU3cwOVBxbjZJYndISDVsZUZ5Z3lYa08wbmtyeHQ1ZlFtNXp4VXN0b3lwSW9sdVZqSV9FcFRYWjBJUmpYSV85UWtPdy00RTd1MHFfdXNBcUt1V1hLLXMydFBZc3VKdTRBNENKT0NsdEdEY1NSdUR6cGlrTXl5YmZ5U3hFQ3N2cDZ0YXFOZlF6eTVtd3JyVjNudllrT2pac2pPYVJOMmJjMnI2TlU4TVJxSDJqNVo0YkFrZ05Oc01wVmxvd9IB5gFBVV95cUxONTNwajlQbUtJWjBOVjJKRFpVcWtUdk9xOG1hbmhtOXVFc1FIU3cwOVBxbjZJYndISDVsZUZ5Z3lYa08wbmtyeHQ1ZlFtNXp4VXN0b3lwSW9sdVZqSV9FcFRYWjBJUmpYSV85UWtPdy00RTd1MHFfdXNBcUt1V1hLLXMydFBZc3VKdTRBNENKT0NsdEdEY1NSdUR6cGlrTXl5YmZ5U3hFQ3N2cDZ0YXFOZlF6eTVtd3JyVjNudllrT2pac2pPYVJOMmJjMnI2TlU4TVJxSDJqNVo0YkFrZ05Oc01wVmxvdw?oc=5",
    "fecha": "2026-11-11T05:01",
+   "equipo": "France",
+   "tipos": []
+  },
+  {
+   "titulo": "El Salón de la Fama ante Charlyn Corral: así fue su emotivo homenaje",
+   "fuente": "Ovaciones",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVldFa2ZvbGRjLXdjdnIzQmctdUxkMXZBUlhWSjVBTk11SnFsTEdoOUltaU1UVi1OUVBOdUtadEZrRnMzUkNWeHFqLTA2TFktNVFkQlVrQ2huUU1SZm96RTRVMUFibE5GRHAtVDFVQ2ZiS215bnFnTkVxMTZhMm5YdmQtc0UyZG83SkhXZzRMXzJiaVRJb1F0dHJQb3pNSVROeUNEVlZYejFwZU54R0gw?oc=5",
+   "fecha": "2026-11-11T03:55",
    "equipo": "France",
    "tipos": []
   },
@@ -507,31 +479,23 @@
    "tipos": []
   },
   {
+   "titulo": "Conmebol ratifica apoyo a Infantino",
+   "fuente": "D10",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xbERGMWJadjZuLThTTW5fQmFzOG9YWUNqczBHSFh2RzNVczJjX1hQUk40YUhzZEw4d1k1N1hXNTA0R25uQU90SFF5dTlkS1h2RGs5VHo1R0dCU0Z5QXlsZWlZcll3QUEzS1d1T29XWkc2TU1lZzJrNVNERHDSAXxBVV95cUxNMWxERjFiWnY2bi04U01uX0JhczhvWFlDanMwR0hYdkczVXMyY19YUFJONGFIc2RMOHdZNTdYVzUwNEdubkFPdEhReXU5ZEtYdkRrOVR6NUdHQlNGeUF5bGVpWXJZd0FBM0tXdU9vV1pHNk1NZWcyazVTRERw?oc=5",
+   "fecha": "2026-11-10T18:55",
+   "equipo": "Italy",
+   "tipos": []
+  },
+  {
    "titulo": "Harry Kane dio el gran golpe al quedarse con el Balón de Oro 2026, una sorpresa que sacudió al fútbol mundial",
    "fuente": "https://www.lafolkargentina.com.ar/",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNekFkdWR6d0FnR0lBSVoyanZJbm1ZZmMzWEQ5Q0dYV0F6T0VPSE9jbzdrNUJOOWJKdUE3RUM5a1M3SC1QdVM1c3lqX1VTb3JDZnJNZ0NMR1hGemxFZlRrNjNrT3VIcDk4YkM4cGFSc182MTFHV3pOWVM5SXI1RVMwcDBzM3JCX21XN29PSzcyWURXLXdRN1lzRFlKZlZPSUl1WTIyQlIyNG5EeENtRlZtdGN3MXJ1MnJaMnpoNVRuTnoxcTBMWGlpTEtDMUQ1OExWUGlIWlVyMjlrSmRGUUhrODI2c2g?oc=5",
    "fecha": "2026-11-10T18:19",
    "equipo": "France",
    "tipos": []
-  },
-  {
-   "titulo": "Nicolo Zaniolo leaves Italy training camp for personal reasons - reports",
-   "fuente": "Tribuna.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1ZMenNTUHQ3ZXN1RXcxR09xREplalBJNk9vLU80SkhZdEYwYkRaSWdVUmxyNzlybzBfbk5hYlBVMHZiNVFOYTRISnhhR1VtVDRldGZtMWlpRlZLVk8ybVMwT0thYTZBUHhpalIyX29fbkh3TzZIdE9XZWljTjNFbW5HOVVqSkZza2RjUHBzdXVaa1ItMG8xLUhFMzNwSjRqVF94RTA2SHVmaVV2RXVNSy0yY1rSAbQBQVVfeXFMUHdWTHpzU1B0N2VzdUV3MUdPcURKZWpQSTZPby1PNEpIWXRGMGJEWklnVVJscjc5cm8wX25OYWJQVTB2YjVRTmE0SEp4YUdVbVQ0ZXRmbTFpaUZWS1ZPMm1TME9LYWE2QVB4aWpSMl9vX25Id082SHRPV2VpY04zRW1uRzlVakpGc2tkY1Bwc3V1WmtSLTBvMS1IRTMzcEo0alRfeEUwNkh1ZmlVdkV1TUstMmNa?oc=5",
-   "fecha": "2026-11-10T16:11",
-   "equipo": "Italy",
-   "tipos": []
   }
  ],
  "1528962": [
-  {
-   "titulo": "¿Quién transmite Inglaterra vs. Croacia? Horario y canal de partido EN VIVO UEFA Nations League 2026",
-   "fuente": "Mediotiempo",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZzRiX1FQU2VRQnVGd014bnR4Z1E1MHFidWYteGFGWUlnN29Hd1V5aFVvZFpVY2tWaFljaTh5N01ieFZLY09qbFQxekREbkktSGN1X3J4djN5NEFENENZN0VlVXctX3RnaU9zRGNmcUJob3JmbUZBX0VPSHE2VUJ2NDI2X3JMdENUb0pKMXI0NGI0NmthLVl3cHFMX01td0NEVzkyV0swenRma0lhbXQxWjgzZWViZGxmdG44cEJaNldOdTAxUmVscXY0Y3BEeUxGY1FhR0ZDQ21ibGN2WjJER2RkSWktWGF20gHoAUFVX3lxTE9mQUhTWXpYclBOVUwyUk13YWZTX2t0VGhaZXdDYU5FcU41eTBaNlZyZVpFSnY2RmJIc3hjRXIzdXdWU2VHYWFLd2pScFVhTWRLMDhwWURNNXF2VTRuQ1JEa0tKbnM2MVVOUkNmSWN5c3BTLWY5cmIwLW84TkNjQ1Z2UklXVWkzTUxfN1V2dmtsdXB6MDFFTlNpTEI0MHFsVDNZWTZJTUlzdlJhbWFRYnhieDZKZ0szcTBEQlFocGI1Qk42SjRtY1JOUGdZZGtjemJlYnZtNFktYW9CaHA2WkRTRWs5OTNOQ3A?oc=5",
-   "fecha": "2026-11-12T02:31",
-   "equipo": "England",
-   "tipos": []
-  },
   {
    "titulo": "Inglaterra vs Croacia Pronóstico y Apuestas | 12/11/2026",
    "fuente": "apuestas-deportivas.es",
@@ -668,8 +632,8 @@
   {
    "titulo": "Íñigo Eguaras, antes de recibir al Celta: \"Tenemos nuestras armas y va a ser un partido muy disputado\"",
    "fuente": "MARCA",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUc0RDk4ZThDMUZwaG8wSGNvOE5lOTVVa1ZUbEpJMHpfTUkybEFSY1V4YWZkaXE3ZlNtYms3aFJMVy1zOHN5dGlUZnJ3N2VnZHN0MlVhU3p1Yk5venlFWnBjaDNMTnVqVmRoQmtwc3NMdldMUVptS3ZlV2NvYjZ2N2lpODNhb0VVM0JTa3R0Z0hvM014MkR6Q2tBTdIBmwFBVV95cUxOaUc0RDk4ZThDMUZwaG8wSGNvOE5lOTVVa1ZUbEpJMHpfTUkybEFSY1V4YWZkaXE3ZlNtYms3aFJMVy1zOHN5dGlUZnJ3N2VnZHN0MlVhU3p1Yk5venlFWnBjaDNMTnVqVmRoQmtwc3NMdldMUVptS3ZlV2NvYjZ2N2lpODNhb0VVM0JTa3R0Z0hvM014MkR6Q2tBTQ?oc=5",
-   "fecha": "2026-11-11T22:34",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmdjNWRSUGJ1MDA1STRETDFPel9fT1Vua0dQVmhZRXd6ZDV1QjlYam1OQ3ZRbW1qejJqS0I0STZBdGVuS3JuODV4Uloya0g3cmdYWjNyY2wxMWM3OXhkNHNzTGxYcFdFQk03WHBLSk13Qjl3WjdCcldNWkliNXNJMmplaXVZbm8xU2o1TTMxdFQ3QWlic2RfcVBUUdIBmwFBVV95cUxOaUc0RDk4ZThDMUZwaG8wSGNvOE5lOTVVa1ZUbEpJMHpfTUkybEFSY1V4YWZkaXE3ZlNtYms3aFJMVy1zOHN5dGlUZnJ3N2VnZHN0MlVhU3p1Yk5venlFWnBjaDNMTnVqVmRoQmtwc3NMdldMUVptS3ZlV2NvYjZ2N2lpODNhb0VVM0JTa3R0Z0hvM014MkR6Q2tBTQ?oc=5",
+   "fecha": "2026-11-11T22:29",
    "equipo": "Salamanca UDS",
    "tipos": []
   },
@@ -760,28 +724,18 @@
  ],
  "1528959": [
   {
-   "titulo": "Liga de las Naciones - UEFA: Resultados en vivo, partidos y tablas",
-   "fuente": "365Scores",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTQXczcWxpMU5mV2dFOVlDOTZiLXZXWHdBalpuQlRzYlJoS3k2U2tiLVB3cmtObExqMWNNYkRCLU9oUVFGVzhHejMxcFMzQTI2ZUs0ZkhxWHEwMGdjTGJ0cGlzMkFESkp0ZDFIY2NnYlRWZWhYWVNleQ?oc=5",
-   "fecha": "2026-11-11T23:39",
+   "titulo": "🔴 EN VIVO: Quindío vs. Tigres - rueda el balón (0-0)",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3BJNi1hdDJpN3EyaXhsSWNTekJOeXJQeWM3dG9EMTFLaXBTcmpRTGVwT3YtcGtpalVGRUZ6MlBORmRyUmNTejlEdWw5N09GcVI5T2k3bkgyNUFxbDhWNVJjb3hXZUVoX2UtXzUwbGhla0lOTEx0R0FrQnNReEtXWHJlcXVWaXBDSDVKX2s1cTNVcHRRMVQzZlg5LWFBZG5IVWpKSGhrVlVjNTBRS0dHMklHdHlwTVpnNWc3YS1kYVdIbjZEc0RVSmJKOA?oc=5",
+   "fecha": "2026-11-12T02:51",
    "equipo": "Armenia",
    "tipos": []
   },
   {
-   "titulo": "Kylian Mbappé, baja en Francia por lesión, Zidane lo confirma",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGZFcjg4cXBrUUtGUFllY0dNak9jb1B5VmFGdGxhcFFHdFlwcFI0NF9DMzl4SDE3eXJ4dk1GVkJnNUJWLXRTZWVhQm8tdzdUcjY5SGhneTlWMllYaUlNbHVHaHZ3SzhzSnhBRC1RUzlYelVGYndVSDU0RkI2bVhxcFdJYWR6OEJ3NE9hd2tYbV9ZOS11UlpSTDFMNHI4WkVkSnpSNUhLdUp0YkJoN1BxcS1zT1BodHRJZjVETQ?oc=5",
-   "fecha": "2026-11-11T21:34",
-   "equipo": "Armenia",
-   "tipos": [
-    "baja"
-   ]
-  },
-  {
-   "titulo": "Pepe Mel está despierto, habla y reconoce a sus familiares a la espera de una segunda operación",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1lpYWVBb1JqQUxXVFFkS3lLN3dubXJrMTZCRzh0d2ZrMjBKelF6eUV2Qnp4NGc3cUNMQWhpQmtZcXRGRm5UX01DNUVWQ0dHTDBJdk5hRnMwa0dqYV8zUGxOUlB0OGFiNWJGS2lJWFBweDZuak40cmNYTmdGLTVtazBSbFpPREozLWZUb3B5Wmx2dkNad1E2TThLUnFSQmpDRmdUMTgzOVpvVnRZQlVUQVJyRnUxeTRtamI0?oc=5",
-   "fecha": "2026-11-11T20:58",
+   "titulo": "Liga de las Naciones - UEFA: Resultados en vivo, partidos y tablas",
+   "fuente": "365Scores",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTQXczcWxpMU5mV2dFOVlDOTZiLXZXWHdBalpuQlRzYlJoS3k2U2tiLVB3cmtObExqMWNNYkRCLU9oUVFGVzhHejMxcFMzQTI2ZUs0ZkhxWHEwMGdjTGJ0cGlzMkFESkp0ZDFIY2NnYlRWZWhYWVNleQ?oc=5",
+   "fecha": "2026-11-11T23:39",
    "equipo": "Armenia",
    "tipos": []
   },
@@ -804,14 +758,6 @@
    "tipos": []
   },
   {
-   "titulo": "Selección España: Mikel Merino manda un mensaje a Barrenetxea y deja varias reflexiones sobre su papel de suplente",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnVMYURreDJCbEpuQ1hXd1FGTTU3akFZNkFveHhHbEQ4Y0hfbW0zT2RhVmo4QlVIYkNTSWpYRVVYb0VKZ01jVlk5OVFwZ2gxOUFSUk5hcldYRTE0Wkw2aUNnTHdLOWpZa0t3aC1UOFZkWHMwQ3NCV0ZJcDFQcmhDUDh6TWt6M05weDBtRWNrYUl3VlE4OWU4LV9hbGpna2plQ2NzYnU3cUdnQkhqWi1uWXR5M21BeFU?oc=5",
-   "fecha": "2026-11-11T18:53",
-   "equipo": "Armenia",
-   "tipos": []
-  },
-  {
    "titulo": "Luis De la Fuente niega un trato de privilegio con Lamine Yamal en la Selección: \"Haríamos igual con cualquier otro\"",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3VkbEZMUV9ZaHlaQk1udjlGWXlLaEw0V0ozTldPdlQzcnVjWW5YNXFEb3YzUHBsQ1FYNHBFeWxzWWtpUmdTRlRubW1lcEppaE1FRHQ5VXNSRnR0Y2dQMG1IZGxTTEVSQzl1bVhaQkFDSkhqTU80V3RlV3VzZG9mNnBkNGFLYk5faXFtRTFrTC1Qc00zR201ODFlanRFOElncmlzWGNhZjd4WENOSkstMlVTTGVYNEdQVmhUMldUTWp3Vy1lejlz?oc=5",
@@ -828,15 +774,12 @@
    "tipos": []
   },
   {
-   "titulo": "Real Madrid: Tchouaméni sólo tiene molestias y no está descartado ante el Celta",
+   "titulo": "El roce entre Mbappé y Zidane en Francia con la sombra de Dembélé",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeXBLLTJfMnFNSDhpVlYzV1hJUjZ5dlJ1djlCX3JVS3VscHhIRHhOaGpocEdnY2JTUmI4c1RBZm12SnZ6RjI3NEVvWkRibkhlN1BwOHpydjJqNUxsS2hjZmQ1YlJEVEZXNExWNi0xS3A1UU12QzBvYmo0bGdiQ09iZXpiNDlmczhOSzM4cEs2VjBxbTJuWUpKdnBTQjh1TEpYNEpNUWNZODJvN0FDc1NvbDZzN0tZaG5VT2xlRktSczN5dEtPVzhVMUZVNGZzU1Buenc?oc=5",
-   "fecha": "2026-11-11T17:19",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWFmZkJ4NS04a29RcDdZZVl6X0VfYXlldFZkX05qRmZHTUhkQmZpeHRMcC1OTlhkRXBYbVZRQ0pLOWV6X1Y4TldodVRpaHlNdEJXSVB4eHBBQ24xU1ZzNE9JZVZTb2huUTZsM2c0V3c2cW9mN0FySldjNHVVcWtfQTM2Y1RCSFhUY0Fud3V2V19zWjNOdHBMUEV6X1lvVnlxRWtXZXdWanB5Wm1vTXF4M3YyVk9TNXV5?oc=5",
+   "fecha": "2026-11-11T12:32",
    "equipo": "Armenia",
-   "tipos": [
-    "baja",
-    "duda"
-   ]
+   "tipos": []
   },
   {
    "titulo": "Cuándo será el sorteo de la segunda ronda de Copa del Rey: fechas, formato y equipos ya clasificados",
@@ -885,14 +828,38 @@
    "fecha": "2026-11-11T00:56",
    "equipo": "Armenia",
    "tipos": []
+  },
+  {
+   "titulo": "Previa Armenia vs Chipre, Liga de las Naciones de la UEFA Jornada 5",
+   "fuente": "BeSoccer ES",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4aVhKRWstN2JYbEpUckt4c0duU3dfNUJBTU9IdTlHci14RTNSWVdPaGstcDlsTF96UjlaMDZ6eWxvUDI2UUNOTFR1T3ZQa2xkRV9YQ29FMTNvN3JqZHFDQ2swS0pKdFZqNnFFbkI2c2tESU1DTXZHcWhUZkZSbEE?oc=5",
+   "fecha": "2026-11-10T20:00",
+   "equipo": "Armenia",
+   "tipos": []
+  },
+  {
+   "titulo": "Alineaciones confirmadas de la UE Tavernes y del Valencia CF para la Copa del Rey",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHRQdTdrYjJmT0tuWkxsSDNyc1FfZmtCNUpCd1V2d25MX0VnRlJ5TTVJTnZaN05uQXdZYVVVZng3M0hHZnVSMHRRSzN0Tndpd0NiaFBjcEJDWGR1bkpqYlpVU2N1ZHE1WTN0VS1ZUUwxclNIS1Zqb0gxQmxZRzE2ZUxod21JaEg3MUdKM29ZTzhtX0wyX3JIdmlXTUxGNHNvZVY3aXJCallQdXllSWZPMg?oc=5",
+   "fecha": "2026-11-10T19:46",
+   "equipo": "Armenia",
+   "tipos": []
   }
  ],
  "1528963": [
   {
+   "titulo": "Albania vs Finlandia - Pronóstico, Cuotas y Apuestas - Liga de Naciones de la UEFA - 12/11/2026",
+   "fuente": "ToffeeWeb",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnl0c1hCbnA2MXBVN0tsYVZzVmRJaHRpTVIwckh1WVQxZnhJRC1GVnRzRWNlY2tHaEhTcEZQSXZLTmdSQWdvQ1FTNkhZcjE0dHhnaEJUeTk2eG5qYnc0ZGdwQkpBZFA4SllvZGJqR0NMNklzSTJmUVRteGV2V1lNZTh5MW9jbDZRa0lkV2JvcFBMZV8wRGRyek5NS0VNeUNyZGRrQW5mZUZTMEszeF9JX0kxUVBkYzYtbmc?oc=5",
+   "fecha": "2026-11-12T03:51",
+   "equipo": "Albania",
+   "tipos": []
+  },
+  {
    "titulo": "Albania contra Finlandia Ver en directo, Pronósticos (nov. 12)",
    "fuente": "FootballPredictions.NET",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmYxS2JGajRsNmFIcXg1b01uYlhWMU9VV29TRVYtQzBiUXNYSjRzc29KNkpra3NtWlp0UlZ6UTdzSUhjT3U2T2paenItR0ZUVF9SS0h2Rk44cVRaZ2R2dWZ2ckh4dWFQWWo2V0l4OTMwWWlZN2otU2hhNjNZTE43RVhYVlNlYVE?oc=5",
-   "fecha": "2026-11-11T22:57",
+   "fecha": "2026-11-12T01:46",
    "equipo": "Albania",
    "tipos": []
   },
@@ -947,14 +914,6 @@
    "tipos": []
   },
   {
-   "titulo": "Luis De la Fuente niega un trato de privilegio con Lamine Yamal en la Selección: \"Haríamos igual con cualquier otro\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3VkbEZMUV9ZaHlaQk1udjlGWXlLaEw0V0ozTldPdlQzcnVjWW5YNXFEb3YzUHBsQ1FYNHBFeWxzWWtpUmdTRlRubW1lcEppaE1FRHQ5VXNSRnR0Y2dQMG1IZGxTTEVSQzl1bVhaQkFDSkhqTU80V3RlV3VzZG9mNnBkNGFLYk5faXFtRTFrTC1Qc00zR201ODFlanRFOElncmlzWGNhZjd4WENOSkstMlVTTGVYNEdQVmhUMldUTWp3Vy1lejlz?oc=5",
-   "fecha": "2026-11-11T18:33",
-   "equipo": "Albania",
-   "tipos": []
-  },
-  {
    "titulo": "Albania vs Finlandia – Pronóstico y Apuestas – Liga de Naciones de la UEFA – 12/11/2026",
    "fuente": "PrensaFútbol",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjZkbDlrQVlyOHRfQmxHUER2bVRxVVM0dmliUWhtQXlvazN2aUFiZmxGbERlTnJ4c25lNExqM0lSbWpVWTV6QmlGZW1NSE5qUWxQUXZsX1ZtRlppaHlueS1JdlZWeWlnSnJ1NUxhQVdqYlItakxZZE9OeURiVjJjQTc5OEtTS2EyM2tYcDZRc3F4UEZfa1RMdEFaUEhUeWIxVnRidGx4R2RkNDF2bDI4?oc=5",
@@ -1003,10 +962,10 @@
    "tipos": []
   },
   {
-   "titulo": "Hoxha y Shpendi entrenan por separado del grupo",
-   "fuente": "KOHA.net",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzRVa3JTVFV5TXo4UDJUek93YWlpYXZkN1ptcTk2SUxjQVVKRVotYmM5eUJMTEdpanRmT0dzWk9SazFPV0FXemFwbEkxU21pMVM1RmZkc1FuSTdERXRGYnZSb0V4b213U2NMRnBLVDdJWml1cVJqdVNEVDlPa1dBeU5B?oc=5",
-   "fecha": "2026-11-10T18:33",
+   "titulo": "Alineaciones confirmadas de la UE Tavernes y del Valencia CF para la Copa del Rey",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHRQdTdrYjJmT0tuWkxsSDNyc1FfZmtCNUpCd1V2d25MX0VnRlJ5TTVJTnZaN05uQXdZYVVVZng3M0hHZnVSMHRRSzN0Tndpd0NiaFBjcEJDWGR1bkpqYlpVU2N1ZHE1WTN0VS1ZUUwxclNIS1Zqb0gxQmxZRzE2ZUxod21JaEg3MUdKM29ZTzhtX0wyX3JIdmlXTUxGNHNvZVY3aXJCallQdXllSWZPMg?oc=5",
+   "fecha": "2026-11-10T19:46",
    "equipo": "Albania",
    "tipos": []
   }
@@ -1075,14 +1034,6 @@
    "fecha": "2026-11-10T18:02",
    "equipo": "Belgium",
    "tipos": []
-  },
-  {
-   "titulo": "Nicolo Zaniolo leaves Italy training camp for personal reasons - reports",
-   "fuente": "Tribuna.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1ZMenNTUHQ3ZXN1RXcxR09xREplalBJNk9vLU80SkhZdEYwYkRaSWdVUmxyNzlybzBfbk5hYlBVMHZiNVFOYTRISnhhR1VtVDRldGZtMWlpRlZLVk8ybVMwT0thYTZBUHhpalIyX29fbkh3TzZIdE9XZWljTjNFbW5HOVVqSkZza2RjUHBzdXVaa1ItMG8xLUhFMzNwSjRqVF94RTA2SHVmaVV2RXVNSy0yY1rSAbQBQVVfeXFMUHdWTHpzU1B0N2VzdUV3MUdPcURKZWpQSTZPby1PNEpIWXRGMGJEWklnVVJscjc5cm8wX25OYWJQVTB2YjVRTmE0SEp4YUdVbVQ0ZXRmbTFpaUZWS1ZPMm1TME9LYWE2QVB4aWpSMl9vX25Id082SHRPV2VpY04zRW1uRzlVakpGc2tkY1Bwc3V1WmtSLTBvMS1IRTMzcEo0alRfeEUwNkh1ZmlVdkV1TUstMmNa?oc=5",
-   "fecha": "2026-11-10T16:11",
-   "equipo": "Belgium",
-   "tipos": []
   }
  ],
  "1528968": [
@@ -1111,10 +1062,10 @@
    "tipos": []
   },
   {
-   "titulo": "Darío Benedetto podría ser una opción para un grande del FPC",
+   "titulo": "James apareció en el área y firmó su primer gol con Nacional",
    "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamw1SzFYa2NFQkh0LWxrMHc4N1EzN1JweDJwTkN2U2piWDQtVFNhRF80cGRtVVhHb2E0YzZKODR0MFJ1RXdET3ZlRV9SVzM3R2djaWFCU1NIRngzY3dKb3F4RDdkUW9qX1B1UVpURkhGam9EOVMtVzh2TmZQbWVlbmR0c3JPUTdoc2c4X1hiM0d1STY4U1h5UVpMbVZ4QjJJNGg1cVRyVWtEOGc0TzREaHc2aVVPZ2d2WTNZ?oc=5",
-   "fecha": "2026-11-11T05:41",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXg4NWRzaTVnOGl4TU9aTTRqTDladVZIR0gxeGc0X1lXMEplNDRTbWxBdVJPR0hZQ0Z4N2JGcnlNQVNXUzlVX3NwQkhOU3l3Y2hlNmQxb0dfYjJqX256bURzeDdCNFBYam9GSG5FNWc2NkQ5U3k5ODU1c3JwWFducXFUbEdTdzk2Unp3ZWFDTXVEVXNXRGZ2RU9LUDhYX214QUN2VkM2bFhwNnoyRTdvR3dCN3U5RmtwNmFV?oc=5",
+   "fecha": "2026-11-11T04:21",
    "equipo": "Moldova",
    "tipos": []
   },
@@ -1159,18 +1110,10 @@
    "tipos": []
   },
   {
-   "titulo": "¡Se definen los clasificados! Así se jugará la fecha 19 de la Liga BetPlay",
+   "titulo": "América dio el primer golpe a Inter Bogotá en la Copa BetPlay",
    "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUdFRFJ6el9ReGJfOUNHQjdQaEk1T2VxeEhHSGN1V19qQUZuWHQ4TnpicG1KQm9sbU8xcW1QQlNkazlrSlNhbDBIZmpUTEVMVXlyM0ZicVllcWFFWmp6MW9FV3dIT04wcVlDaE5SRkFvZWRiM3lNN1M3RzhxY0U4aGtlMnYyRllGa1dTSXJBVVl2NUN6Y25XT3AxT3Y4cElTVk9PcGpaTzNsZHN4NEpOTUtudHhlNHBfeURlYkFZOGlUTTJKVnRadGVQaw?oc=5",
-   "fecha": "2026-11-10T18:05",
-   "equipo": "Moldova",
-   "tipos": []
-  },
-  {
-   "titulo": "Envigado venció a Boca Juniors de Cali y es líder del grupo A",
-   "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM3pjZmh5N0tLa3ltX244aFVreVd3WEhYam1UUmR5ZEFnak5nQjZQOVlOQUdKRWVSTWN3X1FCdjVQLUNGR2hTbjhDVnpaa2NEenVsMkRnQkVlUE9wTkY4aXdLMndETFhuV3pfSEotOUoyei03eUlad0p6alZXMm5PdDNkV3NFN19pT0h6aEtRS25rdWZ3dUs2Wmc1NGFGbFh3dko2cHQ0bjVmemQ2LTZBWTl0QmxhVm05QnhkNml1enQ1OG9kRjNvQy1HV0R2emY4SnotZFVlQzhOM2lWSWN3?oc=5",
-   "fecha": "2026-11-10T15:20",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUtkZ1hNbHhYb1VHQkNzZEplY3pydkxISE9sSVBUVnNRLWtVZFJHOXYtMEhILUdPRmRUV0h0NlpqXzVYZ1dKZlBZNk9qT1dRUkVDNlVWTjh6cWtGbW4zV1pmbUp0VFZ1UEhuZmhxRV9fcUI0cW5tbEZ3WTM0SUhJQ0xhRWtjMFJGRHI1UGNWam10YTJYd0Nwd0c3NnA1aFkzRW53NV9fLVRQenowTWlMTTV1Z1oyQW1pTnJ3WjVyQnp2Z2RhR2c?oc=5",
+   "fecha": "2026-11-10T18:20",
    "equipo": "Moldova",
    "tipos": []
   }
@@ -1259,6 +1202,14 @@
    ]
   },
   {
+   "titulo": "Futsi Atlético Navalcarnero, campeón del Trofeo Comunidad de Madrid",
+   "fuente": "Telemadrid",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRG03S0x1VC1qQTlzZjJCUkowcWlfWmtVQVdoMjctcTlQU3p6b1UyN1o4aG1hTEFmV2xjanFTX3JhYXkzZlFLS3dnR2tFbTdFTW5kckhDNEJDNTA3QVB3MDBlSDMycDFMWGloeHN2TU9mdFJQMDV0OENfWEVpYjhJZDNfYmZQVlh2ZU1OS2o2elJtZnIwNmgxLXJpa0o0Zk91OHRn0gGoAUFVX3lxTFA5Skx6M0pZeVdNcmZTZ1p2N3BqZmUtbl9iY3g0OW1aMUxQalQ3a2pGbU54TGNzclhWTk9aWG5aX21naHFLcWhQVC1kWEcyaTJ6OFZwWTc3M0ZZR3VEV3NDcTFuTWZaWnZ3cVNENHctNkR0eVlwZTk5QTBRbXhMdnVvZWR1NHR5SWlnY3lQXzNmYVZiSjNxM0VwQUF3NkVZRmJkQVdhamdmQw?oc=5",
+   "fecha": "2026-11-11T18:25",
+   "equipo": "Navalcarnero",
+   "tipos": []
+  },
+  {
    "titulo": "Adrián Cordero Vega, árbitro del Navalcarnero-Real Betis de Copa",
    "fuente": "IUSPORT",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTZMWXVfZDBYdnZkR0w2cVRidVN4VGVTODdFRktDSER5TnlHMFNNazJFbERFTUZ3djJMNFNVZTFCZ0ZGN1N1MGFkQmE3dk13U3JoNnJNX2g3NjlvT0lFcjhmYXRJLWFoVXBEMHFpSTE1WVRHM1FDRVp0c0lDbmtESkVZdEFvMTZFWHlqSTlNRkVkSG1ZYUtTNkZ3?oc=5",
@@ -1293,25 +1244,9 @@
    "fecha": "2026-11-11T15:05",
    "equipo": "Navalcarnero",
    "tipos": []
-  },
-  {
-   "titulo": "Navalcarnero vs Real Betis de Copa del Rey 2026/27: cuándo se juega, horario y canal de TV en España",
-   "fuente": "DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOem9JTXI5bi1FX0RDZ29mMHUzbVhndklIMHhDSkZUTmNkNXhYWTFMZDJPeUhBeVQ3WnlNSEhJMzZXdDdIazFvTVpvRVdWeWJaSC1aUXM2bUpVajhmc1N5cWVWUk0wWWxPdGc2MG8waFJWODkwYlZaYlpqVDFGUTZfdXoxRlJNZmtqUlAxVkVOclk2UUxlMjZSVE1hbkN0aU9aeTBsQ0pueGs2SjdYT2xJTzVfUE14YWs2M2JHcXQ5QnpSQm8zeTd4cmhPc29jclRyeE1rMVpiWU1iLUlXX2dVOQ?oc=5",
-   "fecha": "2026-11-11T14:59",
-   "equipo": "Navalcarnero",
-   "tipos": []
   }
  ],
  "1528961": [
-  {
-   "titulo": "Los hinchas del Barcelona podrán depositar cenizas en el nuevo monumento conmemorativo del club",
-   "fuente": "El Litoral",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2p5M2ppVVRORWRxUmhkd1ltbFJRQ3RablBhSFQtOUhCYkNEajN4X2JqRldPWF9PbWt4X1c3NzI3c1lTdzljc0Y0UDJGUHVJbXNfY3BMMWZZX1pxNFd4aG1ldWx4cnFvWUlkMkdhOWEzR1lEOWtKMWE1QzZUaFJFdlJsQXl3cTF4d24ycHZjWFNwSmp1c0VPcGJqSDZyZUFqUTVncHdrb1VYN2dqQmZ2UmxVUzBpUjVZa1I2NmhjTWk0dFVEY1doS2paTVNVN2NZaF92WWlpNU1NNDZGQU5ZSUhxR0xzcHJhT3F4UA?oc=5",
-   "fecha": "2026-11-11T21:57",
-   "equipo": "Spain",
-   "tipos": []
-  },
   {
    "titulo": "Watch Spain vs Argentina",
    "fuente": "TOD",
@@ -1401,6 +1336,14 @@
    "tipos": []
   },
   {
+   "titulo": "Nace el Memorial FC Barcelona: una zona reservada en el Spotify Camp Nou a los aficionados que deseen depositar sus cenizas",
+   "fuente": "Cadena SER",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX3k4U2x4ZEFwWHNPb1FVaWktRU8yUWFrdERTV2pJMnFZUDlCNUhoSFM2WWZOdnpyRG54a0o3M1FOSjd0eml3ckFKRFFPSkdhTW54UkpaaW9XLWZxeVJRb1Iyd0hUMHhFNC1WLWxxNUlobnBQMk1LbUI2T1dtNnFEZG9Kc3FHeWJVblNXbXpUN2pTTXRyTGlZM1hoVGZaeHFKb3pqZnRGcURSUEVTNWpDdENDaU9XQ3c0NTk1YjZZNTY1ZmxEN2dkaTdUclgzcGs5QS1pVzNhUWZtX1pPeEtUZHdLbVVqdG5uQXhDWXhZZFB3WG1WcWdNbXg2bUFUM3ktbFlhR19zd9IBmwJBVV95cUxPdVl5LTllbjhwZV9MRDdGS1dUd2QyWkl1eWZRa1pBN2d5Sm50V2dWakdOcHZ5SEZoZkVQUDJXSjlyVW43cE94WjBFeTNwWkRBTzdWZm1scGJRazFZQ2p6YTBGVmQ3SFAtZmJsSTQwSVdnVjJpLUZ0ZnJNWkVfQVJTODNpdG9WejBTSTBEWW92dWMzTnh0SVQ0YXQxVnpRdnhGOG50YTFYQjZHRjROcmNYVDBIczVwa3phRE54V1c4UlUwd3hUbVc5YU9SVmFpMHVfcFFGRm1DSUp0dWVZX0N0aGFxVTZVZWR1WXU5SlNNZ29VelE3blEtVGc2RWdVam1mOUxjTVNoOC0zTWRHb0tJLUJlSEZneU56TFdZ?oc=5",
+   "fecha": "2026-11-10T22:17",
+   "equipo": "Spain",
+   "tipos": []
+  },
+  {
    "titulo": "De la Fuente ve apto a Lamine Yamal ante Inglaterra: \"No merecía la pena asumir riesgo\"",
    "fuente": "SPORT",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTM1Ml81bkZNMjQxeGxUZEx2QzlmS0tpUU93V3dPSnhsWmhLdXpCV2UxWnI3WUxmUHhSbFp5NFdqX2hPaHAtNGd3VVRCVWlGcEVxMlJOVlI1YVJxNHRROUh4QW1RcFBjcGZHOXYzUHk4RzJEbUdmcHd6ZmRDRE9tVjFkWdIBgwFBVV95cUxQOTM1Ml81bkZNMjQxeGxUZEx2QzlmS0tpUU93V3dPSnhsWmhLdXpCV2UxWnI3WUxmUHhSbFp5NFdqX2hPaHAtNGd3VVRCVWlGcEVxMlJOVlI1YVJxNHRROUh4QW1RcFBjcGZHOXYzUHk4RzJEbUdmcHd6ZmRDRE9tVjFkWQ?oc=5",
@@ -1455,8 +1398,8 @@
   {
    "titulo": "Pronósticos Liechtenstein vs. Azerbaiyán: un partido marcado por la falta de gol",
    "fuente": "Gainblers",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmVmcUtRVmtFUWhqTjYzNnJfMmUxUzFkLWczaWg0UW9vYThUV2JxX0ZuUDNDaXQxWlFwak9mamdxWXRBYVdfelZKc3lDMDk3UVFKMHBIX1VuYnljZVRKNEEwcmxxMG9OX1RwTzdwa3pmek9fMXk3OXIwczJDQVR4QnRlenEtdU0xZF9PXzdzMEQ0VmdmUUkwVnhTLWh2VlhtRGlJOEhSRml0Zng0eDliQV9CaGQtUWh4LXc?oc=5",
-   "fecha": "2026-11-11T23:42",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQk9NQWk4MmJMMmtkU1pUMHZMbGNWMFI5UF9vMGdVN0ZnWXZwRE5JTW5tVVlBNnNXc0JvS0c0X0FVbFJLVnJwdnEyMmJGU1NrVUp5dmdxUTBmcnhEOXNoYXdHaFduZGFOYlhsV05OZVc1VVNIM2dBanFHV3VuMmN5TExCRXI5U3QwU2FyM0xYcnBBRlZYTDBfUmJudmlzOVJJWGdvdFlETTRHcy1YNTczSEtIX2QyUWhxZ2c?oc=5",
+   "fecha": "2026-11-12T01:03",
    "equipo": "Liechtenstein",
    "tipos": []
   },
@@ -1517,11 +1460,11 @@
    "tipos": []
   },
   {
-   "titulo": "Lituania — estadísticas, resultados y próximos partidos",
-   "fuente": "Apuestas Ganadas",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VMThzRG5PZWZzYkJoNTgtb01faDk5aFViVVpaSWtLQ2lCVmNDMUF6eTFVUGExZGVvRlI5SzJtVE9MMlBFNmFLRExGZzV0eF9VbWxGYTlXd1FSY0pHcVE?oc=5",
-   "fecha": "2026-11-11T19:00",
-   "equipo": "Liechtenstein",
+   "titulo": "Azerbaiyán vs. Liechtenstein resultados en vivo, H2H y alineaciones",
+   "fuente": "Sofascore",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWJXbkU0VGkya3RJTzVXYVVDbmRibzZoV1pCNUo1T09rbG5XeTZEc2pCSHF0VERwcnRqRkdPbGwtTktVZ3hqU0QyajY3bkt5TGFzRzRwS1VkRlVHVXpkZDB0OTU3WTBVazcwVVZoZEtmMHpYTmZHQ0xKZDNfOUY0UVpiczNoNGs?oc=5",
+   "fecha": "2026-11-11T14:28",
+   "equipo": "Azerbaijan",
    "tipos": []
   },
   {
@@ -1572,6 +1515,14 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1DOHdoWnlFdU9feEVDNTZHdTBaZEpfbkdNQl9HcWRZa3BuOW5MZDIzRlVMVEJ6WU55ak4wb3YyYnNsX2tkenc5RjFZeXBHQXhqX3FtajZGOEliRmx4VXMtbjRiT3k1cTJPMUEtNDNBMngtMTFVWXlQa016eE9tSzd2ZFNNRUduOE5pT0N2d3NIRU5WNnp1Y2p0dUtfT212X1R6bGQwODFWMmFvMElSYtIBsAFBVV95cUxPdm1DOHdoWnlFdU9feEVDNTZHdTBaZEpfbkdNQl9HcWRZa3BuOW5MZDIzRlVMVEJ6WU55ak4wb3YyYnNsX2tkenc5RjFZeXBHQXhqX3FtajZGOEliRmx4VXMtbjRiT3k1cTJPMUEtNDNBMngtMTFVWXlQa016eE9tSzd2ZFNNRUduOE5pT0N2d3NIRU5WNnp1Y2p0dUtfT212X1R6bGQwODFWMmFvMElSYg?oc=5",
    "fecha": "2026-11-12T00:44",
    "equipo": "Tarancón",
+   "tipos": []
+  },
+  {
+   "titulo": "Levante y su empate con el celta de Vigo",
+   "fuente": "HSB Noticias",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1na2ZFV2xaaWNtcVV5WjduOXVUb0NnTXo4YUdhWkZ1UkFJcjh5RVRUSGpPUDVYQ1UxX3R0cWhaUHlmMmkxSW9GTFR1TkRSWXVPT2lIaUYtd2p0bEhiLV8zUXZyV0kwRG5Od2xqandnMHNhcVQtdGpvOE8zMk41QQ?oc=5",
+   "fecha": "2026-11-12T00:44",
+   "equipo": "Levante",
    "tipos": []
   },
   {
@@ -1631,10 +1582,10 @@
    "tipos": []
   },
   {
-   "titulo": "Tarancón vs Levante pronóstico — España Copa del Rey — 12/11/2026",
-   "fuente": "Apuestas Ganadas",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vUDB6TmpsSVBwVFptWkJNTEh5VDYyMjdMa2Zvc3ZNSGZ5TG9NZUgwemxvYWFkTkFsemVCcEo1TzRrVEFlNXdtNlkyOGhPTjlSWGVZYUNHUjhWaS1RQ2t2bkJ3M0pBbXVGcGRfcFVpekhJTTNHVFExY3NpYXkweU0?oc=5",
-   "fecha": "2026-11-11T20:27",
+   "titulo": "Robert Sánchez sufre un accidente en Alemania y destroza un Ferrari de 350.000 euros",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHh6RVF6ekNaZ1RtWWNqa0dZZTAzNk55ZVJ2RFlhckoxaXBsN0hhUlJfMEZ2b043SmxRcGpKSjdUeE4wMTNxLVhYNXhNRmktNW40bHQycEdSU01zUWo3a1ZnN0hiakZzeWIzRjNQTFBMT0hiU1lUWnhhMnFhTDZIMnRHMGxuRFlHQkhua3h1Nzgzb3h0NkliQU8zaVYweG1xckZOM1FtZFpJMXo4UkoyTzJ3VjZvdHFkNnh2YVdJRm1fM044?oc=5",
+   "fecha": "2026-11-11T20:14",
    "equipo": "Tarancón",
    "tipos": []
   },
@@ -1647,29 +1598,19 @@
    "tipos": []
   },
   {
-   "titulo": "Luis De la Fuente niega un trato de privilegio con Lamine Yamal en la Selección: \"Haríamos igual con cualquier otro\"",
+   "titulo": "Selección España: Mikel Merino manda un mensaje a Barrenetxea y deja varias reflexiones sobre su papel de suplente",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3VkbEZMUV9ZaHlaQk1udjlGWXlLaEw0V0ozTldPdlQzcnVjWW5YNXFEb3YzUHBsQ1FYNHBFeWxzWWtpUmdTRlRubW1lcEppaE1FRHQ5VXNSRnR0Y2dQMG1IZGxTTEVSQzl1bVhaQkFDSkhqTU80V3RlV3VzZG9mNnBkNGFLYk5faXFtRTFrTC1Qc00zR201ODFlanRFOElncmlzWGNhZjd4WENOSkstMlVTTGVYNEdQVmhUMldUTWp3Vy1lejlz?oc=5",
-   "fecha": "2026-11-11T18:33",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnVMYURreDJCbEpuQ1hXd1FGTTU3akFZNkFveHhHbEQ4Y0hfbW0zT2RhVmo4QlVIYkNTSWpYRVVYb0VKZ01jVlk5OVFwZ2gxOUFSUk5hcldYRTE0Wkw2aUNnTHdLOWpZa0t3aC1UOFZkWHMwQ3NCV0ZJcDFQcmhDUDh6TWt6M05weDBtRWNrYUl3VlE4OWU4LV9hbGpna2plQ2NzYnU3cUdnQkhqWi1uWXR5M21BeFU?oc=5",
+   "fecha": "2026-11-11T18:53",
    "equipo": "Tarancón",
    "tipos": []
-  },
-  {
-   "titulo": "CD Tarancón - Levante UD: horario y dónde ver en directo por televisión el partido aplazado de Copa del Rey",
-   "fuente": "Las Provincias",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPODE4Ynh2ZWtpOGtTenFHS294a1huMXFqUl9wOGJNZk41Q1d1S21ENmZsbUxQeHZub3JXYmplbVhIRDVkM3l6WHRCYVpjcFlBdkZGV0NnaHBlVS03Q1l5VXJhRm9Ka1FweGVJYVF1WmRhWmRzd0FRVnkydkZlcXRvb3RjU2h1TUdOSmd6cE5ydVd4bjJ3T3Ezai1NRVQ0VzRCaE9MZ1dDX3h4cDFoenEtdVZ4TlRGRHlr0gG-AUFVX3lxTFA4NklHMERTdVNwZVFpakxQU3Jwd3loVW1yeVlOQXhzMjgtYm9Xd0hreEVjS2hCQlNabXZjbGxZdzdzWGdoQUxfZGZJa0pMX1BoUlI3cjNKai1HaWVjWmxEU0VwbWg4Q1pKOGpraXhtakVad05IX3BsY2Q0X2plbjlhOHlTcTFCVzh0OVhnbEpReXBhVEJIenRIR2JqS0p6MGtIR3Y1Y3pSY002OWlaeWVaalZOOEdWbnhwV3JIQXc?oc=5",
-   "fecha": "2026-11-11T18:15",
-   "equipo": "Tarancón",
-   "tipos": [
-    "aplazado"
-   ]
   }
  ],
  "1644370": [
   {
    "titulo": "Calvo Sotelo Puertollano - Albacete: No viene bien, pero es la Copa",
    "fuente": "La Comarca de Puertollano",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhVOHBZQVpMcWZTY3F0S0FPbFNySG9JRzg2SFhmWThZa015d3k1ZjhpYk9wT2tzVVFjanFKdlRJcUdudm9EbFg5bWZaMXNVa0x2VHV3NGkzQ2dYQmEwYTZjX1ZVM2NtZFI1cVlKeUt0MUpNbzJRX3hpWFdjWU1lbnRnTnRiQ3laWGJ3TVVwU1Q0Uzh3WG5LeUlSRzdvdjlmZkZzWEdwWi0xNGdaQkRVRjJUN0tiLXE5Um9aWmpRYmltUdIBxwFBVV95cUxPVzg5WG5zNlNqQXl4WFdKNXJmOFRKcXBuLXlkZUFDSWRpak5MS2VZa0dpRXJtRkxkdDF1akFQTlVKblE2U0VkUHNfeWRscW1mTFpUcUkwLTlJdXUxWk41enFwTm5zUmlGa3JGVWxHbEltME14VmVYMlo3U0dZQVpoUkZaM1U5S29zNXNnbjQxQU9qc0NhcGt5Ni1QaWFXZ1d4Qmh1TjlsMlV6cnNycUZrcTJJMWhHRU1KWW5iOTdnVkRJRDZ0Sno0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzg5WG5zNlNqQXl4WFdKNXJmOFRKcXBuLXlkZUFDSWRpak5MS2VZa0dpRXJtRkxkdDF1akFQTlVKblE2U0VkUHNfeWRscW1mTFpUcUkwLTlJdXUxWk41enFwTm5zUmlGa3JGVWxHbEltME14VmVYMlo3U0dZQVpoUkZaM1U5S29zNXNnbjQxQU9qc0NhcGt5Ni1QaWFXZ1d4Qmh1TjlsMlV6cnNycUZrcTJJMWhHRU1KWW5iOTdnVkRJRDZ0Sno00gHHAUFVX3lxTE9XODlYbnM2U2pBeXhYV0o1cmY4VEpxcG4teWRlQUNJZGlqTkxLZVlrR2lFcm1GTGR0MXVqQVBOVUpuUTZTRWRQc195ZGxxbWZMWlRxSTAtOUl1dTFaTjV6cXBObnNSaUZrckZVbEdsSW0wTXhWZVgyWjdTR1lBWmhSRlozVTlLb3M1c2duNDFBT2pzQ2Fwa3k2LVBpYVdnV3hCaHVOOWwyVXpyc3JxRmtxMkkxaEdFTUpZbmI5N2dWRElENnRKejQ?oc=5",
    "fecha": "2026-11-12T00:54",
    "equipo": "Calvo Sotelo",
    "tipos": []
@@ -1791,14 +1732,6 @@
  ],
  "1545615": [
   {
-   "titulo": "Pep Guardiola suena para dirigir a Estados Unidos si sale Pochettino",
-   "fuente": "Deportes TVC",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzBtckpvUkI2X2NhcFJ1TkV5ZkVYSXVubWNHQ25QN1VXT1F2eVJ6WXJ4SmVZY2E4eDZ1cFVSZDNSU0FFcENwcUlNLUtWc1pCUUprQUlHT3lVNUN6UkJ6cXE2clRaaTBqeUpkVllQc2lCX2ppSFdRX3JmMmZqYUt0SHJQQXNJbTAxSDYxc2VLeVdfS0JWdlJxX3ZGZURRNW83VVhoM19xVQ?oc=5",
-   "fecha": "2026-11-11T21:57",
-   "equipo": "Andorra",
-   "tipos": []
-  },
-  {
    "titulo": "Andorra vs Gibraltar: pronóstico, apuestas, cuotas para el partido 13/11/2026",
    "fuente": "legalbet.es",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53cml6Y2VTdW4yN3AwWVdxc0NOdHRFeUwzZ0lGbE1kdlNZaW0tdFJITV9abU44c0JHbnZfeGhOYUU1a0w5cFBxNWJ2NzhOUTVoMUJCLXhHUi1LUjRiWnowdzE5RlFHSUNuOVlzNGJGMzFEdjA?oc=5",
@@ -1829,6 +1762,16 @@
    "fecha": "2026-11-11T18:58",
    "equipo": "Gibraltar",
    "tipos": []
+  },
+  {
+   "titulo": "Algeciras CF B-CD Guadiaro, el derbi de la Primera Andaluza para el 9 de octubre",
+   "fuente": "8Directo",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDZSbDJDZGQ0MzM3OTY1cEZNRloyeTV4Q1h4TjN2cXZaQ2VDTnp5eEtDNmNaNWltV0tGSERfWGZWNnpGLUgxdDZUY0tDLWNCSTNNUmhnNkFWdUZwZGxudTE4dVN0eTBVcERXOGFKd25OTjBndldtQUFRR1h0TndkNllWRGZxRVpWWUFhUXUyT2F6S3NhckttaXljRmo3TVVNUjRiRThxTDZfakh2ZHNfcDZSUGJ3UzNwU3lXZmVn?oc=5",
+   "fecha": "2026-11-11T18:54",
+   "equipo": "Gibraltar",
+   "tipos": [
+    "motivacion"
+   ]
   },
   {
    "titulo": "La historia del futbolista argentino que no para de hacer goles en Gibraltar",
@@ -1947,14 +1890,6 @@
    "tipos": []
   },
   {
-   "titulo": "Faroe Islands vs Moldova: estadísticas y datos del partido",
-   "fuente": "BetMines",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmNYYV8wQlRpSUtWTExuUW9IckllMkJJcVhLcGFwWWdNeTVXVTNjT0Y2dEhJSHh4cFZpOERJQV9TWUZrOGlQWUZDd2NDdWZkUFkzX2J3c0UtTHQ4V1FQWWJEaTVOQUNGVXg3eTItbU5VME1ibElaTWdKdExPa3dMUw?oc=5",
-   "fecha": "2026-11-11T10:54",
-   "equipo": "Faroe Islands",
-   "tipos": []
-  },
-  {
    "titulo": "Predicción IA: Andorra vs Gibraltar: 14/11 Liga de Naciones de la UEFA",
    "fuente": "www.inbet.io",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fZkpJeWxVNjdVY1otd1hIZl9hM3RlckI1VXVtY3FEMjFtVXFSZGhva3VNQzlTWGNEbUpNT09SSHMxSi1kX2tHemFTY19IXzJkNFVvTzA3WXlkeXVmX0wxT0ZNRHpvbG40bTRFVVROR0VFMmxxUkY4?oc=5",
@@ -2063,6 +1998,14 @@
    "tipos": []
   },
   {
+   "titulo": "El Burgos CF celebra el Día Internacional de la Mujer con una charla inspiradora",
+   "fuente": "Burgos CF",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2w0SV83Tm95NjdibkxUdzVIMFBkRnhRRFk5RWlEbzBhY1BiUXNXX1cta3g1VS1tQmtvUDV3aVdJOEZUOWRkeG9QS05QZFZzRy1uYUJVNTVKVllyLUlNX1J3RnFMOHdIQXBkY1VYTHFhTnhPRzNaUG9ubUxxZGZjNUJld0l4RzFyTzZOT20yN1p4TGc3eGt5MTZmS2VMQXUzN2hJd09Ddk56Tkd5SVdHS3dTdw?oc=5",
+   "fecha": "2026-11-11T12:25",
+   "equipo": "Burgos",
+   "tipos": []
+  },
+  {
    "titulo": "Hasta siempre ‘Melo’",
    "fuente": "Burgos CF",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nTmFSUGZkTzIxbUd3Zm94WktSY00zT3dqRTJVcFAxam5KLWpNd1NleUYwVjNsYTFvaU9uU0IzOTJRS2FBbUpmbVFJSlNvc1VNcnY1WHJfZkxHaEFPRnhueA?oc=5",
@@ -2127,17 +2070,25 @@
    "fecha": "2026-11-10T23:03",
    "equipo": "Burgos",
    "tipos": []
-  },
-  {
-   "titulo": "Alex Millán: “Necesitábamos volver a ganar”",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSm0tTlROSnJBWUlnR3ZHV2IyeGdhLWJpMExzTVFEclZ4UGRpV3BvNmh6Qmc1V3ZCN0hHZEZDZ1RLYnRNUTg2c2wydkRaWEx5S005ZDJiRi1Kd0ExR203c19KbkowZnJKdUN0ZHQxeTBFUDZTRmxnOExOcE8yNUlPUXF1S01fTF9CV0RuZm82WdIBowFBVV95cUxQWkNreGNXckhXMkVZb1pwNVlHT09iZmJLZ0twcnFncWk0RUlUUWhkSC1UM1FoU3F0TG9DLThFTkp3NVpOTjk5Q0FmaWZvNElsUzgtM3BJenUyZ2xPNVpnU3RFV3VlcGhXOHVxRjNKTGRRVzQ4Umt3a0o4XzQ1WG1rQ0pBZFBpN0xJVWotRkwta0pnR3dZMVpfSzROYTNnNFBnNGxJ?oc=5",
-   "fecha": "2026-11-10T22:35",
-   "equipo": "Leganes",
-   "tipos": []
   }
  ],
  "1528965": [
+  {
+   "titulo": "Pronóstico Serbia vs Alemania: Alemania gana y más de 2.5 goles en la Nations League",
+   "fuente": "Gainblers",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTU82MTVBVldUNzZXb0I2MFlMWktMTW9PQWpuSWtvTGtxQ012amQ4WS1ieklYU1ljY0Q2Ulh1d3JSVC1vTDhvTGY5VXlFb3ZkRUcyOEFSc3NCbG1ObnpLNnItLTJGYW9WS2FqSXUxeWdYWV9ZZHBmdUl0N1BwRFlrVmlLYWgxTXk4bVdIYUlDekwyMEFTVWg3NEpoTEdVWTRzbGV1ZVVCX1JXZndyaEE?oc=5",
+   "fecha": "2026-11-12T03:31",
+   "equipo": "Serbia",
+   "tipos": []
+  },
+  {
+   "titulo": "Serbia - Alemania: pronóstico y cuotas | Nations League",
+   "fuente": "BetBrothers.es",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1hYaHhKM0xrd0IyWjQ5VXpKYzE0eUJHYlFRckVLVC1DRWQxV1ppUERTUXR2LWFCU1pwOEJ2NVlENEpQYmtoOGFPVGFLOFR6WlR1VGt2ek9qY3h5eTRiT1RkNVpDVGNkTGV4NzNnemZTaE9pUHRqR0hyRmxoUXZQRmdadFh4UmhCa1E?oc=5",
+   "fecha": "2026-11-12T03:30",
+   "equipo": "Serbia",
+   "tipos": []
+  },
   {
    "titulo": "Ver Casademont Zaragoza - Burgos Grupo de Santiago Online en Directo | DAZN ES",
    "fuente": "DAZN",
@@ -2163,14 +2114,6 @@
    "tipos": []
   },
   {
-   "titulo": "Pronóstico Serbia vs Alemania: Alemania gana y más de 2.5 goles en la Nations League",
-   "fuente": "Gainblers",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDNsWWgwSnNHZlZTUXhzdG5iWkFyVHBjUVZhU28xQ1BvNkNpcmVaS2hoSjJNWXIyb3FkSjJodHlZQXdZd3c1WE12WWMxZXZKZzRTTFQ2TVlCVTg0dHpMM2ZtY1hfYlQ5R1Q4TTVZNWhPT2R2cm0xOTFjRGFvUHZtR1FESDBwbGZfUU9Hc3Q1T2l0WC1UZGxmdnQ0VUlMMF83QkR0MENsMTA4TG16TkE?oc=5",
-   "fecha": "2026-11-11T21:31",
-   "equipo": "Serbia",
-   "tipos": []
-  },
-  {
    "titulo": "Fútbol: Chequia - España, en directo | UEFA Nations League",
    "fuente": "RTVE.es",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXdRbWljcFRfSDRQalFhQ0JPRVhrMlFCNEpZeWpUQUhmcksxd1VDRU9ObEhHOUc0cnViVzhCZkp0NVlDWFpPU2M3NGlHc2Zvbi1ucUZETlVEckZ3cGxja1MxM1EzU0lPdTg0cF9hb052V0JhSjNsYjJ1WWlhM0t3WTU2aG9HSE5XTU9iSFNPTGNNQ19aR3QwV1g3VWRTaXl4WEk1TTRHX3RLWEpkU01waE1oY2hFWU9OVkpV?oc=5",
@@ -2182,14 +2125,6 @@
    "titulo": "Pronóstico Serbia Alemania - Nations League 13/11/26",
    "fuente": "SportyTrader",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOV2tkeE9kdDNiVWVpX05hOUFDNk9zVllvektadU5VSFd5dkhaN2g5c0VsT2dsc3RRYUlURmIzUHhzU1JPNHZRV0h0alhxQm82N21PdHI1NFpQNmpGdHo1OVpLVGl4UVI5ZEJ3Z2hiU3FneWhlUVE?oc=5",
-   "fecha": "2026-11-11T20:45",
-   "equipo": "Serbia",
-   "tipos": []
-  },
-  {
-   "titulo": "Pronóstico Serbia - Alemania - Nations League",
-   "fuente": "SportyTrader",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTzFTb3liNURIT0JVaUZCSWNRc0hSMlE4QnRIbEpsZkFqWXdqSUU2TkdyUDRsdEVuX1YwQUdOTzI1ekNOczhGYk1pMUNHUDd3UVlvd1B4ejFqYzVoN3g5bkEwQ0t5OFhDSktBUmd6ZmQ?oc=5",
    "fecha": "2026-11-11T20:45",
    "equipo": "Serbia",
    "tipos": []
@@ -2253,7 +2188,7 @@
   {
    "titulo": "Serbia contra Alemania en la Liga de Naciones de la UEFA A: todo lo que necesitas saber",
    "fuente": "Goal.com",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMzBGYk5EXy1VY2R2elJjTkJfelJLaDY2azZqSm50RmFSTjZ4X25GcWFPdENXTlZ4WHFDVG9CYl9kZ0lnc2V2Mk96VVhveEthaldJQ0ZmanM1M05PWlE3ODFyMkRzSUd6c214SldVZWx2aXlFc2toUjk4VEV2ZHFFTFRRQkg1OW45WGFQem9pdDk4eU0xTU1pQ0pIeVBKaWlYQVptTlJGVVpNN2szRzFwd0FnaEtuZkpISHdiS1FxdGZjYy00TGR2aXAzR045VVZqOFlQLU1B?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPajA3YWpVbUpZM19jZDZHcXltNjhqM2pPdGZLTUZvc2dod1JwUm9TdWRaUVhjbmdDV0hSVFZ4VmpMS3p2c3EzZjczaEhwVzN1WnJhV2dEQ0RMMUhTZEpKdnZiZzN5aU0wTHRTUGR6N0lsSHk1ZkNJem9MdjliRTFpaGU3V2VlNms4MEJpM2pLUnljdEstWVlTSXdBUW8tLXduZmVUajZYck5tVkhXNG1GeXRkT3RSR1ZUcGFtcU9ZcFJMS05UR2Z0RG8tZWVqanFtNm1rTEE5OVRyZw?oc=5",
    "fecha": "2026-11-11T10:14",
    "equipo": "Serbia",
    "tipos": []
@@ -2271,6 +2206,14 @@
  ],
  "1528969": [
   {
+   "titulo": "Ver Montenegro - Letonia Online en Directo | DAZN ES",
+   "fuente": "DAZN",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVhKRTllT21NOHRnd2tHMGJMbFVmNEN2WkRhUUo1eDRaU1V6akYzMHhwX1YzYWd4bWxDbXlVS2JYbVVONXp3SDhEUGcwUnpfazl1bnpYbXVLVmFRcVN6czJBa2RUSzhBclR1cjNSOGE2YzVEWFN1UzQwMHFWQkhXd2xxaVpMYjlMRC1CUg?oc=5",
+   "fecha": "2026-11-12T02:44",
+   "equipo": "Bulgaria",
+   "tipos": []
+  },
+  {
    "titulo": "Pronósticos Bulgaria vs. Islandia: los islandeses buscan asegurar el liderato de la Nations League",
    "fuente": "Gainblers",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUcxb3ozOG9SN25UOWUxOW5KNjAyTkJ3Y1RlVzlEcVFoR1BWdU5TTlJzZng5NjBZM184b3NOTERJaEFsc1ZYQS1xWHdUOU5WcEFZM1VLUHc2emJIQnh2Q0pWMTA5NWpET2RyU0RxMDBzbEN5SEtvSjhxWmxsRlFDV0Q2SjJmVUZaaXZ6aFBMSDNOMGJWcEtiUGFKN1Z3OEc0LTI4R1ZyUDhZbzJoMFJxLQ?oc=5",
@@ -2286,14 +2229,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQm5IdVlHR1l6alJYNDdzOExXc3BXWUlEM2tEaUVFRmRZMk5aMEJKSVZPUk1JTzBsQ3lZaE96UUNnZ01nSjNiTmg5QVdfNUZLRXFrMlRqZmhrSTZaNktSMGNydWMxQWI5WDdxMUxvdndGb1VKc1dpbGMxUnVubXVwVnpQX3MtLWNQb2ZQUTk5T1lKMmZBeWNkR2FJV00zZ2VjTXQ5M3FHUmxmZw?oc=5",
    "fecha": "2026-11-11T22:47",
    "equipo": "Iceland",
-   "tipos": []
-  },
-  {
-   "titulo": "Portugal Sub-21 vs Noruega Sub-21 » Mejores Cuotas y Estadísticas",
-   "fuente": "Odds Scanner",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HVWdCQWg4amk1TDBkUnBSbGMtaTFsVFJHbF9vbkdBUkt2WUN5NVEycmEzVDRtb01IWDVWdHJCTU1TUE5IN3hQRzdra1dYT2NLNmZMMm5hbzBvQjRCZ2Z1Szg4REcxbkRhOE5RU3ZHVkhSVlpqOHc?oc=5",
-   "fecha": "2026-11-11T22:27",
-   "equipo": "Bulgaria",
    "tipos": []
   },
   {
@@ -2317,22 +2252,6 @@
    "fuente": "SportyTrader",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KYjZFMDF3SVh0SkhkbjJEbVpVcDFyTFA2dDJlREtFNG5oQ1U4al9naGxQYXQxamRxV0YxNExLSHBONGpoT29RS0VKc1Y2cDJLay16SjdrU29wY3l6MlJfcUxzTWZXN1BvcTFHT1p5UFpOTGJRNGI1RQ?oc=5",
    "fecha": "2026-11-11T20:45",
-   "equipo": "Bulgaria",
-   "tipos": []
-  },
-  {
-   "titulo": "Sporting Santa Cruz llevará el talento boliviano a competir con gigantes de Brasil",
-   "fuente": "Red Uno",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXZ2aEFVRi1WemVaQUZFR0k4V19WVjUxc21kbkg3NktRekUtY1N2dkllQ1Q0VWpPRUpTaTlpY0hFQ0prRkRIczR0VldWUjdUak5wa3dldmY3b3RWUHFaYzQwdU1KOXk4Vy1jdHYxNlJ3YzdoS2MxYzdtY1BXelFzLWxZYXZ1dmJRQVVqblY5TjlYckhtQVNsa3kwaVZjNlc2NE1sRWZ0Um56SXM0RzFldWtlR0hkWUs3T3YxdzNMZFd5WFlETERINw?oc=5",
-   "fecha": "2026-11-11T19:55",
-   "equipo": "Bulgaria",
-   "tipos": []
-  },
-  {
-   "titulo": "Ver Montenegro - Letonia Online en Directo | DAZN ES",
-   "fuente": "DAZN",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVhKRTllT21NOHRnd2tHMGJMbFVmNEN2WkRhUUo1eDRaU1V6akYzMHhwX1YzYWd4bWxDbXlVS2JYbVVONXp3SDhEUGcwUnpfazl1bnpYbXVLVmFRcVN6czJBa2RUSzhBclR1cjNSOGE2YzVEWFN1UzQwMHFWQkhXd2xxaVpMYjlMRC1CUg?oc=5",
-   "fecha": "2026-11-11T19:43",
    "equipo": "Bulgaria",
    "tipos": []
   },
@@ -2389,6 +2308,22 @@
    "fuente": "Diario de Noticias de Álava",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2ZvYk4tUDZYWXJMSFdPRUxILTR2OFoxMTdDTnJVSUk5SS1JTVFjbTlXWWpkSGd2Ukk2VVhzUWhHMTNNejQ2aHFGVnRCOEkyX2g4RUFRYk1ZOUFBX044WldiVzM4UTJ1UG9kQUktZEFDenhJNEpqcUE4VzJZWllVUGpYRUdpWDdFd1BrQTZzNWhKNUNqX2FLUXprRDJ1aEdzekRTRXV1MVDSAa4BQVVfeXFMTzVKWjdaV0xwRFZoNU1ObDJRM19haW1ETUZ6Z005bGtjak9RQm01U3RYMzI4WjhzUUFlN3M0aU1MSTNkZ2Y1X04wWFBGdkVDTmViSEt2UFp0aEJfYk5nME0xbVZEQzlvNjZtakVDdUlfWEF5X3JFTWxlbWhNZGJZcGJwbXdleG1KWExlREFEaWN5UE01NUhNM2ZqcHd6aGQzVkNHb2NOUmlHRUpEYW13?oc=5",
    "fecha": "2026-11-10T17:50",
+   "equipo": "Bulgaria",
+   "tipos": []
+  },
+  {
+   "titulo": "Choque múltiple en Bulgaria: Captan el momento exacto de la megacarambola",
+   "fuente": "TV Azteca Puebla",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3d4LXFMdXp0LW5SMlZuWjRBaXVUc2gxN2ZwSklGakFmT0M1dWFNN2pDSGlHV0FLSGJoUmpPaFN5QWotQ1lOcUtBUkswU1hfd01oRGlaQmI4bGZSVEsyeTY3U1ZkZmxHMG0tY21lajJIWmxzZnFoU3ZJbk1aYXlnTzZaeWl3aVlJaXJVUmF3aDVTbkVBTmVxMzNTTnQ1Smg3ZVh2aGZUYzE0dS1RQWlURA?oc=5",
+   "fecha": "2026-11-10T17:34",
+   "equipo": "Bulgaria",
+   "tipos": []
+  },
+  {
+   "titulo": "Agresión en partido de fútbol: jugador recibe patada en la cabeza cuando estaba en el suelo",
+   "fuente": "Red Uno",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0x2U3FUYWI0YkNsZS1IUDVSUzdwR2J2aU16VmQxU09OeXBLM082dk5iY0FKZXFDSk5KVFVicGt6QzRlWF9UcGdTQWpYMkJVM1NweWRWZzRZNnJVNHU3b3ZTYzRpNW9lUE9IdjhiSzVodkNPc3V5YXNzMFFqbi1RMjRxQmt4NjJBYk5kMXZONFV3UUhhT1o5UE1ZSXpXQkF3ZFNPNTJjbXA1MGN3cE9yRXRHMktvZlRnTlY2SzNSRHdzZ0pYZ2MyZnVHM0ppRjVFR3VaR1Nkaw?oc=5",
+   "fecha": "2026-11-10T17:13",
    "equipo": "Bulgaria",
    "tipos": []
   }
