@@ -403,6 +403,25 @@ MUY_LARGA = 10   # picks a partir de los que se dice «coged los que más os gus
 CIERRE_TELEGRAM = "🔔 Activad las notificaciones, que vienen más combis 👀"
 
 
+def cierre_a_veces(texto, semilla):
+    """12/11 (Marcos: «no hace falta que pongas siempre una frase al final en todas las publicaciones»): en la mitad
+    de los posts (según el id, así no cambia al regenerar) se quita la frase de cierre si es la última línea:
+    «🔔 Activad las notificaciones…», «🍀 ¿LA PINTAMOS…? 👀💚», «👇 ¿Qué pata quitarías tú?», «Otra más pa' la saca…»."""
+    import hashlib
+    if int(hashlib.sha1(("cierre-" + semilla).encode()).hexdigest(), 16) % 2 == 0:
+        return texto
+    lineas = (texto or "").rstrip().split("\n")
+    ultima = lineas[-1].strip() if lineas else ""
+    es_cierre = (ultima == CIERRE_TELEGRAM or ultima in CIERRES or ultima in CIERRES_LISTA
+                 or (ultima.startswith("🍀 ") and ultima.endswith("👀💚")) or ultima in FRASES_VERDE)
+    if not es_cierre or len([x for x in lineas if x.strip()]) < 3:
+        return texto
+    return "\n".join(lineas[:-1]).rstrip()
+
+
+FRASES_VERDE = ("Otra más pa' la saca familia 😎", "A cobrar señores 🤑", "Seguimos sumando 📈", "¿Quién la llevaba? 👇💚")
+
+
 def con_equipo(p):
     """05/11 (Marcos): los jugadores con su equipo: «Milot Avdyli (Sturm Graz): 1+ tiros»."""
     t, j, eq = p["texto"], p.get("jugador"), p.get("equipo")
@@ -926,6 +945,7 @@ def main():
                 continue
             # 09/11: femeninas: «Atletico Madrid W» → «Atletico Madrid (fem.)»
             p["texto"] = re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", p["texto"], flags=re.M)
+            p["texto"] = cierre_a_veces(p["texto"], p["id"])
             nuevos[p["id"]] = p
     # conservar los ya publicados para que quede registro, y los fijados a mano
     for pid, p in anteriores.items():

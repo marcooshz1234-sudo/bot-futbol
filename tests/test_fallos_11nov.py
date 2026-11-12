@@ -243,6 +243,14 @@ class TestFallos11Nov(unittest.TestCase):
             lemas |= {l for l in __import__("plantillas").LEMAS_VERDE if l in html}
         self.assertGreater(len(lemas), 2)
 
+    def test_cierre_solo_a_veces(self):
+        tx = "Combi\n\n✅ Gana el Betis\n\n📈 Cuota @1,80\n\n" + plantillas.CIERRE_TELEGRAM
+        salen = [plantillas.cierre_a_veces(tx, f"2026-11-12-combi-{i}") for i in range(40)]
+        con = sum(s.endswith(plantillas.CIERRE_TELEGRAM) for s in salen)
+        self.assertTrue(10 < con < 30)   # más o menos la mitad
+        self.assertTrue(all(s.rstrip().endswith(("@1,80", plantillas.CIERRE_TELEGRAM)) for s in salen))
+        self.assertEqual(plantillas.cierre_a_veces("Hola\n\nadiós", "x"), "Hola\n\nadiós")   # sin cierre: igual
+
 
 if __name__ == "__main__":
     unittest.main()

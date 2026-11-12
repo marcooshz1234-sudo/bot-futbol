@@ -109,7 +109,8 @@ def main():
             texto += f"\n\n📈 Cuota @{num(p['cuota'])}"
             if "escalera" in p["id"]:   # la escalera sí lleva el dinero (en eso consiste el reto)
                 texto += f"\n💶 {titulo_escalera(p)}"
-        texto += "\n\n" + frases[sum(map(ord, p["id"])) % len(frases)]
+        from plantillas import cierre_a_veces   # 12/11 (Marcos): la frase final, solo a veces
+        texto = cierre_a_veces(texto + "\n\n" + frases[sum(map(ord, p["id"])) % len(frases)], p["id"])
         pid = f"{ahora:%Y-%m-%d}-verde-auto-{p['id'][-40:]}"
         if pid in ids_cola:
             hechos.add(p["id"])
