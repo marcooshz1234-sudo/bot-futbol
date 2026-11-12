@@ -42,3 +42,19 @@ class ImagenesEditadas(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TarjetaSoloThreads(unittest.TestCase):
+    """12/11: la combi de partido solo para Threads caducó porque nunca se le hizo la tarjeta."""
+    def test_solo_threads_con_tarjeta_se_hace(self):
+        d = Path(tempfile.mkdtemp()) / "publicaciones" / "media"
+        d.mkdir(parents=True)
+        with patch.object(imagenes, "MEDIA", d):
+            post = {"id": "y", "fecha": "2026-11-12T12:00", "texto": "t", "solo_en": ["threads"],
+                    "tarjeta": {"local": "A"}}
+            ahora = datetime(2026, 11, 12, 11, 0, tzinfo=M)
+            self.assertEqual([p["id"] for p in imagenes.pendientes_de([post], ahora, {}, {})], ["y"])
+            (d / "y.tarjeta.jpg").write_text("-")
+            self.assertEqual(imagenes.pendientes_de([post], ahora, {}, {}), [])
+            self.assertEqual(imagenes.pendientes_de([dict(post, tarjeta=None)], ahora, {}, {}), [])
+

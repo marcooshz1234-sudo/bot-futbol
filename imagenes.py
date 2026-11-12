@@ -333,7 +333,14 @@ def pendientes_de(cola, ahora, control=None, estado=None):
     hace45 = (ahora - timedelta(minutes=45)).strftime("%Y-%m-%dT%H:%M")
     salida = []
     for p in cola:
-        if p.get("caducada") or p.get("solo_en") or p.get("sin_instagram"):
+        if p.get("caducada"):
+            continue
+        if p.get("solo_en") or p.get("sin_instagram"):
+            # 12/11: los de solo Threads no llevan imágenes de Instagram, PERO la combi de partido sí necesita su
+            # tarjeta (sin ella no sale): la de Turquía–Bélgica de las 12:00 caducó por esto
+            if p.get("tarjeta") and not p.get("enviado") and p["fecha"] >= hace45 \
+                    and not (MEDIA / f"{p['id']}.tarjeta.jpg").exists():
+                salida.append(dict(p, texto=textos.get(p["id"], p["texto"])))
             continue
         p = dict(p, texto=textos.get(p["id"], p["texto"]))
         redes = dict(estado.get(p["id"], {}).get("redes") or {}, **(p.get("redes") or {}))
