@@ -158,6 +158,14 @@ def revisar(ahora=None):
         # 8. sin cuotas
         if p.get("sel") and len(p.get("cuotas") or []) != len(p["sel"]):
             out.append((f"cuotas-{p['id']}", f"📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): {cab}"))
+        # 16. 12/11 (Marcos: «mínimo 1,30 o 1,35»): un post con cuota total ridícula no sale (y se avisa)
+        try:
+            from bot import cuota_baja
+            mot = cuota_baja(p, (control.get("textos") or {}).get(p["id"]))
+            if mot and not publicado(p):
+                out.append((f"cuotabaja-{p['id']}", f"🪫 No saldrá ({mot}): {cab} ({p['fecha'][11:16]})"))
+        except Exception as e:
+            print("vigilante (cuota baja):", e)
         # 15. cuota que se ha movido mucho (suele haber una noticia: baja, once, lluvia…)
         if t < ahora + timedelta(hours=36):
             try:

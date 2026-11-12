@@ -175,8 +175,9 @@ def main(objetivo=None):
             print(f"Caducada (no se publica): {p['id']}")
             continue
         from bot import partido_caido
-        motivo = partido_caido(p)
-        if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica
+        from bot import cuota_baja
+        motivo = partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"]))
+        if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica (12/11: ni con cuota < 1,35)
             p["caducada"] = motivo
             cambios += 1
             print(f"No se publica {p['id']}: {motivo}")

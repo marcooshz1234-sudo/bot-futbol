@@ -136,6 +136,41 @@ def partidos_fuera():
     return {int(x) for x in c.get("partidos_fuera", [])}
 
 
+CUOTA_MINIMA_POST = 1.35   # 12/11 (Marcos: «mínimo, siempre mínimo 1,30 o 1,35… ¿quién va a coger eso?»)
+
+
+def cuota_post(post, texto=None):
+    """Cuota total del post: la de «📈 Cuota @x» si la lleva; si no, el producto de sus cuotas; si no, la única
+    «@x» del texto. None si no se sabe (ganadores, verdes…)."""
+    import re as _re
+    t = texto if texto is not None else post.get("texto") or ""
+    num = lambda x: float(x.replace(",", "."))
+    m = _re.search(r"Cuota\s*@\s*(\d+[.,]\d+)", t)
+    if m:
+        return num(m.group(1))
+    try:
+        cs = [float(c) for c in post.get("cuotas") or []]
+        if cs and len(cs) == len(post.get("sel") or cs):
+            tot = 1.0
+            for c in cs:
+                tot *= c
+            return tot
+    except (TypeError, ValueError):
+        pass
+    ats = _re.findall(r"@\s*(\d+[.,]\d+)", t)
+    return num(ats[0]) if len(ats) == 1 else None
+
+
+def cuota_baja(post, texto=None):
+    """Motivo si el post tiene una cuota total ridícula (Bélgica marca @1,11 salió sola el 12/11); None si vale."""
+    if post.get("verde_de") or post.get("resultado") or any(k in post.get("id", "") for k in ("verde", "rojo", "balance")):
+        return None
+    c = cuota_post(post, texto)
+    if c is not None and c < CUOTA_MINIMA_POST:
+        return f"cuota {c:.2f} por debajo de {CUOTA_MINIMA_POST:.2f}"
+    return None
+
+
 def partido_caido(post):
     """07/11 (Marcos: «piensa en todo lo que puede fallar»): texto con el motivo si algún partido de un post
     pendiente se ha aplazado/suspendido o ya ha terminado; None si se puede publicar."""

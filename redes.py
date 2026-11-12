@@ -509,6 +509,9 @@ def main(objetivo=None):
         from bot import partido_caido
         if not (p.get("redes") or {}) and partido_caido(p):   # 07/11: partido aplazado o ya jugado
             continue
+        from bot import cuota_baja
+        if not (p.get("redes") or {}) and cuota_baja(p, p["texto"]):   # 12/11: nada con cuota < 1,35
+            continue
         if p.get("ganadores_img") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             continue   # 07/11: el GANADORES WIN nunca sin su foto (se espera a que imagenes.py la haga)
         if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():

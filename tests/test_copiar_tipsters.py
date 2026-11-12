@@ -26,10 +26,12 @@ class TestCopiarTipsters(unittest.TestCase):
             with mock.patch.object(C, "DATOS", d), mock.patch.object(C, "REGISTRO", d / "r.json"), \
                     mock.patch.object(C, "COLA", d / "cola.json"), mock.patch.object(C, "inicio", lambda pk: ini):
                 n = C.main(datetime(2026, 11, 11, 8, 0, tzinfo=MADRID))
-                self.assertEqual([p["id"] for p in n], ["2026-11-12-pick-tip-1", "2026-11-12-combi-tip-1"])
+                # 12/11: ya se copian todos los canales de fútbol (también INSIDER)
+                self.assertEqual([p["id"] for p in n], ["2026-11-12-pick-tip-1", "2026-11-12-pick-tip-2",
+                                                        "2026-11-12-combi-tip-1"])
                 self.assertIn("🍀 Gana España @1,50", n[0]["texto"])
-                self.assertIn("Cuota @1,82", n[1]["texto"])
-                self.assertNotIn("Pérez", n[0]["texto"] + n[1]["texto"])
+                self.assertIn("Cuota @1,82", n[2]["texto"])
+                self.assertNotIn("Pérez", n[0]["texto"] + n[2]["texto"])
                 # 11/11: con sel y cuotas de la misma longitud, para que la app y los verdes los corrijan
                 for p in n:
                     self.assertEqual(len(p["sel"]), len(p["cuotas"]))

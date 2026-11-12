@@ -15,7 +15,47 @@ from datetime import datetime, timedelta
 
 from bot import DATOS, MADRID, leer
 
-COPIAR = ("TipsAnalistas", "Tipster Pérez", "PABLO ANALISTA")
+COPIAR = ("TipsAnalistas", "Tipster Pérez", "PABLO ANALISTA")   # los primeros; desde el 12/11, todos los de fútbol
+# 12/11 (Marcos: «siempre que podamos, los picks que suban los canales de Telegram que seguimos, que se los copiemos…
+# la mayoría los aciertan»): se copian los de TODOS los canales que seguimos, menos los de baloncesto y tenis
+NO_FUTBOL = re.compile(r"nba|basquet|basket|tenis|tennis", re.I)
+CUOTA_SOLA = 1.35   # por debajo, un pick suelto NUNCA sale solo (Marcos 12/11: «¿quién va a coger eso?»): se junta
+#                    con otro en una combi («o combina dos») que llegue a 1,35; si no tiene pareja, no se sube
+
+
+def es_de_futbol(tipster):
+    return bool(tipster) and not NO_FUTBOL.search(tipster)
+
+
+def sel_de(x):
+    return f"{x['partido_id']}|{x.get('mercado')}|{x.get('opcion')}" if x.get("partido_id") else None
+
+
+PROHIBIDO_TEXTO = re.compile(r"1ª parte|1a parte|primera parte|1er tiempo|primer tiempo|\b1T\b|descanso|medio tiempo"
+                             r"|fuera de juego|tiros totales|remates totales", re.I)
+
+
+def motivo_no(x, usos):
+    """12/11: por qué NO se copia esta pata (o None): choca con lo nuestro de ese partido («nunca chocar»), ya va en
+    2 posts (máx. 2) o va a favor de un equipo al que le falta su estrella (Mbappé)."""
+    if PROHIBIDO_TEXTO.search(x.get("texto") or ""):   # «Crear apuesta» con una pata de 1ª parte (Inglaterra 12/11)
+        return "lleva un mercado que no usamos (1ª parte, descanso…)"
+    s = sel_de(x)
+    if not s:
+        return None
+    from plantillas import choca
+    if choca(s, list(usos)):
+        return "choca con un post nuestro de ese partido"
+    if usos[s] >= 2:
+        return "ya va en 2 posts"
+    try:
+        import revision
+        sin = revision.lados_sin_estrella(x["partido_id"])
+        if any(revision.favorece(s, lado) for lado in sin):
+            return "a su equipo le falta una estrella (prensa)"
+    except Exception as e:
+        print("copiar_tipsters (estrellas):", e)
+    return None
 REGISTRO = DATOS / "tipsters_copiados.json"
 COLA = DATOS.parent / "publicaciones" / "cola.json"
 MARGEN = timedelta(minutes=15)
@@ -132,9 +172,12 @@ def main(ahora=None):
     hoy, manana = ahora.strftime("%Y-%m-%d"), (ahora + timedelta(days=1)).strftime("%Y-%m-%d")
     hechos = set(leer(REGISTRO, []) or [])
     lista = [x for x in leer(DATOS / "tipsters.json", []) or []
-             if x.get("tipster") in COPIAR and x.get("dia") in (hoy, manana) and (x.get("partido_id") or x.get("hora"))]
+             if es_de_futbol(x.get("tipster")) and x.get("dia") in (hoy, manana) and (x.get("partido_id") or x.get("hora"))]
+    from combis_dia import ya_publicadas
+    usos = {d: ya_publicadas(d) for d in (hoy, manana)}   # lo nuestro de ese día (publicado y programado)
     clave = lambda x: f"{x.get('fuente') or x['tipster'] + '|' + x['dia'] + '|' + x['local']}|{x.get('mercado')}|{x.get('opcion')}"
     sueltos, combis = [], {}
+    rotas = set()
     for x in lista:
         if clave(x) in hechos:
             continue
@@ -150,7 +193,17 @@ def main(ahora=None):
         if not ini or ini - ahora < MARGEN + ESPERA:
             hechos.add(clave(x))   # ya empezado o muy justo: no se copia (y no se vuelve a mirar)
             continue
+        por = motivo_no(x, usos[x["dia"]])
+        if por:
+            print(f"Copiar tipsters: {x['texto']} no ({por})")
+            hechos.add(clave(x))
+            if x.get("combinada"):   # 12/11: sin una pata ya no es su combinada (y su cuota conjunta no vale): fuera entera
+                rotas.add(f"{x['tipster']}|{x['combinada']}")
+            continue
         cu, comprobada = cuota_bet365(x)
+        if not cu:   # 12/11: sin cuota no se sube (podría ser un 1,12); se vuelve a mirar en la siguiente pasada
+            print(f"Copiar tipsters: {x['texto']} sin cuota, espera")
+            continue
         if comprobada and x.get("cuota") and cu < float(x["cuota"]) - 0.001:
             print(f"Cuota bajada en bet365: {x['texto']} {x['cuota']} → {cu}")
         x = dict(x, _ini=ini, cuota=cu, cuota_comprobada=comprobada)
@@ -168,11 +221,48 @@ def main(ahora=None):
             n += 1
         ids.add(f"{base}-{n}")
         return n
+    from plantillas import choca
+    # 12/11 («o a lo mejor combina dos»): los de cuota baja (Bélgica marca @1,11) se juntan de 2 en 2, de partidos
+    # distintos y sin chocar; si a 3 h del partido no tienen pareja, salen solos
+    bajos = sorted([x for x in sueltos if x.get("cuota") and float(x["cuota"]) < CUOTA_SOLA and sel_de(x)],
+                   key=lambda x: x["_ini"])
+    usados = set()
+    for i, a_ in enumerate(bajos):
+        if id(a_) in usados:
+            continue
+        b_ = next((b for b in bajos[i + 1:] if id(b) not in usados and b["dia"] == a_["dia"]
+                   and b["partido_id"] != a_["partido_id"] and not choca(sel_de(b), [sel_de(a_)])
+                   and float(a_["cuota"]) * float(b["cuota"]) >= CUOTA_SOLA), None)
+        if b_:
+            usados |= {id(a_), id(b_)}
+            nuevos.append(post_combi([a_, b_], ahora, siguiente(f"{a_['dia']}-combi-tip")))
+            hechos.update({clave(a_), clave(b_)})
+            for x in (a_, b_):
+                usos[x["dia"]][sel_de(x)] += 1
     for x in sueltos:
+        if id(x) in usados:
+            continue
+        if x in bajos or (x.get("cuota") and float(x["cuota"]) < CUOTA_SOLA):
+            print(f"Copiar tipsters: {x['texto']} espera pareja (cuota {x['cuota']}, sola no sale)")
+            continue   # no se apunta en «hechos»: si sale otra de cuota baja, se juntan
         p = post_suelto(x, x["_ini"], ahora, siguiente(f"{x['dia']}-pick-tip"))
         nuevos.append(p)
         hechos.add(clave(x))
-    for patas in combis.values():
+        if sel_de(x):
+            usos[x["dia"]][sel_de(x)] += 1
+    for nombre_combi, patas in combis.items():
+        from bot import CUOTA_MINIMA_POST
+        if nombre_combi in rotas:
+            print(f"Copiar tipsters: combinada {nombre_combi} no (le falta una pata)")
+            hechos.update(clave(x) for x in patas)
+            continue
+        tot = 1.0
+        for x in patas:
+            tot *= float(x.get("cuota") or 0) or 1
+        if tot < CUOTA_MINIMA_POST:   # 12/11: una combinada suya (o lo que queda de ella) por debajo de 1,35, no
+            print(f"Copiar tipsters: combinada @{tot:.2f} no (menos de {CUOTA_MINIMA_POST})")
+            hechos.update(clave(x) for x in patas)
+            continue
         if len(patas) == 1:   # una sola pata apuntada de la combinada: sale como pick suelto
             p = post_suelto(patas[0], patas[0]["_ini"], ahora, siguiente(f"{patas[0]['dia']}-pick-tip"))
         else:
