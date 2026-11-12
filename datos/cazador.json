@@ -32,17 +32,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "Albania",
-   "visitante": "Finland",
-   "inicio": "2026-11-12T20:45",
-   "texto": "Finland marca",
-   "cuota": 1.67,
-   "justa": 1.61,
-   "ev": 0.035,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
    "local": "SL Benfica W",
    "visitante": "Austria Wien W",
    "inicio": "2026-11-12T21:00",
@@ -51,6 +40,17 @@
    "justa": 2.68,
    "ev": 0.028,
    "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Montenegro",
+   "visitante": "Latvia",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Ambos marcan en Montenegro–Latvia",
+   "cuota": 2.5,
+   "justa": 2.44,
+   "ev": 0.026,
+   "fuente": "las otras casas",
    "edad_h": 0.0
   },
   {
@@ -76,6 +76,17 @@
    "edad_h": 0.0
   },
   {
+   "local": "Albania",
+   "visitante": "Finland",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Finland marca",
+   "cuota": 1.67,
+   "justa": 1.64,
+   "ev": 0.02,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Italy",
    "visitante": "France",
    "inicio": "2026-11-12T20:45",
@@ -96,21 +107,10 @@
    "ev": -0.004,
    "fuente": "las otras casas",
    "edad_h": 0.0
-  },
-  {
-   "local": "Montenegro",
-   "visitante": "Latvia",
-   "inicio": "2026-11-12T20:45",
-   "texto": "Montenegro marca 2 o más",
-   "cuota": 1.5,
-   "justa": 1.52,
-   "ev": -0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-12T11:08",
+  "hora": "2026-11-12T11:38",
   "revisadas": 0,
   "mejor": null
  },
