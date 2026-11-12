@@ -308,6 +308,10 @@ def stake(p):
     return 4 if pr >= 0.74 else 3 if pr >= 0.66 else 2
 
 
+SALUDOS_PICK = ("Vamos con el pick de hoy familia 🔥", "Pick que nos gusta mucho para hoy 👀", "Este lo tenemos claro 🔥",
+                "Os dejo el pick, familia 👇", "Pick de hoy, con datos detrás 📊", "Vamos con otro pick 🍀")
+
+
 def texto_seguro(p, dia=""):
     """01/11 (Marcos): un solo pick, el más seguro del día, con su balance acumulado.
     09/11: desde SEGURO_DESDE, con 2-3 razones reales y stake (como los tipsters grandes), sin «10€ → X€»."""
@@ -340,6 +344,8 @@ def texto_seguro(p, dia=""):
             print("ajustes redactor:", e)
         # 11/11: fuera los titulares de prensa sueltos («El deporte 'esquiva' la huelga (La Tribuna…)»): no explican el pick
         motivos = [m for m in motivos if not re.search(r"\([A-ZÁÉÍÓÚ][^()]{3,40}\)\s*$", m)]
+        if saludo == "Vamos con el pick de hoy familia 🔥":   # 12/11: el de siempre → variado (si Marcos no puso otro)
+            saludo = SALUDOS_PICK[sum(map(ord, f"{dia}{p.get('partido_id')}")) % len(SALUDOS_PICK)]
         if not con_razones:
             motivos = []
         lineas = [saludo, "",

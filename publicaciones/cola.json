@@ -4606,5 +4606,145 @@
       "facebook": null,
       "threads": "18116314904140356"
     }
+  },
+  {
+    "id": "2026-11-12-combi-partido-1528958-th",
+    "fecha": "2026-11-12T12:00",
+    "texto": "Os dejo la combi del Turquía – Bélgica ⚽🔥\n\n🍀 Bélgica gana alguna de las dos partes\n🍀 Bélgica marca 2 o más\n\n📈 Cuota @2,20\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528958|To Win Either Half|Away",
+      "1528958|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.57
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "tarjeta": {
+      "local": "Türkiye",
+      "visitante": "Belgium",
+      "id_l": 777,
+      "id_v": 1,
+      "logo_l": "https://media.api-sports.io/football/teams/777.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1.png",
+      "fecha": "2026-11-12T18:00",
+      "liga": "Nations League"
+    }
+  },
+  {
+    "id": "2026-11-12-combi-partido-1528960-th",
+    "fecha": "2026-11-12T19:45",
+    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Francia gana alguna de las dos partes\n\n📈 Cuota @2,35",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528960|Both Teams Score|Yes",
+      "1528960|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.57,
+      1.5
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "tarjeta": {
+      "local": "Italy",
+      "visitante": "France",
+      "id_l": 768,
+      "id_v": 2,
+      "logo_l": "https://media.api-sports.io/football/teams/768.png",
+      "logo_v": "https://media.api-sports.io/football/teams/2.png",
+      "fecha": "2026-11-12T20:45",
+      "liga": "Nations League"
+    }
+  },
+  {
+    "id": "2026-11-12-pick-th-1",
+    "fecha": "2026-11-12T15:00",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n\n⚽ Barcelona (fem.) – Arsenal (fem.) · 18:45\n\n🍀 Barcelona (fem.) marca 3 o más @1,57\n🧠 Stake 2/10\n\n👨‍💻 Los partidos del Barcelona (fem.) llevan 4,9 goles de media (últimos 8).\n👨‍💻 La cuota de que gane el Barcelona (fem.) ha bajado de 1,33 a 1,17: el mercado lo ve más claro\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1638295|Total - Home|Over 2.5"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads"
+  },
+  {
+    "id": "2026-11-12-pick-th-2",
+    "fecha": "2026-11-12T17:00",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Navalcarnero – Real Betis · 19:00\n\n🍀 Real Betis marca 3 o más @1,62\n🧠 Stake 2/10\n\n👨‍💻 3 categorías de diferencia: el Real Betis juega en Primera y el Navalcarnero en Segunda Federación\n👨‍💻 Los partidos del Real Betis llevan 3,5 goles de media (últimos 8).\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1644363|Total - Away|Over 2.5"
+    ],
+    "cuotas": [
+      1.62
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads"
+  },
+  {
+    "id": "2026-11-12-combi-nations-th-1",
+    "fecha": "2026-11-12T17:15",
+    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x2,82! 🍀\n\n🇨🇾 Chipre marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528959|Total - Away|Over 0.5",
+      "1528963|Goals Over/Under|Over 1.5",
+      "1545613|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.44,
+      1.44
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads"
+  },
+  {
+    "id": "2026-11-12-combi-nations-th-2",
+    "fecha": "2026-11-12T19:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀\n\n🇮🇹 Italia marca\n🇫🇮 Finlandia marca\n🇭🇷 Croacia marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528960|Total - Home|Over 0.5",
+      "1528963|Total - Away|Over 0.5",
+      "1528962|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.62,
+      1.73
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads"
   }
 ]

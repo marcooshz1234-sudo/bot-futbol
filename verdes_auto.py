@@ -119,6 +119,9 @@ def main():
         post = {"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
                 "origen": "bot", "directo": True, "facebook": "foto", "resultado": "verde", "verde_de": p["id"],
                 "requiere_ok": True, "_combi": p}
+        for k in ("solo_en", "solo_redes"):   # 12/11: el verde va donde fue el post (uno solo de Threads → solo Threads)
+            if (originales.get(p["id"]) or {}).get(k):
+                post[k] = originales[p["id"]][k]
         foto = (originales.get(p["id"]) or {}).get("imagen") or (originales.get(p["id"]) or {}).get("foto")
         if boleto and isinstance(foto, str) and (RAIZ / foto).exists():   # con la captura recortada
             import shutil
