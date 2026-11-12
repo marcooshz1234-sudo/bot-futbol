@@ -17,13 +17,10 @@
   "repe-2026-11-12-1528963|Goals Over/Under|Over 1.5": "2026-11-12T09:28",
   "repe-2026-11-12-1545613|Total - Home|Over 1.5": "2026-11-12T09:28",
   "prensa-1528960-33988cb0": "2026-11-12T11:27",
-  "tarjeta-2026-11-12-combi-partido-1528958-th": "2026-11-12T11:49"
+  "tarjeta-2026-11-12-combi-partido-1528958-th": "2026-11-12T11:49",
+  "estrella-2026-11-12-combi-partido-1528960-th-KylianMbappé": "2026-11-12T12:00"
  },
  "abiertos": [
-  {
-   "clave": "tarjeta-2026-11-12-combi-partido-1528958-th",
-   "t": "🖼️ Sale a las 12:00 y falta su foto con escudos (sin ella no sale): Os dejo la combi del Turquía – Bélgica ⚽🔥"
-  },
   {
    "clave": "repe-2026-11-12-1638295|Total - Home|Over 2.5",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (pick-th-1, combi-tres, combi-multi)"
@@ -37,8 +34,8 @@
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
   },
   {
-   "clave": "estrella-2026-11-12-combi-partido-1528958-th-KylianMbappé",
-   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «Os dejo la combi del Turquía – Bélgica ⚽🔥» (12:00) va a favor de ese equipo: te propongo quitarlo"
+   "clave": "estrella-2026-11-12-combi-partido-1528960-th-KylianMbappé",
+   "t": "⭐ Italia–Francia: «Mbappé no jugará contra Italia en la Nations League: Zidane explica porqué» (https://fomoera.com/). «Os dejo la combi del Italia – Francia ⚽🔥» (19:45) va a favor de ese equipo: te propongo quitarlo"
   },
   {
    "clave": "prensa-1528960-39ede3d9",
@@ -61,8 +58,12 @@
    "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   }
  ],
- "revisado": "2026-11-12T11:49",
+ "revisado": "2026-11-12T12:00",
  "historial": [
+  {
+   "hora": "2026-11-12T12:00",
+   "t": "⭐ Italia–Francia: «Mbappé no jugará contra Italia en la Nations League: Zidane explica porqué» (https://fomoera.com/). «Os dejo la combi del Italia – Francia ⚽🔥» (19:45) va a favor de ese equipo: te propongo quitarlo"
+  },
   {
    "hora": "2026-11-12T11:49",
    "t": "🖼️ Sale a las 12:00 y falta su foto con escudos (sin ella no sale): Os dejo la combi del Turquía – Bélgica ⚽🔥"
