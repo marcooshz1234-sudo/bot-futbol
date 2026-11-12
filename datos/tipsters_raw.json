@@ -403,6 +403,21 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-12T18:26"
+  },
+  {
+   "id": "Tipsanalistas/37070",
+   "fecha": "2026-11-12T17:30",
+   "texto": "",
+   "foto": true,
+   "foto_ruta": "datos/tipsters_fotos/TipsAnalistas_37070.jpg",
+   "visto": "2026-11-12T18:57"
+  },
+  {
+   "id": "Tipsanalistas/37071",
+   "fecha": "2026-11-12T17:30",
+   "texto": "Han volado las plazas! De 1000 solo quedan 286! Que locura, al llenarse cierro 🔐\n\nEstá en todas las casas, aguanta la cuota! \n\nSi la vendo es por algo, merece la pena",
+   "foto": false,
+   "visto": "2026-11-12T18:57"
   }
  ],
  "Tipster Pérez": [
@@ -1182,6 +1197,13 @@
    "texto": "⏰… ¡En 30 minutos comienza nuestra apuesta! \n\n🔔 ¡Acitven Notificaciones del Canal! POSIBLE LIVE",
    "foto": false,
    "visto": "2026-11-12T17:54"
+  },
+  {
+   "id": "-1001468963672/46993",
+   "fecha": "2026-11-12T18:53",
+   "texto": "✅ Bélgica Gol \nPendiente España",
+   "foto": false,
+   "visto": "2026-11-12T18:57"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -3261,6 +3283,29 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-12T18:26"
+  },
+  {
+   "id": "-1001550157115/100248",
+   "fecha": "2026-11-12T18:46",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-12T18:57"
+  },
+  {
+   "id": "-1001550157115/100249",
+   "fecha": "2026-11-12T18:47",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-12T18:57",
+   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100249.jpg"
+  },
+  {
+   "id": "-1001550157115/100250",
+   "fecha": "2026-11-12T18:56",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-12T18:57",
+   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100250.jpg"
   }
  ],
  "MisterBasquet 🏀": [
@@ -5750,6 +5795,43 @@
    "texto": "🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨",
    "foto": false,
    "visto": "2026-11-12T17:54"
+  },
+  {
+   "id": "-1002181392017/15404",
+   "fecha": "2026-11-12T18:43",
+   "texto": "✅✅✅✅✅✅✅✅✅✅✅",
+   "foto": false,
+   "visto": "2026-11-12T18:57"
+  },
+  {
+   "id": "-1002181392017/15403",
+   "fecha": "2026-11-12T18:43",
+   "texto": "30 minutazos ✅🔥",
+   "foto": false,
+   "visto": "2026-11-12T18:57"
+  },
+  {
+   "id": "-1002181392017/15405",
+   "fecha": "2026-11-12T18:44",
+   "texto": "✅ APUESTA ACERTADA  ✅",
+   "foto": true,
+   "visto": "2026-11-12T18:57",
+   "foto_ruta": "datos/tipsters_fotos/__15405.jpg"
+  },
+  {
+   "id": "-1002181392017/15407",
+   "fecha": "2026-11-12T18:47",
+   "texto": "LAS PLAZAS VUELAN ✈️",
+   "foto": false,
+   "visto": "2026-11-12T18:57"
+  },
+  {
+   "id": "-1002181392017/15406",
+   "fecha": "2026-11-12T18:47",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-12T18:57",
+   "foto_ruta": "datos/tipsters_fotos/__15406.jpg"
   }
  ],
  "INSIDER Tenis": [
