@@ -29,7 +29,7 @@
    "justa": 2.89,
    "ev": 0.036,
    "fuente": "las otras casas",
-   "edad_h": 2.2
+   "edad_h": 2.6
   },
   {
    "local": "Salamanca UDS",
@@ -40,7 +40,7 @@
    "justa": 3.2,
    "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 2.2
+   "edad_h": 2.6
   },
   {
    "local": "Liechtenstein",
@@ -51,7 +51,7 @@
    "justa": 3.21,
    "ev": 0.013,
    "fuente": "las otras casas",
-   "edad_h": 2.2
+   "edad_h": 2.6
   },
   {
    "local": "Andorra",
@@ -62,7 +62,7 @@
    "justa": 2.21,
    "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 2.2
+   "edad_h": 2.6
   },
   {
    "local": "Moldova",
@@ -73,11 +73,11 @@
    "justa": 3.28,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 2.2
+   "edad_h": 2.6
   }
  ],
  "ultima": {
-  "hora": "2026-11-12T22:10",
+  "hora": "2026-11-12T22:34",
   "revisadas": 0,
   "mejor": null
  },

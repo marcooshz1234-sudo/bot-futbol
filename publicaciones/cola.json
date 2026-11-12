@@ -5380,6 +5380,25 @@
     "verde_de": "2026-11-12-combi-nations-th-1",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18128721979901492",
+      "threads_enlace": "18118956122016216"
+    }
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-3",
+    "fecha": "2026-11-12T22:49",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 2,5 goles Italia–Francia\n\n📈 Cuota @1,66\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-3.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-tip-3"
   }
 ]
