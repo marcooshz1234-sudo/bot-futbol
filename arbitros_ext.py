@@ -1,8 +1,9 @@
 """12/11 (Marcos: «sale el nombre del árbitro pero no la media de amarillas»).
 
 Solo teníamos tarjetas de los árbitros de las ligas que sigue el bot (picks.indice_arbitros). Para los de los
-partidos de hoy y mañana que no conocemos (selecciones, Copa, Champions femenina…), se buscan en API-Football sus
-últimos partidos pitados (hasta 8) y las tarjetas de cada uno. Se guarda en datos/arbitros_ext.json y no se vuelve
+partidos de hoy y mañana que no conocemos (selecciones, Copa, Champions femenina…), se buscan sus últimos partidos
+pitados (hasta 8) y las tarjetas de cada uno. La API NO deja buscar por árbitro («The Referee field do not exist»,
+12/11): se piden los calendarios de las competiciones UEFA y las 5 grandes (una petición cada una) y se filtra. Se guarda en datos/arbitros_ext.json y no se vuelve
 a pedir en 7 días. Tope de peticiones por pasada para no comerse la cuota.
 """
 import os
@@ -13,6 +14,24 @@ from bot import API, DATOS, EXTRA, MADRID, LimiteAlcanzado, leer
 SALIDA = DATOS / "arbitros_ext.json"
 MAX_PETICIONES_PASADA = 90
 POR_ARBITRO = 8
+# Champions, Europa, Conference, Nations, clasif. Mundial y Euro, Champions femenina y las 5 grandes
+COMPETICIONES = (2, 3, 848, 5, 32, 960, 525, 140, 39, 135, 78, 61)
+
+
+def partidos_pitados(api, ahora, usadas):
+    """{árbitro normalizado: [partidos terminados]} de esas competiciones (esta temporada y la anterior)."""
+    from picks import nombre_arbitro
+    por = {}
+    for liga in COMPETICIONES:
+        for temporada in (ahora.year, ahora.year - 1):
+            if usadas[0] >= MAX_PETICIONES_PASADA // 3:
+                return por
+            r = api.get("fixtures", league=liga, season=temporada, status="FT-AET-PEN") or []
+            usadas[0] += 1
+            for x in r:
+                if (x.get("fixture") or {}).get("referee"):
+                    por.setdefault(nombre_arbitro(x["fixture"]["referee"]), []).append(x)
+    return por
 
 
 def tarjetas_partido(api, fid):
@@ -52,33 +71,23 @@ def main():
     api = API(clave)
     ahora = datetime.now(MADRID)
     datos = leer(SALIDA, {}) or {}
-    usadas = 0
+    usadas = [0]
     vistos = set()
     try:
-        for arb, crudo in arbitros_pendientes(ahora):
-            if arb in vistos or usadas >= MAX_PETICIONES_PASADA:
+        pendientes = [(a, c) for a, c in arbitros_pendientes(ahora)]
+        pitados = partidos_pitados(api, ahora, usadas) if pendientes else {}
+        for arb, crudo in pendientes:
+            if arb in vistos or usadas[0] >= MAX_PETICIONES_PASADA:
                 continue
             vistos.add(arb)
-            partidos = []
-            # 12/11: con «Nombre» a secas la API devolvía 0 partidos de todos; se prueba también el nombre tal cual
-            # viene en el partido («Nombre, País») y sin temporada
-            for nombre, temporada in ((crudo, ahora.year), (arb, ahora.year), (crudo, ahora.year - 1), (arb, None)):
-                if usadas >= MAX_PETICIONES_PASADA:
-                    break
-                params = {"referee": nombre, **({"season": temporada} if temporada else {})}
-                r = api.get("fixtures", **params) or []
-                usadas += 1
-                partidos += [x for x in r if (x.get("fixture") or {}).get("status", {}).get("short") in ("FT", "AET", "PEN")]
-                if len(partidos) >= POR_ARBITRO:
-                    break
-            partidos = list({x["fixture"]["id"]: x for x in partidos}.values())   # sin repetidos
+            partidos = list({x["fixture"]["id"]: x for x in pitados.get(arb, [])}.values())   # sin repetidos
             partidos.sort(key=lambda x: x["fixture"]["date"], reverse=True)
             tarjetas = []
             for x in partidos[:POR_ARBITRO]:
-                if usadas >= MAX_PETICIONES_PASADA:
+                if usadas[0] >= MAX_PETICIONES_PASADA:
                     break
                 t = tarjetas_partido(api, x["fixture"]["id"])
-                usadas += 1
+                usadas[0] += 1
                 if t is not None:
                     tarjetas.append(t)
             if tarjetas:   # si no sale nada, se vuelve a probar en la siguiente pasada
@@ -88,7 +97,7 @@ def main():
     except LimiteAlcanzado:
         print("arbitros_ext: límite de peticiones")
     SALIDA.write_text(__import__("json").dumps(datos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"arbitros_ext: {usadas} peticiones")
+    print(f"arbitros_ext: {usadas[0]} peticiones")
 
 
 if __name__ == "__main__":

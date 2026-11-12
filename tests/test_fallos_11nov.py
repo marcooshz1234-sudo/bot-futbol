@@ -345,8 +345,13 @@ class TestFallos11Nov(unittest.TestCase):
         class FakeAPI:
             def __init__(self, k): pass
             def get(self, ruta, **p):
-                if ruta == "fixtures":
-                    return [{"fixture": {"id": i, "date": f"2026-10-0{i}", "status": {"short": "FT"}}} for i in range(1, 4)]
+                if ruta == "fixtures":   # 12/11: la API no deja buscar por árbitro; se filtra el calendario
+                    assert "referee" not in p and "league" in p, p
+                    if p["league"] != 5:
+                        return []
+                    return [{"fixture": {"id": i, "date": f"2026-10-0{i}", "status": {"short": "FT"},
+                                         "referee": "Sandro Schärer, Switzerland" if i < 4 else "Otro, Italy"}}
+                            for i in range(1, 6)]
                 return [{"statistics": [{"type": "Yellow Cards", "value": 2}, {"type": "Red Cards", "value": None}]},
                         {"statistics": [{"type": "Yellow Cards", "value": 3}]}]
         with tempfile.TemporaryDirectory() as d:
