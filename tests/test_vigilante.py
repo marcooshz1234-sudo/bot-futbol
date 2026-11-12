@@ -76,6 +76,15 @@ class TestVigilante(unittest.TestCase):
         self.assertIn("repe", self.revisar(posts))
         self.assertNotIn("repe", self.revisar(posts[:2] + [dict(posts[2], id="2026-11-12-ganadores-win-1")]))
 
+    def test_se_contradicen(self):   # 12/11 (Marcos: «nunca chocar»)
+        a = post(1, "2026-11-12T20:00", sel=["9|Match Winner|Home"])
+        self.assertIn("choca", self.revisar([a, post(2, "2026-11-12T20:00", sel=["9|Match Winner|Away"])]))
+        self.assertNotIn("choca", self.revisar([a, post(2, "2026-11-12T20:00", sel=["9|Goals Over/Under|Over 1.5"])]))
+        # en la loca se permite el «o empate»
+        loca = post("loca", "2026-11-12T20:00", sel=["9|Double Chance|Draw/Away"])
+        self.assertNotIn("choca", self.revisar([a, loca]))
+        self.assertIn("choca", self.revisar([a, dict(loca, id="2026-11-12-tres")]))
+
     def test_escalon_sin_resolver(self):
         with tempfile.TemporaryDirectory() as d:
             pub = Path(d)

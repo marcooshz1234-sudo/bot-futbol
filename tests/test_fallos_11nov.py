@@ -99,8 +99,9 @@ class TestFallos11Nov(unittest.TestCase):
 
     def test_cuentan_pick_y_estrella_en_max_dos(self):
         src = (RAIZ / "combis_dia.py").read_text(encoding="utf-8")
-        i = src.index('for x in (res.get("seguro"), res.get("seguro2"))')
-        self.assertLess(i, src.index('res["multi"] = combi_multi(pools, dia, dia_europeo, usos=usos)'))
+        i = src.index('usos[sel(res["seguro"][0])] += 1')
+        self.assertLess(src.index('usos.update(sel(p) for cp, *_ in res.get("estrella")'), i)
+        self.assertLess(i, src.index('res["multi"] = combi_multi(sin_choques(pools), dia, dia_europeo, usos=usos)'))
         self.assertLess(src.index('res["multi"] = combi_multi('), src.index('for clave, cfg in (("tres", TRES)'))
 
     def test_escalera_todo_anulado_repite_escalon(self):

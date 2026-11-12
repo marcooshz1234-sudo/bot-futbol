@@ -166,6 +166,16 @@ def revisar(ahora=None):
         for s, n in usos.items():
             if n > 2:
                 out.append((f"repe-{dia}-{s}", f"🔁 {dia[8:]}/{dia[5:7]}: el mismo pronóstico en {n} posts ({', '.join(donde[s])})"))
+        # 6b. 12/11 (Marcos: «nunca chocar»): dos posts del mismo partido que no pueden ganar los dos
+        from plantillas import choca
+        loca_dc = lambda x: x.split("|")[1] == "Double Chance" and all("loca" in i for i in donde[x])
+        todas = sorted(s for s in usos if str(s).count("|") == 2 and not loca_dc(s))   # la loca puede llevar «o empate»
+        for i, s in enumerate(todas):
+            for otra in todas[i + 1:]:
+                if choca(s, [otra]):
+                    out.append((f"choca-{dia}-{s}-{otra}",
+                                f"⚔️ {dia[8:]}/{dia[5:7]}: se contradicen ({', '.join(donde[s])}: {s.split('|', 1)[1]} "
+                                f"↔ {', '.join(donde[otra])}: {otra.split('|', 1)[1]})"))
 
     # 9. pasos del bucle que fallan
     log = DATOS / "bucle_log.txt"

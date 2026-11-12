@@ -244,12 +244,35 @@ def cumple(p, gl, gv):
     if m == "Match Winner":
         return {"Home": gl > gv, "Away": gv > gl, "Draw": gl == gv}.get(o)
     if m == "Double Chance":
-        return {"Home/Draw": gl >= gv, "Draw/Away": gv >= gl}.get(o)
+        return {"Home/Draw": gl >= gv, "Draw/Away": gv >= gl, "Home/Away": gl != gv}.get(o)
+    if m == "Goals Over/Under" and o.startswith("Under"):
+        return gl + gv < linea()
     if m == "Total - Home" and o.startswith("Over"):
         return gl > linea()
     if m == "Total - Away" and o.startswith("Over"):
         return gv > linea()
     return None
+
+
+def compatibles(patas):
+    """12/11 (Marcos: «los picks de un mismo partido no pueden contradecirse: si en uno pones que gana Francia, en
+    otro no puedes poner que gana Italia… nunca chocar»): ¿hay algún marcador con el que se acierten TODAS las patas
+    de un mismo partido? patas: [{"mercado", "opcion"}]. Lo que no depende solo del marcador no limita."""
+    for gl in range(9):
+        for gv in range(9):
+            if all(cumple(p, gl, gv) is not False for p in patas):
+                return True
+    return False
+
+
+def choca(sel, otras):
+    """¿La selección «fid|mercado|opción» choca con alguna de las otras del MISMO partido?"""
+    fid, m, o = str(sel).split("|", 2)
+    mismas = [x for x in otras if str(x).split("|", 1)[0] == fid and x != sel]
+    if not mismas:
+        return False
+    a_pata = lambda s_: dict(zip(("mercado", "opcion"), str(s_).split("|", 2)[1:]))
+    return not compatibles([a_pata(sel)] + [a_pata(x) for x in mismas])
 
 
 def resultados_probables(cp, tj, n=3):

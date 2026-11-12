@@ -956,6 +956,19 @@ def noche_fija():
     return DATOS / "noche_elegidos.json"
 
 
+def ya_publicadas(dia):
+    """Selecciones de los posts de ese día que YA han salido (cola a mano y auto publicados)."""
+    from bot import RAIZ
+    pub = RAIZ / "publicaciones"
+    env = {**(leer(pub / "enviados.json", {}) or {}), **(leer(pub / "enviados_redes.json", {}) or {})}
+    out = []
+    for p in (leer(pub / "cola.json", []) or []) + (leer(pub / "auto.json", []) or []):
+        salio = p.get("enviado") or any((p.get("redes") or {}).values()) or p["id"] in env
+        if p["id"].startswith(dia) and salio and not p.get("verde_de") and not p.get("borrar"):
+            out += [s_ for s_ in p.get("sel") or [] if str(s_).count("|") == 2]
+    return out
+
+
 def guardar_picks_partidos(dia, pools, hist, por_partido=5):
     """12/11 (Marcos: «un apartado con todos los picks del día por hora y partido, con cuotas… y datos buenos de
     cada partido»): datos/picks_partidos.json → {dia: [{partido_id, fecha, local, visitante, liga, picks, datos}]}.
@@ -1138,30 +1151,40 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         res["partidos"] = rehacer(res["partidos"])
         res["noche"] = rehacer(res["noche"])
         salida = res["partidos"]
-    # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
-    res["seguro"] = pick_seguro(pools, dia)
-    if dia >= SEGURO_DESDE:
-        res["seguro2"] = pick_seguro(pools, dia, segundo=res["seguro"][0] if res["seguro"] else None)
     f0 = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     # 27/10 (norma de Marcos): una misma selección en 2 posts como mucho (combis de partido, escalera, x3, loca)
     from collections import Counter
+    from plantillas import choca
     sel = lambda p: f"{p['partido_id']}|{p['mercado']}|{p['opcion']}"
     usos = Counter(sel(p) for cp, _, _, _ in salida for p in cp["picks"])
+    usos.update(sel(p) for cp, *_ in res.get("estrella") or [] for p in cp["picks"])
     esc = (leer(DATOS / "escalera.json") or {}).get("actual") or {}
     if esc.get("dia") == dia:
         usos.update(sel(p) for p in esc.get("picks", []))
+    usos.update(ya_publicadas(dia))   # lo que ya salió ese día (a mano o del bot)
+
+    def sin_choques(ps, loca=False):
+        """12/11 (Marcos: «lo de un mismo partido no puede contradecirse, nunca»): fuera lo que choca con lo ya
+        elegido de ese partido. En la loca se deja un «o empate» (Marcos: «en una loca sí, de normal no»)."""
+        return [[p for p in pool if not choca(sel(p), list(usos)) or (loca and p["mercado"] == "Double Chance")]
+                for pool in ps]
+    # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
+    res["seguro"] = pick_seguro(sin_choques(pools), dia)
+    if res["seguro"]:
+        usos[sel(res["seguro"][0])] += 1
+    if dia >= SEGURO_DESDE:
+        res["seguro2"] = pick_seguro(sin_choques(pools), dia, segundo=res["seguro"][0] if res["seguro"] else None)
+        if res.get("seguro2"):
+            usos[sel(res["seguro2"][0])] += 1
     # 11/11 (Marcos: «máx. 2 veces»): también cuentan el pick del día, el 2º pick y el estrella; la multi lo respeta
-    for x in (res.get("seguro"), res.get("seguro2")):
-        if x:
-            usos[sel(x[0])] += 1
-    usos.update(sel(p) for cp, *_ in res["estrella"] for p in cp["picks"])
-    res["multi"] = combi_multi(pools, dia, dia_europeo, usos=usos)
+    res["multi"] = combi_multi(sin_choques(pools), dia, dia_europeo, usos=usos)
     if res["multi"]:
         usos.update(sel(p) for p in res["multi"][0])
     for clave, cfg in (("tres", TRES), ("loca", LOCA)):
         hora = f0.replace(hour=cfg["hora"][0], minute=cfg["hora"][1])
         mejores = []
-        for pool in pools:
+        pools_ok = sin_choques(pools, loca=clave == "loca")
+        for pool in pools_ok:
             ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI and usos[sel(p)] < 2 and not suelto_no(p) and fijisimo(p)
                   and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
             if ok:
@@ -1171,7 +1194,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
                         por_partido=cfg.get("por_partido", 1), min_jugadores=cfg.get("min_jugadores", 0))
         if not r:   # 02/11: el lunes no salió la loca (con las probabilidades corregidas no llegaba): se afloja un poco
             mas = []
-            for pool in pools:
+            for pool in pools_ok:
                 ok = [p for p in pool if p["prob_aprendida"] >= PROB_MIN_MULTI - 0.08 and usos[sel(p)] < 2 and not suelto_no(p)
                       and fijisimo(p)
                       and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(minutes=60)]
@@ -1184,7 +1207,8 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             seg = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
             ya |= {(p["partido_id"], p["mercado"], p["opcion"]) for p in seg}
             tk = pick_de_tipster(pools, dia, hora, usados=ya, rango=(1.20, 2.20))
-            if tk and tk["partido_id"] not in {p["partido_id"] for p in r[1]} and usos[sel(tk)] < 2:
+            if tk and tk["partido_id"] not in {p["partido_id"] for p in r[1]} and usos[sel(tk)] < 2 \
+                    and not choca(sel(tk), list(usos)):
                 patas = sorted(r[1] + [tk], key=lambda p: p.get("fecha", ""))
                 import math
                 r = (r[0], patas, round(math.prod(p["cuota"] for p in patas), 2))
