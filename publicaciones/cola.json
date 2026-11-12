@@ -4636,7 +4636,18 @@
       "fecha": "2026-11-12T18:00",
       "liga": "Nations League"
     },
-    "cuota_total": 1.6
+    "cuota_total": 1.6,
+    "foto_tg": "publicaciones/media/2026-11-12-combi-partido-1528958-th.tarjeta.jpg",
+    "enviado": "2026-11-12T14:20",
+    "mensaje_id": 420,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17886615603627996",
+      "threads_enlace": "18127207250299026"
+    }
   },
   {
     "id": "2026-11-12-combi-partido-1528960-th",
