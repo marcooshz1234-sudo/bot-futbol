@@ -16,20 +16,25 @@
   "repe-2026-11-12-1638295|Total - Home|Over 2.5": "2026-11-12T09:08",
   "repe-2026-11-12-1528963|Goals Over/Under|Over 1.5": "2026-11-12T09:28",
   "repe-2026-11-12-1545613|Total - Home|Over 1.5": "2026-11-12T09:28",
-  "prensa-1528960-33988cb0": "2026-11-12T11:27"
+  "prensa-1528960-33988cb0": "2026-11-12T11:27",
+  "tarjeta-2026-11-12-combi-partido-1528958-th": "2026-11-12T11:49"
  },
  "abiertos": [
+  {
+   "clave": "tarjeta-2026-11-12-combi-partido-1528958-th",
+   "t": "🖼️ Sale a las 12:00 y falta su foto con escudos (sin ella no sale): Os dejo la combi del Turquía – Bélgica ⚽🔥"
+  },
   {
    "clave": "repe-2026-11-12-1638295|Total - Home|Over 2.5",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (pick-th-1, combi-tres, combi-multi)"
   },
   {
-   "clave": "repe-2026-11-12-1545613|Total - Home|Over 1.5",
-   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
-  },
-  {
    "clave": "repe-2026-11-12-1528963|Goals Over/Under|Over 1.5",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, combi-loca)"
+  },
+  {
+   "clave": "repe-2026-11-12-1545613|Total - Home|Over 1.5",
+   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
   },
   {
    "clave": "estrella-2026-11-12-combi-partido-1528958-th-KylianMbappé",
@@ -56,8 +61,12 @@
    "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   }
  ],
- "revisado": "2026-11-12T11:38",
+ "revisado": "2026-11-12T11:49",
  "historial": [
+  {
+   "hora": "2026-11-12T11:49",
+   "t": "🖼️ Sale a las 12:00 y falta su foto con escudos (sin ella no sale): Os dejo la combi del Turquía – Bélgica ⚽🔥"
+  },
   {
    "hora": "2026-11-12T11:27",
    "t": "📰 Italia–Francia: «Tchouaméni es baja para Francia por lesión previo a los duelos por Liga de Naciones» (Por Esto!) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
