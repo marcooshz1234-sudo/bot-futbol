@@ -801,5 +801,32 @@
    0
   ],
   "corregido": "12/11 ojeador: 3-0 (foto de bet365 del tipster, gol 90')"
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/46985",
+  "dia": "2026-11-12",
+  "hora": "18:00",
+  "local": "Türkiye",
+  "visitante": "Belgium",
+  "texto": "Bélgica marca (Turquía no deja la portería a 0)",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "cuota": 1.12,
+  "stake": 3,
+  "argumento": [
+   "Turquía ha perdido sus 4 partidos de Nations League, incluido un 0-3 ante Bélgica en octubre",
+   "Bélgica sigue luchando por clasificarse y vuelve De Bruyne, que marcó 2 en la ida",
+   "Turquía solo deja la portería a 0 en el 20% de partidos; Bélgica marca en el 80%"
+  ],
+  "por_que": [
+   "Venía en una doble con «España marca en la 1ª parte» (1,36), mercado prohibido para nosotros: solo apuntamos esta pata. Bet365 la da a 1,11: precio justo, muy poca cuota."
+  ],
+  "partido_id": 1528958,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.11,
+   "prob_cuota": 0.893
+  }
  }
 ]

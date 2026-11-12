@@ -28,7 +28,7 @@
    "prob_cuota": 0.667
   },
   "Tipster Pérez": {
-   "n": 4,
+   "n": 5,
    "verdes": 1,
    "rojos": 3,
    "nulos": 0,
@@ -141,6 +141,13 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "Total - Away Over 0.5": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Asian Handicap Home -0.25": {
    "n": 1,
    "verdes": 0,
@@ -202,13 +209,6 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.735
   },
-  "Total - Away Over 0.5": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "Total - Home Over 1.5": {
    "n": 1,
    "verdes": 0,
@@ -219,7 +219,7 @@
  },
  "equipo": {
   "—": {
-   "n": 18,
+   "n": 19,
    "verdes": 3,
    "rojos": 2,
    "nulos": 0,
@@ -339,6 +339,15 @@
   }
  },
  "razon": {
+  "goles": {
+   "n": 14,
+   "verdes": 1,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": -2.36,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.893
+  },
   "sin razón": {
    "n": 13,
    "verdes": 3,
@@ -347,15 +356,6 @@
    "unidades": 0.0,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.936
-  },
-  "goles": {
-   "n": 13,
-   "verdes": 1,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": -2.36,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 2.893
   },
   "casa/fuera": {
    "n": 7,
@@ -412,7 +412,7 @@
  },
  "cuota": {
   "<1,50": {
-   "n": 15,
+   "n": 16,
    "verdes": 1,
    "rojos": 1,
    "nulos": 0,
@@ -457,7 +457,7 @@
    "prob_cuota": 3.903
   },
   "UEFA Nations League": {
-   "n": 8,
+   "n": 9,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -484,7 +484,7 @@
  },
  "lado": {
   "visitante": {
-   "n": 14,
+   "n": 15,
    "verdes": 5,
    "rojos": 3,
    "nulos": 0,
@@ -513,7 +513,7 @@
  },
  "por_que": {
   "goles": {
-   "n": 15,
+   "n": 16,
    "verdes": 4,
    "rojos": 1,
    "nulos": 0,
@@ -581,7 +581,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 34,
+   "n": 35,
    "verdes": 8,
    "rojos": 7,
    "nulos": 0,
