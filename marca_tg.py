@@ -27,6 +27,14 @@ SALUDOS = [
     "☀️ ¡Arriba, familia!\n\nHoy venimos a por todas 💪🍀",
     "🌅 Buenos días 👋\n\n¿Preparados? Hoy hay mucho que sacar 👀",
 ]
+# 12/11 (Marcos: «y añade: lo que vaya saliendo lo iremos subiendo también… dale tu toque»): cambia cada día
+EXTRA = [
+    "⚡ Y si durante el día sale algo bueno, aquí lo tendréis al momento",
+    "📲 Lo que vaya cayendo a lo largo del día, lo subimos sobre la marcha 🔥",
+    "👀 Y atentos, que lo que salga bueno durante el día también va para vosotros",
+    "🔥 Y esto es solo el principio: lo que aparezca, lo iréis viendo aquí",
+    "💚 Y si encontramos algo que merezca la pena, os lo dejamos al instante",
+]
 NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
            ("combi-tres", "Combi del día"), ("combi-partido", "Combi de partido"), ("combi-loca", "La loca"),
            ("combi-multi", "Combi larga")]
@@ -85,7 +93,7 @@ def buenos_dias(ahora, est):
         return None
     foto = MARCA / f"buenos-dias-{ahora.toordinal() % 3 + 1}.jpg"
     texto = (elegir(SALUDOS, dia) + "\n\n📋 Hoy en el canal:\n" + "\n".join(ag[:6])
-             + "\n\n➕ Y lo que vaya saliendo, lo iremos subiendo también 👀\n\n🔔 Activad las notificaciones")
+             + "\n\n" + elegir(EXTRA, dia + "x") + "\n\n🔔 Activad las notificaciones")
     enviar(foto, texto)
     est["buenos_dias"] = dia
     return texto
