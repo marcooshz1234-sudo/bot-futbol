@@ -969,5 +969,45 @@
    "cuota_bet365": 1.28,
    "prob_cuota": 0.775
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100245",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "partido_id": 1528961,
+  "texto": "España gana al descanso",
+  "mercado": "First Half Winner",
+  "opcion": "Away",
+  "cuota": 1.61,
+  "stake": 3,
+  "argumento": [
+   "Chequia ha perdido sus 5 últimos partidos y España ha ganado los 5"
+  ],
+  "por_que": [
+   "Pronóstico gratuito del canal (12/11 18:04, boleto bet365 @1,61). Apuntado por Claude."
+  ]
+ },
+ {
+  "tipster": "STAKE REAL | JB APUESTAS",
+  "fuente": "-1001938149766/12654",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "England",
+  "visitante": "Croatia",
+  "partido_id": 1528962,
+  "texto": "Jordan Pickford (Inglaterra), más de 1,5 paradas",
+  "mercado": "Goalkeeper Saves",
+  "opcion": "Jordan Pickford - 2",
+  "cuota": 1.66,
+  "stake": 2,
+  "argumento": [
+   "Croacia llega con 3 derrotas seguidas pero siempre llega arriba con Kramarić y Perišić"
+  ],
+  "por_que": [
+   "Apuesta gratuita del canal (12/11 16:08, boleto bet365 @1,66, Sustituto+). Apuntado por Claude; el verde, a mano."
+  ]
  }
 ]
