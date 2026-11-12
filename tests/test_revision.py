@@ -61,6 +61,16 @@ class TestRevision(unittest.TestCase):
             self.assertIn("baja", noticias.tipos(t), t)
         self.assertRegex(noticias.norm("Italia vs Francia: Momios y pronóstico"), noticias.RUIDO)
 
+    def test_titular_de_otro_partido(self):   # 12/11: propuso quitar la escalera de Bélgica por Mbappé
+        self.datos([{"titulo": "Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?", "fuente": "X"}])
+        with mock.patch.object(R, "_TODOS", {"turquia", "belgica", "francia", "italia", "italy", "france"}), \
+                mock.patch.object(R, "nombres_equipo", lambda n: {"turquia"} if n == "Italy" else {"belgica"}):
+            self.assertEqual(R.bajas_partido(7), [])
+
+    def test_protagonistas(self):
+        self.assertIn("tchouameni", R.protagonistas("Aurélien Tchouaméni es baja por lesión"))
+        self.assertIn("tchouameni", R.protagonistas("Tchouaméni vuelve a lesionarse y abandona Francia"))
+
     def test_prensa_inglesa(self):
         self.datos([{"titulo": "Virgil van Dijk Withdraws From France Squad", "fuente": "X"}])
         self.assertEqual(R.bajas_partido(7)[0]["tipo"], "baja")
@@ -87,7 +97,8 @@ class TestRevision(unittest.TestCase):
         otro = dict(post, id="2026-11-12-pick", sel=["7|Total - Home|Over 0.5"], requiere_ok=False)
         vigilante.BOTONES.clear()
         with tempfile.TemporaryDirectory() as d, mock.patch.object(vigilante, "todos", lambda: [post, otro]), \
-                mock.patch.object(vigilante, "PUB", Path(d)), mock.patch("bot.partido_caido", lambda p: None):
+                mock.patch.object(vigilante, "PUB", Path(d)), mock.patch("bot.partido_caido", lambda p: None), \
+                mock.patch.object(vigilante, "ESTADO", Path(d) / "v.json"):
             (Path(d) / "control.json").write_text("{}")
             claves = [k for k, _ in vigilante.revisar(datetime(2026, 11, 12, 9, 0, tzinfo=MADRID))]
         self.assertTrue(any(k.startswith("estrella-2026-11-12-combi-partido-7") for k in claves))

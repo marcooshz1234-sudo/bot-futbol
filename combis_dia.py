@@ -15,6 +15,7 @@ mercados de nuestro equipo (con sus datos). Probabilidad = la aprendida (aprende
 """
 import itertools
 import math
+from collections import Counter
 from datetime import datetime, timedelta
 
 from bot import DATOS, EXTRA, MADRID, leer
@@ -957,15 +958,23 @@ def noche_fija():
 
 
 def ya_publicadas(dia):
-    """Selecciones de los posts de ese día que YA han salido (cola a mano y auto publicados)."""
+    """Selecciones de los posts de ese día que YA han salido (cola a mano y auto publicados) y, 12/11, también los
+    de la cola a mano que están programados (los de Threads de Claude: Montenegro 2+ salía en 3 posts).
+    Los «ganadores» cuentan para no chocar pero no para el máx. 2 (como en el vigilante): van con 0 usos."""
     from bot import RAIZ
     pub = RAIZ / "publicaciones"
     env = {**(leer(pub / "enviados.json", {}) or {}), **(leer(pub / "enviados_redes.json", {}) or {})}
-    out = []
-    for p in (leer(pub / "cola.json", []) or []) + (leer(pub / "auto.json", []) or []):
+    control = leer(pub / "control.json", {}) or {}
+    fuera = set(control.get("cancelados") or []) | set(leer(pub / "borrados.json", []) or [])
+    out = Counter()
+    cola = leer(pub / "cola.json", []) or []
+    for p in cola + (leer(pub / "auto.json", []) or []):
         salio = p.get("enviado") or any((p.get("redes") or {}).values()) or p["id"] in env
-        if p["id"].startswith(dia) and salio and not p.get("verde_de") and not p.get("borrar"):
-            out += [s_ for s_ in p.get("sel") or [] if str(s_).count("|") == 2]
+        programado = p in cola and p["id"] not in fuera and not p.get("caducada")
+        if p["id"].startswith(dia) and (salio or programado) and not p.get("verde_de") and not p.get("borrar"):
+            for s_ in p.get("sel") or []:
+                if str(s_).count("|") == 2:
+                    out[s_] += 0 if any(k in p["id"] for k in ("ganadores", "lista-europa")) else 1
     return out
 
 
@@ -1171,7 +1180,8 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     esc = (leer(DATOS / "escalera.json") or {}).get("actual") or {}
     if esc.get("dia") == dia:
         usos.update(sel(p) for p in esc.get("picks", []))
-    usos.update(ya_publicadas(dia))   # lo que ya salió ese día (a mano o del bot)
+    for s_, n_ in ya_publicadas(dia).items():   # lo que ya salió ese día (a mano o del bot) y la cola programada
+        usos[s_] += n_
 
     def sin_choques(ps, loca=False):
         """12/11 (Marcos: «lo de un mismo partido no puede contradecirse, nunca»): fuera lo que choca con lo ya

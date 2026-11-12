@@ -89,6 +89,10 @@ def bajas_partido(fid):
         equipos = nombres_equipo(pa["teams"]["home"]["name"]) | nombres_equipo(pa["teams"]["away"]["name"])
         if not jugador and not any(re.search(rf"\b{re.escape(e)}\b", t) for e in equipos):
             continue
+        # 12/11: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» salió en Turquía–Bélgica y el bot propuso
+        # quitar la escalera de Bélgica. Si el titular nombra a un equipo que NO es de este partido, es de otro
+        if any(re.search(rf"\b{re.escape(e)}\b", t) for e in otros_equipos(equipos)):
+            continue
         estrella = bool(jugador or re.search(PALABRAS_ESTRELLA, t))
         out.append({"titulo": n["titulo"], "fuente": n.get("fuente", ""), "link": n.get("link"),
                     "tipo": "baja" if "baja" in tipos else "duda", "lado": lado_de(n["titulo"], pa),
@@ -99,6 +103,29 @@ def bajas_partido(fid):
         if not b["lado"] and b["jugador"] in sabido:
             b["lado"] = sabido[b["jugador"]]
     return out
+
+
+_TODOS = None
+
+
+def otros_equipos(estos):
+    """Nombres (normalizados) de todos los equipos de los partidos próximos, menos los de este partido."""
+    global _TODOS
+    if _TODOS is None:
+        _TODOS = set()
+        for f in (DATOS / "proximos").glob("*.json"):
+            pa = (leer(f, {}) or {}).get("partido") or {}
+            for lado in ("home", "away"):
+                if (pa.get("teams") or {}).get(lado):
+                    _TODOS |= nombres_equipo(pa["teams"][lado]["name"])
+    return {n for n in _TODOS - estos if len(n) > 3 and not any(n in e or e in n for e in estos)}
+
+
+def protagonistas(titulo):
+    """Palabras con mayúscula que no son de equipo (≈ nombres de jugador): para no avisar 6 veces de Tchouaméni."""
+    return {norm(w) for w in re.findall(r"\b[A-ZÁÉÍÓÚÑ][\wáéíóúñü'-]{4,}", titulo)} - {
+        "zidane", "nations", "league", "liga", "naciones", "francia", "italia", "espana", "alineacion", "seleccion",
+        "mundial", "copa", "champions"}
 
 
 def lados_sin_estrella(fid):

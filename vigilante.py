@@ -207,6 +207,13 @@ def revisar(ahora=None):
             for s in p.get("sel") or []:
                 if str(s).count("|") == 2 and p not in por_fid[str(s).split("|")[0]]:
                     por_fid[str(s).split("|")[0]].append(p)
+        avisados_prensa = {}
+        for h_ in (leer(ESTADO, {}) or {}).get("historial", []):
+            m = re.match(r"(?:📰|⭐) ([^:]+):", h_.get("t", ""))
+            if m and h_.get("hora", "")[:10] == ahora.strftime("%Y-%m-%d"):
+                for fid_ in por_fid:
+                    if revision.nombre_partido(fid_) == m.group(1):
+                        avisados_prensa.setdefault(fid_, set()).update(revision.protagonistas(h_["t"].split("«", 1)[-1].split("»")[0]))
         for fid, ps in por_fid.items():
             nombre = revision.nombre_partido(fid)
             for b in revision.bajas_partido(fid):
@@ -214,6 +221,11 @@ def revisar(ahora=None):
                 h = re.sub(r"\W+", "", b["jugador"]) if b.get("jugador") else hashlib.sha1(b["titulo"].encode()).hexdigest()[:8]
                 if any(k.endswith(f"-{h}") and k.startswith(("estrella-", f"prensa-{fid}-")) for k, _ in out):
                     continue
+                # mismo jugador en otro titular (Tchouaméni salió 6 veces): ya avisado hoy o en esta pasada
+                quien = revision.protagonistas(b["titulo"]) - revision.nombres_equipo(nombre)
+                if quien and quien & avisados_prensa.setdefault(fid, set()):
+                    continue
+                avisados_prensa[fid] |= quien
                 a_favor = [p for p in ps if b["lado"] and any(revision.favorece(s, b["lado"]) for s in p.get("sel") or []
                                                                if str(s).startswith(f"{fid}|"))]
                 if b["estrella"] and b["tipo"] == "baja" and a_favor:

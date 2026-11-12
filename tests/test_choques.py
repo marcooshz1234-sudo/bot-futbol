@@ -32,5 +32,29 @@ class TestChoques(unittest.TestCase):
         self.assertFalse(choca("1|Match Winner|Home", ["1|Cards Over/Under|Over 3.5"]))
 
 
+class TestMaxDosConCola(unittest.TestCase):
+    """12/11: los posts de la cola a mano aún sin salir también cuentan (Montenegro 2+ salía en 3 posts)."""
+    def test_cola_programada_cuenta(self):
+        import json, tempfile
+        from unittest import mock
+        import combis_dia as C
+        import bot
+        with tempfile.TemporaryDirectory() as d:
+            pub = Path(d) / "publicaciones"
+            pub.mkdir()
+            (pub / "cola.json").write_text(json.dumps([
+                {"id": "2026-11-12-pick-th-1", "sel": ["1|Total - Home|Over 1.5"]},
+                {"id": "2026-11-12-ganadores-x", "sel": ["1|Match Winner|Home"], "enviado": True},
+                {"id": "2026-11-12-cancelado", "sel": ["2|Match Winner|Home"]}]))
+            (pub / "auto.json").write_text("[]")
+            (pub / "control.json").write_text(json.dumps({"cancelados": ["2026-11-12-cancelado"]}))
+            with mock.patch.object(bot, "RAIZ", Path(d)):
+                u = C.ya_publicadas("2026-11-12")
+        self.assertEqual(u["1|Total - Home|Over 1.5"], 1)
+        self.assertIn("1|Match Winner|Home", u)          # cuenta para no chocar…
+        self.assertEqual(u["1|Match Winner|Home"], 0)    # …pero no para el máx. 2
+        self.assertNotIn("2|Match Winner|Home", u)
+
+
 if __name__ == "__main__":
     unittest.main()
