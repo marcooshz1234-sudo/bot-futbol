@@ -1660,12 +1660,12 @@
     "dia": "2026-11-12",
     "total": 20,
     "cuentas": {
-      "verde": 4,
-      "rojo": 0,
-      "pendiente": 9,
-      "sin_datos": 7,
+      "verde": 5,
+      "rojo": 3,
+      "pendiente": 11,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 16
+      "sin_resolver": 12
     },
     "combis": [
       {
@@ -1677,13 +1677,13 @@
       {
         "id": "2026-11-12-ganadores-copa",
         "titulo": "🏆 COPA DEL REY - GANADORES",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
         "id": "2026-11-12-pick-seguro",
         "titulo": "Pick de hoy, con datos detrás 📊",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -1701,7 +1701,7 @@
       {
         "id": "2026-11-12-combi-tip-1",
         "titulo": "Combinada para hoy, con cabeza ⚽",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -1737,7 +1737,7 @@
       {
         "id": "2026-11-12-pick-th-1",
         "titulo": "Pick que nos gusta mucho para hoy 👀",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1749,13 +1749,13 @@
       {
         "id": "2026-11-12-combi-multi",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-12-combi-loca",
         "titulo": "Y para los valientes, la loca del jueves 🤪🔥",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1790,10 +1790,10 @@
       }
     ],
     "picks": {
-      "verde": 8,
-      "rojo": 1,
+      "verde": 10,
+      "rojo": 4,
       "total": 42
     },
-    "texto": "📊 BALANCE DEL JUEVES: 4 DE 4 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❔ 🏆 COPA DEL REY - GANADORES · faltan datos\n❔ Pick de hoy, con datos detrás 📊 · faltan datos\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n❔ Combinada para hoy, con cabeza ⚽ · faltan datos\n❔ Vamos con una combinada cortita 👇 · faltan datos\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❔ Pick que nos gusta mucho para hoy 👀 · faltan datos\n⏳ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · pendiente\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀 · faltan datos\n❔ Y para los valientes, la loca del jueves 🤪🔥 · faltan datos\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n⏳ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · pendiente\n\n✅ 4 acertadas · ❌ 0 falladas · ⏳ 16 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 5 DE 8 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n✅ Pick de hoy, con datos detrás 📊\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n❔ Vamos con una combinada cortita 👇 · faltan datos\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❌ Pick que nos gusta mucho para hoy 👀\n⏳ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · pendiente\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n❌ Y para los valientes, la loca del jueves 🤪🔥\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n⏳ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · pendiente\n\n✅ 5 acertadas · ❌ 3 falladas · ⏳ 12 sin resolver"
   }
 }
