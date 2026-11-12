@@ -52,13 +52,14 @@ jobs:
           # solo se actualizaban una vez por ejecución) y se guarda cada 5 min como mucho
           paso() { local n=$1 t=$2; shift 2; local i=$(date +%s); local r=0; timeout -k 15 "$t" python -u "$@" || r=$?; echo "$(date -u +%H:%M:%S) $n ${r} $(( $(date +%s) - i ))s" >> datos/bucle_log.txt; [ $r -eq 0 ] || echo "Fallo en $n ($r)"; return 0; }
           # 03/11: las tareas lentas (cada 10 min) tardaban hasta 20 min y no se publicaba nada mientras: entre medias se publica
-          pub() { git pull --rebase --autostash -X theirs -q 2>/dev/null || git rebase --abort 2>/dev/null; paso alineaciones_espera 110 alineaciones_espera.py; paso publicar_telegram 180 publicar_telegram.py; paso redes 420 redes.py; }
+          # 12/11: el git pull de pub() no tenía tiempo máximo y el bucle se quedó colgado 35 min sin publicar nada
+          pub() { timeout 90 git pull --rebase --autostash -X theirs -q 2>/dev/null || timeout 30 git rebase --abort 2>/dev/null; paso alineaciones_espera 110 alineaciones_espera.py; paso publicar_telegram 180 publicar_telegram.py; paso redes 420 redes.py; }
           fin=$(( $(date +%s) + 50*60 ))
           ult_5=0; ult_2=0; ult_app=0; ult_10=0; ult_commit=$(date +%s)
           while [ "$(date +%s)" -lt "$fin" ]; do
             ahora=$(date +%s)
             i=$(date +%s); timeout 90 git pull --rebase --autostash -X theirs -q || git rebase --abort || true; echo "$(date -u +%H:%M:%S) git_pull - $(( $(date +%s) - i ))s" >> datos/bucle_log.txt
-            python -u reparar_json.py || true
+            timeout 60 python -u reparar_json.py || true
             paso incidencias 180 incidencias.py
             if [ $(( ahora - ult_5 )) -ge 300 ]; then ult_5=$ahora; paso cuotas_frescas 240 cuotas_frescas.py; paso alineaciones_posts 240 alineaciones_posts.py; paso bajas_hoy 240 bajas_hoy.py; fi
             if [ $(( $(date +%s) - ult_2 )) -ge 120 ]; then ult_2=$(date +%s); paso alineaciones_espera 110 alineaciones_espera.py; fi
