@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 16:54",
+ "actualizado": "2026-11-12 17:05",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2679,
-   "hoy": 35,
+   "seguidores": 2680,
+   "hoy": 36,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2679
+    2680
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3106,
- "total_hoy": 40,
+ "total": 3107,
+ "total_hoy": 41,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:00",
+  "hora": "17:15",
   "dia": "2026-11-12",
-  "titulo": "Vamos con el pick de hoy familia"
+  "titulo": "Nations league · 3 partidos x2,82"
  },
  "ayer": null,
  "escalera": {
@@ -189,7 +189,7 @@
   },
   "2026-11-12": {
    "instagram": 39,
-   "threads": 2679,
+   "threads": 2680,
    "facebook": 1,
    "telegram": 387
   }
