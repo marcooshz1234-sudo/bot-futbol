@@ -151,7 +151,7 @@ const MERCADOS_ES = {"Goals Over/Under":"Más de X goles","Goals Over/Under Firs
   "Away Player Shots On Target Total":"Tiros a puerta de jugador (visitante)","Total Goals/Both Teams To Score":"Goles y ambos marcan",
   "Results/Both Teams Score":"Resultado y ambos marcan"};
 const nombreMercado = m => MERCADOS_ES[m] || m;   // versión para compartir: sin lo interno
-const PESTANAS = [["hoy","🏠","Hoy"],["info","ℹ️","Info"],["directo","⚽","Directo"],["historial","📊","Historial"],["contenido","✍️","Posts"]]
+const PESTANAS = [["hoy","🏠","Hoy"],["picksdia","🍀","Picks"],["info","ℹ️","Info"],["directo","⚽","Directo"],["historial","📊","Historial"],["contenido","✍️","Posts"]]
   .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));   // 09/11: de 5 pestañas con mucho lío a 4 (5 para Marcos)
 let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
 function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
@@ -178,7 +178,7 @@ async function cargar(){
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
 function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
 function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
-function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,info:vInfo,directo:vDirectoTab,historial:vHistorial,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
+function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,picksdia:vPicksDia,info:vInfo,directo:vDirectoTab,historial:vHistorial,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
   const aviso = avisoDatos(D.generado_iso); $("#vista").innerHTML = (/Datos atrasados|sin confirmar/.test(aviso)?`<div style="margin-bottom:10px">${aviso}</div>`:"") + v(); }
 function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; const B = D.bot; const col = B.pausa?"var(--warn)":(B.errores||[]).length?"var(--live)":"var(--ok)";
   b.innerHTML = `<span class="punto" style="background:${col}"></span> 🤖`; }
@@ -280,7 +280,8 @@ function vInfo(){
   const [dia, t] = subTabs("idia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
   const L = D.partidos.filter(p => p.fecha.slice(0,10)===dia && !esFinal(p)).sort((a,b)=>a.fecha.localeCompare(b.fecha));
   if(!L.length) return t + `<div class="empty">No hay partidos ${dia===D.hoy?"hoy":"mañana"}</div>`;
-  const picksDe = id => ((D.dias[dia]||{}).picks||[]).filter(x => String(x.partido_id)===String(id)).sort((a,b)=>(b.pct_real??b.frecuencia??0)-(a.pct_real??a.frecuencia??0));
+  const picksDe = id => { const v = ((D.dias[dia]||{}).picks||[]).filter(x => String(x.partido_id)===String(id)).sort((a,b)=>(b.pct_real??b.frecuencia??0)-(a.pct_real??a.frecuencia??0));
+    if(v.length) return v; const g = (((D.picks_partidos||{})[dia])||[]).find(x => String(x.id)===String(id)); return g ? g.picks : []; };
   const barra = (pl, pe, pv) => `<div style="display:flex;height:10px;border-radius:99px;overflow:hidden;margin:6px 0 4px"><div style="width:${pl}%;background:var(--ok)"></div><div style="width:${pe}%;background:#64748b"></div><div style="width:${pv}%;background:#60a5fa"></div></div>`;
   const dato = (n, a, b, suf="") => (a==null&&b==null) ? "" : `<div class="row" style="font-size:14px;padding:5px 0;border-top:1px solid var(--line)"><b style="width:52px">${a!=null?String(a).replace(".",",")+suf:"—"}</b><span class="sp mut" style="text-align:center">${n}</span><b style="width:52px;text-align:right">${b!=null?String(b).replace(".",",")+suf:"—"}</b></div>`;
   let h = t;
@@ -302,8 +303,9 @@ function vInfo(){
         ${dato("Goles a favor", ml.gf, mv.gf)}${dato("Goles en contra", ml.gc, mv.gc)}
         ${dato("Ambos marcan", cl.ambos, cv.ambos, "%")}${dato("Más de 2,5 goles", cl.mas25, cv.mas25, "%")}
         ${dato("Córners", ml.corners, mv.corners)}${dato("Tiros", ml.tiros, mv.tiros)}${dato("Tarjetas", ml.tarjetas, mv.tarjetas)}
+        ${(p.datos||[]).length ? `<div style="margin-top:10px">${p.datos.map(d=>`<div style="font-size:14px;padding:3px 0">📌 ${esc(d)}</div>`).join("")}</div>` : ""}
         ${(p.noticias||[]).length ? `<div style="margin-top:8px">${p.noticias.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener" style="display:block;color:var(--sub);font-size:13px;padding:4px 0;text-decoration:none">📰 ${esc(n.titulo)} <span class="mut">· ${esc(n.fuente)}</span></a>`).join("")}</div>` : ""}
-        ${f.arbitro && f.arbitro.nombre ? `<div class="mut" style="margin-top:8px">🟨 Árbitro: ${esc(f.arbitro.nombre)}${f.arbitro.partidos>=3?` · ${String(f.arbitro.tarjetas).replace(".",",")} tarjetas por partido`:""}</div>` : ""}
+        ${f.arbitro && f.arbitro.nombre ? `<div class="mut" style="margin-top:8px">🟨 Árbitro: ${esc(f.arbitro.nombre)}${f.arbitro.partidos>=3?` · ${String(f.arbitro.tarjetas).replace(".",",")} tarjetas por partido (${f.arbitro.partidos} partidos)`:" · aún sin datos de sus tarjetas"}</div>` : ""}
         ${Object.keys(f.bajas_importantes||{}).length ? `<div class="mut" style="margin-top:4px">🚑 Bajas: ${esc(Object.values(f.bajas_importantes).flat().map(x=>x.nombre||x).join(", "))}</div>` : ""}
       </div>` : `<div class="mut" style="text-align:center;margin-top:6px;font-size:12px">Toca para ver los datos ▾</div>`}
     </div>`;
@@ -356,6 +358,32 @@ function vHoy(){
   }
   return h;
 }
+// 12/11 (Marcos): todos los picks del día (los del bot y los del canal) por hora y partido, con cuotas.
+// Entre partido y partido, más hueco y los escudos, para que se distinga dónde empieza cada uno.
+function vPicksDia(){
+  const [dia, t] = subTabs("pdia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
+  const G = ((D.picks_partidos||{})[dia]) || [];
+  if(!G.length) return t + `<div class="empty">Aún no hay picks para ${dia===D.hoy?"hoy":"mañana"}</div>`;
+  const icono = e => e==="verde"?"✅":e==="rojo"?"❌":e==="anulada"?"🔵":"";
+  let h = t + `<div class="mut" style="margin:0 4px 10px;font-size:13px">${G.reduce((n,g)=>n+g.picks.length,0)} picks en ${G.length} partidos · 📢 = salió en el canal</div>`;
+  let liga = "";
+  for(const g of G){
+    if(g.liga!==liga){ liga = g.liga; h += `<h2 style="margin-top:18px">${esc(liga||"")}</h2>`; }
+    h += `<div class="card" style="margin-bottom:16px;padding:12px 14px">
+      <div class="row" style="gap:8px;align-items:center;margin-bottom:6px">
+        <span class="hora" style="min-width:46px">${esc(g.fecha.slice(11,16))}</span>
+        <img src="${esc(g.logo_l)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy">
+        <b class="sp" style="font-size:15px">${esc(g.local)} – ${esc(g.visitante)}</b>
+        <img src="${esc(g.logo_v)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy"></div>
+      ${g.picks.map(x=>`<div class="row" style="font-size:14px;padding:5px 0;border-top:1px solid var(--line)">
+        <span style="width:22px">${x.canal?"📢":"🍀"}</span><span class="sp">${esc(x.texto)} ${icono(x.estado)}</span>
+        ${x.prob?`<span class="mut" style="font-size:12px;margin-right:8px">${Math.round(x.prob*100)}%</span>`:""}
+        <span class="cuota" style="font-size:15px">${x.cuota?"@"+n2(x.cuota):""}</span></div>`).join("")}
+    </div>`;
+  }
+  return h + `<div class="mut" style="padding:0 4px">El % es lo que da nuestro modelo · Son datos, no consejos de apuesta</div>`;
+}
+
 function vPicks(){
   const [dia, t] = selectorDia();
   const [modo, t2] = subTabs("pkmodo", [["top","⭐ Destacados"],["todos","Todos"],["goleadores","Goleadores"]], "top");

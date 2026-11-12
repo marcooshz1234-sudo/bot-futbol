@@ -1,0 +1,384 @@
+{
+ "2026-11-12": [
+  {
+   "partido_id": 1528959,
+   "fecha": "2026-11-12T18:00",
+   "local": "Armenia",
+   "visitante": "Cyprus",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528959|Total - Away|Over 0.5",
+     "texto": "Chipre marca",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
+     "sel": "1528959|Double Chance|Home/Draw",
+     "texto": "Armenia o empate",
+     "cuota": 1.36,
+     "prob": 0.68
+    },
+    {
+     "sel": "1528959|Double Chance|Draw/Away",
+     "texto": "Chipre o empate",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1528959|To Win Either Half|Home",
+     "texto": "Armenia gana alguna de las dos partes",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528959|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Armenia–Chipre",
+     "cuota": 1.8,
+     "prob": 0.52
+    }
+   ]
+  },
+  {
+   "partido_id": 1528958,
+   "fecha": "2026-11-12T18:00",
+   "local": "Türkiye",
+   "visitante": "Belgium",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528958|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Turquía–Bélgica",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528958|To Win Either Half|Away",
+     "texto": "Bélgica gana alguna de las dos partes",
+     "cuota": 1.4,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528958|Total - Away|Over 1.5",
+     "texto": "Bélgica marca 2 o más",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1528958|Match Winner|Away",
+     "texto": "Gana Bélgica",
+     "cuota": 1.83,
+     "prob": 0.52
+    }
+   ]
+  },
+  {
+   "partido_id": 1644370,
+   "fecha": "2026-11-12T18:30",
+   "local": "Calvo Sotelo",
+   "visitante": "Albacete",
+   "liga": "Copa del Rey",
+   "datos": [
+    "2 categorías de diferencia: el Albacete juega en Segunda y el Calvo Sotelo en Segunda Federación",
+    "El deporte 'esquiva' la huelga (La Tribuna de Ciudad Real)",
+    "El Calvo Sotelo no gana en sus últimos 6",
+    "Los partidos del Albacete llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1644370|Match Winner|Away",
+     "texto": "Gana el Albacete",
+     "cuota": 1.53,
+     "prob": 0.61
+    },
+    {
+     "sel": "1644370|Total - Home|Over 0.5",
+     "texto": "Calvo Sotelo marca",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1644370|Total - Away|Over 1.5",
+     "texto": "Albacete marca 2 o más",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1644370|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Calvo Sotelo–Albacete",
+     "cuota": 1.8,
+     "prob": 0.52
+    }
+   ]
+  },
+  {
+   "partido_id": 1638295,
+   "fecha": "2026-11-12T18:45",
+   "local": "Barcelona W",
+   "visitante": "Arsenal W",
+   "liga": "Champions Femenina",
+   "datos": [
+    "Los partidos del Barcelona W llevan 4,9 goles de media (últimos 8).",
+    "La cuota de que gane el Barcelona W ha bajado de 1,33 a 1,17: el mercado lo ve más claro"
+   ],
+   "picks": [
+    {
+     "sel": "1638295|Total - Home|Over 2.5",
+     "texto": "Barcelona (fem.) marca 3 o más",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1638295|Total - Away|Over 0.5",
+     "texto": "Arsenal (fem.) marca",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1638295|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Barcelona (fem.)–Arsenal (fem.)",
+     "cuota": 1.67,
+     "prob": 0.56
+    }
+   ]
+  },
+  {
+   "partido_id": 1644379,
+   "fecha": "2026-11-12T19:00",
+   "local": "Tarancón",
+   "visitante": "Levante",
+   "liga": "Copa del Rey",
+   "datos": [
+    "4 categorías de diferencia: el Levante juega en Primera y el Tarancón en Tercera Federación",
+    "Los partidos del Levante llevan 3,4 goles de media (últimos 8).",
+    "CD Tarancón - Levante UD: horario y dónde ver en directo por televisión el partido aplazado de Copa del Rey (Las Provincias)"
+   ],
+   "picks": [
+    {
+     "sel": "1644379|Total - Away|Over 2.5",
+     "texto": "Levante marca 3 o más",
+     "cuota": 1.5,
+     "prob": 0.62
+    }
+   ]
+  },
+  {
+   "partido_id": 1644363,
+   "fecha": "2026-11-12T19:00",
+   "local": "Navalcarnero",
+   "visitante": "Real Betis",
+   "liga": "Copa del Rey",
+   "datos": [
+    "3 categorías de diferencia: el Real Betis juega en Primera y el Navalcarnero en Segunda Federación",
+    "Los partidos del Real Betis llevan 3,5 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1644363|Total - Away|Over 2.5",
+     "texto": "Real Betis marca 3 o más",
+     "cuota": 1.62,
+     "prob": 0.58
+    }
+   ]
+  },
+  {
+   "partido_id": 1528963,
+   "fecha": "2026-11-12T20:45",
+   "local": "Albania",
+   "visitante": "Finland",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528963|Goals Over/Under|Over 1.5",
+     "texto": "Más de 1,5 goles en Albania–Finlandia",
+     "cuota": 1.44,
+     "prob": 0.65
+    },
+    {
+     "sel": "1528963|To Win Either Half|Home",
+     "texto": "Albania gana alguna de las dos partes",
+     "cuota": 1.57,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528963|Total - Away|Over 0.5",
+     "texto": "Finlandia marca",
+     "cuota": 1.62,
+     "prob": 0.58
+    },
+    {
+     "sel": "1528963|Double Chance|Draw/Away",
+     "texto": "Finlandia o empate",
+     "cuota": 1.8,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
+   "partido_id": 1528961,
+   "fecha": "2026-11-12T20:45",
+   "local": "Czechia",
+   "visitante": "Spain",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528961|Total - Home|Over 0.5",
+     "texto": "Chequia marca",
+     "cuota": 1.83,
+     "prob": 0.5
+    },
+    {
+     "sel": "1528961|Total - Away|Over 2.5",
+     "texto": "España marca 3 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1528960,
+   "fecha": "2026-11-12T20:45",
+   "local": "Italy",
+   "visitante": "France",
+   "liga": "Nations League",
+   "datos": [
+    "Se espera lluvia (4,5 mm): suele haber menos goles"
+   ],
+   "picks": [
+    {
+     "sel": "1528960|Total - Home|Over 0.5",
+     "texto": "Italia marca",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
+     "sel": "1528960|To Win Either Half|Away",
+     "texto": "Francia gana alguna de las dos partes",
+     "cuota": 1.5,
+     "prob": 0.59
+    },
+    {
+     "sel": "1528960|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Italia–Francia",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1528960|Total - Away|Over 1.5",
+     "texto": "Francia marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528960|Double Chance|Home/Draw",
+     "texto": "Italia o empate",
+     "cuota": 1.83,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
+   "partido_id": 1528962,
+   "fecha": "2026-11-12T20:45",
+   "local": "England",
+   "visitante": "Croatia",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528962|Total - Away|Over 0.5",
+     "texto": "Croacia marca",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528962|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Inglaterra–Croacia",
+     "cuota": 1.83,
+     "prob": 0.5
+    },
+    {
+     "sel": "1528962|Total - Home|Over 2.5",
+     "texto": "Inglaterra marca 3 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1545613,
+   "fecha": "2026-11-12T20:45",
+   "local": "Montenegro",
+   "visitante": "Latvia",
+   "liga": "Nations League",
+   "datos": [
+    "Se espera lluvia (4,8 mm): suele haber menos goles"
+   ],
+   "picks": [
+    {
+     "sel": "1545613|Total - Home|Over 1.5",
+     "texto": "Montenegro marca 2 o más",
+     "cuota": 1.44,
+     "prob": 0.65
+    }
+   ]
+  },
+  {
+   "partido_id": 1528964,
+   "fecha": "2026-11-12T20:45",
+   "local": "San Marino",
+   "visitante": "Belarus",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528964|Total - Away|Over 2.5",
+     "texto": "Bielorrusia marca 3 o más",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
+   "partido_id": 1638339,
+   "fecha": "2026-11-12T21:00",
+   "local": "SL Benfica W",
+   "visitante": "Austria Wien W",
+   "liga": "Champions Femenina",
+   "datos": [
+    "Los partidos del Austria Wien W llevan 3,6 goles de media (últimos 7).",
+    "El Austria Wien W solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1638339|Total - Away|Over 0.5",
+     "texto": "Austria Wien (fem.) marca",
+     "cuota": 1.44,
+     "prob": 0.65
+    },
+    {
+     "sel": "1638339|Total - Home|Over 1.5",
+     "texto": "SL Benfica (fem.) marca 2 o más",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1638339|Match Winner|Home",
+     "texto": "Gana el SL Benfica (fem.)",
+     "cuota": 1.62,
+     "prob": 0.58
+    },
+    {
+     "sel": "1638339|Both Teams Score|Yes",
+     "texto": "Ambos marcan en SL Benfica (fem.)–Austria Wien (fem.)",
+     "cuota": 1.67,
+     "prob": 0.56
+    }
+   ]
+  }
+ ]
+}

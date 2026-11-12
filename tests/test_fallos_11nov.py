@@ -316,6 +316,28 @@ class TestFallos11Nov(unittest.TestCase):
         import ganadores_img as G
         self.assertTrue(G.logo_liga(5).endswith((".png",)))
 
+    def test_datos_clave_del_partido(self):
+        import app_datos as A
+        p = {"id": 1, "fecha": "2026-11-12T20:45", "local": "England", "visitante": "Croatia",
+             "ficha": {"local": {"nombre": "England", "partidos": 4, "forma": "GGGP", "medias": {"gf": 3.5, "gc": 0.8},
+                                 "pct": {"marca": 100, "ambos": 25}},
+                       "visitante": {"nombre": "Croatia", "partidos": 4, "forma": "PPPG", "medias": {"gf": 1, "gc": 3.5},
+                                     "pct": {"marca": 75, "ambos": 75}},
+                       "bajas_importantes": {"local": ["Kane"]}}}
+        with mock.patch.object(A, "leer", lambda r, d=None: {"2026-11-12": [{"partido_id": 1, "datos": [
+                "Dato del bot", "El deporte 'esquiva' la huelga (La Tribuna de Ciudad Real)"]}]}):
+            d = A.datos_clave(p, {})
+        self.assertIn("Dato del bot", d)
+        self.assertIn("Inglaterra gana sus últimos 3 partidos", d)
+        self.assertIn("Croacia no gana en sus últimos 3", d)
+        self.assertIn("Baja importante en Inglaterra: Kane", d)
+        self.assertFalse(any("Tribuna" in x for x in d))   # titulares de prensa fuera
+
+    def test_app_pestana_picks(self):
+        src = (RAIZ / "docs" / "index.html").read_text(encoding="utf-8")
+        self.assertIn('["picksdia","🍀","Picks"]', src)
+        self.assertIn("function vPicksDia()", src)
+
 
 if __name__ == "__main__":
     unittest.main()

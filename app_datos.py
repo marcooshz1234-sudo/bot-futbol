@@ -436,6 +436,8 @@ def extra_partido(f, hist):
     prox = leer(EXTRA / f"{f['fixture']['id']}.json") or {}
     arb = nombre_arbitro(f["fixture"].get("referee"))
     t = _ARB.get(arb, []) if arb else []
+    if arb and len(t) < 4:   # 12/11: los de fuera de nuestras ligas (arbitros_ext.py, de la API)
+        t = ((leer(DATOS / "arbitros_ext.json", {}) or {}).get(arb) or {}).get("tarjetas") or t
     bajas = {}
     for l in prox.get("lesiones") or []:
         lado = "local" if l.get("equipo") == f["teams"]["home"]["id"] else "visitante"
@@ -509,6 +511,100 @@ def noticia_util(n, local, visitante):
     if not any(x in t.lower() for x in nombres) or INUTIL.search(t):
         return False
     return bool(n.get("tipos")) or bool(UTIL.search(t))
+
+
+PRENSA = re.compile(r"\([A-ZÁÉÍÓÚ][^()]{3,40}\)\s*$")
+
+
+def picks_por_partido(dias, partidos, publicados_hoy, directo, conocidos):
+    """{dia: [{id, fecha, local, visitante, logo_l, logo_v, liga, picks: [{texto, cuota, prob, canal, estado}]}]}.
+    Los picks: los del bot (datos/picks_partidos.json, de combis_dia) + lo publicado en el canal ese día."""
+    from plantillas import es
+    guardado = leer(DATOS / "picks_partidos.json", {}) or {}
+    por_id = {p["id"]: p for p in partidos}
+    salida = {}
+    for dia in dias:
+        grupos = {}
+        for g in guardado.get(dia) or []:
+            pa = por_id.get(g["partido_id"]) or {}
+            grupos[g["partido_id"]] = {
+                "id": g["partido_id"], "fecha": pa.get("fecha") or g["fecha"], "local": es(pa.get("local") or g["local"] or ""),
+                "visitante": es(pa.get("visitante") or g["visitante"] or ""), "logo_l": pa.get("logo_l"),
+                "logo_v": pa.get("logo_v"), "liga": pa.get("liga") or g.get("liga"), "picks": []}
+            for x in g["picks"]:
+                try:
+                    f = fila_sel(x["sel"], x["cuota"], directo, conocidos)
+                    texto, estado = f["texto"], f["estado"]
+                except Exception:
+                    texto, estado = x["texto"], "pendiente"
+                grupos[g["partido_id"]]["picks"].append({"texto": texto, "cuota": x["cuota"], "prob": x.get("prob"),
+                                                        "canal": False, "estado": estado})
+        for c in publicados_hoy or []:
+            if not str(c.get("fecha", "")).startswith(dia) and not any(
+                    str(x.get("partido_id")) in {str(k) for k in grupos} for x in c.get("picks") or []):
+                continue
+            for x in c.get("picks") or []:
+                fid = x.get("partido_id")
+                if not fid:
+                    continue
+                pa = por_id.get(fid) or {}
+                if not pa or pa.get("fecha", "")[:10] != dia:
+                    continue
+                g = grupos.setdefault(fid, {"id": fid, "fecha": pa["fecha"], "local": es(pa["local"]), "visitante": es(pa["visitante"]),
+                                            "logo_l": pa.get("logo_l"), "logo_v": pa.get("logo_v"), "liga": pa.get("liga"), "picks": []})
+                ya = next((y for y in g["picks"] if y["texto"].lower() == x["texto"].lower()), None)
+                if ya:
+                    ya["canal"] = True
+                else:
+                    g["picks"].append({"texto": x["texto"], "cuota": x.get("cuota"), "prob": None, "canal": True,
+                                       "estado": x.get("estado") or "pendiente"})
+        for g in grupos.values():
+            g["picks"].sort(key=lambda y: (not y["canal"], -(y["prob"] or 0)))
+        salida[dia] = sorted([g for g in grupos.values() if g["picks"]], key=lambda g: (g["fecha"], g["local"]))
+    return salida
+
+
+def datos_clave(p, picks_partidos):
+    """12/11 (Marcos: «ponme información importante de cada partido… datos buenos»): frases cortas con datos de
+    verdad: las razones del bot (picks_partidos.json), rachas y medias de cada equipo y las bajas importantes."""
+    from plantillas import es
+    frases = []
+    def poner(t):
+        t = re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", t)
+        if t and not PRENSA.search(t) and t not in frases and len(frases) < 7:
+            frases.append(t)
+    for g in (leer(DATOS / "picks_partidos.json", {}) or {}).get(p["fecha"][:10]) or []:
+        if g["partido_id"] == p["id"]:
+            for t in g.get("datos") or []:
+                poner(t)
+    f = p.get("ficha") or {}
+    for lado in ("local", "visitante"):
+        e = f.get(lado) or {}
+        n, nombre = e.get("partidos") or 0, es(e.get("nombre") or p.get(lado) or "")
+        if n < 3:
+            continue
+        forma, m, pc = e.get("forma") or "", e.get("medias") or {}, e.get("pct") or {}
+        racha = len(forma) - len(forma.lstrip("G"))
+        sin_ganar = len(forma) - len(forma.lstrip("EP"))
+        if racha >= 3:
+            poner(f"{nombre} gana sus últimos {racha} partidos")
+        elif sin_ganar >= 3:
+            poner(f"{nombre} no gana en sus últimos {sin_ganar}")
+        if (m.get("gf") or 0) >= 2.4:
+            poner(f"{nombre} marca {str(m['gf']).replace('.', ',')} goles de media (últimos {n})")
+        if (m.get("gc") or 0) >= 2:
+            poner(f"{nombre} encaja {str(m['gc']).replace('.', ',')} goles de media (últimos {n})")
+        elif m.get("gc") is not None and m["gc"] <= 0.5:
+            poner(f"{nombre} solo encaja {str(m['gc']).replace('.', ',')} goles de media (últimos {n})")
+        if pc.get("marca") == 100 and n >= 4:
+            poner(f"{nombre} ha marcado en sus últimos {n} partidos")
+        if (pc.get("ambos") or 0) >= 75:
+            poner(f"Ambos marcan en el {pc['ambos']} % de los partidos de {nombre}")
+    for lado, js in (f.get("bajas_importantes") or {}).items():
+        quien = es(p.get(lado) or "")
+        for j in js[:2]:
+            poner(f"Baja importante en {quien}: {j}")
+    return frases
 
 
 def ranking_arbitros(partidos):
@@ -1036,6 +1132,10 @@ def main():
             resumenes[dia] = b
     resumenes = {k: resumenes[k] for k in sorted(resumenes)[-30:]}
     resumenes_ruta.write_text(json.dumps(resumenes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # 12/11 (Marcos): todos los picks del día por partido (los del bot y los del canal) y datos buenos de cada partido
+    picks_partidos = picks_por_partido((hoy, manana), partidos, publicados_hoy, directo, conocidos)
+    for p in partidos:
+        p["datos"] = datos_clave(p, picks_partidos)
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "generado_iso": ahora.isoformat(), "hoy": hoy, "manana": manana,
              "resumenes": {k: v for k, v in resumenes.items() if k >= STATS_DESDE},
              "rentabilidad": rentabilidad({k: v for k, v in resumenes.items() if k >= STATS_DESDE}), "stats_desde": STATS_DESDE,
@@ -1046,7 +1146,7 @@ def main():
              "goleadores": (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {}),
              "goleadores_hoy": goleadores_que_juegan(partidos, hoy, manana),
              "arbitros": ranking_arbitros(partidos), "tramos_liga": tramos_por_liga(),
-             "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
+             "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "picks_partidos": picks_partidos, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     # 12/11 (Marcos: «los nombres de los países están en inglés»): al final, para no romper los cruces por nombre

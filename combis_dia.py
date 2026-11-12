@@ -956,6 +956,42 @@ def noche_fija():
     return DATOS / "noche_elegidos.json"
 
 
+def guardar_picks_partidos(dia, pools, hist, por_partido=5):
+    """12/11 (Marcos: «un apartado con todos los picks del día por hora y partido, con cuotas… y datos buenos de
+    cada partido»): datos/picks_partidos.json → {dia: [{partido_id, fecha, local, visitante, liga, picks, datos}]}.
+    Los picks: los más probables del bot en ese partido (cuota 1,25-2,50). Los datos: las frases de razones.py."""
+    import json
+    from bot import DATOS
+    try:
+        import razones as R
+    except Exception:
+        R = None
+    salida = []
+    for pool in pools:
+        ps = sorted([p for p in pool if 1.25 <= p.get("cuota", 0) <= 2.5], key=lambda p: -p["prob_aprendida"])[:por_partido]
+        if not ps:
+            continue
+        frases = []
+        for p in ps[:4]:
+            try:
+                for m in (R.razones(p, hist) if R else []):
+                    if m not in frases and len(frases) < 5:
+                        frases.append(m)
+            except Exception:
+                pass
+        p0 = ps[0]
+        salida.append({"partido_id": p0["partido_id"], "fecha": p0["fecha"], "local": p0.get("local"),
+                       "visitante": p0.get("visitante"), "liga": p0.get("competicion"), "datos": frases,
+                       "picks": [{"sel": f"{p['partido_id']}|{p['mercado']}|{p['opcion']}", "texto": p["texto"],
+                                  "cuota": p["cuota"], "prob": round(p["prob_aprendida"], 2)} for p in ps]})
+    ruta = DATOS / "picks_partidos.json"
+    todo = leer(ruta, {}) or {}
+    todo[dia] = sorted(salida, key=lambda x: x["fecha"])
+    for d in sorted(todo)[:-4]:   # solo los últimos días
+        todo.pop(d)
+    ruta.write_text(json.dumps(todo, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+
 def del_dia(dia, hist=None, ap=None, guardar=False):
     """{'partidos': [(cp, cuota, tarjeta, hora)], 'tres': (picks, cuota), 'loca': (picks, cuota)}"""
     import picks as P
@@ -1155,6 +1191,11 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         res[clave] = (r[1], r[2], hora) if r else None
         if r:
             usos.update(sel(p) for p in r[1])
+    if guardar:   # 12/11 (Marcos): todos los picks del bot por partido, con datos, para la app
+        try:
+            guardar_picks_partidos(dia, pools, hist)
+        except Exception as e:
+            print("picks por partido:", str(e)[:150])
     return res
 
 

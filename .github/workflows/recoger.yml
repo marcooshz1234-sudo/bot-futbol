@@ -27,6 +27,10 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python -u copa_contexto.py || echo "copa_contexto falló (no bloquea)"
+      - name: Tarjetas de los árbitros que no conocemos (12/11)
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python -u arbitros_ext.py || echo "arbitros_ext falló (no bloquea)"
       - name: Aprender de los resultados (corrige los picks terminados, recalibra y manda las lecciones)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
