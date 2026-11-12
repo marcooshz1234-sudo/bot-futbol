@@ -46,7 +46,8 @@ class TestFallos11Nov(unittest.TestCase):
             with mock.patch.object(C, "DATOS", d), mock.patch.object(C, "REGISTRO", d / "r.json"), \
                     mock.patch.object(C, "COLA", d / "c.json"), \
                     mock.patch.object(C, "inicio", lambda pk: datetime(2026, 11, 12, 20, 0, tzinfo=MADRID)):
-                self.assertEqual(C.main(datetime(2026, 11, 11, 20, 0, tzinfo=MADRID)), [])
+                # 12/11 (Marcos: «esos mercados sí los puedes usar, y más si lo dicen ellos»): ahora SÍ se copia
+                self.assertEqual(len(C.main(datetime(2026, 11, 11, 20, 0, tzinfo=MADRID))), 1)
 
     def test_cuotaza_sin_aprobar_caduca(self):
         import json, tempfile

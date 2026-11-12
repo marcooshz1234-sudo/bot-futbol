@@ -31,6 +31,7 @@ def sel_de(x):
     return f"{x['partido_id']}|{x.get('mercado')}|{x.get('opcion')}" if x.get("partido_id") else None
 
 
+VARIAS = re.compile(r"crear apuesta|mymatch|bet ?builder", re.I)
 PROHIBIDO_TEXTO = re.compile(r"1ª parte|1a parte|primera parte|1er tiempo|primer tiempo|\b1T\b|descanso|medio tiempo"
                              r"|fuera de juego|tiros totales|remates totales", re.I)
 
@@ -38,8 +39,6 @@ PROHIBIDO_TEXTO = re.compile(r"1ª parte|1a parte|primera parte|1er tiempo|prime
 def motivo_no(x, usos):
     """12/11: por qué NO se copia esta pata (o None): choca con lo nuestro de ese partido («nunca chocar»), ya va en
     2 posts (máx. 2) o va a favor de un equipo al que le falta su estrella (Mbappé)."""
-    if PROHIBIDO_TEXTO.search(x.get("texto") or ""):   # «Crear apuesta» con una pata de 1ª parte (Inglaterra 12/11)
-        return "lleva un mercado que no usamos (1ª parte, descanso…)"
     s = sel_de(x)
     if not s:
         return None
@@ -100,6 +99,8 @@ def cuota_bet365(pk):
     """11/11 (Marcos: «comprueba las cuotas, no te fíes de lo que pongan ellos»): la de bet365 que tenemos ahora
     (datos/cuotas_frescas.json o la del partido), si la hay; si no, la suya."""
     fid = str(pk.get("partido_id") or "")
+    if VARIAS.search(pk.get("texto") or ""):   # 12/11: un «Crear apuesta» no es la cuota de su primera pata (1,54 ≠ 1,27)
+        return pk.get("cuota"), False
     if fid:
         for c in ((leer(DATOS / "cuotas_frescas.json", {}) or {}).get(fid, {}).get("cuotas"),
                   ((leer(DATOS / "proximos" / f"{fid}.json", {}) or {}).get("cuotas") or {})):
@@ -139,8 +140,12 @@ def post_suelto(pk, ini, ahora, n):
     return {"id": f"{pk['dia']}-pick-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
-            "sel": [f"{pk['partido_id']}|{pk.get('mercado')}|{pk.get('opcion')}"] if pk.get("partido_id") else [],
-            "cuotas": [pk.get("cuota")] if pk.get("partido_id") and pk.get("cuota") else [],   # sin cuotas la app no lo corrige
+            # 12/11: un «Crear apuesta»/MyMatch (gana Inglaterra + goles en la 1ª parte…) lleva varias condiciones y
+            # solo tenemos una apuntada: sin sel, para que no salga el verde con una pata (lo corrige Claude a mano)
+            "sel": [f"{pk['partido_id']}|{pk.get('mercado')}|{pk.get('opcion')}"]
+                   if pk.get("partido_id") and not VARIAS.search(pk.get("texto") or "") else [],
+            "cuotas": [pk.get("cuota")] if pk.get("partido_id") and pk.get("cuota")
+                      and not VARIAS.search(pk.get("texto") or "") else [],   # sin cuotas la app no lo corrige
             "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 
@@ -181,14 +186,8 @@ def main(ahora=None):
     for x in lista:
         if clave(x) in hechos:
             continue
-        try:   # 11/11: los mercados que Marcos no quiere (más de 2,5 goles del partido, 1ª parte, descanso…) no se copian
-            from picks import excluido
-            if x.get("mercado") and excluido(x["mercado"], x.get("opcion")):
-                print(f"Copiar tipsters: {x['texto']} no (mercado prohibido)")
-                hechos.add(clave(x))
-                continue
-        except ImportError:
-            pass
+        # 12/11 (Marcos: «esos mercados sí los puedes usar, y más si lo dicen ellos»): lo de los canales se copia
+        # aunque sea más de 2,5 goles, 1ª parte, descanso… (los prohibidos son solo para las combis del bot)
         ini = inicio(x)
         if not ini or ini - ahora < MARGEN + ESPERA:
             hechos.add(clave(x))   # ya empezado o muy justo: no se copia (y no se vuelve a mirar)

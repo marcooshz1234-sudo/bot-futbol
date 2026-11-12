@@ -88,14 +88,26 @@ class TestCopiarTipsters(unittest.TestCase):
     def test_sin_cuota_no(self):
         self.assertEqual(self.correr([self.pk(1, None)]), [])
 
-    def test_primera_parte_no(self):
+    def test_mercados_de_ellos_si(self):   # 12/11 (Marcos: «esos mercados sí los puedes usar, y más si lo dicen ellos»)
+        r = self.correr_real([self.pk(1, 1.50, mercado="Goals Over/Under", opcion="Over 2.5", texto="Más de 2,5 goles")])
+        self.assertEqual(len(r), 1)
+        self.assertEqual(r[0]["sel"], ["1|Goals Over/Under|Over 2.5"])
+
+    def test_crear_apuesta_con_su_cuota(self):
         import copiar_tipsters as CT
-        self.assertTrue(CT.PROHIBIDO_TEXTO.search("Gana Inglaterra y más de 0,5 goles en la 1ª parte"))
+        x = self.pk(1, 1.54, texto="Gana Inglaterra y goles en la 1ª parte (Crear apuesta)")
+        self.assertEqual(CT.cuota_bet365(x), (1.54, False))
+
+    def test_crear_apuesta_sin_sel(self):   # varias condiciones: que el verde no salga con una sola
+        r = self.correr_real([self.pk(1, 1.54, mercado="Match Winner", opcion="Home",
+                                      texto="Gana Inglaterra y más de 0,5 goles en la 1ª parte (Crear apuesta)")])
+        self.assertEqual(len(r), 1)
+        self.assertEqual(r[0]["sel"], [])
 
     def test_combinada_sin_una_pata_fuera_entera(self):
         import copiar_tipsters as CT
         a = self.pk(1, 1.4, combinada="z")
-        b = self.pk(2, 1.5, combinada="z", texto="Más de 0,5 goles en la 1ª parte")
+        b = self.pk(2, 1.15, combinada="z")
         r = self.correr_real([a, b])
         self.assertEqual(r, [])
 
