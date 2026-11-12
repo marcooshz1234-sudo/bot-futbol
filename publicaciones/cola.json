@@ -4835,7 +4835,14 @@
     "forzar": true,
     "sel": [],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T13:43",
+    "mensaje_id": 417,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18051684935821497",
+      "instagram": "18000428006828503"
+    }
   },
   {
     "id": "2026-11-12-pick-tip-3",
@@ -4851,7 +4858,14 @@
     "cuotas": [
       1.66
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T13:43",
+    "mensaje_id": 418,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18122635048960634",
+      "instagram": "17888186721506055"
+    }
   },
   {
     "id": "2026-11-12-pick-tip-4",
@@ -4867,6 +4881,13 @@
     "cuotas": [
       1.5
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T13:43",
+    "mensaje_id": 419,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18119869399800194",
+      "instagram": "17912692056576002"
+    }
   }
 ]

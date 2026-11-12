@@ -1658,14 +1658,14 @@
   },
   "2026-11-12": {
     "dia": "2026-11-12",
-    "total": 8,
+    "total": 10,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 8,
+      "pendiente": 10,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 10
     },
     "combis": [
       {
@@ -1715,13 +1715,25 @@
         "titulo": "Vamos con la combi del jueves familia 🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-12-pick-tip-3",
+        "titulo": "Pick que no podía faltar hoy ⚽",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-12-pick-tip-4",
+        "titulo": "Vamos con otro pick, familia 👇",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 17
+      "total": 19
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ Vamos con otro pick, familia 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
   }
 }
