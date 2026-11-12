@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 15:13",
+ "actualizado": "2026-11-12 15:24",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2678,
-   "hoy": 34,
+   "seguidores": 2679,
+   "hoy": 35,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2678
+    2679
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 385,
-   "hoy": 1,
+   "seguidores": 386,
+   "hoy": 2,
    "serie": [
     294,
     307,
@@ -50,17 +50,17 @@
     360,
     378,
     384,
-    385
+    386
    ]
   }
  },
- "total": 3103,
- "total_hoy": 37,
+ "total": 3105,
+ "total_hoy": 39,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:14",
+  "hora": "16:00",
   "dia": "2026-11-12",
-  "titulo": "Vamos con otro pick, familia"
+  "titulo": "Y para los valientes, la loca del juev"
  },
  "ayer": null,
  "escalera": {
@@ -189,19 +189,19 @@
   },
   "2026-11-12": {
    "instagram": 39,
-   "threads": 2678,
+   "threads": 2679,
    "facebook": 1,
-   "telegram": 385
+   "telegram": 386
   }
  },
  "tipos_instagram": {
-  "Combi loca (reel)": {
-   "posts": 28,
+  "Otros (reel)": {
+   "posts": 22,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 20,
+  "Combi loca (reel)": {
+   "posts": 26,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
