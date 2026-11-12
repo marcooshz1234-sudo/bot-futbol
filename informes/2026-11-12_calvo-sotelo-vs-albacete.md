@@ -1,19 +1,19 @@
 # Calvo Sotelo – Albacete
 **Copa del Rey** · Round of 128 · 12/11/2026 18:30 (hora España) · New Municipal Stadium Ciudad de Puertollano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:25_
+_Actualizadas: 12/11 11:38_
 
-- **1X2:** 1 **5.50**  ·  X **4.10**  ·  2 **1.53**
+- **1X2:** 1 **5.50**  ·  X **4.00**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.14**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.70** · menos **2.10**
-    - 3,5: más **2.62** · menos **1.44**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.75** · menos **1.40**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -29,7 +29,7 @@ _Actualizadas: 12/11 08:25_
     - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
-- **1X2 descanso:** 1 **6.00**  ·  X **2.40**  ·  2 **2.05**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.05**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -38,10 +38,10 @@ _Actualizadas: 12/11 08:25_
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **3.00**  ·  2 **1.30**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.38**
 - **Win Both Halves:** 1 **23.00**  ·  2 **3.75**
 - **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.25**  ·  Home/No **11.00**  ·  Draw/No **13.00**  ·  Away/No **2.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.62**
 
 ## Estadísticas de equipo
 | | Calvo Sotelo (total) | Calvo Sotelo en casa | Albacete (total) | Albacete fuera |

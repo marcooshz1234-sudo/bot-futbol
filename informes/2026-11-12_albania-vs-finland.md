@@ -1,55 +1,54 @@
 # Albania – Finland
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · Arena Kombëtare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:25_
+_Actualizadas: 12/11 11:38_
 
-- **1X2:** 1 **1.95**  ·  X **3.20**  ·  2 **4.20**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.36**  ·  X2 **1.80**
-- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **1X2:** 1 **2.20**  ·  X **3.00**  ·  2 **3.50**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.36**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.10** · menos **6.50**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.11** · menos **6.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
     - 4,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.50** · menos **1.28**
+    - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **8.50** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.17**
-    - 3,5: más **9.00** · menos **1.04**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.00** · menos **1.14**
 - **Goles del visitante:**
-    - 0,5: más **1.62** · menos **2.20**
-    - 1,5: más **4.00** · menos **1.22**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
     - 2,5: más **9.00** · menos **1.04**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.95** · menos **1.85**
     - 9: más **1.92** · menos **1.88**
 - **Córners 1X2:** 1 **1.62**  ·  X **7.50**  ·  2 **2.75**
-- **1X2 descanso:** 1 **2.62**  ·  X **1.95**  ·  2 **4.50**
+- **1X2 descanso:** 1 **2.88**  ·  X **1.91**  ·  2 **4.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
-- **To Win Either Half:** 1 **1.57**  ·  2 **2.50**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **7.00**
-- **Win Both Halves:** 1 **6.50**  ·  2 **19.00**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **10.00**  ·  Home/No **2.75**  ·  Draw/No **6.50**  ·  Away/No **6.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.91**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **6.00**
+- **Win Both Halves:** 1 **9.00**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.50**  ·  Home/No **3.40**  ·  Draw/No **6.50**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **1.83**
 - **Home Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.40**  ·  Menos de 4 **2.10**
-- **Anytime Goal Scorer:** Naser Aliji **17.00**  ·  Juljan Shehu **7.00**  ·  Myrto Uzuni **3.00**  ·  Oliver Antman **5.00**  ·  Benjamin Kallman **4.33**  ·  Joel Pohjanpalo **3.60**  ·  Fredrik Jensen **6.50**  ·  Topi Keskinen **6.50**  ·  Anssi Suhonen **12.00**  ·  Leo Walta **5.00**  ·  Adam Stahl **15.00**  ·  Miro Tenho **17.00**  ·  Robert Ivanov **21.00**  ·  Arlind Ajeti **15.00**  ·  Qazim Laci **5.50**  ·  Taulant Seferi **3.40**  ·  Mario Mitaj **11.00**  ·  Mirlind Daku **3.40**  ·  Ernest Muci **4.33**  ·  Arber Hoxha **4.33**  ·  Ville Koski **21.00**  ·  Klisman Cake **11.00**  ·  Cristian Shpendi **3.40**  ·  Stavros Pilios **9.50**  ·  Luka Hyrylainen **12.00**  ·  Rey Manaj **2.40**  ·  Onni Valakari **7.00**  ·  Tony Miettinen **17.00**  ·  Santeri Vaananen **15.00**  ·  Adrian Svanback **4.33**  ·  Kaan Kairinen **12.00**  ·  Adam Markhiyev **11.00**  ·  Ysni Ismaili **15.00**  ·  Klevi Qefalija **7.00**  ·  Samuel Sina **15.00**  ·  Daniel Hakans **6.50**  ·  Feta Fetai **11.00**  ·  Ardian Ismajli **11.00**  ·  Elseid Hysaj **11.00**  ·  Kristjan Asllani **4.33**  ·  Berat Djimsiti **15.00**  ·  Luis Hasa **5.50**  ·  Ylber Ramadani **11.00**  ·  Naatan Skytta **5.50**  ·  Ryan Mahuta **17.00**  ·  Juho Lahteenmaki **21.00**
+- **Anytime Goal Scorer:** Naser Aliji **17.00**  ·  Juljan Shehu **8.50**  ·  Myrto Uzuni **3.10**  ·  Oliver Antman **6.00**  ·  Benjamin Kallman **4.50**  ·  Joel Pohjanpalo **3.75**  ·  Fredrik Jensen **6.50**  ·  Topi Keskinen **6.50**  ·  Anssi Suhonen **15.00**  ·  Leo Walta **5.50**  ·  Adam Stahl **15.00**  ·  Miro Tenho **17.00**  ·  Robert Ivanov **21.00**  ·  Arlind Ajeti **15.00**  ·  Qazim Laci **6.00**  ·  Taulant Seferi **3.75**  ·  Mario Mitaj **13.00**  ·  Mirlind Daku **3.60**  ·  Ernest Muci **4.33**  ·  Arber Hoxha **4.33**  ·  Ville Koski **21.00**  ·  Klisman Cake **11.00**  ·  Cristian Shpendi **3.50**  ·  Stavros Pilios **10.00**  ·  Luka Hyrylainen **13.00**  ·  Rey Manaj **2.50**  ·  Onni Valakari **7.50**  ·  Tony Miettinen **17.00**  ·  Santeri Vaananen **17.00**  ·  Adrian Svanback **5.00**  ·  Kaan Kairinen **13.00**  ·  Adam Markhiyev **11.00**  ·  Ysni Ismaili **15.00**  ·  Klevi Qefalija **8.50**  ·  Samuel Sina **15.00**  ·  Daniel Hakans **6.50**  ·  Feta Fetai **13.00**  ·  Ardian Ismajli **13.00**  ·  Elseid Hysaj **13.00**  ·  Kristjan Asllani **4.33**  ·  Berat Djimsiti **15.00**  ·  Luis Hasa **6.00**  ·  Ylber Ramadani **11.00**  ·  Naatan Skytta **6.00**  ·  Ryan Mahuta **17.00**  ·  Juho Lahteenmaki **21.00**
 
 ## Estadísticas de equipo
 | | Albania (total) | Albania en casa | Finland (total) | Finland fuera |

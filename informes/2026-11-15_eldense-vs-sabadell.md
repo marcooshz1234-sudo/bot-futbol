@@ -1,56 +1,56 @@
 # Eldense – Sabadell
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 14:15_
+_Actualizadas: 12/11 14:18_
 
-- **1X2:** 1 **2.30**  ·  X **3.20**  ·  2 **3.10**
-- **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.62**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **1X2:** 1 **2.38**  ·  X **3.00**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **8.50**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.15** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.35** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.95** · menos **1.85**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.20**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.75**
+- **1X2 descanso:** 1 **3.20**  ·  X **2.00**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **4.50**
-- **Win Both Halves:** 1 **9.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **1.80**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **5.50**
+- **Win Both Halves:** 1 **9.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.50**  ·  Home/No **3.75**  ·  Draw/No **7.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **1.95**
 - **Home Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
-- **Home Player Shots:** Justin Smith - 5 **19.00**  ·  Iker Ortega - 1 **2.50**  ·  Iker Ortega - 2 **9.00**  ·  Iker Ortega - 3 **21.00**  ·  Juan Larios - 1 **1.44**  ·  Juan Larios - 2 **3.00**  ·  Juan Larios - 3 **7.00**  ·  Juan Larios - 4 **19.00**  ·  David Ruiz - 1 **1.57**  ·  David Ruiz - 2 **3.50**  ·  David Ruiz - 3 **10.00**  ·  David Ruiz - 4 **21.00**  ·  Antonio David - 1 **1.73**  ·  Antonio David - 2 **4.00**  ·  Antonio David - 3 **13.00**  ·  Manuel Nieto - 1 **1.01**  ·  Pau Cabanes - 1 **1.04**  ·  Jorge Rastrojo - 1 **1.07**  ·  Mariano Carmona - 1 **1.07**  ·  Javi Martinez - 1 **1.07**  ·  Chavez Fidel - 1 **1.18**  ·  Roberto Lopez - 1 **1.17**  ·  Cristian Amarillo - 1 **1.20**  ·  Justin Smith - 1 **1.20**  ·  Alejandro Ibarrondo - 1 **1.44**  ·  Borja Calvo - 1 **1.62**  ·  David Rodriguez - 1 **1.62**  ·  Jesus Clemente - 1 **1.62**  ·  Marcos Bustillo - 1 **1.57**  ·  Jordi Martin - 1 **1.62**  ·  Guillermo Macho - 1 **1.73**  ·  Javier Olaizola - 1 **1.73**  ·  Carlos Guirao - 1 **2.00**  ·  Iker Carbonell - 1 **2.00**  ·  Julien Yanda - 1 **1.83**  ·  Floris Smand - 1 **2.00**  ·  Alex Serradell - 1 **2.25**  ·  Manuel Nieto - 2 **1.10**  ·  Pau Cabanes - 2 **1.22**  ·  Jorge Rastrojo - 2 **1.36**  ·  Mariano Carmona - 2 **1.36**  ·  Javi Martinez - 2 **1.36**  ·  Chavez Fidel - 2 **1.80**  ·  Roberto Lopez - 2 **1.73**  ·  Cristian Amarillo - 2 **1.83**  ·  Justin Smith - 2 **1.83**  ·  Alejandro Ibarrondo - 2 **3.00**  ·  Borja Calvo - 2 **3.75**  ·  David Rodriguez - 2 **3.75**  ·  Jesus Clemente - 2 **3.75**  ·  Marcos Bustillo - 2 **3.50**  ·  Jordi Martin - 2 **3.75**  ·  Guillermo Macho - 2 **4.00**  ·  Javier Olaizola - 2 **4.33**  ·  Carlos Guirao - 2 **5.50**  ·  Iker Carbonell - 2 **5.50**  ·  Julien Yanda - 2 **5.00**  ·  Floris Smand - 2 **5.50**  ·  Alex Serradell - 2 **7.00**  ·  Manuel Nieto - 3 **1.30**  ·  Pau Cabanes - 3 **1.67**  ·  Jorge Rastrojo - 3 **2.00**  ·  Mariano Carmona - 3 **2.00**  ·  Javi Martinez - 3 **2.00**  ·  Chavez Fidel - 3 **3.40**  ·  Roberto Lopez - 3 **3.25**  ·  Cristian Amarillo - 3 **3.50**  ·  Justin Smith - 3 **3.75**  ·  Alejandro Ibarrondo - 3 **7.00**  ·  Borja Calvo - 3 **10.00**  ·  David Rodriguez - 3 **10.00**  ·  Jesus Clemente - 3 **10.00**  ·  Marcos Bustillo - 3 **10.00**  ·  Jordi Martin - 3 **11.00**  ·  Guillermo Macho - 3 **13.00**  ·  Javier Olaizola - 3 **13.00**  ·  Carlos Guirao - 3 **17.00**  ·  Iker Carbonell - 3 **17.00**  ·  Julien Yanda - 3 **15.00**  ·  Floris Smand - 3 **17.00**  ·  Manuel Nieto - 4 **1.73**  ·  Pau Cabanes - 4 **2.62**  ·  Jorge Rastrojo - 4 **3.50**  ·  Mariano Carmona - 4 **3.50**  ·  Javi Martinez - 4 **3.50**  ·  Chavez Fidel - 4 **7.00**  ·  Roberto Lopez - 4 **6.50**  ·  Cristian Amarillo - 4 **8.00**  ·  Justin Smith - 4 **8.00**  ·  Alejandro Ibarrondo - 4 **19.00**  ·  Manuel Nieto - 5 **2.62**  ·  Pau Cabanes - 5 **4.33**  ·  Jorge Rastrojo - 5 **6.50**  ·  Mariano Carmona - 5 **6.50**  ·  Javi Martinez - 5 **6.50**  ·  Chavez Fidel - 5 **15.00**  ·  Roberto Lopez - 5 **15.00**  ·  Manuel Nieto - 6 **4.33**  ·  Pau Cabanes - 6 **9.00**  ·  Jorge Rastrojo - 6 **13.00**  ·  Mariano Carmona - 6 **13.00**  ·  Manuel Nieto - 7 **8.00**  ·  Pau Cabanes - 7 **17.00**  ·  Manuel Nieto - 8 **13.00**  ·  David Rodriguez - 4 **21.00**  ·  Alex Serradell - 3 **21.00**  ·  Borja Calvo - 4 **21.00**  ·  Jesus Clemente - 4 **21.00**  ·  Jordi Martin - 4 **21.00**  ·  Marcos Bustillo - 4 **21.00**  ·  Javi Martinez - 6 **13.00**  ·  Waldo Rubio - 1 **1.12**  ·  Waldo Rubio - 2 **1.62**  ·  Waldo Rubio - 3 **2.75**  ·  Waldo Rubio - 4 **5.50**  ·  Waldo Rubio - 5 **11.00**  ·  Cristian Amarillo - 5 **17.00**  ·  Manuel Nieto - 9 **21.00**  ·  Dinis Rodrigues - 1 **1.04**  ·  Aingeru Olabarrieta - 1 **1.10**  ·  Dinis Rodrigues - 2 **1.22**  ·  Aingeru Olabarrieta - 2 **1.44**  ·  Dinis Rodrigues - 3 **1.67**  ·  Aingeru Olabarrieta - 3 **2.25**  ·  Dinis Rodrigues - 4 **2.62**  ·  Aingeru Olabarrieta - 4 **4.00**  ·  Dinis Rodrigues - 5 **4.33**  ·  Aingeru Olabarrieta - 5 **9.00**  ·  Dinis Rodrigues - 6 **9.00**  ·  Aingeru Olabarrieta - 6 **17.00**  ·  Dinis Rodrigues - 7 **17.00**  ·  Mariano Carmona - 7 **21.00**  ·  Jorge Rastrojo - 7 **21.00**  ·  Waldo Rubio - 6 **21.00**  ·  Chavez Fidel - 6 **21.00**  ·  Javi Martinez - 7 **21.00**
-- **Away Player Shots:** Gaston Valles - 1 **1.02**  ·  Agustin Coscia - 1 **1.07**  ·  Nicholas Gioacchini - 1 **1.07**  ·  Nikolay Obolskiy - 1 **1.07**  ·  Quim Utges - 1 **1.07**  ·  Joel Priego - 1 **1.11**  ·  Yanis Rahmani - 1 **1.11**  ·  Xavi Moreno - 1 **1.14**  ·  Javi Lopez - 1 **1.20**  ·  Angel Miguelete - 1 **1.25**  ·  Riera Pere Pons - 1 **1.44**  ·  Ton Ripoll - 1 **1.44**  ·  Alain Ribeiro - 1 **1.57**  ·  Lluis Blanch - 1 **1.62**  ·  Quadri Liameed - 1 **1.62**  ·  Eneko Aguilar - 1 **1.62**  ·  Genar Fornes - 1 **1.73**  ·  Albert Orriols - 1 **1.83**  ·  Oscar Sanz - 1 **2.00**  ·  Edgar Gonzalez - 1 **2.20**  ·  Arthur Bonaldo - 1 **1.91**  ·  Jose Luis Catala - 1 **2.25**  ·  Juan Cervera - 1 **2.25**  ·  Huson Chynoweth - 1 **2.50**  ·  Miki Codina - 1 **1.83**  ·  Gaston Valles - 2 **1.14**  ·  Agustin Coscia - 2 **1.36**  ·  Nicholas Gioacchini - 2 **1.36**  ·  Nikolay Obolskiy - 2 **1.36**  ·  Quim Utges - 2 **1.36**  ·  Joel Priego - 2 **1.50**  ·  Yanis Rahmani - 2 **1.50**  ·  Xavi Moreno - 2 **1.67**  ·  Javi Lopez - 2 **1.83**  ·  Angel Miguelete - 2 **2.10**  ·  Riera Pere Pons - 2 **2.75**  ·  Ton Ripoll - 2 **3.00**  ·  Alain Ribeiro - 2 **3.50**  ·  Lluis Blanch - 2 **3.75**  ·  Quadri Liameed - 2 **3.75**  ·  Eneko Aguilar - 2 **3.75**  ·  Genar Fornes - 2 **4.00**  ·  Albert Orriols - 2 **5.00**  ·  Oscar Sanz - 2 **5.50**  ·  Edgar Gonzalez - 2 **6.50**  ·  Arthur Bonaldo - 2 **5.50**  ·  Jose Luis Catala - 2 **8.00**  ·  Juan Cervera - 2 **7.00**  ·  Huson Chynoweth - 2 **9.00**  ·  Miki Codina - 2 **5.00**  ·  Gaston Valles - 3 **1.44**  ·  Agustin Coscia - 3 **2.00**  ·  Nicholas Gioacchini - 3 **2.00**  ·  Nikolay Obolskiy - 3 **2.00**  ·  Quim Utges - 3 **2.00**  ·  Joel Priego - 3 **2.50**  ·  Yanis Rahmani - 3 **2.50**  ·  Xavi Moreno - 3 **3.00**  ·  Javi Lopez - 3 **3.75**  ·  Angel Miguelete - 3 **4.33**  ·  Riera Pere Pons - 3 **7.00**  ·  Ton Ripoll - 3 **7.00**  ·  Alain Ribeiro - 3 **10.00**  ·  Lluis Blanch - 3 **10.00**  ·  Quadri Liameed - 3 **10.00**  ·  Eneko Aguilar - 3 **10.00**  ·  Genar Fornes - 3 **13.00**  ·  Albert Orriols - 3 **15.00**  ·  Oscar Sanz - 3 **17.00**  ·  Edgar Gonzalez - 3 **21.00**  ·  Arthur Bonaldo - 3 **17.00**  ·  Jose Luis Catala - 3 **21.00**  ·  Juan Cervera - 3 **21.00**  ·  Huson Chynoweth - 3 **21.00**  ·  Miki Codina - 3 **15.00**  ·  Gaston Valles - 4 **2.10**  ·  Agustin Coscia - 4 **3.50**  ·  Nicholas Gioacchini - 4 **3.50**  ·  Nikolay Obolskiy - 4 **3.50**  ·  Quim Utges - 4 **3.50**  ·  Joel Priego - 4 **4.50**  ·  Yanis Rahmani - 4 **4.50**  ·  Xavi Moreno - 4 **6.00**  ·  Javi Lopez - 4 **8.00**  ·  Angel Miguelete - 4 **10.00**  ·  Riera Pere Pons - 4 **17.00**  ·  Ton Ripoll - 4 **19.00**  ·  Alain Ribeiro - 4 **21.00**  ·  Lluis Blanch - 4 **21.00**  ·  Quadri Liameed - 4 **21.00**  ·  Eneko Aguilar - 4 **21.00**  ·  Gaston Valles - 5 **3.40**  ·  Agustin Coscia - 5 **6.50**  ·  Nicholas Gioacchini - 5 **6.50**  ·  Nikolay Obolskiy - 5 **6.50**  ·  Quim Utges - 5 **6.50**  ·  Joel Priego - 5 **10.00**  ·  Yanis Rahmani - 5 **10.00**  ·  Xavi Moreno - 5 **13.00**  ·  Javi Lopez - 5 **19.00**  ·  Angel Miguelete - 5 **21.00**  ·  Gaston Valles - 6 **6.00**  ·  Agustin Coscia - 6 **13.00**  ·  Nicholas Gioacchini - 6 **13.00**  ·  Nikolay Obolskiy - 6 **13.00**  ·  Quim Utges - 6 **13.00**  ·  Joel Priego - 6 **19.00**  ·  Yanis Rahmani - 6 **19.00**  ·  Xavi Moreno - 6 **21.00**  ·  Gaston Valles - 7 **11.00**  ·  Agustin Coscia - 7 **21.00**  ·  Nicholas Gioacchini - 7 **21.00**  ·  Nikolay Obolskiy - 7 **21.00**  ·  Quim Utges - 7 **21.00**  ·  Gaston Valles - 8 **21.00**  ·  Patrick Nuamah - 1 **1.57**  ·  Patrick Nuamah - 2 **3.50**  ·  Patrick Nuamah - 3 **10.00**  ·  Patrick Nuamah - 4 **21.00**
-- **Anytime Goal Scorer:** Gaston Valles **3.40**  ·  Waldo Rubio **5.00**  ·  Yanis Rahmani **4.00**  ·  Chavez Fidel **4.33**  ·  Jordi Martin **8.00**  ·  Nikolay Obolskiy **3.40**  ·  Edgar Gonzalez **17.00**  ·  Gonzalo Pipa **13.00**  ·  Javi Lopez **5.00**  ·  Riera Pere Pons **8.00**  ·  Jesus Clemente **8.00**  ·  Manuel Nieto **2.75**  ·  Alejandro Ibarrondo **7.00**  ·  Javier Olaizola **9.50**  ·  Antonio David **9.50**  ·  Patrick Nuamah **8.00**  ·  Carlos Guirao **12.00**  ·  Javi Martinez **5.00**  ·  Roberto Lopez **5.00**  ·  Floris Smand **12.00**  ·  David Rodriguez **8.00**  ·  Nicholas Gioacchini **3.40**  ·  David Ruiz **7.00**  ·  Genar Fornes **9.50**  ·  Agustin Coscia **3.40**  ·  Quim Utges **3.40**  ·  Ton Ripoll **7.00**  ·  Alain Ribeiro **8.00**  ·  Lluis Blanch **8.50**  ·  Quadri Liameed **8.50**  ·  Eneko Aguilar **9.50**  ·  Albert Orriols **11.00**  ·  Oscar Sanz **12.00**  ·  Arthur Bonaldo **13.00**  ·  Juan Cervera **13.00**  ·  Huson Chynoweth **17.00**  ·  Miki Codina **13.00**  ·  Jorge Rastrojo **3.40**  ·  Marcos Bustillo **7.00**  ·  Mariano Carmona **3.40**  ·  Guillermo Macho **9.50**  ·  Borja Calvo **8.00**  ·  Dinis Rodrigues **2.75**  ·  Iker Carbonell **12.00**  ·  Angel Miguelete **5.50**  ·  Cristian Amarillo **5.00**  ·  Angel Baena **6.50**  ·  Yussif Owusu **11.00**  ·  Pau Cabanes **2.75**  ·  Justin Smith **5.00**  ·  Alex Serradell **13.00**  ·  Juan Larios **7.00**  ·  Julien Yanda **11.00**  ·  Jose Luis Catala **13.00**  ·  Joel Priego **4.00**  ·  Iker Ortega **17.00**  ·  Xavi Moreno **5.00**  ·  Aingeru Olabarrieta **3.75**
-- **Player to Score or Assist:** Gaston Valles **2.75**  ·  Waldo Rubio **2.75**  ·  Yanis Rahmani **2.88**  ·  Chavez Fidel **2.75**  ·  Jordi Martin **4.00**  ·  Nikolay Obolskiy **2.30**  ·  Edgar Gonzalez **9.00**  ·  Gonzalo Pipa **5.00**  ·  Javi Lopez **3.20**  ·  Riera Pere Pons **4.50**  ·  Jesus Clemente **3.75**  ·  Manuel Nieto **2.10**  ·  Alejandro Ibarrondo **3.10**  ·  Javier Olaizola **5.50**  ·  Antonio David **4.33**  ·  Patrick Nuamah **4.50**  ·  Carlos Guirao **5.00**  ·  Javi Martinez **2.88**  ·  Roberto Lopez **2.88**  ·  Floris Smand **8.00**  ·  David Rodriguez **3.75**  ·  Nicholas Gioacchini **2.40**  ·  David Ruiz **3.75**  ·  Genar Fornes **4.75**  ·  Agustin Coscia **2.50**  ·  Quim Utges **2.50**  ·  Ton Ripoll **4.33**  ·  Alain Ribeiro **4.33**  ·  Lluis Blanch **4.50**  ·  Quadri Liameed **4.50**  ·  Eneko Aguilar **5.00**  ·  Albert Orriols **4.00**  ·  Oscar Sanz **5.50**  ·  Arthur Bonaldo **9.00**  ·  Juan Cervera **9.00**  ·  Huson Chynoweth **10.00**  ·  Miki Codina **9.00**  ·  Jorge Rastrojo **2.60**  ·  Marcos Bustillo **3.75**  ·  Mariano Carmona **2.60**  ·  Guillermo Macho **4.50**  ·  Borja Calvo **4.33**  ·  Dinis Rodrigues **2.25**  ·  Iker Carbonell **4.50**  ·  Angel Miguelete **3.40**  ·  Cristian Amarillo **2.88**  ·  Angel Baena **3.25**  ·  Yussif Owusu **5.00**  ·  Pau Cabanes **2.20**  ·  Justin Smith **3.10**  ·  Alex Serradell **8.50**  ·  Juan Larios **3.10**  ·  Julien Yanda **7.00**  ·  Jose Luis Catala **9.00**  ·  Joel Priego **2.88**  ·  Iker Ortega **5.00**  ·  Xavi Moreno **2.88**  ·  Aingeru Olabarrieta **2.38**
+- **Home Player Shots:** Justin Smith - 5 **21.00**  ·  Iker Ortega - 1 **2.50**  ·  Iker Ortega - 2 **9.00**  ·  Iker Ortega - 3 **21.00**  ·  Juan Larios - 1 **1.50**  ·  Juan Larios - 2 **3.25**  ·  Juan Larios - 3 **8.00**  ·  Juan Larios - 4 **21.00**  ·  David Ruiz - 1 **1.57**  ·  David Ruiz - 2 **3.50**  ·  David Ruiz - 3 **10.00**  ·  David Ruiz - 4 **21.00**  ·  Antonio David - 1 **1.73**  ·  Antonio David - 2 **4.33**  ·  Antonio David - 3 **13.00**  ·  Manuel Nieto - 1 **1.02**  ·  Pau Cabanes - 1 **1.04**  ·  Jorge Rastrojo - 1 **1.08**  ·  Mariano Carmona - 1 **1.08**  ·  Javi Martinez - 1 **1.10**  ·  Chavez Fidel - 1 **1.20**  ·  Roberto Lopez - 1 **1.14**  ·  Cristian Amarillo - 1 **1.25**  ·  Justin Smith - 1 **1.25**  ·  Alejandro Ibarrondo - 1 **1.53**  ·  Borja Calvo - 1 **1.67**  ·  David Rodriguez - 1 **1.67**  ·  Jesus Clemente - 1 **1.67**  ·  Marcos Bustillo - 1 **1.57**  ·  Jordi Martin - 1 **1.67**  ·  Guillermo Macho - 1 **1.73**  ·  Javier Olaizola - 1 **1.80**  ·  Carlos Guirao - 1 **2.00**  ·  Iker Carbonell - 1 **2.00**  ·  Julien Yanda - 1 **1.83**  ·  Floris Smand - 1 **2.00**  ·  Alex Serradell - 1 **2.38**  ·  Manuel Nieto - 2 **1.12**  ·  Pau Cabanes - 2 **1.25**  ·  Jorge Rastrojo - 2 **1.40**  ·  Mariano Carmona - 2 **1.40**  ·  Javi Martinez - 2 **1.44**  ·  Chavez Fidel - 2 **1.83**  ·  Roberto Lopez - 2 **1.67**  ·  Cristian Amarillo - 2 **2.10**  ·  Justin Smith - 2 **2.10**  ·  Alejandro Ibarrondo - 2 **3.40**  ·  Borja Calvo - 2 **4.00**  ·  David Rodriguez - 2 **4.00**  ·  Jesus Clemente - 2 **4.00**  ·  Marcos Bustillo - 2 **3.50**  ·  Jordi Martin - 2 **4.00**  ·  Guillermo Macho - 2 **4.33**  ·  Javier Olaizola - 2 **4.33**  ·  Carlos Guirao - 2 **5.50**  ·  Iker Carbonell - 2 **5.50**  ·  Julien Yanda - 2 **5.00**  ·  Floris Smand - 2 **5.50**  ·  Alex Serradell - 2 **8.00**  ·  Manuel Nieto - 3 **1.40**  ·  Pau Cabanes - 3 **1.73**  ·  Jorge Rastrojo - 3 **2.20**  ·  Mariano Carmona - 3 **2.10**  ·  Javi Martinez - 3 **2.38**  ·  Chavez Fidel - 3 **3.75**  ·  Roberto Lopez - 3 **3.00**  ·  Cristian Amarillo - 3 **4.33**  ·  Justin Smith - 3 **4.33**  ·  Alejandro Ibarrondo - 3 **9.00**  ·  Borja Calvo - 3 **11.00**  ·  David Rodriguez - 3 **11.00**  ·  Jesus Clemente - 3 **11.00**  ·  Marcos Bustillo - 3 **10.00**  ·  Jordi Martin - 3 **11.00**  ·  Guillermo Macho - 3 **13.00**  ·  Javier Olaizola - 3 **13.00**  ·  Carlos Guirao - 3 **17.00**  ·  Iker Carbonell - 3 **17.00**  ·  Julien Yanda - 3 **15.00**  ·  Floris Smand - 3 **17.00**  ·  Manuel Nieto - 4 **2.00**  ·  Pau Cabanes - 4 **2.62**  ·  Jorge Rastrojo - 4 **3.75**  ·  Mariano Carmona - 4 **3.75**  ·  Javi Martinez - 4 **4.33**  ·  Chavez Fidel - 4 **8.00**  ·  Roberto Lopez - 4 **6.00**  ·  Cristian Amarillo - 4 **10.00**  ·  Justin Smith - 4 **10.00**  ·  Alejandro Ibarrondo - 4 **21.00**  ·  Manuel Nieto - 5 **3.25**  ·  Pau Cabanes - 5 **4.50**  ·  Jorge Rastrojo - 5 **8.00**  ·  Mariano Carmona - 5 **8.00**  ·  Javi Martinez - 5 **9.00**  ·  Chavez Fidel - 5 **19.00**  ·  Roberto Lopez - 5 **13.00**  ·  Manuel Nieto - 6 **5.50**  ·  Pau Cabanes - 6 **9.00**  ·  Jorge Rastrojo - 6 **15.00**  ·  Mariano Carmona - 6 **15.00**  ·  Manuel Nieto - 7 **10.00**  ·  Pau Cabanes - 7 **19.00**  ·  Manuel Nieto - 8 **19.00**  ·  David Rodriguez - 4 **21.00**  ·  Alex Serradell - 3 **21.00**  ·  Borja Calvo - 4 **21.00**  ·  Jesus Clemente - 4 **21.00**  ·  Jordi Martin - 4 **21.00**  ·  Marcos Bustillo - 4 **21.00**  ·  Javi Martinez - 6 **19.00**  ·  Waldo Rubio - 1 **1.18**  ·  Waldo Rubio - 2 **1.80**  ·  Waldo Rubio - 3 **3.40**  ·  Waldo Rubio - 4 **7.00**  ·  Waldo Rubio - 5 **15.00**  ·  Cristian Amarillo - 5 **21.00**  ·  Manuel Nieto - 9 **21.00**  ·  Dinis Rodrigues - 1 **1.05**  ·  Aingeru Olabarrieta - 1 **1.11**  ·  Dinis Rodrigues - 2 **1.28**  ·  Aingeru Olabarrieta - 2 **1.53**  ·  Dinis Rodrigues - 3 **1.83**  ·  Aingeru Olabarrieta - 3 **2.50**  ·  Dinis Rodrigues - 4 **3.00**  ·  Aingeru Olabarrieta - 4 **4.50**  ·  Dinis Rodrigues - 5 **5.50**  ·  Aingeru Olabarrieta - 5 **10.00**  ·  Dinis Rodrigues - 6 **11.00**  ·  Aingeru Olabarrieta - 6 **21.00**  ·  Dinis Rodrigues - 7 **21.00**  ·  Mariano Carmona - 7 **21.00**  ·  Jorge Rastrojo - 7 **21.00**  ·  Roberto Lopez - 6 **21.00**  ·  Waldo Rubio - 6 **21.00**  ·  Chavez Fidel - 6 **21.00**  ·  Javi Martinez - 7 **21.00**
+- **Away Player Shots:** Gaston Valles - 1 **1.02**  ·  Agustin Coscia - 1 **1.07**  ·  Nicholas Gioacchini - 1 **1.07**  ·  Nikolay Obolskiy - 1 **1.08**  ·  Quim Utges - 1 **1.07**  ·  Joel Priego - 1 **1.14**  ·  Yanis Rahmani - 1 **1.14**  ·  Xavi Moreno - 1 **1.20**  ·  Javi Lopez - 1 **1.25**  ·  Angel Miguelete - 1 **1.25**  ·  Riera Pere Pons - 1 **1.44**  ·  Ton Ripoll - 1 **1.50**  ·  Alain Ribeiro - 1 **1.57**  ·  Lluis Blanch - 1 **1.67**  ·  Quadri Liameed - 1 **1.67**  ·  Eneko Aguilar - 1 **1.73**  ·  Genar Fornes - 1 **1.73**  ·  Albert Orriols - 1 **1.83**  ·  Oscar Sanz - 1 **2.00**  ·  Edgar Gonzalez - 1 **2.20**  ·  Arthur Bonaldo - 1 **1.91**  ·  Jose Luis Catala - 1 **2.38**  ·  Juan Cervera - 1 **2.38**  ·  Huson Chynoweth - 1 **2.50**  ·  Miki Codina - 1 **1.83**  ·  Gaston Valles - 2 **1.17**  ·  Agustin Coscia - 2 **1.36**  ·  Nicholas Gioacchini - 2 **1.36**  ·  Nikolay Obolskiy - 2 **1.40**  ·  Quim Utges - 2 **1.36**  ·  Joel Priego - 2 **1.62**  ·  Yanis Rahmani - 2 **1.62**  ·  Xavi Moreno - 2 **1.83**  ·  Javi Lopez - 2 **2.10**  ·  Angel Miguelete - 2 **2.10**  ·  Riera Pere Pons - 2 **2.75**  ·  Ton Ripoll - 2 **3.25**  ·  Alain Ribeiro - 2 **3.50**  ·  Lluis Blanch - 2 **4.00**  ·  Quadri Liameed - 2 **4.00**  ·  Eneko Aguilar - 2 **4.33**  ·  Genar Fornes - 2 **4.33**  ·  Albert Orriols - 2 **5.00**  ·  Oscar Sanz - 2 **5.50**  ·  Edgar Gonzalez - 2 **6.50**  ·  Arthur Bonaldo - 2 **5.50**  ·  Jose Luis Catala - 2 **8.00**  ·  Juan Cervera - 2 **8.00**  ·  Huson Chynoweth - 2 **9.00**  ·  Miki Codina - 2 **5.00**  ·  Gaston Valles - 3 **1.50**  ·  Agustin Coscia - 3 **2.10**  ·  Nicholas Gioacchini - 3 **2.10**  ·  Nikolay Obolskiy - 3 **2.10**  ·  Quim Utges - 3 **2.10**  ·  Joel Priego - 3 **2.75**  ·  Yanis Rahmani - 3 **2.75**  ·  Xavi Moreno - 3 **3.50**  ·  Javi Lopez - 3 **4.33**  ·  Angel Miguelete - 3 **4.33**  ·  Riera Pere Pons - 3 **7.00**  ·  Ton Ripoll - 3 **8.00**  ·  Alain Ribeiro - 3 **10.00**  ·  Lluis Blanch - 3 **11.00**  ·  Quadri Liameed - 3 **11.00**  ·  Eneko Aguilar - 3 **13.00**  ·  Genar Fornes - 3 **13.00**  ·  Albert Orriols - 3 **15.00**  ·  Oscar Sanz - 3 **17.00**  ·  Edgar Gonzalez - 3 **21.00**  ·  Arthur Bonaldo - 3 **17.00**  ·  Jose Luis Catala - 3 **21.00**  ·  Juan Cervera - 3 **21.00**  ·  Huson Chynoweth - 3 **21.00**  ·  Miki Codina - 3 **15.00**  ·  Gaston Valles - 4 **2.20**  ·  Agustin Coscia - 4 **3.75**  ·  Nicholas Gioacchini - 4 **3.75**  ·  Nikolay Obolskiy - 4 **3.75**  ·  Quim Utges - 4 **3.75**  ·  Joel Priego - 4 **5.50**  ·  Yanis Rahmani - 4 **5.50**  ·  Xavi Moreno - 4 **8.00**  ·  Javi Lopez - 4 **10.00**  ·  Angel Miguelete - 4 **10.00**  ·  Riera Pere Pons - 4 **17.00**  ·  Ton Ripoll - 4 **21.00**  ·  Alain Ribeiro - 4 **21.00**  ·  Lluis Blanch - 4 **21.00**  ·  Quadri Liameed - 4 **21.00**  ·  Eneko Aguilar - 4 **21.00**  ·  Gaston Valles - 5 **3.50**  ·  Agustin Coscia - 5 **7.00**  ·  Nicholas Gioacchini - 5 **7.00**  ·  Nikolay Obolskiy - 5 **7.00**  ·  Quim Utges - 5 **7.00**  ·  Joel Priego - 5 **11.00**  ·  Yanis Rahmani - 5 **11.00**  ·  Xavi Moreno - 5 **17.00**  ·  Javi Lopez - 5 **21.00**  ·  Angel Miguelete - 5 **21.00**  ·  Gaston Valles - 6 **6.50**  ·  Agustin Coscia - 6 **15.00**  ·  Nicholas Gioacchini - 6 **15.00**  ·  Nikolay Obolskiy - 6 **15.00**  ·  Quim Utges - 6 **15.00**  ·  Joel Priego - 6 **21.00**  ·  Yanis Rahmani - 6 **21.00**  ·  Xavi Moreno - 6 **21.00**  ·  Gaston Valles - 7 **13.00**  ·  Agustin Coscia - 7 **21.00**  ·  Nicholas Gioacchini - 7 **21.00**  ·  Nikolay Obolskiy - 7 **21.00**  ·  Quim Utges - 7 **21.00**  ·  Gaston Valles - 8 **21.00**  ·  Patrick Nuamah - 1 **1.57**  ·  Patrick Nuamah - 2 **3.50**  ·  Patrick Nuamah - 3 **10.00**  ·  Patrick Nuamah - 4 **21.00**
+- **Anytime Goal Scorer:** Gaston Valles **3.50**  ·  Waldo Rubio **5.50**  ·  Yanis Rahmani **4.33**  ·  Chavez Fidel **5.00**  ·  Jordi Martin **9.00**  ·  Nikolay Obolskiy **3.50**  ·  Edgar Gonzalez **17.00**  ·  Gonzalo Pipa **15.00**  ·  Javi Lopez **5.50**  ·  Riera Pere Pons **8.00**  ·  Jesus Clemente **9.00**  ·  Manuel Nieto **3.10**  ·  Alejandro Ibarrondo **7.50**  ·  Javier Olaizola **10.00**  ·  Antonio David **10.00**  ·  Patrick Nuamah **8.00**  ·  Carlos Guirao **12.00**  ·  Javi Martinez **5.50**  ·  Roberto Lopez **5.50**  ·  Floris Smand **12.00**  ·  David Rodriguez **9.00**  ·  Nicholas Gioacchini **3.50**  ·  David Ruiz **8.00**  ·  Genar Fornes **10.00**  ·  Agustin Coscia **3.50**  ·  Quim Utges **3.50**  ·  Ton Ripoll **7.50**  ·  Alain Ribeiro **8.00**  ·  Lluis Blanch **9.00**  ·  Quadri Liameed **9.00**  ·  Eneko Aguilar **10.00**  ·  Albert Orriols **11.00**  ·  Oscar Sanz **12.00**  ·  Arthur Bonaldo **15.00**  ·  Juan Cervera **15.00**  ·  Huson Chynoweth **17.00**  ·  Miki Codina **15.00**  ·  Jorge Rastrojo **3.60**  ·  Marcos Bustillo **8.00**  ·  Mariano Carmona **3.60**  ·  Guillermo Macho **10.00**  ·  Borja Calvo **9.00**  ·  Dinis Rodrigues **3.10**  ·  Iker Carbonell **12.00**  ·  Angel Miguelete **5.50**  ·  Cristian Amarillo **5.50**  ·  Angel Baena **6.50**  ·  Yussif Owusu **11.00**  ·  Pau Cabanes **2.88**  ·  Justin Smith **5.50**  ·  Alex Serradell **15.00**  ·  Juan Larios **7.50**  ·  Julien Yanda **11.00**  ·  Jose Luis Catala **15.00**  ·  Joel Priego **4.33**  ·  Iker Ortega **17.00**  ·  Xavi Moreno **5.50**  ·  Aingeru Olabarrieta **4.00**
+- **Player to Score or Assist:** Gaston Valles **2.88**  ·  Waldo Rubio **3.00**  ·  Yanis Rahmani **3.00**  ·  Chavez Fidel **2.88**  ·  Jordi Martin **4.50**  ·  Nikolay Obolskiy **2.40**  ·  Edgar Gonzalez **9.50**  ·  Gonzalo Pipa **5.00**  ·  Javi Lopez **3.25**  ·  Riera Pere Pons **4.75**  ·  Jesus Clemente **4.00**  ·  Manuel Nieto **2.30**  ·  Alejandro Ibarrondo **3.25**  ·  Javier Olaizola **5.50**  ·  Antonio David **4.50**  ·  Patrick Nuamah **4.75**  ·  Carlos Guirao **5.50**  ·  Javi Martinez **3.10**  ·  Roberto Lopez **3.10**  ·  Floris Smand **8.00**  ·  David Rodriguez **4.33**  ·  Nicholas Gioacchini **2.60**  ·  David Ruiz **4.33**  ·  Genar Fornes **4.75**  ·  Agustin Coscia **2.62**  ·  Quim Utges **2.62**  ·  Ton Ripoll **4.50**  ·  Alain Ribeiro **4.50**  ·  Lluis Blanch **4.75**  ·  Quadri Liameed **4.75**  ·  Eneko Aguilar **5.00**  ·  Albert Orriols **4.33**  ·  Oscar Sanz **6.00**  ·  Arthur Bonaldo **9.50**  ·  Juan Cervera **9.50**  ·  Huson Chynoweth **11.00**  ·  Miki Codina **9.50**  ·  Jorge Rastrojo **2.88**  ·  Marcos Bustillo **4.00**  ·  Mariano Carmona **2.75**  ·  Guillermo Macho **4.75**  ·  Borja Calvo **4.75**  ·  Dinis Rodrigues **2.40**  ·  Iker Carbonell **4.75**  ·  Angel Miguelete **3.60**  ·  Cristian Amarillo **3.10**  ·  Angel Baena **3.50**  ·  Yussif Owusu **5.50**  ·  Pau Cabanes **2.30**  ·  Justin Smith **3.40**  ·  Alex Serradell **9.00**  ·  Juan Larios **3.25**  ·  Julien Yanda **7.50**  ·  Jose Luis Catala **9.50**  ·  Joel Priego **3.00**  ·  Iker Ortega **5.50**  ·  Xavi Moreno **3.00**  ·  Aingeru Olabarrieta **2.50**
 
 ## Estadísticas de equipo
 | | Eldense (total) | Eldense en casa | Sabadell (total) | Sabadell fuera |
@@ -190,35 +190,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 36% | 30% | 33% | 3.10 | +2% |
-| 1X2: X | 34% | 29% | 32% | 3.20 | +2% |
-| 1X2: 1 | 30% | 41% | 35% | 2.30 | -19% |
-| Doble oportunidad: X2 | 70% | 59% | 65% | 1.62 | +5% |
-| Doble oportunidad: 12 | 66% | 70% | 68% | 1.36 | -8% |
-| Doble oportunidad: 1X | 64% | 70% | 67% | 1.36 | -8% |
-| Ambos marcan: No | 68% | 50% | 59% | 1.83 | +8% |
-| Ambos marcan: Sí | 32% | 50% | 41% | 1.83 | -25% |
-| Goles más/menos: Más de 1.5 | 50% | 69% | 59% | 1.36 | -20% |
-| Goles más/menos: Más de 2.5 | 23% | 44% | 34% | 2.15 | -28% |
-| Goles más/menos: Más de 3.5 | 9% | 25% | 17% | 3.75 | -37% |
-| Goles más/menos: Menos de 1.5 | 50% | 31% | 41% | 3.00 | +22% |
-| Goles más/menos: Menos de 2.5 | 77% | 56% | 66% | 1.67 | +11% |
-| Goles más/menos: Menos de 3.5 | 91% | 75% | 83% | 1.25 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
-| Goles 1ª parte más/menos: Más de 1.5 | 16% | 29% | 23% | 3.25 | -26% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 84% | 71% | 77% | 1.33 | +3% |
-| Goles del local: Más de 0.5 | 54% | 73% | 64% | 1.28 | -18% |
-| Goles del local: Más de 1.5 | 18% | 39% | 29% | 2.38 | -32% |
-| Goles del local: Menos de 0.5 | 46% | 27% | 36% | 3.50 | +27% |
-| Goles del local: Menos de 1.5 | 82% | 61% | 71% | 1.53 | +9% |
+| 1X2: X | 34% | 31% | 33% | 3.00 | -2% |
+| 1X2: 1 | 30% | 39% | 34% | 2.38 | -18% |
+| Doble oportunidad: X2 | 70% | 62% | 66% | 1.53 | +1% |
+| Doble oportunidad: 12 | 66% | 69% | 67% | 1.36 | -8% |
+| Doble oportunidad: 1X | 64% | 69% | 67% | 1.36 | -9% |
+| Ambos marcan: No | 68% | 54% | 61% | 1.73 | +5% |
+| Ambos marcan: Sí | 32% | 46% | 39% | 2.00 | -22% |
+| Goles más/menos: Más de 1.5 | 50% | 66% | 58% | 1.40 | -19% |
+| Goles más/menos: Más de 2.5 | 23% | 40% | 32% | 2.35 | -26% |
+| Goles más/menos: Más de 3.5 | 9% | 22% | 15% | 4.33 | -34% |
+| Goles más/menos: Menos de 1.5 | 50% | 34% | 42% | 2.75 | +16% |
+| Goles más/menos: Menos de 2.5 | 77% | 60% | 68% | 1.57 | +7% |
+| Goles más/menos: Menos de 3.5 | 91% | 78% | 85% | 1.20 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 52% | 62% | 57% | 1.50 | -14% |
+| Goles 1ª parte más/menos: Más de 1.5 | 16% | 27% | 22% | 3.50 | -24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 48% | 38% | 43% | 2.50 | +7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 84% | 73% | 78% | 1.28 | +0% |
+| Goles del local: Más de 0.5 | 54% | 71% | 63% | 1.33 | -17% |
+| Goles del local: Más de 1.5 | 18% | 35% | 27% | 2.62 | -29% |
+| Goles del local: Menos de 0.5 | 46% | 29% | 37% | 3.25 | +22% |
+| Goles del local: Menos de 1.5 | 82% | 65% | 73% | 1.44 | +5% |
 | Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Goles del visitante: Más de 1.5 | 22% | 29% | 26% | 3.25 | -17% |
+| Goles del visitante: Más de 1.5 | 22% | 28% | 25% | 3.40 | -15% |
 | Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | +1% |
-| Goles del visitante: Menos de 1.5 | 78% | 71% | 74% | 1.33 | -1% |
-| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.95 | -10% |
-| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.85 | -1% |
+| Goles del visitante: Menos de 1.5 | 78% | 72% | 75% | 1.30 | -2% |
+| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
 | 1X2 descanso: 2 | 24% | 25% | 24% | 3.75 | -8% |
-| 1X2 descanso: X | 55% | 44% | 50% | 2.10 | +4% |
-| 1X2 descanso: 1 | 21% | 31% | 26% | 3.00 | -22% |
+| 1X2 descanso: X | 55% | 46% | 51% | 2.00 | +1% |
+| 1X2 descanso: 1 | 21% | 29% | 25% | 3.20 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

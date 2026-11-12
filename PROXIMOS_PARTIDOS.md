@@ -1,22 +1,22 @@
 # Próximos partidos
 
-_Actualizado el 12/11/2026 09:15 (hora España). Partidos guardados en la base de datos: 2562._
+_Actualizado el 12/11/2026 14:18 (hora España). Partidos guardados en la base de datos: 2562._
 
 
 ## Jueves 12/11
 - 18:00 · Nations League · [Türkiye – Belgium](informes/2026-11-12_turkiye-vs-belgium.md) · 1X2: 3.90 / 4.10 / 1.80
-- 18:00 · Nations League · [Armenia – Cyprus](informes/2026-11-12_armenia-vs-cyprus.md) · 1X2: 2.62 / 3.25 / 2.75
-- 18:30 · Copa del Rey · [Calvo Sotelo – Albacete](informes/2026-11-12_calvo-sotelo-vs-albacete.md) · 1X2: 5.50 / 4.10 / 1.53
+- 18:00 · Nations League · [Armenia – Cyprus](informes/2026-11-12_armenia-vs-cyprus.md) · 1X2: 2.70 / 3.20 / 2.70
+- 18:30 · Copa del Rey · [Calvo Sotelo – Albacete](informes/2026-11-12_calvo-sotelo-vs-albacete.md) · 1X2: 5.50 / 4.00 / 1.55
 - 18:45 · Champions Femenina · [Barcelona W – Arsenal W](informes/2026-11-12_barcelona-w-vs-arsenal-w.md) · 1X2: 1.22 / 6.25 / 10.00
-- 19:00 · Copa del Rey · [Navalcarnero – Real Betis](informes/2026-11-12_navalcarnero-vs-real-betis.md) · 1X2: 12.00 / 8.00 / 1.17
+- 19:00 · Copa del Rey · [Navalcarnero – Real Betis](informes/2026-11-12_navalcarnero-vs-real-betis.md) · 1X2: 15.00 / 9.00 / 1.14
 - 19:00 · Copa del Rey · [Tarancón – Levante](informes/2026-11-12_tarancon-vs-levante.md) · 1X2: 21.00 / 9.50 / 1.09
-- 20:45 · Nations League · [England – Croatia](informes/2026-11-12_england-vs-croatia.md) · 1X2: 1.20 / 7.00 / 13.00
-- 20:45 · Nations League · [Italy – France](informes/2026-11-12_italy-vs-france.md) · 1X2: 3.80 / 3.70 / 1.91
-- 20:45 · Nations League · [Czechia – Spain](informes/2026-11-12_czechia-vs-spain.md) · 1X2: 13.00 / 8.00 / 1.18
-- 20:45 · Nations League · [Albania – Finland](informes/2026-11-12_albania-vs-finland.md) · 1X2: 1.95 / 3.20 / 4.20
-- 20:45 · Nations League · [Montenegro – Latvia](informes/2026-11-12_montenegro-vs-latvia.md) · 1X2: 1.27 / 5.50 / 10.00
+- 20:45 · Nations League · [England – Croatia](informes/2026-11-12_england-vs-croatia.md) · 1X2: 1.22 / 6.50 / 12.00
+- 20:45 · Nations League · [Italy – France](informes/2026-11-12_italy-vs-france.md) · 1X2: 3.50 / 3.60 / 2.00
+- 20:45 · Nations League · [Czech Republic – Spain](informes/2026-11-12_czech-republic-vs-spain.md) · 1X2: 13.00 / 8.00 / 1.18
+- 20:45 · Nations League · [Albania – Finland](informes/2026-11-12_albania-vs-finland.md) · 1X2: 2.20 / 3.00 / 3.50
+- 20:45 · Nations League · [Montenegro – Latvia](informes/2026-11-12_montenegro-vs-latvia.md) · 1X2: 1.28 / 5.50 / 9.50
 - 20:45 · Nations League · [San Marino – Belarus](informes/2026-11-12_san-marino-vs-belarus.md) · 1X2: 13.00 / 8.50 / 1.14
-- 21:00 · Champions Femenina · [SL Benfica W – Austria Wien W](informes/2026-11-12_sl-benfica-w-vs-austria-wien-w.md) · 1X2: 1.62 / 4.20 / 4.75
+- 21:00 · Champions Femenina · [SL Benfica W – Austria Wien W](informes/2026-11-12_sl-benfica-w-vs-austria-wien-w.md) · 1X2: 1.62 / 4.10 / 4.75
 
 ## Viernes 13/11
 - 18:00 · Nations League · [Moldova – Kazakhstan](informes/2026-11-13_moldova-vs-kazakhstan.md) · 1X2: 2.70 / 2.90 / 2.88
@@ -65,7 +65,7 @@ _Actualizado el 12/11/2026 09:15 (hora España). Partidos guardados en la base d
 - 14:00 · Segunda División · [Tenerife – AD Ceuta FC](informes/2026-11-15_tenerife-vs-ad-ceuta-fc.md)
 - 15:00 · Nations League · [Latvia – Armenia](informes/2026-11-15_latvia-vs-armenia.md)
 - 15:00 · Nations League · [Cyprus – Montenegro](informes/2026-11-15_cyprus-vs-montenegro.md)
-- 15:00 · Segunda Liga · [Portimonense – Academica](informes/2026-11-15_portimonense-vs-academica.md) · 1X2: 2.25 / 3.10 / 2.90
+- 15:00 · Segunda Liga · [Portimonense – Academica](informes/2026-11-15_portimonense-vs-academica.md) · 1X2: 2.15 / 3.10 / 3.10
 - 16:00 · Liga F · [Sevilla W – Atletico Madrid W](informes/2026-11-15_sevilla-w-vs-atletico-madrid-w.md)
 - 16:15 · Segunda División · [Granada CF – Las Palmas](informes/2026-11-15_granada-cf-vs-las-palmas.md) · 1X2: 1.73 / 3.60 / 4.75
 - 16:30 · Segunda Liga · [Penafiel – Lusitânia Lourosa](informes/2026-11-15_penafiel-vs-lusitania-lourosa.md) · 1X2: 2.25 / 3.00 / 3.00
@@ -77,11 +77,11 @@ _Actualizado el 12/11/2026 09:15 (hora España). Partidos guardados en la base d
 - 18:00 · Liga F · [Deportivo de La Coruña W – Barcelona W](informes/2026-11-15_deportivo-de-la-coruna-w-vs-barcelona-w.md)
 - 18:15 · Liga F · [Valencia W – Granada](informes/2026-11-15_valencia-w-vs-granada.md)
 - 18:30 · Segunda División · [Eibar – Cadiz](informes/2026-11-15_eibar-vs-cadiz.md) · 1X2: 1.62 / 3.75 / 5.50
-- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md) · 1X2: 2.30 / 3.20 / 3.10
+- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md) · 1X2: 2.38 / 3.00 / 3.10
 - 19:00 · Segunda Liga · [Leixoes – Chaves](informes/2026-11-15_leixoes-vs-chaves.md) · 1X2: 1.95 / 3.25 / 3.50
 - 20:45 · Nations League · [Belgium – Italy](informes/2026-11-15_belgium-vs-italy.md)
 - 20:45 · Nations League · [France – Türkiye](informes/2026-11-15_france-vs-turkiye.md)
-- 20:45 · Nations League · [Croatia – Czechia](informes/2026-11-15_croatia-vs-czechia.md)
+- 20:45 · Nations League · [Croatia – Czech Republic](informes/2026-11-15_croatia-vs-czech-republic.md)
 - 20:45 · Nations League · [Spain – England](informes/2026-11-15_spain-vs-england.md)
 
 ## Lunes 16/11

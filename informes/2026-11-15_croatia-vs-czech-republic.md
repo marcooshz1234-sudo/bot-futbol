@@ -1,13 +1,13 @@
-# Croatia – Czechia
+# Croatia – Czech Republic
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
 
 ## Estadísticas de equipo
-| | Croatia (total) | Croatia en casa | Czechia (total) | Czechia fuera |
+| | Croatia (total) | Croatia en casa | Czech Republic (total) | Czech Republic fuera |
 |---|---|---|---|---|
 | Partidos analizados | 4 | 2 | 4 | 2 |
 | Forma (últimos 5) | DDDV | DD | DDDD | DD |
@@ -48,7 +48,7 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Rojas / partido | 0,25 | 0,50 | 0,50 | 0,50 |
 
 ## Goles y tarjetas por tramos de minutos
-| Tramo | Goles Croatia | Recibe Croatia | Tarjetas Croatia | Goles Czechia | Recibe Czechia | Tarjetas Czechia |
+| Tramo | Goles Croatia | Recibe Croatia | Tarjetas Croatia | Goles Czech Republic | Recibe Czech Republic | Tarjetas Czech Republic |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 2 | 1 | 0 | 1 | 0 |
 | 16-30' | 2 | 1 | 2 | 0 | 1 | 1 |
@@ -101,7 +101,7 @@ _Sin bajas comunicadas por ahora._
 | M. Baturina | M | 2 | 64 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 | L. Sučić | M | 1 | 63 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
-## Últimos partidos de Czechia
+## Últimos partidos de Czech Republic
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
 | 2026-10-06 | Nations League | England 3-0 Czechia | fuera | 3-6 | 5 (0) - 17 (3) | 2-1 |
@@ -109,7 +109,7 @@ _Sin bajas comunicadas por ahora._
 | 2026-09-29 | Nations League | Czechia 0-2 England | casa | 1-6 | 6 (2) - 22 (7) | 0-1 |
 | 2026-09-26 | Nations League | Czechia 1-2 Croatia | casa | 1-6 | 5 (2) - 16 (5) | 2-1 |
 
-## Jugadores de Czechia
+## Jugadores de Czech Republic
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | J. Sláma | D | 4 | 331 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 5 | 4 | 1,0 | 0 | 0 |

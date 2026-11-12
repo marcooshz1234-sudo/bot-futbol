@@ -1,10 +1,10 @@
 # Amarante – Felgueiras 1932
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Amarante Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 14:15_
+_Actualizadas: 12/11 14:18_
 
 - **1X2:** 1 **2.40**  ·  X **3.00**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.50**
@@ -27,6 +27,10 @@ _Actualizadas: 11/11 14:15_
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9: más **1.85** · menos **1.95**
+    - 9,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **1.95**  ·  X **7.50**  ·  2 **2.10**
 - **1X2 descanso:** 1 **3.25**  ·  X **2.00**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.33** · menos **3.25**
@@ -39,6 +43,11 @@ _Actualizadas: 11/11 14:15_
 - **Win Both Halves:** 1 **10.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **7.00**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **1.91**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 
 ## Estadísticas de equipo
 | | Amarante (total) | Amarante en casa | Felgueiras 1932 (total) | Felgueiras 1932 fuera |
@@ -176,6 +185,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 33% | 29% | 31% | 3.25 | +0% |
 | Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del visitante: Menos de 1.5 | 67% | 71% | 69% | 1.33 | -8% |
+| Córners más/menos: Más de 9.5 | 37% | 44% | 41% | 2.10 | -15% |
+| Córners más/menos: Menos de 9.5 | 63% | 56% | 59% | 1.67 | -1% |
 | 1X2 descanso: 2 | 27% | 26% | 26% | 3.60 | -6% |
 | 1X2 descanso: X | 46% | 46% | 46% | 2.00 | -8% |
 | 1X2 descanso: 1 | 27% | 28% | 28% | 3.25 | -9% |

@@ -1,7 +1,7 @@
 # Oviedo – Girona
 **Segunda División** · Regular Season - 14 · 14/11/2026 21:00 (hora España) · Nuevo Carlos Tartiere
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 08:26_

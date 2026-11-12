@@ -4297,7 +4297,7 @@
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x29,73! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇦🇲 Armenia o empate\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Calvo Sotelo marca\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Albania gana alguna de las dos partes\n⚽ Austria Wien (fem.) marca",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇦🇲 Armenia o empate\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Calvo Sotelo marca\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇮🇹 Ambos marcan en Italia–Francia\n⚽ Austria Wien (fem.) marca",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4308,7 +4308,7 @@
       "1638295|Total - Home|Over 2.5",
       "1644379|Total - Away|Over 2.5",
       "1545613|Total - Home|Over 1.5",
-      "1528963|To Win Either Half|Home",
+      "1528960|Both Teams Score|Yes",
       "1638339|Total - Away|Over 0.5"
     ],
     "cuotas": [
@@ -4318,7 +4318,8 @@
       1.62,
       1.5,
       1.5,
-      1.67,
+      1.5,
+      1.57,
       1.44
     ],
     "solo_redes": true,
@@ -4825,7 +4826,7 @@
   {
     "id": "2026-11-15-ganadores-resto",
     "fecha": "2026-11-15T00:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇵🇹 Tondela - Win\n2. 🇪🇸 Granada CF - Win\n3. 🇮🇹 Cittadella - Win\n4. 🇮🇹 Pergolettese - Win\n5. 🇪🇸 Eibar - Win\n6. 🇪🇸 Eldense - Win\n7. 🇵🇹 Leixoes - Win\n\n🍀 ¿CUÁL FALLA? 👀💚",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇵🇹 Tondela - Win\n2. 🇵🇹 Portimonense - Win\n3. 🇪🇸 Granada CF - Win\n4. 🇮🇹 Cittadella - Win\n5. 🇮🇹 Pergolettese - Win\n6. 🇪🇸 Eibar - Win\n7. 🇵🇹 Leixoes - Win\n\n🍀 ¿CUÁL FALLA? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4833,20 +4834,20 @@
     "forzar": true,
     "sel": [
       "1576537|Match Winner|Home",
+      "1576536|Match Winner|Home",
       "1570018|Match Winner|Home",
       "1608364|Match Winner|Home",
       "1608369|Match Winner|Home",
       "1570016|Match Winner|Home",
-      "1570017|Match Winner|Home",
       "1576534|Match Winner|Home"
     ],
     "cuotas": [
       2.05,
+      2.15,
       1.73,
       1.4,
       2.25,
       1.62,
-      2.3,
       1.95
     ],
     "ganadores_img": {
@@ -4858,6 +4859,14 @@
           "bandera": "🇵🇹",
           "escudo_url": "https://media.api-sports.io/football/teams/218.png",
           "nombre": "Tondela",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/216.png",
+          "nombre": "Portimonense",
           "pick": "WIN",
           "seleccion": false
         },
@@ -4890,14 +4899,6 @@
           "bandera": "🇪🇸",
           "escudo_url": "https://media.api-sports.io/football/teams/545.png",
           "nombre": "Eibar",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/9692.png",
-          "nombre": "Eldense",
           "pick": "WIN",
           "seleccion": false
         },

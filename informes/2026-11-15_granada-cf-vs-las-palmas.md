@@ -1,7 +1,7 @@
 # Granada CF – Las Palmas
 **Segunda División** · Regular Season - 14 · 15/11/2026 16:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 02:19_

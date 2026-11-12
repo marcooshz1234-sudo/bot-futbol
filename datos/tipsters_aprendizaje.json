@@ -67,20 +67,27 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
-  }
- },
- "mercado": {
-  "Goals Over/Under Over 3.0": {
-   "n": 5,
+  },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 1,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
-  },
+  }
+ },
+ "mercado": {
   "Goals Over/Under Over 2.5": {
-   "n": 4,
+   "n": 5,
    "verdes": 0,
    "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Goals Over/Under Over 3.0": {
+   "n": 5,
+   "verdes": 0,
+   "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -219,7 +226,7 @@
  },
  "equipo": {
   "—": {
-   "n": 19,
+   "n": 20,
    "verdes": 3,
    "rojos": 2,
    "nulos": 0,
@@ -339,6 +346,15 @@
   }
  },
  "razon": {
+  "sin razón": {
+   "n": 14,
+   "verdes": 3,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.0,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.936
+  },
   "goles": {
    "n": 14,
    "verdes": 1,
@@ -347,15 +363,6 @@
    "unidades": -2.36,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.893
-  },
-  "sin razón": {
-   "n": 13,
-   "verdes": 3,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.0,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.936
   },
   "casa/fuera": {
    "n": 7,
@@ -421,7 +428,7 @@
    "prob_cuota": 1.612
   },
   "1,50-1,80": {
-   "n": 12,
+   "n": 13,
    "verdes": 3,
    "rojos": 4,
    "nulos": 0,
@@ -457,7 +464,7 @@
    "prob_cuota": 3.903
   },
   "UEFA Nations League": {
-   "n": 9,
+   "n": 10,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -493,7 +500,7 @@
    "prob_cuota": 4.058
   },
   "partido": {
-   "n": 14,
+   "n": 15,
    "verdes": 2,
    "rojos": 2,
    "nulos": 0,
@@ -522,7 +529,7 @@
    "prob_cuota": 3.608
   },
   "—": {
-   "n": 13,
+   "n": 14,
    "verdes": 4,
    "rojos": 5,
    "nulos": 0,
@@ -581,7 +588,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 35,
+   "n": 36,
    "verdes": 8,
    "rojos": 7,
    "nulos": 0,

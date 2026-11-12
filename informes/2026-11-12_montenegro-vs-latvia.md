@@ -1,12 +1,12 @@
 # Montenegro – Latvia
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · Gradski Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 14:18._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 08:25_
+_Actualizadas: 12/11 11:38_
 
-- **1X2:** 1 **1.27**  ·  X **5.50**  ·  2 **10.00**
+- **1X2:** 1 **1.28**  ·  X **5.50**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **3.50**
 - **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
@@ -15,20 +15,20 @@ _Actualizadas: 12/11 08:25_
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
     - 4,5: más **5.00** · menos **1.14**
-    - 5,5: más **8.50** · menos **1.05**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.08** · menos **7.00**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.10** · menos **6.50**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
-    - 4,5: más **8.00** · menos **1.06**
+    - 4,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **2.10** · menos **1.67**
-    - 1,5: más **6.50** · menos **1.10**
+    - 0,5: más **2.20** · menos **1.62**
+    - 1,5: más **7.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.22**  ·  X **10.00**  ·  2 **5.00**
@@ -39,12 +39,12 @@ _Actualizadas: 12/11 08:25_
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **6.50**  ·  No **1.11**
-- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
-- **To Win Either Half:** 1 **1.18**  ·  2 **4.50**
+- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
+- **To Win Either Half:** 1 **1.18**  ·  2 **5.00**
 - **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **13.00**
 - **Win Both Halves:** 1 **2.75**  ·  2 **51.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **8.00**  ·  Away/Yes **21.00**  ·  Home/No **1.80**  ·  Draw/No **11.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.25**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **7.50**  ·  Away/Yes **21.00**  ·  Home/No **1.83**  ·  Draw/No **11.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 6,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
