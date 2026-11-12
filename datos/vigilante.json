@@ -28,11 +28,21 @@
   "redes-2026-11-12-verde-auto-2026-11-12-pick-seguro-threads": "2026-11-12T21:04",
   "foto-2026-11-12-verde-grupo-2158": "2026-11-12T21:59",
   "foto-2026-11-12-verde-auto-2026-11-12-pick-tip-3": "2026-11-12T22:34",
-  "foto-2026-11-12-verde-auto-2026-11-12-pick-seguro-2": "2026-11-12T23:06"
+  "foto-2026-11-12-verde-auto-2026-11-12-pick-seguro-2": "2026-11-12T23:06",
+  "bucle-imagenes_cola-2026111223": "2026-11-12T23:42"
  },
- "abiertos": [],
- "revisado": "2026-11-12T23:32",
+ "abiertos": [
+  {
+   "clave": "bucle-imagenes_cola-2026111223",
+   "t": "🔧 El paso «imagenes_cola» del bot ha fallado 3 veces en la última hora"
+  }
+ ],
+ "revisado": "2026-11-12T23:42",
  "historial": [
+  {
+   "hora": "2026-11-12T23:42",
+   "t": "🔧 El paso «imagenes_cola» del bot ha fallado 3 veces en la última hora"
+  },
   {
    "hora": "2026-11-12T23:06",
    "t": "🖼️ Sale a las 23:13 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
