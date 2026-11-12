@@ -29,9 +29,10 @@ class ResumenBonito(unittest.TestCase):
         t, _ = R.textos_picks(picks, "2026-11-12", self.posts, self.cola)
         self.assertNotIn("❌", t)
         self.assertNotIn("fallad", t.lower())
-        self.assertIn("✅ 4 picks en verde hoy", t)
-        self.assertIn("🎯 Picks sueltos: 3 de 4 acertados", t)   # los sueltos, aparte de las combis
+        self.assertIn("✅ 4 de 7 picks en verde\n", t)   # los fallados salen, sin ❌
+        self.assertIn("🎯 Picks sueltos: 3 de 4", t)   # los sueltos, aparte de las combis
         self.assertIn("✅ Gana el Albacete @1,53", t)
+        self.assertIn("✅ España gana al descanso @1,61", t)
         self.assertNotIn("Calvo Sotelo", t)
         self.assertLessEqual(len(t), 500)
 
@@ -40,7 +41,9 @@ class ResumenBonito(unittest.TestCase):
         posts += self.posts[2:]
         picks, _ = R.picks_dia(posts, "2026-11-12")
         t, _ = R.textos_picks(picks, "2026-11-12", posts, self.cola)
-        self.assertIsNone(t)   # 2 verdes: no hay resumen
+        self.assertIn("✅ 2 de 7 picks en verde\n", t)   # sin % cuando es malo, y sin ❌
+        self.assertNotIn("%", t.split("Para dentro")[0].replace("📊", ""))
+        self.assertNotIn("❌", t)
 
 
 if __name__ == "__main__":

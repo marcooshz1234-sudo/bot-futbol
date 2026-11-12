@@ -89,7 +89,8 @@ class BalanceTest(unittest.TestCase):
         picks, en_juego = resumen_dia.picks_dia(posts, '2026-10-27')
         self.assertEqual([x['texto'] for x in picks], ['Lazio o empate', 'Rayo gana alguna de las dos partes', 'Arsenal — Gana'])
         texto, _ = resumen_dia.textos_picks(picks, '2026-10-27')
-        self.assertIsNone(texto)   # 13/11: con 1 verde no sale resumen (y nunca los fallados)
+        self.assertIn('1 de 3 picks en verde', texto)   # 13/11: los fallados salen, pero sin ❌
+        self.assertNotIn('❌', texto)
         largo = [pk(i, f'Equipo {i} ve más de 1,5 tarjetas' if i % 2 else f'Equipo {i} marca', 'verde' if i % 3 else 'rojo') for i in range(40)]
         texto, _ = resumen_dia.textos_picks(resumen_dia.picks_dia([dict(posts[0], picks=largo)], '2026-10-27')[0], '2026-10-27')
         self.assertLessEqual(len(texto), 500)

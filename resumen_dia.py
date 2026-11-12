@@ -117,7 +117,7 @@ def tipo_pick(texto):
 
 
 LISTAS = ('ganadores', 'marcadores', 'lista', 'verde', 'balance', 'rojo', 'picks-manana', 'exactos')
-MIN_VERDES = 3
+MIN_VERDES = 1
 MIN_MOSTRAR = 0.6   # un % o un «x de y» solo sale si es bueno (60 % o más)
 
 
@@ -140,14 +140,15 @@ def posts_dia(posts, dia, cola=()):
             continue
         ps = [x for x in p.get('picks', []) if not x.get('exacto')]
         if ps and p.get('estado') in ('verde', 'rojo'):
-            out.append((p['id'], ps, p['estado'], _cuota_post(p['id'], cola) or p.get('cuota')))
+            out.append((p['id'], ps, p['estado'], _cuota_post(p['id'], cola) or p.get('cuota')
+                        or (ps[0].get('cuota') if len(ps) == 1 else None)))
     return out
 
 
 def textos_picks(picks, dia, posts=(), cola=()):
-    """13/11 (Marcos: «poner no sé cuántos fallados queda muy feo… muchos picks sueltos los acertamos y las combis
-    las fallamos: busca una manera para que quede bien»). Nunca los fallados: lo que salió en verde y, solo si son
-    buenos (≥ 60 %), los números. Los picks sueltos aparte de las combis. Si no hay nada verde, None (no sale)."""
+    """13/11 (Marcos: «poner no sé cuántos fallados queda muy feo… busca una manera para que quede bien» y luego «los
+    fallados tienen que salir, pero no pongas la ❌»). Todo como «x de y» (sin ❌ ni «fallados»), el % solo si es bueno
+    (≥ 60 %), los picks sueltos aparte de las combis y la lista de lo que salió en verde con su cuota."""
     v, n = sum(x['estado'] == 'verde' for x in picks), len(picks)
     if v < MIN_VERDES:   # un día con 1 o 2 verdes no luce: mejor no sacar resumen
         return None, None
@@ -158,19 +159,19 @@ def textos_picks(picks, dia, posts=(), cola=()):
         c[1] += 1
     bueno = lambda a, b: b and a / b >= MIN_MOSTRAR
     fecha = datetime.fromisoformat(dia)
-    lineas = [f"📊 RESUMEN DEL {DIAS[fecha.weekday()]} 🍀", '', f"✅ {v} picks en verde hoy"]
+    # 13/11 (Marcos: «los fallados tienen que salir, pero no pongas la ❌: que no se vea tan mal»): «x de y», sin ❌
+    lineas = [f"📊 RESUMEN DEL {DIAS[fecha.weekday()]} 🍀", '',
+              f"✅ {v} de {n} picks en verde" + (f" · {round(100 * v / n)} %" if bueno(v, n) else '')]
     rp = posts_dia(posts, dia, cola)
     sueltos = [x for x in rp if len(x[1]) == 1]
     sv = sum(x[2] == 'verde' for x in sueltos)
-    if bueno(sv, len(sueltos)) and len(sueltos) >= 3:
-        lineas.append(f"🎯 Picks sueltos: {sv} de {len(sueltos)} acertados")
-    elif bueno(v, n):
-        lineas.append(f"🎯 {round(100 * v / n)} % de acierto")
+    if sueltos:
+        lineas.append(f"🎯 Picks sueltos: {sv} de {len(sueltos)}")
     mejores = sorted((k for k in tipos if k != 'ganadores' and tipos[k][1] >= 2 and bueno(*tipos[k])),
                      key=lambda k: (-tipos[k][0] / tipos[k][1], -tipos[k][1]))[:2]
     if mejores:
         lineas.append("🔥 Lo mejor: " + " · ".join(f"{k} {tipos[k][0]}/{tipos[k][1]}" for k in mejores))
-    if 'ganadores' in tipos and tipos['ganadores'][1] >= 3 and bueno(*tipos['ganadores']):
+    if 'ganadores' in tipos and tipos['ganadores'][1] >= 3:
         lineas.append(f"⚽ Ganadores: {tipos['ganadores'][0]}/{tipos['ganadores'][1]}")
     verdes = sorted((x for x in rp if x[2] == 'verde'), key=lambda x: -(x[3] or 0))
     if verdes:

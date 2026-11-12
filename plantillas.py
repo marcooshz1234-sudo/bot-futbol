@@ -380,7 +380,8 @@ def texto_seguro(p, dia=""):
             lineas += [""] + [f"👨‍💻 {m}" for m in motivos]   # 09/11 (Marcos): sin la palabra «Argumento»
         if v + r:
             roi = 100 * gan / (10 * (v + r))
-            lineas += ["", f"📊 Historial: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
+            # 13/11 (Marcos: «los fallados tienen que salir, pero sin la ❌, que no se vea tan mal»)
+            lineas += ["", f"📊 Historial: {v} de {v + r} en verde · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
         lineas += ["", "🔞 Juega con cabeza", CIERRE_TELEGRAM]
         return "\n".join(lineas)
     lineas = ["🍀 PICK DEL DÍA 🍀", "",
