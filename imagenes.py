@@ -166,7 +166,7 @@ def ajustar_al_lienzo(pagina, alto):
 
 TARJETA = """<!doctype html><html><head><meta charset="utf-8"><style>
 *{box-sizing:border-box}
-body{margin:0;width:1180px;height:340px;background:linear-gradient(100deg,#3a2a1c 0%,#262019 30%,#1f1e1c 60%,#2a2a28 100%);
+body{margin:0;width:1180px;height:340px;background:radial-gradient(ellipse 55% 90% at 50% 50%,rgba(126,240,58,.28),rgba(126,240,58,0) 70%),radial-gradient(ellipse 40% 60% at 50% 120%,rgba(242,201,76,.25),rgba(0,0,0,0) 70%),linear-gradient(100deg,#0a1440 0%,#13205a 45%,#0a1440 100%);
 font-family:'Liberation Sans','DejaVu Sans',sans-serif;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 52px}
 .estrella{width:62px;height:62px;flex:none;margin-top:-90px}
 .eq{display:flex;flex-direction:column;align-items:center;gap:22px;width:300px;margin:0 20px}
@@ -205,7 +205,9 @@ def escudo(url, nombre):
 def tarjeta(p, pagina):
     """27/10: foto del partido para las combis de un solo partido (escudos, hora y día), como las que
     mejor funcionaron en Threads. → publicaciones/media/{id}.tarjeta.jpg
-    11/11 (Marcos): las de UN partido se quedan SIEMPRE con este formato de antes, no se cambia."""
+    11/11 (Marcos): las de UN partido se quedan SIEMPRE con este formato de antes, no se cambia.
+    12/11 (Marcos: «ponle un color de fondo más guapo, ese está simple y feo» → eligió la A): fondo azul de la marca
+    con brillo verde neón en el centro; el resto igual."""
     import html
     t = p["tarjeta"]
     ini = datetime.fromisoformat(t["fecha"])
