@@ -4350,12 +4350,12 @@
   {
     "id": "2026-11-12-pick-seguro-2",
     "fecha": "2026-11-12T18:00",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Albania – Finlandia · 20:45\n\n🍀 Más de 1,5 goles en Albania–Finlandia @1,50\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Montenegro – Letonia · 20:45\n\n🍀 Montenegro marca 2 o más @1,50\n\n👨‍💻 Se espera lluvia (5,8 mm): suele haber menos goles\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528963|Goals Over/Under|Over 1.5"
+      "1545613|Total - Home|Over 1.5"
     ],
     "cuotas": [
       1.5
@@ -4507,7 +4507,7 @@
   {
     "id": "2026-11-13-combi-multi",
     "fecha": "2026-11-13T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,83! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇦🇩 Andorra gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇮🇸 Islandia gana alguna de las dos partes\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇸🇰 Eslovaquia marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,83! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇮🇹 Gana el Ospitaletto\n🇨🇭 Suiza gana alguna de las dos partes\n🇦🇩 Andorra gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇮🇸 Islandia gana alguna de las dos partes\n🇸🇰 Eslovaquia marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4517,8 +4517,8 @@
       "1545654|To Win Either Half|Away",
       "1545615|To Win Either Half|Home",
       "1528966|Match Winner|Home",
-      "1528969|To Win Either Half|Away",
       "1545614|Goals Over/Under|Over 1.5",
+      "1528969|To Win Either Half|Away",
       "1528967|Total - Home|Over 1.5"
     ],
     "cuotas": [
