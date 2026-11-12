@@ -438,7 +438,9 @@ def extra_partido(f, hist):
     t = _ARB.get(arb, []) if arb else []
     if arb and len(t) < 4:   # 12/11: los de fuera de nuestras ligas (arbitros_ext.py, de la API)
         ext = ((leer(DATOS / "arbitros_ext.json", {}) or {}).get(arb) or {}).get("tarjetas") or []
-        t = ext if len(ext) >= 3 else t   # con 1-2 partidos la media engaña (Lanssens: 1 partido, 0 tarjetas)
+        t = ext if len(ext) >= len(t) else t
+    if len(t) < 3:   # con 1-2 partidos la media engaña (Lanssens: 1 partido, 0 tarjetas) → «aún sin datos»
+        t = []
     bajas = {}
     for l in prox.get("lesiones") or []:
         lado = "local" if l.get("equipo") == f["teams"]["home"]["id"] else "visitante"
