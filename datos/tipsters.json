@@ -419,7 +419,13 @@
   ],
   "por_que": [
    "Vale que gane, empate o pierda por un gol; con el Sheffield rotando y el Accrington jugándose el pase, tiene sentido"
-  ]
+  ],
+  "estado": "verde",
+  "marcador": [
+   0,
+   4
+  ],
+  "corregido": "12/11 ojeador: 0-4 (Yorkshire Post)"
  },
  {
   "tipster": "Tipster Pérez",
@@ -447,11 +453,12 @@
    "cuota_bet365": 1.36,
    "prob_cuota": 0.735
   },
-  "estado": null,
+  "estado": "rojo",
   "marcador": [
    1,
    1
-  ]
+  ],
+  "corregido": "12/11 ojeador: 1-1, el Køge no ganó ninguna parte (bitácora 11/11)"
  },
  {
   "tipster": "Tipster Pérez",
@@ -646,5 +653,153 @@
   "por_que": [
    "Mercado prohibido (más de 2,5 goles): no se copia. Sin nombre de partido en el texto: no se puede corregir solo."
   ]
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44961",
+  "combinada": "-1001299202120/44961",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Italy",
+  "visitante": "France",
+  "texto": "MyMatch: Francia marca + más de 1,5 goles (@1,25 conjunto)",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "cuota": 1.25,
+  "argumento": [
+   "Combi 2,02 de Nations League (150 €), lo explica por audio"
+  ],
+  "por_que": [
+   "Francia favorita (1,91 bet365 = Pinnacle) y marca en casi todo; Francia marca @1,14 en bet365. Pata de relleno para subir cuota, con poco riesgo."
+  ],
+  "partido_id": 1528960,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.14,
+   "prob_cuota": 0.8
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44961",
+  "combinada": "-1001299202120/44961",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Italy",
+  "visitante": "France",
+  "texto": "MyMatch: Francia marca + más de 1,5 goles (@1,25 conjunto)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": 1.25,
+  "argumento": [
+   "Dentro del MyMatch con Francia marca"
+  ],
+  "por_que": [
+   "+1,5 goles @1,20 bet365; las dos selecciones reciben ~1 gol por partido. Probable, pero Italia–Francia puede ser cerrado (predicción API: 45 % empate)."
+  ],
+  "partido_id": 1528960,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.2,
+   "prob_cuota": 0.8
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44961",
+  "combinada": "-1001299202120/44961",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Czechia",
+  "visitante": "Spain",
+  "texto": "España marca más de 1,5 goles",
+  "mercado": "Total - Away",
+  "opcion": "Over 1.5",
+  "cuota": 1.26,
+  "argumento": [
+   "Pata de la combi 2,02 de Nations League"
+  ],
+  "por_que": [
+   "España @1,18 para ganar fuera; España +1,5 @1,25 en bet365 y Pinnacle (sin valor). Chequia en casa suele cerrarse: el riesgo es un 0-1 o 1-1."
+  ],
+  "partido_id": 1528961,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.25,
+   "prob_cuota": 0.794
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44961",
+  "combinada": "-1001299202120/44961",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "England",
+  "visitante": "Croatia",
+  "texto": "Inglaterra marca más de 1,5 goles",
+  "mercado": "Total - Home",
+  "opcion": "Over 1.5",
+  "cuota": 1.28,
+  "argumento": [
+   "Pata de la combi 2,02 de Nations League"
+  ],
+  "por_que": [
+   "Inglaterra @1,20 en casa; +1,5 @1,28 bet365 / 1,29 Pinnacle. Croacia es el rival más serio de las tres patas: la más floja de la combi."
+  ],
+  "partido_id": 1528962,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.28,
+   "prob_cuota": 0.781
+  }
+ },
+ {
+  "tipster": "PABLO ANALISTA",
+  "fuente": "-1001393609245/16304",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Italy",
+  "visitante": "France",
+  "texto": "Más de 2,5 goles Italia–Francia",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.66,
+  "stake": 1,
+  "argumento": [
+   "Enseña goles marcados (Italia 1,60, Francia 2,10 por partido) y recibidos (1,00 y 1,10)"
+  ],
+  "por_que": [
+   "Mercado prohibido para nosotros (más de 2,5 del partido): solo para aprender. Medias suman ~2,9 goles; cuota 1,67 bet365 / 1,69 Pinnacle = precio justo, sin valor. Stake 1: poca confianza."
+  ],
+  "partido_id": 1528960,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.67,
+   "prob_cuota": 0.602
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44956",
+  "dia": "2026-11-11",
+  "local": "Castellon B",
+  "visitante": "Deportiva Minera",
+  "texto": "En directo: más de 1,5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": 1.5,
+  "argumento": [
+   "En directo: «hay ida y vuelta, mucha calidad»; enseña xG 1,15 vs 3,08 y 20 remates"
+  ],
+  "por_que": [
+   "Apuesta en directo (no copiable). Los datos le daban la razón: xG total >4 y 30 remates; acabó 3-0 (verde, 3.º gol en el 90')."
+  ],
+  "estado": "verde",
+  "marcador": [
+   3,
+   0
+  ],
+  "corregido": "12/11 ojeador: 3-0 (foto de bet365 del tipster, gol 90')"
  }
 ]
