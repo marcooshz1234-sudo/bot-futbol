@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 00:50",
+ "actualizado": "2026-11-12 01:01",
  "redes": {
   "instagram": {
    "seguidores": 37,
@@ -58,9 +58,9 @@
  "total_hoy": 3,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:00",
+  "hora": "10:30",
   "dia": "2026-11-12",
-  "titulo": "Copa del rey - ganadores"
+  "titulo": "Vamos con el pick de hoy familia"
  },
  "ayer": null,
  "escalera": {
@@ -195,13 +195,13 @@
   }
  },
  "tipos_instagram": {
-  "Otros": {
-   "posts": 3,
+  "Otros (reel)": {
+   "posts": 12,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 11,
+  "Otros": {
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -211,7 +211,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 35,
+   "posts": 34,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
