@@ -4948,7 +4948,8 @@
     "mensaje_id": 422,
     "redes": {
       "instagram_reel": null,
-      "threads": "18147282886608499"
+      "threads": "18147282886608499",
+      "threads_enlace": "18203953078378318"
     },
     "errores_redes": {
       "instagram": "contenedor ERROR: ERROR"
@@ -4969,7 +4970,8 @@
     "mensaje_id": 423,
     "redes": {
       "instagram_reel": null,
-      "threads": "18119781011012642"
+      "threads": "18119781011012642",
+      "threads_enlace": "18146232700580777"
     },
     "errores_redes": {
       "instagram": "contenedor ERROR: ERROR"
