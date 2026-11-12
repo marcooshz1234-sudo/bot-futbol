@@ -5109,5 +5109,37 @@
     "requiere_ok": true,
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
+  },
+  {
+    "id": "2026-11-12-pick-tip-6",
+    "fecha": "2026-11-12T18:49",
+    "texto": "Este nos encanta para hoy 🔥\n\n🍀 España gana al descanso @1,61\n\n⚽ Chequia – España · hoy 20:45\n\n👨‍💻 Chequia ha perdido sus 5 últimos partidos y España ha ganado los 5\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528961|First Half Winner|Away"
+    ],
+    "cuotas": [
+      1.61
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+  },
+  {
+    "id": "2026-11-12-pick-tip-7",
+    "fecha": "2026-11-12T18:49",
+    "texto": "Pick que no podía faltar hoy ⚽\n📋 Números en la mano antes de meterla\n\n🍀 Jordan Pickford (Inglaterra), más de 1,5 paradas @1,83\n\n⚽ Inglaterra – Croacia · hoy 20:45\n\n👨‍💻 Croacia llega con 3 derrotas seguidas pero siempre llega arriba con Kramarić y Perišić",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528962|Goalkeeper Saves|Jordan Pickford - 2"
+    ],
+    "cuotas": [
+      1.83
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
