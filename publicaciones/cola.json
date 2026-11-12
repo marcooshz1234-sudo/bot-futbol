@@ -5169,5 +5169,17 @@
     "resultado": "verde",
     "verde_de": "2026-11-12-pick-tip-1",
     "requiere_ok": true
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-4",
+    "fecha": "2026-11-12T18:54",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 2,5 goles en Turquía–Bélgica\n\n📈 Cuota @1,50",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-4.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-tip-4",
+    "requiere_ok": true
   }
 ]
