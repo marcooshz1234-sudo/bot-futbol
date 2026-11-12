@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 12:26",
+ "actualizado": "2026-11-12 12:36",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 386,
-   "hoy": 2,
+   "seguidores": 385,
+   "hoy": 1,
    "serie": [
     294,
     307,
@@ -50,17 +50,17 @@
     360,
     378,
     384,
-    386
+    385
    ]
   }
  },
- "total": 3102,
- "total_hoy": 36,
+ "total": 3101,
+ "total_hoy": 35,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:27",
+  "hora": "13:30",
   "dia": "2026-11-12",
-  "titulo": "Combinada para hoy, con cabeza"
+  "titulo": "Vamos con la combi del jueves familia"
  },
  "ayer": null,
  "escalera": {
@@ -191,17 +191,17 @@
    "instagram": 39,
    "threads": 2676,
    "facebook": 1,
-   "telegram": 386
+   "telegram": 385
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 6,
+  "Otros (reel)": {
+   "posts": 16,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 13,
+  "Escalera (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -211,7 +211,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 32,
+   "posts": 30,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -221,7 +221,7 @@
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
