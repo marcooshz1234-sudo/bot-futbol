@@ -4724,7 +4724,14 @@
     "cuotas": [
       1.62
     ],
-    "nota": "12/11 Marcos: más contenido para Threads"
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18015967661763583"
+    }
   },
   {
     "id": "2026-11-12-combi-nations-th-1",
