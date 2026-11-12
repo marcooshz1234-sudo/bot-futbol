@@ -4636,7 +4636,8 @@
       "fecha": "2026-11-12T18:00",
       "liga": "Nations League"
     },
-    "cuota_total": 1.6
+    "cuota_total": 1.6,
+    "caducada": true
   },
   {
     "id": "2026-11-12-combi-partido-1528960-th",
