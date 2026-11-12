@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-12 23:52",
+ "actualizado": "2026-11-13 00:02",
  "redes": {
   "instagram": {
    "seguidores": 40,
-   "hoy": 3,
+   "hoy": 0,
    "serie": [
-    27,
     33,
     35,
     36,
     36,
     37,
+    40,
     40
    ]
   },
   "threads": {
    "seguidores": 2691,
-   "hoy": 47,
+   "hoy": 0,
    "serie": [
-    2004,
     2126,
     2231,
     2359,
     2593,
     2644,
+    2691,
     2691
    ]
   },
@@ -31,7 +31,7 @@
    "seguidores": 1,
    "hoy": 0,
    "serie": [
-    0,
+    1,
     1,
     1,
     1,
@@ -42,25 +42,25 @@
   },
   "telegram": {
    "seguidores": 391,
-   "hoy": 7,
+   "hoy": 0,
    "serie": [
-    294,
     307,
     331,
     360,
     378,
     384,
+    391,
     391
    ]
   }
  },
  "total": 3123,
- "total_hoy": 57,
- "likes_hoy": 1,
+ "total_hoy": 0,
+ "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-13",
-  "titulo": "Nations league - ganadores"
+  "titulo": "Pick que nos gusta mucho para hoy"
  },
  "ayer": null,
  "escalera": {
@@ -192,16 +192,22 @@
    "threads": 2691,
    "facebook": 1,
    "telegram": 391
+  },
+  "2026-11-13": {
+   "instagram": 40,
+   "threads": 2691,
+   "facebook": 1,
+   "telegram": 391
   }
  },
  "tipos_instagram": {
-  "Otros": {
-   "posts": 4,
+  "Otros (reel)": {
+   "posts": 26,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 25,
+  "Otros": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -216,7 +222,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 21,
+   "posts": 20,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

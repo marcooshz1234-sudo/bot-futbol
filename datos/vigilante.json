@@ -29,16 +29,25 @@
   "foto-2026-11-12-verde-grupo-2158": "2026-11-12T21:59",
   "foto-2026-11-12-verde-auto-2026-11-12-pick-tip-3": "2026-11-12T22:34",
   "foto-2026-11-12-verde-auto-2026-11-12-pick-seguro-2": "2026-11-12T23:06",
-  "bucle-imagenes_cola-2026111223": "2026-11-12T23:42"
+  "bucle-imagenes_cola-2026111223": "2026-11-12T23:42",
+  "prensa-1545615-1eabbd57": "2026-11-13T00:03"
  },
  "abiertos": [
   {
-   "clave": "bucle-imagenes_cola-2026111223",
-   "t": "🔧 El paso «imagenes_cola» del bot ha fallado 3 veces en la última hora"
+   "clave": "prensa-1545615-1eabbd57",
+   "t": "📰 Andorra–Gibraltar: «¡Jesús Owono no se retira! El arquero del Andorra sigue tocado por la tragedia» (Soy Futbol) · tenemos 2 post(s) de este partido: pick-seguro, combi-multi"
+  },
+  {
+   "clave": "prensa-1644376-d6786598",
+   "t": "📰 Salamanca UDS–Celta Vigo: «Duro golpe para el Salamanca UDS, que pierde a su máximo goleador en Liga: Asier Domínguez, unos dos meses de » (SALAMANCArtv AL DÍA) · tenemos 1 post(s) de este partido: escalera"
   }
  ],
- "revisado": "2026-11-12T23:52",
+ "revisado": "2026-11-13T00:03",
  "historial": [
+  {
+   "hora": "2026-11-13T00:03",
+   "t": "📰 Andorra–Gibraltar: «¡Jesús Owono no se retira! El arquero del Andorra sigue tocado por la tragedia» (Soy Futbol) · tenemos 2 post(s) de este partido: pick-seguro, combi-multi"
+  },
   {
    "hora": "2026-11-12T23:42",
    "t": "🔧 El paso «imagenes_cola» del bot ha fallado 3 veces en la última hora"

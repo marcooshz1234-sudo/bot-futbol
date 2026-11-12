@@ -1795,5 +1795,31 @@
       "total": 42
     },
     "texto": "📊 BALANCE DEL JUEVES: 10 DE 20 EN VERDE 📊\n\n✅ 🏆 NATIONS LEAGUE - GANADORES\n❌ 🏆 COPA DEL REY - GANADORES\n✅ Pick de hoy, con datos detrás 📊\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n✅ Combinada para hoy, con cabeza ⚽\n❌ Vamos con una combinada cortita 👇\n❌ Vamos con la combi del jueves familia 🔥\n✅ Pick que no podía faltar hoy ⚽\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❌ Pick que nos gusta mucho para hoy 👀\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n❌ Y para los valientes, la loca del jueves 🤪🔥\n✅ Os dejo la combi del Chequia – España ⚽🔥\n❌ Os dejo la combi del Inglaterra – Croacia ⚽🔥\n❌ Vamos con el pick de hoy familia 🔥\n✅ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀\n❌ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀\n\n✅ 10 acertadas · ❌ 10 falladas · ⏳ 0 sin resolver"
+  },
+  "2026-11-13": {
+    "dia": "2026-11-13",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-13-ganadores-nations",
+        "titulo": "🏆 NATIONS LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 9
+    },
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
