@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 22:09",
+ "actualizado": "2026-11-12 22:19",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -56,9 +56,9 @@
  },
  "total": 3120,
  "total_hoy": 54,
- "likes_hoy": 0,
+ "likes_hoy": 1,
  "proximo": {
-  "hora": "22:13",
+  "hora": "22:30",
   "dia": "2026-11-12",
   "titulo": "Para dentro señores"
  },
@@ -195,9 +195,14 @@
   }
  },
  "tipos_instagram": {
-  "Escalera": {
+  "Verdes/balance": {
    "posts": 1,
    "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
+  "Escalera": {
+   "posts": 1,
+   "likes_media": 1.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
@@ -206,7 +211,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 24,
+   "posts": 23,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
