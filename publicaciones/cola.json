@@ -4765,6 +4765,14 @@
     "cuotas": [
       1.11
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-12T12:13",
+    "mensaje_id": 413,
+    "redes": {
+      "threads": "18160908325520008"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]
