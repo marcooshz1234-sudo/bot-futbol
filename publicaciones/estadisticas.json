@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 04:49",
+ "actualizado": "2026-11-12 05:00",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2662,
-   "hoy": 18,
+   "seguidores": 2663,
+   "hoy": 19,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2662
+    2663
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3087,
- "total_hoy": 21,
+ "total": 3088,
+ "total_hoy": 22,
  "likes_hoy": 0,
  "proximo": {
   "hora": "10:30",
   "dia": "2026-11-12",
-  "titulo": "Vamos con el pick de hoy familia"
+  "titulo": "Pick de hoy, con datos detrás"
  },
  "ayer": null,
  "escalera": {
@@ -189,7 +189,7 @@
   },
   "2026-11-12": {
    "instagram": 39,
-   "threads": 2662,
+   "threads": 2663,
    "facebook": 1,
    "telegram": 385
   }
