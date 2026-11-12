@@ -5441,7 +5441,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "18117096760863139"
+      "threads": "18117096760863139",
+      "threads_enlace": "18037157819874635"
     }
   },
   {
@@ -5459,7 +5460,18 @@
     "redes": {
       "threads": "18094251896674317",
       "instagram": "17960472210018177",
-      "instagram_story": "18078756392746125"
+      "instagram_story": "18078756392746125",
+      "threads_enlace": "18113332652621665"
     }
+  },
+  {
+    "id": "2026-11-12-balance-auto",
+    "fecha": "2026-11-12T23:15",
+    "texto": "📊 BALANCE DEL JUEVES · 28 DE 41 PICKS EN VERDE 🍀\n\n🎯 68 % de acierto\n✅ 28 acertados · ❌ 13 fallados\n\n🔥 Lo mejor: goles 13/19 · córners 1/2\n⚽ Ganadores: 14/19\n\n🔔 Mañana más picks: activad las notificaciones 👀\n🍀 ¿Cuántos llevabas tú? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
