@@ -23,11 +23,30 @@
   "foto-2026-11-12-combi-tres": "2026-11-12T13:29",
   "prensa-1545615-54971908": "2026-11-12T16:14",
   "prensa-1528960-b65ef529": "2026-11-12T17:16",
-  "prensa-1644376-d6786598": "2026-11-12T20:43"
+  "prensa-1644376-d6786598": "2026-11-12T20:43",
+  "redes-2026-11-12-verde-auto-2026-11-12-pick-tip-4-threads": "2026-11-12T21:04",
+  "redes-2026-11-12-verde-auto-2026-11-12-pick-seguro-threads": "2026-11-12T21:04"
  },
- "abiertos": [],
- "revisado": "2026-11-12T20:53",
+ "abiertos": [
+  {
+   "clave": "redes-2026-11-12-verde-auto-2026-11-12-pick-tip-4-threads",
+   "t": "⏰ No ha salido en threads (18:54): PARA DENTRO SEÑORES ✅🤑"
+  },
+  {
+   "clave": "redes-2026-11-12-verde-auto-2026-11-12-pick-seguro-threads",
+   "t": "⏰ No ha salido en threads (19:12): PARA DENTRO SEÑORES ✅🤑"
+  }
+ ],
+ "revisado": "2026-11-12T21:04",
  "historial": [
+  {
+   "hora": "2026-11-12T21:04",
+   "t": "⏰ No ha salido en threads (18:54): PARA DENTRO SEÑORES ✅🤑"
+  },
+  {
+   "hora": "2026-11-12T21:04",
+   "t": "⏰ No ha salido en threads (19:12): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "hora": "2026-11-12T20:43",
    "t": "📰 Salamanca UDS–Celta Vigo: «Duro golpe para el Salamanca UDS, que pierde a su máximo goleador en Liga: Asier Domínguez, unos dos meses de » (SALAMANCArtv AL DÍA) · tenemos 1 post(s) de este partido: escalera"
