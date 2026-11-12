@@ -25,11 +25,21 @@
   "prensa-1528960-b65ef529": "2026-11-12T17:16",
   "prensa-1644376-d6786598": "2026-11-12T20:43",
   "redes-2026-11-12-verde-auto-2026-11-12-pick-tip-4-threads": "2026-11-12T21:04",
-  "redes-2026-11-12-verde-auto-2026-11-12-pick-seguro-threads": "2026-11-12T21:04"
+  "redes-2026-11-12-verde-auto-2026-11-12-pick-seguro-threads": "2026-11-12T21:04",
+  "foto-2026-11-12-verde-grupo-2158": "2026-11-12T21:59"
  },
- "abiertos": [],
- "revisado": "2026-11-12T21:48",
+ "abiertos": [
+  {
+   "clave": "foto-2026-11-12-verde-grupo-2158",
+   "t": "🖼️ Sale a las 22:13 y su foto no está hecha (o es vieja): 🔥 ¡2 VERDES PARA DENTRO! 🔥"
+  }
+ ],
+ "revisado": "2026-11-12T21:59",
  "historial": [
+  {
+   "hora": "2026-11-12T21:59",
+   "t": "🖼️ Sale a las 22:13 y su foto no está hecha (o es vieja): 🔥 ¡2 VERDES PARA DENTRO! 🔥"
+  },
   {
    "hora": "2026-11-12T21:04",
    "t": "⏰ No ha salido en threads (18:54): PARA DENTRO SEÑORES ✅🤑"

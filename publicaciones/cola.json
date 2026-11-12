@@ -5298,13 +5298,49 @@
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-7",
-    "fecha": "2026-11-12T22:06",
+    "fecha": "2026-11-12T22:13",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Jordan Pickford (Inglaterra), más de 1,5 paradas\n\n📈 Cuota @1,83\n\n¿Quién la llevaba? 👇💚",
     "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-7.tarjeta.jpg",
     "origen": "bot",
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-12-pick-tip-7"
+    "verde_de": "2026-11-12-pick-tip-7",
+    "agrupado_en": "2026-11-12-verde-grupo-2158",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-6",
+    "fecha": "2026-11-12T22:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ España gana al descanso\n\n📈 Cuota @1,61",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-6.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-tip-6",
+    "agrupado_en": "2026-11-12-verde-grupo-2158",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-12-verde-grupo-2158",
+    "fecha": "2026-11-12T22:13",
+    "texto": "🔥 ¡2 VERDES PARA DENTRO! 🔥\n\n✅ Pick · España gana al descanso @1,61\n✅ Pick · Jordan Pickford (Inglaterra), más de 1,5 paradas @1,83\n\n💚 ¡A COBRAR!",
+    "foto": "publicaciones/media/2026-11-12-verde-grupo-2158.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "resultado": "verde",
+    "verdes": [
+      "2026-11-12-verde-auto-2026-11-12-pick-tip-7",
+      "2026-11-12-verde-auto-2026-11-12-pick-tip-6"
+    ],
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ]
   }
 ]
