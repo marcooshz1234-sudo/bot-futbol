@@ -4774,5 +4774,41 @@
     "errores_redes": {
       "instagram": "falta la imagen/vídeo en publicaciones/media"
     }
+  },
+  {
+    "id": "2026-11-12-combi-tip-1",
+    "fecha": "2026-11-12T12:27",
+    "texto": "Combinada para hoy, con cabeza ⚽\n📊 Con datos detrás, nada de corazonadas\n\n🍀 Albacete no pierde (doble oportunidad) @1,14\n🍀 Gana Montenegro @1,28\n\n📈 Cuota @1,46\n\nStake 2/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1644370|Double Chance|Draw/Away",
+      "1545613|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.14,
+      1.28
+    ],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+  },
+  {
+    "id": "2026-11-12-combi-tip-2",
+    "fecha": "2026-11-12T12:27",
+    "texto": "Vamos con una combinada cortita 👇\n\n🍀 Se clasifica Albacete @1,25\n🍀 Gana el Betis y más de 1,5 goles (Crear apuesta) @1,23\n\n📈 Cuota @1,54\n\nStake 2/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1644370|To Qualify|Away",
+      "1644363|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.25,
+      1.23
+    ],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]

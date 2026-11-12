@@ -29,7 +29,7 @@
    "justa": 3.1,
    "ev": 0.048,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "SL Benfica W",
@@ -40,7 +40,7 @@
    "justa": 2.68,
    "ev": 0.028,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Montenegro",
@@ -51,18 +51,7 @@
    "justa": 2.44,
    "ev": 0.026,
    "fuente": "las otras casas",
-   "edad_h": 0.4
-  },
-  {
-   "local": "England",
-   "visitante": "Croatia",
-   "inicio": "2026-11-12T20:45",
-   "texto": "Más de 2,5 goles en la 2ª parte del England–Croatia",
-   "cuota": 3.25,
-   "justa": 3.17,
-   "ev": 0.026,
-   "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Barcelona W",
@@ -73,7 +62,7 @@
    "justa": 1.63,
    "ev": 0.023,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Albania",
@@ -84,7 +73,7 @@
    "justa": 1.64,
    "ev": 0.02,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Italy",
@@ -95,22 +84,33 @@
    "justa": 1.88,
    "ev": 0.014,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
-   "local": "SL Benfica W",
-   "visitante": "Austria Wien W",
-   "inicio": "2026-11-12T21:00",
-   "texto": "Ambos marcan en SL Benfica W–Austria Wien W",
-   "cuota": 1.73,
-   "justa": 1.74,
-   "ev": -0.004,
+   "local": "England",
+   "visitante": "Croatia",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Croatia marca",
+   "cuota": 1.8,
+   "justa": 1.78,
+   "ev": 0.011,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "England",
+   "visitante": "Croatia",
+   "inicio": "2026-11-12T20:45",
+   "texto": "Más de 2,5 goles en la 2ª parte del England–Croatia",
+   "cuota": 3.25,
+   "justa": 3.22,
+   "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-12T12:00",
+  "hora": "2026-11-12T12:26",
   "revisadas": 0,
   "mejor": null
  },

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 12:10",
+ "actualizado": "2026-11-12 12:26",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2675,
-   "hoy": 31,
+   "seguidores": 2676,
+   "hoy": 32,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2675
+    2676
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3101,
- "total_hoy": 35,
+ "total": 3102,
+ "total_hoy": 36,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "12:27",
   "dia": "2026-11-12",
-  "titulo": "Vamos con la combi del jueves familia"
+  "titulo": "Combinada para hoy, con cabeza"
  },
  "ayer": null,
  "escalera": {
@@ -189,7 +189,7 @@
   },
   "2026-11-12": {
    "instagram": 39,
-   "threads": 2675,
+   "threads": 2676,
    "facebook": 1,
    "telegram": 386
   }
