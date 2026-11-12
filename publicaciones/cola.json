@@ -5409,5 +5409,43 @@
       "instagram_story": "18123960967953848",
       "threads_enlace": "17888466549503453"
     }
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-combi-tip-1",
+    "fecha": "2026-11-12T22:58",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Albacete o empate\n✅ Gana Montenegro\n\n📈 Cuota @1,14\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-combi-tip-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-combi-tip-1",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque la cuota es muy baja (@1,14). Sale cuando le des a Publicar."
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-combi-partido-1528961-th",
+    "fecha": "2026-11-12T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ España marca 2 o más\n✅ España hace más de 6,5 córners\n\n📈 Cuota @2,34\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-combi-partido-1528961-th.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-combi-partido-1528961-th",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-seguro-2",
+    "fecha": "2026-11-12T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Montenegro marca 2 o más\n\n📈 Cuota @1,50",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-seguro-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-seguro-2"
   }
 ]
