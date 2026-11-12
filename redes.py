@@ -160,14 +160,30 @@ DESDE_ENLACE = "2026-10-29T18:00"
 CON_ENLACE = ("combi-partido", "picks-manana", "combi-tres", "combi-loca", "escalera", "ganadores", "boleto")
 
 
+# 12/11 (Marcos: «pon más el enlace de Telegram en Threads»): como sale en más posts, la frase cambia (no repetitiva)
+ENLACES_COMBI = [TEXTO_ENLACE_COMBI,
+                 f"📲 Lo que subimos aquí sale antes en Telegram, y es GRATIS 👇\n{ENLACE_TELEGRAM}",
+                 f"🔔 Picks y combis cada día en nuestro Telegram (gratis) 👇\n{ENLACE_TELEGRAM}",
+                 f"⚽ ¿Te unes? Canal de Telegram gratis con todo lo del día 👇\n{ENLACE_TELEGRAM}"]
+ENLACES_VERDE = [TEXTO_ENLACE,
+                 f"✅ Estas las damos antes en Telegram. Entra gratis 👇\n{ENLACE_TELEGRAM}",
+                 f"💸 La próxima, cógela a tiempo: canal de Telegram gratis 👇\n{ENLACE_TELEGRAM}"]
+
+
 def texto_enlace(p):
-    return TEXTO_ENLACE if "verde" in p.get("id", "") or "balance" in p.get("id", "") else TEXTO_ENLACE_COMBI
+    import hashlib
+    lista = ENLACES_VERDE if "verde" in p.get("id", "") or "balance" in p.get("id", "") else ENLACES_COMBI
+    return lista[int(hashlib.sha1(p.get("id", "").encode()).hexdigest(), 16) % len(lista)]
 
 
 # 02/11 (Marcos): «quiero que crezca primero en Threads»: el enlace en menos posts. Desde esta hora, solo en los verdes
 # (como mucho 2 al día) y en la loca de las 16:00. Lo demás, sin comentario.
 DESDE_MENOS = "2026-11-02T12:45"
 VERDES_DIA = 2
+# 12/11 (Marcos: «pon más el enlace de Telegram en Threads»): en todos los verdes y en los posts principales del día
+DESDE_MAS = "2026-11-12T13:55"
+CON_ENLACE_MAS = ("pick-seguro", "escalera", "combi-tres", "combi-multi", "combi-loca", "combi-partido", "pick-tip",
+                  "combi-tip", "pick-th", "combi-nations")
 
 
 def verdes_con_enlace(dia, sin=None):
@@ -188,6 +204,14 @@ def lleva_enlace(p):
     """Verdes (combis, escalera, boletos), balance del día con más acertados que fallados y, desde el 29/10,
     las combis, listas y boletos. Desde el 02/11: solo verdes (2 al día) y la loca."""
     pid = p.get("id", "")
+    if p.get("fecha", "") >= DESDE_MAS:   # 12/11 (Marcos: «pon más el enlace de Telegram en Threads»)
+        if "verde" in pid:
+            return True
+        if "balance" in pid:
+            m = re.search(r"✅ (\d+) acertad[oa]s · ❌ (\d+) fallad[oa]s", p.get("texto", ""))
+            return bool(m) and int(m.group(1)) > int(m.group(2))
+        from panel_datos import ajustes
+        return any(k in pid for k in CON_ENLACE_MAS) and bool(ajustes()["enlace_threads"])
     if p.get("fecha", "") >= DESDE_MENOS:
         if "verde" in pid:
             return verdes_con_enlace(p["fecha"][:10], pid) < VERDES_DIA

@@ -47,3 +47,19 @@ class Duplicados(unittest.TestCase):
         b = "✅ COMBI LOCAS | DFB-POKAL\n🇩🇪 BAYER LEVERKUSEN vs 1. FC NÜRNBERG 🇩🇪\n\n🎯 Y"
         self.assertNotEqual(redes._titulo(a), redes._titulo(b))
         self.assertEqual(redes._titulo(a), redes._titulo(a + "\notra cosa"))
+
+
+class EnlaceMas(unittest.TestCase):
+    """12/11 (Marcos: «pon más el enlace de Telegram en Threads»)."""
+    def test_mas_posts(self):
+        for pid in ("pick-seguro", "escalera", "combi-tres", "combi-multi", "combi-partido-1-th", "pick-tip-2", "pick-th-1"):
+            self.assertTrue(redes.lleva_enlace({"id": f"2026-11-13-{pid}", "fecha": "2026-11-13T15:00"}), pid)
+        for n in range(4):   # todos los verdes, no solo 2 al día
+            self.assertTrue(redes.lleva_enlace({"id": f"2026-11-13-verde-auto-{n}", "fecha": "2026-11-13T22:00"}))
+        self.assertFalse(redes.lleva_enlace({"id": "2026-11-13-ganadores-nations", "fecha": "2026-11-13T00:00"}))
+
+    def test_frase_variada(self):
+        frases = {redes.texto_enlace({"id": f"2026-11-13-pick-tip-{n}"}) for n in range(12)}
+        self.assertGreater(len(frases), 1)
+        self.assertTrue(all(redes.ENLACE_TELEGRAM in f for f in frases))
+
