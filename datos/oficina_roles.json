@@ -143,5 +143,10 @@
   "rol": "ojeador",
   "hora": "2026-11-12T18:10",
   "texto": "17:10 UTC: bot en marcha (tanda en curso). Sin picks nuevos: TipsAnalistas 37067/68 es info de pago (no se apunta); Pérez solo aviso del Turquía–Bélgica ya apuntado."
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-12T20:11",
+  "texto": "19:10 UTC: bot vivo (tanda en curso). Sin picks nuevos de fútbol: TipsAnalistas solo venta de pago; Pérez solo seguimiento (pata España 1ª mitad, prohibida)."
  }
 ]
