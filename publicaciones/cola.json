@@ -5084,7 +5084,7 @@
   {
     "id": "2026-11-12-combi-partido-1528960-th2",
     "fecha": "2026-11-12T19:50",
-    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Italia ve 2 o más tarjetas\n🍀 Francia ve 2 o más tarjetas\n🍀 Italia saca más de 3,5 córners\n\n📈 Cuota @7,13",
+    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Davide Frattesi (Italia) hace 2 o más remates\n🍀 Nicolò Barella (Italia) hace 1 o más remates\n🍀 Sandro Tonali (Italia) hace 2 o más faltas\n\n📈 Cuota @7,03",
     "foto": null,
     "origen": "claude",
     "directo": true,
@@ -5093,17 +5093,17 @@
     ],
     "sel": [
       "1528960|Both Teams Score|Yes",
-      "1528960|Home Team Total Cards|Over 1.5",
-      "1528960|Away Team Total Cards|Over 1.5",
-      "1528960|Home Corners Over/Under|Over 3.5"
+      "1528960|Home Player Shots|Davide Frattesi - 2",
+      "1528960|Home Player Shots|Nicolo Barella - 1",
+      "1528960|Player Fouls Committed|Sandro Tonali - 2"
     ],
     "cuotas": [
       1.57,
-      1.62,
-      1.62,
-      1.73
+      1.8,
+      1.36,
+      1.83
     ],
-    "nota": "12/11 Marcos: «la de Francia hay que subirla, hazla de nuevo» · sin nada a favor de Francia (sin Mbappé, Tchouaméni, Dembélé ni Thuram) · falta la cuota real de «Crear apuesta» · 16:58 Marcos: «hazla un poco más grande» → + más de 2,5 goles · fuera «más de 2,5 goles» (prohibido en nuestras combis desde el 05/11) → Francia ve 2+ tarjetas · fuera «más de 3,5 tarjetas» (Marcos prefiere tarjetas por equipo, no totales) → Italia ve 2+ tarjetas",
+    "nota": "12/11 Marcos: «la de Francia hay que subirla, hazla de nuevo» · sin nada a favor de Francia (sin Mbappé, Tchouaméni, Dembélé ni Thuram) · falta la cuota real de «Crear apuesta» · 16:58 Marcos: «hazla un poco más grande» → + más de 2,5 goles · fuera «más de 2,5 goles» (prohibido en nuestras combis desde el 05/11) → Francia ve 2+ tarjetas · fuera «más de 3,5 tarjetas» (Marcos prefiere tarjetas por equipo, no totales) → Italia ve 2+ tarjetas · 19:50 rehecha con los onces: sin córners ni tarjetas (escudos 01/11) → ambos marcan + Frattesi, Barella, Tonali (titulares)",
     "tarjeta": {
       "local": "Italy",
       "visitante": "France",
