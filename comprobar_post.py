@@ -21,7 +21,62 @@ import sys
 
 from bot import cuota_baja, leer, mercado_prohibido, partido_caido, RAIZ
 
-GRAVES = ("mercado", "cuota", "choca", "repetido", "estrella", "caido", "texto", "crear")
+GRAVES = ("mercado", "cuota", "choca", "repetido", "estrella", "caido", "texto", "crear", "logica", "escudos", "dia")
+TEXTO_PROHIBIDO = [   # (patrón, motivo) — REGLAS.md, apartado «Textos»
+    (r"segur|asegur|sin riesgo", "dice «seguro/asegurado/sin riesgo» (12/11)"),
+    (r"\bNone\b|\bnan\b|\{[a-z_]+\}", "restos de plantilla en el texto"),
+    (r"jugarbien\.es", "«jugarbien.es» (27/10)"),
+    (r"Solo queda rezar", "«Solo queda rezar» (no le gusta)"),
+    (r"\bMarcos\b", "el nombre de Marcos (nunca en público)"),
+    (r"\+18 \| Jueg[ao] (?:con )?responsab", "«+18 | Juega responsable» (quitado el 27/10)"),
+]
+
+
+def _fid(s):
+    return str(s).split("|")[0]
+
+
+def _equipo_marca(s):
+    """'home'/'away' si la pata es «X marca» (Total - Home/Away Over 0.5/1.5…)."""
+    _, m, o = str(s).split("|", 2)
+    if m in ("Total - Home", "Total - Away") and o.startswith("Over"):
+        return "home" if m.endswith("Home") else "away"
+    return None
+
+
+def logica_combi(sels):
+    """Patas que no tienen lógica juntas en la MISMA combi (REGLAS.md, «Combis»)."""
+    out = []
+    por_partido = {}
+    for s in sels:
+        por_partido.setdefault(_fid(s), []).append(s)
+    for fid, ps in por_partido.items():
+        mercados = [str(s).split("|", 2)[1:] for s in ps]
+        marcan = {_equipo_marca(s) for s in ps} - {None}
+        btts = any(m == "Both Teams Score" and o == "Yes" for m, o in mercados)
+        if btts and marcan:   # 31/10: «ambos marcan» + «X marca» no vale para nada
+            out.append("«ambos marcan» junto a «X marca» del mismo partido (31/10)")
+        if marcan == {"home", "away"}:   # 02/11: «marca el local» y «marca el visitante» en la misma combi
+            out.append("«marca el local» y «marca el visitante» en la misma combi (02/11)")
+        for m, o in mercados:   # 02/11: «X o empate» y que le marque el rival
+            if m == "Double Chance" and o in ("Home/Draw", "Draw/Away"):
+                lado = "home" if o.startswith("Home") else "away"
+                rival = "away" if lado == "home" else "home"
+                if rival in marcan:
+                    out.append("«X o empate» y que le marque el rival en la misma combi (02/11)")
+    return out
+
+
+def orden_por_hora(sels):
+    """Las patas de varios partidos tienen que ir por hora de inicio (02/11)."""
+    from datetime import datetime
+    horas = []
+    for s in sels:
+        pa = (leer(RAIZ / "datos" / "proximos" / f"{_fid(s)}.json", {}) or {}).get("partido") or {}
+        f = (pa.get("fixture") or {}).get("date")
+        if f:
+            horas.append(datetime.fromisoformat(f))
+    return horas == sorted(horas), {h.date() for h in horas}
 
 
 def es_copia(p):
@@ -72,13 +127,36 @@ def comprobar(p, texto=None, otros=None):
             control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
             if not (p.get("cuota_total") or pid in (control.get("cuota_dada") or {})):
                 fallos.append(("crear", "combi de un partido sin la cuota real de «Crear apuesta»"))
+    if sels and not es_copia(p) and "ganadores" not in pid and "lista" not in pid and "picks-manana" not in pid:
+        for motivo in logica_combi(sels):
+            fallos.append(("logica", motivo))
+        if "combi-partido" in pid or "estrella" in pid:   # 01/11: las de escudos, sin córners ni tarjetas
+            from combis_dia import familia
+            raras = [s for s in sels if familia({"mercado": s.split("|")[1], "opcion": s.split("|")[2]})
+                     in ("corners", "corners-bajo", "tarjetas")]
+            if raras:
+                fallos.append(("escudos", "combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): "
+                                          + ", ".join(s.split("|", 1)[1] for s in raras)))
+        if len({_fid(s) for s in sels}) > 1:
+            en_orden, dias = orden_por_hora(sels)
+            if len(dias) > 1 and "loca" not in pid and "multi" not in pid:
+                fallos.append(("dia", "combi con partidos de días distintos (si falla uno, se cae todo)"))
+            if not en_orden:
+                fallos.append(("orden", "patas no ordenadas por hora de inicio (02/11)"))
     caido = partido_caido(p)
     if caido:
         fallos.append(("caido", caido))
-    if re.search(r"segur|asegur|sin riesgo", texto, re.I):
-        fallos.append(("texto", "dice «seguro/asegurado/sin riesgo»"))
-    if re.search(r"\bNone\b|\bnan\b|\{[a-z_]+\}", texto):
-        fallos.append(("texto", "restos de plantilla en el texto"))
+    for patron, motivo in TEXTO_PROHIBIDO:
+        if re.search(patron, texto, re.I):
+            fallos.append(("texto", motivo))
+    if not (p.get("solo_en") and "telegram" not in p["solo_en"]) and not p.get("solo_redes") \
+            and re.search(r"@combilocas\b", texto):
+        fallos.append(("texto", "«@combilocas» en Telegram lleva a OTRO canal (05/11)"))
+    n_picks = len(re.findall(r"^\s*(?:✅|🍀|🇦-🇿|[\U0001F1E6-\U0001F1FF]{2})", texto, re.M))
+    if re.search(r"Combina máximo 2 o 3", texto) and n_picks < 5:
+        fallos.append(("formato", "«Combina máximo 2 o 3» solo con 5 picks o más (02/11)"))
+    if re.search(r"Coged los picks que más", texto) and n_picks < 10:
+        fallos.append(("formato", "«Coged los picks que más os gusten» solo en combis de 10+ (05/11)"))
     return fallos
 
 

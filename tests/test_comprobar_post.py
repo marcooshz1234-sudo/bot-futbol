@@ -43,8 +43,35 @@ class ComprobarPost(unittest.TestCase):
                                                      texto="Combi segura 📈 Cuota @2,56")))
 
     def test_bien(self):
-        p = self.post(["1|Both Teams Score|Yes", "1|Home Team Total Cards|Over 1.5"], [1.57, 1.62])
+        p = self.post(["1|Both Teams Score|Yes", "1|To Win Either Half|Home"], [1.57, 1.62])
         self.assertEqual(self.reglas(p), set())
+
+    def test_logica_de_combi(self):   # 31/10 y 02/11
+        p = self.post(["1|Both Teams Score|Yes", "1|Total - Home|Over 1.5"], [1.6, 1.5])
+        self.assertIn("logica", self.reglas(p))
+        p = self.post(["1|Total - Home|Over 0.5", "1|Total - Away|Over 0.5"], [1.3, 1.5])
+        self.assertIn("logica", self.reglas(p))
+        p = self.post(["1|Double Chance|Home/Draw", "1|Total - Away|Over 0.5"], [1.4, 1.5])
+        self.assertIn("logica", self.reglas(p))
+
+    def test_escudos_sin_corners_ni_tarjetas(self):   # 01/11 (lo incumplí el 12/11 en España e Inglaterra)
+        p = self.post(["1|Total - Away|Over 1.5", "1|Away Corners Over/Under|Over 6.5"], [1.28, 1.83])
+        self.assertIn("escudos", self.reglas(p))
+        p = self.post(["1|Total - Home|Over 1.5", "1|Away Team Total Cards|Over 1.5"], [1.3, 1.5])
+        self.assertIn("escudos", self.reglas(p))
+
+    def test_textos_prohibidos(self):
+        for txt in ("Pick de Marcos 📈 Cuota @2,00", "📈 Cuota @2,00 jugarbien.es", "Solo queda rezar 📈 Cuota @2,00",
+                    "Más en @combilocas 📈 Cuota @2,00"):
+            self.assertIn("texto", self.reglas(self.post(["1|Both Teams Score|Yes", "2|Both Teams Score|Yes"],
+                                                         [1.6, 1.6], texto=txt)), txt)
+
+    def test_reglas_md_es_la_lista(self):
+        from pathlib import Path
+        raiz = Path(__file__).resolve().parent.parent
+        md = (raiz / "REGLAS.md").read_text(encoding="utf-8")
+        for clave in ("sin córners ni tarjetas", "Nunca chocar", "mínimo 1,35", "tarjetas totales"):
+            self.assertIn(clave, md)
 
     def test_bloquea_en_publicar(self):
         from pathlib import Path

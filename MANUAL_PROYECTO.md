@@ -205,6 +205,8 @@ patas, con «📲 Montada en bet365, partido a partido 👇» y la foto del bole
 
 ## 4. Reglas de contenido (TODAS obligatorias)
 
+> **12/11: la lista única y al día está en `REGLAS.md`** (y las que se pueden comprobar, en `comprobar_post.py`, que el bot pasa antes de publicar). Lo de abajo es el detalle histórico; si choca con `REGLAS.md`, manda `REGLAS.md`.
+
 ### Cuotas y picks
 1. **Todas las cuotas son de bet365.** Si no se sabe la cuota segura, la selección no va.
 2. **Cada pata vale como mínimo 1,25.**

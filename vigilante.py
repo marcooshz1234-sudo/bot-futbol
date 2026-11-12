@@ -249,6 +249,20 @@ def revisar(ahora=None):
     except Exception as e:
         print("vigilante (prensa):", e)
 
+    # 17. 12/11: TODAS las reglas de REGLAS.md (comprobar_post.py) en lo que queda por salir (36 h)
+    try:
+        import comprobar_post as CP
+        for p in posts:
+            t = cuando(p)
+            if not t or not (ahora <= t <= ahora + timedelta(hours=36)) or publicado(p) or not vivo(p, control):
+                continue
+            for regla, motivo in CP.comprobar(p, (control.get("textos") or {}).get(p["id"]), otros=CP._sin_este(p)):
+                if regla in ("crear", "texto", "mercado", "caido", "choca", "repetido"):
+                    continue   # «crear»: se le pide aparte; las demás ya tienen su propio aviso arriba
+                out.append((f"regla-{regla}-{p['id']}", f"📏 Regla ({regla}): {motivo} · «{(p.get('texto') or '').strip().splitlines()[0][:50]}» ({p['fecha'][11:16]})"))
+    except Exception as e:
+        print("vigilante (reglas):", e)
+
     # 9. pasos del bucle que fallan
     log = DATOS / "bucle_log.txt"
     if log.exists():
