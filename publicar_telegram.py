@@ -155,6 +155,8 @@ def main(objetivo=None):
             continue
         if p.get("enviado") or p.get("mensaje_id") or p.get("caducada") or p.get("solo_redes") or p.get("borrar"):
             continue
+        if p.get("solo_en") and "telegram" not in p["solo_en"]:   # 12/11: la combi de solo Threads salió en Telegram
+            continue
         if ambiguo(p.get("error")):
             continue
         if p["id"] in control.get("cancelados", []):
