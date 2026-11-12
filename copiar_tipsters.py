@@ -137,7 +137,8 @@ def post_suelto(pk, ini, ahora, n):
               f"⚽ {nombre_es(pk['local'])} – {nombre_es(pk['visitante'])} · {dia} {ini:%H:%M}"]
     if arg:
         lineas += ["", f"👨‍💻 {arg}"]
-    lineas += ["", f"Stake {stake(pk)}/10"]
+    if stake(pk) != 2:   # 12/11 (Marcos): el «Stake 2/10» en todos no queda bien; solo si el suyo dice algo
+        lineas += ["", f"🧠 Stake {stake(pk)}/10"]
     return {"id": f"{pk['dia']}-pick-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,
@@ -160,7 +161,6 @@ def post_combi(patas, ahora, n):
     lineas = [abrir(ABRE_COMBI, f"{patas[0]['dia']}-combi-tip-{n}")] + ([et] if et else []) + [""] + [texto_pata(p) for p in patas]
     if all(p.get("cuota") for p in patas):
         lineas += ["", f"📈 Cuota @{coma(total)}"]
-    lineas += ["", f"Stake {min(stake(patas[0]), 2)}/10"]
     return {"id": f"{patas[0]['dia']}-combi-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
             "foto": None, "origen": "tipster", "directo": True, "forzar": True,

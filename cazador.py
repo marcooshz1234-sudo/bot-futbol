@@ -157,7 +157,7 @@ def texto_post(x):
         "🚨 CUOTAZA EN BET365 🚨", "", f"⚽ {x['local']} – {x['visitante']} · {x['inicio'][11:16]}", "",
         f"🍀 {t} @{num(x['cuota'])}", "",
         f"👀 Lo normal sería @{num(x['justa'])}: está mal puesta. Corred antes de que la bajen ⚡",
-        "🧠 Stake 2/10", "", "🔞 Juega con cabeza", "🔔 Activad las notificaciones, que vienen más combis 👀"])
+        "", "🔞 Juega con cabeza", "🔔 Activad las notificaciones, que vienen más combis 👀"])
 
 
 def main(ahora=None):

@@ -374,8 +374,8 @@ def texto_seguro(p, dia=""):
         lineas = [saludo, "",
                   f"{band} {es(p['local'])} – {es(p['visitante'])} · {p['fecha'][11:16]}", "",
                   f"🍀 {con_equipo(p)} @{num(p['cuota'])}" + (" (aprox.)" if p.get("cuota_tipster") else "")]
-        if con_stake:
-            lineas.append(f"🧠 Stake {stake(p)}/10")
+        if con_stake and stake(p) != 2:   # 12/11 (Marcos: «siempre pones stake 2, no queda bien tantas veces»):
+            lineas.append(f"🧠 Stake {stake(p)}/10")   # solo cuando dice algo (3-4: mucha confianza)
         if motivos:
             lineas += [""] + [f"👨‍💻 {m}" for m in motivos]   # 09/11 (Marcos): sin la palabra «Argumento»
         if v + r:
