@@ -27,6 +27,12 @@ class TestCuotaMinima(unittest.TestCase):
     def test_combi_baja_tampoco(self):
         self.assertTrue(cuota_baja({"id": "x", "sel": ["1|a|b", "2|c|d"], "cuotas": [1.1, 1.15], "texto": ""}))
 
+    def test_pata_de_combi_minimo_120(self):   # 12/11: «en una combi sí, pero mínimo 1,20»
+        p = {"id": "2026-11-12-combi-tip-1", "sel": ["1|a|b", "2|c|d"], "cuotas": [1.14, 1.28], "texto": "📈 Cuota @1,46"}
+        self.assertIn("pata", cuota_baja(p))
+        self.assertIsNone(cuota_baja(dict(p, cuotas=[1.20, 1.28])))
+        self.assertIsNone(cuota_baja(dict(p, id="2026-11-12-ganadores-nations")))   # la lista de ganadores no es combi
+
     def test_sin_cuota_y_verdes_no_se_tocan(self):
         self.assertIsNone(cuota_baja({"id": "2026-11-12-ganadores", "texto": "1. Bélgica - Win"}))
         self.assertIsNone(cuota_baja({"id": "v", "verde_de": "x", "texto": "✅ @1,11"}))
@@ -63,12 +69,18 @@ class TestCopiarTipsters(unittest.TestCase):
         self.assertEqual(self.correr([self.pk(1, 1.11)]), [])
 
     def test_dos_bajos_se_juntan(self):
-        r = self.correr([self.pk(1, 1.15), self.pk(2, 1.20)])
+        r = self.correr([self.pk(1, 1.22), self.pk(2, 1.20)])
         self.assertEqual(len(r), 1)
         self.assertIn("combi-tip", r[0]["id"])
 
     def test_pareja_que_no_llega_no(self):
         self.assertEqual(self.correr([self.pk(1, 1.08), self.pk(2, 1.10)]), [])
+
+    def test_pata_bajo_120_ni_en_pareja(self):
+        self.assertEqual(self.correr([self.pk(1, 1.14), self.pk(2, 1.30)]), [])
+
+    def test_combinada_con_pata_bajo_120_fuera(self):
+        self.assertEqual(self.correr([self.pk(1, 1.14, combinada="z"), self.pk(2, 1.40, combinada="z")]), [])
 
     def test_suelto_bueno_sale(self):
         self.assertEqual(len(self.correr([self.pk(1, 1.55)])), 1)

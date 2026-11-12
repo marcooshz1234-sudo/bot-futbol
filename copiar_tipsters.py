@@ -204,6 +204,13 @@ def main(ahora=None):
         if not cu:   # 12/11: sin cuota no se sube (podría ser un 1,12); se vuelve a mirar en la siguiente pasada
             print(f"Copiar tipsters: {x['texto']} sin cuota, espera")
             continue
+        from bot import CUOTA_MINIMA_PATA
+        if float(cu) < CUOTA_MINIMA_PATA:   # 12/11 (Marcos): ni sola ni en combi por debajo de 1,20
+            print(f"Copiar tipsters: {x['texto']} no (cuota {cu} < {CUOTA_MINIMA_PATA})")
+            hechos.add(clave(x))
+            if x.get("combinada"):
+                rotas.add(f"{x['tipster']}|{x['combinada']}")
+            continue
         if comprobada and x.get("cuota") and cu < float(x["cuota"]) - 0.001:
             print(f"Cuota bajada en bet365: {x['texto']} {x['cuota']} → {cu}")
         x = dict(x, _ini=ini, cuota=cu, cuota_comprobada=comprobada)

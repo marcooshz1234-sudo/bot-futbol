@@ -137,6 +137,7 @@ def partidos_fuera():
 
 
 CUOTA_MINIMA_POST = 1.35   # 12/11 (Marcos: «mínimo, siempre mínimo 1,30 o 1,35… ¿quién va a coger eso?»)
+CUOTA_MINIMA_PATA = 1.20   # 12/11 (Marcos: «si es en una combi sí se puede meter, pero mínimo 1,20»)
 
 
 def cuota_post(post, texto=None):
@@ -168,6 +169,13 @@ def cuota_baja(post, texto=None):
     c = cuota_post(post, texto)
     if c is not None and c < CUOTA_MINIMA_POST:
         return f"cuota {c:.2f} por debajo de {CUOTA_MINIMA_POST:.2f}"
+    if not any(k in post.get("id", "") for k in ("ganadores", "lista-europa")):   # las listas de ganadores no son combis
+        try:
+            bajas = [float(x) for x in post.get("cuotas") or [] if x and float(x) < CUOTA_MINIMA_PATA]
+        except (TypeError, ValueError):
+            bajas = []
+        if bajas:
+            return f"una pata a {min(bajas):.2f} (mínimo {CUOTA_MINIMA_PATA:.2f} por pata)"
     return None
 
 
