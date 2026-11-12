@@ -5309,7 +5309,14 @@
     "agrupado_en": "2026-11-12-verde-grupo-2158",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18089362670313302"
+    }
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-6",
@@ -5324,7 +5331,14 @@
     "agrupado_en": "2026-11-12-verde-grupo-2158",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18107152127000899"
+    }
   },
   {
     "id": "2026-11-12-verde-grupo-2158",
@@ -5341,6 +5355,15 @@
     "solo_en": [
       "telegram",
       "instagram"
-    ]
+    ],
+    "enviado": "2026-11-12T22:13",
+    "mensaje_id": 430,
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18125784281317733"
+    }
   }
 ]
