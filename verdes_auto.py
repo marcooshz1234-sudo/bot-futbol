@@ -282,6 +282,7 @@ def agrupar(cola, ahora):
     for p in sueltos:   # el suelto ya no sale en Telegram ni Instagram: solo como comentario en Threads
         p["agrupado_en"] = gid
         p["solo_en"] = ["threads"]
+        p["fecha"] = grupo["fecha"]   # 12/11: si no, uno que llevaba rato esperando ya no salía en Threads (>45 min)
     cola.append(grupo)
     print("Verdes agrupados:", gid, [p["id"] for p in sueltos])
     return grupo

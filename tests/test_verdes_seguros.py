@@ -66,6 +66,7 @@ class VerdesSeguros(unittest.TestCase):
         self.assertIn("✅ Pick del día · Gana el Albacete @1,53", grupo["texto"])
         self.assertIn("✅ Reto escalera · Gana Bélgica @1,80", grupo["texto"])
         self.assertNotIn("threads", grupo["solo_en"])
+        self.assertTrue(all(p["fecha"] == grupo["fecha"] for p in sueltos))   # el comentario de Threads no se queda fuera
 
     def test_espera_a_que_se_confirme(self):
         out = self.correr([{"id": "2026-11-12-pick-seguro", "titulo": "Pick", "estado": "verde",
