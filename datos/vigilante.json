@@ -15,7 +15,8 @@
   "prensa-1528960-ae60f5f1": "2026-11-12T07:54",
   "repe-2026-11-12-1638295|Total - Home|Over 2.5": "2026-11-12T09:08",
   "repe-2026-11-12-1528963|Goals Over/Under|Over 1.5": "2026-11-12T09:28",
-  "repe-2026-11-12-1545613|Total - Home|Over 1.5": "2026-11-12T09:28"
+  "repe-2026-11-12-1545613|Total - Home|Over 1.5": "2026-11-12T09:28",
+  "prensa-1528960-33988cb0": "2026-11-12T11:27"
  },
  "abiertos": [
   {
@@ -39,6 +40,10 @@
    "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
+   "clave": "prensa-1528960-33988cb0",
+   "t": "📰 Italia–Francia: «Tchouaméni es baja para Francia por lesión previo a los duelos por Liga de Naciones» (Por Esto!) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
+  },
+  {
    "clave": "prensa-1528960-10a0d570",
    "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
@@ -49,18 +54,14 @@
   {
    "clave": "prensa-1528960-d471d802",
    "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
-  },
-  {
-   "clave": "prensa-1528960-dcf29625",
-   "t": "📰 Italia–Francia: «Tchouaméni, lesionado, causa baja con Francia» (www.abc.com.py) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
-  },
-  {
-   "clave": "prensa-1528960-ae60f5f1",
-   "t": "📰 Italia–Francia: «Tchouaméni abandona la concentración de Francia y regresará a Madrid» (Tribuna.com) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   }
  ],
- "revisado": "2026-11-12T11:08",
+ "revisado": "2026-11-12T11:27",
  "historial": [
+  {
+   "hora": "2026-11-12T11:27",
+   "t": "📰 Italia–Francia: «Tchouaméni es baja para Francia por lesión previo a los duelos por Liga de Naciones» (Por Esto!) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
+  },
   {
    "hora": "2026-11-12T09:28",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, combi-loca)"
