@@ -1660,12 +1660,12 @@
     "dia": "2026-11-12",
     "total": 20,
     "cuentas": {
-      "verde": 6,
+      "verde": 5,
       "rojo": 7,
-      "pendiente": 1,
-      "sin_datos": 6,
+      "pendiente": 0,
+      "sin_datos": 8,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -1719,7 +1719,7 @@
       {
         "id": "2026-11-12-pick-tip-3",
         "titulo": "Pick que no podía faltar hoy ⚽",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1761,7 +1761,7 @@
       {
         "id": "2026-11-12-combi-partido-1528961-th",
         "titulo": "Os dejo la combi del Chequia – España ⚽🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1790,10 +1790,10 @@
       }
     ],
     "picks": {
-      "verde": 15,
+      "verde": 10,
       "rojo": 8,
       "total": 42
     },
-    "texto": "📊 BALANCE DEL JUEVES: 6 DE 13 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❌ 🏆 COPA DEL REY - GANADORES\n✅ Pick de hoy, con datos detrás 📊\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n❔ Combinada para hoy, con cabeza ⚽ · faltan datos\n❌ Vamos con una combinada cortita 👇\n❌ Vamos con la combi del jueves familia 🔥\n✅ Pick que no podía faltar hoy ⚽\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❌ Pick que nos gusta mucho para hoy 👀\n❔ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n❌ Y para los valientes, la loca del jueves 🤪🔥\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n❔ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · faltan datos\n❌ Vamos con el pick de hoy familia 🔥\n❔ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · faltan datos\n\n✅ 6 acertadas · ❌ 7 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 5 DE 12 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❌ 🏆 COPA DEL REY - GANADORES\n✅ Pick de hoy, con datos detrás 📊\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n❔ Combinada para hoy, con cabeza ⚽ · faltan datos\n❌ Vamos con una combinada cortita 👇\n❌ Vamos con la combi del jueves familia 🔥\n❔ Pick que no podía faltar hoy ⚽ · faltan datos\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❌ Pick que nos gusta mucho para hoy 👀\n❔ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n❌ Y para los valientes, la loca del jueves 🤪🔥\n❔ Os dejo la combi del Chequia – España ⚽🔥 · faltan datos\n❔ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · faltan datos\n❌ Vamos con el pick de hoy familia 🔥\n❔ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · faltan datos\n\n✅ 5 acertadas · ❌ 7 falladas · ⏳ 8 sin resolver"
   }
 }
