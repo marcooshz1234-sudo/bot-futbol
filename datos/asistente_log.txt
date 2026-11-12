@@ -196,3 +196,4 @@
 2026-11-12 00:07:32 botón ap|ac9298cd06 → ok
 2026-11-12 00:09:34 botón ok|2026-11-12-ganadores-copa → ok
 2026-11-12 01:51:49 arranca el bot del móvil
+2026-11-12 02:12:05 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
