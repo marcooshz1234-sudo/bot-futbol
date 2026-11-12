@@ -853,5 +853,64 @@
    "cuota_bet365": 1.5,
    "prob_cuota": 0.667
   }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37065-ing",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "England",
+  "visitante": "Croatia",
+  "partido_id": 1528962,
+  "texto": "Inglaterra -1,5 (hándicap): gana por 2 o más",
+  "mercado": "Asian Handicap",
+  "opcion": "Home -1.5",
+  "cuota": 1.76,
+  "stake": 2,
+  "argumento": [
+   "Croacia llega con 3 derrotas seguidas y dudas en defensa (Šutalo y Jakić); Inglaterra, 3 victorias seguidas peleando el liderato"
+  ],
+  "por_que": [
+   "Foto «Las 2 de hoy» de TipsAnalistas (12/11 ~14:00). Apuntado por Claude."
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37065-combi",
+  "combinada": "Tipsanalistas/37065-combi",
+  "dia": "2026-11-12",
+  "hora": "18:45",
+  "local": "Barcelona W",
+  "visitante": "Arsenal W",
+  "partido_id": 1638295,
+  "texto": "Gana el Barcelona (fem.)",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.23,
+  "argumento": [
+   "Barça: 3 de 3 en Champions con 19 goles a favor; el Arsenal con 4 bajas"
+  ],
+  "por_que": [
+   "Foto «Las 2 de hoy» de TipsAnalistas. Apuntado por Claude."
+  ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37065-combi",
+  "combinada": "Tipsanalistas/37065-combi",
+  "dia": "2026-11-12",
+  "hora": "23:59",
+  "local": "Antigua y Barbuda",
+  "visitante": "Trinidad y Tobago",
+  "texto": "Antigua y Barbuda +2,5 (hándicap) · 03:00",
+  "mercado": "Asian Handicap",
+  "opcion": "Home +2.5",
+  "cuota": 1.31,
+  "argumento": [
+   "Trinidad y Tobago lleva 11 partidos sin ganar; Antigua, 3 victorias seguidas y en casa"
+  ],
+  "por_que": [
+   "Partido de madrugada (13/11 03:00) que no seguimos: hora puesta 23:59 para que salga antes."
+  ]
  }
 ]
