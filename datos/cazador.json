@@ -21,74 +21,63 @@
  },
  "top": [
   {
-   "local": "Montenegro",
-   "visitante": "Latvia",
-   "inicio": "2026-11-12T20:45",
-   "texto": "Ambos marcan en Montenegro–Latvia",
-   "cuota": 2.5,
-   "justa": 2.46,
+   "local": "Andorra",
+   "visitante": "Gibraltar",
+   "inicio": "2026-11-13T20:45",
+   "texto": "Ambos marcan en Andorra–Gibraltar",
+   "cuota": 3.0,
+   "justa": 2.89,
+   "ev": 0.036,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Salamanca UDS",
+   "visitante": "Celta Vigo",
+   "inicio": "2026-11-13T21:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Salamanca UDS–Celta Vigo",
+   "cuota": 3.25,
+   "justa": 3.2,
    "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.7
   },
   {
-   "local": "SL Benfica W",
-   "visitante": "Austria Wien W",
-   "inicio": "2026-11-12T21:00",
-   "texto": "Ambos marcan en SL Benfica W–Austria Wien W",
-   "cuota": 1.91,
-   "justa": 1.9,
-   "ev": 0.007,
+   "local": "Liechtenstein",
+   "visitante": "Azerbaijan",
+   "inicio": "2026-11-13T20:45",
+   "texto": "Ambos marcan en Liechtenstein–Azerbaijan",
+   "cuota": 3.25,
+   "justa": 3.21,
+   "ev": 0.013,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.7
   },
   {
-   "local": "Albania",
-   "visitante": "Finland",
-   "inicio": "2026-11-12T20:45",
-   "texto": "Ambos marcan en Albania–Finland",
-   "cuota": 2.38,
-   "justa": 2.41,
-   "ev": -0.011,
+   "local": "Andorra",
+   "visitante": "Gibraltar",
+   "inicio": "2026-11-13T20:45",
+   "texto": "Gibraltar marca",
+   "cuota": 2.2,
+   "justa": 2.21,
+   "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.7
   },
   {
-   "local": "Montenegro",
-   "visitante": "Latvia",
-   "inicio": "2026-11-12T20:45",
-   "texto": "Montenegro marca 2 o más",
-   "cuota": 1.5,
-   "justa": 1.52,
-   "ev": -0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "SL Benfica W",
-   "visitante": "Austria Wien W",
-   "inicio": "2026-11-12T21:00",
-   "texto": "Austria Wien W marca",
-   "cuota": 1.67,
-   "justa": 1.7,
-   "ev": -0.015,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "SL Benfica W",
-   "visitante": "Austria Wien W",
-   "inicio": "2026-11-12T21:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del SL Benfica W–Austria Wien W",
-   "cuota": 2.0,
-   "justa": 2.04,
-   "ev": -0.019,
+   "local": "Moldova",
+   "visitante": "Kazakhstan",
+   "inicio": "2026-11-13T18:00",
+   "texto": "Kazakhstan marca 2 o más",
+   "cuota": 3.25,
+   "justa": 3.28,
+   "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.7
   }
  ],
  "ultima": {
-  "hora": "2026-11-12T19:50",
+  "hora": "2026-11-12T20:43",
   "revisadas": 0,
   "mejor": null
  },

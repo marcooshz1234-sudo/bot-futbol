@@ -5201,5 +5201,32 @@
     "resultado": "verde",
     "verde_de": "2026-11-12-pick-seguro",
     "requiere_ok": true
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-combi-partido-1528958-th",
+    "fecha": "2026-11-12T20:42",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Bélgica gana alguna de las dos partes\n✅ Bélgica marca 2 o más\n\n📈 Cuota @1,60\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-combi-partido-1528958-th.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-combi-partido-1528958-th",
+    "requiere_ok": true,
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-escalera",
+    "fecha": "2026-11-12T20:42",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana Bélgica\n\n📈 Cuota @1,80\n💶 72,72€ → 130,90€\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-escalera.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-escalera",
+    "requiere_ok": true
   }
 ]
