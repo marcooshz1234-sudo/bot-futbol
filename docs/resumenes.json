@@ -1658,9 +1658,9 @@
   },
   "2026-11-12": {
     "dia": "2026-11-12",
-    "total": 19,
+    "total": 20,
     "cuentas": {
-      "verde": 2,
+      "verde": 3,
       "rojo": 0,
       "pendiente": 17,
       "sin_datos": 0,
@@ -1683,7 +1683,7 @@
       {
         "id": "2026-11-12-pick-seguro",
         "titulo": "Pick de hoy, con datos detrás 📊",
-        "estado": "pendiente",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -1781,13 +1781,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-12-combi-nations-th-2",
+        "titulo": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
-      "verde": 5,
+      "verde": 6,
       "rojo": 0,
-      "total": 39
+      "total": 42
     },
-    "texto": "📊 BALANCE DEL JUEVES: 2 DE 2 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n✅ Este nos encanta para hoy 🔥\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Vamos con otro pick, familia 👇\n⏳ Os dejo la combi del Turquía – Bélgica ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀 · pendiente\n⏳ Y para los valientes, la loca del jueves 🤪🔥 · pendiente\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n⏳ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · pendiente\n\n✅ 2 acertadas · ❌ 0 falladas · ⏳ 17 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 3 DE 3 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n✅ Pick de hoy, con datos detrás 📊\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n✅ Este nos encanta para hoy 🔥\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n⏳ Vamos con la combi del jueves familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Vamos con otro pick, familia 👇\n⏳ Os dejo la combi del Turquía – Bélgica ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀 · pendiente\n⏳ Y para los valientes, la loca del jueves 🤪🔥 · pendiente\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n⏳ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · pendiente\n\n✅ 3 acertadas · ❌ 0 falladas · ⏳ 17 sin resolver"
   }
 }
