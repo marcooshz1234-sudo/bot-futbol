@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 19:24",
+ "actualizado": "2026-11-12 19:39",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2687,
-   "hoy": 43,
+   "seguidores": 2688,
+   "hoy": 44,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2687
+    2688
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3115,
- "total_hoy": 49,
+ "total": 3116,
+ "total_hoy": 50,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:30",
+  "hora": "19:40",
   "dia": "2026-11-12",
-  "titulo": "Os dejo la combi del chequia – españa"
+  "titulo": "Os dejo la combi del inglaterra – croa"
  },
  "ayer": null,
  "escalera": {
@@ -189,7 +189,7 @@
   },
   "2026-11-12": {
    "instagram": 40,
-   "threads": 2687,
+   "threads": 2688,
    "facebook": 1,
    "telegram": 387
   }
