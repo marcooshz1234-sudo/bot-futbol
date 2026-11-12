@@ -71,6 +71,11 @@ class TestRevision(unittest.TestCase):
         self.assertIn("tchouameni", R.protagonistas("Aurélien Tchouaméni es baja por lesión"))
         self.assertIn("tchouameni", R.protagonistas("Tchouaméni vuelve a lesionarse y abandona Francia"))
 
+    def test_favorito_claro_sin_estrella_sigue_valiendo(self):   # España sin Yamal @1,19
+        self.datos([{"titulo": "Alarmas en Francia: Mbappé no se entrena", "fuente": "X"}],
+                   cuotas={"Match Winner": [["Home", "15.0"], ["Away", "1.19"]]})
+        self.assertEqual(R.lados_sin_estrella(7), set())
+
     def test_prensa_inglesa(self):
         self.datos([{"titulo": "Virgil van Dijk Withdraws From France Squad", "fuente": "X"}])
         self.assertEqual(R.bajas_partido(7)[0]["tipo"], "baja")

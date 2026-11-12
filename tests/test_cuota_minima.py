@@ -33,6 +33,17 @@ class TestCuotaMinima(unittest.TestCase):
         self.assertIsNone(cuota_baja(dict(p, cuotas=[1.20, 1.28])))
         self.assertIsNone(cuota_baja(dict(p, id="2026-11-12-ganadores-nations")))   # la lista de ganadores no es combi
 
+    def test_pata_de_elite_en_combi(self):   # 12/11: «España gana es muy, muy buena… no es lo mismo que Bielorrusia»
+        import bot
+        p = {"id": "2026-11-12-combi-tip-9", "sel": ["1|Match Winner|Away", "2|Match Winner|Home"],
+             "cuotas": [1.19, 1.29], "texto": "📈 Cuota @1,54"}
+        with mock.patch.object(bot, "pata_de_elite", lambda s: s.startswith("1|")):
+            self.assertIsNone(cuota_baja(p))                                   # España @1,19 en combi de 1,54: vale
+            self.assertTrue(cuota_baja(dict(p, cuotas=[1.12, 1.29], texto="📈 Cuota @1,44")))   # por debajo de 1,15, no
+            self.assertTrue(cuota_baja(dict(p, cuotas=[1.19, 1.22], texto="📈 Cuota @1,45")))   # combi corta, no
+        with mock.patch.object(bot, "pata_de_elite", lambda s: False):          # Bielorrusia gana @1,19: no
+            self.assertTrue(cuota_baja(p))
+
     def test_sin_cuota_y_verdes_no_se_tocan(self):
         self.assertIsNone(cuota_baja({"id": "2026-11-12-ganadores", "texto": "1. Bélgica - Win"}))
         self.assertIsNone(cuota_baja({"id": "v", "verde_de": "x", "texto": "✅ @1,11"}))

@@ -128,9 +128,19 @@ def protagonistas(titulo):
         "mundial", "copa", "champions"}
 
 
+FAVORITO_CLARO = 1.35   # 12/11: si aun sin su estrella bet365 lo da a 1,35 o menos (España sin Yamal @1,19), sigue valiendo
+
+
 def lados_sin_estrella(fid):
-    """Lados ('home'/'away') del partido a los que les falta una estrella (baja, no duda) según la prensa."""
-    return {b["lado"] for b in bajas_partido(fid) if b["estrella"] and b["tipo"] == "baja" and b["lado"]}
+    """Lados ('home'/'away') del partido a los que les falta una estrella (baja, no duda) según la prensa. No cuenta si,
+    con la baja ya conocida, ese equipo sigue siendo favorito claro (Marcos 12/11: «España gana es muy, muy buena»)."""
+    out = set()
+    for b in bajas_partido(fid):
+        if b["estrella"] and b["tipo"] == "baja" and b["lado"]:
+            c = cuota_actual(fid, "Match Winner", "Home" if b["lado"] == "home" else "Away")
+            if not (c and c <= FAVORITO_CLARO):
+                out.add(b["lado"])
+    return out
 
 
 def cuota_actual(fid, mercado, opcion):

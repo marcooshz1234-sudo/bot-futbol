@@ -204,8 +204,9 @@ def main(ahora=None):
         if not cu:   # 12/11: sin cuota no se sube (podría ser un 1,12); se vuelve a mirar en la siguiente pasada
             print(f"Copiar tipsters: {x['texto']} sin cuota, espera")
             continue
-        from bot import CUOTA_MINIMA_PATA
-        if float(cu) < CUOTA_MINIMA_PATA:   # 12/11 (Marcos): ni sola ni en combi por debajo de 1,20
+        from bot import CUOTA_MINIMA_PATA, CUOTA_PATA_ELITE, pata_de_elite
+        elite = x.get("combinada") and float(cu) >= CUOTA_PATA_ELITE and pata_de_elite(x)   # «España gana es muy, muy buena»
+        if float(cu) < CUOTA_MINIMA_PATA and not elite:   # 12/11 (Marcos): ni sola ni en combi por debajo de 1,20
             print(f"Copiar tipsters: {x['texto']} no (cuota {cu} < {CUOTA_MINIMA_PATA})")
             hechos.add(clave(x))
             if x.get("combinada"):
@@ -271,6 +272,12 @@ def main(ahora=None):
         tot = 1.0
         for x in patas:
             tot *= float(x.get("cuota") or 0) or 1
+        from bot import COMBI_CON_ELITE, CUOTA_MINIMA_PATA
+        bajas_ = [x for x in patas if x.get("cuota") and float(x["cuota"]) < CUOTA_MINIMA_PATA]
+        if bajas_ and (len(bajas_) > 1 or tot < COMBI_CON_ELITE):   # la de élite, una y en combis de 1,50 o más
+            print(f"Copiar tipsters: combinada @{tot:.2f} no (pata de élite baja en combi corta o más de una)")
+            hechos.update(clave(x) for x in patas)
+            continue
         if tot < CUOTA_MINIMA_POST:   # 12/11: una combinada suya (o lo que queda de ella) por debajo de 1,35, no
             print(f"Copiar tipsters: combinada @{tot:.2f} no (menos de {CUOTA_MINIMA_POST})")
             hechos.update(clave(x) for x in patas)

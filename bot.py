@@ -138,6 +138,29 @@ def partidos_fuera():
 
 CUOTA_MINIMA_POST = 1.35   # 12/11 (Marcos: «mínimo, siempre mínimo 1,30 o 1,35… ¿quién va a coger eso?»)
 CUOTA_MINIMA_PATA = 1.20   # 12/11 (Marcos: «si es en una combi sí se puede meter, pero mínimo 1,20»)
+# 12/11 (Marcos: «si es una combinada para hacer una cuota de 1,80-2 y vas a meter España gana, te lo compro… pero
+# es muy, muy buena; no es lo mismo que poner Bielorrusia gana aunque esté de favorita»): UNA pata entre 1,15 y 1,20
+# se acepta en una combi de 1,50 o más si es «gana/no pierde» de un favorito de élite (no para rellenar)
+CUOTA_PATA_ELITE = 1.15
+COMBI_CON_ELITE = 1.50
+ELITE = {"spain", "france", "england", "germany", "portugal", "argentina", "brazil", "netherlands", "italy", "belgium",
+         "real madrid", "barcelona", "bayern munich", "bayern münchen", "paris saint germain", "manchester city",
+         "liverpool", "arsenal", "inter", "napoli", "juventus", "atletico madrid", "chelsea", "barcelona w", "lyon w",
+         "chelsea w", "arsenal w"}
+
+
+def pata_de_elite(sel_o_pk):
+    """¿La pata es «gana/no pierde» de un favorito de élite (España, Francia, Real Madrid…)? Nombres de la API."""
+    if isinstance(sel_o_pk, dict):
+        fid, mercado, opcion = sel_o_pk.get("partido_id"), sel_o_pk.get("mercado"), sel_o_pk.get("opcion")
+    else:
+        fid, mercado, opcion = (str(sel_o_pk).split("|") + [None, None])[:3]
+    if mercado not in ("Match Winner", "Double Chance", "To Qualify") or not fid:
+        return False
+    pa = (leer(DATOS / "proximos" / f"{fid}.json", {}) or {}).get("partido") or {}
+    eq = (pa.get("teams") or {})
+    lado = "home" if str(opcion).startswith("Home") else "away" if str(opcion).startswith(("Away", "Draw/Away")) else None
+    return bool(lado and eq.get(lado) and eq[lado].get("name", "").lower() in ELITE)
 
 
 def cuota_post(post, texto=None):
@@ -175,7 +198,11 @@ def cuota_baja(post, texto=None):
         except (TypeError, ValueError):
             bajas = []
         if bajas:
-            return f"una pata a {min(bajas):.2f} (mínimo {CUOTA_MINIMA_PATA:.2f} por pata)"
+            sels, cs = post.get("sel") or [], post.get("cuotas") or []
+            elite = [s_ for s_, c_ in zip(sels, cs) if c_ and CUOTA_PATA_ELITE <= float(c_) < CUOTA_MINIMA_PATA
+                     and pata_de_elite(s_)]
+            if not (len(bajas) == 1 and len(elite) == 1 and c is not None and c >= COMBI_CON_ELITE):
+                return f"una pata a {min(bajas):.2f} (mínimo {CUOTA_MINIMA_PATA:.2f} por pata)"
     return None
 
 
