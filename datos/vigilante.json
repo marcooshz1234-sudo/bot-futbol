@@ -13,7 +13,9 @@
   "prensa-1528960-dcf29625": "2026-11-12T06:58",
   "prensa-1528965-fff46596": "2026-11-12T06:58",
   "prensa-1528960-ae60f5f1": "2026-11-12T07:54",
-  "repe-2026-11-12-1638295|Total - Home|Over 2.5": "2026-11-12T09:08"
+  "repe-2026-11-12-1638295|Total - Home|Over 2.5": "2026-11-12T09:08",
+  "repe-2026-11-12-1528963|Goals Over/Under|Over 1.5": "2026-11-12T09:28",
+  "repe-2026-11-12-1545613|Total - Home|Over 1.5": "2026-11-12T09:28"
  },
  "abiertos": [
   {
@@ -21,44 +23,60 @@
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (pick-th-1, combi-tres, combi-multi)"
   },
   {
+   "clave": "repe-2026-11-12-1528963|Goals Over/Under|Over 1.5",
+   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, combi-loca)"
+  },
+  {
+   "clave": "repe-2026-11-12-1545613|Total - Home|Over 1.5",
+   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
+  },
+  {
    "clave": "estrella-2026-11-12-combi-partido-1528958-th-KylianMbappé",
-   "t": "⭐ Turquía–Bélgica: «Kylian Mbappé, baja en Francia por lesión, Zidane lo confirma» (El Desmarque). «Os dejo la combi del Turquía – Bélgica ⚽🔥» (12:00) va a favor de ese equipo: te propongo quitarlo"
+   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «Os dejo la combi del Turquía – Bélgica ⚽🔥» (12:00) va a favor de ese equipo: te propongo quitarlo"
   },
   {
    "clave": "estrella-2026-11-12-escalera-KylianMbappé",
-   "t": "⭐ Turquía–Bélgica: «Kylian Mbappé, baja en Francia por lesión, Zidane lo confirma» (El Desmarque). «🪜 Reto escalera · Día 3/7» (11:00) va a favor de ese equipo: te propongo quitarlo"
+   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «🪜 Reto escalera · Día 3/7» (11:00) va a favor de ese equipo: te propongo quitarlo"
   },
   {
    "clave": "prensa-1528960-39ede3d9",
-   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
    "clave": "prensa-1528960-10a0d570",
-   "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
    "clave": "prensa-1528960-277f8ba9",
-   "t": "📰 Italia–Francia: «Aurélien Tchouaméni es baja por lesión para los duelos de Francia por la Liga de Naciones» (El Nacional) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «Aurélien Tchouaméni es baja por lesión para los duelos de Francia por la Liga de Naciones» (El Nacional) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
    "clave": "prensa-1528960-d471d802",
-   "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
    "clave": "prensa-1528960-dcf29625",
-   "t": "📰 Italia–Francia: «Tchouaméni, lesionado, causa baja con Francia» (www.abc.com.py) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «Tchouaméni, lesionado, causa baja con Francia» (www.abc.com.py) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
    "clave": "prensa-1528960-ae60f5f1",
-   "t": "📰 Italia–Francia: «Tchouaméni abandona la concentración de Francia y regresará a Madrid» (Tribuna.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «Tchouaméni abandona la concentración de Francia y regresará a Madrid» (Tribuna.com) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   },
   {
    "clave": "prensa-1644379-165394d1",
-   "t": "📰 Tarancón–Levante: «El Levante anuncia la convocatoria para visitar al Tarancón con siete bajas y varios canteranos» (FútbolFantasy) · tenemos 2 post(s) de este partido: combi-multi, pick-seguro-2"
+   "t": "📰 Tarancón–Levante: «El Levante anuncia la convocatoria para visitar al Tarancón con siete bajas y varios canteranos» (FútbolFantasy) · tenemos 1 post(s) de este partido: combi-multi"
   }
  ],
- "revisado": "2026-11-12T09:18",
+ "revisado": "2026-11-12T09:28",
  "historial": [
+  {
+   "hora": "2026-11-12T09:28",
+   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, combi-loca)"
+  },
+  {
+   "hora": "2026-11-12T09:28",
+   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
+  },
   {
    "hora": "2026-11-12T09:08",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (pick-th-1, combi-tres, combi-multi)"
