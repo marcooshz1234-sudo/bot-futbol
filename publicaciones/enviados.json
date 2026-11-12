@@ -696,5 +696,9 @@
   "2026-11-12-escalera": {
     "enviado": "2026-11-12T11:00",
     "mensaje_id": 412
+  },
+  "2026-11-12-combi-tres": {
+    "enviado": "2026-11-12T13:30",
+    "mensaje_id": 416
   }
 }

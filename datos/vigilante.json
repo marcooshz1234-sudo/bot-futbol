@@ -19,16 +19,25 @@
   "prensa-1528960-33988cb0": "2026-11-12T11:27",
   "tarjeta-2026-11-12-combi-partido-1528958-th": "2026-11-12T11:49",
   "estrella-2026-11-12-combi-partido-1528960-th-KylianMbappé": "2026-11-12T12:00",
-  "redes-2026-11-12-combi-partido-1528958-th-threads": "2026-11-12T12:26"
+  "redes-2026-11-12-combi-partido-1528958-th-threads": "2026-11-12T12:26",
+  "foto-2026-11-12-combi-tres": "2026-11-12T13:29"
  },
  "abiertos": [
   {
+   "clave": "foto-2026-11-12-combi-tres",
+   "t": "🖼️ Sale a las 13:30 y su foto no está hecha (o es vieja): Vamos con la combi del jueves familia 🔥"
+  },
+  {
    "clave": "prensa-1528960-39ede3d9",
-   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
+   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
   }
  ],
- "revisado": "2026-11-12T13:19",
+ "revisado": "2026-11-12T13:29",
  "historial": [
+  {
+   "hora": "2026-11-12T13:29",
+   "t": "🖼️ Sale a las 13:30 y su foto no está hecha (o es vieja): Vamos con la combi del jueves familia 🔥"
+  },
   {
    "hora": "2026-11-12T12:26",
    "t": "⏰ No ha salido en threads (12:00): Os dejo la combi del Turquía – Bélgica ⚽🔥"
