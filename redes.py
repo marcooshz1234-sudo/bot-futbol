@@ -109,6 +109,15 @@ def url_media(p, ext):
 
 # ------------------------------------------------------------------ cada red
 
+def foto_threads(p):
+    """12/11 (Marcos: «pick del día y ganadores»): la única foto que lleva un post en Threads (o None)."""
+    if p.get("ganadores_img") or "-ganadores" in p["id"]:
+        return url_media(p, "tarjeta.jpg")
+    if re.search(r"-pick-seguro$", p["id"]):
+        return url_media(p, "jpg")
+    return None
+
+
 def threads(p, token):
     t = texto_final(dict(p, texto=p.get("texto_threads") or p["texto"]))   # 28/10: versión corta si la hay
     if len(t) > LIMITE_THREADS:   # sin la frase del dato si no cabe
@@ -125,9 +134,9 @@ def threads(p, token):
     if len(t) > LIMITE_THREADS:
         raise RuntimeError(f"{len(t)} caracteres (máx. {LIMITE_THREADS})")
     datos = {"media_type": "TEXT", "text": t, "access_token": token}
-    foto = url_media(p, "tarjeta.jpg")   # 27/10: combis de un partido → con la foto del partido (escudos y hora)
-    if not foto and re.search(r"-pick(-|$)", p["id"]) and not re.search(r"verde|rojo", p["id"]):
-        foto = url_media(p, "jpg")   # 11/11 (Marcos): el pick del día también en Threads con su foto (la de Instagram)
+    # 12/11 (Marcos: «no pongas tanta foto en Threads» → «pick del día y ganadores»): en Threads solo llevan foto
+    # el pick del día (el de las 10:30) y los GANADORES; lo demás (picks, copias, combis de partido…), solo texto
+    foto = foto_threads(p)
     if p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo)-auto-", p["id"]):
         foto = None   # 10/11 (Marcos): los verdes y rojos en Threads, solo el texto
     if foto:
@@ -538,8 +547,9 @@ def main(objetivo=None):
             continue
         if p.get("ganadores_img") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             continue   # 07/11: el GANADORES WIN nunca sin su foto (se espera a que imagenes.py la haga)
-        if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
-            continue   # 28/10 (Marcos): combi de partido SIEMPRE con su foto; se espera a que el bucle la haga
+        if p.get("tarjeta") and (p.get("solo_en") or []) != ["threads"] \
+                and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
+            continue   # 28/10: combi de partido SIEMPRE con su foto (12/11: la de solo Threads ya va sin foto, no espera)
         hecho = p.setdefault("redes", {})
         errores = p.setdefault("errores_redes", {})
         tareas = []
