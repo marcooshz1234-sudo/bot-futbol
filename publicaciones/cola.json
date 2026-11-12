@@ -5315,7 +5315,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "18089362670313302"
+      "threads": "18089362670313302",
+      "threads_enlace": "17981463176919123"
     }
   },
   {
@@ -5337,7 +5338,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "18107152127000899"
+      "threads": "18107152127000899",
+      "threads_enlace": "17871230676662211"
     }
   },
   {
@@ -5365,5 +5367,19 @@
       "facebook": null,
       "instagram": "18125784281317733"
     }
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-combi-nations-th-1",
+    "fecha": "2026-11-12T22:30",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Chipre marca\n✅ Bélgica marca 2 o más\n✅ Más de 1,5 goles en Albania–Finlandia\n\n📈 Cuota @3,07",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-combi-nations-th-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-combi-nations-th-1",
+    "solo_en": [
+      "threads"
+    ]
   }
 ]
