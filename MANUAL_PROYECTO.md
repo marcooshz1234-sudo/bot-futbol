@@ -9,7 +9,7 @@
 
 ---
 
-## 0. Novedades del 02/11 al 11/11 (LÉELO PRIMERO)
+## 0. Novedades del 02/11 al 12/11 (LÉELO PRIMERO)
 
 Detalle día a día: `informes/bitacora/2026-11.md`. Análisis del 11/11: Proyecto de Claude «pronosticador» → `ANALISIS_BOT_11NOV.md`.
 
@@ -27,6 +27,14 @@ Detalle día a día: `informes/bitacora/2026-11.md`. Análisis del 11/11: Proyec
 | Vigilante (11/11) | `vigilante.py` (cada 10 min en el bucle; `--sin-aviso` para Claude) | No cambia nada: avisa una vez por fallo (aplazados, posts sin salir, fotos, mercados prohibidos, +2 posts por pronóstico, escalera, cuota API, claves Meta) → `datos/vigilante.json` |
 | Copiar tipsters (11/11) | `copiar_tipsters.py` | Picks de Pérez, TipsAnalistas y Pablo Analista salen como nuestros a los 2 min (cuota bet365 nuestra, sin su nombre) → `datos/tipsters_copiados.json` |
 | Posts borrados a mano | `publicaciones/borrados.json` | La app, aciertos y vigilante los saltan; sus verdes no salen (`datos/verdes_auto.json`) |
+| **Reglas en un sitio (12/11)** | `REGLAS.md`, `comprobar_post.py` | Lista única de reglas. `comprobar_post.py` las comprueba y Telegram/redes lo pasan antes de publicar (si falla, no sale). Claude: `python3 comprobar_post.py <id>` antes de meter nada a mano |
+| Mercado prohibido y cuota mínima (12/11) | `bot.mercado_prohibido`, `bot.cuota_baja` | No sale nada nuestro con mercado prohibido, ni post con cuota total < 1,35, ni pata < 1,20 (salvo 1 pata 1,15–1,20 de favorito de élite, `bot.ELITE`). Copias de tipsters: sí pueden llevar +2,5, 1ª parte… |
+| Revisión automática (12/11) | `revision.py`, `noticias.py` | Bajas en prensa, ⭐ estrella ausente, cuota movida ≥15 %; informe a las 9:00 (ajuste `informe_manana`) |
+| Verdes seguros solos (12/11) | `verdes_auto.py` (`agrupar`) | Verdes seguros (todo confirmado, cuota ≥ 1,35, no boleto) salen sin OK; varios → un post con una foto (TG+IG); en Threads, cada uno como comentario de su post. Con duda, a Marcos |
+| Marca en Telegram (12/11) | `marca_tg.py`, `publicaciones/media/marca` | Buenos días 9:30, noche europea, en directo (uno cada 3 días como mucho), ¡PLENO!; animación de verde si cuota ≥ 3,00. Ajuste `marca_tg` |
+| Estilo Threads (12/11) | `estilo_threads.py`, `redes.foto_threads` | Texto de Threads con 🔥⚽, ✅, 💎; solo llevan foto el pick del día y ganadores; enlace de Telegram en primer comentario (ajuste `enlace_threads`) |
+| Combi de un partido (12/11) | `asistente.cuota_combi_partido` | Lleva `requiere_ok` + `pide_cuota`: sin la cuota de bet365 «Crear apuesta» de Marcos no sale |
+| Logos y árbitros (12/11) | `logos_hd.py`, `preparar_logo.py`, `arbitros_ext.py` | Logos de competición en HD (`escudos/liga-<id>-hd.png`); media de tarjetas de árbitros de fuera (solo si ≥ 3 partidos) |
 
 Reglas nuevas de noviembre (además de las de abajo): Telegram solo pick del día (1,50-1,70, 10:30 y 18:00), escalera y una combi; el resto solo redes (sin encuesta, concurso, ranking ni GIF desde el 11/11). Un pronóstico en 2 posts como mucho. Etiquetas 🧠/🎉 solo en algunos y con frases variadas. No editar posts publicados (alineaciones solo avisa). Threads: verdes y rojos sin imagen. Nada de fueras de juego, tiros del partido, gol 1ª parte, +2,5 goles del partido ni descanso. Femeninas con «(fem.)». Respuestas a Marcos por partes, en formato pregunta-respuesta.
 
