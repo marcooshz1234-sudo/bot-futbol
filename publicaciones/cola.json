@@ -5472,6 +5472,12 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-12T23:16",
+    "mensaje_id": 433,
+    "redes": {
+      "threads": "18084403958408980",
+      "threads_enlace": "18026929895926844"
+    }
   }
 ]
