@@ -219,7 +219,8 @@ def tarjeta(p, pagina):
     bandera = {"LaLiga": "🇪🇸", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹", "Bundesliga": "🇩🇪", "Ligue 1": "🇫🇷",
                "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢", "Primeira Liga": "🇵🇹",
                "Eredivisie": "🇳🇱", "Championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Segunda División": "🇪🇸"}.get(t.get("liga"), "⚽")
-    for k, v in {"liga": f"{bandera} {(t.get('liga') or '').upper()}", "local": t["local"], "visitante": t["visitante"],
+    from plantillas import es as _es   # 12/11 (Marcos): nombres en español (Turquía, no Türkiye)
+    for k, v in {"liga": f"{bandera} {(t.get('liga') or '').upper()}", "local": _es(t["local"]), "visitante": _es(t["visitante"]),
                  "hora": f"{ini:%H:%M}", "dia": dia}.items():
         doc = doc.replace("{" + k + "}", html.escape(str(v)))
     for k, nombre in (("logo_l", t["local"]), ("logo_v", t["visitante"])):

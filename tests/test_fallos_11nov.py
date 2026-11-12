@@ -251,6 +251,28 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertTrue(all(s.rstrip().endswith(("@1,80", plantillas.CIERRE_TELEGRAM)) for s in salen))
         self.assertEqual(plantillas.cierre_a_veces("Hola\n\nadiós", "x"), "Hola\n\nadiós")   # sin cierre: igual
 
+    def test_verde_en_threads_como_comentario(self):
+        import redes
+        enviados = []
+        with mock.patch.object(redes, "hilo_original", lambda p: "999"), \
+                mock.patch.object(redes, "llamar", lambda m, u, d: enviados.append(d) or {"id": "1"}), \
+                mock.patch.object(redes.time, "sleep", lambda s: None):
+            redes.threads({"id": "2026-11-12-verde-auto-x", "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Betis",
+                           "verde_de": "x"}, "t")
+        self.assertEqual(enviados[0]["reply_to_id"], "999")
+        self.assertNotIn("topic_tag", enviados[0])
+
+    def test_noticias_utiles(self):
+        import app_datos as A
+        self.assertTrue(A.noticia_util({"titulo": "La posible alineación titular de Inglaterra para enfrentar a Croacia"}, "England", "Croatia"))
+        self.assertFalse(A.noticia_util({"titulo": "Cómo conseguir entradas para el Italia-Francia"}, "Italy", "France"))
+        self.assertFalse(A.noticia_util({"titulo": "Watch New Zealand vs. India Live Stream Online"}, "Türkiye", "Belgium"))
+        self.assertFalse(A.noticia_util({"titulo": "Inglaterra vs Croacia Pronóstico y Apuestas"}, "England", "Croatia"))
+
+    def test_tarjeta_nombres_en_espanol(self):
+        src = (RAIZ / "imagenes.py").read_text(encoding="utf-8")
+        self.assertIn('"local": _es(t["local"])', src)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -4610,7 +4610,7 @@
   {
     "id": "2026-11-12-combi-partido-1528958-th",
     "fecha": "2026-11-12T12:00",
-    "texto": "Os dejo la combi del Turquía – Bélgica ⚽🔥\n\n🍀 Bélgica gana alguna de las dos partes\n🍀 Bélgica marca 2 o más\n\n📈 Cuota @2,20\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo la combi del Turquía – Bélgica ⚽🔥\n\n🍀 Bélgica gana alguna de las dos partes\n🍀 Bélgica marca 2 o más\n\n📈 Cuota @1,60\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "claude",
     "directo": true,
@@ -4625,7 +4625,7 @@
       1.4,
       1.57
     ],
-    "nota": "12/11 Marcos: más contenido para Threads",
+    "nota": "12/11 Marcos: más contenido para Threads · cuota de bet365 «Crear apuesta» 1,60 (Marcos 04:53); 2,20 era multiplicando",
     "tarjeta": {
       "local": "Türkiye",
       "visitante": "Belgium",
@@ -4635,7 +4635,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/1.png",
       "fecha": "2026-11-12T18:00",
       "liga": "Nations League"
-    }
+    },
+    "cuota_total": 1.6
   },
   {
     "id": "2026-11-12-combi-partido-1528960-th",
@@ -4655,7 +4656,7 @@
       1.57,
       1.5
     ],
-    "nota": "12/11 Marcos: más contenido para Threads",
+    "nota": "12/11 Marcos: más contenido para Threads · retenida: 2,35 es multiplicando; falta la cuota real de «Crear apuesta»",
     "tarjeta": {
       "local": "Italy",
       "visitante": "France",
@@ -4665,7 +4666,8 @@
       "logo_v": "https://media.api-sports.io/football/teams/2.png",
       "fecha": "2026-11-12T20:45",
       "liga": "Nations League"
-    }
+    },
+    "requiere_ok": true
   },
   {
     "id": "2026-11-12-pick-th-1",

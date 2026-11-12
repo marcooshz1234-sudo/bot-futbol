@@ -132,7 +132,10 @@ def threads(p, token):
         foto = None   # 10/11 (Marcos): los verdes y rojos en Threads, solo el texto
     if foto:
         datos = {"media_type": "IMAGE", "image_url": foto, "text": t, "access_token": token}
-    if TEMA_THREADS:
+    origen = hilo_original(p)
+    if origen:   # 12/11 (Marcos): el verde/rojo va como primer comentario del post de la combi, no como post nuevo
+        datos["reply_to_id"] = origen
+    if TEMA_THREADS and not origen:
         datos["topic_tag"] = TEMA_THREADS   # el tema que sale al lado del nombre: combilocas › Apuestas deportivas
     try:
         c = llamar("POST", f"{THREADS}/me/threads", datos)
@@ -201,6 +204,22 @@ def lleva_enlace(p):
         m = re.search(r"✅ (\d+) acertad[oa]s · ❌ (\d+) fallad[oa]s", p.get("texto", ""))
         return bool(m) and int(m.group(1)) > int(m.group(2))
     return False
+
+
+def hilo_original(p):
+    """12/11: id de Threads del post del que este es el verde/rojo (verde_de / rojo_de), si salió en Threads."""
+    import json as _json
+    orig = p.get("verde_de") or p.get("rojo_de")
+    if not orig:
+        return None
+    base = Path(__file__).parent / "publicaciones"
+    try:
+        cola = _json.loads((base / "cola.json").read_text(encoding="utf-8"))
+        meta = _json.loads((base / "enviados_redes.json").read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    r = next((x.get("redes") for x in cola if x["id"] == orig), None) or (meta.get(orig) or {}).get("redes") or {}
+    return id_publicado(r.get("threads"))
 
 
 def id_publicado(v):

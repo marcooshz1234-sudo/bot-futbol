@@ -241,6 +241,16 @@ def fila_sel(sel, cuota, directo, conocidos=None):
     m_lin = re.match(r"Over (\d+)$", str(opcion))
     if estado == "rojo" and m_lin and prog and prog.get("actual") == int(m_lin.group(1)):
         estado = "anulada"
+    from plantillas import es as _es   # 12/11: «Gana el Belarus» → «Gana Bielorrusia»
+    for n in nombres:
+        if n and _es(n) != n:
+            texto = texto.replace(n, _es(n))
+    nombres = [_es(n) if n else n for n in nombres]
+    texto = re.sub(r"\b(el|la) (?=(España|Inglaterra|Francia|Italia|Bielorrusia|Croacia|Turquía|Bélgica|Chequia|Montenegro|"
+                   r"Letonia|Chipre|Armenia|Albania|Finlandia|Portugal|Alemania|Países Bajos|Escocia|Gales|Suecia|Noruega|"
+                   r"Dinamarca|Suiza|Austria|Polonia|Ucrania|Grecia|Serbia|Rumanía|Hungría|Eslovaquia|Eslovenia|Bosnia|Georgia|"
+                   r"Islandia|Irlanda|Israel|Kosovo|Macedonia|Moldavia|Lituania|Estonia|Luxemburgo|Malta|Andorra|San Marino|"
+                   r"Liechtenstein|Gibraltar|Feroe|Kazajistán|Azerbaiyán)\b)", "", texto)   # selecciones sin artículo
     texto = re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", texto)   # 11/11: «Køge W» → «Køge (fem.)»
     return {"texto": texto, "cuota": cuota, "partido": " – ".join(nombres) if all(nombres) else None,
             "partido_id": int(pid), "estado": estado, "definitivo": estado in ("verde", "rojo", "anulada"),
@@ -483,6 +493,24 @@ def bot_1x2(loc, vis, hist, n=10):
     return {"local": round(100 * l / tot), "empate": round(100 * e / tot), "visitante": round(100 * v / tot)}
 
 
+UTIL = re.compile(r"alineaci|once\b|titular|convoca|lesi|baja|bajas|duda|sancion|suspend|vuelve|recupera|descart|"
+                  r"no jugar|no estar|rotacion|banquillo|lineup|injur|ruled out|suspended|doubt|team news", re.I)
+INUTIL = re.compile(r"entrada|ticket|precio|live stream|watch |en vivo|resultados en vivo|subasta|auction|"
+                    r"pronóstico|apuestas|cuotas|odds|betting|tips", re.I)
+
+
+def noticia_util(n, local, visitante):
+    """12/11: ¿sirve esta noticia para el partido? Tiene que nombrar a uno de los dos equipos (en español o en
+    inglés) y hablar de algo que cambie el partido (bajas, alineación…); nada de entradas, retransmisiones o
+    pronósticos de otras webs."""
+    from plantillas import es
+    t = n.get("titulo") or ""
+    nombres = {x.lower() for x in (local, visitante, es(local), es(visitante)) if x}
+    if not any(x in t.lower() for x in nombres) or INUTIL.search(t):
+        return False
+    return bool(n.get("tipos")) or bool(UTIL.search(t))
+
+
 def ranking_arbitros(partidos):
     """Árbitros ordenados por tarjetas por partido; marca los que pitan en los próximos partidos."""
     from picks import indice_arbitros, nombre_arbitro
@@ -709,7 +737,10 @@ def main():
                 "arbitro_nombre": (f["fixture"].get("referee") or "").split(",")[0].strip() or None,
                 "actualizado": vivo.get("visto"), "actualizado_iso": fecha_iso(vivo.get("visto")),
                 # 09/11: titulares de los periódicos de ese partido (noticias.py), los más útiles primero
-                "noticias": sorted(sorted(NOTICIAS.get(str(fid), []), key=lambda n: n["fecha"], reverse=True), key=lambda n: not n.get("tipos"))[:3],
+                # 12/11 (Marcos: «la mitad es innecesaria… entradas del estadio… ponme información importante»): solo
+                # las de ESTE partido que hablan de alineación, bajas, lesiones, sanciones o dudas
+                "noticias": [n for n in sorted(NOTICIAS.get(str(fid), []), key=lambda n: n["fecha"], reverse=True)
+                             if noticia_util(n, f["teams"]["home"]["name"], f["teams"]["away"]["name"])][:3],
                 "ficha": None if h.strftime("%Y-%m-%d") == ayer else {
                     "local": ficha_equipo(f["teams"]["home"]["id"], f["teams"]["home"]["name"], hist),
                     "visitante": ficha_equipo(f["teams"]["away"]["id"], f["teams"]["away"]["name"], hist),
@@ -1018,6 +1049,12 @@ def main():
              "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
+    # 12/11 (Marcos: «los nombres de los países están en inglés»): al final, para no romper los cruces por nombre
+    from plantillas import es as _es
+    for p in datos.get("partidos") or []:
+        for k in ("local", "visitante"):
+            if p.get(k):
+                p[k] = _es(p[k])
     # 10/11: el repositorio crecía mucho (600 KB guardados cada 3 min). Si no ha cambiado nada de verdad (solo la hora
     # o el estado del bot) y la última es de hace menos de 15 min, no se reescribe (y no se sube)
     try:
