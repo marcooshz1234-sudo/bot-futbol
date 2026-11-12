@@ -4295,7 +4295,7 @@
   {
     "id": "2026-11-12-combi-multi",
     "fecha": "2026-11-12T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,63! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Calvo Sotelo marca\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇪🇸 Real Betis marca 3 o más\n🇲🇪 Montenegro marca 2 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n⚽ Austria Wien (fem.) marca",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,70! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇹🇷 Ambos marcan en Turquía–Bélgica\n🇪🇸 Calvo Sotelo marca\n🇪🇸 Barcelona (fem.) marca 3 o más\n🇪🇸 Levante marca 3 o más\n🇪🇸 Real Betis marca 3 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más\n⚽ Austria Wien (fem.) marca",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4305,8 +4305,8 @@
       "1638295|Total - Home|Over 2.5",
       "1644379|Total - Away|Over 2.5",
       "1644363|Total - Away|Over 2.5",
-      "1545613|Total - Home|Over 1.5",
       "1528963|Goals Over/Under|Over 1.5",
+      "1545613|Total - Home|Over 1.5",
       "1638339|Total - Away|Over 0.5"
     ],
     "cuotas": [
@@ -4316,7 +4316,7 @@
       1.5,
       1.62,
       1.44,
-      1.44,
+      1.5,
       1.44
     ],
     "solo_redes": true
@@ -4324,19 +4324,19 @@
   {
     "id": "2026-11-12-combi-loca",
     "fecha": "2026-11-12T16:00",
-    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇪🇸 Ambos marcan en Calvo Sotelo–Albacete\n🇮🇹 Italia marca\n🇦🇱 Albania gana alguna de las dos partes\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,23\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del jueves 🤪🔥\n\n🇪🇸 Ambos marcan en Calvo Sotelo–Albacete\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇫🇮 Finlandia o empate\n⚽ Gana el SL Benfica (fem.)\n\n📈 Cuota @6,81\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1644370|Both Teams Score|Yes",
-      "1528960|Total - Home|Over 0.5",
-      "1528963|To Win Either Half|Home",
+      "1528963|Goals Over/Under|Over 1.5",
+      "1528963|Double Chance|Draw/Away",
       "1638339|Match Winner|Home"
     ],
     "cuotas": [
       1.8,
-      1.36,
+      1.44,
       1.57,
       1.62
     ],
@@ -4345,12 +4345,12 @@
   {
     "id": "2026-11-12-pick-seguro-2",
     "fecha": "2026-11-12T18:00",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇪🇸 Tarancón – Levante · 19:00\n\n🍀 Levante marca 3 o más @1,50\n🧠 Stake 2/10\n\n👨‍💻 4 categorías de diferencia: el Levante juega en Primera y el Tarancón en Tercera Federación\n👨‍💻 Los partidos del Levante llevan 3,4 goles de media (últimos 8).\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Montenegro – Letonia · 20:45\n\n🍀 Montenegro marca 2 o más @1,50\n🧠 Stake 2/10\n\n📊 Historial: 4 ✅ · 2 ❌ · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1644379|Total - Away|Over 2.5"
+      "1545613|Total - Home|Over 1.5"
     ],
     "cuotas": [
       1.5
