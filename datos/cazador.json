@@ -29,7 +29,7 @@
    "justa": 3.13,
    "ev": 0.341,
    "fuente": "Pinnacle",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "San Marino",
@@ -40,7 +40,7 @@
    "justa": 3.07,
    "ev": 0.058,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "SL Benfica W",
@@ -51,7 +51,7 @@
    "justa": 3.12,
    "ev": 0.042,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "SL Benfica W",
@@ -62,7 +62,7 @@
    "justa": 2.68,
    "ev": 0.028,
    "fuente": "Pinnacle",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "Barcelona W",
@@ -73,7 +73,7 @@
    "justa": 2.44,
    "ev": 0.024,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "Czechia",
@@ -84,7 +84,7 @@
    "justa": 3.28,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "Montenegro",
@@ -95,7 +95,7 @@
    "justa": 2.41,
    "ev": -0.011,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "Barcelona W",
@@ -106,11 +106,11 @@
    "justa": 2.41,
    "ev": -0.011,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   }
  ],
  "ultima": {
-  "hora": "2026-11-12T03:03",
+  "hora": "2026-11-12T03:25",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1638339,
@@ -124,7 +124,7 @@
    "justa": 3.13,
    "ev": 0.341,
    "fuente": "Pinnacle",
-   "edad_h": 0.8,
+   "edad_h": 1.1,
    "texto": "Empate en SL Benfica W–Austria Wien W"
   }
  },
