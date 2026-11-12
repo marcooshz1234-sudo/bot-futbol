@@ -5124,7 +5124,15 @@
     "cuotas": [
       1.61
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17966579214246291",
+      "instagram": "18146684080610814",
+      "threads_enlace": "17997878169110556"
+    },
+    "enviado": "2026-11-12T18:51",
+    "mensaje_id": 426
   },
   {
     "id": "2026-11-12-pick-tip-7",
@@ -5140,6 +5148,26 @@
     "cuotas": [
       1.83
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18157781908529505",
+      "instagram": "18113184752460531",
+      "threads_enlace": "17997855264111974"
+    },
+    "enviado": "2026-11-12T18:51",
+    "mensaje_id": 427
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-1",
+    "fecha": "2026-11-12T18:51",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Bélgica marca (Turquía no deja la portería a 0)\n\n📈 Cuota @1,11",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-tip-1",
+    "requiere_ok": true
   }
 ]
