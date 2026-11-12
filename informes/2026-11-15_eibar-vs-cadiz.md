@@ -1,7 +1,7 @@
 # Eibar – Cadiz
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 14:15_

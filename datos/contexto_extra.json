@@ -16,7 +16,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 28.6,
+   "viento_kmh": 28.1,
    "temperatura": 20.4
   }
  },
@@ -37,7 +37,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.0,
+   "viento_kmh": 8.3,
    "temperatura": 4.0
   }
  },
@@ -84,8 +84,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
-   "temperatura": 7.4
+   "viento_kmh": 7.9,
+   "temperatura": 6.9
   }
  },
  "1528960": {
@@ -104,8 +104,8 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 4.8,
-   "viento_kmh": 9.0,
+   "lluvia_mm": 4.3,
+   "viento_kmh": 8.9,
    "temperatura": 11.9
   }
  },
@@ -126,8 +126,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.2,
-   "temperatura": 5.9
+   "viento_kmh": 13.7,
+   "temperatura": 5.7
   }
  },
  "1608368": {
@@ -326,9 +326,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.4,
-   "viento_kmh": 10.1,
-   "temperatura": 6.0
+   "lluvia_mm": 0.3,
+   "viento_kmh": 11.2,
+   "temperatura": 6.4
   },
   "arbitro": {
    "nombre": "Nikola Dabanovic",
@@ -351,11 +351,7 @@
    "dias_hasta": 3,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 13.0,
-   "temperatura": 6.5
-  }
+  "tiempo": null
  },
  "1528970": {
   "local": {

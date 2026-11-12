@@ -1,7 +1,7 @@
 # Slovakia – Faroe Islands
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Kosicka futbalova arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 08:27._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 09:15._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 08:26_
