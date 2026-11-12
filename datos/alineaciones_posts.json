@@ -230,10 +230,13 @@
   "clave|2026-11-10-combi-multi|1644336|Total - Away|Over 3.5|Toni Martínez",
   "clave|2026-11-10-ganadores-win|1644336|Match Winner|Away|Pablo Ibáñez",
   "clave|2026-11-10-ganadores-win|1644336|Match Winner|Away|Toni Martínez",
+  "clave|2026-11-12-combi-tip-2|1644363|Match Winner|Away|Isco",
+  "clave|2026-11-12-ganadores-copa|1644363|Match Winner|Away|Isco",
   "clave|2026-11-12-ganadores-copa|1644370|Match Winner|Away|Antonio Pacheco",
   "clave|2026-11-12-ganadores-copa|1644370|Match Winner|Away|Víctor Valverde",
   "clave|2026-11-12-pick-seguro|1644370|Match Winner|Away|Antonio Pacheco",
   "clave|2026-11-12-pick-seguro|1644370|Match Winner|Away|Víctor Valverde",
+  "clave|2026-11-12-pick-th-2|1644363|Total - Away|Over 2.5|Isco",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -1861,16 +1864,156 @@
    }
   },
   "1644379": {
-   "hora": "2026-11-12T18:20:53.584798+01:00",
+   "hora": "2026-11-12T18:31:36.772663+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644363": {
-   "hora": "2026-11-12T18:20:53.584798+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-12T18:31:36.772663+01:00",
+   "xi": [
+    "Álvaro Calado",
+    "Richi",
+    "Aitor Larrañaga",
+    "Roberto Esteban",
+    "Victor Rodriguez",
+    "Aarón Fernández",
+    "Jesús Cruz",
+    "Peque",
+    "Álvaro Marcos",
+    "Varo",
+    "Rober",
+    "Diego Conde",
+    "Héctor Bellerín",
+    "Diego Llorente",
+    "Valentín Gómez",
+    "Junior Firpo",
+    "Pablo Fornals",
+    "Dani Ceballos",
+    "Antony",
+    "Giovani Lo Celso",
+    "Rodrigo Riquelme",
+    "Aitor Ruibal"
+   ],
+   "banquillo": [
+    "Álvaro  Rios",
+    "Luis Jimeno",
+    "Eneko Azurmendi",
+    "Pablo Agustín Bargallo",
+    "Asier Ortiz",
+    "Álvaro Domínguez",
+    "Mario Jiménez",
+    "Denis Corceovei",
+    "Kensley Vázquez",
+    "Mario Sánchez",
+    "Javier Álvarez",
+    "Javier Diz",
+    "Alejandro Postigo",
+    "Yan Zhuravskiy",
+    "Natan",
+    "Fran García",
+    "Marc Bartra",
+    "Ivan Corralejo",
+    "Rica Fúnez",
+    "Isco",
+    "Borja Alonso",
+    "Íker Losada",
+    "Rodrigo Marina"
+   ],
+   "equipos": {
+    "5271": [
+     {
+      "n": "Álvaro Calado",
+      "pos": "G"
+     },
+     {
+      "n": "Richi",
+      "pos": "D"
+     },
+     {
+      "n": "Aitor Larrañaga",
+      "pos": "D"
+     },
+     {
+      "n": "Roberto Esteban",
+      "pos": "D"
+     },
+     {
+      "n": "Victor Rodriguez",
+      "pos": "M"
+     },
+     {
+      "n": "Aarón Fernández",
+      "pos": "M"
+     },
+     {
+      "n": "Jesús Cruz",
+      "pos": "M"
+     },
+     {
+      "n": "Peque",
+      "pos": "M"
+     },
+     {
+      "n": "Álvaro Marcos",
+      "pos": "M"
+     },
+     {
+      "n": "Varo",
+      "pos": "F"
+     },
+     {
+      "n": "Rober",
+      "pos": "F"
+     }
+    ],
+    "543": [
+     {
+      "n": "Diego Conde",
+      "pos": "G"
+     },
+     {
+      "n": "Héctor Bellerín",
+      "pos": "D"
+     },
+     {
+      "n": "Diego Llorente",
+      "pos": "D"
+     },
+     {
+      "n": "Valentín Gómez",
+      "pos": "D"
+     },
+     {
+      "n": "Junior Firpo",
+      "pos": "D"
+     },
+     {
+      "n": "Pablo Fornals",
+      "pos": "M"
+     },
+     {
+      "n": "Dani Ceballos",
+      "pos": "M"
+     },
+     {
+      "n": "Antony",
+      "pos": "M"
+     },
+     {
+      "n": "Giovani Lo Celso",
+      "pos": "M"
+     },
+     {
+      "n": "Rodrigo Riquelme",
+      "pos": "M"
+     },
+     {
+      "n": "Aitor Ruibal",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
