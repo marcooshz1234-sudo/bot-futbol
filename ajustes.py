@@ -42,6 +42,7 @@ AJUSTES_ROLES = {
     "cazador_cuota_min": {"rol": "cazador", "t": "Cuota mínima", "d": "Por debajo nadie la quiere aunque sea buena", "tipo": "num", "v": 1.4, "paso": 0.05, "min": 1.25, "max": 3},
     "aviso_guardar": {"rol": "vigilante", "t": "Avisarme si el bot no guarda", "tipo": "si_no", "v": True},
     "aviso_vigilante": {"rol": "vigilante", "t": "Avisarme de los fallos que vea", "d": "Posts sin salir, fotos, textos rotos, repetidos…", "tipo": "si_no", "v": True},
+    "informe_manana": {"rol": "vigilante", "t": "Revisión de la mañana (9:00)", "d": "Choques, aplazados, bajas en prensa, cuotas movidas y textos", "tipo": "si_no", "v": True},
 }
 
 

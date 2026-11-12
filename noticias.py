@@ -27,8 +27,12 @@ from bot import DATOS, MADRID, RAIZ, leer
 SALIDA = DATOS / "noticias.json"
 AVISADAS = DATOS / "noticias_avisadas.json"
 TIPOS = {   # tipo → palabras (en minúsculas y sin tildes); \b para no pillar «devuelve» como «vuelve»
-    "baja": r"\blesion|\blesionad|\bbaja\b|\bbajas\b|no viaja|\bdescartad|\bsancionad|fuera de la convocatoria|no convocad|se pierde|roja directa|\boperad|\brotura",
-    "duda": r"\bduda\b|en duda|entre algodones|no esta al 100|\bmolestias|\btocado\b",
+    "baja": r"\blesion|\blesionad|\bbaja\b|\bbajas\b|no viaja|\bdescartad|\bsancionad|fuera de la convocatoria|no convocad|se pierde|roja directa|\boperad|\brotura"
+            # 12/11: la prensa inglesa/internacional («Mbappé out against Italy», «Van Dijk withdraws») no se veía
+            r"|ruled out|\bout (against|of|for)\b|\bwithdraw|pulls? out|pulled out|\binjur|will miss|to miss\b|\bmisses\b"
+            r"|sidelined|\bsuspended\b|\bno se entrena|\bno entrena|se borra|abandona la concentracion|deja la concentracion",
+    "duda": r"\bduda\b|en duda|entre algodones|no esta al 100|\bmolestias|\btocado\b|\bdoubt|fitness (concern|test)|\bknock\b"
+            r"|todas las alarmas",
     "vuelve": r"\bvuelve a (jugar|entrenar|la convocatoria|estar)|\brecupera a|alta medica|\breaparece|ya entrena",
     "rotaciones": r"\brotacion|\bsuplentes\b|once alternativo|\bjuveniles\b|\bcanteranos\b|dosificar|reservar a",
     "portero": r"\bportero\b|\bguardameta\b|bajo palos",
@@ -49,8 +53,10 @@ def norm(s):
 
 
 def buscar(q):
+    """q: un nombre o varios (12/11: «Netherlands» y «Países Bajos» en la misma búsqueda, sin pedir más veces)."""
+    nombres = [q] if isinstance(q, str) else list(dict.fromkeys(q))
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
-        {"q": f'"{q}" fútbol when:2d', "hl": "es", "gl": "ES", "ceid": "ES:es"})
+        {"q": "(" + " OR ".join(f'"{n}"' for n in nombres) + ") fútbol when:2d", "hl": "es", "gl": "ES", "ceid": "ES:es"})
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "combilocas-bot"}), timeout=30) as r:
             raiz = ET.fromstring(r.read())
@@ -137,7 +143,9 @@ def main(forzar=False):
         fid = str(pa["fixture"]["id"])
         lista = []
         for eq in (pa["teams"]["home"]["name"], pa["teams"]["away"]["name"]):
-            for n in buscar(corto(eq)):
+            from plantillas import es
+            nombres = [corto(eq), es(eq)]
+            for n in (buscar(nombres) if nombres[0] != nombres[1] else []) or buscar(corto(eq)):   # si el «OR» no da nada, como antes
                 n["equipo"], n["tipos"] = eq, tipos(n["titulo"])
                 if not any(x["titulo"] == n["titulo"] for x in lista):
                     lista.append(n)

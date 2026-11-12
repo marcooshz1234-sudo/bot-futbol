@@ -15,6 +15,10 @@ Lo que mira (cada cosa es un fallo que ya pasó alguna vez):
   8. cuotas        — post con «sel» y sin «cuotas» (la app no lo corrige ni salen sus verdes)
   9. bucle         — un paso del bucle que falla 3+ veces en la última hora
  10. escalera      — a las 12:00 no hay escalera de hoy
+ 14. prensa        — baja o duda en los periódicos de un partido con posts pendientes (la API no da las de
+                     selecciones: Mbappé, Van Dijk, Xhaka el 12/11); ⭐ si es una estrella y el post va a su favor
+ 15. cuota movida  — la cuota de una pata se ha movido un 15 % o más desde que se hizo el post
+ Y a las 9:00 manda la revisión de la mañana (revision.informe).
 """
 import json
 import re
@@ -31,6 +35,7 @@ RESTOS = re.compile(r"\bNone\b|\bnan\b|\{[a-z_]+\}|\bundefined\b|@0,00\b")
 CADUCAN_META = "2026-12-21"   # cambiar cuando Marcos las renueve (y en comprobar_redes.py)
 AVISO_CLAVES = ("2026-12-01", "2026-12-15", "2026-12-19", "2026-12-20")
 NO_CUENTAN = ("ganadores", "lista-europa", "verde", "rojo", "balance", "logo")
+BOTONES = {}   # clave del aviso → id del post (sale con botón «❌ Cancelar»)
 
 
 def todos():
@@ -153,6 +158,18 @@ def revisar(ahora=None):
         # 8. sin cuotas
         if p.get("sel") and len(p.get("cuotas") or []) != len(p["sel"]):
             out.append((f"cuotas-{p['id']}", f"📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): {cab}"))
+        # 15. cuota que se ha movido mucho (suele haber una noticia: baja, once, lluvia…)
+        if t < ahora + timedelta(hours=36):
+            try:
+                import revision
+                for sel_, antes, ya, cambio in revision.cuotas_movidas(p):
+                    clave = f"cuotamov-{p['id']}-{sel_}"
+                    BOTONES[clave] = p["id"]
+                    out.append((clave, f"📉 {revision.nombre_partido(sel_.split('|')[0])} {sel_.split('|', 2)[2]}: la cuota "
+                                f"ha pasado de {antes:.2f} a {ya:.2f} ({cambio:+.0%}) desde que se hizo «{cab}» "
+                                f"({p['fecha'][11:16]}). Suele haber una noticia detrás"))
+            except Exception as e:
+                print("vigilante (cuotas):", e)
 
     # 6. repetidos en el día
     for dia in (hoy, (ahora + timedelta(days=1)).strftime("%Y-%m-%d")):
@@ -176,6 +193,38 @@ def revisar(ahora=None):
                     out.append((f"choca-{dia}-{s}-{otra}",
                                 f"⚔️ {dia[8:]}/{dia[5:7]}: se contradicen ({', '.join(donde[s])}: {s.split('|', 1)[1]} "
                                 f"↔ {', '.join(donde[otra])}: {otra.split('|', 1)[1]})"))
+
+    # 14. bajas y dudas en prensa de los partidos con posts pendientes (36 h)
+    try:
+        import hashlib
+        import revision
+        espera = lambda p: vivo(p, control) or (p.get("requiere_ok") and p["id"] not in (control.get("cancelados") or [])
+                                                 and not p.get("caducada"))   # también los que esperan tu OK o cuota
+        pend = [p for p in posts if espera(p) and not publicado(p) and cuando(p)
+                and ahora <= cuando(p) <= ahora + timedelta(hours=36) and not p.get("verde_de")]
+        por_fid = defaultdict(list)
+        for p in pend:
+            for s in p.get("sel") or []:
+                if str(s).count("|") == 2 and p not in por_fid[str(s).split("|")[0]]:
+                    por_fid[str(s).split("|")[0]].append(p)
+        for fid, ps in por_fid.items():
+            nombre = revision.nombre_partido(fid)
+            for b in revision.bajas_partido(fid):
+                h = hashlib.sha1(b["titulo"].encode()).hexdigest()[:8]
+                a_favor = [p for p in ps if b["lado"] and any(revision.favorece(s, b["lado"]) for s in p.get("sel") or []
+                                                               if str(s).startswith(f"{fid}|"))]
+                if b["estrella"] and b["tipo"] == "baja" and a_favor:
+                    for p in a_favor:
+                        clave = f"estrella-{p['id']}-{h}"
+                        BOTONES[clave] = p["id"]
+                        out.append((clave, f"⭐ {nombre}: «{b['titulo'][:110]}» ({b['fuente']}). "
+                                    f"«{(p.get('texto') or '').strip().splitlines()[0][:50]}» ({p['fecha'][11:16]}) va a "
+                                    "favor de ese equipo: te propongo quitarlo"))
+                else:
+                    out.append((f"prensa-{fid}-{h}", f"📰 {nombre}: «{b['titulo'][:110]}» ({b['fuente']}) · "
+                                f"tenemos {len(ps)} post(s) de este partido: {', '.join(p['id'][11:] for p in ps)}"))
+    except Exception as e:
+        print("vigilante (prensa):", e)
 
     # 9. pasos del bucle que fallan
     log = DATOS / "bucle_log.txt"
@@ -237,7 +286,7 @@ def main(ahora=None, avisar=True):
     for k, _ in nuevos:
         vistos[k] = ahora.strftime("%Y-%m-%dT%H:%M")
     limite = (ahora - timedelta(days=3)).strftime("%Y-%m-%dT%H:%M")
-    est = {"vistos": {k: v for k, v in vistos.items() if v >= limite},
+    est = {"informe": est.get("informe"), "vistos": {k: v for k, v in vistos.items() if v >= limite},
            "abiertos": [{"clave": k, "t": t} for k, t in problemas],
            "revisado": ahora.strftime("%Y-%m-%dT%H:%M"),
            "historial": ([{"hora": ahora.strftime("%Y-%m-%dT%H:%M"), "t": t} for _, t in nuevos]
@@ -250,12 +299,43 @@ def main(ahora=None, avisar=True):
         try:
             from ajustes import valor
             if valor("aviso_vigilante", control=leer(PUB / "control.json", {}) or {}):
-                from alineaciones_posts import dm
-                dm("🛠️ Vigilante: he visto esto\n\n" + "\n".join(f"• {t}" for _, t in nuevos[:12])
-                   + (f"\n…y {len(nuevos) - 12} más" if len(nuevos) > 12 else "") + "\n\nClaude lo revisa en su próxima pasada.")
+                quitar = list(dict.fromkeys(BOTONES[k] for k, _ in nuevos[:12] if k in BOTONES))
+                dm_botones("🛠️ Vigilante: he visto esto\n\n" + "\n".join(f"• {t}" for _, t in nuevos[:12])
+                           + (f"\n…y {len(nuevos) - 12} más" if len(nuevos) > 12 else "")
+                           + ("\n\nSi quieres quitar alguno, toca su botón." if quitar else
+                              "\n\nClaude lo revisa en su próxima pasada."),
+                           [[(f"❌ Cancelar {pid[11:]}", f"cancelar|{pid}")] for pid in quitar[:6]])
         except Exception as e:
             print("vigilante (aviso):", e)
+    # 12/11 (Marcos): revisión de la mañana a las 9:00, una vez al día
+    hoy = ahora.strftime("%Y-%m-%d")
+    if avisar and 9 <= ahora.hour < 12 and est.get("informe") != hoy:
+        try:
+            from ajustes import valor
+            if valor("informe_manana", control=leer(PUB / "control.json", {}) or {}):
+                import revision
+                dm_botones(revision.informe(ahora), [])
+            est["informe"] = hoy
+            ESTADO.write_text(json.dumps(est, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        except Exception as e:
+            print("vigilante (informe):", e)
     return nuevos
+
+
+def dm_botones(texto, botones):
+    """Mensaje al privado de Marcos, con botones de la conversación con el bot (asistente.py los atiende)."""
+    import os
+    print(texto)
+    token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
+    if not (token and canal):
+        return
+    from publicar_telegram import api
+    admins = api(token, "getChatAdministrators", {"chat_id": canal})["result"]
+    duenio = next(a["user"]["id"] for a in admins if a["status"] == "creator")
+    datos = {"chat_id": duenio, "text": texto[:3900], "link_preview_options": {"is_disabled": True}}
+    if botones:
+        datos["reply_markup"] = {"inline_keyboard": [[{"text": t, "callback_data": c[:64]} for t, c in fila] for fila in botones]}
+    api(token, "sendMessage", datos)
 
 
 if __name__ == "__main__":

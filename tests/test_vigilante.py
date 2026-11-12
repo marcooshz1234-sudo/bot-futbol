@@ -120,7 +120,7 @@ class TestVigilante(unittest.TestCase):
             avisos = []
             with mock.patch.object(vigilante, "ESTADO", est), \
                     mock.patch.object(vigilante, "revisar", lambda a: [("x-1", "fallo")]), \
-                    mock.patch("alineaciones_posts.dm", avisos.append):
+                    mock.patch.object(vigilante, "dm_botones", lambda t, b: avisos.append(t)):
                 vigilante.main(AHORA)
                 vigilante.main(AHORA)
             self.assertEqual(len(avisos), 1)

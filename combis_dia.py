@@ -1029,6 +1029,16 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         # 29/10 (Marcos): si ya hay otra combi de ese partido puesta a mano (p. ej. la del Everton de las 00:05),
         # la del bot sale diferente: sin repetir ninguna de sus selecciones
         pool = [p for p in pool if f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" not in otras]
+        # 12/11 (Marcos: «jugadores que no jueguen, lesionados…»): si la prensa da de baja a una estrella de un
+        # equipo (Mbappé con Francia), nada a favor de ese equipo en las combis nuevas
+        try:
+            import revision
+            sin = revision.lados_sin_estrella(pa["fixture"]["id"])
+            if sin:
+                pool = [p for p in pool if not any(revision.favorece(
+                    f"{p['partido_id']}|{p['mercado']}|{p['opcion']}", lado) for lado in sin)]
+        except Exception as e:
+            print("revision (estrellas):", e)
         if pool:
             pools.append(pool)
     # 1) combi de cada partido: grandes primero
