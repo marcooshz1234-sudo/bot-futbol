@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 10:58",
+ "actualizado": "2026-11-12 11:08",
  "redes": {
   "instagram": {
    "seguidores": 39,
@@ -58,9 +58,9 @@
  "total_hoy": 34,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "12:00",
   "dia": "2026-11-12",
-  "titulo": "Reto escalera · día 3/7"
+  "titulo": "Os dejo la combi del turquía – bélgica"
  },
  "ayer": null,
  "escalera": {
@@ -195,6 +195,11 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 13,
    "likes_media": 0.0,
@@ -205,13 +210,8 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Escalera (reel)": {
-   "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Combi loca (reel)": {
-   "posts": 33,
+   "posts": 32,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
