@@ -210,7 +210,10 @@ def revisar(ahora=None):
         for fid, ps in por_fid.items():
             nombre = revision.nombre_partido(fid)
             for b in revision.bajas_partido(fid):
-                h = hashlib.sha1(b["titulo"].encode()).hexdigest()[:8]
+                # un aviso por jugador (Mbappé salía en 4 titulares), o por titular si no se sabe quién es
+                h = re.sub(r"\W+", "", b["jugador"]) if b.get("jugador") else hashlib.sha1(b["titulo"].encode()).hexdigest()[:8]
+                if any(k.endswith(f"-{h}") and k.startswith(("estrella-", f"prensa-{fid}-")) for k, _ in out):
+                    continue
                 a_favor = [p for p in ps if b["lado"] and any(revision.favorece(s, b["lado"]) for s in p.get("sel") or []
                                                                if str(s).startswith(f"{fid}|"))]
                 if b["estrella"] and b["tipo"] == "baja" and a_favor:

@@ -30,8 +30,10 @@ TIPOS = {   # tipo → palabras (en minúsculas y sin tildes); \b para no pillar
     "baja": r"\blesion|\blesionad|\bbaja\b|\bbajas\b|no viaja|\bdescartad|\bsancionad|fuera de la convocatoria|no convocad|se pierde|roja directa|\boperad|\brotura"
             # 12/11: la prensa inglesa/internacional («Mbappé out against Italy», «Van Dijk withdraws») no se veía
             r"|ruled out|\bout (against|of|for)\b|\bwithdraw|pulls? out|pulled out|\binjur|will miss|to miss\b|\bmisses\b"
-            r"|sidelined|\bsuspended\b|\bno se entrena|\bno entrena|se borra|abandona la concentracion|deja la concentracion",
-    "duda": r"\bduda\b|en duda|entre algodones|no esta al 100|\bmolestias|\btocado\b|\bdoubt|fitness (concern|test)|\bknock\b"
+            r"|sidelined|\bsuspended\b|\bno se entrena|\bno entrena|se borra|abandona la concentracion|deja la concentracion"
+            # 12/11 (Mbappé): «Zidane descarta a Mbappé», «se perderá el duelo», «no podrá jugar», «descansará»
+            r"|\bdescarta\b|se perdera|no podra jugar|no jugara|\bdescansara\b|\bsera baja\b",
+    "duda": r"\bduda\b|en duda|entre algodones|no esta al 100|\bmolestias?\b|\btocado\b|\bdoubt|fitness (concern|test)|\bknock\b"
             r"|todas las alarmas",
     "vuelve": r"\bvuelve a (jugar|entrenar|la convocatoria|estar)|\brecupera a|alta medica|\breaparece|ya entrena",
     "rotaciones": r"\brotacion|\bsuplentes\b|once alternativo|\bjuveniles\b|\bcanteranos\b|dosificar|reservar a",
@@ -46,6 +48,8 @@ TIPOS = {   # tipo → palabras (en minúsculas y sin tildes); \b para no pillar
     "cansancio": r"convocatoria de la seleccion|\binternacionales\b|\bjet lag|tres partidos en|\bpalizon|\bcansancio",
 }
 HACE = timedelta(hours=36)
+RUIDO = (r"\bpronostico|\bcuotas\b|\bapuestas?\b|\bmomios\b|donde ver|\ben vivo\b|\ben directo\b|\bhorario|"
+         r"resultados en vivo|\bstandings\b|\bestadisticas, resultados|agenda de la tv|partidos de hoy|como ver")
 
 
 def norm(s):
@@ -142,16 +146,26 @@ def main(forzar=False):
     for pa in partidos_proximos():
         fid = str(pa["fixture"]["id"])
         lista = []
+        por_equipo = {}
         for eq in (pa["teams"]["home"]["name"], pa["teams"]["away"]["name"]):
             from plantillas import es
             nombres = [corto(eq), es(eq)]
             for n in (buscar(nombres) if nombres[0] != nombres[1] else []) or buscar(corto(eq)):   # si el «OR» no da nada, como antes
                 n["equipo"], n["tipos"] = eq, tipos(n["titulo"])
-                if not any(x["titulo"] == n["titulo"] for x in lista):
+                if not any(x["titulo"] == n["titulo"] for x in lista) and not re.search(RUIDO, norm(n["titulo"])):
                     lista.append(n)
+                    por_equipo[eq] = por_equipo.get(eq, 0) + 1
             time.sleep(1)
-        lista.sort(key=lambda n: n["fecha"], reverse=True)
-        datos[fid] = lista[:15]
+        # 12/11: antes se guardaban las 15 más nuevas de los dos equipos juntos y las previas de apuestas y «dónde
+        # verlo» tapaban «Zidane descarta a Mbappé». Ahora fuera ese ruido, primero las que dicen algo (baja,
+        # duda…) y hasta 12 por equipo
+        lista.sort(key=lambda n: (bool(n["tipos"]), n["fecha"]), reverse=True)
+        cuenta, guardar = {}, []
+        for n in lista:
+            if cuenta.get(n["equipo"], 0) < 12:
+                cuenta[n["equipo"]] = cuenta.get(n["equipo"], 0) + 1
+                guardar.append(n)
+        datos[fid] = guardar
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"Noticias: {sum(len(v) for v in datos.values())} de {len(datos)} partidos")
     # avisos: jugadores de posts preparados con noticia de baja o duda

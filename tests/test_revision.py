@@ -26,7 +26,8 @@ class TestRevision(unittest.TestCase):
         self.enterContext(mock.patch.object(R, "DATOS", p))
 
     def test_rival_no_cuenta_como_lado(self):
-        self.assertIsNone(R.lado_de("Mbappé out against Italy", PARTIDO))
+        self.assertEqual(R.lado_de("Mbappé out against Italy", PARTIDO), "away")   # solo el rival → es del otro
+        self.assertEqual(R.lado_de("Mbappé se perderá el duelo ante Italia", PARTIDO), "away")
         self.assertEqual(R.lado_de("Alarmas en Francia: Mbappé no se entrena", PARTIDO), "away")
         self.assertIsNone(R.lado_de("Italia y Francia, sin dudas", PARTIDO))
 
@@ -47,6 +48,18 @@ class TestRevision(unittest.TestCase):
         self.assertTrue(b[0]["estrella"])
         self.assertEqual(b[0]["lado"], "away")
         self.assertEqual(R.lados_sin_estrella(7), {"away"})
+
+    def test_mismo_jugador_hereda_equipo(self):
+        self.datos([{"titulo": "Zidane descarta a Mbappé por precaución", "fuente": "X"},
+                    {"titulo": "Alarmas en Francia: Mbappé no se entrena", "fuente": "Y"}])
+        self.assertEqual({b["lado"] for b in R.bajas_partido(7)}, {"away"})
+
+    def test_titulares_de_mbappe(self):   # 12/11: estos no los entendía el bot
+        import noticias
+        for t in ("Zidane descarta a Mbappé para el duelo ante Italia", "Mbappé se perderá el duelo ante Italia",
+                  "Zidane Confirma Que Mbappé No Podrá Jugar Contra Italia"):
+            self.assertIn("baja", noticias.tipos(t), t)
+        self.assertRegex(noticias.norm("Italia vs Francia: Momios y pronóstico"), noticias.RUIDO)
 
     def test_prensa_inglesa(self):
         self.datos([{"titulo": "Virgil van Dijk Withdraws From France Squad", "fuente": "X"}])

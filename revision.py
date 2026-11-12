@@ -45,15 +45,19 @@ def nombres_equipo(nombre):
 
 
 def lado_de(titulo, partido):
-    """'home'/'away' si el titular habla de UN equipo (no cuenta el rival en «ante Italia», «against Italy»)."""
+    """'home'/'away' del equipo del que habla el titular. «Alarmas en Francia: Mbappé…» → Francia. El rival no cuenta,
+    y si SOLO se nombra al rival («Mbappé se perderá el duelo ante Italia») es del otro equipo."""
     t = norm(titulo)
-    lados = set()
+    lados, rivales = set(), set()
     for lado in ("home", "away"):
         for n in nombres_equipo(partido["teams"][lado]["name"]):
             for m in re.finditer(rf"\b{re.escape(n)}\b", t):
-                if not re.search(CONTRA, t[max(0, m.start() - 14):m.start()]):
-                    lados.add(lado)
-    return lados.pop() if len(lados) == 1 else None
+                (rivales if re.search(CONTRA, t[max(0, m.start() - 14):m.start()]) else lados).add(lado)
+    if len(lados) == 1:
+        return lados.pop()
+    if not lados and len(rivales) == 1:
+        return "away" if rivales.pop() == "home" else "home"
+    return None
 
 
 def favorece(sel, lado):
@@ -89,6 +93,11 @@ def bajas_partido(fid):
         out.append({"titulo": n["titulo"], "fuente": n.get("fuente", ""), "link": n.get("link"),
                     "tipo": "baja" if "baja" in tipos else "duda", "lado": lado_de(n["titulo"], pa),
                     "estrella": estrella, "jugador": jugador})
+    # el mismo jugador en otro titular con su equipo claro («Mbappé out against Italy» ← «alarmas en Francia: Mbappé»)
+    sabido = {b["jugador"]: b["lado"] for b in out if b["jugador"] and b["lado"]}
+    for b in out:
+        if not b["lado"] and b["jugador"] in sabido:
+            b["lado"] = sabido[b["jugador"]]
     return out
 
 
