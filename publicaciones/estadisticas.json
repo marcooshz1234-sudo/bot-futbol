@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 22:44",
+ "actualizado": "2026-11-12 22:55",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2691,
-   "hoy": 47,
+   "seguidores": 2693,
+   "hoy": 49,
    "serie": [
     2004,
     2126,
@@ -24,7 +24,7 @@
     2359,
     2593,
     2644,
-    2691
+    2693
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 387,
-   "hoy": 3,
+   "seguidores": 388,
+   "hoy": 4,
    "serie": [
     294,
     307,
@@ -50,17 +50,17 @@
     360,
     378,
     384,
-    387
+    388
    ]
   }
  },
- "total": 3119,
- "total_hoy": 53,
+ "total": 3122,
+ "total_hoy": 56,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "22:49",
-  "dia": "2026-11-12",
-  "titulo": "Para dentro señores"
+  "hora": "00:00",
+  "dia": "2026-11-13",
+  "titulo": "Nations league - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -189,12 +189,17 @@
   },
   "2026-11-12": {
    "instagram": 40,
-   "threads": 2691,
+   "threads": 2693,
    "facebook": 1,
-   "telegram": 387
+   "telegram": 388
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 25,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Verdes/balance": {
    "posts": 1,
    "likes_media": 0.0,
@@ -205,13 +210,8 @@
    "likes_media": 1.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 24,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Combi loca (reel)": {
-   "posts": 23,
+   "posts": 22,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
