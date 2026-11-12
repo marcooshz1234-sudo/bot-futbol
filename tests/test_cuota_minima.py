@@ -68,8 +68,18 @@ class TestCopiarTipsters(unittest.TestCase):
     def test_suelto_bajo_no_se_sube(self):
         self.assertEqual(self.correr([self.pk(1, 1.11)]), [])
 
+    def test_tres_bajos_una_combi(self):   # «si son pocas cosas o picks bajos, que los combines»
+        r = self.correr([self.pk(1, 1.22), self.pk(2, 1.25), self.pk(3, 1.30)])
+        self.assertEqual(len(r), 1)
+        self.assertEqual(len(r[0]["sel"]), 3)
+
+    def test_dos_bajos_esperan_si_queda_tiempo(self):   # partido a 6 h: espera por si llega un tercero
+        self.assertEqual(self.correr([self.pk(1, 1.22), self.pk(2, 1.25)]), [])
+
     def test_dos_bajos_se_juntan(self):
-        r = self.correr([self.pk(1, 1.22), self.pk(2, 1.20)])
+        import copiar_tipsters as CT
+        with mock.patch.object(CT, "ESPERA_PAREJA", timedelta(hours=8)):   # ya queda poco para el partido
+            r = self.correr([self.pk(1, 1.22), self.pk(2, 1.20)])
         self.assertEqual(len(r), 1)
         self.assertIn("combi-tip", r[0]["id"])
 

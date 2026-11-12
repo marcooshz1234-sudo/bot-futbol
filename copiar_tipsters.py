@@ -20,7 +20,8 @@ COPIAR = ("TipsAnalistas", "Tipster Pérez", "PABLO ANALISTA")   # los primeros;
 # la mayoría los aciertan»): se copian los de TODOS los canales que seguimos, menos los de baloncesto y tenis
 NO_FUTBOL = re.compile(r"nba|basquet|basket|tenis|tennis", re.I)
 CUOTA_SOLA = 1.35   # por debajo, un pick suelto NUNCA sale solo (Marcos 12/11: «¿quién va a coger eso?»): se junta
-#                    con otro en una combi («o combina dos») que llegue a 1,35; si no tiene pareja, no se sube
+#                    con otros en una combi que llegue a 1,35; si no tiene con quién, no se sube
+ESPERA_PAREJA = timedelta(hours=3)   # los bajos esperan a juntarse hasta 3 h antes del primer partido
 
 
 def es_de_futbol(tipster):
@@ -228,23 +229,28 @@ def main(ahora=None):
         ids.add(f"{base}-{n}")
         return n
     from plantillas import choca
-    # 12/11 («o a lo mejor combina dos»): los de cuota baja (Bélgica marca @1,11) se juntan de 2 en 2, de partidos
-    # distintos y sin chocar; si a 3 h del partido no tienen pareja, salen solos
+    # 12/11 (Marcos: «si ves que son pocas cosas o picks bajos, que los combines; si no, los subes como ellos»):
+    # los de cuota baja (< 1,35) se juntan en UNA combi de partidos distintos y sin chocar (hasta 4 patas). Se espera
+    # a tener 3, o a que falten menos de 3 h para el primero; entonces se juntan los que haya (mínimo 2 y @1,35)
     bajos = sorted([x for x in sueltos if x.get("cuota") and float(x["cuota"]) < CUOTA_SOLA and sel_de(x)],
                    key=lambda x: x["_ini"])
     usados = set()
-    for i, a_ in enumerate(bajos):
-        if id(a_) in usados:
-            continue
-        b_ = next((b for b in bajos[i + 1:] if id(b) not in usados and b["dia"] == a_["dia"]
-                   and b["partido_id"] != a_["partido_id"] and not choca(sel_de(b), [sel_de(a_)])
-                   and float(a_["cuota"]) * float(b["cuota"]) >= CUOTA_SOLA), None)
-        if b_:
-            usados |= {id(a_), id(b_)}
-            nuevos.append(post_combi([a_, b_], ahora, siguiente(f"{a_['dia']}-combi-tip")))
-            hechos.update({clave(a_), clave(b_)})
-            for x in (a_, b_):
-                usos[x["dia"]][sel_de(x)] += 1
+    for dia_ in sorted({x["dia"] for x in bajos}):
+        grupo = []
+        for x in (x for x in bajos if x["dia"] == dia_):
+            if len(grupo) < 4 and all(x["partido_id"] != g["partido_id"] for g in grupo) \
+                    and not choca(sel_de(x), [sel_de(g) for g in grupo]):
+                grupo.append(x)
+        tot = 1.0
+        for g in grupo:
+            tot *= float(g["cuota"])
+        listo = len(grupo) >= 3 or (grupo and grupo[0]["_ini"] - ahora <= ESPERA_PAREJA)
+        if len(grupo) >= 2 and tot >= CUOTA_SOLA and listo:
+            usados |= {id(g) for g in grupo}
+            nuevos.append(post_combi(grupo, ahora, siguiente(f"{dia_}-combi-tip")))
+            hechos.update(clave(g) for g in grupo)
+            for g in grupo:
+                usos[dia_][sel_de(g)] += 1
     for x in sueltos:
         if id(x) in usados:
             continue
