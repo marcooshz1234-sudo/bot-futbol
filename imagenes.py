@@ -166,7 +166,7 @@ def ajustar_al_lienzo(pagina, alto):
 
 TARJETA = """<!doctype html><html><head><meta charset="utf-8"><style>
 *{box-sizing:border-box}
-body{margin:0;width:1180px;height:340px;background:radial-gradient(ellipse 55% 90% at 50% 50%,rgba(126,240,58,.28),rgba(126,240,58,0) 70%),radial-gradient(ellipse 40% 60% at 50% 120%,rgba(242,201,76,.25),rgba(0,0,0,0) 70%),linear-gradient(100deg,#0a1440 0%,#13205a 45%,#0a1440 100%);
+body{margin:0;width:1180px;height:340px;background:linear-gradient(90deg,rgba(6,12,40,.88),rgba(10,20,64,.55) 50%,rgba(6,12,40,.88)),url({fondo_estadio}) center 40%/cover;
 font-family:'Liberation Sans','DejaVu Sans',sans-serif;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 52px}
 .estrella{width:62px;height:62px;flex:none;margin-top:-90px}
 .eq{display:flex;flex-direction:column;align-items:center;gap:22px;width:300px;margin:0 20px}
@@ -206,8 +206,8 @@ def tarjeta(p, pagina):
     """27/10: foto del partido para las combis de un solo partido (escudos, hora y día), como las que
     mejor funcionaron en Threads. → publicaciones/media/{id}.tarjeta.jpg
     11/11 (Marcos): las de UN partido se quedan SIEMPRE con este formato de antes, no se cambia.
-    12/11 (Marcos: «ponle un color de fondo más guapo, ese está simple y feo» → eligió la A): fondo azul de la marca
-    con brillo verde neón en el centro; el resto igual."""
+    12/11 (Marcos: «ponle un color de fondo más guapo, ese está simple y feo» → eligió la B): la foto del estadio
+    de la marca oscurecida en azul; el resto igual."""
     import html
     t = p["tarjeta"]
     ini = datetime.fromisoformat(t["fecha"])
@@ -215,6 +215,9 @@ def tarjeta(p, pagina):
     dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
     dia = "Hoy" if ini.date() == hoy.date() else "Mañana" if (ini.date() - hoy.date()).days == 1 else dias[ini.weekday()]
     doc = TARJETA
+    fondo = MEDIA / "marca" / "fondo_estadio.jpg"   # 12/11 (Marcos: opción B)
+    doc = doc.replace("{fondo_estadio}", f"data:image/jpeg;base64,{base64.b64encode(fondo.read_bytes()).decode()}"
+                      if fondo.exists() else "")
     import re
     m = re.search(r"(?:Cuota total aprox\.: |Cuota @)(\d+,\d+)", p.get("texto", ""))
     doc = doc.replace("{cuota}", f'<div class="cuota">💥 COMBI DEL PARTIDO · x{m.group(1)}</div>' if m else "")
