@@ -5040,5 +5040,40 @@
     "requiere_ok": true,
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
+  },
+  {
+    "id": "2026-11-12-combi-partido-1528960-th2",
+    "fecha": "2026-11-12T19:50",
+    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Más de 3,5 tarjetas en el partido\n🍀 Italia saca más de 3,5 córners\n\n📈 Cuota @4,89",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528960|Both Teams Score|Yes",
+      "1528960|Cards Over/Under|Over 3.5",
+      "1528960|Home Corners Over/Under|Over 3.5"
+    ],
+    "cuotas": [
+      1.57,
+      1.8,
+      1.73
+    ],
+    "nota": "12/11 Marcos: «la de Francia hay que subirla, hazla de nuevo» · sin nada a favor de Francia (sin Mbappé, Tchouaméni, Dembélé ni Thuram) · falta la cuota real de «Crear apuesta»",
+    "tarjeta": {
+      "local": "Italy",
+      "visitante": "France",
+      "id_l": 768,
+      "id_v": 2,
+      "logo_l": "https://media.api-sports.io/football/teams/768.png",
+      "logo_v": "https://media.api-sports.io/football/teams/2.png",
+      "fecha": "2026-11-12T20:45",
+      "liga": "Nations League"
+    },
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
   }
 ]
