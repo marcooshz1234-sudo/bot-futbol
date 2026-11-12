@@ -5189,5 +5189,17 @@
     "resultado": "verde",
     "verde_de": "2026-11-12-pick-tip-4",
     "requiere_ok": true
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-seguro",
+    "fecha": "2026-11-12T19:12",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Albacete\n\n📈 Cuota @1,53",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-seguro.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-seguro",
+    "requiere_ok": true
   }
 ]
