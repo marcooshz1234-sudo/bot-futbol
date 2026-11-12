@@ -150,8 +150,13 @@
   "texto": "19:10 UTC: bot vivo (tanda en curso). Sin picks nuevos de fútbol: TipsAnalistas solo venta de pago; Pérez solo seguimiento (pata España 1ª mitad, prohibida)."
  },
  {
-  "rol": "ojeador",
-  "hora": "2026-11-12T22:09",
-  "texto": "22:10 Sin picks nuevos de Pérez/TipsAnalistas/Pablo (solo marcadores en directo y publicidad). Bot en marcha."
+  "rol": "analista",
+  "hora": "2026-11-12T22:10",
+  "texto": "13/11 revisado: pick 10:30 Andorra gana alguna parte @1,50 y 18:00 P. Bajos marca 2+ @1,50, ambos SIN razones; escalera día 4 Ambos marcan Salamanca–Celta @1,80 con baja del máximo goleador del Salama"
+ },
+ {
+  "rol": "community",
+  "hora": "2026-11-12T22:10",
+  "texto": "Sin comentarios nuevos de Threads desde el 11/11 (nada que proponer)."
  }
 ]

@@ -514,7 +514,12 @@
    "liga": "Copa del Rey",
    "cuota_bet365": 1.14,
    "prob_cuota": 0.877
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   3
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -563,7 +568,12 @@
   "analisis": {
    "liga": "Copa del Rey",
    "prob_cuota": 0.794
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   3
+  ]
  },
  {
   "tipster": "TipsPro",
@@ -588,7 +598,12 @@
    "liga": "Copa del Rey",
    "cuota_bet365": 1.12,
    "prob_cuota": 0.813
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   2,
+   2
+  ]
  },
  {
   "tipster": "TipsPro",
@@ -911,7 +926,12 @@
    "liga": "UEFA Champions League Women",
    "cuota_bet365": 1.22,
    "prob_cuota": 0.813
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -1029,5 +1049,73 @@
    "cuota_bet365": 1.83,
    "prob_cuota": 0.602
   }
+ },
+ {
+  "tipster": "CRIMINALPICKS",
+  "fuente": "-1002685171001/10994",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Italia",
+  "visitante": "Francia",
+  "texto": "Michael Olise 3+ remates",
+  "mercado": "Player Shots",
+  "opcion": "Olise Over 2.5",
+  "cuota": 2.15,
+  "combinada": "crim-10994",
+  "argumento": [],
+  "por_que": [
+   "Combi de 2 jugadores de Francia (Olise y Doué 3+ remates cada uno) @2,15 sin dar datos; Francia sin Mbappé, así que los extremos cargan con los tiros: tiene lógica, pero 3+ de cada uno es exigente. Solo para aprender (remates de jugador sí están permitidos, pero la cuota de crear apuesta no la tenemos)."
+  ]
+ },
+ {
+  "tipster": "CRIMINALPICKS",
+  "fuente": "-1002685171001/10994",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Italia",
+  "visitante": "Francia",
+  "texto": "Désiré Doué 3+ remates",
+  "mercado": "Player Shots",
+  "opcion": "Doue Over 2.5",
+  "cuota": 2.15,
+  "combinada": "crim-10994",
+  "argumento": [],
+  "por_que": [
+   "Pata 2 de la combi @2,15 (con Olise 3+ remates). Sin Mbappé, Doué tendrá más balón en ataque."
+  ]
+ },
+ {
+  "tipster": "CRIMINALPICKS",
+  "fuente": "-1002685171001/10995",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Inglaterra",
+  "visitante": "Croacia",
+  "texto": "Harry Kane 2+ remates a puerta",
+  "mercado": "Player Shots On Target",
+  "opcion": "Kane Over 1.5",
+  "cuota": 1.86,
+  "combinada": "crim-10995",
+  "argumento": [],
+  "por_que": [
+   "Combi Kane 2+ a puerta + Gordon 1+ a puerta @1,86: Kane es el que más tira de Inglaterra y lanza los penaltis; Gordon titular por la banda. Mercado de jugador, va con los onces ya dados (publicado a las 20:00)."
+  ]
+ },
+ {
+  "tipster": "CRIMINALPICKS",
+  "fuente": "-1002685171001/10995",
+  "dia": "2026-11-12",
+  "hora": "20:45",
+  "local": "Inglaterra",
+  "visitante": "Croacia",
+  "texto": "Anthony Gordon 1+ remate a puerta",
+  "mercado": "Player Shots On Target",
+  "opcion": "Gordon Over 0.5",
+  "cuota": 1.86,
+  "combinada": "crim-10995",
+  "argumento": [],
+  "por_que": [
+   "Pata 2 de la combi @1,86 (con Kane 2+ a puerta)."
+  ]
  }
 ]
