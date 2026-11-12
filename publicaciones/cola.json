@@ -5067,7 +5067,7 @@
   {
     "id": "2026-11-12-combi-partido-1528960-th2",
     "fecha": "2026-11-12T19:50",
-    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Más de 2,5 goles en Italia–Francia\n🍀 Más de 3,5 tarjetas en el partido\n🍀 Italia saca más de 3,5 córners\n\n📈 Cuota @8,16",
+    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Francia ve 2 o más tarjetas\n🍀 Más de 3,5 tarjetas en el partido\n🍀 Italia saca más de 3,5 córners\n\n📈 Cuota @7,92",
     "foto": null,
     "origen": "claude",
     "directo": true,
@@ -5076,17 +5076,17 @@
     ],
     "sel": [
       "1528960|Both Teams Score|Yes",
-      "1528960|Goals Over/Under|Over 2.5",
+      "1528960|Away Team Total Cards|Over 1.5",
       "1528960|Cards Over/Under|Over 3.5",
       "1528960|Home Corners Over/Under|Over 3.5"
     ],
     "cuotas": [
       1.57,
-      1.67,
+      1.62,
       1.8,
       1.73
     ],
-    "nota": "12/11 Marcos: «la de Francia hay que subirla, hazla de nuevo» · sin nada a favor de Francia (sin Mbappé, Tchouaméni, Dembélé ni Thuram) · falta la cuota real de «Crear apuesta» · 16:58 Marcos: «hazla un poco más grande» → + más de 2,5 goles",
+    "nota": "12/11 Marcos: «la de Francia hay que subirla, hazla de nuevo» · sin nada a favor de Francia (sin Mbappé, Tchouaméni, Dembélé ni Thuram) · falta la cuota real de «Crear apuesta» · 16:58 Marcos: «hazla un poco más grande» → + más de 2,5 goles · fuera «más de 2,5 goles» (prohibido en nuestras combis desde el 05/11) → Francia ve 2+ tarjetas",
     "tarjeta": {
       "local": "Italy",
       "visitante": "France",
