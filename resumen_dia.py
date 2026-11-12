@@ -116,30 +116,74 @@ def tipo_pick(texto):
     return next((n for n, clave in TIPOS if clave in s), 'ganadores')
 
 
-def textos_picks(picks, dia):
-    """28/10 (Marcos): sin la lista de picks; % de acierto y lo mejor y lo peor por tipo de apuesta.
-    El mismo texto para Telegram y Threads (cabe en 500 caracteres)."""
+LISTAS = ('ganadores', 'marcadores', 'lista', 'verde', 'balance', 'rojo', 'picks-manana', 'exactos')
+MIN_VERDES = 3
+MIN_MOSTRAR = 0.6   # un % o un «x de y» solo sale si es bueno (60 % o más)
+
+
+def _cuota_post(pid, cola):
+    """La cuota publicada de un post (la de «Cuota @x» o la de su único pick «@x»)."""
+    import re
+    p = next((x for x in cola if x.get('id') == pid), None)
+    if not p:
+        return None
+    m = re.search(r'Cuota @\s*(\d+[.,]\d+)', p.get('texto') or '') \
+        or re.search(r'\bx(\d+[.,]\d+)', p.get('texto') or '') or re.search(r'@\s*(\d+[.,]\d+)', p.get('texto') or '')
+    return float(m.group(1).replace(',', '.')) if m else None
+
+
+def posts_dia(posts, dia, cola=()):
+    """13/11: los posts del día (no listas ni verdes) ya resueltos: [(id, picks, estado, cuota)]."""
+    out = []
+    for p in posts:
+        if p['fecha'][:10] != dia or p.get('lista') or any(k in p['id'] for k in LISTAS):
+            continue
+        ps = [x for x in p.get('picks', []) if not x.get('exacto')]
+        if ps and p.get('estado') in ('verde', 'rojo'):
+            out.append((p['id'], ps, p['estado'], _cuota_post(p['id'], cola) or p.get('cuota')))
+    return out
+
+
+def textos_picks(picks, dia, posts=(), cola=()):
+    """13/11 (Marcos: «poner no sé cuántos fallados queda muy feo… muchos picks sueltos los acertamos y las combis
+    las fallamos: busca una manera para que quede bien»). Nunca los fallados: lo que salió en verde y, solo si son
+    buenos (≥ 60 %), los números. Los picks sueltos aparte de las combis. Si no hay nada verde, None (no sale)."""
     v, n = sum(x['estado'] == 'verde' for x in picks), len(picks)
+    if v < MIN_VERDES:   # un día con 1 o 2 verdes no luce: mejor no sacar resumen
+        return None, None
     tipos = {}
     for x in picks:
         c = tipos.setdefault(tipo_pick(x['texto']), [0, 0])
         c[0] += x['estado'] == 'verde'
         c[1] += 1
-    pct = lambda k: tipos[k][0] / tipos[k][1]
-    fmt = lambda k: f"{k} {tipos[k][0]}/{tipos[k][1]}"
+    bueno = lambda a, b: b and a / b >= MIN_MOSTRAR
     fecha = datetime.fromisoformat(dia)
-    lineas = [f"📊 BALANCE DEL {DIAS[fecha.weekday()]} · {v} DE {n} PICKS EN VERDE 🍀", '',
-              f"🎯 {round(100 * v / n)} % de acierto", f"✅ {v} acertados · ❌ {n - v} fallados", '']
-    mejores = sorted((k for k in tipos if k != 'ganadores' and pct(k) >= 0.5), key=lambda k: (-pct(k), -tipos[k][1]))[:2]
+    lineas = [f"📊 RESUMEN DEL {DIAS[fecha.weekday()]} 🍀", '', f"✅ {v} picks en verde hoy"]
+    rp = posts_dia(posts, dia, cola)
+    sueltos = [x for x in rp if len(x[1]) == 1]
+    sv = sum(x[2] == 'verde' for x in sueltos)
+    if bueno(sv, len(sueltos)) and len(sueltos) >= 3:
+        lineas.append(f"🎯 Picks sueltos: {sv} de {len(sueltos)} acertados")
+    elif bueno(v, n):
+        lineas.append(f"🎯 {round(100 * v / n)} % de acierto")
+    mejores = sorted((k for k in tipos if k != 'ganadores' and tipos[k][1] >= 2 and bueno(*tipos[k])),
+                     key=lambda k: (-tipos[k][0] / tipos[k][1], -tipos[k][1]))[:2]
     if mejores:
-        lineas.append("🔥 Lo mejor: " + " · ".join(fmt(k) for k in mejores))
-    if 'ganadores' in tipos:
+        lineas.append("🔥 Lo mejor: " + " · ".join(f"{k} {tipos[k][0]}/{tipos[k][1]}" for k in mejores))
+    if 'ganadores' in tipos and tipos['ganadores'][1] >= 3 and bueno(*tipos['ganadores']):
         lineas.append(f"⚽ Ganadores: {tipos['ganadores'][0]}/{tipos['ganadores'][1]}")
-    peores = sorted((k for k in tipos if tipos[k][1] >= 2 and pct(k) < 0.5 and k not in mejores), key=lambda k: (pct(k), -tipos[k][1]))
-    if peores:
-        lineas.append(f"😤 Lo peor: {fmt(peores[0])}")
-    lineas += ['', '🔔 Mañana más picks: activad las notificaciones 👀', '🍀 ¿Cuántos llevabas tú? 👇']
-    texto = '\n'.join(l for i, l in enumerate(lineas) if l or (i and lineas[i - 1]))
+    verdes = sorted((x for x in rp if x[2] == 'verde'), key=lambda x: -(x[3] or 0))
+    if verdes:
+        lineas += ['', '💚 Para dentro:']
+        for _, ps, _, cuota in verdes[:6]:
+            t = ps[0]['texto'] if len(ps) == 1 else (" + ".join(x['texto'] for x in ps) if len(ps) == 2
+                                                       else f"Combi de {len(ps)} partidos")
+            c = f" @{cuota:.2f}".replace('.', ',') if cuota else ''
+            lineas.append(f"✅ {t}{c}")
+    lineas += ['', '🔔 Mañana más: activad las notificaciones 👀']
+    texto = '\n'.join(lineas)
+    if len(texto) > 490:   # Threads: 500 caracteres
+        texto = '\n'.join(l for l in lineas if not l.startswith('✅ ') or l.startswith('✅ ' + str(v)))
     return texto, texto
 
 
@@ -158,7 +202,9 @@ def main():
     picks, en_juego = picks_dia(datos.get('publicados_hoy', []), hoy)
     if not picks or (en_juego and ahora.strftime('%H:%M') < '23:45'):
         return
-    texto, _ = textos_picks(picks, hoy)
+    texto, _ = textos_picks(picks, hoy, datos.get('publicados_hoy', []), cola)
+    if not texto:   # 13/11: si no hay nada en verde, no sale
+        return
     cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': texto,
                  'foto': None, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True})
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

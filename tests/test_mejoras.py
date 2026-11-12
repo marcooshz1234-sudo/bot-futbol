@@ -71,7 +71,8 @@ class BalanceTest(unittest.TestCase):
             (root/'docs').mkdir()
             (root/'docs/datos.json').write_text(json.dumps({'generado_iso': ahora.isoformat(), 'publicados_hoy': [
                 {'id': 'uno', 'fecha': '2026-10-24T18:00', 'titulo': 'Combi', 'estado': 'verde',
-                 'picks': [{'partido_id': 1, 'texto': 'Gana el Betis', 'estado': 'verde', 'estado_partido': 'FT'}]}]}))
+                 'picks': [{'partido_id': i, 'texto': f'Gana el {i}', 'estado': 'verde', 'estado_partido': 'FT'}
+                           for i in range(1, 4)]}]}))
             with patch.multiple(resumen_dia, RAIZ=root, COLA=cola), patch.object(resumen_dia, 'datetime') as dt:
                 dt.now.return_value = ahora
                 dt.fromisoformat.side_effect = datetime.fromisoformat
@@ -88,11 +89,7 @@ class BalanceTest(unittest.TestCase):
         picks, en_juego = resumen_dia.picks_dia(posts, '2026-10-27')
         self.assertEqual([x['texto'] for x in picks], ['Lazio o empate', 'Rayo gana alguna de las dos partes', 'Arsenal — Gana'])
         texto, _ = resumen_dia.textos_picks(picks, '2026-10-27')
-        self.assertIn('1 DE 3 PICKS EN VERDE', texto)
-        self.assertIn('33 % de acierto', texto)
-        self.assertIn('⚽ Ganadores: 1/3', texto)
-        self.assertNotIn('pendiente', texto.lower())
-        self.assertNotIn('Rayo', texto)   # sin la lista de picks
+        self.assertIsNone(texto)   # 13/11: con 1 verde no sale resumen (y nunca los fallados)
         largo = [pk(i, f'Equipo {i} ve más de 1,5 tarjetas' if i % 2 else f'Equipo {i} marca', 'verde' if i % 3 else 'rojo') for i in range(40)]
         texto, _ = resumen_dia.textos_picks(resumen_dia.picks_dia([dict(posts[0], picks=largo)], '2026-10-27')[0], '2026-10-27')
         self.assertLessEqual(len(texto), 500)

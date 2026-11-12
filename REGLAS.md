@@ -102,6 +102,10 @@
 - 👤 Rojos y cuotazas: solo con «✅ Publicar» de Marcos.
 - 👤 Si la combi nunca se publicó (captura de Marcos), el verde no lleva «¿Quién la llevaba?».
 
+- ⚙️ **Resumen de la noche (23:15): nunca los fallados** (13/11: «queda muy feo»). Solo cuántos picks en verde, los
+  picks sueltos aparte («8 de 11 acertados») y los números solo si son buenos (≥ 60 %), con la lista de los verdes y
+  su cuota. Con menos de 3 verdes, no sale.
+
 ## 9. Escalera
 - ⚙️ Todos los días hay escalera, sin excepción (29/10). Opción A (≈ x2), sin descanso ni 1ª/2ª parte.
 - ⚙️ Si a las 30 h falta el resultado de una pata, esperar y avisar (no darla por anulada) (11/11).
