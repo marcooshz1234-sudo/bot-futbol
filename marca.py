@@ -17,7 +17,7 @@ CIRCULO = CARPETA / ("logo_cl_256.png" if TEMA == "cl" else "logo_circulo_256.pn
 LOGO_GRANDE = CARPETA / ("logo_cl_512.png" if TEMA == "cl" else "logo_circulo_256.png")
 FONDO_FOTO = CARPETA / "fondo_estadio.jpg"
 NEON = "#7ef03a"
-DISENO = "diseño-7"   # va en la huella de las imágenes (imagenes.huella / redes.url_media): cambiarla rehace las pendientes
+DISENO = "diseño-8"   # va en la huella de las imágenes (imagenes.huella / redes.url_media): cambiarla rehace las pendientes
 FUENTES = CARPETA / "fuentes"
 
 ORO = "#f2c94c"

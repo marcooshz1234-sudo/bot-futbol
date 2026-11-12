@@ -184,8 +184,7 @@ def datos_imagen(p):
         filas.append(dict(f, escudo=ruta or ""))
     liga = None
     if g.get("liga"):
-        l = MEDIA / "escudos" / f"liga-{g['liga']}.png"
-        liga = str(l) if l.exists() else G.logo_liga(g["liga"])
+        liga = G.logo_liga(g["liga"])   # 12/11: con el HD si lo hay
     return filas, liga
 
 

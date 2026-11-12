@@ -189,6 +189,9 @@ def logo_liga(liga_id):
     """Logo oficial de la competición (API-Football), guardado en publicaciones/media/escudos/liga-<id>.png.
     Si no se puede descargar (sin red), None y sale el nombre en letras."""
     import urllib.request
+    hd = RAIZ / "publicaciones" / "media" / "escudos" / f"liga-{liga_id}-hd.png"
+    if hd.exists():   # 12/11 (Marcos: «máxima calidad»): el grande de logos_hd.py
+        return str(hd)
     ruta = RAIZ / "publicaciones" / "media" / "escudos" / f"liga-{liga_id}.png"
     if not ruta.exists():
         try:

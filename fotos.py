@@ -121,6 +121,7 @@ def partido(p):
                     except Exception:
                         pass
                     t.setdefault("liga", (pa.get("league") or {}).get("name"))
+                    t.setdefault("liga_id", (pa.get("league") or {}).get("id"))
                     break
     if fid and not (t.get("local") and t.get("visitante")):
         # 11/11: los verdes salen cuando el partido ya terminó y ya no está en proximos → se busca en lo jugado
@@ -339,6 +340,24 @@ def pick_del_dia(p, w=1080, h=1350):
     return _html(cuerpo, w, h)
 
 
+def _logo_hueco(t, abajo, maximo):
+    """12/11 (Marcos: «si es un mismo partido o una sola competición, el logo de la competición, sin círculo, lo más
+    grande que quede bien, donde haya hueco»): ocupa el espacio libre que queda entre el contenido y la firma;
+    si no hay hueco, se encoge o no sale. Con el logo en grande (liga-<id>-hd.png) si lo hay."""
+    lid = t.get("liga_id")
+    if not lid:
+        return ""
+    base_ = RAIZ / "publicaciones" / "media" / "escudos"
+    ruta = next((r for r in (base_ / f"liga-{lid}-hd.png", base_ / f"liga-{lid}.png") if r.is_file()), None)
+    if not ruta:
+        return ""
+    lado = maximo if "-hd" in ruta.name else min(maximo, 170)   # el de 150 px, sin estirarlo
+    return (f'<div style="flex:1 1 0;min-height:0;width:100%;display:flex;align-items:center;justify-content:center;'
+            f'margin:18px 0 {abajo}px"><img src="data:image/png;base64,{nitido(ruta, lado)}" style="height:100%;'
+            f'max-height:{lado}px;max-width:{lado}px;object-fit:contain;filter:drop-shadow(0 0 1.5px #fff) '
+            f'drop-shadow(0 0 1.5px #fff) drop-shadow(0 0 14px rgba(255,255,255,.4))"></div>')
+
+
 def _pick_cl(t, pk, cuota, stake, razon, info, w, h, titulo="PICK DEL DÍA"):
     """Pick del día con el estilo CL (como el de ChatGPT de Marcos, 11/11)."""
     vertical = h > 1500
@@ -359,6 +378,7 @@ def _pick_cl(t, pk, cuota, stake, razon, info, w, h, titulo="PICK DEL DÍA"):
         + (f'<div style="margin-top:34px;display:flex;align-items:center;gap:20px">{ICONO["monedas"]}'
            f'<span class="b3d" style="font-size:46px">STAKE {e(stake)}</span></div>' if stake else "")
         + razon_html
+        + _logo_hueco(t, 220 if vertical else 120, 260 if vertical else 200)
         + f'<div style="position:absolute;left:0;right:0;bottom:{120 if vertical else 50}px;display:flex;justify-content:center">'
         f'{_firma()}</div>')
     return _html(cuerpo, w, h)
@@ -587,8 +607,8 @@ def quien_gana(filas, titulo, sub=None, liga=None, alto=1350, lema=None):
                 f'<div class="pick"><div class="ck">{marca}</div><b>{e(f.get("pick", "WIN"))}</b></div></div>')
     cuerpo = (
         f'<div style="margin-top:{36 if n > 5 else 0}px">{logo_img(170 if n > 5 else 220)}</div>'
-        + (f'<div style="margin-top:4px;display:flex;align-items:center;gap:26px">{_logo_liga(liga, 190)}'
-           f'{_cinta(e(titulo or "QUIÉN GANA HOY"), 66)}</div>' if _logo_liga(liga, 190) else
+        + (f'<div style="margin-top:4px;display:flex;align-items:center;gap:26px">{_logo_liga(liga, 230)}'
+           f'{_cinta(e(titulo or "QUIÉN GANA HOY"), 66)}</div>' if _logo_liga(liga, 230) else
            f'<div style="margin-top:4px">{_cinta(e(titulo or "QUIÉN GANA HOY"), 70)}</div>')
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
         + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'

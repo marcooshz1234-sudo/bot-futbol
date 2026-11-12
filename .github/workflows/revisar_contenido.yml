@@ -22,6 +22,7 @@ jobs:
           python-version: '3.12'
       - name: Recalcular selecciones y preparar el panel
         run: |
+          python -u logos_hd.py || true   # 12/11: logos de competición en grande
           python -u picks.py
           python -u escalera.py
           python -u plantillas.py

@@ -211,7 +211,7 @@ class TestFallos11Nov(unittest.TestCase):
         import fotos, ganadores_win as G
         html = fotos._logo_liga(RAIZ / "publicaciones" / "media" / "escudos" / "liga-5.png", 190)
         self.assertNotIn("border-radius:50%", html)   # Marcos 12/11: sin el círculo blanco
-        self.assertIn("width:190px", html)
+        self.assertIn("width:190px", html)   # (la llamada de quien_gana usa 230)
         base = {"ini": 0, "equipo": {"name": "x"}, "grande": False, "lado": "Home", "cuota": 1.5, "liga": 5}
         altos = [dict(base, fid=i, prob=0.7) for i in range(4)]
         bajos = altos + [dict(base, fid=10 + i, prob=0.45) for i in range(4)]
@@ -305,6 +305,16 @@ class TestFallos11Nov(unittest.TestCase):
                         self.fail(f"{f}: «{n.value[:70]}»")
         for f in ("docs/index.html", "docs/panel/index.html"):
             self.assertNotIn("Combi segura", (RAIZ / f).read_text(encoding="utf-8"))
+
+    def test_logo_competicion_en_el_pick(self):
+        import fotos
+        t = {"liga_id": 5, "local": "Albania", "visitante": "Finland"}
+        html = fotos._logo_hueco(t, 120, 200)
+        self.assertIn("data:image/png;base64", html)
+        self.assertNotIn("border-radius:50%", html)
+        self.assertEqual(fotos._logo_hueco({}, 120, 200), "")
+        import ganadores_img as G
+        self.assertTrue(G.logo_liga(5).endswith((".png",)))
 
 
 if __name__ == "__main__":
