@@ -16,7 +16,7 @@ POR_ARBITRO = 8
 
 
 def tarjetas_partido(api, fid):
-    r = api.get("fixtures/statistics", fixture=fid).get("response") or []
+    r = api.get("fixtures/statistics", fixture=fid) or []   # API.get ya devuelve la lista «response»
     total = 0
     for eq in r:
         for s in eq.get("statistics") or []:
@@ -61,11 +61,12 @@ def main():
             vistos.add(arb)
             partidos = []
             for temporada in (ahora.year, ahora.year - 1):
-                r = api.get("fixtures", referee=arb, season=temporada).get("response") or []
+                r = api.get("fixtures", referee=arb, season=temporada) or []
                 usadas += 1
                 partidos += [x for x in r if (x.get("fixture") or {}).get("status", {}).get("short") in ("FT", "AET", "PEN")]
                 if len(partidos) >= POR_ARBITRO:
                     break
+            partidos = list({x["fixture"]["id"]: x for x in partidos}.values())   # sin repetidos
             partidos.sort(key=lambda x: x["fixture"]["date"], reverse=True)
             tarjetas = []
             for x in partidos[:POR_ARBITRO]:

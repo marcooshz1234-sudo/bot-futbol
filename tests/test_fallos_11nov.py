@@ -338,6 +338,24 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertIn('["picksdia","🍀","Picks"]', src)
         self.assertIn("function vPicksDia()", src)
 
+    def test_arbitros_ext_con_la_api(self):
+        import tempfile, json as js
+        import arbitros_ext as AE
+        class FakeAPI:
+            def __init__(self, k): pass
+            def get(self, ruta, **p):
+                if ruta == "fixtures":
+                    return [{"fixture": {"id": i, "date": f"2026-10-0{i}", "status": {"short": "FT"}}} for i in range(1, 4)]
+                return [{"statistics": [{"type": "Yellow Cards", "value": 2}, {"type": "Red Cards", "value": None}]},
+                        {"statistics": [{"type": "Yellow Cards", "value": 3}]}]
+        with tempfile.TemporaryDirectory() as d:
+            sal = Path(d) / "a.json"
+            with mock.patch.object(AE, "API", FakeAPI), mock.patch.object(AE, "SALIDA", sal), \
+                    mock.patch.object(AE, "arbitros_pendientes", lambda a: iter([("Sandro Schärer", "Sandro Schärer, Switzerland")])), \
+                    mock.patch.dict("os.environ", {"API_FOOTBALL_KEY": "x"}):
+                AE.main()
+            self.assertEqual(js.loads(sal.read_text())["Sandro Schärer"]["tarjetas"], [5, 5, 5])
+
 
 if __name__ == "__main__":
     unittest.main()
