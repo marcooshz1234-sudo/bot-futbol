@@ -1658,14 +1658,14 @@
   },
   "2026-11-12": {
     "dia": "2026-11-12",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -1679,6 +1679,12 @@
         "titulo": "🏆 COPA DEL REY - GANADORES",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-12-pick-seguro",
+        "titulo": "Pick de hoy, con datos detrás 📊",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
@@ -1686,6 +1692,6 @@
       "rojo": 0,
       "total": 11
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🏆 COPA DEL REY - GANADORES · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
