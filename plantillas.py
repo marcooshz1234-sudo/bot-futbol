@@ -409,6 +409,10 @@ MUY_LARGA = 10   # picks a partir de los que se dice «coged los que más os gus
 CIERRE_TELEGRAM = "🔔 Activad las notificaciones, que vienen más combis 👀"
 
 
+AVISO_CUOTA = ("🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y "
+               "respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.")
+
+
 def cierre_a_veces(texto, semilla):
     """12/11 (Marcos: «no hace falta que pongas siempre una frase al final en todas las publicaciones»): en la mitad
     de los posts (según el id, así no cambia al regenerar) se quita la frase de cierre si es la última línea:
@@ -850,6 +854,12 @@ def posts_del_dia(dia, d):
         for p in salida:
             if p["id"] not in en_tg:
                 p["solo_redes"] = True
+    # 12/11 (Marcos: «esperar tu cuota»): las combis de UN partido no se pueden multiplicar (bet365 «Crear apuesta»
+    # paga otra cosa: Turquía–Bélgica 2,20 → 1,60). Esperan a que Marcos le pase al bot la cuota real
+    for p in salida:
+        if re.match(r"(combi-partido|estrella)", p["id"][11:]) and len({s_.split("|")[0] for s_ in p.get("sel") or []}) == 1 \
+                and len(p.get("sel") or []) > 1:
+            p.update(requiere_ok=True, pide_cuota=True, aviso=AVISO_CUOTA)
     # 05/11 (Marcos): «GANADORES» con escudos cada día, solo en Threads (ganadores_win.py)
     try:
         import ganadores_win

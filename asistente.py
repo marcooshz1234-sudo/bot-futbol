@@ -259,6 +259,33 @@ class Asistente:
             p.update(enviados.get(p["id"], {}))
         return sorted(posts, key=lambda p: p["fecha"])
 
+    def cuota_combi_partido(self, texto):
+        """12/11 (Marcos: «esperar tu cuota»): si manda solo una cifra («1,60») y hay una combi de un partido esperando
+        su cuota real de bet365 «Crear apuesta», se pone en el texto (y en la foto) y queda aprobada: sale a su hora."""
+        import re as _re
+        m = _re.fullmatch(r"\s*@?(\d{1,3}[.,]\d{1,2})\s*", texto or "")
+        if not m:
+            return None
+        c = self.control()
+        hecho = c.get("cuota_dada") or {}
+        pend = [p for p in self.programados() if p.get("pide_cuota") and p["id"] not in hecho and not p.get("enviado")
+                and not p.get("caducada") and p["id"] not in c["cancelados"]]
+        if not pend:
+            return None
+        p = pend[0]
+        v = float(m.group(1).replace(",", "."))
+        if not 1.01 < v < 100:
+            return self.enviar("Esa cuota no me cuadra. Mándame solo la cifra, por ejemplo 1,60.")
+        txt = _re.sub(r"📈 Cuota @\d+,\d+", f"📈 Cuota @{v:.2f}".replace(".", ","), c["textos"].get(p["id"], p["texto"]))
+        c["textos"][p["id"]] = txt
+        c.setdefault("cuota_dada", {})[p["id"]] = v
+        c.setdefault("aprobados", {})[p["id"]] = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
+        escribir(CONTROL, c)
+        guardar(f"cuota real {p['id']} {v}")
+        resto = f"\n\nQueda otra esperando: {pend[1]['texto'].splitlines()[0][:60]}" if len(pend) > 1 else ""
+        return self.enviar(f"✅ Puesta la cuota @{v:.2f} en «{p['texto'].splitlines()[0][:60]}». Sale a las "
+                           f"{p['fecha'][11:16]}.".replace(".", ",", 1) + resto)
+
     # ---------------------------------------------------------------- avisos previos
     def avisar_verdes(self):
         """09/11 (Marcos): los verdes no salen solos. Se le mandan con su imagen y salen al darle a «✅ Publicar»."""
@@ -601,6 +628,9 @@ class Asistente:
                 escribir(CONTROL, c)
                 guardar(f"verde no sale {pid}")
                 return self.enviar("❌ Vale, ese verde no sale.")
+            p_ = next((x for x in self.programados() if x["id"] == pid), {})
+            if p_.get("pide_cuota") and pid not in (c.get("cuota_dada") or {}):   # 12/11: combi de un partido sin cuota real
+                return self.enviar("🧮 Antes de publicarla, mándame la cuota de bet365 «Crear apuesta» (solo la cifra, p. ej. 1,60).")
             c.setdefault("aprobados", {})[pid] = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
             escribir(CONTROL, c)
             guardar(f"verde aprobado {pid}")
@@ -901,6 +931,9 @@ class Asistente:
         texto = m.get("text") or m.get("caption") or ""
         if texto.startswith("/"):
             return self.cmd(texto)
+        r = self.cuota_combi_partido(texto) if not self.esperando else None
+        if r is not None:
+            return r
         if self.esperando:
             tipo, *datos = self.esperando
             self.esperando = None

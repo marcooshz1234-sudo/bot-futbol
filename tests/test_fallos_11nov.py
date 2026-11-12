@@ -273,6 +273,25 @@ class TestFallos11Nov(unittest.TestCase):
         src = (RAIZ / "imagenes.py").read_text(encoding="utf-8")
         self.assertIn('"local": _es(t["local"])', src)
 
+    def test_cuota_real_combi_partido(self):
+        import asistente
+        b = asistente.Asistente.__new__(asistente.Asistente)
+        c = {"textos": {}, "cancelados": [], "aprobados": {}}
+        post = {"id": "2026-11-12-combi-partido-1-th", "fecha": "2026-11-12T19:45", "pide_cuota": True,
+                "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 A\n🍀 B\n\n📈 Cuota @2,35"}
+        dichos = []
+        b.control = lambda: c
+        b.programados = lambda: [post]
+        b.enviar = lambda t, *a: dichos.append(t)
+        with mock.patch.object(asistente, "escribir", lambda *a: None), mock.patch.object(asistente, "guardar", lambda *a: None):
+            self.assertIsNone(b.cuota_combi_partido("hola"))
+            b.cuota_combi_partido("1,85")
+        self.assertIn("📈 Cuota @1,85", c["textos"][post["id"]])
+        self.assertIn(post["id"], c["aprobados"])
+        self.assertIn("1,85", dichos[0])
+        # las combis de UN partido piden la cuota (plantillas)
+        self.assertIn("pide_cuota=True", (RAIZ / "plantillas.py").read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()
