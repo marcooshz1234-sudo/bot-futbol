@@ -120,6 +120,8 @@ def foto_threads(p):
 
 def threads(p, token):
     t = texto_final(dict(p, texto=p.get("texto_threads") or p["texto"]))   # 28/10: versión corta si la hay
+    from estilo_threads import estilo
+    t = estilo(t, p.get("id", ""))   # 12/11 (Marcos): más 🔥, más ✅ y los 10 €, como los posts que más vistas tenían
     if len(t) > LIMITE_THREADS:   # sin la frase del dato si no cabe
         t = "\n".join(l for l in t.split("\n") if not l.startswith("📊")).replace("\n\n\n", "\n\n")
     if len(t) > LIMITE_THREADS:   # 31/10 (de 1€ a 500€, 689): sin las banderas de las patas (🏴󠁧󠁢󠁥󠁮󠁧󠁿 ocupa 7)
@@ -346,6 +348,9 @@ def ya_esta(red, p, claves, pagina):
             _RECIENTES[red] = [(x.get("created_time"), x.get("message")) for x in r.get("data", [])]
     limite = datetime.now(timezone.utc) - timedelta(hours=3)
     mio = _titulo(p["texto"])
+    if red == "threads":   # 12/11: en Threads el texto sale con estilo_threads (cabecera en mayúsculas, ✅…)
+        from estilo_threads import estilo
+        mio = _titulo(estilo(texto_final(p), p.get("id", "")))
     for ts, texto in _RECIENTES[red]:
         try:
             t = datetime.fromisoformat((ts or "").replace("+0000", "+00:00"))
