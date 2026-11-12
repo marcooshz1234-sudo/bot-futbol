@@ -1660,18 +1660,18 @@
     "dia": "2026-11-12",
     "total": 20,
     "cuentas": {
-      "verde": 7,
-      "rojo": 8,
-      "pendiente": 5,
-      "sin_datos": 0,
+      "verde": 6,
+      "rojo": 7,
+      "pendiente": 1,
+      "sin_datos": 6,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 7
     },
     "combis": [
       {
         "id": "2026-11-12-ganadores-nations",
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1701,7 +1701,7 @@
       {
         "id": "2026-11-12-combi-tip-1",
         "titulo": "Combinada para hoy, con cabeza ⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1743,7 +1743,7 @@
       {
         "id": "2026-11-12-marcadores-nations-th",
         "titulo": "🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄",
-        "estado": "rojo",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1767,7 +1767,7 @@
       {
         "id": "2026-11-12-combi-partido-1528962-th",
         "titulo": "Os dejo la combi del Inglaterra – Croacia ⚽🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1779,21 +1779,21 @@
       {
         "id": "2026-11-12-combi-nations-th-1",
         "titulo": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-12-combi-nations-th-2",
         "titulo": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 21,
+      "verde": 15,
       "rojo": 8,
       "total": 42
     },
-    "texto": "📊 BALANCE DEL JUEVES: 7 DE 15 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❌ 🏆 COPA DEL REY - GANADORES\n✅ Pick de hoy, con datos detrás 📊\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n⏳ Combinada para hoy, con cabeza ⚽ · pendiente\n❌ Vamos con una combinada cortita 👇\n❌ Vamos con la combi del jueves familia 🔥\n✅ Pick que no podía faltar hoy ⚽\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❌ Pick que nos gusta mucho para hoy 👀\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n❌ Y para los valientes, la loca del jueves 🤪🔥\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n⏳ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · pendiente\n❌ Vamos con el pick de hoy familia 🔥\n✅ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀\n⏳ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · pendiente\n\n✅ 7 acertadas · ❌ 8 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 6 DE 13 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❌ 🏆 COPA DEL REY - GANADORES\n✅ Pick de hoy, con datos detrás 📊\n✅ 🪜 Reto escalera · Día 3/7\n✅ Este nos encanta para hoy 🔥\n❔ Combinada para hoy, con cabeza ⚽ · faltan datos\n❌ Vamos con una combinada cortita 👇\n❌ Vamos con la combi del jueves familia 🔥\n✅ Pick que no podía faltar hoy ⚽\n✅ Vamos con otro pick, familia 👇\n✅ Os dejo la combi del Turquía – Bélgica ⚽🔥\n❌ Pick que nos gusta mucho para hoy 👀\n❔ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · faltan datos\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,88! 🍀\n❌ Y para los valientes, la loca del jueves 🤪🔥\n⏳ Os dejo la combi del Chequia – España ⚽🔥 · pendiente\n❔ Os dejo la combi del Inglaterra – Croacia ⚽🔥 · faltan datos\n❌ Vamos con el pick de hoy familia 🔥\n❔ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀 · faltan datos\n❔ 🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀 · faltan datos\n\n✅ 6 acertadas · ❌ 7 falladas · ⏳ 7 sin resolver"
   }
 }
