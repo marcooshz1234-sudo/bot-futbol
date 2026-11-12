@@ -4972,5 +4972,73 @@
       "threads_enlace": "18146232700580777",
       "instagram": "18140101873650694"
     }
+  },
+  {
+    "id": "2026-11-12-combi-partido-1528961-th",
+    "fecha": "2026-11-12T19:30",
+    "texto": "Os dejo la combi del Chequia – España ⚽🔥\n\n🍀 España marca 2 o más\n🍀 España saca más de 6,5 córners\n\n📈 Cuota @2,34",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528961|Total - Away|Over 1.5",
+      "1528961|Away Corners Over/Under|Over 6.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.83
+    ],
+    "nota": "12/11 Marcos: «combi con escudos de España e Inglaterra no salen?» · cuota multiplicada: falta la real de «Crear apuesta»",
+    "tarjeta": {
+      "local": "Czech Republic",
+      "visitante": "Spain",
+      "id_l": 770,
+      "id_v": 9,
+      "logo_l": "https://media.api-sports.io/football/teams/770.png",
+      "logo_v": "https://media.api-sports.io/football/teams/9.png",
+      "fecha": "2026-11-12T20:45",
+      "liga": "Nations League"
+    },
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
+  },
+  {
+    "id": "2026-11-12-combi-partido-1528962-th",
+    "fecha": "2026-11-12T19:40",
+    "texto": "Os dejo la combi del Inglaterra – Croacia ⚽🔥\n\n🍀 Inglaterra marca 2 o más\n🍀 Inglaterra saca más córners\n🍀 Croacia ve 2 o más tarjetas\n\n📈 Cuota @2,44",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528962|Total - Home|Over 1.5",
+      "1528962|Corners 1x2|Home",
+      "1528962|Away Team Total Cards|Over 1.5"
+    ],
+    "cuotas": [
+      1.3,
+      1.25,
+      1.5
+    ],
+    "nota": "12/11 Marcos: «combi con escudos de España e Inglaterra no salen?» · cuota multiplicada: falta la real de «Crear apuesta»",
+    "tarjeta": {
+      "local": "England",
+      "visitante": "Croatia",
+      "id_l": 10,
+      "id_v": 3,
+      "logo_l": "https://media.api-sports.io/football/teams/10.png",
+      "logo_v": "https://media.api-sports.io/football/teams/3.png",
+      "fecha": "2026-11-12T20:45",
+      "liga": "Nations League"
+    },
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
   }
 ]
