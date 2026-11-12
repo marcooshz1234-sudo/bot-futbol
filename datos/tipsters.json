@@ -872,7 +872,11 @@
   ],
   "por_que": [
    "Foto «Las 2 de hoy» de TipsAnalistas (12/11 ~14:00). Apuntado por Claude."
-  ]
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.568
+  }
  },
  {
   "tipster": "TipsAnalistas",
@@ -892,7 +896,12 @@
   ],
   "por_que": [
    "Foto «Las 2 de hoy» de TipsAnalistas. Apuntado por Claude."
-  ]
+  ],
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.22,
+   "prob_cuota": 0.813
+  }
  },
  {
   "tipster": "TipsAnalistas",
@@ -912,5 +921,53 @@
   "por_que": [
    "Partido de madrugada (13/11 03:00) que no seguimos: hora puesta 23:59 para que salga antes."
   ]
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10068",
+  "dia": "2026-11-12",
+  "local": "Czechia",
+  "visitante": "Spain",
+  "texto": "Gana España",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.19,
+  "combinada": "-1001262785423/10068",
+  "argumento": [
+   "Combi de 2 a cuota 1,54 (500 € apostados): España y Montenegro ganan"
+  ],
+  "por_que": [
+   "España lleva 12 de 12 puntos y nunca ha perdido con Chequia (6V 2E); Chequia ha perdido sus 4 partidos del grupo (2-10 en goles) y llega con bajas. Pata muy probable pero de cuota muy baja."
+  ],
+  "partido_id": 1528961,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.18,
+   "prob_cuota": 0.84
+  }
+ },
+ {
+  "tipster": "TipsPro",
+  "fuente": "-1001262785423/10068",
+  "dia": "2026-11-12",
+  "local": "Montenegro",
+  "visitante": "Latvia",
+  "texto": "Gana Montenegro",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.29,
+  "combinada": "-1001262785423/10068",
+  "argumento": [
+   "Combi de 2 a cuota 1,54 (500 € apostados): España y Montenegro ganan"
+  ],
+  "por_que": [
+   "bet365 lo da a 1,30 (precio de mercado, sin valor extra). Montenegro en casa ante Letonia, rival flojo de Liga C; INSIDER también lleva a Montenegro hoy. Nosotros llevamos «Montenegro marca 2 o más» en combis: coherente."
+  ],
+  "partido_id": 1545613,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.28,
+   "prob_cuota": 0.775
+  }
  }
 ]
