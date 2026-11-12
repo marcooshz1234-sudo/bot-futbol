@@ -1,7 +1,7 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 14:15_
@@ -193,11 +193,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del local: Más de 0.5 | 61% | 73% | 67% | 1.28 | -14% |
 | Goles del local: Más de 1.5 | 24% | 41% | 33% | 2.25 | -27% |
-| Goles del local: Menos de 0.5 | 39% | 27% | 33% | 3.50 | +15% |
+| Goles del local: Menos de 0.5 | 39% | 27% | 33% | 3.50 | +16% |
 | Goles del local: Menos de 1.5 | 76% | 59% | 67% | 1.57 | +6% |
-| Goles del visitante: Más de 0.5 | 69% | 66% | 67% | 1.40 | -6% |
+| Goles del visitante: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Goles del visitante: Más de 1.5 | 32% | 34% | 33% | 2.75 | -9% |
-| Goles del visitante: Menos de 0.5 | 31% | 34% | 33% | 2.75 | -11% |
+| Goles del visitante: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -11% |
 | Goles del visitante: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | 1X2 descanso: 2 | 29% | 25% | 27% | 3.75 | +1% |
 | 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |

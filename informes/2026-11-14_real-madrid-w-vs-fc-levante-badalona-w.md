@@ -1,7 +1,7 @@
 # Real Madrid W – FC Levante Badalona W
 **Liga F** · Regular Season - 11 · 14/11/2026 20:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -99,6 +99,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,98 · visitante 0,82._
+_Goles esperados: local 2,97 · visitante 0,82._
 
 _Sin cuotas de Bet365 todavía para comparar._

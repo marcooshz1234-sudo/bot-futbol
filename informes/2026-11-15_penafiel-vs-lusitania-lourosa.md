@@ -1,10 +1,44 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 12/11 02:19_
+
+- **1X2:** 1 **2.25**  ·  X **3.00**  ·  2 **3.00**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.53**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **8.50**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.10** · menos **1.70**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Penafiel (total) | Penafiel en casa | Lusitânia Lourosa (total) | Lusitânia Lourosa fuera |
@@ -113,4 +147,38 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,61 · visitante 1,10 · córners esperados 8,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 26% | 30% | 28% | 3.00 | -16% |
+| 1X2: X | 25% | 30% | 27% | 3.00 | -18% |
+| 1X2: 1 | 49% | 40% | 45% | 2.25 | +0% |
+| Doble oportunidad: X2 | 51% | 61% | 56% | 1.53 | -15% |
+| Doble oportunidad: 12 | 75% | 70% | 72% | 1.33 | -4% |
+| Doble oportunidad: 1X | 74% | 70% | 72% | 1.33 | -4% |
+| Ambos marcan: No | 47% | 50% | 48% | 1.83 | -12% |
+| Ambos marcan: Sí | 53% | 50% | 52% | 1.83 | -5% |
+| Goles más/menos: Más de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
+| Goles más/menos: Más de 2.5 | 51% | 45% | 48% | 2.10 | +0% |
+| Goles más/menos: Más de 3.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles más/menos: Menos de 1.5 | 25% | 29% | 27% | 3.25 | -13% |
+| Goles más/menos: Menos de 2.5 | 49% | 55% | 52% | 1.70 | -11% |
+| Goles más/menos: Menos de 3.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 29% | 31% | 3.25 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 71% | 69% | 1.33 | -8% |
+| Goles del local: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
+| Goles del local: Más de 1.5 | 48% | 39% | 43% | 2.38 | +3% |
+| Goles del local: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -18% |
+| Goles del local: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -13% |
+| Goles del visitante: Más de 0.5 | 67% | 66% | 66% | 1.40 | -7% |
+| Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles del visitante: Menos de 0.5 | 33% | 34% | 34% | 2.75 | -8% |
+| Goles del visitante: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
+| 1X2 descanso: 2 | 22% | 25% | 23% | 3.75 | -12% |
+| 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -9% |
+| 1X2 descanso: 1 | 36% | 31% | 34% | 3.00 | +1% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

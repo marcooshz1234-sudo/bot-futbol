@@ -1,7 +1,7 @@
 # Novara – Lecco
 **Serie C** · Girone A - 14 · 15/11/2026 12:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 08:20_
@@ -134,15 +134,15 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,68 · visitante 1,79._
+_Goles esperados: local 0,67 · visitante 1,79._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 64% | 40% | 52% | 2.25 | +17% |
-| 1X2: X | 22% | 29% | 26% | 3.10 | -20% |
-| 1X2: 1 | 13% | 31% | 22% | 2.90 | -35% |
+| 1X2: X | 22% | 29% | 26% | 3.10 | -21% |
+| 1X2: 1 | 13% | 31% | 22% | 2.90 | -36% |
 | Doble oportunidad: X2 | 87% | 70% | 78% | 1.30 | +2% |
 | Doble oportunidad: 12 | 78% | 71% | 74% | 1.28 | -5% |
 | Doble oportunidad: 1X | 36% | 59% | 48% | 1.53 | -27% |
@@ -163,9 +163,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 51% | 31% | 41% | 3.00 | +23% |
 | Goles del local: Menos de 1.5 | 85% | 66% | 76% | 1.40 | +6% |
 | Goles del visitante: Más de 0.5 | 83% | 73% | 78% | 1.28 | +0% |
-| Goles del visitante: Más de 1.5 | 53% | 41% | 47% | 2.25 | +6% |
+| Goles del visitante: Más de 1.5 | 54% | 41% | 47% | 2.25 | +6% |
 | Goles del visitante: Menos de 0.5 | 17% | 27% | 22% | 3.50 | -24% |
-| Goles del visitante: Menos de 1.5 | 47% | 59% | 53% | 1.57 | -17% |
+| Goles del visitante: Menos de 1.5 | 46% | 59% | 53% | 1.57 | -17% |
 | 1X2 descanso: 2 | 45% | 31% | 38% | 2.88 | +9% |
 | 1X2 descanso: X | 42% | 43% | 43% | 2.10 | -10% |
 | 1X2 descanso: 1 | 13% | 26% | 19% | 3.50 | -32% |

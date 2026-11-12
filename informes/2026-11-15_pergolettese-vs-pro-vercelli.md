@@ -1,7 +1,7 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 11/11 08:21_
@@ -145,7 +145,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 22% | 31% | 27% | 2.88 | -22% |
 | 1X2: X | 26% | 28% | 27% | 3.20 | -14% |
 | 1X2: 1 | 52% | 40% | 46% | 2.25 | +4% |
-| Doble oportunidad: X2 | 48% | 54% | 51% | 1.70 | -14% |
+| Doble oportunidad: X2 | 48% | 54% | 51% | 1.70 | -13% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.25 | -8% |
 | Doble oportunidad: 1X | 78% | 73% | 75% | 1.25 | -6% |
 | Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |

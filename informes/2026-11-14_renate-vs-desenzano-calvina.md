@@ -1,10 +1,10 @@
 # Renate – Desenzano Calvina
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Mino Favini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 20:02_
+_Actualizadas: 12/11 02:19_
 
 - **1X2:** 1 **1.95**  ·  X **3.25**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.70**
@@ -138,17 +138,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 25% | 26% | 26% | 3.40 | -13% |
 | 1X2: X | 29% | 28% | 28% | 3.25 | -8% |
-| 1X2: 1 | 46% | 46% | 46% | 1.95 | -10% |
+| 1X2: 1 | 46% | 46% | 46% | 1.95 | -11% |
 | Doble oportunidad: X2 | 54% | 54% | 54% | 1.70 | -8% |
 | Doble oportunidad: 12 | 71% | 73% | 72% | 1.25 | -10% |
 | Doble oportunidad: 1X | 75% | 73% | 74% | 1.25 | -7% |
 | Ambos marcan: No | 59% | 46% | 53% | 2.00 | +6% |
 | Ambos marcan: Sí | 41% | 54% | 47% | 1.73 | -19% |
 | Goles más/menos: Más de 1.5 | 62% | 73% | 67% | 1.28 | -14% |
-| Goles más/menos: Más de 2.5 | 35% | 50% | 42% | 1.90 | -19% |
+| Goles más/menos: Más de 2.5 | 35% | 50% | 42% | 1.90 | -20% |
 | Goles más/menos: Más de 3.5 | 16% | 29% | 22% | 3.25 | -27% |
 | Goles más/menos: Menos de 1.5 | 38% | 27% | 33% | 3.50 | +14% |
-| Goles más/menos: Menos de 2.5 | 65% | 50% | 58% | 1.90 | +9% |
+| Goles más/menos: Menos de 2.5 | 65% | 50% | 58% | 1.90 | +10% |
 | Goles más/menos: Menos de 3.5 | 84% | 71% | 78% | 1.33 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 34% | 28% | 2.75 | -22% |

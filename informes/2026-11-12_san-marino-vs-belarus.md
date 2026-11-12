@@ -1,10 +1,10 @@
 # San Marino – Belarus
 **Nations League** · League C - 5 · 12/11/2026 20:45 (hora España) · San Marino Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 20:02_
+_Actualizadas: 12/11 02:18_
 
 - **1X2:** 1 **13.00**  ·  X **8.50**  ·  2 **1.14**
 - **Doble oportunidad:** 1X **5.00**  ·  12 **1.05**  ·  X2 **1.01**
@@ -31,7 +31,7 @@ _Actualizadas: 11/11 20:02_
 - **Córners más/menos:**
     - 9: más **1.82** · menos **1.98**
     - 9,5: más **2.00** · menos **1.73**
-- **Córners 1X2:** 1 **8.00**  ·  X **13.00**  ·  2 **1.10**
+- **Córners 1X2:** 1 **6.50**  ·  X **11.00**  ·  2 **1.14**
 - **1X2 descanso:** 1 **15.00**  ·  X **2.75**  ·  2 **1.44**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -49,7 +49,7 @@ _Actualizadas: 11/11 20:02_
     - 2,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
 - **Anytime Goal Scorer:** Lorenzo Capicchioni **21.00**  ·  Kirill Zinovich **3.75**  ·  Zakhar Volkov **4.75**  ·  Valeri Gromyko **2.00**  ·  Kirill Pechenin **5.50**  ·  Max Ebong **2.75**  ·  German Barkovsky **1.91**  ·  Artem Kontsevoy **2.75**  ·  Valeriy Bocherov **3.75**  ·  Fausto Salicioni **10.00**  ·  Gabriel Capicchioni **10.00**  ·  Nicola Nanni **7.50**  ·  Nicolas Giacopetti **9.00**  ·  Lorenzo Lazzari **12.00**  ·  Andrea Contadini **17.00**  ·  Samuele Zannoni **17.00**  ·  Alessandro Golinucci **17.00**  ·  Marcello Mularoni **26.00**  ·  Filippo Fabbri **34.00**  ·  Simone Giocondi **17.00**  ·  Alessandro Tosi **51.00**  ·  Giacomo Benvenuti **41.00**  ·  Marco Pasolini **41.00**  ·  Tommaso Benvenuti **41.00**  ·  Dante Rossi **41.00**  ·  Karen Vardanyan **2.00**  ·  Cristian Meloni **17.00**  ·  Artem Shumanskiy **2.60**  ·  Samuel Pancotti **12.00**  ·  Gleb Shevchenko **7.50**  ·  Ivan Tikhomirov **8.00**  ·  Trofim Melnichenko **1.91**  ·  Aleksandr Selyava **4.75**  ·  Roman Begunov **5.50**  ·  Vladislav Kalinin **9.00**  ·  Kirill Gomanov **8.00**  ·  Anton Kovalev **3.40**  ·  Timofey Simanenka **2.10**  ·  Pietro Marinucci **34.00**  ·  Bartolomeo Riggioni **34.00**  ·  Enea Della Balda **15.00**  ·  Giulio Maria Bugli **34.00**  ·  Aleksandr Svirepa **3.75**  ·  Anton Lukashov **3.75**  ·  Vitali Lisakovich **1.80**
 
 ## Estadísticas de equipo

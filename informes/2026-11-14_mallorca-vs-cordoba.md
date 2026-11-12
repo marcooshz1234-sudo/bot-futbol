@@ -1,10 +1,10 @@
 # Mallorca – Cordoba
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 14:15_
+_Actualizadas: 12/11 02:19_
 
 - **1X2:** 1 **1.67**  ·  X **4.00**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.00**
@@ -200,11 +200,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 77% | 78% | 77% | 1.18 | -9% |
 | Ambos marcan: No | 45% | 44% | 45% | 2.10 | -6% |
 | Ambos marcan: Sí | 55% | 56% | 55% | 1.67 | -8% |
-| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
+| Goles más/menos: Más de 1.5 | 78% | 78% | 78% | 1.20 | -7% |
 | Goles más/menos: Más de 2.5 | 54% | 56% | 55% | 1.67 | -8% |
 | Goles más/menos: Más de 3.5 | 32% | 35% | 34% | 2.62 | -12% |
 | Goles más/menos: Menos de 1.5 | 22% | 22% | 22% | 4.33 | -4% |
-| Goles más/menos: Menos de 2.5 | 46% | 44% | 45% | 2.15 | -4% |
+| Goles más/menos: Menos de 2.5 | 46% | 44% | 45% | 2.15 | -3% |
 | Goles más/menos: Menos de 3.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 39% | 37% | 2.38 | -12% |
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 65% | 61% | 63% | 1.53 | -4% |
 | Goles del local: Más de 1.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Goles del local: Más de 2.5 | 26% | 29% | 27% | 3.25 | -11% |
-| Goles del local: Menos de 1.5 | 48% | 44% | 46% | 2.10 | -4% |
+| Goles del local: Menos de 1.5 | 48% | 44% | 46% | 2.10 | -3% |
 | Goles del local: Menos de 2.5 | 74% | 71% | 73% | 1.33 | -3% |
 | Goles del visitante: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del visitante: Más de 1.5 | 29% | 29% | 29% | 3.25 | -5% |
@@ -220,7 +220,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -6% |
 | Córners más/menos: Más de 10.5 | 38% | 46% | 42% | 2.00 | -16% |
 | Córners más/menos: Menos de 10.5 | 62% | 54% | 58% | 1.73 | +0% |
-| 1X2 descanso: X | 40% | 39% | 40% | 2.40 | -5% |
+| 1X2 descanso: X | 41% | 39% | 40% | 2.40 | -5% |
 | 1X2 descanso: 1 | 39% | 41% | 40% | 2.25 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

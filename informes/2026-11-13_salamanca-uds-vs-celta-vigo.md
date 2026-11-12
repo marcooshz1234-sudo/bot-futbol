@@ -1,24 +1,24 @@
 # Salamanca UDS – Celta Vigo
 **Copa del Rey** · Round of 128 · 13/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 20:02_
+_Actualizadas: 12/11 02:18_
 
 - **1X2:** 1 **8.00**  ·  X **5.00**  ·  2 **1.33**
-- **Doble oportunidad:** 1X **3.00**  ·  12 **1.17**  ·  X2 **1.10**
+- **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.08**
 - **Ambos marcan:** Sí **1.75**  ·  No **2.00**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.48** · menos **2.60**
-    - 3,5: más **2.10** · menos **1.67**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.62** · menos **2.20**
@@ -26,16 +26,16 @@ _Actualizadas: 11/11 20:02_
     - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.20** · menos **1.62**
-    - 3,5: más **4.00** · menos **1.22**
-    - 4,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
 - **1X2 descanso:** 1 **7.00**  ·  X **2.75**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **8.00** · menos **1.08**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **3.75**  ·  2 **1.18**

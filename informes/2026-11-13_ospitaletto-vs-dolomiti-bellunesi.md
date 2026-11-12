@@ -1,10 +1,10 @@
 # Ospitaletto – Dolomiti Bellunesi
 **Serie C** · Girone A - 14 · 13/11/2026 20:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 20:02_
+_Actualizadas: 12/11 02:18_
 
 - **1X2:** 1 **1.45**  ·  X **3.90**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **2.40**
@@ -131,7 +131,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,03 · visitante 0,55._
+_Goles esperados: local 2,03 · visitante 0,56._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -155,7 +155,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 32% | 3.00 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del local: Más de 1.5 | 60% | 58% | 59% | 1.62 | -4% |
+| Goles del local: Más de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
 | Goles del local: Más de 2.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del local: Menos de 1.5 | 40% | 42% | 41% | 2.20 | -10% |
 | Goles del local: Menos de 2.5 | 67% | 66% | 67% | 1.40 | -7% |
@@ -163,7 +163,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 11% | 21% | 16% | 4.50 | -29% |
 | Goles del visitante: Menos de 0.5 | 57% | 46% | 52% | 2.00 | +4% |
 | Goles del visitante: Menos de 1.5 | 89% | 79% | 84% | 1.17 | -1% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.30 | -10% |
-| 1X2 descanso: 1 | 51% | 46% | 48% | 1.95 | -6% |
+| 1X2 descanso: X | 40% | 39% | 39% | 2.30 | -9% |
+| 1X2 descanso: 1 | 50% | 46% | 48% | 1.95 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,45 @@
 # Tondela – Farense
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 12/11 02:19_
+
+- **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.25**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.67**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.08** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.10**  ·  2 **4.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.62**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **5.00**
+- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **9.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Tondela (total) | Tondela en casa | Farense (total) | Farense fuera |
@@ -132,4 +167,38 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,52 · visitante 1,21 · córners esperados 7,7._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 30% | 28% | 29% | 3.25 | -6% |
+| 1X2: X | 25% | 29% | 27% | 3.10 | -16% |
+| 1X2: 1 | 44% | 44% | 44% | 2.05 | -10% |
+| Doble oportunidad: X2 | 56% | 56% | 56% | 1.67 | -6% |
+| Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 70% | 73% | 71% | 1.30 | -8% |
+| Ambos marcan: No | 45% | 50% | 48% | 1.83 | -13% |
+| Ambos marcan: Sí | 55% | 50% | 52% | 1.83 | -4% |
+| Goles más/menos: Más de 1.5 | 76% | 71% | 73% | 1.33 | -3% |
+| Goles más/menos: Más de 2.5 | 51% | 45% | 48% | 2.08 | +0% |
+| Goles más/menos: Más de 3.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles más/menos: Menos de 1.5 | 24% | 29% | 27% | 3.25 | -13% |
+| Goles más/menos: Menos de 2.5 | 49% | 55% | 52% | 1.73 | -11% |
+| Goles más/menos: Menos de 3.5 | 71% | 75% | 73% | 1.25 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del local: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del local: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
+| Goles del local: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles del local: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
+| Goles del visitante: Más de 0.5 | 70% | 65% | 67% | 1.44 | -3% |
+| Goles del visitante: Más de 1.5 | 34% | 29% | 32% | 3.25 | +2% |
+| Goles del visitante: Menos de 0.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles del visitante: Menos de 1.5 | 66% | 71% | 68% | 1.33 | -9% |
+| 1X2 descanso: 2 | 25% | 23% | 24% | 4.00 | -5% |
+| 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -10% |
+| 1X2 descanso: 1 | 33% | 33% | 33% | 2.75 | -8% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

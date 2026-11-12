@@ -20,12 +20,12 @@
   },
   "Tipster Pérez": {
    "n": 4,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 2,
    "nulos": 0,
-   "unidades": -1.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
+   "unidades": -1.36,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 2.158
   },
   "INSIDER": {
    "n": 4,
@@ -180,21 +180,23 @@
   },
   "Total - Away Over 1.5": {
    "n": 1,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.14,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.877
   }
  },
  "equipo": {
   "—": {
    "n": 12,
-   "verdes": 1,
+   "verdes": 2,
    "rojos": 2,
    "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.269
+   "unidades": -0.36,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 2.146
   },
   "Real Betis": {
    "n": 2,
@@ -306,12 +308,12 @@
  "razon": {
   "goles": {
    "n": 11,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 2,
    "nulos": 0,
-   "unidades": -1.5,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.281
+   "unidades": -1.36,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 2.158
   },
   "sin razón": {
    "n": 9,
@@ -378,10 +380,12 @@
  "cuota": {
   "<1,50": {
    "n": 11,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": 0.14,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.877
   },
   "1,50-1,80": {
    "n": 10,
@@ -430,12 +434,12 @@
   },
   "UEFA Champions League Women": {
    "n": 3,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 1,
    "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.625
+   "unidades": -0.86,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.502
   },
   "UEFA Nations League": {
    "n": 3,
@@ -448,12 +452,12 @@
  "lado": {
   "visitante": {
    "n": 12,
-   "verdes": 3,
+   "verdes": 4,
    "rojos": 2,
    "nulos": 0,
-   "unidades": -1.04,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.784
+   "unidades": -0.9,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.661
   },
   "partido": {
    "n": 11,
@@ -486,12 +490,12 @@
   },
   "goles": {
    "n": 11,
-   "verdes": 1,
+   "verdes": 2,
    "rojos": 0,
    "nulos": 0,
-   "unidades": 0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.667
+   "unidades": 0.64,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.544
   },
   "motivación": {
    "n": 4,
@@ -545,12 +549,12 @@
  "valor_pinnacle": {
   "?": {
    "n": 28,
-   "verdes": 5,
+   "verdes": 6,
    "rojos": 6,
    "nulos": 0,
-   "unidades": -2.04,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 3.709
+   "unidades": -1.9,
+   "resueltos_con_cuota": 7,
+   "prob_cuota": 4.586
   }
  }
 }

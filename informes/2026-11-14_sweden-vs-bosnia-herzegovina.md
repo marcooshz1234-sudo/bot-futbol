@@ -1,10 +1,10 @@
 # Sweden – Bosnia & Herzegovina
-**Nations League** · League B - 5 · 14/11/2026 20:45 (hora España)
+**Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Strawberry Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 11/11 02:10_
+_Actualizadas: 12/11 02:19_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.50**
@@ -21,7 +21,7 @@ _Actualizadas: 11/11 02:10_
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
+    - 1,5: más **1.50** · menos **2.50**
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
@@ -30,27 +30,27 @@ _Actualizadas: 11/11 02:10_
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.85** · menos **1.95**
 - **Córners 1X2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.40**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.50**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **1.30**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **6.00**
+- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **5.50**
 - **Win Both Halves:** 1 **3.75**  ·  2 **21.00**
 - **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **15.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.88**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
-- **Anytime Goal Scorer:** Genesis Antwi **6.00**  ·  Amar Dedic **13.00**  ·  Gabriel Gudmundsson **8.00**  ·  Sebastian Nanasi **2.88**  ·  Daniel Svensson **8.00**  ·  Jesper Karlstrom **6.50**  ·  Victor Lindelof **8.00**  ·  Viktor Gyokeres **2.05**  ·  Samed Bazdar **4.50**  ·  Esmir Bajraktarevic **5.50**  ·  Ivan Basic **10.00**  ·  Benjamin Tahirovic **12.00**  ·  Dzenis Burnic **10.00**  ·  Nikola Katic **13.00**  ·  Stjepan Radeljic **13.00**  ·  Nihad Mujakic **13.00**  ·  Felix Beijmo **8.00**  ·  Benjamin Nygren **2.50**  ·  Ermin Mahmic **6.00**  ·  Arjan Malic **12.00**  ·  Tarik Muharemovic **17.00**  ·  Gustaf Lagerbielke **8.00**  ·  Besfort Zeneli **4.50**  ·  Patrik Walemark **2.50**  ·  Elliot Stroud **4.00**  ·  Dennis Hadzikadunic **21.00**  ·  Ivan Sunjic **13.00**  ·  Matej Deket **4.33**  ·  Anthony Elanga **3.50**  ·  Kerim Alajbegovic **6.50**  ·  Alexander Isak **2.05**  ·  Yasin Ayari **5.50**  ·  Dejan Kulusevski **2.88**  ·  Jovo Lukic **4.50**  ·  Amar Memic **9.00**  ·  Ermedin Demirovic **4.33**  ·  Haris Tabakovic **4.33**  ·  Hugo Larsson **4.50**  ·  Alieu Njie **3.50**  ·  Eric Smith **8.00**  ·  Sead Kolasinac **21.00**  ·  Hjalmar Ekdal **8.00**  ·  Alexander Bernhardsson **4.50**  ·  Armin Gigovic **9.00**  ·  Zinedin Smajlovic **13.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.92**  ·  Menos de 4 **1.88**
+- **Anytime Goal Scorer:** Genesis Antwi **6.00**  ·  Amar Dedic **13.00**  ·  Gabriel Gudmundsson **8.00**  ·  Sebastian Nanasi **2.88**  ·  Daniel Svensson **8.00**  ·  Jesper Karlstrom **6.50**  ·  Victor Lindelof **8.00**  ·  Viktor Gyokeres **1.91**  ·  Samed Bazdar **4.50**  ·  Esmir Bajraktarevic **5.00**  ·  Ivan Basic **10.00**  ·  Benjamin Tahirovic **11.00**  ·  Dzenis Burnic **10.00**  ·  Nikola Katic **13.00**  ·  Stjepan Radeljic **13.00**  ·  Nihad Mujakic **13.00**  ·  Felix Beijmo **8.00**  ·  Benjamin Nygren **2.50**  ·  Ermin Mahmic **6.00**  ·  Arjan Malic **11.00**  ·  Tarik Muharemovic **17.00**  ·  Gustaf Lagerbielke **8.00**  ·  Besfort Zeneli **4.50**  ·  Patrik Walemark **2.50**  ·  Elliot Stroud **4.00**  ·  Dennis Hadzikadunic **21.00**  ·  Ivan Sunjic **13.00**  ·  Matej Deket **4.33**  ·  Anthony Elanga **3.50**  ·  Kerim Alajbegovic **6.50**  ·  Alexander Isak **2.05**  ·  Yasin Ayari **5.00**  ·  Dejan Kulusevski **2.88**  ·  Jovo Lukic **4.50**  ·  Amar Memic **9.00**  ·  Ermedin Demirovic **4.33**  ·  Haris Tabakovic **4.33**  ·  Hugo Larsson **4.50**  ·  Alieu Njie **3.50**  ·  Eric Smith **8.00**  ·  Sead Kolasinac **21.00**  ·  Hjalmar Ekdal **8.00**  ·  Alexander Bernhardsson **4.50**  ·  Armin Gigovic **9.00**  ·  Zinedin Smajlovic **13.00**
 
 ## Estadísticas de equipo
 | | Sweden (total) | Sweden en casa | Bosnia & Herzegovina (total) | Bosnia & Herzegovina fuera |

@@ -477,7 +477,12 @@
    "liga": "UEFA Champions League Women",
    "cuota_bet365": 1.12,
    "prob_cuota": 0.877
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   6
+  ]
  },
  {
   "tipster": "INSIDER",

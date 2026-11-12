@@ -1,7 +1,7 @@
 # Valencia W – Granada
 **Liga F** · Regular Season - 11 · 15/11/2026 18:15 (hora España) · Estadio Antonio Puchades
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 11/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 02:20._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -97,6 +97,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 1,11._
+_Goles esperados: local 0,92 · visitante 1,11._
 
 _Sin cuotas de Bet365 todavía para comparar._

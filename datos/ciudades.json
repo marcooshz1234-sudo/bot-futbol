@@ -147,5 +147,50 @@
  "Puertollano|Spain": [
   38.68712,
   -4.10734
+ ],
+ "Luxembourg|World": [
+  49.60982,
+  6.13268
+ ],
+ "Amsterdam|World": [
+  52.37403,
+  4.88969
+ ],
+ "Ospitaletto|Italy": [
+  45.55221,
+  10.07562
+ ],
+ "Villares de la Reina|Spain": [
+  41.00832,
+  -5.64881
+ ],
+ "Chisinau|World": null,
+ "Glasgow|World": [
+  55.86515,
+  -4.25763
+ ],
+ "Vaduz|World": [
+  47.14151,
+  9.52154
+ ],
+ "Andorra|World": [
+  40.97655,
+  -0.44721
+ ],
+ "Kosice|World": [
+  48.71441,
+  21.25802
+ ],
+ "Maribor|World": [
+  46.55583,
+  15.64593
+ ],
+ "Belgrade|World": [
+  44.80401,
+  20.46513
+ ],
+ "Plovdiv|World": [
+  42.15387,
+  24.75001
  ]
 }
