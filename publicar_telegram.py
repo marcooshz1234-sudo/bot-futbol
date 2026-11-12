@@ -42,7 +42,7 @@ LIMITE_TEXTO = 4096
 LIMITE_PIE_FOTO = 1024
 
 
-def api(token, metodo, datos=None, archivo=None):
+def api(token, metodo, datos=None, archivo=None, campo="photo", tipo="image/jpeg"):
     url = f"https://api.telegram.org/bot{token}/{metodo}"
     if archivo:
         frontera = uuid.uuid4().hex
@@ -50,8 +50,8 @@ def api(token, metodo, datos=None, archivo=None):
         for k, v in datos.items():
             cuerpo += (f"--{frontera}\r\nContent-Disposition: form-data; name=\"{k}\"\r\n\r\n{v}\r\n").encode()
         nombre = Path(archivo).name
-        cuerpo += (f"--{frontera}\r\nContent-Disposition: form-data; name=\"photo\"; filename=\"{nombre}\"\r\n"
-                   f"Content-Type: image/jpeg\r\n\r\n").encode()
+        cuerpo += (f"--{frontera}\r\nContent-Disposition: form-data; name=\"{campo}\"; filename=\"{nombre}\"\r\n"
+                   f"Content-Type: {tipo}\r\n\r\n").encode()
         cuerpo += Path(archivo).read_bytes() + f"\r\n--{frontera}--\r\n".encode()
         req = Request(url, data=cuerpo, headers={"Content-Type": f"multipart/form-data; boundary={frontera}"})
     else:
@@ -72,6 +72,32 @@ def api(token, metodo, datos=None, archivo=None):
                 raise RuntimeError("Envío sin confirmación: comprueba el canal antes de repetir") from None
             time.sleep(5)
     raise RuntimeError("Telegram no responde")
+
+
+CUOTA_ANIMACION = 3.0   # 12/11 (Marcos: «la del verde solo para buenas cuotas acertadas»)
+ANIMACION_VERDE = RAIZ / "publicaciones" / "media" / "marca" / "verde.mp4"
+
+
+def cuota_de_verde(p, texto):
+    """Cuota de un verde («¡VERDE x3,42!»); None si no es un verde."""
+    if not (p.get("resultado") == "verde" or p.get("verde_de") or "verde" in p.get("id", "")):
+        return None
+    m = re.search(r"VERDE\s*x\s*(\d+[.,]\d+)", texto, re.I) or re.search(r"Cuota\s*@?\s*(\d+[.,]\d+)", texto)
+    return float(m.group(1).replace(",", ".")) if m else None
+
+
+def animacion_verde(token, canal, p, texto):
+    """Tras un verde de buena cuota (3,00 o más), el «¡VERDE! PARA DENTRO» animado (imagen de la marca)."""
+    c = cuota_de_verde(p, texto)
+    if not c or c < CUOTA_ANIMACION or not ANIMACION_VERDE.exists():
+        return False
+    try:
+        api(token, "sendAnimation", {"chat_id": canal}, archivo=ANIMACION_VERDE, campo="animation", tipo="video/mp4")
+        p["animacion"] = True
+        return True
+    except Exception as e:
+        print(f"Animación del verde {p['id']}: {e}")
+        return False
 
 
 def preparar_texto(texto):
@@ -213,6 +239,7 @@ def main(objetivo=None):
         p["enviado"] = ahora.strftime("%Y-%m-%dT%H:%M")
         p["mensaje_id"] = r["result"]["message_id"]
         p.pop("error", None)
+        animacion_verde(token, canal, p, texto)
         cambios += 1
         print(f"Publicada: {p['id']}")
         guardar_estado()
