@@ -218,7 +218,8 @@ def main(objetivo=None):
             continue
         from bot import partido_caido
         from bot import cuota_baja
-        motivo = partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"]))
+        from bot import mercado_prohibido
+        motivo = partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"])) or mercado_prohibido(p)
         if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica (12/11: ni con cuota < 1,35)
             p["caducada"] = motivo
             cambios += 1

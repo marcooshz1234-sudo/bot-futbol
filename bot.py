@@ -206,6 +206,22 @@ def cuota_baja(post, texto=None):
     return None
 
 
+def mercado_prohibido(post):
+    """12/11 (Marcos: «no pueden haber estos errores, llevamos mucho ya»): un post NUESTRO (no copiado de un canal)
+    con un mercado prohibido (más de 2,5 goles, 1ª parte, tarjetas totales, tiros del partido…) no sale nunca,
+    lo haya hecho el bot o Claude a mano. Las copias de canales sí pueden («y más si lo dicen ellos»)."""
+    pid = post.get("id", "")
+    if post.get("origen") == "tipster" or "-tip-" in pid or post.get("verde_de") or post.get("resultado") \
+            or any(k in pid for k in ("verde", "rojo", "balance", "ganadores", "marcadores")):
+        return None
+    from picks import excluido
+    for s in post.get("sel") or []:
+        partes = str(s).split("|")
+        if len(partes) == 3 and excluido(partes[1], partes[2]):
+            return f"mercado prohibido en nuestras combis: {partes[1]} {partes[2]}"
+    return None
+
+
 def partido_caido(post):
     """07/11 (Marcos: «piensa en todo lo que puede fallar»): texto con el motivo si algún partido de un post
     pendiente se ha aplazado/suspendido o ya ha terminado; None si se puede publicar."""
