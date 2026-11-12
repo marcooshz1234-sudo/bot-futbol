@@ -573,6 +573,11 @@ def datos_clave(p, picks_partidos):
         t = re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", t)
         if t and not PRENSA.search(t) and t not in frases and len(frases) < 7:
             frases.append(t)
+    f = p.get("ficha") or {}
+    for lado, js in (f.get("bajas_importantes") or {}).items():   # lo primero: las bajas importantes
+        quien = es(p.get(lado) or "")
+        for j in js[:2]:
+            poner(f"Baja importante en {quien}: {j}")
     for g in (leer(DATOS / "picks_partidos.json", {}) or {}).get(p["fecha"][:10]) or []:
         if g["partido_id"] == p["id"]:
             for t in g.get("datos") or []:
@@ -600,10 +605,6 @@ def datos_clave(p, picks_partidos):
             poner(f"{nombre} ha marcado en sus últimos {n} partidos")
         if (pc.get("ambos") or 0) >= 75:
             poner(f"Ambos marcan en el {pc['ambos']} % de los partidos de {nombre}")
-    for lado, js in (f.get("bajas_importantes") or {}).items():
-        quien = es(p.get(lado) or "")
-        for j in js[:2]:
-            poner(f"Baja importante en {quien}: {j}")
     return frases
 
 
