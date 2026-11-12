@@ -4737,7 +4737,7 @@
   {
     "id": "2026-11-12-combi-nations-th-1",
     "fecha": "2026-11-12T17:15",
-    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x2,82! 🍀\n\n🇨🇾 Chipre marca\n🇦🇱 Más de 1,5 goles en Albania–Finlandia\n🇲🇪 Montenegro marca 2 o más",
+    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀\n\n🇨🇾 Chipre marca\n🇧🇪 Bélgica marca 2 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia",
     "foto": null,
     "origen": "claude",
     "directo": true,
@@ -4746,15 +4746,15 @@
     ],
     "sel": [
       "1528959|Total - Away|Over 0.5",
-      "1528963|Goals Over/Under|Over 1.5",
-      "1545613|Total - Home|Over 1.5"
+      "1528958|Total - Away|Over 1.5",
+      "1528963|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
       1.36,
-      1.44,
+      1.57,
       1.44
     ],
-    "nota": "12/11 Marcos: más contenido para Threads"
+    "nota": "12/11 Marcos: más contenido para Threads · 17:05 «Montenegro marca 2+» iba en 3 posts (multi y 2º pick) → Bélgica marca 2+"
   },
   {
     "id": "2026-11-12-combi-nations-th-2",

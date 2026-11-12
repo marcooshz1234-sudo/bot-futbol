@@ -551,8 +551,10 @@ def main(objetivo=None):
         if not (p.get("redes") or {}) and cuota_baja(p, p["texto"]):   # 12/11: nada con cuota < 1,35
             continue
         from bot import mercado_prohibido
-        if not (p.get("redes") or {}) and mercado_prohibido(p):   # 12/11: ni más de 2,5, ni 1ª parte, ni tarjetas totales
-            print(f"No sale {p['id']}: {mercado_prohibido(p)}")
+        from comprobar_post import bloquea
+        motivo_ = None if (p.get("redes") or {}) else (mercado_prohibido(p) or bloquea(p, p["texto"]))
+        if motivo_:   # 12/11: TODAS las reglas (comprobar_post.py): si falla una grave, no sale
+            print(f"No sale {p['id']}: {motivo_}")
             continue
         if p.get("ganadores_img") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             continue   # 07/11: el GANADORES WIN nunca sin su foto (se espera a que imagenes.py la haga)

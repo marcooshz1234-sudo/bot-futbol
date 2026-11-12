@@ -957,7 +957,7 @@ def noche_fija():
     return DATOS / "noche_elegidos.json"
 
 
-def ya_publicadas(dia):
+def ya_publicadas(dia, excluir=None):
     """Selecciones de los posts de ese día que YA han salido (cola a mano y auto publicados) y, 12/11, también los
     de la cola a mano que están programados (los de Threads de Claude: Montenegro 2+ salía en 3 posts).
     Los «ganadores» cuentan para no chocar pero no para el máx. 2 (como en el vigilante): van con 0 usos."""
@@ -971,6 +971,8 @@ def ya_publicadas(dia):
     for p in cola + (leer(pub / "auto.json", []) or []):
         salio = p.get("enviado") or any((p.get("redes") or {}).values()) or p["id"] in env
         programado = p in cola and p["id"] not in fuera and not p.get("caducada")
+        if p["id"] == excluir:   # 12/11 (comprobar_post): el propio post no cuenta contra sí mismo
+            continue
         if p["id"].startswith(dia) and (salio or programado) and not p.get("verde_de") and not p.get("borrar"):
             for s_ in p.get("sel") or []:
                 if str(s_).count("|") == 2:

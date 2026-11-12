@@ -219,7 +219,9 @@ def main(objetivo=None):
         from bot import partido_caido
         from bot import cuota_baja
         from bot import mercado_prohibido
-        motivo = partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"])) or mercado_prohibido(p)
+        from comprobar_post import bloquea   # 12/11: TODAS las reglas en un sitio (comprobar_post.py)
+        motivo = partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"])) or mercado_prohibido(p) \
+            or bloquea(p, control.get("textos", {}).get(p["id"]))
         if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica (12/11: ni con cuota < 1,35)
             p["caducada"] = motivo
             cambios += 1
