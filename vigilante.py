@@ -123,6 +123,8 @@ def revisar(ahora=None):
                 import imagenes
                 texto = (control.get("textos") or {}).get(p["id"], p["texto"])   # como imagenes.pendientes_de
                 bien = jpg.exists() and h.exists() and h.read_text().strip() == imagenes.huella(dict(p, texto=texto))
+                if p.get("solo_en") and jpg.exists():   # 12/11: verdes agrupados: su .jpg es copia de la tarjeta, sin huella
+                    bien = True
             except Exception:
                 bien = jpg.exists()
             if not bien and t < ahora + timedelta(minutes=15):

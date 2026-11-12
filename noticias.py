@@ -49,7 +49,10 @@ TIPOS = {   # tipo → palabras (en minúsculas y sin tildes); \b para no pillar
 }
 HACE = timedelta(hours=36)
 RUIDO = (r"\bpronostico|\bcuotas\b|\bapuestas?\b|\bmomios\b|donde ver|\ben vivo\b|\ben directo\b|\bhorario|"
-         r"resultados en vivo|\bstandings\b|\bestadisticas, resultados|agenda de la tv|partidos de hoy|como ver")
+         r"resultados en vivo|\bstandings\b|\bestadisticas, resultados|agenda de la tv|partidos de hoy|como ver|"
+         # 12/11: otros deportes (salió «Los Pumas… enfrentar a Italia», de rugby, en Italia–Francia)
+         r"\brugby\b|\blos pumas\b|\ball blacks\b|\bbaloncesto\b|\bbasket|\beuroliga\b|\bbalonmano\b|\bvoleibol\b|"
+         r"\bfutbol sala\b|\btenis\b|\bnba\b")
 
 
 def norm(s):
@@ -152,7 +155,7 @@ def main(forzar=False):
             nombres = [corto(eq), es(eq)]
             for n in (buscar(nombres) if nombres[0] != nombres[1] else []) or buscar(corto(eq)):   # si el «OR» no da nada, como antes
                 n["equipo"], n["tipos"] = eq, tipos(n["titulo"])
-                if not any(x["titulo"] == n["titulo"] for x in lista) and not re.search(RUIDO, norm(n["titulo"])):
+                if not any(x["titulo"] == n["titulo"] for x in lista) and not re.search(RUIDO, norm(n["titulo"] + " · " + str(n.get("fuente") or ""))):
                     lista.append(n)
                     por_equipo[eq] = por_equipo.get(eq, 0) + 1
             time.sleep(1)

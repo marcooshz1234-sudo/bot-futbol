@@ -21,13 +21,15 @@ def post(i, fecha, **k):
 
 
 class TestVigilante(unittest.TestCase):
-    def revisar(self, posts, control=None, caido=None, escalera=True):
+    def revisar(self, posts, control=None, caido=None, escalera=True, media=()):
         if escalera:   # la escalera de hoy ya está (si no, a las 12:00 siempre avisa)
             posts = posts + [post("escalera", "2026-11-12T11:00", sel=[], cuotas=[], enviado="x",
                                   redes={"threads": "1", "instagram": "2"})]
         with tempfile.TemporaryDirectory() as d:
             pub = Path(d)
             (pub / "media").mkdir()
+            for m in media:
+                (pub / "media" / m).write_text("x")
             (pub / "control.json").write_text(json.dumps(control or {}))
             with mock.patch.object(vigilante, "todos", lambda: posts), mock.patch.object(vigilante, "PUB", pub), \
                     mock.patch("bot.partido_caido", caido or (lambda p: None)), \
@@ -54,6 +56,11 @@ class TestVigilante(unittest.TestCase):
 
     def test_foto_sin_hacer(self):
         self.assertIn("foto", self.revisar([post(1, "2026-11-12T12:10")]))
+
+    def test_foto_grupo_verdes(self):   # 12/11: el grupo de verdes (solo TG+IG) tiene .jpg sin huella: no es fallo
+        g = post("verde-grupo-2158", "2026-11-12T12:10", solo_en=["telegram", "instagram"])
+        self.assertNotIn("foto", self.revisar([g], media=["2026-11-12-verde-grupo-2158.jpg"]))
+        self.assertIn("foto", self.revisar([g]))
 
     def test_falta_tarjeta(self):
         self.assertIn("tarjeta", self.revisar([post(1, "2026-11-12T12:10", tarjeta={"x": 1})]))
