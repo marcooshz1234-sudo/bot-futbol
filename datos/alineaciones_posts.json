@@ -1572,25 +1572,306 @@
    }
   },
   "1528958": {
-   "hora": "2026-11-12T17:21:07.277395+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-12T17:32:05.907511+01:00",
+   "xi": [
+    "U. Çakır",
+    "O. Aydın",
+    "M. Demiral",
+    "O. Kabak",
+    "F. Kadıoğlu",
+    "İ. Yüksek",
+    "O. Kökçü",
+    "Y. Akgün",
+    "A. Güler",
+    "B. Yılmaz",
+    "E. Ünal",
+    "S. Lammens",
+    "T. Castagne",
+    "N. Ngoy",
+    "B. Mechele",
+    "M. De Cuyper",
+    "K. De Bruyne",
+    "N. Raskin",
+    "Y. Tielemans",
+    "Diego Moreira",
+    "C. De Ketelaere",
+    "J. Doku"
+   ],
+   "banquillo": [
+    "M. Eskihellaç",
+    "E. Elmalı",
+    "I. Fakili",
+    "D. Gül",
+    "A. Kaplan",
+    "E. Topçu",
+    "C. Uzun",
+    "H. Çalhanoğlu",
+    "Z. Çelik",
+    "S. Özcan",
+    "B. Özer",
+    "E. Destanoğlu",
+    "H. Cuypers",
+    "M. Godts",
+    "M. Keita",
+    "D. Lukebakio",
+    "J. Kongolo",
+    "M. Penders",
+    "K. Sabbe",
+    "J. Seys",
+    "A. Theate",
+    "L. Trossard",
+    "H. Vanaken",
+    "M. Vandevoordt"
+   ],
+   "equipos": {
+    "777": [
+     {
+      "n": "U. Çakır",
+      "pos": "G"
+     },
+     {
+      "n": "O. Aydın",
+      "pos": "D"
+     },
+     {
+      "n": "M. Demiral",
+      "pos": "D"
+     },
+     {
+      "n": "O. Kabak",
+      "pos": "D"
+     },
+     {
+      "n": "F. Kadıoğlu",
+      "pos": "D"
+     },
+     {
+      "n": "İ. Yüksek",
+      "pos": "M"
+     },
+     {
+      "n": "O. Kökçü",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Akgün",
+      "pos": "M"
+     },
+     {
+      "n": "A. Güler",
+      "pos": "M"
+     },
+     {
+      "n": "B. Yılmaz",
+      "pos": "M"
+     },
+     {
+      "n": "E. Ünal",
+      "pos": "F"
+     }
+    ],
+    "1": [
+     {
+      "n": "S. Lammens",
+      "pos": "G"
+     },
+     {
+      "n": "T. Castagne",
+      "pos": "D"
+     },
+     {
+      "n": "N. Ngoy",
+      "pos": "D"
+     },
+     {
+      "n": "B. Mechele",
+      "pos": "D"
+     },
+     {
+      "n": "M. De Cuyper",
+      "pos": "D"
+     },
+     {
+      "n": "K. De Bruyne",
+      "pos": "M"
+     },
+     {
+      "n": "N. Raskin",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Tielemans",
+      "pos": "M"
+     },
+     {
+      "n": "Diego Moreira",
+      "pos": "F"
+     },
+     {
+      "n": "C. De Ketelaere",
+      "pos": "F"
+     },
+     {
+      "n": "J. Doku",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1528959": {
-   "hora": "2026-11-12T17:21:07.277395+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-12T17:32:05.907511+01:00",
+   "xi": [
+    "A. Mishiev",
+    "A. Bandikyan",
+    "G. Harutyunyan",
+    "S. Mkrtchyan",
+    "N. Tiknizyan",
+    "K. Hovhannisyan",
+    "U. Iwu",
+    "E. Grigoryan",
+    "A. Serobyan",
+    "Z. Shaghoyan",
+    "A. Gharibyan",
+    "Fabiano",
+    "L. Konomis",
+    "H. Kyprianou",
+    "K. Laifis",
+    "G. Malekkides",
+    "L. Loizou",
+    "P. Andreou",
+    "G. Kastanos",
+    "M. Edwards",
+    "I. Pikis",
+    "I. Pittas"
+   ],
+   "banquillo": [
+    "E. Sevikyan",
+    "O. Čančarević",
+    "A. Beglaryan",
+    "G. Ranos",
+    "N. Grigoryan",
+    "E. Piloyan",
+    "H. Harutyunyan",
+    "N. Hovhannisyan",
+    "G. Manvelyan",
+    "K. Muradyan",
+    "A. Petrosyan",
+    "K. Artymatas",
+    "S. Georgiou",
+    "I. Kosti",
+    "C. Kyriakou",
+    "J. Mall",
+    "A. Neophytou",
+    "N. Panagiotou",
+    "A. Paraskevas",
+    "M. Tzionis",
+    "Charalambos Charalambous",
+    "E. Antoniou",
+    "A. Shikkis"
+   ],
+   "equipos": {
+    "1094": [
+     {
+      "n": "A. Mishiev",
+      "pos": "G"
+     },
+     {
+      "n": "A. Bandikyan",
+      "pos": "D"
+     },
+     {
+      "n": "G. Harutyunyan",
+      "pos": "D"
+     },
+     {
+      "n": "S. Mkrtchyan",
+      "pos": "D"
+     },
+     {
+      "n": "N. Tiknizyan",
+      "pos": "D"
+     },
+     {
+      "n": "K. Hovhannisyan",
+      "pos": "M"
+     },
+     {
+      "n": "U. Iwu",
+      "pos": "M"
+     },
+     {
+      "n": "E. Grigoryan",
+      "pos": "M"
+     },
+     {
+      "n": "A. Serobyan",
+      "pos": "M"
+     },
+     {
+      "n": "Z. Shaghoyan",
+      "pos": "M"
+     },
+     {
+      "n": "A. Gharibyan",
+      "pos": "F"
+     }
+    ],
+    "1106": [
+     {
+      "n": "Fabiano",
+      "pos": "G"
+     },
+     {
+      "n": "L. Konomis",
+      "pos": "D"
+     },
+     {
+      "n": "H. Kyprianou",
+      "pos": "D"
+     },
+     {
+      "n": "K. Laifis",
+      "pos": "D"
+     },
+     {
+      "n": "G. Malekkides",
+      "pos": "D"
+     },
+     {
+      "n": "L. Loizou",
+      "pos": "M"
+     },
+     {
+      "n": "P. Andreou",
+      "pos": "M"
+     },
+     {
+      "n": "G. Kastanos",
+      "pos": "M"
+     },
+     {
+      "n": "M. Edwards",
+      "pos": "M"
+     },
+     {
+      "n": "I. Pikis",
+      "pos": "F"
+     },
+     {
+      "n": "I. Pittas",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1644370": {
-   "hora": "2026-11-12T17:21:07.277395+01:00",
+   "hora": "2026-11-12T17:32:05.907511+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1638295": {
-   "hora": "2026-11-12T17:21:07.277395+01:00",
+   "hora": "2026-11-12T17:32:05.907511+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
