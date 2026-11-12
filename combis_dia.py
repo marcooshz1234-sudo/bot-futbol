@@ -95,7 +95,7 @@ def tiros_jugadores(ex, hist, base, lok, vok):
 
 
 PAISES_ES = {"Spain": "España", "France": "Francia", "England": "Inglaterra", "Italy": "Italia", "Germany": "Alemania",
-             "Netherlands": "Países Bajos", "Belgium": "Bélgica", "Croatia": "Croacia", "Czechia": "Chequia",
+             "Netherlands": "Países Bajos", "Belgium": "Bélgica", "Croatia": "Croacia", "Czechia": "Chequia", "Czech Republic": "Chequia",
              "Türkiye": "Turquía", "Denmark": "Dinamarca", "Norway": "Noruega", "Wales": "Gales", "Greece": "Grecia",
              "Switzerland": "Suiza", "Scotland": "Escocia", "Iceland": "Islandia", "Sweden": "Suecia", "Poland": "Polonia",
              "Romania": "Rumanía", "Hungary": "Hungría", "Ukraine": "Ucrania", "Slovakia": "Eslovaquia",
