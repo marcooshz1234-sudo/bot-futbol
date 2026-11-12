@@ -1557,7 +1557,7 @@ def escribir_md(s):
     for dia, d in s["dias"].items():
         f = datetime.fromisoformat(dia)
         out += [f"## {dias_es[f.weekday()]} {f.strftime('%d/%m')}", ""]
-        for nombre, titulo in (("segura", "🔒 Combi segura"), ("cuota_3", "💥 Combi cuota 3-4"), ("loca", "🤪 Combi loca")):
+        for nombre, titulo in (("segura", "🧠 Combi de datos"), ("cuota_3", "💥 Combi cuota 3-4"), ("loca", "🤪 Combi loca")):
             c = d["combis"][nombre]
             if c:
                 out.append(f"**{titulo} · cuota {num(c['cuota'])}**")

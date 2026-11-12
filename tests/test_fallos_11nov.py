@@ -292,6 +292,20 @@ class TestFallos11Nov(unittest.TestCase):
         # las combis de UN partido piden la cuota (plantillas)
         self.assertIn("pide_cuota=True", (RAIZ / "plantillas.py").read_text(encoding="utf-8"))
 
+    def test_nunca_seguro_en_lo_publicado(self):
+        # 12/11 (Marcos: «nunca pongas nada seguro o asegurado»): ninguna frase entre comillas del código que se publica
+        import ast
+        for f in ("plantillas.py", "copiar_tipsters.py", "verdes_auto.py", "combis_dia.py", "fotos.py", "ganadores_win.py",
+                  "cazador.py", "puente/puente.py", "razones.py", "ticket_verde.py", "panel_datos.py", "avisos.py"):
+            for n in ast.walk(ast.parse((RAIZ / f).read_text(encoding="utf-8"))):
+                if isinstance(n, ast.Constant) and isinstance(n.value, str) and not n.value.startswith(("pick-seguro", "-pick-seguro")) \
+                        and n.value not in ("SEGURA", "segura", "seguro", "seguros", "combi-segura") and "|" not in n.value:   # claves y patrones internos
+                    if re.search(r"(?<![a-z_-])(seguro|segura|asegurad[oa])(?![a-z_-])", n.value, re.I) and \
+                            not re.search(r"\bid\b|pick-seguro|seguro2|SEGURO_|^\s*\d|«|\n\s{4}", n.value):
+                        self.fail(f"{f}: «{n.value[:70]}»")
+        for f in ("docs/index.html", "docs/panel/index.html"):
+            self.assertNotIn("Combi segura", (RAIZ / f).read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()

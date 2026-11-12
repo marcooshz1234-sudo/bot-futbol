@@ -62,7 +62,7 @@ def main():
         for m in intentar(lambda: llamar("GET", f"{INSTAGRAM}/me/media", {"fields": "caption,like_count,comments_count,media_type",
                                                                           "limit": 60, "access_token": ig})["data"]) or []:
             t = (m.get("caption") or "").upper()
-            tipo = ("Combi loca" if "LOCA" in t else "Combi segura" if "SEGURA" in t else "Cuota 3" if "CUOTA 3" in t
+            tipo = ("Combi loca" if "LOCA" in t else "Combi de datos" if "SEGURA" in t else "Cuota 3" if "CUOTA 3" in t
                     else "Escalera" if "ESCALERA" in t else "Picks" if "PICKS" in t else "Verdes/balance"
                     if ("VERDE" in t[:40] or "BALANCE" in t or "ASÍ FUE" in t) else "Combi de partido" if "🆚" in (m.get("caption") or "") else "Otros")
             if m.get("media_type") == "VIDEO":

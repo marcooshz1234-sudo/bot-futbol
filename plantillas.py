@@ -115,7 +115,7 @@ def intro(titulo):
     if "GANA O EMPATA" in t:
         return f"Os dejo la de «gana o empata» para el {d} 🛡️"
     if "SEGURA" in t:
-        return f"Vamos con la segura del {d} familia 🔒"
+        return f"Vamos con la combi del {d} familia 🔥"
     if "COMBILOCAS" in t:
         return f"Vamos con la combi del {d} familia 🔥"
     return titulo
@@ -360,13 +360,13 @@ def texto_seguro(p, dia=""):
             lineas += ["", f"📊 Historial: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
         lineas += ["", "🔞 Juega con cabeza", CIERRE_TELEGRAM]
         return "\n".join(lineas)
-    lineas = ["🔒 PICK SEGURO DEL DÍA 🔒", "",
+    lineas = ["🍀 PICK DEL DÍA 🍀", "",
               f"{band} {es(p['local'])} – {es(p['visitante'])} · {p['fecha'][11:16]}",
               f"✅ {con_equipo(p)}", "",
               f"🎯 Cuota {num(p['cuota'])}", f"💶 10€ → {num(p['cuota'] * 10)}€"]
     if v + r:
         roi = 100 * gan / (10 * (v + r))
-        lineas += ["", f"📊 Pick seguro: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
+        lineas += ["", f"📊 Pick del día: {v} ✅ · {r} ❌ · {'+' if roi >= 0 else ''}{roi:.0f} %".replace(".", ",")]
     lineas += ["", "🍀 Uno al día, sin locuras"]
     return "\n".join(lineas)
 
@@ -645,7 +645,7 @@ def posts_del_dia(dia, d):
         combis = {}   # las combis de antes (11:00, 12:00, 19:00, víspera…) ya no salen
     # 26/10: la cuota va en la primera línea (los títulos con número se veían el triple)
     for c_clave, hora, titulo in (("cuota_3", (11, 0), "🔥⚽ COMBILOCAS — ¡COMBI DEL {n} x{c}! 🍀"),
-                                  ("segura", (12, 0), "🔒⚽ COMBILOCAS — ¡LA SEGURA DEL {n} x{c}! 🍀"),
+                                  ("segura", (12, 0), "🔥⚽ COMBILOCAS — ¡LA COMBI DEL {n} x{c}! 🍀"),
                                   ("loca", (19, 0), "🤪🔥 COMBILOCAS — ¡LA LOCA DEL {n} x{c}! 🤪")):
         c = combis.get(c_clave)
         if not c:

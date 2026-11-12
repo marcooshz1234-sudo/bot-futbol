@@ -13,7 +13,7 @@ from bot import DATOS, MADRID, RAIZ, leer
 from publicar_telegram import api
 
 ESTADO = DATOS / "avisos.json"
-NOMBRE = {"segura": "COMBI SEGURA", "cuota_3": "COMBI CUOTA 3", "loca": "COMBI LOCA"}
+NOMBRE = {"segura": "COMBI DE DATOS", "cuota_3": "COMBI CUOTA 3", "loca": "COMBI LOCA"}
 
 
 def main():

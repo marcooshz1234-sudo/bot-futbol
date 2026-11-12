@@ -93,7 +93,7 @@ def posts_del_dia(dia, d):
         })
     combis = d.get("combis") or {}
     plantillas = {
-        "segura": (12, 0, f"🔒 COMBI SEGURA DEL {nombre_dia} 🔒"),
+        "segura": (12, 0, f"🔥 COMBI DEL {nombre_dia} 🔥"),
         "cuota_3": (11, 0, None),
         "loca": (19, 0, f"🤪 COMBI LOCA DEL {nombre_dia} 🤪"),
     }

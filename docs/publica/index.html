@@ -367,7 +367,7 @@ function vPicks(){
     const gd = (D.goleadores_hoy||[]).filter(x => x.fecha.slice(0,10)===dia && x.cuota).sort((a,b)=>(b.valor??-9)-(a.valor??-9))[0];
     if(gd) h += `<h2>Goleador del día</h2><div class="card row"><div class="col sp"><b>${esc(gd.jugador)} marca</b><span class="mut">${esc(gd.partido)} · ${gd.fecha.slice(11)} · ${gd.goles} goles en ${gd.partidos}</span></div><span class="cuota">${n2(gd.cuota)}</span></div>`;
     if(D.alertas.length) h += `<h2>Alertas de cuota</h2><div class="card">${D.alertas.map(a => `<div class="leg"><div class="col sp"><span>${esc(a.texto)}</span><span class="mut">${esc(a.partido)} · ${a.fecha.slice(11)} · ${n2(a.antes)} → ${n2(a.cuota)}</span></div><span class="chip warn">+${a.sube}%</span></div>`).join("")}</div>`;
-    const nombres = {segura:"Combi segura", cuota_3:"Cuota 3", loca:"Combi loca"};
+    const nombres = {segura:"Combi de datos", cuota_3:"Cuota 3", loca:"Combi loca"};
     const cs = Object.entries(d.combis||{});
     if(cs.length && dia!==ayerDe(D.hoy)) h += `<h2>Combis que prepara el bot</h2>` + cs.map(([k,c]) => `<details class="sec"><summary><span class="sp">${nombres[k]||k}</span><span class="cuota">${n2(c.cuota)}</span>${chipEstado(c.estado)}</summary><div>${legs(c.picks)}</div></details>`).join("");
   } else if(modo==="todos"){

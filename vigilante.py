@@ -143,6 +143,8 @@ def revisar(ahora=None):
         nombre = next((n for n in TIPSTERS if n.lower() in tx.lower()), None)
         if nombre:
             out.append((f"tipster-{p['id']}", f"🙊 El texto lleva el nombre de otro tipster ({nombre}): {cab}"))
+        if re.search(r"segur|asegur|sin riesgo", tx, re.I):   # 12/11 (Marcos): nunca «seguro»
+            out.append((f"seguro-{p['id']}", f"🚫 El texto dice «seguro/asegurado» (Marcos: nunca): {cab}"))
         m = RESTOS.search(tx)
         if m:
             out.append((f"resto-{p['id']}", f"🧩 Texto roto («{m.group(0)}»): {cab}"))
