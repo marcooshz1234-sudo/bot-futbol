@@ -230,6 +230,10 @@
   "clave|2026-11-10-combi-multi|1644336|Total - Away|Over 3.5|Toni Martínez",
   "clave|2026-11-10-ganadores-win|1644336|Match Winner|Away|Pablo Ibáñez",
   "clave|2026-11-10-ganadores-win|1644336|Match Winner|Away|Toni Martínez",
+  "clave|2026-11-12-ganadores-copa|1644370|Match Winner|Away|Antonio Pacheco",
+  "clave|2026-11-12-ganadores-copa|1644370|Match Winner|Away|Víctor Valverde",
+  "clave|2026-11-12-pick-seguro|1644370|Match Winner|Away|Antonio Pacheco",
+  "clave|2026-11-12-pick-seguro|1644370|Match Winner|Away|Víctor Valverde",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -1865,25 +1869,296 @@
    }
   },
   "1644370": {
-   "hora": "2026-11-12T18:09:19.683636+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-12T18:20:53.584798+01:00",
+   "xi": [
+    "Angel Yeray",
+    "Oscar Arroyo",
+    "Javier Sahuquillo",
+    "Antonio López",
+    "Pascu",
+    "Lucas Martínez Barbero",
+    "Silviu Mario Pena",
+    "Raúl Sanchís",
+    "Braun",
+    "Javier Ramírez Molante",
+    "Ismael  El Yahimdi El Morabit",
+    "Carlos Marín",
+    "Antonio Velilla Miro",
+    "Pepe Sánchez",
+    "Daniel Bernabeu",
+    "Miguel Belem",
+    "José Corpas",
+    "Agustin Medina",
+    "Javi Villar",
+    "Agustín Albarracín",
+    "Mario Soberón",
+    "Rober González"
+   ],
+   "banquillo": [
+    "Daniel Simón",
+    "Denis Cruces Alejo",
+    "Carlos Cano",
+    "Javier Cebrian",
+    "José Ramón",
+    "Iker Perera",
+    "Luis Molina",
+    "Unai Molina Mena",
+    "Enrique Gil Gallardo Monroy",
+    "Diego Mariño",
+    "Jota Domingo",
+    "Lluís López",
+    "Sergio Ortuño",
+    "Victor San Bartolome",
+    "Antonio David Moreno",
+    "Capi",
+    "Fabio Garcia",
+    "Alex Rubio"
+   ],
+   "equipos": {
+    "9899": [
+     {
+      "n": "Angel Yeray",
+      "pos": "G"
+     },
+     {
+      "n": "Oscar Arroyo",
+      "pos": "D"
+     },
+     {
+      "n": "Javier Sahuquillo",
+      "pos": "D"
+     },
+     {
+      "n": "Antonio López",
+      "pos": "D"
+     },
+     {
+      "n": "Pascu",
+      "pos": "D"
+     },
+     {
+      "n": "Lucas Martínez Barbero",
+      "pos": "M"
+     },
+     {
+      "n": "Silviu Mario Pena",
+      "pos": "M"
+     },
+     {
+      "n": "Raúl Sanchís",
+      "pos": "M"
+     },
+     {
+      "n": "Braun",
+      "pos": "M"
+     },
+     {
+      "n": "Javier Ramírez Molante",
+      "pos": "F"
+     },
+     {
+      "n": "Ismael  El Yahimdi El Morabit",
+      "pos": "F"
+     }
+    ],
+    "722": [
+     {
+      "n": "Carlos Marín",
+      "pos": "G"
+     },
+     {
+      "n": "Antonio Velilla Miro",
+      "pos": "D"
+     },
+     {
+      "n": "Pepe Sánchez",
+      "pos": "D"
+     },
+     {
+      "n": "Daniel Bernabeu",
+      "pos": "D"
+     },
+     {
+      "n": "Miguel Belem",
+      "pos": "F"
+     },
+     {
+      "n": "José Corpas",
+      "pos": "M"
+     },
+     {
+      "n": "Agustin Medina",
+      "pos": "M"
+     },
+     {
+      "n": "Javi Villar",
+      "pos": "M"
+     },
+     {
+      "n": "Agustín Albarracín",
+      "pos": "M"
+     },
+     {
+      "n": "Mario Soberón",
+      "pos": "F"
+     },
+     {
+      "n": "Rober González",
+      "pos": "M"
+     }
+    ]
+   }
   },
   "1638295": {
-   "hora": "2026-11-12T18:09:19.683636+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-12T18:20:53.584798+01:00",
+   "xi": [
+    "Cata Coll",
+    "A. Camara",
+    "Irene Paredes",
+    "R. van Asten",
+    "E. Brugts",
+    "Clara Serrajordi",
+    "Patri Guijarro",
+    "S. Schertenleib",
+    "C. Graham Hansen",
+    "Ewa Pajor",
+    "Clàudia Pina",
+    "Misa Rodriguez",
+    "E. Fox",
+    "L. Williamson",
+    "S. Catley",
+    "Taylor Hinds",
+    "G. Stanway",
+    "K. Little",
+    "L. Baum",
+    "F. Maanum",
+    "C. Foord",
+    "A. Russo"
+   ],
+   "banquillo": [
+    "Aitana Bonmatí",
+    "Rosalía Dominguez",
+    "Martina Fernández",
+    "Gemma Font",
+    "Noa Jiménez Olivares",
+    "C. J. Martinez",
+    "T. McCamey",
+    "Marta Torrejón",
+    "Julia Torres",
+    "L. Wubben-Moy",
+    "Olivia Smith",
+    "G. Reuteler",
+    "S. Holmberg",
+    "Mia Dixon",
+    "É. de Almeida",
+    "I Damm",
+    "K. Cooney-Cross",
+    "A. Borbe",
+    "Ona Batlle"
+   ],
+   "equipos": {
+    "1918": [
+     {
+      "n": "Cata Coll",
+      "pos": "G"
+     },
+     {
+      "n": "A. Camara",
+      "pos": "D"
+     },
+     {
+      "n": "Irene Paredes",
+      "pos": "D"
+     },
+     {
+      "n": "R. van Asten",
+      "pos": "D"
+     },
+     {
+      "n": "E. Brugts",
+      "pos": "D"
+     },
+     {
+      "n": "Clara Serrajordi",
+      "pos": "M"
+     },
+     {
+      "n": "Patri Guijarro",
+      "pos": "M"
+     },
+     {
+      "n": "S. Schertenleib",
+      "pos": "M"
+     },
+     {
+      "n": "C. Graham Hansen",
+      "pos": "F"
+     },
+     {
+      "n": "Ewa Pajor",
+      "pos": "F"
+     },
+     {
+      "n": "Clàudia Pina",
+      "pos": "F"
+     }
+    ],
+    "1850": [
+     {
+      "n": "Misa Rodriguez",
+      "pos": "G"
+     },
+     {
+      "n": "E. Fox",
+      "pos": "D"
+     },
+     {
+      "n": "L. Williamson",
+      "pos": "D"
+     },
+     {
+      "n": "S. Catley",
+      "pos": "D"
+     },
+     {
+      "n": "Taylor Hinds",
+      "pos": "D"
+     },
+     {
+      "n": "G. Stanway",
+      "pos": "M"
+     },
+     {
+      "n": "K. Little",
+      "pos": "M"
+     },
+     {
+      "n": "L. Baum",
+      "pos": "M"
+     },
+     {
+      "n": "F. Maanum",
+      "pos": "M"
+     },
+     {
+      "n": "C. Foord",
+      "pos": "M"
+     },
+     {
+      "n": "A. Russo",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1644379": {
-   "hora": "2026-11-12T18:09:19.683636+01:00",
+   "hora": "2026-11-12T18:20:53.584798+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1644363": {
-   "hora": "2026-11-12T18:09:19.683636+01:00",
+   "hora": "2026-11-12T18:20:53.584798+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
