@@ -45,7 +45,7 @@
 - 🤖 **Nunca chocar**: dos posts del mismo partido tienen que poder ganar a la vez. Única excepción: la loca puede llevar
   un «o empate» aunque choque, pero no como costumbre (12/11).
 - 🤖 **Máximo 2 posts con el mismo pronóstico** en el día (ganadores no cuenta; la cola a mano sí) (11/11).
-- 🤖 **Un mismo equipo en 2 posts como máximo al día, sea cual sea el mercado** (13/11: Suiza iba en 4 posts —gana / gana una parte— y un 0-0 tumbó los 4). En los totales de goles cuenta el partido. (combis_dia.equipo_de + test_fallos_13nov)
+- 🤖 **Un mismo equipo puede salir como mucho en 2 posts del día (cualquier mercado). Los posts del día NO tienen límite** (13/11: Suiza iba en 4 posts —gana / gana una parte— y un 0-0 tumbó los 4). En los totales de goles cuenta el partido. (combis_dia.equipo_de + test_fallos_13nov)
 - 🤖 **Partidos de selecciones con pocos goles esperados (el «más de 2,5» paga más de 1,90): nada de «más goles»** («X marca» sí) (13/11: Liechtenstein 0-1 y Luxemburgo 0-1).
 - 🤖 **En día bueno, una sola combi: la del día** (ni multi ni loca). Marcos: «una combi al día tiene que haber; el resto lo puedes cambiar» (13/11).
 - 🤖 En la misma combi no van juntos «ambos marcan» y «X marca» (31/10).
