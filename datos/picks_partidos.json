@@ -41,13 +41,41 @@
    ]
   },
   {
+   "partido_id": 1528972,
+   "fecha": "2026-11-14T18:00",
+   "local": "Norway",
+   "visitante": "Wales",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528972|Total - Away|Over 0.5",
+     "texto": "Gales marca",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1528972|Total - Home|Over 2.5",
+     "texto": "Noruega marca 3 o más",
+     "cuota": 1.8,
+     "prob": 0.52
+    },
+    {
+     "sel": "1528972|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Noruega–Gales",
+     "cuota": 1.83,
+     "prob": 0.5
+    }
+   ]
+  },
+  {
    "partido_id": 1528973,
    "fecha": "2026-11-14T18:00",
    "local": "Georgia",
    "visitante": "Hungary",
    "liga": "Nations League",
    "datos": [
-    "La cuota de que gane el Georgia ha bajado de 3,2 a 2,9: el mercado lo ve más claro"
+    "La cuota de que gane el Georgia ha bajado de 3,2 a 2,88: el mercado lo ve más claro"
    ],
    "picks": [
     {
@@ -83,30 +111,44 @@
    ]
   },
   {
-   "partido_id": 1528972,
-   "fecha": "2026-11-14T18:00",
-   "local": "Norway",
-   "visitante": "Wales",
+   "partido_id": 1528977,
+   "fecha": "2026-11-14T20:45",
+   "local": "Romania",
+   "visitante": "Poland",
    "liga": "Nations League",
-   "datos": [],
+   "datos": [
+    "La cuota de que gane el Poland ha bajado de 2,0 a 1,83: el mercado lo ve más claro"
+   ],
    "picks": [
     {
-     "sel": "1528972|Total - Away|Over 0.5",
-     "texto": "Gales marca",
-     "cuota": 1.73,
-     "prob": 0.54
+     "sel": "1528977|Total - Home|Over 0.5",
+     "texto": "Rumanía marca",
+     "cuota": 1.4,
+     "prob": 0.66
     },
     {
-     "sel": "1528972|Total - Home|Over 2.5",
-     "texto": "Noruega marca 3 o más",
-     "cuota": 1.8,
+     "sel": "1528977|To Win Either Half|Away",
+     "texto": "Polonia gana alguna de las dos partes",
+     "cuota": 1.44,
+     "prob": 0.62
+    },
+    {
+     "sel": "1528977|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Rumanía–Polonia",
+     "cuota": 1.67,
+     "prob": 0.56
+    },
+    {
+     "sel": "1528977|Match Winner|Away",
+     "texto": "Gana Polonia",
+     "cuota": 1.83,
      "prob": 0.52
     },
     {
-     "sel": "1528972|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Noruega–Gales",
-     "cuota": 1.83,
-     "prob": 0.5
+     "sel": "1528977|Total - Away|Over 1.5",
+     "texto": "Polonia marca 2 o más",
+     "cuota": 1.8,
+     "prob": 0.52
     }
    ]
   },
@@ -145,78 +187,36 @@
    ]
   },
   {
-   "partido_id": 1528976,
+   "partido_id": 1528974,
    "fecha": "2026-11-14T20:45",
-   "local": "Austria",
-   "visitante": "Rep. Of Ireland",
+   "local": "Portugal",
+   "visitante": "Denmark",
    "liga": "Nations League",
    "datos": [],
    "picks": [
     {
-     "sel": "1528976|Match Winner|Home",
-     "texto": "Gana el Austria",
-     "cuota": 1.57,
-     "prob": 0.6
+     "sel": "1528974|Total - Home|Over 1.5",
+     "texto": "Portugal marca 2 o más",
+     "cuota": 1.44,
+     "prob": 0.65
     },
     {
-     "sel": "1528976|Total - Away|Over 0.5",
-     "texto": "Irlanda marca",
+     "sel": "1528974|Total - Away|Over 0.5",
+     "texto": "Dinamarca marca",
+     "cuota": 1.44,
+     "prob": 0.65
+    },
+    {
+     "sel": "1528974|Match Winner|Home",
+     "texto": "Gana el Portugal",
+     "cuota": 1.5,
+     "prob": 0.63
+    },
+    {
+     "sel": "1528974|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Portugal–Dinamarca",
      "cuota": 1.62,
      "prob": 0.58
-    },
-    {
-     "sel": "1528976|Total - Home|Over 1.5",
-     "texto": "Austria marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.56
-    },
-    {
-     "sel": "1528976|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Austria–Irlanda",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1528977,
-   "fecha": "2026-11-14T20:45",
-   "local": "Romania",
-   "visitante": "Poland",
-   "liga": "Nations League",
-   "datos": [
-    "La cuota de que gane el Poland ha bajado de 2,0 a 1,8: el mercado lo ve más claro"
-   ],
-   "picks": [
-    {
-     "sel": "1528977|Total - Home|Over 0.5",
-     "texto": "Rumanía marca",
-     "cuota": 1.4,
-     "prob": 0.66
-    },
-    {
-     "sel": "1528977|To Win Either Half|Away",
-     "texto": "Polonia gana alguna de las dos partes",
-     "cuota": 1.44,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528977|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Rumanía–Polonia",
-     "cuota": 1.67,
-     "prob": 0.56
-    },
-    {
-     "sel": "1528977|Match Winner|Away",
-     "texto": "Gana Polonia",
-     "cuota": 1.8,
-     "prob": 0.53
-    },
-    {
-     "sel": "1528977|Total - Away|Over 1.5",
-     "texto": "Polonia marca 2 o más",
-     "cuota": 1.8,
-     "prob": 0.52
     }
    ]
   },
@@ -261,36 +261,36 @@
    ]
   },
   {
-   "partido_id": 1528974,
+   "partido_id": 1528976,
    "fecha": "2026-11-14T20:45",
-   "local": "Portugal",
-   "visitante": "Denmark",
+   "local": "Austria",
+   "visitante": "Rep. Of Ireland",
    "liga": "Nations League",
    "datos": [],
    "picks": [
     {
-     "sel": "1528974|Total - Home|Over 1.5",
-     "texto": "Portugal marca 2 o más",
-     "cuota": 1.44,
-     "prob": 0.65
+     "sel": "1528976|Match Winner|Home",
+     "texto": "Gana el Austria",
+     "cuota": 1.57,
+     "prob": 0.6
     },
     {
-     "sel": "1528974|Total - Away|Over 0.5",
-     "texto": "Dinamarca marca",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1528974|Match Winner|Home",
-     "texto": "Gana el Portugal",
-     "cuota": 1.5,
-     "prob": 0.63
-    },
-    {
-     "sel": "1528974|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Portugal–Dinamarca",
+     "sel": "1528976|Total - Away|Over 0.5",
+     "texto": "Irlanda marca",
      "cuota": 1.62,
      "prob": 0.58
+    },
+    {
+     "sel": "1528976|Total - Home|Over 1.5",
+     "texto": "Austria marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.56
+    },
+    {
+     "sel": "1528976|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Austria–Irlanda",
+     "cuota": 1.83,
+     "prob": 0.5
     }
    ]
   }

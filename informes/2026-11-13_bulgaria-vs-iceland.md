@@ -1,10 +1,10 @@
 # Bulgaria – Iceland
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Hristo Botev Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:15_
 
 - **1X2:** 1 **4.33**  ·  X **3.50**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.20**
@@ -24,9 +24,9 @@ _Actualizadas: 12/11 20:00_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **8.50** · menos **1.05**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
@@ -49,7 +49,7 @@ _Actualizadas: 12/11 20:00_
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
 - **Anytime Goal Scorer:** Isak Thorvaldsson **2.88**  ·  Hordur Magnusson **12.00**  ·  Orri Steinn Oskarsson **2.88**  ·  Andri Gudjohnsen **2.88**  ·  Daniel Gretarsson **12.00**  ·  Gylfi Sigurdsson **3.60**  ·  Isak Johannesson **4.33**  ·  Jon Dagur Thorsteinsson **4.50**  ·  Logi Tomasson **9.00**  ·  Mikael Anderson **5.00**  ·  Mikael Egill Ellertsson **7.00**  ·  Stefan Thordarson **8.50**  ·  Victor Palsson **12.00**  ·  Kristall Ingason **3.75**  ·  Stefan Velkov **17.00**  ·  Ivaylo Chochev **6.00**  ·  Martin Minchev **4.50**  ·  Ivan Turitsov **21.00**  ·  Hristiyan Petrov **21.00**  ·  Georgi Lazarov **3.75**  ·  Yoan Stoyanov **8.50**  ·  Arnor Sigurdsson **5.00**  ·  Hakon Arnar Haraldsson **4.50**  ·  Rosen Bozhinov **17.00**  ·  Marin Petkov **6.00**  ·  Kristiyan Balov **4.50**  ·  Dimitar Velkovski **13.00**  ·  Emil Tsenov **10.00**  ·  Teodor Ivanov **17.00**  ·  Georgi Rusev **6.00**  ·  Simeon Shishkov **13.00**  ·  Asen Chandarov **7.50**  ·  Lukas Petkov **5.00**  ·  Kristian Hlynsson **3.75**  ·  Andrian Kraev **7.00**  ·  Brynjolfur Andersen Willumsson **2.88**  ·  Ivan Pankov **7.50**  ·  Atanas Iliev **4.50**  ·  Aron Gunnarsson **8.50**  ·  Thorir Johann Helgason **5.00**  ·  Ilia Gruev **13.00**
 
 ## Estadísticas de equipo

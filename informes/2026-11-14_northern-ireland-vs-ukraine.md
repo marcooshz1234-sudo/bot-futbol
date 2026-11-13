@@ -1,10 +1,10 @@
 # Northern Ireland – Ukraine
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Windsor Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:16_
 
 - **1X2:** 1 **2.45**  ·  X **3.00**  ·  2 **3.20**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
@@ -16,7 +16,7 @@ _Actualizadas: 12/11 20:00_
     - 3,5: más **5.00** · menos **1.17**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.53** · menos **2.38**
+    - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Goles del local:**
@@ -50,11 +50,16 @@ _Actualizadas: 12/11 20:00_
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Más de 3.5 **1.75**  ·  Menos de 3.5 **2.05**  ·  Exactamente 4 **5.00**  ·  Más de 4 **2.60**  ·  Menos de 4 **2.00**
+- **Home Team Total Cards:**
+    - 1,5: más **1.50** · menos **2.50**
+- **Away Team Total Cards:**
+    - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 7,5: más **1.91** · menos **1.80**
-- **ShotOnTarget 1x2:** 1 **1.91**  ·  X **6.50**  ·  2 **2.25**
+- **ShotOnTarget 1x2:** 1 **1.80**  ·  X **6.50**  ·  2 **2.50**
 - **Total Shots:**
     - 22,5: más **1.83** · menos **1.83**
+    - 23,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **1.80**  ·  X **13.00**  ·  2 **2.10**
 - **Away Player Shots Total:**
     - 10,5: más **1.80** · menos **1.91**

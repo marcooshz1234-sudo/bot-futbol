@@ -1,10 +1,10 @@
 # Austria – Rep. Of Ireland
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Raiffeisen Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:01_
+_Actualizadas: 13/11 02:16_
 
 - **1X2:** 1 **1.57**  ·  X **3.90**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.25**  ·  X2 **2.30**
@@ -51,7 +51,7 @@ _Actualizadas: 12/11 20:01_
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
 - **Home Team Total Cards:**
     - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**

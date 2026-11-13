@@ -1,18 +1,18 @@
 # Sweden – Bosnia & Herzegovina
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Strawberry Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:16_
 
 - **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.20**  ·  X2 **2.50**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.50** · menos **1.50**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -52,6 +52,10 @@ _Actualizadas: 12/11 20:00_
 - **Away Corners Over/Under:**
     - 3,5: más **2.20** · menos **1.62**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
+- **Home Team Total Cards:**
+    - 1,5: más **1.67** · menos **2.10**
+- **Away Team Total Cards:**
+    - 2,5: más **2.00** · menos **1.73**
 - **Anytime Goal Scorer:** Genesis Antwi **6.00**  ·  Amar Dedic **13.00**  ·  Gabriel Gudmundsson **7.00**  ·  Sebastian Nanasi **2.88**  ·  Daniel Svensson **8.00**  ·  Jesper Karlstrom **6.50**  ·  Victor Lindelof **8.00**  ·  Viktor Gyokeres **1.91**  ·  Samed Bazdar **4.50**  ·  Esmir Bajraktarevic **6.00**  ·  Ivan Basic **10.00**  ·  Benjamin Tahirovic **11.00**  ·  Dzenis Burnic **10.00**  ·  Nikola Katic **13.00**  ·  Stjepan Radeljic **13.00**  ·  Nihad Mujakic **13.00**  ·  Felix Beijmo **8.00**  ·  Benjamin Nygren **2.50**  ·  Ermin Mahmic **6.00**  ·  Arjan Malic **11.00**  ·  Tarik Muharemovic **21.00**  ·  Gustaf Lagerbielke **8.00**  ·  Besfort Zeneli **4.50**  ·  Patrik Walemark **2.50**  ·  Elliot Stroud **4.00**  ·  Dennis Hadzikadunic **21.00**  ·  Ivan Sunjic **13.00**  ·  Matej Deket **4.33**  ·  Anthony Elanga **3.40**  ·  Kerim Alajbegovic **6.50**  ·  Alexander Isak **2.05**  ·  Yasin Ayari **5.00**  ·  Dejan Kulusevski **2.88**  ·  Jovo Lukic **4.50**  ·  Amar Memic **9.00**  ·  Ermedin Demirovic **4.33**  ·  Haris Tabakovic **4.33**  ·  Hugo Larsson **4.50**  ·  Alieu Njie **3.40**  ·  Eric Smith **8.00**  ·  Sead Kolasinac **21.00**  ·  Hjalmar Ekdal **8.00**  ·  Alexander Bernhardsson **4.50**  ·  Armin Gigovic **9.00**  ·  Zinedin Smajlovic **13.00**
 
 ## Estadísticas de equipo

@@ -1,10 +1,10 @@
 # Ospitaletto – Dolomiti Bellunesi
 **Serie C** · Girone A - 14 · 13/11/2026 20:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:15_
 
 - **1X2:** 1 **1.45**  ·  X **3.80**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **2.40**
@@ -12,9 +12,9 @@ _Actualizadas: 12/11 20:00_
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.90** · menos **1.90**
+    - 2,5: más **1.85** · menos **1.95**
     - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.00** · menos **1.11**
+    - 4,5: más **5.50** · menos **1.12**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
@@ -30,6 +30,7 @@ _Actualizadas: 12/11 20:00_
     - 1,5: más **4.50** · menos **1.17**
 - **Córners más/menos:**
     - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.92** · menos **1.88**
 - **1X2 descanso:** 1 **2.00**  ·  X **2.25**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -43,6 +44,7 @@ _Actualizadas: 12/11 20:00_
 - **Win Both Halves:** 1 **3.75**  ·  2 **26.00**
 - **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **11.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 
 ## Estadísticas de equipo
 | | Ospitaletto (total) | Ospitaletto en casa | Dolomiti Bellunesi (total) | Dolomiti Bellunesi fuera |
@@ -149,10 +151,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 63% | 54% | 58% | 1.73 | +1% |
 | Ambos marcan: Sí | 37% | 46% | 42% | 2.00 | -17% |
 | Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 48% | 50% | 49% | 1.90 | -7% |
+| Goles más/menos: Más de 2.5 | 48% | 51% | 50% | 1.85 | -8% |
 | Goles más/menos: Más de 3.5 | 26% | 29% | 28% | 3.25 | -11% |
 | Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles más/menos: Menos de 2.5 | 52% | 50% | 51% | 1.90 | -3% |
+| Goles más/menos: Menos de 2.5 | 52% | 49% | 50% | 1.95 | -2% |
 | Goles más/menos: Menos de 3.5 | 74% | 71% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |

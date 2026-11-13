@@ -1,13 +1,13 @@
 # Arzignano Valchiampo – Alcione
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:16_
 
 - **1X2:** 1 **2.15**  ·  X **3.30**  ·  2 **2.90**
-- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.67**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.25**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 1,5: más **1.25** · menos **3.75**
@@ -142,9 +142,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 27% | 31% | 29% | 2.90 | -16% |
 | 1X2: X | 23% | 27% | 25% | 3.30 | -17% |
 | 1X2: 1 | 50% | 42% | 46% | 2.15 | -2% |
-| Doble oportunidad: X2 | 50% | 55% | 53% | 1.67 | -12% |
-| Doble oportunidad: 12 | 77% | 73% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 73% | 72% | 72% | 1.28 | -7% |
+| Doble oportunidad: X2 | 50% | 58% | 54% | 1.57 | -15% |
+| Doble oportunidad: 12 | 77% | 73% | 75% | 1.25 | -7% |
+| Doble oportunidad: 1X | 73% | 70% | 71% | 1.30 | -7% |
 | Ambos marcan: No | 40% | 44% | 42% | 2.10 | -11% |
 | Ambos marcan: Sí | 60% | 56% | 58% | 1.67 | -4% |
 | Goles más/menos: Más de 1.5 | 81% | 75% | 78% | 1.25 | -3% |

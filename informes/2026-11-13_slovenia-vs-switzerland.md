@@ -1,10 +1,10 @@
 # Slovenia – Switzerland
 **Nations League** · League B - 5 · 13/11/2026 20:45 (hora España) · Ljudski vrt
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:15_
 
 - **1X2:** 1 **5.50**  ·  X **3.50**  ·  2 **1.67**
 - **Doble oportunidad:** 1X **2.15**  ·  12 **1.28**  ·  X2 **1.14**

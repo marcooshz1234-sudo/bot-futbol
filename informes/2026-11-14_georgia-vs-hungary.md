@@ -1,12 +1,12 @@
 # Georgia – Hungary
 **Nations League** · League B - 5 · 14/11/2026 18:00 (hora España) · Boris Paichadze Dinamo Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:16_
 
-- **1X2:** 1 **2.90**  ·  X **3.10**  ·  2 **2.50**
+- **1X2:** 1 **2.88**  ·  X **3.10**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
@@ -25,10 +25,10 @@ _Actualizadas: 12/11 20:00_
     - 2,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
+    - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 8,5: más **1.91** · menos **1.80**
+    - 8,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **2.20**  ·  X **7.50**  ·  2 **1.91**
 - **Tarjetas más/menos:**
     - 4,5: más **1.83** · menos **1.83**
@@ -48,7 +48,11 @@ _Actualizadas: 12/11 20:00_
     - 3,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 4,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **1.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.50**  ·  Menos de 4 **2.10**
+- **Home Team Total Cards:**
+    - 2,5: más **2.10** · menos **1.67**
+- **Away Team Total Cards:**
+    - 2,5: más **2.10** · menos **1.67**
 - **Anytime Goal Scorer:** Giorgi Kochorashvili **9.50**  ·  Irakli Yegoian **5.00**  ·  Nodar Lominadze **9.50**  ·  Giorgi Maisuradze **11.00**  ·  Giorgi Guliashvili **3.60**  ·  Budu Zivzivadze **3.60**  ·  Georges Mikautadze **3.10**  ·  Zuriko Davitashvili **6.50**  ·  Giorgi Chakvetadze **6.50**  ·  Sandro Altunashvili **11.00**  ·  Lasha Dvali **15.00**  ·  Luka Lochoshvili **11.00**  ·  Otar Kakabadze **15.00**  ·  Barnabas Varga **3.10**  ·  Zsolt Nagy **6.00**  ·  Willi Orban **13.00**  ·  Kornel Szucs **15.00**  ·  Andras Schafer **9.50**  ·  Bendeguz Bolla **6.50**  ·  Akos Szendrei **3.10**  ·  Peter Barath **7.50**  ·  Giorgi Moistsrapishvili **8.50**  ·  Mark Csinger **13.00**  ·  Giorgi Tsitaishvili **5.50**  ·  Iva Gelashvili **15.00**  ·  Callum Styles **9.50**  ·  Giorgi Kvernadze **5.50**  ·  Damir Redzic **3.75**  ·  Daniel Lukacs **3.60**  ·  Milan Peto **7.50**  ·  Aron Csongvai **9.50**  ·  Gabor Jurek **4.50**  ·  Attila Osvath **15.00**  ·  Rajmund Toth **9.50**  ·  Akos Markgraf **13.00**  ·  Irakli Azarovi **11.00**  ·  Jozsef Szalai **3.40**  ·  Giorgi Gagua **3.75**  ·  Jemal Tabidze **11.00**  ·  Dominik Szoboszlai **3.60**  ·  Jozef Urblik **7.50**  ·  Milos Kerkez **13.00**  ·  Anzor Mekvabishvili **11.00**  ·  Saba Goglichidze **15.00**  ·  Saba Sazonov **15.00**  ·  Milan Vitalis **9.50**
 
 ## Estadísticas de equipo

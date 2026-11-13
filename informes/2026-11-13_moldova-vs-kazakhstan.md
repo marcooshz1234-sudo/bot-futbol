@@ -1,10 +1,10 @@
 # Moldova – Kazakhstan
 **Nations League** · League C - 5 · 13/11/2026 18:00 (hora España) · Zimbru
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 20:00_
+_Actualizadas: 13/11 02:15_
 
 - **1X2:** 1 **2.70**  ·  X **2.90**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.40**  ·  X2 **1.44**
@@ -28,7 +28,7 @@ _Actualizadas: 12/11 20:00_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **7.50** · menos **1.07**
 - **Córners más/menos:**
-    - 8,5: más **1.73** · menos **2.00**
+    - 8,5: más **1.80** · menos **1.91**
     - 9,5: más **2.02** · menos **1.78**
 - **Córners 1X2:** 1 **1.91**  ·  X **7.50**  ·  2 **2.20**
 - **1X2 descanso:** 1 **3.25**  ·  X **1.91**  ·  2 **3.50**
@@ -48,7 +48,7 @@ _Actualizadas: 12/11 20:00_
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.20** · menos **1.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.02**  ·  Menos de 4 **1.78**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
 - **Anytime Goal Scorer:** Daniel Dumbravanu **9.00**  ·  Dinmukhamed Karaman **4.33**  ·  Nauryzbek Zhagorov **6.50**  ·  Mihail Gherasimencov **17.00**  ·  Bauyrzhan Islamkhan **6.00**  ·  Yan Vorogovskiy **9.00**  ·  Nuraly Alip **17.00**  ·  Aybol Abiken **9.00**  ·  Maksim Samorodov **3.50**  ·  Ramazan Orazov **6.00**  ·  Alibek Kasym **9.00**  ·  Islam Chesnokov **3.75**  ·  Serhiy Maliy **15.00**  ·  Stephan Negru **15.00**  ·  Mihail Stefan **17.00**  ·  Almas Tyulyubay **10.00**  ·  Victor Stina **4.50**  ·  Nichita Motpan **6.50**  ·  Serafim Cojocaru **11.00**  ·  Vladislav Babohlo **15.00**  ·  loan-Calin Revenco **15.00**  ·  Denis Marandici **21.00**  ·  Oleg Reabciuk **17.00**  ·  Ismail Bekbolat **4.50**  ·  Danila Forov **9.00**  ·  Alexander Mrynskiy **13.00**  ·  Azamat Tuyakbayev **5.50**  ·  Vladimir Fratea **7.50**  ·  Arsen Ashirbek **11.00**  ·  Ovidiu David **9.00**  ·  Catalin Cucos **15.00**  ·  Ramazan Karimov **3.25**  ·  Islambek Kuat **9.00**  ·  Nicky Clescenco **5.00**  ·  Petru Popescu **3.25**  ·  Zhasulan Amir **6.50**  ·  Temirlan Erlanov **15.00**  ·  Alexandru Betivu **3.75**  ·  Vladislav Vasilyev **13.00**  ·  Stefan Bodisteanu **6.50**  ·  Galymzhan Kenzhebek **3.50**  ·  Adilbek Zhumakhanov **15.00**  ·  Erkin Tapalov **10.00**  ·  Iurie Iovu **11.00**  ·  Victor Bogaciuc **6.50**  ·  Sergiu Perciun **3.75**
 
 ## Estadísticas de equipo
