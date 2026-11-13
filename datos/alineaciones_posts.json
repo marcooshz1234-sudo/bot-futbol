@@ -2297,10 +2297,151 @@
    }
   },
   "1528968": {
-   "hora": "2026-11-13T17:24:57.070100+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-13T17:35:42.544957+01:00",
+   "xi": [
+    "D. Celeadnic",
+    "I. Revenco",
+    "V. Baboglo",
+    "I. Iovu",
+    "M. Gherasimencov",
+    "O. Reabciuk",
+    "Vladimir Fratea",
+    "V. Raţă",
+    "S. Perciun",
+    "N. Cleșcenco",
+    "Petru Popescu",
+    "S. Pokatilov",
+    "N. Zhagorov",
+    "A. Kassym",
+    "T. Erlanov",
+    "N. Alip",
+    "R. Orazov",
+    "Z. Amir",
+    "D. Karaman",
+    "A. Mrynskiy",
+    "M. Samorodov",
+    "I. Chesnokov"
+   ],
+   "banquillo": [
+    "V. Bogaciuc",
+    "A. Betivu",
+    "O. David",
+    "D. Dumbrăvanu",
+    "D. Forov",
+    "A. Kozhukhar",
+    "D. Marandici",
+    "N. Moțpan",
+    "S. Negru",
+    "V. Stînă",
+    "E. Tîmbur",
+    "M. Ștefan",
+    "Bekkhan Shayzada",
+    "A. Zhumakhanov",
+    "Y. Vorogovskiy",
+    "E. Tapalov",
+    "A. Ashirbek",
+    "I. Kuat",
+    "G. Kenzhebek",
+    "A. Tuyakbayev",
+    "A. Zhaksylykov",
+    "Aybol Abiken",
+    "B. Islamkhan",
+    "A. Zarutskiy"
+   ],
+   "equipos": {
+    "1114": [
+     {
+      "n": "D. Celeadnic",
+      "pos": "G"
+     },
+     {
+      "n": "I. Revenco",
+      "pos": "D"
+     },
+     {
+      "n": "V. Baboglo",
+      "pos": "D"
+     },
+     {
+      "n": "I. Iovu",
+      "pos": "D"
+     },
+     {
+      "n": "M. Gherasimencov",
+      "pos": "D"
+     },
+     {
+      "n": "O. Reabciuk",
+      "pos": "D"
+     },
+     {
+      "n": "Vladimir Fratea",
+      "pos": "M"
+     },
+     {
+      "n": "V. Raţă",
+      "pos": "M"
+     },
+     {
+      "n": "S. Perciun",
+      "pos": "M"
+     },
+     {
+      "n": "N. Cleșcenco",
+      "pos": "F"
+     },
+     {
+      "n": "Petru Popescu",
+      "pos": "F"
+     }
+    ],
+    "1095": [
+     {
+      "n": "S. Pokatilov",
+      "pos": "G"
+     },
+     {
+      "n": "N. Zhagorov",
+      "pos": "D"
+     },
+     {
+      "n": "A. Kassym",
+      "pos": "D"
+     },
+     {
+      "n": "T. Erlanov",
+      "pos": "D"
+     },
+     {
+      "n": "N. Alip",
+      "pos": "D"
+     },
+     {
+      "n": "R. Orazov",
+      "pos": "M"
+     },
+     {
+      "n": "Z. Amir",
+      "pos": "M"
+     },
+     {
+      "n": "D. Karaman",
+      "pos": "M"
+     },
+     {
+      "n": "A. Mrynskiy",
+      "pos": "F"
+     },
+     {
+      "n": "M. Samorodov",
+      "pos": "F"
+     },
+     {
+      "n": "I. Chesnokov",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
