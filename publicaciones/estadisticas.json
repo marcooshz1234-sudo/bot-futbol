@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 13:28",
+ "actualizado": "2026-11-13 13:39",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 396,
-   "hoy": 5,
+   "seguidores": 395,
+   "hoy": 4,
    "serie": [
     307,
     331,
@@ -50,17 +50,17 @@
     378,
     384,
     391,
-    396
+    395
    ]
   }
  },
- "total": 3173,
- "total_hoy": 50,
+ "total": 3172,
+ "total_hoy": 49,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:30",
   "dia": "2026-11-13",
-  "titulo": "Vamos con la combi del viernes familia"
+  "titulo": "Combi de 8 partidos x23,73"
  },
  "ayer": null,
  "escalera": {
@@ -197,17 +197,17 @@
    "instagram": 40,
    "threads": 2736,
    "facebook": 1,
-   "telegram": 396
+   "telegram": 395
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 6,
+  "Otros (reel)": {
+   "posts": 28,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 27,
+  "Escalera (reel)": {
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -227,7 +227,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 18,
+   "posts": 17,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
