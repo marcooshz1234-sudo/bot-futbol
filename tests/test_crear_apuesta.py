@@ -47,5 +47,13 @@ class CrearApuesta(unittest.TestCase):
                 self.assertNotEqual(CA.sesgo(), 0.0)
 
 
+class SinScipy(unittest.TestCase):
+    def test_sin_scipy(self):   # 13/11: en GitHub no está scipy (fallaron los tests y calibrar_crear en el bucle)
+        raiz = Path(__file__).resolve().parent.parent
+        for f in raiz.glob("*.py"):
+            if f.name != "preparar_logo.py":   # herramienta a mano, en el ordenador de Marcos
+                self.assertNotRegex(f.read_text(encoding="utf-8"), r"(?m)^\s*(from scipy|import scipy)", f.name)
+
+
 if __name__ == "__main__":
     unittest.main()

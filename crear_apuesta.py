@@ -100,6 +100,30 @@ class Rejilla:
         self.lh, self.la = lh, la
 
 
+def _biseccion(f, a, b, n=60):
+    """Raíz de f en [a, b] (f(a) y f(b) de distinto signo). Sin scipy: en GitHub no está instalado."""
+    fa = f(a)
+    for _ in range(n):
+        m = (a + b) / 2
+        fm = f(m)
+        if (fm > 0) == (fa > 0):
+            a, fa = m, fm
+        else:
+            b = m
+    return (a + b) / 2
+
+
+def _al_menos(k, mu):
+    """P(Poisson(mu) >= k) para un array de medias mu."""
+    mu = np.asarray(mu, float)
+    term = np.exp(-mu)
+    cdf = term.copy()
+    for i in range(1, k):
+        term = term * mu / i
+        cdf = cdf + term
+    return 1 - cdf if k > 0 else np.ones_like(mu)
+
+
 def _over(o):
     return float(o.split()[1])
 
@@ -145,7 +169,6 @@ def _lado_jugador(c, mercado, jugador):
 
 def condicional_jugador(R, c, mercado, opcion, cuota):
     """Probabilidad de la pata de jugador en cada marcador (va ligada a los goles de su equipo)."""
-    from scipy.optimize import brentq
     jugador = opcion.rsplit(" - ", 1)[0] if " - " in opcion else opcion
     lado = _lado_jugador(c, mercado, jugador)
     if not lado:
@@ -158,18 +181,17 @@ def condicional_jugador(R, c, mercado, opcion, cuota):
         f = lambda s: 1 - (R.P * (1 - s) ** G).sum() - p
         if f(1e-6) > 0 or f(0.999) < 0:
             return None
-        s = brentq(f, 1e-6, 0.999)
+        s = _biseccion(f, 1e-6, 0.999)
         return 1 - (1 - s) ** G
     if "Shots" in mercado:
         k = int(opcion.rsplit(" - ", 1)[1])
-        from scipy.stats import poisson
         escala = 1 + RHO_TIROS * (G - lam) / max(lam, 0.5)
         escala = np.clip(escala, 0.3, 3)
-        f = lambda mu: (R.P * poisson.sf(k - 1, mu * escala)).sum() - p
+        f = lambda mu: (R.P * _al_menos(k, mu * escala)).sum() - p
         if f(0.01) > 0 or f(15) < 0:
             return None
-        mu = brentq(f, 0.01, 15)
-        return poisson.sf(k - 1, mu * escala)
+        mu = _biseccion(f, 0.01, 15)
+        return _al_menos(k, mu * escala)
     return None
 
 
