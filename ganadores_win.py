@@ -191,7 +191,7 @@ def datos_imagen(p):
     return filas, liga
 
 
-VERSION_TARJETA = "2026-11-12-sin-circulo"   # 13/11: cambiar esto rehace las tarjetas que aún no han salido
+VERSION_TARJETA = "2026-11-13-logo-cl"   # 13/11: cambiar esto rehace las tarjetas que aún no han salido
 
 
 def huella_tarjeta(p):
