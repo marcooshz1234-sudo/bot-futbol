@@ -16,7 +16,6 @@ jobs:
           python-version: "3.12"
       - run: |
           python -u escudos.py
-          python -u logos_web.py || true   # 13/11: logos grandes candidatos (Marcos los elige)
           git config user.name "bot-futbol"
           git config user.email "bot-futbol@users.noreply.github.com"
           git add publicaciones/media/escudos

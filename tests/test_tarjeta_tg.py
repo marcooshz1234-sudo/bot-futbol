@@ -55,6 +55,18 @@ class TarjetaTG(unittest.TestCase):
         self.assertEqual(T.racha_fotos([con(0), con(1), con(2)]), 3)
         self.assertIsNone(T.hacer({"id": "x-pick-tip-1"}, NOCHE, [con(0), con(1), con(2)]))
 
+    def test_escudo_de_club(self):   # 13/11: los clubes con su escudo; las selecciones con su bandera
+        from unittest import mock
+        with mock.patch.object(T, "escudo_club", return_value="/x/541.png"):
+            self.assertEqual(T.fila("Gana el Real Madrid")["escudo"], "/x/541.png")
+            self.assertEqual(T.fila("Gana Suiza")["escudo"], "")
+
+    def test_logos_buenos(self):   # 13/11 (Marcos: «ese logo no tiene calidad»): logos de competición grandes
+        from PIL import Image
+        for lid in (2, 3, 5, 39, 61, 78, 135, 140, 143, 525, 848):
+            im = Image.open(T.MEDIA / "escudos" / f"liga-{lid}-hd.png")
+            self.assertGreaterEqual(max(im.size), 650, lid)
+
     def test_sin_argumento_fuera(self):   # el «Sin argumento: solo el pick» de las copias
         import copiar_tipsters as C
         src = open(C.__file__, encoding="utf-8").read()

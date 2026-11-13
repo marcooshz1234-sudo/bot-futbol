@@ -37,6 +37,49 @@ def _pais(nombre):
     return None
 
 
+_ESCUDOS = None
+
+
+def escudo_club(nombre):
+    """13/11 (Marcos: «sí» a poner el escudo de los clubes): ruta del escudo guardado (escudos.py) del equipo, buscando
+    su nombre (en inglés o en español) en los partidos de hoy y los próximos."""
+    global _ESCUDOS
+    if _ESCUDOS is None:
+        import json
+        from pathlib import Path
+        from combis_dia import nombre_es
+        _ESCUDOS = {}
+        pares = []
+        try:
+            for x in json.loads((RAIZ / "datos" / "fixtures_dia.json").read_text(encoding="utf-8")).get("partidos", []):
+                pares += [(x.get("local"), x.get("logo_l")), (x.get("visitante"), x.get("logo_v"))]
+        except Exception:
+            pass
+        for f in (RAIZ / "datos" / "proximos").glob("*.json"):
+            try:
+                t = (json.loads(f.read_text(encoding="utf-8")).get("partido") or {}).get("teams") or {}
+                pares += [(t[k]["name"], t[k].get("logo")) for k in ("home", "away") if k in t]
+            except Exception:
+                continue
+        for n, url in pares:
+            if n and url:
+                for clave in (n, nombre_es(n)):
+                    _ESCUDOS.setdefault(clave.lower(), url)
+    n = nombre.lower()
+    url = _ESCUDOS.get(n) or _ESCUDOS.get(re.sub(r"^(el|la|los|las) ", "", n))
+    if not url:
+        return ""
+    from pathlib import Path
+    ruta = MEDIA / "escudos" / Path(url).name
+    if not ruta.exists():   # en el bot de GitHub hay red: se descarga y se guarda (imagenes.escudo)
+        try:
+            from imagenes import escudo
+            escudo(url, nombre)
+        except Exception:
+            pass
+    return str(ruta) if ruta.exists() else ""
+
+
 def fila(pata, partido=None, partido_ok=False):
     """('Gana Suiza (Eslovenia – Suiza)', cuota) → {'nombre': 'Suiza', 'pick': 'GANA', …}."""
     t = re.sub(r"\s*\([^)]*\)\s*", " ", pata).strip()
@@ -68,7 +111,7 @@ def fila(pata, partido=None, partido_ok=False):
             pais = _pais(nombre)
             import semana
             return {"nombre": nombre, "pick": pick(m), "pais": pais, "bandera": semana.BANDERAS.get(pais, "⚽"),
-                    "seleccion": bool(pais), "escudo": ""}
+                    "seleccion": bool(pais), "escudo": "" if pais else escudo_club(nombre)}
     c = CUOTA.search(pata)
     corto = t if len(t) <= 40 else t[:39].rstrip() + "…"   # 13/11 (Marcos): el pick tiene que verse en la foto
     return {"nombre": corto, "pick": f"@{c.group(1)}" if c else "✓", "pais": None, "bandera": "⚽", "seleccion": False,

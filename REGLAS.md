@@ -87,7 +87,7 @@
 - ⚙️ Fotos de la marca en escalera, pick del día y rojos; animación ¡VERDE! en verdes de cuota ≥ 3,00 (12/11). Sin muñeco.
 - 👤 Nunca editar un post ya publicado (04/11): si falta algo, respuesta o post nuevo.
 - ⚙️ Los posts de «solo Threads» no salen en Telegram (12/11).
-- 🤖 **Más fotos, menos texto (13/11):** copias de tipsters, picks, cuotazas y combis de varios partidos salen con tarjeta (banderas/escudos, apuesta corta, cuota y hora) y debajo solo la entrada, las patas y la cuota. Sin argumento ni «Sin argumento: solo el pick». Pero no siempre: tras 3 posts seguidos con foto, el siguiente va en texto («que el canal no esté solo con fotos»). (tarjeta_tg.py + test_tarjeta_tg)
+- 🤖 **Más fotos, menos texto (13/11):** copias de tipsters, picks, cuotazas y combis de varios partidos salen con tarjeta (banderas/escudos, apuesta corta, cuota y hora) y debajo solo la entrada, las patas y la cuota. Sin argumento ni «Sin argumento: solo el pick». El pick va escrito en la foto (Crear apuesta: una fila por condición), con el logo de la competición (logos grandes de football-logos.cc/paladarnegro, letras en blanco) y el escudo del club o la bandera de la selección (13/11). Pero no siempre: tras 3 posts seguidos con foto, el siguiente va en texto («que el canal no esté solo con fotos»). (tarjeta_tg.py + test_tarjeta_tg)
 - 👤 Nada de GIF de relleno, encuestas, concursos ni rankings (11/11).
 
 ## 7. Threads e Instagram
