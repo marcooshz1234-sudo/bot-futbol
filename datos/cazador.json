@@ -35,7 +35,7 @@
    "justa": 1.55,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Liechtenstein",
@@ -46,7 +46,7 @@
    "justa": 1.56,
    "ev": 0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Luxembourg",
@@ -57,18 +57,7 @@
    "justa": 1.54,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Albinoleffe",
-   "visitante": "Union Brescia",
-   "inicio": "2026-11-14T14:30",
-   "texto": "Albinoleffe o empate",
-   "cuota": 2.1,
-   "justa": 2.13,
-   "ev": -0.014,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
+   "edad_h": 0.4
   },
   {
    "local": "Bulgaria",
@@ -79,7 +68,7 @@
    "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Netherlands",
@@ -90,11 +79,11 @@
    "justa": 1.6,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T16:10",
+  "hora": "2026-11-13T16:32",
   "revisadas": 0,
   "mejor": null
  },
