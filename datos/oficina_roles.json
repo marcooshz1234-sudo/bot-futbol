@@ -183,5 +183,10 @@
   "rol": "ojeador",
   "hora": "2026-11-13T10:09",
   "texto": "09:10 UTC: sin picks nuevos (TipsAnalistas solo subió resultados de Pasto-Junior). Bot OK, vigilante sin abiertos."
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-13T12:11",
+  "texto": "11:10 UTC: bot en marcha (tanda en curso). Pérez solo publicidad/balance Élite (sin picks); TipsAnalistas y Pablo sin posts en 3h."
  }
 ]
