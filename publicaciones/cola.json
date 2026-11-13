@@ -5660,7 +5660,14 @@
     "cuotas": [
       1.57
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-13T16:18",
+    "mensaje_id": 443,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18119173373113631",
+      "instagram": "17968889181216013"
+    }
   },
   {
     "id": "2026-11-13-combi-tip-1",
@@ -5678,6 +5685,13 @@
       1.54,
       1.54
     ],
-    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "enviado": "2026-11-13T16:18",
+    "mensaje_id": 444,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18154851274555368",
+      "instagram": "18076581233759313"
+    }
   }
 ]
