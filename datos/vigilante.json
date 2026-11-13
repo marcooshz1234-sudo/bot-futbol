@@ -37,11 +37,21 @@
   "prensa-1528974-KylianMbappé": "2026-11-13T01:49",
   "prensa-1528975-0008c46f": "2026-11-13T02:37",
   "prensa-1528977-8cd0cd8a": "2026-11-13T03:19",
-  "regla-cuota_alta-2026-11-13-escalera": "2026-11-13T06:06"
+  "regla-cuota_alta-2026-11-13-escalera": "2026-11-13T06:06",
+  "bucle-gifs-2026111306": "2026-11-13T06:26"
  },
- "abiertos": [],
- "revisado": "2026-11-13T06:16",
+ "abiertos": [
+  {
+   "clave": "bucle-gifs-2026111306",
+   "t": "🔧 El paso «gifs» del bot ha fallado 4 veces en la última hora"
+  }
+ ],
+ "revisado": "2026-11-13T06:26",
  "historial": [
+  {
+   "hora": "2026-11-13T06:26",
+   "t": "🔧 El paso «gifs» del bot ha fallado 4 veces en la última hora"
+  },
   {
    "hora": "2026-11-13T06:06",
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «🪜 Reto escalera · Día 4/7» (11:00)"
