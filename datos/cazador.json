@@ -38,6 +38,17 @@
    "edad_h": 0.0
   },
   {
+   "local": "Bulgaria",
+   "visitante": "Iceland",
+   "inicio": "2026-11-13T20:45",
+   "texto": "Iceland marca 2 o más",
+   "cuota": 2.0,
+   "justa": 2.02,
+   "ev": -0.008,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Albinoleffe",
    "visitante": "Union Brescia",
    "inicio": "2026-11-14T14:30",
@@ -46,7 +57,7 @@
    "justa": 2.13,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 4.7
+   "edad_h": 5.1
   },
   {
    "local": "Moldova",
@@ -58,10 +69,21 @@
    "ev": -0.015,
    "fuente": "Pinnacle",
    "edad_h": 0.0
+  },
+  {
+   "local": "Netherlands",
+   "visitante": "Greece",
+   "inicio": "2026-11-13T20:45",
+   "texto": "Netherlands marca 2 o más",
+   "cuota": 1.57,
+   "justa": 1.6,
+   "ev": -0.017,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T13:01",
+  "hora": "2026-11-13T13:29",
   "revisadas": 0,
   "mejor": null
  },
