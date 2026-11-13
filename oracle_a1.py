@@ -176,4 +176,10 @@ def guardar(oci, cfg, comp_c, vcn_c, comp, ins):
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    except Exception as e:   # 13/11: una clave recién dada de alta tarda unos minutos en valer (401): no se rompe
+        if getattr(e, "status", None) == 401:
+            print("Oracle aún no acepta la clave (401). Se vuelve a probar en 10 min.")
+            sys.exit(0)
+        raise
