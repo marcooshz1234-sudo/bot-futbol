@@ -103,9 +103,25 @@
    "unidades": 0.66,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
+  },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "mercado": {
+  "Goals Over/Under Over 2.5": {
+   "n": 8,
+   "verdes": 4,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 2.31,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.542
+  },
   "Goals Over/Under Over 1.5": {
    "n": 8,
    "verdes": 6,
@@ -114,15 +130,6 @@
    "unidades": 0.98,
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.28
-  },
-  "Goals Over/Under Over 2.5": {
-   "n": 7,
-   "verdes": 4,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 2.31,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 2.542
   },
   "Match Winner Home": {
    "n": 7,
@@ -378,7 +385,7 @@
  },
  "equipo": {
   "—": {
-   "n": 44,
+   "n": 45,
    "verdes": 20,
    "rojos": 2,
    "nulos": 0,
@@ -553,7 +560,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 48,
+   "n": 49,
    "verdes": 26,
    "rojos": 2,
    "nulos": 0,
@@ -643,7 +650,7 @@
    "unidades": 0.0
   },
   "1,50-1,80": {
-   "n": 21,
+   "n": 22,
    "verdes": 10,
    "rojos": 5,
    "nulos": 0,
@@ -663,7 +670,7 @@
  },
  "liga": {
   "?": {
-   "n": 52,
+   "n": 53,
    "verdes": 22,
    "rojos": 5,
    "nulos": 0,
@@ -701,7 +708,7 @@
  },
  "lado": {
   "partido": {
-   "n": 34,
+   "n": 35,
    "verdes": 13,
    "rojos": 2,
    "nulos": 0,
@@ -730,7 +737,7 @@
  },
  "por_que": {
   "goles": {
-   "n": 26,
+   "n": 27,
    "verdes": 18,
    "rojos": 2,
    "nulos": 0,
@@ -757,7 +764,7 @@
    "prob_cuota": 1.421
   },
   "casa/fuera": {
-   "n": 7,
+   "n": 8,
    "verdes": 6,
    "rojos": 1,
    "nulos": 0,
@@ -802,7 +809,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 75,
+   "n": 76,
    "verdes": 38,
    "rojos": 10,
    "nulos": 0,
