@@ -35,11 +35,21 @@
   "prensa-1570024-a4d16dba": "2026-11-13T00:50",
   "prensa-1570020-a544cfbe": "2026-11-13T00:50",
   "prensa-1528974-KylianMbappé": "2026-11-13T01:49",
-  "prensa-1528975-0008c46f": "2026-11-13T02:37"
+  "prensa-1528975-0008c46f": "2026-11-13T02:37",
+  "prensa-1528977-8cd0cd8a": "2026-11-13T03:19"
  },
- "abiertos": [],
- "revisado": "2026-11-13T03:09",
+ "abiertos": [
+  {
+   "clave": "prensa-1528977-8cd0cd8a",
+   "t": "📰 Rumanía–Polonia: «Frankowski es baja y Polonia llama a Pyrka para el cierre» (KarloBag.eu) · tenemos 2 post(s) de este partido: ganadores-nations, combi-multi"
+  }
+ ],
+ "revisado": "2026-11-13T03:19",
  "historial": [
+  {
+   "hora": "2026-11-13T03:19",
+   "t": "📰 Rumanía–Polonia: «Frankowski es baja y Polonia llama a Pyrka para el cierre» (KarloBag.eu) · tenemos 2 post(s) de este partido: ganadores-nations, combi-multi"
+  },
   {
    "hora": "2026-11-13T02:37",
    "t": "📰 Irlanda del Norte–Ucrania: «Vladimir Putin descarta congelar la guerra rusa contra Ucrania e insiste en definir fronteras claras para logr» (El Tiempo) · tenemos 1 post(s) de este partido: combi-multi"
