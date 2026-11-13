@@ -5695,5 +5695,22 @@
       "instagram": "18076581233759313",
       "threads_enlace": "18001737000040156"
     }
+  },
+  {
+    "id": "2026-11-13-combi-noche-1",
+    "fecha": "2026-11-13T17:00",
+    "texto": "Combinada de selecciones para esta noche 🔥\n\n🇨🇭 Gana Suiza (Eslovenia – Suiza) @1,70\n🇦🇿 Azerbaiyán marca 2 o más (Liechtenstein – Azerbaiyán) @1,57\n\n⏰ Las dos a las 20:45\n\n👨‍💻 Suiza le ganó 2–1 y 3–0 a Eslovenia en los dos últimos partidos; Liechtenstein es la selección más floja de Europa\n\n📈 Cuota @2,67",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "sel": [
+      "1545654|Match Winner|Away",
+      "1528970|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.7,
+      1.57
+    ],
+    "nota": "13/11 16:46 Marcos: «sube los dos en combinada» (picks de Claude)"
   }
 ]
