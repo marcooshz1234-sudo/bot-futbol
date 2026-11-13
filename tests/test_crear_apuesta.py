@@ -47,6 +47,17 @@ class CrearApuesta(unittest.TestCase):
                 self.assertNotEqual(CA.sesgo(), 0.0)
 
 
+class Aprende(unittest.TestCase):
+    def test_margen_por_pata(self):   # 13/11 Escocia–Macedonia: 7 patas, multiplicando 9,03, bet365 6,25
+        ms = [{"sel": ["x"] * 2, "R": 1.0, "mult": 2.342, "real": 2.65},
+              {"sel": ["x"] * 4, "R": 1.677, "mult": 3.138, "real": 1.95},
+              {"sel": ["x"] * 7, "R": 1.76, "mult": 9.029, "real": 6.25}]
+        a, k = CA.parametros(ms)
+        self.assertGreater(a, 1.0)          # cada pata suma un poco: bet365 quita margen pata a pata
+        self.assertTrue(0.7 < k < 1.4, k)
+        self.assertAlmostEqual(CA.parametros([])[0], 1.0)   # sin medidas: no inventa
+
+
 class SinScipy(unittest.TestCase):
     def test_sin_scipy(self):   # 13/11: en GitHub no está scipy (fallaron los tests y calibrar_crear en el bucle)
         raiz = Path(__file__).resolve().parent.parent

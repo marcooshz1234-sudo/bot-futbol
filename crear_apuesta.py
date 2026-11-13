@@ -13,7 +13,8 @@ Cómo lo calcula:
      que si mete 1; sus remates también suben un poco con los goles (RHO_TIROS).
   3. Córners, tarjetas, faltas y lo que no sabe modelar: como si fueran sueltas (con su probabilidad).
   4. R = probabilidad de todo junto / producto de las probabilidades sueltas (R > 1: van juntas, paga menos).
-     Cuota = multiplicando / R × lo aprendido (SESGO, de las cuotas reales que da Marcos: datos/crear_medidas.json).
+     Cuota = multiplicando × a^patas / R^k, con a y k aprendidos de las cuotas reales que da Marcos
+     (datos/crear_medidas.json). 13/11 Escocia–Macedonia: bet365 quita parte del margen de cada pata (a ≈ 1,02).
 
 Uso:  python3 crear_apuesta.py <post_id>            (o desde código: cuota(sel, cuotas))
       python3 crear_apuesta.py --medidas            (error medio contra las cuotas reales guardadas)
@@ -30,6 +31,7 @@ MEDIDAS = DATOS / "crear_medidas.json"
 MAXG = 9
 PARTE1 = 0.45            # parte de los goles que cae en la 1ª parte
 RHO_TIROS = 0.35         # cuánto suben los remates de un jugador con los goles de su equipo
+FRENO = 0.5             # con pocas medidas, a y k casi no se mueven de (1, 1)
 MARGEN_SUELTA = 1.06     # margen de bet365 en un mercado de una sola cara (goleador, remates de jugador…)
 _G = np.arange(MAXG + 1)
 
@@ -232,6 +234,24 @@ def sesgo():
     return sum(logs) / (len(logs) + 2)   # con 2 «medidas fantasma» en 0: con pocas, casi no corrige
 
 
+def parametros(ms=None):
+    """Lo aprendido de las cuotas reales de bet365: (a, k).
+
+    a: bet365 en el Crear apuesta quita parte del margen de CADA pata (cuantas más patas, más se nota).
+    k: cuánto de fuerte liga de verdad las patas comparado con el modelo (1 = como el modelo).
+    cuota = multiplicando × a^patas / R^k. Ajuste por mínimos cuadrados en logaritmos, con freno hacia (1, 1).
+    """
+    ms = [m for m in (leer(MEDIDAS, []) if ms is None else ms) or [] if m.get("R") and m.get("real") and m.get("mult")]
+    A = np.eye(2) * FRENO
+    b = np.array([0.0, FRENO])
+    for m in ms:
+        x = np.array([len(m["sel"]), -math.log(m["R"])])
+        A += np.outer(x, x)
+        b += x * math.log(m["real"] / m["mult"])
+    la, k = np.linalg.solve(A, b)
+    return math.exp(la), float(k)
+
+
 def cuota(sel, cuotas, c=None):
     """La cuota que calcula el bot para el «Crear apuesta» (o None si no hay cuotas del partido)."""
     fid = sel[0].split("|")[0]
@@ -239,7 +259,8 @@ def cuota(sel, cuotas, c=None):
     if not c:
         return None
     r = calcular(sel, cuotas, c)
-    return round(r["cuota_modelo"] * math.exp(sesgo()), 2)
+    a, k = parametros()
+    return round(r["mult"] * a ** len(sel) / r["R"] ** k, 2)
 
 
 def guardar_medida(pid, sel, cuotas, real, fuente="Marcos"):
@@ -270,8 +291,16 @@ def informe():
     e_mod = sum(abs(m["cuota_modelo"] / m["real"] - 1) for m in ms) / len(ms)
     print(f"{len(ms)} medidas · error multiplicando {100 * e_mult:.0f} % · error del modelo {100 * e_mod:.0f} %"
           f" · sesgo aprendido ×{math.exp(sesgo()):.3f}")
-    for m in ms:
-        print(f"  {m['id'][:42]:42} mult {m['mult']:.2f} · modelo {m['cuota_modelo']:.2f} · real {m['real']:.2f}")
+    a, k = parametros(ms)
+    print(f"aprendido: a {a:.3f} por pata · k {k:.2f}")
+    errs = []
+    for i, m in enumerate(ms):
+        a_, k_ = parametros(ms[:i] + ms[i + 1:])   # sin ella: ¿la habría acertado?
+        pred = m["mult"] * a_ ** len(m["sel"]) / m["R"] ** k_
+        errs.append(abs(pred / m["real"] - 1))
+        print(f"  {m['id'][:42]:42} mult {m['mult']:.2f} · bot {pred:.2f} · real {m['real']:.2f}"
+              f" ({100 * (pred / m['real'] - 1):+.0f} %)")
+    print(f"error sin haberla visto: {100 * sum(errs) / len(errs):.0f} %")
 
 
 if __name__ == "__main__":
