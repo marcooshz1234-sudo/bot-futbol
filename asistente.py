@@ -297,7 +297,10 @@ class Asistente:
             corto = hashlib.md5(p["id"].encode()).hexdigest()[:10]
             c.setdefault("por_aprobar", {})[corto] = p["id"]
             botones = [[("✅ Publicar", f"ap|{corto}"), ("❌ No sale", f"apno|{corto}")]]
-            cab = (p["aviso"] + "\n\n") if p.get("aviso") else "💚 ¡VERDE! Revísalo: solo sale cuando le des a Publicar.\n\n"   # 11/11: cuotazas
+            # 13/11: un post normal en espera (no verde) salía como «¡VERDE!» y confundía a Marcos
+            cab = (p["aviso"] + "\n\n") if p.get("aviso") else (
+                "💚 ¡VERDE! Revísalo: solo sale cuando le des a Publicar.\n\n" if p.get("verde_de") or "verde" in p["id"]
+                else "⏸️ Post en espera: solo sale cuando le des a Publicar.\n\n")   # 11/11: cuotazas
             aviso = cab + c["textos"].get(p["id"], p["texto"])
             foto = (RAIZ / p["foto"]) if isinstance(p.get("foto"), str) else None
             if foto and foto.exists() and len(aviso) <= 1024:
