@@ -2124,5 +2124,31 @@
    "cuota_bet365": 1.2,
    "prob_cuota": 0.833
   }
+ },
+ {
+  "tipster": "PABLO ANALISTA",
+  "fuente": "-1001393609245/16322",
+  "dia": "2026-11-13",
+  "hora": "21:00",
+  "local": "Salamanca UDS",
+  "visitante": "Celta Vigo",
+  "texto": "El Salamanca marca en la Copa ante el Celta",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "cuota": 1.66,
+  "stake": 1,
+  "argumento": [
+   "Eliminatoria de Copa del Rey a partido único en casa del Salamanca",
+   "El Salamanca marcó al menos un gol en 8 de sus últimos 12 partidos"
+  ],
+  "por_que": [
+   "En Copa el Celta suele rotar y el Salamanca, con su campo lleno, va a buscar el gol; 1,66 da valor a algo que pasa en dos de cada tres partidos suyos."
+  ],
+  "partido_id": 1644376,
+  "analisis": {
+   "liga": "Copa del Rey",
+   "cuota_bet365": 1.67,
+   "prob_cuota": 0.602
+  }
  }
 ]

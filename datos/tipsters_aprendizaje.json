@@ -77,6 +77,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.238
   },
+  "PABLO ANALISTA": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.66,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.602
+  },
   "ENZO TIPSTER": {
    "n": 2,
    "verdes": 2,
@@ -99,15 +108,6 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.602
-  },
-  "PABLO ANALISTA": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.66,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
   },
@@ -220,6 +220,15 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.693
   },
+  "Total - Home Over 0.5": {
+   "n": 3,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.86,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.538
+  },
   "To Qualify Away": {
    "n": 2,
    "verdes": 1,
@@ -237,15 +246,6 @@
    "unidades": 0.7,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.588
-  },
-  "Total - Home Over 0.5": {
-   "n": 2,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.86,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.538
   },
   "Asian Handicap Home -0.25": {
    "n": 1,
@@ -420,7 +420,7 @@
  },
  "equipo": {
   "—": {
-   "n": 52,
+   "n": 53,
    "verdes": 20,
    "rojos": 2,
    "nulos": 0,
@@ -625,7 +625,7 @@
    "prob_cuota": 12.239
   },
   "goles": {
-   "n": 20,
+   "n": 21,
    "verdes": 6,
    "rojos": 5,
    "nulos": 0,
@@ -634,7 +634,7 @@
    "prob_cuota": 8.24
   },
   "casa/fuera": {
-   "n": 13,
+   "n": 14,
    "verdes": 6,
    "rojos": 2,
    "nulos": 0,
@@ -670,7 +670,7 @@
    "prob_cuota": 2.843
   },
   "motivación": {
-   "n": 5,
+   "n": 6,
    "verdes": 2,
    "rojos": 1,
    "nulos": 0,
@@ -690,7 +690,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 28,
+   "n": 29,
    "verdes": 10,
    "rojos": 5,
    "nulos": 0,
@@ -744,7 +744,7 @@
    "prob_cuota": 8.982
   },
   "Copa del Rey": {
-   "n": 4,
+   "n": 5,
    "verdes": 3,
    "rojos": 1,
    "nulos": 0,
@@ -782,7 +782,7 @@
    "prob_cuota": 12.035
   },
   "local": {
-   "n": 20,
+   "n": 21,
    "verdes": 9,
    "rojos": 4,
    "nulos": 0,
@@ -793,7 +793,7 @@
  },
  "por_que": {
   "goles": {
-   "n": 35,
+   "n": 36,
    "verdes": 18,
    "rojos": 2,
    "nulos": 0,
@@ -820,7 +820,7 @@
    "prob_cuota": 1.421
   },
   "casa/fuera": {
-   "n": 11,
+   "n": 12,
    "verdes": 6,
    "rojos": 1,
    "nulos": 0,
@@ -829,7 +829,7 @@
    "prob_cuota": 4.35
   },
   "motivación": {
-   "n": 7,
+   "n": 8,
    "verdes": 1,
    "rojos": 2,
    "nulos": 0,
@@ -865,7 +865,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 86,
+   "n": 87,
    "verdes": 38,
    "rojos": 10,
    "nulos": 0,
