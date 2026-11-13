@@ -1888,5 +1888,53 @@
   "por_que": [
    "Amistoso sub-21: suelen ser partidos abiertos con muchos cambios; España sub-21 marca mucho en casa"
   ]
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47026",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Serbia",
+  "visitante": "Germany",
+  "texto": "Alemania -1,5 (hándicap): gana por 2 o más",
+  "mercado": "Asian Handicap",
+  "opcion": "Away -1.5",
+  "cuota": 1.675,
+  "stake": 3,
+  "argumento": [
+   "Superioridad de Alemania; Serbia no se juega nada (última del grupo con 0 puntos) y puede salir con menos intensidad"
+  ],
+  "por_que": [
+   "Apuesta gratis del canal (14:00). Alemania @1,28 para ganar y 2+ goles de Alemania @1,28: ganar por 2 es lo esperable. Apuntado por Claude."
+  ],
+  "partido_id": 1528965,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.597
+  }
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10076",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Netherlands",
+  "visitante": "Greece",
+  "texto": "Países Bajos gana alguna de las dos partes, más de 1,5 goles y Grecia no marca 3 (MyMatch / Crear apuesta)",
+  "mercado": "To Win Either Half",
+  "opcion": "Home",
+  "cuota": 1.54,
+  "argumento": [
+   "Países Bajos y Grecia, 1º y 2º del grupo con 8 puntos; Países Bajos favorito en casa"
+  ],
+  "por_que": [
+   "Crear apuesta con cuota 1,54 del canal: patas que van juntas (Países Bajos gana una parte y hay 2+ goles). El verde, a mano. Apuntado por Claude."
+  ],
+  "partido_id": 1528966,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.3,
+   "prob_cuota": 0.649
+  }
  }
 ]
