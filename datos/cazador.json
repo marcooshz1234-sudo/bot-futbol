@@ -27,19 +27,30 @@
  },
  "top": [
   {
-   "local": "Slovakia",
-   "visitante": "Faroe Islands",
-   "inicio": "2026-11-13T20:45",
-   "texto": "Slovakia marca 2 o más",
-   "cuota": 1.53,
-   "justa": 1.55,
-   "ev": -0.015,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "local": "Real Madrid W",
+   "visitante": "FC Levante Badalona W",
+   "inicio": "2026-11-14T20:30",
+   "texto": "FC Levante Badalona W marca",
+   "cuota": 2.2,
+   "justa": 2.18,
+   "ev": 0.009,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Deportivo Alavés W",
+   "visitante": "Eibar W",
+   "inicio": "2026-11-14T18:00",
+   "texto": "Ambos marcan en Deportivo Alavés W–Eibar W",
+   "cuota": 2.0,
+   "justa": 2.02,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T19:56",
+  "hora": "2026-11-13T20:42",
   "revisadas": 0,
   "mejor": null
  },

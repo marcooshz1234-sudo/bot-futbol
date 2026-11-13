@@ -124,6 +124,13 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "CRIMINALPICKS🕵🏻‍♂️": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "mercado": {
@@ -155,7 +162,7 @@
    "prob_cuota": 3.05
   },
   "Match Winner Away": {
-   "n": 5,
+   "n": 6,
    "verdes": 4,
    "rojos": 1,
    "nulos": 0,
@@ -612,11 +619,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Switzerland": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 51,
+   "n": 52,
    "verdes": 26,
    "rojos": 2,
    "nulos": 0,
@@ -715,7 +729,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 8,
+   "n": 9,
    "verdes": 2,
    "rojos": 0,
    "nulos": 0,
@@ -735,7 +749,7 @@
    "prob_cuota": 9.274
   },
   "UEFA Nations League": {
-   "n": 23,
+   "n": 24,
    "verdes": 12,
    "rojos": 1,
    "nulos": 0,
@@ -773,7 +787,7 @@
    "prob_cuota": 6.672
   },
   "visitante": {
-   "n": 25,
+   "n": 26,
    "verdes": 16,
    "rojos": 4,
    "nulos": 0,
@@ -802,7 +816,7 @@
    "prob_cuota": 14.039
   },
   "—": {
-   "n": 24,
+   "n": 25,
    "verdes": 5,
    "rojos": 7,
    "nulos": 0,
@@ -865,7 +879,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 87,
+   "n": 88,
    "verdes": 38,
    "rojos": 10,
    "nulos": 0,

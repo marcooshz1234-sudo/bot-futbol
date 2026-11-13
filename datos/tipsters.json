@@ -2150,5 +2150,25 @@
    "cuota_bet365": 1.67,
    "prob_cuota": 0.602
   }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11016",
+  "dia": "2026-11-13",
+  "local": "Slovenia",
+  "visitante": "Switzerland",
+  "partido_id": 1545654,
+  "texto": "Gana el Suiza",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.85,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.65,
+   "prob_cuota": 0.541
+  }
  }
 ]
