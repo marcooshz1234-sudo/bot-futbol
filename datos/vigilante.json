@@ -40,11 +40,21 @@
   "regla-cuota_alta-2026-11-13-escalera": "2026-11-13T06:06",
   "bucle-gifs-2026111306": "2026-11-13T06:26",
   "bucle-gifs-2026111307": "2026-11-13T07:09",
-  "foto-2026-11-13-pick-tip-1": "2026-11-13T13:49"
+  "foto-2026-11-13-pick-tip-1": "2026-11-13T13:49",
+  "escalera-2026-11-13": "2026-11-13T14:21"
  },
- "abiertos": [],
- "revisado": "2026-11-13T13:59",
+ "abiertos": [
+  {
+   "clave": "escalera-2026-11-13",
+   "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
+  }
+ ],
+ "revisado": "2026-11-13T14:21",
  "historial": [
+  {
+   "hora": "2026-11-13T14:21",
+   "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
+  },
   {
    "hora": "2026-11-13T13:49",
    "t": "🖼️ Sale a las 13:50 y su foto no está hecha (o es vieja): Vamos con otro pick, familia 👇"
