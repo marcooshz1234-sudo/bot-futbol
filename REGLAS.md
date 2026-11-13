@@ -95,7 +95,7 @@
 - ⚙️ Siempre lo que se gana con 10 €.
 - ⚙️ Instagram: nunca dinero ni boletos en las imágenes (salvo la escalera).
 - ⚙️ Logo de la competición en los posts de una sola competición o partido: máxima calidad, sin círculo blanco.
-- ⚙️ Ganadores (plantilla oro): «WIN», nunca sin su foto.
+- ⚙️ Ganadores (plantilla «estadio» con el logo CL): «WIN», nunca sin su foto (se rehace si cambian los equipos).
 - 👤 Más contenido de noche para el día siguiente; sobre las 00:30, siempre algo con escudos.
 
 ## 8. Verdes y rojos
