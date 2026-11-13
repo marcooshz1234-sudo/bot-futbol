@@ -5824,5 +5824,82 @@
     "verde_de": "2026-11-13-pick-tip-3",
     "requiere_ok": true,
     "aviso": "💚 ¡VERDE! (Crear apuesta, 7-0) Te lo paso porque la cuota del Crear apuesta es la del tipster, sin confirmar en bet365. Sale cuando le des a Publicar."
+  },
+  {
+    "id": "2026-11-13-verde-auto-2026-11-13-combi-partido-1528965-th",
+    "fecha": "2026-11-13T23:14",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana Alemania\n✅ Alemania marca 2 o más\n✅ Florian Wirtz: 3+ tiros\n✅ Florian Wirtz marca o da asistencia\n\n📈 Cuota @3,25",
+    "foto": "publicaciones/media/2026-11-13-verde-auto-2026-11-13-combi-partido-1528965-th.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-13-combi-partido-1528965-th",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-13-verde-auto-2026-11-13-pick-tip-2",
+    "fecha": "2026-11-13T23:14",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Alemania -1,5 (hándicap): gana por 2 o más\n\n📈 Cuota @1,68",
+    "foto": "publicaciones/media/2026-11-13-verde-auto-2026-11-13-pick-tip-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-13-pick-tip-2",
+    "agrupado_en": "2026-11-13-verde-grupo-2259",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-13-verde-auto-2026-11-13-pick-seguro",
+    "fecha": "2026-11-13T23:14",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Andorra gana alguna de las dos partes\n\n📈 Cuota @1,50\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-13-verde-auto-2026-11-13-pick-seguro.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-13-pick-seguro",
+    "agrupado_en": "2026-11-13-verde-grupo-2259",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-13-verde-auto-2026-11-13-pick-seguro-2",
+    "fecha": "2026-11-13T23:14",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Andorra gana alguna de las dos partes\n\n📈 Cuota @1,44",
+    "foto": "publicaciones/media/2026-11-13-verde-auto-2026-11-13-pick-seguro-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-13-pick-seguro-2",
+    "agrupado_en": "2026-11-13-verde-grupo-2259",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-13-verde-grupo-2259",
+    "fecha": "2026-11-13T23:14",
+    "texto": "🔥 ¡3 VERDES PARA DENTRO! 🔥\n\n✅ Pick del día · Andorra gana alguna de las dos partes @1,50\n✅ Segundo pick · Andorra gana alguna de las dos partes @1,44\n✅ Pick · Alemania -1,5 (hándicap): gana por 2 o más @1,68\n\n💚 ¡A COBRAR!",
+    "foto": "publicaciones/media/2026-11-13-verde-grupo-2259.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "resultado": "verde",
+    "verdes": [
+      "2026-11-13-verde-auto-2026-11-13-pick-tip-2",
+      "2026-11-13-verde-auto-2026-11-13-pick-seguro",
+      "2026-11-13-verde-auto-2026-11-13-pick-seguro-2"
+    ],
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ]
   }
 ]
