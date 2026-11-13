@@ -4490,15 +4490,17 @@
   {
     "id": "2026-11-13-escalera",
     "fecha": "2026-11-13T11:00",
-    "texto": "🪜 Reto escalera · Día 4/7\n📊 Con datos detrás, nada de corazonadas\n\n✅ Día 3 superado: 72,72€ → 130,90€\n\n🇮🇸 Gana Islandia\n\n📈 Cuota @1,83\n💶 130,90€ → 239,55€\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🪜 Reto escalera · Día 4/7\n📊 Con datos detrás, nada de corazonadas\n\n✅ Día 3 superado: 72,72€ → 130,90€\n\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia marca 2 o más\n⚽ Más de 1,5 goles en Liechtenstein–Azerbaiyán\n\n📈 Cuota @1,85\n💶 130,90€ → 242,17€\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528969|Match Winner|Away"
+      "1545659|Total - Home|Over 1.5",
+      "1528970|Goals Over/Under|Over 1.5"
     ],
     "cuotas": [
-      1.83
+      1.36,
+      1.36
     ]
   },
   {
@@ -4770,6 +4772,97 @@
     ],
     "cuotas": [
       1.4
+    ]
+  },
+  {
+    "id": "2026-11-20-ganadores-resto",
+    "fecha": "2026-11-20T00:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇰 Aarhus Fremad - Win\n2. 🇩🇪 Bayern - Win\n3. 🇫🇷 Estac Troyes - Win\n4. 🇪🇸 Athletic Club - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1551377|Match Winner|Home",
+      "1575221|Match Winner|Home",
+      "1552827|Match Winner|Home",
+      "1570454|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.91,
+      1.07,
+      2.1,
+      1.48
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Denmark",
+          "bandera": "🇩🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/6004.png",
+          "nombre": "Aarhus Fremad",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/157.png",
+          "nombre": "Bayern",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/110.png",
+          "nombre": "Estac Troyes",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/531.png",
+          "nombre": "Athletic Club",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿QUIÉN SE APUNTA?"
+    }
+  },
+  {
+    "id": "2026-11-20-pick-seguro",
+    "fecha": "2026-11-20T10:30",
+    "texto": "Pick de hoy, con datos detrás 📊\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Athletic Club – Espanyol · 21:00\n\n🍀 Gana el Athletic Club @1,48\n🧠 Stake 3/10\n\n👨‍💻 El Athletic Club va 7º y el Espanyol 15º en la liga.\n👨‍💻 El Athletic Club ha ganado 3 de sus últimos 5 partidos.\n👨‍💻 El Espanyol solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570454|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.48
+    ]
+  },
+  {
+    "id": "2026-11-20-combi-tres",
+    "fecha": "2026-11-20T13:30",
+    "texto": "Vamos con la combi del viernes familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇩🇰 Kolding IF o empate\n🇪🇸 Gana el Athletic Club\n\n📈 Cuota @2,26\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1551380|Double Chance|Home/Draw",
+      "1570454|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.53,
+      1.48
     ]
   }
 ]

@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 13/11/2026 02:17 (hora España). Partidos guardados en la base de datos: 2575._
+_Actualizado el 13/11/2026 06:01 (hora España). Partidos guardados en la base de datos: 2575._
 
 
 ## Viernes 13/11
@@ -114,8 +114,8 @@ _Actualizado el 13/11/2026 02:17 (hora España). Partidos guardados en la base d
 
 ## Viernes 20/11
 - 16:30 · Liga I · [FC Botosani – FC Voluntari](informes/2026-11-20_fc-botosani-vs-fc-voluntari.md)
-- 19:00 · 1. Division · [Kolding IF – Aalborg](informes/2026-11-20_kolding-if-vs-aalborg.md)
-- 19:00 · 1. Division · [Aarhus Fremad – Hobro](informes/2026-11-20_aarhus-fremad-vs-hobro.md)
+- 19:00 · 1. Division · [Kolding IF – Aalborg](informes/2026-11-20_kolding-if-vs-aalborg.md) · 1X2: 2.70 / 3.40 / 2.30
+- 19:00 · 1. Division · [Aarhus Fremad – Hobro](informes/2026-11-20_aarhus-fremad-vs-hobro.md) · 1X2: 1.91 / 3.50 / 3.50
 - 19:30 · Liga I · [Farul Constanta – Universitatea Cluj](informes/2026-11-20_farul-constanta-vs-universitatea-cluj.md)
 - 20:30 · Bundesliga · [Bayern München – 1. FC Köln](informes/2026-11-20_bayern-munchen-vs-1-fc-koln.md) · 1X2: 1.07 / 11.00 / 23.00
 - 20:30 · Segunda División · [FC Andorra – Leganes](informes/2026-11-20_fc-andorra-vs-leganes.md)

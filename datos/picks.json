@@ -1,10 +1,61 @@
 {
- "generado": "2026-11-13 05:49",
+ "generado": "2026-11-13 06:04",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
   "frecuencia_equipo_min": 0.7,
   "ultimos_partidos": 10
  },
- "dias": {}
+ "dias": {
+  "2026-11-20": {
+   "picks": [
+    {
+     "partido_id": 1551380,
+     "fecha": "2026-11-20T19:00",
+     "competicion": "1. Division",
+     "liga_id": 120,
+     "local": "Kolding IF",
+     "visitante": "Aalborg",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Kolding IF o empate",
+     "cuota": 1.53,
+     "frecuencia": 0.8,
+     "ventaja": 0.146,
+     "detalle": "Kolding IF 7/10 · Aalborg 9/10",
+     "valor_mercado": 0.007,
+     "prob_aprendida": 0.677
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1551380,
+     "fecha": "2026-11-20T19:00",
+     "competicion": "1. Division",
+     "liga_id": 120,
+     "local": "Kolding IF",
+     "visitante": "Aalborg",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Kolding IF o empate",
+     "cuota": 1.53,
+     "frecuencia": 0.8,
+     "ventaja": 0.146,
+     "detalle": "Kolding IF 7/10 · Aalborg 9/10",
+     "valor_mercado": 0.007,
+     "prob_aprendida": 0.677
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  }
+ }
 }

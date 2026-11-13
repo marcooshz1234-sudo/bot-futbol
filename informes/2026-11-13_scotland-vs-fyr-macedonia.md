@@ -1,7 +1,7 @@
 # Scotland – FYR Macedonia
 **Nations League** · League B - 5 · 13/11/2026 20:45 (hora España) · Hampden Park Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 02:15_

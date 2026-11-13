@@ -1,7 +1,7 @@
 # Georgia – Hungary
 **Nations League** · League B - 5 · 14/11/2026 18:00 (hora España) · Boris Paichadze Dinamo Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 02:16_

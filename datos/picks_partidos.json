@@ -1,300 +1,4 @@
 {
- "2026-11-14": [
-  {
-   "partido_id": 1528971,
-   "fecha": "2026-11-14T15:00",
-   "local": "Kosovo",
-   "visitante": "Israel",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528971|To Win Either Half|Home",
-     "texto": "Kosovo gana alguna de las dos partes",
-     "cuota": 1.44,
-     "prob": 0.64
-    },
-    {
-     "sel": "1528971|Total - Away|Over 0.5",
-     "texto": "Israel marca",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528971|Match Winner|Home",
-     "texto": "Gana el Kosovo",
-     "cuota": 1.8,
-     "prob": 0.52
-    },
-    {
-     "sel": "1528971|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Kosovo–Israel",
-     "cuota": 1.8,
-     "prob": 0.52
-    },
-    {
-     "sel": "1528971|Total - Home|Over 1.5",
-     "texto": "Kosovo marca 2 o más",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1528972,
-   "fecha": "2026-11-14T18:00",
-   "local": "Norway",
-   "visitante": "Wales",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528972|Total - Away|Over 0.5",
-     "texto": "Gales marca",
-     "cuota": 1.73,
-     "prob": 0.54
-    },
-    {
-     "sel": "1528972|Total - Home|Over 2.5",
-     "texto": "Noruega marca 3 o más",
-     "cuota": 1.8,
-     "prob": 0.52
-    },
-    {
-     "sel": "1528972|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Noruega–Gales",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  },
-  {
-   "partido_id": 1528973,
-   "fecha": "2026-11-14T18:00",
-   "local": "Georgia",
-   "visitante": "Hungary",
-   "liga": "Nations League",
-   "datos": [
-    "La cuota de que gane el Georgia ha bajado de 3,2 a 2,88: el mercado lo ve más claro"
-   ],
-   "picks": [
-    {
-     "sel": "1528973|Total - Away|Over 0.5",
-     "texto": "Hungría marca",
-     "cuota": 1.4,
-     "prob": 0.66
-    },
-    {
-     "sel": "1528973|Double Chance|Draw/Away",
-     "texto": "Hungría o empate",
-     "cuota": 1.4,
-     "prob": 0.66
-    },
-    {
-     "sel": "1528973|Goals Over/Under|Over 1.5",
-     "texto": "Más de 1,5 goles en Georgia–Hungría",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1528973|Total - Home|Over 0.5",
-     "texto": "Georgia marca",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1528973|Double Chance|Home/Draw",
-     "texto": "Georgia o empate",
-     "cuota": 1.5,
-     "prob": 0.62
-    }
-   ]
-  },
-  {
-   "partido_id": 1528977,
-   "fecha": "2026-11-14T20:45",
-   "local": "Romania",
-   "visitante": "Poland",
-   "liga": "Nations League",
-   "datos": [
-    "La cuota de que gane el Poland ha bajado de 2,0 a 1,83: el mercado lo ve más claro"
-   ],
-   "picks": [
-    {
-     "sel": "1528977|Total - Home|Over 0.5",
-     "texto": "Rumanía marca",
-     "cuota": 1.4,
-     "prob": 0.66
-    },
-    {
-     "sel": "1528977|To Win Either Half|Away",
-     "texto": "Polonia gana alguna de las dos partes",
-     "cuota": 1.44,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528977|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Rumanía–Polonia",
-     "cuota": 1.67,
-     "prob": 0.56
-    },
-    {
-     "sel": "1528977|Match Winner|Away",
-     "texto": "Gana Polonia",
-     "cuota": 1.83,
-     "prob": 0.52
-    },
-    {
-     "sel": "1528977|Total - Away|Over 1.5",
-     "texto": "Polonia marca 2 o más",
-     "cuota": 1.8,
-     "prob": 0.52
-    }
-   ]
-  },
-  {
-   "partido_id": 1528978,
-   "fecha": "2026-11-14T20:45",
-   "local": "Sweden",
-   "visitante": "Bosnia & Herzegovina",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528978|Match Winner|Home",
-     "texto": "Gana Suecia",
-     "cuota": 1.5,
-     "prob": 0.63
-    },
-    {
-     "sel": "1528978|Total - Home|Over 1.5",
-     "texto": "Suecia marca 2 o más",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528978|Total - Away|Over 0.5",
-     "texto": "Bosnia marca",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528978|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Suecia–Bosnia",
-     "cuota": 1.67,
-     "prob": 0.56
-    }
-   ]
-  },
-  {
-   "partido_id": 1528974,
-   "fecha": "2026-11-14T20:45",
-   "local": "Portugal",
-   "visitante": "Denmark",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528974|Total - Home|Over 1.5",
-     "texto": "Portugal marca 2 o más",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1528974|Total - Away|Over 0.5",
-     "texto": "Dinamarca marca",
-     "cuota": 1.44,
-     "prob": 0.65
-    },
-    {
-     "sel": "1528974|Match Winner|Home",
-     "texto": "Gana el Portugal",
-     "cuota": 1.5,
-     "prob": 0.63
-    },
-    {
-     "sel": "1528974|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Portugal–Dinamarca",
-     "cuota": 1.62,
-     "prob": 0.58
-    }
-   ]
-  },
-  {
-   "partido_id": 1528975,
-   "fecha": "2026-11-14T20:45",
-   "local": "Northern Ireland",
-   "visitante": "Ukraine",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528975|Total - Home|Over 0.5",
-     "texto": "Irlanda del Norte marca",
-     "cuota": 1.36,
-     "prob": 0.69
-    },
-    {
-     "sel": "1528975|Double Chance|Home/Draw",
-     "texto": "Irlanda del Norte o empate",
-     "cuota": 1.36,
-     "prob": 0.68
-    },
-    {
-     "sel": "1528975|Goals Over/Under|Over 1.5",
-     "texto": "Más de 1,5 goles en Irlanda del Norte–Ucrania",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528975|Total - Away|Over 0.5",
-     "texto": "Ucrania marca",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1528975|Double Chance|Draw/Away",
-     "texto": "Ucrania o empate",
-     "cuota": 1.53,
-     "prob": 0.6
-    }
-   ]
-  },
-  {
-   "partido_id": 1528976,
-   "fecha": "2026-11-14T20:45",
-   "local": "Austria",
-   "visitante": "Rep. Of Ireland",
-   "liga": "Nations League",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1528976|Match Winner|Home",
-     "texto": "Gana el Austria",
-     "cuota": 1.57,
-     "prob": 0.6
-    },
-    {
-     "sel": "1528976|Total - Away|Over 0.5",
-     "texto": "Irlanda marca",
-     "cuota": 1.62,
-     "prob": 0.58
-    },
-    {
-     "sel": "1528976|Total - Home|Over 1.5",
-     "texto": "Austria marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.56
-    },
-    {
-     "sel": "1528976|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Austria–Irlanda",
-     "cuota": 1.83,
-     "prob": 0.5
-    }
-   ]
-  }
- ],
  "2026-11-15": [
   {
    "partido_id": 1608365,
@@ -304,9 +8,7 @@
    "liga": "Serie C",
    "datos": [
     "Los partidos del Juventus U23 llevan 2,9 goles de media (últimos 8).",
-    "Los partidos del Treviso llevan 1,2 goles de media (últimos 8).",
-    "El Juventus U23 solo ha ganado 1 de sus últimos 5.",
-    "El Treviso ha ganado 3 de sus últimos 5 partidos."
+    "Los partidos del Treviso llevan 1,2 goles de media (últimos 8)."
    ],
    "picks": [
     {
@@ -314,16 +16,105 @@
      "texto": "Juventus U23 marca",
      "cuota": 1.4,
      "prob": 0.64
-    },
-    {
-     "sel": "1608365|Match Winner|Away",
-     "texto": "Gana el Treviso",
-     "cuota": 2.25,
-     "prob": 0.51
     }
    ]
   }
  ],
  "2026-11-16": [],
- "2026-11-17": []
+ "2026-11-17": [],
+ "2026-11-20": [
+  {
+   "partido_id": 1551377,
+   "fecha": "2026-11-20T19:00",
+   "local": "Aarhus Fremad",
+   "visitante": "Hobro",
+   "liga": "1. Division",
+   "datos": [
+    "Los partidos del Aarhus Fremad llevan 1,8 goles de media (últimos 8).",
+    "Los partidos del Hobro llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1551377|Total - Away|Over 0.5",
+     "texto": "Hobro marca",
+     "cuota": 1.44,
+     "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1551380,
+   "fecha": "2026-11-20T19:00",
+   "local": "Kolding IF",
+   "visitante": "Aalborg",
+   "liga": "1. Division",
+   "datos": [
+    "El Aalborg no ha ganado ninguno de sus últimos 5.",
+    "Los partidos del Kolding IF llevan 2,5 goles de media (últimos 8).",
+    "Los partidos del Aalborg llevan 3,0 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1551380|Double Chance|Home/Draw",
+     "texto": "Kolding IF o empate",
+     "cuota": 1.53,
+     "prob": 0.53
+    },
+    {
+     "sel": "1551380|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Kolding IF–Aalborg",
+     "cuota": 1.57,
+     "prob": 0.44
+    }
+   ]
+  },
+  {
+   "partido_id": 1575221,
+   "fecha": "2026-11-20T20:30",
+   "local": "Bayern München",
+   "visitante": "1. FC Köln",
+   "liga": "Bundesliga",
+   "datos": [
+    "El Bayern München va 1º y el 1. FC Köln 14º en la liga.",
+    "Los partidos del Bayern München llevan 4,6 goles de media (últimos 8).",
+    "Los partidos del 1. FC Köln llevan 2,4 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1575221|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Bayern München–1. FC Köln",
+     "cuota": 1.36,
+     "prob": 0.53
+    }
+   ]
+  },
+  {
+   "partido_id": 1570454,
+   "fecha": "2026-11-20T21:00",
+   "local": "Athletic Club",
+   "visitante": "Espanyol",
+   "liga": "LaLiga",
+   "datos": [
+    "El Athletic Club va 7º y el Espanyol 15º en la liga.",
+    "El Athletic Club ha ganado 3 de sus últimos 5 partidos.",
+    "El Espanyol solo ha ganado 1 de sus últimos 5.",
+    "Los partidos del Athletic Club llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Espanyol llevan 2,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570454|Match Winner|Home",
+     "texto": "Gana el Athletic Club",
+     "cuota": 1.48,
+     "prob": 0.67
+    },
+    {
+     "sel": "1570454|Total - Away|Over 0.5",
+     "texto": "Espanyol marca",
+     "cuota": 1.73,
+     "prob": 0.43
+    }
+   ]
+  }
+ ]
 }

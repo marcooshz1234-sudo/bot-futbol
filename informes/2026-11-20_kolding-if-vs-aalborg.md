@@ -1,10 +1,48 @@
 # Kolding IF – Aalborg
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Autocentralen Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 06:00_
+
+- **1X2:** 1 **2.70**  ·  X **3.40**  ·  2 **2.30**
+- **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.70** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.25**  ·  X **2.30**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.25**
+- **Win Both Halves:** 1 **10.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+- **Anytime Goal Scorer:** Marcus Bonde **9.00**  ·  Nicklas Helenius **2.40**  ·  Kelvin John **2.88**  ·  Jubril Adedeji **3.25**  ·  Andres Jasson **4.50**  ·  Bjarne Pudel **12.00**  ·  Marc Nielsen **12.00**  ·  Mathias Kubel **4.50**  ·  Cornelius Olsson **9.00**  ·  Magnus Doj **7.50**  ·  Daniel Johannesson **4.75**  ·  Philip Sondergaard **8.00**  ·  Anton Kjaergaard **7.00**  ·  Isak Tannader **3.60**  ·  Sterling Yateke **3.10**  ·  Mikkel Kallesoe **8.00**  ·  Niels Morberg **10.00**  ·  Frederik Borsting **4.50**  ·  Alasana Manneh **7.00**  ·  Albert Norager **9.00**  ·  Mathijs Tielemans **6.00**  ·  Tobias Jorgensen **4.50**  ·  Pascal Estrada **12.00**  ·  Filip Lesniak **7.50**  ·  Markus Kaasa **3.60**  ·  Benjamin Tiedemann **10.00**  ·  Elison Makolli **12.00**  ·  Kornelius Hansen **2.60**  ·  Gustav Friberg **12.00**  ·  Alexander Hapnes **7.50**  ·  Abdul Arshad **4.75**  ·  Hans Hollsberg **7.50**  ·  Lasse Laursen **12.00**  ·  William Thomsen **4.50**  ·  Malthe Nielsen **4.75**  ·  Georg Ejsing **3.25**  ·  Vladislav Morozov **2.75**  ·  Mikkel Levinsen **2.75**  ·  Emil Fevre **10.00**  ·  Tobias Augustinus-Jensen **4.75**  ·  Mikkel Lynge **7.50**  ·  Anton Klaster **12.00**  ·  Jonas Hansen **12.00**  ·  Mustapha Nyassi **9.00**  ·  Benjamin Jorgensen **5.50**  ·  Gustav Steffensen **2.75**  ·  Papa Thome **2.75**  ·  Yacouba Ouattara **3.60**  ·  Bertram Skovgaard **2.88**  ·  Issa Niare **2.75**  ·  Sebastian Christensen **7.50**  ·  Johan Hvistendahl **12.00**  ·  Noel Arnorsson **8.00**  ·  Markus Soomets **7.00**  ·  Tibo Persyn **12.00**  ·  Aksel Halsgaard **12.00**  ·  Valdemar Moller **5.50**
 
 ## Estadísticas de equipo
 | | Kolding IF (total) | Kolding IF en casa | Aalborg (total) | Aalborg fuera |
@@ -101,4 +139,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,27 · visitante 1,09._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 32% | 40% | 36% | 2.30 | -18% |
+| 1X2: X | 28% | 27% | 27% | 3.40 | -7% |
+| 1X2: 1 | 41% | 34% | 37% | 2.70 | +0% |
+| Doble oportunidad: X2 | 59% | 66% | 63% | 1.40 | -12% |
+| Doble oportunidad: 12 | 72% | 73% | 72% | 1.28 | -7% |
+| Doble oportunidad: 1X | 68% | 61% | 65% | 1.53 | -1% |
+| Ambos marcan: No | 52% | 41% | 47% | 2.25 | +5% |
+| Ambos marcan: Sí | 48% | 59% | 53% | 1.57 | -16% |
+| Goles más/menos: Más de 1.5 | 68% | 77% | 72% | 1.22 | -12% |
+| Goles más/menos: Más de 2.5 | 42% | 55% | 49% | 1.70 | -17% |
+| Goles más/menos: Más de 3.5 | 21% | 35% | 28% | 2.62 | -26% |
+| Goles más/menos: Menos de 1.5 | 32% | 23% | 28% | 4.00 | +10% |
+| Goles más/menos: Menos de 2.5 | 58% | 45% | 51% | 2.10 | +8% |
+| Goles más/menos: Menos de 3.5 | 79% | 65% | 72% | 1.44 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
+| Goles del local: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
+| Goles del local: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
+| Goles del local: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Goles del local: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
+| Goles del visitante: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
+| Goles del visitante: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
+| Goles del visitante: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
+| Goles del visitante: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +14% |
+| Goles del visitante: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
+| Goles del visitante: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
+| 1X2 descanso: 2 | 24% | 32% | 28% | 2.88 | -19% |
+| 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -1% |
+| 1X2 descanso: 1 | 30% | 28% | 29% | 3.25 | -6% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

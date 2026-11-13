@@ -1,7 +1,7 @@
 # Estac Troyes – Le Havre
 **Ligue 1** · Regular Season - 11 · 20/11/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 02:17._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 01:48_

@@ -12793,5 +12793,27 @@
   "ventaja": 0.172,
   "prob_aprendida": 0.589,
   "acierto": null
+ },
+ "1551380|Double Chance|Home/Draw": {
+  "partido_id": 1551380,
+  "fecha": "2026-11-20T19:00",
+  "competicion": "1. Division",
+  "local": "Kolding IF",
+  "visitante": "Aalborg",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "tipo": "resultado",
+  "texto": "Kolding IF o empate",
+  "cuota": 1.53,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.007,
+  "movimiento": null,
+  "ventaja": 0.146,
+  "prob_aprendida": 0.677,
+  "acierto": null
  }
 }

@@ -19,9 +19,9 @@
    "de": 22
   },
   "tiempo": {
-   "lluvia_mm": 0.6,
-   "viento_kmh": 15.1,
-   "temperatura": 13.5
+   "lluvia_mm": 0.4,
+   "viento_kmh": 15.0,
+   "temperatura": 13.4
   },
   "cuotas": {
    "Home": [
@@ -54,9 +54,9 @@
    "de": 22
   },
   "tiempo": {
-   "lluvia_mm": 0.7,
-   "viento_kmh": 11.6,
-   "temperatura": 17.9
+   "lluvia_mm": 0.2,
+   "viento_kmh": 11.7,
+   "temperatura": 17.3
   },
   "cuotas": {
    "Home": [
@@ -90,8 +90,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.2,
-   "temperatura": 11.8
+   "viento_kmh": 10.2,
+   "temperatura": 12.1
   }
  },
  "1545614": {
@@ -111,8 +111,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.8,
-   "temperatura": 3.5
+   "viento_kmh": 5.0,
+   "temperatura": 3.7
   }
  },
  "1528972": {
@@ -132,8 +132,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.5,
-   "temperatura": 4.2
+   "viento_kmh": 8.6,
+   "temperatura": 3.9
   }
  },
  "1528966": {
@@ -154,7 +154,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 6.8,
-   "temperatura": 8.4
+   "temperatura": 8.2
   },
   "cuotas": {
    "Home": [
@@ -180,8 +180,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.7,
-   "temperatura": 11.7
+   "viento_kmh": 12.4,
+   "temperatura": 11.2
   }
  },
  "1570021": {
@@ -205,8 +205,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.4,
-   "temperatura": 11.2
+   "viento_kmh": 2.1,
+   "temperatura": 11.1
   },
   "cuotas": {
    "Home": [
@@ -236,8 +236,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.1,
-   "temperatura": 4.7
+   "viento_kmh": 3.5,
+   "temperatura": 4.2
   },
   "cuotas": {
    "Away": [
@@ -262,9 +262,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 8.4,
-   "temperatura": 11.0
+   "lluvia_mm": 0.0,
+   "viento_kmh": 7.1,
+   "temperatura": 10.9
   }
  },
  "1608363": {
@@ -284,7 +284,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.9,
+   "viento_kmh": 9.0,
    "temperatura": 9.9
   }
  },
@@ -309,8 +309,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.3,
-   "temperatura": 20.4
+   "viento_kmh": 7.9,
+   "temperatura": 20.6
   }
  },
  "1528968": {
@@ -355,7 +355,11 @@
    "dias_hasta": 7,
    "siguiente_europa": null
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.4,
+   "temperatura": 11.5
+  }
  },
  "1608362": {
   "local": {
@@ -374,8 +378,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.7,
-   "temperatura": 11.1
+   "viento_kmh": 8.2,
+   "temperatura": 11.2
   },
   "cuotas": {
    "Away": [
@@ -404,9 +408,9 @@
    "de": 16
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 14.0,
-   "temperatura": 14.5
+   "lluvia_mm": 0.7,
+   "viento_kmh": 6.9,
+   "temperatura": 13.2
   }
  },
  "1545659": {
@@ -425,9 +429,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.4,
-   "viento_kmh": 15.8,
-   "temperatura": 6.3
+   "lluvia_mm": 0.1,
+   "viento_kmh": 11.2,
+   "temperatura": 6.4
   }
  },
  "1528970": {
@@ -468,8 +472,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 17.6,
-   "temperatura": 17.0
+   "viento_kmh": 7.8,
+   "temperatura": 13.2
+  },
+  "arbitro": {
+   "nombre": "Ondrej Berka",
+   "partidos": 4,
+   "tarjetas": 4.8
   },
   "cuotas": {
    "Home": [
@@ -499,8 +508,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.9,
-   "temperatura": 13.0
+   "viento_kmh": 8.2,
+   "temperatura": 13.2
   },
   "cuotas": {
    "Home": [
@@ -526,8 +535,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.8,
-   "temperatura": 2.6
+   "viento_kmh": 1.1,
+   "temperatura": 3.2
   },
   "arbitro": {
    "nombre": "Mohammad Al-Emara",
@@ -552,8 +561,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 16.2,
-   "temperatura": 4.4
+   "viento_kmh": 15.8,
+   "temperatura": 4.1
   }
  },
  "1545654": {
@@ -573,8 +582,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 0.8,
-   "temperatura": 5.4
+   "viento_kmh": 1.5,
+   "temperatura": 5.3
   }
  },
  "1573642": {
@@ -618,8 +627,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.7,
-   "temperatura": 12.9
+   "viento_kmh": 12.9,
+   "temperatura": 12.7
   },
   "cuotas": {
    "Home": [
@@ -648,9 +657,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.5,
-   "viento_kmh": 13.3,
-   "temperatura": 7.4
+   "lluvia_mm": 1.4,
+   "viento_kmh": 14.0,
+   "temperatura": 7.6
   }
  },
  "1528971": {
@@ -670,8 +679,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 14.3,
-   "temperatura": 4.8
+   "viento_kmh": 16.3,
+   "temperatura": 3.5
   }
  },
  "1528974": {
@@ -689,7 +698,11 @@
    "dias_hasta": 3,
    "siguiente_europa": null
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.5,
+   "viento_kmh": 5.2,
+   "temperatura": 13.8
+  }
  },
  "1608366": {
   "local": {
@@ -708,8 +721,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.1,
-   "temperatura": 5.6
+   "viento_kmh": 3.1,
+   "temperatura": 6.6
   }
  },
  "1570020": {
@@ -754,9 +767,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 16.2,
-   "temperatura": 9.9
+   "lluvia_mm": 0.4,
+   "viento_kmh": 16.6,
+   "temperatura": 10.0
   }
  },
  "1528969": {
@@ -776,8 +789,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.9,
-   "temperatura": 15.4
+   "viento_kmh": 6.1,
+   "temperatura": 15.7
   }
  },
  "1528976": {
@@ -798,7 +811,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 5.6,
-   "temperatura": 4.8
+   "temperatura": 4.7
   }
  },
  "1608370": {
@@ -818,8 +831,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.6,
-   "temperatura": 11.2
+   "viento_kmh": 7.0,
+   "temperatura": 10.8
   }
  }
 }
