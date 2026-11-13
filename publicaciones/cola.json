@@ -5843,7 +5843,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "18021006173951427"
+      "threads": "18021006173951427",
+      "threads_enlace": "18130784926882789"
     }
   },
   {
@@ -5865,7 +5866,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "18372139867210254"
+      "threads": "18372139867210254",
+      "threads_enlace": "18475177891136526"
     }
   },
   {
@@ -5887,7 +5889,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "17923445250234260"
+      "threads": "17923445250234260",
+      "threads_enlace": "18071710634783089"
     }
   },
   {
@@ -5909,7 +5912,8 @@
       "instagram_reel": null,
       "instagram_story": null,
       "facebook": null,
-      "threads": "18133414198765830"
+      "threads": "18133414198765830",
+      "threads_enlace": "18082257827459157"
     }
   },
   {
@@ -5947,6 +5951,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-13T23:16",
+    "mensaje_id": 453,
+    "redes": {
+      "threads": "18146267983719431"
+    }
   }
 ]
