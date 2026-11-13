@@ -27,15 +27,15 @@
  },
  "top": [
   {
-   "local": "Salamanca UDS",
-   "visitante": "Celta Vigo",
-   "inicio": "2026-11-13T21:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del Salamanca UDS–Celta Vigo",
-   "cuota": 1.73,
-   "justa": 1.73,
-   "ev": -0.002,
-   "fuente": "las otras casas",
-   "edad_h": 0.4
+   "local": "Liechtenstein",
+   "visitante": "Azerbaijan",
+   "inicio": "2026-11-13T20:45",
+   "texto": "Azerbaijan marca 2 o más",
+   "cuota": 1.57,
+   "justa": 1.56,
+   "ev": 0.005,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Bulgaria",
@@ -46,7 +46,7 @@
    "justa": 2.02,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Albinoleffe",
@@ -57,18 +57,7 @@
    "justa": 2.13,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 6.3
-  },
-  {
-   "local": "Moldova",
-   "visitante": "Kazakhstan",
-   "inicio": "2026-11-13T18:00",
-   "texto": "Moldova marca",
-   "cuota": 1.44,
-   "justa": 1.46,
-   "ev": -0.015,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 6.7
   },
   {
    "local": "Netherlands",
@@ -79,11 +68,11 @@
    "justa": 1.6,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T14:42",
+  "hora": "2026-11-13T15:04",
   "revisadas": 0,
   "mejor": null
  },

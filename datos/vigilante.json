@@ -46,21 +46,8 @@
   "bucle-redes-2026111314": "2026-11-13T14:32",
   "foto-2026-11-13-pick-tip-4": "2026-11-13T14:53"
  },
- "abiertos": [
-  {
-   "clave": "foto-2026-11-13-pick-tip-4",
-   "t": "🖼️ Sale a las 14:54 y su foto no está hecha (o es vieja): Vamos con otro pick, familia 👇"
-  },
-  {
-   "clave": "bucle-publicar_telegram-2026111314",
-   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
-  },
-  {
-   "clave": "bucle-redes-2026111314",
-   "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
-  }
- ],
- "revisado": "2026-11-13T14:53",
+ "abiertos": [],
+ "revisado": "2026-11-13T15:04",
  "historial": [
   {
    "hora": "2026-11-13T14:53",
