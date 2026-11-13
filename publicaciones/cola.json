@@ -5730,6 +5730,15 @@
     "forzar": true,
     "sel": [],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-13-pick-tip-6.tg.jpg",
+    "enviado": "2026-11-13T17:51",
+    "mensaje_id": 447,
+    "redes": {
+      "threads": "18099645590121058"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]
