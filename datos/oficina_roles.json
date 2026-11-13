@@ -178,5 +178,10 @@
   "rol": "analista",
   "hora": "2026-11-13T09:10",
   "texto": "Posts de hoy revisados: pick 10:30 y 18:00 están, sin aplazados ni mercados prohibidos; Wirtz titular probable (Serbia–Alemania). Avisos: 18:00 sin razones y Andorra floja"
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-13T10:09",
+  "texto": "09:10 UTC: sin picks nuevos (TipsAnalistas solo subió resultados de Pasto-Junior). Bot OK, vigilante sin abiertos."
  }
 ]
