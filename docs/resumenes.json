@@ -1800,18 +1800,18 @@
     "dia": "2026-11-13",
     "total": 14,
     "cuentas": {
-      "verde": 1,
+      "verde": 0,
       "rojo": 1,
-      "pendiente": 12,
-      "sin_datos": 0,
+      "pendiente": 8,
+      "sin_datos": 5,
       "no_jugo": 0,
-      "sin_resolver": 12
+      "sin_resolver": 13
     },
     "combis": [
       {
         "id": "2026-11-13-ganadores-nations",
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1841,7 +1841,7 @@
       {
         "id": "2026-11-13-combi-tres",
         "titulo": "Vamos con la combi del viernes familia 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1853,19 +1853,19 @@
       {
         "id": "2026-11-13-combi-multi",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-13-combi-loca",
         "titulo": "Y para los valientes, la loca del viernes 🤪🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-13-pick-tip-5",
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1898,6 +1898,6 @@
       "rojo": 1,
       "total": 30
     },
-    "texto": "📊 BALANCE DEL VIERNES: 1 DE 2 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · pendiente\n⏳ Y para los valientes, la loca del viernes 🤪🔥 · pendiente\n✅ Os dejo otro pick que pinta muy bien 👀\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n⏳ Combinada de selecciones para esta noche 🔥 · pendiente\n❌ Vamos con una combinada cortita 👇\n⏳ Este nos encanta para hoy 🔥 · pendiente\n\n✅ 1 acertadas · ❌ 1 falladas · ⏳ 12 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 1 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n❔ Vamos con la combi del viernes familia 🔥 · faltan datos\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · faltan datos\n❔ Y para los valientes, la loca del viernes 🤪🔥 · faltan datos\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n⏳ Combinada de selecciones para esta noche 🔥 · pendiente\n❌ Vamos con una combinada cortita 👇\n⏳ Este nos encanta para hoy 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 13 sin resolver"
   }
 }
