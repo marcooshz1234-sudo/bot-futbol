@@ -137,7 +137,8 @@ def stake(pk):
 
 def post_suelto(pk, ini, ahora, n):
     from plantillas import etiqueta
-    arg = next((a for a in pk.get("argumento") or [] if len(a) > 25), None)
+    # 13/11 (Marcos): fuera el «Sin argumento: solo el pick»
+    arg = next((a for a in pk.get("argumento") or [] if len(a) > 25 and not re.match(r"sin argumento", a, re.I)), None)
     try:
         from combis_dia import nombre_es
     except Exception:

@@ -87,6 +87,7 @@
 - ⚙️ Fotos de la marca en escalera, pick del día y rojos; animación ¡VERDE! en verdes de cuota ≥ 3,00 (12/11). Sin muñeco.
 - 👤 Nunca editar un post ya publicado (04/11): si falta algo, respuesta o post nuevo.
 - ⚙️ Los posts de «solo Threads» no salen en Telegram (12/11).
+- 🤖 **Más fotos, menos texto (13/11):** copias de tipsters, picks, cuotazas y combis de varios partidos salen con tarjeta (banderas/escudos, apuesta corta, cuota y hora) y debajo solo la entrada, las patas y la cuota. Sin argumento ni «Sin argumento: solo el pick». (tarjeta_tg.py + test_tarjeta_tg)
 - 👤 Nada de GIF de relleno, encuestas, concursos ni rankings (11/11).
 
 ## 7. Threads e Instagram
