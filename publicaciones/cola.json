@@ -5516,5 +5516,42 @@
     "redes": {
       "threads": "17941891845393558"
     }
+  },
+  {
+    "id": "2026-11-13-combi-partido-1528965-th",
+    "fecha": "2026-11-13T06:00",
+    "texto": "Os dejo la combi del Serbia – Alemania ⚽🔥\n\n🍀 Gana Alemania\n🍀 Alemania marca 2 o más\n🍀 Florian Wirtz (Alemania) hace 3 o más remates\n🍀 Florian Wirtz (Alemania) marca o da una asistencia\n\n📈 Cuota @3,25",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528965|Match Winner|Away",
+      "1528965|Total - Away|Over 1.5",
+      "1528965|Away Player Shots|Florian Wirtz - 3",
+      "1528965|Player to Score or Assist|Florian Wirtz"
+    ],
+    "cuotas": [
+      1.28,
+      1.28,
+      1.33,
+      1.44
+    ],
+    "nota": "13/11 05:45 Marcos: «sube una publicación a Threads con escudos del partido de Alemania» · sin córners ni tarjetas; antes de alineaciones, solo fijos (Wirtz) · cuota multiplicada: falta la real de «Crear apuesta»",
+    "tarjeta": {
+      "local": "Serbia",
+      "visitante": "Germany",
+      "id_l": 14,
+      "id_v": 25,
+      "logo_l": "https://media.api-sports.io/football/teams/14.png",
+      "logo_v": "https://media.api-sports.io/football/teams/25.png",
+      "fecha": "2026-11-13T20:45",
+      "liga": "Nations League"
+    },
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
   }
 ]
