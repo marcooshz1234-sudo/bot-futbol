@@ -35,8 +35,37 @@ def a_borrar(ahora=None):
     return salida
 
 
+DIAS_DATOS = 7   # 13/11: fotos de boletos de los canales y partidos en directo ya jugados
+
+
+def datos_viejos(ahora=None):
+    """13/11 (Marcos: «el proyecto limpio, que no ocupe espacio»): las fotos de boletos de los canales
+    (datos/tipsters_fotos) de posts de hace más de una semana o que ya no están en tipsters_raw.json, y los
+    partidos de datos/en_directo jugados hace más de una semana (los resultados quedan en datos/partidos)."""
+    import json
+    ahora = ahora or datetime.now(MADRID)
+    limite = (ahora - timedelta(days=DIAS_DATOS)).strftime("%Y-%m-%d")
+    datos = RAIZ / "datos"
+    salida = []
+    try:
+        raw = json.loads((datos / "tipsters_raw.json").read_text(encoding="utf-8"))
+        vivas = {x["foto_ruta"].rsplit("/", 1)[-1] for v in raw.values() for x in v
+                 if x.get("foto_ruta") and (x.get("fecha") or "")[:10] >= limite}
+        salida += [f for f in (datos / "tipsters_fotos").glob("*") if f.is_file() and f.name not in vivas]
+    except Exception as e:
+        print("tipsters_fotos:", e)
+    for f in (datos / "en_directo").glob("*.json"):
+        try:
+            fecha = (json.loads(f.read_text(encoding="utf-8")).get("fecha") or "")[:10]
+        except Exception:
+            continue
+        if fecha and fecha < limite:
+            salida.append(f)
+    return salida
+
+
 def main():
-    lista = a_borrar()
+    lista = a_borrar() + datos_viejos()
     peso = sum(f.stat().st_size for f in lista)
     if "--probar" not in sys.argv:
         for f in lista:
