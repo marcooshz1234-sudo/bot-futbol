@@ -30,23 +30,12 @@
    "local": "Salamanca UDS",
    "visitante": "Celta Vigo",
    "inicio": "2026-11-13T21:00",
-   "texto": "Celta Vigo marca 3 o más",
-   "cuota": 2.0,
-   "justa": 1.98,
-   "ev": 0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Salamanca UDS",
-   "visitante": "Celta Vigo",
-   "inicio": "2026-11-13T21:00",
    "texto": "Más de 1,5 goles en la 2ª parte del Salamanca UDS–Celta Vigo",
    "cuota": 1.73,
-   "justa": 1.75,
-   "ev": -0.014,
+   "justa": 1.73,
+   "ev": -0.002,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Albinoleffe",
@@ -57,22 +46,22 @@
    "justa": 2.13,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 3.6
+   "edad_h": 4.0
   },
   {
    "local": "Moldova",
    "visitante": "Kazakhstan",
    "inicio": "2026-11-13T18:00",
-   "texto": "Ambos marcan en Moldova–Kazakhstan",
-   "cuota": 2.1,
-   "justa": 2.14,
-   "ev": -0.02,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
+   "texto": "Moldova marca",
+   "cuota": 1.44,
+   "justa": 1.46,
+   "ev": -0.015,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T11:57",
+  "hora": "2026-11-13T12:19",
   "revisadas": 0,
   "mejor": null
  },
