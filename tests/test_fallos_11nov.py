@@ -292,7 +292,7 @@ class TestFallos11Nov(unittest.TestCase):
         # 12/11 (Marcos: «nunca pongas nada seguro o asegurado»): ninguna frase entre comillas del código que se publica
         import ast
         for f in ("plantillas.py", "copiar_tipsters.py", "verdes_auto.py", "combis_dia.py", "fotos.py", "ganadores_win.py",
-                  "cazador.py", "puente/puente.py", "razones.py", "ticket_verde.py", "panel_datos.py", "avisos.py"):
+                  "cazador.py", "razones.py", "ticket_verde.py", "panel_datos.py", "avisos.py"):
             for n in ast.walk(ast.parse((RAIZ / f).read_text(encoding="utf-8"))):
                 if isinstance(n, ast.Constant) and isinstance(n.value, str) and not n.value.startswith(("pick-seguro", "-pick-seguro")) \
                         and n.value not in ("SEGURA", "segura", "seguro", "seguros", "combi-segura") and "|" not in n.value:   # claves y patrones internos

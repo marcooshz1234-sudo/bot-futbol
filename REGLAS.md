@@ -37,7 +37,9 @@
 - 👤 Se prefieren: «gana X» (con la promo «2 goles de ventaja»), doble oportunidad, «X marca 2 o más», ambos marcan,
   jugadores titulares fijos con cosas que suman (tiros, faltas), córners en combis de varios partidos.
 - 👤 Mejor «ambos ven tarjeta» que «más de 4 tarjetas» (03/11).
-- 👤 Todo se cierra a los 90 minutos: la prórroga no cuenta (27/10).
+- 🤖 Todo se cierra a los 90 minutos: la prórroga no cuenta (27/10, `picks.a_90()`).
+- ⚙️ Jugador cambiado: cuenta lo que haga el que entra («Sustituto+» de bet365, 01/11).
+- ⚙️ Variedad en cada combi: tipos de mercado distintos; en las de varios partidos, una pata por partido.
 
 ## 3. Lógica de una combi
 - 🤖 **Nunca chocar**: dos posts del mismo partido tienen que poder ganar a la vez. Única excepción: la loca puede llevar
@@ -85,7 +87,7 @@
 - 👤 Nada de GIF de relleno, encuestas, concursos ni rankings (11/11).
 
 ## 7. Threads e Instagram
-- ⚙️ Threads: texto con emojis; **foto solo en el pick del día y los ganadores** (12/11).
+- ⚙️ Threads: sin etiqueta de tema (26/10: con ella se veía 3–10 veces menos); texto con emojis; **foto solo en el pick del día y los ganadores** (12/11).
 - ⚙️ Estilo Threads: cabecera en mayúsculas con 🔥⚽, ✅ en cada pata, «🎯 CUOTA … 💎», lo que se gana con 10 € y
   un cierre que cambia (12/11).
 - ⚙️ Enlace de Telegram en el primer comentario de los posts principales y todos los verdes (12/11).
@@ -112,6 +114,7 @@
   lista de los verdes con su cuota. Igual en el «📊 Historial: 4 de 6 en verde · +4 %» de los picks.
 
 ## 9. Escalera
+- ⚙️ Empieza con 20 € y cada día juega lo ganado (7 días). Verde → sube un escalón; rojo → vuelve al día 1.
 - ⚙️ Todos los días hay escalera, sin excepción (29/10). Opción A (≈ x2), sin descanso ni 1ª/2ª parte.
 - ⚙️ Si a las 30 h falta el resultado de una pata, esperar y avisar (no darla por anulada) (11/11).
 
