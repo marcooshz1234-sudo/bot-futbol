@@ -43,3 +43,19 @@ class DiasBuenos(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class EscaleraDiaBueno(unittest.TestCase):
+    def test_escalon_con_partido_menor_se_cambia(self):   # 13/11: la del 13 era de Salamanca–Celta (Copa)
+        import escalera as E
+        nations = [pa(5, f"A{i}", f"B{i}") for i in range(4)]
+        copa = pa(143, "Salamanca UDS", "Celta Vigo")
+        with tempfile.TemporaryDirectory() as d:
+            prox = Path(d, "proximos")
+            prox.mkdir()
+            for p in nations + [copa]:
+                (prox / f"{p['fixture']['id']}.json").write_text(json.dumps({"partido": p}))
+            with mock.patch.object(C, "EXTRA", prox), mock.patch.object(C, "_DIAS_BUENOS", {}), \
+                    mock.patch.object(E, "DATOS", Path(d)):
+                self.assertTrue(E.partido_menor({"picks": [{"partido_id": copa["fixture"]["id"]}]}))
+                self.assertFalse(E.partido_menor({"picks": [{"partido_id": nations[0]["fixture"]["id"]}]}))

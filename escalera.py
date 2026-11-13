@@ -199,6 +199,17 @@ def resultado(pick):
     return r
 
 
+def partido_menor(act):
+    """13/11 (Marcos: «los días con partidos buenos, solo esos»): True si el escalón usa un partido menor en un día
+    bueno. Si aún no ha salido, se elige otro."""
+    import combis_dia as C
+    for p in act.get("picks") or []:
+        pa = (leer(DATOS / "proximos" / f"{p['partido_id']}.json", {}) or {}).get("partido")
+        if pa and C.fuera_por_dia_bueno(pa):
+            return True
+    return False
+
+
 def main():
     picks = leer(DATOS / "picks.json")
     estado = leer(ESTADO) or {"escalon": 1, "stake": INICIAL, "historial": [], "actual": None}
@@ -284,7 +295,8 @@ def main():
         if not publicado and (movido or primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")):
             dia_datos = picks["dias"].get(act["dia"]) or {"picks": [], "mejores_por_partido": []}
             elegido = elegir(dia_datos, fecha=act["dia"])
-            if elegido and (movido or act["dia"] in picks["dias"]):
+            menor = partido_menor(act)   # 13/11: elegido antes de la regla de los días buenos (Salamanca–Celta)
+            if elegido and (movido or menor or act["dia"] in picks["dias"]):
                 act["picks"], act["cuota"] = elegido[1], elegido[2]
                 if movido:
                     ahora = datetime.now(MADRID)
