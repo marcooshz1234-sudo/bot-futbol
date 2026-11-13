@@ -250,13 +250,49 @@ def partido_flojo_de_goles(ex):
         return False
 
 
+GANAR = {"Match Winner", "To Win Either Half", "Asian Handicap", "Double Chance", "Handicap Result",
+         "Win to Nil", "Win Both Halves", "Draw No Bet"}
+NO_CUENTAN_EQUIPO = ("combi-partido", "estrella", "ganadores", "lista-europa", "marcadores", "exactos")
+
+
 def equipo_de(p):
-    """El equipo (o el partido entero) del que depende la pata, para no meterlo en más de 2 posts al día."""
-    try:
-        la = lado(p)
-    except Exception:
-        la = None
-    return f"{p['partido_id']}|{la or 'partido'}"
+    """13/11 (Marcos: «sí»): para el límite de 2 posts solo cuentan los picks de QUE GANE un equipo (gana, gana una
+    parte, hándicap, doble oportunidad…). Córners, tarjetas, jugadores y goles: None (sin límite por equipo)."""
+    if p.get("mercado") not in GANAR:
+        return None
+    if p["mercado"] == "Double Chance":
+        la = {"Home/Draw": "local", "Draw/Away": "visitante"}.get(str(p.get("opcion")))
+    else:
+        try:
+            la = lado(p)
+        except Exception:
+            la = None
+    return f"{p['partido_id']}|{la}" if la else None
+
+
+def posts_por_equipo(dia):
+    """Cuántos posts de ese día (salidos o programados) llevan un «que gane X»: las combis con escudos, el estrella,
+    los ganadores y las listas no cuentan."""
+    from bot import RAIZ
+    pub = RAIZ / "publicaciones"
+    env = {**(leer(pub / "enviados.json", {}) or {}), **(leer(pub / "enviados_redes.json", {}) or {})}
+    control = leer(pub / "control.json", {}) or {}
+    fuera = set(control.get("cancelados") or []) | set(leer(pub / "borrados.json", []) or [])
+    cola = leer(pub / "cola.json", []) or []
+    out = Counter()
+    for p in cola + (leer(pub / "auto.json", []) or []):
+        if not p["id"].startswith(dia) or p.get("verde_de") or p["id"] in fuera or any(k in p["id"] for k in NO_CUENTAN_EQUIPO):
+            continue
+        salio = p.get("enviado") or any((p.get("redes") or {}).values()) or p["id"] in env
+        if not (salio or (p in cola and not p.get("caducada"))):
+            continue
+        eqs = set()
+        for s_ in p.get("sel") or []:
+            f_, m_, o_ = (str(s_).split("|") + ["", ""])[:3]
+            if f_.isdigit():
+                eqs.add(equipo_de({"partido_id": int(f_), "mercado": m_, "opcion": o_}))
+        out.update(e for e in eqs if e)
+    return out
 
 
 MAX_POSTS_EQUIPO = 2
@@ -1286,24 +1322,18 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
 
     # 13/11 (Marcos: «hemos fallado bastante»): Suiza iba en 4 posts (gana / gana una parte) y un 0-0 tumbó los 4.
     # Un mismo equipo (o partido, en los totales) en 2 posts como mucho, sea cual sea el mercado.
-    usos_eq = Counter()
-    for cp_, *_ in list(salida) + list(res.get("estrella") or []):
-        usos_eq.update({equipo_de(p) for p in cp_["picks"]})
+    usos_eq = posts_por_equipo(dia)   # 13/11: las combis con escudos y el estrella no cuentan
     if esc.get("dia") == dia:
-        usos_eq.update({equipo_de(p) for p in esc.get("picks", []) if p.get("partido_id")})
-    for s_, n_ in ya_publicadas(dia).items():
-        f_, m_, o_ = (s_.split("|") + ["", ""])[:3]
-        if n_ and f_.isdigit():
-            usos_eq[equipo_de({"partido_id": int(f_), "mercado": m_, "opcion": o_})] += 1
+        usos_eq.update({e for e in map(equipo_de, [p for p in esc.get("picks", []) if p.get("partido_id")]) if e})
 
     def apuntar(picks_):
-        usos_eq.update({equipo_de(p) for p in picks_})
+        usos_eq.update({e for e in map(equipo_de, picks_) if e})
 
     def sin_choques(ps, loca=False):
         """12/11 (Marcos: «lo de un mismo partido no puede contradecirse, nunca»): fuera lo que choca con lo ya
         elegido de ese partido. En la loca se deja un «o empate» (Marcos: «en una loca sí, de normal no»)."""
         return [[p for p in pool if (not choca(sel(p), list(usos)) or (loca and p["mercado"] == "Double Chance"))
-                 and usos_eq[equipo_de(p)] < MAX_POSTS_EQUIPO]
+                 and (equipo_de(p) is None or usos_eq[equipo_de(p)] < MAX_POSTS_EQUIPO)]
                 for pool in ps]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
     res["seguro"] = pick_seguro(sin_choques(pools), dia)

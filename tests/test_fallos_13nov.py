@@ -28,6 +28,13 @@ class Fallos13Nov(unittest.TestCase):
             b = C.equipo_de({"partido_id": 1545654, "mercado": "To Win Either Half", "opcion": "Away"})
         self.assertEqual(a, b)   # «Gana Suiza» y «Suiza gana una parte» cuentan como el mismo equipo
         self.assertEqual(C.MAX_POSTS_EQUIPO, 2)
+        # Marcos: «¿dos posts al día sea el partido que sea?» → córners, tarjetas, jugadores y goles no cuentan
+        for m, o in (("Corners Over Under", "Over 8.5"), ("Goals Over/Under", "Over 1.5"), ("Total - Home", "Over 1.5"),
+                     ("Cards Over/Under", "Over 4.5")):
+            self.assertIsNone(C.equipo_de({"partido_id": 1, "mercado": m, "opcion": o}), m)
+        self.assertEqual(C.equipo_de({"partido_id": 1, "mercado": "Double Chance", "opcion": "Draw/Away"}), "1|visitante")
+        self.assertIn("combi-partido", C.NO_CUENTAN_EQUIPO)
+        self.assertIn("estrella", C.NO_CUENTAN_EQUIPO)
 
     def test_dia_bueno_una_sola_combi(self):
         src = open(C.__file__, encoding="utf-8").read()
