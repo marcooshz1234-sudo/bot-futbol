@@ -1936,5 +1936,25 @@
    "cuota_bet365": 1.3,
    "prob_cuota": 0.649
   }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37081",
+  "dia": "2026-11-13",
+  "hora": "20:00",
+  "local": "Dijon",
+  "visitante": "Orléans",
+  "texto": "Gana el Dijon",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.57,
+  "argumento": [
+   "El técnico del Dijon saldrá con el mejor equipo posible",
+   "Dijon es de categoría superior, 6º en su liga, 2 victorias seguidas y en casa",
+   "Orléans no gana en liga desde agosto, entrenador nuevo y 3 bajas"
+  ],
+  "por_que": [
+   "Diferencia de categoría y el Dijon sin rotaciones: favorito claro en casa en Copa."
+  ]
  }
 ]

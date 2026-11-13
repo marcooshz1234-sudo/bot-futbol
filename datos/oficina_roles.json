@@ -188,5 +188,10 @@
   "rol": "ojeador",
   "hora": "2026-11-13T12:11",
   "texto": "11:10 UTC: bot en marcha (tanda en curso). Pérez solo publicidad/balance Élite (sin picks); TipsAnalistas y Pablo sin posts en 3h."
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-13T14:52",
+  "texto": "Apuntado y copiado Dijon–Orléans (TipsAnalistas, sin partido_id: corregir a mano). Bot en marcha."
  }
 ]
