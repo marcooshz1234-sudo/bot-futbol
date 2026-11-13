@@ -5600,10 +5600,10 @@
     "enviado": "2026-11-13T14:18",
     "mensaje_id": 440,
     "redes": {
-      "threads": "18012263357776717"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "18012263357776717",
+      "instagram_reel": null,
+      "instagram": "18135210646683743",
+      "threads_enlace": "17961880122272573"
     }
   },
   {
@@ -5620,10 +5620,10 @@
     "enviado": "2026-11-13T14:18",
     "mensaje_id": 441,
     "redes": {
-      "threads": "17938862556143513"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "17938862556143513",
+      "instagram_reel": null,
+      "instagram": "18182456242428414",
+      "threads_enlace": "17918212110550160"
     }
   }
 ]
