@@ -47,11 +47,29 @@
   "foto-2026-11-13-pick-tip-4": "2026-11-13T14:53",
   "foto-2026-11-13-combi-noche-1": "2026-11-13T16:51",
   "prensa-1528971-f5ca567f": "2026-11-13T20:06",
-  "redes-2026-11-13-pick-tip-7-instagram": "2026-11-13T20:42"
+  "redes-2026-11-13-pick-tip-7-instagram": "2026-11-13T20:42",
+  "prensa-1528975-dae3b486": "2026-11-14T00:03"
  },
- "abiertos": [],
- "revisado": "2026-11-13T23:53",
+ "abiertos": [
+  {
+   "clave": "prensa-1528971-f5ca567f",
+   "t": "📰 Kosovo–Israel: «Dos jugadores israelíes son duda para el partido contra Kosovo.» (KOHA.net) · tenemos 1 post(s) de este partido: combi-tres"
+  },
+  {
+   "clave": "prensa-1528977-8cd0cd8a",
+   "t": "📰 Rumanía–Polonia: «Frankowski es baja y Polonia llama a Pyrka para el cierre» (KarloBag.eu) · tenemos 1 post(s) de este partido: combi-multi"
+  },
+  {
+   "clave": "prensa-1528975-dae3b486",
+   "t": "📰 Irlanda del Norte–Ucrania: «La UE descarta un negociador único para Ucrania pese a la presión para hablar con una sola voz» (Diario de Noticias de Álava) · tenemos 2 post(s) de este partido: combi-multi, combi-loca"
+  }
+ ],
+ "revisado": "2026-11-14T00:03",
  "historial": [
+  {
+   "hora": "2026-11-14T00:03",
+   "t": "📰 Irlanda del Norte–Ucrania: «La UE descarta un negociador único para Ucrania pese a la presión para hablar con una sola voz» (Diario de Noticias de Álava) · tenemos 2 post(s) de este partido: combi-multi, combi-loca"
+  },
   {
    "hora": "2026-11-13T20:42",
    "t": "⏰ No ha salido en instagram (20:13): Este nos encanta para hoy 🔥 · error: falta la imagen/vídeo en publicaciones/media"

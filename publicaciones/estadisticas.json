@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-13 23:52",
+ "actualizado": "2026-11-14 00:03",
  "redes": {
   "instagram": {
    "seguidores": 40,
    "hoy": 0,
    "serie": [
-    33,
     35,
     36,
     36,
     37,
+    40,
     40,
     40
    ]
   },
   "threads": {
    "seguidores": 2738,
-   "hoy": 47,
+   "hoy": 0,
    "serie": [
-    2126,
     2231,
     2359,
     2593,
     2644,
     2691,
+    2738,
     2738
    ]
   },
@@ -42,25 +42,25 @@
   },
   "telegram": {
    "seguidores": 401,
-   "hoy": 10,
+   "hoy": 0,
    "serie": [
-    307,
     331,
     360,
     378,
     384,
     391,
+    401,
     401
    ]
   }
  },
  "total": 3180,
- "total_hoy": 57,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-14",
-  "titulo": "Nations league - ganadores"
+  "titulo": "Vamos con otro pick"
  },
  "ayer": null,
  "escalera": {
@@ -198,9 +198,20 @@
    "threads": 2738,
    "facebook": 1,
    "telegram": 401
+  },
+  "2026-11-14": {
+   "instagram": 40,
+   "threads": 2738,
+   "facebook": 1,
+   "telegram": 401
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 40,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Verdes/balance": {
    "posts": 2,
    "likes_media": 0.0,
@@ -211,13 +222,8 @@
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 39,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Combi loca (reel)": {
-   "posts": 9,
+   "posts": 8,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
