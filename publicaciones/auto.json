@@ -4506,7 +4506,7 @@
   {
     "id": "2026-11-13-combi-tres",
     "fecha": "2026-11-13T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia marca 2 o más\n🇨🇭 Suiza gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n\n📈 Cuota @3,07\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del viernes familia 🔥\n\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia marca 2 o más\n🇨🇭 Suiza gana alguna de las dos partes\n🇳🇱 Gana Países Bajos\n\n📈 Cuota @3,06\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4516,10 +4516,11 @@
       "1528966|Match Winner|Home"
     ],
     "cuotas": [
-      1.36,
+      1.33,
       1.44,
-      1.57
-    ]
+      1.6
+    ],
+    "cuotas_revisadas": "2026-11-13T12:02"
   },
   {
     "id": "2026-11-13-combi-multi",
