@@ -1798,14 +1798,14 @@
   },
   "2026-11-13": {
     "dia": "2026-11-13",
-    "total": 8,
+    "total": 9,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 8,
+      "pendiente": 9,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 9
     },
     "combis": [
       {
@@ -1855,13 +1855,19 @@
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-13-combi-loca",
+        "titulo": "Y para los valientes, la loca del viernes 🤪🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 24
+      "total": 25
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · pendiente\n⏳ Y para los valientes, la loca del viernes 🤪🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
   }
 }
