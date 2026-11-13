@@ -5837,7 +5837,14 @@
     "verde_de": "2026-11-13-combi-partido-1528965-th",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18021006173951427"
+    }
   },
   {
     "id": "2026-11-13-verde-auto-2026-11-13-pick-tip-2",
@@ -5852,7 +5859,14 @@
     "agrupado_en": "2026-11-13-verde-grupo-2259",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18372139867210254"
+    }
   },
   {
     "id": "2026-11-13-verde-auto-2026-11-13-pick-seguro",
@@ -5867,7 +5881,14 @@
     "agrupado_en": "2026-11-13-verde-grupo-2259",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17923445250234260"
+    }
   },
   {
     "id": "2026-11-13-verde-auto-2026-11-13-pick-seguro-2",
@@ -5882,7 +5903,14 @@
     "agrupado_en": "2026-11-13-verde-grupo-2259",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18133414198765830"
+    }
   },
   {
     "id": "2026-11-13-verde-grupo-2259",
@@ -5900,6 +5928,25 @@
     "solo_en": [
       "telegram",
       "instagram"
-    ]
+    ],
+    "enviado": "2026-11-13T23:14",
+    "mensaje_id": 452,
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18131085781916558"
+    }
+  },
+  {
+    "id": "2026-11-13-balance-auto",
+    "fecha": "2026-11-13T23:15",
+    "texto": "📊 RESUMEN DEL VIERNES 🍀\n\n✅ 19 de 30 picks en verde · 63 %\n🎯 Picks sueltos: 4 de 6\n⚽ Ganadores: 10/14\n\n💚 Para dentro:\n✅ Combi de 4 partidos @3,25\n✅ Alemania hándicap asiático -1,5 @1,68\n✅ Países Bajos marca 2 o más @1,57\n✅ Andorra gana alguna de las dos partes @1,50\n✅ Andorra gana alguna de las dos partes @1,44\n\n🔔 Mañana más: activad las notificaciones 👀",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
