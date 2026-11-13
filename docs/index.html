@@ -364,7 +364,9 @@ function vPicksDia(){
   const [dia, t] = subTabs("pdia", [[D.hoy,"Hoy"],[D.manana,"Mañana"]], D.hoy);
   const G = ((D.picks_partidos||{})[dia]) || [];
   if(!G.length) return t + `<div class="empty">Aún no hay picks para ${dia===D.hoy?"hoy":"mañana"}</div>`;
-  const icono = e => e==="verde"?"✅":e==="rojo"?"❌":e==="anulada"?"🔵":"";
+  // 13/11 (Marcos: «cuando estén en directo, si se aciertan que se pongan en verde»): en directo, lo que ya va
+  // saliendo lleva su «🟢 Va bien» (antes no salía nada hasta el ✅ final); lo que va mal no se marca
+  const icono = e => e==="verde"?"✅":e==="rojo"?"❌":e==="anulada"?"🔵":e==="va_bien"?`<span class="chip va_bien">🟢 Va bien</span>`:"";
   let h = t + `<div class="mut" style="margin:0 4px 10px;font-size:13px">${G.reduce((n,g)=>n+g.picks.length,0)} picks en ${G.length} partidos · 📢 = salió en el canal</div>`;
   let liga = "";
   for(const g of G){
