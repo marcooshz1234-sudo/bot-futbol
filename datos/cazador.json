@@ -27,52 +27,19 @@
  },
  "top": [
   {
-   "local": "Luxembourg",
-   "visitante": "Estonia",
+   "local": "Slovakia",
+   "visitante": "Faroe Islands",
    "inicio": "2026-11-13T20:45",
-   "texto": "Estonia o empate",
-   "cuota": 1.57,
-   "justa": 1.55,
-   "ev": 0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Luxembourg",
-   "visitante": "Estonia",
-   "inicio": "2026-11-13T20:45",
-   "texto": "Estonia marca",
+   "texto": "Slovakia marca 2 o más",
    "cuota": 1.53,
-   "justa": 1.54,
-   "ev": -0.008,
+   "justa": 1.55,
+   "ev": -0.015,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Bulgaria",
-   "visitante": "Iceland",
-   "inicio": "2026-11-13T20:45",
-   "texto": "Iceland marca 2 o más",
-   "cuota": 2.0,
-   "justa": 2.03,
-   "ev": -0.016,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Netherlands",
-   "visitante": "Greece",
-   "inicio": "2026-11-13T20:45",
-   "texto": "Netherlands marca 2 o más",
-   "cuota": 1.57,
-   "justa": 1.6,
-   "ev": -0.017,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T19:10",
+  "hora": "2026-11-13T19:36",
   "revisadas": 0,
   "mejor": null
  },
