@@ -178,6 +178,9 @@
   "marcador": [
    0,
    1
+  ],
+  "por_que": [
+   "Copa ante un Leganés de Segunda: el grande suele dominar sin necesitar goles; acabó 0-1 (pocos goles)"
   ]
  },
  {
@@ -2169,6 +2172,52 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.65,
    "prob_cuota": 0.541
+  },
+  "por_que": [
+   "Suiza le ganó 2-1 y 3-0 a Eslovenia en los dos últimos; bet365 la tenía a 1,65 (su 1,85 era de otra casa)"
+  ]
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11015",
+  "dia": "2026-11-13",
+  "local": "Netherlands",
+  "visitante": "Greece",
+  "texto": "Gana Países Bajos",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 2.3,
+  "combinada": "crim-11015",
+  "argumento": [],
+  "por_que": [
+   "Países Bajos líder del grupo y en casa; Grecia 2.ª con los mismos puntos pero fuera rinde menos"
+  ],
+  "partido_id": 1528966,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.55,
+   "prob_cuota": 0.435
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11015",
+  "dia": "2026-11-13",
+  "local": "Netherlands",
+  "visitante": "Greece",
+  "texto": "Donyell Malen hace 3 o más remates",
+  "mercado": "Player Shots",
+  "opcion": "Malen Over 2.5",
+  "cuota": 2.3,
+  "combinada": "crim-11015",
+  "argumento": [],
+  "por_que": [
+   "Malen titular arriba con Países Bajos dominando: muchas llegadas; el riesgo es que lo cambien pronto con el partido resuelto"
+  ],
+  "partido_id": 1528966,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.435
   }
  }
 ]

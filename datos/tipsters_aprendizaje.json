@@ -77,6 +77,13 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.238
   },
+  "CRIMINALPICKS🕵🏻‍♂️": {
+   "n": 3,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "PABLO ANALISTA": {
    "n": 2,
    "verdes": 1,
@@ -124,13 +131,6 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
-  },
-  "CRIMINALPICKS🕵🏻‍♂️": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   }
  },
  "mercado": {
@@ -143,6 +143,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.28
   },
+  "Match Winner Home": {
+   "n": 9,
+   "verdes": 5,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 0.06,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 3.05
+  },
   "Goals Over/Under Over 2.5": {
    "n": 8,
    "verdes": 4,
@@ -151,15 +160,6 @@
    "unidades": 2.31,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.542
-  },
-  "Match Winner Home": {
-   "n": 8,
-   "verdes": 5,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.06,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 3.05
   },
   "Match Winner Away": {
    "n": 6,
@@ -423,11 +423,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Player Shots Malen Over 2.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 53,
+   "n": 54,
    "verdes": 20,
    "rojos": 2,
    "nulos": 0,
@@ -479,6 +486,13 @@
    "unidades": 0.4,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.671
+  },
+  "Netherlands": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   },
   "Celta Vigo": {
    "n": 1,
@@ -606,13 +620,6 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "Netherlands": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "Dijon": {
    "n": 1,
    "verdes": 0,
@@ -630,7 +637,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 52,
+   "n": 54,
    "verdes": 26,
    "rojos": 2,
    "nulos": 0,
@@ -736,6 +743,13 @@
    "unidades": 1.82,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.048
+  },
+  ">2,20": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "liga": {
@@ -749,7 +763,7 @@
    "prob_cuota": 9.274
   },
   "UEFA Nations League": {
-   "n": 24,
+   "n": 26,
    "verdes": 12,
    "rojos": 1,
    "nulos": 0,
@@ -778,7 +792,7 @@
  },
  "lado": {
   "partido": {
-   "n": 41,
+   "n": 42,
    "verdes": 13,
    "rojos": 2,
    "nulos": 0,
@@ -796,7 +810,7 @@
    "prob_cuota": 12.035
   },
   "local": {
-   "n": 21,
+   "n": 22,
    "verdes": 9,
    "rojos": 4,
    "nulos": 0,
@@ -807,18 +821,18 @@
  },
  "por_que": {
   "goles": {
-   "n": 36,
+   "n": 37,
    "verdes": 18,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
    "unidades": 4.65,
    "resueltos_con_cuota": 19,
    "prob_cuota": 14.039
   },
   "—": {
-   "n": 25,
+   "n": 24,
    "verdes": 5,
-   "rojos": 7,
+   "rojos": 6,
    "nulos": 0,
    "unidades": -3.04,
    "resueltos_con_cuota": 7,
@@ -834,7 +848,7 @@
    "prob_cuota": 1.421
   },
   "casa/fuera": {
-   "n": 12,
+   "n": 14,
    "verdes": 6,
    "rojos": 1,
    "nulos": 0,
@@ -843,9 +857,9 @@
    "prob_cuota": 4.35
   },
   "motivación": {
-   "n": 8,
+   "n": 9,
    "verdes": 1,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
    "unidades": -1.86,
    "resueltos_con_cuota": 3,
@@ -870,7 +884,7 @@
    "prob_cuota": 2.32
   },
   "clasificación": {
-   "n": 1,
+   "n": 2,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -879,7 +893,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 88,
+   "n": 90,
    "verdes": 38,
    "rojos": 10,
    "nulos": 0,
