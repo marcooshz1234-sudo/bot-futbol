@@ -27,8 +27,6 @@ from bot import API, DATOS, EXTRA, MADRID, PARTIDOS, RAIZ, leer
 
 HECHAS = DATOS / "alineaciones_hechas.json"
 SALIDA = RAIZ / "publicaciones" / "alineaciones.json"
-PRUEBA = RAIZ / "publicaciones" / "alineaciones_prueba.json"   # antes de DESDE: se guarda sin publicar
-DESDE = "2026-10-27"
 VENTANA = (timedelta(minutes=15), timedelta(minutes=95))   # GitHub lanza el cron cada ~45 min, no cada 15
 CUOTA_MIN, CUOTA_MAX = 1.25, 2.00
 # Igual que picks.py tras la prueba con 186 partidos: solo remates (2+ acertó el 90 %) y con ≥ 90 %.
@@ -188,7 +186,7 @@ def main():
         print("Sin picks de jugadores que cumplan")
         return
 
-    destino = SALIDA if datetime.now(MADRID).strftime("%Y-%m-%d") >= DESDE else PRUEBA
+    destino = SALIDA
     posts = leer(destino, []) or []
     hora = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
     clave_post = datetime.now(MADRID).strftime("%Y-%m-%d-%H%M")
