@@ -211,3 +211,4 @@
 2026-11-13 13:50:23 arranca el bot del móvil
 2026-11-13 18:19:26 arranca el bot del móvil
 2026-11-13 19:40:44 arranca el bot del móvil
+2026-11-13 23:16:28 botón ok|2026-11-14-ganadores-nations → ok
