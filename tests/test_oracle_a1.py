@@ -20,6 +20,10 @@ class OracleA1(unittest.TestCase):
                               serialization.NoEncryption()).decode()
         roto = pem.replace("\n", " ") + " OCI_API_KEY"
         self.assertEqual(O.huella(O.limpiar_pem(roto)), O.huella(pem))
+        rayas = pem.replace("-----", "—")   # TextEdit cambia los guiones por rayas
+        self.assertEqual(O.huella(O.limpiar_pem(rayas)), O.huella(pem))
+        solo = "".join(pem.splitlines()[1:-1])   # sin BEGIN/END
+        self.assertEqual(O.huella(O.limpiar_pem(solo)), O.huella(pem))
 
     def test_sin_hueco(self):
         e = type("E", (Exception,), {})("Out of host capacity.")

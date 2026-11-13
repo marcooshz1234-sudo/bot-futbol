@@ -24,16 +24,23 @@ SIN_HUECO = ("out of host capacity", "outofcapacity", "out of capacity")
 
 
 def limpiar_pem(t):
-    """La clave tal como se pegue en GitHub (en una línea, con espacios, con «OCI_API_KEY» al final, con comillas
-    raras de TextEdit…) → PEM bien formado."""
+    """La clave tal como se pegue en GitHub (en una línea, con espacios, con «OCI_API_KEY» al final, con los guiones
+    cambiados por rayas «—» de TextEdit, o sin las líneas BEGIN/END) → PEM bien formado."""
     import re
     import textwrap
     t = (t or "").replace("\\n", "\n")
-    m = re.search(r"-----BEGIN ([A-Z ]+)-----(.*?)-----END \1-----", t, re.S)
-    if not m:
-        return t
-    cuerpo = re.sub(r"[^A-Za-z0-9+/=]", "", m.group(2))
-    return f"-----BEGIN {m.group(1)}-----\n" + "\n".join(textwrap.wrap(cuerpo, 64)) + f"\n-----END {m.group(1)}-----\n"
+    m = re.search(r"[-‐‑–—―]+\s*BEGIN\s+([A-Z ]+?)\s*[-‐‑–—―]+(.*?)[-‐‑–—―]+\s*END", t, re.S)
+    tipo, cuerpo = (m.group(1).strip(), m.group(2)) if m else ("PRIVATE KEY", t.replace("OCI_API_KEY", ""))
+    cuerpo = re.sub(r"[^A-Za-z0-9+/=]", "", cuerpo)
+    return f"-----BEGIN {tipo}-----\n" + "\n".join(textwrap.wrap(cuerpo, 64)) + f"\n-----END {tipo}-----\n"
+
+
+def diagnostico(t):
+    """Qué pinta tiene la clave pegada, SIN enseñar nada de ella (para saber por qué no se lee)."""
+    import re
+    t = t or ""
+    return (f"clave: {len(t)} caracteres, {t.count(chr(10))} saltos de línea, BEGIN {'sí' if 'BEGIN' in t else 'no'},"
+            f" END {'sí' if 'END' in t else 'no'}, rayas raras {'sí' if re.search('[‐‑–—―]', t) else 'no'}")
 
 
 def huella(pem):
@@ -101,6 +108,7 @@ def main():
     if HECHO.exists():
         print("El servidor ya está creado:", HECHO.read_text())
         return 0
+    print(diagnostico(os.environ.get("OCI_KEY")))
     cfg = config()
     if not cfg:
         print("Faltan los secretos de Oracle (OCI_*) en GitHub: no se hace nada")
