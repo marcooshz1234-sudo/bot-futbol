@@ -35,6 +35,14 @@ def limpiar_pem(t):
     return f"-----BEGIN {tipo}-----\n" + "\n".join(textwrap.wrap(cuerpo, 64)) + f"\n-----END {tipo}-----\n"
 
 
+def publica(pem):
+    """La clave PÚBLICA (se puede enseñar) de la privada: es la que hay que dar de alta en Oracle («Pegar clave pública»)."""
+    from cryptography.hazmat.primitives import serialization
+    priv = serialization.load_pem_private_key(pem.encode(), password=None)
+    return priv.public_key().public_bytes(serialization.Encoding.PEM,
+                                          serialization.PublicFormat.SubjectPublicKeyInfo).decode()
+
+
 def diagnostico(t):
     """Qué pinta tiene la clave pegada, SIN enseñar nada de ella (para saber por qué no se lee)."""
     import re
@@ -110,6 +118,10 @@ def main():
         return 0
     print(diagnostico(os.environ.get("OCI_KEY")))
     cfg = config()
+    if cfg:
+        print("Huella de la clave:", cfg["fingerprint"])
+        print("Clave pública (para darla de alta en Oracle si hace falta):")
+        print(publica(cfg["key_content"]))
     if not cfg:
         print("Faltan los secretos de Oracle (OCI_*) en GitHub: no se hace nada")
         return 0
