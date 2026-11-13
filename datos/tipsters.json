@@ -647,7 +647,7 @@
   ]
  },
  {
-  "tipster": "TRADER FOOTBALL",
+  "tipster": "TRADER FOOTBALL || FREE",
   "fuente": "-1001550157115/100150",
   "dia": "2026-11-11",
   "hora": "20:00",
@@ -666,7 +666,7 @@
   ]
  },
  {
-  "tipster": "TRADER FOOTBALL",
+  "tipster": "TRADER FOOTBALL || FREE",
   "fuente": "-1001550157115/2026-11-11T17:33",
   "dia": "2026-11-11",
   "hora": "23:00",
@@ -890,7 +890,7 @@
   ]
  },
  {
-  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "tipster": "TRADER FOOTBALL || FREE",
   "fuente": "-1001550157115/100215",
   "dia": "2026-11-12",
   "hora": "18:00",
@@ -1056,7 +1056,7 @@
   ]
  },
  {
-  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "tipster": "TRADER FOOTBALL || FREE",
   "fuente": "-1001550157115/100245",
   "dia": "2026-11-12",
   "hora": "20:45",
@@ -1181,6 +1181,693 @@
   "argumento": [],
   "por_que": [
    "Pata 2 de la combi @1,86 (con Kane 2+ a puerta)."
+  ]
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47001",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "texto": "España -1,5 (hándicap asiático) @1,70 stake 10",
+  "mercado": "Asian Handicap",
+  "opcion": "Away -1.5",
+  "cuota": 1.7,
+  "stake": 10,
+  "argumento": [
+   "Stake 10 (máxima confianza)",
+   "Once de España: Simón; Porro, Cubarsí, Huijsen, Cucurella; Zubimendi, Fermín, Fabián; Yeremy, Ferran, Baena"
+  ],
+  "por_que": [
+   "España 1.ª FIFA contra una Chequia que llegaba con 5 derrotas seguidas (L-L-L-L-L); -1,5 a 1,70 pide ganar por 2 y España suele ganar por 2+ a rivales en mala racha.",
+   "Riesgo: sin varios titulares; ganó 0-2 justo."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528961,
+  "analisis": {
+   "prob_cuota": 0.588
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/46999",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "texto": "España marca en la 1.ª parte @1,36 (doble con Bélgica marca)",
+  "mercado": "Total - Away 1st Half",
+  "opcion": "Over 0.5",
+  "cuota": 1.36,
+  "combinada": "perez-46999",
+  "argumento": [
+   "Doble de 2 patas @1,52 (300 €)"
+  ],
+  "por_que": [
+   "Mercado de 1.ª parte (prohibido en nuestros posts; solo para aprender).",
+   "España domina la posesión desde el inicio y Chequia encajaba en todos sus partidos: marcó en el 36' de penalti."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528961,
+  "analisis": {
+   "prob_cuota": 0.735
+  },
+  "estado": null,
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE",
+  "fuente": "-1001550157115/100255",
+  "local": "Armenia",
+  "visitante": "Cyprus",
+  "texto": "Más de 8,5 córners @1,72 (stake «máximo»)",
+  "mercado": "Corners Over Under",
+  "opcion": "Over 8.5",
+  "cuota": 1.72,
+  "argumento": [
+   "Armenia y Chipre en grupo igualado (Chipre 2.º, Armenia 3.º)",
+   "Cuotas del partido 1,40 Chipre aprox. (pide juego abierto)"
+  ],
+  "por_que": [
+   "Partido igualado entre selecciones débiles que atacan por bandas: líneas de córners bajas (8,5) suelen ir justas.",
+   "A los 57' ya llevaban 9: verde pronto. Mercado que nosotros no usamos (córners), útil para aprender."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528959,
+  "analisis": {
+   "prob_cuota": 0.581
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   1
+  ]
+ },
+ {
+  "tipster": "MAX ANALISTA",
+  "fuente": "-1002181392017/15410",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "texto": "España marca en ambos tiempos @1,78 (stake 3)",
+  "mercado": "Team To Score In Both Halves",
+  "opcion": "Away Yes",
+  "cuota": 1.78,
+  "stake": 3,
+  "argumento": [
+   "Stake 3 gratuito"
+  ],
+  "por_que": [
+   "Necesita gol de España antes y después del descanso: España marcó en el 36' (penalti) y en la 2.ª parte, 0-2.",
+   "Mercado con parte de 1.ª mitad (no lo usamos); a 1,78 es una forma cara de decir «España gana cómodo»."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528961,
+  "analisis": {
+   "prob_cuota": 0.562
+  },
+  "estado": null,
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "MAX ANALISTA",
+  "fuente": "-1002181392017/15420",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "texto": "España +1,5 goles @1,32 (doble @1,62, stake 10)",
+  "mercado": "Total - Away",
+  "opcion": "Over 1.5",
+  "cuota": 1.32,
+  "stake": 10,
+  "combinada": "max-15420",
+  "argumento": [
+   "«La mejor apuesta del día», stake 10/10"
+  ],
+  "por_que": [
+   "Chequia con 5 derrotas seguidas y España con 44 partidos sin perder: 2 goles de España es lo más probable (~70-75 %).",
+   "Salió 0-2, justo en la línea."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528961,
+  "analisis": {
+   "prob_cuota": 0.758
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "MAX ANALISTA",
+  "fuente": "-1002181392017/15420",
+  "local": "Italy",
+  "visitante": "France",
+  "texto": "Más de 1,5 goles Italia–Francia @1,23 (doble @1,62)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": 1.23,
+  "stake": 10,
+  "combinada": "max-15420",
+  "argumento": [
+   "Pata de seguridad en la doble"
+  ],
+  "por_que": [
+   "Dos ataques top y Francia sin varios titulares atrás: 2+ goles muy probable; fue 3-1."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528960,
+  "analisis": {
+   "prob_cuota": 0.813
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
+ },
+ {
+  "tipster": "MAX ANALISTA",
+  "fuente": "-1002181392017/15405",
+  "local": "Türkiye",
+  "visitante": "Belgium",
+  "texto": "Más de 2,5 goles @1,50",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "argumento": [
+   "Publicado como apuesta acertada a los 30'"
+  ],
+  "por_que": [
+   "Mercado prohibido para nosotros (más de 2,5 del partido); Turquía y Bélgica marcan y encajan mucho en la Nations: 1-2 al descanso.",
+   "Solo para aprender."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528958,
+  "analisis": {
+   "prob_cuota": 0.667
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
+ },
+ {
+  "tipster": "STAKE REAL | JB APUESTAS",
+  "fuente": "-1001938149766/12665",
+  "local": "Türkiye",
+  "visitante": "Belgium",
+  "texto": "Más de 9,5 remates a puerta + Turquía marca @1,86 stake 10",
+  "mercado": "Shots On Target",
+  "opcion": "Over 9.5",
+  "cuota": 1.86,
+  "stake": 10,
+  "combinada": "jb-12665",
+  "argumento": [
+   "Stake 10 (dice que apuesta 1.000 €)"
+  ],
+  "por_que": [
+   "Tiros a puerta del partido entero (prohibido en nuestros posts). Dos equipos ofensivos y defensas flojas: hubo 13.",
+   "Solo para aprender."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528958,
+  "analisis": {
+   "prob_cuota": 0.538
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   2
+  ]
+ },
+ {
+  "tipster": "STAKE REAL | JB APUESTAS",
+  "fuente": "-1001938149766/12665",
+  "local": "Türkiye",
+  "visitante": "Belgium",
+  "texto": "Turquía marca (crear apuesta @1,86)",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "cuota": 1.86,
+  "stake": 10,
+  "combinada": "jb-12665",
+  "argumento": [
+   "Turquía en casa"
+  ],
+  "por_que": [
+   "Turquía en casa casi siempre marca; Bélgica encaja fuera. Marcó (1-2)."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528958,
+  "analisis": {
+   "prob_cuota": 0.538
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
+ },
+ {
+  "tipster": "ENZO TIPSTER",
+  "fuente": "-1002819019921/6715",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "texto": "España gana @1,22 (doble @2,01)",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.22,
+  "combinada": "enzo-6715",
+  "argumento": [
+   "«Stakazo Nations League»"
+  ],
+  "por_que": [
+   "España 1.ª FIFA, 44 sin perder, contra una Chequia con 5 derrotas: favorito claro. Ganó 0-2."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528961,
+  "analisis": {
+   "prob_cuota": 0.82
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "ENZO TIPSTER",
+  "fuente": "-1002819019921/6715",
+  "local": "Italy",
+  "visitante": "France",
+  "texto": "Más de 2,5 goles @1,65 (doble @2,01)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.65,
+  "combinada": "enzo-6715",
+  "argumento": [
+   "Doble con España gana"
+  ],
+  "por_que": [
+   "Mercado prohibido para nosotros; Italia–Francia suele tener goles y Francia iba sin titulares atrás. Fue 3-1. Solo para aprender."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528960,
+  "analisis": {
+   "prob_cuota": 0.606
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Côte d'Ivoire",
+  "visitante": "Gambia",
+  "texto": "Más de 1,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Italy",
+  "visitante": "France",
+  "texto": "Más de 1,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528960,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "San Marino",
+  "visitante": "Belarus",
+  "texto": "Más de 1,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528964,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Congo DR",
+  "visitante": "Sierra Leone",
+  "texto": "Más de 1,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Senegal",
+  "visitante": "Sudan",
+  "texto": "Senegal +1,5 goles (lista de 17, sin cuota)",
+  "mercado": "Total - Home",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Ghana",
+  "visitante": "Somalia",
+  "texto": "Ghana +1,5 goles (lista de 17, sin cuota)",
+  "mercado": "Total - Home",
+  "opcion": "Over 1.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Benin",
+  "visitante": "Central African Republic",
+  "texto": "Benín marca (lista de 17, sin cuota)",
+  "mercado": "Total - Home",
+  "opcion": "Over 0.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Armenia",
+  "visitante": "Cyprus",
+  "texto": "Menos de 3,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Under 3.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528959,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   1,
+   1
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Cameroon",
+  "visitante": "Namibia",
+  "texto": "Menos de 3,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Under 3.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Equatorial Guinea",
+  "visitante": "Zimbabwe",
+  "texto": "Menos de 3,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Under 3.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Madagascar",
+  "visitante": "Guinea-Bissau",
+  "texto": "Menos de 3,5 goles (lista de 17, sin cuota)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Under 3.5",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Czech Republic",
+  "visitante": "Spain",
+  "texto": "España gana (lista de 17, sin cuota)",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528961,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "England",
+  "visitante": "Croatia",
+  "texto": "Inglaterra gana (lista de 17, sin cuota)",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528962,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Guinea",
+  "visitante": "Eritrea",
+  "texto": "Guinea gana (lista de 17, sin cuota)",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12"
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Montenegro",
+  "visitante": "Latvia",
+  "texto": "Montenegro gana (lista de 17, sin cuota)",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1545613,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Türkiye",
+  "visitante": "Belgium",
+  "texto": "Bélgica o empate (lista de 17, sin cuota)",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528958,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   1,
+   2
+  ]
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/37",
+  "local": "Albania",
+  "visitante": "Finland",
+  "texto": "Albania o empate (lista de 17, sin cuota)",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "cuota": null,
+  "combinada": "fiebre-37",
+  "argumento": [
+   "Lista de 17 picks «elige con tu criterio», sin cuotas ni razones"
+  ],
+  "por_que": [
+   "Pick de favorito claro o línea baja (cuotas típicas 1,10-1,40): mucha probabilidad y poco valor; el canal luego presume de 17/17.",
+   "Sirve para ver qué líneas «seguras» elige, no como señal fuerte."
+  ],
+  "dia": "2026-11-12",
+  "partido_id": 1528963,
+  "analisis": {},
+  "estado": "verde",
+  "marcador": [
+   2,
+   0
   ]
  }
 ]
