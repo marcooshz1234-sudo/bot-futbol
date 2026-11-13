@@ -29,6 +29,7 @@ TEXTO_PROHIBIDO = [   # (patrón, motivo) — REGLAS.md, apartado «Textos»
     (r"Solo queda rezar", "«Solo queda rezar» (no le gusta)"),
     (r"\bMarcos\b", "el nombre de Marcos (nunca en público)"),
     (r"\+18 \| Jueg[ao] (?:con )?responsab", "«+18 | Juega responsable» (quitado el 27/10)"),
+    (r"MyMatch|Bet ?Builder|pata de su|su boleto", "nombres de otras casas o notas internas («MyMatch», «pata de su…») (13/11)"),
 ]
 
 

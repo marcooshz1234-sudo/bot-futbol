@@ -300,6 +300,12 @@ def dudas(p, boleto=False):
         return "el resultado de alguna pata aún no está confirmado"
     if not p.get("cuota"):
         return "no sé la cuota con la que se publicó"
+    ids = [x.get("partido_id") for x in picks if x.get("partido_id")]
+    if len(set(ids)) < len(ids):   # 13/11: varias patas de un mismo partido = «Crear apuesta»: la cuota no se multiplica
+        from bot import leer as _leer, RAIZ as _R
+        dada = (_leer(_R / "publicaciones" / "control.json", {}) or {}).get("cuota_dada") or {}
+        if p.get("id") not in dada:
+            return "lleva varias patas del mismo partido y su cuota no está confirmada"
     if p["cuota"] < CUOTA_MINIMA_POST:
         return f"la cuota es muy baja (@{num(p['cuota'])})"
     return None

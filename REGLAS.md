@@ -64,6 +64,9 @@
 - ⚙️ Se copian TODOS los canales de fútbol que seguimos (no NBA ni tenis), sin su nombre ni su boleto (12/11).
 - ⚙️ Con la cuota de bet365 de ahora, no la suya. Sin cuota, no se sube.
 - ⚙️ Si son picks bajos (< 1,35) o pocos, se juntan en una combi (hasta 4, de partidos distintos, ≥ 1,35); si no, tal cual.
+- 🤖 **Nunca nombres de otras casas ni notas internas** en lo publicado («MyMatch», «pata de su…») (13/11).
+- ⚙️ Un post de un canal se copia una sola vez. Su «Crear apuesta» va en UNA línea con su cuota; nunca partido en patas
+  (con la misma cuota en cada pata salía una cuota falsa, 13/11).
 - ⚙️ Combinada suya a la que le falta una pata (por las reglas): fuera entera. «Crear apuesta»: con su cuota y el verde a mano.
 - ⚙️ No se copia lo que choca, lo que ya va en 2 posts ni lo que va a favor de un equipo sin su estrella.
 

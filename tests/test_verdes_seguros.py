@@ -22,6 +22,9 @@ class VerdesSeguros(unittest.TestCase):
         self.assertIn("anulada", V.dudas({"cuota": 1.6, "picks": [pick(), pick(estado="anulada")]}))
         self.assertIn("cuota", V.dudas({"cuota": None, "picks": [pick()]}))
         self.assertIn("boleto", V.dudas({"cuota": 2.0, "picks": [pick()]}, boleto=True))
+        # 13/11: combi copiada con 2 patas del mismo partido (cuota multiplicada falsa @2,37)
+        mismo = [pick(partido_id=9), pick(partido_id=9)]
+        self.assertIn("mismo partido", V.dudas({"id": "x-combi-tip-1", "cuota": 2.37, "picks": mismo}))
 
     def correr(self, publicados, cola=None):
         with tempfile.TemporaryDirectory() as d:

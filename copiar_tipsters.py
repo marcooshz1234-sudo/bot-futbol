@@ -114,8 +114,19 @@ def cuota_bet365(pk):
     return pk.get("cuota"), False
 
 
+# 13/11 (Marcos: «¿por qué pone lo de MyMatch en la publicación? Eso no lo vuelvas a poner»): nada de nombres de otras
+# casas ni notas internas («pata de su …») en lo que se publica
+NOTAS = re.compile(r"\s*\((?:[^()]*\b(?:MyMatch|Bet ?Builder|pata de su|su combinada|su boleto)\b[^()]*)\)", re.I)
+OTRAS_CASAS = re.compile(r"\bMyMatch\b|\bBet ?Builder\b", re.I)
+
+
+def limpiar(t):
+    t = NOTAS.sub("", t)
+    return re.sub(r"\s+", " ", OTRAS_CASAS.sub("Crear apuesta", t)).strip()
+
+
 def texto_pata(pk):
-    t = re.sub(r"\s+", " ", pk["texto"]).strip()
+    t = limpiar(pk["texto"])
     return f"🍀 {t} @{coma(pk['cuota'])}" if pk.get("cuota") else f"🍀 {t}"
 
 
@@ -184,8 +195,17 @@ def main(ahora=None):
     clave = lambda x: f"{x.get('fuente') or x['tipster'] + '|' + x['dia'] + '|' + x['local']}|{x.get('mercado')}|{x.get('opcion')}"
     sueltos, combis = [], {}
     rotas = set()
+    # 13/11: un post de un canal se copia UNA vez (el «Crear apuesta» de TipsPro salió como pick y, partido en patas por
+    # otra IA, otra vez como combi con @1,54 en cada pata → cuota falsa 2,37)
+    fuentes_hechas = {h.split("|")[0] for h in hechos}
     for x in lista:
         if clave(x) in hechos:
+            continue
+        if x.get("fuente") and x["fuente"] in fuentes_hechas and not x.get("combinada"):
+            hechos.add(clave(x))
+            continue
+        if x.get("combinada") and x["combinada"] in fuentes_hechas:
+            hechos.add(clave(x))
             continue
         # 12/11 (Marcos: «esos mercados sí los puedes usar, y más si lo dicen ellos»): lo de los canales se copia
         # aunque sea más de 2,5 goles, 1ª parte, descanso… (los prohibidos son solo para las combis del bot)
@@ -267,6 +287,11 @@ def main(ahora=None):
         from bot import CUOTA_MINIMA_POST
         if nombre_combi in rotas:
             print(f"Copiar tipsters: combinada {nombre_combi} no (le falta una pata)")
+            hechos.update(clave(x) for x in patas)
+            continue
+        partidos = [x.get("partido_id") or f"{x.get('local')}|{x.get('visitante')}" for x in patas]
+        if len(set(partidos)) < len(partidos):   # 13/11: dos patas del mismo partido = «Crear apuesta»: no se multiplica
+            print(f"Copiar tipsters: combinada {nombre_combi} no (patas del mismo partido: su cuota no se multiplica)")
             hechos.update(clave(x) for x in patas)
             continue
         tot = 1.0
