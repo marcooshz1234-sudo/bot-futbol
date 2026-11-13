@@ -177,8 +177,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.5,
-   "temperatura": 11.9
+   "viento_kmh": 11.7,
+   "temperatura": 11.7
   }
  },
  "1570019": {
@@ -422,7 +422,11 @@
    "puesto": 19,
    "de": 22
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 5.3,
+   "temperatura": 20.4
+  }
  },
  "1528965": {
   "local": {
@@ -556,8 +560,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.4,
-   "temperatura": 6.0
+   "viento_kmh": 0.8,
+   "temperatura": 5.4
   }
  },
  "1545614": {
@@ -599,7 +603,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 3.6,
-   "temperatura": 3.8
+   "temperatura": 3.5
   }
  },
  "1528972": {
@@ -731,7 +735,11 @@
    "puesto": 2,
    "de": 22
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.6,
+   "viento_kmh": 15.1,
+   "temperatura": 13.5
+  },
   "cuotas": {
    "Home": [
     2.55,

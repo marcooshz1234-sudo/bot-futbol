@@ -1,7 +1,7 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España) · Estádio Municipal de Portimão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 01:47_

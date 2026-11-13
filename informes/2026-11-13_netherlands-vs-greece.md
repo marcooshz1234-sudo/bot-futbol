@@ -1,7 +1,7 @@
 # Netherlands – Greece
 **Nations League** · League A - 5 · 13/11/2026 20:45 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_

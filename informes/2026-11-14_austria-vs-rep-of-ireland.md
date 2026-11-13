@@ -1,7 +1,7 @@
 # Austria – Rep. Of Ireland
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Raiffeisen Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:58._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_
