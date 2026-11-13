@@ -43,9 +43,14 @@
   "foto-2026-11-13-pick-tip-1": "2026-11-13T13:49",
   "escalera-2026-11-13": "2026-11-13T14:21",
   "bucle-publicar_telegram-2026111314": "2026-11-13T14:32",
-  "bucle-redes-2026111314": "2026-11-13T14:32"
+  "bucle-redes-2026111314": "2026-11-13T14:32",
+  "foto-2026-11-13-pick-tip-4": "2026-11-13T14:53"
  },
  "abiertos": [
+  {
+   "clave": "foto-2026-11-13-pick-tip-4",
+   "t": "🖼️ Sale a las 14:54 y su foto no está hecha (o es vieja): Vamos con otro pick, familia 👇"
+  },
   {
    "clave": "bucle-publicar_telegram-2026111314",
    "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
@@ -55,8 +60,12 @@
    "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-13T14:42",
+ "revisado": "2026-11-13T14:53",
  "historial": [
+  {
+   "hora": "2026-11-13T14:53",
+   "t": "🖼️ Sale a las 14:54 y su foto no está hecha (o es vieja): Vamos con otro pick, familia 👇"
+  },
   {
    "hora": "2026-11-13T14:32",
    "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"

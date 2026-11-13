@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 14:42",
+ "actualizado": "2026-11-13 14:53",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 398,
-   "hoy": 7,
+   "seguidores": 399,
+   "hoy": 8,
    "serie": [
     307,
     331,
@@ -50,17 +50,17 @@
     378,
     384,
     391,
-    398
+    399
    ]
   }
  },
- "total": 3176,
- "total_hoy": 53,
+ "total": 3177,
+ "total_hoy": 54,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:00",
+  "hora": "14:54",
   "dia": "2026-11-13",
-  "titulo": "Y para los valientes, la loca del vier"
+  "titulo": "Vamos con otro pick, familia"
  },
  "ayer": null,
  "escalera": {
@@ -197,7 +197,7 @@
    "instagram": 40,
    "threads": 2737,
    "facebook": 1,
-   "telegram": 398
+   "telegram": 399
   }
  },
  "tipos_instagram": {
