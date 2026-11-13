@@ -35,7 +35,7 @@
    "justa": 1.98,
    "ev": 0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Salamanca UDS",
@@ -46,7 +46,7 @@
    "justa": 1.75,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Albinoleffe",
@@ -57,7 +57,7 @@
    "justa": 2.13,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 2.4
+   "edad_h": 2.7
   },
   {
    "local": "Moldova",
@@ -68,11 +68,11 @@
    "justa": 2.14,
    "ev": -0.02,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T10:46",
+  "hora": "2026-11-13T11:07",
   "revisadas": 0,
   "mejor": null
  },
