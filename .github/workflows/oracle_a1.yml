@@ -25,15 +25,15 @@ jobs:
           python-version: "3.12"
       - if: steps.ya.outputs.si == '0'
         env:
-          OCI_USER: ${{ secrets.OCI_USER }}
-          OCI_TENANCY: ${{ secrets.OCI_TENANCY }}
-          OCI_FINGERPRINT: ${{ secrets.OCI_FINGERPRINT }}
-          OCI_REGION: ${{ secrets.OCI_REGION }}
+          # identificadores de la cuenta (no son secretos: sin la clave privada no sirven para nada)
+          OCI_USER: ocid1.user.oc1..aaaaaaaazadylu2m3riqsevbwvdoydzivp7wfvrouqppxot4u7sgpfb7pn5a
+          OCI_TENANCY: ocid1.tenancy.oc1..aaaaaaaaeqfo7msfvozmb55eyr3yldap2ih7arbhuysi6lb2noijoosb6i6q
+          OCI_REGION: eu-madrid-1
           OCI_KEY: ${{ secrets.OCI_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CANAL: "-1003953339107"
         run: |
-          if [ -z "$OCI_USER" ]; then echo "Sin secretos de Oracle todavía"; exit 0; fi
+          if [ -z "$OCI_KEY" ]; then echo "Falta el secreto OCI_KEY"; exit 0; fi
           pip install -q oci
           python -u oracle_a1.py
           if [ -f oracle/servidor.json ]; then

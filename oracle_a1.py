@@ -23,11 +23,23 @@ OCPU, MEMORIA, DISCO = 4, 24, 100   # el máximo gratis (Always Free: 4 OCPU, 24
 SIN_HUECO = ("out of host capacity", "outofcapacity", "out of capacity")
 
 
+def huella(pem):
+    """El «fingerprint» de la clave de la API sale de la propia clave (MD5 de la pública): no hace falta pedirlo."""
+    import hashlib
+    from cryptography.hazmat.primitives import serialization
+    priv = serialization.load_pem_private_key(pem.encode(), password=None)
+    der = priv.public_key().public_bytes(serialization.Encoding.DER, serialization.PublicFormat.SubjectPublicKeyInfo)
+    h = hashlib.md5(der).hexdigest()
+    return ":".join(h[i:i + 2] for i in range(0, 32, 2))
+
+
 def config():
-    """Config de OCI con los secretos de GitHub, o None si faltan (no se hace nada)."""
+    """Config de OCI, o None si falta la clave (no se hace nada). La clave privada (OCI_KEY) es lo único secreto:
+    el usuario y la tenencia son identificadores (van en el workflow) y la huella se calcula de la clave."""
+    key = os.environ.get("OCI_KEY")
     c = {"user": os.environ.get("OCI_USER"), "tenancy": os.environ.get("OCI_TENANCY"),
-         "fingerprint": os.environ.get("OCI_FINGERPRINT"), "region": os.environ.get("OCI_REGION") or "eu-madrid-1",
-         "key_content": os.environ.get("OCI_KEY")}
+         "region": os.environ.get("OCI_REGION") or "eu-madrid-1", "key_content": key,
+         "fingerprint": os.environ.get("OCI_FINGERPRINT") or (huella(key) if key else None)}
     return c if all(c.values()) else None
 
 
