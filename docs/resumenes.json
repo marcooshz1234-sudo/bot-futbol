@@ -1899,5 +1899,31 @@
       "total": 30
     },
     "texto": "📊 BALANCE DEL VIERNES: 4 DE 13 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n❌ 🚨 CUOTAZA EN BET365 🚨\n✅ Os dejo la combi del Serbia – Alemania ⚽🔥\n✅ Pick que nos gusta mucho para hoy 👀\n❌ 🪜 Reto escalera · Día 4/7\n❌ Vamos con la combi del viernes familia 🔥\n✅ Pick que no podía faltar hoy ⚽\n❌ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀\n❌ Y para los valientes, la loca del viernes 🤪🔥\n✅ Os dejo otro pick que pinta muy bien 👀\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n❌ Combinada de selecciones para esta noche 🔥\n❌ Vamos con una combinada cortita 👇\n❌ Este nos encanta para hoy 🔥\n\n✅ 4 acertadas · ❌ 9 falladas · ⏳ 1 sin resolver"
+  },
+  "2026-11-14": {
+    "dia": "2026-11-14",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-14-ganadores-nations",
+        "titulo": "🏆 NATIONS LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 6
+    },
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
