@@ -1,7 +1,7 @@
 # Kosovo – Israel
 **Nations League** · League B - 5 · 14/11/2026 15:00 (hora España) · Stadiumi Fadil Vokrri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 08:22_

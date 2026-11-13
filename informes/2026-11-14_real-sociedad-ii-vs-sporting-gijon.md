@@ -1,7 +1,7 @@
 # Real Sociedad II – Sporting Gijon
 **Segunda División** · Regular Season - 14 · 14/11/2026 16:15 (hora España) · Estadio Ciudad Deportiva Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 08:22_

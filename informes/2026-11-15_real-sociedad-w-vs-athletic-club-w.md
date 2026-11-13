@@ -1,10 +1,23 @@
 # Real Sociedad W – Athletic Club W
 **Liga F** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Instalaciones de Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 14:13_
+
+- **1X2:** 1 **1.80**  ·  X **3.50**  ·  2 **3.60**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.00** · menos **1.14**
+    - 5,5: más **9.00** · menos **1.04**
+- **1X2 descanso:** 1 **2.38**  ·  X **2.25**  ·  2 **4.00**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.00**  ·  Home/No **3.40**  ·  Draw/No **12.00**  ·  Away/No **7.00**
 
 ## Estadísticas de equipo
 | | Real Sociedad W (total) | Real Sociedad W en casa | Athletic Club W (total) | Athletic Club W fuera |
@@ -101,4 +114,23 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,25 · visitante 1,31._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 38% | 25% | 31% | 3.60 | +13% |
+| 1X2: X | 27% | 26% | 26% | 3.50 | -9% |
+| 1X2: 1 | 35% | 50% | 42% | 1.80 | -24% |
+| Ambos marcan: No | 48% | 46% | 47% | 2.00 | -6% |
+| Ambos marcan: Sí | 52% | 54% | 53% | 1.73 | -9% |
+| Goles más/menos: Más de 1.5 | 72% | 75% | 74% | 1.25 | -8% |
+| Goles más/menos: Más de 2.5 | 47% | 53% | 50% | 1.80 | -10% |
+| Goles más/menos: Más de 3.5 | 25% | 31% | 28% | 3.00 | -15% |
+| Goles más/menos: Menos de 1.5 | 28% | 25% | 26% | 3.75 | -1% |
+| Goles más/menos: Menos de 2.5 | 53% | 47% | 50% | 2.00 | +0% |
+| Goles más/menos: Menos de 3.5 | 75% | 69% | 72% | 1.36 | -2% |
+| 1X2 descanso: 2 | 29% | 22% | 26% | 4.00 | +3% |
+| 1X2 descanso: X | 44% | 40% | 42% | 2.25 | -6% |
+| 1X2 descanso: 1 | 27% | 38% | 32% | 2.38 | -23% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

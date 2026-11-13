@@ -4525,50 +4525,49 @@
   {
     "id": "2026-11-13-combi-multi",
     "fecha": "2026-11-13T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x23,73! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇦🇩 Andorra gana alguna de las dos partes\n🇨🇭 Suiza gana alguna de las dos partes\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇬🇷 Grecia marca\n🇮🇸 Islandia gana alguna de las dos partes\n🇸🇰 Eslovaquia marca 2 o más\n🇦🇿 Azerbaiyán marca 2 o más\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x25,89! 🍀\n🎢 Cuota grande, stake pequeño 🤏\n\n🇲🇩 Moldavia marca\n🇨🇭 Suiza gana alguna de las dos partes\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇬🇷 Grecia marca\n🇮🇸 Islandia gana alguna de las dos partes\n🇸🇰 Eslovaquia marca 2 o más\n🇦🇿 Azerbaiyán marca 2 o más\n🇦🇩 Gana el Andorra\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1528968|Total - Home|Over 0.5",
-      "1545615|To Win Either Half|Home",
       "1545654|To Win Either Half|Away",
       "1545614|Goals Over/Under|Over 1.5",
       "1528966|Total - Away|Over 0.5",
       "1528969|To Win Either Half|Away",
       "1528967|Total - Home|Over 1.5",
-      "1528970|Total - Away|Over 1.5"
+      "1528970|Total - Away|Over 1.5",
+      "1545615|Match Winner|Home"
     ],
     "cuotas": [
+      1.4,
+      1.44,
       1.44,
       1.5,
-      1.44,
-      1.44,
       1.5,
-      1.5,
-      1.5,
-      1.57
+      1.53,
+      1.57,
+      1.65
     ],
-    "solo_redes": true,
-    "cuotas_revisadas": "2026-11-13T13:03"
+    "solo_redes": true
   },
   {
     "id": "2026-11-13-combi-loca",
     "fecha": "2026-11-13T16:00",
-    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇸🇰 Eslovaquia marca 2 o más\n🇳🇱 Gana Países Bajos\n🇪🇪 Estonia o empate\n\n📈 Cuota @6,08\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇬🇷 Grecia marca\n🇦🇩 Gana el Andorra\n🇪🇪 Estonia o empate\n\n📈 Cuota @6,26\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1545614|Goals Over/Under|Over 1.5",
-      "1528967|Total - Home|Over 1.5",
-      "1528966|Match Winner|Home",
+      "1528966|Total - Away|Over 0.5",
+      "1545615|Match Winner|Home",
       "1545614|Double Chance|Draw/Away"
     ],
     "cuotas": [
       1.44,
-      1.53,
-      1.57,
+      1.5,
+      1.65,
       1.67
     ],
     "solo_redes": true
@@ -4576,12 +4575,12 @@
   {
     "id": "2026-11-13-pick-seguro-2",
     "fecha": "2026-11-13T18:00",
-    "texto": "Vamos con otro pick 🍀\n🧠 Esta va con cabeza: analizada\n\n⚽ Países Bajos – Grecia · 20:45\n\n🍀 Grecia marca @1,50\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n🧠 Esta va con cabeza: analizada\n\n⚽ Andorra – Gibraltar · 20:45\n\n🍀 Andorra gana alguna de las dos partes @1,50\n🧠 Stake 3/10\n\n👨‍💻 La cuota de que gane el Andorra ha bajado de 1,85 a 1,65: el mercado lo ve más claro\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528966|Total - Away|Over 0.5"
+      "1545615|To Win Either Half|Home"
     ],
     "cuotas": [
       1.5

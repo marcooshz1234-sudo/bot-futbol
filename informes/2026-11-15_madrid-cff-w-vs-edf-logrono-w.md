@@ -1,10 +1,20 @@
 # Madrid CFF W – Edf Logrono W
 **Liga F** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Estadio Fernando Torres
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 14:14_
+
+- **1X2:** 1 **2.10**  ·  X **3.30**  ·  2 **2.90**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **Goles más/menos:**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **11.00**  ·  Away/No **5.50**
 
 ## Estadísticas de equipo
 | | Madrid CFF W (total) | Madrid CFF W en casa | Edf Logrono W (total) | Edf Logrono W fuera |
@@ -100,4 +110,20 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,60 · visitante 1,41._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 34% | 31% | 32% | 2.90 | -7% |
+| 1X2: X | 24% | 27% | 26% | 3.30 | -16% |
+| 1X2: 1 | 42% | 42% | 42% | 2.10 | -11% |
+| Ambos marcan: No | 40% | 46% | 43% | 2.00 | -14% |
+| Ambos marcan: Sí | 60% | 54% | 57% | 1.73 | -1% |
+| Goles más/menos: Más de 1.5 | 80% | 75% | 78% | 1.25 | -3% |
+| Goles más/menos: Más de 2.5 | 58% | 51% | 55% | 1.85 | +1% |
+| Goles más/menos: Más de 3.5 | 35% | 29% | 32% | 3.25 | +5% |
+| Goles más/menos: Menos de 1.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles más/menos: Menos de 2.5 | 42% | 49% | 45% | 1.95 | -11% |
+| Goles más/menos: Menos de 3.5 | 65% | 71% | 68% | 1.33 | -10% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

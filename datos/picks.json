@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13 08:31",
+ "generado": "2026-11-13 14:17",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -10,25 +10,23 @@
   "2026-11-15": {
    "picks": [
     {
-     "partido_id": 1528984,
-     "fecha": "2026-11-15T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Spain",
-     "visitante": "England",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Spain 4/5 · England 4/5",
-     "valor_mercado": -0.037,
-     "prob_aprendida": 0.633
-    }
-   ],
-   "mejores_por_partido": [
+     "partido_id": 1573643,
+     "fecha": "2026-11-15T12:00",
+     "competicion": "Liga F",
+     "liga_id": 142,
+     "local": "Madrid CFF W",
+     "visitante": "Edf Logrono W",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Madrid CFF W",
+     "cuota": 2.1,
+     "frecuencia": 0.6,
+     "ventaja": 0.124,
+     "detalle": "Madrid CFF W 6/10 · Edf Logrono W 6/10",
+     "valor_mercado": -0.019,
+     "prob_aprendida": 0.654
+    },
     {
      "partido_id": 1528984,
      "fecha": "2026-11-15T20:45",
@@ -45,6 +43,48 @@
      "ventaja": 0.244,
      "detalle": "Spain 4/5 · England 4/5",
      "valor_mercado": -0.037,
+     "arbitro": "Clement Turpin",
+     "arbitro_tarjetas": 3.8,
+     "prob_aprendida": 0.633
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1573643,
+     "fecha": "2026-11-15T12:00",
+     "competicion": "Liga F",
+     "liga_id": 142,
+     "local": "Madrid CFF W",
+     "visitante": "Edf Logrono W",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Madrid CFF W",
+     "cuota": 2.1,
+     "frecuencia": 0.6,
+     "ventaja": 0.124,
+     "detalle": "Madrid CFF W 6/10 · Edf Logrono W 6/10",
+     "valor_mercado": -0.019,
+     "prob_aprendida": 0.654
+    },
+    {
+     "partido_id": 1528984,
+     "fecha": "2026-11-15T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Spain",
+     "visitante": "England",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Spain 4/5 · England 4/5",
+     "valor_mercado": -0.037,
+     "arbitro": "Clement Turpin",
+     "arbitro_tarjetas": 3.8,
      "prob_aprendida": 0.633
     }
    ],
@@ -54,7 +94,79 @@
     "loca": null,
     "doble": null
    },
-   "estilos": {},
+   "estilos": {
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1573643,
+       "fecha": "2026-11-15T12:00",
+       "competicion": "Liga F",
+       "liga_id": 142,
+       "local": "Madrid CFF W",
+       "visitante": "Edf Logrono W",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Madrid CFF W",
+       "cuota": 2.1,
+       "frecuencia": 0.6,
+       "ventaja": 0.124,
+       "detalle": "Madrid CFF W 6/10 · Edf Logrono W 6/10",
+       "valor_mercado": -0.019,
+       "prob_aprendida": 0.654
+      },
+      {
+       "partido_id": 1570018,
+       "fecha": "2026-11-15T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Granada CF",
+       "visitante": "Las Palmas",
+       "mercado": "Total - Home",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Granada CF marca 2 o más",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Granada CF 7/10 · Las Palmas (en contra) 6/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.04,
+       "cuota_inicial": 1.73,
+       "prob_xg": 0.406,
+       "xg_esperado": 2.49,
+       "posiciones": [
+        5,
+        10,
+        22
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.63
+      },
+      {
+       "partido_id": 1528984,
+       "fecha": "2026-11-15T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Spain",
+       "visitante": "England",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+       "cuota": 1.8,
+       "frecuencia": 0.8,
+       "ventaja": 0.244,
+       "detalle": "Spain 4/5 · England 4/5",
+       "valor_mercado": -0.037,
+       "arbitro": "Clement Turpin",
+       "arbitro_tarjetas": 3.8,
+       "prob_aprendida": 0.633
+      }
+     ],
+     "cuota": 6.8
+    }
+   },
    "combis_partido": []
   },
   "2026-11-20": {
