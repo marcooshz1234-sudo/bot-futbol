@@ -4555,7 +4555,7 @@
   {
     "id": "2026-11-13-combi-loca",
     "fecha": "2026-11-13T16:00",
-    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇬🇷 Grecia marca\n🇦🇩 Gana el Andorra\n🇪🇪 Estonia o empate\n\n📈 Cuota @6,26\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Y para los valientes, la loca del viernes 🤪🔥\n\n🇱🇺 Más de 1,5 goles en Luxemburgo–Estonia\n🇬🇷 Grecia marca\n🇦🇩 Gana el Andorra\n🇪🇪 Estonia o empate\n\n📈 Cuota @5,65\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4567,11 +4567,12 @@
     ],
     "cuotas": [
       1.44,
-      1.5,
+      1.44,
       1.65,
-      1.67
+      1.57
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-13T14:33"
   },
   {
     "id": "2026-11-13-pick-seguro-2",
