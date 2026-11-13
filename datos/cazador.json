@@ -35,18 +35,7 @@
    "justa": 1.55,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Liechtenstein",
-   "visitante": "Azerbaijan",
-   "inicio": "2026-11-13T20:45",
-   "texto": "Azerbaijan marca 2 o más",
-   "cuota": 1.57,
-   "justa": 1.56,
-   "ev": 0.005,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Luxembourg",
@@ -57,7 +46,7 @@
    "justa": 1.54,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Bulgaria",
@@ -68,7 +57,7 @@
    "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Netherlands",
@@ -79,11 +68,11 @@
    "justa": 1.6,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T18:03",
+  "hora": "2026-11-13T18:24",
   "revisadas": 0,
   "mejor": null
  },
