@@ -293,7 +293,7 @@ function vAjustes(){
   const pausa = cambio("pausa") ? cambio("pausa").v : D.pausa;
   let h = `<div class="card row"><div class="sp"><b>${pausa?"⏸️ Bot en pausa":"▶️ Bot publicando"}</b><div class="mut">Para todo de golpe (Telegram y redes)</div></div>
     <button class="switch ${pausa?"":"on"}" onclick="poner({a:'pausa',k:'pausa',v:${!pausa},quitar:${!pausa}===D.pausa})"></button></div>`;
-  const grupos = [["Contenido",["gifs","noche","enlace_threads"]],["Combis con escudos",["cuota_min","cuota_max","patas"]],["Horarios",["hora_escalera","hora_x3","hora_loca","hora_picks"]]];
+  const grupos = [["Contenido",["noche","enlace_threads"]],["Combis con escudos",["cuota_min","cuota_max","patas"]],["Horarios",["hora_escalera","hora_x3","hora_loca","hora_picks"]]];
   grupos.forEach(([g, ks]) => { h += `<h2>${g}</h2>` + ks.map(k => {
     const a = D.ajustes[k], v = valor(k), pend = cambio("ajuste", k);
     const ctrl = a.tipo==="si_no" ? `<button class="switch ${v?"on":""}" onclick="aj('${k}',${!v})"></button>`

@@ -11,7 +11,6 @@ Comandos:
   /combis     combis de hoy y escalera
   /pausa      para todas las publicaciones automáticas · /reanudar
   /borrar     últimos posts → los borras de Telegram, Threads, Instagram y Facebook a la vez
-  /gifs       eliges los GIF del canal: te llegan de 10 en 10 con 👍 / 👎 (solo salen los 👍)
   /ayuda
 Además:
   - 60 min antes de cada post automático te llega el borrador con
@@ -227,7 +226,6 @@ class Asistente:
             {"command": "manana", "description": "Picks de mañana"},
             {"command": "combis", "description": "Combis de hoy y escalera"},
             {"command": "editar", "description": "Cambiar un post ya publicado"},
-            {"command": "gifs", "description": "Elegir los GIF del canal (👍/👎)"},
             {"command": "pausa", "description": "Parar las publicaciones automáticas"},
             {"command": "reanudar", "description": "Volver a publicar"},
             {"command": "ayuda", "description": "Qué puedo hacer"}]})
@@ -438,8 +436,6 @@ class Asistente:
                 return None
         if orden in ("/start", "/ayuda"):
             return self.enviar(__doc__.split("Comandos:")[1].split("Lo que decides")[0].strip())
-        if orden == "/gifs":   # 28/10: Marcos elige los GIF que pueden salir en el canal
-            return self.menu_gifs()
         if orden == "/hoy":
             c = self.control()
             lineas = []
@@ -499,99 +495,12 @@ class Asistente:
         return self.enviar("No conozco ese comando. Escribe /ayuda.")
 
     # ---------------------------------------------------------------- botones
-    # ---------------------------------------------------------------- GIF (28/10)
-    def menu_gifs(self):
-        import gifs
-        votos = leer(gifs.VOTOS, {}) or {}
-        filas, fila = [], []
-        for k, (nombre, _, _) in gifs.MOMENTOS.items():
-            n = len((votos.get("si") or {}).get(k) or [])
-            fila.append((f"{nombre} · {n}", f"gifcat|{k}"))
-            if len(fila) == 2:
-                filas.append(fila)
-                fila = []
-        if fila:
-            filas.append(fila)
-        estado = "encendidos" if gifs.ACTIVO else "apagados (no sale ninguno hasta que digas)"
-        return self.enviar("🎞️ GIF del canal · " + estado + "\n\nElige un momento y te mando 10 para votar 👍/👎. "
-                           "Solo salen los 👍. El número es cuántos llevas aprobados (lo ideal: 20–30 de cada).", filas)
-
-    def candidatos_gifs(self, momento):
-        import gifs
-        clave = os.environ.get("GIPHY_API_KEY")
-        if not clave:
-            return self.enviar("⚠️ Falta la clave de GIPHY en el bot del móvil.")
-        try:
-            lista = gifs.candidatos(clave, momento, 10)
-        except Exception as e:
-            return self.enviar(f"⚠️ GIPHY no responde: {str(e)[:150]}")
-        if not lista:
-            return self.enviar("No encuentro más GIF nuevos de este momento 🤷")
-        nombre = gifs.MOMENTOS[momento][0]
-        for gid, url in lista:
-            try:
-                api(self.t, "sendAnimation", {"chat_id": self.duenio, "animation": url, "caption": nombre,
-                                              "reply_markup": {"inline_keyboard": [[
-                                                  {"text": "👍 Me gusta", "callback_data": f"gifv|s|{momento}|{gid}"},
-                                                  {"text": "👎 No", "callback_data": f"gifv|n|{momento}|{gid}"}]]}})
-            except Exception as e:
-                print("gif candidato:", str(e)[:120])
-        return self.enviar(f"¿Más de {nombre}?", [[("➕ 10 más", f"gifcat|{momento}"), ("🎞️ Otro momento", "gifmenu")]])
-
-    def votar_gif(self, q, si, momento, gid):
-        import gifs
-        msg = q.get("message") or {}
-        file_id = (msg.get("animation") or msg.get("document") or {}).get("file_id")
-        votos = gifs.votar(leer(gifs.VOTOS, {}) or {}, momento, gid, si, file_id)
-        escribir(gifs.VOTOS, votos)
-        n = len(votos["si"].get(momento) or [])
-        try:
-            api(self.t, "editMessageReplyMarkup", {"chat_id": self.duenio, "message_id": msg.get("message_id"),
-                                                   "reply_markup": {"inline_keyboard": [[{"text": f"✅ Guardado ({n})" if si else "🗑️ Descartado",
-                                                                                          "callback_data": f"gifv|{'n' if si else 's'}|{momento}|{gid}"}]]}})
-        except Exception as e:
-            print("gif voto:", str(e)[:120])
-        self.gifs_pendiente = True
-        self.subir_votos()
-
-    def subir_votos(self, forzar=False):
-        """Sube los votos de GIF al repositorio, como mucho cada 30 s (para que votar sea rápido)."""
-        import gifs
-        if not getattr(self, "gifs_pendiente", False):
-            return
-        if not forzar and time.time() - getattr(self, "gifs_subido", 0) < 30:
-            return
-        self.gifs_subido = time.time()
-        if guardar_archivos([gifs.VOTOS], "votos de GIF"):
-            self.gifs_pendiente = False
-        else:
-            self.enviar("⚠️ No he podido guardar los votos de GIF en el repositorio (lo reintento solo).")
-
     def boton(self, q):
         accion, *resto = q["data"].split("|")
         try:
             api(self.t, "answerCallbackQuery", {"callback_query_id": q["id"]})
         except Exception as e:   # 28/10: botón pulsado hace rato («query is too old»): se hace igual
             print("answerCallbackQuery:", str(e)[:120])
-        if accion == "gifmenu":
-            return self.menu_gifs()
-        if accion == "gifcat":
-            return self.candidatos_gifs(resto[0])
-        if accion == "gifv":
-            return self.votar_gif(q, resto[0] == "s", resto[1], resto[2])
-        if accion == "gifquitar":   # 28/10: un GIF publicado que no le gusta: fuera del canal y vetado
-            import gifs
-            gid, mid = resto[0], resto[1]
-            votos = gifs.votar(leer(gifs.VOTOS, {}) or {}, "verde", gid, False)
-            escribir(gifs.VOTOS, votos)
-            self.gifs_pendiente = True
-            self.subir_votos(forzar=True)
-            try:
-                if mid and mid != "None":
-                    api(self.t, "deleteMessage", {"chat_id": self.canal, "message_id": int(mid)})
-                return self.enviar("🗑️ Quitado del canal. No volverá a salir.")
-            except Exception as e:
-                return self.enviar(f"Vetado, pero no he podido borrarlo del canal: {str(e)[:120]}")
         c = self.control()
         # 27/10: si el bot se ha reiniciado entre tu foto y tu botón, la foto se recupera del mensaje al que
         # va pegado el botón (antes se perdía y el botón no hacía nada, sin avisar)
@@ -1012,10 +921,6 @@ class Asistente:
         offset, ultimo_pull = None, 0
         registrar("arranca el bot del móvil")
         while datetime.now(MADRID) < fin:
-            try:
-                self.subir_votos()   # 28/10: votos de GIF pendientes de subir
-            except Exception as e:
-                print("votos gif:", e)
             if time.time() - ultimo_pull > 120:
                 actualizar()
                 ultimo_pull = time.time()

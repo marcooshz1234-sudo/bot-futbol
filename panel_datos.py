@@ -28,7 +28,6 @@ REDES_POST = ("telegram", "threads", "instagram")
 
 # valores por defecto de los interruptores (lo que hace el bot si Marcos no ha tocado nada)
 AJUSTES = {
-    "gifs": {"t": "GIFs de relleno", "d": "2-3 al día en Telegram", "tipo": "si_no", "v": True},
     "noche": {"t": "Combis de madrugada", "d": "00:30 y 01:30, partidos grandes", "tipo": "si_no", "v": True},
     "enlace_threads": {"t": "Enlace a Telegram en Threads", "d": "Primer comentario de cada combi", "tipo": "si_no", "v": True},
     "cuota_min": {"t": "Cuota mínima combi de partido", "tipo": "num", "v": 5.0, "paso": 0.5, "min": 2, "max": 30},

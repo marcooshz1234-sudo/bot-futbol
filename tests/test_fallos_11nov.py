@@ -162,8 +162,7 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertEqual(llamadas, [])
 
     def test_sin_gifs_ni_editar_publicados(self):
-        import gifs
-        self.assertFalse(gifs.ACTIVO)   # Marcos 11/11
+        self.assertFalse((RAIZ / "gifs.py").exists())   # Marcos 11/11: GIF fuera (13/11: quitados del todo)
         src = (RAIZ / "alineaciones_posts.py").read_text(encoding="utf-8")
         self.assertIn("r = cambiar_patas(p, cambios) if cambios and not enviado else None", src)
 
