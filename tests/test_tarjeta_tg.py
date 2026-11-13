@@ -40,8 +40,13 @@ class TarjetaTG(unittest.TestCase):
         self.assertEqual((f["nombre"], f["pick"], f["pais"]), ("Andorra", "GANA UNA PARTE", "Andorra"))
 
     def test_crear_apuesta_con_partido(self):
-        f = T.fila("Serbia más de 6,5 remates y más de 1,5 goles (Crear apuesta)", "Serbia – Alemania")
-        self.assertEqual((f["nombre"], f["pick"]), ("Serbia – Alemania", "CREAR APUESTA"))
+        # 13/11 (Marcos: «pon en la foto lo que es el pick, no solo en el texto»): una fila por condición
+        fs = T.filas(["Serbia más de 6,5 remates y más de 1,5 goles en el partido (Crear apuesta)"], "Serbia – Alemania")
+        self.assertEqual([(f["nombre"], f["pick"]) for f in fs], [("Serbia", "+6,5 REMATES"), ("Partido", "+1,5 GOLES")])
+        fs = T.filas(["Países Bajos gana alguna de las dos partes, más de 1,5 goles y Grecia no marca 3 (Crear apuesta)"])
+        self.assertEqual([f["pick"] for f in fs], ["GANA UNA PARTE", "+1,5 GOLES", "NO MARCA 3"])
+        self.assertEqual(T.titulo({"id": "x-pick-tip-6"}, "🍀 Serbia más de 6,5 remates (Crear apuesta) @1,53"),
+                         "CREAR APUESTA · @1,53")
 
     def test_no_siempre_foto(self):   # «me gusta más con foto, pero que el canal no esté solo con fotos»
         con = lambda i: {"enviado": f"2026-11-13T1{i}:00", "mensaje_id": i + 1, "foto_tg": "x.jpg"}
