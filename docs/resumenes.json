@@ -1802,8 +1802,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 13,
-      "sin_datos": 0,
+      "pendiente": 12,
+      "sin_datos": 1,
       "no_jugo": 0,
       "sin_resolver": 13
     },
@@ -1853,7 +1853,7 @@
       {
         "id": "2026-11-13-combi-multi",
         "titulo": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1888,10 +1888,10 @@
       }
     ],
     "picks": {
-      "verde": 1,
+      "verde": 0,
       "rojo": 0,
       "total": 29
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · pendiente\n⏳ Y para los valientes, la loca del viernes 🤪🔥 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n⏳ Combinada de selecciones para esta noche 🔥 · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 13 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n❔ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · faltan datos\n⏳ Y para los valientes, la loca del viernes 🤪🔥 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n⏳ Combinada de selecciones para esta noche 🔥 · pendiente\n⏳ Vamos con una combinada cortita 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 13 sin resolver"
   }
 }
