@@ -39,6 +39,10 @@ class TarjetaTG(unittest.TestCase):
         f = T.fila("Andorra gana alguna de las dos partes")
         self.assertEqual((f["nombre"], f["pick"], f["pais"]), ("Andorra", "GANA UNA PARTE", "Andorra"))
 
+    def test_crear_apuesta_con_partido(self):
+        f = T.fila("Serbia más de 6,5 remates y más de 1,5 goles (Crear apuesta)", "Serbia – Alemania")
+        self.assertEqual((f["nombre"], f["pick"]), ("Serbia – Alemania", "CREAR APUESTA"))
+
     def test_sin_argumento_fuera(self):   # el «Sin argumento: solo el pick» de las copias
         import copiar_tipsters as C
         src = open(C.__file__, encoding="utf-8").read()

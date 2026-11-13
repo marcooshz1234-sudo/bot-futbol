@@ -36,7 +36,7 @@ def _pais(nombre):
     return None
 
 
-def fila(pata):
+def fila(pata, partido=None):
     """('Gana Suiza (Eslovenia – Suiza)', cuota) → {'nombre': 'Suiza', 'pick': 'GANA', …}."""
     t = re.sub(r"\s*\([^)]*\)\s*", " ", pata).strip()
     reglas = ((r"^(.+?) gana alguna (?:de las dos )?partes?$", lambda m: "GANA UNA PARTE"),
@@ -48,6 +48,9 @@ def fila(pata):
               (r"^(.+?) no pierde$", lambda m: "NO PIERDE"))
     if re.search(r"crear apuesta", pata, re.I):   # varias condiciones juntas: el detalle va en el texto
         c = CUOTA.search(pata)
+        if partido and len(partido) <= 26:
+            return {"nombre": partido, "pick": "CREAR APUESTA", "pais": None, "bandera": "⚽", "seleccion": False,
+                    "escudo": ""}
         return {"nombre": "CREAR APUESTA", "pick": f"@{c.group(1)}" if c else "BET365", "pais": None, "bandera": "⚽",
                 "seleccion": False, "escudo": ""}
     for patron, pick, n in ((r"^Más de (\d+[,.]5) goles en (.+)$", lambda m: f"+{m.group(1)} GOLES", 2),
@@ -115,7 +118,8 @@ def hacer(p, texto):
         try:
             import ganadores_img as G
             MEDIA.mkdir(parents=True, exist_ok=True)
-            G.generar([fila(x) for x in ps], titulo(p, texto), out, "estadio", lema=lema(texto))
+            m = re.search(r"⚽\s*(.+?)\s*·", texto)
+            G.generar([fila(x, m.group(1) if m else None) for x in ps], titulo(p, texto), out, "estadio", lema=lema(texto))
         except Exception as e:
             print(f"Tarjeta de Telegram de {p['id']}: {e}")
             return None

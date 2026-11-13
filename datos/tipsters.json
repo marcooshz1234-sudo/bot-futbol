@@ -1999,5 +1999,30 @@
   "por_que": [
    "Amistoso que no tenemos en nuestros datos: no hay córners medios para comprobarlo. Línea 8 asiática (si salen 8 justos, se devuelve). Verde/rojo a mano."
   ]
+ },
+ {
+  "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
+  "fuente": "-1002181392017/15427",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Serbia",
+  "visitante": "Germany",
+  "texto": "Serbia más de 6,5 remates y más de 1,5 goles en el partido (Crear apuesta)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": 1.53,
+  "stake": 5,
+  "argumento": [
+   "Stake 5 del canal: Serbia en casa rematará y Alemania lleva gol"
+  ],
+  "por_que": [
+   "Crear apuesta de 2 patas que van juntas (si Serbia remata mucho, hay más goles). Alemania marca 2+ a 1,28: los 2 goles del partido son muy probables. El verde, a mano. Apuntado por Claude."
+  ],
+  "partido_id": 1528965,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.12,
+   "prob_cuota": 0.654
+  }
  }
 ]
