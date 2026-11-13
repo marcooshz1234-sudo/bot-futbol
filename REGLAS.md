@@ -62,6 +62,7 @@
 
 ## 4. Copias de canales de Telegram
 - ⚙️ Se copian TODOS los canales de fútbol que seguimos (no NBA ni tenis), sin su nombre ni su boleto (12/11).
+- 👤 **Baloncesto y tenis (13/11):** se leen y se guardan (datos/tipsters_raw.json), pero NUNCA se suben al canal ni a redes. Solo se le dan a Marcos cuando los pida («solo cuando te los pida me los das, nada de subirlos al canal»).
 - ⚙️ Con la cuota de bet365 de ahora, no la suya. Sin cuota, no se sube.
 - ⚙️ Si son picks bajos (< 1,35) o pocos, se juntan en una combi (hasta 4, de partidos distintos, ≥ 1,35); si no, tal cual.
 - 🤖 **Nunca nombres de otras casas ni notas internas** en lo publicado («MyMatch», «pata de su…») (13/11).
