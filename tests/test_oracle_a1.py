@@ -12,6 +12,15 @@ class OracleA1(unittest.TestCase):
             self.assertIsNone(O.config())
             self.assertEqual(O.main(), 0)
 
+    def test_clave_pegada_en_una_linea(self):   # 13/11: «Unable to load PEM file… MalformedFraming»
+        from cryptography.hazmat.primitives import serialization
+        from cryptography.hazmat.primitives.asymmetric import rsa
+        k = rsa.generate_private_key(public_exponent=65537, key_size=2048)
+        pem = k.private_bytes(serialization.Encoding.PEM, serialization.PrivateFormat.PKCS8,
+                              serialization.NoEncryption()).decode()
+        roto = pem.replace("\n", " ") + " OCI_API_KEY"
+        self.assertEqual(O.huella(O.limpiar_pem(roto)), O.huella(pem))
+
     def test_sin_hueco(self):
         e = type("E", (Exception,), {})("Out of host capacity.")
         e.code, e.message, e.status = "InternalError", "Out of host capacity.", 500

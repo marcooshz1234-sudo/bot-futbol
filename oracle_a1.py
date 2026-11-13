@@ -23,6 +23,19 @@ OCPU, MEMORIA, DISCO = 4, 24, 100   # el máximo gratis (Always Free: 4 OCPU, 24
 SIN_HUECO = ("out of host capacity", "outofcapacity", "out of capacity")
 
 
+def limpiar_pem(t):
+    """La clave tal como se pegue en GitHub (en una línea, con espacios, con «OCI_API_KEY» al final, con comillas
+    raras de TextEdit…) → PEM bien formado."""
+    import re
+    import textwrap
+    t = (t or "").replace("\\n", "\n")
+    m = re.search(r"-----BEGIN ([A-Z ]+)-----(.*?)-----END \1-----", t, re.S)
+    if not m:
+        return t
+    cuerpo = re.sub(r"[^A-Za-z0-9+/=]", "", m.group(2))
+    return f"-----BEGIN {m.group(1)}-----\n" + "\n".join(textwrap.wrap(cuerpo, 64)) + f"\n-----END {m.group(1)}-----\n"
+
+
 def huella(pem):
     """El «fingerprint» de la clave de la API sale de la propia clave (MD5 de la pública): no hace falta pedirlo."""
     import hashlib
@@ -36,7 +49,7 @@ def huella(pem):
 def config():
     """Config de OCI, o None si falta la clave (no se hace nada). La clave privada (OCI_KEY) es lo único secreto:
     el usuario y la tenencia son identificadores (van en el workflow) y la huella se calcula de la clave."""
-    key = os.environ.get("OCI_KEY")
+    key = limpiar_pem(os.environ.get("OCI_KEY")) if os.environ.get("OCI_KEY") else None
     c = {"user": os.environ.get("OCI_USER"), "tenancy": os.environ.get("OCI_TENANCY"),
          "region": os.environ.get("OCI_REGION") or "eu-madrid-1", "key_content": key,
          "fingerprint": os.environ.get("OCI_FINGERPRINT") or (huella(key) if key else None)}
