@@ -556,8 +556,9 @@ def main(objetivo=None):
         if motivo_:   # 12/11: TODAS las reglas (comprobar_post.py): si falla una grave, no sale
             print(f"No sale {p['id']}: {motivo_}")
             continue
-        if p.get("ganadores_img") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
-            continue   # 07/11: el GANADORES WIN nunca sin su foto (se espera a que imagenes.py la haga)
+        import ganadores_win
+        if p.get("ganadores_img") and not (p.get("redes") or {}).get("threads") and not ganadores_win.tarjeta_al_dia(p):
+            continue   # 07/11: el GANADORES WIN nunca sin su foto (13/11: ni con una vieja; se espera a imagenes.py)
         if p.get("tarjeta") and (p.get("solo_en") or []) != ["threads"] \
                 and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             continue   # 28/10: combi de partido SIEMPRE con su foto (12/11: la de solo Threads ya va sin foto, no espera)

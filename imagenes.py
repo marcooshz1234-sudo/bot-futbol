@@ -362,9 +362,10 @@ def main():
     cola = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
     # 05/11: «GANADORES» (solo Threads): su tarjeta con la plantilla oro, si aún no está
     for p in cola:
-        if p.get("ganadores_img") and not p.get("enviado") and not (MEDIA / f"{p['id']}.tarjeta.jpg").exists():
+        import ganadores_win
+        if p.get("ganadores_img") and not p.get("enviado") and not (p.get("redes") or {}).get("threads") \
+                and not ganadores_win.tarjeta_al_dia(p):   # 13/11: también si cambian los equipos o la plantilla
             try:
-                import ganadores_win
                 print("Ganadores:", ganadores_win.hacer_imagen(p))
             except Exception as e:
                 print("ganadores (imagen):", str(e)[:150])

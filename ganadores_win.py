@@ -191,10 +191,31 @@ def datos_imagen(p):
     return filas, liga
 
 
+VERSION_TARJETA = "2026-11-12-sin-circulo"   # 13/11: cambiar esto rehace las tarjetas que aún no han salido
+
+
+def huella_tarjeta(p):
+    """13/11 (Marcos: «esto sigue sin salir como quiero, el logo con el círculo blanco»): la tarjeta de Threads del
+    13/11 se hizo el 12/11 por la mañana (plantilla vieja, con 6 equipos) y no se rehacía aunque cambiasen los equipos
+    o la plantilla, porque solo se miraba si el archivo existía."""
+    import hashlib
+    import json
+    return hashlib.sha1((VERSION_TARJETA + json.dumps(p.get("ganadores_img"), sort_keys=True, ensure_ascii=False))
+                        .encode()).hexdigest()[:16]
+
+
+def tarjeta_al_dia(p):
+    from imagenes import MEDIA
+    h = MEDIA / f"{p['id']}.tarjeta.firma"
+    return (MEDIA / f"{p['id']}.tarjeta.jpg").exists() and h.exists() and h.read_text().strip() == huella_tarjeta(p)
+
+
 def hacer_imagen(p):
     """Tarjeta de Threads (publicaciones/media/<id>.tarjeta.jpg). 11/11: plantilla «estadio» (logo nuevo)."""
     import ganadores_img as G
     from imagenes import MEDIA
     filas, liga = datos_imagen(p)
-    return G.generar(filas, p["ganadores_img"]["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga,
-                     lema=p["ganadores_img"].get("lema"))
+    r = G.generar(filas, p["ganadores_img"]["titulo"], MEDIA / f"{p['id']}.tarjeta.jpg", "estadio", liga=liga,
+                  lema=p["ganadores_img"].get("lema"))
+    (MEDIA / f"{p['id']}.tarjeta.firma").write_text(huella_tarjeta(p))
+    return r
