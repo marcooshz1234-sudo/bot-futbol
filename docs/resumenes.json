@@ -1798,14 +1798,14 @@
   },
   "2026-11-13": {
     "dia": "2026-11-13",
-    "total": 9,
+    "total": 11,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 9,
+      "pendiente": 11,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 11
     },
     "combis": [
       {
@@ -1861,13 +1861,25 @@
         "titulo": "Y para los valientes, la loca del viernes 🤪🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-13-pick-tip-5",
+        "titulo": "Os dejo otro pick que pinta muy bien 👀",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-13-combi-tip-1",
+        "titulo": "Combinada que nos gusta mucho familia 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 25
+      "total": 28
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · pendiente\n⏳ Y para los valientes, la loca del viernes 🤪🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 🚨 CUOTAZA EN BET365 🚨 · pendiente\n⏳ Os dejo la combi del Serbia – Alemania ⚽🔥 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ Vamos con la combi del viernes familia 🔥 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,78! 🍀 · pendiente\n⏳ Y para los valientes, la loca del viernes 🤪🔥 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Combinada que nos gusta mucho familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
   }
 }
