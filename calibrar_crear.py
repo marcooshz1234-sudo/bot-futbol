@@ -113,7 +113,30 @@ def error_medio(medidas, aj_json):
     return round(100 * e0, 1), round(100 * e1, 1)
 
 
+def nuevas_crear():
+    """13/11: cada cuota de «Crear apuesta» que da Marcos (control.json → cuota_dada) se guarda para la calculadora
+    nueva (crear_apuesta.py), con las cuotas del partido de ese momento. Antes estas no se guardaban en ningún sitio."""
+    import crear_apuesta as CA
+    control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
+    cola = (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or [])
+    por_id = {p["id"]: p for p in cola}
+    for pid, real in (control.get("cuota_dada") or {}).items():
+        p = por_id.get(pid) or {}
+        sel, cuotas = p.get("sel") or [], p.get("cuotas") or []
+        if len(sel) >= 2 and len(sel) == len(cuotas) and len({s.split("|")[0] for s in sel}) == 1:
+            try:
+                m = CA.guardar_medida(pid, sel, cuotas, float(str(real).replace(",", ".")))
+                if m:
+                    print(f"Crear apuesta: {pid} real {m['real']} · el bot calculaba {m['cuota_modelo']}")
+            except Exception as e:
+                print("crear_apuesta:", str(e)[:120])
+
+
 def main():
+    try:
+        nuevas_crear()
+    except Exception as e:
+        print("nuevas_crear:", e)
     medidas = leer(MEDIDAS, []) or []
     nuevos = nuevas(medidas)
     if nuevos:

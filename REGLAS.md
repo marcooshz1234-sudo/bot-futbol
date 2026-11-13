@@ -19,6 +19,8 @@
 - ⚙️ Las combis del bot: patas de 1,25 o más (`combis_dia.CUOTA_MIN_PATA`).
 - 👤 **Nunca combis largas de patas regalo** (@1,05, @1,12…): el objetivo es estar al nivel de Pérez y TipsAnalistas (12/11).
 - 👤 Todas las cuotas, de bet365. Si no se sabe la cuota, la selección no va.
+- 👤 **Calculadora del «Crear apuesta»** (13/11): `python3 crear_apuesta.py <id>`. Nunca estimaciones a ojo. Cada cuota
+  real que da Marcos se guarda sola (datos/crear_medidas.json) y el bot aprende de ella.
 - 🤖 **Combi de un partido: la cuota NO se multiplica.** Se publica con la cuota real del «Crear apuesta» que da Marcos (12/11).
 - ⚙️ Cuotazas (errores de bet365 frente a Pinnacle): mínimo 1,40 (11/11).
 
