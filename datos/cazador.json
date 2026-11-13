@@ -35,18 +35,7 @@
    "justa": 3.0,
    "ev": 0.083,
    "fuente": "las otras casas",
-   "edad_h": 3.1
-  },
-  {
-   "local": "Salamanca UDS",
-   "visitante": "Celta Vigo",
-   "inicio": "2026-11-13T21:00",
-   "texto": "Más de 2,5 goles en la 2ª parte del Salamanca UDS–Celta Vigo",
-   "cuota": 3.25,
-   "justa": 3.2,
-   "ev": 0.014,
-   "fuente": "las otras casas",
-   "edad_h": 3.1
+   "edad_h": 3.5
   },
   {
    "local": "Leganes",
@@ -57,7 +46,18 @@
    "justa": 3.21,
    "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 3.1
+   "edad_h": 3.5
+  },
+  {
+   "local": "Salamanca UDS",
+   "visitante": "Celta Vigo",
+   "inicio": "2026-11-13T21:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Salamanca UDS–Celta Vigo",
+   "cuota": 3.25,
+   "justa": 3.2,
+   "ev": 0.014,
+   "fuente": "las otras casas",
+   "edad_h": 3.5
   },
   {
    "local": "Liechtenstein",
@@ -68,7 +68,7 @@
    "justa": 3.21,
    "ev": 0.013,
    "fuente": "las otras casas",
-   "edad_h": 3.1
+   "edad_h": 3.5
   },
   {
    "local": "Andorra",
@@ -79,7 +79,7 @@
    "justa": 2.5,
    "ev": 0.001,
    "fuente": "las otras casas",
-   "edad_h": 3.1
+   "edad_h": 3.5
   },
   {
    "local": "Moldova",
@@ -90,11 +90,11 @@
    "justa": 3.28,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 3.1
+   "edad_h": 3.5
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T05:22",
+  "hora": "2026-11-13T05:45",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1545615,
@@ -108,7 +108,7 @@
    "justa": 3.0,
    "ev": 0.083,
    "fuente": "las otras casas",
-   "edad_h": 3.1,
+   "edad_h": 3.5,
    "texto": "Ambos marcan en Andorra–Gibraltar"
   }
  },
