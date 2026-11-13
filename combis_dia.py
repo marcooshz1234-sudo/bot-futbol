@@ -226,6 +226,42 @@ def fuera_por_dia_bueno(pa):
         return False
 
 
+SELECCIONES = {5, 32, 33, 34, 10, 1, 4, 6, 9}   # Nations, clasificatorios, amistosos, Mundial, Eurocopa…
+CUOTA_MAS25_FLOJO = 1.90   # si el «más de 2,5 goles» del partido paga más, se esperan pocos goles
+
+
+def es_mas_goles(p):
+    """«Más de X goles» del partido o de un equipo, «X marca 2 o más», «ambos marcan»."""
+    m, o = p.get("mercado", ""), str(p.get("opcion", ""))
+    return (m in ("Goals Over/Under", "Total - Home", "Total - Away") and o.startswith("Over")
+            and o != "Over 0.5") or (m == "Both Teams Score" and o == "Yes")
+
+
+def partido_flojo_de_goles(ex):
+    """13/11 (Marcos: «fallamos bastante»): en partidos de selecciones con pocos goles esperados (el «más de 2,5»
+    paga más de 1,90) no van picks de «más goles»."""
+    pa = ex.get("partido") or {}
+    if (pa.get("league") or {}).get("id") not in SELECCIONES:
+        return False
+    o25 = dict((ex.get("cuotas") or {}).get("Goals Over/Under") or []).get("Over 2.5")
+    try:
+        return float(o25) > CUOTA_MAS25_FLOJO
+    except (TypeError, ValueError):
+        return False
+
+
+def equipo_de(p):
+    """El equipo (o el partido entero) del que depende la pata, para no meterlo en más de 2 posts al día."""
+    try:
+        la = lado(p)
+    except Exception:
+        la = None
+    return f"{p['partido_id']}|{la or 'partido'}"
+
+
+MAX_POSTS_EQUIPO = 2
+
+
 def pool_partido(ex, hist, ap):
     """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos.
     11/11 (Marcos): con Pinnacle de referencia (sharp.py): fuera las patas caras; en las demás, su probabilidad."""
@@ -233,6 +269,8 @@ def pool_partido(ex, hist, ap):
         return []
     from bot import CUOTA_MAXIMA_PATA
     pool = [p for p in _pool_partido(ex, hist, ap) if p.get("cuota", 0) <= CUOTA_MAXIMA_PATA]   # 13/11: máx. 1,80
+    if partido_flojo_de_goles(ex):   # 13/11 (Marcos): Liechtenstein 0-1 y Luxemburgo 0-1 tumbaron 3 posts
+        pool = [p for p in pool if not es_mas_goles(p)]
     try:
         import sharp
         pool = sharp.filtrar(pool)
@@ -1246,15 +1284,32 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     for s_, n_ in ya_publicadas(dia).items():   # lo que ya salió ese día (a mano o del bot) y la cola programada
         usos[s_] += n_
 
+    # 13/11 (Marcos: «hemos fallado bastante»): Suiza iba en 4 posts (gana / gana una parte) y un 0-0 tumbó los 4.
+    # Un mismo equipo (o partido, en los totales) en 2 posts como mucho, sea cual sea el mercado.
+    usos_eq = Counter()
+    for cp_, *_ in list(salida) + list(res.get("estrella") or []):
+        usos_eq.update({equipo_de(p) for p in cp_["picks"]})
+    if esc.get("dia") == dia:
+        usos_eq.update({equipo_de(p) for p in esc.get("picks", []) if p.get("partido_id")})
+    for s_, n_ in ya_publicadas(dia).items():
+        f_, m_, o_ = (s_.split("|") + ["", ""])[:3]
+        if n_ and f_.isdigit():
+            usos_eq[equipo_de({"partido_id": int(f_), "mercado": m_, "opcion": o_})] += 1
+
+    def apuntar(picks_):
+        usos_eq.update({equipo_de(p) for p in picks_})
+
     def sin_choques(ps, loca=False):
         """12/11 (Marcos: «lo de un mismo partido no puede contradecirse, nunca»): fuera lo que choca con lo ya
         elegido de ese partido. En la loca se deja un «o empate» (Marcos: «en una loca sí, de normal no»)."""
-        return [[p for p in pool if not choca(sel(p), list(usos)) or (loca and p["mercado"] == "Double Chance")]
+        return [[p for p in pool if (not choca(sel(p), list(usos)) or (loca and p["mercado"] == "Double Chance"))
+                 and usos_eq[equipo_de(p)] < MAX_POSTS_EQUIPO]
                 for pool in ps]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
     res["seguro"] = pick_seguro(sin_choques(pools), dia)
     if res["seguro"]:
         usos[sel(res["seguro"][0])] += 1
+        apuntar(res["seguro"][:1])
     if dia >= SEGURO_DESDE:
         # 13/11: si el de las 10:30 ya salió, el 2º se aparta de ESE partido (no del que saldría ahora): salía
         # «Andorra gana alguna de las dos partes» a las 10:30 y otra vez a las 18:00
@@ -1266,11 +1321,19 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         res["seguro2"] = pick_seguro(sin_choques(pools), dia, segundo=primero, ya=ya2)
         if res.get("seguro2"):
             usos[sel(res["seguro2"][0])] += 1
+            apuntar(res["seguro2"][:1])
     # 11/11 (Marcos: «máx. 2 veces»): también cuentan el pick del día, el 2º pick y el estrella; la multi lo respeta
-    res["multi"] = combi_multi(sin_choques(pools), dia, dia_europeo, usos=usos)
+    # 13/11 (Marcos: «una combi al día tiene que haber; el resto lo puedes cambiar»): en día bueno, solo la combi
+    # del día («tres»); ni multi ni loca (las combis largas cayeron todas por una pata)
+    bueno = dia_bueno(dia)
+    res["multi"] = None if bueno else combi_multi(sin_choques(pools), dia, dia_europeo, usos=usos)
     if res["multi"]:
         usos.update(sel(p) for p in res["multi"][0])
+        apuntar(res["multi"][0])
     for clave, cfg in (("tres", TRES), ("loca", LOCA)):
+        if bueno and clave == "loca":
+            res["loca"] = None
+            continue
         hora = f0.replace(hour=cfg["hora"][0], minute=cfg["hora"][1])
         mejores = []
         pools_ok = sin_choques(pools, loca=clave == "loca")
@@ -1305,6 +1368,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         res[clave] = (r[1], r[2], hora) if r else None
         if r:
             usos.update(sel(p) for p in r[1])
+            apuntar(r[1])
     if guardar:   # 12/11 (Marcos): todos los picks del bot por partido, con datos, para la app
         try:
             guardar_picks_partidos(dia, pools, hist)
