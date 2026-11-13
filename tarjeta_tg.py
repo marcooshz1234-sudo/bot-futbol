@@ -37,7 +37,7 @@ def _pais(nombre):
     return None
 
 
-def fila(pata, partido=None):
+def fila(pata, partido=None, partido_ok=False):
     """('Gana Suiza (Eslovenia – Suiza)', cuota) → {'nombre': 'Suiza', 'pick': 'GANA', …}."""
     t = re.sub(r"\s*\([^)]*\)\s*", " ", pata).strip()
     reglas = ((r"^(.+?) gana alguna (?:de las dos )?partes?$", lambda m: "GANA UNA PARTE"),
@@ -46,15 +46,15 @@ def fila(pata, partido=None):
               (r"^(.+?) marca (\d+) o más$", lambda m: f"{m.group(2)}+ GOLES"),
               (r"^(.+?) marca$", lambda m: "MARCA"),
               (r"^(.+?) (?:marca o asiste|anotará o asistirá)$", lambda m: "GOL O ASIST."),
-              (r"^(.+?) no pierde$", lambda m: "NO PIERDE"))
-    if re.search(r"crear apuesta", pata, re.I):   # varias condiciones juntas: el detalle va en el texto
-        c = CUOTA.search(pata)
-        if partido and len(partido) <= 26:
-            return {"nombre": partido, "pick": "CREAR APUESTA", "pais": None, "bandera": "⚽", "seleccion": False,
-                    "escudo": ""}
-        return {"nombre": "CREAR APUESTA", "pick": f"@{c.group(1)}" if c else "BET365", "pais": None, "bandera": "⚽",
-                "seleccion": False, "escudo": ""}
-    for patron, pick, n in ((r"^Más de (\d+[,.]5) goles en (.+)$", lambda m: f"+{m.group(1)} GOLES", 2),
+              (r"^(.+?) no pierde$", lambda m: "NO PIERDE"),
+              (r"^(.+?) más de (\d+[,.]5) remates(?: totales)?$", lambda m: f"+{m.group(2)} REMATES"),
+              (r"^(.+?) más de (\d+[,.]5) córners$", lambda m: f"+{m.group(2)} CÓRNERS"),
+              (r"^(.+?) no marca (\d+)$", lambda m: f"NO MARCA {m.group(2)}"),
+              (r"^(.+?) (?:más de (\d+[,.]5) goles|marca 2 o más)$", lambda m: f"+{m.group(2) or '1,5'} GOLES"))
+    if re.search(r"crear apuesta", pata, re.I) and not partido_ok:
+        return None   # se trata en filas(): una fila por condición
+    for patron, pick, n in ((r"^Más de (\d+(?:[,.]5)?) (goles|córners|tarjetas) en (.+)$",
+                             lambda m: f"+{m.group(1)} {m.group(2).upper()}", 3),
                             (r"^Ambos marcan en (.+)$", lambda m: "AMBOS MARCAN", 1)):
         m = re.match(patron, t, re.I)
         if m:
@@ -70,9 +70,37 @@ def fila(pata, partido=None):
             return {"nombre": nombre, "pick": pick(m), "pais": pais, "bandera": semana.BANDERAS.get(pais, "⚽"),
                     "seleccion": bool(pais), "escudo": ""}
     c = CUOTA.search(pata)
-    corto = t if len(t) <= 26 else t[:25].rstrip() + "…"
+    corto = t if len(t) <= 40 else t[:39].rstrip() + "…"   # 13/11 (Marcos): el pick tiene que verse en la foto
     return {"nombre": corto, "pick": f"@{c.group(1)}" if c else "✓", "pais": None, "bandera": "⚽", "seleccion": False,
             "escudo": ""}
+
+
+def condiciones(pata):
+    """«Serbia más de 6,5 remates y más de 1,5 goles en el partido (Crear apuesta)» → cada condición."""
+    t = re.sub(r"\s*\((?:[^)]*Crear apuesta[^)]*)\)\s*", "", pata, flags=re.I).strip()
+    partes = [x.strip(" .") for x in re.split(r",\s+|\s+y\s+(?=[a-záéíóú]*\s*(?:más|menos|gana|no |marca|[A-ZÁÉÍÓÚ]))", t) if x.strip()]
+    sujeto = None
+    out = []
+    for x in partes:
+        m = re.match(r"^([A-ZÁÉÍÓÚ][\wÁÉÍÓÚáéíóúñ]+(?: [A-ZÁÉÍÓÚ][\wáéíóúñ]+)?) ", x)
+        if m and not re.match(r"^(Más|Menos|Ambos|Gana)\b", x):
+            sujeto = m.group(1)
+        elif re.match(r"^más de \d+[,.]5 goles", x, re.I):
+            x = "Partido " + x[0].lower() + x[1:]
+        elif sujeto and re.match(r"^(más|menos|gana|marca|no )", x, re.I):
+            x = f"{sujeto} {x}"
+        out.append(re.sub(r" en el partido$", "", x))
+    return out
+
+
+def filas(ps, partido=None):
+    out = []
+    for x in ps:
+        if re.search(r"crear apuesta", x, re.I):
+            out += [fila(c, partido_ok=True) for c in condiciones(x)]
+        else:
+            out.append(fila(x, partido))
+    return out[:8]
 
 
 def patas(texto):
@@ -90,7 +118,8 @@ def titulo(p, texto):
     pid = p["id"]
     m = re.search(r"Cuota\s*@?\s*(\d+[.,]\d+)", texto) or (CUOTA.search(texto) if len(patas(texto)) == 1 else None)
     cuota = f" · @{m.group(1).replace('.', ',')}" if m else ""
-    nombre = ("CUOTAZA" if "cuotaza" in pid else "COMBI DE LA NOCHE" if "noche" in pid
+    crear = any(re.search(r"crear apuesta", x, re.I) for x in patas(texto))
+    nombre = ("CREAR APUESTA" if crear else "CUOTAZA" if "cuotaza" in pid else "COMBI DE LA NOCHE" if "noche" in pid
               else "COMBINADA" if "combi" in pid else "PICK")
     return nombre + cuota
 
@@ -118,6 +147,31 @@ def racha_fotos(todos):
     return n
 
 
+def liga_de(p, texto):
+    """Id de la competición (para su logo, Marcos 13/11: «acuérdate de poner el logo de la competición»).
+    Por los partidos del post (sel) o por los nombres de los equipos del texto; si hay varias, ninguna."""
+    import json
+    from combis_dia import nombre_es
+    ligas = set()
+    fids = {s.split("|")[0] for s in p.get("sel") or []}
+    nombres = re.findall(r"(?:⚽\s*|\()([^()·\n]+?)\s*[–-]\s*([^()·\n]+?)\s*(?:·|\))", texto)
+    for f in (RAIZ / "datos" / "proximos").glob("*.json"):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8")).get("partido") or {}
+        except Exception:
+            continue
+        if not d.get("league"):
+            continue
+        if f.stem in fids:
+            ligas.add(d["league"]["id"])
+            continue
+        h, a = d["teams"]["home"]["name"], d["teams"]["away"]["name"]
+        for l, v in nombres:
+            if {l.strip().lower(), v.strip().lower()} <= {h.lower(), a.lower(), nombre_es(h).lower(), nombre_es(a).lower()}:
+                ligas.add(d["league"]["id"])
+    return ligas.pop() if len(ligas) == 1 else None
+
+
 def hacer(p, texto, todos=None):
     """Ruta (relativa a RAIZ) de la tarjeta de Telegram, o None si no toca o no se puede (sin Chromium: sale en texto).
     Tras MAX_SEGUIDAS posts con foto seguidos, el siguiente sale en texto (mezcla de fotos y texto)."""
@@ -132,7 +186,13 @@ def hacer(p, texto, todos=None):
             import ganadores_img as G
             MEDIA.mkdir(parents=True, exist_ok=True)
             m = re.search(r"⚽\s*(.+?)\s*·", texto)
-            G.generar([fila(x, m.group(1) if m else None) for x in ps], titulo(p, texto), out, "estadio", lema=lema(texto))
+            crear = any(re.search(r"crear apuesta", x, re.I) for x in ps)
+            lem = lema(texto)
+            if crear and m:   # el partido abajo, con la hora
+                lem = f"{m.group(1).upper()} · {lem}" if lem else m.group(1).upper()
+            lid = liga_de(p, texto)
+            G.generar(filas(ps, m.group(1) if m else None), titulo(p, texto), out, "estadio", lema=lem,
+                      liga=G.logo_liga(lid) if lid else None)
         except Exception as e:
             print(f"Tarjeta de Telegram de {p['id']}: {e}")
             return None
