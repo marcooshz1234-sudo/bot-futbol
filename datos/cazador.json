@@ -35,7 +35,7 @@
    "justa": 1.56,
    "ev": 0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Bulgaria",
@@ -46,7 +46,7 @@
    "justa": 2.02,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Albinoleffe",
@@ -57,7 +57,7 @@
    "justa": 2.13,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 7.1
+   "edad_h": 7.5
   },
   {
    "local": "Netherlands",
@@ -68,11 +68,11 @@
    "justa": 1.6,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T15:29",
+  "hora": "2026-11-13T15:50",
   "revisadas": 0,
   "mejor": null
  },
