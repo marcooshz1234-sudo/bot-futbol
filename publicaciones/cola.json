@@ -5645,5 +5645,39 @@
       "instagram": "18109294843965659",
       "threads_enlace": "18120032897099483"
     }
+  },
+  {
+    "id": "2026-11-13-pick-tip-5",
+    "fecha": "2026-11-13T16:18",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n\n🍀 Países Bajos marca 2 o más @1,57\n\n⚽ Países Bajos – Grecia · hoy 20:45\n\n👨‍💻 Sin argumento: solo el pick",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528966|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+  },
+  {
+    "id": "2026-11-13-combi-tip-1",
+    "fecha": "2026-11-13T16:18",
+    "texto": "Combinada que nos gusta mucho familia 🔥\n📋 Números en la mano antes de meterla\n\n🍀 Más de 1,5 goles en Países Bajos–Grecia (pata de su MyMatch @1,54) @1,54\n🍀 Grecia no marca 3 (pata de su MyMatch @1,54) @1,54\n\n📈 Cuota @2,37",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528966|Goals Over/Under|Over 1.5",
+      "1528966|Total - Away|Under 2.5"
+    ],
+    "cuotas": [
+      1.54,
+      1.54
+    ],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
