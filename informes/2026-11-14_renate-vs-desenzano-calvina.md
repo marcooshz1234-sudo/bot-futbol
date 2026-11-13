@@ -1,10 +1,10 @@
 # Renate – Desenzano Calvina
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Mino Favini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:16_
+_Actualizadas: 13/11 08:22_
 
 - **1X2:** 1 **1.95**  ·  X **3.25**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.70**

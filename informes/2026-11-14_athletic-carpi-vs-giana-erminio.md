@@ -1,15 +1,16 @@
 # Athletic Carpi – Giana Erminio
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:16_
+_Actualizadas: 13/11 08:22_
 
 - **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.88**
-- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.50**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.55**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.85** · menos **1.95**
     - 3,5: más **3.00** · menos **1.36**
@@ -27,19 +28,19 @@ _Actualizadas: 13/11 02:16_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.40**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | Athletic Carpi (total) | Athletic Carpi en casa | Giana Erminio (total) | Giana Erminio fuera |
@@ -139,9 +140,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 40% | 31% | 36% | 2.88 | +3% |
 | 1X2: X | 25% | 28% | 27% | 3.20 | -14% |
 | 1X2: 1 | 34% | 41% | 38% | 2.20 | -17% |
-| Doble oportunidad: X2 | 66% | 61% | 63% | 1.50 | -5% |
+| Doble oportunidad: X2 | 66% | 59% | 62% | 1.55 | -3% |
 | Doble oportunidad: 12 | 75% | 72% | 73% | 1.28 | -6% |
-| Doble oportunidad: 1X | 60% | 67% | 64% | 1.36 | -13% |
+| Doble oportunidad: 1X | 60% | 69% | 64% | 1.33 | -14% |
 | Ambos marcan: No | 44% | 44% | 44% | 2.10 | -7% |
 | Ambos marcan: Sí | 56% | 56% | 56% | 1.67 | -7% |
 | Goles más/menos: Más de 1.5 | 76% | 75% | 76% | 1.25 | -5% |
@@ -162,8 +163,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
 | Goles del visitante: Menos de 0.5 | 24% | 31% | 27% | 3.00 | -18% |
 | Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
-| 1X2 descanso: 2 | 31% | 27% | 29% | 3.40 | -2% |
-| 1X2 descanso: X | 42% | 43% | 43% | 2.10 | -11% |
-| 1X2 descanso: 1 | 27% | 30% | 29% | 3.00 | -14% |
+| 1X2 descanso: 2 | 31% | 26% | 29% | 3.40 | -3% |
+| 1X2 descanso: X | 42% | 41% | 41% | 2.20 | -9% |
+| 1X2 descanso: 1 | 27% | 33% | 30% | 2.75 | -17% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

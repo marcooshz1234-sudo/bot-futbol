@@ -1,21 +1,20 @@
 # Ospitaletto – Dolomiti Bellunesi
 **Serie C** · Girone A - 14 · 13/11/2026 20:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:15_
+_Actualizadas: 13/11 08:21_
 
-- **1X2:** 1 **1.45**  ·  X **3.80**  ·  2 **6.00**
+- **1X2:** 1 **1.50**  ·  X **3.75**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **2.40**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.85** · menos **1.95**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **5.50** · menos **1.12**
-    - 5,5: más **9.00** · menos **1.04**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.00** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
@@ -142,20 +141,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 9% | 15% | 12% | 6.00 | -28% |
-| 1X2: X | 19% | 24% | 21% | 3.80 | -20% |
-| 1X2: 1 | 72% | 62% | 67% | 1.45 | -3% |
+| 1X2: 2 | 9% | 16% | 12% | 5.75 | -29% |
+| 1X2: X | 19% | 24% | 21% | 3.75 | -20% |
+| 1X2: 1 | 72% | 60% | 66% | 1.50 | -1% |
 | Doble oportunidad: X2 | 28% | 38% | 33% | 2.40 | -21% |
 | Doble oportunidad: 12 | 81% | 77% | 79% | 1.18 | -6% |
 | Doble oportunidad: 1X | 91% | 85% | 88% | 1.08 | -5% |
 | Ambos marcan: No | 63% | 54% | 58% | 1.73 | +1% |
 | Ambos marcan: Sí | 37% | 46% | 42% | 2.00 | -17% |
 | Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 48% | 51% | 50% | 1.85 | -8% |
-| Goles más/menos: Más de 3.5 | 26% | 29% | 28% | 3.25 | -11% |
+| Goles más/menos: Más de 2.5 | 48% | 49% | 48% | 1.95 | -6% |
+| Goles más/menos: Más de 3.5 | 26% | 28% | 27% | 3.40 | -9% |
 | Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles más/menos: Menos de 2.5 | 52% | 49% | 50% | 1.95 | -2% |
-| Goles más/menos: Menos de 3.5 | 74% | 71% | 72% | 1.33 | -4% |
+| Goles más/menos: Menos de 2.5 | 52% | 51% | 52% | 1.85 | -4% |
+| Goles más/menos: Menos de 3.5 | 74% | 72% | 73% | 1.30 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 32% | 3.00 | -5% |

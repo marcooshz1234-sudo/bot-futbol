@@ -1,16 +1,16 @@
 # Amarante – Felgueiras 1932
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Municipal de Amarante
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 01:47_
+_Actualizadas: 13/11 08:22_
 
 - **1X2:** 1 **2.40**  ·  X **3.00**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.10** · menos **7.00**
+    - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.40** · menos **1.53**
     - 3,5: más **4.50** · menos **1.18**
@@ -47,7 +47,7 @@ _Actualizadas: 13/11 01:47_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.40**
 
 ## Estadísticas de equipo
 | | Amarante (total) | Amarante en casa | Felgueiras 1932 (total) | Felgueiras 1932 fuera |

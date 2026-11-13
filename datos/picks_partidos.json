@@ -18,6 +18,88 @@
      "prob": 0.64
     }
    ]
+  },
+  {
+   "partido_id": 1528985,
+   "fecha": "2026-11-15T20:45",
+   "local": "Croatia",
+   "visitante": "Czech Republic",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528985|Total - Away|Over 0.5",
+     "texto": "Czech Republic marca",
+     "cuota": 1.67,
+     "prob": 0.49
+    }
+   ]
+  },
+  {
+   "partido_id": 1528983,
+   "fecha": "2026-11-15T20:45",
+   "local": "Belgium",
+   "visitante": "Italy",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528983|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Belgium–Italy",
+     "cuota": 1.62,
+     "prob": 0.43
+    }
+   ]
+  },
+  {
+   "partido_id": 1528982,
+   "fecha": "2026-11-15T20:45",
+   "local": "France",
+   "visitante": "Türkiye",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528982|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del France–Türkiye",
+     "cuota": 1.5,
+     "prob": 0.52
+    },
+    {
+     "sel": "1528982|Total - Away|Over 0.5",
+     "texto": "Türkiye marca",
+     "cuota": 1.73,
+     "prob": 0.44
+    },
+    {
+     "sel": "1528982|Both Teams Score|Yes",
+     "texto": "Ambos marcan en France–Türkiye",
+     "cuota": 1.8,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1528984,
+   "fecha": "2026-11-15T20:45",
+   "local": "Spain",
+   "visitante": "England",
+   "liga": "Nations League",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1528984|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+     "cuota": 1.8,
+     "prob": 0.55
+    },
+    {
+     "sel": "1528984|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Spain–England",
+     "cuota": 1.57,
+     "prob": 0.44
+    }
+   ]
   }
  ],
  "2026-11-16": [],

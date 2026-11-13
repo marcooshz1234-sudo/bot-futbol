@@ -1,12 +1,12 @@
 # Albinoleffe – Union Brescia
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · AlbinoLeffe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:16_
+_Actualizadas: 13/11 08:22_
 
-- **1X2:** 1 **4.50**  ·  X **3.50**  ·  2 **1.65**
+- **1X2:** 1 **4.10**  ·  X **3.40**  ·  2 **1.73**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.12**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
@@ -136,9 +136,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 56% | 54% | 55% | 1.65 | -9% |
-| 1X2: X | 21% | 26% | 23% | 3.50 | -18% |
-| 1X2: 1 | 22% | 20% | 21% | 4.50 | -5% |
+| 1X2: 2 | 56% | 52% | 54% | 1.73 | -6% |
+| 1X2: X | 21% | 26% | 24% | 3.40 | -19% |
+| 1X2: 1 | 22% | 22% | 22% | 4.10 | -9% |
 | Doble oportunidad: X2 | 78% | 82% | 80% | 1.12 | -11% |
 | Doble oportunidad: 12 | 79% | 75% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 44% | 44% | 44% | 2.10 | -9% |

@@ -1,12 +1,12 @@
 # Salamanca UDS – Celta Vigo
 **Copa del Rey** · Round of 128 · 13/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:16_
+_Actualizadas: 13/11 08:22_
 
-- **1X2:** 1 **8.50**  ·  X **5.00**  ·  2 **1.33**
+- **1X2:** 1 **9.00**  ·  X **5.25**  ·  2 **1.33**
 - **Doble oportunidad:** 1X **3.25**  ·  12 **1.17**  ·  X2 **1.08**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
@@ -31,6 +31,8 @@ _Actualizadas: 13/11 02:16_
     - 4,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 8,5: más **1.83** · menos **1.83**
+    - 9: más **1.82** · menos **1.98**
+    - 9,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **7.50**  ·  X **2.75**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -39,10 +41,10 @@ _Actualizadas: 13/11 02:16_
     - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **3.75**  ·  2 **1.18**
-- **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **1.83**
+- **To Win Either Half:** 1 **3.75**  ·  2 **1.17**
+- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.83**
 - **Win Both Halves:** 1 **34.00**  ·  2 **2.75**
-- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.75**  ·  Home/No **17.00**  ·  Draw/No **17.00**  ·  Away/No **2.38**
+- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.75**  ·  Home/No **17.00**  ·  Draw/No **17.00**  ·  Away/No **2.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.20**
 
 ## Estadísticas de equipo

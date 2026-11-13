@@ -1,12 +1,12 @@
 # Georgia – Hungary
 **Nations League** · League B - 5 · 14/11/2026 18:00 (hora España) · Boris Paichadze Dinamo Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:16_
+_Actualizadas: 13/11 08:22_
 
-- **1X2:** 1 **2.88**  ·  X **3.10**  ·  2 **2.55**
+- **1X2:** 1 **3.00**  ·  X **3.10**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
@@ -28,11 +28,11 @@ _Actualizadas: 13/11 02:16_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 8,5: más **1.98** · menos **1.82**
+    - 8,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **2.20**  ·  X **7.50**  ·  2 **1.91**
 - **Tarjetas más/menos:**
     - 4,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **3.75**  ·  X **1.95**  ·  2 **3.25**
+- **1X2 descanso:** 1 **3.75**  ·  X **1.95**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**

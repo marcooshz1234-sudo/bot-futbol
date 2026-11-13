@@ -1,18 +1,18 @@
 # Moldova – Kazakhstan
 **Nations League** · League C - 5 · 13/11/2026 18:00 (hora España) · Zimbru
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:15_
+_Actualizadas: 13/11 08:21_
 
-- **1X2:** 1 **2.70**  ·  X **2.90**  ·  2 **2.88**
+- **1X2:** 1 **2.62**  ·  X **2.90**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.40**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.10** · menos **6.50**
+    - 0,5: más **1.11** · menos **6.00**
     - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
+    - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
     - 4,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
@@ -30,26 +30,26 @@ _Actualizadas: 13/11 02:15_
 - **Córners más/menos:**
     - 8,5: más **1.80** · menos **1.91**
     - 9,5: más **2.02** · menos **1.78**
-- **Córners 1X2:** 1 **1.91**  ·  X **7.50**  ·  2 **2.20**
-- **1X2 descanso:** 1 **3.25**  ·  X **1.91**  ·  2 **3.50**
+- **Córners 1X2:** 1 **1.91**  ·  X **7.50**  ·  2 **2.25**
+- **1X2 descanso:** 1 **3.40**  ·  X **1.91**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
-- **To Win Either Half:** 1 **1.83**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **5.50**
-- **Win Both Halves:** 1 **10.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.00**  ·  Home/No **4.00**  ·  Draw/No **6.50**  ·  Away/No **4.33**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **1.91**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **5.00**
+- **Win Both Halves:** 1 **11.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **4.00**  ·  Draw/No **6.50**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **5.50**  ·  u/no 2.5 **1.91**
 - **Home Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.20** · menos **1.62**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
-- **Anytime Goal Scorer:** Daniel Dumbravanu **9.00**  ·  Dinmukhamed Karaman **4.33**  ·  Nauryzbek Zhagorov **6.50**  ·  Mihail Gherasimencov **17.00**  ·  Bauyrzhan Islamkhan **6.00**  ·  Yan Vorogovskiy **9.00**  ·  Nuraly Alip **17.00**  ·  Aybol Abiken **9.00**  ·  Maksim Samorodov **3.50**  ·  Ramazan Orazov **6.00**  ·  Alibek Kasym **9.00**  ·  Islam Chesnokov **3.75**  ·  Serhiy Maliy **15.00**  ·  Stephan Negru **15.00**  ·  Mihail Stefan **17.00**  ·  Almas Tyulyubay **10.00**  ·  Victor Stina **4.50**  ·  Nichita Motpan **6.50**  ·  Serafim Cojocaru **11.00**  ·  Vladislav Babohlo **15.00**  ·  loan-Calin Revenco **15.00**  ·  Denis Marandici **21.00**  ·  Oleg Reabciuk **17.00**  ·  Ismail Bekbolat **4.50**  ·  Danila Forov **9.00**  ·  Alexander Mrynskiy **13.00**  ·  Azamat Tuyakbayev **5.50**  ·  Vladimir Fratea **7.50**  ·  Arsen Ashirbek **11.00**  ·  Ovidiu David **9.00**  ·  Catalin Cucos **15.00**  ·  Ramazan Karimov **3.25**  ·  Islambek Kuat **9.00**  ·  Nicky Clescenco **5.00**  ·  Petru Popescu **3.25**  ·  Zhasulan Amir **6.50**  ·  Temirlan Erlanov **15.00**  ·  Alexandru Betivu **3.75**  ·  Vladislav Vasilyev **13.00**  ·  Stefan Bodisteanu **6.50**  ·  Galymzhan Kenzhebek **3.50**  ·  Adilbek Zhumakhanov **15.00**  ·  Erkin Tapalov **10.00**  ·  Iurie Iovu **11.00**  ·  Victor Bogaciuc **6.50**  ·  Sergiu Perciun **3.75**
+- **Anytime Goal Scorer:** Daniel Dumbravanu **9.00**  ·  Dinmukhamed Karaman **4.33**  ·  Nauryzbek Zhagorov **6.50**  ·  Mihail Gherasimencov **17.00**  ·  Bauyrzhan Islamkhan **6.00**  ·  Yan Vorogovskiy **9.00**  ·  Nuraly Alip **17.00**  ·  Aybol Abiken **9.00**  ·  Maksim Samorodov **3.50**  ·  Ramazan Orazov **6.00**  ·  Alibek Kasym **9.00**  ·  Islam Chesnokov **3.75**  ·  Serhiy Maliy **15.00**  ·  Stephan Negru **15.00**  ·  Mihail Stefan **17.00**  ·  Almas Tyulyubay **10.00**  ·  Victor Stina **4.50**  ·  Nichita Motpan **6.50**  ·  Serafim Cojocaru **11.00**  ·  Vladislav Babohlo **15.00**  ·  loan-Calin Revenco **15.00**  ·  Denis Marandici **21.00**  ·  Oleg Reabciuk **17.00**  ·  Ismail Bekbolat **4.50**  ·  Danila Forov **9.00**  ·  Alexander Mrynskiy **12.00**  ·  Azamat Tuyakbayev **5.50**  ·  Vladimir Fratea **7.50**  ·  Arsen Ashirbek **11.00**  ·  Ovidiu David **9.00**  ·  Catalin Cucos **15.00**  ·  Ramazan Karimov **3.25**  ·  Islambek Kuat **9.00**  ·  Nicky Clescenco **5.00**  ·  Petru Popescu **3.50**  ·  Zhasulan Amir **6.50**  ·  Temirlan Erlanov **15.00**  ·  Alexandru Betivu **4.00**  ·  Vladislav Vasilyev **12.00**  ·  Stefan Bodisteanu **6.50**  ·  Galymzhan Kenzhebek **3.50**  ·  Adilbek Zhumakhanov **15.00**  ·  Erkin Tapalov **10.00**  ·  Iurie Iovu **11.00**  ·  Victor Bogaciuc **6.50**  ·  Sergiu Perciun **4.00**
 
 ## Estadísticas de equipo
 | | Moldova (total) | Moldova en casa | Kazakhstan (total) | Kazakhstan fuera |

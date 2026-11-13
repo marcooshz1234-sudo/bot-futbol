@@ -1,7 +1,7 @@
 # Luxembourg – Estonia
 **Nations League** · League C - 5 · 13/11/2026 20:45 (hora España) · Stade de Luxembourg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_

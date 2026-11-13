@@ -1,7 +1,7 @@
 # Tenerife – AD Ceuta FC
 **Segunda División** · Regular Season - 14 · 15/11/2026 14:00 (hora España) · Heliodoro Rodríguez López
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

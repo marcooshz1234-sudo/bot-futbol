@@ -1,10 +1,49 @@
 # France – Türkiye
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Matmut Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 08:23_
+
+- **1X2:** 1 **1.18**  ·  X **8.00**  ·  2 **12.00**
+- **Doble oportunidad:** 1X **1.05**  ·  12 **1.08**  ·  X2 **4.50**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.08** · menos **8.00**
+    - 2,5: más **1.30** · menos **3.50**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.62** · menos **1.44**
+    - 5,5: más **4.50** · menos **1.18**
+    - 6,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.57** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.73** · menos **2.00**
+    - 1,5: más **4.50** · menos **1.18**
+- **1X2 descanso:** 1 **1.50**  ·  X **3.25**  ·  2 **10.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.10**  ·  2 **5.00**
+- **To Score In Both Halves By Teams:** 1 **1.53**  ·  2 **8.00**
+- **Win Both Halves:** 1 **2.10**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **2.30**  ·  Draw/Yes **8.50**  ·  Away/Yes **19.00**  ·  Home/No **2.10**  ·  Draw/No **29.00**  ·  Away/No **26.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **3.25**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.00**
 
 ## Estadísticas de equipo
 | | France (total) | France en casa | Türkiye (total) | Türkiye fuera |
@@ -136,4 +175,43 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,81 · visitante 0,79 · córners esperados 8,7._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 16% | 8% | 12% | 12.00 | +42% |
+| 1X2: X | 23% | 12% | 17% | 8.00 | +37% |
+| 1X2: 1 | 62% | 80% | 71% | 1.18 | -16% |
+| Doble oportunidad: X2 | 38% | 21% | 30% | 4.50 | +34% |
+| Doble oportunidad: 12 | 77% | 88% | 83% | 1.08 | -11% |
+| Doble oportunidad: 1X | 84% | 91% | 87% | 1.05 | -8% |
+| Ambos marcan: No | 55% | 49% | 52% | 1.91 | -2% |
+| Ambos marcan: Sí | 45% | 51% | 48% | 1.80 | -13% |
+| Goles más/menos: Más de 2.5 | 48% | 73% | 60% | 1.30 | -21% |
+| Goles más/menos: Más de 3.5 | 26% | 54% | 40% | 1.73 | -31% |
+| Goles más/menos: Más de 4.5 | 12% | 35% | 24% | 2.62 | -38% |
+| Goles más/menos: Más de 5.5 | 5% | 21% | 13% | 4.50 | -42% |
+| Goles más/menos: Menos de 2.5 | 52% | 27% | 40% | 3.50 | +38% |
+| Goles más/menos: Menos de 3.5 | 74% | 46% | 60% | 2.00 | +20% |
+| Goles más/menos: Menos de 4.5 | 88% | 65% | 76% | 1.44 | +10% |
+| Goles más/menos: Menos de 5.5 | 95% | 79% | 87% | 1.18 | +3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 51% | 41% | 1.80 | -26% |
+| Goles 1ª parte más/menos: Más de 2.5 | 11% | 27% | 19% | 3.50 | -35% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 49% | 59% | 1.91 | +12% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 73% | 81% | 1.28 | +4% |
+| Goles del local: Más de 1.5 | 54% | 79% | 67% | 1.18 | -21% |
+| Goles del local: Más de 2.5 | 27% | 59% | 43% | 1.57 | -32% |
+| Goles del local: Más de 3.5 | 11% | 38% | 24% | 2.50 | -39% |
+| Goles del local: Más de 4.5 | 4% | 22% | 13% | 4.33 | -45% |
+| Goles del local: Menos de 1.5 | 46% | 21% | 33% | 4.50 | +50% |
+| Goles del local: Menos de 2.5 | 73% | 41% | 57% | 2.25 | +28% |
+| Goles del local: Menos de 3.5 | 89% | 62% | 76% | 1.50 | +14% |
+| Goles del local: Menos de 4.5 | 96% | 78% | 87% | 1.20 | +5% |
+| Goles del visitante: Más de 0.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Goles del visitante: Más de 1.5 | 19% | 21% | 20% | 4.50 | -11% |
+| Goles del visitante: Menos de 0.5 | 46% | 46% | 46% | 2.00 | -8% |
+| Goles del visitante: Menos de 1.5 | 81% | 79% | 80% | 1.18 | -5% |
+| 1X2 descanso: X | 42% | 29% | 35% | 3.25 | +14% |
+| 1X2 descanso: 1 | 43% | 62% | 53% | 1.50 | -21% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

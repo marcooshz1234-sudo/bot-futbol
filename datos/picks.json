@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13 06:04",
+ "generado": "2026-11-13 08:31",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,6 +7,56 @@
   "ultimos_partidos": 10
  },
  "dias": {
+  "2026-11-15": {
+   "picks": [
+    {
+     "partido_id": 1528984,
+     "fecha": "2026-11-15T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Spain",
+     "visitante": "England",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Spain 4/5 · England 4/5",
+     "valor_mercado": -0.037,
+     "prob_aprendida": 0.633
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1528984,
+     "fecha": "2026-11-15T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Spain",
+     "visitante": "England",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Spain 4/5 · England 4/5",
+     "valor_mercado": -0.037,
+     "prob_aprendida": 0.633
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  },
   "2026-11-20": {
    "picks": [
     {

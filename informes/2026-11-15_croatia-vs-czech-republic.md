@@ -1,10 +1,38 @@
 # Croatia – Czech Republic
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Opus Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 08:23_
+
+- **1X2:** 1 **1.50**  ·  X **4.33**  ·  2 **6.50**
+- **Doble oportunidad:** 1X **1.10**  ·  12 **1.18**  ·  X2 **2.75**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.50** · menos **1.18**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.50**  ·  2 **7.00**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.25**  ·  2 **3.50**
+- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **8.00**
+- **Win Both Halves:** 1 **3.40**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **5.50**  ·  Away/Yes **13.00**  ·  Home/No **2.38**  ·  Draw/No **13.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.62**
 
 ## Estadísticas de equipo
 | | Croatia (total) | Croatia en casa | Czech Republic (total) | Czech Republic fuera |
@@ -138,4 +166,33 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,54 · visitante 0,87 · córners esperados 9,0._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 21% | 15% | 18% | 6.50 | +16% |
+| 1X2: X | 26% | 22% | 24% | 4.33 | +3% |
+| 1X2: 1 | 53% | 63% | 58% | 1.50 | -13% |
+| Doble oportunidad: X2 | 47% | 34% | 41% | 2.75 | +12% |
+| Doble oportunidad: 12 | 74% | 80% | 77% | 1.18 | -9% |
+| Doble oportunidad: 1X | 79% | 86% | 82% | 1.10 | -10% |
+| Ambos marcan: No | 54% | 50% | 52% | 1.83 | -5% |
+| Ambos marcan: Sí | 46% | 50% | 48% | 1.83 | -12% |
+| Goles más/menos: Más de 1.5 | 69% | 78% | 74% | 1.20 | -11% |
+| Goles más/menos: Más de 2.5 | 43% | 56% | 50% | 1.67 | -17% |
+| Goles más/menos: Más de 3.5 | 22% | 35% | 29% | 2.62 | -24% |
+| Goles más/menos: Menos de 1.5 | 31% | 22% | 26% | 4.33 | +13% |
+| Goles más/menos: Menos de 2.5 | 57% | 44% | 50% | 2.15 | +8% |
+| Goles más/menos: Menos de 3.5 | 78% | 65% | 71% | 1.44 | +2% |
+| Goles del local: Más de 1.5 | 46% | 62% | 54% | 1.50 | -19% |
+| Goles del local: Más de 2.5 | 20% | 38% | 29% | 2.50 | -28% |
+| Goles del local: Menos de 1.5 | 54% | 38% | 46% | 2.50 | +15% |
+| Goles del local: Menos de 2.5 | 80% | 62% | 71% | 1.50 | +7% |
+| Goles del visitante: Más de 0.5 | 58% | 56% | 57% | 1.67 | -5% |
+| Goles del visitante: Más de 1.5 | 22% | 21% | 21% | 4.50 | -5% |
+| Goles del visitante: Menos de 0.5 | 42% | 44% | 43% | 2.10 | -10% |
+| Goles del visitante: Menos de 1.5 | 78% | 79% | 79% | 1.18 | -7% |
+| 1X2 descanso: X | 44% | 38% | 41% | 2.50 | +2% |
+| 1X2 descanso: 1 | 37% | 49% | 43% | 1.91 | -17% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,53 +1,55 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 02:16_
+_Actualizadas: 13/11 08:22_
 
-- **1X2:** 1 **2.20**  ·  X **3.00**  ·  2 **3.10**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.57**
+- **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.90**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.10** · menos **1.70**
+    - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
+    - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
     - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.20**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.73**  ·  2 **2.10**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
-- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.75**  ·  Menos de 4 **2.05**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 
 ## Estadísticas de equipo
 | | Penafiel (total) | Penafiel en casa | Lusitânia Lourosa (total) | Lusitânia Lourosa fuera |
@@ -160,32 +162,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 29% | 28% | 3.10 | -15% |
-| 1X2: X | 25% | 30% | 27% | 3.00 | -18% |
+| 1X2: 2 | 26% | 31% | 29% | 2.90 | -17% |
+| 1X2: X | 25% | 28% | 26% | 3.20 | -15% |
 | 1X2: 1 | 49% | 41% | 45% | 2.20 | -1% |
 | Doble oportunidad: X2 | 51% | 60% | 55% | 1.57 | -13% |
-| Doble oportunidad: 12 | 75% | 70% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 74% | 70% | 72% | 1.33 | -4% |
+| Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 74% | 69% | 72% | 1.36 | -3% |
 | Ambos marcan: No | 47% | 50% | 48% | 1.83 | -12% |
 | Ambos marcan: Sí | 53% | 50% | 52% | 1.83 | -5% |
 | Goles más/menos: Más de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles más/menos: Más de 2.5 | 51% | 45% | 48% | 2.10 | +0% |
+| Goles más/menos: Más de 2.5 | 51% | 45% | 48% | 2.08 | +0% |
 | Goles más/menos: Más de 3.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles más/menos: Menos de 1.5 | 25% | 29% | 27% | 3.25 | -13% |
-| Goles más/menos: Menos de 2.5 | 49% | 55% | 52% | 1.70 | -11% |
+| Goles más/menos: Menos de 2.5 | 49% | 55% | 52% | 1.73 | -10% |
 | Goles más/menos: Menos de 3.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 29% | 31% | 3.25 | +1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles del local: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 1.5 | 48% | 39% | 43% | 2.38 | +3% |
-| Goles del local: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles del local: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -13% |
-| Goles del visitante: Más de 0.5 | 67% | 66% | 66% | 1.40 | -7% |
-| Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
-| Goles del visitante: Menos de 0.5 | 33% | 34% | 34% | 2.75 | -8% |
-| Goles del visitante: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles del local: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
+| Goles del local: Más de 1.5 | 48% | 44% | 46% | 2.10 | -3% |
+| Goles del local: Más de 2.5 | 22% | 21% | 21% | 4.50 | -4% |
+| Goles del local: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles del local: Menos de 1.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Goles del local: Menos de 2.5 | 78% | 79% | 79% | 1.18 | -7% |
+| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -10% |
+| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +4% |
+| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Córners más/menos: Más de 9.5 | 34% | 46% | 40% | 2.00 | -20% |
 | Córners más/menos: Menos de 9.5 | 66% | 54% | 60% | 1.73 | +3% |
 | 1X2 descanso: 2 | 22% | 25% | 23% | 3.75 | -12% |

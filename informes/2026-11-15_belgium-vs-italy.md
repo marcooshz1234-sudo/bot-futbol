@@ -1,10 +1,47 @@
 # Belgium – Italy
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Roi Baudouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 08:23_
+
+- **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.20**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.67**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.25**  ·  2 **3.60**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.62**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **4.00**
+- **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **13.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
 
 ## Estadísticas de equipo
 | | Belgium (total) | Belgium en casa | Italy (total) | Italy fuera |
@@ -139,4 +176,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,91 · visitante 1,61 · córners esperados 9,6._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 33% | 30% | 31% | 3.20 | +0% |
+| 1X2: X | 22% | 27% | 24% | 3.60 | -13% |
+| 1X2: 1 | 45% | 44% | 44% | 2.20 | -2% |
+| Doble oportunidad: X2 | 55% | 56% | 55% | 1.67 | -7% |
+| Doble oportunidad: 12 | 78% | 73% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 67% | 71% | 69% | 1.33 | -8% |
+| Ambos marcan: No | 32% | 42% | 37% | 2.20 | -18% |
+| Ambos marcan: Sí | 68% | 58% | 63% | 1.62 | +2% |
+| Goles más/menos: Más de 1.5 | 87% | 75% | 81% | 1.25 | +1% |
+| Goles más/menos: Más de 2.5 | 68% | 53% | 60% | 1.80 | +9% |
+| Goles más/menos: Más de 3.5 | 47% | 31% | 39% | 3.00 | +17% |
+| Goles más/menos: Menos de 1.5 | 13% | 25% | 19% | 3.75 | -28% |
+| Goles más/menos: Menos de 2.5 | 32% | 47% | 40% | 2.00 | -21% |
+| Goles más/menos: Menos de 3.5 | 53% | 69% | 61% | 1.36 | -17% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 71% | 75% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 29% | 25% | 3.25 | -18% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
+| Goles del local: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
+| Goles del local: Más de 1.5 | 57% | 46% | 52% | 2.00 | +3% |
+| Goles del local: Más de 2.5 | 30% | 22% | 26% | 4.33 | +12% |
+| Goles del local: Menos de 0.5 | 15% | 22% | 18% | 4.33 | -21% |
+| Goles del local: Menos de 1.5 | 43% | 54% | 48% | 1.73 | -16% |
+| Goles del local: Menos de 2.5 | 70% | 78% | 74% | 1.20 | -11% |
+| Goles del visitante: Más de 0.5 | 80% | 71% | 75% | 1.33 | +0% |
+| Goles del visitante: Más de 1.5 | 48% | 35% | 42% | 2.62 | +9% |
+| Goles del visitante: Menos de 0.5 | 20% | 29% | 25% | 3.25 | -20% |
+| Goles del visitante: Menos de 1.5 | 52% | 65% | 58% | 1.44 | -16% |
+| 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -3% |
+| 1X2 descanso: X | 36% | 41% | 39% | 2.25 | -13% |
+| 1X2 descanso: 1 | 36% | 33% | 35% | 2.75 | -5% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

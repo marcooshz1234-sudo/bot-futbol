@@ -1,10 +1,32 @@
 # Spain – England
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Riyadh Air Metropolitano
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 06:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 08:23._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 08:23_
+
+- **1X2:** 1 **1.67**  ·  X **4.10**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.25**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **2.10**  ·  X **2.50**  ·  2 **5.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.30**  ·  2 **2.62**
+- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **5.00**
+- **Win Both Halves:** 1 **4.00**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.50**  ·  Home/No **3.25**  ·  Draw/No **17.00**  ·  Away/No **11.00**
 
 ## Estadísticas de equipo
 | | Spain (total) | Spain en casa | England (total) | England fuera |
@@ -137,4 +159,25 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,99 · visitante 1,73 · córners esperados 9,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 34% | 20% | 27% | 4.75 | +28% |
+| 1X2: X | 21% | 23% | 22% | 4.10 | -9% |
+| 1X2: 1 | 45% | 57% | 51% | 1.67 | -15% |
+| Doble oportunidad: X2 | 55% | 42% | 49% | 2.25 | +10% |
+| Doble oportunidad: 12 | 79% | 77% | 78% | 1.22 | -5% |
+| Doble oportunidad: 1X | 66% | 81% | 73% | 1.17 | -14% |
+| Ambos marcan: No | 29% | 41% | 35% | 2.25 | -21% |
+| Ambos marcan: Sí | 71% | 59% | 65% | 1.57 | +2% |
+| Goles más/menos: Más de 2.5 | 72% | 61% | 66% | 1.53 | +2% |
+| Goles más/menos: Más de 3.5 | 51% | 41% | 46% | 2.25 | +4% |
+| Goles más/menos: Más de 4.5 | 32% | 23% | 28% | 4.00 | +10% |
+| Goles más/menos: Menos de 2.5 | 28% | 39% | 34% | 2.40 | -19% |
+| Goles más/menos: Menos de 3.5 | 49% | 59% | 54% | 1.57 | -15% |
+| Goles más/menos: Menos de 4.5 | 68% | 77% | 72% | 1.22 | -12% |
+| 1X2 descanso: X | 35% | 37% | 36% | 2.50 | -10% |
+| 1X2 descanso: 1 | 36% | 44% | 40% | 2.10 | -16% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
