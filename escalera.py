@@ -210,6 +210,12 @@ def partido_menor(act):
     return False
 
 
+def pata_alta(act):
+    """13/11 (Marcos: «patas de máximo 1,8»)."""
+    from bot import CUOTA_MAXIMA_PATA
+    return any(float(p.get("cuota") or 0) > CUOTA_MAXIMA_PATA for p in act.get("picks") or [])
+
+
 def main():
     picks = leer(DATOS / "picks.json")
     estado = leer(ESTADO) or {"escalon": 1, "stake": INICIAL, "historial": [], "actual": None}
@@ -295,7 +301,7 @@ def main():
         if not publicado and (movido or primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")):
             dia_datos = picks["dias"].get(act["dia"]) or {"picks": [], "mejores_por_partido": []}
             elegido = elegir(dia_datos, fecha=act["dia"])
-            menor = partido_menor(act)   # 13/11: elegido antes de la regla de los días buenos (Salamanca–Celta)
+            menor = partido_menor(act) or pata_alta(act)   # 13/11: elegido antes de las reglas nuevas
             if elegido and (movido or menor or act["dia"] in picks["dias"]):
                 act["picks"], act["cuota"] = elegido[1], elegido[2]
                 if movido:

@@ -20,6 +20,8 @@ from bot import DATOS, MADRID, RAIZ, leer
 ESTADO = DATOS / "cazador.json"
 COLA = RAIZ / "publicaciones" / "cola.json"
 MAX_DIA = 4
+CUOTA_MAX = 2.20           # 13/11 (Marcos): Andorra–Gibraltar ambos marcan @3,25 salía rojo 7 de cada 10 veces
+HORAS = (9, 23)            # 13/11: solo de 9:00 a 23:00 (la de las 3 de la mañana no la veía nadie)
 MAX_PETICIONES = 15        # por vuelta (la API da ~7.500 al día y el bot gasta ~1.200)
 REFRESCO = timedelta(minutes=40)
 CADA = timedelta(minutes=20)
@@ -129,7 +131,7 @@ def buscar(ahora=None, umbral=0.08, cuota_min=1.40):
         for m, lista in (ex.get("cuotas") or {}).items():
             for o, c in lista or []:
                 c = _f(c)
-                if not c or c < cuota_min or c > 5 or P.excluido(m, o):   # 11/11 (Marcos): mínimo 1,40
+                if not c or c < cuota_min or c > CUOTA_MAX or P.excluido(m, o):   # 11/11: mín. 1,40 · 13/11: máx. 2,20
                     continue
                 pj, fuente = sharp.prob_justa(fid, m, o) or pin_api.get((m, str(o))), "Pinnacle"
                 if not pj:
@@ -210,7 +212,7 @@ def main(ahora=None):
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     nuevos = []
     for x in hallazgos:
-        if hoy_n >= MAX_DIA:
+        if hoy_n >= MAX_DIA or not HORAS[0] <= ahora.hour < HORAS[1]:
             break
         k = f"{x['partido_id']}|{x['mercado']}|{x['opcion']}"
         prev = avisos.get(k)

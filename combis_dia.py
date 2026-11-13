@@ -231,7 +231,8 @@ def pool_partido(ex, hist, ap):
     11/11 (Marcos): con Pinnacle de referencia (sharp.py): fuera las patas caras; en las demás, su probabilidad."""
     if fuera_por_dia_bueno(ex.get("partido")):   # 12/11: día bueno → solo partidos buenos
         return []
-    pool = _pool_partido(ex, hist, ap)
+    from bot import CUOTA_MAXIMA_PATA
+    pool = [p for p in _pool_partido(ex, hist, ap) if p.get("cuota", 0) <= CUOTA_MAXIMA_PATA]   # 13/11: máx. 1,80
     try:
         import sharp
         pool = sharp.filtrar(pool)

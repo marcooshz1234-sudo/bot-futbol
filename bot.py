@@ -137,6 +137,7 @@ def partidos_fuera():
 
 
 CUOTA_MINIMA_POST = 1.35   # 12/11 (Marcos: «mínimo, siempre mínimo 1,30 o 1,35… ¿quién va a coger eso?»)
+CUOTA_MAXIMA_PATA = 1.80   # 13/11 (Marcos: «vamos a mejorar los picks y hacerlos más seguros: patas de máximo 1,8»)
 CUOTA_MINIMA_PATA = 1.20   # 12/11 (Marcos: «si es en una combi sí se puede meter, pero mínimo 1,20»)
 # 12/11 (Marcos: «si es una combinada para hacer una cuota de 1,80-2 y vas a meter España gana, te lo compro… pero
 # es muy, muy buena; no es lo mismo que poner Bielorrusia gana aunque esté de favorita»): UNA pata entre 1,15 y 1,20

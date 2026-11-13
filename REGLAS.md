@@ -16,6 +16,9 @@
 - 🤖 Cada pata de una combi: **mínimo 1,20** (12/11). Excepción: UNA pata de 1,15–1,20 si es gana/no pierde de un
   favorito de élite (España, Francia, Real Madrid…) en una combi de 1,50 o más; nunca para rellenar (12/11).
 - 🤖 Combi total: mínimo 1,35.
+- 🤖 **Cada pata, máximo 1,80** (13/11: «vamos a hacer los picks más seguros»). En lo nuestro (combis, picks,
+  escalera); no en las copias de canales, ganadores ni marcadores exactos.
+- ⚙️ **Cuotazas: hasta 2,20 y solo de 9:00 a 23:00** (13/11: la de Andorra–Gibraltar @3,25 a las 3 de la mañana).
 - ⚙️ Las combis del bot: patas de 1,25 o más (`combis_dia.CUOTA_MIN_PATA`).
 - 👤 **Nunca combis largas de patas regalo** (@1,05, @1,12…): el objetivo es estar al nivel de Pérez y TipsAnalistas (12/11).
 - 👤 Todas las cuotas, de bet365. Si no se sabe la cuota, la selección no va.

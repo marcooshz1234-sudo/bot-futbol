@@ -21,7 +21,7 @@ import sys
 
 from bot import cuota_baja, leer, mercado_prohibido, partido_caido, RAIZ
 
-GRAVES = ("mercado", "cuota", "choca", "repetido", "estrella", "caido", "texto", "crear", "logica", "escudos", "dia")
+GRAVES = ("mercado", "cuota", "cuota_alta", "choca", "repetido", "estrella", "caido", "texto", "crear", "logica", "escudos", "dia")
 TEXTO_PROHIBIDO = [   # (patrón, motivo) — REGLAS.md, apartado «Textos»
     (r"segur|asegur|sin riesgo", "dice «seguro/asegurado/sin riesgo» (12/11)"),
     (r"\bNone\b|\bnan\b|\{[a-z_]+\}", "restos de plantilla en el texto"),
@@ -102,6 +102,11 @@ def comprobar(p, texto=None, otros=None):
         fallos.append(("cuota", c))
     pid, dia = p.get("id", ""), p.get("id", "")[:10]
     sels = [s for s in p.get("sel") or [] if str(s).count("|") == 2]
+    if not es_copia(p) and not any(k in pid for k in ("ganadores", "marcadores", "cuotaza", "lista", "exactos")):
+        from bot import CUOTA_MAXIMA_PATA
+        altas = [c for c in (p.get("cuotas") or []) if float(c) > CUOTA_MAXIMA_PATA]
+        if altas:   # 13/11 (Marcos: «patas de máximo 1,8»)
+            fallos.append(("cuota_alta", f"pata de más de {CUOTA_MAXIMA_PATA:.2f} (@{max(altas):.2f})".replace(".", ",")))
     if sels and "ganadores" not in pid and "marcadores" not in pid:
         from plantillas import choca
         if otros is None:
