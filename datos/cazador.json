@@ -35,7 +35,7 @@
    "justa": 2.18,
    "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 0.7
+   "edad_h": 1.1
   },
   {
    "local": "Deportivo Alavés W",
@@ -46,11 +46,11 @@
    "justa": 2.02,
    "ev": -0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.7
+   "edad_h": 1.1
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T20:42",
+  "hora": "2026-11-13T21:03",
   "revisadas": 0,
   "mejor": null
  },
