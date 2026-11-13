@@ -4,7 +4,7 @@ name: Oracle A1 (reintentar el servidor gratis)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/30 * * * *"   # 13/11: los cron de GitHub llegan tarde o no llegan: cada tanda se queda ~55 min probando cada 5
 permissions:
   contents: write
 concurrency:
@@ -13,7 +13,7 @@ concurrency:
 jobs:
   oracle:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 62
     steps:
       - uses: actions/checkout@v4
       - name: ¿Ya está creado?
@@ -35,7 +35,11 @@ jobs:
         run: |
           if [ -z "$OCI_KEY" ]; then echo "Falta el secreto OCI_KEY"; exit 0; fi
           pip install -q oci
-          python -u oracle_a1.py
+          for i in $(seq 1 11); do
+            python -u oracle_a1.py
+            [ -f oracle/servidor.json ] && break
+            sleep 300
+          done
           if [ -f oracle/servidor.json ]; then
             git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
             git add oracle/servidor.json && git commit -q -m "Oracle: servidor A1 creado"

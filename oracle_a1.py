@@ -1,5 +1,5 @@
 """13/11 (Marcos: «reintentar el A1 solo»): crea el servidor gratis de Oracle Cloud (VM.Standard.A1.Flex, 4 OCPU y
-24 GB, «Always Free») en cuanto haya hueco en Madrid. Lo lanza GitHub cada 10 min (.github/workflows/oracle_a1.yml).
+24 GB, «Always Free») en cuanto haya hueco en Madrid. Lo lanza GitHub (cada tanda prueba cada 5 min durante ~55 min) (.github/workflows/oracle_a1.yml).
 
 - Las claves las pone Marcos en los secretos de GitHub (OCI_USER, OCI_TENANCY, OCI_FINGERPRINT, OCI_REGION, OCI_KEY):
   ninguna IA las ve. La clave SSH pública está en oracle/combilocas.pub (la privada solo en el Mac de Marcos).
