@@ -1,20 +1,21 @@
 # Lumezzane – Trento
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Tullio Saleri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:58_
 
 - **1X2:** 1 **3.70**  ·  X **3.40**  ·  2 **1.83**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.85** · menos **1.95**
+    - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **5.50** · menos **1.12**
-    - 5,5: más **9.00** · menos **1.04**
+    - 4,5: más **5.00** · menos **1.14**
+    - 5,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
@@ -150,10 +151,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 70% | 46% | 58% | 2.00 | +16% |
 | Ambos marcan: Sí | 30% | 54% | 42% | 1.73 | -27% |
 | Goles más/menos: Más de 1.5 | 56% | 75% | 66% | 1.25 | -18% |
-| Goles más/menos: Más de 2.5 | 29% | 51% | 40% | 1.85 | -26% |
+| Goles más/menos: Más de 2.5 | 29% | 53% | 41% | 1.80 | -26% |
 | Goles más/menos: Más de 3.5 | 12% | 31% | 22% | 3.00 | -35% |
 | Goles más/menos: Menos de 1.5 | 44% | 25% | 34% | 3.75 | +29% |
-| Goles más/menos: Menos de 2.5 | 71% | 49% | 60% | 1.95 | +17% |
+| Goles más/menos: Menos de 2.5 | 71% | 47% | 59% | 2.00 | +18% |
 | Goles más/menos: Menos de 3.5 | 88% | 69% | 78% | 1.36 | +6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 62% | 1.36 | -15% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 35% | 28% | 2.62 | -28% |

@@ -1,10 +1,44 @@
 # Espanyol W – Granad. Tenerife W
 **Liga F** · Regular Season - 11 · 14/11/2026 12:00 (hora España) · Ciutat Esportiva Dani Jarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 19:58_
+
+- **1X2:** 1 **2.55**  ·  X **3.10**  ·  2 **2.55**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.44**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **7.50**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.15** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.00** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.00** · menos **1.11**
+- **1X2 descanso:** 1 **3.20**  ·  X **2.05**  ·  2 **3.20**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **4.33**
+- **Win Both Halves:** 1 **10.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.33**  ·  Draw/No **8.50**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
 
 ## Estadísticas de equipo
 | | Espanyol W (total) | Espanyol W en casa | Granad. Tenerife W (total) | Granad. Tenerife W fuera |
@@ -101,4 +135,38 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,36 · visitante 1,23._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 34% | 35% | 35% | 2.55 | -12% |
+| 1X2: X | 26% | 29% | 28% | 3.10 | -14% |
+| 1X2: 1 | 40% | 35% | 38% | 2.55 | -4% |
+| Doble oportunidad: X2 | 60% | 64% | 62% | 1.44 | -11% |
+| Doble oportunidad: 12 | 74% | 72% | 73% | 1.28 | -7% |
+| Doble oportunidad: 1X | 66% | 64% | 65% | 1.44 | -6% |
+| Ambos marcan: No | 47% | 50% | 49% | 1.83 | -11% |
+| Ambos marcan: Sí | 53% | 50% | 51% | 1.83 | -6% |
+| Goles más/menos: Más de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
+| Goles más/menos: Más de 2.5 | 48% | 44% | 46% | 2.15 | -1% |
+| Goles más/menos: Más de 3.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles más/menos: Menos de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
+| Goles más/menos: Menos de 2.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Goles más/menos: Menos de 3.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 68% | 65% | 66% | 1.44 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 35% | 34% | 2.62 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 69% | 69% | 1.36 | -6% |
+| Goles del local: Más de 0.5 | 74% | 69% | 72% | 1.36 | -3% |
+| Goles del local: Más de 1.5 | 39% | 35% | 37% | 2.62 | -2% |
+| Goles del local: Menos de 0.5 | 26% | 31% | 28% | 3.00 | -15% |
+| Goles del local: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -10% |
+| Goles del visitante: Más de 0.5 | 71% | 69% | 70% | 1.36 | -5% |
+| Goles del visitante: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
+| Goles del visitante: Menos de 0.5 | 29% | 31% | 30% | 3.00 | -10% |
+| Goles del visitante: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
+| 1X2 descanso: 2 | 26% | 28% | 27% | 3.20 | -13% |
+| 1X2 descanso: X | 43% | 44% | 44% | 2.05 | -11% |
+| 1X2 descanso: 1 | 30% | 28% | 29% | 3.20 | -7% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

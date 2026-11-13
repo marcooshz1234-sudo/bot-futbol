@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13 14:17",
+ "generado": "2026-11-13 20:10",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -217,6 +217,382 @@
     "doble": null
    },
    "estilos": {},
+   "combis_partido": []
+  },
+  "2026-11-21": {
+   "picks": [
+    {
+     "partido_id": 1557468,
+     "fecha": "2026-11-21T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Bournemouth",
+     "visitante": "Nottingham Forest",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Bournemouth",
+     "cuota": 2.0,
+     "frecuencia": 0.65,
+     "ventaja": 0.15,
+     "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
+     "valor_mercado": -0.015,
+     "posiciones": [
+      7,
+      16,
+      20
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.659
+    },
+    {
+     "partido_id": 1575223,
+     "fecha": "2026-11-21T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Eintracht Frankfurt",
+     "visitante": "1899 Hoffenheim",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Fares Chaibi - 1",
+     "cuota": 1.67,
+     "frecuencia": 0.833,
+     "ventaja": 0.235,
+     "tipo": "jugador",
+     "jugador": "Fares Chaibi",
+     "equipo": "Eintracht Frankfurt",
+     "jugador_id": 276670,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Fares Chaibi: 1+ tiros a puerta",
+     "detalle": "Fares Chaibi 5/6",
+     "temporada": "5/6",
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.556
+    },
+    {
+     "partido_id": 1575229,
+     "fecha": "2026-11-21T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SV Elversberg",
+     "visitante": "SC Freiburg",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el SC Freiburg",
+     "cuota": 2.0,
+     "frecuencia": 0.6,
+     "ventaja": 0.1,
+     "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
+     "valor_mercado": -0.01,
+     "posiciones": [
+      7,
+      3,
+      18
+     ],
+     "contexto": "mejor_lejos_arriba",
+     "prob_aprendida": 0.506
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1557468,
+     "fecha": "2026-11-21T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Bournemouth",
+     "visitante": "Nottingham Forest",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Bournemouth",
+     "cuota": 2.0,
+     "frecuencia": 0.65,
+     "ventaja": 0.15,
+     "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
+     "valor_mercado": -0.015,
+     "posiciones": [
+      7,
+      16,
+      20
+     ],
+     "contexto": "mejor_lejos_medio",
+     "prob_aprendida": 0.659
+    },
+    {
+     "partido_id": 1575223,
+     "fecha": "2026-11-21T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Eintracht Frankfurt",
+     "visitante": "1899 Hoffenheim",
+     "mercado": "Home Player Shots On Target Total",
+     "opcion": "Fares Chaibi - 1",
+     "cuota": 1.67,
+     "frecuencia": 0.833,
+     "ventaja": 0.235,
+     "tipo": "jugador",
+     "jugador": "Fares Chaibi",
+     "equipo": "Eintracht Frankfurt",
+     "jugador_id": 276670,
+     "campo": "a_puerta",
+     "n": 1,
+     "texto": "Fares Chaibi: 1+ tiros a puerta",
+     "detalle": "Fares Chaibi 5/6",
+     "temporada": "5/6",
+     "posiciones": [
+      10,
+      9,
+      18
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.556
+    },
+    {
+     "partido_id": 1575229,
+     "fecha": "2026-11-21T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SV Elversberg",
+     "visitante": "SC Freiburg",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el SC Freiburg",
+     "cuota": 2.0,
+     "frecuencia": 0.6,
+     "ventaja": 0.1,
+     "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
+     "valor_mercado": -0.01,
+     "posiciones": [
+      7,
+      3,
+      18
+     ],
+     "contexto": "mejor_lejos_arriba",
+     "prob_aprendida": 0.506
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
+       "partido_id": 1551381,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "1. Division",
+       "liga_id": 120,
+       "local": "Vejle",
+       "visitante": "HB Koge",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "HB Koge o empate",
+       "cuota": 2.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.3,
+       "detalle": "Vejle 6/10 · HB Koge 8/10",
+       "valor_mercado": -0.046,
+       "prob_aprendida": 0.556
+      },
+      {
+       "partido_id": 1552233,
+       "fecha": "2026-11-21T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Utrecht",
+       "visitante": "Cambuur",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Cambuur o empate",
+       "cuota": 2.0,
+       "frecuencia": 0.7,
+       "ventaja": 0.2,
+       "detalle": "Utrecht 6/10 · Cambuur 8/10",
+       "valor_mercado": 0.005,
+       "posiciones": [
+        14,
+        10,
+        18
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.521
+      }
+     ],
+     "cuota": 5.0,
+     "titulo": "✈️ SÁBADO DE LOS DE FUERA",
+     "tema": "fuera"
+    },
+    "liga": {
+     "picks": [
+      {
+       "partido_id": 1557468,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Bournemouth",
+       "visitante": "Nottingham Forest",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Bournemouth",
+       "cuota": 2.0,
+       "frecuencia": 0.65,
+       "ventaja": 0.15,
+       "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
+       "valor_mercado": -0.015,
+       "posiciones": [
+        7,
+        16,
+        20
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.659
+      },
+      {
+       "partido_id": 1557476,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Tottenham",
+       "visitante": "Ipswich",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Tottenham 6/10 · Ipswich 7/10",
+       "valor_mercado": -0.016,
+       "posiciones": [
+        11,
+        14,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.584
+      },
+      {
+       "partido_id": 1557470,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Chelsea",
+       "visitante": "Leeds",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "Leeds o empate",
+       "cuota": 1.95,
+       "frecuencia": 0.65,
+       "ventaja": 0.137,
+       "detalle": "Chelsea 6/10 · Leeds 7/10",
+       "valor_mercado": -0.035,
+       "posiciones": [
+        5,
+        9,
+        20
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.544
+      }
+     ],
+     "cuota": 7.02,
+     "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI PREMIER",
+     "liga": "Premier"
+    },
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1575229,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SV Elversberg",
+       "visitante": "SC Freiburg",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
+       "cuota": 1.73,
+       "frecuencia": 0.65,
+       "ventaja": 0.072,
+       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
+       "valor_mercado": 0.012,
+       "posiciones": [
+        7,
+        3,
+        18
+       ],
+       "contexto": "total_lejos_arriba",
+       "prob_aprendida": 0.585
+      },
+      {
+       "partido_id": 1570453,
+       "fecha": "2026-11-21T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Alaves",
+       "visitante": "Deportivo La Coruna",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Alaves–Deportivo La Coruna",
+       "cuota": 1.95,
+       "frecuencia": 0.65,
+       "ventaja": 0.137,
+       "detalle": "Alaves 7/10 · Deportivo La Coruna 6/10",
+       "valor_mercado": 0.043,
+       "prob_xg": 0.499,
+       "xg_esperado": 2.53,
+       "posiciones": [
+        12,
+        9,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.536
+      },
+      {
+       "partido_id": 1552233,
+       "fecha": "2026-11-21T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Utrecht",
+       "visitante": "Cambuur",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Cambuur gana alguna de las dos partes",
+       "cuota": 2.2,
+       "frecuencia": 0.65,
+       "ventaja": 0.195,
+       "detalle": "Utrecht 6/10 · Cambuur 7/10",
+       "valor_mercado": 0.023,
+       "posiciones": [
+        14,
+        10,
+        18
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.469
+      }
+     ],
+     "cuota": 7.42
+    }
+   },
    "combis_partido": []
   }
  }

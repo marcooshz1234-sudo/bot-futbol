@@ -1,10 +1,10 @@
 # Portugal – Denmark
 **Nations League** · League A - 5 · 14/11/2026 20:45 (hora España) · Estádio Municipal de Braga
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:59_
 
 - **1X2:** 1 **1.50**  ·  X **4.75**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.18**  ·  X2 **2.50**
@@ -12,9 +12,9 @@ _Actualizadas: 13/11 08:22_
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
+    - 3,5: más **2.25** · menos **1.57**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13 14:15",
+ "generado": "2026-11-13 20:08",
  "picks_usados": 565,
  "aciertos": 352,
  "prometido_medio": 0.702,
@@ -693,9 +693,9 @@
    "cuota_implicita": 0.692
   },
   "Total - Home|Over 0.5": {
-   "ajuste": -0.0277,
-   "n": 39,
-   "aciertos": 26,
+   "ajuste": -0.0204,
+   "n": 40,
+   "aciertos": 27,
    "cuota_implicita": 0.708
   },
   "Player Shots On Target Total": {
@@ -3556,6 +3556,11 @@
   },
   "equipo|Montenegro|Total|Over 1.5": {
    "ajuste": 0.0365,
+   "n": 1,
+   "aciertos": 1
+  },
+  "equipo|Moldova|Total|Over 0.5": {
+   "ajuste": 0.0317,
    "n": 1,
    "aciertos": 1
   },

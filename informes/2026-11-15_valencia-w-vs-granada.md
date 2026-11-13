@@ -1,10 +1,27 @@
 # Valencia W – Granada
 **Liga F** · Regular Season - 11 · 15/11/2026 18:15 (hora España) · Estadio Antonio Puchades
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 19:59_
+
+- **1X2:** 1 **2.80**  ·  X **3.10**  ·  2 **2.25**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **9.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.08** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.10**  ·  2 **2.88**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Valencia W (total) | Valencia W en casa | Granada (total) | Granada fuera |
@@ -99,4 +116,23 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,92 · visitante 1,11._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 40% | 40% | 40% | 2.25 | -11% |
+| 1X2: X | 30% | 29% | 30% | 3.10 | -8% |
+| 1X2: 1 | 30% | 32% | 31% | 2.80 | -13% |
+| Ambos marcan: No | 60% | 50% | 55% | 1.83 | +0% |
+| Ambos marcan: Sí | 40% | 50% | 45% | 1.83 | -17% |
+| Goles más/menos: Más de 1.5 | 60% | 71% | 66% | 1.33 | -13% |
+| Goles más/menos: Más de 2.5 | 33% | 45% | 39% | 2.08 | -18% |
+| Goles más/menos: Más de 3.5 | 15% | 25% | 20% | 3.75 | -25% |
+| Goles más/menos: Menos de 1.5 | 40% | 29% | 34% | 3.25 | +12% |
+| Goles más/menos: Menos de 2.5 | 67% | 55% | 61% | 1.73 | +5% |
+| Goles más/menos: Menos de 3.5 | 85% | 75% | 80% | 1.25 | +0% |
+| 1X2 descanso: 2 | 28% | 31% | 30% | 2.88 | -15% |
+| 1X2 descanso: X | 50% | 43% | 46% | 2.10 | -3% |
+| 1X2 descanso: 1 | 22% | 26% | 24% | 3.40 | -17% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Latvia – Armenia
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España) · Skonto
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

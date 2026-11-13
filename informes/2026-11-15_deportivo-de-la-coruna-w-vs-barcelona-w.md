@@ -1,10 +1,29 @@
 # Deportivo de La Coruña W – Barcelona W
 **Liga F** · Regular Season - 11 · 15/11/2026 18:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 19:59_
+
+- **1X2:** 1 **51.00**  ·  X **19.00**  ·  2 **1.02**
+- **Ambos marcan:** Sí **6.00**  ·  No **1.11**
+- **Goles más/menos:**
+    - 1,5: más **1.05** · menos **8.50**
+    - 2,5: más **1.17** · menos **4.50**
+    - 3,5: más **1.44** · menos **2.62**
+    - 4,5: más **2.00** · menos **1.73**
+    - 5,5: más **3.25** · menos **1.33**
+    - 6,5: más **5.00** · menos **1.14**
+    - 7,5: más **8.00** · menos **1.06**
+- **1X2 descanso:** 1 **51.00**  ·  X **6.00**  ·  2 **1.12**
+- **Both Teams Score - First Half:** Sí **15.00**  ·  No **1.03**
+- **Both Teams To Score - Second Half:** Sí **11.00**  ·  No **1.05**
+- **To Win Either Half:** 1 **29.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **67.00**  ·  2 **1.25**
+- **Win Both Halves:** 2 **1.30**
+- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **29.00**  ·  Away/Yes **6.00**  ·  Home/No **67.00**  ·  Draw/No **26.00**  ·  Away/No **1.14**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **6.00**  ·  o/no 2.5 **1.36**  ·  u/yes 2.5 **51.00**  ·  u/no 2.5 **4.75**
 
 ## Estadísticas de equipo
 | | Deportivo de La Coruña W (total) | Deportivo de La Coruña W en casa | Barcelona W (total) | Barcelona W fuera |
@@ -101,4 +120,22 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,52 · visitante 3,55._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 91% | 93% | 92% | 1.02 | -6% |
+| 1X2: X | 7% | 5% | 6% | 19.00 | +10% |
+| 1X2: 1 | 2% | 2% | 2% | 51.00 | +10% |
+| Ambos marcan: No | 61% | 84% | 73% | 1.11 | -19% |
+| Ambos marcan: Sí | 39% | 16% | 27% | 6.00 | +65% |
+| Goles más/menos: Más de 2.5 | 77% | 79% | 78% | 1.17 | -8% |
+| Goles más/menos: Más de 3.5 | 58% | 65% | 61% | 1.44 | -12% |
+| Goles más/menos: Más de 4.5 | 39% | 46% | 42% | 2.00 | -15% |
+| Goles más/menos: Más de 5.5 | 23% | 29% | 26% | 3.25 | -16% |
+| Goles más/menos: Menos de 2.5 | 23% | 21% | 22% | 4.50 | -2% |
+| Goles más/menos: Menos de 3.5 | 42% | 35% | 39% | 2.62 | +1% |
+| Goles más/menos: Menos de 4.5 | 61% | 54% | 58% | 1.73 | -0% |
+| Goles más/menos: Menos de 5.5 | 77% | 71% | 74% | 1.33 | -1% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

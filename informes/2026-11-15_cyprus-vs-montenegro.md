@@ -1,10 +1,23 @@
 # Cyprus – Montenegro
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España) · Alphamega Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 19:59_
+
+- **1X2:** 1 **3.10**  ·  X **3.20**  ·  2 **2.30**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.70**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **8.50**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
 
 ## Estadísticas de equipo
 | | Cyprus (total) | Cyprus en casa | Montenegro (total) | Montenegro fuera |
@@ -137,4 +150,20 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,40 · visitante 1,76 · córners esperados 9,5._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 46% | 41% | 43% | 2.30 | -0% |
+| 1X2: X | 23% | 29% | 26% | 3.20 | -16% |
+| 1X2: 1 | 31% | 30% | 30% | 3.10 | -6% |
+| Ambos marcan: No | 38% | 50% | 44% | 1.83 | -20% |
+| Ambos marcan: Sí | 62% | 50% | 56% | 1.83 | +3% |
+| Goles más/menos: Más de 1.5 | 82% | 69% | 76% | 1.36 | +3% |
+| Goles más/menos: Más de 2.5 | 61% | 45% | 53% | 2.10 | +11% |
+| Goles más/menos: Más de 3.5 | 39% | 25% | 32% | 3.75 | +20% |
+| Goles más/menos: Menos de 1.5 | 18% | 31% | 24% | 3.00 | -27% |
+| Goles más/menos: Menos de 2.5 | 39% | 55% | 47% | 1.70 | -20% |
+| Goles más/menos: Menos de 3.5 | 61% | 75% | 68% | 1.25 | -15% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

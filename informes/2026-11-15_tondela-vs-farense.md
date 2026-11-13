@@ -1,20 +1,20 @@
 # Tondela – Farense
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Estádio João Cardoso
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:59_
 
 - **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.10** · menos **1.70**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
@@ -29,7 +29,7 @@ _Actualizadas: 13/11 08:22_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.88** · menos **1.92**
 - **Córners 1X2:** 1 **1.80**  ·  X **8.00**  ·  2 **2.38**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
@@ -188,12 +188,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 70% | 73% | 71% | 1.30 | -8% |
 | Ambos marcan: No | 45% | 49% | 47% | 1.91 | -10% |
 | Ambos marcan: Sí | 55% | 51% | 53% | 1.80 | -4% |
-| Goles más/menos: Más de 1.5 | 75% | 72% | 74% | 1.30 | -4% |
-| Goles más/menos: Más de 2.5 | 51% | 47% | 49% | 2.00 | -2% |
-| Goles más/menos: Más de 3.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 1.5 | 25% | 28% | 26% | 3.40 | -11% |
-| Goles más/menos: Menos de 2.5 | 49% | 53% | 51% | 1.80 | -9% |
-| Goles más/menos: Menos de 3.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Goles más/menos: Más de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
+| Goles más/menos: Más de 2.5 | 51% | 45% | 48% | 2.10 | +1% |
+| Goles más/menos: Más de 3.5 | 29% | 25% | 27% | 3.75 | +1% |
+| Goles más/menos: Menos de 1.5 | 25% | 29% | 27% | 3.25 | -13% |
+| Goles más/menos: Menos de 2.5 | 49% | 55% | 52% | 1.70 | -11% |
+| Goles más/menos: Menos de 3.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -12% |
@@ -206,8 +206,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles del visitante: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 1.5 | 66% | 69% | 67% | 1.36 | -8% |
-| Córners más/menos: Más de 9.5 | 29% | 50% | 40% | 1.83 | -28% |
-| Córners más/menos: Menos de 9.5 | 71% | 50% | 60% | 1.83 | +11% |
+| Córners más/menos: Más de 9.5 | 29% | 51% | 40% | 1.88 | -25% |
+| Córners más/menos: Menos de 9.5 | 71% | 49% | 60% | 1.92 | +16% |
 | 1X2 descanso: 2 | 25% | 24% | 25% | 3.75 | -8% |
 | 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -10% |
 | 1X2 descanso: 1 | 33% | 32% | 33% | 2.88 | -6% |

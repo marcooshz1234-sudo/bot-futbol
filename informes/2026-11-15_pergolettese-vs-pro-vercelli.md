@@ -1,13 +1,13 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:23_
+_Actualizadas: 13/11 19:59_
 
 - **1X2:** 1 **2.15**  ·  X **3.20**  ·  2 **3.00**
-- **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.70**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **8.00**
@@ -144,9 +144,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 23% | 30% | 26% | 3.00 | -21% |
 | 1X2: X | 26% | 28% | 27% | 3.20 | -14% |
 | 1X2: 1 | 52% | 42% | 47% | 2.15 | +1% |
-| Doble oportunidad: X2 | 48% | 54% | 51% | 1.70 | -13% |
-| Doble oportunidad: 12 | 74% | 73% | 74% | 1.25 | -8% |
-| Doble oportunidad: 1X | 77% | 73% | 75% | 1.25 | -6% |
+| Doble oportunidad: X2 | 48% | 58% | 53% | 1.57 | -17% |
+| Doble oportunidad: 12 | 74% | 71% | 73% | 1.28 | -7% |
+| Doble oportunidad: 1X | 77% | 70% | 74% | 1.30 | -4% |
 | Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
 | Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |

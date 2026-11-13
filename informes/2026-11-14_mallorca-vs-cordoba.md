@@ -1,12 +1,12 @@
 # Mallorca – Cordoba
 **Segunda División** · Regular Season - 14 · 14/11/2026 18:30 (hora España) · Estadi Mallorca Son Moix
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:59_
 
-- **1X2:** 1 **1.91**  ·  X **3.75**  ·  2 **3.70**
+- **1X2:** 1 **1.95**  ·  X **3.70**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
@@ -192,9 +192,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 23% | 25% | 24% | 3.70 | -9% |
-| 1X2: X | 24% | 25% | 24% | 3.75 | -9% |
-| 1X2: 1 | 53% | 49% | 51% | 1.91 | -2% |
+| 1X2: 2 | 23% | 26% | 25% | 3.60 | -11% |
+| 1X2: X | 24% | 25% | 25% | 3.70 | -9% |
+| 1X2: 1 | 53% | 48% | 51% | 1.95 | -1% |
 | Doble oportunidad: X2 | 47% | 51% | 49% | 1.83 | -10% |
 | Doble oportunidad: 12 | 76% | 75% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 77% | 73% | 75% | 1.28 | -4% |

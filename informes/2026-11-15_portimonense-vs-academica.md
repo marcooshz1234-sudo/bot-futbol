@@ -1,10 +1,10 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España) · Estádio Municipal de Portimão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:59_
 
 - **1X2:** 1 **2.15**  ·  X **3.10**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.62**
@@ -183,7 +183,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 41% | 29% | 35% | 3.10 | +9% |
 | 1X2: X | 30% | 29% | 29% | 3.10 | -9% |
-| 1X2: 1 | 29% | 42% | 36% | 2.15 | -24% |
+| 1X2: 1 | 29% | 42% | 36% | 2.15 | -23% |
 | Doble oportunidad: X2 | 71% | 58% | 64% | 1.62 | +4% |
 | Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 59% | 71% | 65% | 1.33 | -14% |
@@ -193,7 +193,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 35% | 45% | 40% | 2.08 | -16% |
 | Goles más/menos: Más de 3.5 | 16% | 25% | 21% | 3.75 | -23% |
 | Goles más/menos: Menos de 1.5 | 38% | 29% | 34% | 3.25 | +9% |
-| Goles más/menos: Menos de 2.5 | 65% | 55% | 60% | 1.73 | +4% |
+| Goles más/menos: Menos de 2.5 | 65% | 55% | 60% | 1.73 | +3% |
 | Goles más/menos: Menos de 3.5 | 84% | 75% | 79% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 29% | 26% | 3.25 | -15% |

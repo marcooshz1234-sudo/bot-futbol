@@ -1,45 +1,45 @@
 # Albinoleffe – Union Brescia
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · AlbinoLeffe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:58_
 
 - **1X2:** 1 **4.10**  ·  X **3.40**  ·  2 **1.73**
-- **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.12**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.25**  ·  X2 **1.17**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.00** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **6.50** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.62** · menos **2.20**
-    - 1,5: más **3.75** · menos **1.25**
+    - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **9.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **4.50**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **7.00** · menos **1.08**
-- **1X2 descanso:** 1 **5.00**  ·  X **2.20**  ·  2 **2.20**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **7.50** · menos **1.07**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.20**  ·  2 **2.30**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **2.75**  ·  2 **1.40**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.75**
-- **Win Both Halves:** 1 **21.00**  ·  2 **4.50**
-- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **8.00**  ·  Draw/No **10.00**  ·  Away/No **2.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.30**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **3.00**
+- **Win Both Halves:** 1 **19.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **4.00**  ·  Home/No **8.00**  ·  Draw/No **10.00**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Albinoleffe (total) | Albinoleffe en casa | Union Brescia (total) | Union Brescia fuera |
@@ -130,7 +130,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 2,06._
+_Goles esperados: local 1,24 · visitante 2,06._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -139,32 +139,32 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 56% | 52% | 54% | 1.73 | -6% |
 | 1X2: X | 21% | 26% | 24% | 3.40 | -19% |
 | 1X2: 1 | 22% | 22% | 22% | 4.10 | -9% |
-| Doble oportunidad: X2 | 78% | 82% | 80% | 1.12 | -11% |
-| Doble oportunidad: 12 | 79% | 75% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 44% | 44% | 44% | 2.10 | -9% |
-| Ambos marcan: No | 38% | 51% | 45% | 1.80 | -19% |
-| Ambos marcan: Sí | 62% | 49% | 55% | 1.91 | +5% |
+| Doble oportunidad: X2 | 78% | 78% | 78% | 1.17 | -9% |
+| Doble oportunidad: 12 | 79% | 73% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 44% | 48% | 46% | 1.91 | -12% |
+| Ambos marcan: No | 38% | 50% | 44% | 1.83 | -19% |
+| Ambos marcan: Sí | 62% | 50% | 56% | 1.83 | +2% |
 | Goles más/menos: Más de 1.5 | 84% | 73% | 79% | 1.28 | +1% |
 | Goles más/menos: Más de 2.5 | 64% | 49% | 56% | 1.95 | +10% |
 | Goles más/menos: Más de 3.5 | 42% | 28% | 35% | 3.40 | +18% |
 | Goles más/menos: Menos de 1.5 | 16% | 27% | 21% | 3.50 | -25% |
 | Goles más/menos: Menos de 2.5 | 36% | 51% | 44% | 1.85 | -19% |
 | Goles más/menos: Menos de 3.5 | 58% | 72% | 65% | 1.30 | -15% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 69% | 73% | 1.36 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 76% | 66% | 71% | 1.40 | -0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 42% | 34% | 38% | 2.75 | +4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 31% | 27% | 3.00 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 34% | 29% | 2.75 | -21% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 66% | 62% | 1.40 | -13% |
 | Goles del local: Más de 0.5 | 71% | 58% | 64% | 1.62 | +4% |
-| Goles del local: Más de 1.5 | 35% | 25% | 30% | 3.75 | +12% |
+| Goles del local: Más de 1.5 | 35% | 23% | 29% | 4.00 | +17% |
 | Goles del local: Menos de 0.5 | 29% | 42% | 36% | 2.20 | -21% |
-| Goles del local: Menos de 1.5 | 65% | 75% | 70% | 1.25 | -12% |
+| Goles del local: Menos de 1.5 | 65% | 77% | 71% | 1.22 | -14% |
 | Goles del visitante: Más de 0.5 | 87% | 79% | 83% | 1.17 | -3% |
-| Goles del visitante: Más de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
-| Goles del visitante: Más de 2.5 | 34% | 27% | 30% | 3.50 | +6% |
+| Goles del visitante: Más de 1.5 | 61% | 50% | 56% | 1.83 | +2% |
+| Goles del visitante: Más de 2.5 | 34% | 25% | 30% | 3.75 | +11% |
 | Goles del visitante: Menos de 0.5 | 13% | 21% | 17% | 4.50 | -25% |
-| Goles del visitante: Menos de 1.5 | 39% | 49% | 44% | 1.91 | -16% |
-| Goles del visitante: Menos de 2.5 | 66% | 73% | 70% | 1.28 | -11% |
-| 1X2 descanso: 2 | 42% | 41% | 42% | 2.20 | -8% |
+| Goles del visitante: Menos de 1.5 | 39% | 50% | 44% | 1.83 | -19% |
+| Goles del visitante: Menos de 2.5 | 66% | 75% | 70% | 1.25 | -12% |
+| 1X2 descanso: 2 | 42% | 39% | 41% | 2.30 | -6% |
 | 1X2 descanso: X | 37% | 41% | 39% | 2.20 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

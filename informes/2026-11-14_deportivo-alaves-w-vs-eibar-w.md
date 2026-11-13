@@ -1,10 +1,31 @@
 # Deportivo Alavés W – Eibar W
 **Liga F** · Regular Season - 11 · 14/11/2026 18:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 19:58_
+
+- **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.80**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.20** · menos **1.65**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **7.50** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.50** · menos **1.07**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.05**  ·  2 **3.50**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **5.00**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.05**
 
 ## Estadísticas de equipo
 | | Deportivo Alavés W (total) | Deportivo Alavés W en casa | Eibar W (total) | Eibar W fuera |
@@ -97,4 +118,27 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,77 · visitante 0,77._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 32% | 32% | 32% | 2.80 | -11% |
+| 1X2: X | 36% | 28% | 32% | 3.20 | +2% |
+| 1X2: 1 | 32% | 40% | 36% | 2.20 | -21% |
+| Ambos marcan: No | 71% | 54% | 62% | 1.73 | +8% |
+| Ambos marcan: Sí | 29% | 46% | 38% | 2.00 | -25% |
+| Goles más/menos: Más de 1.5 | 46% | 69% | 57% | 1.36 | -22% |
+| Goles más/menos: Más de 2.5 | 20% | 43% | 32% | 2.20 | -31% |
+| Goles más/menos: Más de 3.5 | 7% | 23% | 15% | 4.00 | -39% |
+| Goles más/menos: Menos de 1.5 | 54% | 31% | 43% | 3.00 | +28% |
+| Goles más/menos: Menos de 2.5 | 80% | 57% | 68% | 1.65 | +13% |
+| Goles más/menos: Menos de 3.5 | 93% | 77% | 85% | 1.22 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 49% | 65% | 57% | 1.44 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 15% | 31% | 23% | 3.00 | -31% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 51% | 35% | 43% | 2.62 | +13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 85% | 69% | 77% | 1.36 | +5% |
+| 1X2 descanso: 2 | 22% | 25% | 24% | 3.50 | -18% |
+| 1X2 descanso: X | 57% | 44% | 50% | 2.05 | +3% |
+| 1X2 descanso: 1 | 21% | 31% | 26% | 2.88 | -25% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

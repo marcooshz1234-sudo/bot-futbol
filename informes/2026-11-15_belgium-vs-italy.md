@@ -1,25 +1,24 @@
 # Belgium – Italy
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Roi Baudouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:23_
+_Actualizadas: 13/11 19:59_
 
-- **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.20**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.67**
-- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **1X2:** 1 **2.10**  ·  X **3.90**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **6.00** · menos **1.12**
-    - 5,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
@@ -29,19 +28,30 @@ _Actualizadas: 13/11 08:23_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
-- **1X2 descanso:** 1 **2.75**  ·  X **2.25**  ·  2 **3.60**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.38**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.62**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **4.00**
-- **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **13.00**  ·  Away/No **6.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.57**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.75**
+- **Win Both Halves:** 1 **6.50**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **15.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Total Shots:**
+    - 27,5: más **1.83** · menos **1.83**
+- **Away Player Shots On Target Total:** Brandon Mechele **19.00**  ·  Hans Vanaken **15.00**  ·  Joaquin Seys **41.00**  ·  Maxim De Cuyper **41.00**  ·  Dodi Lukebakio **41.00**  ·  Nicolo Fagioli **67.00**  ·  Jeremy Doku **34.00**  ·  Niccolo Pisilli **51.00**  ·  Pio Esposito **7.00**  ·  Luca Koleosho **34.00**  ·  Diego Moreira **41.00**  ·  Kyriani Sabbe **15.00**  ·  Nathan Ngoy **19.00**  ·  Daniele Ghilardi **21.00**  ·  Romelu Lukaku **7.50**  ·  Issa Doumbia **41.00**  ·  Antonio Vergara **21.00**  ·  Mika Godts **41.00**  ·  Romeo Lavia **15.00**  ·  Alphadjo Cisse **23.00**  ·  Nicolo Barella **67.00**  ·  Nicolas Raskin **23.00**  ·  Nicolo Zaniolo **15.00**  ·  Nicolo Cambiaghi **51.00**  ·  Giorgio Scalvini **17.00**  ·  Hugo Cuypers **5.50**  ·  Mattia Liberali **29.00**  ·  Kevin De Bruyne **34.00**  ·  Leandro Trossard **34.00**  ·  Riccardo Calafiori **21.00**  ·  Youri Tielemans **34.00**  ·  Sandro Tonali **81.00**  ·  Josue Kongolo **26.00**  ·  Michael Kayode **81.00**  ·  Arthur Theate **21.00**  ·  Mandela Keita **51.00**  ·  Sebastiano Esposito **17.00**  ·  Alessandro Bastoni **26.00**  ·  Davide Frattesi **26.00**  ·  Federico Dimarco **81.00**  ·  Samuele Ricci **81.00**  ·  Charles De Ketelaere **9.50**  ·  Honest Ahanor **26.00**  ·  Marco Palestra **41.00**  ·  Timothy Castagne **51.00**  ·  Matteo Palma **17.00**  ·  Alessandro Romano **41.00**  ·  Gianluca Scamacca **15.00**
+- **Away Player Shots Total:**
+    - 12,5: más **1.83** · menos **1.83**
+- **Home Player Shots:** Hans Vanaken - 1 **1.14**  ·  Kyriani Sabbe - 1 **1.80**  ·  Brandon Mechele - 1 **2.38**  ·  Joaquin Seys - 1 **1.80**  ·  Hans Vanaken - 2 **1.62**  ·  Kyriani Sabbe - 2 **4.33**  ·  Brandon Mechele - 2 **8.00**  ·  Joaquin Seys - 2 **4.33**  ·  Hans Vanaken - 3 **2.75**  ·  Kyriani Sabbe - 3 **13.00**  ·  Brandon Mechele - 3 **21.00**  ·  Joaquin Seys - 3 **13.00**  ·  Hans Vanaken - 4 **5.50**  ·  Hans Vanaken - 5 **13.00**  ·  Hans Vanaken - 6 **21.00**  ·  Arthur Theate - 1 **2.38**  ·  Arthur Theate - 2 **8.00**  ·  Arthur Theate - 3 **21.00**  ·  Romelu Lukaku - 1 **1.02**  ·  Romelu Lukaku - 2 **1.17**  ·  Romelu Lukaku - 3 **1.50**  ·  Romelu Lukaku - 4 **2.20**  ·  Romelu Lukaku - 5 **3.50**  ·  Romelu Lukaku - 6 **6.50**  ·  Romelu Lukaku - 7 **13.00**  ·  Romelu Lukaku - 8 **21.00**  ·  Leandro Trossard - 1 **1.10**  ·  Leandro Trossard - 2 **1.44**  ·  Leandro Trossard - 3 **2.25**  ·  Leandro Trossard - 4 **4.00**  ·  Leandro Trossard - 5 **9.00**  ·  Leandro Trossard - 6 **17.00**  ·  Mika Godts - 1 **1.14**  ·  Nathan Ngoy - 1 **2.38**  ·  Mika Godts - 2 **1.62**  ·  Nathan Ngoy - 2 **8.00**  ·  Mika Godts - 3 **2.75**  ·  Nathan Ngoy - 3 **21.00**  ·  Mika Godts - 4 **5.50**  ·  Mika Godts - 5 **13.00**  ·  Mika Godts - 6 **21.00**  ·  Dodi Lukebakio - 1 **1.08**  ·  Dodi Lukebakio - 2 **1.40**  ·  Dodi Lukebakio - 3 **2.20**  ·  Dodi Lukebakio - 4 **3.75**  ·  Dodi Lukebakio - 5 **8.00**  ·  Dodi Lukebakio - 6 **17.00**  ·  Maxim De Cuyper - 1 **1.33**  ·  Romeo Lavia - 1 **1.40**  ·  Maxim De Cuyper - 2 **2.38**  ·  Romeo Lavia - 2 **2.62**  ·  Maxim De Cuyper - 3 **5.50**  ·  Romeo Lavia - 3 **6.00**  ·  Maxim De Cuyper - 4 **13.00**  ·  Romeo Lavia - 4 **15.00**  ·  Youri Tielemans - 1 **1.20**  ·  Youri Tielemans - 2 **1.83**  ·  Youri Tielemans - 3 **3.50**  ·  Youri Tielemans - 4 **8.00**  ·  Youri Tielemans - 5 **17.00**  ·  Timothy Castagne - 1 **2.38**  ·  Timothy Castagne - 2 **8.00**  ·  Timothy Castagne - 3 **21.00**  ·  Jeremy Doku - 1 **1.11**  ·  Jeremy Doku - 2 **1.53**  ·  Jeremy Doku - 3 **2.50**  ·  Jeremy Doku - 4 **4.50**  ·  Jeremy Doku - 5 **10.00**  ·  Jeremy Doku - 6 **21.00**  ·  Kevin De Bruyne - 1 **1.03**  ·  Kevin De Bruyne - 2 **1.18**  ·  Kevin De Bruyne - 3 **1.53**  ·  Kevin De Bruyne - 4 **2.25**  ·  Kevin De Bruyne - 5 **3.75**  ·  Kevin De Bruyne - 6 **7.00**  ·  Mandela Keita - 1 **1.67**  ·  Mandela Keita - 2 **4.00**  ·  Mandela Keita - 3 **11.00**  ·  Charles De Ketelaere - 1 **1.03**  ·  Charles De Ketelaere - 2 **1.20**  ·  Charles De Ketelaere - 3 **1.62**  ·  Charles De Ketelaere - 4 **2.50**  ·  Charles De Ketelaere - 5 **4.00**  ·  Charles De Ketelaere - 6 **8.00**  ·  Charles De Ketelaere - 7 **15.00**  ·  Diego Moreira - 1 **1.08**  ·  Diego Moreira - 2 **1.40**  ·  Diego Moreira - 3 **2.20**  ·  Diego Moreira - 4 **3.75**  ·  Diego Moreira - 5 **8.00**  ·  Diego Moreira - 6 **17.00**  ·  Hugo Cuypers - 2 **1.17**  ·  Hugo Cuypers - 3 **1.50**  ·  Hugo Cuypers - 4 **2.20**  ·  Hugo Cuypers - 5 **3.50**  ·  Hugo Cuypers - 6 **6.50**  ·  Hugo Cuypers - 7 **13.00**  ·  Hugo Cuypers - 8 **21.00**  ·  Hugo Cuypers - 1 **1.02**  ·  Nicolas Raskin - 1 **1.62**  ·  Nicolas Raskin - 2 **3.75**  ·  Nicolas Raskin - 3 **10.00**  ·  Nicolas Raskin - 4 **21.00**  ·  Charles De Ketelaere - 8 **21.00**  ·  Kevin De Bruyne - 7 **13.00**  ·  Kevin De Bruyne - 8 **21.00**  ·  Josue Kongolo - 1 **2.00**  ·  Josue Kongolo - 2 **5.50**  ·  Josue Kongolo - 3 **17.00**
+- **Away Player Shots:** Luca Koleosho - 1 **1.14**  ·  Luca Koleosho - 2 **1.67**  ·  Luca Koleosho - 3 **2.75**  ·  Luca Koleosho - 4 **6.00**  ·  Luca Koleosho - 5 **13.00**  ·  Issa Doumbia - 1 **1.53**  ·  Issa Doumbia - 2 **3.40**  ·  Issa Doumbia - 3 **9.00**  ·  Issa Doumbia - 4 **21.00**  ·  Michael Kayode - 1 **2.38**  ·  Michael Kayode - 2 **8.00**  ·  Michael Kayode - 3 **21.00**  ·  Sandro Tonali - 1 **1.50**  ·  Sandro Tonali - 2 **3.25**  ·  Sandro Tonali - 3 **8.00**  ·  Sandro Tonali - 4 **21.00**  ·  Marco Palestra - 1 **1.67**  ·  Marco Palestra - 2 **4.00**  ·  Marco Palestra - 3 **11.00**  ·  Riccardo Calafiori - 1 **1.73**  ·  Riccardo Calafiori - 2 **4.33**  ·  Riccardo Calafiori - 3 **13.00**  ·  Antonio Vergara - 1 **1.17**  ·  Mattia Liberali - 1 **1.25**  ·  Antonio Vergara - 2 **1.80**  ·  Mattia Liberali - 2 **2.10**  ·  Antonio Vergara - 3 **3.25**  ·  Mattia Liberali - 3 **4.33**  ·  Antonio Vergara - 4 **7.00**  ·  Mattia Liberali - 4 **10.00**  ·  Antonio Vergara - 5 **15.00**  ·  Mattia Liberali - 5 **21.00**  ·  Davide Frattesi - 1 **1.18**  ·  Davide Frattesi - 2 **1.80**  ·  Davide Frattesi - 3 **3.40**  ·  Davide Frattesi - 4 **7.00**  ·  Davide Frattesi - 5 **15.00**  ·  Nicolo Zaniolo - 1 **1.10**  ·  Matteo Palma - 1 **2.00**  ·  Nicolo Zaniolo - 2 **1.44**  ·  Matteo Palma - 2 **5.50**  ·  Nicolo Zaniolo - 3 **2.25**  ·  Matteo Palma - 3 **19.00**  ·  Nicolo Zaniolo - 4 **4.00**  ·  Nicolo Zaniolo - 5 **9.00**  ·  Nicolo Zaniolo - 6 **17.00**  ·  Nicolo Fagioli - 1 **1.53**  ·  Nicolo Fagioli - 2 **3.40**  ·  Nicolo Fagioli - 3 **9.00**  ·  Nicolo Fagioli - 4 **21.00**  ·  Niccolo Pisilli - 1 **1.33**  ·  Daniele Ghilardi - 1 **2.38**  ·  Niccolo Pisilli - 2 **2.38**  ·  Daniele Ghilardi - 2 **8.00**  ·  Niccolo Pisilli - 3 **5.50**  ·  Daniele Ghilardi - 3 **21.00**  ·  Niccolo Pisilli - 4 **13.00**  ·  Niccolo Pisilli - 5 **21.00**  ·  Gianluca Scamacca - 1 **1.05**  ·  Nicolo Cambiaghi - 1 **1.25**  ·  Giorgio Scalvini - 1 **2.00**  ·  Honest Ahanor - 1 **2.38**  ·  Gianluca Scamacca - 2 **1.30**  ·  Nicolo Cambiaghi - 2 **2.10**  ·  Giorgio Scalvini - 2 **5.50**  ·  Honest Ahanor - 2 **8.00**  ·  Gianluca Scamacca - 3 **1.83**  ·  Nicolo Cambiaghi - 3 **4.33**  ·  Giorgio Scalvini - 3 **19.00**  ·  Honest Ahanor - 3 **21.00**  ·  Gianluca Scamacca - 4 **3.00**  ·  Nicolo Cambiaghi - 4 **10.00**  ·  Gianluca Scamacca - 5 **5.50**  ·  Nicolo Cambiaghi - 5 **21.00**  ·  Gianluca Scamacca - 6 **11.00**  ·  Gianluca Scamacca - 7 **21.00**  ·  Pio Esposito - 1 **1.04**  ·  Federico Dimarco - 1 **1.40**  ·  Sebastiano Esposito - 1 **1.07**  ·  Nicolo Barella - 1 **1.36**  ·  Alessandro Bastoni - 1 **2.38**  ·  Alessandro Romano - 1 **1.36**  ·  Pio Esposito - 2 **1.25**  ·  Federico Dimarco - 2 **2.62**  ·  Sebastiano Esposito - 2 **1.36**  ·  Nicolo Barella - 2 **2.62**  ·  Alessandro Bastoni - 2 **8.00**  ·  Alessandro Romano - 2 **2.62**  ·  Pio Esposito - 3 **1.73**  ·  Federico Dimarco - 3 **6.50**  ·  Sebastiano Esposito - 3 **2.00**  ·  Nicolo Barella - 3 **6.00**  ·  Alessandro Bastoni - 3 **21.00**  ·  Alessandro Romano - 3 **6.00**  ·  Pio Esposito - 4 **2.75**  ·  Federico Dimarco - 4 **17.00**  ·  Sebastiano Esposito - 4 **3.50**  ·  Nicolo Barella - 4 **15.00**  ·  Alessandro Romano - 4 **15.00**  ·  Pio Esposito - 5 **5.00**  ·  Sebastiano Esposito - 5 **7.00**  ·  Pio Esposito - 6 **10.00**  ·  Sebastiano Esposito - 6 **15.00**  ·  Pio Esposito - 7 **19.00**  ·  Alphadjo Cisse - 1 **1.11**  ·  Samuele Ricci - 1 **1.67**  ·  Alphadjo Cisse - 2 **1.53**  ·  Samuele Ricci - 2 **4.00**  ·  Alphadjo Cisse - 3 **2.50**  ·  Samuele Ricci - 3 **11.00**  ·  Alphadjo Cisse - 4 **4.50**  ·  Alphadjo Cisse - 5 **10.00**  ·  Alphadjo Cisse - 6 **21.00**  ·  Luca Koleosho - 6 **21.00**  ·  Davide Frattesi - 6 **21.00**  ·  Alessandro Romano - 5 **21.00**  ·  Sebastiano Esposito - 7 **21.00**
+- **Player Fouls Committed:** Luca Koleosho - 1 **1.12**  ·  Luca Koleosho - 2 **1.62**  ·  Luca Koleosho - 3 **2.75**  ·  Luca Koleosho - 4 **6.00**  ·  Luca Koleosho - 5 **13.00**  ·  Issa Doumbia - 1 **1.30**  ·  Issa Doumbia - 2 **2.38**  ·  Issa Doumbia - 3 **5.50**  ·  Issa Doumbia - 4 **15.00**  ·  Hans Vanaken - 1 **1.50**  ·  Kyriani Sabbe - 1 **1.53**  ·  Brandon Mechele - 1 **1.67**  ·  Joaquin Seys - 1 **1.83**  ·  Hans Vanaken - 2 **3.40**  ·  Kyriani Sabbe - 2 **3.50**  ·  Brandon Mechele - 2 **4.00**  ·  Joaquin Seys - 2 **5.00**  ·  Hans Vanaken - 3 **9.00**  ·  Kyriani Sabbe - 3 **10.00**  ·  Brandon Mechele - 3 **13.00**  ·  Joaquin Seys - 3 **17.00**  ·  Hans Vanaken - 4 **23.00**  ·  Kyriani Sabbe - 4 **26.00**  ·  Michael Kayode - 1 **1.36**  ·  Michael Kayode - 2 **2.62**  ·  Michael Kayode - 3 **6.50**  ·  Arthur Theate - 1 **1.83**  ·  Arthur Theate - 2 **5.00**  ·  Arthur Theate - 3 **17.00**  ·  Romelu Lukaku - 1 **1.53**  ·  Romelu Lukaku - 2 **3.50**  ·  Romelu Lukaku - 3 **10.00**  ·  Romelu Lukaku - 4 **26.00**  ·  Leandro Trossard - 1 **1.62**  ·  Leandro Trossard - 2 **3.75**  ·  Leandro Trossard - 3 **11.00**  ·  Mika Godts - 1 **1.53**  ·  Nathan Ngoy - 1 **1.50**  ·  Mika Godts - 2 **3.50**  ·  Nathan Ngoy - 2 **3.40**  ·  Mika Godts - 3 **10.00**  ·  Nathan Ngoy - 3 **9.00**  ·  Mika Godts - 4 **26.00**  ·  Dodi Lukebakio - 1 **1.28**  ·  Dodi Lukebakio - 2 **2.25**  ·  Dodi Lukebakio - 3 **5.00**  ·  Dodi Lukebakio - 4 **13.00**  ·  Sandro Tonali - 1 **1.40**  ·  Sandro Tonali - 2 **2.75**  ·  Sandro Tonali - 3 **7.00**  ·  Sandro Tonali - 4 **19.00**  ·  Maxim De Cuyper - 1 **1.40**  ·  Marco Palestra - 1 **1.14**  ·  Romeo Lavia - 1 **1.25**  ·  Maxim De Cuyper - 2 **2.75**  ·  Marco Palestra - 2 **1.73**  ·  Romeo Lavia - 2 **2.20**  ·  Maxim De Cuyper - 3 **7.00**  ·  Marco Palestra - 3 **3.25**  ·  Romeo Lavia - 3 **4.50**  ·  Maxim De Cuyper - 4 **19.00**  ·  Marco Palestra - 4 **7.00**  ·  Romeo Lavia - 4 **13.00**  ·  Riccardo Calafiori - 1 **1.25**  ·  Riccardo Calafiori - 2 **2.10**  ·  Riccardo Calafiori - 3 **4.50**  ·  Riccardo Calafiori - 4 **11.00**  ·  Riccardo Calafiori - 5 **26.00**  ·  Youri Tielemans - 1 **1.30**  ·  Youri Tielemans - 2 **2.38**  ·  Youri Tielemans - 3 **5.50**  ·  Youri Tielemans - 4 **15.00**  ·  Timothy Castagne - 1 **1.50**  ·  Timothy Castagne - 2 **3.40**  ·  Timothy Castagne - 3 **9.00**  ·  Timothy Castagne - 4 **23.00**  ·  Jeremy Doku - 1 **1.40**  ·  Jeremy Doku - 2 **2.75**  ·  Jeremy Doku - 3 **7.00**  ·  Jeremy Doku - 4 **19.00**  ·  Antonio Vergara - 1 **1.25**  ·  Kevin De Bruyne - 1 **1.36**  ·  Mattia Liberali - 1 **1.22**  ·  Antonio Vergara - 2 **2.10**  ·  Kevin De Bruyne - 2 **2.62**  ·  Mattia Liberali - 2 **2.00**  ·  Antonio Vergara - 3 **4.50**  ·  Kevin De Bruyne - 3 **6.50**  ·  Mattia Liberali - 3 **4.33**  ·  Antonio Vergara - 4 **11.00**  ·  Kevin De Bruyne - 4 **19.00**  ·  Mattia Liberali - 4 **11.00**  ·  Antonio Vergara - 5 **26.00**  ·  Mattia Liberali - 5 **23.00**  ·  Mandela Keita - 1 **1.30**  ·  Mandela Keita - 2 **2.38**  ·  Mandela Keita - 3 **5.50**  ·  Davide Frattesi - 1 **1.36**  ·  Davide Frattesi - 2 **2.62**  ·  Davide Frattesi - 3 **6.50**  ·  Davide Frattesi - 4 **17.00**  ·  Nicolo Zaniolo - 1 **1.14**  ·  Matteo Palma - 1 **1.33**  ·  Nicolo Zaniolo - 2 **1.73**  ·  Matteo Palma - 2 **2.50**  ·  Nicolo Zaniolo - 3 **3.25**  ·  Matteo Palma - 3 **6.00**  ·  Nicolo Zaniolo - 4 **7.00**  ·  Nicolo Zaniolo - 5 **17.00**  ·  Matteo Palma - 4 **15.00**  ·  Nicolo Fagioli - 1 **1.44**  ·  Nicolo Fagioli - 2 **3.00**  ·  Nicolo Fagioli - 3 **8.00**  ·  Nicolo Fagioli - 4 **21.00**  ·  Niccolo Pisilli - 1 **1.22**  ·  Daniele Ghilardi - 1 **1.36**  ·  Niccolo Pisilli - 2 **2.00**  ·  Daniele Ghilardi - 2 **2.62**  ·  Niccolo Pisilli - 3 **4.00**  ·  Daniele Ghilardi - 3 **6.50**  ·  Niccolo Pisilli - 4 **10.00**  ·  Daniele Ghilardi - 4 **17.00**  ·  Niccolo Pisilli - 5 **21.00**  ·  Gianluca Scamacca - 1 **1.22**  ·  Charles De Ketelaere - 1 **1.25**  ·  Nicolo Cambiaghi - 1 **1.44**  ·  Giorgio Scalvini - 1 **1.28**  ·  Honest Ahanor - 1 **1.30**  ·  Gianluca Scamacca - 2 **2.00**  ·  Charles De Ketelaere - 2 **2.20**  ·  Nicolo Cambiaghi - 2 **3.00**  ·  Giorgio Scalvini - 2 **2.25**  ·  Honest Ahanor - 2 **2.38**  ·  Gianluca Scamacca - 3 **4.00**  ·  Charles De Ketelaere - 3 **4.50**  ·  Nicolo Cambiaghi - 3 **8.00**  ·  Giorgio Scalvini - 3 **5.00**  ·  Honest Ahanor - 3 **5.50**  ·  Gianluca Scamacca - 4 **10.00**  ·  Charles De Ketelaere - 4 **13.00**  ·  Nicolo Cambiaghi - 4 **21.00**  ·  Gianluca Scamacca - 5 **21.00**  ·  Charles De Ketelaere - 5 **26.00**  ·  Pio Esposito - 1 **1.20**  ·  Federico Dimarco - 1 **1.36**  ·  Sebastiano Esposito - 1 **1.22**  ·  Nicolo Barella - 1 **1.22**  ·  Alessandro Bastoni - 1 **1.40**  ·  Alessandro Romano - 1 **1.25**  ·  Pio Esposito - 2 **1.83**  ·  Federico Dimarco - 2 **2.62**  ·  Sebastiano Esposito - 2 **2.00**  ·  Nicolo Barella - 2 **2.00**  ·  Alessandro Bastoni - 2 **2.75**  ·  Alessandro Romano - 2 **2.10**  ·  Pio Esposito - 3 **3.75**  ·  Federico Dimarco - 3 **6.50**  ·  Sebastiano Esposito - 3 **4.00**  ·  Nicolo Barella - 3 **4.33**  ·  Alessandro Bastoni - 3 **7.00**  ·  Alessandro Romano - 3 **4.50**  ·  Pio Esposito - 4 **9.00**  ·  Federico Dimarco - 4 **17.00**  ·  Sebastiano Esposito - 4 **10.00**  ·  Nicolo Barella - 4 **11.00**  ·  Alessandro Bastoni - 4 **19.00**  ·  Alessandro Romano - 4 **11.00**  ·  Pio Esposito - 5 **21.00**  ·  Sebastiano Esposito - 5 **21.00**  ·  Nicolo Barella - 5 **23.00**  ·  Alphadjo Cisse - 1 **1.22**  ·  Diego Moreira - 1 **1.53**  ·  Samuele Ricci - 1 **1.30**  ·  Alphadjo Cisse - 2 **2.00**  ·  Diego Moreira - 2 **3.50**  ·  Samuele Ricci - 2 **2.38**  ·  Alphadjo Cisse - 3 **4.33**  ·  Diego Moreira - 3 **10.00**  ·  Samuele Ricci - 3 **5.50**  ·  Alphadjo Cisse - 4 **11.00**  ·  Diego Moreira - 4 **26.00**  ·  Samuele Ricci - 4 **15.00**  ·  Alphadjo Cisse - 5 **23.00**  ·  Hugo Cuypers - 2 **2.62**  ·  Hugo Cuypers - 3 **6.50**  ·  Hugo Cuypers - 4 **19.00**  ·  Hugo Cuypers - 1 **1.36**  ·  Nicolas Raskin - 1 **1.11**  ·  Nicolas Raskin - 2 **1.53**  ·  Nicolas Raskin - 3 **2.62**  ·  Nicolas Raskin - 4 **5.00**  ·  Nicolas Raskin - 5 **11.00**  ·  Nicolas Raskin - 6 **23.00**  ·  Romeo Lavia - 5 **26.00**  ·  Honest Ahanor - 4 **15.00**  ·  Giorgio Scalvini - 4 **13.00**  ·  Mandela Keita - 4 **15.00**  ·  Alessandro Romano - 5 **26.00**  ·  Michael Kayode - 4 **17.00**  ·  Nathan Ngoy - 4 **23.00**  ·  Marco Palestra - 5 **17.00**  ·  Josue Kongolo - 1 **1.17**  ·  Josue Kongolo - 2 **1.73**  ·  Josue Kongolo - 3 **3.40**  ·  Josue Kongolo - 4 **7.00**  ·  Josue Kongolo - 5 **17.00**
+- **Goalkeeper Saves:** Gianluigi Donnarumma - 2 **1.14**  ·  Gianluigi Donnarumma - 3 **1.50**  ·  Gianluigi Donnarumma - 4 **2.20**  ·  Gianluigi Donnarumma - 5 **3.75**  ·  Gianluigi Donnarumma - 6 **7.00**  ·  Senne Lammens - 2 **1.17**  ·  Senne Lammens - 3 **1.53**  ·  Senne Lammens - 4 **2.38**  ·  Senne Lammens - 5 **4.00**  ·  Senne Lammens - 6 **8.00**  ·  Gianluigi Donnarumma **10.00**
+- **Anytime Goal Scorer:** Brandon Mechele **15.00**  ·  Hans Vanaken **4.33**  ·  Joaquin Seys **10.00**  ·  Maxim De Cuyper **7.00**  ·  Dodi Lukebakio **4.33**  ·  Nicolo Fagioli **7.50**  ·  Jeremy Doku **4.00**  ·  Niccolo Pisilli **5.50**  ·  Pio Esposito **2.88**  ·  Luca Koleosho **4.75**  ·  Diego Moreira **4.33**  ·  Kyriani Sabbe **10.00**  ·  Nathan Ngoy **15.00**  ·  Daniele Ghilardi **15.00**  ·  Romelu Lukaku **2.40**  ·  Issa Doumbia **7.50**  ·  Antonio Vergara **4.75**  ·  Mika Godts **4.33**  ·  Romeo Lavia **7.00**  ·  Alphadjo Cisse **4.00**  ·  Nicolo Barella **7.50**  ·  Nicolas Raskin **10.00**  ·  Nicolo Zaniolo **3.75**  ·  Nicolo Cambiaghi **4.75**  ·  Giorgio Scalvini **12.00**  ·  Hugo Cuypers **2.60**  ·  Mattia Liberali **4.75**  ·  Kevin De Bruyne **3.75**  ·  Leandro Trossard **3.75**  ·  Riccardo Calafiori **15.00**  ·  Youri Tielemans **5.50**  ·  Sandro Tonali **9.00**  ·  Josue Kongolo **12.00**  ·  Michael Kayode **15.00**  ·  Arthur Theate **15.00**  ·  Mandela Keita **9.00**  ·  Sebastiano Esposito **3.40**  ·  Alessandro Bastoni **15.00**  ·  Davide Frattesi **4.75**  ·  Federico Dimarco **9.00**  ·  Samuele Ricci **9.00**  ·  Charles De Ketelaere **2.75**  ·  Honest Ahanor **15.00**  ·  Marco Palestra **9.00**  ·  Timothy Castagne **15.00**  ·  Matteo Palma **12.00**  ·  Alessandro Romano **6.00**  ·  Gianluca Scamacca **3.10**
+- **Player to Score or Assist:** Brandon Mechele **8.50**  ·  Hans Vanaken **2.50**  ·  Joaquin Seys **4.75**  ·  Maxim De Cuyper **3.20**  ·  Dodi Lukebakio **2.50**  ·  Nicolo Fagioli **3.50**  ·  Jeremy Doku **2.30**  ·  Niccolo Pisilli **3.20**  ·  Pio Esposito **2.25**  ·  Luca Koleosho **2.75**  ·  Diego Moreira **2.50**  ·  Kyriani Sabbe **3.75**  ·  Nathan Ngoy **10.00**  ·  Daniele Ghilardi **7.50**  ·  Romelu Lukaku **1.95**  ·  Issa Doumbia **4.75**  ·  Antonio Vergara **2.60**  ·  Mika Godts **2.50**  ·  Romeo Lavia **3.75**  ·  Alphadjo Cisse **2.62**  ·  Nicolo Barella **3.25**  ·  Nicolas Raskin **4.33**  ·  Nicolo Zaniolo **2.30**  ·  Nicolo Cambiaghi **2.88**  ·  Giorgio Scalvini **7.00**  ·  Hugo Cuypers **1.91**  ·  Mattia Liberali **2.75**  ·  Kevin De Bruyne **1.95**  ·  Leandro Trossard **2.25**  ·  Riccardo Calafiori **6.50**  ·  Youri Tielemans **2.88**  ·  Sandro Tonali **4.75**  ·  Josue Kongolo **7.50**  ·  Michael Kayode **6.50**  ·  Arthur Theate **10.00**  ·  Mandela Keita **4.33**  ·  Sebastiano Esposito **2.20**  ·  Alessandro Bastoni **7.50**  ·  Davide Frattesi **3.20**  ·  Federico Dimarco **3.10**  ·  Samuele Ricci **5.00**  ·  Charles De Ketelaere **1.91**  ·  Honest Ahanor **7.50**  ·  Marco Palestra **4.00**  ·  Timothy Castagne **7.00**  ·  Matteo Palma **8.50**  ·  Alessandro Romano **3.50**  ·  Gianluca Scamacca **2.30**
 
 ## Estadísticas de equipo
 | | Belgium (total) | Belgium en casa | Italy (total) | Italy fuera |
@@ -180,24 +190,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 30% | 31% | 3.20 | +0% |
-| 1X2: X | 22% | 27% | 24% | 3.60 | -13% |
-| 1X2: 1 | 45% | 44% | 44% | 2.20 | -2% |
-| Doble oportunidad: X2 | 55% | 56% | 55% | 1.67 | -7% |
-| Doble oportunidad: 12 | 78% | 73% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 67% | 71% | 69% | 1.33 | -8% |
-| Ambos marcan: No | 32% | 42% | 37% | 2.20 | -18% |
-| Ambos marcan: Sí | 68% | 58% | 63% | 1.62 | +2% |
-| Goles más/menos: Más de 1.5 | 87% | 75% | 81% | 1.25 | +1% |
-| Goles más/menos: Más de 2.5 | 68% | 53% | 60% | 1.80 | +9% |
-| Goles más/menos: Más de 3.5 | 47% | 31% | 39% | 3.00 | +17% |
-| Goles más/menos: Menos de 1.5 | 13% | 25% | 19% | 3.75 | -28% |
-| Goles más/menos: Menos de 2.5 | 32% | 47% | 40% | 2.00 | -21% |
-| Goles más/menos: Menos de 3.5 | 53% | 69% | 61% | 1.36 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 71% | 75% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 35% | 40% | 2.62 | +6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 29% | 25% | 3.25 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 65% | 60% | 1.44 | -14% |
+| 1X2: 2 | 33% | 31% | 32% | 3.10 | -2% |
+| 1X2: X | 22% | 24% | 23% | 3.90 | -10% |
+| 1X2: 1 | 45% | 45% | 45% | 2.10 | -5% |
+| Doble oportunidad: X2 | 55% | 57% | 56% | 1.67 | -7% |
+| Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 67% | 70% | 68% | 1.36 | -7% |
+| Ambos marcan: No | 32% | 41% | 37% | 2.25 | -18% |
+| Ambos marcan: Sí | 68% | 59% | 63% | 1.57 | -0% |
+| Goles más/menos: Más de 1.5 | 87% | 78% | 82% | 1.20 | -1% |
+| Goles más/menos: Más de 2.5 | 68% | 56% | 62% | 1.67 | +4% |
+| Goles más/menos: Más de 3.5 | 47% | 35% | 41% | 2.62 | +8% |
+| Goles más/menos: Menos de 1.5 | 13% | 22% | 18% | 4.33 | -24% |
+| Goles más/menos: Menos de 2.5 | 32% | 44% | 38% | 2.15 | -19% |
+| Goles más/menos: Menos de 3.5 | 53% | 65% | 59% | 1.44 | -15% |
+| Goles 1ª parte más/menos: Más de 0.5 | 78% | 72% | 75% | 1.30 | -2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 45% | 38% | 41% | 2.50 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 28% | 25% | 3.40 | -16% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 62% | 59% | 1.50 | -12% |
 | Goles del local: Más de 0.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles del local: Más de 1.5 | 57% | 46% | 52% | 2.00 | +3% |
 | Goles del local: Más de 2.5 | 30% | 22% | 26% | 4.33 | +12% |
@@ -208,8 +218,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 48% | 35% | 42% | 2.62 | +9% |
 | Goles del visitante: Menos de 0.5 | 20% | 29% | 25% | 3.25 | -20% |
 | Goles del visitante: Menos de 1.5 | 52% | 65% | 58% | 1.44 | -16% |
-| 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -3% |
-| 1X2 descanso: X | 36% | 41% | 39% | 2.25 | -13% |
-| 1X2 descanso: 1 | 36% | 33% | 35% | 2.75 | -5% |
+| 1X2 descanso: 2 | 28% | 26% | 27% | 3.50 | -5% |
+| 1X2 descanso: X | 36% | 39% | 37% | 2.38 | -11% |
+| 1X2 descanso: 1 | 36% | 35% | 35% | 2.62 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

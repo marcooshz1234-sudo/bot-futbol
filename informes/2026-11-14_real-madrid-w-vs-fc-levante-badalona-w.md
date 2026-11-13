@@ -1,10 +1,49 @@
 # Real Madrid W – FC Levante Badalona W
 **Liga F** · Regular Season - 11 · 14/11/2026 20:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 13/11 19:59_
+
+- **1X2:** 1 **1.14**  ·  X **6.50**  ·  2 **15.00**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **3.75**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **5.50**
+    - 2,5: más **1.40** · menos **2.75**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **5.50** · menos **1.12**
+    - 6,5: más **8.50** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **8.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.04** · menos **9.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.67** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **4.50** · menos **1.17**
+    - 5,5: más **8.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **2.20** · menos **1.62**
+    - 1,5: más **7.00** · menos **1.08**
+- **1X2 descanso:** 1 **1.40**  ·  X **3.10**  ·  2 **12.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **1.08**  ·  2 **6.50**
+- **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **15.00**
+- **Win Both Halves:** 1 **2.00**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **9.00**  ·  Away/Yes **23.00**  ·  Home/No **1.80**  ·  Draw/No **19.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **3.25**
 
 ## Estadísticas de equipo
 | | Real Madrid W (total) | Real Madrid W en casa | FC Levante Badalona W (total) | FC Levante Badalona W fuera |
@@ -101,4 +140,41 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 2,98 · visitante 0,81._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 7% | 6% | 7% | 15.00 | -1% |
+| 1X2: X | 12% | 14% | 13% | 6.50 | -15% |
+| 1X2: 1 | 81% | 80% | 80% | 1.14 | -8% |
+| Doble oportunidad: X2 | 19% | 25% | 22% | 3.75 | -17% |
+| Doble oportunidad: 12 | 88% | 85% | 86% | 1.10 | -5% |
+| Doble oportunidad: 1X | 93% | 90% | 92% | 1.03 | -6% |
+| Ambos marcan: No | 47% | 56% | 51% | 1.67 | -14% |
+| Ambos marcan: Sí | 53% | 44% | 49% | 2.10 | +2% |
+| Goles más/menos: Más de 2.5 | 73% | 66% | 70% | 1.40 | -2% |
+| Goles más/menos: Más de 3.5 | 53% | 46% | 49% | 2.00 | -1% |
+| Goles más/menos: Más de 4.5 | 33% | 28% | 30% | 3.40 | +3% |
+| Goles más/menos: Menos de 2.5 | 27% | 34% | 30% | 2.75 | -17% |
+| Goles más/menos: Menos de 3.5 | 47% | 54% | 51% | 1.73 | -13% |
+| Goles más/menos: Menos de 4.5 | 67% | 72% | 70% | 1.30 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 81% | 78% | 80% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 49% | 49% | 49% | 1.91 | -7% |
+| Goles 1ª parte más/menos: Más de 2.5 | 23% | 23% | 23% | 4.00 | -7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 19% | 22% | 20% | 4.33 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 77% | 77% | 77% | 1.22 | -6% |
+| Goles del local: Más de 1.5 | 80% | 77% | 78% | 1.22 | -5% |
+| Goles del local: Más de 2.5 | 57% | 56% | 56% | 1.67 | -6% |
+| Goles del local: Más de 3.5 | 35% | 35% | 35% | 2.62 | -8% |
+| Goles del local: Más de 4.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles del local: Menos de 1.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles del local: Menos de 2.5 | 43% | 44% | 44% | 2.10 | -9% |
+| Goles del local: Menos de 3.5 | 65% | 65% | 65% | 1.44 | -7% |
+| Goles del local: Menos de 4.5 | 82% | 79% | 81% | 1.17 | -6% |
+| Goles del visitante: Más de 0.5 | 56% | 42% | 49% | 2.20 | +8% |
+| Goles del visitante: Menos de 0.5 | 44% | 58% | 51% | 1.62 | -17% |
+| 1X2 descanso: X | 29% | 29% | 29% | 3.10 | -10% |
+| 1X2 descanso: 1 | 61% | 64% | 62% | 1.40 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

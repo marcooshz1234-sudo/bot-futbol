@@ -1,10 +1,10 @@
 # Athletic Carpi – Giana Erminio
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 14:14._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:22_
+_Actualizadas: 13/11 19:58_
 
 - **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.55**
@@ -21,19 +21,20 @@ _Actualizadas: 13/11 08:22_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.00** · menos **1.14**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.67**  ·  2 **1.91**
@@ -155,13 +156,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles del local: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles del local: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles del local: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles del local: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
-| Goles del visitante: Más de 0.5 | 76% | 69% | 73% | 1.36 | -1% |
+| Goles del local: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
+| Goles del local: Más de 1.5 | 38% | 44% | 41% | 2.10 | -14% |
+| Goles del local: Más de 2.5 | 15% | 21% | 18% | 4.50 | -20% |
+| Goles del local: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
+| Goles del local: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -2% |
+| Goles del local: Menos de 2.5 | 85% | 79% | 82% | 1.17 | -4% |
+| Goles del visitante: Más de 0.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles del visitante: Más de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
-| Goles del visitante: Menos de 0.5 | 24% | 31% | 27% | 3.00 | -18% |
+| Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -14% |
 | Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | 1X2 descanso: 2 | 31% | 26% | 29% | 3.40 | -3% |
 | 1X2 descanso: X | 42% | 41% | 41% | 2.20 | -9% |
