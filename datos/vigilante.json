@@ -36,11 +36,21 @@
   "prensa-1570020-a544cfbe": "2026-11-13T00:50",
   "prensa-1528974-KylianMbappé": "2026-11-13T01:49",
   "prensa-1528975-0008c46f": "2026-11-13T02:37",
-  "prensa-1528977-8cd0cd8a": "2026-11-13T03:19"
+  "prensa-1528977-8cd0cd8a": "2026-11-13T03:19",
+  "regla-cuota_alta-2026-11-13-escalera": "2026-11-13T06:06"
  },
- "abiertos": [],
- "revisado": "2026-11-13T05:55",
+ "abiertos": [
+  {
+   "clave": "regla-cuota_alta-2026-11-13-escalera",
+   "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «🪜 Reto escalera · Día 4/7» (11:00)"
+  }
+ ],
+ "revisado": "2026-11-13T06:06",
  "historial": [
+  {
+   "hora": "2026-11-13T06:06",
+   "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «🪜 Reto escalera · Día 4/7» (11:00)"
+  },
   {
    "hora": "2026-11-13T03:19",
    "t": "📰 Rumanía–Polonia: «Frankowski es baja y Polonia llama a Pyrka para el cierre» (KarloBag.eu) · tenemos 2 post(s) de este partido: ganadores-nations, combi-multi"

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 05:55",
+ "actualizado": "2026-11-13 06:05",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2724,
-   "hoy": 33,
+   "seguidores": 2726,
+   "hoy": 35,
    "serie": [
     2126,
     2231,
@@ -24,7 +24,7 @@
     2593,
     2644,
     2691,
-    2724
+    2726
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3161,
- "total_hoy": 38,
+ "total": 3163,
+ "total_hoy": 40,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "06:00",
+  "hora": "10:30",
   "dia": "2026-11-13",
-  "titulo": "Os dejo la combi del serbia – alemania"
+  "titulo": "Vamos con otro pick"
  },
  "ayer": null,
  "escalera": {
@@ -195,7 +195,7 @@
   },
   "2026-11-13": {
    "instagram": 40,
-   "threads": 2724,
+   "threads": 2726,
    "facebook": 1,
    "telegram": 396
   }
