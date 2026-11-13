@@ -268,11 +268,6 @@ def comentar_threads(p, token):
     return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
 
 
-def comentar_instagram(p, token):
-    return llamar("POST", f"{INSTAGRAM}/{id_publicado(p['redes']['instagram'])}/comments",
-                  {"message": TEXTO_ENLACE, "access_token": token})["id"]
-
-
 def esperar_contenedor(base, cid, token, intentos=40):
     for _ in range(intentos):
         st = llamar("GET", f"{base}/{cid}", {"fields": "status_code,status", "access_token": token})

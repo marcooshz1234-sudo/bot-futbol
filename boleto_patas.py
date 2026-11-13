@@ -11,9 +11,8 @@ import re
 import subprocess
 import tempfile
 import unicodedata
-from datetime import datetime
 
-from bot import DATOS, EXTRA, MADRID, leer
+from bot import DATOS, EXTRA, leer
 
 ALIAS = {"napoles": "napoli", "bolonia": "bologna", "inter de milan": "inter", "milan": "ac milan",
          "atletico de madrid": "atletico madrid", "bayern munich": "bayern munchen", "colonia": "1. fc koln",

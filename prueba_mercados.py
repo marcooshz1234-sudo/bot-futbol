@@ -14,7 +14,7 @@ import sys
 from collections import defaultdict
 
 from bot import RAIZ
-from picks import (FREC_EQUIPO, FREC_MIN, MIN_PARTIDOS, ULTIMOS, STATS_OU, evaluador, historial,
+from picks import (FREC_EQUIPO, FREC_MIN, MIN_PARTIDOS, ULTIMOS, evaluador, historial, 
                    plantilla_fija, tipo_de)
 
 DESDE = sys.argv[1] if len(sys.argv) > 1 else "2026-09-25"

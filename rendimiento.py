@@ -9,7 +9,6 @@ Va a su bóveda de Obsidian (02 Apuestas/Rendimiento) con un Atajo del iPhone ca
     esperado y del resultado, igual solo falla con algunos equipos»). No cambian el bot solas: se le preguntan.
 Se ejecuta en recoger.yml. También a mano: python rendimiento.py 2026-10
 """
-import json
 import re
 import sys
 from collections import defaultdict

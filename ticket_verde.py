@@ -8,8 +8,6 @@
   nuestra encima «✔ ACERTADO» (no tapa nada del boleto). Nunca se cambia nada del boleto.
 Los verdes no salen solos: el bot se los manda a Marcos y solo se publican cuando él le da a «✅ Publicar».
 """
-import base64
-import html
 import re
 
 from bot import DATOS, RAIZ, leer
@@ -26,11 +24,6 @@ def fem(t):
 
 def num(c):
     return f"{c:.2f}".replace(".", ",")
-
-
-def escudo_b64(team_id):
-    f = ESCUDOS / f"{team_id}.png"
-    return base64.b64encode(f.read_bytes()).decode() if team_id and f.exists() else None
 
 
 def equipos(partido_id):

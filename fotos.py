@@ -15,7 +15,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import marca
-from marca import LETRA, ORO, base, logo_img, trebol
+from marca import LETRA, base, logo_img, trebol
 
 CL = marca.TEMA == "cl"   # 11/11 05:04: estilo CL verde neón (Marcos, ChatGPT)
 

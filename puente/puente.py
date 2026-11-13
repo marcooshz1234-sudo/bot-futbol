@@ -19,7 +19,6 @@ import hashlib
 import json
 import re
 import subprocess
-import sys
 from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.request import Request, urlopen

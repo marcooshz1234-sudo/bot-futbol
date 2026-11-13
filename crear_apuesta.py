@@ -143,10 +143,6 @@ def _lado_jugador(c, mercado, jugador):
     return None
 
 
-def _cuota_de(c, mercado, opcion):
-    return next((float(v) for o, v in (c.get(mercado) or []) if o == opcion), None)
-
-
 def condicional_jugador(R, c, mercado, opcion, cuota):
     """Probabilidad de la pata de jugador en cada marcador (va ligada a los goles de su equipo)."""
     from scipy.optimize import brentq

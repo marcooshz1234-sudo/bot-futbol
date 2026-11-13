@@ -9,7 +9,6 @@ Cada rol tiene «secciones» (pestañas) y cada sección «bloques» que el pane
   texto  {"t", "txt"}
 Todo sale de los archivos que ya escribe el bot: nada se inventa. Si un dato no está, el bloque no sale.
 """
-import json
 import re
 from datetime import datetime, timedelta, timezone
 

@@ -146,10 +146,6 @@ def stat_eq(p, eq, campo):
     return v
 
 
-def stat_rival(p, eq, campo):
-    return stat_eq(p, lado(p, eq)[4], campo)
-
-
 def stat_total(p, campo):
     s = p.get("stats") or {}
     if len(s) < 2:

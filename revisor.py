@@ -16,7 +16,7 @@ import json
 import os
 from datetime import datetime, timedelta
 
-from bot import COMPETICIONES, DATOS, EXTRA, MADRID, RAIZ, leer
+from bot import DATOS, EXTRA, MADRID, RAIZ, leer
 from picks import (ARB_MIN_PARTIDOS, LESION_MAX_TITULARES, PRED_MIN, historial, indice_arbitros, mismo_jugador,
                    nombre_arbitro, titulares_fuera)
 from publicados import lado, picks_de_post

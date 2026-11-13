@@ -273,26 +273,6 @@ def choca(sel, otras):
     return not compatibles([a_pata(sel)] + [a_pata(x) for x in mismas])
 
 
-def resultados_probables(cp, tj, n=3):
-    """Los n marcadores más probables (Poisson con el xG reciente) que cumplen las patas de la combi."""
-    try:
-        import math
-        import prueba_xg
-        from picks import historial
-        lam = prueba_xg.lambdas(historial(), tj["id_l"], tj["id_v"])
-    except Exception:
-        return []
-    if not lam:
-        return []
-    pois = lambda k, l: math.exp(-l) * l ** k / math.factorial(k)
-    cands = []
-    for gl in range(7):
-        for gv in range(7):
-            if all(cumple(p, gl, gv) is not False for p in cp["picks"]):
-                cands.append((pois(gl, lam[0]) * pois(gv, lam[1]), f"{gl}-{gv}"))
-    return [r for _, r in sorted(cands, reverse=True)[:n]]
-
-
 def texto_combi_partido(cp, tj, cuota):
     liga = LIGA_NOMBRE.get(cp.get("competicion"), str(cp.get("competicion") or "").upper())
     band = BANDERA.get(cp.get("competicion"), "⚽")

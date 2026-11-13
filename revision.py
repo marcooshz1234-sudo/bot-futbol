@@ -12,7 +12,7 @@ Lo que antes revisaba Claude a mano, ahora lo mira el bot:
   - informe: la revisión de la mañana (9:00, al privado de Marcos): choques, aplazados, bajas, cuotas y textos.
 """
 import re
-from datetime import datetime, timedelta
+from datetime import datetime
 
 from bot import DATOS, MADRID, leer
 

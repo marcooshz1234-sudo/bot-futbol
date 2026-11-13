@@ -51,16 +51,6 @@ def coords(ciudad, cache, pais=None):
     return cache[clave]
 
 
-def _viejo(ciudad, cache):
-    if ciudad in cache:
-        return cache[ciudad]
-    r = bajar_json("https://geocoding-api.open-meteo.com/v1/search?" + urllib.parse.urlencode(
-        {"name": ciudad.split(",")[0], "count": 1, "language": "es"}))
-    res = ((r or {}).get("results") or [None])[0]
-    cache[ciudad] = [res["latitude"], res["longitude"]] if res else None
-    return cache[ciudad]
-
-
 def tiempo(lat, lon, inicio):
     r = bajar_json("https://api.open-meteo.com/v1/forecast?" + urllib.parse.urlencode(
         {"latitude": lat, "longitude": lon, "hourly": "precipitation,wind_speed_10m,temperature_2m",
