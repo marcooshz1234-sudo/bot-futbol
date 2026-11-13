@@ -35,7 +35,7 @@
    "justa": 1.55,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Liechtenstein",
@@ -46,7 +46,7 @@
    "justa": 1.56,
    "ev": 0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Luxembourg",
@@ -57,7 +57,7 @@
    "justa": 1.54,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Bulgaria",
@@ -68,7 +68,7 @@
    "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Netherlands",
@@ -79,11 +79,11 @@
    "justa": 1.6,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T17:43",
+  "hora": "2026-11-13T18:03",
   "revisadas": 0,
   "mejor": null
  },
