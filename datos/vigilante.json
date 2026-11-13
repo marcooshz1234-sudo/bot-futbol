@@ -41,13 +41,8 @@
   "bucle-gifs-2026111306": "2026-11-13T06:26",
   "bucle-gifs-2026111307": "2026-11-13T07:09"
  },
- "abiertos": [
-  {
-   "clave": "bucle-gifs-2026111307",
-   "t": "🔧 El paso «gifs» del bot ha fallado 4 veces en la última hora"
-  }
- ],
- "revisado": "2026-11-13T07:09",
+ "abiertos": [],
+ "revisado": "2026-11-13T07:19",
  "historial": [
   {
    "hora": "2026-11-13T07:09",
