@@ -33,6 +33,12 @@ class TarjetaTG(unittest.TestCase):
         self.assertEqual(T.fila(T.patas(t)[0])["pick"], "AMBOS MARCAN")
         self.assertEqual(T.titulo({"id": "x-cuotaza-1"}, t), "CUOTAZA · @3,25")
 
+    def test_segundo_pick_seguro(self):   # 13/11: el pick seguro de las 18:00 salía sin foto (la de marca es solo el 1º)
+        self.assertTrue(T.toca({"id": "2026-11-13-pick-seguro-2"}))
+        self.assertFalse(T.toca({"id": "2026-11-13-pick-seguro"}))
+        f = T.fila("Andorra gana alguna de las dos partes")
+        self.assertEqual((f["nombre"], f["pick"], f["pais"]), ("Andorra", "GANA UNA PARTE", "Andorra"))
+
     def test_sin_argumento_fuera(self):   # el «Sin argumento: solo el pick» de las copias
         import copiar_tipsters as C
         src = open(C.__file__, encoding="utf-8").read()

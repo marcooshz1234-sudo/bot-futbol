@@ -15,7 +15,7 @@ from bot import RAIZ
 
 MEDIA = RAIZ / "publicaciones" / "media"
 CON_TARJETA = re.compile(r"-(pick-tip|combi-tip|pick-extra|cuotaza|combi-noche|combi-tarde|combi-dia|pick)(-|$)")
-NO = re.compile(r"verde|rojo|balance|resumen|escalera|pick-seguro|ganadores|marcador|exactos|lista|boleto|directo")
+NO = re.compile(r"verde|rojo|balance|resumen|escalera|pick-seguro$|ganadores|marcador|exactos|lista|boleto|directo")
 CUOTA = re.compile(r"@\s*(\d+[.,]\d+)")
 MAX_NOMBRE = 20
 PATA = re.compile(r"\s*(🍀|[\U0001F1E6-\U0001F1FF]|🏴|\d+[.)] )")   # las patas empiezan por 🍀 o una bandera
@@ -39,7 +39,8 @@ def _pais(nombre):
 def fila(pata):
     """('Gana Suiza (Eslovenia – Suiza)', cuota) → {'nombre': 'Suiza', 'pick': 'GANA', …}."""
     t = re.sub(r"\s*\([^)]*\)\s*", " ", pata).strip()
-    reglas = ((r"^Gana (?:el |la |los |las )?(.+)$", lambda m: "GANA"),
+    reglas = ((r"^(.+?) gana alguna (?:de las dos )?partes?$", lambda m: "GANA UNA PARTE"),
+              (r"^Gana (?:el |la |los |las )?(.+)$", lambda m: "GANA"),
               (r"^(.+?) gana$", lambda m: "GANA"),
               (r"^(.+?) marca (\d+) o más$", lambda m: f"{m.group(2)}+ GOLES"),
               (r"^(.+?) marca$", lambda m: "MARCA"),
