@@ -4587,7 +4587,9 @@
     "cuotas": [
       1.44
     ],
-    "cuotas_revisadas": "2026-11-13T16:33"
+    "cuotas_revisadas": "2026-11-13T16:33",
+    "requiere_ok": true,
+    "aviso": "Marcos 13/11 17:52: «antes de subir nada me lo enseñas»"
   },
   {
     "id": "2026-11-14-ganadores-nations",
