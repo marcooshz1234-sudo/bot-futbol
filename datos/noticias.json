@@ -1,6 +1,16 @@
 {
  "1570024": [
   {
+   "titulo": "Rodrigo Rego sufre una lesión de isquiotibiales y será baja en el Castellón",
+   "fuente": "Plaza Deportiva",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjJUbC16RUF2RWZ4RGNSNVA4ZVNXOTlLQy1jVEg3OWhwUWg5MHNBSlA0eU96Zk5mN0toLTNmQXhkcTNyY25ZeGxEQmFRRHJMdC0wdTkxalFpb2ZTdW5CTFdGS0c4Y1c5T3J4M3E4WjFPLXFNYmFOVnZrVVR4VnNJTFZPaHpsMUM1XzdIVWNac04tVXI5dmNEX3NlaDd6TkVFZTNGOVlTY0xhbFVWU2h4dGxES19kckdYOUtPOW8wS0swZ0R2UEZJblFHd1hSY1BJX3QweQ?oc=5",
+   "fecha": "2026-11-13T08:49",
+   "equipo": "Castellón",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
    "titulo": "La ‘confusión’ del infalible Google: el partido suspendido entre el Castellón y el Eibar, 0-0 al descanso",
    "fuente": "El Periódico Mediterráneo",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVNVbC1kTHlrMXc5SDQyWHNKYzBFTG1yelFEdVZ6UEk1SzVkTUowZWs1a1I1QUVYWHo0czZ1U3BOZzREMlNwSFk5Q0JOcGRqRkhRSy1UcXJhN0tDZWFmdERRejJiNkdBLUptN0RqcXJWYmFsSUwtZVJJSlN0RmlPa0VjdEg5QzdOMllocjBwbjUzLVRnUHI5NDBzbm5QTFUzY2dQQ2tFN0d4cTdKaGdmaXJDbnY4amU0cEpDU1lLblIyZ9IBxwFBVV95cUxNZFd5UmpQLTB3azJFV24wWTMzUTFlMVFTYnczSndXQXEzYUxyLWlVd3dSWUdCOHJQeTZUVGdoLVllWVhmamlsN1lJZkJjUHNJa1kweGR6TXd2N0xyLWNLWHBfdkFlSVdteDBMeFhDX2xVbW9OZ19kZFhieUlOcVl2U29nT05NWUJqVW1YQkJ2Z2F1RWtXcWwtb1h2RUE0b2VUTC1YdDR2dU1zU0NBVDREMTMxR1B0by0wS0J2d0Q1Q1NKNWxVRm9J?oc=5",
@@ -8,16 +18,6 @@
    "equipo": "Castellón",
    "tipos": [
     "aplazado"
-   ]
-  },
-  {
-   "titulo": "La Minera se hunde en Castellón y cede el liderato",
-   "fuente": "Onda Regional de Murcia | ORM",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFhpU28wbnhhUlJuNnN6X1VjbTlReWsxTDJGUFN3UW1hNk1ELVQ3X1FLeExSVVFZcmNud25ZUXNEVzdwbk1lOVphMWdmWHZEdHoySnlwSDRYRG8zb2poUkw3dUp0dGwzZGREdnR2Y0ZxeXdpajNmQlhhdnZDeTJjcW9yS0FPQQ?oc=5",
-   "fecha": "2026-11-11T20:56",
-   "equipo": "Castellón",
-   "tipos": [
-    "motivacion"
    ]
   },
   {
@@ -37,6 +37,14 @@
    "tipos": []
   },
   {
+   "titulo": "Partido entre el Real Valladolid y el Albacete Balompié. / LALIGA",
+   "fuente": "El Día de Valladolid",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGVJUmVFeV9pc3gxVDA3Ri1kZEM3d0hYUzlNZVFkRjRvVVBtU04wekVEWk5LR1Q3enE2Tm9TMFlzempLbVNmY1E3TzBmVVFJT0ZNSzFydnZtV2szX2xVMTM3dTU4RXQ5enFwXzlwSUl5eGRfOGZLVE1IeDRONTBScjFDTkxyM1lldzBPZW5JSUIySWZTbE0xUzI3UUttajhTcW5sZng2a1FPNlRZa0F1UHRybzlrTEVEUXh0SzNtZDNTdUxDcElr?oc=5",
+   "fecha": "2026-11-13T03:10",
+   "equipo": "Valladolid",
+   "tipos": []
+  },
+  {
    "titulo": "El Real Valladolid marca más del doble por partido en casa que fuera",
    "fuente": "Pucela Fichajes",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbE5ia3lWMjRkTzFoMU5JSmpaTUk4dmV0aFZsWG5rTk4teGFmMXdEUlhHTllkSGdGQ2pYSFl6UVlNVTJweFRoc3dqd0dySE9iV3QxTW4xMWFNbFRiZFFta0xVUnEwLTJBbi1wU19Ibkg4X3hLVVZsNzl4TlREbVBwc1hNUHhocjRNZGNfUGRHaFZ6NFhKc3hDbTBOclU?oc=5",
@@ -49,14 +57,6 @@
    "fuente": "Diario AS",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUExxNkt0bG5PWUxjRXNhX0huNTlkb2g3NnRPNkhrWHZxNGNFejllRF9DY0NOY2lXVU45dTAxVFluRDNIT1ZadmsxWDM3cmhLT2stQ0dkWFNvckpiU3dBZUx4UFFsS0ptOHFZLVhHem5MQVdIbnZTaFloZC1wSEd0WXVxLWtWZlo5aVJKUXdMSnNwczVoQVJfRFJhanB4cHZHdEJTUHF4aEdfY25ueURQZWczalpxWXBXQ2JKZdIB0AFBVV95cUxPWVJIaTNKa0cyMlBKbWZSc2lJVWVvOWZPckF4LWhuMl9tS2YzMV9MN0FUT01PUWhHQld2TnFfM3EteklNX3hqQ3BubFFqZmpzNkJ3RHJfZmdpQkd2S2NiR2tWNTVKTDJ4R0g1b0ZHLXR4R195YlJ2S3p1VEtRek1UZGtpdjd6NUljVFhQMl9jNE9tMDRTUWtuU3dSWGtFd0pMMWlkdkN0eTdNRWlva0hDWHpQak1GN2ZMaFRNQnFMYzhOYVBZUHdqT3Q3NnA5ZTEy?oc=5",
    "fecha": "2026-11-12T20:22",
-   "equipo": "Valladolid",
-   "tipos": []
-  },
-  {
-   "titulo": "Partido entre el Real Valladolid y el Albacete Balompié. / LALIGA",
-   "fuente": "El Día de Valladolid",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHlpbkUyTXpHMU04UVM1TFJMMUV3R0ZkeTBnWDlPdm1FRThCaDJydzZUZzJJWWhBZW1zWl9QNkxPR2ZoZkFwSEt4bVpQS3ZIWWt1eDBlWG1XZkszOXJFeTJ2QmN3Nkp1R2hfeGpzTENCbVp5bUVQOXB0MllkRW9jRGdZcF9GRzNmNU5CSWdUb0plRklaTlBtQndtZUctYmJnQ05FSjI1N2VCQU51S1BxNUpMMGduUEozQUJiNWJuUjlpbjdhSEFZ?oc=5",
-   "fecha": "2026-11-12T18:19",
    "equipo": "Valladolid",
    "tipos": []
   },
@@ -305,14 +305,6 @@
    "fecha": "2026-11-11T22:47",
    "equipo": "Real Madrid W",
    "tipos": []
-  },
-  {
-   "titulo": "Linda Caicedo volvió a brillar con el Real Madrid Femenino: así fue su gol en la Champions League ante el París FC",
-   "fuente": "Infobae",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ2Q5VUl2UlNranFEc3NHNmNvMWEyVXFzX3p2bUs4Ul9Qd05tRjE3dkdhdDZBZjZ4NlNwSjZnaDVJRG15eC15eUFfVi1vTnlqRmdBREFfNzduUEZDVmJ3WGdVdnBtQTJYQWUtM0NiSldzTGt0UGEteHZPVjBpY3NienRBYUFwVWMtRE1Xb0hNTmljWHdvR2lPTldta1hjSWM1T0Y5cEZKVk92aGdGTkhCZUtMZXV0X2wxdDhpcnZSNUpUTktFM3lGV0pEZG45THYwUS1sVWcyd2xGTk5yS3Y3aXByMFlsektNQzhhYjdtSGxXWmFTT2U2RHpub9IBlgJBVV95cUxPNGRxRU9YOXNtckZBbW5nb1dFVVJYNVBuOGtlc2F4Q3BUTFFkV0NINS1HdG9NMEFDeEx5anpRNE5sMmVkLUdXbDNGMkVvSkFMYU5QcXZQcEIxb2VaNHU4a0VrdTFULXVCdFByejhTV3pEZ21ZZkphb2FtOEQ1U3RwMXBUMW9tTUJpbDJLZFJGMEtyOFBxTVpyRWF4dC00am5WTGFXc2NDelE2QURDS1J2WVFHM2M4TU9uUVkyTVRDS0EwMmdqTGlIZG1SNDVKcDk2U0FaU1cxeVJIQ3dLbjI5SU93VVVzVldqRWJWeGI5c1ZRdUxnOEdsMWdiTUpIaVB0b0tjOWFPMk9DWXgtWXZVUXoySmNzQQ?oc=5",
-   "fecha": "2026-11-11T21:25",
-   "equipo": "Real Madrid W",
-   "tipos": []
   }
  ],
  "1545614": [
@@ -333,6 +325,22 @@
    "tipos": []
   },
   {
+   "titulo": "Marino Hinestroza recibió guiño desde Deportivo Cali",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1g4OFVrXzVZWUEtdHh3QlR4cy1MQ2hodm5kNFFnU2pZanJHLUpicXNFZVBUOXlYdFFvNWV5VW9UZE9FZGNtS2p6N3B6aTNpcVRZVjVQN0lyUGVySE94SDVjelNDSVVJdTM3NjVhXzlJSjNJWmhoa3k0OGt2VHdCa215cnZhTHlCcWNTalZYT051QlhoSm1MMThGRnVKODB6TGdaRmFIV3QxN2pybzJsQw?oc=5",
+   "fecha": "2026-11-13T03:14",
+   "equipo": "Luxembourg",
+   "tipos": []
+  },
+  {
+   "titulo": "Equipo de la Liga BetPlay busca cambiar de sede para 2027",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHBNWERyTHhqWmVmamZnZDJweDV6b0VfTEl5MG5aclg4QjNpZlBsdnFKYnNXU1RvU09ZcjJEdjRVS3JLYXpuU1p2YUw3Q05hOWJ2NjZUQ2FRNjRselBiTGVrWFpPZmVYd1VoQnJCSVdNQWpUZFYwbG9VeE8wZlBuVmstT1JpSmMtQVBnNXhSNzdOT0dEVk1xdzloYUFQQVFwWGFzLVI5LTVvRE8yVGRXNlRFM3pUclE?oc=5",
+   "fecha": "2026-11-13T02:34",
+   "equipo": "Luxembourg",
+   "tipos": []
+  },
+  {
    "titulo": "El tirón de orejas de Pedro Porro a Yéremy Pino por no aprovechar la asistencia de Unai Simón: \"Le voy a dar una colleja\"",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUtES2dqZWxXVkhZQ3FtMHd6cjkzWmdncEJERi1VTG0weHFWcWFpX3p4bU1HZ0ZIUTljZ0FOMENwVWpfeThTV0ZkSFRXTk1wSzUxVnMwanQ2VkJ0VHNKVFNfamZtZWRXeGpwa2ZScTNRUzdLZFQwSGpyaFNtaS1HWDVXSExCbGhjN0l6bURtYnh2cmJDM0FtMXZMT3BjOFI1YnJJTk1LX2JtU18xR2hXX05pSzZrQmJNUnBGOG5vbE9zbFh4TFF2QVdUZHFZUQ?oc=5",
@@ -349,11 +357,11 @@
    "tipos": []
   },
   {
-   "titulo": "América de Cali perdió tres puntos: así quedó la tabla de posiciones",
-   "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3B1Q25tT0xYU3FueTBBZ3lBblRWaTNPdEhPZ2JFRElaM0NBejBXQWJJTzlMbFFaNlJmVVdLbEtCSk5IamZjZ0hmYzhYTGtYeUh1Z3dvLVpPN3Q0amNDRjRuX3paU2traFh3c3ZMbU02SXZHU05NdWhldC04QmhfN0h1bFNFLVcxUEJ2WTNMdm9zNWhhdVZkYXZ1ejZOVTJDZ0Zqa2Zia25pVUtTRm1SZTdRbXJrN1Y3RlU4WTB5c1gwRG04?oc=5",
-   "fecha": "2026-11-12T21:21",
-   "equipo": "Luxembourg",
+   "titulo": "La afición de la Selección Española toma la plaza de la Ciudad Vieja de Praga al grito de \"soy español\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTJJWmQzR2VDc0R1YzYzbHZFZmhJUHhNbHQ2cVhvajhKT2h5QWFTMl9MOTdwa0R4WVNMVGVrSlRvMGNrRGdvRjhOQWFCX3Y2WWZhSW5HWUxNZldWanBldGtQLXZ3U2hwTXJrZmViTlJOQkNNbHVwUFc3TDg5X0xZUzFYWTFxUWVVWW5fWWpFTlNJaVFaZzBOb245RlFrc2w2UEszV3ZJWDhqQ01QZDVxVkNaQQ?oc=5",
+   "fecha": "2026-11-12T19:08",
+   "equipo": "Estonia",
    "tipos": []
   },
   {
@@ -421,7 +429,7 @@
    "fuente": "TUDN",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTdJREpVeUQ1eW5GZEpFLWpNOU9nSjN0bjREWDFLMDlteTltX1B1TTBCVXd3cUxfbWJ3ZmF5YXpjQ3JlTnZYNnA1MHRfdjhGS1h5SDJSTUJZTHhwWlpOOGZRLVE1ZktpTk1oSVNfangwaXp0X2JhUnFMZ1hLTU9IcFJKRWFCRFQwZzZZM21XMFdOLUpibmtIUFR3?oc=5",
    "fecha": "2026-11-12T15:36",
-   "equipo": "Wales",
+   "equipo": "Norway",
    "tipos": []
   },
   {
@@ -441,27 +449,11 @@
    "tipos": []
   },
   {
-   "titulo": "Portugal vs Dinamarca: previa, predicciones y alineaciones",
-   "fuente": "Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSTJYTEk1OEdrVnduMHdZMHY2cFA4QzIzMXY0VjdNOEhscnJ0dFY0bFNQb3hJSVVSUG42UHhyQ3RWc1BMN2dlUXF6SU8wWTVsMXlPYlFqNEFWNVdaTXFsdy1IQmppY3U4NDBobzFNcm50UGdBSWJSVFAyNlJBY3QyN1pyNm9rOGk0bC0tczU3cWNzM0luWHJB?oc=5",
-   "fecha": "2026-11-12T10:10",
-   "equipo": "Norway",
-   "tipos": []
-  },
-  {
    "titulo": "Cómo conseguir entradas para la Liga de Naciones de la UEFA 2026/27: precios para el Italia-Francia y el España-Inglaterra, calendario y más",
    "fuente": "Goal.com",
    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOSXF0NzhLSXFiUkhaQzdqZ3c4NWsyRzJGQmtOZl9NZzMtNFV2cFpScFhLSTBXdUR4RTUzQUxmTmUyT0l6Q09QMlN3MXBkWjFreFY4enZZUFJZdDNPRzliTzRPX1FKYnlHZHF3dzdBVnJHWDhUVmFRUlo5d2t1bmVqbWRfSVpMdmk2QU1FQWxqQ2hSSElIODAxVUtGejVyd3dIODhVQnJ0dDVCU2ozeU5LQ1M2dFhuYmlHV0MyV2FYanZXWEtxU1hTQUNxNTBBdlZMNFdRLTZ3MTAwMFQyRGNCME5Ia2pXd0M4SGpXX3hpbGh4dmJiLUFvVVFySUtZN1VmR2FqcUpqb01LakpOSlM1UUlMRjI0YThHOGpDbjZKdXFiVl9xaFE0a28wcnNXX0w2RjJkSTZKdXA1cWVFSFE?oc=5",
    "fecha": "2026-11-12T05:00",
    "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Dos definiciones de infarto al Norte de Europa a la vista",
-   "fuente": "elsalvador.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlJIMGVnX0k4WDlvcmZuajZwM2xTVjAzTGFUZXJ5c3FFR0lOYlh2SXNNaWFTX1dfbUoySXkyNlJUTHlpdzB5dk0wdVRBS0R0TWE2QkpNWGxfUF9QN3Y1Q3hpY0xxUlcydlFtZ0FRckcyejVzVHZuNllXWTNNOUIzNjRUY1Q2RnJYMGpTV0VQYzRBZlcwSm9XZjE3Q200UQ?oc=5",
-   "fecha": "2026-11-11T20:55",
-   "equipo": "Norway",
    "tipos": []
   }
  ],
@@ -477,18 +469,10 @@
    ]
   },
   {
-   "titulo": "Xavi vuelve a defender a Frenkie de Jong: \"Es uno de los mejores del mundo\"",
-   "fuente": "SPORT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDZkaFYzWVAyZWg3U1FfTDBLS1AtZ2Vjb0Z6WHBLTmpUUWtKUURja3hySEw3eFpOcGhNZkIxQXRLMXk4anlaVzRpb3pwVV81TlJDRTRMa0QzNDZIUDIyVU9FanBTY0J3N0l3R3dZbDdDTWRHeXlnV1FLc3VRNDZfbGZrRFNVREVCbnI1TmI0cEFiMU1WdjFJR2JRakRrd9IBngFBVV95cUxPYjF5MVN0MlAwdkZmTkhnb2lRaThtUVl6Q2stdGVwdTZIaUE4d3pqaFVNZGhPY0tLdzE4XzQzVFpUeVI4QWpfanpIdmtCUE1jd0dOd3JVbEVnbHRKS05sQzI0MFFPYU1JSmZ5WlFnNnBCQTZZVXphLXRob1NnbElNUmRtZGp3d2o4R05MNm9FWDBHYlR3TWNfQm9sNW5qUQ?oc=5",
-   "fecha": "2026-11-13T08:00",
-   "equipo": "Netherlands",
-   "tipos": []
-  },
-  {
-   "titulo": "Alemania deberá derrotar a Serbia para meterse de lleno a la pelea por el grupo",
-   "fuente": "Howl.Link",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA0WXpvWnVXME5KcjlTR0E5UlZERnFCWmllbWlpSF9UOFp3TXA3Ujk5MTZDWHo5ZHV0SGtz?oc=5",
-   "fecha": "2026-11-13T05:44",
+   "titulo": "Previa: Países Bajos vs Grecia – Lo que está en juego en la Nations League en Ámsterdam",
+   "fuente": "Sofascore",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONEVzRENBZWlWT1pvY0l2WEtzTUNCQlRPTndkNmlubDQtUWt4bWJxRDh3bmk4dWVLWGJwbWxGUURqSHFxRko0ek5meE5mZ1pNZm1GWk1EYnF2OVNSSUdXNkxiV29CdXM5NG16QWZMcjRETkpkWGlzdXp2Zkc1MW01b3RoX1oteXVHZTdLLWw2SVRjVXo2bjBqSzI3cGdscW9sSlI2dG9qdzVBZDFHbHlKUUVoemoxWVhkOUE?oc=5",
+   "fecha": "2026-11-13T08:41",
    "equipo": "Netherlands",
    "tipos": []
   },
@@ -517,14 +501,6 @@
    "tipos": []
   },
   {
-   "titulo": "Dumfries, en el escaparate",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15b2owdmhjUjZlbjFrWFh5US0yY1pFQzcxSnd0Q1dJQTNuRlMwWi01ZFduTXhXN0Vvc3ZBNzNYcFNYUFBRRWZjT25sdmNiRWIwbjdNamhmSlFXTnBhdURtY010d0ZsRlNGOGw0RWF5WUdCR1c0RG9vaW5DclTSAZABQVVfeXFMT3g2NFdyQ01waGl2d1dOcmFIVTd6dVAxY1ZIZHItZ3RZNjJGX2NncTB2SzE4d0xoZkJOaTIxVFlwbm1UTTVzYzhIOG9EVHR5cFdMOS00WVotdTUtRlRaQXY5WXg2UjY2bUh0UjRmV3liYmhZay02NWQ1Q3ZIdUMtaVRlelp1WkxueW5TeUZBdE90?oc=5",
-   "fecha": "2026-11-13T01:15",
-   "equipo": "Greece",
-   "tipos": []
-  },
-  {
    "titulo": "\"Está en llamas\": el renacer de Ángelo Sagal en el fútbol de Grecia",
    "fuente": "En Cancha",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMm5ubXhvR1hLY2FXa0RzVjBOZlVYbVM1SlZMNmwybURSSnBGNGVoZnFNZmN1YXgyQjBpT2tMR2UyRk96MnB4MktiblhCV0hWQjZ5ZFl4a0trT0I3N0VfT2kyRkVmNVdvLUQ3NWthNkNMSWJibjRvSFFNUWptaDBCMU15WE5LSF9lMS1lOUVvMEdNUU9Sb1l6NDhGUU80T3NtUnJtSmhGbjBWZzB2ZllTdlRtZWNZUU9hNkdMdU1mTU1xMmpZY3NxS1JzM0Rzdw?oc=5",
@@ -549,14 +525,6 @@
    "tipos": []
   },
   {
-   "titulo": "Nations League 2026: qué partidos se juegan este viernes en Europa",
-   "fuente": "365Scores",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yRXZRWk9STWotcmM2ejkwXzN1OFFEakdOdHBWSFFib3FmdVo3enhRQUNpd3NTYW5yUHNFSjRndzBUVTI3THA5ZjB1X0pCUFN2OW5aaXgxUWtPN1FkR1BHak15X0RiRkFtRjVHMlJrSjl3RUU2a2kyZlpCN3BzZw?oc=5",
-   "fecha": "2026-11-12T22:20",
-   "equipo": "Netherlands",
-   "tipos": []
-  },
-  {
    "titulo": "Xavi confirma a Frenkie de Jong como capitán y explica los motivos",
    "fuente": "Mundo Deportivo",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamIzZjJQejkxVlJITlg5S0d6VTdwbEpyNDRmRDZIRmZEMERWd0xVZFBETHgwZHF5bjZESHd2anFyNjRpQ3ZrY25pQ0wwa0VUZGhOLS1MbGp5Y0RrS00xNmswVmNjRU42NzhwVms5N3lJMkVzYWRPd3BpS1pWNnZWZ1lDM3lhbnlDVjBVUnBlMXp4ajE4WFJpY00walVRaExIeWFkM1R1OEt0dlJBSDlCWGt2UEc2SVg2MTNwQ3Q1MnIzbVZWNVJCRGNId3hvUnBFQ3ZVX21PajV1ckXSAdsBQVVfeXFMTWpiM2YyUHo5MVZSSE5YOUtHelU3cGxKcjQ0ZkQ2SEZmRDBEVndMVWRQREx4MGRxeW42REh3dmpxcjY0aUN2a2NuaUNMMGtFVGRoTi0tTGxqeWNEa0tNMTZrMFZjY0VONjc4cFZrOTd5STJFc2FkT3dwaUtaVjZ2VmdZQzN5YW55Q1YwVVJwZTF6eGoxOFhSaWNNMGpVUWhMSHlhZDNUdThLdHZSQUg5QlhrdlBHNklYNjEzcEN0NTJyM21WVjVSQkRjSHd4b1JwRUN2VV9tT2o1dXJF?oc=5",
@@ -577,6 +545,14 @@
    "fuente": "DAZN",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPY3BqTHlPMnRnSXBneWNkaUs5aEJnNk1BRThDUWdkQlVtaFNXeG9lY0Fwcld0a0hwMVE2M3otbnRBaXJfb1BiODFEbGFMWFJfZE5MVHJPQ21OQnMtaEx3eWctUnhqWURISEI1b2FnNjU0Q3VJNmw3aVBqMDdCMWZtS3Z4cG9PU05lcjdsNXVOYTRMWkNVMjJoZkRKa3pwVTh1Z1hSa0wzSGNiVFlxVDFucVo4Tlpxdzd0WE5EVjNRTTByVVZVVTlvTmVOUzRncWg4bXpvVlVlMTRMalFfdnhyYzNwbHM3cFFmN2lwZ2JjUGVqeUNYVXFLbmhRX3k5djYtX2dnMnpIZWNlWlZtZFpteUNmZw?oc=5",
    "fecha": "2026-11-12T16:49",
+   "equipo": "Netherlands",
+   "tipos": []
+  },
+  {
+   "titulo": "Justin Kluivert desvela el inusual método de selección de Xavi Hernández en Países Bajos",
+   "fuente": "Lente Desportiva",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmNjSEpROWVCUnRMakl3bWZUTHp4ckNtVDdSQkMzV3dTbkdiT09OdTVWeUpxVDI1RUpleHZHT3NwcTU4Tm1VUThXLVN2azlXYXBmOHVpNl9QUjBWcHFGTW94cjFIUzktU1VxN2dRdWJPNm92azhIUHJsVnhweF8yVEE0TUxWWng0Q25lUG1seHFibnBEa1ZUVTg3cjZyT0dXckNtNmJHNUJ4YTU0RkZrMl9aSXJ4VEp2LV93VA?oc=5",
+   "fecha": "2026-11-12T14:00",
    "equipo": "Netherlands",
    "tipos": []
   },
@@ -613,7 +589,16 @@
    "tipos": []
   }
  ],
- "1608368": [],
+ "1608368": [
+  {
+   "titulo": "Previa Ospitaletto vs Dolomiti Bellunesi, Serie C Jornada 14",
+   "fuente": "BeSoccer ES",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmJmTTBMZTdKVnB1SnJnRlVvTWRWOWdVaUx2VWtaNzQydjMtRERZZjgxVzJMMDAtbUpzaXM3Ym4zOVhvcEJ3V0djLWgxOU5KQ3hmSm9fVGxJcy1qcnZCZG43VVdmanVoX0xES0ZhanV2cHA1QW5BYl9GdFlCWUtyVUxsZjdyc3M?oc=5",
+   "fecha": "2026-11-13T09:08",
+   "equipo": "Ospitaletto",
+   "tipos": []
+  }
+ ],
  "1570021": [
   {
    "titulo": "Alerta amarilla en el Girona",
@@ -673,6 +658,14 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXJMTzRMNXl5ay1QR0Q1NlMyUWFvSktaQk81S1RaZk9KNS0yelprc1FfOVZfLXBfWHZ0UkRjb1AxWkR5bkdmaEgtandNbGlmOU5WNTN4SzdqTFg1U3dLQ0Q2YWpLaC1tU3B1SWgwRXk5Uk40S3Q1SmhzVU5PcHhUM3E0ek1GT2NvMV90UklUOVZIY1N1TnVIctIBmAFBVV95cUxQdXJMTzRMNXl5ay1QR0Q1NlMyUWFvSktaQk81S1RaZk9KNS0yelprc1FfOVZfLXBfWHZ0UkRjb1AxWkR5bkdmaEgtandNbGlmOU5WNTN4SzdqTFg1U3dLQ0Q2YWpLaC1tU3B1SWgwRXk5Uk40S3Q1SmhzVU5PcHhUM3E0ek1GT2NvMV90UklUOVZIY1N1TnVIcg?oc=5",
    "fecha": "2026-11-13T00:32",
    "equipo": "Oviedo",
+   "tipos": []
+  },
+  {
+   "titulo": "Alineaciones de Real Oviedo contra Girona",
+   "fuente": "rcdm.es",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVExpWm52cm1PTDVXMXFqSUxzQUZWSmRraml3bGhfTGZrcXI2elcwdUZEOEd5VTBJTzlZV0JRXzN6YnJQVzAyY3pQc3NmZ0owNGRaSWN0WUdFRG5CZEVLOExLUEtEU0VYZkE?oc=5",
+   "fecha": "2026-11-12T21:30",
+   "equipo": "Girona",
    "tipos": []
   },
   {
@@ -896,17 +889,17 @@
    "fecha": "2026-11-12T02:52",
    "equipo": "Poland",
    "tipos": []
-  },
-  {
-   "titulo": "Jorge Luis Pinto criticó la convocatoria de Néstor Lorenzo",
-   "fuente": "Colombia.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEF4RWRCTDd3OEczNllzWTgxWm50cmtYRGlidlppVEdsQVhSR2ZXOGRzdklaZ2Flb0hySUNoa3RRRzJPMlRmeFp5a3hOY3Z5R001WmVYTV9GLUtfaUxPMXpZcFJzc3kzZDJkZWZWZEZLbEExOXdoOHB6c1FPaVU3ZGRtQkNNNEFyUkliV1BmV1BoT1hWQjJhZTlIc0lVaU9FZk1DQlU1WTVBN2JDZFZSSmE5RzNWd2c?oc=5",
-   "fecha": "2026-11-11T21:03",
-   "equipo": "Poland",
-   "tipos": []
   }
  ],
  "1644376": [
+  {
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
+   "equipo": "Salamanca UDS",
+   "tipos": []
+  },
   {
    "titulo": "Con la ilusión por bandera",
    "fuente": "La Gaceta de Salamanca",
@@ -956,14 +949,6 @@
    "tipos": []
   },
   {
-   "titulo": "Alineaciones confirmadas del Navalcarnero - Betis de Copa del Rey",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOam9SSmZJX2tfVjlGelNCVWNhaENJRldoZ3Y2WnFlZ29telJGOHBQTEllQko1TmQzYkkzQ3RGN20xVEFNelI2YU14NlF4ZkhNM2wxREswS3Y3azZhTFVOQy1qekF1R2RJWXlDUE5wRnFtamVvRHFsSl9Lbkl6cmRPamh2SEJORm10OE5uTkRxRkoxVVFvRDZDZVpqTWVwaHUwYXNxQkMzRDg1ejk2cHlkbWlEWnJIZw?oc=5",
-   "fecha": "2026-11-12T18:01",
-   "equipo": "Salamanca UDS",
-   "tipos": []
-  },
-  {
    "titulo": "La penúltima vez del Celta en el Helmántico y el último gran Salamanca",
    "fuente": "BeSoccer ES",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjBMcFowN0J0dUZEdWhUSWNlc1pOUGdNVENKZ1h6eHNsLVJkeW9PWnU0MXRHSlE5bzlaV2c0TG9jb01KbkdEelVib3lhV0xxckpvX1NMSWI4bGFhZThVb2RKdFprV2VaMU41Vm9OWG5UTGJyQ2dDbTd0UnBDaVI0bndPdW5wSXRIR0lTUUJ5YkFzaDh5d0RYRUNjZ1HSAZwBQVVfeXFMT04wTHBaMDdCdHVGRHVoVEljZXNaTlBnTVRDSmdYenhzbC1SZHlvT1p1NDF0R0pROW85WldnNExvY29NSm5HRHpVYm95YVdMcXJKb19TTEliOGxhYWU4VW9kSnRaa1dlWjFONVZvTlhuVExickNnQ203dFJwQ2lSNG53T3VucEl0SEdJU1FCeWJBc2g4eXdEWEVDY2dR?oc=5",
@@ -985,6 +970,14 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV0NzYkh6RFkzSkNTYmRzSlhibWpxbXVFb2RzbmdqSHZldXl0cVlyYjJDblpISnpGZnZRc2IwdUt2OTdBTWR2WENiS1phNkRwMVJZeU9RVmI5QTdQcUx6cldKY3NudG5jT2NXMVNIM05sa1pCb3NybUw4Q3A1cllWZ1JyWFJLT0NZSFJkMlNEcDNOSDAxc1o2eHFYZm1zczNiUzdSMXJNem1JODFKelRTcUZQLVhQYWZMa3kzSDNqeFN3T2RmQzdCbDRuazJSY1h6SjIxaEF4S3d1S1VUc281V1VhQ3jSAeQBQVVfeXFMTldDc2JIekRZM0pDU2Jkc0pYYm1qcW11RW9kc25nakh2ZXV5dHFZcmIyQ25aSEp6RmZ2UXNiMHVLdjk3QU1kdlhDYktaYTZEcDFSWXlPUVZiOUE3UHFMenJXSmNzbnRuY09jVzFTSDNObGtaQm9zcm1MOENwNXJZVmdSclhSS09DWUhSZDJTRHAzTkgwMXNaNnhxWGZtc3MzYlM3UjFyTXptSTgxSnpUU3FGUC1YUGFmTGt5M0gzanhTd09kZkM3Qmw0bmsyUmNYekoyMWhBeEt3dUtVVHNvNVdVYUN4?oc=5",
    "fecha": "2026-11-12T15:10",
    "equipo": "Salamanca UDS",
+   "tipos": []
+  },
+  {
+   "titulo": "Estadísticas de Goles de Celta Vigo",
+   "fuente": "ESPN Ecuador",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3pndl84b2t1Q0Fqd04taDFDa1VEaW1UcjBhUFVZWTZLWFhwNVV4bWt3dTBfdjRLdUhWUWFYRHZfOGpUelVQSnM4LTU5bFM2QlBfaTN3Qk1IRFR5R0k0Sm5ZSDJuMUNyTjY2eDVJbmV4VWdfNVg3NzBCcEdJOGNRVU1XZFBBeEJfbll0bw?oc=5",
+   "fecha": "2026-11-12T03:50",
+   "equipo": "Celta Vigo",
    "tipos": []
   },
   {
@@ -1187,6 +1180,16 @@
  ],
  "1528968": [
   {
+   "titulo": "El duro proceso de Jesús Owono tras el fallecimiento de Jesús de Miguel: \"Está muy tocado\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjlCUzZRNmVOT2o1V3NBSXlsa3Q2MjViZWhDMmVaNkIxaW5WcTF0dFEwNFBWeWx6eUdoSFZ6eDY2RkRDeEJZRTJpUXdRMkR3V0VOWWhFLXZHVzJsbmtPc1Awb1Vyd3JuYU9ZWl9tUkZNcGFvcWYwX3FpWUwzQklGanRnLTFhcXZUQzl4UjQ5YlZoTEswaDk4LVRmVDdrSW5qVk9jS0VyX0ljZy0zTTQtMHBocEJBSnRLcmZHOQ?oc=5",
+   "fecha": "2026-11-12T16:20",
+   "equipo": "Moldova",
+   "tipos": [
+    "duda"
+   ]
+  },
+  {
    "titulo": "Morante, baja inesperada para la Copa y un interrogante para el derbi",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGJsbi1rU0tJOVViZjluQ0NwT0V2S1ZLd1BiUkU2NDFLejIydTdrUlRNVC16Zms0emdxUkw4dkFyMWxHc3lDN0lWQVRRVWpFeDZmN2ttZFFsWjh0SmtEb1d2WXpiSElYckx2a0t6S3phVW0xekc1NlZPU25MQm1YLWppUWMtY1JaVzdMNzZTbjVQbk9hdTB5SlVQVnFsVTJpelBCa2VOcmNtT2lMTkllT1VzMnY3dVdE?oc=5",
@@ -1202,10 +1205,18 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGZFcjg4cXBrUUtGUFllY0dNak9jb1B5VmFGdGxhcFFHdFlwcFI0NF9DMzl4SDE3eXJ4dk1GVkJnNUJWLXRTZWVhQm8tdzdUcjY5SGhneTlWMllYaUlNbHVHaHZ3SzhzSnhBRC1RUzlYelVGYndVSDU0RkI2bVhxcFdJYWR6OEJ3NE9hd2tYbV9ZOS11UlpSTDFMNHI4WkVkSnpSNUhLdUp0YkJoN1BxcS1zT1BodHRJZjVETQ?oc=5",
    "fecha": "2026-11-11T21:34",
-   "equipo": "Moldova",
+   "equipo": "Kazakhstan",
    "tipos": [
     "baja"
    ]
+  },
+  {
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
+   "equipo": "Moldova",
+   "tipos": []
   },
   {
    "titulo": "Rafael Louzán responde a Núñez Feijóo por la final del Mundial 2030: \"Es un clamor en la calle\"",
@@ -1328,14 +1339,13 @@
  ],
  "1545659": [
   {
-   "titulo": "Morante, baja inesperada para la Copa y un interrogante para el derbi",
+   "titulo": "El duro proceso de Jesús Owono tras el fallecimiento de Jesús de Miguel: \"Está muy tocado\"",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGJsbi1rU0tJOVViZjluQ0NwT0V2S1ZLd1BiUkU2NDFLejIydTdrUlRNVC16Zms0emdxUkw4dkFyMWxHc3lDN0lWQVRRVWpFeDZmN2ttZFFsWjh0SmtEb1d2WXpiSElYckx2a0t6S3phVW0xekc1NlZPU25MQm1YLWppUWMtY1JaVzdMNzZTbjVQbk9hdTB5SlVQVnFsVTJpelBCa2VOcmNtT2lMTkllT1VzMnY3dVdE?oc=5",
-   "fecha": "2026-11-12T14:16",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjlCUzZRNmVOT2o1V3NBSXlsa3Q2MjViZWhDMmVaNkIxaW5WcTF0dFEwNFBWeWx6eUdoSFZ6eDY2RkRDeEJZRTJpUXdRMkR3V0VOWWhFLXZHVzJsbmtPc1Awb1Vyd3JuYU9ZWl9tUkZNcGFvcWYwX3FpWUwzQklGanRnLTFhcXZUQzl4UjQ5YlZoTEswaDk4LVRmVDdrSW5qVk9jS0VyX0ljZy0zTTQtMHBocEJBSnRLcmZHOQ?oc=5",
+   "fecha": "2026-11-12T16:20",
    "equipo": "Scotland",
    "tipos": [
-    "baja",
-    "motivacion"
+    "duda"
    ]
   },
   {
@@ -1347,6 +1357,14 @@
    "tipos": [
     "baja"
    ]
+  },
+  {
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
+   "equipo": "Scotland",
+   "tipos": []
   },
   {
    "titulo": "Rafael Louzán responde a Núñez Feijóo por la final del Mundial 2030: \"Es un clamor en la calle\"",
@@ -1421,22 +1439,6 @@
    "tipos": []
   },
   {
-   "titulo": "Alineaciones confirmadas del Navalcarnero - Betis de Copa del Rey",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOam9SSmZJX2tfVjlGelNCVWNhaENJRldoZ3Y2WnFlZ29telJGOHBQTEllQko1TmQzYkkzQ3RGN20xVEFNelI2YU14NlF4ZkhNM2wxREswS3Y3azZhTFVOQy1qekF1R2RJWXlDUE5wRnFtamVvRHFsSl9Lbkl6cmRPamh2SEJORm10OE5uTkRxRkoxVVFvRDZDZVpqTWVwaHUwYXNxQkMzRDg1ejk2cHlkbWlEWnJIZw?oc=5",
-   "fecha": "2026-11-12T18:01",
-   "equipo": "Scotland",
-   "tipos": []
-  },
-  {
-   "titulo": "José Ángel Carmona valora su futuro desde otra perspectiva",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGk3cWdsM0ZNZzVYS3Vpd3VJdjlDYUEwSnVydmNLWE45QXRwWDlCVEVTYXJuSkRKTV8xWWJYX19kZVpncHZUWC1XQlNDbVdHQ1ZUTjN6ejEzdngxczl6VDVISjVRRm9mRjEzU1d6NEMxRUF3bWRaa3NSVF9yd0RxdFpRMW1KVVhGWDNPZmdQTkp4RWxCVkswZERYOFBsVThqdm1iVlI0d0FubVpJQXBCbVdvTmt3bFJQUEtSOWZlRXNMMV83TXpQVXRUdGZNbHlXOUc4?oc=5",
-   "fecha": "2026-11-12T14:54",
-   "equipo": "FYR Macedonia",
-   "tipos": []
-  },
-  {
    "titulo": "Velocidad prudente en el proceso de venta del Sevilla; con discreción pero en marcha",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORXVaYzBnSVJPUmFhbUxVa3lUUmFNeElwRDB0a2JCZ1pfeVQ0dmlhLTFzRWFYT2I3TGg0cGF1b3VMTE9YNDBJaDFfZ25nSVl2UEFEbEljQURHdlFFa2tIUmVTMzFLMEhWUGF0bTFCQkg4R0pPamliNzFYVnotLUY3U1lqYkFPQmVob0ZDYmJGVmFjY0M0UjJuaVA3UXFmMThoVWpKSG5WR043UzF6MV9PZ2FjaUNvT3pHTGw3T0J6N2tmbG1CSHUxUjBDMW1TcmxzYjRhZUdRbmNSU2VEOTJTSg?oc=5",
@@ -1468,26 +1470,10 @@
    ]
   },
   {
-   "titulo": "El tirón de orejas de Pedro Porro a Yéremy Pino por no aprovechar la asistencia de Unai Simón: \"Le voy a dar una colleja\"",
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUtES2dqZWxXVkhZQ3FtMHd6cjkzWmdncEJERi1VTG0weHFWcWFpX3p4bU1HZ0ZIUTljZ0FOMENwVWpfeThTV0ZkSFRXTk1wSzUxVnMwanQ2VkJ0VHNKVFNfamZtZWRXeGpwa2ZScTNRUzdLZFQwSGpyaFNtaS1HWDVXSExCbGhjN0l6bURtYnh2cmJDM0FtMXZMT3BjOFI1YnJJTk1LX2JtU18xR2hXX05pSzZrQmJNUnBGOG5vbE9zbFh4TFF2QVdUZHFZUQ?oc=5",
-   "fecha": "2026-11-13T01:03",
-   "equipo": "Azerbaijan",
-   "tipos": []
-  },
-  {
-   "titulo": "Josep Pedrerol, sobre la ausencia de Lamine Yamal: \"No le importaba el partido y estoy de acuerdo con él\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHBFVElTaGM2TnRna201bk1rdzJvNDlxWTVDVGRZb2k0UGxfZnhwTW55ZlVVc1FzTjRYREJYUmZfZDFkVUFLeXhGWHVybVZIQjFFbnJ1a2p5VHRwcXRDZEY5OFJvNlB0SVI0M1RBdnZPUEcyYkNoN2FvWHhfbkpVUWY4Y0NFeXBCR2cwMm56VUNDZHJCWXNRSHUtNkFpdHJHM3UxWi00YXBZVjZjb2hrSHZYNl84VEt0UTlKRmx6X01LNUpzRndRYQ?oc=5",
-   "fecha": "2026-11-13T00:48",
-   "equipo": "Azerbaijan",
-   "tipos": []
-  },
-  {
-   "titulo": "Zubimendi desvela el único punto débil de la Selección Española y habla de su futuro: \"Quería aclararlo\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUp3amdPZ0h2R0EyMHllNjBvMkY4Uk40OGlnTDBZb0pwdG5ZTzctZEJmd0ViYXlhdmZXNURzZkdFMWhrWElBSDJwYkhWQzBMNHRKYlVXelBzb0JUejNFX0lKVFl0b1otMUpNbkQyUzlvNENUZzE0UnBDVVVEaV85MG9jWFZDNnU4YTk1cHFMOFJyT3RneWJYZmZKRlBRa1dTcDNEMkgyQndoNU44UXlmWmM1R1d4NnEzbGtrUmZyckk5MlZ5Mkl2Z1hn?oc=5",
-   "fecha": "2026-11-12T23:31",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
    "equipo": "Azerbaijan",
    "tipos": []
   },
@@ -1570,10 +1556,10 @@
    "tipos": []
   },
   {
-   "titulo": "América de Cali perdió tres puntos: así quedó la tabla de posiciones",
+   "titulo": "Equipo de la Liga BetPlay busca cambiar de sede para 2027",
    "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3B1Q25tT0xYU3FueTBBZ3lBblRWaTNPdEhPZ2JFRElaM0NBejBXQWJJTzlMbFFaNlJmVVdLbEtCSk5IamZjZ0hmYzhYTGtYeUh1Z3dvLVpPN3Q0amNDRjRuX3paU2traFh3c3ZMbU02SXZHU05NdWhldC04QmhfN0h1bFNFLVcxUEJ2WTNMdm9zNWhhdVZkYXZ1ejZOVTJDZ0Zqa2Zia25pVUtTRm1SZTdRbXJrN1Y3RlU4WTB5c1gwRG04?oc=5",
-   "fecha": "2026-11-12T21:21",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHBNWERyTHhqWmVmamZnZDJweDV6b0VfTEl5MG5aclg4QjNpZlBsdnFKYnNXU1RvU09ZcjJEdjRVS3JLYXpuU1p2YUw3Q05hOWJ2NjZUQ2FRNjRselBiTGVrWFpPZmVYd1VoQnJCSVdNQWpUZFYwbG9VeE8wZlBuVmstT1JpSmMtQVBnNXhSNzdOT0dEVk1xdzloYUFQQVFwWGFzLVI5LTVvRE8yVGRXNlRFM3pUclE?oc=5",
+   "fecha": "2026-11-13T02:34",
    "equipo": "Hungary",
    "tipos": []
   },
@@ -1622,14 +1608,6 @@
    "fuente": "AhoraMismo.com",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQXzVaY2hIQUZFVzVSenFPNXExUU83WFhoZlRocVB3NzJkRHB6OGY0XzN2d3F2LUFwQlItVUVsU3o4NUlXb1Z1Vzg0REFyQXRvSkJQaGdJaDdKNmVGNmptb3dLZVdSY1RwQ204VllRdjRJNURESUJDdVQ4UFRFcW1PV3JWeGFZWmtxWUo1eWFEOVVxUFlkQ2RzNFhxY3hrVlR2bGtVWERtMkxmVXZXYl9PVXlyX2ZDTjQwVmc2Mmw1U0pRWmhKeGNxekhGWUdvc1c0T2RmWUNNRS1tdw?oc=5",
    "fecha": "2026-11-11T22:29",
-   "equipo": "Georgia",
-   "tipos": []
-  },
-  {
-   "titulo": "La historia de Duruji Kvareli, el club europeo que juega en un estadio que era una fortaleza hace 300 años",
-   "fuente": "Radio Mitre",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY215amh5YTliX090SG92ZXUxa3F1ajNiQ0hZYndzSTB6ZS1nZU8wMjk1VEFEYmM4MDQ5WFJ0Z3FhUEZmNEtsUXZNYnlEanJpZVcxaWZXcUZsUTBtUzF3RzR3OFVWaURsWmtydHlmN1prRk02UmhPNFRXaEdvcWdCV1hWNk1qM1l2ZjZjX19FdW5hTzAzcmgtOGJWaVBtV2I0U1o3a1JsenFXZEMyV0s1cFR1dHlhbnRfUHQ4ZjRFMjhveTdfaW9xY3pyVlJpbTJHX29HV1dGd3JFamJzZjdYU2lEQQ?oc=5",
-   "fecha": "2026-11-11T21:04",
    "equipo": "Georgia",
    "tipos": []
   }
@@ -1714,6 +1692,22 @@
    "tipos": [
     "duda"
    ]
+  },
+  {
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
+   "equipo": "Gibraltar",
+   "tipos": []
+  },
+  {
+   "titulo": "José Luis Sánchez pide que Sancet no vuelva a jugar con España: \"Le saca de la ecuación\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGlsQWlmWkpWcDRnTzJjNHRYeURrcGVEWGpfYkNxSE83bEFZYndiYjFyd2pqcE1YMmdUUGctYlV1NU82TVpxUTN2STRnbThhRjFtWGNwd3FTX0pFNEdHNW41cDU0S2NkNkprTlo3N2xYM1lCNDFtWm1CZDdKVVg1OXFqcEFjSDROb1VLQTQtcExSbzJPaXE2Q3BvdDFZOG9MQW5nUVZoRWlaY2M?oc=5",
+   "fecha": "2026-11-13T08:04",
+   "equipo": "Gibraltar",
+   "tipos": []
   },
   {
    "titulo": "DT de Andorra revela si Jesús Owono se retirará de las canchas tras la tragedia de Jesús de Miguel",
@@ -1816,14 +1810,12 @@
    ]
   },
   {
-   "titulo": "Kylian Mbappé, baja en Francia por lesión, Zidane lo confirma",
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGZFcjg4cXBrUUtGUFllY0dNak9jb1B5VmFGdGxhcFFHdFlwcFI0NF9DMzl4SDE3eXJ4dk1GVkJnNUJWLXRTZWVhQm8tdzdUcjY5SGhneTlWMllYaUlNbHVHaHZ3SzhzSnhBRC1RUzlYelVGYndVSDU0RkI2bVhxcFdJYWR6OEJ3NE9hd2tYbV9ZOS11UlpSTDFMNHI4WkVkSnpSNUhLdUp0YkJoN1BxcS1zT1BodHRJZjVETQ?oc=5",
-   "fecha": "2026-11-11T21:34",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
    "equipo": "Slovakia",
-   "tipos": [
-    "baja"
-   ]
+   "tipos": []
   },
   {
    "titulo": "José Luis Sánchez pide que Sancet no vuelva a jugar con España: \"Le saca de la ecuación\"",
@@ -1946,14 +1938,6 @@
    "tipos": []
   },
   {
-   "titulo": "FUTBOL PROGRAMA JUEGO DE NACIONES",
-   "fuente": "RTVE.es",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nNHlpM0dZbDh5ZldLQ2VURTBNY3hxOXJzdlBnVC13Tjc5MUdjZHg0MEpaWWhBMzNDMHFoSV9kMEZrUjhtQ1Q5WE1MM3lUcDlvWjNXX29hTFZkemZXejM5dU56RGZfQQ?oc=5",
-   "fecha": "2026-11-13T01:03",
-   "equipo": "Sweden",
-   "tipos": []
-  },
-  {
    "titulo": "Previo Países Bajos - Suecia",
    "fuente": "RTVE.es",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WbTNXVWV0eUlYa1ZvaXpMdUFxN1MzZFpVRzNHeEE0dWFYSmNyekJGSDU1WHF3Z1RuQS1XOXY3SkRpdXlnM3dvUkJTM05uWTVTUjN4YXdOQkY3aDkxb1dTcXVLMWdRZkZxZkpIcFgzRmNNelQ0Z3I2MnB0Qm5IVnM?oc=5",
@@ -2016,31 +2000,15 @@
    "fecha": "2026-11-11T22:13",
    "equipo": "Sweden",
    "tipos": []
-  },
-  {
-   "titulo": "Anes Krdžalić, #TanNuestro",
-   "fuente": "CD Tenerife",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9idkdEcnhLXzNYZzd6OHR4bjhpbmZSZG41ckhDWDVvMXI2WGdlbWMzNy1hUDBpdVJSYWxSQVRwbFNCWm12a0ppQ3VhaVRVWXBqcGxBMGpXS3dPSTJxYVZWTi1pLU5wcDNqb18zUUlTcWVESjNLTVZyaDRn?oc=5",
-   "fecha": "2026-11-11T21:17",
-   "equipo": "Bosnia & Herzegovina",
-   "tipos": []
-  },
-  {
-   "titulo": "Dos definiciones de infarto al Norte de Europa a la vista",
-   "fuente": "elsalvador.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlJIMGVnX0k4WDlvcmZuajZwM2xTVjAzTGFUZXJ5c3FFR0lOYlh2SXNNaWFTX1dfbUoySXkyNlJUTHlpdzB5dk0wdVRBS0R0TWE2QkpNWGxfUF9QN3Y1Q3hpY0xxUlcydlFtZ0FRckcyejVzVHZuNllXWTNNOUIzNjRUY1Q2RnJYMGpTV0VQYzRBZlcwSm9XZjE3Q200UQ?oc=5",
-   "fecha": "2026-11-11T20:55",
-   "equipo": "Sweden",
-   "tipos": []
   }
  ],
  "1545654": [
   {
-   "titulo": "Tribunal de EE.UU. rechaza bloquear la entrega de pruebas de la UEFA contra Gianni Infantino",
-   "fuente": "De Último Minuto",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVEtUMGI5NlpfLXZFdzdpd1F5Z09Dbmt1RlBBQWEwb1k3Vy0zUmFGMXh6MFVFc290QmhGUDJ1bkI5cEtKVDdYRkNUTU8yNTdmWWxhZHpwcnhfR2U4MHBBUmFMM0VvNjltejFKY2l2MnlBR0V3aFVHbGZIaFdDWmJZQ2RObkRLT3FadS1aMFBlbUdOWllaNDh5eXNTT2E0S1FPV1JqbjM0QTMyWnFjejBVTEJrelpBMXZNSlNoSEZRbGNLRGpEcG5sbllNRTNlbXEy?oc=5",
-   "fecha": "2026-11-13T03:45",
-   "equipo": "Switzerland",
+   "titulo": "Eslovenia vs Suiza",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVI0dzVvb1dGZ0tBZEUzX3hKVkJINFVUdUVNZ1hHVkpQNHVSbkR6ZXZRcGRsUk1QUkVLTWZvcUpGWkNWV3NsSkgzZE5FcVlWTFJIeDZQbUctOVFKYTdfTlAyeVBJWWE3SmxZUWl6dXExLUsyN2NJdFFSMHZIVDNqZG52T0ZmWEYyUkd0X1VpTlR4S0Y1aFpHcE0yRmRYQQ?oc=5",
+   "fecha": "2026-11-13T06:44",
+   "equipo": "Slovenia",
    "tipos": []
   },
   {
@@ -2092,6 +2060,14 @@
    "tipos": []
   },
   {
+   "titulo": "Conoce las fechas de la pretemporada del Málaga CF",
+   "fuente": "Málaga CF",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG16Zm82Wm9mbzNXVG4wZmo2bnUzeFc2OFg5cFQxUTZKUDRJbVRrMUpLYk95R0NsU01rQXdHX2ZPd0lha2hLWUJUdXdxTXUyaVprejZsSGszWDB4Q3dNckpvU2JVWXMzaXh6VU96bGhma2xVRndZTmF1Zmlad2FmclVrZ0FfbE9SRkRrTg?oc=5",
+   "fecha": "2026-11-12T07:16",
+   "equipo": "Switzerland",
+   "tipos": []
+  },
+  {
    "titulo": "El reloj mecánico «más delgado» del mundo premiado en Suiza",
    "fuente": "Zamin.uz",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMExDOVhpaWtubHgwWVk1dUQ2X29YYUkwcHhGSlY3c0pRRGlOR2pKbUNnMnVkaXhrYVoySVBfY0JwOFRHbFFzMnRvNWMxTkQ5RXM5ZVJnVU1FWjdxYm9BVzRLQzl5WWRuanQ4elJTRzdicHJnSlhvTWJxMkN1VHU4QnFXWGhRTXA2ZVg5a0RFMy1Wck50X2JwMWIyQQ?oc=5",
@@ -2113,14 +2089,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMHpuMVlIUkE5V0VreUttWEVmY05UOXFJZjh6eDh0emplOXppZG9naHhUclp2dEZsWDF3aS02NDlBcU0tQnlLUldyZC1kU0pZTFlhUU5MV1lhdzdHV29yTndya2ZDRXF1dS05dTlMYzFWTEhLWUw5OUMwdjMtYkFLUVhmelNrUGxJaHQ2MG1wVHZwdkQtREQwM25QVUY2UmlLelFJcXVJZnUtMGJaZnA2V2lnYzQ4c18zVG5iSjBUOFVjR1M0UmhpYjZxbjZkTjM1TnZ3NmpCM0NEaGJHbHYtakdFWdIB6AFBVV95cUxPejlwYnMta0tXZHhEWlE5Snp4ZlM3N1owQXVkZXV5S2hkQk55WXBTdi1kLXVuTVZKUkZtclN1SFgyU3BrQWEyQTdyZGpLVXpEOVNvN2tyQVRsc2swWGlUZ1RtdmdDZ1A4WENfbUJfVWQ2VDlCZHdPUVZIR3lhTkUwa3k1dzhZcGw3N2lSRmw2WjBOelBpV2lhc0JPQ211aExaSGYzbElSZEFWRURfb0FuaGxqOW1VRXR4MVFOQnlfalpjUU5RaWluLS1IUDR4ekhFX0tFdDVYbUlSV2RqbE1MLVlGWkhhMk9a?oc=5",
    "fecha": "2026-11-11T21:46",
    "equipo": "Switzerland",
-   "tipos": []
-  },
-  {
-   "titulo": "Anes Krdžalić, #TanNuestro",
-   "fuente": "CD Tenerife",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9idkdEcnhLXzNYZzd6OHR4bjhpbmZSZG41ckhDWDVvMXI2WGdlbWMzNy1hUDBpdVJSYWxSQVRwbFNCWm12a0ppQ3VhaVRVWXBqcGxBMGpXS3dPSTJxYVZWTi1pLU5wcDNqb18zUUlTcWVESjNLTVZyaDRn?oc=5",
-   "fecha": "2026-11-11T21:17",
-   "equipo": "Slovenia",
    "tipos": []
   }
  ],
@@ -2308,9 +2276,9 @@
    "tipos": []
   },
   {
-   "titulo": "¡El ‘Chucky’ Lozano! México se puso arriba 1-0 sobre Alemania",
+   "titulo": "¡El campeón está de fiesta! Alemania recuerda su título en Brasil 2014",
    "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGhmZlptZlhIa1RsY09YUHJxOEJ3Wlp0dklHbnM3Z3NDVWIydlFnWVhzYkliOXlONXJyZV9kUnVrbXlzVWJ3UHM4RlZKaG9vT0c0ZndqZTlPZ3c1ektDOTlWM1VYME5hRnlhbE1yZ0hCbjI1SjRxZkw0dVk0S0d2VVNuS1dvN2pFNm1Ha2s5anVCVEI2UlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTA2RW5sYWZwWVVsS0xkd0RNWW03Z1hQalNPYVZGdEpaVnpWcVkyRkttcnYyODJTa3lrMEViLWFybjhPM2ZpUzRWOUFqa09IT1ZJTm9yVHNJWG1qUkN6NDZfRHo0WkJ5Um1DVEEtUzZZOFNMTzlQSmVZQjhZMWVGVVdONzF3OUdON1BuTUJEeDV0VGUtcUtvamwyb0F1NU4wbnJLXw?oc=5",
    "fecha": "2026-11-12T15:36",
    "equipo": "Germany",
    "tipos": []
@@ -2364,26 +2332,18 @@
    "tipos": []
   },
   {
-   "titulo": "Serbia vs. Alemania, Liga de Naciones 2026: día, hora y cómo seguir online",
-   "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSTBoSFJUTF82UTB0b1BrcklWS2dWck1PdW9VQkJad2cyQ2ZDVzdBUmNyZ1RBOTFLa0lEUGN6Zjl4SC1jbnlBWU5iZktyTWxpblNDczRkaWRkNjVaMWtDUVEwVXFMd3M4M2c2VjhOd0loZjU4Z1M2UWJLNFVqMXFmMVNKQWRZLVhZZ1hNdy1PM0xEUkRhMEhPNDFyWmxlVjRMUzh1bnc1MWE4cGY5ZlNRVlA2UFJxRWlDbTdWRlJYemw1Y0dTNkE?oc=5",
-   "fecha": "2026-11-12T06:04",
-   "equipo": "Serbia",
-   "tipos": []
-  },
-  {
-   "titulo": "Murió a los 77 años histórico futbolista argentino que hizo parte de la selección en el Mundial de Alemania 1974",
-   "fuente": "NTN24",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX0RvRmE3VnpRQk1TeUNHUWJ3UXU5MzNoTHdqemlyVGdoaGlQLUZvMFRxc0d3YUZJcnFScHRqbkJ1TTJocUdVMnI4ajBQYkwwcktBWnhhdWw3Q1czQW9SRHM5NHdyeDljUUxrMHo0TGFkUlRSYnlSa3Rxbm1ra0c0TFA1UlVDd2RVUTF2TklnUjNqZ19VcEE3RkhqWUUyQWlmVG93UkV6dTlxMkxXNjU0TDJSa3hxVXkxRHVCWWVnMURUQzJIUVgtcmVDcWF0aV9sN3AwQTNWeXlLdGMwUEZGODZjcmhmM3Jza3VSc1lkR1_SAfABQVVfeXFMTzdNX2xqUTJDd3dCWTNtWmktMURJTjZPd1U4QzdvSkpWMm1JSmhKTzZ6bWhwdElhOGxFRHNXZi12dkRXRV9LTkdiTEM3SS1OVFpYYjV1QjJ2UjlBY1ZPdEt6NWRyNkZwTHhDSXk2bUVBTFlTMk1UZUNDZmo4bERsMDZ5X1RqRHlPSjhjaGQtM0NkeW1uOTc5a3ZlU1JHcVJNS0tQdS11YzYyTVdhWVlabWNOV2h4VWptbzM5MzduUUE0d0FkQlkwa3dTeDd5MTFxdlhRUGxJTEE5dHgtVmNLUVQ5ZXhTeGgzVzVJb2NORFh6?oc=5",
-   "fecha": "2026-11-11T22:24",
+   "titulo": "Conoce las fechas de la pretemporada del Málaga CF",
+   "fuente": "Málaga CF",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG16Zm82Wm9mbzNXVG4wZmo2bnUzeFc2OFg5cFQxUTZKUDRJbVRrMUpLYk95R0NsU01rQXdHX2ZPd0lha2hLWUJUdXdxTXUyaVprejZsSGszWDB4Q3dNckpvU2JVWXMzaXh6VU96bGhma2xVRndZTmF1Zmlad2FmclVrZ0FfbE9SRkRrTg?oc=5",
+   "fecha": "2026-11-12T07:16",
    "equipo": "Germany",
    "tipos": []
   },
   {
-   "titulo": "Bojan Kovacevic, convocado con Serbia Sub-21",
-   "fuente": "Cádiz Club de Fútbol",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajhNR3p5UTlaYlkweWh3S2tCQ0Vyai1HLUI1VG04V2wwR1ZwYnRINjdPVUFBci1vVTA5Y1BJclRWb2NLYmlMdlJrVVR3MFV1NW9ORndqYlZRU0VITkNXZjVaVENnbDRmN21Zd2UyRHRXRUp5WHMtcnFRWW5lV2VvVE53?oc=5",
-   "fecha": "2026-11-11T20:33",
+   "titulo": "Serbia vs. Alemania, Liga de Naciones 2026: día, hora y cómo seguir online",
+   "fuente": "La Nación",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSTBoSFJUTF82UTB0b1BrcklWS2dWck1PdW9VQkJad2cyQ2ZDVzdBUmNyZ1RBOTFLa0lEUGN6Zjl4SC1jbnlBWU5iZktyTWxpblNDczRkaWRkNjVaMWtDUVEwVXFMd3M4M2c2VjhOd0loZjU4Z1M2UWJLNFVqMXFmMVNKQWRZLVhZZ1hNdy1PM0xEUkRhMEhPNDFyWmxlVjRMUzh1bnc1MWE4cGY5ZlNRVlA2UFJxRWlDbTdWRlJYemw1Y0dTNkE?oc=5",
+   "fecha": "2026-11-12T06:04",
    "equipo": "Serbia",
    "tipos": []
   }
@@ -2450,14 +2410,6 @@
    "tipos": []
   },
   {
-   "titulo": "Israel prohíbe la entrada al candidato presidencial francés Mélenchon",
-   "fuente": "Diario de Noticias de Álava",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0FHeDVJZ1RtSnpDYzRubUdSb0hnZE1nUmxhSXZOVnB5Q0FHX2dEQWQzb041cUFId1F0c1k0R2dpaVVHTWxKU3hial9JelpscFd5eFRwTk5fejkzcG9VWW1jM2RfbGZtMFVZV1JVa3ZPU2hjNzlkaFdGclFKdjh3R3dmTEE4RFFLNFBvdV85dlY5c0RRc0xRN1BMM1lpOUdySFdrRWl3S3FBNTNCaWtVWThqal9QVXVKLUwzbnA2ONIBvwFBVV95cUxQM0FHeDVJZ1RtSnpDYzRubUdSb0hnZE1nUmxhSXZOVnB5Q0FHX2dEQWQzb041cUFId1F0c1k0R2dpaVVHTWxKU3hial9JelpscFd5eFRwTk5fejkzcG9VWW1jM2RfbGZtMFVZV1JVa3ZPU2hjNzlkaFdGclFKdjh3R3dmTEE4RFFLNFBvdV85dlY5c0RRc0xRN1BMM1lpOUdySFdrRWl3S3FBNTNCaWtVWThqal9QVXVKLUwzbnA2OA?oc=5",
-   "fecha": "2026-11-12T19:00",
-   "equipo": "Israel",
-   "tipos": []
-  },
-  {
    "titulo": "En opinión de Gashi, Kosovo no está lejos de clasificarse para el Campeonato Europeo.",
    "fuente": "KOHA.net",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1VjdHFZNktFc29IOWI0YWVxbFNkRDRBVFN4V094TE9VR3FGemVSVXBKZVlEcUpGVk1sTlFLU3lwWjFPT1FDVnk3UGxleGRER0ZtNlNMcjhEaWoxMkJ1cWJoX1lsZHRoYTlEQWJCTmpDNDRDNno1ZHQyeF84a2VtRGlBNUdkbVoxN0dkZWwzc2ZXeGtvY2pZ?oc=5",
@@ -2470,14 +2422,6 @@
    "fuente": "Diario San Rafael",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHQ4RjVWYlEyd1c4NFQyc0Z4eHdTdnV6TDhBQ1VOcVNfSlhyZVFEalV4RGQzWkZDOUxQdzhsVFFGUkQtTE1OZWtYZHpyQ1k5MFVKLVIzaHJTQWNuU0wtLTcyUG1VbmJ1VkdIQkYwbVZYaFl2aG1jSDc0cWdKaWZTZUFWeHgtUXhTUEFRNUhacG9VNmtCcV95S1I5N0lnd012bzBmOUZVbGhLdkY5SXZhek9PTjBPc1hlc2c4WmdvWQ?oc=5",
    "fecha": "2026-11-12T17:04",
-   "equipo": "Israel",
-   "tipos": []
-  },
-  {
-   "titulo": "¡En el aeropuerto! El día que Israel López atendió a Cuauhtémoc Blanco",
-   "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTViSEpWNlRFTS0wV3l1dHdfODM2czBrVlNtSUxYNWwwNkFBUV83UHdTcUtuUHNFVTZvaHZJa2w3WFBuNFJ4SmMyZmREX3ltNG0xYVJJV0t0cXVwQmRnakZSQ09rNDRfT21teEZDcEJqWWhHM3lFNE5WLWxkQk0zbl9ZdlBIYm5hanJfSnB2d1lnWGpid2lxc0N4V2VpWkJBTG10Nw?oc=5",
-   "fecha": "2026-11-12T15:36",
    "equipo": "Israel",
    "tipos": []
   },
@@ -2522,25 +2466,23 @@
    "tipos": []
   },
   {
-   "titulo": "¿Qué posibilidades tiene Kosovo de permanecer en la Liga B?",
-   "fuente": "KOHA.net",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2xtV0xoUnA4ZlF5ZFpmdXJXNHlxVFZ1N0pFMVlKNlYwcnhIVjZNODVDTFMtWmVxczlXOHBuMmVCOXVaNTREYzNtUUR2U2FoT3JtZGE5X1RsdF9fTzdWX2x4QUlQM1J1aVZUNkxCWkVRMkViOGZOMW4xZ3dBdm5aUjE1ZldwYjhqa3NyVFdR?oc=5",
-   "fecha": "2026-11-11T20:51",
-   "equipo": "Kosovo",
+   "titulo": "Explosivo Juan Manuel Lillo en el entrenamiento del Tri",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWtOaVlWaDVJbWlzTnA0aE04aEdpUUhCckYzU3BQOGFWSWNRNm5PU1E3eFM2dXoycVE0V01MYkthSU5wdlNPTm0tNjNrcjNBbjA0cnlrZXZqcGtWcHZxMWFLc3Y4aXE3b25YcnNCNU9nUWRfNngxOG9JY1Q5NHRKMnpMVUF1RHA3SlNUX1ZDQzlHaGtHdEt4Q1N2b0ctZFZ5RGM2MG9lU01sbTJhU2pXcy1fbExQa1hOM1AwblRMaU01d0k?oc=5",
+   "fecha": "2026-11-12T04:34",
+   "equipo": "Israel",
+   "tipos": []
+  },
+  {
+   "titulo": "Netanyahu niega responsabilidad de Israel por condiciones en campamentos de Gaza",
+   "fuente": "De Último Minuto",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDlGWkpUd2JHdUV5bTFkWXRPRGllSUNvME1MSFc4YS1UaHZtUDdHQlFZUUxXTS1wd0g0dXRuYVpoTThXVlVrc0pVeUNrb0kxaXZteUt3UmlaMS1XOVlNUDZXTXZEblZvbFdxUGFVdE45ZU1sUXlCREhkSGM5RnRyZQ?oc=5",
+   "fecha": "2026-11-12T04:00",
+   "equipo": "Israel",
    "tipos": []
   }
  ],
  "1528974": [
-  {
-   "titulo": "Sin Cristiano, con Mbappé en duda y Yamal ausente, la Liga de Naciones entra en su hora decisiva",
-   "fuente": "El Nuevo Herald",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pUGRSNkVMalVoZC04MldkVDRQRF8tV3IzX3NGemVGRWs2ZlUzRTNpQmlKdk9razhyYUs4RzE4UWtsNVhwcFBJUVlqWENtZ1R2NE1Pb3MwQU9jRlNSTDg0eTZBQ2I0WFc3amJkQW54d2hzQndsVkHSAXZBVV95cUxPVDZmb1dRVDdmLU9WNDdaLXBYc0hhV2ZRaEFScTF0NHpsUkNJZThvaWdLZ09WeHNhVWl4czVYN2RkcXF2UXFzcnpfRjJnZHN2TUozNV8tNEl4TkM4QTUwUTMwQ1RabVRqQUFLMTR3Vm9Lc1dhdG53?oc=5",
-   "fecha": "2026-11-11T20:52",
-   "equipo": "Portugal",
-   "tipos": [
-    "duda"
-   ]
-  },
   {
    "titulo": "Portugal vs. Dinamarca por el Liga de Naciones, 2026: día, hora y cómo seguir online",
    "fuente": "La Nación",
@@ -2638,6 +2580,14 @@
    "tipos": []
   },
   {
+   "titulo": "Cristiano Ronaldo Jr. debutó con la Selección Sub 17 de Portugal",
+   "fuente": "ESPN Deportes",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVi1KcHRtNDFKZTNZUkF6eDJ2RnotMmlodHhERUo1d1NkVURUc2NfY3M3UFNGdDRoRGgxZ1RoZkdGWmRHN3FOSzdqcldvV3BVMWhSNXplb0lHTmEweFJvQXZ2WWJoU0tzQnlFY3Jvc1hwYlhhOHJpYXc1eGRJNEpUSUV6X2d3WWFvS29nUi1ZM2FlS1hVd191S196MnotZnh3cnFTcXRDTmJpM3ZsUjU4dVJwVkFKQXM?oc=5",
+   "fecha": "2026-11-12T22:10",
+   "equipo": "Portugal",
+   "tipos": []
+  },
+  {
    "titulo": "UEFA Nations League: Italia recibe a Francia en la penúltima del año",
    "fuente": "SoyDeportes",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmtpMDJZYi0zWXBrZ2pRVjJaRGFvR0xNdUtob1hENk9wVnlBRFZVSVNMYzljUWxtdmlNdThneTdfcU83Wk9pMjEzU2EyQ1ZpenZiM0F5LVVCMUU5UDM2dE5ISkRIeTI2N0E2Tm5CNFpUZy1kbnpPVXFsVjYyTDB6VnUzX01pMXFZT00xb2VfYzI0ZllZbkF1UVJPLVVfV3JXY0huSQ?oc=5",
@@ -2703,6 +2653,14 @@
    ]
   },
   {
+   "titulo": "Chiqui Tapia no asistió a la premiación de Estudiantes, campeón de la Supercopa Argentina ante Independiente Rivadavia",
+   "fuente": "La Nación",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN3JXWWdJYTZiVWZtX2s2SFFNNkFWX0lidXI5bW5OZmpUWGNqT2lwc0JQRHpHaTVRWXRHV3czTzVyQkZzOUY3ekRqeUU0VzczcDRjQ3JnTkFsNDZ6ckJwVlpJMGVFODNLMmUwNnkxSzdMeHhIZWFmdlMwOVhUVFNnUndpZmc2Y2I2eFNvT2lYanBvdFJQWWJ4eUZOSm9UMXpzd0FNeFlObkRqaGpob3ZvZWJydVVTQ1ZEWURRVEwtd0JLQ05JWmROdmlJWXdsY2ttc0pTbUFkclc5M1VTOUd6ckZ2NkxwYl9Ta2lRRQ?oc=5",
+   "fecha": "2026-11-13T07:57",
+   "equipo": "Cordoba",
+   "tipos": []
+  },
+  {
    "titulo": "El último superviviente del fútbol español: el brutal récord que convierte a Iván Ania en una especie en extinción",
    "fuente": "Diario Córdoba",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOW1FVVdCbmlLNTlqczVza29ZY0FQbUJpeFZ3MmgzeWhnaWV6LVZHNnBwMVFPYXhfNHJLYTZndlFHZ2tsYTlNcDRFX0tKRjFKajdwOWRlb2NTNHFycFlGWjZMaE5TVlEzQ2hDV0dOSHVFYnRzU1p1U1dhZ0s4YkstX2NIOWlMdUVfeFFWN3dBSkNzQVNDWE9GOGdHRGxvWlFvaUtoejJtZWZEYzRXOU5ZcTlHbEVwR2fSAbwBQVVfeXFMTWRLTHNwal9YSWo4SHpDMFo3SGRoeWJiSUQ2RGpZd1MtNk55cFAzZ0V2UmlRV3U1amxXVVJ6a2h1NWdqUnA5NVRONEViMW9Bdm5ETkxRZlYtU0UzZ3hrWjMtUGwtYW9nQmJIbjdNZ1dRbzFSOG52MW5wQzczNDhpZGloYUF6Q3oxVlZEUFBTNHBuUnpRN3BQSk1tblF5ak9oek1zODZRX2lHQlpINlhFb3I1aVpjQ3kxbTduT0k?oc=5",
@@ -2715,6 +2673,14 @@
    "fuente": "El Gráfico",
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUTRrekhwRVk2aVU4emxORFBDb1ZqQUZsSnFRejM1ZmhIaGNwRVM1V1lDUFpmeUdWdUNsczRnTE5rRDltblhROVAzT2ZKaE5YMGJrWmlXSjZRaEhrX21HN09iQzYydW1yWWhpaVVWdWFxQWJnUVJtQVZCU1RNeVNpb3AxMFc4VkFXSGl0b2NMMENpQk9QdjZRUWlSd0NHbTk2aklsWWNFTHJodElkdVlORkVzdXA3anZaVnRXTmxKV3AwWk1yZmtlUkZUMGxfaEFXNUdOZUhOZ05wZ2FzQkdyOV9XVFM0MVRLMGNfQjNyVXpqV0NYYzd5Y0F5eHhCRThFWEllbjh0OGpzTWdoTkFIdHBYOF9hWFRXTEZN?oc=5",
    "fecha": "2026-11-13T05:19",
+   "equipo": "Cordoba",
+   "tipos": []
+  },
+  {
+   "titulo": "Estudiantes ganó la Supercopa en Córdoba y llega entonado a la final de la Libertadores",
+   "fuente": "Cba24n",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0xUc0prTFFfaS1aNTRqdm1OWGYzNWR2UGliQU9CSUd2UUNlUGJ1Y1NIZWFKOE5YaFJSMTJyUnZoX1JCOFJxRkN1TV93cWl2RndrbEhhX1ZuQ2lVYmxLUmtUNG9NV1RQVEx1MkU1YmdVS2ppT0h1X1VDRXBueEZGNHlZbXB2aUsxc01wX3lvcFdjMFFfNjFPOFZNNGF4YU1VTVBHbkl6QlFLelJKV3RGV0lFZVFwWGVwdkdMWlhEeWExZlBxNk14ajFucFNEVldoRW9JSzdjS3VRYl9jMl9lZHdqQnJkMDloaXRxRjM2SDhvSTN4R1hWNDBZUmF4T1k?oc=5",
+   "fecha": "2026-11-13T03:02",
    "equipo": "Cordoba",
    "tipos": []
   },
@@ -2743,10 +2709,10 @@
    "tipos": []
   },
   {
-   "titulo": "Instituto y la UTN Córdoba avanzan en un proyecto de sustentabilidad | 12 de noviembre de 2026",
-   "fuente": "Hoy Día Córdoba",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNThXRmMzcTZRcFNHMkpIckEyUmpPOEM1SHFzb0VZTy1kZFFMVmRDVWNWRkVsQmREaHdpRDJZcVI1SnJ0dl9wbXVNNFgtMlBCVnltZUJGenY2Rm51Yl9Cc3JwMF81X0xpYkNIamU1UGJaa3BYZENlX0hiR1E1cWtELVNDeUNBNlZmeWlpQ0tfWDBwUGQtR2taamlZQnFYOWFSbkt4NDNqbXh5QnPSAbABQVVfeXFMUERnaFI4TC1FZ1pRU1lVNFdwenhydms4YU15RlJFc0dYMlp0SFFSNUJtSzh5dW5pMW83ZlhEaDZSbjhvTFV5X0I0YWRKd3VSXzZDc1JyVC1RQjAzd0JTQl9UaTZrMmtWLTM0S0kya3puOWd1UnQ2WU5FZWNvRTlIcGU0aXJqWXYzUTlYclgtWGl2STg4VEk3X2hLdndnb0hWa0hIMHNMSzJIQXNSdjhOT0U?oc=5",
-   "fecha": "2026-11-12T15:25",
+   "titulo": "Córdoba será sede de dos grandes finales del fútbol argentino",
+   "fuente": "· Gobierno de Córdoba",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFhBcF9ZYUNBR0JxVWdzT2Y5QlkwcUxiOXFEanpQUFhGY3JWX1AzN29TN0syVzZHVDhSMG1xWmtjeXZyMjhWYmhydWxOaHBlOHhDUlpMa1J0YUJ1WFY5MlFSczNDM0VJT3U3elRWUjlaLUhSMGg4S3YyUkVWR1JMWEp4cl9xYkJaT0R4c1RR?oc=5",
+   "fecha": "2026-11-12T15:59",
    "equipo": "Cordoba",
    "tipos": []
   },
@@ -2791,14 +2757,6 @@
    "tipos": []
   },
   {
-   "titulo": "Córdoba será sede de dos grandes finales del fútbol argentino",
-   "fuente": "Prensa Cba",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0FDdmUweEdER3lIZ29QZ2U0QmxKLUdqTlJwQ0lnZWZuRkNQR0xXRWsybVIwYmhla0hqaEUwaVpmQm91Zi1pTEhab091NmQ5cjZNd0NNamo5eTlJT1V0Rm9JRGNfQ2xGcmFfNzhpWFNUUW9ub3hsTXVXWEswckd5eW9XMFpEX0FrcHV5NEJVUFFOUQ?oc=5",
-   "fecha": "2026-11-12T13:56",
-   "equipo": "Cordoba",
-   "tipos": []
-  },
-  {
    "titulo": "El Córdoba CF suma un nuevo compromiso a su calendario de pretemporada: jugará ante el Elche CF en Oliva",
    "fuente": "Córdoba CF",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY3RnMU1VM3hrMng2b01abjJSMDhkbHJ0cE5vVDZTRjIxcThZNXdJV0piMGhOMFJFV2ZqNHAzbG1BaXZ3RVRHVXFkaUlFaVB3Mm5mQjViWnB1UV9WZm80bEcyYm93bFd1cGN6ZURIXzMtcXhvU1ByLXg4TE40dGJKMWNwYmZNVS10c1BiclU1YWtMVi1wZEJxSjNKQ3QzMENBYkhKWVM2ak5ISHlTOXZPU1FyVnB3eVgtODJwOU9oam1CaUs2RGFRUkRCdXRUOVJxbjNIRg?oc=5",
@@ -2811,14 +2769,6 @@
    "fuente": "ElGOLdigital",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGtRc3RzZW5kOHFyN3hhdmhDNDdtQVNNQjdBejZ0SkFuMi1xWEpJX2FMOTRMSTFqeGFOSGo2cFlBdS1jX3o2REhpZDJ0UWw1Q0NvY1huRlBjdTNvRko2VGpaMGNBT3R6RDh2clgtdDRhNkNXcVZ2TTJkX0ZnUEdsNHZfTHR1TllyZ3FTbEo1Qkswb2lBZjhGMVZ5eXNpbkdwcGZrM1FR?oc=5",
    "fecha": "2026-11-12T09:32",
-   "equipo": "Cordoba",
-   "tipos": []
-  },
-  {
-   "titulo": "El Arcángel vuelve a imponer su ley y dispara al Córdoba CF entre los mejores de Segunda",
-   "fuente": "ABC",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRPSzNWcUZmTTFwNTNhOW4zQklKc2o4RUhSMk5XWTZ3Q0tiWGE2WGtqX1BkU2RLeXAwTVVReEJQNWJyUWxkQkFFX2c1bFJ1VWlCT2JHS1ExUXl6SEVJbGVfaGJlNFNJLXdhSWZHeFg0TFphYW1PelNPb2FMNGlTRUItSDdlVW9TMmlIUjdvMjN4RVN1Q0tPR1hQM2lNM2tuYUVYdGNnT0VYcUV1SGwxZGNwYmoxN1Z0UFdWWUI1aVBzX2EzTUpWWTNB0gHPAUFVX3lxTFA3TFVSTFk3Uk5DbGlzVU5tbzU0ZTA1Wll5T2ZmSnJJRVVreTBFWWNZRUswNVdMSUNwZlc0VF9fYzJEbXJFODVScE92OVk3ZnNMdlJfeng2bWNENTFvWG1MMWFNQVp1Tjd4NENZbnlaVVhrazNtNjk1ZTk4dU1WNmdzZkhSRC13ajRqRmRtWGJwSmNYS3FqY0kwbFdScGp4SEd1eTcwUURCd0J4TmtRT0UyYkFzRF9jaW1IZWxMR3hqc1JFVzlab09VRUczTEV4TQ?oc=5",
-   "fecha": "2026-11-12T07:36",
    "equipo": "Cordoba",
    "tipos": []
   },
@@ -2985,17 +2935,17 @@
    "fecha": "2026-11-11T22:00",
    "equipo": "Northern Ireland",
    "tipos": []
-  },
-  {
-   "titulo": "Selección femenina de futsala luchó en grande contra Ucrania y cedió el oro en tiempo extra",
-   "fuente": "DiarioVea",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3A1cjhuMEM0TVhRaTZZZnlpNkNhU2lROVZUX0M3b19rVDVsVERDNTY4blBqZWNEellaWGQtV3BwR18zbTlGUWZVb3VjWVVzaXFCeUlfcktYdm1WaWlmTjRkWUVJOTZESVB3NEFZaFhfVlVZcEgtamY5UlBtRjNiZV8zcGYxR0FyQURKNlljcmlGcWJpcWhtOHh0UUhoaDlOeFB1NlBsMVljcWpkelM3ME9RQlFnaHA3?oc=5",
-   "fecha": "2026-11-11T21:12",
-   "equipo": "Ukraine",
-   "tipos": []
   }
  ],
  "1528969": [
+  {
+   "titulo": "Marcos Benito revela cómo está Jesús Owono, \"un chico fuerte\": \"Su idea es volver a jugar al fútbol\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnd5Z1pwRXNWRDFxcTNlakx5enRWODd0Y1g0UVJGWUpKWHdxVzQzdk40YjhHSl9wOTZyUnZoR0tzY0EtY1VnU1NXSG9uVDVPYnFkY05OSjlOQ0JvR1VMMHNUeHgtbUs2S0w2NTJwQnczOXNUR21YRzc1S1EtcVBybUVQTi05UVJSRC12Mk5iaGZmWlVjNG5PUTBBSGYxM0VuUlF0UDQ4NHBPaDZrakI2Nw?oc=5",
+   "fecha": "2026-11-13T08:37",
+   "equipo": "Bulgaria",
+   "tipos": []
+  },
   {
    "titulo": "Bulgaria recibe a Islandia en la Liga de las Naciones",
    "fuente": "БНР Новини",
@@ -3067,14 +3017,6 @@
    "fecha": "2026-11-11T22:47",
    "equipo": "Iceland",
    "tipos": []
-  },
-  {
-   "titulo": "Previa Slavia Sofia vs Ludogorets, Liga Bulgaria Jornada 19",
-   "fuente": "BeSoccer ES",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oWlFfMDhIY3MyQm5uMENaVi1rY2c0aHNfS1dvOHF2bnRkY2hta3F2d2k2enByUlJwSkpucVpZbFNtbnJaSE5LSHFiR29xR05zX1d3cGZ1UWxHMmYwWUkxOGYxSmhtNU1mQ3hLU0oxUUEtUzFxNEZYejNSSQ?oc=5",
-   "fecha": "2026-11-11T20:36",
-   "equipo": "Bulgaria",
-   "tipos": []
   }
  ],
  "1528976": [
@@ -3100,14 +3042,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFpzazBBWENUeW9yZHdwSlV1ZTlBOTZKUlJhYjFHclJ6bVpHWmc3WmVLQzMzbFVDM3ZlTjc1YTdIRlRzYk5ZUGVQYk03STY1RXRLV08yNTR4RTFnVFd5bjhDdmlhNTZBVlNGNkdBSHhKQTBwMEJJRWt3LThXeHZHemQwSVdBU1hNQl8xQkJ1UUVmZ0VNZUZ5TDNR?oc=5",
    "fecha": "2026-11-13T01:48",
    "equipo": "Austria",
-   "tipos": []
-  },
-  {
-   "titulo": "América de Cali perdió tres puntos: así quedó la tabla de posiciones",
-   "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3B1Q25tT0xYU3FueTBBZ3lBblRWaTNPdEhPZ2JFRElaM0NBejBXQWJJTzlMbFFaNlJmVVdLbEtCSk5IamZjZ0hmYzhYTGtYeUh1Z3dvLVpPN3Q0amNDRjRuX3paU2traFh3c3ZMbU02SXZHU05NdWhldC04QmhfN0h1bFNFLVcxUEJ2WTNMdm9zNWhhdVZkYXZ1ejZOVTJDZ0Zqa2Zia25pVUtTRm1SZTdRbXJrN1Y3RlU4WTB5c1gwRG04?oc=5",
-   "fecha": "2026-11-12T21:21",
-   "equipo": "Rep. Of Ireland",
    "tipos": []
   },
   {
