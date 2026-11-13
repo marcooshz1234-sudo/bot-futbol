@@ -95,6 +95,7 @@ Canal de Telegram: `-1003953339107`.
 | `alineaciones.yml` | cada 15 min | Alineaciones y combis de jugadores |
 | `escudos.yml` | lunes | Escudos de equipos |
 | `validar.yml` | al subir código | Tests |
+| `oracle_a1.yml` | tandas cada 10 min | `oracle_a1.py`: reintenta crear el servidor A1 gratis de Oracle hasta que haya hueco; avisa al móvil y se para (13/11) |
 | `actualizar_panel.yml`, `leer_registro.yml` | a mano | Rehacer el panel; bajar el registro de una ejecución a `datos/registro_ejecucion.txt` |
 
 ### Archivos clave
@@ -114,6 +115,7 @@ Canal de Telegram: `-1003953339107`.
 | `lector_canales.py`, `tipsters_auto.py`, `anotar_tipster.py`, `tipsters.py`, `copiar_tipsters.py` | Canales de tipsters: leer → apuntar → corregir y aprender → copiar |
 | `revision.py`, `noticias.py`, `vigilante.py` | Bajas en prensa, estrellas, cuotas movidas; avisos a Marcos |
 | `marca_tg.py`, `cazador.py` | Posts de la marca en Telegram; cuotazas |
+| `tarjeta_tg.py` | Tarjeta de Telegram (13/11): banderas/escudos, logo de la competición, el pick escrito en la foto y texto corto; tras 3 posts con foto, uno en texto |
 | `asistente.py` | Bot del móvil |
 | `app_datos.py`, `panel_datos.py`, `mis_datos.py`, `oficina_datos.py` | Datos de la app, el panel, Mis combis y la Oficina |
 | `ajustes.py` | Ajustes de cada rol (panel → `control.json`) |

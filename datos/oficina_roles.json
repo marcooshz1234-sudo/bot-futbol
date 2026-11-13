@@ -243,5 +243,20 @@
   "rol": "ojeador",
   "hora": "2026-11-13T22:10",
   "texto": "22:10: sin picks nuevos prepartido (solo directos, fotos de marcador/estadio; Holanda 11015 ya empezado). Bot en marcha."
+ },
+ {
+  "rol": "verificador",
+  "hora": "2026-11-13T22:50",
+  "texto": "13/11: 5 de 15 en verde (3 pendientes); verde PB–Grecia (Crear apuesta) en espera; Dijon y Serbia remates a mano"
+ },
+ {
+  "rol": "analista",
+  "hora": "2026-11-13T22:50",
+  "texto": "14/11: 6 posts OK con comprobar_post; picks Portugal y Suecia sin razones aún; escalera sin hacer; CRIMINALPICKS apuntado"
+ },
+ {
+  "rol": "community",
+  "hora": "2026-11-13T22:50",
+  "texto": "sin comentarios nuevos en Threads"
  }
 ]
