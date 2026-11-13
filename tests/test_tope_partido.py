@@ -15,7 +15,7 @@ class TopePartido(unittest.TestCase):
             "cuota_3": {"cuota": 1.96, "picks": [pk(1, "Goals Over/Under", "Over 1.5"), pk(2, "Corners", "Over 8.5")]},
             "segura": {"cuota": 1.96, "picks": [pk(1, "Total - Home", "Over 0.5"), pk(3, "Corners", "Over 7.5")]},
             "loca": {"cuota": 1.96, "picks": [pk(1, "Cards", "Over 3.5"), pk(4, "Corners", "Over 6.5")]}}}
-        with mock.patch("plantillas.leer", return_value={}), mock.patch("datos_futbol.posts_del_dia", return_value=[]):
+        with mock.patch("plantillas.leer", return_value={}):
             ids = [p["id"] for p in plantillas.posts_del_dia("2026-10-26", d)]
         self.assertIn("2026-10-26-combi-cuota_3", ids)
         self.assertIn("2026-10-26-combi-segura", ids)

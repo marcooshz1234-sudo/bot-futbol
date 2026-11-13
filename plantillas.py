@@ -95,8 +95,6 @@ def lema(semilla):
     return LEMAS[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(LEMAS)]
 FORMATO_27 = True          # el formato del martes 27/10 (combis_dia.py)
 FORMATO_27_DESDE = "2026-10-28"   # poner "9999" para volver al de antes
-GANADORES_ACTIVO = False   # 11/11 (Marcos): quitado; ya están los «Partidos de hoy» con escudos (ganadores_win.py)
-DATOS_ACTIVO = False       # posts de fútbol sin apuesta (datos_futbol.py): quitados por Marcos el 27/10    # «quién gana hoy» (activado por Marcos el 27/10)   # el cierre de los posts con más likes
 
 
 def combi(titulo, picks, cuota):
@@ -811,30 +809,15 @@ def posts_del_dia(dia, d):
     listas = [set(map(clave, pk)) for t, _, pk, _ in posts if t.startswith("picks-")]
     posts = [x for x in posts if x[0].startswith("picks-") or set(map(clave, x[2])) not in listas]
 
-    # 26/10: posts de fútbol sin apuesta (rachas, xG, pichichis, previa del finde) → datos_futbol.py
+    # 02/11 (Marcos): «los picks de la semana» europea el lunes y su resultado el viernes (semana.py)
+    # (13/11: fuera datos_futbol.py y ganadores.py, apagados desde el 27/10 y el 11/11)
     try:
-        import datos_futbol
-        if DATOS_ACTIVO:   # 27/10: Marcos quitó los posts que no son apuestas (rachas, pichichis, previas)
-            posts += [(t, h, [], x) for t, h, x in datos_futbol.posts_del_dia(dia)]
-        if GANADORES_ACTIVO:   # 27/10: «quién gana hoy» con nuestros datos (ganadores.py)
-            import ganadores
-            g = ganadores.post(dia)
-            if g:
-                posts.append((g[0], g[1], [], g[2]))
-        # 02/11 (Marcos): «los picks de la semana» europea el lunes y su resultado el viernes (semana.py)
-        try:
-            import semana
-            for x in (semana.post(dia), semana.resultado(dia)):
-                if x:
-                    posts.append(x)
-        except Exception as e:
-            print("semana europea:", str(e)[:150])
-        if DATOS_ACTIVO and not any(t == "picks-manana" for t, *_ in posts):   # sin lista fiable: datos del día siguiente
-            pv = datos_futbol.previa(dia)
-            if pv:
-                posts.append((pv[0], pv[1], [], pv[2]))
+        import semana
+        for x in (semana.post(dia), semana.resultado(dia)):
+            if x:
+                posts.append(x)
     except Exception as e:
-        print("datos de fútbol:", str(e)[:150])
+        print("semana europea:", str(e)[:150])
 
     salida = []
     import combis_dia as _cd
