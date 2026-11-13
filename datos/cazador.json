@@ -17,6 +17,12 @@
    "cuota": 2.38,
    "ev": 0.087,
    "post": "2026-11-11-cuotaza-1638339-060d5b"
+  },
+  "1545615|Both Teams Score|Yes": {
+   "dia": "2026-11-13",
+   "cuota": 3.25,
+   "ev": 0.083,
+   "post": "2026-11-13-cuotaza-1545615-389312"
   }
  },
  "top": [
@@ -25,11 +31,11 @@
    "visitante": "Gibraltar",
    "inicio": "2026-11-13T20:45",
    "texto": "Ambos marcan en Andorra–Gibraltar",
-   "cuota": 3.0,
-   "justa": 2.89,
-   "ev": 0.036,
+   "cuota": 3.25,
+   "justa": 3.0,
+   "ev": 0.083,
    "fuente": "las otras casas",
-   "edad_h": 6.0
+   "edad_h": 0.4
   },
   {
    "local": "Salamanca UDS",
@@ -40,7 +46,18 @@
    "justa": 3.2,
    "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 6.0
+   "edad_h": 0.4
+  },
+  {
+   "local": "Leganes",
+   "visitante": "Burgos",
+   "inicio": "2026-11-13T20:30",
+   "texto": "Burgos marca 2 o más",
+   "cuota": 3.25,
+   "justa": 3.21,
+   "ev": 0.014,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
   },
   {
    "local": "Liechtenstein",
@@ -51,18 +68,18 @@
    "justa": 3.21,
    "ev": 0.013,
    "fuente": "las otras casas",
-   "edad_h": 6.0
+   "edad_h": 0.4
   },
   {
    "local": "Andorra",
    "visitante": "Gibraltar",
    "inicio": "2026-11-13T20:45",
-   "texto": "Gibraltar marca",
-   "cuota": 2.2,
-   "justa": 2.21,
-   "ev": -0.006,
+   "texto": "Andorra marca 2 o más",
+   "cuota": 2.5,
+   "justa": 2.5,
+   "ev": 0.001,
    "fuente": "las otras casas",
-   "edad_h": 6.0
+   "edad_h": 0.4
   },
   {
    "local": "Moldova",
@@ -73,35 +90,27 @@
    "justa": 3.28,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 6.0
-  },
-  {
-   "local": "Leganes",
-   "visitante": "Burgos",
-   "inicio": "2026-11-13T20:30",
-   "texto": "Gana el Burgos",
-   "cuota": 3.2,
-   "justa": 3.24,
-   "ev": -0.014,
-   "fuente": "Pinnacle",
-   "edad_h": 6.0
-  },
-  {
-   "local": "Leganes",
-   "visitante": "Burgos",
-   "inicio": "2026-11-13T20:30",
-   "texto": "Empate en Leganes–Burgos",
-   "cuota": 3.2,
-   "justa": 3.25,
-   "ev": -0.017,
-   "fuente": "Pinnacle",
-   "edad_h": 6.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-13T02:00",
-  "revisadas": 0,
-  "mejor": null
+  "hora": "2026-11-13T02:37",
+  "revisadas": 1,
+  "mejor": {
+   "partido_id": 1545615,
+   "local": "Andorra",
+   "visitante": "Gibraltar",
+   "inicio": "2026-11-13T20:45",
+   "liga": "UEFA Nations League",
+   "mercado": "Both Teams Score",
+   "opcion": "Yes",
+   "cuota": 3.25,
+   "justa": 3.0,
+   "ev": 0.083,
+   "fuente": "las otras casas",
+   "edad_h": 0.4,
+   "texto": "Ambos marcan en Andorra–Gibraltar"
+  }
  },
  "historial": [
   {
@@ -115,6 +124,10 @@
   {
    "hora": "2026-11-11T09:05",
    "t": "Austria Wien W o empate @2,38 (justa 2,19, +9%)"
+  },
+  {
+   "hora": "2026-11-13T02:37",
+   "t": "Ambos marcan en Andorra–Gibraltar @3,25 (justa 3,00, +8%)"
   }
  ]
 }

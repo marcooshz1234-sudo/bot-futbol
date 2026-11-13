@@ -5479,5 +5479,37 @@
       "threads": "18084403958408980",
       "threads_enlace": "18026929895926844"
     }
+  },
+  {
+    "id": "2026-11-13-cuotaza-1545615-389312",
+    "fecha": "2026-11-13T02:37",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Andorra – Gibraltar · 20:45\n\n🍀 Ambos marcan en Andorra–Gibraltar @3,25\n\n👀 Lo normal sería @3,00: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Andorra – Gibraltar (20:45)\nAmbos marcan en Andorra–Gibraltar @3,25 en bet365; lo justo según las otras casas es @3,00 (+8%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1545615|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      3.25
+    ],
+    "cuotaza": {
+      "partido_id": 1545615,
+      "local": "Andorra",
+      "visitante": "Gibraltar",
+      "inicio": "2026-11-13T20:45",
+      "liga": "UEFA Nations League",
+      "mercado": "Both Teams Score",
+      "opcion": "Yes",
+      "cuota": 3.25,
+      "justa": 3.0,
+      "ev": 0.083,
+      "fuente": "las otras casas",
+      "edad_h": 0.4,
+      "texto": "Ambos marcan en Andorra–Gibraltar"
+    }
   }
 ]

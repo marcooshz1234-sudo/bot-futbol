@@ -34,16 +34,21 @@
   "prensa-1528972-EHaaland": "2026-11-13T00:50",
   "prensa-1570024-a4d16dba": "2026-11-13T00:50",
   "prensa-1570020-a544cfbe": "2026-11-13T00:50",
-  "prensa-1528974-KylianMbappé": "2026-11-13T01:49"
+  "prensa-1528974-KylianMbappé": "2026-11-13T01:49",
+  "prensa-1528975-0008c46f": "2026-11-13T02:37"
  },
  "abiertos": [
   {
-   "clave": "prensa-1644376-d6786598",
-   "t": "📰 Salamanca UDS–Celta Vigo: «Duro golpe para el Salamanca UDS, que pierde a su máximo goleador en Liga: Asier Domínguez, unos dos meses de » (SALAMANCArtv AL DÍA) · tenemos 1 post(s) de este partido: escalera"
+   "clave": "prensa-1528975-0008c46f",
+   "t": "📰 Irlanda del Norte–Ucrania: «Vladimir Putin descarta congelar la guerra rusa contra Ucrania e insiste en definir fronteras claras para logr» (El Tiempo) · tenemos 1 post(s) de este partido: combi-multi"
   }
  ],
- "revisado": "2026-11-13T02:00",
+ "revisado": "2026-11-13T02:37",
  "historial": [
+  {
+   "hora": "2026-11-13T02:37",
+   "t": "📰 Irlanda del Norte–Ucrania: «Vladimir Putin descarta congelar la guerra rusa contra Ucrania e insiste en definir fronteras claras para logr» (El Tiempo) · tenemos 1 post(s) de este partido: combi-multi"
+  },
   {
    "hora": "2026-11-13T01:49",
    "t": "📰 Portugal–Dinamarca: «Sin Cristiano, con Mbappé en duda y Yamal ausente, la Liga de Naciones entra en su hora decisiva» (El Nuevo Herald) · tenemos 2 post(s) de este partido: ganadores-nations, combi-tres"
