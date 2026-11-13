@@ -43,6 +43,13 @@ class TarjetaTG(unittest.TestCase):
         f = T.fila("Serbia más de 6,5 remates y más de 1,5 goles (Crear apuesta)", "Serbia – Alemania")
         self.assertEqual((f["nombre"], f["pick"]), ("Serbia – Alemania", "CREAR APUESTA"))
 
+    def test_no_siempre_foto(self):   # «me gusta más con foto, pero que el canal no esté solo con fotos»
+        con = lambda i: {"enviado": f"2026-11-13T1{i}:00", "mensaje_id": i + 1, "foto_tg": "x.jpg"}
+        sin = lambda i: {"enviado": f"2026-11-13T1{i}:00", "mensaje_id": i + 1}
+        self.assertEqual(T.racha_fotos([sin(0), con(1), con(2)]), 2)
+        self.assertEqual(T.racha_fotos([con(0), con(1), con(2)]), 3)
+        self.assertIsNone(T.hacer({"id": "x-pick-tip-1"}, NOCHE, [con(0), con(1), con(2)]))
+
     def test_sin_argumento_fuera(self):   # el «Sin argumento: solo el pick» de las copias
         import copiar_tipsters as C
         src = open(C.__file__, encoding="utf-8").read()

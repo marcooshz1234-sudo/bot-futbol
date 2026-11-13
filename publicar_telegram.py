@@ -239,7 +239,7 @@ def main(objetivo=None):
             p["foto_tg"] = foto
         if not foto:   # 13/11 (Marcos: «más fotos, no tanto texto»): tarjeta con banderas/escudos y texto corto
             import tarjeta_tg
-            t = tarjeta_tg.hacer(p, texto)
+            t = tarjeta_tg.hacer(p, texto, cola + auto)
             if t and len(tarjeta_tg.texto_corto(texto)) <= LIMITE_PIE_FOTO:
                 foto, texto = t, tarjeta_tg.texto_corto(texto)
                 p["foto_tg"] = foto

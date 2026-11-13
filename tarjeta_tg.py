@@ -18,6 +18,7 @@ CON_TARJETA = re.compile(r"-(pick-tip|combi-tip|pick-extra|cuotaza|combi-noche|c
 NO = re.compile(r"verde|rojo|balance|resumen|escalera|pick-seguro$|ganadores|marcador|exactos|lista|boleto|directo")
 CUOTA = re.compile(r"@\s*(\d+[.,]\d+)")
 MAX_NOMBRE = 20
+MAX_SEGUIDAS = 3   # 13/11 (Marcos: «me gusta más con foto, pero no siempre: que el canal no esté solo con fotos»)
 PATA = re.compile(r"\s*(🍀|[\U0001F1E6-\U0001F1FF]|🏴|\d+[.)] )")   # las patas empiezan por 🍀 o una bandera
 
 
@@ -106,9 +107,21 @@ def texto_corto(texto):
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lineas)).strip()
 
 
-def hacer(p, texto):
-    """Ruta (relativa a RAIZ) de la tarjeta de Telegram, o None si no toca o no se puede (sin Chromium: sale en texto)."""
-    if not toca(p):
+def racha_fotos(todos):
+    """Cuántos de los últimos posts del canal salieron seguidos con foto."""
+    hechos = sorted((p for p in todos or [] if p.get("enviado") and p.get("mensaje_id")), key=lambda p: p["enviado"])
+    n = 0
+    for p in reversed(hechos):
+        if not (p.get("foto") or p.get("foto_tg")):
+            break
+        n += 1
+    return n
+
+
+def hacer(p, texto, todos=None):
+    """Ruta (relativa a RAIZ) de la tarjeta de Telegram, o None si no toca o no se puede (sin Chromium: sale en texto).
+    Tras MAX_SEGUIDAS posts con foto seguidos, el siguiente sale en texto (mezcla de fotos y texto)."""
+    if not toca(p) or racha_fotos(todos) >= MAX_SEGUIDAS:
         return None
     ps = patas(texto)
     if not ps or len(ps) > 8:
