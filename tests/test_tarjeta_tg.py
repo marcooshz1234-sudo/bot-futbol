@@ -67,6 +67,11 @@ class TarjetaTG(unittest.TestCase):
             im = Image.open(T.MEDIA / "escudos" / f"liga-{lid}-hd.png")
             self.assertGreaterEqual(max(im.size), 650, lid)
 
+    def test_menos_de_goles(self):   # 13/11: combi de La Fiebre del Pick
+        self.assertEqual(T.fila("Menos de 3,5 goles en Liechtenstein–Azerbaiyán")["pick"], "-3,5 GOLES")
+        f = T.fila("Menos de 1,5 goles en la 1ª parte del Andorra–Gibraltar")
+        self.assertEqual((f["nombre"], f["pick"]), ("Andorra – Gibraltar", "-1,5 GOLES 1ªP"))
+
     def test_sin_argumento_fuera(self):   # el «Sin argumento: solo el pick» de las copias
         import copiar_tipsters as C
         src = open(C.__file__, encoding="utf-8").read()

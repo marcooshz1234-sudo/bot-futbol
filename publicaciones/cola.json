@@ -5740,5 +5740,26 @@
       "instagram_reel": null,
       "instagram": "18436997254195925"
     }
+  },
+  {
+    "id": "2026-11-13-combi-tip-2",
+    "fecha": "2026-11-13T18:17",
+    "texto": "Vamos con una combinada cortita 👇\n\n🍀 Más de 1,5 goles en Eslovaquia–Islas Feroe @1,28\n🍀 Menos de 3,5 goles en Liechtenstein–Azerbaiyán @1,30\n🍀 Menos de 1,5 goles en la 1ª parte del Andorra–Gibraltar @1,20\n\n📈 Cuota @2,00",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528967|Goals Over/Under|Over 1.5",
+      "1528970|Goals Over/Under|Under 3.5",
+      "1545615|Goals Over/Under First Half|Under 1.5"
+    ],
+    "cuotas": [
+      1.28,
+      1.3,
+      1.2
+    ],
+    "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true
   }
 ]

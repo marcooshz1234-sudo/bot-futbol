@@ -1,7 +1,7 @@
 {
  "tipster": {
   "Lafiebredelpick": {
-   "n": 17,
+   "n": 20,
    "verdes": 8,
    "rojos": 0,
    "nulos": 0,
@@ -128,7 +128,7 @@
  },
  "mercado": {
   "Goals Over/Under Over 1.5": {
-   "n": 9,
+   "n": 10,
    "verdes": 6,
    "rojos": 0,
    "nulos": 0,
@@ -170,6 +170,13 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "Goals Over/Under Under 3.5": {
+   "n": 5,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Double Chance Draw/Away": {
    "n": 4,
    "verdes": 4,
@@ -187,13 +194,6 @@
    "unidades": 0.28,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.781
-  },
-  "Goals Over/Under Under 3.5": {
-   "n": 4,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "Double Chance Home/Draw": {
    "n": 3,
@@ -409,11 +409,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Goals Over/Under First Half Under 1.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 49,
+   "n": 52,
    "verdes": 20,
    "rojos": 2,
    "nulos": 0,
@@ -618,7 +625,7 @@
    "prob_cuota": 12.239
   },
   "goles": {
-   "n": 17,
+   "n": 20,
    "verdes": 6,
    "rojos": 5,
    "nulos": 0,
@@ -627,7 +634,7 @@
    "prob_cuota": 8.24
   },
   "casa/fuera": {
-   "n": 12,
+   "n": 13,
    "verdes": 6,
    "rojos": 2,
    "nulos": 0,
@@ -692,7 +699,7 @@
    "prob_cuota": 9.456
   },
   "<1,50": {
-   "n": 24,
+   "n": 27,
    "verdes": 14,
    "rojos": 3,
    "nulos": 0,
@@ -728,7 +735,7 @@
    "prob_cuota": 9.274
   },
   "UEFA Nations League": {
-   "n": 20,
+   "n": 23,
    "verdes": 12,
    "rojos": 1,
    "nulos": 0,
@@ -757,7 +764,7 @@
  },
  "lado": {
   "partido": {
-   "n": 38,
+   "n": 41,
    "verdes": 13,
    "rojos": 2,
    "nulos": 0,
@@ -786,7 +793,7 @@
  },
  "por_que": {
   "goles": {
-   "n": 32,
+   "n": 35,
    "verdes": 18,
    "rojos": 2,
    "nulos": 0,
@@ -858,7 +865,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 83,
+   "n": 86,
    "verdes": 38,
    "rojos": 10,
    "nulos": 0,

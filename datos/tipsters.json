@@ -2049,5 +2049,80 @@
    "cuota_bet365": 1.5,
    "prob_cuota": 0.667
   }
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/40#2",
+  "combinada": "-1003704030679/40",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Slovakia",
+  "visitante": "Faroe Islands",
+  "texto": "Más de 1,5 goles en Eslovaquia–Islas Feroe",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 1.5",
+  "cuota": 1.25,
+  "argumento": [
+   "Eslovaquia en casa contra Islas Feroe: se esperan goles"
+  ],
+  "por_que": [
+   "Eslovaquia marca 2+ a 1,53 ella sola; 2 goles en el partido es muy probable."
+  ],
+  "partido_id": 1528967,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.25,
+   "prob_cuota": 0.8
+  }
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/40#6",
+  "combinada": "-1003704030679/40",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Liechtenstein",
+  "visitante": "Azerbaijan",
+  "texto": "Menos de 3,5 goles en Liechtenstein–Azerbaiyán",
+  "mercado": "Goals Over/Under",
+  "opcion": "Under 3.5",
+  "cuota": 1.22,
+  "argumento": [
+   "Partido de selecciones flojas: pocos goles esperados"
+  ],
+  "por_que": [
+   "Azerbaiyán favorita pero con poco gol; 4 o más goles es poco probable."
+  ],
+  "partido_id": 1528970,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.22,
+   "prob_cuota": 0.82
+  }
+ },
+ {
+  "tipster": "Lafiebredelpick",
+  "fuente": "-1003704030679/40#8",
+  "combinada": "-1003704030679/40",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Andorra",
+  "visitante": "Gibraltar",
+  "texto": "Menos de 1,5 goles en la 1ª parte del Andorra–Gibraltar",
+  "mercado": "Goals Over/Under First Half",
+  "opcion": "Under 1.5",
+  "cuota": 1.2,
+  "argumento": [
+   "Las dos selecciones marcan muy poco y suelen empezar cerradas"
+  ],
+  "por_que": [
+   "Partido trabado entre dos de las más flojas de Europa: 2 goles antes del descanso es poco probable."
+  ],
+  "partido_id": 1545615,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.2,
+   "prob_cuota": 0.833
+  }
  }
 ]

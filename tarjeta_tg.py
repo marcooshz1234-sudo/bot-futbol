@@ -96,7 +96,13 @@ def fila(pata, partido=None, partido_ok=False):
               (r"^(.+?) (?:más de (\d+[,.]5) goles|marca 2 o más)$", lambda m: f"+{m.group(2) or '1,5'} GOLES"))
     if re.search(r"crear apuesta", pata, re.I) and not partido_ok:
         return None   # se trata en filas(): una fila por condición
-    for patron, pick, n in ((r"^Más de (\d+(?:[,.]5)?) (goles|córners|tarjetas) en (.+)$",
+    for patron, pick, n in ((r"^Menos de (\d+[,.]5) (goles|córners|tarjetas) en la 1ª parte del? (.+)$",
+                             lambda m: f"-{m.group(1)} {m.group(2).upper()} 1ªP", 3),
+                            (r"^Más de (\d+[,.]5) (goles|córners|tarjetas) en la 1ª parte del? (.+)$",
+                             lambda m: f"+{m.group(1)} {m.group(2).upper()} 1ªP", 3),
+                            (r"^Menos de (\d+[,.]5) (goles|córners|tarjetas) en (?:el )?(.+)$",
+                             lambda m: f"-{m.group(1)} {m.group(2).upper()}", 3),
+                            (r"^Más de (\d+(?:[,.]5)?) (goles|córners|tarjetas) en (.+)$",
                              lambda m: f"+{m.group(1)} {m.group(2).upper()}", 3),
                             (r"^Ambos marcan en (.+)$", lambda m: "AMBOS MARCAN", 1)):
         m = re.match(patron, t, re.I)
@@ -215,6 +221,26 @@ def liga_de(p, texto):
     return ligas.pop() if len(ligas) == 1 else None
 
 
+def hora_partidos(p):
+    """«HOY 20:45» con la hora del primer partido del post (por su sel), si el texto no la dice."""
+    import json
+    from datetime import datetime
+    from bot import MADRID
+    horas = []
+    for s_ in p.get("sel") or []:
+        f = RAIZ / "datos" / "proximos" / f"{s_.split('|')[0]}.json"
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))["partido"]["fixture"]["date"]
+            horas.append(datetime.fromisoformat(d).astimezone(MADRID))
+        except Exception:
+            continue
+    if not horas:
+        return None
+    h = min(horas)
+    hoy = (p.get("fecha") or "")[:10] == h.strftime("%Y-%m-%d")
+    return f"{'HOY ' if hoy else ''}{h:%H:%M}"
+
+
 def hacer(p, texto, todos=None):
     """Ruta (relativa a RAIZ) de la tarjeta de Telegram, o None si no toca o no se puede (sin Chromium: sale en texto).
     Tras MAX_SEGUIDAS posts con foto seguidos, el siguiente sale en texto (mezcla de fotos y texto)."""
@@ -230,7 +256,7 @@ def hacer(p, texto, todos=None):
             MEDIA.mkdir(parents=True, exist_ok=True)
             m = re.search(r"⚽\s*(.+?)\s*·", texto)
             crear = any(re.search(r"crear apuesta", x, re.I) for x in ps)
-            lem = lema(texto)
+            lem = lema(texto) or hora_partidos(p)
             if crear and m:   # el partido abajo, con la hora
                 lem = f"{m.group(1).upper()} · {lem}" if lem else m.group(1).upper()
             lid = liga_de(p, texto)
