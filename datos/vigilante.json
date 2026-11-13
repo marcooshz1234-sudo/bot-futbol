@@ -41,16 +41,30 @@
   "bucle-gifs-2026111306": "2026-11-13T06:26",
   "bucle-gifs-2026111307": "2026-11-13T07:09",
   "foto-2026-11-13-pick-tip-1": "2026-11-13T13:49",
-  "escalera-2026-11-13": "2026-11-13T14:21"
+  "escalera-2026-11-13": "2026-11-13T14:21",
+  "bucle-publicar_telegram-2026111314": "2026-11-13T14:32",
+  "bucle-redes-2026111314": "2026-11-13T14:32"
  },
  "abiertos": [
   {
-   "clave": "escalera-2026-11-13",
-   "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
+   "clave": "bucle-publicar_telegram-2026111314",
+   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
+  },
+  {
+   "clave": "bucle-redes-2026111314",
+   "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-13T14:21",
+ "revisado": "2026-11-13T14:32",
  "historial": [
+  {
+   "hora": "2026-11-13T14:32",
+   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
+  },
+  {
+   "hora": "2026-11-13T14:32",
+   "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
+  },
   {
    "hora": "2026-11-13T14:21",
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"

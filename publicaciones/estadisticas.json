@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 14:20",
+ "actualizado": "2026-11-13 14:32",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 396,
-   "hoy": 5,
+   "seguidores": 398,
+   "hoy": 7,
    "serie": [
     307,
     331,
@@ -50,17 +50,17 @@
     378,
     384,
     391,
-    396
+    398
    ]
   }
  },
- "total": 3174,
- "total_hoy": 51,
+ "total": 3176,
+ "total_hoy": 53,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "16:00",
   "dia": "2026-11-13",
-  "titulo": "Combi de 8 partidos x21,37"
+  "titulo": "Y para los valientes, la loca del vier"
  },
  "ayer": null,
  "escalera": {
@@ -197,17 +197,22 @@
    "instagram": 40,
    "threads": 2737,
    "facebook": 1,
-   "telegram": 396
+   "telegram": 398
   }
  },
  "tipos_instagram": {
+  "Combi loca (reel)": {
+   "posts": 16,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 29,
+   "posts": 31,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -226,18 +231,13 @@
    "likes_media": 1.0,
    "comentarios_media": 0.0
   },
-  "Combi loca (reel)": {
-   "posts": 16,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Verdes/balance (reel)": {
    "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi de partido (reel)": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }
