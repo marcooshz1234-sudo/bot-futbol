@@ -6,24 +6,21 @@ Comunidad de Telegram (26/10)
      (1 pick por persona y día, de partidos de las ligas del bot que no hayan empezado). El bot lo entiende
      con el mismo lector que los posts, lo corrige solo cuando acaba el partido y lleva el ranking.
      /ranking muestra la clasificación de la semana. /start explica cómo va.
-  2. Domingo 22:30 → ranking de la semana en el canal. Lunes 10:00 → anuncio del concurso.
-  3. Encuesta diaria a las 19:30 en el canal: «¿qué pata crees que falla?» con las patas de la combi del día.
+  (13/11: quitados el ranking del domingo, el anuncio del lunes y la encuesta en el canal; Marcos 11/11: «quitar los
+  tres», en Telegram solo pick del día, escalera y una combi.)
 
 Las respuestas a seguidores las da asistente.py (llama a responder() y guarda en datos/comunidad_picks.json);
-lo demás (corregir, ranking, encuesta) se ejecuta en el bucle cada ~10 min con main() y va a datos/comunidad.json.
+corregir se ejecuta en el bucle cada ~10 min con main() y va a datos/comunidad.json.
 Solo se guarda el nombre que el usuario tiene en Telegram, para el ranking.
 """
 import json
-import os
-import re
 from datetime import datetime, timedelta
 
-from bot import DATOS, EXTRA, MADRID, PARTIDOS, RAIZ, leer
+from bot import DATOS, EXTRA, MADRID, PARTIDOS, leer
 from publicados import buscar_partido, entender, evaluar
 
-ESTADO = DATOS / "comunidad.json"            # lo escribe el bucle: resultados, encuesta, ranking
+ESTADO = DATOS / "comunidad.json"            # lo escribe el bucle: resultados
 PICKS = DATOS / "comunidad_picks.json"       # lo escribe solo el asistente (los /pick de los seguidores)
-COLA = RAIZ / "publicaciones" / "cola.json"
 FT = {"FT", "AET", "PEN"}
 
 AYUDA = ("🏆 CONCURSO COMBILOCAS · el pick de los seguidores\n\n"
@@ -31,8 +28,7 @@ AYUDA = ("🏆 CONCURSO COMBILOCAS · el pick de los seguidores\n\n"
          "/pick Más de 2,5 goles en Inter–Fiorentina\n"
          "/pick Gana el Barça\n"
          "/pick Mbappé 1+ tiro a puerta\n\n"
-         "Lo corrijo yo solo cuando acaba el partido. El domingo por la noche publico el ranking de la "
-         "semana en el canal 🏅\n/ranking para ver cómo vas.\n\nSolo es un juego: no hace falta apostar.")
+         "Lo corrijo yo solo cuando acaba el partido 🏅\n/ranking para ver cómo vas.\n\nSolo es un juego: no hace falta apostar.")
 
 
 def semana(fecha):
@@ -125,15 +121,6 @@ def responder(texto, usuario, ahora=None):
             "Te lo corrijo cuando acabe. /ranking para ver la clasificación.")
 
 
-def canal(metodo, datos):
-    token, chat = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
-    print(metodo, json.dumps(datos, ensure_ascii=False)[:300])
-    if not (token and chat):
-        return None
-    from publicar_telegram import api
-    return api(token, metodo, dict(datos, chat_id=chat))
-
-
 def corregir(est):
     cambios = 0
     res = est.setdefault("resultados", {})
@@ -150,75 +137,15 @@ def corregir(est):
     return cambios
 
 
-CANAL_ACTIVO = False
-
-
-def encuesta(est, ahora):
-    hoy = ahora.strftime("%Y-%m-%d")
-    if est.get("encuesta") == hoy or not ("19:30" <= ahora.strftime("%H:%M") < "21:00"):
-        return
-    # 27/10: la encuesta va sobre una combi que se ha PUBLICADO hoy (la loca o, si no, la x3), no sobre
-    # las combis viejas de picks.json, que ya no salen
-    raiz = DATOS.parent / "publicaciones"
-    posts = (leer(raiz / "cola.json", []) or []) + (leer(raiz / "auto.json", []) or [])
-    c = next((p for k in ("-combi-loca", "-combi-tres") for p in posts
-              if p["id"].startswith(hoy) and k in p["id"] and not p.get("caducada")), None)
-    if not c:
-        return
-    patas = [re.sub(r"^✅\s*(\S+\s)?", "", l).strip() for l in c["texto"].splitlines() if l.startswith("✅")]
-    if len(patas) < 2:
-        return
-    est["encuesta"] = hoy
-    opciones = [p[:100] for p in patas[:10]]
-    canal("sendPoll", {"question": "🤔 De la combi de hoy, ¿qué pata crees que falla?",
-                       "options": [{"text": o} for o in opciones], "is_anonymous": True})
-
-
-def publicar_cola(pid, fecha, texto):
-    cola = leer(COLA, []) or []
-    if any(p["id"] == pid for p in cola):
-        return
-    cola.append({"id": pid, "fecha": fecha, "texto": texto, "foto": None, "origen": "bot"})   # solo Telegram
-    COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-
-
-def semanales(est, ahora):
-    hoy = ahora.strftime("%Y-%m-%d")
-    hora = ahora.strftime("%H:%M")
-    if ahora.weekday() == 0 and hora >= "10:00":
-        bot = est.get("bot_usuario")
-        if not bot and os.environ.get("TELEGRAM_TOKEN"):
-            from publicar_telegram import api
-            bot = est["bot_usuario"] = api(os.environ["TELEGRAM_TOKEN"], "getMe", {})["result"]["username"]
-        if bot:
-            publicar_cola(f"{hoy}-concurso", f"{hoy}T10:00",
-                          f"🏆 CONCURSO DE LA SEMANA · EL PICK DE LOS SEGUIDORES 🏆\n\nMándale cada día tu pick a "
-                          f"@{bot} por privado:\n/pick Más de 2,5 goles en Inter–Fiorentina\n\nEl bot lo corrige solo "
-                          "y el domingo por la noche publicamos el ranking aquí 🏅\n\nSolo es un juego: no hace falta "
-                          "apostar.")
-    if ahora.weekday() == 6 and hora >= "22:30" and est.get("ranking_publicado") != hoy:
-        filas = [f for f in ranking(todos_picks(), semana(hoy)) if f["jugados"]]
-        est["ranking_publicado"] = hoy
-        if len(filas) >= 3:
-            medallas = ["🥇", "🥈", "🥉"]
-            lineas = [f"{medallas[i] if i < 3 else f'{i + 1}.'} {f['nombre']} · {f['ok']}/{f['jugados']} ✅"
-                      for i, f in enumerate(filas[:10])]
-            publicar_cola(f"{hoy}-ranking", ahora.strftime("%Y-%m-%dT%H:%M"),
-                          "🏆 RANKING DE LA SEMANA · EL PICK DE LOS SEGUIDORES 🏆\n\n" + "\n".join(lineas)
-                          + "\n\n¡Enhorabuena! El lunes empieza otra semana 💪")
-
-
 def main():
     ahora = datetime.now(MADRID)
     est = leer(ESTADO, {}) or {}
     # 11/11 (Marcos: «quitar los tres»): ni encuesta, ni concurso, ni ranking en el canal (en Telegram solo pick del
     # día, escalera y una combi). Los picks que manden los seguidores por privado se siguen corrigiendo
-    pasos = [lambda: corregir(est)] + ([lambda: encuesta(est, ahora), lambda: semanales(est, ahora)] if CANAL_ACTIVO else [])
-    for paso in pasos:
-        try:
-            paso()
-        except Exception as e:
-            print("comunidad:", str(e)[:200])
+    try:
+        corregir(est)
+    except Exception as e:
+        print("comunidad:", str(e)[:200])
     vivos = {clave(p) for p in leer(PICKS, []) or []}
     est["resultados"] = {k: v for k, v in (est.get("resultados") or {}).items() if k in vivos}
     guardar(est)

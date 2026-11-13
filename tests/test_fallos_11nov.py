@@ -152,14 +152,9 @@ class TestFallos11Nov(unittest.TestCase):
         self.assertFalse((RAIZ / "ganadores.py").exists())   # Marcos 11/11: solo los «Partidos de hoy» con escudos (13/11: quitado)
 
     def test_comunidad_no_publica_en_el_canal(self):
-        import comunidad
-        self.assertFalse(comunidad.CANAL_ACTIVO)   # Marcos 11/11: en Telegram solo pick, escalera y una combi
-        llamadas = []
-        with mock.patch.object(comunidad, "canal", lambda *a, **k: llamadas.append(a)), \
-                mock.patch.object(comunidad, "publicar_cola", lambda *a: llamadas.append(a)), \
-                mock.patch.object(comunidad, "guardar", lambda e: None):
-            comunidad.main()
-        self.assertEqual(llamadas, [])
+        import comunidad   # Marcos 11/11: en Telegram solo pick, escalera y una combi (13/11: código quitado)
+        for f in ("canal", "encuesta", "semanales", "publicar_cola"):
+            self.assertFalse(hasattr(comunidad, f), f)
 
     def test_sin_gifs_ni_editar_publicados(self):
         self.assertFalse((RAIZ / "gifs.py").exists())   # Marcos 11/11: GIF fuera (13/11: quitados del todo)
