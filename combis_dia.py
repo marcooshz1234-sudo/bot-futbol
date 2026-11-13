@@ -1004,6 +1004,20 @@ def noche_fija():
     return DATOS / "noche_elegidos.json"
 
 
+def seguro_publicado(dia):
+    """13/11: {'partido_id': …} del pick de las 10:30 si ya salió (Telegram o redes); None si no."""
+    from bot import RAIZ
+    pub = RAIZ / "publicaciones"
+    env = {**(leer(pub / "enviados.json", {}) or {}), **(leer(pub / "enviados_redes.json", {}) or {})}
+    for p in leer(pub / "auto.json", []) or []:
+        if p.get("id") == f"{dia}-pick-seguro" and (p.get("enviado") or p["id"] in env) and p.get("sel"):
+            try:
+                return {"partido_id": int(str(p["sel"][0]).split("|")[0])}
+            except ValueError:
+                return None
+    return None
+
+
 def ya_publicadas(dia, excluir=None):
     """Selecciones de los posts de ese día que YA han salido (cola a mano y auto publicados) y, 12/11, también los
     de la cola a mano que están programados (los de Threads de Claude: Montenegro 2+ salía en 3 posts).
@@ -1242,7 +1256,14 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     if res["seguro"]:
         usos[sel(res["seguro"][0])] += 1
     if dia >= SEGURO_DESDE:
-        res["seguro2"] = pick_seguro(sin_choques(pools), dia, segundo=res["seguro"][0] if res["seguro"] else None)
+        # 13/11: si el de las 10:30 ya salió, el 2º se aparta de ESE partido (no del que saldría ahora): salía
+        # «Andorra gana alguna de las dos partes» a las 10:30 y otra vez a las 18:00
+        # (desde el 14/11: el de hoy 13/11 lo decide Marcos, no se cambia solo un post ya programado)
+        nuevo = dia >= "2026-11-14"
+        primero = (seguro_publicado(dia) if nuevo else None) or (res["seguro"][0] if res["seguro"] else None)
+        ya2 = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-2").items()
+               if n_ and s_.split("|")[0].isdigit()] if nuevo else ()
+        res["seguro2"] = pick_seguro(sin_choques(pools), dia, segundo=primero, ya=ya2)
         if res.get("seguro2"):
             usos[sel(res["seguro2"][0])] += 1
     # 11/11 (Marcos: «máx. 2 veces»): también cuentan el pick del día, el 2º pick y el estrella; la multi lo respeta
@@ -1591,7 +1612,7 @@ def minimo_diario():
         return True
 
 
-def pick_seguro(pools, dia, segundo=False):
+def pick_seguro(pools, dia, segundo=False, ya=()):
     """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
     jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo.
     09/11: desde SEGURO_DESDE, cuota 1,50-1,70; segundo=<el 1º> (o None si no hubo) → otro de las 18:00."""
@@ -1614,14 +1635,16 @@ def pick_seguro(pools, dia, segundo=False):
             print("ajustes analista:", e)
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     otro = segundo["partido_id"] if segundo else None
+    # 13/11: ya = {(partido_id, mercado, opcion)} que ya salieron hoy (el 2º no repite un pick publicado)
+    ya = {(int(a), b, c) for a, b, c in ya}
     if dia >= SEGURO_DESDE and primero_tipsters:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
         # 11/11: dentro del rango de Marcos (1,50-1,70); el 1,45-1,85 es solo el plan B (abajo)
-        t = pick_de_tipster(pools, dia, hora, otro, rango=(lo, hi)) or pick_de_copa(pools, hora, otro, rango=(lo, hi))
+        t = pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(lo, hi)) or pick_de_copa(pools, hora, otro, rango=(lo, hi))
         if t:
             return t, hora
     def buscar(lo, hi, prob_min, fijo=True):
         return [p for pool in pools for p in pool
-                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and familia(p).split("-")[0] in SEGURO["familias"]
+                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and (p["partido_id"], p["mercado"], p["opcion"]) not in ya and familia(p).split("-")[0] in SEGURO["familias"]
                 and p["prob_aprendida"] >= prob_min and not suelto_no(p) and not p.get("estimada") and (fijisimo(p) or not fijo)
                 and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     cand = buscar(lo, hi, SEGURO["prob_min"])
@@ -1630,7 +1653,7 @@ def pick_seguro(pools, dia, segundo=False):
         # 1) 1,45-1,85  2) el pick de un tipster del día  3) el más probable del modelo hasta 2,00
         cand = buscar(min(lo, 1.45), max(hi, 1.85), SEGURO["prob_min"])
         if not cand:   # 11/11: el tipster del plan B también con el rango ampliado (antes solo si no iban primero)
-            t = (pick_de_tipster(pools, dia, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85)))
+            t = (pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(min(lo, 1.45), max(hi, 1.85)))
                  or pick_de_copa(pools, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85))))
             if t:
                 print("Mínimo diario: pick de tipster")

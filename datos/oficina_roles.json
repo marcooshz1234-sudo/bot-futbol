@@ -193,5 +193,10 @@
   "rol": "ojeador",
   "hora": "2026-11-13T14:52",
   "texto": "Apuntado y copiado Dijon–Orléans (TipsAnalistas, sin partido_id: corregir a mano). Bot en marcha."
+ },
+ {
+  "rol": "vigilante",
+  "hora": "2026-11-13T16:13",
+  "texto": "0 abiertos; mañana salió bien; bucle activo. Arreglado (desde 14/11): el pick de las 18:00 repetía el de las 10:30 ya publicado + test"
  }
 ]
