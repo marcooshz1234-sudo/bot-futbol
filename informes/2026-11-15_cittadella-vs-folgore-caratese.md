@@ -1,7 +1,7 @@
 # Cittadella – Folgore Caratese
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_
@@ -144,13 +144,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 24% | 42% | 33% | 2.20 | -27% |
 | Goles más/menos: Más de 1.5 | 67% | 73% | 70% | 1.28 | -10% |
 | Goles más/menos: Más de 2.5 | 41% | 49% | 45% | 1.95 | -13% |
-| Goles más/menos: Más de 3.5 | 20% | 28% | 24% | 3.40 | -18% |
+| Goles más/menos: Más de 3.5 | 20% | 28% | 24% | 3.40 | -19% |
 | Goles más/menos: Menos de 1.5 | 33% | 27% | 30% | 3.50 | +4% |
 | Goles más/menos: Menos de 2.5 | 59% | 51% | 55% | 1.85 | +2% |
 | Goles más/menos: Menos de 3.5 | 80% | 72% | 76% | 1.30 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 30% | 2.75 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -2% |
 | Goles del local: Más de 1.5 | 59% | 58% | 58% | 1.62 | -6% |
 | Goles del local: Más de 2.5 | 32% | 31% | 32% | 3.00 | -5% |
@@ -159,6 +159,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 28% | 49% | 38% | 1.91 | -27% |
 | Goles del visitante: Menos de 0.5 | 72% | 51% | 62% | 1.80 | +11% |
 | 1X2 descanso: X | 41% | 40% | 41% | 2.25 | -9% |
-| 1X2 descanso: 1 | 53% | 47% | 50% | 1.91 | -4% |
+| 1X2 descanso: 1 | 53% | 47% | 50% | 1.91 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

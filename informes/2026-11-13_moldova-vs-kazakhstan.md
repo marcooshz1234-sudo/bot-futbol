@@ -1,7 +1,7 @@
 # Moldova – Kazakhstan
 **Nations League** · League C - 5 · 13/11/2026 18:00 (hora España) · Zimbru
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_

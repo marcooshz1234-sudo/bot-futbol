@@ -1,10 +1,10 @@
 # Eibar – Cadiz
-**Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Municipal de Ipurua
+**Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Ipurua Municipal Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 14:18_
+_Actualizadas: 13/11 01:48_
 
 - **1X2:** 1 **1.62**  ·  X **3.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.25**  ·  X2 **2.25**
@@ -30,7 +30,7 @@ _Actualizadas: 12/11 14:18_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.85** · menos **1.95**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
@@ -197,7 +197,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 19% | 17% | 18% | 5.50 | -0% |
 | 1X2: X | 22% | 25% | 23% | 3.75 | -12% |
 | 1X2: 1 | 59% | 58% | 58% | 1.62 | -5% |
-| Doble oportunidad: X2 | 41% | 42% | 42% | 2.25 | -6% |
+| Doble oportunidad: X2 | 41% | 42% | 42% | 2.25 | -7% |
 | Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 81% | 83% | 82% | 1.14 | -7% |
 | Ambos marcan: No | 46% | 49% | 47% | 1.91 | -10% |
@@ -218,10 +218,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -6% |
 | Goles del visitante: Más de 0.5 | 63% | 61% | 62% | 1.53 | -5% |
 | Goles del visitante: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles del visitante: Menos de 0.5 | 37% | 39% | 38% | 2.38 | -10% |
+| Goles del visitante: Menos de 0.5 | 37% | 39% | 38% | 2.38 | -9% |
 | Goles del visitante: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.85 | -10% |
-| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.95 | +1% |
+| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -4% |
 | 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
 | 1X2 descanso: 1 | 43% | 42% | 42% | 2.20 | -7% |
 

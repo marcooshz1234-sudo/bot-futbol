@@ -1,7 +1,7 @@
 # Lumezzane – Trento
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Tullio Saleri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_
@@ -156,7 +156,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 71% | 49% | 60% | 1.95 | +17% |
 | Goles más/menos: Menos de 3.5 | 88% | 69% | 78% | 1.36 | +6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 56% | 69% | 62% | 1.36 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 20% | 35% | 28% | 2.62 | -27% |
+| Goles 1ª parte más/menos: Más de 1.5 | 20% | 35% | 28% | 2.62 | -28% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 44% | 31% | 38% | 3.00 | +13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 65% | 72% | 1.44 | +4% |
 | Goles del local: Más de 0.5 | 41% | 65% | 53% | 1.44 | -24% |

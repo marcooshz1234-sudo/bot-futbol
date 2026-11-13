@@ -1,7 +1,7 @@
 # FC Botosani – FC Voluntari
 **Liga I** · Regular Season - 16 · 20/11/2026 16:30 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Florian Haită | M | 5 | 88 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,68 · visitante 1,34 · córners esperados 9,2._
+_Goles esperados: local 2,67 · visitante 1,34 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

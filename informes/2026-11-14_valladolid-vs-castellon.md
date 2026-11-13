@@ -1,7 +1,7 @@
 # Valladolid – Castellón
 **Segunda División** · Regular Season - 14 · 14/11/2026 14:00 (hora España) · Estadio José Zorrilla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | I. Kostis | D | 3 | 106 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,79 · córners esperados 8,9._
+_Goles esperados: local 0,96 · visitante 1,78 · córners esperados 8,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -209,13 +209,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 30% | 3.25 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -3% |
-| Goles del local: Más de 0.5 | 62% | 73% | 68% | 1.28 | -14% |
+| Goles del local: Más de 0.5 | 62% | 73% | 67% | 1.28 | -14% |
 | Goles del local: Más de 1.5 | 25% | 41% | 33% | 2.25 | -26% |
-| Goles del local: Menos de 0.5 | 38% | 27% | 32% | 3.50 | +14% |
+| Goles del local: Menos de 0.5 | 38% | 27% | 33% | 3.50 | +14% |
 | Goles del local: Menos de 1.5 | 75% | 59% | 67% | 1.57 | +5% |
 | Goles del visitante: Más de 0.5 | 83% | 77% | 80% | 1.22 | -2% |
 | Goles del visitante: Más de 1.5 | 53% | 46% | 50% | 2.00 | -0% |
-| Goles del visitante: Más de 2.5 | 27% | 22% | 24% | 4.33 | +5% |
+| Goles del visitante: Más de 2.5 | 27% | 22% | 24% | 4.33 | +4% |
 | Goles del visitante: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -20% |
 | Goles del visitante: Menos de 1.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Goles del visitante: Menos de 2.5 | 73% | 78% | 76% | 1.20 | -9% |

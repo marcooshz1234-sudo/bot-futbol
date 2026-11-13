@@ -1,7 +1,7 @@
 # Romania – Poland
 **Nations League** · League B - 5 · 14/11/2026 20:45 (hora España) · Arena Națională
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_

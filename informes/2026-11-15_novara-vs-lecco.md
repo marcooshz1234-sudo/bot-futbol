@@ -1,7 +1,7 @@
 # Novara – Lecco
 **Serie C** · Girone A - 14 · 15/11/2026 12:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_
@@ -154,7 +154,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 29% | 28% | 29% | 3.40 | -3% |
 | Goles más/menos: Menos de 2.5 | 55% | 53% | 54% | 1.80 | -3% |
 | Goles más/menos: Menos de 3.5 | 76% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 31% | 30% | 3.00 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |

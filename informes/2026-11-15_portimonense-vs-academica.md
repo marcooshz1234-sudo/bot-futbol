@@ -1,10 +1,10 @@
 # Portimonense – Academica
-**Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España)
+**Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España) · Estádio Municipal de Portimão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 14:18_
+_Actualizadas: 13/11 01:47_
 
 - **1X2:** 1 **2.15**  ·  X **3.10**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.62**
@@ -183,7 +183,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 41% | 29% | 35% | 3.10 | +9% |
 | 1X2: X | 30% | 29% | 29% | 3.10 | -9% |
-| 1X2: 1 | 29% | 42% | 36% | 2.15 | -23% |
+| 1X2: 1 | 29% | 42% | 36% | 2.15 | -24% |
 | Doble oportunidad: X2 | 71% | 58% | 64% | 1.62 | +4% |
 | Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 59% | 71% | 65% | 1.33 | -14% |
@@ -211,6 +211,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 9.5 | 73% | 46% | 60% | 2.00 | +19% |
 | 1X2 descanso: 2 | 29% | 23% | 26% | 4.00 | +5% |
 | 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |
-| 1X2 descanso: 1 | 22% | 32% | 27% | 2.88 | -21% |
+| 1X2 descanso: 1 | 22% | 32% | 27% | 2.88 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

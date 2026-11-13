@@ -399,6 +399,11 @@
   },
   "por_que": [
    "Chequia–España (Nations League): España marca mucho y Chequia en casa suele marcar; bet365 lo paga @1,12 (89% implícita). Cuota demasiado baja para pick del día (1,50-1,70); solo vale de pata en una combi."
+  ],
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
   ]
  },
  {
@@ -544,7 +549,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.3,
    "prob_cuota": 0.813
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "TipsPro",
@@ -629,7 +639,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.22,
    "prob_cuota": 0.649
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL",
@@ -692,7 +707,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.14,
    "prob_cuota": 0.8
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -717,7 +737,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.2,
    "prob_cuota": 0.8
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -742,7 +767,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.25,
    "prob_cuota": 0.794
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -767,7 +797,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.28,
    "prob_cuota": 0.781
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "PABLO ANALISTA",
@@ -792,7 +827,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.67,
    "prob_cuota": 0.602
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -901,7 +941,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.568
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -974,7 +1019,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.18,
    "prob_cuota": 0.84
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "TipsPro",
@@ -998,7 +1048,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.28,
    "prob_cuota": 0.775
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -1023,7 +1078,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.62,
    "prob_cuota": 0.621
-  }
+  },
+  "estado": null,
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "STAKE REAL | JB APUESTAS",
@@ -1048,7 +1108,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.83,
    "prob_cuota": 0.602
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "CRIMINALPICKS",

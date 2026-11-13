@@ -1,20 +1,20 @@
 # Eldense – Sabadell
-**Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Estadio Nuevo Pepico Amat
+**Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 14:18_
+_Actualizadas: 13/11 01:48_
 
 - **1X2:** 1 **2.38**  ·  X **3.00**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.35** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.40** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.50** · menos **1.28**
@@ -197,19 +197,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 64% | 69% | 67% | 1.36 | -9% |
 | Ambos marcan: No | 68% | 54% | 61% | 1.73 | +5% |
 | Ambos marcan: Sí | 32% | 46% | 39% | 2.00 | -22% |
-| Goles más/menos: Más de 1.5 | 50% | 66% | 58% | 1.40 | -19% |
-| Goles más/menos: Más de 2.5 | 23% | 40% | 32% | 2.35 | -26% |
-| Goles más/menos: Más de 3.5 | 9% | 22% | 15% | 4.33 | -34% |
-| Goles más/menos: Menos de 1.5 | 50% | 34% | 42% | 2.75 | +16% |
-| Goles más/menos: Menos de 2.5 | 77% | 60% | 68% | 1.57 | +7% |
-| Goles más/menos: Menos de 3.5 | 91% | 78% | 85% | 1.20 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 52% | 62% | 57% | 1.50 | -14% |
+| Goles más/menos: Más de 1.5 | 49% | 65% | 57% | 1.44 | -18% |
+| Goles más/menos: Más de 2.5 | 23% | 39% | 31% | 2.40 | -25% |
+| Goles más/menos: Más de 3.5 | 9% | 21% | 15% | 4.50 | -34% |
+| Goles más/menos: Menos de 1.5 | 51% | 35% | 43% | 2.62 | +13% |
+| Goles más/menos: Menos de 2.5 | 77% | 61% | 69% | 1.53 | +5% |
+| Goles más/menos: Menos de 3.5 | 91% | 79% | 85% | 1.18 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 51% | 62% | 57% | 1.50 | -15% |
 | Goles 1ª parte más/menos: Más de 1.5 | 16% | 27% | 22% | 3.50 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 48% | 38% | 43% | 2.50 | +7% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 38% | 43% | 2.50 | +8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 84% | 73% | 78% | 1.28 | +0% |
-| Goles del local: Más de 0.5 | 54% | 71% | 63% | 1.33 | -17% |
-| Goles del local: Más de 1.5 | 18% | 35% | 27% | 2.62 | -29% |
-| Goles del local: Menos de 0.5 | 46% | 29% | 37% | 3.25 | +22% |
+| Goles del local: Más de 0.5 | 54% | 71% | 62% | 1.33 | -17% |
+| Goles del local: Más de 1.5 | 18% | 35% | 27% | 2.62 | -30% |
+| Goles del local: Menos de 0.5 | 46% | 29% | 38% | 3.25 | +22% |
 | Goles del local: Menos de 1.5 | 82% | 65% | 73% | 1.44 | +5% |
 | Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
 | Goles del visitante: Más de 1.5 | 22% | 28% | 25% | 3.40 | -15% |

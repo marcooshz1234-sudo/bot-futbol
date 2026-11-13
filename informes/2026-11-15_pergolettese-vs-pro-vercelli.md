@@ -1,7 +1,7 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_
@@ -136,28 +136,28 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,55 · visitante 0,92._
+_Goles esperados: local 1,54 · visitante 0,92._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 31% | 27% | 2.88 | -22% |
+| 1X2: 2 | 23% | 31% | 27% | 2.88 | -22% |
 | 1X2: X | 26% | 28% | 27% | 3.20 | -14% |
 | 1X2: 1 | 52% | 40% | 46% | 2.25 | +4% |
 | Doble oportunidad: X2 | 48% | 54% | 51% | 1.70 | -13% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.25 | -8% |
-| Doble oportunidad: 1X | 78% | 73% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 77% | 73% | 75% | 1.25 | -6% |
 | Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
 | Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles más/menos: Más de 2.5 | 45% | 49% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles más/menos: Más de 3.5 | 24% | 29% | 26% | 3.25 | -15% |
 | Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
 | Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -1% |
 | Goles más/menos: Menos de 3.5 | 76% | 71% | 74% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |

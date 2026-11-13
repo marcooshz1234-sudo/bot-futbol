@@ -1,7 +1,7 @@
 # Norway – Wales
 **Nations League** · League A - 5 · 14/11/2026 18:00 (hora España) · Ullevaal Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_

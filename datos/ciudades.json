@@ -192,5 +192,82 @@
  "Plovdiv|World": [
   42.15387,
   24.75001
+ ],
+ "Oviedo|Spain": [
+  43.36029,
+  -5.84476
+ ],
+ "Solna|World": [
+  59.36004,
+  18.00086
+ ],
+ "Madrid|Spain": [
+  40.4165,
+  -3.70256
+ ],
+ "Parma|Spain": null,
+ "Linz|World": [
+  48.30639,
+  14.28611
+ ],
+ "Bucharest|World": [
+  44.43225,
+  26.10626
+ ],
+ "Vitoria-Gasteiz|Spain": [
+  42.84998,
+  -2.67268
+ ],
+ "Meda|Italy": [
+  45.66121,
+  9.15337
+ ],
+ "San Sebastian|Spain": [
+  43.31283,
+  -1.97499
+ ],
+ "Almeria|Spain": [
+  36.83814,
+  -2.45974
+ ],
+ "Belfast|World": [
+  54.59682,
+  -5.92541
+ ],
+ "Tbilisi|World": [
+  41.69143,
+  44.83412
+ ],
+ "Carpi|Italy": [
+  44.78237,
+  10.8777
+ ],
+ "Lumezzane|Italy": [
+  45.64789,
+  10.26487
+ ],
+ "Oslo|World": [
+  59.91273,
+  10.74609
+ ],
+ "Zanica|Italy": [
+  45.64088,
+  9.68566
+ ],
+ "Pristina|World": [
+  42.67272,
+  21.16688
+ ],
+ "Braga|World": [
+  41.5514,
+  -8.42311
+ ],
+ "Valladolid|Spain": [
+  41.65541,
+  -4.72353
+ ],
+ "Arzignano|Italy": [
+  45.52027,
+  11.33446
  ]
 }

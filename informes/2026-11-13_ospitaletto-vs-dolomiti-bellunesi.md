@@ -1,7 +1,7 @@
 # Ospitaletto – Dolomiti Bellunesi
 **Serie C** · Girone A - 14 · 13/11/2026 20:30 (hora España) · Stadio Comunale Gino Corioni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_
@@ -134,7 +134,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,03 · visitante 0,56._
+_Goles esperados: local 2,03 · visitante 0,55._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -150,7 +150,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 37% | 46% | 42% | 2.00 | -17% |
 | Goles más/menos: Más de 1.5 | 73% | 73% | 73% | 1.28 | -6% |
 | Goles más/menos: Más de 2.5 | 48% | 50% | 49% | 1.90 | -7% |
-| Goles más/menos: Más de 3.5 | 26% | 29% | 28% | 3.25 | -10% |
+| Goles más/menos: Más de 3.5 | 26% | 29% | 28% | 3.25 | -11% |
 | Goles más/menos: Menos de 1.5 | 27% | 27% | 27% | 3.50 | -6% |
 | Goles más/menos: Menos de 2.5 | 52% | 50% | 51% | 1.90 | -3% |
 | Goles más/menos: Menos de 3.5 | 74% | 71% | 72% | 1.33 | -4% |
@@ -159,7 +159,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 31% | 32% | 3.00 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del local: Más de 1.5 | 60% | 56% | 58% | 1.67 | -3% |
-| Goles del local: Más de 2.5 | 33% | 31% | 32% | 3.00 | -3% |
+| Goles del local: Más de 2.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del local: Menos de 1.5 | 40% | 44% | 42% | 2.10 | -12% |
 | Goles del local: Menos de 2.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del visitante: Más de 0.5 | 43% | 54% | 48% | 1.73 | -17% |

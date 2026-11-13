@@ -1,16 +1,7 @@
 # Próximos partidos
 
-_Actualizado el 12/11/2026 20:01 (hora España). Partidos guardados en la base de datos: 2564._
+_Actualizado el 13/11/2026 01:48 (hora España). Partidos guardados en la base de datos: 2575._
 
-
-## Jueves 12/11
-- 20:45 · Nations League · [England – Croatia](informes/2026-11-12_england-vs-croatia.md) · 1X2: 1.27 / 6.00 / 9.00
-- 20:45 · Nations League · [Italy – France](informes/2026-11-12_italy-vs-france.md) · 1X2: 3.50 / 3.60 / 2.00
-- 20:45 · Nations League · [Czech Republic – Spain](informes/2026-11-12_czech-republic-vs-spain.md) · 1X2: 11.00 / 7.00 / 1.22
-- 20:45 · Nations League · [Albania – Finland](informes/2026-11-12_albania-vs-finland.md) · 1X2: 2.10 / 3.00 / 4.00
-- 20:45 · Nations League · [Montenegro – Latvia](informes/2026-11-12_montenegro-vs-latvia.md) · 1X2: 1.27 / 5.75 / 10.00
-- 20:45 · Nations League · [San Marino – Belarus](informes/2026-11-12_san-marino-vs-belarus.md) · 1X2: 13.00 / 8.50 / 1.14
-- 21:00 · Champions Femenina · [SL Benfica W – Austria Wien W](informes/2026-11-12_sl-benfica-w-vs-austria-wien-w.md) · 1X2: 1.45 / 4.50 / 6.50
 
 ## Viernes 13/11
 - 18:00 · Nations League · [Moldova – Kazakhstan](informes/2026-11-13_moldova-vs-kazakhstan.md) · 1X2: 2.70 / 2.90 / 2.88
@@ -126,3 +117,9 @@ _Actualizado el 12/11/2026 20:01 (hora España). Partidos guardados en la base d
 - 19:00 · 1. Division · [Kolding IF – Aalborg](informes/2026-11-20_kolding-if-vs-aalborg.md)
 - 19:00 · 1. Division · [Aarhus Fremad – Hobro](informes/2026-11-20_aarhus-fremad-vs-hobro.md)
 - 19:30 · Liga I · [Farul Constanta – Universitatea Cluj](informes/2026-11-20_farul-constanta-vs-universitatea-cluj.md)
+- 20:30 · Bundesliga · [Bayern München – 1. FC Köln](informes/2026-11-20_bayern-munchen-vs-1-fc-koln.md) · 1X2: 1.07 / 11.00 / 23.00
+- 20:30 · Segunda División · [FC Andorra – Leganes](informes/2026-11-20_fc-andorra-vs-leganes.md)
+- 20:30 · Serie C · [Trento – Cittadella](informes/2026-11-20_trento-vs-cittadella.md)
+- 20:45 · Ligue 1 · [Estac Troyes – Le Havre](informes/2026-11-20_estac-troyes-vs-le-havre.md) · 1X2: 2.10 / 3.40 / 3.30
+- 21:00 · LaLiga · [Athletic Club – Espanyol](informes/2026-11-20_athletic-club-vs-espanyol.md) · 1X2: 1.48 / 4.10 / 7.00
+- 21:45 · Taça de Portugal · [FC Porto – Paredes](informes/2026-11-20_fc-porto-vs-paredes.md)

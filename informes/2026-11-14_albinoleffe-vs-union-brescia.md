@@ -1,7 +1,7 @@
 # Albinoleffe – Union Brescia
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · AlbinoLeffe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_
@@ -130,7 +130,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,24 · visitante 2,06._
+_Goles esperados: local 1,23 · visitante 2,06._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -155,9 +155,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 31% | 27% | 3.00 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 58% | 66% | 62% | 1.40 | -13% |
 | Goles del local: Más de 0.5 | 71% | 58% | 64% | 1.62 | +4% |
-| Goles del local: Más de 1.5 | 35% | 25% | 30% | 3.75 | +13% |
+| Goles del local: Más de 1.5 | 35% | 25% | 30% | 3.75 | +12% |
 | Goles del local: Menos de 0.5 | 29% | 42% | 36% | 2.20 | -21% |
-| Goles del local: Menos de 1.5 | 65% | 75% | 70% | 1.25 | -13% |
+| Goles del local: Menos de 1.5 | 65% | 75% | 70% | 1.25 | -12% |
 | Goles del visitante: Más de 0.5 | 87% | 79% | 83% | 1.17 | -3% |
 | Goles del visitante: Más de 1.5 | 61% | 51% | 56% | 1.80 | +1% |
 | Goles del visitante: Más de 2.5 | 34% | 27% | 30% | 3.50 | +6% |

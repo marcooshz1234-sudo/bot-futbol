@@ -1,7 +1,7 @@
 # Real Madrid W – Inter Milano W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -94,6 +94,6 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,57 · visitante 0,99 · córners esperados 8,9._
+_Goles esperados: local 2,56 · visitante 0,97 · córners esperados 9,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

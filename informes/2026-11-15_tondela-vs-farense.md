@@ -1,10 +1,10 @@
 # Tondela – Farense
-**Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España)
+**Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Estádio João Cardoso
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
-_Actualizadas: 12/11 14:17_
+_Actualizadas: 13/11 01:47_
 
 - **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.67**
@@ -174,7 +174,7 @@ _Sin bajas comunicadas por ahora._
 | Lucas D'Agrella | D | 1 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 1,21 · córners esperados 7,7._
+_Goles esperados: local 1,51 · visitante 1,21 · córners esperados 7,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -188,23 +188,23 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 70% | 73% | 71% | 1.30 | -8% |
 | Ambos marcan: No | 45% | 49% | 47% | 1.91 | -10% |
 | Ambos marcan: Sí | 55% | 51% | 53% | 1.80 | -4% |
-| Goles más/menos: Más de 1.5 | 76% | 72% | 74% | 1.30 | -4% |
-| Goles más/menos: Más de 2.5 | 51% | 47% | 49% | 2.00 | -1% |
+| Goles más/menos: Más de 1.5 | 75% | 72% | 74% | 1.30 | -4% |
+| Goles más/menos: Más de 2.5 | 51% | 47% | 49% | 2.00 | -2% |
 | Goles más/menos: Más de 3.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 1.5 | 24% | 28% | 26% | 3.40 | -11% |
+| Goles más/menos: Menos de 1.5 | 25% | 28% | 26% | 3.40 | -11% |
 | Goles más/menos: Menos de 2.5 | 49% | 53% | 51% | 1.80 | -9% |
 | Goles más/menos: Menos de 3.5 | 71% | 73% | 72% | 1.28 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del local: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del local: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
 | Goles del local: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles del local: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles del local: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
 | Goles del local: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
 | Goles del visitante: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
 | Goles del visitante: Más de 1.5 | 34% | 31% | 33% | 3.00 | -2% |
-| Goles del visitante: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -13% |
+| Goles del visitante: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 1.5 | 66% | 69% | 67% | 1.36 | -8% |
 | Córners más/menos: Más de 9.5 | 29% | 50% | 40% | 1.83 | -28% |
 | Córners más/menos: Menos de 9.5 | 71% | 50% | 60% | 1.83 | +11% |

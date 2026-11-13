@@ -1,7 +1,7 @@
 # Arzignano Valchiampo – Alcione
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Tommaso Dal Molin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_
@@ -154,13 +154,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 41% | 49% | 45% | 1.95 | -12% |
 | Goles más/menos: Menos de 3.5 | 64% | 69% | 66% | 1.36 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 69% | 71% | 1.36 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 31% | 29% | 3.00 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
 | Goles del local: Más de 0.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles del local: Más de 1.5 | 53% | 46% | 50% | 2.00 | -0% |
+| Goles del local: Más de 1.5 | 53% | 46% | 50% | 2.00 | -1% |
 | Goles del local: Más de 2.5 | 26% | 23% | 25% | 4.00 | -0% |
-| Goles del local: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -20% |
+| Goles del local: Menos de 0.5 | 17% | 23% | 20% | 4.00 | -19% |
 | Goles del local: Menos de 1.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Goles del local: Menos de 2.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles del visitante: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |

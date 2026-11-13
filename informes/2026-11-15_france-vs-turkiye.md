@@ -1,7 +1,7 @@
 # France – Türkiye
-**Nations League** · League A - 6 · 15/11/2026 20:45 (hora España)
+**Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Matmut Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | France (total) | France en casa | Türkiye (total) | Türkiye fuera |
 |---|---|---|---|---|
-| Partidos analizados | 4 | 2 | 5 | 2 |
-| Forma (últimos 5) | VEVV | VE | DDDDD | DD |
-| Balance | 3V 1E 0D | 1V 1E 0D | 0V 0E 5D | 0V 0E 2D |
-| Goles a favor / partido | 1,75 | 2,50 | 0,60 | 0,50 |
-| Goles en contra / partido | 0,50 | 1,00 | 2,60 | 3,00 |
-| Goles a favor 1ª parte | 0,00 | 0,00 | 0,20 | 0,00 |
-| Goles a favor 2ª parte | 1,75 | 2,50 | 0,40 | 0,50 |
-| Goles en contra 1ª parte | 0,25 | 0,50 | 1,40 | 1,00 |
-| Goles en contra 2ª parte | 0,25 | 0,50 | 1,20 | 2,00 |
-| Más de 1,5 goles | 50% | 100% | 80% | 100% |
-| Más de 2,5 goles | 25% | 50% | 80% | 100% |
-| Más de 3,5 goles | 25% | 50% | 40% | 50% |
-| Ambos marcan | 50% | 100% | 60% | 50% |
-| Portería a cero | 50% | 0% | 0% | 0% |
+| Partidos analizados | 5 | 2 | 5 | 2 |
+| Forma (últimos 5) | DVEVV | VE | DDDDD | DD |
+| Balance | 3V 1E 1D | 1V 1E 0D | 0V 0E 5D | 0V 0E 2D |
+| Goles a favor / partido | 1,60 | 2,50 | 0,60 | 0,50 |
+| Goles en contra / partido | 1,00 | 1,00 | 2,60 | 3,00 |
+| Goles a favor 1ª parte | 0,20 | 0,00 | 0,20 | 0,00 |
+| Goles a favor 2ª parte | 1,40 | 2,50 | 0,40 | 0,50 |
+| Goles en contra 1ª parte | 0,40 | 0,50 | 1,40 | 1,00 |
+| Goles en contra 2ª parte | 0,60 | 0,50 | 1,20 | 2,00 |
+| Más de 1,5 goles | 60% | 100% | 80% | 100% |
+| Más de 2,5 goles | 40% | 50% | 80% | 100% |
+| Más de 3,5 goles | 40% | 50% | 40% | 50% |
+| Ambos marcan | 60% | 100% | 60% | 50% |
+| Portería a cero | 40% | 0% | 0% | 0% |
 | Se queda sin marcar | 0% | 0% | 40% | 50% |
-| xG a favor | 1,41 | 1,63 | 1,50 | 1,40 |
-| xG en contra | 1,01 | 1,06 | 1,80 | 1,81 |
+| xG a favor | 1,44 | 1,63 | 1,50 | 1,40 |
+| xG en contra | 1,26 | 1,06 | 1,80 | 1,81 |
 | Tiros / partido | 17,8 | 20,5 | 14,8 | 18,5 |
-| Tiros a puerta / partido | 6,8 | 8,0 | 5,2 | 6,5 |
+| Tiros a puerta / partido | 6,4 | 8,0 | 5,2 | 6,5 |
 | Tiros recibidos | 10,8 | 9,5 | 14,0 | 16,0 |
-| Tiros a puerta recibidos | 2,2 | 2,0 | 6,8 | 8,0 |
+| Tiros a puerta recibidos | 2,8 | 2,0 | 6,8 | 8,0 |
 | Posesión media % | 65 | 66 | 49 | 50 |
-| Córners a favor | 6,0 | 7,5 | 5,4 | 7,0 |
-| Córners en contra | 3,2 | 3,0 | 2,6 | 2,5 |
-| Córners a favor 1ª parte | 3,8 | 4,5 | 1,4 | 3,0 |
+| Córners a favor | 5,4 | 7,5 | 5,4 | 7,0 |
+| Córners en contra | 3,4 | 3,0 | 2,6 | 2,5 |
+| Córners a favor 1ª parte | 3,2 | 4,5 | 1,4 | 3,0 |
 | Córners a favor 2ª parte | 2,2 | 3,0 | 4,0 | 4,0 |
-| Córners totales del partido | 9,2 | 10,5 | 8,0 | 9,5 |
-| Córners totales 1ª parte | 4,8 | 6,0 | 2,6 | 4,5 |
-| Córners totales 2ª parte | 4,5 | 4,5 | 5,4 | 5,0 |
-| Más de 8,5 córners | 50% | 100% | 20% | 50% |
-| Más de 9,5 córners | 50% | 100% | 20% | 50% |
-| Más de 10,5 córners | 25% | 50% | 20% | 50% |
-| Faltas cometidas | 9,2 | 6,5 | 11,8 | 10,5 |
-| Faltas recibidas | 11,0 | 9,0 | 14,6 | 11,5 |
-| Amarillas propias | 1,0 | 0,5 | 2,6 | 3,0 |
-| Amarillas del rival | 2,8 | 3,0 | 1,8 | 3,0 |
-| Rojas / partido | 0,25 | 0,50 | 0,20 | 0,00 |
+| Córners totales del partido | 8,8 | 10,5 | 8,0 | 9,5 |
+| Córners totales 1ª parte | 4,4 | 6,0 | 2,6 | 4,5 |
+| Córners totales 2ª parte | 4,4 | 4,5 | 5,4 | 5,0 |
+| Más de 8,5 córners | 40% | 100% | 20% | 50% |
+| Más de 9,5 córners | 40% | 100% | 20% | 50% |
+| Más de 10,5 córners | 20% | 50% | 20% | 50% |
+| Faltas cometidas | 11,0 | 6,5 | 11,8 | 10,5 |
+| Faltas recibidas | 10,8 | 9,0 | 14,6 | 11,5 |
+| Amarillas propias | 1,2 | 0,5 | 2,6 | 3,0 |
+| Amarillas del rival | 2,6 | 3,0 | 1,8 | 3,0 |
+| Rojas / partido | 0,20 | 0,50 | 0,20 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles France | Recibe France | Tarjetas France | Goles Türkiye | Recibe Türkiye | Tarjetas Türkiye |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 0 | 0 | 0 | 2 | 0 |
-| 16-30' | 0 | 0 | 0 | 1 | 5 | 0 |
+| 1-15' | 1 | 0 | 1 | 0 | 2 | 0 |
+| 16-30' | 0 | 1 | 0 | 1 | 5 | 0 |
 | 31-45' | 0 | 1 | 0 | 0 | 0 | 3 |
 | 46-60' | 2 | 0 | 0 | 1 | 3 | 4 |
-| 61-75' | 0 | 1 | 3 | 1 | 1 | 3 |
-| 76-90' | 5 | 0 | 4 | 0 | 2 | 3 |
+| 61-75' | 0 | 3 | 3 | 1 | 1 | 3 |
+| 76-90' | 5 | 0 | 5 | 0 | 2 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -70,6 +70,7 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de France
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Nations League | Italy 3-1 France | fuera | 3-4 | 18 (5) - 11 (5) | 2-2 |
 | 2026-10-05 | Nations League | France 4-1 Belgium | casa | 9-2 | 23 (8) - 5 (2) | 1-2 |
 | 2026-10-02 | Nations League | France 1-1 Italy | casa | 6-4 | 18 (8) - 14 (2) | 0-4 |
 | 2026-09-28 | Nations League | Belgium 0-1 France | fuera | 6-2 | 18 (7) - 12 (2) | 0-3 |
@@ -78,22 +79,22 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de France
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| M. Maignan | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| M. Olise | M | 5 | 301 | 5 | 2 | 13 | 2,6 | 8 | 1,6 | 3 | 0 | 0,0 | 0 | 0 |
+| L. da Cunha | M | 4 | 295 | 0 | 1 | 3 | 0,8 | 0 | 0,0 | 5 | 6 | 1,5 | 0 | 0 |
+| D. Doué | M | 5 | 292 | 1 | 2 | 10 | 2,0 | 5 | 1,0 | 1 | 3 | 0,6 | 0 | 0 |
+| R. Cherki | M | 5 | 279 | 1 | 2 | 5 | 1,0 | 3 | 0,6 | 5 | 7 | 1,4 | 0 | 0 |
 | Maxence Lacroix | D | 4 | 278 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| Mike Maignan | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| A. Rabiot | M | 4 | 272 | 0 | 0 | 8 | 2,0 | 3 | 0,8 | 2 | 6 | 1,5 | 0 | 0 |
+| J. Jacquet | D | 3 | 270 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 6 | 1 | 0,3 | 1 | 0 |
+| D. Upamecano | D | 3 | 265 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 3 | 1 |
 | Ousmane Dembélé | F | 4 | 261 | 0 | 0 | 6 | 1,5 | 3 | 0,8 | 0 | 1 | 0,2 | 0 | 0 |
-| Désiré Doué | F | 4 | 215 | 1 | 2 | 9 | 2,2 | 5 | 1,2 | 0 | 0 | 0,0 | 0 | 0 |
-| Michael Olise | M | 4 | 211 | 4 | 2 | 9 | 2,2 | 7 | 1,8 | 1 | 0 | 0,0 | 0 | 0 |
-| Lucas Da Cunha | M | 3 | 205 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 3 | 3 | 1,0 | 0 | 0 |
-| Eduardo Camavinga | M | 4 | 204 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 3 | 7 | 1,8 | 0 | 0 |
-| Rayan Cherki | M | 4 | 197 | 1 | 2 | 3 | 0,8 | 2 | 0,5 | 5 | 7 | 1,8 | 0 | 0 |
-| Adrien Rabiot | M | 3 | 182 | 0 | 0 | 4 | 1,3 | 1 | 0,3 | 0 | 6 | 2,0 | 0 | 0 |
+| A. Truffert | D | 3 | 257 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 1,3 | 0 | 0 |
+| B. Barcola | F | 5 | 252 | 0 | 0 | 8 | 1,6 | 3 | 0,6 | 2 | 1 | 0,2 | 0 | 0 |
+| E. Camavinga | M | 5 | 212 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 3 | 8 | 1,6 | 0 | 0 |
+| A. Diouf | M | 3 | 193 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 0 | 0 |
 | Jules Koundé | D | 2 | 180 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
-| Andy Diouf | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 | Pierre Kalulu | D | 2 | 180 | 0 | 0 | 2 | 1,0 | 1 | 0,5 | 3 | 2 | 1,0 | 0 | 0 |
-| Jérémy Jacquet | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,5 | 0 | 0 |
-| Adrien Truffert | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,5 | 0 | 0 |
-| Bradley Barcola | F | 4 | 175 | 0 | 0 | 4 | 1,0 | 2 | 0,5 | 2 | 1 | 0,2 | 0 | 0 |
-| Dayot Upamecano | D | 2 | 175 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 3 | 1 |
 | Esteban Lepaul | F | 3 | 166 | 0 | 0 | 6 | 2,0 | 2 | 0,7 | 1 | 1 | 0,3 | 1 | 0 |
 | Manu Koné | M | 3 | 152 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 6 | 2,0 | 1 | 0 |
 | Maghnes Akliouche | M | 2 | 137 | 0 | 0 | 2 | 1,0 | 1 | 0,5 | 1 | 0 | 0,0 | 0 | 0 |
@@ -133,4 +134,6 @@ _Sin bajas comunicadas por ahora._
 | Aral Şimşir | F | 1 | 70 | 1 | 0 | 1 | 1,0 | 1 | 1,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._
+_Goles esperados: local 1,81 · visitante 0,79 · córners esperados 8,7._
+
+_Sin cuotas de Bet365 todavía para comparar._

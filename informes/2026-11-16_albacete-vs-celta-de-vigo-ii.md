@@ -1,7 +1,7 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Estadio Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 08:27_
@@ -58,21 +58,21 @@ _Actualizadas: 12/11 08:27_
 ## Estadísticas de equipo
 | | Albacete (total) | Albacete en casa | Celta de Vigo II (total) | Celta de Vigo II fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 13 | 6 |
-| Forma (últimos 5) | VVVDD | VVDDD | DEDEV | DDDDV |
-| Balance | 3V 1E 9D | 2V 0E 4D | 3V 4E 6D | 1V 1E 4D |
-| Goles a favor / partido | 1,00 | 1,17 | 1,46 | 1,00 |
-| Goles en contra / partido | 1,85 | 1,50 | 1,92 | 2,00 |
-| Goles a favor 1ª parte | 0,62 | 1,00 | 0,69 | 0,50 |
-| Goles a favor 2ª parte | 0,38 | 0,17 | 0,77 | 0,50 |
-| Goles en contra 1ª parte | 0,85 | 0,50 | 1,15 | 1,33 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 0,77 | 0,67 |
-| Más de 1,5 goles | 92% | 83% | 92% | 83% |
-| Más de 2,5 goles | 62% | 67% | 62% | 50% |
-| Más de 3,5 goles | 23% | 17% | 46% | 33% |
-| Ambos marcan | 62% | 67% | 69% | 50% |
-| Portería a cero | 8% | 17% | 15% | 33% |
-| Se queda sin marcar | 31% | 17% | 23% | 33% |
+| Partidos analizados | 14 | 6 | 13 | 6 |
+| Forma (últimos 5) | VVVVD | VVDDD | DEDEV | DDDDV |
+| Balance | 4V 1E 9D | 2V 0E 4D | 3V 4E 6D | 1V 1E 4D |
+| Goles a favor / partido | 1,14 | 1,17 | 1,46 | 1,00 |
+| Goles en contra / partido | 1,71 | 1,50 | 1,92 | 2,00 |
+| Goles a favor 1ª parte | 0,71 | 1,00 | 0,69 | 0,50 |
+| Goles a favor 2ª parte | 0,43 | 0,17 | 0,77 | 0,50 |
+| Goles en contra 1ª parte | 0,79 | 0,50 | 1,15 | 1,33 |
+| Goles en contra 2ª parte | 0,93 | 1,00 | 0,77 | 0,67 |
+| Más de 1,5 goles | 93% | 83% | 92% | 83% |
+| Más de 2,5 goles | 64% | 67% | 62% | 50% |
+| Más de 3,5 goles | 21% | 17% | 46% | 33% |
+| Ambos marcan | 57% | 67% | 69% | 50% |
+| Portería a cero | 14% | 17% | 15% | 33% |
+| Se queda sin marcar | 29% | 17% | 23% | 33% |
 | xG a favor | 1,26 | 1,36 | 1,21 | 0,81 |
 | xG en contra | 1,79 | 1,39 | 1,96 | 2,42 |
 | Tiros / partido | 12,3 | 14,3 | 11,5 | 9,3 |
@@ -80,31 +80,31 @@ _Actualizadas: 12/11 08:27_
 | Tiros recibidos | 14,7 | 12,8 | 15,4 | 17,3 |
 | Tiros a puerta recibidos | 4,9 | 4,7 | 5,2 | 6,0 |
 | Posesión media % | 45 | 50 | 48 | 45 |
-| Córners a favor | 5,7 | 6,7 | 3,4 | 3,3 |
-| Córners en contra | 4,6 | 4,0 | 5,8 | 6,5 |
-| Córners a favor 1ª parte | 2,9 | 3,7 | 1,7 | 1,8 |
-| Córners a favor 2ª parte | 2,8 | 3,0 | 1,7 | 1,5 |
-| Córners totales del partido | 10,3 | 10,7 | 9,2 | 9,8 |
-| Córners totales 1ª parte | 4,8 | 5,0 | 4,5 | 4,5 |
-| Córners totales 2ª parte | 5,5 | 5,7 | 4,7 | 5,3 |
-| Más de 8,5 córners | 69% | 67% | 54% | 67% |
-| Más de 9,5 córners | 54% | 67% | 46% | 50% |
-| Más de 10,5 córners | 46% | 67% | 38% | 50% |
+| Córners a favor | 5,3 | 6,7 | 3,4 | 3,3 |
+| Córners en contra | 4,3 | 4,0 | 5,8 | 6,5 |
+| Córners a favor 1ª parte | 2,7 | 3,7 | 1,7 | 1,8 |
+| Córners a favor 2ª parte | 2,6 | 3,0 | 1,7 | 1,5 |
+| Córners totales del partido | 9,6 | 10,7 | 9,2 | 9,8 |
+| Córners totales 1ª parte | 4,5 | 5,0 | 4,5 | 4,5 |
+| Córners totales 2ª parte | 5,1 | 5,7 | 4,7 | 5,3 |
+| Más de 8,5 córners | 64% | 67% | 54% | 67% |
+| Más de 9,5 córners | 50% | 67% | 46% | 50% |
+| Más de 10,5 córners | 43% | 67% | 38% | 50% |
 | Faltas cometidas | 12,8 | 10,7 | 12,5 | 12,5 |
 | Faltas recibidas | 12,8 | 14,3 | 13,9 | 14,8 |
 | Amarillas propias | 2,6 | 2,2 | 2,8 | 3,0 |
-| Amarillas del rival | 2,4 | 3,0 | 2,6 | 2,2 |
-| Rojas / partido | 0,15 | 0,17 | 0,15 | 0,33 |
+| Amarillas del rival | 2,3 | 3,0 | 2,6 | 2,2 |
+| Rojas / partido | 0,14 | 0,17 | 0,15 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Albacete | Recibe Albacete | Tarjetas Albacete | Goles Celta de Vigo II | Recibe Celta de Vigo II | Tarjetas Celta de Vigo II |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 3 | 0 | 4 | 4 | 2 |
-| 16-30' | 2 | 3 | 5 | 2 | 7 | 6 |
-| 31-45' | 3 | 5 | 6 | 3 | 4 | 4 |
+| 16-30' | 4 | 3 | 5 | 2 | 7 | 6 |
+| 31-45' | 3 | 5 | 8 | 3 | 4 | 4 |
 | 46-60' | 1 | 5 | 7 | 4 | 6 | 5 |
 | 61-75' | 0 | 4 | 8 | 0 | 2 | 5 |
-| 76-90' | 4 | 4 | 10 | 6 | 2 | 17 |
+| 76-90' | 5 | 4 | 10 | 6 | 2 | 17 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -117,12 +117,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Albacete
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Copa del Rey | Calvo Sotelo 0-3 Albacete | fuera | –-– | – (–) - – (–) | 2-1 |
 | 2026-11-07 | Segunda División | Leganes 1-3 Albacete | fuera | 5-9 | 13 (4) - 17 (7) | 6-5 |
 | 2026-10-31 | Segunda División | Albacete 2-1 Sabadell | casa | 7-6 | 5 (2) - 25 (5) | 1-3 |
 | 2026-10-25 | Segunda División | Albacete 2-0 Eldense | casa | 10-4 | 19 (4) - 10 (1) | 4-4 |
 | 2026-10-17 | Segunda División | Sporting Gijon 2-1 Albacete | fuera | 5-3 | 7 (2) - 11 (5) | 2-3 |
 | 2026-10-12 | Segunda División | Valladolid 5-0 Albacete | fuera | 5-7 | 10 (2) - 19 (7) | 4-2 |
-| 2026-10-03 | Segunda División | Albacete 1-3 Eibar | casa | 6-0 | 22 (6) - 8 (6) | 2-1 |
 
 ## Jugadores de Albacete
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -183,41 +183,41 @@ _Sin precedentes recientes._
 | Alexis Olmedo | D | 4 | 169 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,60 · visitante 1,50 · córners esperados 9,9._
+_Goles esperados: local 1,69 · visitante 1,45 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 17% | 26% | 5.50 | +45% |
-| 1X2: X | 24% | 24% | 24% | 3.90 | -7% |
-| 1X2: 1 | 40% | 59% | 50% | 1.57 | -22% |
-| Doble oportunidad: X2 | 60% | 41% | 50% | 2.30 | +16% |
-| Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
-| Doble oportunidad: 1X | 64% | 83% | 74% | 1.14 | -16% |
-| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -11% |
+| 1X2: 2 | 33% | 17% | 25% | 5.50 | +37% |
+| 1X2: X | 23% | 24% | 24% | 3.90 | -8% |
+| 1X2: 1 | 44% | 59% | 51% | 1.57 | -19% |
+| Doble oportunidad: X2 | 56% | 41% | 49% | 2.30 | +12% |
+| Doble oportunidad: 12 | 77% | 76% | 76% | 1.25 | -5% |
+| Doble oportunidad: 1X | 67% | 83% | 75% | 1.14 | -14% |
+| Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
-| Goles más/menos: Más de 2.5 | 60% | 59% | 59% | 1.60 | -5% |
-| Goles más/menos: Más de 3.5 | 37% | 39% | 38% | 2.38 | -9% |
-| Goles más/menos: Más de 4.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles más/menos: Menos de 2.5 | 40% | 41% | 41% | 2.30 | -7% |
-| Goles más/menos: Menos de 3.5 | 63% | 61% | 62% | 1.53 | -6% |
-| Goles más/menos: Menos de 4.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
-| Goles del local: Más de 1.5 | 48% | 61% | 54% | 1.53 | -17% |
-| Goles del local: Más de 2.5 | 22% | 35% | 29% | 2.62 | -25% |
-| Goles del local: Menos de 1.5 | 52% | 39% | 46% | 2.38 | +9% |
-| Goles del local: Menos de 2.5 | 78% | 65% | 71% | 1.44 | +3% |
-| Goles del visitante: Más de 0.5 | 78% | 65% | 71% | 1.44 | +2% |
-| Goles del visitante: Más de 1.5 | 44% | 29% | 37% | 3.25 | +19% |
-| Goles del visitante: Menos de 0.5 | 22% | 35% | 29% | 2.62 | -24% |
-| Goles del visitante: Menos de 1.5 | 56% | 71% | 63% | 1.33 | -16% |
-| Córners más/menos: Más de 9.5 | 48% | 51% | 50% | 1.80 | -10% |
-| Córners más/menos: Menos de 9.5 | 52% | 49% | 50% | 1.91 | -4% |
-| 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -5% |
-| 1X2 descanso: 1 | 32% | 45% | 38% | 2.05 | -21% |
+| Goles más/menos: Más de 2.5 | 61% | 59% | 60% | 1.60 | -4% |
+| Goles más/menos: Más de 3.5 | 38% | 39% | 39% | 2.38 | -8% |
+| Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -8% |
+| Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -8% |
+| Goles más/menos: Menos de 3.5 | 62% | 61% | 61% | 1.53 | -6% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.20 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
+| Goles del local: Más de 1.5 | 50% | 61% | 56% | 1.53 | -15% |
+| Goles del local: Más de 2.5 | 24% | 35% | 30% | 2.62 | -22% |
+| Goles del local: Menos de 1.5 | 50% | 39% | 44% | 2.38 | +6% |
+| Goles del local: Menos de 2.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles del visitante: Más de 0.5 | 76% | 65% | 71% | 1.44 | +2% |
+| Goles del visitante: Más de 1.5 | 42% | 29% | 36% | 3.25 | +16% |
+| Goles del visitante: Menos de 0.5 | 24% | 35% | 29% | 2.62 | -23% |
+| Goles del visitante: Menos de 1.5 | 58% | 71% | 64% | 1.33 | -15% |
+| Córners más/menos: Más de 9.5 | 47% | 51% | 49% | 1.80 | -11% |
+| Córners más/menos: Menos de 9.5 | 53% | 49% | 51% | 1.91 | -3% |
+| 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -6% |
+| 1X2 descanso: 1 | 34% | 45% | 39% | 2.05 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

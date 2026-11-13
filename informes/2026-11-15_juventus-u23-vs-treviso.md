@@ -1,7 +1,7 @@
 # Juventus U23 – Treviso
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_
@@ -154,7 +154,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +0% |
 | Goles del local: Más de 0.5 | 46% | 66% | 56% | 1.40 | -22% |
-| Goles del local: Más de 1.5 | 12% | 34% | 23% | 2.75 | -36% |
+| Goles del local: Más de 1.5 | 12% | 34% | 23% | 2.75 | -37% |
 | Goles del local: Menos de 0.5 | 54% | 34% | 44% | 2.75 | +21% |
 | Goles del local: Menos de 1.5 | 88% | 66% | 77% | 1.40 | +8% |
 | Goles del visitante: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |

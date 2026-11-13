@@ -1,7 +1,7 @@
 # Granada CF – Las Palmas
-**Segunda División** · Regular Season - 14 · 15/11/2026 16:15 (hora España)
+**Segunda División** · Regular Season - 14 · 15/11/2026 16:15 (hora España) · Nuevo Los Cármenes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:01_
@@ -195,15 +195,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 21% | 21% | 21% | 4.50 | -5% |
-| 1X2: X | 24% | 27% | 25% | 3.50 | -12% |
+| 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
 | 1X2: 1 | 55% | 52% | 54% | 1.80 | -3% |
 | Doble oportunidad: X2 | 45% | 46% | 46% | 2.05 | -7% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 79% | 80% | 79% | 1.18 | -6% |
-| Ambos marcan: No | 49% | 46% | 47% | 2.00 | -5% |
-| Ambos marcan: Sí | 51% | 54% | 53% | 1.73 | -9% |
+| Ambos marcan: No | 49% | 46% | 48% | 2.00 | -5% |
+| Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -9% |
 | Goles más/menos: Más de 1.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles más/menos: Más de 2.5 | 51% | 51% | 51% | 1.85 | -5% |
+| Goles más/menos: Más de 2.5 | 51% | 51% | 51% | 1.85 | -6% |
 | Goles más/menos: Más de 3.5 | 29% | 31% | 30% | 3.00 | -10% |
 | Goles más/menos: Menos de 1.5 | 25% | 25% | 25% | 3.75 | -7% |
 | Goles más/menos: Menos de 2.5 | 49% | 49% | 49% | 1.95 | -5% |
@@ -214,13 +214,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 65% | 66% | 1.44 | -5% |
 | Goles del local: Más de 1.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Goles del local: Más de 2.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles del local: Menos de 1.5 | 48% | 49% | 48% | 1.91 | -8% |
+| Goles del local: Menos de 1.5 | 48% | 49% | 48% | 1.91 | -7% |
 | Goles del local: Menos de 2.5 | 75% | 73% | 74% | 1.28 | -5% |
 | Goles del visitante: Más de 0.5 | 62% | 62% | 62% | 1.50 | -6% |
 | Goles del visitante: Más de 1.5 | 26% | 28% | 27% | 3.40 | -9% |
 | Goles del visitante: Menos de 0.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles del visitante: Menos de 1.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Córners más/menos: Más de 9.5 | 42% | 47% | 44% | 2.02 | -11% |
+| Córners más/menos: Más de 9.5 | 42% | 47% | 44% | 2.02 | -10% |
 | Córners más/menos: Menos de 9.5 | 58% | 53% | 56% | 1.78 | -1% |
 | 1X2 descanso: 2 | 19% | 20% | 20% | 4.50 | -11% |
 | 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |

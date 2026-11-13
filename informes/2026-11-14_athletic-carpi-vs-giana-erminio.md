@@ -1,7 +1,7 @@
 # Athletic Carpi – Giana Erminio
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 12/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 01:48._
 
 ## Cuotas Bet365
 _Actualizadas: 12/11 20:00_
@@ -148,7 +148,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles más/menos: Menos de 1.5 | 24% | 28% | 26% | 3.40 | -13% |
 | Goles más/menos: Menos de 2.5 | 48% | 53% | 50% | 1.80 | -10% |
-| Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
@@ -162,7 +162,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -14% |
 | Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | 1X2 descanso: 2 | 31% | 27% | 29% | 3.40 | -2% |
-| 1X2 descanso: X | 42% | 43% | 42% | 2.10 | -11% |
+| 1X2 descanso: X | 42% | 43% | 43% | 2.10 | -11% |
 | 1X2 descanso: 1 | 27% | 30% | 29% | 3.00 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
