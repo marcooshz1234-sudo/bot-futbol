@@ -2024,5 +2024,30 @@
    "cuota_bet365": 1.12,
    "prob_cuota": 0.654
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100322",
+  "dia": "2026-11-13",
+  "hora": "20:45",
+  "local": "Netherlands",
+  "visitante": "Greece",
+  "texto": "Grecia marca",
+  "mercado": "Total - Away",
+  "opcion": "Over 0.5",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Grecia es 2ª del grupo con los mismos puntos que Países Bajos y se juega el primer puesto: tiene que ir a por el partido"
+  ],
+  "por_que": [
+   "Países Bajos encaja en casa y Grecia necesita marcar; 1,50 cuadra con la probabilidad de gol griego. Apuntado por Claude."
+  ],
+  "partido_id": 1528966,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.5,
+   "prob_cuota": 0.667
+  }
  }
 ]
