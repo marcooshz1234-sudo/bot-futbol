@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 16:51",
+ "actualizado": "2026-11-13 17:01",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -58,9 +58,9 @@
  "total_hoy": 53,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:00",
+  "hora": "18:00",
   "dia": "2026-11-13",
-  "titulo": "Combinada de selecciones para esta noc"
+  "titulo": "Pick que nos gusta mucho para hoy"
  },
  "ayer": null,
  "escalera": {
@@ -202,7 +202,7 @@
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 34,
+   "posts": 35,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -229,11 +229,6 @@
   "Escalera": {
    "posts": 1,
    "likes_media": 1.0,
-   "comentarios_media": 0.0
-  },
-  "Verdes/balance (reel)": {
-   "posts": 1,
-   "likes_media": 0.0,
    "comentarios_media": 0.0
   }
  }
