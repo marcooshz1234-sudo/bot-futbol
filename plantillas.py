@@ -567,6 +567,30 @@ def etiquetar(tipo, texto, semilla=None):
     return f"{primera}\n{et}\n{resto}" if resto else f"{primera}\n{et}"
 
 
+REINICIO_LEJOS = [   # 14/11 (Marcos: «que bien íbamos, una pena lo que ha fallado, pero volvemos con más fuerza»)
+    "Íbamos lanzados hasta el día {n} 🚀 y {cuando_min} se cayó con {stake}€ en juego. Cabeza fría y a por ello otra "
+    "vez: desde 20€, escalón a escalón 💪",
+    "Nos quedamos a las puertas 😮‍💨 {cuando}, en el día {n} y con {stake}€ en juego, se torció. Duele, pero aquí no se "
+    "para: volvemos desde 20€ y a por los 7 días 🔥",
+    "Qué bien íbamos… 🥲 {cuando} llegamos al día {n} con {stake}€ en juego y se nos escapó. Una pena, pero esto va de "
+    "levantarse: otra vez desde 20€ y con más fuerza que nunca 💪",
+]
+REINICIO_CERCA = [
+    "{cuando} no salió el día {n}. Borrón y cuenta nueva: otra vez desde 20€ 💪",
+    "El día {n} se nos resistió. Nada, volvemos desde 20€ con las mismas ganas 🔥",
+]
+
+
+def intro_reinicio(ant, cuando, dia):
+    """Entrada de la escalera cuando el reto se cayó: sin ❌ (12/11: que los fallos no se vean mal), con lo lejos que
+    llegamos y volviendo con fuerza. Cambia cada día para que no sea repetitivo."""
+    n = int(ant.get("escalon") or 1)
+    frases = REINICIO_LEJOS if n >= 3 else REINICIO_CERCA
+    f = frases[sum(map(ord, dia)) % len(frases)]
+    t = f.format(n=n, stake=num(ant.get("stake") or 20), cuando=cuando or "", cuando_min=(cuando or "").lower())
+    return t.replace("  ", " ").strip()
+
+
 def posts_del_dia(dia, d):
     global FORMATO_27
     from bot import partidos_fuera
@@ -697,8 +721,7 @@ def posts_del_dia(dia, d):
             ayer = (f - timedelta(days=1)).strftime("%Y-%m-%d")
             cuando = "Ayer" if ant and ant.get("dia") == ayer else \
                 f"El {DIAS[datetime.fromisoformat(ant['dia']).weekday()].lower()}" if ant else ""
-            intro_esc = (f"❌ {cuando} se cayó el día {ant.get('escalon')}. Aquí no se borra nada: otra vez desde 20€ 💪"
-                     if ant else "Empezamos con 20€ y subimos un escalón cada día 🚀")
+            intro_esc = intro_reinicio(ant, cuando, dia) if ant else "Empezamos con 20€ y subimos un escalón cada día 🚀"
         else:
             intro_esc = f"✅ Día {ant['escalon']} superado: {num(ant['stake'])}€ → {num(ant.get('retorno', ant['stake'] * ant['cuota']))}€"
         apuntar(act["picks"])
