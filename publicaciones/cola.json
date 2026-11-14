@@ -5987,10 +5987,9 @@
     "mensaje_id": 458,
     "redes": {
       "threads": "18120389132008331",
-      "threads_enlace": "18156354172601494"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads_enlace": "18156354172601494",
+      "instagram_reel": null,
+      "instagram": "18131579849487274"
     }
   }
 ]
