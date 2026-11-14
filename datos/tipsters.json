@@ -2341,7 +2341,12 @@
    "prob_cuota": 0.571,
    "prob_pinnacle": 0.557,
    "valor_pinnacle": -0.026
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -2367,7 +2372,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.36,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   1
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -2389,7 +2399,12 @@
    "prob_cuota": 0.546,
    "prob_pinnacle": 0.557,
    "valor_pinnacle": 0.019
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "INSIDER",
@@ -2411,7 +2426,12 @@
    "prob_cuota": 0.556,
    "prob_pinnacle": 0.557,
    "valor_pinnacle": 0.002
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2451,6 +2471,26 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.45,
    "prob_cuota": 0.426
+  }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44988",
+  "dia": "2026-11-15",
+  "local": "Spain",
+  "visitante": "England",
+  "partido_id": 1528984,
+  "texto": "Más de 2,5 goles en España–Inglaterra",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.6,
+   "prob_cuota": 0.625
   }
  }
 ]
