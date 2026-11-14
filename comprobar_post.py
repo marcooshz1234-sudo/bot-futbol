@@ -81,7 +81,8 @@ def orden_por_hora(sels):
 
 
 def es_copia(p):
-    return p.get("origen") == "tipster" or "-tip-" in p.get("id", "")
+    # 14/11: los boletos de Marcos (su combinada personal de bet365) tampoco siguen las reglas de NUESTRAS combis
+    return p.get("origen") == "tipster" or "-tip-" in p.get("id", "") or "-boleto-" in p.get("id", "")
 
 
 def es_resultado(p):

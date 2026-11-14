@@ -212,7 +212,7 @@ def mercado_prohibido(post):
     con un mercado prohibido (más de 2,5 goles, 1ª parte, tarjetas totales, tiros del partido…) no sale nunca,
     lo haya hecho el bot o Claude a mano. Las copias de canales sí pueden («y más si lo dicen ellos»)."""
     pid = post.get("id", "")
-    if post.get("origen") == "tipster" or "-tip-" in pid or post.get("verde_de") or post.get("resultado") \
+    if post.get("origen") == "tipster" or "-tip-" in pid or "-boleto-" in pid or post.get("verde_de") or post.get("resultado") \
             or any(k in pid for k in ("verde", "rojo", "balance", "ganadores", "marcadores")):
         return None
     from picks import excluido

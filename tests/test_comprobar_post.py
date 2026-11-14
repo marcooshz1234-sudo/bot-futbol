@@ -30,6 +30,10 @@ class ComprobarPost(unittest.TestCase):
         self.assertIn("cuota_alta", self.reglas(p))
         self.assertNotIn("cuota_alta", self.reglas(dict(p, excepcion_cuota="14/11 OK de Marcos")))
 
+    def test_boleto_de_marcos_sin_reglas_de_nuestras_combis(self):   # 14/11: su combinada personal
+        p = self.post(["1|Goals Over/Under|Over 2.5", "2|Match Winner|Home"], [1.22, 1.8], id="2026-11-14-boleto-personal-2")
+        self.assertEqual([], [x for x in self.reglas(p) if x in ("mercado", "cuota_alta", "logica")])
+
     def test_mas_de_25_y_tarjetas_totales(self):   # los dos fallos de la combi Italia–Francia
         self.assertIn("mercado", self.reglas(self.post(["1|Goals Over/Under|Over 2.5", "1|Both Teams Score|Yes"], [1.67, 1.57])))
         self.assertIn("mercado", self.reglas(self.post(["1|Cards Over/Under|Over 3.5", "1|Both Teams Score|Yes"], [1.8, 1.57])))

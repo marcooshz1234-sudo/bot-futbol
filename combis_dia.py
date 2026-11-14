@@ -1120,7 +1120,7 @@ def ya_publicadas(dia, excluir=None):
         if p["id"].startswith(dia) and (salio or programado) and not p.get("verde_de") and not p.get("borrar"):
             for s_ in p.get("sel") or []:
                 if str(s_).count("|") == 2:
-                    out[s_] += 0 if any(k in p["id"] for k in ("ganadores", "lista-europa")) else 1
+                    out[s_] += 0 if any(k in p["id"] for k in ("ganadores", "lista-europa", "-boleto-")) else 1   # 14/11: boletos de Marcos, no
     return out
 
 
