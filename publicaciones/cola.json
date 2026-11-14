@@ -6186,5 +6186,52 @@
       "threads": "18652910641013004",
       "instagram": "18070072484786464"
     }
+  },
+  {
+    "id": "2026-11-14-verde-auto-2026-11-14-pick-tip-1",
+    "fecha": "2026-11-14T19:47",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Almería\n\n📈 Cuota @1,75\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-14-verde-auto-2026-11-14-pick-tip-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-14-pick-tip-1",
+    "agrupado_en": "2026-11-14-verde-grupo-1932",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-14-verde-auto-2026-11-14-pick-tip-3",
+    "fecha": "2026-11-14T19:47",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Almeria\n\n📈 Cuota @1,83",
+    "foto": "publicaciones/media/2026-11-14-verde-auto-2026-11-14-pick-tip-3.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-14-pick-tip-3",
+    "agrupado_en": "2026-11-14-verde-grupo-1932",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-14-verde-grupo-1932",
+    "fecha": "2026-11-14T19:47",
+    "texto": "🔥 ¡2 VERDES PARA DENTRO! 🔥\n\n✅ Pick · Gana el Almería @1,75\n✅ Pick · Gana el Almeria @1,83\n\n💚 ¡OTRA MÁS!",
+    "foto": "publicaciones/media/2026-11-14-verde-grupo-1932.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "resultado": "verde",
+    "verdes": [
+      "2026-11-14-verde-auto-2026-11-14-pick-tip-1",
+      "2026-11-14-verde-auto-2026-11-14-pick-tip-3"
+    ],
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ]
   }
 ]
