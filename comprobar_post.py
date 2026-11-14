@@ -104,7 +104,7 @@ def comprobar(p, texto=None, otros=None):
     pid, dia = p.get("id", ""), p.get("id", "")[:10]
     sels = [s for s in p.get("sel") or [] if str(s).count("|") == 2]
     # 14/11 (Marcos): la de 1 € a 500 € puede llevar patas más grandes, sin límite (dentro de la lógica)
-    if not es_copia(p) and not any(k in pid for k in ("ganadores", "marcadores", "cuotaza", "lista", "exactos", "combi-500")):
+    if not es_copia(p) and not any(k in pid for k in ("ganadores", "marcadores", "cuotaza", "lista", "exactos", "combi-500", "boleto")):   # 14/11: los boletos de Marcos (bet365) tampoco
         from bot import CUOTA_MAXIMA_PATA
         altas = [c for c in (p.get("cuotas") or []) if float(c) > CUOTA_MAXIMA_PATA]
         if altas:   # 13/11 (Marcos: «patas de máximo 1,8»)

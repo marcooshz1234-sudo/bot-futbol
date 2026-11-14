@@ -6037,5 +6037,33 @@
       "instagram": "17943559605391655",
       "threads_enlace": "18101349710419673"
     }
+  },
+  {
+    "id": "2026-11-14-boleto-personal",
+    "fecha": "2026-11-14T13:34",
+    "texto": "🎯 MI COMBINADA PERSONAL DE HOY 🔥\n\nEsta la llevo yo, partido a partido 👇\n\n📈 Cuota @24,77\n💶 10€ → 247,70€\n\n¿Quién se sube conmigo? 👇💚",
+    "foto": "publicaciones/media/2026-11-14-boleto-personal.tarjeta.jpg",
+    "origen": "claude",
+    "directo": true,
+    "facebook": "foto",
+    "sel": [
+      "1570024|Both Teams Score|Yes",
+      "1528972|Total - Away|Over 0.5",
+      "1570020|To Win Either Half|Home",
+      "1528976|Home Corners Over/Under|Over 4.5",
+      "1528978|Total - Away|Over 0.5",
+      "1528977|To Win Either Half|Away",
+      "1570021|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57,
+      1.57,
+      1.44,
+      1.66,
+      1.66,
+      1.36,
+      1.83
+    ],
+    "cuota_total": 24.77
   }
 ]
