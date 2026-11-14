@@ -17,7 +17,8 @@
   favorito de élite (España, Francia, Real Madrid…) en una combi de 1,50 o más; nunca para rellenar (12/11).
 - 🤖 Combi total: mínimo 1,35.
 - 🤖 **Cada pata, máximo 1,80** (13/11: «vamos a hacer los picks más seguros»). En lo nuestro (combis, picks,
-  escalera); no en las copias de canales, ganadores ni marcadores exactos.
+  escalera); no en las copias de canales, ganadores ni marcadores exactos. **La de 1 € a 500 € tampoco: patas grandes, sin
+  límite, dentro de la lógica** (14/11, Marcos). Las listas de picks sí llevan el límite.
 - ⚙️ **Cuotazas: hasta 2,20 y solo de 9:00 a 23:00** (13/11: la de Andorra–Gibraltar @3,25 a las 3 de la mañana).
 - ⚙️ Las combis del bot: patas de 1,25 o más (`combis_dia.CUOTA_MIN_PATA`).
 - 👤 **Nunca combis largas de patas regalo** (@1,05, @1,12…): el objetivo es estar al nivel de Pérez y TipsAnalistas (12/11).

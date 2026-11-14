@@ -32,6 +32,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: pip install -q numpy playwright pillow   # 01/11: sin esto fallaban 3 pruebas desde el 29/10
+      - run: pip install -q numpy playwright pillow cryptography   # 01/11 · 14/11: cryptography para test_oracle_a1
+      - run: python -m playwright install --with-deps chromium   # 14/11: test_imagenes_largo necesita el navegador
       - run: python -m unittest discover -s tests -v
       - run: node tests/test_panel.cjs

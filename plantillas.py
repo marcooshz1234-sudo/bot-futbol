@@ -160,7 +160,9 @@ def mejores_para_lista(picks):
     """Un pick por partido y variedad: se van cogiendo por turnos de cada tipo (goles, tiros,
     jugador, tarjetas, córners...) para que la lista no sea casi todo goles."""
     # 26/10: en las listas solo lo que el bot de verdad ve probable (antes salía "Gana el Lazio" con un 47 %)
+    from bot import CUOTA_MAXIMA_PATA   # 14/11: las listas también, patas de 1,80 como máximo (regla del 13/11)
     candidatos = [p for p in sorted(picks, key=atractivo, reverse=True) if not es_sin_empate(p["mercado"], p["opcion"])
+                  and (not p.get("cuota") or p["cuota"] <= CUOTA_MAXIMA_PATA)
                   and (p.get("prob_aprendida") is None or p["prob_aprendida"] >= PROB_MIN_LISTA)
                   and p.get("campo") not in ("faltas_c",)   # 27/10: nada de "X comete 1+ faltas" en las listas
                   # 27/10 (Marcos): «más de 2,5 goles» (también con «ambos marcan») solo si es muy probable (≥70 %)
@@ -751,6 +753,7 @@ def posts_del_dia(dia, d):
                       combi(f"🔥 COMBILOCAS — ¡LA QUE NADIE SE ATREVE x{num(c['cuota'])}! 🔥", c["picks"], c["cuota"])))
     c = est.get("500")
     if c:
+        c = dict(c, picks=sorted(c["picks"], key=lambda p: p.get("fecha", "")))   # 14/11: en orden de hora (02/11)
         posts.append(("combi-500", f.replace(hour=12, minute=0), c["picks"],   # 27/10: a las 12:00 (a las 13:30 va la x3)
                       combi(f"🧮 COMBILOCAS — ¡DE 1€ A 500€! x{num(c['cuota'])} 🧮", c["picks"], c["cuota"])))
 

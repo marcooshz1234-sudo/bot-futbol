@@ -20,6 +20,11 @@ class ComprobarPost(unittest.TestCase):
     def reglas(self, p, otros=None):
         return {r for r, _ in CP.comprobar(p, otros=Counter(otros or {}))}
 
+    def test_combi_500_sin_limite_de_cuota(self):   # 14/11 (Marcos): la de 500 € puede llevar patas grandes
+        sels, cuotas = ["1|Match Winner|Home", "2|Match Winner|Home"], [2.5, 1.5]
+        self.assertIn("cuota_alta", self.reglas(self.post(sels, cuotas)))
+        self.assertNotIn("cuota_alta", self.reglas(self.post(sels, cuotas, id="2026-11-21-combi-500")))
+
     def test_mas_de_25_y_tarjetas_totales(self):   # los dos fallos de la combi Italia–Francia
         self.assertIn("mercado", self.reglas(self.post(["1|Goals Over/Under|Over 2.5", "1|Both Teams Score|Yes"], [1.67, 1.57])))
         self.assertIn("mercado", self.reglas(self.post(["1|Cards Over/Under|Over 3.5", "1|Both Teams Score|Yes"], [1.8, 1.57])))
