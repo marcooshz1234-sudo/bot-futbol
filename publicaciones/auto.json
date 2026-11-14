@@ -4948,6 +4948,143 @@
     ]
   },
   {
+    "id": "2026-11-17-ganadores-nations",
+    "fecha": "2026-11-17T00:00",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇦🇹 Austria - Win\n2. 🇧🇦 Bosnia - Win\n3. 🇭🇺 Hungría - Win\n4. 🇵🇱 Polonia - Win\n5. 🇵🇹 Portugal - Win\n6. ⚽ Irlanda - Win\n7. 🇺🇦 Ucrania - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1528996|Match Winner|Away",
+      "1528999|Match Winner|Home",
+      "1528995|Match Winner|Home",
+      "1528998|Match Winner|Home",
+      "1528992|Match Winner|Away",
+      "1528997|Match Winner|Home",
+      "1528994|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.6,
+      1.73,
+      1.85,
+      2.3,
+      1.33,
+      1.9,
+      2.2
+    ],
+    "ganadores_img": {
+      "titulo": "NATIONS LEAGUE",
+      "liga": 5,
+      "filas": [
+        {
+          "pais": "Austria",
+          "bandera": "🇦🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/775.png",
+          "nombre": "Austria",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Bosnia",
+          "bandera": "🇧🇦",
+          "escudo_url": "https://media.api-sports.io/football/teams/1113.png",
+          "nombre": "Bosnia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Hungary",
+          "bandera": "🇭🇺",
+          "escudo_url": "https://media.api-sports.io/football/teams/769.png",
+          "nombre": "Hungría",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Poland",
+          "bandera": "🇵🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/24.png",
+          "nombre": "Polonia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/27.png",
+          "nombre": "Portugal",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "World",
+          "bandera": "⚽",
+          "escudo_url": "https://media.api-sports.io/football/teams/776.png",
+          "nombre": "Irlanda",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Ukraine",
+          "bandera": "🇺🇦",
+          "escudo_url": "https://media.api-sports.io/football/teams/772.png",
+          "nombre": "Ucrania",
+          "pick": "WIN",
+          "seleccion": true
+        }
+      ],
+      "lema": "¿TODO VERDE HOY?"
+    }
+  },
+  {
+    "id": "2026-11-17-pick-seguro",
+    "fecha": "2026-11-17T10:30",
+    "texto": "Os dejo el pick, familia 👇\n\n⚽ Dinamarca – Noruega · 20:45\n\n🍀 Ambos marcan en Dinamarca–Noruega @1,50\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528993|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.5
+    ]
+  },
+  {
+    "id": "2026-11-17-combi-tres",
+    "fecha": "2026-11-17T13:30",
+    "texto": "Vamos con la combi del martes familia 🔥\n\n🇺🇦 Ucrania o empate\n🇵🇹 Portugal marca 2 o más\n🇵🇱 Ambos marcan en Polonia–Suecia\n\n📈 Cuota @2,91",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528994|Double Chance|Home/Draw",
+      "1528992|Total - Away|Over 1.5",
+      "1528998|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.36,
+      1.4,
+      1.53
+    ]
+  },
+  {
+    "id": "2026-11-17-pick-seguro-2",
+    "fecha": "2026-11-17T18:00",
+    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Ucrania – Georgia · 20:45\n\n🍀 Ucrania o empate @1,36\n🧠 Stake 3/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528994|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.36
+    ]
+  },
+  {
     "id": "2026-11-20-ganadores-resto",
     "fecha": "2026-11-20T00:00",
     "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇩🇰 Aarhus Fremad - Win\n2. 🇩🇪 Bayern - Win\n3. 🇫🇷 Estac Troyes - Win\n4. 🇪🇸 Athletic Club - Win",

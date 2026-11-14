@@ -1,10 +1,17 @@
 # Ukraine – Georgia
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 08:06_
+
+- **1X2:** 1 **2.20**  ·  X **3.40**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.30**  ·  X2 **1.67**
+- **Goles más/menos:**
+    - 2,5: más **1.95** · menos **1.85**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **4.00**
+- **Anytime Goal Scorer:** Giorgi Kochorashvili **9.00**  ·  Irakli Yegoian **4.33**  ·  Nodar Lominadze **9.00**  ·  Giorgi Maisuradze **11.00**  ·  Vladyslav Veleten **5.00**  ·  Giorgi Guliashvili **3.25**  ·  Budu Zivzivadze **3.25**  ·  Roman Yaremchuk **2.75**  ·  Vladyslav Vanat **3.00**  ·  Georges Mikautadze **3.00**  ·  Zuriko Davitashvili **6.00**  ·  Giorgi Chakvetadze **6.00**  ·  Sandro Altunashvili **11.00**  ·  Lasha Dvali **13.00**  ·  Luka Lochoshvili **11.00**  ·  Otar Kakabadze **13.00**  ·  Oleksandr Nazarenko **6.50**  ·  Valeriy Bondar **13.00**  ·  Igor Krasnopir **3.00**  ·  Maksym Khlan **4.00**  ·  Ivan Varfolomeyev **9.00**  ·  Oleg Ocheretko **6.50**  ·  Ilya Krupskyi **13.00**  ·  Taras Mykhavko **11.00**  ·  Giorgi Moistsrapishvili **7.50**  ·  Giorgi Tsitaishvili **4.75**  ·  Eduard Sarapiy **9.00**  ·  Iva Gelashvili **13.00**  ·  Giorgi Kvernadze **4.75**  ·  Irakli Azarovi **11.00**  ·  Yehor Nazaryna **7.50**  ·  Andriy Yarmolenko **4.00**  ·  Oleksandr Pikhalyonok **5.00**  ·  Volodymyr Brazhko **4.75**  ·  Oleksandr Drambayev **11.00**  ·  Giorgi Gagua **3.50**  ·  Jemal Tabidze **11.00**  ·  Illia Zabarnyi **13.00**  ·  Viktor Tsygankov **3.25**  ·  Anzor Mekvabishvili **11.00**  ·  Artem Dovbyk **2.60**  ·  Saba Goglichidze **13.00**  ·  Saba Sazonov **13.00**
 
 ## Estadísticas de equipo
 | | Ukraine (total) | Ukraine en casa | Georgia (total) | Georgia fuera |

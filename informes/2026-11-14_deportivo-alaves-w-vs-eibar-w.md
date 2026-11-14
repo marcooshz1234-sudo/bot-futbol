@@ -1,7 +1,7 @@
 # Deportivo Alavés W – Eibar W
 **Liga F** · Regular Season - 11 · 14/11/2026 18:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:06_

@@ -1,10 +1,18 @@
 # Rep. Of Ireland – Kosovo
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 08:06_
+
+- **1X2:** 1 **1.90**  ·  X **3.30**  ·  2 **4.20**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.91**
+- **Goles más/menos:**
+    - 2,5: más **2.40** · menos **1.53**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.00**  ·  2 **5.00**
+- **Anytime Goal Scorer:** Dion Gallapeni **17.00**  ·  Edon Zhegrova **5.50**  ·  Adam Idah **3.40**  ·  Liam Scales **15.00**  ·  Jack Moylan **4.00**  ·  Troy Parrott **2.88**  ·  Finn Azaz **4.00**  ·  Jason Knight **7.50**  ·  Jayson Molumby **9.00**  ·  Ermal Krasniqi **6.00**  ·  Albion Rrahmani **4.33**  ·  Fisnik Asllani **5.00**  ·  Milot Rashica **6.50**  ·  Elvis Rexhbecaj **7.50**  ·  Ilir Krasniqi **15.00**  ·  Lindon Emerllahu **10.00**  ·  Kreshnik Hajrizi **21.00**  ·  Milot Avdyli **7.50**  ·  Veldin Hodza **10.00**  ·  Leon Avdullahu **11.00**  ·  Dion Kacuri **10.00**  ·  Ron Raci **17.00**  ·  Jimmy Dunne **15.00**  ·  Liam Kitching **10.00**  ·  John Egan **11.00**  ·  Rocco Vata **4.33**  ·  Conor Coventry **11.00**  ·  Vedat Muriqi **4.00**  ·  Mergim Vojvoda **11.00**  ·  Bleon Kurtulus **17.00**  ·  Lindrit Kamberi **21.00**  ·  Enis Redzepi **4.50**  ·  Nathan Collins **11.00**  ·  Chiedozie Ogbene **4.33**  ·  Dara O'Shea **11.00**  ·  Jake O'Brien **15.00**  ·  Baton Zabergja **6.00**  ·  Bosun Lawal **11.00**  ·  Ryan Manning **8.50**  ·  Thomas Cannon **3.40**  ·  James Abankwah **17.00**  ·  Harvey Vale **6.00**
+- **Player to Score or Assist:** Dion Gallapeni **5.50**  ·  Edon Zhegrova **3.40**  ·  Adam Idah **2.30**  ·  Liam Scales **6.00**  ·  Jack Moylan **2.50**  ·  Troy Parrott **2.25**  ·  Finn Azaz **2.30**  ·  Jason Knight **3.10**  ·  Jayson Molumby **3.75**  ·  Ermal Krasniqi **4.00**  ·  Albion Rrahmani **3.10**  ·  Fisnik Asllani **3.25**  ·  Milot Rashica **3.60**  ·  Elvis Rexhbecaj **4.75**  ·  Ilir Krasniqi **11.00**  ·  Lindon Emerllahu **7.00**  ·  Kreshnik Hajrizi **15.00**  ·  Milot Avdyli **4.75**  ·  Veldin Hodza **6.50**  ·  Leon Avdullahu **7.50**  ·  Dion Kacuri **7.00**  ·  Ron Raci **10.00**  ·  Jimmy Dunne **4.75**  ·  Liam Kitching **7.00**  ·  John Egan **8.00**  ·  Rocco Vata **2.50**  ·  Conor Coventry **6.00**  ·  Vedat Muriqi **3.00**  ·  Mergim Vojvoda **5.50**  ·  Bleon Kurtulus **12.00**  ·  Lindrit Kamberi **15.00**  ·  Nathan Collins **7.00**  ·  Chiedozie Ogbene **2.88**  ·  Dara O'Shea **7.50**  ·  Jake O'Brien **7.00**  ·  Baton Zabergja **3.40**  ·  Bosun Lawal **6.50**  ·  Ryan Manning **3.40**  ·  Thomas Cannon **2.30**  ·  James Abankwah **8.00**  ·  Harvey Vale **2.88**
 
 ## Estadísticas de equipo
 | | Rep. Of Ireland (total) | Rep. Of Ireland en casa | Kosovo (total) | Kosovo fuera |

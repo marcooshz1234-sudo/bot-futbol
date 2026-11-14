@@ -1,10 +1,16 @@
 # Bosnia & Herzegovina – Romania
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 08:06_
+
+- **1X2:** 1 **1.73**  ·  X **3.60**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.05**
+- **Goles más/menos:**
+    - 2,5: más **2.00** · menos **1.80**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.20**  ·  2 **5.00**
 
 ## Estadísticas de equipo
 | | Bosnia & Herzegovina (total) | Bosnia & Herzegovina en casa | Romania (total) | Romania fuera |

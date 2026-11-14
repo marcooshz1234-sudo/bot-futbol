@@ -1,10 +1,17 @@
 # Israel – Austria
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 08:06_
+
+- **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
+- **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
+- **Goles más/menos:**
+    - 2,5: más **1.57** · menos **2.35**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
+- **Anytime Goal Scorer:** Yarin Levi **8.00**  ·  Guy Mizrahi **9.50**  ·  Oscar Gloukh **6.00**  ·  David Affengruber **8.00**  ·  Eliazar Dasa **13.00**  ·  Dor Peretz **6.00**  ·  Manor Solomon **4.50**  ·  Raz Shlomo **21.00**  ·  Idan Nachmias **21.00**  ·  Liel Abada **4.00**  ·  Omri Gandelman **6.00**  ·  Ilay Feingold **13.00**  ·  Anan Khalaili **4.50**  ·  Gabi Kanichowsky **7.00**  ·  Marco Grull **2.50**  ·  Michael Svoboda **8.00**  ·  Luca Weinhandl **5.00**  ·  Kevin Danso **9.50**  ·  Sascha Horvath **5.00**  ·  Christoph Lang **2.62**  ·  Xaver Schlager **6.00**  ·  Dor Turgeman **3.40**  ·  Roy Revivo **11.00**  ·  Felix Bacher **7.00**  ·  Orian Goren **8.00**  ·  Niv Yehoshua **8.50**  ·  Noam Shtaifman **11.00**  ·  Alexander Prass **3.60**  ·  Yarden Shua **4.33**  ·  Konrad Laimer **6.00**  ·  Christoph Baumgartner **3.10**  ·  Nicolas Seiwald **6.00**  ·  Carney Chukwuemeka **3.10**  ·  Ethane Azoulay **6.00**  ·  Stefan Posch **7.00**  ·  Nikita Stoinov **13.00**  ·  Phillipp Mwene **7.00**  ·  Sasa Kalajdzic **2.20**  ·  Michael Gregoritsch **2.20**  ·  Philipp Lienhart **8.00**  ·  Romano Schmid **4.00**  ·  Chukwubuike Adamu **2.20**  ·  Idan Gorno **3.25**
 
 ## Estadísticas de equipo
 | | Israel (total) | Israel en casa | Austria (total) | Austria fuera |

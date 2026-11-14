@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 14/11/2026 02:09 (hora España). Partidos guardados en la base de datos: 2588._
+_Actualizado el 14/11/2026 08:07 (hora España). Partidos guardados en la base de datos: 2588._
 
 
 ## Sábado 14/11
@@ -68,14 +68,14 @@ _Actualizado el 14/11/2026 02:09 (hora España). Partidos guardados en la base d
 - 20:45 · Nations League · [Greece – Serbia](informes/2026-11-16_greece-vs-serbia.md) · 1X2: 1.42 / 4.75 / 6.00
 
 ## Martes 17/11
-- 20:45 · Nations League · [Denmark – Norway](informes/2026-11-17_denmark-vs-norway.md)
-- 20:45 · Nations League · [Poland – Sweden](informes/2026-11-17_poland-vs-sweden.md)
-- 20:45 · Nations League · [Wales – Portugal](informes/2026-11-17_wales-vs-portugal.md)
-- 20:45 · Nations League · [Hungary – Northern Ireland](informes/2026-11-17_hungary-vs-northern-ireland.md)
-- 20:45 · Nations League · [Ukraine – Georgia](informes/2026-11-17_ukraine-vs-georgia.md)
-- 20:45 · Nations League · [Rep. Of Ireland – Kosovo](informes/2026-11-17_rep-of-ireland-vs-kosovo.md)
-- 20:45 · Nations League · [Bosnia & Herzegovina – Romania](informes/2026-11-17_bosnia-herzegovina-vs-romania.md)
-- 20:45 · Nations League · [Israel – Austria](informes/2026-11-17_israel-vs-austria.md)
+- 20:45 · Nations League · [Denmark – Norway](informes/2026-11-17_denmark-vs-norway.md) · 1X2: 2.70 / 3.50 / 2.55
+- 20:45 · Nations League · [Poland – Sweden](informes/2026-11-17_poland-vs-sweden.md) · 1X2: 2.30 / 3.40 / 2.90
+- 20:45 · Nations League · [Wales – Portugal](informes/2026-11-17_wales-vs-portugal.md) · 1X2: 8.50 / 5.50 / 1.33
+- 20:45 · Nations League · [Hungary – Northern Ireland](informes/2026-11-17_hungary-vs-northern-ireland.md) · 1X2: 1.85 / 3.90 / 3.60
+- 20:45 · Nations League · [Ukraine – Georgia](informes/2026-11-17_ukraine-vs-georgia.md) · 1X2: 2.20 / 3.40 / 3.10
+- 20:45 · Nations League · [Rep. Of Ireland – Kosovo](informes/2026-11-17_rep-of-ireland-vs-kosovo.md) · 1X2: 1.90 / 3.30 / 4.20
+- 20:45 · Nations League · [Bosnia & Herzegovina – Romania](informes/2026-11-17_bosnia-herzegovina-vs-romania.md) · 1X2: 1.73 / 3.60 / 4.75
+- 20:45 · Nations League · [Israel – Austria](informes/2026-11-17_israel-vs-austria.md) · 1X2: 5.00 / 4.00 / 1.60
 
 ## Miércoles 18/11
 - 18:45 · Champions Femenina · [Real Madrid W – Inter Milano W](informes/2026-11-18_real-madrid-w-vs-inter-milano-w.md)

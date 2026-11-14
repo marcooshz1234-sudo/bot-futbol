@@ -1,7 +1,7 @@
 # Deportiva Minera – FC Cartagena
 **Copa del Rey** · Round of 128 · 18/11/2026 20:30 (hora España) · Estadio Municipal Angel Celdran
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

@@ -1,10 +1,18 @@
 # Hungary – Northern Ireland
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 08:06_
+
+- **1X2:** 1 **1.85**  ·  X **3.90**  ·  2 **3.60**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**
+- **Goles más/menos:**
+    - 2,5: más **2.35** · menos **1.57**
+- **1X2 descanso:** 1 **2.60**  ·  X **2.00**  ·  2 **5.00**
+- **Anytime Goal Scorer:** Josh Magennis **5.00**  ·  Ethan Galbraith **9.50**  ·  Paddy McNair **19.00**  ·  Ciaron Brown **19.00**  ·  Trai Hume **13.00**  ·  Isaac Price **5.50**  ·  Brodie Spencer **19.00**  ·  Shea Charles **12.00**  ·  Callum Marshall **5.50**  ·  Paul Smyth **7.50**  ·  Jordan Thompson **19.00**  ·  Patrick Kelly **9.50**  ·  Jamie Donley **5.50**  ·  Michael Forbes **21.00**  ·  Barnabas Varga **2.75**  ·  Zsolt Nagy **5.00**  ·  Willi Orban **12.00**  ·  Kornel Szucs **13.00**  ·  Andras Schafer **7.50**  ·  Bendeguz Bolla **5.50**  ·  Akos Szendrei **2.75**  ·  Peter Barath **6.00**  ·  Mark Csinger **12.00**  ·  Callum Styles **7.50**  ·  Terry Devlin **13.00**  ·  Damir Redzic **3.20**  ·  Daniel Lukacs **3.00**  ·  Milan Peto **6.00**  ·  Aron Csongvai **7.50**  ·  Gabor Jurek **3.75**  ·  Attila Osvath **13.00**  ·  Rajmund Toth **7.50**  ·  Akos Markgraf **12.00**  ·  Eoin Kenny **6.00**  ·  Braiden Graham **5.50**  ·  Dominik Szoboszlai **3.00**  ·  Jozef Urblik **5.00**  ·  Milos Kerkez **12.00**  ·  Justin Devenny **9.50**  ·  Attila Szalai **19.00**  ·  Ruairi McConville **19.00**  ·  Roland Sallai **3.20**  ·  Kieran Morrison **7.50**  ·  Tom Atcheson **21.00**  ·  Milan Vitalis **7.50**
+- **Player to Score or Assist:** Josh Magennis **3.75**  ·  Ethan Galbraith **5.50**  ·  Paddy McNair **13.00**  ·  Ciaron Brown **13.00**  ·  Trai Hume **6.50**  ·  Isaac Price **3.75**  ·  Brodie Spencer **9.00**  ·  Shea Charles **6.00**  ·  Callum Marshall **3.75**  ·  Paul Smyth **4.50**  ·  Jordan Thompson **11.00**  ·  Patrick Kelly **4.75**  ·  Jamie Donley **3.75**  ·  Michael Forbes **12.00**  ·  Barnabas Varga **2.10**  ·  Zsolt Nagy **3.25**  ·  Willi Orban **8.00**  ·  Kornel Szucs **7.00**  ·  Andras Schafer **3.75**  ·  Bendeguz Bolla **3.00**  ·  Akos Szendrei **2.20**  ·  Peter Barath **3.60**  ·  Mark Csinger **6.50**  ·  Callum Styles **4.50**  ·  Terry Devlin **7.00**  ·  Damir Redzic **2.25**  ·  Daniel Lukacs **2.05**  ·  Milan Peto **3.75**  ·  Aron Csongvai **4.00**  ·  Gabor Jurek **2.30**  ·  Attila Osvath **7.50**  ·  Rajmund Toth **3.50**  ·  Akos Markgraf **6.50**  ·  Eoin Kenny **4.33**  ·  Braiden Graham **4.33**  ·  Dominik Szoboszlai **1.91**  ·  Jozef Urblik **2.88**  ·  Milos Kerkez **3.75**  ·  Justin Devenny **4.75**  ·  Attila Szalai **10.00**  ·  Ruairi McConville **12.00**  ·  Roland Sallai **2.25**  ·  Kieran Morrison **4.50**  ·  Tom Atcheson **12.00**  ·  Milan Vitalis **3.50**
 
 ## Estadísticas de equipo
 | | Hungary (total) | Hungary en casa | Northern Ireland (total) | Northern Ireland fuera |
