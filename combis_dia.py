@@ -105,6 +105,13 @@ PAISES_ES = {"Spain": "España", "France": "Francia", "England": "Inglaterra", "
              "Belarus": "Bielorrusia", "Faroe Islands": "Islas Feroe", "Azerbaijan": "Azerbaiyán"}
 
 
+# 14/11: selecciones que se llaman igual en inglés («Gana el Portugal», «Gana el Kosovo» → sin «el»)
+SELECCIONES_IGUAL = {"Portugal", "Austria", "Israel", "Kosovo", "Serbia", "Albania", "Andorra", "Malta", "Georgia",
+                     "Armenia", "Montenegro", "Bulgaria", "Estonia", "Gibraltar", "San Marino", "Liechtenstein",
+                     "Argentina", "Uruguay", "Colombia", "Chile", "Paraguay", "Ecuador", "Bolivia", "Venezuela",
+                     "Australia", "Nigeria", "Senegal", "Ghana", "Honduras", "Panamá", "Costa Rica"}
+
+
 def nombre_es(n):
     """Selecciones en español y las femeninas sin la «W»."""
     if n in PAISES_ES:
@@ -124,6 +131,8 @@ def texto_es(t, loc, vis):
             if n in PAISES_ES:
                 t = t.replace(f"Gana el {n}", f"Gana {es}").replace(f"el {n}", es)
             t = t.replace(n, es)
+        elif n in SELECCIONES_IGUAL:
+            t = t.replace(f"Gana el {n}", f"Gana {n}")
     return t
 
 
