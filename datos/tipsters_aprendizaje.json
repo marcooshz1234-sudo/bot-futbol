@@ -63,6 +63,15 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.538
   },
+  "CRIMINALPICKS🕵🏻‍♂️": {
+   "n": 5,
+   "verdes": 1,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -0.7,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.411
+  },
   "CRIMINALPICKS": {
    "n": 4,
    "verdes": 0,
@@ -87,15 +96,6 @@
    "unidades": -2.0,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.334
-  },
-  "CRIMINALPICKS🕵🏻‍♂️": {
-   "n": 3,
-   "verdes": 1,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -0.7,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.411
   },
   "PABLO ANALISTA": {
    "n": 2,
@@ -152,7 +152,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 13,
+   "n": 15,
    "verdes": 6,
    "rojos": 2,
    "nulos": 0,
@@ -677,11 +677,25 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Portugal": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Sweden": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 56,
+   "n": 58,
    "verdes": 29,
    "rojos": 5,
    "nulos": 0,
@@ -789,7 +803,7 @@
    "prob_cuota": 1.589
   },
   ">2,20": {
-   "n": 2,
+   "n": 4,
    "verdes": 1,
    "rojos": 1,
    "nulos": 0,
@@ -809,7 +823,7 @@
    "prob_cuota": 11.149
   },
   "UEFA Nations League": {
-   "n": 27,
+   "n": 29,
    "verdes": 19,
    "rojos": 5,
    "nulos": 0,
@@ -853,6 +867,15 @@
    "resueltos_con_cuota": 17,
    "prob_cuota": 11.53
   },
+  "local": {
+   "n": 28,
+   "verdes": 11,
+   "rojos": 6,
+   "nulos": 0,
+   "unidades": -0.5,
+   "resueltos_con_cuota": 12,
+   "prob_cuota": 7.934
+  },
   "visitante": {
    "n": 26,
    "verdes": 18,
@@ -861,15 +884,6 @@
    "unidades": -0.5,
    "resueltos_con_cuota": 20,
    "prob_cuota": 14.411
-  },
-  "local": {
-   "n": 26,
-   "verdes": 11,
-   "rojos": 6,
-   "nulos": 0,
-   "unidades": -0.5,
-   "resueltos_con_cuota": 12,
-   "prob_cuota": 7.934
   }
  },
  "por_que": {
@@ -883,7 +897,7 @@
    "prob_cuota": 20.995
   },
   "—": {
-   "n": 26,
+   "n": 28,
    "verdes": 6,
    "rojos": 7,
    "nulos": 0,
@@ -948,7 +962,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 92,
+   "n": 94,
    "verdes": 46,
    "rojos": 17,
    "nulos": 0,

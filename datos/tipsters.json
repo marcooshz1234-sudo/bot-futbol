@@ -2412,5 +2412,45 @@
    "prob_pinnacle": 0.557,
    "valor_pinnacle": 0.002
   }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11027",
+  "dia": "2026-11-14",
+  "local": "Portugal",
+  "visitante": "Denmark",
+  "partido_id": 1528974,
+  "texto": "Gana el Portugal",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 2.35,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.62,
+   "prob_cuota": 0.426
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11027",
+  "dia": "2026-11-14",
+  "local": "Sweden",
+  "visitante": "Bosnia & Herzegovina",
+  "partido_id": 1528978,
+  "texto": "Gana el Suecia",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 2.35,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.45,
+   "prob_cuota": 0.426
+  }
  }
 ]
