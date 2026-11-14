@@ -86,9 +86,9 @@ def main():
                                                            ensure_ascii=False, default=str), encoding="utf-8")
             for i, b in enumerate(bs, 1):
                 avisos.append((f"{k}-{i}", combis_dia.texto_boleto(b, i)
-                               + "\n\n📲 Móntala en bet365 y mándame la captura aquí: recorto el dinero y te pregunto antes de subirla."))
+                               + "\n\n🎯 Para tu combinada personal de hoy: móntala en bet365 y mándame la captura aquí. Recorto el dinero y te pregunto antes de subirla."))
             if not bs:
-                avisos.append((k, "🎟️ Hoy no hay partidos suficientes para la combi «Crear apuesta»."))
+                avisos.append((k, "🎯 Hoy no encuentro partidos para proponerte la combinada personal. Pídesela a Claude o móntala tú y mándame la captura."))
             hecho.add(k)
         except Exception as e:
             print("boletos:", e)

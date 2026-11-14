@@ -519,7 +519,7 @@ class Asistente:
                 self.boleto, cuota = self.preparar_boleto(foto_orig, orig.get("message_id"))
             except Exception as e:
                 return self.enviar(f"⚠️ No he podido recuperar la captura: {e}. Mándamela otra vez.")
-            m = re.search(r"CREAR APUESTA x(\d+,\d+)", (q.get("message") or {}).get("text", ""))
+            m = re.search(r"(?:CREAR APUESTA x|Cuota @)(\d+,\d+)", (q.get("message") or {}).get("text", ""))
             cuota = float(m.group(1).replace(",", ".")) if m else cuota
             if accion == "boleto_ok":
                 if not cuota:
@@ -750,8 +750,11 @@ class Asistente:
         return self.enviar("No leo bien el importe y las ganancias. ¿Qué cuota total es? (por ejemplo 33,75)")
 
     def vista_boleto_texto(self, cuota):
-        self.boleto["texto"] = (f"🎟️ COMBILOCAS — ¡CREAR APUESTA x{cuota:.2f}! 🍀".replace(".", ",")
-                                + "\n\n📲 Montada en bet365, partido a partido 👇\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚")
+        # 14/11 (Marcos: «una combinada personal cada día»): el boleto sale como su combinada personal
+        c = f"{cuota:.2f}".replace(".", ",")
+        self.boleto["texto"] = ("🎯 MI COMBINADA PERSONAL DE HOY 🔥\n\nEsta la llevo yo, partido a partido 👇\n\n"
+                                f"📈 Cuota @{c}\n💶 10€ → {cuota * 10:.2f}€".replace(".", ",")
+                                + "\n\n¿Quién se sube conmigo? 👇💚")
 
     def vista_boleto(self, cuota):
         self.vista_boleto_texto(cuota)
