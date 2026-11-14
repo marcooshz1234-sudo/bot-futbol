@@ -6364,6 +6364,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-14T23:16",
+    "mensaje_id": 471,
+    "redes": {
+      "threads": "18137854768710146"
+    }
   }
 ]
