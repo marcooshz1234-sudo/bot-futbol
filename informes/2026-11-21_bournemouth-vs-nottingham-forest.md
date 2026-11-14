@@ -1,7 +1,7 @@
 # Bournemouth – Nottingham Forest
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -180,7 +180,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | L. Netz | D | 6 | 100 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 0,76 · córners esperados 9,2._
+_Goles esperados: local 1,61 · visitante 0,76 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -193,10 +193,10 @@ _Goles esperados: local 1,62 · visitante 0,76 · córners esperados 9,2._
 | Ambos marcan: No ✅ | 57% | 44% | 51% | 2.10 | +7% |
 | Ambos marcan: Sí | 43% | 56% | 49% | 1.67 | -18% |
 | Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 43% | 53% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 2.5 | 42% | 53% | 48% | 1.80 | -14% |
 | Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
 | Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
-| Goles más/menos: Menos de 2.5 | 57% | 47% | 52% | 2.00 | +5% |
+| Goles más/menos: Menos de 2.5 | 58% | 47% | 52% | 2.00 | +5% |
 | Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
@@ -214,6 +214,6 @@ _Goles esperados: local 1,62 · visitante 0,76 · córners esperados 9,2._
 | Goles del visitante: Menos de 1.5 | 82% | 66% | 74% | 1.40 | +4% |
 | 1X2 descanso: 2 | 16% | 23% | 19% | 4.00 | -22% |
 | 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 40% | 36% | 38% | 2.60 | -1% |
+| 1X2 descanso: 1 | 40% | 36% | 38% | 2.60 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

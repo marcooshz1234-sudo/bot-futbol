@@ -1,16 +1,26 @@
 # Switzerland – Scotland
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Kybunpark
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:08_
+_Actualizadas: 14/11 19:50_
 
-- **1X2:** 1 **1.50**  ·  X **4.00**  ·  2 **6.50**
-- **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.50**
+- **1X2:** 1 **1.70**  ·  X **3.70**  ·  2 **5.00**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.00**
 - **Goles más/menos:**
-    - 2,5: más **1.90** · menos **1.90**
-- **1X2 descanso:** 1 **2.05**  ·  X **2.30**  ·  2 **6.50**
+    - 2,5: más **2.10** · menos **1.70**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.20**  ·  2 **5.50**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.83** · menos **1.83**
+- **Home Player Shots:** Nico Elvedi - 1 **1.73**  ·  Nico Elvedi - 2 **4.33**  ·  Nico Elvedi - 3 **13.00**  ·  Dan Ndoye - 1 **1.08**  ·  Dan Ndoye - 2 **1.40**  ·  Dan Ndoye - 3 **2.10**  ·  Dan Ndoye - 4 **3.75**  ·  Dan Ndoye - 5 **7.00**  ·  Zeki Amdouni - 1 **1.03**  ·  Zeki Amdouni - 2 **1.20**  ·  Zeki Amdouni - 3 **1.57**  ·  Zeki Amdouni - 4 **2.38**  ·  Zeki Amdouni - 5 **4.00**  ·  Zeki Amdouni - 6 **8.00**  ·  Zeki Amdouni - 7 **15.00**  ·  Fabian Rieder - 1 **1.25**  ·  Fabian Rieder - 2 **2.10**  ·  Fabian Rieder - 3 **4.33**  ·  Fabian Rieder - 4 **10.00**  ·  Fabian Rieder - 5 **21.00**  ·  Cedric Itten - 1 **1.05**  ·  Cedric Itten - 2 **1.25**  ·  Cedric Itten - 3 **1.73**  ·  Cedric Itten - 4 **2.75**  ·  Cedric Itten - 5 **5.00**  ·  Cedric Itten - 6 **10.00**  ·  Michel Aebischer - 1 **1.20**  ·  Michel Aebischer - 2 **1.83**  ·  Michel Aebischer - 3 **3.75**  ·  Michel Aebischer - 4 **8.00**  ·  Samuel Ballet - 1 **1.06**  ·  Samuel Ballet - 2 **1.30**  ·  Samuel Ballet - 3 **1.83**  ·  Samuel Ballet - 4 **3.25**  ·  Samuel Ballet - 5 **5.50**  ·  Samuel Ballet - 6 **11.00**  ·  Zachary Athekame - 1 **1.73**  ·  Zachary Athekame - 2 **4.33**  ·  Zachary Athekame - 3 **13.00**  ·  Denis Zakaria - 1 **1.62**  ·  Denis Zakaria - 2 **3.75**  ·  Denis Zakaria - 3 **11.00**  ·  Denis Zakaria - 4 **21.00**  ·  Adrian Bajrami - 1 **1.83**  ·  Adrian Bajrami - 2 **5.00**  ·  Adrian Bajrami - 3 **15.00**  ·  Roggerio Nyakossi - 1 **1.73**  ·  Roggerio Nyakossi - 2 **4.33**  ·  Roggerio Nyakossi - 3 **13.00**  ·  Ruben Vargas - 1 **1.06**  ·  Ruben Vargas - 2 **1.33**  ·  Ruben Vargas - 3 **1.91**  ·  Ruben Vargas - 4 **3.40**  ·  Ruben Vargas - 5 **6.00**  ·  Ruben Vargas - 6 **13.00**  ·  Granit Xhaka - 1 **1.25**  ·  Granit Xhaka - 2 **2.10**  ·  Granit Xhaka - 3 **4.33**  ·  Granit Xhaka - 4 **10.00**  ·  Sascha Britschgi - 1 **1.83**  ·  Sascha Britschgi - 2 **5.00**  ·  Sascha Britschgi - 3 **15.00**  ·  Manuel Akanji - 1 **1.83**  ·  Manuel Akanji - 2 **5.00**  ·  Manuel Akanji - 3 **15.00**  ·  Eray Comert - 1 **2.00**  ·  Eray Comert - 2 **5.50**  ·  Eray Comert - 3 **17.00**  ·  Ardon Jashari - 1 **1.62**  ·  Ardon Jashari - 2 **3.75**  ·  Ardon Jashari - 3 **11.00**  ·  Ardon Jashari - 4 **21.00**  ·  Michel Aebischer - 5 **19.00**  ·  Breel Embolo - 1 **1.03**  ·  Breel Embolo - 2 **1.20**  ·  Breel Embolo - 3 **1.57**  ·  Breel Embolo - 4 **2.38**  ·  Breel Embolo - 5 **4.00**  ·  Breel Embolo - 6 **8.00**  ·  Breel Embolo - 7 **15.00**  ·  Dan Ndoye - 6 **15.00**  ·  Dan Ndoye - 7 **21.00**  ·  Remo Freuler - 1 **1.44**  ·  Remo Freuler - 2 **3.00**  ·  Remo Freuler - 3 **7.00**  ·  Remo Freuler - 4 **19.00**  ·  Cedric Itten - 7 **19.00**  ·  Zeki Amdouni - 8 **21.00**  ·  Breel Embolo - 8 **21.00**  ·  Granit Xhaka - 5 **21.00**  ·  Winsley Boteli - 1 **1.05**  ·  Alvyn Sanches - 1 **1.10**  ·  Ricardo Rodriguez - 1 **1.83**  ·  Winsley Boteli - 2 **1.25**  ·  Alvyn Sanches - 2 **1.44**  ·  Ricardo Rodriguez - 2 **5.00**  ·  Winsley Boteli - 3 **1.73**  ·  Alvyn Sanches - 3 **2.25**  ·  Ricardo Rodriguez - 3 **15.00**  ·  Winsley Boteli - 4 **2.75**  ·  Alvyn Sanches - 4 **4.00**  ·  Winsley Boteli - 5 **5.00**  ·  Alvyn Sanches - 5 **9.00**  ·  Winsley Boteli - 6 **10.00**  ·  Alvyn Sanches - 6 **17.00**  ·  Winsley Boteli - 7 **19.00**  ·  Samuel Ballet - 7 **21.00**  ·  Ruben Vargas - 7 **21.00**  ·  Isaac Schmidt - 1 **1.62**  ·  Isaac Schmidt - 2 **3.75**  ·  Isaac Schmidt - 3 **11.00**  ·  Isaac Schmidt - 4 **21.00**
+- **Away Player Shots:** Jack Hendry - 1 **3.00**  ·  Jack Hendry - 2 **11.00**  ·  Aaron Hickey - 1 **3.00**  ·  Aaron Hickey - 2 **11.00**  ·  Ben Doak - 1 **1.53**  ·  Ryan Christie - 1 **1.44**  ·  Nathan Patterson - 1 **3.00**  ·  Ben Doak - 2 **3.40**  ·  Ryan Christie - 2 **3.00**  ·  Nathan Patterson - 2 **11.00**  ·  Ben Doak - 3 **9.00**  ·  Ryan Christie - 3 **7.00**  ·  Ben Doak - 4 **21.00**  ·  Ryan Christie - 4 **19.00**  ·  Oliver McBurnie - 1 **1.17**  ·  Oliver McBurnie - 2 **1.73**  ·  Oliver McBurnie - 3 **3.25**  ·  Oliver McBurnie - 4 **6.50**  ·  Oliver McBurnie - 5 **15.00**  ·  Stephen Welsh - 1 **3.50**  ·  Stephen Welsh - 2 **15.00**  ·  Kristi Montgomery - 1 **2.50**  ·  Kristi Montgomery - 2 **9.00**  ·  Kristi Montgomery - 3 **21.00**  ·  Luke Graham - 1 **3.00**  ·  Luke Graham - 2 **11.00**  ·  Kieran Tierney - 1 **2.50**  ·  Kieran Tierney - 2 **9.00**  ·  Kieran Tierney - 3 **21.00**  ·  Joshua McPake - 1 **1.33**  ·  Joshua McPake - 2 **2.38**  ·  Joshua McPake - 3 **5.50**  ·  Joshua McPake - 4 **13.00**  ·  Luis Binks - 1 **3.00**  ·  Luis Binks - 2 **11.00**  ·  Ryan Porteous - 1 **3.00**  ·  Ryan Porteous - 2 **11.00**  ·  Robbie Ure - 1 **1.20**  ·  Robbie Ure - 2 **1.83**  ·  Robbie Ure - 3 **3.75**  ·  Robbie Ure - 4 **8.00**  ·  Robbie Ure - 5 **19.00**  ·  Andrew Robertson - 1 **3.00**  ·  Andrew Robertson - 2 **11.00**  ·  John McGinn - 1 **1.33**  ·  John McGinn - 2 **2.38**  ·  John McGinn - 3 **5.50**  ·  John McGinn - 4 **13.00**  ·  Scott McTominay - 1 **1.25**  ·  Billy Gilmour - 1 **2.25**  ·  Scott McTominay - 2 **2.10**  ·  Billy Gilmour - 2 **8.00**  ·  Scott McTominay - 3 **4.33**  ·  Billy Gilmour - 3 **21.00**  ·  Scott McTominay - 4 **10.00**  ·  Scott McTominay - 5 **21.00**  ·  Lewis Ferguson - 1 **2.00**  ·  Lewis Ferguson - 2 **5.50**  ·  Lewis Ferguson - 3 **17.00**  ·  Kieron Bowie - 1 **1.20**  ·  Che Adams - 1 **1.20**  ·  Kieron Bowie - 2 **1.83**  ·  Che Adams - 2 **1.83**  ·  Kieron Bowie - 3 **3.75**  ·  Che Adams - 3 **3.75**  ·  Kieron Bowie - 4 **8.00**  ·  Che Adams - 4 **8.00**  ·  Kieron Bowie - 5 **19.00**  ·  Che Adams - 5 **19.00**  ·  Findlay Curtis - 1 **1.57**  ·  Findlay Curtis - 2 **3.50**  ·  Findlay Curtis - 3 **10.00**  ·  Findlay Curtis - 4 **21.00**  ·  James Penrice - 1 **3.00**  ·  James Penrice - 2 **11.00**
+- **Goalkeeper Saves:** Gregor Kobel - 2 **1.30**  ·  Gregor Kobel - 3 **1.91**  ·  Gregor Kobel - 4 **3.50**  ·  Gregor Kobel - 5 **7.00**  ·  Angus Gunn - 2 **1.30**  ·  Angus Gunn - 3 **1.80**  ·  Angus Gunn - 4 **2.75**  ·  Angus Gunn - 5 **4.50**  ·  Gregor Kobel - 1 **1.05**  ·  Angus Gunn - 1 **1.08**  ·  Angus Gunn **9.00**
+- **Player to Score or Assist:** Breel Embolo **1.95**  ·  Scott McTominay **3.75**  ·  Oliver McBurnie **3.50**  ·  Fabian Rieder **2.62**  ·  Djibril Sow **3.40**  ·  Dan Ndoye **2.25**
 
 ## Estadísticas de equipo
 | | Switzerland (total) | Switzerland en casa | Scotland (total) | Scotland fuera |
@@ -145,15 +155,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 14% | 12% | 6.50 | -21% |
-| 1X2: X | 21% | 23% | 22% | 4.00 | -11% |
-| 1X2: 1 | 69% | 62% | 66% | 1.50 | -1% |
-| Doble oportunidad: X2 | 31% | 38% | 34% | 2.50 | -14% |
-| Doble oportunidad: 12 | 79% | 77% | 78% | 1.22 | -5% |
-| Doble oportunidad: 1X | 90% | 85% | 88% | 1.11 | -3% |
-| Goles más/menos: Más de 2.5 | 42% | 50% | 46% | 1.90 | -12% |
-| Goles más/menos: Menos de 2.5 | 58% | 50% | 54% | 1.90 | +2% |
-| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -5% |
-| 1X2 descanso: 1 | 47% | 45% | 46% | 2.05 | -5% |
+| 1X2: 2 | 10% | 19% | 14% | 5.00 | -28% |
+| 1X2: X | 21% | 26% | 23% | 3.70 | -14% |
+| 1X2: 1 | 69% | 56% | 62% | 1.70 | +6% |
+| Doble oportunidad: X2 | 31% | 47% | 39% | 2.00 | -22% |
+| Doble oportunidad: 12 | 79% | 73% | 76% | 1.28 | -2% |
+| Doble oportunidad: 1X | 90% | 80% | 85% | 1.18 | +0% |
+| Goles más/menos: Más de 2.5 | 42% | 45% | 44% | 2.10 | -9% |
+| Goles más/menos: Menos de 2.5 | 58% | 55% | 56% | 1.70 | -4% |
+| Córners más/menos: Más de 8.5 | 53% | 56% | 55% | 1.67 | -9% |
+| Córners más/menos: Menos de 8.5 | 47% | 44% | 45% | 2.10 | -5% |
+| 1X2 descanso: X | 42% | 42% | 42% | 2.20 | -7% |
+| 1X2 descanso: 1 | 47% | 41% | 44% | 2.30 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

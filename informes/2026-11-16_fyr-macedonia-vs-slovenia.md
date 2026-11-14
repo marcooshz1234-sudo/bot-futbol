@@ -1,33 +1,51 @@
 # FYR Macedonia – Slovenia
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Nacional Arena Todor Proeski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:08_
+_Actualizadas: 14/11 19:50_
 
-- **1X2:** 1 **5.25**  ·  X **3.50**  ·  2 **1.65**
-- **Doble oportunidad:** 1X **2.15**  ·  12 **1.28**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
+- **1X2:** 1 **6.25**  ·  X **3.60**  ·  2 **1.57**
+- **Doble oportunidad:** 1X **2.30**  ·  12 **1.28**  ·  X2 **1.12**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **7.50**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.30** · menos **1.60**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.20** · menos **1.65**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **6.00**  ·  X **2.10**  ·  2 **2.30**
+- **Goles del local:**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+- **1X2 descanso:** 1 **6.50**  ·  X **2.10**  ·  2 **2.20**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
-- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
-- **To Win Either Half:** 1 **3.00**  ·  2 **1.44**
-- **To Score In Both Halves By Teams:** 1 **9.00**  ·  2 **3.25**
-- **Win Both Halves:** 1 **23.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **4.50**  ·  Home/No **8.00**  ·  Draw/No **7.50**  ·  Away/No **2.38**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **1.91**
-- **Anytime Goal Scorer:** Vanja Drkusic **15.00**  ·  Andraz Sporar **2.62**  ·  Zan Celar **2.88**  ·  Zan Vipotnik **2.62**  ·  Timi Elsnik **6.50**  ·  Adam Cerin **5.50**  ·  David Zec **10.00**  ·  Erik Janza **10.00**  ·  Visar Musliu **26.00**  ·  Ezgjan Alioski **12.00**  ·  Darko Churlinov **7.50**  ·  Enis Bardhi **7.50**  ·  Jani Atanasov **12.00**  ·  Dimitar Mitrovski **9.00**  ·  Nikola Serafimov **26.00**  ·  Stefan Despotovski **21.00**  ·  Danijel Sturm **3.60**  ·  Srdjan Kuzmic **12.00**  ·  Marko Gjorgjievski **5.50**  ·  Zan Zaletel **12.00**  ·  Imran Fetai **21.00**  ·  Anes Meljichi **21.00**  ·  Mario Mladenovski **21.00**  ·  Elmin Rastoder **5.50**  ·  Tjas Begic **4.33**  ·  Jost Urbancic **11.00**  ·  Luka Stankovski **10.00**  ·  David Brekalo **11.00**  ·  Ljupcho Doriev **5.50**  ·  Aljosa Matko **3.10**  ·  Mark Zabukovnik **7.50**  ·  Zan Karnicnik **11.00**  ·  Boban Nikolov **9.00**  ·  Sebastian Herrera **21.00**  ·  Azer Omeragikj **5.50**  ·  Matej Gashtarov **9.00**  ·  Hristijan Maleski **5.50**  ·  Adrian Zeljkovic **9.00**  ·  Bojan Ilievski **21.00**  ·  Agon Elezi **12.00**  ·  Jaka Bijol **15.00**  ·  Sandi Lovric **5.50**  ·  Benjamin Verbic **3.75**  ·  Relja Obric **15.00**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **3.40**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **2.75**
+- **Win Both Halves:** 1 **26.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **4.33**  ·  Home/No **10.00**  ·  Draw/No **8.00**  ·  Away/No **2.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.00**
+- **Home Corners Over/Under:**
+    - 3,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 5,5: más **2.00** · menos **1.73**
+- **Anytime Goal Scorer:** Vanja Drkusic **15.00**  ·  Andraz Sporar **2.60**  ·  Zan Celar **2.60**  ·  Zan Vipotnik **2.60**  ·  Timi Elsnik **6.50**  ·  Tomi Horvat **5.50**  ·  Adam Cerin **5.50**  ·  David Zec **9.50**  ·  Erik Janza **9.50**  ·  Visar Musliu **29.00**  ·  Ezgjan Alioski **15.00**  ·  Darko Churlinov **8.00**  ·  Enis Bardhi **8.00**  ·  Jani Atanasov **15.00**  ·  Dimitar Mitrovski **8.50**  ·  Nikola Serafimov **29.00**  ·  Stefan Despotovski **21.00**  ·  Danijel Sturm **3.40**  ·  Srdjan Kuzmic **12.00**  ·  Marko Gjorgjievski **5.50**  ·  Zan Zaletel **12.00**  ·  Imran Fetai **21.00**  ·  Anes Meljichi **21.00**  ·  Mario Mladenovski **21.00**  ·  Elmin Rastoder **5.50**  ·  Tjas Begic **4.00**  ·  Jost Urbancic **9.50**  ·  Luka Stankovski **9.50**  ·  David Brekalo **9.50**  ·  Ljupcho Doriev **5.50**  ·  Aljosa Matko **3.00**  ·  Mark Zabukovnik **7.00**  ·  Zan Karnicnik **9.50**  ·  Boban Nikolov **8.50**  ·  Sebastian Herrera **21.00**  ·  Azer Omeragikj **5.50**  ·  Matej Gashtarov **8.50**  ·  Hristijan Maleski **5.50**  ·  Anes Meliqi **21.00**  ·  Adrian Zeljkovic **8.00**  ·  Bojan Ilievski **21.00**  ·  Agon Elezi **15.00**  ·  Jaka Bijol **15.00**  ·  Sandi Lovric **4.75**  ·  Benjamin Verbic **3.75**  ·  Relja Obric **15.00**
 
 ## Estadísticas de equipo
 | | FYR Macedonia (total) | FYR Macedonia en casa | Slovenia (total) | Slovenia fuera |
@@ -164,25 +182,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 68% | 56% | 62% | 1.65 | +2% |
-| 1X2: X | 23% | 26% | 25% | 3.50 | -13% |
-| 1X2: 1 | 9% | 18% | 13% | 5.25 | -31% |
-| Doble oportunidad: X2 | 91% | 81% | 86% | 1.17 | +1% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -3% |
-| Doble oportunidad: 1X | 32% | 44% | 38% | 2.15 | -18% |
-| Ambos marcan: No | 73% | 59% | 66% | 1.57 | +4% |
-| Ambos marcan: Sí | 27% | 41% | 34% | 2.25 | -24% |
-| Goles más/menos: Más de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
-| Goles más/menos: Más de 2.5 | 33% | 41% | 37% | 2.30 | -15% |
-| Goles más/menos: Más de 3.5 | 15% | 22% | 18% | 4.33 | -21% |
-| Goles más/menos: Menos de 1.5 | 40% | 34% | 37% | 2.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 67% | 59% | 63% | 1.60 | +1% |
-| Goles más/menos: Menos de 3.5 | 85% | 78% | 82% | 1.20 | -2% |
+| 1X2: 2 | 68% | 59% | 64% | 1.57 | -0% |
+| 1X2: X | 23% | 26% | 25% | 3.60 | -11% |
+| 1X2: 1 | 9% | 15% | 12% | 6.25 | -26% |
+| Doble oportunidad: X2 | 91% | 85% | 88% | 1.12 | -2% |
+| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 32% | 41% | 37% | 2.30 | -15% |
+| Ambos marcan: No | 73% | 58% | 65% | 1.62 | +6% |
+| Ambos marcan: Sí | 27% | 42% | 35% | 2.20 | -24% |
+| Goles más/menos: Más de 1.5 | 60% | 69% | 64% | 1.36 | -12% |
+| Goles más/menos: Más de 2.5 | 33% | 43% | 38% | 2.20 | -17% |
+| Goles más/menos: Más de 3.5 | 15% | 23% | 19% | 4.00 | -24% |
+| Goles más/menos: Menos de 1.5 | 40% | 31% | 36% | 3.00 | +7% |
+| Goles más/menos: Menos de 2.5 | 67% | 57% | 62% | 1.65 | +2% |
+| Goles más/menos: Menos de 3.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 59% | 62% | 61% | 1.50 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 22% | 28% | 25% | 3.40 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 41% | 38% | 39% | 2.50 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 78% | 72% | 75% | 1.30 | -2% |
-| 1X2 descanso: 2 | 45% | 40% | 43% | 2.30 | -2% |
+| Goles del local: Más de 0.5 | 33% | 50% | 42% | 1.83 | -24% |
+| Goles del local: Menos de 0.5 | 67% | 50% | 58% | 1.83 | +7% |
+| Goles del visitante: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
+| Goles del visitante: Más de 1.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Goles del visitante: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
+| Goles del visitante: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles del visitante: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -9% |
+| Goles del visitante: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
+| Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |
+| 1X2 descanso: 2 | 45% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: X | 47% | 44% | 45% | 2.10 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,21 @@
 # Lithuania – Liechtenstein
 **Nations League** · League D - 6 · 16/11/2026 18:00 (hora España) · Darius and Girėnas Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 19:50_
+
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **4.00** · menos **1.22**
+- **Anytime Goal Scorer:** Jens Hofer **67.00**  ·  Villiam Pizzi **15.00**  ·  Fabio Luque-Notaro **12.00**  ·  Manfredas Ruzgis **2.05**  ·  Armandas Kucys **1.80**  ·  Artemijus Tutyskinas **7.00**  ·  Artur Dolznikov **2.88**  ·  Justas Lasickas **3.25**  ·  Kipras Kazukolovas **7.00**  ·  Paulius Golubickas **2.60**  ·  Pijus Sirvys **4.50**  ·  Rokas Lekiatas **10.00**  ·  Vykintas Slivka **3.75**  ·  Gratas Sirgedas **3.25**  ·  Luca Beck **34.00**  ·  Deividas Sesplaukis **5.50**  ·  Dennis Salanovic **12.00**  ·  Eligijus Jankauskas **2.60**  ·  Vilius Armalas **7.00**  ·  Philipp Ospelt **15.00**  ·  Nicolas Hasler **23.00**  ·  Livio Meier **23.00**  ·  Aron Sele **26.00**  ·  Maximilian Goppel **51.00**  ·  Fabio Wolfinger **23.00**  ·  Niklas Beck **81.00**  ·  Andrin Netzer **17.00**  ·  Simon Luchinger **26.00**  ·  Liam Kranz **26.00**  ·  Emanuel Zund **23.00**  ·  Alessio Hasler **23.00**  ·  Marcel Buchel **23.00**  ·  Edgaras Dubickas **1.91**  ·  Ferhat Saglam **15.00**  ·  Motiejus Burba **2.88**  ·  Zygimantas Baltrunas **7.00**  ·  Domantas Sluta **4.00**  ·  Alessandro Lo Russo **12.00**  ·  Bruno Poitner **15.00**  ·  Florian Allgauer **23.00**  ·  Manuel Mikus **23.00**  ·  Yonas Abidi **51.00**  ·  Samuel Cernadas **41.00**  ·  Matas Vareika **2.60**  ·  Andreas Malin **67.00**  ·  Severin Schlegel **26.00**  ·  Gvidas Gineitis **2.88**  ·  Lukas Michelbrink **4.00**
 
 ## Estadísticas de equipo
 | | Lithuania (total) | Lithuania en casa | Liechtenstein (total) | Liechtenstein fuera |

@@ -1,7 +1,7 @@
 # Tenerife – Mallorca
 **Segunda División** · Regular Season - 15 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Arnau Puigmal | M | 5 | 162 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,86 · visitante 1,16 · córners esperados 8,8._
+_Goles esperados: local 0,86 · visitante 1,15 · córners esperados 8,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

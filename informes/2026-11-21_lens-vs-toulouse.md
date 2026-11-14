@@ -1,7 +1,7 @@
 # Lens – Toulouse
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:09_
@@ -181,7 +181,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Yann Gboho | M | 2 | 170 | 0 | 1 | 2 | 1,0 | 0 | 0,0 | 3 | 6 | 3,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,65 · visitante 1,92 · córners esperados 9,5._
+_Goles esperados: local 1,64 · visitante 1,92 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -210,9 +210,9 @@ _Goles esperados: local 1,65 · visitante 1,92 · córners esperados 9,5._
 | Goles del local: Menos de 1.5 | 51% | 42% | 47% | 2.20 | +3% |
 | Goles del local: Menos de 2.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del visitante: Más de 0.5 | 85% | 66% | 76% | 1.40 | +6% |
-| Goles del visitante: Más de 1.5 ✅ | 57% | 34% | 45% | 2.75 | +25% |
-| Goles del visitante: Menos de 0.5 | 15% | 34% | 24% | 2.75 | -33% |
-| Goles del visitante: Menos de 1.5 | 43% | 66% | 55% | 1.40 | -24% |
+| Goles del visitante: Más de 1.5 ✅ | 57% | 34% | 46% | 2.75 | +25% |
+| Goles del visitante: Menos de 0.5 | 15% | 34% | 24% | 2.75 | -34% |
+| Goles del visitante: Menos de 1.5 | 43% | 66% | 54% | 1.40 | -24% |
 | 1X2 descanso: 2 | 36% | 21% | 28% | 4.50 | +26% |
 | 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -11% |
 | 1X2 descanso: 1 | 29% | 41% | 35% | 2.25 | -22% |

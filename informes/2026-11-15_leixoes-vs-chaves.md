@@ -1,21 +1,20 @@
 # Leixoes – Chaves
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 19:00 (hora España) · Estadio do Mar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **1.90**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
-    - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.90** · menos **1.90**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **6.50** · menos **1.11**
-    - 5,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
@@ -173,22 +172,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 73% | 75% | 74% | 1.25 | -8% |
 | Ambos marcan: No | 32% | 46% | 39% | 2.00 | -21% |
 | Ambos marcan: Sí | 68% | 54% | 61% | 1.73 | +5% |
-| Goles más/menos: Más de 1.5 | 87% | 73% | 80% | 1.28 | +3% |
-| Goles más/menos: Más de 2.5 | 69% | 50% | 60% | 1.90 | +13% |
-| Goles más/menos: Más de 3.5 | 48% | 29% | 38% | 3.25 | +25% |
-| Goles más/menos: Menos de 1.5 | 13% | 27% | 20% | 3.50 | -31% |
-| Goles más/menos: Menos de 2.5 | 31% | 50% | 40% | 1.90 | -23% |
-| Goles más/menos: Menos de 3.5 | 52% | 71% | 62% | 1.33 | -18% |
+| Goles más/menos: Más de 1.5 | 87% | 72% | 80% | 1.30 | +4% |
+| Goles más/menos: Más de 2.5 | 69% | 49% | 59% | 1.95 | +15% |
+| Goles más/menos: Más de 3.5 | 48% | 28% | 38% | 3.40 | +28% |
+| Goles más/menos: Menos de 1.5 | 13% | 28% | 20% | 3.40 | -31% |
+| Goles más/menos: Menos de 2.5 | 31% | 51% | 41% | 1.85 | -24% |
+| Goles más/menos: Menos de 3.5 | 52% | 72% | 62% | 1.30 | -19% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 69% | 74% | 1.36 | +0% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 34% | 40% | 2.75 | +10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -21% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 66% | 60% | 1.40 | -16% |
 | Goles del local: Más de 0.5 | 88% | 78% | 83% | 1.20 | -0% |
 | Goles del local: Más de 1.5 | 62% | 49% | 55% | 1.91 | +5% |
 | Goles del local: Más de 2.5 | 35% | 23% | 29% | 4.00 | +16% |
 | Goles del local: Menos de 0.5 | 12% | 22% | 17% | 4.33 | -26% |
 | Goles del local: Menos de 1.5 | 38% | 51% | 45% | 1.80 | -19% |
-| Goles del local: Menos de 2.5 | 65% | 77% | 71% | 1.22 | -14% |
+| Goles del local: Menos de 2.5 | 65% | 77% | 71% | 1.22 | -13% |
 | Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
 | Goles del visitante: Más de 1.5 | 43% | 29% | 36% | 3.25 | +17% |
 | Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -23% |

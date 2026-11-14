@@ -1,7 +1,7 @@
 # Rayo Vallecano – Valencia
 **LaLiga** · Regular Season - 13 · 21/11/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:01_
@@ -177,7 +177,7 @@ _Sin bajas comunicadas por ahora._
 | Aliou Dieng | M | 6 | 244 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,40 · visitante 1,10 · córners esperados 9,7._
+_Goles esperados: local 1,39 · visitante 1,10 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -201,10 +201,10 @@ _Goles esperados: local 1,40 · visitante 1,10 · córners esperados 9,7._
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 69% | 70% | 1.36 | -5% |
 | Goles del local: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
 | Goles del local: Más de 1.5 | 41% | 44% | 42% | 2.10 | -11% |
-| Goles del local: Más de 2.5 | 17% | 21% | 19% | 4.50 | -16% |
+| Goles del local: Más de 2.5 | 16% | 21% | 19% | 4.50 | -16% |
 | Goles del local: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
 | Goles del local: Menos de 1.5 | 59% | 56% | 58% | 1.67 | -4% |
-| Goles del local: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
+| Goles del local: Menos de 2.5 | 84% | 79% | 81% | 1.18 | -4% |
 | Goles del visitante: Más de 0.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del visitante: Más de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles del visitante: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -12% |

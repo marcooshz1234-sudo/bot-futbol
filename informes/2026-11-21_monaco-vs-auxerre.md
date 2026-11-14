@@ -1,7 +1,7 @@
 # Monaco – Auxerre
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:09_
@@ -200,7 +200,7 @@ _Goles esperados: local 2,45 · visitante 0,86 · córners esperados 10,1._
 | Goles más/menos: Más de 2.5 | 64% | 64% | 64% | 1.50 | -4% |
 | Goles más/menos: Más de 3.5 | 42% | 43% | 43% | 2.20 | -6% |
 | Goles más/menos: Más de 4.5 | 24% | 25% | 25% | 3.75 | -7% |
-| Goles más/menos: Menos de 2.5 | 36% | 36% | 36% | 2.62 | -6% |
+| Goles más/menos: Menos de 2.5 | 36% | 36% | 36% | 2.62 | -5% |
 | Goles más/menos: Menos de 3.5 | 58% | 57% | 57% | 1.67 | -4% |
 | Goles más/menos: Menos de 4.5 | 76% | 75% | 75% | 1.28 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |

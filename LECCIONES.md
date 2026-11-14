@@ -1,5 +1,22 @@
 # Lecciones del bot
 
+## 2026-11-14
+
+```
+🧠 LECCIONES DEL 14/11
+Picks del bot: 1 ✅ · 0 ❌
+
+❌ Lo que falló en lo publicado:
+• Ambos marcan en Valladolid–Castellón → 1 de 2 equipos que marcan
+• Gana Kosovo → Marcador: 0–0
+• Gol en la 1ª parte del Noruega–Gales → Marcador: 3–1
+• Israel marca → 0 de 1 gol
+
+📐 Modelo: 353/566 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-09
 
 ```

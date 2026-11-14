@@ -1,12 +1,13 @@
 # Sevilla W – Atletico Madrid W
 **Liga F** · Regular Season - 11 · 15/11/2026 16:00 (hora España) · Estadio Jesus Navas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **5.50**  ·  X **4.10**  ·  2 **1.45**
+- **Doble oportunidad:** 1X **2.40**  ·  12 **1.17**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 1,5: más **1.20** · menos **4.33**
@@ -14,8 +15,22 @@ _Actualizadas: 14/11 02:07_
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **4.50** · menos **1.17**
     - 5,5: más **8.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.00** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **8.50** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.11** · menos **6.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.00** · menos **1.14**
+    - 4,5: más **9.00** · menos **1.04**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.92** · menos **1.88**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **1.91**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -29,7 +44,7 @@ _Actualizadas: 14/11 02:07_
 - **Win Both Halves:** 1 **23.00**  ·  2 **3.75**
 - **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.10**  ·  Home/No **11.00**  ·  Draw/No **15.00**  ·  Away/No **2.62**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.75**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
 
 ## Estadísticas de equipo
 | | Sevilla W (total) | Sevilla W en casa | Atletico Madrid W (total) | Atletico Madrid W fuera |
@@ -124,15 +139,18 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,99 · visitante 1,91._
+_Goles esperados: local 1,00 · visitante 1,91._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 59% | 62% | 60% | 1.45 | -12% |
+| 1X2: 2 | 59% | 62% | 60% | 1.45 | -13% |
 | 1X2: X | 22% | 22% | 22% | 4.10 | -10% |
-| 1X2: 1 | 19% | 16% | 18% | 5.50 | -3% |
+| 1X2: 1 | 19% | 16% | 18% | 5.50 | -2% |
+| Doble oportunidad: X2 | 81% | 83% | 82% | 1.10 | -10% |
+| Doble oportunidad: 12 | 78% | 78% | 78% | 1.17 | -9% |
+| Doble oportunidad: 1X | 41% | 38% | 40% | 2.40 | -5% |
 | Ambos marcan: No | 46% | 49% | 47% | 1.91 | -9% |
 | Ambos marcan: Sí | 54% | 51% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 1.5 | 79% | 78% | 78% | 1.20 | -6% |
@@ -143,6 +161,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 44% | 43% | 44% | 2.20 | -4% |
 | Goles más/menos: Menos de 3.5 | 67% | 65% | 66% | 1.44 | -5% |
 | Goles más/menos: Menos de 4.5 | 83% | 79% | 81% | 1.17 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
+| Goles del local: Más de 0.5 | 63% | 59% | 61% | 1.57 | -4% |
+| Goles del local: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles del local: Menos de 0.5 | 37% | 41% | 39% | 2.25 | -12% |
+| Goles del local: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles del visitante: Más de 1.5 | 57% | 61% | 59% | 1.53 | -10% |
+| Goles del visitante: Más de 2.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles del visitante: Menos de 1.5 | 43% | 39% | 41% | 2.38 | -2% |
+| Goles del visitante: Menos de 2.5 | 70% | 65% | 67% | 1.44 | -3% |
 | 1X2 descanso: 2 | 43% | 47% | 45% | 1.91 | -14% |
 | 1X2 descanso: X | 39% | 36% | 38% | 2.50 | -6% |
 

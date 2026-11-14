@@ -1,10 +1,10 @@
 # Eibar – Cadiz
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Ipurua Municipal Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **1.62**  ·  X **3.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.25**  ·  X2 **2.25**
@@ -30,7 +30,7 @@ _Actualizadas: 14/11 02:07_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.85** · menos **1.95**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
@@ -194,7 +194,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 19% | 17% | 18% | 5.50 | -0% |
+| 1X2: 2 | 19% | 17% | 18% | 5.50 | +0% |
 | 1X2: X | 22% | 25% | 24% | 3.75 | -12% |
 | 1X2: 1 | 59% | 58% | 58% | 1.62 | -6% |
 | Doble oportunidad: X2 | 41% | 42% | 42% | 2.25 | -6% |
@@ -204,10 +204,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 54% | 51% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles más/menos: Más de 2.5 | 56% | 54% | 55% | 1.75 | -4% |
-| Goles más/menos: Más de 3.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -8% |
 | Goles más/menos: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles más/menos: Menos de 2.5 | 44% | 46% | 45% | 2.05 | -7% |
-| Goles más/menos: Menos de 3.5 | 67% | 66% | 67% | 1.40 | -7% |
+| Goles más/menos: Menos de 3.5 | 67% | 66% | 66% | 1.40 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
@@ -220,8 +220,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
 | Goles del visitante: Menos de 0.5 | 37% | 39% | 38% | 2.38 | -10% |
 | Goles del visitante: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Córners más/menos: Más de 9.5 | 46% | 51% | 48% | 1.85 | -10% |
+| Córners más/menos: Menos de 9.5 | 54% | 49% | 52% | 1.95 | +0% |
 | 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
 | 1X2 descanso: 1 | 43% | 42% | 42% | 2.20 | -7% |
 

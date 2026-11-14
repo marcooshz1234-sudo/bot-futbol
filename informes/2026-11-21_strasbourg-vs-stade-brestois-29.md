@@ -1,7 +1,7 @@
 # Strasbourg – Stade Brestois 29
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:09_
@@ -182,7 +182,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Djylian N'Guessan | F | 3 | 36 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,33 · visitante 1,86 · córners esperados 8,6._
+_Goles esperados: local 1,32 · visitante 1,87 · córners esperados 8,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -203,9 +203,9 @@ _Goles esperados: local 1,33 · visitante 1,86 · córners esperados 8,6._
 | Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -6% |
 | Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.20 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 39% | 40% | 2.38 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
 | Goles del local: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
 | Goles del local: Más de 1.5 | 38% | 50% | 44% | 1.83 | -19% |
 | Goles del local: Más de 2.5 | 15% | 25% | 20% | 3.75 | -25% |
@@ -217,7 +217,7 @@ _Goles esperados: local 1,33 · visitante 1,86 · córners esperados 8,6._
 | Goles del visitante: Menos de 0.5 | 15% | 25% | 20% | 3.75 | -24% |
 | Goles del visitante: Menos de 1.5 | 44% | 59% | 52% | 1.57 | -19% |
 | 1X2 descanso: 2 ✅ | 38% | 27% | 33% | 3.40 | +11% |
-| 1X2 descanso: X | 38% | 39% | 38% | 2.38 | -8% |
+| 1X2 descanso: X | 38% | 39% | 39% | 2.38 | -8% |
 | 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

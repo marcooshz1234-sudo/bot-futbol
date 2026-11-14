@@ -1,7 +1,7 @@
 # Parma – AS Roma
 **Serie A** · Regular Season - 12 · 21/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:01_
@@ -196,13 +196,13 @@ _Goles esperados: local 0,79 · visitante 2,44 · córners esperados 9,5._
 | Goles más/menos: Más de 1.5 | 83% | 79% | 81% | 1.20 | -3% |
 | Goles más/menos: Más de 2.5 | 63% | 59% | 61% | 1.62 | -2% |
 | Goles más/menos: Más de 3.5 | 40% | 38% | 39% | 2.50 | -2% |
-| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
+| Goles más/menos: Más de 4.5 | 23% | 22% | 22% | 4.33 | -4% |
 | Goles más/menos: Menos de 1.5 | 17% | 21% | 19% | 4.50 | -15% |
 | Goles más/menos: Menos de 2.5 | 37% | 41% | 39% | 2.30 | -10% |
 | Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -7% |
-| Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
+| Goles más/menos: Menos de 4.5 | 77% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -7% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 27% | 26% | 3.50 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -8% |
 | Goles del local: Más de 0.5 | 55% | 50% | 52% | 1.83 | -4% |

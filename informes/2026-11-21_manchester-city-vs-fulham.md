@@ -1,10 +1,10 @@
 # Manchester City – Fulham
 **Premier League** · Regular Season - 11 · 21/11/2026 13:30 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 14:14_
+_Actualizadas: 14/11 19:51_
 
 - **1X2:** 1 **1.44**  ·  X **4.75**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.62**
@@ -195,7 +195,7 @@ _Goles esperados: local 1,98 · visitante 0,86 · córners esperados 9,6._
 | Ambos marcan: Sí | 50% | 58% | 54% | 1.62 | -13% |
 | Goles más/menos: Más de 2.5 | 54% | 64% | 59% | 1.50 | -12% |
 | Goles más/menos: Más de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
-| Goles más/menos: Más de 4.5 | 16% | 25% | 21% | 3.75 | -22% |
+| Goles más/menos: Más de 4.5 | 16% | 25% | 21% | 3.75 | -23% |
 | Goles más/menos: Menos de 2.5 ✅ | 46% | 36% | 41% | 2.62 | +8% |
 | Goles más/menos: Menos de 3.5 | 68% | 57% | 63% | 1.67 | +4% |
 | Goles más/menos: Menos de 4.5 | 84% | 75% | 79% | 1.28 | +2% |
@@ -216,6 +216,6 @@ _Goles esperados: local 1,98 · visitante 0,86 · córners esperados 9,6._
 | Goles del visitante: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -0% |
 | Goles del visitante: Menos de 1.5 | 79% | 72% | 75% | 1.30 | -2% |
 | 1X2 descanso: X | 39% | 36% | 37% | 2.62 | -2% |
-| 1X2 descanso: 1 | 46% | 49% | 47% | 1.91 | -10% |
+| 1X2 descanso: 1 | 45% | 49% | 47% | 1.91 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

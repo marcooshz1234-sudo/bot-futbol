@@ -1,7 +1,7 @@
 # Castellón – Eldense
 **Segunda División** · Regular Season - 15 · 21/11/2026 18:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Castellón (total) | Castellón en casa | Eldense (total) | Eldense fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 5 | 14 | 8 |
-| Forma (últimos 5) | EVVVD | VEVVE | DDVDV | DVDVD |
-| Balance | 9V 3E 1D | 3V 2E 0D | 5V 2E 7D | 3V 0E 5D |
-| Goles a favor / partido | 2,00 | 2,40 | 1,00 | 0,62 |
-| Goles en contra / partido | 0,38 | 0,20 | 1,36 | 1,38 |
-| Goles a favor 1ª parte | 1,08 | 1,20 | 0,14 | 0,25 |
-| Goles a favor 2ª parte | 0,92 | 1,20 | 0,86 | 0,38 |
-| Goles en contra 1ª parte | 0,23 | 0,00 | 0,71 | 0,88 |
-| Goles en contra 2ª parte | 0,15 | 0,20 | 0,64 | 0,50 |
-| Más de 1,5 goles | 77% | 80% | 64% | 50% |
-| Más de 2,5 goles | 46% | 40% | 43% | 25% |
-| Más de 3,5 goles | 15% | 40% | 21% | 12% |
-| Ambos marcan | 31% | 20% | 36% | 12% |
-| Portería a cero | 62% | 80% | 21% | 25% |
-| Se queda sin marcar | 15% | 20% | 50% | 62% |
-| xG a favor | 1,94 | 1,96 | 1,16 | 0,63 |
-| xG en contra | 1,15 | 1,32 | 1,29 | 1,08 |
+| Partidos analizados | 14 | 5 | 14 | 8 |
+| Forma (últimos 5) | VEVVV | VEVVE | DDVDV | DVDVD |
+| Balance | 10V 3E 1D | 3V 2E 0D | 5V 2E 7D | 3V 0E 5D |
+| Goles a favor / partido | 1,93 | 2,40 | 1,00 | 0,62 |
+| Goles en contra / partido | 0,36 | 0,20 | 1,36 | 1,38 |
+| Goles a favor 1ª parte | 1,00 | 1,20 | 0,14 | 0,25 |
+| Goles a favor 2ª parte | 0,93 | 1,20 | 0,86 | 0,38 |
+| Goles en contra 1ª parte | 0,21 | 0,00 | 0,71 | 0,88 |
+| Goles en contra 2ª parte | 0,14 | 0,20 | 0,64 | 0,50 |
+| Más de 1,5 goles | 71% | 80% | 64% | 50% |
+| Más de 2,5 goles | 43% | 40% | 43% | 25% |
+| Más de 3,5 goles | 14% | 40% | 21% | 12% |
+| Ambos marcan | 29% | 20% | 36% | 12% |
+| Portería a cero | 64% | 80% | 21% | 25% |
+| Se queda sin marcar | 14% | 20% | 50% | 62% |
+| xG a favor | 1,93 | 1,96 | 1,16 | 0,63 |
+| xG en contra | 1,13 | 1,32 | 1,29 | 1,08 |
 | Tiros / partido | 13,8 | 13,4 | 12,5 | 10,9 |
-| Tiros a puerta / partido | 4,8 | 4,2 | 4,2 | 2,9 |
-| Tiros recibidos | 9,9 | 10,0 | 11,8 | 13,0 |
+| Tiros a puerta / partido | 4,7 | 4,2 | 4,2 | 2,9 |
+| Tiros recibidos | 9,7 | 10,0 | 11,8 | 13,0 |
 | Tiros a puerta recibidos | 3,2 | 2,8 | 4,5 | 4,3 |
-| Posesión media % | 61 | 63 | 50 | 48 |
-| Córners a favor | 4,4 | 3,4 | 5,0 | 4,1 |
-| Córners en contra | 3,5 | 4,2 | 4,9 | 5,1 |
-| Córners a favor 1ª parte | 1,9 | 1,2 | 2,5 | 1,9 |
-| Córners a favor 2ª parte | 2,5 | 2,2 | 2,5 | 2,2 |
-| Córners totales del partido | 7,8 | 7,6 | 9,9 | 9,2 |
-| Córners totales 1ª parte | 3,6 | 3,6 | 4,7 | 3,9 |
-| Córners totales 2ª parte | 4,2 | 4,0 | 5,1 | 5,4 |
-| Más de 8,5 córners | 46% | 40% | 57% | 38% |
-| Más de 9,5 córners | 38% | 40% | 57% | 38% |
-| Más de 10,5 córners | 23% | 0% | 43% | 38% |
-| Faltas cometidas | 11,2 | 10,2 | 13,5 | 13,9 |
-| Faltas recibidas | 14,2 | 12,0 | 12,8 | 11,3 |
-| Amarillas propias | 1,8 | 1,0 | 2,6 | 3,1 |
+| Posesión media % | 60 | 63 | 50 | 48 |
+| Córners a favor | 4,7 | 3,4 | 5,0 | 4,1 |
+| Córners en contra | 3,4 | 4,2 | 4,9 | 5,1 |
+| Córners a favor 1ª parte | 2,0 | 1,2 | 2,5 | 1,9 |
+| Córners a favor 2ª parte | 2,7 | 2,2 | 2,5 | 2,2 |
+| Córners totales del partido | 8,1 | 7,6 | 9,9 | 9,2 |
+| Córners totales 1ª parte | 3,7 | 3,6 | 4,7 | 3,9 |
+| Córners totales 2ª parte | 4,4 | 4,0 | 5,1 | 5,4 |
+| Más de 8,5 córners | 50% | 40% | 57% | 38% |
+| Más de 9,5 córners | 43% | 40% | 57% | 38% |
+| Más de 10,5 córners | 29% | 0% | 43% | 38% |
+| Faltas cometidas | 11,4 | 10,2 | 13,5 | 13,9 |
+| Faltas recibidas | 13,9 | 12,0 | 12,8 | 11,3 |
+| Amarillas propias | 1,9 | 1,0 | 2,6 | 3,1 |
 | Amarillas del rival | 3,1 | 2,6 | 2,8 | 2,6 |
-| Rojas / partido | 0,23 | 0,00 | 0,00 | 0,00 |
+| Rojas / partido | 0,21 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Castellón | Recibe Castellón | Tarjetas Castellón | Goles Eldense | Recibe Eldense | Tarjetas Eldense |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 2 | 0 | 0 | 3 | 1 |
 | 16-30' | 6 | 0 | 1 | 0 | 3 | 5 |
-| 31-45' | 2 | 1 | 3 | 2 | 4 | 13 |
-| 46-60' | 5 | 1 | 10 | 3 | 2 | 6 |
-| 61-75' | 3 | 0 | 2 | 3 | 2 | 3 |
-| 76-90' | 4 | 1 | 11 | 6 | 5 | 11 |
+| 31-45' | 2 | 1 | 4 | 2 | 4 | 13 |
+| 46-60' | 5 | 1 | 11 | 3 | 2 | 6 |
+| 61-75' | 4 | 0 | 2 | 3 | 2 | 3 |
+| 76-90' | 4 | 1 | 12 | 6 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -71,34 +71,34 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Castellón
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Segunda División | Valladolid 0-1 Castellón | fuera | 9-3 | 15 (3) - 7 (3) | 3-4 |
 | 2026-11-01 | Segunda División | Burgos 1-1 Castellón | fuera | 1-1 | 5 (1) - 9 (4) | 4-3 |
 | 2026-10-29 | Copa del Rey | Conquense 0-3 Castellón | fuera | –-– | – (–) - – (–) | 2-1 |
 | 2026-10-25 | Segunda División | Castellón 4-0 Sporting Gijon | casa | 2-3 | 14 (6) - 8 (3) | 1-2 |
 | 2026-10-17 | Segunda División | Las Palmas 0-3 Castellón | fuera | 6-3 | 14 (7) - 5 (1) | 1-7 |
 | 2026-10-11 | Segunda División | FC Andorra 1-0 Castellón | fuera | 7-4 | 12 (3) - 16 (8) | 2-4 |
-| 2026-10-04 | Segunda División | Castellón 1-1 AD Ceuta FC | casa | 3-7 | 10 (2) - 13 (4) | 1-3 |
 
 ## Jugadores de Castellón
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Matthys | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 1 | 0 |
-| Alberto Jiménez | D | 12 | 1019 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 8 | 16 | 1,3 | 3 | 0 |
-| Barri | M | 12 | 993 | 1 | 0 | 8 | 0,7 | 2 | 0,2 | 14 | 14 | 1,2 | 1 | 0 |
-| A. Sienra | D | 11 | 970 | 2 | 0 | 5 | 0,5 | 2 | 0,2 | 5 | 7 | 0,6 | 2 | 0 |
-| J. Mellot | D | 11 | 892 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 12 | 1,1 | 0 | 0 |
-| Álvaro Martín | F | 11 | 850 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 18 | 20 | 1,8 | 1 | 0 |
-| Pablo Santiago | D | 11 | 742 | 3 | 2 | 12 | 1,1 | 4 | 0,4 | 9 | 14 | 1,3 | 0 | 0 |
+| R. Matthys | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 1 | 0 |
+| Alberto Jiménez | D | 13 | 1109 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 8 | 20 | 1,5 | 4 | 0 |
+| Barri | M | 13 | 1083 | 1 | 0 | 8 | 0,6 | 2 | 0,2 | 14 | 14 | 1,1 | 1 | 0 |
+| A. Sienra | D | 12 | 1060 | 2 | 0 | 5 | 0,4 | 2 | 0,2 | 5 | 7 | 0,6 | 2 | 0 |
+| J. Mellot | D | 12 | 982 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 13 | 1,1 | 0 | 0 |
+| Álvaro Martín | M | 12 | 919 | 0 | 1 | 8 | 0,7 | 2 | 0,2 | 21 | 20 | 1,7 | 2 | 0 |
+| Pablo Santiago | M | 12 | 800 | 3 | 2 | 14 | 1,2 | 4 | 0,3 | 10 | 16 | 1,3 | 0 | 0 |
+| Iñigo Córdoba | M | 12 | 749 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 10 | 5 | 0,4 | 2 | 0 |
+| A. Jakobsen | M | 10 | 724 | 4 | 1 | 15 | 1,5 | 8 | 0,8 | 7 | 13 | 1,3 | 3 | 0 |
+| Ousmane Camara | F | 8 | 691 | 4 | 1 | 19 | 2,4 | 13 | 1,6 | 13 | 7 | 0,9 | 1 | 0 |
 | Israel Suero | M | 10 | 686 | 6 | 2 | 14 | 1,4 | 10 | 1,0 | 2 | 11 | 1,1 | 0 | 0 |
-| Iñigo Córdoba | M | 11 | 659 | 0 | 1 | 6 | 0,5 | 2 | 0,2 | 9 | 5 | 0,5 | 2 | 0 |
-| A. Jakobsen | F | 9 | 642 | 3 | 1 | 11 | 1,2 | 5 | 0,6 | 6 | 10 | 1,1 | 2 | 0 |
-| Ousmane Camara | F | 7 | 609 | 4 | 1 | 18 | 2,6 | 13 | 1,9 | 11 | 7 | 1,0 | 1 | 0 |
-| Juanjo Nieto | D | 8 | 529 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 6 | 11 | 1,4 | 2 | 0 |
+| Juanjo Nieto | M | 9 | 598 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 6 | 11 | 1,2 | 2 | 0 |
 | M. Orozco | M | 7 | 423 | 1 | 3 | 10 | 1,4 | 5 | 0,7 | 10 | 8 | 1,1 | 3 | 1 |
 | Francisco Castillo | M | 6 | 309 | 1 | 1 | 9 | 1,5 | 4 | 0,7 | 4 | 6 | 1,0 | 1 | 0 |
-| Lucas Alcázar | D | 7 | 289 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,1 | 0 | 0 |
-| Raúl Sánchez | F | 7 | 276 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 7 | 4 | 0,6 | 1 | 0 |
-| A. Gala | M | 8 | 185 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 3 | 4 | 0,5 | 0 | 0 |
-| Varo García | F | 8 | 170 | 2 | 1 | 4 | 0,5 | 2 | 0,2 | 5 | 6 | 0,8 | 0 | 0 |
+| Lucas Alcázar | D | 8 | 297 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,1 | 0 | 0 |
+| Raúl Sánchez | F | 8 | 297 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 7 | 5 | 0,6 | 1 | 0 |
+| A. Gala | M | 9 | 217 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 5 | 4 | 0,4 | 0 | 0 |
+| Varo García | F | 9 | 178 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 6 | 6 | 0,7 | 0 | 0 |
 | Rodrigo Miguel Ferreira Rêgo | F | 6 | 151 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 3 | 0,5 | 0 | 0 |
 | I. Kostis | D | 3 | 106 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Iker Recio | D | 6 | 193 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 0,59 · córners esperados 9,3._
+_Goles esperados: local 1,79 · visitante 0,57 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

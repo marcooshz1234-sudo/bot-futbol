@@ -1,71 +1,57 @@
 # Próximos partidos
 
-_Actualizado el 14/11/2026 08:07 (hora España). Partidos guardados en la base de datos: 2588._
+_Actualizado el 14/11/2026 19:52 (hora España). Partidos guardados en la base de datos: 2597._
 
 
 ## Sábado 14/11
-- 12:00 · Liga F · [Espanyol W – Granad. Tenerife W](informes/2026-11-14_espanyol-w-vs-granad-tenerife-w.md) · 1X2: 2.55 / 3.10 / 2.55
-- 14:00 · Segunda División · [Valladolid – Castellón](informes/2026-11-14_valladolid-vs-castellon.md) · 1X2: 2.90 / 3.50 / 2.30
-- 14:30 · Serie C · [Renate – Desenzano Calvina](informes/2026-11-14_renate-vs-desenzano-calvina.md) · 1X2: 1.80 / 3.30 / 3.80
-- 14:30 · Serie C · [Albinoleffe – Union Brescia](informes/2026-11-14_albinoleffe-vs-union-brescia.md) · 1X2: 4.10 / 3.40 / 1.73
-- 14:30 · Serie C · [Arzignano Valchiampo – Alcione](informes/2026-11-14_arzignano-valchiampo-vs-alcione.md) · 1X2: 2.05 / 3.30 / 3.10
-- 15:00 · Nations League · [Kosovo – Israel](informes/2026-11-14_kosovo-vs-israel.md) · 1X2: 1.80 / 3.70 / 4.20
-- 16:15 · Segunda División · [Real Sociedad II – Sporting Gijon](informes/2026-11-14_real-sociedad-ii-vs-sporting-gijon.md) · 1X2: 2.40 / 3.25 / 2.90
-- 17:30 · Serie C · [Lumezzane – Trento](informes/2026-11-14_lumezzane-vs-trento.md) · 1X2: 3.70 / 3.40 / 1.83
-- 17:30 · Serie C · [Athletic Carpi – Giana Erminio](informes/2026-11-14_athletic-carpi-vs-giana-erminio.md) · 1X2: 2.20 / 3.20 / 2.88
-- 18:00 · Nations League · [Norway – Wales](informes/2026-11-14_norway-vs-wales.md) · 1X2: 1.22 / 7.50 / 10.00
-- 18:00 · Nations League · [Georgia – Hungary](informes/2026-11-14_georgia-vs-hungary.md) · 1X2: 3.00 / 3.10 / 2.45
-- 18:00 · Liga F · [Deportivo Alavés W – Eibar W](informes/2026-11-14_deportivo-alaves-w-vs-eibar-w.md) · 1X2: 2.00 / 3.25 / 3.20
-- 18:30 · Segunda División · [Almeria – FC Andorra](informes/2026-11-14_almeria-vs-fc-andorra.md)
-- 18:30 · Segunda División · [Mallorca – Cordoba](informes/2026-11-14_mallorca-vs-cordoba.md) · 1X2: 1.95 / 3.70 / 3.60
-- 20:30 · Liga F · [Real Madrid W – FC Levante Badalona W](informes/2026-11-14_real-madrid-w-vs-fc-levante-badalona-w.md) · 1X2: 1.14 / 6.50 / 15.00
-- 20:45 · Nations League · [Sweden – Bosnia & Herzegovina](informes/2026-11-14_sweden-vs-bosnia-herzegovina.md) · 1X2: 1.50 / 4.33 / 6.00
-- 20:45 · Nations League · [Portugal – Denmark](informes/2026-11-14_portugal-vs-denmark.md) · 1X2: 1.50 / 4.75 / 5.75
-- 20:45 · Nations League · [Northern Ireland – Ukraine](informes/2026-11-14_northern-ireland-vs-ukraine.md) · 1X2: 2.50 / 3.00 / 3.10
-- 20:45 · Nations League · [Romania – Poland](informes/2026-11-14_romania-vs-poland.md) · 1X2: 3.75 / 3.90 / 1.85
-- 20:45 · Nations League · [Austria – Rep. Of Ireland](informes/2026-11-14_austria-vs-rep-of-ireland.md) · 1X2: 1.60 / 3.90 / 5.50
-- 21:00 · Segunda División · [Oviedo – Girona](informes/2026-11-14_oviedo-vs-girona.md) · 1X2: 2.45 / 3.20 / 2.88
+- 20:30 · Liga F · [Real Madrid W – FC Levante Badalona W](informes/2026-11-14_real-madrid-w-vs-fc-levante-badalona-w.md) · 1X2: 1.12 / 7.50 / 17.00
+- 20:45 · Nations League · [Sweden – Bosnia & Herzegovina](informes/2026-11-14_sweden-vs-bosnia-herzegovina.md) · 1X2: 1.45 / 4.33 / 7.00
+- 20:45 · Nations League · [Portugal – Denmark](informes/2026-11-14_portugal-vs-denmark.md) · 1X2: 1.62 / 4.33 / 4.75
+- 20:45 · Nations League · [Northern Ireland – Ukraine](informes/2026-11-14_northern-ireland-vs-ukraine.md) · 1X2: 2.55 / 2.88 / 3.20
+- 20:45 · Nations League · [Romania – Poland](informes/2026-11-14_romania-vs-poland.md) · 1X2: 5.00 / 4.33 / 1.62
+- 20:45 · Nations League · [Austria – Rep. Of Ireland](informes/2026-11-14_austria-vs-rep-of-ireland.md) · 1X2: 1.60 / 3.75 / 6.00
+- 21:00 · Segunda División · [Oviedo – Girona](informes/2026-11-14_oviedo-vs-girona.md) · 1X2: 2.40 / 3.30 / 2.90
 
 ## Domingo 15/11
-- 12:00 · Liga F · [Real Sociedad W – Athletic Club W](informes/2026-11-15_real-sociedad-w-vs-athletic-club-w.md) · 1X2: 1.80 / 3.50 / 3.60
-- 12:00 · Liga F · [Madrid CFF W – Edf Logrono W](informes/2026-11-15_madrid-cff-w-vs-edf-logrono-w.md) · 1X2: 2.40 / 3.40 / 2.40
+- 12:00 · Liga F · [Real Sociedad W – Athletic Club W](informes/2026-11-15_real-sociedad-w-vs-athletic-club-w.md) · 1X2: 2.00 / 3.40 / 3.10
+- 12:00 · Liga F · [Madrid CFF W – Edf Logrono W](informes/2026-11-15_madrid-cff-w-vs-edf-logrono-w.md) · 1X2: 2.40 / 3.20 / 2.50
 - 12:00 · Segunda Liga · [Tondela – Farense](informes/2026-11-15_tondela-vs-farense.md) · 1X2: 2.05 / 3.10 / 3.25
 - 12:00 · Segunda Liga · [Amarante – Felgueiras 1932](informes/2026-11-15_amarante-vs-felgueiras-1932.md) · 1X2: 2.40 / 3.00 / 2.80
-- 12:30 · Serie C · [Novara – Lecco](informes/2026-11-15_novara-vs-lecco.md) · 1X2: 2.62 / 3.00 / 2.50
-- 14:00 · Segunda División · [Tenerife – AD Ceuta FC](informes/2026-11-15_tenerife-vs-ad-ceuta-fc.md) · 1X2: 1.80 / 3.60 / 4.33
-- 15:00 · Nations League · [Latvia – Armenia](informes/2026-11-15_latvia-vs-armenia.md)
-- 15:00 · Nations League · [Cyprus – Montenegro](informes/2026-11-15_cyprus-vs-montenegro.md) · 1X2: 3.10 / 3.20 / 2.30
-- 15:00 · Segunda Liga · [Portimonense – Academica](informes/2026-11-15_portimonense-vs-academica.md) · 1X2: 2.15 / 3.10 / 3.10
+- 12:30 · Serie C · [Novara – Lecco](informes/2026-11-15_novara-vs-lecco.md) · 1X2: 2.88 / 3.00 / 2.30
+- 14:00 · Segunda División · [Tenerife – AD Ceuta FC](informes/2026-11-15_tenerife-vs-ad-ceuta-fc.md) · 1X2: 1.75 / 3.60 / 4.50
+- 15:00 · Nations League · [Latvia – Armenia](informes/2026-11-15_latvia-vs-armenia.md) · 1X2: 3.00 / 3.10 / 2.30
+- 15:00 · Nations League · [Cyprus – Montenegro](informes/2026-11-15_cyprus-vs-montenegro.md) · 1X2: 3.30 / 3.25 / 2.20
+- 15:00 · Segunda Liga · [Portimonense – Academica](informes/2026-11-15_portimonense-vs-academica.md) · 1X2: 2.20 / 3.10 / 3.00
 - 16:00 · Liga F · [Sevilla W – Atletico Madrid W](informes/2026-11-15_sevilla-w-vs-atletico-madrid-w.md) · 1X2: 5.50 / 4.10 / 1.45
-- 16:15 · Segunda División · [Granada CF – Las Palmas](informes/2026-11-15_granada-cf-vs-las-palmas.md) · 1X2: 1.80 / 3.50 / 4.50
+- 16:15 · Segunda División · [Granada CF – Las Palmas](informes/2026-11-15_granada-cf-vs-las-palmas.md) · 1X2: 2.15 / 3.25 / 3.30
 - 16:30 · Segunda Liga · [Penafiel – Lusitânia Lourosa](informes/2026-11-15_penafiel-vs-lusitania-lourosa.md) · 1X2: 2.20 / 3.20 / 2.90
 - 17:30 · Serie C · [Cittadella – Folgore Caratese](informes/2026-11-15_cittadella-vs-folgore-caratese.md) · 1X2: 1.40 / 4.00 / 6.50
 - 17:30 · Serie C · [Juventus U23 – Treviso](informes/2026-11-15_juventus-u23-vs-treviso.md) · 1X2: 2.90 / 3.20 / 2.15
 - 17:30 · Serie C · [Pergolettese – PRO Vercelli](informes/2026-11-15_pergolettese-vs-pro-vercelli.md) · 1X2: 2.15 / 3.20 / 3.00
-- 18:00 · Nations League · [Finland – San Marino](informes/2026-11-15_finland-vs-san-marino.md)
-- 18:00 · Nations League · [Belarus – Albania](informes/2026-11-15_belarus-vs-albania.md) · 1X2: 3.80 / 3.25 / 2.05
-- 18:00 · Liga F · [Deportivo de La Coruña W – Barcelona W](informes/2026-11-15_deportivo-de-la-coruna-w-vs-barcelona-w.md) · 1X2: 51.00 / 19.00 / 1.02
-- 18:15 · Liga F · [Valencia W – Granada](informes/2026-11-15_valencia-w-vs-granada.md) · 1X2: 2.80 / 3.10 / 2.25
+- 18:00 · Nations League · [Finland – San Marino](informes/2026-11-15_finland-vs-san-marino.md) · 1X2: 1.04 / 15.00 / 41.00
+- 18:00 · Nations League · [Belarus – Albania](informes/2026-11-15_belarus-vs-albania.md) · 1X2: 4.20 / 3.30 / 1.90
+- 18:00 · Liga F · [Deportivo de La Coruña W – Barcelona W](informes/2026-11-15_deportivo-de-la-coruna-w-vs-barcelona-w.md) · 1X2: 51.00 / 17.00 / 1.02
+- 18:15 · Liga F · [Valencia W – Granada](informes/2026-11-15_valencia-w-vs-granada.md) · 1X2: 2.55 / 3.10 / 2.45
 - 18:30 · Segunda División · [Eibar – Cadiz](informes/2026-11-15_eibar-vs-cadiz.md) · 1X2: 1.62 / 3.75 / 5.50
-- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md) · 1X2: 2.38 / 3.00 / 3.10
+- 18:30 · Segunda División · [Eldense – Sabadell](informes/2026-11-15_eldense-vs-sabadell.md) · 1X2: 2.30 / 3.00 / 3.30
 - 19:00 · Segunda Liga · [Leixoes – Chaves](informes/2026-11-15_leixoes-vs-chaves.md) · 1X2: 1.90 / 3.40 / 3.50
-- 20:45 · Nations League · [Belgium – Italy](informes/2026-11-15_belgium-vs-italy.md) · 1X2: 2.10 / 3.90 / 3.10
-- 20:45 · Nations League · [France – Türkiye](informes/2026-11-15_france-vs-turkiye.md) · 1X2: 1.22 / 7.00 / 10.00
-- 20:45 · Nations League · [Croatia – Czech Republic](informes/2026-11-15_croatia-vs-czech-republic.md) · 1X2: 1.50 / 4.33 / 6.50
-- 20:45 · Nations League · [Spain – England](informes/2026-11-15_spain-vs-england.md) · 1X2: 1.70 / 4.20 / 4.20
+- 20:45 · Nations League · [Belgium – Italy](informes/2026-11-15_belgium-vs-italy.md) · 1X2: 2.15 / 3.90 / 3.00
+- 20:45 · Nations League · [France – Türkiye](informes/2026-11-15_france-vs-turkiye.md) · 1X2: 1.22 / 7.50 / 11.00
+- 20:45 · Nations League · [Croatia – Czech Republic](informes/2026-11-15_croatia-vs-czech-republic.md) · 1X2: 1.57 / 4.10 / 5.75
+- 20:45 · Nations League · [Spain – England](informes/2026-11-15_spain-vs-england.md) · 1X2: 1.75 / 4.10 / 4.10
 
 ## Lunes 16/11
-- 16:00 · Nations League · [Kazakhstan – Slovakia](informes/2026-11-16_kazakhstan-vs-slovakia.md)
-- 16:00 · Nations League · [Faroe Islands – Moldova](informes/2026-11-16_faroe-islands-vs-moldova.md)
-- 18:00 · Nations League · [Iceland – Luxembourg](informes/2026-11-16_iceland-vs-luxembourg.md)
+- 16:00 · Nations League · [Kazakhstan – Slovakia](informes/2026-11-16_kazakhstan-vs-slovakia.md) · 1X2: 4.10 / 3.60 / 1.83
+- 16:00 · Nations League · [Faroe Islands – Moldova](informes/2026-11-16_faroe-islands-vs-moldova.md) · 1X2: 1.73 / 3.60 / 4.75
+- 18:00 · Nations League · [Iceland – Luxembourg](informes/2026-11-16_iceland-vs-luxembourg.md) · 1X2: 1.30 / 5.00 / 10.00
 - 18:00 · Nations League · [Lithuania – Liechtenstein](informes/2026-11-16_lithuania-vs-liechtenstein.md)
-- 18:00 · Nations League · [Estonia – Bulgaria](informes/2026-11-16_estonia-vs-bulgaria.md)
+- 18:00 · Nations League · [Estonia – Bulgaria](informes/2026-11-16_estonia-vs-bulgaria.md) · 1X2: 2.10 / 3.20 / 3.60
 - 20:30 · Segunda División · [Albacete – Celta de Vigo II](informes/2026-11-16_albacete-vs-celta-de-vigo-ii.md) · 1X2: 1.62 / 3.80 / 5.00
-- 20:45 · Nations League · [Switzerland – Scotland](informes/2026-11-16_switzerland-vs-scotland.md) · 1X2: 1.50 / 4.00 / 6.50
-- 20:45 · Nations League · [Germany – Netherlands](informes/2026-11-16_germany-vs-netherlands.md) · 1X2: 1.80 / 4.00 / 3.80
-- 20:45 · Nations League · [Gibraltar – Malta](informes/2026-11-16_gibraltar-vs-malta.md)
-- 20:45 · Nations League · [FYR Macedonia – Slovenia](informes/2026-11-16_fyr-macedonia-vs-slovenia.md) · 1X2: 5.25 / 3.50 / 1.65
-- 20:45 · Nations League · [Greece – Serbia](informes/2026-11-16_greece-vs-serbia.md) · 1X2: 1.42 / 4.75 / 6.00
+- 20:45 · Nations League · [Switzerland – Scotland](informes/2026-11-16_switzerland-vs-scotland.md) · 1X2: 1.70 / 3.70 / 5.00
+- 20:45 · Nations League · [Germany – Netherlands](informes/2026-11-16_germany-vs-netherlands.md) · 1X2: 1.85 / 4.00 / 3.80
+- 20:45 · Nations League · [Gibraltar – Malta](informes/2026-11-16_gibraltar-vs-malta.md) · 1X2: 8.50 / 3.90 / 1.45
+- 20:45 · Nations League · [FYR Macedonia – Slovenia](informes/2026-11-16_fyr-macedonia-vs-slovenia.md) · 1X2: 6.25 / 3.60 / 1.57
+- 20:45 · Nations League · [Greece – Serbia](informes/2026-11-16_greece-vs-serbia.md) · 1X2: 1.45 / 4.75 / 6.50
 
 ## Martes 17/11
 - 20:45 · Nations League · [Denmark – Norway](informes/2026-11-17_denmark-vs-norway.md) · 1X2: 2.70 / 3.50 / 2.55
@@ -175,3 +161,45 @@ _Actualizado el 14/11/2026 08:07 (hora España). Partidos guardados en la base d
 - 21:00 · Eredivisie · [Groningen – Heerenveen](informes/2026-11-21_groningen-vs-heerenveen.md) · 1X2: 2.15 / 3.80 / 2.90
 - 21:00 · Eredivisie · [Telstar – PEC Zwolle](informes/2026-11-21_telstar-vs-pec-zwolle.md) · 1X2: 1.95 / 3.75 / 3.30
 - 21:30 · Taça de Portugal · [Vitória SC – SC Braga](informes/2026-11-21_vitoria-sc-vs-sc-braga.md)
+
+## Domingo 22/11
+- 12:00 · Liga F · [Real Sociedad W – Sevilla W](informes/2026-11-22_real-sociedad-w-vs-sevilla-w.md)
+- 12:00 · Liga F · [Granada – Real Madrid W](informes/2026-11-22_granada-vs-real-madrid-w.md)
+- 12:00 · Taça de Portugal · [Sanjoanense – Academica](informes/2026-11-22_sanjoanense-vs-academica.md)
+- 12:15 · Eredivisie · [Twente – Willem II](informes/2026-11-22_twente-vs-willem-ii.md) · 1X2: 1.05 / 13.00 / 26.00
+- 12:30 · Serie A · [Juventus – Venezia](informes/2026-11-22_juventus-vs-venezia.md) · 1X2: 1.33 / 4.75 / 8.00
+- 12:30 · Serie C · [PRO Vercelli – Novara](informes/2026-11-22_pro-vercelli-vs-novara.md)
+- 12:30 · Serie C · [Union Brescia – Renate](informes/2026-11-22_union-brescia-vs-renate.md)
+- 13:00 · Championship · [Burnley – Blackburn](informes/2026-11-22_burnley-vs-blackburn.md)
+- 14:00 · LaLiga · [Barcelona – Villarreal](informes/2026-11-22_barcelona-vs-villarreal.md) · 1X2: 1.22 / 6.50 / 9.00
+- 14:00 · Segunda División · [Cordoba – Oviedo](informes/2026-11-22_cordoba-vs-oviedo.md)
+- 14:30 · Eredivisie · [Ajax – ADO Den Haag](informes/2026-11-22_ajax-vs-ado-den-haag.md) · 1X2: 1.17 / 7.50 / 12.00
+- 14:30 · Eredivisie · [Sparta Rotterdam – AZ Alkmaar](informes/2026-11-22_sparta-rotterdam-vs-az-alkmaar.md) · 1X2: 4.33 / 4.10 / 1.65
+- 14:30 · Serie C · [Alcione – Ospitaletto](informes/2026-11-22_alcione-vs-ospitaletto.md)
+- 15:00 · Premier League · [Hull City – Brighton](informes/2026-11-22_hull-city-vs-brighton.md) · 1X2: 5.50 / 4.10 / 1.55
+- 15:00 · Serie A · [Sassuolo – Genoa](informes/2026-11-22_sassuolo-vs-genoa.md) · 1X2: 2.35 / 3.25 / 2.90
+- 15:00 · Serie A · [Bologna – Udinese](informes/2026-11-22_bologna-vs-udinese.md) · 1X2: 1.73 / 3.50 / 4.75
+- 15:00 · Ligue 1 · [Paris FC – Angers](informes/2026-11-22_paris-fc-vs-angers.md) · 1X2: 1.36 / 4.50 / 8.00
+- 15:00 · Segunda Liga · [Vizela – Feirense](informes/2026-11-22_vizela-vs-feirense.md)
+- 15:00 · Taça de Portugal · [GIL Vicente – Olhanense](informes/2026-11-22_gil-vicente-vs-olhanense.md)
+- 15:00 · Taça de Portugal · [Vianense – Rio Ave](informes/2026-11-22_vianense-vs-rio-ave.md)
+- 15:00 · Taça de Portugal · [Vitória de Sernache – Lusitânia Lourosa](informes/2026-11-22_vitoria-de-sernache-vs-lusitania-lourosa.md)
+- 15:30 · Bundesliga · [FC Augsburg – FSV Mainz 05](informes/2026-11-22_fc-augsburg-vs-fsv-mainz-05.md) · 1X2: 2.62 / 3.80 / 2.35
+- 16:00 · Taça de Portugal · [Farense – Fátima](informes/2026-11-22_farense-vs-fatima.md)
+- 16:15 · LaLiga · [Racing Santander – Real Sociedad](informes/2026-11-22_racing-santander-vs-real-sociedad.md) · 1X2: 3.10 / 3.80 / 2.10
+- 16:15 · Segunda División · [Sporting Gijon – Las Palmas](informes/2026-11-22_sporting-gijon-vs-las-palmas.md)
+- 16:30 · Liga I · [Uta Arad – Universitatea Craiova](informes/2026-11-22_uta-arad-vs-universitatea-craiova.md)
+- 16:45 · Eredivisie · [GO Ahead Eagles – Fortuna Sittard](informes/2026-11-22_go-ahead-eagles-vs-fortuna-sittard.md) · 1X2: 1.70 / 4.10 / 4.10
+- 17:00 · Liga F · [Granad. Tenerife W – Madrid CFF W](informes/2026-11-22_granad-tenerife-w-vs-madrid-cff-w.md)
+- 17:15 · Ligue 1 · [Lorient – Rennes](informes/2026-11-22_lorient-vs-rennes.md) · 1X2: 2.80 / 3.50 / 2.25
+- 17:30 · Premier League · [Liverpool – Manchester United](informes/2026-11-22_liverpool-vs-manchester-united.md) · 1X2: 1.83 / 3.90 / 4.00
+- 17:30 · Bundesliga · [Werder Bremen – Hamburger SV](informes/2026-11-22_werder-bremen-vs-hamburger-sv.md) · 1X2: 1.65 / 4.00 / 4.50
+- 17:30 · Serie C · [Desenzano Calvina – Albinoleffe](informes/2026-11-22_desenzano-calvina-vs-albinoleffe.md)
+- 17:30 · Serie C · [Dolomiti Bellunesi – Athletic Carpi](informes/2026-11-22_dolomiti-bellunesi-vs-athletic-carpi.md)
+- 18:00 · Serie A · [AC Milan – Frosinone](informes/2026-11-22_ac-milan-vs-frosinone.md) · 1X2: 1.50 / 4.33 / 5.50
+- 18:30 · LaLiga · [Osasuna – Malaga](informes/2026-11-22_osasuna-vs-malaga.md) · 1X2: 1.75 / 3.60 / 4.75
+- 18:30 · Segunda División · [Girona – Eibar](informes/2026-11-22_girona-vs-eibar.md)
+- 18:30 · Segunda División · [Celta de Vigo II – Valladolid](informes/2026-11-22_celta-de-vigo-ii-vs-valladolid.md)
+- 19:00 · Liga F · [Barcelona W – Athletic Club W](informes/2026-11-22_barcelona-w-vs-athletic-club-w.md)
+- 19:00 · Taça de Portugal · [Estrela – Portimonense](informes/2026-11-22_estrela-vs-portimonense.md)
+- 19:30 · Liga I · [Arges Pitesti – FCSB](informes/2026-11-22_arges-pitesti-vs-fcsb.md)

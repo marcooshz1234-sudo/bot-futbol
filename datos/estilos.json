@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14 08:07",
+ "generado": "2026-11-14 19:53",
  "estilos": {
   "datos-rachas": {
    "nota": 0.925,
@@ -38,9 +38,9 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.558,
+   "nota": 2.671,
    "posts_threads": 17,
-   "resultados": 7,
+   "resultados": 6,
    "verdes": 2
   },
   "combi-liga": {
@@ -74,9 +74,9 @@
    "verdes": 0
   },
   "combi-partido-1550171": {
-   "nota": 0.91,
+   "nota": 1.035,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1550172": {
@@ -104,7 +104,7 @@
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 1.519,
+   "nota": 1.481,
    "posts_threads": 0,
    "resultados": 6,
    "verdes": 1

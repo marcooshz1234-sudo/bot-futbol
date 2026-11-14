@@ -1,16 +1,16 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **9.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
@@ -161,9 +161,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 26% | 31% | 29% | 2.90 | -17% |
-| 1X2: X | 25% | 28% | 26% | 3.20 | -15% |
+| 1X2: X | 25% | 28% | 27% | 3.20 | -15% |
 | 1X2: 1 | 49% | 41% | 45% | 2.20 | -1% |
-| Doble oportunidad: X2 | 51% | 60% | 55% | 1.57 | -13% |
+| Doble oportunidad: X2 | 51% | 60% | 56% | 1.57 | -13% |
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 74% | 69% | 72% | 1.36 | -3% |
 | Ambos marcan: No | 47% | 50% | 48% | 1.83 | -11% |
@@ -179,9 +179,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles del local: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del local: Más de 1.5 | 48% | 39% | 43% | 2.38 | +3% |
+| Goles del local: Más de 1.5 | 47% | 39% | 43% | 2.38 | +3% |
 | Goles del local: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -18% |
-| Goles del local: Menos de 1.5 | 52% | 61% | 57% | 1.53 | -13% |
+| Goles del local: Menos de 1.5 | 53% | 61% | 57% | 1.53 | -13% |
 | Goles del visitante: Más de 0.5 | 67% | 66% | 66% | 1.40 | -7% |
 | Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 34% | 2.75 | -8% |

@@ -1,7 +1,7 @@
 # Nice – Paris Saint Germain
 **Ligue 1** · Regular Season - 11 · 21/11/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:01_
@@ -205,13 +205,13 @@ _Goles esperados: local 1,04 · visitante 2,62 · córners esperados 9,0._
 | Goles más/menos: Menos de 4.5 | 69% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 23% | 4.00 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 22% | 4.00 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -5% |
-| Goles del local: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 78% | 1.22 | -5% |
+| Goles del local: Más de 0.5 | 65% | 66% | 65% | 1.40 | -8% |
 | Goles del local: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles del local: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -5% |
+| Goles del local: Menos de 0.5 | 35% | 34% | 35% | 2.75 | -5% |
 | Goles del local: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles del visitante: Más de 1.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles del visitante: Más de 2.5 | 49% | 44% | 47% | 2.10 | -2% |

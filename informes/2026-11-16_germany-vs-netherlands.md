@@ -1,51 +1,61 @@
 # Germany – Netherlands
 **Nations League** · League A - 6 · 16/11/2026 20:45 (hora España) · Olympiastadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:08_
+_Actualizadas: 14/11 19:50_
 
-- **1X2:** 1 **1.80**  ·  X **4.00**  ·  2 **3.80**
-- **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **1.95**
-- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **1X2:** 1 **1.85**  ·  X **4.00**  ·  2 **3.80**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.22**  ·  X2 **1.91**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **1.91** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **6.00** · menos **1.12**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
-- **Goles del local:**
-    - 0,5: más **1.11** · menos **6.50**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.50** · menos **1.11**
-- **Goles del visitante:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.50**  ·  2 **4.00**
+- **Córners más/menos:**
+    - 9,5: más **2.00** · menos **1.73**
+- **1X2 descanso:** 1 **2.38**  ·  X **2.60**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
-- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
-- **To Win Either Half:** 1 **1.44**  ·  2 **2.20**
-- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **3.75**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **To Win Either Half:** 1 **1.44**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **2.25**  ·  2 **3.40**
 - **Win Both Halves:** 1 **5.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **19.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.25**
-- **Home Player Shots:** Florian Wirtz - 1 **1.04**  ·  Florian Wirtz - 2 **1.25**  ·  Florian Wirtz - 3 **1.73**  ·  Florian Wirtz - 4 **2.62**  ·  Florian Wirtz - 5 **4.50**  ·  Florian Wirtz - 6 **10.00**  ·  Lennart Karl - 1 **1.10**  ·  Nathaniel Brown - 1 **1.53**  ·  Aleksandar Pavlovic - 1 **1.62**  ·  Joshua Kimmich - 1 **1.33**  ·  Jonathan Tah - 1 **2.25**  ·  Maximilian Mittelstadt - 1 **1.53**  ·  Finn Jeltsch - 1 **1.73**  ·  Lennart Karl - 2 **1.44**  ·  Nathaniel Brown - 2 **3.40**  ·  Aleksandar Pavlovic - 2 **3.75**  ·  Joshua Kimmich - 2 **2.38**  ·  Jonathan Tah - 2 **8.00**  ·  Maximilian Mittelstadt - 2 **3.40**  ·  Finn Jeltsch - 2 **4.33**  ·  Lennart Karl - 3 **2.25**  ·  Nathaniel Brown - 3 **9.00**  ·  Aleksandar Pavlovic - 3 **11.00**  ·  Joshua Kimmich - 3 **5.50**  ·  Jonathan Tah - 3 **21.00**  ·  Maximilian Mittelstadt - 3 **9.00**  ·  Finn Jeltsch - 3 **13.00**  ·  Lennart Karl - 4 **4.00**  ·  Nathaniel Brown - 4 **21.00**  ·  Aleksandar Pavlovic - 4 **21.00**  ·  Joshua Kimmich - 4 **13.00**  ·  Maximilian Mittelstadt - 4 **21.00**  ·  Lennart Karl - 5 **9.00**  ·  Lennart Karl - 6 **17.00**  ·  Felix Nmecha - 1 **1.20**  ·  Felix Nmecha - 2 **1.83**  ·  Felix Nmecha - 3 **3.75**  ·  Felix Nmecha - 4 **8.00**  ·  Felix Nmecha - 5 **19.00**  ·  Derry Scherhant - 1 **1.07**  ·  Niclas Fullkrug - 1 **1.02**  ·  Philipp Treu - 1 **1.44**  ·  Derry Scherhant - 2 **1.40**  ·  Niclas Fullkrug - 2 **1.12**  ·  Philipp Treu - 2 **3.00**  ·  Derry Scherhant - 3 **2.10**  ·  Niclas Fullkrug - 3 **1.40**  ·  Philipp Treu - 3 **8.00**  ·  Derry Scherhant - 4 **3.75**  ·  Niclas Fullkrug - 4 **2.00**  ·  Philipp Treu - 4 **19.00**  ·  Derry Scherhant - 5 **7.00**  ·  Niclas Fullkrug - 5 **3.25**  ·  Derry Scherhant - 6 **15.00**  ·  Niclas Fullkrug - 6 **5.50**  ·  Said El Mala - 1 **1.06**  ·  Said El Mala - 2 **1.30**  ·  Said El Mala - 3 **1.91**  ·  Said El Mala - 4 **3.25**  ·  Said El Mala - 5 **6.00**  ·  Said El Mala - 6 **13.00**  ·  Said El Mala - 7 **21.00**  ·  Brajan Gruda - 1 **1.07**  ·  Ridle Baku - 1 **1.33**  ·  Wael Mohya - 1 **1.07**  ·  Brajan Gruda - 2 **1.40**  ·  Ridle Baku - 2 **2.38**  ·  Wael Mohya - 2 **1.36**  ·  Brajan Gruda - 3 **2.10**  ·  Ridle Baku - 3 **5.50**  ·  Wael Mohya - 3 **2.10**  ·  Brajan Gruda - 4 **3.75**  ·  Ridle Baku - 4 **13.00**  ·  Wael Mohya - 4 **3.75**  ·  Brajan Gruda - 5 **7.00**  ·  Wael Mohya - 5 **7.00**  ·  Brajan Gruda - 6 **15.00**  ·  Brajan Gruda - 7 **21.00**  ·  Younes Ebnoutalib - 1 **1.02**  ·  Younes Ebnoutalib - 2 **1.12**  ·  Younes Ebnoutalib - 3 **1.40**  ·  Younes Ebnoutalib - 4 **2.00**  ·  Younes Ebnoutalib - 5 **3.25**  ·  Younes Ebnoutalib - 6 **5.50**  ·  Younes Ebnoutalib - 7 **10.00**  ·  Malick Thiaw - 1 **2.25**  ·  Malick Thiaw - 2 **8.00**  ·  Malick Thiaw - 3 **21.00**  ·  Kai Havertz - 1 **1.02**  ·  Kai Havertz - 2 **1.12**  ·  Kai Havertz - 3 **1.40**  ·  Kai Havertz - 4 **2.00**  ·  Kai Havertz - 5 **3.25**  ·  Kai Havertz - 6 **5.50**  ·  Kai Havertz - 7 **10.00**  ·  Florian Wirtz - 7 **19.00**  ·  Derry Scherhant - 7 **21.00**  ·  Wael Mohya - 6 **15.00**  ·  Niclas Fullkrug - 7 **10.00**  ·  Niclas Fullkrug - 8 **19.00**  ·  Tom Bischof - 1 **1.25**  ·  Tom Bischof - 2 **2.10**  ·  Tom Bischof - 3 **4.33**  ·  Tom Bischof - 4 **10.00**  ·  Tom Bischof - 5 **21.00**  ·  Kai Havertz - 8 **19.00**  ·  Nico Schlotterbeck - 1 **1.83**  ·  Nico Schlotterbeck - 2 **5.00**  ·  Nico Schlotterbeck - 3 **15.00**  ·  Younes Ebnoutalib - 8 **19.00**  ·  Wael Mohya - 7 **21.00**
-- **Away Player Shots:** Justin Kluivert - 1 **1.20**  ·  Justin Kluivert - 2 **1.83**  ·  Justin Kluivert - 3 **3.75**  ·  Justin Kluivert - 4 **8.00**  ·  Justin Kluivert - 5 **19.00**  ·  Cody Gakpo - 1 **1.06**  ·  Cody Gakpo - 2 **1.33**  ·  Cody Gakpo - 3 **1.91**  ·  Cody Gakpo - 4 **3.40**  ·  Cody Gakpo - 5 **6.00**  ·  Cody Gakpo - 6 **13.00**  ·  Cody Gakpo - 7 **21.00**  ·  Gjivai Zechiel - 1 **1.62**  ·  Gjivai Zechiel - 2 **3.75**  ·  Gjivai Zechiel - 3 **11.00**  ·  Gjivai Zechiel - 4 **21.00**  ·  Joey Veerman - 1 **1.73**  ·  Joey Veerman - 2 **4.33**  ·  Joey Veerman - 3 **13.00**  ·  Quinten Timber - 1 **1.67**  ·  Quinten Timber - 2 **3.75**  ·  Quinten Timber - 3 **11.00**  ·  Quinten Timber - 4 **21.00**  ·  Tijjani Reijnders - 1 **1.20**  ·  Tijjani Reijnders - 2 **1.83**  ·  Tijjani Reijnders - 3 **3.50**  ·  Tijjani Reijnders - 4 **8.00**  ·  Tijjani Reijnders - 5 **17.00**  ·  Frenkie de Jong - 1 **1.83**  ·  Frenkie de Jong - 2 **5.00**  ·  Frenkie de Jong - 3 **15.00**  ·  Denzel Dumfries - 1 **1.62**  ·  Denzel Dumfries - 2 **3.75**  ·  Denzel Dumfries - 3 **11.00**  ·  Denzel Dumfries - 4 **21.00**  ·  Micky van de Ven - 1 **2.50**  ·  Jan Paul van Hecke - 1 **2.25**  ·  Micky van de Ven - 2 **9.00**  ·  Jan Paul van Hecke - 2 **8.00**  ·  Micky van de Ven - 3 **21.00**  ·  Jan Paul van Hecke - 3 **21.00**  ·  Ian Maatsen - 1 **2.25**  ·  Ian Maatsen - 2 **8.00**  ·  Ian Maatsen - 3 **21.00**  ·  Brian Brobbey - 1 **1.06**  ·  Brian Brobbey - 2 **1.33**  ·  Brian Brobbey - 3 **1.91**  ·  Brian Brobbey - 4 **3.40**  ·  Brian Brobbey - 5 **6.00**  ·  Brian Brobbey - 6 **13.00**  ·  Brian Brobbey - 7 **21.00**  ·  Noa Lang - 1 **1.25**  ·  Noa Lang - 2 **2.10**  ·  Noa Lang - 3 **4.33**  ·  Noa Lang - 4 **10.00**  ·  Noa Lang - 5 **21.00**  ·  Teun Koopmeiners - 1 **1.25**  ·  Teun Koopmeiners - 2 **2.10**  ·  Teun Koopmeiners - 3 **4.33**  ·  Teun Koopmeiners - 4 **10.00**  ·  Teun Koopmeiners - 5 **21.00**  ·  Donyell Malen - 2 **1.33**  ·  Donyell Malen - 3 **1.91**  ·  Donyell Malen - 4 **3.40**  ·  Donyell Malen - 5 **6.00**  ·  Donyell Malen - 6 **13.00**  ·  Donyell Malen - 7 **21.00**  ·  Donyell Malen - 1 **1.06**  ·  Mexx Meerdink - 3 **2.10**  ·  Mexx Meerdink - 4 **3.75**  ·  Mexx Meerdink - 5 **7.00**  ·  Mexx Meerdink - 6 **15.00**  ·  Mexx Meerdink - 7 **21.00**  ·  Mexx Meerdink - 1 **1.07**  ·  Mexx Meerdink - 2 **1.40**  ·  Guus Til - 1 **1.14**  ·  Ruben van Bommel - 1 **1.20**  ·  Guus Til - 2 **1.62**  ·  Ruben van Bommel - 2 **1.83**  ·  Guus Til - 3 **2.75**  ·  Ruben van Bommel - 3 **3.75**  ·  Guus Til - 4 **5.50**  ·  Ruben van Bommel - 4 **8.00**  ·  Guus Til - 5 **13.00**  ·  Ruben van Bommel - 5 **19.00**  ·  Guus Til - 6 **21.00**  ·  Lutsharel Geertruida - 1 **1.83**  ·  Lutsharel Geertruida - 2 **5.00**  ·  Lutsharel Geertruida - 3 **15.00**  ·  Crysencio Summerville - 1 **1.14**  ·  Crysencio Summerville - 2 **1.62**  ·  Crysencio Summerville - 3 **2.75**  ·  Crysencio Summerville - 4 **5.50**  ·  Crysencio Summerville - 5 **13.00**  ·  Crysencio Summerville - 6 **21.00**  ·  Jurrien Timber - 1 **2.50**  ·  Jurrien Timber - 2 **9.00**  ·  Jurrien Timber - 3 **21.00**
-- **Anytime Goal Scorer:** Lennart Karl **3.75**  ·  Quinten Timber **11.00**  ·  Guus Til **4.33**  ·  Maximilian Mittelstadt **7.50**  ·  Brian Brobbey **3.25**  ·  Said El Mala **3.20**  ·  Wael Mohya **3.50**  ·  Derry Scherhant **3.50**  ·  Niclas Fullkrug **2.25**  ·  Noa Lang **5.50**  ·  Jurrien Timber **17.00**  ·  Joey Veerman **9.50**  ·  Finn Jeltsch **9.50**  ·  Mexx Meerdink **3.50**  ·  Ruben van Bommel **5.00**  ·  Cody Gakpo **3.25**  ·  Justin Kluivert **5.00**  ·  Kai Havertz **2.25**  ·  Jan Paul van Hecke **13.00**  ·  Gjivai Zechiel **8.50**  ·  Crysencio Summerville **4.33**  ·  Micky Van de Ven **17.00**  ·  Malick Thiaw **13.00**  ·  Tijjani Reijnders **5.50**  ·  Tom Bischof **5.50**  ·  Brajan Gruda **3.50**  ·  Aleksandar Pavlovic **8.50**  ·  Joshua Kimmich **6.00**  ·  Nathaniel Brown **7.50**  ·  Frenkie De Jong **11.00**  ·  Lutsharel Geertruida **11.00**  ·  Ian Maatsen **13.00**  ·  Teun Koopmeiners **5.50**  ·  Denzel Dumfries **9.50**  ·  Philipp Treu **8.50**  ·  Florian Wirtz **2.88**  ·  Jonathan Tah **13.00**  ·  Ridle Baku **6.00**  ·  Donyell Malen **3.25**  ·  Felix Nmecha **5.00**  ·  Nico Schlotterbeck **11.00**  ·  Younes Ebnoutalib **2.25**
-- **Player to Score or Assist:** Lennart Karl **2.38**  ·  Quinten Timber **4.75**  ·  Guus Til **2.88**  ·  Maximilian Mittelstadt **3.10**  ·  Brian Brobbey **2.50**  ·  Said El Mala **1.95**  ·  Wael Mohya **2.25**  ·  Derry Scherhant **2.10**  ·  Niclas Fullkrug **1.67**  ·  Noa Lang **2.88**  ·  Jurrien Timber **6.50**  ·  Joey Veerman **3.25**  ·  Finn Jeltsch **5.50**  ·  Mexx Meerdink **2.62**  ·  Ruben van Bommel **2.75**  ·  Cody Gakpo **2.30**  ·  Justin Kluivert **3.10**  ·  Kai Havertz **1.73**  ·  Jan Paul van Hecke **8.50**  ·  Gjivai Zechiel **3.20**  ·  Crysencio Summerville **2.62**  ·  Micky Van de Ven **8.00**  ·  Malick Thiaw **8.50**  ·  Tijjani Reijnders **3.00**  ·  Tom Bischof **2.75**  ·  Brajan Gruda **2.10**  ·  Aleksandar Pavlovic **4.50**  ·  Joshua Kimmich **2.40**  ·  Nathaniel Brown **3.40**  ·  Frenkie De Jong **5.00**  ·  Lutsharel Geertruida **7.00**  ·  Ian Maatsen **4.33**  ·  Teun Koopmeiners **3.00**  ·  Denzel Dumfries **3.60**  ·  Philipp Treu **4.33**  ·  Florian Wirtz **1.80**  ·  Jonathan Tah **8.50**  ·  Ridle Baku **2.88**  ·  Donyell Malen **2.40**  ·  Felix Nmecha **3.00**  ·  Nico Schlotterbeck **6.00**  ·  Younes Ebnoutalib **1.91**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.50**  ·  Home/No **4.33**  ·  Draw/No **21.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.75**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.80** · menos **1.91**
+- **Away Player Shots On Target Total:** Lennart Karl **19.00**  ·  Quinten Timber **67.00**  ·  Guus Til **19.00**  ·  Maximilian Mittelstadt **67.00**  ·  Brian Brobbey **12.00**  ·  Said El Mala **29.00**  ·  Wael Mohya **29.00**  ·  Derry Scherhant **17.00**  ·  Niclas Fullkrug **9.00**  ·  Noa Lang **51.00**  ·  Jurrien Timber **21.00**  ·  Joey Veerman **81.00**  ·  Finn Jeltsch **21.00**  ·  Mexx Meerdink **15.00**  ·  Ruben van Bommel **34.00**  ·  Cody Gakpo **15.00**  ·  Justin Kluivert **81.00**  ·  Kai Havertz **7.50**  ·  Jan Paul van Hecke **19.00**  ·  Gjivai Zechiel **41.00**  ·  Crysencio Summerville **34.00**  ·  Micky Van de Ven **21.00**  ·  Malick Thiaw **21.00**  ·  Tijjani Reijnders **41.00**  ·  Tom Bischof **51.00**  ·  Brajan Gruda **19.00**  ·  Aleksandar Pavlovic **81.00**  ·  Joshua Kimmich **41.00**  ·  Nathaniel Brown **81.00**  ·  Frenkie De Jong **101.00**  ·  Lutsharel Geertruida **23.00**  ·  Ian Maatsen **126.00**  ·  Teun Koopmeiners **51.00**  ·  Denzel Dumfries **21.00**  ·  Philipp Treu **81.00**  ·  Florian Wirtz **13.00**  ·  Jonathan Tah **19.00**  ·  Ridle Baku **34.00**  ·  Donyell Malen **21.00**  ·  Felix Nmecha **21.00**  ·  Nico Schlotterbeck **17.00**  ·  Younes Ebnoutalib **15.00**
+- **Home Player Shots:** Florian Wirtz - 1 **1.04**  ·  Florian Wirtz - 2 **1.22**  ·  Florian Wirtz - 3 **1.67**  ·  Florian Wirtz - 4 **2.62**  ·  Florian Wirtz - 5 **4.33**  ·  Florian Wirtz - 6 **9.00**  ·  Lennart Karl - 1 **1.08**  ·  Nathaniel Brown - 1 **1.44**  ·  Aleksandar Pavlovic - 1 **1.57**  ·  Joshua Kimmich - 1 **1.33**  ·  Jonathan Tah - 1 **2.00**  ·  Maximilian Mittelstadt - 1 **1.44**  ·  Finn Jeltsch - 1 **1.80**  ·  Lennart Karl - 2 **1.40**  ·  Nathaniel Brown - 2 **3.00**  ·  Aleksandar Pavlovic - 2 **3.50**  ·  Joshua Kimmich - 2 **2.38**  ·  Jonathan Tah - 2 **5.50**  ·  Maximilian Mittelstadt - 2 **3.00**  ·  Finn Jeltsch - 2 **4.33**  ·  Lennart Karl - 3 **2.20**  ·  Nathaniel Brown - 3 **7.00**  ·  Aleksandar Pavlovic - 3 **10.00**  ·  Joshua Kimmich - 3 **5.50**  ·  Jonathan Tah - 3 **17.00**  ·  Maximilian Mittelstadt - 3 **7.00**  ·  Finn Jeltsch - 3 **13.00**  ·  Lennart Karl - 4 **3.75**  ·  Nathaniel Brown - 4 **19.00**  ·  Aleksandar Pavlovic - 4 **21.00**  ·  Joshua Kimmich - 4 **13.00**  ·  Maximilian Mittelstadt - 4 **19.00**  ·  Lennart Karl - 5 **8.00**  ·  Lennart Karl - 6 **15.00**  ·  Felix Nmecha - 1 **1.18**  ·  Felix Nmecha - 2 **1.80**  ·  Felix Nmecha - 3 **3.40**  ·  Felix Nmecha - 4 **7.00**  ·  Felix Nmecha - 5 **15.00**  ·  Derry Scherhant - 1 **1.06**  ·  Niclas Fullkrug - 1 **1.02**  ·  Philipp Treu - 1 **1.44**  ·  Derry Scherhant - 2 **1.33**  ·  Niclas Fullkrug - 2 **1.14**  ·  Philipp Treu - 2 **2.75**  ·  Derry Scherhant - 3 **1.91**  ·  Niclas Fullkrug - 3 **1.44**  ·  Philipp Treu - 3 **7.00**  ·  Derry Scherhant - 4 **3.40**  ·  Niclas Fullkrug - 4 **2.00**  ·  Philipp Treu - 4 **17.00**  ·  Derry Scherhant - 5 **6.00**  ·  Niclas Fullkrug - 5 **3.40**  ·  Derry Scherhant - 6 **13.00**  ·  Niclas Fullkrug - 6 **5.50**  ·  Said El Mala - 1 **1.05**  ·  Said El Mala - 2 **1.28**  ·  Said El Mala - 3 **1.80**  ·  Said El Mala - 4 **3.00**  ·  Said El Mala - 5 **5.50**  ·  Said El Mala - 6 **11.00**  ·  Said El Mala - 7 **19.00**  ·  Brajan Gruda - 1 **1.06**  ·  Ridle Baku - 1 **1.33**  ·  Wael Mohya - 1 **1.06**  ·  Brajan Gruda - 2 **1.33**  ·  Ridle Baku - 2 **2.38**  ·  Wael Mohya - 2 **1.33**  ·  Brajan Gruda - 3 **1.91**  ·  Ridle Baku - 3 **5.50**  ·  Wael Mohya - 3 **1.91**  ·  Brajan Gruda - 4 **3.40**  ·  Ridle Baku - 4 **13.00**  ·  Wael Mohya - 4 **3.25**  ·  Brajan Gruda - 5 **6.00**  ·  Wael Mohya - 5 **6.00**  ·  Brajan Gruda - 6 **13.00**  ·  Brajan Gruda - 7 **21.00**  ·  Younes Ebnoutalib - 1 **1.02**  ·  Younes Ebnoutalib - 2 **1.14**  ·  Younes Ebnoutalib - 3 **1.44**  ·  Younes Ebnoutalib - 4 **2.00**  ·  Younes Ebnoutalib - 5 **3.40**  ·  Younes Ebnoutalib - 6 **5.50**  ·  Younes Ebnoutalib - 7 **11.00**  ·  Malick Thiaw - 1 **2.00**  ·  Malick Thiaw - 2 **5.50**  ·  Malick Thiaw - 3 **17.00**  ·  Kai Havertz - 1 **1.02**  ·  Kai Havertz - 2 **1.14**  ·  Kai Havertz - 3 **1.44**  ·  Kai Havertz - 4 **2.00**  ·  Kai Havertz - 5 **3.40**  ·  Kai Havertz - 6 **5.50**  ·  Kai Havertz - 7 **11.00**  ·  Florian Wirtz - 7 **17.00**  ·  Derry Scherhant - 7 **21.00**  ·  Wael Mohya - 6 **13.00**  ·  Niclas Fullkrug - 7 **11.00**  ·  Niclas Fullkrug - 8 **19.00**  ·  Tom Bischof - 1 **1.25**  ·  Tom Bischof - 2 **2.10**  ·  Tom Bischof - 3 **4.33**  ·  Tom Bischof - 4 **10.00**  ·  Tom Bischof - 5 **21.00**  ·  Kai Havertz - 8 **19.00**  ·  Nico Schlotterbeck - 1 **1.80**  ·  Nico Schlotterbeck - 2 **4.33**  ·  Nico Schlotterbeck - 3 **13.00**  ·  Younes Ebnoutalib - 8 **19.00**  ·  Wael Mohya - 7 **21.00**
+- **Away Player Shots:** Justin Kluivert - 1 **1.18**  ·  Justin Kluivert - 2 **1.80**  ·  Justin Kluivert - 3 **3.40**  ·  Justin Kluivert - 4 **7.00**  ·  Justin Kluivert - 5 **15.00**  ·  Cody Gakpo - 1 **1.05**  ·  Cody Gakpo - 2 **1.28**  ·  Cody Gakpo - 3 **1.80**  ·  Cody Gakpo - 4 **3.00**  ·  Cody Gakpo - 5 **5.50**  ·  Cody Gakpo - 6 **11.00**  ·  Cody Gakpo - 7 **19.00**  ·  Gjivai Zechiel - 1 **1.44**  ·  Gjivai Zechiel - 2 **3.00**  ·  Gjivai Zechiel - 3 **7.00**  ·  Gjivai Zechiel - 4 **19.00**  ·  Joey Veerman - 1 **1.67**  ·  Joey Veerman - 2 **4.00**  ·  Joey Veerman - 3 **11.00**  ·  Quinten Timber - 1 **1.57**  ·  Quinten Timber - 2 **3.50**  ·  Quinten Timber - 3 **10.00**  ·  Quinten Timber - 4 **21.00**  ·  Tijjani Reijnders - 1 **1.04**  ·  Tijjani Reijnders - 2 **1.22**  ·  Tijjani Reijnders - 3 **1.67**  ·  Tijjani Reijnders - 4 **2.62**  ·  Tijjani Reijnders - 5 **4.33**  ·  Tijjani Reijnders - 6 **9.00**  ·  Tijjani Reijnders - 7 **17.00**  ·  Frenkie de Jong - 1 **1.80**  ·  Frenkie de Jong - 2 **4.33**  ·  Frenkie de Jong - 3 **13.00**  ·  Denzel Dumfries - 1 **1.57**  ·  Denzel Dumfries - 2 **3.50**  ·  Denzel Dumfries - 3 **10.00**  ·  Denzel Dumfries - 4 **21.00**  ·  Micky van de Ven - 1 **2.38**  ·  Jan Paul van Hecke - 1 **2.00**  ·  Micky van de Ven - 2 **8.00**  ·  Jan Paul van Hecke - 2 **5.50**  ·  Micky van de Ven - 3 **21.00**  ·  Jan Paul van Hecke - 3 **17.00**  ·  Ian Maatsen - 1 **2.00**  ·  Ian Maatsen - 2 **5.50**  ·  Ian Maatsen - 3 **17.00**  ·  Brian Brobbey - 1 **1.05**  ·  Brian Brobbey - 2 **1.28**  ·  Brian Brobbey - 3 **1.80**  ·  Brian Brobbey - 4 **3.00**  ·  Brian Brobbey - 5 **5.50**  ·  Brian Brobbey - 6 **11.00**  ·  Brian Brobbey - 7 **19.00**  ·  Noa Lang - 1 **1.25**  ·  Noa Lang - 2 **2.10**  ·  Noa Lang - 3 **4.33**  ·  Noa Lang - 4 **10.00**  ·  Noa Lang - 5 **21.00**  ·  Teun Koopmeiners - 1 **1.25**  ·  Teun Koopmeiners - 2 **2.10**  ·  Teun Koopmeiners - 3 **4.33**  ·  Teun Koopmeiners - 4 **10.00**  ·  Teun Koopmeiners - 5 **21.00**  ·  Donyell Malen - 2 **1.22**  ·  Donyell Malen - 3 **1.67**  ·  Donyell Malen - 4 **2.62**  ·  Donyell Malen - 5 **4.50**  ·  Donyell Malen - 6 **9.00**  ·  Donyell Malen - 7 **17.00**  ·  Donyell Malen - 1 **1.04**  ·  Mexx Meerdink - 3 **1.83**  ·  Mexx Meerdink - 4 **3.00**  ·  Mexx Meerdink - 5 **5.50**  ·  Mexx Meerdink - 6 **11.00**  ·  Mexx Meerdink - 7 **21.00**  ·  Mexx Meerdink - 1 **1.05**  ·  Mexx Meerdink - 2 **1.30**  ·  Guus Til - 1 **1.10**  ·  Ruben van Bommel - 1 **1.11**  ·  Guus Til - 2 **1.44**  ·  Ruben van Bommel - 2 **1.53**  ·  Guus Til - 3 **2.25**  ·  Ruben van Bommel - 3 **2.50**  ·  Guus Til - 4 **4.00**  ·  Ruben van Bommel - 4 **4.50**  ·  Guus Til - 5 **9.00**  ·  Ruben van Bommel - 5 **10.00**  ·  Guus Til - 6 **17.00**  ·  Ruben van Bommel - 6 **21.00**  ·  Lutsharel Geertruida - 1 **1.80**  ·  Lutsharel Geertruida - 2 **4.33**  ·  Lutsharel Geertruida - 3 **13.00**  ·  Crysencio Summerville - 1 **1.07**  ·  Crysencio Summerville - 2 **1.40**  ·  Crysencio Summerville - 3 **2.10**  ·  Crysencio Summerville - 4 **3.75**  ·  Crysencio Summerville - 5 **7.00**  ·  Crysencio Summerville - 6 **15.00**  ·  Crysencio Summerville - 7 **21.00**  ·  Jurrien Timber - 1 **1.80**  ·  Jurrien Timber - 2 **4.33**  ·  Jurrien Timber - 3 **13.00**
+- **Anytime Goal Scorer:** Lennart Karl **3.60**  ·  Quinten Timber **10.00**  ·  Guus Til **3.75**  ·  Maximilian Mittelstadt **7.00**  ·  Brian Brobbey **3.00**  ·  Said El Mala **3.00**  ·  Wael Mohya **3.25**  ·  Derry Scherhant **3.25**  ·  Niclas Fullkrug **2.30**  ·  Noa Lang **5.50**  ·  Jurrien Timber **10.00**  ·  Joey Veerman **9.00**  ·  Finn Jeltsch **10.00**  ·  Mexx Meerdink **3.20**  ·  Ruben van Bommel **4.00**  ·  Cody Gakpo **3.00**  ·  Justin Kluivert **4.75**  ·  Kai Havertz **2.30**  ·  Jan Paul van Hecke **12.00**  ·  Gjivai Zechiel **7.00**  ·  Crysencio Summerville **3.75**  ·  Micky Van de Ven **15.00**  ·  Malick Thiaw **12.00**  ·  Tijjani Reijnders **3.25**  ·  Tom Bischof **5.50**  ·  Brajan Gruda **3.25**  ·  Aleksandar Pavlovic **8.00**  ·  Joshua Kimmich **6.00**  ·  Nathaniel Brown **7.00**  ·  Frenkie De Jong **10.00**  ·  Lutsharel Geertruida **10.00**  ·  Ian Maatsen **12.00**  ·  Teun Koopmeiners **5.50**  ·  Denzel Dumfries **9.00**  ·  Philipp Treu **8.00**  ·  Florian Wirtz **2.75**  ·  Jonathan Tah **12.00**  ·  Ridle Baku **6.00**  ·  Donyell Malen **2.75**  ·  Felix Nmecha **4.75**  ·  Nico Schlotterbeck **10.00**  ·  Younes Ebnoutalib **2.30**
+- **Player to Score or Assist:** Lennart Karl **2.30**  ·  Quinten Timber **4.50**  ·  Guus Til **2.62**  ·  Maximilian Mittelstadt **3.00**  ·  Brian Brobbey **2.30**  ·  Said El Mala **1.91**  ·  Wael Mohya **2.20**  ·  Derry Scherhant **2.10**  ·  Niclas Fullkrug **1.67**  ·  Noa Lang **2.75**  ·  Jurrien Timber **5.00**  ·  Joey Veerman **3.10**  ·  Finn Jeltsch **6.00**  ·  Mexx Meerdink **2.50**  ·  Ruben van Bommel **2.50**  ·  Cody Gakpo **2.10**  ·  Justin Kluivert **2.88**  ·  Kai Havertz **1.80**  ·  Jan Paul van Hecke **8.00**  ·  Gjivai Zechiel **2.88**  ·  Crysencio Summerville **2.40**  ·  Micky Van de Ven **7.50**  ·  Malick Thiaw **8.50**  ·  Tijjani Reijnders **2.25**  ·  Tom Bischof **2.75**  ·  Brajan Gruda **2.05**  ·  Aleksandar Pavlovic **4.33**  ·  Joshua Kimmich **2.38**  ·  Nathaniel Brown **3.25**  ·  Frenkie De Jong **4.75**  ·  Lutsharel Geertruida **6.50**  ·  Ian Maatsen **4.00**  ·  Teun Koopmeiners **2.88**  ·  Denzel Dumfries **3.40**  ·  Philipp Treu **4.00**  ·  Florian Wirtz **1.73**  ·  Jonathan Tah **8.50**  ·  Ridle Baku **2.88**  ·  Donyell Malen **2.10**  ·  Felix Nmecha **2.88**  ·  Nico Schlotterbeck **6.00**  ·  Younes Ebnoutalib **1.95**
 
 ## Estadísticas de equipo
 | | Germany (total) | Germany en casa | Netherlands (total) | Netherlands fuera |
@@ -178,40 +188,44 @@ _Sin bajas comunicadas por ahora._
 | J. Zirkzee | F | 2 | 65 | 1 | 0 | 2 | 1,0 | 2 | 1,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,44 · córners esperados 9,8._
+_Goles esperados: local 1,22 · visitante 1,44 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 25% | 33% | 3.80 | +27% |
-| 1X2: X | 26% | 23% | 25% | 4.00 | -2% |
-| 1X2: 1 | 32% | 52% | 42% | 1.80 | -24% |
-| Doble oportunidad: X2 | 68% | 48% | 58% | 1.95 | +13% |
-| Doble oportunidad: 12 | 74% | 77% | 76% | 1.22 | -8% |
-| Doble oportunidad: 1X | 58% | 75% | 67% | 1.25 | -17% |
-| Ambos marcan: No | 46% | 38% | 42% | 2.50 | +5% |
-| Ambos marcan: Sí | 54% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 2.5 | 50% | 62% | 56% | 1.50 | -16% |
-| Goles más/menos: Más de 3.5 | 28% | 42% | 35% | 2.20 | -23% |
-| Goles más/menos: Más de 4.5 | 13% | 25% | 19% | 3.75 | -28% |
-| Goles más/menos: Menos de 2.5 | 50% | 38% | 44% | 2.50 | +10% |
-| Goles más/menos: Menos de 3.5 | 72% | 58% | 65% | 1.62 | +5% |
-| Goles más/menos: Menos de 4.5 | 87% | 75% | 81% | 1.25 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 42% | 37% | 2.20 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 25% | 28% | 3.75 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 58% | 63% | 1.62 | +1% |
-| Goles del local: Más de 1.5 | 35% | 58% | 46% | 1.62 | -25% |
-| Goles del local: Más de 2.5 | 13% | 34% | 23% | 2.75 | -36% |
-| Goles del local: Menos de 1.5 | 65% | 42% | 54% | 2.20 | +19% |
-| Goles del local: Menos de 2.5 | 87% | 66% | 77% | 1.40 | +8% |
-| Goles del visitante: Más de 0.5 | 76% | 72% | 74% | 1.30 | -3% |
-| Goles del visitante: Más de 1.5 | 42% | 38% | 40% | 2.50 | -1% |
-| Goles del visitante: Menos de 0.5 | 24% | 28% | 26% | 3.40 | -13% |
-| Goles del visitante: Menos de 1.5 | 58% | 62% | 60% | 1.50 | -10% |
-| 1X2 descanso: 2 | 32% | 23% | 27% | 4.00 | +9% |
-| 1X2 descanso: X | 43% | 37% | 40% | 2.50 | -1% |
-| 1X2 descanso: 1 | 26% | 40% | 33% | 2.30 | -24% |
+| 1X2: 2 | 42% | 25% | 34% | 3.80 | +27% |
+| 1X2: X | 26% | 24% | 25% | 4.00 | -1% |
+| 1X2: 1 | 32% | 51% | 42% | 1.85 | -23% |
+| Doble oportunidad: X2 | 68% | 49% | 58% | 1.91 | +11% |
+| Doble oportunidad: 12 | 74% | 76% | 75% | 1.22 | -8% |
+| Doble oportunidad: 1X | 58% | 75% | 66% | 1.25 | -17% |
+| Ambos marcan: No | 46% | 34% | 40% | 2.75 | +10% |
+| Ambos marcan: Sí | 54% | 66% | 60% | 1.40 | -16% |
+| Goles más/menos: Más de 2.5 | 50% | 67% | 59% | 1.40 | -18% |
+| Goles más/menos: Más de 3.5 | 28% | 49% | 38% | 1.91 | -27% |
+| Goles más/menos: Más de 4.5 | 13% | 28% | 20% | 3.40 | -31% |
+| Goles más/menos: Menos de 2.5 | 50% | 33% | 41% | 2.88 | +20% |
+| Goles más/menos: Menos de 3.5 | 72% | 51% | 62% | 1.80 | +11% |
+| Goles más/menos: Menos de 4.5 | 87% | 72% | 80% | 1.30 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 32% | 46% | 39% | 2.00 | -21% |
+| Goles 1ª parte más/menos: Más de 2.5 | 11% | 22% | 16% | 4.33 | -29% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +9% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 54% | 61% | 1.73 | +5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 78% | 84% | 1.20 | +0% |
+| Goles del local: Más de 1.5 | 35% | 61% | 48% | 1.53 | -27% |
+| Goles del local: Más de 2.5 | 13% | 35% | 24% | 2.62 | -37% |
+| Goles del local: Menos de 1.5 | 65% | 39% | 52% | 2.38 | +24% |
+| Goles del local: Menos de 2.5 | 87% | 65% | 76% | 1.44 | +9% |
+| Goles del visitante: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
+| Goles del visitante: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
+| Goles del visitante: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
+| Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -6% |
+| Córners más/menos: Más de 9.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Córners más/menos: Menos de 9.5 | 52% | 54% | 53% | 1.73 | -8% |
+| 1X2 descanso: 2 | 32% | 25% | 28% | 3.75 | +6% |
+| 1X2 descanso: X | 43% | 36% | 39% | 2.60 | +2% |
+| 1X2 descanso: 1 | 26% | 39% | 32% | 2.38 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

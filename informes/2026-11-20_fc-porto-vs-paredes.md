@@ -1,7 +1,7 @@
 # FC Porto – Paredes
 **Taça de Portugal** · Round of 32 · 20/11/2026 21:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

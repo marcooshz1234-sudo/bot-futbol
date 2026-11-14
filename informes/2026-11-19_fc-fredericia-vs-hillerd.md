@@ -1,10 +1,10 @@
 # FC Fredericia – Hillerød
 **1. Division** · Regular Season - 15 · 19/11/2026 19:00 (hora España) · Monjasa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 08:23_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **1.30**  ·  X **5.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.12**  ·  X2 **3.25**
@@ -145,7 +145,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 14% | 14% | 14% | 6.50 | -11% |
+| 1X2: 2 | 14% | 14% | 14% | 6.50 | -10% |
 | 1X2: X | 23% | 16% | 20% | 5.50 | +8% |
 | 1X2: 1 | 63% | 70% | 67% | 1.30 | -14% |
 | Doble oportunidad: X2 | 37% | 29% | 33% | 3.25 | +7% |
@@ -162,7 +162,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 78% | 71% | 1.20 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 23% | 16% | 4.00 | -36% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 22% | 29% | 4.33 | +23% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 22% | 29% | 4.33 | +24% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 77% | 84% | 1.22 | +2% |
 | Goles del local: Más de 1.5 | 52% | 72% | 62% | 1.30 | -19% |

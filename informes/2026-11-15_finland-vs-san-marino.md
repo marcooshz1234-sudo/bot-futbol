@@ -1,10 +1,50 @@
 # Finland – San Marino
 **Nations League** · League C - 6 · 15/11/2026 18:00 (hora España) · Bolt Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 14/11 19:50_
+
+- **1X2:** 1 **1.04**  ·  X **15.00**  ·  2 **41.00**
+- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
+- **Goles más/menos:**
+    - 1,5: más **1.06** · menos **8.00**
+    - 2,5: más **1.25** · menos **3.75**
+    - 3,5: más **1.62** · menos **2.20**
+    - 4,5: más **2.38** · menos **1.53**
+    - 5,5: más **3.75** · menos **1.25**
+    - 6,5: más **6.50** · menos **1.10**
+    - 7,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.14** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **6.50** · menos **1.10**
+- **Goles del local:**
+    - 1,5: más **1.10** · menos **6.50**
+    - 2,5: más **1.33** · menos **3.25**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **4.50** · menos **1.17**
+    - 6,5: más **7.50** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **3.50** · menos **1.28**
+- **1X2 descanso:** 1 **1.20**  ·  X **4.33**  ·  2 **26.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
+- **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
+- **To Win Either Half:** 1 **1.02**  ·  2 **15.00**
+- **To Score In Both Halves By Teams:** 1 **1.33**  ·  2 **29.00**
+- **Win Both Halves:** 1 **1.50**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **19.00**  ·  Away/Yes **51.00**  ·  Home/No **1.33**  ·  Draw/No **26.00**  ·  Away/No **51.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **1.73**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **4.33**
+- **Anytime Goal Scorer:** Lorenzo Capicchioni **29.00**  ·  Oliver Antman **1.83**  ·  Benjamin Kallman **1.57**  ·  Joel Pohjanpalo **1.36**  ·  Fredrik Jensen **1.95**  ·  Topi Keskinen **1.95**  ·  Anssi Suhonen **4.00**  ·  Leo Walta **1.73**  ·  Adam Stahl **4.75**  ·  Miro Tenho **5.00**  ·  Robert Ivanov **6.00**  ·  Fausto Salicioni **11.00**  ·  Ville Koski **6.00**  ·  Gabriel Capicchioni **13.00**  ·  Nicola Nanni **9.00**  ·  Nicolas Giacopetti **11.00**  ·  Lorenzo Lazzari **13.00**  ·  Andrea Contadini **21.00**  ·  Samuele Zannoni **21.00**  ·  Alessandro Golinucci **21.00**  ·  Marcello Mularoni **29.00**  ·  Filippo Fabbri **34.00**  ·  Simone Giocondi **21.00**  ·  Alessandro Tosi **51.00**  ·  Giacomo Benvenuti **51.00**  ·  Marco Pasolini **51.00**  ·  Tommaso Benvenuti **51.00**  ·  Dante Rossi **51.00**  ·  Cristian Meloni **21.00**  ·  Luka Hyrylainen **3.60**  ·  Onni Valakari **2.30**  ·  Tony Miettinen **5.00**  ·  Santeri Vaananen **4.75**  ·  Samuel Pancotti **13.00**  ·  Adrian Svanback **1.62**  ·  Kaan Kairinen **3.60**  ·  Adam Markhiyev **3.40**  ·  Pietro Marinucci **34.00**  ·  Bartolomeo Riggioni **34.00**  ·  Enea Della Balda **17.00**  ·  Giulio Maria Bugli **34.00**  ·  Daniel Hakans **1.95**  ·  Naatan Skytta **1.83**  ·  Ryan Mahuta **5.00**  ·  Juho Lahteenmaki **6.00**
 
 ## Estadísticas de equipo
 | | Finland (total) | Finland en casa | San Marino (total) | San Marino fuera |
@@ -134,6 +174,40 @@ _Sin bajas comunicadas por ahora._
 | A. Golinucci | M | 3 | 119 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 1 | 0,3 | 1 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,39 · visitante 0,48 · córners esperados 9,1._
+_Goles esperados: local 3,38 · visitante 0,48 · córners esperados 9,1._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 3% | 2% | 2% | 41.00 | +2% |
+| 1X2: X | 7% | 6% | 7% | 15.00 | +1% |
+| 1X2: 1 | 90% | 91% | 91% | 1.04 | -6% |
+| Ambos marcan: No | 63% | 73% | 68% | 1.28 | -13% |
+| Ambos marcan: Sí | 37% | 27% | 32% | 3.50 | +12% |
+| Goles más/menos: Más de 2.5 | 74% | 75% | 75% | 1.25 | -7% |
+| Goles más/menos: Más de 3.5 | 54% | 58% | 56% | 1.62 | -10% |
+| Goles más/menos: Más de 4.5 | 34% | 39% | 37% | 2.38 | -12% |
+| Goles más/menos: Más de 5.5 | 19% | 25% | 22% | 3.75 | -17% |
+| Goles más/menos: Menos de 2.5 | 26% | 25% | 25% | 3.75 | -5% |
+| Goles más/menos: Menos de 3.5 | 46% | 42% | 44% | 2.20 | -3% |
+| Goles más/menos: Menos de 4.5 | 66% | 61% | 63% | 1.53 | -3% |
+| Goles más/menos: Menos de 5.5 | 81% | 75% | 78% | 1.25 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 28% | 26% | 3.40 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 72% | 74% | 1.30 | -4% |
+| Goles del local: Más de 2.5 | 66% | 71% | 68% | 1.33 | -9% |
+| Goles del local: Más de 3.5 | 44% | 50% | 47% | 1.83 | -14% |
+| Goles del local: Más de 4.5 | 25% | 34% | 29% | 2.75 | -19% |
+| Goles del local: Más de 5.5 | 13% | 21% | 17% | 4.50 | -25% |
+| Goles del local: Menos de 2.5 | 34% | 29% | 32% | 3.25 | +3% |
+| Goles del local: Menos de 3.5 | 56% | 50% | 53% | 1.83 | -3% |
+| Goles del local: Menos de 4.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles del local: Menos de 5.5 | 87% | 79% | 83% | 1.17 | -3% |
+| Goles del visitante: Más de 0.5 | 38% | 27% | 33% | 3.50 | +14% |
+| Goles del visitante: Menos de 0.5 | 62% | 73% | 67% | 1.28 | -14% |
+| 1X2 descanso: X | 25% | 21% | 23% | 4.33 | -1% |
+| 1X2 descanso: 1 | 70% | 76% | 73% | 1.20 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,12 +1,12 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España) · Estádio Municipal de Portimão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
-- **1X2:** 1 **2.15**  ·  X **3.10**  ·  2 **3.10**
+- **1X2:** 1 **2.20**  ·  X **3.10**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.62**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
@@ -17,7 +17,7 @@ _Actualizadas: 14/11 02:07_
     - 4,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
+    - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.28** · menos **3.50**
@@ -30,23 +30,23 @@ _Actualizadas: 14/11 02:07_
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.02** · menos **1.78**
-- **Córners 1X2:** 1 **2.10**  ·  X **8.00**  ·  2 **1.95**
-- **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **4.00**
+- **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.10**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.10**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.67**  ·  2 **2.10**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.73**  ·  2 **2.00**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
 - **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.75**  ·  Draw/No **8.50**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **9.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
-    - 4,5: más **1.80** · menos **1.91**
-- **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
 
 ## Estadísticas de equipo
@@ -181,10 +181,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 41% | 29% | 35% | 3.10 | +9% |
+| 1X2: 2 | 41% | 30% | 36% | 3.00 | +7% |
 | 1X2: X | 30% | 29% | 29% | 3.10 | -9% |
-| 1X2: 1 | 29% | 42% | 36% | 2.15 | -24% |
-| Doble oportunidad: X2 | 71% | 58% | 64% | 1.62 | +4% |
+| 1X2: 1 | 29% | 41% | 35% | 2.20 | -23% |
+| Doble oportunidad: X2 | 71% | 58% | 65% | 1.62 | +5% |
 | Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 59% | 71% | 65% | 1.33 | -14% |
 | Ambos marcan: No | 58% | 50% | 54% | 1.83 | -1% |
@@ -196,21 +196,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 65% | 55% | 60% | 1.73 | +4% |
 | Goles más/menos: Menos de 3.5 | 84% | 75% | 80% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 29% | 26% | 3.25 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -18% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 71% | 74% | 1.33 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del local: Más de 0.5 | 61% | 73% | 67% | 1.28 | -14% |
-| Goles del local: Más de 1.5 | 24% | 41% | 33% | 2.25 | -27% |
+| Goles del local: Más de 1.5 | 24% | 41% | 32% | 2.25 | -27% |
 | Goles del local: Menos de 0.5 | 39% | 27% | 33% | 3.50 | +16% |
-| Goles del local: Menos de 1.5 | 76% | 59% | 67% | 1.57 | +6% |
+| Goles del local: Menos de 1.5 | 76% | 59% | 68% | 1.57 | +6% |
 | Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 32% | 29% | 31% | 3.25 | -0% |
 | Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
 | Goles del visitante: Menos de 1.5 | 68% | 71% | 69% | 1.33 | -8% |
 | Córners más/menos: Más de 9.5 | 27% | 54% | 40% | 1.73 | -30% |
 | Córners más/menos: Menos de 9.5 | 73% | 46% | 60% | 2.00 | +19% |
-| 1X2 descanso: 2 | 29% | 23% | 26% | 4.00 | +5% |
+| 1X2 descanso: 2 | 29% | 25% | 27% | 3.75 | +1% |
 | 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |
-| 1X2 descanso: 1 | 22% | 32% | 27% | 2.88 | -22% |
+| 1X2 descanso: 1 | 22% | 31% | 27% | 3.00 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

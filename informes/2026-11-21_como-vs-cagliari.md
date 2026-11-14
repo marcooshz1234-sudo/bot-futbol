@@ -1,7 +1,7 @@
 # Como – Cagliari
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -181,7 +181,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | R. Ciervo | F | 3 | 114 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,18 · visitante 0,68 · córners esperados 9,7._
+_Goles esperados: local 2,17 · visitante 0,68 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -190,12 +190,12 @@ _Goles esperados: local 2,18 · visitante 0,68 · córners esperados 9,7._
 | 1X2: 1 | 72% | 70% | 71% | 1.33 | -6% |
 | Doble oportunidad: X2 | 28% | 30% | 29% | 3.25 | -6% |
 | Doble oportunidad: 12 | 82% | 81% | 82% | 1.18 | -4% |
-| Doble oportunidad: 1X | 90% | 89% | 89% | 1.08 | -3% |
+| Doble oportunidad: 1X | 90% | 89% | 89% | 1.08 | -4% |
 | Ambos marcan: No | 56% | 50% | 53% | 1.91 | +1% |
 | Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -10% |
 | Goles más/menos: Más de 2.5 | 54% | 60% | 57% | 1.57 | -10% |
 | Goles más/menos: Más de 3.5 | 32% | 38% | 35% | 2.50 | -12% |
-| Goles más/menos: Más de 4.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles más/menos: Más de 4.5 | 16% | 22% | 19% | 4.33 | -18% |
 | Goles más/menos: Menos de 2.5 | 46% | 40% | 43% | 2.38 | +2% |
 | Goles más/menos: Menos de 3.5 | 68% | 62% | 65% | 1.53 | -1% |
 | Goles más/menos: Menos de 4.5 | 84% | 78% | 81% | 1.22 | -1% |
@@ -213,7 +213,7 @@ _Goles esperados: local 2,18 · visitante 0,68 · córners esperados 9,7._
 | Goles del visitante: Más de 1.5 | 15% | 21% | 18% | 4.50 | -20% |
 | Goles del visitante: Menos de 0.5 | 51% | 44% | 47% | 2.10 | -0% |
 | Goles del visitante: Menos de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
-| 1X2 descanso: X | 37% | 36% | 37% | 2.62 | -4% |
+| 1X2 descanso: X | 38% | 36% | 37% | 2.62 | -4% |
 | 1X2 descanso: 1 | 51% | 52% | 52% | 1.80 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

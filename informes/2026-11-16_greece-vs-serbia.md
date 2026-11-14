@@ -1,28 +1,58 @@
 # Greece – Serbia
 **Nations League** · League A - 6 · 16/11/2026 20:45 (hora España) · Panthessaliko Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:08_
+_Actualizadas: 14/11 19:50_
 
-- **1X2:** 1 **1.42**  ·  X **4.75**  ·  2 **6.00**
-- **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.75**
+- **1X2:** 1 **1.45**  ·  X **4.75**  ·  2 **6.50**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.33**
     - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **11.00** · menos **1.05**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.36**  ·  X **9.00**  ·  2 **3.60**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.50**  ·  2 **6.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.25**  ·  2 **3.40**
-- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **8.00**
-- **Win Both Halves:** 1 **3.40**  ·  2 **29.00**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **6.00**  ·  Away/Yes **11.00**  ·  Home/No **2.38**  ·  Draw/No **15.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.60**
+- **To Score In Both Halves By Teams:** 1 **2.20**  ·  2 **7.00**
+- **Win Both Halves:** 1 **3.50**  ·  2 **26.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **6.00**  ·  Away/Yes **12.00**  ·  Home/No **2.50**  ·  Draw/No **13.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.62**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 3,5: más **2.00** · menos **1.73**
+- **ShotOnTarget 1x2:** 1 **1.33**  ·  X **8.50**  ·  2 **4.33**
+- **Shots.1x2:** 1 **1.22**  ·  X **17.00**  ·  2 **4.33**
 
 ## Estadísticas de equipo
 | | Greece (total) | Greece en casa | Serbia (total) | Serbia fuera |
@@ -156,12 +186,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 15% | 20% | 6.00 | +22% |
-| 1X2: X | 27% | 19% | 23% | 4.75 | +9% |
-| 1X2: 1 | 48% | 65% | 57% | 1.42 | -20% |
-| Doble oportunidad: X2 | 52% | 35% | 43% | 2.75 | +19% |
-| Doble oportunidad: 12 | 73% | 81% | 77% | 1.18 | -9% |
-| Doble oportunidad: 1X | 75% | 85% | 80% | 1.12 | -11% |
+| 1X2: 2 | 25% | 15% | 20% | 6.50 | +30% |
+| 1X2: X | 27% | 20% | 23% | 4.75 | +10% |
+| 1X2: 1 | 48% | 65% | 57% | 1.45 | -18% |
+| Doble oportunidad: X2 | 52% | 36% | 44% | 2.62 | +15% |
+| Doble oportunidad: 12 | 73% | 80% | 77% | 1.18 | -10% |
+| Doble oportunidad: 1X | 75% | 85% | 80% | 1.11 | -12% |
 | Ambos marcan: No | 52% | 50% | 51% | 1.83 | -6% |
 | Ambos marcan: Sí | 48% | 50% | 49% | 1.83 | -11% |
 | Goles más/menos: Más de 1.5 | 70% | 78% | 74% | 1.20 | -11% |
@@ -170,7 +200,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 30% | 22% | 26% | 4.33 | +13% |
 | Goles más/menos: Menos de 2.5 | 56% | 44% | 50% | 2.15 | +8% |
 | Goles más/menos: Menos de 3.5 | 77% | 65% | 71% | 1.44 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 72% | 69% | 1.30 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
+| Goles del local: Más de 1.5 | 43% | 62% | 53% | 1.50 | -21% |
+| Goles del local: Más de 2.5 | 18% | 35% | 27% | 2.62 | -30% |
+| Goles del local: Menos de 1.5 | 57% | 38% | 47% | 2.50 | +19% |
+| Goles del local: Menos de 2.5 | 82% | 65% | 73% | 1.44 | +6% |
+| Goles del visitante: Más de 0.5 | 62% | 56% | 59% | 1.67 | -2% |
+| Goles del visitante: Más de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
+| Goles del visitante: Menos de 0.5 | 38% | 44% | 41% | 2.10 | -14% |
+| Goles del visitante: Menos de 1.5 | 75% | 78% | 76% | 1.20 | -8% |
+| Córners más/menos: Más de 9.5 | 40% | 49% | 44% | 1.91 | -15% |
+| Córners más/menos: Menos de 9.5 | 60% | 51% | 56% | 1.80 | +0% |
 | 1X2 descanso: X | 45% | 37% | 41% | 2.50 | +2% |
-| 1X2 descanso: 1 | 35% | 49% | 42% | 1.91 | -21% |
+| 1X2 descanso: 1 | 34% | 49% | 42% | 1.91 | -21% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

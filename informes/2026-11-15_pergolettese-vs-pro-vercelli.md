@@ -1,10 +1,10 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **2.15**  ·  X **3.20**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.57**
@@ -30,6 +30,7 @@ _Actualizadas: 14/11 02:07_
     - 2,5: más **6.50** · menos **1.10**
 - **Córners más/menos:**
     - 7,5: más **1.67** · menos **2.10**
+    - 8: más **1.90** · menos **1.90**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.10**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -43,8 +44,7 @@ _Actualizadas: 14/11 02:07_
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.38**
-- **Total Corners (1st Half):**
-    - 3,5: más **1.80** · menos **2.00**
+- **Total Corners (1st Half):** Más de 3.5 **1.80**  ·  Menos de 3.5 **2.00**  ·  Exactamente 4 **5.00**  ·  Más de 4 **2.75**  ·  Menos de 4 **1.95**
 
 ## Estadísticas de equipo
 | | Pergolettese (total) | Pergolettese en casa | PRO Vercelli (total) | PRO Vercelli fuera |
@@ -139,7 +139,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,55 · visitante 0,93._
+_Goles esperados: local 1,53 · visitante 0,92._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -147,27 +147,27 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 23% | 30% | 26% | 3.00 | -21% |
 | 1X2: X | 26% | 28% | 27% | 3.20 | -14% |
-| 1X2: 1 | 52% | 42% | 47% | 2.15 | +1% |
-| Doble oportunidad: X2 | 48% | 58% | 53% | 1.57 | -16% |
+| 1X2: 1 | 51% | 42% | 47% | 2.15 | +0% |
+| Doble oportunidad: X2 | 49% | 58% | 53% | 1.57 | -16% |
 | Doble oportunidad: 12 | 74% | 71% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 77% | 70% | 74% | 1.30 | -4% |
-| Ambos marcan: No | 52% | 49% | 50% | 1.91 | -4% |
-| Ambos marcan: Sí | 48% | 51% | 50% | 1.80 | -11% |
-| Goles más/menos: Más de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 2.5 | 45% | 49% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 3.5 | 24% | 28% | 26% | 3.40 | -13% |
-| Goles más/menos: Menos de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 2.5 | 55% | 51% | 53% | 1.85 | -2% |
-| Goles más/menos: Menos de 3.5 | 76% | 72% | 74% | 1.30 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 32% | 2.75 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 68% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 1.5 | 46% | 42% | 44% | 2.20 | -3% |
-| Goles del local: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles del local: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles del local: Menos de 1.5 | 54% | 58% | 56% | 1.62 | -9% |
+| Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
+| Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
+| Goles más/menos: Más de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
+| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
+| Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles más/menos: Menos de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
+| Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
+| Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del local: Más de 0.5 | 78% | 75% | 77% | 1.25 | -4% |
+| Goles del local: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
+| Goles del local: Más de 2.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles del local: Menos de 0.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles del local: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
 | Goles del local: Menos de 2.5 | 80% | 79% | 80% | 1.17 | -7% |
 | Goles del visitante: Más de 0.5 | 60% | 66% | 63% | 1.40 | -11% |
 | Goles del visitante: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |

@@ -1,7 +1,7 @@
 # Sevilla – Real Betis
 **LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:01_
@@ -197,18 +197,18 @@ _Goles esperados: local 1,39 · visitante 1,41 · córners esperados 8,9._
 | Goles más/menos: Menos de 1.5 | 23% | 22% | 23% | 4.33 | -2% |
 | Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -3% |
 | Goles más/menos: Menos de 3.5 | 69% | 66% | 67% | 1.44 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
 | Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del local: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |
+| Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -8% |
 | Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles del local: Menos de 1.5 | 59% | 59% | 59% | 1.57 | -7% |
-| Goles del visitante: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
+| Goles del local: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
+| Goles del visitante: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
 | Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del visitante: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
+| Goles del visitante: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -4% |
 | Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
 | Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | 1X2 descanso: 2 | 29% | 32% | 31% | 2.88 | -11% |

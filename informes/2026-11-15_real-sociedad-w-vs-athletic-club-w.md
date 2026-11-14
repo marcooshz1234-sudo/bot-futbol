@@ -1,15 +1,16 @@
 # Real Sociedad W – Athletic Club W
 **Liga F** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Instalaciones de Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:49_
 
-- **1X2:** 1 **1.80**  ·  X **3.50**  ·  2 **3.60**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **1.83**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **1X2:** 1 **2.00**  ·  X **3.40**  ·  2 **3.10**
+- **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **1.91**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.85** · menos **1.95**
     - 3,5: más **3.25** · menos **1.33**
@@ -17,25 +18,34 @@ _Actualizadas: 14/11 02:07_
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
+    - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.17** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **7.50** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **8.00** · menos **1.06**
 - **Córners más/menos:**
+    - 8: más **1.80** · menos **2.00**
     - 8,5: más **2.00** · menos **1.73**
-- **1X2 descanso:** 1 **2.50**  ·  X **2.20**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.57**  ·  2 **2.10**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **4.50**
-- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **11.00**  ·  Away/No **6.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
-- **Total Corners (1st Half):**
-    - 3,5: más **1.75** · menos **2.05**
+- **To Win Either Half:** 1 **1.44**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **5.50**
+- **Win Both Halves:** 1 **5.00**  ·  2 **17.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **11.00**  ·  Away/No **7.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.40**
+- **Total Corners (1st Half):** Más de 3.5 **1.75**  ·  Menos de 3.5 **2.05**  ·  Exactamente 4 **5.00**  ·  Más de 4 **2.60**  ·  Menos de 4 **2.05**
 
 ## Estadísticas de equipo
 | | Real Sociedad W (total) | Real Sociedad W en casa | Athletic Club W (total) | Athletic Club W fuera |
@@ -130,32 +140,41 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,24 · visitante 1,30._
+_Goles esperados: local 1,22 · visitante 1,29._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 25% | 31% | 3.60 | +13% |
-| 1X2: X | 27% | 26% | 26% | 3.50 | -9% |
-| 1X2: 1 | 35% | 50% | 42% | 1.80 | -24% |
-| Doble oportunidad: X2 | 65% | 50% | 57% | 1.83 | +5% |
+| 1X2: 2 | 38% | 29% | 33% | 3.10 | +4% |
+| 1X2: X | 27% | 26% | 27% | 3.40 | -9% |
+| 1X2: 1 | 35% | 45% | 40% | 2.00 | -20% |
+| Doble oportunidad: X2 | 65% | 48% | 56% | 1.91 | +8% |
 | Doble oportunidad: 12 | 73% | 75% | 74% | 1.22 | -10% |
-| Doble oportunidad: 1X | 62% | 75% | 68% | 1.22 | -16% |
-| Ambos marcan: No | 48% | 46% | 47% | 2.00 | -5% |
-| Ambos marcan: Sí | 52% | 54% | 53% | 1.73 | -9% |
-| Goles más/menos: Más de 1.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles más/menos: Más de 2.5 | 47% | 51% | 49% | 1.85 | -9% |
-| Goles más/menos: Más de 3.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles más/menos: Menos de 1.5 | 28% | 27% | 27% | 3.50 | -5% |
-| Goles más/menos: Menos de 2.5 | 53% | 49% | 51% | 1.95 | -1% |
+| Doble oportunidad: 1X | 62% | 77% | 70% | 1.18 | -18% |
+| Ambos marcan: No | 49% | 49% | 49% | 1.91 | -7% |
+| Ambos marcan: Sí | 51% | 51% | 51% | 1.80 | -8% |
+| Goles más/menos: Más de 1.5 | 72% | 73% | 72% | 1.28 | -7% |
+| Goles más/menos: Más de 2.5 | 46% | 51% | 49% | 1.85 | -10% |
+| Goles más/menos: Más de 3.5 | 25% | 29% | 27% | 3.25 | -13% |
+| Goles más/menos: Menos de 1.5 | 28% | 27% | 28% | 3.50 | -3% |
+| Goles más/menos: Menos de 2.5 | 54% | 49% | 51% | 1.95 | +0% |
 | Goles más/menos: Menos de 3.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
-| 1X2 descanso: 2 | 29% | 24% | 26% | 3.75 | -1% |
-| 1X2 descanso: X | 44% | 41% | 42% | 2.20 | -7% |
-| 1X2 descanso: 1 | 27% | 36% | 31% | 2.50 | -21% |
+| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
+| Goles del local: Más de 0.5 | 71% | 79% | 75% | 1.17 | -12% |
+| Goles del local: Más de 1.5 | 35% | 50% | 42% | 1.83 | -23% |
+| Goles del local: Más de 2.5 | 13% | 27% | 20% | 3.50 | -31% |
+| Goles del local: Menos de 0.5 | 29% | 21% | 25% | 4.50 | +13% |
+| Goles del local: Menos de 1.5 | 65% | 50% | 58% | 1.83 | +6% |
+| Goles del local: Menos de 2.5 | 87% | 73% | 80% | 1.28 | +3% |
+| Goles del visitante: Más de 0.5 | 72% | 62% | 67% | 1.50 | +1% |
+| Goles del visitante: Más de 1.5 | 37% | 28% | 32% | 3.40 | +10% |
+| Goles del visitante: Menos de 0.5 | 28% | 38% | 33% | 2.50 | -19% |
+| Goles del visitante: Menos de 1.5 | 63% | 72% | 68% | 1.30 | -12% |
+| 1X2 descanso: X | 44% | 40% | 42% | 2.25 | -5% |
+| 1X2 descanso: 1 | 27% | 40% | 33% | 2.25 | -25% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

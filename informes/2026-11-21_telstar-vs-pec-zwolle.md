@@ -1,7 +1,7 @@
 # Telstar – PEC Zwolle
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:09_
@@ -182,13 +182,13 @@ _Sin bajas comunicadas por ahora._
 | O. Velanas | M | 6 | 124 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,44 · visitante 1,02 · córners esperados 10,0._
+_Goles esperados: local 1,43 · visitante 1,02 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 27% | 28% | 27% | 3.30 | -10% |
+| 1X2: 2 | 27% | 28% | 27% | 3.30 | -9% |
 | 1X2: X | 27% | 25% | 26% | 3.75 | -4% |
 | 1X2: 1 | 47% | 47% | 47% | 1.95 | -8% |
 | Doble oportunidad: X2 | 53% | 53% | 53% | 1.80 | -4% |
@@ -196,10 +196,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 73% | 71% | 72% | 1.33 | -4% |
 | Ambos marcan: No | 51% | 35% | 43% | 2.62 | +14% |
 | Ambos marcan: Sí | 49% | 65% | 57% | 1.44 | -18% |
-| Goles más/menos: Más de 2.5 | 45% | 65% | 55% | 1.44 | -21% |
+| Goles más/menos: Más de 2.5 | 44% | 65% | 55% | 1.44 | -21% |
 | Goles más/menos: Más de 3.5 | 23% | 44% | 34% | 2.10 | -29% |
 | Goles más/menos: Más de 4.5 | 10% | 27% | 19% | 3.50 | -35% |
-| Goles más/menos: Menos de 2.5 | 55% | 35% | 45% | 2.70 | +22% |
+| Goles más/menos: Menos de 2.5 | 56% | 35% | 45% | 2.70 | +22% |
 | Goles más/menos: Menos de 3.5 | 77% | 56% | 66% | 1.67 | +11% |
 | Goles más/menos: Menos de 4.5 | 90% | 73% | 81% | 1.28 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
@@ -209,15 +209,15 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 56% | 63% | 1.67 | +6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 79% | 85% | 1.18 | +0% |
 | Goles del local: Más de 1.5 | 42% | 58% | 50% | 1.62 | -19% |
-| Goles del local: Más de 2.5 | 18% | 31% | 24% | 3.00 | -27% |
+| Goles del local: Más de 2.5 | 17% | 31% | 24% | 3.00 | -27% |
 | Goles del local: Menos de 1.5 | 58% | 42% | 50% | 2.20 | +10% |
-| Goles del local: Menos de 2.5 | 82% | 69% | 76% | 1.36 | +3% |
-| Goles del visitante: Más de 0.5 | 64% | 75% | 69% | 1.25 | -13% |
+| Goles del local: Menos de 2.5 | 83% | 69% | 76% | 1.36 | +3% |
+| Goles del visitante: Más de 0.5 | 64% | 75% | 70% | 1.25 | -13% |
 | Goles del visitante: Más de 1.5 | 27% | 44% | 36% | 2.10 | -25% |
-| Goles del visitante: Menos de 0.5 | 36% | 25% | 31% | 3.75 | +14% |
+| Goles del visitante: Menos de 0.5 | 36% | 25% | 30% | 3.75 | +14% |
 | Goles del visitante: Menos de 1.5 | 73% | 56% | 64% | 1.67 | +7% |
 | 1X2 descanso: 2 | 22% | 26% | 24% | 3.60 | -14% |
-| 1X2 descanso: X | 44% | 37% | 41% | 2.50 | +2% |
-| 1X2 descanso: 1 | 34% | 37% | 35% | 2.50 | -11% |
+| 1X2 descanso: X | 45% | 37% | 41% | 2.50 | +2% |
+| 1X2 descanso: 1 | 34% | 37% | 35% | 2.50 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Trento – Cittadella
 **Serie C** · Girone A - 15 · 20/11/2026 20:30 (hora España) · Stadio Briamasco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Trento (total) | Trento en casa | Cittadella (total) | Cittadella fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 13 | 6 |
-| Forma (últimos 5) | VEVVV | VVVVE | EVDVV | EDVVV |
-| Balance | 7V 6E 0D | 6V 1E 0D | 10V 1E 2D | 4V 1E 1D |
-| Goles a favor / partido | 1,46 | 1,71 | 1,46 | 1,17 |
-| Goles en contra / partido | 0,54 | 0,43 | 0,46 | 0,50 |
-| Goles a favor 1ª parte | 0,69 | 0,57 | 0,54 | 0,50 |
-| Goles a favor 2ª parte | 0,77 | 1,14 | 0,92 | 0,67 |
-| Goles en contra 1ª parte | 0,38 | 0,43 | 0,38 | 0,33 |
-| Goles en contra 2ª parte | 0,15 | 0,00 | 0,08 | 0,17 |
-| Más de 1,5 goles | 54% | 57% | 62% | 50% |
-| Más de 2,5 goles | 54% | 57% | 38% | 33% |
-| Más de 3,5 goles | 23% | 14% | 0% | 0% |
-| Ambos marcan | 38% | 43% | 31% | 33% |
-| Portería a cero | 62% | 57% | 69% | 67% |
-| Se queda sin marcar | 31% | 14% | 8% | 17% |
+| Partidos analizados | 14 | 7 | 13 | 6 |
+| Forma (últimos 5) | VVEVV | VVVVE | EVDVV | EDVVV |
+| Balance | 8V 6E 0D | 6V 1E 0D | 10V 1E 2D | 4V 1E 1D |
+| Goles a favor / partido | 1,50 | 1,71 | 1,46 | 1,17 |
+| Goles en contra / partido | 0,57 | 0,43 | 0,46 | 0,50 |
+| Goles a favor 1ª parte | 0,71 | 0,57 | 0,54 | 0,50 |
+| Goles a favor 2ª parte | 0,79 | 1,14 | 0,92 | 0,67 |
+| Goles en contra 1ª parte | 0,36 | 0,43 | 0,38 | 0,33 |
+| Goles en contra 2ª parte | 0,21 | 0,00 | 0,08 | 0,17 |
+| Más de 1,5 goles | 57% | 57% | 62% | 50% |
+| Más de 2,5 goles | 57% | 57% | 38% | 33% |
+| Más de 3,5 goles | 21% | 14% | 0% | 0% |
+| Ambos marcan | 43% | 43% | 31% | 33% |
+| Portería a cero | 57% | 57% | 69% | 67% |
+| Se queda sin marcar | 29% | 14% | 8% | 17% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 1 | 4 | 0 | 0 |
 | 16-30' | 4 | 1 | 1 | 0 | 3 | 5 |
-| 31-45' | 3 | 3 | 4 | 3 | 2 | 5 |
-| 46-60' | 3 | 0 | 4 | 1 | 0 | 7 |
-| 61-75' | 4 | 1 | 5 | 7 | 1 | 2 |
-| 76-90' | 3 | 1 | 7 | 4 | 0 | 6 |
+| 31-45' | 4 | 3 | 4 | 3 | 2 | 5 |
+| 46-60' | 3 | 0 | 5 | 1 | 0 | 7 |
+| 61-75' | 4 | 2 | 7 | 7 | 1 | 2 |
+| 76-90' | 4 | 1 | 7 | 4 | 0 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -72,12 +72,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Trento
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Serie C | Lumezzane 1-2 Trento | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Serie C | Trento 2-1 Albinoleffe | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Serie C | Ospitaletto 0-0 Trento | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | Serie C | Trento 2-1 Juventus U23 | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-19 | Serie C | Dolomiti Bellunesi 0-3 Trento | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Serie C | Trento 1-0 Folgore Caratese | casa | –-– | – (–) - – (–) | –-– |
-| 2026-10-04 | Serie C | Alcione 2-2 Trento | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Trento
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -98,6 +98,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,61 · visitante 0,63._
+_Goles esperados: local 0,63 · visitante 0,66._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -20,13 +20,17 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.6,
+   "viento_kmh": 2.5,
    "temperatura": 11.1
   },
   "cuotas": {
+   "Home": [
+    2.62,
+    2.4
+   ],
    "Away": [
     2.62,
-    2.88
+    2.9
    ]
   }
  },
@@ -47,8 +51,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 16.2,
-   "temperatura": 3.1
+   "viento_kmh": 15.5,
+   "temperatura": 4.0
   }
  },
  "1573644": {
@@ -72,8 +76,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.0,
-   "temperatura": 12.2
+   "viento_kmh": 8.4,
+   "temperatura": 12.5
   }
  },
  "1573641": {
@@ -96,32 +100,6 @@
    "de": 16
   }
  },
- "1570020": {
-  "local": {
-   "nombre": "Mallorca",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 4,
-   "siguiente_europa": null,
-   "puesto": 6,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Cordoba",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 11,
-   "de": 22
-  },
-  "cuotas": {
-   "Home": [
-    1.67,
-    1.95
-   ]
-  }
- },
  "1528983": {
   "local": {
    "nombre": "Belgium",
@@ -138,9 +116,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 3.2,
-   "viento_kmh": 15.1,
-   "temperatura": 10.2
+   "lluvia_mm": 0.0,
+   "viento_kmh": 22.7,
+   "temperatura": 11.0
   },
   "arbitro": {
    "nombre": "Espen Eskas",
@@ -164,13 +142,19 @@
    "ultimo_europa": null,
    "dias_hasta": 7,
    "siguiente_europa": null,
-   "puesto": 5,
+   "puesto": 6,
    "de": 16
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 28.6,
-   "temperatura": 17.2
+   "viento_kmh": 23.3,
+   "temperatura": 17.7
+  },
+  "cuotas": {
+   "Home": [
+    1.8,
+    2.0
+   ]
   }
  },
  "1576535": {
@@ -193,9 +177,9 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 3.3,
-   "viento_kmh": 20.3,
-   "temperatura": 14.9
+   "lluvia_mm": 2.3,
+   "viento_kmh": 15.3,
+   "temperatura": 15.3
   }
  },
  "1528985": {
@@ -214,9 +198,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 5.8,
-   "temperatura": 7.9
+   "lluvia_mm": 0.2,
+   "viento_kmh": 6.5,
+   "temperatura": 8.2
   }
  },
  "1576530": {
@@ -239,9 +223,9 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 3.3,
-   "viento_kmh": 18.9,
-   "temperatura": 14.7
+   "lluvia_mm": 1.5,
+   "viento_kmh": 14.3,
+   "temperatura": 15.3
   }
  },
  "1528981": {
@@ -260,8 +244,8 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 40.3,
+   "lluvia_mm": 0.1,
+   "viento_kmh": 42.8,
    "temperatura": 8.3
   }
  },
@@ -282,8 +266,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.1,
-   "temperatura": 4.4
+   "viento_kmh": 5.9,
+   "temperatura": 4.9
   }
  },
  "1528979": {
@@ -303,8 +287,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.2,
-   "temperatura": 22.5
+   "viento_kmh": 10.1,
+   "temperatura": 22.2
   },
   "arbitro": {
    "nombre": "Sander van der Eijk",
@@ -329,28 +313,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.1,
-   "temperatura": 3.3
-  }
- },
- "1573642": {
-  "local": {
-   "nombre": "Espanyol W",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 9,
-   "siguiente_europa": null,
-   "puesto": 6,
-   "de": 16
+   "viento_kmh": 3.4,
+   "temperatura": 4.2
   },
-  "visitante": {
-   "nombre": "Granad. Tenerife W",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 7,
-   "de": 16
+  "cuotas": {
+   "Away": [
+    2.0,
+    1.62
+   ]
   }
  },
  "1570016": {
@@ -373,61 +343,9 @@
    "de": 22
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 3.6,
-   "temperatura": 15.4
-  }
- },
- "1573640": {
-  "local": {
-   "nombre": "Deportivo Alavés W",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 15,
-   "de": 16
-  },
-  "visitante": {
-   "nombre": "Eibar W",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 9,
-   "de": 16
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 11.3,
-   "temperatura": 14.1
-  },
-  "cuotas": {
-   "Home": [
-    2.2,
-    2.0
-   ]
-  }
- },
- "1608370": {
-  "local": {
-   "nombre": "Renate",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Desenzano Calvina",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.0,
-   "temperatura": 10.6
+   "lluvia_mm": 0.4,
+   "viento_kmh": 5.8,
+   "temperatura": 14.3
   }
  },
  "1573646": {
@@ -451,7 +369,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.2,
+   "viento_kmh": 5.4,
    "temperatura": 19.8
   }
  },
@@ -473,6 +391,16 @@
    "siguiente_europa": null,
    "puesto": 11,
    "de": 16
+  },
+  "cuotas": {
+   "Home": [
+    2.8,
+    2.55
+   ],
+   "Away": [
+    2.25,
+    2.45
+   ]
   }
  },
  "1608365": {
@@ -492,43 +420,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.8,
-   "temperatura": 9.8
-  }
- },
- "1570022": {
-  "local": {
-   "nombre": "Real Sociedad II",
-   "dias_desde": 4,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 18,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Sporting Gijon",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 7,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 1.4,
-   "viento_kmh": 2.3,
-   "temperatura": 15.9
-  },
-  "cuotas": {
-   "Home": [
-    2.8,
-    2.4
-   ],
-   "Away": [
-    2.35,
-    2.9
-   ]
+   "viento_kmh": 3.1,
+   "temperatura": 10.0
   }
  },
  "1608369": {
@@ -548,33 +441,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.0,
-   "temperatura": 9.4
-  }
- },
- "1570015": {
-  "local": {
-   "nombre": "Almeria",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 9,
-   "siguiente_europa": null,
-   "puesto": 1,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "FC Andorra",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 19,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 12.5,
-   "temperatura": 20.2
+   "viento_kmh": 3.4,
+   "temperatura": 9.3
   }
  },
  "1570023": {
@@ -598,8 +466,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.8,
-   "temperatura": 24.3
+   "viento_kmh": 9.8,
+   "temperatura": 23.9
   }
  },
  "1545616": {
@@ -619,8 +487,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 20.2,
-   "temperatura": 5.8
+   "viento_kmh": 19.4,
+   "temperatura": 5.4
   }
  },
  "1576534": {
@@ -644,8 +512,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.9,
-   "viento_kmh": 9.7,
-   "temperatura": 16.3
+   "viento_kmh": 9.9,
+   "temperatura": 16.4
   }
  },
  "1528975": {
@@ -665,13 +533,17 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 17.3,
-   "temperatura": 10.0
+   "viento_kmh": 19.1,
+   "temperatura": 10.1
   },
   "cuotas": {
    "Home": [
     2.3,
-    2.5
+    2.55
+   ],
+   "Draw": [
+    3.25,
+    2.88
    ]
   }
  },
@@ -696,61 +568,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.8,
-   "temperatura": 16.9
-  }
- },
- "1528973": {
-  "local": {
-   "nombre": "Georgia",
-   "dias_desde": 39,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Hungary",
-   "dias_desde": 39,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 9.9,
-   "temperatura": 14.2
-  },
-  "arbitro": {
-   "nombre": "Ondrej Berka",
-   "partidos": 4,
-   "tarjetas": 4.8
+   "viento_kmh": 5.9,
+   "temperatura": 16.6
   },
   "cuotas": {
-   "Away": [
-    2.25,
-    2.45
+   "Home": [
+    1.67,
+    2.15
    ]
-  }
- },
- "1608363": {
-  "local": {
-   "nombre": "Athletic Carpi",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Giana Erminio",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 5.4,
-   "temperatura": 10.4
   }
  },
  "1576536": {
@@ -774,29 +599,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.8,
-   "temperatura": 18.6
-  }
- },
- "1608366": {
-  "local": {
-   "nombre": "Lumezzane",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 9,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Trento",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 5.4,
-   "temperatura": 4.8
+   "viento_kmh": 6.6,
+   "temperatura": 19.1
   }
  },
  "1570017": {
@@ -820,8 +624,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.6,
-   "temperatura": 19.4
+   "viento_kmh": 4.3,
+   "temperatura": 20.1
+  },
+  "cuotas": {
+   "Home": [
+    2.5,
+    2.3
+   ]
   }
  },
  "1528982": {
@@ -841,8 +651,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 18.0,
-   "temperatura": 13.2
+   "viento_kmh": 11.5,
+   "temperatura": 13.3
   }
  },
  "1608367": {
@@ -862,18 +672,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 2.3,
+   "viento_kmh": 1.1,
    "temperatura": 9.6
-  },
-  "cuotas": {
-   "Home": [
-    2.9,
-    2.62
-   ],
-   "Away": [
-    2.25,
-    2.5
-   ]
   }
  },
  "1576537": {
@@ -896,51 +696,9 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 7.0,
-   "viento_kmh": 10.7,
-   "temperatura": 13.6
-  }
- },
- "1528972": {
-  "local": {
-   "nombre": "Norway",
-   "dias_desde": 40,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Wales",
-   "dias_desde": 40,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 3.2
-  }
- },
- "1608361": {
-  "local": {
-   "nombre": "Albinoleffe",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Union Brescia",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 8.7,
-   "temperatura": 10.8
+   "lluvia_mm": 2.1,
+   "viento_kmh": 11.2,
+   "temperatura": 14.3
   }
  },
  "1573643": {
@@ -964,8 +722,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 15.0,
-   "temperatura": 11.7
+   "viento_kmh": 15.1,
+   "temperatura": 12.7
   },
   "cuotas": {
    "Home": [
@@ -974,7 +732,7 @@
    ],
    "Away": [
     2.9,
-    2.4
+    2.5
    ]
   }
  },
@@ -994,30 +752,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 10.1,
-   "temperatura": 7.7
-  }
- },
- "1528971": {
-  "local": {
-   "nombre": "Kosovo",
-   "dias_desde": 40,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Israel",
-   "dias_desde": 40,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 1.2,
-   "viento_kmh": 11.3,
-   "temperatura": 3.7
+   "lluvia_mm": 0.8,
+   "viento_kmh": 9.7,
+   "temperatura": 7.3
   }
  },
  "1528974": {
@@ -1036,43 +773,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.6,
-   "viento_kmh": 7.7,
-   "temperatura": 13.7
-  }
- },
- "1570024": {
-  "local": {
-   "nombre": "Valladolid",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 12,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Castellón",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 2,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 0.3,
-   "viento_kmh": 17.7,
-   "temperatura": 13.9
+   "lluvia_mm": 1.3,
+   "viento_kmh": 6.9,
+   "temperatura": 14.1
   },
   "cuotas": {
    "Home": [
-    2.55,
-    2.9
-   ],
-   "Away": [
-    2.55,
-    2.3
+    1.45,
+    1.62
    ]
   }
  },
@@ -1093,29 +801,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.8,
-   "temperatura": 9.0
-  }
- },
- "1608362": {
-  "local": {
-   "nombre": "Arzignano Valchiampo",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Alcione",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.0,
-   "temperatura": 10.6
+   "viento_kmh": 3.9,
+   "temperatura": 8.2
   }
  },
  "1528984": {
@@ -1135,8 +822,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.9,
-   "temperatura": 11.7
+   "viento_kmh": 9.0,
+   "temperatura": 12.1
   },
   "arbitro": {
    "nombre": "Clement Turpin",

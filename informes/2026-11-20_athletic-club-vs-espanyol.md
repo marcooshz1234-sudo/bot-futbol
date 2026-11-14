@@ -1,7 +1,7 @@
 # Athletic Club – Espanyol
 **LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:08_
@@ -195,7 +195,7 @@ _Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
 | Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
 | Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
 | Goles más/menos: Menos de 2.5 | 57% | 47% | 52% | 2.00 | +5% |
-| Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +2% |
+| Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +5% |
@@ -207,6 +207,6 @@ _Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
 | Goles del visitante: Más de 0.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -7% |
 | 1X2 descanso: X | 44% | 39% | 42% | 2.38 | -1% |
-| 1X2 descanso: 1 | 41% | 47% | 44% | 2.00 | -13% |
+| 1X2 descanso: 1 | 40% | 47% | 44% | 2.00 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

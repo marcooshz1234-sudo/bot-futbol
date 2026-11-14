@@ -1,16 +1,16 @@
 # Novara – Lecco
 **Serie C** · Girone A - 14 · 15/11/2026 12:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
-- **1X2:** 1 **2.62**  ·  X **3.00**  ·  2 **2.50**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.30**  ·  X2 **1.40**
+- **1X2:** 1 **2.88**  ·  X **3.00**  ·  2 **2.30**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **7.50**
+    - 0,5: más **1.06** · menos **8.00**
     - 1,5: más **1.36** · menos **3.00**
     - 2,5: más **2.15** · menos **1.67**
     - 3,5: más **3.75** · menos **1.25**
@@ -29,20 +29,19 @@ _Actualizadas: 14/11 02:07_
     - 2,5: más **6.00** · menos **1.11**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
-- **1X2 descanso:** 1 **3.25**  ·  X **2.05**  ·  2 **3.20**
+- **1X2 descanso:** 1 **3.50**  ·  X **2.05**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.91**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **4.33**
-- **Win Both Halves:** 1 **10.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.33**  ·  Draw/No **8.00**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
-- **Total Corners (1st Half):**
-    - 4: más **1.90** · menos **1.90**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.80**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **4.00**
+- **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **8.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
 
 ## Estadísticas de equipo
 | | Novara (total) | Novara en casa | Lecco (total) | Lecco fuera |
@@ -137,40 +136,40 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,67 · visitante 1,80._
+_Goles esperados: local 0,66 · visitante 1,77._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 64% | 36% | 50% | 2.50 | +25% |
-| 1X2: X | 22% | 30% | 26% | 3.00 | -22% |
-| 1X2: 1 | 13% | 34% | 24% | 2.62 | -38% |
-| Doble oportunidad: X2 | 87% | 66% | 76% | 1.40 | +7% |
-| Doble oportunidad: 12 | 78% | 71% | 74% | 1.30 | -3% |
-| Doble oportunidad: 1X | 36% | 64% | 50% | 1.44 | -29% |
-| Ambos marcan: No | 59% | 50% | 55% | 1.83 | -0% |
-| Ambos marcan: Sí | 41% | 50% | 45% | 1.83 | -17% |
-| Goles más/menos: Más de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
-| Goles más/menos: Más de 2.5 | 45% | 44% | 44% | 2.15 | -5% |
-| Goles más/menos: Más de 3.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles más/menos: Menos de 1.5 | 29% | 31% | 30% | 3.00 | -9% |
-| Goles más/menos: Menos de 2.5 | 55% | 56% | 56% | 1.67 | -7% |
-| Goles más/menos: Menos de 3.5 | 76% | 75% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 65% | 65% | 1.44 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 35% | 35% | 2.62 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles del local: Más de 0.5 | 49% | 69% | 59% | 1.36 | -20% |
-| Goles del local: Más de 1.5 | 15% | 34% | 24% | 2.75 | -33% |
-| Goles del local: Menos de 0.5 | 51% | 31% | 41% | 3.00 | +23% |
-| Goles del local: Menos de 1.5 | 85% | 66% | 76% | 1.40 | +6% |
-| Goles del visitante: Más de 0.5 | 84% | 71% | 77% | 1.33 | +3% |
-| Goles del visitante: Más de 1.5 | 54% | 35% | 45% | 2.62 | +17% |
-| Goles del visitante: Menos de 0.5 | 16% | 29% | 23% | 3.25 | -26% |
-| Goles del visitante: Menos de 1.5 | 46% | 65% | 55% | 1.44 | -20% |
-| 1X2 descanso: 2 | 45% | 28% | 37% | 3.20 | +17% |
-| 1X2 descanso: X | 42% | 44% | 43% | 2.05 | -12% |
-| 1X2 descanso: 1 | 13% | 28% | 20% | 3.25 | -34% |
+| 1X2: 2 | 64% | 39% | 52% | 2.30 | +19% |
+| 1X2: X | 22% | 30% | 26% | 3.00 | -21% |
+| 1X2: 1 | 13% | 31% | 22% | 2.88 | -36% |
+| Doble oportunidad: X2 | 87% | 69% | 78% | 1.33 | +3% |
+| Doble oportunidad: 12 | 78% | 70% | 74% | 1.30 | -4% |
+| Doble oportunidad: 1X | 36% | 61% | 48% | 1.50 | -27% |
+| Ambos marcan: No | 60% | 50% | 55% | 1.83 | +1% |
+| Ambos marcan: Sí | 40% | 50% | 45% | 1.83 | -18% |
+| Goles más/menos: Más de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
+| Goles más/menos: Más de 2.5 | 44% | 44% | 44% | 2.15 | -6% |
+| Goles más/menos: Más de 3.5 | 23% | 25% | 24% | 3.75 | -10% |
+| Goles más/menos: Menos de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
+| Goles más/menos: Menos de 2.5 | 56% | 56% | 56% | 1.67 | -6% |
+| Goles más/menos: Menos de 3.5 | 77% | 75% | 76% | 1.25 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 65% | 65% | 1.44 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 29% | 29% | 3.25 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 71% | 71% | 1.33 | -5% |
+| Goles del local: Más de 0.5 | 48% | 69% | 59% | 1.36 | -20% |
+| Goles del local: Más de 1.5 | 14% | 34% | 24% | 2.75 | -34% |
+| Goles del local: Menos de 0.5 | 52% | 31% | 41% | 3.00 | +24% |
+| Goles del local: Menos de 1.5 | 86% | 66% | 76% | 1.40 | +6% |
+| Goles del visitante: Más de 0.5 | 83% | 71% | 77% | 1.33 | +2% |
+| Goles del visitante: Más de 1.5 | 53% | 35% | 44% | 2.62 | +16% |
+| Goles del visitante: Menos de 0.5 | 17% | 29% | 23% | 3.25 | -25% |
+| Goles del visitante: Menos de 1.5 | 47% | 65% | 56% | 1.44 | -20% |
+| 1X2 descanso: 2 | 44% | 30% | 37% | 3.00 | +12% |
+| 1X2 descanso: X | 43% | 44% | 43% | 2.05 | -11% |
+| 1X2 descanso: 1 | 13% | 26% | 19% | 3.50 | -32% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

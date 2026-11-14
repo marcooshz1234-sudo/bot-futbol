@@ -1,7 +1,7 @@
 # Giana Erminio – Juventus U23
 **Serie C** · Girone A - 15 · 21/11/2026 17:30 (hora España) · Stadio Citta di Gorgonzola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Giana Erminio (total) | Giana Erminio en casa | Juventus U23 (total) | Juventus U23 fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 13 | 7 |
-| Forma (últimos 5) | EDVVE | EDVEE | DEDVE | DDDED |
-| Balance | 2V 6E 5D | 1V 3E 3D | 2V 5E 6D | 0V 2E 5D |
+| Partidos analizados | 14 | 7 | 13 | 7 |
+| Forma (últimos 5) | EEDVV | EDVEE | DEDVE | DDDED |
+| Balance | 2V 7E 5D | 1V 3E 3D | 2V 5E 6D | 0V 2E 5D |
 | Goles a favor / partido | 1,00 | 1,14 | 0,92 | 0,71 |
-| Goles en contra / partido | 1,31 | 1,57 | 1,77 | 2,29 |
-| Goles a favor 1ª parte | 0,38 | 0,57 | 0,38 | 0,29 |
-| Goles a favor 2ª parte | 0,62 | 0,57 | 0,54 | 0,43 |
-| Goles en contra 1ª parte | 0,77 | 0,86 | 0,77 | 0,86 |
-| Goles en contra 2ª parte | 0,54 | 0,71 | 1,00 | 1,43 |
-| Más de 1,5 goles | 69% | 86% | 69% | 86% |
-| Más de 2,5 goles | 54% | 71% | 54% | 71% |
-| Más de 3,5 goles | 23% | 29% | 23% | 29% |
-| Ambos marcan | 69% | 86% | 46% | 43% |
-| Portería a cero | 15% | 14% | 31% | 14% |
-| Se queda sin marcar | 31% | 14% | 46% | 57% |
+| Goles en contra / partido | 1,29 | 1,57 | 1,77 | 2,29 |
+| Goles a favor 1ª parte | 0,36 | 0,57 | 0,38 | 0,29 |
+| Goles a favor 2ª parte | 0,64 | 0,57 | 0,54 | 0,43 |
+| Goles en contra 1ª parte | 0,71 | 0,86 | 0,77 | 0,86 |
+| Goles en contra 2ª parte | 0,57 | 0,71 | 1,00 | 1,43 |
+| Más de 1,5 goles | 71% | 86% | 69% | 86% |
+| Más de 2,5 goles | 50% | 71% | 54% | 71% |
+| Más de 3,5 goles | 21% | 29% | 23% | 29% |
+| Ambos marcan | 71% | 86% | 46% | 43% |
+| Portería a cero | 14% | 14% | 31% | 14% |
+| Se queda sin marcar | 29% | 14% | 46% | 57% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -50,10 +50,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Giana Erminio | Recibe Giana Erminio | Tarjetas Giana Erminio | Goles Juventus U23 | Recibe Juventus U23 | Tarjetas Juventus U23 |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 1 | 0 | 1 | 6 | 1 |
+| 1-15' | 1 | 1 | 1 | 1 | 6 | 1 |
 | 16-30' | 2 | 5 | 1 | 1 | 3 | 4 |
 | 31-45' | 2 | 4 | 3 | 3 | 1 | 4 |
-| 46-60' | 3 | 2 | 4 | 2 | 5 | 5 |
+| 46-60' | 4 | 3 | 4 | 2 | 5 | 5 |
 | 61-75' | 1 | 3 | 8 | 1 | 5 | 2 |
 | 76-90' | 4 | 2 | 18 | 4 | 3 | 9 |
 
@@ -72,12 +72,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Giana Erminio
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Serie C | Athletic Carpi 1-1 Giana Erminio | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Serie C | Giana Erminio 0-0 Cittadella | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Serie C | Giana Erminio 1-3 Alcione | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | Serie C | Desenzano Calvina 1-2 Giana Erminio | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-19 | Serie C | Giana Erminio 2-1 Union Brescia | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Serie C | Renate 2-2 Giana Erminio | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-10-04 | Serie C | Treviso 0-0 Giana Erminio | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Giana Erminio
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -98,6 +98,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 0,91._
+_Goles esperados: local 1,43 · visitante 0,88._
 
 _Sin cuotas de Bet365 todavía para comparar._

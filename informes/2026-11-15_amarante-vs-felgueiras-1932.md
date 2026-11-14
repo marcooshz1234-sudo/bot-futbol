@@ -1,16 +1,16 @@
 # Amarante – Felgueiras 1932
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Municipal de Amarante
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **2.40**  ·  X **3.00**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.08** · menos **8.00**
+    - 0,5: más **1.10** · menos **7.00**
     - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.40** · menos **1.53**
     - 3,5: más **4.50** · menos **1.18**
@@ -47,7 +47,7 @@ _Actualizadas: 14/11 02:07_
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 
 ## Estadísticas de equipo
 | | Amarante (total) | Amarante en casa | Felgueiras 1932 (total) | Felgueiras 1932 fuera |
@@ -159,12 +159,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 32% | 34% | 2.80 | -5% |
+| 1X2: 2 | 36% | 32% | 34% | 2.80 | -5% |
 | 1X2: X | 28% | 30% | 29% | 3.00 | -13% |
-| 1X2: 1 | 37% | 38% | 37% | 2.40 | -11% |
-| Doble oportunidad: X2 | 63% | 62% | 63% | 1.50 | -6% |
+| 1X2: 1 | 36% | 38% | 37% | 2.40 | -11% |
+| Doble oportunidad: X2 | 64% | 62% | 63% | 1.50 | -6% |
 | Doble oportunidad: 12 | 72% | 70% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 65% | 68% | 66% | 1.36 | -10% |
+| Doble oportunidad: 1X | 64% | 68% | 66% | 1.36 | -10% |
 | Ambos marcan: No | 52% | 54% | 53% | 1.73 | -8% |
 | Ambos marcan: Sí | 48% | 46% | 47% | 2.00 | -6% |
 | Goles más/menos: Más de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
@@ -178,9 +178,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 73% | 73% | 1.28 | -7% |
 | Goles del local: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 1.5 | 33% | 34% | 34% | 2.75 | -8% |
+| Goles del local: Más de 1.5 | 33% | 34% | 33% | 2.75 | -8% |
 | Goles del local: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -12% |
-| Goles del local: Menos de 1.5 | 67% | 66% | 66% | 1.40 | -7% |
+| Goles del local: Menos de 1.5 | 67% | 66% | 67% | 1.40 | -7% |
 | Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 33% | 29% | 31% | 3.25 | +0% |
 | Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
@@ -189,6 +189,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Menos de 9.5 | 63% | 56% | 59% | 1.67 | -1% |
 | 1X2 descanso: 2 | 27% | 26% | 26% | 3.60 | -6% |
 | 1X2 descanso: X | 46% | 46% | 46% | 2.00 | -8% |
-| 1X2 descanso: 1 | 27% | 28% | 28% | 3.25 | -9% |
+| 1X2 descanso: 1 | 27% | 28% | 28% | 3.25 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

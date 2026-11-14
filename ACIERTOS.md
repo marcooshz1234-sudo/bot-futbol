@@ -1,12 +1,12 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 565 · aciertos: 352 (62%) · beneficio a 1 € por pick: -67.44 €
+Picks ya jugados: 566 · aciertos: 353 (62%) · beneficio a 1 € por pick: -66.71 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 140 | 218 | 64% | -24.60 € |
+| goles | 141 | 219 | 64% | -23.87 € |
 | jugador | 125 | 195 | 64% | -22.68 € |
 | resultado | 65 | 103 | 63% | -7.25 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
@@ -39,8 +39,8 @@ Picks ya jugados: 565 · aciertos: 352 (62%) · beneficio a 1 € por pick: -67.
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Away · Over 0.5 | 27 | 47 | 57% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
+| Both Teams Score · Yes | 9 | 19 | 47% |
 | To Win Either Half · Away | 6 | 13 | 46% |
-| Both Teams Score · Yes | 8 | 18 | 44% |
 | Double Chance · Draw/Away | 12 | 28 | 43% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
@@ -51,6 +51,9 @@ Picks ya jugados: 565 · aciertos: 352 (62%) · beneficio a 1 € por pick: -67.
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-14 · 1/1
+- ✅ Ambos marcan en Arzignano Valchiampo–Alcione · 1.73 (3-2)
 
 ### 2026-11-09 · 2/2
 - ✅ Hvidovre o empate · 1.25 (3-0)
@@ -240,33 +243,4 @@ Picks ya jugados: 565 · aciertos: 352 (62%) · beneficio a 1 € por pick: -67.
 - ❌ Kristoffer Askildsen comete 1+ faltas · 1.40 (4-1)
 - ✅ Gianni Stensness comete 1+ faltas · 1.36 (4-1)
 - ❌ Peter Christiansen comete 2+ faltas · 1.67 (4-1)
-
-### 2026-11-03 · 10/27
-- ✅ QPR o empate · 1.28 (1-1)
-- ❌ Feyenoord marca · 1.30 (0-3)
-- ❌ Villarreal marca · 1.30 (0-6)
-- ❌ AS Roma o empate · 1.62 (3-2)
-- ❌ Lille marca · 1.28 (0-0)
-- ❌ Ambos marcan en Villarreal–Paris Saint Germain · 1.44 (0-6)
-- ✅ Más de 2,5 goles en Villarreal–Paris Saint Germain · 1.36 (0-6)
-- ✅ Más de 2,5 goles en Feyenoord–Inter · 1.40 (0-3)
-- ❌ Aston Villa marca · 1.44 (3-0)
-- ❌ Slovan Bratislava marca · 1.44 (4-0)
-- ❌ Ambos marcan en Barcelona–Aston Villa · 1.50 (3-0)
-- ❌ Ambos marcan y más de 2,5 goles en Barcelona–Aston Villa · 1.62 (3-0)
-- ❌ Ambos marcan y más de 2,5 goles en Villarreal–Paris Saint Germain · 1.62 (0-6)
-- ✅ Más de 1,5 goles en la 2ª parte del Barcelona–Aston Villa · 1.40 (3-0)
-- ❌ Julian Alvarez: 1+ tiros a puerta · 1.36 (0-2)
-- ❌ Carlos Augusto: 1+ tiros · 1.33 (0-3)
-- ✅ AS Roma gana alguna de las dos partes · 1.80 (3-2)
-- ✅ Birmingham gana alguna de las dos partes · 1.50 (3-0)
-- ❌ Alex Grimaldo: 1+ tiros · 1.30 (0-2)
-- ❌ Nicolo Barella: 1+ tiros · 1.36 (0-3)
-- ❌ Bryan Mbeumo: 1+ tiros a puerta · 1.40 (3-2)
-- ✅ Benjamin Andre comete 1+ faltas · 1.28 (0-0)
-- ✅ Andreas Helmersen comete 1+ faltas · 1.36 (0-0)
-- ✅ Gjivai Zechiel comete 1+ faltas · 1.36 (0-3)
-- ❌ Givairo Read comete 1+ faltas · 1.50 (0-3)
-- ✅ Andreas Helmersen comete 2+ faltas · 1.67 (0-0)
-- ❌ Birmingham ve más de 1,5 tarjetas · 1.80 (3-0)
 

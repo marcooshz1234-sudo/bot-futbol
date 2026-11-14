@@ -1,10 +1,10 @@
 # Cittadella – Folgore Caratese
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **1.40**  ·  X **4.00**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.17**  ·  X2 **2.60**
@@ -42,7 +42,7 @@ _Actualizadas: 14/11 02:07_
 - **Win Both Halves:** 1 **3.50**  ·  2 **29.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **6.50**  ·  Away/Yes **15.00**  ·  Home/No **2.10**  ·  Draw/No **10.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
 
 ## Estadísticas de equipo
 | | Cittadella (total) | Cittadella en casa | Folgore Caratese (total) | Folgore Caratese fuera |
@@ -132,7 +132,7 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,98 · visitante 0,33._
+_Goles esperados: local 1,96 · visitante 0,33._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -140,29 +140,29 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 5% | 14% | 9% | 6.50 | -38% |
 | 1X2: X | 18% | 22% | 20% | 4.00 | -20% |
-| 1X2: 1 | 77% | 64% | 71% | 1.40 | -1% |
+| 1X2: 1 | 77% | 64% | 70% | 1.40 | -1% |
 | Doble oportunidad: X2 | 23% | 35% | 29% | 2.60 | -24% |
-| Doble oportunidad: 12 | 82% | 79% | 81% | 1.17 | -6% |
+| Doble oportunidad: 12 | 82% | 79% | 80% | 1.17 | -6% |
 | Doble oportunidad: 1X | 95% | 86% | 90% | 1.07 | -3% |
 | Ambos marcan: No | 76% | 58% | 67% | 1.62 | +8% |
 | Ambos marcan: Sí | 24% | 42% | 33% | 2.20 | -27% |
 | Goles más/menos: Más de 1.5 | 67% | 73% | 70% | 1.28 | -10% |
-| Goles más/menos: Más de 2.5 | 40% | 49% | 45% | 1.95 | -13% |
+| Goles más/menos: Más de 2.5 | 40% | 49% | 44% | 1.95 | -13% |
 | Goles más/menos: Más de 3.5 | 20% | 28% | 24% | 3.40 | -19% |
 | Goles más/menos: Menos de 1.5 | 33% | 27% | 30% | 3.50 | +5% |
-| Goles más/menos: Menos de 2.5 | 60% | 51% | 55% | 1.85 | +3% |
+| Goles más/menos: Menos de 2.5 | 60% | 51% | 56% | 1.85 | +3% |
 | Goles más/menos: Menos de 3.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 30% | 2.75 | -17% |
+| Goles 1ª parte más/menos: Más de 1.5 | 26% | 34% | 30% | 2.75 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -2% |
-| Goles del local: Más de 1.5 | 59% | 58% | 58% | 1.62 | -6% |
-| Goles del local: Más de 2.5 | 32% | 31% | 31% | 3.00 | -6% |
-| Goles del local: Menos de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles del local: Menos de 2.5 | 68% | 69% | 69% | 1.36 | -7% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
+| Goles del local: Más de 1.5 | 58% | 58% | 58% | 1.62 | -6% |
+| Goles del local: Más de 2.5 | 31% | 31% | 31% | 3.00 | -6% |
+| Goles del local: Menos de 1.5 | 42% | 42% | 42% | 2.20 | -8% |
+| Goles del local: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -7% |
 | Goles del visitante: Más de 0.5 | 28% | 49% | 38% | 1.91 | -27% |
 | Goles del visitante: Menos de 0.5 | 72% | 51% | 62% | 1.80 | +11% |
-| 1X2 descanso: X | 41% | 40% | 41% | 2.25 | -9% |
+| 1X2 descanso: X | 41% | 40% | 41% | 2.25 | -8% |
 | 1X2 descanso: 1 | 53% | 47% | 50% | 1.91 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

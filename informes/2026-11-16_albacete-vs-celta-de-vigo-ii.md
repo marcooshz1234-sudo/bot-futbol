@@ -1,10 +1,10 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:07_
+_Actualizadas: 14/11 19:50_
 
 - **1X2:** 1 **1.62**  ·  X **3.80**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
@@ -20,17 +20,17 @@ _Actualizadas: 14/11 02:07_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
     - 4,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.82** · menos **1.98**
+    - 9,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.40**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.50**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
@@ -198,27 +198,27 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
 | Goles más/menos: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles más/menos: Más de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
-| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles más/menos: Más de 2.5 | 60% | 58% | 59% | 1.62 | -4% |
+| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -8% |
-| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -13% |
-| Goles más/menos: Menos de 2.5 | 39% | 42% | 41% | 2.25 | -9% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -12% |
+| Goles más/menos: Menos de 2.5 | 40% | 42% | 41% | 2.25 | -8% |
 | Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.20 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
-| Goles del local: Más de 1.5 | 50% | 61% | 56% | 1.53 | -15% |
-| Goles del local: Más de 2.5 | 24% | 35% | 30% | 2.62 | -22% |
-| Goles del local: Menos de 1.5 | 50% | 39% | 44% | 2.38 | +6% |
-| Goles del local: Menos de 2.5 | 76% | 65% | 70% | 1.44 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
+| Goles del local: Más de 1.5 | 50% | 59% | 55% | 1.57 | -14% |
+| Goles del local: Más de 2.5 | 24% | 34% | 29% | 2.75 | -21% |
+| Goles del local: Menos de 1.5 | 50% | 41% | 45% | 2.25 | +2% |
+| Goles del local: Menos de 2.5 | 76% | 66% | 71% | 1.40 | -0% |
 | Goles del visitante: Más de 0.5 | 76% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 1.5 | 42% | 29% | 36% | 3.25 | +16% |
 | Goles del visitante: Menos de 0.5 | 24% | 35% | 30% | 2.62 | -22% |
 | Goles del visitante: Menos de 1.5 | 58% | 71% | 64% | 1.33 | -14% |
-| Córners más/menos: Más de 9.5 | 47% | 52% | 50% | 1.82 | -10% |
-| Córners más/menos: Menos de 9.5 | 53% | 48% | 50% | 1.98 | -0% |
+| Córners más/menos: Más de 9.5 | 47% | 51% | 49% | 1.80 | -11% |
+| Córners más/menos: Menos de 9.5 | 53% | 49% | 51% | 1.91 | -3% |
 | 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -5% |
 | 1X2 descanso: 1 | 34% | 44% | 39% | 2.10 | -18% |
 

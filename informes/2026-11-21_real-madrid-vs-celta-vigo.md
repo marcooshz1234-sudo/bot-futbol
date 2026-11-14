@@ -1,7 +1,7 @@
 # Real Madrid – Celta Vigo
 **LaLiga** · Regular Season - 13 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:09_
@@ -181,12 +181,12 @@ _Sin bajas comunicadas por ahora._
 | C. Driouech | F | 10 | 346 | 0 | 0 | 8 | 0,8 | 1 | 0,1 | 5 | 3 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,07 · visitante 0,62 · córners esperados 9,3._
+_Goles esperados: local 2,06 · visitante 0,62 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 10% | 7% | 9% | 13.00 | +11% |
-| 1X2: X | 19% | 14% | 17% | 6.50 | +7% |
+| 1X2: 2 | 10% | 7% | 9% | 13.00 | +12% |
+| 1X2: X | 19% | 14% | 17% | 6.50 | +8% |
 | 1X2: 1 | 71% | 79% | 75% | 1.18 | -12% |
 | Doble oportunidad: X2 | 29% | 21% | 25% | 4.50 | +13% |
 | Doble oportunidad: 12 | 81% | 86% | 84% | 1.11 | -7% |
@@ -207,13 +207,13 @@ _Goles esperados: local 2,07 · visitante 0,62 · córners esperados 9,3._
 | Goles 1ª parte más/menos: Menos de 2.5 | 89% | 78% | 83% | 1.20 | +0% |
 | Goles del local: Más de 1.5 | 61% | 77% | 69% | 1.22 | -16% |
 | Goles del local: Más de 2.5 | 34% | 54% | 44% | 1.73 | -24% |
-| Goles del local: Más de 3.5 | 16% | 34% | 25% | 2.75 | -32% |
-| Goles del local: Menos de 1.5 ✅ | 39% | 23% | 31% | 4.00 | +24% |
+| Goles del local: Más de 3.5 | 15% | 34% | 25% | 2.75 | -32% |
+| Goles del local: Menos de 1.5 ✅ | 39% | 23% | 31% | 4.00 | +25% |
 | Goles del local: Menos de 2.5 | 66% | 46% | 56% | 2.00 | +12% |
-| Goles del local: Menos de 3.5 | 84% | 66% | 75% | 1.40 | +6% |
+| Goles del local: Menos de 3.5 | 85% | 66% | 75% | 1.40 | +6% |
 | Goles del visitante: Más de 0.5 | 46% | 50% | 48% | 1.83 | -12% |
 | Goles del visitante: Menos de 0.5 | 54% | 50% | 52% | 1.83 | -5% |
-| 1X2 descanso: X | 39% | 30% | 34% | 3.10 | +7% |
+| 1X2 descanso: X | 39% | 30% | 35% | 3.10 | +7% |
 | 1X2 descanso: 1 | 50% | 61% | 55% | 1.53 | -15% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

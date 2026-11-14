@@ -4736,7 +4736,7 @@
   {
     "id": "2026-11-15-ganadores-nations",
     "fecha": "2026-11-15T00:00",
-    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇲🇪 Montenegro - Win\n2. 🇦🇱 Albania - Win\n3. 🇧🇪 Bélgica - Win\n4. 🇭🇷 Croacia - Win\n5. 🇫🇷 Francia - Win\n6. 🇪🇸 España - Win\n\n🍀 ¿CUÁL FALLA? 👀💚",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇲🇪 Montenegro - Win\n2. 🇦🇱 Albania - Win\n3. 🇫🇮 Finlandia - Win\n4. 🇧🇪 Bélgica - Win\n5. 🇭🇷 Croacia - Win\n6. 🇫🇷 Francia - Win\n7. 🇪🇸 España - Win\n\n🍀 ¿CUÁL FALLA? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4745,18 +4745,20 @@
     "sel": [
       "1528979|Match Winner|Away",
       "1528980|Match Winner|Away",
+      "1528981|Match Winner|Home",
       "1528983|Match Winner|Home",
       "1528985|Match Winner|Home",
       "1528982|Match Winner|Home",
       "1528984|Match Winner|Home"
     ],
     "cuotas": [
-      2.3,
-      2.05,
-      2.1,
-      1.5,
+      2.2,
+      1.9,
+      1.04,
+      2.15,
+      1.57,
       1.22,
-      1.7
+      1.75
     ],
     "ganadores_img": {
       "titulo": "NATIONS LEAGUE",
@@ -4775,6 +4777,14 @@
           "bandera": "🇦🇱",
           "escudo_url": "https://media.api-sports.io/football/teams/778.png",
           "nombre": "Albania",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Finland",
+          "bandera": "🇫🇮",
+          "escudo_url": "https://media.api-sports.io/football/teams/1099.png",
+          "nombre": "Finlandia",
           "pick": "WIN",
           "seleccion": true
         },
@@ -4817,7 +4827,7 @@
   {
     "id": "2026-11-15-pick-seguro",
     "fecha": "2026-11-15T10:30",
-    "texto": "Os dejo el pick, familia 👇\n\n⚽ Bielorrusia – Albania · 18:00\n\n🍀 Belarus marca @1,57\n\n👨‍💻 El Belarus jugó hace 2 días: puede llegar cansado\n👨‍💻 El Albania jugó hace 2 días: puede llegar cansado\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo el pick, familia 👇\n\n⚽ Bielorrusia – Albania · 18:00\n\n🍀 Belarus marca @1,62\n\n👨‍💻 El Belarus jugó hace 2 días: puede llegar cansado\n👨‍💻 El Albania jugó hace 2 días: puede llegar cansado\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4825,50 +4835,108 @@
       "1528980|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.57
+      1.62
+    ]
+  },
+  {
+    "id": "2026-11-15-escalera",
+    "fecha": "2026-11-15T11:00",
+    "texto": "🪜 Reto escalera · Día 1/7\n🔎 Mirada a fondo: forma, bajas y cuotas\n\nAyer no salió el día 1. Borrón y cuenta nueva: otra vez desde 20€ 💪\n\n🇨🇾 Cyprus marca\n🇱🇻 Latvia marca\n\n📈 Cuota @2,02\n💶 20,00€ → 40,40€\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528979|Total - Home|Over 0.5",
+      "1545616|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.44
     ]
   },
   {
     "id": "2026-11-15-combi-tres",
     "fecha": "2026-11-15T13:30",
-    "texto": "Vamos con la combi del domingo familia 🔥\n\n🇮🇹 Juventus U23 marca\n🇧🇾 Belarus marca\n\n📈 Cuota @2,20",
+    "texto": "Vamos con la combi del domingo familia 🔥\n\n🇱🇻 Latvia marca\n🇧🇾 Belarus marca\n\n📈 Cuota @2,33",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1608365|Total - Home|Over 0.5",
+      "1545616|Total - Home|Over 0.5",
       "1528980|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.4,
-      1.57
+      1.44,
+      1.62
     ]
   },
   {
     "id": "2026-11-16-ganadores-nations",
     "fecha": "2026-11-16T00:00",
-    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇩🇪 Alemania - Win\n2. 🇬🇷 Grecia - Win\n3. 🇸🇮 Eslovenia - Win\n4. 🇨🇭 Suiza - Win\n\n🍀 ¿PLENO HOY? 👀💚",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇫🇴 Islas Feroe - Win\n2. 🇸🇰 Eslovaquia - Win\n3. 🇪🇪 Estonia - Win\n4. 🇮🇸 Islandia - Win\n5. 🇩🇪 Alemania - Win\n6. 🇬🇷 Grecia - Win\n7. 🇲🇹 Malta - Win\n8. 🇸🇮 Eslovenia - Win\n9. 🇨🇭 Suiza - Win\n\n🍀 ¿PLENO HOY? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "solo_redes": true,
     "forzar": true,
     "sel": [
+      "1528987|Match Winner|Home",
+      "1528986|Match Winner|Away",
+      "1528988|Match Winner|Home",
+      "1545617|Match Winner|Home",
       "1528990|Match Winner|Home",
       "1528991|Match Winner|Home",
+      "1545618|Match Winner|Away",
       "1545662|Match Winner|Away",
       "1545652|Match Winner|Home"
     ],
     "cuotas": [
-      1.8,
-      1.42,
-      1.65,
-      1.5
+      1.73,
+      1.83,
+      2.1,
+      1.3,
+      1.85,
+      1.45,
+      1.45,
+      1.57,
+      1.7
     ],
     "ganadores_img": {
       "titulo": "NATIONS LEAGUE",
       "liga": 5,
       "filas": [
+        {
+          "pais": "Faroe-Islands",
+          "bandera": "🇫🇴",
+          "escudo_url": "https://media.api-sports.io/football/teams/1098.png",
+          "nombre": "Islas Feroe",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Slovakia",
+          "bandera": "🇸🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/773.png",
+          "nombre": "Eslovaquia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Estonia",
+          "bandera": "🇪🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/1101.png",
+          "nombre": "Estonia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Iceland",
+          "bandera": "🇮🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/18.png",
+          "nombre": "Islandia",
+          "pick": "WIN",
+          "seleccion": true
+        },
         {
           "pais": "Germany",
           "bandera": "🇩🇪",
@@ -4882,6 +4950,14 @@
           "bandera": "🇬🇷",
           "escudo_url": "https://media.api-sports.io/football/teams/1117.png",
           "nombre": "Grecia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Malta",
+          "bandera": "🇲🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/1112.png",
+          "nombre": "Malta",
           "pick": "WIN",
           "seleccion": true
         },
@@ -4908,7 +4984,7 @@
   {
     "id": "2026-11-16-pick-seguro",
     "fecha": "2026-11-16T10:30",
-    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Suiza – Escocia · 20:45\n\n🍀 Gana el Switzerland @1,50\n🧠 Stake 3/10\n\n👨‍💻 El Switzerland ha ganado 4 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Suiza – Escocia · 20:45\n\n🍀 Gana el Switzerland @1,70\n🧠 Stake 3/10\n\n👨‍💻 El Switzerland ha ganado 4 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4916,29 +4992,31 @@
       "1545652|Match Winner|Home"
     ],
     "cuotas": [
-      1.5
+      1.7
     ]
   },
   {
     "id": "2026-11-16-combi-tres",
     "fecha": "2026-11-16T13:30",
-    "texto": "Vamos con la combi del lunes familia 🔥\n📈 De las que hemos estudiado bien\n\n🇬🇷 Gana el Greece\n🇨🇭 Gana el Switzerland\n\n📈 Cuota @2,13",
+    "texto": "Vamos con la combi del lunes familia 🔥\n📈 De las que hemos estudiado bien\n\n🇰🇿 Kazakhstan marca\n🇬🇷 Gana el Greece\n🇨🇭 Gana el Switzerland\n\n📈 Cuota @3,87",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1528986|Total - Home|Over 0.5",
       "1528991|Match Winner|Home",
       "1545652|Match Winner|Home"
     ],
     "cuotas": [
-      1.42,
-      1.5
+      1.57,
+      1.45,
+      1.7
     ]
   },
   {
     "id": "2026-11-16-pick-seguro-2",
     "fecha": "2026-11-16T18:00",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ Grecia – Serbia · 20:45\n\n🍀 Gana el Greece @1,42\n🧠 Stake 3/10\n\n👨‍💻 El Serbia no ha ganado ninguno de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ Grecia – Serbia · 20:45\n\n🍀 Gana el Greece @1,45\n🧠 Stake 3/10\n\n👨‍💻 El Serbia no ha ganado ninguno de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4946,7 +5024,7 @@
       "1528991|Match Winner|Home"
     ],
     "cuotas": [
-      1.42
+      1.45
     ]
   },
   {
@@ -5150,7 +5228,7 @@
   {
     "id": "2026-11-20-pick-seguro",
     "fecha": "2026-11-20T10:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Athletic Club – Espanyol · 21:00\n\n🍀 Gana el Athletic Club @1,48\n🧠 Stake 3/10\n\n👨‍💻 El Athletic Club va 7º y el Espanyol 15º en la liga.\n👨‍💻 El Athletic Club ha ganado 3 de sus últimos 5 partidos.\n👨‍💻 El Espanyol solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Pick de hoy, con datos detrás 📊\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Athletic Club – Espanyol · 21:00\n\n🍀 Gana el Athletic Club @1,48\n\n👨‍💻 El Athletic Club va 7º y el Espanyol 15º en la liga.\n👨‍💻 El Athletic Club ha ganado 3 de sus últimos 5 partidos.\n👨‍💻 El Espanyol solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -5176,25 +5254,6 @@
       1.53,
       1.48
     ]
-  },
-  {
-    "id": "2026-11-21-picks-manana",
-    "fecha": "2026-11-20T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n🇳🇱 Thom van Bergen (Groningen): 1+ tiros a puerta\n\n⚽ ¡Cógelos sueltos o combínalos! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557468|Match Winner|Home",
-      "1552826|Goals Over/Under - Second Half|Over 1.5",
-      "1552228|Home Player Shots On Target Total|Thom van Bergen - 1"
-    ],
-    "cuotas": [
-      2.0,
-      1.8,
-      1.25
-    ],
-    "solo_redes": true
   },
   {
     "id": "2026-11-21-ganadores-laliga",
@@ -5507,52 +5566,52 @@
   {
     "id": "2026-11-21-combi-500",
     "fecha": "2026-11-21T12:00",
-    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🇫🇷 Lille gana alguna de las dos partes\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n🇩🇪 Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg\n🇩🇰 HB Koge o empate\n🇮🇹 Ambos marcan en Napoli–Torino\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🇪🇸 Ambos marcan en Alaves–Deportivo La Coruna\n🇳🇱 Thom van Bergen (Groningen): 1+ tiros a puerta\n🇳🇱 Cambuur o empate\n\n📈 Cuota @685,87\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos marcan en Manchester City–Fulham\n🇩🇰 HB Koge o empate\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg\n🇩🇪 Más de 1,5 goles en la 2ª parte del Union Berlin–RB Leipzig\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds o empate\n🇫🇷 Lille gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n🇮🇹 Ambos marcan en Napoli–Torino\n\n📈 Cuota @742,22\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1557468|Match Winner|Home",
-      "1552820|To Win Either Half|Home",
-      "1575223|To Win Either Half|Home",
-      "1552826|Goals Over/Under - Second Half|Over 1.5",
-      "1575229|Goals Over/Under - Second Half|Over 1.5",
+      "1557474|Both Teams Score|Yes",
       "1551381|Double Chance|Draw/Away",
-      "1550204|Both Teams Score|Yes",
+      "1575223|To Win Either Half|Home",
+      "1575229|Goals Over/Under - Second Half|Over 1.5",
+      "1575225|Goals Over/Under - Second Half|Over 1.5",
+      "1557468|Match Winner|Home",
       "1557476|Goals Over/Under - Second Half|Over 1.5",
-      "1570453|Both Teams Score|Yes",
-      "1552228|Home Player Shots On Target Total|Thom van Bergen - 1",
-      "1552233|Double Chance|Draw/Away"
+      "1557470|Double Chance|Draw/Away",
+      "1552820|To Win Either Half|Home",
+      "1552826|Goals Over/Under - Second Half|Over 1.5",
+      "1550204|Both Teams Score|Yes"
     ],
     "cuotas": [
-      2.0,
-      1.67,
-      1.67,
-      1.8,
-      1.73,
+      1.62,
       2.5,
-      1.8,
+      1.67,
+      1.73,
+      1.67,
+      2.0,
       1.8,
       1.95,
-      1.25,
-      2.0
+      1.67,
+      1.8,
+      1.8
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-21-combi-tres",
     "fecha": "2026-11-21T13:30",
-    "texto": "Vamos con la combi del sábado familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇮🇹 Gana el Como\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Aston Villa\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle marca\n\n📈 Cuota @3,39\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del sábado familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇮🇹 Gana el Lazio\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Aston Villa\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle marca\n\n📈 Cuota @3,47\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550200|Match Winner|Home",
+      "1550202|Match Winner|Home",
       "1557467|Match Winner|Home",
       "1557475|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.33,
+      1.36,
       1.7,
       1.5
     ],
@@ -5635,6 +5694,257 @@
       "logo_v": "https://media.api-sports.io/football/teams/503.png",
       "fecha": "2026-11-21T20:45",
       "liga": "Serie A"
+    },
+    "solo_redes": true,
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
+  },
+  {
+    "id": "2026-11-22-picks-manana",
+    "fecha": "2026-11-21T23:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n🇮🇹 Gana el Bologna\n🇩🇪 Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05\n🇩🇪 Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV\n\n⚽ ¡Cógelos sueltos o combínalos! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550199|Match Winner|Home",
+      "1575224|Goals Over/Under - Second Half|Over 1.5",
+      "1575227|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.62,
+      1.73
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-22-ganadores-laliga",
+    "fecha": "2026-11-22T00:00",
+    "texto": "🏆 LALIGA - GANADORES\n\n1. 🇪🇸 Barcelona - Win\n2. 🇪🇸 Real Sociedad - Win\n3. 🇪🇸 Osasuna - Win\n\n🍀 ¿PLENO HOY? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1570455|Match Winner|Home",
+      "1570459|Match Winner|Away",
+      "1570458|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.22,
+      2.1,
+      1.75
+    ],
+    "ganadores_img": {
+      "titulo": "LALIGA",
+      "liga": 140,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/529.png",
+          "nombre": "Barcelona",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/548.png",
+          "nombre": "Real Sociedad",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/727.png",
+          "nombre": "Osasuna",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿PLENO HOY?"
+    }
+  },
+  {
+    "id": "2026-11-22-ganadores-resto",
+    "fecha": "2026-11-22T01:00",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇮🇹 Juventus - Win\n2. 🇳🇱 Ajax - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton - Win\n4. 🇫🇷 Paris FC - Win\n5. 🇩🇪 Werder Bremen - Win\n6. 🇮🇹 Milan - Win\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1550201|Match Winner|Home",
+      "1552225|Match Winner|Home",
+      "1557472|Match Winner|Away",
+      "1552825|Match Winner|Home",
+      "1575227|Match Winner|Home",
+      "1550197|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.33,
+      1.17,
+      1.55,
+      1.36,
+      1.65,
+      1.5
+    ],
+    "ganadores_img": {
+      "titulo": "PARTIDOS DE HOY",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/496.png",
+          "nombre": "Juventus",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/194.png",
+          "nombre": "Ajax",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/51.png",
+          "nombre": "Brighton",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/114.png",
+          "nombre": "Paris FC",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/162.png",
+          "nombre": "Werder Bremen",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
+          "nombre": "Milan",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": "¿LA PINTAMOS DE VERDE?"
+    }
+  },
+  {
+    "id": "2026-11-22-pick-seguro",
+    "fecha": "2026-11-22T10:30",
+    "texto": "Os dejo el pick, familia 👇\n📊 Con datos detrás, nada de corazonadas\n\n🇩🇪 Werder Bremen – Hamburger SV · 17:30\n\n🍀 Gana el Werder Bremen @1,65\n🧠 Stake 3/10\n\n👨‍💻 El Werder Bremen no ha perdido en casa en sus últimos 4 partidos (3V 1E).\n👨‍💻 El Werder Bremen va 6º y el Hamburger SV 11º en la liga.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575227|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.65
+    ]
+  },
+  {
+    "id": "2026-11-22-estrella-1550201",
+    "fecha": "2026-11-22T11:55",
+    "texto": "Hoy hay partidazo: Juventus 🆚 Venezia 🇮🇹⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (12:30) 🔥\n\n🍀 Akor Adams: 2+ tiros\n🍀 Gana el Juventus\n🍀 Bremer: 1+ tiros\n🍀 Juventus marca 2 o más\n\n📈 Cuota @4,32\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550201|Away Player Shots|Akor Adams - 2",
+      "1550201|Match Winner|Home",
+      "1550201|Home Player Shots|Bremer - 1",
+      "1550201|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.33,
+      1.57,
+      1.4
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Juventus",
+      "visitante": "Venezia",
+      "id_l": 496,
+      "id_v": 517,
+      "logo_l": "https://media.api-sports.io/football/teams/496.png",
+      "logo_v": "https://media.api-sports.io/football/teams/517.png",
+      "fecha": "2026-11-22T12:30",
+      "liga": "Serie A"
+    },
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
+  },
+  {
+    "id": "2026-11-22-combi-tres",
+    "fecha": "2026-11-22T13:30",
+    "texto": "Vamos con la combi del domingo familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇮🇹 Gana el Bologna\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool marca 2 o más\n\n📈 Cuota @2,80",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550199|Match Winner|Home",
+      "1557473|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.62
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-22-combi-partido-1575227",
+    "fecha": "2026-11-22T16:55",
+    "texto": "Os dejo la combi del Werder Bremen – Hamburger SV 🇩🇪🔥\n\n🍀 Gana el Werder Bremen\n🍀 Werder Bremen marca 2 o más\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Miro Muheim: 1+ tiros\n\n📈 Cuota @4,52\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575227|Match Winner|Home",
+      "1575227|Total - Home|Over 1.5",
+      "1575227|Goals Over/Under - Second Half|Over 1.5",
+      "1575227|Away Player Shots|Miro Muheim - 1"
+    ],
+    "cuotas": [
+      1.65,
+      1.53,
+      1.73,
+      1.73
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Werder Bremen",
+      "visitante": "Hamburger SV",
+      "id_l": 162,
+      "id_v": 175,
+      "logo_l": "https://media.api-sports.io/football/teams/162.png",
+      "logo_v": "https://media.api-sports.io/football/teams/175.png",
+      "fecha": "2026-11-22T17:30",
+      "liga": "Bundesliga"
     },
     "solo_redes": true,
     "requiere_ok": true,

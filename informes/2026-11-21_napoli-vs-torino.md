@@ -1,7 +1,7 @@
 # Napoli – Torino
 **Serie A** · Regular Season - 12 · 21/11/2026 20:45 (hora España) · Stadio Diego Armando Maradona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 08:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 02:09_
@@ -192,12 +192,12 @@ _Goles esperados: local 1,73 · visitante 0,87 · córners esperados 9,5._
 | 1X2: 1 | 58% | 64% | 61% | 1.45 | -12% |
 | Doble oportunidad: X2 | 42% | 36% | 39% | 2.62 | +3% |
 | Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 81% | 86% | 84% | 1.11 | -7% |
+| Doble oportunidad: 1X | 81% | 86% | 83% | 1.11 | -7% |
 | Ambos marcan: No | 52% | 48% | 50% | 1.95 | -2% |
 | Ambos marcan: Sí | 48% | 52% | 50% | 1.80 | -10% |
 | Goles más/menos: Más de 1.5 | 73% | 78% | 76% | 1.22 | -8% |
 | Goles más/menos: Más de 2.5 | 48% | 57% | 52% | 1.67 | -12% |
-| Goles más/menos: Más de 3.5 | 26% | 34% | 30% | 2.75 | -16% |
+| Goles más/menos: Más de 3.5 | 26% | 34% | 30% | 2.75 | -17% |
 | Goles más/menos: Menos de 1.5 | 27% | 22% | 24% | 4.33 | +6% |
 | Goles más/menos: Menos de 2.5 | 52% | 43% | 48% | 2.20 | +5% |
 | Goles más/menos: Menos de 3.5 | 74% | 66% | 70% | 1.44 | +0% |
@@ -213,7 +213,7 @@ _Goles esperados: local 1,73 · visitante 0,87 · córners esperados 9,5._
 | Goles del visitante: Más de 1.5 | 22% | 22% | 22% | 4.33 | -6% |
 | Goles del visitante: Menos de 0.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del visitante: Menos de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
-| 1X2 descanso: X | 42% | 37% | 40% | 2.50 | -1% |
+| 1X2 descanso: X | 42% | 37% | 40% | 2.50 | -0% |
 | 1X2 descanso: 1 | 41% | 48% | 45% | 1.95 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
