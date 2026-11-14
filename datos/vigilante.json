@@ -55,7 +55,8 @@
   "bucle-imagenes-2026111403": "2026-11-14T03:02",
   "bucle-imagenes-2026111404": "2026-11-14T04:05",
   "bucle-imagenes-2026111405": "2026-11-14T05:05",
-  "bucle-imagenes-2026111406": "2026-11-14T06:01"
+  "bucle-imagenes-2026111406": "2026-11-14T06:01",
+  "bucle-imagenes-2026111407": "2026-11-14T07:10"
  },
  "abiertos": [
   {
@@ -63,12 +64,16 @@
    "t": "📰 Kosovo–Israel: «Dos jugadores israelíes son duda para el partido contra Kosovo.» (KOHA.net) · tenemos 2 post(s) de este partido: escalera, combi-tres"
   },
   {
-   "clave": "bucle-imagenes-2026111406",
+   "clave": "bucle-imagenes-2026111407",
    "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-14T06:59",
+ "revisado": "2026-11-14T07:10",
  "historial": [
+  {
+   "hora": "2026-11-14T07:10",
+   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+  },
   {
    "hora": "2026-11-14T06:01",
    "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
