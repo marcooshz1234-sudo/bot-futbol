@@ -27,6 +27,17 @@
  },
  "top": [
   {
+   "local": "Oviedo",
+   "visitante": "Girona",
+   "inicio": "2026-11-14T21:00",
+   "texto": "Ambos marcan en Oviedo–Girona",
+   "cuota": 1.91,
+   "justa": 1.81,
+   "ev": 0.055,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Portugal",
    "visitante": "Denmark",
    "inicio": "2026-11-14T20:45",
@@ -35,7 +46,7 @@
    "justa": 1.64,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Sweden",
@@ -46,11 +57,11 @@
    "justa": 1.7,
    "ev": -0.02,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T19:35",
+  "hora": "2026-11-14T19:56",
   "revisadas": 0,
   "mejor": null
  },

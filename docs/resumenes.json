@@ -1904,12 +1904,12 @@
     "dia": "2026-11-14",
     "total": 10,
     "cuentas": {
-      "verde": 2,
-      "rojo": 5,
-      "pendiente": 3,
-      "sin_datos": 0,
+      "verde": 0,
+      "rojo": 4,
+      "pendiente": 5,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -1933,13 +1933,13 @@
       {
         "id": "2026-11-14-pick-tip-1",
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
-        "estado": "verde",
+        "estado": "pendiente",
         "cuota": null
       },
       {
         "id": "2026-11-14-pick-tip-3",
         "titulo": "Este nos encanta para hoy 🔥",
-        "estado": "verde",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -1963,7 +1963,7 @@
       {
         "id": "2026-11-14-boleto-personal-2",
         "titulo": "🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥",
-        "estado": "rojo",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1974,10 +1974,10 @@
       }
     ],
     "picks": {
-      "verde": 4,
-      "rojo": 4,
+      "verde": 0,
+      "rojo": 3,
       "total": 20
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 2 DE 7 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ Vamos con otro pick 🍀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n✅ Os dejo otro pick que pinta muy bien 👀\n✅ Este nos encanta para hoy 🔥\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n❌ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥\n⏳ Os dejo el pick, familia 👇 · pendiente\n\n✅ 2 acertadas · ❌ 5 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 4 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ Vamos con otro pick 🍀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n❔ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥 · faltan datos\n⏳ Os dejo el pick, familia 👇 · pendiente\n\n✅ 0 acertadas · ❌ 4 falladas · ⏳ 6 sin resolver"
   }
 }
