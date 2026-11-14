@@ -65,11 +65,30 @@
   "repe-2026-11-14-1528974|Match Winner|Home": "2026-11-14T16:32",
   "foto-2026-11-14-verde-auto-2026-11-14-pick-seguro-2": "2026-11-14T21:20",
   "prensa-1528984-b03eb932": "2026-11-14T21:50",
-  "prensa-1528984-7646f75a": "2026-11-14T21:50"
+  "prensa-1528984-7646f75a": "2026-11-14T21:50",
+  "prensa-1528990-66062339": "2026-11-15T00:42",
+  "prensa-1528991-6a15acde": "2026-11-15T00:42"
  },
- "abiertos": [],
- "revisado": "2026-11-15T00:32",
+ "abiertos": [
+  {
+   "clave": "prensa-1528990-66062339",
+   "t": "📰 Alemania–Países Bajos: «De Jong abandona la concentración de Países Bajos y no jugará ante Alemania» (Europa Press) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "clave": "prensa-1528991-6a15acde",
+   "t": "📰 Grecia–Serbia: «La Holanda de Xavi baja a la tierra a Grecia y mete miedo ganando ¡7-0! en la Liga de Naciones» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
+  }
+ ],
+ "revisado": "2026-11-15T00:42",
  "historial": [
+  {
+   "hora": "2026-11-15T00:42",
+   "t": "📰 Alemania–Países Bajos: «De Jong abandona la concentración de Países Bajos y no jugará ante Alemania» (Europa Press) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "hora": "2026-11-15T00:42",
+   "t": "📰 Grecia–Serbia: «La Holanda de Xavi baja a la tierra a Grecia y mete miedo ganando ¡7-0! en la Liga de Naciones» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
   {
    "hora": "2026-11-14T21:50",
    "t": "📰 España–Inglaterra: «Grimaldo abandona la concentración de España y es baja contra Inglaterra» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
@@ -301,14 +320,6 @@
   {
    "hora": "2026-11-12T06:58",
    "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "📰 Italia–Francia: «Aurélien Tchouaméni es baja por lesión para los duelos de Francia por la Liga de Naciones» (El Nacional) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
   }
  ]
 }
