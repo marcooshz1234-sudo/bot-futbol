@@ -148,6 +148,9 @@ def ajustar_al_lienzo(pagina, alto):
     """No guardar un post o fotograma con el pie o el texto fuera del lienzo."""
     pagina.evaluate("document.fonts.ready")
     pagina.evaluate("window.scrollTo(0, 0)")
+    # 14/11: en vertical (centrado) un texto muy largo se salía por arriba y el escalado no lo arreglaba
+    if pagina.evaluate("() => Math.min(...Array.from(document.body.children, el => el.getBoundingClientRect().top))") < -1:
+        pagina.add_style_tag(content="body,body.v{justify-content:flex-start !important}")
     fondo = pagina.evaluate("""() => Math.max(...Array.from(document.body.children,
         el => el.getBoundingClientRect().bottom)) + 24""")
     if fondo > alto:
@@ -381,14 +384,22 @@ def main():
     with sync_playwright() as pw:
         nav = pw.chromium.launch()
         pagina = nav.new_page()
+        fallos = 0
         for p in cola:
             if ids and p["id"] not in ids:
                 continue
-            img, mp4 = generar(p, pagina)
+            try:
+                img, mp4 = generar(p, pagina)
+            except Exception as e:   # 14/11: un post que falla no bloquea los demás
+                print(f"imagenes: {p['id']} falló: {str(e)[:150]}")
+                fallos += 1
+                continue
             if pendientes:
                 (MEDIA / f"{p['id']}.huella").write_text(huella(p))
             print(img.name, mp4.name)
         nav.close()
+    if fallos:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
