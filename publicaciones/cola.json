@@ -6318,5 +6318,21 @@
     },
     "enviado": "2026-11-14T21:37",
     "mensaje_id": 469
+  },
+  {
+    "id": "2026-11-15-pick-tip-1",
+    "fecha": "2026-11-14T22:37",
+    "texto": "Otro pick que nos gusta mucho familia 🔥\n\n🍀 Más de 2,5 goles en España–Inglaterra @1,60\n\n⚽ España – Inglaterra · mañana 20:45",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528984|Goals Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.6
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
