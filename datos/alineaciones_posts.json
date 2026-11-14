@@ -3488,6 +3488,153 @@
    "xi": [],
    "banquillo": [],
    "equipos": {}
+  },
+  "1570024": {
+   "hora": "2026-11-14T13:35:22.908954+01:00",
+   "xi": [
+    "Álvaro Aceves",
+    "Trilli",
+    "Miguel Rubio",
+    "David Torres",
+    "Clerc",
+    "T. Ojeda",
+    "S. Jurić",
+    "J. Ponceau",
+    "T. Abed",
+    "Víctor Fernández",
+    "Adrian Arnuncio",
+    "R. Matthys",
+    "J. Mellot",
+    "Alberto Jiménez",
+    "A. Sienra",
+    "Juanjo Nieto",
+    "Barri",
+    "Álvaro Martín",
+    "Iñigo Córdoba",
+    "Pablo Santiago",
+    "A. Jakobsen",
+    "Ousmane Camara"
+   ],
+   "banquillo": [
+    "Iván Garriel",
+    "Yeray Cabanzón",
+    "R. Ito",
+    "M. Lachuer",
+    "Dani Martín",
+    "Ramón Martínez",
+    "Dani Pérez",
+    "Luis Chacón",
+    "Pablo Tomeo",
+    "K. de Rooij",
+    "R. Duiven",
+    "Victor Barberá",
+    "Lucas Alcázar",
+    "Hamza Bellari",
+    "F. Ceccherini",
+    "Martín Conde",
+    "A. Gala",
+    "Varo García",
+    "I. Kostis",
+    "D. Muale Nzanza",
+    "Raúl Sánchez",
+    "Sergi Torner",
+    "J. Vlak",
+    "M. Willmann"
+   ],
+   "equipos": {
+    "720": [
+     {
+      "n": "Álvaro Aceves",
+      "pos": "G"
+     },
+     {
+      "n": "Trilli",
+      "pos": "D"
+     },
+     {
+      "n": "Miguel Rubio",
+      "pos": "D"
+     },
+     {
+      "n": "David Torres",
+      "pos": "D"
+     },
+     {
+      "n": "Clerc",
+      "pos": "D"
+     },
+     {
+      "n": "T. Ojeda",
+      "pos": "M"
+     },
+     {
+      "n": "S. Jurić",
+      "pos": "M"
+     },
+     {
+      "n": "J. Ponceau",
+      "pos": "M"
+     },
+     {
+      "n": "T. Abed",
+      "pos": "M"
+     },
+     {
+      "n": "Víctor Fernández",
+      "pos": "F"
+     },
+     {
+      "n": "Adrian Arnuncio",
+      "pos": "F"
+     }
+    ],
+    "5254": [
+     {
+      "n": "R. Matthys",
+      "pos": "G"
+     },
+     {
+      "n": "J. Mellot",
+      "pos": "D"
+     },
+     {
+      "n": "Alberto Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "A. Sienra",
+      "pos": "D"
+     },
+     {
+      "n": "Juanjo Nieto",
+      "pos": "M"
+     },
+     {
+      "n": "Barri",
+      "pos": "M"
+     },
+     {
+      "n": "Álvaro Martín",
+      "pos": "M"
+     },
+     {
+      "n": "Iñigo Córdoba",
+      "pos": "M"
+     },
+     {
+      "n": "Pablo Santiago",
+      "pos": "M"
+     },
+     {
+      "n": "A. Jakobsen",
+      "pos": "M"
+     },
+     {
+      "n": "Ousmane Camara",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
