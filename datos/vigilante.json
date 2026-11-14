@@ -62,24 +62,33 @@
   "estrella-2026-11-15-ganadores-nations-KylianMbappé": "2026-11-14T11:59",
   "repe-2026-11-14-1570015|Match Winner|Home": "2026-11-14T16:32",
   "repe-2026-11-14-1528978|Match Winner|Home": "2026-11-14T16:32",
-  "repe-2026-11-14-1528974|Match Winner|Home": "2026-11-14T16:32"
+  "repe-2026-11-14-1528974|Match Winner|Home": "2026-11-14T16:32",
+  "foto-2026-11-14-verde-auto-2026-11-14-pick-seguro-2": "2026-11-14T21:20"
  },
  "abiertos": [
+  {
+   "clave": "foto-2026-11-14-verde-auto-2026-11-14-pick-seguro-2",
+   "t": "🖼️ Sale a las 21:34 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "clave": "repe-2026-11-14-1570015|Match Winner|Home",
    "t": "🔁 14/11: el mismo pronóstico en 3 posts (pick-tip-1, pick-tip-3, boleto-personal-2)"
   },
   {
-   "clave": "repe-2026-11-14-1528974|Match Winner|Home",
-   "t": "🔁 14/11: el mismo pronóstico en 3 posts (boleto-personal-2, pick-seguro, combi-tres)"
-  },
-  {
    "clave": "repe-2026-11-14-1528978|Match Winner|Home",
    "t": "🔁 14/11: el mismo pronóstico en 3 posts (boleto-personal-2, combi-tres, pick-seguro-2)"
+  },
+  {
+   "clave": "repe-2026-11-14-1528974|Match Winner|Home",
+   "t": "🔁 14/11: el mismo pronóstico en 3 posts (boleto-personal-2, pick-seguro, combi-tres)"
   }
  ],
- "revisado": "2026-11-14T21:09",
+ "revisado": "2026-11-14T21:20",
  "historial": [
+  {
+   "hora": "2026-11-14T21:20",
+   "t": "🖼️ Sale a las 21:34 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "hora": "2026-11-14T16:32",
    "t": "🔁 14/11: el mismo pronóstico en 3 posts (pick-tip-1, pick-tip-3, boleto-personal-2)"
@@ -315,10 +324,6 @@
   {
    "hora": "2026-11-12T06:58",
    "t": "📰 Serbia–Alemania: «Said El Mala se pierde el entrenamiento de Alemania antes del duelo de la Nations League contra Serbia» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
-  },
-  {
-   "hora": "2026-11-12T05:55",
-   "t": "📰 Italia–Francia: «Mbappé out against Italy—Zidane confirmed» (Yahoo Sports) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
   }
  ]
 }
