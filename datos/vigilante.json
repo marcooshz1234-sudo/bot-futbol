@@ -58,16 +58,25 @@
   "bucle-imagenes-2026111406": "2026-11-14T06:01",
   "bucle-imagenes-2026111407": "2026-11-14T07:10",
   "bucle-imagenes-2026111408": "2026-11-14T08:01",
-  "bucle-imagenes-2026111409": "2026-11-14T09:10"
+  "bucle-imagenes-2026111409": "2026-11-14T09:10",
+  "estrella-2026-11-15-ganadores-nations-KylianMbappé": "2026-11-14T11:59"
  },
  "abiertos": [
   {
    "clave": "prensa-1528971-f5ca567f",
    "t": "📰 Kosovo–Israel: «Dos jugadores israelíes son duda para el partido contra Kosovo.» (KOHA.net) · tenemos 1 post(s) de este partido: combi-tres"
+  },
+  {
+   "clave": "estrella-2026-11-15-ganadores-nations-KylianMbappé",
+   "t": "⭐ Francia–Turquía: «¿Juega Kylian Mbappé ante Turquía? Última hora de su lesión» (365Scores). «🏆 NATIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo"
   }
  ],
- "revisado": "2026-11-14T11:49",
+ "revisado": "2026-11-14T11:59",
  "historial": [
+  {
+   "hora": "2026-11-14T11:59",
+   "t": "⭐ Francia–Turquía: «¿Juega Kylian Mbappé ante Turquía? Última hora de su lesión» (365Scores). «🏆 NATIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo"
+  },
   {
    "hora": "2026-11-14T09:10",
    "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
