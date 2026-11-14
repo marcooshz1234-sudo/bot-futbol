@@ -27,17 +27,6 @@
  },
  "top": [
   {
-   "local": "Sweden",
-   "visitante": "Bosnia & Herzegovina",
-   "inicio": "2026-11-14T20:45",
-   "texto": "Sweden marca 2 o más",
-   "cuota": 1.5,
-   "justa": 1.48,
-   "ev": 0.014,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
    "local": "Almeria",
    "visitante": "FC Andorra",
    "inicio": "2026-11-14T18:30",
@@ -83,7 +72,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T11:15",
+  "hora": "2026-11-14T11:38",
   "revisadas": 0,
   "mejor": null
  },
