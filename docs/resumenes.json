@@ -1905,17 +1905,17 @@
     "total": 9,
     "cuentas": {
       "verde": 0,
-      "rojo": 1,
+      "rojo": 4,
       "pendiente": 5,
-      "sin_datos": 3,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 5
     },
     "combis": [
       {
         "id": "2026-11-14-ganadores-nations",
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1927,7 +1927,7 @@
       {
         "id": "2026-11-14-escalera",
         "titulo": "🪜 Reto escalera · Día 1/7",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1945,7 +1945,7 @@
       {
         "id": "2026-11-14-combi-tres",
         "titulo": "Vamos con la combi del sábado familia 🔥",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -1969,9 +1969,9 @@
     ],
     "picks": {
       "verde": 0,
-      "rojo": 1,
+      "rojo": 3,
       "total": 20
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 1 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n⏳ Vamos con otro pick 🍀 · pendiente\n❔ 🪜 Reto escalera · Día 1/7 · faltan datos\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n❔ Vamos con la combi del sábado familia 🔥 · faltan datos\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 4 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ Vamos con otro pick 🍀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 4 falladas · ⏳ 5 sin resolver"
   }
 }
