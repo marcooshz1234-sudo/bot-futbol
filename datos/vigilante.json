@@ -63,7 +63,9 @@
   "repe-2026-11-14-1570015|Match Winner|Home": "2026-11-14T16:32",
   "repe-2026-11-14-1528978|Match Winner|Home": "2026-11-14T16:32",
   "repe-2026-11-14-1528974|Match Winner|Home": "2026-11-14T16:32",
-  "foto-2026-11-14-verde-auto-2026-11-14-pick-seguro-2": "2026-11-14T21:20"
+  "foto-2026-11-14-verde-auto-2026-11-14-pick-seguro-2": "2026-11-14T21:20",
+  "prensa-1528984-b03eb932": "2026-11-14T21:50",
+  "prensa-1528984-7646f75a": "2026-11-14T21:50"
  },
  "abiertos": [
   {
@@ -77,10 +79,26 @@
   {
    "clave": "repe-2026-11-14-1528974|Match Winner|Home",
    "t": "🔁 14/11: el mismo pronóstico en 3 posts (boleto-personal-2, pick-seguro, combi-tres)"
+  },
+  {
+   "clave": "prensa-1528984-b03eb932",
+   "t": "📰 España–Inglaterra: «Grimaldo abandona la concentración de España y es baja contra Inglaterra» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "clave": "prensa-1528984-7646f75a",
+   "t": "📰 España–Inglaterra: «España exige la final del Mundial 2030 y descarta retirar su candidatura» (El Economista) · tenemos 1 post(s) de este partido: ganadores-nations"
   }
  ],
- "revisado": "2026-11-14T21:38",
+ "revisado": "2026-11-14T21:50",
  "historial": [
+  {
+   "hora": "2026-11-14T21:50",
+   "t": "📰 España–Inglaterra: «Grimaldo abandona la concentración de España y es baja contra Inglaterra» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "hora": "2026-11-14T21:50",
+   "t": "📰 España–Inglaterra: «España exige la final del Mundial 2030 y descarta retirar su candidatura» (El Economista) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
   {
    "hora": "2026-11-14T21:20",
    "t": "🖼️ Sale a las 21:34 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
@@ -312,14 +330,6 @@
   {
    "hora": "2026-11-12T06:58",
    "t": "📰 Italia–Francia: «Tchouaméni vuelve a lesionarse y abandona la concentración de Francia» (El Debate) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "📰 Italia–Francia: «Tchouaméni, lesionado, causa baja con Francia» (www.abc.com.py) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "📰 Serbia–Alemania: «Said El Mala se pierde el entrenamiento de Alemania antes del duelo de la Nations League contra Serbia» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
   }
  ]
 }
