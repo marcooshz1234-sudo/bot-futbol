@@ -35,7 +35,7 @@
    "justa": 1.64,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Sweden",
@@ -46,11 +46,11 @@
    "justa": 1.7,
    "ev": -0.02,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T19:15",
+  "hora": "2026-11-14T19:35",
   "revisadas": 0,
   "mejor": null
  },
