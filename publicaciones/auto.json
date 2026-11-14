@@ -4721,7 +4721,7 @@
   {
     "id": "2026-11-14-pick-seguro-2",
     "fecha": "2026-11-14T18:00",
-    "texto": "Os dejo el pick, familia 👇\n\n⚽ Suecia – Bosnia · 20:45\n\n🍀 Gana Suecia @1,50\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo el pick, familia 👇\n\n⚽ Suecia – Bosnia · 20:45\n\n🍀 Gana Suecia @1,45\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -4729,8 +4729,9 @@
       "1528978|Match Winner|Home"
     ],
     "cuotas": [
-      1.5
-    ]
+      1.45
+    ],
+    "cuotas_revisadas": "2026-11-14T16:32"
   },
   {
     "id": "2026-11-15-ganadores-nations",
