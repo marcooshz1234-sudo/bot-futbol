@@ -1991,5 +1991,31 @@
       "total": 25
     },
     "texto": "📊 BALANCE DEL SÁBADO: 3 DE 10 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n❌ Vamos con otro pick 🍀\n❌ 🪜 Reto escalera · Día 1/7\n✅ Os dejo otro pick que pinta muy bien 👀\n✅ Este nos encanta para hoy 🔥\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n❌ Esta es de las que nos gustan: cuota para la noche 🔥\n❌ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥\n✅ Os dejo el pick, familia 👇\n⏳ Otro pick que nos gusta mucho familia 🔥 · pendiente\n⏳ 📊 RESUMEN DEL SÁBADO 🍀 · pendiente\n\n✅ 3 acertadas · ❌ 7 falladas · ⏳ 2 sin resolver"
+  },
+  "2026-11-15": {
+    "dia": "2026-11-15",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-15-ganadores-nations",
+        "titulo": "🏆 NATIONS LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 7
+    },
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }
