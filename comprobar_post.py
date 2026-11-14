@@ -107,7 +107,7 @@ def comprobar(p, texto=None, otros=None):
     if not es_copia(p) and not any(k in pid for k in ("ganadores", "marcadores", "cuotaza", "lista", "exactos", "combi-500", "boleto")):   # 14/11: los boletos de Marcos (bet365) tampoco
         from bot import CUOTA_MAXIMA_PATA
         altas = [c for c in (p.get("cuotas") or []) if float(c) > CUOTA_MAXIMA_PATA]
-        if altas:   # 13/11 (Marcos: «patas de máximo 1,8»)
+        if altas and not p.get("excepcion_cuota"):   # 13/11 (Marcos: «patas de máximo 1,8»); 14/11: salvo OK suyo en ese post
             fallos.append(("cuota_alta", f"pata de más de {CUOTA_MAXIMA_PATA:.2f} (@{max(altas):.2f})".replace(".", ",")))
     if sels and "ganadores" not in pid and "marcadores" not in pid:
         from plantillas import choca

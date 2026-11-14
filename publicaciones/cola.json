@@ -6091,5 +6091,20 @@
       "facebook": null,
       "threads": "18120532415004352"
     }
+  },
+  {
+    "id": "2026-11-14-pick-oviedo",
+    "fecha": "2026-11-14T14:27",
+    "texto": "Esta es de las que nos gustan: cuota para la noche 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🍀 Gana el Oviedo @2,45\n\n⚽ Oviedo – Girona · hoy 21:00\n\n👨‍💻 El Girona llega sin Vanat, su delantero (5 goles y 2 asistencias): está con Ucrania en el parón.\n👨‍💻 En el Tartiere el Oviedo aprieta mucho: 18 tiros y 7 córners por partido.\n👨‍💻 Lleva 6 partidos seguidos marcando, y el último Oviedo–Girona en su campo acabó 1-0.\n👨‍💻 Con la promo de bet365, si se pone 2 goles arriba ya está pagada.\n\n💶 10€ → 24,50€",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "sel": [
+      "1570021|Match Winner|Home"
+    ],
+    "cuotas": [
+      2.45
+    ],
+    "excepcion_cuota": "14/11 OK de Marcos («dale») a @2,45, por encima del máximo de 1,80"
   }
 ]

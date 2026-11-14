@@ -25,6 +25,11 @@ class ComprobarPost(unittest.TestCase):
         self.assertIn("cuota_alta", self.reglas(self.post(sels, cuotas)))
         self.assertNotIn("cuota_alta", self.reglas(self.post(sels, cuotas, id="2026-11-21-combi-500")))
 
+    def test_excepcion_de_cuota_con_ok_de_marcos(self):   # 14/11: «Gana el Oviedo @2,45», con su «dale»
+        p = self.post(["1|Match Winner|Home"], [2.45])
+        self.assertIn("cuota_alta", self.reglas(p))
+        self.assertNotIn("cuota_alta", self.reglas(dict(p, excepcion_cuota="14/11 OK de Marcos")))
+
     def test_mas_de_25_y_tarjetas_totales(self):   # los dos fallos de la combi Italia–Francia
         self.assertIn("mercado", self.reglas(self.post(["1|Goals Over/Under|Over 2.5", "1|Both Teams Score|Yes"], [1.67, 1.57])))
         self.assertIn("mercado", self.reglas(self.post(["1|Cards Over/Under|Over 3.5", "1|Both Teams Score|Yes"], [1.8, 1.57])))
