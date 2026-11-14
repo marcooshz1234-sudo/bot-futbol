@@ -5981,6 +5981,15 @@
     "cuotas": [
       1.75
     ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-14-pick-tip-1.tg.jpg",
+    "enviado": "2026-11-14T11:12",
+    "mensaje_id": 458,
+    "redes": {
+      "threads": "18120389132008331"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]
