@@ -3484,10 +3484,151 @@
    "equipos": {}
   },
   "1528971": {
-   "hora": "2026-11-14T14:26:44.237334+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T14:36:57.347528+01:00",
+   "xi": [
+    "A. Saipi",
+    "L. Kamberi",
+    "K. Hajrizi",
+    "I. Krasniqi",
+    "D. Gallapeni",
+    "L. Avdullahu",
+    "E. Zhegrova",
+    "M. Vojvoda",
+    "V. Hodža",
+    "M. Rashica",
+    "V. Muriqi",
+    "Daniel Peretz",
+    "E. Dasa",
+    "R. Shlomo",
+    "N. Yehoshua",
+    "I. Nachmias",
+    "N. Stoioanov",
+    "L. Abada",
+    "Dor Peretz",
+    "E. Azoulay",
+    "O. Gloukh",
+    "I. Toklomati Giorno"
+   ],
+   "banquillo": [
+    "M. Avdyli",
+    "F. Asllani",
+    "V. Bekaj",
+    "L. Emërllahu",
+    "B. Fazliji",
+    "D. Kacuri",
+    "B. Kurtulus",
+    "A. Murić",
+    "R. Raci",
+    "E. Rexhbeçaj",
+    "A. Rrahmani",
+    "B. Zabërgja",
+    "I. Feingold",
+    "Y. Levi",
+    "A. Tzur",
+    "D. Turgeman",
+    "Y. Shua",
+    "R. Revivo",
+    "G. Mizrahi",
+    "G. Kanichowsky",
+    "O. Glazer",
+    "O. Gandelman",
+    "Z. Ahmed",
+    "N. Sztejfman"
+   ],
+   "equipos": {
+    "1111": [
+     {
+      "n": "A. Saipi",
+      "pos": "G"
+     },
+     {
+      "n": "L. Kamberi",
+      "pos": "D"
+     },
+     {
+      "n": "K. Hajrizi",
+      "pos": "D"
+     },
+     {
+      "n": "I. Krasniqi",
+      "pos": "D"
+     },
+     {
+      "n": "D. Gallapeni",
+      "pos": "D"
+     },
+     {
+      "n": "L. Avdullahu",
+      "pos": "M"
+     },
+     {
+      "n": "E. Zhegrova",
+      "pos": "M"
+     },
+     {
+      "n": "M. Vojvoda",
+      "pos": "M"
+     },
+     {
+      "n": "V. Hodža",
+      "pos": "M"
+     },
+     {
+      "n": "M. Rashica",
+      "pos": "M"
+     },
+     {
+      "n": "V. Muriqi",
+      "pos": "F"
+     }
+    ],
+    "1116": [
+     {
+      "n": "Daniel Peretz",
+      "pos": "G"
+     },
+     {
+      "n": "E. Dasa",
+      "pos": "D"
+     },
+     {
+      "n": "R. Shlomo",
+      "pos": "D"
+     },
+     {
+      "n": "N. Yehoshua",
+      "pos": "D"
+     },
+     {
+      "n": "I. Nachmias",
+      "pos": "D"
+     },
+     {
+      "n": "N. Stoioanov",
+      "pos": "D"
+     },
+     {
+      "n": "L. Abada",
+      "pos": "M"
+     },
+     {
+      "n": "Dor Peretz",
+      "pos": "M"
+     },
+     {
+      "n": "E. Azoulay",
+      "pos": "M"
+     },
+     {
+      "n": "O. Gloukh",
+      "pos": "M"
+     },
+     {
+      "n": "I. Toklomati Giorno",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570024": {
    "hora": "2026-11-14T13:35:22.908954+01:00",
