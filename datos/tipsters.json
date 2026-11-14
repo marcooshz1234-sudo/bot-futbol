@@ -2390,5 +2390,27 @@
    "prob_pinnacle": 0.557,
    "valor_pinnacle": 0.019
   }
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/44984",
+  "dia": "2026-11-14",
+  "local": "Almeria",
+  "visitante": "FC Andorra",
+  "partido_id": 1570015,
+  "texto": "Gana el Almeria",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Segunda División",
+   "cuota_bet365": 1.8,
+   "prob_cuota": 0.556,
+   "prob_pinnacle": 0.557,
+   "valor_pinnacle": 0.002
+  }
  }
 ]

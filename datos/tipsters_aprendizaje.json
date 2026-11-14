@@ -18,6 +18,15 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 3.761
   },
+  "INSIDER": {
+   "n": 11,
+   "verdes": 9,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 2.41,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 6.199
+  },
   "TRADER FOOTBALL || FREE": {
    "n": 11,
    "verdes": 3,
@@ -26,15 +35,6 @@
    "unidades": 1.72,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.915
-  },
-  "INSIDER": {
-   "n": 10,
-   "verdes": 9,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 2.41,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 6.199
   },
   "Tipster Pérez": {
    "n": 8,
@@ -152,7 +152,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 12,
+   "n": 13,
    "verdes": 6,
    "rojos": 2,
    "nulos": 0,
@@ -479,7 +479,7 @@
    "prob_cuota": 2.248
   },
   "Almeria": {
-   "n": 3,
+   "n": 4,
    "verdes": 1,
    "rojos": 0,
    "nulos": 0,
@@ -681,7 +681,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 55,
+   "n": 56,
    "verdes": 29,
    "rojos": 5,
    "nulos": 0,
@@ -773,7 +773,7 @@
    "prob_cuota": 16.249
   },
   "?": {
-   "n": 23,
+   "n": 24,
    "verdes": 12,
    "rojos": 2,
    "nulos": 0,
@@ -836,7 +836,7 @@
    "prob_cuota": 3.05
   },
   "Segunda División": {
-   "n": 2,
+   "n": 3,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -863,7 +863,7 @@
    "prob_cuota": 14.411
   },
   "local": {
-   "n": 25,
+   "n": 26,
    "verdes": 11,
    "rojos": 6,
    "nulos": 0,
@@ -883,7 +883,7 @@
    "prob_cuota": 20.995
   },
   "—": {
-   "n": 25,
+   "n": 26,
    "verdes": 6,
    "rojos": 7,
    "nulos": 0,
@@ -956,14 +956,14 @@
    "resueltos_con_cuota": 49,
    "prob_cuota": 33.875
   },
-  "sin valor": {
-   "n": 1,
+  "con valor": {
+   "n": 2,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
   },
-  "con valor": {
+  "sin valor": {
    "n": 1,
    "verdes": 0,
    "rojos": 0,
