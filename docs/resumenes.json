@@ -1902,14 +1902,14 @@
   },
   "2026-11-14": {
     "dia": "2026-11-14",
-    "total": 4,
+    "total": 5,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 4,
+      "pendiente": 5,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 4
+      "sin_resolver": 5
     },
     "combis": [
       {
@@ -1935,6 +1935,12 @@
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-14-pick-tip-3",
+        "titulo": "Este nos encanta para hoy 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
@@ -1942,6 +1948,6 @@
       "rojo": 0,
       "total": 7
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Vamos con otro pick 🍀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Vamos con otro pick 🍀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
