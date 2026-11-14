@@ -1904,12 +1904,12 @@
     "dia": "2026-11-14",
     "total": 10,
     "cuentas": {
-      "verde": 0,
+      "verde": 3,
       "rojo": 5,
-      "pendiente": 3,
-      "sin_datos": 2,
+      "pendiente": 2,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -1933,13 +1933,13 @@
       {
         "id": "2026-11-14-pick-tip-1",
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
         "id": "2026-11-14-pick-tip-3",
         "titulo": "Este nos encanta para hoy 🔥",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -1969,15 +1969,15 @@
       {
         "id": "2026-11-14-pick-seguro-2",
         "titulo": "Os dejo el pick, familia 👇",
-        "estado": "pendiente",
+        "estado": "verde",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 3,
+      "verde": 6,
       "rojo": 5,
       "total": 20
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 5 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ Vamos con otro pick 🍀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n❔ Este nos encanta para hoy 🔥 · faltan datos\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n❌ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥\n⏳ Os dejo el pick, familia 👇 · pendiente\n\n✅ 0 acertadas · ❌ 5 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 8 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ Vamos con otro pick 🍀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n✅ Os dejo otro pick que pinta muy bien 👀\n✅ Este nos encanta para hoy 🔥\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n❌ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥\n✅ Os dejo el pick, familia 👇\n\n✅ 3 acertadas · ❌ 5 falladas · ⏳ 2 sin resolver"
   }
 }
