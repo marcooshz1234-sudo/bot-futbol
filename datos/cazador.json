@@ -35,7 +35,7 @@
    "justa": 2.18,
    "ev": 0.011,
    "fuente": "las otras casas",
-   "edad_h": 3.7
+   "edad_h": 4.1
   },
   {
    "local": "Real Madrid W",
@@ -46,11 +46,11 @@
    "justa": 2.21,
    "ev": -0.003,
    "fuente": "las otras casas",
-   "edad_h": 3.7
+   "edad_h": 4.1
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T05:50",
+  "hora": "2026-11-14T06:12",
   "revisadas": 0,
   "mejor": null
  },
