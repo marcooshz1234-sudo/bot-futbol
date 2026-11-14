@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 10:23",
+ "actualizado": "2026-11-14 10:33",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -58,9 +58,9 @@
  "total_hoy": 31,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-14",
-  "titulo": "Vamos con otro pick"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": null,
  "escalera": {
@@ -208,7 +208,7 @@
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 41,
+   "posts": 42,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -223,7 +223,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 7,
+   "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
