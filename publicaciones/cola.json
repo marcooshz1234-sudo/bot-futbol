@@ -6343,5 +6343,17 @@
     "foto_tg": "publicaciones/media/2026-11-15-pick-tip-1.tg.jpg",
     "enviado": "2026-11-14T22:39",
     "mensaje_id": 470
+  },
+  {
+    "id": "2026-11-14-rojo-auto-2026-11-14-pick-seguro",
+    "fecha": "2026-11-14T22:59",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Gana Portugal (Portugal – Dinamarca 1–4)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-14-pick-seguro",
+    "requiere_ok": true,
+    "sin_instagram": true
   }
 ]
