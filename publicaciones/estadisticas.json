@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 10:54",
+ "actualizado": "2026-11-14 11:04",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -58,9 +58,9 @@
  "total_hoy": 31,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "13:30",
   "dia": "2026-11-14",
-  "titulo": "Reto escalera · día 1/7"
+  "titulo": "Vamos con la combi del sábado familia"
  },
  "ayer": null,
  "escalera": {
@@ -207,8 +207,13 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 5,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 42,
+   "posts": 41,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -224,11 +229,6 @@
   },
   "Combi loca (reel)": {
    "posts": 6,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
