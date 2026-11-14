@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-14 23:51",
+ "actualizado": "2026-11-15 00:01",
  "redes": {
   "instagram": {
    "seguidores": 40,
    "hoy": 0,
    "serie": [
-    35,
     36,
     36,
     37,
+    40,
     40,
     40,
     40
    ]
   },
   "threads": {
-   "seguidores": 2776,
-   "hoy": 38,
+   "seguidores": 2777,
+   "hoy": 1,
    "serie": [
-    2231,
     2359,
     2593,
     2644,
     2691,
     2738,
-    2776
+    2776,
+    2777
    ]
   },
   "facebook": {
@@ -41,28 +41,31 @@
    ]
   },
   "telegram": {
-   "seguidores": 404,
-   "hoy": 3,
+   "seguidores": 405,
+   "hoy": 1,
    "serie": [
-    331,
     360,
     378,
     384,
     391,
     401,
-    404
+    404,
+    405
    ]
   }
  },
- "total": 3221,
- "total_hoy": 41,
- "likes_hoy": 2,
+ "total": 3223,
+ "total_hoy": 2,
+ "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-15",
-  "titulo": "Nations league - ganadores"
+  "titulo": "Os dejo el pick, familia"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 1,
+  "total": 1
+ },
  "escalera": {
   "dia": 1,
   "de": 7,
@@ -204,6 +207,12 @@
    "threads": 2776,
    "facebook": 1,
    "telegram": 404
+  },
+  "2026-11-15": {
+   "instagram": 40,
+   "threads": 2777,
+   "facebook": 1,
+   "telegram": 405
   }
  },
  "tipos_instagram": {
