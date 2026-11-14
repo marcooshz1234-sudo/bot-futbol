@@ -10,7 +10,7 @@
    "prob_cuota": 2.453
   },
   "TipsAnalistas": {
-   "n": 11,
+   "n": 12,
    "verdes": 6,
    "rojos": 4,
    "nulos": 0,
@@ -152,7 +152,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 11,
+   "n": 12,
    "verdes": 6,
    "rojos": 2,
    "nulos": 0,
@@ -478,6 +478,13 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.248
   },
+  "Almeria": {
+   "n": 3,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Montenegro": {
    "n": 3,
    "verdes": 3,
@@ -504,13 +511,6 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.813
-  },
-  "Almeria": {
-   "n": 2,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "Albacete": {
    "n": 2,
@@ -681,7 +681,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 54,
+   "n": 55,
    "verdes": 29,
    "rojos": 5,
    "nulos": 0,
@@ -780,7 +780,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 9,
+   "n": 10,
    "verdes": 2,
    "rojos": 1,
    "nulos": 0,
@@ -836,7 +836,7 @@
    "prob_cuota": 3.05
   },
   "Segunda División": {
-   "n": 1,
+   "n": 2,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
@@ -863,7 +863,7 @@
    "prob_cuota": 14.411
   },
   "local": {
-   "n": 24,
+   "n": 25,
    "verdes": 11,
    "rojos": 6,
    "nulos": 0,
@@ -883,7 +883,7 @@
    "prob_cuota": 20.995
   },
   "—": {
-   "n": 24,
+   "n": 25,
    "verdes": 6,
    "rojos": 7,
    "nulos": 0,
@@ -957,6 +957,13 @@
    "prob_cuota": 33.875
   },
   "sin valor": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "con valor": {
    "n": 1,
    "verdes": 0,
    "rojos": 0,
