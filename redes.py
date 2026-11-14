@@ -115,6 +115,8 @@ def foto_threads(p):
         return url_media(p, "tarjeta.jpg")
     if re.search(r"-pick-seguro$", p["id"]):
         return url_media(p, "jpg")
+    if p.get("foto_en_threads") and p.get("foto"):   # 14/11 (Marcos): la foto de los dos escudos también en Threads
+        return url_media(p, p["foto"].rsplit(p["id"] + ".", 1)[-1])
     if "-boleto-" in p["id"] and p.get("foto"):   # 14/11 (Marcos): el boleto sin su captura no se entiende (el texto no lleva las patas)
         return url_media(p, "tarjeta.jpg")
     return None
