@@ -5966,5 +5966,21 @@
     "redes": {
       "threads": "18146267983719431"
     }
+  },
+  {
+    "id": "2026-11-14-pick-tip-1",
+    "fecha": "2026-11-14T11:12",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n📊 Con datos detrás, nada de corazonadas\n\n🍀 Gana el Almería @1,75\n\n⚽ Almeria – FC Andorra · hoy 18:30\n\n👨‍💻 El Almería juega en casa, donde es de los equipos más fuertes de Segunda",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1570015|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.75
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]

@@ -55,7 +55,7 @@
    "prob_cuota": 4.52
   },
   "STAKE REAL | JB APUESTAS": {
-   "n": 4,
+   "n": 5,
    "verdes": 1,
    "rojos": 0,
    "nulos": 0,
@@ -151,6 +151,15 @@
   }
  },
  "mercado": {
+  "Match Winner Home": {
+   "n": 11,
+   "verdes": 6,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.36,
+   "resueltos_con_cuota": 6,
+   "prob_cuota": 4.122
+  },
   "Goals Over/Under Over 1.5": {
    "n": 10,
    "verdes": 8,
@@ -159,15 +168,6 @@
    "unidades": 1.76,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.734
-  },
-  "Match Winner Home": {
-   "n": 10,
-   "verdes": 6,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.36,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 4.122
   },
   "Goals Over/Under Over 2.5": {
    "n": 8,
@@ -505,6 +505,13 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.813
   },
+  "Almeria": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Albacete": {
    "n": 2,
    "verdes": 2,
@@ -534,13 +541,6 @@
    "n": 1,
    "verdes": 0,
    "rojos": 1,
-   "nulos": 0,
-   "unidades": 0.0
-  },
-  "Almeria": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -699,7 +699,7 @@
    "prob_cuota": 11.949
   },
   "casa/fuera": {
-   "n": 15,
+   "n": 16,
    "verdes": 9,
    "rojos": 4,
    "nulos": 0,
@@ -744,7 +744,7 @@
    "prob_cuota": 3.038
   },
   "categoría": {
-   "n": 5,
+   "n": 6,
    "verdes": 2,
    "rojos": 3,
    "nulos": 0,
@@ -755,7 +755,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 30,
+   "n": 31,
    "verdes": 15,
    "rojos": 9,
    "nulos": 0,
@@ -834,6 +834,13 @@
    "unidades": -2.86,
    "resueltos_con_cuota": 4,
    "prob_cuota": 3.05
+  },
+  "Segunda División": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "lado": {
@@ -856,7 +863,7 @@
    "prob_cuota": 14.411
   },
   "local": {
-   "n": 23,
+   "n": 24,
    "verdes": 11,
    "rojos": 6,
    "nulos": 0,
@@ -894,7 +901,7 @@
    "prob_cuota": 1.421
   },
   "casa/fuera": {
-   "n": 15,
+   "n": 16,
    "verdes": 8,
    "rojos": 6,
    "nulos": 0,
@@ -930,7 +937,7 @@
    "prob_cuota": 2.957
   },
   "clasificación": {
-   "n": 2,
+   "n": 3,
    "verdes": 1,
    "rojos": 0,
    "nulos": 0,
@@ -948,6 +955,13 @@
    "unidades": 1.05,
    "resueltos_con_cuota": 49,
    "prob_cuota": 33.875
+  },
+  "sin valor": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  }
 }

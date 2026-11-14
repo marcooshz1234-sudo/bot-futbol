@@ -2315,5 +2315,32 @@
   "por_que": [
    "Argentina favorita en casa, pero en un amistoso con rotaciones y ante un Uruguay duro el empate tiene bastante peso; cuota justa, sin valor claro"
   ]
+ },
+ {
+  "tipster": "STAKE REAL | JB APUESTAS",
+  "fuente": "-1001938149766/12698",
+  "dia": "2026-11-14",
+  "hora": "18:30",
+  "local": "Almeria",
+  "visitante": "FC Andorra",
+  "texto": "Gana el Almería",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.75,
+  "stake": 2,
+  "argumento": [
+   "El Almería juega en casa, donde es de los equipos más fuertes de Segunda",
+   "Jornada 14 de Segunda División, sábado a las 18:30"
+  ],
+  "por_que": [
+   "Local con plantilla de ascenso ante un Andorra que sufre fuera; la cuota de 1,75 es razonable para la victoria local."
+  ],
+  "partido_id": 1570015,
+  "analisis": {
+   "liga": "Segunda División",
+   "prob_cuota": 0.571,
+   "prob_pinnacle": 0.557,
+   "valor_pinnacle": -0.026
+  }
  }
 ]
