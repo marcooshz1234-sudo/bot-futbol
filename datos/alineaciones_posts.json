@@ -3780,16 +3780,295 @@
    }
   },
   "1570015": {
-   "hora": "2026-11-14T18:00:05.016951+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T18:10:28.206203+01:00",
+   "xi": [
+    "Andrés Fernández",
+    "Chumi",
+    "Jorge Pulido",
+    "F. Bonini",
+    "Leonardo Lelo",
+    "Javi Muñoz",
+    "Mikel Vesga",
+    "Adri Embarba",
+    "Sergio Arribas",
+    "Quim Junyent",
+    "Miguel de la Fuente",
+    "Pau López",
+    "T. Carrique",
+    "Diego Alende",
+    "Marc Bombardó",
+    "D. Diaz",
+    "R. Schneider",
+    "Marc Domènech",
+    "Sergio Molina",
+    "Moró Sidibe",
+    "Jordi Cano",
+    "Nacho Quintana"
+   ],
+   "banquillo": [
+    "Á. Yaakobishvili",
+    "Thalys",
+    "D. Chirino",
+    "Léo Baptistão",
+    "Gui",
+    "Fernando Martínez",
+    "Jon Morcillo",
+    "Álex Muñoz",
+    "A. Popov",
+    "Álex Sola",
+    "Daniel Sánchez Gonell",
+    "T. Olmedo",
+    "Andoni López",
+    "Hugo López",
+    "S. Golubovic",
+    "Álex Calvo",
+    "N. Ratti",
+    "Julian Dean Rijkhoff",
+    "E. Sali",
+    "Juan Serrano",
+    "Hugo Solozábal",
+    "L. Spatz"
+   ],
+   "equipos": {
+    "723": [
+     {
+      "n": "Andrés Fernández",
+      "pos": "G"
+     },
+     {
+      "n": "Chumi",
+      "pos": "D"
+     },
+     {
+      "n": "Jorge Pulido",
+      "pos": "D"
+     },
+     {
+      "n": "F. Bonini",
+      "pos": "D"
+     },
+     {
+      "n": "Leonardo Lelo",
+      "pos": "D"
+     },
+     {
+      "n": "Javi Muñoz",
+      "pos": "M"
+     },
+     {
+      "n": "Mikel Vesga",
+      "pos": "M"
+     },
+     {
+      "n": "Adri Embarba",
+      "pos": "M"
+     },
+     {
+      "n": "Sergio Arribas",
+      "pos": "M"
+     },
+     {
+      "n": "Quim Junyent",
+      "pos": "M"
+     },
+     {
+      "n": "Miguel de la Fuente",
+      "pos": "F"
+     }
+    ],
+    "8157": [
+     {
+      "n": "Pau López",
+      "pos": "G"
+     },
+     {
+      "n": "T. Carrique",
+      "pos": "D"
+     },
+     {
+      "n": "Diego Alende",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Bombardó",
+      "pos": "D"
+     },
+     {
+      "n": "D. Diaz",
+      "pos": "M"
+     },
+     {
+      "n": "R. Schneider",
+      "pos": "M"
+     },
+     {
+      "n": "Marc Domènech",
+      "pos": "M"
+     },
+     {
+      "n": "Sergio Molina",
+      "pos": "M"
+     },
+     {
+      "n": "Moró Sidibe",
+      "pos": "M"
+     },
+     {
+      "n": "Jordi Cano",
+      "pos": "F"
+     },
+     {
+      "n": "Nacho Quintana",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570020": {
-   "hora": "2026-11-14T18:00:05.016951+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T18:10:28.206203+01:00",
+   "xi": [
+    "Arnau Tenas",
+    "Arnau Puigmal",
+    "Raíllo",
+    "A. Souhmahoro",
+    "Alberto Moreno",
+    "Álex Sala",
+    "Antonio Sánchez",
+    "Darder",
+    "Adrian Liso",
+    "Fuentes",
+    "Pablo Torre",
+    "Guilherme Fernandes",
+    "Daniel Budesca",
+    "Juan Gutiérrez",
+    "Rubén Alves",
+    "Dani Tasende",
+    "Adnane Ghailan",
+    "Isma Ruiz",
+    "Eder García",
+    "Diego Bri",
+    "Percan",
+    "S. El Jebari"
+   ],
+   "banquillo": [
+    "J. Garcia",
+    "Toni Dols",
+    "Iván Cuéllar",
+    "M. Calatayud",
+    "A. Buksa",
+    "J. Kalumba",
+    "Toni Lato",
+    "D. Luna",
+    "L. Orejuela",
+    "Abdón Prats",
+    "Iago Mendes Vicens",
+    "Alejandro Yerga González",
+    "Alejandro Arévalo Arrebola",
+    "D. Caceres",
+    "Nélson Monte",
+    "Álex Martín",
+    "Egoitz Muñoz",
+    "Enol Rodríguez",
+    "Ibai Sanz",
+    "V. Sanchez",
+    "T. Zidane",
+    "Iker Álvarez",
+    "Carlos Albarrán"
+   ],
+   "equipos": {
+    "798": [
+     {
+      "n": "Arnau Tenas",
+      "pos": "G"
+     },
+     {
+      "n": "Arnau Puigmal",
+      "pos": "D"
+     },
+     {
+      "n": "Raíllo",
+      "pos": "D"
+     },
+     {
+      "n": "A. Souhmahoro",
+      "pos": "D"
+     },
+     {
+      "n": "Alberto Moreno",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Sala",
+      "pos": "M"
+     },
+     {
+      "n": "Antonio Sánchez",
+      "pos": "M"
+     },
+     {
+      "n": "Darder",
+      "pos": "M"
+     },
+     {
+      "n": "Adrian Liso",
+      "pos": "M"
+     },
+     {
+      "n": "Fuentes",
+      "pos": "F"
+     },
+     {
+      "n": "Pablo Torre",
+      "pos": "F"
+     }
+    ],
+    "713": [
+     {
+      "n": "Guilherme Fernandes",
+      "pos": "G"
+     },
+     {
+      "n": "Daniel Budesca",
+      "pos": "D"
+     },
+     {
+      "n": "Juan Gutiérrez",
+      "pos": "D"
+     },
+     {
+      "n": "Rubén Alves",
+      "pos": "D"
+     },
+     {
+      "n": "Dani Tasende",
+      "pos": "D"
+     },
+     {
+      "n": "Adnane Ghailan",
+      "pos": "M"
+     },
+     {
+      "n": "Isma Ruiz",
+      "pos": "M"
+     },
+     {
+      "n": "Eder García",
+      "pos": "M"
+     },
+     {
+      "n": "Diego Bri",
+      "pos": "F"
+     },
+     {
+      "n": "Percan",
+      "pos": "F"
+     },
+     {
+      "n": "S. El Jebari",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
