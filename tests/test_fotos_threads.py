@@ -22,3 +22,11 @@ class FotosThreads(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class BoletoConFoto(unittest.TestCase):
+    def test_boleto_lleva_su_captura_en_threads(self):   # 14/11: la combinada personal salió sin foto y no se entendía
+        import redes
+        u = redes.foto_threads({"id": "2026-11-14-boleto-personal", "foto": "publicaciones/media/2026-11-14-boleto-personal.tarjeta.jpg"})
+        self.assertIn("2026-11-14-boleto-personal.tarjeta.jpg", u or "")
+        self.assertIsNone(redes.foto_threads({"id": "2026-11-14-pick-tip-1"}))

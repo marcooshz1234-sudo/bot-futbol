@@ -317,7 +317,7 @@ def pick_del_dia(p, w=1080, h=1350):
     info = " · ".join(x for x in (cuando(t, p.get("fecha", "")), liga) if x)
     if CL:
         # 11/11: los copiados de tipsters no son «el pick del día» (ese es solo el de las 10:30/18:00)
-        titulo = "PICK DEL DÍA" if "pick-seguro" in p.get("id", "") else (
+        titulo = "2º PICK DEL DÍA" if "pick-seguro-2" in p.get("id", "") else "PICK DEL DÍA" if "pick-seguro" in p.get("id", "") else (   # 14/11
             "PICK DE HOY" if cuando(t, p.get("fecha", "")).startswith("HOY") else "PICK DE MAÑANA")
         return _pick_cl(t, mayus(pick), cuota, stake, razon, info, w, h, titulo)
     pk = mayus(pick)

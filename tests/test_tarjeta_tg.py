@@ -80,3 +80,26 @@ class TarjetaTG(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Arreglos14Nov(unittest.TestCase):
+    """14/11 (Marcos: «arregla lo que me has dicho»): Crear apuesta en una fila cortada con «✓» y escudo sin tilde."""
+    def test_crear_apuesta_una_fila_por_condicion(self):
+        import tarjeta_tg as T
+        f = T.filas(["Más de 2,5 goles y gol en la 1ª parte en Noruega–Gales (Crear apuesta)"])
+        self.assertEqual([x["pick"] for x in f], ["+2,5 GOLES", "GOL 1ª PARTE"])
+        self.assertTrue(all(x["nombre"] == "Partido" for x in f))
+        self.assertNotIn("✓", [x["pick"] for x in f])
+
+    def test_escudo_con_o_sin_tilde(self):
+        import tarjeta_tg as T
+        from unittest import mock
+        with mock.patch.object(T, "_ESCUDOS", {"almeria": "https://x/723.png"}), \
+             mock.patch("pathlib.Path.exists", lambda self: True):
+            self.assertTrue(T.escudo_club("Almería").endswith("723.png"))
+
+
+class SegundoPick(unittest.TestCase):
+    def test_titulo_del_segundo_pick(self):
+        import inspect, fotos
+        self.assertIn("2º PICK DEL DÍA", inspect.getsource(fotos))

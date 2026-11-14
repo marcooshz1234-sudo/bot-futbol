@@ -40,6 +40,11 @@ def _pais(nombre):
 _ESCUDOS = None
 
 
+def _sin_tildes(t):
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFD", t) if unicodedata.category(c) != "Mn")
+
+
 def escudo_club(nombre):
     """13/11 (Marcos: «sí» a poner el escudo de los clubes): ruta del escudo guardado (escudos.py) del equipo, buscando
     su nombre (en inglés o en español) en los partidos de hoy y los próximos."""
@@ -64,8 +69,8 @@ def escudo_club(nombre):
         for n, url in pares:
             if n and url:
                 for clave in (n, nombre_es(n)):
-                    _ESCUDOS.setdefault(clave.lower(), url)
-    n = nombre.lower()
+                    _ESCUDOS.setdefault(_sin_tildes(clave.lower()), url)
+    n = _sin_tildes(nombre.lower())   # 14/11: «Almería» no encontraba «Almeria» (salía sin escudo)
     url = _ESCUDOS.get(n) or _ESCUDOS.get(re.sub(r"^(el|la|los|las) ", "", n))
     if not url:
         return ""
@@ -96,6 +101,13 @@ def fila(pata, partido=None, partido_ok=False):
               (r"^(.+?) (?:más de (\d+[,.]5) goles|marca 2 o más)$", lambda m: f"+{m.group(2) or '1,5'} GOLES"))
     if re.search(r"crear apuesta", pata, re.I) and not partido_ok:
         return None   # se trata en filas(): una fila por condición
+    nom = "Partido"   # 14/11: condiciones del partido entero (el partido va abajo, en la cinta)
+    for patron, pick in ((r"^(?:Partido )?más de (\d+[,.]5) (goles|córners|tarjetas)$", lambda m: f"+{m.group(1)} {m.group(2).upper()}"),
+                         (r"^(?:Partido )?(?:hay )?gol en la 1ª parte$", lambda m: "GOL 1ª PARTE"),
+                         (r"^(?:Partido )?ambos marcan$", lambda m: "AMBOS MARCAN")):
+        m = re.match(patron, t, re.I)
+        if m:
+            return {"nombre": nom, "pick": pick(m), "pais": None, "bandera": "⚽", "seleccion": False, "escudo": ""}
     for patron, pick, n in ((r"^Menos de (\d+[,.]5) (goles|córners|tarjetas) en la 1ª parte del? (.+)$",
                              lambda m: f"-{m.group(1)} {m.group(2).upper()} 1ªP", 3),
                             (r"^Más de (\d+[,.]5) (goles|córners|tarjetas) en la 1ª parte del? (.+)$",
@@ -127,7 +139,9 @@ def fila(pata, partido=None, partido_ok=False):
 def condiciones(pata):
     """«Serbia más de 6,5 remates y más de 1,5 goles en el partido (Crear apuesta)» → cada condición."""
     t = re.sub(r"\s*\((?:[^)]*Crear apuesta[^)]*)\)\s*", "", pata, flags=re.I).strip()
-    partes = [x.strip(" .") for x in re.split(r",\s+|\s+y\s+(?=[a-záéíóú]*\s*(?:más|menos|gana|no |marca|[A-ZÁÉÍÓÚ]))", t) if x.strip()]
+    t = re.sub(r"\s+en (?:el )?[A-ZÁÉÍÓÚ][^–]*?\s*–\s*[^,]+$", "", t)   # 14/11: «… en Noruega–Gales» (el partido va abajo)
+    # 14/11: también «y gol en la 1ª parte», «y ambos marcan» (antes iba todo en una fila cortada y con «✓»)
+    partes = [x.strip(" .") for x in re.split(r",\s+|\s+y\s+(?=[a-záéíóú]*\s*(?:más|menos|gana|no |marca|gol |ambos|[A-ZÁÉÍÓÚ]))", t) if x.strip()]
     sujeto = None
     out = []
     for x in partes:
@@ -146,7 +160,9 @@ def filas(ps, partido=None):
     out = []
     for x in ps:
         if re.search(r"crear apuesta", x, re.I):
-            out += [fila(c, partido_ok=True) for c in condiciones(x)]
+            m = re.search(r"\sen (?:el )?([A-ZÁÉÍÓÚ][^–(]*?\s*–\s*[^(,]+?)(?:\s*\(|$)", x)
+            pn = re.sub(r"\s*–\s*", " – ", m.group(1).strip()) if m else partido
+            out += [fila(c, partido=pn, partido_ok=True) for c in condiciones(x)]
         else:
             out.append(fila(x, partido))
     return out[:8]
