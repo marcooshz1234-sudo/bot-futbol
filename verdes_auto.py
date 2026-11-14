@@ -55,7 +55,18 @@ def main():
     nuevos = []
     espera_antes = leer(ESPERA, {}) or {}
     espera = {}
+    # 14/11 (Marcos: «va a salir lo mismo dos veces»): el mismo pick copiado de dos canales (Gana el Almería @1,75
+    # y @1,83) daba dos verdes y un «2 VERDES». Se celebra una vez por selección: misma(s) pata(s) = mismo verde.
+    def clave(p):
+        import unicodedata
+        norm = lambda t: "".join(c for c in unicodedata.normalize("NFD", (t or "").lower()) if unicodedata.category(c) != "Mn")
+        return tuple(sorted(f"{x.get('partido_id')}|{norm(x.get('texto'))}" for x in p.get("picks", [])))
+    celebrados = {clave(p) for p in d.get("publicados_hoy", []) if p["id"] in hechos and p.get("picks")}
     for p in d.get("publicados_hoy", []):
+        if p.get("picks") and p["id"] not in hechos and clave(p) in celebrados and p.get("estado") == "verde":
+            print("Verde repetido (misma selección ya celebrada):", p["id"])
+            hechos.add(p["id"])
+            continue
         # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
         es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera|-pick-", p["id"]) and "verde-auto" not in p["id"])   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
         if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
@@ -139,6 +150,8 @@ def main():
             post["foto"] = foto
             shutil.copy(RAIZ / foto, RAIZ / "publicaciones" / "media" / f"{pid}.tarjeta.jpg")
         nuevos.append(post)
+        if p.get("picks"):
+            celebrados.add(clave(p))   # 14/11: la otra copia del mismo pick ya no sale
         hechos.add(p["id"])
     try:
         import ajustes as AJ   # 10/11: ficha del Verificador: rojos del pick del día sí / no

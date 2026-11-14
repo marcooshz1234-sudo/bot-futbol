@@ -79,3 +79,17 @@ class VerdesSeguros(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class MismoPickDosVeces(VerdesSeguros):
+    def test_mismo_pick_de_dos_canales_un_solo_verde(self):   # 14/11: Gana el Almería @1,75 y @1,83 → 3 verdes
+        cola = [{"id": "2026-11-14-pick-tip-1", "texto": "🍀 Gana el Almería @1,75"},
+                {"id": "2026-11-14-pick-tip-3", "texto": "🍀 Gana el Almeria @1,83"}]
+        out = self.correr([
+            {"id": "2026-11-14-pick-tip-1", "titulo": "Pick", "estado": "verde", "cuota": 1.75,
+             "picks": [pick(texto="Gana el Almería", partido_id=7)]},
+            {"id": "2026-11-14-pick-tip-3", "titulo": "Pick", "estado": "verde", "cuota": 1.83,
+             "picks": [pick(texto="Gana el Almeria", partido_id=7)]},
+        ], cola)
+        self.assertEqual(list(out), ["2026-11-14-pick-tip-1"])
+        self.assertIsNone(self.grupo)
