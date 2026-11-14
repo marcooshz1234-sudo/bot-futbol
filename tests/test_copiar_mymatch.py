@@ -55,3 +55,17 @@ class CopiarMyMatch(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class MismoPickDosCanales(unittest.TestCase):
+    """14/11: «Gana el Almería» salió dos veces (STAKE REAL 11:12 y TipsAnalistas 12:36)."""
+
+    def test_mismo_pick(self):
+        import copiar_tipsters as C
+        a = {"dia": "2026-11-14", "local": "Almería", "visitante": "FC Andorra", "mercado": "Match Winner", "opcion": "Home"}
+        b = {"dia": "2026-11-14", "local": "Almeria", "visitante": "Andorra", "mercado": "Match Winner", "opcion": "Home"}
+        c = dict(b, opcion="Away")
+        self.assertEqual(C.mismo_pick(a), C.mismo_pick(b))
+        self.assertNotEqual(C.mismo_pick(a), C.mismo_pick(c))
+        src = open(C.__file__, encoding="utf-8").read()
+        self.assertIn("ese pick ya se ha copiado de otro canal", src)

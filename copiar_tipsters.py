@@ -24,6 +24,26 @@ CUOTA_SOLA = 1.35   # por debajo, un pick suelto NUNCA sale solo (Marcos 12/11: 
 ESPERA_PAREJA = timedelta(hours=3)   # los bajos esperan a juntarse hasta 3 h antes del primer partido
 
 
+def _norm(t):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", str(t or "")).encode("ascii", "ignore").decode().lower()
+    return " ".join(w for w in t.replace("-", " ").split() if w not in ("fc", "cf", "cd", "ud", "sd", "rcd", "club"))
+
+
+def mismo_pick(x):
+    """El mismo pick aunque venga de dos canales con nombres distintos (Almería / Almeria, «FC Andorra»)."""
+    return f"{x.get('dia')}|{_norm(x.get('local'))}|{_norm(x.get('visitante'))}|{x.get('mercado')}|{x.get('opcion')}"
+
+
+def picks_ya_publicados(dia):
+    """Los picks de canales que ya han salido como post ese día (por si el registro no los tiene)."""
+    out = set()
+    for x in leer(DATOS / "tipsters.json", []) or []:
+        if x.get("dia") == dia and x.get("publicado_en"):
+            out.add(mismo_pick(x))
+    return out
+
+
 def es_de_futbol(tipster):
     return bool(tipster) and not NO_FUTBOL.search(tipster)
 
@@ -199,8 +219,16 @@ def main(ahora=None):
     # 13/11: un post de un canal se copia UNA vez (el «Crear apuesta» de TipsPro salió como pick y, partido en patas por
     # otra IA, otra vez como combi con @1,54 en cada pata → cuota falsa 2,37)
     fuentes_hechas = {h.split("|")[0] for h in hechos}
+    # 14/11: «Gana el Almería» de STAKE REAL y «Gana el Almeria» de TipsAnalistas salieron los dos (11:12 y 12:36):
+    # el mismo pick de dos canales se copia UNA vez (aunque el partido no esté en nuestros datos y no tenga sel)
+    ya_pick = {mismo_pick(x) for x in lista if clave(x) in hechos and x.get("_copiado", True)}
+    ya_pick |= picks_ya_publicados(hoy) | picks_ya_publicados(manana)
     for x in lista:
         if clave(x) in hechos:
+            continue
+        if mismo_pick(x) in ya_pick:
+            print(f"Copiar tipsters: {x['texto']} no (ese pick ya se ha copiado de otro canal)")
+            hechos.add(clave(x))
             continue
         if x.get("fuente") and x["fuente"] in fuentes_hechas and not x.get("combinada"):
             hechos.add(clave(x))
