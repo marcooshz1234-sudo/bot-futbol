@@ -6111,7 +6111,10 @@
     "mensaje_id": 463,
     "redes": {
       "instagram_reel": null,
-      "instagram": "18096263633680768"
+      "instagram": "18096263633680768",
+      "threads": null,
+      "instagram_story": null,
+      "facebook": null
     },
     "errores_redes": {
       "threads": "523 caracteres (máx. 500)"
@@ -6133,6 +6136,17 @@
       "telegram",
       "threads"
     ],
-    "excepcion_cuota": "14/11 OK de Marcos («dale») a @2,45, por encima del máximo de 1,80"
+    "excepcion_cuota": "14/11 OK de Marcos («dale») a @2,45, por encima del máximo de 1,80",
+    "enviado": "2026-11-14T14:29",
+    "mensaje_id": 464,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "523 caracteres (máx. 500)"
+    }
   }
 ]
