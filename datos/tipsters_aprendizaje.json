@@ -79,6 +79,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.238
   },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 3,
+   "verdes": 0,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -2.0,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.334
+  },
   "CRIMINALPICKS🕵🏻‍♂️": {
    "n": 3,
    "verdes": 1,
@@ -105,15 +114,6 @@
    "unidades": 0.87,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.426
-  },
-  "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -2.0,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.334
   },
   "AllSportsPicks": {
    "n": 1,
@@ -170,7 +170,7 @@
    "prob_cuota": 3.734
   },
   "Goals Over/Under Over 2.5": {
-   "n": 8,
+   "n": 9,
    "verdes": 4,
    "rojos": 2,
    "nulos": 0,
@@ -461,7 +461,7 @@
  },
  "equipo": {
   "—": {
-   "n": 54,
+   "n": 55,
    "verdes": 24,
    "rojos": 7,
    "nulos": 0,
@@ -690,7 +690,7 @@
    "prob_cuota": 15.555
   },
   "goles": {
-   "n": 21,
+   "n": 22,
    "verdes": 9,
    "rojos": 7,
    "nulos": 0,
@@ -699,7 +699,7 @@
    "prob_cuota": 11.949
   },
   "casa/fuera": {
-   "n": 16,
+   "n": 17,
    "verdes": 9,
    "rojos": 4,
    "nulos": 0,
@@ -725,6 +725,15 @@
    "resueltos_con_cuota": 6,
    "prob_cuota": 3.658
   },
+  "motivación": {
+   "n": 7,
+   "verdes": 3,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": 0.15,
+   "resueltos_con_cuota": 5,
+   "prob_cuota": 3.038
+  },
   "bajas": {
    "n": 6,
    "verdes": 1,
@@ -733,15 +742,6 @@
    "unidades": -3.46,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.48
-  },
-  "motivación": {
-   "n": 6,
-   "verdes": 3,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": 0.15,
-   "resueltos_con_cuota": 5,
-   "prob_cuota": 3.038
   },
   "categoría": {
    "n": 6,
@@ -755,7 +755,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 31,
+   "n": 32,
    "verdes": 15,
    "rojos": 9,
    "nulos": 0,
@@ -809,7 +809,7 @@
    "prob_cuota": 11.149
   },
   "UEFA Nations League": {
-   "n": 26,
+   "n": 27,
    "verdes": 19,
    "rojos": 5,
    "nulos": 0,
@@ -845,7 +845,7 @@
  },
  "lado": {
   "partido": {
-   "n": 42,
+   "n": 43,
    "verdes": 17,
    "rojos": 5,
    "nulos": 0,
@@ -874,7 +874,7 @@
  },
  "por_que": {
   "goles": {
-   "n": 37,
+   "n": 38,
    "verdes": 24,
    "rojos": 7,
    "nulos": 0,
@@ -948,7 +948,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 91,
+   "n": 92,
    "verdes": 46,
    "rojos": 17,
    "nulos": 0,

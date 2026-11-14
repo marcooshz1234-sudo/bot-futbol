@@ -2342,5 +2342,31 @@
    "prob_pinnacle": 0.557,
    "valor_pinnacle": -0.026
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100353",
+  "dia": "2026-11-14",
+  "hora": "18:00",
+  "local": "Norway",
+  "visitante": "Wales",
+  "texto": "Más de 2,5 goles y gol en la 1ª parte en Noruega–Gales (Crear apuesta)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Noruega, en casa en el Ullevaal, es clara favorita (1,22) y tiene una de las delanteras más goleadoras de Europa",
+   "Gales necesita puntos y tendrá que abrirse"
+  ],
+  "por_que": [
+   "+2,5 goles a 1,36 y gol en la 1ª parte a 1,22 en nuestros datos; juntos a 1,50 tienen sentido con Noruega tan favorita."
+  ],
+  "partido_id": 1528972,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.36,
+   "prob_cuota": 0.667
+  }
  }
 ]
