@@ -1,7 +1,7 @@
 # Castellón – Eldense
 **Segunda División** · Regular Season - 15 · 21/11/2026 18:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,6 +137,6 @@ _Sin bajas comunicadas por ahora._
 | Iker Recio | D | 6 | 193 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 2 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,84 · visitante 0,60 · córners esperados 9,3._
+_Goles esperados: local 1,82 · visitante 0,59 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

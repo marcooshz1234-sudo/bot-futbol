@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -198,10 +198,10 @@ _Goles esperados: local 2,21 · visitante 1,94 · córners esperados 10,1._
 | Ambos marcan: No | 24% | 29% | 26% | 3.25 | -14% |
 | Ambos marcan: Sí | 76% | 71% | 74% | 1.33 | -2% |
 | Goles más/menos: Más de 2.5 | 78% | 70% | 74% | 1.36 | +1% |
-| Goles más/menos: Más de 3.5 | 60% | 50% | 55% | 1.91 | +5% |
+| Goles más/menos: Más de 3.5 | 59% | 50% | 55% | 1.91 | +4% |
 | Goles más/menos: Más de 4.5 ✅ | 40% | 32% | 36% | 3.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 22% | 30% | 26% | 3.20 | -18% |
-| Goles más/menos: Menos de 3.5 | 40% | 50% | 45% | 1.91 | -14% |
+| Goles más/menos: Menos de 2.5 | 22% | 30% | 26% | 3.20 | -17% |
+| Goles más/menos: Menos de 3.5 | 41% | 50% | 45% | 1.91 | -13% |
 | Goles más/menos: Menos de 4.5 | 60% | 68% | 64% | 1.40 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
@@ -210,9 +210,9 @@ _Goles esperados: local 2,21 · visitante 1,94 · córners esperados 10,1._
 | Goles 1ª parte más/menos: Menos de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -9% |
 | Goles del local: Más de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
-| Goles del local: Más de 2.5 ✅ | 38% | 29% | 34% | 3.25 | +9% |
-| Goles del local: Menos de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
-| Goles del local: Menos de 2.5 | 62% | 71% | 66% | 1.33 | -12% |
+| Goles del local: Más de 2.5 ✅ | 38% | 29% | 33% | 3.25 | +9% |
+| Goles del local: Menos de 1.5 | 35% | 44% | 40% | 2.10 | -16% |
+| Goles del local: Menos de 2.5 | 62% | 71% | 67% | 1.33 | -12% |
 | Goles del visitante: Más de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
 | Goles del visitante: Más de 2.5 | 31% | 28% | 29% | 3.40 | -1% |
 | Goles del visitante: Menos de 1.5 | 42% | 46% | 44% | 2.00 | -11% |

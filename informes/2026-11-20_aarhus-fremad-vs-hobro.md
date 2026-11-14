@@ -1,7 +1,7 @@
 # Aarhus Fremad – Hobro
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Jysk Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 06:01_
@@ -143,16 +143,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 22% | 26% | 24% | 3.50 | -15% |
+| 1X2: 2 | 23% | 26% | 24% | 3.50 | -15% |
 | 1X2: X | 30% | 26% | 28% | 3.50 | -1% |
 | 1X2: 1 | 47% | 48% | 47% | 1.91 | -9% |
 | Doble oportunidad: X2 | 53% | 53% | 53% | 1.73 | -8% |
 | Doble oportunidad: 12 | 70% | 73% | 72% | 1.25 | -11% |
-| Doble oportunidad: 1X | 78% | 73% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 77% | 73% | 75% | 1.25 | -6% |
 | Ambos marcan: No | 64% | 46% | 55% | 2.00 | +10% |
 | Ambos marcan: Sí | 36% | 54% | 45% | 1.73 | -22% |
 | Goles más/menos: Más de 1.5 | 57% | 75% | 66% | 1.25 | -17% |
-| Goles más/menos: Más de 2.5 | 30% | 51% | 41% | 1.85 | -24% |
+| Goles más/menos: Más de 2.5 | 30% | 51% | 41% | 1.85 | -25% |
 | Goles más/menos: Más de 3.5 | 13% | 29% | 21% | 3.25 | -32% |
 | Goles más/menos: Menos de 1.5 | 43% | 25% | 34% | 3.75 | +27% |
 | Goles más/menos: Menos de 2.5 | 70% | 49% | 59% | 1.95 | +15% |
@@ -161,18 +161,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 21% | 35% | 28% | 2.62 | -27% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 43% | 31% | 37% | 3.00 | +12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 79% | 65% | 72% | 1.44 | +4% |
-| Goles del local: Más de 0.5 | 70% | 79% | 75% | 1.18 | -12% |
-| Goles del local: Más de 1.5 | 34% | 50% | 42% | 1.83 | -23% |
+| Goles del local: Más de 0.5 | 70% | 79% | 74% | 1.18 | -12% |
+| Goles del local: Más de 1.5 | 34% | 50% | 42% | 1.83 | -24% |
 | Goles del local: Más de 2.5 | 12% | 23% | 18% | 4.00 | -29% |
-| Goles del local: Menos de 0.5 | 30% | 21% | 25% | 4.50 | +15% |
-| Goles del local: Menos de 1.5 | 66% | 50% | 58% | 1.83 | +6% |
+| Goles del local: Menos de 0.5 | 30% | 21% | 26% | 4.50 | +15% |
+| Goles del local: Menos de 1.5 | 66% | 50% | 58% | 1.83 | +7% |
 | Goles del local: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles del visitante: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del visitante: Más de 1.5 | 17% | 29% | 23% | 3.25 | -26% |
 | Goles del visitante: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +10% |
 | Goles del visitante: Menos de 1.5 | 83% | 71% | 77% | 1.33 | +3% |
 | 1X2 descanso: 2 | 17% | 21% | 19% | 4.33 | -16% |
-| 1X2 descanso: X | 51% | 41% | 46% | 2.25 | +3% |
+| 1X2 descanso: X | 51% | 41% | 46% | 2.25 | +4% |
 | 1X2 descanso: 1 | 32% | 37% | 35% | 2.50 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Bayer Leverkusen – SC Paderborn 07
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | D. Zeitler | F | 3 | 118 | 0 | 0 | 7 | 2,3 | 5 | 1,7 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,93 · visitante 0,84 · córners esperados 9,7._
+_Goles esperados: local 1,92 · visitante 0,84 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -195,15 +195,15 @@ _Goles esperados: local 1,93 · visitante 0,84 · córners esperados 9,7._
 | Doble oportunidad: X2 | 37% | 25% | 31% | 3.75 | +17% |
 | Doble oportunidad: 12 | 79% | 85% | 82% | 1.12 | -8% |
 | Doble oportunidad: 1X | 84% | 90% | 87% | 1.06 | -8% |
-| Ambos marcan: No | 51% | 44% | 48% | 2.10 | +1% |
-| Ambos marcan: Sí | 49% | 56% | 52% | 1.67 | -13% |
-| Goles más/menos: Más de 2.5 | 52% | 72% | 62% | 1.33 | -17% |
+| Ambos marcan: No | 52% | 44% | 48% | 2.10 | +1% |
+| Ambos marcan: Sí | 48% | 56% | 52% | 1.67 | -13% |
+| Goles más/menos: Más de 2.5 | 52% | 72% | 62% | 1.33 | -18% |
 | Goles más/menos: Más de 3.5 | 30% | 53% | 41% | 1.80 | -26% |
-| Goles más/menos: Más de 4.5 | 15% | 34% | 25% | 2.75 | -32% |
+| Goles más/menos: Más de 4.5 | 15% | 34% | 24% | 2.75 | -33% |
 | Goles más/menos: Más de 5.5 | 6% | 21% | 14% | 4.50 | -39% |
 | Goles más/menos: Menos de 2.5 ✅ | 48% | 28% | 38% | 3.40 | +29% |
 | Goles más/menos: Menos de 3.5 | 70% | 47% | 59% | 2.00 | +17% |
-| Goles más/menos: Menos de 4.5 | 85% | 66% | 75% | 1.44 | +9% |
+| Goles más/menos: Menos de 4.5 | 85% | 66% | 76% | 1.44 | +9% |
 | Goles más/menos: Menos de 5.5 | 94% | 79% | 86% | 1.20 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 79% | 75% | 1.18 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 50% | 42% | 1.83 | -23% |

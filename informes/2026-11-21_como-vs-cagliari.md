@@ -1,7 +1,7 @@
 # Como – Cagliari
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -193,10 +193,10 @@ _Goles esperados: local 2,18 · visitante 0,68 · córners esperados 9,7._
 | Doble oportunidad: 1X | 90% | 89% | 89% | 1.08 | -3% |
 | Ambos marcan: No | 56% | 50% | 53% | 1.91 | +1% |
 | Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -10% |
-| Goles más/menos: Más de 2.5 | 55% | 60% | 57% | 1.57 | -10% |
+| Goles más/menos: Más de 2.5 | 54% | 60% | 57% | 1.57 | -10% |
 | Goles más/menos: Más de 3.5 | 32% | 38% | 35% | 2.50 | -12% |
 | Goles más/menos: Más de 4.5 | 16% | 22% | 19% | 4.33 | -17% |
-| Goles más/menos: Menos de 2.5 | 45% | 40% | 43% | 2.38 | +1% |
+| Goles más/menos: Menos de 2.5 | 46% | 40% | 43% | 2.38 | +2% |
 | Goles más/menos: Menos de 3.5 | 68% | 62% | 65% | 1.53 | -1% |
 | Goles más/menos: Menos de 4.5 | 84% | 78% | 81% | 1.22 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
@@ -207,7 +207,7 @@ _Goles esperados: local 2,18 · visitante 0,68 · córners esperados 9,7._
 | Goles del local: Más de 2.5 | 37% | 41% | 39% | 2.25 | -12% |
 | Goles del local: Más de 3.5 | 18% | 22% | 20% | 4.33 | -15% |
 | Goles del local: Menos de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles del local: Menos de 2.5 | 63% | 59% | 61% | 1.57 | -5% |
+| Goles del local: Menos de 2.5 | 63% | 59% | 61% | 1.57 | -4% |
 | Goles del local: Menos de 3.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Goles del visitante: Más de 0.5 | 49% | 56% | 53% | 1.67 | -12% |
 | Goles del visitante: Más de 1.5 | 15% | 21% | 18% | 4.50 | -20% |

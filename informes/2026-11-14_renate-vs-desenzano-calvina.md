@@ -1,10 +1,10 @@
 # Renate – Desenzano Calvina
 **Serie C** · Girone A - 14 · 14/11/2026 14:30 (hora España) · Mino Favini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:58_
+_Actualizadas: 14/11 02:06_
 
 - **1X2:** 1 **1.80**  ·  X **3.30**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **1.83**
@@ -28,6 +28,8 @@ _Actualizadas: 13/11 19:58_
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **7.50** · menos **1.07**
+- **Córners más/menos:**
+    - 9,5: más **1.82** · menos **1.98**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.20**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -41,6 +43,8 @@ _Actualizadas: 13/11 19:58_
 - **Win Both Halves:** 1 **5.50**  ·  2 **15.00**
 - **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.50**  ·  Home/No **3.25**  ·  Draw/No **11.00**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **Total Corners (1st Half):**
+    - 4,5: más **1.98** · menos **1.82**
 
 ## Estadísticas de equipo
 | | Renate (total) | Renate en casa | Desenzano Calvina (total) | Desenzano Calvina fuera |
@@ -130,7 +134,7 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 0,84._
+_Goles esperados: local 1,25 · visitante 0,85._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -142,30 +146,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 54% | 50% | 52% | 1.83 | -5% |
 | Doble oportunidad: 12 | 71% | 73% | 72% | 1.25 | -10% |
 | Doble oportunidad: 1X | 75% | 77% | 76% | 1.18 | -10% |
-| Ambos marcan: No | 60% | 46% | 53% | 2.00 | +6% |
-| Ambos marcan: Sí | 40% | 54% | 47% | 1.73 | -19% |
-| Goles más/menos: Más de 1.5 | 62% | 75% | 68% | 1.25 | -15% |
+| Ambos marcan: No | 59% | 46% | 53% | 2.00 | +6% |
+| Ambos marcan: Sí | 41% | 54% | 47% | 1.73 | -18% |
+| Goles más/menos: Más de 1.5 | 62% | 75% | 69% | 1.25 | -14% |
 | Goles más/menos: Más de 2.5 | 35% | 51% | 43% | 1.85 | -20% |
 | Goles más/menos: Más de 3.5 | 16% | 31% | 24% | 3.00 | -29% |
-| Goles más/menos: Menos de 1.5 | 38% | 25% | 32% | 3.75 | +19% |
+| Goles más/menos: Menos de 1.5 | 38% | 25% | 31% | 3.75 | +18% |
 | Goles más/menos: Menos de 2.5 | 65% | 49% | 57% | 1.95 | +11% |
 | Goles más/menos: Menos de 3.5 | 84% | 69% | 76% | 1.36 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 69% | 64% | 1.36 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 35% | 29% | 2.62 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 31% | 36% | 3.00 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 65% | 71% | 1.44 | +2% |
 | Goles del local: Más de 0.5 | 71% | 78% | 75% | 1.20 | -10% |
-| Goles del local: Más de 1.5 | 35% | 50% | 43% | 1.83 | -22% |
-| Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -29% |
+| Goles del local: Más de 1.5 | 36% | 50% | 43% | 1.83 | -22% |
+| Goles del local: Más de 2.5 | 13% | 25% | 19% | 3.75 | -28% |
 | Goles del local: Menos de 0.5 | 29% | 22% | 25% | 4.33 | +9% |
-| Goles del local: Menos de 1.5 | 65% | 50% | 57% | 1.83 | +5% |
+| Goles del local: Menos de 1.5 | 64% | 50% | 57% | 1.83 | +5% |
 | Goles del local: Menos de 2.5 | 87% | 75% | 81% | 1.25 | +1% |
-| Goles del visitante: Más de 0.5 | 57% | 65% | 61% | 1.44 | -13% |
+| Goles del visitante: Más de 0.5 | 57% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 1.5 | 21% | 29% | 25% | 3.25 | -19% |
 | Goles del visitante: Menos de 0.5 | 43% | 35% | 39% | 2.62 | +3% |
 | Goles del visitante: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
 | 1X2 descanso: 2 | 20% | 21% | 20% | 4.33 | -12% |
-| 1X2 descanso: X | 49% | 41% | 45% | 2.20 | -1% |
-| 1X2 descanso: 1 | 32% | 38% | 35% | 2.40 | -17% |
+| 1X2 descanso: X | 48% | 41% | 45% | 2.20 | -1% |
+| 1X2 descanso: 1 | 32% | 38% | 35% | 2.40 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Tottenham – Ipswich
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -188,12 +188,12 @@ _Goles esperados: local 1,71 · visitante 1,23 · córners esperados 9,8._
 | Doble oportunidad: 1X | 73% | 83% | 78% | 1.14 | -11% |
 | Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
 | Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 59% | 58% | 1.62 | -7% |
+| Goles más/menos: Más de 2.5 | 56% | 59% | 57% | 1.62 | -7% |
 | Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles más/menos: Más de 4.5 | 18% | 22% | 20% | 4.33 | -15% |
-| Goles más/menos: Menos de 2.5 | 44% | 41% | 42% | 2.30 | -2% |
+| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -15% |
+| Goles más/menos: Menos de 2.5 | 44% | 41% | 43% | 2.30 | -2% |
 | Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
-| Goles más/menos: Menos de 4.5 | 82% | 78% | 80% | 1.22 | -2% |
+| Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -5% |
@@ -204,7 +204,7 @@ _Goles esperados: local 1,71 · visitante 1,23 · córners esperados 9,8._
 | Goles del local: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 0.5 | 71% | 62% | 67% | 1.50 | -0% |
 | Goles del visitante: Más de 1.5 | 35% | 27% | 31% | 3.50 | +8% |
-| Goles del visitante: Menos de 0.5 | 29% | 38% | 33% | 2.50 | -17% |
+| Goles del visitante: Menos de 0.5 | 29% | 38% | 33% | 2.50 | -16% |
 | Goles del visitante: Menos de 1.5 | 65% | 73% | 69% | 1.28 | -11% |
 | 1X2 descanso: X | 40% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: 1 | 37% | 46% | 41% | 2.00 | -17% |

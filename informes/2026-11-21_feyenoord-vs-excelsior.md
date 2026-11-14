@@ -1,7 +1,7 @@
 # Feyenoord – Excelsior
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:01_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | Nolan Martens | D | 2 | 119 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,77 · visitante 0,83 · córners esperados 9,1._
+_Goles esperados: local 2,76 · visitante 0,82 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -199,17 +199,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 91% | 94% | 93% | 1.03 | -4% |
 | Ambos marcan: No | 47% | 48% | 48% | 1.95 | -7% |
 | Ambos marcan: Sí | 53% | 52% | 52% | 1.80 | -6% |
-| Goles más/menos: Más de 2.5 | 70% | 77% | 74% | 1.22 | -10% |
+| Goles más/menos: Más de 2.5 | 69% | 77% | 73% | 1.22 | -10% |
 | Goles más/menos: Más de 3.5 | 48% | 58% | 53% | 1.62 | -14% |
 | Goles más/menos: Más de 4.5 | 29% | 41% | 35% | 2.25 | -21% |
-| Goles más/menos: Más de 5.5 | 16% | 25% | 20% | 3.75 | -24% |
-| Goles más/menos: Menos de 2.5 | 30% | 23% | 26% | 4.20 | +11% |
-| Goles más/menos: Menos de 3.5 | 52% | 42% | 47% | 2.20 | +3% |
+| Goles más/menos: Más de 5.5 | 15% | 25% | 20% | 3.75 | -24% |
+| Goles más/menos: Menos de 2.5 | 31% | 23% | 27% | 4.20 | +11% |
+| Goles más/menos: Menos de 3.5 | 52% | 42% | 47% | 2.20 | +4% |
 | Goles más/menos: Menos de 4.5 | 71% | 59% | 65% | 1.57 | +2% |
-| Goles más/menos: Menos de 5.5 | 84% | 75% | 80% | 1.25 | -0% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 54% | 50% | 1.73 | -13% |
+| Goles más/menos: Menos de 5.5 | 85% | 75% | 80% | 1.25 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 54% | 50% | 1.73 | -14% |
 | Goles 1ª parte más/menos: Más de 2.5 | 21% | 29% | 25% | 3.25 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 46% | 50% | 2.00 | -0% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 46% | 50% | 2.00 | +0% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 79% | 71% | 75% | 1.33 | -0% |
 | Goles del local: Más de 2.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del local: Más de 3.5 | 30% | 44% | 37% | 2.10 | -22% |

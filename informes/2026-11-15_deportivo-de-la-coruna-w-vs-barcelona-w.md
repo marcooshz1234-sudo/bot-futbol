@@ -1,29 +1,44 @@
 # Deportivo de La Coruña W – Barcelona W
 **Liga F** · Regular Season - 11 · 15/11/2026 18:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:59_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **51.00**  ·  X **19.00**  ·  2 **1.02**
-- **Ambos marcan:** Sí **6.00**  ·  No **1.11**
+- **Ambos marcan:** Sí **4.00**  ·  No **1.22**
 - **Goles más/menos:**
-    - 1,5: más **1.05** · menos **8.50**
-    - 2,5: más **1.17** · menos **4.50**
-    - 3,5: más **1.44** · menos **2.62**
-    - 4,5: más **2.00** · menos **1.73**
-    - 5,5: más **3.25** · menos **1.33**
-    - 6,5: más **5.00** · menos **1.14**
-    - 7,5: más **8.00** · menos **1.06**
-- **1X2 descanso:** 1 **51.00**  ·  X **6.00**  ·  2 **1.12**
-- **Both Teams Score - First Half:** Sí **15.00**  ·  No **1.03**
-- **Both Teams To Score - Second Half:** Sí **11.00**  ·  No **1.05**
-- **To Win Either Half:** 1 **29.00**  ·  2 **1.01**
-- **To Score In Both Halves By Teams:** 1 **67.00**  ·  2 **1.25**
+    - 2,5: más **1.14** · menos **5.00**
+    - 3,5: más **1.40** · menos **2.75**
+    - 4,5: más **1.83** · menos **1.83**
+    - 5,5: más **2.75** · menos **1.40**
+    - 6,5: más **4.33** · menos **1.20**
+    - 7,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.10** · menos **6.50**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **4.50** · menos **1.17**
+    - 4,5: más **8.50** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.95** · menos **1.85**
+- **1X2 descanso:** 1 **41.00**  ·  X **6.00**  ·  2 **1.12**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **10.00**  ·  No **1.06**
+- **Both Teams To Score - Second Half:** Sí **7.00**  ·  No **1.10**
+- **To Win Either Half:** 1 **21.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **34.00**  ·  2 **1.22**
 - **Win Both Halves:** 2 **1.30**
-- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **29.00**  ·  Away/Yes **6.00**  ·  Home/No **67.00**  ·  Draw/No **26.00**  ·  Away/No **1.14**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **6.00**  ·  o/no 2.5 **1.36**  ·  u/yes 2.5 **51.00**  ·  u/no 2.5 **4.75**
+- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **26.00**  ·  Away/Yes **4.00**  ·  Home/No **101.00**  ·  Draw/No **34.00**  ·  Away/No **1.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.00**  ·  o/no 2.5 **1.50**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **5.50**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
 
 ## Estadísticas de equipo
 | | Deportivo de La Coruña W (total) | Deportivo de La Coruña W en casa | Barcelona W (total) | Barcelona W fuera |
@@ -127,15 +142,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 91% | 93% | 92% | 1.02 | -6% |
 | 1X2: X | 7% | 5% | 6% | 19.00 | +10% |
 | 1X2: 1 | 2% | 2% | 2% | 51.00 | +10% |
-| Ambos marcan: No | 61% | 84% | 73% | 1.11 | -19% |
-| Ambos marcan: Sí | 39% | 16% | 27% | 6.00 | +65% |
-| Goles más/menos: Más de 2.5 | 77% | 79% | 78% | 1.17 | -8% |
-| Goles más/menos: Más de 3.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Goles más/menos: Más de 4.5 | 39% | 46% | 42% | 2.00 | -15% |
-| Goles más/menos: Más de 5.5 | 23% | 29% | 26% | 3.25 | -16% |
-| Goles más/menos: Menos de 2.5 | 23% | 21% | 22% | 4.50 | -2% |
-| Goles más/menos: Menos de 3.5 | 42% | 35% | 39% | 2.62 | +1% |
-| Goles más/menos: Menos de 4.5 | 61% | 54% | 58% | 1.73 | -0% |
-| Goles más/menos: Menos de 5.5 | 77% | 71% | 74% | 1.33 | -1% |
+| Ambos marcan: No | 61% | 77% | 69% | 1.22 | -16% |
+| Ambos marcan: Sí | 39% | 23% | 31% | 4.00 | +25% |
+| Goles más/menos: Más de 3.5 | 58% | 66% | 62% | 1.40 | -13% |
+| Goles más/menos: Más de 4.5 | 38% | 50% | 44% | 1.83 | -19% |
+| Goles más/menos: Más de 5.5 | 22% | 34% | 28% | 2.75 | -23% |
+| Goles más/menos: Más de 6.5 | 12% | 22% | 17% | 4.33 | -28% |
+| Goles más/menos: Menos de 3.5 | 42% | 34% | 38% | 2.75 | +4% |
+| Goles más/menos: Menos de 4.5 | 62% | 50% | 56% | 1.83 | +2% |
+| Goles más/menos: Menos de 5.5 | 78% | 66% | 72% | 1.40 | +1% |
+| Goles más/menos: Menos de 6.5 | 88% | 78% | 83% | 1.20 | -0% |
+| Goles 1ª parte más/menos: Más de 1.5 | 53% | 62% | 58% | 1.50 | -13% |
+| Goles 1ª parte más/menos: Más de 2.5 | 26% | 38% | 32% | 2.50 | -20% |
+| Goles 1ª parte más/menos: Más de 3.5 | 10% | 21% | 16% | 4.50 | -30% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 47% | 38% | 42% | 2.50 | +6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 74% | 62% | 68% | 1.50 | +2% |
+| Goles 1ª parte más/menos: Menos de 3.5 | 90% | 79% | 84% | 1.17 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

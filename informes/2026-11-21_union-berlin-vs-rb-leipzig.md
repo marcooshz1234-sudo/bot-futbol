@@ -1,7 +1,7 @@
 # Union Berlin – RB Leipzig
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -194,14 +194,14 @@ _Goles esperados: local 1,04 · visitante 2,51 · córners esperados 9,3._
 | Doble oportunidad: X2 | 86% | 80% | 83% | 1.18 | -2% |
 | Doble oportunidad: 12 | 83% | 79% | 81% | 1.20 | -3% |
 | Doble oportunidad: 1X | 31% | 41% | 36% | 2.30 | -17% |
-| Ambos marcan: No | 40% | 39% | 40% | 2.38 | -5% |
-| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
+| Ambos marcan: No | 41% | 39% | 40% | 2.38 | -5% |
+| Ambos marcan: Sí | 59% | 61% | 60% | 1.53 | -8% |
 | Goles más/menos: Más de 2.5 | 69% | 66% | 67% | 1.44 | -3% |
-| Goles más/menos: Más de 3.5 | 48% | 45% | 46% | 2.10 | -3% |
-| Goles más/menos: Más de 4.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles más/menos: Más de 3.5 | 47% | 45% | 46% | 2.10 | -3% |
+| Goles más/menos: Más de 4.5 | 28% | 27% | 28% | 3.50 | -3% |
 | Goles más/menos: Menos de 2.5 | 31% | 34% | 33% | 2.75 | -10% |
-| Goles más/menos: Menos de 3.5 | 52% | 55% | 54% | 1.73 | -7% |
-| Goles más/menos: Menos de 4.5 | 71% | 73% | 72% | 1.30 | -6% |
+| Goles más/menos: Menos de 3.5 | 53% | 55% | 54% | 1.73 | -7% |
+| Goles más/menos: Menos de 4.5 | 72% | 73% | 72% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
 | Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 21% | 4.50 | -7% |
@@ -212,10 +212,10 @@ _Goles esperados: local 1,04 · visitante 2,51 · córners esperados 9,3._
 | Goles del local: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles del local: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -0% |
 | Goles del local: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
-| Goles del visitante: Más de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
-| Goles del visitante: Más de 2.5 | 46% | 39% | 43% | 2.38 | +1% |
-| Goles del visitante: Menos de 1.5 | 28% | 35% | 32% | 2.62 | -16% |
-| Goles del visitante: Menos de 2.5 | 54% | 61% | 57% | 1.53 | -12% |
+| Goles del visitante: Más de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
+| Goles del visitante: Más de 2.5 | 46% | 39% | 42% | 2.38 | +1% |
+| Goles del visitante: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
+| Goles del visitante: Menos de 2.5 | 54% | 61% | 58% | 1.53 | -12% |
 | 1X2 descanso: 2 | 52% | 44% | 48% | 2.10 | +1% |
 | 1X2 descanso: X | 33% | 36% | 35% | 2.60 | -10% |
 

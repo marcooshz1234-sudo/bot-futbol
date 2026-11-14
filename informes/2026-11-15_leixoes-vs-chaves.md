@@ -1,10 +1,10 @@
 # Leixoes – Chaves
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 19:00 (hora España) · Estadio do Mar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:59_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **1.90**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
@@ -159,7 +159,7 @@ _Sin bajas comunicadas por ahora._
 | Kiko Pereira | D | 1 | 10 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,10 · visitante 1,47 · córners esperados 9,1._
+_Goles esperados: local 2,09 · visitante 1,47 · córners esperados 9,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -184,13 +184,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 66% | 60% | 1.40 | -16% |
 | Goles del local: Más de 0.5 | 88% | 78% | 83% | 1.20 | -0% |
-| Goles del local: Más de 1.5 | 62% | 49% | 55% | 1.91 | +6% |
-| Goles del local: Más de 2.5 | 35% | 23% | 29% | 4.00 | +17% |
+| Goles del local: Más de 1.5 | 62% | 49% | 55% | 1.91 | +5% |
+| Goles del local: Más de 2.5 | 35% | 23% | 29% | 4.00 | +16% |
 | Goles del local: Menos de 0.5 | 12% | 22% | 17% | 4.33 | -26% |
 | Goles del local: Menos de 1.5 | 38% | 51% | 45% | 1.80 | -19% |
 | Goles del local: Menos de 2.5 | 65% | 77% | 71% | 1.22 | -14% |
 | Goles del visitante: Más de 0.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles del visitante: Más de 1.5 | 43% | 29% | 36% | 3.25 | +18% |
+| Goles del visitante: Más de 1.5 | 43% | 29% | 36% | 3.25 | +17% |
 | Goles del visitante: Menos de 0.5 | 23% | 35% | 29% | 2.62 | -23% |
 | Goles del visitante: Menos de 1.5 | 57% | 71% | 64% | 1.33 | -15% |
 | Córners más/menos: Más de 9.5 | 42% | 47% | 44% | 2.00 | -11% |

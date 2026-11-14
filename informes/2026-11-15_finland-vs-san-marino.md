@@ -1,7 +1,7 @@
 # Finland – San Marino
 **Nations League** · League C - 6 · 15/11/2026 18:00 (hora España) · Bolt Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin bajas comunicadas por ahora._
 | A. Golinucci | M | 3 | 119 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 1 | 0,3 | 1 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,40 · visitante 0,48 · córners esperados 9,1._
+_Goles esperados: local 3,39 · visitante 0,48 · córners esperados 9,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

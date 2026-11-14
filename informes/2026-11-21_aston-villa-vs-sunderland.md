@@ -1,7 +1,7 @@
 # Aston Villa – Sunderland
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -180,7 +180,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Timur Tuterov | F | 6 | 330 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 5 | 4 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,84 · visitante 1,35 · córners esperados 9,4._
+_Goles esperados: local 1,83 · visitante 1,35 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@ _Goles esperados: local 1,84 · visitante 1,35 · córners esperados 9,4._
 | Ambos marcan: Sí | 62% | 55% | 58% | 1.70 | -1% |
 | Goles más/menos: Más de 1.5 | 83% | 78% | 80% | 1.22 | -2% |
 | Goles más/menos: Más de 2.5 | 62% | 55% | 58% | 1.73 | +1% |
-| Goles más/menos: Más de 3.5 | 39% | 34% | 37% | 2.75 | +2% |
+| Goles más/menos: Más de 3.5 | 39% | 34% | 37% | 2.75 | +1% |
 | Goles más/menos: Menos de 1.5 | 17% | 22% | 20% | 4.33 | -15% |
 | Goles más/menos: Menos de 2.5 | 38% | 45% | 42% | 2.10 | -12% |
 | Goles más/menos: Menos de 3.5 | 61% | 66% | 63% | 1.44 | -9% |
@@ -203,14 +203,14 @@ _Goles esperados: local 1,84 · visitante 1,35 · córners esperados 9,4._
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del local: Más de 1.5 | 55% | 56% | 55% | 1.67 | -8% |
-| Goles del local: Más de 2.5 | 28% | 29% | 29% | 3.25 | -7% |
+| Goles del local: Más de 2.5 | 28% | 29% | 28% | 3.25 | -8% |
 | Goles del local: Menos de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
-| Goles del local: Menos de 2.5 | 72% | 71% | 71% | 1.33 | -5% |
+| Goles del local: Menos de 2.5 | 72% | 71% | 72% | 1.33 | -5% |
 | Goles del visitante: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
 | Goles del visitante: Más de 1.5 ✅ | 39% | 28% | 33% | 3.40 | +13% |
-| Goles del visitante: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -20% |
+| Goles del visitante: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
 | Goles del visitante: Menos de 1.5 | 61% | 72% | 67% | 1.30 | -13% |
 | 1X2 descanso: X | 38% | 39% | 39% | 2.38 | -8% |
-| 1X2 descanso: 1 | 37% | 41% | 39% | 2.25 | -11% |
+| 1X2 descanso: 1 | 37% | 41% | 39% | 2.25 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

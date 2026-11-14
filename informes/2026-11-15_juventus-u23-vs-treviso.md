@@ -1,10 +1,10 @@
 # Juventus U23 – Treviso
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:59_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **2.90**  ·  X **3.20**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.30**
@@ -28,6 +28,8 @@ _Actualizadas: 13/11 19:59_
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **4.50** · menos **1.17**
     - 3,5: más **9.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **2.00**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -41,6 +43,7 @@ _Actualizadas: 13/11 19:59_
 - **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
 - **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **10.00**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 
 ## Estadísticas de equipo
 | | Juventus U23 (total) | Juventus U23 en casa | Treviso (total) | Treviso fuera |
@@ -136,35 +139,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 55% | 41% | 48% | 2.15 | +4% |
+| 1X2: 2 | 56% | 41% | 49% | 2.15 | +4% |
 | 1X2: X | 28% | 28% | 28% | 3.20 | -11% |
-| 1X2: 1 | 17% | 31% | 24% | 2.90 | -31% |
-| Doble oportunidad: X2 | 83% | 70% | 77% | 1.30 | -0% |
+| 1X2: 1 | 16% | 31% | 24% | 2.90 | -32% |
+| Doble oportunidad: X2 | 84% | 70% | 77% | 1.30 | +0% |
 | Doble oportunidad: 12 | 72% | 71% | 72% | 1.28 | -8% |
-| Doble oportunidad: 1X | 45% | 58% | 51% | 1.57 | -19% |
+| Doble oportunidad: 1X | 44% | 58% | 51% | 1.57 | -19% |
 | Ambos marcan: No | 66% | 49% | 57% | 1.91 | +9% |
 | Ambos marcan: Sí | 34% | 51% | 43% | 1.80 | -23% |
-| Goles más/menos: Más de 1.5 | 59% | 72% | 65% | 1.30 | -15% |
+| Goles más/menos: Más de 1.5 | 59% | 72% | 66% | 1.30 | -15% |
 | Goles más/menos: Más de 2.5 | 32% | 49% | 40% | 1.95 | -22% |
-| Goles más/menos: Más de 3.5 | 14% | 28% | 21% | 3.40 | -30% |
-| Goles más/menos: Menos de 1.5 | 41% | 28% | 35% | 3.40 | +17% |
+| Goles más/menos: Más de 3.5 | 14% | 28% | 21% | 3.40 | -29% |
+| Goles más/menos: Menos de 1.5 | 41% | 28% | 34% | 3.40 | +17% |
 | Goles más/menos: Menos de 2.5 | 68% | 51% | 60% | 1.85 | +11% |
 | Goles más/menos: Menos de 3.5 | 86% | 72% | 79% | 1.30 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 58% | 66% | 62% | 1.40 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 21% | 34% | 27% | 2.75 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 66% | 73% | 1.40 | +2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 21% | 34% | 28% | 2.75 | -24% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 66% | 72% | 1.40 | +1% |
 | Goles del local: Más de 0.5 | 46% | 66% | 56% | 1.40 | -22% |
 | Goles del local: Más de 1.5 | 12% | 34% | 23% | 2.75 | -37% |
 | Goles del local: Menos de 0.5 | 54% | 34% | 44% | 2.75 | +21% |
 | Goles del local: Menos de 1.5 | 88% | 66% | 77% | 1.40 | +8% |
-| Goles del visitante: Más de 0.5 | 74% | 75% | 75% | 1.25 | -7% |
-| Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -10% |
+| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
+| Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles del visitante: Más de 2.5 | 16% | 21% | 18% | 4.50 | -18% |
-| Goles del visitante: Menos de 0.5 | 26% | 25% | 25% | 3.75 | -5% |
-| Goles del visitante: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -4% |
+| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles del visitante: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
 | Goles del visitante: Menos de 2.5 | 84% | 79% | 82% | 1.17 | -4% |
-| 1X2 descanso: 2 | 37% | 33% | 35% | 2.75 | -5% |
+| 1X2 descanso: 2 | 37% | 33% | 35% | 2.75 | -4% |
 | 1X2 descanso: X | 49% | 43% | 46% | 2.10 | -4% |
 | 1X2 descanso: 1 | 14% | 25% | 19% | 3.60 | -30% |
 

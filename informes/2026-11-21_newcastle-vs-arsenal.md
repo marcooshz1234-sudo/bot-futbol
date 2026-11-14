@@ -1,7 +1,7 @@
 # Newcastle – Arsenal
 **Premier League** · Regular Season - 11 · 21/11/2026 18:30 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:01_
@@ -191,7 +191,7 @@ _Goles esperados: local 0,81 · visitante 1,94 · córners esperados 9,1._
 | Doble oportunidad: 12 | 79% | 77% | 78% | 1.22 | -5% |
 | Doble oportunidad: 1X | 36% | 41% | 38% | 2.30 | -12% |
 | Ambos marcan: No | 53% | 48% | 50% | 1.95 | -2% |
-| Ambos marcan: Sí | 47% | 52% | 50% | 1.80 | -10% |
+| Ambos marcan: Sí | 47% | 52% | 50% | 1.80 | -11% |
 | Goles más/menos: Más de 1.5 | 76% | 76% | 76% | 1.25 | -5% |
 | Goles más/menos: Más de 2.5 | 52% | 55% | 53% | 1.73 | -8% |
 | Goles más/menos: Más de 3.5 | 30% | 34% | 32% | 2.75 | -12% |
@@ -205,8 +205,8 @@ _Goles esperados: local 0,81 · visitante 1,94 · córners esperados 9,1._
 | Goles del local: Más de 0.5 | 55% | 62% | 59% | 1.50 | -12% |
 | Goles del local: Más de 1.5 | 19% | 27% | 23% | 3.50 | -19% |
 | Goles del local: Menos de 0.5 | 45% | 38% | 41% | 2.50 | +3% |
-| Goles del local: Menos de 1.5 | 81% | 73% | 77% | 1.28 | -2% |
-| Goles del visitante: Más de 1.5 | 58% | 58% | 58% | 1.62 | -6% |
+| Goles del local: Menos de 1.5 | 81% | 73% | 77% | 1.28 | -1% |
+| Goles del visitante: Más de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
 | Goles del visitante: Más de 2.5 | 31% | 31% | 31% | 3.00 | -7% |
 | Goles del visitante: Menos de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del visitante: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -6% |

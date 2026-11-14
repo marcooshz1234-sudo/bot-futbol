@@ -1,7 +1,7 @@
 # Norwich – Cardiff
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Dylan Lawlor | D | 3 | 115 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,29 · visitante 1,79 · córners esperados 9,3._
+_Goles esperados: local 2,28 · visitante 1,79 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

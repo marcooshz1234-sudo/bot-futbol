@@ -1,10 +1,10 @@
 # Bayern München – 1. FC Köln
 **Bundesliga** · Regular Season - 10 · 20/11/2026 20:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 01:48_
+_Actualizadas: 14/11 02:08_
 
 - **1X2:** 1 **1.07**  ·  X **11.00**  ·  2 **23.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.05**  ·  X2 **9.00**
@@ -186,34 +186,34 @@ _Sin bajas comunicadas por ahora._
 | Reigan Heskey | F | 5 | 60 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 1 | 2 | 0,4 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,30 · visitante 0,76 · córners esperados 10,6._
+_Goles esperados: local 3,29 · visitante 0,76 · córners esperados 10,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 5% | 4% | 5% | 23.00 | +7% |
-| 1X2: X | 10% | 9% | 9% | 11.00 | -0% |
+| 1X2: X | 10% | 9% | 9% | 11.00 | +0% |
 | 1X2: 1 | 85% | 87% | 86% | 1.07 | -8% |
 | Doble oportunidad: X2 | 15% | 11% | 13% | 9.00 | +16% |
 | Doble oportunidad: 12 | 90% | 93% | 92% | 1.05 | -4% |
 | Doble oportunidad: 1X | 95% | 96% | 96% | 1.01 | -3% |
-| Ambos marcan: No | 48% | 52% | 50% | 1.80 | -10% |
-| Ambos marcan: Sí | 52% | 48% | 50% | 1.95 | -3% |
+| Ambos marcan: No | 49% | 52% | 50% | 1.80 | -9% |
+| Ambos marcan: Sí | 51% | 48% | 50% | 1.95 | -3% |
 | Goles más/menos: Más de 2.5 | 77% | 79% | 78% | 1.20 | -6% |
 | Goles más/menos: Más de 3.5 | 58% | 64% | 61% | 1.50 | -9% |
 | Goles más/menos: Más de 4.5 | 38% | 45% | 42% | 2.10 | -12% |
-| Goles más/menos: Más de 5.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles más/menos: Más de 5.5 | 22% | 28% | 25% | 3.40 | -14% |
 | Goles más/menos: Menos de 2.5 | 23% | 21% | 22% | 4.50 | -1% |
 | Goles más/menos: Menos de 3.5 | 42% | 36% | 39% | 2.62 | +3% |
 | Goles más/menos: Menos de 4.5 | 62% | 55% | 58% | 1.73 | +1% |
-| Goles más/menos: Menos de 5.5 | 77% | 72% | 75% | 1.33 | -1% |
+| Goles más/menos: Menos de 5.5 | 78% | 72% | 75% | 1.33 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 53% | 58% | 55% | 1.62 | -11% |
 | Goles 1ª parte más/menos: Más de 2.5 | 26% | 34% | 30% | 2.75 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 47% | 42% | 45% | 2.20 | -1% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del local: Más de 2.5 | 64% | 71% | 68% | 1.33 | -10% |
+| Goles del local: Más de 2.5 | 64% | 71% | 67% | 1.33 | -10% |
 | Goles del local: Más de 3.5 | 42% | 50% | 46% | 1.83 | -16% |
 | Goles del local: Más de 4.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del local: Menos de 2.5 | 36% | 29% | 32% | 3.25 | +6% |
+| Goles del local: Menos de 2.5 | 36% | 29% | 33% | 3.25 | +6% |
 | Goles del local: Menos de 3.5 | 58% | 50% | 54% | 1.83 | -1% |
 | Goles del local: Menos de 4.5 | 76% | 66% | 71% | 1.40 | -0% |
 | Goles del visitante: Más de 0.5 | 53% | 50% | 52% | 1.83 | -5% |

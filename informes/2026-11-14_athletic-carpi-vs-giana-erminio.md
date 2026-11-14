@@ -1,10 +1,10 @@
 # Athletic Carpi – Giana Erminio
 **Serie C** · Girone A - 14 · 14/11/2026 17:30 (hora España) · Stadio Sandro Cabassi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:58_
+_Actualizadas: 14/11 02:06_
 
 - **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.88**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.55**
@@ -29,6 +29,8 @@ _Actualizadas: 13/11 19:58_
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
+- **Córners más/menos:**
+    - 8,5: más **2.00** · menos **1.73**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -42,6 +44,7 @@ _Actualizadas: 13/11 19:58_
 - **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.50**
+- **Total Corners (1st Half):** Más de 3.5 **1.72**  ·  Menos de 3.5 **2.08**  ·  Exactamente 4 **5.00**  ·  Más de 4 **2.50**  ·  Menos de 4 **2.05**
 
 ## Estadísticas de equipo
 | | Athletic Carpi (total) | Athletic Carpi en casa | Giana Erminio (total) | Giana Erminio fuera |
@@ -132,7 +135,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,44._
+_Goles esperados: local 1,32 · visitante 1,45._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -158,16 +161,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del local: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Goles del local: Más de 1.5 | 38% | 44% | 41% | 2.10 | -14% |
-| Goles del local: Más de 2.5 | 15% | 21% | 18% | 4.50 | -20% |
+| Goles del local: Más de 2.5 | 15% | 21% | 18% | 4.50 | -21% |
 | Goles del local: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles del local: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -2% |
 | Goles del local: Menos de 2.5 | 85% | 79% | 82% | 1.17 | -4% |
 | Goles del visitante: Más de 0.5 | 76% | 71% | 74% | 1.33 | -2% |
 | Goles del visitante: Más de 1.5 | 42% | 35% | 39% | 2.62 | +2% |
-| Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -14% |
+| Goles del visitante: Menos de 0.5 | 24% | 29% | 26% | 3.25 | -15% |
 | Goles del visitante: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | 1X2 descanso: 2 | 31% | 26% | 29% | 3.40 | -3% |
 | 1X2 descanso: X | 42% | 41% | 41% | 2.20 | -9% |
-| 1X2 descanso: 1 | 27% | 33% | 30% | 2.75 | -17% |
+| 1X2 descanso: 1 | 27% | 33% | 30% | 2.75 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

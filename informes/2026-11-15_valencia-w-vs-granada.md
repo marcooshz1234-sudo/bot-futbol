@@ -1,10 +1,10 @@
 # Valencia W – Granada
 **Liga F** · Regular Season - 11 · 15/11/2026 18:15 (hora España) · Estadio Antonio Puchades
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:59_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **2.80**  ·  X **3.10**  ·  2 **2.25**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
@@ -14,7 +14,25 @@ _Actualizadas: 13/11 19:59_
     - 2,5: más **2.08** · menos **1.73**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.00** · menos **1.14**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **1.91**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.10**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
@@ -122,7 +140,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 40% | 40% | 40% | 2.25 | -11% |
 | 1X2: X | 30% | 29% | 30% | 3.10 | -8% |
-| 1X2: 1 | 30% | 32% | 31% | 2.80 | -13% |
+| 1X2: 1 | 30% | 32% | 31% | 2.80 | -14% |
 | Ambos marcan: No | 60% | 50% | 55% | 1.83 | +0% |
 | Ambos marcan: Sí | 40% | 50% | 45% | 1.83 | -17% |
 | Goles más/menos: Más de 1.5 | 60% | 71% | 66% | 1.33 | -13% |
@@ -131,6 +149,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 40% | 29% | 34% | 3.25 | +12% |
 | Goles más/menos: Menos de 2.5 | 67% | 55% | 61% | 1.73 | +5% |
 | Goles más/menos: Menos de 3.5 | 85% | 75% | 80% | 1.25 | +0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 59% | 66% | 62% | 1.40 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 22% | 31% | 27% | 3.00 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 41% | 34% | 38% | 2.75 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 69% | 73% | 1.36 | -0% |
+| Goles del local: Más de 0.5 | 60% | 66% | 63% | 1.40 | -11% |
+| Goles del local: Más de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
+| Goles del local: Menos de 0.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles del local: Menos de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
+| Goles del visitante: Más de 0.5 | 67% | 72% | 70% | 1.30 | -9% |
+| Goles del visitante: Más de 1.5 | 30% | 39% | 35% | 2.38 | -17% |
+| Goles del visitante: Menos de 0.5 | 33% | 28% | 30% | 3.40 | +3% |
+| Goles del visitante: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
 | 1X2 descanso: 2 | 28% | 31% | 30% | 2.88 | -15% |
 | 1X2 descanso: X | 50% | 43% | 46% | 2.10 | -3% |
 | 1X2 descanso: 1 | 22% | 26% | 24% | 3.40 | -17% |

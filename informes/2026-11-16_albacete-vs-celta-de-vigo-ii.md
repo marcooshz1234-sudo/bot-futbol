@@ -1,18 +1,18 @@
 # Albacete – Celta de Vigo II
-**Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Estadio Carlos Belmonte
+**Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 14:14_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **1.62**  ·  X **3.80**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.38** · menos **1.53**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -30,7 +30,7 @@ _Actualizadas: 13/11 14:14_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.80** · menos **1.91**
+    - 9,5: más **1.82** · menos **1.98**
 - **Córners 1X2:** 1 **1.40**  ·  X **9.00**  ·  2 **3.40**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.50**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
@@ -183,40 +183,42 @@ _Sin precedentes recientes._
 | Alexis Olmedo | D | 4 | 169 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,69 · visitante 1,45 · córners esperados 9,8._
+_Goles esperados: local 1,69 · visitante 1,44 · córners esperados 9,7._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 33% | 19% | 26% | 5.00 | +29% |
-| 1X2: X | 23% | 24% | 24% | 3.80 | -9% |
+| 1X2: 2 | 33% | 19% | 26% | 5.00 | +28% |
+| 1X2: X | 24% | 24% | 24% | 3.80 | -9% |
 | 1X2: 1 | 44% | 57% | 50% | 1.62 | -18% |
 | Doble oportunidad: X2 | 56% | 42% | 49% | 2.25 | +11% |
-| Doble oportunidad: 12 | 77% | 76% | 76% | 1.25 | -5% |
+| Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 67% | 81% | 74% | 1.17 | -13% |
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
-| Goles más/menos: Más de 2.5 | 61% | 59% | 60% | 1.60 | -4% |
-| Goles más/menos: Más de 3.5 | 38% | 39% | 39% | 2.38 | -8% |
+| Goles más/menos: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
+| Goles más/menos: Más de 2.5 | 61% | 58% | 59% | 1.62 | -4% |
+| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -5% |
 | Goles más/menos: Más de 4.5 | 21% | 22% | 21% | 4.33 | -8% |
-| Goles más/menos: Menos de 2.5 | 39% | 41% | 40% | 2.30 | -8% |
-| Goles más/menos: Menos de 3.5 | 62% | 61% | 61% | 1.53 | -6% |
-| Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.20 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles más/menos: Menos de 2.5 | 39% | 42% | 41% | 2.25 | -9% |
+| Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles más/menos: Menos de 4.5 | 79% | 78% | 79% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 41% | 40% | 2.25 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Más de 1.5 | 50% | 61% | 56% | 1.53 | -15% |
 | Goles del local: Más de 2.5 | 24% | 35% | 30% | 2.62 | -22% |
 | Goles del local: Menos de 1.5 | 50% | 39% | 44% | 2.38 | +6% |
 | Goles del local: Menos de 2.5 | 76% | 65% | 70% | 1.44 | +1% |
-| Goles del visitante: Más de 0.5 | 76% | 65% | 71% | 1.44 | +2% |
+| Goles del visitante: Más de 0.5 | 76% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 1.5 | 42% | 29% | 36% | 3.25 | +16% |
-| Goles del visitante: Menos de 0.5 | 24% | 35% | 29% | 2.62 | -23% |
-| Goles del visitante: Menos de 1.5 | 58% | 71% | 64% | 1.33 | -15% |
-| Córners más/menos: Más de 9.5 | 47% | 51% | 49% | 1.80 | -11% |
-| Córners más/menos: Menos de 9.5 | 53% | 49% | 51% | 1.91 | -3% |
+| Goles del visitante: Menos de 0.5 | 24% | 35% | 30% | 2.62 | -22% |
+| Goles del visitante: Menos de 1.5 | 58% | 71% | 64% | 1.33 | -14% |
+| Córners más/menos: Más de 9.5 | 47% | 52% | 50% | 1.82 | -10% |
+| Córners más/menos: Menos de 9.5 | 53% | 48% | 50% | 1.98 | -0% |
 | 1X2 descanso: X | 39% | 37% | 38% | 2.50 | -5% |
 | 1X2 descanso: 1 | 34% | 44% | 39% | 2.10 | -18% |
 

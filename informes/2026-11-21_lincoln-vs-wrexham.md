@@ -1,7 +1,7 @@
 # Lincoln – Wrexham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Josh Windass | F | 6 | 260 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,09 · córners esperados 9,2._
+_Goles esperados: local 1,08 · visitante 1,08 · córners esperados 9,2._
 
 _Sin cuotas de Bet365 todavía para comparar._

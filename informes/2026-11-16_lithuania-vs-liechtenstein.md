@@ -1,7 +1,7 @@
 # Lithuania – Liechtenstein
-**Nations League** · League D - 6 · 16/11/2026 18:00 (hora España)
+**Nations League** · League D - 6 · 16/11/2026 18:00 (hora España) · Darius and Girėnas Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,51 +9,51 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Lithuania (total) | Lithuania en casa | Liechtenstein (total) | Liechtenstein fuera |
 |---|---|---|---|---|
-| Partidos analizados | 3 | 1 | 2 | 1 |
-| Forma (últimos 5) | DEV | E | ED | E |
-| Balance | 1V 1E 1D | 0V 1E 0D | 0V 1E 1D | 0V 1E 0D |
+| Partidos analizados | 3 | 1 | 3 | 1 |
+| Forma (últimos 5) | DEV | E | DED | E |
+| Balance | 1V 1E 1D | 0V 1E 0D | 0V 1E 2D | 0V 1E 0D |
 | Goles a favor / partido | 1,00 | 1,00 | 0,00 | 0,00 |
 | Goles en contra / partido | 0,67 | 1,00 | 1,00 | 0,00 |
 | Goles a favor 1ª parte | 0,33 | 1,00 | 0,00 | 0,00 |
 | Goles a favor 2ª parte | 0,67 | 0,00 | 0,00 | 0,00 |
-| Goles en contra 1ª parte | 0,67 | 1,00 | 0,00 | 0,00 |
-| Goles en contra 2ª parte | 0,00 | 0,00 | 1,00 | 0,00 |
-| Más de 1,5 goles | 67% | 100% | 50% | 0% |
+| Goles en contra 1ª parte | 0,67 | 1,00 | 0,33 | 0,00 |
+| Goles en contra 2ª parte | 0,00 | 0,00 | 0,67 | 0,00 |
+| Más de 1,5 goles | 67% | 100% | 33% | 0% |
 | Más de 2,5 goles | 0% | 0% | 0% | 0% |
 | Más de 3,5 goles | 0% | 0% | 0% | 0% |
 | Ambos marcan | 33% | 100% | 0% | 0% |
-| Portería a cero | 33% | 0% | 50% | 100% |
+| Portería a cero | 33% | 0% | 33% | 100% |
 | Se queda sin marcar | 33% | 0% | 100% | 100% |
-| xG a favor | 1,23 | 1,26 | 0,12 | 0,17 |
-| xG en contra | 0,93 | 0,83 | 1,93 | 2,48 |
-| Tiros / partido | 12,7 | 9,0 | 4,5 | 5,0 |
+| xG a favor | 1,23 | 1,26 | 0,20 | 0,17 |
+| xG en contra | 0,93 | 0,83 | 1,89 | 2,48 |
+| Tiros / partido | 12,7 | 9,0 | 4,7 | 5,0 |
 | Tiros a puerta / partido | 4,3 | 3,0 | 0,0 | 0,0 |
-| Tiros recibidos | 8,7 | 9,0 | 20,5 | 25,0 |
-| Tiros a puerta recibidos | 3,7 | 4,0 | 6,0 | 5,0 |
-| Posesión media % | 62 | 51 | 26 | 26 |
-| Córners a favor | 4,3 | 0,0 | 0,0 | 0,0 |
-| Córners en contra | 1,3 | 2,0 | 7,0 | 6,0 |
-| Córners a favor 1ª parte | 2,3 | 0,0 | 0,0 | 0,0 |
+| Tiros recibidos | 8,7 | 9,0 | 23,3 | 25,0 |
+| Tiros a puerta recibidos | 3,7 | 4,0 | 7,7 | 5,0 |
+| Posesión media % | 62 | 51 | 29 | 26 |
+| Córners a favor | 4,3 | 0,0 | 0,3 | 0,0 |
+| Córners en contra | 1,3 | 2,0 | 7,7 | 6,0 |
+| Córners a favor 1ª parte | 2,3 | 0,0 | 0,3 | 0,0 |
 | Córners a favor 2ª parte | 2,0 | 0,0 | 0,0 | 0,0 |
-| Córners totales del partido | 5,7 | 2,0 | 7,0 | 6,0 |
-| Córners totales 1ª parte | 2,3 | 0,0 | 4,5 | 3,0 |
-| Córners totales 2ª parte | 3,3 | 2,0 | 2,5 | 3,0 |
-| Más de 8,5 córners | 0% | 0% | 0% | 0% |
-| Más de 9,5 córners | 0% | 0% | 0% | 0% |
+| Córners totales del partido | 5,7 | 2,0 | 8,0 | 6,0 |
+| Córners totales 1ª parte | 2,3 | 0,0 | 4,0 | 3,0 |
+| Córners totales 2ª parte | 3,3 | 2,0 | 4,0 | 3,0 |
+| Más de 8,5 córners | 0% | 0% | 33% | 0% |
+| Más de 9,5 córners | 0% | 0% | 33% | 0% |
 | Más de 10,5 córners | 0% | 0% | 0% | 0% |
-| Faltas cometidas | 12,7 | 15,0 | 15,5 | 16,0 |
-| Faltas recibidas | 15,0 | 16,0 | 10,5 | 7,0 |
+| Faltas cometidas | 12,7 | 15,0 | 13,3 | 16,0 |
+| Faltas recibidas | 15,0 | 16,0 | 9,3 | 7,0 |
 | Amarillas propias | 1,7 | 1,0 | 2,0 | 3,0 |
-| Amarillas del rival | 2,3 | 3,0 | 1,5 | 2,0 |
+| Amarillas del rival | 2,3 | 3,0 | 1,3 | 2,0 |
 | Rojas / partido | 0,33 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lithuania | Recibe Lithuania | Tarjetas Lithuania | Goles Liechtenstein | Recibe Liechtenstein | Tarjetas Liechtenstein |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 0 | 0 | 0 | 0 |
-| 16-30' | 0 | 1 | 1 | 0 | 0 | 0 |
-| 31-45' | 0 | 0 | 1 | 0 | 0 | 3 |
-| 46-60' | 1 | 0 | 2 | 0 | 1 | 1 |
+| 16-30' | 0 | 1 | 1 | 0 | 1 | 0 |
+| 31-45' | 0 | 0 | 1 | 0 | 0 | 4 |
+| 46-60' | 1 | 0 | 2 | 0 | 1 | 2 |
 | 61-75' | 1 | 0 | 0 | 0 | 1 | 0 |
 | 76-90' | 0 | 0 | 2 | 0 | 0 | 0 |
 
@@ -99,27 +99,31 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Liechtenstein
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | Nations League | Liechtenstein 0-1 Azerbaijan | casa | 1-9 | 5 (0) - 29 (11) | 2-1 |
 | 2026-10-01 | Nations League | Azerbaijan 0-0 Liechtenstein | fuera | 0-6 | 5 (0) - 25 (5) | 3-2 |
 | 2026-09-24 | Nations League | Liechtenstein 0-2 Lithuania | casa | 0-8 | 4 (0) - 16 (7) | 1-1 |
 
 ## Jugadores de Liechtenstein
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Florian Allgäuer |  | 5 | 182 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 6 | 3 | 0,6 | 1 | 0 |
+| Bruno Poitner |  | 8 | 299 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 5 | 0,6 | 1 | 0 |
+| M. Goppel | M | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 4 | 1,3 | 0 | 0 |
+| B. Büchel | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
+| M. Buchel | M | 3 | 265 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 6 | 0 | 0,0 | 1 | 0 |
+| A. Hasler | M | 3 | 241 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 1 | 0 |
+| A. Sele | M | 3 | 240 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
+| E. Zünd | M | 3 | 191 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 4 | 1 | 0,3 | 1 | 0 |
+| J. Hofer | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,5 | 0 | 0 |
+| Fabio Luque Notaro | F | 3 | 180 | 0 | 0 | 4 | 1,3 | 0 | 0,0 | 5 | 3 | 1,0 | 0 | 0 |
 | J. Weissenhofer | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,5 | 0 | 0 |
 | L. Traber | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 1 | 0 |
 | N. Hasler | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
-| M. Goppel | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 1,0 | 0 | 0 |
-| B. Büchel | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
-| M. Buchel |  | 2 | 177 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
-| A. Hasler | M | 2 | 167 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 2 | 2 | 1,0 | 1 | 0 |
-| A. Sele | M | 2 | 150 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
-| Fabio Luque Notaro | F | 2 | 118 | 0 | 0 | 3 | 1,5 | 0 | 0,0 | 4 | 3 | 1,5 | 0 | 0 |
-| E. Zünd | M | 2 | 101 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
-| J. Hofer | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
+| S. Schlegel | D | 3 | 106 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| L. Meier | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Kenny Kindle | F | 2 | 62 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,5 | 1 | 0 |
-| S. Schlegel |  | 2 | 18 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
-| A. Netzer |  | 2 | 15 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
+| L. Kranz | M | 1 | 17 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Netzer | D | 3 | 17 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
+| A. Malin | D | 1 | 2 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
 _No hay suficientes partidos de alguno de los dos equipos para calcularlas._

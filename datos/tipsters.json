@@ -1914,7 +1914,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.597
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "TipsPro🤙",
@@ -1938,7 +1943,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.3,
    "prob_cuota": 0.649
-  }
+  },
+  "estado": null,
+  "marcador": [
+   7,
+   0
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -1982,7 +1992,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.53,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   7,
+   0
+  ]
  },
  {
   "tipster": "STAKE REAL | JB APUESTAS",
@@ -2026,7 +2041,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.12,
    "prob_cuota": 0.654
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   3
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -2051,7 +2071,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.5,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   7,
+   0
+  ]
  },
  {
   "tipster": "Lafiebredelpick",
@@ -2076,7 +2101,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.25,
    "prob_cuota": 0.8
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   2
+  ]
  },
  {
   "tipster": "Lafiebredelpick",
@@ -2101,7 +2131,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.22,
    "prob_cuota": 0.82
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   1
+  ]
  },
  {
   "tipster": "Lafiebredelpick",
@@ -2126,7 +2161,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.2,
    "prob_cuota": 0.833
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   0
+  ]
  },
  {
   "tipster": "PABLO ANALISTA",
@@ -2152,7 +2192,12 @@
    "liga": "Copa del Rey",
    "cuota_bet365": 1.67,
    "prob_cuota": 0.602
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   5
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2175,6 +2220,11 @@
   },
   "por_que": [
    "Suiza le ganó 2-1 y 3-0 a Eslovenia en los dos últimos; bet365 la tenía a 1,65 (su 1,85 era de otra casa)"
+  ],
+  "estado": "rojo",
+  "marcador": [
+   0,
+   0
   ]
  },
  {
@@ -2197,7 +2247,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.55,
    "prob_cuota": 0.435
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   7,
+   0
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2218,6 +2273,11 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.435
-  }
+  },
+  "estado": null,
+  "marcador": [
+   7,
+   0
+  ]
  }
 ]

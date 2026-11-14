@@ -1,10 +1,10 @@
 # Athletic Club – Espanyol
 **LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 01:48_
+_Actualizadas: 14/11 02:08_
 
 - **1X2:** 1 **1.48**  ·  X **4.10**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.22**  ·  X2 **2.62**
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Rafel Bauzà | M | 6 | 224 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 8 | 8 | 1,3 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 0,76 · córners esperados 9,9._
+_Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -187,13 +187,13 @@ _Goles esperados: local 1,63 · visitante 0,76 · córners esperados 9,9._
 | 1X2: 1 | 58% | 64% | 61% | 1.48 | -10% |
 | Doble oportunidad: X2 | 42% | 36% | 39% | 2.62 | +2% |
 | Doble oportunidad: 12 | 75% | 78% | 77% | 1.22 | -7% |
-| Doble oportunidad: 1X | 83% | 86% | 84% | 1.10 | -7% |
-| Ambos marcan: No | 57% | 52% | 55% | 1.80 | -2% |
+| Doble oportunidad: 1X | 83% | 86% | 85% | 1.10 | -7% |
+| Ambos marcan: No | 57% | 52% | 55% | 1.80 | -1% |
 | Ambos marcan: Sí | 43% | 48% | 45% | 1.95 | -12% |
-| Goles más/menos: Más de 1.5 | 69% | 76% | 73% | 1.25 | -9% |
+| Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -9% |
 | Goles más/menos: Más de 2.5 | 43% | 53% | 48% | 1.80 | -14% |
-| Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -19% |
-| Goles más/menos: Menos de 1.5 | 31% | 24% | 27% | 4.00 | +10% |
+| Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
+| Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
 | Goles más/menos: Menos de 2.5 | 57% | 47% | 52% | 2.00 | +5% |
 | Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
@@ -207,6 +207,6 @@ _Goles esperados: local 1,63 · visitante 0,76 · córners esperados 9,9._
 | Goles del visitante: Más de 0.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -7% |
 | 1X2 descanso: X | 44% | 39% | 42% | 2.38 | -1% |
-| 1X2 descanso: 1 | 40% | 47% | 44% | 2.00 | -13% |
+| 1X2 descanso: 1 | 41% | 47% | 44% | 2.00 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

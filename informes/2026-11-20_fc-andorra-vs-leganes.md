@@ -1,7 +1,7 @@
 # FC Andorra – Leganes
 **Segunda División** · Regular Season - 15 · 20/11/2026 20:30 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | FC Andorra (total) | FC Andorra en casa | Leganes (total) | Leganes fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 14 | 8 |
-| Forma (últimos 5) | EVDDV | DVDDD | VDDED | VDDDD |
-| Balance | 4V 2E 7D | 2V 0E 4D | 4V 3E 7D | 2V 2E 4D |
-| Goles a favor / partido | 1,54 | 1,67 | 0,86 | 0,75 |
-| Goles en contra / partido | 1,69 | 1,83 | 1,64 | 1,75 |
-| Goles a favor 1ª parte | 0,54 | 0,67 | 0,29 | 0,25 |
-| Goles a favor 2ª parte | 1,00 | 1,00 | 0,57 | 0,50 |
-| Goles en contra 1ª parte | 0,92 | 1,17 | 0,71 | 0,62 |
+| Partidos analizados | 13 | 6 | 15 | 8 |
+| Forma (últimos 5) | EVDDV | DVDDD | VVDDE | VDDDD |
+| Balance | 4V 2E 7D | 2V 0E 4D | 5V 3E 7D | 2V 2E 4D |
+| Goles a favor / partido | 1,54 | 1,67 | 1,00 | 0,75 |
+| Goles en contra / partido | 1,69 | 1,83 | 1,60 | 1,75 |
+| Goles a favor 1ª parte | 0,54 | 0,67 | 0,47 | 0,25 |
+| Goles a favor 2ª parte | 1,00 | 1,00 | 0,53 | 0,50 |
+| Goles en contra 1ª parte | 0,92 | 1,17 | 0,67 | 0,62 |
 | Goles en contra 2ª parte | 0,77 | 0,67 | 0,93 | 1,12 |
-| Más de 1,5 goles | 69% | 67% | 64% | 62% |
-| Más de 2,5 goles | 62% | 67% | 36% | 38% |
-| Más de 3,5 goles | 54% | 67% | 29% | 25% |
-| Ambos marcan | 54% | 67% | 36% | 25% |
-| Portería a cero | 23% | 17% | 29% | 38% |
-| Se queda sin marcar | 31% | 17% | 43% | 50% |
-| xG a favor | 2,11 | 2,47 | 1,46 | 1,08 |
-| xG en contra | 1,40 | 1,22 | 1,79 | 1,99 |
-| Tiros / partido | 15,2 | 20,8 | 12,0 | 10,0 |
-| Tiros a puerta / partido | 5,6 | 7,7 | 4,2 | 3,0 |
-| Tiros recibidos | 11,1 | 9,3 | 17,5 | 17,9 |
-| Tiros a puerta recibidos | 3,8 | 3,5 | 5,5 | 6,3 |
-| Posesión media % | 63 | 66 | 48 | 46 |
+| Más de 1,5 goles | 69% | 67% | 67% | 62% |
+| Más de 2,5 goles | 62% | 67% | 40% | 38% |
+| Más de 3,5 goles | 54% | 67% | 33% | 25% |
+| Ambos marcan | 54% | 67% | 40% | 25% |
+| Portería a cero | 23% | 17% | 27% | 38% |
+| Se queda sin marcar | 31% | 17% | 40% | 50% |
+| xG a favor | 2,11 | 2,47 | 1,47 | 1,08 |
+| xG en contra | 1,40 | 1,22 | 1,75 | 1,99 |
+| Tiros / partido | 15,2 | 20,8 | 11,6 | 10,0 |
+| Tiros a puerta / partido | 5,6 | 7,7 | 4,1 | 3,0 |
+| Tiros recibidos | 11,1 | 9,3 | 17,7 | 17,9 |
+| Tiros a puerta recibidos | 3,8 | 3,5 | 5,4 | 6,3 |
+| Posesión media % | 63 | 66 | 47 | 46 |
 | Córners a favor | 4,8 | 6,0 | 3,9 | 3,0 |
-| Córners en contra | 4,4 | 3,3 | 5,8 | 6,1 |
-| Córners a favor 1ª parte | 1,8 | 2,3 | 2,2 | 1,3 |
-| Córners a favor 2ª parte | 3,0 | 3,7 | 1,7 | 1,7 |
-| Córners totales del partido | 9,2 | 9,3 | 9,7 | 9,1 |
+| Córners en contra | 4,4 | 3,3 | 6,0 | 6,1 |
+| Córners a favor 1ª parte | 1,8 | 2,3 | 2,1 | 1,3 |
+| Córners a favor 2ª parte | 3,0 | 3,7 | 1,8 | 1,7 |
+| Córners totales del partido | 9,2 | 9,3 | 9,9 | 9,1 |
 | Córners totales 1ª parte | 3,8 | 4,0 | 4,2 | 3,3 |
-| Córners totales 2ª parte | 5,3 | 5,3 | 5,5 | 5,9 |
-| Más de 8,5 córners | 58% | 83% | 69% | 71% |
-| Más de 9,5 córners | 42% | 50% | 54% | 43% |
-| Más de 10,5 córners | 33% | 33% | 38% | 29% |
-| Faltas cometidas | 17,0 | 16,3 | 16,0 | 15,9 |
-| Faltas recibidas | 11,0 | 10,3 | 12,5 | 12,4 |
+| Córners totales 2ª parte | 5,3 | 5,3 | 5,7 | 5,9 |
+| Más de 8,5 córners | 58% | 83% | 71% | 71% |
+| Más de 9,5 córners | 42% | 50% | 57% | 43% |
+| Más de 10,5 córners | 33% | 33% | 43% | 29% |
+| Faltas cometidas | 17,0 | 16,3 | 15,6 | 15,9 |
+| Faltas recibidas | 11,0 | 10,3 | 12,9 | 12,4 |
 | Amarillas propias | 3,2 | 1,8 | 3,3 | 2,9 |
-| Amarillas del rival | 2,2 | 2,0 | 2,5 | 2,1 |
-| Rojas / partido | 0,17 | 0,00 | 0,23 | 0,14 |
+| Amarillas del rival | 2,2 | 2,0 | 2,6 | 2,1 |
+| Rojas / partido | 0,17 | 0,00 | 0,21 | 0,14 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FC Andorra | Recibe FC Andorra | Tarjetas FC Andorra | Goles Leganes | Recibe Leganes | Tarjetas Leganes |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 6 | 3 | 2 | 2 | 3 |
-| 16-30' | 0 | 2 | 7 | 2 | 6 | 7 |
-| 31-45' | 4 | 4 | 9 | 0 | 2 | 6 |
+| 16-30' | 0 | 2 | 7 | 5 | 6 | 8 |
+| 31-45' | 4 | 4 | 9 | 0 | 2 | 7 |
 | 46-60' | 5 | 3 | 5 | 3 | 7 | 5 |
 | 61-75' | 4 | 1 | 8 | 2 | 3 | 10 |
-| 76-90' | 4 | 6 | 10 | 3 | 3 | 17 |
+| 76-90' | 4 | 6 | 10 | 3 | 4 | 18 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -107,38 +107,38 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Leganes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | Segunda División | Leganes 3-1 Burgos | casa | 4-9 | 7 (3) - 21 (3) | 3-4 |
 | 2026-11-10 | Copa del Rey | Trival Valderas 0-1 Leganes | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Segunda División | Leganes 1-3 Albacete | casa | 9-5 | 17 (7) - 13 (4) | 5-6 |
 | 2026-11-02 | Segunda División | Valladolid 4-3 Leganes | fuera | 4-6 | 21 (10) - 17 (10) | 5-1 |
 | 2026-10-24 | Segunda División | Leganes 1-1 Mallorca | casa | 7-4 | 13 (4) - 10 (3) | 5-4 |
 | 2026-10-16 | Segunda División | Leganes 0-1 Cordoba | casa | 4-7 | 9 (2) - 20 (3) | 4-2 |
-| 2026-10-11 | Segunda División | Almeria 3-0 Leganes | fuera | 3-8 | 7 (1) - 18 (8) | 5-2 |
 
 ## Jugadores de Leganes
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| L. Zidane | G | 11 | 964 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 0 | 0 |
+| Miguel Atienza | M | 11 | 929 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 12 | 9 | 0,8 | 1 | 0 |
+| Marvel | D | 11 | 915 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 11 | 11 | 1,0 | 4 | 0 |
 | Ismaël Gharbi | M | 12 | 907 | 2 | 1 | 14 | 1,2 | 6 | 0,5 | 11 | 16 | 1,3 | 2 | 0 |
-| L. Zidane | G | 10 | 874 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 0 | 0 |
-| Naim García | F | 12 | 860 | 2 | 1 | 15 | 1,2 | 5 | 0,4 | 12 | 10 | 0,8 | 1 | 0 |
-| Z. Buurmeester | M | 13 | 848 | 0 | 0 | 6 | 0,5 | 3 | 0,2 | 11 | 3 | 0,2 | 2 | 0 |
-| Miguel Atienza | M | 10 | 839 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 10 | 9 | 0,9 | 0 | 0 |
-| Y. Kechta | M | 12 | 829 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 25 | 9 | 0,8 | 4 | 0 |
-| Marvel | D | 10 | 825 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 10 | 7 | 0,7 | 4 | 0 |
+| Naim García | F | 13 | 883 | 2 | 1 | 15 | 1,2 | 5 | 0,4 | 12 | 11 | 0,8 | 1 | 0 |
+| Z. Buurmeester | M | 14 | 860 | 0 | 0 | 6 | 0,4 | 3 | 0,2 | 11 | 3 | 0,2 | 2 | 0 |
+| Y. Kechta | M | 13 | 858 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 26 | 9 | 0,7 | 4 | 0 |
 | Lalo Aguilar | D | 9 | 771 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 8 | 5 | 0,6 | 0 | 0 |
-| P. Soko | F | 13 | 685 | 1 | 0 | 15 | 1,2 | 8 | 0,6 | 10 | 4 | 0,3 | 1 | 0 |
-| Ignasi Miquel | D | 8 | 671 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 8 | 1,0 | 1 | 0 |
-| Álex Sancris | M | 10 | 624 | 0 | 3 | 17 | 1,7 | 6 | 0,6 | 10 | 7 | 0,7 | 3 | 0 |
+| Ignasi Miquel | D | 9 | 761 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 7 | 8 | 0,9 | 1 | 0 |
+| P. Soko | F | 14 | 708 | 1 | 0 | 15 | 1,1 | 8 | 0,6 | 10 | 4 | 0,3 | 1 | 0 |
+| Álex Sancris | M | 11 | 691 | 0 | 4 | 18 | 1,6 | 6 | 0,5 | 10 | 7 | 0,6 | 3 | 0 |
+| Álvaro Morata | F | 10 | 650 | 3 | 0 | 13 | 1,3 | 5 | 0,5 | 26 | 20 | 2,0 | 5 | 1 |
 | Javi Montero | D | 8 | 596 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 11 | 7 | 0,9 | 2 | 1 |
-| Álvaro Morata | F | 9 | 560 | 3 | 0 | 13 | 1,4 | 5 | 0,6 | 24 | 16 | 1,8 | 4 | 1 |
-| Dani Rodríguez | M | 12 | 477 | 0 | 0 | 3 | 0,2 | 2 | 0,2 | 15 | 14 | 1,2 | 1 | 0 |
+| Dani Rodríguez | M | 13 | 555 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 18 | 16 | 1,2 | 2 | 0 |
+| Rubén Pulido | D | 10 | 477 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 7 | 2 | 0,2 | 4 | 0 |
+| Álvaro Tejero | D | 7 | 437 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 7 | 9 | 1,3 | 1 | 0 |
 | Rubén Peña | D | 8 | 393 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 4 | 0,5 | 1 | 0 |
-| Rubén Pulido | D | 9 | 387 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 7 | 2 | 0,2 | 4 | 0 |
-| Álvaro Tejero | D | 6 | 359 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 8 | 1,3 | 1 | 0 |
+| Álex Millán | F | 10 | 376 | 3 | 0 | 13 | 1,3 | 6 | 0,6 | 9 | 12 | 1,2 | 2 | 0 |
 | Enric Franquesa | D | 5 | 315 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
-| Álex Millán | F | 9 | 309 | 2 | 0 | 11 | 1,2 | 5 | 0,6 | 9 | 9 | 1,0 | 2 | 0 |
 | Raúl Fernández | G | 4 | 293 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,14 · visitante 1,09 · córners esperados 9,7._
+_Goles esperados: local 2,11 · visitante 1,15 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

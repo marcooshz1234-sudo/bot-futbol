@@ -1,10 +1,10 @@
 # Espanyol W – Granad. Tenerife W
 **Liga F** · Regular Season - 11 · 14/11/2026 12:00 (hora España) · Ciutat Esportiva Dani Jarque
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:58_
+_Actualizadas: 14/11 02:06_
 
 - **1X2:** 1 **2.55**  ·  X **3.10**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.44**
@@ -27,6 +27,9 @@ _Actualizadas: 13/11 19:58_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
+- **Córners más/menos:**
+    - 7,5: más **1.67** · menos **2.10**
+    - 8: más **1.95** · menos **1.85**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.05**  ·  2 **3.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -147,11 +150,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 66% | 64% | 65% | 1.44 | -6% |
 | Ambos marcan: No | 47% | 50% | 49% | 1.83 | -11% |
 | Ambos marcan: Sí | 53% | 50% | 51% | 1.83 | -6% |
-| Goles más/menos: Más de 1.5 | 73% | 69% | 71% | 1.36 | -3% |
-| Goles más/menos: Más de 2.5 | 48% | 44% | 46% | 2.15 | -1% |
+| Goles más/menos: Más de 1.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles más/menos: Más de 2.5 | 48% | 44% | 46% | 2.15 | -2% |
 | Goles más/menos: Más de 3.5 | 26% | 25% | 26% | 3.75 | -4% |
 | Goles más/menos: Menos de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
-| Goles más/menos: Menos de 2.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Goles más/menos: Menos de 2.5 | 52% | 56% | 54% | 1.67 | -9% |
 | Goles más/menos: Menos de 3.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 65% | 66% | 1.44 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 31% | 31% | 31% | 3.00 | -6% |
@@ -163,9 +166,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -10% |
 | Goles del visitante: Más de 0.5 | 71% | 69% | 70% | 1.36 | -5% |
 | Goles del visitante: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles del visitante: Menos de 0.5 | 29% | 31% | 30% | 3.00 | -10% |
+| Goles del visitante: Menos de 0.5 | 29% | 31% | 30% | 3.00 | -9% |
 | Goles del visitante: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
-| 1X2 descanso: 2 | 26% | 28% | 27% | 3.20 | -13% |
+| 1X2 descanso: 2 | 27% | 28% | 27% | 3.20 | -13% |
 | 1X2 descanso: X | 43% | 44% | 44% | 2.05 | -11% |
 | 1X2 descanso: 1 | 30% | 28% | 29% | 3.20 | -7% |
 

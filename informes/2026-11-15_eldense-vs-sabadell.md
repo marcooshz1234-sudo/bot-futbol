@@ -1,10 +1,10 @@
 # Eldense – Sabadell
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Nuevo Pepico Amat
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:59_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **2.38**  ·  X **3.00**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.36**  ·  X2 **1.53**
@@ -28,7 +28,7 @@ _Actualizadas: 13/11 19:59_
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.95** · menos **1.85**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.20**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.00**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
@@ -190,34 +190,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 36% | 30% | 33% | 3.10 | +2% |
-| 1X2: X | 34% | 31% | 33% | 3.00 | -2% |
+| 1X2: X | 35% | 31% | 33% | 3.00 | -2% |
 | 1X2: 1 | 30% | 39% | 34% | 2.38 | -18% |
 | Doble oportunidad: X2 | 70% | 62% | 66% | 1.53 | +1% |
-| Doble oportunidad: 12 | 66% | 69% | 67% | 1.36 | -8% |
+| Doble oportunidad: 12 | 65% | 69% | 67% | 1.36 | -8% |
 | Doble oportunidad: 1X | 64% | 69% | 67% | 1.36 | -9% |
-| Ambos marcan: No | 68% | 54% | 61% | 1.73 | +5% |
+| Ambos marcan: No | 68% | 54% | 61% | 1.73 | +6% |
 | Ambos marcan: Sí | 32% | 46% | 39% | 2.00 | -22% |
 | Goles más/menos: Más de 1.5 | 49% | 65% | 57% | 1.44 | -18% |
-| Goles más/menos: Más de 2.5 | 23% | 39% | 31% | 2.40 | -25% |
+| Goles más/menos: Más de 2.5 | 23% | 39% | 31% | 2.40 | -26% |
 | Goles más/menos: Más de 3.5 | 9% | 21% | 15% | 4.50 | -34% |
 | Goles más/menos: Menos de 1.5 | 51% | 35% | 43% | 2.62 | +13% |
-| Goles más/menos: Menos de 2.5 | 77% | 61% | 69% | 1.53 | +5% |
+| Goles más/menos: Menos de 2.5 | 77% | 61% | 69% | 1.53 | +6% |
 | Goles más/menos: Menos de 3.5 | 91% | 79% | 85% | 1.18 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 51% | 62% | 57% | 1.50 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 16% | 27% | 22% | 3.50 | -24% |
+| Goles 1ª parte más/menos: Más de 1.5 | 16% | 27% | 22% | 3.50 | -25% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 49% | 38% | 43% | 2.50 | +8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 84% | 73% | 78% | 1.28 | +0% |
 | Goles del local: Más de 0.5 | 54% | 71% | 62% | 1.33 | -17% |
 | Goles del local: Más de 1.5 | 18% | 35% | 27% | 2.62 | -30% |
 | Goles del local: Menos de 0.5 | 46% | 29% | 38% | 3.25 | +22% |
 | Goles del local: Menos de 1.5 | 82% | 65% | 73% | 1.44 | +5% |
-| Goles del visitante: Más de 0.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Goles del visitante: Más de 1.5 | 22% | 28% | 25% | 3.40 | -15% |
-| Goles del visitante: Menos de 0.5 | 41% | 35% | 38% | 2.62 | +1% |
+| Goles del visitante: Más de 0.5 | 58% | 65% | 61% | 1.44 | -11% |
+| Goles del visitante: Más de 1.5 | 22% | 28% | 25% | 3.40 | -16% |
+| Goles del visitante: Menos de 0.5 | 42% | 35% | 39% | 2.62 | +1% |
 | Goles del visitante: Menos de 1.5 | 78% | 72% | 75% | 1.30 | -2% |
-| Córners más/menos: Más de 9.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Córners más/menos: Menos de 9.5 | 56% | 50% | 53% | 1.83 | -3% |
-| 1X2 descanso: 2 | 24% | 25% | 24% | 3.75 | -8% |
+| Córners más/menos: Más de 9.5 | 44% | 49% | 46% | 1.95 | -9% |
+| Córners más/menos: Menos de 9.5 | 56% | 51% | 54% | 1.85 | -1% |
+| 1X2 descanso: 2 | 24% | 25% | 24% | 3.75 | -9% |
 | 1X2 descanso: X | 55% | 46% | 51% | 2.00 | +1% |
 | 1X2 descanso: 1 | 21% | 29% | 25% | 3.20 | -20% |
 

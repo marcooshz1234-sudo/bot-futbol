@@ -1,10 +1,10 @@
 # Kosovo – Israel
 **Nations League** · League B - 5 · 14/11/2026 15:00 (hora España) · Stadiumi Fadil Vokrri
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:58_
+_Actualizadas: 14/11 02:06_
 
 - **1X2:** 1 **1.80**  ·  X **3.70**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.95**
@@ -51,7 +51,7 @@ _Actualizadas: 13/11 19:58_
 - **Away Corners Over/Under:**
     - 3,5: más **2.00** · menos **1.73**
 - **Total Corners (1st Half):** Más de 3.5 **1.75**  ·  Menos de 3.5 **2.05**  ·  Exactamente 4 **5.00**  ·  Más de 4 **2.60**  ·  Menos de 4 **2.00**
-- **Anytime Goal Scorer:** Dion Gallapeni **10.00**  ·  Yarin Levi **8.00**  ·  Guy Mizrahi **11.00**  ·  Oscar Gloukh **6.50**  ·  Edon Zhegrova **3.60**  ·  Eliazar Dasa **15.00**  ·  Dor Peretz **6.50**  ·  Manor Solomon **5.00**  ·  Raz Shlomo **19.00**  ·  Idan Nachmias **19.00**  ·  Liel Abada **4.00**  ·  Omri Gandelman **6.50**  ·  Ilay Feingold **15.00**  ·  Anan Khalaili **5.00**  ·  Gabi Kanichowsky **7.50**  ·  Ermal Krasniqi **3.25**  ·  Albion Rrahmani **2.25**  ·  Fisnik Asllani **2.75**  ·  Milot Rashica **3.60**  ·  Elvis Rexhbecaj **4.00**  ·  Ilir Krasniqi **8.00**  ·  Lindon Emerllahu **6.00**  ·  Lumbardh Dellova **9.00**  ·  Kreshnik Hajrizi **11.00**  ·  Milot Avdyli **4.33**  ·  Veldin Hodza **6.00**  ·  Leon Avdullahu **6.50**  ·  Dion Kacuri **6.00**  ·  Ron Raci **9.00**  ·  Vedat Muriqi **2.25**  ·  Mergim Vojvoda **6.50**  ·  Bleon Kurtulus **10.00**  ·  Dor Turgeman **3.60**  ·  Roy Revivo **13.00**  ·  Erblin Osmani **6.50**  ·  Valmir Matoshi **4.75**  ·  Orian Goren **8.00**  ·  Niv Yehoshua **10.00**  ·  Noam Shtaifman **13.00**  ·  Lindrit Kamberi **11.00**  ·  Enis Redzepi **3.60**  ·  Yarden Shua **4.33**  ·  Baton Zabergja **3.25**  ·  Ethane Azoulay **6.50**  ·  Nikita Stoinov **15.00**  ·  Idan Gorno **3.50**
+- **Anytime Goal Scorer:** Dion Gallapeni **10.00**  ·  Yarin Levi **8.00**  ·  Guy Mizrahi **11.00**  ·  Oscar Gloukh **6.50**  ·  Edon Zhegrova **3.10**  ·  Eliazar Dasa **15.00**  ·  Dor Peretz **6.50**  ·  Manor Solomon **5.00**  ·  Raz Shlomo **19.00**  ·  Idan Nachmias **19.00**  ·  Liel Abada **4.00**  ·  Omri Gandelman **6.50**  ·  Ilay Feingold **15.00**  ·  Anan Khalaili **5.00**  ·  Gabi Kanichowsky **7.50**  ·  Ermal Krasniqi **3.25**  ·  Albion Rrahmani **2.40**  ·  Fisnik Asllani **2.75**  ·  Milot Rashica **3.60**  ·  Elvis Rexhbecaj **4.00**  ·  Ilir Krasniqi **8.00**  ·  Lindon Emerllahu **6.00**  ·  Lumbardh Dellova **9.00**  ·  Kreshnik Hajrizi **11.00**  ·  Milot Avdyli **4.33**  ·  Veldin Hodza **6.00**  ·  Leon Avdullahu **6.50**  ·  Dion Kacuri **6.00**  ·  Ron Raci **10.00**  ·  Vedat Muriqi **2.40**  ·  Mergim Vojvoda **6.50**  ·  Bleon Kurtulus **10.00**  ·  Dor Turgeman **3.60**  ·  Roy Revivo **13.00**  ·  Erblin Osmani **6.50**  ·  Valmir Matoshi **4.75**  ·  Orian Goren **8.00**  ·  Niv Yehoshua **10.00**  ·  Noam Shtaifman **13.00**  ·  Lindrit Kamberi **11.00**  ·  Enis Redzepi **2.60**  ·  Yarden Shua **4.33**  ·  Baton Zabergja **3.25**  ·  Ethane Azoulay **6.50**  ·  Nikita Stoinov **15.00**  ·  Idan Gorno **3.50**
 
 ## Estadísticas de equipo
 | | Kosovo (total) | Kosovo en casa | Israel (total) | Israel fuera |

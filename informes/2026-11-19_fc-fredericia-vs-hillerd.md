@@ -1,7 +1,7 @@
 # FC Fredericia – Hillerød
 **1. Division** · Regular Season - 15 · 19/11/2026 19:00 (hora España) · Monjasa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 08:23_
@@ -139,7 +139,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,74 · visitante 0,65._
+_Goles esperados: local 1,73 · visitante 0,65._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -147,22 +147,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 14% | 14% | 14% | 6.50 | -11% |
 | 1X2: X | 23% | 16% | 20% | 5.50 | +8% |
-| 1X2: 1 | 64% | 70% | 67% | 1.30 | -13% |
-| Doble oportunidad: X2 | 36% | 29% | 33% | 3.25 | +7% |
+| 1X2: 1 | 63% | 70% | 67% | 1.30 | -14% |
+| Doble oportunidad: X2 | 37% | 29% | 33% | 3.25 | +7% |
 | Doble oportunidad: 12 | 77% | 85% | 81% | 1.12 | -9% |
 | Doble oportunidad: 1X | 86% | 86% | 86% | 1.10 | -5% |
-| Ambos marcan: No | 60% | 44% | 52% | 2.10 | +10% |
-| Ambos marcan: Sí | 40% | 56% | 48% | 1.67 | -20% |
+| Ambos marcan: No | 61% | 44% | 52% | 2.10 | +10% |
+| Ambos marcan: Sí | 39% | 56% | 48% | 1.67 | -21% |
 | Goles más/menos: Más de 2.5 | 43% | 67% | 55% | 1.40 | -23% |
 | Goles más/menos: Más de 3.5 | 22% | 49% | 35% | 1.91 | -33% |
-| Goles más/menos: Más de 4.5 | 9% | 29% | 19% | 3.25 | -37% |
-| Goles más/menos: Menos de 2.5 | 57% | 33% | 45% | 2.88 | +29% |
+| Goles más/menos: Más de 4.5 | 9% | 29% | 19% | 3.25 | -38% |
+| Goles más/menos: Menos de 2.5 | 57% | 33% | 45% | 2.88 | +30% |
 | Goles más/menos: Menos de 3.5 | 78% | 51% | 65% | 1.80 | +17% |
 | Goles más/menos: Menos de 4.5 | 91% | 71% | 81% | 1.33 | +7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 78% | 72% | 1.20 | -14% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 78% | 71% | 1.20 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 46% | 37% | 2.00 | -26% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 23% | 16% | 4.00 | -36% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 22% | 28% | 4.33 | +23% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 22% | 29% | 4.33 | +23% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 54% | 63% | 1.73 | +9% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 77% | 84% | 1.22 | +2% |
 | Goles del local: Más de 1.5 | 52% | 72% | 62% | 1.30 | -19% |

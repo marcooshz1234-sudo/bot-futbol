@@ -1,7 +1,7 @@
 # Latvia – Armenia
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España) · Skonto
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -136,6 +136,6 @@ _Sin bajas comunicadas por ahora._
 | A. Mishiev | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,72 · visitante 1,05 · córners esperados 10,0._
+_Goles esperados: local 0,72 · visitante 1,04 · córners esperados 10,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

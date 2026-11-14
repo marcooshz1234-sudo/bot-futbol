@@ -1,7 +1,7 @@
 # Faroe Islands – Moldova
-**Nations League** · League C - 6 · 16/11/2026 16:00 (hora España)
+**Nations League** · League C - 6 · 16/11/2026 16:00 (hora España) · Torsvollur
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Faroe Islands (total) | Faroe Islands en casa | Moldova (total) | Moldova fuera |
 |---|---|---|---|---|
-| Partidos analizados | 4 | 2 | 5 | 2 |
-| Forma (últimos 5) | EEEE | EE | VDVED | VD |
-| Balance | 0V 4E 0D | 0V 2E 0D | 2V 1E 2D | 1V 0E 1D |
-| Goles a favor / partido | 1,25 | 1,00 | 1,00 | 1,00 |
-| Goles en contra / partido | 1,25 | 1,00 | 1,80 | 1,50 |
-| Goles a favor 1ª parte | 0,75 | 0,50 | 0,40 | 0,50 |
-| Goles a favor 2ª parte | 0,50 | 0,50 | 0,60 | 0,50 |
-| Goles en contra 1ª parte | 0,50 | 1,00 | 1,00 | 1,00 |
-| Goles en contra 2ª parte | 0,75 | 0,00 | 0,80 | 0,50 |
+| Partidos analizados | 5 | 2 | 5 | 2 |
+| Forma (últimos 5) | EEEEE | EE | VDVED | VD |
+| Balance | 0V 5E 0D | 0V 2E 0D | 2V 1E 2D | 1V 0E 1D |
+| Goles a favor / partido | 1,40 | 1,00 | 1,00 | 1,00 |
+| Goles en contra / partido | 1,40 | 1,00 | 1,80 | 1,50 |
+| Goles a favor 1ª parte | 0,80 | 0,50 | 0,40 | 0,50 |
+| Goles a favor 2ª parte | 0,60 | 0,50 | 0,60 | 0,50 |
+| Goles en contra 1ª parte | 0,60 | 1,00 | 1,00 | 1,00 |
+| Goles en contra 2ª parte | 0,80 | 0,00 | 0,80 | 0,50 |
 | Más de 1,5 goles | 100% | 100% | 100% | 100% |
-| Más de 2,5 goles | 25% | 0% | 60% | 50% |
-| Más de 3,5 goles | 25% | 0% | 20% | 0% |
+| Más de 2,5 goles | 40% | 0% | 60% | 50% |
+| Más de 3,5 goles | 40% | 0% | 20% | 0% |
 | Ambos marcan | 100% | 100% | 60% | 50% |
 | Portería a cero | 0% | 0% | 0% | 0% |
 | Se queda sin marcar | 0% | 0% | 40% | 50% |
-| xG a favor | 1,18 | 1,21 | 1,15 | 0,89 |
-| xG en contra | 0,91 | 0,53 | 1,23 | 1,10 |
-| Tiros / partido | 12,8 | 14,5 | 15,4 | 12,0 |
+| xG a favor | 1,41 | 1,21 | 1,15 | 0,89 |
+| xG en contra | 1,10 | 0,53 | 1,23 | 1,10 |
+| Tiros / partido | 12,2 | 14,5 | 15,4 | 12,0 |
 | Tiros a puerta / partido | 4,0 | 5,5 | 4,6 | 4,5 |
-| Tiros recibidos | 17,8 | 12,5 | 13,4 | 18,0 |
-| Tiros a puerta recibidos | 3,5 | 3,0 | 3,8 | 3,5 |
-| Posesión media % | 35 | 38 | 48 | 34 |
+| Tiros recibidos | 17,0 | 12,5 | 13,4 | 18,0 |
+| Tiros a puerta recibidos | 3,8 | 3,0 | 3,8 | 3,5 |
+| Posesión media % | 33 | 38 | 48 | 34 |
 | Córners a favor | 4,8 | 4,5 | 4,8 | 3,5 |
-| Córners en contra | 6,8 | 7,5 | 5,2 | 9,0 |
-| Córners a favor 1ª parte | 2,5 | 2,5 | 2,4 | 3,0 |
+| Córners en contra | 7,2 | 7,5 | 5,2 | 9,0 |
+| Córners a favor 1ª parte | 2,6 | 2,5 | 2,4 | 3,0 |
 | Córners a favor 2ª parte | 2,2 | 2,0 | 2,4 | 0,5 |
-| Córners totales del partido | 11,5 | 12,0 | 10,0 | 12,5 |
-| Córners totales 1ª parte | 6,5 | 7,5 | 4,8 | 7,5 |
-| Córners totales 2ª parte | 5,0 | 4,5 | 5,2 | 5,0 |
+| Córners totales del partido | 12,0 | 12,0 | 10,0 | 12,5 |
+| Córners totales 1ª parte | 6,4 | 7,5 | 4,8 | 7,5 |
+| Córners totales 2ª parte | 5,6 | 4,5 | 5,2 | 5,0 |
 | Más de 8,5 córners | 100% | 100% | 80% | 100% |
-| Más de 9,5 córners | 75% | 100% | 60% | 100% |
-| Más de 10,5 córners | 75% | 100% | 40% | 50% |
-| Faltas cometidas | 10,5 | 11,0 | 11,4 | 11,0 |
-| Faltas recibidas | 9,2 | 8,5 | 11,4 | 9,0 |
-| Amarillas propias | 1,2 | 1,5 | 1,0 | 0,5 |
-| Amarillas del rival | 0,8 | 1,0 | 1,0 | 2,0 |
-| Rojas / partido | 0,25 | 0,00 | 0,00 | 0,00 |
+| Más de 9,5 córners | 80% | 100% | 60% | 100% |
+| Más de 10,5 córners | 80% | 100% | 40% | 50% |
+| Faltas cometidas | 11,8 | 11,0 | 11,4 | 11,0 |
+| Faltas recibidas | 8,8 | 8,5 | 11,4 | 9,0 |
+| Amarillas propias | 1,6 | 1,5 | 1,0 | 0,5 |
+| Amarillas del rival | 1,0 | 1,0 | 1,0 | 2,0 |
+| Rojas / partido | 0,20 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Faroe Islands | Recibe Faroe Islands | Tarjetas Faroe Islands | Goles Moldova | Recibe Moldova | Tarjetas Moldova |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 0 | 0 | 0 | 1 | 0 |
-| 16-30' | 2 | 1 | 0 | 0 | 1 | 2 |
+| 16-30' | 3 | 2 | 0 | 0 | 1 | 2 |
 | 31-45' | 0 | 1 | 1 | 2 | 3 | 0 |
-| 46-60' | 0 | 0 | 2 | 1 | 2 | 0 |
-| 61-75' | 2 | 2 | 4 | 1 | 2 | 1 |
-| 76-90' | 0 | 1 | 0 | 1 | 0 | 2 |
+| 46-60' | 1 | 0 | 2 | 1 | 2 | 0 |
+| 61-75' | 2 | 3 | 6 | 1 | 2 | 1 |
+| 76-90' | 0 | 1 | 1 | 1 | 0 | 2 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -72,6 +72,7 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Faroe Islands
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | Nations League | Slovakia 2-2 Faroe Islands | fuera | 5-9 | 10 (4) - 14 (5) | 3-2 |
 | 2026-10-06 | Nations League | Kazakhstan 2-2 Faroe Islands | fuera | 8-5 | 16 (4) - 24 (4) | 1-1 |
 | 2026-10-02 | Nations League | Faroe Islands 1-1 Slovakia | casa | 2-10 | 15 (6) - 15 (4) | 3-0 |
 | 2026-09-29 | Nations League | Moldova 1-1 Faroe Islands | fuera | 2-7 | 6 (1) - 22 (4) | 1-0 |
@@ -80,26 +81,26 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Faroe Islands
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G. Vatnhamar | D | 4 | 360 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 3 | 5 | 1,2 | 0 | 0 |
-| M. Lamhauge | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| H. Sørensen | F | 4 | 323 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 1 | 2 | 0,5 | 0 | 0 |
-| G. Turi | M | 4 | 321 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 6 | 5 | 1,2 | 1 | 0 |
-| J. Bjartalíð | M | 4 | 293 | 0 | 1 | 4 | 1,0 | 2 | 0,5 | 4 | 4 | 1,0 | 0 | 0 |
-| Á. Samuelsen | F | 4 | 282 | 1 | 0 | 5 | 1,2 | 2 | 0,5 | 3 | 1 | 0,2 | 0 | 0 |
-| J. Danielsen | M | 3 | 270 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 2 | 4 | 1,3 | 1 | 0 |
-| O. Færø | D | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
-| A. Edmundsson | D | 3 | 270 | 0 | 1 | 8 | 2,7 | 3 | 1,0 | 5 | 4 | 1,3 | 2 | 0 |
+| G. Vatnhamar | D | 5 | 450 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 4 | 5 | 1,0 | 0 | 0 |
+| M. Lamhauge | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| H. Sørensen | F | 5 | 388 | 0 | 0 | 4 | 0,8 | 1 | 0,2 | 1 | 3 | 0,6 | 0 | 0 |
+| G. Turi | M | 5 | 386 | 1 | 0 | 2 | 0,4 | 1 | 0,2 | 6 | 5 | 1,0 | 1 | 0 |
+| J. Danielsen | M | 4 | 360 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 4 | 5 | 1,2 | 2 | 0 |
+| A. Edmundsson | D | 4 | 360 | 0 | 1 | 9 | 2,2 | 3 | 0,8 | 8 | 5 | 1,2 | 3 | 0 |
+| O. Færø | D | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,5 | 0 | 0 |
+| Á. Samuelsen | F | 5 | 346 | 2 | 0 | 7 | 1,4 | 3 | 0,6 | 4 | 1 | 0,2 | 0 | 0 |
+| J. Bjartalíð | F | 5 | 318 | 0 | 1 | 4 | 0,8 | 2 | 0,4 | 6 | 4 | 0,8 | 0 | 0 |
+| P. Knudsen | F | 5 | 298 | 1 | 1 | 10 | 2,0 | 4 | 0,8 | 7 | 0 | 0,0 | 1 | 0 |
 | M. Agnarsson | M | 4 | 260 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,5 | 0 | 1 |
-| P. Knudsen | F | 4 | 218 | 1 | 0 | 9 | 2,2 | 4 | 1,0 | 5 | 0 | 0,0 | 0 | 0 |
-| A. Justinussen | F | 3 | 150 | 1 | 0 | 2 | 0,7 | 2 | 0,7 | 2 | 1 | 0,3 | 0 | 0 |
+| V. í Davidsen | M | 3 | 186 | 2 | 0 | 2 | 0,7 | 2 | 0,7 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Justinussen | F | 4 | 175 | 1 | 0 | 2 | 0,5 | 2 | 0,5 | 2 | 1 | 0,2 | 0 | 0 |
 | S. Chukwudi | D | 2 | 127 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 | M. Hellisdal | M | 3 | 103 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 1 | 3 | 1,0 | 0 | 0 |
-| V. í Davidsen | D | 2 | 96 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
+| P. Kallsberg | F | 4 | 99 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
+| J. Andreasen | M | 1 | 90 | 0 | 0 | 2 | 2,0 | 1 | 1,0 | 2 | 1 | 1,0 | 0 | 0 |
 | Jann Benjaminsen | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-| P. Kallsberg | F | 3 | 73 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
 | H. Vatnsdal | D | 1 | 53 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| Emil Joensen | M | 1 | 9 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Aron Benjaminsen | F | 1 | 9 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| M. Olsen | M | 1 | 10 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 2,0 | 0 | 0 |
 
 ## Últimos partidos de Moldova
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -135,4 +136,6 @@ _Sin bajas comunicadas por ahora._
 | Dmytro Mandrychenko | F | 1 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._
+_Goles esperados: local 1,80 · visitante 0,98 · córners esperados 9,8._
+
+_Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,25 @@
 {
- "2026-11-16": [],
  "2026-11-17": [],
  "2026-11-20": [
+  {
+   "partido_id": 1551377,
+   "fecha": "2026-11-20T19:00",
+   "local": "Aarhus Fremad",
+   "visitante": "Hobro",
+   "liga": "1. Division",
+   "datos": [
+    "Los partidos del Aarhus Fremad llevan 1,8 goles de media (últimos 8).",
+    "Los partidos del Hobro llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1551377|Total - Away|Over 0.5",
+     "texto": "Hobro marca",
+     "cuota": 1.44,
+     "prob": 0.46
+    }
+   ]
+  },
   {
    "partido_id": 1551380,
    "fecha": "2026-11-20T19:00",
@@ -25,25 +43,6 @@
      "texto": "Ambos marcan en Kolding IF–Aalborg",
      "cuota": 1.57,
      "prob": 0.44
-    }
-   ]
-  },
-  {
-   "partido_id": 1551377,
-   "fecha": "2026-11-20T19:00",
-   "local": "Aarhus Fremad",
-   "visitante": "Hobro",
-   "liga": "1. Division",
-   "datos": [
-    "Los partidos del Aarhus Fremad llevan 1,8 goles de media (últimos 8).",
-    "Los partidos del Hobro llevan 2,9 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1551377|Total - Away|Over 0.5",
-     "texto": "Hobro marca",
-     "cuota": 1.44,
-     "prob": 0.46
     }
    ]
   },
@@ -91,7 +90,7 @@
      "sel": "1570454|Total - Away|Over 0.5",
      "texto": "Espanyol marca",
      "cuota": 1.73,
-     "prob": 0.43
+     "prob": 0.42
     }
    ]
   }
@@ -268,57 +267,6 @@
    ]
   },
   {
-   "partido_id": 1575229,
-   "fecha": "2026-11-21T15:30",
-   "local": "SV Elversberg",
-   "visitante": "SC Freiburg",
-   "liga": "Bundesliga",
-   "datos": [
-    "Los partidos del SV Elversberg llevan 3,1 goles de media (últimos 8).",
-    "Los partidos del SC Freiburg llevan 3,2 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1575229|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
-     "cuota": 1.73,
-     "prob": 0.53
-    },
-    {
-     "sel": "1575229|Both Teams Score|Yes",
-     "texto": "Ambos marcan en SV Elversberg–SC Freiburg",
-     "cuota": 1.44,
-     "prob": 0.46
-    },
-    {
-     "sel": "1575229|Total - Away|Over 1.5",
-     "texto": "SC Freiburg marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.37
-    }
-   ]
-  },
-  {
-   "partido_id": 1575222,
-   "fecha": "2026-11-21T15:30",
-   "local": "Bayer Leverkusen",
-   "visitante": "SC Paderborn 07",
-   "liga": "Bundesliga",
-   "datos": [
-    "El Bayer Leverkusen va 5º y el SC Paderborn 07 13º en la liga.",
-    "Los partidos del Bayer Leverkusen llevan 3,6 goles de media (últimos 8).",
-    "Los partidos del SC Paderborn 07 llevan 2,4 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1575222|Total - Away|Over 0.5",
-     "texto": "SC Paderborn 07 marca",
-     "cuota": 1.57,
-     "prob": 0.45
-    }
-   ]
-  },
-  {
    "partido_id": 1575223,
    "fecha": "2026-11-21T15:30",
    "local": "Eintracht Frankfurt",
@@ -403,46 +351,103 @@
    ]
   },
   {
-   "partido_id": 1557467,
-   "fecha": "2026-11-21T16:00",
-   "local": "Aston Villa",
-   "visitante": "Sunderland",
-   "liga": "Premier",
+   "partido_id": 1575222,
+   "fecha": "2026-11-21T15:30",
+   "local": "Bayer Leverkusen",
+   "visitante": "SC Paderborn 07",
+   "liga": "Bundesliga",
    "datos": [
-    "El Aston Villa va 10º y el Sunderland 19º en la liga.",
-    "Los partidos del Aston Villa llevan 3,8 goles de media (últimos 8).",
-    "Los partidos del Sunderland llevan 2,4 goles de media (últimos 8)."
+    "El Bayer Leverkusen va 5º y el SC Paderborn 07 13º en la liga.",
+    "Los partidos del Bayer Leverkusen llevan 3,6 goles de media (últimos 8).",
+    "Los partidos del SC Paderborn 07 llevan 2,4 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1557467|Match Winner|Home",
-     "texto": "Gana el Aston Villa",
-     "cuota": 1.7,
-     "prob": 0.67
+     "sel": "1575222|Total - Away|Over 0.5",
+     "texto": "SC Paderborn 07 marca",
+     "cuota": 1.57,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1575229,
+   "fecha": "2026-11-21T15:30",
+   "local": "SV Elversberg",
+   "visitante": "SC Freiburg",
+   "liga": "Bundesliga",
+   "datos": [
+    "Los partidos del SV Elversberg llevan 3,1 goles de media (últimos 8).",
+    "Los partidos del SC Freiburg llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1575229|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
+     "cuota": 1.73,
+     "prob": 0.53
     },
     {
-     "sel": "1557467|To Win Either Half|Home",
-     "texto": "Aston Villa gana alguna de las dos partes",
-     "cuota": 1.4,
-     "prob": 0.62
-    },
-    {
-     "sel": "1557467|Total - Home|Over 1.5",
-     "texto": "Aston Villa marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.58
-    },
-    {
-     "sel": "1557467|Total - Away|Over 0.5",
-     "texto": "Sunderland marca",
+     "sel": "1575229|Both Teams Score|Yes",
+     "texto": "Ambos marcan en SV Elversberg–SC Freiburg",
      "cuota": 1.44,
-     "prob": 0.48
+     "prob": 0.46
     },
     {
-     "sel": "1557467|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Aston Villa–Sunderland",
-     "cuota": 1.7,
-     "prob": 0.41
+     "sel": "1575229|Total - Away|Over 1.5",
+     "texto": "SC Freiburg marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.37
+    }
+   ]
+  },
+  {
+   "partido_id": 1557471,
+   "fecha": "2026-11-21T16:00",
+   "local": "Coventry",
+   "visitante": "Crystal Palace",
+   "liga": "Premier",
+   "datos": [
+    "Los partidos del Coventry llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Crystal Palace llevan 3,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557471|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Coventry–Crystal Palace",
+     "cuota": 1.62,
+     "prob": 0.42
+    },
+    {
+     "sel": "1557471|Double Chance|Draw/Away",
+     "texto": "Crystal Palace o empate",
+     "cuota": 1.5,
+     "prob": 0.38
+    }
+   ]
+  },
+  {
+   "partido_id": 1557470,
+   "fecha": "2026-11-21T16:00",
+   "local": "Chelsea",
+   "visitante": "Leeds",
+   "liga": "Premier",
+   "datos": [
+    "Los partidos del Chelsea llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Leeds llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557470|Total - Away|Over 0.5",
+     "texto": "Leeds marca",
+     "cuota": 1.4,
+     "prob": 0.5
+    },
+    {
+     "sel": "1557470|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Chelsea–Leeds",
+     "cuota": 1.67,
+     "prob": 0.42
     }
    ]
   },
@@ -484,52 +489,46 @@
    ]
   },
   {
-   "partido_id": 1557470,
+   "partido_id": 1557467,
    "fecha": "2026-11-21T16:00",
-   "local": "Chelsea",
-   "visitante": "Leeds",
+   "local": "Aston Villa",
+   "visitante": "Sunderland",
    "liga": "Premier",
    "datos": [
-    "Los partidos del Chelsea llevan 2,8 goles de media (últimos 8).",
-    "Los partidos del Leeds llevan 2,8 goles de media (últimos 8)."
+    "El Aston Villa va 10º y el Sunderland 19º en la liga.",
+    "Los partidos del Aston Villa llevan 3,8 goles de media (últimos 8).",
+    "Los partidos del Sunderland llevan 2,4 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1557470|Total - Away|Over 0.5",
-     "texto": "Leeds marca",
+     "sel": "1557467|Match Winner|Home",
+     "texto": "Gana el Aston Villa",
+     "cuota": 1.7,
+     "prob": 0.67
+    },
+    {
+     "sel": "1557467|To Win Either Half|Home",
+     "texto": "Aston Villa gana alguna de las dos partes",
      "cuota": 1.4,
-     "prob": 0.5
+     "prob": 0.62
     },
     {
-     "sel": "1557470|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Chelsea–Leeds",
+     "sel": "1557467|Total - Home|Over 1.5",
+     "texto": "Aston Villa marca 2 o más",
      "cuota": 1.67,
-     "prob": 0.42
-    }
-   ]
-  },
-  {
-   "partido_id": 1557471,
-   "fecha": "2026-11-21T16:00",
-   "local": "Coventry",
-   "visitante": "Crystal Palace",
-   "liga": "Premier",
-   "datos": [
-    "Los partidos del Coventry llevan 3,5 goles de media (últimos 8).",
-    "Los partidos del Crystal Palace llevan 3,1 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1557471|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Coventry–Crystal Palace",
-     "cuota": 1.62,
-     "prob": 0.42
+     "prob": 0.58
     },
     {
-     "sel": "1557471|Double Chance|Draw/Away",
-     "texto": "Crystal Palace o empate",
-     "cuota": 1.5,
-     "prob": 0.38
+     "sel": "1557467|Total - Away|Over 0.5",
+     "texto": "Sunderland marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    },
+    {
+     "sel": "1557467|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Aston Villa–Sunderland",
+     "cuota": 1.7,
+     "prob": 0.41
     }
    ]
   },
@@ -631,26 +630,6 @@
    ]
   },
   {
-   "partido_id": 1575228,
-   "fecha": "2026-11-21T18:30",
-   "local": "FC Schalke 04",
-   "visitante": "VfB Stuttgart",
-   "liga": "Bundesliga",
-   "datos": [
-    "El FC Schalke 04 no ha ganado en casa en sus últimos 4 partidos.",
-    "El VfB Stuttgart va 8º y el FC Schalke 04 17º en la liga.",
-    "El FC Schalke 04 no ha ganado ninguno de sus últimos 5."
-   ],
-   "picks": [
-    {
-     "sel": "1575228|Match Winner|Away",
-     "texto": "Gana el VfB Stuttgart",
-     "cuota": 1.75,
-     "prob": 0.51
-    }
-   ]
-  },
-  {
    "partido_id": 1570462,
    "fecha": "2026-11-21T18:30",
    "local": "Sevilla",
@@ -710,6 +689,26 @@
    ]
   },
   {
+   "partido_id": 1575228,
+   "fecha": "2026-11-21T18:30",
+   "local": "FC Schalke 04",
+   "visitante": "VfB Stuttgart",
+   "liga": "Bundesliga",
+   "datos": [
+    "El FC Schalke 04 no ha ganado en casa en sus últimos 4 partidos.",
+    "El VfB Stuttgart va 8º y el FC Schalke 04 17º en la liga.",
+    "El FC Schalke 04 no ha ganado ninguno de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1575228|Match Winner|Away",
+     "texto": "Gana el VfB Stuttgart",
+     "cuota": 1.75,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
    "partido_id": 1552226,
    "fecha": "2026-11-21T18:45",
    "local": "Feyenoord",
@@ -740,6 +739,210 @@
      "prob": 0.48
     }
    ]
+  },
+  {
+   "partido_id": 1552820,
+   "fecha": "2026-11-21T20:45",
+   "local": "Lille",
+   "visitante": "Lyon",
+   "liga": "Ligue 1",
+   "datos": [
+    "El Lyon solo ha ganado 1 de sus últimos 5.",
+    "Los partidos del Lille llevan 2,2 goles de media (últimos 8).",
+    "Los partidos del Lyon llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552820|Double Chance|Home/Draw",
+     "texto": "Lille o empate",
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
+     "sel": "1552820|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Lille–Lyon",
+     "cuota": 1.7,
+     "prob": 0.43
+    }
+   ]
+  },
+  {
+   "partido_id": 1552819,
+   "fecha": "2026-11-21T20:45",
+   "local": "Lens",
+   "visitante": "Toulouse",
+   "liga": "Ligue 1",
+   "datos": [
+    "Los partidos del Lens llevan 3,6 goles de media (últimos 8).",
+    "Los partidos del Toulouse llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552819|Total - Home|Over 1.5",
+     "texto": "Lens marca 2 o más",
+     "cuota": 1.62,
+     "prob": 0.57
+    },
+    {
+     "sel": "1552819|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Lens–Toulouse",
+     "cuota": 1.8,
+     "prob": 0.53
+    },
+    {
+     "sel": "1552819|Away Player Shots|Casper Tengstedt - 2",
+     "texto": "Casper Tengstedt: 2+ tiros",
+     "cuota": 1.4,
+     "prob": 0.52
+    },
+    {
+     "sel": "1552819|Total - Away|Over 0.5",
+     "texto": "Toulouse marca",
+     "cuota": 1.4,
+     "prob": 0.51
+    },
+    {
+     "sel": "1552819|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Lens–Toulouse",
+     "cuota": 1.62,
+     "prob": 0.44
+    }
+   ]
+  },
+  {
+   "partido_id": 1552823,
+   "fecha": "2026-11-21T20:45",
+   "local": "Monaco",
+   "visitante": "Auxerre",
+   "liga": "Ligue 1",
+   "datos": [
+    "El Monaco no ha perdido en casa en sus últimos 6 partidos (4V 2E).",
+    "El Monaco va 7º y el Auxerre 14º en la liga.",
+    "El Auxerre solo ha ganado 1 de sus últimos 5.",
+    "Los partidos del Monaco llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Auxerre llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552823|Match Winner|Home",
+     "texto": "Gana el Monaco",
+     "cuota": 1.4,
+     "prob": 0.67
+    },
+    {
+     "sel": "1552823|Total - Home|Over 1.5",
+     "texto": "Monaco marca 2 o más",
+     "cuota": 1.4,
+     "prob": 0.57
+    },
+    {
+     "sel": "1552823|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Monaco–Auxerre",
+     "cuota": 1.73,
+     "prob": 0.52
+    },
+    {
+     "sel": "1552823|Total - Away|Over 0.5",
+     "texto": "Auxerre marca",
+     "cuota": 1.53,
+     "prob": 0.48
+    },
+    {
+     "sel": "1552823|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Monaco–Auxerre",
+     "cuota": 1.7,
+     "prob": 0.43
+    }
+   ]
+  },
+  {
+   "partido_id": 1552826,
+   "fecha": "2026-11-21T20:45",
+   "local": "Strasbourg",
+   "visitante": "Stade Brestois 29",
+   "liga": "Ligue 1",
+   "datos": [
+    "Los partidos del Strasbourg llevan 4,1 goles de media (últimos 8).",
+    "Los partidos del Stade Brestois 29 llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552826|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
+     "cuota": 1.8,
+     "prob": 0.55
+    },
+    {
+     "sel": "1552826|Double Chance|Home/Draw",
+     "texto": "Strasbourg o empate",
+     "cuota": 1.4,
+     "prob": 0.49
+    },
+    {
+     "sel": "1552826|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Strasbourg–Stade Brestois 29",
+     "cuota": 1.53,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1550204,
+   "fecha": "2026-11-21T20:45",
+   "local": "Napoli",
+   "visitante": "Torino",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Napoli llevan 4,0 goles de media (últimos 8).",
+    "Los partidos del Torino llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1550204|Home Player Shots On Target Total|Noa Lang - 1",
+     "texto": "Noa Lang: 1+ tiros a puerta",
+     "cuota": 1.36,
+     "prob": 0.56
+    },
+    {
+     "sel": "1550204|Home Player Shots On Target Total|Scott McTominay - 1",
+     "texto": "Scott McTominay: 1+ tiros a puerta",
+     "cuota": 1.36,
+     "prob": 0.55
+    },
+    {
+     "sel": "1550204|Total - Away|Over 0.5",
+     "texto": "Torino marca",
+     "cuota": 1.62,
+     "prob": 0.47
+    },
+    {
+     "sel": "1550204|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Napoli–Torino",
+     "cuota": 1.8,
+     "prob": 0.41
+    }
+   ]
+  },
+  {
+   "partido_id": 1570461,
+   "fecha": "2026-11-21T21:00",
+   "local": "Real Madrid",
+   "visitante": "Celta Vigo",
+   "liga": "LaLiga",
+   "datos": [
+    "El Real Madrid va 2º y el Celta Vigo 12º en la liga.",
+    "Los partidos del Real Madrid llevan 4,0 goles de media (últimos 8).",
+    "Los partidos del Celta Vigo llevan 2,5 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570461|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Real Madrid–Celta Vigo",
+     "cuota": 1.62,
+     "prob": 0.53
+    }
+   ]
   }
- ]
+ ],
+ "2026-11-18": []
 }

@@ -1,7 +1,7 @@
 # SV Elversberg – SC Freiburg
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Actualizadas: 13/11 20:00_
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | F. Müller | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,29 · visitante 1,91 · córners esperados 9,7._
+_Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -192,8 +192,8 @@ _Goles esperados: local 1,29 · visitante 1,91 · córners esperados 9,7._
 | Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
 | Goles más/menos: Más de 2.5 | 62% | 64% | 63% | 1.50 | -6% |
 | Goles más/menos: Más de 3.5 | 40% | 43% | 41% | 2.20 | -9% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -8% |
-| Goles más/menos: Menos de 2.5 | 38% | 36% | 37% | 2.62 | -3% |
+| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
+| Goles más/menos: Menos de 2.5 | 38% | 36% | 37% | 2.62 | -2% |
 | Goles más/menos: Menos de 3.5 | 60% | 57% | 59% | 1.67 | -2% |
 | Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
@@ -205,9 +205,9 @@ _Goles esperados: local 1,29 · visitante 1,91 · córners esperados 9,7._
 | Goles del local: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
 | Goles del local: Menos de 1.5 | 63% | 58% | 60% | 1.62 | -2% |
 | Goles del visitante: Más de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
-| Goles del visitante: Más de 2.5 | 30% | 29% | 30% | 3.25 | -4% |
+| Goles del visitante: Más de 2.5 | 30% | 29% | 29% | 3.25 | -4% |
 | Goles del visitante: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
-| Goles del visitante: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -6% |
+| Goles del visitante: Menos de 2.5 | 70% | 71% | 71% | 1.33 | -6% |
 | 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -6% |
 | 1X2 descanso: 1 | 23% | 26% | 24% | 3.60 | -12% |

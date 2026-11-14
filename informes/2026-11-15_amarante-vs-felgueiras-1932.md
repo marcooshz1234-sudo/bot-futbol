@@ -1,10 +1,10 @@
 # Amarante – Felgueiras 1932
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Municipal de Amarante
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 19:59_
+_Actualizadas: 14/11 02:07_
 
 - **1X2:** 1 **2.40**  ·  X **3.00**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.50**
@@ -165,11 +165,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 63% | 62% | 63% | 1.50 | -6% |
 | Doble oportunidad: 12 | 72% | 70% | 71% | 1.33 | -6% |
 | Doble oportunidad: 1X | 65% | 68% | 66% | 1.36 | -10% |
-| Ambos marcan: No | 52% | 54% | 53% | 1.73 | -9% |
+| Ambos marcan: No | 52% | 54% | 53% | 1.73 | -8% |
 | Ambos marcan: Sí | 48% | 46% | 47% | 2.00 | -6% |
 | Goles más/menos: Más de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles más/menos: Más de 2.5 | 42% | 39% | 40% | 2.40 | -3% |
-| Goles más/menos: Más de 3.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles más/menos: Más de 3.5 | 21% | 21% | 21% | 4.50 | -6% |
 | Goles más/menos: Menos de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
 | Goles más/menos: Menos de 2.5 | 58% | 61% | 60% | 1.53 | -9% |
 | Goles más/menos: Menos de 3.5 | 79% | 79% | 79% | 1.18 | -7% |
@@ -177,9 +177,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 27% | 27% | 3.50 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 36% | 38% | 37% | 2.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 73% | 73% | 1.28 | -7% |
-| Goles del local: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
+| Goles del local: Más de 0.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Goles del local: Más de 1.5 | 33% | 34% | 34% | 2.75 | -8% |
-| Goles del local: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles del local: Menos de 0.5 | 31% | 34% | 32% | 2.75 | -12% |
 | Goles del local: Menos de 1.5 | 67% | 66% | 66% | 1.40 | -7% |
 | Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 33% | 29% | 31% | 3.25 | +0% |

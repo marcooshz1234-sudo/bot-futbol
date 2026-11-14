@@ -1,7 +1,7 @@
 # Southampton – Derby
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 13/11 20:01._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 02:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | L. Salvesen | F | 14 | 290 | 2 | 0 | 12 | 0,9 | 6 | 0,4 | 10 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,38 · visitante 0,82 · córners esperados 9,8._
+_Goles esperados: local 2,37 · visitante 0,82 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

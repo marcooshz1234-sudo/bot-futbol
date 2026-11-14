@@ -269,5 +269,97 @@
  "Arzignano|Italy": [
   45.52027,
   11.33446
+ ],
+ "Cittadella|Italy": [
+  45.64523,
+  11.78453
+ ],
+ "Riga|World": [
+  56.946,
+  24.10589
+ ],
+ "Novara|Italy": [
+  45.44694,
+  8.62118
+ ],
+ "Osijek|World": [
+  45.55066,
+  18.6942
+ ],
+ "Alessandria|Italy": [
+  44.90924,
+  8.61007
+ ],
+ "Crema|Italy": [
+  45.36264,
+  9.68176
+ ],
+ "Sevilla|Spain": [
+  37.38283,
+  -5.97317
+ ],
+ "Tondela|Portugal": [
+  40.51682,
+  -8.08087
+ ],
+ "Lyon|World": [
+  45.74906,
+  4.84789
+ ],
+ "Amarante|Portugal": [
+  41.27271,
+  -8.08245
+ ],
+ "Brussels|World": [
+  50.85045,
+  4.34878
+ ],
+ "Santa Cruz de Tenerife|Spain": [
+  28.46824,
+  -16.25462
+ ],
+ "Eibar|Spain": [
+  43.18493,
+  -2.47158
+ ],
+ "Portimão|Portugal": [
+  37.13856,
+  -8.53775
+ ],
+ "Fuenlabrada|Spain": [
+  40.28419,
+  -3.79415
+ ],
+ "Budapest|World": [
+  47.49835,
+  19.04045
+ ],
+ "Lasarte-Oria|Spain": [
+  43.26774,
+  -2.02169
+ ],
+ "Limassol|World": [
+  34.68406,
+  33.03794
+ ],
+ "Matosinhos|Portugal": [
+  41.18207,
+  -8.68908
+ ],
+ "Helsinki|World": [
+  60.16952,
+  24.93545
+ ],
+ "Penafiel|Portugal": [
+  41.20835,
+  -8.28285
+ ],
+ "Alicante|Spain": [
+  38.34517,
+  -0.48149
+ ],
+ "Granada|Spain": [
+  37.18817,
+  -3.60667
  ]
 }
