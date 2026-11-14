@@ -1906,8 +1906,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 1,
-      "pendiente": 8,
-      "sin_datos": 0,
+      "pendiente": 5,
+      "sin_datos": 3,
       "no_jugo": 0,
       "sin_resolver": 8
     },
@@ -1915,7 +1915,7 @@
       {
         "id": "2026-11-14-ganadores-nations",
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1927,7 +1927,7 @@
       {
         "id": "2026-11-14-escalera",
         "titulo": "🪜 Reto escalera · Día 1/7",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1945,7 +1945,7 @@
       {
         "id": "2026-11-14-combi-tres",
         "titulo": "Vamos con la combi del sábado familia 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1972,6 +1972,6 @@
       "rojo": 1,
       "total": 20
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 1 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Vamos con otro pick 🍀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ Vamos con la combi del sábado familia 🔥 · pendiente\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 1 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n⏳ Vamos con otro pick 🍀 · pendiente\n❔ 🪜 Reto escalera · Día 1/7 · faltan datos\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n❔ Vamos con la combi del sábado familia 🔥 · faltan datos\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n⏳ Esta es de las que nos gustan: cuota para la noche 🔥 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 8 sin resolver"
   }
 }
