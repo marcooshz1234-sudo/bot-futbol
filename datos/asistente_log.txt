@@ -218,3 +218,4 @@
 2026-11-14 03:34:38 botón ap|7cc66e811d → ok
 2026-11-14 07:44:00 arranca el bot del móvil
 2026-11-14 13:33:31 arranca el bot del móvil
+2026-11-14 19:29:03 arranca el bot del móvil
