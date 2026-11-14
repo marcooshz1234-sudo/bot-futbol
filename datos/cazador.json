@@ -35,18 +35,7 @@
    "justa": 1.72,
    "ev": 0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Mallorca",
-   "visitante": "Cordoba",
-   "inicio": "2026-11-14T18:30",
-   "texto": "Cordoba o empate",
-   "cuota": 1.95,
-   "justa": 1.94,
-   "ev": 0.006,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Real Madrid W",
@@ -57,18 +46,7 @@
    "justa": 1.67,
    "ev": 0.003,
    "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Almeria",
-   "visitante": "FC Andorra",
-   "inicio": "2026-11-14T18:30",
-   "texto": "Gana el Almeria",
-   "cuota": 1.8,
-   "justa": 1.8,
-   "ev": 0.002,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Romania",
@@ -79,7 +57,7 @@
    "justa": 1.81,
    "ev": -0.003,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Real Madrid W",
@@ -90,11 +68,22 @@
    "justa": 2.23,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
+  },
+  {
+   "local": "Sweden",
+   "visitante": "Bosnia & Herzegovina",
+   "inicio": "2026-11-14T20:45",
+   "texto": "Bosnia & Herzegovina marca",
+   "cuota": 1.67,
+   "justa": 1.7,
+   "ev": -0.02,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T17:56",
+  "hora": "2026-11-14T18:25",
   "revisadas": 0,
   "mejor": null
  },
