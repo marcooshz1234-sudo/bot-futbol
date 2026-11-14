@@ -6245,6 +6245,13 @@
     "foto": null,
     "origen": "claude",
     "directo": true,
-    "resultado": "rojo"
+    "resultado": "rojo",
+    "enviado": "2026-11-14T19:38",
+    "mensaje_id": 467,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18133212931836911",
+      "instagram": "18444135469199842"
+    }
   }
 ]
