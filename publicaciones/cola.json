@@ -6215,7 +6215,9 @@
     "agrupado_en": "2026-11-14-verde-grupo-1932",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "caducada": "quitada",
+    "nota": "14/11 19:36: el mismo verde (Almería) ya sale en verde-auto-…-pick-tip-1; quitado a petición de Marcos"
   },
   {
     "id": "2026-11-14-verde-grupo-1932",
@@ -6232,6 +6234,8 @@
     "solo_en": [
       "telegram",
       "instagram"
-    ]
+    ],
+    "caducada": "quitada",
+    "nota": "14/11 19:36: el mismo verde (Almería) ya sale en verde-auto-…-pick-tip-1; quitado a petición de Marcos"
   }
 ]
