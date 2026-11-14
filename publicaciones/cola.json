@@ -6295,7 +6295,9 @@
       "fuente": "las otras casas",
       "edad_h": 1.0,
       "texto": "Las Palmas o empate"
-    }
+    },
+    "caducada": true,
+    "nota": " · caducada sola: 60 min sin aprobar"
   },
   {
     "id": "2026-11-14-verde-auto-2026-11-14-pick-seguro-2",

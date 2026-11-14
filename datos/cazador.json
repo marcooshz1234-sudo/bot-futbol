@@ -41,7 +41,7 @@
    "justa": 1.74,
    "ev": 0.121,
    "fuente": "las otras casas",
-   "edad_h": 1.7
+   "edad_h": 2.2
   },
   {
    "local": "Real Sociedad W",
@@ -52,7 +52,7 @@
    "justa": 1.81,
    "ev": 0.053,
    "fuente": "las otras casas",
-   "edad_h": 1.7
+   "edad_h": 2.2
   },
   {
    "local": "Granada CF",
@@ -63,7 +63,7 @@
    "justa": 1.43,
    "ev": 0.05,
    "fuente": "las otras casas",
-   "edad_h": 1.7
+   "edad_h": 2.2
   },
   {
    "local": "Deportivo de La Coruña W",
@@ -74,7 +74,7 @@
    "justa": 2.22,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 1.7
+   "edad_h": 2.2
   },
   {
    "local": "Juventus U23",
@@ -85,7 +85,7 @@
    "justa": 1.42,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 1.7
+   "edad_h": 2.2
   },
   {
    "local": "Juventus U23",
@@ -96,11 +96,11 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 1.7
+   "edad_h": 2.2
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T21:31",
+  "hora": "2026-11-14T22:01",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1570018,
@@ -114,7 +114,7 @@
    "justa": 1.74,
    "ev": 0.121,
    "fuente": "las otras casas",
-   "edad_h": 1.7,
+   "edad_h": 2.2,
    "texto": "Las Palmas o empate"
   }
  },
