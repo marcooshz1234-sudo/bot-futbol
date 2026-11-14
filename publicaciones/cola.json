@@ -6197,9 +6197,9 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-14-pick-tip-1",
-    "agrupado_en": "2026-11-14-verde-grupo-1932",
     "solo_en": [
-      "threads"
+      "telegram",
+      "instagram"
     ],
     "redes": {
       "instagram": null,
@@ -6208,7 +6208,8 @@
       "facebook": null,
       "threads": "18213152236320826",
       "threads_enlace": "18042438116841786"
-    }
+    },
+    "nota": "14/11: el grupo «2 VERDES» se quitó (mismo pick dos veces); este sale suelto en TG e IG (Threads ya salió)"
   },
   {
     "id": "2026-11-14-verde-auto-2026-11-14-pick-tip-3",
