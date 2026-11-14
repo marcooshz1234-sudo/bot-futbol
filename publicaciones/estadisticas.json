@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 21:30",
+ "actualizado": "2026-11-14 21:38",
  "redes": {
   "instagram": {
    "seguidores": 40,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 404,
-   "hoy": 3,
+   "seguidores": 405,
+   "hoy": 4,
    "serie": [
     331,
     360,
@@ -50,17 +50,17 @@
     384,
     391,
     401,
-    404
+    405
    ]
   }
  },
- "total": 3218,
- "total_hoy": 38,
+ "total": 3219,
+ "total_hoy": 39,
  "likes_hoy": 2,
  "proximo": {
-  "hora": "21:34",
-  "dia": "2026-11-14",
-  "titulo": "Para dentro señores"
+  "hora": "00:00",
+  "dia": "2026-11-15",
+  "titulo": "Nations league - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -203,17 +203,17 @@
    "instagram": 40,
    "threads": 2773,
    "facebook": 1,
-   "telegram": 404
+   "telegram": 405
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 45,
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
