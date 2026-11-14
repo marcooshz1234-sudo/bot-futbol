@@ -48,7 +48,9 @@
   "foto-2026-11-13-combi-noche-1": "2026-11-13T16:51",
   "prensa-1528971-f5ca567f": "2026-11-13T20:06",
   "redes-2026-11-13-pick-tip-7-instagram": "2026-11-13T20:42",
-  "prensa-1528975-dae3b486": "2026-11-14T00:03"
+  "prensa-1528975-dae3b486": "2026-11-14T00:03",
+  "prensa-1528983-52bfcd64": "2026-11-14T01:00",
+  "prensa-1528982-98dd9513": "2026-11-14T01:00"
  },
  "abiertos": [
   {
@@ -58,10 +60,26 @@
   {
    "clave": "prensa-1528977-8cd0cd8a",
    "t": "📰 Rumanía–Polonia: «Frankowski es baja y Polonia llama a Pyrka para el cierre» (KarloBag.eu) · tenemos 1 post(s) de este partido: combi-multi"
+  },
+  {
+   "clave": "prensa-1528983-52bfcd64",
+   "t": "📰 Bélgica–Italia: «Frattesi deja la concentración de Italia y será baja ante Bélgica» (Diario del Cauca) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "clave": "prensa-1528982-98dd9513",
+   "t": "📰 Francia–Turquía: «Francia suma otra baja: Upamecano abandona la concentración por motivos personales» (Studiofutbol) · tenemos 1 post(s) de este partido: ganadores-nations"
   }
  ],
- "revisado": "2026-11-14T00:50",
+ "revisado": "2026-11-14T01:00",
  "historial": [
+  {
+   "hora": "2026-11-14T01:00",
+   "t": "📰 Bélgica–Italia: «Frattesi deja la concentración de Italia y será baja ante Bélgica» (Diario del Cauca) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
+  {
+   "hora": "2026-11-14T01:00",
+   "t": "📰 Francia–Turquía: «Francia suma otra baja: Upamecano abandona la concentración por motivos personales» (Studiofutbol) · tenemos 1 post(s) de este partido: ganadores-nations"
+  },
   {
    "hora": "2026-11-14T00:03",
    "t": "📰 Irlanda del Norte–Ucrania: «La UE descarta un negociador único para Ucrania pese a la presión para hablar con una sola voz» (Diario de Noticias de Álava) · tenemos 2 post(s) de este partido: combi-multi, combi-loca"
