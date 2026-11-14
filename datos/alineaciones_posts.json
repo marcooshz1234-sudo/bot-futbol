@@ -243,6 +243,10 @@
   "clave|2026-11-13-ganadores-nations|1528967|Match Winner|Home|Stanislav Lobotka",
   "clave|2026-11-13-ganadores-nations|1528967|Match Winner|Home|Tomáš Suslov",
   "clave|2026-11-14-boleto-personal-2|1528973|Total - Home|Over 0.5|Khvicha Kvaratskhelia",
+  "clave|2026-11-14-boleto-personal-2|1528976|Match Winner|Home|Patrick Wimmer",
+  "clave|2026-11-14-boleto-personal|1528977|To Win Either Half|Away|P. Zieliński",
+  "clave|2026-11-14-ganadores-nations|1528976|Match Winner|Home|Patrick Wimmer",
+  "clave|2026-11-14-ganadores-nations|1528977|Match Winner|Away|P. Zieliński",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -259,1028 +263,6 @@
   "mis|2026-11-05-marcos-crear-goles-120|1636250|Home Player Shots On Target Total|Camilo Duran - 1"
  ],
  "alineaciones": {
-  "1528962": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "J. Pickford",
-    "T. Alexander-Arnold",
-    "J. Quansah",
-    "D. Burn",
-    "L. Hall",
-    "E. Anderson",
-    "D. Rice",
-    "M. Rogers",
-    "J. Bellingham",
-    "A. Gordon",
-    "H. Kane",
-    "D. Livaković",
-    "I. Smolčić",
-    "L. Vušković",
-    "J. Stanišić",
-    "J. Gvardiol",
-    "J. Mišić",
-    "M. Kovačić",
-    "N. Vlašić",
-    "P. Sučić",
-    "M. Baturina",
-    "I. Matanović"
-   ],
-   "banquillo": [
-    "J. Trafford",
-    "B. White",
-    "J. Branthwaite",
-    "D. Calvert-Lewin",
-    "E. Eze",
-    "J. Garner",
-    "M. Gibbs-White",
-    "J. Hill",
-    "Joshua King",
-    "R. Ngumoha",
-    "J. Steele",
-    "J. Bellingham",
-    "A. Budimir",
-    "D. Ćaleta-Car",
-    "N. Galešić",
-    "Š. Hrgović",
-    "D. Kotarski",
-    "L. Majer",
-    "L. Modrić",
-    "I. Pandur",
-    "Mario Pasalic",
-    "D. Beljo",
-    "M. Šotiček",
-    "Marco Pasalic"
-   ],
-   "equipos": {
-    "10": [
-     {
-      "n": "J. Pickford",
-      "pos": "G"
-     },
-     {
-      "n": "T. Alexander-Arnold",
-      "pos": "D"
-     },
-     {
-      "n": "J. Quansah",
-      "pos": "D"
-     },
-     {
-      "n": "D. Burn",
-      "pos": "D"
-     },
-     {
-      "n": "L. Hall",
-      "pos": "D"
-     },
-     {
-      "n": "E. Anderson",
-      "pos": "M"
-     },
-     {
-      "n": "D. Rice",
-      "pos": "M"
-     },
-     {
-      "n": "M. Rogers",
-      "pos": "M"
-     },
-     {
-      "n": "J. Bellingham",
-      "pos": "M"
-     },
-     {
-      "n": "A. Gordon",
-      "pos": "M"
-     },
-     {
-      "n": "H. Kane",
-      "pos": "F"
-     }
-    ],
-    "3": [
-     {
-      "n": "D. Livaković",
-      "pos": "G"
-     },
-     {
-      "n": "I. Smolčić",
-      "pos": "D"
-     },
-     {
-      "n": "L. Vušković",
-      "pos": "D"
-     },
-     {
-      "n": "J. Stanišić",
-      "pos": "D"
-     },
-     {
-      "n": "J. Gvardiol",
-      "pos": "D"
-     },
-     {
-      "n": "J. Mišić",
-      "pos": "M"
-     },
-     {
-      "n": "M. Kovačić",
-      "pos": "M"
-     },
-     {
-      "n": "N. Vlašić",
-      "pos": "M"
-     },
-     {
-      "n": "P. Sučić",
-      "pos": "M"
-     },
-     {
-      "n": "M. Baturina",
-      "pos": "M"
-     },
-     {
-      "n": "I. Matanović",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1528964": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "E. Colombo",
-    "G. Benvenuti",
-    "M. Pasolini",
-    "F. Fabbri",
-    "S. Giocondi",
-    "Balda Enea Della",
-    "L. Capicchioni",
-    "S. Zannoni",
-    "L. Lazzari",
-    "G. Capicchioni",
-    "N. Nanni",
-    "F. Lapoukhov",
-    "V. Kalinin",
-    "Z. Volkov",
-    "K. Gomanov",
-    "K. Pechenin",
-    "A. Selyava",
-    "V. Bocherov",
-    "A. Kontsevoy",
-    "M. Ebong",
-    "T. Simanenka",
-    "V. Gromyko"
-   ],
-   "banquillo": [
-    "D. Rossi",
-    "S. Pancotti",
-    "M. Mularoni",
-    "P. Amici",
-    "Andrea Contadini",
-    "M. De Angelis",
-    "A. Golinucci",
-    "T. Benvenuti",
-    "Fausto Marino Salicioni Ortiz",
-    "C. Meloni",
-    "P. Marinucci",
-    "A. Tosi",
-    "A. Kudravets",
-    "K. Zinovich",
-    "A. Lukashov",
-    "T. Melnichenko",
-    "V. Morozov",
-    "P. Pavlyuchenko",
-    "G. Shevchenko",
-    "A. Svirepa",
-    "I. Tikhomirov",
-    "K. Vardanyan",
-    "A. Kovalev",
-    "R. Begunov"
-   ],
-   "equipos": {
-    "1115": [
-     {
-      "n": "E. Colombo",
-      "pos": "G"
-     },
-     {
-      "n": "G. Benvenuti",
-      "pos": "D"
-     },
-     {
-      "n": "M. Pasolini",
-      "pos": "D"
-     },
-     {
-      "n": "F. Fabbri",
-      "pos": "D"
-     },
-     {
-      "n": "S. Giocondi",
-      "pos": "D"
-     },
-     {
-      "n": "Balda Enea Della",
-      "pos": "M"
-     },
-     {
-      "n": "L. Capicchioni",
-      "pos": "M"
-     },
-     {
-      "n": "S. Zannoni",
-      "pos": "M"
-     },
-     {
-      "n": "L. Lazzari",
-      "pos": "M"
-     },
-     {
-      "n": "G. Capicchioni",
-      "pos": "F"
-     },
-     {
-      "n": "N. Nanni",
-      "pos": "F"
-     }
-    ],
-    "1100": [
-     {
-      "n": "F. Lapoukhov",
-      "pos": "G"
-     },
-     {
-      "n": "V. Kalinin",
-      "pos": "D"
-     },
-     {
-      "n": "Z. Volkov",
-      "pos": "D"
-     },
-     {
-      "n": "K. Gomanov",
-      "pos": "D"
-     },
-     {
-      "n": "K. Pechenin",
-      "pos": "D"
-     },
-     {
-      "n": "A. Selyava",
-      "pos": "M"
-     },
-     {
-      "n": "V. Bocherov",
-      "pos": "M"
-     },
-     {
-      "n": "A. Kontsevoy",
-      "pos": "M"
-     },
-     {
-      "n": "M. Ebong",
-      "pos": "M"
-     },
-     {
-      "n": "T. Simanenka",
-      "pos": "M"
-     },
-     {
-      "n": "V. Gromyko",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1545613": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "B. Popović",
-    "M. Roganović",
-    "S. Savić",
-    "I. Vujačić",
-    "O. Gašević",
-    "Vasilije Adžić",
-    "A. Bulatović",
-    "M. Janković",
-    "S. Hakšabanović",
-    "M. Osmajić",
-    "N. Krstović",
-    "R. Matrevics",
-    "R. Jurkovskis",
-    "D. Meļņiks",
-    "A. Černomordijs",
-    "O. Vientiess",
-    "D. Cirkin",
-    "E. Dašķevičs",
-    "L. Vapne",
-    "D. Zelenkovs",
-    "A. Cigaņiks",
-    "R. Uldriķis"
-   ],
-   "banquillo": [
-    "M. Brnović",
-    "D. Vuković",
-    "M. Vukotić",
-    "M. Vešović",
-    "S. Rubežić",
-    "R. Radunović",
-    "D. Petković",
-    "A. Đurić",
-    "S. Jovetić",
-    "A. Latković",
-    "I. Nikić",
-    "Aleksa Maraš",
-    "R. Savaļnieks",
-    "D. Balodis",
-    "E. Emsis",
-    "K. Grabovskis",
-    "V. Gutkovskis",
-    "J. Ikaunieks",
-    "F. Orols",
-    "D. Patijčuks",
-    "N. Puriņš",
-    "K. Čudars",
-    "A. Aleksanjan"
-   ],
-   "equipos": {
-    "1109": [
-     {
-      "n": "B. Popović",
-      "pos": "G"
-     },
-     {
-      "n": "M. Roganović",
-      "pos": "D"
-     },
-     {
-      "n": "S. Savić",
-      "pos": "D"
-     },
-     {
-      "n": "I. Vujačić",
-      "pos": "D"
-     },
-     {
-      "n": "O. Gašević",
-      "pos": "D"
-     },
-     {
-      "n": "Vasilije Adžić",
-      "pos": "M"
-     },
-     {
-      "n": "A. Bulatović",
-      "pos": "M"
-     },
-     {
-      "n": "M. Janković",
-      "pos": "M"
-     },
-     {
-      "n": "S. Hakšabanović",
-      "pos": "M"
-     },
-     {
-      "n": "M. Osmajić",
-      "pos": "F"
-     },
-     {
-      "n": "N. Krstović",
-      "pos": "F"
-     }
-    ],
-    "1092": [
-     {
-      "n": "R. Matrevics",
-      "pos": "G"
-     },
-     {
-      "n": "R. Jurkovskis",
-      "pos": "D"
-     },
-     {
-      "n": "D. Meļņiks",
-      "pos": "D"
-     },
-     {
-      "n": "A. Černomordijs",
-      "pos": "D"
-     },
-     {
-      "n": "O. Vientiess",
-      "pos": "D"
-     },
-     {
-      "n": "D. Cirkin",
-      "pos": "D"
-     },
-     {
-      "n": "E. Dašķevičs",
-      "pos": "M"
-     },
-     {
-      "n": "L. Vapne",
-      "pos": "M"
-     },
-     {
-      "n": "D. Zelenkovs",
-      "pos": "M"
-     },
-     {
-      "n": "A. Cigaņiks",
-      "pos": "M"
-     },
-     {
-      "n": "R. Uldriķis",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1528961": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "M. Kovář",
-    "V. Coufal",
-    "D. Zima",
-    "L. Krejčí",
-    "D. Jurásek",
-    "L. Červ",
-    "A. Král",
-    "L. Ambros",
-    "A. Hložek",
-    "L. Provod",
-    "R. Naderi",
-    "Unai Simón",
-    "Pedro Porro",
-    "Pau Cubarsí Paredes",
-    "D. Huijsen",
-    "Marc Cucurella",
-    "Martín Zubimendi",
-    "Fabián Ruiz",
-    "Yeremy Pino",
-    "Fermín",
-    "Álex Baena",
-    "Ferran Torres"
-   ],
-   "banquillo": [
-    "K. Daněk",
-    "T. Vlček",
-    "M. Šubert",
-    "T. Souček",
-    "J. Sláma",
-    "D. Kozel",
-    "A. Kinský",
-    "Š. Chaloupek",
-    "A. Gabriel",
-    "I. Hopi",
-    "L. Horníček",
-    "C. Kabongo",
-    "Marc Roca",
-    "Pablo Barrios",
-    "Jorge de Frutos",
-    "David Raya",
-    "Jacobo Ramón Naveros",
-    "Marc Pubill",
-    "Pedri",
-    "Víctor Muñoz",
-    "Mikel Merino",
-    "Álex Grimaldo",
-    "Joan García",
-    "Roberto Fernández"
-   ],
-   "equipos": {
-    "770": [
-     {
-      "n": "M. Kovář",
-      "pos": "G"
-     },
-     {
-      "n": "V. Coufal",
-      "pos": "D"
-     },
-     {
-      "n": "D. Zima",
-      "pos": "D"
-     },
-     {
-      "n": "L. Krejčí",
-      "pos": "D"
-     },
-     {
-      "n": "D. Jurásek",
-      "pos": "D"
-     },
-     {
-      "n": "L. Červ",
-      "pos": "M"
-     },
-     {
-      "n": "A. Král",
-      "pos": "M"
-     },
-     {
-      "n": "L. Ambros",
-      "pos": "M"
-     },
-     {
-      "n": "A. Hložek",
-      "pos": "M"
-     },
-     {
-      "n": "L. Provod",
-      "pos": "M"
-     },
-     {
-      "n": "R. Naderi",
-      "pos": "F"
-     }
-    ],
-    "9": [
-     {
-      "n": "Unai Simón",
-      "pos": "G"
-     },
-     {
-      "n": "Pedro Porro",
-      "pos": "D"
-     },
-     {
-      "n": "Pau Cubarsí Paredes",
-      "pos": "D"
-     },
-     {
-      "n": "D. Huijsen",
-      "pos": "D"
-     },
-     {
-      "n": "Marc Cucurella",
-      "pos": "D"
-     },
-     {
-      "n": "Martín Zubimendi",
-      "pos": "M"
-     },
-     {
-      "n": "Fabián Ruiz",
-      "pos": "M"
-     },
-     {
-      "n": "Yeremy Pino",
-      "pos": "M"
-     },
-     {
-      "n": "Fermín",
-      "pos": "M"
-     },
-     {
-      "n": "Álex Baena",
-      "pos": "M"
-     },
-     {
-      "n": "Ferran Torres",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1528960": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "G. Donnarumma",
-    "M. Kayode",
-    "G. Scalvini",
-    "A. Bastoni",
-    "R. Calafiori",
-    "D. Frattesi",
-    "S. Tonali",
-    "N. Barella",
-    "S. Esposito",
-    "F. Esposito",
-    "N. Cambiaghi",
-    "M. Maignan",
-    "M. Gusto",
-    "D. Upamecano",
-    "J. Jacquet",
-    "A. Truffert",
-    "R. Cherki",
-    "L. da Cunha",
-    "A. Rabiot",
-    "M. Olise",
-    "D. Doué",
-    "B. Barcola"
-   ],
-   "banquillo": [
-    "M. Carnesecchi",
-    "F. Dimarco",
-    "S. Ricci",
-    "A. Romano",
-    "M. Palestra",
-    "G. Scamacca",
-    "A. Vergara",
-    "L. Koleosho",
-    "D. Ghilardi",
-    "G. Vicario",
-    "N. Fagioli",
-    "I. Doumbia",
-    "A. Diouf",
-    "W. Zaïre-Emery",
-    "I. Konaté",
-    "E. Kroupi",
-    "S. Kumbedi",
-    "Senny Mayulu",
-    "G. Restes",
-    "R. Risser",
-    "L. Yoro",
-    "E. Camavinga",
-    "P. Pagis"
-   ],
-   "equipos": {
-    "768": [
-     {
-      "n": "G. Donnarumma",
-      "pos": "G"
-     },
-     {
-      "n": "M. Kayode",
-      "pos": "D"
-     },
-     {
-      "n": "G. Scalvini",
-      "pos": "D"
-     },
-     {
-      "n": "A. Bastoni",
-      "pos": "D"
-     },
-     {
-      "n": "R. Calafiori",
-      "pos": "D"
-     },
-     {
-      "n": "D. Frattesi",
-      "pos": "M"
-     },
-     {
-      "n": "S. Tonali",
-      "pos": "M"
-     },
-     {
-      "n": "N. Barella",
-      "pos": "M"
-     },
-     {
-      "n": "S. Esposito",
-      "pos": "F"
-     },
-     {
-      "n": "F. Esposito",
-      "pos": "F"
-     },
-     {
-      "n": "N. Cambiaghi",
-      "pos": "F"
-     }
-    ],
-    "2": [
-     {
-      "n": "M. Maignan",
-      "pos": "G"
-     },
-     {
-      "n": "M. Gusto",
-      "pos": "D"
-     },
-     {
-      "n": "D. Upamecano",
-      "pos": "D"
-     },
-     {
-      "n": "J. Jacquet",
-      "pos": "D"
-     },
-     {
-      "n": "A. Truffert",
-      "pos": "D"
-     },
-     {
-      "n": "R. Cherki",
-      "pos": "M"
-     },
-     {
-      "n": "L. da Cunha",
-      "pos": "M"
-     },
-     {
-      "n": "A. Rabiot",
-      "pos": "M"
-     },
-     {
-      "n": "M. Olise",
-      "pos": "F"
-     },
-     {
-      "n": "D. Doué",
-      "pos": "F"
-     },
-     {
-      "n": "B. Barcola",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1528963": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "E. Berisha",
-    "A. Ismajli",
-    "B. Djimsiti",
-    "M. Mitaj",
-    "E. Hysaj",
-    "Y. Ramadani",
-    "K. Asllani",
-    "S. Pilios",
-    "E. Muçi",
-    "Q. Laçi",
-    "R. Manaj",
-    "L. Hrádecký",
-    "T. Keskinen",
-    "A. Ståhl",
-    "M. Tenho",
-    "V. Koski",
-    "R. Mahuta",
-    "F. Jensen",
-    "A. Marhiev",
-    "L. Walta",
-    "B. Källman",
-    "O. Antman"
-   ],
-   "banquillo": [
-    "T. Seferi",
-    "N. Aliji",
-    "K. Cake",
-    "M. Dajsinani",
-    "M. Daku",
-    "L. Hasa",
-    "A. Hoxha",
-    "J. Shehu",
-    "A. Sherri",
-    "C. Shpendi",
-    "M. Uzuni",
-    "A. Ajeti",
-    "R. Ivanov",
-    "J. LÃ¤hteenmÃ¤ki",
-    "L. Hyryläinen",
-    "O. Valakari",
-    "S. Väänänen",
-    "A. Suhonen",
-    "N. Skyttä",
-    "V. Sinisalo",
-    "J. Pohjanpalo",
-    "T. Miettinen",
-    "D. Håkans",
-    "L. Bergström"
-   ],
-   "equipos": {
-    "778": [
-     {
-      "n": "E. Berisha",
-      "pos": "G"
-     },
-     {
-      "n": "A. Ismajli",
-      "pos": "D"
-     },
-     {
-      "n": "B. Djimsiti",
-      "pos": "D"
-     },
-     {
-      "n": "M. Mitaj",
-      "pos": "D"
-     },
-     {
-      "n": "E. Hysaj",
-      "pos": "M"
-     },
-     {
-      "n": "Y. Ramadani",
-      "pos": "M"
-     },
-     {
-      "n": "K. Asllani",
-      "pos": "M"
-     },
-     {
-      "n": "S. Pilios",
-      "pos": "M"
-     },
-     {
-      "n": "E. Muçi",
-      "pos": "M"
-     },
-     {
-      "n": "Q. Laçi",
-      "pos": "M"
-     },
-     {
-      "n": "R. Manaj",
-      "pos": "F"
-     }
-    ],
-    "1099": [
-     {
-      "n": "L. Hrádecký",
-      "pos": "G"
-     },
-     {
-      "n": "T. Keskinen",
-      "pos": "D"
-     },
-     {
-      "n": "A. Ståhl",
-      "pos": "D"
-     },
-     {
-      "n": "M. Tenho",
-      "pos": "D"
-     },
-     {
-      "n": "V. Koski",
-      "pos": "D"
-     },
-     {
-      "n": "R. Mahuta",
-      "pos": "D"
-     },
-     {
-      "n": "F. Jensen",
-      "pos": "M"
-     },
-     {
-      "n": "A. Marhiev",
-      "pos": "M"
-     },
-     {
-      "n": "L. Walta",
-      "pos": "M"
-     },
-     {
-      "n": "B. Källman",
-      "pos": "F"
-     },
-     {
-      "n": "O. Antman",
-      "pos": "F"
-     }
-    ]
-   }
-  },
-  "1638339": {
-   "hora": "2026-11-12T20:41:53.608327+01:00",
-   "xi": [
-    "L. Pauels",
-    "Catarina Amado",
-    "Diana Gomes",
-    "Oluwatosin Demehin",
-    "M. Bratberg Lund",
-    "C. Møller",
-    "Paula Domínguez Encinas",
-    "Andreia Norton",
-    "Nycole Raysla Silva Sobrinho",
-    "Frøya Dorsin",
-    "Lúcia Alves",
-    "J. Pal",
-    "C. Wenninger",
-    "K. Schiechtl",
-    "V. Kirchberger",
-    "Y. Weilharter",
-    "E. Pfattner",
-    "L. Cordes",
-    "T. Weiss",
-    "V. Hanshaw",
-    "P. Pfanner",
-    "V. Potzl"
-   ],
-   "banquillo": [
-    "Michaely Kyria Bihina",
-    "Ana Clara Campos Rocha Oliveira",
-    "Neide Guedes",
-    "A. Csiki",
-    "Ana Borges",
-    "C. Davidson",
-    "Inês Meninas",
-    "Flourish Chioma Sabastine",
-    "Shao Ziqin",
-    "Tinkara Testen",
-    "Carolina Tristão",
-    "Madalena Almeida Martins Loução",
-    "A. Sisic",
-    "C. Pucci",
-    "N. Pichler",
-    "L. Orkic",
-    "S. Jakobsen",
-    "E. Goetz",
-    "A. Glibo"
-   ],
-   "equipos": {
-    "15495": [
-     {
-      "n": "L. Pauels",
-      "pos": "G"
-     },
-     {
-      "n": "Catarina Amado",
-      "pos": "D"
-     },
-     {
-      "n": "Diana Gomes",
-      "pos": "D"
-     },
-     {
-      "n": "Oluwatosin Demehin",
-      "pos": "D"
-     },
-     {
-      "n": "M. Bratberg Lund",
-      "pos": "D"
-     },
-     {
-      "n": "C. Møller",
-      "pos": "M"
-     },
-     {
-      "n": "Paula Domínguez Encinas",
-      "pos": "M"
-     },
-     {
-      "n": "Andreia Norton",
-      "pos": "M"
-     },
-     {
-      "n": "Nycole Raysla Silva Sobrinho",
-      "pos": "F"
-     },
-     {
-      "n": "Frøya Dorsin",
-      "pos": "F"
-     },
-     {
-      "n": "Lúcia Alves",
-      "pos": "F"
-     }
-    ],
-    "17575": [
-     {
-      "n": "J. Pal",
-      "pos": "G"
-     },
-     {
-      "n": "C. Wenninger",
-      "pos": "D"
-     },
-     {
-      "n": "K. Schiechtl",
-      "pos": "D"
-     },
-     {
-      "n": "V. Kirchberger",
-      "pos": "D"
-     },
-     {
-      "n": "Y. Weilharter",
-      "pos": "M"
-     },
-     {
-      "n": "E. Pfattner",
-      "pos": "M"
-     },
-     {
-      "n": "L. Cordes",
-      "pos": "M"
-     },
-     {
-      "n": "T. Weiss",
-      "pos": "M"
-     },
-     {
-      "n": "V. Hanshaw",
-      "pos": "M"
-     },
-     {
-      "n": "P. Pfanner",
-      "pos": "F"
-     },
-     {
-      "n": "V. Potzl",
-      "pos": "F"
-     }
-    ]
-   }
-  },
   "1528968": {
    "hora": "2026-11-13T17:35:42.544957+01:00",
    "xi": [
@@ -3636,40 +2618,885 @@
    }
   },
   "1528976": {
-   "hora": "2026-11-14T19:49:22.886137+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T20:47:06.483847+01:00",
+   "xi": [
+    "A. Schlager",
+    "S. Posch",
+    "P. Lienhart",
+    "K. Danso",
+    "P. Mwene",
+    "K. Laimer",
+    "N. Seiwald",
+    "R. Schmid",
+    "C. Baumgartner",
+    "C. Lang",
+    "M. Gregoritsch",
+    "C. Kelleher",
+    "D. O&apos;Shea",
+    "N. Collins",
+    "L. Scales",
+    "J. Abankwah",
+    "J. Moylan",
+    "J. Molumby",
+    "F. Azaz",
+    "R. Manning",
+    "T. Parrott",
+    "A. Idah"
+   ],
+   "banquillo": [
+    "D. Affengruber",
+    "J. Adamu",
+    "F. Bacher",
+    "Y. Demir",
+    "R. Florucz",
+    "S. Horvath",
+    "L. Jungwirth",
+    "S. Kalajdzic",
+    "Y. Spalt",
+    "M. Svoboda",
+    "Luca Weinhandl",
+    "F. Wiegele",
+    "R. Vata",
+    "H. Vale",
+    "M. Travers",
+    "C. Ogbene",
+    "M. O’Leary",
+    "J. O&apos;Brien",
+    "B. Lawal",
+    "J. Knight",
+    "L. Kitching",
+    "J. Egan",
+    "T. Cannon",
+    "C. Coventry"
+   ],
+   "equipos": {
+    "775": [
+     {
+      "n": "A. Schlager",
+      "pos": "G"
+     },
+     {
+      "n": "S. Posch",
+      "pos": "D"
+     },
+     {
+      "n": "P. Lienhart",
+      "pos": "D"
+     },
+     {
+      "n": "K. Danso",
+      "pos": "D"
+     },
+     {
+      "n": "P. Mwene",
+      "pos": "D"
+     },
+     {
+      "n": "K. Laimer",
+      "pos": "M"
+     },
+     {
+      "n": "N. Seiwald",
+      "pos": "M"
+     },
+     {
+      "n": "R. Schmid",
+      "pos": "M"
+     },
+     {
+      "n": "C. Baumgartner",
+      "pos": "M"
+     },
+     {
+      "n": "C. Lang",
+      "pos": "M"
+     },
+     {
+      "n": "M. Gregoritsch",
+      "pos": "F"
+     }
+    ],
+    "776": [
+     {
+      "n": "C. Kelleher",
+      "pos": "G"
+     },
+     {
+      "n": "D. O&apos;Shea",
+      "pos": "D"
+     },
+     {
+      "n": "N. Collins",
+      "pos": "D"
+     },
+     {
+      "n": "L. Scales",
+      "pos": "D"
+     },
+     {
+      "n": "J. Abankwah",
+      "pos": "M"
+     },
+     {
+      "n": "J. Moylan",
+      "pos": "M"
+     },
+     {
+      "n": "J. Molumby",
+      "pos": "M"
+     },
+     {
+      "n": "F. Azaz",
+      "pos": "M"
+     },
+     {
+      "n": "R. Manning",
+      "pos": "M"
+     },
+     {
+      "n": "T. Parrott",
+      "pos": "F"
+     },
+     {
+      "n": "A. Idah",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1528977": {
-   "hora": "2026-11-14T19:49:22.886137+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T20:47:06.483847+01:00",
+   "xi": [
+    "O. Hindrich",
+    "A. Rațiu",
+    "A. Coubiș",
+    "R. Drăgușin",
+    "L. Eissat",
+    "A. Cicâldău",
+    "T. Băluță",
+    "V. Dragomir",
+    "I. Hagi",
+    "F. Coman",
+    "D. Man",
+    "B. Drągowski",
+    "M. Cash",
+    "K. Potulski",
+    "J. Kiwior",
+    "O. Kubiak",
+    "W. Nowak",
+    "S. Szymański",
+    "K. Świderski",
+    "M. Reguła",
+    "N. Zalewski",
+    "R. Lewandowski"
+   ],
+   "banquillo": [
+    "D. Bîrligea",
+    "N. Bancu",
+    "O. Moruțan",
+    "M. Ilie",
+    "V. Ghiță",
+    "M. Corbu",
+    "L. Popescu",
+    "V. Screciu",
+    "C. Cîrjan",
+    "I. Stoica",
+    "T. Strata",
+    "Ș. Târnovanu",
+    "T. Kędziora",
+    "M. Kochalski",
+    "B. Mazurek",
+    "K. Piątkowski",
+    "Ł. Poręba",
+    "T. Puchacz",
+    "A. Pyrka",
+    "M. Skóraś",
+    "K. UrbaÅski",
+    "M. Żukowski",
+    "S. Abramowicz",
+    "A. Benedyczak"
+   ],
+   "equipos": {
+    "774": [
+     {
+      "n": "O. Hindrich",
+      "pos": "G"
+     },
+     {
+      "n": "A. Rațiu",
+      "pos": "D"
+     },
+     {
+      "n": "A. Coubiș",
+      "pos": "D"
+     },
+     {
+      "n": "R. Drăgușin",
+      "pos": "D"
+     },
+     {
+      "n": "L. Eissat",
+      "pos": "D"
+     },
+     {
+      "n": "A. Cicâldău",
+      "pos": "M"
+     },
+     {
+      "n": "T. Băluță",
+      "pos": "M"
+     },
+     {
+      "n": "V. Dragomir",
+      "pos": "M"
+     },
+     {
+      "n": "I. Hagi",
+      "pos": "M"
+     },
+     {
+      "n": "F. Coman",
+      "pos": "F"
+     },
+     {
+      "n": "D. Man",
+      "pos": "F"
+     }
+    ],
+    "24": [
+     {
+      "n": "B. Drągowski",
+      "pos": "G"
+     },
+     {
+      "n": "M. Cash",
+      "pos": "D"
+     },
+     {
+      "n": "K. Potulski",
+      "pos": "D"
+     },
+     {
+      "n": "J. Kiwior",
+      "pos": "D"
+     },
+     {
+      "n": "O. Kubiak",
+      "pos": "D"
+     },
+     {
+      "n": "W. Nowak",
+      "pos": "M"
+     },
+     {
+      "n": "S. Szymański",
+      "pos": "M"
+     },
+     {
+      "n": "K. Świderski",
+      "pos": "M"
+     },
+     {
+      "n": "M. Reguła",
+      "pos": "M"
+     },
+     {
+      "n": "N. Zalewski",
+      "pos": "M"
+     },
+     {
+      "n": "R. Lewandowski",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1528974": {
-   "hora": "2026-11-14T19:49:22.886137+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T20:47:06.483847+01:00",
+   "xi": [
+    "Diogo Costa",
+    "Alberto Baio",
+    "Rúben Dias",
+    "Renato Veiga",
+    "Diogo Dalot",
+    "Rúben Neves",
+    "Vitinha",
+    "Pedro Neto",
+    "João Félix",
+    "Bruno Fernandes",
+    "Gonçalo Ramos",
+    "M. Hermansen",
+    "A. Bah",
+    "O. Provstgaard",
+    "J. Andersen",
+    "J. Mæhle",
+    "M. Hjulmand",
+    "P. Højbjerg",
+    "G. Isaksen",
+    "M. Damsgaard",
+    "M. Daramy",
+    "R. Højlund"
+   ],
+   "banquillo": [
+    "Rodrigo Mora",
+    "Carlos Forbs",
+    "Flávio Nazinho",
+    "João Neves",
+    "João Palhinha",
+    "Geovany Tcherno Quenda",
+    "António Silva",
+    "Bernardo Silva",
+    "Fábio Silva",
+    "Rui Silva",
+    "Samuel Soares",
+    "Trincão",
+    "A. Skov Olsen",
+    "W. Osula",
+    "R. Nicolaisen",
+    "V. Nelsson",
+    "J. Lindstrøm",
+    "R. Kristensen",
+    "A. Jungdal",
+    "F. Jörgensen",
+    "M. Jensen",
+    "Victor Mow Froholdt",
+    "V. Bak Jensen",
+    "M. Bidstrup"
+   ],
+   "equipos": {
+    "27": [
+     {
+      "n": "Diogo Costa",
+      "pos": "G"
+     },
+     {
+      "n": "Alberto Baio",
+      "pos": "D"
+     },
+     {
+      "n": "Rúben Dias",
+      "pos": "D"
+     },
+     {
+      "n": "Renato Veiga",
+      "pos": "D"
+     },
+     {
+      "n": "Diogo Dalot",
+      "pos": "D"
+     },
+     {
+      "n": "Rúben Neves",
+      "pos": "M"
+     },
+     {
+      "n": "Vitinha",
+      "pos": "M"
+     },
+     {
+      "n": "Pedro Neto",
+      "pos": "M"
+     },
+     {
+      "n": "João Félix",
+      "pos": "M"
+     },
+     {
+      "n": "Bruno Fernandes",
+      "pos": "M"
+     },
+     {
+      "n": "Gonçalo Ramos",
+      "pos": "F"
+     }
+    ],
+    "21": [
+     {
+      "n": "M. Hermansen",
+      "pos": "G"
+     },
+     {
+      "n": "A. Bah",
+      "pos": "D"
+     },
+     {
+      "n": "O. Provstgaard",
+      "pos": "D"
+     },
+     {
+      "n": "J. Andersen",
+      "pos": "D"
+     },
+     {
+      "n": "J. Mæhle",
+      "pos": "D"
+     },
+     {
+      "n": "M. Hjulmand",
+      "pos": "M"
+     },
+     {
+      "n": "P. Højbjerg",
+      "pos": "M"
+     },
+     {
+      "n": "G. Isaksen",
+      "pos": "M"
+     },
+     {
+      "n": "M. Damsgaard",
+      "pos": "M"
+     },
+     {
+      "n": "M. Daramy",
+      "pos": "M"
+     },
+     {
+      "n": "R. Højlund",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1528978": {
-   "hora": "2026-11-14T19:49:22.886137+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T20:47:06.483847+01:00",
+   "xi": [
+    "V. Johansson",
+    "D. Svensson",
+    "G. Lagerbielke",
+    "V. Lindelöf",
+    "G. Gudmundsson",
+    "A. Elanga",
+    "H. Larsson",
+    "Y. Ayari",
+    "S. Nanasi",
+    "V. Gyökeres",
+    "A. Isak",
+    "M. Zlomislić",
+    "S. Radeljić",
+    "N. Katić",
+    "S. Kolašinac",
+    "A. Dedić",
+    "A. Gigović",
+    "Kerim-Sam Alajbegović",
+    "E. Demirović",
+    "I. Bašić",
+    "H. Tabaković",
+    "E. Bajraktarevic"
+   ],
+   "banquillo": [
+    "F. Beijmo",
+    "J. Widell Zetterström",
+    "N. Törnqvist",
+    "E. Stroud",
+    "E. Smith",
+    "B. Nygren",
+    "A. Njie",
+    "G. Antwi",
+    "A. Bernhardsson",
+    "H. Ekdal",
+    "J. Karlström",
+    "D. Kulusevski",
+    "B. Tahirović",
+    "S. Baždar",
+    "D. Burnić",
+    "I. Šunjić",
+    "Z. Smajlović",
+    "N. Mujakić",
+    "A. Memić",
+    "A. Malic",
+    "Ermin Mahmić",
+    "M. Jurkas",
+    "S. Hamzić",
+    "M. Deket"
+   ],
+   "equipos": {
+    "5": [
+     {
+      "n": "V. Johansson",
+      "pos": "G"
+     },
+     {
+      "n": "D. Svensson",
+      "pos": "M"
+     },
+     {
+      "n": "G. Lagerbielke",
+      "pos": "D"
+     },
+     {
+      "n": "V. Lindelöf",
+      "pos": "D"
+     },
+     {
+      "n": "G. Gudmundsson",
+      "pos": "D"
+     },
+     {
+      "n": "A. Elanga",
+      "pos": "F"
+     },
+     {
+      "n": "H. Larsson",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Ayari",
+      "pos": "M"
+     },
+     {
+      "n": "S. Nanasi",
+      "pos": "M"
+     },
+     {
+      "n": "V. Gyökeres",
+      "pos": "F"
+     },
+     {
+      "n": "A. Isak",
+      "pos": "F"
+     }
+    ],
+    "1113": [
+     {
+      "n": "M. Zlomislić",
+      "pos": "G"
+     },
+     {
+      "n": "S. Radeljić",
+      "pos": "D"
+     },
+     {
+      "n": "N. Katić",
+      "pos": "D"
+     },
+     {
+      "n": "S. Kolašinac",
+      "pos": "D"
+     },
+     {
+      "n": "A. Dedić",
+      "pos": "D"
+     },
+     {
+      "n": "A. Gigović",
+      "pos": "M"
+     },
+     {
+      "n": "Kerim-Sam Alajbegović",
+      "pos": "F"
+     },
+     {
+      "n": "E. Demirović",
+      "pos": "F"
+     },
+     {
+      "n": "I. Bašić",
+      "pos": "M"
+     },
+     {
+      "n": "H. Tabaković",
+      "pos": "F"
+     },
+     {
+      "n": "E. Bajraktarevic",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1528975": {
-   "hora": "2026-11-14T19:49:22.886137+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T20:47:06.483847+01:00",
+   "xi": [
+    "P. Charles",
+    "T. Devlin",
+    "Tom Atcheson",
+    "Ruairi McConville",
+    "C. Brown",
+    "T. Hume",
+    "S. Charles",
+    "J. Devenny",
+    "I. Price",
+    "J. Donley",
+    "E. Galbraith",
+    "A. Trubin",
+    "I. Zabarnyi",
+    "E. Sarapiy",
+    "M. Matvienko",
+    "V. Mykolenko",
+    "O. Kashchuk",
+    "Y. Yarmolyuk",
+    "O. Ocheretko",
+    "H. Sudakov",
+    "D. Sikan",
+    "R. Yaremchuk"
+   ],
+   "banquillo": [
+    "B. Graham",
+    "M. Forbes",
+    "C. Hazard",
+    "Patrick Kelly",
+    "J. Magennis",
+    "C. Marshall",
+    "P. McNair",
+    "K. Morrison",
+    "P. Smyth",
+    "B. Spencer",
+    "J. Thompson",
+    "Dermot William Mee",
+    "I. Krasnopir",
+    "I. Krupskyi",
+    "B. Krushynskyi",
+    "T. Mykhavko",
+    "E. Nazaryna",
+    "D. Riznyk",
+    "V. Vanat",
+    "I. Varfolomeev",
+    "H. Ermakov",
+    "O. Andrievskyi",
+    "A. Dovbyk",
+    "H. Synchuk"
+   ],
+   "equipos": {
+    "771": [
+     {
+      "n": "P. Charles",
+      "pos": "G"
+     },
+     {
+      "n": "T. Devlin",
+      "pos": "D"
+     },
+     {
+      "n": "Tom Atcheson",
+      "pos": "D"
+     },
+     {
+      "n": "Ruairi McConville",
+      "pos": "D"
+     },
+     {
+      "n": "C. Brown",
+      "pos": "D"
+     },
+     {
+      "n": "T. Hume",
+      "pos": "M"
+     },
+     {
+      "n": "S. Charles",
+      "pos": "M"
+     },
+     {
+      "n": "J. Devenny",
+      "pos": "M"
+     },
+     {
+      "n": "I. Price",
+      "pos": "F"
+     },
+     {
+      "n": "J. Donley",
+      "pos": "F"
+     },
+     {
+      "n": "E. Galbraith",
+      "pos": "F"
+     }
+    ],
+    "772": [
+     {
+      "n": "A. Trubin",
+      "pos": "G"
+     },
+     {
+      "n": "I. Zabarnyi",
+      "pos": "D"
+     },
+     {
+      "n": "E. Sarapiy",
+      "pos": "D"
+     },
+     {
+      "n": "M. Matvienko",
+      "pos": "D"
+     },
+     {
+      "n": "V. Mykolenko",
+      "pos": "D"
+     },
+     {
+      "n": "O. Kashchuk",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Yarmolyuk",
+      "pos": "M"
+     },
+     {
+      "n": "O. Ocheretko",
+      "pos": "M"
+     },
+     {
+      "n": "H. Sudakov",
+      "pos": "M"
+     },
+     {
+      "n": "D. Sikan",
+      "pos": "F"
+     },
+     {
+      "n": "R. Yaremchuk",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570021": {
-   "hora": "2026-11-14T19:49:22.886137+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-14T20:47:06.483847+01:00",
+   "xi": [
+    "Aarón Escandell",
+    "David Jiménez",
+    "David Costas",
+    "Carlos Domínguez",
+    "S. Rodriguez",
+    "Alberto Reina",
+    "Y. Didi",
+    "I. Chaira",
+    "Mikel Goti",
+    "Estanis",
+    "A. Ișfan",
+    "P. Gazzaniga",
+    "Mateu Morey",
+    "David López",
+    "Alejandro Francés",
+    "Álex Moreno",
+    "Fran Beltrán",
+    "I. Gonzalez",
+    "Carles Pérez",
+    "Unai Hernández",
+    "Abel Ruiz",
+    "Oleksandr Pishchur"
+   ],
+   "banquillo": [
+    "Carlos Fernández",
+    "Marco Esteban",
+    "V. Mingo",
+    "Jacobo González",
+    "D. Menendez",
+    "José Luis Morales",
+    "Pablo Sáenz",
+    "Nacho Vidal",
+    "Dani Villahermosa",
+    "Miguel Narváez",
+    "Juan Cruz",
+    "Aritz Aldasoro",
+    "L. Kourouma",
+    "Guillem Badia",
+    "Alex Cantarell Rull",
+    "Gibert Jordana",
+    "V. Krapyvtsov",
+    "Iván Morante",
+    "A. Mumin",
+    "Portu",
+    "Sergi Puig",
+    "C. Stuani",
+    "D. van de Beek"
+   ],
+   "equipos": {
+    "718": [
+     {
+      "n": "Aarón Escandell",
+      "pos": "G"
+     },
+     {
+      "n": "David Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "David Costas",
+      "pos": "D"
+     },
+     {
+      "n": "Carlos Domínguez",
+      "pos": "D"
+     },
+     {
+      "n": "S. Rodriguez",
+      "pos": "D"
+     },
+     {
+      "n": "Alberto Reina",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Didi",
+      "pos": "M"
+     },
+     {
+      "n": "I. Chaira",
+      "pos": "M"
+     },
+     {
+      "n": "Mikel Goti",
+      "pos": "M"
+     },
+     {
+      "n": "Estanis",
+      "pos": "M"
+     },
+     {
+      "n": "A. Ișfan",
+      "pos": "F"
+     }
+    ],
+    "547": [
+     {
+      "n": "P. Gazzaniga",
+      "pos": "G"
+     },
+     {
+      "n": "Mateu Morey",
+      "pos": "D"
+     },
+     {
+      "n": "David López",
+      "pos": "D"
+     },
+     {
+      "n": "Alejandro Francés",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Moreno",
+      "pos": "D"
+     },
+     {
+      "n": "Fran Beltrán",
+      "pos": "M"
+     },
+     {
+      "n": "I. Gonzalez",
+      "pos": "M"
+     },
+     {
+      "n": "Carles Pérez",
+      "pos": "M"
+     },
+     {
+      "n": "Unai Hernández",
+      "pos": "M"
+     },
+     {
+      "n": "Abel Ruiz",
+      "pos": "M"
+     },
+     {
+      "n": "Oleksandr Pishchur",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

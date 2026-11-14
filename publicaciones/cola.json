@@ -6264,5 +6264,37 @@
       "threads": "18133212931836911",
       "instagram": "18444135469199842"
     }
+  },
+  {
+    "id": "2026-11-14-cuotaza-1570018-88fe62",
+    "fecha": "2026-11-14T20:48",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Granada CF – Las Palmas · 16:15\n\n🍀 Las Palmas o empate @1,95\n\n👀 Lo normal sería @1,74: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Granada CF – Las Palmas (16:15)\nLas Palmas o empate @1,95 en bet365; lo justo según las otras casas es @1,74 (+12%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1570018|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.95
+    ],
+    "cuotaza": {
+      "partido_id": 1570018,
+      "local": "Granada CF",
+      "visitante": "Las Palmas",
+      "inicio": "2026-11-15T16:15",
+      "liga": "Segunda División",
+      "mercado": "Double Chance",
+      "opcion": "Draw/Away",
+      "cuota": 1.95,
+      "justa": 1.74,
+      "ev": 0.121,
+      "fuente": "las otras casas",
+      "edad_h": 1.0,
+      "texto": "Las Palmas o empate"
+    }
   }
 ]

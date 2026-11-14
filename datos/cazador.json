@@ -23,47 +23,100 @@
    "cuota": 3.25,
    "ev": 0.083,
    "post": "2026-11-13-cuotaza-1545615-389312"
+  },
+  "1570018|Double Chance|Draw/Away": {
+   "dia": "2026-11-14",
+   "cuota": 1.95,
+   "ev": 0.121,
+   "post": "2026-11-14-cuotaza-1570018-88fe62"
   }
  },
  "top": [
   {
-   "local": "Oviedo",
-   "visitante": "Girona",
-   "inicio": "2026-11-14T21:00",
-   "texto": "Ambos marcan en Oviedo–Girona",
+   "local": "Granada CF",
+   "visitante": "Las Palmas",
+   "inicio": "2026-11-15T16:15",
+   "texto": "Las Palmas o empate",
+   "cuota": 1.95,
+   "justa": 1.74,
+   "ev": 0.121,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
+   "local": "Real Sociedad W",
+   "visitante": "Athletic Club W",
+   "inicio": "2026-11-15T12:00",
+   "texto": "Athletic Club W o empate",
    "cuota": 1.91,
    "justa": 1.81,
-   "ev": 0.055,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "ev": 0.053,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
   },
   {
-   "local": "Portugal",
-   "visitante": "Denmark",
-   "inicio": "2026-11-14T20:45",
-   "texto": "Gana el Portugal",
-   "cuota": 1.62,
-   "justa": 1.64,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "local": "Granada CF",
+   "visitante": "Las Palmas",
+   "inicio": "2026-11-15T16:15",
+   "texto": "Las Palmas marca",
+   "cuota": 1.5,
+   "justa": 1.43,
+   "ev": 0.05,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
   },
   {
-   "local": "Sweden",
-   "visitante": "Bosnia & Herzegovina",
-   "inicio": "2026-11-14T20:45",
-   "texto": "Bosnia & Herzegovina marca",
-   "cuota": 1.67,
-   "justa": 1.7,
-   "ev": -0.02,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "local": "Deportivo de La Coruña W",
+   "visitante": "Barcelona W",
+   "inicio": "2026-11-15T18:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Deportivo de La Coruña W–Barcelona W",
+   "cuota": 2.2,
+   "justa": 2.22,
+   "ev": -0.01,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
+   "local": "Juventus U23",
+   "visitante": "Treviso",
+   "inicio": "2026-11-15T17:30",
+   "texto": "Juventus U23 marca",
+   "cuota": 1.4,
+   "justa": 1.42,
+   "ev": -0.012,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
+   "local": "Juventus U23",
+   "visitante": "Treviso",
+   "inicio": "2026-11-15T17:30",
+   "texto": "Ambos marcan en Juventus U23–Treviso",
+   "cuota": 1.8,
+   "justa": 1.83,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-14T19:56",
-  "revisadas": 0,
-  "mejor": null
+  "hora": "2026-11-14T20:48",
+  "revisadas": 1,
+  "mejor": {
+   "partido_id": 1570018,
+   "local": "Granada CF",
+   "visitante": "Las Palmas",
+   "inicio": "2026-11-15T16:15",
+   "liga": "Segunda División",
+   "mercado": "Double Chance",
+   "opcion": "Draw/Away",
+   "cuota": 1.95,
+   "justa": 1.74,
+   "ev": 0.121,
+   "fuente": "las otras casas",
+   "edad_h": 1.0,
+   "texto": "Las Palmas o empate"
+  }
  },
  "historial": [
   {
@@ -81,6 +134,10 @@
   {
    "hora": "2026-11-13T02:37",
    "t": "Ambos marcan en Andorra–Gibraltar @3,25 (justa 3,00, +8%)"
+  },
+  {
+   "hora": "2026-11-14T20:48",
+   "t": "Las Palmas o empate @1,95 (justa 1,74, +12%)"
   }
  ]
 }
