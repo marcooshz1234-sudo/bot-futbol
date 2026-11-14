@@ -263,5 +263,15 @@
   "rol": "ojeador",
   "hora": "2026-11-13T23:11",
   "texto": "22:12 UTC: revisados canales 2h; sin picks nuevos (solo goles en vivo, promo Stake10 sin pick, partidos ya jugados). Bot en marcha."
+ },
+ {
+  "rol": "vigilante",
+  "hora": "2026-11-14T09:08",
+  "texto": "Cargas y publicar OK; arreglado imagenes.py (combi-500 larga bloqueaba imágenes, test); Telegram/Threads/IG de anoche OK; aviso prensa Kosovo–Israel"
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-14T09:15",
+  "texto": "1 pick nuevo (Argentina, ya jugado); 16 picks del 13/11 repasados, 6 corregidos a mano; Catar–Australia córners sin dato"
  }
 ]
