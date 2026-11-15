@@ -7193,10 +7193,11 @@
       "instagram": null,
       "instagram_reel": null,
       "instagram_story": null,
-      "facebook": null
+      "facebook": null,
+      "threads": null
     },
     "errores_redes": {
-      "threads": "400: The requested resource does not exist"
+      "threads": "caducado: no salió a tiempo"
     }
   },
   {
@@ -7238,10 +7239,11 @@
       "instagram": null,
       "instagram_reel": null,
       "instagram_story": null,
-      "facebook": null
+      "facebook": null,
+      "threads": null
     },
     "errores_redes": {
-      "threads": "400: The requested resource does not exist"
+      "threads": "caducado: no salió a tiempo"
     }
   },
   {
@@ -7261,10 +7263,11 @@
       "instagram": null,
       "instagram_reel": null,
       "instagram_story": null,
-      "facebook": null
+      "facebook": null,
+      "threads": null
     },
     "errores_redes": {
-      "threads": "400: The requested resource does not exist"
+      "threads": "caducado: no salió a tiempo"
     }
   },
   {
