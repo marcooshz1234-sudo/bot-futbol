@@ -4608,193 +4608,6 @@
     }
   },
   {
-    "id": "2026-11-12-combi-partido-1528958-th",
-    "fecha": "2026-11-12T14:15",
-    "texto": "Os dejo la combi del Turquía – Bélgica ⚽🔥\n\n🍀 Bélgica gana alguna de las dos partes\n🍀 Bélgica marca 2 o más\n\n📈 Cuota @1,60\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sel": [
-      "1528958|To Win Either Half|Away",
-      "1528958|Total - Away|Over 1.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.57
-    ],
-    "nota": "12/11 Marcos: más contenido para Threads · cuota de bet365 «Crear apuesta» 1,60 (Marcos 04:53); 2,20 era multiplicando",
-    "tarjeta": {
-      "local": "Türkiye",
-      "visitante": "Belgium",
-      "id_l": 777,
-      "id_v": 1,
-      "logo_l": "https://media.api-sports.io/football/teams/777.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1.png",
-      "fecha": "2026-11-12T18:00",
-      "liga": "Nations League"
-    },
-    "cuota_total": 1.6,
-    "foto_tg": "publicaciones/media/2026-11-12-combi-partido-1528958-th.tarjeta.jpg",
-    "enviado": "2026-11-12T14:20",
-    "mensaje_id": 420,
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "17886615603627996",
-      "threads_enlace": "18127207250299026"
-    }
-  },
-  {
-    "id": "2026-11-12-combi-partido-1528960-th",
-    "fecha": "2026-11-12T19:45",
-    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Francia gana alguna de las dos partes\n\n📈 Cuota @2,35",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sel": [
-      "1528960|Both Teams Score|Yes",
-      "1528960|To Win Either Half|Away"
-    ],
-    "cuotas": [
-      1.57,
-      1.5
-    ],
-    "nota": "12/11 Marcos: más contenido para Threads · retenida: 2,35 es multiplicando; falta la cuota real de «Crear apuesta»",
-    "tarjeta": {
-      "local": "Italy",
-      "visitante": "France",
-      "id_l": 768,
-      "id_v": 2,
-      "logo_l": "https://media.api-sports.io/football/teams/768.png",
-      "logo_v": "https://media.api-sports.io/football/teams/2.png",
-      "fecha": "2026-11-12T20:45",
-      "liga": "Nations League"
-    },
-    "requiere_ok": true,
-    "pide_cuota": true,
-    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
-    "caducada": "cancelado"
-  },
-  {
-    "id": "2026-11-12-pick-th-1",
-    "fecha": "2026-11-12T15:00",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n\n⚽ Barcelona (fem.) – Arsenal (fem.) · 18:45\n\n🍀 Barcelona (fem.) marca 3 o más @1,57\n🧠 Stake 2/10\n\n👨‍💻 Los partidos del Barcelona (fem.) llevan 4,9 goles de media (últimos 8).\n👨‍💻 La cuota de que gane el Barcelona (fem.) ha bajado de 1,33 a 1,17: el mercado lo ve más claro\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sel": [
-      "1638295|Total - Home|Over 2.5"
-    ],
-    "cuotas": [
-      1.57
-    ],
-    "nota": "12/11 Marcos: más contenido para Threads",
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "ya-publicado"
-    }
-  },
-  {
-    "id": "2026-11-12-pick-th-2",
-    "fecha": "2026-11-12T17:00",
-    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Navalcarnero – Real Betis · 19:00\n\n🍀 Real Betis marca 3 o más @1,62\n\n👨‍💻 3 categorías de diferencia: el Real Betis juega en Primera y el Navalcarnero en Segunda Federación\n👨‍💻 Los partidos del Real Betis llevan 3,5 goles de media (últimos 8).\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sel": [
-      "1644363|Total - Away|Over 2.5"
-    ],
-    "cuotas": [
-      1.62
-    ],
-    "nota": "12/11 Marcos: más contenido para Threads",
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "18015967661763583",
-      "threads_enlace": "18155631412535015"
-    }
-  },
-  {
-    "id": "2026-11-12-combi-nations-th-1",
-    "fecha": "2026-11-12T17:15",
-    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀\n\n🇨🇾 Chipre marca\n🇧🇪 Bélgica marca 2 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sel": [
-      "1528959|Total - Away|Over 0.5",
-      "1528958|Total - Away|Over 1.5",
-      "1528963|Goals Over/Under|Over 1.5"
-    ],
-    "cuotas": [
-      1.36,
-      1.57,
-      1.44
-    ],
-    "nota": "12/11 Marcos: más contenido para Threads · 17:05 «Montenegro marca 2+» iba en 3 posts (multi y 2º pick) → Bélgica marca 2+",
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "18111621983577858",
-      "threads_enlace": "18017187827985538"
-    }
-  },
-  {
-    "id": "2026-11-12-combi-nations-th-2",
-    "fecha": "2026-11-12T19:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀\n\n🇮🇹 Italia marca\n🇫🇮 Finlandia marca\n🇭🇷 Croacia marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sel": [
-      "1528960|Total - Home|Over 0.5",
-      "1528963|Total - Away|Over 0.5",
-      "1528962|Total - Away|Over 0.5"
-    ],
-    "cuotas": [
-      1.36,
-      1.62,
-      1.73
-    ],
-    "nota": "12/11 Marcos: más contenido para Threads",
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "18151612033567867",
-      "threads_enlace": "18132449182698249"
-    }
-  },
-  {
     "id": "2026-11-12-pick-tip-1",
     "fecha": "2026-11-12T12:13",
     "texto": "Este nos encanta para hoy 🔥\n\n🍀 Bélgica marca (Turquía no deja la portería a 0) @1,11\n\n⚽ Turquía – Bélgica · hoy 18:00\n\n👨‍💻 Turquía ha perdido sus 4 partidos de Nations League, incluido un 0-3 ante Bélgica en octubre\n\nStake 3/10",
@@ -4933,6 +4746,73 @@
     }
   },
   {
+    "id": "2026-11-12-combi-partido-1528958-th",
+    "fecha": "2026-11-12T14:15",
+    "texto": "Os dejo la combi del Turquía – Bélgica ⚽🔥\n\n🍀 Bélgica gana alguna de las dos partes\n🍀 Bélgica marca 2 o más\n\n📈 Cuota @1,60\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528958|To Win Either Half|Away",
+      "1528958|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.57
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads · cuota de bet365 «Crear apuesta» 1,60 (Marcos 04:53); 2,20 era multiplicando",
+    "tarjeta": {
+      "local": "Türkiye",
+      "visitante": "Belgium",
+      "id_l": 777,
+      "id_v": 1,
+      "logo_l": "https://media.api-sports.io/football/teams/777.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1.png",
+      "fecha": "2026-11-12T18:00",
+      "liga": "Nations League"
+    },
+    "cuota_total": 1.6,
+    "foto_tg": "publicaciones/media/2026-11-12-combi-partido-1528958-th.tarjeta.jpg",
+    "enviado": "2026-11-12T14:20",
+    "mensaje_id": 420,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17886615603627996",
+      "threads_enlace": "18127207250299026"
+    }
+  },
+  {
+    "id": "2026-11-12-pick-th-1",
+    "fecha": "2026-11-12T15:00",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n\n⚽ Barcelona (fem.) – Arsenal (fem.) · 18:45\n\n🍀 Barcelona (fem.) marca 3 o más @1,57\n🧠 Stake 2/10\n\n👨‍💻 Los partidos del Barcelona (fem.) llevan 4,9 goles de media (últimos 8).\n👨‍💻 La cuota de que gane el Barcelona (fem.) ha bajado de 1,33 a 1,17: el mercado lo ve más claro\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1638295|Total - Home|Over 2.5"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "ya-publicado"
+    }
+  },
+  {
     "id": "2026-11-12-marcadores-nations-th",
     "fecha": "2026-11-12T15:05",
     "texto": "🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n🤪 La locura del día\n\n🇹🇷 Turquía 1-3 Bélgica 🇧🇪 · 18:00\n🇦🇲 Armenia 1-1 Chipre 🇨🇾 · 18:00\n🇮🇹 Italia 2-4 Francia 🇫🇷 · 20:45\n🇲🇪 Montenegro 2-0 Letonia 🇱🇻 · 20:45\n🇨🇿 Chequia 0-2 España 🇪🇸 · 20:45\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-0 Croacia 🇭🇷 · 20:45\n🇦🇱 Albania 1-1 Finlandia 🇫🇮 · 20:45\n🇸🇲 San Marino 0-2 Bielorrusia 🇧🇾 · 20:45\n\n¿Cuántos sacamos? 👀",
@@ -4995,6 +4875,152 @@
       "threads": "18119781011012642",
       "threads_enlace": "18146232700580777",
       "instagram": "18140101873650694"
+    }
+  },
+  {
+    "id": "2026-11-12-pick-th-2",
+    "fecha": "2026-11-12T17:00",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n🇪🇸 Navalcarnero – Real Betis · 19:00\n\n🍀 Real Betis marca 3 o más @1,62\n\n👨‍💻 3 categorías de diferencia: el Real Betis juega en Primera y el Navalcarnero en Segunda Federación\n👨‍💻 Los partidos del Real Betis llevan 3,5 goles de media (últimos 8).\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1644363|Total - Away|Over 2.5"
+    ],
+    "cuotas": [
+      1.62
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18015967661763583",
+      "threads_enlace": "18155631412535015"
+    }
+  },
+  {
+    "id": "2026-11-12-combi-nations-th-1",
+    "fecha": "2026-11-12T17:15",
+    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,07! 🍀\n\n🇨🇾 Chipre marca\n🇧🇪 Bélgica marca 2 o más\n🇦🇱 Más de 1,5 goles en Albania–Finlandia",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528959|Total - Away|Over 0.5",
+      "1528958|Total - Away|Over 1.5",
+      "1528963|Goals Over/Under|Over 1.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.57,
+      1.44
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads · 17:05 «Montenegro marca 2+» iba en 3 posts (multi y 2º pick) → Bélgica marca 2+",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18111621983577858",
+      "threads_enlace": "18017187827985538"
+    }
+  },
+  {
+    "id": "2026-11-12-pick-tip-6",
+    "fecha": "2026-11-12T18:49",
+    "texto": "Este nos encanta para hoy 🔥\n\n🍀 España gana al descanso @1,61\n\n⚽ Chequia – España · hoy 20:45\n\n👨‍💻 Chequia ha perdido sus 5 últimos partidos y España ha ganado los 5\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528961|First Half Winner|Away"
+    ],
+    "cuotas": [
+      1.61
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17966579214246291",
+      "instagram": "18146684080610814",
+      "threads_enlace": "17997878169110556"
+    },
+    "enviado": "2026-11-12T18:51",
+    "mensaje_id": 426
+  },
+  {
+    "id": "2026-11-12-pick-tip-7",
+    "fecha": "2026-11-12T18:49",
+    "texto": "Pick que no podía faltar hoy ⚽\n📋 Números en la mano antes de meterla\n\n🍀 Jordan Pickford (Inglaterra), más de 1,5 paradas @1,83\n\n⚽ Inglaterra – Croacia · hoy 20:45\n\n👨‍💻 Croacia llega con 3 derrotas seguidas pero siempre llega arriba con Kramarić y Perišić",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528962|Goalkeeper Saves|Jordan Pickford - 2"
+    ],
+    "cuotas": [
+      1.83
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18157781908529505",
+      "instagram": "18113184752460531",
+      "threads_enlace": "17997855264111974"
+    },
+    "enviado": "2026-11-12T18:51",
+    "mensaje_id": 427
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-1",
+    "fecha": "2026-11-12T18:51",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Bélgica marca (Turquía no deja la portería a 0)\n\n📈 Cuota @1,11",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-tip-1",
+    "requiere_ok": true
+  },
+  {
+    "id": "2026-11-12-combi-nations-th-2",
+    "fecha": "2026-11-12T19:00",
+    "texto": "🔥⚽ COMBILOCAS — ¡NATIONS LEAGUE · 3 PARTIDOS x3,81! 🍀\n\n🇮🇹 Italia marca\n🇫🇮 Finlandia marca\n🇭🇷 Croacia marca\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528960|Total - Home|Over 0.5",
+      "1528963|Total - Away|Over 0.5",
+      "1528962|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.62,
+      1.73
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18151612033567867",
+      "threads_enlace": "18132449182698249"
     }
   },
   {
@@ -5082,6 +5108,40 @@
     }
   },
   {
+    "id": "2026-11-12-combi-partido-1528960-th",
+    "fecha": "2026-11-12T19:45",
+    "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Francia gana alguna de las dos partes\n\n📈 Cuota @2,35",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sel": [
+      "1528960|Both Teams Score|Yes",
+      "1528960|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.57,
+      1.5
+    ],
+    "nota": "12/11 Marcos: más contenido para Threads · retenida: 2,35 es multiplicando; falta la cuota real de «Crear apuesta»",
+    "tarjeta": {
+      "local": "Italy",
+      "visitante": "France",
+      "id_l": 768,
+      "id_v": 2,
+      "logo_l": "https://media.api-sports.io/football/teams/768.png",
+      "logo_v": "https://media.api-sports.io/football/teams/2.png",
+      "fecha": "2026-11-12T20:45",
+      "liga": "Nations League"
+    },
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
+    "caducada": "cancelado"
+  },
+  {
     "id": "2026-11-12-combi-partido-1528960-th2",
     "fecha": "2026-11-12T19:50",
     "texto": "Os dejo la combi del Italia – Francia ⚽🔥\n\n🍀 Ambos marcan en Italia–Francia\n🍀 Davide Frattesi (Italia) hace 2 o más remates\n🍀 Nicolò Barella (Italia) hace 1 o más remates\n🍀 Sandro Tonali (Italia) hace 2 o más faltas\n\n📈 Cuota @7,03",
@@ -5117,112 +5177,6 @@
     "requiere_ok": true,
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
-  },
-  {
-    "id": "2026-11-12-pick-tip-6",
-    "fecha": "2026-11-12T18:49",
-    "texto": "Este nos encanta para hoy 🔥\n\n🍀 España gana al descanso @1,61\n\n⚽ Chequia – España · hoy 20:45\n\n👨‍💻 Chequia ha perdido sus 5 últimos partidos y España ha ganado los 5\n\n🧠 Stake 3/10",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "sel": [
-      "1528961|First Half Winner|Away"
-    ],
-    "cuotas": [
-      1.61
-    ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "redes": {
-      "instagram_reel": null,
-      "threads": "17966579214246291",
-      "instagram": "18146684080610814",
-      "threads_enlace": "17997878169110556"
-    },
-    "enviado": "2026-11-12T18:51",
-    "mensaje_id": 426
-  },
-  {
-    "id": "2026-11-12-pick-tip-7",
-    "fecha": "2026-11-12T18:49",
-    "texto": "Pick que no podía faltar hoy ⚽\n📋 Números en la mano antes de meterla\n\n🍀 Jordan Pickford (Inglaterra), más de 1,5 paradas @1,83\n\n⚽ Inglaterra – Croacia · hoy 20:45\n\n👨‍💻 Croacia llega con 3 derrotas seguidas pero siempre llega arriba con Kramarić y Perišić",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "sel": [
-      "1528962|Goalkeeper Saves|Jordan Pickford - 2"
-    ],
-    "cuotas": [
-      1.83
-    ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18157781908529505",
-      "instagram": "18113184752460531",
-      "threads_enlace": "17997855264111974"
-    },
-    "enviado": "2026-11-12T18:51",
-    "mensaje_id": 427
-  },
-  {
-    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-1",
-    "fecha": "2026-11-12T18:51",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Bélgica marca (Turquía no deja la portería a 0)\n\n📈 Cuota @1,11",
-    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-1.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-12-pick-tip-1",
-    "requiere_ok": true
-  },
-  {
-    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-4",
-    "fecha": "2026-11-12T21:45",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 2,5 goles en Turquía–Bélgica\n\n📈 Cuota @1,50",
-    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-4.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-12-pick-tip-4",
-    "agrupado_en": "2026-11-12-verde-grupo-2053",
-    "solo_en": [
-      "threads"
-    ],
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "17967529815199012",
-      "threads_enlace": "18101758112095525"
-    }
-  },
-  {
-    "id": "2026-11-12-verde-auto-2026-11-12-pick-seguro",
-    "fecha": "2026-11-12T21:45",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Albacete\n\n📈 Cuota @1,53",
-    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-seguro.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-12-pick-seguro",
-    "agrupado_en": "2026-11-12-verde-grupo-2053",
-    "solo_en": [
-      "threads"
-    ],
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "18120099515594478",
-      "threads_enlace": "18117093203169746"
-    }
   },
   {
     "id": "2026-11-12-verde-auto-2026-11-12-combi-partido-1528958-th",
@@ -5294,6 +5248,52 @@
       "instagram_story": null,
       "facebook": null,
       "instagram": "18641169703035835"
+    }
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-tip-4",
+    "fecha": "2026-11-12T21:45",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 2,5 goles en Turquía–Bélgica\n\n📈 Cuota @1,50",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-tip-4.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-tip-4",
+    "agrupado_en": "2026-11-12-verde-grupo-2053",
+    "solo_en": [
+      "threads"
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17967529815199012",
+      "threads_enlace": "18101758112095525"
+    }
+  },
+  {
+    "id": "2026-11-12-verde-auto-2026-11-12-pick-seguro",
+    "fecha": "2026-11-12T21:45",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Albacete\n\n📈 Cuota @1,53",
+    "foto": "publicaciones/media/2026-11-12-verde-auto-2026-11-12-pick-seguro.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-12-pick-seguro",
+    "agrupado_en": "2026-11-12-verde-grupo-2053",
+    "solo_en": [
+      "threads"
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18120099515594478",
+      "threads_enlace": "18117093203169746"
     }
   },
   {
@@ -6188,6 +6188,22 @@
     }
   },
   {
+    "id": "2026-11-14-rojo-personal",
+    "fecha": "2026-11-14T19:37",
+    "texto": "😤 HOY ME LLEVAN LOS DEMONIOS 😤\n\nLas dos combinadas personales, fuera. Y las dos por un solo partido:\n\n❌ La 1ª (@24,77): el Valladolid, en su casa, no es capaz de marcar ni uno. 0-1 del Castellón, gol de Jakobsen en el 67'. 7 tiros y nada.\n\n❌ La 2ª (@22,15): Noruega, 0-0 al descanso. 57 % del balón, 7 tiros, 5 córners… y CERO a puerta. Así no se puede.\n\nEsto no se queda así 😠\nA partir de ahora, una combinada personal cada día. A por la verde 💪",
+    "foto": null,
+    "origen": "claude",
+    "directo": true,
+    "resultado": "rojo",
+    "enviado": "2026-11-14T19:38",
+    "mensaje_id": 467,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18133212931836911",
+      "instagram": "18444135469199842"
+    }
+  },
+  {
     "id": "2026-11-14-verde-auto-2026-11-14-pick-tip-1",
     "fecha": "2026-11-14T19:47",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Almería\n\n📈 Cuota @1,75\n\n¿Quién la llevaba? 👇💚",
@@ -6248,22 +6264,6 @@
     ],
     "caducada": "quitada",
     "nota": "14/11 19:36: el mismo verde (Almería) ya sale en verde-auto-…-pick-tip-1; quitado a petición de Marcos"
-  },
-  {
-    "id": "2026-11-14-rojo-personal",
-    "fecha": "2026-11-14T19:37",
-    "texto": "😤 HOY ME LLEVAN LOS DEMONIOS 😤\n\nLas dos combinadas personales, fuera. Y las dos por un solo partido:\n\n❌ La 1ª (@24,77): el Valladolid, en su casa, no es capaz de marcar ni uno. 0-1 del Castellón, gol de Jakobsen en el 67'. 7 tiros y nada.\n\n❌ La 2ª (@22,15): Noruega, 0-0 al descanso. 57 % del balón, 7 tiros, 5 córners… y CERO a puerta. Así no se puede.\n\nEsto no se queda así 😠\nA partir de ahora, una combinada personal cada día. A por la verde 💪",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "resultado": "rojo",
-    "enviado": "2026-11-14T19:38",
-    "mensaje_id": 467,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18133212931836911",
-      "instagram": "18444135469199842"
-    }
   },
   {
     "id": "2026-11-14-cuotaza-1570018-88fe62",
@@ -6374,7 +6374,7 @@
   {
     "id": "2026-11-15-pick-tip-madridcff",
     "fecha": "2026-11-15T11:22",
-    "texto": "Vamos con otro pick, familia 👇\n\n⚽ Madrid CFF – Logroño (fem.) · 12:00\n\n🍀 Madrid CFF · empate no válido\n\n👨‍💻 El Madrid CFF va cuarto, a dos puntos de Europa, y el Logroño llega con seis bajas y cerca del descenso.\n👨‍💻 Empate no válido: si gana el Madrid CFF, acertamos; si empatan, nos devuelven lo apostado.",
+    "texto": "Vamos con otro pick, familia 👇\n\n⚽ Madrid CFF – Logroño (fem.) · 12:00\n\n🍀 Madrid CFF · empate no válido @1,44\n\n👨‍💻 El Madrid CFF va cuarto, a dos puntos de Europa, y el Logroño llega con seis bajas y cerca del descenso.\n👨‍💻 Empate no válido: si gana el Madrid CFF, acertamos; si empatan, nos devuelven lo apostado.",
     "foto": null,
     "origen": "tipster",
     "directo": true,
@@ -6387,6 +6387,12 @@
     },
     "errores_redes": {
       "instagram": "falta la imagen/vídeo en publicaciones/media"
-    }
+    },
+    "sel": [
+      "1573643|Draw No Bet|Home"
+    ],
+    "cuotas": [
+      1.44
+    ]
   }
 ]
