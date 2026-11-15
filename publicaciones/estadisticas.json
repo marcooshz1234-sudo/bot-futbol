@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 10:56",
+ "actualizado": "2026-11-15 11:07",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2778,
-   "hoy": 2,
+   "seguidores": 2779,
+   "hoy": 3,
    "serie": [
     2359,
     2593,
@@ -24,7 +24,7 @@
     2691,
     2738,
     2776,
-    2778
+    2779
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3226,
- "total_hoy": 5,
+ "total": 3227,
+ "total_hoy": 6,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "13:30",
   "dia": "2026-11-15",
-  "titulo": "Reto escalera · día 1/7"
+  "titulo": "Vamos con la combi del domingo familia"
  },
  "ayer": {
   "aciertos": 1,
@@ -210,19 +210,19 @@
   },
   "2026-11-15": {
    "instagram": 41,
-   "threads": 2778,
+   "threads": 2779,
    "facebook": 1,
    "telegram": 406
   }
  },
  "tipos_instagram": {
-  "Otros (reel)": {
-   "posts": 46,
+  "Escalera (reel)": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Escalera (reel)": {
-   "posts": 3,
+  "Otros (reel)": {
+   "posts": 45,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
