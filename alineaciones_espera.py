@@ -40,6 +40,22 @@ def main():
                 continue
             pendientes.append(p)
     api, publicar = None, []
+
+    def xi_de(fid):
+        """Once titular de un partido (guardado o pidiéndolo a la API); None si aún no ha salido."""
+        nonlocal api
+        g = (est.get("xi") or {}).get(str(fid))
+        if g:
+            return g["xi"]
+        api = api or API(clave)
+        xi = []
+        for eq in api.get("fixtures/lineups", fixture=fid) or []:
+            xi += [(x.get("player") or {}).get("name") for x in eq.get("startXI") or []]
+        if len(xi) < 22:
+            return None
+        est.setdefault("xi", {})[str(fid)] = {"xi": xi, "no_titulares": []}
+        return xi
+
     for p in pendientes:
         fids = sorted({int(s.split("|", 1)[0]) for s in p.get("sel") or []})
         if not fids:
@@ -86,8 +102,17 @@ def main():
             fid, m, o = s.split("|", 2)
             if m in P.JUG_MERCADOS:
                 j = o.rsplit(" - ", 1)[0]
-                if not any(es_el(j, x) for x in ex["xi"]):
+                # 15/11: en una combi de varios partidos, el jugador se mira en la alineación de SU partido (antes se
+                # miraba siempre la del primero: Lamine «no titular» porque buscaba en el Francia–Turquía)
+                xi_j = ex["xi"] if int(fid) == fids[0] else xi_de(int(fid))
+                if xi_j is None:
+                    fuera = None
+                    break
+                if not any(es_el(j, x) for x in xi_j):
                     fuera.append(j)
+        if fuera is None:
+            print(f"Alineación: {p['id']}: falta la alineación de otro partido de la combi")
+            continue
         nuevo = dict(p)
         if fuera:
             r = bajas_hoy.rehacer(p, [])
