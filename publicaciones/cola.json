@@ -7102,7 +7102,15 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-15-pick-seguro-b"
+    "verde_de": "2026-11-15-pick-seguro-b",
+    "enviado": "2026-11-15T23:15",
+    "mensaje_id": 490,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18009362894789543",
+      "instagram": "18115792271613398",
+      "instagram_story": "17905214151603815"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1500",
@@ -7117,7 +7125,16 @@
     "solo_en": [
       "telegram",
       "instagram"
-    ]
+    ],
+    "enviado": "2026-11-15T23:15",
+    "mensaje_id": 491,
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18108448640570910"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1927",
@@ -7132,6 +7149,25 @@
     "solo_en": [
       "telegram",
       "instagram"
-    ]
+    ],
+    "enviado": "2026-11-15T23:15",
+    "mensaje_id": 492,
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "17941750125406677"
+    }
+  },
+  {
+    "id": "2026-11-15-balance-auto",
+    "fecha": "2026-11-15T23:18",
+    "texto": "📊 RESUMEN DEL DOMINGO 🍀\n\n✅ 7 de 10 picks en verde · 70 %\n🎯 Picks sueltos: 4 de 6\n⚽ Victorias: 3/4\n\n💚 Para dentro:\n✅ Inglaterra hace más de 3,5 tiros a puerta @1,80\n✅ Gana Croacia @1,57\n✅ Ambos marcan en Bélgica–Italia @1,57\n✅ Más de 8 córners en Francia–Turquía @1,53\n\n🔔 Mañana más: activad las notificaciones 👀",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true
   }
 ]
