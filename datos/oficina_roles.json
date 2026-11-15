@@ -308,5 +308,15 @@
   "rol": "analista",
   "hora": "2026-11-15T22:11",
   "texto": "Noche 15/11: posts del 16/11 revisados (5 OK en el comprobador, vigilante 0 fallos); quitada la razón «Protestan contra centros de IA en Escocia» del pick de Suiza y arreglo en noticias.razones (test)"
+ },
+ {
+  "rol": "community",
+  "hora": "2026-11-15T22:53",
+  "texto": "Noche 15/11: 3 respuestas propuestas en Threads (VIP, Bélgica–Italia 4-1, España 2-3); 2 comentarios spam de otros canales sin respuesta."
+ },
+ {
+  "rol": "verificador",
+  "hora": "2026-11-15T22:53",
+  "texto": "Noche 15/11: 5 de 10 picks en verde (combis 0 de 5); copias sin partido (Madrid CFF, Legnago, Finlandia) falladas; sin cuotazas; vigilante sin fallos; rojo de Bielorrusia esperando a Marcos."
  }
 ]
