@@ -7,17 +7,19 @@
    "fecha": "2026-11-14T10:40",
    "equipo": "Tondela",
    "tipos": []
-  },
-  {
-   "titulo": "Previa Farense vs Oriental Lisboa, Liga Portugal Betclic Jornada 29",
-   "fuente": "BeSoccer ES",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwRzZuM0dJN0Z2MC1nTDVzU2VwMXNxWWJXRU9JRFBCNlpuTHp0UC0zRWhCc016cXAyN25tNmtUMTdaX0hKWEJTdXRCNEdJX1JIR19zd0J2am03UmJnU05CQ2gxMGRMWUhwSm5laUVaVE9JczBWSVpMYkN2TQ?oc=5",
-   "fecha": "2026-11-14T03:48",
-   "equipo": "Farense",
-   "tipos": []
   }
  ],
  "1570018": [
+  {
+   "titulo": "El Ciudad de Lucena cae ante el colista en Canarias (4-3)",
+   "fuente": "Cordobadeporte",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWxKdmlhdWRBeVpwYUdCejVjWlhKRUowRmE5aXNYQm9HOWRmbDhvZDVlZTI4M0lhNmExMDRaNGl4RDdXRFFJU21mQVdVdHVvQ2JLbTB0YkJ1ZWtxemlDY2liNC10c09aU0lPS2g2LW1IbDZkVk1UX3UtUFh4MGhweVlGRHRzYWdlS1R4MXNLeVpOLWVxRWc?oc=5",
+   "fecha": "2026-11-15T14:34",
+   "equipo": "Las Palmas",
+   "tipos": [
+    "motivacion"
+   ]
+  },
   {
    "titulo": "El Granada llega al partido contra Las Palmas con bajas",
    "fuente": "VAVEL.com",
@@ -37,6 +39,30 @@
    "tipos": [
     "motivacion"
    ]
+  },
+  {
+   "titulo": "La UD Las Palmas de Albert Sánchez se mide a un Granada que gana todo desde octubre",
+   "fuente": "Canarias en Pleno",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXFFQ3ZIWjdNR1E3SV9pbUZfS2lwYU8yYTY5X1FPem1KMmo1a1BoMWZqRXRnR256Q0JGOXE0N3kxeFVMN0Q0X1Y3R29GbkdrSHcxb2lNSmdJVG8xQXdLZmVCME1KOHhuamR0TzJhTkdXVlpvMWloYjVVazBSSmhUTzhLWWtCM0dOc3lrNVlJM24wQW56LXA3dmw0XzVjRFNHMnRNRTdRTGpNOGFmQTFaZUlqRFpvZ1k?oc=5",
+   "fecha": "2026-11-15T15:30",
+   "equipo": "Las Palmas",
+   "tipos": []
+  },
+  {
+   "titulo": "Pacheta: “Las Palmas ataca muy bien y está con confianza”",
+   "fuente": "Cadena SER",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS28zWlNLN0M3VEZKS1BCdlJYR2ZiVkU1NTRvbkFMVlJuZHk3dnU2dmtLUzF3bXJPVHJyNGROZFJnMjhTUDNWRklhNVFVQmZwc2YxMmJzUF9qSWdwRHRsVlVfSldacEp6THpnSVFQVWR2OWlUX2dtZUxzUk5oeEFDYnFXRkhILWRCOFBYcDJ1Q3JjVGlwNXVoSGhLSWhiXzNJU2xtZHI1dkt3ZmN3bEZrR21XS2x3Zm5qb0ZCcXRlWEF2WGx1S1HSAcYBQVVfeXFMTktvM1pTSzdDN1RGSktQQnZSWEdmYlZFNTU0b25BTFZSbmR5N3Z1NnZrS1Mxd21yT1RycjRkTmRSZzI4U1AzVkZJYTVRVUJmcHNmMTJic1BfaklncER0bFZVX0pXWnBKekx6Z0lRUFVkdjlpVF9nbWVMc1JOaHhBQ2JxV0ZISC1kQjhQWHAydUNyY1RpcDV1aEhoS0loYl8zSVNsbWRyNXZLd2Zjd2xGa0dtV0tsd2Zuam9GQnF0ZVhBdlhsdUtR?oc=5",
+   "fecha": "2026-11-15T14:25",
+   "equipo": "Las Palmas",
+   "tipos": []
+  },
+  {
+   "titulo": "Una lista con las cuatro ausencias esperadas",
+   "fuente": "Granada en Juego",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaFdTbVJheG1PSDhQa3BQZWhIVHRuTGhhUlEwSGszSDdrVkI0WTZVVlVQb2VWSFV0TU1fTHhDQ2NGWkJnZWJLakNFVk14VWNRMkt4am1Kdm9yeDlLMFVrMS1SaXRxSzVnX3FGelhsNC1TSUJWMS1CdkRURlg5cTYycno5R2d3bzNJRVBnODlVTQ?oc=5",
+   "fecha": "2026-11-15T14:22",
+   "equipo": "Las Palmas",
+   "tipos": []
   },
   {
    "titulo": "A qué sabe la UD Las Palmas, un foodie prueba la comida del Estadio de Gran Canaria y da su veredicto: \"Están increíbles\"",
@@ -111,35 +137,11 @@
    "tipos": []
   },
   {
-   "titulo": "A por una sexta victoria seguida con una alineación definida",
-   "fuente": "Ideal",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTTY3LUZ0YlpHRVRzQXBCQnFHU0I3d1VTTzBjLW5RajdPTEh6ZWVtOUVPR1FVek5oT19GWXBSZEJiU0VwQjRtZkFfUmE3dVJXaUlIREdHeGZkdE5ZY0RYalU5MUtUMGphQm41VGUyc1RkeWdiZmoyTGpCNkZFd3hGd2k2cFRILWVGZC1ZaTBMVC1BSGVWSnJBMkVibzTSAaIBQVVfeXFMUHh0d1hCVEdoTnRLeEZ4dU5IdW5hTS1zZkxSa2s3STRvclRNNk5tXzFiWXUwTHMtUndLUnFBVFdFQlJkczBaYlRNUlBGbnJhLUZEWDlyQmFMSlVKUk90YmdRb3JzcVNPTUJ6cWc3YTFvWjB0UWhwZmtYWXJkclpuY0cyaDAxRkM4andXMzltY2FIcFBKTkRkUnJraFJkRTFxQ3J3?oc=5",
-   "fecha": "2026-11-15T00:16",
-   "equipo": "Las Palmas",
-   "tipos": []
-  },
-  {
-   "titulo": "Las Palmas se prueba en Granada a por la cuarta victoria seguida en Liga",
-   "fuente": "elDiario.es",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0lqMnZveDMwd3hMU1ZBR1ZGNDA0TzZJcDVxUGQzdWxtejNoQzl1Z3F0Nnd4dl9FV1FrVWh2SmtCSG9PaWNrV1A5MTdnTmR2QUIzYmZPdEtya2VrZy1ZcGtidHZ1X1Z3V2Y4RTMwWkRCMEwxMnNiZEphSWlVd2RwcWZ1M3diRXZ3cmMza1Jibm9EZUczaW1RWTZxcHZTQXVJMElhcVh6VVVfR2laQ09Wb1JBVVR6c0RUYVpyddIBwgFBVV95cUxOaXlCbFpHb0NYd3YzVHJtYkJkbW9KWkVJeWw1aDlIelBqWnlwYm4tb3VfYkxxbEJCRHh4UlVRbHJ1Zkk5c2NnVEwxUHdlb0dndmVKdHF3NmhYc3hhbjB2TnZkcHdfbDY2WnNpNDlLTVpFRWRuS2toWjJFY3lraXU2ZzdqSTgwZUx1VHFpRW1iM0VyTGtPQlVaUVZsMFRPamplNjJoNnNFRHlFVWNfT1VsQmlSV3dZSDZHc1VKNmZwU1haZw?oc=5",
-   "fecha": "2026-11-14T22:31",
-   "equipo": "Las Palmas",
-   "tipos": []
-  },
-  {
    "titulo": "Alineación posible de Las Palmas contra el Granada en LaLiga Hypermotion",
    "fuente": "Diario AS",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZU44bEdkajQ2MmZEXzgwZEhwbHVzUURyb1ZNVm1VT2FCcFUtc1F2YXFUUmlvR1ZNMURqTFhwUGozb0lwbmg4dE8waXZNUlM5SHRkSnRFQ0M5allXSjRnaVJ2OTB3X20wMl93UWZ2bTUxbXE2VHRPTlVGSjNFb0J6N0RuZGxUWXpXeHI3YmJzbUNXM0p2aUtRT0htX21ocnNnMEhSVlVLdDRaM094WDk5dmFjSdIBxwFBVV95cUxNZk1ZM1dSZjdyVFhzYnRySDRfVWwzWmdwSzJtdWZXOW1pbWJZS0JxckxTMllJczAzS2prTXhSQS03c2tMNWJGdC1Pc3JRRFB4TE82QnptZFlwdlNLTnV4MzBKcUFBUVpoeXE1UVlZV2FRZ3VxV2VjRGk0MlpOQS1BcTBTZHZnZm9hZVl4Y1BSOVFhQXVMTFgtZ1V5MVQ3TEZPUlN4YXRyTVhab3luVU9uUy1hSzFZek1RNkx2Q19oWkgtWi1zeVZz?oc=5",
    "fecha": "2026-11-14T21:46",
-   "equipo": "Las Palmas",
-   "tipos": []
-  },
-  {
-   "titulo": "Watch Real Oviedo - Girona FC Live Stream Online | DAZN ES",
-   "fuente": "DAZN",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXFZWkM4TnlSVXc5QWpkMUZkSzBlOVVqanhDeWJNUkRYWGd5ZmlLMzBDd0Y2ZjdYemU3TzdCUXNCNXRUUmFCaEk3QzFWTk5UNWE5Mnp4WVF0aXZBY0xJWE1rME5vRGFNVWRpYlRROE9jSnRSSF82dDJwbHMxQmxkcG55cXhsTG1lUU1kMA?oc=5",
-   "fecha": "2026-11-14T21:00",
-   "equipo": "Las Palmas",
+   "equipo": "Granada CF",
    "tipos": []
   },
   {
@@ -155,6 +157,14 @@
    "fuente": "VAVEL.com",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM1ZRV1BHSW1KdmFGWmtuYnNJa1lneTEySE5vSzE4NmRGck5sdGNIdU1kVEZTaWZNMVN5YnprMm1yRmhTMXZYZ0ZlUHZIa05BbkZvVXpHNENZR3F6akd2VTdjUUlZLXFNeTByc0NjQW1JTjA3eDdUVVhVS3ZnMkN4aXkxbkYybmR5bEV4ampQeGxwYlptbjBuTElGN3BBSGlnZlV6R09HNjh5U3FhbFVmTm5mSnZoT2szSTJ2NWdWdEo2WHk0a3N3dDRrS25vTnVXa2pNdEVQcGYwTkZ1ZEVIYXpYYjZzanc5OF9yWEdsY3c2U3U5c1pGSg?oc=5",
    "fecha": "2026-11-14T17:27",
+   "equipo": "Granada CF",
+   "tipos": []
+  },
+  {
+   "titulo": "Víctor Moreno, #TanNuestro",
+   "fuente": "CD Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aFlzMU1jRGJmT2NQZUVtMGtOcklMTFhFLWREa2tPM3R3WVM3OUJZUVhhLUhhejN6N1lBMDNBWTU1anBldW9jU2dkNmc3X1FQWVBTU1Z3b2dHNzBVWUVEM2V0Tl9zWUVvc3ptanQwSHFpT3NnSlhLNHBB?oc=5",
+   "fecha": "2026-11-14T14:20",
    "equipo": "Granada CF",
    "tipos": []
   },
@@ -199,14 +209,6 @@
    "fuente": "Real Valladolid CF",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQzUxR0lHVEtDSVlQdXpoOW5OUEs4UUpfbkJtQkdZZUU0VzV0VTFISndRN0FtV1VDMF9OU1ZqdlBfUnRmUHN5bkprTFhWeXdvUW5STlVLMk9YaWVGdm5MZ1dob2wtWEpETC1xeXRpQWVLQQ?oc=5",
    "fecha": "2026-11-15T10:52",
-   "equipo": "Albacete",
-   "tipos": []
-  },
-  {
-   "titulo": "Los caminos que unen Albacete y Vigo",
-   "fuente": "MARCA",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWF6OWU0RHU5Q3hKVTlwdXRPZV81OUhrQy1LeDJ1V3daZHF6UEFjOEluMnRhS1FRZ2Q4LUhvSVR2TGE3S1UwRGZRTWVlSFFHdmk1YTVRMFFGVTlpdER0R3VLaHdjaDI4VnhMakRUQ0JzbFdKVEFhSTQ4RE85TFA3WWFyU2VSTmfSAYcBQVVfeXFMT2R3X2RWbFNGMWZBXy11QmhEZWVsRXJLX2FERXFjamdjeDhQMjhpdW1ud0d4eVlRN1FFQWwzVmtYemRKVHMtbG1OaUJ6cVBZOGVpYWVZd0hER1pleHFfbFZmZ0ZYdnhYVkJhS0JSSTFUMVNvTTV2Rmh2bHVIM2tCN1BDN2Y5bENn?oc=5",
-   "fecha": "2026-11-15T07:00",
    "equipo": "Albacete",
    "tipos": []
   },
@@ -271,14 +273,6 @@
    "fuente": "Albacete Balompie",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEoybFUzUl9hWjVRSVM4cjlaX3RiTEVLWERlSFpJYkIzNnVITXJHZlU0dHdPMTVXRFBRcElNUTdYdUhaS0FFcFVITjNadnplNmQ2ZU9aNV91WGZxcDFFQ0RaX01MTWpXZDl4aU5JNEVjVW5MVURxQ1VGVUUxRWlRN3R3VkVyako3U3R4cXBDRUEtUFdNZXZhb280Q0xXTVRkUktj?oc=5",
    "fecha": "2026-11-14T10:13",
-   "equipo": "Albacete",
-   "tipos": []
-  },
-  {
-   "titulo": "Burgos CF | Web Oficial",
-   "fuente": "Burgos CF",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5TOWxic2dBSjMtNjhmTlc4YTR1bUNLWko0Y1dJeFpqU0xLLVZqRE9HSFZCTVpzWW83ZDBfZw?oc=5",
-   "fecha": "2026-11-14T03:49",
    "equipo": "Albacete",
    "tipos": []
   }
@@ -403,14 +397,6 @@
    "fecha": "2026-11-14T07:05",
    "equipo": "Serbia",
    "tipos": []
-  },
-  {
-   "titulo": "Brajan Gruda recibe elogios tras debutar con gol ante Serbia",
-   "fuente": "Fútbol Centroamérica",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHZNRHkzakd0ZlR4emtyaVAzcmdRQ0dRNkcyM0cxMW12VzdLb0FjczE4dDRIdE5hdWZVWHBBSnJscWozVk5tLWV6TFdRbXFHSE13UjFGeThNeGNWcHo1aUN4SGNibEVEWFp2d1NCV1hJNjVsRmpySTBweFVROEM3MHBMeW5mcU1WNEVVOU5CZ1o5T1hBekhrUFJPVm1sX01xdWNXdldoaVlNOVprbzdkTllOclk?oc=5",
-   "fecha": "2026-11-14T03:02",
-   "equipo": "Serbia",
-   "tipos": []
   }
  ],
  "1570023": [
@@ -455,6 +441,54 @@
    ]
   },
   {
+   "titulo": "Imposible no emocionarse: Nacho Gil contiene las lágrimas al celebrar el primer gol del Tenerife sin De Miguel",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPclhZZzNnQlQ3alFaQnpGNTVMbGlDRWJCTkJ5RjB6a2VSR20xX1NiSWdiRWFhSHdMUGlHOElBc0pEaGUzdmxUNTVJcjB3Y1NWcEJ0SEhzWHJSRTFDMGhYbkxkMFJlSGxxcFpHdXQ2YlVsdzdBTjNJSGhxUklNVkZuQ21TMkhGckpSbHZRNTByTk5GeHJrZ0o2SFZhM2VFT09MREc3TWhLTnJGYlprY0FsU1N5M19RMGxZcWdqZGhzXzlnRk1jTkRjQU1SYW1vaTQ0N0czcnV1aS00Szd4QWZfa0F4Q19HUDRXVV8tVTMtNlNJUdIB_wFBVV95cUxNdUV2cDIxRUZtS1o3b0trWWVqblA4RW0yb0NyMG02anVQaFhYQ0xzdHBCRGJTZ0VWRE5pR1BCTUFpYk9NYThROUM2RndkbURPbEdRdVY3SFVNOUttSEZqOUhZLTM3MzZJaXJ5RTdSb0ktakVOYWJxcE9tdExRTUtrTm1MVHB1dnFiSDA2NUsxVG9ucGxFdUpHcmZPN3NUTVBodHZyZExjeFhBSFJMeE53UWYxTXhwUWFDTDczVzhoYlNvX1ctd1RDeVppaXM3cU5UaFNEZFBzdlF2WUF6X0NJMG0tY3NQM3RCSGNBT0R0LWl1NnUyVWVsNWhWZ01URFE?oc=5",
+   "fecha": "2026-11-15T15:39",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
+   "titulo": "El Tenerife protagoniza un emotivo homenaje al fallecido Jesús de Miguel en su regreso al Heliodoro",
+   "fuente": "Noticias de Gipuzkoa",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHdwT3ktdkJxYU5SNnRUdWRibjU3SVdoZml1SjdnMzZIQUJ2SGNISDhzM2xxZ3ZmRkZmOU10WEVDWjd3Mk5WM1NleHZFWW5ESnA1Q01pbi1Ha1o4YUNOdHZEOTh6WUlueVl5LVlZSVgtQVJpODZlUENSMnJJWng2RzJXM1VWSFN6MER3b2wyN1ZQcng3TUJ1djM4NjIzZ3gtZmhJU04wVkhHY2xRbWZwanNTV0ZjelBIWHVYaTZqS3UzcjlUdmxWTllR0gHPAUFVX3lxTFBSVlVHZEdKSzFsamZKdTZtX1hneEpyb1NpbWMyUi1oZXRvV2NLWTV5cE5pSW9tUGdIRnZBRm9wMnZtajd0WFF2MTNyZjBvYzZDU05MdE03ZWxtdGFicHhBcmhEQXd4SmVhV2tvcHozZW1rd2NQMzZQNFl5cWl4MVNJRHFPN2ZXVVJHR1JsWnZXbmZEeW1WN3FyRHJqTG9QSl9SM0lMd0Jra05ZT1RYMzNLeGJLdU1vTkREaTZ6eC1meENqd2VCSW95Y3ZiNnZuTQ?oc=5",
+   "fecha": "2026-11-15T15:27",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
+   "titulo": "Tenerife volvió a jugar tras la muerte de Jesús de Miguel: homenajes, emoción y un gol con dedicatoria especial",
+   "fuente": "TyC Sports",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaXhzTThfaURmRzFjaUtuOHp4WGFqUTQ1YmxxYXljbHFFNnFZQXJTWEFobEFXZGo2M2tObWFTU2ZRaTJpQ2ZuMl91VlcwVEx5UUFQazdGZ1hDMTF2eXgtMS0yWi01a2I0dmEwUV9WMEJIX2tXN085ODRXUzBoaGFEa1FPNGZOZm5wYU5sUll2M1JZWEs1bDIzSXlmbTNtWEhkd21mNDV1UndVMzF4RUV4TGJQUVlsUUQxN2hLWnRnWkk3QmFreVhxUVFEY0dnRjVTOHJOVzRTNkMxNjVOZDE5MndXNHdWcndEeGN1QnpKd3BzMTh6eExz?oc=5",
+   "fecha": "2026-11-15T15:21",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
+   "titulo": "Emocionante homenaje del Heliodoro a Jesús de Miguel en la vuelta al fútbol del Tenerife",
+   "fuente": "Superdeporte",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmMwY1lvdUFlZWoxaWhxOElEUktWbVVrR2RnbXNpekkwODlvcTJDWjZRTkNJSkJQZXg0VnlaSWc4aHFmSmhLUG12VUlmQUY3Qlh4Q2EyZEZGdHBOdGJaMGxEVXZPNlNhaXgwVWFmTjZXY080N1RvMENvQWMxN0JhQmpCT25PV3lmUHdGeWJBT0dDQ01vZUNfRGxpTGFlVFFZYnpBTGVkWdIBrAFBVV95cUxPRjQzU0NjYWFfOW82OTJ1SHd4OGdONEpUVkRGSGlkU01WR3Bac04xMi16aV9kRVNmci1EZ0NaWGx2eUx2Z0VFQnFaeWZxbVNPejRFNjJPQnRJaTQ0LXVsYm52MkdjNUhKcWJtcV9OSWZsR0hwMW11c1dveWRJNE5NaEVxeWNzY1NJblMtZG14a2FIN2NFb0VnWkF3SU9oUTNSa2tIMjFERkktWHdj?oc=5",
+   "fecha": "2026-11-15T15:03",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
+   "titulo": "Las imágenes del homenaje a Jesús de Miguel en el Tenerife-Ceuta",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUpITXlsbjBxcE10Y21jdHVTeGl6eWZLWDlWREJaNk5aaE9lRm1uSDlVOV92LTlQZ2NjV1VVbU54WnMzUE9TN2xvdzhncjR5SklMYk1ocGZhLUpZVWh5RmZQQ05HRDlhYzQ4ZlJhbDIxbGR6TGpFTmxKMDdTbC1Ib2VTVTRMZmlRazAtYkpjTlpHV2hNZFl2anR4VWlBRFB3eVdFajhudzB5bHZrNHc?oc=5",
+   "fecha": "2026-11-15T15:01",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
+   "titulo": "La celebración más emocionante: las lágrimas de Nacho Gil tras el primer gol del CD Tenerife sin Jesús de Miguel",
+   "fuente": "Cadena SER",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaWJfM0s3X21pMGdwbTBraE9pWWs0OHpycWdGUzVpY1dlM0lDR0hub1Z0YVN2aHJWUE9yOUF6cjNrWHIyU0ctUkFpYXZiUXhla3BVR1BKQTVRek1kSTJMaUFadktoODhMTDNHdG9md2ZmUU5ESXRDUDlxeDhGRVNBQjFETzZpckhoU2hxQ0N3ZWg0eGdWWTYtX3hpWGxuVWdwbVJoRWNvTEEyZTROdnJGdkR5VEtjOGhlcVpHLThwbE55cGlMX2V4a1NTcGtzb3J5RkE5d21XUzZ0SkNqUm1BbVRUUjc4VUVmUjQ0NW9mUUdUNmZodkQ1VzNXR1drcDY5aUpHNdIBmAJBVV95cUxNS1d2TXZteHhWNC10bzRlUlpGcjl3UEdWOHRVYkNnbmNYVDBSVFBOaXJLU01MMUhtdjFybGs0anNfOWlTbHZxTVBoUklTTHFJcEpaMHl5TzRJTExuRmJJYjdKVlY2NTZlZ0dOaWpBZGk1T0RNNExXM3R4WG9hZ2o3SUNmSlVvVHlVZ3Jya2t2TWhicVoxY1F0X0Q1NUFreFpJdmI3YUlJVFA0MzBpZ2ZlcXF6TWt1OGtBcTNwS0xjRFUyaTk0Z2FsQWt6WVRCQUV0cmQ5YkVuSW1HWEs0Y3VLWS1DQldWQjlLSU0zTko0YnlobmNHVC1jSTJGMTFNNWZ5UUxvVk9jZ3UyLUZUSlZsM1Z2a216SXBu?oc=5",
+   "fecha": "2026-11-15T14:50",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
    "titulo": "El Tenerife da un último y emotivo adiós a De Miguel en el partido contra el Ceuta",
    "fuente": "La Vanguardia",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdVp6UGpxVzVjZkpRSWc2Qk14VFY3T2xWdTlHR3p1WUNqY2gtM3hkTGRNWVpqSjBZQndXWUdqbnZPdWFJVjNQaUkyVDhFc2tqZVdDbFJrOUpiZzNHMHMwRkp6M3JRX2J6TzBTaUFyY00tTm9QSEtzaDdxZHZHMG9ick9kZHFiVU1UdmZsZHlTblEwazA1aHZPTjhhd242SjZyREtnM2hxZ0R1anlTV3I1UHpTa1ljdC1XSWdKLWRn0gHDAUFVX3lxTE5wN1VZbXAydkxieUh3V3hqS05tNnJHYkNjczB2bFg4NEFJY2MzOTJUeThRSGZmMFo4bl9aTEFpeGVOeXZIRVhQRldZaC02U2htREdJMWlpZVRzLWQtSzBWM25DaVp2UWt0Q2FZVWVnOVdPdlNRUU5hTjBTRzFIUmlaeUFfbUpxR3I5YUJzdUtod1VzanlXdjdiaGRnQno2UmIxblA2cGNDUjFFSEVzYXVQLUZHV05NT0R2bDI2U0RocUtVbw?oc=5",
@@ -463,58 +497,10 @@
    "tipos": []
   },
   {
-   "titulo": "Así ha sido el emotivo homenaje a Jesús de Miguel en el primer partido del Tenerife en casa tras su fallecimiento",
-   "fuente": "Cadena SER",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOEs2NXZZcUF4N1VFWXJBSVViWTFkS3diTGRMclJGZU1GV19LM3JkVk5sYzAwc0Q4WlhtZWNEa3VKSDAzWXJIYWxOQXA3U3ZzelhZa211dGFlRG00b3hjY0M0aENtR19Xb0ZKMDR6UmlRbHJGbnNYbFJIUVRPTkRibDBoN2VZS0Vra1F5ZDBJdjdfc0dJaWUzM0hucWVqQ0loQ1FIRFlDcE9Qc0RwN3pBenYyS3d0VkFFeGl2NjNNSjYxY2RjeHNoMW1BVHJ2WVM5X1NsUWVvVGd0eDZfNUJOWFFjV2o1ZU9BUmtDTzNEMlJrU0M2V3pEV1pia9IBjwJBVV95cUxQMnJCSnRROVA5em9QMGdQb3lMXzB3aEQ2bkNvOU5TODV5MHJhaXpZZEFvU3hBSHNIa0hpUnR2UzF6Ul9SME53SU1HbDlnOTdMeXZaN3ZiSVBZckhDRG5wVTFxYlJmeFoxMTdfaVRmZnhNTEZRQ3dvZlprbEFWVzZrNW4tUGJJdWRkR0wyc3pBVXRERHExb0xuSlVBM1c1LUdmR0xYSG00VkpqdkVsbThIMU5kYkEzNXZtZUMyOGtzVlJZYmViSVdHZXRRXzdZQVFIZnNNREVGbnNvOW9WaU1pMms5czRWYjFQYWN0RFgyR2x5Ty1LWG5RQ2c3U1hDbGx0SEVjYVNKWEZ6N3hRcUdV?oc=5",
-   "fecha": "2026-11-15T14:27",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "De Miguel, un 9 eterno para el Heliodoro",
-   "fuente": "MARCA",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdk9ERUhYSGJXWVRiRXR5eUw3Z2dQVV96MGFRd0NZM3ItdzRIRF9BRHQtNURzS3p4RzlFZkdoWmdGNC1mNWdiVzJ6V0pOdU5FcU14a1NSS2VDdnEtb1RoZnM0SzI0MzJEZzM0bUpNRVBpa0htY2t1ZmJDR0VrdHFaQlVpZU9Ld9IBhgFBVV95cUxQR2otWkVCemYtZFJtV3lTaGdqR2RrZ0VhSVR6T3hDVDVmN3RudW04RW1EX0FURnRqNVdrTmx0OEkxclhkUjdWcFAxZmxVMWtka2RPaHZXdGdxX0FMLVBtREdjNlpXblhOd1FCRnNmWnJzYnVRMER5V3cteFR0Z3B1SVhYUXJUUQ?oc=5",
-   "fecha": "2026-11-15T14:23",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "Ramo de flores en el centro del campo, minuto de silencio y ovación cerrada: el Tenerife no olvida a De Miguel",
-   "fuente": "El Debate",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNFB6WnVpbDdzM1dUZk5jVW03aWJyeUp3cUczcDdKdVhzYmZYVDFqR3czSEVhVEFIdkthTm9qV0YzU0U2cEI1bWt5TXBYOFFKSjVLeHRlSER0aHNyb1FEeldMVEd3aS1OZ1RXUEJkMFNBejd2V3lQT2tVeUx2OEhYNGtBajNXai15RVhSMFJfVnFUcmJoQWRZZTN0Ymd2ZFViaEJXdlV6NWVlaUxob0JockxINEgyWkloLWotSHRqaVItMEFEUVpaZEpTNUNZczYtek14WGFoYjZvZlVvb2YzSlhLTWZNSUXSAewBQVVfeXFMTWlqUUwtWjB2OFFhb3hrRHl5LUktRlplSFBSWVBiTnpvS3Zjbl9HSkdIckdpYnhSMjF5RVRUTjE2ZVozZ3B3R19HMlpMc2lXR3MyRmFoRkVVemp6aGJQMF90bUNSbENNU08xU2paemFPTmZDeHBwTU03d2NHVXowdHZNaW5uVXJ6aEhGb2tLZ0dkcV9uYVdSb2VPYmgyVDN6Y0xVMUdrNEI4REpQUEpSUkhERXZ6ZkFiWHl0bnZMNXU3ckRKTWFvcDRwa2w1OUE3SkxULWlwdnBCTUhkZlFlOVhNYXNKcjRCb3VQajI?oc=5",
-   "fecha": "2026-11-15T14:18",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "Conmovedor homenaje a Jesús de Miguel en la vuelta a la acción del Tenerife tras la tragedia",
-   "fuente": "El Correo",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWJkaFppV2RJc3JZQlh3akE3VWlQdXA1MnRrWWR3RlJ4T09rTFZrenBGUGkyUGRQOUNzLUhRdmJPZ3k1UFVXZF9TWkVZd3gyMnlLcXp4Tnpocnc4ZGtNclVkam5HQkl0REhpRThjVExhQXI1bE9BQmhsTmVyeXJTbnkzMUZvZzFSNzFwWnJHNEU1TUpWYVpWWmtQSkl1N0Z3eVZiREFYaDVpR3RQVGlhLVh5MFR1eWlHdXE3bUpSQTM2RWx2UnNoVDhTd19KTWvSAdQBQVVfeXFMTXVVTHhmNU1aT1VnLWhyNHVwa2ROZ0ZCRE5LaFdweW9qa3Jkb0hMSHJHT2hSdGM0cTVjem1nNE9OS3NBWFRyNlhYT08wSmM1N1lqTU5zT3hVSnJxWnFuTHRYZVFyczkya2w3VDYwYnNNUmlwQ2thbFdXaFp2a2gteEIwMjlkd0tMcXN6MlRZREptd2JWX0s3VzNlbEwtSHRPRkludDNCODMtZG8zNmtRazBGMk9HVUt5WlRuazNHd2stTGFYY01QMlhPLU5oMWg5S0ZBR28?oc=5",
-   "fecha": "2026-11-15T14:09",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "Emotivo e inolvidable homenaje a Jesús de Miguel en Tenerife – Ceuta",
-   "fuente": "Vermouth Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTVuS2ZOSktIU1hhRGYzTmRIYjlVbi1tZlh5VU5CNVgyYlVZcWRoZjhEXzR4ekdUMW9aVVUxZm5UR1JLbDZXQXlFdDFTMlRFU1NLUVZrbS1CLWVmUGdKOF9WYlYtZEdNSEk5TzhDQnpoSWRXc1ZKRE5lS0ROeDV5OVYtVk1SZ0hQZjZ2RWxrNlJWcmJhSTZCd2tqQmxlN2Q5QkpTd19fVlE?oc=5",
-   "fecha": "2026-11-15T14:00",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "El durísimo primer día sin Demi",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pUll4UjU0ZWxkVlNNNGlJLVJBVGhPb2doWmJRaVVuRDFGU2NaZU5WNTdJM2hUQWJzd1Bia0NqNzNKMXBSZFpKbkl4NXpxSFlIOE5PSmt2ZVF0NkRmdm93ekVnN2Mtbi1EZzdjMXB0MmbSAYQBQVVfeXFMTlpMNWJsUFpseFM0UTlSdW44SXNGcDdqSnZ3anZkdk52eTVkTmZqZ2lBN3lDN2FIMVBhYlpZMnpFNlg2VnFSMk5QeldYVmJXWno1T19EYVhzR1NBME9Uc2RmY2lQRHRiek42YjB0VW5wWV9waEhQMmNpWlRwVDhnZGd0V3lK?oc=5",
-   "fecha": "2026-11-15T14:00",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "El primer once de Sergio Lobera: alineaciones confirmadas para el Tenerife – Ceuta",
-   "fuente": "Ceuta Televisión",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFdKMFZ0TU05Wm8zM213QV9LNlpqRjFQaUhwdG9WSWdlYS03ekFyajZTWEkyX0JfYWp0S1pfNjlZc0hVejV1VWVFaXdKVjI5QzBmeFUzWmp5WTdleDdZRXJfZy11RkRpZmsyYk9ZZEF5dTcwLXptNFE2T0p2ZTZnTjJNZER5Vl9wdnNQcFRiVlVtbmF0QVcwdWdMUXdVZzRBQjRGeTdIaVN2dW1RWHZZWEdwbVkzRWMtd000XzNkNnhqalpjWkHSAcsBQVVfeXFMT2dhVTNKV0l2RFhycEN6UFlldTc5bE1GWk4wQVdMVnlFTGZqUGRPZXh1LXVabFd2ekl0NGhSRnFJdGlpQkdRc1hCcGFweEFpY1NLMm1sWUgwa3RVdUdSeTgxM2VnSzdJeGRkVFpqd1VzYWVWRW9wcXFjdDhxVVZod19SLVNQNHlrQmdZV1JiRWRGb1h4VkI1b3ZSUzhCeUZKZ0xlN1QzTTNRSkZValhabG9KTHk3X1dvYlVlR1NvUHA2X3lBcWMwS3hWWE0?oc=5",
-   "fecha": "2026-11-15T13:00",
+   "titulo": "Emotivo homenaje del Heliodoro a Jesús de Miguel en el primer partido del Tenerife tras su trágica muerte",
+   "fuente": "20Minutos",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NuWEJoSUxSNkphNWJOMHk1QjV5a3NzZ21pR296Q2RFZHdzNGR3NmpiTnF6aEJyWTFxTHNNdEQ0UTdTN09hRGpub0s0TmE1Vm50ejZmVG12VW9uOVd2NVdPUlJnbXhLaVZNN0txbUFpckZXM0d6dWt1Qzd4cUpXQW50NDRtdkRuQURVU0pzd1F4TFZnbVlWZEZYTE5ENWxIbXNXSlV4VjlIQm5sTEtvekxzd0NjSXVfZ2o0dlN2SkVpYk5tZU1xMFl1QkFLOFJQZTNfRzc0NFkxdw?oc=5",
+   "fecha": "2026-11-15T14:36",
    "equipo": "Tenerife",
    "tipos": []
   },
@@ -617,7 +603,7 @@
    "fuente": "OkDiario",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWdwNG5qenNybzdlZVprMGtBbV94QlpFdnZkYUhfZzJhNFhyWS11OFhDbHZtY2xIdW1IMm4zZHF0bmJBNGVnLVVHSGgtNVNaT1N6UUUtVUVvWUN1eC1pVlMwVTJmeWE3VVk1alpZTVE4aHNLZ181ZXQtZ2x4RE5wN0xLXzB6V1pZdHJDRWRqMGtHemVsOW5hN3otSWpmUlN3TlHSAacBQVVfeXFMTTRSUWFlbWpoZ0tSNUcyV0t2c0VYSmlnLXJzVTYwQnJtSVhmOUZOb0lJMTdGRElXRUx1U0VlZlQtd1FTUTQ3M1ZxeWJrTVM4VEFWaTFma3FELW4wX3l2Y3lXXzVoX2lRcVM0Sm5qSlZETlJWMFFoaHU3TWdFcFBuZS1YN3pQbTVlX3ZjbnA1MjEzTXJJczllaDUxQlU2YmppdVF0V1kxdXM?oc=5",
    "fecha": "2026-11-14T21:33",
-   "equipo": "England",
+   "equipo": "Spain",
    "tipos": [
     "baja"
    ]
@@ -631,6 +617,30 @@
    "tipos": [
     "campo"
    ]
+  },
+  {
+   "titulo": "Almeida eleva el pulso por la final del Mundial: «Es insultar a España si la final se juega en Marruecos»",
+   "fuente": "OkDiario",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2RWaXVfUUZZN1lhQTdyaWhxZ1FGUERtdGVGVWNiZXZfNl9FLVI4MUhPVWJUbDZKSGhVbXh3Z29oVWtqdXVuRE54dW9KWVNRZlF1d3pRS3V5T2NrNVQ0b2NPRnJvelJWR01XMWlNYkp2YXJ0UlltemxjTlUwbEU2UTlULWxzRjNyT2wtdkdNdndVUjFvUy1RQmE2RDZfMU1hN2pwalJzSmlzdE5qd2kzR3FsUTM0WVI30gG-AUFVX3lxTE5yTFRnWm9GbUthUUUwTTVBTHRqLUw1dklmeXRoYlhfWXpwMk44Q3hqZE42aVFIaGNGeDZGUmM3MlZHSVBnWGxrOU16VkVSNEQ1d3FmTE1CQ015akpHMHRuM1FKWjh2dzlNT3ZaN1ExdGhLQnBlRUs4UXJYalgwRTFhNENsOGQ0am9qRS1RYkZyX1JEelo3dHlwekR4Tld5Sk1BLUxnbklCdVNBV1pnOFpZdm4xdkdMMEsxcW54UXc?oc=5",
+   "fecha": "2026-11-15T15:22",
+   "equipo": "Spain",
+   "tipos": []
+  },
+  {
+   "titulo": "Jude Bellingham, 23 años: \"Todo lo que hacía con mi hermano Jobe acababa en lágrimas. Fuera Monopoly, fútbol o críquet\"",
+   "fuente": "El Español",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdmppblkwMHBLTGZGbFdvRW81ZDcyLUhvR2p4R1dmNVdzZjN2UmhIT3NZZ292UVlQWFNSU29SWnktNHlHNUZDQWctaG8ydHptaWg5OU1UMFVpbVI2empvM3daNm1OZ3RSVG5MU3VVVmpRUWtQQ2xMemFVWmtRYWs4ZnVlWk5maVRWVUJEMEFIVVV2cFhGOE1QNU9SeU9weEdVc1l5Mk5tVmxZZlUxMGlFZlJWOFRZX1RJTGRWWmpjd3dXcl9Cb1B6TmlKOTUxYXQ0NjdpaEJoTnU5YUxIT2xCWGphd9IB6AFBVV95cUxNM0E4NnlhUHpBbVFTVHVSRDlSeWpMNmVRQlcwMmpmYmg3ZGF5dEJKNENROHFkczlGTU9JY0lvVUVzNy1GdXFUdkk1NVdpMzhUbmV6RFNqd2Y5ZzJpR1NGMm5CTjF6dnZZM3dObl9EalEwdWpod2Z6S3l5ZEJ2WWwwQnN0QWRTZFY1R29XRTZMU3hjeUpOdlNjcnI0N1hZTlpaWUJjb2FVSHNnSWFLLWtleHF6VzR6b3N0M3FJdWRFSGE4ekhaUmM0R0ZjLVM4OVUwXzdoeXdRYkRHZnVXUkc1LUxRRlV5NFp3?oc=5",
+   "fecha": "2026-11-15T15:00",
+   "equipo": "England",
+   "tipos": []
+  },
+  {
+   "titulo": "Díaz Ayuso en la exposición Reyes del mundo que revive la victoria de España en el Mundial de Fútbol: “Desde del deporte base a los grandes eventos, todos tienen sitio en Madrid”",
+   "fuente": "Comunidad de Madrid |",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV2d4OTg1Yk0zZ1VTaTdSY3l0RDUtUmMzWE93TGhhcU9qUG1YTkVwaUtFZy04c0hBRTd4YkF4LTJPUVdSNFJWdUdnYV94M016LXM0ODJZX0FBbGZBTGtya1lJeVBQMGg2VmNQc0k4OXE4Zm01dTBZc1liN1AwQjV3a2h6S0J1QXRjSTJGZEdyaVU2VnNIcG9tUmg3UHpMSGpTYWtQMU5LcTBGSzlnQlFUUm9UVVFBWXdSd3JzMzBsZVRNNGFKQzdaemR3MHdQN1NSYnduWHIta2NuZ0JLenVJLWxhWkROUGVyZEJPcFhQdUlZZTl6dXVLTzhiNk5OZl9XcVRaX1R3?oc=5",
+   "fecha": "2026-11-15T14:40",
+   "equipo": "Spain",
+   "tipos": []
   },
   {
    "titulo": "La sombra del racismo vuelve a sacudir al fútbol español antes del España-Inglaterra",
@@ -657,6 +667,14 @@
    "tipos": []
   },
   {
+   "titulo": "Dónde y a qué hora ver a España vs. Inglaterra en TV y streaming",
+   "fuente": "La Tercera",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHJSc1dpUW1fLV9Jc1FkWHAwODZxTGJJaHFDaGw3R3NtY3VKX1FJYU9RbXJzSlVoVmxNVkFTblprS3ZtbzRjWjU1d2twaFM1YTRHZ2V2UTZUb2txVXJiUGRDekFZUXFleXh2UVdDSWZOMnF3RVJiQkszT0lrc0ZRODVsZmlnRlBHcFpFczNTTXdFelU3QjJtMy1XVHJWa0pWWmNfS3FMWGdNa2F30gHOAUFVX3lxTE9IY2x4czdITWh4OXAxTERQRmsxREk0cG9YNkt1bk1WOGRlajJ5MzQ2MHNmTGFVRHpVdC1KYVMwTjYwdm1RQ3VYdDRMeGZLQng2bTdEcGJBRGw4YTY4NGl3UVdYOUN3dTZqcmhsanBEZXdBX1NzLXdRbWw4aENVWF82X3lLSWVSTF9tQmlvWF9KbzlSOWh3d1BQMFMtaG9panBLTElQV1c2N2dXZUV4NGM4bXpmSHNJVGR2LWVfMjN2LWhZX0x3SUEzT25jOXRB?oc=5",
+   "fecha": "2026-11-15T13:00",
+   "equipo": "England",
+   "tipos": []
+  },
+  {
    "titulo": "De Zarra a Oyarzabal: los partidos que han marcado la historia de España contra Inglaterra",
    "fuente": "Cadena SER",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTUycXFKRE5SbzZkeEp4eFo5ZHFtMFFualBZSFZibkhRd3NURW1xamZyWFF5T2NTRDRWNThHS191bmJ3dlVwbUV0VWhqQzlNdTNUc1RDOGROdnphd2dOQWZwV0lIb05qNUlWeURRbDJ3WGZEZUpRMFRmT1FOYWY1S29kNVJvWkZMNmtCd2tZVXNPQ01LQjZyM01FVVFGa05hdTk2ZkJROU1XQkxkX2ZwaW0wdklwQjZqYmI0M1ZlQVYwd0VNeGRXbUNmRnBuQ3BCbmQycUFWWVB1ZHPSAe8BQVVfeXFMUGFBYnY5UVhCa0hDREd5Rmc2U3FSa1ZWZkd0NWRqT3NVSWh4MU1wLUdnMkVzd1Y1U2lOWFlvVENSUXJtaGVxVjhfcU5mWWJfUk54RS1UNnVKWTNxcmVtOEhmRFlvc284MUtINkI3eGwyUWtCdFpqUWp5cWI3R2dtNXBXTGY5MGtQZHY3SktVZzB4LVc3RkpLM1ZWZms3RVBhY3d6YmVEU0Vha2EzQWZXVEJadzR5d29LLTFNeXBaRjRHcFFGVVp1ZW9OeGlnN0pNcERuY3NWZGYtbzNkTVNPQkpadXQ1TXdzVjExNTVhM1k?oc=5",
@@ -669,14 +687,6 @@
    "fuente": "Canal Sur",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlF6V3NuRm9kTFU2bXhhbGNuRW5vcy1YR3RQMHZHZXlkQ2NZR1NkdU5xMF9JZHU5S1Jrd0F3Zmhsb0tGQ3FTdExOZURFVlRnSE9GZ3JlNXBNaFZzTlZjTUFRMGxEUi1rdHhISGtFdzNBYnpPWFJXTVJwckV5ZHFQZ0VmemlPZWdxZC04dVd5Ym42dw?oc=5",
    "fecha": "2026-11-15T12:49",
-   "equipo": "Spain",
-   "tipos": []
-  },
-  {
-   "titulo": "Alineación posible de España hoy contra Inglaterra en la Nations League: ¿Fabián o Pedri?",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWY4dTVqSEhUZF90ZV82QnRSZGt4aEVGNm9FUGF3LXAtTHRiWlNCOHhxSVJldllTZGZiWDQzTWpaNGNqSFQ1X2NEbHJVVmlGMGZTMUJJZ1RjLXFSYjQ5ZElNc2RaTzJrZVhiUXl0bUMyejhydHFidGxBbXJoVnN2QV9Mb3RjdnAwenYzeVJiNXhndEdxdVBrWVpDTm04Ymw3dnRhbTRWM2h4NlpFcGdnOEhjRllMeWtDdGdFUXg3WlJVY2Y5dUEwZ9IB3AFBVV95cUxOSWpvbGZjdHRlMGl2M1lreFJyWUE2Q2Q1Mnh1ZVJLd1hTQmhTbTd4Mml0dnJrb3NaQ1lXMExVeDF0cHNoX29icHZMUXFlalV2ZnFGWjdGOWpodTlpNXU1UlVMWUctRnhyamd1em41STlibV84bDdQMGRzRkRHcmt5XzhQT3ItT2ZCeFZyYy1KcEhFMFg1MVNaazJXZGVqNHRXbGo1Q3RLckh3czR5VjRTX014clY0NkdyRE1BNVc2SjRDMElZZGhEV1J6WHNZM1A3MGkwNFBDY3haSkNW?oc=5",
-   "fecha": "2026-11-15T12:30",
    "equipo": "Spain",
    "tipos": []
   },
@@ -705,26 +715,18 @@
    "tipos": []
   },
   {
-   "titulo": "Liga Endesa | acb.com",
-   "fuente": "ACB",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBOZ05CaVU2R3E0d253QW9waWdKaDctMEgySkZYdVM1TnBGblZJT21TSV9LSEJ4cWt6M3BV?oc=5",
-   "fecha": "2026-11-15T11:41",
-   "equipo": "Spain",
-   "tipos": []
-  },
-  {
-   "titulo": "Lamine Yamal será el dorsal '10' de España ante Inglaterra",
-   "fuente": "La Vanguardia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDdYUlUxajlIeE1VMmptU3JxdFBYRmtsa0lBM29peDZSdHlYcTBtRTR2Yy1GclBxTFh3bTlwX0Z4VkdHWlhDaHN2d0lmZE1HM0xVQjl1N2dBSDlrQ0piellENmxua21rU2pBMzdOaDBnTkpId1RfdHB4S1lOY05Gc1J1bUM3elR5aThIaWdMN0sta0ZzNGkxOTQ5b0dCcWJTODVHV0pHa2RBb0lRaEI1ZjBXTWpjbzBZZlHSAb8BQVVfeXFMUDNGY0UwUlFfenV3NHFNb0VoSVBJUjJtRDFjOTVrRnVBOWs2MW9nN0xOLTFoVldkbE8tNzBZQk1QaVNCTlFmT3ZDZGZTMmI2d1BwY2tsV1UweG5CUVREdFpBMDJUQTVENU5kd0NLYUR3bHZXbTMtRUVUUFFNMDV3N1BvUGlaeEpQa0ZOQWNaVzI5Z0h2OGxranNWcGRmRlY2SWVpaW9mT2FBR0xkWEUxd21BbEJYNXgwbDM0bjA0VVk?oc=5",
-   "fecha": "2026-11-15T11:27",
-   "equipo": "Spain",
-   "tipos": []
-  },
-  {
    "titulo": "Cuatro descartes y nuevo dorsal para Lamine Yamal contra Inglaterra: jugará con el '10'",
    "fuente": "Mundo Deportivo",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOERmMmNES00xbURrWENKcVQtSmZiS0JZWUE4VGlEUVFMQVhCLUR0QnZPNjBVUG1iSHRMV0JtOUx0WnNaZEQzV2pabjllWjcwekI5OWE1LUtacWhqa3loMFNvS0JOeFV6SnpkU0JHWk9mbmk0TUN4RndsYjZXYTVjMDhwclp2NnJQcnNsWG8tYmY3Nk12WWVhMTNOd3JCTENjUXQtUkN5b3pHa3pmZV9vYVBEdTU2bUdUdjdIallYQTAwdmFnajVBMS1KONIB2AFBVV95cUxQQ1VEM0NBSk1FLTVod3dmZENYUmpsYzdiYzU4QWM4ZnVaZE0wSUNoTVd1VWFGZFM2S1BGOFgtNnFocVdOQV9JWXVmcmFfT1VlbXp5a215X0hhM0M5OHFEMzVlbmxNNktoaGFFdzZTU2c2bE5KOWN4cXcwRk81QzV4d2l1RmRlbVVzRFFmb0hWUFFCeEJKdlZsWjhKazhlQlR4YVdqY2xIM2hKYko3dndGRVlWM1ZYV05USVZ1SEJJUkQtamY3Vmw3VnVfVnEzWnkzWGRQZy1TZ1M?oc=5",
    "fecha": "2026-11-15T10:48",
+   "equipo": "England",
+   "tipos": []
+  },
+  {
+   "titulo": "Partidos hoy domingo 15 de noviembre: UEFA Nations League y Liguilla futbol femenil",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnZOMHFDb3BEVy1GTktxcU1ZM0JFV3VQZUx0OUdSQWpjT0VNM2VGbXVzV185MHpFU2wyN3h2WnlsbURUbHZaa3c2R1lkOUxsR3B5RTliQzJtOHBlRTFydlNWcnJteFhkSnFVMUx5TS1UTUJ0ajg1cURDYlVmLU5ZNXoyX0lBc1l0dEtNbm1BRHZ5REs1cktoajdxYUdCSk9UeEs5d25lc0x1RWUyQkswM3hpUlg?oc=5",
+   "fecha": "2026-11-15T07:18",
    "equipo": "England",
    "tipos": []
   },
@@ -743,25 +745,19 @@
    "fecha": "2026-11-15T05:30",
    "equipo": "England",
    "tipos": []
-  },
-  {
-   "titulo": "Luis de Fuente confirma que Lamine Yamal está en óptimas condiciones para jugar ante Inglaterra",
-   "fuente": "Mediotiempo",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdUhxQlRZX2ZuemRBQXJBMW1iWXp4TlpkVHpxODV6UkJ6Zm5KSld0Ry04Z2ZDelJYWGZtenRubkdWQUgyVXREUUhrMEZaV2dfS0Nfb0xrMDZBbTZZQmZBU1pZbWdpcGJCeXh3Y21Bb1ZDUlBEY0lfak5PaVR4a21vMlI4UzRSQ2J4em1fS1RmdHBtNktVRTY1eVlGUmd4SzhUbUMwNENQZi1zSXJMR0NhZUw0czhtQ2UtWDNGY3dCdWt5U3dhVzdOTW9XQmp0Xzdfb0530gHTAUFVX3lxTE9EbGxCSEQ3SFRXUWw3Umd6aXlwRkdZMzFKTHNVLS1Kd1RzQmxFWWJpYW5EbUFyZ0RjVTFsZ1liSUloRy1vWkpjeTBKaUZZY0MyTEZlN01Yd1JpV2RVSFl3azdVUDZFaHpjSTZJeHhyMm45VW9LS0JaQUloU2NCUU9CYlczVDdZcmlWZzVlcUMtX0FnVGotQmFZRV9hM2hmQk9zTEFzQW1tVkFyS0VvdWNOUUlJSzJKNWpCVnpjQ2RZSWtkbHZTZGw2RFZTdXVMWWdka00?oc=5",
-   "fecha": "2026-11-15T04:28",
-   "equipo": "England",
-   "tipos": []
-  },
-  {
-   "titulo": "Calendario de fútbol de hoy, 15 de noviembre: España vs. Inglaterra",
-   "fuente": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXdfQkRIQU00b2x2V0xETHEtVDFleE5JaXJndXl4RDhFMi1PSHJsa2IwS1M1bGhjZXhmaGpDeDdxMnF6bXppbC1KbGZQMDc4WDcySkJnQlJTSzE3Zms0SThobHQyTVh4bnFoMFZGaWt1ZjJ5ZlRaNWZZSHVNY3NRc0FDX0FFejA?oc=5",
-   "fecha": "2026-11-15T02:51",
-   "equipo": "England",
-   "tipos": []
   }
  ],
  "1545662": [
+  {
+   "titulo": "Suiza empata ante Eslovenia y asegura su ascenso",
+   "fuente": "El Heraldo de San Luis Potosí.",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2lzQUtHQk96YXNEN1M0NmNQeVdOR2Q5eWprMzlxWjJBem9uMDh5SlNpTnY3aVYyQzhZLTUwWklDZ0FmTGpJb3lrMnNnMVdPS2dpbzUtMVdLVThPMklSSFlTNmRpb05YV19DeVhIZXVqcmh5cklsT2pOQkFHSENvMkhVRkI4TllUbUhjcTdlbUtNUklwa3Yw?oc=5",
+   "fecha": "2026-11-14T04:42",
+   "equipo": "Slovenia",
+   "tipos": [
+    "motivacion"
+   ]
+  },
   {
    "titulo": "North Macedonia vs. Eslovenia, Liga de Naciones 2026: día, hora y cómo seguir online",
    "fuente": "La Nación",
@@ -910,14 +906,6 @@
    "fecha": "2026-11-15T06:02",
    "equipo": "Lithuania",
    "tipos": []
-  },
-  {
-   "titulo": "Sujeto roba una escultura de un Cristo dorado en Lituania y la rompe por accidente",
-   "fuente": "TV Azteca Puebla",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjh6dzVBUmlpQ04wNVdvQk9OSjB1VVVmdjJwU0R5QzdSWlR4Q2RyN21yTE9ZT012X28zeGxrNl96cDRuU0M2OXVIeVVmZzdTNVFsdzRCWjZmSU50Z05PZl80dDFEVTU4UDFhV1hST1hoX01ocmxidW0wemdiWFFuQ0trOVlwUGp6eUVGRWtvMjRzSkJ5ZVBHUUlZTUpEREIxR1hMZ2RlMUJRWjZnZXdlLTZWLXhUcXU1djJLYlE3WQ?oc=5",
-   "fecha": "2026-11-14T06:05",
-   "equipo": "Lithuania",
-   "tipos": []
   }
  ],
  "1528985": [
@@ -1018,6 +1006,14 @@
    ]
   },
   {
+   "titulo": "Ronaldinho prepara su regreso al fútbol profesional a los 46 años: jugará en Italia",
+   "fuente": "Telefe Córdoba",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3VMU2RnUG0zUmVyZU1SVXBmcm12ZU5HVy1ISkdHOXlyY1VJeml2UXczdjRVS21TUlBHbnR0Wl80aUZlaEFVcW1rNm5acjM2VHhiemFRdW5mR3pnVHNlOW9uVWxkRXBSbU9vX1J3SVJtVTJSVlVlNExhM3hjUWR4aVhteFRvSVlXQks2WjNpYy10YXdpWnQwYTNzOS1aT1kzQndwbmRiWTVwazNjQUI4VUNFN1hfR2JhSkNWNlVUVWFjVExMVkF6V0l4NA?oc=5",
+   "fecha": "2026-11-15T15:26",
+   "equipo": "Italy",
+   "tipos": []
+  },
+  {
    "titulo": "Ronaldinho vuelve al fútbol oficial a los 46 años con un objetivo histórico",
    "fuente": "LA17",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmhhenJIZmpwbTdiWFhzbDRSZWxlR3JCbDNXUm05dUQ0a2lLdHZKaDFIMldtQk94S2ZDSUFseWxnRmhxQVBlUGV2NUN6Mmd3aTVEbkZuLTMxLXJoQkY4aWQxcnY2VVI2MUlFMWVNcEY2UDk5YTZKWWNSWTZvcGsyUVNNMUlXRVB6MUlkMDlVNG5PRU9zaU9yR2l4Q093cE16eHZZazBjbXBpN1k3MFE?oc=5",
@@ -1098,14 +1094,6 @@
    "tipos": []
   },
   {
-   "titulo": "Ronaldinho y la jugada de fantasía que parece IA; el crack entrena para su regreso profesional en Italia (VIDEO)",
-   "fuente": "La Razón de México",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUWE2R1NRamxvU1d3V2JjemtMX1hJeDZjS3ZpZTNIc3dZMHBYNGVIc0pldDFtRnI3d3JIcmhzR1JMeERNS2VNRVlLT3c4SVRxT2NUQ3BCcTRfZVhDTnhia2tRcEZ5Z01Pdm0tQjRpTkk0Wl8zLVVnZ0E1YXlFS3VXLXVoVGRIVTdnUWNEVEprc2lSVGFLeGJ0cldTdUlpbXBZUlREREl2ZFZIWmV3TDVSX1FFSmZRVW1Kd1Fwemp1RGV4Z1FxUHpFem8wdEpCekczZTRKdjNzekZxcXVMb2lVVE5QUFZ3dzZJaHJj0gGGAkFVX3lxTE5FYVJBUk9xOUdsRUhsOGx2T2ZYZy1wYjNBcGliYTlESG9rNF9reXo3ZC12emdReGpqbTYzT1NvbU5oREZzTk5YdGE5WGdpUGkzWnRxSEthUVc1emtYTzR2Q3l4WXFyQTVtNlM1ZFBtcGZHd05oYWoxS0ZuOGkxdzNlTG1YR25EbHhRaU9lZmdpWWRRY1FDbXN5NlpicGdqbGd6OGducG1EcDF5cXNpb1l0TlE2WFF5R01kRkRDV1FFaW0ybkJlUGRRRGNQdnV4UWk1WjV6dGFpZExhVVBQQnVMUm5wNzI2QUlmNVFqZ0ZMY3U1ZXV4c0hfbDJ4UjJMM2d6UTZTSGc?oc=5",
-   "fecha": "2026-11-14T22:27",
-   "equipo": "Italy",
-   "tipos": []
-  },
-  {
    "titulo": "¿Qué necesitan Bélgica e Italia para clasificar a cuartos de final de la UEFA Nations League?",
    "fuente": "365Scores",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13aE9PNkk0NFNpSHRFQnQ4RHFCS3FHUmJrV0pvVjVXcEhlcWxSdWhjSkhKQVVpZ2FhQ0xjcmd0NTNEdHYtaGRXWUtiWTNLVWp0Mks5V1NRLXdtOEJzaXo3bzljRmtadmRqRWpxdUkzeHRUQUVma1RRcktlOUxpUQ?oc=5",
@@ -1132,6 +1120,14 @@
    "tipos": [
     "baja"
    ]
+  },
+  {
+   "titulo": "Francia vs. Turquía: posibles alineaciones para el partido de la UEFA Nations League",
+   "fuente": "Juanfutbol",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazNuOEpUZlZfYjNKaWdOQWtoNGdVZXJfQ1pQNUxadXRYdF9OVThQY1NxVmhQWnRlUjg0RFN3RjFPRkdQV0U3Tzc5S3NTLXpsSk9XTjhHc2lLS3lZUVZoOXhCUnRWQlZHd2VTQ3V3QjNuU004WEw2QndwZG1KQlN4M01yeUpaVllLWjVUazhITWpHR2VXV2VmUkJycmpZYkxwY1o0QkpMWXk3X3RVeFl3M3FuQkFlMm9DckhpUklEbzJiMHhy?oc=5",
+   "fecha": "2026-11-15T15:03",
+   "equipo": "France",
+   "tipos": []
   },
   {
    "titulo": "Francia vs Turquía: ¿a qué hora juegan y qué canal de TV transmite la UEFA Nations League 2026?",
@@ -1216,9 +1212,17 @@
  ],
  "1545616": [
   {
+   "titulo": "Alineaciones de Letonia y Armenia por la Liga de Naciones: formaciones confirmadas",
+   "fuente": "Bolavip Perú",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbktueGpyUlN3RmQ4OWVEY21CcVpDSzViMUNjWVY4QXZhZ0I4NFFUSzQtYVMzZVdrc3EyVGJrMU9qUlA0cFFBREJTUzNPYmhOUmZWR2pnOXlZN3FScnUwQWdSMk55TS1sRExzRnlVVExQRktYcnp0X2x1VGJyZXFzSHNrZTRiV2c5Y0xVYXdkc1FweWc3aVJBdGRLb0E0NTlfbzNCc1Y1WVVkV1hqM2NucFJVQ1RlMlpDd1pRQ2NMSlDSAcYBQVVfeXFMTWdPVjdERUt1MGpnQ0E1VHRxOF9MS2tCemdRTG5hQXhVWHdxdlVrTS02OGlJWm9XeTI1NU04RzBMUXoxam5LYk1sN2NhUUl6cjlFWUphMWw4QnlNRWtxSlczWjRSZlZzOS1ud3NzYWkzZkdzYWFQVnBKRlROT2FxY3UwU0wzNFFXaXZfeVlWRHpqbGVlQUxvaVBHQ01RQW12ZHdfNy1hSjFaV1FuUHV5S1U3SmRsbjk2RGZrUVFfa2loSDR5dVZB?oc=5",
+   "fecha": "2026-11-15T10:01",
+   "equipo": "Latvia",
+   "tipos": []
+  },
+  {
    "titulo": "Alineaciones de Letonia y Armenia por la Liga de Naciones: formaciones probables",
    "fuente": "Bolavip México",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTVRbU1GbUFtSjdrSHZIY2NyQkRXeWFOcjZ3ZW9lSFg4ZEtMRmtQdTI2dGJvNVk2RndxSjZIcllfenJONHpzQTZRZmVWcUlObnRkNk5PUmM2VkhpQVpVVVZlUmhpZzNJLWdoNTc3LWR5OGhEb2xiUkFhd0IybE5oa24wOURsSTlBWEtqVTZKVFkxaXlvMUdYWE5GdEF6LXFsR3lBMXN0QV9CVkJCeHF1U19BY1duZnBjX2xVNkdaM1fSAcYBQVVfeXFMT3N5NllVM3ZGSnBsY3JFVTJud3ZEXzRWbmtMX29Gc2FFYU94S19ZbXByZV8zZ1Q1VFpvdnVZclNYbDhvRkZWV1hJUk8wME5DbWdQZ05mYnh2WGNXSDFaV0stbWllTjNhWkRSb1VMck03UmZaZkxObUtWV2o2YlFBZXdvZkFLbWZ3VkpVT0xWcUZ0cTVSSDhNcS1NYkYzS3NLdDR5S25aS2VjRlp1c01vOXRsMFNRZDFjeVZuUnFiSFRSNjNLcTJR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3k2WVUzdkZKcGxjckVVMm53dkRfNFZua0xfb0ZzYUVhT3hLX1ltcHJlXzNnVDVUWm92dVlyU1hsOG9GRlZXWElSTzAwTkNtZ1BnTmZieHZYY1dIMVpXSy1taWVOM2FaRFJvVUxyTTdSZlpmTE5tS1ZXajZiUUFld29mQUttZndWSlVPTFZxRnRxNVJIOE1xLU1iRjNLc0t0NHlLblpLZWNGWnVzTW85dGwwU1FkMWN5Vm5ScWJIVFI2M0txMlHSAcYBQVVfeXFMT3N5NllVM3ZGSnBsY3JFVTJud3ZEXzRWbmtMX29Gc2FFYU94S19ZbXByZV8zZ1Q1VFpvdnVZclNYbDhvRkZWV1hJUk8wME5DbWdQZ05mYnh2WGNXSDFaV0stbWllTjNhWkRSb1VMck03UmZaZkxObUtWV2o2YlFBZXdvZkFLbWZ3VkpVT0xWcUZ0cTVSSDhNcS1NYkYzS3NLdDR5S25aS2VjRlp1c01vOXRsMFNRZDFjeVZuUnFiSFRSNjNLcTJR?oc=5",
    "fecha": "2026-11-15T10:00",
    "equipo": "Latvia",
    "tipos": []
@@ -1268,6 +1272,14 @@
    ]
   },
   {
+   "titulo": "El Cádiz CF y Kappa presentan una nueva colección retro inspirada en el fútbol de los 90",
+   "fuente": "Cádiz Club de Fútbol",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0luU3JfbE9jUURsRWVPbzFCSUNyenh4YVVwcFptSHdqeGo0WjVXRXpfZ0dQTGMtSTVMRkdDR0g2czBSYzJkQW1FSmNVVDdEdy1Gam5pWk12Y1dIdEY0UHZidWJOaXl0UVFwQjZ3UTVZQ1VtMHF2UDNSZms4dllZNGJvTzloTG1ZeGI5VDhBaFM2SXRZWnZpRXV6Y0RJelphSXd2ejlHUFV1UFI3ZU54dmlPUVJWYVdyUUFTVmJR?oc=5",
+   "fecha": "2026-11-15T12:52",
+   "equipo": "Cadiz",
+   "tipos": []
+  },
+  {
    "titulo": "La previa del Éibar - Cádiz: obligados a ganar... otra vez",
    "fuente": "Andalucía Información",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkVCY2Vyemh1X1VQeEs3WE00Uk1JWVg5dVZrbHBQQ3VLeEJXaGt3bUh1RHJYRWZoRUQ1SUFsTXZwRjJ5Q2FvY3BnMWdoSE52MFE3ZTJnektsR203cVZqLWNmb0NiUDZIWVlNMHJnSlFrMkVsZzNHM1ZaS3A2ZU8xdG1KRW93cmV0OXBOQUdPa3IzVDh4WWJETmt5WEVtZG1wU29yazNDZ3J6NVlEblpRMzN6NmotNF9HU2t1RlVxSU1xdUJLUGFocFNpVdIB0AFBVV95cUxOamNrY3NSVXFRUVd5eFN0dkVrQ0R3d1lzQnNrNU4xNVZXUUp5Rjk1RUFpLVFwMnNXRmdUd0dUWnIzblU2Qk9CNk5HTkxobE5CTWt1WC1VRGpIX2xyRkZkeVM2QjJDQ216TDdrdnZ5VTQzNUVfbmd0UE8zc3R2T2d3LUlxekFpcWVFZm9qcDhjU1htbTRwV2NRcnpoNGJIOFh4ajU3dWhLSmoyWGl6WDJvb250LWF5SnFCSmRFN2N3RDg0TzV0VW5BRzFwQXU1VndU?oc=5",
@@ -1281,14 +1293,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1JzSXN4bWsyaGZabTQ2ZEhhZktpUFlpMGEwMVU2ZkNocVE3eWdDMlhxS2pibGYxQjMyVU9mUHN6X3lyU3k2WnM5Tm9wbndvM0Z0TjFlbnp0ODNpQ0RMb1ZTYkQ1c0pVWi03TGJKX1QzMmgxTmc0Mm95RWs1b1lPMFZ1amYwLXR1?oc=5",
    "fecha": "2026-11-15T09:10",
    "equipo": "Cadiz",
-   "tipos": []
-  },
-  {
-   "titulo": "Eibar-Cádiz: El fortín de Ipurúa pone a prueba la inercia amarilla",
-   "fuente": "Muy de Fútbol",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJuU1J2Mm11Z2o0T0N2OVNEUjlBanNjODJWYjFBUGt0S3VIRW5tVmhoR2lHd2lPeGREaUpnLTBIWkxncXJreGRlWFZpc3VGMTFyNC1qc1hoelJCbUk1dVV0UkpjdGtaX1FyRUdMS1prVkdXVjlWVHhSejhJdzJHQ1ZETzRrMG5YSjNiZzA4ZGNKa0RM?oc=5",
-   "fecha": "2026-11-15T09:00",
-   "equipo": "Eibar",
    "tipos": []
   },
   {
@@ -1372,22 +1376,6 @@
    "tipos": []
   },
   {
-   "titulo": "Pedro Mateos: \"Hemos sido claros dominadores\"",
-   "fuente": "Cádiz Club de Fútbol",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3ZXZW1mTXREcmZ3Qkx4TnpVOUhNZVdyZ1JFRkpkZFdtbnl1NjFJd2hHYzdtS0dtN09VdzcyRkMxVnVVMGFMQnRBTGFwY1lkQUI5aFduaHpsSVVoelY2aGhTT3Zkc3AzeDRtdVhlYkRZaEE4bGtqbmNybkFjeGhlU3BB?oc=5",
-   "fecha": "2026-11-14T06:58",
-   "equipo": "Cadiz",
-   "tipos": []
-  },
-  {
-   "titulo": "Suso y Alex: “Estamos bastante mal, hundidos\"",
-   "fuente": "Cádiz Club de Fútbol",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVlVxclI4Wkc3UVFoeGY3Y1lFSURVUTRzY3djSDFxOHpLS0dkdEtwY1o4bXlwLXdOVDNXN0NONVFRdWsxWE5mN3h4MW9saGI4N2V6Wi1PSm9uS1BWM1U0SWhFdVhxVXpBYlR1OC1td3Nlc2JacWoxZ3RXbU1TbTA?oc=5",
-   "fecha": "2026-11-14T06:52",
-   "equipo": "Cadiz",
-   "tipos": []
-  },
-  {
    "titulo": "Sin suerte en casa (1-3)",
    "fuente": "Cádiz Club de Fútbol",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aRFZCWEJMWDZ6N2VYSi1uV3h5NG9QUHd1bF9NUE1wZ1RUOERvN1VSRTVnTVk2dUhaZXRWdXUtMW1lR1JOTUFmX3RybGNXZXRCaVBqWHlYRTMtdUdNZHV5R1VERHV3QQ?oc=5",
@@ -1400,6 +1388,14 @@
    "fuente": "Cádiz Club de Fútbol",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXdwbHVZaGE4aXRKSFU3ZGE3TEg3YUVqUHVVZHFHVVplRXVZQ0c4cnlaTnNvUmtfSWJORkdBZDZHN0pHVkg3UVFCWWh3dkJxeDliZnhiYmVUUjRrTlZKTDNkOEdfVnFhTVFPTFU4b0VtSUV2cUhKTXJoX2lPYTUwMlJ5Y2tuZ0xaNUszUnQ1X1FfNGZF?oc=5",
    "fecha": "2026-11-14T06:03",
+   "equipo": "Cadiz",
+   "tipos": []
+  },
+  {
+   "titulo": "Sergio González: \"Tenemos que ser atrevidos y valientes\"",
+   "fuente": "Cádiz Club de Fútbol",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZW4wcVBoTnZ0ZjluTTZ5YnV0dzZZRnJEeFg3WDZuWTcwaVlpN0lDazRJSWRRZk9Fc0NRQkVlOEpBWFFFMENPdWZneTN3REZUbjlTamNkMkpydHh4UVUwOTRBUDNxRC1kUUFRQTUxQ0Z4RVNROENEc2RzcFFVSW92STRDdXRBWnhjaGJHMEMzTQ?oc=5",
+   "fecha": "2026-11-14T04:40",
    "equipo": "Cadiz",
    "tipos": []
   },
@@ -1417,14 +1413,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0x0bkhvdGV4MklSQ2ozQ3gwVjlJR09lMXZYajJyUnlwN0R6eGlyUGxkQlotN1RmR0NTbHAxWm10eVJpV3dGWHFxeDJKbDlpYmtBbGtSSXpmalZCOWNIVXB5b1F5RmsyOTFEOUNtdUlTQzl6dXJLcnB6VEExTTV6dEpUTDBRZEVOQ3I2c3dtSdIBnAFBVV95cUxQczRvNzdZRXVGQ3VxUnB0ZVNmQThHNFNzSEpldkk0cENUYkdtQ2xnOUFsNFYxZTFhTEtWYVhkNjBmSDdRY1A1aGdvR1ozeGs4ZEEzSTF2dGxqLWkxLTRKTWFXQk1OWnpvTVFtNE1xeU03Rlo5aVRXNF9FTjVURF9Nb3VOb3NFU1RxSG1GYlk5OWdKTGZGMG9VZ3ozRkQ?oc=5",
    "fecha": "2026-11-14T04:00",
    "equipo": "Cadiz",
-   "tipos": []
-  },
-  {
-   "titulo": "Burgos CF | Web Oficial",
-   "fuente": "Burgos CF",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5TOWxic2dBSjMtNjhmTlc4YTR1bUNLWko0Y1dJeFpqU0xLLVZqRE9HSFZCTVpzWW83ZDBfZw?oc=5",
-   "fecha": "2026-11-14T03:49",
-   "equipo": "Eibar",
    "tipos": []
   }
  ],
@@ -1514,7 +1502,7 @@
   {
    "titulo": "El Athletic conquista el Reale Arena",
    "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZjR3ozMG9DOUQ1M1VfQ25rM0hNRGNrNXVRQkwxZG1BVjdpbFlxYlVPbFBrbk5fbnVzc3AtOXZWUWh5NEVIXy1rZDRaQlBTOUhNRVBWcm9fWjR2TV9xaWVPNGRIejhGVUdBUzZuSk5DREY0TXp2aURxLWswNWs5MGNLRU7SAZgBQVVfeXFMTTcwTDB3M3JpQW9xWFpFa3A5emxpdGlWMGVFSWtqQlZRUjRSSUQ4TWFtYk1waF90VnNFV0RYZ0tuVTVvMXNNSDdQRjc2REVlaGo5MVptOVRMZ0dyeU1wbUZPZ3FGbXZmR1ZRVXNrNFZXUGg3QkNiY0lyZktxNlplRTJveWpVYWlObENscFdEWGlPY2xDRWJBZFg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzBMMHczcmlBb3FYWkVrcDl6bGl0aVYwZUVJa2pCVlFSNFJJRDhNYW1iTXBoX3RWc0VXRFhnS25VNW8xc01IN1BGNzZERWVoajkxWm05VExnR3J5TXBtRk9ncUZtdmZHVlFVc2s0VldQaDdCQ2JjSXJmS3E2WmVFMm95alVhaU5sQ2xwV0RYaU9jbENFYkFkWNIBmAFBVV95cUxNNzBMMHczcmlBb3FYWkVrcDl6bGl0aVYwZUVJa2pCVlFSNFJJRDhNYW1iTXBoX3RWc0VXRFhnS25VNW8xc01IN1BGNzZERWVoajkxWm05VExnR3J5TXBtRk9ncUZtdmZHVlFVc2s0VldQaDdCQ2JjSXJmS3E2WmVFMm95alVhaU5sQ2xwV0RYaU9jbENFYkFkWA?oc=5",
    "fecha": "2026-11-15T14:29",
    "equipo": "Real Sociedad W",
    "tipos": []
@@ -1525,6 +1513,14 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1hXLWpMS2N6QXNqVFBQTlRyQm9MczVTa2h2RlNid0txUE9UQk9ZS2dveXRSMkNfS1N5MFVJdzhvVXJPUjA5ZV9nN2Y3eGtxQ1d2d2JSTU5zWEFYdDFBdWZsdE9Gc29IdXlJMkhpMW90UDd3MUtfNTM4U2NJbEhkVmlEQ3A2U2NzWFRmY0lMbnB5TUtmSDVLbGpJekRJekxqNkpyVkhlLXN3bk9oVkxPbW52Slh6Q0hDdVQw0gHAAUFVX3lxTE1Ydmd1RkNwQ1JmVVhPWVBIbjZwclQydGV0OE5XVTM4YWh6eTJLdHRsQl9RMVdDOUY5VDB3LTJKWTNuOUl5X0MzUllSN0ZnZFJPYVVrUzhwcEIyQzhUNjJuQllJRmlkaEdYVjNoWmdvdW05bHNCNUZtY01wSUJRVkd4eFpDaVR6QUs0eFduTXUzdlEyWkw1SUlndjFsakFHa1RLWWJ5R3MxaWMtUkRQR1liNm9vcXhybUl4dGhQdnVyeQ?oc=5",
    "fecha": "2026-11-15T12:30",
    "equipo": "Real Sociedad W",
+   "tipos": []
+  },
+  {
+   "titulo": "Real Sociedad - Athletic Club | Partido | Liga F | 15/11/2026",
+   "fuente": "Athletic Club",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQXU5dFpCek5hRUxzbWdYc3k1ZXVUZGNBWDBDbHFjdUFRdFBmWUhSb0hucnRfU1JiR0lXTWM5M3JrbUF0cXdhSmlrYUc4eGVxdDRXZ21kQTlyQ203MFNraGlkdDRwSzQyRkpfemt5MU93NkNsM2YtQkNJS2s0X2lJNm9HVXRlX0ttZGtPX2ROTmRhdlhsMlIwaHdkQmJJT0QxSF8weHllWHhEVUdlaWpqV0RGZW1qbTB3SVcxbVJodmhzSjRSc1d0NC1KX2d6cmlPMVhJb09rUnVJX2JIVkFabw?oc=5",
+   "fecha": "2026-11-15T11:13",
+   "equipo": "Athletic Club W",
    "tipos": []
   },
   {
@@ -1616,16 +1612,6 @@
   }
  ],
  "1528988": [
-  {
-   "titulo": "Nations League: las posibilidades de cada selección para la clasificación para cuartos de final, el ascenso, los play-offs y el descenso",
-   "fuente": "UEFA.com",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa3VoS2MyM19pS0RobFo4LVN2amZ4ejRuU1VEN3FEdW1vdGhOQXdLYzZzR2VNRmEtcFFvRml5S2V0ekVHblI3MmhvcUZGeGs1dTRLNm9VdG5TNjJ1bzcxa3NSeWxhSGotS0FUa2tTOFAxLWU4TlFrcnBNSjBmWXAtbFNaTHVQYVhyMExvZFZUSHNpUl9VNm9uLWFRT0l6NTUyTVM5SWF4aHVHTzdlei1PRkpidGt5dDR1Wlk4MEx5TVE5RlhmQmQxck5vR2ZvZUhHQk9TZ01B?oc=5",
-   "fecha": "2026-11-15T14:35",
-   "equipo": "Estonia",
-   "tipos": [
-    "motivacion"
-   ]
-  },
   {
    "titulo": "Estonia vs. Bulgaria por el Liga de Naciones 2026: día, hora y cómo seguir online",
    "fuente": "La Nación",
@@ -1738,14 +1724,6 @@
  "1608369": [],
  "1573641": [
   {
-   "titulo": "Fermín desata la locura en la Premier League: cuatro clubes ofrecen hasta 100 millones para sacarlo del Barça",
-   "fuente": "Madrid-Barcelona",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT2c3bHlxSUNXSWRlX1ZhN1JTX1ZzdHJZMEsxYm8xM0hDLXFMQ29SRWJyZmo2RVpPM2VlZFB1Vkk0QnlnWW1UNnVKM1puWTlDU0sxZkxhOW92Sk9VanpKWlFsbi1JVUhHRHZfRXg2M014dUxSOTRCenN0OFF3S21GLV9IREZLSWU3WW5BUEtkWWtvQVAxNkgwTG14RGUtdk13d21uS2pMN1Z4THF3R1dtcllSM3RXNDdLYXVUMUg1azk4SDFscEFwc1l2WnBsVTZCS1FkbVVVVVBxX2dwUVFPQmI2a3NEaUNWX1pacUo1R0VwbjF2SHV2UNIB_gFBVV95cUxOeGk2QkhNRXJJSkl3OE9zMEFWcTVvLWRPa3BHQjVjTTE2WmVxU25odkp3UTBuaEdOb1VHZ0ZKeVlqT2RwVUJGa0ZfZ3BUOHZiZVZjdkNEM1VNME1pZUw2bTkzVUZYalZXT1ZmV1ozMXd1aXlyNVRoMnRiQnBEYm5sdEZGMHlhYVJFZURrQ2pGZVFTZU1FRmx5QjFxalRwQnpGREMyMGdPQTM3d2VNM04xbVhzVkxBRW1OeWg3SC13eUlES0xOT1I2ZHZNemdZU01FVlpBR2JTcHpvRTNqVGlVSXludWU0Q2M2TDd1LVJyRlJ0eDRJMFBiMVl0alZpdw?oc=5",
-   "fecha": "2026-11-15T13:37",
-   "equipo": "Barcelona W",
-   "tipos": []
-  },
-  {
    "titulo": "El Barcelona casi calca el inicio de la pasada temporada",
    "fuente": "Diario AS",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT250NTNRSGR1Ykg0UExKTXFTb2RWWXBGXzc1NHZxMzlzUHlILVBjMkdVeS1LZ01sVjZhTmNDSEZwNlpxMWhseUl3VGJsZTVFdkFBTXNoSE5DOXZpQTFuYWxZUC1RbzZHeHZYaGpmdy1pdUl3MlJiQXg1Nlh1OE9JeFdJRU1YSnFmSUVTWS1OYUtpc1FFTkRWTmNTRmpVOHPSAbMBQVVfeXFMT2VPa3J1V3B1bHcwc2pRNmZyenFEcWxEZk1KZl9wbzZTa1V3cnI0ZHYxd1VpQURaN2dvVlV1Y3FRRDN6YWY0TGxCQmVHVU9DRHpWbXNZYVE2eFNGTDdRY1VuYTRWTHBqaFJoS1lZU2N6d2F4dGs0Sk05WlBHS1piU08tNHd5alpFU0RRQWJ1LWYzS3dmV1dQcjRBdGVfZnR3QlpjMnFiaXBKa2Z5TURaLW1KZU0?oc=5",
@@ -1788,14 +1766,6 @@
    "tipos": []
   },
   {
-   "titulo": "Anel Aliaj (Fundación Villarreal CF) debuta con Albania Sub-17",
-   "fuente": "Castellón Base",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaE5NOUN1TjdmcE1JdHdrOEJxYWlwR25Jb1liWnRlZ3otYXd3NVVMSkJOY0luLU5mMXMxOFkyQUhCX0IwbmxYSl9GNk9IVlA0eUx2aUtBdFdPVVRTOXNVYU5UcWhwWkxtUmVfWFhtLXFwSHdiMmFPV0ZCRHlBYmxUX3NWQW9BUThjOXcxS05yX1U?oc=5",
-   "fecha": "2026-11-14T22:13",
-   "equipo": "Albania",
-   "tipos": []
-  },
-  {
    "titulo": "Albania Sub-19 se asegura la Liga A con una victoria decisiva.",
    "fuente": "KOHA.net",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTJYR1NrOWRjdW1manAtcEtHNE9sTFJaSkd0c3pIbDZRdGUxWlhqTGhKamJHYXhLeHhyeDRqN3UwNHJYdzhhZGNEdUhkYXpXMDFHajZMTThPSldVNUx1SUQtd0pSZWxjMWRrZnFmb1c0ZFNJNTZCTzlwblBWTlpHa1V0VjdkWTBV?oc=5",
@@ -1815,17 +1785,25 @@
  "1608367": [],
  "1528979": [
   {
-   "titulo": "Alineaciones de Chipre y Montenegro para el duelo de la fecha 6 de la Liga de Naciones",
-   "fuente": "Bolavip Argentina",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlBXTHRHN2d4OGY1ajZDa1JnT1B4bF9YUnhudHczX2czRE5TVF9yX3Qzb2VDN0tnUGV4SmpaelZMTXNXc3YzYVhyNDdySVMwbVduQjVCcWFuQXY0TTJMcm0tRUlNWXJleGFoYUdyOWNycWxNTHJjWmVwUTJXTUxzWktsXzlWYmF5UGpma1ctY29TQk5OVXczRk1TUDNUZWR6RG9hOExUSGNOWjU3aUVpeHJqcXRFOHBmWGM1YXhXeDhhWUdlV0ZJVVBmYnlhZ2_SAc8BQVVfeXFMTWJQV0x0RzdneDhmNWo2Q2tSZ09QeGxfWFJ4bnR3M19nM0ROU1Rfcl90M29lQzdLZ1BleEpqWnpWTE1zV3N2M2FYcjQ3cklTMG1XbkI1QnFhbkF2NE0yTHJtLUVJTVlyZXhhaGFHcjljcnFsTUxyY1plcFEyV01Mc1pLbF85VmJheVBqZmtXLWNvU0JOTlV3M0ZNU1AzVGVkekRvYThMVEhjTlo1N2lFaXhyanF0RThwZlhjNWF4V3g4YVlHZVdGSVVQZmJ5YWdv?oc=5",
-   "fecha": "2026-11-15T10:00",
+   "titulo": "Alineaciones de Chipre y Montenegro por la Liga de Naciones: formaciones confirmadas",
+   "fuente": "Bolavip Perú",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejhFLVZRWGxNYW1wYi1sNEpIMTc1QUc4WDdfUG1LdlFXQW1RbS1tSUZ5S2lKZUR0aklPWElfYWNfWlZoYXhsaHczOWZOSHhuY29lZmN6Y1RkTktQZURIZ2xyMEtQTWJieEhsVEIxWUlkU3lEOHF0MGtiUmQ1LTNqckh4NGhmMnExcXpuVDZkM3hJX2tMUllCOHQyQWZfNWhSOEF2cDNJMG0yS29lNkJjQ0NGeGJSb05VVldzb0lzYU1jUEHSAcgBQVVfeXFMT0JhbnFsQlBFZkRBYk52Y3RwNHhBTkVob01ySjM3U2VtOE1ZWWJaNHI3NTJ5eE1rb2pYQ1VaaTJPZUQ1UUotRXh0QjFKYWc4cFEzQ19tUWxfY19XNUhTTDJPdFZBLTVPSE12am9xZ2xlY2lvSlc2TFBvdUdZYWJwWDJiMlgwQV9uaFIxQ0w4LXV6QzUzR29MQXNzeEZtU3ZvdzFQZjdqVXlWUS12WFZ3WU9rUl9uT0FnRXBDYTNXcnpBZGt6MllrcTk?oc=5",
+   "fecha": "2026-11-15T10:01",
    "equipo": "Cyprus",
    "tipos": []
   },
   {
    "titulo": "Alineaciones de Chipre y Montenegro por la Liga de Naciones: formaciones probables",
    "fuente": "Bolavip México",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXy1CazdDWXdabTFlQmRGZkpVOWxoRzAxTjdMOW1COF96MmVfcjlZMm5Zd1RBZW9meGhCWmE4SUdkZW1MYWxXcWM5SnVwSWpqMXVKMHFqTDAtd3JHLUVrUmJsUDJjSzAtVjJvOFYwQkNlOHJkdENLckNiakVEdE9tX1c5Mlpibmo4WHVEQ3A1RXR4VWZNUU03cXBWYmFMZkgwT3JHUVN4d2h1S2RjSm9ZVXhqNkoxLVJvS2VSRVdneDVGNmVUdWZhX9IByAFBVV95cUxNXy1CazdDWXdabTFlQmRGZkpVOWxoRzAxTjdMOW1COF96MmVfcjlZMm5Zd1RBZW9meGhCWmE4SUdkZW1MYWxXcWM5SnVwSWpqMXVKMHFqTDAtd3JHLUVrUmJsUDJjSzAtVjJvOFYwQkNlOHJkdENLckNiakVEdE9tX1c5Mlpibmo4WHVEQ3A1RXR4VWZNUU03cXBWYmFMZkgwT3JHUVN4d2h1S2RjSm9ZVXhqNkoxLVJvS2VSRVdneDVGNmVUdWZhXw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEpyZTFDT3paMnEwWWRRelRER1VLYUFYS21PVElDcGx0NU9ZSXlwUEtvSFVIT0VDZHFHQnNLdkEtMXYzaXBUMnNGV2h4d0JlRUFhal9uUlhLdDVmNk9SeS1BT2ZYZFNhWDF4WFNyZU4tY0w2TkRDSXZzS1dTZE5VenNyc2JNclBIX2RCQWEweW9XdTFLckRDX25jdk5yYVFoMWVyQUxfMEFFazA4eFpLQTAxcU1QaEV3Z2NrN2dETk9UemvSAcgBQVVfeXFMTV8tQms3Q1l3Wm0xZUJkRmZKVTlsaEcwMU43TDltQjhfejJlX3I5WTJuWXdUQWVvZnhoQlphOElHZGVtTGFsV3FjOUp1cElqajF1SjBxakwwLXdyRy1Fa1JibFAyY0swLVYybzhWMEJDZThyZHRDS3JDYmpFRHRPbV9XOTJaYm5qOFh1RENwNUV0eFVmTVFNN3FwVmJhTGZIME9yR1FTeHdodUtkY0pvWVV4ajZKMS1Sb0tlUkVXZ3g1RjZlVHVmYV8?oc=5",
+   "fecha": "2026-11-15T10:00",
+   "equipo": "Cyprus",
+   "tipos": []
+  },
+  {
+   "titulo": "Alineaciones de Chipre y Montenegro para el duelo de la fecha 6 de la Liga de Naciones",
+   "fuente": "Bolavip Argentina",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlBXTHRHN2d4OGY1ajZDa1JnT1B4bF9YUnhudHczX2czRE5TVF9yX3Qzb2VDN0tnUGV4SmpaelZMTXNXc3YzYVhyNDdySVMwbVduQjVCcWFuQXY0TTJMcm0tRUlNWXJleGFoYUdyOWNycWxNTHJjWmVwUTJXTUxzWktsXzlWYmF5UGpma1ctY29TQk5OVXczRk1TUDNUZWR6RG9hOExUSGNOWjU3aUVpeHJqcXRFOHBmWGM1YXhXeDhhWUdlV0ZJVVBmYnlhZ2_SAc8BQVVfeXFMTWJQV0x0RzdneDhmNWo2Q2tSZ09QeGxfWFJ4bnR3M19nM0ROU1Rfcl90M29lQzdLZ1BleEpqWnpWTE1zV3N2M2FYcjQ3cklTMG1XbkI1QnFhbkF2NE0yTHJtLUVJTVlyZXhhaGFHcjljcnFsTUxyY1plcFEyV01Mc1pLbF85VmJheVBqZmtXLWNvU0JOTlV3M0ZNU1AzVGVkekRvYThMVEhjTlo1N2lFaXhyanF0RThwZlhjNWF4V3g4YVlHZVdGSVVQZmJ5YWdv?oc=5",
    "fecha": "2026-11-15T10:00",
    "equipo": "Cyprus",
    "tipos": []
@@ -2026,5 +2004,22 @@
    "tipos": []
   }
  ],
- "1608364": []
+ "1608364": [
+  {
+   "titulo": "US Folgore Caratese",
+   "fuente": "Transfermarkt",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWN4dGRxRFB4SUJ2eEdoYlMtVjdEZHROd2Q5Q3hNbHVJa2FsUW9xMk9jT0RaVHB0VG1LS0d1blJzUXVBMVQyYS16anVPd0tVSkVFN0ZfWjZpemRRczZtcmtvOTBTcUI5bUtkOHBKOGhlV3dONGRvUVF5NS1Cek5kWk9pY3hvZw?oc=5",
+   "fecha": "2026-11-15T00:01",
+   "equipo": "Folgore Caratese",
+   "tipos": []
+  },
+  {
+   "titulo": "Resultados de Ravenna vs Cittadella, historial de enfrentamientos (H2H) | Fútbol",
+   "fuente": "Flashscore.es",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0JuRWZIVmdXSjRGN3VtSk0tTGVyVWsteVoxZWRuOGp4UVkxZEFqd21EMXZJYXdyWjd1M21GV0hhNVhkalRFcEgyc0JWakotYTNhMUM3aHJ6R1FnX21nbFA1Z2lJYVhXeU9kaEJ5MTJ0aXYzZUZ3bnV3dDY4UF83bGg4a1U?oc=5",
+   "fecha": "2026-11-14T21:52",
+   "equipo": "Cittadella",
+   "tipos": []
+  }
+ ]
 }
