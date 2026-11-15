@@ -43,6 +43,18 @@ def cabecera(linea):
     return re.sub(r"X(\d)", r"x\1", f"🔥⚽ {limpia.upper()} 🔥")   # «X2,82» → «x2,82»
 
 
+def emoji_pick(t):
+    """15/11 (Marcos: «un emoji a cada pick y que tenga que ver con el pick»): el emoji según el mercado."""
+    n = t.lower()
+    for rx, e in ((r"tarjeta", "🟨"), (r"tiro|remate", "🎯"), (r"c[oó]rner", "🚩"), (r"asist", "🅰️"),
+                  (r"ambos marcan|ambos equipos marcan", "⚽"), (r"m[aá]s de \d|goles|over", "🔥"),
+                  (r"o empate|doble oportunidad|no pierde", "🛡️"), (r"\bmarca\b|goleador", "⚽"),
+                  (r"\bgana\b|victoria|ganador", "🏆"), (r"parada|portero", "🧤")):
+        if re.search(rx, n):
+            return e
+    return "🍀"
+
+
 def estilo(texto, pid=""):
     if NO_TOCAR.search(pid):
         return texto
@@ -50,6 +62,7 @@ def estilo(texto, pid=""):
     out = []
     cuota_total = None
     patas_con_cuota = []
+    patas_idx = []
     for i, l in enumerate(lineas):
         s = l.strip()
         if i == 0:
@@ -68,10 +81,12 @@ def estilo(texto, pid=""):
             c = PATA_CUOTA.search(s)
             if c:
                 patas_con_cuota.append(num(c.group(1)))
-            out.append("✅ " + s[2:].strip())
+            patas_idx.append(len(out))
+            out.append(emoji_pick(s[2:]) + " " + s[2:].strip())   # 15/11 (Marcos): emoji según el pick, no ✅
             continue
-        if BANDERA.match(s) and not s.startswith("✅"):
-            out.append("✅ " + s)
+        if BANDERA.match(s) and not s.startswith("✅"):   # 15/11 (Marcos): la bandera ya es su emoji, sin ✅ delante
+            patas_idx.append(len(out))
+            out.append(s)
             continue
         if s and s[0].isalnum() and i > 0:   # 15/11 (Marcos: «que salgan más emojis»): ninguna línea sin emoji
             out.append(("👉 " if not s.startswith(("Si ", "Con ")) else "🔥 ") + s)
@@ -90,13 +105,13 @@ def estilo(texto, pid=""):
             cuota_total = num(m.group(1))
             while out and not out[-1].strip():
                 out.pop()
-            fin = next((j for j in range(len(out) - 1, -1, -1) if out[j].startswith("✅")), len(out) - 1)
+            fin = max((j for j in patas_idx if j < len(out)), default=len(out) - 1)
             out[fin + 1:fin + 1] = ["", f"🎯 CUOTA {coma(cuota_total)} 💎 · 10€ → {coma(cuota_total * 10)}€"]
     # un pick suelto (una sola cuota y sin «Cuota @»): lo que se gana con 10 € justo después de la pata
     if cuota_total is None and len(patas_con_cuota) == 1:
         c = patas_con_cuota[0]
         for j, l in enumerate(out):
-            if l.startswith("✅ ") and PATA_CUOTA.search(l):
+            if j in patas_idx and PATA_CUOTA.search(l):
                 out.insert(j + 1, f"💶 10€ → {coma(c * 10)}€")
                 break
     t = "\n".join(out).rstrip()

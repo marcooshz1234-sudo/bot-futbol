@@ -101,7 +101,8 @@ def texto_post(patas, segunda=False):
     tot = 1.0
     for x in patas:
         tot *= x["cuota"]
-    filas = [f"🍀 {x['texto']} ({x['ini']:%H:%M}) @{x['cuota']:.2f}".replace(".", ",") for x in patas]
+    from estilo_threads import emoji_pick
+    filas = [f"{emoji_pick(x['texto'])} {x['texto']} ({x['ini']:%H:%M}) @{x['cuota']:.2f}".replace(".", ",") for x in patas]
     redondo = f"{tot:,.0f}".replace(",", ".") if tot >= 100 else f"{tot:.2f}".replace(".", ",")
     gana = f"{tot * 10:,.0f}".replace(",", ".")
     aprox = " aprox." if any(x["aprox"] for x in patas) or tot >= 100 else ""
