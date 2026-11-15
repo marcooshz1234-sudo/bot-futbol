@@ -6708,6 +6708,13 @@
     ],
     "sel": [],
     "cuotas": [],
-    "nota": "15/11 Marcos: «a instagram tmb» (marcadores exactos)"
+    "nota": "15/11 Marcos: «a instagram tmb» (marcadores exactos)",
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "17891264736503419"
+    }
   }
 ]
