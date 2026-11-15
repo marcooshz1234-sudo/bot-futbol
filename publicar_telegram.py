@@ -238,7 +238,7 @@ def main(objetivo=None):
         if not foto and p.get("tarjeta") and tarjeta.exists() and len(texto) <= LIMITE_PIE_FOTO:
             foto = str(tarjeta.relative_to(RAIZ))
             p["foto_tg"] = foto
-        if not foto:   # 13/11 (Marcos: «más fotos, no tanto texto»): tarjeta con banderas/escudos y texto corto
+        if not foto and not p.get("sin_tarjeta"):   # 15/11 sin_tarjeta = solo texto con el porqué entero. 13/11 (Marcos: «más fotos, no tanto texto»): tarjeta con banderas/escudos y texto corto
             import tarjeta_tg
             t = tarjeta_tg.hacer(p, texto, cola + auto)
             if t and len(tarjeta_tg.texto_corto(texto)) <= LIMITE_PIE_FOTO:
