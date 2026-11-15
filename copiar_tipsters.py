@@ -205,49 +205,6 @@ def post_combi(patas, ahora, n):
             "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 
-def combi_canales(cola, ahora, hechos):
-    """15/11 (Marcos: «si en algún momento tienes 2-3 cosas nuevas haces una combi»): con los picks de canales ya
-    copiados hoy que aún no han empezado y no han ido en otra combi de canales, si hay 2 o 3 nuevos de partidos
-    distintos y sin chocar, sale además una combi con ellos (@1,50 mínimo)."""
-    from plantillas import choca
-    hoy = ahora.strftime("%Y-%m-%d")
-    cand = []
-    for p in cola:
-        if not p["id"].startswith(f"{hoy}-pick-tip") or p.get("caducada") or p.get("borrar"):
-            continue
-        if len(p.get("sel") or []) != 1 or len(p.get("cuotas") or []) != 1 or f"canales|{p['id']}" in hechos:
-            continue
-        pk = {"partido_id": int(p["sel"][0].split("|")[0])}
-        ini = inicio(pk)
-        if not ini or ini - ahora < MARGEN + ESPERA:
-            continue
-        m = re.search(r"🍀 (.+?) @\d", p["texto"])
-        if m:
-            cand.append({"p": p, "ini": ini, "sel": p["sel"][0], "cuota": float(p["cuotas"][0]), "txt": m.group(1)})
-    cand.sort(key=lambda c: c["ini"])
-    grupo = []
-    for c in cand:
-        if len(grupo) < 3 and all(c["sel"].split("|")[0] != g["sel"].split("|")[0] for g in grupo) \
-                and not choca(c["sel"], [g["sel"] for g in grupo]):
-            grupo.append(c)
-    tot = 1.0
-    for g in grupo:
-        tot *= g["cuota"]
-    if len(grupo) < 2 or tot < 1.5:
-        return None
-    ids = {p["id"] for p in cola}
-    n = 1
-    while f"{hoy}-combi-canales-{n}" in ids:
-        n += 1
-    lineas = ["🔥 COMBI CON LO MEJOR DE HOY 🔥", ""] + [f"🍀 {g['txt']} ({g['ini']:%H:%M})" for g in grupo] \
-        + ["", f"📈 Cuota @{coma(tot)}", "", "🔔 Activad las notificaciones, que vienen más combis 👀"]
-    hechos.update(f"canales|{g['p']['id']}" for g in grupo)
-    return {"id": f"{hoy}-combi-canales-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
-            "texto": "\n".join(lineas), "foto": None, "origen": "tipster", "directo": True, "forzar": True,
-            "sel": [g["sel"] for g in grupo], "cuotas": [g["cuota"] for g in grupo],
-            "nota": "combi con los picks de canales copiados hoy (Marcos 15/11)"}
-
-
 def main(ahora=None):
     ahora = ahora or datetime.now(MADRID)
     hoy, manana = ahora.strftime("%Y-%m-%d"), (ahora + timedelta(days=1)).strftime("%Y-%m-%d")
@@ -344,6 +301,23 @@ def main(ahora=None):
             hechos.update(clave(g) for g in grupo)
             for g in grupo:
                 usos[dia_][sel_de(g)] += 1
+    # 15/11 (Marcos: «si tienes 2-3 cosas nuevas haces una combi, pero si hay uno suelto ya subido no lo mezcles»):
+    # los picks nuevos de esta pasada (que salen solos, @1,35 o más) de partidos distintos y sin chocar, si son 2 o 3,
+    # salen JUNTOS en una combi en vez de sueltos. Lo que ya salió suelto nunca entra en una combi.
+    for dia_ in sorted({x["dia"] for x in sueltos}):
+        nuevos_dia = sorted([x for x in sueltos if x["dia"] == dia_ and id(x) not in usados and sel_de(x)
+                             and x.get("cuota") and float(x["cuota"]) >= CUOTA_SOLA], key=lambda x: x["_ini"])
+        grupo = []
+        for x in nuevos_dia:
+            if len(grupo) < 3 and all(x["partido_id"] != g["partido_id"] for g in grupo) \
+                    and not choca(sel_de(x), [sel_de(g) for g in grupo]):
+                grupo.append(x)
+        if len(grupo) >= 2:
+            usados |= {id(g) for g in grupo}
+            nuevos.append(post_combi(grupo, ahora, siguiente(f"{dia_}-combi-tip")))
+            hechos.update(clave(g) for g in grupo)
+            for g in grupo:
+                usos[dia_][sel_de(g)] += 1
     for x in sueltos:
         if id(x) in usados:
             continue
@@ -385,9 +359,6 @@ def main(ahora=None):
             p = post_combi(patas, ahora, siguiente(f"{patas[0]['dia']}-combi-tip"))
         nuevos.append(p)
         hechos.update(clave(x) for x in patas)
-    cc = combi_canales(cola + nuevos, ahora, hechos)   # 15/11 (Marcos)
-    if cc:
-        nuevos.append(cc)
     if nuevos:
         cola += nuevos
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
