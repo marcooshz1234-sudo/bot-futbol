@@ -1904,12 +1904,12 @@
     "dia": "2026-11-14",
     "total": 12,
     "cuentas": {
-      "verde": 4,
+      "verde": 3,
       "rojo": 7,
       "pendiente": 1,
-      "sin_datos": 0,
+      "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -1975,7 +1975,7 @@
       {
         "id": "2026-11-15-pick-tip-1",
         "titulo": "Otro pick que nos gusta mucho familia 🔥",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -1986,22 +1986,22 @@
       }
     ],
     "picks": {
-      "verde": 13,
+      "verde": 12,
       "rojo": 10,
       "total": 25
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 4 DE 11 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n❌ Vamos con otro pick 🍀\n❌ 🪜 Reto escalera · Día 1/7\n✅ Os dejo otro pick que pinta muy bien 👀\n✅ Este nos encanta para hoy 🔥\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n❌ Esta es de las que nos gustan: cuota para la noche 🔥\n❌ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥\n✅ Os dejo el pick, familia 👇\n✅ Otro pick que nos gusta mucho familia 🔥\n⏳ 📊 RESUMEN DEL SÁBADO 🍀 · pendiente\n\n✅ 4 acertadas · ❌ 7 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 10 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n❌ Vamos con otro pick 🍀\n❌ 🪜 Reto escalera · Día 1/7\n✅ Os dejo otro pick que pinta muy bien 👀\n✅ Este nos encanta para hoy 🔥\n❌ Vamos con la combi del sábado familia 🔥\n❌ 🎯 MI COMBINADA PERSONAL DE HOY 🔥\n❌ Esta es de las que nos gustan: cuota para la noche 🔥\n❌ 🎯 MI COMBINADA PERSONAL · 2º INTENTO 🔥\n✅ Os dejo el pick, familia 👇\n❔ Otro pick que nos gusta mucho familia 🔥 · faltan datos\n⏳ 📊 RESUMEN DEL SÁBADO 🍀 · pendiente\n\n✅ 3 acertadas · ❌ 7 falladas · ⏳ 2 sin resolver"
   },
   "2026-11-15": {
     "dia": "2026-11-15",
     "total": 11,
     "cuentas": {
-      "verde": 1,
+      "verde": 0,
       "rojo": 4,
-      "pendiente": 3,
-      "sin_datos": 3,
+      "pendiente": 2,
+      "sin_datos": 5,
       "no_jugo": 0,
-      "sin_resolver": 6
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -2055,13 +2055,13 @@
       {
         "id": "2026-11-15-pick-tip-2",
         "titulo": "Pick que no podía faltar hoy ⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-15-pick-tip-1446",
         "titulo": "Este nos encanta para hoy 🔥",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2072,10 +2072,10 @@
       }
     ],
     "picks": {
-      "verde": 6,
+      "verde": 5,
       "rojo": 2,
       "total": 21
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 1 DE 5 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❌ Os dejo el pick, familia 👇\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Este nos encanta para hoy 🔥\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n\n✅ 1 acertadas · ❌ 4 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 4 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❌ Os dejo el pick, familia 👇\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n❔ Pick que no podía faltar hoy ⚽ · faltan datos\n❔ Este nos encanta para hoy 🔥 · faltan datos\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n\n✅ 0 acertadas · ❌ 4 falladas · ⏳ 7 sin resolver"
   }
 }
