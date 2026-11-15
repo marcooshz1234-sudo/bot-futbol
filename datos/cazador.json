@@ -33,17 +33,6 @@
  },
  "top": [
   {
-   "local": "Spain",
-   "visitante": "England",
-   "inicio": "2026-11-15T20:45",
-   "texto": "England o empate",
-   "cuota": 2.05,
-   "justa": 2.0,
-   "ev": 0.027,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
    "local": "Deportivo de La Coruña W",
    "visitante": "Barcelona W",
    "inicio": "2026-11-15T18:00",
@@ -78,7 +67,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T14:59",
+  "hora": "2026-11-15T15:26",
   "revisadas": 0,
   "mejor": null
  },
