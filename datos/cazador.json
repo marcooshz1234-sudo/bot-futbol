@@ -31,32 +31,9 @@
    "post": "2026-11-14-cuotaza-1570018-88fe62"
   }
  },
- "top": [
-  {
-   "local": "Deportivo de La Coruña W",
-   "visitante": "Barcelona W",
-   "inicio": "2026-11-15T18:00",
-   "texto": "Más de 2,5 goles en la 2ª parte del Deportivo de La Coruña W–Barcelona W",
-   "cuota": 2.2,
-   "justa": 2.16,
-   "ev": 0.02,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Belarus",
-   "visitante": "Albania",
-   "inicio": "2026-11-15T18:00",
-   "texto": "Ambos marcan en Belarus–Albania",
-   "cuota": 2.2,
-   "justa": 2.19,
-   "ev": 0.004,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  }
- ],
+ "top": [],
  "ultima": {
-  "hora": "2026-11-15T17:32",
+  "hora": "2026-11-15T18:00",
   "revisadas": 0,
   "mejor": null
  },
