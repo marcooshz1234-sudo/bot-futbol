@@ -1998,8 +1998,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 3,
-      "pendiente": 5,
-      "sin_datos": 1,
+      "pendiente": 1,
+      "sin_datos": 5,
       "no_jugo": 0,
       "sin_resolver": 6
     },
@@ -2007,13 +2007,13 @@
       {
         "id": "2026-11-15-ganadores-nations",
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-15-pick-seguro",
         "titulo": "Os dejo el pick, familia 👇",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2037,13 +2037,13 @@
       {
         "id": "2026-11-15-combi-personal-11",
         "titulo": "🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-15-combi-larga-11",
         "titulo": "🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2060,10 +2060,10 @@
       }
     ],
     "picks": {
-      "verde": 5,
+      "verde": 2,
       "rojo": 1,
       "total": 18
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 3 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 3 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 3 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❔ Os dejo el pick, familia 👇 · faltan datos\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n❔ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · faltan datos\n❔ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · faltan datos\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 3 falladas · ⏳ 6 sin resolver"
   }
 }
