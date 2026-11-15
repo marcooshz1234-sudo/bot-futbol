@@ -6731,7 +6731,14 @@
     "partido_id": 1528984,
     "solo_en": [
       "instagram"
-    ]
+    ],
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18176477314397944"
+    }
   },
   {
     "id": "2026-11-15-pick-tip-1446-e",
@@ -6749,6 +6756,15 @@
     "solo_en": [
       "telegram",
       "threads"
-    ]
+    ],
+    "enviado": "2026-11-15T14:46",
+    "mensaje_id": 484,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18378381373215293"
+    }
   }
 ]
