@@ -156,3 +156,4 @@
 - 15/11 (Marcos, foto «TIPS PREMIUM»): las combis largas diarias van en lista «➡️ 🇫🇷 Francia — Over 2.5»: bandera + país/equipo en español y el mercado a la derecha tal cual (Win, BTTS, Over 1.5, Over 2.5, X1, X2). En «gana», solo «Win».
 - 15/11 (Marcos): los picks que los canales suben solo en FOTO (boletos) también se leen: OCR gratis (tesseract) y el mismo filtro que el texto. Mercados raros del boleto (remates, córners, tarjetas, hándicap…) no se copian solos: los mira Claude.
 - 15/11 (Marcos): la primera frase de un post nunca se repite con los últimos posts del día («Este nos encanta para hoy» salió 3 veces seguidas).
+- 15/11 (Marcos): un pick suelto (una sola cosa) SIEMPRE con los escudos/banderas, también en Threads (fallo: la foto se buscaba por el id del post y no la encontraba; ahora por su ruta).

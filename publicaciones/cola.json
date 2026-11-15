@@ -6818,5 +6818,22 @@
       "threads": "18113232176228892",
       "threads_enlace": "18015129356971788"
     }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1500-t",
+    "fecha": "2026-11-15T16:43",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n\n⚽ Bélgica – Italia · 20:45 (Nations League)\n\n🍀 Ambos marcan en Bélgica–Italia @1,57\n\n👨‍💻 Italia ha marcado en todos sus partidos fuera y en 4 de sus últimos 5 marcaron los dos.\n👨‍💻 Bélgica en casa marca 1,6 goles por partido y se juega el grupo.\n👨‍💻 Partido abierto: los dos llegan con un 60% de partidos con más de 2,5 goles.",
+    "foto": "publicaciones/media/2026-11-15-pick-tip-1500.escudos.jpg",
+    "foto_en_threads": true,
+    "origen": "tipster",
+    "directo": true,
+    "cuotas": [
+      1.57
+    ],
+    "partido_id": 1528983,
+    "solo_en": [
+      "threads"
+    ],
+    "nota": "15/11: Marcos borró la de Threads (salió sin las banderas por el fallo del nombre de la foto); repuesta con banderas"
   }
 ]

@@ -95,6 +95,14 @@ def pagina_facebook(token_usuario, pagina=None):
     return _PAGINA["id"], _PAGINA["token"]
 
 
+def url_archivo(ruta):
+    """URL pública de un archivo de publicaciones/media por su ruta (o None si no existe)."""
+    f = RAIZ / ruta
+    if not f.exists() or not str(ruta).startswith("publicaciones/media/"):
+        return None
+    return f"{RAW}{f.name}?v={int(f.stat().st_mtime)}"
+
+
 def url_media(p, ext):
     f = RAIZ / "publicaciones" / "media" / f"{p['id']}.{ext}"
     if not f.exists():
@@ -117,7 +125,7 @@ def foto_threads(p):
     if re.search(r"-pick-seguro$", p["id"]):
         return url_media(p, "jpg")
     if p.get("foto_en_threads") and p.get("foto"):   # 14/11 (Marcos): la foto de los dos escudos también en Threads
-        return url_media(p, p["foto"].rsplit(p["id"] + ".", 1)[-1])
+        return url_archivo(p["foto"])   # 15/11: por su ruta (la de «…-1446-e» se llama «…-1446.escudos.jpg» y salía sin foto)
     if "-boleto-" in p["id"] and p.get("foto"):   # 14/11 (Marcos): el boleto sin su captura no se entiende (el texto no lleva las patas)
         return url_media(p, "tarjeta.jpg")
     # 15/11 (Marcos: «solo a texto cuando son muchas cosas»): lo demás también con foto, salvo las listas largas
@@ -126,7 +134,7 @@ def foto_threads(p):
     if p.get("tarjeta"):   # combis de un partido: la de los dos escudos
         return url_media(p, "tarjeta.jpg") or url_media(p, "jpg")
     if isinstance(p.get("foto"), str) and p["foto"].startswith("publicaciones/media/"):
-        return url_media(p, p["foto"].rsplit(p["id"] + ".", 1)[-1])
+        return url_archivo(p["foto"])
     return url_media(p, "jpg")   # la de Instagram
 
 
