@@ -595,7 +595,8 @@ def quien_gana(filas, titulo, sub=None, liga=None, alto=1350, lema=None):
     bandera dibujada, escudo, flecha y WIN) sobre el fondo del logo nuevo. Selecciones: solo su bandera (no se repite)."""
     from ganadores_img import BANDERAS_SVG, _bandera
     n = len(filas)
-    h = 112 if n <= 6 else 100 if n <= 8 else 84
+    h = 112 if n <= 6 else 100 if n <= 8 else 76 if n <= 10 else 64
+    apretado = n > 8   # 16/11 (Marcos: la de 10 selecciones «se veía cortada»): cabecera más pequeña para que quepan
     css = (QG_CSS + (QG_CL if CL else "")) % {"h": h, "nh": h - 26, "nf": h // 2 - 6, "fw": int((h - 32) * 4 / 3), "fh": h - 32, "fe": h // 2,
                     "eh": h - 22, "nomf": h // 2 - 4, "ph": h - 36, "pf": h // 2 - 12, "ck": h // 2 - 12, "ckf": h // 4 + 2,
                     "letra": LETRA}
@@ -616,12 +617,13 @@ def quien_gana(filas, titulo, sub=None, liga=None, alto=1350, lema=None):
                 f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">{"»" if CL else "➜"}</div>'
                 f'<div class="pick"><div class="ck">{marca}</div><b>{e(f.get("pick", "WIN"))}</b></div></div>')
     cuerpo = (
-        f'<div style="margin-top:{36 if n > 5 else 0}px">{logo_img(170 if n > 5 else 220)}</div>'
-        + (f'<div style="margin-top:4px;display:flex;align-items:center;gap:26px">{_logo_liga(liga, 230)}'
-           f'{_cinta(e(titulo or "QUIÉN GANA HOY"), 66)}</div>' if _logo_liga(liga, 230) else
+        f'<div style="margin-top:{20 if apretado else 36 if n > 5 else 0}px">{logo_img(120 if apretado else 170 if n > 5 else 220)}</div>'
+        + (f'<div style="margin-top:4px;display:flex;align-items:center;gap:26px">{_logo_liga(liga, 150 if apretado else 230)}'
+           f'{_cinta(e(titulo or "QUIÉN GANA HOY"), 56 if apretado else 66)}</div>' if _logo_liga(liga, 230) else
            f'<div style="margin-top:4px">{_cinta(e(titulo or "QUIÉN GANA HOY"), 70)}</div>')
         + (f'<div style="margin-top:14px;font-weight:700;font-size:32px;letter-spacing:3px;color:#c9d4ff">{e(sub)}</div>' if sub else "")
-        + f'<div style="margin-top:30px;display:flex;flex-direction:column;gap:8px">{lis}</div>'
-        f'<div style="margin:36px 0 64px;display:flex;justify-content:center">{_brocha((lema or "¿LA PINTAMOS DE VERDE?") + " 🍀", 54)}</div>')
+        + f'<div style="margin-top:{18 if apretado else 30}px;display:flex;flex-direction:column;gap:{6 if apretado else 8}px">{lis}</div>'
+        f'<div style="margin:{22 if apretado else 36}px 0 {30 if apretado else 64}px;display:flex;justify-content:center">'
+        f'{_brocha((lema or "¿LA PINTAMOS DE VERDE?") + " 🍀", 46 if apretado else 54)}</div>')
     centrar = f"body{{justify-content:center;height:{alto}px}}" if n <= 5 or alto > 1350 else ""   # pocas filas: centrado
     return _html(cuerpo, 1080, alto, extra=css + centrar)

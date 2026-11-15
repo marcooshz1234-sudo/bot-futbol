@@ -120,6 +120,8 @@ def url_media(p, ext):
 
 def foto_threads(p):
     """12/11 (Marcos: «pick del día y ganadores»): la única foto que lleva un post en Threads (o None)."""
+    if p.get("sin_foto"):   # 16/11 (Marcos: «súbela sin foto, si son tantas cosas no hace falta»)
+        return None
     if p.get("ganadores_img") or "-ganadores" in p["id"]:
         return url_media(p, "tarjeta.jpg")
     if re.search(r"-pick-seguro$", p["id"]):

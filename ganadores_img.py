@@ -261,6 +261,10 @@ def generar(filas, titulo, salida, plantilla="oro", liga=None, lema=None):
         pg.set_content(html_estadio(filas, titulo, liga, lema) if plantilla == "estadio" else
                        hacer(filas, titulo, liga) if plantilla == "oro" else hacer(filas, titulo))
         pg.wait_for_timeout(800)
+        alto = pg.evaluate("document.body.scrollHeight")
+        if alto > h:   # 16/11: nunca una tarjeta cortada (la de 10 selecciones se cortaba): se encoge hasta que quepa
+            pg.evaluate(f"document.body.style.zoom = {h / alto:.4f}")
+            pg.wait_for_timeout(300)
         pg.screenshot(path=str(salida), type="jpeg", quality=92)
         b.close()
     return salida

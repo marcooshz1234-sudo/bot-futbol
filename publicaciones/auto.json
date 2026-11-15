@@ -6082,5 +6082,45 @@
     "requiere_ok": true,
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora."
+  },
+  {
+    "fecha": "2026-11-16T00:00",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇫🇴 Islas Feroe - Win\n2. 🇸🇰 Eslovaquia - Win\n3. 🇪🇪 Estonia - Win\n4. 🇮🇸 Islandia - Win\n5. 🇱🇹 Lituania - Win\n6. 🇩🇪 Alemania - Win\n7. 🇬🇷 Grecia - Win\n8. 🇲🇹 Malta - Win\n9. 🇸🇮 Eslovenia - Win\n10. 🇨🇭 Suiza - Win\n\n🍀 ¿PLENO HOY? 👀💚",
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1528987|Match Winner|Home",
+      "1528986|Match Winner|Away",
+      "1528988|Match Winner|Home",
+      "1545617|Match Winner|Home",
+      "1528989|Match Winner|Home",
+      "1528990|Match Winner|Home",
+      "1528991|Match Winner|Home",
+      "1545618|Match Winner|Away",
+      "1545662|Match Winner|Away",
+      "1545652|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.8,
+      1.85,
+      2.05,
+      1.27,
+      1.14,
+      1.85,
+      1.42,
+      1.48,
+      1.53,
+      1.73
+    ],
+    "id": "2026-11-16-ganadores-nations-texto",
+    "solo_en": [
+      "threads"
+    ],
+    "repuesto_de": "2026-11-16-ganadores-nations",
+    "foto": null,
+    "nota": "16/11 Marcos borró el de Threads (la tarjeta salía cortada) y pidió subirlo sin foto",
+    "sin_foto": true
   }
 ]
