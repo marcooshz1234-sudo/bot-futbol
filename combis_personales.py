@@ -104,11 +104,17 @@ def montar(partidos, desde, usadas, mitad=None):
         validos = validos[mitad::2]
     for p in validos:
         ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
-        for sel, txt, cu, aprox, _, eq, nombre, etiqueta in opciones(p):
-            if sel not in usadas:
-                patas.append({"sel": sel, "texto": txt, "cuota": cu, "aprox": aprox, "ini": ini,
-                              "fila": f"➡️ {bandera(eq)} {nombre} — {etiqueta}"})
-                break
+        # 15/11 (Marcos: «pon algún BTTS también»): variedad: cada mercado repetido pesa menos y el BTTS, si lo hay,
+        # entra hasta 3 veces por combi
+        cuenta = {}
+        for x in patas:
+            cuenta[x["etiqueta"]] = cuenta.get(x["etiqueta"], 0) + 1
+        libres = [o for o in opciones(p) if o[0] not in usadas]
+        if libres:
+            puntua = lambda o: o[4] - 0.25 * cuenta.get(o[7], 0) + (0.6 if o[7] == "BTTS" and cuenta.get("BTTS", 0) < 3 else 0)
+            sel, txt, cu, aprox, _, eq, nombre, etiqueta = max(libres, key=puntua)
+            patas.append({"sel": sel, "texto": txt, "cuota": cu, "aprox": aprox, "ini": ini, "etiqueta": etiqueta,
+                          "fila": f"➡️ {bandera(eq)} {nombre} — {etiqueta}"})
         tot = 1.0
         for x in patas:
             tot *= x["cuota"]
