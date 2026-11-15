@@ -6818,6 +6818,83 @@
     }
   },
   {
+    "id": "2026-11-15-pick-tip-2",
+    "fecha": "2026-11-15T19:03",
+    "texto": "Pick que no podía faltar hoy ⚽\n\n🍀 Gana el España @1,91\n\n⚽ España – Inglaterra · hoy 20:45\n\n🧠 Stake 1/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528984|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.91
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-15-pick-tip-2.tg.jpg",
+    "enviado": "2026-11-15T19:03",
+    "mensaje_id": 486,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18341279806263019",
+      "instagram": "18158361856459935",
+      "threads_enlace": "17982229179068127"
+    }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1927",
+    "fecha": "2026-11-15T19:27",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n\n⚽ Francia – Turquía · 20:45 (Nations League)\n\n🍀 Más de 8 córners en Francia–Turquía @1,53\n\n👨‍💻 Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media.\n👨‍💻 Turquía ha perdido sus 5 partidos del grupo: se encerrará atrás y Francia cargará por las bandas.\n👨‍💻 Con Francia obligada a ganar para meterse en cuartos, el partido será de un solo sentido.",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.53
+    ],
+    "partido_id": 1528982,
+    "solo_en": [
+      "instagram"
+    ],
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18128032583310633"
+    }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1927-e",
+    "fecha": "2026-11-15T19:27",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n\n⚽ Francia – Turquía · 20:45 (Nations League)\n\n🍀 Más de 8 córners en Francia–Turquía @1,53\n\n👨‍💻 Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media.\n👨‍💻 Turquía ha perdido sus 5 partidos del grupo: se encerrará atrás y Francia cargará por las bandas.\n👨‍💻 Con Francia obligada a ganar para meterse en cuartos, el partido será de un solo sentido.",
+    "foto": "publicaciones/media/2026-11-15-pick-tip-1927.escudos.jpg",
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.53
+    ],
+    "partido_id": 1528982,
+    "foto_en_threads": true,
+    "solo_en": [
+      "telegram",
+      "threads"
+    ],
+    "texto_threads": "Os dejo otro pick que pinta muy bien 👀\n\n🍀 Más de 8 córners en Francia–Turquía @1,53",
+    "porque_threads": "⚽ Francia – Turquía · 20:45 (Nations League)\n\n👨‍💻 Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media.\n👨‍💻 Turquía ha perdido sus 5 partidos del grupo: se encerrará atrás y Francia cargará por las bandas.\n👨‍💻 Con Francia obligada a ganar para meterse en cuartos, el partido será de un solo sentido.",
+    "enviado": "2026-11-15T19:28",
+    "mensaje_id": 487,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18184277455428393"
+    }
+  },
+  {
     "id": "2026-11-15-combi-partido-1528984",
     "fecha": "2026-11-15T20:10",
     "texto": "Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥\n\n🍀 España gana alguna de las dos partes\n🍀 Ambos marcan\n🍀 Lamine Yamal marca o asiste\n🍀 Oyarzabal marca o asiste\n\n📈 Cuota @5,68\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
@@ -6924,67 +7001,6 @@
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
     "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
-  },
-  {
-    "id": "2026-11-15-pick-tip-2",
-    "fecha": "2026-11-15T19:03",
-    "texto": "Pick que no podía faltar hoy ⚽\n\n🍀 Gana el España @1,91\n\n⚽ España – Inglaterra · hoy 20:45\n\n🧠 Stake 1/10",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "sel": [
-      "1528984|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.91
-    ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "foto_tg": "publicaciones/media/2026-11-15-pick-tip-2.tg.jpg",
-    "enviado": "2026-11-15T19:03",
-    "mensaje_id": 486,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "18341279806263019",
-      "instagram": "18158361856459935",
-      "threads_enlace": "17982229179068127"
-    }
-  },
-  {
-    "id": "2026-11-15-pick-tip-1927",
-    "fecha": "2026-11-15T19:27",
-    "texto": "Os dejo otro pick que pinta muy bien 👀\n\n⚽ Francia – Turquía · 20:45 (Nations League)\n\n🍀 Más de 8 córners en Francia–Turquía @1,53\n\n👨‍💻 Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media.\n👨‍💻 Turquía ha perdido sus 5 partidos del grupo: se encerrará atrás y Francia cargará por las bandas.\n👨‍💻 Con Francia obligada a ganar para meterse en cuartos, el partido será de un solo sentido.",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "facebook": "texto",
-    "cuotas": [
-      1.53
-    ],
-    "partido_id": 1528982,
-    "solo_en": [
-      "instagram"
-    ]
-  },
-  {
-    "id": "2026-11-15-pick-tip-1927-e",
-    "fecha": "2026-11-15T19:27",
-    "texto": "Os dejo otro pick que pinta muy bien 👀\n\n⚽ Francia – Turquía · 20:45 (Nations League)\n\n🍀 Más de 8 córners en Francia–Turquía @1,53\n\n👨‍💻 Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media.\n👨‍💻 Turquía ha perdido sus 5 partidos del grupo: se encerrará atrás y Francia cargará por las bandas.\n👨‍💻 Con Francia obligada a ganar para meterse en cuartos, el partido será de un solo sentido.",
-    "foto": "publicaciones/media/2026-11-15-pick-tip-1927.escudos.jpg",
-    "origen": "tipster",
-    "directo": true,
-    "facebook": "texto",
-    "cuotas": [
-      1.53
-    ],
-    "partido_id": 1528982,
-    "foto_en_threads": true,
-    "solo_en": [
-      "telegram",
-      "threads"
-    ],
-    "texto_threads": "Os dejo otro pick que pinta muy bien 👀\n\n🍀 Más de 8 córners en Francia–Turquía @1,53",
-    "porque_threads": "⚽ Francia – Turquía · 20:45 (Nations League)\n\n👨‍💻 Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media.\n👨‍💻 Turquía ha perdido sus 5 partidos del grupo: se encerrará atrás y Francia cargará por las bandas.\n👨‍💻 Con Francia obligada a ganar para meterse en cuartos, el partido será de un solo sentido."
   },
   {
     "id": "2026-11-15-combi-tip-max",
