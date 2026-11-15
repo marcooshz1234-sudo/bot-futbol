@@ -6602,6 +6602,24 @@
     },
     "errores_redes": {
       "threads_enlace": "400: The requested resource does not exist"
-    }
+    },
+    "nota": "15/11: Marcos borró Telegram y Threads (sin bandera); van en 2026-11-15-pick-tip-1250-2 con los escudos"
+  },
+  {
+    "id": "2026-11-15-pick-tip-1250-2",
+    "fecha": "2026-11-15T12:58",
+    "texto": "Este nos encanta para hoy 🔥\n\n⚽ Finlandia – San Marino · 18:00 (Nations League)\n\n🍀 Finlandia gana las dos partes y ambos marcan: NO @1,55\n\n👨‍💻 San Marino llega con 5 derrotas seguidas y apenas pisa el área rival.\n👨‍💻 Finlandia en casa tiene que ganar y le sobra para marcar en las dos partes.\n👨‍💻 Con San Marino sin gol, solo hace falta que Finlandia no se duerma en ninguna parte.",
+    "origen": "tipster",
+    "directo": true,
+    "cuotas": [
+      1.55
+    ],
+    "partido_id": 1528981,
+    "solo_en": [
+      "telegram",
+      "threads"
+    ],
+    "foto_en_threads": true,
+    "foto": "publicaciones/media/2026-11-15-pick-tip-1250-2.escudos.jpg"
   }
 ]
