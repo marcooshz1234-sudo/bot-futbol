@@ -7082,6 +7082,52 @@
     "solo_en": [
       "telegram",
       "instagram"
+    ],
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18138392737741771"
+    }
+  },
+  {
+    "id": "2026-11-15-verde-auto-2026-11-15-pick-seguro-b",
+    "fecha": "2026-11-15T23:15",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana Croacia\n\n📈 Cuota @1,57\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-15-verde-auto-2026-11-15-pick-seguro-b.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-15-pick-seguro-b"
+  },
+  {
+    "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1500",
+    "fecha": "2026-11-15T23:15",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Bélgica–Italia\n\n📈 Cuota @1,57",
+    "foto": "publicaciones/media/2026-11-15-verde-auto-2026-11-15-pick-tip-1500.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-15-pick-tip-1500",
+    "solo_en": [
+      "instagram"
+    ]
+  },
+  {
+    "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1927",
+    "fecha": "2026-11-15T23:15",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 8 córners en Francia–Turquía\n\n📈 Cuota @1,53\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-15-verde-auto-2026-11-15-pick-tip-1927.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-15-pick-tip-1927",
+    "solo_en": [
+      "instagram"
     ]
   }
 ]

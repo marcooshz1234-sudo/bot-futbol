@@ -45,11 +45,21 @@
   "prensa-1528984-7723f33d": "2026-11-15T11:31",
   "prensa-1528984-8a8aa241": "2026-11-15T11:31",
   "prensa-1528982-KylianMbappé": "2026-11-15T11:31",
-  "foto-2026-11-15-verde-auto-2026-11-15-pick-tip-1": "2026-11-15T22:35"
+  "foto-2026-11-15-verde-auto-2026-11-15-pick-tip-1": "2026-11-15T22:35",
+  "foto-2026-11-15-verde-auto-2026-11-15-pick-seguro-b": "2026-11-15T23:01"
  },
- "abiertos": [],
- "revisado": "2026-11-15T22:47",
+ "abiertos": [
+  {
+   "clave": "foto-2026-11-15-verde-auto-2026-11-15-pick-seguro-b",
+   "t": "🖼️ Sale a las 23:15 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  }
+ ],
+ "revisado": "2026-11-15T23:01",
  "historial": [
+  {
+   "hora": "2026-11-15T23:01",
+   "t": "🖼️ Sale a las 23:15 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "hora": "2026-11-15T22:35",
    "t": "🖼️ Sale a las 22:45 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
@@ -285,10 +295,6 @@
   {
    "hora": "2026-11-12T09:28",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
-  },
-  {
-   "hora": "2026-11-12T09:08",
-   "t": "🔁 12/11: el mismo pronóstico en 3 posts (pick-th-1, combi-tres, combi-multi)"
   }
  ]
 }
