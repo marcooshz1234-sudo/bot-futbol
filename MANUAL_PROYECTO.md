@@ -117,6 +117,10 @@ Canal de Telegram: `-1003953339107`.
 | `marca_tg.py`, `cazador.py` | Posts de la marca en Telegram; cuotazas |
 | `tarjeta_tg.py` | Tarjeta de Telegram (13/11): banderas/escudos, logo de la competición, el pick escrito en la foto y texto corto; tras 3 posts con foto, uno en texto |
 | `asistente.py` | Bot del móvil |
+| `nombres.py` | (15/11) Corrector único antes de publicar: países y equipos en español y sin «el» delante (Telegram, Threads, imágenes, tarjetas) |
+| `combis_personales.py` | (15/11) Las dos combis largas diarias del canal (A 11:30, B 12:30), solo Threads e Instagram, en lista «➡️ bandera equipo — mercado» |
+| `info_top.py` | (15/11) «INFORMACIÓN TOP»: crisis real contada por 2+ medios → borrador con fuentes que solo sale con el «✅ Publicar» de Marcos (máx. 1 cada 3 días) |
+| OCR (`tesseract`, en `tipsters_auto.py`) | (15/11) Lee los picks que los canales suben solo en foto; mercados raros de boleto los mira Claude |
 | `app_datos.py`, `panel_datos.py`, `mis_datos.py`, `oficina_datos.py` | Datos de la app, el panel, Mis combis y la Oficina |
 | `ajustes.py` | Ajustes de cada rol (panel → `control.json`) |
 | `limpiar_media.py` | Borra imágenes de posts de hace más de 3 días, fotos de boletos y partidos en directo de hace más de 7 |
