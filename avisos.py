@@ -118,6 +118,18 @@ def main():
                                   f"Pone {pone:.2f} y en bet365 saldría ~{real:.2f}. Díselo a Claude o cancélala."))
     except Exception as e:
         print("revisión de cuotas:", e)
+    # 15/11 (Marcos): la info «top» de los canales (historias sin pick claro que el bot no sabe copiar solo) → aviso
+    # al móvil con el texto, para reenviársela a Claude solo si interesa (sin gastar créditos)
+    TOP = re.compile(r"INFORMACI[OÓ]N TOP|INFO TOP|BOMBAZO|STAKAZO|STAKE ?10|TOP TOP|ESPECIAL|M[AÁ]XIMA CONFIANZA", re.I)
+    hace = (ahora - timedelta(hours=3)).strftime("%Y-%m-%dT%H:%M")
+    for canal_, ms in (leer(DATOS / "tipsters_raw.json", {}) or {}).items():
+        for m in ms:
+            t = m.get("texto") or ""
+            if m.get("fecha", "") >= hace and TOP.search(t) and not re.search(r"click aqu[ií]|adquirirla|bit\.ly", t, re.I):
+                k = f"top-{m.get('id') or canal_ + m.get('fecha', '')}"
+                if k not in hecho:
+                    avisos.append((k, f"🚨 INFO TOP en {canal_} ({m.get('fecha', '')[11:16]})\n\n{t[:3000]}\n\n"
+                                      "👉 Si te gusta, reenvíasela a Claude y la sube al momento."))
     # avisos sueltos que dejo yo a mano (p. ej. una prueba): datos/avisos_manuales.json = [{"k", "texto"}]
     for x in leer(DATOS / "avisos_manuales.json", []) or []:
         if x["k"] not in hecho:
