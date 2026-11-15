@@ -154,6 +154,15 @@ def main():
             post["foto"] = foto
             shutil.copy(RAIZ / foto, RAIZ / "publicaciones" / "media" / f"{pid}.tarjeta.jpg")
         nuevos.append(post)
+        # 15/11: Inglaterra remates, Bélgica–Italia y Francia córners no llevaron su verde en Threads: en Threads
+        # estaban en «…-e» / «…-t» (otro id). Cada post de la familia que salió en Threads lleva su comentario.
+        for i, o in originales.items():
+            if i.startswith(p["id"] + "-") and (o.get("redes") or {}).get("threads") and not o.get("caducada") \
+                    and "threads" not in (post.get("solo_en") or ["threads"]):
+                vid = f"{ahora:%Y-%m-%d}-verde-auto-{i[-40:]}"
+                if vid not in ids_cola:
+                    nuevos.append({**{k: v for k, v in post.items() if k not in ("solo_en", "solo_redes")},
+                                   "id": vid, "verde_de": i, "solo_en": ["threads"]})
         if p.get("picks"):
             celebrados.add(clave(p))   # 14/11: la otra copia del mismo pick ya no sale
         hechos.add(p["id"])

@@ -71,6 +71,16 @@ class VerdesSeguros(unittest.TestCase):
         self.assertNotIn("threads", grupo["solo_en"])
         self.assertTrue(all(p["fecha"] == grupo["fecha"] for p in sueltos))   # el comentario de Threads no se queda fuera
 
+    def test_familia_partida_lleva_verde_en_threads(self):   # 15/11: Inglaterra remates sin verde en Threads
+        cola = [{"id": "2026-11-15-pick-tip-1446", "texto": "🍀 Inglaterra: más de 3,5 remates a puerta @1,80",
+                 "solo_en": ["instagram"], "redes": {"instagram": "1"}},
+                {"id": "2026-11-15-pick-tip-1446-e", "texto": "🍀 Inglaterra: más de 3,5 remates a puerta @1,80",
+                 "solo_en": ["telegram", "threads"], "enviado": "2026-11-15T14:46", "redes": {"threads": "2"}}]
+        out = self.correr([{"id": "2026-11-15-pick-tip-1446", "titulo": "Pick", "estado": "verde", "cuota": 1.8,
+                            "picks": [pick(texto="Inglaterra: más de 3,5 remates a puerta", cuota=1.8)]}], cola)
+        self.assertIn("2026-11-15-pick-tip-1446-e", out)
+        self.assertEqual(out["2026-11-15-pick-tip-1446-e"]["solo_en"], ["threads"])
+
     def test_espera_a_que_se_confirme(self):
         out = self.correr([{"id": "2026-11-12-pick-seguro", "titulo": "Pick", "estado": "verde",
                             "cuota": 1.53, "picks": [pick(definitivo=False)]}])
