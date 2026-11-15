@@ -241,8 +241,9 @@ def main(objetivo=None):
         if not foto and not p.get("sin_tarjeta"):   # 15/11 sin_tarjeta = solo texto con el porqué entero. 13/11 (Marcos: «más fotos, no tanto texto»): tarjeta con banderas/escudos y texto corto
             import tarjeta_tg
             t = tarjeta_tg.hacer(p, texto, cola + auto)
-            if t and len(tarjeta_tg.texto_corto(texto)) <= LIMITE_PIE_FOTO:
-                foto, texto = t, tarjeta_tg.texto_corto(texto)
+            corto = texto if p.get("origen") == "tipster" else tarjeta_tg.texto_corto(texto)   # 15/11 (Marcos): las copias llevan el porqué
+            if t and len(corto) <= LIMITE_PIE_FOTO:
+                foto, texto = t, corto
                 p["foto_tg"] = foto
         try:
             if foto:
