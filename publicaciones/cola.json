@@ -6599,6 +6599,9 @@
       "instagram_reel": null,
       "threads": "17878223808587865",
       "instagram": "17988027921089352"
+    },
+    "errores_redes": {
+      "threads_enlace": "400: The requested resource does not exist"
     }
   }
 ]
