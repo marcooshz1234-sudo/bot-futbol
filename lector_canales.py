@@ -141,9 +141,9 @@ def leer_con_cuenta(datos):
 
 
 def main(forzar=False):
-    marca = DATOS / "tipsters_raw.visto"   # cada 30 min como mucho (el bucle lo llama cada pocos minutos)
+    marca = DATOS / "tipsters_raw.visto"   # cada 10 min como mucho (15/11: antes 30; Marcos copia al momento y las cuotas bajan)
     try:
-        if not forzar and marca.exists() and (datetime.now(MADRID) - datetime.fromisoformat(marca.read_text().strip())).total_seconds() < 1800:
+        if not forzar and marca.exists() and (datetime.now(MADRID) - datetime.fromisoformat(marca.read_text().strip())).total_seconds() < 600:
             return
     except ValueError:
         pass
