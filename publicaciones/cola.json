@@ -6782,7 +6782,14 @@
     "partido_id": 1528983,
     "solo_en": [
       "instagram"
-    ]
+    ],
+    "redes": {
+      "threads": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18084526229361059"
+    }
   },
   {
     "id": "2026-11-15-pick-tip-1500-e",
@@ -6800,6 +6807,15 @@
       "telegram",
       "threads"
     ],
-    "foto_en_threads": true
+    "foto_en_threads": true,
+    "enviado": "2026-11-15T15:40",
+    "mensaje_id": 485,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18113232176228892"
+    }
   }
 ]
