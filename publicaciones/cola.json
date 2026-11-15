@@ -6767,5 +6767,39 @@
       "threads": "18378381373215293",
       "threads_enlace": "18126373532289868"
     }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1500",
+    "fecha": "2026-11-15T15:40",
+    "texto": "Este nos encanta para hoy 🔥\n\n⚽ Bélgica – Italia · 20:45 (Nations League)\n\n🍀 Ambos marcan en Bélgica–Italia @1,57\n\n👨‍💻 Italia ha marcado en todos sus partidos fuera y en 4 de sus últimos 5 marcaron los dos.\n👨‍💻 Bélgica en casa marca 1,6 goles por partido y se juega el grupo.\n👨‍💻 Partido abierto: los dos llegan con un 60% de partidos con más de 2,5 goles.",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.57
+    ],
+    "partido_id": 1528983,
+    "solo_en": [
+      "instagram"
+    ]
+  },
+  {
+    "id": "2026-11-15-pick-tip-1500-e",
+    "fecha": "2026-11-15T15:40",
+    "texto": "Este nos encanta para hoy 🔥\n\n⚽ Bélgica – Italia · 20:45 (Nations League)\n\n🍀 Ambos marcan en Bélgica–Italia @1,57\n\n👨‍💻 Italia ha marcado en todos sus partidos fuera y en 4 de sus últimos 5 marcaron los dos.\n👨‍💻 Bélgica en casa marca 1,6 goles por partido y se juega el grupo.\n👨‍💻 Partido abierto: los dos llegan con un 60% de partidos con más de 2,5 goles.",
+    "foto": "publicaciones/media/2026-11-15-pick-tip-1500.escudos.jpg",
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.57
+    ],
+    "partido_id": 1528983,
+    "solo_en": [
+      "telegram",
+      "threads"
+    ],
+    "foto_en_threads": true
   }
 ]
