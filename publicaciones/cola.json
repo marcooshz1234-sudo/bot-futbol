@@ -6716,5 +6716,39 @@
       "facebook": null,
       "instagram": "17891264736503419"
     }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1446",
+    "fecha": "2026-11-15T14:46",
+    "texto": "Este nos encanta para hoy 🔥\n\n⚽ España – Inglaterra · 20:45 (Nations League)\n\n🍀 Inglaterra: más de 3,5 remates a puerta @1,80\n\n👨‍💻 Inglaterra hace 5,8 remates a puerta por partido: llega con 16 goles en 5 partidos del grupo.\n👨‍💻 Necesita ganar para quedar primera, así que tendrá que ir a por el partido.\n👨‍💻 Con Kane, Saka y sus extremos, genera ocasiones aunque España tenga el balón.",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.8
+    ],
+    "partido_id": 1528984,
+    "solo_en": [
+      "instagram"
+    ]
+  },
+  {
+    "id": "2026-11-15-pick-tip-1446-e",
+    "fecha": "2026-11-15T14:46",
+    "texto": "Este nos encanta para hoy 🔥\n\n⚽ España – Inglaterra · 20:45 (Nations League)\n\n🍀 Inglaterra: más de 3,5 remates a puerta @1,80\n\n👨‍💻 Inglaterra hace 5,8 remates a puerta por partido: llega con 16 goles en 5 partidos del grupo.\n👨‍💻 Necesita ganar para quedar primera, así que tendrá que ir a por el partido.\n👨‍💻 Con Kane, Saka y sus extremos, genera ocasiones aunque España tenga el balón.",
+    "foto": "publicaciones/media/2026-11-15-pick-tip-1446.escudos.jpg",
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.8
+    ],
+    "partido_id": 1528984,
+    "foto_en_threads": true,
+    "solo_en": [
+      "telegram",
+      "threads"
+    ]
   }
 ]
