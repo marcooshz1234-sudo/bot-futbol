@@ -205,6 +205,49 @@ def post_combi(patas, ahora, n):
             "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
 
 
+def combi_canales(cola, ahora, hechos):
+    """15/11 (Marcos: «si en algún momento tienes 2-3 cosas nuevas haces una combi»): con los picks de canales ya
+    copiados hoy que aún no han empezado y no han ido en otra combi de canales, si hay 2 o 3 nuevos de partidos
+    distintos y sin chocar, sale además una combi con ellos (@1,50 mínimo)."""
+    from plantillas import choca
+    hoy = ahora.strftime("%Y-%m-%d")
+    cand = []
+    for p in cola:
+        if not p["id"].startswith(f"{hoy}-pick-tip") or p.get("caducada") or p.get("borrar"):
+            continue
+        if len(p.get("sel") or []) != 1 or len(p.get("cuotas") or []) != 1 or f"canales|{p['id']}" in hechos:
+            continue
+        pk = {"partido_id": int(p["sel"][0].split("|")[0])}
+        ini = inicio(pk)
+        if not ini or ini - ahora < MARGEN + ESPERA:
+            continue
+        m = re.search(r"🍀 (.+?) @\d", p["texto"])
+        if m:
+            cand.append({"p": p, "ini": ini, "sel": p["sel"][0], "cuota": float(p["cuotas"][0]), "txt": m.group(1)})
+    cand.sort(key=lambda c: c["ini"])
+    grupo = []
+    for c in cand:
+        if len(grupo) < 3 and all(c["sel"].split("|")[0] != g["sel"].split("|")[0] for g in grupo) \
+                and not choca(c["sel"], [g["sel"] for g in grupo]):
+            grupo.append(c)
+    tot = 1.0
+    for g in grupo:
+        tot *= g["cuota"]
+    if len(grupo) < 2 or tot < 1.5:
+        return None
+    ids = {p["id"] for p in cola}
+    n = 1
+    while f"{hoy}-combi-canales-{n}" in ids:
+        n += 1
+    lineas = ["🔥 COMBI CON LO MEJOR DE HOY 🔥", ""] + [f"🍀 {g['txt']} ({g['ini']:%H:%M})" for g in grupo] \
+        + ["", f"📈 Cuota @{coma(tot)}", "", "🔔 Activad las notificaciones, que vienen más combis 👀"]
+    hechos.update(f"canales|{g['p']['id']}" for g in grupo)
+    return {"id": f"{hoy}-combi-canales-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
+            "texto": "\n".join(lineas), "foto": None, "origen": "tipster", "directo": True, "forzar": True,
+            "sel": [g["sel"] for g in grupo], "cuotas": [g["cuota"] for g in grupo],
+            "nota": "combi con los picks de canales copiados hoy (Marcos 15/11)"}
+
+
 def main(ahora=None):
     ahora = ahora or datetime.now(MADRID)
     hoy, manana = ahora.strftime("%Y-%m-%d"), (ahora + timedelta(days=1)).strftime("%Y-%m-%d")
@@ -342,6 +385,9 @@ def main(ahora=None):
             p = post_combi(patas, ahora, siguiente(f"{patas[0]['dia']}-combi-tip"))
         nuevos.append(p)
         hechos.update(clave(x) for x in patas)
+    cc = combi_canales(cola + nuevos, ahora, hechos)   # 15/11 (Marcos)
+    if cc:
+        nuevos.append(cc)
     if nuevos:
         cola += nuevos
         COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

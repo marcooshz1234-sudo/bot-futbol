@@ -147,3 +147,4 @@
 - 🧠 **Cada argumento tiene que apoyar el pick** (15/11, Marcos: «cómo va a poner que Bielorrusia marca y abajo que los dos llegan cansados»). Cansancio/rotaciones solo del rival; nada neutro ni en contra.
 
 - 15/11 (Marcos): las copias de canales salen SIEMPRE con bandera o escudo en Telegram y Threads (foto VS de los dos escudos) y con el porqué entero.
+- 15/11 (Marcos): cuando haya 2-3 picks de canales nuevos (copiados hoy, sin empezar, partidos distintos y sin chocar) sale además una combi con ellos (@1,50 mínimo). Cada pick va en una sola combi de canales.
