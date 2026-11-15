@@ -6379,6 +6379,14 @@
     "origen": "tipster",
     "directo": true,
     "facebook": "texto",
-    "nota": "15/11 11:25: copia de TipsAnalistas (11:17) pedida por Marcos; sin cuota (no la tenemos)"
+    "nota": "15/11 11:25: copia de TipsAnalistas (11:17) pedida por Marcos; sin cuota (no la tenemos)",
+    "enviado": "2026-11-15T11:23",
+    "mensaje_id": 475,
+    "redes": {
+      "threads": "18030766481700461"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]
