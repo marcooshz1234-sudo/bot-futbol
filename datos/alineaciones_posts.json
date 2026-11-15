@@ -3505,16 +3505,297 @@
    "equipos": {}
   },
   "1528979": {
-   "hora": "2026-11-15T14:25:56.732437+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-15T14:36:32.503771+01:00",
+   "xi": [
+    "Fabiano",
+    "A. Shikkis",
+    "L. Konomis",
+    "K. Laifis",
+    "G. Malekkides",
+    "K. Artymatas",
+    "G. Kastanos",
+    "S. Georgiou",
+    "M. Edwards",
+    "I. Pittas",
+    "Charalambos Charalambous",
+    "D. Petković",
+    "J. Drešaj",
+    "S. Rubežić",
+    "I. Vujačić",
+    "R. Radunović",
+    "Vasilije Adžić",
+    "S. Lončar",
+    "M. Janković",
+    "N. Krstović",
+    "S. Jovetić",
+    "M. Osmajić"
+   ],
+   "banquillo": [
+    "J. Mall",
+    "K. Pileas",
+    "N. Panagiotou",
+    "Zannetos Savva",
+    "C. Kyriakou",
+    "L. Loizou",
+    "I. Kosti",
+    "M. Brown",
+    "M. Tzionis",
+    "I. Pikis",
+    "A. Paraskevas",
+    "E. Antoniou",
+    "B. Tomašević",
+    "A. Đurić",
+    "I. Nikić",
+    "M. Vukotić",
+    "M. Brnović",
+    "S. Hakšabanović",
+    "A. Latković",
+    "D. Vuković",
+    "V. Đukanović",
+    "B. Popović",
+    "Aleksa Maraš",
+    "O. Gašević"
+   ],
+   "equipos": {
+    "1106": [
+     {
+      "n": "Fabiano",
+      "pos": "G"
+     },
+     {
+      "n": "A. Shikkis",
+      "pos": "D"
+     },
+     {
+      "n": "L. Konomis",
+      "pos": "D"
+     },
+     {
+      "n": "K. Laifis",
+      "pos": "D"
+     },
+     {
+      "n": "G. Malekkides",
+      "pos": "D"
+     },
+     {
+      "n": "K. Artymatas",
+      "pos": "M"
+     },
+     {
+      "n": "G. Kastanos",
+      "pos": "M"
+     },
+     {
+      "n": "S. Georgiou",
+      "pos": "M"
+     },
+     {
+      "n": "M. Edwards",
+      "pos": "F"
+     },
+     {
+      "n": "I. Pittas",
+      "pos": "F"
+     },
+     {
+      "n": "Charalambos Charalambous",
+      "pos": "F"
+     }
+    ],
+    "1109": [
+     {
+      "n": "D. Petković",
+      "pos": "G"
+     },
+     {
+      "n": "J. Drešaj",
+      "pos": "D"
+     },
+     {
+      "n": "S. Rubežić",
+      "pos": "D"
+     },
+     {
+      "n": "I. Vujačić",
+      "pos": "D"
+     },
+     {
+      "n": "R. Radunović",
+      "pos": "D"
+     },
+     {
+      "n": "Vasilije Adžić",
+      "pos": "M"
+     },
+     {
+      "n": "S. Lončar",
+      "pos": "M"
+     },
+     {
+      "n": "M. Janković",
+      "pos": "M"
+     },
+     {
+      "n": "N. Krstović",
+      "pos": "F"
+     },
+     {
+      "n": "S. Jovetić",
+      "pos": "F"
+     },
+     {
+      "n": "M. Osmajić",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1545616": {
-   "hora": "2026-11-15T14:25:56.732437+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-15T14:36:32.503771+01:00",
+   "xi": [
+    "R. Matrevics",
+    "R. Savaļnieks",
+    "D. Balodis",
+    "A. Černomordijs",
+    "O. Vientiess",
+    "D. Cirkin",
+    "E. Dašķevičs",
+    "L. Vapne",
+    "D. Zelenkovs",
+    "A. Cigaņiks",
+    "V. Gutkovskis",
+    "A. Mishiev",
+    "A. Bandikyan",
+    "G. Harutyunyan",
+    "S. Mkrtchyan",
+    "N. Tiknizyan",
+    "N. Grigoryan",
+    "K. Hovhannisyan",
+    "U. Iwu",
+    "Z. Shaghoyan",
+    "A. Serobyan",
+    "A. Gharibyan"
+   ],
+   "banquillo": [
+    "M. Strods",
+    "A. Aleksanjan",
+    "E. Emsis",
+    "K. Grabovskis",
+    "R. Jurkovskis",
+    "F. Orols",
+    "D. Patijčuks",
+    "N. Puriņš",
+    "R. Uldriķis",
+    "I. Patrikejevs",
+    "M. Toņiševs",
+    "K. Čudars",
+    "E. Piloyan",
+    "K. Muradyan",
+    "A. Miranyan",
+    "G. Matinyan",
+    "G. Manvelyan",
+    "N. Hovhannisyan",
+    "H. Harutyunyan",
+    "E. Grigoryan",
+    "O. Čančarević",
+    "A. Ghazaryan",
+    "G. Ranos"
+   ],
+   "equipos": {
+    "1092": [
+     {
+      "n": "R. Matrevics",
+      "pos": "G"
+     },
+     {
+      "n": "R. Savaļnieks",
+      "pos": "D"
+     },
+     {
+      "n": "D. Balodis",
+      "pos": "D"
+     },
+     {
+      "n": "A. Černomordijs",
+      "pos": "D"
+     },
+     {
+      "n": "O. Vientiess",
+      "pos": "D"
+     },
+     {
+      "n": "D. Cirkin",
+      "pos": "D"
+     },
+     {
+      "n": "E. Dašķevičs",
+      "pos": "M"
+     },
+     {
+      "n": "L. Vapne",
+      "pos": "M"
+     },
+     {
+      "n": "D. Zelenkovs",
+      "pos": "M"
+     },
+     {
+      "n": "A. Cigaņiks",
+      "pos": "M"
+     },
+     {
+      "n": "V. Gutkovskis",
+      "pos": "F"
+     }
+    ],
+    "1094": [
+     {
+      "n": "A. Mishiev",
+      "pos": "G"
+     },
+     {
+      "n": "A. Bandikyan",
+      "pos": "D"
+     },
+     {
+      "n": "G. Harutyunyan",
+      "pos": "D"
+     },
+     {
+      "n": "S. Mkrtchyan",
+      "pos": "D"
+     },
+     {
+      "n": "N. Tiknizyan",
+      "pos": "D"
+     },
+     {
+      "n": "N. Grigoryan",
+      "pos": "M"
+     },
+     {
+      "n": "K. Hovhannisyan",
+      "pos": "M"
+     },
+     {
+      "n": "U. Iwu",
+      "pos": "M"
+     },
+     {
+      "n": "Z. Shaghoyan",
+      "pos": "M"
+     },
+     {
+      "n": "A. Serobyan",
+      "pos": "F"
+     },
+     {
+      "n": "A. Gharibyan",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

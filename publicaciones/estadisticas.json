@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 14:27",
+ "actualizado": "2026-11-15 14:37",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2779,
-   "hoy": 3,
+   "seguidores": 2780,
+   "hoy": 4,
    "serie": [
     2359,
     2593,
@@ -24,7 +24,7 @@
     2691,
     2738,
     2776,
-    2779
+    2780
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3230,
- "total_hoy": 9,
+ "total": 3231,
+ "total_hoy": 10,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:28",
+  "hora": "20:10",
   "dia": "2026-11-15",
-  "titulo": "Combi larga del día · 11 partidos"
+  "titulo": "Os dejo la combi del españa – inglater"
  },
  "ayer": {
   "aciertos": 1,
@@ -210,7 +210,7 @@
   },
   "2026-11-15": {
    "instagram": 41,
-   "threads": 2779,
+   "threads": 2780,
    "facebook": 1,
    "telegram": 409
   }
