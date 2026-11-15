@@ -41,7 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 3.0
+   "edad_h": 3.5
   },
   {
    "local": "Granada CF",
@@ -52,18 +52,7 @@
    "justa": 1.49,
    "ev": 0.006,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Juventus U23",
-   "visitante": "Treviso",
-   "inicio": "2026-11-15T17:30",
-   "texto": "Juventus U23 marca",
-   "cuota": 1.4,
-   "justa": 1.42,
-   "ev": -0.012,
-   "fuente": "las otras casas",
-   "edad_h": 3.0
+   "edad_h": 0.0
   },
   {
    "local": "Finland",
@@ -74,29 +63,7 @@
    "justa": 1.86,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 3.0
-  },
-  {
-   "local": "Real Sociedad W",
-   "visitante": "Athletic Club W",
-   "inicio": "2026-11-15T12:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del Real Sociedad W–Athletic Club W",
-   "cuota": 2.2,
-   "justa": 2.23,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Amarante",
-   "visitante": "Felgueiras 1932",
-   "inicio": "2026-11-15T12:00",
-   "texto": "Amarante marca",
-   "cuota": 1.4,
-   "justa": 1.42,
-   "ev": -0.016,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 3.5
   },
   {
    "local": "Juventus U23",
@@ -107,11 +74,33 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 3.0
+   "edad_h": 0.0
+  },
+  {
+   "local": "Amarante",
+   "visitante": "Felgueiras 1932",
+   "inicio": "2026-11-15T12:00",
+   "texto": "Amarante marca",
+   "cuota": 1.4,
+   "justa": 1.42,
+   "ev": -0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Real Sociedad W",
+   "visitante": "Athletic Club W",
+   "inicio": "2026-11-15T12:00",
+   "texto": "Más de 1,5 goles en la 2ª parte del Real Sociedad W–Athletic Club W",
+   "cuota": 2.2,
+   "justa": 2.23,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T05:10",
+  "hora": "2026-11-15T05:43",
   "revisadas": 0,
   "mejor": null
  },
