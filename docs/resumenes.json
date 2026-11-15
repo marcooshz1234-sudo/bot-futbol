@@ -2077,5 +2077,31 @@
       "total": 21
     },
     "texto": "📊 BALANCE DEL DOMINGO: 2 DE 8 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n❌ Os dejo el pick, familia 👇\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n❌ Pick que no podía faltar hoy ⚽\n✅ Este nos encanta para hoy 🔥\n✅ Os dejo otro pick que pinta muy bien 👀\n\n✅ 2 acertadas · ❌ 6 falladas · ⏳ 3 sin resolver"
+  },
+  "2026-11-16": {
+    "dia": "2026-11-16",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-16-ganadores-nations",
+        "titulo": "🏆 NATIONS LEAGUE - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 10
+    },
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }

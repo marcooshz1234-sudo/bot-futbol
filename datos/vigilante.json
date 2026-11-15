@@ -44,11 +44,39 @@
   "prensa-1528984-8a8aa241": "2026-11-15T11:31",
   "prensa-1528982-KylianMbappé": "2026-11-15T11:31",
   "foto-2026-11-15-verde-auto-2026-11-15-pick-tip-1": "2026-11-15T22:35",
-  "foto-2026-11-15-verde-auto-2026-11-15-pick-seguro-b": "2026-11-15T23:01"
+  "foto-2026-11-15-verde-auto-2026-11-15-pick-seguro-b": "2026-11-15T23:01",
+  "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1446-e-threads": "2026-11-16T00:02",
+  "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-e-threads": "2026-11-16T00:02",
+  "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t-threads": "2026-11-16T00:02"
  },
- "abiertos": [],
- "revisado": "2026-11-15T23:51",
+ "abiertos": [
+  {
+   "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1446-e-threads",
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+  },
+  {
+   "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-e-threads",
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+  },
+  {
+   "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t-threads",
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+  }
+ ],
+ "revisado": "2026-11-16T00:02",
  "historial": [
+  {
+   "hora": "2026-11-16T00:02",
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+  },
+  {
+   "hora": "2026-11-16T00:02",
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+  },
+  {
+   "hora": "2026-11-16T00:02",
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+  },
   {
    "hora": "2026-11-15T23:01",
    "t": "🖼️ Sale a las 23:15 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
@@ -276,18 +304,6 @@
   {
    "hora": "2026-11-12T11:49",
    "t": "🖼️ Sale a las 12:00 y falta su foto con escudos (sin ella no sale): Os dejo la combi del Turquía – Bélgica ⚽🔥"
-  },
-  {
-   "hora": "2026-11-12T11:27",
-   "t": "📰 Italia–Francia: «Tchouaméni es baja para Francia por lesión previo a los duelos por Liga de Naciones» (Por Esto!) · tenemos 2 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2"
-  },
-  {
-   "hora": "2026-11-12T09:28",
-   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, combi-loca)"
-  },
-  {
-   "hora": "2026-11-12T09:28",
-   "t": "🔁 12/11: el mismo pronóstico en 3 posts (combi-nations-th-1, combi-multi, pick-seguro-2)"
   }
  ]
 }
