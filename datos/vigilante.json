@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-15",
  "vistos": {
-  "foto-2026-11-12-verde-auto-2026-11-12-pick-seguro-2": "2026-11-12T23:06",
   "bucle-imagenes_cola-2026111223": "2026-11-12T23:42",
   "prensa-1545615-1eabbd57": "2026-11-13T00:03",
   "prensa-1528972-EHaaland": "2026-11-13T00:50",
@@ -48,13 +47,8 @@
   "foto-2026-11-15-verde-auto-2026-11-15-pick-tip-1": "2026-11-15T22:35",
   "foto-2026-11-15-verde-auto-2026-11-15-pick-seguro-b": "2026-11-15T23:01"
  },
- "abiertos": [
-  {
-   "clave": "foto-2026-11-15-verde-auto-2026-11-15-pick-seguro-b",
-   "t": "🖼️ Sale a las 23:15 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
-  }
- ],
- "revisado": "2026-11-15T23:01",
+ "abiertos": [],
+ "revisado": "2026-11-15T23:12",
  "historial": [
   {
    "hora": "2026-11-15T23:01",
