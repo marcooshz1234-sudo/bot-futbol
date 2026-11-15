@@ -41,18 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Belarus",
-   "visitante": "Albania",
-   "inicio": "2026-11-15T18:00",
-   "texto": "Ambos marcan en Belarus–Albania",
-   "cuota": 2.2,
-   "justa": 2.19,
-   "ev": 0.004,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 4.7
   },
   {
    "local": "Amarante",
@@ -66,15 +55,15 @@
    "edad_h": 0.0
   },
   {
-   "local": "Juventus U23",
-   "visitante": "Treviso",
-   "inicio": "2026-11-15T17:30",
-   "texto": "Ambos marcan en Juventus U23–Treviso",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.016,
+   "local": "Finland",
+   "visitante": "San Marino",
+   "inicio": "2026-11-15T18:00",
+   "texto": "Finland marca 4 o más",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 4.7
   },
   {
    "local": "Real Sociedad W",
@@ -83,6 +72,17 @@
    "texto": "Más de 1,5 goles en la 2ª parte del Real Sociedad W–Athletic Club W",
    "cuota": 2.2,
    "justa": 2.23,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Juventus U23",
+   "visitante": "Treviso",
+   "inicio": "2026-11-15T17:30",
+   "texto": "Ambos marcan en Juventus U23–Treviso",
+   "cuota": 1.8,
+   "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
    "edad_h": 0.0
@@ -100,7 +100,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T06:24",
+  "hora": "2026-11-15T06:51",
   "revisadas": 0,
   "mejor": null
  },
