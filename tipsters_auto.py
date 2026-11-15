@@ -90,6 +90,8 @@ def buscar_partido(linea, todo, cands):
 def mercado(l, lado_l, lado_v):
     """(mercado, opcion) como API-Football, o None si no está claro."""
     lado = "Home" if lado_l and not lado_v else "Away" if lado_v and not lado_l else None
+    if re.search(r"remate|tiros?\b|corner|saque de esquina|tarjeta|falta|parada|fuera de juego|asistencia|handicap|h[aá]ndicap", l):
+        return None   # 15/11: «Inglaterra - Más de 3.5 / Remates a puerta» (boleto) NO es «más de 3,5 goles»
     if re.search(r"ambos marcan|btts|ambos equipos marcan", l):
         return "Both Teams Score", "Yes"
     if re.search(r"[a-z]{3,}\s*[+-]\s*\d(?:[.,]\d+)?(?!\s*goles?)\b", l) and not re.search(r"(?:mas de|over)\s*\d", l):
@@ -107,7 +109,8 @@ def mercado(l, lado_l, lado_v):
         return (f"Total - {lado}", f"Over {max(k, 0)}.5")
     if lado and re.search(r"o empate|\b1x\b|\bx2\b|doble oportunidad", l):
         return "Double Chance", "Home/Draw" if lado == "Home" else "Draw/Away"
-    if lado and re.search(r"\bgana\b|victoria|\bwin\b|\bganador\b", l) and "clasifica" not in l:
+    if lado and re.search(r"\bgana\b|victoria|\bwin\b|\bganador\b|resultado final|resultado del partido|\b1x2\b|"
+                          r"tiempo reglamentario", l) and "clasifica" not in l:   # 15/11: boletos («Francia / Resultado final»)
         return "Match Winner", lado
     if re.search(r"^\W*empate\W*$|\bempate\b(?! no)", l) and not lado:
         return "Match Winner", "Draw"
@@ -136,9 +139,62 @@ def argumentos(texto):
     return [re.sub(r"^[•\-▪️\s]+", "", x).strip() for x in texto.splitlines() if x.strip().startswith(("•", "-", "▪"))][:4]
 
 
+OCR = DATOS / "tipsters_ocr.json"
+_OCR = None
+
+
+def texto_foto(ruta):
+    """15/11 (Marcos: «muchas veces los picks están solo en fotos»): el texto del boleto con OCR (tesseract, gratis,
+    sin IA). Se guarda en datos/tipsters_ocr.json para no repetirlo."""
+    global _OCR
+    if _OCR is None:
+        _OCR = leer(OCR, {}) or {}
+    if ruta in _OCR:
+        return _OCR[ruta]
+    import subprocess
+    from pathlib import Path
+    f = DATOS.parent / ruta
+    if not f.exists():
+        return ""
+    try:
+        r = subprocess.run(["tesseract", str(f), "stdout", "-l", "spa+eng", "--psm", "6"], capture_output=True, text=True, timeout=60)
+        if r.returncode != 0:
+            r = subprocess.run(["tesseract", str(f), "stdout", "-l", "eng", "--psm", "6"], capture_output=True, text=True, timeout=60)
+        t = r.stdout
+    except Exception as e:
+        print("OCR:", e)
+        return ""
+    _OCR[ruta] = t
+    OCR.write_text(json.dumps(dict(list(_OCR.items())[-400:]), ensure_ascii=False) + "\n", encoding="utf-8")
+    return t
+
+
+CUOTA_SUELTA = re.compile(r"(?<![\d€])(\d[.,]\d{2})(?![\d€%])\s*$")
+
+
+def lineas_boleto(t):
+    """Las patas de un boleto: líneas que acaban en una cuota (1.80), con la línea de debajo pegada si es la
+    descripción del mercado («Equipo visitante - Remates a puerta»). La cuota se pasa al formato «@1.80»."""
+    ls = [re.sub(r"^[^\wÀ-ÿ]+", "", x).strip() for x in t.splitlines() if x.strip()]
+    out = []
+    for i, x in enumerate(ls):
+        m = CUOTA_SUELTA.search(x)
+        if not m or "€" in x or re.search(r"(?i)importe|ganancia|total|cuota total", x):
+            continue
+        sig = ls[i + 1] if i + 1 < len(ls) and not CUOTA_SUELTA.search(ls[i + 1]) and "€" not in ls[i + 1] else ""
+        out.append(f"🍀 {x[:m.start()].strip()} {sig} @{m.group(1)}".strip())
+    return out
+
+
 def analizar_post(canal, p, cands):
     t = p.get("texto") or ""
-    if not t.strip() or NO_FUTBOL.search(t) or PUBLI.search(t) or "✅" in t[:3]:
+    if PUBLI.search(t) or "✅" in t[:3]:
+        return []
+    if p.get("foto_ruta"):   # 15/11: el pick en la foto (boleto) → sus patas como líneas de pick
+        bol = lineas_boleto(texto_foto(p["foto_ruta"]))
+        if bol:
+            t = "\n".join(bol) + ("\n" + t if t.strip() else "")
+    if not t.strip() or NO_FUTBOL.search(t):
         return []
     todo = norm(t)
     out = []
