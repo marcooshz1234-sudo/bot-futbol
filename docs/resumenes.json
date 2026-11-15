@@ -1997,11 +1997,11 @@
     "total": 8,
     "cuentas": {
       "verde": 0,
-      "rojo": 0,
-      "pendiente": 7,
+      "rojo": 1,
+      "pendiente": 6,
       "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -2049,15 +2049,15 @@
       {
         "id": "2026-11-15-marcadores-nations-th",
         "titulo": "🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄",
-        "estado": "pendiente",
+        "estado": "rojo",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 1,
+      "verde": 2,
       "rojo": 0,
       "total": 18
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Vamos con otro pick, familia 👇 · faltan datos\n⏳ Vamos con la combi del domingo familia 🔥 · pendiente\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n⏳ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 1 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Vamos con otro pick, familia 👇 · faltan datos\n⏳ Vamos con la combi del domingo familia 🔥 · pendiente\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n\n✅ 0 acertadas · ❌ 1 falladas · ⏳ 7 sin resolver"
   }
 }
