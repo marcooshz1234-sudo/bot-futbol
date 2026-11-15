@@ -51,18 +51,18 @@
  "abiertos": [
   {
    "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1446-e-threads",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
   },
   {
    "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-e-threads",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
   },
   {
    "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t-threads",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
   }
  ],
- "revisado": "2026-11-16T00:23",
+ "revisado": "2026-11-16T00:34",
  "historial": [
   {
    "hora": "2026-11-16T00:02",
