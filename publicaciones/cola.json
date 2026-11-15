@@ -6474,114 +6474,6 @@
     "mensaje_id": 479
   },
   {
-    "id": "2026-11-15-combi-partido-1528984",
-    "fecha": "2026-11-15T20:10",
-    "texto": "Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥\n\n🍀 España gana alguna de las dos partes\n🍀 Ambos marcan\n🍀 Lamine Yamal marca o asiste\n🍀 Oyarzabal marca o asiste\n\n📈 Cuota @5,68\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528984|To Win Either Half|Home",
-      "1528984|Both Teams Score|Yes",
-      "1528984|Player to Score or Assist|Lamine Yamal",
-      "1528984|Player to Score or Assist|Mikel Oyarzabal"
-    ],
-    "cuotas": [
-      1.4,
-      1.62,
-      1.62,
-      1.73
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Spain",
-      "visitante": "England",
-      "id_l": 9,
-      "id_v": 10,
-      "logo_l": "https://media.api-sports.io/football/teams/9.png",
-      "logo_v": "https://media.api-sports.io/football/teams/10.png",
-      "fecha": "2026-11-15T20:45",
-      "liga": "UEFA Nations League"
-    },
-    "solo_redes": true,
-    "requiere_ok": true,
-    "pide_cuota": true,
-    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
-    "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
-  },
-  {
-    "id": "2026-11-15-combi-partido-1528982",
-    "fecha": "2026-11-15T20:10",
-    "texto": "Os dejo la combi del Francia – Turquía 🇫🇷🇹🇷🔥\n\n🍀 Ambos marcan\n🍀 Olise marca o asiste\n🍀 Barcola marca o asiste\n🍀 Cherki marca o asiste\n\n📈 Cuota @5,16\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528982|Both Teams Score|Yes",
-      "1528982|Player to Score or Assist|Michael Olise",
-      "1528982|Player to Score or Assist|Bradley Barcola",
-      "1528982|Player to Score or Assist|Rayan Cherki"
-    ],
-    "cuotas": [
-      1.73,
-      1.3,
-      1.53,
-      1.53
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "France",
-      "visitante": "Türkiye",
-      "id_l": 2,
-      "id_v": 777,
-      "logo_l": "https://media.api-sports.io/football/teams/2.png",
-      "logo_v": "https://media.api-sports.io/football/teams/777.png",
-      "fecha": "2026-11-15T20:45",
-      "liga": "UEFA Nations League"
-    },
-    "solo_redes": true,
-    "requiere_ok": true,
-    "pide_cuota": true,
-    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
-    "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
-  },
-  {
-    "id": "2026-11-15-combi-partido-1528985",
-    "fecha": "2026-11-15T20:10",
-    "texto": "Os dejo la combi del Croacia – Chequia 🇭🇷🇨🇿🔥\n\n🍀 Croacia gana alguna de las dos partes\n🍀 Croacia marca 2 o más\n🍀 Kramaric marca o asiste\n🍀 Matanovic marca o asiste\n\n📈 Cuota @3,90\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528985|To Win Either Half|Home",
-      "1528985|Total - Home|Over 1.5",
-      "1528985|Player to Score or Assist|Andrej Kramaric",
-      "1528985|Player to Score or Assist|Igor Matanovic"
-    ],
-    "cuotas": [
-      1.3,
-      1.57,
-      1.73,
-      1.57
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Croatia",
-      "visitante": "Czech Republic",
-      "id_l": 3,
-      "id_v": 770,
-      "logo_l": "https://media.api-sports.io/football/teams/3.png",
-      "logo_v": "https://media.api-sports.io/football/teams/770.png",
-      "fecha": "2026-11-15T20:45",
-      "liga": "UEFA Nations League"
-    },
-    "solo_redes": true,
-    "requiere_ok": true,
-    "pide_cuota": true,
-    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
-    "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
-  },
-  {
     "id": "2026-11-15-pick-tip-1250",
     "fecha": "2026-11-15T12:50",
     "texto": "Este nos encanta para hoy 🔥\n\n⚽ Finlandia – San Marino · 18:00 (Nations League)\n\n🍀 Finlandia gana las dos partes y ambos marcan: NO @1,55\n\n👨‍💻 San Marino llega con 5 derrotas seguidas y apenas pisa el área rival.\n👨‍💻 Finlandia en casa tiene que ganar y le sobra para marcar en las dos partes.\n👨‍💻 Con San Marino sin gol, solo hace falta que Finlandia no se duerma en ninguna parte.",
@@ -6860,7 +6752,14 @@
       "threads"
     ],
     "nota": "15/11: Marcos («venga súbelo»): Inglaterra remates repuesto en Threads con banderas · 15/11 quitada: Marcos quiere el escudo arriba (versión -t2)",
-    "caducada": "quitada"
+    "caducada": "quitada",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17979212172148560"
+    }
   },
   {
     "id": "2026-11-15-pick-tip-1446-t2",
@@ -6899,5 +6798,113 @@
       "threads"
     ],
     "nota": "15/11 Marcos: «el escudo arriba»: Threads con texto corto (escudos arriba) y el porqué en el primer comentario"
+  },
+  {
+    "id": "2026-11-15-combi-partido-1528984",
+    "fecha": "2026-11-15T20:10",
+    "texto": "Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥\n\n🍀 España gana alguna de las dos partes\n🍀 Ambos marcan\n🍀 Lamine Yamal marca o asiste\n🍀 Oyarzabal marca o asiste\n\n📈 Cuota @5,68\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528984|To Win Either Half|Home",
+      "1528984|Both Teams Score|Yes",
+      "1528984|Player to Score or Assist|Lamine Yamal",
+      "1528984|Player to Score or Assist|Mikel Oyarzabal"
+    ],
+    "cuotas": [
+      1.4,
+      1.62,
+      1.62,
+      1.73
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Spain",
+      "visitante": "England",
+      "id_l": 9,
+      "id_v": 10,
+      "logo_l": "https://media.api-sports.io/football/teams/9.png",
+      "logo_v": "https://media.api-sports.io/football/teams/10.png",
+      "fecha": "2026-11-15T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "solo_redes": true,
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
+    "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
+  },
+  {
+    "id": "2026-11-15-combi-partido-1528982",
+    "fecha": "2026-11-15T20:10",
+    "texto": "Os dejo la combi del Francia – Turquía 🇫🇷🇹🇷🔥\n\n🍀 Ambos marcan\n🍀 Olise marca o asiste\n🍀 Barcola marca o asiste\n🍀 Cherki marca o asiste\n\n📈 Cuota @5,16\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528982|Both Teams Score|Yes",
+      "1528982|Player to Score or Assist|Michael Olise",
+      "1528982|Player to Score or Assist|Bradley Barcola",
+      "1528982|Player to Score or Assist|Rayan Cherki"
+    ],
+    "cuotas": [
+      1.73,
+      1.3,
+      1.53,
+      1.53
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "France",
+      "visitante": "Türkiye",
+      "id_l": 2,
+      "id_v": 777,
+      "logo_l": "https://media.api-sports.io/football/teams/2.png",
+      "logo_v": "https://media.api-sports.io/football/teams/777.png",
+      "fecha": "2026-11-15T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "solo_redes": true,
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
+    "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
+  },
+  {
+    "id": "2026-11-15-combi-partido-1528985",
+    "fecha": "2026-11-15T20:10",
+    "texto": "Os dejo la combi del Croacia – Chequia 🇭🇷🇨🇿🔥\n\n🍀 Croacia gana alguna de las dos partes\n🍀 Croacia marca 2 o más\n🍀 Kramaric marca o asiste\n🍀 Matanovic marca o asiste\n\n📈 Cuota @3,90\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528985|To Win Either Half|Home",
+      "1528985|Total - Home|Over 1.5",
+      "1528985|Player to Score or Assist|Andrej Kramaric",
+      "1528985|Player to Score or Assist|Igor Matanovic"
+    ],
+    "cuotas": [
+      1.3,
+      1.57,
+      1.73,
+      1.57
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Croatia",
+      "visitante": "Czech Republic",
+      "id_l": 3,
+      "id_v": 770,
+      "logo_l": "https://media.api-sports.io/football/teams/3.png",
+      "logo_v": "https://media.api-sports.io/football/teams/770.png",
+      "fecha": "2026-11-15T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "solo_redes": true,
+    "requiere_ok": true,
+    "pide_cuota": true,
+    "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
+    "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
   }
 ]
