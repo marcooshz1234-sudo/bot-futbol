@@ -41,7 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 7.9
   },
   {
    "local": "Cyprus",
@@ -66,15 +66,26 @@
    "edad_h": 0.0
   },
   {
-   "local": "Belgium",
-   "visitante": "Italy",
-   "inicio": "2026-11-15T20:45",
-   "texto": "Belgium o empate",
-   "cuota": 1.4,
-   "justa": 1.4,
-   "ev": -0.003,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "local": "Kazakhstan",
+   "visitante": "Slovakia",
+   "inicio": "2026-11-16T16:00",
+   "texto": "Kazakhstan marca",
+   "cuota": 1.57,
+   "justa": 1.59,
+   "ev": -0.014,
+   "fuente": "las otras casas",
+   "edad_h": 7.9
+  },
+  {
+   "local": "Finland",
+   "visitante": "San Marino",
+   "inicio": "2026-11-15T18:00",
+   "texto": "Finland marca 4 o más",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.015,
+   "fuente": "las otras casas",
+   "edad_h": 7.9
   },
   {
    "local": "Real Sociedad W",
@@ -100,7 +111,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T09:37",
+  "hora": "2026-11-15T10:06",
   "revisadas": 0,
   "mejor": null
  },
