@@ -140,7 +140,9 @@ def posts_dia(posts, dia, cola=()):
     """13/11: los posts del día (no listas ni verdes) ya resueltos: [(id, picks, estado, cuota)]."""
     out = []
     for p in posts:
-        if p['fecha'][:10] != dia or p.get('lista') or any(k in p['id'] for k in LISTAS):
+        # 15/11: «Más de 2,5 goles en España–Inglaterra» se subió la noche antes (fecha 14/11 22:37, id del 15):
+        # cuenta el día de su id, que es el de sus partidos
+        if (p['id'][:10] != dia and p['fecha'][:10] != dia) or p.get('lista') or any(k in p['id'] for k in LISTAS):
             continue
         ps = [x for x in p.get('picks', []) if not x.get('exacto')]
         if ps and p.get('estado') in ('verde', 'rojo'):
@@ -153,7 +155,20 @@ def textos_picks(picks, dia, posts=(), cola=()):
     """13/11 (Marcos: «poner no sé cuántos fallados queda muy feo… busca una manera para que quede bien» y luego «los
     fallados tienen que salir, pero no pongas la ❌»). Todo como «x de y» (sin ❌ ni «fallados»), el % solo si es bueno
     (≥ 60 %), los picks sueltos aparte de las combis y la lista de lo que salió en verde con su cuota."""
-    v, n = sum(x['estado'] == 'verde' for x in picks), len(picks)
+    rp = posts_dia(posts, dia, cola)
+    # 15/11: «7 de 10 picks en verde» con solo 4 en «Para dentro» no cuadraba: la cuenta es de los posts que
+    # subimos (cada post una vez, el mismo pick de dos canales una vez), igual que la lista
+    if rp:
+        unicos_rp, ya_rp = [], set()
+        for x in rp:
+            k = tuple(sorted(clave_pick(y) for y in x[1]))
+            if k not in ya_rp:
+                ya_rp.add(k)
+                unicos_rp.append(x)
+        rp = unicos_rp
+        v, n = sum(x[2] == 'verde' for x in rp), len(rp)
+    else:
+        v, n = sum(x['estado'] == 'verde' for x in picks), len(picks)
     if v < MIN_VERDES:   # un día con 1 o 2 verdes no luce: mejor no sacar resumen
         return None, None
     tipos = {}
@@ -166,7 +181,6 @@ def textos_picks(picks, dia, posts=(), cola=()):
     # 13/11 (Marcos: «los fallados tienen que salir, pero no pongas la ❌: que no se vea tan mal»): «x de y», sin ❌
     lineas = [f"📊 RESUMEN DEL {DIAS[fecha.weekday()]} 🍀", '',
               f"✅ {v} de {n} picks en verde" + (f" · {round(100 * v / n)} %" if bueno(v, n) else '')]
-    rp = posts_dia(posts, dia, cola)
     sueltos = [x for x in rp if len(x[1]) == 1]
     sv = sum(x[2] == 'verde' for x in sueltos)
     if sueltos:

@@ -173,8 +173,59 @@ def comprobar(p, texto=None, otros=None):
     return fallos
 
 
+def _picks_txt(t):
+    """Las líneas de pick de un texto, normalizadas (sin emoji ni espacios): para ver si dos posts son el mismo."""
+    import unicodedata
+    out = set()
+    for l in (t or "").splitlines():
+        if "@" in l and not re.search(r"Cuota\s*@|Historial|💶", l):
+            l = unicodedata.normalize("NFKD", l).encode("ascii", "ignore").decode().lower()
+            out.add(re.sub(r"[^a-z0-9@,.]+", "", l))
+    return out
+
+
+def redes_de(p):
+    return set(p.get("solo_en") or ["telegram", "threads", "instagram"])
+
+
+def duplicado(p, texto=None, cola=None):
+    """15/11: Madrid CFF y Finlandia salieron 2 veces en Telegram, y Bélgica–Italia e Inglaterra 3 veces en Threads
+    (se volvían a subir con otro id). Un post con los mismos picks que otro YA publicado ese día en la misma red no
+    sale, salvo que el original esté en borrados.json (Marcos lo borró) o el nuevo diga «repuesto_de» un borrado."""
+    if p.get("verde_de") or any(k in p.get("id", "") for k in ("verde", "rojo", "balance", "resumen", "ganadores",
+                                                              "marcadores", "lista", "porque")):
+        return None
+    mios = _picks_txt(texto or p.get("texto"))
+    if not mios:
+        return None
+    if cola is None:
+        cola = (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or [])
+    b = leer(RAIZ / "publicaciones" / "borrados.json", []) or []
+    borrados = set(b if isinstance(b, list) else b)
+    redes = redes_de(p)
+    for o in cola:
+        if o.get("id") == p.get("id") or o.get("id", "")[:10] != p.get("id", "")[:10] or o.get("id") in borrados:
+            continue
+        if o.get("id") == p.get("repuesto_de"):
+            continue
+        if _picks_txt(o.get("texto")) != mios:
+            continue
+        salio = ({"telegram"} if o.get("enviado") else set()) | {k for k, v in (o.get("redes") or {}).items() if v}
+        salio = {"instagram" if k.startswith("instagram") else k for k in salio}
+        comun = redes & salio
+        if comun:
+            return f"ya salió como {o['id']} en {', '.join(sorted(comun))} (si Marcos lo borró, apúntalo en borrados.json)"
+    return None
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
+    try:
+        d = duplicado(p, texto)
+        if d:
+            return d
+    except Exception as e:
+        print("comprobar_post duplicado:", e)
     try:
         f = [x for x in comprobar(p, texto, otros=_sin_este(p)) if x[0] in GRAVES and x[0] not in ("repetido", "choca")
              or (x[0] in ("repetido", "choca") and not es_copia(p) and p.get("origen") == "claude")]
