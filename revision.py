@@ -88,6 +88,9 @@ def bajas_partido(fid):
         # Lamine como baja. Si la estrella sale ANTES de «descarta a / deja fuera a», los descartados son los de detrás.
         if jugador:
             ap = next(ap for ap, nom in ests.items() if nom == jugador and re.search(rf"\b{re.escape(ap)}\b", t))
+            # 15/11: «… con la vuelta de Yamal y Oyarzabal» tampoco es baja: vuelve
+            if re.search(rf"\b(vuelta|regreso|retorno|vuelven?|recupera)\b(\s+(de|a|el|la|los))?\s+[^,.:;]*\b{re.escape(ap)}\b", t):
+                continue
             corte = re.search(r"\b(descarta a|deja fuera a|se queda sin|sin contar con)\b", t)
             if corte and t.find(ap) < corte.start() and not re.search(rf"\b{re.escape(ap)}\b", t[corte.end():]):
                 jugador = None
