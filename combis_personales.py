@@ -42,20 +42,34 @@ def opciones(p):
     L, V = limpio(es(p["local"])), limpio(es(p["visitante"]))
     partido = f"{L}–{V}"
     out = []
-    for lado, k, nombre in (("local", "Home", L), ("visitante", "Away", V)):
+    # 15/11 (Marcos, foto de «TIPS PREMIUM»): en la lista «➡️ 🇫🇷 Francia — Over 2.5»: país/equipo en español y
+    # el mercado a la derecha tal cual (Win, BTTS, Over 1.5, X1, X2, X1 / Over 1.5…)
+    for lado, k, nombre, eq in (("local", "Home", L, p["local"]), ("visitante", "Away", V, p["visitante"])):
         cu = g("Match Winner", k)
         forma = (sl if lado == "local" else sv).get("forma", "")
         if cu and 1.15 <= cu <= 1.95 and (forma.count("V") >= 2 or cu <= 1.65):
             art = "" if nombre in _paises() else "el "
-            out.append((f"{p['id']}|Match Winner|{k}", f"Gana {art}{nombre}", cu, False, -cu))
+            out.append((f"{p['id']}|Match Winner|{k}", f"Gana {art}{nombre}", cu, False, -cu, eq, nombre, "Win"))
+        dc = g("Double Chance", "Home/Draw" if lado == "local" else "Draw/Away")
+        if dc and 1.20 <= dc <= 1.45 and forma.count("D") <= 2:
+            out.append((f"{p['id']}|Double Chance|{'Home/Draw' if lado == 'local' else 'Draw/Away'}",
+                        f"{nombre} o empate", dc, False, -dc - 0.15, eq, nombre, "X1" if lado == "local" else "X2"))
+    o15, o25 = g("Goals Over/Under", "Over 1.5"), g("Goals Over/Under", "Over 2.5")
+    if o25 and 1.35 <= o25 <= 1.80 and _pct(sl.get("o25")) + _pct(sv.get("o25")) >= 120:
+        out.append((f"{p['id']}|Goals Over/Under|Over 2.5", f"Más de 2,5 goles en {partido}", o25, False, -o25 - 0.02,
+                    p["local"], L, "Over 2.5"))
+    if o15 and 1.20 <= o15 <= 1.40 and _pct(sl.get("o15")) + _pct(sv.get("o15")) >= 150:
+        out.append((f"{p['id']}|Goals Over/Under|Over 1.5", f"Más de 1,5 goles en {partido}", o15, False, -o15 - 0.2,
+                    p["local"], L, "Over 1.5"))
     cu = g("Both Teams Score", "Yes")
     if cu and 1.45 <= cu <= 1.85 and _pct(sl.get("btts")) + _pct(sv.get("btts")) >= 100 and min(_pct(sl.get("btts")), _pct(sv.get("btts"))) >= 40:
-        out.append((f"{p['id']}|Both Teams Score|Yes", f"Ambos marcan en {partido}", cu, False, -cu - 0.05))
+        out.append((f"{p['id']}|Both Teams Score|Yes", f"Ambos marcan en {partido}", cu, False, -cu - 0.05, p["local"], L, "BTTS"))
     am_l, am_v = _num(sl.get("amarillas")) or 0, _num(sv.get("amarillas")) or 0
     tot = c.get("Cards Over/Under") or []
     linea_alta = any(n in ("Over 3.5", "Over 4.5") for n, _ in tot)
     if am_l >= 2.0 and am_v >= 2.0 and linea_alta:
-        out.append((f"{p['id']}|Ambos tarjeta|Sí", f"Ambos reciben tarjeta en {partido}", 1.40, True, -1.45))
+        out.append((f"{p['id']}|Ambos tarjeta|Sí", f"Ambos reciben tarjeta en {partido}", 1.40, True, -1.45, p["local"], L,
+                    "Ambos tarjeta"))
     return sorted(out, key=lambda o: -o[4])
 
 
@@ -68,6 +82,11 @@ def limpio(n):
     n = re.sub(r"\s*\(fem[.,]\)|\s+W$", "", n)
     n = re.sub(r"^(?:AD|CD|UD|SD|CF|FC)\s+|\s+(?:CF|FC|SAD)$", "", n).strip()
     return ARREGLOS.get(n, n)
+
+
+def bandera(eq):
+    import semana
+    return semana.BANDERAS.get(semana.pais_equipo(eq)) or "⚽"
 
 
 def _paises():
@@ -85,9 +104,10 @@ def montar(partidos, desde, usadas, mitad=None):
         validos = validos[mitad::2]
     for p in validos:
         ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
-        for sel, txt, cu, aprox, _ in opciones(p):
+        for sel, txt, cu, aprox, _, eq, nombre, etiqueta in opciones(p):
             if sel not in usadas:
-                patas.append({"sel": sel, "texto": txt, "cuota": cu, "aprox": aprox, "ini": ini})
+                patas.append({"sel": sel, "texto": txt, "cuota": cu, "aprox": aprox, "ini": ini,
+                              "fila": f"➡️ {bandera(eq)} {nombre} — {etiqueta}"})
                 break
         tot = 1.0
         for x in patas:
@@ -101,8 +121,7 @@ def texto_post(patas, segunda=False):
     tot = 1.0
     for x in patas:
         tot *= x["cuota"]
-    from estilo_threads import emoji_pick
-    filas = [f"{emoji_pick(x['texto'])} {x['texto']} ({x['ini']:%H:%M}) @{x['cuota']:.2f}".replace(".", ",") for x in patas]
+    filas = [x["fila"] for x in patas]
     redondo = f"{tot:,.0f}".replace(",", ".") if tot >= 100 else f"{tot:.2f}".replace(".", ",")
     gana = f"{tot * 10:,.0f}".replace(",", ".")
     aprox = " aprox." if any(x["aprox"] for x in patas) or tot >= 100 else ""
@@ -118,7 +137,7 @@ def texto_corto(patas, segunda=False):
         tot *= x["cuota"]
     redondo = f"{tot:,.0f}".replace(",", ".") if tot >= 100 else f"{tot:.2f}".replace(".", ",")
     titulo = f"💣 SEGUNDA COMBI LARGA DEL DÍA · {len(patas)} PARTIDOS 💣" if segunda else f"🔥 COMBI LARGA DEL DÍA · {len(patas)} PARTIDOS 🔥"
-    return (f"{titulo}\n\n" + "\n".join(f"🍀 {x['texto']}" for x in patas) +
+    return (f"{titulo}\n\n" + "\n".join(x["fila"] for x in patas) +
             f"\n\n📈 Cuota @{redondo}{' aprox.' if any(x['aprox'] for x in patas) or tot >= 100 else ''}\n\n🍀 ¿La pintamos de verde? 👀💚")
 
 
