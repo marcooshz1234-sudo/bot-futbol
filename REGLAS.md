@@ -25,7 +25,8 @@
 - 👤 Todas las cuotas, de bet365. Si no se sabe la cuota, la selección no va.
 - 👤 **Calculadora del «Crear apuesta»** (13/11): `python3 crear_apuesta.py <id>`. Nunca estimaciones a ojo. Cada cuota
   real que da Marcos se guarda sola (datos/crear_medidas.json) y el bot aprende de ella.
-- 🤖 **Combi de un partido: la cuota NO se multiplica.** Se publica con la cuota real del «Crear apuesta» que da Marcos (12/11).
+- 🤖 **Combi de un partido: la cuota NO se multiplica.** Sale con la cuota de la calculadora (`crear_apuesta.py`) y «aprox.»; si Marcos da la real antes de salir, manda la suya (15/11: las 3 de escudos del domingo no salieron esperando su cuota). (plantillas.cuota_crear + test_crear_calculadora_post)
+- ⚙️ **Nunca el mismo post dos veces en la misma red** (15/11: Madrid CFF y Finlandia ×2 en Telegram, Bélgica–Italia ×3 en Threads). Para volver a subir uno, el original va a `borrados.json` o el nuevo lleva «repuesto_de». (comprobar_post.duplicado)
 - ⚙️ Cuotazas (errores de bet365 frente a Pinnacle): mínimo 1,40 (11/11).
 
 ## 2. Mercados

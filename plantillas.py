@@ -413,6 +413,16 @@ MUY_LARGA = 10   # picks a partir de los que se dice «coged los que más os gus
 CIERRE_TELEGRAM = "🔔 Activad las notificaciones, que vienen más combis 👀"
 
 
+def cuota_crear(p):
+    """La cuota del «Crear apuesta» que calcula el bot, o None."""
+    try:
+        import crear_apuesta
+        return crear_apuesta.cuota(p["sel"], p["cuotas"]) if p.get("sel") and p.get("cuotas") else None
+    except Exception as e:
+        print("calculadora crear apuesta:", e)
+        return None
+
+
 AVISO_CUOTA = ("🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y "
                "respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.")
 
@@ -872,7 +882,15 @@ def posts_del_dia(dia, d):
     for p in salida:
         if re.match(r"(combi-partido|estrella)", p["id"][11:]) and len({s_.split("|")[0] for s_ in p.get("sel") or []}) == 1 \
                 and len(p.get("sel") or []) > 1:
-            p.update(requiere_ok=True, pide_cuota=True, aviso=AVISO_CUOTA)
+            # 15/11 (Marcos: «sí»: las 3 combis con escudos del domingo no salieron esperando su cuota): la cuota la
+            # pone la calculadora (crear_apuesta.py, aprende de sus cuotas reales) con «aprox.»; si no se puede
+            # calcular, se espera a Marcos como antes. Si Marcos da la real antes de salir, manda la suya.
+            calc = cuota_crear(p)
+            if calc:
+                p["texto"] = re.sub(r"📈 Cuota @\s*\d+[.,]\d+", f"📈 Cuota @{num(calc)} aprox.", p["texto"])
+                p.update(cuota_total=calc, cuota_calculada=True)
+            else:
+                p.update(requiere_ok=True, pide_cuota=True, aviso=AVISO_CUOTA)
     # 05/11 (Marcos): «GANADORES» con escudos cada día, solo en Threads (ganadores_win.py)
     try:
         import ganadores_win
