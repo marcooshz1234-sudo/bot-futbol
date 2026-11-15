@@ -6418,6 +6418,41 @@
     }
   },
   {
+    "id": "2026-11-15-pick-seguro-b",
+    "fecha": "2026-11-15T11:41",
+    "texto": "Os dejo el pick, familia 👇\n\n⚽ Croacia – Chequia · 20:45\n\n🍀 Gana Croacia @1,57\n\n👨‍💻 Chequia ha perdido sus 5 partidos de esta Nations y solo ha marcado 3 goles.\n👨‍💻 En sus dos últimos no marcó: 0-2 contra España y 3-0 en Inglaterra.\n👨‍💻 En la ida, Croacia ya ganó 1-2 en Chequia.\n👨‍💻 Con la promo de bet365, si se pone 2 goles arriba ya está pagada.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": "publicaciones/media/2026-11-15-pick-seguro-b.jpg",
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528985|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "foto_en_threads": true,
+    "nota": "15/11: sustituye al pick del día de Bielorrusia (borrado por Marcos); OK de Marcos",
+    "enviado": "2026-11-15T11:42",
+    "mensaje_id": 477,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "17991066173877308",
+      "instagram": "17878881000636744"
+    }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1144",
+    "fecha": "2026-11-15T11:44",
+    "texto": "Este nos encanta para hoy 🔥\n\n⚽ Legnago Salus – Triestina · 14:30 (Serie D)\n\n🍀 Gana el Legnago Salus @1,66\n\n👨‍💻 La Triestina tiene 8 jugadores con un virus intestinal y 3 lesionados más.\n👨‍💻 Tuvo que cancelar los entrenamientos del viernes y el sábado.\n👨‍💻 Pidió aplazar el partido y el Legnago no aceptó: llega en cuadro.",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "facebook": "texto",
+    "cuotas": [
+      1.66
+    ]
+  },
+  {
     "id": "2026-11-15-combi-partido-1528984",
     "fecha": "2026-11-15T20:10",
     "texto": "Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥\n\n🍀 España gana alguna de las dos partes\n🍀 Ambos marcan\n🍀 Lamine Yamal marca o asiste\n🍀 Oyarzabal marca o asiste\n\n📈 Cuota @5,68\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
@@ -6524,28 +6559,5 @@
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
     "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
-  },
-  {
-    "id": "2026-11-15-pick-seguro-b",
-    "fecha": "2026-11-15T11:41",
-    "texto": "Os dejo el pick, familia 👇\n\n⚽ Croacia – Chequia · 20:45\n\n🍀 Gana Croacia @1,57\n\n👨‍💻 Chequia ha perdido sus 5 partidos de esta Nations y solo ha marcado 3 goles.\n👨‍💻 En sus dos últimos no marcó: 0-2 contra España y 3-0 en Inglaterra.\n👨‍💻 En la ida, Croacia ya ganó 1-2 en Chequia.\n👨‍💻 Con la promo de bet365, si se pone 2 goles arriba ya está pagada.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": "publicaciones/media/2026-11-15-pick-seguro-b.jpg",
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528985|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.57
-    ],
-    "foto_en_threads": true,
-    "nota": "15/11: sustituye al pick del día de Bielorrusia (borrado por Marcos); OK de Marcos",
-    "enviado": "2026-11-15T11:42",
-    "mensaje_id": 477,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "17991066173877308",
-      "instagram": "17878881000636744"
-    }
   }
 ]
