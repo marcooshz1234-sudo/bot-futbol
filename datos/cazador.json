@@ -38,21 +38,10 @@
    "inicio": "2026-11-15T18:00",
    "texto": "Más de 2,5 goles en la 2ª parte del Deportivo de La Coruña W–Barcelona W",
    "cuota": 2.2,
-   "justa": 2.13,
-   "ev": 0.034,
+   "justa": 2.16,
+   "ev": 0.02,
    "fuente": "las otras casas",
    "edad_h": 0.0
-  },
-  {
-   "local": "Spain",
-   "visitante": "England",
-   "inicio": "2026-11-15T20:45",
-   "texto": "England o empate",
-   "cuota": 2.05,
-   "justa": 2.0,
-   "ev": 0.027,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
   },
   {
    "local": "Belarus",
@@ -77,17 +66,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "Belgium",
-   "visitante": "Italy",
-   "inicio": "2026-11-15T20:45",
-   "texto": "Belgium o empate",
-   "cuota": 1.4,
-   "justa": 1.4,
-   "ev": -0.003,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
    "local": "Juventus U23",
    "visitante": "Treviso",
    "inicio": "2026-11-15T17:30",
@@ -97,21 +75,10 @@
    "ev": -0.008,
    "fuente": "las otras casas",
    "edad_h": 0.0
-  },
-  {
-   "local": "Eibar",
-   "visitante": "Cadiz",
-   "inicio": "2026-11-15T18:30",
-   "texto": "Eibar marca 2 o más",
-   "cuota": 1.67,
-   "justa": 1.69,
-   "ev": -0.012,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T13:04",
+  "hora": "2026-11-15T13:33",
   "revisadas": 0,
   "mejor": null
  },
