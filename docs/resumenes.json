@@ -1994,14 +1994,14 @@
   },
   "2026-11-15": {
     "dia": "2026-11-15",
-    "total": 2,
+    "total": 3,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 3,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 3
     },
     "combis": [
       {
@@ -2015,13 +2015,19 @@
         "titulo": "Os dejo el pick, familia 👇",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-15-escalera",
+        "titulo": "🪜 Reto escalera · Día 1/7",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 8
+      "total": 10
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
   }
 }
