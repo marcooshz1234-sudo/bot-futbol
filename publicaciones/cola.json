@@ -7021,5 +7021,17 @@
     ],
     "espera_alineacion": true,
     "nota": "15/11 copia de MAX ANALISTA (17:32); sale cuando Lamine sea titular"
+  },
+  {
+    "id": "2026-11-15-rojo-auto-2026-11-15-pick-seguro",
+    "fecha": "2026-11-15T20:12",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Bielorrusia marca (Bielorrusia – Albania 0–2)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-15-pick-seguro",
+    "requiere_ok": true,
+    "sin_instagram": true
   }
 ]
