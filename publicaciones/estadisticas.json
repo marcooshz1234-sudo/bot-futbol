@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 16:50",
+ "actualizado": "2026-11-15 17:00",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2784,
-   "hoy": 8,
+   "seguidores": 2783,
+   "hoy": 7,
    "serie": [
     2359,
     2593,
@@ -24,7 +24,7 @@
     2691,
     2738,
     2776,
-    2784
+    2783
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3235,
- "total_hoy": 14,
+ "total": 3234,
+ "total_hoy": 13,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:10",
+  "hora": "17:05",
   "dia": "2026-11-15",
-  "titulo": "Os dejo la combi del españa – inglater"
+  "titulo": "Este nos encanta para hoy"
  },
  "ayer": {
   "aciertos": 1,
@@ -210,7 +210,7 @@
   },
   "2026-11-15": {
    "instagram": 41,
-   "threads": 2784,
+   "threads": 2783,
    "facebook": 1,
    "telegram": 409
   }
