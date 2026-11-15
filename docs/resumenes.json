@@ -1994,14 +1994,14 @@
   },
   "2026-11-15": {
     "dia": "2026-11-15",
-    "total": 6,
+    "total": 7,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 6
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -2039,13 +2039,19 @@
         "titulo": "🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-15-combi-larga-11",
+        "titulo": "🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 17
+      "total": 18
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Vamos con otro pick, familia 👇 · faltan datos\n⏳ Vamos con la combi del domingo familia 🔥 · pendiente\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Vamos con otro pick, familia 👇 · faltan datos\n⏳ Vamos con la combi del domingo familia 🔥 · pendiente\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
   }
 }
