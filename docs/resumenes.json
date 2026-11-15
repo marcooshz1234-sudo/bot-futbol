@@ -1996,18 +1996,18 @@
     "dia": "2026-11-15",
     "total": 11,
     "cuentas": {
-      "verde": 2,
+      "verde": 1,
       "rojo": 4,
-      "pendiente": 4,
-      "sin_datos": 1,
+      "pendiente": 3,
+      "sin_datos": 3,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
         "id": "2026-11-15-ganadores-nations",
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2067,15 +2067,15 @@
       {
         "id": "2026-11-15-pick-tip-1927",
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       }
     ],
     "picks": {
-      "verde": 9,
+      "verde": 8,
       "rojo": 2,
       "total": 21
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 6 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❌ Os dejo el pick, familia 👇\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Este nos encanta para hoy 🔥\n✅ Os dejo otro pick que pinta muy bien 👀\n\n✅ 2 acertadas · ❌ 4 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 1 DE 5 EN VERDE 📊\n\n❔ 🏆 NATIONS LEAGUE - GANADORES · faltan datos\n❌ Os dejo el pick, familia 👇\n❌ 🪜 Reto escalera · Día 1/7\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❌ Vamos con la combi del domingo familia 🔥\n⏳ 🔥 MI COMBINADA DE HOY · 11 PARTIDOS 🔥 · pendiente\n⏳ 🔥 COMBI LARGA DEL DÍA · 11 PARTIDOS 🔥 · pendiente\n❌ 🪄 MARCADORES EXACTOS · NATIONS LEAGUE 🪄\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n✅ Este nos encanta para hoy 🔥\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n\n✅ 1 acertadas · ❌ 4 falladas · ⏳ 6 sin resolver"
   }
 }
