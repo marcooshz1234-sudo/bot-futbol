@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 19:01",
+ "actualizado": "2026-11-15 19:12",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 410,
-   "hoy": 6,
+   "seguidores": 409,
+   "hoy": 5,
    "serie": [
     360,
     378,
@@ -50,17 +50,17 @@
     391,
     401,
     404,
-    410
+    409
    ]
   }
  },
- "total": 3240,
- "total_hoy": 19,
+ "total": 3239,
+ "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:03",
+  "hora": "20:10",
   "dia": "2026-11-15",
-  "titulo": "Pick que no podía faltar hoy"
+  "titulo": "Os dejo la combi del españa – inglater"
  },
  "ayer": {
   "aciertos": 1,
@@ -212,7 +212,7 @@
    "instagram": 41,
    "threads": 2788,
    "facebook": 1,
-   "telegram": 410
+   "telegram": 409
   }
  },
  "tipos_instagram": {
