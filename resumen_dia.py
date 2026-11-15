@@ -76,7 +76,9 @@ def texto_balance(b):
 
 def clave_pick(x):
     """El mismo pick escrito de dos formas («Lazio o empate» / «Lazio — Gana o empata») cuenta una vez."""
+    import unicodedata
     s = (x.get('texto') or '').strip().lower()
+    s = ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')   # 15/11: «Almería» = «Almeria»
     s = s.replace(' — gana o empata', ' o empate')
     if s.endswith(' — gana'):
         s = 'gana el ' + s[:-len(' — gana')]
@@ -176,6 +178,14 @@ def textos_picks(picks, dia, posts=(), cola=()):
     if 'ganadores' in tipos and tipos['ganadores'][1] >= 3:
         lineas.append(f"⚽ Victorias: {tipos['ganadores'][0]}/{tipos['ganadores'][1]}")   # 15/11: los «gana X» nuestros
     verdes = sorted((x for x in rp if x[2] == 'verde'), key=lambda x: -(x[3] or 0))
+    # 15/11: el mismo pick de dos canales (Gana el Almería @1,83 y @1,75) salía dos veces en «Para dentro»
+    unicos, ya = [], set()
+    for x in verdes:
+        k = tuple(sorted(clave_pick(y) for y in x[1]))
+        if k not in ya:
+            ya.add(k)
+            unicos.append(x)
+    verdes = unicos
     if verdes:
         lineas += ['', '💚 Para dentro:']
         for _, ps, _, cuota in verdes[:6]:

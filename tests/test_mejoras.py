@@ -97,6 +97,16 @@ class BalanceTest(unittest.TestCase):
         self.assertLessEqual(len(texto), 500)
 
 
+class ParaDentroSinRepetir(unittest.TestCase):
+    def test_mismo_pick_de_dos_canales_una_vez(self):   # 15/11: «Gana el Almería» salía dos veces
+        pk = lambda t: {'partido_id': 7, 'texto': t, 'estado': 'verde', 'estado_partido': 'FT', 'cuota': 1.8}
+        posts = [{'id': '2026-11-14-pick-tip-1', 'fecha': '2026-11-14T11:00', 'titulo': 'Pick', 'estado': 'verde', 'picks': [pk('Gana el Almería')]},
+                 {'id': '2026-11-14-pick-tip-3', 'fecha': '2026-11-14T12:00', 'titulo': 'Pick', 'estado': 'verde', 'picks': [pk('Gana el Almeria')]}]
+        picks, _ = resumen_dia.picks_dia(posts, '2026-11-14')
+        texto, _ = resumen_dia.textos_picks(picks, '2026-11-14', posts)
+        self.assertEqual(texto.count('Gana el Almer'), 1)
+
+
 class ReintentosTest(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory(); self.addCleanup(self.tmp.cleanup)
