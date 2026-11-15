@@ -6383,7 +6383,8 @@
     "enviado": "2026-11-15T11:23",
     "mensaje_id": 475,
     "redes": {
-      "threads": "18030766481700461"
+      "threads": "18030766481700461",
+      "threads_enlace": "18114758852621070"
     },
     "errores_redes": {
       "instagram": "falta la imagen/vídeo en publicaciones/media"
@@ -6405,6 +6406,16 @@
     "cuotas": [
       1.44
     ],
-    "nota": "15/11: Marcos borró el de Telegram (salió sin cuota); este va solo a Telegram con @1,44"
+    "nota": "15/11: Marcos borró el de Telegram (salió sin cuota); este va solo a Telegram con @1,44",
+    "foto_tg": "publicaciones/media/2026-11-15-pick-tip-madridcff-2.tg.jpg",
+    "enviado": "2026-11-15T11:24",
+    "mensaje_id": 476,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
