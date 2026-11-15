@@ -84,6 +84,15 @@ def bajas_partido(fid):
             continue
         t = norm(n["titulo"])
         jugador = next((nom for ap, nom in ests.items() if re.search(rf"\b{re.escape(ap)}\b", t)), None)
+        # 15/11: «Lamine Yamal se pide el ’10’ ante Inglaterra y De la Fuente descarta a Valles, Jacobo…» marcaba a
+        # Lamine como baja. Si la estrella sale ANTES de «descarta a / deja fuera a», los descartados son los de detrás.
+        if jugador:
+            ap = next(ap for ap, nom in ests.items() if nom == jugador and re.search(rf"\b{re.escape(ap)}\b", t))
+            corte = re.search(r"\b(descarta a|deja fuera a|se queda sin|sin contar con)\b", t)
+            if corte and t.find(ap) < corte.start() and not re.search(rf"\b{re.escape(ap)}\b", t[corte.end():]):
+                jugador = None
+                if not re.search(PALABRAS_ESTRELLA, t):
+                    continue
         # que hable de ESTE partido: nombra a uno de los dos equipos o a una estrella (si no, «Laporte, baja en
         # España» salía en Armenia–Chipre porque Google lo daba en la búsqueda de Chipre)
         equipos = nombres_equipo(pa["teams"]["home"]["name"]) | nombres_equipo(pa["teams"]["away"]["name"])

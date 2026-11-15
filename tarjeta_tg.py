@@ -260,6 +260,8 @@ def hora_partidos(p):
 def hacer(p, texto, todos=None):
     """Ruta (relativa a RAIZ) de la tarjeta de Telegram, o None si no toca o no se puede (sin Chromium: sale en texto).
     Tras MAX_SEGUIDAS posts con foto seguidos, el siguiente sale en texto (mezcla de fotos y texto)."""
+    from nombres import espanol   # 15/11: países en español y sin «el» delante
+    texto = espanol(texto)
     if not toca(p) or racha_fotos(todos) >= MAX_SEGUIDAS:
         return None
     ps = patas(texto)

@@ -261,7 +261,8 @@ def generar(p, pagina):
     MEDIA.mkdir(parents=True, exist_ok=True)
     # Instagram: ni dinero ni la foto de un boleto de bet365
     # (el reto escalera sí lleva el dinero: en eso consiste, Marcos 27/10)
-    p = dict(p, texto=p["texto"] if "escalera" in p.get("id", "") else sin_dinero(p["texto"]),
+    from nombres import espanol   # 15/11: países en español y sin «el» delante
+    p = dict(p, texto=espanol(p["texto"] if "escalera" in p.get("id", "") else sin_dinero(p["texto"])),
              foto=None if "boleto" in p.get("id", "") else p.get("foto"))
     if p.get("tarjeta"):
         try:

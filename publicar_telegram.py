@@ -118,7 +118,8 @@ def preparar_texto(texto):
     # 27/10: sin el aviso de +18 (lo pidió Marcos)
     texto = texto.replace("jugarbien.es", "")
     texto = re.sub(r"\n*🔞 \+18 \| Jueg[ao] (?:con )?responsab\w*", "", texto).rstrip()
-    return texto
+    from nombres import espanol   # 15/11: países en español y sin «el» delante
+    return espanol(texto)
 
 
 def comprobar(token, canal, ahora):

@@ -21,7 +21,7 @@ import sys
 
 from bot import cuota_baja, leer, mercado_prohibido, partido_caido, RAIZ
 
-GRAVES = ("mercado", "cuota", "cuota_alta", "choca", "repetido", "estrella", "caido", "texto", "crear", "logica", "escudos", "dia")
+GRAVES = ("mercado", "cuota", "cuota_alta", "choca", "repetido", "estrella", "caido", "texto", "crear", "logica", "escudos", "dia", "idioma")
 TEXTO_PROHIBIDO = [   # (patrón, motivo) — REGLAS.md, apartado «Textos»
     (r"segur|asegur|sin riesgo", "dice «seguro/asegurado/sin riesgo» (12/11)"),
     (r"\bNone\b|\bnan\b|\{[a-z_]+\}", "restos de plantilla en el texto"),
@@ -96,6 +96,11 @@ def comprobar(p, texto=None, otros=None):
         return []
     texto = texto if texto is not None else p.get("texto") or ""
     fallos = []
+    # 15/11 (Marcos: «todo en español siempre» y nunca «el» delante de un país). Se mira el texto tal y como se
+    # publica (ya pasado por nombres.espanol): si aun así queda algo, no sale.
+    from nombres import espanol, fallos as fallos_idioma
+    for f_ in fallos_idioma(espanol(texto)):
+        fallos.append(("idioma", f_))
     m = mercado_prohibido(p)
     if m:
         fallos.append(("mercado", m))

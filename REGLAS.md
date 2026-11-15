@@ -141,3 +141,5 @@
 - 🎯 **Combinada personal de Marcos, una cada día** (14/11, anunciado en el canal). A las 10:00 el bot le propone «Crear apuesta» por Telegram; él la monta en bet365 y manda la captura: sale como «MI COMBINADA PERSONAL DE HOY», sin dinero en la foto ni su nombre. Fuera de las reglas de nuestras combis (1,80, mercados, repetidos).
 
 - 📊 **Resumen de la noche: el «Quién gana» no cuenta** (15/11, Marcos). Solo los picks y combis que subimos; las filas de ganadores ni se suman.
+
+- 🇪🇸 **Todo en español y sin «el» delante de un país** (15/11, Marcos: «El Belarus o el Albania no puede ser»). nombres.espanol() corrige todo texto antes de salir (Telegram, Threads, imágenes, tarjetas) y comprobar_post bloquea lo que se cuele (regla «idioma»).

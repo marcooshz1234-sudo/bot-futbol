@@ -74,7 +74,8 @@ def llamar(metodo, url, params):
 
 def texto_final(p):
     t = p["texto"].replace("jugarbien.es", "")
-    return re.sub(r"\n*🔞 \+18 \| Jueg[ao] (?:con )?responsab\w*", "", t).rstrip()   # 27/10: sin +18
+    from nombres import espanol   # 15/11: países en español y sin «el» delante
+    return espanol(re.sub(r"\n*🔞 \+18 \| Jueg[ao] (?:con )?responsab\w*", "", t).rstrip())   # 27/10: sin +18
 
 
 _PAGINA = {}

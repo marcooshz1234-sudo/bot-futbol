@@ -17,7 +17,7 @@ CIRCULO = CARPETA / ("logo_cl_256.png" if TEMA == "cl" else "logo_circulo_256.pn
 LOGO_GRANDE = CARPETA / ("logo_cl_512.png" if TEMA == "cl" else "logo_circulo_256.png")
 FONDO_FOTO = CARPETA / "fondo_estadio.jpg"
 NEON = "#7ef03a"
-DISENO = "diseño-9"   # 13/11: vuelve el logo CL (desde el 12/11 salía «COMBILOCAS» en letras)
+DISENO = "diseño-10"   # 15/11: países en español y sin «el» (se rehacen las de los posts pendientes) · 13/11: vuelve el logo CL (desde el 12/11 salía «COMBILOCAS» en letras)
 # (va en la huella de las imágenes (imagenes.huella / redes.url_media): cambiarla rehace las pendientes)
 FUENTES = CARPETA / "fuentes"
 

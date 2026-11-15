@@ -49,6 +49,12 @@ class TestRevision(unittest.TestCase):
         self.assertEqual(b[0]["lado"], "away")
         self.assertEqual(R.lados_sin_estrella(7), {"away"})
 
+    def test_estrella_antes_de_descarta_no_es_baja(self):   # 15/11: «Lamine Yamal se pide el 10… y descarta a Valles…»
+        self.datos([{"titulo": "Mbappé se pide el 10 ante Italia y Deschamps descarta a Kalulu, Digne y Koné", "fuente": "X"}])
+        self.assertEqual([b for b in R.bajas_partido(7) if b["estrella"]], [])
+        self.datos([{"titulo": "Zidane descarta a Mbappé por precaución ante Italia", "fuente": "X"}])
+        self.assertTrue(any(b["jugador"] == "Kylian Mbappé" for b in R.bajas_partido(7)))
+
     def test_mismo_jugador_hereda_equipo(self):
         self.datos([{"titulo": "Zidane descarta a Mbappé por precaución", "fuente": "X"},
                     {"titulo": "Alarmas en Francia: Mbappé no se entrena", "fuente": "Y"}])
