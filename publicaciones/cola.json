@@ -6843,5 +6843,22 @@
       "threads": "18111555863617347",
       "threads_enlace": "18125664580986429"
     }
+  },
+  {
+    "id": "2026-11-15-pick-tip-1446-t",
+    "fecha": "2026-11-15T16:48",
+    "texto": "Pick que no podía faltar hoy ⚽\n\n⚽ España – Inglaterra · 20:45 (Nations League)\n\n🍀 Inglaterra: más de 3,5 remates a puerta @1,80\n\n👨‍💻 Inglaterra hace 5,8 remates a puerta por partido: llega con 16 goles en 5 partidos del grupo.\n👨‍💻 Necesita ganar para quedar primera, así que tendrá que ir a por el partido.\n👨‍💻 Con Kane, Saka y sus extremos, genera ocasiones aunque España tenga el balón.",
+    "foto": "publicaciones/media/2026-11-15-pick-tip-1446.escudos.jpg",
+    "foto_en_threads": true,
+    "origen": "tipster",
+    "directo": true,
+    "cuotas": [
+      1.8
+    ],
+    "partido_id": 1528984,
+    "solo_en": [
+      "threads"
+    ],
+    "nota": "15/11: Marcos («venga súbelo»): Inglaterra remates repuesto en Threads con banderas"
   }
 ]
