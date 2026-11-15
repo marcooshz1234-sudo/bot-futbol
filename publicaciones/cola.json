@@ -7189,7 +7189,15 @@
     "solo_en": [
       "threads"
     ],
-    "redes": {}
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "400: The requested resource does not exist"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1446-t2",
@@ -7204,7 +7212,14 @@
     "solo_en": [
       "threads"
     ],
-    "redes": {}
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18154770859549937",
+      "threads_enlace": "18193272472412864"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1500-e",
@@ -7219,7 +7234,15 @@
     "solo_en": [
       "threads"
     ],
-    "redes": {}
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "400: The requested resource does not exist"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t",
@@ -7234,7 +7257,15 @@
     "solo_en": [
       "threads"
     ],
-    "redes": {}
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    },
+    "errores_redes": {
+      "threads": "400: The requested resource does not exist"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t2",
@@ -7249,7 +7280,14 @@
     "solo_en": [
       "threads"
     ],
-    "redes": {}
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18114824051136477",
+      "threads_enlace": "17921348187284870"
+    }
   },
   {
     "id": "2026-11-15-verde-auto-2026-11-15-pick-tip-1927-e",
@@ -7264,6 +7302,13 @@
     "solo_en": [
       "threads"
     ],
-    "redes": {}
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17934062043163474",
+      "threads_enlace": "18135087517755227"
+    }
   }
 ]
