@@ -110,6 +110,17 @@ def texto_post(patas, segunda=False):
             f"\n\n📈 Cuota @{redondo}{aprox}\n💶 10€ → {gana}€\n\nEsta la llevo yo, partido a partido 👇\n¿Quién se sube conmigo? 💚")
 
 
+def texto_corto(patas, segunda=False):
+    """Threads (máx. 500): sin horas ni cuotas por pata."""
+    tot = 1.0
+    for x in patas:
+        tot *= x["cuota"]
+    redondo = f"{tot:,.0f}".replace(",", ".") if tot >= 100 else f"{tot:.2f}".replace(".", ",")
+    titulo = f"💣 MI SEGUNDA COMBINADA · {len(patas)} PARTIDOS 💣" if segunda else f"🔥 MI COMBINADA DE HOY · {len(patas)} PARTIDOS 🔥"
+    return (f"{titulo}\n\n" + "\n".join(f"🍀 {x['texto']}" for x in patas) +
+            f"\n\n📈 Cuota @{redondo}{' aprox.' if any(x['aprox'] for x in patas) or tot >= 100 else ''}\n\n¿Quién se sube conmigo? 💚")
+
+
 def main(ahora=None):
     ahora = ahora or datetime.now(MADRID)
     hoy = ahora.strftime("%Y-%m-%d")
@@ -131,6 +142,7 @@ def main(ahora=None):
             continue
         pid = f"{hoy}-combi-personal-{tanda}"
         nuevos.append({"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto_post(patas, segunda=tanda == "b"),
+                       "texto_threads": texto_corto(patas, segunda=tanda == "b"),
                        "foto": None, "origen": "bot", "directo": True, "solo_en": ["threads", "instagram"],
                        "sel": [], "cuotas": [], "excepcion_cuota": "combinada personal diaria (Marcos 15/11)",
                        "nota": "patas: " + " · ".join(x["sel"] for x in patas)})
