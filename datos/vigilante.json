@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-15",
  "vistos": {
-  "prensa-1528960-33988cb0": "2026-11-12T11:27",
   "tarjeta-2026-11-12-combi-partido-1528958-th": "2026-11-12T11:49",
   "estrella-2026-11-12-combi-partido-1528960-th-KylianMbappé": "2026-11-12T12:00",
   "redes-2026-11-12-combi-partido-1528958-th-threads": "2026-11-12T12:26",
@@ -52,11 +51,48 @@
   "prensa-1528984-b03eb932": "2026-11-14T21:50",
   "prensa-1528984-7646f75a": "2026-11-14T21:50",
   "prensa-1528990-66062339": "2026-11-15T00:42",
-  "prensa-1528991-6a15acde": "2026-11-15T00:42"
+  "prensa-1528991-6a15acde": "2026-11-15T00:42",
+  "estrella-2026-11-15-combi-partido-1528984-LamineYamal": "2026-11-15T11:31",
+  "prensa-1528984-7723f33d": "2026-11-15T11:31",
+  "prensa-1528984-8a8aa241": "2026-11-15T11:31",
+  "prensa-1528982-KylianMbappé": "2026-11-15T11:31"
  },
- "abiertos": [],
- "revisado": "2026-11-15T11:17",
+ "abiertos": [
+  {
+   "clave": "estrella-2026-11-15-combi-partido-1528984-LamineYamal",
+   "t": "⭐ España–Inglaterra: «Los que no jugarán ante Inglaterra con la vuelta de Yamal y Oyarzabal» (Flashscore.es). «Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿» (20:10) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "clave": "prensa-1528984-7723f33d",
+   "t": "📰 España–Inglaterra: «Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano» (El Desmarque) · tenemos 1 post(s) de este partido: combi-partido-1528984"
+  },
+  {
+   "clave": "prensa-1528984-8a8aa241",
+   "t": "📰 España–Inglaterra: «Álex Grimaldo abandona la concentración de España por un proceso gripal» (Europa Press) · tenemos 1 post(s) de este partido: combi-partido-1528984"
+  },
+  {
+   "clave": "prensa-1528982-KylianMbappé",
+   "t": "📰 Francia–Turquía: «En Francia ya hay noticias sobre Mbappé: ¿se pierde el juego contra Turquía?» (Récord) · tenemos 1 post(s) de este partido: combi-partido-1528982"
+  }
+ ],
+ "revisado": "2026-11-15T11:31",
  "historial": [
+  {
+   "hora": "2026-11-15T11:31",
+   "t": "⭐ España–Inglaterra: «Los que no jugarán ante Inglaterra con la vuelta de Yamal y Oyarzabal» (Flashscore.es). «Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿» (20:10) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "hora": "2026-11-15T11:31",
+   "t": "📰 España–Inglaterra: «Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano» (El Desmarque) · tenemos 1 post(s) de este partido: combi-partido-1528984"
+  },
+  {
+   "hora": "2026-11-15T11:31",
+   "t": "📰 España–Inglaterra: «Álex Grimaldo abandona la concentración de España por un proceso gripal» (Europa Press) · tenemos 1 post(s) de este partido: combi-partido-1528984"
+  },
+  {
+   "hora": "2026-11-15T11:31",
+   "t": "📰 Francia–Turquía: «En Francia ya hay noticias sobre Mbappé: ¿se pierde el juego contra Turquía?» (Récord) · tenemos 1 post(s) de este partido: combi-partido-1528982"
+  },
   {
    "hora": "2026-11-15T00:42",
    "t": "📰 Alemania–Países Bajos: «De Jong abandona la concentración de Países Bajos y no jugará ante Alemania» (Europa Press) · tenemos 1 post(s) de este partido: ganadores-nations"
@@ -280,22 +316,6 @@
   {
    "hora": "2026-11-12T07:54",
    "t": "📰 Italia–Francia: «Tchouaméni abandona la concentración de Francia y regresará a Madrid» (Tribuna.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «Os dejo la combi del Turquía – Bélgica ⚽🔥» (12:00) va a favor de ese equipo: te propongo quitarlo"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "⭐ Turquía–Bélgica: «Mbappé, baja para Francia vs Italia: ¿juega ante Turquía?» (365Scores). «🪜 Reto escalera · Día 3/7» (11:00) va a favor de ese equipo: te propongo quitarlo"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "📰 Italia–Francia: «En medio de una tormenta de bajas: la alineación prevista de Francia en el duelo ante Italia» (Goal.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
-  },
-  {
-   "hora": "2026-11-12T06:58",
-   "t": "📰 Italia–Francia: «Aurélien Tchouaméni, desafectado de la selección de Francia por lesión» (Ecuavisa) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
   }
  ]
 }
