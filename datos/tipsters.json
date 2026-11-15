@@ -2522,5 +2522,25 @@
    "cuota_bet365": 1.57,
    "prob_cuota": 0.637
   }
+ },
+ {
+  "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
+  "fuente": "-1002181392017/15458",
+  "dia": "2026-11-15",
+  "local": "France",
+  "visitante": "Türkiye",
+  "partido_id": 1528982,
+  "texto": "Gana el Francia",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.21,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.17,
+   "prob_cuota": 0.826
+  }
  }
 ]
