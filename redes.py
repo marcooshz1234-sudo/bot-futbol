@@ -289,6 +289,13 @@ def id_publicado(v):
     return v if v and str(v) not in ("ya-publicado", "confirmado") else None
 
 
+def comentar_texto(p, token, texto):
+    c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": texto[:490],
+                                                 "reply_to_id": id_publicado(p["redes"]["threads"]), "access_token": token})
+    time.sleep(3)
+    return llamar("POST", f"{THREADS}/me/threads_publish", {"creation_id": c["id"], "access_token": token})["id"]
+
+
 def comentar_threads(p, token):
     c = llamar("POST", f"{THREADS}/me/threads", {"media_type": "TEXT", "text": texto_enlace(p),
                                                  "reply_to_id": id_publicado(p["redes"]["threads"]), "access_token": token})
@@ -619,6 +626,10 @@ def main(objetivo=None):
         if lleva_enlace(p):   # 28/10: el comentario va cuando el post ya está publicado (la vuelta siguiente)
             if claves["threads"] and "threads_enlace" not in hecho and id_publicado(hecho.get("threads")):
                 tareas.append(("threads_enlace", lambda: comentar_threads(p, claves["threads"])))
+        # 15/11 (Marcos: «el escudo arriba»): en Threads la foto sale DEBAJO del texto; con «porque_threads» el post
+        # lleva solo el pick (texto corto → los escudos quedan arriba) y el porqué va en el primer comentario
+        if p.get("porque_threads") and claves["threads"] and "threads_porque" not in hecho and id_publicado(hecho.get("threads")):
+            tareas.append(("threads_porque", lambda: comentar_texto(p, claves["threads"], p["porque_threads"])))
         for red, hacer in tareas:
             if objetivo and red != objetivo[1]:
                 continue
@@ -634,7 +645,7 @@ def main(objetivo=None):
                     print(f"{red}: no se pudo comprobar duplicados ({e})")
             if ambiguo(errores.get(red)):
                 continue
-            if ahora - cuando > MAX_RETRASO and red not in ("instagram_reel", "threads_enlace", "instagram_enlace"):
+            if ahora - cuando > MAX_RETRASO and red not in ("instagram_reel", "threads_enlace", "instagram_enlace", "threads_porque"):
                 errores[red] = "caducado: no salió a tiempo"
                 hecho[red] = None
                 cambios += 1

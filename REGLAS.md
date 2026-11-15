@@ -157,3 +157,4 @@
 - 15/11 (Marcos): los picks que los canales suben solo en FOTO (boletos) también se leen: OCR gratis (tesseract) y el mismo filtro que el texto. Mercados raros del boleto (remates, córners, tarjetas, hándicap…) no se copian solos: los mira Claude.
 - 15/11 (Marcos): la primera frase de un post nunca se repite con los últimos posts del día («Este nos encanta para hoy» salió 3 veces seguidas).
 - 15/11 (Marcos): un pick suelto (una sola cosa) SIEMPRE con los escudos/banderas, también en Threads (fallo: la foto se buscaba por el id del post y no la encontraba; ahora por su ruta).
+- 15/11 (Marcos: «el escudo arriba»): en Threads la foto sale debajo del texto, así que los picks sueltos van con texto corto (solo el pick) y el porqué en el primer comentario («porque_threads»).
