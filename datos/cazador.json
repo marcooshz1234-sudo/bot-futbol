@@ -41,18 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Granada CF",
-   "visitante": "Las Palmas",
-   "inicio": "2026-11-15T16:15",
-   "texto": "Las Palmas marca",
-   "cuota": 1.5,
-   "justa": 1.49,
-   "ev": 0.006,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.3
   },
   {
    "local": "Belarus",
@@ -63,6 +52,17 @@
    "justa": 2.19,
    "ev": 0.004,
    "fuente": "las otras casas",
+   "edad_h": 0.3
+  },
+  {
+   "local": "Amarante",
+   "visitante": "Felgueiras 1932",
+   "inicio": "2026-11-15T12:00",
+   "texto": "Amarante marca",
+   "cuota": 1.4,
+   "justa": 1.41,
+   "ev": -0.01,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
@@ -74,18 +74,7 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.4
-  },
-  {
-   "local": "Amarante",
-   "visitante": "Felgueiras 1932",
-   "inicio": "2026-11-15T12:00",
-   "texto": "Amarante marca",
-   "cuota": 1.4,
-   "justa": 1.42,
-   "ev": -0.016,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Real Sociedad W",
@@ -96,11 +85,22 @@
    "justa": 2.23,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
+  },
+  {
+   "local": "Latvia",
+   "visitante": "Armenia",
+   "inicio": "2026-11-15T15:00",
+   "texto": "Latvia marca",
+   "cuota": 1.5,
+   "justa": 1.53,
+   "ev": -0.017,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T06:04",
+  "hora": "2026-11-15T06:24",
   "revisadas": 0,
   "mejor": null
  },
