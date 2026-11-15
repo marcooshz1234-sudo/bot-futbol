@@ -1,7 +1,7 @@
 # Sevilla – Real Betis
 **LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_
@@ -195,7 +195,7 @@ _Goles esperados: local 1,39 · visitante 1,41 · córners esperados 8,9._
 | Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -7% |
 | Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
 | Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -7% |
-| Goles más/menos: Más de 3.5 | 31% | 34% | 33% | 2.75 | -10% |
+| Goles más/menos: Más de 3.5 | 31% | 34% | 33% | 2.75 | -11% |
 | Goles más/menos: Menos de 1.5 | 23% | 22% | 23% | 4.33 | -2% |
 | Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -3% |
 | Goles más/menos: Menos de 3.5 | 69% | 66% | 67% | 1.44 | -3% |
@@ -207,10 +207,10 @@ _Goles esperados: local 1,39 · visitante 1,41 · córners esperados 8,9._
 | Goles del local: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
 | Goles del local: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -11% |
 | Goles del local: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
+| Goles del visitante: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
 | Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
+| Goles del visitante: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +0% |
 | Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
 | Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | 1X2 descanso: 2 | 29% | 33% | 31% | 2.88 | -11% |

@@ -1,7 +1,7 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -197,13 +197,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 67% | 81% | 74% | 1.17 | -13% |
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
-| Goles más/menos: Más de 1.5 | 82% | 79% | 80% | 1.18 | -5% |
+| Goles más/menos: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Goles más/menos: Más de 2.5 | 60% | 58% | 59% | 1.62 | -4% |
 | Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles más/menos: Más de 4.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles más/menos: Menos de 1.5 | 18% | 21% | 20% | 4.50 | -12% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -12% |
 | Goles más/menos: Menos de 2.5 | 40% | 42% | 41% | 2.25 | -8% |
-| Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.50 | -6% |
+| Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles más/menos: Menos de 4.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 41% | 40% | 2.25 | -10% |
@@ -211,7 +211,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Más de 1.5 | 50% | 59% | 54% | 1.57 | -15% |
 | Goles del local: Más de 2.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del local: Menos de 1.5 | 50% | 41% | 46% | 2.25 | +3% |
+| Goles del local: Menos de 1.5 | 50% | 41% | 46% | 2.25 | +2% |
 | Goles del local: Menos de 2.5 | 76% | 66% | 71% | 1.40 | -0% |
 | Goles del visitante: Más de 0.5 | 76% | 65% | 70% | 1.44 | +1% |
 | Goles del visitante: Más de 1.5 | 42% | 29% | 36% | 3.25 | +16% |

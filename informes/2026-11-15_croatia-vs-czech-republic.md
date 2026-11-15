@@ -1,10 +1,10 @@
 # Croatia – Czech Republic
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Opus Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 13:58_
+_Actualizadas: 15/11 16:51_
 
 - **1X2:** 1 **1.50**  ·  X **4.20**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.30**
@@ -215,7 +215,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 53% | 63% | 58% | 1.50 | -13% |
 | Doble oportunidad: X2 | 47% | 41% | 44% | 2.30 | +1% |
 | Doble oportunidad: 12 | 74% | 77% | 76% | 1.22 | -8% |
-| Doble oportunidad: 1X | 79% | 82% | 80% | 1.14 | -8% |
+| Doble oportunidad: 1X | 79% | 82% | 81% | 1.14 | -8% |
 | Ambos marcan: No | 54% | 49% | 51% | 1.91 | -2% |
 | Ambos marcan: Sí | 46% | 51% | 49% | 1.80 | -13% |
 | Goles más/menos: Más de 1.5 | 69% | 77% | 73% | 1.22 | -11% |
@@ -233,7 +233,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 55% | 41% | 48% | 2.25 | +8% |
 | Goles del local: Menos de 2.5 | 80% | 66% | 73% | 1.40 | +2% |
 | Goles del visitante: Más de 0.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles del visitante: Más de 1.5 | 22% | 25% | 23% | 3.75 | -12% |
+| Goles del visitante: Más de 1.5 | 22% | 25% | 23% | 3.75 | -13% |
 | Goles del visitante: Menos de 0.5 | 42% | 39% | 41% | 2.38 | -4% |
 | Goles del visitante: Menos de 1.5 | 78% | 75% | 77% | 1.25 | -4% |
 | Córners más/menos: Más de 8.5 | 50% | 51% | 51% | 1.85 | -6% |

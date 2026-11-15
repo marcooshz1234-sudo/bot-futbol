@@ -1,7 +1,7 @@
 # Lille – Lyon
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_
@@ -185,14 +185,14 @@ _Goles esperados: local 0,97 · visitante 1,01 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 31% | 33% | 3.00 | +0% |
+| 1X2: 2 | 36% | 31% | 33% | 3.00 | -0% |
 | 1X2: X | 31% | 29% | 30% | 3.25 | -3% |
 | 1X2: 1 | 33% | 40% | 37% | 2.30 | -15% |
 | Doble oportunidad: X2 | 67% | 60% | 63% | 1.57 | -1% |
 | Doble oportunidad: 12 | 69% | 71% | 70% | 1.33 | -7% |
 | Doble oportunidad: 1X | 64% | 69% | 67% | 1.36 | -9% |
-| Ambos marcan: No | 60% | 48% | 54% | 1.95 | +6% |
-| Ambos marcan: Sí | 40% | 52% | 46% | 1.80 | -18% |
+| Ambos marcan: No | 61% | 48% | 54% | 1.95 | +6% |
+| Ambos marcan: Sí | 39% | 52% | 46% | 1.80 | -18% |
 | Goles más/menos: Más de 1.5 | 59% | 72% | 65% | 1.33 | -13% |
 | Goles más/menos: Más de 2.5 | 32% | 47% | 40% | 2.00 | -21% |
 | Goles más/menos: Más de 3.5 | 14% | 27% | 21% | 3.50 | -28% |

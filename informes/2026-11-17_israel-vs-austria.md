@@ -1,7 +1,7 @@
 # Israel – Austria
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Nagyerdei Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -163,8 +163,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 89% | 84% | 86% | 1.12 | -3% |
 | Doble oportunidad: 12 | 80% | 78% | 79% | 1.20 | -5% |
 | Doble oportunidad: 1X | 31% | 38% | 34% | 2.50 | -14% |
-| Goles más/menos: Más de 2.5 | 50% | 59% | 54% | 1.60 | -13% |
-| Goles más/menos: Menos de 2.5 | 50% | 41% | 46% | 2.30 | +5% |
+| Goles más/menos: Más de 2.5 | 49% | 59% | 54% | 1.60 | -13% |
+| Goles más/menos: Menos de 2.5 | 51% | 41% | 46% | 2.30 | +5% |
 | Córners más/menos: Más de 8.5 | 53% | 51% | 52% | 1.85 | -4% |
 | Córners más/menos: Menos de 8.5 | 47% | 49% | 48% | 1.95 | -7% |
 | 1X2 descanso: 2 | 48% | 46% | 47% | 2.00 | -5% |

@@ -1,7 +1,7 @@
 # West Ham – Preston
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -179,7 +179,7 @@ _Sin precedentes recientes._
 | Pol Valentín | D | 5 | 283 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,21 · visitante 0,96 · córners esperados 10,3._
+_Goles esperados: local 3,21 · visitante 0,95 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -211,9 +211,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
 | Goles del local: Menos de 2.5 | 38% | 46% | 42% | 2.00 | -16% |
 | Goles del local: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -12% |
-| Goles del visitante: Más de 0.5 | 62% | 54% | 58% | 1.73 | -0% |
+| Goles del visitante: Más de 0.5 | 61% | 54% | 58% | 1.73 | -0% |
 | Goles del visitante: Más de 1.5 | 25% | 21% | 23% | 4.50 | +2% |
-| Goles del visitante: Menos de 0.5 | 38% | 46% | 42% | 2.00 | -15% |
+| Goles del visitante: Menos de 0.5 | 39% | 46% | 42% | 2.00 | -15% |
 | Goles del visitante: Menos de 1.5 | 75% | 79% | 77% | 1.18 | -9% |
 | 1X2 descanso: X | 27% | 30% | 28% | 3.10 | -12% |
 | 1X2 descanso: 1 | 62% | 60% | 61% | 1.53 | -7% |

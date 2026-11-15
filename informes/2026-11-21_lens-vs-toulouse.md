@@ -1,7 +1,7 @@
 # Lens – Toulouse
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_
@@ -211,7 +211,7 @@ _Goles esperados: local 1,64 · visitante 1,92 · córners esperados 9,5._
 | Goles del local: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
 | Goles del local: Menos de 2.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles del visitante: Más de 0.5 | 85% | 69% | 77% | 1.36 | +5% |
-| Goles del visitante: Más de 1.5 ✅ | 57% | 35% | 46% | 2.62 | +22% |
+| Goles del visitante: Más de 1.5 ✅ | 57% | 35% | 46% | 2.62 | +21% |
 | Goles del visitante: Menos de 0.5 | 15% | 31% | 23% | 3.00 | -31% |
 | Goles del visitante: Menos de 1.5 | 43% | 65% | 54% | 1.44 | -23% |
 | 1X2 descanso: 2 | 36% | 23% | 29% | 4.00 | +17% |

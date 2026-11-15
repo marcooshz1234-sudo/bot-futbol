@@ -1,7 +1,7 @@
 # Wales – Portugal
 **Nations League** · League A - 6 · 17/11/2026 20:45 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: X | 25% | 19% | 22% | 5.00 | +10% |
 | 1X2: 1 | 18% | 14% | 16% | 7.00 | +10% |
 | Doble oportunidad: X2 | 82% | 85% | 83% | 1.10 | -8% |
-| Doble oportunidad: 12 | 75% | 80% | 77% | 1.17 | -9% |
+| Doble oportunidad: 12 | 75% | 80% | 77% | 1.17 | -10% |
 | Doble oportunidad: 1X | 43% | 36% | 39% | 2.62 | +3% |
 | Ambos marcan: No | 57% | 46% | 52% | 2.00 | +4% |
 | Ambos marcan: Sí | 43% | 54% | 48% | 1.73 | -17% |

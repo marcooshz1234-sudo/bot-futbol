@@ -1,7 +1,7 @@
 # Estrela – Portimonense
 **Taça de Portugal** · Round of 32 · 22/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,41 +9,41 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Estrela (total) | Estrela en casa | Portimonense (total) | Portimonense fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 8 |
-| Forma (últimos 5) | DDDVD | DDDVE | VEDVV | VDVVV |
-| Balance | 3V 4E 5D | 1V 2E 3D | 6V 2E 4D | 5V 1E 2D |
-| Goles a favor / partido | 1,58 | 1,33 | 0,83 | 1,00 |
-| Goles en contra / partido | 1,92 | 2,00 | 0,92 | 0,88 |
-| Goles a favor 1ª parte | 0,25 | 0,17 | 0,33 | 0,38 |
-| Goles a favor 2ª parte | 1,33 | 1,17 | 0,50 | 0,62 |
-| Goles en contra 1ª parte | 0,75 | 1,00 | 0,42 | 0,38 |
-| Goles en contra 2ª parte | 1,17 | 1,00 | 0,50 | 0,50 |
-| Más de 1,5 goles | 92% | 100% | 58% | 50% |
-| Más de 2,5 goles | 75% | 67% | 25% | 38% |
+| Partidos analizados | 12 | 6 | 13 | 8 |
+| Forma (últimos 5) | DDDVD | DDDVE | EVEDV | VDVVV |
+| Balance | 3V 4E 5D | 1V 2E 3D | 6V 3E 4D | 5V 1E 2D |
+| Goles a favor / partido | 1,58 | 1,33 | 0,77 | 1,00 |
+| Goles en contra / partido | 1,92 | 2,00 | 0,85 | 0,88 |
+| Goles a favor 1ª parte | 0,25 | 0,17 | 0,31 | 0,38 |
+| Goles a favor 2ª parte | 1,33 | 1,17 | 0,46 | 0,62 |
+| Goles en contra 1ª parte | 0,75 | 1,00 | 0,38 | 0,38 |
+| Goles en contra 2ª parte | 1,17 | 1,00 | 0,46 | 0,50 |
+| Más de 1,5 goles | 92% | 100% | 54% | 50% |
+| Más de 2,5 goles | 75% | 67% | 23% | 38% |
 | Más de 3,5 goles | 50% | 50% | 0% | 0% |
-| Ambos marcan | 75% | 67% | 25% | 38% |
-| Portería a cero | 0% | 0% | 42% | 38% |
-| Se queda sin marcar | 25% | 33% | 42% | 25% |
+| Ambos marcan | 75% | 67% | 23% | 38% |
+| Portería a cero | 0% | 0% | 46% | 38% |
+| Se queda sin marcar | 25% | 33% | 46% | 25% |
 | xG a favor | 1,28 | 1,09 | – | – |
 | xG en contra | 1,34 | 1,58 | – | – |
-| Tiros / partido | 12,5 | 12,0 | 11,5 | 15,0 |
-| Tiros a puerta / partido | 3,8 | 3,7 | 3,2 | 4,5 |
-| Tiros recibidos | 11,3 | 11,8 | 11,5 | 12,5 |
-| Tiros a puerta recibidos | 4,6 | 4,8 | 3,8 | 4,0 |
-| Posesión media % | 51 | 47 | 52 | 55 |
-| Córners a favor | 4,1 | 4,7 | 2,4 | 2,6 |
-| Córners en contra | 4,8 | 5,8 | 3,0 | 2,4 |
-| Córners a favor 1ª parte | 2,1 | 2,7 | 1,4 | 1,6 |
-| Córners a favor 2ª parte | 2,0 | 2,0 | 1,0 | 1,0 |
-| Córners totales del partido | 8,9 | 10,5 | 5,4 | 5,0 |
-| Córners totales 1ª parte | 4,3 | 4,8 | 2,6 | 2,8 |
-| Córners totales 2ª parte | 4,6 | 5,7 | 2,8 | 2,2 |
-| Más de 8,5 córners | 64% | 83% | 38% | 40% |
-| Más de 9,5 córners | 45% | 67% | 25% | 20% |
-| Más de 10,5 córners | 36% | 50% | 12% | 20% |
+| Tiros / partido | 12,5 | 12,0 | 13,4 | 15,0 |
+| Tiros a puerta / partido | 3,8 | 3,7 | 4,2 | 4,5 |
+| Tiros recibidos | 11,3 | 11,8 | 10,4 | 12,5 |
+| Tiros a puerta recibidos | 4,6 | 4,8 | 3,2 | 4,0 |
+| Posesión media % | 51 | 47 | 54 | 55 |
+| Córners a favor | 4,1 | 4,7 | 3,6 | 2,6 |
+| Córners en contra | 4,8 | 5,8 | 2,8 | 2,4 |
+| Córners a favor 1ª parte | 2,1 | 2,7 | 2,0 | 1,6 |
+| Córners a favor 2ª parte | 2,0 | 2,0 | 1,6 | 1,0 |
+| Córners totales del partido | 8,9 | 10,5 | 6,3 | 5,0 |
+| Córners totales 1ª parte | 4,3 | 4,8 | 3,1 | 2,8 |
+| Córners totales 2ª parte | 4,6 | 5,7 | 3,2 | 2,2 |
+| Más de 8,5 córners | 64% | 83% | 44% | 40% |
+| Más de 9,5 córners | 45% | 67% | 33% | 20% |
+| Más de 10,5 córners | 36% | 50% | 22% | 20% |
 | Faltas cometidas | 11,7 | 12,3 | 15,0 | 15,0 |
 | Faltas recibidas | 11,9 | 12,2 | 16,0 | 16,0 |
-| Amarillas propias | 2,1 | 2,0 | 2,0 | 1,8 |
+| Amarillas propias | 2,1 | 2,0 | 2,2 | 1,8 |
 | Amarillas del rival | 1,9 | 1,7 | 2,2 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
@@ -51,11 +51,11 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tramo | Goles Estrela | Recibe Estrela | Tarjetas Estrela | Goles Portimonense | Recibe Portimonense | Tarjetas Portimonense |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 5 | 1 | 1 | 1 | 1 |
-| 16-30' | 1 | 2 | 6 | 0 | 2 | 1 |
+| 16-30' | 1 | 2 | 6 | 0 | 2 | 2 |
 | 31-45' | 2 | 2 | 3 | 3 | 2 | 6 |
-| 46-60' | 6 | 5 | 6 | 1 | 2 | 6 |
-| 61-75' | 6 | 3 | 1 | 3 | 0 | 1 |
-| 76-90' | 4 | 6 | 8 | 2 | 4 | 8 |
+| 46-60' | 6 | 5 | 6 | 1 | 2 | 7 |
+| 61-75' | 6 | 3 | 1 | 3 | 0 | 2 |
+| 76-90' | 4 | 6 | 8 | 2 | 4 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -105,12 +105,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Portimonense
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Segunda Liga | Portimonense 0-0 Academica | casa | 13-1 | 21 (8) - 6 (1) | 4-2 |
 | 2026-11-08 | Segunda Liga | FC Porto B 0-1 Portimonense | fuera | 10-6 | 15 (5) - 12 (4) | 0-2 |
 | 2026-10-31 | Segunda Liga | Portimonense 0-0 Torreense | casa | 4-4 | 11 (2) - 12 (2) | 3-4 |
 | 2026-10-24 | Segunda Liga | Sporting CP B 3-0 Portimonense | fuera | –-– | – (–) - – (–) | 3-1 |
 | 2026-10-17 | Taça de Portugal | Florgrade 1-2 Portimonense | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Segunda Liga | Amarante 1-2 Portimonense | fuera | 3-6 | 15 (4) - 13 (4) | 4-1 |
-| 2026-09-19 | Taça de Portugal | Castro Daire 0-1 Portimonense | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Portimonense
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -133,6 +133,6 @@ _Sin bajas comunicadas por ahora._
 | Zinho Hoffmann | M | 1 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,04 · córners esperados 8,6._
+_Goles esperados: local 0,88 · visitante 0,95 · córners esperados 9,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

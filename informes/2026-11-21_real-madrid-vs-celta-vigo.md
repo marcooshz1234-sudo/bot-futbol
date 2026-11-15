@@ -1,7 +1,7 @@
 # Real Madrid – Celta Vigo
 **LaLiga** · Regular Season - 13 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_
@@ -194,14 +194,14 @@ _Goles esperados: local 2,06 · visitante 0,62 · córners esperados 9,3._
 | Doble oportunidad: X2 | 29% | 22% | 26% | 4.33 | +10% |
 | Doble oportunidad: 12 | 81% | 86% | 83% | 1.12 | -7% |
 | Doble oportunidad: 1X | 90% | 92% | 91% | 1.04 | -5% |
-| Ambos marcan: No | 59% | 52% | 56% | 1.80 | +0% |
-| Ambos marcan: Sí | 41% | 48% | 44% | 1.95 | -14% |
+| Ambos marcan: No | 60% | 52% | 56% | 1.80 | +0% |
+| Ambos marcan: Sí | 40% | 48% | 44% | 1.95 | -14% |
 | Goles más/menos: Más de 2.5 | 50% | 68% | 59% | 1.40 | -17% |
 | Goles más/menos: Más de 3.5 | 28% | 47% | 38% | 2.00 | -24% |
-| Goles más/menos: Más de 4.5 | 14% | 28% | 21% | 3.40 | -29% |
+| Goles más/menos: Más de 4.5 | 13% | 28% | 21% | 3.40 | -29% |
 | Goles más/menos: Menos de 2.5 ✅ | 50% | 32% | 41% | 3.00 | +22% |
 | Goles más/menos: Menos de 3.5 | 72% | 53% | 62% | 1.80 | +12% |
-| Goles más/menos: Menos de 4.5 | 86% | 72% | 79% | 1.33 | +5% |
+| Goles más/menos: Menos de 4.5 | 87% | 72% | 79% | 1.33 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 78% | 74% | 1.20 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 49% | 41% | 1.91 | -23% |
 | Goles 1ª parte más/menos: Más de 2.5 | 11% | 23% | 17% | 4.00 | -31% |

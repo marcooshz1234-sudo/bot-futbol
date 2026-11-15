@@ -1,7 +1,7 @@
 # Estoril – Felgueiras 1932
 **Taça de Portugal** · Round of 32 · 21/11/2026 17:00 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Estoril (total) | Estoril en casa | Felgueiras 1932 (total) | Felgueiras 1932 fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 12 | 6 |
-| Forma (últimos 5) | DDEDD | DDEDE | EDEVD | DDVDE |
-| Balance | 0V 3E 8D | 0V 2E 3D | 3V 5E 4D | 1V 2E 3D |
-| Goles a favor / partido | 0,55 | 0,60 | 1,25 | 0,83 |
-| Goles en contra / partido | 1,82 | 1,60 | 1,25 | 1,00 |
-| Goles a favor 1ª parte | 0,00 | 0,00 | 0,58 | 0,50 |
-| Goles a favor 2ª parte | 0,55 | 0,60 | 0,67 | 0,33 |
-| Goles en contra 1ª parte | 0,73 | 1,00 | 0,67 | 0,67 |
-| Goles en contra 2ª parte | 1,09 | 0,60 | 0,58 | 0,33 |
-| Más de 1,5 goles | 82% | 80% | 67% | 50% |
-| Más de 2,5 goles | 45% | 40% | 42% | 17% |
-| Más de 3,5 goles | 18% | 20% | 25% | 17% |
-| Ambos marcan | 55% | 60% | 58% | 33% |
-| Portería a cero | 9% | 20% | 25% | 33% |
-| Se queda sin marcar | 45% | 40% | 25% | 50% |
+| Partidos analizados | 11 | 5 | 13 | 7 |
+| Forma (últimos 5) | DDEDD | DDEDE | EEDEV | EDDVD |
+| Balance | 0V 3E 8D | 0V 2E 3D | 3V 6E 4D | 1V 3E 3D |
+| Goles a favor / partido | 0,55 | 0,60 | 1,23 | 0,86 |
+| Goles en contra / partido | 1,82 | 1,60 | 1,23 | 1,00 |
+| Goles a favor 1ª parte | 0,00 | 0,00 | 0,54 | 0,43 |
+| Goles a favor 2ª parte | 0,55 | 0,60 | 0,69 | 0,43 |
+| Goles en contra 1ª parte | 0,73 | 1,00 | 0,62 | 0,57 |
+| Goles en contra 2ª parte | 1,09 | 0,60 | 0,62 | 0,43 |
+| Más de 1,5 goles | 82% | 80% | 69% | 57% |
+| Más de 2,5 goles | 45% | 40% | 38% | 14% |
+| Más de 3,5 goles | 18% | 20% | 23% | 14% |
+| Ambos marcan | 55% | 60% | 62% | 43% |
+| Portería a cero | 9% | 20% | 23% | 29% |
+| Se queda sin marcar | 45% | 40% | 23% | 43% |
 | xG a favor | 1,01 | 1,22 | – | – |
 | xG en contra | 1,65 | 1,36 | – | – |
-| Tiros / partido | 13,7 | 18,0 | 10,0 | 10,0 |
-| Tiros a puerta / partido | 4,7 | 6,0 | 4,5 | 5,0 |
-| Tiros recibidos | 14,9 | 9,0 | 13,5 | 14,0 |
-| Tiros a puerta recibidos | 5,0 | 3,0 | 5,5 | 6,0 |
-| Posesión media % | 48 | 55 | 40 | 37 |
-| Córners a favor | 4,5 | 6,8 | 0,6 | 0,2 |
-| Córners en contra | 4,9 | 3,6 | 2,2 | 2,5 |
+| Tiros / partido | 13,7 | 18,0 | 10,7 | 11,0 |
+| Tiros a puerta / partido | 4,7 | 6,0 | 4,7 | 5,0 |
+| Tiros recibidos | 14,9 | 9,0 | 15,0 | 16,0 |
+| Tiros a puerta recibidos | 5,0 | 3,0 | 5,7 | 6,0 |
+| Posesión media % | 48 | 55 | 43 | 42 |
+| Córners a favor | 4,5 | 6,8 | 0,7 | 0,6 |
+| Córners en contra | 4,9 | 3,6 | 2,7 | 3,4 |
 | Córners a favor 1ª parte | 2,1 | 3,4 | 0,3 | 0,2 |
-| Córners a favor 2ª parte | 2,4 | 3,4 | 0,2 | 0,0 |
-| Córners totales del partido | 9,4 | 10,4 | 2,8 | 2,8 |
-| Córners totales 1ª parte | 4,7 | 5,6 | 2,2 | 2,5 |
-| Córners totales 2ª parte | 4,7 | 4,8 | 0,6 | 0,2 |
-| Más de 8,5 córners | 70% | 100% | 22% | 25% |
-| Más de 9,5 córners | 40% | 60% | 22% | 25% |
-| Más de 10,5 córners | 30% | 40% | 22% | 25% |
+| Córners a favor 2ª parte | 2,4 | 3,4 | 0,4 | 0,4 |
+| Córners totales del partido | 9,4 | 10,4 | 3,4 | 4,0 |
+| Córners totales 1ª parte | 4,7 | 5,6 | 2,2 | 2,4 |
+| Córners totales 2ª parte | 4,7 | 4,8 | 1,2 | 1,6 |
+| Más de 8,5 córners | 70% | 100% | 30% | 40% |
+| Más de 9,5 córners | 40% | 60% | 20% | 20% |
+| Más de 10,5 córners | 30% | 40% | 20% | 20% |
 | Faltas cometidas | 11,2 | 11,8 | – | – |
 | Faltas recibidas | 13,3 | 12,0 | – | – |
-| Amarillas propias | 2,0 | 2,4 | 2,2 | 1,5 |
-| Amarillas del rival | 1,3 | 1,4 | 2,3 | 2,0 |
-| Rojas / partido | 0,20 | 0,00 | 0,11 | 0,25 |
+| Amarillas propias | 2,0 | 2,4 | 2,3 | 1,8 |
+| Amarillas del rival | 1,3 | 1,4 | 2,6 | 2,6 |
+| Rojas / partido | 0,20 | 0,00 | 0,10 | 0,20 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Estoril | Recibe Estoril | Tarjetas Estoril | Goles Felgueiras 1932 | Recibe Felgueiras 1932 | Tarjetas Felgueiras 1932 |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 4 | 1 | 2 | 0 | 5 |
 | 16-30' | 0 | 2 | 4 | 4 | 3 | 1 |
-| 31-45' | 0 | 2 | 6 | 1 | 5 | 7 |
-| 46-60' | 1 | 1 | 1 | 3 | 1 | 4 |
+| 31-45' | 0 | 2 | 6 | 1 | 5 | 8 |
+| 46-60' | 1 | 1 | 1 | 4 | 2 | 4 |
 | 61-75' | 2 | 6 | 7 | 2 | 3 | 6 |
-| 76-90' | 3 | 5 | 8 | 3 | 3 | 7 |
+| 76-90' | 3 | 5 | 8 | 3 | 3 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -102,18 +102,18 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Felgueiras 1932
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Segunda Liga | Amarante 1-1 Felgueiras 1932 | fuera | 2-7 | 12 (5) - 18 (6) | 3-5 |
 | 2026-11-07 | Segunda Liga | Felgueiras 1932 3-3 Leixoes | casa | 4-10 | 10 (4) - 13 (5) | 4-3 |
 | 2026-11-01 | Segunda Liga | Tondela 3-2 Felgueiras 1932 | fuera | 1-10 | 10 (5) - 14 (6) | 1-1 |
 | 2026-10-25 | Segunda Liga | Felgueiras 1932 2-2 Lusitânia Lourosa | casa | –-– | – (–) - – (–) | 2-2 |
 | 2026-10-18 | Taça de Portugal | Felgueiras 1932 1-0 Fafe | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-12 | Segunda Liga | Benfica B 1-0 Felgueiras 1932 | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-09-19 | Taça de Portugal | Naval 1893 0-2 Felgueiras 1932 | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Felgueiras 1932
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,88 · visitante 1,59 · córners esperados 8,0._
+_Goles esperados: local 0,86 · visitante 1,57 · córners esperados 8,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

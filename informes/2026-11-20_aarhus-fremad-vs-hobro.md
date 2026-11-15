@@ -1,7 +1,7 @@
 # Aarhus Fremad – Hobro
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Jysk Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:08_
@@ -155,17 +155,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 30% | 51% | 41% | 1.85 | -25% |
 | Goles más/menos: Más de 3.5 | 13% | 29% | 21% | 3.25 | -32% |
 | Goles más/menos: Menos de 1.5 | 43% | 25% | 34% | 3.75 | +27% |
-| Goles más/menos: Menos de 2.5 | 70% | 49% | 59% | 1.95 | +15% |
+| Goles más/menos: Menos de 2.5 | 70% | 49% | 59% | 1.95 | +16% |
 | Goles más/menos: Menos de 3.5 | 87% | 71% | 79% | 1.33 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 57% | 69% | 63% | 1.36 | -15% |
 | Goles 1ª parte más/menos: Más de 1.5 | 20% | 35% | 28% | 2.62 | -27% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 43% | 31% | 37% | 3.00 | +12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 80% | 65% | 72% | 1.44 | +4% |
 | Goles del local: Más de 0.5 | 70% | 79% | 74% | 1.18 | -12% |
-| Goles del local: Más de 1.5 | 34% | 50% | 42% | 1.83 | -24% |
+| Goles del local: Más de 1.5 | 33% | 50% | 42% | 1.83 | -24% |
 | Goles del local: Más de 2.5 | 12% | 23% | 18% | 4.00 | -29% |
 | Goles del local: Menos de 0.5 | 30% | 21% | 26% | 4.50 | +15% |
-| Goles del local: Menos de 1.5 | 66% | 50% | 58% | 1.83 | +7% |
+| Goles del local: Menos de 1.5 | 67% | 50% | 58% | 1.83 | +7% |
 | Goles del local: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles del visitante: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del visitante: Más de 1.5 | 17% | 29% | 23% | 3.25 | -26% |

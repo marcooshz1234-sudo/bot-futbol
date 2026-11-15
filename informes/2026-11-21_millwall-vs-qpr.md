@@ -1,7 +1,7 @@
 # Millwall – QPR
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -201,10 +201,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
 | Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
-| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +1% |
+| Goles más/menos: Menos de 3.5 | 75% | 66% | 70% | 1.44 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles del local: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles del local: Más de 1.5 | 35% | 44% | 40% | 2.10 | -16% |
@@ -212,9 +212,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
 | Goles del local: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +0% |
 | Goles del local: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del visitante: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
+| Goles del visitante: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
 | Goles del visitante: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles del visitante: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
+| Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -1% |
 | Goles del visitante: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
 | 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -8% |
 | 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -3% |

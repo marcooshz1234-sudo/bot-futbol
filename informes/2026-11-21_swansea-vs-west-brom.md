@@ -1,7 +1,7 @@
 # Swansea – West Brom
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -188,13 +188,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 37% | 35% | 36% | 2.62 | -6% |
-| 1X2: X | 26% | 28% | 27% | 3.25 | -12% |
+| 1X2: X | 26% | 28% | 27% | 3.25 | -11% |
 | 1X2: 1 | 37% | 37% | 37% | 2.50 | -8% |
 | Doble oportunidad: X2 | 63% | 63% | 63% | 1.50 | -5% |
 | Doble oportunidad: 12 | 74% | 71% | 72% | 1.33 | -4% |
 | Doble oportunidad: 1X | 63% | 66% | 64% | 1.44 | -7% |
-| Ambos marcan: No | 46% | 46% | 46% | 2.00 | -7% |
-| Ambos marcan: Sí | 54% | 54% | 54% | 1.73 | -7% |
+| Ambos marcan: No | 47% | 46% | 46% | 2.00 | -7% |
+| Ambos marcan: Sí | 53% | 54% | 54% | 1.73 | -7% |
 | Goles más/menos: Más de 1.5 | 74% | 73% | 73% | 1.30 | -5% |
 | Goles más/menos: Más de 2.5 | 49% | 47% | 48% | 2.00 | -4% |
 | Goles más/menos: Más de 3.5 | 27% | 28% | 28% | 3.40 | -6% |
@@ -205,7 +205,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
+| Goles del local: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
 | Goles del local: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
 | Goles del local: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles del local: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
@@ -213,7 +213,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles del visitante: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
 | Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
-| 1X2 descanso: 2 | 29% | 29% | 29% | 3.25 | -7% |
+| 1X2 descanso: 2 | 28% | 29% | 29% | 3.25 | -7% |
 | 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
 | 1X2 descanso: 1 | 28% | 29% | 29% | 3.20 | -8% |
 

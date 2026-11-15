@@ -1,7 +1,7 @@
 # Poland – Sweden
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Śląska  Wrocław
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -192,7 +192,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 62% | 70% | 66% | 1.36 | -11% |
 | Ambos marcan: No | 53% | 39% | 46% | 2.38 | +10% |
-| Ambos marcan: Sí | 47% | 61% | 54% | 1.53 | -17% |
+| Ambos marcan: Sí | 47% | 61% | 54% | 1.53 | -18% |
 | Goles más/menos: Más de 1.5 | 67% | 79% | 73% | 1.18 | -14% |
 | Goles más/menos: Más de 2.5 | 41% | 57% | 49% | 1.65 | -19% |
 | Goles más/menos: Más de 3.5 | 20% | 38% | 29% | 2.50 | -28% |
@@ -201,14 +201,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 59% | 43% | 51% | 2.20 | +12% |
 | Goles más/menos: Menos de 3.5 | 80% | 62% | 71% | 1.50 | +7% |
 | Goles más/menos: Menos de 4.5 | 91% | 79% | 85% | 1.18 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 72% | 68% | 1.30 | -12% |
+| Goles 1ª parte más/menos: Más de 0.5 | 63% | 72% | 68% | 1.30 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 28% | 32% | 3.40 | +9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 37% | 28% | 32% | 3.40 | +9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +2% |
 | Goles del local: Más de 0.5 | 67% | 78% | 73% | 1.20 | -13% |
 | Goles del local: Más de 1.5 | 30% | 49% | 39% | 1.91 | -25% |
 | Goles del local: Más de 2.5 | 10% | 23% | 17% | 4.00 | -33% |
-| Goles del local: Menos de 0.5 | 33% | 22% | 27% | 4.33 | +18% |
+| Goles del local: Menos de 0.5 | 33% | 22% | 27% | 4.33 | +19% |
 | Goles del local: Menos de 1.5 | 70% | 51% | 61% | 1.80 | +9% |
 | Goles del local: Menos de 2.5 | 90% | 77% | 83% | 1.22 | +2% |
 | Goles del visitante: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |

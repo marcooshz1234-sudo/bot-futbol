@@ -1,10 +1,10 @@
 # Alaves – Deportivo La Coruna
 **LaLiga** · Regular Season - 13 · 21/11/2026 14:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:51_
+_Actualizadas: 15/11 19:51_
 
 - **1X2:** 1 **2.00**  ·  X **3.25**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.33**  ·  X2 **1.80**
@@ -27,6 +27,9 @@ _Actualizadas: 14/11 19:51_
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.40**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.10**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -39,6 +42,11 @@ _Actualizadas: 14/11 19:51_
 - **Win Both Halves:** 1 **6.50**  ·  2 **15.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **8.50**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 - **Home Player Shots On Target Total:** Antonio Martinez - 2 **2.75**  ·  Antonio Martinez - 3 **7.00**  ·  Antonio Martinez - 4 **21.00**  ·  Lucas Boye - 1 **1.22**  ·  Antonio Martinez - 1 **1.36**  ·  Aitor Manas - 1 **1.40**  ·  Mariano Diaz - 1 **1.44**  ·  Abde Rebbach - 1 **1.73**  ·  Miguel Rodriguez - 1 **1.53**  ·  Carles Alena - 1 **2.62**  ·  Mikel Rodriguez - 1 **1.73**  ·  Angel Hidalgo Perez - 1 **1.73**  ·  Pablo Ibanez - 1 **1.53**  ·  Denis Suarez - 1 **2.25**  ·  Hugo Novoa - 1 **3.25**  ·  Antonio Blanco - 1 **2.25**  ·  Nahuel Tenaglia - 1 **3.00**  ·  Selu Diallo - 1 **2.25**  ·  Nicolas Valentini - 1 **3.25**  ·  Carlos Protesoni - 1 **3.40**  ·  Xanet Olaiz - 1 **3.40**  ·  Ander Guevara - 1 **4.00**  ·  Youseff Enriquez - 1 **4.33**  ·  Castro Jonny Otto - 1 **5.50**  ·  Ville Koski - 1 **5.50**  ·  Lucas Boye - 2 **2.00**  ·  Aitor Manas - 2 **3.00**  ·  Mariano Diaz - 2 **3.25**  ·  Abde Rebbach - 2 **4.50**  ·  Miguel Rodriguez - 2 **3.75**  ·  Carles Alena - 2 **11.00**  ·  Mikel Rodriguez - 2 **5.00**  ·  Angel Hidalgo Perez - 2 **5.00**  ·  Pablo Ibanez - 2 **3.75**  ·  Denis Suarez - 2 **9.00**  ·  Hugo Novoa - 2 **17.00**  ·  Antonio Blanco - 2 **9.00**  ·  Nahuel Tenaglia - 2 **15.00**  ·  Selu Diallo - 2 **9.00**  ·  Nicolas Valentini - 2 **15.00**  ·  Carlos Protesoni - 2 **17.00**  ·  Xanet Olaiz - 2 **17.00**  ·  Ander Guevara - 2 **21.00**  ·  Youseff Enriquez - 2 **21.00**  ·  Lucas Boye - 3 **4.33**  ·  Aitor Manas - 3 **8.00**  ·  Mariano Diaz - 3 **9.00**  ·  Abde Rebbach - 3 **15.00**  ·  Miguel Rodriguez - 3 **11.00**  ·  Mikel Rodriguez - 3 **17.00**  ·  Angel Hidalgo Perez - 3 **17.00**  ·  Pablo Ibanez - 3 **11.00**  ·  Lucas Boye - 4 **11.00**  ·  Aitor Manas - 4 **21.00**  ·  Mariano Diaz - 4 **21.00**  ·  Lucas Boye - 5 **21.00**
 - **Away Player Shots On Target Total:** Jonathan Asp-Jensen **51.00**  ·  Luismi Cruz **51.00**  ·  Miguel Loureiro **29.00**  ·  Riki Rodriguez **67.00**  ·  Lucas Boye **4.50**  ·  David Mella **41.00**  ·  Diego Villares **51.00**  ·  Joaquin Ximo Navarro **81.00**  ·  Mario Soriano **51.00**  ·  Yeremay Hernandez **34.00**  ·  Ville Koski **26.00**  ·  Mariano Diaz **19.00**  ·  Jose Maria Gimenez **26.00**  ·  Yayo Gonzalez **41.00**  ·  Youseff Enriquez **101.00**  ·  Selu Diallo **15.00**  ·  Ruben Lopez **81.00**  ·  Nicolas Valentini **26.00**  ·  Lucas Noubi **41.00**  ·  Miguel Rodriguez **13.00**  ·  Adama Traore **51.00**  ·  Antonio Martinez **8.00**  ·  Castro Jonny Otto **81.00**  ·  Lorenzo Amatucci **81.00**  ·  Giacomo Quagliata **126.00**  ·  Marc Casado **101.00**  ·  Pablo Ibanez **34.00**  ·  Teun Gijselhart **19.00**  ·  Carles Alena **41.00**  ·  Denis Suarez **21.00**  ·  Adria Altimira **126.00**  ·  Bil Nsongo **13.00**  ·  Pierre-Emerick Aubameyang **12.00**  ·  Noe Carrillo Collazo **51.00**  ·  Xanet Olaiz **21.00**  ·  Bright Ede **19.00**  ·  Antonio Blanco **51.00**  ·  Hugo Novoa **67.00**  ·  Nahuel Tenaglia **21.00**  ·  Abde Rebbach **34.00**  ·  Ander Guevara **81.00**  ·  Jose Angelino **151.00**  ·  Kevin Sanchez **21.00**  ·  Carlos Protesoni **34.00**  ·  Mikel Rodriguez **23.00**  ·  Aitor Manas **12.00**  ·  Zakaria Eddahchouri **17.00**  ·  Angel Hidalgo Perez **34.00**
 - **Home Player Shots:** Antonio Martinez - 2 **1.20**  ·  Antonio Martinez - 3 **1.62**  ·  Antonio Martinez - 4 **2.50**  ·  Antonio Martinez - 5 **4.00**  ·  Antonio Martinez - 7 **15.00**  ·  Lucas Boye - 1 **1.01**  ·  Antonio Martinez - 1 **1.03**  ·  Aitor Manas - 1 **1.04**  ·  Mariano Diaz - 1 **1.05**  ·  Abde Rebbach - 1 **1.06**  ·  Miguel Rodriguez - 1 **1.05**  ·  Carles Alena - 1 **1.28**  ·  Mikel Rodriguez - 1 **1.07**  ·  Angel Hidalgo Perez - 1 **1.08**  ·  Pablo Ibanez - 1 **1.06**  ·  Denis Suarez - 1 **1.25**  ·  Hugo Novoa - 1 **1.57**  ·  Antonio Blanco - 1 **1.25**  ·  Nahuel Tenaglia - 1 **1.40**  ·  Selu Diallo - 1 **1.25**  ·  Nicolas Valentini - 1 **1.50**  ·  Carlos Protesoni - 1 **1.62**  ·  Xanet Olaiz - 1 **1.62**  ·  Ander Guevara - 1 **1.83**  ·  Youseff Enriquez - 1 **2.00**  ·  Castro Jonny Otto - 1 **2.38**  ·  Ville Koski - 1 **2.38**  ·  Lucas Boye - 2 **1.10**  ·  Aitor Manas - 2 **1.22**  ·  Mariano Diaz - 2 **1.28**  ·  Abde Rebbach - 2 **1.30**  ·  Miguel Rodriguez - 2 **1.30**  ·  Carles Alena - 2 **2.20**  ·  Mikel Rodriguez - 2 **1.36**  ·  Angel Hidalgo Perez - 2 **1.44**  ·  Pablo Ibanez - 2 **1.33**  ·  Denis Suarez - 2 **2.10**  ·  Hugo Novoa - 2 **3.50**  ·  Antonio Blanco - 2 **2.10**  ·  Nahuel Tenaglia - 2 **2.62**  ·  Selu Diallo - 2 **2.10**  ·  Nicolas Valentini - 2 **3.25**  ·  Carlos Protesoni - 2 **3.75**  ·  Xanet Olaiz - 2 **3.75**  ·  Ander Guevara - 2 **5.00**  ·  Youseff Enriquez - 2 **6.00**  ·  Castro Jonny Otto - 2 **8.00**  ·  Ville Koski - 2 **8.00**  ·  Lucas Boye - 3 **1.30**  ·  Aitor Manas - 3 **1.67**  ·  Mariano Diaz - 3 **1.80**  ·  Abde Rebbach - 3 **1.83**  ·  Miguel Rodriguez - 3 **1.83**  ·  Carles Alena - 3 **4.50**  ·  Mikel Rodriguez - 3 **2.00**  ·  Angel Hidalgo Perez - 3 **2.25**  ·  Pablo Ibanez - 3 **1.91**  ·  Denis Suarez - 3 **4.33**  ·  Hugo Novoa - 3 **10.00**  ·  Antonio Blanco - 3 **4.33**  ·  Nahuel Tenaglia - 3 **6.50**  ·  Selu Diallo - 3 **4.33**  ·  Nicolas Valentini - 3 **8.00**  ·  Carlos Protesoni - 3 **11.00**  ·  Xanet Olaiz - 3 **11.00**  ·  Ander Guevara - 3 **15.00**  ·  Youseff Enriquez - 3 **19.00**  ·  Castro Jonny Otto - 3 **21.00**  ·  Ville Koski - 3 **21.00**  ·  Lucas Boye - 4 **1.73**  ·  Aitor Manas - 4 **2.62**  ·  Mariano Diaz - 4 **3.00**  ·  Abde Rebbach - 4 **3.25**  ·  Miguel Rodriguez - 4 **3.25**  ·  Carles Alena - 4 **11.00**  ·  Mikel Rodriguez - 4 **3.50**  ·  Angel Hidalgo Perez - 4 **4.00**  ·  Pablo Ibanez - 4 **3.40**  ·  Denis Suarez - 4 **10.00**  ·  Hugo Novoa - 4 **21.00**  ·  Antonio Blanco - 4 **10.00**  ·  Nahuel Tenaglia - 4 **17.00**  ·  Selu Diallo - 4 **10.00**  ·  Nicolas Valentini - 4 **21.00**  ·  Lucas Boye - 5 **2.62**  ·  Aitor Manas - 5 **4.33**  ·  Mariano Diaz - 5 **5.50**  ·  Abde Rebbach - 5 **6.00**  ·  Miguel Rodriguez - 5 **5.50**  ·  Carles Alena - 5 **21.00**  ·  Mikel Rodriguez - 5 **7.00**  ·  Angel Hidalgo Perez - 5 **8.00**  ·  Pablo Ibanez - 5 **6.50**  ·  Denis Suarez - 5 **21.00**  ·  Antonio Blanco - 5 **21.00**  ·  Lucas Boye - 6 **4.33**  ·  Antonio Martinez - 6 **8.00**  ·  Aitor Manas - 6 **9.00**  ·  Mariano Diaz - 6 **11.00**  ·  Abde Rebbach - 6 **11.00**  ·  Miguel Rodriguez - 6 **11.00**  ·  Mikel Rodriguez - 6 **15.00**  ·  Angel Hidalgo Perez - 6 **17.00**  ·  Pablo Ibanez - 6 **13.00**  ·  Lucas Boye - 7 **8.00**  ·  Aitor Manas - 7 **17.00**  ·  Mariano Diaz - 7 **21.00**  ·  Abde Rebbach - 7 **21.00**  ·  Miguel Rodriguez - 7 **21.00**  ·  Lucas Boye - 8 **15.00**  ·  Antonio Martinez - 8 **21.00**  ·  Lucas Boye - 9 **21.00**  ·  Carlos Protesoni - 4 **21.00**  ·  Xanet Olaiz - 4 **21.00**  ·  Selu Diallo - 5 **21.00**  ·  Mikel Rodriguez - 7 **21.00**  ·  Pablo Ibanez - 7 **21.00**
@@ -178,11 +186,11 @@ _Sin bajas comunicadas por ahora._
 | Marc Casadó | M | 4 | 138 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 7 | 1,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 1,05 · córners esperados 9,4._
+_Goles esperados: local 1,20 · visitante 1,05 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 26% | 29% | 3.60 | +4% |
+| 1X2: 2 | 32% | 26% | 29% | 3.60 | +3% |
 | 1X2: X | 29% | 28% | 29% | 3.25 | -7% |
 | 1X2: 1 | 39% | 46% | 43% | 2.00 | -15% |
 | Doble oportunidad: X2 | 61% | 53% | 57% | 1.80 | +2% |
@@ -208,6 +216,8 @@ _Goles esperados: local 1,20 · visitante 1,05 · córners esperados 9,4._
 | Goles del visitante: Más de 1.5 | 28% | 27% | 27% | 3.50 | -4% |
 | Goles del visitante: Menos de 0.5 | 35% | 38% | 36% | 2.50 | -9% |
 | Goles del visitante: Menos de 1.5 | 72% | 73% | 73% | 1.28 | -7% |
+| Córners más/menos: Más de 9.5 | 45% | 50% | 47% | 1.83 | -13% |
+| Córners más/menos: Menos de 9.5 | 55% | 50% | 53% | 1.83 | -4% |
 | 1X2 descanso: 2 | 24% | 22% | 23% | 4.33 | -1% |
 | 1X2 descanso: X | 47% | 44% | 46% | 2.10 | -4% |
 | 1X2 descanso: 1 | 29% | 34% | 31% | 2.75 | -14% |

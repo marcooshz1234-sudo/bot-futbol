@@ -1,7 +1,7 @@
 # Kazakhstan – Slovakia
 **Nations League** · League C - 6 · 16/11/2026 16:00 (hora España) · Astana Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -177,12 +177,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 55% | 54% | 54% | 1.75 | -5% |
+| 1X2: 2 | 54% | 54% | 54% | 1.75 | -5% |
 | 1X2: X | 26% | 25% | 25% | 3.75 | -5% |
 | 1X2: 1 | 20% | 21% | 20% | 4.50 | -8% |
 | Doble oportunidad: X2 | 80% | 78% | 79% | 1.20 | -5% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 45% | 49% | 47% | 1.91 | -10% |
+| Doble oportunidad: 1X | 46% | 49% | 47% | 1.91 | -10% |
 | Ambos marcan: No | 56% | 50% | 53% | 1.83 | -3% |
 | Ambos marcan: Sí | 44% | 50% | 47% | 1.83 | -14% |
 | Goles más/menos: Más de 1.5 | 69% | 75% | 72% | 1.25 | -10% |

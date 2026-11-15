@@ -1,7 +1,7 @@
 # Maritimo – Chaves
 **Taça de Portugal** · Round of 32 · 21/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -135,6 +135,6 @@ _Sin bajas comunicadas por ahora._
 | Kiko Pereira | D | 1 | 10 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 1,61 · córners esperados 8,4._
+_Goles esperados: local 1,58 · visitante 1,61 · córners esperados 8,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,10 +1,10 @@
 # Werder Bremen – Hamburger SV
 **Bundesliga** · Regular Season - 10 · 22/11/2026 17:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:52_
+_Actualizadas: 15/11 19:52_
 
 - **1X2:** 1 **1.65**  ·  X **4.00**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.20**
@@ -193,7 +193,7 @@ _Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,1._
 | Doble oportunidad: X2 | 37% | 43% | 40% | 2.20 | -12% |
 | Doble oportunidad: 12 | 80% | 77% | 79% | 1.22 | -4% |
 | Doble oportunidad: 1X | 83% | 80% | 82% | 1.18 | -4% |
-| Ambos marcan: No | 46% | 41% | 43% | 2.25 | -3% |
+| Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
 | Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
 | Goles más/menos: Más de 2.5 | 59% | 62% | 61% | 1.53 | -7% |
 | Goles más/menos: Más de 3.5 | 37% | 41% | 39% | 2.30 | -10% |
@@ -213,7 +213,7 @@ _Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,1._
 | Goles del visitante: Más de 1.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
 | Goles del visitante: Menos de 1.5 | 75% | 66% | 70% | 1.40 | -1% |
-| 1X2 descanso: 2 | 16% | 21% | 19% | 4.50 | -16% |
+| 1X2 descanso: 2 | 16% | 21% | 19% | 4.50 | -17% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
 | 1X2 descanso: 1 | 46% | 42% | 44% | 2.20 | -3% |
 

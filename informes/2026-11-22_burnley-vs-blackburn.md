@@ -1,7 +1,7 @@
 # Burnley – Blackburn
 **Championship** · Regular Season - 16 · 22/11/2026 13:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -190,12 +190,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 34% | 23% | 29% | 3.90 | +12% |
 | 1X2: X | 24% | 26% | 25% | 3.50 | -13% |
-| 1X2: 1 | 42% | 51% | 46% | 1.80 | -17% |
+| 1X2: 1 | 42% | 51% | 46% | 1.80 | -16% |
 | Doble oportunidad: X2 | 58% | 50% | 54% | 1.83 | -1% |
 | Doble oportunidad: 12 | 76% | 74% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 66% | 76% | 71% | 1.22 | -14% |
+| Doble oportunidad: 1X | 66% | 76% | 71% | 1.22 | -13% |
 | Ambos marcan: No | 39% | 44% | 42% | 2.10 | -13% |
-| Ambos marcan: Sí | 61% | 56% | 58% | 1.67 | -2% |
+| Ambos marcan: Sí | 61% | 56% | 58% | 1.67 | -3% |
 | Goles más/menos: Más de 1.5 | 81% | 76% | 79% | 1.25 | -2% |
 | Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
 | Goles más/menos: Más de 3.5 | 36% | 32% | 34% | 3.00 | +2% |

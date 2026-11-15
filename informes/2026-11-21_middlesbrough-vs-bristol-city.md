@@ -1,7 +1,7 @@
 # Middlesbrough – Bristol City
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -196,7 +196,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 12 | 81% | 81% | 81% | 1.18 | -4% |
 | Doble oportunidad: 1X | 87% | 87% | 87% | 1.10 | -4% |
 | Ambos marcan: No | 49% | 46% | 48% | 2.00 | -5% |
-| Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -9% |
+| Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -10% |
 | Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.50 | -8% |
 | Goles más/menos: Más de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
 | Goles más/menos: Más de 4.5 | 19% | 24% | 22% | 4.00 | -14% |

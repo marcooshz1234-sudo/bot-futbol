@@ -1,7 +1,7 @@
 # Trento – Cittadella
 **Serie C** · Girone A - 15 · 20/11/2026 20:30 (hora España) · Stadio Briamasco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Trento (total) | Trento en casa | Cittadella (total) | Cittadella fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 13 | 6 |
-| Forma (últimos 5) | VVEVV | VVVVE | EVDVV | EDVVV |
-| Balance | 8V 6E 0D | 6V 1E 0D | 10V 1E 2D | 4V 1E 1D |
-| Goles a favor / partido | 1,50 | 1,71 | 1,46 | 1,17 |
-| Goles en contra / partido | 0,57 | 0,43 | 0,46 | 0,50 |
-| Goles a favor 1ª parte | 0,71 | 0,57 | 0,54 | 0,50 |
-| Goles a favor 2ª parte | 0,79 | 1,14 | 0,92 | 0,67 |
-| Goles en contra 1ª parte | 0,36 | 0,43 | 0,38 | 0,33 |
-| Goles en contra 2ª parte | 0,21 | 0,00 | 0,08 | 0,17 |
-| Más de 1,5 goles | 57% | 57% | 62% | 50% |
-| Más de 2,5 goles | 57% | 57% | 38% | 33% |
-| Más de 3,5 goles | 21% | 14% | 0% | 0% |
-| Ambos marcan | 43% | 43% | 31% | 33% |
-| Portería a cero | 57% | 57% | 69% | 67% |
-| Se queda sin marcar | 29% | 14% | 8% | 17% |
+| Partidos analizados | 14 | 7 | 14 | 6 |
+| Forma (últimos 5) | VVEVV | VVVVE | EEVDV | EDVVV |
+| Balance | 8V 6E 0D | 6V 1E 0D | 10V 2E 2D | 4V 1E 1D |
+| Goles a favor / partido | 1,50 | 1,71 | 1,50 | 1,17 |
+| Goles en contra / partido | 0,57 | 0,43 | 0,57 | 0,50 |
+| Goles a favor 1ª parte | 0,71 | 0,57 | 0,50 | 0,50 |
+| Goles a favor 2ª parte | 0,79 | 1,14 | 1,00 | 0,67 |
+| Goles en contra 1ª parte | 0,36 | 0,43 | 0,43 | 0,33 |
+| Goles en contra 2ª parte | 0,21 | 0,00 | 0,14 | 0,17 |
+| Más de 1,5 goles | 57% | 57% | 64% | 50% |
+| Más de 2,5 goles | 57% | 57% | 43% | 33% |
+| Más de 3,5 goles | 21% | 14% | 7% | 0% |
+| Ambos marcan | 43% | 43% | 36% | 33% |
+| Portería a cero | 57% | 57% | 64% | 67% |
+| Se queda sin marcar | 29% | 14% | 7% | 17% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 1 | 4 | 0 | 0 |
 | 16-30' | 4 | 1 | 1 | 0 | 3 | 5 |
-| 31-45' | 4 | 3 | 4 | 3 | 2 | 5 |
+| 31-45' | 4 | 3 | 4 | 3 | 3 | 6 |
 | 46-60' | 3 | 0 | 5 | 1 | 0 | 7 |
-| 61-75' | 4 | 2 | 7 | 7 | 1 | 2 |
-| 76-90' | 4 | 1 | 7 | 4 | 0 | 6 |
+| 61-75' | 4 | 2 | 7 | 8 | 1 | 3 |
+| 76-90' | 4 | 1 | 7 | 5 | 1 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -86,18 +86,18 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Cittadella
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Serie C | Cittadella 2-2 Folgore Caratese | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Serie C | Giana Erminio 0-0 Cittadella | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Serie C | Cittadella 1-0 Treviso | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Serie C | Union Brescia 2-1 Cittadella | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-19 | Serie C | Cittadella 1-0 Arzignano Valchiampo | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Serie C | Novara 0-2 Cittadella | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-10-03 | Serie C | Cittadella 1-2 Albinoleffe | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Cittadella
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,63 · visitante 0,66._
+_Goles esperados: local 0,76 · visitante 0,67._
 
 _Sin cuotas de Bet365 todavía para comparar._

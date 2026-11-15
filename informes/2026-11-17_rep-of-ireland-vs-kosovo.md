@@ -1,7 +1,7 @@
 # Rep. Of Ireland – Kosovo
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Aviva Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_

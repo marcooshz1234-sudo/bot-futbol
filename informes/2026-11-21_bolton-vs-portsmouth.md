@@ -1,7 +1,7 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -189,10 +189,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 42% | 39% | 41% | 2.35 | -5% |
-| 1X2: X | 26% | 27% | 27% | 3.40 | -9% |
+| 1X2: X | 27% | 27% | 27% | 3.40 | -9% |
 | 1X2: 1 | 32% | 34% | 33% | 2.75 | -10% |
 | Doble oportunidad: X2 | 68% | 67% | 68% | 1.40 | -5% |
-| Doble oportunidad: 12 | 74% | 73% | 73% | 1.30 | -5% |
+| Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 58% | 60% | 59% | 1.57 | -7% |
 | Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
@@ -201,7 +201,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 25% | 30% | 28% | 3.20 | -12% |
 | Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -2% |
-| Goles más/menos: Menos de 3.5 | 75% | 70% | 72% | 1.36 | -2% |
+| Goles más/menos: Menos de 3.5 | 75% | 70% | 72% | 1.36 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |

@@ -1,10 +1,10 @@
 # Racing Santander – Real Sociedad
 **LaLiga** · Regular Season - 13 · 22/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:52_
+_Actualizadas: 15/11 19:52_
 
 - **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.25**  ·  X2 **1.36**
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | Héctor Fort | D | 7 | 216 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 2,24 · córners esperados 10,7._
+_Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@ _Goles esperados: local 1,70 · visitante 2,24 · córners esperados 10,7._
 | Ambos marcan: No | 27% | 34% | 30% | 2.75 | -16% |
 | Ambos marcan: Sí | 73% | 66% | 70% | 1.40 | -3% |
 | Goles más/menos: Más de 2.5 | 75% | 66% | 70% | 1.44 | +1% |
-| Goles más/menos: Más de 3.5 | 55% | 45% | 50% | 2.10 | +6% |
+| Goles más/menos: Más de 3.5 | 55% | 45% | 50% | 2.10 | +5% |
 | Goles más/menos: Más de 4.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
 | Goles más/menos: Menos de 2.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles más/menos: Menos de 3.5 | 45% | 55% | 50% | 1.73 | -14% |
@@ -213,7 +213,7 @@ _Goles esperados: local 1,70 · visitante 2,24 · córners esperados 10,7._
 | Goles del visitante: Más de 1.5 | 65% | 56% | 61% | 1.67 | +1% |
 | Goles del visitante: Más de 2.5 | 39% | 31% | 35% | 3.00 | +5% |
 | Goles del visitante: Menos de 1.5 | 35% | 44% | 39% | 2.10 | -17% |
-| Goles del visitante: Menos de 2.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del visitante: Menos de 2.5 | 61% | 69% | 65% | 1.36 | -11% |
 | 1X2 descanso: 2 | 40% | 36% | 38% | 2.60 | -1% |
 | 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |
 | 1X2 descanso: 1 | 27% | 28% | 27% | 3.40 | -8% |

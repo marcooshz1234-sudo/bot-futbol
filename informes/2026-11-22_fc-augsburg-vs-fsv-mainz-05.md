@@ -1,10 +1,10 @@
 # FC Augsburg – FSV Mainz 05
 **Bundesliga** · Regular Season - 10 · 22/11/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:52_
+_Actualizadas: 15/11 19:52_
 
 - **1X2:** 1 **2.62**  ·  X **3.80**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.25**  ·  X2 **1.44**
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | Otto Ruoppi | M | 4 | 61 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,31 · visitante 2,24 · córners esperados 9,8._
+_Goles esperados: local 2,31 · visitante 2,23 · córners esperados 9,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

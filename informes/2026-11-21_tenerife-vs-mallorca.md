@@ -1,7 +1,7 @@
 # Tenerife – Mallorca
 **Segunda División** · Regular Season - 15 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Tenerife (total) | Tenerife en casa | Mallorca (total) | Mallorca fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 13 | 6 |
-| Forma (últimos 5) | EEEED | EEEVD | EVEEV | EEEVE |
-| Balance | 3V 6E 3D | 2V 3E 1D | 6V 5E 2D | 1V 4E 1D |
-| Goles a favor / partido | 1,25 | 1,17 | 1,38 | 0,50 |
-| Goles en contra / partido | 1,42 | 0,83 | 0,77 | 0,67 |
-| Goles a favor 1ª parte | 0,75 | 1,00 | 0,38 | 0,17 |
-| Goles a favor 2ª parte | 0,50 | 0,17 | 1,00 | 0,33 |
-| Goles en contra 1ª parte | 0,67 | 0,17 | 0,23 | 0,17 |
-| Goles en contra 2ª parte | 0,75 | 0,67 | 0,54 | 0,50 |
-| Más de 1,5 goles | 83% | 67% | 69% | 50% |
-| Más de 2,5 goles | 33% | 17% | 31% | 0% |
-| Más de 3,5 goles | 33% | 17% | 15% | 0% |
-| Ambos marcan | 67% | 50% | 38% | 33% |
-| Portería a cero | 17% | 33% | 46% | 50% |
-| Se queda sin marcar | 17% | 17% | 31% | 50% |
-| xG a favor | 0,97 | 1,20 | 1,63 | 1,06 |
-| xG en contra | 1,28 | 1,27 | 1,51 | 2,10 |
-| Tiros / partido | 10,0 | 10,8 | 13,4 | 12,2 |
-| Tiros a puerta / partido | 2,9 | 3,0 | 4,4 | 3,3 |
-| Tiros recibidos | 11,3 | 9,8 | 11,4 | 12,3 |
-| Tiros a puerta recibidos | 3,3 | 2,5 | 3,3 | 4,3 |
-| Posesión media % | 41 | 41 | 54 | 53 |
-| Córners a favor | 3,9 | 3,2 | 5,4 | 5,0 |
-| Córners en contra | 3,4 | 3,3 | 4,3 | 5,7 |
-| Córners a favor 1ª parte | 1,8 | 1,2 | 2,5 | 2,7 |
-| Córners a favor 2ª parte | 2,1 | 2,0 | 2,9 | 2,3 |
-| Córners totales del partido | 7,3 | 6,5 | 9,7 | 10,7 |
-| Córners totales 1ª parte | 3,8 | 2,5 | 4,6 | 5,8 |
-| Córners totales 2ª parte | 3,6 | 4,0 | 5,1 | 4,8 |
-| Más de 8,5 córners | 42% | 33% | 62% | 67% |
-| Más de 9,5 córners | 25% | 17% | 54% | 67% |
-| Más de 10,5 córners | 17% | 17% | 46% | 67% |
-| Faltas cometidas | 13,0 | 14,8 | 14,2 | 14,8 |
-| Faltas recibidas | 14,2 | 13,2 | 14,3 | 12,2 |
-| Amarillas propias | 2,3 | 1,8 | 2,8 | 3,5 |
-| Amarillas del rival | 2,8 | 3,3 | 2,3 | 1,8 |
-| Rojas / partido | 0,17 | 0,17 | 0,08 | 0,17 |
+| Partidos analizados | 13 | 7 | 13 | 6 |
+| Forma (últimos 5) | VEEEE | VEEEV | EVEEV | EEEVE |
+| Balance | 4V 6E 3D | 3V 3E 1D | 6V 5E 2D | 1V 4E 1D |
+| Goles a favor / partido | 1,31 | 1,29 | 1,38 | 0,50 |
+| Goles en contra / partido | 1,31 | 0,71 | 0,77 | 0,67 |
+| Goles a favor 1ª parte | 0,77 | 1,00 | 0,38 | 0,17 |
+| Goles a favor 2ª parte | 0,54 | 0,29 | 1,00 | 0,33 |
+| Goles en contra 1ª parte | 0,62 | 0,14 | 0,23 | 0,17 |
+| Goles en contra 2ª parte | 0,69 | 0,57 | 0,54 | 0,50 |
+| Más de 1,5 goles | 85% | 71% | 69% | 50% |
+| Más de 2,5 goles | 31% | 14% | 31% | 0% |
+| Más de 3,5 goles | 31% | 14% | 15% | 0% |
+| Ambos marcan | 62% | 43% | 38% | 33% |
+| Portería a cero | 23% | 43% | 46% | 50% |
+| Se queda sin marcar | 15% | 14% | 31% | 50% |
+| xG a favor | 1,05 | 1,30 | 1,63 | 1,06 |
+| xG en contra | 1,23 | 1,19 | 1,51 | 2,10 |
+| Tiros / partido | 10,1 | 10,9 | 13,4 | 12,2 |
+| Tiros a puerta / partido | 3,1 | 3,3 | 4,4 | 3,3 |
+| Tiros recibidos | 11,6 | 10,6 | 11,4 | 12,3 |
+| Tiros a puerta recibidos | 3,2 | 2,4 | 3,3 | 4,3 |
+| Posesión media % | 40 | 40 | 54 | 53 |
+| Córners a favor | 4,0 | 3,4 | 5,4 | 5,0 |
+| Córners en contra | 3,7 | 3,9 | 4,3 | 5,7 |
+| Córners a favor 1ª parte | 1,8 | 1,1 | 2,5 | 2,7 |
+| Córners a favor 2ª parte | 2,2 | 2,3 | 2,9 | 2,3 |
+| Córners totales del partido | 7,7 | 7,3 | 9,7 | 10,7 |
+| Córners totales 1ª parte | 3,8 | 2,7 | 4,6 | 5,8 |
+| Córners totales 2ª parte | 3,9 | 4,6 | 5,1 | 4,8 |
+| Más de 8,5 córners | 46% | 43% | 62% | 67% |
+| Más de 9,5 córners | 31% | 29% | 54% | 67% |
+| Más de 10,5 córners | 23% | 29% | 46% | 67% |
+| Faltas cometidas | 13,0 | 14,6 | 14,2 | 14,8 |
+| Faltas recibidas | 14,0 | 12,9 | 14,3 | 12,2 |
+| Amarillas propias | 2,3 | 1,9 | 2,8 | 3,5 |
+| Amarillas del rival | 2,8 | 3,1 | 2,3 | 1,8 |
+| Rojas / partido | 0,15 | 0,14 | 0,08 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Tenerife | Recibe Tenerife | Tarjetas Tenerife | Goles Mallorca | Recibe Mallorca | Tarjetas Mallorca |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 3 | 5 | 1 | 1 | 3 |
 | 16-30' | 4 | 4 | 4 | 3 | 1 | 4 |
-| 31-45' | 3 | 1 | 5 | 1 | 1 | 6 |
-| 46-60' | 3 | 1 | 3 | 3 | 3 | 8 |
+| 31-45' | 4 | 1 | 6 | 1 | 1 | 6 |
+| 46-60' | 3 | 1 | 4 | 3 | 3 | 8 |
 | 61-75' | 3 | 3 | 4 | 4 | 2 | 8 |
-| 76-90' | 0 | 5 | 12 | 6 | 2 | 10 |
+| 76-90' | 1 | 5 | 12 | 6 | 2 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,31 +73,31 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Tenerife
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Segunda División | Tenerife 2-0 AD Ceuta FC | casa | 5-7 | 11 (5) - 15 (2) | 2-2 |
 | 2026-11-02 | Segunda División | Tenerife 2-2 FC Andorra | casa | 0-3 | 5 (2) - 11 (4) | 2-5 |
 | 2026-10-25 | Segunda División | Sabadell 1-1 Tenerife | fuera | 5-4 | 11 (3) - 14 (4) | 3-5 |
 | 2026-10-19 | Segunda División | Celta de Vigo II 1-1 Tenerife | fuera | 4-4 | 10 (3) - 14 (4) | 2-3 |
 | 2026-10-12 | Segunda División | Tenerife 1-1 Girona | casa | 6-3 | 13 (3) - 12 (4) | 3-4 |
 | 2026-10-05 | Segunda División | Cordoba 3-2 Tenerife | fuera | 8-4 | 10 (2) - 16 (6) | 5-4 |
-| 2026-09-26 | Segunda División | Tenerife 1-1 Cadiz | casa | 1-2 | 10 (3) - 12 (3) | 1-4 |
 
 ## Jugadores de Tenerife
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| David Rodríguez | D | 13 | 1156 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 10 | 15 | 1,2 | 4 | 0 |
+| A. Landázuri | D | 12 | 1080 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 8 | 12 | 1,0 | 2 | 0 |
 | Dani Martín | G | 12 | 1075 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 1 |
-| David Rodríguez | D | 12 | 1066 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 10 | 15 | 1,2 | 4 | 0 |
-| A. Landázuri | D | 11 | 990 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 8 | 9 | 0,8 | 2 | 0 |
-| Enric Gallego | F | 11 | 825 | 8 | 1 | 30 | 2,7 | 11 | 1,0 | 34 | 15 | 1,4 | 4 | 0 |
-| Nacho Gil | M | 10 | 798 | 1 | 4 | 10 | 1,0 | 4 | 0,4 | 13 | 32 | 3,2 | 1 | 0 |
-| Juanjo | M | 11 | 792 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 14 | 8 | 0,7 | 4 | 1 |
+| Enric Gallego | F | 12 | 915 | 8 | 1 | 33 | 2,8 | 11 | 0,9 | 36 | 16 | 1,3 | 4 | 0 |
+| Nacho Gil | M | 11 | 885 | 2 | 5 | 12 | 1,1 | 5 | 0,5 | 17 | 32 | 2,9 | 1 | 0 |
+| Juanjo | M | 12 | 804 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 14 | 8 | 0,7 | 4 | 1 |
 | José León | D | 8 | 720 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 2 | 0,2 | 0 | 0 |
-| César Álvarez | D | 8 | 611 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 2 | 8 | 1,0 | 1 | 0 |
-| VÃ­ctor Moreno | M | 8 | 582 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 6 | 5 | 0,6 | 1 | 0 |
-| C. Gomis | M | 8 | 491 | 2 | 0 | 7 | 0,9 | 6 | 0,8 | 11 | 10 | 1,2 | 0 | 0 |
-| Fabricio | M | 10 | 488 | 1 | 1 | 6 | 0,6 | 4 | 0,4 | 12 | 2 | 0,2 | 2 | 0 |
-| Jesús Álvarez | M | 8 | 450 | 1 | 0 | 7 | 0,9 | 2 | 0,2 | 7 | 5 | 0,6 | 2 | 0 |
-| Noel López | M | 8 | 384 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 2 | 7 | 0,9 | 0 | 0 |
+| César Álvarez | D | 9 | 698 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 4 | 11 | 1,2 | 2 | 0 |
+| VÃ­ctor Moreno | M | 9 | 610 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 6 | 5 | 0,6 | 1 | 0 |
+| Fabricio | M | 11 | 566 | 1 | 2 | 6 | 0,5 | 4 | 0,4 | 13 | 2 | 0,2 | 3 | 0 |
+| C. Gomis | F | 9 | 553 | 2 | 0 | 7 | 0,8 | 6 | 0,7 | 13 | 11 | 1,2 | 0 | 0 |
+| Jesús Álvarez | M | 9 | 540 | 1 | 0 | 8 | 0,9 | 3 | 0,3 | 9 | 6 | 0,7 | 2 | 0 |
+| N. Viereck | D | 5 | 450 | 1 | 0 | 2 | 0,4 | 2 | 0,4 | 4 | 0 | 0,0 | 1 | 0 |
+| Noel López | M | 9 | 446 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 2 | 9 | 1,0 | 0 | 0 |
 | Jorge Moreno | D | 7 | 370 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 2 | 0,3 | 1 | 0 |
-| N. Viereck | D | 4 | 360 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 0 | 0,0 | 1 | 0 |
 | Daniel Fernández | M | 7 | 292 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 10 | 1,4 | 2 | 0 |
 | A. Krdžalić | M | 10 | 285 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 2 | 8 | 0,8 | 1 | 0 |
 | Iván Chapela | M | 6 | 245 | 1 | 1 | 2 | 0,3 | 1 | 0,2 | 2 | 6 | 1,0 | 1 | 0 |
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | A. Buksa | F | 9 | 211 | 2 | 0 | 3 | 0,3 | 2 | 0,2 | 2 | 3 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,95 · visitante 1,18 · córners esperados 8,8._
+_Goles esperados: local 0,96 · visitante 1,14 · córners esperados 8,9._
 
 _Sin cuotas de Bet365 todavía para comparar._

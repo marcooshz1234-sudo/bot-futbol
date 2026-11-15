@@ -1,7 +1,7 @@
 # Denmark – Norway
 **Nations League** · League A - 6 · 17/11/2026 20:45 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -185,7 +185,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 35% | 30% | 2.70 | -18% |
+| 1X2: 2 | 25% | 35% | 30% | 2.70 | -19% |
 | 1X2: X | 21% | 27% | 24% | 3.50 | -15% |
 | 1X2: 1 | 54% | 37% | 46% | 2.55 | +16% |
 | Doble oportunidad: X2 | 46% | 62% | 54% | 1.50 | -19% |
@@ -203,17 +203,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
-| Goles del local: Más de 0.5 | 88% | 78% | 83% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 62% | 49% | 55% | 1.91 | +5% |
+| Goles del local: Más de 0.5 | 87% | 78% | 83% | 1.20 | -1% |
+| Goles del local: Más de 1.5 | 61% | 49% | 55% | 1.91 | +5% |
 | Goles del local: Más de 2.5 | 34% | 23% | 29% | 4.00 | +16% |
-| Goles del local: Menos de 0.5 | 12% | 22% | 17% | 4.33 | -26% |
-| Goles del local: Menos de 1.5 | 38% | 51% | 45% | 1.80 | -19% |
+| Goles del local: Menos de 0.5 | 13% | 22% | 17% | 4.33 | -26% |
+| Goles del local: Menos de 1.5 | 39% | 51% | 45% | 1.80 | -19% |
 | Goles del local: Menos de 2.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles del visitante: Más de 0.5 | 75% | 78% | 76% | 1.20 | -8% |
 | Goles del visitante: Más de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Goles del visitante: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
 | Goles del visitante: Menos de 0.5 | 25% | 22% | 24% | 4.33 | +2% |
-| Goles del visitante: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -2% |
+| Goles del visitante: Menos de 1.5 | 60% | 54% | 57% | 1.73 | -1% |
 | Goles del visitante: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Córners más/menos: Menos de 9.5 | 56% | 56% | 56% | 1.67 | -7% |

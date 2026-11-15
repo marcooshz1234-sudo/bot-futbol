@@ -1,7 +1,7 @@
 # Estac Troyes – Le Havre
 **Ligue 1** · Regular Season - 11 · 20/11/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:13_
@@ -188,7 +188,7 @@ _Goles esperados: local 1,40 · visitante 1,25 · córners esperados 9,3._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 34% | 26% | 30% | 3.50 | +5% |
-| 1X2: X | 26% | 27% | 27% | 3.40 | -10% |
+| 1X2: X | 26% | 27% | 27% | 3.40 | -9% |
 | 1X2: 1 | 40% | 46% | 43% | 2.00 | -13% |
 | Doble oportunidad: X2 | 60% | 53% | 56% | 1.80 | +1% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
@@ -196,10 +196,10 @@ _Goles esperados: local 1,40 · visitante 1,25 · córners esperados 9,3._
 | Ambos marcan: No | 46% | 44% | 45% | 2.10 | -5% |
 | Ambos marcan: Sí | 54% | 56% | 55% | 1.67 | -9% |
 | Goles más/menos: Más de 1.5 | 74% | 76% | 75% | 1.25 | -6% |
-| Goles más/menos: Más de 2.5 | 50% | 53% | 51% | 1.80 | -8% |
+| Goles más/menos: Más de 2.5 | 49% | 53% | 51% | 1.80 | -8% |
 | Goles más/menos: Más de 3.5 | 28% | 32% | 30% | 3.00 | -11% |
 | Goles más/menos: Menos de 1.5 | 26% | 24% | 25% | 4.00 | -1% |
-| Goles más/menos: Menos de 2.5 | 50% | 47% | 49% | 2.00 | -2% |
+| Goles más/menos: Menos de 2.5 | 51% | 47% | 49% | 2.00 | -2% |
 | Goles más/menos: Menos de 3.5 | 72% | 68% | 70% | 1.40 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 71% | 70% | 1.33 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |

@@ -1,7 +1,7 @@
 # Germany – Netherlands
 **Nations League** · League A - 6 · 16/11/2026 20:45 (hora España) · Olympiastadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -222,10 +222,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 58% | 75% | 66% | 1.25 | -17% |
 | Ambos marcan: No | 46% | 34% | 40% | 2.75 | +10% |
 | Ambos marcan: Sí | 54% | 66% | 60% | 1.40 | -16% |
-| Goles más/menos: Más de 2.5 | 50% | 67% | 59% | 1.40 | -18% |
+| Goles más/menos: Más de 2.5 | 50% | 67% | 58% | 1.40 | -18% |
 | Goles más/menos: Más de 3.5 | 28% | 49% | 38% | 1.91 | -27% |
 | Goles más/menos: Más de 4.5 | 13% | 29% | 21% | 3.25 | -31% |
-| Goles más/menos: Menos de 2.5 | 50% | 33% | 41% | 2.88 | +19% |
+| Goles más/menos: Menos de 2.5 | 50% | 33% | 42% | 2.88 | +20% |
 | Goles más/menos: Menos de 3.5 | 72% | 51% | 62% | 1.80 | +11% |
 | Goles más/menos: Menos de 4.5 | 87% | 71% | 79% | 1.33 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
@@ -241,7 +241,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
 | Goles del visitante: Más de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del visitante: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -7% |
+| Goles del visitante: Menos de 1.5 | 58% | 58% | 58% | 1.62 | -6% |
 | Córners más/menos: Más de 9.5 | 48% | 47% | 47% | 2.02 | -4% |
 | Córners más/menos: Menos de 9.5 | 52% | 53% | 53% | 1.78 | -6% |
 | 1X2 descanso: 2 | 32% | 25% | 28% | 3.75 | +5% |

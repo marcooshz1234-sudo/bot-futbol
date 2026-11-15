@@ -1,12 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-15 14:02 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
-
-## Domingo 15/11
-
-| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
-|---|---|---|---|---|---|
-| 20:45 | Más de 1,5 goles en la 2ª parte del Spain–England | goles | 1.80 | 80% | Spain 4/5 · England 4/5 |
+_Generado el 2026-11-15 19:55 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Lunes 16/11
 
@@ -54,17 +48,20 @@ _Generado el 2026-11-15 14:02 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Domingo 22/11
 
-**🤪 Combi loca · cuota 14,82**
-- Gana el Liverpool (1,83) · Liverpool 6/10 · Manchester United 7/10
-- Gana el Bologna (1,73) · Bologna 5/10 · Udinese 8/10
+**🤪 Combi loca · cuota 14,59**
+- Gana el Liverpool (1,70) · Liverpool 6/10 · Manchester United 7/10
+- Gana el Bologna (1,67) · Bologna 5/10 · Udinese 8/10
+- Gana el Cordoba (1,90) · Cordoba 6/10 · Oviedo 6/10
 - Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 (1,62) · FC Augsburg 10/10 · FSV Mainz 05 8/10
 - Ambos marcan en Burnley–Blackburn (1,67) · Burnley 8/10 · Blackburn 7/10
-- Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV (1,73) · Werder Bremen 8/10 · Hamburger SV 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 17:30 | Gana el Liverpool | resultado | 1.83 | 65% | Liverpool 6/10 · Manchester United 7/10 |
-| 15:00 | Gana el Bologna | resultado | 1.73 | 65% | Bologna 5/10 · Udinese 8/10 |
+| 17:30 | Gana el Liverpool | resultado | 1.70 | 65% | Liverpool 6/10 · Manchester United 7/10 |
+| 15:00 | Gana el Bologna | resultado | 1.67 | 65% | Bologna 5/10 · Udinese 8/10 |
+| 14:00 | Gana el Cordoba | resultado | 1.90 | 60% | Cordoba 6/10 · Oviedo 6/10 |
+| 14:00 | Cordoba gana alguna de las dos partes | resultado | 1.50 | 75% | Cordoba 8/10 · Oviedo 7/10 |
+| 14:00 | Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo | goles | 1.80 | 80% | Cordoba 8/10 · Oviedo 8/10 |
 | 15:30 | Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 | goles | 1.62 | 90% | FC Augsburg 10/10 · FSV Mainz 05 8/10 |
 | 13:00 | Ambos marcan en Burnley–Blackburn | goles | 1.67 | 75% | Burnley 8/10 · Blackburn 7/10 |
 | 17:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV | goles | 1.73 | 75% | Werder Bremen 8/10 · Hamburger SV 7/10 |

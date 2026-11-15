@@ -1,7 +1,7 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_
@@ -198,10 +198,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 53% | 68% | 60% | 1.40 | -16% |
 | Ambos marcan: No | 31% | 34% | 32% | 2.75 | -11% |
 | Ambos marcan: Sí | 69% | 66% | 68% | 1.40 | -5% |
-| Goles más/menos: Más de 2.5 | 70% | 67% | 68% | 1.40 | -4% |
+| Goles más/menos: Más de 2.5 | 69% | 67% | 68% | 1.40 | -4% |
 | Goles más/menos: Más de 3.5 | 48% | 46% | 47% | 2.00 | -5% |
-| Goles más/menos: Más de 4.5 | 29% | 28% | 28% | 3.40 | -3% |
-| Goles más/menos: Menos de 2.5 | 30% | 33% | 32% | 2.88 | -9% |
+| Goles más/menos: Más de 4.5 | 29% | 28% | 28% | 3.40 | -4% |
+| Goles más/menos: Menos de 2.5 | 31% | 33% | 32% | 2.88 | -9% |
 | Goles más/menos: Menos de 3.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Goles más/menos: Menos de 4.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |

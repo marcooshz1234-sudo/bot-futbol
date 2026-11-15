@@ -1,7 +1,7 @@
 # Sheffield Utd – Watford
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -210,9 +210,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 2.5 | 21% | 31% | 26% | 3.00 | -22% |
 | Goles del local: Menos de 1.5 | 54% | 44% | 49% | 2.10 | +3% |
 | Goles del local: Menos de 2.5 | 79% | 69% | 74% | 1.36 | +1% |
-| Goles del visitante: Más de 0.5 | 54% | 61% | 58% | 1.53 | -12% |
+| Goles del visitante: Más de 0.5 | 54% | 61% | 57% | 1.53 | -12% |
 | Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 46% | 39% | 42% | 2.38 | +1% |
+| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +1% |
 | Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
 | 1X2 descanso: X | 45% | 39% | 42% | 2.38 | -0% |
 | 1X2 descanso: 1 | 39% | 44% | 41% | 2.10 | -13% |

@@ -1,7 +1,7 @@
 # Alcione – Ospitaletto
 **Serie C** · Girone A - 15 · 22/11/2026 14:30 (hora España) · Stadio Ferruccio
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -95,6 +95,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 1,53._
+_Goles esperados: local 1,17 · visitante 1,54._
 
 _Sin cuotas de Bet365 todavía para comparar._

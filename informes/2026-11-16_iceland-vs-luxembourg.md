@@ -1,7 +1,7 @@
 # Iceland – Luxembourg
 **Nations League** · League C - 6 · 16/11/2026 18:00 (hora España) · Ice Rink Laugardalur
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -187,25 +187,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 67% | 58% | 62% | 1.62 | +1% |
 | Ambos marcan: Sí | 33% | 42% | 38% | 2.20 | -17% |
 | Goles más/menos: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 62% | 55% | 59% | 1.70 | -0% |
-| Goles más/menos: Más de 3.5 | 40% | 35% | 38% | 2.62 | -2% |
+| Goles más/menos: Más de 2.5 | 62% | 55% | 59% | 1.70 | -1% |
+| Goles más/menos: Más de 3.5 | 40% | 35% | 37% | 2.62 | -2% |
 | Goles más/menos: Más de 4.5 | 22% | 21% | 21% | 4.50 | -5% |
 | Goles más/menos: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
 | Goles más/menos: Menos de 2.5 | 38% | 45% | 41% | 2.10 | -13% |
-| Goles más/menos: Menos de 3.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles más/menos: Menos de 3.5 | 60% | 65% | 63% | 1.44 | -10% |
 | Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.17 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del local: Más de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
-| Goles del local: Más de 2.5 | 52% | 39% | 46% | 2.38 | +9% |
+| Goles del local: Más de 2.5 | 52% | 39% | 46% | 2.38 | +8% |
 | Goles del local: Más de 3.5 | 30% | 22% | 26% | 4.33 | +12% |
 | Goles del local: Menos de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
 | Goles del local: Menos de 2.5 | 48% | 61% | 54% | 1.53 | -17% |
 | Goles del local: Menos de 3.5 | 70% | 78% | 74% | 1.20 | -11% |
-| Goles del visitante: Más de 0.5 | 35% | 46% | 41% | 2.00 | -18% |
-| Goles del visitante: Menos de 0.5 | 65% | 54% | 59% | 1.73 | +2% |
+| Goles del visitante: Más de 0.5 | 35% | 46% | 41% | 2.00 | -19% |
+| Goles del visitante: Menos de 0.5 | 65% | 54% | 59% | 1.73 | +3% |
 | 1X2 descanso: X | 31% | 36% | 34% | 2.50 | -16% |
 | 1X2 descanso: 1 | 63% | 52% | 58% | 1.73 | +0% |
 

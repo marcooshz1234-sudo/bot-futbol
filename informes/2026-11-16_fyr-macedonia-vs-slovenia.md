@@ -1,7 +1,7 @@
 # FYR Macedonia – Slovenia
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Nacional Arena Todor Proeski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -185,12 +185,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 68% | 59% | 64% | 1.57 | -0% |
+| 1X2: 2 | 68% | 59% | 63% | 1.57 | -0% |
 | 1X2: X | 23% | 26% | 25% | 3.60 | -11% |
 | 1X2: 1 | 9% | 15% | 12% | 6.25 | -26% |
 | Doble oportunidad: X2 | 91% | 85% | 88% | 1.12 | -2% |
 | Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 32% | 41% | 37% | 2.30 | -16% |
+| Doble oportunidad: 1X | 32% | 41% | 37% | 2.30 | -15% |
 | Ambos marcan: No | 73% | 58% | 65% | 1.62 | +6% |
 | Ambos marcan: Sí | 27% | 42% | 35% | 2.20 | -24% |
 | Goles más/menos: Más de 1.5 | 60% | 69% | 64% | 1.36 | -12% |

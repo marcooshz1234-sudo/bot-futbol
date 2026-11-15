@@ -1,7 +1,7 @@
 # Hungary – Northern Ireland
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Puskás Aréna
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -168,6 +168,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -8% |
 | Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
 | 1X2 descanso: X | 52% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: 1 | 26% | 35% | 30% | 2.62 | -20% |
+| 1X2 descanso: 1 | 26% | 35% | 31% | 2.62 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

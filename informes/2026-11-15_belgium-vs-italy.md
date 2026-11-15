@@ -1,10 +1,10 @@
 # Belgium – Italy
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Roi Baudouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 13:58_
+_Actualizadas: 15/11 16:51_
 
 - **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.67**
@@ -223,10 +223,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 68% | 59% | 63% | 1.57 | -0% |
 | Goles más/menos: Más de 1.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles más/menos: Más de 2.5 | 68% | 56% | 62% | 1.67 | +4% |
-| Goles más/menos: Más de 3.5 | 47% | 35% | 41% | 2.62 | +7% |
+| Goles más/menos: Más de 3.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles más/menos: Menos de 1.5 | 14% | 22% | 18% | 4.33 | -24% |
 | Goles más/menos: Menos de 2.5 | 32% | 44% | 38% | 2.15 | -19% |
-| Goles más/menos: Menos de 3.5 | 53% | 65% | 59% | 1.44 | -15% |
+| Goles más/menos: Menos de 3.5 | 54% | 65% | 59% | 1.44 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 45% | 39% | 42% | 2.38 | +0% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 27% | 24% | 3.50 | -15% |

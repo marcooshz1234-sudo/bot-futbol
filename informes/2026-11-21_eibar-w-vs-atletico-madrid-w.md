@@ -1,7 +1,7 @@
 # Eibar W – Atletico Madrid W
 **Liga F** · Regular Season - 12 · 21/11/2026 17:00 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,20 +9,20 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Eibar W (total) | Eibar W en casa | Atletico Madrid W (total) | Atletico Madrid W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 10 | 5 |
-| Forma (últimos 5) | DDDED | DEDVD | VEVVV | EVDDD |
-| Balance | 3V 3E 5D | 2V 1E 3D | 6V 1E 3D | 1V 1E 3D |
-| Goles a favor / partido | 1,00 | 1,33 | 2,20 | 1,80 |
-| Goles en contra / partido | 1,36 | 1,83 | 1,20 | 2,40 |
-| Goles a favor 1ª parte | 0,09 | 0,17 | 1,10 | 1,00 |
-| Goles a favor 2ª parte | 0,91 | 1,17 | 1,10 | 0,80 |
-| Goles en contra 1ª parte | 0,45 | 0,67 | 0,60 | 1,20 |
-| Goles en contra 2ª parte | 0,91 | 1,17 | 0,60 | 1,20 |
-| Más de 1,5 goles | 55% | 67% | 80% | 100% |
-| Más de 2,5 goles | 55% | 67% | 70% | 80% |
-| Más de 3,5 goles | 27% | 50% | 50% | 60% |
-| Ambos marcan | 55% | 67% | 50% | 100% |
-| Portería a cero | 45% | 33% | 50% | 0% |
+| Partidos analizados | 11 | 6 | 11 | 6 |
+| Forma (últimos 5) | DDDED | DEDVD | VVEVV | VEVDD |
+| Balance | 3V 3E 5D | 2V 1E 3D | 7V 1E 3D | 2V 1E 3D |
+| Goles a favor / partido | 1,00 | 1,33 | 2,18 | 1,83 |
+| Goles en contra / partido | 1,36 | 1,83 | 1,18 | 2,17 |
+| Goles a favor 1ª parte | 0,09 | 0,17 | 1,18 | 1,17 |
+| Goles a favor 2ª parte | 0,91 | 1,17 | 1,00 | 0,67 |
+| Goles en contra 1ª parte | 0,45 | 0,67 | 0,64 | 1,17 |
+| Goles en contra 2ª parte | 0,91 | 1,17 | 0,55 | 1,00 |
+| Más de 1,5 goles | 55% | 67% | 82% | 100% |
+| Más de 2,5 goles | 55% | 67% | 73% | 83% |
+| Más de 3,5 goles | 27% | 50% | 45% | 50% |
+| Ambos marcan | 55% | 67% | 55% | 100% |
+| Portería a cero | 45% | 33% | 45% | 0% |
 | Se queda sin marcar | 18% | 0% | 0% | 0% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
@@ -50,12 +50,12 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Eibar W | Recibe Eibar W | Tarjetas Eibar W | Goles Atletico Madrid W | Recibe Atletico Madrid W | Tarjetas Atletico Madrid W |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 1 | 2 | 3 | 3 | 2 |
+| 1-15' | 0 | 1 | 2 | 4 | 3 | 2 |
 | 16-30' | 1 | 2 | 1 | 3 | 1 | 1 |
-| 31-45' | 0 | 2 | 7 | 5 | 2 | 0 |
-| 46-60' | 2 | 2 | 3 | 3 | 1 | 5 |
+| 31-45' | 0 | 2 | 7 | 6 | 3 | 2 |
+| 46-60' | 2 | 2 | 3 | 3 | 1 | 6 |
 | 61-75' | 3 | 3 | 5 | 4 | 3 | 2 |
-| 76-90' | 5 | 5 | 6 | 4 | 2 | 4 |
+| 76-90' | 5 | 5 | 6 | 4 | 2 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -87,18 +87,18 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Atletico Madrid W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Liga F | Sevilla W 1-2 Atletico Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-09 | Liga F | Atletico Madrid W 3-0 FC Levante Badalona W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Liga F | Granada 1-1 Atletico Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | Liga F | Atletico Madrid W 4-0 Valencia W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-18 | Liga F | Atletico Madrid W 4-0 Madrid CFF W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-03 | Liga F | Deportivo de La Coruña W 1-2 Atletico Madrid W | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-09-27 | Liga F | Athletic Club W 3-2 Atletico Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Atletico Madrid W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,79 · visitante 2,00._
+_Goles esperados: local 0,78 · visitante 2,00._
 
 _Sin cuotas de Bet365 todavía para comparar._

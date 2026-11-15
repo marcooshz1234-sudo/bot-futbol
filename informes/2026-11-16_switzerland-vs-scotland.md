@@ -1,7 +1,7 @@
 # Switzerland – Scotland
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Kybunpark
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_
@@ -186,7 +186,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 58% | 55% | 56% | 1.73 | -3% |
 | Córners más/menos: Más de 8.5 | 53% | 56% | 55% | 1.67 | -9% |
 | Córners más/menos: Menos de 8.5 | 47% | 44% | 45% | 2.10 | -5% |
-| 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
+| 1X2 descanso: X | 43% | 42% | 42% | 2.20 | -7% |
 | 1X2 descanso: 1 | 47% | 41% | 44% | 2.30 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

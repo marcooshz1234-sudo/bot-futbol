@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15 14:02",
+ "generado": "2026-11-15 19:55",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,140 +7,6 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-11-15": {
-   "picks": [
-    {
-     "partido_id": 1528984,
-     "fecha": "2026-11-15T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Spain",
-     "visitante": "England",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Spain 4/5 · England 4/5",
-     "valor_mercado": -0.053,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.8,
-     "arbitro": "Clement Turpin",
-     "arbitro_tarjetas": 3.8,
-     "prob_aprendida": 0.648
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1528984,
-     "fecha": "2026-11-15T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Spain",
-     "visitante": "England",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Spain 4/5 · England 4/5",
-     "valor_mercado": -0.053,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.8,
-     "arbitro": "Clement Turpin",
-     "arbitro_tarjetas": 3.8,
-     "prob_aprendida": 0.648
-    }
-   ],
-   "combis": {
-    "segura": null,
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "atreve": {
-     "picks": [
-      {
-       "partido_id": 1570018,
-       "fecha": "2026-11-15T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Granada CF",
-       "visitante": "Las Palmas",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Granada CF–Las Palmas",
-       "cuota": 2.0,
-       "frecuencia": 0.7,
-       "ventaja": 0.2,
-       "detalle": "Granada CF 8/10 · Las Palmas 6/10",
-       "valor_mercado": -0.01,
-       "arbitro": "Miranda Bolano Daniel",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        7,
-        11,
-        22
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.619
-      },
-      {
-       "partido_id": 1528979,
-       "fecha": "2026-11-15T15:00",
-       "competicion": "Nations League",
-       "liga_id": 5,
-       "local": "Cyprus",
-       "visitante": "Montenegro",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Cyprus–Montenegro",
-       "cuota": 1.8,
-       "frecuencia": 0.7,
-       "ventaja": 0.144,
-       "detalle": "Cyprus 3/5 · Montenegro 4/5",
-       "valor_mercado": 0.078,
-       "movimiento": -0.016,
-       "cuota_inicial": 1.83,
-       "arbitro": "Sander van der Eijk",
-       "arbitro_tarjetas": 4.6,
-       "prob_aprendida": 0.573
-      },
-      {
-       "partido_id": 1528984,
-       "fecha": "2026-11-15T20:45",
-       "competicion": "Nations League",
-       "liga_id": 5,
-       "local": "Spain",
-       "visitante": "England",
-       "mercado": "Total Corners (1st Half)",
-       "opcion": "Over 4",
-       "tipo": "corners",
-       "texto": "Más de 4 córners en la 1ª parte en Spain–England",
-       "cuota": 2.1,
-       "frecuencia": 0.7,
-       "ventaja": 0.224,
-       "detalle": "Spain 4/5 · England 3/5",
-       "valor_mercado": 0.221,
-       "movimiento": 0.0,
-       "cuota_inicial": 2.1,
-       "arbitro": "Clement Turpin",
-       "arbitro_tarjetas": 3.8,
-       "prob_aprendida": 0.465
-      }
-     ],
-     "cuota": 7.56
-    }
-   },
-   "combis_partido": []
-  },
   "2026-11-16": {
    "picks": [
     {
@@ -235,7 +101,7 @@
      "temporada": "5/5",
      "arbitro": "Michael Oliver",
      "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.604
+     "prob_aprendida": 0.605
     }
    ],
    "mejores_por_partido": [
@@ -479,7 +345,7 @@
      "ventaja": 0.163,
      "detalle": "Israel 4/5 · Austria 4/5",
      "valor_mercado": 0.026,
-     "prob_aprendida": 0.408
+     "prob_aprendida": 0.407
     }
    ],
    "mejores_por_partido": [
@@ -499,7 +365,7 @@
      "ventaja": 0.163,
      "detalle": "Israel 4/5 · Austria 4/5",
      "valor_mercado": 0.026,
-     "prob_aprendida": 0.408
+     "prob_aprendida": 0.407
     }
    ],
    "combis": {
@@ -549,7 +415,7 @@
        "valor_mercado": -0.021,
        "movimiento": 0.044,
        "cuota_inicial": 1.83,
-       "prob_aprendida": 0.555
+       "prob_aprendida": 0.554
       }
      ],
      "cuota": 4.87
@@ -655,7 +521,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.642
+     "prob_aprendida": 0.641
     },
     {
      "partido_id": 1552823,
@@ -818,7 +684,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.642
+     "prob_aprendida": 0.641
     },
     {
      "partido_id": 1552823,
@@ -985,7 +851,7 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.642
+       "prob_aprendida": 0.641
       },
       {
        "partido_id": 1552823,
@@ -1131,83 +997,83 @@
     "liga": {
      "picks": [
       {
-       "partido_id": 1557468,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Bournemouth",
-       "visitante": "Nottingham Forest",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Bournemouth gana alguna de las dos partes",
-       "cuota": 1.53,
-       "frecuencia": 0.7,
-       "ventaja": 0.046,
-       "detalle": "Bournemouth 8/10 · Nottingham Forest 6/10",
-       "valor_mercado": -0.013,
-       "posiciones": [
-        7,
-        16,
-        20
-       ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.676
-      },
-      {
-       "partido_id": 1557476,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Tottenham",
-       "visitante": "Ipswich",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Tottenham 6/10 · Ipswich 7/10",
-       "valor_mercado": -0.016,
-       "posiciones": [
-        11,
-        14,
-        20
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.612
-      },
-      {
-       "partido_id": 1557474,
+       "partido_id": 1563270,
        "fecha": "2026-11-21T13:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Manchester City",
-       "visitante": "Fulham",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Southampton",
+       "visitante": "Derby",
        "mercado": "Both Teams Score",
        "opcion": "Yes",
        "tipo": "goles",
-       "texto": "Ambos marcan en Manchester City–Fulham",
-       "cuota": 1.62,
-       "frecuencia": 0.7,
-       "ventaja": 0.083,
-       "detalle": "Manchester City 8/10 · Fulham 6/10",
-       "valor_mercado": 0.0,
-       "prob_xg": 0.587,
-       "xg_esperado": 2.93,
+       "texto": "Ambos marcan en Southampton–Derby",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Southampton 6/10 · Derby 7/10",
+       "valor_mercado": 0.047,
+       "prob_xg": 0.569,
+       "xg_esperado": 2.9,
        "posiciones": [
-        3,
-        15,
-        20
+        4,
+        23,
+        24
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.622
+       "prob_aprendida": 0.561
+      },
+      {
+       "partido_id": 1563268,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Norwich",
+       "visitante": "Cardiff",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Cardiff gana alguna de las dos partes",
+       "cuota": 2.2,
+       "frecuencia": 0.75,
+       "ventaja": 0.295,
+       "detalle": "Norwich 7/10 · Cardiff 8/10",
+       "valor_mercado": -0.043,
+       "posiciones": [
+        12,
+        14,
+        24
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.558
+      },
+      {
+       "partido_id": 1563272,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Swansea",
+       "visitante": "West Brom",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "West Brom gana alguna de las dos partes",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Swansea 7/10 · West Brom 6/10",
+       "valor_mercado": -0.062,
+       "posiciones": [
+        7,
+        6,
+        24
+       ],
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.552
       }
      ],
-     "cuota": 4.46,
-     "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI PREMIER",
-     "liga": "Premier"
+     "cuota": 7.25,
+     "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP",
+     "liga": "Championship"
     },
     "atreve": {
      "picks": [
@@ -1238,6 +1104,30 @@
        "prob_aprendida": 0.664
       },
       {
+       "partido_id": 1557476,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Tottenham",
+       "visitante": "Ipswich",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Tottenham 6/10 · Ipswich 7/10",
+       "valor_mercado": -0.016,
+       "posiciones": [
+        11,
+        14,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.611
+      },
+      {
        "partido_id": 1575229,
        "fecha": "2026-11-21T15:30",
        "competicion": "Bundesliga",
@@ -1259,33 +1149,7 @@
         18
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.595
-      },
-      {
-       "partido_id": 1550204,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Napoli",
-       "visitante": "Torino",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Napoli–Torino",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Napoli 7/10 · Torino 6/10",
-       "valor_mercado": -0.016,
-       "prob_xg": 0.588,
-       "xg_esperado": 2.92,
-       "posiciones": [
-        10,
-        11,
-        20
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.596
+       "prob_aprendida": 0.594
       }
      ],
      "cuota": 5.39
@@ -1364,7 +1228,7 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.642
+       "prob_aprendida": 0.641
       },
       {
        "partido_id": 1575223,
@@ -1412,33 +1276,7 @@
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.612
-      },
-      {
-       "partido_id": 1557474,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Manchester City",
-       "visitante": "Fulham",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Manchester City–Fulham",
-       "cuota": 1.62,
-       "frecuencia": 0.7,
-       "ventaja": 0.083,
-       "detalle": "Manchester City 8/10 · Fulham 6/10",
-       "valor_mercado": 0.0,
-       "prob_xg": 0.587,
-       "xg_esperado": 2.93,
-       "posiciones": [
-        3,
-        15,
-        20
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.622
+       "prob_aprendida": 0.611
       },
       {
        "partido_id": 1552823,
@@ -1467,6 +1305,24 @@
        "prob_aprendida": 0.601
       },
       {
+       "partido_id": 1551381,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "1. Division",
+       "liga_id": 120,
+       "local": "Vejle",
+       "visitante": "HB Koge",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "HB Koge o empate",
+       "cuota": 2.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.3,
+       "detalle": "Vejle 6/10 · HB Koge 8/10",
+       "valor_mercado": -0.046,
+       "prob_aprendida": 0.566
+      },
+      {
        "partido_id": 1575229,
        "fecha": "2026-11-21T15:30",
        "competicion": "Bundesliga",
@@ -1488,25 +1344,7 @@
         18
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.595
-      },
-      {
-       "partido_id": 1551381,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "1. Division",
-       "liga_id": 120,
-       "local": "Vejle",
-       "visitante": "HB Koge",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "HB Koge o empate",
-       "cuota": 2.5,
-       "frecuencia": 0.7,
-       "ventaja": 0.3,
-       "detalle": "Vejle 6/10 · HB Koge 8/10",
-       "valor_mercado": -0.046,
-       "prob_aprendida": 0.566
+       "prob_aprendida": 0.594
       },
       {
        "partido_id": 1550204,
@@ -1533,9 +1371,35 @@
        ],
        "contexto": "total_igualado_medio",
        "prob_aprendida": 0.596
+      },
+      {
+       "partido_id": 1563270,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Southampton",
+       "visitante": "Derby",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Southampton–Derby",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Southampton 6/10 · Derby 7/10",
+       "valor_mercado": 0.047,
+       "prob_xg": 0.569,
+       "xg_esperado": 2.9,
+       "posiciones": [
+        4,
+        23,
+        24
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.561
       }
      ],
-     "cuota": 401.38
+     "cuota": 445.98
     }
    },
    "combis_partido": []
@@ -1553,18 +1417,20 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Liverpool",
-     "cuota": 1.83,
+     "cuota": 1.7,
      "frecuencia": 0.65,
-     "ventaja": 0.104,
+     "ventaja": 0.062,
      "detalle": "Liverpool 6/10 · Manchester United 7/10",
-     "valor_mercado": 0.011,
+     "valor_mercado": -0.017,
+     "movimiento": -0.071,
+     "cuota_inicial": 1.83,
      "posiciones": [
       4,
       18,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.676
+     "prob_aprendida": 0.677
     },
     {
      "partido_id": 1550199,
@@ -1577,18 +1443,92 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Bologna",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "frecuencia": 0.65,
-     "ventaja": 0.072,
+     "ventaja": 0.051,
      "detalle": "Bologna 5/10 · Udinese 8/10",
-     "valor_mercado": -0.017,
+     "valor_mercado": -0.035,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
      "posiciones": [
       8,
       20,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.665
+     "prob_aprendida": 0.698
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Cordoba",
+     "cuota": 1.9,
+     "frecuencia": 0.6,
+     "ventaja": 0.074,
+     "detalle": "Cordoba 6/10 · Oviedo 6/10",
+     "valor_mercado": -0.016,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.655
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "To Win Either Half",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Cordoba gana alguna de las dos partes",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Cordoba 8/10 · Oviedo 7/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.685
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Cordoba 8/10 · Oviedo 8/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "total_igualado_medio",
+     "prob_aprendida": 0.619
     },
     {
      "partido_id": 1575224,
@@ -1706,18 +1646,20 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Liverpool",
-     "cuota": 1.83,
+     "cuota": 1.7,
      "frecuencia": 0.65,
-     "ventaja": 0.104,
+     "ventaja": 0.062,
      "detalle": "Liverpool 6/10 · Manchester United 7/10",
-     "valor_mercado": 0.011,
+     "valor_mercado": -0.017,
+     "movimiento": -0.071,
+     "cuota_inicial": 1.83,
      "posiciones": [
       4,
       18,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.676
+     "prob_aprendida": 0.677
     },
     {
      "partido_id": 1550199,
@@ -1730,18 +1672,44 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Bologna",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "frecuencia": 0.65,
-     "ventaja": 0.072,
+     "ventaja": 0.051,
      "detalle": "Bologna 5/10 · Udinese 8/10",
-     "valor_mercado": -0.017,
+     "valor_mercado": -0.035,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
      "posiciones": [
       8,
       20,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.665
+     "prob_aprendida": 0.698
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Cordoba",
+     "cuota": 1.9,
+     "frecuencia": 0.6,
+     "ventaja": 0.074,
+     "detalle": "Cordoba 6/10 · Oviedo 6/10",
+     "valor_mercado": -0.016,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1575224,
@@ -1834,18 +1802,20 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Liverpool",
-       "cuota": 1.83,
+       "cuota": 1.7,
        "frecuencia": 0.65,
-       "ventaja": 0.104,
+       "ventaja": 0.062,
        "detalle": "Liverpool 6/10 · Manchester United 7/10",
-       "valor_mercado": 0.011,
+       "valor_mercado": -0.017,
+       "movimiento": -0.071,
+       "cuota_inicial": 1.83,
        "posiciones": [
         4,
         18,
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.676
+       "prob_aprendida": 0.677
       },
       {
        "partido_id": 1550199,
@@ -1858,18 +1828,44 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Bologna",
-       "cuota": 1.73,
+       "cuota": 1.67,
        "frecuencia": 0.65,
-       "ventaja": 0.072,
+       "ventaja": 0.051,
        "detalle": "Bologna 5/10 · Udinese 8/10",
-       "valor_mercado": -0.017,
+       "valor_mercado": -0.035,
+       "movimiento": -0.035,
+       "cuota_inicial": 1.73,
        "posiciones": [
         8,
         20,
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.665
+       "prob_aprendida": 0.698
+      },
+      {
+       "partido_id": 1570030,
+       "fecha": "2026-11-22T14:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Cordoba",
+       "visitante": "Oviedo",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Cordoba",
+       "cuota": 1.9,
+       "frecuencia": 0.6,
+       "ventaja": 0.074,
+       "detalle": "Cordoba 6/10 · Oviedo 6/10",
+       "valor_mercado": -0.016,
+       "posiciones": [
+        10,
+        9,
+        22
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.655
       },
       {
        "partido_id": 1575224,
@@ -1920,33 +1916,9 @@
        ],
        "contexto": "total_lejos_abajo",
        "prob_aprendida": 0.61
-      },
-      {
-       "partido_id": 1575227,
-       "fecha": "2026-11-22T17:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Werder Bremen",
-       "visitante": "Hamburger SV",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV",
-       "cuota": 1.73,
-       "frecuencia": 0.75,
-       "ventaja": 0.172,
-       "detalle": "Werder Bremen 8/10 · Hamburger SV 7/10",
-       "valor_mercado": -0.017,
-       "posiciones": [
-        6,
-        11,
-        18
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.612
       }
      ],
-     "cuota": 14.82
+     "cuota": 14.59
     },
     "doble": null
    },
@@ -1990,11 +1962,13 @@
        "opcion": "Over 1.5",
        "tipo": "goles",
        "texto": "Bologna marca 2 o más",
-       "cuota": 1.83,
+       "cuota": 1.8,
        "frecuencia": 0.65,
-       "ventaja": 0.104,
+       "ventaja": 0.094,
        "detalle": "Bologna 6/10 · Udinese (en contra) 7/10",
-       "valor_mercado": -0.011,
+       "valor_mercado": -0.016,
+       "movimiento": -0.016,
+       "cuota_inicial": 1.83,
        "prob_xg": 0.603,
        "xg_esperado": 3.39,
        "posiciones": [
@@ -2030,7 +2004,7 @@
        "prob_aprendida": 0.462
       }
      ],
-     "cuota": 7.97
+     "cuota": 7.84
     }
    },
    "combis_partido": []

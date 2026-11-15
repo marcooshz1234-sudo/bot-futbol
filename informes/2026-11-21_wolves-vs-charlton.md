@@ -1,7 +1,7 @@
 # Wolves – Charlton
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -181,7 +181,7 @@ _Sin bajas comunicadas por ahora._
 | H. Knibbs | M | 8 | 350 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 10 | 3 | 0,4 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 0,59 · córners esperados 9,8._
+_Goles esperados: local 1,91 · visitante 0,59 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

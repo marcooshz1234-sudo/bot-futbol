@@ -1,35 +1,4 @@
 {
- "1570018": {
-  "local": {
-   "nombre": "Granada CF",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null,
-   "puesto": 5,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Las Palmas",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 11,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.0,
-   "temperatura": 15.9
-  },
-  "cuotas": {
-   "Home": [
-    1.67,
-    1.95
-   ]
-  }
- },
  "1570014": {
   "local": {
    "nombre": "Albacete",
@@ -51,33 +20,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.4,
-   "temperatura": 13.4
-  }
- },
- "1576535": {
-  "local": {
-   "nombre": "Penafiel",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 14,
-   "siguiente_europa": null,
-   "puesto": 1,
-   "de": 18
-  },
-  "visitante": {
-   "nombre": "Lusitânia Lourosa",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 4,
-   "de": 18
-  },
-  "tiempo": {
-   "lluvia_mm": 2.4,
-   "viento_kmh": 16.1,
-   "temperatura": 15.2
+   "viento_kmh": 2.5,
+   "temperatura": 13.2
   }
  },
  "1545617": {
@@ -97,8 +41,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 18.0,
-   "temperatura": -3.0
+   "viento_kmh": 20.5,
+   "temperatura": -2.8
   }
  },
  "1528991": {
@@ -118,33 +62,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.0,
-   "temperatura": 17.2
-  }
- },
- "1570023": {
-  "local": {
-   "nombre": "Tenerife",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 14,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "AD Ceuta FC",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 22,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 23.5
+   "viento_kmh": 5.9,
+   "temperatura": 17.1
   }
  },
  "1528984": {
@@ -164,8 +83,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.0,
-   "temperatura": 12.0
+   "viento_kmh": 7.6,
+   "temperatura": 12.3
   },
   "arbitro": {
    "nombre": "Clement Turpin",
@@ -200,66 +119,6 @@
    "tarjetas": 3.8
   }
  },
- "1576536": {
-  "local": {
-   "nombre": "Portimonense",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 10,
-   "de": 18
-  },
-  "visitante": {
-   "nombre": "Academica",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 6,
-   "de": 18
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 10.0,
-   "temperatura": 19.6
-  }
- },
- "1573647": {
-  "local": {
-   "nombre": "Valencia W",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 16,
-   "de": 16
-  },
-  "visitante": {
-   "nombre": "Granada",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 12,
-   "de": 16
-  },
-  "arbitro": {
-   "nombre": "P. Cebollada",
-   "partidos": 6,
-   "tarjetas": 0.0
-  },
-  "cuotas": {
-   "Home": [
-    2.8,
-    2.5
-   ],
-   "Away": [
-    2.25,
-    2.5
-   ]
-  }
- },
  "1528989": {
   "local": {
    "nombre": "Lithuania",
@@ -277,8 +136,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 18.7,
-   "temperatura": 2.9
+   "viento_kmh": 17.6,
+   "temperatura": 3.2
   },
   "arbitro": {
    "nombre": "Allard Lindhout",
@@ -303,7 +162,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 0.7,
+   "viento_kmh": 4.3,
    "temperatura": 7.3
   }
  },
@@ -323,9 +182,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.3,
-   "viento_kmh": 17.6,
-   "temperatura": 10.9
+   "lluvia_mm": 0.0,
+   "viento_kmh": 20.5,
+   "temperatura": 11.2
   },
   "arbitro": {
    "nombre": "Espen Eskas",
@@ -350,54 +209,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.3,
-   "temperatura": 13.3
-  }
- },
- "1545616": {
-  "local": {
-   "nombre": "Latvia",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Armenia",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 20.2,
-   "temperatura": 6.0
-  }
- },
- "1570016": {
-  "local": {
-   "nombre": "Eibar",
-   "dias_desde": 4,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 7,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Cadiz",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null,
-   "puesto": 20,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 1.0,
-   "viento_kmh": 4.8,
-   "temperatura": 14.6
+   "viento_kmh": 14.2,
+   "temperatura": 13.7
   }
  },
  "1545652": {
@@ -444,8 +257,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.7,
-   "temperatura": 2.7
+   "viento_kmh": 12.6,
+   "temperatura": 2.6
   }
  },
  "1528986": {
@@ -486,59 +299,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 0.4,
-   "temperatura": 16.9
-  }
- },
- "1608365": {
-  "local": {
-   "nombre": "Juventus U23",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Treviso",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 2.9,
-   "temperatura": 8.9
-  }
- },
- "1573646": {
-  "local": {
-   "nombre": "Sevilla W",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 14,
-   "de": 16
-  },
-  "visitante": {
-   "nombre": "Atletico Madrid W",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 3,
-   "de": 16
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.5,
-   "temperatura": 19.5
-  },
-  "arbitro": {
-   "nombre": "B. Cuesta",
-   "partidos": 7,
-   "tarjetas": 0.0
+   "viento_kmh": 1.9,
+   "temperatura": 16.5
   }
  },
  "1528988": {
@@ -558,153 +320,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 22.3,
-   "temperatura": 3.5
-  }
- },
- "1570017": {
-  "local": {
-   "nombre": "Eldense",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 16,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Sabadell",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 13,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 6.6,
-   "temperatura": 21.1
-  },
-  "cuotas": {
-   "Draw": [
-    3.2,
-    2.9
-   ]
-  }
- },
- "1528981": {
-  "local": {
-   "nombre": "Finland",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "San Marino",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 47.9,
-   "temperatura": 8.2
-  }
- },
- "1608369": {
-  "local": {
-   "nombre": "Pergolettese",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "PRO Vercelli",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.2,
-   "temperatura": 8.7
-  }
- },
- "1573641": {
-  "local": {
-   "nombre": "Deportivo de La Coruña W",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null,
-   "puesto": 11,
-   "de": 16
-  },
-  "visitante": {
-   "nombre": "Barcelona W",
-   "dias_desde": 2,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 4,
-   "siguiente_europa": "Champions femenina",
-   "puesto": 1,
-   "de": 16
-  },
-  "arbitro": {
-   "nombre": "E. Calvo",
-   "partidos": 5,
-   "tarjetas": 0.0
-  }
- },
- "1528980": {
-  "local": {
-   "nombre": "Belarus",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Albania",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.6,
-   "viento_kmh": 8.3,
-   "temperatura": 6.1
-  }
- },
- "1528979": {
-  "local": {
-   "nombre": "Cyprus",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Montenegro",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 10.5,
-   "temperatura": 23.1
-  },
-  "arbitro": {
-   "nombre": "Sander van der Eijk",
-   "partidos": 10,
-   "tarjetas": 4.6
+   "viento_kmh": 19.4,
+   "temperatura": 3.8
   }
  },
  "1528990": {
@@ -723,55 +340,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.3,
-   "viento_kmh": 19.4,
-   "temperatura": 8.2
-  }
- },
- "1576534": {
-  "local": {
-   "nombre": "Leixoes",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 12,
-   "siguiente_europa": null,
-   "puesto": 12,
-   "de": 18
-  },
-  "visitante": {
-   "nombre": "Chaves",
-   "dias_desde": 8,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null,
-   "puesto": 15,
-   "de": 18
-  },
-  "tiempo": {
-   "lluvia_mm": 1.0,
-   "viento_kmh": 9.4,
-   "temperatura": 16.3
-  }
- },
- "1608364": {
-  "local": {
-   "nombre": "Cittadella",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 5,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Folgore Caratese",
-   "dias_desde": 7,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null
-  },
-  "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.4,
-   "temperatura": 9.2
+   "viento_kmh": 17.6,
+   "temperatura": 8.6
   }
  }
 }

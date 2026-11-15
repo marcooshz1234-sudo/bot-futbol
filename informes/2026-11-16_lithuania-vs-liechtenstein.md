@@ -1,7 +1,7 @@
 # Lithuania – Liechtenstein
 **Nations League** · League D - 6 · 16/11/2026 18:00 (hora España) · Darius and Girėnas Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 13:58_

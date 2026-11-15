@@ -1,7 +1,7 @@
 # Arges Pitesti – FCSB
 **Liga I** · Regular Season - 16 · 22/11/2026 19:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Ronny Labonne | D | 6 | 307 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,30 · córners esperados 9,8._
+_Goles esperados: local 1,15 · visitante 1,29 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

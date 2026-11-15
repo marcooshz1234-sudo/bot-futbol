@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15 14:00",
+ "generado": "2026-11-15 19:53",
  "estilos": {
   "datos-rachas": {
    "nota": 0.926,
@@ -38,9 +38,9 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.26,
+   "nota": 2.211,
    "posts_threads": 18,
-   "resultados": 5,
+   "resultados": 4,
    "verdes": 1
   },
   "combi-liga": {
@@ -127,34 +127,16 @@
    "resultados": 0,
    "verdes": 0
   },
-  "picks-manana": {
-   "nota": 1.906,
-   "posts_threads": 0,
-   "resultados": 5,
-   "verdes": 1
-  },
-  "combi-partido-1557450": {
-   "nota": 0.875,
-   "posts_threads": 0,
-   "resultados": 1,
-   "verdes": 0
-  },
-  "combi-partido-1570439": {
-   "nota": 0.875,
-   "posts_threads": 0,
-   "resultados": 1,
-   "verdes": 0
-  },
   "combi-500": {
-   "nota": 1.116,
+   "nota": 1.191,
    "posts_threads": 1,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1575204": {
-   "nota": 0.802,
+   "nota": 0.927,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557454": {
@@ -164,9 +146,9 @@
    "verdes": 0
   },
   "combi-loca": {
-   "nota": 0.648,
+   "nota": 0.698,
    "posts_threads": 9,
-   "resultados": 3,
+   "resultados": 2,
    "verdes": 0
   },
   "combi-partido-1550186": {
@@ -198,6 +180,12 @@
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
+  },
+  "picks-manana": {
+   "nota": 1.857,
+   "posts_threads": 0,
+   "resultados": 4,
+   "verdes": 1
   },
   "combi-partido-1550183": {
    "nota": 0.944,

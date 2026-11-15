@@ -1,7 +1,7 @@
 # Norwich – Cardiff
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 31% | 24% | 27% | 3.90 | +6% |
 | 1X2: X | 20% | 23% | 21% | 4.10 | -13% |
 | 1X2: 1 | 49% | 54% | 51% | 1.73 | -11% |
-| Doble oportunidad: X2 | 51% | 46% | 49% | 2.05 | -0% |
+| Doble oportunidad: X2 | 51% | 46% | 49% | 2.05 | -1% |
 | Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
 | Doble oportunidad: 1X | 69% | 76% | 73% | 1.25 | -9% |
 | Ambos marcan: No | 25% | 31% | 28% | 3.00 | -15% |

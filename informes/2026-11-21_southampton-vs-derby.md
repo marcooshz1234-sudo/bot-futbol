@@ -1,7 +1,7 @@
 # Southampton – Derby
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -198,10 +198,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 49% | 49% | 49% | 1.91 | -7% |
 | Ambos marcan: Sí | 51% | 51% | 51% | 1.80 | -8% |
 | Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -6% |
+| Goles más/menos: Más de 3.5 | 39% | 40% | 40% | 2.38 | -6% |
 | Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
 | Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -5% |
+| Goles más/menos: Menos de 3.5 | 61% | 60% | 60% | 1.57 | -5% |
 | Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
@@ -209,12 +209,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
 | Goles del local: Más de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Goles del local: Más de 2.5 | 42% | 41% | 42% | 2.25 | -6% |
-| Goles del local: Más de 3.5 | 21% | 22% | 22% | 4.33 | -6% |
+| Goles del local: Más de 3.5 | 21% | 22% | 22% | 4.33 | -7% |
 | Goles del local: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
 | Goles del local: Menos de 2.5 | 58% | 59% | 58% | 1.57 | -8% |
 | Goles del local: Menos de 3.5 | 79% | 78% | 78% | 1.20 | -6% |
 | Goles del visitante: Más de 0.5 | 56% | 58% | 57% | 1.62 | -8% |
-| Goles del visitante: Más de 1.5 | 20% | 23% | 22% | 4.00 | -13% |
+| Goles del visitante: Más de 1.5 | 20% | 23% | 22% | 4.00 | -14% |
 | Goles del visitante: Menos de 0.5 | 44% | 42% | 43% | 2.20 | -5% |
 | Goles del visitante: Menos de 1.5 | 80% | 77% | 78% | 1.22 | -4% |
 | 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -8% |
