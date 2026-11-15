@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 22:24",
+ "actualizado": "2026-11-15 22:35",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 409,
-   "hoy": 5,
+   "seguidores": 408,
+   "hoy": 4,
    "serie": [
     360,
     378,
@@ -50,17 +50,17 @@
     391,
     401,
     404,
-    409
+    408
    ]
   }
  },
- "total": 3242,
- "total_hoy": 21,
+ "total": 3241,
+ "total_hoy": 20,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
-  "dia": "2026-11-16",
-  "titulo": "Nations league - ganadores"
+  "hora": "22:45",
+  "dia": "2026-11-15",
+  "titulo": "Para dentro señores"
  },
  "ayer": {
   "aciertos": 1,
@@ -212,7 +212,7 @@
    "instagram": 41,
    "threads": 2791,
    "facebook": 1,
-   "telegram": 409
+   "telegram": 408
   }
  },
  "tipos_instagram": {

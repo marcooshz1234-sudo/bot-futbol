@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-15",
  "vistos": {
-  "foto-2026-11-12-verde-auto-2026-11-12-pick-tip-3": "2026-11-12T22:34",
   "foto-2026-11-12-verde-auto-2026-11-12-pick-seguro-2": "2026-11-12T23:06",
   "bucle-imagenes_cola-2026111223": "2026-11-12T23:42",
   "prensa-1545615-1eabbd57": "2026-11-13T00:03",
@@ -45,11 +44,21 @@
   "estrella-2026-11-15-combi-partido-1528984-LamineYamal": "2026-11-15T11:31",
   "prensa-1528984-7723f33d": "2026-11-15T11:31",
   "prensa-1528984-8a8aa241": "2026-11-15T11:31",
-  "prensa-1528982-KylianMbappé": "2026-11-15T11:31"
+  "prensa-1528982-KylianMbappé": "2026-11-15T11:31",
+  "foto-2026-11-15-verde-auto-2026-11-15-pick-tip-1": "2026-11-15T22:35"
  },
- "abiertos": [],
- "revisado": "2026-11-15T22:25",
+ "abiertos": [
+  {
+   "clave": "foto-2026-11-15-verde-auto-2026-11-15-pick-tip-1",
+   "t": "🖼️ Sale a las 22:45 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  }
+ ],
+ "revisado": "2026-11-15T22:35",
  "historial": [
+  {
+   "hora": "2026-11-15T22:35",
+   "t": "🖼️ Sale a las 22:45 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "hora": "2026-11-15T11:31",
    "t": "⭐ España–Inglaterra: «Los que no jugarán ante Inglaterra con la vuelta de Yamal y Oyarzabal» (Flashscore.es). «Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿» (20:10) va a favor de ese equipo: te propongo quitarlo"
@@ -285,10 +294,6 @@
   {
    "hora": "2026-11-12T09:08",
    "t": "🔁 12/11: el mismo pronóstico en 3 posts (pick-th-1, combi-tres, combi-multi)"
-  },
-  {
-   "hora": "2026-11-12T07:54",
-   "t": "📰 Italia–Francia: «Tchouaméni abandona la concentración de Francia y regresará a Madrid» (Tribuna.com) · tenemos 3 post(s) de este partido: combi-partido-1528960-th, combi-nations-th-2, combi-loca"
   }
  ]
 }
