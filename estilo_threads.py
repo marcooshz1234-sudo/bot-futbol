@@ -73,6 +73,12 @@ def estilo(texto, pid=""):
         if BANDERA.match(s) and not s.startswith("✅"):
             out.append("✅ " + s)
             continue
+        if s and s[0].isalnum() and i > 0:   # 15/11 (Marcos: «que salgan más emojis»): ninguna línea sin emoji
+            out.append(("👉 " if not s.startswith(("Si ", "Con ")) else "🔥 ") + s)
+            continue
+        if s.startswith("👨‍💻 ") and not s.endswith(("🔥", "📊", "💪", "👀")):
+            out.append(s + " " + elegir(["🔥", "📊", "💪", "👀"], s))
+            continue
         if s.startswith("🧠 Stake"):
             out.append(s.replace("🧠 Stake", "🧠 STAKE"))
             continue

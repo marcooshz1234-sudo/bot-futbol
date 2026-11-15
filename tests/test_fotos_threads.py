@@ -14,10 +14,12 @@ class FotosThreads(unittest.TestCase):
         self.assertEqual(self.foto("2026-11-12-pick-seguro"), "2026-11-12-pick-seguro.jpg")
         self.assertEqual(self.foto("2026-11-12-ganadores-nations"), "2026-11-12-ganadores-nations.tarjeta.jpg")
 
-    def test_sin_foto(self):
-        for pid in ("2026-11-12-pick-seguro-2", "2026-11-12-pick-tip-3", "2026-11-12-pick-th-1",
-                    "2026-11-12-combi-partido-1528958-th", "2026-11-12-combi-tres", "2026-11-12-combi-loca"):
-            self.assertIsNone(self.foto(pid, tarjeta={"local": "A"}), pid)
+    def test_con_foto_salvo_muchas_cosas(self):   # 15/11 (Marcos: «solo a texto cuando son muchas cosas»)
+        self.assertEqual(self.foto("2026-11-12-combi-partido-1", tarjeta={"local": "A"}, texto="🍀 a\n🍀 b"),
+                         "2026-11-12-combi-partido-1.tarjeta.jpg")
+        self.assertEqual(self.foto("2026-11-12-pick-tip-3", texto="🍀 Gana A @1,5"), "2026-11-12-pick-tip-3.jpg")
+        largo = "\n".join(f"🍀 pata {i}" for i in range(5))
+        self.assertIsNone(self.foto("2026-11-12-combi-loca", texto=largo))
 
 
 if __name__ == "__main__":
@@ -29,4 +31,4 @@ class BoletoConFoto(unittest.TestCase):
         import redes
         u = redes.foto_threads({"id": "2026-11-14-boleto-personal", "foto": "publicaciones/media/2026-11-14-boleto-personal.tarjeta.jpg"})
         self.assertIn("2026-11-14-boleto-personal.tarjeta.jpg", u or "")
-        self.assertIsNone(redes.foto_threads({"id": "2026-11-14-pick-tip-1"}))
+        self.assertIsNone(redes.foto_threads({"id": "2026-11-14-pick-tip-1", "texto": "\n".join(["🍀 x"] * 5)}))

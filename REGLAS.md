@@ -150,3 +150,4 @@
 - 15/11 (Marcos): si en una pasada llegan 2-3 picks nuevos de canales (partidos distintos, sin chocar, @1,35 o más), salen JUNTOS en una combi en vez de sueltos. Un pick que ya salió suelto NUNCA se mete en una combi.
 - 15/11 (Marcos): pedir compartir el canal solo muy de vez en cuando: en el post de varios verdes, como mucho 1 vez cada 4 días.
 - 15/11 (Marcos): «INFORMACIÓN TOP» (info_top.py): solo con una crisis real (virus, plaga de bajas, impagos, once alternativo) contada por 2+ medios con el equipo en el titular; pick a favor del rival; con escudos; NUNCA sale sola: se manda a Marcos con las fuentes y sale con «✅ Publicar». Máx. 1 cada 3 días.
+- 15/11 (Marcos): Threads con foto en casi todo (escudos si es de un partido, si no la de Instagram); solo texto cuando el post tiene más de 4 cosas (patas/picks/filas). Más emojis en el texto de Threads: ninguna línea sin emoji.

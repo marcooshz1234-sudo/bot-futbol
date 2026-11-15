@@ -120,7 +120,22 @@ def foto_threads(p):
         return url_media(p, p["foto"].rsplit(p["id"] + ".", 1)[-1])
     if "-boleto-" in p["id"] and p.get("foto"):   # 14/11 (Marcos): el boleto sin su captura no se entiende (el texto no lleva las patas)
         return url_media(p, "tarjeta.jpg")
-    return None
+    # 15/11 (Marcos: «solo a texto cuando son muchas cosas»): lo demás también con foto, salvo las listas largas
+    if muchas_cosas(p.get("texto_threads") or p.get("texto") or ""):
+        return None
+    if p.get("tarjeta"):   # combis de un partido: la de los dos escudos
+        return url_media(p, "tarjeta.jpg") or url_media(p, "jpg")
+    if isinstance(p.get("foto"), str) and p["foto"].startswith("publicaciones/media/"):
+        return url_media(p, p["foto"].rsplit(p["id"] + ".", 1)[-1])
+    return url_media(p, "jpg")   # la de Instagram
+
+
+ITEM = re.compile(r"^\s*(?:🍀|✅|❌|⏳|\d+[.)]|[\U0001F1E6-\U0001F1FF]{2}|🏴)", re.M)
+
+
+def muchas_cosas(texto, maximo=4):
+    """Más de 4 patas/picks/filas en el post → en Threads va solo el texto (la foto no se lee)."""
+    return len(ITEM.findall(texto)) > maximo
 
 
 def threads(p, token):
@@ -144,7 +159,7 @@ def threads(p, token):
     # 12/11 (Marcos: «no pongas tanta foto en Threads» → «pick del día y ganadores»): en Threads solo llevan foto
     # el pick del día (el de las 10:30) y los GANADORES; lo demás (picks, copias, combis de partido…), solo texto
     foto = foto_threads(p)
-    if p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo)-auto-", p["id"]):
+    if (p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo)-auto-", p["id"])) and not p.get("foto_en_threads"):
         foto = None   # 10/11 (Marcos): los verdes y rojos en Threads, solo el texto
     if foto:
         datos = {"media_type": "IMAGE", "image_url": foto, "text": t, "access_token": token}
