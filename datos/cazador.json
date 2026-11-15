@@ -41,18 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 1.9
-  },
-  {
-   "local": "Granada CF",
-   "visitante": "Las Palmas",
-   "inicio": "2026-11-15T16:15",
-   "texto": "Las Palmas o empate",
-   "cuota": 1.95,
-   "justa": 1.89,
-   "ev": 0.033,
-   "fuente": "las otras casas",
-   "edad_h": 1.9
+   "edad_h": 2.2
   },
   {
    "local": "Granada CF",
@@ -60,10 +49,10 @@
    "inicio": "2026-11-15T16:15",
    "texto": "Las Palmas marca",
    "cuota": 1.5,
-   "justa": 1.48,
-   "ev": 0.014,
-   "fuente": "las otras casas",
-   "edad_h": 1.9
+   "justa": 1.49,
+   "ev": 0.006,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Juventus U23",
@@ -74,7 +63,7 @@
    "justa": 1.42,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 1.9
+   "edad_h": 2.2
   },
   {
    "local": "Finland",
@@ -85,7 +74,7 @@
    "justa": 1.86,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 1.9
+   "edad_h": 2.2
   },
   {
    "local": "Real Sociedad W",
@@ -96,7 +85,7 @@
    "justa": 2.23,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Amarante",
@@ -107,7 +96,7 @@
    "justa": 1.42,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Juventus U23",
@@ -118,11 +107,11 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 1.9
+   "edad_h": 2.2
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T04:06",
+  "hora": "2026-11-15T04:27",
   "revisadas": 0,
   "mejor": null
  },
