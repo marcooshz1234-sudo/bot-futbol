@@ -90,7 +90,9 @@ def picks_dia(posts, dia):
     for p in posts:
         t = p['titulo'].lstrip()
         if (p['fecha'][:10] != dia or 'verde-auto' in p['id'] or (t.startswith('✅') and 'VERDE' in t.upper())
-                or 'picks-manana' in p['id'] or 'PARA MAÑANA' in t.upper() or 'BALANCE' in t.upper()):
+                or 'picks-manana' in p['id'] or 'PARA MAÑANA' in t.upper() or 'BALANCE' in t.upper()
+                # 15/11 (Marcos): el «Quién gana» (ganadores) no cuenta en el total, ni pick a pick
+                or 'ganadores' in p['id'] or 'QUIÉN GANA' in t.upper() or 'GANADORES' in t.upper()):
             continue
         for x in p.get('picks', []):
             if x.get('exacto') or not x.get('partido_id'):
@@ -172,7 +174,7 @@ def textos_picks(picks, dia, posts=(), cola=()):
     if mejores:
         lineas.append("🔥 Lo mejor: " + " · ".join(f"{k} {tipos[k][0]}/{tipos[k][1]}" for k in mejores))
     if 'ganadores' in tipos and tipos['ganadores'][1] >= 3:
-        lineas.append(f"⚽ Ganadores: {tipos['ganadores'][0]}/{tipos['ganadores'][1]}")
+        lineas.append(f"⚽ Victorias: {tipos['ganadores'][0]}/{tipos['ganadores'][1]}")   # 15/11: los «gana X» nuestros
     verdes = sorted((x for x in rp if x[2] == 'verde'), key=lambda x: -(x[3] or 0))
     if verdes:
         lineas += ['', '💚 Para dentro:']

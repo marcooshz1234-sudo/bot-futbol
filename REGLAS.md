@@ -139,3 +139,5 @@
 - 👤 Todo cambio, a la bitácora (`informes/bitacora/AAAA-MM.md`).
 
 - 🎯 **Combinada personal de Marcos, una cada día** (14/11, anunciado en el canal). A las 10:00 el bot le propone «Crear apuesta» por Telegram; él la monta en bet365 y manda la captura: sale como «MI COMBINADA PERSONAL DE HOY», sin dinero en la foto ni su nombre. Fuera de las reglas de nuestras combis (1,80, mercados, repetidos).
+
+- 📊 **Resumen de la noche: el «Quién gana» no cuenta** (15/11, Marcos). Solo los picks y combis que subimos; las filas de ganadores ni se suman.
