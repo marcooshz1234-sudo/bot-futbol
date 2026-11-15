@@ -41,7 +41,7 @@
    "justa": 2.16,
    "ev": 0.02,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Belarus",
@@ -52,7 +52,7 @@
    "justa": 2.19,
    "ev": 0.004,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Juventus U23",
@@ -63,11 +63,11 @@
    "justa": 1.81,
    "ev": -0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T15:26",
+  "hora": "2026-11-15T15:47",
   "revisadas": 0,
   "mejor": null
  },
