@@ -2501,7 +2501,10 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.6,
    "prob_cuota": 0.625
-  }
+  },
+  "por_que": [
+   "España–Inglaterra, dos ataques top (Inglaterra 16 goles en 5), pero los partidos grandes de selecciones a veces se cierran. Iba bien con 0-2."
+  ]
  },
  {
   "tipster": "TipsPro🤙",
@@ -2521,7 +2524,10 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.57,
    "prob_cuota": 0.637
-  }
+  },
+  "por_que": [
+   "Italia marcó en todos sus partidos fuera y en 4 de sus últimos 5 marcaron los dos; Bélgica necesitaba ganar. Entró pronto (3-1)."
+  ]
  },
  {
   "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
@@ -2541,7 +2547,10 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.17,
    "prob_cuota": 0.826
-  }
+  },
+  "por_que": [
+   "Francia en casa ante una Turquía que perdió sus 5 partidos de la Nations. Cuota 1,21: no vale suelta (mínimo 1,35)."
+  ]
  },
  {
   "tipster": "AllSportsPicks ⚽🏀🎾",
@@ -2563,7 +2572,15 @@
    "prob_cuota": 0.654,
    "prob_pinnacle": 0.591,
    "valor_pinnacle": -0.096
-  }
+  },
+  "por_que": [
+   "Eibar en casa en Segunda; día bueno de Nations, así que no entra en lo nuestro. Solo apuntado."
+  ],
+  "estado": "rojo",
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "ENZO TIPSTER🇦🇷",
@@ -2583,6 +2600,191 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 2.0,
    "prob_cuota": 0.524
+  },
+  "por_que": [
+   "España en casa (44 partidos de competición sin perder), pero la cuota de 1,91 ya decía partido igualado e Inglaterra necesitaba ganar."
+  ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100462",
+  "dia": "2026-11-15",
+  "local": "Belgium",
+  "visitante": "Italy",
+  "partido_id": 1528983,
+  "texto": "Ambos marcan en Bélgica–Italia",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Pronóstico gratuito, Nations 20:45"
+  ],
+  "por_que": [
+   "Italia marcó en todos sus partidos fuera y Bélgica necesitaba ganar: partido abierto. El mismo pick que TipsPro (lo copiamos de ahí @1,57)."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.57,
+   "prob_cuota": 0.667
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100466",
+  "dia": "2026-11-15",
+  "local": "France",
+  "visitante": "Türkiye",
+  "partido_id": 1528982,
+  "texto": "Más de 8,5 córners en Francia–Turquía",
+  "mercado": "Corners Over Under",
+  "opcion": "Over 8.5",
+  "cuota": 1.53,
+  "stake": 3,
+  "argumento": [
+   "Pronóstico gratuito, Nations 20:45"
+  ],
+  "por_que": [
+   "Francia en casa saca 7,5 córners por partido y en sus partidos en casa hay 10,5 de media; Turquía encerrada. Copiado a las 19:27 @1,53."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.654
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11043",
+  "combinada": "-1002685171001/11043",
+  "dia": "2026-11-15",
+  "local": "Belgium",
+  "visitante": "Italy",
+  "partido_id": 1528983,
+  "texto": "Ambos marcan en Bélgica–Italia",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "cuota": 1.8,
+  "argumento": [
+   "Crear apuesta @1,80 (foto)"
+  ],
+  "por_que": [
+   "Pata de Crear apuesta con ambos reciben tarjeta. Ambos marcan, buen escenario (Italia marca siempre fuera). No copiado: lleva tarjetas y llegó a las 20:00."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.57,
+   "prob_cuota": 0.556
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11043",
+  "combinada": "-1002685171001/11043",
+  "dia": "2026-11-15",
+  "local": "Belgium",
+  "visitante": "Italy",
+  "partido_id": 1528983,
+  "texto": "Ambos reciben tarjeta en Bélgica–Italia",
+  "mercado": "Both Teams Cards",
+  "opcion": "Yes",
+  "cuota": 1.8,
+  "argumento": [
+   "Crear apuesta @1,80 (foto)"
+  ],
+  "por_que": [
+   "Partido con todo en juego entre dos rivales directos: tarjetas para los dos probables."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.556
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11044",
+  "combinada": "-1002685171001/11044",
+  "dia": "2026-11-15",
+  "local": "Spain",
+  "visitante": "England",
+  "partido_id": 1528984,
+  "texto": "Inglaterra más de 1,5 tarjetas",
+  "mercado": "Cards Over Under - Away",
+  "opcion": "Over 1.5",
+  "cuota": 2.3,
+  "argumento": [
+   "Crear apuesta @2,30 (foto)"
+  ],
+  "por_que": [
+   "Inglaterra fuera ante la posesión de España: le toca defender y hacer faltas."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.435
+  }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11044",
+  "combinada": "-1002685171001/11044",
+  "dia": "2026-11-15",
+  "local": "Spain",
+  "visitante": "England",
+  "partido_id": 1528984,
+  "texto": "Ambos marcan en España–Inglaterra",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "cuota": 2.3,
+  "argumento": [
+   "Crear apuesta @2,30 (foto)"
+  ],
+  "por_que": [
+   "Dos ataques top (Kane, Saka, Lamine), pero en partidos grandes de selecciones a veces uno no marca."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.57,
+   "prob_cuota": 0.435
+  }
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47109",
+  "dia": "2026-11-15",
+  "local": "Spain",
+  "visitante": "England",
+  "partido_id": 1528984,
+  "texto": "Inglaterra más de 3,5 remates a puerta",
+  "mercado": "Shots On Target - Away",
+  "opcion": "Over 3.5",
+  "cuota": 1.9,
+  "stake": 3,
+  "argumento": [
+   "Inglaterra tiene jugadores para generar ocasiones (Kane, Saka); si necesita atacar, remata"
+  ],
+  "por_que": [
+   "Inglaterra hace 5,8 remates a puerta por partido (16 goles en 5). Lo copiamos a las 14:46 @1,80."
+  ],
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.526
+  }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37129",
+  "dia": "2026-11-15",
+  "local": "Arsenal W",
+  "visitante": "London City Lionesses W",
+  "texto": "London City o empate",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": 1.81,
+  "argumento": [
+   "Boleto premiado enseñado a las 18:25 (apostado 16:47)"
+  ],
+  "por_que": [
+   "Solo lo enseñaron ya ganado: no se pudo copiar a tiempo. Liga femenina inglesa."
+  ],
+  "estado": "verde"
  }
 ]
