@@ -2502,5 +2502,25 @@
    "cuota_bet365": 1.6,
    "prob_cuota": 0.625
   }
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10101",
+  "dia": "2026-11-15",
+  "local": "Belgium",
+  "visitante": "Italy",
+  "partido_id": 1528983,
+  "texto": "Ambos marcan en Bélgica–Italia",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.57,
+   "prob_cuota": 0.637
+  }
  }
 ]

@@ -115,6 +115,15 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.426
   },
+  "TipsPro🤙": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.54,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.649
+  },
   "AllSportsPicks": {
    "n": 1,
    "verdes": 0,
@@ -123,15 +132,6 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
-  },
-  "TipsPro🤙": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.54,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.649
   },
   "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
    "n": 1,
@@ -264,6 +264,15 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.443
   },
+  "Both Teams Score Yes": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.5,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.667
+  },
   "Asian Handicap Away -1.5": {
    "n": 2,
    "verdes": 2,
@@ -299,15 +308,6 @@
    "unidades": 0.75,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.571
-  },
-  "Both Teams Score Yes": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.5,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.667
   },
   "Corners Over Under Under 11": {
    "n": 1,
@@ -461,7 +461,7 @@
  },
  "equipo": {
   "—": {
-   "n": 56,
+   "n": 57,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -701,7 +701,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 59,
+   "n": 60,
    "verdes": 32,
    "rojos": 6,
    "nulos": 0,
@@ -793,7 +793,7 @@
    "prob_cuota": 16.249
   },
   "?": {
-   "n": 25,
+   "n": 26,
    "verdes": 13,
    "rojos": 2,
    "nulos": 0,
@@ -829,7 +829,7 @@
    "prob_cuota": 11.149
   },
   "UEFA Nations League": {
-   "n": 30,
+   "n": 31,
    "verdes": 21,
    "rojos": 6,
    "nulos": 0,
@@ -867,7 +867,7 @@
  },
  "lado": {
   "partido": {
-   "n": 44,
+   "n": 45,
    "verdes": 18,
    "rojos": 5,
    "nulos": 0,
@@ -905,7 +905,7 @@
    "prob_cuota": 21.662
   },
   "—": {
-   "n": 29,
+   "n": 30,
    "verdes": 9,
    "rojos": 8,
    "nulos": 0,
@@ -970,7 +970,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 95,
+   "n": 96,
    "verdes": 48,
    "rojos": 18,
    "nulos": 0,
