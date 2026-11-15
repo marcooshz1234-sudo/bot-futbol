@@ -6437,7 +6437,8 @@
     "redes": {
       "instagram_reel": null,
       "threads": "17991066173877308",
-      "instagram": "17878881000636744"
+      "instagram": "17878881000636744",
+      "threads_enlace": "17913534618580553"
     }
   },
   {
@@ -6450,7 +6451,15 @@
     "facebook": "texto",
     "cuotas": [
       1.66
-    ]
+    ],
+    "foto_tg": "publicaciones/media/2026-11-15-pick-tip-1144.tg.jpg",
+    "enviado": "2026-11-15T11:44",
+    "mensaje_id": 478,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "18082032389727066",
+      "instagram": "17875835103640466"
+    }
   },
   {
     "id": "2026-11-15-combi-partido-1528984",
