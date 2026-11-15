@@ -1,6 +1,6 @@
 """
 15/11 (Marcos: «así quiero dos diferentes todos los días a partir de ahora, pero no en Telegram»).
-Dos combinadas largas al día (8–12 partidos) «de las mías»: quién gana, ambos marcan, ambos reciben tarjeta y tiro a
+Dos combis largas al día del canal (NO como «mi combinada»: Marcos 15/11 «pero no como mi combinada»): quién gana, ambos marcan, ambos reciben tarjeta y tiro a
 puerta. Solo Threads e Instagram. Se generan solas:
   · A a las 11:30 y B a las 12:30, con los partidos desde las 13:00 repartidos (uno para cada una: no comparten
     partido ni selección). 6–12 patas, hasta @120 más o menos
@@ -105,9 +105,9 @@ def texto_post(patas, segunda=False):
     redondo = f"{tot:,.0f}".replace(",", ".") if tot >= 100 else f"{tot:.2f}".replace(".", ",")
     gana = f"{tot * 10:,.0f}".replace(",", ".")
     aprox = " aprox." if any(x["aprox"] for x in patas) or tot >= 100 else ""
-    titulo = f"💣 MI SEGUNDA COMBINADA · {len(patas)} PARTIDOS 💣" if segunda else f"🔥 MI COMBINADA DE HOY · {len(patas)} PARTIDOS 🔥"
+    titulo = f"💣 SEGUNDA COMBI LARGA DEL DÍA · {len(patas)} PARTIDOS 💣" if segunda else f"🔥 COMBI LARGA DEL DÍA · {len(patas)} PARTIDOS 🔥"
     return (f"{titulo}\n\n" + "\n".join(filas) +
-            f"\n\n📈 Cuota @{redondo}{aprox}\n💶 10€ → {gana}€\n\nEsta la llevo yo, partido a partido 👇\n¿Quién se sube conmigo? 💚")
+            f"\n\n📈 Cuota @{redondo}{aprox}\n💶 10€ → {gana}€\n\n🍀 ¿La pintamos de verde? 👀💚")
 
 
 def texto_corto(patas, segunda=False):
@@ -116,9 +116,9 @@ def texto_corto(patas, segunda=False):
     for x in patas:
         tot *= x["cuota"]
     redondo = f"{tot:,.0f}".replace(",", ".") if tot >= 100 else f"{tot:.2f}".replace(".", ",")
-    titulo = f"💣 MI SEGUNDA COMBINADA · {len(patas)} PARTIDOS 💣" if segunda else f"🔥 MI COMBINADA DE HOY · {len(patas)} PARTIDOS 🔥"
+    titulo = f"💣 SEGUNDA COMBI LARGA DEL DÍA · {len(patas)} PARTIDOS 💣" if segunda else f"🔥 COMBI LARGA DEL DÍA · {len(patas)} PARTIDOS 🔥"
     return (f"{titulo}\n\n" + "\n".join(f"🍀 {x['texto']}" for x in patas) +
-            f"\n\n📈 Cuota @{redondo}{' aprox.' if any(x['aprox'] for x in patas) or tot >= 100 else ''}\n\n¿Quién se sube conmigo? 💚")
+            f"\n\n📈 Cuota @{redondo}{' aprox.' if any(x['aprox'] for x in patas) or tot >= 100 else ''}\n\n🍀 ¿La pintamos de verde? 👀💚")
 
 
 def main(ahora=None):
@@ -140,11 +140,11 @@ def main(ahora=None):
         if not patas:
             print(f"Combi personal {tanda}: no hay partidos suficientes")
             continue
-        pid = f"{hoy}-combi-personal-{tanda}"
+        pid = f"{hoy}-combi-larga-{tanda}"
         nuevos.append({"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto_post(patas, segunda=tanda == "b"),
                        "texto_threads": texto_corto(patas, segunda=tanda == "b"),
                        "foto": None, "origen": "bot", "directo": True, "solo_en": ["threads", "instagram"],
-                       "sel": [], "cuotas": [], "excepcion_cuota": "combinada personal diaria (Marcos 15/11)",
+                       "sel": [], "cuotas": [], "excepcion_cuota": "combi larga diaria (Marcos 15/11)",
                        "nota": "patas: " + " · ".join(x["sel"] for x in patas)})
         est["usadas"] += [x["sel"] for x in patas]
     if nuevos:

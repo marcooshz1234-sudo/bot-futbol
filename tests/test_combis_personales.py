@@ -18,7 +18,7 @@ class Personales(unittest.TestCase):
         self.assertTrue(a and b)
         ids = lambda pt: {x["sel"].split("|")[0] for x in pt}
         self.assertFalse(ids(a) & ids(b))
-        self.assertIn("SEGUNDA", C.texto_post(b, segunda=True))
+        self.assertIn("SEGUNDA", C.texto_post(b, segunda=True)); self.assertNotIn("MI ", C.texto_post(a))
 
     def test_pocos_partidos_no_sale(self):
         ps = [partido(i, "18:00") for i in range(5)]
