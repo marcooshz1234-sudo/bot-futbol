@@ -1998,8 +1998,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
-      "sin_datos": 0,
+      "pendiente": 4,
+      "sin_datos": 1,
       "no_jugo": 0,
       "sin_resolver": 5
     },
@@ -2025,7 +2025,7 @@
       {
         "id": "2026-11-15-pick-tip-madridcff-2",
         "titulo": "Vamos con otro pick, familia 👇",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2040,6 +2040,6 @@
       "rojo": 0,
       "total": 11
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Vamos con otro pick, familia 👇 · pendiente\n⏳ Vamos con la combi del domingo familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n❔ Vamos con otro pick, familia 👇 · faltan datos\n⏳ Vamos con la combi del domingo familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
   }
 }
