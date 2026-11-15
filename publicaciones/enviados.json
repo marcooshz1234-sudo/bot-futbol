@@ -737,5 +737,9 @@
   "2026-11-14-pick-seguro-2": {
     "enviado": "2026-11-14T18:00",
     "mensaje_id": 466
+  },
+  "2026-11-15-pick-seguro": {
+    "enviado": "2026-11-15T10:30",
+    "mensaje_id": 473
   }
 }
