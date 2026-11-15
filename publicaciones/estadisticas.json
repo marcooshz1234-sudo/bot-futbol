@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 23:12",
+ "actualizado": "2026-11-15 23:22",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -58,9 +58,9 @@
  "total_hoy": 22,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:15",
-  "dia": "2026-11-15",
-  "titulo": "Para dentro señores"
+  "hora": "00:00",
+  "dia": "2026-11-16",
+  "titulo": "Nations league - ganadores"
  },
  "ayer": {
   "aciertos": 1,
@@ -217,12 +217,12 @@
  },
  "tipos_instagram": {
   "Otros": {
-   "posts": 3,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 48,
+   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -237,7 +237,7 @@
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 3,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
