@@ -144,6 +144,10 @@ def main():
         for k in ("solo_en", "solo_redes"):   # 12/11: el verde va donde fue el post (uno solo de Threads → solo Threads)
             if (originales.get(p["id"]) or {}).get(k):
                 post[k] = originales[p["id"]][k]
+        # 15/11: las copias van partidas (Instagram en «…», Telegram y Threads en «…-e»): el verde, en todas las de la familia
+        if post.get("solo_en") == ["instagram"] and any(i.startswith(p["id"] + "-") for i in originales):
+            redes_ = {"instagram"} | {r for i, o in originales.items() if i.startswith(p["id"] + "-") for r in (o.get("solo_en") or [])}
+            post["solo_en"] = [r for r in ("telegram", "instagram") if r in redes_] or ["telegram", "instagram"]
         foto = (originales.get(p["id"]) or {}).get("imagen") or (originales.get(p["id"]) or {}).get("foto")
         if boleto and isinstance(foto, str) and (RAIZ / foto).exists():   # con la captura recortada
             import shutil
