@@ -41,7 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 5.5
+   "edad_h": 0.0
   },
   {
    "local": "Amarante",
@@ -52,18 +52,7 @@
    "justa": 1.41,
    "ev": -0.01,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Finland",
-   "visitante": "San Marino",
-   "inicio": "2026-11-15T18:00",
-   "texto": "Finland marca 4 o más",
-   "cuota": 1.83,
-   "justa": 1.86,
-   "ev": -0.015,
-   "fuente": "las otras casas",
-   "edad_h": 5.5
+   "edad_h": 0.3
   },
   {
    "local": "Real Sociedad W",
@@ -74,7 +63,7 @@
    "justa": 2.23,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Juventus U23",
@@ -85,7 +74,7 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Latvia",
@@ -96,11 +85,11 @@
    "justa": 1.53,
    "ev": -0.017,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T07:43",
+  "hora": "2026-11-15T08:04",
   "revisadas": 0,
   "mejor": null
  },
