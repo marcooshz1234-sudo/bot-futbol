@@ -6834,6 +6834,13 @@
     "solo_en": [
       "threads"
     ],
-    "nota": "15/11: Marcos borró la de Threads (salió sin las banderas por el fallo del nombre de la foto); repuesta con banderas"
+    "nota": "15/11: Marcos borró la de Threads (salió sin las banderas por el fallo del nombre de la foto); repuesta con banderas",
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18111555863617347"
+    }
   }
 ]
