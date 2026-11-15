@@ -241,6 +241,23 @@ def _ya_salio(p):
                 or any((p.get("redes") or {}).values()))
 
 
+COMPARTIR = DATOS / "compartir.json"
+
+
+def compartir(ahora, cada=timedelta(days=4)):
+    """15/11 (Marcos: «lo puedes meter pero muy de vez en cuando»): en el post de varios verdes, como mucho una vez
+    cada 4 días, se pide compartir el canal (con la gente contenta). Solo Telegram e Instagram (el grupo no va a Threads)."""
+    import os
+    if os.environ.get("GITHUB_ACTIONS") != "true":   # solo el bot (las pruebas no lo apuntan)
+        return ""
+    ult = (leer(COMPARTIR, {}) or {}).get("ultimo")
+    if ult and ahora - datetime.fromisoformat(ult) < cada:
+        return ""
+    from redes import ENLACE_TELEGRAM
+    COMPARTIR.write_text(json.dumps({"ultimo": ahora.isoformat()}) + "\n", encoding="utf-8")
+    return f"\n\n📲 ¿Tienes un colega que apueste? Pásale el canal y que se suba 👉 {ENLACE_TELEGRAM}"
+
+
 def agrupar(cola, ahora):
     """12/11 (Marcos: «si hay varias apuestas, que haga una foto en conjunto para que no haya tantas»).
     Si hay 2 o más verdes seguros (sin «✅ Publicar») de hoy que aún no han salido, en Telegram e Instagram sale UN
@@ -264,7 +281,7 @@ def agrupar(cola, ahora):
         lineas.append(f"✅ {nombre} · {lo}" + (f" @{c.group(1)}" if c else ""))
     from plantillas import lema_verde
     texto = (f"🔥 ¡{len(sueltos)} VERDES PARA DENTRO! 🔥\n\n" + "\n".join(lineas)
-             + f"\n\n💚 {lema_verde(gid)}")
+             + f"\n\n💚 {lema_verde(gid)}") + compartir(ahora)
     grupo = {"id": gid, "fecha": max(p["fecha"] for p in sueltos), "texto": texto, "foto": None, "origen": "bot",
              "directo": True, "resultado": "verde", "verdes": [p["id"] for p in sueltos],
              "solo_en": ["telegram", "instagram"]}
