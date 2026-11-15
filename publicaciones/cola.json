@@ -6644,6 +6644,15 @@
       "instagram"
     ],
     "cuotas": [],
-    "excepcion_cuota": "15/11 combinada personal de Marcos («dale, solo a threads e instagram»): Albania @1,85"
+    "excepcion_cuota": "15/11 combinada personal de Marcos («dale, solo a threads e instagram»): Albania @1,85",
+    "redes": {
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "instagram": "18434690749145052"
+    },
+    "errores_redes": {
+      "threads": "741 caracteres (máx. 500)"
+    }
   }
 ]
