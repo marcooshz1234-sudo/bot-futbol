@@ -33,15 +33,26 @@
  },
  "top": [
   {
+   "local": "Deportivo de La Coruña W",
+   "visitante": "Barcelona W",
+   "inicio": "2026-11-15T18:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Deportivo de La Coruña W–Barcelona W",
+   "cuota": 2.2,
+   "justa": 2.13,
+   "ev": 0.034,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
    "local": "Granada CF",
    "visitante": "Las Palmas",
    "inicio": "2026-11-15T16:15",
    "texto": "Las Palmas o empate",
    "cuota": 1.95,
-   "justa": 1.74,
-   "ev": 0.121,
+   "justa": 1.89,
+   "ev": 0.033,
    "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 0.7
   },
   {
    "local": "Granada CF",
@@ -49,21 +60,10 @@
    "inicio": "2026-11-15T16:15",
    "texto": "Las Palmas marca",
    "cuota": 1.5,
-   "justa": 1.43,
-   "ev": 0.05,
+   "justa": 1.48,
+   "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 6.2
-  },
-  {
-   "local": "Deportivo de La Coruña W",
-   "visitante": "Barcelona W",
-   "inicio": "2026-11-15T18:00",
-   "texto": "Más de 2,5 goles en la 2ª parte del Deportivo de La Coruña W–Barcelona W",
-   "cuota": 2.2,
-   "justa": 2.22,
-   "ev": -0.01,
-   "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 0.7
   },
   {
    "local": "Juventus U23",
@@ -74,18 +74,29 @@
    "justa": 1.42,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 0.7
   },
   {
-   "local": "Juventus U23",
-   "visitante": "Treviso",
-   "inicio": "2026-11-15T17:30",
-   "texto": "Ambos marcan en Juventus U23–Treviso",
-   "cuota": 1.8,
-   "justa": 1.83,
+   "local": "Finland",
+   "visitante": "San Marino",
+   "inicio": "2026-11-15T18:00",
+   "texto": "Finland marca 4 o más",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.015,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Real Sociedad W",
+   "visitante": "Athletic Club W",
+   "inicio": "2026-11-15T12:00",
+   "texto": "Más de 1,5 goles en la 2ª parte del Real Sociedad W–Athletic Club W",
+   "cuota": 2.2,
+   "justa": 2.23,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 0.0
   },
   {
    "local": "Amarante",
@@ -99,35 +110,21 @@
    "edad_h": 0.0
   },
   {
-   "local": "Real Sociedad W",
-   "visitante": "Athletic Club W",
-   "inicio": "2026-11-15T12:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del Real Sociedad W–Athletic Club W",
-   "cuota": 2.2,
-   "justa": 2.23,
+   "local": "Juventus U23",
+   "visitante": "Treviso",
+   "inicio": "2026-11-15T17:30",
+   "texto": "Ambos marcan en Juventus U23–Treviso",
+   "cuota": 1.8,
+   "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.7
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T02:03",
-  "revisadas": 1,
-  "mejor": {
-   "partido_id": 1570018,
-   "local": "Granada CF",
-   "visitante": "Las Palmas",
-   "inicio": "2026-11-15T16:15",
-   "liga": "Segunda División",
-   "mercado": "Double Chance",
-   "opcion": "Draw/Away",
-   "cuota": 1.95,
-   "justa": 1.74,
-   "ev": 0.121,
-   "fuente": "las otras casas",
-   "edad_h": 6.2,
-   "texto": "Las Palmas o empate"
-  }
+  "hora": "2026-11-15T02:54",
+  "revisadas": 0,
+  "mejor": null
  },
  "historial": [
   {
