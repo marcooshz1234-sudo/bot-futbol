@@ -88,10 +88,24 @@ ABRE_COMBI = ["Combinada que nos gusta mucho familia 🔥", "Vamos con una combi
               "Os dejo una combinada que pinta bien 👀", "Combinada para hoy, con cabeza ⚽"]
 
 
-def abrir(lista, semilla):
-    """11/11 (Marcos: «no quiero un canal repetitivo»): la primera frase cambia de un post a otro."""
+def abrir(lista, semilla, cola=None):
+    """11/11 (Marcos: «no quiero un canal repetitivo»): la primera frase cambia de un post a otro.
+    15/11 («"Este nos encanta para hoy" lo has puesto tres veces seguidas, no lo vuelvas a hacer»): nunca una frase
+    usada en los últimos posts del día."""
     import hashlib
-    return lista[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(lista)]
+    usadas = recientes(cola)
+    libres = [x for x in lista if x not in usadas] or lista
+    return libres[int(hashlib.sha1(semilla.encode()).hexdigest(), 16) % len(libres)]
+
+
+def recientes(cola=None, n=6):
+    """Las primeras líneas de los últimos n posts de hoy (cola.json)."""
+    from datetime import datetime as _dt
+    if cola is None:
+        cola = leer(COLA, []) or []
+    hoy = _dt.now(MADRID).strftime("%Y-%m-%d")
+    hoy_ = [p for p in cola if p.get("id", "").startswith(hoy) and not p.get("caducada")]
+    return {(p.get("texto") or "").split("\n", 1)[0].strip() for p in sorted(hoy_, key=lambda p: p.get("fecha", ""))[-n:]}
 
 
 def coma(c):
