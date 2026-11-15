@@ -211,11 +211,26 @@ def jugador_tocado(fid, jugador):
                for n in (leer(SALIDA, {}) or {}).get(str(fid), []))
 
 
-def razones(fid):
-    """Hechos para el pick del día (campo, aplazamiento, entrenador, crisis), con el periódico."""
+FUTBOL = (r"\bfutbol|\bseleccion|\bpartido|\bjugador|\bplantilla|\bclub\b|\bentrenador|\btecnico\b|\bestadio|"
+          r"\bliga\b|nations|\bfootball|\bsoccer|\bmatch\b|\bsquad\b|\bconvocatoria|\bvestuario|\baficion|\bultras?\b|"
+          r"\bhinchas|\bgol(es)?\b|\bequipo\b|\bfederacion|\bbanquillo|\bmister\b")
+
+
+def razones(fid, pick=None):
+    """Hechos para el pick del día (campo, aplazamiento, entrenador, crisis), con el periódico.
+    16/11: solo titulares de fútbol («Protestan en contra de centros de IA en Escocia» salió en Suiza–Escocia) y la
+    crisis solo del rival (la de nuestro equipo iría en contra del pick, regla del 15/11)."""
+    nuestro = ""
+    if pick:
+        op = pick.get("opcion")
+        nuestro = pick.get("local") if op in ("Home", "Home/Draw", "1X") else pick.get("visitante") if op in ("Away", "Draw/Away", "X2") else ""
     out = []
     for n in (leer(SALIDA, {}) or {}).get(str(fid), []):
+        if not re.search(FUTBOL, norm(n.get("titulo"))):
+            continue
         for t, peso in (("campo", 4), ("aplazado", 3), ("entrenador", 3), ("crisis", 4)):
+            if t == "crisis" and nuestro and t in n.get("tipos", []) and norm(n.get("equipo")) == norm(nuestro):
+                break
             if t in n.get("tipos", []):
                 out.append((peso, f"{n['titulo']} ({n['fuente']})"))
                 break

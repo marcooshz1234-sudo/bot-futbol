@@ -65,7 +65,7 @@ def razones(p, hist, ex=None, maximo=3):
         pass
     try:   # 09/11: hechos de los periódicos (campo, aplazamiento, entrenador, crisis)
         import noticias
-        copa += noticias.razones(p["partido_id"])
+        copa += noticias.razones(p["partido_id"], p)
     except Exception:
         pass
     try:   # 09/11: cansancio, tiempo, árbitro, cuota que baja, tabla (contexto_extra.py)
