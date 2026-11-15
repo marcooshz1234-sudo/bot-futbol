@@ -41,7 +41,7 @@
    "justa": 2.13,
    "ev": 0.034,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.9
   },
   {
    "local": "Granada CF",
@@ -52,7 +52,7 @@
    "justa": 1.89,
    "ev": 0.033,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.9
   },
   {
    "local": "Granada CF",
@@ -63,7 +63,7 @@
    "justa": 1.48,
    "ev": 0.014,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.9
   },
   {
    "local": "Juventus U23",
@@ -74,7 +74,7 @@
    "justa": 1.42,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.9
   },
   {
    "local": "Finland",
@@ -85,7 +85,7 @@
    "justa": 1.86,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.9
   },
   {
    "local": "Real Sociedad W",
@@ -118,11 +118,11 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.9
   }
  ],
  "ultima": {
-  "hora": "2026-11-15T03:37",
+  "hora": "2026-11-15T04:06",
   "revisadas": 0,
   "mejor": null
  },
