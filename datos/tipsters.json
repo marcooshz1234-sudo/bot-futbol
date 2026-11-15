@@ -2564,5 +2564,25 @@
    "prob_pinnacle": 0.591,
    "valor_pinnacle": -0.096
   }
+ },
+ {
+  "tipster": "ENZO TIPSTER🇦🇷",
+  "fuente": "-1002819019921/6761",
+  "dia": "2026-11-15",
+  "local": "Spain",
+  "visitante": "England",
+  "partido_id": 1528984,
+  "texto": "Gana el España",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.91,
+  "stake": 1,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 2.0,
+   "prob_cuota": 0.524
+  }
  }
 ]

@@ -133,6 +133,13 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.654
   },
+  "ENZO TIPSTER🇦🇷": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "AllSportsPicks": {
    "n": 1,
    "verdes": 0,
@@ -141,13 +148,6 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
-  },
-  "ENZO TIPSTER🇦🇷": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   },
   "AllSportsPicks ⚽🏀🎾": {
    "n": 1,
@@ -159,7 +159,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 17,
+   "n": 18,
    "verdes": 10,
    "rojos": 3,
    "nulos": 0,
@@ -477,7 +477,7 @@
    "prob_cuota": 18.925
   },
   "Spain": {
-   "n": 6,
+   "n": 7,
    "verdes": 4,
    "rojos": 0,
    "nulos": 0,
@@ -722,7 +722,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 62,
+   "n": 63,
    "verdes": 32,
    "rojos": 6,
    "nulos": 0,
@@ -821,7 +821,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 10,
+   "n": 11,
    "verdes": 3,
    "rojos": 1,
    "nulos": 0,
@@ -850,7 +850,7 @@
    "prob_cuota": 11.149
   },
   "UEFA Nations League": {
-   "n": 32,
+   "n": 33,
    "verdes": 21,
    "rojos": 6,
    "nulos": 0,
@@ -897,7 +897,7 @@
    "prob_cuota": 12.197
   },
   "local": {
-   "n": 30,
+   "n": 31,
    "verdes": 15,
    "rojos": 7,
    "nulos": 0,
@@ -926,7 +926,7 @@
    "prob_cuota": 21.662
   },
   "—": {
-   "n": 32,
+   "n": 33,
    "verdes": 9,
    "rojos": 8,
    "nulos": 0,
@@ -991,7 +991,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 97,
+   "n": 98,
    "verdes": 48,
    "rojos": 18,
    "nulos": 0,

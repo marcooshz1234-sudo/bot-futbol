@@ -6924,5 +6924,21 @@
     "pide_cuota": true,
     "aviso": "🧮 Combi de UN partido: la cuota no se puede multiplicar. Mira en bet365 «Crear apuesta» cuánto paga y respóndeme SOLO con la cifra (por ejemplo 1,60). Con eso la pongo y sale a su hora.",
     "nota": "15/11: OK de Marcos (11:29). Esperan alineación (alineaciones_espera): si un jugador no es titular, se cambia o se quita"
+  },
+  {
+    "id": "2026-11-15-pick-tip-2",
+    "fecha": "2026-11-15T19:03",
+    "texto": "Pick que no podía faltar hoy ⚽\n\n🍀 Gana el España @1,91\n\n⚽ España – Inglaterra · hoy 20:45\n\n🧠 Stake 1/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "sel": [
+      "1528984|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.91
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
