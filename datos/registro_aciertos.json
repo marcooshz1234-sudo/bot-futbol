@@ -12811,7 +12811,7 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.007,
+  "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.146,
   "prob_aprendida": 0.703,
@@ -13233,6 +13233,28 @@
   "movimiento": null,
   "ventaja": 0.162,
   "prob_aprendida": 0.605,
+  "acierto": null
+ },
+ "1563264|Both Teams Score|Yes": {
+  "partido_id": 1563264,
+  "fecha": "2026-11-22T13:00",
+  "competicion": "Championship",
+  "local": "Burnley",
+  "visitante": "Blackburn",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "tipo": "goles",
+  "texto": "Ambos marcan en Burnley–Blackburn",
+  "cuota": 1.67,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.012,
+  "movimiento": null,
+  "ventaja": 0.151,
+  "prob_aprendida": 0.616,
   "acierto": null
  }
 }

@@ -1,10 +1,53 @@
 # Sheffield Utd – Watford
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 15/11 08:09_
+
+- **1X2:** 1 **1.57**  ·  X **3.90**  ·  2 **5.00**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.30**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.25** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **2.10**  ·  X **2.38**  ·  2 **5.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.33**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **6.00**
+- **Win Both Halves:** 1 **4.33**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.00**  ·  Home/No **2.75**  ·  Draw/No **13.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.50**
+- **Home Player Shots On Target Total:** Liam Kitching - 1 **2.50**  ·  Liam Kitching - 2 **10.00**  ·  Patrick Bamford - 1 **1.28**  ·  Thomas Cannon - 1 **1.36**  ·  Tyrese Campbell - 1 **1.28**  ·  Ryan One - 1 **1.44**  ·  Romelle Donovan - 1 **1.40**  ·  Sydie Peck - 1 **1.67**  ·  Tahith Chong - 1 **1.73**  ·  Oliver Arblaster - 1 **2.00**  ·  Sam McCallum - 1 **2.00**  ·  Mark McGuinness - 1 **3.25**  ·  Kalvin Phillips - 1 **2.25**  ·  Harrison Burrows - 1 **2.50**  ·  Joe Rothwell - 1 **2.50**  ·  Jairo Riedewald - 1 **3.00**  ·  Jamie Shackleton - 1 **3.00**  ·  Japhet Tanganga - 1 **2.50**  ·  Jamal Baptiste - 1 **3.75**  ·  Femi Seriki - 1 **3.40**  ·  Matt Doherty - 1 **3.40**  ·  Rhys Norrington-Davies - 1 **3.40**  ·  Patrick Bamford - 2 **2.25**  ·  Thomas Cannon - 2 **2.62**  ·  Tyrese Campbell - 2 **2.25**  ·  Ryan One - 2 **3.25**  ·  Romelle Donovan - 2 **3.00**  ·  Sydie Peck - 2 **4.33**  ·  Tahith Chong - 2 **4.50**  ·  Oliver Arblaster - 2 **6.50**  ·  Sam McCallum - 2 **6.50**  ·  Mark McGuinness - 2 **15.00**  ·  Kalvin Phillips - 2 **9.00**  ·  Harrison Burrows - 2 **10.00**  ·  Joe Rothwell - 2 **10.00**  ·  Jairo Riedewald - 2 **13.00**  ·  Jamie Shackleton - 2 **13.00**  ·  Japhet Tanganga - 2 **10.00**  ·  Jamal Baptiste - 2 **19.00**  ·  Femi Seriki - 2 **17.00**  ·  Matt Doherty - 2 **17.00**  ·  Rhys Norrington-Davies - 2 **17.00**  ·  Patrick Bamford - 3 **5.00**  ·  Thomas Cannon - 3 **7.00**  ·  Tyrese Campbell - 3 **5.00**  ·  Ryan One - 3 **9.00**  ·  Romelle Donovan - 3 **8.00**  ·  Sydie Peck - 3 **13.00**  ·  Tahith Chong - 3 **15.00**  ·  Oliver Arblaster - 3 **21.00**  ·  Sam McCallum - 3 **21.00**  ·  Patrick Bamford - 4 **13.00**  ·  Thomas Cannon - 4 **19.00**  ·  Tyrese Campbell - 4 **13.00**  ·  Ryan One - 4 **21.00**  ·  Romelle Donovan - 4 **21.00**  ·  Ben Brereton Diaz - 1 **1.44**  ·  Ben Brereton Diaz - 2 **3.25**  ·  Ben Brereton Diaz - 3 **9.00**  ·  Ben Brereton Diaz - 4 **21.00**  ·  Hamza Choudhury - 1 **3.40**  ·  Hamza Choudhury - 2 **17.00**  ·  Jordan Ayew - 1 **1.30**  ·  Jordan Ayew - 2 **2.38**  ·  Jordan Ayew - 3 **5.50**  ·  Jordan Ayew - 4 **15.00**
+- **Away Player Shots On Target Total:** Travis Akomeah **26.00**  ·  Mark McGuinness **9.50**  ·  Rhys Norrington-Davies **51.00**  ·  Hector Kyprianou **41.00**  ·  James Clarridge **21.00**  ·  Ben Brereton Diaz **12.00**  ·  Patrick Bamford **10.00**  ·  Krepin Diatta **126.00**  ·  Liam Kitching **12.00**  ·  Tyrese Campbell **21.00**  ·  Oliver Arblaster **41.00**  ·  Sydie Peck **21.00**  ·  Femi Seriki **67.00**  ·  Harrison Burrows **67.00**  ·  Jamie Shackleton **67.00**  ·  Sam McCallum **34.00**  ·  Joe Rothwell **51.00**  ·  Japhet Tanganga **8.50**  ·  Edo Kayembe **67.00**  ·  Rocco Vata **23.00**  ·  Matthew Pollock **19.00**  ·  Tahith Chong **34.00**  ·  Othmane Maamma **34.00**  ·  Soumaila Coulibaly **26.00**  ·  Jairo Riedewald **67.00**  ·  Martin Payero **34.00**  ·  Omar Traore **101.00**  ·  Marc Bola **126.00**  ·  Romelle Donovan **26.00**  ·  Branimar Mlacic **26.00**  ·  Luca Kjerrumgaard **17.00**  ·  Mamadou Doumbia **21.00**  ·  Ryan One **15.00**  ·  Kevin Keben **26.00**  ·  Kalvin Phillips **51.00**  ·  Jordan Ayew **15.00**  ·  Stephy Mavididi **21.00**  ·  Hamza Choudhury **67.00**  ·  Matt Doherty **23.00**  ·  Thomas Cannon **15.00**  ·  Myron Boadu **19.00**  ·  Iker Bravo **34.00**  ·  Jordan Zemura **126.00**  ·  Jamal Baptiste **15.00**  ·  Amin Nabizada **19.00**
+- **Home Player Shots:** Liam Kitching - 1 **1.40**  ·  Liam Kitching - 2 **2.62**  ·  Liam Kitching - 3 **6.00**  ·  Liam Kitching - 4 **15.00**  ·  Liam Kitching - 5 **21.00**  ·  Patrick Bamford - 1 **1.02**  ·  Thomas Cannon - 1 **1.03**  ·  Tyrese Campbell - 1 **1.02**  ·  Ryan One - 1 **1.05**  ·  Romelle Donovan - 1 **1.05**  ·  Sydie Peck - 1 **1.10**  ·  Tahith Chong - 1 **1.14**  ·  Oliver Arblaster - 1 **1.20**  ·  Sam McCallum - 1 **1.20**  ·  Mark McGuinness - 1 **1.53**  ·  Kalvin Phillips - 1 **1.25**  ·  Harrison Burrows - 1 **1.40**  ·  Joe Rothwell - 1 **1.40**  ·  Jairo Riedewald - 1 **1.44**  ·  Jamie Shackleton - 1 **1.44**  ·  Japhet Tanganga - 1 **1.40**  ·  Jamal Baptiste - 1 **1.83**  ·  Femi Seriki - 1 **1.62**  ·  Matt Doherty - 1 **1.62**  ·  Rhys Norrington-Davies - 1 **1.62**  ·  Patrick Bamford - 2 **1.14**  ·  Thomas Cannon - 2 **1.20**  ·  Tyrese Campbell - 2 **1.14**  ·  Ryan One - 2 **1.28**  ·  Romelle Donovan - 2 **1.25**  ·  Sydie Peck - 2 **1.44**  ·  Tahith Chong - 2 **1.62**  ·  Oliver Arblaster - 2 **1.83**  ·  Sam McCallum - 2 **1.83**  ·  Mark McGuinness - 2 **3.40**  ·  Kalvin Phillips - 2 **2.10**  ·  Harrison Burrows - 2 **2.62**  ·  Joe Rothwell - 2 **2.62**  ·  Jairo Riedewald - 2 **3.00**  ·  Jamie Shackleton - 2 **3.00**  ·  Japhet Tanganga - 2 **2.62**  ·  Jamal Baptiste - 2 **5.00**  ·  Femi Seriki - 2 **3.75**  ·  Matt Doherty - 2 **3.75**  ·  Rhys Norrington-Davies - 2 **3.75**  ·  Patrick Bamford - 3 **1.44**  ·  Thomas Cannon - 3 **1.57**  ·  Tyrese Campbell - 3 **1.44**  ·  Ryan One - 3 **1.80**  ·  Romelle Donovan - 3 **1.73**  ·  Sydie Peck - 3 **2.25**  ·  Tahith Chong - 3 **2.75**  ·  Oliver Arblaster - 3 **3.75**  ·  Sam McCallum - 3 **3.75**  ·  Mark McGuinness - 3 **9.00**  ·  Kalvin Phillips - 3 **4.33**  ·  Harrison Burrows - 3 **6.00**  ·  Joe Rothwell - 3 **6.00**  ·  Jairo Riedewald - 3 **7.00**  ·  Jamie Shackleton - 3 **7.00**  ·  Japhet Tanganga - 3 **6.00**  ·  Jamal Baptiste - 3 **15.00**  ·  Femi Seriki - 3 **11.00**  ·  Matt Doherty - 3 **11.00**  ·  Rhys Norrington-Davies - 3 **11.00**  ·  Patrick Bamford - 4 **2.00**  ·  Thomas Cannon - 4 **2.38**  ·  Tyrese Campbell - 4 **2.00**  ·  Ryan One - 4 **3.00**  ·  Romelle Donovan - 4 **2.75**  ·  Sydie Peck - 4 **4.00**  ·  Tahith Chong - 4 **5.50**  ·  Oliver Arblaster - 4 **8.00**  ·  Sam McCallum - 4 **8.00**  ·  Mark McGuinness - 4 **21.00**  ·  Kalvin Phillips - 4 **10.00**  ·  Harrison Burrows - 4 **15.00**  ·  Joe Rothwell - 4 **15.00**  ·  Jairo Riedewald - 4 **19.00**  ·  Jamie Shackleton - 4 **19.00**  ·  Japhet Tanganga - 4 **15.00**  ·  Patrick Bamford - 5 **3.40**  ·  Thomas Cannon - 5 **4.00**  ·  Tyrese Campbell - 5 **3.40**  ·  Ryan One - 5 **5.50**  ·  Romelle Donovan - 5 **5.00**  ·  Sydie Peck - 5 **9.00**  ·  Tahith Chong - 5 **13.00**  ·  Patrick Bamford - 6 **5.50**  ·  Thomas Cannon - 6 **8.00**  ·  Tyrese Campbell - 6 **5.50**  ·  Ryan One - 6 **10.00**  ·  Romelle Donovan - 6 **10.00**  ·  Sydie Peck - 6 **17.00**  ·  Patrick Bamford - 7 **11.00**  ·  Thomas Cannon - 7 **15.00**  ·  Tyrese Campbell - 7 **11.00**  ·  Ryan One - 7 **19.00**  ·  Patrick Bamford - 8 **19.00**  ·  Oliver Arblaster - 5 **17.00**  ·  Sam McCallum - 5 **17.00**  ·  Romelle Donovan - 7 **19.00**  ·  Ben Brereton Diaz - 1 **1.04**  ·  Ben Brereton Diaz - 2 **1.20**  ·  Ben Brereton Diaz - 3 **1.62**  ·  Ben Brereton Diaz - 4 **2.50**  ·  Ben Brereton Diaz - 5 **4.33**  ·  Ben Brereton Diaz - 6 **8.00**  ·  Tahith Chong - 6 **21.00**  ·  Ben Brereton Diaz - 7 **15.00**  ·  Thomas Cannon - 8 **21.00**  ·  Tyrese Campbell - 8 **19.00**  ·  Femi Seriki - 4 **21.00**  ·  Matt Doherty - 4 **21.00**  ·  Rhys Norrington-Davies - 4 **21.00**  ·  Joe Rothwell - 5 **21.00**  ·  Hamza Choudhury - 1 **1.62**  ·  Hamza Choudhury - 2 **3.75**  ·  Hamza Choudhury - 3 **11.00**  ·  Jordan Ayew - 1 **1.03**  ·  Jordan Ayew - 2 **1.20**  ·  Jordan Ayew - 3 **1.57**  ·  Jordan Ayew - 4 **2.38**  ·  Jordan Ayew - 5 **4.00**  ·  Jordan Ayew - 6 **8.00**  ·  Jordan Ayew - 7 **15.00**  ·  Hamza Choudhury - 4 **21.00**  ·  Jordan Ayew - 8 **21.00**  ·  Kalvin Phillips - 5 **21.00**  ·  Harrison Burrows - 5 **21.00**  ·  Japhet Tanganga - 5 **21.00**  ·  Ben Brereton Diaz - 8 **21.00**
+- **Away Player Shots:** Rocco Vata - 1 **1.12**  ·  Amin Nabizada - 1 **1.12**  ·  Luca Kjerrumgaard - 1 **1.17**  ·  Iker Bravo - 1 **1.17**  ·  Martin Payero - 1 **1.25**  ·  Othmane Maamma - 1 **1.25**  ·  Mamadou Doumbia - 1 **1.17**  ·  Edo Kayembe - 1 **1.25**  ·  Jordan Zemura - 1 **2.38**  ·  Marc Bola - 1 **2.00**  ·  Hector Kyprianou - 1 **2.38**  ·  James Clarridge - 1 **2.38**  ·  Omar Traore - 1 **2.00**  ·  Matthew Pollock - 1 **2.20**  ·  Kevin Keben - 1 **2.75**  ·  Rocco Vata - 2 **1.62**  ·  Amin Nabizada - 2 **1.62**  ·  Luca Kjerrumgaard - 2 **1.67**  ·  Iker Bravo - 2 **1.73**  ·  Martin Payero - 2 **2.10**  ·  Othmane Maamma - 2 **2.10**  ·  Mamadou Doumbia - 2 **1.67**  ·  Edo Kayembe - 2 **2.00**  ·  Jordan Zemura - 2 **8.00**  ·  Marc Bola - 2 **5.50**  ·  Hector Kyprianou - 2 **8.00**  ·  James Clarridge - 2 **8.00**  ·  Omar Traore - 2 **5.50**  ·  Matthew Pollock - 2 **7.00**  ·  Kevin Keben - 2 **10.00**  ·  Rocco Vata - 3 **2.75**  ·  Amin Nabizada - 3 **2.75**  ·  Luca Kjerrumgaard - 3 **3.00**  ·  Iker Bravo - 3 **3.25**  ·  Martin Payero - 3 **4.33**  ·  Othmane Maamma - 3 **4.33**  ·  Mamadou Doumbia - 3 **3.00**  ·  Edo Kayembe - 3 **4.00**  ·  Jordan Zemura - 3 **21.00**  ·  Marc Bola - 3 **17.00**  ·  Hector Kyprianou - 3 **21.00**  ·  James Clarridge - 3 **21.00**  ·  Omar Traore - 3 **17.00**  ·  Matthew Pollock - 3 **21.00**  ·  Rocco Vata - 4 **5.50**  ·  Amin Nabizada - 4 **5.50**  ·  Luca Kjerrumgaard - 4 **6.00**  ·  Iker Bravo - 4 **6.50**  ·  Martin Payero - 4 **10.00**  ·  Othmane Maamma - 4 **10.00**  ·  Mamadou Doumbia - 4 **6.00**  ·  Edo Kayembe - 4 **9.00**  ·  Rocco Vata - 5 **11.00**  ·  Amin Nabizada - 5 **11.00**  ·  Luca Kjerrumgaard - 5 **13.00**  ·  Iker Bravo - 5 **15.00**  ·  Martin Payero - 5 **21.00**  ·  Othmane Maamma - 5 **21.00**  ·  Mamadou Doumbia - 5 **13.00**  ·  Edo Kayembe - 5 **21.00**  ·  Rocco Vata - 6 **21.00**  ·  Amin Nabizada - 6 **21.00**  ·  Luca Kjerrumgaard - 6 **21.00**  ·  Iker Bravo - 6 **21.00**  ·  Soumaila Coulibaly - 1 **2.38**  ·  Soumaila Coulibaly - 2 **8.00**  ·  Soumaila Coulibaly - 3 **21.00**  ·  Branimar Mlacic - 1 **2.75**  ·  Branimar Mlacic - 2 **10.00**  ·  Albert Eames - 1 **2.38**  ·  Albert Eames - 2 **8.00**  ·  Albert Eames - 3 **21.00**  ·  Mamadou Doumbia - 6 **21.00**  ·  Myron Boadu - 1 **1.10**  ·  Stephy Mavididi - 1 **1.14**  ·  Myron Boadu - 2 **1.44**  ·  Stephy Mavididi - 2 **1.62**  ·  Myron Boadu - 3 **2.25**  ·  Stephy Mavididi - 3 **2.75**  ·  Myron Boadu - 4 **4.00**  ·  Stephy Mavididi - 4 **5.50**  ·  Myron Boadu - 5 **9.00**  ·  Stephy Mavididi - 5 **13.00**  ·  Myron Boadu - 6 **17.00**  ·  Stephy Mavididi - 6 **21.00**  ·  Krepin Diatta - 1 **1.73**  ·  Krepin Diatta - 2 **4.33**  ·  Krepin Diatta - 3 **13.00**  ·  Travis Akomeah - 1 **2.38**  ·  Travis Akomeah - 2 **8.00**  ·  Travis Akomeah - 3 **21.00**
+- **Anytime Goal Scorer:** Travis Akomeah **15.00**  ·  Mark McGuinness **7.50**  ·  Rhys Norrington-Davies **8.50**  ·  Hector Kyprianou **15.00**  ·  James Clarridge **15.00**  ·  Ben Brereton Diaz **3.00**  ·  Patrick Bamford **2.30**  ·  Krepin Diatta **15.00**  ·  Liam Kitching **6.50**  ·  Tyrese Campbell **2.30**  ·  Oliver Arblaster **5.00**  ·  Sydie Peck **3.75**  ·  Femi Seriki **8.50**  ·  Harrison Burrows **6.50**  ·  Jamie Shackleton **7.00**  ·  Sam McCallum **5.00**  ·  Joe Rothwell **6.50**  ·  Japhet Tanganga **6.50**  ·  Edo Kayembe **7.50**  ·  Rocco Vata **5.00**  ·  Matthew Pollock **15.00**  ·  Tahith Chong **4.33**  ·  Othmane Maamma **5.50**  ·  Soumaila Coulibaly **15.00**  ·  Jairo Riedewald **7.00**  ·  Martin Payero **5.50**  ·  Omar Traore **12.00**  ·  Marc Bola **15.00**  ·  Romelle Donovan **2.88**  ·  Albert Eames **15.00**  ·  Branimar Mlacic **19.00**  ·  Luca Kjerrumgaard **4.50**  ·  Mamadou Doumbia **4.50**  ·  Ryan One **3.00**  ·  Kevin Keben **19.00**  ·  Kalvin Phillips **5.50**  ·  Jordan Ayew **2.50**  ·  Stephy Mavididi **4.33**  ·  Hamza Choudhury **8.50**  ·  Matt Doherty **8.50**  ·  Thomas Cannon **2.50**  ·  Myron Boadu **3.75**  ·  Iker Bravo **5.00**  ·  Jordan Zemura **15.00**  ·  Jamal Baptiste **11.00**  ·  Amin Nabizada **5.00**
+- **Player to Score or Assist:** Travis Akomeah **9.00**  ·  Mark McGuinness **4.75**  ·  Rhys Norrington-Davies **4.00**  ·  Hector Kyprianou **8.00**  ·  James Clarridge **10.00**  ·  Ben Brereton Diaz **1.95**  ·  Patrick Bamford **1.80**  ·  Krepin Diatta **5.50**  ·  Liam Kitching **5.00**  ·  Tyrese Campbell **1.73**  ·  Oliver Arblaster **2.50**  ·  Sydie Peck **2.20**  ·  Femi Seriki **3.60**  ·  Harrison Burrows **2.75**  ·  Jamie Shackleton **4.50**  ·  Sam McCallum **2.60**  ·  Joe Rothwell **2.75**  ·  Japhet Tanganga **4.00**  ·  Edo Kayembe **4.50**  ·  Rocco Vata **3.20**  ·  Matthew Pollock **8.00**  ·  Tahith Chong **2.62**  ·  Othmane Maamma **3.50**  ·  Soumaila Coulibaly **9.00**  ·  Jairo Riedewald **4.00**  ·  Martin Payero **3.40**  ·  Omar Traore **7.00**  ·  Marc Bola **6.50**  ·  Romelle Donovan **2.20**  ·  Albert Eames **5.50**  ·  Branimar Mlacic **11.00**  ·  Luca Kjerrumgaard **3.40**  ·  Mamadou Doumbia **3.10**  ·  Ryan One **2.38**  ·  Kevin Keben **10.00**  ·  Kalvin Phillips **2.88**  ·  Jordan Ayew **1.80**  ·  Stephy Mavididi **3.10**  ·  Hamza Choudhury **4.00**  ·  Matt Doherty **3.75**  ·  Thomas Cannon **1.83**  ·  Myron Boadu **2.88**  ·  Iker Bravo **3.10**  ·  Jordan Zemura **6.00**  ·  Jamal Baptiste **5.50**  ·  Amin Nabizada **3.25**
 
 ## Estadísticas de equipo
 | | Sheffield Utd (total) | Sheffield Utd en casa | Watford (total) | Watford fuera |
@@ -141,4 +184,37 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,56 · visitante 0,78 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 19% | 18% | 18% | 5.00 | -8% |
+| 1X2: X | 25% | 23% | 24% | 3.90 | -5% |
+| 1X2: 1 | 56% | 58% | 57% | 1.57 | -10% |
+| Doble oportunidad: X2 | 44% | 42% | 43% | 2.30 | -1% |
+| Doble oportunidad: 12 | 75% | 77% | 76% | 1.25 | -6% |
+| Doble oportunidad: 1X | 81% | 82% | 82% | 1.17 | -5% |
+| Ambos marcan: No | 57% | 49% | 53% | 1.91 | +1% |
+| Ambos marcan: Sí | 43% | 51% | 47% | 1.80 | -15% |
+| Goles más/menos: Más de 1.5 | 68% | 76% | 72% | 1.25 | -10% |
+| Goles más/menos: Más de 2.5 | 41% | 53% | 47% | 1.80 | -15% |
+| Goles más/menos: Más de 3.5 | 21% | 32% | 26% | 3.00 | -21% |
+| Goles más/menos: Menos de 1.5 | 32% | 24% | 28% | 4.00 | +12% |
+| Goles más/menos: Menos de 2.5 | 59% | 47% | 53% | 2.00 | +6% |
+| Goles más/menos: Menos de 3.5 | 79% | 68% | 74% | 1.40 | +3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 67% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 33% | 3.25 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +2% |
+| Goles del local: Más de 1.5 | 46% | 56% | 51% | 1.67 | -15% |
+| Goles del local: Más de 2.5 | 21% | 31% | 26% | 3.00 | -22% |
+| Goles del local: Menos de 1.5 | 54% | 44% | 49% | 2.10 | +3% |
+| Goles del local: Menos de 2.5 | 79% | 69% | 74% | 1.36 | +1% |
+| Goles del visitante: Más de 0.5 | 54% | 61% | 58% | 1.53 | -12% |
+| Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
+| Goles del visitante: Menos de 0.5 | 46% | 39% | 42% | 2.38 | +1% |
+| Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
+| 1X2 descanso: X | 45% | 39% | 42% | 2.38 | -0% |
+| 1X2 descanso: 1 | 39% | 44% | 41% | 2.10 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

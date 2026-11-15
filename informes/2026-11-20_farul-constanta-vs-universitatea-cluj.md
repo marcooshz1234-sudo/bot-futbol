@@ -1,7 +1,7 @@
 # Farul Constanta – Universitatea Cluj
 **Liga I** · Regular Season - 16 · 20/11/2026 19:30 (hora España) · Central Stadium Hagi Academy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

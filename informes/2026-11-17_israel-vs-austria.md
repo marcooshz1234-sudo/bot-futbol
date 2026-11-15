@@ -1,7 +1,7 @@
 # Israel – Austria
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Nagyerdei Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:12_

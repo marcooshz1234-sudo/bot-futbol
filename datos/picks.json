@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15 02:18",
+ "generado": "2026-11-15 08:12",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -27,6 +27,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.021,
      "cuota_inicial": 1.42,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 4.7,
      "prob_aprendida": 0.698
     },
     {
@@ -45,6 +47,8 @@
      "ventaja": 0.244,
      "detalle": "Kazakhstan (en contra) 4/5 · Slovakia 4/5",
      "valor_mercado": -0.027,
+     "arbitro": "Aliyar Agayev",
+     "arbitro_tarjetas": 1.5,
      "prob_aprendida": 0.579
     },
     {
@@ -68,6 +72,8 @@
      "texto": "Dan Ndoye: 2+ tiros",
      "detalle": "Dan Ndoye 5/5",
      "temporada": "5/5",
+     "arbitro": "Danny Makkelie",
+     "arbitro_tarjetas": 3.1,
      "prob_aprendida": 0.603
     },
     {
@@ -91,6 +97,8 @@
      "texto": "Konstantinos Mavropanos: 1+ tiros",
      "detalle": "Konstantinos Mavropanos 5/5",
      "temporada": "5/5",
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 4.7,
      "prob_aprendida": 0.605
     }
    ],
@@ -113,6 +121,8 @@
      "valor_mercado": 0.0,
      "movimiento": 0.021,
      "cuota_inicial": 1.42,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 4.7,
      "prob_aprendida": 0.698
     },
     {
@@ -131,6 +141,8 @@
      "ventaja": 0.244,
      "detalle": "Kazakhstan (en contra) 4/5 · Slovakia 4/5",
      "valor_mercado": -0.027,
+     "arbitro": "Aliyar Agayev",
+     "arbitro_tarjetas": 1.5,
      "prob_aprendida": 0.579
     },
     {
@@ -154,6 +166,8 @@
      "texto": "Dan Ndoye: 2+ tiros",
      "detalle": "Dan Ndoye 5/5",
      "temporada": "5/5",
+     "arbitro": "Danny Makkelie",
+     "arbitro_tarjetas": 3.1,
      "prob_aprendida": 0.603
     }
    ],
@@ -184,6 +198,8 @@
        "valor_mercado": -0.042,
        "movimiento": -0.042,
        "cuota_inicial": 1.91,
+       "arbitro": "Marian Barbu",
+       "arbitro_tarjetas": 3.5,
        "prob_aprendida": 0.704
       },
       {
@@ -202,6 +218,8 @@
        "ventaja": 0.122,
        "detalle": "FYR Macedonia 3/5 · Slovenia (en contra) 4/5",
        "valor_mercado": -0.144,
+       "arbitro": "Serdar Gozubuyuk",
+       "arbitro_tarjetas": 3.8,
        "prob_aprendida": 0.66
       },
       {
@@ -220,6 +238,8 @@
        "ventaja": 0.244,
        "detalle": "Kazakhstan 5/5 · Slovakia 3/5",
        "valor_mercado": 0.029,
+       "arbitro": "Aliyar Agayev",
+       "arbitro_tarjetas": 1.5,
        "prob_aprendida": 0.569
       }
      ],
@@ -245,7 +265,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.007,
+     "valor_mercado": 0.0,
      "prob_aprendida": 0.703
     }
    ],
@@ -265,7 +285,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.007,
+     "valor_mercado": 0.0,
      "prob_aprendida": 0.703
     }
    ],
@@ -1358,6 +1378,32 @@
      "prob_aprendida": 0.656
     },
     {
+     "partido_id": 1563264,
+     "fecha": "2026-11-22T13:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Burnley",
+     "visitante": "Blackburn",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Burnley–Blackburn",
+     "cuota": 1.67,
+     "frecuencia": 0.75,
+     "ventaja": 0.151,
+     "detalle": "Burnley 8/10 · Blackburn 7/10",
+     "valor_mercado": 0.012,
+     "prob_xg": 0.626,
+     "xg_esperado": 3.13,
+     "posiciones": [
+      22,
+      13,
+      24
+     ],
+     "contexto": "total_lejos_abajo",
+     "prob_aprendida": 0.616
+    },
+    {
      "partido_id": 1575227,
      "fecha": "2026-11-22T17:30",
      "competicion": "Bundesliga",
@@ -1485,6 +1531,32 @@
      "prob_aprendida": 0.656
     },
     {
+     "partido_id": 1563264,
+     "fecha": "2026-11-22T13:00",
+     "competicion": "Championship",
+     "liga_id": 40,
+     "local": "Burnley",
+     "visitante": "Blackburn",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Burnley–Blackburn",
+     "cuota": 1.67,
+     "frecuencia": 0.75,
+     "ventaja": 0.151,
+     "detalle": "Burnley 8/10 · Blackburn 7/10",
+     "valor_mercado": 0.012,
+     "prob_xg": 0.626,
+     "xg_esperado": 3.13,
+     "posiciones": [
+      22,
+      13,
+      24
+     ],
+     "contexto": "total_lejos_abajo",
+     "prob_aprendida": 0.616
+    },
+    {
      "partido_id": 1575227,
      "fecha": "2026-11-22T17:30",
      "competicion": "Bundesliga",
@@ -1512,11 +1584,7 @@
    "combis": {
     "segura": null,
     "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {
-    "atreve": {
+    "loca": {
      "picks": [
       {
        "partido_id": 1557473,
@@ -1542,6 +1610,112 @@
        "contexto": "mejor_abismo_medio",
        "prob_aprendida": 0.69
       },
+      {
+       "partido_id": 1550199,
+       "fecha": "2026-11-22T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Bologna",
+       "visitante": "Udinese",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Bologna gana alguna de las dos partes",
+       "cuota": 1.44,
+       "frecuencia": 0.75,
+       "ventaja": 0.056,
+       "detalle": "Bologna 7/10 · Udinese 8/10",
+       "valor_mercado": 0.014,
+       "posiciones": [
+        8,
+        20,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.702
+      },
+      {
+       "partido_id": 1575224,
+       "fecha": "2026-11-22T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "FC Augsburg",
+       "visitante": "FSV Mainz 05",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05",
+       "cuota": 1.62,
+       "frecuencia": 0.9,
+       "ventaja": 0.283,
+       "detalle": "FC Augsburg 10/10 · FSV Mainz 05 8/10",
+       "valor_mercado": -0.03,
+       "posiciones": [
+        14,
+        12,
+        18
+       ],
+       "contexto": "total_igualado_abajo",
+       "prob_aprendida": 0.656
+      },
+      {
+       "partido_id": 1563264,
+       "fecha": "2026-11-22T13:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Burnley",
+       "visitante": "Blackburn",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Burnley–Blackburn",
+       "cuota": 1.67,
+       "frecuencia": 0.75,
+       "ventaja": 0.151,
+       "detalle": "Burnley 8/10 · Blackburn 7/10",
+       "valor_mercado": 0.012,
+       "prob_xg": 0.626,
+       "xg_esperado": 3.13,
+       "posiciones": [
+        22,
+        13,
+        24
+       ],
+       "contexto": "total_lejos_abajo",
+       "prob_aprendida": 0.616
+      },
+      {
+       "partido_id": 1575227,
+       "fecha": "2026-11-22T17:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Werder Bremen",
+       "visitante": "Hamburger SV",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Werder Bremen 8/10 · Hamburger SV 7/10",
+       "valor_mercado": -0.017,
+       "posiciones": [
+        6,
+        11,
+        18
+       ],
+       "contexto": "total_lejos_medio",
+       "prob_aprendida": 0.617
+      }
+     ],
+     "cuota": 12.33
+    },
+    "doble": null
+   },
+   "estilos": {
+    "atreve": {
+     "picks": [
       {
        "partido_id": 1575224,
        "fecha": "2026-11-22T15:30",
@@ -1593,9 +1767,33 @@
        ],
        "contexto": "mejor_abismo_medio",
        "prob_aprendida": 0.666
+      },
+      {
+       "partido_id": 1563264,
+       "fecha": "2026-11-22T13:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Burnley",
+       "visitante": "Blackburn",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Blackburn gana alguna de las dos partes",
+       "cuota": 2.38,
+       "frecuencia": 0.7,
+       "ventaja": 0.28,
+       "detalle": "Burnley 8/10 · Blackburn 6/10",
+       "valor_mercado": 0.082,
+       "posiciones": [
+        22,
+        13,
+        24
+       ],
+       "contexto": "mejor_lejos_abajo",
+       "prob_aprendida": 0.471
       }
      ],
-     "cuota": 6.13
+     "cuota": 7.97
     }
    },
    "combis_partido": []

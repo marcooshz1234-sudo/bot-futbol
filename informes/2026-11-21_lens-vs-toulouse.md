@@ -1,7 +1,7 @@
 # Lens – Toulouse
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_

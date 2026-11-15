@@ -1,10 +1,52 @@
 # Wolves – Charlton
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 15/11 08:09_
+
+- **1X2:** 1 **1.30**  ·  X **5.00**  ·  2 **8.00**
+- **Doble oportunidad:** 1X **1.08**  ·  12 **1.17**  ·  X2 **3.40**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.73** · menos **2.00**
+    - 1,5: más **4.50** · menos **1.18**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.62**  ·  2 **7.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **8.00**
+- **Win Both Halves:** 1 **3.00**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.20**  ·  Draw/No **17.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.88**
+- **Home Player Shots On Target Total:** Adam Armstrong - 1 **1.28**  ·  Marshall Munetsi - 1 **1.53**  ·  Fernando Lopez - 1 **1.25**  ·  Mateus Mane - 1 **1.40**  ·  Rodrigo Gomes - 1 **1.44**  ·  Rafiki Said - 1 **1.40**  ·  Jordan James - 1 **1.62**  ·  Jeanricner Bellegarde - 1 **1.40**  ·  Tawanda Chirewa - 1 **1.62**  ·  Boubacar Traore - 1 **1.83**  ·  Ladislav Krejci - 1 **2.10**  ·  Tommy Doyle - 1 **2.10**  ·  Yerson Mosquera - 1 **2.62**  ·  Hugo Bueno - 1 **3.00**  ·  Kieran Trippier - 1 **2.62**  ·  Andre Trindade - 1 **2.50**  ·  Jackson Tchatchoua - 1 **2.62**  ·  Nasser Djiga - 1 **3.50**  ·  Toti Gomes - 1 **3.50**  ·  Adam Armstrong - 2 **2.25**  ·  Marshall Munetsi - 2 **3.50**  ·  Fernando Lopez - 2 **2.10**  ·  Mateus Mane - 2 **3.00**  ·  Rodrigo Gomes - 2 **3.25**  ·  Rafiki Said - 2 **2.75**  ·  Jordan James - 2 **4.00**  ·  Jeanricner Bellegarde - 2 **3.00**  ·  Tawanda Chirewa - 2 **4.00**  ·  Boubacar Traore - 2 **6.00**  ·  Ladislav Krejci - 2 **7.00**  ·  Tommy Doyle - 2 **7.00**  ·  Yerson Mosquera - 2 **11.00**  ·  Hugo Bueno - 2 **15.00**  ·  Kieran Trippier - 2 **11.00**  ·  Andre Trindade - 2 **10.00**  ·  Jackson Tchatchoua - 2 **11.00**  ·  Nasser Djiga - 2 **19.00**  ·  Toti Gomes - 2 **19.00**  ·  Adam Armstrong - 3 **5.00**  ·  Marshall Munetsi - 3 **11.00**  ·  Fernando Lopez - 3 **4.50**  ·  Mateus Mane - 3 **8.00**  ·  Rodrigo Gomes - 3 **9.00**  ·  Rafiki Said - 3 **7.00**  ·  Jordan James - 3 **13.00**  ·  Jeanricner Bellegarde - 3 **8.00**  ·  Tawanda Chirewa - 3 **13.00**  ·  Boubacar Traore - 3 **21.00**  ·  Ladislav Krejci - 3 **21.00**  ·  Tommy Doyle - 3 **21.00**  ·  Adam Armstrong - 4 **13.00**  ·  Fernando Lopez - 4 **13.00**  ·  Mateus Mane - 4 **21.00**  ·  Rodrigo Gomes - 4 **21.00**  ·  Rafiki Said - 4 **21.00**  ·  Jeanricner Bellegarde - 4 **21.00**  ·  Ghislain Konan - 1 **3.50**  ·  Ghislain Konan - 2 **19.00**  ·  Sean Neave - 1 **1.25**  ·  Sean Neave - 2 **2.10**  ·  Sean Neave - 3 **4.50**  ·  Sean Neave - 4 **13.00**  ·  Bertrand Traore - 1 **1.44**  ·  Bertrand Traore - 2 **3.25**  ·  Bertrand Traore - 3 **9.00**  ·  Bertrand Traore - 4 **21.00**  ·  Luke Rawlings - 1 **3.50**  ·  Luke Rawlings - 2 **19.00**
+- **Away Player Shots On Target Total:** Jordan James **34.00**  ·  Hugo Bueno **34.00**  ·  Nasser Djiga **11.00**  ·  Ladislav Krejci **7.00**  ·  Harvey Knibbs **41.00**  ·  Tyler Bindon **29.00**  ·  Charlie Kelman **17.00**  ·  Timothy Ouma **51.00**  ·  Collins Sichenje **23.00**  ·  Jackson Tchatchoua **51.00**  ·  Junior Nkeng **81.00**  ·  Karlan Ahearne-Grant **34.00**  ·  Millenic Alli **34.00**  ·  Joe Rankin-Costello **34.00**  ·  Danny McNamara **201.00**  ·  Marshall Munetsi **8.00**  ·  Nathaniel Chalobah **41.00**  ·  Tawanda Chirewa **34.00**  ·  Amari'i Bell **151.00**  ·  Matt Godden **21.00**  ·  Miles Leaburn **17.00**  ·  Robert Apter **41.00**  ·  Sonny Carey **26.00**  ·  Tyreece Campbell **29.00**  ·  Conor Coventry **201.00**  ·  Josh Edwards **41.00**  ·  Lloyd Jones **21.00**  ·  Kayne Ramsay **81.00**  ·  Jeanricner Bellegarde **13.00**  ·  Boubacar Traore **21.00**  ·  Bertrand Traore **34.00**  ·  Ivan Mesik **19.00**  ·  Billy Koumetio **17.00**  ·  Micah Mbick **34.00**  ·  Yerson Mosquera **8.50**  ·  Kieran Trippier **51.00**  ·  Oliver Skipp **126.00**  ·  Fernando Lopez **13.00**  ·  Tommy Doyle **41.00**  ·  Rodrigo Gomes **51.00**  ·  Toti Gomes **15.00**  ·  Adam Armstrong **19.00**  ·  Rafiki Said **13.00**  ·  Luke Rawlings **15.00**  ·  Sean Neave **10.00**  ·  Andre Trindade **51.00**  ·  Ghislain Konan **15.00**  ·  Mateus Mane **13.00**
+- **Home Player Shots:** Adam Armstrong - 1 **1.02**  ·  Marshall Munetsi - 1 **1.05**  ·  Fernando Lopez - 1 **1.01**  ·  Mateus Mane - 1 **1.03**  ·  Rodrigo Gomes - 1 **1.04**  ·  Rafiki Said - 1 **1.04**  ·  Jordan James - 1 **1.06**  ·  Jeanricner Bellegarde - 1 **1.04**  ·  Tawanda Chirewa - 1 **1.08**  ·  Boubacar Traore - 1 **1.12**  ·  Ladislav Krejci - 1 **1.20**  ·  Tommy Doyle - 1 **1.20**  ·  Yerson Mosquera - 1 **1.28**  ·  Hugo Bueno - 1 **1.50**  ·  Kieran Trippier - 1 **1.40**  ·  Andre Trindade - 1 **1.33**  ·  Jackson Tchatchoua - 1 **1.40**  ·  Nasser Djiga - 1 **1.67**  ·  Toti Gomes - 1 **1.67**  ·  Adam Armstrong - 2 **1.14**  ·  Marshall Munetsi - 2 **1.28**  ·  Fernando Lopez - 2 **1.08**  ·  Mateus Mane - 2 **1.17**  ·  Rodrigo Gomes - 2 **1.22**  ·  Rafiki Said - 2 **1.20**  ·  Jordan James - 2 **1.33**  ·  Jeanricner Bellegarde - 2 **1.22**  ·  Tawanda Chirewa - 2 **1.40**  ·  Boubacar Traore - 2 **1.57**  ·  Ladislav Krejci - 2 **1.83**  ·  Tommy Doyle - 2 **1.83**  ·  Yerson Mosquera - 2 **2.20**  ·  Hugo Bueno - 2 **3.25**  ·  Kieran Trippier - 2 **2.62**  ·  Andre Trindade - 2 **2.38**  ·  Jackson Tchatchoua - 2 **2.62**  ·  Nasser Djiga - 2 **4.00**  ·  Toti Gomes - 2 **4.00**  ·  Adam Armstrong - 3 **1.44**  ·  Marshall Munetsi - 3 **1.83**  ·  Fernando Lopez - 3 **1.30**  ·  Mateus Mane - 3 **1.53**  ·  Rodrigo Gomes - 3 **1.67**  ·  Rafiki Said - 3 **1.62**  ·  Jordan James - 3 **1.91**  ·  Jeanricner Bellegarde - 3 **1.67**  ·  Tawanda Chirewa - 3 **2.20**  ·  Boubacar Traore - 3 **2.62**  ·  Ladislav Krejci - 3 **3.75**  ·  Tommy Doyle - 3 **3.75**  ·  Yerson Mosquera - 3 **4.50**  ·  Hugo Bueno - 3 **8.00**  ·  Kieran Trippier - 3 **6.00**  ·  Andre Trindade - 3 **5.50**  ·  Jackson Tchatchoua - 3 **6.00**  ·  Nasser Djiga - 3 **11.00**  ·  Toti Gomes - 3 **11.00**  ·  Adam Armstrong - 4 **2.00**  ·  Marshall Munetsi - 4 **3.00**  ·  Fernando Lopez - 4 **1.73**  ·  Mateus Mane - 4 **2.20**  ·  Rodrigo Gomes - 4 **2.62**  ·  Rafiki Said - 4 **2.50**  ·  Jordan James - 4 **3.25**  ·  Jeanricner Bellegarde - 4 **2.62**  ·  Tawanda Chirewa - 4 **3.75**  ·  Boubacar Traore - 4 **5.00**  ·  Ladislav Krejci - 4 **8.00**  ·  Tommy Doyle - 4 **8.00**  ·  Yerson Mosquera - 4 **11.00**  ·  Hugo Bueno - 4 **21.00**  ·  Kieran Trippier - 4 **15.00**  ·  Andre Trindade - 4 **13.00**  ·  Jackson Tchatchoua - 4 **15.00**  ·  Nasser Djiga - 4 **21.00**  ·  Toti Gomes - 4 **21.00**  ·  Adam Armstrong - 5 **3.40**  ·  Marshall Munetsi - 5 **5.50**  ·  Fernando Lopez - 5 **2.50**  ·  Mateus Mane - 5 **3.75**  ·  Rodrigo Gomes - 5 **4.33**  ·  Rafiki Said - 5 **4.00**  ·  Jordan James - 5 **6.00**  ·  Jeanricner Bellegarde - 5 **4.50**  ·  Tawanda Chirewa - 5 **8.00**  ·  Boubacar Traore - 5 **11.00**  ·  Ladislav Krejci - 5 **17.00**  ·  Tommy Doyle - 5 **17.00**  ·  Adam Armstrong - 6 **5.50**  ·  Marshall Munetsi - 6 **11.00**  ·  Fernando Lopez - 6 **4.00**  ·  Mateus Mane - 6 **6.50**  ·  Rodrigo Gomes - 6 **8.00**  ·  Rafiki Said - 6 **8.00**  ·  Jordan James - 6 **13.00**  ·  Jeanricner Bellegarde - 6 **9.00**  ·  Tawanda Chirewa - 6 **15.00**  ·  Adam Armstrong - 7 **11.00**  ·  Marshall Munetsi - 7 **21.00**  ·  Fernando Lopez - 7 **7.00**  ·  Mateus Mane - 7 **13.00**  ·  Rodrigo Gomes - 7 **17.00**  ·  Rafiki Said - 7 **15.00**  ·  Adam Armstrong - 8 **19.00**  ·  Mateus Mane - 8 **21.00**  ·  Ghislain Konan - 1 **1.67**  ·  Ghislain Konan - 2 **4.00**  ·  Ghislain Konan - 3 **11.00**  ·  Sean Neave - 1 **1.02**  ·  Sean Neave - 2 **1.12**  ·  Sean Neave - 3 **1.40**  ·  Sean Neave - 4 **1.91**  ·  Sean Neave - 5 **3.00**  ·  Sean Neave - 6 **5.00**  ·  Sean Neave - 7 **10.00**  ·  Sean Neave - 8 **17.00**  ·  Bertrand Traore - 1 **1.05**  ·  Bertrand Traore - 2 **1.28**  ·  Bertrand Traore - 3 **1.80**  ·  Bertrand Traore - 4 **3.00**  ·  Bertrand Traore - 5 **5.50**  ·  Bertrand Traore - 6 **10.00**  ·  Bertrand Traore - 7 **19.00**  ·  Boubacar Traore - 6 **21.00**  ·  Ghislain Konan - 4 **21.00**  ·  Ladislav Krejci - 6 **21.00**  ·  Jordan James - 7 **21.00**  ·  Jeanricner Bellegarde - 7 **17.00**  ·  Fernando Lopez - 8 **13.00**  ·  Rodrigo Gomes - 8 **21.00**  ·  Fernando Lopez - 9 **21.00**  ·  Rafiki Said - 8 **21.00**  ·  Tommy Doyle - 6 **21.00**  ·  Yerson Mosquera - 5 **21.00**  ·  Luke Rawlings - 1 **1.67**  ·  Luke Rawlings - 2 **4.00**  ·  Luke Rawlings - 3 **11.00**  ·  Luke Rawlings - 4 **21.00**
+- **Away Player Shots:** Sonny Carey - 1 **1.33**  ·  Charlie Kelman - 1 **1.17**  ·  Matt Godden - 1 **1.17**  ·  Miles Leaburn - 1 **1.20**  ·  Karlan Ahearne-Grant - 1 **1.12**  ·  Millenic Alli - 1 **1.30**  ·  Harvey Knibbs - 1 **1.40**  ·  Micah Mbick - 1 **1.44**  ·  Tyreece Campbell - 1 **1.12**  ·  Joe Rankin-Costello - 1 **1.57**  ·  Robert Apter - 1 **1.62**  ·  Timothy Ouma - 1 **2.25**  ·  Billy Koumetio - 1 **1.73**  ·  Lloyd Jones - 1 **1.83**  ·  Nathaniel Chalobah - 1 **2.62**  ·  Collins Sichenje - 1 **2.62**  ·  Conor Coventry - 1 **2.62**  ·  Ivan Mesik - 1 **2.25**  ·  Kayne Ramsay - 1 **2.62**  ·  Danny McNamara - 1 **3.00**  ·  Josh Edwards - 1 **2.62**  ·  Amari'i Bell - 1 **3.00**  ·  Sonny Carey - 2 **2.38**  ·  Charlie Kelman - 2 **1.67**  ·  Matt Godden - 2 **1.67**  ·  Miles Leaburn - 2 **1.83**  ·  Karlan Ahearne-Grant - 2 **1.57**  ·  Millenic Alli - 2 **2.25**  ·  Harvey Knibbs - 2 **2.62**  ·  Micah Mbick - 2 **3.00**  ·  Tyreece Campbell - 2 **1.57**  ·  Joe Rankin-Costello - 2 **3.50**  ·  Robert Apter - 2 **3.50**  ·  Timothy Ouma - 2 **8.00**  ·  Billy Koumetio - 2 **4.33**  ·  Lloyd Jones - 2 **5.00**  ·  Nathaniel Chalobah - 2 **9.00**  ·  Collins Sichenje - 2 **9.00**  ·  Conor Coventry - 2 **9.00**  ·  Ivan Mesik - 2 **8.00**  ·  Kayne Ramsay - 2 **9.00**  ·  Danny McNamara - 2 **11.00**  ·  Josh Edwards - 2 **9.00**  ·  Amari'i Bell - 2 **11.00**  ·  Sonny Carey - 3 **5.50**  ·  Charlie Kelman - 3 **3.00**  ·  Matt Godden - 3 **3.00**  ·  Miles Leaburn - 3 **3.75**  ·  Karlan Ahearne-Grant - 3 **2.62**  ·  Millenic Alli - 3 **5.00**  ·  Harvey Knibbs - 3 **6.00**  ·  Micah Mbick - 3 **7.00**  ·  Tyreece Campbell - 3 **2.62**  ·  Joe Rankin-Costello - 3 **10.00**  ·  Robert Apter - 3 **10.00**  ·  Timothy Ouma - 3 **21.00**  ·  Billy Koumetio - 3 **13.00**  ·  Lloyd Jones - 3 **15.00**  ·  Nathaniel Chalobah - 3 **21.00**  ·  Collins Sichenje - 3 **21.00**  ·  Conor Coventry - 3 **21.00**  ·  Ivan Mesik - 3 **21.00**  ·  Kayne Ramsay - 3 **21.00**  ·  Josh Edwards - 3 **21.00**  ·  Sonny Carey - 4 **13.00**  ·  Charlie Kelman - 4 **6.00**  ·  Matt Godden - 4 **6.00**  ·  Miles Leaburn - 4 **8.00**  ·  Karlan Ahearne-Grant - 4 **5.00**  ·  Millenic Alli - 4 **11.00**  ·  Harvey Knibbs - 4 **15.00**  ·  Micah Mbick - 4 **19.00**  ·  Tyreece Campbell - 4 **5.00**  ·  Joe Rankin-Costello - 4 **21.00**  ·  Robert Apter - 4 **21.00**  ·  Sonny Carey - 5 **21.00**  ·  Charlie Kelman - 5 **13.00**  ·  Matt Godden - 5 **13.00**  ·  Miles Leaburn - 5 **17.00**  ·  Karlan Ahearne-Grant - 5 **11.00**  ·  Millenic Alli - 5 **21.00**  ·  Tyreece Campbell - 5 **11.00**  ·  Charlie Kelman - 6 **21.00**  ·  Matt Godden - 6 **21.00**  ·  Karlan Ahearne-Grant - 6 **21.00**  ·  Tyreece Campbell - 6 **21.00**  ·  Tyler Bindon - 1 **2.62**  ·  Tyler Bindon - 2 **9.00**  ·  Junior Nkeng - 2 **4.00**  ·  Junior Nkeng - 1 **1.67**  ·  Oliver Skipp - 1 **2.25**  ·  Oliver Skipp - 2 **8.00**  ·  Junior Nkeng - 3 **11.00**  ·  Oliver Skipp - 3 **21.00**  ·  Tyler Bindon - 3 **21.00**  ·  Alan Mwamba - 1 **1.83**  ·  Alan Mwamba - 2 **5.00**  ·  Alan Mwamba - 3 **15.00**
+- **Anytime Goal Scorer:** Jordan James **3.60**  ·  Hugo Bueno **8.00**  ·  Nasser Djiga **9.00**  ·  Ladislav Krejci **5.00**  ·  Harvey Knibbs **6.50**  ·  Tyler Bindon **17.00**  ·  Charlie Kelman **4.50**  ·  Timothy Ouma **13.00**  ·  Collins Sichenje **17.00**  ·  Jackson Tchatchoua **6.50**  ·  Junior Nkeng **9.00**  ·  Alan Mwamba **11.00**  ·  Karlan Ahearne-Grant **4.50**  ·  Millenic Alli **6.50**  ·  Joe Rankin-Costello **8.00**  ·  Danny McNamara **21.00**  ·  Marshall Munetsi **3.60**  ·  Nathaniel Chalobah **17.00**  ·  Tawanda Chirewa **3.60**  ·  Amari'i Bell **21.00**  ·  Matt Godden **4.50**  ·  Miles Leaburn **5.00**  ·  Robert Apter **9.00**  ·  Sonny Carey **6.00**  ·  Tyreece Campbell **4.50**  ·  Conor Coventry **17.00**  ·  Josh Edwards **17.00**  ·  Lloyd Jones **11.00**  ·  Kayne Ramsay **17.00**  ·  Jeanricner Bellegarde **2.75**  ·  Boubacar Traore **4.50**  ·  Bertrand Traore **3.00**  ·  Ivan Mesik **13.00**  ·  Billy Koumetio **11.00**  ·  Micah Mbick **7.00**  ·  Yerson Mosquera **6.50**  ·  Kieran Trippier **6.50**  ·  Oliver Skipp **13.00**  ·  Fernando Lopez **2.20**  ·  Tommy Doyle **5.00**  ·  Rodrigo Gomes **3.25**  ·  Toti Gomes **9.00**  ·  Adam Armstrong **2.30**  ·  Rafiki Said **2.62**  ·  Luke Rawlings **9.00**  ·  Sean Neave **2.20**  ·  Andre Trindade **6.50**  ·  Ghislain Konan **9.00**  ·  Mateus Mane **2.75**
+- **Player to Score or Assist:** Jordan James **1.95**  ·  Hugo Bueno **2.88**  ·  Nasser Djiga **6.50**  ·  Ladislav Krejci **3.25**  ·  Harvey Knibbs **4.00**  ·  Tyler Bindon **12.00**  ·  Charlie Kelman **3.40**  ·  Timothy Ouma **7.00**  ·  Collins Sichenje **12.00**  ·  Jackson Tchatchoua **2.62**  ·  Junior Nkeng **5.00**  ·  Alan Mwamba **6.50**  ·  Karlan Ahearne-Grant **3.10**  ·  Millenic Alli **4.00**  ·  Joe Rankin-Costello **4.75**  ·  Danny McNamara **9.00**  ·  Marshall Munetsi **2.20**  ·  Nathaniel Chalobah **9.50**  ·  Tawanda Chirewa **2.20**  ·  Amari'i Bell **13.00**  ·  Matt Godden **3.60**  ·  Miles Leaburn **3.60**  ·  Robert Apter **4.33**  ·  Sonny Carey **4.33**  ·  Tyreece Campbell **3.10**  ·  Conor Coventry **7.00**  ·  Josh Edwards **6.00**  ·  Lloyd Jones **8.00**  ·  Kayne Ramsay **10.00**  ·  Jeanricner Bellegarde **1.80**  ·  Boubacar Traore **2.88**  ·  Bertrand Traore **1.73**  ·  Ivan Mesik **7.00**  ·  Billy Koumetio **6.50**  ·  Micah Mbick **4.75**  ·  Yerson Mosquera **4.75**  ·  Kieran Trippier **2.30**  ·  Oliver Skipp **7.00**  ·  Fernando Lopez **1.53**  ·  Tommy Doyle **2.50**  ·  Rodrigo Gomes **2.10**  ·  Toti Gomes **4.00**  ·  Adam Armstrong **1.67**  ·  Rafiki Said **1.80**  ·  Luke Rawlings **5.50**  ·  Sean Neave **1.83**  ·  Andre Trindade **3.00**  ·  Ghislain Konan **5.50**  ·  Mateus Mane **1.91**
 
 ## Estadísticas de equipo
 | | Wolves (total) | Wolves en casa | Charlton (total) | Charlton fuera |
@@ -141,4 +183,39 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,92 · visitante 0,59 · córners esperados 9,8._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 11% | 11% | 11% | 8.00 | -12% |
+| 1X2: X | 20% | 18% | 19% | 5.00 | -3% |
+| 1X2: 1 | 69% | 70% | 70% | 1.30 | -9% |
+| Doble oportunidad: X2 | 31% | 28% | 30% | 3.40 | +1% |
+| Doble oportunidad: 12 | 80% | 82% | 81% | 1.17 | -5% |
+| Doble oportunidad: 1X | 89% | 89% | 89% | 1.08 | -4% |
+| Ambos marcan: No | 62% | 50% | 56% | 1.83 | +2% |
+| Ambos marcan: Sí | 38% | 50% | 44% | 1.83 | -19% |
+| Goles más/menos: Más de 2.5 | 46% | 60% | 53% | 1.57 | -17% |
+| Goles más/menos: Más de 3.5 | 24% | 40% | 32% | 2.38 | -24% |
+| Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -29% |
+| Goles más/menos: Menos de 2.5 | 54% | 40% | 47% | 2.38 | +12% |
+| Goles más/menos: Menos de 3.5 | 76% | 60% | 68% | 1.57 | +7% |
+| Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.22 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 30% | 41% | 35% | 2.25 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 30% | 3.50 | +6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 59% | 65% | 1.57 | +1% |
+| Goles del local: Más de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
+| Goles del local: Más de 2.5 | 30% | 42% | 36% | 2.20 | -20% |
+| Goles del local: Más de 3.5 | 13% | 23% | 18% | 4.00 | -28% |
+| Goles del local: Menos de 1.5 | 43% | 34% | 38% | 2.75 | +5% |
+| Goles del local: Menos de 2.5 | 70% | 58% | 64% | 1.62 | +3% |
+| Goles del local: Menos de 3.5 | 87% | 77% | 82% | 1.22 | -0% |
+| Goles del visitante: Más de 0.5 | 45% | 54% | 49% | 1.73 | -15% |
+| Goles del visitante: Más de 1.5 | 12% | 21% | 16% | 4.50 | -26% |
+| Goles del visitante: Menos de 0.5 | 55% | 46% | 51% | 2.00 | +2% |
+| Goles del visitante: Menos de 1.5 | 88% | 79% | 84% | 1.18 | -1% |
+| 1X2 descanso: X | 41% | 35% | 38% | 2.62 | -0% |
+| 1X2 descanso: 1 | 48% | 53% | 50% | 1.73 | -13% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

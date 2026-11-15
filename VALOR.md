@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 15/11/2026 02:18 (hora España)._
+_Actualizado el 15/11/2026 08:12 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -27,10 +27,10 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 18:30 | [FC Schalke 04 – VfB Stuttgart](informes/2026-11-21_fc-schalke-04-vs-vfb-stuttgart.md) | Goles del visitante: Menos de 1.5 | 2.38 | 52% | 39% | 46% | **+9%** |
 | 20:45 | [Lille – Lyon](informes/2026-11-21_lille-vs-lyon.md) | Goles más/menos: Menos de 1.5 | 3.40 | 41% | 28% | 35% | **+18%** |
 | 20:45 | [Lille – Lyon](informes/2026-11-21_lille-vs-lyon.md) | Goles del local: Menos de 0.5 | 3.50 | 38% | 27% | 32% | **+13%** |
-| 20:45 | [Lens – Toulouse](informes/2026-11-21_lens-vs-toulouse.md) | 1X2: 2 | 3.80 | 45% | 25% | 35% | **+32%** |
-| 20:45 | [Lens – Toulouse](informes/2026-11-21_lens-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.62 | 57% | 35% | 46% | **+22%** |
 | 20:45 | [Strasbourg – Stade Brestois 29](informes/2026-11-21_strasbourg-vs-stade-brestois-29.md) | 1X2: 2 | 2.88 | 50% | 32% | 41% | **+19%** |
 | 20:45 | [Strasbourg – Stade Brestois 29](informes/2026-11-21_strasbourg-vs-stade-brestois-29.md) | 1X2 descanso: 2 | 3.40 | 38% | 27% | 33% | **+11%** |
+| 20:45 | [Lens – Toulouse](informes/2026-11-21_lens-vs-toulouse.md) | 1X2: 2 | 3.80 | 45% | 25% | 35% | **+32%** |
+| 20:45 | [Lens – Toulouse](informes/2026-11-21_lens-vs-toulouse.md) | Goles del visitante: Más de 1.5 | 2.62 | 57% | 35% | 46% | **+22%** |
 | 21:00 | [Real Madrid – Celta Vigo](informes/2026-11-21_real-madrid-vs-celta-vigo.md) | Goles del local: Menos de 1.5 | 4.00 | 39% | 23% | 31% | **+25%** |
 | 21:00 | [Real Madrid – Celta Vigo](informes/2026-11-21_real-madrid-vs-celta-vigo.md) | Goles más/menos: Menos de 2.5 | 3.00 | 50% | 32% | 41% | **+22%** |
 

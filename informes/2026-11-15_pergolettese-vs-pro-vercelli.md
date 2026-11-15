@@ -1,7 +1,7 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:12_

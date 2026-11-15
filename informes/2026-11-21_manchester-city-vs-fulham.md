@@ -1,7 +1,7 @@
 # Manchester City – Fulham
 **Premier League** · Regular Season - 11 · 21/11/2026 13:30 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_

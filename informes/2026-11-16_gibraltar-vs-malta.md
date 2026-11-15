@@ -1,7 +1,7 @@
 # Gibraltar – Malta
 **Nations League** · League D - 6 · 16/11/2026 20:45 (hora España) · Europa Sports Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:12_

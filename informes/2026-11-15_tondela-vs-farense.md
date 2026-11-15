@@ -1,7 +1,7 @@
 # Tondela – Farense
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Estádio João Cardoso
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:11_

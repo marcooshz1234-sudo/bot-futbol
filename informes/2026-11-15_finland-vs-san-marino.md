@@ -1,7 +1,7 @@
 # Finland – San Marino
 **Nations League** · League C - 6 · 15/11/2026 18:00 (hora España) · Bolt Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:12_
