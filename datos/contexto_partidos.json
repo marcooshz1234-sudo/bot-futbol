@@ -1,1 +1,198 @@
-{}
+{
+ "1644369": {
+  "local": {
+   "nombre": "Portugalete",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 1",
+   "ultimos": [
+    "V",
+    "V",
+    "E",
+    "E",
+    "E",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Real Unión",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 1",
+   "ultimos": [
+    "V",
+    "D",
+    "D",
+    "V",
+    "E",
+    "E"
+   ]
+  },
+  "sede": "Estadio La Florida",
+  "estadio_local": "Estadio La Florida",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
+ },
+ "1644384": {
+  "local": {
+   "nombre": "Utebo",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 2",
+   "ultimos": [
+    "D",
+    "V",
+    "E",
+    "E",
+    "D",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Sabadell",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "E",
+    "D",
+    "E",
+    "D",
+    "V",
+    "E"
+   ]
+  },
+  "sede": "Campo Santa Ana",
+  "estadio_local": "Estadio Santa Ana",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
+ },
+ "1644346": {
+  "local": {
+   "nombre": "Badajoz",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 4",
+   "ultimos": [
+    "E",
+    "E",
+    "E",
+    "V",
+    "V",
+    "E"
+   ]
+  },
+  "visitante": {
+   "nombre": "Tenerife",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "E",
+    "E",
+    "E",
+    "E",
+    "D"
+   ]
+  },
+  "sede": "Estadio Nuevo Vivero",
+  "estadio_local": "Estadio Municipal Nuevo Vivero",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
+ },
+ "1644334": {
+  "local": {
+   "nombre": "Alcoyano",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 3",
+   "ultimos": [
+    "D",
+    "V",
+    "E",
+    "D",
+    "D",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "Mallorca",
+   "nivel": 2,
+   "liga": "Segunda División",
+   "ultimos": [
+    "E",
+    "V",
+    "E",
+    "E",
+    "V"
+   ]
+  },
+  "sede": "Estadio El Collao",
+  "estadio_local": "Campo Municipal El Collao",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
+ },
+ "1644353": {
+  "local": {
+   "nombre": "Deportiva Minera",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 3",
+   "ultimos": [
+    "D",
+    "V",
+    "V",
+    "V",
+    "V",
+    "V"
+   ]
+  },
+  "visitante": {
+   "nombre": "FC Cartagena",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 2",
+   "ultimos": [
+    "E",
+    "D",
+    "D",
+    "V",
+    "E",
+    "V"
+   ]
+  },
+  "sede": "Estadio Municipal Angel Celdran",
+  "estadio_local": "Estadio Municipal Ángel Celdrán",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
+ },
+ "1644373": {
+  "local": {
+   "nombre": "Reddis",
+   "nivel": 4,
+   "liga": "Segunda División RFEF - Group 2",
+   "ultimos": [
+    "V",
+    "D",
+    "E",
+    "E",
+    "V",
+    "D"
+   ]
+  },
+  "visitante": {
+   "nombre": "Barakaldo",
+   "nivel": 3,
+   "liga": "Primera División RFEF - Group 1",
+   "ultimos": [
+    "E",
+    "V",
+    "E",
+    "E",
+    "V",
+    "D"
+   ]
+  },
+  "sede": "Estadi Municipal de Reus",
+  "estadio_local": "Estadio Camp Nou Municipal",
+  "local_fuera_de_su_campo": false,
+  "en_campo_visitante": false,
+  "aplazamientos": 0
+ }
+}

@@ -1,10 +1,10 @@
 # Lazio – Lecce
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **3.00**
@@ -181,7 +181,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | C. Ndaba | D | 4 | 210 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,0._
+_Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@ _Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,0._
 | Goles del visitante: Más de 1.5 | 22% | 22% | 22% | 4.33 | -5% |
 | Goles del visitante: Menos de 0.5 | 41% | 44% | 43% | 2.10 | -10% |
 | Goles del visitante: Menos de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
-| 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -8% |
+| 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -7% |
 | 1X2 descanso: 1 | 51% | 51% | 51% | 1.80 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,18 +1,18 @@
 # Belarus – Albania
 **Nations League** · League C - 6 · 15/11/2026 18:00 (hora España) · Illovszky Rudolf Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **4.20**  ·  X **3.30**  ·  2 **1.90**
-- **Doble oportunidad:** 1X **1.83**  ·  12 **1.30**  ·  X2 **1.22**
+- **Doble oportunidad:** 1X **1.83**  ·  12 **1.33**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **7.50**
+    - 0,5: más **1.08** · menos **7.00**
     - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.30** · menos **1.60**
+    - 2,5: más **2.35** · menos **1.57**
     - 3,5: más **4.33** · menos **1.20**
     - 4,5: más **8.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
@@ -20,8 +20,8 @@ _Actualizadas: 14/11 19:50_
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **8.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **1.62** · menos **2.20**
-    - 1,5: más **4.00** · menos **1.22**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
     - 2,5: más **9.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
@@ -38,9 +38,9 @@ _Actualizadas: 14/11 19:50_
 - **To Win Either Half:** 1 **2.62**  ·  2 **1.53**
 - **To Score In Both Halves By Teams:** 1 **7.00**  ·  2 **3.50**
 - **Win Both Halves:** 1 **19.00**  ·  2 **6.00**
-- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **5.00**  ·  Home/No **6.50**  ·  Draw/No **7.50**  ·  Away/No **2.75**
+- **Results/Both Teams Score:** Home/Yes **10.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **5.00**  ·  Home/No **6.50**  ·  Draw/No **7.00**  ·  Away/No **2.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.95**
-- **Anytime Goal Scorer:** Naser Aliji **17.00**  ·  Juljan Shehu **7.50**  ·  Kirill Zinovich **9.00**  ·  Myrto Uzuni **3.00**  ·  Arlind Ajeti **15.00**  ·  Qazim Laci **5.50**  ·  Taulant Seferi **3.40**  ·  Mario Mitaj **11.00**  ·  Mirlind Daku **3.25**  ·  Ernest Muci **4.33**  ·  Arber Hoxha **4.33**  ·  Zakhar Volkov **11.00**  ·  Valeri Gromyko **4.75**  ·  Kirill Pechenin **15.00**  ·  Max Ebong **6.50**  ·  German Barkovsky **4.00**  ·  Artem Kontsevoy **6.50**  ·  Valeriy Bocherov **9.00**  ·  Karen Vardanyan **4.75**  ·  Klisman Cake **11.00**  ·  Artem Shumanskiy **6.50**  ·  Cristian Shpendi **3.25**  ·  Stavros Pilios **9.50**  ·  Rey Manaj **2.40**  ·  Gleb Shevchenko **17.00**  ·  Ivan Tikhomirov **21.00**  ·  Vladislav Morozov **4.00**  ·  Trofim Melnichenko **4.00**  ·  Aleksandr Selyava **12.00**  ·  Roman Begunov **15.00**  ·  Vladislav Kalinin **21.00**  ·  Kirill Gomanov **21.00**  ·  Ysni Ismaili **15.00**  ·  Klevi Qefalija **7.50**  ·  Anton Kovalev **8.00**  ·  Timofey Simanenka **4.75**  ·  Samuel Sina **15.00**  ·  Aleksandr Svirepa **9.00**  ·  Anton Lukashov **9.00**  ·  Feta Fetai **11.00**  ·  Vitali Lisakovich **3.75**  ·  Ardian Ismajli **11.00**  ·  Elseid Hysaj **11.00**  ·  Kristjan Asllani **4.33**  ·  Berat Djimsiti **15.00**  ·  Luis Hasa **5.50**  ·  Ylber Ramadani **11.00**
+- **Anytime Goal Scorer:** Naser Aliji **17.00**  ·  Juljan Shehu **7.50**  ·  Kirill Zinovich **9.00**  ·  Myrto Uzuni **3.00**  ·  Arlind Ajeti **15.00**  ·  Qazim Laci **5.50**  ·  Taulant Seferi **3.40**  ·  Mario Mitaj **11.00**  ·  Mirlind Daku **3.25**  ·  Ernest Muci **4.33**  ·  Arber Hoxha **4.33**  ·  Zakhar Volkov **11.00**  ·  Valeri Gromyko **4.75**  ·  Kirill Pechenin **15.00**  ·  Max Ebong **6.50**  ·  German Barkovsky **4.33**  ·  Artem Kontsevoy **6.50**  ·  Valeriy Bocherov **9.00**  ·  Karen Vardanyan **4.75**  ·  Klisman Cake **11.00**  ·  Artem Shumanskiy **6.50**  ·  Cristian Shpendi **3.25**  ·  Stavros Pilios **10.00**  ·  Rey Manaj **2.40**  ·  Gleb Shevchenko **17.00**  ·  Ivan Tikhomirov **21.00**  ·  Vladislav Morozov **4.33**  ·  Trofim Melnichenko **4.33**  ·  Aleksandr Selyava **12.00**  ·  Roman Begunov **15.00**  ·  Vladislav Kalinin **21.00**  ·  Kirill Gomanov **21.00**  ·  Ysni Ismaili **15.00**  ·  Klevi Qefalija **7.50**  ·  Anton Kovalev **8.00**  ·  Timofey Simanenka **4.75**  ·  Samuel Sina **15.00**  ·  Aleksandr Svirepa **9.00**  ·  Anton Lukashov **9.00**  ·  Feta Fetai **11.00**  ·  Vitali Lisakovich **3.75**  ·  Ardian Ismajli **11.00**  ·  Elseid Hysaj **11.00**  ·  Kristjan Asllani **4.33**  ·  Berat Djimsiti **15.00**  ·  Luis Hasa **5.50**  ·  Ylber Ramadani **11.00**
 
 ## Estadísticas de equipo
 | | Belarus (total) | Belarus en casa | Albania (total) | Albania fuera |
@@ -179,25 +179,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 35% | 49% | 42% | 1.90 | -20% |
 | 1X2: X | 35% | 28% | 32% | 3.30 | +5% |
 | 1X2: 1 | 30% | 22% | 26% | 4.20 | +10% |
-| Doble oportunidad: X2 | 70% | 77% | 73% | 1.22 | -11% |
-| Doble oportunidad: 12 | 65% | 72% | 68% | 1.30 | -11% |
-| Doble oportunidad: 1X | 65% | 51% | 58% | 1.83 | +7% |
+| Doble oportunidad: X2 | 70% | 77% | 74% | 1.22 | -10% |
+| Doble oportunidad: 12 | 65% | 71% | 68% | 1.33 | -10% |
+| Doble oportunidad: 1X | 65% | 52% | 58% | 1.83 | +7% |
 | Ambos marcan: No | 70% | 56% | 63% | 1.67 | +5% |
 | Ambos marcan: Sí | 30% | 44% | 37% | 2.10 | -22% |
 | Goles más/menos: Más de 1.5 | 48% | 66% | 57% | 1.40 | -20% |
-| Goles más/menos: Más de 2.5 | 22% | 41% | 31% | 2.30 | -28% |
+| Goles más/menos: Más de 2.5 | 22% | 40% | 31% | 2.35 | -27% |
 | Goles más/menos: Más de 3.5 | 8% | 22% | 15% | 4.33 | -36% |
 | Goles más/menos: Menos de 1.5 | 52% | 34% | 43% | 2.75 | +18% |
-| Goles más/menos: Menos de 2.5 | 78% | 59% | 69% | 1.60 | +10% |
+| Goles más/menos: Menos de 2.5 | 78% | 60% | 69% | 1.57 | +8% |
 | Goles más/menos: Menos de 3.5 | 92% | 78% | 85% | 1.20 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 50% | 62% | 56% | 1.50 | -15% |
 | Goles 1ª parte más/menos: Más de 1.5 | 16% | 28% | 22% | 3.40 | -27% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 50% | 38% | 44% | 2.50 | +9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 84% | 72% | 78% | 1.30 | +2% |
-| Goles del local: Más de 0.5 | 53% | 58% | 55% | 1.62 | -10% |
-| Goles del local: Más de 1.5 | 18% | 23% | 21% | 4.00 | -18% |
-| Goles del local: Menos de 0.5 | 47% | 42% | 45% | 2.20 | -2% |
-| Goles del local: Menos de 1.5 | 82% | 77% | 79% | 1.22 | -3% |
+| Goles del local: Más de 0.5 | 53% | 56% | 55% | 1.67 | -9% |
+| Goles del local: Más de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
+| Goles del local: Menos de 0.5 | 47% | 44% | 45% | 2.10 | -5% |
+| Goles del local: Menos de 1.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Goles del visitante: Más de 0.5 | 57% | 75% | 66% | 1.25 | -18% |
 | Goles del visitante: Más de 1.5 | 21% | 42% | 32% | 2.20 | -31% |
 | Goles del visitante: Más de 2.5 | 5% | 21% | 13% | 4.50 | -41% |
@@ -205,6 +205,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 79% | 58% | 68% | 1.62 | +11% |
 | Goles del visitante: Menos de 2.5 | 95% | 79% | 87% | 1.17 | +2% |
 | 1X2 descanso: 2 | 23% | 36% | 30% | 2.50 | -26% |
-| 1X2 descanso: X | 56% | 45% | 50% | 2.00 | +1% |
+| 1X2 descanso: X | 56% | 45% | 51% | 2.00 | +1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

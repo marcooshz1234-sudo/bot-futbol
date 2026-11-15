@@ -1,7 +1,7 @@
 # Lorient – Rennes
 **Ligue 1** · Regular Season - 11 · 22/11/2026 17:15 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:52_
@@ -188,8 +188,8 @@ _Goles esperados: local 1,35 · visitante 1,19 · córners esperados 9,5._
 |---|---|---|---|---|---|
 | 1X2: 2 | 33% | 41% | 37% | 2.25 | -17% |
 | 1X2: X | 27% | 26% | 26% | 3.50 | -7% |
-| 1X2: 1 | 41% | 33% | 37% | 2.80 | +3% |
-| Doble oportunidad: X2 | 59% | 68% | 64% | 1.40 | -11% |
+| 1X2: 1 | 40% | 33% | 37% | 2.80 | +3% |
+| Doble oportunidad: X2 | 60% | 68% | 64% | 1.40 | -11% |
 | Doble oportunidad: 12 | 73% | 74% | 74% | 1.28 | -6% |
 | Doble oportunidad: 1X | 67% | 58% | 63% | 1.62 | +2% |
 | Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |

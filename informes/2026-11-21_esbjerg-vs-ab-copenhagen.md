@@ -1,10 +1,10 @@
 # Esbjerg – AB Copenhagen
 **1. Division** · Regular Season - 15 · 21/11/2026 15:00 (hora España) · Blue Water Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **2.88**  ·  X **3.60**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.25**  ·  X2 **1.36**
@@ -159,10 +159,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 48% | 36% | 42% | 2.60 | +10% |
 | Goles más/menos: Menos de 3.5 | 70% | 56% | 63% | 1.67 | +5% |
 | Goles más/menos: Menos de 4.5 | 85% | 73% | 79% | 1.28 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 72% | 1.25 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -26% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
 | Goles del local: Más de 0.5 | 67% | 77% | 72% | 1.22 | -12% |
@@ -176,7 +176,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
 | Goles del visitante: Menos de 2.5 | 77% | 72% | 75% | 1.30 | -3% |
 | 1X2 descanso: 2 | 37% | 35% | 36% | 2.62 | -6% |
-| 1X2 descanso: X | 41% | 37% | 39% | 2.50 | -2% |
+| 1X2 descanso: X | 42% | 37% | 39% | 2.50 | -2% |
 | 1X2 descanso: 1 | 22% | 28% | 25% | 3.25 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

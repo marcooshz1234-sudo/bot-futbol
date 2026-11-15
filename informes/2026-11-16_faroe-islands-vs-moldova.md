@@ -1,10 +1,10 @@
 # Faroe Islands – Moldova
 **Nations League** · League C - 6 · 16/11/2026 16:00 (hora España) · Torsvollur
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **1.73**  ·  X **3.60**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.00**
@@ -12,9 +12,9 @@ _Actualizadas: 14/11 19:50_
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **7.50**
     - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.62**
-    - 3,5: más **4.33** · menos **1.20**
-    - 4,5: más **8.00** · menos **1.06**
+    - 2,5: más **2.20** · menos **1.65**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **7.50** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
@@ -24,6 +24,10 @@ _Actualizadas: 14/11 19:50_
     - 0,5: más **1.67** · menos **2.10**
     - 1,5: más **4.33** · menos **1.20**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.05**  ·  2 **5.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
 - **To Win Either Half:** 1 **1.44**  ·  2 **2.75**
@@ -31,6 +35,7 @@ _Actualizadas: 14/11 19:50_
 - **Win Both Halves:** 1 **5.00**  ·  2 **21.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **8.00**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.00**
+- **Anytime Goal Scorer:** Daniel Dumbravanu **12.00**  ·  Aki Samuelsen **3.00**  ·  Mihail Gherasimencov **21.00**  ·  Stephan Negru **17.00**  ·  Mihail Stefan **21.00**  ·  Jakup Andreasen **6.50**  ·  Martin Agnarsson **7.00**  ·  Joannes Bjartalid **3.40**  ·  Adrian Justinussen **3.40**  ·  Viljormur Davidsen **9.00**  ·  Gunnar Vatnhamar **6.50**  ·  Meinhard Olsen **3.60**  ·  Petur Knudsen **3.20**  ·  Andrias Edmundsson **12.00**  ·  Arnbjorn Svensson **7.00**  ·  Odmar Faero **11.00**  ·  Hanus Sorensen **5.00**  ·  Jann Benjaminsen **6.50**  ·  Samuel Chukwudi **11.00**  ·  Joannes Danielsen **11.00**  ·  Victor Stina **6.50**  ·  Nichita Motpan **9.00**  ·  Vadim Rata **9.00**  ·  Serafim Cojocaru **15.00**  ·  Vladislav Babohlo **17.00**  ·  loan-Calin Revenco **17.00**  ·  Denis Marandici **26.00**  ·  Oleg Reabciuk **21.00**  ·  Danila Forov **12.00**  ·  Vladimir Fratea **9.50**  ·  Ovidiu David **12.00**  ·  Mattias Hellisdal **5.50**  ·  Aron Benjaminsen **4.00**  ·  Catalin Cucos **17.00**  ·  Nicky Clescenco **6.50**  ·  Petru Popescu **4.33**  ·  Ari Olsen **9.00**  ·  Alexandru Betivu **4.75**  ·  Stefan Bodisteanu **9.00**  ·  Poul Kallsberg **3.20**  ·  Asi Dam **3.20**  ·  Iurie Iovu **15.00**  ·  Victor Bogaciuc **9.00**  ·  Sergiu Perciun **4.75**  ·  Geza David Turi **5.50**
 
 ## Estadísticas de equipo
 | | Faroe Islands (total) | Faroe Islands en casa | Moldova (total) | Moldova fuera |
@@ -177,11 +182,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 48% | 56% | 52% | 1.67 | -13% |
 | Ambos marcan: Sí | 52% | 44% | 48% | 2.10 | +1% |
 | Goles más/menos: Más de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles más/menos: Más de 2.5 | 52% | 42% | 47% | 2.25 | +6% |
-| Goles más/menos: Más de 3.5 | 30% | 22% | 26% | 4.33 | +12% |
+| Goles más/menos: Más de 2.5 | 52% | 43% | 48% | 2.20 | +5% |
+| Goles más/menos: Más de 3.5 | 30% | 23% | 27% | 4.00 | +7% |
 | Goles más/menos: Menos de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles más/menos: Menos de 2.5 | 48% | 58% | 53% | 1.62 | -14% |
-| Goles más/menos: Menos de 3.5 | 70% | 78% | 74% | 1.20 | -11% |
+| Goles más/menos: Menos de 2.5 | 48% | 57% | 52% | 1.65 | -14% |
+| Goles más/menos: Menos de 3.5 | 70% | 77% | 73% | 1.22 | -11% |
 | Goles del local: Más de 0.5 | 83% | 77% | 80% | 1.22 | -2% |
 | Goles del local: Más de 1.5 | 54% | 46% | 50% | 2.00 | -0% |
 | Goles del local: Más de 2.5 | 27% | 23% | 25% | 4.00 | +0% |

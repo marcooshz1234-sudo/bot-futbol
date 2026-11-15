@@ -1,7 +1,7 @@
 # GO Ahead Eagles – Fortuna Sittard
 **Eredivisie** · Regular Season - 13 · 22/11/2026 16:45 (hora España) · De Adelaarshorst
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:52_
@@ -192,8 +192,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 27% | 23% | 25% | 4.10 | +3% |
 | 1X2: X | 23% | 23% | 23% | 4.10 | -6% |
-| 1X2: 1 | 50% | 55% | 52% | 1.70 | -11% |
-| Doble oportunidad: X2 | 50% | 45% | 48% | 2.10 | +0% |
+| 1X2: 1 | 49% | 55% | 52% | 1.70 | -11% |
+| Doble oportunidad: X2 | 51% | 45% | 48% | 2.10 | +0% |
 | Doble oportunidad: 12 | 77% | 77% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 73% | 77% | 75% | 1.22 | -8% |
 | Ambos marcan: No | 40% | 34% | 37% | 2.75 | +1% |
@@ -205,11 +205,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 63% | 51% | 57% | 1.80 | +3% |
 | Goles más/menos: Menos de 4.5 | 80% | 71% | 76% | 1.33 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 78% | 76% | 1.20 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Goles 1ª parte más/menos: Más de 1.5 | 39% | 46% | 42% | 2.00 | -15% |
 | Goles 1ª parte más/menos: Más de 2.5 | 15% | 23% | 19% | 4.00 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 22% | 24% | 4.33 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 54% | 58% | 1.73 | -0% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles del local: Más de 1.5 | 53% | 65% | 59% | 1.44 | -15% |
 | Goles del local: Más de 2.5 | 27% | 38% | 32% | 2.50 | -20% |
 | Goles del local: Menos de 1.5 | 47% | 35% | 41% | 2.62 | +7% |

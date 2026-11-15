@@ -1,10 +1,10 @@
 # Tondela – Farense
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 12:00 (hora España) · Estádio João Cardoso
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:11_
 
 - **1X2:** 1 **2.05**  ·  X **3.10**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.67**
@@ -29,7 +29,7 @@ _Actualizadas: 14/11 19:50_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **1.88** · menos **1.92**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.80**  ·  X **8.00**  ·  2 **2.38**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
@@ -174,7 +174,7 @@ _Sin bajas comunicadas por ahora._
 | Lucas D'Agrella | D | 1 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 1,21 · córners esperados 7,7._
+_Goles esperados: local 1,51 · visitante 1,21 · córners esperados 7,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -206,10 +206,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 34% | 31% | 33% | 3.00 | -2% |
 | Goles del visitante: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
 | Goles del visitante: Menos de 1.5 | 66% | 69% | 67% | 1.36 | -8% |
-| Córners más/menos: Más de 9.5 | 29% | 51% | 40% | 1.88 | -25% |
-| Córners más/menos: Menos de 9.5 | 71% | 49% | 60% | 1.92 | +16% |
+| Córners más/menos: Más de 9.5 | 29% | 50% | 40% | 1.83 | -28% |
+| Córners más/menos: Menos de 9.5 | 71% | 50% | 60% | 1.83 | +11% |
 | 1X2 descanso: 2 | 25% | 24% | 25% | 3.75 | -8% |
 | 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -10% |
-| 1X2 descanso: 1 | 33% | 32% | 32% | 2.88 | -6% |
+| 1X2 descanso: 1 | 33% | 32% | 32% | 2.88 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

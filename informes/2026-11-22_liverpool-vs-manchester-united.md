@@ -1,7 +1,7 @@
 # Liverpool – Manchester United
 **Premier League** · Regular Season - 11 · 22/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:52_
@@ -198,9 +198,9 @@ _Goles esperados: local 2,35 · visitante 1,39 · córners esperados 9,2._
 | Goles más/menos: Menos de 3.5 | 48% | 62% | 55% | 1.53 | -15% |
 | Goles más/menos: Menos de 4.5 | 68% | 78% | 73% | 1.22 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 49% | 41% | 45% | 2.25 | +1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 41% | 45% | 2.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 51% | 59% | 55% | 1.57 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 59% | 55% | 1.57 | -13% |
 | Goles del local: Más de 1.5 | 68% | 58% | 63% | 1.62 | +2% |
 | Goles del local: Más de 2.5 ✅ | 42% | 31% | 36% | 3.00 | +9% |
 | Goles del local: Menos de 1.5 | 32% | 42% | 37% | 2.20 | -18% |

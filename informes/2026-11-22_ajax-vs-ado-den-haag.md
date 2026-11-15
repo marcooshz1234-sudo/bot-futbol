@@ -1,7 +1,7 @@
 # Ajax – ADO Den Haag
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_
@@ -223,6 +223,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 41% | 44% | 43% | 2.10 | -11% |
 | Goles del visitante: Menos de 1.5 | 77% | 78% | 78% | 1.20 | -7% |
 | 1X2 descanso: X | 31% | 29% | 30% | 3.25 | -4% |
-| 1X2 descanso: 1 | 57% | 62% | 60% | 1.50 | -11% |
+| 1X2 descanso: 1 | 57% | 62% | 59% | 1.50 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

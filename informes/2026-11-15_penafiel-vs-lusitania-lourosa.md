@@ -1,10 +1,10 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
@@ -177,7 +177,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 69% | 68% | 1.36 | -7% |
 | Goles del local: Más de 0.5 | 80% | 73% | 77% | 1.28 | -2% |
 | Goles del local: Más de 1.5 | 47% | 39% | 43% | 2.38 | +3% |
 | Goles del local: Menos de 0.5 | 20% | 27% | 23% | 3.50 | -18% |
@@ -186,7 +186,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 30% | 31% | 31% | 3.00 | -8% |
 | Goles del visitante: Menos de 0.5 | 33% | 34% | 34% | 2.75 | -8% |
 | Goles del visitante: Menos de 1.5 | 70% | 69% | 69% | 1.36 | -6% |
-| Córners más/menos: Más de 9.5 | 34% | 46% | 40% | 2.00 | -20% |
+| Córners más/menos: Más de 9.5 | 34% | 46% | 40% | 2.00 | -19% |
 | Córners más/menos: Menos de 9.5 | 66% | 54% | 60% | 1.73 | +3% |
 | 1X2 descanso: 2 | 22% | 25% | 23% | 3.75 | -12% |
 | 1X2 descanso: X | 42% | 44% | 43% | 2.10 | -9% |

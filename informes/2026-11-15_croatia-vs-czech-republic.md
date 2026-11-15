@@ -1,10 +1,10 @@
 # Croatia – Czech Republic
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Opus Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **1.57**  ·  X **4.10**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.30**
@@ -30,7 +30,8 @@ _Actualizadas: 14/11 19:50_
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 8,5: más **1.67** · menos **2.10**
+    - 8,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.50**  ·  X **8.00**  ·  2 **3.00**
 - **Tarjetas más/menos:**
     - 3,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **2.05**  ·  X **2.40**  ·  2 **5.50**
@@ -49,7 +50,8 @@ _Actualizadas: 14/11 19:50_
 - **Home Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
-    - 3,5: más **1.80** · menos **1.91**
+    - 3,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 - **Home Team Total Cards:**
     - 1,5: más **1.83** · menos **1.83**
 - **Away Team Total Cards:**
@@ -224,7 +226,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 65% | 72% | 69% | 1.30 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 39% | 34% | 2.38 | -20% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 61% | 66% | 1.53 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 61% | 66% | 1.53 | +2% |
 | Goles del local: Más de 1.5 | 45% | 59% | 52% | 1.57 | -18% |
 | Goles del local: Más de 2.5 | 20% | 34% | 27% | 2.75 | -26% |
 | Goles del local: Menos de 1.5 | 55% | 41% | 48% | 2.25 | +8% |
@@ -233,9 +235,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 22% | 27% | 24% | 3.50 | -15% |
 | Goles del visitante: Menos de 0.5 | 42% | 38% | 40% | 2.50 | -1% |
 | Goles del visitante: Menos de 1.5 | 78% | 73% | 76% | 1.28 | -3% |
-| Córners más/menos: Más de 8.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Córners más/menos: Menos de 8.5 | 50% | 44% | 47% | 2.10 | -1% |
-| 1X2 descanso: X | 45% | 38% | 41% | 2.40 | -1% |
+| Córners más/menos: Más de 8.5 | 50% | 50% | 50% | 1.83 | -9% |
+| Córners más/menos: Menos de 8.5 | 50% | 50% | 50% | 1.83 | -8% |
+| 1X2 descanso: X | 45% | 38% | 41% | 2.40 | -0% |
 | 1X2 descanso: 1 | 37% | 45% | 41% | 2.05 | -16% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

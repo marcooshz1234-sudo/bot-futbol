@@ -1,17 +1,18 @@
 # Gibraltar – Malta
 **Nations League** · League D - 6 · 16/11/2026 20:45 (hora España) · Europa Sports Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **8.50**  ·  X **3.90**  ·  2 **1.45**
+- **Doble oportunidad:** 1X **2.62**  ·  12 **1.25**  ·  X2 **1.05**
 - **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **7.50**
     - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.20** · menos **1.65**
+    - 2,5: más **2.15** · menos **1.67**
     - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **7.50** · menos **1.07**
 - **Goles 1ª parte más/menos:**
@@ -28,9 +29,9 @@ _Actualizadas: 14/11 19:50_
     - 3,5: más **7.50** · menos **1.07**
 - **1X2 descanso:** 1 **7.50**  ·  X **2.10**  ·  2 **1.95**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
 - **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
 - **To Win Either Half:** 1 **4.00**  ·  2 **1.30**
@@ -38,6 +39,7 @@ _Actualizadas: 14/11 19:50_
 - **Win Both Halves:** 1 **34.00**  ·  2 **3.75**
 - **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **4.33**  ·  Home/No **11.00**  ·  Draw/No **7.50**  ·  Away/No **2.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **3.25**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **1.95**
+- **Anytime Goal Scorer:** Jake Azzopardi **5.00**  ·  Brandon Paiber **6.50**  ·  Ylyas Chouaref **3.20**  ·  Julian Valarino **17.00**  ·  Carlos Richards **8.50**  ·  Liam Jessop **8.00**  ·  Julian Del Rio **7.00**  ·  Basil Tuma **3.20**  ·  Keyon Ewurum **3.60**  ·  Tjay De Barr **8.00**  ·  James Scanlon **7.00**  ·  Graeme Torrilla **12.00**  ·  Louie Annesley **17.00**  ·  Ethan Britto **21.00**  ·  Ethan Jolley **21.00**  ·  Kian Ronan **21.00**  ·  Bernardo Lopes **26.00**  ·  Nicholas Pozo **15.00**  ·  Daniel Bent **12.00**  ·  Yannick Yankam **5.00**  ·  Dylan Borge **6.50**  ·  Jeremy Perera **15.00**  ·  Jesse Gomez **15.00**  ·  Alexander Satariano **4.00**  ·  Paul Mbong **3.20**  ·  Teddy Teuma **3.60**  ·  Joseph Mbong **3.20**  ·  Matthew Guillaumier **5.00**  ·  Juan Corbalan **9.50**  ·  Kurt Shaw **12.00**  ·  Ryan Camenzuli **9.50**  ·  Zach Muscat **8.00**  ·  Gabriel Mentz **9.50**  ·  Steve Pisani **8.00**  ·  Andrea Zammit **2.60**  ·  Leon Mason **8.50**  ·  Kevin Cannavo **4.00**  ·  Han Stevens **17.00**  ·  Jayvan Garro **17.00**  ·  Luke Schofield **11.00**  ·  Mattias Ellul **9.50**  ·  Enrico Pepe **15.00**  ·  Myles Beerman **9.50**  ·  Carlo Zammit Lonardelli **8.00**  ·  Irvin Cardona **2.60**
 
 ## Estadísticas de equipo
 | | Gibraltar (total) | Gibraltar en casa | Malta (total) | Malta fuera |

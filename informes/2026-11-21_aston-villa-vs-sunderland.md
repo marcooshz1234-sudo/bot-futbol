@@ -1,10 +1,10 @@
 # Aston Villa – Sunderland
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **1.70**  ·  X **3.75**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.10**

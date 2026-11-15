@@ -1,10 +1,10 @@
 # Eintracht Frankfurt – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **2.40**  ·  X **4.00**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.22**  ·  X2 **1.53**
@@ -189,7 +189,7 @@ _Goles esperados: local 2,20 · visitante 1,94 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 38% | 36% | 2.50 | -10% |
+| 1X2: 2 | 35% | 38% | 36% | 2.50 | -9% |
 | 1X2: X | 20% | 23% | 22% | 4.00 | -13% |
 | 1X2: 1 | 45% | 39% | 42% | 2.40 | +1% |
 | Doble oportunidad: X2 | 55% | 61% | 58% | 1.53 | -11% |
@@ -203,10 +203,10 @@ _Goles esperados: local 2,20 · visitante 1,94 · córners esperados 10,1._
 | Goles más/menos: Menos de 2.5 | 22% | 30% | 26% | 3.20 | -17% |
 | Goles más/menos: Menos de 3.5 | 41% | 50% | 45% | 1.91 | -13% |
 | Goles más/menos: Menos de 4.5 | 60% | 68% | 64% | 1.40 | -10% |
-| Goles 1ª parte más/menos: Más de 0.5 | 84% | 78% | 81% | 1.20 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
 | Goles 1ª parte más/menos: Más de 2.5 | 27% | 23% | 25% | 4.00 | +1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -9% |
 | Goles del local: Más de 1.5 | 65% | 56% | 60% | 1.67 | +0% |

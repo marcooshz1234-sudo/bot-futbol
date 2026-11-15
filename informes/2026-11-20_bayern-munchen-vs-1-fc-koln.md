@@ -1,10 +1,10 @@
 # Bayern München – 1. FC Köln
 **Bundesliga** · Regular Season - 10 · 20/11/2026 20:30 (hora España) · Allianz Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:08_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **1.07**  ·  X **11.00**  ·  2 **23.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.05**  ·  X2 **9.00**
@@ -190,7 +190,7 @@ _Goles esperados: local 3,29 · visitante 0,76 · córners esperados 10,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 5% | 4% | 5% | 23.00 | +7% |
+| 1X2: 2 | 5% | 4% | 5% | 23.00 | +8% |
 | 1X2: X | 10% | 9% | 9% | 11.00 | +0% |
 | 1X2: 1 | 85% | 87% | 86% | 1.07 | -8% |
 | Doble oportunidad: X2 | 15% | 11% | 13% | 9.00 | +16% |
@@ -200,7 +200,7 @@ _Goles esperados: local 3,29 · visitante 0,76 · córners esperados 10,6._
 | Ambos marcan: Sí | 51% | 48% | 50% | 1.95 | -3% |
 | Goles más/menos: Más de 2.5 | 77% | 79% | 78% | 1.20 | -6% |
 | Goles más/menos: Más de 3.5 | 58% | 64% | 61% | 1.50 | -9% |
-| Goles más/menos: Más de 4.5 | 38% | 45% | 42% | 2.10 | -12% |
+| Goles más/menos: Más de 4.5 | 38% | 45% | 42% | 2.10 | -13% |
 | Goles más/menos: Más de 5.5 | 22% | 28% | 25% | 3.40 | -14% |
 | Goles más/menos: Menos de 2.5 | 23% | 21% | 22% | 4.50 | -1% |
 | Goles más/menos: Menos de 3.5 | 42% | 36% | 39% | 2.62 | +3% |
@@ -219,6 +219,6 @@ _Goles esperados: local 3,29 · visitante 0,76 · córners esperados 10,6._
 | Goles del visitante: Más de 0.5 | 53% | 50% | 52% | 1.83 | -5% |
 | Goles del visitante: Menos de 0.5 | 47% | 50% | 48% | 1.83 | -12% |
 | 1X2 descanso: X | 26% | 23% | 25% | 4.00 | -1% |
-| 1X2 descanso: 1 | 65% | 71% | 68% | 1.30 | -11% |
+| 1X2 descanso: 1 | 65% | 71% | 68% | 1.30 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -12880,7 +12880,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.15,
-  "prob_aprendida": 0.674,
+  "prob_aprendida": 0.673,
   "acierto": null
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
@@ -13012,7 +13012,7 @@
   "valor_mercado": 0.0,
   "movimiento": 0.021,
   "ventaja": 0.11,
-  "prob_aprendida": 0.694,
+  "prob_aprendida": 0.698,
   "acierto": null
  },
  "1528986|Total - Away|Over 1.5": {
@@ -13031,10 +13031,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.022,
+  "valor_mercado": -0.027,
   "movimiento": null,
   "ventaja": 0.244,
-  "prob_aprendida": 0.58,
+  "prob_aprendida": 0.579,
   "acierto": null
  },
  "1545652|Home Player Shots|Dan Ndoye - 2": {
@@ -13100,7 +13100,7 @@
   "valor_mercado": 0.014,
   "movimiento": null,
   "ventaja": 0.056,
-  "prob_aprendida": 0.701,
+  "prob_aprendida": 0.702,
   "acierto": null
  },
  "1550199|Match Winner|Home": {
@@ -13122,7 +13122,7 @@
   "valor_mercado": -0.017,
   "movimiento": null,
   "ventaja": 0.072,
-  "prob_aprendida": 0.677,
+  "prob_aprendida": 0.676,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13144,7 +13144,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.283,
-  "prob_aprendida": 0.658,
+  "prob_aprendida": 0.656,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13189,6 +13189,50 @@
   "movimiento": null,
   "ventaja": 0.123,
   "prob_aprendida": 0.626,
+  "acierto": null
+ },
+ "1528991|Home Player Shots|Konstantinos Mavropanos - 1": {
+  "partido_id": 1528991,
+  "fecha": "2026-11-16T20:45",
+  "competicion": "Nations League",
+  "local": "Greece",
+  "visitante": "Serbia",
+  "mercado": "Home Player Shots",
+  "opcion": "Konstantinos Mavropanos - 1",
+  "tipo": "jugador",
+  "texto": "Konstantinos Mavropanos: 1+ tiros",
+  "cuota": 1.36,
+  "frecuencia": 1.0,
+  "jugador_id": 1445,
+  "jugador": "Konstantinos Mavropanos",
+  "campo": "tiros",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.265,
+  "prob_aprendida": 0.605,
+  "acierto": null
+ },
+ "1552823|Both Teams Score|Yes": {
+  "partido_id": 1552823,
+  "fecha": "2026-11-21T20:45",
+  "competicion": "Ligue 1",
+  "local": "Monaco",
+  "visitante": "Auxerre",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "tipo": "goles",
+  "texto": "Ambos marcan en Monaco–Auxerre",
+  "cuota": 1.7,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.018,
+  "movimiento": null,
+  "ventaja": 0.162,
+  "prob_aprendida": 0.605,
   "acierto": null
  }
 }

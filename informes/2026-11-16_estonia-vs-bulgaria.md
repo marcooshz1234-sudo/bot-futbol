@@ -1,10 +1,10 @@
 # Estonia – Bulgaria
 **Nations League** · League C - 6 · 16/11/2026 18:00 (hora España) · A. Le Coq Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **2.10**  ·  X **3.20**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.36**  ·  X2 **1.67**

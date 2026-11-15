@@ -1,12 +1,12 @@
 # Finland – San Marino
 **Nations League** · League C - 6 · 15/11/2026 18:00 (hora España) · Bolt Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
-- **1X2:** 1 **1.04**  ·  X **15.00**  ·  2 **41.00**
+- **1X2:** 1 **1.03**  ·  X **15.00**  ·  2 **41.00**
 - **Ambos marcan:** Sí **3.50**  ·  No **1.28**
 - **Goles más/menos:**
     - 1,5: más **1.06** · menos **8.00**
@@ -34,16 +34,16 @@ _Actualizadas: 14/11 19:50_
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
-    - 3,5: más **4.50** · menos **1.18**
-    - 4,5: más **11.00** · menos **1.05**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **9.00**  ·  No **1.07**
 - **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
 - **To Win Either Half:** 1 **1.02**  ·  2 **15.00**
 - **To Score In Both Halves By Teams:** 1 **1.33**  ·  2 **29.00**
 - **Win Both Halves:** 1 **1.50**
 - **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **19.00**  ·  Away/Yes **51.00**  ·  Home/No **1.33**  ·  Draw/No **26.00**  ·  Away/No **51.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **1.73**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.00**  ·  o/no 2.5 **1.67**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **4.00**
 - **Anytime Goal Scorer:** Lorenzo Capicchioni **29.00**  ·  Oliver Antman **1.83**  ·  Benjamin Kallman **1.57**  ·  Joel Pohjanpalo **1.36**  ·  Fredrik Jensen **1.95**  ·  Topi Keskinen **1.95**  ·  Anssi Suhonen **4.00**  ·  Leo Walta **1.73**  ·  Adam Stahl **4.75**  ·  Miro Tenho **5.00**  ·  Robert Ivanov **6.00**  ·  Fausto Salicioni **11.00**  ·  Ville Koski **6.00**  ·  Gabriel Capicchioni **13.00**  ·  Nicola Nanni **9.00**  ·  Nicolas Giacopetti **11.00**  ·  Lorenzo Lazzari **13.00**  ·  Andrea Contadini **21.00**  ·  Samuele Zannoni **21.00**  ·  Alessandro Golinucci **21.00**  ·  Marcello Mularoni **29.00**  ·  Filippo Fabbri **34.00**  ·  Simone Giocondi **21.00**  ·  Alessandro Tosi **51.00**  ·  Giacomo Benvenuti **51.00**  ·  Marco Pasolini **51.00**  ·  Tommaso Benvenuti **51.00**  ·  Dante Rossi **51.00**  ·  Cristian Meloni **21.00**  ·  Luka Hyrylainen **3.60**  ·  Onni Valakari **2.30**  ·  Tony Miettinen **5.00**  ·  Santeri Vaananen **4.75**  ·  Samuel Pancotti **13.00**  ·  Adrian Svanback **1.62**  ·  Kaan Kairinen **3.60**  ·  Adam Markhiyev **3.40**  ·  Pietro Marinucci **34.00**  ·  Bartolomeo Riggioni **34.00**  ·  Enea Della Balda **17.00**  ·  Giulio Maria Bugli **34.00**  ·  Daniel Hakans **1.95**  ·  Naatan Skytta **1.83**  ·  Ryan Mahuta **5.00**  ·  Juho Lahteenmaki **6.00**
 
 ## Estadísticas de equipo
@@ -180,9 +180,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 3% | 2% | 2% | 41.00 | +2% |
+| 1X2: 2 | 3% | 2% | 2% | 41.00 | +1% |
 | 1X2: X | 7% | 6% | 7% | 15.00 | +1% |
-| 1X2: 1 | 90% | 91% | 91% | 1.04 | -6% |
+| 1X2: 1 | 90% | 91% | 91% | 1.03 | -6% |
 | Ambos marcan: No | 63% | 73% | 68% | 1.28 | -13% |
 | Ambos marcan: Sí | 37% | 27% | 32% | 3.50 | +12% |
 | Goles más/menos: Más de 2.5 | 74% | 75% | 75% | 1.25 | -7% |
@@ -194,9 +194,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 66% | 61% | 63% | 1.53 | -3% |
 | Goles más/menos: Menos de 5.5 | 81% | 75% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 54% | 52% | 1.73 | -10% |
-| Goles 1ª parte más/menos: Más de 2.5 | 24% | 28% | 26% | 3.40 | -12% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 28% | 26% | 3.40 | -13% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 50% | 46% | 48% | 2.00 | -4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 72% | 74% | 1.30 | -4% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 72% | 74% | 1.30 | -3% |
 | Goles del local: Más de 2.5 | 66% | 71% | 68% | 1.33 | -9% |
 | Goles del local: Más de 3.5 | 44% | 50% | 47% | 1.83 | -14% |
 | Goles del local: Más de 4.5 | 25% | 34% | 29% | 2.75 | -19% |

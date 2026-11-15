@@ -1,16 +1,16 @@
 # Eibar – Cadiz
 **Segunda División** · Regular Season - 14 · 15/11/2026 18:30 (hora España) · Ipurua Municipal Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **1.62**  ·  X **3.75**  ·  2 **5.50**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.25**  ·  X2 **2.25**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
+    - 0,5: más **1.04** · menos **12.00**
     - 1,5: más **1.22** · menos **4.00**
     - 2,5: más **1.75** · menos **2.05**
     - 3,5: más **2.75** · menos **1.40**
@@ -21,10 +21,10 @@ _Actualizadas: 14/11 19:50_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
+    - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
     - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.75** · menos **1.25**
@@ -32,19 +32,21 @@ _Actualizadas: 14/11 19:50_
 - **Córners más/menos:**
     - 9,5: más **1.85** · menos **1.95**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
-- **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **5.00**
+- **Tarjetas más/menos:**
+    - 5,5: más **1.62** · menos **2.20**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.38**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.36**  ·  2 **2.75**
+- **To Win Either Half:** 1 **1.33**  ·  2 **2.75**
 - **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **6.00**
 - **Win Both Halves:** 1 **4.33**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.75**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **12.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.50**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.75**  ·  Away/Yes **10.00**  ·  Home/No **2.75**  ·  Draw/No **12.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.60**
 - **Home Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
@@ -53,7 +55,7 @@ _Actualizadas: 14/11 19:50_
 - **Home Player Shots:** Alvaro Rodriguez - 1 **1.22**  ·  Alvaro Rodriguez - 2 **2.00**  ·  Alvaro Rodriguez - 3 **3.75**  ·  Alvaro Rodriguez - 4 **9.00**  ·  Alvaro Rodriguez - 5 **19.00**  ·  Carlos Lumbreras - 1 **1.03**  ·  Javier Marton - 1 **1.01**  ·  Adu Ares - 1 **1.01**  ·  Francisco Pejino - 1 **1.02**  ·  Ivan Gil - 1 **1.01**  ·  Jon Guruzeta - 1 **1.02**  ·  Jon Magunazelaya - 1 **1.05**  ·  Ander Madariaga - 1 **1.04**  ·  Lucas Nunez - 1 **1.10**  ·  Peru Nolaskoain - 1 **1.22**  ·  Aleix Garrido - 1 **1.18**  ·  Lander Olaetxea - 1 **1.25**  ·  Anaitz Arbilla - 1 **1.36**  ·  Diaz Sergio Alvarez - 1 **1.33**  ·  Unai Elgezabal - 1 **1.50**  ·  Juan Bernat - 1 **1.53**  ·  Sergio Cubero - 1 **1.53**  ·  Imanol Garcia de Albeniz - 1 **1.80**  ·  Markel Arana - 1 **1.80**  ·  Jair Amador - 1 **2.00**  ·  Jon Bautista - 2 **1.02**  ·  Carlos Lumbreras - 2 **1.20**  ·  Javier Marton - 2 **1.07**  ·  Adu Ares - 2 **1.12**  ·  Francisco Pejino - 2 **1.17**  ·  Ivan Gil - 2 **1.11**  ·  Jon Guruzeta - 2 **1.14**  ·  Jon Magunazelaya - 2 **1.28**  ·  Ander Madariaga - 2 **1.22**  ·  Lucas Nunez - 2 **1.44**  ·  Peru Nolaskoain - 2 **2.00**  ·  Aleix Garrido - 2 **1.80**  ·  Lander Olaetxea - 2 **2.10**  ·  Anaitz Arbilla - 2 **2.50**  ·  Diaz Sergio Alvarez - 2 **2.38**  ·  Unai Elgezabal - 2 **3.25**  ·  Juan Bernat - 2 **3.40**  ·  Sergio Cubero - 2 **3.40**  ·  Imanol Garcia de Albeniz - 2 **4.33**  ·  Markel Arana - 2 **4.33**  ·  Jair Amador - 2 **5.50**  ·  Jon Bautista - 3 **1.10**  ·  Carlos Lumbreras - 3 **1.57**  ·  Javier Marton - 3 **1.25**  ·  Adu Ares - 3 **1.40**  ·  Francisco Pejino - 3 **1.50**  ·  Ivan Gil - 3 **1.36**  ·  Jon Guruzeta - 3 **1.44**  ·  Jon Magunazelaya - 3 **1.80**  ·  Ander Madariaga - 3 **1.67**  ·  Lucas Nunez - 3 **2.25**  ·  Peru Nolaskoain - 3 **3.75**  ·  Aleix Garrido - 3 **3.40**  ·  Lander Olaetxea - 3 **4.33**  ·  Anaitz Arbilla - 3 **5.50**  ·  Diaz Sergio Alvarez - 3 **5.50**  ·  Unai Elgezabal - 3 **8.00**  ·  Juan Bernat - 3 **9.00**  ·  Sergio Cubero - 3 **9.00**  ·  Imanol Garcia de Albeniz - 3 **13.00**  ·  Markel Arana - 3 **13.00**  ·  Jon Bautista - 4 **1.28**  ·  Carlos Lumbreras - 4 **2.38**  ·  Javier Marton - 4 **1.62**  ·  Adu Ares - 4 **1.91**  ·  Francisco Pejino - 4 **2.20**  ·  Ivan Gil - 4 **1.83**  ·  Jon Guruzeta - 4 **2.00**  ·  Jon Magunazelaya - 4 **3.00**  ·  Ander Madariaga - 4 **2.62**  ·  Lucas Nunez - 4 **4.00**  ·  Peru Nolaskoain - 4 **9.00**  ·  Aleix Garrido - 4 **7.00**  ·  Lander Olaetxea - 4 **10.00**  ·  Jon Bautista - 5 **1.62**  ·  Carlos Lumbreras - 5 **4.00**  ·  Javier Marton - 5 **2.25**  ·  Adu Ares - 5 **3.00**  ·  Francisco Pejino - 5 **3.50**  ·  Ivan Gil - 5 **3.00**  ·  Jon Guruzeta - 5 **3.25**  ·  Jon Magunazelaya - 5 **5.50**  ·  Ander Madariaga - 5 **4.50**  ·  Jon Bautista - 6 **2.20**  ·  Carlos Lumbreras - 6 **7.00**  ·  Javier Marton - 6 **3.50**  ·  Adu Ares - 6 **5.00**  ·  Francisco Pejino - 6 **6.00**  ·  Ivan Gil - 6 **5.00**  ·  Jon Guruzeta - 6 **5.50**  ·  Jon Bautista - 7 **3.25**  ·  Carlos Lumbreras - 7 **15.00**  ·  Javier Marton - 7 **6.00**  ·  Jon Bautista - 8 **5.00**  ·  Jon Bautista - 9 **9.00**  ·  Jon Bautista - 10 **15.00**  ·  Anaitz Arbilla - 4 **15.00**  ·  Lucas Nunez - 5 **9.00**  ·  Jon Magunazelaya - 6 **10.00**  ·  Adu Ares - 7 **9.00**  ·  Carlos Lumbreras - 8 **21.00**  ·  Javier Marton - 8 **11.00**  ·  Jair Amador - 3 **17.00**  ·  Diaz Sergio Alvarez - 4 **13.00**  ·  Ander Madariaga - 6 **9.00**  ·  Francisco Pejino - 7 **11.00**  ·  Ivan Gil - 7 **9.00**  ·  Jon Guruzeta - 7 **10.00**  ·  Jon Bautista - 11 **21.00**  ·  Lucas Nunez - 6 **17.00**  ·  Adu Ares - 8 **17.00**  ·  Javier Marton - 9 **19.00**  ·  Peru Nolaskoain - 5 **19.00**  ·  Aleix Garrido - 5 **15.00**  ·  Jon Magunazelaya - 7 **19.00**  ·  Francisco Pejino - 8 **21.00**  ·  Ivan Gil - 8 **17.00**  ·  Lander Olaetxea - 5 **21.00**  ·  Ander Madariaga - 7 **17.00**  ·  Unai Elgezabal - 4 **21.00**  ·  Juan Bernat - 4 **21.00**  ·  Sergio Cubero - 4 **21.00**  ·  Jon Guruzeta - 8 **19.00**  ·  Iker Zubiría - 1 **1.10**  ·  Haritz Ortuzar - 1 **1.62**  ·  Oier Llorente - 1 **1.62**  ·  Iker Zubiría - 2 **1.44**  ·  Haritz Ortuzar - 2 **3.75**  ·  Oier Llorente - 2 **3.75**  ·  Iker Zubiría - 3 **2.25**  ·  Haritz Ortuzar - 3 **10.00**  ·  Oier Llorente - 3 **10.00**  ·  Iker Zubiría - 4 **4.00**  ·  Iker Zubiría - 5 **8.00**  ·  Iker Zubiría - 6 **17.00**  ·  Elijah Gift - 1 **1.04**  ·  Elijah Gift - 2 **1.22**  ·  Elijah Gift - 3 **1.67**  ·  Elijah Gift - 4 **2.62**  ·  Elijah Gift - 5 **4.33**  ·  Elijah Gift - 6 **9.00**  ·  Elijah Gift - 7 **17.00**  ·  Diaz Sergio Alvarez - 5 **21.00**  ·  Ivan Gil - 9 **21.00**  ·  Haritz Ortuzar - 4 **21.00**  ·  Oier Llorente - 4 **21.00**
 - **Away Player Shots:** Jeronimo Domina - 1 **1.05**  ·  Urko Izeta - 1 **1.04**  ·  Borja Vazquez - 1 **1.06**  ·  Iuri Tabatadze - 1 **1.06**  ·  Garcia Pascual - 1 **1.06**  ·  Vladyslav Kopotun - 1 **1.08**  ·  Francisco Mwepu - 1 **1.11**  ·  Antonito Cordero - 1 **1.14**  ·  Efe Ugiagbe - 1 **1.22**  ·  Ibon Sanchez - 1 **1.44**  ·  Jose Antonio De La Rosa - 1 **1.53**  ·  Jose Andujar - 1 **1.62**  ·  Benat de Jesus - 1 **1.73**  ·  Cristian Gutierrez - 1 **2.00**  ·  Dilan Zarate - 1 **2.00**  ·  Giorgi Gocholeishvili - 1 **2.00**  ·  Javier Castro - 1 **2.00**  ·  Manuel Rivera - 1 **2.00**  ·  Noah Ukwuije - 1 **2.00**  ·  Roberto Rosado - 1 **2.00**  ·  Juan Diaz - 1 **2.00**  ·  Manuel Fernandez - 1 **2.00**  ·  Damian Rodriguez - 1 **2.38**  ·  Bojan Kovacevic - 1 **2.25**  ·  Kenan Toubibou - 1 **2.75**  ·  Sergio Arribas Prieto - 1 **2.38**  ·  Javi Ontiveros - 2 **1.08**  ·  Jeronimo Domina - 2 **1.25**  ·  Urko Izeta - 2 **1.25**  ·  Borja Vazquez - 2 **1.33**  ·  Iuri Tabatadze - 2 **1.30**  ·  Garcia Pascual - 2 **1.33**  ·  Vladyslav Kopotun - 2 **1.40**  ·  Francisco Mwepu - 2 **1.53**  ·  Antonito Cordero - 2 **1.67**  ·  Efe Ugiagbe - 2 **2.00**  ·  Ibon Sanchez - 2 **3.00**  ·  Jose Antonio De La Rosa - 2 **3.40**  ·  Jose Andujar - 2 **3.75**  ·  Benat de Jesus - 2 **4.33**  ·  Cristian Gutierrez - 2 **6.00**  ·  Dilan Zarate - 2 **5.50**  ·  Giorgi Gocholeishvili - 2 **5.50**  ·  Javier Castro - 2 **6.00**  ·  Manuel Rivera - 2 **5.50**  ·  Noah Ukwuije - 2 **5.50**  ·  Roberto Rosado - 2 **5.50**  ·  Juan Diaz - 2 **5.50**  ·  Manuel Fernandez - 2 **5.50**  ·  Damian Rodriguez - 2 **8.00**  ·  Bojan Kovacevic - 2 **8.00**  ·  Kenan Toubibou - 2 **10.00**  ·  Sergio Arribas Prieto - 2 **8.00**  ·  Javi Ontiveros - 3 **1.30**  ·  Jeronimo Domina - 3 **1.73**  ·  Urko Izeta - 3 **1.73**  ·  Borja Vazquez - 3 **1.91**  ·  Iuri Tabatadze - 3 **1.83**  ·  Garcia Pascual - 3 **1.91**  ·  Vladyslav Kopotun - 3 **2.10**  ·  Francisco Mwepu - 3 **2.50**  ·  Antonito Cordero - 3 **3.00**  ·  Efe Ugiagbe - 3 **4.00**  ·  Ibon Sanchez - 3 **7.00**  ·  Jose Antonio De La Rosa - 3 **9.00**  ·  Jose Andujar - 3 **10.00**  ·  Benat de Jesus - 3 **13.00**  ·  Cristian Gutierrez - 3 **19.00**  ·  Dilan Zarate - 3 **17.00**  ·  Giorgi Gocholeishvili - 3 **17.00**  ·  Javier Castro - 3 **19.00**  ·  Manuel Rivera - 3 **17.00**  ·  Noah Ukwuije - 3 **17.00**  ·  Roberto Rosado - 3 **17.00**  ·  Juan Diaz - 3 **17.00**  ·  Manuel Fernandez - 3 **17.00**  ·  Damian Rodriguez - 3 **21.00**  ·  Bojan Kovacevic - 3 **21.00**  ·  Kenan Toubibou - 3 **21.00**  ·  Sergio Arribas Prieto - 3 **21.00**  ·  Javi Ontiveros - 4 **1.73**  ·  Jeronimo Domina - 4 **2.75**  ·  Urko Izeta - 4 **2.62**  ·  Borja Vazquez - 4 **3.25**  ·  Iuri Tabatadze - 4 **3.25**  ·  Garcia Pascual - 4 **3.40**  ·  Vladyslav Kopotun - 4 **3.75**  ·  Francisco Mwepu - 4 **4.50**  ·  Antonito Cordero - 4 **6.00**  ·  Efe Ugiagbe - 4 **9.00**  ·  Ibon Sanchez - 4 **19.00**  ·  Jose Antonio De La Rosa - 4 **21.00**  ·  Jose Andujar - 4 **21.00**  ·  Javi Ontiveros - 5 **2.50**  ·  Jeronimo Domina - 5 **5.00**  ·  Urko Izeta - 5 **4.50**  ·  Borja Vazquez - 5 **6.00**  ·  Iuri Tabatadze - 5 **5.50**  ·  Garcia Pascual - 5 **6.00**  ·  Vladyslav Kopotun - 5 **8.00**  ·  Francisco Mwepu - 5 **10.00**  ·  Antonito Cordero - 5 **13.00**  ·  Efe Ugiagbe - 5 **21.00**  ·  Javi Ontiveros - 6 **4.00**  ·  Jeronimo Domina - 6 **10.00**  ·  Urko Izeta - 6 **9.00**  ·  Borja Vazquez - 6 **13.00**  ·  Iuri Tabatadze - 6 **11.00**  ·  Garcia Pascual - 6 **13.00**  ·  Vladyslav Kopotun - 6 **15.00**  ·  Francisco Mwepu - 6 **21.00**  ·  Javi Ontiveros - 7 **7.00**  ·  Jeronimo Domina - 7 **19.00**  ·  Urko Izeta - 7 **17.00**  ·  Borja Vazquez - 7 **21.00**  ·  Iuri Tabatadze - 7 **21.00**  ·  Garcia Pascual - 7 **21.00**  ·  Javi Ontiveros - 8 **13.00**  ·  Javi Ontiveros - 9 **21.00**  ·  Javi Ontiveros - 1 **1.01**  ·  Jandro Orellana - 1 **1.73**  ·  Jandro Orellana - 2 **4.33**  ·  Jandro Orellana - 3 **13.00**  ·  Gonzalo Petit - 1 **1.11**  ·  Gonzalo Petit - 2 **1.53**  ·  Gonzalo Petit - 3 **2.50**  ·  Gonzalo Petit - 4 **4.50**  ·  Gonzalo Petit - 5 **10.00**  ·  Gonzalo Petit - 6 **21.00**  ·  Marc-Olivier Doue - 1 **2.00**  ·  Marc-Olivier Doue - 2 **5.50**  ·  Marc-Olivier Doue - 3 **17.00**  ·  Antonito Cordero - 6 **21.00**  ·  Aimen Moueffek - 1 **1.62**  ·  Aimen Moueffek - 2 **3.75**  ·  Aimen Moueffek - 3 **11.00**  ·  Aimen Moueffek - 4 **21.00**  ·  Cesar Diaz - 1 **2.38**  ·  Cesar Diaz - 2 **8.00**  ·  Cesar Diaz - 3 **21.00**
 - **Anytime Goal Scorer:** Gonzalo Petit **4.00**  ·  Lander Olaetxea **5.50**  ·  Adu Ares **3.00**  ·  Javi Ontiveros **3.50**  ·  Francisco Mwepu **4.00**  ·  Jose Antonio De La Rosa **7.50**  ·  Bojan Kovacevic **19.00**  ·  Jon Bautista **2.30**  ·  Jon Guruzeta **3.00**  ·  Ander Madariaga **4.75**  ·  Diaz Sergio Alvarez **6.00**  ·  Peru Nolaskoain **6.00**  ·  Cristian Gutierrez **15.00**  ·  Sergio Cubero **10.00**  ·  Anaitz Arbilla **7.50**  ·  Marc-Olivier Doue **12.00**  ·  Alvaro Rodriguez **6.00**  ·  Javier Castro **15.00**  ·  Unai Elgezabal **10.00**  ·  Urko Izeta **4.00**  ·  Lucas Nunez **3.75**  ·  Giorgi Gocholeishvili **12.00**  ·  Manuel Fernandez **12.00**  ·  Aleix Garrido **4.75**  ·  Garcia Pascual **3.25**  ·  Oier Llorente **8.50**  ·  Efe Ugiagbe **6.00**  ·  Iuri Tabatadze **4.00**  ·  Ibon Sanchez **7.00**  ·  Kenan Toubibou **19.00**  ·  Jeronimo Domina **3.75**  ·  Aimen Moueffek **8.50**  ·  Javier Marton **2.30**  ·  Jon Magunazelaya **3.00**  ·  Ivan Gil **3.25**  ·  Manuel Rivera **12.00**  ·  Antonito Cordero **6.00**  ·  Imanol Garcia de Albeniz **10.00**  ·  Elijah Gift **2.75**  ·  Jandro Orellana **9.50**  ·  Vladyslav Kopotun **3.60**  ·  Jose Andujar **8.50**  ·  Benat de Jesus **10.00**  ·  Dilan Zarate **12.00**  ·  Eric Perez **4.00**  ·  Markel Arana **10.00**  ·  Noah Ukwuije **12.00**  ·  Roberto Rosado **12.00**  ·  Sergio Arribas Prieto **15.00**  ·  Iker Zubiría **3.75**  ·  Haritz Ortuzar **8.50**  ·  Cesar Diaz **15.00**  ·  Juan Diaz **12.00**  ·  Damian Rodriguez **15.00**  ·  Jair Amador **12.00**  ·  Juan Bernat **10.00**  ·  Francisco Pejino **3.00**  ·  Borja Vazquez **3.25**  ·  Carlos Lumbreras **2.50**
-- **Player to Score or Assist:** Gonzalo Petit **3.00**  ·  Lander Olaetxea **2.75**  ·  Adu Ares **2.10**  ·  Javi Ontiveros **2.60**  ·  Francisco Mwepu **3.00**  ·  Jose Antonio De La Rosa **4.00**  ·  Bojan Kovacevic **10.00**  ·  Jon Bautista **1.67**  ·  Jon Guruzeta **1.73**  ·  Ander Madariaga **2.60**  ·  Diaz Sergio Alvarez **3.25**  ·  Peru Nolaskoain **3.25**  ·  Cristian Gutierrez **6.00**  ·  Sergio Cubero **3.75**  ·  Anaitz Arbilla **4.75**  ·  Marc-Olivier Doue **6.00**  ·  Alvaro Rodriguez **3.10**  ·  Javier Castro **10.00**  ·  Unai Elgezabal **7.00**  ·  Urko Izeta **3.10**  ·  Lucas Nunez **2.40**  ·  Giorgi Gocholeishvili **5.50**  ·  Manuel Fernandez **8.00**  ·  Aleix Garrido **2.30**  ·  Garcia Pascual **2.50**  ·  Oier Llorente **4.50**  ·  Efe Ugiagbe **3.40**  ·  Iuri Tabatadze **2.75**  ·  Ibon Sanchez **4.00**  ·  Kenan Toubibou **11.00**  ·  Jeronimo Domina **3.40**  ·  Aimen Moueffek **5.50**  ·  Javier Marton **1.83**  ·  Jon Magunazelaya **1.91**  ·  Ivan Gil **2.05**  ·  Manuel Rivera **8.00**  ·  Antonito Cordero **3.00**  ·  Imanol Garcia de Albeniz **3.60**  ·  Elijah Gift **1.95**  ·  Jandro Orellana **5.50**  ·  Vladyslav Kopotun **2.88**  ·  Jose Andujar **4.50**  ·  Benat de Jesus **5.00**  ·  Dilan Zarate **6.00**  ·  Eric Perez **2.50**  ·  Markel Arana **5.50**  ·  Noah Ukwuije **8.00**  ·  Sergio Arribas Prieto **9.00**  ·  Iker Zubiría **2.10**  ·  Haritz Ortuzar **4.50**  ·  Cesar Diaz **6.00**  ·  Juan Diaz **6.00**  ·  Damian Rodriguez **5.50**  ·  Jair Amador **6.00**  ·  Juan Bernat **3.75**  ·  Francisco Pejino **1.91**  ·  Borja Vazquez **3.00**  ·  Carlos Lumbreras **1.83**
+- **Player to Score or Assist:** Gonzalo Petit **2.88**  ·  Lander Olaetxea **2.62**  ·  Adu Ares **2.05**  ·  Javi Ontiveros **2.60**  ·  Francisco Mwepu **2.88**  ·  Jose Antonio De La Rosa **4.00**  ·  Bojan Kovacevic **10.00**  ·  Jon Bautista **1.67**  ·  Jon Guruzeta **1.73**  ·  Ander Madariaga **2.50**  ·  Diaz Sergio Alvarez **3.25**  ·  Peru Nolaskoain **3.25**  ·  Cristian Gutierrez **6.00**  ·  Sergio Cubero **3.75**  ·  Anaitz Arbilla **4.75**  ·  Marc-Olivier Doue **6.00**  ·  Alvaro Rodriguez **3.10**  ·  Javier Castro **10.00**  ·  Unai Elgezabal **6.50**  ·  Urko Izeta **3.10**  ·  Lucas Nunez **2.40**  ·  Giorgi Gocholeishvili **5.50**  ·  Manuel Fernandez **8.00**  ·  Aleix Garrido **2.30**  ·  Garcia Pascual **2.50**  ·  Oier Llorente **4.33**  ·  Efe Ugiagbe **3.40**  ·  Iuri Tabatadze **2.75**  ·  Ibon Sanchez **4.00**  ·  Kenan Toubibou **11.00**  ·  Jeronimo Domina **3.40**  ·  Aimen Moueffek **5.50**  ·  Javier Marton **1.80**  ·  Jon Magunazelaya **1.91**  ·  Ivan Gil **2.05**  ·  Manuel Rivera **8.00**  ·  Antonito Cordero **3.00**  ·  Imanol Garcia de Albeniz **3.50**  ·  Elijah Gift **1.95**  ·  Jandro Orellana **5.50**  ·  Vladyslav Kopotun **2.88**  ·  Jose Andujar **4.50**  ·  Benat de Jesus **5.00**  ·  Dilan Zarate **6.00**  ·  Eric Perez **2.38**  ·  Markel Arana **5.50**  ·  Noah Ukwuije **8.00**  ·  Sergio Arribas Prieto **8.50**  ·  Iker Zubiría **2.10**  ·  Haritz Ortuzar **4.33**  ·  Cesar Diaz **6.00**  ·  Juan Diaz **6.00**  ·  Damian Rodriguez **6.00**  ·  Jair Amador **6.00**  ·  Juan Bernat **3.75**  ·  Francisco Pejino **1.91**  ·  Borja Vazquez **2.88**  ·  Carlos Lumbreras **1.83**
 
 ## Estadísticas de equipo
 | | Eibar (total) | Eibar en casa | Cadiz (total) | Cadiz fuera |
@@ -188,7 +190,7 @@ _Sin bajas comunicadas por ahora._
 | G. Gocholeishvili | D | 4 | 217 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 3 | 0,8 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,91 · visitante 1,00 · córners esperados 9,6._
+_Goles esperados: local 1,90 · visitante 0,99 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -200,29 +202,29 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 41% | 42% | 42% | 2.25 | -6% |
 | Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 81% | 83% | 82% | 1.14 | -7% |
-| Ambos marcan: No | 46% | 49% | 47% | 1.91 | -10% |
-| Ambos marcan: Sí | 54% | 51% | 53% | 1.80 | -5% |
-| Goles más/menos: Más de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 54% | 55% | 1.75 | -4% |
-| Goles más/menos: Más de 3.5 | 33% | 34% | 34% | 2.75 | -8% |
-| Goles más/menos: Menos de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles más/menos: Menos de 2.5 | 44% | 46% | 45% | 2.05 | -7% |
-| Goles más/menos: Menos de 3.5 | 67% | 66% | 66% | 1.40 | -7% |
+| Ambos marcan: No | 46% | 46% | 46% | 2.00 | -7% |
+| Ambos marcan: Sí | 54% | 54% | 54% | 1.73 | -7% |
+| Goles más/menos: Más de 1.5 | 78% | 77% | 78% | 1.22 | -5% |
+| Goles más/menos: Más de 2.5 | 55% | 54% | 55% | 1.75 | -4% |
+| Goles más/menos: Más de 3.5 | 33% | 34% | 33% | 2.75 | -8% |
+| Goles más/menos: Menos de 1.5 | 22% | 23% | 22% | 4.00 | -10% |
+| Goles más/menos: Menos de 2.5 | 45% | 46% | 45% | 2.05 | -7% |
+| Goles más/menos: Menos de 3.5 | 67% | 66% | 67% | 1.40 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 71% | 71% | 1.33 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 35% | 36% | 2.62 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 29% | 29% | 3.25 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -7% |
 | Goles del local: Más de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
-| Goles del local: Más de 2.5 | 30% | 29% | 29% | 3.25 | -4% |
+| Goles del local: Más de 2.5 | 30% | 31% | 30% | 3.00 | -9% |
 | Goles del local: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
-| Goles del local: Menos de 2.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Goles del local: Menos de 2.5 | 70% | 69% | 70% | 1.36 | -5% |
 | Goles del visitante: Más de 0.5 | 63% | 61% | 62% | 1.53 | -5% |
 | Goles del visitante: Más de 1.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles del visitante: Menos de 0.5 | 37% | 39% | 38% | 2.38 | -10% |
+| Goles del visitante: Menos de 0.5 | 37% | 39% | 38% | 2.38 | -9% |
 | Goles del visitante: Menos de 1.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Córners más/menos: Más de 9.5 | 46% | 51% | 48% | 1.85 | -10% |
-| Córners más/menos: Menos de 9.5 | 54% | 49% | 52% | 1.95 | +0% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -9% |
-| 1X2 descanso: 1 | 43% | 42% | 42% | 2.20 | -7% |
+| Córners más/menos: Más de 9.5 | 46% | 51% | 49% | 1.85 | -10% |
+| Córners más/menos: Menos de 9.5 | 54% | 49% | 51% | 1.95 | +0% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.38 | -6% |
+| 1X2 descanso: 1 | 42% | 43% | 43% | 2.20 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

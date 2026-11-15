@@ -1,10 +1,10 @@
 # Leixoes – Chaves
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 19:00 (hora España) · Estadio do Mar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **1.90**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.28**  ·  X2 **1.80**
@@ -179,7 +179,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 31% | 51% | 41% | 1.85 | -24% |
 | Goles más/menos: Menos de 3.5 | 52% | 72% | 62% | 1.30 | -19% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 69% | 74% | 1.36 | +0% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 34% | 40% | 2.75 | +10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 34% | 40% | 2.75 | +9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 31% | 26% | 3.00 | -21% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 66% | 60% | 1.40 | -16% |
 | Goles del local: Más de 0.5 | 88% | 78% | 83% | 1.20 | -0% |
@@ -195,7 +195,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Córners más/menos: Más de 9.5 | 42% | 47% | 44% | 2.00 | -11% |
 | Córners más/menos: Menos de 9.5 | 58% | 53% | 56% | 1.80 | -0% |
 | 1X2 descanso: 2 | 24% | 22% | 23% | 4.33 | -0% |
-| 1X2 descanso: X | 35% | 42% | 39% | 2.20 | -14% |
+| 1X2 descanso: X | 36% | 42% | 39% | 2.20 | -14% |
 | 1X2 descanso: 1 | 40% | 36% | 38% | 2.60 | -1% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

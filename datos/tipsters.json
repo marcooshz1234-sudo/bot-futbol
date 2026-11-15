@@ -2451,7 +2451,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.62,
    "prob_cuota": 0.426
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   4
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2471,7 +2476,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.45,
    "prob_cuota": 0.426
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   3,
+   2
+  ]
  },
  {
   "tipster": "INSIDER",

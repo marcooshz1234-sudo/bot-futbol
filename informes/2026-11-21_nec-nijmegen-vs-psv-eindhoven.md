@@ -1,10 +1,10 @@
 # NEC Nijmegen – PSV Eindhoven
 **Eredivisie** · Regular Season - 13 · 21/11/2026 16:30 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:01_
+_Actualizadas: 15/11 02:14_
 
 - **1X2:** 1 **5.00**  ·  X **4.75**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.18**  ·  X2 **1.17**
@@ -218,10 +218,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles del visitante: Más de 2.5 | 45% | 49% | 47% | 1.91 | -11% |
 | Goles del visitante: Más de 3.5 | 24% | 27% | 25% | 3.50 | -11% |
-| Goles del visitante: Menos de 1.5 | 29% | 28% | 28% | 3.40 | -3% |
+| Goles del visitante: Menos de 1.5 | 29% | 28% | 28% | 3.40 | -4% |
 | Goles del visitante: Menos de 2.5 | 55% | 51% | 53% | 1.80 | -4% |
 | Goles del visitante: Menos de 3.5 | 76% | 73% | 75% | 1.28 | -4% |
-| 1X2 descanso: 2 | 50% | 48% | 49% | 1.91 | -6% |
+| 1X2 descanso: 2 | 49% | 48% | 49% | 1.91 | -7% |
 | 1X2 descanso: X | 33% | 32% | 33% | 2.88 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

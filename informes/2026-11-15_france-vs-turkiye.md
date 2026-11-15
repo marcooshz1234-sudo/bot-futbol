@@ -1,10 +1,10 @@
 # France – Türkiye
 **Nations League** · League A - 6 · 15/11/2026 20:45 (hora España) · Matmut Atlantique
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **1.22**  ·  X **7.50**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.10**  ·  X2 **4.00**
@@ -28,11 +28,13 @@ _Actualizadas: 14/11 19:50_
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9: más **1.78** · menos **2.02**
     - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.25**  ·  X **10.00**  ·  2 **4.75**
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
 - **1X2 descanso:** 1 **1.53**  ·  X **3.10**  ·  2 **8.50**
@@ -60,6 +62,7 @@ _Actualizadas: 14/11 19:50_
     - 2,5: más **2.00** · menos **1.73**
 - **Total ShotOnGoal:**
     - 9,5: más **1.83** · menos **1.83**
+    - 10,5: más **2.00** · menos **1.73**
 - **ShotOnTarget 1x2:** 1 **1.08**  ·  X **15.00**  ·  2 **11.00**
 - **Total Shots:**
     - 28,5: más **1.91** · menos **1.80**
@@ -224,21 +227,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 74% | 49% | 61% | 1.91 | +17% |
 | Goles más/menos: Menos de 4.5 | 88% | 66% | 77% | 1.40 | +8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 79% | 73% | 1.18 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 50% | 41% | 1.83 | -26% |
-| Goles 1ª parte más/menos: Más de 2.5 | 11% | 25% | 18% | 3.75 | -33% |
+| Goles 1ª parte más/menos: Más de 1.5 | 31% | 50% | 40% | 1.83 | -26% |
+| Goles 1ª parte más/menos: Más de 2.5 | 10% | 25% | 18% | 3.75 | -34% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 32% | 21% | 27% | 4.50 | +20% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 50% | 59% | 1.83 | +9% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 75% | 82% | 1.25 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 50% | 60% | 1.83 | +9% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 90% | 75% | 82% | 1.25 | +3% |
 | Goles del local: Más de 1.5 | 54% | 77% | 65% | 1.22 | -20% |
 | Goles del local: Más de 2.5 | 27% | 56% | 41% | 1.67 | -31% |
 | Goles del local: Más de 3.5 | 11% | 34% | 22% | 2.75 | -39% |
 | Goles del local: Menos de 1.5 | 46% | 23% | 35% | 4.00 | +39% |
 | Goles del local: Menos de 2.5 | 73% | 44% | 59% | 2.10 | +23% |
 | Goles del local: Menos de 3.5 | 89% | 66% | 78% | 1.40 | +9% |
-| Goles del visitante: Más de 0.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles del visitante: Más de 1.5 | 19% | 22% | 20% | 4.33 | -13% |
-| Goles del visitante: Menos de 0.5 | 46% | 44% | 45% | 2.10 | -6% |
-| Goles del visitante: Menos de 1.5 | 81% | 78% | 80% | 1.20 | -4% |
+| Goles del visitante: Más de 0.5 | 54% | 58% | 56% | 1.62 | -9% |
+| Goles del visitante: Más de 1.5 | 19% | 23% | 21% | 4.00 | -16% |
+| Goles del visitante: Menos de 0.5 | 46% | 42% | 44% | 2.20 | -3% |
+| Goles del visitante: Menos de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
 | Córners más/menos: Más de 9.5 | 38% | 46% | 42% | 2.00 | -16% |
 | Córners más/menos: Menos de 9.5 | 62% | 54% | 58% | 1.73 | +0% |
 | 1X2 descanso: X | 42% | 29% | 36% | 3.10 | +10% |

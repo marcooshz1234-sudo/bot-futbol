@@ -1,54 +1,54 @@
 # Deportivo de La Coruña W – Barcelona W
 **Liga F** · Regular Season - 11 · 15/11/2026 18:00 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
-- **1X2:** 1 **51.00**  ·  X **17.00**  ·  2 **1.02**
-- **Ambos marcan:** Sí **4.00**  ·  No **1.22**
+- **1X2:** 1 **41.00**  ·  X **17.00**  ·  2 **1.03**
+- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
 - **Goles más/menos:**
     - 1,5: más **1.05** · menos **8.50**
     - 2,5: más **1.20** · menos **4.33**
-    - 3,5: más **1.50** · menos **2.50**
-    - 4,5: más **2.10** · menos **1.67**
-    - 5,5: más **3.40** · menos **1.30**
+    - 3,5: más **1.44** · menos **2.62**
+    - 4,5: más **2.00** · menos **1.73**
+    - 5,5: más **3.25** · menos **1.33**
     - 6,5: más **5.00** · menos **1.14**
     - 7,5: más **8.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.11** · menos **6.00**
     - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
+    - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.00** · menos **1.14**
     - 4,5: más **9.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **4.00** · menos **1.22**
+    - 0,5: más **3.50** · menos **1.28**
 - **Goles del visitante:**
-    - 1,5: más **1.06** · menos **8.00**
+    - 1,5: más **1.07** · menos **7.50**
     - 2,5: más **1.25** · menos **3.75**
     - 3,5: más **1.62** · menos **2.20**
     - 4,5: más **2.38** · menos **1.53**
     - 5,5: más **3.75** · menos **1.25**
-    - 6,5: más **6.00** · menos **1.11**
+    - 6,5: más **6.50** · menos **1.10**
     - 7,5: más **9.00** · menos **1.04**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **1.95** · menos **1.85**
-- **1X2 descanso:** 1 **34.00**  ·  X **5.00**  ·  2 **1.17**
+- **1X2 descanso:** 1 **29.00**  ·  X **5.00**  ·  2 **1.17**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.40** · menos **2.75**
     - 2,5: más **2.20** · menos **1.62**
     - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **10.00**  ·  No **1.06**
-- **Both Teams To Score - Second Half:** Sí **7.00**  ·  No **1.10**
-- **To Win Either Half:** 1 **19.00**  ·  2 **1.01**
-- **To Score In Both Halves By Teams:** 1 **34.00**  ·  2 **1.28**
-- **Win Both Halves:** 2 **1.36**
-- **Results/Both Teams Score:** Home/Yes **81.00**  ·  Draw/Yes **23.00**  ·  Away/Yes **4.00**  ·  Home/No **101.00**  ·  Draw/No **29.00**  ·  Away/No **1.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.00**  ·  o/no 2.5 **1.57**  ·  u/yes 2.5 **41.00**  ·  u/no 2.5 **4.75**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
+- **To Win Either Half:** 1 **17.00**  ·  2 **1.01**
+- **To Score In Both Halves By Teams:** 1 **29.00**  ·  2 **1.28**
+- **Win Both Halves:** 2 **1.40**
+- **Results/Both Teams Score:** Home/Yes **51.00**  ·  Draw/Yes **21.00**  ·  Away/Yes **3.60**  ·  Home/No **51.00**  ·  Draw/No **29.00**  ·  Away/No **1.30**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **1.62**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **4.75**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**
 
 ## Estadísticas de equipo
@@ -144,39 +144,39 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,51 · visitante 3,53._
+_Goles esperados: local 0,50 · visitante 3,51._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 91% | 93% | 92% | 1.02 | -6% |
+| 1X2: 2 | 91% | 92% | 91% | 1.03 | -6% |
 | 1X2: X | 7% | 6% | 6% | 17.00 | +4% |
-| 1X2: 1 | 2% | 2% | 2% | 51.00 | +9% |
-| Ambos marcan: No | 61% | 77% | 69% | 1.22 | -16% |
-| Ambos marcan: Sí | 39% | 23% | 31% | 4.00 | +24% |
-| Goles más/menos: Más de 2.5 | 77% | 78% | 78% | 1.20 | -7% |
-| Goles más/menos: Más de 3.5 | 57% | 62% | 60% | 1.50 | -10% |
-| Goles más/menos: Más de 4.5 | 38% | 44% | 41% | 2.10 | -14% |
-| Goles más/menos: Más de 5.5 | 22% | 28% | 25% | 3.40 | -15% |
-| Goles más/menos: Menos de 2.5 | 23% | 22% | 22% | 4.33 | -3% |
-| Goles más/menos: Menos de 3.5 | 43% | 38% | 40% | 2.50 | +0% |
-| Goles más/menos: Menos de 4.5 | 62% | 56% | 59% | 1.67 | -2% |
-| Goles más/menos: Menos de 5.5 | 78% | 72% | 75% | 1.30 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 53% | 59% | 56% | 1.57 | -12% |
-| Goles 1ª parte más/menos: Más de 2.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 47% | 41% | 44% | 2.25 | -0% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del local: Más de 0.5 | 40% | 23% | 32% | 4.00 | +27% |
-| Goles del local: Menos de 0.5 | 60% | 77% | 68% | 1.22 | -17% |
-| Goles del visitante: Más de 2.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles del visitante: Más de 3.5 | 47% | 58% | 52% | 1.62 | -15% |
-| Goles del visitante: Más de 4.5 | 28% | 39% | 34% | 2.38 | -20% |
-| Goles del visitante: Más de 5.5 | 15% | 25% | 20% | 3.75 | -26% |
-| Goles del visitante: Menos de 2.5 | 31% | 25% | 28% | 3.75 | +6% |
+| 1X2: 1 | 2% | 2% | 2% | 41.00 | -3% |
+| Ambos marcan: No | 62% | 73% | 68% | 1.28 | -14% |
+| Ambos marcan: Sí | 38% | 27% | 32% | 3.50 | +14% |
+| Goles más/menos: Más de 2.5 | 76% | 78% | 77% | 1.20 | -7% |
+| Goles más/menos: Más de 3.5 | 57% | 65% | 61% | 1.44 | -13% |
+| Goles más/menos: Más de 4.5 | 37% | 46% | 42% | 2.00 | -16% |
+| Goles más/menos: Más de 5.5 | 22% | 29% | 25% | 3.25 | -18% |
+| Goles más/menos: Menos de 2.5 | 24% | 22% | 23% | 4.33 | -2% |
+| Goles más/menos: Menos de 3.5 | 43% | 35% | 39% | 2.62 | +3% |
+| Goles más/menos: Menos de 4.5 | 63% | 54% | 58% | 1.73 | +1% |
+| Goles más/menos: Menos de 5.5 | 78% | 71% | 75% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 52% | 59% | 55% | 1.57 | -13% |
+| Goles 1ª parte más/menos: Más de 2.5 | 25% | 35% | 30% | 2.62 | -20% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 48% | 41% | 45% | 2.25 | +0% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +0% |
+| Goles del local: Más de 0.5 | 39% | 27% | 33% | 3.50 | +16% |
+| Goles del local: Menos de 0.5 | 61% | 73% | 67% | 1.28 | -14% |
+| Goles del visitante: Más de 2.5 | 68% | 75% | 72% | 1.25 | -11% |
+| Goles del visitante: Más de 3.5 | 47% | 58% | 52% | 1.62 | -16% |
+| Goles del visitante: Más de 4.5 | 28% | 39% | 33% | 2.38 | -21% |
+| Goles del visitante: Más de 5.5 | 14% | 25% | 20% | 3.75 | -26% |
+| Goles del visitante: Menos de 2.5 | 32% | 25% | 28% | 3.75 | +7% |
 | Goles del visitante: Menos de 3.5 | 53% | 42% | 48% | 2.20 | +5% |
-| Goles del visitante: Menos de 4.5 | 72% | 61% | 66% | 1.53 | +2% |
-| Goles del visitante: Menos de 5.5 | 85% | 75% | 80% | 1.25 | +0% |
-| 1X2 descanso: 2 | 71% | 79% | 75% | 1.17 | -12% |
+| Goles del visitante: Menos de 4.5 | 72% | 61% | 67% | 1.53 | +2% |
+| Goles del visitante: Menos de 5.5 | 86% | 75% | 80% | 1.25 | +0% |
+| 1X2 descanso: 2 | 71% | 78% | 75% | 1.17 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

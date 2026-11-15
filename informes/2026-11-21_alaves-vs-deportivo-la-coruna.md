@@ -1,7 +1,7 @@
 # Alaves – Deportivo La Coruna
 **LaLiga** · Regular Season - 13 · 21/11/2026 14:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_
@@ -182,7 +182,7 @@ _Goles esperados: local 1,20 · visitante 1,05 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 32% | 26% | 29% | 3.60 | +3% |
+| 1X2: 2 | 32% | 26% | 29% | 3.60 | +4% |
 | 1X2: X | 29% | 28% | 29% | 3.25 | -7% |
 | 1X2: 1 | 39% | 46% | 43% | 2.00 | -15% |
 | Doble oportunidad: X2 | 61% | 53% | 57% | 1.80 | +2% |

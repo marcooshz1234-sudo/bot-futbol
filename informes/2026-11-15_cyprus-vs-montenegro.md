@@ -1,15 +1,16 @@
 # Cyprus – Montenegro
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España) · Alphamega Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **3.30**  ·  X **3.25**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.33**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
+    - 0,5: más **1.06** · menos **8.00**
     - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.40** · menos **1.30**
@@ -40,7 +41,7 @@ _Actualizadas: 14/11 19:50_
 - **Win Both Halves:** 1 **13.00**  ·  2 **7.00**
 - **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.75**  ·  Home/No **5.50**  ·  Draw/No **9.50**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.30**
-- **Anytime Goal Scorer:** Charalambos Kyriakou **13.00**  ·  Andreas Shikkis **10.00**  ·  Nicholas Tsaroulla **8.00**  ·  Hector Kyprianou **10.00**  ·  Andrija Bulatovic **6.00**  ·  Stevan Jovetic **2.88**  ·  Milutin Osmajic **3.20**  ·  Milan Vukotic **6.00**  ·  Marko Jankovic **7.50**  ·  Milos Brnovic **7.50**  ·  Risto Radunovic **11.00**  ·  Igor Vujacic **13.00**  ·  Milan Roganovic **15.00**  ·  Andronikos Kakoullis **4.00**  ·  Ioannis Pittas **3.40**  ·  Grigoris Kastanos **6.00**  ·  Loizos Loizou **6.00**  ·  Marinos Tzionis **6.50**  ·  Charalampos Charalampous **8.00**  ·  Konstantinos Laifis **10.00**  ·  Kostakis Artymatas **11.00**  ·  Kostas Pileas **10.00**  ·  Nikolas Panayiotou **15.00**  ·  Andrej Duric **13.00**  ·  Aleksa Latkovic **4.00**  ·  Slobodan Rubezic **13.00**  ·  Leonidas Konomis **13.00**  ·  Stavros Georgiou **4.75**  ·  Bodin Tomasevic **13.00**  ·  Viktor Dukanovic **4.00**  ·  Aleksa Maras **3.00**  ·  Ioannis Kosti **6.50**  ·  Sead Haksabanovic **6.00**  ·  Dusan Vukovic **4.00**  ·  Stefan Savic **11.00**  ·  Marcus Edwards **4.75**  ·  Marko Vesovic **11.00**  ·  Angelos Neofytou **4.00**  ·  Iasonas Pikis **3.50**  ·  Panagiotis Andreou **6.00**  ·  Morgan Brown **9.00**  ·  Evagoras Antoniou **15.00**  ·  Giorgos Malekkidis **13.00**  ·  Stefan Loncar **7.50**  ·  Adam Marusic **9.00**  ·  Ognjen Gasevic **13.00**  ·  Vasilije Adzic **4.00**  ·  Nikola Krstovic **3.00**  ·  Zanos Savva **4.75**
+- **Anytime Goal Scorer:** Charalambos Kyriakou **13.00**  ·  Andreas Shikkis **10.00**  ·  Nicholas Tsaroulla **9.00**  ·  Hector Kyprianou **10.00**  ·  Andrija Bulatovic **5.00**  ·  Stevan Jovetic **2.75**  ·  Milutin Osmajic **3.10**  ·  Milan Vukotic **6.00**  ·  Marko Jankovic **7.50**  ·  Milos Brnovic **7.50**  ·  Risto Radunovic **11.00**  ·  Igor Vujacic **13.00**  ·  Milan Roganovic **15.00**  ·  Andronikos Kakoullis **4.00**  ·  Ioannis Pittas **3.40**  ·  Grigoris Kastanos **6.00**  ·  Loizos Loizou **6.00**  ·  Marinos Tzionis **6.50**  ·  Charalampos Charalampous **8.00**  ·  Konstantinos Laifis **10.00**  ·  Kostakis Artymatas **13.00**  ·  Kostas Pileas **10.00**  ·  Nikolas Panayiotou **15.00**  ·  Andrej Duric **13.00**  ·  Aleksa Latkovic **3.75**  ·  Slobodan Rubezic **13.00**  ·  Leonidas Konomis **13.00**  ·  Stavros Georgiou **4.75**  ·  Bodin Tomasevic **13.00**  ·  Viktor Dukanovic **4.00**  ·  Aleksa Maras **3.00**  ·  Ioannis Kosti **6.50**  ·  Sead Haksabanovic **6.00**  ·  Dusan Vukovic **3.75**  ·  Stefan Savic **11.00**  ·  Marcus Edwards **4.75**  ·  Marko Vesovic **11.00**  ·  Angelos Neofytou **4.00**  ·  Iasonas Pikis **3.75**  ·  Panagiotis Andreou **6.00**  ·  Morgan Brown **9.00**  ·  Evagoras Antoniou **15.00**  ·  Giorgos Malekkidis **13.00**  ·  Stefan Loncar **7.50**  ·  Adam Marusic **9.00**  ·  Ognjen Gasevic **13.00**  ·  Vasilije Adzic **4.00**  ·  Nikola Krstovic **3.00**  ·  Zanos Savva **4.75**
 
 ## Estadísticas de equipo
 | | Cyprus (total) | Cyprus en casa | Montenegro (total) | Montenegro fuera |
@@ -191,9 +192,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 18% | 28% | 23% | 3.40 | -23% |
 | Goles más/menos: Menos de 2.5 | 39% | 53% | 46% | 1.80 | -18% |
 | Goles más/menos: Menos de 3.5 | 61% | 72% | 67% | 1.30 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 66% | 70% | 1.40 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 34% | 37% | 2.75 | +1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 34% | 29% | 2.75 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
 | Goles del local: Más de 0.5 | 75% | 66% | 71% | 1.40 | -1% |
 | Goles del local: Más de 1.5 | 41% | 34% | 37% | 2.75 | +2% |
@@ -207,6 +208,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 74% | 79% | 77% | 1.17 | -10% |
 | 1X2 descanso: 2 | 35% | 33% | 34% | 2.75 | -6% |
 | 1X2 descanso: X | 39% | 43% | 41% | 2.10 | -15% |
-| 1X2 descanso: 1 | 26% | 25% | 25% | 3.60 | -8% |
+| 1X2 descanso: 1 | 26% | 25% | 25% | 3.60 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

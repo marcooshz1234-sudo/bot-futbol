@@ -365,5 +365,43 @@
  "Bordeaux|World": [
   44.84124,
   -0.58046
+ ],
+ "St.Gallen|World": null,
+ "Berlin|World": [
+  52.52437,
+  13.41053
+ ],
+ "Reykjavik|World": [
+  64.13548,
+  -21.89541
+ ],
+ "Gibraltar|World": [
+  36.14474,
+  -5.35257
+ ],
+ "Astana|World": [
+  51.1801,
+  71.44598
+ ],
+ "Volos|World": [
+  39.36923,
+  22.94769
+ ],
+ "Skopje|World": null,
+ "Kaunas|World": [
+  54.90156,
+  23.90909
+ ],
+ "Albacete|Spain": [
+  38.99424,
+  -1.85643
+ ],
+ "Tallinn|World": [
+  59.43696,
+  24.75353
+ ],
+ "Torshavn|World": [
+  62.00973,
+  -6.77164
  ]
 }

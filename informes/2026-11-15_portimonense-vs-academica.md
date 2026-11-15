@@ -1,13 +1,13 @@
 # Portimonense – Academica
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 15:00 (hora España) · Estádio Municipal de Portimão
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 19:50_
+_Actualizadas: 15/11 02:12_
 
 - **1X2:** 1 **2.20**  ·  X **3.10**  ·  2 **3.00**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.62**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -184,9 +184,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 41% | 30% | 36% | 3.00 | +7% |
 | 1X2: X | 30% | 29% | 29% | 3.10 | -9% |
 | 1X2: 1 | 29% | 41% | 35% | 2.20 | -23% |
-| Doble oportunidad: X2 | 71% | 58% | 65% | 1.62 | +5% |
-| Doble oportunidad: 12 | 70% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 59% | 71% | 65% | 1.33 | -14% |
+| Doble oportunidad: X2 | 71% | 60% | 65% | 1.57 | +2% |
+| Doble oportunidad: 12 | 70% | 70% | 70% | 1.33 | -7% |
+| Doble oportunidad: 1X | 59% | 70% | 65% | 1.33 | -14% |
 | Ambos marcan: No | 58% | 50% | 54% | 1.83 | -1% |
 | Ambos marcan: Sí | 42% | 50% | 46% | 1.83 | -16% |
 | Goles más/menos: Más de 1.5 | 62% | 71% | 66% | 1.33 | -12% |
@@ -195,8 +195,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 38% | 29% | 34% | 3.25 | +9% |
 | Goles más/menos: Menos de 2.5 | 65% | 55% | 60% | 1.73 | +4% |
 | Goles más/menos: Menos de 3.5 | 84% | 75% | 80% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -18% |
+| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 69% | 73% | 1.36 | -1% |
 | Goles del local: Más de 0.5 | 61% | 73% | 67% | 1.28 | -14% |

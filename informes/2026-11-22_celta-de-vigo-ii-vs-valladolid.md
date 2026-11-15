@@ -1,7 +1,7 @@
 # Celta de Vigo II – Valladolid
 **Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | M. Lachuer | M | 8 | 250 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 8 | 4 | 0,5 | 4 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 1,78 · córners esperados 9,2._
+_Goles esperados: local 1,47 · visitante 1,76 · córners esperados 9,3._
 
 _Sin cuotas de Bet365 todavía para comparar._

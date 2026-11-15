@@ -1,7 +1,7 @@
 # Real Madrid W – Inter Milano W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Real Madrid W (total) | Real Madrid W en casa | Inter Milano W (total) | Inter Milano W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 6 | 3 |
-| Forma (últimos 5) | VEVEV | VVVEV | DDEVV | DED |
-| Balance | 10V 5E 1D | 6V 2E 0D | 2V 1E 3D | 0V 1E 2D |
-| Goles a favor / partido | 2,12 | 2,25 | 1,00 | 0,33 |
-| Goles en contra / partido | 1,44 | 1,00 | 2,33 | 3,00 |
-| Goles a favor 1ª parte | 0,94 | 0,88 | 0,50 | 0,00 |
-| Goles a favor 2ª parte | 1,19 | 1,38 | 0,50 | 0,33 |
-| Goles en contra 1ª parte | 0,69 | 0,38 | 1,00 | 1,33 |
-| Goles en contra 2ª parte | 0,75 | 0,62 | 1,33 | 1,67 |
-| Más de 1,5 goles | 94% | 88% | 83% | 100% |
-| Más de 2,5 goles | 62% | 75% | 50% | 33% |
-| Más de 3,5 goles | 50% | 50% | 50% | 33% |
-| Ambos marcan | 69% | 75% | 50% | 33% |
-| Portería a cero | 25% | 25% | 17% | 0% |
-| Se queda sin marcar | 12% | 12% | 33% | 67% |
+| Partidos analizados | 17 | 9 | 6 | 3 |
+| Forma (últimos 5) | EVEVE | EVVVE | DDEVV | DED |
+| Balance | 10V 6E 1D | 6V 3E 0D | 2V 1E 3D | 0V 1E 2D |
+| Goles a favor / partido | 2,18 | 2,33 | 1,00 | 0,33 |
+| Goles en contra / partido | 1,53 | 1,22 | 2,33 | 3,00 |
+| Goles a favor 1ª parte | 0,88 | 0,78 | 0,50 | 0,00 |
+| Goles a favor 2ª parte | 1,29 | 1,56 | 0,50 | 0,33 |
+| Goles en contra 1ª parte | 0,71 | 0,44 | 1,00 | 1,33 |
+| Goles en contra 2ª parte | 0,82 | 0,78 | 1,33 | 1,67 |
+| Más de 1,5 goles | 94% | 89% | 83% | 100% |
+| Más de 2,5 goles | 65% | 78% | 50% | 33% |
+| Más de 3,5 goles | 53% | 56% | 50% | 33% |
+| Ambos marcan | 71% | 78% | 50% | 33% |
+| Portería a cero | 24% | 22% | 17% | 0% |
+| Se queda sin marcar | 12% | 11% | 33% | 67% |
 | xG a favor | 2,46 | 3,60 | 0,84 | 0,50 |
 | xG en contra | 1,67 | 0,68 | 3,56 | 3,66 |
 | Tiros / partido | 14,8 | 17,5 | 11,5 | 8,0 |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 2 | 1 | 1 | 0 | 0 |
 | 16-30' | 3 | 3 | 7 | 1 | 2 | 0 |
-| 31-45' | 6 | 6 | 4 | 1 | 4 | 2 |
+| 31-45' | 6 | 7 | 5 | 1 | 4 | 2 |
 | 46-60' | 3 | 6 | 3 | 0 | 3 | 3 |
-| 61-75' | 5 | 2 | 2 | 0 | 2 | 2 |
-| 76-90' | 11 | 4 | 10 | 3 | 3 | 4 |
+| 61-75' | 7 | 3 | 2 | 0 | 2 | 2 |
+| 76-90' | 12 | 5 | 11 | 3 | 3 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -68,12 +68,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Real Madrid W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Liga F | Real Madrid W 3-3 FC Levante Badalona W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-10 | Champions Femenina | Real Madrid W 3-0 Paris FC W | casa | 5-1 | 23 (9) - 8 (2) | 2-0 |
 | 2026-11-07 | Liga F | Athletic Club W 1-1 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Liga F | Sevilla W 1-3 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-28 | Champions Femenina | Bayern Munich W 2-2 Real Madrid W | fuera | 0-7 | 8 (4) - 16 (4) | 2-2 |
 | 2026-10-24 | Liga F | Real Madrid W 3-2 Granad. Tenerife W | casa | –-– | – (–) - – (–) | –-– |
-| 2026-10-17 | Liga F | Real Madrid W 3-1 Espanyol W | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Real Madrid W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -94,6 +94,6 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,54 · visitante 0,96 · córners esperados 9,0._
+_Goles esperados: local 2,56 · visitante 1,04 · córners esperados 9,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -66,6 +66,25 @@
    ]
   },
   {
+   "partido_id": 1552827,
+   "fecha": "2026-11-20T20:45",
+   "local": "Estac Troyes",
+   "visitante": "Le Havre",
+   "liga": "Ligue 1",
+   "datos": [
+    "Los partidos del Estac Troyes llevan 2,6 goles de media (últimos 8).",
+    "Los partidos del Le Havre llevan 3,5 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552827|Total - Away|Over 0.5",
+     "texto": "Le Havre marca",
+     "cuota": 1.36,
+     "prob": 0.51
+    }
+   ]
+  },
+  {
    "partido_id": 1570454,
    "fecha": "2026-11-20T21:00",
    "local": "Athletic Club",
@@ -82,7 +101,7 @@
     {
      "sel": "1570454|Match Winner|Home",
      "texto": "Gana el Athletic Club",
-     "cuota": 1.48,
+     "cuota": 1.45,
      "prob": 0.64
     },
     {
@@ -303,7 +322,7 @@
      "sel": "1575222|Total - Away|Over 0.5",
      "texto": "SC Paderborn 07 marca",
      "cuota": 1.57,
-     "prob": 0.45
+     "prob": 0.46
     }
    ]
   },
@@ -334,7 +353,7 @@
      "sel": "1575223|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Eintracht Frankfurt–1899 Hoffenheim",
      "cuota": 1.53,
-     "prob": 0.56
+     "prob": 0.57
     },
     {
      "sel": "1575223|Home Player Shots|Fares Chaibi - 2",
@@ -406,7 +425,7 @@
      "sel": "1557467|Match Winner|Home",
      "texto": "Gana el Aston Villa",
      "cuota": 1.7,
-     "prob": 0.7
+     "prob": 0.69
     },
     {
      "sel": "1557467|To Win Either Half|Home",
@@ -557,7 +576,7 @@
      "sel": "1552229|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del NEC Nijmegen–PSV Eindhoven",
      "cuota": 1.5,
-     "prob": 0.53
+     "prob": 0.54
     },
     {
      "sel": "1552229|Both Teams Score|Yes",
@@ -652,7 +671,7 @@
     {
      "sel": "1570462|Double Chance|Home/Draw",
      "texto": "Sevilla o empate",
-     "cuota": 1.57,
+     "cuota": 1.67,
      "prob": 0.52
     },
     {
@@ -742,15 +761,27 @@
    ],
    "picks": [
     {
+     "sel": "1552820|Home Player Shots|Soriba Diaoune - 2",
+     "texto": "Soriba Diaoune: 2+ tiros",
+     "cuota": 1.36,
+     "prob": 0.54
+    },
+    {
      "sel": "1552820|Double Chance|Home/Draw",
      "texto": "Lille o empate",
      "cuota": 1.36,
      "prob": 0.52
     },
     {
+     "sel": "1552820|Total - Away|Over 0.5",
+     "texto": "Lyon marca",
+     "cuota": 1.36,
+     "prob": 0.51
+    },
+    {
      "sel": "1552820|Both Teams Score|Yes",
      "texto": "Ambos marcan en Lille–Lyon",
-     "cuota": 1.7,
+     "cuota": 1.8,
      "prob": 0.45
     }
    ]
@@ -769,26 +800,14 @@
     {
      "sel": "1552819|Total - Home|Over 1.5",
      "texto": "Lens marca 2 o más",
-     "cuota": 1.62,
+     "cuota": 1.73,
      "prob": 0.59
-    },
-    {
-     "sel": "1552819|Away Player Shots|Casper Tengstedt - 2",
-     "texto": "Casper Tengstedt: 2+ tiros",
-     "cuota": 1.4,
-     "prob": 0.55
-    },
-    {
-     "sel": "1552819|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Lens–Toulouse",
-     "cuota": 1.8,
-     "prob": 0.54
     },
     {
      "sel": "1552819|Total - Away|Over 0.5",
      "texto": "Toulouse marca",
-     "cuota": 1.4,
-     "prob": 0.51
+     "cuota": 1.36,
+     "prob": 0.52
     },
     {
      "sel": "1552819|Both Teams Score|Yes",
@@ -929,11 +948,16 @@
      "texto": "Más de 1,5 goles en la 2ª parte del Real Madrid–Celta Vigo",
      "cuota": 1.62,
      "prob": 0.51
+    },
+    {
+     "sel": "1570461|Total - Away|Over 0.5",
+     "texto": "Celta Vigo marca",
+     "cuota": 1.8,
+     "prob": 0.46
     }
    ]
   }
  ],
- "2026-11-18": [],
  "2026-11-22": [
   {
    "partido_id": 1550201,
@@ -1325,13 +1349,13 @@
      "sel": "1557473|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Liverpool–Manchester United",
      "cuota": 1.73,
-     "prob": 0.54
+     "prob": 0.55
     },
     {
      "sel": "1557473|Both Teams Score|Yes",
      "texto": "Ambos marcan en Liverpool–Manchester United",
      "cuota": 1.53,
-     "prob": 0.44
+     "prob": 0.45
     }
    ]
   },
@@ -1362,7 +1386,7 @@
      "sel": "1550197|Both Teams Score|Yes",
      "texto": "Ambos marcan en AC Milan–Frosinone",
      "cuota": 1.44,
-     "prob": 0.47
+     "prob": 0.48
     }
    ]
   },
@@ -1396,6 +1420,137 @@
      "prob": 0.42
     }
    ]
+  },
+  {
+   "partido_id": 1552822,
+   "fecha": "2026-11-22T20:45",
+   "local": "Marseille",
+   "visitante": "Le Mans",
+   "liga": "Ligue 1",
+   "datos": [
+    "El Le Mans no ha ganado fuera en sus últimos 5 partidos.",
+    "El Marseille va 4º y el Le Mans 16º en la liga.",
+    "El Marseille ha ganado 4 de sus últimos 5 partidos.",
+    "Los partidos del Marseille llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Le Mans llevan 2,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1552822|Match Winner|Home",
+     "texto": "Gana el Marseille",
+     "cuota": 1.42,
+     "prob": 0.69
+    },
+    {
+     "sel": "1552822|Total - Home|Over 1.5",
+     "texto": "Marseille marca 2 o más",
+     "cuota": 1.4,
+     "prob": 0.61
+    },
+    {
+     "sel": "1552822|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Marseille–Le Mans",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1552822|Total - Away|Over 0.5",
+     "texto": "Le Mans marca",
+     "cuota": 1.5,
+     "prob": 0.49
+    },
+    {
+     "sel": "1552822|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Marseille–Le Mans",
+     "cuota": 1.67,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1550198,
+   "fecha": "2026-11-22T20:45",
+   "local": "Atalanta",
+   "visitante": "Inter",
+   "liga": "Serie A",
+   "datos": [
+    "El Inter va 2º y el Atalanta 11º en la liga.",
+    "Los partidos del Atalanta llevan 3,6 goles de media (últimos 8).",
+    "Los partidos del Inter llevan 3,2 goles de media (últimos 8).",
+    "El Atalanta solo ha ganado 1 de sus últimos 5.",
+    "El Inter ha ganado 4 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1550198|Home Player Shots On Target Total|Nikola Krstovic - 1",
+     "texto": "Nikola Krstovic: 1+ tiros a puerta",
+     "cuota": 1.44,
+     "prob": 0.58
+    },
+    {
+     "sel": "1550198|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Atalanta–Inter",
+     "cuota": 1.62,
+     "prob": 0.53
+    },
+    {
+     "sel": "1550198|Match Winner|Away",
+     "texto": "Gana el Inter",
+     "cuota": 1.62,
+     "prob": 0.51
+    },
+    {
+     "sel": "1550198|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Atalanta–Inter",
+     "cuota": 1.44,
+     "prob": 0.47
+    },
+    {
+     "sel": "1550198|Total - Away|Over 1.5",
+     "texto": "Inter marca 2 o más",
+     "cuota": 1.44,
+     "prob": 0.38
+    }
+   ]
+  },
+  {
+   "partido_id": 1570456,
+   "fecha": "2026-11-22T21:00",
+   "local": "Getafe",
+   "visitante": "Atletico Madrid",
+   "liga": "LaLiga",
+   "datos": [
+    "El Atletico Madrid va 3º y el Getafe 13º en la liga.",
+    "Los partidos del Getafe llevan 3,4 goles de media (últimos 8).",
+    "Los partidos del Atletico Madrid llevan 2,0 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570456|Total - Home|Over 0.5",
+     "texto": "Getafe marca",
+     "cuota": 1.67,
+     "prob": 0.61
+    },
+    {
+     "sel": "1570456|Match Winner|Away",
+     "texto": "Gana el Atletico Madrid",
+     "cuota": 1.62,
+     "prob": 0.48
+    },
+    {
+     "sel": "1570456|To Win Either Half|Away",
+     "texto": "Atletico Madrid gana alguna de las dos partes",
+     "cuota": 1.36,
+     "prob": 0.44
+    },
+    {
+     "sel": "1570456|Total - Away|Over 1.5",
+     "texto": "Atletico Madrid marca 2 o más",
+     "cuota": 1.8,
+     "prob": 0.34
+    }
+   ]
   }
- ]
+ ],
+ "2026-11-19": []
 }

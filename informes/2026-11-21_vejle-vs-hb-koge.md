@@ -1,7 +1,7 @@
 # Vejle – HB Koge
 **1. Division** · Regular Season - 15 · 21/11/2026 13:30 (hora España) · Vejle Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_
@@ -146,11 +146,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 15% | 16% | 15% | 5.75 | -11% |
 | 1X2: X | 16% | 21% | 19% | 4.33 | -19% |
 | 1X2: 1 | 68% | 63% | 66% | 1.44 | -5% |
-| Doble oportunidad: X2 | 32% | 37% | 34% | 2.50 | -14% |
+| Doble oportunidad: X2 | 32% | 37% | 35% | 2.50 | -14% |
 | Doble oportunidad: 12 | 84% | 79% | 81% | 1.18 | -4% |
 | Doble oportunidad: 1X | 85% | 83% | 84% | 1.12 | -6% |
-| Ambos marcan: No | 35% | 42% | 38% | 2.20 | -15% |
-| Ambos marcan: Sí | 65% | 58% | 62% | 1.62 | -0% |
+| Ambos marcan: No | 34% | 42% | 38% | 2.20 | -15% |
+| Ambos marcan: Sí | 66% | 58% | 62% | 1.62 | -0% |
 | Goles más/menos: Más de 2.5 | 75% | 62% | 69% | 1.50 | +3% |
 | Goles más/menos: Más de 3.5 | 54% | 42% | 48% | 2.20 | +7% |
 | Goles más/menos: Más de 4.5 | 35% | 25% | 30% | 3.75 | +12% |
@@ -158,9 +158,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 46% | 58% | 52% | 1.62 | -16% |
 | Goles más/menos: Menos de 4.5 | 65% | 75% | 70% | 1.25 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 51% | 42% | 46% | 2.20 | +2% |
+| Goles 1ª parte más/menos: Más de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 58% | 54% | 1.62 | -13% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
 | Goles del local: Más de 1.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Goles del local: Más de 2.5 | 50% | 41% | 46% | 2.25 | +3% |
 | Goles del local: Más de 3.5 | 28% | 21% | 24% | 4.50 | +10% |

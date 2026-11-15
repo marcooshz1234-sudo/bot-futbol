@@ -1,10 +1,10 @@
 # Telstar – PEC Zwolle
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · BUKO Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 14/11 02:09_
+_Actualizadas: 15/11 02:14_
 
 - **1X2:** 1 **1.95**  ·  X **3.75**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.25**  ·  X2 **1.80**
@@ -205,7 +205,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 44% | 37% | 2.10 | -23% |
 | Goles 1ª parte más/menos: Más de 2.5 | 9% | 21% | 15% | 4.50 | -32% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +16% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 56% | 63% | 1.67 | +6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 79% | 85% | 1.18 | +0% |
 | Goles del local: Más de 1.5 | 42% | 58% | 50% | 1.62 | -19% |

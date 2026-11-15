@@ -1,7 +1,7 @@
 # Granada – Real Madrid W
 **Liga F** · Regular Season - 12 · 22/11/2026 12:00 (hora España) · Ciudad Deportiva del Granada
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,20 +9,20 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Granada (total) | Granada en casa | Real Madrid W (total) | Real Madrid W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 16 | 8 |
-| Forma (últimos 5) | DEDVE | DEEDV | VEVEV | EVEDE |
-| Balance | 3V 2E 5D | 1V 2E 2D | 10V 5E 1D | 4V 3E 1D |
-| Goles a favor / partido | 0,90 | 0,80 | 2,12 | 2,00 |
-| Goles en contra / partido | 1,60 | 1,40 | 1,44 | 1,88 |
-| Goles a favor 1ª parte | 0,30 | 0,40 | 0,94 | 1,00 |
-| Goles a favor 2ª parte | 0,60 | 0,40 | 1,19 | 1,00 |
-| Goles en contra 1ª parte | 0,90 | 1,00 | 0,69 | 1,00 |
-| Goles en contra 2ª parte | 0,70 | 0,40 | 0,75 | 0,88 |
+| Partidos analizados | 10 | 5 | 17 | 8 |
+| Forma (últimos 5) | DEDVE | DEEDV | EVEVE | EVEDE |
+| Balance | 3V 2E 5D | 1V 2E 2D | 10V 6E 1D | 4V 3E 1D |
+| Goles a favor / partido | 0,90 | 0,80 | 2,18 | 2,00 |
+| Goles en contra / partido | 1,60 | 1,40 | 1,53 | 1,88 |
+| Goles a favor 1ª parte | 0,30 | 0,40 | 0,88 | 1,00 |
+| Goles a favor 2ª parte | 0,60 | 0,40 | 1,29 | 1,00 |
+| Goles en contra 1ª parte | 0,90 | 1,00 | 0,71 | 1,00 |
+| Goles en contra 2ª parte | 0,70 | 0,40 | 0,82 | 0,88 |
 | Más de 1,5 goles | 60% | 60% | 94% | 100% |
-| Más de 2,5 goles | 50% | 40% | 62% | 50% |
-| Más de 3,5 goles | 30% | 20% | 50% | 50% |
-| Ambos marcan | 40% | 40% | 69% | 62% |
-| Portería a cero | 20% | 20% | 25% | 25% |
+| Más de 2,5 goles | 50% | 40% | 65% | 50% |
+| Más de 3,5 goles | 30% | 20% | 53% | 50% |
+| Ambos marcan | 40% | 40% | 71% | 62% |
+| Portería a cero | 20% | 20% | 24% | 25% |
 | Se queda sin marcar | 50% | 60% | 12% | 12% |
 | xG a favor | – | – | 2,46 | 1,33 |
 | xG en contra | – | – | 1,67 | 2,65 |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 2 | 1 | 6 | 2 | 1 |
 | 16-30' | 3 | 3 | 3 | 3 | 3 | 7 |
-| 31-45' | 0 | 4 | 6 | 6 | 6 | 4 |
+| 31-45' | 0 | 4 | 6 | 6 | 7 | 5 |
 | 46-60' | 1 | 1 | 4 | 3 | 6 | 3 |
-| 61-75' | 2 | 4 | 8 | 5 | 2 | 2 |
-| 76-90' | 3 | 2 | 6 | 11 | 4 | 10 |
+| 61-75' | 2 | 4 | 8 | 7 | 3 | 2 |
+| 76-90' | 3 | 2 | 6 | 12 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -87,18 +87,18 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Madrid W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Liga F | Real Madrid W 3-3 FC Levante Badalona W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-10 | Champions Femenina | Real Madrid W 3-0 Paris FC W | casa | 5-1 | 23 (9) - 8 (2) | 2-0 |
 | 2026-11-07 | Liga F | Athletic Club W 1-1 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Liga F | Sevilla W 1-3 Real Madrid W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-28 | Champions Femenina | Bayern Munich W 2-2 Real Madrid W | fuera | 0-7 | 8 (4) - 16 (4) | 2-2 |
 | 2026-10-24 | Liga F | Real Madrid W 3-2 Granad. Tenerife W | casa | –-– | – (–) - – (–) | –-– |
-| 2026-10-17 | Liga F | Real Madrid W 3-1 Espanyol W | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Real Madrid W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,87 · visitante 2,11._
+_Goles esperados: local 0,94 · visitante 2,07._
 
 _Sin cuotas de Bet365 todavía para comparar._

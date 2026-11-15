@@ -1,7 +1,7 @@
 # Twente – Willem II
 **Eredivisie** · Regular Season - 13 · 22/11/2026 12:15 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_
@@ -206,10 +206,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 29% | 35% | 32% | 2.62 | -16% |
 | Goles más/menos: Menos de 4.5 | 47% | 54% | 50% | 1.73 | -13% |
 | Goles más/menos: Menos de 5.5 | 64% | 71% | 68% | 1.33 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 63% | 59% | 61% | 1.57 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 36% | 34% | 35% | 2.75 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 37% | 41% | 39% | 2.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 64% | 66% | 65% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 62% | 59% | 61% | 1.57 | -5% |
+| Goles 1ª parte más/menos: Más de 2.5 | 35% | 34% | 35% | 2.75 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 38% | 41% | 39% | 2.25 | -11% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 65% | 66% | 65% | 1.40 | -8% |
 | Goles del local: Más de 2.5 | 79% | 73% | 76% | 1.28 | -3% |
 | Goles del local: Más de 3.5 | 60% | 54% | 57% | 1.73 | -2% |
 | Goles del local: Más de 4.5 | 41% | 35% | 38% | 2.62 | -0% |

@@ -1,10 +1,10 @@
 # SV Elversberg – SC Freiburg
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **3.25**  ·  X **3.80**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.33**
@@ -197,9 +197,9 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Goles más/menos: Menos de 3.5 | 60% | 57% | 59% | 1.67 | -2% |
 | Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 42% | 41% | 2.20 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 58% | 59% | 1.62 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
 | Goles del local: Más de 0.5 | 72% | 75% | 74% | 1.25 | -8% |
 | Goles del local: Más de 1.5 | 37% | 42% | 40% | 2.20 | -13% |
 | Goles del local: Menos de 0.5 | 28% | 25% | 26% | 3.75 | -1% |
@@ -208,8 +208,8 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Goles del visitante: Más de 2.5 | 30% | 29% | 30% | 3.25 | -4% |
 | Goles del visitante: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
 | Goles del visitante: Menos de 2.5 | 70% | 71% | 70% | 1.33 | -6% |
-| 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -4% |
-| 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -6% |
-| 1X2 descanso: 1 | 23% | 26% | 24% | 3.60 | -12% |
+| 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -5% |
+| 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
+| 1X2 descanso: 1 | 23% | 26% | 24% | 3.60 | -13% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

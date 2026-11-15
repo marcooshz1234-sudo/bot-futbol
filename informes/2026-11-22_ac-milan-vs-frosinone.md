@@ -1,7 +1,7 @@
 # AC Milan – Frosinone
 **Serie A** · Regular Season - 12 · 22/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:52_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | Kevin Akpoguma | D | 2 | 129 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,16 · visitante 1,51 · córners esperados 9,4._
+_Goles esperados: local 2,15 · visitante 1,51 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -204,11 +204,11 @@ _Goles esperados: local 2,16 · visitante 1,51 · córners esperados 9,4._
 | Goles más/menos: Menos de 3.5 | 50% | 50% | 50% | 1.91 | -4% |
 | Goles más/menos: Menos de 4.5 | 69% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 23% | 22% | 4.00 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
+| Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 77% | 78% | 1.22 | -5% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
 | Goles del local: Más de 2.5 | 37% | 44% | 40% | 2.10 | -15% |
 | Goles del local: Más de 3.5 | 17% | 23% | 20% | 4.00 | -19% |

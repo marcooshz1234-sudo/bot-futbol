@@ -1,10 +1,10 @@
 # Bayer Leverkusen – SC Paderborn 07
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **1.25**  ·  X **6.00**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **3.75**
@@ -207,8 +207,8 @@ _Goles esperados: local 1,92 · visitante 0,84 · córners esperados 9,7._
 | Goles más/menos: Menos de 5.5 | 94% | 79% | 86% | 1.20 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 79% | 75% | 1.18 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 50% | 42% | 1.83 | -23% |
-| Goles 1ª parte más/menos: Más de 2.5 | 12% | 25% | 19% | 3.75 | -30% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 21% | 25% | 4.50 | +14% |
+| Goles 1ª parte más/menos: Más de 2.5 | 12% | 25% | 19% | 3.75 | -31% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 21% | 25% | 4.50 | +15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 50% | 58% | 1.83 | +6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 75% | 81% | 1.25 | +2% |
 | Goles del local: Más de 1.5 | 57% | 77% | 67% | 1.22 | -18% |

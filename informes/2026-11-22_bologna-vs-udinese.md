@@ -1,7 +1,7 @@
 # Bologna – Udinese
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:52_
@@ -200,9 +200,9 @@ _Goles esperados: local 2,14 · visitante 0,96 · córners esperados 9,7._
 | Goles más/menos: Menos de 1.5 | 18% | 25% | 22% | 3.75 | -18% |
 | Goles más/menos: Menos de 2.5 | 40% | 50% | 45% | 1.91 | -14% |
 | Goles más/menos: Menos de 3.5 | 62% | 72% | 67% | 1.33 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 69% | 72% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 28% | 3.00 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
 | Goles del local: Más de 1.5 | 63% | 50% | 57% | 1.83 | +4% |
 | Goles del local: Más de 2.5 ✅ | 36% | 25% | 31% | 3.75 | +15% |

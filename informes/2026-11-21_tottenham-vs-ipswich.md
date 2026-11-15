@@ -1,10 +1,10 @@
 # Tottenham – Ipswich
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:00_
+_Actualizadas: 15/11 02:13_
 
 - **1X2:** 1 **1.53**  ·  X **4.20**  ·  2 **5.75**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.22**  ·  X2 **2.38**
@@ -195,9 +195,9 @@ _Goles esperados: local 1,71 · visitante 1,23 · córners esperados 9,8._
 | Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
 | Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 41% | 39% | 2.25 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 59% | 61% | 1.57 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
 | Goles del local: Más de 1.5 | 51% | 62% | 57% | 1.50 | -15% |
 | Goles del local: Más de 2.5 | 24% | 35% | 30% | 2.62 | -21% |
 | Goles del local: Menos de 1.5 ✅ | 49% | 38% | 43% | 2.50 | +8% |

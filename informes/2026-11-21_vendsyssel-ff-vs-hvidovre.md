@@ -1,7 +1,7 @@
 # Vendsyssel FF – Hvidovre
 **1. Division** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nord Energi Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_
@@ -158,10 +158,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | -0% |
 | Goles más/menos: Menos de 3.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.18 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 37% | 2.38 | -13% |
+| Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 36% | 2.38 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 63% | 1.53 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 64% | 1.53 | -3% |
 | Goles del local: Más de 0.5 | 56% | 71% | 63% | 1.33 | -16% |
 | Goles del local: Más de 1.5 | 20% | 35% | 27% | 2.62 | -28% |
 | Goles del local: Menos de 0.5 | 44% | 29% | 37% | 3.25 | +19% |

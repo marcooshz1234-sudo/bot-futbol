@@ -1,13 +1,13 @@
 # Sevilla – Real Betis
 **LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 14/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 02:15._
 
 ## Cuotas Bet365
-_Actualizadas: 13/11 20:01_
+_Actualizadas: 15/11 02:14_
 
-- **1X2:** 1 **2.80**  ·  X **3.50**  ·  2 **2.30**
-- **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.40**
+- **1X2:** 1 **3.00**  ·  X **3.50**  ·  2 **2.20**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -15,36 +15,38 @@ _Actualizadas: 13/11 20:01_
     - 2,5: más **1.73** · menos **2.10**
     - 3,5: más **2.75** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.25** · menos **1.57**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
-- **1X2 descanso:** 1 **3.40**  ·  X **2.30**  ·  2 **2.88**
+- **1X2 descanso:** 1 **3.50**  ·  X **2.30**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.83**  ·  2 **1.67**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.67**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.25**
-- **Win Both Halves:** 1 **10.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **4.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
-- **Away Player Shots On Target Total:** Valentin Gomez **34.00**  ·  Giorgi Kochorashvili **21.00**  ·  Troy Parrott **15.00**  ·  Nelson Deossa **34.00**  ·  Gabriel Suazo **41.00**  ·  Facundo Bernal **29.00**  ·  Abdessamad Ezzalzouli **34.00**  ·  Felix Correia **19.00**  ·  Miguel Sierra **17.00**  ·  Arouna Sangante **17.00**  ·  Lucas Stassin **17.00**  ·  Cucho Hernandez **15.00**  ·  Robbie Ure **15.00**  ·  Ruben Vargas **26.00**  ·  Antony **51.00**  ·  Lucien Agoume **29.00**  ·  Alarcon Isco **34.00**  ·  Hector Bellerin **126.00**  ·  Alvaro Fidalgo **51.00**  ·  Alfonso Gonzalez **34.00**  ·  Julio Diaz **67.00**  ·  Santos Fabio Cardoso **23.00**  ·  Nico Guillen **41.00**  ·  Chidera Ejuke **29.00**  ·  Juan Iglesias **67.00**  ·  Diego Llorente **19.00**  ·  Giovani Lo Celso **34.00**  ·  Marc Roca **67.00**  ·  Pablo Fornals **41.00**  ·  Natan Bernardo **19.00**  ·  Angel Ortiz **67.00**  ·  Rodrigo Riquelme **81.00**  ·  Youssouf Fofana **51.00**  ·  Isaac Romero **12.00**  ·  Kike Salas **11.00**  ·  Marc Bartra **23.00**  ·  Jon Guridi **41.00**  ·  Manu Bueno **41.00**  ·  Gerard Peque Fernandez **23.00**  ·  Jose Carmona **15.00**  ·  Dani Ceballos **67.00**  ·  Francisco Garcia **126.00**  ·  Andres Castrin **34.00**
-- **Anytime Goal Scorer:** Valentin Gomez **15.00**  ·  Giorgi Kochorashvili **5.50**  ·  Troy Parrott **2.40**  ·  Nelson Deossa **5.50**  ·  Gabriel Suazo **10.00**  ·  Facundo Bernal **7.00**  ·  Abdessamad Ezzalzouli **3.60**  ·  Felix Correia **4.00**  ·  Miguel Sierra **3.40**  ·  Jose Morante **5.50**  ·  Arouna Sangante **10.00**  ·  Lucas Stassin **2.75**  ·  Cucho Hernandez **2.60**  ·  Robbie Ure **2.40**  ·  Ruben Vargas **4.50**  ·  Antony **3.25**  ·  Lucien Agoume **7.00**  ·  Alarcon Isco **3.60**  ·  Hector Bellerin **15.00**  ·  Alvaro Fidalgo **5.50**  ·  Alfonso Gonzalez **3.75**  ·  Julio Diaz **10.00**  ·  Santos Fabio Cardoso **15.00**  ·  Nico Guillen **5.50**  ·  Chidera Ejuke **3.40**  ·  Juan Iglesias **8.00**  ·  Jesus Cruz **5.50**  ·  Diego Llorente **12.00**  ·  Giovani Lo Celso **4.00**  ·  Marc Roca **8.00**  ·  Pablo Fornals **4.50**  ·  Natan Bernardo **15.00**  ·  Angel Ortiz **12.00**  ·  Rodrigo Riquelme **4.50**  ·  Youssouf Fofana **8.00**  ·  Isaac Romero **2.60**  ·  Kike Salas **8.00**  ·  Marc Bartra **7.50**  ·  Jon Guridi **6.00**  ·  Manu Bueno **5.50**  ·  Gerard Peque Fernandez **3.40**  ·  Jose Carmona **9.00**  ·  Dani Ceballos **8.00**  ·  Francisco Garcia **15.00**  ·  Andres Castrin **7.50**
-- **Player to Score or Assist:** Valentin Gomez **8.50**  ·  Giorgi Kochorashvili **3.75**  ·  Troy Parrott **2.05**  ·  Nelson Deossa **3.40**  ·  Gabriel Suazo **4.33**  ·  Facundo Bernal **4.33**  ·  Abdessamad Ezzalzouli **2.30**  ·  Felix Correia **2.40**  ·  Miguel Sierra **2.30**  ·  Jose Morante **2.75**  ·  Arouna Sangante **6.50**  ·  Lucas Stassin **2.05**  ·  Cucho Hernandez **2.00**  ·  Robbie Ure **2.05**  ·  Ruben Vargas **2.50**  ·  Antony **2.10**  ·  Lucien Agoume **4.33**  ·  Alarcon Isco **2.30**  ·  Hector Bellerin **5.00**  ·  Alvaro Fidalgo **3.00**  ·  Alfonso Gonzalez **2.50**  ·  Julio Diaz **4.50**  ·  Santos Fabio Cardoso **8.50**  ·  Nico Guillen **3.60**  ·  Chidera Ejuke **2.50**  ·  Juan Iglesias **5.00**  ·  Jesus Cruz **3.00**  ·  Diego Llorente **7.50**  ·  Giovani Lo Celso **2.38**  ·  Marc Roca **4.00**  ·  Pablo Fornals **2.50**  ·  Natan Bernardo **8.50**  ·  Angel Ortiz **5.00**  ·  Rodrigo Riquelme **2.88**  ·  Youssouf Fofana **4.50**  ·  Isaac Romero **2.00**  ·  Kike Salas **4.50**  ·  Marc Bartra **5.00**  ·  Jon Guridi **3.20**  ·  Manu Bueno **3.60**  ·  Gerard Peque Fernandez **2.75**  ·  Jose Carmona **5.00**  ·  Dani Ceballos **4.00**  ·  Francisco Garcia **4.75**  ·  Andres Castrin **5.50**
+- **Win Both Halves:** 1 **11.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.00**  ·  Draw/No **13.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Valentin Gomez **41.00**  ·  Giorgi Kochorashvili **21.00**  ·  Troy Parrott **15.00**  ·  Nelson Deossa **21.00**  ·  Gabriel Suazo **51.00**  ·  Facundo Bernal **29.00**  ·  Abdessamad Ezzalzouli **29.00**  ·  Felix Correia **21.00**  ·  Miguel Sierra **17.00**  ·  Arouna Sangante **17.00**  ·  Lucas Stassin **19.00**  ·  Cucho Hernandez **15.00**  ·  Robbie Ure **17.00**  ·  Ruben Vargas **26.00**  ·  Antony **51.00**  ·  Lucien Agoume **29.00**  ·  Alarcon Isco **29.00**  ·  Hector Bellerin **126.00**  ·  Alvaro Fidalgo **41.00**  ·  Alfonso Gonzalez **34.00**  ·  Iker Ortin **67.00**  ·  Julio Diaz **67.00**  ·  Santos Fabio Cardoso **23.00**  ·  Nico Guillen **41.00**  ·  Chidera Ejuke **34.00**  ·  Juan Iglesias **67.00**  ·  Aitor Ruibal **23.00**  ·  Diego Llorente **19.00**  ·  Giovani Lo Celso **34.00**  ·  Marc Roca **81.00**  ·  Pablo Fornals **41.00**  ·  Natan Bernardo **19.00**  ·  Angel Ortiz **67.00**  ·  Rodrigo Riquelme **81.00**  ·  Youssouf Fofana **51.00**  ·  Isaac Romero **13.00**  ·  Kike Salas **11.00**  ·  Marc Bartra **23.00**  ·  Jon Guridi **41.00**  ·  Manu Bueno **41.00**  ·  Gerard Peque Fernandez **23.00**  ·  Jose Carmona **15.00**  ·  Dani Ceballos **81.00**  ·  Francisco Garcia **126.00**  ·  Andres Castrin **34.00**
+- **Home Player Shots:** Felix Correia - 1 **1.14**  ·  Felix Correia - 2 **1.67**  ·  Felix Correia - 3 **3.00**  ·  Felix Correia - 4 **6.00**  ·  Felix Correia - 5 **13.00**  ·  Isaac Romero - 1 **1.04**  ·  Robbie Ure - 1 **1.04**  ·  Alfonso Gonzalez - 1 **1.06**  ·  Chidera Ejuke - 1 **1.08**  ·  Gerard Peque Fernandez - 1 **1.08**  ·  Miguel Sierra - 1 **1.08**  ·  Ruben Vargas - 1 **1.05**  ·  Jon Guridi - 1 **1.25**  ·  Nico Guillen - 1 **1.18**  ·  Manu Bueno - 1 **1.22**  ·  Giorgi Kochorashvili - 1 **1.25**  ·  Gabriel Suazo - 1 **1.67**  ·  Lucien Agoume - 1 **1.36**  ·  Andres Castrin - 1 **1.53**  ·  Juan Iglesias - 1 **1.53**  ·  Jose Carmona - 1 **1.62**  ·  Kike Salas - 1 **1.62**  ·  Arouna Sangante - 1 **1.80**  ·  Santos Fabio Cardoso - 1 **2.00**  ·  Julio Diaz - 1 **1.80**  ·  Iker Ortin - 1 **2.38**  ·  Isaac Romero - 2 **1.20**  ·  Robbie Ure - 2 **1.20**  ·  Alfonso Gonzalez - 2 **1.33**  ·  Chidera Ejuke - 2 **1.40**  ·  Gerard Peque Fernandez - 2 **1.40**  ·  Miguel Sierra - 2 **1.40**  ·  Ruben Vargas - 2 **1.30**  ·  Jon Guridi - 2 **2.10**  ·  Nico Guillen - 2 **1.80**  ·  Manu Bueno - 2 **1.91**  ·  Giorgi Kochorashvili - 2 **2.10**  ·  Gabriel Suazo - 2 **4.00**  ·  Lucien Agoume - 2 **2.50**  ·  Andres Castrin - 2 **3.40**  ·  Juan Iglesias - 2 **3.40**  ·  Jose Carmona - 2 **3.75**  ·  Kike Salas - 2 **3.75**  ·  Arouna Sangante - 2 **4.33**  ·  Santos Fabio Cardoso - 2 **6.00**  ·  Julio Diaz - 2 **4.33**  ·  Iker Ortin - 2 **8.00**  ·  Isaac Romero - 3 **1.62**  ·  Robbie Ure - 3 **1.62**  ·  Alfonso Gonzalez - 3 **1.91**  ·  Chidera Ejuke - 3 **2.20**  ·  Gerard Peque Fernandez - 3 **2.20**  ·  Miguel Sierra - 3 **2.20**  ·  Ruben Vargas - 3 **1.83**  ·  Jon Guridi - 3 **4.33**  ·  Nico Guillen - 3 **3.40**  ·  Manu Bueno - 3 **3.75**  ·  Giorgi Kochorashvili - 3 **4.33**  ·  Gabriel Suazo - 3 **11.00**  ·  Lucien Agoume - 3 **5.50**  ·  Andres Castrin - 3 **9.00**  ·  Juan Iglesias - 3 **9.00**  ·  Jose Carmona - 3 **11.00**  ·  Kike Salas - 3 **11.00**  ·  Arouna Sangante - 3 **13.00**  ·  Santos Fabio Cardoso - 3 **19.00**  ·  Julio Diaz - 3 **13.00**  ·  Iker Ortin - 3 **21.00**  ·  Isaac Romero - 4 **2.50**  ·  Robbie Ure - 4 **2.50**  ·  Alfonso Gonzalez - 4 **3.40**  ·  Chidera Ejuke - 4 **3.75**  ·  Gerard Peque Fernandez - 4 **3.75**  ·  Miguel Sierra - 4 **3.75**  ·  Ruben Vargas - 4 **3.25**  ·  Jon Guridi - 4 **11.00**  ·  Nico Guillen - 4 **7.00**  ·  Manu Bueno - 4 **8.00**  ·  Giorgi Kochorashvili - 4 **10.00**  ·  Lucien Agoume - 4 **15.00**  ·  Isaac Romero - 5 **4.33**  ·  Robbie Ure - 5 **4.33**  ·  Alfonso Gonzalez - 5 **6.50**  ·  Chidera Ejuke - 5 **8.00**  ·  Gerard Peque Fernandez - 5 **8.00**  ·  Miguel Sierra - 5 **8.00**  ·  Ruben Vargas - 5 **5.50**  ·  Jon Guridi - 5 **21.00**  ·  Nico Guillen - 5 **15.00**  ·  Isaac Romero - 6 **8.00**  ·  Robbie Ure - 6 **8.00**  ·  Alfonso Gonzalez - 6 **13.00**  ·  Chidera Ejuke - 6 **17.00**  ·  Gerard Peque Fernandez - 6 **17.00**  ·  Miguel Sierra - 6 **17.00**  ·  Ruben Vargas - 6 **11.00**  ·  Isaac Romero - 7 **15.00**  ·  Robbie Ure - 7 **15.00**  ·  Youssouf Fofana - 1 **1.30**  ·  Youssouf Fofana - 2 **2.38**  ·  Youssouf Fofana - 3 **5.00**  ·  Youssouf Fofana - 4 **13.00**  ·  Youssouf Fofana - 5 **21.00**  ·  Juan Iglesias - 4 **21.00**  ·  Jose Carmona - 4 **21.00**  ·  Manu Bueno - 5 **19.00**  ·  Kike Salas - 4 **21.00**  ·  Andres Castrin - 4 **21.00**  ·  Felix Correia - 6 **21.00**  ·  Giorgi Kochorashvili - 5 **21.00**  ·  Lucas Stassin - 1 **1.05**  ·  Lucas Stassin - 2 **1.28**  ·  Lucas Stassin - 3 **1.80**  ·  Lucas Stassin - 4 **3.00**  ·  Lucas Stassin - 5 **5.50**  ·  Lucas Stassin - 6 **11.00**  ·  Lucas Stassin - 7 **21.00**  ·  Robbie Ure - 8 **21.00**  ·  Alfonso Gonzalez - 7 **21.00**  ·  Isaac Romero - 8 **21.00**  ·  Ruben Vargas - 7 **21.00**  ·  Jesus Cruz - 1 **1.25**  ·  Jesus Cruz - 2 **2.10**  ·  Jesus Cruz - 3 **4.33**  ·  Jesus Cruz - 4 **10.00**  ·  Jesus Cruz - 5 **21.00**
+- **Away Player Shots:** Abdessamad Ezzalzouli - 1 **1.03**  ·  Cucho Hernandez - 1 **1.02**  ·  Antony - 1 **1.03**  ·  Troy Parrott - 1 **1.03**  ·  Giovani Lo Celso - 1 **1.07**  ·  Aitor Ruibal - 1 **1.05**  ·  Nelson Deossa - 1 **1.01**  ·  Alarcon Isco - 1 **1.07**  ·  Rodrigo Riquelme - 1 **1.10**  ·  Facundo Bernal - 1 **1.20**  ·  Pablo Fornals - 1 **1.12**  ·  Alvaro Fidalgo - 1 **1.18**  ·  Marc Bartra - 1 **1.36**  ·  Marc Roca - 1 **1.62**  ·  Diego Llorente - 1 **1.80**  ·  Valentin Gomez - 1 **2.10**  ·  Natan Bernardo - 1 **2.20**  ·  Angel Ortiz - 1 **2.00**  ·  Francisco Garcia - 1 **2.38**  ·  Hector Bellerin - 1 **2.38**  ·  Abdessamad Ezzalzouli - 2 **1.18**  ·  Cucho Hernandez - 2 **1.14**  ·  Antony - 2 **1.20**  ·  Troy Parrott - 2 **1.20**  ·  Giovani Lo Celso - 2 **1.36**  ·  Aitor Ruibal - 2 **1.28**  ·  Nelson Deossa - 2 **1.08**  ·  Alarcon Isco - 2 **1.36**  ·  Rodrigo Riquelme - 2 **1.44**  ·  Facundo Bernal - 2 **1.83**  ·  Pablo Fornals - 2 **1.57**  ·  Alvaro Fidalgo - 2 **1.80**  ·  Marc Bartra - 2 **2.62**  ·  Marc Roca - 2 **3.75**  ·  Diego Llorente - 2 **4.50**  ·  Valentin Gomez - 2 **6.00**  ·  Natan Bernardo - 2 **7.00**  ·  Angel Ortiz - 2 **5.50**  ·  Francisco Garcia - 2 **8.00**  ·  Hector Bellerin - 2 **8.00**  ·  Abdessamad Ezzalzouli - 3 **1.57**  ·  Cucho Hernandez - 3 **1.50**  ·  Antony - 3 **1.57**  ·  Troy Parrott - 3 **1.57**  ·  Giovani Lo Celso - 3 **2.10**  ·  Aitor Ruibal - 3 **1.83**  ·  Nelson Deossa - 3 **1.30**  ·  Alarcon Isco - 3 **2.10**  ·  Rodrigo Riquelme - 3 **2.25**  ·  Facundo Bernal - 3 **3.75**  ·  Pablo Fornals - 3 **2.62**  ·  Alvaro Fidalgo - 3 **3.40**  ·  Marc Bartra - 3 **6.00**  ·  Marc Roca - 3 **11.00**  ·  Diego Llorente - 3 **13.00**  ·  Valentin Gomez - 3 **19.00**  ·  Natan Bernardo - 3 **21.00**  ·  Angel Ortiz - 3 **19.00**  ·  Francisco Garcia - 3 **21.00**  ·  Hector Bellerin - 3 **21.00**  ·  Abdessamad Ezzalzouli - 4 **2.25**  ·  Cucho Hernandez - 4 **2.10**  ·  Antony - 4 **2.38**  ·  Troy Parrott - 4 **2.38**  ·  Giovani Lo Celso - 4 **3.50**  ·  Aitor Ruibal - 4 **3.00**  ·  Nelson Deossa - 4 **1.73**  ·  Alarcon Isco - 4 **3.75**  ·  Rodrigo Riquelme - 4 **4.33**  ·  Facundo Bernal - 4 **8.00**  ·  Pablo Fornals - 4 **5.00**  ·  Alvaro Fidalgo - 4 **7.00**  ·  Marc Bartra - 4 **15.00**  ·  Abdessamad Ezzalzouli - 5 **3.75**  ·  Cucho Hernandez - 5 **3.50**  ·  Antony - 5 **4.00**  ·  Troy Parrott - 5 **4.00**  ·  Giovani Lo Celso - 5 **7.00**  ·  Aitor Ruibal - 5 **5.50**  ·  Nelson Deossa - 5 **2.50**  ·  Alarcon Isco - 5 **7.00**  ·  Rodrigo Riquelme - 5 **9.00**  ·  Facundo Bernal - 5 **19.00**  ·  Pablo Fornals - 5 **11.00**  ·  Alvaro Fidalgo - 5 **15.00**  ·  Abdessamad Ezzalzouli - 6 **7.00**  ·  Cucho Hernandez - 6 **6.00**  ·  Antony - 6 **7.00**  ·  Troy Parrott - 6 **8.00**  ·  Giovani Lo Celso - 6 **15.00**  ·  Aitor Ruibal - 6 **11.00**  ·  Nelson Deossa - 6 **4.00**  ·  Alarcon Isco - 6 **15.00**  ·  Rodrigo Riquelme - 6 **19.00**  ·  Pablo Fornals - 6 **21.00**  ·  Abdessamad Ezzalzouli - 7 **13.00**  ·  Cucho Hernandez - 7 **11.00**  ·  Antony - 7 **15.00**  ·  Troy Parrott - 7 **15.00**  ·  Giovani Lo Celso - 7 **21.00**  ·  Aitor Ruibal - 7 **21.00**  ·  Nelson Deossa - 7 **7.00**  ·  Abdessamad Ezzalzouli - 8 **21.00**  ·  Cucho Hernandez - 8 **21.00**  ·  Antony - 8 **21.00**  ·  Troy Parrott - 8 **21.00**  ·  Marc Roca - 4 **21.00**  ·  Dani Ceballos - 1 **1.62**  ·  Dani Ceballos - 2 **3.75**  ·  Dani Ceballos - 3 **11.00**  ·  Dani Ceballos - 4 **21.00**  ·  Alarcon Isco - 7 **21.00**  ·  Nelson Deossa - 8 **13.00**  ·  Jose Morante - 3 **3.40**  ·  Jose Morante - 1 **1.18**  ·  Jose Morante - 2 **1.80**  ·  Jose Morante - 4 **7.00**  ·  Jose Morante - 5 **15.00**  ·  Nelson Deossa - 9 **21.00**
+- **Anytime Goal Scorer:** Valentin Gomez **15.00**  ·  Giorgi Kochorashvili **5.50**  ·  Troy Parrott **2.50**  ·  Nelson Deossa **3.25**  ·  Gabriel Suazo **10.00**  ·  Facundo Bernal **7.00**  ·  Abdessamad Ezzalzouli **3.50**  ·  Felix Correia **4.50**  ·  Miguel Sierra **3.60**  ·  Jose Morante **4.75**  ·  Arouna Sangante **10.00**  ·  Lucas Stassin **3.00**  ·  Cucho Hernandez **2.62**  ·  Robbie Ure **2.62**  ·  Ruben Vargas **4.00**  ·  Antony **3.25**  ·  Lucien Agoume **7.00**  ·  Alarcon Isco **3.50**  ·  Hector Bellerin **15.00**  ·  Alvaro Fidalgo **4.75**  ·  Alfonso Gonzalez **4.00**  ·  Iker Ortin **15.00**  ·  Julio Diaz **10.00**  ·  Santos Fabio Cardoso **15.00**  ·  Nico Guillen **5.50**  ·  Chidera Ejuke **3.60**  ·  Juan Iglesias **8.50**  ·  Jesus Cruz **5.50**  ·  Aitor Ruibal **3.75**  ·  Diego Llorente **12.00**  ·  Giovani Lo Celso **4.00**  ·  Marc Roca **8.50**  ·  Pablo Fornals **4.50**  ·  Natan Bernardo **15.00**  ·  Angel Ortiz **12.00**  ·  Rodrigo Riquelme **4.50**  ·  Youssouf Fofana **8.50**  ·  Isaac Romero **2.62**  ·  Kike Salas **8.50**  ·  Marc Bartra **7.50**  ·  Jon Guridi **6.00**  ·  Manu Bueno **5.50**  ·  Gerard Peque Fernandez **3.60**  ·  Jose Carmona **9.50**  ·  Dani Ceballos **8.50**  ·  Francisco Garcia **15.00**  ·  Andres Castrin **7.50**
+- **Player to Score or Assist:** Valentin Gomez **8.50**  ·  Giorgi Kochorashvili **3.75**  ·  Troy Parrott **2.05**  ·  Nelson Deossa **2.50**  ·  Gabriel Suazo **4.33**  ·  Facundo Bernal **4.33**  ·  Abdessamad Ezzalzouli **2.25**  ·  Felix Correia **2.60**  ·  Miguel Sierra **2.40**  ·  Jose Morante **2.62**  ·  Arouna Sangante **6.50**  ·  Lucas Stassin **2.10**  ·  Cucho Hernandez **2.05**  ·  Robbie Ure **2.20**  ·  Ruben Vargas **2.50**  ·  Antony **2.10**  ·  Lucien Agoume **4.33**  ·  Alarcon Isco **2.25**  ·  Hector Bellerin **5.00**  ·  Alvaro Fidalgo **2.75**  ·  Alfonso Gonzalez **2.62**  ·  Iker Ortin **8.00**  ·  Julio Diaz **4.50**  ·  Santos Fabio Cardoso **9.00**  ·  Nico Guillen **3.60**  ·  Chidera Ejuke **2.62**  ·  Juan Iglesias **5.00**  ·  Jesus Cruz **3.10**  ·  Aitor Ruibal **2.38**  ·  Diego Llorente **7.50**  ·  Giovani Lo Celso **2.38**  ·  Marc Roca **4.00**  ·  Pablo Fornals **2.50**  ·  Natan Bernardo **8.50**  ·  Angel Ortiz **5.00**  ·  Rodrigo Riquelme **2.88**  ·  Youssouf Fofana **4.50**  ·  Isaac Romero **2.00**  ·  Kike Salas **4.75**  ·  Marc Bartra **5.00**  ·  Jon Guridi **3.25**  ·  Manu Bueno **3.75**  ·  Gerard Peque Fernandez **2.88**  ·  Jose Carmona **5.50**  ·  Dani Ceballos **4.00**  ·  Francisco Garcia **4.75**  ·  Andres Castrin **5.50**
 
 ## Estadísticas de equipo
 | | Sevilla (total) | Sevilla en casa | Real Betis (total) | Real Betis fuera |
@@ -183,12 +185,12 @@ _Goles esperados: local 1,39 · visitante 1,41 · córners esperados 8,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 40% | 39% | 2.30 | -10% |
+| 1X2: 2 | 38% | 42% | 40% | 2.20 | -12% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 37% | 33% | 35% | 2.80 | -2% |
-| Doble oportunidad: X2 | 63% | 67% | 65% | 1.40 | -9% |
-| Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 62% | 60% | 61% | 1.57 | -4% |
+| 1X2: 1 | 37% | 31% | 34% | 3.00 | +2% |
+| Doble oportunidad: X2 | 63% | 70% | 66% | 1.36 | -10% |
+| Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
+| Doble oportunidad: 1X | 62% | 57% | 59% | 1.67 | -1% |
 | Ambos marcan: No | 43% | 42% | 43% | 2.20 | -6% |
 | Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -7% |
 | Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
@@ -201,18 +203,18 @@ _Goles esperados: local 1,39 · visitante 1,41 · córners esperados 8,9._
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del local: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del local: Más de 1.5 | 40% | 41% | 41% | 2.25 | -8% |
-| Goles del local: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles del local: Menos de 1.5 | 60% | 59% | 59% | 1.57 | -7% |
-| Goles del visitante: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
+| Goles del local: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
+| Goles del local: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
+| Goles del local: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -11% |
+| Goles del local: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
+| Goles del visitante: Más de 0.5 | 76% | 78% | 77% | 1.20 | -8% |
 | Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
 | Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del visitante: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -4% |
+| Goles del visitante: Menos de 0.5 | 24% | 22% | 23% | 4.33 | -0% |
 | Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -3% |
 | Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
-| 1X2 descanso: 2 | 29% | 32% | 31% | 2.88 | -11% |
-| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 29% | 27% | 28% | 3.40 | -4% |
+| 1X2 descanso: 2 | 29% | 33% | 31% | 2.88 | -11% |
+| 1X2 descanso: X | 42% | 41% | 41% | 2.30 | -5% |
+| 1X2 descanso: 1 | 29% | 27% | 28% | 3.50 | -3% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
