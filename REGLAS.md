@@ -143,3 +143,5 @@
 - 📊 **Resumen de la noche: el «Quién gana» no cuenta** (15/11, Marcos). Solo los picks y combis que subimos; las filas de ganadores ni se suman.
 
 - 🇪🇸 **Todo en español y sin «el» delante de un país** (15/11, Marcos: «El Belarus o el Albania no puede ser»). nombres.espanol() corrige todo texto antes de salir (Telegram, Threads, imágenes, tarjetas) y comprobar_post bloquea lo que se cuele (regla «idioma»).
+
+- 🧠 **Cada argumento tiene que apoyar el pick** (15/11, Marcos: «cómo va a poner que Bielorrusia marca y abajo que los dos llegan cansados»). Cansancio/rotaciones solo del rival; nada neutro ni en contra.

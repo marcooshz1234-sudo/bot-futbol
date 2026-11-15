@@ -166,30 +166,42 @@ def razones(fid, pick=None):
         return []
     out = []
     texto = ((pick or {}).get("texto") or "").lower()
+    # 15/11 (Marcos: «cómo va a poner que Bielorrusia marca y después abajo que los dos llegan cansados»): una frase
+    # solo sale si APOYA el pick. Se mira a qué lado va el pick (revision.favorece) y se queda solo con lo que ayuda.
+    a_favor = set()
+    try:
+        import revision
+        sel = f"{fid}|{(pick or {}).get('mercado')}|{(pick or {}).get('opcion')}"
+        a_favor = {lado for lado, k in (("local", "home"), ("visitante", "away")) if revision.favorece(sel, k)}
+    except Exception:
+        pass
+    de_goles = any(w in texto for w in ("gol", "marca", "más de", "ambos"))
+    cansados = [l for l in ("local", "visitante") if c[l].get("dias_desde") is not None and c[l]["dias_desde"] <= 2]
     for lado in ("local", "visitante"):
         e = c[lado]
-        if e.get("dias_desde") is not None and e["dias_desde"] <= 2:   # menos de 72 h
-            out.append((3, f"El {e['nombre']} jugó hace {e['dias_desde']} días"
-                           + (f" ({e['ultimo_europa']})" if e.get("ultimo_europa") else "") + ": puede llegar cansado"))
-        if e.get("siguiente_europa") and e.get("dias_hasta") is not None and e["dias_hasta"] <= 3:
-            out.append((3, f"El {e['nombre']} juega {e['siguiente_europa']} en {e['dias_hasta']} días: puede rotar"))
-        if e.get("puesto") == 1:
-            out.append((2, f"El {e['nombre']} es líder"))
-        elif e.get("puesto") and e.get("de") and e["puesto"] >= e["de"] - 2:
-            out.append((2, f"El {e['nombre']} está en descenso ({e['puesto']}º): se juega mucho"))
+        rival = "visitante" if lado == "local" else "local"
+        # cansancio / rotaciones: solo del RIVAL del lado al que va el pick, y solo si el nuestro no está igual
+        if rival in a_favor and lado not in a_favor and len(cansados) < 2:
+            if lado in cansados:
+                out.append((3, f"{e['nombre']} jugó hace {e['dias_desde']} días"
+                               + (f" ({e['ultimo_europa']})" if e.get("ultimo_europa") else "") + ": puede llegar cansado"))
+            if e.get("siguiente_europa") and e.get("dias_hasta") is not None and e["dias_hasta"] <= 3:
+                out.append((3, f"{e['nombre']} juega {e['siguiente_europa']} en {e['dias_hasta']} días: puede rotar"))
+        if lado in a_favor:
+            if e.get("puesto") == 1:
+                out.append((2, f"{e['nombre']} es líder"))
+            elif e.get("puesto") and e.get("de") and e["puesto"] >= e["de"] - 2:
+                out.append((2, f"{e['nombre']} está en descenso ({e['puesto']}º): se juega mucho"))
     t = c.get("tiempo") or {}
-    if t.get("lluvia_mm", 0) >= 3 or t.get("viento_kmh", 0) >= 35:
-        out.append((3 if "gol" in texto or "marca" in texto else 2,
-                    "Se espera " + " y ".join(x for x in (f"lluvia ({str(t['lluvia_mm']).replace('.', ',')} mm)" if t.get("lluvia_mm", 0) >= 3 else "",
-                                                         f"viento fuerte ({round(t['viento_kmh'])} km/h)" if t.get("viento_kmh", 0) >= 35 else "") if x)
-                    + ": suele haber menos goles"))
+    if (t.get("lluvia_mm", 0) >= 3 or t.get("viento_kmh", 0) >= 35) and not de_goles and "tarjeta" not in texto and "córner" not in texto:
+        pass   # «suele haber menos goles» no apoya ningún pick nuestro (no damos «menos de»): fuera
     a = c.get("arbitro")
     if a and "tarjeta" in texto:
         out.append((4, f"El árbitro ({a['nombre']}) saca {str(a['tarjetas']).replace('.', ',')} tarjetas por partido"))
     for k, (a0, a1) in (c.get("cuotas") or {}).items():
-        quien = c["local"]["nombre"] if k == "Home" else c["visitante"]["nombre"] if k == "Away" else "el empate"
-        if a1 < a0:
-            out.append((3, f"La cuota de {'que gane el ' + quien if k != 'Draw' else quien} ha bajado de "
+        lado = {"Home": "local", "Away": "visitante"}.get(k)
+        if a1 < a0 and lado in a_favor and len(a_favor) == 1:
+            out.append((3, f"La cuota de que gane {c[lado]['nombre']} ha bajado de "
                            f"{str(a0).replace('.', ',')} a {str(a1).replace('.', ',')}: el mercado lo ve más claro"))
     return out
 
