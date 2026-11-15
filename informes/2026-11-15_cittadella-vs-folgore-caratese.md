@@ -1,16 +1,17 @@
 # Cittadella – Folgore Caratese
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
 - **1X2:** 1 **1.40**  ·  X **4.00**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.17**  ·  X2 **2.60**
 - **Ambos marcan:** Sí **2.20**  ·  No **1.62**
 - **Goles más/menos:**
-    - 1,5: más **1.28** · menos **3.50**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.00** · menos **1.11**
@@ -138,7 +139,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 5% | 14% | 9% | 6.50 | -38% |
+| 1X2: 2 | 5% | 14% | 10% | 6.50 | -38% |
 | 1X2: X | 18% | 22% | 20% | 4.00 | -20% |
 | 1X2: 1 | 77% | 64% | 70% | 1.40 | -1% |
 | Doble oportunidad: X2 | 23% | 35% | 29% | 2.60 | -24% |
@@ -146,10 +147,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 95% | 86% | 90% | 1.07 | -3% |
 | Ambos marcan: No | 76% | 58% | 67% | 1.62 | +8% |
 | Ambos marcan: Sí | 24% | 42% | 33% | 2.20 | -27% |
-| Goles más/menos: Más de 1.5 | 67% | 73% | 70% | 1.28 | -10% |
+| Goles más/menos: Más de 1.5 | 67% | 72% | 70% | 1.30 | -10% |
 | Goles más/menos: Más de 2.5 | 40% | 49% | 44% | 1.95 | -13% |
 | Goles más/menos: Más de 3.5 | 20% | 28% | 24% | 3.40 | -19% |
-| Goles más/menos: Menos de 1.5 | 33% | 27% | 30% | 3.50 | +5% |
+| Goles más/menos: Menos de 1.5 | 33% | 28% | 30% | 3.40 | +4% |
 | Goles más/menos: Menos de 2.5 | 60% | 51% | 56% | 1.85 | +3% |
 | Goles más/menos: Menos de 3.5 | 80% | 72% | 76% | 1.30 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 69% | 66% | 1.36 | -10% |

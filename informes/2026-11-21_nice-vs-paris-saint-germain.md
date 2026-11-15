@@ -1,7 +1,7 @@
 # Nice – Paris Saint Germain
 **Ligue 1** · Regular Season - 11 · 21/11/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_
@@ -185,7 +185,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Beraldo | D | 11 | 287 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,62 · córners esperados 9,0._
+_Goles esperados: local 1,04 · visitante 2,63 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

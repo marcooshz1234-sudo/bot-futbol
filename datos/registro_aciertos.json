@@ -12814,7 +12814,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.703,
+  "prob_aprendida": 0.693,
   "acierto": null
  },
  "1528984|Goals Over/Under - Second Half|Over 1.5": {
@@ -12833,10 +12833,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.037,
-  "movimiento": null,
+  "valor_mercado": -0.053,
+  "movimiento": 0.0,
   "ventaja": 0.244,
-  "prob_aprendida": 0.633,
+  "prob_aprendida": 0.648,
   "acierto": null
  },
  "1573643|Match Winner|Home": {
@@ -12859,7 +12859,8 @@
   "movimiento": null,
   "ventaja": 0.124,
   "prob_aprendida": 0.654,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-3"
  },
  "1557468|Match Winner|Home": {
   "partido_id": 1557468,
@@ -12880,7 +12881,7 @@
   "valor_mercado": -0.015,
   "movimiento": null,
   "ventaja": 0.15,
-  "prob_aprendida": 0.673,
+  "prob_aprendida": 0.659,
   "acierto": null
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
@@ -12902,7 +12903,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.235,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.571,
   "acierto": null
  },
  "1575229|Match Winner|Away": {
@@ -12946,7 +12947,7 @@
   "valor_mercado": -0.022,
   "movimiento": null,
   "ventaja": 0.194,
-  "prob_aprendida": 0.643,
+  "prob_aprendida": 0.642,
   "acierto": null
  },
  "1552228|Home Player Shots On Target Total|Thom van Bergen - 1": {
@@ -12968,7 +12969,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.593,
+  "prob_aprendida": 0.594,
   "acierto": null
  },
  "1550204|Home Player Shots On Target Total|Noa Lang - 1": {
@@ -13003,16 +13004,16 @@
   "opcion": "Home",
   "tipo": "resultado",
   "texto": "Gana el Greece",
-  "cuota": 1.45,
+  "cuota": 1.42,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
-  "movimiento": 0.021,
-  "ventaja": 0.11,
-  "prob_aprendida": 0.698,
+  "valor_mercado": -0.021,
+  "movimiento": 0.0,
+  "ventaja": 0.096,
+  "prob_aprendida": 0.72,
   "acierto": null
  },
  "1528986|Total - Away|Over 1.5": {
@@ -13034,7 +13035,7 @@
   "valor_mercado": -0.027,
   "movimiento": null,
   "ventaja": 0.244,
-  "prob_aprendida": 0.579,
+  "prob_aprendida": 0.577,
   "acierto": null
  },
  "1545652|Home Player Shots|Dan Ndoye - 2": {
@@ -13047,16 +13048,16 @@
   "opcion": "Dan Ndoye - 2",
   "tipo": "jugador",
   "texto": "Dan Ndoye: 2+ tiros",
-  "cuota": 1.4,
+  "cuota": 1.3,
   "frecuencia": 1.0,
   "jugador_id": 48648,
   "jugador": "Dan Ndoye",
   "campo": "tiros",
   "n": 2,
   "valor_mercado": null,
-  "movimiento": null,
-  "ventaja": 0.286,
-  "prob_aprendida": 0.603,
+  "movimiento": -0.071,
+  "ventaja": 0.231,
+  "prob_aprendida": 0.643,
   "acierto": null
  },
  "1557473|Match Winner|Home": {
@@ -13078,7 +13079,7 @@
   "valor_mercado": 0.011,
   "movimiento": null,
   "ventaja": 0.104,
-  "prob_aprendida": 0.69,
+  "prob_aprendida": 0.676,
   "acierto": null
  },
  "1550199|To Win Either Half|Home": {
@@ -13122,7 +13123,7 @@
   "valor_mercado": -0.017,
   "movimiento": null,
   "ventaja": 0.072,
-  "prob_aprendida": 0.676,
+  "prob_aprendida": 0.665,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13144,7 +13145,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.283,
-  "prob_aprendida": 0.656,
+  "prob_aprendida": 0.655,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13166,7 +13167,7 @@
   "valor_mercado": -0.017,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.617,
+  "prob_aprendida": 0.612,
   "acierto": null
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -13188,7 +13189,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.123,
-  "prob_aprendida": 0.626,
+  "prob_aprendida": 0.627,
   "acierto": null
  },
  "1528991|Home Player Shots|Konstantinos Mavropanos - 1": {
@@ -13210,7 +13211,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.265,
-  "prob_aprendida": 0.605,
+  "prob_aprendida": 0.604,
   "acierto": null
  },
  "1552823|Both Teams Score|Yes": {
@@ -13232,7 +13233,7 @@
   "valor_mercado": 0.018,
   "movimiento": null,
   "ventaja": 0.162,
-  "prob_aprendida": 0.605,
+  "prob_aprendida": 0.601,
   "acierto": null
  },
  "1563264|Both Teams Score|Yes": {
@@ -13254,7 +13255,29 @@
   "valor_mercado": 0.012,
   "movimiento": null,
   "ventaja": 0.151,
-  "prob_aprendida": 0.616,
+  "prob_aprendida": 0.61,
+  "acierto": null
+ },
+ "1528996|Corners 1x2|Away": {
+  "partido_id": 1528996,
+  "fecha": "2026-11-17T20:45",
+  "competicion": "Nations League",
+  "local": "Israel",
+  "visitante": "Austria",
+  "mercado": "Corners 1x2",
+  "opcion": "Away",
+  "tipo": "corners",
+  "texto": "Austria hace más córners",
+  "cuota": 1.57,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.026,
+  "movimiento": null,
+  "ventaja": 0.163,
+  "prob_aprendida": 0.408,
   "acierto": null
  }
 }

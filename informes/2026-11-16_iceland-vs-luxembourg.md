@@ -1,48 +1,48 @@
 # Iceland – Luxembourg
 **Nations League** · League C - 6 · 16/11/2026 18:00 (hora España) · Ice Rink Laugardalur
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
 - **1X2:** 1 **1.30**  ·  X **5.00**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.14**  ·  X2 **3.40**
-- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **9.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.75** · menos **2.05**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.00** · menos **1.14**
+    - 2,5: más **1.70** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **4.50** · menos **1.17**
     - 5,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.08** · menos **7.00**
     - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.38** · menos **1.53**
-    - 3,5: más **4.50** · menos **1.17**
-    - 4,5: más **8.50** · menos **1.05**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **8.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **2.10** · menos **1.67**
-    - 1,5: más **6.50** · menos **1.10**
-- **1X2 descanso:** 1 **1.73**  ·  X **2.40**  ·  2 **8.50**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **6.00** · menos **1.11**
+- **1X2 descanso:** 1 **1.73**  ·  X **2.50**  ·  2 **8.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
-- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
-- **To Win Either Half:** 1 **1.18**  ·  2 **4.50**
-- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **13.00**
-- **Win Both Halves:** 1 **3.00**  ·  2 **41.00**
-- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **7.00**  ·  Away/Yes **19.00**  ·  Home/No **1.83**  ·  Draw/No **11.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.38**
-- **Anytime Goal Scorer:** Isak Thorvaldsson **2.30**  ·  Vincent Thill **8.50**  ·  Enzo Duarte **9.50**  ·  Hordur Magnusson **9.50**  ·  Orri Steinn Oskarsson **2.30**  ·  Andri Gudjohnsen **2.30**  ·  Daniel Gretarsson **9.50**  ·  Gylfi Sigurdsson **2.62**  ·  Isak Johannesson **3.20**  ·  Jon Dagur Thorsteinsson **3.40**  ·  Logi Tomasson **8.00**  ·  Mikael Anderson **4.00**  ·  Mikael Egill Ellertsson **5.50**  ·  Stefan Thordarson **6.50**  ·  Victor Palsson **9.50**  ·  Aiman Dardari **7.00**  ·  Jayson Videira **7.00**  ·  Kristall Ingason **3.00**  ·  Sebastien Thill **9.50**  ·  Mathias Olesen **15.00**  ·  Timothe Rupil **8.50**  ·  Florian Bohnert **19.00**  ·  Eldin Dzogovic **23.00**  ·  Dirk Carlson **26.00**  ·  Enes Mahmutovic **26.00**  ·  Laurent Jans **19.00**  ·  Tomas Moreira **11.00**  ·  Arnor Sigurdsson **4.00**  ·  Hakon Arnar Haraldsson **3.40**  ·  Kristian Hlynsson **3.00**  ·  Eric Veiga **15.00**  ·  Miguel Goncalves **19.00**  ·  Hamza Kadamani **6.50**  ·  Brynjolfur Andersen Willumsson **2.30**  ·  Omar Natami **7.00**  ·  Tim Hall **26.00**  ·  Farid Ikene **12.00**  ·  Patrick Macedo **6.50**  ·  Aron Gunnarsson **6.50**  ·  Thorir Johann Helgason **4.00**  ·  Vahid Selimovic **23.00**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **1.18**  ·  2 **4.33**
+- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **11.00**
+- **Win Both Halves:** 1 **2.75**  ·  2 **41.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **7.00**  ·  Away/Yes **21.00**  ·  Home/No **1.91**  ·  Draw/No **12.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.40**
+- **Anytime Goal Scorer:** Isak Thorvaldsson **2.30**  ·  Vincent Thill **8.50**  ·  Enzo Duarte **9.50**  ·  Hordur Magnusson **9.50**  ·  Orri Steinn Oskarsson **2.30**  ·  Andri Gudjohnsen **2.30**  ·  Daniel Gretarsson **9.50**  ·  Gylfi Sigurdsson **2.62**  ·  Isak Johannesson **3.10**  ·  Jon Dagur Thorsteinsson **3.25**  ·  Logi Tomasson **7.50**  ·  Mikael Anderson **3.75**  ·  Mikael Egill Ellertsson **5.50**  ·  Stefan Thordarson **6.00**  ·  Victor Palsson **9.50**  ·  Aiman Dardari **7.00**  ·  Jayson Videira **7.00**  ·  Kristall Ingason **3.00**  ·  Sebastien Thill **9.50**  ·  Mathias Olesen **15.00**  ·  Timothe Rupil **8.50**  ·  Florian Bohnert **19.00**  ·  Eldin Dzogovic **23.00**  ·  Dirk Carlson **26.00**  ·  Enes Mahmutovic **26.00**  ·  Laurent Jans **19.00**  ·  Tomas Moreira **10.00**  ·  Arnor Sigurdsson **3.75**  ·  Hakon Arnar Haraldsson **3.25**  ·  Kristian Hlynsson **3.00**  ·  Eric Veiga **15.00**  ·  Miguel Goncalves **19.00**  ·  Hamza Kadamani **6.00**  ·  Brynjolfur Andersen Willumsson **2.30**  ·  Omar Natami **7.00**  ·  Tim Hall **26.00**  ·  Farid Ikene **12.00**  ·  Patrick Macedo **6.00**  ·  Aron Gunnarsson **6.00**  ·  Thorir Johann Helgason **3.75**  ·  Vahid Selimovic **23.00**
 
 ## Estadísticas de equipo
 | | Iceland (total) | Iceland en casa | Luxembourg (total) | Luxembourg fuera |
@@ -184,27 +184,29 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 14% | 27% | 21% | 3.40 | -29% |
 | Doble oportunidad: 12 | 89% | 82% | 86% | 1.14 | -2% |
 | Doble oportunidad: 1X | 96% | 91% | 93% | 1.03 | -4% |
-| Ambos marcan: No | 67% | 59% | 63% | 1.57 | -1% |
-| Ambos marcan: Sí | 33% | 41% | 37% | 2.25 | -17% |
+| Ambos marcan: No | 67% | 58% | 62% | 1.62 | +1% |
+| Ambos marcan: Sí | 33% | 42% | 38% | 2.20 | -17% |
 | Goles más/menos: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 62% | 54% | 58% | 1.75 | +1% |
-| Goles más/menos: Más de 3.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles más/menos: Más de 2.5 | 62% | 55% | 59% | 1.70 | -0% |
+| Goles más/menos: Más de 3.5 | 40% | 35% | 38% | 2.62 | -2% |
+| Goles más/menos: Más de 4.5 | 22% | 21% | 21% | 4.50 | -5% |
 | Goles más/menos: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles más/menos: Menos de 2.5 | 38% | 46% | 42% | 2.05 | -14% |
-| Goles más/menos: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -11% |
+| Goles más/menos: Menos de 2.5 | 38% | 45% | 41% | 2.10 | -13% |
+| Goles más/menos: Menos de 3.5 | 60% | 65% | 62% | 1.44 | -10% |
+| Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.17 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del local: Más de 1.5 | 76% | 65% | 70% | 1.44 | +1% |
 | Goles del local: Más de 2.5 | 52% | 39% | 46% | 2.38 | +9% |
-| Goles del local: Más de 3.5 | 30% | 21% | 25% | 4.50 | +14% |
+| Goles del local: Más de 3.5 | 30% | 22% | 26% | 4.33 | +12% |
 | Goles del local: Menos de 1.5 | 24% | 35% | 30% | 2.62 | -22% |
 | Goles del local: Menos de 2.5 | 48% | 61% | 54% | 1.53 | -17% |
-| Goles del local: Menos de 3.5 | 70% | 79% | 75% | 1.17 | -13% |
-| Goles del visitante: Más de 0.5 | 35% | 44% | 40% | 2.10 | -17% |
-| Goles del visitante: Menos de 0.5 | 65% | 56% | 60% | 1.67 | +1% |
-| 1X2 descanso: X | 31% | 37% | 34% | 2.40 | -18% |
-| 1X2 descanso: 1 | 63% | 52% | 58% | 1.73 | -0% |
+| Goles del local: Menos de 3.5 | 70% | 78% | 74% | 1.20 | -11% |
+| Goles del visitante: Más de 0.5 | 35% | 46% | 41% | 2.00 | -18% |
+| Goles del visitante: Menos de 0.5 | 65% | 54% | 59% | 1.73 | +2% |
+| 1X2 descanso: X | 31% | 36% | 34% | 2.50 | -16% |
+| 1X2 descanso: 1 | 63% | 52% | 58% | 1.73 | +0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

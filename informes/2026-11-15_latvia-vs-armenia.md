@@ -1,45 +1,45 @@
 # Latvia – Armenia
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España) · Skonto
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **3.00**  ·  X **3.10**  ·  2 **2.30**
-- **Doble oportunidad:** 1X **1.57**  ·  12 **1.36**  ·  X2 **1.36**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **1X2:** 1 **3.10**  ·  X **3.25**  ·  2 **2.35**
+- **Doble oportunidad:** 1X **1.57**  ·  12 **1.33**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **7.50**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.15** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **7.50** · menos **1.07**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.30** · menos **1.60**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **8.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **8.00** · menos **1.06**
+- **Goles del local:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **7.50** · menos **1.07**
-- **Goles del local:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.05**  ·  2 **3.00**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.00** · menos **1.11**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.00**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **4.00**
-- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **8.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
-- **Anytime Goal Scorer:** Styopa Mkrtchyan **13.00**  ·  Vladislavs Gutkovskis **3.10**  ·  Roberts Savalnieks **13.00**  ·  Andrejs Ciganiks **11.00**  ·  Janis Ikaunieks **3.75**  ·  Roberts Uldrikis **3.75**  ·  Antonijs Cernomordijs **13.00**  ·  Raivis Jurkovskis **17.00**  ·  Dmitrijs Zelenkovs **8.50**  ·  Daniels Balodis **17.00**  ·  Maksims Tonisevs **17.00**  ·  Deniss Melniks **13.00**  ·  Lukas Vapne **7.00**  ·  Eduards Daskevics **5.00**  ·  Kristaps Grabovskis **8.00**  ·  Artur Miranyan **3.10**  ·  Grant-Leon Ranos **2.75**  ·  Zhiaryr Shaghoyan **5.00**  ·  Edgar Sevikyan **5.00**  ·  Gor Manvelyan **4.75**  ·  Nayair Tiknizyan **12.00**  ·  Artur Serobyan **4.75**  ·  Hovhannes Harutyunyan **7.00**  ·  Uguchukwu Iwu **11.00**  ·  Edgar Grigoryan **17.00**  ·  Georgy Arutyunyan **13.00**  ·  Karen Nalbandyan **4.75**  ·  Danila Patijcuks **4.75**  ·  Dennis Cirkin **13.00**  ·  Erik Piloyan **12.00**  ·  Eduards Emsis **8.50**  ·  Albert Aleksanjan **4.33**  ·  Karlen Hovhannisyan **8.50**  ·  Narek Hovhannisyan **4.00**  ·  Argishti Petrosyan **12.00**  ·  Khariton Ayvazyan **12.00**  ·  Artur Gharibyan **3.25**  ·  Artyom Bandikyan **12.00**  ·  Kristers Cudars **8.00**  ·  Markuss Strods **5.00**  ·  Arman Ghazaryan **12.00**  ·  Ivans Patrikejevs **7.00**  ·  Narek Grigoryan **5.00**  ·  Oskars Vientiess **13.00**  ·  Karen Muradyan **12.00**  ·  Edgar Piloyan **9.50**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **4.00**
+- **Win Both Halves:** 1 **13.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **5.00**  ·  Draw/No **7.50**  ·  Away/No **3.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.00**
+- **Anytime Goal Scorer:** Styopa Mkrtchyan **15.00**  ·  Vladislavs Gutkovskis **3.40**  ·  Roberts Savalnieks **15.00**  ·  Andrejs Ciganiks **12.00**  ·  Janis Ikaunieks **4.00**  ·  Roberts Uldrikis **4.00**  ·  Antonijs Cernomordijs **15.00**  ·  Raivis Jurkovskis **17.00**  ·  Dmitrijs Zelenkovs **9.00**  ·  Daniels Balodis **17.00**  ·  Maksims Tonisevs **17.00**  ·  Deniss Melniks **15.00**  ·  Lukas Vapne **7.50**  ·  Eduards Daskevics **5.50**  ·  Kristaps Grabovskis **8.00**  ·  Artur Miranyan **3.25**  ·  Grant-Leon Ranos **2.88**  ·  Zhiaryr Shaghoyan **5.50**  ·  Edgar Sevikyan **5.50**  ·  Gor Manvelyan **4.50**  ·  Nayair Tiknizyan **12.00**  ·  Artur Serobyan **4.50**  ·  Hovhannes Harutyunyan **7.50**  ·  Uguchukwu Iwu **11.00**  ·  Edgar Grigoryan **17.00**  ·  Georgy Arutyunyan **15.00**  ·  Karen Nalbandyan **4.50**  ·  Danila Patijcuks **4.75**  ·  Dennis Cirkin **15.00**  ·  Erik Piloyan **12.00**  ·  Eduards Emsis **9.00**  ·  Albert Aleksanjan **4.50**  ·  Karlen Hovhannisyan **8.00**  ·  Narek Hovhannisyan **4.33**  ·  Argishti Petrosyan **12.00**  ·  Khariton Ayvazyan **12.00**  ·  Artur Gharibyan **3.40**  ·  Artyom Bandikyan **12.00**  ·  Kristers Cudars **8.00**  ·  Markuss Strods **5.50**  ·  Arman Ghazaryan **12.00**  ·  Ivans Patrikejevs **7.50**  ·  Narek Grigoryan **5.50**  ·  Oskars Vientiess **15.00**  ·  Karen Muradyan **12.00**  ·  Edgar Piloyan **10.00**
 
 ## Estadísticas de equipo
 | | Latvia (total) | Latvia en casa | Armenia (total) | Armenia fuera |
@@ -177,34 +177,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 43% | 40% | 41% | 2.30 | -5% |
-| 1X2: X | 33% | 30% | 31% | 3.10 | -4% |
-| 1X2: 1 | 25% | 31% | 28% | 3.00 | -17% |
-| Doble oportunidad: X2 | 75% | 70% | 72% | 1.36 | -1% |
-| Doble oportunidad: 12 | 67% | 70% | 69% | 1.36 | -7% |
-| Doble oportunidad: 1X | 57% | 60% | 59% | 1.57 | -7% |
-| Ambos marcan: No | 67% | 50% | 58% | 1.83 | +7% |
-| Ambos marcan: Sí | 33% | 50% | 42% | 1.83 | -24% |
-| Goles más/menos: Más de 1.5 | 53% | 69% | 61% | 1.36 | -17% |
-| Goles más/menos: Más de 2.5 | 26% | 44% | 35% | 2.15 | -25% |
-| Goles más/menos: Más de 3.5 | 10% | 25% | 18% | 3.75 | -34% |
-| Goles más/menos: Menos de 1.5 | 47% | 31% | 39% | 3.00 | +18% |
-| Goles más/menos: Menos de 2.5 | 74% | 56% | 65% | 1.67 | +9% |
-| Goles más/menos: Menos de 3.5 | 90% | 75% | 82% | 1.25 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 18% | 29% | 24% | 3.25 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 46% | 35% | 41% | 2.62 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 82% | 71% | 76% | 1.33 | +2% |
+| 1X2: 2 | 43% | 40% | 41% | 2.35 | -3% |
+| 1X2: X | 33% | 29% | 31% | 3.25 | +0% |
+| 1X2: 1 | 25% | 31% | 28% | 3.10 | -14% |
+| Doble oportunidad: X2 | 75% | 69% | 72% | 1.36 | -2% |
+| Doble oportunidad: 12 | 67% | 71% | 69% | 1.33 | -8% |
+| Doble oportunidad: 1X | 57% | 60% | 59% | 1.57 | -8% |
+| Ambos marcan: No | 67% | 54% | 60% | 1.73 | +4% |
+| Ambos marcan: Sí | 33% | 46% | 40% | 2.00 | -20% |
+| Goles más/menos: Más de 1.5 | 53% | 66% | 60% | 1.40 | -17% |
+| Goles más/menos: Más de 2.5 | 26% | 41% | 34% | 2.30 | -23% |
+| Goles más/menos: Más de 3.5 | 10% | 22% | 16% | 4.33 | -31% |
+| Goles más/menos: Menos de 1.5 | 47% | 34% | 40% | 2.75 | +11% |
+| Goles más/menos: Menos de 2.5 | 74% | 59% | 66% | 1.60 | +6% |
+| Goles más/menos: Menos de 3.5 | 90% | 78% | 84% | 1.20 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 54% | 62% | 58% | 1.50 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 18% | 28% | 23% | 3.40 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 46% | 38% | 42% | 2.50 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 82% | 72% | 77% | 1.30 | +0% |
 | Goles del local: Más de 0.5 | 51% | 65% | 58% | 1.44 | -17% |
-| Goles del local: Más de 1.5 | 16% | 31% | 24% | 3.00 | -29% |
+| Goles del local: Más de 1.5 | 16% | 29% | 23% | 3.25 | -26% |
 | Goles del local: Menos de 0.5 | 49% | 35% | 42% | 2.62 | +10% |
-| Goles del local: Menos de 1.5 | 84% | 69% | 76% | 1.36 | +4% |
-| Goles del visitante: Más de 0.5 | 65% | 72% | 69% | 1.30 | -11% |
-| Goles del visitante: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
-| Goles del visitante: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +7% |
-| Goles del visitante: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| 1X2 descanso: 2 | 28% | 30% | 29% | 3.00 | -12% |
-| 1X2 descanso: X | 53% | 44% | 49% | 2.05 | +0% |
-| 1X2 descanso: 1 | 18% | 25% | 22% | 3.60 | -22% |
+| Goles del local: Menos de 1.5 | 84% | 71% | 77% | 1.33 | +3% |
+| Goles del visitante: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
+| Goles del visitante: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
+| Goles del visitante: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
+| Goles del visitante: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -2% |
+| 1X2 descanso: 2 | 29% | 30% | 29% | 3.00 | -12% |
+| 1X2 descanso: X | 53% | 45% | 49% | 2.00 | -1% |
+| 1X2 descanso: 1 | 18% | 24% | 21% | 3.75 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

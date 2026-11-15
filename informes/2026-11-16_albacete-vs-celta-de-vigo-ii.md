@@ -1,10 +1,10 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
 - **1X2:** 1 **1.62**  ·  X **3.80**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.25**

@@ -1,24 +1,25 @@
 # Israel – Austria
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Nagyerdei Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **5.00**  ·  X **4.00**  ·  2 **1.60**
-- **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
+- **1X2:** 1 **6.00**  ·  X **4.33**  ·  2 **1.50**
+- **Doble oportunidad:** 1X **2.50**  ·  12 **1.20**  ·  X2 **1.12**
 - **Goles más/menos:**
-    - 2,5: más **1.57** · menos **2.35**
+    - 2,5: más **1.60** · menos **2.30**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
+    - 8,5: más **1.85** · menos **1.95**
+- **Córners 1X2:** 1 **2.88**  ·  X **8.00**  ·  2 **1.57**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.00**
 - **Home Corners Over/Under:**
     - 3,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.20**
-- **Anytime Goal Scorer:** Yarin Levi **8.00**  ·  Guy Mizrahi **9.50**  ·  Oscar Gloukh **6.00**  ·  David Affengruber **8.00**  ·  Eliazar Dasa **13.00**  ·  Dor Peretz **6.00**  ·  Manor Solomon **4.50**  ·  Raz Shlomo **21.00**  ·  Idan Nachmias **21.00**  ·  Liel Abada **4.00**  ·  Omri Gandelman **6.00**  ·  Ilay Feingold **13.00**  ·  Anan Khalaili **4.50**  ·  Gabi Kanichowsky **7.00**  ·  Marco Grull **2.50**  ·  Michael Svoboda **8.00**  ·  Luca Weinhandl **5.00**  ·  Kevin Danso **9.50**  ·  Sascha Horvath **5.00**  ·  Christoph Lang **2.62**  ·  Xaver Schlager **6.00**  ·  Dor Turgeman **3.40**  ·  Roy Revivo **11.00**  ·  Felix Bacher **7.00**  ·  Orian Goren **8.00**  ·  Niv Yehoshua **8.50**  ·  Noam Shtaifman **11.00**  ·  Alexander Prass **3.60**  ·  Yarden Shua **4.33**  ·  Konrad Laimer **6.00**  ·  Christoph Baumgartner **3.10**  ·  Nicolas Seiwald **6.00**  ·  Carney Chukwuemeka **3.10**  ·  Ethane Azoulay **6.00**  ·  Stefan Posch **7.00**  ·  Nikita Stoinov **13.00**  ·  Phillipp Mwene **7.00**  ·  Sasa Kalajdzic **2.20**  ·  Michael Gregoritsch **2.20**  ·  Philipp Lienhart **8.00**  ·  Romano Schmid **4.00**  ·  Chukwubuike Adamu **2.20**  ·  Idan Gorno **3.25**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
+- **Anytime Goal Scorer:** Yarin Levi **8.00**  ·  Guy Mizrahi **10.00**  ·  Oscar Gloukh **6.50**  ·  David Affengruber **8.00**  ·  Eliazar Dasa **13.00**  ·  Dor Peretz **6.50**  ·  Manor Solomon **5.00**  ·  Raz Shlomo **21.00**  ·  Idan Nachmias **21.00**  ·  Liel Abada **4.33**  ·  Omri Gandelman **6.50**  ·  Ilay Feingold **13.00**  ·  Anan Khalaili **5.00**  ·  Gabi Kanichowsky **7.00**  ·  Marco Grull **2.50**  ·  Michael Svoboda **8.00**  ·  Luca Weinhandl **5.00**  ·  Kevin Danso **10.00**  ·  Sascha Horvath **5.00**  ·  Christoph Lang **2.50**  ·  Xaver Schlager **5.00**  ·  Dor Turgeman **3.60**  ·  Roy Revivo **13.00**  ·  Felix Bacher **7.00**  ·  Orian Goren **8.00**  ·  Niv Yehoshua **10.00**  ·  Noam Shtaifman **13.00**  ·  Alexander Prass **3.50**  ·  Yarden Shua **4.50**  ·  Konrad Laimer **5.00**  ·  Christoph Baumgartner **3.00**  ·  Nicolas Seiwald **6.00**  ·  Carney Chukwuemeka **3.00**  ·  Ethane Azoulay **6.50**  ·  Stefan Posch **7.00**  ·  Nikita Stoinov **13.00**  ·  Phillipp Mwene **7.00**  ·  Sasa Kalajdzic **2.05**  ·  Michael Gregoritsch **2.05**  ·  Philipp Lienhart **8.00**  ·  Romano Schmid **4.00**  ·  Chukwubuike Adamu **2.20**  ·  Idan Gorno **3.50**
 
 ## Estadísticas de equipo
 | | Israel (total) | Israel en casa | Austria (total) | Austria fuera |
@@ -156,17 +157,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 69% | 58% | 63% | 1.60 | +2% |
-| 1X2: X | 20% | 23% | 22% | 4.00 | -14% |
-| 1X2: 1 | 11% | 19% | 15% | 5.00 | -25% |
-| Doble oportunidad: X2 | 89% | 81% | 85% | 1.17 | -1% |
-| Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 31% | 41% | 36% | 2.30 | -17% |
-| Goles más/menos: Más de 2.5 | 50% | 60% | 55% | 1.57 | -14% |
-| Goles más/menos: Menos de 2.5 | 50% | 40% | 45% | 2.35 | +6% |
-| Córners más/menos: Más de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Córners más/menos: Menos de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
-| 1X2 descanso: 2 | 48% | 44% | 46% | 2.10 | -3% |
-| 1X2 descanso: X | 40% | 37% | 39% | 2.50 | -4% |
+| 1X2: 2 | 69% | 63% | 66% | 1.50 | -1% |
+| 1X2: X | 20% | 22% | 21% | 4.33 | -10% |
+| 1X2: 1 | 11% | 16% | 13% | 6.00 | -19% |
+| Doble oportunidad: X2 | 89% | 84% | 86% | 1.12 | -3% |
+| Doble oportunidad: 12 | 80% | 78% | 79% | 1.20 | -5% |
+| Doble oportunidad: 1X | 31% | 38% | 34% | 2.50 | -14% |
+| Goles más/menos: Más de 2.5 | 50% | 59% | 54% | 1.60 | -13% |
+| Goles más/menos: Menos de 2.5 | 50% | 41% | 46% | 2.30 | +5% |
+| Córners más/menos: Más de 8.5 | 53% | 51% | 52% | 1.85 | -4% |
+| Córners más/menos: Menos de 8.5 | 47% | 49% | 48% | 1.95 | -7% |
+| 1X2 descanso: 2 | 48% | 46% | 47% | 2.00 | -5% |
+| 1X2 descanso: X | 40% | 37% | 38% | 2.50 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

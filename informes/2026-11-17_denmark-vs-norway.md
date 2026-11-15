@@ -1,28 +1,28 @@
 # Denmark – Norway
 **Nations League** · League A - 6 · 17/11/2026 20:45 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
 - **1X2:** 1 **2.55**  ·  X **3.50**  ·  2 **2.70**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.44**
-- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.20** · menos **4.33**
@@ -32,24 +32,25 @@ _Actualizadas: 15/11 02:12_
 - **Córners más/menos:**
     - 9: más **1.88** · menos **1.92**
     - 9,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.40**  ·  2 **3.00**
+- **Córners 1X2:** 1 **2.10**  ·  X **7.50**  ·  2 **2.00**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.40**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
 - **To Win Either Half:** 1 **1.73**  ·  2 **1.73**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **3.25**
-- **Win Both Halves:** 1 **8.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **15.00**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **3.10**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.25**
+- **Win Both Halves:** 1 **8.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **15.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **3.20**
 - **Home Corners Over/Under:**
     - 4,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.40**
 
 ## Estadísticas de equipo
 | | Denmark (total) | Denmark en casa | Norway (total) | Norway fuera |
@@ -184,30 +185,30 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 35% | 30% | 2.70 | -19% |
+| 1X2: 2 | 25% | 35% | 30% | 2.70 | -18% |
 | 1X2: X | 21% | 27% | 24% | 3.50 | -15% |
 | 1X2: 1 | 54% | 37% | 46% | 2.55 | +16% |
-| Doble oportunidad: X2 | 46% | 64% | 55% | 1.44 | -21% |
-| Doble oportunidad: 12 | 79% | 72% | 75% | 1.28 | -3% |
-| Doble oportunidad: 1X | 75% | 64% | 69% | 1.44 | +0% |
-| Ambos marcan: No | 35% | 38% | 36% | 2.50 | -10% |
-| Ambos marcan: Sí | 65% | 62% | 64% | 1.50 | -4% |
-| Goles más/menos: Más de 2.5 | 67% | 59% | 63% | 1.60 | +1% |
-| Goles más/menos: Más de 3.5 | 45% | 39% | 42% | 2.38 | +0% |
-| Goles más/menos: Más de 4.5 | 26% | 22% | 24% | 4.33 | +4% |
-| Goles más/menos: Menos de 2.5 | 33% | 41% | 37% | 2.30 | -15% |
-| Goles más/menos: Menos de 3.5 | 55% | 61% | 58% | 1.53 | -12% |
-| Goles más/menos: Menos de 4.5 | 74% | 78% | 76% | 1.20 | -9% |
+| Doble oportunidad: X2 | 46% | 62% | 54% | 1.50 | -19% |
+| Doble oportunidad: 12 | 79% | 73% | 76% | 1.28 | -3% |
+| Doble oportunidad: 1X | 75% | 65% | 70% | 1.44 | +1% |
+| Ambos marcan: No | 35% | 35% | 35% | 2.62 | -8% |
+| Ambos marcan: Sí | 65% | 65% | 65% | 1.44 | -7% |
+| Goles más/menos: Más de 2.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles más/menos: Más de 3.5 | 45% | 41% | 43% | 2.25 | -3% |
+| Goles más/menos: Más de 4.5 | 26% | 23% | 25% | 4.00 | -0% |
+| Goles más/menos: Menos de 2.5 | 33% | 39% | 36% | 2.40 | -14% |
+| Goles más/menos: Menos de 3.5 | 55% | 59% | 57% | 1.57 | -11% |
+| Goles más/menos: Menos de 4.5 | 74% | 77% | 75% | 1.22 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
 | Goles del local: Más de 0.5 | 88% | 78% | 83% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 62% | 46% | 54% | 2.00 | +8% |
-| Goles del local: Más de 2.5 | 34% | 22% | 28% | 4.33 | +22% |
+| Goles del local: Más de 1.5 | 62% | 49% | 55% | 1.91 | +5% |
+| Goles del local: Más de 2.5 | 34% | 23% | 29% | 4.00 | +16% |
 | Goles del local: Menos de 0.5 | 12% | 22% | 17% | 4.33 | -26% |
-| Goles del local: Menos de 1.5 | 38% | 54% | 46% | 1.73 | -20% |
-| Goles del local: Menos de 2.5 | 66% | 78% | 72% | 1.20 | -14% |
+| Goles del local: Menos de 1.5 | 38% | 51% | 45% | 1.80 | -19% |
+| Goles del local: Menos de 2.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles del visitante: Más de 0.5 | 75% | 78% | 76% | 1.20 | -8% |
 | Goles del visitante: Más de 1.5 | 40% | 46% | 43% | 2.00 | -14% |
 | Goles del visitante: Más de 2.5 | 16% | 22% | 19% | 4.33 | -19% |
@@ -216,8 +217,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Córners más/menos: Más de 9.5 | 44% | 44% | 44% | 2.10 | -7% |
 | Córners más/menos: Menos de 9.5 | 56% | 56% | 56% | 1.67 | -7% |
-| 1X2 descanso: 2 | 23% | 31% | 27% | 3.00 | -19% |
-| 1X2 descanso: X | 36% | 38% | 37% | 2.40 | -11% |
+| 1X2 descanso: 2 | 23% | 30% | 27% | 3.10 | -18% |
+| 1X2 descanso: X | 36% | 39% | 37% | 2.40 | -10% |
 | 1X2 descanso: 1 | 41% | 31% | 36% | 3.00 | +8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

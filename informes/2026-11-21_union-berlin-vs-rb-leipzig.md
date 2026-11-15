@@ -1,7 +1,7 @@
 # Union Berlin – RB Leipzig
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:13_
@@ -204,10 +204,10 @@ _Goles esperados: local 1,04 · visitante 2,51 · córners esperados 9,3._
 | Goles más/menos: Menos de 4.5 | 72% | 73% | 72% | 1.30 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |
 | Goles del local: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
 | Goles del local: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
 | Goles del local: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -0% |

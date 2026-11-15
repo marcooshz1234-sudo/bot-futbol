@@ -1,20 +1,20 @@
 # Pergolettese – PRO Vercelli
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Giuseppe Voltini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
 - **1X2:** 1 **2.15**  ·  X **3.20**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **8.00**
-    - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **6.00** · menos **1.11**
+    - 4,5: más **6.50** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
@@ -153,11 +153,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 77% | 70% | 74% | 1.30 | -4% |
 | Ambos marcan: No | 53% | 49% | 51% | 1.91 | -3% |
 | Ambos marcan: Sí | 47% | 51% | 49% | 1.80 | -11% |
-| Goles más/menos: Más de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
+| Goles más/menos: Más de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
+| Goles más/menos: Más de 2.5 | 44% | 47% | 46% | 2.00 | -8% |
 | Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles más/menos: Menos de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
+| Goles más/menos: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles más/menos: Menos de 2.5 | 56% | 53% | 54% | 1.80 | -3% |
 | Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |

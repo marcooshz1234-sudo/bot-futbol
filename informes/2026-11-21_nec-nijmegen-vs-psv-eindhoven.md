@@ -1,7 +1,7 @@
 # NEC Nijmegen – PSV Eindhoven
 **Eredivisie** · Regular Season - 13 · 21/11/2026 16:30 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:14_

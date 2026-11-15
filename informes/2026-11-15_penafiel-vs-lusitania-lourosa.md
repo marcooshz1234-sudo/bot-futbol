@@ -1,20 +1,20 @@
 # Penafiel – Lusitânia Lourosa
 **Segunda Liga** · Regular Season - 11 · 15/11/2026 16:30 (hora España) · Estadio Municipal 25 de Abril
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **2.90**
+- **1X2:** 1 **2.25**  ·  X **3.20**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.33**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.08** · menos **1.73**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 2,5: más **2.05** · menos **1.75**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.00** · menos **1.36**
@@ -160,20 +160,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 26% | 31% | 29% | 2.90 | -17% |
-| 1X2: X | 25% | 28% | 27% | 3.20 | -15% |
-| 1X2: 1 | 49% | 41% | 45% | 2.20 | -1% |
+| 1X2: 2 | 26% | 32% | 29% | 2.80 | -19% |
+| 1X2: X | 25% | 28% | 26% | 3.20 | -15% |
+| 1X2: 1 | 49% | 40% | 44% | 2.25 | -0% |
 | Doble oportunidad: X2 | 51% | 60% | 56% | 1.57 | -13% |
 | Doble oportunidad: 12 | 75% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 1X | 74% | 69% | 72% | 1.36 | -3% |
 | Ambos marcan: No | 47% | 50% | 48% | 1.83 | -11% |
 | Ambos marcan: Sí | 53% | 50% | 52% | 1.83 | -6% |
 | Goles más/menos: Más de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles más/menos: Más de 2.5 | 51% | 45% | 48% | 2.08 | -0% |
-| Goles más/menos: Más de 3.5 | 29% | 25% | 27% | 3.75 | +0% |
+| Goles más/menos: Más de 2.5 | 51% | 46% | 48% | 2.05 | -1% |
+| Goles más/menos: Más de 3.5 | 29% | 27% | 28% | 3.50 | -3% |
 | Goles más/menos: Menos de 1.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles más/menos: Menos de 2.5 | 49% | 55% | 52% | 1.73 | -10% |
-| Goles más/menos: Menos de 3.5 | 71% | 75% | 73% | 1.25 | -8% |
+| Goles más/menos: Menos de 2.5 | 49% | 54% | 52% | 1.75 | -10% |
+| Goles más/menos: Menos de 3.5 | 71% | 73% | 72% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -13% |

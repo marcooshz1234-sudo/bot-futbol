@@ -1,15 +1,32 @@
 # Picks del Analista
 
-_Generado el 2026-11-15 08:12 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-15 14:02 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
-## Lunes 16/11
+## Domingo 15/11
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:45 | Gana el Greece | resultado | 1.45 | 80% | Greece 3/5 · Serbia 5/5 |
+| 20:45 | Más de 1,5 goles en la 2ª parte del Spain–England | goles | 1.80 | 80% | Spain 4/5 · England 4/5 |
+
+## Lunes 16/11
+
+**💥 Combi cuota 3-4 · cuota 3,32**
+- Gana el Greece (1,42) · Greece 3/5 · Serbia 5/5
+- Dan Ndoye: 2+ tiros (1,30) · Dan Ndoye 5/5
+- Slovakia marca 2 o más (1,80) · Kazakhstan (en contra) 4/5 · Slovakia 4/5
+
+| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
+|---|---|---|---|---|---|
+| 20:45 | Gana el Greece | resultado | 1.42 | 80% | Greece 3/5 · Serbia 5/5 |
+| 20:45 | Dan Ndoye: 2+ tiros | jugador | 1.30 | 100% | Dan Ndoye 5/5 |
 | 16:00 | Slovakia marca 2 o más | goles | 1.80 | 80% | Kazakhstan (en contra) 4/5 · Slovakia 4/5 |
-| 20:45 | Dan Ndoye: 2+ tiros | jugador | 1.40 | 100% | Dan Ndoye 5/5 |
 | 20:45 | Konstantinos Mavropanos: 1+ tiros | jugador | 1.36 | 100% | Konstantinos Mavropanos 5/5 |
+
+## Martes 17/11
+
+| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
+|---|---|---|---|---|---|
+| 20:45 | Austria hace más córners | corners | 1.57 | 80% | Israel 4/5 · Austria 4/5 |
 
 ## Viernes 20/11
 
@@ -32,15 +49,14 @@ _Generado el 2026-11-15 08:12 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 20:45 | Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29 | goles | 1.80 | 75% | Strasbourg 8/10 · Stade Brestois 29 7/10 |
 | 20:45 | Ambos marcan en Monaco–Auxerre | goles | 1.70 | 75% | Monaco 7/10 · Auxerre 8/10 |
 | 15:30 | Fares Chaibi: 1+ tiros a puerta | jugador | 1.67 | 83% | Fares Chaibi 5/6 |
-| 15:30 | Gana el SC Freiburg | resultado | 2.00 | 60% | SV Elversberg 6/10 · SC Freiburg 6/10 |
 | 20:45 | Noa Lang: 1+ tiros a puerta | jugador | 1.36 | 83% | Noa Lang 5/6 |
 | 21:00 | Thom van Bergen: 1+ tiros a puerta | jugador | 1.25 | 90% | Thom van Bergen 9/10 |
 
 ## Domingo 22/11
 
-**🤪 Combi loca · cuota 12,33**
+**🤪 Combi loca · cuota 14,82**
 - Gana el Liverpool (1,83) · Liverpool 6/10 · Manchester United 7/10
-- Bologna gana alguna de las dos partes (1,44) · Bologna 7/10 · Udinese 8/10
+- Gana el Bologna (1,73) · Bologna 5/10 · Udinese 8/10
 - Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 (1,62) · FC Augsburg 10/10 · FSV Mainz 05 8/10
 - Ambos marcan en Burnley–Blackburn (1,67) · Burnley 8/10 · Blackburn 7/10
 - Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV (1,73) · Werder Bremen 8/10 · Hamburger SV 7/10
@@ -48,7 +64,6 @@ _Generado el 2026-11-15 08:12 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 17:30 | Gana el Liverpool | resultado | 1.83 | 65% | Liverpool 6/10 · Manchester United 7/10 |
-| 15:00 | Bologna gana alguna de las dos partes | resultado | 1.44 | 75% | Bologna 7/10 · Udinese 8/10 |
 | 15:00 | Gana el Bologna | resultado | 1.73 | 65% | Bologna 5/10 · Udinese 8/10 |
 | 15:30 | Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 | goles | 1.62 | 90% | FC Augsburg 10/10 · FSV Mainz 05 8/10 |
 | 13:00 | Ambos marcan en Burnley–Blackburn | goles | 1.67 | 75% | Burnley 8/10 · Blackburn 7/10 |

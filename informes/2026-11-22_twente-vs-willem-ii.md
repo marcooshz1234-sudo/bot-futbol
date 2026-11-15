@@ -1,7 +1,7 @@
 # Twente – Willem II
 **Eredivisie** · Regular Season - 13 · 22/11/2026 12:15 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_

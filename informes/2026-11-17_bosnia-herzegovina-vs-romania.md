@@ -1,24 +1,24 @@
 # Bosnia & Herzegovina – Romania
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Bilino Polje
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **1.70**  ·  X **3.60**  ·  2 **5.00**
-- **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.05**
+- **1X2:** 1 **1.83**  ·  X **3.75**  ·  2 **4.00**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**
 - **Goles más/menos:**
-    - 2,5: más **2.00** · menos **1.80**
+    - 2,5: más **1.95** · menos **1.85**
 - **Córners más/menos:**
-    - 8,5: más **1.80** · menos **2.00**
+    - 8,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.25**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.20**  ·  2 **5.50**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.20**  ·  2 **4.50**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
 
 ## Estadísticas de equipo
 | | Bosnia & Herzegovina (total) | Bosnia & Herzegovina en casa | Romania (total) | Romania fuera |
@@ -156,17 +156,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 19% | 16% | 5.00 | -21% |
-| 1X2: X | 18% | 26% | 22% | 3.60 | -20% |
-| 1X2: 1 | 69% | 55% | 62% | 1.70 | +6% |
-| Doble oportunidad: X2 | 31% | 46% | 39% | 2.05 | -21% |
-| Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | -0% |
-| Doble oportunidad: 1X | 87% | 80% | 84% | 1.18 | -1% |
-| Goles más/menos: Más de 2.5 | 61% | 47% | 54% | 2.00 | +8% |
-| Goles más/menos: Menos de 2.5 | 39% | 53% | 46% | 1.80 | -17% |
-| Córners más/menos: Más de 8.5 | 48% | 53% | 50% | 1.80 | -9% |
-| Córners más/menos: Menos de 8.5 | 52% | 47% | 50% | 2.00 | -1% |
+| 1X2: 2 | 13% | 24% | 18% | 4.00 | -27% |
+| 1X2: X | 18% | 25% | 22% | 3.75 | -19% |
+| 1X2: 1 | 69% | 51% | 60% | 1.83 | +10% |
+| Doble oportunidad: X2 | 31% | 49% | 40% | 1.91 | -23% |
+| Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | -1% |
+| Doble oportunidad: 1X | 87% | 77% | 82% | 1.22 | +0% |
+| Goles más/menos: Más de 2.5 | 61% | 49% | 55% | 1.95 | +6% |
+| Goles más/menos: Menos de 2.5 | 39% | 51% | 45% | 1.85 | -16% |
+| Córners más/menos: Más de 8.5 | 48% | 51% | 50% | 1.80 | -10% |
+| Córners más/menos: Menos de 8.5 | 52% | 49% | 50% | 1.91 | -4% |
+| 1X2 descanso: 2 | 14% | 21% | 17% | 4.50 | -22% |
 | 1X2 descanso: X | 36% | 42% | 39% | 2.20 | -14% |
-| 1X2 descanso: 1 | 50% | 41% | 45% | 2.30 | +4% |
+| 1X2 descanso: 1 | 50% | 37% | 44% | 2.50 | +9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

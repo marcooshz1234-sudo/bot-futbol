@@ -1,6 +1,6 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 566 · aciertos: 353 (62%) · beneficio a 1 € por pick: -66.71 €
+Picks ya jugados: 567 · aciertos: 353 (62%) · beneficio a 1 € por pick: -67.71 €
 
 ## Por tipo
 
@@ -8,7 +8,7 @@ Picks ya jugados: 566 · aciertos: 353 (62%) · beneficio a 1 € por pick: -66.
 |---|---|---|---|---|
 | goles | 141 | 219 | 64% | -23.87 € |
 | jugador | 125 | 195 | 64% | -22.68 € |
-| resultado | 65 | 103 | 63% | -7.25 € |
+| resultado | 65 | 104 | 62% | -8.25 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 3 | 13 | 23% | -8.14 € |
@@ -23,13 +23,13 @@ Picks ya jugados: 566 · aciertos: 353 (62%) · beneficio a 1 € por pick: -66.
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
 | Goals Over/Under · Over 1.5 | 32 | 41 | 78% |
-| Match Winner · Home | 7 | 9 | 78% |
 | Double Chance · Home/Draw | 9 | 12 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
 | Match Winner · Away | 8 | 11 | 73% |
 | Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
+| Match Winner · Home | 7 | 10 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
@@ -51,6 +51,9 @@ Picks ya jugados: 566 · aciertos: 353 (62%) · beneficio a 1 € por pick: -66.
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-15 · 0/1
+- ❌ Gana el Madrid CFF W · 2.10 (2-3)
 
 ### 2026-11-14 · 1/1
 - ✅ Ambos marcan en Arzignano Valchiampo–Alcione · 1.73 (3-2)
@@ -219,28 +222,4 @@ Picks ya jugados: 566 · aciertos: 353 (62%) · beneficio a 1 € por pick: -66.
 - ✅ Josip Misic comete 1+ faltas · 1.40 (0-2)
 - ✅ Más de 1,5 goles en Celta Vigo–Union St. Gilloise · 1.30 (1-2)
 - ✅ Lech Poznan hace más de 2,5 córners · 1.62 (3-1)
-
-### 2026-11-04 · 15/22
-- ✅ AEK Athens FC marca · 1.44 (2-3)
-- ✅ Fenerbahçe marca · 1.33 (3-2)
-- ❌ Matteo Guendouzi comete 1+ faltas · 1.30 (3-2)
-- ✅ Archie Brown comete 1+ faltas · 1.30 (3-2)
-- ✅ Ngolo Kante comete 1+ faltas · 1.36 (3-2)
-- ❌ Middlesbrough o empate · 1.28 (2-0)
-- ✅ West Ham gana alguna de las dos partes · 1.44 (3-3)
-- ✅ Más de 2,5 goles en RB Leipzig–Manchester City · 1.36 (2-3)
-- ✅ Más de 1,5 goles en la 2ª parte del RB Leipzig–Manchester City · 1.53 (2-3)
-- ✅ Más de 2,5 goles en Lens–Como · 1.50 (1-9)
-- ✅ Gana el Como · 2.20 (1-9)
-- ✅ Florian Thauvin: 1+ tiros a puerta · 1.36 (1-9)
-- ❌ Felix Nmecha comete 1+ faltas · 1.30 (2-1)
-- ✅ Ruben Aguilar comete 1+ faltas · 1.30 (1-9)
-- ❌ Saud Abdulhamid comete 1+ faltas · 1.30 (1-9)
-- ✅ Jason Knight comete 1+ faltas · 1.28 (1-2)
-- ✅ Lens ve más de 1,5 tarjetas · 1.50 (1-9)
-- ❌ Más de 9,5 córners en RB Leipzig–Manchester City · 1.73 (2-3)
-- ✅ Peter Christiansen: 1+ tiros a puerta · 1.28 (4-1)
-- ❌ Kristoffer Askildsen comete 1+ faltas · 1.40 (4-1)
-- ✅ Gianni Stensness comete 1+ faltas · 1.36 (4-1)
-- ❌ Peter Christiansen comete 2+ faltas · 1.67 (4-1)
 

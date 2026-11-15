@@ -1,7 +1,7 @@
 # Coventry – Crystal Palace
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 02:13_
@@ -199,7 +199,7 @@ _Goles esperados: local 1,54 · visitante 1,62 · córners esperados 8,8._
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
+| Goles del local: Más de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
 | Goles del local: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
 | Goles del local: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles del local: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |

@@ -1,7 +1,7 @@
 # Bologna – Udinese
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:52_
@@ -182,7 +182,7 @@ _Sin bajas comunicadas por ahora._
 | V. Bayo | F | 6 | 184 | 2 | 1 | 6 | 1,0 | 3 | 0,5 | 1 | 2 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,14 · visitante 0,96 · córners esperados 9,7._
+_Goles esperados: local 2,14 · visitante 0,97 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

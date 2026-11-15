@@ -1,7 +1,7 @@
 # Hull City – Brighton
 **Premier League** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Actualizadas: 14/11 19:51_
@@ -184,12 +184,12 @@ _Goles esperados: local 0,59 · visitante 1,53 · córners esperados 10,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 60% | 60% | 60% | 1.55 | -6% |
+| 1X2: 2 | 61% | 60% | 60% | 1.55 | -6% |
 | 1X2: X | 25% | 23% | 24% | 4.10 | -1% |
-| 1X2: 1 | 14% | 17% | 16% | 5.50 | -15% |
+| 1X2: 1 | 14% | 17% | 15% | 5.50 | -15% |
 | Doble oportunidad: X2 | 86% | 83% | 84% | 1.14 | -4% |
 | Doble oportunidad: 12 | 75% | 77% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X | 40% | 40% | 40% | 2.38 | -6% |
+| Doble oportunidad: 1X | 39% | 40% | 40% | 2.38 | -6% |
 | Ambos marcan: No | 65% | 47% | 56% | 2.00 | +12% |
 | Ambos marcan: Sí | 35% | 53% | 44% | 1.75 | -23% |
 | Goles más/menos: Más de 1.5 | 63% | 79% | 71% | 1.20 | -15% |

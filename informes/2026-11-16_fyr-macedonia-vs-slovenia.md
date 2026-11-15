@@ -1,10 +1,10 @@
 # FYR Macedonia – Slovenia
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Nacional Arena Todor Proeski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
 - **1X2:** 1 **6.25**  ·  X **3.60**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.28**  ·  X2 **1.12**
@@ -28,7 +28,7 @@ _Actualizadas: 15/11 02:12_
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.95** · menos **1.85**
 - **Córners 1X2:** 1 **4.00**  ·  X **9.00**  ·  2 **1.33**
 - **1X2 descanso:** 1 **6.50**  ·  X **2.10**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
@@ -190,7 +190,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 9% | 15% | 12% | 6.25 | -26% |
 | Doble oportunidad: X2 | 91% | 85% | 88% | 1.12 | -2% |
 | Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 32% | 41% | 37% | 2.30 | -15% |
+| Doble oportunidad: 1X | 32% | 41% | 37% | 2.30 | -16% |
 | Ambos marcan: No | 73% | 58% | 65% | 1.62 | +6% |
 | Ambos marcan: Sí | 27% | 42% | 35% | 2.20 | -24% |
 | Goles más/menos: Más de 1.5 | 60% | 69% | 64% | 1.36 | -12% |
@@ -211,8 +211,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -9% |
 | Goles del visitante: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
 | Goles del visitante: Menos de 2.5 | 78% | 75% | 76% | 1.25 | -4% |
-| Córners más/menos: Más de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Córners más/menos: Menos de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
+| Córners más/menos: Más de 8.5 | 53% | 49% | 51% | 1.95 | -1% |
+| Córners más/menos: Menos de 8.5 | 47% | 51% | 49% | 1.85 | -9% |
 | 1X2 descanso: 2 | 45% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: X | 47% | 44% | 45% | 2.10 | -5% |
 

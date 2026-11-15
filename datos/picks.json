@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15 08:12",
+ "generado": "2026-11-15 14:02",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,6 +7,140 @@
   "ultimos_partidos": 10
  },
  "dias": {
+  "2026-11-15": {
+   "picks": [
+    {
+     "partido_id": 1528984,
+     "fecha": "2026-11-15T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Spain",
+     "visitante": "England",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Spain 4/5 · England 4/5",
+     "valor_mercado": -0.053,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.8,
+     "arbitro": "Clement Turpin",
+     "arbitro_tarjetas": 3.8,
+     "prob_aprendida": 0.648
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1528984,
+     "fecha": "2026-11-15T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Spain",
+     "visitante": "England",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Spain–England",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Spain 4/5 · England 4/5",
+     "valor_mercado": -0.053,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.8,
+     "arbitro": "Clement Turpin",
+     "arbitro_tarjetas": 3.8,
+     "prob_aprendida": 0.648
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1570018,
+       "fecha": "2026-11-15T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Granada CF",
+       "visitante": "Las Palmas",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Granada CF–Las Palmas",
+       "cuota": 2.0,
+       "frecuencia": 0.7,
+       "ventaja": 0.2,
+       "detalle": "Granada CF 8/10 · Las Palmas 6/10",
+       "valor_mercado": -0.01,
+       "arbitro": "Miranda Bolano Daniel",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        7,
+        11,
+        22
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.619
+      },
+      {
+       "partido_id": 1528979,
+       "fecha": "2026-11-15T15:00",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Cyprus",
+       "visitante": "Montenegro",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Cyprus–Montenegro",
+       "cuota": 1.8,
+       "frecuencia": 0.7,
+       "ventaja": 0.144,
+       "detalle": "Cyprus 3/5 · Montenegro 4/5",
+       "valor_mercado": 0.078,
+       "movimiento": -0.016,
+       "cuota_inicial": 1.83,
+       "arbitro": "Sander van der Eijk",
+       "arbitro_tarjetas": 4.6,
+       "prob_aprendida": 0.573
+      },
+      {
+       "partido_id": 1528984,
+       "fecha": "2026-11-15T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Spain",
+       "visitante": "England",
+       "mercado": "Total Corners (1st Half)",
+       "opcion": "Over 4",
+       "tipo": "corners",
+       "texto": "Más de 4 córners en la 1ª parte en Spain–England",
+       "cuota": 2.1,
+       "frecuencia": 0.7,
+       "ventaja": 0.224,
+       "detalle": "Spain 4/5 · England 3/5",
+       "valor_mercado": 0.221,
+       "movimiento": 0.0,
+       "cuota_inicial": 2.1,
+       "arbitro": "Clement Turpin",
+       "arbitro_tarjetas": 3.8,
+       "prob_aprendida": 0.465
+      }
+     ],
+     "cuota": 7.56
+    }
+   },
+   "combis_partido": []
+  },
   "2026-11-16": {
    "picks": [
     {
@@ -20,16 +154,43 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Greece",
-     "cuota": 1.45,
+     "cuota": 1.42,
      "frecuencia": 0.8,
-     "ventaja": 0.11,
+     "ventaja": 0.096,
      "detalle": "Greece 3/5 · Serbia 5/5",
-     "valor_mercado": 0.0,
-     "movimiento": 0.021,
+     "valor_mercado": -0.021,
+     "movimiento": 0.0,
      "cuota_inicial": 1.42,
      "arbitro": "Michael Oliver",
      "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.698
+     "prob_aprendida": 0.72
+    },
+    {
+     "partido_id": 1545652,
+     "fecha": "2026-11-16T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Switzerland",
+     "visitante": "Scotland",
+     "mercado": "Home Player Shots",
+     "opcion": "Dan Ndoye - 2",
+     "cuota": 1.3,
+     "frecuencia": 1.0,
+     "ventaja": 0.231,
+     "tipo": "jugador",
+     "jugador": "Dan Ndoye",
+     "equipo": "Switzerland",
+     "jugador_id": 48648,
+     "campo": "tiros",
+     "n": 2,
+     "texto": "Dan Ndoye: 2+ tiros",
+     "detalle": "Dan Ndoye 5/5",
+     "temporada": "5/5",
+     "movimiento": -0.071,
+     "cuota_inicial": 1.4,
+     "arbitro": "Danny Makkelie",
+     "arbitro_tarjetas": 3.1,
+     "prob_aprendida": 0.643
     },
     {
      "partido_id": 1528986,
@@ -49,32 +210,7 @@
      "valor_mercado": -0.027,
      "arbitro": "Aliyar Agayev",
      "arbitro_tarjetas": 1.5,
-     "prob_aprendida": 0.579
-    },
-    {
-     "partido_id": 1545652,
-     "fecha": "2026-11-16T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Switzerland",
-     "visitante": "Scotland",
-     "mercado": "Home Player Shots",
-     "opcion": "Dan Ndoye - 2",
-     "cuota": 1.4,
-     "frecuencia": 1.0,
-     "ventaja": 0.286,
-     "tipo": "jugador",
-     "jugador": "Dan Ndoye",
-     "equipo": "Switzerland",
-     "jugador_id": 48648,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Dan Ndoye: 2+ tiros",
-     "detalle": "Dan Ndoye 5/5",
-     "temporada": "5/5",
-     "arbitro": "Danny Makkelie",
-     "arbitro_tarjetas": 3.1,
-     "prob_aprendida": 0.603
+     "prob_aprendida": 0.577
     },
     {
      "partido_id": 1528991,
@@ -99,7 +235,7 @@
      "temporada": "5/5",
      "arbitro": "Michael Oliver",
      "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.605
+     "prob_aprendida": 0.604
     }
    ],
    "mejores_por_partido": [
@@ -114,16 +250,43 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Greece",
-     "cuota": 1.45,
+     "cuota": 1.42,
      "frecuencia": 0.8,
-     "ventaja": 0.11,
+     "ventaja": 0.096,
      "detalle": "Greece 3/5 · Serbia 5/5",
-     "valor_mercado": 0.0,
-     "movimiento": 0.021,
+     "valor_mercado": -0.021,
+     "movimiento": 0.0,
      "cuota_inicial": 1.42,
      "arbitro": "Michael Oliver",
      "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.698
+     "prob_aprendida": 0.72
+    },
+    {
+     "partido_id": 1545652,
+     "fecha": "2026-11-16T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Switzerland",
+     "visitante": "Scotland",
+     "mercado": "Home Player Shots",
+     "opcion": "Dan Ndoye - 2",
+     "cuota": 1.3,
+     "frecuencia": 1.0,
+     "ventaja": 0.231,
+     "tipo": "jugador",
+     "jugador": "Dan Ndoye",
+     "equipo": "Switzerland",
+     "jugador_id": 48648,
+     "campo": "tiros",
+     "n": 2,
+     "texto": "Dan Ndoye: 2+ tiros",
+     "detalle": "Dan Ndoye 5/5",
+     "temporada": "5/5",
+     "movimiento": -0.071,
+     "cuota_inicial": 1.4,
+     "arbitro": "Danny Makkelie",
+     "arbitro_tarjetas": 3.1,
+     "prob_aprendida": 0.643
     },
     {
      "partido_id": 1528986,
@@ -143,37 +306,85 @@
      "valor_mercado": -0.027,
      "arbitro": "Aliyar Agayev",
      "arbitro_tarjetas": 1.5,
-     "prob_aprendida": 0.579
-    },
-    {
-     "partido_id": 1545652,
-     "fecha": "2026-11-16T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Switzerland",
-     "visitante": "Scotland",
-     "mercado": "Home Player Shots",
-     "opcion": "Dan Ndoye - 2",
-     "cuota": 1.4,
-     "frecuencia": 1.0,
-     "ventaja": 0.286,
-     "tipo": "jugador",
-     "jugador": "Dan Ndoye",
-     "equipo": "Switzerland",
-     "jugador_id": 48648,
-     "campo": "tiros",
-     "n": 2,
-     "texto": "Dan Ndoye: 2+ tiros",
-     "detalle": "Dan Ndoye 5/5",
-     "temporada": "5/5",
-     "arbitro": "Danny Makkelie",
-     "arbitro_tarjetas": 3.1,
-     "prob_aprendida": 0.603
+     "prob_aprendida": 0.577
     }
    ],
    "combis": {
     "segura": null,
-    "cuota_3": null,
+    "cuota_3": {
+     "picks": [
+      {
+       "partido_id": 1528991,
+       "fecha": "2026-11-16T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Greece",
+       "visitante": "Serbia",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Greece",
+       "cuota": 1.42,
+       "frecuencia": 0.8,
+       "ventaja": 0.096,
+       "detalle": "Greece 3/5 · Serbia 5/5",
+       "valor_mercado": -0.021,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.42,
+       "arbitro": "Michael Oliver",
+       "arbitro_tarjetas": 4.7,
+       "prob_aprendida": 0.72
+      },
+      {
+       "partido_id": 1545652,
+       "fecha": "2026-11-16T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Switzerland",
+       "visitante": "Scotland",
+       "mercado": "Home Player Shots",
+       "opcion": "Dan Ndoye - 2",
+       "cuota": 1.3,
+       "frecuencia": 1.0,
+       "ventaja": 0.231,
+       "tipo": "jugador",
+       "jugador": "Dan Ndoye",
+       "equipo": "Switzerland",
+       "jugador_id": 48648,
+       "campo": "tiros",
+       "n": 2,
+       "texto": "Dan Ndoye: 2+ tiros",
+       "detalle": "Dan Ndoye 5/5",
+       "temporada": "5/5",
+       "movimiento": -0.071,
+       "cuota_inicial": 1.4,
+       "arbitro": "Danny Makkelie",
+       "arbitro_tarjetas": 3.1,
+       "prob_aprendida": 0.643
+      },
+      {
+       "partido_id": 1528986,
+       "fecha": "2026-11-16T16:00",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Kazakhstan",
+       "visitante": "Slovakia",
+       "mercado": "Total - Away",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Slovakia marca 2 o más",
+       "cuota": 1.8,
+       "frecuencia": 0.8,
+       "ventaja": 0.244,
+       "detalle": "Kazakhstan (en contra) 4/5 · Slovakia 4/5",
+       "valor_mercado": -0.027,
+       "arbitro": "Aliyar Agayev",
+       "arbitro_tarjetas": 1.5,
+       "prob_aprendida": 0.577
+      }
+     ],
+     "cuota": 3.32
+    },
     "loca": null,
     "doble": null
    },
@@ -191,16 +402,16 @@
        "opcion": "Home/No",
        "tipo": "resultado",
        "texto": "Gana el Iceland y no marcan los dos",
-       "cuota": 1.83,
+       "cuota": 1.91,
        "frecuencia": 0.7,
-       "ventaja": 0.154,
+       "ventaja": 0.176,
        "detalle": "Iceland 3/5 · Luxembourg 4/5",
-       "valor_mercado": -0.042,
-       "movimiento": -0.042,
+       "valor_mercado": 0.016,
+       "movimiento": 0.0,
        "cuota_inicial": 1.91,
        "arbitro": "Marian Barbu",
        "arbitro_tarjetas": 3.5,
-       "prob_aprendida": 0.704
+       "prob_aprendida": 0.661
       },
       {
        "partido_id": 1545662,
@@ -217,10 +428,10 @@
        "frecuencia": 0.7,
        "ventaja": 0.122,
        "detalle": "FYR Macedonia 3/5 · Slovenia (en contra) 4/5",
-       "valor_mercado": -0.144,
+       "valor_mercado": 0.0,
        "arbitro": "Serdar Gozubuyuk",
        "arbitro_tarjetas": 3.8,
-       "prob_aprendida": 0.66
+       "prob_aprendida": 0.616
       },
       {
        "partido_id": 1528986,
@@ -233,17 +444,115 @@
        "opcion": "Yes",
        "tipo": "goles",
        "texto": "Ambos marcan en Kazakhstan–Slovakia",
-       "cuota": 1.8,
+       "cuota": 1.83,
        "frecuencia": 0.8,
-       "ventaja": 0.244,
+       "ventaja": 0.254,
        "detalle": "Kazakhstan 5/5 · Slovakia 3/5",
-       "valor_mercado": 0.029,
+       "valor_mercado": 0.028,
+       "movimiento": 0.017,
+       "cuota_inicial": 1.8,
        "arbitro": "Aliyar Agayev",
        "arbitro_tarjetas": 1.5,
-       "prob_aprendida": 0.569
+       "prob_aprendida": 0.565
       }
      ],
-     "cuota": 5.7
+     "cuota": 6.05
+    }
+   },
+   "combis_partido": []
+  },
+  "2026-11-17": {
+   "picks": [
+    {
+     "partido_id": 1528996,
+     "fecha": "2026-11-17T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Israel",
+     "visitante": "Austria",
+     "mercado": "Corners 1x2",
+     "opcion": "Away",
+     "tipo": "corners",
+     "texto": "Austria hace más córners",
+     "cuota": 1.57,
+     "frecuencia": 0.8,
+     "ventaja": 0.163,
+     "detalle": "Israel 4/5 · Austria 4/5",
+     "valor_mercado": 0.026,
+     "prob_aprendida": 0.408
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1528996,
+     "fecha": "2026-11-17T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Israel",
+     "visitante": "Austria",
+     "mercado": "Corners 1x2",
+     "opcion": "Away",
+     "tipo": "corners",
+     "texto": "Austria hace más córners",
+     "cuota": 1.57,
+     "frecuencia": 0.8,
+     "ventaja": 0.163,
+     "detalle": "Israel 4/5 · Austria 4/5",
+     "valor_mercado": 0.026,
+     "prob_aprendida": 0.408
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1528993,
+       "fecha": "2026-11-17T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Denmark",
+       "visitante": "Norway",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Denmark",
+       "cuota": 2.55,
+       "frecuencia": 0.6,
+       "ventaja": 0.208,
+       "detalle": "Denmark 3/5 · Norway 3/5",
+       "valor_mercado": 0.062,
+       "movimiento": -0.056,
+       "cuota_inicial": 2.7,
+       "prob_aprendida": 0.607
+      },
+      {
+       "partido_id": 1528998,
+       "fecha": "2026-11-17T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Poland",
+       "visitante": "Sweden",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Sweden gana alguna de las dos partes",
+       "cuota": 1.91,
+       "frecuencia": 0.7,
+       "ventaja": 0.176,
+       "detalle": "Poland 3/5 · Sweden 4/5",
+       "valor_mercado": -0.021,
+       "movimiento": 0.044,
+       "cuota_inicial": 1.83,
+       "prob_aprendida": 0.555
+      }
+     ],
+     "cuota": 4.87
     }
    },
    "combis_partido": []
@@ -266,7 +575,7 @@
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.703
+     "prob_aprendida": 0.693
     }
    ],
    "mejores_por_partido": [
@@ -286,7 +595,7 @@
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.703
+     "prob_aprendida": 0.693
     }
    ],
    "combis": {
@@ -322,7 +631,7 @@
       20
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.673
+     "prob_aprendida": 0.659
     },
     {
      "partido_id": 1552826,
@@ -346,7 +655,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.643
+     "prob_aprendida": 0.642
     },
     {
      "partido_id": 1552823,
@@ -372,7 +681,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.605
+     "prob_aprendida": 0.601
     },
     {
      "partido_id": 1575223,
@@ -401,31 +710,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.574
-    },
-    {
-     "partido_id": 1575229,
-     "fecha": "2026-11-21T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SV Elversberg",
-     "visitante": "SC Freiburg",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el SC Freiburg",
-     "cuota": 2.0,
-     "frecuencia": 0.6,
-     "ventaja": 0.1,
-     "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
-     "valor_mercado": -0.01,
-     "posiciones": [
-      7,
-      3,
-      18
-     ],
-     "contexto": "mejor_lejos_arriba",
-     "prob_aprendida": 0.508
+     "prob_aprendida": 0.571
     },
     {
      "partido_id": 1550204,
@@ -483,7 +768,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.593
+     "prob_aprendida": 0.594
     }
    ],
    "mejores_por_partido": [
@@ -509,7 +794,7 @@
       20
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.673
+     "prob_aprendida": 0.659
     },
     {
      "partido_id": 1552826,
@@ -533,7 +818,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.643
+     "prob_aprendida": 0.642
     },
     {
      "partido_id": 1552823,
@@ -559,7 +844,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.605
+     "prob_aprendida": 0.601
     },
     {
      "partido_id": 1575223,
@@ -588,31 +873,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.574
-    },
-    {
-     "partido_id": 1575229,
-     "fecha": "2026-11-21T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SV Elversberg",
-     "visitante": "SC Freiburg",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el SC Freiburg",
-     "cuota": 2.0,
-     "frecuencia": 0.6,
-     "ventaja": 0.1,
-     "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
-     "valor_mercado": -0.01,
-     "posiciones": [
-      7,
-      3,
-      18
-     ],
-     "contexto": "mejor_lejos_arriba",
-     "prob_aprendida": 0.508
+     "prob_aprendida": 0.571
     },
     {
      "partido_id": 1550204,
@@ -670,7 +931,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.593
+     "prob_aprendida": 0.594
     }
    ],
    "combis": {
@@ -700,7 +961,7 @@
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.673
+       "prob_aprendida": 0.659
       },
       {
        "partido_id": 1552826,
@@ -724,7 +985,7 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.643
+       "prob_aprendida": 0.642
       },
       {
        "partido_id": 1552823,
@@ -750,7 +1011,7 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.605
+       "prob_aprendida": 0.601
       },
       {
        "partido_id": 1575223,
@@ -779,7 +1040,7 @@
         18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.574
+       "prob_aprendida": 0.571
       },
       {
        "partido_id": 1550204,
@@ -834,7 +1095,7 @@
        "ventaja": 0.3,
        "detalle": "Vejle 6/10 · HB Koge 8/10",
        "valor_mercado": -0.046,
-       "prob_aprendida": 0.575
+       "prob_aprendida": 0.566
       },
       {
        "partido_id": 1552819,
@@ -860,7 +1121,7 @@
         18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.557
+       "prob_aprendida": 0.553
       }
      ],
      "cuota": 4.77,
@@ -891,7 +1152,7 @@
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.686
+       "prob_aprendida": 0.676
       },
       {
        "partido_id": 1557476,
@@ -915,7 +1176,7 @@
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.619
+       "prob_aprendida": 0.612
       },
       {
        "partido_id": 1557474,
@@ -941,7 +1202,7 @@
         20
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.628
+       "prob_aprendida": 0.622
       }
      ],
      "cuota": 4.46,
@@ -974,7 +1235,7 @@
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.675
+       "prob_aprendida": 0.664
       },
       {
        "partido_id": 1575229,
@@ -998,7 +1259,7 @@
         18
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.599
+       "prob_aprendida": 0.595
       },
       {
        "partido_id": 1550204,
@@ -1024,7 +1285,7 @@
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.602
+       "prob_aprendida": 0.596
       }
      ],
      "cuota": 5.39
@@ -1053,7 +1314,7 @@
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.673
+       "prob_aprendida": 0.659
       },
       {
        "partido_id": 1552820,
@@ -1079,31 +1340,7 @@
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.675
-      },
-      {
-       "partido_id": 1575223,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Eintracht Frankfurt",
-       "visitante": "1899 Hoffenheim",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
-       "cuota": 1.67,
-       "frecuencia": 0.65,
-       "ventaja": 0.051,
-       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
-       "valor_mercado": 0.044,
-       "posiciones": [
-        10,
-        9,
-        18
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.624
+       "prob_aprendida": 0.664
       },
       {
        "partido_id": 1552826,
@@ -1127,7 +1364,31 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.643
+       "prob_aprendida": 0.642
+      },
+      {
+       "partido_id": 1575223,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Eintracht Frankfurt",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
+       "valor_mercado": 0.044,
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.615
       },
       {
        "partido_id": 1557476,
@@ -1151,7 +1412,7 @@
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.619
+       "prob_aprendida": 0.612
       },
       {
        "partido_id": 1557474,
@@ -1177,7 +1438,7 @@
         20
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.628
+       "prob_aprendida": 0.622
       },
       {
        "partido_id": 1552823,
@@ -1203,25 +1464,7 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.605
-      },
-      {
-       "partido_id": 1551381,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "1. Division",
-       "liga_id": 120,
-       "local": "Vejle",
-       "visitante": "HB Koge",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "HB Koge o empate",
-       "cuota": 2.5,
-       "frecuencia": 0.7,
-       "ventaja": 0.3,
-       "detalle": "Vejle 6/10 · HB Koge 8/10",
-       "valor_mercado": -0.046,
-       "prob_aprendida": 0.575
+       "prob_aprendida": 0.601
       },
       {
        "partido_id": 1575229,
@@ -1245,7 +1488,25 @@
         18
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.599
+       "prob_aprendida": 0.595
+      },
+      {
+       "partido_id": 1551381,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "1. Division",
+       "liga_id": 120,
+       "local": "Vejle",
+       "visitante": "HB Koge",
+       "mercado": "Double Chance",
+       "opcion": "Draw/Away",
+       "tipo": "resultado",
+       "texto": "HB Koge o empate",
+       "cuota": 2.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.3,
+       "detalle": "Vejle 6/10 · HB Koge 8/10",
+       "valor_mercado": -0.046,
+       "prob_aprendida": 0.566
       },
       {
        "partido_id": 1550204,
@@ -1271,7 +1532,7 @@
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.602
+       "prob_aprendida": 0.596
       }
      ],
      "cuota": 401.38
@@ -1303,31 +1564,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.69
-    },
-    {
-     "partido_id": 1550199,
-     "fecha": "2026-11-22T15:00",
-     "competicion": "Serie A",
-     "liga_id": 135,
-     "local": "Bologna",
-     "visitante": "Udinese",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Bologna gana alguna de las dos partes",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "Bologna 7/10 · Udinese 8/10",
-     "valor_mercado": 0.014,
-     "posiciones": [
-      8,
-      20,
-      20
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.702
+     "prob_aprendida": 0.676
     },
     {
      "partido_id": 1550199,
@@ -1351,7 +1588,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.676
+     "prob_aprendida": 0.665
     },
     {
      "partido_id": 1575224,
@@ -1375,7 +1612,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.656
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1563264,
@@ -1401,7 +1638,7 @@
       24
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.616
+     "prob_aprendida": 0.61
     },
     {
      "partido_id": 1575227,
@@ -1425,7 +1662,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.617
+     "prob_aprendida": 0.612
     },
     {
      "partido_id": 1550199,
@@ -1454,7 +1691,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.626
+     "prob_aprendida": 0.627
     }
    ],
    "mejores_por_partido": [
@@ -1480,7 +1717,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.69
+     "prob_aprendida": 0.676
     },
     {
      "partido_id": 1550199,
@@ -1489,22 +1726,22 @@
      "liga_id": 135,
      "local": "Bologna",
      "visitante": "Udinese",
-     "mercado": "To Win Either Half",
+     "mercado": "Match Winner",
      "opcion": "Home",
      "tipo": "resultado",
-     "texto": "Bologna gana alguna de las dos partes",
-     "cuota": 1.44,
-     "frecuencia": 0.75,
-     "ventaja": 0.056,
-     "detalle": "Bologna 7/10 · Udinese 8/10",
-     "valor_mercado": 0.014,
+     "texto": "Gana el Bologna",
+     "cuota": 1.73,
+     "frecuencia": 0.65,
+     "ventaja": 0.072,
+     "detalle": "Bologna 5/10 · Udinese 8/10",
+     "valor_mercado": -0.017,
      "posiciones": [
       8,
       20,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.702
+     "prob_aprendida": 0.665
     },
     {
      "partido_id": 1575224,
@@ -1528,7 +1765,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.656
+     "prob_aprendida": 0.655
     },
     {
      "partido_id": 1563264,
@@ -1554,7 +1791,7 @@
       24
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.616
+     "prob_aprendida": 0.61
     },
     {
      "partido_id": 1575227,
@@ -1578,7 +1815,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.617
+     "prob_aprendida": 0.612
     }
    ],
    "combis": {
@@ -1608,7 +1845,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.69
+       "prob_aprendida": 0.676
       },
       {
        "partido_id": 1550199,
@@ -1617,22 +1854,22 @@
        "liga_id": 135,
        "local": "Bologna",
        "visitante": "Udinese",
-       "mercado": "To Win Either Half",
+       "mercado": "Match Winner",
        "opcion": "Home",
        "tipo": "resultado",
-       "texto": "Bologna gana alguna de las dos partes",
-       "cuota": 1.44,
-       "frecuencia": 0.75,
-       "ventaja": 0.056,
-       "detalle": "Bologna 7/10 · Udinese 8/10",
-       "valor_mercado": 0.014,
+       "texto": "Gana el Bologna",
+       "cuota": 1.73,
+       "frecuencia": 0.65,
+       "ventaja": 0.072,
+       "detalle": "Bologna 5/10 · Udinese 8/10",
+       "valor_mercado": -0.017,
        "posiciones": [
         8,
         20,
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.702
+       "prob_aprendida": 0.665
       },
       {
        "partido_id": 1575224,
@@ -1656,7 +1893,7 @@
         18
        ],
        "contexto": "total_igualado_abajo",
-       "prob_aprendida": 0.656
+       "prob_aprendida": 0.655
       },
       {
        "partido_id": 1563264,
@@ -1682,7 +1919,7 @@
         24
        ],
        "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.616
+       "prob_aprendida": 0.61
       },
       {
        "partido_id": 1575227,
@@ -1706,10 +1943,10 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.617
+       "prob_aprendida": 0.612
       }
      ],
-     "cuota": 12.33
+     "cuota": 14.82
     },
     "doble": null
    },
@@ -1740,7 +1977,7 @@
         18
        ],
        "contexto": "peor_igualado_abajo",
-       "prob_aprendida": 0.689
+       "prob_aprendida": 0.683
       },
       {
        "partido_id": 1550199,
@@ -1766,7 +2003,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.666
+       "prob_aprendida": 0.657
       },
       {
        "partido_id": 1563264,
@@ -1790,7 +2027,7 @@
         24
        ],
        "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.471
+       "prob_aprendida": 0.462
       }
      ],
      "cuota": 7.97

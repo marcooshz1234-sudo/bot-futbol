@@ -1,6 +1,6 @@
 # Apuestas de valor
 
-_Actualizado el 15/11/2026 08:12 (hora España)._
+_Actualizado el 15/11/2026 14:02 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
@@ -22,7 +22,7 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 16:00 | [Tottenham – Ipswich](informes/2026-11-21_tottenham-vs-ipswich.md) | Doble oportunidad: X2 | 2.38 | 51% | 40% | 46% | **+8%** |
 | 16:00 | [Tottenham – Ipswich](informes/2026-11-21_tottenham-vs-ipswich.md) | Goles del local: Menos de 1.5 | 2.50 | 49% | 38% | 43% | **+8%** |
 | 16:00 | [Chelsea – Leeds](informes/2026-11-21_chelsea-vs-leeds.md) | Goles del visitante: Más de 1.5 | 3.00 | 42% | 31% | 37% | **+10%** |
-| 16:00 | [Chelsea – Leeds](informes/2026-11-21_chelsea-vs-leeds.md) | Goles más/menos: Más de 3.5 | 2.75 | 45% | 34% | 40% | **+9%** |
+| 16:00 | [Chelsea – Leeds](informes/2026-11-21_chelsea-vs-leeds.md) | Goles más/menos: Más de 3.5 | 2.75 | 45% | 34% | 40% | **+10%** |
 | 18:30 | [FC Schalke 04 – VfB Stuttgart](informes/2026-11-21_fc-schalke-04-vs-vfb-stuttgart.md) | Goles más/menos: Menos de 2.5 | 2.75 | 49% | 34% | 42% | **+15%** |
 | 18:30 | [FC Schalke 04 – VfB Stuttgart](informes/2026-11-21_fc-schalke-04-vs-vfb-stuttgart.md) | Goles del visitante: Menos de 1.5 | 2.38 | 52% | 39% | 46% | **+9%** |
 | 20:45 | [Lille – Lyon](informes/2026-11-21_lille-vs-lyon.md) | Goles más/menos: Menos de 1.5 | 3.40 | 41% | 28% | 35% | **+18%** |

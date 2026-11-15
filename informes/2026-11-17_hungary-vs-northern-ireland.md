@@ -1,29 +1,28 @@
 # Hungary – Northern Ireland
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Puskás Aréna
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **1.90**  ·  X **3.40**  ·  2 **3.50**
-- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**
+- **1X2:** 1 **1.91**  ·  X **3.30**  ·  2 **4.20**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.83**
 - **Goles más/menos:**
-    - 2,5: más **2.35** · menos **1.57**
+    - 2,5: más **2.40** · menos **1.53**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.75**
-- **1X2 descanso:** 1 **2.60**  ·  X **2.00**  ·  2 **5.00**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.00**  ·  2 **5.00**
 - **Home Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):**
-    - 4: más **1.82** · menos **1.98**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
 - **Home Player Shots:** Barnabas Varga - 2 **1.20**  ·  Barnabas Varga - 4 **2.38**  ·  Barnabas Varga - 5 **4.00**  ·  Barnabas Varga - 6 **8.00**  ·  Barnabas Varga - 7 **15.00**  ·  Barnabas Varga - 1 **1.03**
-- **Anytime Goal Scorer:** Josh Magennis **5.00**  ·  Ethan Galbraith **9.50**  ·  Paddy McNair **19.00**  ·  Ciaron Brown **19.00**  ·  Trai Hume **13.00**  ·  Isaac Price **5.50**  ·  Brodie Spencer **19.00**  ·  Shea Charles **12.00**  ·  Callum Marshall **5.50**  ·  Paul Smyth **7.50**  ·  Jordan Thompson **19.00**  ·  Patrick Kelly **9.50**  ·  Jamie Donley **5.50**  ·  Michael Forbes **21.00**  ·  Barnabas Varga **2.50**  ·  Zsolt Nagy **5.00**  ·  Willi Orban **12.00**  ·  Kornel Szucs **13.00**  ·  Andras Schafer **7.50**  ·  Bendeguz Bolla **5.50**  ·  Akos Szendrei **2.75**  ·  Peter Barath **6.00**  ·  Mark Csinger **12.00**  ·  Callum Styles **7.50**  ·  Terry Devlin **13.00**  ·  Damir Redzic **3.20**  ·  Daniel Lukacs **3.00**  ·  Milan Peto **6.00**  ·  Aron Csongvai **7.50**  ·  Gabor Jurek **3.75**  ·  Attila Osvath **13.00**  ·  Rajmund Toth **7.50**  ·  Akos Markgraf **12.00**  ·  Eoin Kenny **6.00**  ·  Braiden Graham **5.50**  ·  Dominik Szoboszlai **3.00**  ·  Jozef Urblik **5.00**  ·  Milos Kerkez **12.00**  ·  Justin Devenny **9.50**  ·  Attila Szalai **19.00**  ·  Ruairi McConville **19.00**  ·  Roland Sallai **3.20**  ·  Kieran Morrison **7.50**  ·  Tom Atcheson **21.00**  ·  Milan Vitalis **7.50**
-- **Player to Score or Assist:** Josh Magennis **3.75**  ·  Ethan Galbraith **5.50**  ·  Paddy McNair **13.00**  ·  Ciaron Brown **13.00**  ·  Trai Hume **6.50**  ·  Isaac Price **3.75**  ·  Brodie Spencer **9.00**  ·  Shea Charles **6.00**  ·  Callum Marshall **3.75**  ·  Paul Smyth **4.50**  ·  Jordan Thompson **11.00**  ·  Patrick Kelly **4.75**  ·  Jamie Donley **3.75**  ·  Michael Forbes **12.00**  ·  Barnabas Varga **2.00**  ·  Zsolt Nagy **3.25**  ·  Willi Orban **8.00**  ·  Kornel Szucs **7.00**  ·  Andras Schafer **3.75**  ·  Bendeguz Bolla **3.00**  ·  Akos Szendrei **2.20**  ·  Peter Barath **3.60**  ·  Mark Csinger **6.50**  ·  Callum Styles **4.50**  ·  Terry Devlin **7.00**  ·  Damir Redzic **2.25**  ·  Daniel Lukacs **2.05**  ·  Milan Peto **3.75**  ·  Aron Csongvai **4.00**  ·  Gabor Jurek **2.30**  ·  Attila Osvath **7.50**  ·  Rajmund Toth **3.50**  ·  Akos Markgraf **6.50**  ·  Eoin Kenny **4.33**  ·  Braiden Graham **4.33**  ·  Dominik Szoboszlai **1.91**  ·  Jozef Urblik **2.88**  ·  Milos Kerkez **3.75**  ·  Justin Devenny **4.75**  ·  Attila Szalai **10.00**  ·  Ruairi McConville **12.00**  ·  Roland Sallai **2.25**  ·  Kieran Morrison **4.50**  ·  Tom Atcheson **12.00**  ·  Milan Vitalis **3.50**
+- **Anytime Goal Scorer:** Josh Magennis **5.00**  ·  Ethan Galbraith **9.50**  ·  Paddy McNair **17.00**  ·  Ciaron Brown **17.00**  ·  Trai Hume **13.00**  ·  Isaac Price **5.50**  ·  Brodie Spencer **17.00**  ·  Shea Charles **12.00**  ·  Callum Marshall **5.50**  ·  Paul Smyth **7.50**  ·  Jordan Thompson **17.00**  ·  Patrick Kelly **9.50**  ·  Jamie Donley **5.50**  ·  Michael Forbes **21.00**  ·  Barnabas Varga **2.40**  ·  Zsolt Nagy **5.00**  ·  Willi Orban **12.00**  ·  Kornel Szucs **15.00**  ·  Andras Schafer **7.50**  ·  Bendeguz Bolla **6.00**  ·  Akos Szendrei **2.75**  ·  Peter Barath **7.00**  ·  Mark Csinger **12.00**  ·  Callum Styles **7.50**  ·  Terry Devlin **13.00**  ·  Damir Redzic **3.10**  ·  Daniel Lukacs **3.10**  ·  Milan Peto **7.00**  ·  Aron Csongvai **7.50**  ·  Gabor Jurek **4.00**  ·  Attila Osvath **15.00**  ·  Rajmund Toth **7.50**  ·  Akos Markgraf **12.00**  ·  Eoin Kenny **6.00**  ·  Braiden Graham **5.50**  ·  Dominik Szoboszlai **3.10**  ·  Jozef Urblik **5.00**  ·  Milos Kerkez **12.00**  ·  Justin Devenny **9.50**  ·  Attila Szalai **17.00**  ·  Ruairi McConville **17.00**  ·  Roland Sallai **3.10**  ·  Kieran Morrison **7.50**  ·  Tom Atcheson **21.00**  ·  Milan Vitalis **7.50**
+- **Player to Score or Assist:** Josh Magennis **3.75**  ·  Ethan Galbraith **5.50**  ·  Paddy McNair **12.00**  ·  Ciaron Brown **12.00**  ·  Trai Hume **6.50**  ·  Isaac Price **3.60**  ·  Brodie Spencer **9.00**  ·  Shea Charles **5.50**  ·  Callum Marshall **3.60**  ·  Paul Smyth **4.00**  ·  Jordan Thompson **10.00**  ·  Patrick Kelly **4.75**  ·  Jamie Donley **3.60**  ·  Michael Forbes **12.00**  ·  Barnabas Varga **2.05**  ·  Zsolt Nagy **3.25**  ·  Willi Orban **8.00**  ·  Kornel Szucs **7.50**  ·  Andras Schafer **3.75**  ·  Bendeguz Bolla **3.10**  ·  Akos Szendrei **2.20**  ·  Peter Barath **3.75**  ·  Mark Csinger **6.50**  ·  Callum Styles **4.50**  ·  Terry Devlin **7.00**  ·  Damir Redzic **2.38**  ·  Daniel Lukacs **2.10**  ·  Milan Peto **4.00**  ·  Aron Csongvai **4.00**  ·  Gabor Jurek **2.40**  ·  Attila Osvath **8.50**  ·  Rajmund Toth **3.50**  ·  Akos Markgraf **6.50**  ·  Eoin Kenny **4.33**  ·  Braiden Graham **4.33**  ·  Dominik Szoboszlai **1.95**  ·  Jozef Urblik **2.88**  ·  Milos Kerkez **3.75**  ·  Justin Devenny **4.50**  ·  Attila Szalai **10.00**  ·  Ruairi McConville **11.00**  ·  Roland Sallai **2.38**  ·  Kieran Morrison **4.00**  ·  Tom Atcheson **12.00**  ·  Milan Vitalis **3.50**
 
 ## Estadísticas de equipo
 | | Hungary (total) | Hungary en casa | Northern Ireland (total) | Northern Ireland fuera |
@@ -158,17 +157,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 31% | 26% | 28% | 3.50 | -0% |
-| 1X2: X | 32% | 27% | 29% | 3.40 | -0% |
-| 1X2: 1 | 37% | 48% | 42% | 1.90 | -20% |
-| Doble oportunidad: X2 | 63% | 50% | 56% | 1.91 | +8% |
-| Doble oportunidad: 12 | 68% | 76% | 72% | 1.25 | -10% |
-| Doble oportunidad: 1X | 69% | 74% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 2.5 | 29% | 40% | 34% | 2.35 | -19% |
-| Goles más/menos: Menos de 2.5 | 71% | 60% | 66% | 1.57 | +3% |
+| 1X2: 2 | 31% | 22% | 27% | 4.20 | +12% |
+| 1X2: X | 32% | 28% | 30% | 3.30 | -0% |
+| 1X2: 1 | 37% | 49% | 43% | 1.91 | -18% |
+| Doble oportunidad: X2 | 63% | 52% | 57% | 1.83 | +5% |
+| Doble oportunidad: 12 | 68% | 71% | 69% | 1.33 | -8% |
+| Doble oportunidad: 1X | 69% | 77% | 73% | 1.22 | -11% |
+| Goles más/menos: Más de 2.5 | 29% | 39% | 34% | 2.40 | -19% |
+| Goles más/menos: Menos de 2.5 | 71% | 61% | 66% | 1.53 | +1% |
 | Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -8% |
 | Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
 | 1X2 descanso: X | 52% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: 1 | 26% | 35% | 31% | 2.60 | -20% |
+| 1X2 descanso: 1 | 26% | 35% | 30% | 2.62 | -20% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,20 +1,21 @@
 # Juventus U23 – Treviso
 **Serie C** · Girone A - 14 · 15/11/2026 17:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **2.90**  ·  X **3.20**  ·  2 **2.15**
+- **1X2:** 1 **2.90**  ·  X **3.25**  ·  2 **2.15**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.28**  ·  X2 **1.30**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **8.50**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **1.95** · menos **1.85**
-    - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **6.00** · menos **1.11**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.90** · menos **1.90**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
@@ -139,20 +140,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 55% | 41% | 48% | 2.15 | +4% |
-| 1X2: X | 28% | 28% | 28% | 3.20 | -10% |
-| 1X2: 1 | 16% | 31% | 24% | 2.90 | -32% |
+| 1X2: 2 | 55% | 42% | 48% | 2.15 | +4% |
+| 1X2: X | 28% | 28% | 28% | 3.25 | -9% |
+| 1X2: 1 | 16% | 31% | 24% | 2.90 | -31% |
 | Doble oportunidad: X2 | 84% | 70% | 77% | 1.30 | +0% |
 | Doble oportunidad: 12 | 72% | 71% | 71% | 1.28 | -8% |
 | Doble oportunidad: 1X | 45% | 58% | 52% | 1.57 | -19% |
 | Ambos marcan: No | 67% | 49% | 58% | 1.91 | +10% |
 | Ambos marcan: Sí | 33% | 51% | 42% | 1.80 | -24% |
-| Goles más/menos: Más de 1.5 | 58% | 72% | 65% | 1.30 | -16% |
-| Goles más/menos: Más de 2.5 | 30% | 49% | 40% | 1.95 | -23% |
-| Goles más/menos: Más de 3.5 | 13% | 28% | 20% | 3.40 | -31% |
-| Goles más/menos: Menos de 1.5 | 42% | 28% | 35% | 3.40 | +19% |
-| Goles más/menos: Menos de 2.5 | 70% | 51% | 60% | 1.85 | +12% |
-| Goles más/menos: Menos de 3.5 | 87% | 72% | 80% | 1.30 | +4% |
+| Goles más/menos: Más de 1.5 | 58% | 73% | 65% | 1.28 | -16% |
+| Goles más/menos: Más de 2.5 | 31% | 50% | 40% | 1.90 | -24% |
+| Goles más/menos: Más de 3.5 | 13% | 29% | 21% | 3.25 | -32% |
+| Goles más/menos: Menos de 1.5 | 42% | 27% | 35% | 3.50 | +21% |
+| Goles más/menos: Menos de 2.5 | 69% | 50% | 60% | 1.90 | +14% |
+| Goles más/menos: Menos de 3.5 | 87% | 71% | 79% | 1.33 | +5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 57% | 66% | 62% | 1.40 | -14% |
 | Goles 1ª parte más/menos: Más de 1.5 | 21% | 34% | 27% | 2.75 | -25% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 43% | 34% | 38% | 2.75 | +6% |

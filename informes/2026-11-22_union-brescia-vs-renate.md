@@ -1,7 +1,7 @@
 # Union Brescia – Renate
 **Serie C** · Girone A - 15 · 22/11/2026 12:30 (hora España) · Stadio Mario Rigamonti
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -95,6 +95,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,50 · visitante 0,96._
+_Goles esperados: local 2,50 · visitante 0,97._
 
 _Sin cuotas de Bet365 todavía para comparar._

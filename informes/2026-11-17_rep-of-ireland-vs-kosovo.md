@@ -1,25 +1,27 @@
 # Rep. Of Ireland – Kosovo
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Aviva Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **1.95**  ·  X **3.30**  ·  2 **4.10**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.33**  ·  X2 **1.91**
+- **1X2:** 1 **2.00**  ·  X **3.20**  ·  2 **4.00**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.33**  ·  X2 **1.80**
 - **Goles más/menos:**
     - 2,5: más **2.40** · menos **1.53**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.00** · menos **1.80**
-- **1X2 descanso:** 1 **2.62**  ·  X **2.00**  ·  2 **5.00**
+- **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.75**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.00**  ·  2 **4.75**
 - **Home Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
-- **Anytime Goal Scorer:** Dion Gallapeni **17.00**  ·  Edon Zhegrova **5.50**  ·  Adam Idah **3.50**  ·  Liam Scales **15.00**  ·  Jack Moylan **4.00**  ·  Troy Parrott **2.50**  ·  Finn Azaz **4.00**  ·  Jason Knight **7.50**  ·  Jayson Molumby **9.00**  ·  Ermal Krasniqi **6.00**  ·  Albion Rrahmani **4.00**  ·  Fisnik Asllani **4.50**  ·  Milot Rashica **6.50**  ·  Elvis Rexhbecaj **6.50**  ·  Ilir Krasniqi **15.00**  ·  Lindon Emerllahu **10.00**  ·  Kreshnik Hajrizi **21.00**  ·  Milot Avdyli **7.50**  ·  Veldin Hodza **10.00**  ·  Leon Avdullahu **11.00**  ·  Dion Kacuri **10.00**  ·  Ron Raci **17.00**  ·  Jimmy Dunne **15.00**  ·  Liam Kitching **10.00**  ·  John Egan **13.00**  ·  Rocco Vata **4.33**  ·  Conor Coventry **13.00**  ·  Vedat Muriqi **4.00**  ·  Mergim Vojvoda **11.00**  ·  Bleon Kurtulus **17.00**  ·  Lindrit Kamberi **21.00**  ·  Enis Redzepi **4.50**  ·  Nathan Collins **13.00**  ·  Chiedozie Ogbene **4.33**  ·  Dara O'Shea **13.00**  ·  Jake O'Brien **15.00**  ·  Baton Zabergja **6.00**  ·  Bosun Lawal **13.00**  ·  Ryan Manning **8.50**  ·  Thomas Cannon **3.50**  ·  James Abankwah **17.00**  ·  Harvey Vale **6.00**
-- **Player to Score or Assist:** Dion Gallapeni **5.50**  ·  Edon Zhegrova **3.40**  ·  Adam Idah **2.40**  ·  Liam Scales **6.00**  ·  Jack Moylan **2.50**  ·  Troy Parrott **2.05**  ·  Finn Azaz **2.30**  ·  Jason Knight **3.20**  ·  Jayson Molumby **3.75**  ·  Ermal Krasniqi **4.00**  ·  Albion Rrahmani **3.00**  ·  Fisnik Asllani **3.10**  ·  Milot Rashica **3.60**  ·  Elvis Rexhbecaj **4.50**  ·  Ilir Krasniqi **11.00**  ·  Lindon Emerllahu **7.00**  ·  Kreshnik Hajrizi **15.00**  ·  Milot Avdyli **4.75**  ·  Veldin Hodza **6.50**  ·  Leon Avdullahu **7.50**  ·  Dion Kacuri **7.00**  ·  Ron Raci **10.00**  ·  Jimmy Dunne **4.75**  ·  Liam Kitching **7.00**  ·  John Egan **8.50**  ·  Rocco Vata **2.50**  ·  Conor Coventry **6.00**  ·  Vedat Muriqi **3.00**  ·  Mergim Vojvoda **5.50**  ·  Bleon Kurtulus **12.00**  ·  Lindrit Kamberi **15.00**  ·  Nathan Collins **7.50**  ·  Chiedozie Ogbene **2.88**  ·  Dara O'Shea **8.00**  ·  Jake O'Brien **7.00**  ·  Baton Zabergja **3.40**  ·  Bosun Lawal **7.00**  ·  Ryan Manning **3.40**  ·  Thomas Cannon **2.40**  ·  James Abankwah **8.50**  ·  Harvey Vale **2.88**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **Anytime Goal Scorer:** Dion Gallapeni **17.00**  ·  Edon Zhegrova **5.00**  ·  Adam Idah **3.50**  ·  Liam Scales **15.00**  ·  Jack Moylan **4.00**  ·  Troy Parrott **2.50**  ·  Finn Azaz **4.00**  ·  Jason Knight **7.50**  ·  Jayson Molumby **9.00**  ·  Ermal Krasniqi **6.00**  ·  Albion Rrahmani **4.00**  ·  Fisnik Asllani **4.50**  ·  Milot Rashica **6.50**  ·  Elvis Rexhbecaj **6.50**  ·  Ilir Krasniqi **13.00**  ·  Lindon Emerllahu **10.00**  ·  Kreshnik Hajrizi **21.00**  ·  Milot Avdyli **7.50**  ·  Veldin Hodza **10.00**  ·  Leon Avdullahu **11.00**  ·  Dion Kacuri **10.00**  ·  Ron Raci **17.00**  ·  Jimmy Dunne **15.00**  ·  Liam Kitching **10.00**  ·  John Egan **13.00**  ·  Rocco Vata **4.33**  ·  Conor Coventry **13.00**  ·  Vedat Muriqi **4.00**  ·  Mergim Vojvoda **11.00**  ·  Bleon Kurtulus **17.00**  ·  Lindrit Kamberi **21.00**  ·  Enis Redzepi **4.33**  ·  Nathan Collins **13.00**  ·  Chiedozie Ogbene **4.33**  ·  Dara O'Shea **13.00**  ·  Jake O'Brien **15.00**  ·  Baton Zabergja **6.00**  ·  Bosun Lawal **13.00**  ·  Ryan Manning **9.00**  ·  Thomas Cannon **3.50**  ·  James Abankwah **17.00**  ·  Harvey Vale **6.00**
+- **Player to Score or Assist:** Dion Gallapeni **5.00**  ·  Edon Zhegrova **3.20**  ·  Adam Idah **2.50**  ·  Liam Scales **6.00**  ·  Jack Moylan **2.62**  ·  Troy Parrott **2.20**  ·  Finn Azaz **2.40**  ·  Jason Knight **3.25**  ·  Jayson Molumby **4.00**  ·  Ermal Krasniqi **3.60**  ·  Albion Rrahmani **2.88**  ·  Fisnik Asllani **3.00**  ·  Milot Rashica **3.25**  ·  Elvis Rexhbecaj **4.33**  ·  Ilir Krasniqi **9.50**  ·  Lindon Emerllahu **6.50**  ·  Kreshnik Hajrizi **13.00**  ·  Milot Avdyli **4.75**  ·  Veldin Hodza **6.00**  ·  Leon Avdullahu **6.50**  ·  Dion Kacuri **6.50**  ·  Ron Raci **10.00**  ·  Jimmy Dunne **5.00**  ·  Liam Kitching **8.00**  ·  John Egan **8.50**  ·  Rocco Vata **2.60**  ·  Conor Coventry **6.50**  ·  Vedat Muriqi **2.75**  ·  Mergim Vojvoda **5.00**  ·  Bleon Kurtulus **12.00**  ·  Lindrit Kamberi **12.00**  ·  Nathan Collins **8.00**  ·  Chiedozie Ogbene **3.00**  ·  Dara O'Shea **8.00**  ·  Jake O'Brien **7.00**  ·  Baton Zabergja **3.20**  ·  Bosun Lawal **7.00**  ·  Ryan Manning **3.60**  ·  Thomas Cannon **2.50**  ·  James Abankwah **8.50**  ·  Harvey Vale **3.00**
 
 ## Estadísticas de equipo
 | | Rep. Of Ireland (total) | Rep. Of Ireland en casa | Kosovo (total) | Kosovo fuera |
@@ -153,17 +155,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 23% | 29% | 4.10 | +17% |
-| 1X2: X | 31% | 29% | 30% | 3.30 | -2% |
-| 1X2: 1 | 35% | 48% | 42% | 1.95 | -19% |
-| Doble oportunidad: X2 | 65% | 50% | 57% | 1.91 | +10% |
-| Doble oportunidad: 12 | 69% | 72% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 66% | 78% | 72% | 1.22 | -12% |
+| 1X2: 2 | 34% | 24% | 29% | 4.00 | +15% |
+| 1X2: X | 31% | 29% | 30% | 3.20 | -4% |
+| 1X2: 1 | 35% | 47% | 41% | 2.00 | -18% |
+| Doble oportunidad: X2 | 65% | 53% | 59% | 1.80 | +6% |
+| Doble oportunidad: 12 | 69% | 71% | 70% | 1.33 | -6% |
+| Doble oportunidad: 1X | 66% | 76% | 71% | 1.25 | -11% |
 | Goles más/menos: Más de 2.5 | 33% | 39% | 36% | 2.40 | -14% |
 | Goles más/menos: Menos de 2.5 | 67% | 61% | 64% | 1.53 | -2% |
 | Córners más/menos: Más de 8.5 | 45% | 54% | 49% | 1.73 | -15% |
 | Córners más/menos: Menos de 8.5 | 55% | 46% | 51% | 2.00 | +1% |
-| 1X2 descanso: X | 50% | 46% | 48% | 2.00 | -4% |
-| 1X2 descanso: 1 | 25% | 35% | 30% | 2.62 | -21% |
+| 1X2 descanso: X | 50% | 47% | 48% | 2.00 | -3% |
+| 1X2 descanso: 1 | 25% | 34% | 30% | 2.75 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

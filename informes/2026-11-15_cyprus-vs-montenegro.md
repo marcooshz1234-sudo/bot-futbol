@@ -1,40 +1,40 @@
 # Cyprus – Montenegro
 **Nations League** · League C - 6 · 15/11/2026 15:00 (hora España) · Alphamega Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 08:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 13:59._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:12_
+_Actualizadas: 15/11 13:58_
 
-- **1X2:** 1 **3.30**  ·  X **3.25**  ·  2 **2.20**
-- **Doble oportunidad:** 1X **1.62**  ·  12 **1.33**  ·  X2 **1.33**
+- **1X2:** 1 **3.20**  ·  X **3.30**  ·  2 **2.25**
+- **Doble oportunidad:** 1X **1.57**  ·  12 **1.36**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **8.00**
     - 1,5: más **1.30** · menos **3.40**
     - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.40** · menos **1.30**
+    - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **6.50** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **1.40** · menos **2.75**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **7.00** · menos **1.08**
+    - 2,5: más **6.50** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **4.50** · menos **1.17**
     - 3,5: más **9.00** · menos **1.04**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **2.75**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **2.00**  ·  2 **1.67**
 - **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.50**
@@ -178,36 +178,36 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 46% | 43% | 44% | 2.20 | -2% |
-| 1X2: X | 23% | 29% | 26% | 3.25 | -15% |
-| 1X2: 1 | 31% | 28% | 30% | 3.30 | -2% |
+| 1X2: 2 | 46% | 42% | 44% | 2.25 | -1% |
+| 1X2: X | 23% | 29% | 26% | 3.30 | -15% |
+| 1X2: 1 | 31% | 29% | 30% | 3.20 | -4% |
 | Doble oportunidad: X2 | 69% | 71% | 70% | 1.33 | -7% |
-| Doble oportunidad: 12 | 77% | 71% | 74% | 1.33 | -2% |
-| Doble oportunidad: 1X | 54% | 58% | 56% | 1.62 | -9% |
+| Doble oportunidad: 12 | 77% | 69% | 73% | 1.36 | -1% |
+| Doble oportunidad: 1X | 54% | 60% | 57% | 1.57 | -11% |
 | Ambos marcan: No | 38% | 49% | 43% | 1.91 | -18% |
 | Ambos marcan: Sí | 62% | 51% | 57% | 1.80 | +2% |
 | Goles más/menos: Más de 1.5 | 82% | 72% | 77% | 1.30 | +1% |
 | Goles más/menos: Más de 2.5 | 61% | 47% | 54% | 2.00 | +8% |
-| Goles más/menos: Más de 3.5 | 39% | 28% | 33% | 3.40 | +13% |
+| Goles más/menos: Más de 3.5 | 39% | 27% | 33% | 3.50 | +15% |
 | Goles más/menos: Menos de 1.5 | 18% | 28% | 23% | 3.40 | -23% |
 | Goles más/menos: Menos de 2.5 | 39% | 53% | 46% | 1.80 | -18% |
-| Goles más/menos: Menos de 3.5 | 61% | 72% | 67% | 1.30 | -13% |
+| Goles más/menos: Menos de 3.5 | 61% | 73% | 67% | 1.28 | -14% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 66% | 70% | 1.40 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 34% | 37% | 2.75 | +1% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 34% | 30% | 2.75 | -19% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 66% | 63% | 1.40 | -12% |
-| Goles del local: Más de 0.5 | 75% | 66% | 71% | 1.40 | -1% |
+| Goles del local: Más de 0.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles del local: Más de 1.5 | 41% | 34% | 37% | 2.75 | +2% |
-| Goles del local: Menos de 0.5 | 25% | 34% | 29% | 2.75 | -20% |
+| Goles del local: Menos de 0.5 | 25% | 31% | 28% | 3.00 | -16% |
 | Goles del local: Menos de 1.5 | 59% | 66% | 63% | 1.40 | -12% |
 | Goles del visitante: Más de 0.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del visitante: Más de 1.5 | 52% | 42% | 47% | 2.20 | +4% |
+| Goles del visitante: Más de 1.5 | 53% | 42% | 47% | 2.20 | +4% |
 | Goles del visitante: Más de 2.5 | 26% | 21% | 23% | 4.50 | +5% |
 | Goles del visitante: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -21% |
-| Goles del visitante: Menos de 1.5 | 48% | 58% | 53% | 1.62 | -15% |
+| Goles del visitante: Menos de 1.5 | 47% | 58% | 53% | 1.62 | -15% |
 | Goles del visitante: Menos de 2.5 | 74% | 79% | 77% | 1.17 | -10% |
-| 1X2 descanso: 2 | 35% | 33% | 34% | 2.75 | -6% |
-| 1X2 descanso: X | 39% | 43% | 41% | 2.10 | -15% |
-| 1X2 descanso: 1 | 26% | 25% | 25% | 3.60 | -9% |
+| 1X2 descanso: 2 | 35% | 32% | 34% | 2.88 | -4% |
+| 1X2 descanso: X | 39% | 43% | 41% | 2.10 | -14% |
+| 1X2 descanso: 1 | 26% | 25% | 26% | 3.60 | -8% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
