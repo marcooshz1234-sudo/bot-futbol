@@ -2542,5 +2542,27 @@
    "cuota_bet365": 1.17,
    "prob_cuota": 0.826
   }
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/86879",
+  "dia": "2026-11-15",
+  "local": "Eibar",
+  "visitante": "Cadiz",
+  "partido_id": 1570016,
+  "texto": "Gana el Eibar",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.53,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Segunda División",
+   "cuota_bet365": 1.5,
+   "prob_cuota": 0.654,
+   "prob_pinnacle": 0.591,
+   "valor_pinnacle": -0.096
+  }
  }
 ]

@@ -148,11 +148,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "AllSportsPicks ⚽🏀🎾": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 16,
+   "n": 17,
    "verdes": 10,
    "rojos": 3,
    "nulos": 0,
@@ -704,11 +711,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Eibar": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 61,
+   "n": 62,
    "verdes": 32,
    "rojos": 6,
    "nulos": 0,
@@ -782,7 +796,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 32,
+   "n": 33,
    "verdes": 17,
    "rojos": 9,
    "nulos": 0,
@@ -863,7 +877,7 @@
    "prob_cuota": 3.05
   },
   "Segunda División": {
-   "n": 3,
+   "n": 4,
    "verdes": 3,
    "rojos": 0,
    "nulos": 0,
@@ -883,7 +897,7 @@
    "prob_cuota": 12.197
   },
   "local": {
-   "n": 29,
+   "n": 30,
    "verdes": 15,
    "rojos": 7,
    "nulos": 0,
@@ -912,7 +926,7 @@
    "prob_cuota": 21.662
   },
   "—": {
-   "n": 31,
+   "n": 32,
    "verdes": 9,
    "rojos": 8,
    "nulos": 0,
@@ -985,6 +999,15 @@
    "resueltos_con_cuota": 52,
    "prob_cuota": 35.394
   },
+  "sin valor": {
+   "n": 2,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.75,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.571
+  },
   "con valor": {
    "n": 2,
    "verdes": 2,
@@ -993,15 +1016,6 @@
    "unidades": 0.83,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.546
-  },
-  "sin valor": {
-   "n": 1,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.75,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.571
   }
  }
 }
