@@ -7109,7 +7109,8 @@
       "instagram_reel": null,
       "threads": "18009362894789543",
       "instagram": "18115792271613398",
-      "instagram_story": "17905214151603815"
+      "instagram_story": "17905214151603815",
+      "threads_enlace": "18653749537053884"
     }
   },
   {
@@ -7168,6 +7169,11 @@
     "origen": "bot",
     "directo": true,
     "facebook": "texto",
-    "sin_instagram": true
+    "sin_instagram": true,
+    "enviado": "2026-11-15T23:18",
+    "mensaje_id": 493,
+    "redes": {
+      "threads": "18137527372672594"
+    }
   }
 ]
