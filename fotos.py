@@ -411,10 +411,20 @@ def _cajas(datos):
                 for a, b in datos) + "</div>")
 
 
+def sin_partido(t):
+    """Quita el «en Local–Visitante» del final. 15/11: antes cortaba en el primer «de» («Más de 8 córners en
+    Francia–Turquía» → «Más»); ahora en el ÚLTIMO «en/de/del» que va seguido del partido."""
+    for m in reversed(list(re.finditer(r"\s(?:en|del?)\s", t))):
+        resto = t[m.end():]
+        if re.search(r"[–-]", resto) and not re.search(r"\d", resto):
+            return t[:m.start()].strip() or t
+    return t
+
+
 def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350, lema=None):
     """Acierto de UN partido: escudos, marcador final, el pick con su cuota y el sello ✓ ACERTADO (Verde B + sello C)."""
     # 11/11: los escudos ya dicen el partido → fuera el «en Local–Visitante» del texto del pick
-    pk = re.sub(r"\s+(?:en|del?)\s+[^–-]+\s*[–-]\s*.+$", "", pata.get("texto", "")).strip() or pata.get("texto", "")
+    pk = sin_partido(pata.get("texto", ""))
     pk = mayus(pk)
     fin = _marcador(pata) or _marcador(t)
     centro = (f'<div style="display:flex;flex-direction:column;align-items:center;gap:10px">'
