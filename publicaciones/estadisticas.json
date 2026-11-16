@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 10:24",
+ "actualizado": "2026-11-16 10:34",
  "redes": {
   "instagram": {
    "seguidores": 42,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2860,
-   "hoy": 68,
+   "seguidores": 2863,
+   "hoy": 71,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2860
+    2863
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 423,
-   "hoy": 12,
+   "seguidores": 425,
+   "hoy": 14,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    423
+    425
    ]
   }
  },
- "total": 3326,
- "total_hoy": 81,
+ "total": 3331,
+ "total_hoy": 86,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-16",
-  "titulo": "Pick del día"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 42,
-   "threads": 2860,
+   "threads": 2863,
    "facebook": 1,
-   "telegram": 423
+   "telegram": 425
   }
  },
  "tipos_instagram": {
