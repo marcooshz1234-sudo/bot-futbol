@@ -299,12 +299,20 @@ def tipos(combis):
 
 # ------------------------------------------------------------ main
 
+def es_suya(c):
+    """Una combi que pasó Marcos (captura/vídeo/notas de su bet365), no una que propuso Claude o el bot."""
+    return str(c.get("origen") or "").strip().lower().startswith("marcos")
+
+
 def main(ahora, conf, directo, conocidos, partidos, dias, ayer, hoy, manana):
     """conf es el Confirmador de app_datos (el mismo para que no se pisen el estado guardado en confirmar.json)."""
     antes = leer(SALIDA, {}) or {}
     prev, lams = dict(antes.get("previas") or {}), dict(antes.get("lambdas") or {})
-    guardadas = [c for c in leer(ENTRADA, []) or [] if c.get("sel") and c.get("cuotas") and len(c["sel"]) == len(c["cuotas"])]
-    for c in leer(ENTRADA, []) or []:
+    # 16/11 (Marcos: «quiero que ahí solo se vean las que yo te paso»): en la app y el widget, solo SUS combis
+    # (las de sus capturas de bet365, origen «Marcos …»); las que propone Claude o el bot no salen
+    suyas = [c for c in leer(ENTRADA, []) or [] if es_suya(c)]
+    guardadas = [c for c in suyas if c.get("sel") and c.get("cuotas") and len(c["sel"]) == len(c["cuotas"])]
+    for c in suyas:
         if c not in guardadas:
             print("mis combis: sin sel/cuotas:", c.get("id"))
     # la previa solo de lo que aún no ha empezado (lo de días cerrados no hace falta)

@@ -28,7 +28,7 @@ class MisDatosTest(unittest.TestCase):
 
     def test_combi_con_sus_patas_y_sin_dinero(self):
         d = self.generar([{"id": "c1", "fecha": "2026-11-01T16:00", "titulo": "Local – Visitante", "cuota": 3.0,
-                           "sel": ["7|Match Winner|Home", "7|Goals Over/Under|Over 3.5"], "cuotas": [1.5, 2.0]}])
+                           "origen": "Marcos", "sel": ["7|Match Winner|Home", "7|Goals Over/Under|Over 3.5"], "cuotas": [1.5, 2.0]}])
         c = d["combis"][0]
         self.assertEqual([p["estado"] for p in c["picks"]], ["verde", "rojo"])
         self.assertEqual(c["estado"], "rojo")
@@ -39,15 +39,15 @@ class MisDatosTest(unittest.TestCase):
     def test_combis_viejas_no_pasan_por_confirmar(self):
         conf = MagicMock()
         conf.pata.side_effect = lambda f: f
-        self.generar([{"id": "vieja", "fecha": "2026-10-20T16:00", "sel": ["7|Match Winner|Home"], "cuotas": [1.5]},
-                      {"id": "hoy", "fecha": "2026-11-01T16:00", "sel": ["7|Match Winner|Home"], "cuotas": [1.5]}], conf)
+        self.generar([{"id": "vieja", "fecha": "2026-10-20T16:00", "origen": "Marcos", "sel": ["7|Match Winner|Home"], "cuotas": [1.5]},
+                      {"id": "hoy", "fecha": "2026-11-01T16:00", "origen": "Marcos", "sel": ["7|Match Winner|Home"], "cuotas": [1.5]}], conf)
         self.assertEqual(conf.pata.call_count, 1)
 
     def test_combi_sin_sel_se_salta_y_picks_del_bot(self):
         dias = {"2026-11-01": {"picks": [{"partido_id": 7, "fecha": "2026-11-01T16:00", "partido": "Local – Visitante",
                                           "texto": "Gana el Local", "cuota": 1.5, "frecuencia": 80, "pct_real": None,
                                           "estado": "verde"}]}}
-        d = self.generar([{"id": "mal", "fecha": "2026-11-01T16:00", "sel": ["7|Match Winner|Home"], "cuotas": []}], dias=dias)
+        d = self.generar([{"id": "mal", "fecha": "2026-11-01T16:00", "origen": "Marcos", "sel": ["7|Match Winner|Home"], "cuotas": []}], dias=dias)
         self.assertEqual(d["combis"], [])
         self.assertEqual(d["picks"][0]["pct"], 80)
 
@@ -137,3 +137,11 @@ class TiposTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SoloLasSuyas16Nov(unittest.TestCase):   # 16/11 (Marcos): en la app y el widget, solo las que él pasa
+    def test_es_suya(self):
+        import mis_datos as M
+        self.assertTrue(M.es_suya({"origen": "Marcos (Notas, bet365 16/11)"}))
+        self.assertFalse(M.es_suya({"origen": "Claude (pedida por Marcos el 01/11 09:17)"}))
+        self.assertFalse(M.es_suya({}))
