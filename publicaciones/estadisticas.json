@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 12:47",
+ "actualizado": "2026-11-16 13:42",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2884,
-   "hoy": 92,
+   "seguidores": 2900,
+   "hoy": 108,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2884
+    2900
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 426,
-   "hoy": 15,
+   "seguidores": 427,
+   "hoy": 16,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    426
+    427
    ]
   }
  },
- "total": 3354,
- "total_hoy": 109,
+ "total": 3371,
+ "total_hoy": 126,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "13:00",
+  "hora": "14:00",
   "dia": "2026-11-16",
-  "titulo": "Reto de 1 a 721"
+  "titulo": "Combi de tiros · albacete vs celta de "
  },
  "ayer": {
   "aciertos": 2,
@@ -216,20 +216,20 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2884,
+   "threads": 2900,
    "facebook": 1,
-   "telegram": 426
+   "telegram": 427
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 47,
+   "likes_media": 0.1,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 4,
    "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 46,
-   "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Otros": {
@@ -245,11 +245,6 @@
   "Combi loca (reel)": {
    "posts": 2,
    "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera": {
-   "posts": 1,
-   "likes_media": 1.0,
    "comentarios_media": 0.0
   }
  }

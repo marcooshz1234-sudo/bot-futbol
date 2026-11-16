@@ -7424,7 +7424,8 @@
       "telegram"
     ],
     "nota": "copiado a mano por Claude (Tipster Pérez, favorito de Marcos, 16/11 12:32, solo en foto) · Marcos: «me lo enseñas primero» → en espera · 13:43 Marcos: «vale, perfecto» → sale",
-    "caducada": "mercado prohibido en nuestros picks: Total ShotOnGoal Over 9.5"
+    "caducada": "mercado prohibido en nuestros picks: Total ShotOnGoal Over 9.5",
+    "requiere_ok": true
   },
   {
     "id": "2026-11-16-pick-tip-5",
@@ -7437,7 +7438,16 @@
     "tipster_bueno": false,
     "sel": [],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-16-pick-tip-5.tg.jpg",
+    "enviado": "2026-11-16T13:43",
+    "mensaje_id": 502,
+    "redes": {
+      "threads": "18120931844010149"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   },
   {
     "id": "2026-11-16-pick-tip-6",
@@ -7450,6 +7460,15 @@
     "tipster_bueno": false,
     "sel": [],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-16-pick-tip-6.tg.jpg",
+    "enviado": "2026-11-16T13:43",
+    "mensaje_id": 503,
+    "redes": {
+      "threads": "18028692644917496"
+    },
+    "errores_redes": {
+      "instagram": "falta la imagen/vídeo en publicaciones/media"
+    }
   }
 ]

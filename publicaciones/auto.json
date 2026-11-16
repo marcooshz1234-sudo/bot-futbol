@@ -5418,13 +5418,13 @@
       "1545618|Corners 1x2|Away"
     ],
     "cuotas": [
-      1.57,
+      1.5,
       1.83,
       1.67,
-      1.57,
+      1.62,
       1.4,
       1.8,
-      1.44
+      1.4
     ],
     "solo_en": [
       "threads"
@@ -5435,7 +5435,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T13:39"
   },
   {
     "id": "2026-11-16-loca-th-1500-duelo",
