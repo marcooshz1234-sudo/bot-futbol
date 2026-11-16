@@ -1,10 +1,10 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 08:09_
+_Actualizadas: 16/11 09:52_
 
 - **1X2:** 1 **2.75**  ·  X **3.40**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.30**  ·  X2 **1.40**
@@ -29,6 +29,9 @@ _Actualizadas: 15/11 08:09_
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 10,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.80**  ·  X **8.50**  ·  2 **2.38**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.25**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -42,6 +45,11 @@ _Actualizadas: 15/11 08:09_
 - **Win Both Halves:** 1 **10.00**  ·  2 **8.00**
 - **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **12.00**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.91** · menos **1.80**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.80** · menos **1.91**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
 - **Home Player Shots On Target Total:** Atsuki Ito - 1 **2.25**  ·  Atsuki Ito - 2 **9.00**  ·  Ryan Hardie - 1 **1.44**  ·  Sam Dalby - 1 **1.50**  ·  John McAtee - 1 **1.50**  ·  Ruben Rodrigues - 1 **1.73**  ·  Thierry Gale - 1 **1.73**  ·  Kyliane Dong - 1 **1.83**  ·  Gaizka Larrazabal - 1 **3.00**  ·  Josh Sheehan - 1 **2.25**  ·  David Watson - 1 **2.25**  ·  Samuel Iling-Junior - 1 **1.73**  ·  Xavier Simons - 1 **2.25**  ·  Luca Stephenson - 1 **2.62**  ·  Chris Forino - 1 **3.50**  ·  Eoin Toal - 1 **3.50**  ·  Akin Famewo - 1 **3.75**  ·  Ethan Erhahon - 1 **4.33**  ·  Lewis Brunt - 1 **4.33**  ·  Maxwell Conway - 1 **5.50**  ·  Ben Davies - 1 **5.50**  ·  Ryan Hardie - 2 **3.25**  ·  Sam Dalby - 2 **3.50**  ·  John McAtee - 2 **3.50**  ·  Ruben Rodrigues - 2 **4.50**  ·  Thierry Gale - 2 **4.50**  ·  Kyliane Dong - 2 **5.50**  ·  Gaizka Larrazabal - 2 **13.00**  ·  Josh Sheehan - 2 **9.00**  ·  David Watson - 2 **9.00**  ·  Samuel Iling-Junior - 2 **4.50**  ·  Xavier Simons - 2 **9.00**  ·  Luca Stephenson - 2 **11.00**  ·  Chris Forino - 2 **19.00**  ·  Eoin Toal - 2 **19.00**  ·  Akin Famewo - 2 **21.00**  ·  Ethan Erhahon - 2 **21.00**  ·  Lewis Brunt - 2 **21.00**  ·  Ryan Hardie - 3 **9.00**  ·  Sam Dalby - 3 **10.00**  ·  John McAtee - 3 **10.00**  ·  Ruben Rodrigues - 3 **15.00**  ·  Thierry Gale - 3 **15.00**  ·  Kyliane Dong - 3 **19.00**  ·  Samuel Iling-Junior - 3 **15.00**  ·  Ryan Hardie - 4 **21.00**  ·  Theo Bair - 1 **1.50**  ·  Theo Bair - 2 **3.50**  ·  Theo Bair - 3 **10.00**  ·  Jayden Nelson - 1 **1.57**  ·  Jayden Nelson - 2 **3.75**  ·  Jayden Nelson - 3 **13.00**  ·  Max Lott - 1 **2.75**  ·  Max Lott - 2 **13.00**
 - **Away Player Shots On Target Total:** Marko Milovanovic **6.50**  ·  Josh Sheehan **51.00**  ·  Rocco Robert Shein **41.00**  ·  Eoin Toal **19.00**  ·  Odin Bailey **51.00**  ·  Maxwell Conway **126.00**  ·  Keshi Anderson **21.00**  ·  Ethan Erhahon **101.00**  ·  John Swift **41.00**  ·  Ruben Rodrigues **15.00**  ·  Harvey Blair **41.00**  ·  Josh Murphy **34.00**  ·  Terry Devlin **41.00**  ·  Marlon Pack **34.00**  ·  Regan Poole **29.00**  ·  Conor Shaughnessy **21.00**  ·  Zak Swanson **19.00**  ·  Theo Bair **15.00**  ·  Ryan Hardie **26.00**  ·  Ebou Adams **23.00**  ·  Akin Famewo **19.00**  ·  Abu Kamara **34.00**  ·  Xavier Simons **26.00**  ·  Ryan Kavuma-McQueen **29.00**  ·  John McAtee **21.00**  ·  Lewis Brunt **34.00**  ·  Atsuki Ito **13.00**  ·  Chris Forino **17.00**  ·  Sam Dalby **9.00**  ·  Luca Stephenson **17.00**  ·  Jayden Nelson **67.00**  ·  Madiodio Dia **26.00**  ·  David Watson **29.00**  ·  Tyrese Shade **29.00**  ·  Thomas Waddingham **15.00**  ·  Eoin Kenny **15.00**  ·  Adrian Segecic **19.00**  ·  Gaizka Larrazabal **67.00**  ·  Thierry Gale **34.00**  ·  Max Lott **34.00**  ·  Ben Davies **26.00**  ·  Colby Bishop **8.50**  ·  Samuel Iling-Junior **34.00**  ·  Jayden Meghoma **26.00**  ·  Franco Umeh **21.00**  ·  Kyliane Dong **26.00**  ·  Iyad Mohamed **29.00**
 - **Home Player Shots:** Atsuki Ito - 1 **1.25**  ·  Atsuki Ito - 2 **2.10**  ·  Atsuki Ito - 3 **4.33**  ·  Atsuki Ito - 4 **10.00**  ·  Ryan Hardie - 1 **1.05**  ·  Sam Dalby - 1 **1.06**  ·  John McAtee - 1 **1.06**  ·  Ruben Rodrigues - 1 **1.11**  ·  Thierry Gale - 1 **1.11**  ·  Kyliane Dong - 1 **1.14**  ·  Gaizka Larrazabal - 1 **1.44**  ·  Josh Sheehan - 1 **1.25**  ·  David Watson - 1 **1.25**  ·  Samuel Iling-Junior - 1 **1.11**  ·  Xavier Simons - 1 **1.17**  ·  Luca Stephenson - 1 **1.40**  ·  Chris Forino - 1 **1.73**  ·  Eoin Toal - 1 **1.73**  ·  Akin Famewo - 1 **1.83**  ·  Ethan Erhahon - 1 **2.00**  ·  Lewis Brunt - 1 **2.00**  ·  Maxwell Conway - 1 **2.38**  ·  Ben Davies - 1 **2.38**  ·  Ryan Hardie - 2 **1.25**  ·  Sam Dalby - 2 **1.33**  ·  John McAtee - 2 **1.33**  ·  Ruben Rodrigues - 2 **1.53**  ·  Thierry Gale - 2 **1.53**  ·  Kyliane Dong - 2 **1.62**  ·  Gaizka Larrazabal - 2 **3.00**  ·  Josh Sheehan - 2 **2.10**  ·  David Watson - 2 **2.10**  ·  Samuel Iling-Junior - 2 **1.53**  ·  Xavier Simons - 2 **1.73**  ·  Luca Stephenson - 2 **2.62**  ·  Chris Forino - 2 **4.33**  ·  Eoin Toal - 2 **4.33**  ·  Akin Famewo - 2 **5.00**  ·  Ethan Erhahon - 2 **5.50**  ·  Lewis Brunt - 2 **5.50**  ·  Maxwell Conway - 2 **8.00**  ·  Ben Davies - 2 **8.00**  ·  Ryan Hardie - 3 **1.73**  ·  Sam Dalby - 3 **1.91**  ·  John McAtee - 3 **1.91**  ·  Ruben Rodrigues - 3 **2.50**  ·  Thierry Gale - 3 **2.50**  ·  Kyliane Dong - 3 **2.75**  ·  Gaizka Larrazabal - 3 **7.00**  ·  Josh Sheehan - 3 **4.33**  ·  David Watson - 3 **4.33**  ·  Samuel Iling-Junior - 3 **2.50**  ·  Xavier Simons - 3 **3.25**  ·  Luca Stephenson - 3 **6.00**  ·  Chris Forino - 3 **13.00**  ·  Eoin Toal - 3 **13.00**  ·  Akin Famewo - 3 **15.00**  ·  Ethan Erhahon - 3 **17.00**  ·  Lewis Brunt - 3 **17.00**  ·  Maxwell Conway - 3 **21.00**  ·  Ben Davies - 3 **21.00**  ·  Ryan Hardie - 4 **2.75**  ·  Sam Dalby - 4 **3.25**  ·  John McAtee - 4 **3.25**  ·  Ruben Rodrigues - 4 **4.50**  ·  Thierry Gale - 4 **4.50**  ·  Kyliane Dong - 4 **5.50**  ·  Gaizka Larrazabal - 4 **19.00**  ·  Josh Sheehan - 4 **10.00**  ·  David Watson - 4 **10.00**  ·  Samuel Iling-Junior - 4 **4.50**  ·  Xavier Simons - 4 **6.50**  ·  Luca Stephenson - 4 **15.00**  ·  Ryan Hardie - 5 **5.00**  ·  Sam Dalby - 5 **6.00**  ·  John McAtee - 5 **6.00**  ·  Ruben Rodrigues - 5 **10.00**  ·  Thierry Gale - 5 **10.00**  ·  Kyliane Dong - 5 **13.00**  ·  Josh Sheehan - 5 **21.00**  ·  Ryan Hardie - 6 **10.00**  ·  Sam Dalby - 6 **11.00**  ·  John McAtee - 6 **11.00**  ·  Ruben Rodrigues - 6 **21.00**  ·  Thierry Gale - 6 **21.00**  ·  Kyliane Dong - 6 **21.00**  ·  Ryan Hardie - 7 **19.00**  ·  Sam Dalby - 7 **21.00**  ·  John McAtee - 7 **21.00**  ·  Theo Bair - 1 **1.06**  ·  Theo Bair - 2 **1.33**  ·  Theo Bair - 3 **1.91**  ·  Theo Bair - 4 **3.25**  ·  Theo Bair - 5 **6.00**  ·  Theo Bair - 6 **11.00**  ·  Theo Bair - 7 **21.00**  ·  Jayden Nelson - 1 **1.08**  ·  Jayden Nelson - 2 **1.40**  ·  Jayden Nelson - 3 **2.10**  ·  Jayden Nelson - 4 **3.75**  ·  Jayden Nelson - 5 **7.00**  ·  Jayden Nelson - 6 **15.00**  ·  Samuel Iling-Junior - 5 **10.00**  ·  David Watson - 5 **21.00**  ·  Xavier Simons - 5 **13.00**  ·  Atsuki Ito - 5 **21.00**  ·  Jayden Nelson - 7 **21.00**  ·  Samuel Iling-Junior - 6 **21.00**  ·  Xavier Simons - 6 **21.00**  ·  Max Lott - 1 **1.44**  ·  Max Lott - 2 **3.00**  ·  Max Lott - 3 **7.00**  ·  Max Lott - 4 **19.00**
@@ -214,6 +222,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles del visitante: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
+| Córners más/menos: Más de 10.5 | 39% | 49% | 44% | 1.91 | -17% |
+| Córners más/menos: Menos de 10.5 | 61% | 51% | 56% | 1.80 | +1% |
 | 1X2 descanso: 2 | 31% | 31% | 31% | 3.00 | -7% |
 | 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
 | 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |

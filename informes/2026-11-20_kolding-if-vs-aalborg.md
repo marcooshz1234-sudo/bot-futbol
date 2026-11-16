@@ -1,10 +1,10 @@
 # Kolding IF – Aalborg
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Autocentralen Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 08:08_
+_Actualizadas: 16/11 09:51_
 
 - **1X2:** 1 **2.70**  ·  X **3.40**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.40**

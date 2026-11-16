@@ -1,7 +1,7 @@
 # Parma – AS Roma
 **Serie A** · Regular Season - 12 · 21/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_

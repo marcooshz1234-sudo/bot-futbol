@@ -1,10 +1,56 @@
 # Paris FC W – Køge W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Stade Charlety
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 09:51_
+
+- **1X2:** 1 **1.80**  ·  X **4.00**  ·  2 **3.75**
+- **Doble oportunidad:** 1X **1.22**  ·  12 **1.18**  ·  X2 **1.91**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **9.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **6.50** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.40**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.50**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.44**  ·  2 **2.20**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **4.00**
+- **Win Both Halves:** 1 **5.00**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **3.75**  ·  Draw/No **19.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.25**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.62** · menos **2.20**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 
 ## Estadísticas de equipo
 | | Paris FC W (total) | Paris FC W en casa | Køge W (total) | Køge W fuera |

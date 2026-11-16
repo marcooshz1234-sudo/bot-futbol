@@ -1,10 +1,57 @@
 # Austria Wien W – Bayern Munich W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Generali Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 09:51_
+
+- **1X2:** 1 **11.00**  ·  X **8.00**  ·  2 **1.17**
+- **Doble oportunidad:** 1X **4.00**  ·  12 **1.06**  ·  X2 **1.03**
+- **Ambos marcan:** Sí **2.38**  ·  No **1.53**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **8.50** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **2.10** · menos **1.67**
+    - 1,5: más **6.50** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.90** · menos **1.90**
+- **Córners 1X2:** 1 **6.50**  ·  X **11.00**  ·  2 **1.14**
+- **1X2 descanso:** 1 **11.00**  ·  X **2.88**  ·  2 **1.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **5.50**  ·  2 **1.11**
+- **To Score In Both Halves By Teams:** 1 **13.00**  ·  2 **1.73**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.25**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **3.20**  ·  Home/No **19.00**  ·  Draw/No **19.00**  ·  Away/No **1.73**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **2.88**
+- **Home Corners Over/Under:**
+    - 2,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 6,5: más **1.91** · menos **1.80**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 
 ## Estadísticas de equipo
 | | Austria Wien W (total) | Austria Wien W en casa | Bayern Munich W (total) | Bayern Munich W fuera |

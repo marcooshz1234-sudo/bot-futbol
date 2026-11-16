@@ -1,10 +1,55 @@
 # SL Benfica W – Roma W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Caixa Futebol Campus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 09:51_
+
+- **1X2:** 1 **1.85**  ·  X **4.00**  ·  2 **3.50**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.18**  ·  X2 **1.83**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **4.50**
+    - 2,5: más **1.53** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.14** · menos **5.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **6.50** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **5.50** · menos **1.12**
+- **Córners más/menos:**
+    - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.75**
+- **1X2 descanso:** 1 **2.30**  ·  X **2.40**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.44**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **4.00**
+- **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **5.00**  ·  Away/Yes **5.50**  ·  Home/No **3.75**  ·  Draw/No **17.00**  ·  Away/No **7.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.10**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**
 
 ## Estadísticas de equipo
 | | SL Benfica W (total) | SL Benfica W en casa | Roma W (total) | Roma W fuera |

@@ -1,30 +1,29 @@
 # Iceland – Luxembourg
 **Nations League** · League C - 6 · 16/11/2026 18:00 (hora España) · Ice Rink Laugardalur
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:30_
+_Actualizadas: 16/11 09:51_
 
-- **1X2:** 1 **1.27**  ·  X **5.25**  ·  2 **11.00**
-- **Doble oportunidad:** 1X **1.02**  ·  12 **1.14**  ·  X2 **3.75**
+- **1X2:** 1 **1.22**  ·  X **6.00**  ·  2 **11.00**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.12**  ·  X2 **3.75**
 - **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **9.00**
-    - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.70** · menos **2.10**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **4.50** · menos **1.17**
-    - 5,5: más **8.50** · menos **1.05**
+    - 5,5: más **8.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **5.50** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.08** · menos **7.00**
+    - 0,5: más **1.07** · menos **7.50**
     - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.33** · menos **1.20**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **7.50** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **2.10** · menos **1.67**
@@ -36,14 +35,14 @@ _Actualizadas: 16/11 02:30_
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
 - **To Win Either Half:** 1 **1.17**  ·  2 **4.50**
 - **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **13.00**
-- **Win Both Halves:** 1 **2.75**  ·  2 **51.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **7.50**  ·  Away/Yes **21.00**  ·  Home/No **1.83**  ·  Draw/No **12.00**  ·  Away/No **17.00**
+- **Win Both Halves:** 1 **2.62**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **7.50**  ·  Away/Yes **21.00**  ·  Home/No **1.83**  ·  Draw/No **13.00**  ·  Away/No **17.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.50**
 - **Home Corners Over/Under:**
     - 6,5: más **2.10** · menos **1.67**
@@ -186,20 +185,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 4% | 9% | 6% | 11.00 | -33% |
-| 1X2: X | 11% | 18% | 14% | 5.25 | -25% |
-| 1X2: 1 | 86% | 74% | 80% | 1.27 | +1% |
+| 1X2: 2 | 4% | 8% | 6% | 11.00 | -33% |
+| 1X2: X | 11% | 15% | 13% | 6.00 | -21% |
+| 1X2: 1 | 86% | 76% | 81% | 1.22 | -1% |
 | Doble oportunidad: X2 | 14% | 25% | 20% | 3.75 | -26% |
-| Doble oportunidad: 12 | 89% | 83% | 86% | 1.14 | -2% |
-| Doble oportunidad: 1X | 96% | 92% | 94% | 1.02 | -4% |
+| Doble oportunidad: 12 | 89% | 84% | 87% | 1.12 | -3% |
+| Doble oportunidad: 1X | 96% | 91% | 94% | 1.03 | -3% |
 | Ambos marcan: No | 67% | 59% | 63% | 1.57 | -1% |
 | Ambos marcan: Sí | 33% | 41% | 37% | 2.25 | -17% |
-| Goles más/menos: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 62% | 55% | 59% | 1.70 | -1% |
+| Goles más/menos: Más de 1.5 | 83% | 78% | 81% | 1.20 | -3% |
+| Goles más/menos: Más de 2.5 | 62% | 56% | 59% | 1.67 | -1% |
 | Goles más/menos: Más de 3.5 | 39% | 35% | 37% | 2.62 | -2% |
 | Goles más/menos: Más de 4.5 | 22% | 21% | 21% | 4.50 | -5% |
-| Goles más/menos: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles más/menos: Menos de 2.5 | 38% | 45% | 41% | 2.10 | -13% |
+| Goles más/menos: Menos de 1.5 | 17% | 22% | 19% | 4.33 | -16% |
+| Goles más/menos: Menos de 2.5 | 38% | 44% | 41% | 2.15 | -12% |
 | Goles más/menos: Menos de 3.5 | 61% | 65% | 63% | 1.44 | -10% |
 | Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.17 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
@@ -207,11 +206,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
 | Goles del local: Más de 1.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del local: Más de 2.5 | 52% | 41% | 47% | 2.25 | +5% |
-| Goles del local: Más de 3.5 | 30% | 22% | 26% | 4.33 | +12% |
+| Goles del local: Más de 2.5 | 52% | 42% | 47% | 2.20 | +4% |
+| Goles del local: Más de 3.5 | 30% | 23% | 27% | 4.00 | +6% |
 | Goles del local: Menos de 1.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del local: Menos de 2.5 | 48% | 59% | 53% | 1.57 | -16% |
-| Goles del local: Menos de 3.5 | 70% | 78% | 74% | 1.20 | -11% |
+| Goles del local: Menos de 2.5 | 48% | 58% | 53% | 1.62 | -14% |
+| Goles del local: Menos de 3.5 | 70% | 77% | 73% | 1.22 | -10% |
 | Goles del visitante: Más de 0.5 | 35% | 44% | 40% | 2.10 | -17% |
 | Goles del visitante: Menos de 0.5 | 65% | 56% | 60% | 1.67 | +1% |
 | Córners más/menos: Más de 8.5 | 45% | 52% | 48% | 1.82 | -12% |

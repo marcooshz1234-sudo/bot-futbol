@@ -1,10 +1,55 @@
 # Chelsea W – Paris Saint Germain W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Wheatsheaf Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 09:51_
+
+- **1X2:** 1 **1.28**  ·  X **5.00**  ·  2 **10.00**
+- **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **3.00**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **4.50**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.07** · menos **7.50**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **4.00** · menos **1.22**
+    - 4,5: más **7.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.73** · menos **2.00**
+    - 1,5: más **4.50** · menos **1.17**
+- **Córners más/menos:**
+    - 9,5: más **1.80** · menos **2.00**
+- **Córners 1X2:** 1 **1.18**  ·  X **11.00**  ·  2 **5.50**
+- **1X2 descanso:** 1 **1.67**  ·  X **2.62**  ·  2 **7.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **8.00**
+- **Win Both Halves:** 1 **2.75**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.20**  ·  Draw/No **17.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 6,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
 
 ## Estadísticas de equipo
 | | Chelsea W (total) | Chelsea W en casa | Paris Saint Germain W (total) | Paris Saint Germain W fuera |
@@ -97,4 +142,45 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,86 · visitante 0,71 · córners esperados 9,9._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 28% | 9% | 19% | 10.00 | +86% |
+| 1X2: X | 36% | 18% | 27% | 5.00 | +35% |
+| 1X2: 1 | 36% | 72% | 54% | 1.28 | -30% |
+| Doble oportunidad: X2 | 64% | 31% | 47% | 3.00 | +41% |
+| Doble oportunidad: 12 | 64% | 82% | 73% | 1.12 | -18% |
+| Doble oportunidad: 1X | 72% | 87% | 80% | 1.06 | -16% |
+| Ambos marcan: No | 71% | 50% | 60% | 1.83 | +11% |
+| Ambos marcan: Sí | 29% | 50% | 40% | 1.83 | -28% |
+| Goles más/menos: Más de 1.5 | 46% | 79% | 63% | 1.17 | -26% |
+| Goles más/menos: Más de 2.5 | 21% | 61% | 41% | 1.53 | -37% |
+| Goles más/menos: Más de 3.5 | 7% | 41% | 24% | 2.25 | -45% |
+| Goles más/menos: Más de 4.5 | 2% | 23% | 13% | 4.00 | -49% |
+| Goles más/menos: Menos de 1.5 | 54% | 21% | 37% | 4.50 | +67% |
+| Goles más/menos: Menos de 2.5 | 79% | 39% | 59% | 2.40 | +42% |
+| Goles más/menos: Menos de 3.5 | 93% | 59% | 76% | 1.57 | +19% |
+| Goles más/menos: Menos de 4.5 | 98% | 77% | 87% | 1.22 | +6% |
+| Goles 1ª parte más/menos: Más de 0.5 | 49% | 75% | 62% | 1.25 | -22% |
+| Goles 1ª parte más/menos: Más de 1.5 | 15% | 44% | 30% | 2.10 | -38% |
+| Goles 1ª parte más/menos: Más de 2.5 | 3% | 21% | 12% | 4.50 | -46% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 51% | 25% | 38% | 3.75 | +42% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 85% | 56% | 70% | 1.67 | +18% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 97% | 79% | 88% | 1.17 | +3% |
+| Goles del local: Más de 1.5 | 21% | 69% | 45% | 1.36 | -39% |
+| Goles del local: Más de 2.5 | 6% | 44% | 25% | 2.10 | -48% |
+| Goles del local: Más de 3.5 | 1% | 23% | 12% | 4.00 | -51% |
+| Goles del local: Menos de 1.5 | 79% | 31% | 55% | 3.00 | +65% |
+| Goles del local: Menos de 2.5 | 94% | 56% | 75% | 1.67 | +25% |
+| Goles del local: Menos de 3.5 | 99% | 77% | 88% | 1.22 | +7% |
+| Goles del visitante: Más de 0.5 | 51% | 54% | 52% | 1.73 | -10% |
+| Goles del visitante: Más de 1.5 | 16% | 21% | 18% | 4.50 | -18% |
+| Goles del visitante: Menos de 0.5 | 49% | 46% | 48% | 2.00 | -4% |
+| Goles del visitante: Menos de 1.5 | 84% | 79% | 82% | 1.17 | -4% |
+| Córners más/menos: Más de 9.5 | 48% | 53% | 50% | 1.80 | -9% |
+| Córners más/menos: Menos de 9.5 | 52% | 47% | 50% | 2.00 | -1% |
+| 1X2 descanso: X | 57% | 34% | 45% | 2.62 | +19% |
+| 1X2 descanso: 1 | 24% | 53% | 39% | 1.67 | -35% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

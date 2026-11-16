@@ -1,12 +1,12 @@
 # Real Madrid W – Inter Milano W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:30_
+_Actualizadas: 16/11 09:51_
 
-- **1X2:** 1 **1.28**  ·  X **5.00**  ·  2 **7.50**
+- **1X2:** 1 **1.28**  ·  X **5.75**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.11**  ·  X2 **3.20**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
@@ -145,9 +145,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 12% | 12% | 7.50 | -7% |
-| 1X2: X | 16% | 18% | 17% | 5.00 | -14% |
-| 1X2: 1 | 71% | 70% | 70% | 1.28 | -10% |
+| 1X2: 2 | 13% | 12% | 12% | 8.00 | -2% |
+| 1X2: X | 16% | 16% | 16% | 5.75 | -7% |
+| 1X2: 1 | 71% | 72% | 72% | 1.28 | -8% |
 | Doble oportunidad: X2 | 29% | 29% | 29% | 3.20 | -7% |
 | Doble oportunidad: 12 | 84% | 84% | 84% | 1.11 | -7% |
 | Doble oportunidad: 1X | 87% | 87% | 87% | 1.06 | -7% |

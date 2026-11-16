@@ -1,7 +1,7 @@
 # AD Ceuta FC – Almeria
 **Segunda División** · Regular Season - 15 · 23/11/2026 20:30 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_

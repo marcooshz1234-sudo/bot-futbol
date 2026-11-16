@@ -1,13 +1,13 @@
 # Faroe Islands – Moldova
 **Nations League** · League C - 6 · 16/11/2026 16:00 (hora España) · Torsvollur
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:30_
+_Actualizadas: 16/11 09:51_
 
-- **1X2:** 1 **1.80**  ·  X **3.50**  ·  2 **4.75**
-- **Doble oportunidad:** 1X **1.17**  ·  12 **1.28**  ·  X2 **2.00**
+- **1X2:** 1 **1.75**  ·  X **3.50**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.30**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **7.50**
@@ -26,27 +26,28 @@ _Actualizadas: 16/11 02:30_
     - 3,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.73** · menos **2.00**
-    - 1,5: más **4.33** · menos **1.20**
+    - 1,5: más **4.50** · menos **1.17**
 - **Córners más/menos:**
     - 9,5: más **1.95** · menos **1.85**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.05**  ·  2 **5.50**
+- **Córners 1X2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.20**
+- **1X2 descanso:** 1 **2.38**  ·  X **2.05**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
-- **To Win Either Half:** 1 **1.44**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **8.00**
-- **Win Both Halves:** 1 **5.50**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.50**  ·  Draw/No **7.50**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **1.95**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.62**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **8.00**
+- **Win Both Halves:** 1 **5.50**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **7.50**  ·  Away/No **7.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.00**
 - **Home Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
-- **Anytime Goal Scorer:** Daniel Dumbravanu **12.00**  ·  Aki Samuelsen **3.00**  ·  Mihail Gherasimencov **21.00**  ·  Stephan Negru **17.00**  ·  Mihail Stefan **21.00**  ·  Jakup Andreasen **6.50**  ·  Martin Agnarsson **7.50**  ·  Joannes Bjartalid **3.40**  ·  Adrian Justinussen **3.40**  ·  Viljormur Davidsen **9.00**  ·  Gunnar Vatnhamar **6.50**  ·  Meinhard Olsen **3.60**  ·  Petur Knudsen **3.25**  ·  Andrias Edmundsson **12.00**  ·  Arnbjorn Svensson **7.50**  ·  Odmar Faero **11.00**  ·  Hanus Sorensen **5.50**  ·  Jann Benjaminsen **6.50**  ·  Samuel Chukwudi **11.00**  ·  Joannes Danielsen **11.00**  ·  Victor Stina **6.50**  ·  Nichita Motpan **9.00**  ·  Vadim Rata **9.00**  ·  Serafim Cojocaru **15.00**  ·  Vladislav Babohlo **17.00**  ·  loan-Calin Revenco **17.00**  ·  Denis Marandici **26.00**  ·  Oleg Reabciuk **21.00**  ·  Danila Forov **12.00**  ·  Vladimir Fratea **10.00**  ·  Ovidiu David **12.00**  ·  Mattias Hellisdal **5.50**  ·  Aron Benjaminsen **4.00**  ·  Catalin Cucos **17.00**  ·  Nicky Clescenco **7.50**  ·  Petru Popescu **4.50**  ·  Ari Olsen **9.00**  ·  Alexandru Betivu **5.50**  ·  Stefan Bodisteanu **9.00**  ·  Poul Kallsberg **3.25**  ·  Asi Dam **3.25**  ·  Iurie Iovu **15.00**  ·  Victor Bogaciuc **9.00**  ·  Sergiu Perciun **5.50**  ·  Geza David Turi **5.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Anytime Goal Scorer:** Daniel Dumbravanu **12.00**  ·  Aki Samuelsen **3.00**  ·  Mihail Gherasimencov **21.00**  ·  Stephan Negru **17.00**  ·  Mihail Stefan **21.00**  ·  Jakup Andreasen **6.50**  ·  Martin Agnarsson **7.00**  ·  Joannes Bjartalid **3.40**  ·  Adrian Justinussen **3.40**  ·  Viljormur Davidsen **4.33**  ·  Gunnar Vatnhamar **6.50**  ·  Meinhard Olsen **3.60**  ·  Petur Knudsen **3.20**  ·  Andrias Edmundsson **12.00**  ·  Arnbjorn Svensson **7.00**  ·  Odmar Faero **11.00**  ·  Hanus Sorensen **5.00**  ·  Jann Benjaminsen **6.50**  ·  Samuel Chukwudi **11.00**  ·  Joannes Danielsen **11.00**  ·  Victor Stina **6.50**  ·  Nichita Motpan **9.00**  ·  Vadim Rata **9.00**  ·  Serafim Cojocaru **15.00**  ·  Vladislav Babohlo **17.00**  ·  loan-Calin Revenco **17.00**  ·  Denis Marandici **26.00**  ·  Oleg Reabciuk **21.00**  ·  Danila Forov **12.00**  ·  Vladimir Fratea **9.50**  ·  Ovidiu David **12.00**  ·  Mattias Hellisdal **5.50**  ·  Aron Benjaminsen **4.00**  ·  Catalin Cucos **17.00**  ·  Nicky Clescenco **6.50**  ·  Petru Popescu **4.33**  ·  Ari Olsen **9.00**  ·  Alexandru Betivu **4.75**  ·  Stefan Bodisteanu **9.00**  ·  Poul Kallsberg **3.40**  ·  Asi Dam **3.40**  ·  Iurie Iovu **15.00**  ·  Victor Bogaciuc **9.00**  ·  Sergiu Perciun **4.75**  ·  Geza David Turi **5.50**
 
 ## Estadísticas de equipo
 | | Faroe Islands (total) | Faroe Islands en casa | Moldova (total) | Moldova fuera |
@@ -184,11 +185,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 20% | 20% | 20% | 4.75 | -4% |
-| 1X2: X | 23% | 27% | 25% | 3.50 | -12% |
-| 1X2: 1 | 57% | 53% | 55% | 1.80 | -1% |
-| Doble oportunidad: X2 | 43% | 47% | 45% | 2.00 | -10% |
-| Doble oportunidad: 12 | 77% | 73% | 75% | 1.28 | -4% |
+| 1X2: 2 | 20% | 20% | 20% | 4.75 | -5% |
+| 1X2: X | 23% | 27% | 25% | 3.50 | -13% |
+| 1X2: 1 | 57% | 54% | 55% | 1.75 | -4% |
+| Doble oportunidad: X2 | 43% | 49% | 46% | 1.91 | -12% |
+| Doble oportunidad: 12 | 77% | 72% | 74% | 1.30 | -3% |
 | Doble oportunidad: 1X | 80% | 80% | 80% | 1.17 | -7% |
 | Ambos marcan: No | 48% | 56% | 52% | 1.67 | -13% |
 | Ambos marcan: Sí | 52% | 44% | 48% | 2.10 | +1% |
@@ -209,12 +210,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 46% | 54% | 50% | 1.73 | -13% |
 | Goles del local: Menos de 2.5 | 73% | 78% | 76% | 1.20 | -9% |
 | Goles del visitante: Más de 0.5 | 62% | 54% | 58% | 1.73 | +0% |
-| Goles del visitante: Más de 1.5 | 25% | 22% | 24% | 4.33 | +2% |
+| Goles del visitante: Más de 1.5 | 25% | 21% | 23% | 4.50 | +4% |
 | Goles del visitante: Menos de 0.5 | 38% | 46% | 42% | 2.00 | -16% |
-| Goles del visitante: Menos de 1.5 | 75% | 78% | 76% | 1.20 | -8% |
+| Goles del visitante: Menos de 1.5 | 75% | 79% | 77% | 1.17 | -10% |
 | Córners más/menos: Más de 9.5 | 48% | 49% | 48% | 1.95 | -6% |
 | Córners más/menos: Menos de 9.5 | 52% | 51% | 52% | 1.85 | -4% |
 | 1X2 descanso: X | 41% | 44% | 42% | 2.05 | -13% |
-| 1X2 descanso: 1 | 41% | 39% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 41% | 38% | 39% | 2.38 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

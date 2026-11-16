@@ -1,12 +1,12 @@
 # Poland – Sweden
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Śląska  Wrocław
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:30_
+_Actualizadas: 16/11 09:51_
 
-- **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.00**
+- **1X2:** 1 **2.15**  ·  X **3.60**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
@@ -31,7 +31,7 @@ _Actualizadas: 16/11 02:30_
 - **Córners más/menos:**
     - 8,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **1.83**  ·  X **7.50**  ·  2 **2.30**
-- **1X2 descanso:** 1 **2.75**  ·  X **2.38**  ·  2 **3.40**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.38**  ·  2 **3.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -42,7 +42,7 @@ _Actualizadas: 16/11 02:30_
 - **To Win Either Half:** 1 **1.62**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.75**
 - **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
@@ -187,8 +187,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 31% | 35% | 3.00 | +4% |
-| 1X2: X | 28% | 26% | 27% | 3.60 | -2% |
-| 1X2: 1 | 33% | 43% | 38% | 2.20 | -16% |
+| 1X2: X | 28% | 26% | 27% | 3.60 | -3% |
+| 1X2: 1 | 33% | 43% | 38% | 2.15 | -18% |
 | Doble oportunidad: X2 | 67% | 57% | 62% | 1.67 | +3% |
 | Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 62% | 70% | 66% | 1.36 | -11% |
@@ -218,8 +218,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
 | Córners más/menos: Más de 8.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Córners más/menos: Menos de 8.5 | 49% | 47% | 48% | 2.00 | -4% |
-| 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -6% |
+| 1X2 descanso: 2 | 28% | 27% | 27% | 3.50 | -4% |
 | 1X2 descanso: X | 46% | 39% | 43% | 2.38 | +2% |
-| 1X2 descanso: 1 | 25% | 34% | 30% | 2.75 | -19% |
+| 1X2 descanso: 1 | 25% | 34% | 30% | 2.75 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

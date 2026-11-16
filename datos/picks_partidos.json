@@ -1642,5 +1642,130 @@
    ]
   }
  ],
- "2026-11-19": []
+ "2026-11-19": [
+  {
+   "partido_id": 1638327,
+   "fecha": "2026-11-19T18:45",
+   "local": "Paris FC W",
+   "visitante": "Køge W",
+   "liga": "Champions Femenina",
+   "datos": [
+    "Los partidos del Køge W llevan 3,5 goles de media (últimos 8).",
+    "El Køge W solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1638327|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Paris FC (fem.)–Køge (fem.)",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1638327|To Win Either Half|Home",
+     "texto": "Paris FC (fem.) gana alguna de las dos partes",
+     "cuota": 1.44,
+     "prob": 0.6
+    },
+    {
+     "sel": "1638327|Total - Home|Over 1.5",
+     "texto": "Paris FC (fem.) marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.56
+    },
+    {
+     "sel": "1638327|Match Winner|Home",
+     "texto": "Gana el Paris FC (fem.)",
+     "cuota": 1.8,
+     "prob": 0.52
+    }
+   ]
+  },
+  {
+   "partido_id": 1638338,
+   "fecha": "2026-11-19T21:00",
+   "local": "SL Benfica W",
+   "visitante": "Roma W",
+   "liga": "Champions Femenina",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1638338|To Win Either Half|Home",
+     "texto": "SL Benfica (fem.) gana alguna de las dos partes",
+     "cuota": 1.44,
+     "prob": 0.59
+    },
+    {
+     "sel": "1638338|Both Teams Score|Yes",
+     "texto": "Ambos marcan en SL Benfica (fem.)–Roma (fem.)",
+     "cuota": 1.57,
+     "prob": 0.59
+    },
+    {
+     "sel": "1638338|Total - Home|Over 1.5",
+     "texto": "SL Benfica (fem.) marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.56
+    }
+   ]
+  },
+  {
+   "partido_id": 1638286,
+   "fecha": "2026-11-19T21:00",
+   "local": "Arsenal W",
+   "visitante": "Lyon W",
+   "liga": "Champions Femenina",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1638286|Double Chance|Draw/Away",
+     "texto": "Lyon (fem.) o empate",
+     "cuota": 1.36,
+     "prob": 0.68
+    },
+    {
+     "sel": "1638286|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Arsenal (fem.)–Lyon (fem.)",
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1638286|Double Chance|Home/Draw",
+     "texto": "Arsenal (fem.) o empate",
+     "cuota": 1.62,
+     "prob": 0.57
+    },
+    {
+     "sel": "1638286|To Win Either Half|Away",
+     "texto": "Lyon (fem.) gana alguna de las dos partes",
+     "cuota": 1.57,
+     "prob": 0.54
+    },
+    {
+     "sel": "1638286|Total - Away|Over 1.5",
+     "texto": "Lyon (fem.) marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.54
+    }
+   ]
+  },
+  {
+   "partido_id": 1638297,
+   "fecha": "2026-11-19T21:00",
+   "local": "Barcelona W",
+   "visitante": "Servette Chênois W",
+   "liga": "Champions Femenina",
+   "datos": [
+    "Los partidos del Barcelona W llevan 4,4 goles de media (últimos 8).",
+    "Los partidos del Servette Chênois W llevan 4,8 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1638297|Goals Over/Under - Second Half|Over 2.5",
+     "texto": "Más de 2,5 goles en la 2ª parte del Barcelona W–Servette Chênois W",
+     "cuota": 1.5,
+     "prob": 0.51
+    }
+   ]
+  }
+ ]
 }

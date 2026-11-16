@@ -1,10 +1,10 @@
 # Stoke City – Birmingham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 08:09_
+_Actualizadas: 16/11 09:52_
 
 - **1X2:** 1 **2.70**  ·  X **3.30**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.33**  ·  X2 **1.44**
@@ -28,6 +28,10 @@ _Actualizadas: 15/11 08:09_
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.98** · menos **1.82**
+- **Córners 1X2:** 1 **1.95**  ·  X **8.00**  ·  2 **2.05**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.20**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -41,6 +45,11 @@ _Actualizadas: 15/11 08:09_
 - **Win Both Halves:** 1 **10.00**  ·  2 **9.00**
 - **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **11.00**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.40**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.80** · menos **1.91**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
 - **Home Player Shots On Target Total:** Jack McGlynn - 1 **1.62**  ·  Jack McGlynn - 2 **4.00**  ·  Jack McGlynn - 3 **13.00**  ·  George Hirst - 1 **1.53**  ·  Robert Bozenik - 1 **1.50**  ·  Sam Gallagher - 1 **1.67**  ·  Lamine Cisse - 1 **1.50**  ·  Million Manhoef - 1 **1.73**  ·  Jun-Ho Bae - 1 **2.62**  ·  Tomas Rigo - 1 **2.10**  ·  Djibril Soumare - 1 **3.75**  ·  Ethan Galbraith - 1 **3.25**  ·  Svante Ingelsson - 1 **3.25**  ·  Ben Johnson - 1 **3.25**  ·  Bosun Lawal - 1 **3.50**  ·  Eric Junior Bocat - 1 **2.50**  ·  Ben Pearson - 1 **6.00**  ·  Ben Wilmot - 1 **6.00**  ·  Ben Gibson - 1 **6.00**  ·  Junior Tchamadeu - 1 **6.00**  ·  Luke Graham - 1 **5.50**  ·  Maksym Talovierov - 1 **6.00**  ·  George Hirst - 2 **3.50**  ·  Robert Bozenik - 2 **3.40**  ·  Sam Gallagher - 2 **4.33**  ·  Lamine Cisse - 2 **3.40**  ·  Million Manhoef - 2 **4.50**  ·  Jun-Ho Bae - 2 **11.00**  ·  Tomas Rigo - 2 **7.00**  ·  Djibril Soumare - 2 **21.00**  ·  Ethan Galbraith - 2 **15.00**  ·  Svante Ingelsson - 2 **15.00**  ·  Ben Johnson - 2 **15.00**  ·  Bosun Lawal - 2 **19.00**  ·  Eric Junior Bocat - 2 **10.00**  ·  George Hirst - 3 **11.00**  ·  Robert Bozenik - 3 **10.00**  ·  Sam Gallagher - 3 **13.00**  ·  Lamine Cisse - 3 **10.00**  ·  Million Manhoef - 3 **15.00**  ·  Tomas Rigo - 3 **21.00**  ·  Robert Bozenik - 4 **21.00**  ·  Lamine Cisse - 4 **21.00**  ·  Luca Bombino - 1 **6.00**  ·  Justin Devenny - 1 **1.53**  ·  Justin Devenny - 2 **3.50**  ·  Justin Devenny - 3 **11.00**
 - **Away Player Shots On Target Total:** Robert Bozenik **9.00**  ·  Ethan Galbraith **101.00**  ·  Jay Stansfield **13.00**  ·  Scott Wright **41.00**  ·  Taylor Gardner-Hickman **34.00**  ·  Tomoki Iwata **67.00**  ·  Alex Cochrane **126.00**  ·  Christoph Klarer **19.00**  ·  Lee Buchanan **101.00**  ·  Ethan Laird **67.00**  ·  Luke Graham **19.00**  ·  Luca Bombino **81.00**  ·  Kristoffer Lund **101.00**  ·  Max Bird **51.00**  ·  Dael Fry **19.00**  ·  Sam Gallagher **9.50**  ·  Million Manhoef **34.00**  ·  Jun-ho Bae **51.00**  ·  Ben Pearson **126.00**  ·  Eric Junior Bocat **34.00**  ·  Junior Tchamadeu **81.00**  ·  Ben Gibson **19.00**  ·  Ben Wilmot **17.00**  ·  Svante Ingelsson **67.00**  ·  Patrick Roberts **51.00**  ·  Liam Millar **21.00**  ·  Luis Vazquez **19.00**  ·  Jhon Solis **51.00**  ·  August Priske **9.00**  ·  Bright Osayi-Samuel **101.00**  ·  Phil Neumann **15.00**  ·  Jack McGlynn **34.00**  ·  Demarai Gray **34.00**  ·  Djibril Soumare **34.00**  ·  Justin Devenny **21.00**  ·  Seung-Ho Paik **51.00**  ·  Carlos Vicente **34.00**  ·  Bosun Lawal **17.00**  ·  Ben Johnson **67.00**  ·  George Hirst **11.00**  ·  Marvin Ducksch **17.00**  ·  Lamine Cisse **19.00**  ·  Maksym Talovierov **21.00**
 - **Home Player Shots:** Jack McGlynn - 1 **1.08**  ·  Jack McGlynn - 2 **1.40**  ·  Jack McGlynn - 3 **2.20**  ·  Jack McGlynn - 4 **3.75**  ·  Jack McGlynn - 5 **8.00**  ·  Jack McGlynn - 6 **15.00**  ·  George Hirst - 1 **1.06**  ·  Robert Bozenik - 1 **1.05**  ·  Sam Gallagher - 1 **1.10**  ·  Lamine Cisse - 1 **1.05**  ·  Million Manhoef - 1 **1.11**  ·  Jun-Ho Bae - 1 **1.40**  ·  Tomas Rigo - 1 **1.20**  ·  Djibril Soumare - 1 **1.83**  ·  Ethan Galbraith - 1 **1.53**  ·  Svante Ingelsson - 1 **1.53**  ·  Ben Johnson - 1 **1.53**  ·  Bosun Lawal - 1 **1.67**  ·  Eric Junior Bocat - 1 **1.33**  ·  Ben Pearson - 1 **2.25**  ·  Ben Wilmot - 1 **1.73**  ·  Ben Gibson - 1 **2.25**  ·  Junior Tchamadeu - 1 **2.25**  ·  Luke Graham - 1 **2.38**  ·  Maksym Talovierov - 1 **2.25**  ·  George Hirst - 2 **1.33**  ·  Robert Bozenik - 2 **1.30**  ·  Sam Gallagher - 2 **1.44**  ·  Lamine Cisse - 2 **1.30**  ·  Million Manhoef - 2 **1.53**  ·  Jun-Ho Bae - 2 **2.62**  ·  Tomas Rigo - 2 **1.83**  ·  Djibril Soumare - 2 **5.00**  ·  Ethan Galbraith - 2 **3.40**  ·  Svante Ingelsson - 2 **3.40**  ·  Ben Johnson - 2 **3.40**  ·  Bosun Lawal - 2 **4.00**  ·  Eric Junior Bocat - 2 **2.38**  ·  Ben Pearson - 2 **8.00**  ·  Ben Wilmot - 2 **4.33**  ·  Ben Gibson - 2 **8.00**  ·  Junior Tchamadeu - 2 **8.00**  ·  Luke Graham - 2 **8.00**  ·  Maksym Talovierov - 2 **8.00**  ·  George Hirst - 3 **1.91**  ·  Robert Bozenik - 3 **1.83**  ·  Sam Gallagher - 3 **2.25**  ·  Lamine Cisse - 3 **1.83**  ·  Million Manhoef - 3 **2.50**  ·  Jun-Ho Bae - 3 **6.00**  ·  Tomas Rigo - 3 **3.75**  ·  Djibril Soumare - 3 **15.00**  ·  Ethan Galbraith - 3 **9.00**  ·  Svante Ingelsson - 3 **9.00**  ·  Ben Johnson - 3 **9.00**  ·  Bosun Lawal - 3 **11.00**  ·  Eric Junior Bocat - 3 **5.50**  ·  Ben Pearson - 3 **21.00**  ·  Ben Wilmot - 3 **13.00**  ·  George Hirst - 4 **3.40**  ·  Robert Bozenik - 4 **3.00**  ·  Sam Gallagher - 4 **4.00**  ·  Lamine Cisse - 4 **3.00**  ·  Million Manhoef - 4 **4.50**  ·  Jun-Ho Bae - 4 **15.00**  ·  Tomas Rigo - 4 **8.00**  ·  Ethan Galbraith - 4 **21.00**  ·  George Hirst - 5 **6.00**  ·  Robert Bozenik - 5 **5.50**  ·  Sam Gallagher - 5 **9.00**  ·  Lamine Cisse - 5 **5.50**  ·  Million Manhoef - 5 **10.00**  ·  George Hirst - 6 **13.00**  ·  Robert Bozenik - 6 **11.00**  ·  Sam Gallagher - 6 **17.00**  ·  Luca Bombino - 1 **2.25**  ·  Luca Bombino - 2 **8.00**  ·  Luca Bombino - 3 **21.00**  ·  Justin Devenny - 1 **1.06**  ·  Justin Devenny - 2 **1.33**  ·  Justin Devenny - 3 **1.91**  ·  Justin Devenny - 4 **3.40**  ·  Justin Devenny - 5 **6.00**  ·  Justin Devenny - 6 **13.00**  ·  Ben Gibson - 3 **21.00**  ·  Junior Tchamadeu - 3 **21.00**  ·  Luke Graham - 3 **21.00**  ·  Maksym Talovierov - 3 **21.00**  ·  Svante Ingelsson - 4 **21.00**  ·  George Hirst - 7 **21.00**  ·  Robert Bozenik - 7 **21.00**  ·  Lamine Cisse - 6 **11.00**  ·  Million Manhoef - 6 **21.00**  ·  Eric Junior Bocat - 4 **13.00**  ·  Ben Johnson - 4 **21.00**  ·  Tomas Rigo - 5 **17.00**  ·  Lamine Cisse - 7 **21.00**  ·  Justin Devenny - 7 **21.00**  ·  Eric Junior Bocat - 5 **21.00**
@@ -213,6 +222,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
 | Goles del visitante: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles del visitante: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
+| Córners más/menos: Más de 9.5 | 43% | 54% | 48% | 1.73 | -16% |
+| Córners más/menos: Menos de 9.5 | 57% | 46% | 52% | 2.00 | +3% |
 | 1X2 descanso: 2 | 35% | 30% | 32% | 3.10 | +0% |
 | 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: 1 | 22% | 27% | 25% | 3.40 | -16% |

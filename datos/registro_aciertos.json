@@ -13016,7 +13016,7 @@
   "valor_mercado": -0.021,
   "movimiento": 0.0,
   "ventaja": 0.096,
-  "prob_aprendida": 0.72,
+  "prob_aprendida": 0.717,
   "acierto": null
  },
  "1528986|Total - Away|Over 1.5": {
@@ -13365,10 +13365,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.011,
+  "valor_mercado": -0.023,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.558,
+  "prob_aprendida": 0.603,
   "acierto": null
  },
  "1528992|ShotOnTarget 1x2|Away": {
@@ -13435,6 +13435,28 @@
   "movimiento": null,
   "ventaja": 0.229,
   "prob_aprendida": 0.573,
+  "acierto": null
+ },
+ "1528986|Match Winner|Away": {
+  "partido_id": 1528986,
+  "fecha": "2026-11-16T16:00",
+  "competicion": "Nations League",
+  "local": "Kazakhstan",
+  "visitante": "Slovakia",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "tipo": "resultado",
+  "texto": "Gana el Slovakia",
+  "cuota": 1.8,
+  "frecuencia": 0.7,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.062,
+  "movimiento": -0.016,
+  "ventaja": 0.144,
+  "prob_aprendida": 0.556,
   "acierto": null
  }
 }

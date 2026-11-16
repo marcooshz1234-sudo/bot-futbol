@@ -43,6 +43,14 @@
    "tipos": []
   },
   {
+   "titulo": "Albacete Balompie",
+   "fuente": "Albacete Balompie",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EZ3pfQ0xsd0RKR1B3N2NVQTNhbjlLdU1aaXMyUUdnSTZtRmRsT25zbUY4WDBBaGlLN2pNczE3VTA5Q29HVFlZ?oc=5",
+   "fecha": "2026-11-15T08:17",
+   "equipo": "Albacete",
+   "tipos": []
+  },
+  {
    "titulo": "El Alba Fundación necesita recuperar la sonrisa",
    "fuente": "La Tribuna de Albacete",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1J4MFVuNXdPdmNiZXlaWElIUFNJTXNtc1NfeTZyWGdNeHNXdXVwOGVMeVFFQUk4bXcwekkzREI1NUNlZFRoSmdfcGJ3SmRxcWE3NDJVRTFuNE91T3FUN3pfM3pFSExNWHVOc1M1eXZCM1BIdkRIMVFkUWxaU0xXM3N6RXk4NlpCREdDaTVJb1hCbUp5UzVuZmxmUHJibGFhVHBBeVRLMW96Z1N3bGpuZ0NTTzBmcHZRYnY5NF9tWGhfLVkzSzZHVHBla0dPTFE?oc=5",
@@ -69,24 +77,42 @@
  ],
  "1545617": [
   {
-   "titulo": "Marc Pubill también se lesiona y es el tercer imprevisto del Atlético de Madrid en el parón",
+   "titulo": "Los detalles de calidad de Ronaldinho en su regreso al fútbol profesional: la magia nunca se pierde",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHN1SjRvZmFBZTBJVjhyRFUwb2VsN1J3TWh0UkVHaDJaXzE5LV9nQWxVZW1TUFhsTEd1NXdWSVZwUUdKcDE2TFRUYmNRNFhqVlROUWF2VXotRVB2UVU5ZmF4VkJNb3RySHBZYUFFRTAwQTBzX21adlJhN0FxaDk5ZksyVU40MEdIbW1kbTlSNTUxX2RvQ1FpbXhpWF9PQnU4S3JadHFPNWlmamVGUUdicGl0ZnhCd0ZJMjVtMzh2cWlrTmpIcUtZWlBoWFgyWnFpT2lhejJ4Tkk?oc=5",
-   "fecha": "2026-11-15T21:36",
-   "equipo": "Luxembourg",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFBUW5jblhzTmJWaS1MRzY5ZHVfbXFaX2x0RURCYWdYWDFxTmN1Mm9aYzlyc2NEZ2c3a1hfVXVvQXZobkNJQ2NTWHV4d3VUNzh6d1JyMXhGdl90M3ExVkhNVVJvaGVCQzlVNVctR3lnYUxud1RFWGtzMVNCMm9iTi1RZjJaVWFRcFZxWUdQcG8zVG0wLVNDNVJYSGV2MUlpT0FJbU1aaE9lMDVpTlpoWXlfQ2NWRmN2aEdKbEVnV2NybkJ2?oc=5",
+   "fecha": "2026-11-16T09:00",
+   "equipo": "Iceland",
    "tipos": [
     "baja"
    ]
   },
   {
-   "titulo": "El análisis en frío de García Plaza del Real Madrid-Sevilla: \"Entiendo al árbitro y al VAR\"",
+   "titulo": "Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUN0OXpvQmVDMktuRllMUC16Unk4Zll5SDJxbVNNR3JPaEJFa1hsR28wY2E1QUhNWUUxRllrNFVNZUlJa3pVSEVobkV3a0Vta3Z3VVZndnVKdUZqVVg3cV9PQkplV3lFYlJvTGZLYXZ0ankwR3pYVDExQ3lhWWtSRDFmN3JnOVMtZWUwejdvdlpJaHh4XzhPbGhJRFJyRFZmZ3FWalU0M0tORVBwRktHU2E2UzRRUEdZb0VYLXctT2hjRWFQZmg0bElSWk52b0E?oc=5",
-   "fecha": "2026-11-15T09:32",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2gyanlLVklBYWZwem56VnZTQWZwQmRzN0JRLXZ2dW43bWRoRk5FVjh0SGUzQ1U4S3U2b3A1YlllRG8yTjRBTjR4U0Q5eV91cW9YNnluSWFzVHRaMHlXS3QtbFdiX2lDTFlGczdnTjc4a3BTVkFoRXJocXJmd1R0cTlIQTlqM3ZjckN5SDZGc1hFNUJTVEVDYjZsWlBieGdsc0ZxVTZQZVVmeXRRTktlRmJYOUFxT3hMRFNV?oc=5",
+   "fecha": "2026-11-15T08:34",
    "equipo": "Iceland",
    "tipos": [
-    "arbitro"
+    "baja"
    ]
+  },
+  {
+   "titulo": "Debacle mayúsculo en la nueva 'era' de Portugal sin Cristiano Ronaldo: goleada sin el liderato asegurado",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXhWVWFPYXE2aGJidTlIdGFTTS1KMTNwTVNjcVJXVUtKdm05MzFvRzBDbmpVNlZSMGpxYzRDQ0dfVWpRQkdVZlRKZEZuN1VkOFotRjB6aU5tRTdGMXpwYjR3TGV0Y1hDTUN6U05kdnhTMG0wcTd6Wm5NQWlQVmdNdW9YN0luaFBIOTdHZmhTZXNaMFNtUTBnbnQ3QlYzY3I1dUZ0OU5xZHluc1ZJOTNvaUs0VkFfNUNJY29MSA?oc=5",
+   "fecha": "2026-11-14T23:23",
+   "equipo": "Iceland",
+   "tipos": [
+    "motivacion"
+   ]
+  },
+  {
+   "titulo": "Cuándo será el partido de la Selección Española para despedirse de Mestalla y posibles rivales",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWZ5NXVUbWpybGZsVkNwXzF6dmgwY1dlc2RfSTZTbERIeHV0eHlyVjVkeFgyOWM3SDBDaWQtZk9mVTJzdWtWc1JubWN2eFNiXzhJZFVmdE1oTlRBZTAzMHRIMXkwUk1UcmRsYXpKUjJESU1VSTA5UFhXRS1KV3p1ZVZrdkpZSUtaTnVSdnp0eFlkNkN6LWh1T2FQM090VTZNSjZyM1l1WEZNdEtzajZzTVMybG9YOXRfaGxiM01qRGs?oc=5",
+   "fecha": "2026-11-16T08:41",
+   "equipo": "Iceland",
+   "tipos": []
   },
   {
    "titulo": "La burla de Lamine Yamal a Elliot Anderson tras su penalti y expulsión: \"Tonto, tonto\"",
@@ -97,19 +123,11 @@
    "tipos": []
   },
   {
-   "titulo": "Bellingham y Cucurella, recriminación y empujón en la tangana al descanso del España - Inglaterra",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXVPTjJzU3A1c1lPdUtLWXkzT2JyUEEzYUhPWldYV3dET28yeERIbXo2VzRydnRsOGgxbmlUTUNXM19FMHdMbzg5Unh1ZF9jU1BKWDBGY3NoQTd3d2lZcXFMNW9rR2ZpWWRsTC1la2F0WnNYSHJ3azNvRnNjVkhjeFc2dHE5Y3JTemFFUHFuNUVmeXJfd1UxOEk3RVQ3Szlaa1ZOendfLUtRek1pMnJqQWJobnlkSXNlT1R5RnVnSFJVeVlvek53?oc=5",
-   "fecha": "2026-11-16T00:41",
-   "equipo": "Iceland",
-   "tipos": []
-  },
-  {
    "titulo": "Luis de la Fuente desvela lo que les ha dicho a los jugadores tras la derrota: \"En el pasillo y en el vestuario\"",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjZiQXdRNTFocDRKYk5SVEJLbUd0YjdxWDE4UExQXzNCbUQzOEFUN25ad1hfOWlQZTNOT3F2TlpMZk5hdks1ZVhwTFlzSkZXT0g4SVFHVFEtZjVlNGdZSnZoR0lYQ05WRHhDNFI4RXlTeDlraHRyRFdKTGxDbTBNaG9SeDR3dDhXOGVXX05ZOUN2MGFQdU1lNTlpamJjbXpUUUJWZ0NKRTRCU2hEN2lGNWxhU2puM3QtQ3lFZ1Y3ODBkeHJQWFBOVExEY0w0Q2ZjMEJsQw?oc=5",
    "fecha": "2026-11-16T00:26",
-   "equipo": "Iceland",
+   "equipo": "Luxembourg",
    "tipos": []
   },
   {
@@ -157,7 +175,7 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUo3V3FBT1hhR2JxMmJ3bGtKTTVDdUlxbW5HMG1wZzdtUFZGTVdXdG8xNjRJT3VwWXFTXzkya3Ixc2ltMWlFbHo3cC1EZW1yRHRNdk5aREZjSEcwSldvN0Q5Y3pBdTBMRlk4SjBtcnFsSGNWOTM2Qk9hOEwzcmxDbmZYZ1lXeVY2SmhvNDV1Y3FQNjR6eVd2ODE4OFdUWkFCbWVtZ2RPWTFEb29OekF5TnBRanljdDI4Tmc?oc=5",
    "fecha": "2026-11-15T22:13",
-   "equipo": "Iceland",
+   "equipo": "Luxembourg",
    "tipos": []
   },
   {
@@ -169,35 +187,11 @@
    "tipos": []
   },
   {
-   "titulo": "Alejandro Dominguez, cada vez más salpicado por el escándalo Ueno Bank",
-   "fuente": "https://www.noticiero9.com.ar/",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnFzaUtyRXpISXlZRm5LQU1BSXRQaklMVW1tQjRDMV80bHp4VjdGLTJVRnZyajJjeGRvcURuUEJ0bnJrcTlBb29Xa29WNFBJVGpFdFlDaGNiNV84V0dwV3NkNkZkeHZodU1lNnZBVVdNM09Dc0lmbndPX2o3U2Z5ZEVkSHp6Vk8zMlFkaVAzdi1RVTl0OWVOcUlUa1JIODZrZTg2LUdlZUw?oc=5",
-   "fecha": "2026-11-15T20:36",
-   "equipo": "Luxembourg",
-   "tipos": []
-  },
-  {
-   "titulo": "Hugo Duro, siempre en mi equipo: la máxima de Pedro Cortés",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWxETkVkWnVHZFltWFpXRDcxc2RzVWtHcUthcGhYZXAwVER1bVFHVThtbmdETmV6MzE2aTg3SnFyQ2lldzNCS0ZQM29EYkpvMDdGVUxxc1FwV0dNRmpUZHBWN3dud0RPZjBwaWNrM1hJRG5kR1FwdWowSGZYMVdPdl9QSVBFS2xmbExxTExOWHlDQjZiQXlSalRiMXV1R1hwX19PNURlaXp0amtN?oc=5",
-   "fecha": "2026-11-15T20:01",
-   "equipo": "Luxembourg",
-   "tipos": []
-  },
-  {
    "titulo": "Alineaciones confirmadas de España e Inglaterra en la jornada 6 de la UEFA Nations League",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlDRFNCemt1aVNvNHpRWnFuS0xMMEEtS0tVX1NvWExfd2oxbUVZOHNiTGxQMGN3X01WRGdaVVhPVjM1aGdCbGhlZ1RDVk1JV0JZZjFLQjBhM3ZZV0d4Y01SY3dFZWZDOWFJazUyemNaRDFOek0zYUFtb3pwTEhwQWl2SDBpeUVRQi1FY1FTVGR3R1VzQ3VLeUFFVmZ4MWNvQTZaUFZ3WGE3VHhKT3BxSkUxczdINjQyenBV?oc=5",
    "fecha": "2026-11-15T19:22",
    "equipo": "Iceland",
-   "tipos": []
-  },
-  {
-   "titulo": "Ivan Rakitic se ofrece otra vez al Sevilla: \"Para lo que necesiten, en la tienda, con la UEFA...\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXo1SHZUWlhVdjg1MjlRWl9QcXdHMXZHU0R3TEdFcjhkSFd5Mjg4TFNkWmc1bFlWQWxsUkRJc0VTTHNzNFpMRzJmNGEtSzhGdTlONHpRemxCdjAtaEJNWHdrTzFUTWx4d0pVemlLbHBjWFFjVlRBaUhkemlHNGdDdXpTbVdWRDJfZWdSamRyT3ZHMVZWQi0xczFMLXpUMGFMTEZoWlNNeXhIMEVRNy1qNDJBTlBRVGtEWDg4?oc=5",
-   "fecha": "2026-11-14T22:11",
-   "equipo": "Luxembourg",
    "tipos": []
   }
  ],
@@ -223,11 +217,19 @@
    ]
   },
   {
+   "titulo": "La pesadilla de Grecia en el repechaje: Por qué vencer a Serbia podría no ser suficiente",
+   "fuente": "Sofascore",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEZJRUxoSnFoOWgtWjZHYnJrcmxqM2dkNnFjNzZvaWFDS0tQVjNqZkNpeUIxMmNOSkU1aElKT3p6bjRiN3lJNV9XUGhNLXJEaGZ2aFJidWNiUkdwWHBkeGJkZjR1N2tuUm1VZ0VBbUZ2YV9FNC1CMDF5aWpIU1pzdmZoVjZSN25rcE1TSjJlZHp2NWR3REdGWVlYSEpuR09rTFE2NkFlY1FrVUZTMzNSdkdLYmFrSUZGcXBCZ1VR?oc=5",
+   "fecha": "2026-11-16T07:56",
+   "equipo": "Greece",
+   "tipos": []
+  },
+  {
    "titulo": "La ecuación a despejar en la Nations que mantiene en vilo a Países Bajos, Alemania y Grecia",
    "fuente": "MARCA",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajVzbGhHZENQVlJpc3pidHU1M1NOcE5YeFNNOVhaekpEY3ZUSEhLM05zajhCWHpXWkR4SEd4RTFYVE8wdGhIQ2trMHdXb01kazJCRnVVbVFqc1hLU3VFVmZsTjc4T0FVdEFxSjJmMncxVjB0cUNhU2xfZm5VdGo0S1cyXzNuVUs1ZmstalZqdEdHdEpnaEhOaG12dERFX1hLX2I1N3BVU1JEcGhPaUc1YS1UZDNVUVhTQ1kzQVlsWWFvblY2WU5B0gHHAUFVX3lxTFBqNXNsaEdkQ1BWUmlzemJ0dTUzU05wTlh4U005WFp6SkRjdlRISEszTnNqOEJYeldaRHhIR3hFMVhUTzB0aEhDa2swd1dvTWRrMkJGdVVtUWpzWEtTdUVWZmxONzhPQVV0QXFKMmYydzFWMHRxQ2FTbF9mblV0ajRLVzJfM25VSzVmay1qVmp0R0d0SmdoSE5obXZ0REVfWEtfYjU3cFVTUkRwaE9pRzVhLVRkM1VRWFNDWTNBWWxZYW9uVjZZTkE?oc=5",
    "fecha": "2026-11-16T06:51",
-   "equipo": "Serbia",
+   "equipo": "Greece",
    "tipos": []
   },
   {
@@ -236,14 +238,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFJ0bnh1djRXQUNFclV4MGFyUk5zV3FLN1hiTWxybmZfZ1dsdjd0U09RTW9qZG9sRG5kbm9CQUFScGQ4MnhhcXZyXzNfWUczSXg2Z0lPMTVUZEkyVVpqSlNBOUlJalFOb2IwX1dpOVNGR19FQUFiNzUtNmNfam9Qam1MSC1FT1dBWkhEQk1iOUhBVmYxazZFakhpWQ?oc=5",
    "fecha": "2026-11-16T06:01",
    "equipo": "Serbia",
-   "tipos": []
-  },
-  {
-   "titulo": "'Hormiga' González sigue sin ganarse un lugar en el Tri",
-   "fuente": "El Informador",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1lIdUg1V0kxZEJqR0dOY2tZTDd2VVJ5WWNlR21CZUhhVFY5TTktRXFBbXNDWXU0bXlWTUJIdVdiTktLdzRhQUs0QnppWjVDb3ZLNXJzYVlWSThKd0M1U3lxMmstUDI4Z1V3OEJVZExMNHE2MnlwQkJIa0ZuVXVEYUZCQVhIMkM5YTF6c2NSN2lRV0FvRmJaRjBwNjJiRURjWEZJREczbzAzWEI2eWZ6dzRiV3BPRFpWbmhyX2xjeDBUUXdG?oc=5",
-   "fecha": "2026-11-15T23:59",
-   "equipo": "Greece",
    "tipos": []
   },
   {
@@ -315,14 +309,6 @@
    "fuente": "Sports Illustrated",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaF9Rd0xHbFBWWWlQUVFvOU1idFBPVlcycU5sdDJCSWpGamJ6U093SXg2X29rVUlXYUc3Nmt0bGt3YVgzNDIzSENSSlBsb3N5aTR4NzFRUjlQM1ZTcWE4SHNreTQxUXVEZmdSeG45WnpzbmxBYXFZekFLeVpYNzFFRWdCd2tZN19lNHJQZlZHN241eFBiWU41aGZFcw?oc=5",
    "fecha": "2026-11-14T22:05",
-   "equipo": "Greece",
-   "tipos": []
-  },
-  {
-   "titulo": "Grecia vs Serbia jornada 6 grupo 2 Liga A UEFA Nations League",
-   "fuente": "SportyTrader",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJSEpXeXkyTUZJNF9Wa0FMT181SHcwMmZPT0NWRDBBZ3J1dlpSaFlwZEhuUVR6V2F4Z015dVNGWHNMd3EyMEFyTXotMXQ2SHgwcGFZMFRHUmVDSWNoNzZWV2pzVmhrVUtLcTFtOFJ4cUxONzg?oc=5",
-   "fecha": "2026-11-14T20:45",
    "equipo": "Greece",
    "tipos": []
   }
@@ -487,38 +473,6 @@
    "fecha": "2026-11-14T22:00",
    "equipo": "Norway",
    "tipos": []
-  },
-  {
-   "titulo": "Noruega se impone a Gales y busca los cuartos de final de la Liga de Naciones de Europa",
-   "fuente": "El Universo",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1g2d1RhS2NYNHowLVZVYkFzcnNod1FJQ19tVURwem5pTWpZcGZFeGFnTWdVZFZ6N2xzT0syWm9iNjlDQ2ctYUhiUVVsdnRKUVRSLS14ck9aRC1Qallmd19BN0R4Q2tLb0JRdWNfQWkxVGhUSERTYUNDaHpkSGRJdDc0WUZMc0xnSklMZm9TY1UwdElrVG1oOFlya3FaUjBMNWY0VlVaVXZFLURFeHVKNWxFdi0zNGVqVG1lS0xyNy1nZ0tFeXJ3QzVyX1_SAeABQVVfeXFMTTdzZEdPdHpyQVlZUEszcWJmSjF3NFF6cGVMX0dLTUpHdm1LUFFXWV9oODRCSEIteHg1TzZ2N0tqNXN2T2U0OUh1VEJLejh6cVhGWXE2cmhTQ2hzMGQ1MUVCRjdWMlZ1UVA4eXBuMmQwcG1LM1AzeUQ2YmpPc0hUV1lic2MyMGU5OUM5QmZTMmtTVWtiVUE1TVU1am5ZV3hFRjJnelZ5RWkwVzNnRVJ0Mno5S01uWVVLcHdWM0pLTE96dy1PbmFCRTBSTWxQN1hfSG9QYmxIdWN2QnR3WmNNSTA?oc=5",
-   "fecha": "2026-11-14T20:34",
-   "equipo": "Norway",
-   "tipos": []
-  },
-  {
-   "titulo": "Noruega despierta en la segunda mitad y derrota a Gales en Oslo",
-   "fuente": "UNANIMO Deportes",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFR3QWhmZHRpNTYtQWhaVGx0djBXYTlubWpncHRkRk5NMUZUSXRUVUJCNmJkWDJkVS1tWDF2SWh5S21lSE5jVHRaeDA5OXhnVkNodWhJb2VkNERGNTBTZzBHZVFIWHlydjdVWERJclJEeXpZQjk0RldCWmhRb1pHaGRyY2Y?oc=5",
-   "fecha": "2026-11-14T20:22",
-   "equipo": "Norway",
-   "tipos": []
-  },
-  {
-   "titulo": "Noruega resucita en la Liga de Naciones con un 3-1 ante Gales",
-   "fuente": "Revista La Liga",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTFjMTd2V3pfLVVvTW1aZ2JTbmJ1dW8wUWxNTmFvNDUyeXI3N3RZRENCNzdYWEExSkl6MWF2YVRoSzBOWFU3WjhpVmxrR2Y1blQ3T2hnN1FzbTJzWDdQTTR4VldyTmF5Y1p2amRHWXprOU5lNXZpeDN4MlhFUEpMQkFheUlPU3FaYS1vLXY0UTZmUQ?oc=5",
-   "fecha": "2026-11-14T20:20",
-   "equipo": "Norway",
-   "tipos": []
-  },
-  {
-   "titulo": "Con gol y asistencia de Haaland, Noruega acaricia los cuartos de final de la Nations League",
-   "fuente": "Olé",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYktub0Mwd3p3UV9ZQ05tcy1MZjQ4anEzTkRQVE9yMnNtdWR0aTBRVl9uUVZ3VkFENWxERkxBWDRTblhaSk02aWtVbWxGSnJVSWxScC0yUFVJNVdfN2tBWDZIdDI0VTMyNDJZSHE4c0RmamdoMlFMSEpiYzV2MU1mUDJZVjJPS2VhR1VFTFY0amp6elR6cnk4a2k5REcxcE8xSHpSLQ?oc=5",
-   "fecha": "2026-11-14T20:17",
-   "equipo": "Norway",
-   "tipos": []
   }
  ],
  "1528999": [
@@ -601,38 +555,58 @@
  ],
  "1545662": [
   {
-   "titulo": "Marc Pubill también se lesiona y es el tercer imprevisto del Atlético de Madrid en el parón",
+   "titulo": "Los detalles de calidad de Ronaldinho en su regreso al fútbol profesional: la magia nunca se pierde",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHN1SjRvZmFBZTBJVjhyRFUwb2VsN1J3TWh0UkVHaDJaXzE5LV9nQWxVZW1TUFhsTEd1NXdWSVZwUUdKcDE2TFRUYmNRNFhqVlROUWF2VXotRVB2UVU5ZmF4VkJNb3RySHBZYUFFRTAwQTBzX21adlJhN0FxaDk5ZksyVU40MEdIbW1kbTlSNTUxX2RvQ1FpbXhpWF9PQnU4S3JadHFPNWlmamVGUUdicGl0ZnhCd0ZJMjVtMzh2cWlrTmpIcUtZWlBoWFgyWnFpT2lhejJ4Tkk?oc=5",
-   "fecha": "2026-11-15T21:36",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFBUW5jblhzTmJWaS1MRzY5ZHVfbXFaX2x0RURCYWdYWDFxTmN1Mm9aYzlyc2NEZ2c3a1hfVXVvQXZobkNJQ2NTWHV4d3VUNzh6d1JyMXhGdl90M3ExVkhNVVJvaGVCQzlVNVctR3lnYUxud1RFWGtzMVNCMm9iTi1RZjJaVWFRcFZxWUdQcG8zVG0wLVNDNVJYSGV2MUlpT0FJbU1aaE9lMDVpTlpoWXlfQ2NWRmN2aEdKbEVnV2NybkJ2?oc=5",
+   "fecha": "2026-11-16T09:00",
+   "equipo": "FYR Macedonia",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "El plan del Valencia CF para el parón: repaso a la enfermería y a la agenda de los internacionales",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUhxNUZsanJRSU52ZThvWE5XY3dRUXkwVXotR2V5MjBkbTdMeDdmeDFNQmROOGRnanYwYVJ3WDN5ZFZHMUhrOWJZdjEyaWxjenhVckNkN1JTTlJOVUVGVnp3OXZDTkdpUGdzXzk5NFdUT0NUczFRRkdTcEpSbWF2T3Zia0NRcFN2ZTY2VVNGcTZNTFdLdERvVjNBLWUwOGFzYmZQcWpYd0tzRWJZbVZ0ell0R0llRjFULUhDYkRCVXJ3QQ?oc=5",
+   "fecha": "2026-11-15T09:09",
+   "equipo": "FYR Macedonia",
+   "tipos": [
+    "cansancio"
+   ]
+  },
+  {
+   "titulo": "Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2gyanlLVklBYWZwem56VnZTQWZwQmRzN0JRLXZ2dW43bWRoRk5FVjh0SGUzQ1U4S3U2b3A1YlllRG8yTjRBTjR4U0Q5eV91cW9YNnluSWFzVHRaMHlXS3QtbFdiX2lDTFlGczdnTjc4a3BTVkFoRXJocXJmd1R0cTlIQTlqM3ZjckN5SDZGc1hFNUJTVEVDYjZsWlBieGdsc0ZxVTZQZVVmeXRRTktlRmJYOUFxT3hMRFNV?oc=5",
+   "fecha": "2026-11-15T08:34",
    "equipo": "Slovenia",
    "tipos": [
     "baja"
    ]
   },
   {
-   "titulo": "El análisis en frío de García Plaza del Real Madrid-Sevilla: \"Entiendo al árbitro y al VAR\"",
+   "titulo": "Debacle mayúsculo en la nueva 'era' de Portugal sin Cristiano Ronaldo: goleada sin el liderato asegurado",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUN0OXpvQmVDMktuRllMUC16Unk4Zll5SDJxbVNNR3JPaEJFa1hsR28wY2E1QUhNWUUxRllrNFVNZUlJa3pVSEVobkV3a0Vta3Z3VVZndnVKdUZqVVg3cV9PQkplV3lFYlJvTGZLYXZ0ankwR3pYVDExQ3lhWWtSRDFmN3JnOVMtZWUwejdvdlpJaHh4XzhPbGhJRFJyRFZmZ3FWalU0M0tORVBwRktHU2E2UzRRUEdZb0VYLXctT2hjRWFQZmg0bElSWk52b0E?oc=5",
-   "fecha": "2026-11-15T09:32",
-   "equipo": "FYR Macedonia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXhWVWFPYXE2aGJidTlIdGFTTS1KMTNwTVNjcVJXVUtKdm05MzFvRzBDbmpVNlZSMGpxYzRDQ0dfVWpRQkdVZlRKZEZuN1VkOFotRjB6aU5tRTdGMXpwYjR3TGV0Y1hDTUN6U05kdnhTMG0wcTd6Wm5NQWlQVmdNdW9YN0luaFBIOTdHZmhTZXNaMFNtUTBnbnQ3QlYzY3I1dUZ0OU5xZHluc1ZJOTNvaUs0VkFfNUNJY29MSA?oc=5",
+   "fecha": "2026-11-14T23:23",
+   "equipo": "Slovenia",
    "tipos": [
-    "arbitro"
+    "motivacion"
    ]
+  },
+  {
+   "titulo": "Cuándo será el partido de la Selección Española para despedirse de Mestalla y posibles rivales",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWZ5NXVUbWpybGZsVkNwXzF6dmgwY1dlc2RfSTZTbERIeHV0eHlyVjVkeFgyOWM3SDBDaWQtZk9mVTJzdWtWc1JubWN2eFNiXzhJZFVmdE1oTlRBZTAzMHRIMXkwUk1UcmRsYXpKUjJESU1VSTA5UFhXRS1KV3p1ZVZrdkpZSUtaTnVSdnp0eFlkNkN6LWh1T2FQM090VTZNSjZyM1l1WEZNdEtzajZzTVMybG9YOXRfaGxiM01qRGs?oc=5",
+   "fecha": "2026-11-16T08:41",
+   "equipo": "Slovenia",
+   "tipos": []
   },
   {
    "titulo": "La burla de Lamine Yamal a Elliot Anderson tras su penalti y expulsión: \"Tonto, tonto\"",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFlNRzhqOVNEMFJvSGlKZVY3YXA0bGdEaVQwWS04NEQzQ1JxZHhvNkFhWHhjRTgzb3dvZlBWdW8xOTNOWjdzbVFxVUZzYmFReXZBcmRvT3VxTWw5TWt0d1NWdVQ0b3dNS3NtZl9rY2FFX2VnckM2bFBiZ184R2RoSmtrbDIyUEFfbzVVdVZPV1VTc2lvUkV2Z2s1dzJrcGFWb1FqMjhSZU9YX0ROeTFWZkpvdDNJUjQ?oc=5",
    "fecha": "2026-11-16T06:45",
-   "equipo": "FYR Macedonia",
-   "tipos": []
-  },
-  {
-   "titulo": "Bellingham y Cucurella, recriminación y empujón en la tangana al descanso del España - Inglaterra",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXVPTjJzU3A1c1lPdUtLWXkzT2JyUEEzYUhPWldYV3dET28yeERIbXo2VzRydnRsOGgxbmlUTUNXM19FMHdMbzg5Unh1ZF9jU1BKWDBGY3NoQTd3d2lZcXFMNW9rR2ZpWWRsTC1la2F0WnNYSHJ3azNvRnNjVkhjeFc2dHE5Y3JTemFFUHFuNUVmeXJfd1UxOEk3RVQ3Szlaa1ZOendfLUtRek1pMnJqQWJobnlkSXNlT1R5RnVnSFJVeVlvek53?oc=5",
-   "fecha": "2026-11-16T00:41",
    "equipo": "Slovenia",
    "tipos": []
   },
@@ -677,19 +651,11 @@
    "tipos": []
   },
   {
-   "titulo": "Troy Parrott y un mensaje directo a Pellegrini: \"Cada minuto de cada partido\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUo3V3FBT1hhR2JxMmJ3bGtKTTVDdUlxbW5HMG1wZzdtUFZGTVdXdG8xNjRJT3VwWXFTXzkya3Ixc2ltMWlFbHo3cC1EZW1yRHRNdk5aREZjSEcwSldvN0Q5Y3pBdTBMRlk4SjBtcnFsSGNWOTM2Qk9hOEwzcmxDbmZYZ1lXeVY2SmhvNDV1Y3FQNjR6eVd2ODE4OFdUWkFCbWVtZ2RPWTFEb29OekF5TnBRanljdDI4Tmc?oc=5",
-   "fecha": "2026-11-15T22:13",
-   "equipo": "Slovenia",
-   "tipos": []
-  },
-  {
    "titulo": "Las redes reaccionan a la pitada del Metropolitano al himno de Inglaterra: \"Hay que tener honor\"",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2JNQUV3U2VpVzU1d09fUlRUM0l2NjZ5X3J1LXFiOXF4M29rbGVVSi1EMHdzZGpPZVB0azJlbGJSSVlQRmFxdTltVGJjd1ZxMFQtQjlkTTZuVTlkZzczay1OZW5TS0hsYmxEYkpsVGVrT21JY29QcVV1Q2wyUzdZYW10ek9LbzFKYmpEbDkwXzhGaGhQZl9EY3RBd0tRNmRVR0lueHE1UV9LWHhBZDFWbkdRaG9kLUVTOEx0R1JSSQ?oc=5",
    "fecha": "2026-11-15T21:46",
-   "equipo": "FYR Macedonia",
+   "equipo": "Slovenia",
    "tipos": []
   },
   {
@@ -725,6 +691,14 @@
    "tipos": []
   },
   {
+   "titulo": "El fútbol vuelve al Heliodoro con un precioso homenaje dedicado a Jesús de Miguel",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0tLTVpBVENoQmljQkZXWW1WeUpONDVUNXNDdDBPRC1LU1UwU1k4b1d2S3AtRS1iVi1KWW50Mi1jSE9UNndzYi1KQ1R1Q0xjMDNyVXRhZUFmd1I3azZSMGNyc0JiRlhoM3FRQTRWQl8yYnlYenlxOU5UVW92SFROVzRyMkpYQ2NtWU44UHEtYmxodXF3RHdQZy1hRTk0dGZ6UDY3bkhyWHRfMHhuTEtiekdBWkFXOFlJQ0lr?oc=5",
+   "fecha": "2026-11-15T14:26",
+   "equipo": "FYR Macedonia",
+   "tipos": []
+  },
+  {
    "titulo": "Julen Lopetegui no renovará con Qatar para coger \"un proyecto de nivel\" en verano",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnN0WEJ1aEZFT0RudnZlczg1YWF1YUZ3ckxFRmQ3UWZnMmxKNGVzQlJERExwYUtLb1FDRDlqZmVyUlFPN1k3LTZNeFVjcWc2dlRJR3lXQk9jMjIzM3BFYXdHbmR0Vi1jYTVNN2hyS2FpSG1KVy1vUU41blU1OHRNS0lOWlVVa055UDUwWnE5VWgyUVRGMFlWdEdZTDJIM2ZrOW1lcjFsMEhOZ1hpN2EySVc2MUZQU0h4emxoeHVn?oc=5",
@@ -733,11 +707,19 @@
    "tipos": []
   },
   {
+   "titulo": "Polémica en la celebración de la selección de Euskadi: \"Español el que no bote\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREREMXJaNGE2TXBUM3QyWVoxUmZLb3c4WUtBYTdKNm5LalE3OEx3NFVMVXA5Z2RGMVhlcG9PcUtBeDZrZlduM2RBWm5uWkE1LW5OR0ZrMHBnOGpVMzZNVlZEeVJ3SGtEeGtkTFQ2SDVWVGxZendjT2xocHJLa1hCa1YtcDllaXNqVTlnWTdycjZ1RkVPRWxGdWFQdW1MZkU1alNPd1pWUmQ?oc=5",
+   "fecha": "2026-11-15T12:15",
+   "equipo": "FYR Macedonia",
+   "tipos": []
+  },
+  {
    "titulo": "Álvaro Valles no tendrá minutos con la Selección",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczBkODJJb0U1QkR1UHZwSERtX2R4YXdyNzY1c1JKaE00blpqaVFlWl9lNmNacXFyWVU5M3JNV0NFSEJRX1Q1akNnZjdrcU1CdzdMSEpjaUtIaWhnQXY0SEhwWnJFdFF2aTZlWEpaRUtfQnhvem1od0xMUlBHNDZlQkJNaW0xbjhXNlYyeGZmSW5USmJiU0NnMlhCNnNxbmRqNFAwUHFMbVExMjVOdzBrX3plNVo2Y0M3c1F0MEpuVUw2ckZMdm1CRkxFY09OMDFhak9R?oc=5",
    "fecha": "2026-11-15T09:54",
-   "equipo": "FYR Macedonia",
+   "equipo": "Slovenia",
    "tipos": []
   },
   {
@@ -755,26 +737,46 @@
    "fecha": "2026-11-14T22:34",
    "equipo": "Slovenia",
    "tipos": []
-  },
-  {
-   "titulo": "Portugal cambiará cómo se escribe el número 7 para honrar a Cristiano Ronaldo",
-   "fuente": "Hartford Courant",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOVJjN2FnZW1RNTVia3dLSWF2WFhCYTJ1VUw0NGZQbWFrNWlHSUthMDhvNWJLY3A2OW54bFNNS0R3Snltc3N0U3QtTmlGWHl3aUhUclFnMEZYNy1OcDVwcjdkTlFxbDBicHdtRXV0eVR3MkxZRzIzczlyN2lkdDBOdWJVbVBtWF96WjhRZU42ZTFtdlJFeDV1Z1R0ZDNScHcxMW81a0plYmpKUmRxSzVj?oc=5",
-   "fecha": "2026-11-14T20:42",
-   "equipo": "Slovenia",
-   "tipos": []
   }
  ],
  "1528989": [
   {
-   "titulo": "El análisis en frío de García Plaza del Real Madrid-Sevilla: \"Entiendo al árbitro y al VAR\"",
+   "titulo": "Los detalles de calidad de Ronaldinho en su regreso al fútbol profesional: la magia nunca se pierde",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUN0OXpvQmVDMktuRllMUC16Unk4Zll5SDJxbVNNR3JPaEJFa1hsR28wY2E1QUhNWUUxRllrNFVNZUlJa3pVSEVobkV3a0Vta3Z3VVZndnVKdUZqVVg3cV9PQkplV3lFYlJvTGZLYXZ0ankwR3pYVDExQ3lhWWtSRDFmN3JnOVMtZWUwejdvdlpJaHh4XzhPbGhJRFJyRFZmZ3FWalU0M0tORVBwRktHU2E2UzRRUEdZb0VYLXctT2hjRWFQZmg0bElSWk52b0E?oc=5",
-   "fecha": "2026-11-15T09:32",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFBUW5jblhzTmJWaS1MRzY5ZHVfbXFaX2x0RURCYWdYWDFxTmN1Mm9aYzlyc2NEZ2c3a1hfVXVvQXZobkNJQ2NTWHV4d3VUNzh6d1JyMXhGdl90M3ExVkhNVVJvaGVCQzlVNVctR3lnYUxud1RFWGtzMVNCMm9iTi1RZjJaVWFRcFZxWUdQcG8zVG0wLVNDNVJYSGV2MUlpT0FJbU1aaE9lMDVpTlpoWXlfQ2NWRmN2aEdKbEVnV2NybkJ2?oc=5",
+   "fecha": "2026-11-16T09:00",
    "equipo": "Lithuania",
    "tipos": [
-    "arbitro"
+    "baja"
    ]
+  },
+  {
+   "titulo": "Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2gyanlLVklBYWZwem56VnZTQWZwQmRzN0JRLXZ2dW43bWRoRk5FVjh0SGUzQ1U4S3U2b3A1YlllRG8yTjRBTjR4U0Q5eV91cW9YNnluSWFzVHRaMHlXS3QtbFdiX2lDTFlGczdnTjc4a3BTVkFoRXJocXJmd1R0cTlIQTlqM3ZjckN5SDZGc1hFNUJTVEVDYjZsWlBieGdsc0ZxVTZQZVVmeXRRTktlRmJYOUFxT3hMRFNV?oc=5",
+   "fecha": "2026-11-15T08:34",
+   "equipo": "Lithuania",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Debacle mayúsculo en la nueva 'era' de Portugal sin Cristiano Ronaldo: goleada sin el liderato asegurado",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXhWVWFPYXE2aGJidTlIdGFTTS1KMTNwTVNjcVJXVUtKdm05MzFvRzBDbmpVNlZSMGpxYzRDQ0dfVWpRQkdVZlRKZEZuN1VkOFotRjB6aU5tRTdGMXpwYjR3TGV0Y1hDTUN6U05kdnhTMG0wcTd6Wm5NQWlQVmdNdW9YN0luaFBIOTdHZmhTZXNaMFNtUTBnbnQ3QlYzY3I1dUZ0OU5xZHluc1ZJOTNvaUs0VkFfNUNJY29MSA?oc=5",
+   "fecha": "2026-11-14T23:23",
+   "equipo": "Lithuania",
+   "tipos": [
+    "motivacion"
+   ]
+  },
+  {
+   "titulo": "Cuándo será el partido de la Selección Española para despedirse de Mestalla y posibles rivales",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWZ5NXVUbWpybGZsVkNwXzF6dmgwY1dlc2RfSTZTbERIeHV0eHlyVjVkeFgyOWM3SDBDaWQtZk9mVTJzdWtWc1JubWN2eFNiXzhJZFVmdE1oTlRBZTAzMHRIMXkwUk1UcmRsYXpKUjJESU1VSTA5UFhXRS1KV3p1ZVZrdkpZSUtaTnVSdnp0eFlkNkN6LWh1T2FQM090VTZNSjZyM1l1WEZNdEtzajZzTVMybG9YOXRfaGxiM01qRGs?oc=5",
+   "fecha": "2026-11-16T08:41",
+   "equipo": "Lithuania",
+   "tipos": []
   },
   {
    "titulo": "La burla de Lamine Yamal a Elliot Anderson tras su penalti y expulsión: \"Tonto, tonto\"",
@@ -785,18 +787,18 @@
    "tipos": []
   },
   {
-   "titulo": "Watch Lithuania U19 vs. Germany U19 Live Stream Online | DAZN ES",
-   "fuente": "DAZN",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamZmRmNuUFV0SVotYTRnTC0wWlJDcjhoUUdaVTdLcHRyYkVLNHB1RDgwVllqQlc4bm1XXzZXekJJWjQtUmpoUG40Nm5zTXcwcEFMT3FXX1VGcGtjSEZ2dTlQRXlNRV9nR2NLTXZ4MkJ1Zk5FTVlqSWZhQUlDQ29sRVJ3ZGthQ3dlQjZJNmdR?oc=5",
-   "fecha": "2026-11-16T00:52",
+   "titulo": "Lituania vs Liechtenstein",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVUt3YVNYMnNtQlhIdTZoSTdwbTVFcW5UN2Q5Tkx5TlBIWV8ybjU4QV94RUtsOERXY2h5VUFtdDJMM1liWjl4UjlCUExUSXJKQ0xScXBCbi1iRF93dFd0NUZ2a2k1MWlBWUZ4VkViUzhJNFRidi1Kb0gyNmZQS1kwdUQwdTV0aHZQU3FkVWoweTNzWWcyZ1lpb3pVTVJjLUVra0Q1Q3IySQ?oc=5",
+   "fecha": "2026-11-16T06:35",
    "equipo": "Lithuania",
    "tipos": []
   },
   {
-   "titulo": "Bellingham y Cucurella, recriminación y empujón en la tangana al descanso del España - Inglaterra",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXVPTjJzU3A1c1lPdUtLWXkzT2JyUEEzYUhPWldYV3dET28yeERIbXo2VzRydnRsOGgxbmlUTUNXM19FMHdMbzg5Unh1ZF9jU1BKWDBGY3NoQTd3d2lZcXFMNW9rR2ZpWWRsTC1la2F0WnNYSHJ3azNvRnNjVkhjeFc2dHE5Y3JTemFFUHFuNUVmeXJfd1UxOEk3RVQ3Szlaa1ZOendfLUtRek1pMnJqQWJobnlkSXNlT1R5RnVnSFJVeVlvek53?oc=5",
-   "fecha": "2026-11-16T00:41",
+   "titulo": "Watch Lithuania U19 vs. Germany U19 Live Stream Online | DAZN ES",
+   "fuente": "DAZN",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamZmRmNuUFV0SVotYTRnTC0wWlJDcjhoUUdaVTdLcHRyYkVLNHB1RDgwVllqQlc4bm1XXzZXekJJWjQtUmpoUG40Nm5zTXcwcEFMT3FXX1VGcGtjSEZ2dTlQRXlNRV9nR2NLTXZ4MkJ1Zk5FTVlqSWZhQUlDQ29sRVJ3ZGthQ3dlQjZJNmdR?oc=5",
+   "fecha": "2026-11-16T00:52",
    "equipo": "Lithuania",
    "tipos": []
   },
@@ -845,23 +847,7 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUo3V3FBT1hhR2JxMmJ3bGtKTTVDdUlxbW5HMG1wZzdtUFZGTVdXdG8xNjRJT3VwWXFTXzkya3Ixc2ltMWlFbHo3cC1EZW1yRHRNdk5aREZjSEcwSldvN0Q5Y3pBdTBMRlk4SjBtcnFsSGNWOTM2Qk9hOEwzcmxDbmZYZ1lXeVY2SmhvNDV1Y3FQNjR6eVd2ODE4OFdUWkFCbWVtZ2RPWTFEb29OekF5TnBRanljdDI4Tmc?oc=5",
    "fecha": "2026-11-15T22:13",
-   "equipo": "Lithuania",
-   "tipos": []
-  },
-  {
-   "titulo": "Las redes reaccionan a la pitada del Metropolitano al himno de Inglaterra: \"Hay que tener honor\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2JNQUV3U2VpVzU1d09fUlRUM0l2NjZ5X3J1LXFiOXF4M29rbGVVSi1EMHdzZGpPZVB0azJlbGJSSVlQRmFxdTltVGJjd1ZxMFQtQjlkTTZuVTlkZzczay1OZW5TS0hsYmxEYkpsVGVrT21JY29QcVV1Q2wyUzdZYW10ek9LbzFKYmpEbDkwXzhGaGhQZl9EY3RBd0tRNmRVR0lueHE1UV9LWHhBZDFWbkdRaG9kLUVTOEx0R1JSSQ?oc=5",
-   "fecha": "2026-11-15T21:46",
-   "equipo": "Lithuania",
-   "tipos": []
-  },
-  {
-   "titulo": "Alineaciones confirmadas de España e Inglaterra en la jornada 6 de la UEFA Nations League",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlDRFNCemt1aVNvNHpRWnFuS0xMMEEtS0tVX1NvWExfd2oxbUVZOHNiTGxQMGN3X01WRGdaVVhPVjM1aGdCbGhlZ1RDVk1JV0JZZjFLQjBhM3ZZV0d4Y01SY3dFZWZDOWFJazUyemNaRDFOek0zYUFtb3pwTEhwQWl2SDBpeUVRQi1FY1FTVGR3R1VzQ3VLeUFFVmZ4MWNvQTZaUFZ3WGE3VHhKT3BxSkUxczdINjQyenBV?oc=5",
-   "fecha": "2026-11-15T19:22",
-   "equipo": "Lithuania",
+   "equipo": "Liechtenstein",
    "tipos": []
   }
  ],
@@ -889,22 +875,6 @@
    "fecha": "2026-11-14T22:38",
    "equipo": "Ukraine",
    "tipos": []
-  },
-  {
-   "titulo": "Irlanda N 1-0 Ucrania (14 de Nov., 2026) Estadísticas del equipo",
-   "fuente": "ESPN México",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEFsZHJ2VWJmTmsta0pUbjRmMnVmeFpZSG11NkNlVHZ2aUNqdkxuaVlEUlZET2JqRkdGcWMxYjg3NzFXXzQ4V3ZDMEFMM1NEOWZYTzBQWHV6bEQtMmJDWU1YVkJ1VGgzSlJTNmJVdjNxbDVCcTlzN29DRGh5b21LYUlPRC1WUHZVSVRPTnpOMkRRT1E?oc=5",
-   "fecha": "2026-11-14T20:46",
-   "equipo": "Ukraine",
-   "tipos": []
-  },
-  {
-   "titulo": "Hungría de Szoboszlai derrotó a Georgia en Nations League",
-   "fuente": "PrensaFútbol",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvdEt6UGpkaGNmR0tyQm9rYThOdi1xd0VZQzRncmNaV1BHZDliTHNaNllEdVZKbl8tN1FvOTFJUS1wdE5YdFFWM2d4R0RBUDdGOVJMVHM5Ukl6YmxVN2tBdmtFaEdhVEJCWTBFWW1pSmliSU9ldFQ0T2E5dlJ1Zw?oc=5",
-   "fecha": "2026-11-14T20:16",
-   "equipo": "Georgia",
-   "tipos": []
   }
  ],
  "1545652": [
@@ -916,16 +886,6 @@
    "equipo": "Switzerland",
    "tipos": [
     "motivacion"
-   ]
-  },
-  {
-   "titulo": "Protestan en Contra de Centros de IA en Escocia",
-   "fuente": "N+",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmEyMmFvVVd0UWZxSEd0UGJHeGZ3ZnQ2aUMwdUk4bXlaU3lqNWl3NEg4VndwSUNJM1hUeFcxdmlBTW5YcGhCX19kNEc3NzdvTzg1MHE2WlpiTTNPTkdaSmp1dFdDQ09NR1VFTWdDODZrNXVkUGNCX1dkTkpnbmtoRGRXQkFGdGo4dTdjNWFpSQ?oc=5",
-   "fecha": "2026-11-15T00:26",
-   "equipo": "Scotland",
-   "tipos": [
-    "crisis"
    ]
   },
   {
@@ -941,14 +901,6 @@
    "fuente": "Facebook",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUmdYRnlzZi1YWkw0cWJMd2RzT0RJM1RLNDhCYlVrVXZGUlNRTk1PcVZuSWRnWXlaNm9DYkVMc2VZc0ZRYkhhMlhjcnJfeVlUV1QtWnpNS3AwWTIwMWduMkNyM3ZzZ21TTmhoUFhGZFZnQ0IwY2xyalM2VUNrRXNEaHVOb1RaaVZsQXNRdGtBZTRXdm9TV0VzelFzR3JlcDNOUFZlZkMxMVdMTVBtTGhqUHJiQU5kWmdNQy1sQXpibTZrN1NPVDVzTlhJVzEyTlBxUjZRWUFEQ1VSa3JvNjFyd3Foa1FwM3pz?oc=5",
    "fecha": "2026-11-16T00:13",
-   "equipo": "Scotland",
-   "tipos": []
-  },
-  {
-   "titulo": "Resultado de St. Mirren Reserves 1 - 2 Peterhead (03/11)",
-   "fuente": "365Scores",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemlIM2lCa3F6VEw4NmkxdUZnc0FZQTEyOEwzNEFvUFFYbE9SV2lMQTNBQ3JHN2FvQ0RxQ1pmYUJWalpUWEM2ZFRHME1nZ1VQc1dPcTlfeG5ReDJRZTVpSGlKd0wzRHVRZFUteEsxSmVLekpmZXhqYU5RTVcwSy1qTGd0ZHlqUElub3IzeUNpdEhsTTZ5eWlBSk4zYjFGdWt6aXgtQzFYQndMV1k?oc=5",
-   "fecha": "2026-11-15T19:56",
    "equipo": "Scotland",
    "tipos": []
   },
@@ -1003,30 +955,6 @@
  ],
  "1528987": [
   {
-   "titulo": "La burla de Lamine Yamal a Elliot Anderson tras su penalti y expulsión: \"Tonto, tonto\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFlNRzhqOVNEMFJvSGlKZVY3YXA0bGdEaVQwWS04NEQzQ1JxZHhvNkFhWHhjRTgzb3dvZlBWdW8xOTNOWjdzbVFxVUZzYmFReXZBcmRvT3VxTWw5TWt0d1NWdVQ0b3dNS3NtZl9rY2FFX2VnckM2bFBiZ184R2RoSmtrbDIyUEFfbzVVdVZPV1VTc2lvUkV2Z2s1dzJrcGFWb1FqMjhSZU9YX0ROeTFWZkpvdDNJUjQ?oc=5",
-   "fecha": "2026-11-16T06:45",
-   "equipo": "Faroe Islands",
-   "tipos": []
-  },
-  {
-   "titulo": "Unai Simón lanza un reto a todos aquellos que se mofan de España y el fin de su racha: \"Quien quiera, que lo supere\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEpQcEtGSTRiYVJXaVo2VlhWa1FQRXV2UENieS0wYWNfNWtlWFpRekpNelUwUEJtNHBsYllRRHRHZEdQVzV1MjA4cnhKT2NPMEltakItWnNaYmRwRUNmRHozNXVZSmlwMGd4NFFMWElKY0Q4Ym1DZlFZNFh5VWdMT2JEYnJxcHE1QzBtREZxQU5oNE5qWHlIaDAxYkJ2TTlsZ3gwN3BRYVl4Vzg?oc=5",
-   "fecha": "2026-11-15T23:52",
-   "equipo": "Faroe Islands",
-   "tipos": []
-  },
-  {
-   "titulo": "Mikel Oyarzabal pone en valor los méritos de España y muestra su pesar: \"Momento difícil\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVNmMmxGajhFTmVfRG93eTB0T1NhUlZxN3BsYmdZQlFZdWJidm1LeXFjWWFDTTNqblJGSDZwX1pLZVFSc0Y0bW1zdEVhckRkZ2s4V2tlSmt5Zi1rY0EtTnZULUVRaHdFT3ZJc2FxVXAwVDBmdjZVU1JzY2FNMFhmd196c1FLNl9UWGtBTVRhRnBocE1JbzV1R1JvOFVuOGhzYUFkZHJwMC1Td2h0bTRJYjBWbl8?oc=5",
-   "fecha": "2026-11-15T23:31",
-   "equipo": "Faroe Islands",
-   "tipos": []
-  },
-  {
    "titulo": "Nations League 26/27: selecciones clasificadas para cuartos, partidos por jugarse y fecha del sorteo",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ1drZHhEaHAxWWt2R0l2OWdGX09SQmNEakRCWFFsTmZ4MVZ4YkEyaHFzRlpZVTg1SFc5ZEkxTno3MGJqTkpYY3dBZ0tBYVFOa09TcXlLcEY5Qy10TzB4WC15MllQNy0zdDNNV0lIRVhnNUZGWko5dEtPbUpWUm93R0NUNU9ISDdIZlZDYXB4c0Nac29nRVNXdFF1d0d1WVhrQ3BnMHg3SFNPY2NYZVo0N3U2TVB1d1k0ZXBBVzhXRzI4TEI2MEpjbl9GQlVyanpDN2VPWi1rZlVJcmluZkxJ?oc=5",
@@ -1043,11 +971,11 @@
    "tipos": []
   },
   {
-   "titulo": "Las redes reaccionan a la pitada del Metropolitano al himno de Inglaterra: \"Hay que tener honor\"",
+   "titulo": "Nacho Gil valora la victoria del Tenerife tras la muerte de Jesús de Miguel: \"Necesitaba empezar, estoy solo\"",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2JNQUV3U2VpVzU1d09fUlRUM0l2NjZ5X3J1LXFiOXF4M29rbGVVSi1EMHdzZGpPZVB0azJlbGJSSVlQRmFxdTltVGJjd1ZxMFQtQjlkTTZuVTlkZzczay1OZW5TS0hsYmxEYkpsVGVrT21JY29QcVV1Q2wyUzdZYW10ek9LbzFKYmpEbDkwXzhGaGhQZl9EY3RBd0tRNmRVR0lueHE1UV9LWHhBZDFWbkdRaG9kLUVTOEx0R1JSSQ?oc=5",
-   "fecha": "2026-11-15T21:46",
-   "equipo": "Faroe Islands",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkI1c2k1QlBwLW8zZ041SEdhaHhhSXJGUkVCN3Z6RmYwZzV4enBPdk9SVzFfT0RCak1Mdm5tcWMxZEdOV0QtOWJ2WHJGSXY1V1B6NDVoVlROLXpTTTZSYjJLZnEydDRucHYzYzFPM0czTWRtVkFxeVFhTUY2cFJnOEo2VTJkR0FNSXFoUXVEcDRrTnRrVkw3U3p3WTMxNGEwMGpYOU0ya29kczM2ZmROcVBpZGZGdVVw?oc=5",
+   "fecha": "2026-11-15T20:16",
+   "equipo": "Moldova",
    "tipos": []
   },
   {
@@ -1059,18 +987,10 @@
    "tipos": []
   },
   {
-   "titulo": "Mati Prats carga contra los cánticos en San Mamés y lanza un mensaje a la selección vasca",
+   "titulo": "El fútbol vuelve al Heliodoro con un precioso homenaje dedicado a Jesús de Miguel",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTRzVHBKdG1FR3NURmIzQ2llWUVBTXJkQ25FdmFRdmdVYWQxelg1eDRlZmMySUlJdmEwQzAxNG9VUEpHUTRZVjdBY29hNWZIMUJFcmZIZTJqV095VGZUbkF0emdPME1BZFk4Y1RudGkzY3o5LVN6endiRmNLaTA1YjVHV2lhNDBjS2VBVmpxcnVva2MyRUQ0ZGpnejBVaGdoeFZv?oc=5",
-   "fecha": "2026-11-15T16:30",
-   "equipo": "Faroe Islands",
-   "tipos": []
-  },
-  {
-   "titulo": "Julen Lopetegui no renovará con Qatar para coger \"un proyecto de nivel\" en verano",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnN0WEJ1aEZFT0RudnZlczg1YWF1YUZ3ckxFRmQ3UWZnMmxKNGVzQlJERExwYUtLb1FDRDlqZmVyUlFPN1k3LTZNeFVjcWc2dlRJR3lXQk9jMjIzM3BFYXdHbmR0Vi1jYTVNN2hyS2FpSG1KVy1vUU41blU1OHRNS0lOWlVVa055UDUwWnE5VWgyUVRGMFlWdEdZTDJIM2ZrOW1lcjFsMEhOZ1hpN2EySVc2MUZQU0h4emxoeHVn?oc=5",
-   "fecha": "2026-11-15T12:46",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0tLTVpBVENoQmljQkZXWW1WeUpONDVUNXNDdDBPRC1LU1UwU1k4b1d2S3AtRS1iVi1KWW50Mi1jSE9UNndzYi1KQ1R1Q0xjMDNyVXRhZUFmd1I3azZSMGNyc0JiRlhoM3FRQTRWQl8yYnlYenlxOU5UVW92SFROVzRyMkpYQ2NtWU44UHEtYmxodXF3RHdQZy1hRTk0dGZ6UDY3bkhyWHRfMHhuTEtiekdBWkFXOFlJQ0lr?oc=5",
+   "fecha": "2026-11-15T14:26",
    "equipo": "Faroe Islands",
    "tipos": []
   },
@@ -1083,45 +1003,39 @@
    "tipos": []
   },
   {
-   "titulo": "Álvaro Valles no tendrá minutos con la Selección",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczBkODJJb0U1QkR1UHZwSERtX2R4YXdyNzY1c1JKaE00blpqaVFlWl9lNmNacXFyWVU5M3JNV0NFSEJRX1Q1akNnZjdrcU1CdzdMSEpjaUtIaWhnQXY0SEhwWnJFdFF2aTZlWEpaRUtfQnhvem1od0xMUlBHNDZlQkJNaW0xbjhXNlYyeGZmSW5USmJiU0NnMlhCNnNxbmRqNFAwUHFMbVExMjVOdzBrX3plNVo2Y0M3c1F0MEpuVUw2ckZMdm1CRkxFY09OMDFhak9R?oc=5",
-   "fecha": "2026-11-15T09:54",
-   "equipo": "Faroe Islands",
-   "tipos": []
-  },
-  {
    "titulo": "Islas Feroe vs. Moldavia por el Liga de Naciones 2026: día, hora y cómo seguir online",
    "fuente": "La Nación",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRWN0a1haV2Nmb192ZVIxT245VzBRTzVtTkFLWFIzYWxuUTNwYTBZYU1ZQXM1ZnEtb3VpUi1UME5yMDZtbXNrU2pCQkUzbGlVcUxjaVN2djEzbFRSTUpmTnN0V3M4M2xhbUtGb2lodTk5ek9nWnR2Rjhpd25nZGc1MC1DOG95bnNfcUxWdWxoazlQQUlINUw4bTJzRkVGck1HUWlLS05ibUtSRHJZMl92TDBNeVNtZ2NBMm0tbkt1UGZqMmNRcnlhUG9TckJydFd0OUFjRjh3?oc=5",
    "fecha": "2026-11-15T06:01",
    "equipo": "Faroe Islands",
    "tipos": []
-  },
-  {
-   "titulo": "Ivan Rakitic se ofrece otra vez al Sevilla: \"Para lo que necesiten, en la tienda, con la UEFA...\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXo1SHZUWlhVdjg1MjlRWl9QcXdHMXZHU0R3TEdFcjhkSFd5Mjg4TFNkWmc1bFlWQWxsUkRJc0VTTHNzNFpMRzJmNGEtSzhGdTlONHpRemxCdjAtaEJNWHdrTzFUTWx4d0pVemlLbHBjWFFjVlRBaUhkemlHNGdDdXpTbVdWRDJfZWdSamRyT3ZHMVZWQi0xczFMLXpUMGFMTEZoWlNNeXhIMEVRNy1qNDJBTlBRVGtEWDg4?oc=5",
-   "fecha": "2026-11-14T22:11",
-   "equipo": "Faroe Islands",
-   "tipos": []
   }
  ],
  "1528986": [
   {
-   "titulo": "La burla de Lamine Yamal a Elliot Anderson tras su penalti y expulsión: \"Tonto, tonto\"",
+   "titulo": "Los detalles de calidad de Ronaldinho en su regreso al fútbol profesional: la magia nunca se pierde",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFlNRzhqOVNEMFJvSGlKZVY3YXA0bGdEaVQwWS04NEQzQ1JxZHhvNkFhWHhjRTgzb3dvZlBWdW8xOTNOWjdzbVFxVUZzYmFReXZBcmRvT3VxTWw5TWt0d1NWdVQ0b3dNS3NtZl9rY2FFX2VnckM2bFBiZ184R2RoSmtrbDIyUEFfbzVVdVZPV1VTc2lvUkV2Z2s1dzJrcGFWb1FqMjhSZU9YX0ROeTFWZkpvdDNJUjQ?oc=5",
-   "fecha": "2026-11-16T06:45",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFBUW5jblhzTmJWaS1MRzY5ZHVfbXFaX2x0RURCYWdYWDFxTmN1Mm9aYzlyc2NEZ2c3a1hfVXVvQXZobkNJQ2NTWHV4d3VUNzh6d1JyMXhGdl90M3ExVkhNVVJvaGVCQzlVNVctR3lnYUxud1RFWGtzMVNCMm9iTi1RZjJaVWFRcFZxWUdQcG8zVG0wLVNDNVJYSGV2MUlpT0FJbU1aaE9lMDVpTlpoWXlfQ2NWRmN2aEdKbEVnV2NybkJ2?oc=5",
+   "fecha": "2026-11-16T09:00",
    "equipo": "Slovakia",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Kazajistán vs Eslovaquia",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS25Jb1AtazZtcFhvdUF4eDY5R0ZTcFdUMzJjYlJCdkYzNmRlZXQ0VnlhWV9pdURGN2lYNnNuMFNDRkpvZG9qenJqcXc3RWhoZWFXdm00cFNNY1ctVnBOdVExbFNRNVBOZUx5NW9NMXBFYTBIZGtFckxLVEpXbVdLVlBTeDNqTTVFclR5bUxCMlpFWnFKYU5BQ0lJcF9TUEZLX05NLU93?oc=5",
+   "fecha": "2026-11-16T06:35",
+   "equipo": "Kazakhstan",
    "tipos": []
   },
   {
-   "titulo": "Mikel Oyarzabal pone en valor los méritos de España y muestra su pesar: \"Momento difícil\"",
+   "titulo": "Nations League 26/27: selecciones clasificadas para cuartos, partidos por jugarse y fecha del sorteo",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVNmMmxGajhFTmVfRG93eTB0T1NhUlZxN3BsYmdZQlFZdWJidm1LeXFjWWFDTTNqblJGSDZwX1pLZVFSc0Y0bW1zdEVhckRkZ2s4V2tlSmt5Zi1rY0EtTnZULUVRaHdFT3ZJc2FxVXAwVDBmdjZVU1JzY2FNMFhmd196c1FLNl9UWGtBTVRhRnBocE1JbzV1R1JvOFVuOGhzYUFkZHJwMC1Td2h0bTRJYjBWbl8?oc=5",
-   "fecha": "2026-11-15T23:31",
-   "equipo": "Slovakia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ1drZHhEaHAxWWt2R0l2OWdGX09SQmNEakRCWFFsTmZ4MVZ4YkEyaHFzRlpZVTg1SFc5ZEkxTno3MGJqTkpYY3dBZ0tBYVFOa09TcXlLcEY5Qy10TzB4WC15MllQNy0zdDNNV0lIRVhnNUZGWko5dEtPbUpWUm93R0NUNU9ISDdIZlZDYXB4c0Nac29nRVNXdFF1d0d1WVhrQ3BnMHg3SFNPY2NYZVo0N3U2TVB1d1k0ZXBBVzhXRzI4TEI2MEpjbl9GQlVyanpDN2VPWi1rZlVJcmluZkxJ?oc=5",
+   "fecha": "2026-11-15T23:21",
+   "equipo": "Kazakhstan",
    "tipos": []
   },
   {
@@ -1133,14 +1047,6 @@
    "tipos": []
   },
   {
-   "titulo": "Las redes reaccionan a la pitada del Metropolitano al himno de Inglaterra: \"Hay que tener honor\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2JNQUV3U2VpVzU1d09fUlRUM0l2NjZ5X3J1LXFiOXF4M29rbGVVSi1EMHdzZGpPZVB0azJlbGJSSVlQRmFxdTltVGJjd1ZxMFQtQjlkTTZuVTlkZzczay1OZW5TS0hsYmxEYkpsVGVrT21JY29QcVV1Q2wyUzdZYW10ek9LbzFKYmpEbDkwXzhGaGhQZl9EY3RBd0tRNmRVR0lueHE1UV9LWHhBZDFWbkdRaG9kLUVTOEx0R1JSSQ?oc=5",
-   "fecha": "2026-11-15T21:46",
-   "equipo": "Slovakia",
-   "tipos": []
-  },
-  {
    "titulo": "Alineaciones confirmadas de España e Inglaterra en la jornada 6 de la UEFA Nations League",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlDRFNCemt1aVNvNHpRWnFuS0xMMEEtS0tVX1NvWExfd2oxbUVZOHNiTGxQMGN3X01WRGdaVVhPVjM1aGdCbGhlZ1RDVk1JV0JZZjFLQjBhM3ZZV0d4Y01SY3dFZWZDOWFJazUyemNaRDFOek0zYUFtb3pwTEhwQWl2SDBpeUVRQi1FY1FTVGR3R1VzQ3VLeUFFVmZ4MWNvQTZaUFZ3WGE3VHhKT3BxSkUxczdINjQyenBV?oc=5",
@@ -1149,10 +1055,18 @@
    "tipos": []
   },
   {
-   "titulo": "Mati Prats carga contra los cánticos en San Mamés y lanza un mensaje a la selección vasca",
+   "titulo": "El fútbol vuelve al Heliodoro con un precioso homenaje dedicado a Jesús de Miguel",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTRzVHBKdG1FR3NURmIzQ2llWUVBTXJkQ25FdmFRdmdVYWQxelg1eDRlZmMySUlJdmEwQzAxNG9VUEpHUTRZVjdBY29hNWZIMUJFcmZIZTJqV095VGZUbkF0emdPME1BZFk4Y1RudGkzY3o5LVN6endiRmNLaTA1YjVHV2lhNDBjS2VBVmpxcnVva2MyRUQ0ZGpnejBVaGdoeFZv?oc=5",
-   "fecha": "2026-11-15T16:30",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0tLTVpBVENoQmljQkZXWW1WeUpONDVUNXNDdDBPRC1LU1UwU1k4b1d2S3AtRS1iVi1KWW50Mi1jSE9UNndzYi1KQ1R1Q0xjMDNyVXRhZUFmd1I3azZSMGNyc0JiRlhoM3FRQTRWQl8yYnlYenlxOU5UVW92SFROVzRyMkpYQ2NtWU44UHEtYmxodXF3RHdQZy1hRTk0dGZ6UDY3bkhyWHRfMHhuTEtiekdBWkFXOFlJQ0lr?oc=5",
+   "fecha": "2026-11-15T14:26",
+   "equipo": "Slovakia",
+   "tipos": []
+  },
+  {
+   "titulo": "Roko Jureškin, #TanNuestro",
+   "fuente": "CD Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yOTVPZjgtNUN2QndXMl9PR3VCNDhLVE1lbFZ5VUVxS2tSTXZETnFSa1Z5Q1JtU2doa1F3aV9USUpkS0x6UjNWWUpqZ1hPYjY4ZERyd29lRHhGak5LdDRkUmhVd2s5UHQ3LXJ1TTZqb1R3ZUNNN09tdTN3?oc=5",
+   "fecha": "2026-11-15T06:40",
    "equipo": "Slovakia",
    "tipos": []
   },
@@ -1167,11 +1081,31 @@
  ],
  "1545618": [
   {
+   "titulo": "Los detalles de calidad de Ronaldinho en su regreso al fútbol profesional: la magia nunca se pierde",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFBUW5jblhzTmJWaS1MRzY5ZHVfbXFaX2x0RURCYWdYWDFxTmN1Mm9aYzlyc2NEZ2c3a1hfVXVvQXZobkNJQ2NTWHV4d3VUNzh6d1JyMXhGdl90M3ExVkhNVVJvaGVCQzlVNVctR3lnYUxud1RFWGtzMVNCMm9iTi1RZjJaVWFRcFZxWUdQcG8zVG0wLVNDNVJYSGV2MUlpT0FJbU1aaE9lMDVpTlpoWXlfQ2NWRmN2aEdKbEVnV2NybkJ2?oc=5",
+   "fecha": "2026-11-16T09:00",
+   "equipo": "Gibraltar",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2gyanlLVklBYWZwem56VnZTQWZwQmRzN0JRLXZ2dW43bWRoRk5FVjh0SGUzQ1U4S3U2b3A1YlllRG8yTjRBTjR4U0Q5eV91cW9YNnluSWFzVHRaMHlXS3QtbFdiX2lDTFlGczdnTjc4a3BTVkFoRXJocXJmd1R0cTlIQTlqM3ZjckN5SDZGc1hFNUJTVEVDYjZsWlBieGdsc0ZxVTZQZVVmeXRRTktlRmJYOUFxT3hMRFNV?oc=5",
+   "fecha": "2026-11-15T08:34",
+   "equipo": "Gibraltar",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
    "titulo": "Debacle mayúsculo en la nueva 'era' de Portugal sin Cristiano Ronaldo: goleada sin el liderato asegurado",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXhWVWFPYXE2aGJidTlIdGFTTS1KMTNwTVNjcVJXVUtKdm05MzFvRzBDbmpVNlZSMGpxYzRDQ0dfVWpRQkdVZlRKZEZuN1VkOFotRjB6aU5tRTdGMXpwYjR3TGV0Y1hDTUN6U05kdnhTMG0wcTd6Wm5NQWlQVmdNdW9YN0luaFBIOTdHZmhTZXNaMFNtUTBnbnQ3QlYzY3I1dUZ0OU5xZHluc1ZJOTNvaUs0VkFfNUNJY29MSA?oc=5",
    "fecha": "2026-11-14T23:23",
-   "equipo": "Malta",
+   "equipo": "Gibraltar",
    "tipos": [
     "motivacion"
    ]
@@ -1241,26 +1175,10 @@
    "tipos": []
   },
   {
-   "titulo": "Julen Lopetegui no renovará con Qatar para coger \"un proyecto de nivel\" en verano",
+   "titulo": "El fútbol vuelve al Heliodoro con un precioso homenaje dedicado a Jesús de Miguel",
    "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnN0WEJ1aEZFT0RudnZlczg1YWF1YUZ3ckxFRmQ3UWZnMmxKNGVzQlJERExwYUtLb1FDRDlqZmVyUlFPN1k3LTZNeFVjcWc2dlRJR3lXQk9jMjIzM3BFYXdHbmR0Vi1jYTVNN2hyS2FpSG1KVy1vUU41blU1OHRNS0lOWlVVa055UDUwWnE5VWgyUVRGMFlWdEdZTDJIM2ZrOW1lcjFsMEhOZ1hpN2EySVc2MUZQU0h4emxoeHVn?oc=5",
-   "fecha": "2026-11-15T12:46",
-   "equipo": "Gibraltar",
-   "tipos": []
-  },
-  {
-   "titulo": "Álvaro Valles no tendrá minutos con la Selección",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczBkODJJb0U1QkR1UHZwSERtX2R4YXdyNzY1c1JKaE00blpqaVFlWl9lNmNacXFyWVU5M3JNV0NFSEJRX1Q1akNnZjdrcU1CdzdMSEpjaUtIaWhnQXY0SEhwWnJFdFF2aTZlWEpaRUtfQnhvem1od0xMUlBHNDZlQkJNaW0xbjhXNlYyeGZmSW5USmJiU0NnMlhCNnNxbmRqNFAwUHFMbVExMjVOdzBrX3plNVo2Y0M3c1F0MEpuVUw2ckZMdm1CRkxFY09OMDFhak9R?oc=5",
-   "fecha": "2026-11-15T09:54",
-   "equipo": "Gibraltar",
-   "tipos": []
-  },
-  {
-   "titulo": "Gibraltar vs. Malta, Liga de Naciones 2026: día, hora y cómo seguir online",
-   "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUNRVUk1cFBCRnk0bll4UWpyNEtEOUpHTHFFSVVHN0l6eWdCNGxqMGNTclZTWmlaZ2NWa3VDTlI5R0tINjJVZVA5RVRpd1lNSTBMcTFoaGM1SVVneEJ5WDRkdHdtMl83blFjSHFnMWhkTVBrVWdJYWxkTHMwTE5SSDhHZ01udG5wVVlYRldZZDdsQ3R3WXo3Ui1ScGNjWU0tM2ZSU1hEQ3R6VGw2Q0dBbDVzdDllVnZjWjNfM1VPSXNydFVIb2c?oc=5",
-   "fecha": "2026-11-15T06:02",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0tLTVpBVENoQmljQkZXWW1WeUpONDVUNXNDdDBPRC1LU1UwU1k4b1d2S3AtRS1iVi1KWW50Mi1jSE9UNndzYi1KQ1R1Q0xjMDNyVXRhZUFmd1I3azZSMGNyc0JiRlhoM3FRQTRWQl8yYnlYenlxOU5UVW92SFROVzRyMkpYQ2NtWU44UHEtYmxodXF3RHdQZy1hRTk0dGZ6UDY3bkhyWHRfMHhuTEtiekdBWkFXOFlJQ0lr?oc=5",
+   "fecha": "2026-11-15T14:26",
    "equipo": "Gibraltar",
    "tipos": []
   },
@@ -1271,17 +1189,29 @@
    "fecha": "2026-11-14T23:08",
    "equipo": "Malta",
    "tipos": []
-  },
-  {
-   "titulo": "Ivan Rakitic se ofrece otra vez al Sevilla: \"Para lo que necesiten, en la tienda, con la UEFA...\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXo1SHZUWlhVdjg1MjlRWl9QcXdHMXZHU0R3TEdFcjhkSFd5Mjg4TFNkWmc1bFlWQWxsUkRJc0VTTHNzNFpMRzJmNGEtSzhGdTlONHpRemxCdjAtaEJNWHdrTzFUTWx4d0pVemlLbHBjWFFjVlRBaUhkemlHNGdDdXpTbVdWRDJfZWdSamRyT3ZHMVZWQi0xczFMLXpUMGFMTEZoWlNNeXhIMEVRNy1qNDJBTlBRVGtEWDg4?oc=5",
-   "fecha": "2026-11-14T22:11",
-   "equipo": "Gibraltar",
-   "tipos": []
   }
  ],
  "1528988": [
+  {
+   "titulo": "Los detalles de calidad de Ronaldinho en su regreso al fútbol profesional: la magia nunca se pierde",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXFBUW5jblhzTmJWaS1MRzY5ZHVfbXFaX2x0RURCYWdYWDFxTmN1Mm9aYzlyc2NEZ2c3a1hfVXVvQXZobkNJQ2NTWHV4d3VUNzh6d1JyMXhGdl90M3ExVkhNVVJvaGVCQzlVNVctR3lnYUxud1RFWGtzMVNCMm9iTi1RZjJaVWFRcFZxWUdQcG8zVG0wLVNDNVJYSGV2MUlpT0FJbU1aaE9lMDVpTlpoWXlfQ2NWRmN2aEdKbEVnV2NybkJ2?oc=5",
+   "fecha": "2026-11-16T09:00",
+   "equipo": "Estonia",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2gyanlLVklBYWZwem56VnZTQWZwQmRzN0JRLXZ2dW43bWRoRk5FVjh0SGUzQ1U4S3U2b3A1YlllRG8yTjRBTjR4U0Q5eV91cW9YNnluSWFzVHRaMHlXS3QtbFdiX2lDTFlGczdnTjc4a3BTVkFoRXJocXJmd1R0cTlIQTlqM3ZjckN5SDZGc1hFNUJTVEVDYjZsWlBieGdsc0ZxVTZQZVVmeXRRTktlRmJYOUFxT3hMRFNV?oc=5",
+   "fecha": "2026-11-15T08:34",
+   "equipo": "Bulgaria",
+   "tipos": [
+    "baja"
+   ]
+  },
   {
    "titulo": "Debacle mayúsculo en la nueva 'era' de Portugal sin Cristiano Ronaldo: goleada sin el liderato asegurado",
    "fuente": "El Desmarque",
@@ -1309,14 +1239,6 @@
    "tipos": []
   },
   {
-   "titulo": "Unai Simón lanza un reto a todos aquellos que se mofan de España y el fin de su racha: \"Quien quiera, que lo supere\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEpQcEtGSTRiYVJXaVo2VlhWa1FQRXV2UENieS0wYWNfNWtlWFpRekpNelUwUEJtNHBsYllRRHRHZEdQVzV1MjA4cnhKT2NPMEltakItWnNaYmRwRUNmRHozNXVZSmlwMGd4NFFMWElKY0Q4Ym1DZlFZNFh5VWdMT2JEYnJxcHE1QzBtREZxQU5oNE5qWHlIaDAxYkJ2TTlsZ3gwN3BRYVl4Vzg?oc=5",
-   "fecha": "2026-11-15T23:52",
-   "equipo": "Estonia",
-   "tipos": []
-  },
-  {
    "titulo": "Mikel Oyarzabal pone en valor los méritos de España y muestra su pesar: \"Momento difícil\"",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVNmMmxGajhFTmVfRG93eTB0T1NhUlZxN3BsYmdZQlFZdWJidm1LeXFjWWFDTTNqblJGSDZwX1pLZVFSc0Y0bW1zdEVhckRkZ2s4V2tlSmt5Zi1rY0EtTnZULUVRaHdFT3ZJc2FxVXAwVDBmdjZVU1JzY2FNMFhmd196c1FLNl9UWGtBTVRhRnBocE1JbzV1R1JvOFVuOGhzYUFkZHJwMC1Td2h0bTRJYjBWbl8?oc=5",
@@ -1365,6 +1287,14 @@
    "tipos": []
   },
   {
+   "titulo": "El fútbol vuelve al Heliodoro con un precioso homenaje dedicado a Jesús de Miguel",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0tLTVpBVENoQmljQkZXWW1WeUpONDVUNXNDdDBPRC1LU1UwU1k4b1d2S3AtRS1iVi1KWW50Mi1jSE9UNndzYi1KQ1R1Q0xjMDNyVXRhZUFmd1I3azZSMGNyc0JiRlhoM3FRQTRWQl8yYnlYenlxOU5UVW92SFROVzRyMkpYQ2NtWU44UHEtYmxodXF3RHdQZy1hRTk0dGZ6UDY3bkhyWHRfMHhuTEtiekdBWkFXOFlJQ0lr?oc=5",
+   "fecha": "2026-11-15T14:26",
+   "equipo": "Estonia",
+   "tipos": []
+  },
+  {
    "titulo": "Julen Lopetegui no renovará con Qatar para coger \"un proyecto de nivel\" en verano",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnN0WEJ1aEZFT0RudnZlczg1YWF1YUZ3ckxFRmQ3UWZnMmxKNGVzQlJERExwYUtLb1FDRDlqZmVyUlFPN1k3LTZNeFVjcWc2dlRJR3lXQk9jMjIzM3BFYXdHbmR0Vi1jYTVNN2hyS2FpSG1KVy1vUU41blU1OHRNS0lOWlVVa055UDUwWnE5VWgyUVRGMFlWdEdZTDJIM2ZrOW1lcjFsMEhOZ1hpN2EySVc2MUZQU0h4emxoeHVn?oc=5",
@@ -1373,34 +1303,10 @@
    "tipos": []
   },
   {
-   "titulo": "Álvaro Valles no tendrá minutos con la Selección",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczBkODJJb0U1QkR1UHZwSERtX2R4YXdyNzY1c1JKaE00blpqaVFlWl9lNmNacXFyWVU5M3JNV0NFSEJRX1Q1akNnZjdrcU1CdzdMSEpjaUtIaWhnQXY0SEhwWnJFdFF2aTZlWEpaRUtfQnhvem1od0xMUlBHNDZlQkJNaW0xbjhXNlYyeGZmSW5USmJiU0NnMlhCNnNxbmRqNFAwUHFMbVExMjVOdzBrX3plNVo2Y0M3c1F0MEpuVUw2ckZMdm1CRkxFY09OMDFhak9R?oc=5",
-   "fecha": "2026-11-15T09:54",
-   "equipo": "Estonia",
-   "tipos": []
-  },
-  {
    "titulo": "España gana en Bulgaria y continúa recta hacia el Eurobasket Femenino de 2027",
    "fuente": "Superdeporte",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmFyVk5OdVB2SGZCcXBvOTRDUmRsNndYSE1Edm9wUm4zRVZmLTIxbTVTcVphWHhBRlJBUDVVNXdEblREZGZ3aXVlNFl2dzZwYlJ4eFJMVG1nZXpRNGNQLWJwTGVzeGRfbF9FV3U2U19WS3FpNGExdUxhRElFcTUzTzFtQlpLaFN5Z2I0WmFhVWpEaVB0MFVVdWxYQUdEeUpGMTNvYzZ6Y05nVlHSAasBQVVfeXFMUG5hclZOTnVQdkhmQnFwbzk0Q1JkbDZ3WEhNRHZvcFJuM0VWZi0yMW01U3FaYVh4QUZSQVA1VTV3RG5URGRmd2l1ZTRZdnc2cGJSeHhSTFRtZ2V6UTRjUC1icExlc3hkX2xfRVd1NlNfVktxaTRhMXVMYURJRXE1M08xbUJaS2hTeWdiNFphYVVqRGlQdDBVVXVsWEFHRHlKRjEzb2M2emNOZ1ZR?oc=5",
    "fecha": "2026-11-14T22:13",
-   "equipo": "Bulgaria",
-   "tipos": []
-  },
-  {
-   "titulo": "Ivan Rakitic se ofrece otra vez al Sevilla: \"Para lo que necesiten, en la tienda, con la UEFA...\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXo1SHZUWlhVdjg1MjlRWl9QcXdHMXZHU0R3TEdFcjhkSFd5Mjg4TFNkWmc1bFlWQWxsUkRJc0VTTHNzNFpMRzJmNGEtSzhGdTlONHpRemxCdjAtaEJNWHdrTzFUTWx4d0pVemlLbHBjWFFjVlRBaUhkemlHNGdDdXpTbVdWRDJfZWdSamRyT3ZHMVZWQi0xczFMLXpUMGFMTEZoWlNNeXhIMEVRNy1qNDJBTlBRVGtEWDg4?oc=5",
-   "fecha": "2026-11-14T22:11",
-   "equipo": "Bulgaria",
-   "tipos": []
-  },
-  {
-   "titulo": "Iyana Martín dicta sentencia en Bulgaria",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjJMOFRJdGJLaGFub1YySWhRWWVJUkNOWWlSX2c4ang5Zm1WN2VSMWE2NE5FaXFFdGdta29jSEdFVXU3dm5GM0FQUXFaWk5fWEtEWEE1eWJoWnBnWnV4MDJ1a2c5bmQ0ei15QjkxODd5akNhQVhCUmpvNTM4bmkyZld2bUxGV0t4amk3OWlfaC1DMTA3REM0X1EyV2FjTkhRdVdkcm00dlN5Tmk0bkFtVHZoeUN5RGlXc3V4S1pQZ3ZFbFpU0gHEAUFVX3lxTE1SMkw4VEl0YktoYW5vVjJJaFFZZUlSQ05ZaVJfZzhqeDlmbVY3ZVIxYTY0TkVpcUV0Z21rb2NIR0VVdTd2bkYzQVBRcVpaTl9YS0RYQTV5YmhacGdadXgwMnVrZzluZDR6LXlCOTE4N3lqQ2FBWEJSam81MzhuaTJmV3ZtTEZXS3hqaTc5aV9oLUMxMDdEQzRfUTJXYWNOSFF1V2RybTR2U3lOaTRuQW1Udmh5Q3lEaVdzdXhLWlBndkVsWlQ?oc=5",
-   "fecha": "2026-11-14T20:06",
    "equipo": "Bulgaria",
    "tipos": []
   }
@@ -1430,30 +1336,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTldJdGFyTUY4RllvUkxzWVBDT2owUmdiNjM3WE96eGppYTZNaDFodXZQTzBSM0lzcU1MZ3A4Z0JQOFNISlZRVmctSTZaZnBXeFo1c1IxYUdrS3hOVDg5QUtNSGNBTVhtTVJPRG03b0Jmbjk3VGlRczh5OGF1bkxSZVNuUmxpX2F2VWxtZEM2NXQzTElQTTQ2UHNQVzRJa2NGZEhBLXNuYzZTek1PdE1lSzA1V0k4ZXlyVkJJQ0pCN0ZaVUI0dkhtQw?oc=5",
    "fecha": "2026-11-14T22:38",
    "equipo": "Northern Ireland",
-   "tipos": []
-  },
-  {
-   "titulo": "Triunfan Hungría y Noruega en la Liga de Naciones",
-   "fuente": "El Horizonte",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEhMRFlacGF5UkFaSFIwdzhIQWF6bEI3Q0s1OFZ2VG13VEhocTZiV2lFZzJ4M1RrWFBXSWxhdUJDOUYzR3RCNEU4UXkzQldudWg2QWJ5ZmpGWVRRWDJxb2F5eEZMZWVTU0U4NGl3S1M5cmFBWlNnWkd4YnhpMDBta0pYMFBhN0pVcnlGVkVBLXMydm5KQjR4MTkyZ0E?oc=5",
-   "fecha": "2026-11-14T21:10",
-   "equipo": "Hungary",
-   "tipos": []
-  },
-  {
-   "titulo": "Szoboszlai acerca a Hungría a Primera",
-   "fuente": "MARCA",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWx2UzMzVnVMSi0wcXN0MDM5NTk0MnRTOTN2YkV4eVY2ZUVmbG9iLVBRM0k4UGRaZ1FPc0JDdzBkLThZRFo2RC1OVFNGYzlyV3RUN29uVGUyUnp3WVRhUE9QSDVSTzEzUHh1eUh4WDJfTzBwQ3F0cktaRmVkTXFtcjJPeXpYZllYZVpsb2J0WHhCYnNIX3ZhMGNCUDE3V2NIVkhj0gGjAUFVX3lxTE5hbHZTMzNWdUxKLTBxc3QwMzk1OTQydFM5M3ZiRXh5VjZlRWZsb2ItUFEzSThQZFpnUU9zQkN3MGQtOFlEWjZELU5UU0ZjOXJXdFQ3b25UZTJSendZVGFQT1BINVJPMTNQeHV5SHhYMl9PMHBDcXRyS1pGZWRNcW1yMk95elhmWVhlWmxvYnRYeEJic0hfdmEwY0JQMTdXY0hWSGM?oc=5",
-   "fecha": "2026-11-14T20:32",
-   "equipo": "Hungary",
-   "tipos": []
-  },
-  {
-   "titulo": "Hungría de Szoboszlai derrotó a Georgia en Nations League",
-   "fuente": "PrensaFútbol",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvdEt6UGpkaGNmR0tyQm9rYThOdi1xd0VZQzRncmNaV1BHZDliTHNaNllEdVZKbl8tN1FvOTFJUS1wdE5YdFFWM2d4R0RBUDdGOVJMVHM5Ukl6YmxVN2tBdmtFaEdhVEJCWTBFWW1pSmliSU9ldFQ0T2E5dlJ1Zw?oc=5",
-   "fecha": "2026-11-14T20:16",
-   "equipo": "Hungary",
    "tipos": []
   }
  ],
@@ -1587,6 +1469,14 @@
    "tipos": []
   },
   {
+   "titulo": "Cristiano Jr sigue dando pasos en su carrera con Portugal",
+   "fuente": "Flashscore.es",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnlyRHlOTjZNZnB3YUZxZk1pRzJiX21QN05tdTVlc1RUYzNYSzF5NEhPN2RKZm00NHlVUE1FcU1qazVpbzJIb3Q4b1huMEJuTjFfQ2FEY0tUUnBFT1dqSHBqS0U5ekJZcnBBR3V0czE3bnh0U3gtWmZOVjZKX1YyUzhhWXJ1NGFxV3JTWEVURkFHY0t5dkdCbTk5Tlp0SWFnV3NSQ3BfNGhDM0J6RUZvOWdVTEVPUQ?oc=5",
+   "fecha": "2026-11-16T05:35",
+   "equipo": "Portugal",
+   "tipos": []
+  },
+  {
    "titulo": "Mientras Cristiano Ronaldo hizo 146 goles en Portugal, estos son los que hizo Pelé en Brasil",
    "fuente": "DSports",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMHYxOGdPVlo1SGprelptRXZlbkV6Qm5YcUNGWHFnR2ZQb2tYMWk1YURZLVFwV1QyU3REY0VZOHZJQ21Kd2toY0RFQkVvR3V2ckFwbkNpbk83TThRNE9xcU9VRjd1TExnVWw2bUw5dERwelRvTTZIOEI0b2FWUjdkMVJGODZCRm9YdHh0em5yU2dPY3RJUUNpajlSZjJkcmMwTXJfODV5bTd3aGRGc0ZIV01kT1d2WUtWU3ZCTTNURFhNcUVBZU9kamJzRnEtRUE3TXV0SnN3OHAzZDBsSTEzU9IB5gFBVV95cUxOazZDejcxdWtUazE0dTAzbHVqSXNTcVJ5NDN1TC1CTWVwQ05pSVVDczBFa04td0Y5Z285Vm94cWdQMTRiYW5rbHFmS3VuXzdUSEJ2cG9lNmxCS0psOEZkMkZCb0JzTWJvY1lsd2x0TnlLOTlfOVJjSmdmTGlHanFtVXZYOXpmbXFQX1o4bFhPUlR6NkdPNTMxTWRWU3RNQmd3eUx4U056R2RXcElJODVnY3BTTUd6NE5YN2MyVjNCWGNwY0o5aE1XSFpQd2NXVlNqbXl2YTRuUVdkeGlTNjM5THhxWnJkZw?oc=5",
@@ -1595,11 +1485,11 @@
    "tipos": []
   },
   {
-   "titulo": "Aficionado mexicano se encuentra con Joao Neves y le pide \"respetar al más grande de la historia\"",
-   "fuente": "Récord",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHRZbVl6Z0c0bWJvY2p6dnZ6NVZqUjZ1ZnJQZ1QzbFMtVWNrRFJmTnF5Ym9oanJFdG5KNEhQVUlSNFJMSHZjc0J6T0RYcVU1QUZXWkxfSkVFUVNzdUdEa3lMTWlVbVN4QXJVN2dIT24zLUZJNUVFUlN3S1RldmxWZ0puWUNBcFZDXzM2dUpZZ2FRU0pTa1I0V3pzNDAzakVNNlBRNDJEemxHVUU?oc=5",
-   "fecha": "2026-11-16T02:53",
-   "equipo": "Portugal",
+   "titulo": "Gales vs Portugal: previa, predicciones y alineaciones",
+   "fuente": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTJ5Q1RVXzN4WjYyWlhzVVdIWjNYak1iUFdPMnJ0SlhrY0h6dGpGSndXZlF6aS11MWpxVXpoLTZHa3BiODdwSFNsOUl2RXhQckZpYTl0ZFk5dEkwMzNzZmVsZzRhYkd4SndPd1Q4VEd3Um52U1FncVdqR1U2WmVwdV96bw?oc=5",
+   "fecha": "2026-11-15T11:12",
+   "equipo": "Wales",
    "tipos": []
   },
   {
@@ -1623,54 +1513,6 @@
    "fuente": "elsalvador.com",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWVTQ0hJS1dvV1JyTHdWRnZHa1U0WTFFLWdmZUVrZWdzblk5RnRLWW8xMktaZmdpOWZEZjN6S1VFSU0wSkJXdDA1dVZKcWl2Ukpwc2ZQazEyS2NYUVZBUEZQLVZROTVUMGVoYjFDNWxTSXJ0TnhLRjExaHJlUUQyak1mY0FYVlphNGNVX1F3WFlrWEZWLVRId3dR?oc=5",
    "fecha": "2026-11-14T23:02",
-   "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Haaland lideró el triunfo de Noruega ante Gales en la Liga de Naciones",
-   "fuente": "diez.bo",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSk5BS0FzTXJNX2dRYkFhWjE0Wm9rM3BCYXZMVlpOUDZndzNuVjBRS0QxcTlQYjIzem83b1kzRmpxbER4QlZ3WTg3X3R1T1RadzQwSkU2TlM5Uk5zMmhhV3BaYXRKb3pqNHpoRHZHMG5zNjlXSHJOcU1OeW9ocHlvVlhQMjBFVk9WdDV2cEFiMTNxSmhHYlA0T1dSeFNvamstbnJ6ZUJadw?oc=5",
-   "fecha": "2026-11-14T21:12",
-   "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Noruega se impone a Gales y busca los cuartos de final de la Liga de Naciones de Europa",
-   "fuente": "El Universo",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1g2d1RhS2NYNHowLVZVYkFzcnNod1FJQ19tVURwem5pTWpZcGZFeGFnTWdVZFZ6N2xzT0syWm9iNjlDQ2ctYUhiUVVsdnRKUVRSLS14ck9aRC1Qallmd19BN0R4Q2tLb0JRdWNfQWkxVGhUSERTYUNDaHpkSGRJdDc0WUZMc0xnSklMZm9TY1UwdElrVG1oOFlya3FaUjBMNWY0VlVaVXZFLURFeHVKNWxFdi0zNGVqVG1lS0xyNy1nZ0tFeXJ3QzVyX1_SAeABQVVfeXFMTTdzZEdPdHpyQVlZUEszcWJmSjF3NFF6cGVMX0dLTUpHdm1LUFFXWV9oODRCSEIteHg1TzZ2N0tqNXN2T2U0OUh1VEJLejh6cVhGWXE2cmhTQ2hzMGQ1MUVCRjdWMlZ1UVA4eXBuMmQwcG1LM1AzeUQ2YmpPc0hUV1lic2MyMGU5OUM5QmZTMmtTVWtiVUE1TVU1am5ZV3hFRjJnelZ5RWkwVzNnRVJ0Mno5S01uWVVLcHdWM0pLTE96dy1PbmFCRTBSTWxQN1hfSG9QYmxIdWN2QnR3WmNNSTA?oc=5",
-   "fecha": "2026-11-14T20:34",
-   "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Noruega despierta en la segunda mitad y derrota a Gales en Oslo",
-   "fuente": "UNANIMO Deportes",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFR3QWhmZHRpNTYtQWhaVGx0djBXYTlubWpncHRkRk5NMUZUSXRUVUJCNmJkWDJkVS1tWDF2SWh5S21lSE5jVHRaeDA5OXhnVkNodWhJb2VkNERGNTBTZzBHZVFIWHlydjdVWERJclJEeXpZQjk0RldCWmhRb1pHaGRyY2Y?oc=5",
-   "fecha": "2026-11-14T20:22",
-   "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Noruega resucita en la Liga de Naciones con un 3-1 ante Gales",
-   "fuente": "Revista La Liga",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTFjMTd2V3pfLVVvTW1aZ2JTbmJ1dW8wUWxNTmFvNDUyeXI3N3RZRENCNzdYWEExSkl6MWF2YVRoSzBOWFU3WjhpVmxrR2Y1blQ3T2hnN1FzbTJzWDdQTTR4VldyTmF5Y1p2amRHWXprOU5lNXZpeDN4MlhFUEpMQkFheUlPU3FaYS1vLXY0UTZmUQ?oc=5",
-   "fecha": "2026-11-14T20:20",
-   "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Haaland anota y Noruega golea a Gales en la UEFA Nations League",
-   "fuente": "www.xeudeportes.mx",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVmbmhqcXBhaGpKQnFWRm9vR21LMDRhSzd2SDhOR282OEs2VVppN1dXb1d5VGRhUXQyYkRkbkxuZFJRd2lYSXJJanc3S1Z0WUhhLTU3d0hXLXY3YWVSamFPMDNZMHpmN3N1WFNvWXNtcnRpZFIwaFhVaHpvRnFYZUhGXzFOaHZiNXJUNERkSFlzUlFoRXFXc1NWang3RDU2YUljRDdiRHBBSVUyd1k5UjFBMi13MENTUUxn?oc=5",
-   "fecha": "2026-11-14T20:17",
-   "equipo": "Wales",
-   "tipos": []
-  },
-  {
-   "titulo": "Noruega derrota a Gales y mantiene viva la esperanza en UEFA Nations League",
-   "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVU91bXJzY25TNHMyNGxLS3ZMTWE2V3RqR213b2RlSm5DckN2VmVUdWxJNnE1bFg5UThZaFVqai1vSWNtVnp2d0FvbDcxVmExbWsyR3NtVWNQeTEwNUJuT19TMEMzT19fS2VWSjRMQllFQlBGWXphbEtEazY5U201bVVhWG56NVMyWVczd01yRHZDM3VvbHVROTkwVm5KN0dtSU9ZM19neDRuZ0hKaG42REVOd2F4OUoxcDlPaFBGMVNPMjhEUHZ4RQ?oc=5",
-   "fecha": "2026-11-14T20:15",
    "equipo": "Wales",
    "tipos": []
   }
@@ -1765,19 +1607,19 @@
    "tipos": []
   },
   {
+   "titulo": "¡TIRO ATAJADO! disparo por Israel Luna.",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzMyZTRBeVFCcEhoLWpDa251TXhCa0tra3k1UXJxYWtsaWdvenFJU1ZjWWYweHlpbzBsaFY0cTRqcjdGUVBJNUxDclF5Y3htdUZWNFU5YVl5TFpmSm1PTXJISEZMX0RqNGE0amhRX08ySEV3cWdka2tTRGwtRUI0VlBXc1dFMHM?oc=5",
+   "fecha": "2026-11-14T22:18",
+   "equipo": "Israel",
+   "tipos": []
+  },
+  {
    "titulo": "Jugadores de Kosovo bajaron sus cabezas e hinchas abuchearon el himno de Israel antes de un partido por la Nations League",
    "fuente": "La Nación",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZU9yUE16RVR0bTRhYlFGVXJUbWJac19hbWRsVVBCSDVGNy1PcVJZa21DM1Bhci1TZFA2YWtZai1JQ3haeGFJb2NiQm5NVTNBSk9EcXV6cWVXMU1GTGo2ckhNc2RYRnNIRkh6TnB5a1VONXl1bnhHSEt1aU1ONURBcW4yalVYVWx5bHlHQXJMbGNDaVZMWndnMnVNN1VsMVNzS0YzeC01Tk5UR0VhNkszRWNhRnlzUlpxeVFMMjVjdF9HRmlMczA0LUJZYkhDWk1LdVRrSldHV0lKZFpneFZoVnE0SEo2elA5VUV3Mg?oc=5",
    "fecha": "2026-11-14T22:05",
    "equipo": "Israel",
-   "tipos": []
-  },
-  {
-   "titulo": "Alineaciones de Austria e Irlanda por la Liga de Naciones: formaciones confirmadas",
-   "fuente": "Bolavip Chile",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0w1eDNmV3NvTDNjakxvdzJXU1ZNUW5RNE5nX0NVTXNzMlVFSU54UGFXbUNUdDZyMUZaME5FclFTRjkteWk3Zkd6NGRiY2NnNUZOb0g5cDJ1WHpRZHlrbjNWYThibkZqbjQzc013cFpuaFMzbEpUWEs1YnhreGpvYjJhdkI3eHFCUVVQMDVaSURMd0t0cVBfQVFTaS16YzRKdXdZeG05VGJfcGJ5aDdhZWlvR1l3QzjSAbwBQVVfeXFMT2RyZHZINURRZ3VxRHh5YWNpdUhxR1RvYnNiRHpmUjN3TThLWHFhakpsOU51QlItOW1vRG9KbS1SMEdSMWxHQ2Y2UFVUY1BEekhiS2ZwOWFha05vNDk1dG1PSFpjOFR0YU9jZDA5TXEwUTIyQzdHYlNycHhlRkUzWmRUc0RFbFJoWkhIVXpOLXYyVVRWZFUyZUlNUFZaRFVpODZRQWQ0YTN4OVZnSVRNcWJXQVgtSHFwc2d0c3M?oc=5",
-   "fecha": "2026-11-14T20:20",
-   "equipo": "Austria",
    "tipos": []
   }
  ],
@@ -1861,35 +1703,9 @@
    "fecha": "2026-11-14T22:05",
    "equipo": "Kosovo",
    "tipos": []
-  },
-  {
-   "titulo": "Irlanda N 1-0 Ucrania (14 de Nov., 2026) Estadísticas del equipo",
-   "fuente": "ESPN México",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEFsZHJ2VWJmTmsta0pUbjRmMnVmeFpZSG11NkNlVHZ2aUNqdkxuaVlEUlZET2JqRkdGcWMxYjg3NzFXXzQ4V3ZDMEFMM1NEOWZYTzBQWHV6bEQtMmJDWU1YVkJ1VGgzSlJTNmJVdjNxbDVCcTlzN29DRGh5b21LYUlPRC1WUHZVSVRPTnpOMkRRT1E?oc=5",
-   "fecha": "2026-11-14T20:46",
-   "equipo": "Rep. Of Ireland",
-   "tipos": []
-  },
-  {
-   "titulo": "Alineaciones de Austria e Irlanda por la Liga de Naciones: formaciones confirmadas",
-   "fuente": "Bolavip Chile",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0w1eDNmV3NvTDNjakxvdzJXU1ZNUW5RNE5nX0NVTXNzMlVFSU54UGFXbUNUdDZyMUZaME5FclFTRjkteWk3Zkd6NGRiY2NnNUZOb0g5cDJ1WHpRZHlrbjNWYThibkZqbjQzc013cFpuaFMzbEpUWEs1YnhreGpvYjJhdkI3eHFCUVVQMDVaSURMd0t0cVBfQVFTaS16YzRKdXdZeG05VGJfcGJ5aDdhZWlvR1l3QzjSAbwBQVVfeXFMT2RyZHZINURRZ3VxRHh5YWNpdUhxR1RvYnNiRHpmUjN3TThLWHFhakpsOU51QlItOW1vRG9KbS1SMEdSMWxHQ2Y2UFVUY1BEekhiS2ZwOWFha05vNDk1dG1PSFpjOFR0YU9jZDA5TXEwUTIyQzdHYlNycHhlRkUzWmRUc0RFbFJoWkhIVXpOLXYyVVRWZFUyZUlNUFZaRFVpODZRQWQ0YTN4OVZnSVRNcWJXQVgtSHFwc2d0c3M?oc=5",
-   "fecha": "2026-11-14T20:20",
-   "equipo": "Rep. Of Ireland",
-   "tipos": []
   }
  ],
  "1528990": [
-  {
-   "titulo": "Por molestias en su espalda, Frenkie de Jong fue desafectado en Países Bajos y regresa a Barcelona",
-   "fuente": "DSports",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTkJBbUZaVXJ6VmR1UUtMbGJBODBTdjJUUVd5cjlyaGsza2xzOG9GdHFmNXlCeU9jTDBaTFZPaS1yZDVxRUF0eWtUTnp6X2FiNjZMOGxxNjFYT3dDTFN5MDRza1dRWENFSVRYckFNTkFHcWZtNG9WcERydkxGNkFpVlRObEVRTWRhTjBMQWllTjhEZnpUaS0xeVhiRTNLV01OcGczdlJ2dW9NQ2NlT1ZxRU05dWQ5V1g1LXdyd0swbjZjUnBXSWkzQzlhOHBBcHhNRXJ2TWpPc1lMbEh6Zm04V0tyV0RnSDZY0gHuAUFVX3lxTE9NMlI5dklVN1lteVItVG1iek1yOFU4T3dGUkpoemYtVXUxWjQ5bnlIaDlaOTdHcmhRdVp0RVBrX3BNMHhpRnVHbUcxWGM2NHJTdlh5TFVqTkFMck40cTMxN0ZmVm05em12cWRHdjU4QUJTMHdhMEZLUE1hR1drWjhDbXMxU2RpMEJjd0RLQ0RKeW14YktxeWwtRERNb1VuQk9HYTNiOHlaaTlDaGg3eFE3TFp0cFZoR1RmaUU5SHZ5TWNQZnRxOTE2Z2xrLXNxdFpTRndHVzNRdnVrUE1hbV80TUNnRlNVUmYzamZ6MGc?oc=5",
-   "fecha": "2026-11-14T20:40",
-   "equipo": "Netherlands",
-   "tipos": [
-    "duda"
-   ]
-  },
   {
    "titulo": "La histórica dificultad de los argentinos para brillar en la Bundesliga: la cultura, el “estilo diferente” y la lista de 53 representantes",
    "fuente": "Infobae",
@@ -1955,6 +1771,14 @@
    "tipos": []
   },
   {
+   "titulo": "Un entrenador histórico de Alemania defiende el trabajo de Kñopp",
+   "fuente": "Flashscore.es",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFcwb1ZkdUZtblhydEVSUHBlMW41Uk5TTXdFd1RHc2pGMTIxeV9aR2hHR20yN0tBd1p1ZVZQUnZ6NGJsSnc5MlkwS0cyNGY2SWRNUzNQUVhzT01yM1Z2ZjNLOWFtdXp0Um14aTFXVDJIUEhmbnJUNERFZWZRSWNQNUx0eW9GdVZ4eVpfTkYwRW0tLTBJN1l3MzJaYW1PaGp2?oc=5",
+   "fecha": "2026-11-15T23:35",
+   "equipo": "Germany",
+   "tipos": []
+  },
+  {
    "titulo": "Cuartos durísimos: Francia, Holanda o Alemania, y Portugal…",
    "fuente": "Diario AS",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHZDSzFFR2VJSkFQTzdpamV2REpGVnNNakg1R3VYSVFlRVU5eTF3am0xckgzZ25nZ0h0QkdURFRlNVlQcjVKemR1bzE0R0p1azRZYWZfcUM1RjhvS1ZYUnQtcDN4d2dnN1Juc1FzUlpHUV8tWjhOR05FaklMbTJjMEpDcXYyMEx5Y1UxanNJWno3WDlHZzlEQWtQLTc1a2fSAbMBQVVfeXFMTkowYTNhUVFUaXFGMVNIT2loQ2h1MzNfaXhYV3BoNV80SFVFRUlHQzYzdUxLZTdZM2lMZ3JPOER1eXI5U2wwYmNtT01kSW1Pc1ZyRVRHZTBvTUVzTUJGQUtxTHYtU3VkaXVQQTJVeTh2b2pweEtuOUIyLVhycUp4eFR5MmgtVFdYS0RTbElmUngzUkh5QldRZUVLQjdUbzdFQkozX1FyNTlrcmZqcXpubnhNdUU?oc=5",
@@ -1975,14 +1799,6 @@
    "fuente": "La Jornada",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWWVoc05RVnpNbklEX3JxN3k1NzU2cUowbVhVZFphdXVlNV9iTm9vaDBOUUpXM3VvZ2N5V2FpaVEzZFFkUEE5Y1F6RW1Mby05ZFo2UnFKcUw3UWxERGxONVlqT0t6eFpLTmhhWF9ENFZpRHRQNW1ldWJRZ082Yjh5QXVrV2pHUTBZdUwxUkJMRlVLV2o0SXo2WXFfemFpeVVUUEU2UUM4dGlDbmI3c2lLN3V0bmdXT0JCNURtODdZRGVPSEw2Y1VpUjBwRlh0MzlOa2xqa0lSU3V4Sk1ic1ZWU2Z6Y2tXcVNFQ1RveWFYOHZSOEU4cWRseg?oc=5",
    "fecha": "2026-11-15T21:02",
-   "equipo": "Germany",
-   "tipos": []
-  },
-  {
-   "titulo": "Amon-Ra St. Brown celebra como Musiala un touchdown en juego de NFL Alemania",
-   "fuente": "Mediotiempo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTBYY2xkekpnM0F2RkNNVGpKM1RaV0ZHX1RvdWVjSDdZdXVhaGlwS2RleVZsQ3NaUXRXRHM2WTZMbkFtc3BkaUtRcDNYM3dGOC1OdUtkNU1uVG5na1ZaeG11OC1XcDM2ZWVRVy1KTHpSb2JXcHhwb1ZBNVN2NWt1SlRNUDFEOEdySF9sZ1doVFVHRW9kSm40OWFadHRKQ3FyTjdUeUdta1JFdnQzOFFuUENpcThpekNrVUHSAboBQVVfeXFMUEZpeU45c0FZVUdDYVN2Rk9ZYkFqanlwckNVZkxORnFNNTVuRzNyMDdubEswS0RoMmRpNmF4MU4tdWRDTWViM3NmTGJENVdESmRvWk9XZ2lDY1ptRWg0RXN4MEVWdVlYOWxpRTdSM3QzMmZaeEh5SE15NjFkYi0wV0hHaURmZmNLVHIxLTgxX0pjQmpOYTZvVkllR1JqM1dxWjZGdVZ0aF9KVXZuOUNmWVVBRHZIUEhHUTlB?oc=5",
-   "fecha": "2026-11-15T20:07",
    "equipo": "Germany",
    "tipos": []
   }

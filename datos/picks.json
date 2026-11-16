@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16 02:34",
+ "generado": "2026-11-16 09:54",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -10,6 +10,28 @@
   "2026-11-16": {
    "picks": [
     {
+     "partido_id": 1528991,
+     "fecha": "2026-11-16T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Greece",
+     "visitante": "Serbia",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Greece",
+     "cuota": 1.42,
+     "frecuencia": 0.8,
+     "ventaja": 0.096,
+     "detalle": "Greece 3/5 · Serbia 5/5",
+     "valor_mercado": -0.021,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.42,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 4.7,
+     "prob_aprendida": 0.717
+    },
+    {
      "partido_id": 1545652,
      "fecha": "2026-11-16T20:45",
      "competicion": "Nations League",
@@ -51,10 +73,10 @@
      "frecuencia": 0.8,
      "ventaja": 0.222,
      "detalle": "Estonia 4/5 · Bulgaria 4/5",
-     "valor_mercado": -0.011,
+     "valor_mercado": -0.023,
      "arbitro": "Nenad Minakovic",
      "arbitro_tarjetas": 6.0,
-     "prob_aprendida": 0.558
+     "prob_aprendida": 0.603
     },
     {
      "partido_id": 1528991,
@@ -80,10 +102,54 @@
      "arbitro": "Michael Oliver",
      "arbitro_tarjetas": 4.7,
      "prob_aprendida": 0.602
+    },
+    {
+     "partido_id": 1528986,
+     "fecha": "2026-11-16T16:00",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Kazakhstan",
+     "visitante": "Slovakia",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Slovakia",
+     "cuota": 1.8,
+     "frecuencia": 0.7,
+     "ventaja": 0.144,
+     "detalle": "Kazakhstan 4/5 · Slovakia 3/5",
+     "valor_mercado": -0.062,
+     "movimiento": -0.016,
+     "cuota_inicial": 1.83,
+     "arbitro": "Aliyar Agayev",
+     "arbitro_tarjetas": 1.5,
+     "prob_aprendida": 0.556
     }
    ],
    "mejores_por_partido": [
     {
+     "partido_id": 1528991,
+     "fecha": "2026-11-16T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Greece",
+     "visitante": "Serbia",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Greece",
+     "cuota": 1.42,
+     "frecuencia": 0.8,
+     "ventaja": 0.096,
+     "detalle": "Greece 3/5 · Serbia 5/5",
+     "valor_mercado": -0.021,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.42,
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 4.7,
+     "prob_aprendida": 0.717
+    },
+    {
      "partido_id": 1545652,
      "fecha": "2026-11-16T20:45",
      "competicion": "Nations League",
@@ -125,41 +191,60 @@
      "frecuencia": 0.8,
      "ventaja": 0.222,
      "detalle": "Estonia 4/5 · Bulgaria 4/5",
-     "valor_mercado": -0.011,
+     "valor_mercado": -0.023,
      "arbitro": "Nenad Minakovic",
      "arbitro_tarjetas": 6.0,
-     "prob_aprendida": 0.558
+     "prob_aprendida": 0.603
     },
     {
-     "partido_id": 1528991,
-     "fecha": "2026-11-16T20:45",
+     "partido_id": 1528986,
+     "fecha": "2026-11-16T16:00",
      "competicion": "Nations League",
      "liga_id": 5,
-     "local": "Greece",
-     "visitante": "Serbia",
-     "mercado": "Home Player Shots",
-     "opcion": "Konstantinos Mavropanos - 1",
-     "cuota": 1.36,
-     "frecuencia": 1.0,
-     "ventaja": 0.265,
-     "tipo": "jugador",
-     "jugador": "Konstantinos Mavropanos",
-     "equipo": "Greece",
-     "jugador_id": 1445,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Konstantinos Mavropanos: 1+ tiros",
-     "detalle": "Konstantinos Mavropanos 5/5",
-     "temporada": "5/5",
-     "arbitro": "Michael Oliver",
-     "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.602
+     "local": "Kazakhstan",
+     "visitante": "Slovakia",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Slovakia",
+     "cuota": 1.8,
+     "frecuencia": 0.7,
+     "ventaja": 0.144,
+     "detalle": "Kazakhstan 4/5 · Slovakia 3/5",
+     "valor_mercado": -0.062,
+     "movimiento": -0.016,
+     "cuota_inicial": 1.83,
+     "arbitro": "Aliyar Agayev",
+     "arbitro_tarjetas": 1.5,
+     "prob_aprendida": 0.556
     }
    ],
    "combis": {
     "segura": null,
     "cuota_3": {
      "picks": [
+      {
+       "partido_id": 1528991,
+       "fecha": "2026-11-16T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Greece",
+       "visitante": "Serbia",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Greece",
+       "cuota": 1.42,
+       "frecuencia": 0.8,
+       "ventaja": 0.096,
+       "detalle": "Greece 3/5 · Serbia 5/5",
+       "valor_mercado": -0.021,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.42,
+       "arbitro": "Michael Oliver",
+       "arbitro_tarjetas": 4.7,
+       "prob_aprendida": 0.717
+      },
       {
        "partido_id": 1545652,
        "fecha": "2026-11-16T20:45",
@@ -202,38 +287,13 @@
        "frecuencia": 0.8,
        "ventaja": 0.222,
        "detalle": "Estonia 4/5 · Bulgaria 4/5",
-       "valor_mercado": -0.011,
+       "valor_mercado": -0.023,
        "arbitro": "Nenad Minakovic",
        "arbitro_tarjetas": 6.0,
-       "prob_aprendida": 0.558
-      },
-      {
-       "partido_id": 1528991,
-       "fecha": "2026-11-16T20:45",
-       "competicion": "Nations League",
-       "liga_id": 5,
-       "local": "Greece",
-       "visitante": "Serbia",
-       "mercado": "Home Player Shots",
-       "opcion": "Konstantinos Mavropanos - 1",
-       "cuota": 1.36,
-       "frecuencia": 1.0,
-       "ventaja": 0.265,
-       "tipo": "jugador",
-       "jugador": "Konstantinos Mavropanos",
-       "equipo": "Greece",
-       "jugador_id": 1445,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Konstantinos Mavropanos: 1+ tiros",
-       "detalle": "Konstantinos Mavropanos 5/5",
-       "temporada": "5/5",
-       "arbitro": "Michael Oliver",
-       "arbitro_tarjetas": 4.7,
-       "prob_aprendida": 0.602
+       "prob_aprendida": 0.603
       }
      ],
-     "cuota": 3.06
+     "cuota": 3.19
     },
     "loca": null,
     "doble": null
@@ -256,34 +316,11 @@
        "frecuencia": 0.7,
        "ventaja": 0.154,
        "detalle": "Iceland 3/5 · Luxembourg 4/5",
-       "valor_mercado": -0.011,
        "movimiento": -0.042,
        "cuota_inicial": 1.91,
        "arbitro": "Marian Barbu",
        "arbitro_tarjetas": 3.5,
-       "prob_aprendida": 0.653
-      },
-      {
-       "partido_id": 1528986,
-       "fecha": "2026-11-16T16:00",
-       "competicion": "Nations League",
-       "liga_id": 5,
-       "local": "Kazakhstan",
-       "visitante": "Slovakia",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Kazakhstan–Slovakia",
-       "cuota": 1.83,
-       "frecuencia": 0.8,
-       "ventaja": 0.254,
-       "detalle": "Kazakhstan 5/5 · Slovakia 3/5",
-       "valor_mercado": 0.017,
-       "movimiento": 0.017,
-       "cuota_inicial": 1.8,
-       "arbitro": "Aliyar Agayev",
-       "arbitro_tarjetas": 1.5,
-       "prob_aprendida": 0.616
+       "prob_aprendida": 0.599
       },
       {
        "partido_id": 1545662,
@@ -304,6 +341,28 @@
        "arbitro": "Serdar Gozubuyuk",
        "arbitro_tarjetas": 3.8,
        "prob_aprendida": 0.606
+      },
+      {
+       "partido_id": 1528986,
+       "fecha": "2026-11-16T16:00",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Kazakhstan",
+       "visitante": "Slovakia",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Kazakhstan–Slovakia",
+       "cuota": 1.83,
+       "frecuencia": 0.8,
+       "ventaja": 0.254,
+       "detalle": "Kazakhstan 5/5 · Slovakia 3/5",
+       "valor_mercado": 0.022,
+       "movimiento": 0.017,
+       "cuota_inicial": 1.8,
+       "arbitro": "Aliyar Agayev",
+       "arbitro_tarjetas": 1.5,
+       "prob_aprendida": 0.573
       }
      ],
      "cuota": 5.79
@@ -329,6 +388,8 @@
      "ventaja": 0.163,
      "detalle": "Israel 4/5 · Austria 4/5",
      "valor_mercado": -0.031,
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 3.0,
      "prob_aprendida": 0.507
     },
     {
@@ -346,6 +407,8 @@
      "frecuencia": 0.8,
      "ventaja": 0.065,
      "detalle": "Wales 4/5 · Portugal 4/5",
+     "arbitro": "Sven Jablonski",
+     "arbitro_tarjetas": 2.0,
      "prob_aprendida": 0.453
     }
    ],
@@ -366,6 +429,8 @@
      "ventaja": 0.163,
      "detalle": "Israel 4/5 · Austria 4/5",
      "valor_mercado": -0.031,
+     "arbitro": "Davide Massa",
+     "arbitro_tarjetas": 3.0,
      "prob_aprendida": 0.507
     },
     {
@@ -383,6 +448,8 @@
      "frecuencia": 0.8,
      "ventaja": 0.065,
      "detalle": "Wales 4/5 · Portugal 4/5",
+     "arbitro": "Sven Jablonski",
+     "arbitro_tarjetas": 2.0,
      "prob_aprendida": 0.453
     }
    ],
@@ -406,13 +473,15 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Denmark",
-       "cuota": 2.4,
+       "cuota": 2.38,
        "frecuencia": 0.6,
-       "ventaja": 0.183,
+       "ventaja": 0.18,
        "detalle": "Denmark 3/5 · Norway 3/5",
        "valor_mercado": -0.004,
-       "movimiento": -0.111,
+       "movimiento": -0.119,
        "cuota_inicial": 2.7,
+       "arbitro": "Halil Umut Meler",
+       "arbitro_tarjetas": 3.7,
        "prob_aprendida": 0.647
       },
       {
@@ -433,10 +502,12 @@
        "valor_mercado": -0.021,
        "movimiento": 0.044,
        "cuota_inicial": 1.83,
+       "arbitro": "Felix Zwayer",
+       "arbitro_tarjetas": 8.5,
        "prob_aprendida": 0.556
       }
      ],
-     "cuota": 4.58
+     "cuota": 4.55
     }
    },
    "combis_partido": []
@@ -1304,32 +1375,6 @@
        "prob_aprendida": 0.569
       },
       {
-       "partido_id": 1563270,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Southampton",
-       "visitante": "Derby",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Southampton–Derby",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Southampton 6/10 · Derby 7/10",
-       "valor_mercado": 0.047,
-       "prob_xg": 0.569,
-       "xg_esperado": 2.9,
-       "posiciones": [
-        4,
-        23,
-        24
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.568
-      },
-      {
        "partido_id": 1550204,
        "fecha": "2026-11-21T20:45",
        "competicion": "Serie A",
@@ -1354,6 +1399,32 @@
        ],
        "contexto": "total_igualado_medio",
        "prob_aprendida": 0.597
+      },
+      {
+       "partido_id": 1563270,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Southampton",
+       "visitante": "Derby",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Southampton–Derby",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Southampton 6/10 · Derby 7/10",
+       "valor_mercado": 0.04,
+       "prob_xg": 0.569,
+       "xg_esperado": 2.9,
+       "posiciones": [
+        4,
+        23,
+        24
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.568
       },
       {
        "partido_id": 1570453,
@@ -2029,7 +2100,7 @@
        "frecuencia": 0.7,
        "ventaja": 0.28,
        "detalle": "Burnley 8/10 · Blackburn 6/10",
-       "valor_mercado": 0.082,
+       "valor_mercado": 0.072,
        "posiciones": [
         22,
         13,

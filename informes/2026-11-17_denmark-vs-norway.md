@@ -1,19 +1,19 @@
 # Denmark – Norway
 **Nations League** · League A - 6 · 17/11/2026 20:45 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:30_
+_Actualizadas: 16/11 09:51_
 
-- **1X2:** 1 **2.40**  ·  X **3.80**  ·  2 **2.70**
+- **1X2:** 1 **2.38**  ·  X **3.80**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.53**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.53** · menos **2.40**
+    - 2,5: más **1.50** · menos **2.50**
     - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **4.00** · menos **1.22**
+    - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
@@ -54,7 +54,7 @@ _Actualizadas: 16/11 02:30_
     - 4,5: más **2.00** · menos **1.73**
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.40**
 - **Home Team Total Cards:**
     - 1,5: más **1.57** · menos **2.25**
 - **Away Team Total Cards:**
@@ -211,18 +211,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 25% | 35% | 30% | 2.70 | -19% |
 | 1X2: X | 21% | 25% | 23% | 3.80 | -12% |
-| 1X2: 1 | 54% | 40% | 47% | 2.40 | +12% |
+| 1X2: 1 | 54% | 40% | 47% | 2.38 | +12% |
 | Doble oportunidad: X2 | 46% | 61% | 53% | 1.53 | -18% |
 | Doble oportunidad: 12 | 79% | 74% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 75% | 65% | 70% | 1.44 | +1% |
 | Ambos marcan: No | 35% | 35% | 35% | 2.62 | -8% |
 | Ambos marcan: Sí | 65% | 65% | 65% | 1.44 | -7% |
-| Goles más/menos: Más de 2.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles más/menos: Más de 2.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles más/menos: Más de 3.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles más/menos: Más de 4.5 | 26% | 23% | 25% | 4.00 | -0% |
-| Goles más/menos: Menos de 2.5 | 33% | 39% | 36% | 2.40 | -14% |
+| Goles más/menos: Más de 4.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles más/menos: Menos de 2.5 | 33% | 38% | 35% | 2.50 | -12% |
 | Goles más/menos: Menos de 3.5 | 55% | 58% | 56% | 1.62 | -9% |
-| Goles más/menos: Menos de 4.5 | 74% | 77% | 75% | 1.22 | -8% |
+| Goles más/menos: Menos de 4.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 78% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 44% | 42% | 43% | 2.20 | -5% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |

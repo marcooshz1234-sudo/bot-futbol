@@ -1,19 +1,19 @@
 # FYR Macedonia – Slovenia
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Nacional Arena Todor Proeski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:30_
+_Actualizadas: 16/11 09:51_
 
-- **1X2:** 1 **7.00**  ·  X **3.75**  ·  2 **1.53**
+- **1X2:** 1 **7.00**  ·  X **3.80**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.25**  ·  X2 **1.10**
 - **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.36** · menos **3.00**
     - 2,5: más **2.15** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
+    - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
@@ -28,7 +28,7 @@ _Actualizadas: 16/11 02:30_
     - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 8,5: más **1.95** · menos **1.85**
+    - 8,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **4.00**  ·  X **9.00**  ·  2 **1.33**
 - **1X2 descanso:** 1 **7.00**  ·  X **2.20**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
@@ -185,8 +185,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 68% | 61% | 65% | 1.53 | -1% |
-| 1X2: X | 23% | 25% | 24% | 3.75 | -9% |
+| 1X2: 2 | 68% | 62% | 65% | 1.50 | -3% |
+| 1X2: X | 23% | 25% | 24% | 3.80 | -9% |
 | 1X2: 1 | 9% | 13% | 11% | 7.00 | -22% |
 | Doble oportunidad: X2 | 91% | 85% | 88% | 1.10 | -3% |
 | Doble oportunidad: 12 | 77% | 75% | 76% | 1.25 | -5% |
@@ -195,10 +195,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 27% | 41% | 34% | 2.25 | -24% |
 | Goles más/menos: Más de 1.5 | 60% | 69% | 64% | 1.36 | -12% |
 | Goles más/menos: Más de 2.5 | 33% | 44% | 38% | 2.15 | -18% |
-| Goles más/menos: Más de 3.5 | 15% | 25% | 20% | 3.75 | -26% |
+| Goles más/menos: Más de 3.5 | 15% | 23% | 19% | 4.00 | -24% |
 | Goles más/menos: Menos de 1.5 | 40% | 31% | 36% | 3.00 | +7% |
 | Goles más/menos: Menos de 2.5 | 67% | 56% | 62% | 1.67 | +3% |
-| Goles más/menos: Menos de 3.5 | 85% | 75% | 80% | 1.25 | +0% |
+| Goles más/menos: Menos de 3.5 | 85% | 77% | 81% | 1.22 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 58% | 65% | 62% | 1.44 | -11% |
 | Goles 1ª parte más/menos: Más de 1.5 | 22% | 29% | 26% | 3.25 | -17% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 42% | 35% | 38% | 2.62 | +1% |
@@ -209,8 +209,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
 | Goles del visitante: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
 | Goles del visitante: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
-| Córners más/menos: Más de 8.5 | 53% | 49% | 51% | 1.95 | -1% |
-| Córners más/menos: Menos de 8.5 | 47% | 51% | 49% | 1.85 | -9% |
+| Córners más/menos: Más de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
+| Córners más/menos: Menos de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
 | 1X2 descanso: 2 | 45% | 44% | 45% | 2.10 | -7% |
 | 1X2 descanso: X | 47% | 42% | 45% | 2.20 | -2% |
 

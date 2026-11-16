@@ -1,10 +1,54 @@
 # Barcelona W – Servette Chênois W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 09:51_
+
+- **1X2:** 1 **1.01**  ·  X **19.00**  ·  2 **34.00**
+- **Ambos marcan:** Sí **3.00**  ·  No **1.36**
+- **Goles más/menos:**
+    - 2,5: más **1.05** · menos **8.50**
+    - 3,5: más **1.14** · menos **5.00**
+    - 4,5: más **1.33** · menos **3.25**
+    - 5,5: más **1.67** · menos **2.10**
+    - 6,5: más **2.25** · menos **1.57**
+    - 7,5: más **3.50** · menos **1.28**
+    - 8,5: más **5.00** · menos **1.14**
+    - 9,5: más **8.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.04** · menos **9.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.00** · menos **1.14**
+    - 5,5: más **8.50** · menos **1.05**
+- **Goles del local:**
+    - 2,5: más **1.06** · menos **8.00**
+    - 3,5: más **1.20** · menos **4.33**
+    - 4,5: más **1.44** · menos **2.62**
+    - 5,5: más **1.83** · menos **1.83**
+    - 6,5: más **2.62** · menos **1.44**
+    - 7,5: más **4.00** · menos **1.22**
+    - 8,5: más **6.50** · menos **1.10**
+    - 9,5: más **9.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **3.00** · menos **1.36**
+- **1X2 descanso:** 1 **1.07**  ·  X **9.00**  ·  2 **41.00**
+- **Goals Over/Under - Second Half:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
+- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
+- **To Win Either Half:** 1 **1.00**  ·  2 **23.00**
+- **To Score In Both Halves By Teams:** 1 **1.10**  ·  2 **23.00**
+- **Win Both Halves:** 1 **1.18**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **34.00**  ·  Away/Yes **81.00**  ·  Home/No **1.36**  ·  Draw/No **34.00**  ·  Away/No **101.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **1.44**  ·  u/yes 2.5 **67.00**  ·  u/no 2.5 **13.00**
 
 ## Estadísticas de equipo
 | | Barcelona W (total) | Barcelona W en casa | Servette Chênois W (total) | Servette Chênois W fuera |
@@ -96,4 +140,40 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 6,51 · visitante 0,77 · córners esperados 10,7._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 7% | 3% | 5% | 34.00 | +69% |
+| 1X2: X | 1% | 5% | 3% | 19.00 | -42% |
+| 1X2: 1 | 92% | 92% | 92% | 1.01 | -7% |
+| Ambos marcan: No | 43% | 69% | 56% | 1.36 | -24% |
+| Ambos marcan: Sí | 57% | 31% | 44% | 3.00 | +32% |
+| Goles más/menos: Más de 4.5 | 85% | 71% | 78% | 1.33 | +4% |
+| Goles más/menos: Más de 5.5 | 73% | 56% | 65% | 1.67 | +8% |
+| Goles más/menos: Más de 6.5 | 59% | 41% | 50% | 2.25 | +13% |
+| Goles más/menos: Más de 7.5 | 44% | 27% | 36% | 3.50 | +25% |
+| Goles más/menos: Menos de 4.5 | 15% | 29% | 22% | 3.25 | -29% |
+| Goles más/menos: Menos de 5.5 | 27% | 44% | 35% | 2.10 | -26% |
+| Goles más/menos: Menos de 6.5 | 41% | 59% | 50% | 1.57 | -22% |
+| Goles más/menos: Menos de 7.5 | 56% | 73% | 64% | 1.28 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 61% | 51% | 56% | 1.80 | +2% |
+| Goles 1ª parte más/menos: Más de 3.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 18% | 25% | 21% | 3.75 | -20% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 39% | 49% | 44% | 1.91 | -17% |
+| Goles 1ª parte más/menos: Menos de 3.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del local: Más de 3.5 | 89% | 78% | 84% | 1.20 | +0% |
+| Goles del local: Más de 4.5 | 78% | 65% | 71% | 1.44 | +2% |
+| Goles del local: Más de 5.5 | 63% | 50% | 57% | 1.83 | +4% |
+| Goles del local: Más de 6.5 | 48% | 35% | 42% | 2.62 | +9% |
+| Goles del local: Más de 7.5 | 33% | 23% | 28% | 4.00 | +13% |
+| Goles del local: Menos de 3.5 | 11% | 22% | 16% | 4.33 | -29% |
+| Goles del local: Menos de 4.5 | 22% | 35% | 29% | 2.62 | -24% |
+| Goles del local: Menos de 5.5 | 37% | 50% | 43% | 1.83 | -21% |
+| Goles del local: Menos de 6.5 | 52% | 65% | 58% | 1.44 | -16% |
+| Goles del local: Menos de 7.5 | 67% | 77% | 72% | 1.22 | -12% |
+| Goles del visitante: Más de 0.5 | 54% | 31% | 43% | 3.00 | +28% |
+| Goles del visitante: Menos de 0.5 | 46% | 69% | 57% | 1.36 | -22% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
