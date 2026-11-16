@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-15",
  "vistos": {
-  "prensa-1528975-0008c46f": "2026-11-13T02:37",
   "prensa-1528977-8cd0cd8a": "2026-11-13T03:19",
   "regla-cuota_alta-2026-11-13-escalera": "2026-11-13T06:06",
   "bucle-gifs-2026111306": "2026-11-13T06:26",
@@ -43,7 +42,69 @@
   "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1446-e-threads": "2026-11-16T00:02",
   "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-e-threads": "2026-11-16T00:02",
   "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t-threads": "2026-11-16T00:02",
-  "prensa-1528992-52705683": "2026-11-16T00:42"
+  "prensa-1528992-52705683": "2026-11-16T00:42",
+  "check-2026-11-16-loca-th-0500-x50": "2026-11-16T02:55",
+  "check-2026-11-16-loca-th-1500-x1000": "2026-11-16T02:55",
+  "check-2026-11-16-loca-th-1530-x50": "2026-11-16T02:55",
+  "check-2026-11-16-loca-th-1930-x50": "2026-11-16T02:55",
+  "check-2026-11-16-loca-th-2000-x500": "2026-11-16T02:55",
+  "repe-2026-11-16-1528991|Match Winner|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1528986|Total - Home|Over 0.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1545662|Match Winner|Away": "2026-11-16T02:55",
+  "repe-2026-11-16-1528987|Match Winner|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1528990|Both Teams Score|Yes": "2026-11-16T02:55",
+  "repe-2026-11-16-1528990|Away Player Shots|Denzel Dumfries - 1": "2026-11-16T02:55",
+  "repe-2026-11-16-1528990|To Win Either Half|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1528991|Total - Home|Over 1.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528989|Away Corners Over/Under|Over 1.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1570014|Total - Home|Over 1.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1545652|Home Player Shots|Dan Ndoye - 3": "2026-11-16T02:55",
+  "repe-2026-11-16-1528986|Corners 1x2|Away": "2026-11-16T02:55",
+  "repe-2026-11-16-1528990|Corners 1x2|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1545618|Match Winner|Away": "2026-11-16T02:55",
+  "repe-2026-11-16-1570014|Both Teams Score|Yes": "2026-11-16T02:55",
+  "repe-2026-11-16-1528991|Both Teams Score|Yes": "2026-11-16T02:55",
+  "repe-2026-11-16-1528986|To Win Either Half|Away": "2026-11-16T02:55",
+  "repe-2026-11-16-1528987|To Win Either Half|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1545617|Total - Home|Over 1.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1545618|Corners 1x2|Away": "2026-11-16T02:55",
+  "repe-2026-11-16-1570014|Corners 1x2|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1570014|Match Winner|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1545652|Player Fouls Committed|Lewis Ferguson - 2": "2026-11-16T02:55",
+  "repe-2026-11-16-1528988|Corners 1x2|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1528987|Home Corners Over/Under|Over 5.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528988|Total - Away|Over 0.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1545662|Home Corners Over/Under|Over 2.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528990|Match Winner|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1545617|Corners Over Under|Over 8.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528988|To Win Either Half|Home": "2026-11-16T02:55",
+  "repe-2026-11-16-1528991|Home Corners Over/Under|Over 5.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528987|Total - Away|Over 0.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1545652|Corners Over Under|Over 8.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528991|Total - Away|Over 0.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1528990|Away Corners Over/Under|Over 3.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1570014|Total - Away|Over 0.5": "2026-11-16T02:55",
+  "repe-2026-11-16-1570014|Home Corners Over/Under|Over 5.5": "2026-11-16T02:55",
+  "prensa-1528990-9ee8126c": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-escalera": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-combi-m": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-0300-x100": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-0500-x50": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-0600-x500": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-0800-x1000": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-0900-x50": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-0930-x100": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1130-x500": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1200-x100": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1300-x50": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1400-x500": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1500-x1000": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1530-x50": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1630-x100": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1730-x500": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1830-x100": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-1930-x50": "2026-11-16T02:55",
+  "regla-orden-2026-11-16-loca-th-2000-x500": "2026-11-16T02:55"
  },
  "abiertos": [
   {
@@ -57,249 +118,497 @@
   {
    "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t-threads",
    "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
+  },
+  {
+   "clave": "check-2026-11-16-loca-th-0500-x50",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x44,49 🤑"
+  },
+  {
+   "clave": "check-2026-11-16-loca-th-1500-x1000",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🎰 LA MILLONARIA x913 🎰"
+  },
+  {
+   "clave": "check-2026-11-16-loca-th-1530-x50",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x60,37 🤑"
+  },
+  {
+   "clave": "check-2026-11-16-loca-th-1930-x50",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x45,02 🤑"
+  },
+  {
+   "clave": "check-2026-11-16-loca-th-2000-x500",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x621 💎"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 8 posts (escalera, loca-th-0500-x50, loca-th-0900-x50, loca-th-1000-lista-gana, loca-th-1300-x50, loca-th-1530-x50, loca-th-1700-lista-gana, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528986|Total - Home|Over 0.5",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (escalera, loca-th-0300-x100, loca-th-0930-x100, loca-th-1200-x100)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545662|Match Winner|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 10 posts (pick-m1, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (combi-m, loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1400-x500, loca-th-1500-x1000)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|Both Teams Score|Yes",
+   "t": "🔁 16/11: el mismo pronóstico en 7 posts (combi-m, combi-partido-m-1528990, loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1530-x50, loca-th-1900-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|Away Player Shots|Denzel Dumfries - 1",
+   "t": "🔁 16/11: el mismo pronóstico en 11 posts (combi-partido-m-1528990, loca-th-0300-x100, loca-th-0500-x50, loca-th-0900-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50, loca-th-1530-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|To Win Either Half|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (combi-partido-m-1528990, loca-th-0500-x50, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Total - Home|Over 1.5",
+   "t": "🔁 16/11: el mismo pronóstico en 8 posts (pick-m2, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1300-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528989|Away Corners Over/Under|Over 1.5",
+   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1630-x100, loca-th-1730-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1570014|Total - Home|Over 1.5",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0930-x100, loca-th-1400-x500, loca-th-1730-x500, loca-th-2000-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545652|Home Player Shots|Dan Ndoye - 3",
+   "t": "🔁 16/11: el mismo pronóstico en 12 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0800-x1000, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1630-x100, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528986|Corners 1x2|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1400-x500, loca-th-1430-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|Corners 1x2|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1200-x100, loca-th-1430-lista-corners, loca-th-1630-x100, loca-th-2030-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545618|Match Winner|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 9 posts (loca-th-0300-x100, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1570014|Both Teams Score|Yes",
+   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0400-lista-ambos, loca-th-1130-x500, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1630-x100, loca-th-1830-x100, loca-th-1900-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Both Teams Score|Yes",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1900-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528986|To Win Either Half|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528987|To Win Either Half|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545617|Total - Home|Over 1.5",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545618|Corners 1x2|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 8 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-0900-x50, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50, loca-th-2030-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1570014|Corners 1x2|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1570014|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545652|Player Fouls Committed|Lewis Ferguson - 2",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1300-x50, loca-th-1530-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528988|Corners 1x2|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528987|Home Corners Over/Under|Over 5.5",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528988|Total - Away|Over 0.5",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-x1000, loca-th-1400-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545662|Home Corners Over/Under|Over 2.5",
+   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1730-x500, loca-th-2030-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1700-lista-gana)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545617|Corners Over Under|Over 8.5",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1500-x1000)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528988|To Win Either Half|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-1130-x500, loca-th-1630-x100, loca-th-1730-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Home Corners Over/Under|Over 5.5",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1730-x500, loca-th-2030-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528987|Total - Away|Over 0.5",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1130-x500, loca-th-1500-x1000)"
+  },
+  {
+   "clave": "repe-2026-11-16-1545652|Corners Over Under|Over 8.5",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1830-x100, loca-th-2000-x500, loca-th-2030-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Total - Away|Over 0.5",
+   "t": "🔁 16/11: el mismo pronóstico en 5 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1730-x500, loca-th-2000-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|Away Corners Over/Under|Over 3.5",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1500-x1000, loca-th-1730-x500)"
+  },
+  {
+   "clave": "repe-2026-11-16-1570014|Total - Away|Over 0.5",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50, loca-th-1930-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1570014|Home Corners Over/Under|Over 5.5",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-1400-x500, loca-th-1500-x1000, loca-th-1730-x500)"
+  },
+  {
+   "clave": "prensa-1528990-9ee8126c",
+   "t": "📰 Alemania–Países Bajos: «De Jong se perderá el partido entre Países Bajos y Alemania por molestias físicas» (Elbotola) · tenemos 25 post(s) de este partido: combi-m, combi-partido-m-1528990, loca-th-0300-x100, loca-th-0400-lista-ambos, loca-th-0500-x50, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-1900-lista-ambos, loca-th-1930-x50, loca-th-2000-x500, loca-th-2030-lista-corners"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-escalera",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🪜 Reto escalera · Día 1/7» (11:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-combi-m",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-0300-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x82,96 💯» (03:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-0500-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x44,49 🤑» (05:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-0600-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x716 💎» (06:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-0800-x1000",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🚀 COMBI x867 🚀» (08:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-0900-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x45,92 🤑» (09:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-0930-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x88,33 💯» (09:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1130-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x795 🤪» (11:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1200-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x92,97 💯» (12:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1300-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x57,68 💸» (13:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1400-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x527 💎» (14:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1500-x1000",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🎰 LA MILLONARIA x913 🎰» (15:00)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1530-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x60,37 🤑» (15:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1630-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x98,44 💯» (16:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1730-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x736 💎» (17:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1830-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x129 💯» (18:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-1930-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x45,02 🤑» (19:30)"
+  },
+  {
+   "clave": "regla-orden-2026-11-16-loca-th-2000-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x621 💎» (20:00)"
   }
  ],
- "revisado": "2026-11-16T02:14",
+ "revisado": "2026-11-16T02:55",
  "historial": [
   {
-   "hora": "2026-11-16T00:42",
-   "t": "📰 Gales–Portugal: «Bernardo Silva causa baja en Portugal por lesión - esto» (El Sol de México) · tenemos 2 post(s) de este partido: ganadores-nations, pick-seguro"
+   "hora": "2026-11-16T02:55",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x44,49 🤑"
   },
   {
-   "hora": "2026-11-16T00:02",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+   "hora": "2026-11-16T02:55",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🎰 LA MILLONARIA x913 🎰"
   },
   {
-   "hora": "2026-11-16T00:02",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+   "hora": "2026-11-16T02:55",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x60,37 🤑"
   },
   {
-   "hora": "2026-11-16T00:02",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: 400: The requested resource does not exist"
+   "hora": "2026-11-16T02:55",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x45,02 🤑"
   },
   {
-   "hora": "2026-11-15T23:01",
-   "t": "🖼️ Sale a las 23:15 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x621 💎"
   },
   {
-   "hora": "2026-11-15T22:35",
-   "t": "🖼️ Sale a las 22:45 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 8 posts (escalera, loca-th-0500-x50, loca-th-0900-x50, loca-th-1000-lista-gana, loca-th-1300-x50, loca-th-1530-x50, loca-th-1700-lista-gana, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-15T11:31",
-   "t": "⭐ España–Inglaterra: «Los que no jugarán ante Inglaterra con la vuelta de Yamal y Oyarzabal» (Flashscore.es). «Os dejo la combi del España – Inglaterra 🇪🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿» (20:10) va a favor de ese equipo: te propongo quitarlo"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (escalera, loca-th-0300-x100, loca-th-0930-x100, loca-th-1200-x100)"
   },
   {
-   "hora": "2026-11-15T11:31",
-   "t": "📰 España–Inglaterra: «Luis de la Fuente tiene una baja asegurada para el España-Inglaterra: el posible once en el Metropolitano» (El Desmarque) · tenemos 1 post(s) de este partido: combi-partido-1528984"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 10 posts (pick-m1, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-15T11:31",
-   "t": "📰 España–Inglaterra: «Álex Grimaldo abandona la concentración de España por un proceso gripal» (Europa Press) · tenemos 1 post(s) de este partido: combi-partido-1528984"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (combi-m, loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1400-x500, loca-th-1500-x1000)"
   },
   {
-   "hora": "2026-11-15T11:31",
-   "t": "📰 Francia–Turquía: «En Francia ya hay noticias sobre Mbappé: ¿se pierde el juego contra Turquía?» (Récord) · tenemos 1 post(s) de este partido: combi-partido-1528982"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 7 posts (combi-m, combi-partido-m-1528990, loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1530-x50, loca-th-1900-lista-ambos)"
   },
   {
-   "hora": "2026-11-15T00:42",
-   "t": "📰 Alemania–Países Bajos: «De Jong abandona la concentración de Países Bajos y no jugará ante Alemania» (Europa Press) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 11 posts (combi-partido-m-1528990, loca-th-0300-x100, loca-th-0500-x50, loca-th-0900-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50, loca-th-1530-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-15T00:42",
-   "t": "📰 Grecia–Serbia: «La Holanda de Xavi baja a la tierra a Grecia y mete miedo ganando ¡7-0! en la Liga de Naciones» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (combi-partido-m-1528990, loca-th-0500-x50, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-14T21:50",
-   "t": "📰 España–Inglaterra: «Grimaldo abandona la concentración de España y es baja contra Inglaterra» (OkDiario) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 8 posts (pick-m2, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1300-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-14T21:50",
-   "t": "📰 España–Inglaterra: «España exige la final del Mundial 2030 y descarta retirar su candidatura» (El Economista) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1630-x100, loca-th-1730-x500)"
   },
   {
-   "hora": "2026-11-14T21:20",
-   "t": "🖼️ Sale a las 21:34 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0930-x100, loca-th-1400-x500, loca-th-1730-x500, loca-th-2000-x500)"
   },
   {
-   "hora": "2026-11-14T16:32",
-   "t": "🔁 14/11: el mismo pronóstico en 3 posts (pick-tip-1, pick-tip-3, boleto-personal-2)"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 12 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0800-x1000, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1630-x100, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
   },
   {
-   "hora": "2026-11-14T16:32",
-   "t": "🔁 14/11: el mismo pronóstico en 3 posts (boleto-personal-2, combi-tres, pick-seguro-2)"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1400-x500, loca-th-1430-lista-corners)"
   },
   {
-   "hora": "2026-11-14T16:32",
-   "t": "🔁 14/11: el mismo pronóstico en 3 posts (boleto-personal-2, pick-seguro, combi-tres)"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1200-x100, loca-th-1430-lista-corners, loca-th-1630-x100, loca-th-2030-lista-corners)"
   },
   {
-   "hora": "2026-11-14T11:59",
-   "t": "⭐ Francia–Turquía: «¿Juega Kylian Mbappé ante Turquía? Última hora de su lesión» (365Scores). «🏆 NATIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 9 posts (loca-th-0300-x100, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-14T09:10",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0400-lista-ambos, loca-th-1130-x500, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1630-x100, loca-th-1830-x100, loca-th-1900-lista-ambos)"
   },
   {
-   "hora": "2026-11-14T08:01",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1900-lista-ambos)"
   },
   {
-   "hora": "2026-11-14T07:10",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50)"
   },
   {
-   "hora": "2026-11-14T06:01",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50)"
   },
   {
-   "hora": "2026-11-14T05:05",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50)"
   },
   {
-   "hora": "2026-11-14T04:05",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 8 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-0900-x50, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50, loca-th-2030-lista-corners)"
   },
   {
-   "hora": "2026-11-14T03:02",
-   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-14T02:32",
-   "t": "📰 Kosovo–Israel: «Israel Reyes o Rodrigo Huescas: la duda de Rafa Márquez para el Jamaica vs. México, ¿quién será titular?» (Soy Futbol) · tenemos 2 post(s) de este partido: escalera, combi-tres"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
   },
   {
-   "hora": "2026-11-14T01:00",
-   "t": "📰 Bélgica–Italia: «Frattesi deja la concentración de Italia y será baja ante Bélgica» (Diario del Cauca) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1300-x50, loca-th-1530-x50)"
   },
   {
-   "hora": "2026-11-14T01:00",
-   "t": "📰 Francia–Turquía: «Francia suma otra baja: Upamecano abandona la concentración por motivos personales» (Studiofutbol) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners)"
   },
   {
-   "hora": "2026-11-14T00:03",
-   "t": "📰 Irlanda del Norte–Ucrania: «La UE descarta un negociador único para Ucrania pese a la presión para hablar con una sola voz» (Diario de Noticias de Álava) · tenemos 2 post(s) de este partido: combi-multi, combi-loca"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners)"
   },
   {
-   "hora": "2026-11-13T20:42",
-   "t": "⏰ No ha salido en instagram (20:13): Este nos encanta para hoy 🔥 · error: falta la imagen/vídeo en publicaciones/media"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-x1000, loca-th-1400-x500)"
   },
   {
-   "hora": "2026-11-13T20:06",
-   "t": "📰 Kosovo–Israel: «Dos jugadores israelíes son duda para el partido contra Kosovo.» (KOHA.net) · tenemos 2 post(s) de este partido: ganadores-nations, combi-tres"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1730-x500, loca-th-2030-lista-corners)"
   },
   {
-   "hora": "2026-11-13T16:51",
-   "t": "🖼️ Sale a las 17:00 y su foto no está hecha (o es vieja): Combinada de selecciones para esta noche 🔥"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1700-lista-gana)"
   },
   {
-   "hora": "2026-11-13T14:53",
-   "t": "🖼️ Sale a las 14:54 y su foto no está hecha (o es vieja): Vamos con otro pick, familia 👇"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1500-x1000)"
   },
   {
-   "hora": "2026-11-13T14:32",
-   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-1130-x500, loca-th-1630-x100, loca-th-1730-x500)"
   },
   {
-   "hora": "2026-11-13T14:32",
-   "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1730-x500, loca-th-2030-lista-corners)"
   },
   {
-   "hora": "2026-11-13T14:21",
-   "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1130-x500, loca-th-1500-x1000)"
   },
   {
-   "hora": "2026-11-13T13:49",
-   "t": "🖼️ Sale a las 13:50 y su foto no está hecha (o es vieja): Vamos con otro pick, familia 👇"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1830-x100, loca-th-2000-x500, loca-th-2030-lista-corners)"
   },
   {
-   "hora": "2026-11-13T07:09",
-   "t": "🔧 El paso «gifs» del bot ha fallado 4 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 5 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1730-x500, loca-th-2000-x500)"
   },
   {
-   "hora": "2026-11-13T06:26",
-   "t": "🔧 El paso «gifs» del bot ha fallado 4 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1500-x1000, loca-th-1730-x500)"
   },
   {
-   "hora": "2026-11-13T06:06",
-   "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «🪜 Reto escalera · Día 4/7» (11:00)"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50, loca-th-1930-x50)"
   },
   {
-   "hora": "2026-11-13T03:19",
-   "t": "📰 Rumanía–Polonia: «Frankowski es baja y Polonia llama a Pyrka para el cierre» (KarloBag.eu) · tenemos 2 post(s) de este partido: ganadores-nations, combi-multi"
+   "hora": "2026-11-16T02:55",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-1400-x500, loca-th-1500-x1000, loca-th-1730-x500)"
   },
   {
-   "hora": "2026-11-13T02:37",
-   "t": "📰 Irlanda del Norte–Ucrania: «Vladimir Putin descarta congelar la guerra rusa contra Ucrania e insiste en definir fronteras claras para logr» (El Tiempo) · tenemos 1 post(s) de este partido: combi-multi"
+   "hora": "2026-11-16T02:55",
+   "t": "📰 Alemania–Países Bajos: «De Jong se perderá el partido entre Países Bajos y Alemania por molestias físicas» (Elbotola) · tenemos 25 post(s) de este partido: combi-m, combi-partido-m-1528990, loca-th-0300-x100, loca-th-0400-lista-ambos, loca-th-0500-x50, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-1900-lista-ambos, loca-th-1930-x50, loca-th-2000-x500, loca-th-2030-lista-corners"
   },
   {
-   "hora": "2026-11-13T01:49",
-   "t": "📰 Portugal–Dinamarca: «Sin Cristiano, con Mbappé en duda y Yamal ausente, la Liga de Naciones entra en su hora decisiva» (El Nuevo Herald) · tenemos 2 post(s) de este partido: ganadores-nations, combi-tres"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🪜 Reto escalera · Día 1/7» (11:00)"
   },
   {
-   "hora": "2026-11-13T00:50",
-   "t": "📰 Noruega–Gales: «Surgen dudas sobre la condición física de Haaland y Odegaard antes de los partidos de Noruega» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-nations"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
   },
   {
-   "hora": "2026-11-13T00:50",
-   "t": "📰 Valladolid–Castellón: «Rego regresa a Castellón por problemas físicos y es duda para Valladolid» (Cadena SER) · tenemos 1 post(s) de este partido: ganadores-resto"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x82,96 💯» (03:00)"
   },
   {
-   "hora": "2026-11-13T00:50",
-   "t": "📰 Mallorca–Cordoba: «Muchas bajas, pero debería ser suficiente para ganar al Córdoba» (Fútbol desde Mallorca) · tenemos 1 post(s) de este partido: ganadores-resto"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x44,49 🤑» (05:00)"
   },
   {
-   "hora": "2026-11-13T00:03",
-   "t": "📰 Andorra–Gibraltar: «¡Jesús Owono no se retira! El arquero del Andorra sigue tocado por la tragedia» (Soy Futbol) · tenemos 2 post(s) de este partido: pick-seguro, combi-multi"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x716 💎» (06:00)"
   },
   {
-   "hora": "2026-11-12T23:42",
-   "t": "🔧 El paso «imagenes_cola» del bot ha fallado 3 veces en la última hora"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🚀 COMBI x867 🚀» (08:00)"
   },
   {
-   "hora": "2026-11-12T23:06",
-   "t": "🖼️ Sale a las 23:13 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x45,92 🤑» (09:00)"
   },
   {
-   "hora": "2026-11-12T22:34",
-   "t": "🖼️ Sale a las 22:49 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x88,33 💯» (09:30)"
   },
   {
-   "hora": "2026-11-12T21:59",
-   "t": "🖼️ Sale a las 22:13 y su foto no está hecha (o es vieja): 🔥 ¡2 VERDES PARA DENTRO! 🔥"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x795 🤪» (11:30)"
   },
   {
-   "hora": "2026-11-12T21:04",
-   "t": "⏰ No ha salido en threads (18:54): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x92,97 💯» (12:00)"
   },
   {
-   "hora": "2026-11-12T21:04",
-   "t": "⏰ No ha salido en threads (19:12): PARA DENTRO SEÑORES ✅🤑"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x57,68 💸» (13:00)"
   },
   {
-   "hora": "2026-11-12T20:43",
-   "t": "📰 Salamanca UDS–Celta Vigo: «Duro golpe para el Salamanca UDS, que pierde a su máximo goleador en Liga: Asier Domínguez, unos dos meses de » (SALAMANCArtv AL DÍA) · tenemos 1 post(s) de este partido: escalera"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x527 💎» (14:00)"
   },
   {
-   "hora": "2026-11-12T17:16",
-   "t": "📰 Italia–Francia: «Con cinco cambios, y más bajas, Los Pumas tienen a su equipo confirmado para enfrentar a Italia» (Rugby Champagne) · tenemos 2 post(s) de este partido: combi-nations-th-2, combi-partido-1528960-th2"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🎰 LA MILLONARIA x913 🎰» (15:00)"
   },
   {
-   "hora": "2026-11-12T16:14",
-   "t": "📰 Andorra–Gibraltar: «El entrenador del Andorra habla sobre el futuro de Jesús Owono: “Está muy tocado”» (Diario de Avisos) · tenemos 3 post(s) de este partido: ganadores-nations, combi-multi, pick-seguro-2"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x60,37 🤑» (15:30)"
   },
   {
-   "hora": "2026-11-12T13:29",
-   "t": "🖼️ Sale a las 13:30 y su foto no está hecha (o es vieja): Vamos con la combi del jueves familia 🔥"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x98,44 💯» (16:30)"
   },
   {
-   "hora": "2026-11-12T12:26",
-   "t": "⏰ No ha salido en threads (12:00): Os dejo la combi del Turquía – Bélgica ⚽🔥"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x736 💎» (17:30)"
   },
   {
-   "hora": "2026-11-12T12:00",
-   "t": "⭐ Italia–Francia: «Mbappé no jugará contra Italia en la Nations League: Zidane explica porqué» (https://fomoera.com/). «Os dejo la combi del Italia – Francia ⚽🔥» (19:45) va a favor de ese equipo: te propongo quitarlo"
+   "hora": "2026-11-16T02:55",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x129 💯» (18:30)"
   }
  ]
 }

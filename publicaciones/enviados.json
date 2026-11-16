@@ -749,5 +749,14 @@
   "2026-11-15-combi-tres": {
     "enviado": "2026-11-15T13:30",
     "mensaje_id": 483
+  },
+  "2026-11-16-pick-seguro": {
+    "caducada": "cancelado"
+  },
+  "2026-11-16-combi-tres": {
+    "caducada": "cancelado"
+  },
+  "2026-11-16-pick-seguro-2": {
+    "caducada": "cancelado"
   }
 }

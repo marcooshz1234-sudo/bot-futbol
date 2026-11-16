@@ -31,9 +31,21 @@
    "post": "2026-11-14-cuotaza-1570018-88fe62"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Germany",
+   "visitante": "Netherlands",
+   "inicio": "2026-11-16T20:45",
+   "texto": "Netherlands marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.22,
+   "ev": -0.009,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-16T02:03",
+  "hora": "2026-11-16T02:55",
   "revisadas": 0,
   "mejor": null
  },

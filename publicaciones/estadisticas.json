@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 02:14",
+ "actualizado": "2026-11-16 02:54",
  "redes": {
   "instagram": {
    "seguidores": 41,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2809,
-   "hoy": 17,
+   "seguidores": 2812,
+   "hoy": 20,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2809
+    2812
    ]
   },
   "facebook": {
@@ -54,23 +54,23 @@
    ]
   }
  },
- "total": 3263,
- "total_hoy": 18,
+ "total": 3266,
+ "total_hoy": 21,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "03:00",
   "dia": "2026-11-16",
-  "titulo": "Vamos con otro pick"
+  "titulo": "La centenaria x82,96"
  },
  "ayer": {
-  "aciertos": 0,
-  "total": 1
+  "aciertos": 2,
+  "total": 4
  },
  "escalera": {
   "dia": 1,
   "de": 7,
   "stake": 20.0,
-  "objetivo": 34.0,
+  "objetivo": 37.0,
   "fecha": "2026-11-16"
  },
  "historial": {
@@ -216,7 +216,7 @@
   },
   "2026-11-16": {
    "instagram": 41,
-   "threads": 2809,
+   "threads": 2812,
    "facebook": 1,
    "telegram": 412
   }

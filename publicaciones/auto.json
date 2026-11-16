@@ -6295,7 +6295,7 @@
   {
     "id": "2026-11-16-loca-th-0300-x100",
     "fecha": "2026-11-16T03:00",
-    "texto": "💯 LA CENTENARIA x87,32 💯\n\n🇰🇿 Kazajistán – Eslovaquia · 16:00\n⚽ Kazajistán marca\n🚩 Eslovaquia hace más córners\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Liechtenstein hace más de 1,5 córners\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n⚽ Albacete marca 2 o más\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n🚩 Alemania hace más córners\n\n🇬🇷 Grecia – Serbia · 20:45\n⚽ Grecia marca 2 o más\n\n🇬🇮 Gibraltar – Malta · 20:45\n🏆 Gana Malta\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🏆 Gana Eslovenia\n\n🎯 CUOTA 87,32 aprox. 💎 · 10€ → 873€\n\n👇 ¿Cuál quitaríais? 👇",
+    "texto": "💯 LA CENTENARIA x82,96 💯\n\n🇰🇿 Kazajistán – Eslovaquia · 16:00\n⚽ Kazajistán marca\n🚩 Eslovaquia hace más córners\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Liechtenstein hace más de 1,5 córners\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n⚽ Albacete marca 2 o más\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n🚩 Alemania hace más córners\n\n🇬🇷 Grecia – Serbia · 20:45\n⚽ Grecia marca 2 o más\n\n🇬🇮 Gibraltar – Malta · 20:45\n🏆 Gana Malta\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🏆 Gana Eslovenia\n\n🎯 CUOTA 82,96 aprox. 💎 · 10€ → 873€\n\n👇 ¿Cuál quitaríais? 👇",
     "sel": [
       "1545652|Home Player Shots|Dan Ndoye - 3",
       "1528990|Away Player Shots|Denzel Dumfries - 1",
@@ -6318,7 +6318,7 @@
       1.53,
       1.53,
       1.57,
-      1.57
+      1.53
     ],
     "solo_en": [
       "threads"
@@ -6328,7 +6328,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T02:52"
   },
   {
     "id": "2026-11-16-loca-th-0400-lista-ambos",
