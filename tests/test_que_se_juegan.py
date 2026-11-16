@@ -29,6 +29,8 @@ class QueSeJuegan(unittest.TestCase):
         self.assertEqual(c["local"]["estado"], "nada")
         self.assertIn("ya es 1.º", c["local"]["texto"])
         self.assertEqual(c["visitante"]["estado"], "se_juega")
+        self.assertIn("gana: 2.º-3.º", c["visitante"]["texto"])
+        self.assertIn("(play-off para no bajar)", Q.contexto(5, 11)["visitante"]["texto"])   # empata/pierde: 3.º
         self.assertTrue(Q.sin_motivo(5, 11, "local"))
         self.assertFalse(Q.sin_motivo(5, 11, "visitante"))
 

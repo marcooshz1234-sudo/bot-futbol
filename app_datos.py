@@ -561,8 +561,26 @@ def picks_por_partido(dias, partidos, publicados_hoy, directo, conocidos):
                 else:
                     g["picks"].append({"texto": x["texto"], "cuota": x.get("cuota"), "prob": None, "canal": True,
                                        "estado": x.get("estado") or "pendiente"})
+        from nombres import espanol
         for g in grupos.values():
             g["picks"].sort(key=lambda y: (not y["canal"], -(y["prob"] or 0)))
+            for y in g["picks"]:
+                y["texto"] = espanol(y["texto"])   # 16/11: salía «Gana el Islas Feroe»
+            # 16/11 (Marcos: «y aquí no se ha metido nada»): qué se juega cada uno (que_se_juegan.py)
+            try:
+                import que_se_juegan
+                c = que_se_juegan.de_partido(g["id"])
+            except Exception as e:
+                print("qué se juegan:", str(e)[:120])
+                c = None
+            if c:
+                g["en_juego"] = {k: {"texto": c[k]["texto"], "estado": c[k]["estado"]} for k in ("local", "visitante")}
+                for y in g["picks"]:
+                    t = y["texto"].lower()
+                    for k, nom in (("local", g["local"]), ("visitante", g["visitante"])):
+                        otro = "visitante" if k == "local" else "local"
+                        if f"gana {nom}".lower() in t and c[k]["estado"] == "nada" and c[otro]["estado"] == "se_juega":
+                            y["sin_motivo"] = True
         salida[dia] = sorted([g for g in grupos.values() if g["picks"]], key=lambda g: (g["fecha"], g["local"]))
     return salida
 

@@ -25,7 +25,7 @@ TERMINADO = ("FT", "AET", "PEN", "AWD", "WO")
 SIGNIFICADO = {
     "League A": {1: "cuartos", 2: "cuartos", 3: "play-off para no bajar", 4: "desciende"},
     "League B": {1: "sube", 2: "play-off para subir", 3: "play-off para no bajar", 4: "desciende"},
-    "League C": {1: "sube", 2: "play-off para subir", 3: "se queda", 4: "4.º (puede ir al play-off de descenso)"},
+    "League C": {1: "sube", 2: "play-off para subir", 3: "se queda", 4: "puede ir al play-off de descenso"},
     "League D": {1: "play-off para subir"},
 }
 _cache = {}
@@ -156,7 +156,10 @@ def texto(fase, pos):
     if len(todos) == 1:
         s = sig.get(todos[0])
         return f"ya es {todos[0]}.º{f' ({s})' if s else ''} pase lo que pase"
-    return " · ".join(f"{n}: {_rango(pos[k])}" for k, n in (("G", "gana"), ("E", "empata"), ("P", "pierde")) if pos.get(k))
+    def con_sig(v):
+        ss = {sig.get(x) for x in v}
+        return _rango(v) + (f" ({ss.pop()})" if len(ss) == 1 and None not in ss else "")
+    return " · ".join(f"{n}: {con_sig(pos[k])}" for k, n in (("G", "gana"), ("E", "empata"), ("P", "pierde")) if pos.get(k))
 
 
 # 16/11 (Marcos: «igual en la Champions, en las ligas…»): en competiciones largas no se prueban todos los
@@ -227,6 +230,18 @@ def contexto(liga, fid):
         pos = r["equipos"][nom]
         out[lado] = {"equipo": nom, "estado": estado(pos), "texto": texto(r["fase"], pos), "puestos": pos}
     return out
+
+
+def de_partido(fid):
+    """contexto() buscando el partido en todos los calendarios (para la app, que no sabe el id de la liga)."""
+    for f in DATOS.glob("calendario_*.json"):
+        try:
+            liga = int(f.stem.split("_")[1])
+        except ValueError:
+            continue
+        if any(x["fixture"]["id"] == fid for x in _cal(liga)):
+            return contexto(liga, fid)
+    return None
 
 
 def sin_motivo(liga, fid, lado):
