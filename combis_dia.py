@@ -1438,6 +1438,19 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         if res.get("seguro2"):
             usos[sel(res["seguro2"][0])] += 1
             apuntar(res["seguro2"][:1])
+    # 16/11 (Marcos: «si hay más cuotas buenas, que las meta también, y si son de diferente mercado, mejor»): hasta 2
+    # picks más en Telegram (12:30 y 16:30), solo si los hay buenos de verdad (sin plan B)
+    if dia >= SEGURO_DESDE:
+        hechos = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
+        for n, hora_x in zip((3, 4), EXTRA_PICKS["horas"]):
+            ya_x = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-{n}").items()
+                    if n_ and s_.split("|")[0].isdigit()]
+            r = pick_extra(sin_choques(pools_pick), dia, hora_x, hechos, ya=ya_x, usados=list(usos))
+            res[f"seguro{n}"] = r
+            if r:
+                hechos.append(r[0])
+                usos[sel(r[0])] += 1
+                apuntar(r[:1])
     # 11/11 (Marcos: «máx. 2 veces»): también cuentan el pick del día, el 2º pick y el estrella; la multi lo respeta
     # 13/11 (Marcos: «una combi al día tiene que haber; el resto lo puedes cambiar»): en día bueno, solo la combi
     # del día («tres»); ni multi ni loca (las combis largas cayeron todas por una pata)
@@ -1821,6 +1834,44 @@ def minimo_diario():
         return bool(AJ.valor("minimo_diario"))
     except Exception:
         return True
+
+
+EXTRA_PICKS = {"horas": ((12, 30), (16, 30)), "castigo_tipo_hoy": 0.05}
+
+
+def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=()):
+    """16/11: (pick, hora) de un pick más para Telegram si hay una cuota buena de verdad: misma cuota y probabilidad
+    que el pick del día (sin plan B), que no choque con lo de hoy y mejor de un mercado que no haya salido hoy."""
+    from plantillas import choca
+    hh, mm = hh_mm
+    lo, hi = SEGURO_NUEVO["cuota"]
+    try:
+        import ajustes as AJ
+        c = AJ._control()
+        if AJ.pausado("analista", c):
+            return None
+        lo, hi = float(AJ.valor("pick_cuota_min", c)), float(AJ.valor("pick_cuota_max", c))
+    except Exception:
+        pass
+    hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
+    clave = lambda p: (int(p["partido_id"]), p["mercado"], p["opcion"])
+    ya = {(int(a), b, c_) for a, b, c_ in ya} | {clave(p) for p in hechos}
+    otras = list(usados) + [f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in hechos]
+    cand = [p for pool in pools for p in pool
+            if lo <= p["cuota"] <= hi and clave(p) not in ya and tipo_pick(p) not in SEGURO["no_tipos"]
+            and (not _excluido(p) or (_solo_pick(p) and p["prob_aprendida"] >= SEGURO["prob_solo_pick"]))
+            and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada") and fijisimo(p)
+            and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)
+            and not choca(f"{p['partido_id']}|{p['mercado']}|{p['opcion']}", otras)]
+    if not cand:
+        return None
+    hoy = [tipo_pick(p) for p in hechos]
+
+    def nota(p):
+        t = tipo_pick(p)
+        castigo = EXTRA_PICKS["castigo_tipo_hoy"] * hoy.count(t) + (SEGURO["castigo_jugador"] if t == "jugador" else 0)
+        return (round(p["prob_aprendida"] - castigo, 2), p["prob_aprendida"] * p["cuota"])
+    return max(cand, key=nota), hora
 
 
 def _solo_pick(p):

@@ -295,7 +295,7 @@ def balance_seguro():
     gan = 0.0
     for dia in res.values():
         for c in dia.get("combis") or []:
-            if re.search(r"-pick-seguro(-2)?$", c.get("id", "")) and c.get("cuota") and c.get("estado") in ("verde", "rojo"):
+            if re.search(r"-pick-seguro(-\d)?$", c.get("id", "")) and c.get("cuota") and c.get("estado") in ("verde", "rojo"):
                 if c["estado"] == "verde":
                     v += 1
                     gan += 10 * (c["cuota"] - 1)
@@ -656,6 +656,11 @@ def posts_del_dia(dia, d):
             ps, hs = cd["seguro2"]
             posts.append(("pick-seguro-2", hs, [ps], texto_seguro(ps, dia)))
             apuntar([ps])
+        for n in (3, 4):   # 16/11 (Marcos): más picks si hay cuotas buenas (12:30 y 16:30)
+            if cd.get(f"seguro{n}"):
+                ps, hs = cd[f"seguro{n}"]
+                posts.append((f"pick-seguro-{n}", hs, [ps], texto_seguro(ps, dia)))
+                apuntar([ps])
         for i, (hora, sel) in enumerate(cd.get("listas_europa") or [], 1):   # 02/11 (Marcos): mucho contenido de Champions
             texto_l, sel = texto_lista_europa(sel, i, len(cd["listas_europa"]))   # sel recortado igual que el texto
             posts.append((f"lista-europa-{i}", hora, sel, texto_l))
@@ -873,7 +878,8 @@ def posts_del_dia(dia, d):
                     p["fecha"])
         combis = sorted([p for p in salida if re.match(r"(estrella|combi-partido|combi-tres|combi-loca)", p["id"][11:])],
                         key=peso)
-        en_tg = {f"{dia}-escalera", f"{dia}-pick-seguro", f"{dia}-pick-seguro-2"} | ({combis[0]["id"]} if combis else set())
+        en_tg = {f"{dia}-escalera", f"{dia}-pick-seguro", f"{dia}-pick-seguro-2", f"{dia}-pick-seguro-3",
+                 f"{dia}-pick-seguro-4"} | ({combis[0]["id"]} if combis else set())
         for p in salida:
             if p["id"] not in en_tg:
                 p["solo_redes"] = True

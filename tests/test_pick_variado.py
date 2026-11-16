@@ -90,3 +90,31 @@ class PickVariado(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class PicksExtra(unittest.TestCase):
+    """16/11 (Marcos: «si hay más cuotas buenas, que las meta también, y si son de diferente mercado, mejor»)."""
+
+    def _extra(self, pools, hechos):
+        with mock.patch("plantillas.choca", lambda s, otras: False):
+            r = C.pick_extra(pools, DIA, (12, 30), hechos)
+        return r[0]["texto"] if r else None
+
+    def test_mejor_otro_mercado(self):
+        g = dict(GANA2, prob_aprendida=0.70)
+        self.assertEqual(self._extra([[g, CORNERS]], hechos=[GANA]), "Alemania más de 4,5 córners")
+
+    def test_si_no_hay_otro_puede_repetir_tipo(self):
+        self.assertEqual(self._extra([[GANA2]], hechos=[GANA]), "Gana Grecia")
+
+    def test_sin_cuota_buena_no_sale(self):
+        flojo = dict(CORNERS, prob_aprendida=0.55)
+        caro = dict(CORNERS, partido_id=9, cuota=1.95, prob_aprendida=0.75)
+        self.assertIsNone(self._extra([[flojo, caro]], hechos=[GANA]))
+
+    def test_no_repite_el_mismo_pick(self):
+        self.assertIsNone(self._extra([[GANA]], hechos=[GANA]))
+
+    def test_no_choca(self):
+        with mock.patch("plantillas.choca", lambda s, otras: True):
+            self.assertIsNone(C.pick_extra([[CORNERS]], DIA, (12, 30), [GANA]))

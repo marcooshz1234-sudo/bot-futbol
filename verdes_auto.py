@@ -242,7 +242,7 @@ def main():
         print("Verde automático:", post["id"])
 
 
-NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
+NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro-3", "Otro pick"), ("pick-seguro-4", "Otro pick"), ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
            ("combi-tres", "Combi del día"), ("combi-partido", "Combi del partido"), ("combi-loca", "La loca"),
            ("combi-multi", "Combi larga"), ("combi-", "Combi"), ("pick-", "Pick")]
 
@@ -370,7 +370,7 @@ def rojos(d, hechos, ahora, ids_cola):
     """09/11 (Marcos): el pick del día que falla también se cuenta (da confianza). Pasa por su OK como los verdes."""
     nuevos = []
     for p in d.get("publicados_hoy", []):
-        if p["id"] in hechos or p.get("estado") != "rojo" or not re.search(r"-pick-seguro(-2)?$", p["id"]):
+        if p["id"] in hechos or p.get("estado") != "rojo" or not re.search(r"-pick-seguro(-\d)?$", p["id"]):
             continue
         if not all(x.get("definitivo") or x.get("estado_partido") in TERMINADO for x in p.get("picks", [])):
             continue
