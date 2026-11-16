@@ -3033,5 +3033,25 @@
    "liga": "UEFA Nations League",
    "prob_cuota": 0.654
   }
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11058",
+  "dia": "2026-11-16",
+  "local": "Greece",
+  "visitante": "Serbia",
+  "partido_id": 1528991,
+  "texto": "Gana el Grecia",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 2.0,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.4,
+   "prob_cuota": 0.5
+  }
  }
 ]

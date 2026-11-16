@@ -46,7 +46,7 @@
    "prob_cuota": 4.971
   },
   "CRIMINALPICKS🕵🏻‍♂️": {
-   "n": 9,
+   "n": 10,
    "verdes": 4,
    "rojos": 3,
    "nulos": 0,
@@ -163,7 +163,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 19,
+   "n": 20,
    "verdes": 11,
    "rojos": 5,
    "nulos": 0,
@@ -784,11 +784,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Greece": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 73,
+   "n": 74,
    "verdes": 40,
    "rojos": 8,
    "nulos": 0,
@@ -887,7 +894,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 15,
+   "n": 16,
    "verdes": 5,
    "rojos": 2,
    "nulos": 0,
@@ -916,7 +923,7 @@
    "prob_cuota": 11.701
   },
   "UEFA Nations League": {
-   "n": 47,
+   "n": 48,
    "verdes": 28,
    "rojos": 7,
    "nulos": 0,
@@ -963,7 +970,7 @@
    "prob_cuota": 14.509
   },
   "local": {
-   "n": 32,
+   "n": 33,
    "verdes": 16,
    "rojos": 9,
    "nulos": 0,
@@ -992,7 +999,7 @@
    "prob_cuota": 22.653
   },
   "—": {
-   "n": 39,
+   "n": 40,
    "verdes": 10,
    "rojos": 8,
    "nulos": 0,
@@ -1057,7 +1064,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 113,
+   "n": 114,
    "verdes": 56,
    "rojos": 19,
    "nulos": 0,

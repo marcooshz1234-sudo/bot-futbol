@@ -5425,22 +5425,18 @@
   {
     "id": "2026-11-16-loca-th-1530-x100",
     "fecha": "2026-11-16T15:30",
-    "texto": "🔥 COMBI POR 60,08 🔥\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 Eslovaquia más de 5,5 córners\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Estonia más de 4,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 +8,5 córners\n🎯 Agustin Medina: 4+ tiros\n🇩🇪 Alemania–Países Bajos 20:45\n🎯 Brian Brobbey: 3+ tiros\n🇬🇷 Grecia–Serbia 20:45\n🎯 Christos Zafeiris: 2+ tiros\n🇨🇭 Suiza–Escocia 20:45\n🎯 Winsley Boteli: 3+ tiros\n\n🎯 CUOTA 38,60 💎 10€ → 601€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "texto": "🔥 COMBI POR 60,08 🔥\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 Eslovaquia más de 5,5 córners\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Estonia más de 4,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 +8,5 córners\n🎯 Agustin Medina: 4+ tiros\n🎯 Brian Brobbey: 3+ tiros\n🇬🇷 Grecia–Serbia 20:45\n🎯 Christos Zafeiris: 2+ tiros\n🎯 Winsley Boteli: 3+ tiros\n\n🎯 CUOTA 13,36 💎 10€ → 601€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
     "sel": [
       "1528986|Away Corners Over/Under|Over 5.5",
       "1528988|Home Corners Over/Under|Over 4.5",
       "1528989|Corners Over Under|Over 8.5",
-      "1528990|Away Player Shots|Brian Brobbey - 3",
-      "1528991|Home Player Shots|Christos Zafeiris - 2",
-      "1545652|Home Player Shots|Winsley Boteli - 3"
+      "1528991|Home Player Shots|Christos Zafeiris - 2"
     ],
     "cuotas": [
       1.8,
       1.73,
       1.95,
-      1.73,
-      2.2,
-      1.67
+      2.2
     ],
     "solo_en": [
       "threads"
@@ -5453,7 +5449,7 @@
     "directo": true,
     "enlace_telegram": false,
     "cuotas_revisadas": "2026-11-16T14:56",
-    "revisado_alineaciones": "2026-11-16T20:00"
+    "revisado_alineaciones": "2026-11-16T20:16"
   },
   {
     "id": "2026-11-16-combi-partido-m-1528990",
@@ -5643,16 +5639,14 @@
   {
     "id": "2026-11-16-loca-th-1830-hora",
     "fecha": "2026-11-16T18:30",
-    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇬🇷 Grecia – Serbia ➜ 🎯 Vangelis Pavlidis: 3+ tiros\n🇬🇮 Gibraltar – Malta ➜ 🚩 Más de 8,5 córners\n🇩🇪 Alemania – Países Bajos ➜ 🎯 Lennart Karl: 2+ tiros\n🇲🇰 Macedonia del Norte – Eslovenia ➜ 🚩 Macedonia del Norte hace más de 2,5 córners\n🇨🇭 Suiza – Escocia ➜ 🎯 Remo Freuler: 1+ tiros\n\n🎯 CUOTA 8,94 💎 · 10€ → 89,40€\n\n⏳ Todo se decide a la vez 🔥",
+    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇬🇮 Gibraltar – Malta ➜ 🚩 Más de 8,5 córners\n🇩🇪 Alemania – Países Bajos ➜ 🎯 Lennart Karl: 2+ tiros\n🇲🇰 Macedonia del Norte – Eslovenia ➜ 🚩 Macedonia del Norte hace más de 2,5 córners\n🇨🇭 Suiza – Escocia ➜ 🎯 Remo Freuler: 1+ tiros\n\n🎯 CUOTA 6,28 💎 · 10€ → 89,40€\n\n⏳ Todo se decide a la vez 🔥",
     "sel": [
-      "1528990|Home Player Shots|Lennart Karl - 2",
       "1528991|Home Player Shots|Vangelis Pavlidis - 3",
       "1545618|Corners Over Under|Over 8.5",
       "1545652|Home Player Shots|Remo Freuler - 1",
       "1545662|Home Corners Over/Under|Over 2.5"
     ],
     "cuotas": [
-      1.4,
       1.33,
       1.95,
       1.4,
@@ -5668,7 +5662,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-16T18:00"
+    "cuotas_revisadas": "2026-11-16T18:00",
+    "revisado_alineaciones": "2026-11-16T20:16"
   },
   {
     "id": "2026-11-16-loca-th-1900-x50",

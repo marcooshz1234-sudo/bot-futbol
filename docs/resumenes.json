@@ -2084,8 +2084,8 @@
     "cuentas": {
       "verde": 0,
       "rojo": 11,
-      "pendiente": 24,
-      "sin_datos": 2,
+      "pendiente": 26,
+      "sin_datos": 0,
       "no_jugo": 0,
       "sin_resolver": 26
     },
@@ -2177,7 +2177,7 @@
       {
         "id": "2026-11-16-combi-m",
         "titulo": "Vamos con la combi del lunes familia 🔥",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": null
       },
       {
@@ -2232,7 +2232,7 @@
         "id": "2026-11-16-loca-th-1530-x100",
         "titulo": "🔥 COMBI POR 60,08 🔥",
         "estado": "rojo",
-        "cuota": 38.6
+        "cuota": 13.36
       },
       {
         "id": "2026-11-16-boleto-personal-th",
@@ -2273,7 +2273,7 @@
       {
         "id": "2026-11-16-loca-th-1630-x1000-b",
         "titulo": "🎰 LA MILLONARIA x1.268 🎰",
-        "estado": "sin_datos",
+        "estado": "pendiente",
         "cuota": 1.268
       },
       {
@@ -2298,7 +2298,7 @@
         "id": "2026-11-16-loca-th-1830-hora",
         "titulo": "⏰ TODO A LAS 20:45 ⏰",
         "estado": "pendiente",
-        "cuota": 8.94
+        "cuota": 6.28
       },
       {
         "id": "2026-11-16-loca-th-1900-x50",
@@ -2314,10 +2314,10 @@
       }
     ],
     "picks": {
-      "verde": 12,
-      "rojo": 12,
-      "total": 117
+      "verde": 17,
+      "rojo": 13,
+      "total": 114
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 11 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n❌ 🔥 COMBI POR 96,60 🔥 · 96,60\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n❌ 💎 COMBI x440 💎\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n❌ 🏆 LOS FAVORITOS DEL DÍA 🏆\n⏳ 💶 RETO: DE 1€ A 721€ 💶 · pendiente\n❔ Vamos con la combi del lunes familia 🔥 · faltan datos\n⏳ Otro para esta noche, de los que nos gustan mucho 🔥 · pendiente\n⏳ 🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯 · 5,95 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · pendiente\n❌ 💶 DE 1€ A 176€ 💶\n❌ 🔥 MI LARGA DE HOY · x53 🔥 · 53,40\n⏳ 🎯 MI COMBINADA DE HOY · x24,8 🔥 · 24,85 · pendiente\n⏳ 🚀 CON EL 30 % DE AUMENTO DE BET365 🚀 · 9,75 · pendiente\n❌ 🔥 LARGA CON CABEZA · x31,9 🔥 · 31,88\n❌ 🔥 COMBI POR 60,08 🔥 · 38,60\n⏳ 🎯 MI COMBINADA PERSONAL · x14 🔥 · 14,13 · pendiente\n⏳ 🎯 OTRA DE JUGADORES · x12,9 🔥 · 12,87 · pendiente\n⏳ Uno más para esta tarde 🔥 · pendiente\n⏳ Os dejo la combi del Alemania – Países Bajos 🇩🇪🔥 · pendiente\n⏳ 🎯 LA CORTITA · x5,4 🔥 · 5,40 · pendiente\n⏳ 🔥 COMBI DEL ALBACETE – CELTA DE VIGO II 🔥 · 7,32 · pendiente\n❔ 🎰 LA MILLONARIA x1.268 🎰 · 1,27 · faltan datos\n⏳ 🔥 COMBI DEL GRECIA – SERBIA 🔥 · 2,74 · pendiente\n⏳ 🔥 COMBI DEL SUIZA – ESCOCIA 🔥 · 5,58 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 8,94 · pendiente\n⏳ 🤑 COMBI x66,32 🤑 · 66,32 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 15,47 · pendiente\n\n✅ 0 acertadas · ❌ 11 falladas · ⏳ 26 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 11 EN VERDE 📊\n\n❌ 🏆 NATIONS LEAGUE - GANADORES\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n❌ 🔥 COMBI POR 96,60 🔥 · 96,60\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n❌ 💎 COMBI x440 💎\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n❌ 🪜 Reto escalera · Día 1/7\n❌ 🏆 LOS FAVORITOS DEL DÍA 🏆\n⏳ 💶 RETO: DE 1€ A 721€ 💶 · pendiente\n⏳ Vamos con la combi del lunes familia 🔥 · pendiente\n⏳ Otro para esta noche, de los que nos gustan mucho 🔥 · pendiente\n⏳ 🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯 · 5,95 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · pendiente\n❌ 💶 DE 1€ A 176€ 💶\n❌ 🔥 MI LARGA DE HOY · x53 🔥 · 53,40\n⏳ 🎯 MI COMBINADA DE HOY · x24,8 🔥 · 24,85 · pendiente\n⏳ 🚀 CON EL 30 % DE AUMENTO DE BET365 🚀 · 9,75 · pendiente\n❌ 🔥 LARGA CON CABEZA · x31,9 🔥 · 31,88\n❌ 🔥 COMBI POR 60,08 🔥 · 13,36\n⏳ 🎯 MI COMBINADA PERSONAL · x14 🔥 · 14,13 · pendiente\n⏳ 🎯 OTRA DE JUGADORES · x12,9 🔥 · 12,87 · pendiente\n⏳ Uno más para esta tarde 🔥 · pendiente\n⏳ Os dejo la combi del Alemania – Países Bajos 🇩🇪🔥 · pendiente\n⏳ 🎯 LA CORTITA · x5,4 🔥 · 5,40 · pendiente\n⏳ 🔥 COMBI DEL ALBACETE – CELTA DE VIGO II 🔥 · 7,32 · pendiente\n⏳ 🎰 LA MILLONARIA x1.268 🎰 · 1,27 · pendiente\n⏳ 🔥 COMBI DEL GRECIA – SERBIA 🔥 · 2,74 · pendiente\n⏳ 🔥 COMBI DEL SUIZA – ESCOCIA 🔥 · 5,58 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 6,28 · pendiente\n⏳ 🤑 COMBI x66,32 🤑 · 66,32 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 15,47 · pendiente\n\n✅ 0 acertadas · ❌ 11 falladas · ⏳ 26 sin resolver"
   }
 }
