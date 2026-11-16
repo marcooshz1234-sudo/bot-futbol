@@ -231,3 +231,4 @@
 2026-11-16 15:48:11 arranca el bot del móvil
 2026-11-16 16:22:26 texto /start r_bc6a9c40d5860adb → ok
 2026-11-16 16:25:24 botón ok|2026-11-16-loca-th-1630-escudos → ok
+2026-11-16 19:45:03 arranca el bot del móvil
