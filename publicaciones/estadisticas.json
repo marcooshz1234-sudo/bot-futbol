@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 20:28",
+ "actualizado": "2026-11-16 20:47",
  "redes": {
   "instagram": {
    "seguidores": 44,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2985,
-   "hoy": 193,
+   "seguidores": 2988,
+   "hoy": 196,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2985
+    2988
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 438,
-   "hoy": 27,
+   "seguidores": 439,
+   "hoy": 28,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    438
+    439
    ]
   }
  },
- "total": 3468,
- "total_hoy": 223,
+ "total": 3472,
+ "total_hoy": 227,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "20:30",
+  "hora": "21:00",
   "dia": "2026-11-16",
-  "titulo": "Gana y ambos marcan"
+  "titulo": "Combi por 93,48"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 44,
-   "threads": 2985,
+   "threads": 2988,
    "facebook": 1,
-   "telegram": 438
+   "telegram": 439
   }
  },
  "tipos_instagram": {
