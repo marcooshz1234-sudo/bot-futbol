@@ -126,7 +126,8 @@
   "prohibido-2026-11-16-boleto-b-th": "2026-11-16T15:09",
   "prohibido-2026-11-16-boleto-c-th": "2026-11-16T15:09",
   "repe-2026-11-16-1528990|Home Player Shots|Florian Wirtz - 3": "2026-11-16T15:09",
-  "choca-2026-11-16-1545652|Double Chance|Draw/Away-1545652|Match Winner|Home": "2026-11-16T15:09"
+  "choca-2026-11-16-1545652|Double Chance|Draw/Away-1545652|Match Winner|Home": "2026-11-16T15:09",
+  "prensa-1528992-b54420e0": "2026-11-16T18:12"
  },
  "abiertos": [
   {
@@ -154,12 +155,12 @@
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
-  },
-  {
    "clave": "repe-2026-11-16-1528990|Match Winner|Home",
    "t": "🔁 16/11: el mismo pronóstico en 5 posts (boleto-larga, boleto-l1-th, boleto-c-th, boleto-aumento-th, loca-th-1130-lista-gana)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
   },
   {
    "clave": "repe-2026-11-16-1528986|Match Winner|Away",
@@ -174,16 +175,20 @@
    "t": "⚔️ 16/11: se contradicen (boleto-b-th, loca-th-1730-escudos: Double Chance|Draw/Away ↔ boleto-propia-th-2: Match Winner|Home)"
   },
   {
-   "clave": "prensa-1528992-52705683",
-   "t": "📰 Gales–Portugal: «Bernardo Silva causa baja en Portugal por lesión - esto» (El Sol de México) · tenemos 4 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres, combi-partido-1528992"
+   "clave": "prensa-1528992-b54420e0",
+   "t": "📰 Gales–Portugal: «Bernardo Silva abandona selección de Portugal: destapan disputa con DT y descartan lesión» (BioBioChile) · tenemos 4 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres, combi-partido-1528992"
   },
   {
    "clave": "regla-escudos-2026-11-17-combi-partido-1528992",
    "t": "📏 Regla (escudos): combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): Home Corners Over/Under|Over 2.5 · «Os dejo la combi del Gales – Portugal ⚽🔥» (19:45)"
   }
  ],
- "revisado": "2026-11-16T18:02",
+ "revisado": "2026-11-16T18:12",
  "historial": [
+  {
+   "hora": "2026-11-16T18:12",
+   "t": "📰 Gales–Portugal: «Bernardo Silva abandona selección de Portugal: destapan disputa con DT y descartan lesión» (BioBioChile) · tenemos 4 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres, combi-partido-1528992"
+  },
   {
    "hora": "2026-11-16T15:09",
    "t": "🚫 Lleva un mercado prohibido (Goals Over/Under|Over 2.5): 🎯 MI COMBINADA DE HOY · x24,8 🔥"
@@ -419,10 +424,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1300-x50, loca-th-1530-x50)"
   }
  ]
 }
