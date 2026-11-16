@@ -20,12 +20,12 @@ class ThreadsLocas(unittest.TestCase):
         from bot import MADRID
         ini = datetime(2026, 11, 16, 20, 45, tzinfo=MADRID)
         partidos = [{"fid": i, "ini": ini, "local": f"L{i}", "visitante": f"V{i}", "local_en": "x", "patas": [
-            {"mercado": "Match Winner", "opcion": "Home", "cuota": 1.5, "prob": 0.62, "familia": "gana", "texto": "Gana L"},
-            {"mercado": "Both Teams Score", "opcion": "Yes", "cuota": 1.6, "prob": 0.58, "familia": "ambos", "texto": "Ambos marcan"},
-            {"mercado": "Total - Home", "opcion": "Over 0.5", "cuota": 1.3, "prob": 0.7, "familia": "marca", "texto": "L marca"},
-            {"mercado": "Corners 1x2", "opcion": "Home", "cuota": 1.45, "prob": 0.6, "familia": "corners", "texto": "L más córners"}]}
+            {"mercado": "Match Winner", "opcion": "Home", "cuota": 1.8, "prob": 0.52, "familia": "gana", "texto": "Gana L"},
+            {"mercado": "Both Teams Score", "opcion": "Yes", "cuota": 1.85, "prob": 0.5, "familia": "ambos", "texto": "Ambos marcan"},
+            {"mercado": "Total - Home", "opcion": "Over 1.5", "cuota": 1.75, "prob": 0.54, "familia": "marca", "texto": "L marca 2 o más"},
+            {"mercado": "Corners 1x2", "opcion": "Home", "cuota": 1.72, "prob": 0.55, "familia": "corners", "texto": "L más córners"}]}
             for i in range(8)]
-        sel, cuota, misma = T.combi_cuota(partidos, 100, "s", set())
+        sel, cuota, misma = T.combi_cuota(partidos, 100, "s", {})
         self.assertGreaterEqual(cuota, 60)
         for fid in {pt["fid"] for pt, _ in sel}:
             fams = {p["familia"] for pt, p in sel if pt["fid"] == fid}
@@ -60,8 +60,8 @@ class ThreadsLocas(unittest.TestCase):
         ini = datetime(2026, 11, 16, 20, 45, tzinfo=MADRID)
         partidos = [{"fid": 900 + i, "ini": ini, "local": f"Equipo local {i}", "visitante": f"Equipo visitante {i}",
                      "local_en": "x", "patas": [
-                         {"mercado": "Match Winner", "opcion": "Home", "cuota": 1.9, "prob": 0.5, "familia": "gana", "texto": "Gana Equipo local"},
-                         {"mercado": "Corners 1x2", "opcion": "Home", "cuota": 1.75, "prob": 0.55, "familia": "corners", "texto": "Equipo local hace más córners"}]}
+                         {"mercado": "Match Winner", "opcion": "Home", "cuota": 2.6, "prob": 0.38, "familia": "gana", "texto": "Gana Equipo local"},
+                         {"mercado": "Corners 1x2", "opcion": "Home", "cuota": 2.45, "prob": 0.4, "familia": "corners", "texto": "Equipo local hace más córners"}]}
                     for i in range(12)]
         sel, cuota, texto = T.combi_que_quepa(1000, T.combi_cuota(partidos, 1000, "s", {})[0], "s")
         self.assertLessEqual(len(texto), 500)
