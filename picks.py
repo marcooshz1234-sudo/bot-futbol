@@ -87,6 +87,21 @@ def es_sin_empate(mercado, opcion):
     return (mercado == "double chance" and opcion in ("home/away", "away/home", "12", "1/2", "homeoraway")) or mercado in ("no draw", "sin empate")
 
 
+def solo_para_pick(mercado, opcion):
+    """16/11 (Marcos: «quiero que salga lo más probable… más de 2,5 goles si lo ves muy probable… muchas faltas»):
+    mercados prohibidos en nuestras combis que SÍ valen para el pick suelto de Telegram si son muy probables
+    (más de 2,5 goles o más y tarjetas totales del partido)."""
+    o = str(opcion).strip()
+    if mercado in ("Cards Over/Under", "Total Cards") and o.startswith("Over"):
+        return True
+    if mercado in ("Goals Over/Under", "Total Goals/Both Teams To Score") and o.startswith(("Over", "o/yes")):
+        try:
+            return float(o.split()[-1]) >= 2.5
+        except ValueError:
+            return False
+    return False
+
+
 def excluido(mercado, opcion):
     """Fuera los 'menos de' (se entienden mal en redes y no le gustan) y los 'no'."""
     if es_sin_empate(mercado, opcion):

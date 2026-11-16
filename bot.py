@@ -212,6 +212,14 @@ def mercado_prohibido(post):
     con un mercado prohibido (más de 2,5 goles, 1ª parte, tarjetas totales, tiros del partido…) no sale nunca,
     lo haya hecho el bot o Claude a mano. Las copias de canales sí pueden («y más si lo dicen ellos»)."""
     pid = post.get("id", "")
+    # 16/11 (Marcos: «más de 2,5 goles si lo ves muy probable»): el pick suelto de Telegram puede llevar los
+    # mercados que solo valen para él (picks.solo_para_pick); el resto de prohibidos, no
+    if "-pick-" in pid and len(post.get("sel") or []) == 1:
+        from picks import excluido, solo_para_pick
+        partes = str(post["sel"][0]).split("|")
+        if len(partes) == 3 and excluido(partes[1], partes[2]) and not solo_para_pick(partes[1], partes[2]):
+            return f"mercado prohibido en nuestros picks: {partes[1]} {partes[2]}"
+        return None
     if post.get("origen") == "tipster" or "-tip-" in pid or "-boleto-" in pid or post.get("verde_de") or post.get("resultado") \
             or any(k in pid for k in ("verde", "rojo", "balance", "ganadores", "marcadores")):
         return None

@@ -136,6 +136,15 @@ def texto_es(t, loc, vis):
     return t
 
 
+# 16/11: mientras se monta el día, el pool lleva también lo que solo vale para el pick de Telegram («solo_pick»)
+_PICK_TG = False
+
+
+def _fuera(m, o):
+    import picks as P
+    return P.excluido(m, o) and not (_PICK_TG and P.solo_para_pick(m, o))
+
+
 def pool_bet365(ex):
     """Picks de un partido sin historial de equipos: probabilidad = la de bet365 quitando su margen."""
     import picks as P
@@ -174,7 +183,7 @@ def pool_bet365(ex):
         for g in grupos.values():
             margen = sum(1 / c for _, c in g) if len(g) > 1 else 1.05
             for o, c in g:
-                if c < CUOTA_MIN_PATA or c > 3.0 or P.excluido(m, o) or str(o).startswith("Under") or o == "No" \
+                if c < CUOTA_MIN_PATA or c > 3.0 or _fuera(m, o) or str(o).startswith("Under") or o == "No" \
                         or P.es_sin_empate(m, o):
                     continue
                 prob = (1 / c) / (margen if len(g) > 1 else 1.08 if m == "Double Chance" else 1.05)
@@ -388,7 +397,9 @@ def pool_partido(ex, hist, ap):
         print("tipsters (bonus):", str(e)[:120])
     # 11/11 (Marcos: «hazlo»): las patas de 1,35 o menos tienen que ser buenas de verdad: su probabilidad
     # (ya calibrada, con Pinnacle si lo hay) al menos la que pide la cuota. Si no, restan en vez de sumar.
-    return [p for p in pool if float(p.get("cuota") or 9) > 1.35 or p.get("prob_aprendida", 0) >= 1 / float(p["cuota"])]
+    import picks as P
+    return [dict(p, solo_pick=True) if P.excluido(p["mercado"], p["opcion"]) else p for p in pool
+            if float(p.get("cuota") or 9) > 1.35 or p.get("prob_aprendida", 0) >= 1 / float(p["cuota"])]
 
 
 def _pool_partido(ex, hist, ap):
@@ -431,7 +442,7 @@ def _pool_partido(ex, hist, ap):
                 c = float(c)
             except (TypeError, ValueError):
                 continue
-            if c < CUOTA_MIN_PATA or c > 3.0 or P.excluido(m, o) or str(o).startswith("Under") or o == "No" \
+            if c < CUOTA_MIN_PATA or c > 3.0 or _fuera(m, o) or str(o).startswith("Under") or o == "No" \
                     or P.es_sin_empate(m, o):
                 continue
             if lok and vok:
@@ -1226,14 +1237,19 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     hist = hist if hist is not None else P.historial()
     ap = ap if ap is not None else (leer(DATOS / "aprendizaje.json") or {})
     aplicar_ajustes()   # 30/10: lo que Marcos cambia en el panel (cuotas, cosas por combi, noche, horas)
-    pools = []
+    pools, pools_pick = [], []   # 16/11: pools_pick = lo mismo + lo que solo vale para el pick de Telegram
     otras = ya_en_otras()
+    global _PICK_TG
     for f in EXTRA.glob("*.json"):
         ex = leer(f) or {}
         pa = ex.get("partido")
         if not pa or datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != dia:
             continue
-        pool = pool_partido(ex, hist, ap)
+        _PICK_TG = True
+        try:
+            pool = pool_partido(ex, hist, ap)
+        finally:
+            _PICK_TG = False
         if pool and pa["league"]["id"] in EUROPA:   # 02/11: en Champions/Europa, también jugadores fijos que lo cumplen casi siempre
             ya_k = {f"{p['partido_id']}|{p['mercado']}|{p['opcion']}" for p in pool}
             pool = sorted(pool + [p for p in jugadores_estrella(pa["fixture"]["id"])
@@ -1252,6 +1268,9 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
                     f"{p['partido_id']}|{p['mercado']}|{p['opcion']}", lado) for lado in sin)]
         except Exception as e:
             print("revision (estrellas):", e)
+        if pool:
+            pools_pick.append(pool)
+        pool = [p for p in pool if not p.get("solo_pick")]
         if pool:
             pools.append(pool)
     # 1) combi de cada partido: grandes primero
@@ -1403,7 +1422,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
                  and (equipo_de(p) is None or usos_eq[equipo_de(p)] < MAX_POSTS_EQUIPO)]
                 for pool in ps]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
-    res["seguro"] = pick_seguro(sin_choques(pools), dia)
+    res["seguro"] = pick_seguro(sin_choques(pools_pick), dia)
     if res["seguro"]:
         usos[sel(res["seguro"][0])] += 1
         apuntar(res["seguro"][:1])
@@ -1415,7 +1434,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         primero = (seguro_publicado(dia) if nuevo else None) or (res["seguro"][0] if res["seguro"] else None)
         ya2 = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-2").items()
                if n_ and s_.split("|")[0].isdigit()] if nuevo else ()
-        res["seguro2"] = pick_seguro(sin_choques(pools), dia, segundo=primero, ya=ya2)
+        res["seguro2"] = pick_seguro(sin_choques(pools_pick), dia, segundo=primero, ya=ya2)
         if res.get("seguro2"):
             usos[sel(res["seguro2"][0])] += 1
             apuntar(res["seguro2"][:1])
@@ -1682,11 +1701,29 @@ def estrellas(pools, ya, dia):
     return [(cp, c, h) for _, c, cp, h, _ in cands[:ESTRELLA["max"]]]
 
 
-SEGURO = {"cuota": (1.50, 2.00), "familias": ("resultado", "goles", "jugador", "corners", "ambos", "tarjetas"),
-          "hora": (10, 30), "prob_min": 0.62}
-# 16/11 (Marcos: «no siempre solo quién gana, quiero más cosas… si es muy probable y encima está a 1,50-1,70, para
-# adelante»): también córners, «ambos ven tarjeta» y tarjetas de un equipo (nunca las totales, que están prohibidas),
-# y los dos picks del día de tipos distintos (si el de las 10:30 es un «gana», el de las 18:00 es otra cosa).
+SEGURO = {"cuota": (1.50, 2.00), "no_tipos": ("tiros", "fueras"), "hora": (10, 30), "prob_min": 0.62,
+          "prob_solo_pick": 0.70, "castigo_repetido": 0.03, "castigo_jugador": 0.02}
+# 16/11 (Marcos: «quiero que salga lo más probable… que no sea monótono… aunque el gana o gana o empata me gusta»):
+# el pick de Telegram sale de TODOS los mercados (resultado, goles, córners, tarjetas, jugadores…). Lo prohibido en
+# las combis (más de 2,5 goles, tarjetas del partido) vale aquí solo si es muy probable (prob_solo_pick). Los dos picks
+# del día, de tipos distintos, y lo que ya salió los últimos 3 días resta un poco (el «gana» resta la mitad).
+
+
+def tipos_recientes(dia, dias=3):
+    """16/11: tipos de los picks de Telegram publicados los días antes (para no ser monótonos)."""
+    from bot import RAIZ
+    pub = RAIZ / "publicaciones"
+    env = {**(leer(pub / "enviados.json", {}) or {}), **(leer(pub / "enviados_redes.json", {}) or {})}
+    antes = {(datetime.fromisoformat(dia) - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(1, dias + 1)}
+    tipos = []
+    for p in leer(pub / "auto.json", []) or []:
+        pid = p.get("id", "")
+        if pid[:10] in antes and "-pick-" in pid and (p.get("enviado") or pid in env):
+            for s_ in (p.get("sel") or [])[:1]:
+                partes = str(s_).split("|")
+                if len(partes) == 3:
+                    tipos.append(tipo_pick({"mercado": partes[1], "opcion": partes[2]}))
+    return tipos
 
 
 def tipo_pick(p):
@@ -1786,6 +1823,11 @@ def minimo_diario():
         return True
 
 
+def _solo_pick(p):
+    import picks as _P
+    return _P.solo_para_pick(p.get("mercado"), p.get("opcion"))
+
+
 def _excluido(p):
     import picks as _P
     return _P.excluido(p.get("mercado"), p.get("opcion"))
@@ -1822,10 +1864,11 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
         t = pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(lo, hi)) or pick_de_copa(pools, hora, otro, rango=(lo, hi))
         if t and not (tipo_otro and tipo_pick(t) == tipo_otro):
             return t, hora
-    def buscar(lo, hi, prob_min, fijo=True):
+    def buscar(lo, hi, prob_min, fijo=True, distinto=True):
         return [p for pool in pools for p in pool
-                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and (p["partido_id"], p["mercado"], p["opcion"]) not in ya and tipo_pick(p) in SEGURO["familias"]
-                and tipo_pick(p) != tipo_otro and not _excluido(p) and not tarjetas_altas(p)
+                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and (p["partido_id"], p["mercado"], p["opcion"]) not in ya
+                and tipo_pick(p) not in SEGURO["no_tipos"] and (tipo_pick(p) != tipo_otro or not distinto)
+                and (not _excluido(p) or (_solo_pick(p) and p["prob_aprendida"] >= max(prob_min, SEGURO["prob_solo_pick"])))
                 and p["prob_aprendida"] >= prob_min and not suelto_no(p) and not p.get("estimada") and (fijisimo(p) or not fijo)
                 and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     cand = buscar(lo, hi, SEGURO["prob_min"])
@@ -1841,15 +1884,27 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
                 return t, hora
         if not cand:
             cand = buscar(1.30, 2.00, SEGURO["prob_min"] - 0.05, fijo=False)
+        if not cand and tipo_otro:   # 16/11: el mínimo diario manda; en el último plan B puede repetir tipo
+            cand = buscar(1.30, 2.00, SEGURO["prob_min"] - 0.05, fijo=False, distinto=False)
         if cand:
             print(f"Mínimo diario: plan B ({len(cand)} candidatos)")
     if not cand:
         return None
-    # 03/11 (Marcos: «cambia el seguro», salía Olise 3+ tiros): primero resultado y goles; jugadores solo si no hay
-    equipo = [p for p in cand if p.get("tipo") != "jugador" and not p.get("jugador")]
-    cand = equipo or cand
-    # más probable; a igualdad, la que más paga a la larga
-    p = max(cand, key=lambda p: (round(p["prob_aprendida"], 2), p["prob_aprendida"] * p["cuota"]))
+    # 16/11: el más probable, restando un poco si ese tipo ya salió los últimos días (el «gana», la mitad) y a los
+    # jugadores (03/11: «cambia el seguro», salía Olise 3+ tiros); a igualdad, la que más paga a la larga
+    try:
+        recientes = tipos_recientes(dia)
+    except Exception as e:
+        print("tipos recientes:", e)
+        recientes = []
+
+    def nota(p):
+        t = tipo_pick(p)
+        castigo = SEGURO["castigo_repetido"] * recientes.count(t) * (0.5 if t == "resultado" else 1)
+        if t == "jugador":
+            castigo += SEGURO["castigo_jugador"]
+        return (round(p["prob_aprendida"] - castigo, 2), p["prob_aprendida"] * p["cuota"])
+    p = max(cand, key=nota)
     return p, hora
 
 

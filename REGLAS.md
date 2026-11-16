@@ -29,7 +29,7 @@
 - Un **pick suelto** (o copia de tipster de una pata) es solo para Telegram, nunca Threads/Instagram.
 - **Copias de los canales (16/11, Marcos: «coge las que te gusten… fallar lo menos posible»; «que pese más el % de acierto de cada tipster»)**: ya no se copia todo. Nota = 40 % lo que ve bet365 + 60 % el acierto del tipster (suavizado: con pocos picks cuenta como 50 %) + 0,10 si lo dan 2 canales; se copia con nota ≥ 0,55. Nunca algo que bet365 vea por debajo del 33 %, ni a favor de un equipo que no se juega nada contra uno que sí. Siempre con su porqué. **El motivo del analista, siempre con otras palabras** (nunca su texto tal cual; si no hay uno reescrito, el bot pone sus propias razones) (16/11 10:53). **De 1,80 para arriba solo los tipsters buenos (≥ 70 % de acierto suavizado: INSIDER, Lafiebredelpick, MAX ANALISTA, TRADER…)** (16/11 10:41).
 
-- 🎯 **Pick del día con más cosas, no solo «gana»** (16/11, Marcos: «quiero más cosas… si es muy probable y está a 1,50-1,70, para adelante»): también córners, «ambos ven tarjeta» y tarjetas de un equipo (nunca totales). Los dos picks del día, de tipos distintos. La promo «2 goles de ventaja» no se escribe en los posts (el verde ya cuenta el 2-0).
+- 🎯 **Picks de Telegram: lo más probable de TODOS los mercados, sin ser monótonos** (16/11, Marcos: «quiero que salga lo más probable… más de 2,5 goles si lo ves muy probable… que no sea monótono, aunque el gana o gana o empata me gusta»). Resultado, goles, córners, tarjetas, jugadores… Lo prohibido en las combis (más de 2,5 goles, tarjetas del partido) vale aquí solo con prob. ≥ 70 %; el resto de prohibidos (1ª parte, menos de, tiros del partido…), no. Los dos picks del día de tipos distintos (salvo el último plan B del mínimo diario) y lo que salió los 3 días antes resta un poco (el «gana», la mitad). La promo «2 goles de ventaja» no se escribe en los posts (el verde ya cuenta el 2-0).
 
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).
@@ -54,7 +54,7 @@
   en la 1ª parte» (04/11), ganador al descanso / empate al descanso (07/11), **tarjetas totales del partido** (12/11:
   mejor por equipo), tiros totales del partido (05/11), fueras de juego (03/11), «menos de X», «no», «12 / sin empate»,
   paradas del portero (se miran a mano).
-- 🤖 **Excepción:** las copias de canales de Telegram SÍ pueden llevar esos mercados («y más si lo dicen ellos», 12/11).
+- 🤖 **Excepción:** las copias de canales de Telegram SÍ pueden llevar esos mercados («y más si lo dicen ellos», 12/11). Y el pick suelto de Telegram, más de 2,5 goles y tarjetas del partido si son muy probables (16/11, ver §0).
 - 🤖 **Combis con escudos (de un partido): sin córners ni tarjetas** (01/11: córners 43 % y tarjetas 36 % de acierto en octubre).
 - 👤 Se prefieren: «gana X» (con la promo «2 goles de ventaja»), doble oportunidad, «X marca 2 o más», ambos marcan,
   jugadores titulares fijos con cosas que suman (tiros, faltas), córners en combis de varios partidos.
