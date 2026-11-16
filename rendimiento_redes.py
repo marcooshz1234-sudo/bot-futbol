@@ -139,18 +139,28 @@ def instagram(tok, previo):
     t0 = time.time()
     for p in posts:
         viejo = previo.get(p["id"])
-        if viejo and (p["timestamp"] < (datetime.now(timezone.utc) - timedelta(days=4)).strftime("%Y-%m-%dT%H")
-                      or time.time() - t0 > 150):
+        if viejo and p["timestamp"] < (datetime.now(timezone.utc) - timedelta(days=4)).strftime("%Y-%m-%dT%H"):
             out[p["id"]] = viejo
             continue
+        if time.time() - t0 > 240:   # sin pasarse de tiempo: lo que falte, en la próxima pasada
+            if viejo:
+                out[p["id"]] = viejo
+            continue
         m = {}
-        for met in INSTA_METRICAS:   # una a una: si una no vale para ese tipo de post, las demás sí
-            try:
-                r = _llamar("GET", f"{INSTAGRAM}/{p['id']}/insights", {"metric": met, "access_token": tok})
-                x = (r.get("data") or [{}])[0]
-                m[met] = (x.get("values") or [{}])[0].get("value", (x.get("total_value") or {}).get("value"))
-            except Exception:
-                pass
+        try:   # todas de golpe; si Instagram rechaza alguna para ese tipo de post, una a una
+            r = _llamar("GET", f"{INSTAGRAM}/{p['id']}/insights", {"metric": ",".join(INSTA_METRICAS), "access_token": tok})
+            for x in r.get("data") or []:
+                m[x["name"]] = (x.get("values") or [{}])[0].get("value", (x.get("total_value") or {}).get("value"))
+        except Exception:
+            for met in INSTA_METRICAS:
+                if time.time() - t0 > 240:
+                    break
+                try:
+                    r = _llamar("GET", f"{INSTAGRAM}/{p['id']}/insights", {"metric": met, "access_token": tok})
+                    x = (r.get("data") or [{}])[0]
+                    m[met] = (x.get("values") or [{}])[0].get("value", (x.get("total_value") or {}).get("value"))
+                except Exception:
+                    pass
         out[p["id"]] = {"ts": p["timestamp"], "m": m, "tipo_media": p.get("media_product_type")}
     try:
         seg = _llamar("GET", f"{INSTAGRAM}/me", {"fields": "followers_count", "access_token": tok}).get("followers_count")
