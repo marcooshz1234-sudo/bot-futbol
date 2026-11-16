@@ -2737,7 +2737,9 @@
   "marcador": [
    4,
    1
-  ]
+  ],
+  "resultado": "rojo",
+  "corregido_a_mano": "16/11 Claude: lo confirma el propio canal (post del 15/11 noche)"
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2765,7 +2767,9 @@
   "marcador": [
    2,
    3
-  ]
+  ],
+  "resultado": "verde",
+  "corregido_a_mano": "16/11 Claude: lo confirma el propio canal (post del 15/11 noche)"
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2822,7 +2826,9 @@
   "marcador": [
    2,
    3
-  ]
+  ],
+  "resultado": "verde",
+  "corregido_a_mano": "16/11 Claude: lo confirma el propio canal (post del 15/11 noche)"
  },
  {
   "tipster": "TipsAnalistas",
