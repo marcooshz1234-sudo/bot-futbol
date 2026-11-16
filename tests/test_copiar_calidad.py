@@ -39,6 +39,17 @@ class Calidad(unittest.TestCase):
         with mock.patch.object(C, "acierto_tipster", return_value=0.62):   # TipsAnalistas: de 1,80 no pasa
             self.assertIn("no está entre los buenos", C.calidad_no(dict(x, analisis={"prob_cuota": 0.52}), 1.85, [x]) or "")
 
+    def test_razones_con_otras_palabras(self):
+        # 16/11 10:53 (Marcos): el argumento del analista nunca tal cual; solo el reescrito («argumento_propio»)
+        from datetime import datetime
+        from bot import MADRID
+        ini = datetime(2026, 11, 16, 20, 30, tzinfo=MADRID)
+        pk = {"dia": "2026-11-16", "tipster": "A", "local": "Albacete", "visitante": "Celta Vigo II", "texto": "Gana el Albacete",
+              "cuota": 1.57, "argumento": ["El Celta Fortuna llega con diez bajas: tres sancionados y tres lesionados."]}
+        self.assertNotIn("diez bajas", C.post_suelto(pk, ini, ini.replace(hour=10), 1)["texto"])
+        pk2 = dict(pk, argumento=["El filial llega con casi diez ausencias entre sanciones y lesiones."], argumento_propio=True)
+        self.assertIn("casi diez ausencias", C.post_suelto(pk2, ini, ini.replace(hour=10), 1)["texto"])
+
     def test_suelo(self):
         x = self.x(analisis={"prob_cuota": 0.30})
         with mock.patch.object(C, "acierto_tipster", return_value=0.9):

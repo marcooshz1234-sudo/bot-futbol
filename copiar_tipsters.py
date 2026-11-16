@@ -234,7 +234,11 @@ def post_suelto(pk, ini, ahora, n):
     from plantillas import etiqueta
     # 13/11 (Marcos): fuera el «Sin argumento: solo el pick»
     # 16/11 (Marcos: «en Telegram tiene que haber explicación»): hasta 3 razones, no solo la primera
-    args = [a for a in pk.get("argumento") or [] if len(a) > 25 and not re.match(r"sin argumento", a, re.I)][:3]
+    # 16/11 10:53 (Marcos: «el motivo del analista puedes ponerlo, pero con otras palabras, no su mismo texto»): sus
+    # frases tal cual NO salen; solo las reescritas por Claude («argumento_propio»). Si no hay, el porqué lo pone el
+    # bot al publicar (publicar_telegram.con_porque: forma, tabla, rachas, qué se juega).
+    args = [a for a in pk.get("argumento") or [] if len(a) > 25 and not re.match(r"sin argumento", a, re.I)][:3] \
+        if pk.get("argumento_propio") else []
     try:
         from combis_dia import nombre_es
     except Exception:
