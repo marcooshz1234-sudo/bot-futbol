@@ -7269,7 +7269,7 @@
     ],
     "cuotas": [
       1.4,
-      1.4,
+      1.36,
       1.44
     ],
     "origen": "threads_locas",
@@ -7289,6 +7289,7 @@
       "liga": "UEFA Nations League"
     },
     "cuota_total": 2.92,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-16T22:00"
   }
 ]
