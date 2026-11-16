@@ -7339,10 +7339,10 @@
       "1528998|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      2.88,
+      2.75,
       3.75,
-      5.0,
-      3.75
+      4.75,
+      4.0
     ],
     "solo_en": [
       "threads"
@@ -7353,7 +7353,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T00:12"
   },
   {
     "id": "2026-11-17-loca-th-0200-lista-ambos",
