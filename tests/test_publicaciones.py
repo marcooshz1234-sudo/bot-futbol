@@ -81,6 +81,7 @@ class PublicacionesTest(unittest.TestCase):
                             ENVIADOS=self.pub / 'enviados.json'), \
                 patch.dict(os.environ, {'TELEGRAM_TOKEN': 'simulado', 'TELEGRAM_CANAL': 'simulado'}, clear=True), \
                 patch.object(telegram, 'comprobar'), patch.object(telegram.time, 'sleep'), \
+                patch.object(telegram, 'espera_buenos_dias', return_value=False), \
                 patch.object(telegram, 'api', return_value={'result': {'message_id': 123}}) as enviar, \
                 contextlib.redirect_stdout(io.StringIO()):
             telegram.main()

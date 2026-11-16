@@ -17,7 +17,7 @@ class TarjetaTG(unittest.TestCase):
         self.assertEqual([(f["nombre"], f["pick"], f["pais"]) for f in filas],
                          [("Suiza", "GANA", "Switzerland"), ("Azerbaiyán", "2+ GOLES", "Azerbaijan")])
         corto = T.texto_corto(NOCHE)
-        self.assertNotIn("👨‍💻", corto)
+        self.assertIn("👨‍💻", corto)   # 16/11 (Marcos): en Telegram el porqué se queda
         self.assertNotIn("⏰", corto)
         self.assertIn("📈 Cuota @2,67", corto)
 

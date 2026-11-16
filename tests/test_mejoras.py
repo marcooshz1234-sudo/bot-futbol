@@ -183,6 +183,7 @@ class PublicadorSeguroTest(unittest.TestCase):
             with patch.multiple(telegram, RAIZ=root, COLA=ruta, AUTOS=[], ENVIADOS=pub/'enviados.json', CONTROL=pub/'control.json'), \
                     patch.dict(os.environ, {'TELEGRAM_TOKEN': 'simulado', 'TELEGRAM_CANAL': 'simulado'}), \
                     patch.object(telegram, 'comprobar'), patch.object(telegram, 'time'), \
+                    patch.object(telegram, 'espera_buenos_dias', return_value=False), \
                     patch.object(telegram, 'api', return_value={'result': {'message_id': 777}}) as enviar:
                 telegram.main(objetivo=('objetivo','telegram'))
                 telegram.main(objetivo=('objetivo','telegram'))

@@ -93,10 +93,11 @@ def buenos_dias(ahora, est):
     if not ag:
         return None
     foto = MARCA / f"buenos-dias-{ahora.toordinal() % 3 + 1}.jpg"
-    texto = (elegir(SALUDOS, dia) + "\n\n📋 Hoy en el canal:\n" + "\n".join(ag[:6])
-             + "\n\n" + elegir(EXTRA, dia + "x") + "\n\n🔔 Activad las notificaciones")
+    # 16/11 (Marcos: «no puedes poner solo una cosa en "hoy en el canal"… o no pongas lo que sale hoy»): sin la lista
+    texto = (elegir(SALUDOS, dia) + "\n\n" + elegir(EXTRA, dia + "x") + "\n\n🔔 Activad las notificaciones")
     enviar(foto, texto)
     est["buenos_dias"] = dia
+    est["buenos_dias_hora"] = ahora.strftime("%Y-%m-%dT%H:%M")   # 16/11: lo que esperaba sale justo después
     return texto
 
 

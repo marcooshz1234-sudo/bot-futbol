@@ -195,8 +195,8 @@ def lema(texto):
 
 
 def texto_corto(texto):
-    """Lo que va debajo de la foto: sin argumento ni partido/hora (ya están en la foto o sobran en Telegram)."""
-    fuera = re.compile(r"^\s*(👨‍💻|⚽|⏰|🕘|🕗|🕙)")
+    """Lo que va debajo de la foto: sin partido/hora (ya están en la foto). El porqué (👨‍💻, 🧠) SIEMPRE se queda."""
+    fuera = re.compile(r"^\s*(⚽|⏰|🕘|🕗|🕙)")   # 16/11 (Marcos: «en Telegram tiene que haber explicación»): el 👨‍💻 se queda
     lineas = [l for l in texto.splitlines() if not fuera.match(l)]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lineas)).strip()
 

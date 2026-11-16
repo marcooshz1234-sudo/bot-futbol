@@ -121,6 +121,15 @@ def url_media(p, ext):
 CUOTON = 10.0
 
 
+def pick_suelto(p):
+    """16/11 (Marcos: «en Instagram y Threads no quiero un pick solo con explicación: sobre todo combinadas, texto,
+    muchas cosas, fotos con muchos escudos»): un post de una sola pata (pick suelto, copia de tipster) es solo Telegram."""
+    pid = p.get("id", "")
+    if re.search(r"ganadores|lista|loca-th|escalera|verde|rojo|balance|resumen", pid) or p.get("tarjeta"):
+        return False
+    return len(set(p.get("sel") or [])) == 1
+
+
 def resultado_sin_cuoton(p):
     """16/11 (Marcos: «en Threads no quiero ni que subas cuánto hemos acertado durante el día… solo si aciertas un
     cuotón bueno, mínimo 10: "señores, acertamos tal"»): verdes, rojos, balances y resúmenes NO salen en Threads ni en
@@ -619,7 +628,7 @@ def main(objetivo=None):
         errores = p.setdefault("errores_redes", {})
         tareas = []
         solo = p.get("solo_en")   # p. ej. ["threads"]: este post solo va a esas redes
-        if resultado_sin_cuoton(p):   # 16/11 (Marcos): en Threads/Instagram nada de aciertos, salvo un cuotón (≥ 10)
+        if resultado_sin_cuoton(p) or pick_suelto(p):   # 16/11 (Marcos): en Threads/IG nada de aciertos (salvo cuotón ≥ 10) ni picks sueltos
             solo = ["telegram"]
         if solo:
             for red in ("threads", "instagram", "instagram_reel", "instagram_story", "facebook"):

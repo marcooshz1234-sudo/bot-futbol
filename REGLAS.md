@@ -22,7 +22,11 @@
   - Threads no deja más de 500 caracteres. La cuota, siempre como saldría en bet365 (crear apuesta en el mismo partido). Un pick, como mucho en 2 posts del día.
   - **Patas de 1,40 a 9** (el tope de 1,80 es solo para Telegram).
   - Si un cuotón entra pero algún jugador no jugó (anulado), el comentario lo dice tranquilo: «han entrado todas, X no jugó y la cuota baja un poco».
-- **Telegram = lo serio (lo que luego se podrá vender).** La escalera: 1 pick (2 solo si hay uno muy fijo), explicada. Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
+- **Telegram = lo serio (lo que luego se podrá vender).** La escalera: 1 pick (2 solo si hay uno muy fijo), explicada.
+  - **Primero el buenos días y luego el contenido** (16/11): de 01:00 hasta el buenos días no sale nada nuevo (los verdes sí); lo que esperaba sale justo después.
+  - **Siempre con explicación**: si un pick (también las copias de tipsters) va sin porqué, el bot le añade 1-3 razones (forma, tabla, rachas, qué se juega). Debajo de la foto el porqué se queda.
+  - El buenos días ya **no lista lo que sale hoy** (salía solo la escalera).
+- Un **pick suelto** (o copia de tipster de una pata) es solo para Telegram, nunca Threads/Instagram. Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
 
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).

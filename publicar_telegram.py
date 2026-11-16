@@ -140,6 +140,72 @@ def comprobar(token, canal, ahora):
     print("Estado:", estado)
 
 
+ES_RESULTADO = re.compile(r"verde|rojo|balance|resumen|resultado|directo|noche|pleno")
+DESDE_BUENOS, HASTA_BUENOS = (1, 0), (10, 20)   # de 01:00 a 10:20: lo nuevo espera al «buenos días»
+
+
+def espera_buenos_dias(p, ahora):
+    """16/11 (Marcos: «antes de nada tienes que subir el buenos días y luego el contenido»; a las 03:11 salió una copia
+    de tipster): de madrugada y por la mañana no sale nada nuevo hasta que se haya publicado el buenos días de hoy.
+    Los resultados (verdes de la noche) sí. Lo que espera sale después del buenos días (no caduca)."""
+    if ES_RESULTADO.search(p["id"]) or p.get("verde_de") or p.get("resultado"):
+        return False
+    ini = ahora.replace(hour=DESDE_BUENOS[0], minute=DESDE_BUENOS[1], second=0, microsecond=0)
+    fin = ahora.replace(hour=HASTA_BUENOS[0], minute=HASTA_BUENOS[1], second=0, microsecond=0)
+    if not ini <= ahora <= fin:
+        return False
+    try:
+        est = json.loads((RAIZ / "datos" / "marca_tg.json").read_text(encoding="utf-8"))
+    except Exception:
+        est = {}
+    return est.get("buenos_dias") != ahora.strftime("%Y-%m-%d")
+
+
+def sin_porque(texto):
+    return not re.search(r"👨‍💻|Por qué|^\s*•", texto or "", re.M)   # «🧠 Pensada con calma» es una etiqueta, no un porqué
+
+
+def con_porque(p, texto):
+    """16/11 (Marcos: «en Telegram tiene que haber explicación… por qué coges cada pick o cosas de ese partido»): si un
+    pick va sin porqué, se le añaden 1-3 razones (razones.py: forma, tabla, rachas) y qué se juega cada uno."""
+    if ES_RESULTADO.search(p["id"]) or not p.get("sel") or not sin_porque(texto):
+        return texto
+    frases = []
+    try:
+        import picks as P
+        import que_se_juegan
+        import razones
+        from bot import EXTRA
+        from nombres import espanol
+        hist = P.historial()
+        for s_ in p["sel"][:3]:
+            fid, mercado, opcion = (str(s_).split("|") + ["", ""])[:3]
+            ex = json.loads((EXTRA / f"{fid}.json").read_text(encoding="utf-8")) if (EXTRA / f"{fid}.json").exists() else {}
+            pa = ex.get("partido") or {}
+            if not pa:
+                continue
+            loc, vis = pa["teams"]["home"]["name"], pa["teams"]["away"]["name"]
+            pk = {"partido_id": int(fid), "liga_id": pa["league"]["id"], "local": loc, "visitante": vis,
+                  "mercado": mercado, "opcion": opcion, "texto": P.texto_pick(mercado, opcion, loc, vis)}
+            for f in razones.razones(pk, hist, ex, maximo=2):
+                frases.append(espanol(f))
+            c = que_se_juegan.contexto(pa["league"]["id"], int(fid))
+            if c:
+                for lado in ("local", "visitante"):
+                    if c[lado]["estado"] == "nada":
+                        frases.append(espanol(f"{c[lado]['equipo']}: {c[lado]['texto']}, no se juega nada."))
+                    elif c[lado]["estado"] == "se_juega":
+                        g = next((x for x in c[lado]["texto"].split(" · ") if x.startswith("gana:")), "")
+                        g = g.replace("gana:", "si gana, acaba").strip() if g else c[lado]["texto"]
+                        frases.append(espanol(f"{c[lado]['equipo']} se lo juega: {g}."))
+    except Exception as e:
+        print("porqué:", str(e)[:150])
+    frases = list(dict.fromkeys(f for f in frases if f))[:3]
+    if not frases:
+        return texto
+    return texto.rstrip() + "\n\n🧠 Por qué:\n" + "\n".join(f"👨‍💻 {f}" for f in frases)
+
+
 def main(objetivo=None):
     token = os.environ.get("TELEGRAM_TOKEN")
     canal = os.environ.get("TELEGRAM_CANAL")
@@ -212,6 +278,14 @@ def main(objetivo=None):
             cuando = datetime.fromisoformat(ok).replace(tzinfo=MADRID)
         if cuando > ahora:
             continue
+        if espera_buenos_dias(p, ahora):
+            continue
+        if cuando.hour < HASTA_BUENOS[0] and cuando.date() == ahora.date() and cuando.hour >= DESDE_BUENOS[0]:
+            try:   # esperó al buenos días: cuenta desde que salió
+                bd = json.loads((RAIZ / "datos" / "marca_tg.json").read_text(encoding="utf-8")).get("buenos_dias_hora")
+                cuando = max(cuando, datetime.fromisoformat(bd).replace(tzinfo=MADRID)) if bd else cuando
+            except Exception:
+                pass
         if ahora - cuando > MAX_RETRASO:
             p["caducada"] = True
             cambios += 1
@@ -231,7 +305,7 @@ def main(objetivo=None):
         if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
             continue
-        texto = preparar_texto(control.get("textos", {}).get(p["id"], p["texto"]))
+        texto = preparar_texto(con_porque(p, control.get("textos", {}).get(p["id"], p["texto"])))
         foto = p.get("foto") or foto_de_marca(p, texto)
         # 27/10 (Marcos): las combis de un partido también van con su foto (escudos y hora) en Telegram
         tarjeta = RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg"
