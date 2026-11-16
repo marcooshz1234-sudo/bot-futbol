@@ -1,7 +1,7 @@
 # Hull City – Brighton
 **Premier League** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -188,25 +188,25 @@ _Goles esperados: local 0,58 · visitante 1,53 · córners esperados 10,2._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 60% | 62% | 61% | 1.50 | -8% |
-| 1X2: X | 25% | 22% | 24% | 4.20 | -0% |
+| 1X2: X | 26% | 22% | 24% | 4.20 | -0% |
 | 1X2: 1 | 14% | 16% | 15% | 5.75 | -13% |
 | Doble oportunidad: X2 | 86% | 84% | 85% | 1.14 | -3% |
-| Doble oportunidad: 12 | 75% | 78% | 76% | 1.22 | -7% |
+| Doble oportunidad: 12 | 74% | 78% | 76% | 1.22 | -7% |
 | Doble oportunidad: 1X | 40% | 38% | 39% | 2.50 | -3% |
 | Ambos marcan: No | 65% | 47% | 56% | 2.00 | +12% |
 | Ambos marcan: Sí | 35% | 53% | 44% | 1.75 | -23% |
 | Goles más/menos: Más de 1.5 | 62% | 79% | 71% | 1.20 | -15% |
-| Goles más/menos: Más de 2.5 | 36% | 57% | 46% | 1.67 | -23% |
+| Goles más/menos: Más de 2.5 | 35% | 57% | 46% | 1.67 | -23% |
 | Goles más/menos: Más de 3.5 | 16% | 36% | 26% | 2.62 | -31% |
 | Goles más/menos: Más de 4.5 | 6% | 21% | 14% | 4.50 | -38% |
 | Goles más/menos: Menos de 1.5 | 38% | 21% | 29% | 4.50 | +32% |
-| Goles más/menos: Menos de 2.5 ✅ | 64% | 43% | 54% | 2.20 | +18% |
+| Goles más/menos: Menos de 2.5 ✅ | 65% | 43% | 54% | 2.20 | +18% |
 | Goles más/menos: Menos de 3.5 | 84% | 64% | 74% | 1.50 | +10% |
 | Goles más/menos: Menos de 4.5 | 94% | 79% | 86% | 1.20 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 72% | 66% | 1.30 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 39% | 31% | 2.38 | -25% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 39% | 31% | 2.38 | -25% |
 | Goles 1ª parte más/menos: Menos de 0.5 ✅ | 40% | 28% | 34% | 3.40 | +15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 61% | 69% | 1.53 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 61% | 69% | 1.53 | +5% |
 | Goles del local: Más de 0.5 | 44% | 61% | 53% | 1.53 | -20% |
 | Goles del local: Más de 1.5 | 12% | 25% | 18% | 3.75 | -31% |
 | Goles del local: Menos de 0.5 | 56% | 39% | 47% | 2.38 | +13% |

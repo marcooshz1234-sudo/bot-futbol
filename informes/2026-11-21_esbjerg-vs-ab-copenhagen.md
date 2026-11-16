@@ -1,10 +1,10 @@
 # Esbjerg – AB Copenhagen
 **1. Division** · Regular Season - 15 · 21/11/2026 15:00 (hora España) · Blue Water Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:13_
+_Actualizadas: 16/11 02:31_
 
 - **1X2:** 1 **2.88**  ·  X **3.60**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.25**  ·  X2 **1.36**
@@ -153,7 +153,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 50% | 57% | 54% | 1.62 | -13% |
 | Ambos marcan: No | 46% | 34% | 40% | 2.75 | +10% |
 | Ambos marcan: Sí | 54% | 66% | 60% | 1.40 | -16% |
-| Goles más/menos: Más de 2.5 | 52% | 64% | 58% | 1.48 | -14% |
+| Goles más/menos: Más de 2.5 | 52% | 64% | 58% | 1.48 | -15% |
 | Goles más/menos: Más de 3.5 | 30% | 44% | 37% | 2.10 | -22% |
 | Goles más/menos: Más de 4.5 | 14% | 27% | 21% | 3.50 | -28% |
 | Goles más/menos: Menos de 2.5 | 48% | 36% | 42% | 2.60 | +10% |

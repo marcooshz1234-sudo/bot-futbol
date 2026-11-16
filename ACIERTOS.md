@@ -1,14 +1,14 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 567 · aciertos: 353 (62%) · beneficio a 1 € por pick: -67.71 €
+Picks ya jugados: 570 · aciertos: 355 (62%) · beneficio a 1 € por pick: -67.66 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 141 | 219 | 64% | -23.87 € |
+| goles | 143 | 221 | 65% | -22.82 € |
 | jugador | 125 | 195 | 64% | -22.68 € |
-| resultado | 65 | 104 | 62% | -8.25 € |
+| resultado | 65 | 105 | 62% | -9.25 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 3 | 13 | 23% | -8.14 € |
@@ -19,15 +19,15 @@ Picks ya jugados: 567 · aciertos: 353 (62%) · beneficio a 1 € por pick: -67.
 
 | Mercado | Aciertos | Picks | % |
 |---|---|---|---|
-| To Win Either Half · Home | 6 | 6 | 100% |
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
-| Goals Over/Under · Over 1.5 | 32 | 41 | 78% |
+| To Win Either Half · Home | 6 | 7 | 86% |
+| Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
 | Double Chance · Home/Draw | 9 | 12 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
+| Goals Over/Under - Second Half · Over 1.5 | 6 | 8 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
 | Match Winner · Away | 8 | 11 | 73% |
-| Goals Over/Under - Second Half · Over 1.5 | 5 | 7 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Match Winner · Home | 7 | 10 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
@@ -52,8 +52,11 @@ Picks ya jugados: 567 · aciertos: 353 (62%) · beneficio a 1 € por pick: -67.
 
 ## Últimos días
 
-### 2026-11-15 · 0/1
+### 2026-11-15 · 2/4
 - ❌ Gana el Madrid CFF W · 2.10 (2-3)
+- ✅ Más de 1,5 goles en Eibar–Cadiz · 1.25 (1-1)
+- ❌ Eibar gana alguna de las dos partes · 1.36 (1-1)
+- ✅ Más de 1,5 goles en la 2ª parte del Spain–England · 1.80 (2-3)
 
 ### 2026-11-14 · 1/1
 - ✅ Ambos marcan en Arzignano Valchiampo–Alcione · 1.73 (3-2)

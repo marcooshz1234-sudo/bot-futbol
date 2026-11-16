@@ -51,12 +51,12 @@
    "nivel": 2,
    "liga": "Segunda División",
    "ultimos": [
-    "E",
     "D",
     "E",
     "D",
-    "V",
-    "E"
+    "E",
+    "D",
+    "V"
    ]
   },
   "sede": "Campo Santa Ana",
@@ -71,12 +71,12 @@
    "nivel": 4,
    "liga": "Segunda División RFEF - Group 4",
    "ultimos": [
+    "V",
     "E",
     "E",
     "E",
     "V",
-    "V",
-    "E"
+    "V"
    ]
   },
   "visitante": {
@@ -84,11 +84,11 @@
    "nivel": 2,
    "liga": "Segunda División",
    "ultimos": [
+    "V",
     "E",
     "E",
     "E",
-    "E",
-    "D"
+    "E"
    ]
   },
   "sede": "Estadio Nuevo Vivero",
@@ -103,12 +103,12 @@
    "nivel": 4,
    "liga": "Segunda División RFEF - Group 3",
    "ultimos": [
+    "V",
     "D",
     "V",
     "E",
     "D",
-    "D",
-    "V"
+    "D"
    ]
   },
   "visitante": {
@@ -135,8 +135,8 @@
    "nivel": 4,
    "liga": "Segunda División RFEF - Group 3",
    "ultimos": [
-    "D",
     "V",
+    "D",
     "V",
     "V",
     "V",
@@ -148,12 +148,12 @@
    "nivel": 3,
    "liga": "Primera División RFEF - Group 2",
    "ultimos": [
+    "V",
     "E",
     "D",
     "D",
     "V",
-    "E",
-    "V"
+    "E"
    ]
   },
   "sede": "Estadio Municipal Angel Celdran",
@@ -169,11 +169,11 @@
    "liga": "Segunda División RFEF - Group 2",
    "ultimos": [
     "V",
+    "V",
     "D",
     "E",
     "E",
-    "V",
-    "D"
+    "V"
    ]
   },
   "visitante": {

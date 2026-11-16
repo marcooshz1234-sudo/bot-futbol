@@ -1,10 +1,10 @@
 # Poland – Sweden
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Śląska  Wrocław
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 13:58_
+_Actualizadas: 16/11 02:30_
 
 - **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
@@ -17,11 +17,11 @@ _Actualizadas: 15/11 13:58_
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
+    - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
@@ -42,13 +42,14 @@ _Actualizadas: 15/11 13:58_
 - **To Win Either Half:** 1 **1.62**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.75**
 - **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
+- **Anytime Goal Scorer:** Genesis Antwi **8.00**  ·  Kamil Piatkowski **15.00**  ·  Gabriel Gudmundsson **10.00**  ·  Sebastian Nanasi **3.60**  ·  Daniel Svensson **12.00**  ·  Jesper Karlstrom **9.00**  ·  Victor Lindelof **12.00**  ·  Viktor Gyokeres **2.88**  ·  Felix Beijmo **12.00**  ·  Benjamin Nygren **3.50**  ·  Arkadiusz Pyrka **9.00**  ·  Karol Swiderski **3.00**  ·  Sebastian Szymanski **3.40**  ·  Kacper Potulski **12.00**  ·  Michal Skoras **5.50**  ·  Tomasz Kedziora **10.00**  ·  Gustaf Lagerbielke **12.00**  ·  Patrik Walemark **3.50**  ·  Elliot Stroud **5.50**  ·  Lukasz Poreba **6.50**  ·  Mateusz Zukowski **2.50**  ·  Oskar Kubiak **4.33**  ·  Wiktor Nowak **5.50**  ·  Anthony Elanga **4.75**  ·  Robert Lewandowski **2.05**  ·  Marcel Regula **5.50**  ·  Matty Cash **6.50**  ·  Alexander Isak **2.88**  ·  Yasin Ayari **6.50**  ·  Jan Bednarek **12.00**  ·  Dejan Kulusevski **3.60**  ·  Nicola Zalewski **4.33**  ·  Hugo Larsson **6.00**  ·  Adrian Benedyczak **2.38**  ·  Kacper Urbanski **4.33**  ·  Alieu Njie **4.75**  ·  Piotr Zielinski **4.00**  ·  Eric Smith **12.00**  ·  Jakub Kiwior **15.00**  ·  Hjalmar Ekdal **12.00**  ·  Alexander Bernhardsson **6.00**  ·  Tymoteusz Puchacz **9.00**  ·  Bartosz Mazurek **6.00**
 
 ## Estadísticas de equipo
 | | Poland (total) | Poland en casa | Sweden (total) | Sweden fuera |
@@ -185,7 +186,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 38% | 31% | 35% | 3.00 | +5% |
+| 1X2: 2 | 38% | 31% | 35% | 3.00 | +4% |
 | 1X2: X | 28% | 26% | 27% | 3.60 | -2% |
 | 1X2: 1 | 33% | 43% | 38% | 2.20 | -16% |
 | Doble oportunidad: X2 | 67% | 57% | 62% | 1.67 | +3% |
@@ -202,22 +203,22 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 80% | 62% | 71% | 1.50 | +7% |
 | Goles más/menos: Menos de 4.5 | 91% | 79% | 85% | 1.18 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 63% | 72% | 68% | 1.30 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -20% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 39% | 33% | 2.38 | -22% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 37% | 28% | 32% | 3.40 | +9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +2% |
-| Goles del local: Más de 0.5 | 67% | 78% | 73% | 1.20 | -13% |
-| Goles del local: Más de 1.5 | 30% | 49% | 39% | 1.91 | -25% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +3% |
+| Goles del local: Más de 0.5 | 67% | 79% | 73% | 1.18 | -14% |
+| Goles del local: Más de 1.5 | 30% | 50% | 40% | 1.83 | -26% |
 | Goles del local: Más de 2.5 | 10% | 23% | 17% | 4.00 | -33% |
-| Goles del local: Menos de 0.5 | 33% | 22% | 27% | 4.33 | +19% |
-| Goles del local: Menos de 1.5 | 70% | 51% | 61% | 1.80 | +9% |
+| Goles del local: Menos de 0.5 | 33% | 21% | 27% | 4.50 | +21% |
+| Goles del local: Menos de 1.5 | 70% | 50% | 60% | 1.83 | +9% |
 | Goles del local: Menos de 2.5 | 90% | 77% | 83% | 1.22 | +2% |
 | Goles del visitante: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles del visitante: Más de 1.5 | 34% | 41% | 38% | 2.25 | -15% |
+| Goles del visitante: Más de 1.5 | 34% | 41% | 38% | 2.25 | -16% |
 | Goles del visitante: Menos de 0.5 | 30% | 27% | 28% | 3.50 | -1% |
 | Goles del visitante: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
 | Córners más/menos: Más de 8.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Córners más/menos: Menos de 8.5 | 49% | 47% | 48% | 2.00 | -4% |
-| 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -5% |
+| 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -6% |
 | 1X2 descanso: X | 46% | 39% | 43% | 2.38 | +2% |
 | 1X2 descanso: 1 | 25% | 34% | 30% | 2.75 | -19% |
 

@@ -1,10 +1,10 @@
 # Lazio – Lecce
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:13_
+_Actualizadas: 16/11 02:31_
 
 - **1X2:** 1 **1.36**  ·  X **4.75**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **3.00**
@@ -12,7 +12,7 @@ _Actualizadas: 15/11 02:13_
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **5.00**
     - 2,5: más **1.57** · menos **2.38**
-    - 3,5: más **2.50** · menos **1.53**
+    - 3,5: más **2.38** · menos **1.57**
     - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
@@ -181,7 +181,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | C. Ndaba | D | 4 | 210 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,1._
+_Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -194,10 +194,10 @@ _Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,1._
 | Ambos marcan: No | 47% | 48% | 47% | 1.95 | -8% |
 | Ambos marcan: Sí | 53% | 52% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 40% | 38% | 39% | 2.50 | -2% |
+| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |
 | Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -4% |
 | Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -8% |
-| Goles más/menos: Menos de 3.5 | 60% | 62% | 61% | 1.53 | -7% |
+| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -6% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 41% | 41% | 2.25 | -8% |

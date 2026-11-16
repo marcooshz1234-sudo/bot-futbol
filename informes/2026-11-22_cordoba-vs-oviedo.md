@@ -1,7 +1,7 @@
 # Cordoba – Oviedo
 **Segunda División** · Regular Season - 15 · 22/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -164,13 +164,13 @@ _Sin bajas comunicadas por ahora._
 | Estanis | M | 7 | 291 | 2 | 0 | 11 | 1,6 | 4 | 0,6 | 5 | 8 | 1,1 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,07 · visitante 1,85 · córners esperados 10,1._
+_Goles esperados: local 2,07 · visitante 1,86 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 26% | 30% | 3.60 | +10% |
+| 1X2: 2 | 35% | 26% | 31% | 3.60 | +10% |
 | 1X2: X | 21% | 26% | 23% | 3.60 | -16% |
 | 1X2: 1 | 44% | 49% | 46% | 1.90 | -12% |
 | Ambos marcan: No | 26% | 41% | 34% | 2.25 | -24% |
@@ -185,6 +185,6 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 64% | 79% | 72% | 1.18 | -15% |
 | 1X2 descanso: 2 | 30% | 23% | 27% | 4.00 | +8% |
 | 1X2 descanso: X | 34% | 39% | 36% | 2.40 | -12% |
-| 1X2 descanso: 1 | 36% | 38% | 37% | 2.50 | -8% |
+| 1X2 descanso: 1 | 36% | 38% | 37% | 2.50 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

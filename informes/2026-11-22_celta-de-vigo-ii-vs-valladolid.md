@@ -1,7 +1,7 @@
 # Celta de Vigo II – Valladolid
 **Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -161,7 +161,7 @@ _Sin precedentes recientes._
 | M. Lachuer | M | 8 | 250 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 8 | 4 | 0,5 | 4 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 1,76 · córners esperados 9,2._
+_Goles esperados: local 1,47 · visitante 1,78 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -171,11 +171,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: X | 23% | 27% | 25% | 3.40 | -15% |
 | 1X2: 1 | 32% | 28% | 30% | 3.25 | -2% |
 | Ambos marcan: No | 36% | 42% | 39% | 2.20 | -14% |
-| Ambos marcan: Sí | 64% | 58% | 61% | 1.62 | -2% |
-| Goles más/menos: Más de 1.5 | 83% | 77% | 80% | 1.22 | -2% |
+| Ambos marcan: Sí | 64% | 58% | 61% | 1.62 | -1% |
+| Goles más/menos: Más de 1.5 | 84% | 77% | 80% | 1.22 | -2% |
 | Goles más/menos: Más de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
-| Goles más/menos: Más de 3.5 | 41% | 34% | 37% | 2.75 | +2% |
-| Goles más/menos: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -20% |
+| Goles más/menos: Más de 3.5 | 41% | 34% | 37% | 2.75 | +3% |
+| Goles más/menos: Menos de 1.5 | 16% | 23% | 20% | 4.00 | -20% |
 | Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.08 | -14% |
 | Goles más/menos: Menos de 3.5 | 59% | 66% | 63% | 1.40 | -12% |
 | 1X2 descanso: 2 | 35% | 35% | 35% | 2.62 | -8% |

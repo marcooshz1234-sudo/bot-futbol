@@ -1,7 +1,7 @@
 # Werder Bremen – Hamburger SV
 **Bundesliga** · Regular Season - 10 · 22/11/2026 17:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -183,7 +183,7 @@ _Sin bajas comunicadas por ahora._
 | B. Nadir | M | 5 | 238 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 0 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,1._
+_Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -204,15 +204,15 @@ _Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,1._
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
 | Goles del local: Más de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
 | Goles del local: Más de 2.5 | 35% | 35% | 35% | 2.62 | -8% |
 | Goles del local: Menos de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
 | Goles del local: Menos de 2.5 | 65% | 65% | 65% | 1.44 | -7% |
 | Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 34% | 30% | 2.75 | -19% |
+| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
 | Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
-| Goles del visitante: Menos de 1.5 | 75% | 66% | 70% | 1.40 | -1% |
+| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
 | 1X2 descanso: 2 | 16% | 21% | 19% | 4.50 | -17% |
 | 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
 | 1X2 descanso: 1 | 46% | 42% | 44% | 2.20 | -3% |

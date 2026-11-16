@@ -1,10 +1,10 @@
 # Estac Troyes – Le Havre
 **Ligue 1** · Regular Season - 11 · 20/11/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:13_
+_Actualizadas: 16/11 02:31_
 
 - **1X2:** 1 **2.00**  ·  X **3.40**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.30**  ·  X2 **1.80**
@@ -29,6 +29,9 @@ _Actualizadas: 15/11 02:13_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **1.91**
+- **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.75**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.30**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -42,6 +45,11 @@ _Actualizadas: 15/11 02:13_
 - **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **12.00**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.62**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.20**
 - **Home Player Shots On Target Total:** Renaud Ripart - 1 **1.25**  ·  Kandet Diawara - 1 **1.53**  ·  Hugo Picard - 1 **1.83**  ·  Noah Donkor - 1 **1.83**  ·  Iron Gomis - 1 **2.00**  ·  Antoine Mille - 1 **2.25**  ·  Mouhamed Diop - 1 **2.25**  ·  Yacouba Kone - 1 **2.25**  ·  Anis Ouzenadji - 1 **2.62**  ·  Christ Batola - 1 **1.50**  ·  Alexandre Philiponeau - 1 **3.00**  ·  Dermane Karim - 1 **1.62**  ·  Lucas Maronnier - 1 **3.25**  ·  Yvann Titi - 1 **3.25**  ·  Adrien Monfray - 1 **3.50**  ·  Junior Diaz - 1 **3.75**  ·  Paolo Gozzi - 1 **3.75**  ·  Renaud Ripart - 2 **2.25**  ·  Kandet Diawara - 2 **3.50**  ·  Hugo Picard - 2 **5.50**  ·  Noah Donkor - 2 **5.50**  ·  Iron Gomis - 2 **6.50**  ·  Antoine Mille - 2 **9.00**  ·  Mouhamed Diop - 2 **9.00**  ·  Yacouba Kone - 2 **9.00**  ·  Anis Ouzenadji - 2 **11.00**  ·  Christ Batola - 2 **3.40**  ·  Alexandre Philiponeau - 2 **13.00**  ·  Dermane Karim - 2 **4.00**  ·  Lucas Maronnier - 2 **15.00**  ·  Yvann Titi - 2 **15.00**  ·  Adrien Monfray - 2 **19.00**  ·  Junior Diaz - 2 **19.00**  ·  Paolo Gozzi - 2 **19.00**  ·  Renaud Ripart - 3 **5.00**  ·  Kandet Diawara - 3 **11.00**  ·  Hugo Picard - 3 **19.00**  ·  Noah Donkor - 3 **19.00**  ·  Iron Gomis - 3 **21.00**  ·  Christ Batola - 3 **10.00**  ·  Dermane Karim - 3 **13.00**  ·  Renaud Ripart - 4 **13.00**  ·  Timothee Nkada - 1 **1.40**  ·  Timothee Nkada - 2 **3.00**  ·  Timothee Nkada - 3 **8.00**  ·  Timothee Nkada - 4 **21.00**  ·  Jeremy Le Douaron - 1 **1.50**  ·  Jeremy Le Douaron - 2 **3.40**  ·  Jeremy Le Douaron - 3 **10.00**  ·  Jeremy Le Douaron - 4 **21.00**  ·  Christ Batola - 4 **21.00**  ·  Lassana Simakha - 1 **3.75**  ·  Lassana Simakha - 2 **19.00**  ·  Merwan Ifnaoui - 1 **1.62**  ·  Merwan Ifnaoui - 2 **4.00**  ·  Merwan Ifnaoui - 3 **13.00**
 - **Away Player Shots On Target Total:** Rayan Fofana **13.00**  ·  Stephan Zagadou **21.00**  ·  Ayumu Seko **21.00**  ·  Simon Ebonog **29.00**  ·  Timothee Nkada **8.00**  ·  Guy Zohouri **21.00**  ·  Enzo Koffi **19.00**  ·  Josh Maja **21.00**  ·  Andy Logbo **13.00**  ·  Ismail Bouneb **23.00**  ·  Kandet Diawara **15.00**  ·  Daren Mosengo **21.00**  ·  Rassoul Ndiaye **21.00**  ·  Timothee Pembele **29.00**  ·  Junior Mwanga **67.00**  ·  Ally Samatta **11.00**  ·  Anis Ouzenadji **19.00**  ·  Merwan Ifnaoui **17.00**  ·  Yvann Titi **23.00**  ·  Antoine Mille **21.00**  ·  Alexandre Philiponeau **17.00**  ·  Iron Gomis **19.00**  ·  Amir Richardson **51.00**  ·  Kaito Mizuta **26.00**  ·  Adrien Monfray **15.00**  ·  Mouhamed Diop **21.00**  ·  Paolo Gozzi **13.00**  ·  Renaud Ripart **5.50**  ·  Ismael Boura **21.00**  ·  Vincent Sasso **13.00**  ·  Hugo Picard **67.00**  ·  Lucas Maronnier **26.00**  ·  Dermane Karim **15.00**  ·  Sota Nakamura **17.00**
 - **Home Player Shots:** Renaud Ripart - 1 **1.02**  ·  Kandet Diawara - 1 **1.06**  ·  Hugo Picard - 1 **1.14**  ·  Noah Donkor - 1 **1.14**  ·  Iron Gomis - 1 **1.18**  ·  Antoine Mille - 1 **1.25**  ·  Mouhamed Diop - 1 **1.25**  ·  Yacouba Kone - 1 **1.25**  ·  Anis Ouzenadji - 1 **1.36**  ·  Christ Batola - 1 **1.05**  ·  Alexandre Philiponeau - 1 **1.44**  ·  Dermane Karim - 1 **1.08**  ·  Lucas Maronnier - 1 **1.53**  ·  Yvann Titi - 1 **1.53**  ·  Adrien Monfray - 1 **1.73**  ·  Junior Diaz - 1 **1.80**  ·  Paolo Gozzi - 1 **1.80**  ·  Renaud Ripart - 2 **1.14**  ·  Kandet Diawara - 2 **1.33**  ·  Hugo Picard - 2 **1.62**  ·  Noah Donkor - 2 **1.62**  ·  Iron Gomis - 2 **1.80**  ·  Antoine Mille - 2 **2.10**  ·  Mouhamed Diop - 2 **2.10**  ·  Yacouba Kone - 2 **2.10**  ·  Anis Ouzenadji - 2 **2.62**  ·  Christ Batola - 2 **1.30**  ·  Alexandre Philiponeau - 2 **3.00**  ·  Dermane Karim - 2 **1.40**  ·  Lucas Maronnier - 2 **3.40**  ·  Yvann Titi - 2 **3.40**  ·  Adrien Monfray - 2 **4.33**  ·  Junior Diaz - 2 **4.33**  ·  Paolo Gozzi - 2 **4.33**  ·  Renaud Ripart - 3 **1.44**  ·  Kandet Diawara - 3 **1.91**  ·  Hugo Picard - 3 **2.75**  ·  Noah Donkor - 3 **2.75**  ·  Iron Gomis - 3 **3.40**  ·  Antoine Mille - 3 **4.33**  ·  Mouhamed Diop - 3 **4.33**  ·  Yacouba Kone - 3 **4.33**  ·  Anis Ouzenadji - 3 **6.00**  ·  Christ Batola - 3 **1.83**  ·  Alexandre Philiponeau - 3 **7.00**  ·  Dermane Karim - 3 **2.20**  ·  Lucas Maronnier - 3 **9.00**  ·  Yvann Titi - 3 **9.00**  ·  Adrien Monfray - 3 **13.00**  ·  Renaud Ripart - 4 **2.00**  ·  Kandet Diawara - 4 **3.40**  ·  Hugo Picard - 4 **5.50**  ·  Noah Donkor - 4 **5.50**  ·  Iron Gomis - 4 **7.00**  ·  Antoine Mille - 4 **10.00**  ·  Mouhamed Diop - 4 **10.00**  ·  Yacouba Kone - 4 **10.00**  ·  Renaud Ripart - 5 **3.40**  ·  Kandet Diawara - 5 **6.00**  ·  Renaud Ripart - 6 **5.50**  ·  Timothee Nkada - 1 **1.04**  ·  Timothee Nkada - 2 **1.22**  ·  Timothee Nkada - 3 **1.67**  ·  Timothee Nkada - 4 **2.62**  ·  Timothee Nkada - 5 **4.50**  ·  Timothee Nkada - 6 **9.00**  ·  Timothee Nkada - 7 **17.00**  ·  Jeremy Le Douaron - 1 **1.05**  ·  Jeremy Le Douaron - 2 **1.30**  ·  Jeremy Le Douaron - 3 **1.83**  ·  Jeremy Le Douaron - 4 **3.00**  ·  Jeremy Le Douaron - 5 **5.50**  ·  Jeremy Le Douaron - 6 **11.00**  ·  Junior Diaz - 3 **13.00**  ·  Paolo Gozzi - 3 **13.00**  ·  Jeremy Le Douaron - 7 **21.00**  ·  Alexandre Philiponeau - 4 **19.00**  ·  Anis Ouzenadji - 4 **15.00**  ·  Christ Batola - 4 **3.00**  ·  Dermane Karim - 4 **3.75**  ·  Hugo Picard - 5 **13.00**  ·  Noah Donkor - 5 **13.00**  ·  Kandet Diawara - 6 **13.00**  ·  Renaud Ripart - 7 **11.00**  ·  Iron Gomis - 5 **15.00**  ·  Hugo Picard - 6 **21.00**  ·  Renaud Ripart - 8 **19.00**  ·  Dermane Karim - 5 **8.00**  ·  Lassana Simakha - 1 **1.80**  ·  Lassana Simakha - 2 **4.33**  ·  Lassana Simakha - 3 **13.00**  ·  Dermane Karim - 6 **17.00**  ·  Yvann Titi - 4 **21.00**  ·  Yacouba Kone - 5 **21.00**  ·  Antoine Mille - 5 **21.00**  ·  Lucas Maronnier - 4 **21.00**  ·  Mouhamed Diop - 5 **21.00**  ·  Christ Batola - 5 **5.50**  ·  Christ Batola - 6 **11.00**  ·  Noah Donkor - 6 **21.00**  ·  Merwan Ifnaoui - 1 **1.08**  ·  Merwan Ifnaoui - 2 **1.40**  ·  Merwan Ifnaoui - 3 **2.20**  ·  Merwan Ifnaoui - 4 **3.75**  ·  Merwan Ifnaoui - 5 **8.00**  ·  Merwan Ifnaoui - 6 **17.00**  ·  Christ Batola - 7 **21.00**  ·  Kandet Diawara - 7 **21.00**
@@ -187,23 +195,23 @@ _Goles esperados: local 1,40 · visitante 1,25 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 34% | 26% | 30% | 3.50 | +5% |
+| 1X2: 2 | 33% | 26% | 30% | 3.50 | +5% |
 | 1X2: X | 26% | 27% | 27% | 3.40 | -9% |
-| 1X2: 1 | 40% | 46% | 43% | 2.00 | -13% |
-| Doble oportunidad: X2 | 60% | 53% | 56% | 1.80 | +1% |
+| 1X2: 1 | 41% | 46% | 43% | 2.00 | -13% |
+| Doble oportunidad: X2 | 59% | 53% | 56% | 1.80 | +1% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.30 | -4% |
-| Doble oportunidad: 1X | 66% | 74% | 70% | 1.28 | -10% |
+| Doble oportunidad: 1X | 67% | 74% | 70% | 1.28 | -10% |
 | Ambos marcan: No | 46% | 44% | 45% | 2.10 | -5% |
 | Ambos marcan: Sí | 54% | 56% | 55% | 1.67 | -9% |
 | Goles más/menos: Más de 1.5 | 74% | 76% | 75% | 1.25 | -6% |
 | Goles más/menos: Más de 2.5 | 49% | 53% | 51% | 1.80 | -8% |
-| Goles más/menos: Más de 3.5 | 28% | 32% | 30% | 3.00 | -11% |
+| Goles más/menos: Más de 3.5 | 27% | 32% | 30% | 3.00 | -11% |
 | Goles más/menos: Menos de 1.5 | 26% | 24% | 25% | 4.00 | -1% |
 | Goles más/menos: Menos de 2.5 | 51% | 47% | 49% | 2.00 | -2% |
-| Goles más/menos: Menos de 3.5 | 72% | 68% | 70% | 1.40 | -2% |
+| Goles más/menos: Menos de 3.5 | 73% | 68% | 70% | 1.40 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 71% | 70% | 1.33 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -5% |
 | Goles del local: Más de 0.5 | 75% | 79% | 77% | 1.18 | -9% |
 | Goles del local: Más de 1.5 | 41% | 50% | 45% | 1.83 | -17% |
@@ -212,9 +220,11 @@ _Goles esperados: local 1,40 · visitante 1,25 · córners esperados 9,3._
 | Goles del local: Menos de 1.5 | 59% | 50% | 55% | 1.83 | -0% |
 | Goles del local: Menos de 2.5 | 83% | 77% | 80% | 1.22 | -2% |
 | Goles del visitante: Más de 0.5 | 71% | 69% | 70% | 1.36 | -5% |
-| Goles del visitante: Más de 1.5 | 36% | 35% | 36% | 2.62 | -7% |
+| Goles del visitante: Más de 1.5 | 36% | 35% | 35% | 2.62 | -7% |
 | Goles del visitante: Menos de 0.5 | 29% | 31% | 30% | 3.00 | -10% |
-| Goles del visitante: Menos de 1.5 | 64% | 65% | 64% | 1.44 | -7% |
+| Goles del visitante: Menos de 1.5 | 64% | 65% | 65% | 1.44 | -7% |
+| Córners más/menos: Más de 8.5 | 52% | 51% | 52% | 1.80 | -7% |
+| Córners más/menos: Menos de 8.5 | 48% | 49% | 48% | 1.91 | -8% |
 | 1X2 descanso: 2 | 26% | 25% | 26% | 3.75 | -4% |
 | 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
 | 1X2 descanso: 1 | 31% | 35% | 33% | 2.62 | -14% |

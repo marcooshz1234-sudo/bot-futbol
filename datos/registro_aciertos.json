@@ -12748,7 +12748,8 @@
   "movimiento": null,
   "ventaja": 0.05,
   "prob_aprendida": 0.849,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1570016|To Win Either Half|Home": {
   "partido_id": 1570016,
@@ -12770,7 +12771,8 @@
   "movimiento": null,
   "ventaja": 0.015,
   "prob_aprendida": 0.752,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-1"
  },
  "1608362|Both Teams Score|Yes": {
   "partido_id": 1608362,
@@ -12814,7 +12816,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.693,
+  "prob_aprendida": 0.683,
   "acierto": null
  },
  "1528984|Goals Over/Under - Second Half|Over 1.5": {
@@ -12837,7 +12839,8 @@
   "movimiento": 0.0,
   "ventaja": 0.244,
   "prob_aprendida": 0.648,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-3"
  },
  "1573643|Match Winner|Home": {
   "partido_id": 1573643,
@@ -12872,16 +12875,16 @@
   "opcion": "Home",
   "tipo": "resultado",
   "texto": "Gana el Bournemouth",
-  "cuota": 2.0,
+  "cuota": 1.95,
   "frecuencia": 0.65,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.015,
-  "movimiento": null,
-  "ventaja": 0.15,
-  "prob_aprendida": 0.659,
+  "valor_mercado": -0.035,
+  "movimiento": -0.025,
+  "ventaja": 0.137,
+  "prob_aprendida": 0.692,
   "acierto": null
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
@@ -12903,7 +12906,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.235,
-  "prob_aprendida": 0.571,
+  "prob_aprendida": 0.57,
   "acierto": null
  },
  "1575229|Match Winner|Away": {
@@ -12969,7 +12972,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.594,
+  "prob_aprendida": 0.593,
   "acierto": null
  },
  "1550204|Home Player Shots On Target Total|Noa Lang - 1": {
@@ -12991,7 +12994,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.098,
-  "prob_aprendida": 0.577,
+  "prob_aprendida": 0.574,
   "acierto": null
  },
  "1528991|Match Winner|Home": {
@@ -13079,7 +13082,7 @@
   "valor_mercado": -0.017,
   "movimiento": -0.071,
   "ventaja": 0.062,
-  "prob_aprendida": 0.677,
+  "prob_aprendida": 0.667,
   "acierto": null
  },
  "1550199|To Win Either Half|Home": {
@@ -13123,7 +13126,7 @@
   "valor_mercado": -0.035,
   "movimiento": -0.035,
   "ventaja": 0.051,
-  "prob_aprendida": 0.698,
+  "prob_aprendida": 0.695,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13145,7 +13148,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.283,
-  "prob_aprendida": 0.655,
+  "prob_aprendida": 0.664,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13167,7 +13170,7 @@
   "valor_mercado": -0.017,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.612,
+  "prob_aprendida": 0.613,
   "acierto": null
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -13189,7 +13192,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.123,
-  "prob_aprendida": 0.627,
+  "prob_aprendida": 0.626,
   "acierto": null
  },
  "1528991|Home Player Shots|Konstantinos Mavropanos - 1": {
@@ -13211,7 +13214,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.265,
-  "prob_aprendida": 0.605,
+  "prob_aprendida": 0.602,
   "acierto": null
  },
  "1552823|Both Teams Score|Yes": {
@@ -13255,7 +13258,7 @@
   "valor_mercado": 0.012,
   "movimiento": null,
   "ventaja": 0.151,
-  "prob_aprendida": 0.61,
+  "prob_aprendida": 0.611,
   "acierto": null
  },
  "1528996|Corners 1x2|Away": {
@@ -13274,10 +13277,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.026,
+  "valor_mercado": -0.031,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.407,
+  "prob_aprendida": 0.507,
   "acierto": null
  },
  "1570030|Match Winner|Home": {
@@ -13299,7 +13302,7 @@
   "valor_mercado": -0.016,
   "movimiento": null,
   "ventaja": 0.074,
-  "prob_aprendida": 0.655,
+  "prob_aprendida": 0.645,
   "acierto": null
  },
  "1570030|To Win Either Half|Home": {
@@ -13321,7 +13324,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.083,
-  "prob_aprendida": 0.685,
+  "prob_aprendida": 0.675,
   "acierto": null
  },
  "1570030|Goals Over/Under - Second Half|Over 1.5": {
@@ -13343,7 +13346,95 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.244,
-  "prob_aprendida": 0.619,
+  "prob_aprendida": 0.621,
+  "acierto": null
+ },
+ "1528988|Corners Over Under|Over 8.5": {
+  "partido_id": 1528988,
+  "fecha": "2026-11-16T18:00",
+  "competicion": "Nations League",
+  "local": "Estonia",
+  "visitante": "Bulgaria",
+  "mercado": "Corners Over Under",
+  "opcion": "Over 8.5",
+  "tipo": "corners",
+  "texto": "Más de 8,5 córners en Estonia–Bulgaria",
+  "cuota": 1.73,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.011,
+  "movimiento": null,
+  "ventaja": 0.222,
+  "prob_aprendida": 0.558,
+  "acierto": null
+ },
+ "1528992|ShotOnTarget 1x2|Away": {
+  "partido_id": 1528992,
+  "fecha": "2026-11-17T20:45",
+  "competicion": "Nations League",
+  "local": "Wales",
+  "visitante": "Portugal",
+  "mercado": "ShotOnTarget 1x2",
+  "opcion": "Away",
+  "tipo": "tiros a puerta",
+  "texto": "Portugal hace más tiros a puerta",
+  "cuota": 1.36,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.065,
+  "prob_aprendida": 0.453,
+  "acierto": null
+ },
+ "1575222|Away Corners Over/Under|Over 2.5": {
+  "partido_id": 1575222,
+  "fecha": "2026-11-21T15:30",
+  "competicion": "Bundesliga",
+  "local": "Bayer Leverkusen",
+  "visitante": "SC Paderborn 07",
+  "mercado": "Away Corners Over/Under",
+  "opcion": "Over 2.5",
+  "tipo": "corners",
+  "texto": "SC Paderborn 07 hace más de 2,5 córners",
+  "cuota": 1.73,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.081,
+  "movimiento": null,
+  "ventaja": 0.222,
+  "prob_aprendida": 0.422,
+  "acierto": null
+ },
+ "1552225|Both Teams Score|Yes": {
+  "partido_id": 1552225,
+  "fecha": "2026-11-22T14:30",
+  "competicion": "Eredivisie",
+  "local": "Ajax",
+  "visitante": "ADO Den Haag",
+  "mercado": "Both Teams Score",
+  "opcion": "Yes",
+  "tipo": "goles",
+  "texto": "Ambos marcan en Ajax–ADO Den Haag",
+  "cuota": 1.75,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.023,
+  "movimiento": null,
+  "ventaja": 0.229,
+  "prob_aprendida": 0.573,
   "acierto": null
  }
 }

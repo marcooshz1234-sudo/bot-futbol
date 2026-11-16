@@ -1,7 +1,7 @@
 # Alaves – Deportivo La Coruna
 **LaLiga** · Regular Season - 13 · 21/11/2026 14:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:51_
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | Marc Casadó | M | 4 | 138 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 7 | 1,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 1,05 · córners esperados 9,5._
+_Goles esperados: local 1,20 · visitante 1,04 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -198,21 +198,21 @@ _Goles esperados: local 1,20 · visitante 1,05 · córners esperados 9,5._
 | Doble oportunidad: 1X | 68% | 75% | 71% | 1.28 | -9% |
 | Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
 | Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 1.5 | 66% | 70% | 68% | 1.36 | -8% |
+| Goles más/menos: Más de 1.5 | 65% | 70% | 68% | 1.36 | -8% |
 | Goles más/menos: Más de 2.5 | 39% | 43% | 41% | 2.20 | -10% |
 | Goles más/menos: Más de 3.5 | 19% | 24% | 21% | 4.00 | -15% |
-| Goles más/menos: Menos de 1.5 | 34% | 30% | 32% | 3.20 | +3% |
+| Goles más/menos: Menos de 1.5 | 35% | 30% | 32% | 3.20 | +3% |
 | Goles más/menos: Menos de 2.5 | 61% | 57% | 59% | 1.67 | -1% |
 | Goles más/menos: Menos de 3.5 | 81% | 76% | 79% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 26% | 29% | 27% | 3.25 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 29% | 27% | 3.25 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 71% | 73% | 1.33 | -3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
 | Goles del local: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
 | Goles del local: Más de 1.5 | 34% | 42% | 38% | 2.20 | -16% |
 | Goles del local: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
 | Goles del local: Menos de 1.5 | 66% | 58% | 62% | 1.62 | +0% |
-| Goles del visitante: Más de 0.5 | 65% | 62% | 64% | 1.50 | -4% |
+| Goles del visitante: Más de 0.5 | 65% | 62% | 64% | 1.50 | -5% |
 | Goles del visitante: Más de 1.5 | 28% | 27% | 27% | 3.50 | -4% |
 | Goles del visitante: Menos de 0.5 | 35% | 38% | 36% | 2.50 | -9% |
 | Goles del visitante: Menos de 1.5 | 72% | 73% | 73% | 1.28 | -7% |

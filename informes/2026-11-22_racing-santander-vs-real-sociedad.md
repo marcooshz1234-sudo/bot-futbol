@@ -1,7 +1,7 @@
 # Racing Santander – Real Sociedad
 **LaLiga** · Regular Season - 13 · 22/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -184,7 +184,7 @@ _Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 45% | 48% | 2.10 | -0% |
+| 1X2: 2 | 50% | 45% | 47% | 2.10 | -0% |
 | 1X2: X | 20% | 25% | 23% | 3.80 | -14% |
 | 1X2: 1 | 30% | 30% | 30% | 3.10 | -7% |
 | Doble oportunidad: X2 | 70% | 69% | 70% | 1.36 | -5% |
@@ -195,24 +195,24 @@ _Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
 | Goles más/menos: Más de 2.5 | 75% | 66% | 70% | 1.44 | +1% |
 | Goles más/menos: Más de 3.5 | 55% | 45% | 50% | 2.10 | +5% |
 | Goles más/menos: Más de 4.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
-| Goles más/menos: Menos de 2.5 | 25% | 34% | 30% | 2.75 | -19% |
+| Goles más/menos: Menos de 2.5 | 25% | 34% | 30% | 2.75 | -18% |
 | Goles más/menos: Menos de 3.5 | 45% | 55% | 50% | 1.73 | -14% |
 | Goles más/menos: Menos de 4.5 | 64% | 73% | 69% | 1.30 | -11% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 77% | 79% | 1.22 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
-| Goles 1ª parte más/menos: Más de 2.5 | 25% | 22% | 23% | 4.33 | +0% |
+| Goles 1ª parte más/menos: Más de 2.5 | 24% | 22% | 23% | 4.33 | -0% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 18% | 23% | 21% | 4.00 | -17% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -8% |
 | Goles del local: Más de 0.5 | 82% | 78% | 80% | 1.20 | -4% |
 | Goles del local: Más de 1.5 | 51% | 46% | 48% | 2.00 | -3% |
 | Goles del local: Más de 2.5 | 24% | 22% | 23% | 4.33 | -1% |
 | Goles del local: Menos de 0.5 | 18% | 22% | 20% | 4.33 | -13% |
 | Goles del local: Menos de 1.5 | 49% | 54% | 52% | 1.73 | -11% |
 | Goles del local: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 65% | 56% | 61% | 1.67 | +1% |
+| Goles del visitante: Más de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
 | Goles del visitante: Más de 2.5 | 39% | 31% | 35% | 3.00 | +5% |
-| Goles del visitante: Menos de 1.5 | 35% | 44% | 39% | 2.10 | -17% |
+| Goles del visitante: Menos de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
 | Goles del visitante: Menos de 2.5 | 61% | 69% | 65% | 1.36 | -11% |
 | 1X2 descanso: 2 | 40% | 36% | 38% | 2.60 | -1% |
 | 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |

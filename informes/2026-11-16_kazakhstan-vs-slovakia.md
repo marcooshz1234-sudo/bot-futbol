@@ -1,23 +1,23 @@
 # Kazakhstan – Slovakia
 **Nations League** · League C - 6 · 16/11/2026 16:00 (hora España) · Astana Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 13:58_
+_Actualizadas: 16/11 02:30_
 
-- **1X2:** 1 **4.50**  ·  X **3.75**  ·  2 **1.75**
-- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.20**
+- **1X2:** 1 **4.20**  ·  X **3.60**  ·  2 **1.85**
+- **Doble oportunidad:** 1X **1.83**  ·  12 **1.28**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.85** · menos **1.95**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **5.50** · menos **1.12**
-    - 5,5: más **9.00** · menos **1.04**
+    - 4,5: más **6.00** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.62** · menos **1.44**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **6.50** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.53** · menos **2.38**
@@ -25,23 +25,32 @@ _Actualizadas: 15/11 13:58_
     - 2,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **4.50**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **7.00** · menos **1.08**
-- **1X2 descanso:** 1 **4.50**  ·  X **2.20**  ·  2 **2.25**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **7.50** · menos **1.07**
+- **Córners más/menos:**
+    - 10: más **1.88** · menos **1.92**
+    - 10,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **2.75**  ·  X **8.50**  ·  2 **1.57**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.38**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **2.62**  ·  2 **1.44**
-- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.75**
-- **Win Both Halves:** 1 **19.00**  ·  2 **5.00**
-- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.75**  ·  Home/No **8.00**  ·  Draw/No **11.00**  ·  Away/No **3.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.40**
-- **Anytime Goal Scorer:** Dinmukhamed Karaman **4.75**  ·  Nauryzbek Zhagorov **7.00**  ·  David Strelec **2.38**  ·  Robert Bozenik **2.60**  ·  Tomas Rigo **5.00**  ·  Milan Skriniar **10.00**  ·  Tomas Suslov **4.33**  ·  Bauyrzhan Islamkhan **6.50**  ·  Yan Vorogovskiy **10.00**  ·  Nuraly Alip **19.00**  ·  Aybol Abiken **10.00**  ·  Aybar Zhaksylykov **3.25**  ·  Maksim Samorodov **3.60**  ·  Ramazan Orazov **6.50**  ·  Alibek Kasym **10.00**  ·  Islam Chesnokov **4.00**  ·  Serhiy Maliy **15.00**  ·  Lukas Haraslin **3.25**  ·  Ondrej Duda **4.75**  ·  Matus Bero **4.75**  ·  David Hancko **8.00**  ·  Timotej Hranica **8.00**  ·  Lubomir Satka **11.00**  ·  Almas Tyulyubay **11.00**  ·  Adrian Kapralik **3.60**  ·  Mario Sauer **4.33**  ·  Peter Pokorny **8.00**  ·  Ismail Bekbolat **4.75**  ·  Alexander Mrynskiy **13.00**  ·  Azamat Tuyakbayev **6.00**  ·  Tomas Bobcek **2.38**  ·  Arsen Ashirbek **11.00**  ·  Ivan Mesik **15.00**  ·  Ludovit Reis **5.00**  ·  Albert Rusnak **3.10**  ·  Tobias Paliscak **11.00**  ·  Nino Marcelli **3.25**  ·  Artur Gajdos **4.33**  ·  Ramazan Karimov **3.60**  ·  Islambek Kuat **10.00**  ·  Zhasulan Amir **7.00**  ·  Temirlan Erlanov **15.00**  ·  Martin Valjent **11.00**  ·  Vladislav Vasilyev **13.00**  ·  Matej Trusa **2.75**  ·  Sebastian Nebyla **3.60**  ·  Erik Prekop **2.38**  ·  David Krcik **8.00**  ·  Galymzhan Kenzhebek **3.60**  ·  Adilbek Zhumakhanov **15.00**  ·  Erkin Tapalov **11.00**  ·  Adam Obert **10.00**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **3.00**
+- **Win Both Halves:** 1 **17.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **10.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 5,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Anytime Goal Scorer:** Dinmukhamed Karaman **4.33**  ·  Nauryzbek Zhagorov **7.50**  ·  David Strelec **2.40**  ·  Robert Bozenik **2.60**  ·  Tomas Rigo **6.00**  ·  Milan Skriniar **10.00**  ·  Tomas Suslov **4.33**  ·  Bauyrzhan Islamkhan **6.50**  ·  Yan Vorogovskiy **10.00**  ·  Nuraly Alip **19.00**  ·  Aybol Abiken **10.00**  ·  Aybar Zhaksylykov **3.10**  ·  Maksim Samorodov **3.60**  ·  Ramazan Orazov **6.50**  ·  Alibek Kasym **10.00**  ·  Islam Chesnokov **3.75**  ·  Serhiy Maliy **15.00**  ·  Lukas Haraslin **3.50**  ·  Ondrej Duda **4.75**  ·  Matus Bero **4.75**  ·  David Hancko **8.00**  ·  Timotej Hranica **8.00**  ·  Lubomir Satka **11.00**  ·  Almas Tyulyubay **11.00**  ·  Adrian Kapralik **3.60**  ·  Mario Sauer **4.33**  ·  Peter Pokorny **8.00**  ·  Ismail Bekbolat **4.75**  ·  Alexander Mrynskiy **13.00**  ·  Azamat Tuyakbayev **6.00**  ·  Tomas Bobcek **2.60**  ·  Arsen Ashirbek **11.00**  ·  Ivan Mesik **15.00**  ·  Ludovit Reis **6.00**  ·  Albert Rusnak **3.10**  ·  Tobias Paliscak **11.00**  ·  Nino Marcelli **3.50**  ·  Artur Gajdos **4.33**  ·  Ramazan Karimov **3.50**  ·  Islambek Kuat **10.00**  ·  Zhasulan Amir **7.50**  ·  Temirlan Erlanov **15.00**  ·  Martin Valjent **11.00**  ·  Vladislav Vasilyev **13.00**  ·  Matej Trusa **2.75**  ·  Sebastian Nebyla **3.60**  ·  Erik Prekop **2.60**  ·  David Krcik **8.00**  ·  Galymzhan Kenzhebek **3.60**  ·  Adilbek Zhumakhanov **15.00**  ·  Erkin Tapalov **11.00**  ·  Adam Obert **10.00**
 
 ## Estadísticas de equipo
 | | Kazakhstan (total) | Kazakhstan en casa | Slovakia (total) | Slovakia fuera |
@@ -177,35 +186,38 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 54% | 54% | 54% | 1.75 | -5% |
-| 1X2: X | 26% | 25% | 25% | 3.75 | -5% |
-| 1X2: 1 | 20% | 21% | 20% | 4.50 | -8% |
-| Doble oportunidad: X2 | 80% | 78% | 79% | 1.20 | -5% |
+| 1X2: 2 | 54% | 51% | 53% | 1.85 | -2% |
+| 1X2: X | 26% | 26% | 26% | 3.60 | -7% |
+| 1X2: 1 | 20% | 23% | 21% | 4.20 | -11% |
+| Doble oportunidad: X2 | 80% | 76% | 78% | 1.22 | -5% |
 | Doble oportunidad: 12 | 74% | 73% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 46% | 49% | 47% | 1.91 | -10% |
+| Doble oportunidad: 1X | 46% | 51% | 48% | 1.83 | -12% |
 | Ambos marcan: No | 56% | 50% | 53% | 1.83 | -3% |
 | Ambos marcan: Sí | 44% | 50% | 47% | 1.83 | -14% |
-| Goles más/menos: Más de 1.5 | 69% | 75% | 72% | 1.25 | -10% |
-| Goles más/menos: Más de 2.5 | 42% | 51% | 47% | 1.85 | -13% |
-| Goles más/menos: Más de 3.5 | 22% | 29% | 25% | 3.25 | -18% |
-| Goles más/menos: Menos de 1.5 | 31% | 25% | 28% | 3.75 | +6% |
-| Goles más/menos: Menos de 2.5 | 58% | 49% | 53% | 1.95 | +4% |
-| Goles más/menos: Menos de 3.5 | 78% | 71% | 75% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 67% | 1.36 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 33% | 3.00 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
+| Goles más/menos: Más de 1.5 | 68% | 73% | 71% | 1.28 | -9% |
+| Goles más/menos: Más de 2.5 | 42% | 49% | 45% | 1.95 | -11% |
+| Goles más/menos: Más de 3.5 | 21% | 29% | 25% | 3.25 | -18% |
+| Goles más/menos: Menos de 1.5 | 32% | 27% | 29% | 3.50 | +2% |
+| Goles más/menos: Menos de 2.5 | 58% | 51% | 55% | 1.85 | +1% |
+| Goles más/menos: Menos de 3.5 | 79% | 71% | 75% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Goles 1ª parte más/menos: Más de 1.5 | 28% | 34% | 31% | 2.75 | -16% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 34% | 35% | 2.75 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles del local: Más de 0.5 | 56% | 61% | 58% | 1.53 | -11% |
 | Goles del local: Más de 1.5 | 20% | 27% | 23% | 3.50 | -18% |
 | Goles del local: Menos de 0.5 | 44% | 39% | 42% | 2.38 | -1% |
 | Goles del local: Menos de 1.5 | 80% | 73% | 77% | 1.28 | -2% |
-| Goles del visitante: Más de 0.5 | 79% | 79% | 79% | 1.17 | -7% |
-| Goles del visitante: Más de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
-| Goles del visitante: Más de 2.5 | 20% | 27% | 24% | 3.50 | -17% |
+| Goles del visitante: Más de 0.5 | 79% | 79% | 79% | 1.17 | -8% |
+| Goles del visitante: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
+| Goles del visitante: Más de 2.5 | 20% | 25% | 23% | 3.75 | -15% |
 | Goles del visitante: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles del visitante: Menos de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
-| Goles del visitante: Menos de 2.5 | 80% | 73% | 76% | 1.28 | -2% |
-| 1X2 descanso: 2 | 38% | 40% | 39% | 2.25 | -13% |
-| 1X2 descanso: X | 45% | 41% | 43% | 2.20 | -6% |
+| Goles del visitante: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
+| Goles del visitante: Menos de 2.5 | 80% | 75% | 77% | 1.25 | -3% |
+| Córners más/menos: Más de 10.5 | 39% | 44% | 42% | 2.10 | -13% |
+| Córners más/menos: Menos de 10.5 | 61% | 56% | 58% | 1.67 | -2% |
+| 1X2 descanso: 2 | 38% | 38% | 38% | 2.38 | -10% |
+| 1X2 descanso: X | 45% | 41% | 43% | 2.20 | -5% |
+| 1X2 descanso: 1 | 17% | 21% | 19% | 4.33 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

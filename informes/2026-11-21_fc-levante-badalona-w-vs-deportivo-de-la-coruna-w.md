@@ -1,7 +1,7 @@
 # FC Levante Badalona W – Deportivo de La Coruña W
 **Liga F** · Regular Season - 12 · 21/11/2026 12:00 (hora España) · Estadi Municipal de Badalona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | FC Levante Badalona W (total) | FC Levante Badalona W en casa | Deportivo de La Coruña W (total) | Deportivo de La Coruña W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 4 | 10 | 4 |
-| Forma (últimos 5) | EDDDD | DDDE | DDVVD | DVVE |
-| Balance | 2V 3E 6D | 0V 1E 3D | 3V 2E 5D | 2V 1E 1D |
-| Goles a favor / partido | 1,09 | 0,00 | 1,10 | 1,75 |
-| Goles en contra / partido | 2,09 | 2,25 | 1,30 | 1,00 |
-| Goles a favor 1ª parte | 0,18 | 0,00 | 0,40 | 1,00 |
-| Goles a favor 2ª parte | 0,91 | 0,00 | 0,70 | 0,75 |
-| Goles en contra 1ª parte | 0,55 | 1,00 | 0,60 | 0,00 |
-| Goles en contra 2ª parte | 1,55 | 1,25 | 0,70 | 1,00 |
-| Más de 1,5 goles | 64% | 50% | 80% | 75% |
-| Más de 2,5 goles | 64% | 50% | 50% | 75% |
-| Más de 3,5 goles | 55% | 50% | 10% | 25% |
-| Ambos marcan | 36% | 0% | 50% | 50% |
-| Portería a cero | 18% | 25% | 20% | 50% |
-| Se queda sin marcar | 55% | 100% | 40% | 25% |
+| Partidos analizados | 11 | 4 | 11 | 4 |
+| Forma (últimos 5) | EDDDD | DDDE | EDDVV | DVVE |
+| Balance | 2V 3E 6D | 0V 1E 3D | 3V 3E 5D | 2V 1E 1D |
+| Goles a favor / partido | 1,09 | 0,00 | 1,09 | 1,75 |
+| Goles en contra / partido | 2,09 | 2,25 | 1,27 | 1,00 |
+| Goles a favor 1ª parte | 0,18 | 0,00 | 0,36 | 1,00 |
+| Goles a favor 2ª parte | 0,91 | 0,00 | 0,73 | 0,75 |
+| Goles en contra 1ª parte | 0,55 | 1,00 | 0,55 | 0,00 |
+| Goles en contra 2ª parte | 1,55 | 1,25 | 0,73 | 1,00 |
+| Más de 1,5 goles | 64% | 50% | 82% | 75% |
+| Más de 2,5 goles | 64% | 50% | 45% | 75% |
+| Más de 3,5 goles | 55% | 50% | 9% | 25% |
+| Ambos marcan | 36% | 0% | 55% | 50% |
+| Portería a cero | 18% | 25% | 18% | 50% |
+| Se queda sin marcar | 55% | 100% | 36% | 25% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -53,9 +53,9 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 1-15' | 1 | 2 | 0 | 1 | 1 | 2 |
 | 16-30' | 0 | 1 | 0 | 2 | 2 | 1 |
 | 31-45' | 1 | 3 | 3 | 1 | 3 | 2 |
-| 46-60' | 2 | 2 | 5 | 0 | 1 | 1 |
+| 46-60' | 2 | 2 | 5 | 1 | 1 | 1 |
 | 61-75' | 4 | 9 | 8 | 2 | 2 | 4 |
-| 76-90' | 4 | 6 | 5 | 5 | 4 | 5 |
+| 76-90' | 4 | 6 | 5 | 5 | 5 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -85,18 +85,18 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Deportivo de La Coruña W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Liga F | Deportivo de La Coruña W 1-1 Barcelona W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-09 | Liga F | Deportivo de La Coruña W 0-2 Valencia W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Liga F | Madrid CFF W 2-1 Deportivo de La Coruña W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | Liga F | Deportivo de La Coruña W 2-1 Deportivo Alavés W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-18 | Liga F | Eibar W 2-3 Deportivo de La Coruña W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-03 | Liga F | Deportivo de La Coruña W 1-2 Atletico Madrid W | casa | –-– | – (–) - – (–) | –-– |
-| 2026-09-27 | Liga F | Deportivo de La Coruña W 1-1 Espanyol W | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Deportivo de La Coruña W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,17._
+_Goles esperados: local 1,06 · visitante 1,22._
 
 _Sin cuotas de Bet365 todavía para comparar._

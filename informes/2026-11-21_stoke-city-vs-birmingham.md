@@ -1,7 +1,7 @@
 # Stoke City – Birmingham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -187,7 +187,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 38% | 43% | 2.45 | +5% |
+| 1X2: 2 | 48% | 38% | 43% | 2.45 | +4% |
 | 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
 | 1X2: 1 | 26% | 34% | 30% | 2.70 | -18% |
 | Doble oportunidad: X2 | 74% | 66% | 70% | 1.44 | +1% |
@@ -209,7 +209,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
 | Goles del local: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +7% |
 | Goles del local: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del visitante: Más de 0.5 | 78% | 73% | 75% | 1.28 | -3% |
+| Goles del visitante: Más de 0.5 | 78% | 73% | 75% | 1.28 | -4% |
 | Goles del visitante: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
 | Goles del visitante: Menos de 0.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles del visitante: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |

@@ -1,7 +1,7 @@
 # Lincoln – Wrexham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -186,18 +186,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 36% | 37% | 36% | 2.50 | -9% |
+| 1X2: 2 | 35% | 37% | 36% | 2.50 | -9% |
 | 1X2: X | 29% | 29% | 29% | 3.25 | -6% |
 | 1X2: 1 | 35% | 34% | 35% | 2.70 | -6% |
 | Doble oportunidad: X2 | 65% | 66% | 65% | 1.44 | -6% |
 | Doble oportunidad: 12 | 71% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 64% | 63% | 64% | 1.50 | -4% |
+| Doble oportunidad: 1X | 65% | 63% | 64% | 1.50 | -4% |
 | Ambos marcan: No | 56% | 46% | 51% | 2.00 | +3% |
 | Ambos marcan: Sí | 44% | 54% | 49% | 1.73 | -16% |
-| Goles más/menos: Más de 1.5 | 64% | 72% | 68% | 1.33 | -10% |
+| Goles más/menos: Más de 1.5 | 63% | 72% | 68% | 1.33 | -10% |
 | Goles más/menos: Más de 2.5 | 37% | 47% | 42% | 2.00 | -16% |
 | Goles más/menos: Más de 3.5 | 17% | 27% | 22% | 3.50 | -22% |
-| Goles más/menos: Menos de 1.5 | 36% | 28% | 32% | 3.40 | +10% |
+| Goles más/menos: Menos de 1.5 | 37% | 28% | 32% | 3.40 | +10% |
 | Goles más/menos: Menos de 2.5 | 63% | 53% | 58% | 1.80 | +4% |
 | Goles más/menos: Menos de 3.5 | 83% | 73% | 78% | 1.30 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
@@ -209,9 +209,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
 | Goles del local: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
 | Goles del visitante: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +4% |
-| Goles del visitante: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -0% |
+| Goles del visitante: Más de 1.5 | 29% | 38% | 33% | 2.50 | -16% |
+| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +5% |
+| Goles del visitante: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
 | 1X2 descanso: 2 | 26% | 29% | 27% | 3.20 | -12% |
 | 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
 | 1X2 descanso: 1 | 26% | 27% | 26% | 3.40 | -10% |

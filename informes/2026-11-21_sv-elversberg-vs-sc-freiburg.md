@@ -1,21 +1,20 @@
 # SV Elversberg – SC Freiburg
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:13_
+_Actualizadas: 16/11 02:31_
 
 - **1X2:** 1 **3.25**  ·  X **3.80**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.62**
-    - 3,5: más **2.20** · menos **1.67**
-    - 4,5: más **4.00** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
-    - 6,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -30,6 +29,9 @@ _Actualizadas: 15/11 02:13_
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 9,5: más **2.02** · menos **1.78**
+- **Córners 1X2:** 1 **2.30**  ·  X **8.00**  ·  2 **1.80**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.50**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -43,6 +45,11 @@ _Actualizadas: 15/11 02:13_
 - **Win Both Halves:** 1 **11.00**  ·  2 **6.00**
 - **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.25**  ·  Home/No **8.00**  ·  Draw/No **19.00**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.40**
+- **Home Corners Over/Under:**
+    - 4,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Home Player Shots On Target Total:** Luca Pfeiffer - 1 **1.44**  ·  Luca Schnellbacher - 1 **1.44**  ·  Lukas Petkov - 1 **1.57**  ·  David Mokwa - 1 **1.44**  ·  Noel Futkeu - 1 **1.44**  ·  Noah Darvich - 1 **1.67**  ·  Cole Campbell - 1 **1.73**  ·  Francis-Ikechukwu Onyeka - 1 **1.73**  ·  Maurice Krattenmacher - 1 **1.73**  ·  Tom Zimmerschied - 1 **1.73**  ·  Amara Conde - 1 **2.50**  ·  Frederik Schmahl - 1 **2.50**  ·  Lukasz Poreba - 1 **3.00**  ·  Felix Keidel - 1 **3.40**  ·  Lasse Gunther - 1 **3.40**  ·  Florian Le Joncour - 1 **3.75**  ·  Jan Gyamerah - 1 **3.75**  ·  Lukas Pinckert - 1 **3.75**  ·  Maximilian Rohr - 1 **3.75**  ·  Nicholas Mickelson - 1 **3.75**  ·  Luca Sirch - 1 **6.00**  ·  Luca Pfeiffer - 2 **3.25**  ·  Luca Schnellbacher - 2 **3.25**  ·  Lukas Petkov - 2 **3.75**  ·  David Mokwa - 2 **3.25**  ·  Noel Futkeu - 2 **3.25**  ·  Noah Darvich - 2 **4.33**  ·  Cole Campbell - 2 **4.50**  ·  Francis-Ikechukwu Onyeka - 2 **4.50**  ·  Maurice Krattenmacher - 2 **4.50**  ·  Tom Zimmerschied - 2 **4.50**  ·  Amara Conde - 2 **10.00**  ·  Frederik Schmahl - 2 **10.00**  ·  Lukasz Poreba - 2 **13.00**  ·  Felix Keidel - 2 **17.00**  ·  Lasse Gunther - 2 **17.00**  ·  Florian Le Joncour - 2 **21.00**  ·  Jan Gyamerah - 2 **21.00**  ·  Lukas Pinckert - 2 **21.00**  ·  Maximilian Rohr - 2 **21.00**  ·  Nicholas Mickelson - 2 **21.00**  ·  Luca Pfeiffer - 3 **9.00**  ·  Luca Schnellbacher - 3 **9.00**  ·  Lukas Petkov - 3 **13.00**  ·  David Mokwa - 3 **9.00**  ·  Noel Futkeu - 3 **9.00**  ·  Noah Darvich - 3 **15.00**  ·  Cole Campbell - 3 **17.00**  ·  Francis-Ikechukwu Onyeka - 3 **17.00**  ·  Maurice Krattenmacher - 3 **17.00**  ·  Tom Zimmerschied - 3 **17.00**  ·  Luca Pfeiffer - 4 **21.00**  ·  Luca Schnellbacher - 4 **21.00**  ·  David Mokwa - 4 **21.00**  ·  Noel Futkeu - 4 **21.00**  ·  Raif Adam - 1 **1.73**  ·  Raif Adam - 2 **4.50**  ·  Raif Adam - 3 **17.00**
 - **Away Player Shots On Target Total:** Yuito Suzuki **26.00**  ·  Felix Keidel **51.00**  ·  Nicholas Mickelson **51.00**  ·  Rihito Yamamoto **51.00**  ·  Lucas Holer **10.00**  ·  Luca Schnellbacher **12.00**  ·  Luca Pfeiffer **9.50**  ·  Derry Scherhant **15.00**  ·  Noel Futkeu **12.00**  ·  Lukas Petkov **21.00**  ·  Frederik Schmahl **51.00**  ·  Florian Le Joncour **19.00**  ·  Lukas Pinckert **19.00**  ·  Maximilian Rohr **26.00**  ·  Lukas Kubler **34.00**  ·  Christian Gunter **81.00**  ·  Amara Conde **51.00**  ·  Lasse Gunther **81.00**  ·  Maurice Krattenmacher **26.00**  ·  Jan Gyamerah **41.00**  ·  Luca Sirch **126.00**  ·  Yannick Engelhardt **51.00**  ·  Berkay Yilmaz **81.00**  ·  Lukasz Poreba **67.00**  ·  Jan-Niklas Beste **29.00**  ·  Raif Adam **15.00**  ·  Tom Zimmerschied **34.00**  ·  Francis-Ikechukwu Onyeka **19.00**  ·  Mateo Zelic **11.00**  ·  Igor Matanovic **8.50**  ·  Philipp Treu **81.00**  ·  Noah Darvich **15.00**  ·  Anthony Jung **29.00**  ·  Bruno Ogbus **23.00**  ·  Jordy Makengo **126.00**  ·  Matthias Ginter **11.00**  ·  Max Rosenfelder **15.00**  ·  Maximilian Eggestein **41.00**  ·  Patrick Osterhage **51.00**  ·  Philipp Lienhart **15.00**  ·  Vincenzo Grifo **23.00**  ·  Cole Campbell **34.00**  ·  Cyriaque Irie **12.00**  ·  David Mokwa **8.50**  ·  Keisuke Goto **15.00**
 - **Home Player Shots:** Luca Pfeiffer - 1 **1.05**  ·  Luca Schnellbacher - 1 **1.05**  ·  Lukas Petkov - 1 **1.07**  ·  David Mokwa - 1 **1.05**  ·  Noel Futkeu - 1 **1.05**  ·  Noah Darvich - 1 **1.10**  ·  Cole Campbell - 1 **1.11**  ·  Francis-Ikechukwu Onyeka - 1 **1.11**  ·  Maurice Krattenmacher - 1 **1.11**  ·  Tom Zimmerschied - 1 **1.11**  ·  Amara Conde - 1 **1.33**  ·  Frederik Schmahl - 1 **1.33**  ·  Lukasz Poreba - 1 **1.44**  ·  Felix Keidel - 1 **1.62**  ·  Lasse Gunther - 1 **1.62**  ·  Florian Le Joncour - 1 **1.83**  ·  Jan Gyamerah - 1 **1.83**  ·  Lukas Pinckert - 1 **1.83**  ·  Maximilian Rohr - 1 **1.83**  ·  Nicholas Mickelson - 1 **1.83**  ·  Luca Sirch - 1 **2.25**  ·  Luca Pfeiffer - 2 **1.28**  ·  Luca Schnellbacher - 2 **1.28**  ·  Lukas Petkov - 2 **1.40**  ·  David Mokwa - 2 **1.28**  ·  Noel Futkeu - 2 **1.28**  ·  Noah Darvich - 2 **1.44**  ·  Cole Campbell - 2 **1.53**  ·  Francis-Ikechukwu Onyeka - 2 **1.53**  ·  Maurice Krattenmacher - 2 **1.53**  ·  Tom Zimmerschied - 2 **1.53**  ·  Amara Conde - 2 **2.38**  ·  Frederik Schmahl - 2 **2.38**  ·  Lukasz Poreba - 2 **3.00**  ·  Felix Keidel - 2 **3.75**  ·  Lasse Gunther - 2 **3.75**  ·  Florian Le Joncour - 2 **5.00**  ·  Jan Gyamerah - 2 **5.00**  ·  Lukas Pinckert - 2 **5.00**  ·  Maximilian Rohr - 2 **5.00**  ·  Nicholas Mickelson - 2 **5.00**  ·  Luca Sirch - 2 **8.00**  ·  Luca Pfeiffer - 3 **1.80**  ·  Luca Schnellbacher - 3 **1.80**  ·  Lukas Petkov - 3 **2.10**  ·  David Mokwa - 3 **1.80**  ·  Noel Futkeu - 3 **1.80**  ·  Noah Darvich - 3 **2.25**  ·  Cole Campbell - 3 **2.50**  ·  Francis-Ikechukwu Onyeka - 3 **2.50**  ·  Maurice Krattenmacher - 3 **2.50**  ·  Tom Zimmerschied - 3 **2.50**  ·  Amara Conde - 3 **5.50**  ·  Frederik Schmahl - 3 **5.50**  ·  Lukasz Poreba - 3 **7.00**  ·  Felix Keidel - 3 **11.00**  ·  Lasse Gunther - 3 **11.00**  ·  Florian Le Joncour - 3 **15.00**  ·  Jan Gyamerah - 3 **15.00**  ·  Lukas Pinckert - 3 **15.00**  ·  Maximilian Rohr - 3 **15.00**  ·  Nicholas Mickelson - 3 **15.00**  ·  Luca Sirch - 3 **21.00**  ·  Luca Pfeiffer - 4 **3.00**  ·  Luca Schnellbacher - 4 **3.00**  ·  Lukas Petkov - 4 **3.75**  ·  David Mokwa - 4 **3.00**  ·  Noel Futkeu - 4 **3.00**  ·  Noah Darvich - 4 **4.00**  ·  Cole Campbell - 4 **4.50**  ·  Francis-Ikechukwu Onyeka - 4 **4.50**  ·  Maurice Krattenmacher - 4 **4.50**  ·  Tom Zimmerschied - 4 **4.50**  ·  Amara Conde - 4 **13.00**  ·  Frederik Schmahl - 4 **13.00**  ·  Lukasz Poreba - 4 **19.00**  ·  Luca Pfeiffer - 5 **5.50**  ·  Luca Schnellbacher - 5 **5.50**  ·  Lukas Petkov - 5 **7.00**  ·  David Mokwa - 5 **5.50**  ·  Noel Futkeu - 5 **5.50**  ·  Noah Darvich - 5 **9.00**  ·  Cole Campbell - 5 **10.00**  ·  Francis-Ikechukwu Onyeka - 5 **10.00**  ·  Maurice Krattenmacher - 5 **10.00**  ·  Tom Zimmerschied - 5 **10.00**  ·  Luca Pfeiffer - 6 **11.00**  ·  Luca Schnellbacher - 6 **11.00**  ·  Lukas Petkov - 6 **15.00**  ·  David Mokwa - 6 **11.00**  ·  Noel Futkeu - 6 **11.00**  ·  Noah Darvich - 6 **17.00**  ·  Luca Pfeiffer - 7 **19.00**  ·  Luca Schnellbacher - 7 **19.00**  ·  Lukas Petkov - 7 **21.00**  ·  Maurice Krattenmacher - 6 **21.00**  ·  Cole Campbell - 6 **21.00**  ·  Francis-Ikechukwu Onyeka - 6 **21.00**  ·  David Mokwa - 7 **19.00**  ·  Felix Keidel - 4 **21.00**  ·  Lasse Gunther - 4 **21.00**  ·  Noel Futkeu - 7 **19.00**  ·  Tom Zimmerschied - 6 **21.00**  ·  Raif Adam - 1 **1.11**  ·  Raif Adam - 2 **1.53**  ·  Raif Adam - 3 **2.50**  ·  Raif Adam - 4 **4.50**  ·  Raif Adam - 5 **10.00**  ·  Raif Adam - 6 **21.00**
@@ -190,12 +197,12 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Doble oportunidad: 1X | 48% | 53% | 50% | 1.80 | -9% |
 | Ambos marcan: No | 38% | 35% | 37% | 2.62 | -3% |
 | Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
-| Goles más/menos: Más de 2.5 | 62% | 64% | 63% | 1.50 | -6% |
-| Goles más/menos: Más de 3.5 | 40% | 43% | 41% | 2.20 | -9% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
-| Goles más/menos: Menos de 2.5 | 38% | 36% | 37% | 2.62 | -2% |
-| Goles más/menos: Menos de 3.5 | 60% | 57% | 59% | 1.67 | -2% |
-| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
+| Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
+| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -6% |
+| Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |
+| Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -7% |
+| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -5% |
+| Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
@@ -208,6 +215,8 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Goles del visitante: Más de 2.5 | 30% | 29% | 29% | 3.25 | -4% |
 | Goles del visitante: Menos de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
 | Goles del visitante: Menos de 2.5 | 70% | 71% | 71% | 1.33 | -6% |
+| Córners más/menos: Más de 9.5 | 47% | 47% | 47% | 2.02 | -5% |
+| Córners más/menos: Menos de 9.5 | 53% | 53% | 53% | 1.78 | -5% |
 | 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -5% |
 | 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
 | 1X2 descanso: 1 | 23% | 26% | 24% | 3.60 | -13% |

@@ -1,7 +1,7 @@
 # Burgos – Albacete
 **Segunda División** · Regular Season - 15 · 22/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -160,7 +160,7 @@ _Sin bajas comunicadas por ahora._
 | Róber | F | 7 | 259 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 12 | 1,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,79 · visitante 1,00 · córners esperados 9,4._
+_Goles esperados: local 1,78 · visitante 1,00 · córners esperados 9,5._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -171,12 +171,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 56% | 46% | 51% | 2.05 | +4% |
 | Ambos marcan: No | 47% | 49% | 48% | 1.91 | -8% |
 | Ambos marcan: Sí | 53% | 51% | 52% | 1.80 | -6% |
-| Goles más/menos: Más de 1.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles más/menos: Más de 2.5 | 53% | 47% | 50% | 2.00 | +0% |
-| Goles más/menos: Más de 3.5 | 31% | 28% | 29% | 3.40 | -1% |
-| Goles más/menos: Menos de 1.5 | 23% | 28% | 25% | 3.40 | -13% |
+| Goles más/menos: Más de 1.5 | 77% | 72% | 74% | 1.30 | -3% |
+| Goles más/menos: Más de 2.5 | 53% | 47% | 50% | 2.00 | -0% |
+| Goles más/menos: Más de 3.5 | 30% | 28% | 29% | 3.40 | -1% |
+| Goles más/menos: Menos de 1.5 | 23% | 28% | 26% | 3.40 | -13% |
 | Goles más/menos: Menos de 2.5 | 47% | 53% | 50% | 1.80 | -10% |
-| Goles más/menos: Menos de 3.5 | 69% | 72% | 71% | 1.30 | -8% |
+| Goles más/menos: Menos de 3.5 | 70% | 72% | 71% | 1.30 | -8% |
 | 1X2 descanso: 2 | 19% | 23% | 21% | 4.00 | -16% |
 | 1X2 descanso: X | 41% | 42% | 41% | 2.20 | -9% |
 | 1X2 descanso: 1 | 40% | 35% | 38% | 2.62 | -1% |

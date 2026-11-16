@@ -1,7 +1,7 @@
 # Kolding IF – Aalborg
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Autocentralen Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:08_
@@ -137,7 +137,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,27 · visitante 1,09._
+_Goles esperados: local 1,26 · visitante 1,09._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -152,18 +152,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 52% | 41% | 47% | 2.25 | +5% |
 | Ambos marcan: Sí | 48% | 59% | 53% | 1.57 | -16% |
 | Goles más/menos: Más de 1.5 | 68% | 77% | 72% | 1.22 | -12% |
-| Goles más/menos: Más de 2.5 | 42% | 55% | 49% | 1.70 | -17% |
+| Goles más/menos: Más de 2.5 | 42% | 55% | 49% | 1.70 | -18% |
 | Goles más/menos: Más de 3.5 | 21% | 35% | 28% | 2.62 | -26% |
 | Goles más/menos: Menos de 1.5 | 32% | 23% | 28% | 4.00 | +11% |
 | Goles más/menos: Menos de 2.5 | 58% | 45% | 51% | 2.10 | +8% |
 | Goles más/menos: Menos de 3.5 | 79% | 65% | 72% | 1.44 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 67% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 33% | 3.25 | +6% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
-| Goles del local: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
+| Goles del local: Más de 0.5 | 72% | 73% | 72% | 1.28 | -7% |
 | Goles del local: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles del local: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
+| Goles del local: Menos de 0.5 | 28% | 27% | 28% | 3.50 | -4% |
 | Goles del local: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
 | Goles del visitante: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
 | Goles del visitante: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |

@@ -1,5 +1,32 @@
 # Lecciones del bot
 
+## 2026-11-15
+
+```
+🧠 LECCIONES DEL 15/11
+Picks del bot: 2 ✅ · 2 ❌
+
+❌ Lo que falló en lo publicado:
+• Bielorrusia marca → 0 de 1 gol
+• Chipre 1-2 Montenegro 🇲🇪 · 15:00 → marcador 1-4
+• Finlandia 3-0 San Marino 🇸🇲 · 18:00 → marcador 7-2
+• Gana España → Marcador: 2–3
+• Letonia 0-1 Armenia 🇦🇲 · 15:00 → marcador 0-0
+• Letonia marca → 0 de 1 gol
+
+❌ Fallos de los picks del bot y por qué:
+• Eibar gana alguna de las dos partes — no llegó a la línea (1-1)
+• Gana el Madrid CFF W — resultado 2-3
+
+📐 Modelo: 355/570 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬆️ premio mercado de casas: bet365 paga menos: 28/38 (+9 pts)
+⬆️ premio liga Segunda: 18/25 (+3 pts)
+⬆️ premio mercado Goals Over/Under - Second Half|Over 1.5: 6/8 (+3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-14
 
 ```

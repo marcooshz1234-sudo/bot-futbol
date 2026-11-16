@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-15 19:55",
+ "generado": "2026-11-16 02:34",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -9,28 +9,6 @@
  "dias": {
   "2026-11-16": {
    "picks": [
-    {
-     "partido_id": 1528991,
-     "fecha": "2026-11-16T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Greece",
-     "visitante": "Serbia",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Greece",
-     "cuota": 1.42,
-     "frecuencia": 0.8,
-     "ventaja": 0.096,
-     "detalle": "Greece 3/5 · Serbia 5/5",
-     "valor_mercado": -0.021,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.42,
-     "arbitro": "Michael Oliver",
-     "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.72
-    },
     {
      "partido_id": 1545652,
      "fecha": "2026-11-16T20:45",
@@ -59,24 +37,24 @@
      "prob_aprendida": 0.643
     },
     {
-     "partido_id": 1528986,
-     "fecha": "2026-11-16T16:00",
+     "partido_id": 1528988,
+     "fecha": "2026-11-16T18:00",
      "competicion": "Nations League",
      "liga_id": 5,
-     "local": "Kazakhstan",
-     "visitante": "Slovakia",
-     "mercado": "Total - Away",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Slovakia marca 2 o más",
-     "cuota": 1.8,
+     "local": "Estonia",
+     "visitante": "Bulgaria",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 8.5",
+     "tipo": "corners",
+     "texto": "Más de 8,5 córners en Estonia–Bulgaria",
+     "cuota": 1.73,
      "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Kazakhstan (en contra) 4/5 · Slovakia 4/5",
-     "valor_mercado": -0.027,
-     "arbitro": "Aliyar Agayev",
-     "arbitro_tarjetas": 1.5,
-     "prob_aprendida": 0.577
+     "ventaja": 0.222,
+     "detalle": "Estonia 4/5 · Bulgaria 4/5",
+     "valor_mercado": -0.011,
+     "arbitro": "Nenad Minakovic",
+     "arbitro_tarjetas": 6.0,
+     "prob_aprendida": 0.558
     },
     {
      "partido_id": 1528991,
@@ -101,32 +79,10 @@
      "temporada": "5/5",
      "arbitro": "Michael Oliver",
      "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.605
+     "prob_aprendida": 0.602
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1528991,
-     "fecha": "2026-11-16T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Greece",
-     "visitante": "Serbia",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Greece",
-     "cuota": 1.42,
-     "frecuencia": 0.8,
-     "ventaja": 0.096,
-     "detalle": "Greece 3/5 · Serbia 5/5",
-     "valor_mercado": -0.021,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.42,
-     "arbitro": "Michael Oliver",
-     "arbitro_tarjetas": 4.7,
-     "prob_aprendida": 0.72
-    },
     {
      "partido_id": 1545652,
      "fecha": "2026-11-16T20:45",
@@ -155,52 +111,55 @@
      "prob_aprendida": 0.643
     },
     {
-     "partido_id": 1528986,
-     "fecha": "2026-11-16T16:00",
+     "partido_id": 1528988,
+     "fecha": "2026-11-16T18:00",
      "competicion": "Nations League",
      "liga_id": 5,
-     "local": "Kazakhstan",
-     "visitante": "Slovakia",
-     "mercado": "Total - Away",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Slovakia marca 2 o más",
-     "cuota": 1.8,
+     "local": "Estonia",
+     "visitante": "Bulgaria",
+     "mercado": "Corners Over Under",
+     "opcion": "Over 8.5",
+     "tipo": "corners",
+     "texto": "Más de 8,5 córners en Estonia–Bulgaria",
+     "cuota": 1.73,
      "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Kazakhstan (en contra) 4/5 · Slovakia 4/5",
-     "valor_mercado": -0.027,
-     "arbitro": "Aliyar Agayev",
-     "arbitro_tarjetas": 1.5,
-     "prob_aprendida": 0.577
+     "ventaja": 0.222,
+     "detalle": "Estonia 4/5 · Bulgaria 4/5",
+     "valor_mercado": -0.011,
+     "arbitro": "Nenad Minakovic",
+     "arbitro_tarjetas": 6.0,
+     "prob_aprendida": 0.558
+    },
+    {
+     "partido_id": 1528991,
+     "fecha": "2026-11-16T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Greece",
+     "visitante": "Serbia",
+     "mercado": "Home Player Shots",
+     "opcion": "Konstantinos Mavropanos - 1",
+     "cuota": 1.36,
+     "frecuencia": 1.0,
+     "ventaja": 0.265,
+     "tipo": "jugador",
+     "jugador": "Konstantinos Mavropanos",
+     "equipo": "Greece",
+     "jugador_id": 1445,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Konstantinos Mavropanos: 1+ tiros",
+     "detalle": "Konstantinos Mavropanos 5/5",
+     "temporada": "5/5",
+     "arbitro": "Michael Oliver",
+     "arbitro_tarjetas": 4.7,
+     "prob_aprendida": 0.602
     }
    ],
    "combis": {
     "segura": null,
     "cuota_3": {
      "picks": [
-      {
-       "partido_id": 1528991,
-       "fecha": "2026-11-16T20:45",
-       "competicion": "Nations League",
-       "liga_id": 5,
-       "local": "Greece",
-       "visitante": "Serbia",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Greece",
-       "cuota": 1.42,
-       "frecuencia": 0.8,
-       "ventaja": 0.096,
-       "detalle": "Greece 3/5 · Serbia 5/5",
-       "valor_mercado": -0.021,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.42,
-       "arbitro": "Michael Oliver",
-       "arbitro_tarjetas": 4.7,
-       "prob_aprendida": 0.72
-      },
       {
        "partido_id": 1545652,
        "fecha": "2026-11-16T20:45",
@@ -229,27 +188,52 @@
        "prob_aprendida": 0.643
       },
       {
-       "partido_id": 1528986,
-       "fecha": "2026-11-16T16:00",
+       "partido_id": 1528988,
+       "fecha": "2026-11-16T18:00",
        "competicion": "Nations League",
        "liga_id": 5,
-       "local": "Kazakhstan",
-       "visitante": "Slovakia",
-       "mercado": "Total - Away",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Slovakia marca 2 o más",
-       "cuota": 1.8,
+       "local": "Estonia",
+       "visitante": "Bulgaria",
+       "mercado": "Corners Over Under",
+       "opcion": "Over 8.5",
+       "tipo": "corners",
+       "texto": "Más de 8,5 córners en Estonia–Bulgaria",
+       "cuota": 1.73,
        "frecuencia": 0.8,
-       "ventaja": 0.244,
-       "detalle": "Kazakhstan (en contra) 4/5 · Slovakia 4/5",
-       "valor_mercado": -0.027,
-       "arbitro": "Aliyar Agayev",
-       "arbitro_tarjetas": 1.5,
-       "prob_aprendida": 0.577
+       "ventaja": 0.222,
+       "detalle": "Estonia 4/5 · Bulgaria 4/5",
+       "valor_mercado": -0.011,
+       "arbitro": "Nenad Minakovic",
+       "arbitro_tarjetas": 6.0,
+       "prob_aprendida": 0.558
+      },
+      {
+       "partido_id": 1528991,
+       "fecha": "2026-11-16T20:45",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Greece",
+       "visitante": "Serbia",
+       "mercado": "Home Player Shots",
+       "opcion": "Konstantinos Mavropanos - 1",
+       "cuota": 1.36,
+       "frecuencia": 1.0,
+       "ventaja": 0.265,
+       "tipo": "jugador",
+       "jugador": "Konstantinos Mavropanos",
+       "equipo": "Greece",
+       "jugador_id": 1445,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Konstantinos Mavropanos: 1+ tiros",
+       "detalle": "Konstantinos Mavropanos 5/5",
+       "temporada": "5/5",
+       "arbitro": "Michael Oliver",
+       "arbitro_tarjetas": 4.7,
+       "prob_aprendida": 0.602
       }
      ],
-     "cuota": 3.32
+     "cuota": 3.06
     },
     "loca": null,
     "doble": null
@@ -268,16 +252,38 @@
        "opcion": "Home/No",
        "tipo": "resultado",
        "texto": "Gana el Iceland y no marcan los dos",
-       "cuota": 1.91,
+       "cuota": 1.83,
        "frecuencia": 0.7,
-       "ventaja": 0.176,
+       "ventaja": 0.154,
        "detalle": "Iceland 3/5 · Luxembourg 4/5",
-       "valor_mercado": 0.016,
-       "movimiento": 0.0,
+       "valor_mercado": -0.011,
+       "movimiento": -0.042,
        "cuota_inicial": 1.91,
        "arbitro": "Marian Barbu",
        "arbitro_tarjetas": 3.5,
-       "prob_aprendida": 0.661
+       "prob_aprendida": 0.653
+      },
+      {
+       "partido_id": 1528986,
+       "fecha": "2026-11-16T16:00",
+       "competicion": "Nations League",
+       "liga_id": 5,
+       "local": "Kazakhstan",
+       "visitante": "Slovakia",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Kazakhstan–Slovakia",
+       "cuota": 1.83,
+       "frecuencia": 0.8,
+       "ventaja": 0.254,
+       "detalle": "Kazakhstan 5/5 · Slovakia 3/5",
+       "valor_mercado": 0.017,
+       "movimiento": 0.017,
+       "cuota_inicial": 1.8,
+       "arbitro": "Aliyar Agayev",
+       "arbitro_tarjetas": 1.5,
+       "prob_aprendida": 0.616
       },
       {
        "partido_id": 1545662,
@@ -297,32 +303,10 @@
        "valor_mercado": 0.0,
        "arbitro": "Serdar Gozubuyuk",
        "arbitro_tarjetas": 3.8,
-       "prob_aprendida": 0.616
-      },
-      {
-       "partido_id": 1528986,
-       "fecha": "2026-11-16T16:00",
-       "competicion": "Nations League",
-       "liga_id": 5,
-       "local": "Kazakhstan",
-       "visitante": "Slovakia",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Kazakhstan–Slovakia",
-       "cuota": 1.83,
-       "frecuencia": 0.8,
-       "ventaja": 0.254,
-       "detalle": "Kazakhstan 5/5 · Slovakia 3/5",
-       "valor_mercado": 0.028,
-       "movimiento": 0.017,
-       "cuota_inicial": 1.8,
-       "arbitro": "Aliyar Agayev",
-       "arbitro_tarjetas": 1.5,
-       "prob_aprendida": 0.565
+       "prob_aprendida": 0.606
       }
      ],
-     "cuota": 6.05
+     "cuota": 5.79
     }
    },
    "combis_partido": []
@@ -344,8 +328,25 @@
      "frecuencia": 0.8,
      "ventaja": 0.163,
      "detalle": "Israel 4/5 · Austria 4/5",
-     "valor_mercado": 0.026,
-     "prob_aprendida": 0.407
+     "valor_mercado": -0.031,
+     "prob_aprendida": 0.507
+    },
+    {
+     "partido_id": 1528992,
+     "fecha": "2026-11-17T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Wales",
+     "visitante": "Portugal",
+     "mercado": "ShotOnTarget 1x2",
+     "opcion": "Away",
+     "tipo": "tiros a puerta",
+     "texto": "Portugal hace más tiros a puerta",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "detalle": "Wales 4/5 · Portugal 4/5",
+     "prob_aprendida": 0.453
     }
    ],
    "mejores_por_partido": [
@@ -364,8 +365,25 @@
      "frecuencia": 0.8,
      "ventaja": 0.163,
      "detalle": "Israel 4/5 · Austria 4/5",
-     "valor_mercado": 0.026,
-     "prob_aprendida": 0.407
+     "valor_mercado": -0.031,
+     "prob_aprendida": 0.507
+    },
+    {
+     "partido_id": 1528992,
+     "fecha": "2026-11-17T20:45",
+     "competicion": "Nations League",
+     "liga_id": 5,
+     "local": "Wales",
+     "visitante": "Portugal",
+     "mercado": "ShotOnTarget 1x2",
+     "opcion": "Away",
+     "tipo": "tiros a puerta",
+     "texto": "Portugal hace más tiros a puerta",
+     "cuota": 1.36,
+     "frecuencia": 0.8,
+     "ventaja": 0.065,
+     "detalle": "Wales 4/5 · Portugal 4/5",
+     "prob_aprendida": 0.453
     }
    ],
    "combis": {
@@ -388,14 +406,14 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Denmark",
-       "cuota": 2.55,
+       "cuota": 2.4,
        "frecuencia": 0.6,
-       "ventaja": 0.208,
+       "ventaja": 0.183,
        "detalle": "Denmark 3/5 · Norway 3/5",
-       "valor_mercado": 0.062,
-       "movimiento": -0.056,
+       "valor_mercado": -0.004,
+       "movimiento": -0.111,
        "cuota_inicial": 2.7,
-       "prob_aprendida": 0.607
+       "prob_aprendida": 0.647
       },
       {
        "partido_id": 1528998,
@@ -415,10 +433,10 @@
        "valor_mercado": -0.021,
        "movimiento": 0.044,
        "cuota_inicial": 1.83,
-       "prob_aprendida": 0.554
+       "prob_aprendida": 0.556
       }
      ],
-     "cuota": 4.87
+     "cuota": 4.58
     }
    },
    "combis_partido": []
@@ -441,7 +459,7 @@
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.693
+     "prob_aprendida": 0.683
     }
    ],
    "mejores_por_partido": [
@@ -461,7 +479,7 @@
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
      "valor_mercado": 0.0,
-     "prob_aprendida": 0.693
+     "prob_aprendida": 0.683
     }
    ],
    "combis": {
@@ -486,68 +504,20 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Bournemouth",
-     "cuota": 2.0,
+     "cuota": 1.95,
      "frecuencia": 0.65,
-     "ventaja": 0.15,
+     "ventaja": 0.137,
      "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
-     "valor_mercado": -0.015,
+     "valor_mercado": -0.035,
+     "movimiento": -0.025,
+     "cuota_inicial": 2.0,
      "posiciones": [
       7,
       16,
       20
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.659
-    },
-    {
-     "partido_id": 1552826,
-     "fecha": "2026-11-21T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Strasbourg",
-     "visitante": "Stade Brestois 29",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "ventaja": 0.194,
-     "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
-     "valor_mercado": -0.022,
-     "posiciones": [
-      13,
-      9,
-      18
-     ],
-     "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.641
-    },
-    {
-     "partido_id": 1552823,
-     "fecha": "2026-11-21T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Monaco",
-     "visitante": "Auxerre",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Monaco–Auxerre",
-     "cuota": 1.7,
-     "frecuencia": 0.75,
-     "ventaja": 0.162,
-     "detalle": "Monaco 7/10 · Auxerre 8/10",
-     "valor_mercado": 0.018,
-     "prob_xg": 0.554,
-     "xg_esperado": 2.76,
-     "posiciones": [
-      7,
-      14,
-      18
-     ],
-     "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.601
+     "prob_aprendida": 0.692
     },
     {
      "partido_id": 1575223,
@@ -576,7 +546,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.571
+     "prob_aprendida": 0.57
     },
     {
      "partido_id": 1550204,
@@ -605,7 +575,7 @@
       20
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.577
+     "prob_aprendida": 0.574
     },
     {
      "partido_id": 1552228,
@@ -634,7 +604,31 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.594
+     "prob_aprendida": 0.593
+    },
+    {
+     "partido_id": 1575222,
+     "fecha": "2026-11-21T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayer Leverkusen",
+     "visitante": "SC Paderborn 07",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "SC Paderborn 07 hace más de 2,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
+     "valor_mercado": 0.081,
+     "posiciones": [
+      5,
+      13,
+      18
+     ],
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.422
     }
    ],
    "mejores_por_partido": [
@@ -649,68 +643,20 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Bournemouth",
-     "cuota": 2.0,
+     "cuota": 1.95,
      "frecuencia": 0.65,
-     "ventaja": 0.15,
+     "ventaja": 0.137,
      "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
-     "valor_mercado": -0.015,
+     "valor_mercado": -0.035,
+     "movimiento": -0.025,
+     "cuota_inicial": 2.0,
      "posiciones": [
       7,
       16,
       20
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.659
-    },
-    {
-     "partido_id": 1552826,
-     "fecha": "2026-11-21T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Strasbourg",
-     "visitante": "Stade Brestois 29",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
-     "cuota": 1.8,
-     "frecuencia": 0.75,
-     "ventaja": 0.194,
-     "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
-     "valor_mercado": -0.022,
-     "posiciones": [
-      13,
-      9,
-      18
-     ],
-     "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.641
-    },
-    {
-     "partido_id": 1552823,
-     "fecha": "2026-11-21T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Monaco",
-     "visitante": "Auxerre",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Monaco–Auxerre",
-     "cuota": 1.7,
-     "frecuencia": 0.75,
-     "ventaja": 0.162,
-     "detalle": "Monaco 7/10 · Auxerre 8/10",
-     "valor_mercado": 0.018,
-     "prob_xg": 0.554,
-     "xg_esperado": 2.76,
-     "posiciones": [
-      7,
-      14,
-      18
-     ],
-     "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.601
+     "prob_aprendida": 0.692
     },
     {
      "partido_id": 1575223,
@@ -739,7 +685,7 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.571
+     "prob_aprendida": 0.57
     },
     {
      "partido_id": 1550204,
@@ -768,7 +714,7 @@
       20
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.577
+     "prob_aprendida": 0.574
     },
     {
      "partido_id": 1552228,
@@ -797,7 +743,31 @@
       18
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.594
+     "prob_aprendida": 0.593
+    },
+    {
+     "partido_id": 1575222,
+     "fecha": "2026-11-21T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayer Leverkusen",
+     "visitante": "SC Paderborn 07",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "SC Paderborn 07 hace más de 2,5 córners",
+     "cuota": 1.73,
+     "frecuencia": 0.8,
+     "ventaja": 0.222,
+     "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
+     "valor_mercado": 0.081,
+     "posiciones": [
+      5,
+      13,
+      18
+     ],
+     "contexto": "peor_lejos_medio",
+     "prob_aprendida": 0.422
     }
    ],
    "combis": {
@@ -816,68 +786,20 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Bournemouth",
-       "cuota": 2.0,
+       "cuota": 1.95,
        "frecuencia": 0.65,
-       "ventaja": 0.15,
+       "ventaja": 0.137,
        "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
-       "valor_mercado": -0.015,
+       "valor_mercado": -0.035,
+       "movimiento": -0.025,
+       "cuota_inicial": 2.0,
        "posiciones": [
         7,
         16,
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.659
-      },
-      {
-       "partido_id": 1552826,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Strasbourg",
-       "visitante": "Stade Brestois 29",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
-       "cuota": 1.8,
-       "frecuencia": 0.75,
-       "ventaja": 0.194,
-       "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
-       "valor_mercado": -0.022,
-       "posiciones": [
-        13,
-        9,
-        18
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.641
-      },
-      {
-       "partido_id": 1552823,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Monaco",
-       "visitante": "Auxerre",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Monaco–Auxerre",
-       "cuota": 1.7,
-       "frecuencia": 0.75,
-       "ventaja": 0.162,
-       "detalle": "Monaco 7/10 · Auxerre 8/10",
-       "valor_mercado": 0.018,
-       "prob_xg": 0.554,
-       "xg_esperado": 2.76,
-       "posiciones": [
-        7,
-        14,
-        18
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.601
+       "prob_aprendida": 0.692
       },
       {
        "partido_id": 1575223,
@@ -906,7 +828,7 @@
         18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.571
+       "prob_aprendida": 0.57
       },
       {
        "partido_id": 1550204,
@@ -935,10 +857,63 @@
         20
        ],
        "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.577
+       "prob_aprendida": 0.574
+      },
+      {
+       "partido_id": 1552228,
+       "fecha": "2026-11-21T21:00",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Groningen",
+       "visitante": "Heerenveen",
+       "mercado": "Home Player Shots On Target Total",
+       "opcion": "Thom van Bergen - 1",
+       "cuota": 1.25,
+       "frecuencia": 0.9,
+       "ventaja": 0.1,
+       "tipo": "jugador",
+       "jugador": "Thom van Bergen",
+       "equipo": "Groningen",
+       "jugador_id": 392044,
+       "campo": "a_puerta",
+       "n": 1,
+       "texto": "Thom van Bergen: 1+ tiros a puerta",
+       "detalle": "Thom van Bergen 9/10",
+       "temporada": "11/13",
+       "posiciones": [
+        9,
+        6,
+        18
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.593
+      },
+      {
+       "partido_id": 1575222,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Bayer Leverkusen",
+       "visitante": "SC Paderborn 07",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 2.5",
+       "tipo": "corners",
+       "texto": "SC Paderborn 07 hace más de 2,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.8,
+       "ventaja": 0.222,
+       "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
+       "valor_mercado": 0.081,
+       "posiciones": [
+        5,
+        13,
+        18
+       ],
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.422
       }
      ],
-     "cuota": 13.9
+     "cuota": 9.58
     },
     "doble": null
    },
@@ -961,119 +936,119 @@
        "ventaja": 0.3,
        "detalle": "Vejle 6/10 · HB Koge 8/10",
        "valor_mercado": -0.046,
-       "prob_aprendida": 0.566
+       "prob_aprendida": 0.569
       },
       {
-       "partido_id": 1552819,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lens",
-       "visitante": "Toulouse",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
+       "partido_id": 1552233,
+       "fecha": "2026-11-21T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Utrecht",
+       "visitante": "Cambuur",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
        "tipo": "resultado",
-       "texto": "Toulouse o empate",
-       "cuota": 1.91,
-       "frecuencia": 0.7,
-       "ventaja": 0.176,
-       "detalle": "Lens 7/10 · Toulouse 7/10",
-       "valor_mercado": -0.021,
-       "movimiento": -0.068,
-       "cuota_inicial": 2.05,
+       "texto": "Cambuur gana alguna de las dos partes",
+       "cuota": 2.0,
+       "frecuencia": 0.65,
+       "ventaja": 0.15,
+       "detalle": "Utrecht 6/10 · Cambuur 7/10",
+       "valor_mercado": -0.048,
+       "movimiento": -0.091,
+       "cuota_inicial": 2.2,
        "posiciones": [
-        11,
-        12,
+        14,
+        10,
         18
        ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.553
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.559
       }
      ],
-     "cuota": 4.77,
+     "cuota": 5.0,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
     "liga": {
      "picks": [
       {
-       "partido_id": 1563270,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Southampton",
-       "visitante": "Derby",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Southampton–Derby",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Southampton 6/10 · Derby 7/10",
-       "valor_mercado": 0.047,
-       "prob_xg": 0.569,
-       "xg_esperado": 2.9,
-       "posiciones": [
-        4,
-        23,
-        24
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.561
-      },
-      {
-       "partido_id": 1563268,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Norwich",
-       "visitante": "Cardiff",
+       "partido_id": 1575223,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Eintracht Frankfurt",
+       "visitante": "1899 Hoffenheim",
        "mercado": "To Win Either Half",
-       "opcion": "Away",
+       "opcion": "Home",
        "tipo": "resultado",
-       "texto": "Cardiff gana alguna de las dos partes",
-       "cuota": 2.2,
-       "frecuencia": 0.75,
-       "ventaja": 0.295,
-       "detalle": "Norwich 7/10 · Cardiff 8/10",
-       "valor_mercado": -0.043,
+       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
+       "cuota": 1.62,
+       "frecuencia": 0.65,
+       "ventaja": 0.033,
+       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
+       "valor_mercado": 0.012,
+       "movimiento": -0.03,
+       "cuota_inicial": 1.67,
        "posiciones": [
-        12,
-        14,
-        24
+        10,
+        9,
+        18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.558
+       "prob_aprendida": 0.655
       },
       {
-       "partido_id": 1563272,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Swansea",
-       "visitante": "West Brom",
-       "mercado": "To Win Either Half",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "West Brom gana alguna de las dos partes",
-       "cuota": 1.83,
+       "partido_id": 1575229,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SV Elversberg",
+       "visitante": "SC Freiburg",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
+       "cuota": 1.73,
        "frecuencia": 0.65,
-       "ventaja": 0.104,
-       "detalle": "Swansea 7/10 · West Brom 6/10",
-       "valor_mercado": -0.062,
+       "ventaja": 0.072,
+       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
+       "valor_mercado": -0.023,
        "posiciones": [
         7,
-        6,
-        24
+        3,
+        18
        ],
-       "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.552
+       "contexto": "total_lejos_arriba",
+       "prob_aprendida": 0.638
+      },
+      {
+       "partido_id": 1575225,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Union Berlin",
+       "visitante": "RB Leipzig",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Union Berlin–RB Leipzig",
+       "cuota": 1.67,
+       "frecuencia": 0.7,
+       "ventaja": 0.101,
+       "detalle": "Union Berlin 7/10 · RB Leipzig 7/10",
+       "valor_mercado": -0.006,
+       "posiciones": [
+        16,
+        4,
+        18
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.602
       }
      ],
-     "cuota": 7.25,
-     "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP",
-     "liga": "Championship"
+     "cuota": 4.68,
+     "titulo": "🇩🇪 COMBI BUNDESLIGA",
+     "liga": "Bundesliga"
     },
     "atreve": {
      "picks": [
@@ -1101,7 +1076,7 @@
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.664
+       "prob_aprendida": 0.654
       },
       {
        "partido_id": 1557476,
@@ -1118,41 +1093,43 @@
        "frecuencia": 0.65,
        "ventaja": 0.094,
        "detalle": "Tottenham 6/10 · Ipswich 7/10",
-       "valor_mercado": -0.016,
+       "valor_mercado": -0.022,
        "posiciones": [
         11,
         14,
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.611
+       "prob_aprendida": 0.655
       },
       {
-       "partido_id": 1575229,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "SV Elversberg",
-       "visitante": "SC Freiburg",
+       "partido_id": 1552826,
+       "fecha": "2026-11-21T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Strasbourg",
+       "visitante": "Stade Brestois 29",
        "mercado": "Goals Over/Under - Second Half",
        "opcion": "Over 1.5",
        "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
-       "cuota": 1.73,
-       "frecuencia": 0.65,
-       "ventaja": 0.072,
-       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
-       "valor_mercado": 0.012,
+       "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
+       "cuota": 1.83,
+       "frecuencia": 0.75,
+       "ventaja": 0.204,
+       "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
+       "valor_mercado": -0.005,
+       "movimiento": 0.017,
+       "cuota_inicial": 1.8,
        "posiciones": [
-        7,
-        3,
+        13,
+        9,
         18
        ],
-       "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.594
+       "contexto": "total_lejos_medio",
+       "prob_aprendida": 0.607
       }
      ],
-     "cuota": 5.39
+     "cuota": 5.7
     },
     "500": {
      "picks": [
@@ -1167,18 +1144,46 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Bournemouth",
-       "cuota": 2.0,
+       "cuota": 1.95,
        "frecuencia": 0.65,
-       "ventaja": 0.15,
+       "ventaja": 0.137,
        "detalle": "Bournemouth 8/10 · Nottingham Forest 5/10",
-       "valor_mercado": -0.015,
+       "valor_mercado": -0.035,
+       "movimiento": -0.025,
+       "cuota_inicial": 2.0,
        "posiciones": [
         7,
         16,
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.659
+       "prob_aprendida": 0.692
+      },
+      {
+       "partido_id": 1575223,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Eintracht Frankfurt",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
+       "cuota": 1.62,
+       "frecuencia": 0.65,
+       "ventaja": 0.033,
+       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
+       "valor_mercado": 0.012,
+       "movimiento": -0.03,
+       "cuota_inicial": 1.67,
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.655
       },
       {
        "partido_id": 1552820,
@@ -1204,55 +1209,7 @@
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.664
-      },
-      {
-       "partido_id": 1552826,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Strasbourg",
-       "visitante": "Stade Brestois 29",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
-       "cuota": 1.8,
-       "frecuencia": 0.75,
-       "ventaja": 0.194,
-       "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
-       "valor_mercado": -0.022,
-       "posiciones": [
-        13,
-        9,
-        18
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.641
-      },
-      {
-       "partido_id": 1575223,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Eintracht Frankfurt",
-       "visitante": "1899 Hoffenheim",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
-       "cuota": 1.67,
-       "frecuencia": 0.65,
-       "ventaja": 0.051,
-       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
-       "valor_mercado": 0.044,
-       "posiciones": [
-        10,
-        9,
-        18
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.615
+       "prob_aprendida": 0.654
       },
       {
        "partido_id": 1557476,
@@ -1269,40 +1226,64 @@
        "frecuencia": 0.65,
        "ventaja": 0.094,
        "detalle": "Tottenham 6/10 · Ipswich 7/10",
-       "valor_mercado": -0.016,
+       "valor_mercado": -0.022,
        "posiciones": [
         11,
         14,
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.611
+       "prob_aprendida": 0.655
       },
       {
-       "partido_id": 1552823,
+       "partido_id": 1575229,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SV Elversberg",
+       "visitante": "SC Freiburg",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
+       "cuota": 1.73,
+       "frecuencia": 0.65,
+       "ventaja": 0.072,
+       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
+       "valor_mercado": -0.023,
+       "posiciones": [
+        7,
+        3,
+        18
+       ],
+       "contexto": "total_lejos_arriba",
+       "prob_aprendida": 0.638
+      },
+      {
+       "partido_id": 1552826,
        "fecha": "2026-11-21T20:45",
        "competicion": "Ligue 1",
        "liga_id": 61,
-       "local": "Monaco",
-       "visitante": "Auxerre",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
+       "local": "Strasbourg",
+       "visitante": "Stade Brestois 29",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
        "tipo": "goles",
-       "texto": "Ambos marcan en Monaco–Auxerre",
-       "cuota": 1.7,
+       "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
+       "cuota": 1.83,
        "frecuencia": 0.75,
-       "ventaja": 0.162,
-       "detalle": "Monaco 7/10 · Auxerre 8/10",
-       "valor_mercado": 0.018,
-       "prob_xg": 0.554,
-       "xg_esperado": 2.76,
+       "ventaja": 0.204,
+       "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
+       "valor_mercado": -0.005,
+       "movimiento": 0.017,
+       "cuota_inicial": 1.8,
        "posiciones": [
-        7,
-        14,
+        13,
+        9,
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.601
+       "prob_aprendida": 0.607
       },
       {
        "partido_id": 1551381,
@@ -1320,57 +1301,7 @@
        "ventaja": 0.3,
        "detalle": "Vejle 6/10 · HB Koge 8/10",
        "valor_mercado": -0.046,
-       "prob_aprendida": 0.566
-      },
-      {
-       "partido_id": 1575229,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "SV Elversberg",
-       "visitante": "SC Freiburg",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
-       "cuota": 1.73,
-       "frecuencia": 0.65,
-       "ventaja": 0.072,
-       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
-       "valor_mercado": 0.012,
-       "posiciones": [
-        7,
-        3,
-        18
-       ],
-       "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.594
-      },
-      {
-       "partido_id": 1550204,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Napoli",
-       "visitante": "Torino",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Napoli–Torino",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Napoli 7/10 · Torino 6/10",
-       "valor_mercado": -0.016,
-       "prob_xg": 0.588,
-       "xg_esperado": 2.92,
-       "posiciones": [
-        10,
-        11,
-        20
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.596
+       "prob_aprendida": 0.569
       },
       {
        "partido_id": 1563270,
@@ -1396,42 +1327,68 @@
         24
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.561
+       "prob_aprendida": 0.568
+      },
+      {
+       "partido_id": 1550204,
+       "fecha": "2026-11-21T20:45",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Napoli",
+       "visitante": "Torino",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Napoli–Torino",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Napoli 7/10 · Torino 6/10",
+       "valor_mercado": -0.011,
+       "prob_xg": 0.588,
+       "xg_esperado": 2.92,
+       "posiciones": [
+        10,
+        11,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.597
+      },
+      {
+       "partido_id": 1570453,
+       "fecha": "2026-11-21T14:00",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Alaves",
+       "visitante": "Deportivo La Coruna",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Alaves–Deportivo La Coruna",
+       "cuota": 1.95,
+       "frecuencia": 0.65,
+       "ventaja": 0.137,
+       "detalle": "Alaves 7/10 · Deportivo La Coruna 6/10",
+       "valor_mercado": 0.037,
+       "prob_xg": 0.499,
+       "xg_esperado": 2.53,
+       "posiciones": [
+        12,
+        9,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.553
       }
      ],
-     "cuota": 445.98
+     "cuota": 491.91
     }
    },
    "combis_partido": []
   },
   "2026-11-22": {
    "picks": [
-    {
-     "partido_id": 1557473,
-     "fecha": "2026-11-22T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Liverpool",
-     "visitante": "Manchester United",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Liverpool",
-     "cuota": 1.7,
-     "frecuencia": 0.65,
-     "ventaja": 0.062,
-     "detalle": "Liverpool 6/10 · Manchester United 7/10",
-     "valor_mercado": -0.017,
-     "movimiento": -0.071,
-     "cuota_inicial": 1.83,
-     "posiciones": [
-      4,
-      18,
-      20
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.677
-    },
     {
      "partido_id": 1550199,
      "fecha": "2026-11-22T15:00",
@@ -1456,7 +1413,33 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.698
+     "prob_aprendida": 0.695
+    },
+    {
+     "partido_id": 1557473,
+     "fecha": "2026-11-22T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Liverpool",
+     "visitante": "Manchester United",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Liverpool",
+     "cuota": 1.7,
+     "frecuencia": 0.65,
+     "ventaja": 0.062,
+     "detalle": "Liverpool 6/10 · Manchester United 7/10",
+     "valor_mercado": -0.017,
+     "movimiento": -0.071,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      4,
+      18,
+      20
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.667
     },
     {
      "partido_id": 1570030,
@@ -1480,7 +1463,7 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.655
+     "prob_aprendida": 0.645
     },
     {
      "partido_id": 1570030,
@@ -1504,31 +1487,7 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.685
-    },
-    {
-     "partido_id": 1570030,
-     "fecha": "2026-11-22T14:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cordoba",
-     "visitante": "Oviedo",
-     "mercado": "Goals Over/Under - Second Half",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Cordoba 8/10 · Oviedo 8/10",
-     "valor_mercado": 0.0,
-     "posiciones": [
-      10,
-      9,
-      22
-     ],
-     "contexto": "total_igualado_medio",
-     "prob_aprendida": 0.619
+     "prob_aprendida": 0.675
     },
     {
      "partido_id": 1575224,
@@ -1552,7 +1511,31 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.655
+     "prob_aprendida": 0.664
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo",
+     "cuota": 1.8,
+     "frecuencia": 0.8,
+     "ventaja": 0.244,
+     "detalle": "Cordoba 8/10 · Oviedo 8/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "total_igualado_medio",
+     "prob_aprendida": 0.621
     },
     {
      "partido_id": 1563264,
@@ -1578,7 +1561,7 @@
       24
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.61
+     "prob_aprendida": 0.611
     },
     {
      "partido_id": 1575227,
@@ -1602,7 +1585,33 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.612
+     "prob_aprendida": 0.613
+    },
+    {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Ajax–ADO Den Haag",
+     "cuota": 1.75,
+     "frecuencia": 0.8,
+     "ventaja": 0.229,
+     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": 0.023,
+     "prob_xg": 0.629,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.573
     },
     {
      "partido_id": 1550199,
@@ -1631,36 +1640,10 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.627
+     "prob_aprendida": 0.626
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1557473,
-     "fecha": "2026-11-22T17:30",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Liverpool",
-     "visitante": "Manchester United",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Liverpool",
-     "cuota": 1.7,
-     "frecuencia": 0.65,
-     "ventaja": 0.062,
-     "detalle": "Liverpool 6/10 · Manchester United 7/10",
-     "valor_mercado": -0.017,
-     "movimiento": -0.071,
-     "cuota_inicial": 1.83,
-     "posiciones": [
-      4,
-      18,
-      20
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.677
-    },
     {
      "partido_id": 1550199,
      "fecha": "2026-11-22T15:00",
@@ -1685,7 +1668,33 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.698
+     "prob_aprendida": 0.695
+    },
+    {
+     "partido_id": 1557473,
+     "fecha": "2026-11-22T17:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Liverpool",
+     "visitante": "Manchester United",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Liverpool",
+     "cuota": 1.7,
+     "frecuencia": 0.65,
+     "ventaja": 0.062,
+     "detalle": "Liverpool 6/10 · Manchester United 7/10",
+     "valor_mercado": -0.017,
+     "movimiento": -0.071,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      4,
+      18,
+      20
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.667
     },
     {
      "partido_id": 1570030,
@@ -1709,7 +1718,7 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.655
+     "prob_aprendida": 0.645
     },
     {
      "partido_id": 1575224,
@@ -1733,7 +1742,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.655
+     "prob_aprendida": 0.664
     },
     {
      "partido_id": 1563264,
@@ -1759,7 +1768,7 @@
       24
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.61
+     "prob_aprendida": 0.611
     },
     {
      "partido_id": 1575227,
@@ -1783,7 +1792,33 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.612
+     "prob_aprendida": 0.613
+    },
+    {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Ajax–ADO Den Haag",
+     "cuota": 1.75,
+     "frecuencia": 0.8,
+     "ventaja": 0.229,
+     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": 0.023,
+     "prob_xg": 0.629,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.573
     }
    ],
    "combis": {
@@ -1791,32 +1826,6 @@
     "cuota_3": null,
     "loca": {
      "picks": [
-      {
-       "partido_id": 1557473,
-       "fecha": "2026-11-22T17:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Liverpool",
-       "visitante": "Manchester United",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Liverpool",
-       "cuota": 1.7,
-       "frecuencia": 0.65,
-       "ventaja": 0.062,
-       "detalle": "Liverpool 6/10 · Manchester United 7/10",
-       "valor_mercado": -0.017,
-       "movimiento": -0.071,
-       "cuota_inicial": 1.83,
-       "posiciones": [
-        4,
-        18,
-        20
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.677
-      },
       {
        "partido_id": 1550199,
        "fecha": "2026-11-22T15:00",
@@ -1841,7 +1850,33 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.698
+       "prob_aprendida": 0.695
+      },
+      {
+       "partido_id": 1557473,
+       "fecha": "2026-11-22T17:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Liverpool",
+       "visitante": "Manchester United",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Liverpool",
+       "cuota": 1.7,
+       "frecuencia": 0.65,
+       "ventaja": 0.062,
+       "detalle": "Liverpool 6/10 · Manchester United 7/10",
+       "valor_mercado": -0.017,
+       "movimiento": -0.071,
+       "cuota_inicial": 1.83,
+       "posiciones": [
+        4,
+        18,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.667
       },
       {
        "partido_id": 1570030,
@@ -1865,7 +1900,7 @@
         22
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.655
+       "prob_aprendida": 0.645
       },
       {
        "partido_id": 1575224,
@@ -1889,7 +1924,7 @@
         18
        ],
        "contexto": "total_igualado_abajo",
-       "prob_aprendida": 0.655
+       "prob_aprendida": 0.664
       },
       {
        "partido_id": 1563264,
@@ -1915,7 +1950,7 @@
         24
        ],
        "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.61
+       "prob_aprendida": 0.611
       }
      ],
      "cuota": 14.59
@@ -1949,7 +1984,7 @@
         18
        ],
        "contexto": "peor_igualado_abajo",
-       "prob_aprendida": 0.683
+       "prob_aprendida": 0.685
       },
       {
        "partido_id": 1550199,
@@ -1977,7 +2012,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.657
+       "prob_aprendida": 0.652
       },
       {
        "partido_id": 1563264,
@@ -2001,7 +2036,7 @@
         24
        ],
        "contexto": "mejor_lejos_abajo",
-       "prob_aprendida": 0.462
+       "prob_aprendida": 0.464
       }
      ],
      "cuota": 7.84

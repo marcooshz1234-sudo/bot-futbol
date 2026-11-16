@@ -1,7 +1,7 @@
 # Twente – Willem II
 **Eredivisie** · Regular Season - 13 · 22/11/2026 12:15 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | T. Didillon | G | 2 | 158 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 4,18 · visitante 0,68 · córners esperados 10,0._
+_Goles esperados: local 4,18 · visitante 0,67 · córners esperados 10,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -199,7 +199,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 12 | 95% | 93% | 94% | 1.05 | -1% |
 | Doble oportunidad: 1X | 97% | 97% | 97% | 1.01 | -2% |
 | Ambos marcan: No | 51% | 56% | 54% | 1.67 | -11% |
-| Ambos marcan: Sí | 49% | 44% | 46% | 2.10 | -2% |
+| Ambos marcan: Sí | 49% | 44% | 46% | 2.10 | -3% |
 | Goles más/menos: Más de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
 | Goles más/menos: Más de 3.5 | 71% | 61% | 66% | 1.53 | +1% |
 | Goles más/menos: Más de 4.5 | 53% | 42% | 48% | 2.20 | +5% |

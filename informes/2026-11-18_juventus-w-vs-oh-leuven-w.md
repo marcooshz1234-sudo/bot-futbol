@@ -1,7 +1,7 @@
 # Juventus W – OH Leuven W
-**Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Stadio Vittorio Pozzo
+**Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -94,6 +94,6 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 1,02 · córners esperados 8,5._
+_Goles esperados: local 1,82 · visitante 1,01 · córners esperados 8,5._
 
 _Sin cuotas de Bet365 todavía para comparar._

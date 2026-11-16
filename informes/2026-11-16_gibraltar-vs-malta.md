@@ -1,45 +1,53 @@
 # Gibraltar – Malta
 **Nations League** · League D - 6 · 16/11/2026 20:45 (hora España) · Europa Sports Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 13:58_
+_Actualizadas: 16/11 02:30_
 
-- **1X2:** 1 **8.00**  ·  X **3.90**  ·  2 **1.48**
-- **Doble oportunidad:** 1X **2.62**  ·  12 **1.25**  ·  X2 **1.06**
-- **Ambos marcan:** Sí **2.50**  ·  No **1.50**
+- **1X2:** 1 **8.00**  ·  X **3.75**  ·  2 **1.50**
+- **Doble oportunidad:** 1X **2.50**  ·  12 **1.25**  ·  X2 **1.06**
+- **Ambos marcan:** Sí **2.62**  ·  No **1.44**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **7.50**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.20** · menos **1.65**
-    - 3,5: más **4.00** · menos **1.22**
-    - 4,5: más **7.50** · menos **1.07**
+    - 0,5: más **1.10** · menos **6.50**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **7.50** · menos **1.07**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **8.00** · menos **1.06**
 - **Goles del local:**
-    - 0,5: más **2.10** · menos **1.67**
-    - 1,5: más **6.50** · menos **1.10**
+    - 0,5: más **2.20** · menos **1.62**
+    - 1,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.17** · menos **4.50**
-    - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
-    - 3,5: más **7.00** · menos **1.08**
-- **1X2 descanso:** 1 **7.50**  ·  X **2.10**  ·  2 **1.95**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **7.50** · menos **1.07**
+- **Córners más/menos:**
+    - 8,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **3.40**  ·  X **8.50**  ·  2 **1.44**
+- **1X2 descanso:** 1 **8.00**  ·  X **2.05**  ·  2 **2.05**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
-- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
-- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
-- **To Win Either Half:** 1 **4.00**  ·  2 **1.28**
-- **To Score In Both Halves By Teams:** 1 **13.00**  ·  2 **2.62**
-- **Win Both Halves:** 1 **34.00**  ·  2 **3.75**
-- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **4.50**  ·  Home/No **11.00**  ·  Draw/No **7.50**  ·  Away/No **2.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.25**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **1.95**
-- **Anytime Goal Scorer:** Jake Azzopardi **5.00**  ·  Brandon Paiber **6.50**  ·  Ylyas Chouaref **3.10**  ·  Julian Valarino **17.00**  ·  Carlos Richards **9.50**  ·  Liam Jessop **8.00**  ·  Julian Del Rio **7.00**  ·  Basil Tuma **3.10**  ·  Keyon Ewurum **3.50**  ·  Tjay De Barr **8.00**  ·  James Scanlon **7.00**  ·  Graeme Torrilla **12.00**  ·  Louie Annesley **17.00**  ·  Ethan Britto **21.00**  ·  Ethan Jolley **21.00**  ·  Kian Ronan **21.00**  ·  Bernardo Lopes **26.00**  ·  Nicholas Pozo **13.00**  ·  Daniel Bent **12.00**  ·  Yannick Yankam **5.00**  ·  Dylan Borge **6.50**  ·  Jeremy Perera **13.00**  ·  Jesse Gomez **13.00**  ·  Alexander Satariano **4.00**  ·  Paul Mbong **3.10**  ·  Teddy Teuma **3.50**  ·  Joseph Mbong **3.10**  ·  Matthew Guillaumier **5.00**  ·  Juan Corbalan **9.50**  ·  Kurt Shaw **12.00**  ·  Ryan Camenzuli **9.50**  ·  Zach Muscat **8.00**  ·  Gabriel Mentz **9.50**  ·  Steve Pisani **8.00**  ·  Andrea Zammit **2.60**  ·  Leon Mason **8.50**  ·  Kevin Cannavo **4.00**  ·  Han Stevens **17.00**  ·  Jayvan Garro **17.00**  ·  Luke Schofield **12.00**  ·  Mattias Ellul **9.50**  ·  Enrico Pepe **13.00**  ·  Myles Beerman **9.50**  ·  Carlo Zammit Lonardelli **8.00**  ·  Irvin Cardona **2.60**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **To Win Either Half:** 1 **4.00**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **2.75**
+- **Win Both Halves:** 1 **41.00**  ·  2 **4.00**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **5.00**  ·  Home/No **11.00**  ·  Draw/No **6.50**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **1.80**
+- **Home Corners Over/Under:**
+    - 3,5: más **2.25** · menos **1.57**
+- **Away Corners Over/Under:**
+    - 5,5: más **2.10** · menos **1.67**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
+- **Anytime Goal Scorer:** Jake Azzopardi **5.50**  ·  Brandon Paiber **6.50**  ·  Ylyas Chouaref **3.25**  ·  Julian Valarino **21.00**  ·  Carlos Richards **10.00**  ·  Liam Jessop **8.50**  ·  Julian Del Rio **7.50**  ·  Basil Tuma **3.25**  ·  Keyon Ewurum **3.75**  ·  Tjay De Barr **8.50**  ·  James Scanlon **7.50**  ·  Graeme Torrilla **12.00**  ·  Louie Annesley **21.00**  ·  Ethan Britto **26.00**  ·  Ethan Jolley **26.00**  ·  Kian Ronan **21.00**  ·  Bernardo Lopes **34.00**  ·  Nicholas Pozo **17.00**  ·  Daniel Bent **12.00**  ·  Yannick Yankam **5.50**  ·  Dylan Borge **6.50**  ·  Jeremy Perera **17.00**  ·  Jesse Gomez **17.00**  ·  Alexander Satariano **4.33**  ·  Paul Mbong **3.25**  ·  Teddy Teuma **3.75**  ·  Joseph Mbong **3.25**  ·  Matthew Guillaumier **5.50**  ·  Juan Corbalan **10.00**  ·  Kurt Shaw **12.00**  ·  Ryan Camenzuli **10.00**  ·  Zach Muscat **8.50**  ·  Gabriel Mentz **10.00**  ·  Steve Pisani **8.50**  ·  Andrea Zammit **2.62**  ·  Leon Mason **9.00**  ·  Kevin Cannavo **4.33**  ·  Han Stevens **21.00**  ·  Jayvan Garro **21.00**  ·  Luke Schofield **12.00**  ·  Mattias Ellul **10.00**  ·  Enrico Pepe **15.00**  ·  Myles Beerman **10.00**  ·  Carlo Zammit Lonardelli **8.50**  ·  Irvin Cardona **2.62**
 
 ## Estadísticas de equipo
 | | Gibraltar (total) | Gibraltar en casa | Malta (total) | Malta fuera |

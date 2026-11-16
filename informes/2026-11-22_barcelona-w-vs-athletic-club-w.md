@@ -1,7 +1,7 @@
 # Barcelona W – Athletic Club W
 **Liga F** · Regular Season - 12 · 22/11/2026 19:00 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,20 +9,20 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Barcelona W (total) | Barcelona W en casa | Athletic Club W (total) | Athletic Club W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 11 | 5 |
-| Forma (últimos 5) | EVVVV | EVVVV | VEDEV | VDEDV |
-| Balance | 12V 1E 1D | 6V 1E 0D | 5V 4E 2D | 2V 1E 2D |
-| Goles a favor / partido | 4,36 | 4,29 | 1,55 | 1,40 |
-| Goles en contra / partido | 0,57 | 0,86 | 1,09 | 1,20 |
-| Goles a favor 1ª parte | 1,93 | 2,00 | 0,73 | 0,80 |
-| Goles a favor 2ª parte | 2,43 | 2,29 | 0,82 | 0,60 |
-| Goles en contra 1ª parte | 0,36 | 0,43 | 0,36 | 0,20 |
-| Goles en contra 2ª parte | 0,21 | 0,43 | 0,73 | 1,00 |
+| Partidos analizados | 15 | 7 | 11 | 5 |
+| Forma (últimos 5) | EEVVV | EVVVV | VEDEV | VDEDV |
+| Balance | 12V 2E 1D | 6V 1E 0D | 5V 4E 2D | 2V 1E 2D |
+| Goles a favor / partido | 4,13 | 4,29 | 1,55 | 1,40 |
+| Goles en contra / partido | 0,60 | 0,86 | 1,09 | 1,20 |
+| Goles a favor 1ª parte | 1,80 | 2,00 | 0,73 | 0,80 |
+| Goles a favor 2ª parte | 2,33 | 2,29 | 0,82 | 0,60 |
+| Goles en contra 1ª parte | 0,33 | 0,43 | 0,36 | 0,20 |
+| Goles en contra 2ª parte | 0,27 | 0,43 | 0,73 | 1,00 |
 | Más de 1,5 goles | 100% | 100% | 64% | 60% |
-| Más de 2,5 goles | 86% | 86% | 45% | 40% |
-| Más de 3,5 goles | 71% | 71% | 45% | 40% |
-| Ambos marcan | 36% | 57% | 55% | 40% |
-| Portería a cero | 64% | 43% | 27% | 20% |
+| Más de 2,5 goles | 80% | 86% | 45% | 40% |
+| Más de 3,5 goles | 67% | 71% | 45% | 40% |
+| Ambos marcan | 40% | 57% | 55% | 40% |
+| Portería a cero | 60% | 43% | 27% | 20% |
 | Se queda sin marcar | 0% | 0% | 27% | 40% |
 | xG a favor | 3,25 | 2,33 | – | – |
 | xG en contra | 0,77 | 1,27 | – | – |
@@ -53,9 +53,9 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 1-15' | 5 | 3 | 1 | 1 | 3 | 3 |
 | 16-30' | 9 | 1 | 1 | 1 | 0 | 2 |
 | 31-45' | 13 | 1 | 2 | 6 | 1 | 4 |
-| 46-60' | 11 | 1 | 0 | 2 | 4 | 4 |
+| 46-60' | 11 | 2 | 0 | 2 | 4 | 4 |
 | 61-75' | 16 | 1 | 4 | 4 | 1 | 7 |
-| 76-90' | 7 | 1 | 6 | 3 | 3 | 10 |
+| 76-90' | 8 | 1 | 8 | 3 | 3 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Barcelona W
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Liga F | Deportivo de La Coruña W 1-1 Barcelona W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-12 | Champions Femenina | Barcelona W 1-1 Arsenal W | casa | 11-7 | 24 (7) - 7 (3) | 1-2 |
 | 2026-11-08 | Liga F | Barcelona W 5-1 Madrid CFF W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Liga F | FC Levante Badalona W 0-4 Barcelona W | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-29 | Champions Femenina | Køge W 0-8 Barcelona W | fuera | 9-3 | 26 (10) - 4 (1) | 1-1 |
 | 2026-10-24 | Liga F | Barcelona W 3-0 Granada | casa | –-– | – (–) - – (–) | –-– |
-| 2026-10-18 | Liga F | Real Sociedad W 2-1 Barcelona W | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Barcelona W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -99,6 +99,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 3,27 · visitante 0,56._
+_Goles esperados: local 3,13 · visitante 0,59._
 
 _Sin cuotas de Bet365 todavía para comparar._

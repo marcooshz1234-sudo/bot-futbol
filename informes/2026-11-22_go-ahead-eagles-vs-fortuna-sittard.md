@@ -1,7 +1,7 @@
 # GO Ahead Eagles – Fortuna Sittard
 **Eredivisie** · Regular Season - 13 · 22/11/2026 16:45 (hora España) · De Adelaarshorst
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -183,7 +183,7 @@ _Sin bajas comunicadas por ahora._
 | Iván Márquez | D | 4 | 133 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,79 · visitante 1,28 · córners esperados 9,8._
+_Goles esperados: local 1,79 · visitante 1,27 · córners esperados 9,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -191,12 +191,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 27% | 20% | 23% | 4.75 | +11% |
 | 1X2: X | 23% | 23% | 23% | 4.10 | -6% |
-| 1X2: 1 | 49% | 58% | 54% | 1.60 | -14% |
-| Doble oportunidad: X2 | 51% | 41% | 46% | 2.30 | +6% |
+| 1X2: 1 | 50% | 58% | 54% | 1.60 | -14% |
+| Doble oportunidad: X2 | 50% | 41% | 46% | 2.30 | +6% |
 | Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
 | Doble oportunidad: 1X | 73% | 81% | 77% | 1.18 | -10% |
 | Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
-| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -7% |
+| Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
 | Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.48 | -9% |
 | Goles más/menos: Más de 3.5 | 37% | 44% | 41% | 2.10 | -15% |
 | Goles más/menos: Más de 4.5 | 20% | 25% | 22% | 3.75 | -16% |
@@ -204,17 +204,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 63% | 56% | 59% | 1.67 | -1% |
 | Goles más/menos: Menos de 4.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 44% | 41% | 2.10 | -13% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 44% | 41% | 2.10 | -13% |
 | Goles 1ª parte más/menos: Más de 2.5 | 15% | 21% | 18% | 4.50 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 56% | 59% | 1.67 | -2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 56% | 59% | 1.67 | -2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del local: Más de 1.5 | 53% | 62% | 58% | 1.50 | -13% |
 | Goles del local: Más de 2.5 | 27% | 38% | 32% | 2.50 | -20% |
 | Goles del local: Menos de 1.5 | 47% | 38% | 42% | 2.50 | +5% |
 | Goles del local: Menos de 2.5 | 73% | 62% | 68% | 1.50 | +2% |
 | Goles del visitante: Más de 0.5 | 72% | 69% | 70% | 1.36 | -4% |
-| Goles del visitante: Más de 1.5 | 36% | 34% | 35% | 2.75 | -3% |
+| Goles del visitante: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles del visitante: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
 | 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |

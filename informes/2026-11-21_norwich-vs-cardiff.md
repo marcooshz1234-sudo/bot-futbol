@@ -1,7 +1,7 @@
 # Norwich – Cardiff
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -200,10 +200,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 69% | 76% | 73% | 1.25 | -9% |
 | Ambos marcan: No | 25% | 31% | 28% | 3.00 | -15% |
 | Ambos marcan: Sí | 75% | 69% | 72% | 1.36 | -2% |
-| Goles más/menos: Más de 2.5 | 77% | 72% | 75% | 1.33 | -1% |
-| Goles más/menos: Más de 3.5 | 58% | 53% | 55% | 1.80 | -0% |
+| Goles más/menos: Más de 2.5 | 77% | 72% | 74% | 1.33 | -1% |
+| Goles más/menos: Más de 3.5 | 58% | 53% | 55% | 1.80 | -1% |
 | Goles más/menos: Más de 4.5 | 38% | 32% | 35% | 3.00 | +5% |
-| Goles más/menos: Menos de 2.5 | 23% | 28% | 25% | 3.40 | -13% |
+| Goles más/menos: Menos de 2.5 | 23% | 28% | 26% | 3.40 | -13% |
 | Goles más/menos: Menos de 3.5 | 42% | 47% | 45% | 2.00 | -11% |
 | Goles más/menos: Menos de 4.5 | 62% | 68% | 65% | 1.40 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |

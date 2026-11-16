@@ -1,7 +1,7 @@
 # Edf Logrono W – Deportivo Alavés W
 **Liga F** · Regular Season - 12 · 21/11/2026 19:00 (hora España) · Estadio Las Gaunas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -94,6 +94,6 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,22 · visitante 0,67._
+_Goles esperados: local 1,23 · visitante 0,69._
 
 _Sin cuotas de Bet365 todavía para comparar._

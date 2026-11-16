@@ -1,7 +1,7 @@
 # Granada – Real Madrid W
 **Liga F** · Regular Season - 12 · 22/11/2026 12:00 (hora España) · Ciudad Deportiva del Granada
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Granada (total) | Granada en casa | Real Madrid W (total) | Real Madrid W fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 17 | 8 |
-| Forma (últimos 5) | DEDVE | DEEDV | EVEVE | EVEDE |
-| Balance | 3V 2E 5D | 1V 2E 2D | 10V 6E 1D | 4V 3E 1D |
-| Goles a favor / partido | 0,90 | 0,80 | 2,18 | 2,00 |
-| Goles en contra / partido | 1,60 | 1,40 | 1,53 | 1,88 |
-| Goles a favor 1ª parte | 0,30 | 0,40 | 0,88 | 1,00 |
-| Goles a favor 2ª parte | 0,60 | 0,40 | 1,29 | 1,00 |
-| Goles en contra 1ª parte | 0,90 | 1,00 | 0,71 | 1,00 |
-| Goles en contra 2ª parte | 0,70 | 0,40 | 0,82 | 0,88 |
-| Más de 1,5 goles | 60% | 60% | 94% | 100% |
-| Más de 2,5 goles | 50% | 40% | 65% | 50% |
-| Más de 3,5 goles | 30% | 20% | 53% | 50% |
-| Ambos marcan | 40% | 40% | 71% | 62% |
-| Portería a cero | 20% | 20% | 24% | 25% |
-| Se queda sin marcar | 50% | 60% | 12% | 12% |
+| Partidos analizados | 11 | 5 | 17 | 8 |
+| Forma (últimos 5) | EDEDV | DEEDV | EVEVE | EVEDE |
+| Balance | 3V 3E 5D | 1V 2E 2D | 10V 6E 1D | 4V 3E 1D |
+| Goles a favor / partido | 0,82 | 0,80 | 2,18 | 2,00 |
+| Goles en contra / partido | 1,45 | 1,40 | 1,53 | 1,88 |
+| Goles a favor 1ª parte | 0,27 | 0,40 | 0,88 | 1,00 |
+| Goles a favor 2ª parte | 0,55 | 0,40 | 1,29 | 1,00 |
+| Goles en contra 1ª parte | 0,82 | 1,00 | 0,71 | 1,00 |
+| Goles en contra 2ª parte | 0,64 | 0,40 | 0,82 | 0,88 |
+| Más de 1,5 goles | 55% | 60% | 94% | 100% |
+| Más de 2,5 goles | 45% | 40% | 65% | 50% |
+| Más de 3,5 goles | 27% | 20% | 53% | 50% |
+| Ambos marcan | 36% | 40% | 71% | 62% |
+| Portería a cero | 27% | 20% | 24% | 25% |
+| Se queda sin marcar | 55% | 60% | 12% | 12% |
 | xG a favor | – | – | 2,46 | 1,33 |
 | xG en contra | – | – | 1,67 | 2,65 |
 | Tiros / partido | – | – | 14,8 | 12,0 |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 2 | 1 | 6 | 2 | 1 |
 | 16-30' | 3 | 3 | 3 | 3 | 3 | 7 |
-| 31-45' | 0 | 4 | 6 | 6 | 7 | 5 |
-| 46-60' | 1 | 1 | 4 | 3 | 6 | 3 |
-| 61-75' | 2 | 4 | 8 | 7 | 3 | 2 |
-| 76-90' | 3 | 2 | 6 | 12 | 5 | 11 |
+| 31-45' | 0 | 4 | 7 | 6 | 7 | 5 |
+| 46-60' | 1 | 1 | 8 | 3 | 6 | 3 |
+| 61-75' | 2 | 4 | 9 | 7 | 3 | 2 |
+| 76-90' | 3 | 2 | 8 | 12 | 5 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Granada
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Liga F | Valencia W 0-0 Granada | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Liga F | Granada 0-1 Espanyol W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-31 | Liga F | Granada 1-1 Atletico Madrid W | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Liga F | Barcelona W 3-0 Granada | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-17 | Liga F | Edf Logrono W 2-3 Granada | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-04 | Liga F | Granada 0-0 Eibar W | casa | –-– | – (–) - – (–) | –-– |
-| 2026-09-26 | Liga F | FC Levante Badalona W 0-1 Granada | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Granada
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
@@ -99,6 +99,6 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,92 · visitante 2,06._
+_Goles esperados: local 0,85 · visitante 1,97._
 
 _Sin cuotas de Bet365 todavía para comparar._

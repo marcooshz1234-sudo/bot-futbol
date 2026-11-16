@@ -1,10 +1,55 @@
 # Real Madrid W – Inter Milano W
-**Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España)
+**Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 02:30_
+
+- **1X2:** 1 **1.28**  ·  X **5.00**  ·  2 **7.50**
+- **Doble oportunidad:** 1X **1.06**  ·  12 **1.11**  ·  X2 **3.20**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **8.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.73** · menos **2.00**
+    - 1,5: más **4.50** · menos **1.17**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.22**  ·  X **10.00**  ·  2 **5.00**
+- **1X2 descanso:** 1 **1.67**  ·  X **2.62**  ·  2 **7.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **8.00**
+- **Win Both Halves:** 1 **2.75**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **7.00**  ·  Away/Yes **13.00**  ·  Home/No **2.20**  ·  Draw/No **17.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 6,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.67** · menos **2.10**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.98**  ·  Menos de 4.5 **1.82**
 
 ## Estadísticas de equipo
 | | Real Madrid W (total) | Real Madrid W en casa | Inter Milano W (total) | Inter Milano W fuera |
@@ -94,6 +139,45 @@ _Sin precedentes recientes._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,56 · visitante 1,03 · córners esperados 9,0._
+_Goles esperados: local 2,59 · visitante 1,03 · córners esperados 9,0._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 13% | 12% | 12% | 7.50 | -7% |
+| 1X2: X | 16% | 18% | 17% | 5.00 | -14% |
+| 1X2: 1 | 71% | 70% | 70% | 1.28 | -10% |
+| Doble oportunidad: X2 | 29% | 29% | 29% | 3.20 | -7% |
+| Doble oportunidad: 12 | 84% | 84% | 84% | 1.11 | -7% |
+| Doble oportunidad: 1X | 87% | 87% | 87% | 1.06 | -7% |
+| Ambos marcan: No | 40% | 50% | 45% | 1.83 | -17% |
+| Ambos marcan: Sí | 60% | 50% | 55% | 1.83 | +0% |
+| Goles más/menos: Más de 2.5 | 70% | 62% | 66% | 1.50 | -1% |
+| Goles más/menos: Más de 3.5 | 49% | 42% | 46% | 2.20 | +0% |
+| Goles más/menos: Más de 4.5 | 30% | 25% | 27% | 3.75 | +3% |
+| Goles más/menos: Menos de 2.5 | 30% | 38% | 34% | 2.50 | -16% |
+| Goles más/menos: Menos de 3.5 | 51% | 58% | 54% | 1.62 | -12% |
+| Goles más/menos: Menos de 4.5 | 70% | 75% | 73% | 1.25 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 47% | 44% | 45% | 2.10 | -5% |
+| Goles 1ª parte más/menos: Más de 2.5 | 21% | 21% | 21% | 4.50 | -6% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 25% | 23% | 3.75 | -14% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 56% | 55% | 1.67 | -9% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 79% | 79% | 1.17 | -7% |
+| Goles del local: Más de 1.5 | 73% | 69% | 71% | 1.36 | -4% |
+| Goles del local: Más de 2.5 | 48% | 44% | 46% | 2.10 | -3% |
+| Goles del local: Más de 3.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles del local: Menos de 1.5 | 27% | 31% | 29% | 3.00 | -13% |
+| Goles del local: Menos de 2.5 | 52% | 56% | 54% | 1.67 | -10% |
+| Goles del local: Menos de 3.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles del visitante: Más de 0.5 | 64% | 54% | 59% | 1.73 | +2% |
+| Goles del visitante: Más de 1.5 | 28% | 21% | 24% | 4.50 | +8% |
+| Goles del visitante: Menos de 0.5 | 36% | 46% | 41% | 2.00 | -18% |
+| Goles del visitante: Menos de 1.5 | 72% | 79% | 76% | 1.17 | -11% |
+| Córners más/menos: Más de 9.5 | 40% | 49% | 44% | 1.91 | -15% |
+| Córners más/menos: Menos de 9.5 | 60% | 51% | 56% | 1.80 | -0% |
+| 1X2 descanso: X | 33% | 34% | 33% | 2.62 | -13% |
+| 1X2 descanso: 1 | 53% | 53% | 53% | 1.67 | -12% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

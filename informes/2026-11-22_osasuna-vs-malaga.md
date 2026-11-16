@@ -1,7 +1,7 @@
 # Osasuna – Malaga
 **LaLiga** · Regular Season - 13 · 22/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -190,7 +190,7 @@ _Goles esperados: local 1,71 · visitante 1,08 · córners esperados 9,3._
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 76% | 80% | 78% | 1.18 | -8% |
 | Ambos marcan: No | 46% | 48% | 47% | 1.95 | -8% |
-| Ambos marcan: Sí | 54% | 52% | 53% | 1.80 | -4% |
+| Ambos marcan: Sí | 54% | 52% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 1.5 | 77% | 73% | 75% | 1.30 | -3% |
 | Goles más/menos: Más de 2.5 | 53% | 50% | 51% | 1.91 | -2% |
 | Goles más/menos: Más de 3.5 | 31% | 28% | 29% | 3.40 | -0% |
@@ -198,7 +198,7 @@ _Goles esperados: local 1,71 · visitante 1,08 · córners esperados 9,3._
 | Goles más/menos: Menos de 2.5 | 47% | 50% | 49% | 1.91 | -7% |
 | Goles más/menos: Menos de 3.5 | 69% | 72% | 71% | 1.33 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 70% | 1.36 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 30% | 3.00 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
 | Goles del local: Más de 1.5 | 51% | 51% | 51% | 1.80 | -8% |
@@ -209,7 +209,7 @@ _Goles esperados: local 1,71 · visitante 1,08 · córners esperados 9,3._
 | Goles del visitante: Más de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
 | Goles del visitante: Menos de 0.5 | 34% | 39% | 37% | 2.38 | -13% |
 | Goles del visitante: Menos de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
-| 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -8% |
+| 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
 | 1X2 descanso: 1 | 38% | 40% | 39% | 2.30 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

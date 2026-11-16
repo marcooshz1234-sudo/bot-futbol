@@ -1,7 +1,7 @@
 # Barcelona – Villarreal
 **LaLiga** · Regular Season - 13 · 22/11/2026 14:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -199,16 +199,16 @@ _Goles esperados: local 3,36 · visitante 1,21 · córners esperados 9,7._
 | Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
 | Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
 | Goles más/menos: Más de 2.5 | 83% | 78% | 81% | 1.22 | -2% |
-| Goles más/menos: Más de 3.5 | 67% | 62% | 65% | 1.53 | -1% |
+| Goles más/menos: Más de 3.5 | 67% | 62% | 64% | 1.53 | -1% |
 | Goles más/menos: Más de 4.5 | 48% | 43% | 46% | 2.20 | +0% |
-| Goles más/menos: Más de 5.5 | 31% | 27% | 29% | 3.50 | +2% |
-| Goles más/menos: Menos de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles más/menos: Menos de 3.5 | 33% | 38% | 35% | 2.50 | -11% |
+| Goles más/menos: Más de 5.5 | 31% | 27% | 29% | 3.50 | +1% |
+| Goles más/menos: Menos de 2.5 | 17% | 22% | 19% | 4.33 | -16% |
+| Goles más/menos: Menos de 3.5 | 33% | 38% | 36% | 2.50 | -11% |
 | Goles más/menos: Menos de 4.5 | 52% | 57% | 54% | 1.67 | -9% |
 | Goles más/menos: Menos de 5.5 | 69% | 73% | 71% | 1.30 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
 | Goles 1ª parte más/menos: Más de 2.5 | 32% | 31% | 32% | 3.00 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 68% | 69% | 68% | 1.36 | -7% |
 | Goles del local: Más de 2.5 | 65% | 61% | 63% | 1.53 | -4% |
 | Goles del local: Más de 3.5 | 43% | 41% | 42% | 2.25 | -5% |

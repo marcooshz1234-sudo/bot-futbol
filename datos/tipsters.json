@@ -2504,6 +2504,11 @@
   },
   "por_que": [
    "España–Inglaterra, dos ataques top (Inglaterra 16 goles en 5), pero los partidos grandes de selecciones a veces se cierran. Iba bien con 0-2."
+  ],
+  "estado": "verde",
+  "marcador": [
+   2,
+   3
   ]
  },
  {
@@ -2527,6 +2532,11 @@
   },
   "por_que": [
    "Italia marcó en todos sus partidos fuera y en 4 de sus últimos 5 marcaron los dos; Bélgica necesitaba ganar. Entró pronto (3-1)."
+  ],
+  "estado": "verde",
+  "marcador": [
+   4,
+   1
   ]
  },
  {
@@ -2550,6 +2560,11 @@
   },
   "por_que": [
    "Francia en casa ante una Turquía que perdió sus 5 partidos de la Nations. Cuota 1,21: no vale suelta (mínimo 1,35)."
+  ],
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
   ]
  },
  {
@@ -2603,6 +2618,11 @@
   },
   "por_que": [
    "España en casa (44 partidos de competición sin perder), pero la cuota de 1,91 ya decía partido igualado e Inglaterra necesitaba ganar."
+  ],
+  "estado": "rojo",
+  "marcador": [
+   2,
+   3
   ]
  },
  {
@@ -2627,7 +2647,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.57,
    "prob_cuota": 0.667
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   4,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -2650,7 +2675,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.654
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2674,7 +2704,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.57,
    "prob_cuota": 0.556
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   4,
+   1
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2697,7 +2732,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.556
-  }
+  },
+  "estado": null,
+  "marcador": [
+   4,
+   1
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2720,7 +2760,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.435
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -2744,7 +2789,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.57,
    "prob_cuota": 0.435
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -2767,7 +2817,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.526
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "TipsAnalistas",

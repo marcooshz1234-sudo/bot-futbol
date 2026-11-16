@@ -1,7 +1,7 @@
 # Sparta Rotterdam – AZ Alkmaar
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Sparta Stadion Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | D. Kasius | D | 7 | 172 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 2,33 · córners esperados 10,3._
+_Goles esperados: local 1,35 · visitante 2,32 · córners esperados 10,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -202,21 +202,21 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 50% | 46% | 48% | 2.00 | -3% |
 | Goles más/menos: Más de 4.5 | 31% | 27% | 29% | 3.50 | +1% |
 | Goles más/menos: Menos de 2.5 | 29% | 35% | 32% | 2.70 | -14% |
-| Goles más/menos: Menos de 3.5 | 50% | 54% | 52% | 1.73 | -11% |
+| Goles más/menos: Menos de 3.5 | 50% | 54% | 52% | 1.73 | -10% |
 | Goles más/menos: Menos de 4.5 | 69% | 73% | 71% | 1.28 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 46% | 47% | 2.00 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 47% | 46% | 47% | 2.00 | -6% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 22% | 22% | 4.33 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 54% | 53% | 1.73 | -8% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 78% | 78% | 1.20 | -6% |
 | Goles del local: Más de 0.5 | 74% | 73% | 74% | 1.28 | -6% |
 | Goles del local: Más de 1.5 | 39% | 39% | 39% | 2.38 | -7% |
 | Goles del local: Menos de 0.5 | 26% | 27% | 26% | 3.50 | -8% |
 | Goles del local: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -7% |
-| Goles del visitante: Más de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
+| Goles del visitante: Más de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del visitante: Más de 2.5 | 41% | 35% | 38% | 2.62 | +0% |
-| Goles del visitante: Menos de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
+| Goles del visitante: Menos de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
 | Goles del visitante: Menos de 2.5 | 59% | 65% | 62% | 1.44 | -11% |
 | 1X2 descanso: 2 | 45% | 42% | 43% | 2.20 | -5% |
 | 1X2 descanso: X | 34% | 35% | 35% | 2.60 | -10% |

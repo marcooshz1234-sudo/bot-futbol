@@ -1,16 +1,16 @@
 # Athletic Club – Espanyol
 **LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:13_
+_Actualizadas: 16/11 02:31_
 
 - **1X2:** 1 **1.45**  ·  X **4.10**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.22**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **4.00**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.40**
@@ -28,6 +28,9 @@ _Actualizadas: 15/11 02:13_
 - **Goles del visitante:**
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **4.50** · menos **1.18**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **Córners 1X2:** 1 **1.25**  ·  X **10.00**  ·  2 **4.75**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.38**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -41,6 +44,11 @@ _Actualizadas: 15/11 02:13_
 - **Win Both Halves:** 1 **3.75**  ·  2 **26.00**
 - **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.50**  ·  Away/Yes **13.00**  ·  Home/No **2.38**  ·  Draw/No **12.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.40**
+- **Home Corners Over/Under:**
+    - 6,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
 - **Away Player Shots On Target Total:** Roger Hinojo **101.00**  ·  Vanja Drkusic **34.00**  ·  Marcos Fernandez **34.00**  ·  Alejandro Rego **12.00**  ·  Alex Calatrava **41.00**  ·  Javier Hernandez **51.00**  ·  Hugo Rincon **41.00**  ·  Roberto Fernandez **17.00**  ·  Nico Williams **23.00**  ·  Aymeric Laporte **11.00**  ·  Benat Gerenabarrena **51.00**  ·  Tyrhys Dolan **23.00**  ·  Clemens Riedel **23.00**  ·  Javi Puado **19.00**  ·  Urko Gonzalez **34.00**  ·  Quilindschy Hartman **51.00**  ·  Benat Prados **41.00**  ·  Eduardo Exposito **81.00**  ·  Inigo Ruiz de Galarreta **34.00**  ·  Alvarez Yeray **17.00**  ·  Unai Nunez **34.00**  ·  Jesus Areso **101.00**  ·  Adama Timera **23.00**  ·  Johaneko Louisjean **34.00**  ·  Victor Mullerat **26.00**  ·  Christian Imga **29.00**  ·  Robert Navarro **19.00**  ·  Txus Vizcay **8.00**  ·  Alejandro Santiago **51.00**  ·  Jan Peries **23.00**  ·  Bryan Zaragoza **51.00**  ·  Gabriel Moscardo **41.00**  ·  Aitor Paredes **9.00**  ·  Alex Berenguer **29.00**  ·  Andoni Gorosabel **201.00**  ·  Dani Vivian **13.00**  ·  Gorka Guruzeta **9.00**  ·  Mikel Jauregizar **41.00**  ·  Nico Serrano **23.00**  ·  Oihan Sancet **15.00**  ·  Peio Canales **51.00**  ·  Alvaro Djalo **29.00**  ·  Inaki Williams **21.00**  ·  Berchiche Yuri **26.00**  ·  Jofre Carreras **51.00**  ·  Leandro Cabrera **13.00**  ·  Omar El Hilali **201.00**  ·  Pere Milla **17.00**  ·  Pol Lozano **81.00**  ·  Rafael Bauza **67.00**  ·  Maroan Sannadi **15.00**  ·  Jose Flaco Lopez **126.00**
 - **Home Player Shots:** Gorka Guruzeta - 1 **1.01**  ·  Oihan Sancet - 1 **1.03**  ·  Robert Navarro - 1 **1.04**  ·  Maroan Sannadi - 1 **1.03**  ·  Nico Williams - 1 **1.02**  ·  Nico Serrano - 1 **1.04**  ·  Alvaro Djalo - 1 **1.07**  ·  Peio Canales - 1 **1.05**  ·  Alex Berenguer - 1 **1.05**  ·  Alejandro Rego - 1 **1.20**  ·  Mikel Jauregizar - 1 **1.11**  ·  Benat Prados - 1 **1.22**  ·  Benat Gerenabarrena - 1 **1.25**  ·  Hugo Rincon - 1 **1.62**  ·  Berchiche Yuri - 1 **1.28**  ·  Inigo Ruiz de Galarreta - 1 **1.57**  ·  Aitor Paredes - 1 **1.44**  ·  Aymeric Laporte - 1 **1.53**  ·  Dani Vivian - 1 **1.83**  ·  Alvarez Yeray - 1 **2.00**  ·  Jesus Areso - 1 **2.00**  ·  Gorka Guruzeta - 2 **1.10**  ·  Inaki Williams - 2 **1.07**  ·  Oihan Sancet - 2 **1.20**  ·  Robert Navarro - 2 **1.25**  ·  Maroan Sannadi - 2 **1.20**  ·  Nico Williams - 2 **1.12**  ·  Nico Serrano - 2 **1.22**  ·  Alvaro Djalo - 2 **1.36**  ·  Peio Canales - 2 **1.28**  ·  Alex Berenguer - 2 **1.28**  ·  Alejandro Rego - 2 **1.83**  ·  Mikel Jauregizar - 2 **1.50**  ·  Benat Prados - 2 **1.91**  ·  Benat Gerenabarrena - 2 **2.10**  ·  Hugo Rincon - 2 **3.75**  ·  Berchiche Yuri - 2 **2.20**  ·  Inigo Ruiz de Galarreta - 2 **3.50**  ·  Aitor Paredes - 2 **3.00**  ·  Aymeric Laporte - 2 **3.40**  ·  Dani Vivian - 2 **5.00**  ·  Alvarez Yeray - 2 **5.50**  ·  Jesus Areso - 2 **5.50**  ·  Gorka Guruzeta - 3 **1.30**  ·  Inaki Williams - 3 **1.25**  ·  Oihan Sancet - 3 **1.57**  ·  Robert Navarro - 3 **1.73**  ·  Maroan Sannadi - 3 **1.57**  ·  Nico Williams - 3 **1.40**  ·  Nico Serrano - 3 **1.67**  ·  Alvaro Djalo - 3 **2.00**  ·  Peio Canales - 3 **1.83**  ·  Alex Berenguer - 3 **1.80**  ·  Alejandro Rego - 3 **3.75**  ·  Mikel Jauregizar - 3 **2.50**  ·  Benat Prados - 3 **3.75**  ·  Benat Gerenabarrena - 3 **4.33**  ·  Hugo Rincon - 3 **11.00**  ·  Berchiche Yuri - 3 **4.50**  ·  Inigo Ruiz de Galarreta - 3 **10.00**  ·  Aitor Paredes - 3 **7.00**  ·  Aymeric Laporte - 3 **9.00**  ·  Gorka Guruzeta - 4 **1.73**  ·  Inaki Williams - 4 **1.57**  ·  Oihan Sancet - 4 **2.38**  ·  Robert Navarro - 4 **2.75**  ·  Maroan Sannadi - 4 **2.38**  ·  Nico Williams - 4 **1.91**  ·  Nico Serrano - 4 **2.62**  ·  Alvaro Djalo - 4 **3.50**  ·  Peio Canales - 4 **3.00**  ·  Alex Berenguer - 4 **3.00**  ·  Alejandro Rego - 4 **8.00**  ·  Mikel Jauregizar - 4 **4.50**  ·  Benat Prados - 4 **8.00**  ·  Benat Gerenabarrena - 4 **10.00**  ·  Hugo Rincon - 4 **21.00**  ·  Berchiche Yuri - 4 **11.00**  ·  Inigo Ruiz de Galarreta - 4 **21.00**  ·  Gorka Guruzeta - 5 **2.62**  ·  Inaki Williams - 5 **2.25**  ·  Oihan Sancet - 5 **4.00**  ·  Robert Navarro - 5 **5.00**  ·  Maroan Sannadi - 5 **4.00**  ·  Nico Williams - 5 **3.25**  ·  Nico Serrano - 5 **4.50**  ·  Alvaro Djalo - 5 **6.50**  ·  Peio Canales - 5 **5.50**  ·  Alex Berenguer - 5 **5.50**  ·  Alejandro Rego - 5 **19.00**  ·  Gorka Guruzeta - 6 **4.33**  ·  Inaki Williams - 6 **3.50**  ·  Oihan Sancet - 6 **8.00**  ·  Robert Navarro - 6 **10.00**  ·  Maroan Sannadi - 6 **8.00**  ·  Nico Williams - 6 **5.50**  ·  Nico Serrano - 6 **9.00**  ·  Alvaro Djalo - 6 **13.00**  ·  Gorka Guruzeta - 7 **8.00**  ·  Inaki Williams - 7 **6.00**  ·  Oihan Sancet - 7 **15.00**  ·  Robert Navarro - 7 **19.00**  ·  Maroan Sannadi - 7 **15.00**  ·  Nico Williams - 7 **10.00**  ·  Gorka Guruzeta - 8 **15.00**  ·  Dani Vivian - 3 **15.00**  ·  Jesus Areso - 3 **19.00**  ·  Alvarez Yeray - 3 **19.00**  ·  Aitor Paredes - 4 **19.00**  ·  Aymeric Laporte - 4 **21.00**  ·  Benat Prados - 5 **19.00**  ·  Benat Gerenabarrena - 5 **21.00**  ·  Berchiche Yuri - 5 **21.00**  ·  Mikel Jauregizar - 5 **10.00**  ·  Inaki Williams - 8 **11.00**  ·  Peio Canales - 6 **11.00**  ·  Alex Berenguer - 6 **11.00**  ·  Johaneko Louisjean - 1 **1.44**  ·  Johaneko Louisjean - 2 **3.00**  ·  Johaneko Louisjean - 3 **7.00**  ·  Johaneko Louisjean - 4 **19.00**  ·  Alvaro Djalo - 7 **21.00**  ·  Nico Serrano - 7 **17.00**  ·  Alex Berenguer - 7 **21.00**  ·  Peio Canales - 7 **21.00**  ·  Maroan Sannadi - 8 **21.00**  ·  Nico Williams - 8 **19.00**  ·  Oihan Sancet - 8 **21.00**  ·  Gorka Guruzeta - 9 **21.00**  ·  Inaki Williams - 9 **19.00**  ·  Mikel Jauregizar - 6 **19.00**  ·  Txus Vizcay - 1 **1.03**  ·  Christian Imga - 1 **1.10**  ·  Txus Vizcay - 2 **1.20**  ·  Christian Imga - 2 **1.44**  ·  Txus Vizcay - 3 **1.57**  ·  Christian Imga - 3 **2.25**  ·  Txus Vizcay - 4 **2.38**  ·  Christian Imga - 4 **4.00**  ·  Txus Vizcay - 5 **4.00**  ·  Christian Imga - 5 **9.00**  ·  Txus Vizcay - 6 **8.00**  ·  Txus Vizcay - 7 **15.00**  ·  Christian Imga - 6 **17.00**  ·  Txus Vizcay - 8 **21.00**
 - **Away Player Shots:** Andoni Gorosabel - 1 **3.25**  ·  Andoni Gorosabel - 2 **13.00**  ·  Javi Puado - 1 **1.05**  ·  Javier Hernandez - 1 **1.25**  ·  Pere Milla - 1 **1.20**  ·  Alex Calatrava - 1 **1.14**  ·  Roberto Fernandez - 1 **1.14**  ·  Marcos Fernandez - 1 **1.20**  ·  Tyrhys Dolan - 1 **1.40**  ·  Jofre Carreras - 1 **1.40**  ·  Eduardo Exposito - 1 **1.44**  ·  Pol Lozano - 1 **1.62**  ·  Gabriel Moscardo - 1 **2.38**  ·  Rafael Bauza - 1 **1.62**  ·  Adama Timera - 1 **2.75**  ·  Vanja Drkusic - 1 **3.25**  ·  Quilindschy Hartman - 1 **1.73**  ·  Omar El Hilali - 1 **3.00**  ·  Unai Nunez - 1 **2.50**  ·  Roger Hinojo - 1 **2.75**  ·  Urko Gonzalez - 1 **2.38**  ·  Clemens Riedel - 1 **2.75**  ·  Javi Puado - 2 **1.30**  ·  Javier Hernandez - 2 **2.10**  ·  Pere Milla - 2 **1.83**  ·  Alex Calatrava - 2 **1.67**  ·  Roberto Fernandez - 2 **1.62**  ·  Marcos Fernandez - 2 **1.83**  ·  Tyrhys Dolan - 2 **2.62**  ·  Jofre Carreras - 2 **2.62**  ·  Eduardo Exposito - 2 **3.00**  ·  Pol Lozano - 2 **3.75**  ·  Gabriel Moscardo - 2 **8.00**  ·  Rafael Bauza - 2 **3.75**  ·  Adama Timera - 2 **10.00**  ·  Vanja Drkusic - 2 **13.00**  ·  Quilindschy Hartman - 2 **4.33**  ·  Omar El Hilali - 2 **11.00**  ·  Unai Nunez - 2 **9.00**  ·  Roger Hinojo - 2 **10.00**  ·  Urko Gonzalez - 2 **8.00**  ·  Clemens Riedel - 2 **10.00**  ·  Javi Puado - 3 **1.83**  ·  Javier Hernandez - 3 **4.33**  ·  Pere Milla - 3 **3.75**  ·  Alex Calatrava - 3 **3.00**  ·  Roberto Fernandez - 3 **2.75**  ·  Marcos Fernandez - 3 **3.75**  ·  Tyrhys Dolan - 3 **6.00**  ·  Jofre Carreras - 3 **6.00**  ·  Eduardo Exposito - 3 **8.00**  ·  Pol Lozano - 3 **11.00**  ·  Gabriel Moscardo - 3 **21.00**  ·  Rafael Bauza - 3 **11.00**  ·  Quilindschy Hartman - 3 **13.00**  ·  Urko Gonzalez - 3 **21.00**  ·  Javi Puado - 4 **3.25**  ·  Javier Hernandez - 4 **10.00**  ·  Pere Milla - 4 **8.00**  ·  Alex Calatrava - 4 **6.00**  ·  Roberto Fernandez - 4 **5.50**  ·  Marcos Fernandez - 4 **8.00**  ·  Tyrhys Dolan - 4 **15.00**  ·  Jofre Carreras - 4 **15.00**  ·  Eduardo Exposito - 4 **19.00**  ·  Pol Lozano - 4 **21.00**  ·  Rafael Bauza - 4 **21.00**  ·  Javi Puado - 5 **5.50**  ·  Javier Hernandez - 5 **21.00**  ·  Pere Milla - 5 **19.00**  ·  Alex Calatrava - 5 **13.00**  ·  Roberto Fernandez - 5 **13.00**  ·  Marcos Fernandez - 5 **19.00**  ·  Javi Puado - 6 **11.00**  ·  Alex Calatrava - 6 **21.00**  ·  Roberto Fernandez - 6 **21.00**  ·  Javi Puado - 7 **21.00**  ·  Leandro Cabrera - 1 **1.83**  ·  Bryan Zaragoza - 3 **4.33**  ·  Bryan Zaragoza - 1 **1.25**  ·  Bryan Zaragoza - 2 **2.10**  ·  Leandro Cabrera - 2 **5.00**  ·  Leandro Cabrera - 3 **15.00**  ·  Bryan Zaragoza - 4 **10.00**  ·  Bryan Zaragoza - 5 **21.00**  ·  Victor Mullerat - 1 **1.25**  ·  Victor Mullerat - 2 **2.10**  ·  Victor Mullerat - 3 **4.33**  ·  Victor Mullerat - 4 **10.00**  ·  Victor Mullerat - 5 **21.00**  ·  Jose Lopez - 1 **2.38**  ·  Jose Lopez - 2 **8.00**  ·  Jose Lopez - 3 **21.00**  ·  Jan Peries - 1 **1.20**  ·  Alejandro Santiago - 1 **1.62**  ·  Jan Peries - 2 **1.83**  ·  Alejandro Santiago - 2 **3.75**  ·  Jan Peries - 3 **3.50**  ·  Alejandro Santiago - 3 **11.00**  ·  Jan Peries - 4 **8.00**  ·  Alejandro Santiago - 4 **21.00**  ·  Jan Peries - 5 **17.00**
@@ -190,13 +198,13 @@ _Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
 | Doble oportunidad: X2 | 42% | 36% | 39% | 2.62 | +2% |
 | Doble oportunidad: 12 | 75% | 78% | 77% | 1.22 | -7% |
 | Doble oportunidad: 1X | 83% | 86% | 85% | 1.10 | -7% |
-| Ambos marcan: No | 57% | 52% | 55% | 1.80 | -1% |
-| Ambos marcan: Sí | 43% | 48% | 45% | 1.95 | -12% |
+| Ambos marcan: No | 58% | 52% | 55% | 1.80 | -1% |
+| Ambos marcan: Sí | 42% | 48% | 45% | 1.95 | -12% |
 | Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 43% | 53% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 2.5 | 42% | 53% | 48% | 1.80 | -14% |
 | Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
 | Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
-| Goles más/menos: Menos de 2.5 | 57% | 47% | 52% | 2.00 | +5% |
+| Goles más/menos: Menos de 2.5 | 58% | 47% | 52% | 2.00 | +5% |
 | Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
@@ -208,8 +216,10 @@ _Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
 | Goles del local: Menos de 2.5 | 78% | 66% | 72% | 1.40 | +1% |
 | Goles del visitante: Más de 0.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles del visitante: Más de 1.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -7% |
+| Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -6% |
 | Goles del visitante: Menos de 1.5 | 83% | 79% | 81% | 1.18 | -5% |
+| Córners más/menos: Más de 9.5 | 49% | 50% | 49% | 1.83 | -10% |
+| Córners más/menos: Menos de 9.5 | 51% | 50% | 51% | 1.83 | -7% |
 | 1X2 descanso: X | 44% | 39% | 41% | 2.38 | -1% |
 | 1X2 descanso: 1 | 40% | 47% | 44% | 1.95 | -15% |
 

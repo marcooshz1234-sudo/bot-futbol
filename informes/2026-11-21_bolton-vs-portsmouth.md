@@ -1,7 +1,7 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -197,19 +197,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
 | Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -7% |
+| Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
 | Goles más/menos: Más de 3.5 | 25% | 30% | 28% | 3.20 | -12% |
 | Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -2% |
+| Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
 | Goles más/menos: Menos de 3.5 | 75% | 70% | 72% | 1.36 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles del local: Más de 1.5 | 33% | 39% | 36% | 2.38 | -15% |
-| Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -0% |
-| Goles del local: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
+| Goles del local: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
+| Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | +0% |
+| Goles del local: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -2% |
 | Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |

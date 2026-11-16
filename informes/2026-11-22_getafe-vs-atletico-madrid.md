@@ -1,10 +1,10 @@
 # Getafe – Atletico Madrid
 **LaLiga** · Regular Season - 13 · 22/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:15_
+_Actualizadas: 16/11 02:32_
 
 - **1X2:** 1 **5.25**  ·  X **3.70**  ·  2 **1.62**
 - **Doble oportunidad:** 1X **2.25**  ·  12 **1.28**  ·  X2 **1.17**
@@ -178,7 +178,7 @@ _Sin bajas comunicadas por ahora._
 | Arnau Ortiz | F | 5 | 149 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 2 | 4 | 0,8 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,67 · visitante 1,40 · córners esperados 9,1._
+_Goles esperados: local 0,67 · visitante 1,39 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,8 +189,8 @@ _Goles esperados: local 0,67 · visitante 1,40 · córners esperados 9,1._
 | Doble oportunidad: 12 | 72% | 75% | 74% | 1.28 | -6% |
 | Doble oportunidad: 1X | 46% | 43% | 44% | 2.25 | -1% |
 | Ambos marcan: No | 63% | 53% | 58% | 1.75 | +2% |
-| Ambos marcan: Sí | 37% | 47% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 1.5 | 61% | 72% | 67% | 1.33 | -11% |
+| Ambos marcan: Sí | 37% | 47% | 42% | 2.00 | -17% |
+| Goles más/menos: Más de 1.5 | 61% | 72% | 67% | 1.33 | -12% |
 | Goles más/menos: Más de 2.5 | 34% | 47% | 41% | 2.00 | -18% |
 | Goles más/menos: Más de 3.5 | 16% | 27% | 21% | 3.50 | -25% |
 | Goles más/menos: Menos de 1.5 ✅ | 39% | 28% | 33% | 3.40 | +14% |
@@ -208,7 +208,7 @@ _Goles esperados: local 0,67 · visitante 1,40 · córners esperados 9,1._
 | Goles del visitante: Más de 2.5 | 17% | 27% | 22% | 3.50 | -24% |
 | Goles del visitante: Menos de 1.5 | 59% | 49% | 54% | 1.91 | +3% |
 | Goles del visitante: Menos de 2.5 | 83% | 73% | 78% | 1.28 | +0% |
-| 1X2 descanso: 2 | 37% | 42% | 40% | 2.20 | -13% |
+| 1X2 descanso: 2 | 37% | 42% | 39% | 2.20 | -13% |
 | 1X2 descanso: X | 48% | 42% | 45% | 2.20 | -0% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

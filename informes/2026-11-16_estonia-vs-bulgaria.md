@@ -1,44 +1,55 @@
 # Estonia – Bulgaria
 **Nations League** · League C - 6 · 16/11/2026 18:00 (hora España) · A. Le Coq Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 13:58_
+_Actualizadas: 16/11 02:30_
 
 - **1X2:** 1 **2.05**  ·  X **3.25**  ·  2 **3.80**
-- **Doble oportunidad:** 1X **1.25**  ·  12 **1.36**  ·  X2 **1.73**
-- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
+- **Doble oportunidad:** 1X **1.25**  ·  12 **1.33**  ·  X2 **1.73**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
 - **Goles más/menos:**
-    - 0,5: más **1.11** · menos **6.00**
+    - 0,5: más **1.10** · menos **6.50**
     - 1,5: más **1.50** · menos **2.50**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.00** · menos **1.14**
-    - 4,5: más **9.00** · menos **1.04**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **4.50** · menos **1.17**
+    - 4,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **8.50** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.00** · menos **1.11**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **5.50** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.67** · menos **2.10**
-    - 1,5: más **4.33** · menos **1.20**
-- **1X2 descanso:** 1 **2.75**  ·  X **1.91**  ·  2 **4.50**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **9.00** · menos **1.04**
+- **Córners más/menos:**
+    - 8,5: más **1.73** · menos **2.00**
+    - 9: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.67**  ·  X **7.50**  ·  2 **2.60**
+- **1X2 descanso:** 1 **2.75**  ·  X **1.95**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.40** · menos **2.75**
-    - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **6.50**  ·  No **1.11**
-- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
-- **To Win Either Half:** 1 **1.67**  ·  2 **2.50**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **8.00**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
+- **To Win Either Half:** 1 **1.62**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **7.00**
 - **Win Both Halves:** 1 **7.00**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **10.00**  ·  Home/No **3.00**  ·  Draw/No **6.00**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.20**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.80**
-- **Anytime Goal Scorer:** Tanel Tammik **9.00**  ·  Kevor Palumets **6.00**  ·  Maksim Paskotsi **15.00**  ·  Markus Poom **6.00**  ·  Martin Miller **4.33**  ·  Mattias Kait **5.00**  ·  Mihkel Ainsalu **6.00**  ·  Patrik Kristal **5.00**  ·  Rasmus Peetson **6.00**  ·  Rocco Robert Shein **9.00**  ·  Michael Schjonning- Larsen **9.50**  ·  Stefan Velkov **19.00**  ·  Ivaylo Chochev **7.00**  ·  Martin Minchev **4.75**  ·  Ivan Turitsov **21.00**  ·  Hristiyan Petrov **21.00**  ·  Georgi Lazarov **4.33**  ·  Yoan Stoyanov **9.50**  ·  Karel Mustmaa **3.50**  ·  Marten Chris Paalberg **3.50**  ·  Rosen Bozhinov **19.00**  ·  Marin Petkov **7.00**  ·  Kristiyan Balov **4.75**  ·  Dimitar Velkovski **13.00**  ·  Emil Tsenov **12.00**  ·  Teodor Ivanov **19.00**  ·  Georgi Rusev **7.00**  ·  Simeon Shishkov **13.00**  ·  Asen Chandarov **9.00**  ·  Lukas Petkov **5.50**  ·  Andrian Kraev **8.00**  ·  Frank Liivak **4.00**  ·  Maksimilian Skvortsov **4.50**  ·  Mattias Mannilaan **3.50**  ·  Mihhail Kolobov **13.00**  ·  Nikita Mihhailov **9.00**  ·  Ivan Pankov **9.00**  ·  Atanas Iliev **4.75**  ·  Joseph Saliste **11.00**  ·  Erko Tougjas **13.00**  ·  Karol Mets **13.00**  ·  Ilia Gruev **13.00**  ·  Vladislav Kreida **9.00**  ·  Svetoslav Kovachev **6.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.50**  ·  Home/No **3.00**  ·  Draw/No **6.50**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.10**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **1.83**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
+- **Anytime Goal Scorer:** Tanel Tammik **8.50**  ·  Kevor Palumets **6.00**  ·  Maksim Paskotsi **15.00**  ·  Markus Poom **6.00**  ·  Martin Miller **4.33**  ·  Mattias Kait **5.50**  ·  Mihkel Ainsalu **6.00**  ·  Patrik Kristal **5.00**  ·  Rasmus Peetson **6.00**  ·  Rocco Robert Shein **8.50**  ·  Michael Schjonning- Larsen **10.00**  ·  Stefan Velkov **17.00**  ·  Ivaylo Chochev **6.00**  ·  Martin Minchev **4.50**  ·  Ivan Turitsov **21.00**  ·  Hristiyan Petrov **21.00**  ·  Georgi Lazarov **4.00**  ·  Yoan Stoyanov **9.50**  ·  Karel Mustmaa **3.40**  ·  Marten Chris Paalberg **3.40**  ·  Rosen Bozhinov **17.00**  ·  Marin Petkov **6.00**  ·  Kristiyan Balov **4.50**  ·  Dimitar Velkovski **13.00**  ·  Emil Tsenov **11.00**  ·  Teodor Ivanov **17.00**  ·  Georgi Rusev **6.50**  ·  Simeon Shishkov **13.00**  ·  Asen Chandarov **8.50**  ·  Lukas Petkov **5.00**  ·  Andrian Kraev **7.50**  ·  Frank Liivak **3.75**  ·  Maksimilian Skvortsov **4.50**  ·  Mattias Mannilaan **3.40**  ·  Mihhail Kolobov **13.00**  ·  Nikita Mihhailov **8.50**  ·  Ivan Pankov **8.50**  ·  Atanas Iliev **4.50**  ·  Joseph Saliste **11.00**  ·  Erko Tougjas **13.00**  ·  Karol Mets **13.00**  ·  Ilia Gruev **13.00**  ·  Vladislav Kreida **8.50**  ·  Svetoslav Kovachev **5.50**
 
 ## Estadísticas de equipo
 | | Estonia (total) | Estonia en casa | Bulgaria (total) | Bulgaria fuera |
@@ -175,29 +186,35 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 17% | 25% | 21% | 3.80 | -21% |
 | 1X2: X | 32% | 29% | 31% | 3.25 | -0% |
 | 1X2: 1 | 51% | 46% | 48% | 2.05 | -1% |
-| Doble oportunidad: X2 | 49% | 55% | 52% | 1.73 | -10% |
-| Doble oportunidad: 12 | 68% | 70% | 69% | 1.36 | -7% |
-| Doble oportunidad: 1X | 83% | 76% | 79% | 1.25 | -1% |
-| Ambos marcan: No | 73% | 59% | 66% | 1.57 | +3% |
-| Ambos marcan: Sí | 27% | 41% | 34% | 2.25 | -23% |
+| Doble oportunidad: X2 | 49% | 54% | 52% | 1.73 | -11% |
+| Doble oportunidad: 12 | 68% | 71% | 69% | 1.33 | -8% |
+| Doble oportunidad: 1X | 83% | 75% | 79% | 1.25 | -1% |
+| Ambos marcan: No | 73% | 58% | 65% | 1.62 | +6% |
+| Ambos marcan: Sí | 27% | 42% | 35% | 2.20 | -24% |
 | Goles más/menos: Más de 1.5 | 49% | 62% | 56% | 1.50 | -17% |
-| Goles más/menos: Más de 2.5 | 23% | 35% | 29% | 2.62 | -24% |
+| Goles más/menos: Más de 2.5 | 23% | 38% | 30% | 2.50 | -25% |
+| Goles más/menos: Más de 3.5 | 8% | 21% | 15% | 4.50 | -35% |
 | Goles más/menos: Menos de 1.5 | 51% | 38% | 44% | 2.50 | +11% |
-| Goles más/menos: Menos de 2.5 | 77% | 65% | 71% | 1.44 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 51% | 59% | 55% | 1.57 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 41% | 45% | 2.25 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 84% | 75% | 79% | 1.25 | -1% |
-| Goles del local: Más de 0.5 | 68% | 71% | 69% | 1.33 | -8% |
-| Goles del local: Más de 1.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles del local: Menos de 0.5 | 32% | 29% | 31% | 3.25 | -0% |
-| Goles del local: Menos de 1.5 | 69% | 65% | 67% | 1.44 | -4% |
+| Goles más/menos: Menos de 2.5 | 77% | 62% | 70% | 1.50 | +5% |
+| Goles más/menos: Menos de 3.5 | 92% | 79% | 85% | 1.17 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 51% | 61% | 56% | 1.53 | -14% |
+| Goles 1ª parte más/menos: Más de 1.5 | 16% | 27% | 21% | 3.50 | -25% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 39% | 44% | 2.38 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 84% | 73% | 79% | 1.28 | +1% |
+| Goles del local: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
+| Goles del local: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
+| Goles del local: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
+| Goles del local: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
 | Goles del visitante: Más de 0.5 | 40% | 56% | 48% | 1.67 | -20% |
-| Goles del visitante: Más de 1.5 | 9% | 22% | 16% | 4.33 | -33% |
+| Goles del visitante: Más de 1.5 | 9% | 23% | 16% | 4.00 | -34% |
 | Goles del visitante: Menos de 0.5 | 60% | 44% | 52% | 2.10 | +9% |
-| Goles del visitante: Menos de 1.5 | 91% | 78% | 84% | 1.20 | +1% |
-| 1X2 descanso: 2 | 13% | 20% | 16% | 4.50 | -26% |
-| 1X2 descanso: X | 54% | 47% | 51% | 1.91 | -3% |
+| Goles del visitante: Menos de 1.5 | 91% | 77% | 84% | 1.22 | +2% |
+| Córners más/menos: Más de 8.5 | 58% | 54% | 56% | 1.73 | -3% |
+| Córners más/menos: Más de 9.5 | 49% | 49% | 49% | 1.91 | -7% |
+| Córners más/menos: Menos de 8.5 | 42% | 46% | 44% | 2.00 | -12% |
+| Córners más/menos: Menos de 9.5 | 51% | 51% | 51% | 1.80 | -8% |
+| 1X2 descanso: 2 | 13% | 20% | 17% | 4.50 | -25% |
+| 1X2 descanso: X | 55% | 47% | 51% | 1.95 | -1% |
 | 1X2 descanso: 1 | 33% | 33% | 33% | 2.75 | -10% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

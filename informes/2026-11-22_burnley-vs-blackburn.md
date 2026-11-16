@@ -1,7 +1,7 @@
 # Burnley – Blackburn
 **Championship** · Regular Season - 16 · 22/11/2026 13:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 08:09_
@@ -196,10 +196,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: 1X | 66% | 76% | 71% | 1.22 | -13% |
 | Ambos marcan: No | 39% | 44% | 42% | 2.10 | -13% |
 | Ambos marcan: Sí | 61% | 56% | 58% | 1.67 | -3% |
-| Goles más/menos: Más de 1.5 | 81% | 76% | 79% | 1.25 | -2% |
+| Goles más/menos: Más de 1.5 | 81% | 76% | 78% | 1.25 | -2% |
 | Goles más/menos: Más de 2.5 | 59% | 53% | 56% | 1.80 | +0% |
 | Goles más/menos: Más de 3.5 | 36% | 32% | 34% | 3.00 | +2% |
-| Goles más/menos: Menos de 1.5 | 19% | 24% | 21% | 4.00 | -14% |
+| Goles más/menos: Menos de 1.5 | 19% | 24% | 22% | 4.00 | -14% |
 | Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -11% |
 | Goles más/menos: Menos de 3.5 | 64% | 68% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
@@ -211,11 +211,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
 | Goles del local: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 0.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del visitante: Más de 1.5 | 42% | 31% | 37% | 3.00 | +10% |
+| Goles del visitante: Más de 1.5 | 42% | 31% | 36% | 3.00 | +9% |
 | Goles del visitante: Menos de 0.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del visitante: Menos de 1.5 | 58% | 69% | 63% | 1.36 | -14% |
+| Goles del visitante: Menos de 1.5 | 58% | 69% | 64% | 1.36 | -14% |
 | 1X2 descanso: 2 | 28% | 21% | 25% | 4.33 | +6% |
-| 1X2 descanso: X | 39% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
 | 1X2 descanso: 1 | 33% | 38% | 36% | 2.40 | -14% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

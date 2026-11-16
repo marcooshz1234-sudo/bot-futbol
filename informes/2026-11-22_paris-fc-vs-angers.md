@@ -1,7 +1,7 @@
 # Paris FC – Angers
 **Ligue 1** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · Stade Jean Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_
@@ -189,7 +189,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Jacques Ekomié | D | 1 | 90 | 0 | 0 | 2 | 2,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,13 · visitante 0,73 · córners esperados 9,1._
+_Goles esperados: local 2,13 · visitante 0,72 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -199,8 +199,8 @@ _Goles esperados: local 2,13 · visitante 0,73 · córners esperados 9,1._
 | Doble oportunidad: X2 | 30% | 28% | 29% | 3.40 | -1% |
 | Doble oportunidad: 12 | 81% | 82% | 82% | 1.17 | -4% |
 | Doble oportunidad: 1X | 89% | 90% | 89% | 1.07 | -5% |
-| Ambos marcan: No | 54% | 52% | 53% | 1.80 | -4% |
-| Ambos marcan: Sí | 46% | 48% | 47% | 1.95 | -9% |
+| Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
+| Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
 | Goles más/menos: Más de 1.5 | 78% | 79% | 78% | 1.20 | -6% |
 | Goles más/menos: Más de 2.5 | 54% | 59% | 57% | 1.62 | -8% |
 | Goles más/menos: Más de 3.5 | 32% | 36% | 34% | 2.62 | -10% |
@@ -217,7 +217,7 @@ _Goles esperados: local 2,13 · visitante 0,73 · córners esperados 9,1._
 | Goles del local: Más de 2.5 | 36% | 41% | 39% | 2.25 | -13% |
 | Goles del local: Más de 3.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles del local: Menos de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles del local: Menos de 2.5 | 64% | 59% | 61% | 1.57 | -4% |
+| Goles del local: Menos de 2.5 | 64% | 59% | 61% | 1.57 | -3% |
 | Goles del local: Menos de 3.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Goles del visitante: Menos de 0.5 | 48% | 49% | 48% | 1.91 | -7% |

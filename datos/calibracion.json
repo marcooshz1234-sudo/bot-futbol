@@ -1,446 +1,446 @@
 {
- "generado": "2026-11-15 19:53",
- "partidos": 2625,
+ "generado": "2026-11-16 02:33",
+ "partidos": 2635,
  "global": {
-  "n": 38604,
+  "n": 38922,
   "frec_media": 0.7504,
-  "real": 0.7029,
-  "pendiente": 0.6598
+  "real": 0.7032,
+  "pendiente": 0.6626
  },
  "tipos": {
   "goles": {
-   "n": 8540,
-   "frec_media": 0.7522,
-   "real": 0.721,
-   "pendiente": 0.5558
+   "n": 8629,
+   "frec_media": 0.7521,
+   "real": 0.7214,
+   "pendiente": 0.56
   },
   "resultado": {
-   "n": 2399,
-   "frec_media": 0.6971,
-   "real": 0.6594,
-   "pendiente": 0.6345
+   "n": 2423,
+   "frec_media": 0.6968,
+   "real": 0.6583,
+   "pendiente": 0.652
   },
   "tarjetas": {
-   "n": 4144,
-   "frec_media": 0.8037,
-   "real": 0.7963,
-   "pendiente": 0.6661
+   "n": 4189,
+   "frec_media": 0.8041,
+   "real": 0.7964,
+   "pendiente": 0.6731
   },
   "tiros a puerta": {
-   "n": 5450,
-   "frec_media": 0.7566,
-   "real": 0.7345,
-   "pendiente": 0.594
+   "n": 5493,
+   "frec_media": 0.7567,
+   "real": 0.736,
+   "pendiente": 0.5892
   },
   "corners": {
-   "n": 4924,
-   "frec_media": 0.7225,
-   "real": 0.6588,
-   "pendiente": 0.712
+   "n": 4965,
+   "frec_media": 0.7223,
+   "real": 0.6582,
+   "pendiente": 0.7148
   },
   "jugador:faltas_c": {
-   "n": 4126,
-   "frec_media": 0.749,
-   "real": 0.626,
-   "pendiente": 0.4246
+   "n": 4139,
+   "frec_media": 0.7488,
+   "real": 0.6258,
+   "pendiente": 0.4238
   },
   "faltas": {
-   "n": 3837,
+   "n": 3873,
    "frec_media": 0.7567,
-   "real": 0.7365,
-   "pendiente": 0.7751
+   "real": 0.7364,
+   "pendiente": 0.7696
   },
   "paradas": {
-   "n": 2348,
-   "frec_media": 0.7617,
-   "real": 0.7385,
-   "pendiente": 0.5345
+   "n": 2367,
+   "frec_media": 0.7618,
+   "real": 0.7398,
+   "pendiente": 0.5325
   },
   "jugador:a_puerta": {
-   "n": 1068,
+   "n": 1071,
    "frec_media": 0.7279,
-   "real": 0.5468,
-   "pendiente": 0.5574
+   "real": 0.5462,
+   "pendiente": 0.5712
   },
   "jugador:tiros": {
-   "n": 998,
+   "n": 1001,
    "frec_media": 0.7337,
-   "real": 0.5922,
-   "pendiente": 0.5986
+   "real": 0.5924,
+   "pendiente": 0.603
   },
   "fueras de juego": {
-   "n": 770,
+   "n": 772,
    "frec_media": 0.7395,
-   "real": 0.6896,
-   "pendiente": 0.7486
+   "real": 0.6904,
+   "pendiente": 0.7499
   }
  },
  "mercados": {
   "Goals Over/Under - Second Half|Over 0.5": {
-   "n": 1117,
-   "frec_media": 0.8116,
-   "real": 0.8281,
-   "pendiente": 0.0428
+   "n": 1126,
+   "frec_media": 0.8121,
+   "real": 0.8277,
+   "pendiente": 0.0643
   },
   "Total - Away|Over 0.5": {
-   "n": 1051,
-   "frec_media": 0.77,
-   "real": 0.7203,
-   "pendiente": 0.4239
+   "n": 1061,
+   "frec_media": 0.7697,
+   "real": 0.7201,
+   "pendiente": 0.4189
   },
   "To Win Either Half|Away": {
-   "n": 394,
-   "frec_media": 0.6837,
-   "real": 0.5508,
-   "pendiente": 0.186
+   "n": 397,
+   "frec_media": 0.6838,
+   "real": 0.5491,
+   "pendiente": 0.1794
   },
   "Double Chance|Draw/Away": {
-   "n": 742,
-   "frec_media": 0.7128,
-   "real": 0.6226,
-   "pendiente": 0.3943
+   "n": 748,
+   "frec_media": 0.7123,
+   "real": 0.6217,
+   "pendiente": 0.4165
   },
   "Match Winner|Away": {
-   "n": 133,
-   "frec_media": 0.6588,
-   "real": 0.4737,
-   "pendiente": 0.8185
+   "n": 134,
+   "frec_media": 0.6587,
+   "real": 0.4701,
+   "pendiente": 0.8263
   },
   "Cards Over/Under|Over 2.5": {
-   "n": 788,
-   "frec_media": 0.7928,
-   "real": 0.797,
-   "pendiente": 0.2621
+   "n": 796,
+   "frec_media": 0.7937,
+   "real": 0.7977,
+   "pendiente": 0.2828
   },
   "Cards Over/Under|Over 3.5": {
-   "n": 405,
-   "frec_media": 0.7262,
-   "real": 0.6963,
-   "pendiente": 0.9815
+   "n": 411,
+   "frec_media": 0.7268,
+   "real": 0.6934,
+   "pendiente": 1.0
   },
   "Home Team Total Cards|Over 0.5": {
-   "n": 893,
-   "frec_media": 0.8867,
+   "n": 901,
+   "frec_media": 0.8869,
    "real": 0.8746,
-   "pendiente": 0.2588
+   "pendiente": 0.2569
   },
   "Home Team Total Cards|Over 1.5": {
-   "n": 531,
-   "frec_media": 0.7196,
-   "real": 0.6535,
-   "pendiente": 0.1237
+   "n": 536,
+   "frec_media": 0.7201,
+   "real": 0.6511,
+   "pendiente": 0.1246
   },
   "Away Team Total Cards|Over 0.5": {
-   "n": 893,
-   "frec_media": 0.8815,
-   "real": 0.8947,
-   "pendiente": 0.3287
+   "n": 901,
+   "frec_media": 0.8819,
+   "real": 0.8957,
+   "pendiente": 0.3296
   },
   "Away Team Total Cards|Over 1.5": {
-   "n": 508,
-   "frec_media": 0.7171,
-   "real": 0.7461,
-   "pendiente": 0.5413
+   "n": 514,
+   "frec_media": 0.7183,
+   "real": 0.749,
+   "pendiente": 0.5588
   },
   "Both Teams to Receive a Card|Yes": {
-   "n": 819,
-   "frec_media": 0.8057,
-   "real": 0.79,
-   "pendiente": 0.3529
+   "n": 827,
+   "frec_media": 0.8059,
+   "real": 0.7908,
+   "pendiente": 0.363
   },
   "Away Total ShotOnGoal|Over 2.5": {
-   "n": 829,
-   "frec_media": 0.8044,
-   "real": 0.7346,
-   "pendiente": 0.5467
+   "n": 835,
+   "frec_media": 0.8042,
+   "real": 0.7353,
+   "pendiente": 0.5342
   },
   "Goals Over/Under|Over 1.5": {
-   "n": 1080,
-   "frec_media": 0.7869,
-   "real": 0.7926,
+   "n": 1090,
+   "frec_media": 0.7874,
+   "real": 0.7936,
    "pendiente": 0.0
   },
   "Goals Over/Under First Half|Over 0.5": {
-   "n": 980,
+   "n": 989,
    "frec_media": 0.7466,
-   "real": 0.7255,
-   "pendiente": 0.0916
+   "real": 0.725,
+   "pendiente": 0.1015
   },
   "Total - Home|Over 0.5": {
-   "n": 1034,
-   "frec_media": 0.7634,
-   "real": 0.8143,
-   "pendiente": 0.1922
+   "n": 1042,
+   "frec_media": 0.7639,
+   "real": 0.8148,
+   "pendiente": 0.2053
   },
   "Double Chance|Home/Draw": {
-   "n": 685,
-   "frec_media": 0.7101,
-   "real": 0.7489,
-   "pendiente": 0.7723
+   "n": 690,
+   "frec_media": 0.7099,
+   "real": 0.7493,
+   "pendiente": 0.7776
   },
   "To Win Either Half|Home": {
-   "n": 347,
-   "frec_media": 0.6772,
-   "real": 0.7406,
+   "n": 352,
+   "frec_media": 0.6774,
+   "real": 0.7386,
    "pendiente": 1.0
   },
   "Goals Over/Under|Over 2.5": {
-   "n": 520,
-   "frec_media": 0.6977,
-   "real": 0.6019,
-   "pendiente": 0.3503
+   "n": 527,
+   "frec_media": 0.6976,
+   "real": 0.6015,
+   "pendiente": 0.3538
   },
   "Both Teams Score|Yes": {
-   "n": 458,
-   "frec_media": 0.6817,
-   "real": 0.5764,
+   "n": 464,
+   "frec_media": 0.6807,
+   "real": 0.5797,
    "pendiente": 0.0
   },
   "Total - Home|Over 1.5": {
-   "n": 134,
-   "frec_media": 0.671,
-   "real": 0.5821,
+   "n": 136,
+   "frec_media": 0.67,
+   "real": 0.5882,
    "pendiente": 0.0
   },
   "Home Team Score a Goal (2nd Half)|Yes": {
-   "n": 428,
+   "n": 434,
    "frec_media": 0.6826,
-   "real": 0.6262,
-   "pendiente": 0.1222
+   "real": 0.6313,
+   "pendiente": 0.1214
   },
   "Away Team Score a Goal (2nd Half)|Yes": {
-   "n": 455,
-   "frec_media": 0.6801,
-   "real": 0.5736,
+   "n": 461,
+   "frec_media": 0.6796,
+   "real": 0.5727,
    "pendiente": 0.0
   },
   "Goals Over/Under - Second Half|Over 1.5": {
-   "n": 277,
-   "frec_media": 0.679,
-   "real": 0.5451,
-   "pendiente": 0.847
+   "n": 283,
+   "frec_media": 0.6791,
+   "real": 0.5477,
+   "pendiente": 0.865
   },
   "Total - Away|Over 1.5": {
-   "n": 187,
-   "frec_media": 0.6536,
-   "real": 0.4492,
-   "pendiente": 0.6378
+   "n": 189,
+   "frec_media": 0.6533,
+   "real": 0.4497,
+   "pendiente": 0.5913
   },
   "Corners Over Under|Over 7.5": {
-   "n": 765,
-   "frec_media": 0.7551,
-   "real": 0.7386,
-   "pendiente": 0.2486
+   "n": 771,
+   "frec_media": 0.7545,
+   "real": 0.738,
+   "pendiente": 0.2467
   },
   "Corners Over Under|Over 8.5": {
-   "n": 469,
-   "frec_media": 0.7021,
-   "real": 0.6226,
-   "pendiente": 0.4929
+   "n": 471,
+   "frec_media": 0.7017,
+   "real": 0.6221,
+   "pendiente": 0.4958
   },
   "Home Corners Over/Under|Over 3.5": {
-   "n": 529,
-   "frec_media": 0.7139,
-   "real": 0.7543,
-   "pendiente": 0.504
+   "n": 531,
+   "frec_media": 0.7138,
+   "real": 0.7552,
+   "pendiente": 0.4999
   },
   "Home Corners Over/Under|Over 4.5": {
-   "n": 227,
-   "frec_media": 0.6752,
-   "real": 0.6035,
+   "n": 228,
+   "frec_media": 0.6753,
+   "real": 0.6053,
    "pendiente": 1.0
   },
   "Away Corners Over/Under|Over 2.5": {
-   "n": 841,
-   "frec_media": 0.8065,
-   "real": 0.7551,
-   "pendiente": 0.5698
+   "n": 848,
+   "frec_media": 0.8062,
+   "real": 0.7535,
+   "pendiente": 0.5825
   },
   "Total ShotOnGoal|Over 6.5": {
-   "n": 849,
-   "frec_media": 0.8171,
-   "real": 0.8151,
-   "pendiente": 0.2764
+   "n": 856,
+   "frec_media": 0.817,
+   "real": 0.8154,
+   "pendiente": 0.2912
   },
   "Total ShotOnGoal|Over 7.5": {
-   "n": 700,
-   "frec_media": 0.7453,
-   "real": 0.73,
-   "pendiente": 0.1207
+   "n": 705,
+   "frec_media": 0.7455,
+   "real": 0.7319,
+   "pendiente": 0.1268
   },
   "Home Total ShotOnGoal|Over 2.5": {
-   "n": 815,
-   "frec_media": 0.7948,
-   "real": 0.8613,
-   "pendiente": 0.3005
+   "n": 820,
+   "frec_media": 0.795,
+   "real": 0.8622,
+   "pendiente": 0.3013
   },
   "Away Total ShotOnGoal|Over 3.5": {
-   "n": 593,
-   "frec_media": 0.7267,
-   "real": 0.6121,
-   "pendiente": 0.8861
+   "n": 596,
+   "frec_media": 0.7266,
+   "real": 0.6141,
+   "pendiente": 0.8696
   },
   "ShotOnTarget 1x2|Away": {
-   "n": 167,
-   "frec_media": 0.6695,
-   "real": 0.503,
-   "pendiente": 0.8109
+   "n": 168,
+   "frec_media": 0.6691,
+   "real": 0.506,
+   "pendiente": 0.7594
   },
   "Corners 1x2|Home": {
-   "n": 151,
-   "frec_media": 0.6628,
-   "real": 0.6093,
+   "n": 153,
+   "frec_media": 0.6627,
+   "real": 0.6144,
    "pendiente": 1.0
   },
   "Home Total ShotOnGoal|Over 3.5": {
-   "n": 532,
-   "frec_media": 0.7229,
-   "real": 0.8139,
-   "pendiente": 0.127
+   "n": 537,
+   "frec_media": 0.7232,
+   "real": 0.8156,
+   "pendiente": 0.1307
   },
   "jugador:faltas_c:1": {
-   "n": 3631,
-   "frec_media": 0.7583,
-   "real": 0.6604,
-   "pendiente": 0.2873
+   "n": 3643,
+   "frec_media": 0.7581,
+   "real": 0.6602,
+   "pendiente": 0.2858
   },
   "Away Corners Over/Under|Over 3.5": {
-   "n": 567,
-   "frec_media": 0.7117,
-   "real": 0.6226,
-   "pendiente": 0.5268
+   "n": 573,
+   "frec_media": 0.7119,
+   "real": 0.623,
+   "pendiente": 0.5473
   },
   "Away Corners Over/Under|Over 4.5": {
-   "n": 240,
-   "frec_media": 0.6736,
-   "real": 0.5083,
-   "pendiente": 0.5703
+   "n": 243,
+   "frec_media": 0.6737,
+   "real": 0.5103,
+   "pendiente": 0.5865
   },
   "Total Corners (1st Half)|Over 3.5": {
-   "n": 565,
-   "frec_media": 0.7097,
-   "real": 0.6407,
-   "pendiente": 0.1691
+   "n": 571,
+   "frec_media": 0.71,
+   "real": 0.6392,
+   "pendiente": 0.1583
   },
   "Total Corners (1st Half)|Over 4.5": {
-   "n": 153,
-   "frec_media": 0.6548,
-   "real": 0.5163,
+   "n": 155,
+   "frec_media": 0.6547,
+   "real": 0.5097,
    "pendiente": 0.0
   },
   "Corners 1x2|Away": {
-   "n": 168,
+   "n": 171,
    "frec_media": 0.6593,
-   "real": 0.4464,
-   "pendiente": 0.8672
+   "real": 0.4444,
+   "pendiente": 0.9336
   },
   "Cards Over/Under|Over 4.5": {
-   "n": 126,
-   "frec_media": 0.6863,
-   "real": 0.6667,
-   "pendiente": 0.4568
+   "n": 130,
+   "frec_media": 0.6864,
+   "real": 0.6692,
+   "pendiente": 0.4026
   },
   "Away Total ShotOnGoal|Over 4.5": {
-   "n": 230,
-   "frec_media": 0.6811,
-   "real": 0.5565,
-   "pendiente": 0.1878
+   "n": 231,
+   "frec_media": 0.682,
+   "real": 0.5541,
+   "pendiente": 0.0912
   },
   "Fouls. Total|Over 19.5": {
-   "n": 749,
-   "frec_media": 0.8017,
-   "real": 0.7997,
-   "pendiente": 0.4911
+   "n": 755,
+   "frec_media": 0.802,
+   "real": 0.8,
+   "pendiente": 0.4906
   },
   "Fouls. Total|Over 21.5": {
-   "n": 510,
-   "frec_media": 0.7489,
-   "real": 0.7294,
-   "pendiente": 0.8724
+   "n": 515,
+   "frec_media": 0.7491,
+   "real": 0.7282,
+   "pendiente": 0.8411
   },
   "Fouls. Total|Over 23.5": {
-   "n": 243,
-   "frec_media": 0.708,
-   "real": 0.6831,
-   "pendiente": 1.0
+   "n": 247,
+   "frec_media": 0.7079,
+   "real": 0.6842,
+   "pendiente": 0.9577
   },
   "Fouls. Home Total|Over 9.5": {
-   "n": 690,
-   "frec_media": 0.763,
-   "real": 0.7319,
-   "pendiente": 0.9015
+   "n": 697,
+   "frec_media": 0.7624,
+   "real": 0.7303,
+   "pendiente": 0.9161
   },
   "Fouls. Away Total|Over 9.5": {
-   "n": 687,
-   "frec_media": 0.7626,
-   "real": 0.7409,
-   "pendiente": 0.8167
+   "n": 693,
+   "frec_media": 0.763,
+   "real": 0.7417,
+   "pendiente": 0.8157
   },
   "Fouls. Away Total|Over 10.5": {
-   "n": 473,
-   "frec_media": 0.7303,
-   "real": 0.7082,
-   "pendiente": 0.6803
+   "n": 477,
+   "frec_media": 0.73,
+   "real": 0.7086,
+   "pendiente": 0.6697
   },
   "Saves O/U Home|Over 1.5": {
-   "n": 770,
-   "frec_media": 0.8001,
-   "real": 0.7403,
-   "pendiente": 0.2858
+   "n": 775,
+   "frec_media": 0.8002,
+   "real": 0.7394,
+   "pendiente": 0.303
   },
   "Saves O/U Home|Over 2.5": {
-   "n": 385,
-   "frec_media": 0.7004,
-   "real": 0.5792,
-   "pendiente": 0.6269
+   "n": 387,
+   "frec_media": 0.7005,
+   "real": 0.5814,
+   "pendiente": 0.6242
   },
   "Saves O/U Away|Over 1.5": {
-   "n": 769,
-   "frec_media": 0.7883,
-   "real": 0.8349,
-   "pendiente": 0.2497
+   "n": 774,
+   "frec_media": 0.7885,
+   "real": 0.8359,
+   "pendiente": 0.2515
   },
   "Fouls. Home Total|Over 10.5": {
-   "n": 485,
-   "frec_media": 0.7281,
-   "real": 0.701,
-   "pendiente": 0.6042
+   "n": 489,
+   "frec_media": 0.7283,
+   "real": 0.7014,
+   "pendiente": 0.6138
   },
   "jugador:faltas_c:2": {
-   "n": 495,
-   "frec_media": 0.6805,
-   "real": 0.3737,
-   "pendiente": 0.1807
+   "n": 496,
+   "frec_media": 0.6803,
+   "real": 0.373,
+   "pendiente": 0.187
   },
   "jugador:a_puerta:1": {
-   "n": 1068,
+   "n": 1071,
    "frec_media": 0.7279,
-   "real": 0.5468,
-   "pendiente": 0.5574
+   "real": 0.5462,
+   "pendiente": 0.5712
   },
   "jugador:tiros:2": {
-   "n": 837,
+   "n": 840,
    "frec_media": 0.7388,
-   "real": 0.6117,
-   "pendiente": 0.48
+   "real": 0.6119,
+   "pendiente": 0.486
   },
   "ShotOnTarget 1x2|Home": {
-   "n": 134,
-   "frec_media": 0.6742,
-   "real": 0.7015,
-   "pendiente": 0.1524
+   "n": 136,
+   "frec_media": 0.6761,
+   "real": 0.7059,
+   "pendiente": 0.2431
   },
   "Offsides Total|Over 2.5": {
-   "n": 565,
+   "n": 567,
    "frec_media": 0.757,
-   "real": 0.708,
-   "pendiente": 0.7148
+   "real": 0.709,
+   "pendiente": 0.7147
   },
   "Saves O/U Away|Over 2.5": {
-   "n": 354,
-   "frec_media": 0.7044,
-   "real": 0.726,
-   "pendiente": 0.2722
+   "n": 358,
+   "frec_media": 0.7051,
+   "real": 0.7291,
+   "pendiente": 0.2875
   },
   "jugador:tiros:3": {
    "n": 161,
@@ -455,33 +455,33 @@
    "pendiente": 0.0
   },
   "Total ShotOnGoal|Over 8.5": {
-   "n": 401,
-   "frec_media": 0.7024,
-   "real": 0.6209,
-   "pendiente": 0.3601
+   "n": 405,
+   "frec_media": 0.7033,
+   "real": 0.6247,
+   "pendiente": 0.3948
   },
   "Match Winner|Home": {
-   "n": 98,
-   "frec_media": 0.663,
-   "real": 0.7143,
+   "n": 102,
+   "frec_media": 0.6625,
+   "real": 0.7059,
    "pendiente": 1.0
   },
   "Home Total ShotOnGoal|Over 4.5": {
-   "n": 200,
-   "frec_media": 0.6864,
-   "real": 0.69,
-   "pendiente": 0.4431
+   "n": 204,
+   "frec_media": 0.6866,
+   "real": 0.6961,
+   "pendiente": 0.4481
   },
   "Saves O/U Away|Over 3.5": {
-   "n": 70,
-   "frec_media": 0.6745,
-   "real": 0.6,
-   "pendiente": 0.4717
+   "n": 73,
+   "frec_media": 0.6742,
+   "real": 0.6164,
+   "pendiente": 0.437
   },
   "Home Corners Over/Under|Over 5.5": {
-   "n": 46,
-   "frec_media": 0.6417,
-   "real": 0.5435,
+   "n": 47,
+   "frec_media": 0.6408,
+   "real": 0.5319,
    "pendiente": 1.0
   },
   "Offsides Total|Over 3.5": {
@@ -493,76 +493,76 @@
  },
  "contexto": {
   "total_abismo_medio": {
-   "n": 3318,
-   "residuo": -0.0072
+   "n": 3344,
+   "residuo": -0.0074
   },
   "peor_abismo_medio": {
-   "n": 1389,
-   "residuo": -0.0442
+   "n": 1399,
+   "residuo": -0.0438
   },
   "mejor_abismo_medio": {
-   "n": 2263,
-   "residuo": 0.0409
+   "n": 2273,
+   "residuo": 0.0403
   },
   "total_lejos_abajo": {
    "n": 1302,
-   "residuo": 0.006
+   "residuo": 0.0057
   },
   "peor_lejos_abajo": {
    "n": 610,
-   "residuo": -0.0087
+   "residuo": -0.0089
   },
   "mejor_lejos_abajo": {
    "n": 798,
-   "residuo": 0.0153
+   "residuo": 0.0151
   },
   "total_igualado_medio": {
-   "n": 1761,
-   "residuo": -0.0019
+   "n": 1779,
+   "residuo": -0.0046
   },
   "mejor_igualado_medio": {
-   "n": 1048,
-   "residuo": -0.017
+   "n": 1058,
+   "residuo": -0.0217
   },
   "peor_igualado_medio": {
-   "n": 959,
-   "residuo": -0.0219
+   "n": 964,
+   "residuo": -0.0207
   },
   "total_lejos_medio": {
    "n": 2523,
-   "residuo": -0.0131
+   "residuo": -0.0136
   },
   "mejor_lejos_medio": {
    "n": 1610,
-   "residuo": 0.0086
+   "residuo": 0.0084
   },
   "peor_lejos_medio": {
    "n": 1253,
-   "residuo": -0.0249
+   "residuo": -0.0251
   },
   "total_igualado_arriba": {
    "n": 1210,
-   "residuo": 0.016
+   "residuo": 0.0154
   },
   "mejor_igualado_arriba": {
    "n": 774,
-   "residuo": 0.0106
+   "residuo": 0.0104
   },
   "peor_igualado_arriba": {
    "n": 607,
-   "residuo": 0.0204
+   "residuo": 0.0201
   },
   "total_igualado_abajo": {
    "n": 1562,
-   "residuo": 0.0121
+   "residuo": 0.0118
   },
   "peor_igualado_abajo": {
    "n": 744,
-   "residuo": -0.0071
+   "residuo": -0.0074
   },
   "mejor_igualado_abajo": {
    "n": 836,
-   "residuo": -0.0072
+   "residuo": -0.0074
   },
   "total_abismo_arriba": {
    "n": 69,
@@ -570,281 +570,281 @@
   },
   "total_abismo_abajo": {
    "n": 201,
-   "residuo": 0.0249
+   "residuo": 0.0248
   },
   "mejor_abismo_abajo": {
    "n": 123,
-   "residuo": -0.0825
+   "residuo": -0.0823
   },
   "peor_abismo_abajo": {
    "n": 82,
-   "residuo": 0.0603
+   "residuo": 0.0601
   },
   "total_lejos_arriba": {
    "n": 649,
-   "residuo": 0.0172
+   "residuo": 0.0168
   },
   "peor_lejos_arriba": {
    "n": 355,
-   "residuo": 0.035
+   "residuo": 0.0347
   },
   "mejor_lejos_arriba": {
    "n": 406,
-   "residuo": 0.0248
+   "residuo": 0.0244
   }
  },
  "contexto_tipo": {
   "goles|total_abismo_medio": {
-   "n": 818,
-   "residuo": -0.025
+   "n": 824,
+   "residuo": -0.0259
   },
   "goles|peor_abismo_medio": {
-   "n": 161,
-   "residuo": -0.1944
+   "n": 163,
+   "residuo": -0.188
   },
   "goles|mejor_abismo_medio": {
-   "n": 342,
-   "residuo": 0.0697
+   "n": 344,
+   "residuo": 0.0698
   },
   "corners|total_abismo_medio": {
-   "n": 462,
-   "residuo": 0.0383
+   "n": 466,
+   "residuo": 0.0358
   },
   "corners|mejor_abismo_medio": {
-   "n": 258,
-   "residuo": 0.0876
+   "n": 259,
+   "residuo": 0.0883
   },
   "tarjetas|total_abismo_medio": {
-   "n": 237,
-   "residuo": -0.0108
+   "n": 240,
+   "residuo": -0.0158
   },
   "tarjetas|peor_abismo_medio": {
-   "n": 268,
-   "residuo": 0.0581
+   "n": 270,
+   "residuo": 0.0585
   },
   "tarjetas|mejor_abismo_medio": {
-   "n": 234,
-   "residuo": -0.0637
+   "n": 236,
+   "residuo": -0.0658
   },
   "tiros a puerta|total_abismo_medio": {
-   "n": 434,
-   "residuo": -0.0199
+   "n": 437,
+   "residuo": -0.0197
   },
   "tiros a puerta|peor_abismo_medio": {
-   "n": 214,
-   "residuo": -0.137
+   "n": 216,
+   "residuo": -0.1338
   },
   "tiros a puerta|mejor_abismo_medio": {
-   "n": 370,
-   "residuo": 0.029
+   "n": 372,
+   "residuo": 0.0286
   },
   "faltas|total_abismo_medio": {
-   "n": 745,
-   "residuo": -0.0189
+   "n": 751,
+   "residuo": -0.0163
   },
   "paradas|total_abismo_medio": {
-   "n": 452,
-   "residuo": 0.0128
+   "n": 456,
+   "residuo": 0.014
   },
   "jugador:faltas_c|peor_abismo_medio": {
-   "n": 386,
-   "residuo": 0.0071
+   "n": 387,
+   "residuo": 0.0083
   },
   "jugador:faltas_c|mejor_abismo_medio": {
    "n": 433,
-   "residuo": -0.0191
+   "residuo": -0.0189
   },
   "goles|total_lejos_abajo": {
    "n": 322,
-   "residuo": 0.0306
+   "residuo": 0.0298
   },
   "goles|peor_lejos_abajo": {
    "n": 80,
-   "residuo": 0.008
+   "residuo": 0.0071
   },
   "goles|mejor_lejos_abajo": {
    "n": 124,
-   "residuo": 0.0146
+   "residuo": 0.0133
   },
   "resultado|mejor_lejos_abajo": {
    "n": 111,
-   "residuo": -0.0563
+   "residuo": -0.0553
   },
   "corners|total_lejos_abajo": {
    "n": 183,
-   "residuo": 0.0041
+   "residuo": 0.005
   },
   "corners|peor_lejos_abajo": {
    "n": 93,
-   "residuo": -0.0328
+   "residuo": -0.0331
   },
   "corners|mejor_lejos_abajo": {
    "n": 104,
-   "residuo": 0.0734
+   "residuo": 0.0735
   },
   "tarjetas|total_lejos_abajo": {
    "n": 84,
-   "residuo": 0.0144
+   "residuo": 0.0151
   },
   "tarjetas|peor_lejos_abajo": {
    "n": 100,
-   "residuo": 0.0095
+   "residuo": 0.0093
   },
   "tarjetas|mejor_lejos_abajo": {
    "n": 97,
-   "residuo": -0.0151
+   "residuo": -0.0153
   },
   "tiros a puerta|total_lejos_abajo": {
    "n": 163,
-   "residuo": 0.0353
+   "residuo": 0.0337
   },
   "tiros a puerta|peor_lejos_abajo": {
    "n": 107,
-   "residuo": 0.0186
+   "residuo": 0.0172
   },
   "tiros a puerta|mejor_lejos_abajo": {
    "n": 137,
-   "residuo": 0.0721
+   "residuo": 0.0711
   },
   "faltas|total_lejos_abajo": {
    "n": 296,
-   "residuo": -0.0365
+   "residuo": -0.0362
   },
   "paradas|total_lejos_abajo": {
    "n": 182,
-   "residuo": 0.0062
+   "residuo": 0.0053
   },
   "jugador:faltas_c|peor_lejos_abajo": {
    "n": 154,
-   "residuo": 0.0411
+   "residuo": 0.0413
   },
   "jugador:faltas_c|mejor_lejos_abajo": {
    "n": 155,
-   "residuo": 0.0211
+   "residuo": 0.0214
   },
   "resultado|mejor_abismo_medio": {
-   "n": 381,
-   "residuo": 0.0957
+   "n": 384,
+   "residuo": 0.0932
   },
   "fueras de juego|total_abismo_medio": {
    "n": 170,
-   "residuo": -0.0093
+   "residuo": -0.01
   },
   "jugador:a_puerta|mejor_abismo_medio": {
    "n": 128,
-   "residuo": 0.0708
+   "residuo": 0.0712
   },
   "goles|total_igualado_medio": {
-   "n": 430,
-   "residuo": 0.0075
+   "n": 434,
+   "residuo": 0.0064
   },
   "goles|mejor_igualado_medio": {
-   "n": 138,
-   "residuo": 0.0337
+   "n": 139,
+   "residuo": 0.0273
   },
   "goles|peor_igualado_medio": {
-   "n": 124,
-   "residuo": -0.0605
+   "n": 125,
+   "residuo": -0.0591
   },
   "resultado|mejor_igualado_medio": {
-   "n": 107,
-   "residuo": 0.0242
+   "n": 108,
+   "residuo": 0.0196
   },
   "corners|total_igualado_medio": {
-   "n": 268,
-   "residuo": 0.0621
+   "n": 270,
+   "residuo": 0.0574
   },
   "corners|mejor_igualado_medio": {
-   "n": 126,
-   "residuo": 0.049
+   "n": 128,
+   "residuo": 0.0374
   },
   "corners|peor_igualado_medio": {
    "n": 122,
-   "residuo": 0.0659
+   "residuo": 0.0657
   },
   "tarjetas|total_igualado_medio": {
-   "n": 116,
-   "residuo": -0.014
+   "n": 119,
+   "residuo": -0.0083
   },
   "tarjetas|mejor_igualado_medio": {
-   "n": 130,
-   "residuo": -0.0281
+   "n": 132,
+   "residuo": -0.0261
   },
   "tarjetas|peor_igualado_medio": {
-   "n": 138,
-   "residuo": 0.0403
+   "n": 140,
+   "residuo": 0.0425
   },
   "tiros a puerta|total_igualado_medio": {
-   "n": 215,
-   "residuo": -0.0647
+   "n": 216,
+   "residuo": -0.0698
   },
   "tiros a puerta|mejor_igualado_medio": {
-   "n": 174,
-   "residuo": -0.0419
+   "n": 175,
+   "residuo": -0.0474
   },
   "tiros a puerta|peor_igualado_medio": {
    "n": 149,
-   "residuo": -0.0968
+   "residuo": -0.0983
   },
   "faltas|total_igualado_medio": {
-   "n": 403,
-   "residuo": 0.0115
+   "n": 409,
+   "residuo": 0.0067
   },
   "fueras de juego|total_igualado_medio": {
-   "n": 82,
-   "residuo": -0.019
+   "n": 83,
+   "residuo": -0.0166
   },
   "paradas|total_igualado_medio": {
-   "n": 247,
-   "residuo": -0.0439
+   "n": 248,
+   "residuo": -0.0477
   },
   "jugador:a_puerta|mejor_igualado_medio": {
-   "n": 55,
-   "residuo": -0.0019
+   "n": 56,
+   "residuo": -0.0098
   },
   "jugador:faltas_c|mejor_igualado_medio": {
-   "n": 260,
-   "residuo": -0.0542
+   "n": 262,
+   "residuo": -0.0585
   },
   "jugador:faltas_c|peor_igualado_medio": {
-   "n": 244,
-   "residuo": 0.0088
+   "n": 245,
+   "residuo": 0.0104
   },
   "goles|total_lejos_medio": {
    "n": 646,
-   "residuo": 0.0026
+   "residuo": 0.002
   },
   "goles|mejor_lejos_medio": {
    "n": 231,
-   "residuo": 0.0159
+   "residuo": 0.0143
   },
   "resultado|mejor_lejos_medio": {
    "n": 200,
-   "residuo": -0.0008
+   "residuo": 0.0003
   },
   "corners|total_lejos_medio": {
    "n": 344,
-   "residuo": -0.0235
+   "residuo": -0.0228
   },
   "corners|peor_lejos_medio": {
    "n": 164,
-   "residuo": -0.0638
+   "residuo": -0.0634
   },
   "tarjetas|total_lejos_medio": {
    "n": 169,
-   "residuo": 0.0409
+   "residuo": 0.0414
   },
   "tarjetas|mejor_lejos_medio": {
    "n": 187,
-   "residuo": -0.0115
+   "residuo": -0.0117
   },
   "tarjetas|peor_lejos_medio": {
    "n": 191,
-   "residuo": 0.0526
+   "residuo": 0.0522
   },
   "tiros a puerta|mejor_lejos_medio": {
    "n": 265,
-   "residuo": -0.0252
+   "residuo": -0.0263
   },
   "faltas|total_lejos_medio": {
    "n": 555,
@@ -852,159 +852,159 @@
   },
   "fueras de juego|total_lejos_medio": {
    "n": 123,
-   "residuo": -0.0437
+   "residuo": -0.0445
   },
   "paradas|total_lejos_medio": {
    "n": 369,
-   "residuo": -0.0573
+   "residuo": -0.0587
   },
   "jugador:faltas_c|mejor_lejos_medio": {
    "n": 360,
-   "residuo": 0.0302
+   "residuo": 0.0304
   },
   "jugador:a_puerta|peor_lejos_medio": {
    "n": 89,
-   "residuo": -0.0113
+   "residuo": -0.0105
   },
   "jugador:faltas_c|peor_lejos_medio": {
    "n": 331,
-   "residuo": -0.019
+   "residuo": -0.0188
   },
   "goles|total_igualado_arriba": {
    "n": 326,
-   "residuo": 0.0106
+   "residuo": 0.01
   },
   "goles|mejor_igualado_arriba": {
    "n": 112,
-   "residuo": -0.0132
+   "residuo": -0.0144
   },
   "goles|peor_igualado_arriba": {
    "n": 86,
-   "residuo": 0.0197
+   "residuo": 0.0184
   },
   "resultado|mejor_igualado_arriba": {
    "n": 80,
-   "residuo": -0.0019
+   "residuo": -0.0004
   },
   "corners|total_igualado_arriba": {
    "n": 172,
-   "residuo": -0.0296
+   "residuo": -0.0288
   },
   "corners|peor_igualado_arriba": {
    "n": 75,
-   "residuo": -0.0342
+   "residuo": -0.0339
   },
   "tiros a puerta|total_igualado_arriba": {
    "n": 168,
-   "residuo": 0.0124
+   "residuo": 0.0101
   },
   "tiros a puerta|mejor_igualado_arriba": {
    "n": 130,
-   "residuo": 0.0088
+   "residuo": 0.0078
   },
   "tiros a puerta|peor_igualado_arriba": {
    "n": 100,
-   "residuo": 0.0519
+   "residuo": 0.0504
   },
   "faltas|total_igualado_arriba": {
    "n": 243,
-   "residuo": 0.0368
+   "residuo": 0.0367
   },
   "fueras de juego|total_igualado_arriba": {
    "n": 61,
-   "residuo": 0.0609
+   "residuo": 0.0602
   },
   "paradas|total_igualado_arriba": {
    "n": 169,
-   "residuo": 0.0286
+   "residuo": 0.0274
   },
   "jugador:faltas_c|mejor_igualado_arriba": {
    "n": 141,
-   "residuo": 0.0331
+   "residuo": 0.0333
   },
   "jugador:faltas_c|peor_igualado_arriba": {
    "n": 141,
-   "residuo": 0.0245
+   "residuo": 0.0246
   },
   "goles|total_igualado_abajo": {
    "n": 377,
-   "residuo": 0.0075
+   "residuo": 0.0068
   },
   "goles|peor_igualado_abajo": {
    "n": 105,
-   "residuo": 0.0005
+   "residuo": -0.0003
   },
   "goles|mejor_igualado_abajo": {
    "n": 114,
-   "residuo": -0.047
+   "residuo": -0.0479
   },
   "resultado|mejor_igualado_abajo": {
    "n": 92,
-   "residuo": -0.066
+   "residuo": -0.0648
   },
   "corners|total_igualado_abajo": {
    "n": 230,
-   "residuo": 0.0038
+   "residuo": 0.0049
   },
   "corners|mejor_igualado_abajo": {
    "n": 106,
-   "residuo": 0.0325
+   "residuo": 0.0323
   },
   "tarjetas|total_igualado_abajo": {
    "n": 111,
-   "residuo": 0.0724
+   "residuo": 0.0723
   },
   "tarjetas|peor_igualado_abajo": {
    "n": 115,
-   "residuo": 0.0321
+   "residuo": 0.0318
   },
   "tarjetas|mejor_igualado_abajo": {
    "n": 115,
-   "residuo": 0.0218
+   "residuo": 0.0216
   },
   "tiros a puerta|total_igualado_abajo": {
    "n": 175,
-   "residuo": -0.0365
+   "residuo": -0.0379
   },
   "tiros a puerta|peor_igualado_abajo": {
    "n": 132,
-   "residuo": -0.0167
+   "residuo": -0.0179
   },
   "tiros a puerta|mejor_igualado_abajo": {
    "n": 144,
-   "residuo": 0.0441
+   "residuo": 0.0425
   },
   "faltas|total_igualado_abajo": {
    "n": 373,
-   "residuo": 0.0321
+   "residuo": 0.0324
   },
   "fueras de juego|total_igualado_abajo": {
    "n": 84,
-   "residuo": 0.0161
+   "residuo": 0.0154
   },
   "paradas|total_igualado_abajo": {
    "n": 212,
-   "residuo": 0.0009
+   "residuo": -0.0002
   },
   "jugador:faltas_c|peor_igualado_abajo": {
    "n": 174,
-   "residuo": -0.0038
+   "residuo": -0.0036
   },
   "jugador:faltas_c|mejor_igualado_abajo": {
    "n": 184,
-   "residuo": -0.0503
+   "residuo": -0.0501
   },
   "corners|peor_abismo_medio": {
-   "n": 194,
-   "residuo": -0.0525
+   "n": 197,
+   "residuo": -0.0609
   },
   "jugador:tiros|mejor_abismo_medio": {
    "n": 117,
-   "residuo": 0.1106
+   "residuo": 0.1104
   },
   "jugador:a_puerta|peor_abismo_medio": {
    "n": 82,
-   "residuo": -0.0415
+   "residuo": -0.0405
   },
   "jugador:tiros|peor_abismo_medio": {
    "n": 77,
@@ -1012,387 +1012,387 @@
   },
   "goles|peor_lejos_medio": {
    "n": 152,
-   "residuo": -0.0418
+   "residuo": -0.0424
   },
   "tiros a puerta|total_lejos_medio": {
    "n": 317,
-   "residuo": -0.0556
+   "residuo": -0.0573
   },
   "tiros a puerta|peor_lejos_medio": {
    "n": 210,
-   "residuo": -0.0291
+   "residuo": -0.0305
   },
   "jugador:a_puerta|mejor_lejos_medio": {
    "n": 94,
-   "residuo": 0.0236
+   "residuo": 0.0241
   },
   "jugador:tiros|mejor_lejos_medio": {
    "n": 80,
-   "residuo": 0.0751
+   "residuo": 0.0749
   },
   "jugador:tiros|peor_igualado_medio": {
    "n": 51,
-   "residuo": -0.0914
+   "residuo": -0.0916
   },
   "jugador:a_puerta|peor_igualado_medio": {
    "n": 62,
-   "residuo": -0.0456
+   "residuo": -0.045
   },
   "jugador:tiros|mejor_igualado_medio": {
    "n": 58,
-   "residuo": -0.1044
+   "residuo": -0.1046
   },
   "goles|total_lejos_arriba": {
    "n": 169,
-   "residuo": 0.0341
+   "residuo": 0.0337
   },
   "goles|mejor_lejos_arriba": {
    "n": 61,
-   "residuo": 0.1746
+   "residuo": 0.1725
   },
   "resultado|mejor_lejos_arriba": {
    "n": 62,
-   "residuo": 0.0753
+   "residuo": 0.0769
   },
   "corners|total_lejos_arriba": {
    "n": 89,
-   "residuo": -0.1073
+   "residuo": -0.1071
   },
   "tarjetas|peor_lejos_arriba": {
    "n": 53,
-   "residuo": 0.0648
+   "residuo": 0.0646
   },
   "tarjetas|mejor_lejos_arriba": {
    "n": 51,
-   "residuo": -0.1169
+   "residuo": -0.1172
   },
   "tiros a puerta|total_lejos_arriba": {
    "n": 75,
-   "residuo": 0.0008
+   "residuo": -0.0009
   },
   "tiros a puerta|peor_lejos_arriba": {
    "n": 59,
-   "residuo": 0.0198
+   "residuo": 0.0179
   },
   "tiros a puerta|mejor_lejos_arriba": {
    "n": 65,
-   "residuo": 0.0788
+   "residuo": 0.0769
   },
   "faltas|total_lejos_arriba": {
    "n": 143,
-   "residuo": 0.0887
+   "residuo": 0.0888
   },
   "paradas|total_lejos_arriba": {
    "n": 91,
-   "residuo": -0.0054
+   "residuo": -0.0061
   },
   "jugador:faltas_c|peor_lejos_arriba": {
    "n": 104,
-   "residuo": 0.151
+   "residuo": 0.1512
   },
   "jugador:faltas_c|mejor_lejos_arriba": {
    "n": 63,
-   "residuo": -0.0139
+   "residuo": -0.0138
   },
   "fueras de juego|total_lejos_abajo": {
    "n": 72,
-   "residuo": -0.0015
+   "residuo": -0.0022
   },
   "corners|peor_igualado_abajo": {
    "n": 114,
-   "residuo": -0.0514
+   "residuo": -0.0518
   },
   "resultado|peor_igualado_medio": {
-   "n": 69,
-   "residuo": -0.1068
+   "n": 70,
+   "residuo": -0.0992
   },
   "corners|mejor_igualado_arriba": {
    "n": 94,
-   "residuo": -0.0157
+   "residuo": -0.0156
   },
   "tarjetas|peor_igualado_arriba": {
    "n": 86,
-   "residuo": 0.0247
+   "residuo": 0.0246
   },
   "tarjetas|mejor_igualado_arriba": {
    "n": 91,
-   "residuo": 0.0349
+   "residuo": 0.0348
   },
   "jugador:tiros|mejor_igualado_arriba": {
    "n": 69,
-   "residuo": 0.0134
+   "residuo": 0.013
   },
   "jugador:a_puerta|mejor_igualado_arriba": {
    "n": 57,
-   "residuo": 0.0243
+   "residuo": 0.0239
   },
   "corners|mejor_lejos_medio": {
    "n": 193,
-   "residuo": 0.0001
+   "residuo": 0.0002
   },
   "tarjetas|total_igualado_arriba": {
    "n": 71,
-   "residuo": 0.0197
+   "residuo": 0.0208
   },
   "jugador:tiros|peor_lejos_medio": {
    "n": 72,
-   "residuo": -0.1011
+   "residuo": -0.1012
   }
  },
  "extra": {
   "forma_igual": {
-   "n": 10989,
-   "residuo": -0.0074
+   "n": 11105,
+   "residuo": -0.0073
   },
   "bajas_ninguno": {
-   "n": 9031,
-   "residuo": 0.0022
+   "n": 9106,
+   "residuo": 0.0031
   },
   "forma_peor": {
-   "n": 3534,
-   "residuo": -0.0122
+   "n": 3545,
+   "residuo": -0.0118
   },
   "forma_mejor": {
-   "n": 5831,
-   "residuo": 0.0213
+   "n": 5852,
+   "residuo": 0.0209
   },
   "bajas_mias": {
-   "n": 3793,
-   "residuo": -0.0094
+   "n": 3818,
+   "residuo": -0.0085
   },
   "bajas_rival": {
-   "n": 4358,
-   "residuo": 0.011
+   "n": 4385,
+   "residuo": 0.0094
   },
   "bajas_ambos": {
    "n": 1795,
-   "residuo": -0.007
+   "residuo": -0.0072
   }
  },
  "extra_tipo": {
   "goles|forma_igual": {
-   "n": 1790,
-   "residuo": -0.0038
+   "n": 1814,
+   "residuo": -0.003
   },
   "goles|bajas_ninguno": {
-   "n": 1255,
-   "residuo": 0.0107
+   "n": 1272,
+   "residuo": 0.0132
   },
   "resultado|forma_igual": {
-   "n": 1234,
-   "residuo": -0.0103
+   "n": 1249,
+   "residuo": -0.0106
   },
   "resultado|bajas_ninguno": {
-   "n": 883,
-   "residuo": -0.0191
+   "n": 894,
+   "residuo": -0.0184
   },
   "tarjetas|forma_igual": {
-   "n": 1536,
-   "residuo": 0.002
+   "n": 1556,
+   "residuo": 0.0021
   },
   "tarjetas|bajas_ninguno": {
-   "n": 1238,
-   "residuo": 0.0088
+   "n": 1249,
+   "residuo": 0.0083
   },
   "tiros a puerta|forma_igual": {
-   "n": 1748,
-   "residuo": -0.0046
+   "n": 1768,
+   "residuo": -0.004
   },
   "tiros a puerta|bajas_ninguno": {
-   "n": 1472,
-   "residuo": -0.009
+   "n": 1490,
+   "residuo": -0.0079
   },
   "goles|forma_peor": {
-   "n": 503,
-   "residuo": -0.0683
+   "n": 506,
+   "residuo": -0.0667
   },
   "goles|forma_mejor": {
-   "n": 996,
-   "residuo": 0.0412
+   "n": 1003,
+   "residuo": 0.0391
   },
   "resultado|forma_peor": {
-   "n": 104,
-   "residuo": -0.0895
+   "n": 105,
+   "residuo": -0.0841
   },
   "resultado|forma_mejor": {
-   "n": 1061,
-   "residuo": 0.0208
+   "n": 1069,
+   "residuo": 0.0206
   },
   "corners|forma_igual": {
-   "n": 1332,
-   "residuo": -0.0226
+   "n": 1350,
+   "residuo": -0.0228
   },
   "jugador:faltas_c|forma_igual": {
-   "n": 2213,
-   "residuo": -0.0064
+   "n": 2226,
+   "residuo": -0.0067
   },
   "jugador:faltas_c|bajas_ninguno": {
-   "n": 2018,
-   "residuo": 0.0176
+   "n": 2023,
+   "residuo": 0.0177
   },
   "tarjetas|forma_mejor": {
-   "n": 623,
-   "residuo": -0.0483
+   "n": 626,
+   "residuo": -0.0476
   },
   "tarjetas|forma_peor": {
-   "n": 666,
-   "residuo": 0.0406
+   "n": 670,
+   "residuo": 0.0397
   },
   "corners|bajas_ninguno": {
-   "n": 1098,
-   "residuo": -0.008
+   "n": 1109,
+   "residuo": -0.0061
   },
   "corners|forma_peor": {
-   "n": 447,
-   "residuo": -0.022
+   "n": 449,
+   "residuo": -0.0201
   },
   "corners|forma_mejor": {
    "n": 671,
    "residuo": 0.0594
   },
   "tiros a puerta|forma_mejor": {
-   "n": 889,
-   "residuo": 0.0377
+   "n": 892,
+   "residuo": 0.0371
   },
   "jugador:faltas_c|forma_peor": {
    "n": 885,
-   "residuo": 0.0181
+   "residuo": 0.0183
   },
   "jugador:a_puerta|forma_peor": {
    "n": 200,
-   "residuo": -0.0132
+   "residuo": -0.0125
   },
   "jugador:a_puerta|bajas_ninguno": {
-   "n": 548,
-   "residuo": -0.0045
+   "n": 549,
+   "residuo": -0.0034
   },
   "jugador:tiros|forma_peor": {
    "n": 167,
    "residuo": -0.0283
   },
   "jugador:tiros|bajas_ninguno": {
-   "n": 519,
-   "residuo": 0.0029
+   "n": 520,
+   "residuo": 0.0032
   },
   "jugador:faltas_c|forma_mejor": {
    "n": 1028,
-   "residuo": -0.0016
+   "residuo": -0.0014
   },
   "jugador:a_puerta|forma_mejor": {
    "n": 286,
-   "residuo": 0.0323
+   "residuo": 0.0329
   },
   "jugador:tiros|forma_mejor": {
    "n": 277,
-   "residuo": 0.0373
+   "residuo": 0.0371
   },
   "jugador:tiros|forma_igual": {
-   "n": 554,
-   "residuo": -0.0101
+   "n": 557,
+   "residuo": -0.01
   },
   "jugador:a_puerta|forma_igual": {
-   "n": 582,
-   "residuo": -0.0113
+   "n": 585,
+   "residuo": -0.0118
   },
   "goles|bajas_mias": {
-   "n": 557,
-   "residuo": -0.0347
+   "n": 561,
+   "residuo": -0.033
   },
   "resultado|bajas_mias": {
-   "n": 356,
-   "residuo": 0.0147
+   "n": 358,
+   "residuo": 0.018
   },
   "resultado|bajas_rival": {
-   "n": 434,
-   "residuo": 0.0452
+   "n": 438,
+   "residuo": 0.0418
   },
   "corners|bajas_rival": {
-   "n": 560,
-   "residuo": 0.0184
+   "n": 563,
+   "residuo": 0.0163
   },
   "tiros a puerta|bajas_mias": {
-   "n": 676,
-   "residuo": 0.0015
+   "n": 679,
+   "residuo": 0.0019
   },
   "tiros a puerta|bajas_rival": {
-   "n": 703,
-   "residuo": 0.031
+   "n": 706,
+   "residuo": 0.029
   },
   "jugador:faltas_c|bajas_mias": {
-   "n": 749,
-   "residuo": -0.0246
+   "n": 751,
+   "residuo": -0.0234
   },
   "jugador:tiros|bajas_mias": {
-   "n": 161,
-   "residuo": -0.0269
+   "n": 162,
+   "residuo": -0.0242
   },
   "jugador:a_puerta|bajas_mias": {
-   "n": 182,
-   "residuo": 0.0009
+   "n": 183,
+   "residuo": -0.0011
   },
   "jugador:faltas_c|bajas_rival": {
-   "n": 1002,
-   "residuo": -0.0248
+   "n": 1008,
+   "residuo": -0.026
   },
   "tiros a puerta|forma_peor": {
-   "n": 562,
-   "residuo": -0.0452
+   "n": 563,
+   "residuo": -0.0461
   },
   "goles|bajas_rival": {
-   "n": 582,
-   "residuo": 0.0176
+   "n": 585,
+   "residuo": 0.0162
   },
   "corners|bajas_mias": {
-   "n": 524,
-   "residuo": -0.0002
+   "n": 530,
+   "residuo": -0.002
   },
   "tarjetas|bajas_rival": {
-   "n": 583,
-   "residuo": -0.008
+   "n": 589,
+   "residuo": -0.0078
   },
   "tarjetas|bajas_mias": {
-   "n": 588,
-   "residuo": 0.0002
+   "n": 594,
+   "residuo": 0.0016
   },
   "jugador:a_puerta|bajas_rival": {
-   "n": 254,
-   "residuo": 0.0365
+   "n": 255,
+   "residuo": 0.0351
   },
   "jugador:tiros|bajas_rival": {
-   "n": 240,
-   "residuo": 0.0261
+   "n": 241,
+   "residuo": 0.0236
   },
   "goles|bajas_ambos": {
    "n": 253,
-   "residuo": 0.0012
+   "residuo": 0.0
   },
   "resultado|bajas_ambos": {
    "n": 176,
-   "residuo": 0.0409
+   "residuo": 0.0423
   },
   "corners|bajas_ambos": {
    "n": 250,
-   "residuo": -0.0047
+   "residuo": -0.0046
   },
   "tarjetas|bajas_ambos": {
    "n": 269,
-   "residuo": -0.037
+   "residuo": -0.0372
   },
   "tiros a puerta|bajas_ambos": {
    "n": 328,
-   "residuo": -0.0195
+   "residuo": -0.021
   },
   "jugador:faltas_c|bajas_ambos": {
    "n": 357,
-   "residuo": 0.0219
+   "residuo": 0.0221
   },
   "jugador:a_puerta|bajas_ambos": {
    "n": 84,
-   "residuo": -0.0825
+   "residuo": -0.0819
   },
   "jugador:tiros|bajas_ambos": {
    "n": 78,
-   "residuo": -0.044
+   "residuo": -0.0441
   }
  }
 }

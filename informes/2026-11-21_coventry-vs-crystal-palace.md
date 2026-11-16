@@ -1,50 +1,53 @@
 # Coventry – Crystal Palace
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 15/11 19:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 02:32._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 02:13_
+_Actualizadas: 16/11 02:31_
 
-- **1X2:** 1 **2.50**  ·  X **3.50**  ·  2 **2.70**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
-- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **1X2:** 1 **2.35**  ·  X **3.50**  ·  2 **2.88**
+- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
-    - 1,5: más **1.22** · menos **4.33**
-    - 2,5: más **1.73** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.44**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **10.00** · menos **1.06**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.67** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.50** · menos **1.11**
+    - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
-    - 2,5: más **5.00** · menos **1.17**
-- **1X2 descanso:** 1 **3.00**  ·  X **2.30**  ·  2 **3.20**
+    - 2,5: más **5.50** · menos **1.14**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.30**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.73**  ·  2 **1.80**
-- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **3.50**
-- **Win Both Halves:** 1 **9.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.75**  ·  Home/No **5.00**  ·  Draw/No **13.00**  ·  Away/No **5.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
-- **Away Player Shots On Target Total:** Zavier Gozo **21.00**  ·  Quinten Timber **41.00**  ·  Anan Khalaili **51.00**  ·  Dario Osorio **41.00**  ·  Caleb Yirenkyi **29.00**  ·  Evann Guessand **9.50**  ·  Oscar Mingueza **67.00**  ·  Ismaila Sarr **13.00**  ·  Frank Onyeka **34.00**  ·  Stephen Mfuni **23.00**  ·  Brandon Thomas-Asante **34.00**  ·  Ellis Simms **6.50**  ·  Yann Gboho **17.00**  ·  Matt Grimes **81.00**  ·  Ephron Mason-Clark **21.00**  ·  Jack Rudoni **9.00**  ·  Tatsuhiro Sakamoto **51.00**  ·  Victor Torp **41.00**  ·  Milan van Ewijk **101.00**  ·  Bobby Thomas **13.00**  ·  Jay Dasilva **101.00**  ·  Joel Latibeaudiere **19.00**  ·  Kaine Kesler-Hayden **67.00**  ·  Gustavo Hamer **41.00**  ·  Sidiki Cherif **19.00**  ·  Jaydee Canvot **21.00**  ·  Cheick Doucoure **67.00**  ·  Adam Wharton **67.00**  ·  Chris Richards **12.00**  ·  Daichi Kamada **51.00**  ·  Eddie Nketiah **15.00**  ·  Jefferson Lerma **29.00**  ·  Taiwo Awoniyi **9.00**  ·  Tyrick Mitchell **81.00**  ·  Will Hughes **81.00**  ·  Axel Disasi **19.00**  ·  Ethan Pinnock **15.00**  ·  Dwight McNeil **41.00**  ·  Ben Chilwell **51.00**  ·  Loum Tchaouna **41.00**  ·  Yeremy Pino **29.00**  ·  Honest Ahanor **21.00**  ·  Jorgen Larsen **10.00**
-- **Anytime Goal Scorer:** Zavier Gozo **4.50**  ·  Quinten Timber **7.50**  ·  Anan Khalaili **5.50**  ·  Dario Osorio **4.75**  ·  Caleb Yirenkyi **6.00**  ·  Evann Guessand **3.40**  ·  Oscar Mingueza **8.00**  ·  Ismaila Sarr **3.25**  ·  Frank Onyeka **7.50**  ·  Stephen Mfuni **10.00**  ·  Brandon Thomas-Asante **3.25**  ·  Ellis Simms **2.75**  ·  Yann Gboho **2.75**  ·  Matt Grimes **9.50**  ·  Ephron Mason-Clark **3.40**  ·  Jack Rudoni **3.60**  ·  Tatsuhiro Sakamoto **5.50**  ·  Victor Torp **4.50**  ·  Milan van Ewijk **10.00**  ·  Bobby Thomas **8.00**  ·  Jay Dasilva **12.00**  ·  Joel Latibeaudiere **12.00**  ·  Kaine Kesler-Hayden **7.00**  ·  Gustavo Hamer **4.50**  ·  Sidiki Cherif **3.00**  ·  Jaydee Canvot **10.00**  ·  Cheick Doucoure **7.50**  ·  Adam Wharton **8.00**  ·  Chris Richards **10.00**  ·  Daichi Kamada **5.50**  ·  Eddie Nketiah **3.00**  ·  Jefferson Lerma **7.50**  ·  Taiwo Awoniyi **2.75**  ·  Tyrick Mitchell **10.00**  ·  Will Hughes **9.50**  ·  Axel Disasi **12.00**  ·  Ethan Pinnock **10.00**  ·  Dwight McNeil **5.50**  ·  Ben Chilwell **7.50**  ·  Loum Tchaouna **4.50**  ·  Yeremy Pino **4.75**  ·  Honest Ahanor **10.00**  ·  Jorgen Larsen **2.60**
-- **Player to Score or Assist:** Zavier Gozo **2.88**  ·  Quinten Timber **3.40**  ·  Anan Khalaili **3.25**  ·  Dario Osorio **3.00**  ·  Caleb Yirenkyi **3.75**  ·  Evann Guessand **2.40**  ·  Oscar Mingueza **3.75**  ·  Ismaila Sarr **2.30**  ·  Frank Onyeka **4.00**  ·  Stephen Mfuni **6.50**  ·  Brandon Thomas-Asante **2.38**  ·  Ellis Simms **2.30**  ·  Yann Gboho **2.05**  ·  Matt Grimes **5.00**  ·  Ephron Mason-Clark **2.20**  ·  Jack Rudoni **2.38**  ·  Tatsuhiro Sakamoto **3.00**  ·  Victor Torp **2.60**  ·  Milan van Ewijk **4.33**  ·  Bobby Thomas **5.00**  ·  Jay Dasilva **6.50**  ·  Joel Latibeaudiere **7.50**  ·  Kaine Kesler-Hayden **3.60**  ·  Gustavo Hamer **2.38**  ·  Sidiki Cherif **2.30**  ·  Jaydee Canvot **7.00**  ·  Cheick Doucoure **4.75**  ·  Adam Wharton **4.00**  ·  Chris Richards **7.00**  ·  Daichi Kamada **3.25**  ·  Eddie Nketiah **2.38**  ·  Jefferson Lerma **4.33**  ·  Taiwo Awoniyi **2.25**  ·  Tyrick Mitchell **5.50**  ·  Will Hughes **4.50**  ·  Axel Disasi **9.00**  ·  Ethan Pinnock **7.50**  ·  Dwight McNeil **2.88**  ·  Ben Chilwell **3.60**  ·  Loum Tchaouna **3.10**  ·  Yeremy Pino **2.62**  ·  Honest Ahanor **6.50**  ·  Jorgen Larsen **2.05**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.67**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **3.50**
+- **Win Both Halves:** 1 **8.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.50**  ·  Draw/No **15.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Home Player Shots On Target Total:** Ellis Simms - 1 **1.33**  ·  Sidiki Cherif - 1 **1.44**  ·  Taiwo Awoniyi - 1 **1.36**  ·  Brandon Thomas-Asante - 1 **1.44**  ·  Ephron Mason-Clark - 1 **1.57**  ·  Gustavo Hamer - 1 **1.73**  ·  Victor Torp - 1 **1.73**  ·  Jack Rudoni - 1 **1.57**  ·  Loum Tchaouna - 1 **1.62**  ·  Tatsuhiro Sakamoto - 1 **2.25**  ·  Frank Onyeka - 1 **3.25**  ·  Caleb Yirenkyi - 1 **2.25**  ·  Kaine Kesler-Hayden - 1 **2.50**  ·  Bobby Thomas - 1 **3.25**  ·  Matt Grimes - 1 **3.50**  ·  Milan van Ewijk - 1 **3.75**  ·  Jay Dasilva - 1 **4.33**  ·  Joel Latibeaudiere - 1 **4.33**  ·  Ellis Simms - 2 **2.62**  ·  Sidiki Cherif - 2 **3.25**  ·  Taiwo Awoniyi - 2 **2.75**  ·  Brandon Thomas-Asante - 2 **3.25**  ·  Ephron Mason-Clark - 2 **3.75**  ·  Gustavo Hamer - 2 **4.50**  ·  Victor Torp - 2 **4.50**  ·  Jack Rudoni - 2 **3.75**  ·  Loum Tchaouna - 2 **4.00**  ·  Tatsuhiro Sakamoto - 2 **9.00**  ·  Frank Onyeka - 2 **15.00**  ·  Caleb Yirenkyi - 2 **9.00**  ·  Kaine Kesler-Hayden - 2 **10.00**  ·  Bobby Thomas - 2 **17.00**  ·  Matt Grimes - 2 **19.00**  ·  Milan van Ewijk - 2 **19.00**  ·  Jay Dasilva - 2 **21.00**  ·  Joel Latibeaudiere - 2 **21.00**  ·  Ellis Simms - 3 **6.50**  ·  Sidiki Cherif - 3 **9.00**  ·  Taiwo Awoniyi - 3 **7.00**  ·  Brandon Thomas-Asante - 3 **9.00**  ·  Ephron Mason-Clark - 3 **11.00**  ·  Gustavo Hamer - 3 **17.00**  ·  Victor Torp - 3 **17.00**  ·  Jack Rudoni - 3 **13.00**  ·  Loum Tchaouna - 3 **13.00**  ·  Ellis Simms - 4 **19.00**  ·  Sidiki Cherif - 4 **21.00**  ·  Taiwo Awoniyi - 4 **21.00**  ·  Brandon Thomas-Asante - 4 **21.00**  ·  Yann Gboho - 1 **1.40**  ·  Yann Gboho - 2 **3.00**  ·  Yann Gboho - 3 **8.00**  ·  Yann Gboho - 4 **21.00**  ·  Stephen Mfuni - 1 **3.50**  ·  Stephen Mfuni - 2 **19.00**  ·  Ethan Pinnock - 1 **3.75**  ·  Ethan Pinnock - 2 **19.00**
+- **Away Player Shots On Target Total:** Zavier Gozo **21.00**  ·  Quinten Timber **41.00**  ·  Anan Khalaili **51.00**  ·  Dario Osorio **41.00**  ·  Caleb Yirenkyi **26.00**  ·  Evann Guessand **9.50**  ·  Oscar Mingueza **67.00**  ·  Ismaila Sarr **12.00**  ·  Frank Onyeka **34.00**  ·  Stephen Mfuni **21.00**  ·  Brandon Thomas-Asante **29.00**  ·  Ellis Simms **6.50**  ·  Yann Gboho **17.00**  ·  Matt Grimes **81.00**  ·  Ephron Mason-Clark **21.00**  ·  Jack Rudoni **8.50**  ·  Tatsuhiro Sakamoto **51.00**  ·  Victor Torp **34.00**  ·  Milan van Ewijk **81.00**  ·  Bobby Thomas **13.00**  ·  Jay Dasilva **101.00**  ·  Joel Latibeaudiere **17.00**  ·  Kaine Kesler-Hayden **51.00**  ·  Gustavo Hamer **34.00**  ·  Sidiki Cherif **19.00**  ·  Jaydee Canvot **23.00**  ·  Cheick Doucoure **67.00**  ·  Adam Wharton **81.00**  ·  Chris Richards **13.00**  ·  Daichi Kamada **51.00**  ·  Eddie Nketiah **15.00**  ·  Jefferson Lerma **26.00**  ·  Taiwo Awoniyi **8.00**  ·  Tyrick Mitchell **81.00**  ·  Will Hughes **81.00**  ·  Sebastian Williams **41.00**  ·  Axel Disasi **23.00**  ·  Nathanael James Kalembo **67.00**  ·  Ethan Pinnock **15.00**  ·  Dwight McNeil **41.00**  ·  Ben Chilwell **51.00**  ·  Loum Tchaouna **34.00**  ·  Yeremy Pino **29.00**  ·  Honest Ahanor **23.00**  ·  Jorgen Larsen **9.50**
+- **Home Player Shots:** Ellis Simms - 1 **1.02**  ·  Sidiki Cherif - 1 **1.05**  ·  Taiwo Awoniyi - 1 **1.03**  ·  Brandon Thomas-Asante - 1 **1.06**  ·  Ephron Mason-Clark - 1 **1.07**  ·  Gustavo Hamer - 1 **1.11**  ·  Victor Torp - 1 **1.11**  ·  Jack Rudoni - 1 **1.06**  ·  Loum Tchaouna - 1 **1.08**  ·  Tatsuhiro Sakamoto - 1 **1.25**  ·  Frank Onyeka - 1 **1.36**  ·  Caleb Yirenkyi - 1 **1.25**  ·  Kaine Kesler-Hayden - 1 **1.33**  ·  Bobby Thomas - 1 **1.30**  ·  Matt Grimes - 1 **1.67**  ·  Milan van Ewijk - 1 **1.80**  ·  Jay Dasilva - 1 **2.00**  ·  Joel Latibeaudiere - 1 **2.00**  ·  Ellis Simms - 2 **1.17**  ·  Sidiki Cherif - 2 **1.25**  ·  Taiwo Awoniyi - 2 **1.20**  ·  Brandon Thomas-Asante - 2 **1.30**  ·  Ephron Mason-Clark - 2 **1.36**  ·  Gustavo Hamer - 2 **1.53**  ·  Victor Torp - 2 **1.53**  ·  Jack Rudoni - 2 **1.30**  ·  Loum Tchaouna - 2 **1.40**  ·  Tatsuhiro Sakamoto - 2 **2.10**  ·  Frank Onyeka - 2 **2.62**  ·  Caleb Yirenkyi - 2 **2.10**  ·  Kaine Kesler-Hayden - 2 **2.38**  ·  Bobby Thomas - 2 **2.25**  ·  Matt Grimes - 2 **4.00**  ·  Milan van Ewijk - 2 **4.33**  ·  Jay Dasilva - 2 **5.50**  ·  Joel Latibeaudiere - 2 **5.50**  ·  Ellis Simms - 3 **1.53**  ·  Sidiki Cherif - 3 **1.73**  ·  Taiwo Awoniyi - 3 **1.62**  ·  Brandon Thomas-Asante - 3 **1.91**  ·  Ephron Mason-Clark - 3 **2.00**  ·  Gustavo Hamer - 3 **2.50**  ·  Victor Torp - 3 **2.50**  ·  Jack Rudoni - 3 **1.83**  ·  Loum Tchaouna - 3 **2.20**  ·  Tatsuhiro Sakamoto - 3 **4.33**  ·  Frank Onyeka - 3 **6.00**  ·  Caleb Yirenkyi - 3 **4.33**  ·  Kaine Kesler-Hayden - 3 **5.50**  ·  Bobby Thomas - 3 **5.00**  ·  Matt Grimes - 3 **11.00**  ·  Milan van Ewijk - 3 **13.00**  ·  Jay Dasilva - 3 **19.00**  ·  Joel Latibeaudiere - 3 **19.00**  ·  Ellis Simms - 4 **2.20**  ·  Sidiki Cherif - 4 **2.75**  ·  Taiwo Awoniyi - 4 **2.50**  ·  Brandon Thomas-Asante - 4 **3.25**  ·  Ephron Mason-Clark - 4 **3.50**  ·  Gustavo Hamer - 4 **4.50**  ·  Victor Torp - 4 **4.50**  ·  Jack Rudoni - 4 **3.25**  ·  Loum Tchaouna - 4 **4.00**  ·  Tatsuhiro Sakamoto - 4 **10.00**  ·  Frank Onyeka - 4 **15.00**  ·  Caleb Yirenkyi - 4 **10.00**  ·  Kaine Kesler-Hayden - 4 **13.00**  ·  Bobby Thomas - 4 **13.00**  ·  Ellis Simms - 5 **3.75**  ·  Sidiki Cherif - 5 **5.00**  ·  Taiwo Awoniyi - 5 **4.00**  ·  Brandon Thomas-Asante - 5 **6.00**  ·  Ephron Mason-Clark - 5 **7.00**  ·  Gustavo Hamer - 5 **10.00**  ·  Victor Torp - 5 **10.00**  ·  Jack Rudoni - 5 **5.50**  ·  Loum Tchaouna - 5 **8.00**  ·  Tatsuhiro Sakamoto - 5 **21.00**  ·  Ellis Simms - 6 **6.50**  ·  Sidiki Cherif - 6 **10.00**  ·  Taiwo Awoniyi - 6 **8.00**  ·  Brandon Thomas-Asante - 6 **13.00**  ·  Ephron Mason-Clark - 6 **15.00**  ·  Gustavo Hamer - 6 **21.00**  ·  Victor Torp - 6 **21.00**  ·  Jack Rudoni - 6 **11.00**  ·  Loum Tchaouna - 6 **17.00**  ·  Ellis Simms - 7 **13.00**  ·  Sidiki Cherif - 7 **19.00**  ·  Taiwo Awoniyi - 7 **15.00**  ·  Brandon Thomas-Asante - 7 **21.00**  ·  Ephron Mason-Clark - 7 **21.00**  ·  Ellis Simms - 8 **21.00**  ·  Taiwo Awoniyi - 8 **21.00**  ·  Yann Gboho - 1 **1.02**  ·  Yann Gboho - 2 **1.17**  ·  Yann Gboho - 3 **1.53**  ·  Yann Gboho - 4 **2.20**  ·  Yann Gboho - 5 **3.75**  ·  Yann Gboho - 6 **6.50**  ·  Yann Gboho - 7 **13.00**  ·  Stephen Mfuni - 1 **1.67**  ·  Stephen Mfuni - 2 **4.00**  ·  Stephen Mfuni - 3 **11.00**  ·  Caleb Yirenkyi - 5 **21.00**  ·  Jack Rudoni - 7 **21.00**  ·  Ethan Pinnock - 1 **1.80**  ·  Ethan Pinnock - 2 **4.33**  ·  Ethan Pinnock - 3 **13.00**  ·  Bobby Thomas - 5 **21.00**  ·  Yann Gboho - 8 **21.00**
+- **Away Player Shots:** Dario Osorio - 2 **1.80**  ·  Dario Osorio - 3 **3.40**  ·  Dario Osorio - 4 **7.00**  ·  Dario Osorio - 5 **15.00**  ·  Dario Osorio - 1 **1.18**  ·  Ben Chilwell - 1 **1.57**  ·  Ben Chilwell - 2 **3.50**  ·  Ben Chilwell - 3 **10.00**  ·  Ben Chilwell - 4 **21.00**  ·  Quinten Timber - 1 **1.36**  ·  Quinten Timber - 2 **2.62**  ·  Quinten Timber - 3 **6.00**  ·  Quinten Timber - 4 **15.00**  ·  Jorgen Larsen - 1 **1.03**  ·  Eddie Nketiah - 1 **1.05**  ·  Evann Guessand - 1 **1.07**  ·  Ismaila Sarr - 1 **1.06**  ·  Yeremy Pino - 1 **1.08**  ·  Zavier Gozo - 1 **1.14**  ·  Dwight McNeil - 1 **1.25**  ·  Adam Wharton - 1 **1.50**  ·  Daichi Kamada - 1 **1.25**  ·  Cheick Doucoure - 1 **1.57**  ·  Jefferson Lerma - 1 **1.53**  ·  Anan Khalaili - 1 **1.25**  ·  Oscar Mingueza - 1 **1.67**  ·  Will Hughes - 1 **1.80**  ·  Chris Richards - 1 **1.83**  ·  Tyrick Mitchell - 1 **1.62**  ·  Jaydee Canvot - 1 **2.00**  ·  Jorgen Larsen - 2 **1.20**  ·  Eddie Nketiah - 2 **1.25**  ·  Evann Guessand - 2 **1.36**  ·  Ismaila Sarr - 2 **1.30**  ·  Yeremy Pino - 2 **1.40**  ·  Zavier Gozo - 2 **1.62**  ·  Dwight McNeil - 2 **2.10**  ·  Adam Wharton - 2 **3.25**  ·  Daichi Kamada - 2 **2.10**  ·  Cheick Doucoure - 2 **3.50**  ·  Jefferson Lerma - 2 **3.40**  ·  Anan Khalaili - 2 **2.10**  ·  Oscar Mingueza - 2 **4.00**  ·  Will Hughes - 2 **4.33**  ·  Chris Richards - 2 **5.00**  ·  Tyrick Mitchell - 2 **3.75**  ·  Jaydee Canvot - 2 **5.50**  ·  Jorgen Larsen - 3 **1.62**  ·  Eddie Nketiah - 3 **1.73**  ·  Evann Guessand - 3 **2.00**  ·  Ismaila Sarr - 3 **1.91**  ·  Yeremy Pino - 3 **2.10**  ·  Zavier Gozo - 3 **2.75**  ·  Dwight McNeil - 3 **4.33**  ·  Adam Wharton - 3 **8.00**  ·  Daichi Kamada - 3 **4.33**  ·  Cheick Doucoure - 3 **10.00**  ·  Jefferson Lerma - 3 **9.00**  ·  Anan Khalaili - 3 **4.33**  ·  Oscar Mingueza - 3 **11.00**  ·  Will Hughes - 3 **13.00**  ·  Chris Richards - 3 **15.00**  ·  Tyrick Mitchell - 3 **10.00**  ·  Jaydee Canvot - 3 **19.00**  ·  Jorgen Larsen - 4 **2.50**  ·  Eddie Nketiah - 4 **2.75**  ·  Evann Guessand - 4 **3.50**  ·  Ismaila Sarr - 4 **3.25**  ·  Yeremy Pino - 4 **3.75**  ·  Zavier Gozo - 4 **5.50**  ·  Dwight McNeil - 4 **10.00**  ·  Adam Wharton - 4 **21.00**  ·  Daichi Kamada - 4 **10.00**  ·  Jefferson Lerma - 4 **21.00**  ·  Jorgen Larsen - 5 **4.00**  ·  Eddie Nketiah - 5 **5.00**  ·  Evann Guessand - 5 **7.00**  ·  Ismaila Sarr - 5 **6.00**  ·  Yeremy Pino - 5 **8.00**  ·  Zavier Gozo - 5 **13.00**  ·  Jorgen Larsen - 6 **8.00**  ·  Eddie Nketiah - 6 **10.00**  ·  Evann Guessand - 6 **15.00**  ·  Ismaila Sarr - 6 **13.00**  ·  Yeremy Pino - 6 **15.00**  ·  Jorgen Larsen - 7 **15.00**  ·  Cheick Doucoure - 4 **21.00**  ·  Tyrick Mitchell - 4 **21.00**  ·  Anan Khalaili - 4 **10.00**  ·  Anan Khalaili - 5 **21.00**  ·  Daichi Kamada - 5 **21.00**  ·  Zavier Gozo - 6 **21.00**  ·  Honest Ahanor - 1 **2.00**  ·  Honest Ahanor - 2 **5.50**  ·  Honest Ahanor - 3 **19.00**  ·  Eddie Nketiah - 7 **19.00**  ·  Axel Disasi - 1 **2.38**  ·  Axel Disasi - 2 **8.00**  ·  Axel Disasi - 3 **21.00**  ·  Dwight McNeil - 5 **21.00**  ·  Yeremy Pino - 7 **21.00**  ·  Evann Guessand - 7 **21.00**  ·  Ismaila Sarr - 7 **21.00**  ·  Jorgen Larsen - 8 **21.00**  ·  Sebastian Williams - 1 **1.50**  ·  Nathanael James Kalembo - 1 **1.67**  ·  Sebastian Williams - 2 **3.25**  ·  Nathanael James Kalembo - 2 **4.00**  ·  Sebastian Williams - 3 **8.00**  ·  Nathanael James Kalembo - 3 **11.00**  ·  Sebastian Williams - 4 **21.00**
+- **Anytime Goal Scorer:** Zavier Gozo **4.33**  ·  Quinten Timber **7.50**  ·  Anan Khalaili **5.50**  ·  Dario Osorio **4.75**  ·  Caleb Yirenkyi **5.50**  ·  Evann Guessand **3.40**  ·  Oscar Mingueza **9.00**  ·  Ismaila Sarr **3.20**  ·  Frank Onyeka **7.50**  ·  Stephen Mfuni **9.00**  ·  Brandon Thomas-Asante **3.20**  ·  Ellis Simms **2.75**  ·  Yann Gboho **2.75**  ·  Matt Grimes **9.00**  ·  Ephron Mason-Clark **3.40**  ·  Jack Rudoni **3.50**  ·  Tatsuhiro Sakamoto **5.50**  ·  Victor Torp **4.00**  ·  Milan van Ewijk **10.00**  ·  Bobby Thomas **8.00**  ·  Jay Dasilva **12.00**  ·  Joel Latibeaudiere **12.00**  ·  Kaine Kesler-Hayden **6.00**  ·  Gustavo Hamer **4.00**  ·  Sidiki Cherif **2.88**  ·  Jaydee Canvot **12.00**  ·  Cheick Doucoure **8.00**  ·  Adam Wharton **9.00**  ·  Chris Richards **12.00**  ·  Daichi Kamada **5.50**  ·  Eddie Nketiah **2.88**  ·  Jefferson Lerma **7.50**  ·  Taiwo Awoniyi **2.50**  ·  Tyrick Mitchell **10.00**  ·  Will Hughes **10.00**  ·  Sebastian Williams **7.50**  ·  Axel Disasi **15.00**  ·  Nathanael James Kalembo **9.00**  ·  Ethan Pinnock **10.00**  ·  Dwight McNeil **5.50**  ·  Ben Chilwell **8.00**  ·  Loum Tchaouna **4.00**  ·  Yeremy Pino **4.75**  ·  Honest Ahanor **12.00**  ·  Jorgen Larsen **2.50**
+- **Player to Score or Assist:** Zavier Gozo **2.75**  ·  Quinten Timber **3.40**  ·  Anan Khalaili **3.25**  ·  Dario Osorio **2.88**  ·  Caleb Yirenkyi **3.40**  ·  Evann Guessand **2.38**  ·  Oscar Mingueza **4.00**  ·  Ismaila Sarr **2.30**  ·  Frank Onyeka **4.00**  ·  Stephen Mfuni **6.00**  ·  Brandon Thomas-Asante **2.30**  ·  Ellis Simms **2.25**  ·  Yann Gboho **2.00**  ·  Matt Grimes **4.75**  ·  Ephron Mason-Clark **2.20**  ·  Jack Rudoni **2.30**  ·  Tatsuhiro Sakamoto **2.88**  ·  Victor Torp **2.40**  ·  Milan van Ewijk **4.33**  ·  Bobby Thomas **5.00**  ·  Jay Dasilva **6.00**  ·  Joel Latibeaudiere **7.50**  ·  Kaine Kesler-Hayden **3.40**  ·  Gustavo Hamer **2.25**  ·  Sidiki Cherif **2.25**  ·  Jaydee Canvot **7.50**  ·  Cheick Doucoure **4.75**  ·  Adam Wharton **4.33**  ·  Chris Richards **7.50**  ·  Daichi Kamada **3.25**  ·  Eddie Nketiah **2.25**  ·  Jefferson Lerma **4.00**  ·  Taiwo Awoniyi **2.10**  ·  Tyrick Mitchell **5.50**  ·  Will Hughes **4.75**  ·  Sebastian Williams **3.40**  ·  Axel Disasi **10.00**  ·  Nathanael James Kalembo **4.00**  ·  Ethan Pinnock **7.00**  ·  Dwight McNeil **2.88**  ·  Ben Chilwell **3.75**  ·  Loum Tchaouna **2.88**  ·  Yeremy Pino **2.62**  ·  Honest Ahanor **7.00**  ·  Jorgen Larsen **2.05**
 
 ## Estadísticas de equipo
 | | Coventry (total) | Coventry en casa | Crystal Palace (total) | Crystal Palace fuera |
@@ -180,36 +183,38 @@ _Goles esperados: local 1,54 · visitante 1,62 · córners esperados 8,8._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 40% | 35% | 37% | 2.70 | +1% |
-| 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
-| 1X2: 1 | 37% | 38% | 37% | 2.50 | -7% |
-| Doble oportunidad: X2 | 63% | 62% | 63% | 1.50 | -6% |
+| 1X2: 2 | 40% | 33% | 36% | 2.88 | +5% |
+| 1X2: X | 24% | 27% | 25% | 3.50 | -12% |
+| 1X2: 1 | 37% | 40% | 38% | 2.35 | -10% |
+| Doble oportunidad: X2 | 63% | 60% | 62% | 1.57 | -3% |
 | Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 60% | 65% | 62% | 1.44 | -10% |
-| Ambos marcan: No | 37% | 42% | 40% | 2.20 | -13% |
-| Ambos marcan: Sí | 63% | 58% | 60% | 1.62 | -2% |
-| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 61% | 55% | 58% | 1.73 | +0% |
-| Goles más/menos: Más de 3.5 | 39% | 34% | 37% | 2.75 | +1% |
-| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 2.5 | 39% | 45% | 42% | 2.10 | -12% |
-| Goles más/menos: Menos de 3.5 | 61% | 66% | 63% | 1.44 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
+| Doble oportunidad: 1X | 60% | 67% | 64% | 1.40 | -11% |
+| Ambos marcan: No | 37% | 41% | 39% | 2.25 | -12% |
+| Ambos marcan: Sí | 63% | 59% | 61% | 1.57 | -4% |
+| Goles más/menos: Más de 1.5 | 82% | 79% | 81% | 1.20 | -3% |
+| Goles más/menos: Más de 2.5 | 61% | 57% | 59% | 1.67 | -1% |
+| Goles más/menos: Más de 3.5 | 39% | 36% | 38% | 2.62 | -1% |
+| Goles más/menos: Más de 4.5 | 21% | 21% | 21% | 4.50 | -5% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles más/menos: Menos de 2.5 | 39% | 43% | 41% | 2.20 | -10% |
+| Goles más/menos: Menos de 3.5 | 61% | 64% | 62% | 1.50 | -6% |
+| Goles más/menos: Menos de 4.5 | 79% | 79% | 79% | 1.20 | -5% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
-| Goles del local: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles del local: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del local: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles del local: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
+| Goles del local: Más de 0.5 | 79% | 78% | 78% | 1.20 | -6% |
+| Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
+| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
+| Goles del local: Menos de 0.5 | 21% | 22% | 22% | 4.33 | -7% |
+| Goles del local: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
+| Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles del visitante: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles del visitante: Más de 1.5 | 48% | 42% | 45% | 2.20 | -0% |
 | Goles del visitante: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
 | Goles del visitante: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
-| 1X2 descanso: 2 | 32% | 29% | 30% | 3.20 | -3% |
-| 1X2 descanso: X | 39% | 40% | 39% | 2.30 | -9% |
-| 1X2 descanso: 1 | 30% | 31% | 30% | 3.00 | -9% |
+| 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -3% |
+| 1X2 descanso: X | 39% | 40% | 39% | 2.30 | -10% |
+| 1X2 descanso: 1 | 30% | 32% | 31% | 2.88 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._
