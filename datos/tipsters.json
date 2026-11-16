@@ -2841,5 +2841,25 @@
    "Solo lo enseñaron ya ganado: no se pudo copiar a tiempo. Liga femenina inglesa."
   ],
   "estado": "verde"
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/86931",
+  "dia": "2026-11-16",
+  "local": "FYR Macedonia",
+  "visitante": "Slovenia",
+  "partido_id": 1545662,
+  "texto": "Gana el Eslovenia",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.61,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.53,
+   "prob_cuota": 0.621
+  }
  }
 ]

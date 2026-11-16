@@ -6313,7 +6313,7 @@
       1.82,
       1.73,
       1.88,
-      1.85,
+      1.95,
       1.83
     ],
     "solo_en": [
@@ -6325,7 +6325,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T03:07"
   },
   {
     "id": "2026-11-16-loca-th-0500-ganaambos",

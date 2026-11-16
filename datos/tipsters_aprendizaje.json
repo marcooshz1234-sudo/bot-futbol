@@ -142,6 +142,15 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.524
   },
+  "AllSportsPicks ⚽🏀🎾": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.654
+  },
   "AllSportsPicks": {
    "n": 1,
    "verdes": 0,
@@ -150,15 +159,6 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.602
-  },
-  "AllSportsPicks ⚽🏀🎾": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.654
   }
  },
  "mercado": {
@@ -190,7 +190,7 @@
    "prob_cuota": 3.734
   },
   "Match Winner Away": {
-   "n": 6,
+   "n": 7,
    "verdes": 4,
    "rojos": 2,
    "nulos": 0,
@@ -756,11 +756,18 @@
    "unidades": 0.81,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.552
+  },
+  "Slovenia": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 70,
+   "n": 71,
    "verdes": 40,
    "rojos": 8,
    "nulos": 0,
@@ -834,7 +841,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 35,
+   "n": 36,
    "verdes": 19,
    "rojos": 10,
    "nulos": 0,
@@ -888,7 +895,7 @@
    "prob_cuota": 11.701
   },
   "UEFA Nations League": {
-   "n": 40,
+   "n": 41,
    "verdes": 28,
    "rojos": 7,
    "nulos": 0,
@@ -944,7 +951,7 @@
    "prob_cuota": 11.907
   },
   "visitante": {
-   "n": 27,
+   "n": 28,
    "verdes": 19,
    "rojos": 6,
    "nulos": 0,
@@ -964,7 +971,7 @@
    "prob_cuota": 22.653
   },
   "—": {
-   "n": 31,
+   "n": 32,
    "verdes": 10,
    "rojos": 8,
    "nulos": 0,
@@ -1029,7 +1036,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 106,
+   "n": 107,
    "verdes": 56,
    "rojos": 19,
    "nulos": 0,
