@@ -169,6 +169,7 @@ def main():
     try:
         import ajustes as AJ   # 10/11: ficha del Verificador: rojos del pick del día sí / no
         nuevos_rojos = rojos(d, hechos, ahora, ids_cola) if AJ.valor("rojos_pick") else []
+        nuevos_rojos += casi_por_una(d, hechos, ahora, ids_cola)
     except Exception as e:
         print("rojos:", e)
         nuevos_rojos = []
@@ -386,6 +387,53 @@ def rojos(d, hechos, ahora, ids_cola):
         nuevos.append({"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
                        "origen": "bot", "directo": True, "resultado": "rojo", "rojo_de": p["id"], "requiere_ok": True,
                        "sin_instagram": True})
+    return nuevos
+
+
+CASI_MIN = 30   # 16/11 (Marcos: «si alguna muy gorda falla por uno, se sube»): «muy gorda» = cuota 30 o más
+
+
+def cuota_combi(p):
+    """Cuota de la combi: el producto de sus patas si todas la traen; si no, la publicada."""
+    import math
+    picks = p.get("picks") or []
+    if picks and all(x.get("cuota") for x in picks):
+        return round(math.prod(float(x["cuota"]) for x in picks), 2)
+    return float(p.get("cuota") or 0)
+
+
+def casi_por_una(d, hechos, ahora, ids_cola):
+    """16/11 (Marcos): una combi muy gorda (≥ x30) que se cae por UNA pata se sube a Threads («se escapó por una»).
+    Todas las demás en verde, todos los partidos acabados. Pasa por su «✅ Publicar», como los rojos."""
+    nuevos = []
+    for p in d.get("publicados_hoy", []):
+        pid0 = p["id"]
+        clave = "casi-" + pid0
+        picks = p.get("picks") or []
+        if clave in hechos or p.get("estado") != "rojo" or len(picks) < 3 or "-boleto-" in pid0:
+            continue
+        if not re.search(r"-loca-th-|-combi-", pid0) or re.search(r"lista|ganadores|marcadores", pid0):
+            continue
+        rojas = [x for x in picks if x.get("estado") == "rojo"]
+        resto = [x for x in picks if x.get("estado") != "rojo"]
+        if len(rojas) != 1 or not all(x.get("estado") in ("verde", "anulada") for x in resto):
+            continue
+        if not all(x.get("definitivo") or x.get("estado_partido") in TERMINADO for x in picks):
+            continue
+        cuota = cuota_combi(p)
+        if cuota < CASI_MIN:
+            continue
+        verdes = sum(x.get("estado") == "verde" for x in resto)
+        c = f"{cuota:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+        texto = (f"😱 SE NOS ESCAPÓ POR UNA 😱\n\n💎 Combi x{c} · {verdes} de {len(picks)} ✅\n"
+                 f"❌ Solo falló: {rojas[0].get('texto', '')}\n\n🔥 La próxima entra. ¿Os subís? 👇")
+        hechos.add(clave)
+        nid = f"{ahora:%Y-%m-%d}-casi-auto-{pid0[-40:]}"
+        if nid in ids_cola:
+            continue
+        nuevos.append({"id": nid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
+                       "origen": "bot", "directo": True, "resultado": "casi", "casi_de": pid0, "requiere_ok": True,
+                       "solo_en": ["threads"]})
     return nuevos
 
 

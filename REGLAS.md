@@ -167,6 +167,7 @@
 - 👤 Con muchas cosas que decidir: preguntar con opciones.
 - 👤 Todo cambio, a la bitácora (`informes/bitacora/AAAA-MM.md`).
 - 🤖 **App «Mis combis» y widget de la pantalla de bloqueo: solo las combis que pasa Marcos** (16/11, Marcos: «quiero que ahí solo se vean las que yo te paso»): las de sus capturas/notas de bet365 (origen «Marcos…»); las que propone Claude o el bot no salen (mis_datos.es_suya).
+- ⚙️ **Combi muy gorda que se cae por UNA → se sube a Threads** (16/11, Marcos: «si alguna muy gorda falla por uno, se sube»): cuota ≥ 30, todas las demás en verde y los partidos acabados; «😱 SE NOS ESCAPÓ POR UNA» con la que falló. Pasa por su «✅ Publicar» (verdes_auto.casi_por_una). No listas, ni ganadores, ni boletos.
 - 👤 **Varios picks del mismo partido en Telegram, sin tope** (16/11, Marcos: «si las cosas son buenas no pasa nada»; le gustaron los 3 de Alemania–Países Bajos). No proponer límite por partido.
 - 👤 **Navegador (su Chrome, Threads, Telegram web): solo lo de hoy** (16/11, Marcos: «estás mirando 4 días atrás… me quedo sin crédito»). Nada de scripts que bajen solos ni bucles de scroll: una lectura de la pantalla, como mucho 2-3 desplazamientos, y parar en cuanto aparezca un post de ayer. Si Marcos dice «para», no queda nada en marcha: cerrar la pestaña.
 
