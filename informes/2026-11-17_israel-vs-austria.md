@@ -1,13 +1,13 @@
 # Israel – Austria
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Nagyerdei Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 16:12_
 
-- **1X2:** 1 **4.10**  ·  X **3.80**  ·  2 **1.80**
-- **Doble oportunidad:** 1X **2.05**  ·  12 **1.25**  ·  X2 **1.20**
+- **1X2:** 1 **4.20**  ·  X **3.80**  ·  2 **1.75**
+- **Doble oportunidad:** 1X **1.95**  ·  12 **1.25**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -23,28 +23,34 @@ _Actualizadas: 16/11 09:51_
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.12** · menos **6.00**
+    - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.85** · menos **1.95**
 - **Córners 1X2:** 1 **2.88**  ·  X **8.00**  ·  2 **1.57**
-- **1X2 descanso:** 1 **4.50**  ·  X **2.38**  ·  2 **2.30**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.38**  ·  2 **2.30**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **2.38**  ·  2 **1.40**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.50**
+- **To Win Either Half:** 1 **2.38**  ·  2 **1.44**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.62**
 - **Win Both Halves:** 1 **17.00**  ·  2 **5.00**
 - **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.40**  ·  Home/No **9.00**  ·  Draw/No **13.00**  ·  Away/No **3.40**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 3,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
-- **Anytime Goal Scorer:** Yarin Levi **7.50**  ·  Guy Mizrahi **10.00**  ·  Oscar Gloukh **6.00**  ·  David Affengruber **8.00**  ·  Eliazar Dasa **15.00**  ·  Dor Peretz **6.00**  ·  Manor Solomon **4.75**  ·  Raz Shlomo **17.00**  ·  Idan Nachmias **17.00**  ·  Liel Abada **3.75**  ·  Omri Gandelman **6.00**  ·  Ilay Feingold **15.00**  ·  Anan Khalaili **4.75**  ·  Gabi Kanichowsky **6.50**  ·  Marco Grull **2.75**  ·  Zahi Ahmed **3.75**  ·  Michael Svoboda **9.00**  ·  Luca Weinhandl **5.50**  ·  Kevin Danso **10.00**  ·  Sascha Horvath **5.50**  ·  Christoph Lang **2.75**  ·  Xaver Schlager **6.00**  ·  Yusuf Demir **2.60**  ·  Yanik Spalt **9.00**  ·  Dor Turgeman **3.40**  ·  Roy Revivo **12.00**  ·  Felix Bacher **8.00**  ·  Raul Florucz **2.25**  ·  Orian Goren **7.50**  ·  Niv Yehoshua **9.00**  ·  Noam Shtaifman **12.00**  ·  Alexander Prass **3.75**  ·  Yarden Shua **4.33**  ·  Konrad Laimer **6.00**  ·  Christoph Baumgartner **2.75**  ·  Nicolas Seiwald **6.50**  ·  Carney Chukwuemeka **3.40**  ·  Ethane Azoulay **6.00**  ·  Stefan Posch **8.00**  ·  Nikita Stoinov **15.00**  ·  Phillipp Mwene **8.00**  ·  Sasa Kalajdzic **2.25**  ·  Michael Gregoritsch **2.25**  ·  Philipp Lienhart **8.00**  ·  Romano Schmid **4.33**  ·  Chukwubuike Adamu **2.40**  ·  Idan Gorno **3.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
+- **Anytime Goal Scorer:** Yarin Levi **7.50**  ·  Guy Mizrahi **9.00**  ·  Oscar Gloukh **6.00**  ·  David Affengruber **8.00**  ·  Eliazar Dasa **15.00**  ·  Dor Peretz **6.00**  ·  Manor Solomon **4.33**  ·  Raz Shlomo **17.00**  ·  Idan Nachmias **17.00**  ·  Liel Abada **3.75**  ·  Omri Gandelman **6.00**  ·  Ilay Feingold **15.00**  ·  Anan Khalaili **4.33**  ·  Gabi Kanichowsky **6.50**  ·  Marco Grull **2.75**  ·  Zahi Ahmed **3.75**  ·  Michael Svoboda **9.00**  ·  Luca Weinhandl **5.50**  ·  Kevin Danso **10.00**  ·  Sascha Horvath **5.50**  ·  Christoph Lang **2.88**  ·  Xaver Schlager **6.00**  ·  Yusuf Demir **2.60**  ·  Yanik Spalt **9.00**  ·  Dor Turgeman **3.20**  ·  Roy Revivo **12.00**  ·  Felix Bacher **8.00**  ·  Raul Florucz **2.25**  ·  Orian Goren **7.50**  ·  Niv Yehoshua **8.00**  ·  Noam Shtaifman **12.00**  ·  Alexander Prass **4.00**  ·  Yarden Shua **4.00**  ·  Konrad Laimer **6.00**  ·  Christoph Baumgartner **2.88**  ·  Nicolas Seiwald **6.50**  ·  Carney Chukwuemeka **3.40**  ·  Ethane Azoulay **6.00**  ·  Stefan Posch **8.00**  ·  Nikita Stoinov **15.00**  ·  Phillipp Mwene **8.00**  ·  Sasa Kalajdzic **2.25**  ·  Michael Gregoritsch **2.25**  ·  Philipp Lienhart **8.00**  ·  Romano Schmid **4.33**  ·  Chukwubuike Adamu **2.40**  ·  Idan Gorno **3.00**
 
 ## Estadísticas de equipo
 | | Israel (total) | Israel en casa | Austria (total) | Austria fuera |
@@ -182,12 +188,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 69% | 52% | 61% | 1.80 | +9% |
-| 1X2: X | 20% | 25% | 22% | 3.80 | -15% |
-| 1X2: 1 | 11% | 23% | 17% | 4.10 | -30% |
-| Doble oportunidad: X2 | 89% | 79% | 84% | 1.20 | +0% |
+| 1X2: 2 | 69% | 53% | 61% | 1.75 | +7% |
+| 1X2: X | 20% | 25% | 22% | 3.80 | -16% |
+| 1X2: 1 | 11% | 22% | 17% | 4.20 | -30% |
+| Doble oportunidad: X2 | 89% | 77% | 83% | 1.22 | +1% |
 | Doble oportunidad: 12 | 80% | 75% | 78% | 1.25 | -3% |
-| Doble oportunidad: 1X | 31% | 46% | 39% | 2.05 | -21% |
+| Doble oportunidad: 1X | 31% | 48% | 40% | 1.95 | -23% |
 | Ambos marcan: No | 58% | 42% | 50% | 2.20 | +11% |
 | Ambos marcan: Sí | 42% | 58% | 50% | 1.62 | -20% |
 | Goles más/menos: Más de 1.5 | 74% | 78% | 76% | 1.20 | -8% |
@@ -208,10 +214,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 32% | 29% | 31% | 3.25 | -1% |
 | Goles del visitante: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
 | Goles del visitante: Menos de 2.5 | 68% | 71% | 69% | 1.33 | -8% |
-| Córners más/menos: Más de 8.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Córners más/menos: Menos de 8.5 | 47% | 50% | 49% | 1.83 | -11% |
+| Córners más/menos: Más de 8.5 | 53% | 51% | 52% | 1.85 | -4% |
+| Córners más/menos: Menos de 8.5 | 47% | 49% | 48% | 1.95 | -7% |
 | 1X2 descanso: 2 | 48% | 40% | 44% | 2.30 | +2% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
-| 1X2 descanso: 1 | 12% | 21% | 16% | 4.50 | -27% |
+| 1X2 descanso: 1 | 12% | 21% | 17% | 4.33 | -28% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

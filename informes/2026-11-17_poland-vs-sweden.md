@@ -1,12 +1,12 @@
 # Poland – Sweden
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Śląska  Wrocław
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 16:12_
 
-- **1X2:** 1 **2.15**  ·  X **3.60**  ·  2 **3.00**
+- **1X2:** 1 **2.20**  ·  X **3.60**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
@@ -22,7 +22,7 @@ _Actualizadas: 16/11 09:51_
 - **Goles del local:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **4.00** · menos **1.22**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.28** · menos **3.50**
@@ -31,7 +31,7 @@ _Actualizadas: 16/11 09:51_
 - **Córners más/menos:**
     - 8,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **1.83**  ·  X **7.50**  ·  2 **2.30**
-- **1X2 descanso:** 1 **2.75**  ·  X **2.38**  ·  2 **3.50**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.38**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -49,7 +49,7 @@ _Actualizadas: 16/11 09:51_
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
-- **Anytime Goal Scorer:** Genesis Antwi **8.00**  ·  Kamil Piatkowski **15.00**  ·  Gabriel Gudmundsson **10.00**  ·  Sebastian Nanasi **3.60**  ·  Daniel Svensson **12.00**  ·  Jesper Karlstrom **9.00**  ·  Victor Lindelof **12.00**  ·  Viktor Gyokeres **2.88**  ·  Felix Beijmo **12.00**  ·  Benjamin Nygren **3.50**  ·  Arkadiusz Pyrka **9.00**  ·  Karol Swiderski **3.00**  ·  Sebastian Szymanski **3.40**  ·  Kacper Potulski **12.00**  ·  Michal Skoras **5.50**  ·  Tomasz Kedziora **10.00**  ·  Gustaf Lagerbielke **12.00**  ·  Patrik Walemark **3.50**  ·  Elliot Stroud **5.50**  ·  Lukasz Poreba **6.50**  ·  Mateusz Zukowski **2.50**  ·  Oskar Kubiak **4.33**  ·  Wiktor Nowak **5.50**  ·  Anthony Elanga **4.75**  ·  Robert Lewandowski **2.05**  ·  Marcel Regula **5.50**  ·  Matty Cash **6.50**  ·  Alexander Isak **2.88**  ·  Yasin Ayari **6.50**  ·  Jan Bednarek **12.00**  ·  Dejan Kulusevski **3.60**  ·  Nicola Zalewski **4.33**  ·  Hugo Larsson **6.00**  ·  Adrian Benedyczak **2.38**  ·  Kacper Urbanski **4.33**  ·  Alieu Njie **4.75**  ·  Piotr Zielinski **4.00**  ·  Eric Smith **12.00**  ·  Jakub Kiwior **15.00**  ·  Hjalmar Ekdal **12.00**  ·  Alexander Bernhardsson **6.00**  ·  Tymoteusz Puchacz **9.00**  ·  Bartosz Mazurek **6.00**
+- **Anytime Goal Scorer:** Genesis Antwi **8.00**  ·  Kamil Piatkowski **15.00**  ·  Gabriel Gudmundsson **10.00**  ·  Sebastian Nanasi **3.60**  ·  Daniel Svensson **12.00**  ·  Jesper Karlstrom **9.00**  ·  Victor Lindelof **12.00**  ·  Viktor Gyokeres **2.88**  ·  Felix Beijmo **12.00**  ·  Benjamin Nygren **3.50**  ·  Arkadiusz Pyrka **9.00**  ·  Karol Swiderski **3.20**  ·  Sebastian Szymanski **3.40**  ·  Kacper Potulski **12.00**  ·  Michal Skoras **5.50**  ·  Tomasz Kedziora **10.00**  ·  Gustaf Lagerbielke **12.00**  ·  Patrik Walemark **3.50**  ·  Elliot Stroud **5.50**  ·  Lukasz Poreba **6.50**  ·  Mateusz Zukowski **2.50**  ·  Oskar Kubiak **4.33**  ·  Wiktor Nowak **5.50**  ·  Anthony Elanga **4.75**  ·  Robert Lewandowski **2.05**  ·  Marcel Regula **5.50**  ·  Alexander Isak **2.88**  ·  Yasin Ayari **6.50**  ·  Jan Bednarek **12.00**  ·  Dejan Kulusevski **3.60**  ·  Nicola Zalewski **4.33**  ·  Hugo Larsson **6.00**  ·  Adrian Benedyczak **2.38**  ·  Kacper Urbanski **4.33**  ·  Alieu Njie **4.75**  ·  Piotr Zielinski **4.00**  ·  Eric Smith **12.00**  ·  Jakub Kiwior **15.00**  ·  Hjalmar Ekdal **12.00**  ·  Alexander Bernhardsson **6.00**  ·  Tymoteusz Puchacz **9.00**  ·  Bartosz Mazurek **6.00**
 
 ## Estadísticas de equipo
 | | Poland (total) | Poland en casa | Sweden (total) | Sweden fuera |
@@ -187,8 +187,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 38% | 31% | 35% | 3.00 | +4% |
-| 1X2: X | 28% | 26% | 27% | 3.60 | -3% |
-| 1X2: 1 | 33% | 43% | 38% | 2.15 | -18% |
+| 1X2: X | 28% | 26% | 27% | 3.60 | -2% |
+| 1X2: 1 | 33% | 43% | 38% | 2.20 | -16% |
 | Doble oportunidad: X2 | 67% | 57% | 62% | 1.67 | +3% |
 | Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -7% |
 | Doble oportunidad: 1X | 62% | 70% | 66% | 1.36 | -11% |
@@ -208,18 +208,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +3% |
 | Goles del local: Más de 0.5 | 67% | 79% | 73% | 1.18 | -14% |
 | Goles del local: Más de 1.5 | 30% | 50% | 40% | 1.83 | -26% |
-| Goles del local: Más de 2.5 | 10% | 23% | 17% | 4.00 | -33% |
+| Goles del local: Más de 2.5 | 10% | 25% | 18% | 3.75 | -34% |
 | Goles del local: Menos de 0.5 | 33% | 21% | 27% | 4.50 | +21% |
 | Goles del local: Menos de 1.5 | 70% | 50% | 60% | 1.83 | +9% |
-| Goles del local: Menos de 2.5 | 90% | 77% | 83% | 1.22 | +2% |
+| Goles del local: Menos de 2.5 | 90% | 75% | 82% | 1.25 | +3% |
 | Goles del visitante: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |
 | Goles del visitante: Más de 1.5 | 34% | 41% | 38% | 2.25 | -16% |
 | Goles del visitante: Menos de 0.5 | 30% | 27% | 28% | 3.50 | -1% |
 | Goles del visitante: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
 | Córners más/menos: Más de 8.5 | 51% | 53% | 52% | 1.80 | -7% |
 | Córners más/menos: Menos de 8.5 | 49% | 47% | 48% | 2.00 | -4% |
-| 1X2 descanso: 2 | 28% | 27% | 27% | 3.50 | -4% |
+| 1X2 descanso: 2 | 28% | 27% | 28% | 3.40 | -6% |
 | 1X2 descanso: X | 46% | 39% | 43% | 2.38 | +2% |
-| 1X2 descanso: 1 | 25% | 34% | 30% | 2.75 | -18% |
+| 1X2 descanso: 1 | 25% | 34% | 30% | 2.75 | -19% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

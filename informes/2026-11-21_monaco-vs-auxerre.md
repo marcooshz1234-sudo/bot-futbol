@@ -1,7 +1,7 @@
 # Monaco – Auxerre
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_

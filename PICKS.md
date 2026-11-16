@@ -1,28 +1,26 @@
 # Picks del Analista
 
-_Generado el 2026-11-16 09:54 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-16 16:18 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Lunes 16/11
 
-**💥 Combi cuota 3-4 · cuota 3,19**
-- Gana el Greece (1,42) · Greece 3/5 · Serbia 5/5
+**💥 Combi cuota 3-4 · cuota 3,06**
 - Dan Ndoye: 2+ tiros (1,30) · Dan Ndoye 5/5
 - Más de 8,5 córners en Estonia–Bulgaria (1,73) · Estonia 4/5 · Bulgaria 4/5
+- Konstantinos Mavropanos: 1+ tiros (1,36) · Konstantinos Mavropanos 5/5
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:45 | Gana el Greece | resultado | 1.42 | 80% | Greece 3/5 · Serbia 5/5 |
 | 20:45 | Dan Ndoye: 2+ tiros | jugador | 1.30 | 100% | Dan Ndoye 5/5 |
 | 18:00 | Más de 8,5 córners en Estonia–Bulgaria | corners | 1.73 | 80% | Estonia 4/5 · Bulgaria 4/5 |
 | 20:45 | Konstantinos Mavropanos: 1+ tiros | jugador | 1.36 | 100% | Konstantinos Mavropanos 5/5 |
-| 16:00 | Gana el Slovakia | resultado | 1.80 | 70% | Kazakhstan 4/5 · Slovakia 3/5 |
 
 ## Martes 17/11
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 20:45 | Portugal hace más tiros a puerta | tiros a puerta | 1.30 | 80% | Wales 4/5 · Portugal 4/5 |
 | 20:45 | Austria hace más córners | corners | 1.57 | 80% | Israel 4/5 · Austria 4/5 |
-| 20:45 | Portugal hace más tiros a puerta | tiros a puerta | 1.36 | 80% | Wales 4/5 · Portugal 4/5 |
 
 ## Viernes 20/11
 

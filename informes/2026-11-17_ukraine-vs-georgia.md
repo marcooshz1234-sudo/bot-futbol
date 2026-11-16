@@ -1,17 +1,17 @@
 # Ukraine – Georgia
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Kosicka futbalova arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 16:12_
 
-- **1X2:** 1 **2.20**  ·  X **3.25**  ·  2 **3.30**
+- **1X2:** 1 **2.15**  ·  X **3.25**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.33** · menos **3.25**
+    - 1,5: más **1.36** · menos **3.00**
     - 2,5: más **2.10** · menos **1.70**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
@@ -38,9 +38,9 @@ _Actualizadas: 16/11 09:51_
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.67**  ·  2 **2.10**
+- **To Win Either Half:** 1 **1.67**  ·  2 **2.20**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
-- **Win Both Halves:** 1 **8.00**  ·  2 **13.00**
+- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **8.50**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
 - **Home Corners Over/Under:**
@@ -184,18 +184,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 30% | 28% | 29% | 3.30 | -3% |
+| 1X2: 2 | 30% | 28% | 29% | 3.40 | -2% |
 | 1X2: X | 35% | 29% | 32% | 3.25 | +4% |
-| 1X2: 1 | 35% | 43% | 39% | 2.20 | -15% |
+| 1X2: 1 | 35% | 44% | 39% | 2.15 | -16% |
 | Doble oportunidad: X2 | 65% | 57% | 61% | 1.67 | +2% |
 | Doble oportunidad: 12 | 65% | 72% | 68% | 1.33 | -9% |
 | Doble oportunidad: 1X | 70% | 72% | 71% | 1.33 | -6% |
 | Ambos marcan: No | 69% | 50% | 60% | 1.83 | +9% |
 | Ambos marcan: Sí | 31% | 50% | 40% | 1.83 | -26% |
-| Goles más/menos: Más de 1.5 | 48% | 71% | 60% | 1.33 | -21% |
+| Goles más/menos: Más de 1.5 | 48% | 69% | 58% | 1.36 | -21% |
 | Goles más/menos: Más de 2.5 | 22% | 45% | 33% | 2.10 | -30% |
 | Goles más/menos: Más de 3.5 | 8% | 25% | 17% | 3.75 | -38% |
-| Goles más/menos: Menos de 1.5 | 52% | 29% | 40% | 3.25 | +32% |
+| Goles más/menos: Menos de 1.5 | 52% | 31% | 42% | 3.00 | +25% |
 | Goles más/menos: Menos de 2.5 | 78% | 55% | 67% | 1.70 | +13% |
 | Goles más/menos: Menos de 3.5 | 92% | 75% | 83% | 1.25 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 51% | 65% | 58% | 1.44 | -17% |

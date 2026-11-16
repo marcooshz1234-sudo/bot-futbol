@@ -1,20 +1,20 @@
 # Juventus W – OH Leuven W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 16:12_
 
 - **1X2:** 1 **1.28**  ·  X **5.00**  ·  2 **10.00**
-- **Doble oportunidad:** 1X **1.10**  ·  12 **1.12**  ·  X2 **2.60**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.14**  ·  X2 **3.50**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.00**
     - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.25** · menos **1.57**
+    - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.08**
+    - 5,5: más **6.50** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -43,9 +43,9 @@ _Actualizadas: 16/11 09:51_
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
 - **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **8.00**
-- **Win Both Halves:** 1 **2.75**  ·  2 **29.00**
-- **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.20**  ·  Draw/No **19.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.00**
+- **Win Both Halves:** 1 **2.75**  ·  2 **34.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **6.50**  ·  Away/Yes **15.00**  ·  Home/No **2.20**  ·  Draw/No **17.00**  ·  Away/No **17.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 5,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
@@ -149,16 +149,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 21% | 9% | 15% | 10.00 | +50% |
 | 1X2: X | 23% | 18% | 21% | 5.00 | +3% |
 | 1X2: 1 | 56% | 72% | 64% | 1.28 | -18% |
-| Doble oportunidad: X2 | 44% | 35% | 39% | 2.60 | +2% |
-| Doble oportunidad: 12 | 77% | 82% | 79% | 1.12 | -11% |
-| Doble oportunidad: 1X | 79% | 83% | 81% | 1.10 | -11% |
+| Doble oportunidad: X2 | 44% | 27% | 35% | 3.50 | +23% |
+| Doble oportunidad: 12 | 77% | 82% | 80% | 1.14 | -9% |
+| Doble oportunidad: 1X | 79% | 91% | 85% | 1.03 | -12% |
 | Ambos marcan: No | 47% | 50% | 48% | 1.83 | -12% |
 | Ambos marcan: Sí | 53% | 50% | 52% | 1.83 | -5% |
 | Goles más/menos: Más de 2.5 | 54% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 3.5 | 32% | 41% | 36% | 2.25 | -18% |
+| Goles más/menos: Más de 3.5 | 32% | 42% | 37% | 2.20 | -19% |
 | Goles más/menos: Más de 4.5 | 16% | 25% | 20% | 3.75 | -24% |
 | Goles más/menos: Menos de 2.5 | 46% | 38% | 42% | 2.50 | +5% |
-| Goles más/menos: Menos de 3.5 | 68% | 59% | 64% | 1.57 | -0% |
+| Goles más/menos: Menos de 3.5 | 68% | 58% | 63% | 1.62 | +2% |
 | Goles más/menos: Menos de 4.5 | 84% | 75% | 80% | 1.25 | -0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 35% | 44% | 40% | 2.10 | -17% |

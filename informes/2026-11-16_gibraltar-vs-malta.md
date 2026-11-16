@@ -1,53 +1,53 @@
 # Gibraltar – Malta
 **Nations League** · League D - 6 · 16/11/2026 20:45 (hora España) · Europa Sports Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 16:11_
 
-- **1X2:** 1 **7.50**  ·  X **3.70**  ·  2 **1.53**
-- **Doble oportunidad:** 1X **2.50**  ·  12 **1.25**  ·  X2 **1.06**
+- **1X2:** 1 **8.00**  ·  X **3.75**  ·  2 **1.50**
+- **Doble oportunidad:** 1X **2.38**  ·  12 **1.28**  ·  X2 **1.07**
 - **Ambos marcan:** Sí **2.62**  ·  No **1.44**
 - **Goles más/menos:**
-    - 0,5: más **1.10** · menos **6.50**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.11** · menos **6.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
     - 3,5: más **4.50** · menos **1.17**
     - 4,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.50** · menos **2.50**
+    - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.50** · menos **1.28**
-    - 2,5: más **8.00** · menos **1.06**
+    - 2,5: más **8.50** · menos **1.05**
 - **Goles del local:**
     - 0,5: más **2.20** · menos **1.62**
     - 1,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **7.50** · menos **1.07**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **8.00** · menos **1.06**
 - **Córners más/menos:**
     - 8,5: más **1.95** · menos **1.85**
-- **Córners 1X2:** 1 **3.40**  ·  X **8.50**  ·  2 **1.44**
-- **1X2 descanso:** 1 **7.50**  ·  X **2.00**  ·  2 **2.05**
+- **Córners 1X2:** 1 **3.40**  ·  X **8.50**  ·  2 **1.40**
+- **1X2 descanso:** 1 **7.50**  ·  X **2.00**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
 - **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
 - **To Win Either Half:** 1 **4.00**  ·  2 **1.33**
 - **To Score In Both Halves By Teams:** 1 **13.00**  ·  2 **3.00**
-- **Win Both Halves:** 1 **34.00**  ·  2 **4.00**
-- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **5.00**  ·  Home/No **11.00**  ·  Draw/No **6.50**  ·  Away/No **2.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **1.80**
+- **Win Both Halves:** 1 **34.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **5.00**  ·  Home/No **10.00**  ·  Draw/No **6.50**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.75**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **1.73**
 - **Home Corners Over/Under:**
     - 3,5: más **2.25** · menos **1.57**
 - **Away Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
-- **Anytime Goal Scorer:** Jake Azzopardi **5.50**  ·  Brandon Paiber **6.50**  ·  Ylyas Chouaref **3.50**  ·  Julian Valarino **17.00**  ·  Carlos Richards **10.00**  ·  Liam Jessop **8.50**  ·  Julian Del Rio **7.50**  ·  Basil Tuma **3.50**  ·  Keyon Ewurum **3.75**  ·  Tjay De Barr **8.50**  ·  James Scanlon **7.50**  ·  Graeme Torrilla **13.00**  ·  Louie Annesley **17.00**  ·  Ethan Britto **21.00**  ·  Ethan Jolley **21.00**  ·  Kian Ronan **21.00**  ·  Bernardo Lopes **26.00**  ·  Nicholas Pozo **17.00**  ·  Daniel Bent **13.00**  ·  Yannick Yankam **5.50**  ·  Dylan Borge **6.50**  ·  Jeremy Perera **17.00**  ·  Jesse Gomez **17.00**  ·  Alexander Satariano **4.33**  ·  Paul Mbong **3.50**  ·  Teddy Teuma **3.75**  ·  Joseph Mbong **3.50**  ·  Matthew Guillaumier **5.50**  ·  Juan Corbalan **10.00**  ·  Kurt Shaw **13.00**  ·  Ryan Camenzuli **10.00**  ·  Zach Muscat **8.50**  ·  Gabriel Mentz **10.00**  ·  Steve Pisani **8.50**  ·  Andrea Zammit **2.62**  ·  Leon Mason **9.00**  ·  Kevin Cannavo **4.33**  ·  Han Stevens **17.00**  ·  Jayvan Garro **17.00**  ·  Luke Schofield **13.00**  ·  Mattias Ellul **10.00**  ·  Enrico Pepe **15.00**  ·  Myles Beerman **10.00**  ·  Carlo Zammit Lonardelli **8.50**  ·  Irvin Cardona **2.62**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
+- **Anytime Goal Scorer:** Jake Azzopardi **6.00**  ·  Brandon Paiber **7.00**  ·  Ylyas Chouaref **3.60**  ·  Julian Valarino **17.00**  ·  Carlos Richards **10.00**  ·  Liam Jessop **8.50**  ·  Julian Del Rio **7.50**  ·  Basil Tuma **3.60**  ·  Keyon Ewurum **3.75**  ·  Tjay De Barr **8.50**  ·  James Scanlon **7.50**  ·  Graeme Torrilla **13.00**  ·  Louie Annesley **17.00**  ·  Ethan Britto **21.00**  ·  Ethan Jolley **21.00**  ·  Kian Ronan **21.00**  ·  Bernardo Lopes **29.00**  ·  Nicholas Pozo **15.00**  ·  Daniel Bent **13.00**  ·  Yannick Yankam **6.00**  ·  Dylan Borge **7.00**  ·  Jeremy Perera **15.00**  ·  Jesse Gomez **15.00**  ·  Alexander Satariano **4.33**  ·  Paul Mbong **3.60**  ·  Teddy Teuma **3.75**  ·  Joseph Mbong **3.60**  ·  Matthew Guillaumier **6.00**  ·  Juan Corbalan **10.00**  ·  Kurt Shaw **13.00**  ·  Ryan Camenzuli **10.00**  ·  Zach Muscat **8.50**  ·  Gabriel Mentz **10.00**  ·  Steve Pisani **8.50**  ·  Andrea Zammit **2.75**  ·  Leon Mason **9.50**  ·  Kevin Cannavo **4.33**  ·  Han Stevens **17.00**  ·  Jayvan Garro **17.00**  ·  Luke Schofield **11.00**  ·  Mattias Ellul **10.00**  ·  Enrico Pepe **15.00**  ·  Myles Beerman **10.00**  ·  Carlo Zammit Lonardelli **8.50**  ·  Irvin Cardona **2.75**
 
 ## Estadísticas de equipo
 | | Gibraltar (total) | Gibraltar en casa | Malta (total) | Malta fuera |

@@ -1,7 +1,7 @@
 # Bologna – Udinese
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
 _Actualizadas: 15/11 19:52_

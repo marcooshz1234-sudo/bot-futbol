@@ -18,11 +18,7 @@
    "puesto": 18,
    "de": 22
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 3.9,
-   "temperatura": 13.5
-  }
+  "tiempo": null
  },
  "1545617": {
   "local": {
@@ -39,11 +35,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 13.3,
-   "temperatura": -2.2
-  }
+  "tiempo": null
  },
  "1528991": {
   "local": {
@@ -60,11 +52,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 6.0,
-   "temperatura": 17.0
-  }
+  "tiempo": null
  },
  "1528993": {
   "local": {
@@ -81,11 +69,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 6.5,
-   "temperatura": 5.9
-  },
+  "tiempo": null,
   "cuotas": {
    "Home": [
     2.7,
@@ -108,11 +92,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.0,
-   "temperatura": 10.3
-  }
+  "tiempo": null
  },
  "1545662": {
   "local": {
@@ -137,7 +117,7 @@
   "cuotas": {
    "Away": [
     1.65,
-    1.5
+    1.48
    ]
   }
  },
@@ -156,11 +136,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 18.0,
-   "temperatura": 3.8
-  },
+  "tiempo": null,
   "arbitro": {
    "nombre": "Allard Lindhout",
    "partidos": 11,
@@ -182,11 +158,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.2,
-   "viento_kmh": 7.2,
-   "temperatura": 4.6
-  }
+  "tiempo": null
  },
  "1545652": {
   "local": {
@@ -211,50 +183,8 @@
   "cuotas": {
    "Home": [
     1.5,
-    1.7
+    1.83
    ]
-  }
- },
- "1528987": {
-  "local": {
-   "nombre": "Faroe Islands",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Moldova",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
-   "temperatura": 2.5
-  }
- },
- "1528986": {
-  "local": {
-   "nombre": "Kazakhstan",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Slovakia",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 10.0,
-   "temperatura": -4.2
   }
  },
  "1545618": {
@@ -272,11 +202,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 1.6,
-   "temperatura": 17.0
-  }
+  "tiempo": null
  },
  "1528988": {
   "local": {
@@ -295,8 +221,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 20.5,
-   "temperatura": 3.3
+   "viento_kmh": 21.6,
+   "temperatura": 3.7
+  },
+  "cuotas": {
+   "Home": [
+    2.1,
+    1.9
+   ]
   }
  },
  "1528995": {
@@ -315,9 +247,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.9,
-   "viento_kmh": 21.6,
-   "temperatura": 11.5
+   "lluvia_mm": 2.0,
+   "viento_kmh": 24.1,
+   "temperatura": 11.6
   }
  },
  "1528992": {
@@ -336,9 +268,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 2.9,
-   "viento_kmh": 19.8,
-   "temperatura": 10.6
+   "lluvia_mm": 0.4,
+   "viento_kmh": 14.0,
+   "temperatura": 10.7
   }
  },
  "1528996": {
@@ -357,14 +289,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 24.8,
-   "temperatura": 10.7
+   "lluvia_mm": 0.2,
+   "viento_kmh": 24.5,
+   "temperatura": 10.8
   },
   "cuotas": {
    "Away": [
     1.6,
-    1.8
+    1.75
    ]
   }
  },
@@ -384,9 +316,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 14.0,
-   "temperatura": 9.4
+   "lluvia_mm": 0.0,
+   "viento_kmh": 12.6,
+   "temperatura": 9.6
   },
   "cuotas": {
    "Home": [
@@ -411,9 +343,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 16.1,
-   "temperatura": 8.8
+   "lluvia_mm": 0.1,
+   "viento_kmh": 18.1,
+   "temperatura": 9.0
   }
  },
  "1528998": {
@@ -432,9 +364,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.4,
-   "viento_kmh": 9.1,
-   "temperatura": 7.7
+   "lluvia_mm": 1.8,
+   "viento_kmh": 10.0,
+   "temperatura": 7.2
   }
  }
 }

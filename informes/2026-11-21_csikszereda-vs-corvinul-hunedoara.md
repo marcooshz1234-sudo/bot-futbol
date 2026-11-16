@@ -1,7 +1,7 @@
 # Csikszereda – Corvinul Hunedoara
 **Liga I** · Regular Season - 16 · 21/11/2026 14:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

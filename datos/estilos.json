@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16 09:53",
+ "generado": "2026-11-16 16:17",
  "estilos": {
   "datos-rachas": {
    "nota": 0.927,
@@ -38,9 +38,9 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.199,
+   "nota": 2.574,
    "posts_threads": 19,
-   "resultados": 3,
+   "resultados": 1,
    "verdes": 1
   },
   "combi-liga": {
@@ -235,22 +235,10 @@
    "resultados": 0,
    "verdes": 0
   },
-  "picks-manana": {
-   "nota": 1.875,
-   "posts_threads": 0,
-   "resultados": 3,
-   "verdes": 1
-  },
-  "combi-partido-1635662": {
-   "nota": 0.875,
-   "posts_threads": 0,
-   "resultados": 1,
-   "verdes": 0
-  },
   "lista-europa-2": {
-   "nota": 1.085,
+   "nota": 1.135,
    "posts_threads": 3,
-   "resultados": 3,
+   "resultados": 2,
    "verdes": 0
   },
   "combi-partido-1635677": {
@@ -342,6 +330,12 @@
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0
+  },
+  "picks-manana": {
+   "nota": 1.9,
+   "posts_threads": 0,
+   "resultados": 2,
+   "verdes": 1
   },
   "ganadores-win-2": {
    "nota": 1.389,

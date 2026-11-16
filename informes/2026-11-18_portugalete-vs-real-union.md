@@ -1,10 +1,44 @@
 # Portugalete – Real Unión
 **Copa del Rey** · Round of 128 · 18/11/2026 19:00 (hora España) · Estadio La Florida
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 16:12_
+
+- **1X2:** 1 **3.25**  ·  X **3.20**  ·  2 **2.25**
+- **Doble oportunidad:** 1X **1.62**  ·  12 **1.36**  ·  X2 **1.33**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **8.50**
+    - 1,5: más **1.33** · menos **3.25**
+    - 2,5: más **2.10** · menos **1.70**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.10**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.75**
+- **Win Both Halves:** 1 **13.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.50**  ·  Draw/No **8.50**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo
 | | Portugalete (total) | Portugalete en casa | Real Unión (total) | Real Unión fuera |

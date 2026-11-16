@@ -1,23 +1,23 @@
 # Lithuania – Liechtenstein
 **Nations League** · League D - 6 · 16/11/2026 18:00 (hora España) · Darius and Girėnas Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 09:52._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 16:11_
 
-- **1X2:** 1 **1.12**  ·  X **8.00**  ·  2 **19.00**
-- **Doble oportunidad:** 1X **1.00**  ·  12 **1.06**  ·  X2 **5.50**
-- **Ambos marcan:** Sí **4.00**  ·  No **1.22**
+- **1X2:** 1 **1.11**  ·  X **8.50**  ·  2 **21.00**
+- **Doble oportunidad:** 1X **1.00**  ·  12 **1.07**  ·  X2 **5.00**
+- **Ambos marcan:** Sí **4.50**  ·  No **1.17**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **9.00**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **5.00** · menos **1.14**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.33** · menos **3.25**
+    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
@@ -29,28 +29,27 @@ _Actualizadas: 16/11 09:51_
 - **Goles del visitante:**
     - 0,5: más **3.50** · menos **1.28**
 - **Córners más/menos:**
-    - 8: más **1.78** · menos **2.02**
-    - 8,5: más **1.83** · menos **1.83**
+    - 8,5: más **1.67** · menos **2.10**
 - **Córners 1X2:** 1 **1.10**  ·  X **12.00**  ·  2 **8.00**
-- **1X2 descanso:** 1 **1.44**  ·  X **2.62**  ·  2 **21.00**
+- **1X2 descanso:** 1 **1.50**  ·  X **2.60**  ·  2 **21.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **11.00**  ·  No **1.05**
 - **Both Teams To Score - Second Half:** Sí **8.00**  ·  No **1.08**
 - **To Win Either Half:** 1 **1.10**  ·  2 **10.00**
-- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **29.00**
-- **Win Both Halves:** 1 **2.10**  ·  2 **101.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **13.00**  ·  Away/Yes **41.00**  ·  Home/No **1.36**  ·  Draw/No **11.00**  ·  Away/No **23.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **4.75**  ·  o/no 2.5 **2.50**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **2.10**
+- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **34.00**
+- **Win Both Halves:** 1 **2.20**  ·  2 **101.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **13.00**  ·  Away/Yes **41.00**  ·  Home/No **1.36**  ·  Draw/No **10.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **6.00**  ·  o/no 2.5 **2.38**  ·  u/yes 2.5 **21.00**  ·  u/no 2.5 **2.05**
 - **Home Corners Over/Under:**
-    - 6,5: más **2.00** · menos **1.73**
+    - 6,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 1,5: más **1.62** · menos **2.20**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.25**  ·  Menos de 4 **2.30**
-- **Anytime Goal Scorer:** Jens Hofer **51.00**  ·  Villiam Pizzi **12.00**  ·  Fabio Luque-Notaro **11.00**  ·  Manfredas Ruzgis **2.10**  ·  Armandas Kucys **1.83**  ·  Artemijus Tutyskinas **7.00**  ·  Artur Dolznikov **3.00**  ·  Justas Lasickas **3.60**  ·  Kipras Kazukolovas **8.00**  ·  Paulius Golubickas **2.62**  ·  Pijus Sirvys **4.50**  ·  Rokas Lekiatas **11.00**  ·  Vykintas Slivka **4.00**  ·  Gratas Sirgedas **3.60**  ·  Luca Beck **34.00**  ·  Deividas Sesplaukis **5.50**  ·  Dennis Salanovic **11.00**  ·  Eligijus Jankauskas **2.62**  ·  Vilius Armalas **8.00**  ·  Philipp Ospelt **12.00**  ·  Nicolas Hasler **19.00**  ·  Livio Meier **23.00**  ·  Aron Sele **23.00**  ·  Maximilian Goppel **51.00**  ·  Fabio Wolfinger **19.00**  ·  Niklas Beck **67.00**  ·  Andrin Netzer **15.00**  ·  Simon Luchinger **23.00**  ·  Liam Kranz **23.00**  ·  Emanuel Zund **19.00**  ·  Alessio Hasler **23.00**  ·  Marcel Buchel **19.00**  ·  Edgaras Dubickas **2.00**  ·  Ferhat Saglam **12.00**  ·  Motiejus Burba **3.00**  ·  Zygimantas Baltrunas **8.00**  ·  Domantas Sluta **4.33**  ·  Alessandro Lo Russo **11.00**  ·  Bruno Poitner **12.00**  ·  Florian Allgauer **19.00**  ·  Manuel Mikus **23.00**  ·  Yonas Abidi **51.00**  ·  Samuel Cernadas **34.00**  ·  Matas Vareika **2.62**  ·  Andreas Malin **51.00**  ·  Severin Schlegel **23.00**  ·  Gvidas Gineitis **3.00**  ·  Lukas Michelbrink **4.33**
+- **Anytime Goal Scorer:** Jens Hofer **51.00**  ·  Villiam Pizzi **13.00**  ·  Fabio Luque-Notaro **11.00**  ·  Manfredas Ruzgis **2.10**  ·  Armandas Kucys **2.00**  ·  Artemijus Tutyskinas **7.50**  ·  Artur Dolznikov **3.25**  ·  Justas Lasickas **3.60**  ·  Kipras Kazukolovas **8.00**  ·  Paulius Golubickas **2.75**  ·  Pijus Sirvys **5.00**  ·  Rokas Lekiatas **11.00**  ·  Vykintas Slivka **4.00**  ·  Gratas Sirgedas **3.60**  ·  Luca Beck **34.00**  ·  Deividas Sesplaukis **6.00**  ·  Dennis Salanovic **11.00**  ·  Eligijus Jankauskas **2.75**  ·  Vilius Armalas **8.00**  ·  Philipp Ospelt **13.00**  ·  Nicolas Hasler **19.00**  ·  Livio Meier **23.00**  ·  Aron Sele **23.00**  ·  Maximilian Goppel **51.00**  ·  Fabio Wolfinger **19.00**  ·  Niklas Beck **67.00**  ·  Andrin Netzer **15.00**  ·  Simon Luchinger **23.00**  ·  Liam Kranz **23.00**  ·  Emanuel Zund **19.00**  ·  Alessio Hasler **23.00**  ·  Marcel Buchel **19.00**  ·  Edgaras Dubickas **2.05**  ·  Ferhat Saglam **13.00**  ·  Motiejus Burba **3.25**  ·  Zygimantas Baltrunas **8.00**  ·  Domantas Sluta **4.33**  ·  Alessandro Lo Russo **11.00**  ·  Bruno Poitner **13.00**  ·  Florian Allgauer **19.00**  ·  Manuel Mikus **23.00**  ·  Yonas Abidi **51.00**  ·  Samuel Cernadas **34.00**  ·  Matas Vareika **2.75**  ·  Andreas Malin **51.00**  ·  Severin Schlegel **23.00**  ·  Gvidas Gineitis **3.25**  ·  Lukas Michelbrink **4.33**
 
 ## Estadísticas de equipo
 | | Lithuania (total) | Lithuania en casa | Liechtenstein (total) | Liechtenstein fuera |
