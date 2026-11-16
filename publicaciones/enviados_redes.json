@@ -1454,5 +1454,14 @@
   "errores_redes": {
    "threads": "572 caracteres (máx. 500)"
   }
+ },
+ "2026-11-16-loca-th-0400-x100": {
+  "redes": {
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null,
+   "threads": "18231486601330094"
+  }
  }
 }
