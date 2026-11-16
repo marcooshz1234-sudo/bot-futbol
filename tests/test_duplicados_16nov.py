@@ -32,5 +32,13 @@ class Duplicados16Nov(unittest.TestCase):
         self.assertTrue(redes.pick_suelto({"id": "2099-06-01-pick-tip-6", "origen": "tipster", "texto": B, "sel": []}))
 
 
+class BoletoConCaptura16Nov(unittest.TestCase):
+    def test_boleto_usa_su_captura(self):
+        from unittest import mock
+        p = {"id": "2026-11-16-boleto-gana-ambos", "foto": "publicaciones/media/2026-11-16-boleto-gana-ambos.jpg", "texto": "x"}
+        with mock.patch.object(redes, "url_archivo", lambda r: "URL:" + r):
+            self.assertEqual(redes.foto_threads(p), "URL:publicaciones/media/2026-11-16-boleto-gana-ambos.jpg")
+
+
 if __name__ == "__main__":
     unittest.main()

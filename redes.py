@@ -164,6 +164,9 @@ def foto_threads(p):
     if p.get("foto_en_threads") and p.get("foto"):   # 14/11 (Marcos): la foto de los dos escudos también en Threads
         return url_archivo(p["foto"])   # 15/11: por su ruta (la de «…-1446-e» se llama «…-1446.escudos.jpg» y salía sin foto)
     if "-boleto-" in p["id"] and p.get("foto"):   # 14/11 (Marcos): el boleto sin su captura no se entiende (el texto no lleva las patas)
+        # 16/11: la captura por su ruta (la de «de 1€ a 176€» salió sin foto: se buscaba «<id>.tarjeta.jpg»)
+        if isinstance(p["foto"], str) and p["foto"].startswith("publicaciones/media/") and (RAIZ / p["foto"]).exists():
+            return url_archivo(p["foto"])
         return url_media(p, "tarjeta.jpg")
     # 15/11 (Marcos: «solo a texto cuando son muchas cosas»): lo demás también con foto, salvo las listas largas
     if muchas_cosas(p.get("texto_threads") or p.get("texto") or ""):
