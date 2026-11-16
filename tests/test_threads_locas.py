@@ -45,6 +45,14 @@ class ThreadsLocas(unittest.TestCase):
         self.assertIn("1,80", C.bloquea(dict(base), "x") or "")                       # Telegram: máx. 1,80
         self.assertNotIn("pata de más", C.bloquea(dict(base, solo_en=["threads"]), "x") or "")   # Threads: hasta 9
 
+    def test_variedad(self):
+        # nunca el mismo tipo dos veces seguidas y cada «xN» como mucho 2 al día
+        self.assertTrue(all(T.MAX_DIA[k] <= 2 for k in ("x50", "x100", "x500", "x1000")))
+        r = T.ROTACION
+        self.assertTrue(all(a != b for a, b in zip(r, r[1:])))
+        for k in ("ganaambos", "duelo", "empates", "hora", "tapados", "reto"):
+            self.assertIn(k, r)
+
     def test_texto_sin_partido_repetido(self):
         pt = {"local": "Alemania", "visitante": "Países Bajos"}
         self.assertEqual(T._corto(pt, {"texto": "Ambos marcan en Alemania–Países Bajos"}), "Ambos marcan")

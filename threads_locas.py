@@ -286,7 +286,174 @@ def lista(partidos, clave, titulo, mercados, usados):
     return filas, cuota, "\n".join(lineas)
 
 
-ROTACION = ("x100", "lista", "x50", "tiros", "x500", "lista", "x1000", "x50", "tiros", "x100", "lista", "x500")
+# 16/11 (Marcos: «mete de vez en cuando gana y ambos marcan en varios partidos; otra de 2 tiros de uno y 2 tiros de
+# otro, uno de cada equipo; no tantas combis "por tal" ni repetir el mismo número; invéntate algo llamativo, algo guay»)
+
+def _cuota_de(ex_cuotas, mercado, opcion):
+    for o, c in ex_cuotas.get(mercado) or []:
+        if str(o) == opcion:
+            try:
+                return float(c)
+            except (TypeError, ValueError):
+                return None
+    return None
+
+
+def _ex(fid):
+    from bot import EXTRA
+    return leer(EXTRA / f"{fid}.json", {}) or {}
+
+
+def _pata(pt, mercado, opcion, cuota, texto, familia):
+    return {"partido_id": pt["fid"], "mercado": mercado, "opcion": opcion, "cuota": cuota, "texto": texto,
+            "familia": familia, "prob": 1 / cuota}
+
+
+def gana_y_ambos(partidos, semilla, usados):
+    """⚽🏆 «Gana X y ambos marcan» en 3-4 partidos (el favorito de cada uno)."""
+    import combis_dia as C
+    filas = []
+    for pt in partidos:
+        ex = _ex(pt["fid"])
+        cu = ex.get("cuotas") or {}
+        mw = {o: float(c) for o, c in cu.get("Match Winner") or [] if c}
+        if not {"Home", "Away"} <= set(mw):
+            continue
+        lado = "Home" if mw["Home"] <= mw["Away"] else "Away"
+        c = _cuota_de(cu, "Results/Both Teams Score", f"{lado}/Yes")
+        if not c or not (MIN_PATA <= c <= 6.0):
+            continue
+        if C.gana_sin_motivo(ex, {"mercado": "Match Winner", "opcion": lado}):
+            continue
+        eq = pt["local"] if lado == "Home" else pt["visitante"]
+        filas.append((pt, _pata(pt, "Results/Both Teams Score", f"{lado}/Yes", c, f"Gana {eq} y ambos marcan", "gana")))
+    filas = sorted(sorted(filas, key=lambda x: x[1]["cuota"])[:4], key=lambda x: x[0]["ini"])
+    if len(filas) < 3:
+        return None
+    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    lineas = ["⚽🏆 GANA Y AMBOS MARCAN 🏆⚽", ""]
+    for pt, p in filas:
+        lineas.append(f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}")
+        lineas += [f"✅ {p['texto']}", ""]
+    lineas.pop()
+    lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "🔥 Goles y victoria: así nos gusta 🔥"]
+    return filas, cuota, "\n".join(lineas)
+
+
+def duelo_tiros(partidos, semilla, usados):
+    """⚔️ Un jugador de cada equipo con 2+ tiros (los habituales que da bet365), en el mismo partido."""
+    for pt in partidos:
+        cu = _ex(pt["fid"]).get("cuotas") or {}
+        lados = []
+        for mercado in ("Home Player Shots", "Away Player Shots"):
+            mejor = None
+            for o, c in cu.get(mercado) or []:
+                try:
+                    nombre, n = str(o).rsplit(" - ", 1)
+                    n, c = int(float(n)), float(c)
+                except (TypeError, ValueError):
+                    continue
+                if n >= 2 and MIN_PATA <= c <= 3.0 and (pt["fid"], mercado, str(o)) not in usados:
+                    if not mejor or c < mejor[1]:
+                        mejor = (str(o), c, nombre.strip(), n)
+            if mejor:
+                lados.append((mercado, mejor))
+        if len(lados) < 2:
+            continue
+        sel = [(pt, _pata(pt, m, o, c, f"{nom}: {n}+ tiros", "jugador")) for m, (o, c, nom, n) in lados]
+        cuota = round(math.prod(p["cuota"] for _, p in sel) * 0.95, 2)
+        lineas = ["⚔️ EL DUELO DE TIROS ⚔️", "", f"⭐ {pt['local']} vs {pt['visitante']} · {pt['ini'].strftime('%H:%M')}", ""]
+        lineas += [f"🎯 {p['texto']} ({eq})" for (_, p), eq in zip(sel, (pt["local"], pt["visitante"]))]
+        lineas += ["", f"🎯 CUOTA {coma(cuota)} aprox. 💎 · 10€ → {coma(cuota * 10)}€", "", "👇 ¿Quién dispara más? 👇"]
+        return sel, cuota, "\n".join(lineas)
+    return None
+
+
+def empates(partidos, semilla, usados):
+    """🤝 LA COMBI DE LOS EMPATES: los 3 partidos más igualados, empate."""
+    filas = []
+    for pt in partidos:
+        c = _cuota_de(_ex(pt["fid"]).get("cuotas") or {}, "Match Winner", "Draw")
+        if c and MIN_PATA <= c <= 4.2:
+            filas.append((pt, _pata(pt, "Match Winner", "Draw", c, "Empate", "empate")))
+    filas = sorted(sorted(filas, key=lambda x: x[1]["cuota"])[:3], key=lambda x: x[0]["ini"])
+    if len(filas) < 3:
+        return None
+    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    lineas = ["🤝 LA COMBI DE LOS EMPATES 🤝", ""]
+    lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')} ➜ 🤝 Empate @{coma(p['cuota'])}"
+               for pt, p in filas]
+    lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "😮‍💨 Para valientes 😮‍💨"]
+    return filas, cuota, "\n".join(lineas)
+
+
+def misma_hora(partidos, semilla, usados):
+    """⏰ TODO A LAS 20:45: la mejor pata de cada partido que empieza a la misma hora (3 o más)."""
+    from collections import Counter
+    horas = Counter(pt["ini"] for pt in partidos)
+    hora, n = max(horas.items(), key=lambda x: (x[1], -x[0].timestamp())) if horas else (None, 0)
+    if n < 3:
+        return None
+    sel = []
+    for pt in [pt for pt in partidos if pt["ini"] == hora]:
+        p = next((p for p in pt["patas"] if (pt["fid"], p["mercado"], p["opcion"]) not in usados), None)
+        if p:
+            sel.append((pt, p))
+    if len(sel) < 3:
+        return None
+    cuota = round(math.prod(p["cuota"] for _, p in sel), 2)
+    lineas = [f"⏰ TODO A LAS {hora.strftime('%H:%M')} ⏰", ""]
+    lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ {_linea(pt, p)}" for pt, p in sel]
+    lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "⏳ Todo se decide a la vez 🔥"]
+    return sel, cuota, "\n".join(lineas)
+
+
+def tapados(partidos, semilla, usados):
+    """🐶 LA DE LOS TAPADOS: el que no es favorito no pierde (doble oportunidad del débil), 3-4 partidos."""
+    filas = []
+    for pt in partidos:
+        cu = _ex(pt["fid"]).get("cuotas") or {}
+        mw = {o: float(c) for o, c in cu.get("Match Winner") or [] if c}
+        if not {"Home", "Away"} <= set(mw):
+            continue
+        debil = "Away" if mw["Home"] < mw["Away"] else "Home"
+        op = "Draw/Away" if debil == "Away" else "Home/Draw"
+        c = _cuota_de(cu, "Double Chance", op)
+        import combis_dia as C
+        if C.gana_sin_motivo({"partido": _ex(pt["fid"]).get("partido")}, {"mercado": "Double Chance", "opcion": op}):
+            continue   # el «tapado» no se juega nada y el favorito sí: no
+        if c and 1.6 <= c <= 3.2:
+            eq = pt["visitante"] if debil == "Away" else pt["local"]
+            filas.append((pt, _pata(pt, "Double Chance", op, c, f"{eq} o empate", "doble")))
+    filas = sorted(sorted(filas, key=lambda x: x[1]["cuota"])[:4], key=lambda x: x[0]["ini"])
+    if len(filas) < 3:
+        return None
+    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    lineas = ["🐶 LA DE LOS TAPADOS 🐶", "", "Hoy vamos con los que nadie ve 👀", ""]
+    lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ 🛡️ {p['texto']} @{coma(p['cuota'])}" for pt, p in filas]
+    lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "🤫 Si sale esta, nos retiramos 🤫"]
+    return filas, cuota, "\n".join(lineas)
+
+
+def reto_euro(partidos, semilla, usados):
+    """💶 DE 1€ A 1.000€: la x1000 contada como reto."""
+    r = combi_cuota(partidos, 1000, semilla + "reto", usados)
+    if not r:
+        return None
+    sel, cuota, misma = r
+    t = texto_combi(1000, sel, cuota, misma, semilla).split("\n")
+    t[0] = f"💶 RETO: DE 1€ A {coma(cuota)}€ 💶"
+    t = [l if not l.startswith("🎯 CUOTA") else f"🎯 CUOTA {coma(cuota)}{' aprox.' if misma else ''} 💎 · 1€ → {coma(cuota)}€" for l in t]
+    return sel, cuota, "\n".join(t)
+
+
+ESPECIALES = {"ganaambos": gana_y_ambos, "duelo": duelo_tiros, "empates": empates, "hora": misma_hora,
+              "tapados": tapados, "reto": reto_euro, "tiros": lambda v, s, u: (lambda r: r and (r[0], r[1], r[2]))(tiros_partido(v, s, u))}
+MAX_DIA = {"x50": 2, "x100": 2, "x500": 2, "x1000": 1, "reto": 1, "empates": 1, "tapados": 2, "hora": 2,
+           "ganaambos": 3, "duelo": 3, "tiros": 2, "lista": 6}
+ROTACION = ("x100", "ganaambos", "lista", "duelo", "x50", "hora", "tapados", "x500", "lista", "empates", "ganaambos",
+            "reto", "tiros", "lista", "duelo", "x100", "hora", "x50", "tapados", "lista", "ganaambos", "x500", "duelo",
+            "x1000", "lista")
 
 
 def plan(dia, desde=None, ya_horas=()):
@@ -295,6 +462,7 @@ def plan(dia, desde=None, ya_horas=()):
     desde = desde or datetime.now(MADRID)
     todos = partidos_del_dia(dia)
     out, usados, i_lista, n = [], set(), 0, 0
+    veces, ultimo = {}, None
     for h in huecos(dia, desde):
         if any(abs((h - y).total_seconds()) < 15 * 60 for y in ya_horas):
             continue
@@ -305,15 +473,17 @@ def plan(dia, desde=None, ya_horas=()):
         hecho = None
         for k in range(len(ROTACION)):
             tipo = ROTACION[(n + k) % len(ROTACION)]
-            if tipo.startswith("x"):
+            if veces.get(tipo, 0) >= MAX_DIA.get(tipo, 2) or tipo == ultimo:   # variedad: nunca 2 iguales seguidos
+                continue
+            if tipo in ESPECIALES:
+                r = ESPECIALES[tipo](vivos, semilla, usados)
+                if r:
+                    hecho = (tipo, r[2], r[0])
+            elif tipo.startswith("x"):
                 r = combi_cuota(vivos, int(tipo[1:]), semilla, usados)
                 if r:
                     sel, cuota, misma = r
                     hecho = (tipo, texto_combi(int(tipo[1:]), sel, cuota, misma, semilla), sel)
-            elif tipo == "tiros":
-                r = tiros_partido(vivos, semilla, usados)
-                if r:
-                    hecho = (tipo, r[2], r[0])
             else:
                 for j in range(len(LISTAS)):
                     clave, titulo, mercados = LISTAS[(i_lista + j) % len(LISTAS)]
@@ -328,6 +498,7 @@ def plan(dia, desde=None, ya_horas=()):
         if not hecho:
             continue
         tipo, texto, sel = hecho
+        base_tipo = "lista" if tipo.startswith("lista") else tipo
         try:
             from comprobar_post import bloquea
             from bot import mercado_prohibido
@@ -342,16 +513,20 @@ def plan(dia, desde=None, ya_horas=()):
             print("No sale", h.strftime("%H:%M"), tipo, "→", motivo)
             continue
         usados |= {(pt["fid"], p["mercado"], p["opcion"]) for pt, p in sel}
+        veces[base_tipo] = veces.get(base_tipo, 0) + 1
+        ultimo = base_tipo
         out.append((h, tipo, texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel],
                     [p["cuota"] for _, p in sel]))
     return out
 
 
-def posts(dia, desde=None):
-    """Los posts para publicaciones/auto.json (solo Threads)."""
+def posts(dia, desde=None, sin_locas=False):
+    """Los posts para publicaciones/auto.json (solo Threads). sin_locas: no cuentan las locas ya puestas (rehacer)."""
     ya = []
     for f in ("auto.json", "cola.json"):
         for p in leer(PUB / f, []) or []:
+            if sin_locas and "-loca-th-" in p["id"] and not any((p.get("redes") or {}).values()):
+                continue
             if p.get("fecha", "")[:10] == dia and "threads" in (p.get("solo_en") or ["threads"]) \
                     and not re.search(r"verde|rojo|balance|resumen", p["id"]):
                 from bot import MADRID
@@ -383,7 +558,14 @@ if __name__ == "__main__":
             print(f"threads_locas: {len(ps)} posts para {hoy}")
         raise SystemExit(0)
     dia = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("-") else hoy
-    ps = posts(dia)
+    ps = posts(dia, sin_locas="--rehacer" in sys.argv)
+    if "--rehacer" in sys.argv:   # quita las locas de ese día que aún no han salido y pone las nuevas
+        auto = [p for p in leer(PUB / "auto.json", []) or []
+                if not (p["id"].startswith(f"{dia}-loca-th-") and not any((p.get("redes") or {}).values()))]
+        (PUB / "auto.json").write_text(json.dumps(auto, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        guardar(ps)
+        print(f"{len(ps)} posts locos rehechos para {dia}")
+        raise SystemExit(0)
     if "--guardar" in sys.argv:
         guardar(ps)
         print(f"{len(ps)} posts locos guardados para {dia}")
