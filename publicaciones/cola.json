@@ -7443,10 +7443,10 @@
     "enviado": "2026-11-16T13:43",
     "mensaje_id": 502,
     "redes": {
-      "threads": "18120931844010149"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "18120931844010149",
+      "instagram_reel": null,
+      "instagram": "18099259454667595",
+      "threads_enlace": "18123786290472707"
     }
   },
   {
@@ -7465,10 +7465,10 @@
     "enviado": "2026-11-16T13:43",
     "mensaje_id": 503,
     "redes": {
-      "threads": "18028692644917496"
-    },
-    "errores_redes": {
-      "instagram": "falta la imagen/vídeo en publicaciones/media"
+      "threads": "18028692644917496",
+      "instagram_reel": null,
+      "instagram": "18179122921457433",
+      "threads_enlace": "18108807608525922"
     }
   }
 ]
