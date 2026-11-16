@@ -261,7 +261,7 @@ def partido_flojo_de_goles(ex):
 
 GANAR = {"Match Winner", "To Win Either Half", "Asian Handicap", "Double Chance", "Handicap Result",
          "Win to Nil", "Win Both Halves", "Draw No Bet"}
-NO_CUENTAN_EQUIPO = ("combi-partido", "estrella", "ganadores", "lista-europa", "marcadores", "exactos")
+NO_CUENTAN_EQUIPO = ("combi-partido", "estrella", "ganadores", "lista-europa", "marcadores", "exactos", "loca-th")   # 16/11: las locas de Threads tampoco
 
 
 def equipo_de(p):
