@@ -81,6 +81,9 @@ class PickVariado(unittest.TestCase):
         self.assertIsNone(bot.mercado_prohibido(pick))
         self.assertIsNotNone(bot.mercado_prohibido(combi))
         self.assertIsNotNone(bot.mercado_prohibido(primera))
+        # 16/11: la copia de Pérez «más de 9,5 remates a puerta» se quedaba frenada por la regla de los picks
+        copia = {"id": "2099-06-01-pick-tip-4", "origen": "tipster", "sel": ["4|Total ShotOnGoal|Over 9.5"]}
+        self.assertIsNone(bot.mercado_prohibido(copia))
 
     def test_tipo_pick(self):
         self.assertEqual(C.tipo_pick(GANA), "resultado")

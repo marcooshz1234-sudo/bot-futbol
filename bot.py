@@ -214,7 +214,8 @@ def mercado_prohibido(post):
     pid = post.get("id", "")
     # 16/11 (Marcos: «más de 2,5 goles si lo ves muy probable»): el pick suelto de Telegram puede llevar los
     # mercados que solo valen para él (picks.solo_para_pick); el resto de prohibidos, no
-    if "-pick-" in pid and len(post.get("sel") or []) == 1:
+    es_copia = post.get("origen") == "tipster" or "-tip-" in pid   # las copias de canales pueden con todo (12/11)
+    if "-pick-" in pid and len(post.get("sel") or []) == 1 and not es_copia:
         from picks import excluido, solo_para_pick
         partes = str(post["sel"][0]).split("|")
         if len(partes) == 3 and excluido(partes[1], partes[2]) and not solo_para_pick(partes[1], partes[2]):
