@@ -7182,7 +7182,7 @@
     "cuotas": [
       1.73,
       1.44,
-      1.62,
+      1.67,
       1.53,
       1.8
     ],
@@ -7195,7 +7195,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T20:33"
   },
   {
     "id": "2026-11-17-loca-th-noche-2230-duelo",
