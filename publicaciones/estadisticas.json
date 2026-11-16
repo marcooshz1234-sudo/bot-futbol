@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 11:23",
+ "actualizado": "2026-11-16 11:34",
  "redes": {
   "instagram": {
    "seguidores": 42,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2870,
-   "hoy": 78,
+   "seguidores": 2874,
+   "hoy": 82,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2870
+    2874
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3339,
- "total_hoy": 94,
+ "total": 3343,
+ "total_hoy": 98,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "11:30",
+  "hora": "12:00",
   "dia": "2026-11-16",
-  "titulo": "Los favoritos del día"
+  "titulo": "La combi de los empates"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,7 +216,7 @@
   },
   "2026-11-16": {
    "instagram": 42,
-   "threads": 2870,
+   "threads": 2874,
    "facebook": 1,
    "telegram": 426
   }
