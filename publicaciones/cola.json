@@ -7478,5 +7478,88 @@
       "instagram": "18179122921457433",
       "threads_enlace": "18108807608525922"
     }
+  },
+  {
+    "id": "2026-11-16-boleto-personal",
+    "fecha": "2026-11-16T14:48",
+    "foto": "publicaciones/media/2026-11-16-boleto-personal.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "cuota_total": 14.13,
+    "sel": [
+      "1528990|Home Player Shots|Florian Wirtz - 3",
+      "1528991|Match Winner|Home",
+      "1528991|Goalkeeper Saves|Vanja Milinkovic-Savic - 4",
+      "1545652|Away Player Shots|Scott McTominay - 3",
+      "1545652|Goalkeeper Saves|Gregor Kobel - 3"
+    ],
+    "cuotas": [
+      1.66,
+      1.42,
+      1.73,
+      1.67,
+      2.0
+    ],
+    "nota": "16/11 Marcos: «sube las capturas directamente» (la A, captura de bet365 sin el dinero)",
+    "texto": "🎯 MI COMBINADA PERSONAL DE HOY 🔥\n\n🇩🇪 Florian Wirtz (Alemania) más de 2,5 remates @1,66\n🇬🇷 Gana Grecia y Vanja Milinković-Savić (Serbia) 4+ paradas (Crear apuesta) @2,65\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scott McTominay (Escocia) 3+ remates y Gregor Kobel (Suiza) 3+ paradas (Crear apuesta) @3,20\n\n📈 Cuota @14,13\n💶 10€ → 141,30€\n\n🧠 Por qué:\n• Alemania necesita ganar para meterse en cuartos y todo su ataque pasa por Wirtz\n• Serbia ya es última y no se juega nada: su portero va a tener trabajo\n• Escocia tiene que ganar para ser 2.ª y Suiza ya es 1.ª: McTominay va a probar y Kobel tendrá que parar\n\n¿Quién se sube conmigo? 👇💚"
+  },
+  {
+    "id": "2026-11-16-boleto-gana-ambos",
+    "fecha": "2026-11-16T14:50",
+    "foto": "publicaciones/media/2026-11-16-boleto-gana-ambos.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 163.0,
+    "sel": [
+      "1528986|Results/Both Teams Score|Away/Yes",
+      "1528987|Results/Both Teams Score|Home/Yes",
+      "1528990|Results/Both Teams Score|Home/Yes",
+      "1528991|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      4.0,
+      4.75,
+      2.87,
+      3.0
+    ],
+    "nota": "16/11 Marcos: captura de su boleto (1 €, muy loca: se deja el dinero)",
+    "texto": "💶 DE 1€ A 176€ 💶\n\n⚽🏆 Gana y ambos marcan en 4 partidos\n🇸🇰 Eslovaquia · 🇫🇴 Islas Feroe · 🇩🇪 Alemania · 🇬🇷 Grecia\n\n🎯 CUOTA 163 💎 10€ → 1.636€\n🔥 ¿Quién se atreve conmigo? 👇"
+  },
+  {
+    "id": "2026-11-16-boleto-larga",
+    "fecha": "2026-11-16T14:52",
+    "foto": "publicaciones/media/2026-11-16-boleto-larga.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 53.4,
+    "sel": [
+      "1528988|Match Winner|Home",
+      "1528986|Match Winner|Away",
+      "1545662|Match Winner|Away",
+      "1528991|First Half Winner|Home",
+      "1528990|Match Winner|Home",
+      "1528987|Match Winner|Home",
+      "1545618|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.9,
+      1.85,
+      1.5,
+      1.9,
+      1.85,
+      1.85,
+      1.55
+    ],
+    "nota": "16/11 Marcos: captura de su larga (5 €, loca: se deja el dinero)",
+    "texto": "🔥 MI LARGA DE HOY · x53 🔥\n\n🏆 7 selecciones, todo «quién gana»\n🇪🇪 🇸🇰 🇸🇮 🇬🇷 🇩🇪 🇫🇴 🇲🇹\n\n🎯 CUOTA 53,40 💎 10€ → 534€\n🍀 ¿La pintamos de verde? 👀💚"
   }
 ]

@@ -127,3 +127,10 @@ class BanderasPartido16Nov(unittest.TestCase):
         html = fotos.quien_gana([{"nombre": "Partido", "pick": "+2,5 GOLES", "pais": "Germany", "pais2": "Netherlands",
                                   "seleccion": True}], "PICK")
         self.assertEqual(html.count('class="real"'), 2)
+
+
+class NombreConW16Nov(unittest.TestCase):
+    def test_wirtz_no_pierde_la_w(self):
+        import fotos
+        self.assertIn("WIRTZ", fotos.equipo("Florian Wirtz"))
+        self.assertIn("(FEM.)", fotos.equipo("Barcelona W"))

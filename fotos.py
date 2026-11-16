@@ -43,7 +43,8 @@ def equipo(t):
     """Nombre de equipo para las fotos: en mayúsculas y abreviado si es muy largo (MAN. CITY (FEM.))."""
     try:   # 11/11: en español (Spain → ESPAÑA, Czechia → CHEQUIA)
         from combis_dia import nombre_es
-        t = nombre_es(t.replace(" (fem.)", "").replace(" W", "")) + (" (fem.)" if t.endswith((" W", "(fem.)")) else "")
+        # 16/11: solo la « W» del final (equipo femenino): «Florian Wirtz» salía «FLORIANIRTZ»
+        t = nombre_es(re.sub(r" W$", "", t.replace(" (fem.)", ""))) + (" (fem.)" if t.endswith((" W", "(fem.)")) else "")
     except Exception:
         pass
     n = mayus(t)
