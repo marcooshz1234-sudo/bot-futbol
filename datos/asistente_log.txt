@@ -225,3 +225,5 @@
 2026-11-15 13:35:00 arranca el bot del móvil
 2026-11-15 19:30:08 arranca el bot del móvil
 2026-11-16 01:52:20 arranca el bot del móvil
+2026-11-16 03:03:59 botón ok|2026-11-16-loca-th-0400-x100 → ok
+2026-11-16 03:04:06 botón ok|2026-11-16-loca-th-0400-ganaambos → ok
