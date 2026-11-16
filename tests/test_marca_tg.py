@@ -30,6 +30,7 @@ class MarcaTG(unittest.TestCase):
         self.assertIsNone(M.buenos_dias(datetime(2026, 11, 12, 8, 0, tzinfo=MADRID), est))
         t = M.buenos_dias(datetime(2026, 11, 12, 9, 35, tzinfo=MADRID), est)
         self.assertNotIn("Hoy en el canal", t)   # 16/11 (Marcos): sin la lista de lo que sale hoy
+        self.assertTrue(any(a in t for a in M.ANIMO))   # 16/11: una frase de ánimo distinta cada día
         self.assertEqual(est.get("buenos_dias_hora"), "2026-11-12T09:35")
         self.assertTrue(any(e in t for e in M.EXTRA))   # Marcos 12/11: «lo que vaya saliendo…», con variaciones
         self.assertIsNone(M.buenos_dias(datetime(2026, 11, 12, 9, 50, tzinfo=MADRID), est))

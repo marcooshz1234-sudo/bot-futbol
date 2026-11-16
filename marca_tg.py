@@ -36,6 +36,36 @@ EXTRA = [
     "🔥 Y esto es solo el principio: lo que aparezca, lo iréis viendo aquí",
     "💚 Y si encontramos algo que merezca la pena, os lo dejamos al instante",
 ]
+# 16/11 (Marcos: «con algo de texto así guay… di algo que te guste para cada día»): una frase de ánimo que cambia
+# cada día y una línea con lo que hay hoy («Lunes de Nations League 🌍»)
+ANIMO = [
+    "💪 Esto va de constancia: un día se escapa alguna, al siguiente volvemos más fuertes",
+    "🧠 Picks mirados con lupa: forma, tabla y lo que se juega cada uno",
+    "🍀 Hoy toca pintar el día de verde, con cabeza y sin locuras",
+    "🔥 Venimos con hambre: hoy hay partidos para sacar cosas buenas",
+    "🎯 Menos ruido y más acierto: vamos a por lo que vemos claro",
+    "⚽ Café, fútbol y picks: el plan perfecto para hoy",
+    "🚀 Día nuevo, cuotas nuevas y las mismas ganas de siempre",
+]
+DIAS_SEMANA = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
+NOMBRE_COMP = {"UEFA Nations League": "Nations League", "Segunda División": "Segunda", "La Liga": "LaLiga",
+               "UEFA Champions League": "Champions", "UEFA Europa League": "Europa League",
+               "UEFA Europa Conference League": "Conference", "UEFA Conference League": "Conference"}
+
+
+def linea_del_dia(ahora):
+    dia = ahora.strftime("%Y-%m-%d")
+    comps = []
+    for pa in sorted(partidos_hoy(dia), key=lambda p: (p.get("league") or {}).get("id") not in EUROPA):
+        n = NOMBRE_COMP.get((pa.get("league") or {}).get("name"), (pa.get("league") or {}).get("name"))
+        if n and n not in comps:
+            comps.append(n)
+    if not comps:
+        return None
+    nombres = comps[0] if len(comps) == 1 else f"{comps[0]} y {comps[1]}" if len(comps) == 2 else f"{comps[0]}, {comps[1]} y más"
+    return f"📅 {DIAS_SEMANA[ahora.weekday()]} de {nombres} 🌍"
+
+
 NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
            ("combi-tres", "Combi del día"), ("combi-partido", "Combi de partido"), ("combi-loca", "La loca"),
            ("combi-multi", "Combi larga")]
@@ -94,7 +124,9 @@ def buenos_dias(ahora, est):
         return None
     foto = MARCA / f"buenos-dias-{ahora.toordinal() % 3 + 1}.jpg"
     # 16/11 (Marcos: «no puedes poner solo una cosa en "hoy en el canal"… o no pongas lo que sale hoy»): sin la lista
-    texto = (elegir(SALUDOS, dia) + "\n\n" + elegir(EXTRA, dia + "x") + "\n\n🔔 Activad las notificaciones")
+    lin = linea_del_dia(ahora)
+    texto = (elegir(SALUDOS, dia) + "\n\n" + (lin + "\n" if lin else "") + elegir(ANIMO, dia + "a") + "\n\n"
+             + elegir(EXTRA, dia + "x") + "\n\n🔔 Activad las notificaciones")
     enviar(foto, texto)
     est["buenos_dias"] = dia
     est["buenos_dias_hora"] = ahora.strftime("%Y-%m-%dT%H:%M")   # 16/11: lo que esperaba sale justo después
