@@ -7370,9 +7370,9 @@
     "cuotas": [
       1.73,
       1.44,
-      1.62,
+      1.67,
       1.53,
-      1.8
+      1.73
     ],
     "solo_en": [
       "threads"
@@ -7383,7 +7383,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T00:34"
   },
   {
     "id": "2026-11-17-loca-th-0300-duelo",
