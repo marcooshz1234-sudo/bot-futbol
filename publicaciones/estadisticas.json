@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 10:55",
+ "actualizado": "2026-11-16 11:03",
  "redes": {
   "instagram": {
    "seguidores": 42,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2865,
-   "hoy": 73,
+   "seguidores": 2867,
+   "hoy": 75,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2865
+    2867
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3334,
- "total_hoy": 89,
+ "total": 3336,
+ "total_hoy": 91,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "10:58",
+  "hora": "11:30",
   "dia": "2026-11-16",
-  "titulo": "Os dejo otro pick que pinta muy bien"
+  "titulo": "Los favoritos del día"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,24 +216,24 @@
   },
   "2026-11-16": {
    "instagram": 42,
-   "threads": 2865,
+   "threads": 2867,
    "facebook": 1,
    "telegram": 426
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 4,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 47,
+   "posts": 46,
    "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Otros": {
    "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Escalera (reel)": {
-   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

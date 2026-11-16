@@ -2080,14 +2080,14 @@
   },
   "2026-11-16": {
     "dia": "2026-11-16",
-    "total": 11,
+    "total": 12,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 11,
+      "pendiente": 12,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 12
     },
     "combis": [
       {
@@ -2155,6 +2155,12 @@
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-16-escalera",
+        "titulo": "🪜 Reto escalera · Día 1/7",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
@@ -2162,6 +2168,6 @@
       "rojo": 0,
       "total": 47
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ 🔥 COMBI POR 96,60 🔥 · 96,60 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n⏳ 💎 COMBI x440 💎 · pendiente\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ 🔥 COMBI POR 96,60 🔥 · 96,60 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n⏳ 💎 COMBI x440 💎 · pendiente\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 12 sin resolver"
   }
 }
