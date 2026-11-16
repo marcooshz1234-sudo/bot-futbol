@@ -51,14 +51,6 @@
    "tipos": []
   },
   {
-   "titulo": "Albacete Balompie",
-   "fuente": "Albacete Balompie",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EZ3pfQ0xsd0RKR1B3N2NVQTNhbjlLdU1aaXMyUUdnSTZtRmRsT25zbUY4WDBBaGlLN2pNczE3VTA5Q29HVFlZ?oc=5",
-   "fecha": "2026-11-14T23:28",
-   "equipo": "Albacete",
-   "tipos": []
-  },
-  {
    "titulo": "Burgos CF | Web Oficial",
    "fuente": "Burgos CF",
    "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5TOWxic2dBSjMtNjhmTlc4YTR1bUNLWko0Y1dJeFpqU0xLLVZqRE9HSFZCTVpzWW83ZDBfZw?oc=5",
@@ -169,6 +161,14 @@
    "tipos": []
   },
   {
+   "titulo": "En Chile dicen que Isco y Bellerín le han pedido a Pellegrini que no se vaya del Betis",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT0NUTVBlMy1UdGl1UVBJMTY1ejNRZEkwemZYakYxWF9kbEVoMDNtbFcwVjdNRUFFNTB0Y0M3WmFkejhWd1FpZUFodlRLQ2ZqSnpHUDljUHlhUmUyQ0J0MjFJVWZydUVvT1AxR0gydFdKVVAzRTJMT3NYcEMwa0dib3FNNFp6eUQ1NEhiRW9JLXlNNW1pcXJKV19OSUoyOVE2ZEdLd0ZTdUUtVVByRUZoMko4SDAxYWd5UkZKdGxNcHd5YlV0c2xWdFlVa2o0Z3A1dGtYeTZ1RXJjd2RUZUQtbml3?oc=5",
+   "fecha": "2026-11-15T20:04",
+   "equipo": "Iceland",
+   "tipos": []
+  },
+  {
    "titulo": "Alineaciones confirmadas de España e Inglaterra en la jornada 6 de la UEFA Nations League",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlDRFNCemt1aVNvNHpRWnFuS0xMMEEtS0tVX1NvWExfd2oxbUVZOHNiTGxQMGN3X01WRGdaVVhPVjM1aGdCbGhlZ1RDVk1JV0JZZjFLQjBhM3ZZV0d4Y01SY3dFZWZDOWFJazUyemNaRDFOek0zYUFtb3pwTEhwQWl2SDBpeUVRQi1FY1FTVGR3R1VzQ3VLeUFFVmZ4MWNvQTZaUFZ3WGE3VHhKT3BxSkUxczdINjQyenBV?oc=5",
@@ -199,14 +199,6 @@
    "fecha": "2026-11-15T12:01",
    "equipo": "Iceland",
    "tipos": []
-  },
-  {
-   "titulo": "Islandia vs. Luxemburgo por el Liga de Naciones 2026: día, hora y cómo seguir online",
-   "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa0p3azltREZSTG5xS2lYaGdFLUU5YjRYMVgxSUdzSFlEemhITE41S0pNd0NDeG9Lc1BXZGlrbi1UTW1fck5XMXR5a1hSeWpxREhwbzllZzNQRVZnbnZoWDBZMmxKWnRUNGpuYkpGZ0xzRi1ReWxvMU4wNFQ4d25NTS1FNDVjYk9MZVYtcHZFT0g3NV9FLXJRb194bmEta25CQUZpTTVub3RNeFk4ZWF2ZjJoQVNYTDVXNlVqeFZkSndmS2p3OVg0anF0OEpYUWxVVGhxOQ?oc=5",
-   "fecha": "2026-11-15T06:02",
-   "equipo": "Iceland",
-   "tipos": []
   }
  ],
  "1528991": [
@@ -219,6 +211,14 @@
    "tipos": [
     "baja"
    ]
+  },
+  {
+   "titulo": "Tras su exclusión ante Serbia, Klopp vuelve a dejar a Wael",
+   "fuente": "Elbotola",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xLTY0c0MyTEgzNkN5NVJ4QVYwMm9BNW5HTWw1cXhSNmgwQlZkb1I0c2FpZVRsai1CWmZmbTZrdWN2UHdRd3lkQWlJNXFHeHhCYWIwTFpuUThXYnBCV0N3YXhXcXFrRE13TWk1UHh3?oc=5",
+   "fecha": "2026-11-15T16:19",
+   "equipo": "Serbia",
+   "tipos": []
   },
   {
    "titulo": "Declaraciones de Xavi y Frenkie tras la victoria ante Grecia",
@@ -242,6 +242,14 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUllS1JVdF93dGdvTUtNZFQ2b1Q1YmpsNHdqZXVCb3d5MXZTYVg0ekFUeHYxNzhMVTFIcFZzQ3BvR1p5b0VYWElEM1VLVDVtR01XemN4M0czODZza3doZ2xmRjVGUGQ0TEdsZVpLMWZrcEQzUVJqRGZEWklJdElIMkNrVW5ta2VaMDNoZTBhQ3ZOak1kejJLcTgwb0JyaVFYcUdDX3FlMmFOZw?oc=5",
    "fecha": "2026-11-15T05:07",
    "equipo": "Greece",
+   "tipos": []
+  },
+  {
+   "titulo": "Resumen del partido Serbia - Alemania",
+   "fuente": "YSscores",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kMVdTc3ZSUkJPOHNMT01GUkc3dG1kelFKMkJJZWJHdzU1OV9PTkxsblBqODRCNzVYa0R0NExMWGxOa29MVkw4NXh3bWZyR2gtbGc?oc=5",
+   "fecha": "2026-11-15T00:01",
+   "equipo": "Serbia",
    "tipos": []
   },
   {
@@ -291,30 +299,22 @@
    "fecha": "2026-11-14T15:38",
    "equipo": "Greece",
    "tipos": []
-  },
-  {
-   "titulo": "Alemania derrota a Serbia y mantiene pequeña esperanza",
-   "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzVNMWZpZlQza0hkWWtvTkdaS1RPUjFGeWNVRlQtR203MHd1U0QtMlkzcHFTTFU0WHRhNGlkRnFWSGl5UWp6aEh3SXc3RDFHMjdoY0Rxbk1OUkZ3Um93ak05ODRub0pidl9MNDRtVkg3VmVlUG5jU284Rm1lcnJXdEVobEp5TW5CaURaYnQxaE5vQWcxNGVYeWp3aFBkQUttTlZiNERLUFQyR0VDUXkw?oc=5",
-   "fecha": "2026-11-14T15:08",
-   "equipo": "Serbia",
-   "tipos": []
   }
  ],
  "1528993": [
+  {
+   "titulo": "La increíble revelación de Haaland antes del duelo ante Dinamarca",
+   "fuente": "Flashscore.cl",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0hhNm1GMURnc2JiRlFiOGhUTjZ2Z2NTbnNHVVRNUmpJS3hHQ0RhTDhHN0FOV0lTQkN1bzRxLUlYUTNWdkdsSldYak1oeF9EaWNKNnNHS1RFUWxkUTJyNnRzR0FzRmdZUTlITFUyZm44M3BNajhhZFc1Tjd0MngyOGRIYndjaldZX3pCb2o0aU0za2tJQ084dGt1a0MxaXAxbDE1cHZITQ?oc=5",
+   "fecha": "2026-11-16T01:39",
+   "equipo": "Denmark",
+   "tipos": []
+  },
   {
    "titulo": "Delantero de Dinamarca que anotó doblete a Portugal manda mensaje a Cristiano Ronaldo",
    "fuente": "Mediotiempo",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmxBY2g4RkNjMUdPa3BlY21lb3JxUnpjdERyRzEybF9MWjA4QTZNcWxSd21wOE5JWVlQWXo5SlZROFVVbFNKTVJQMEJmOV8wdGdfTU1zT1F4ekttZlhUSTgyXy1ReDN0Nkt5dTFCNFRHLTcyd0NwMnNnQmNwOWYwWFA3Nk5LMVVlUWw1VWJJVW1QcThic2ZQVlRBb1I1RGdsWWVudXNDX1pmY21adzNJcUc2MTlyTkdrWVViMmdfVHpGWThmZFdGUnBxWl9Ha2RPRFd4b3hxbGHSAdgBQVVfeXFMT3Zmc1NVVGZ3d2Y2VTZlZmZUMEd0TFpWN0FUem1fZGgxMUxOVFNvWjhROEYzVThmZWdRc1RPejF2ZWlkUm8xUERMZElDYzBNcU52SHlBZDcxOXVqZjJLR0NxNUhFTDNkUVdlV1h4d1ZpZkpEWHFpQ3RhOGJURFpmLWgyN1NsRVhYa09VQ3JCamN2ZU1XeWNqWGNuUkJYOUcwSThVVlpFd21NRkQxVzAwWDdfYVRQZG5ITkV1UWhOVmVYVnR3NEMzRFJValFkOWZZWUhDZHVFc2NT?oc=5",
    "fecha": "2026-11-15T14:50",
-   "equipo": "Denmark",
-   "tipos": []
-  },
-  {
-   "titulo": "La sorprendente revelación de un exhausto Haaland antes del decisivo duelo ante Dinamarca",
-   "fuente": "Flashscore.es",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFNtdFdtWlJRemdtb1plVldlazhybjFERVVfTXJVcGp5TENvdWhSUXhEOU5ERUwycElrUEs4UnlTMXBiNFdjYS1icGppcFh5NF8wQVk2VGhZeE4tZ2dUV0xtVXViMmdSXzF4c1IyUzFCVW42MjBCUjBTNnNYNDdSLTVaM0NnM2NvN21hbTh5VkxKOHhjd0RHQUJqUUpXck9KQVZsb3duTQ?oc=5",
-   "fecha": "2026-11-15T09:12",
    "equipo": "Denmark",
    "tipos": []
   },
@@ -595,14 +595,6 @@
    "fecha": "2026-11-14T16:00",
    "equipo": "Romania",
    "tipos": []
-  },
-  {
-   "titulo": "Alineaciones Rumanía vs Polonia, Liga de las Naciones de la UEFA Jornada 5",
-   "fuente": "BeSoccer ES",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSFhhRFhuNXRsZWU1bjJnUlpMQ0dxR05IeUo3M3ZleU8wWW0xb3QySmpCRDNIT3FzODN3NEZPTjlLc244d0pJblJDYXBZQnZ1c0NIeVB6RXNzMmdGQ0JCemJUVDNYbi15aUJMLUZyb25Jd3BBblQzZVlZUS1mX244dzhSd3RCdkJsdmY5dzdsVlFHUQ?oc=5",
-   "fecha": "2026-11-14T14:46",
-   "equipo": "Romania",
-   "tipos": []
   }
  ],
  "1545662": [
@@ -793,6 +785,14 @@
    "tipos": []
   },
   {
+   "titulo": "En Chile dicen que Isco y Bellerín le han pedido a Pellegrini que no se vaya del Betis",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT0NUTVBlMy1UdGl1UVBJMTY1ejNRZEkwemZYakYxWF9kbEVoMDNtbFcwVjdNRUFFNTB0Y0M3WmFkejhWd1FpZUFodlRLQ2ZqSnpHUDljUHlhUmUyQ0J0MjFJVWZydUVvT1AxR0gydFdKVVAzRTJMT3NYcEMwa0dib3FNNFp6eUQ1NEhiRW9JLXlNNW1pcXJKV19OSUoyOVE2ZEdLd0ZTdUUtVVByRUZoMko4SDAxYWd5UkZKdGxNcHd5YlV0c2xWdFlVa2o0Z3A1dGtYeTZ1RXJjd2RUZUQtbml3?oc=5",
+   "fecha": "2026-11-15T20:04",
+   "equipo": "Lithuania",
+   "tipos": []
+  },
+  {
    "titulo": "Alineaciones confirmadas de España e Inglaterra en la jornada 6 de la UEFA Nations League",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWlDRFNCemt1aVNvNHpRWnFuS0xMMEEtS0tVX1NvWExfd2oxbUVZOHNiTGxQMGN3X01WRGdaVVhPVjM1aGdCbGhlZ1RDVk1JV0JZZjFLQjBhM3ZZV0d4Y01SY3dFZWZDOWFJazUyemNaRDFOek0zYUFtb3pwTEhwQWl2SDBpeUVRQi1FY1FTVGR3R1VzQ3VLeUFFVmZ4MWNvQTZaUFZ3WGE3VHhKT3BxSkUxczdINjQyenBV?oc=5",
@@ -821,14 +821,6 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXpqamh1cGU3TzZOM18wd0kyYXU1UzFMYXVWbGpVMHlrMWQ4cko0dDhpS21hMVVtRGVQQkNWRVJST3dGRWpTQ3E4RFBqN0I4a3c0UG5fekF0WURnVmdNbXRzVnhlSHNwNVVsM0ZfOExZT3hUcFdLLWVQZm1XOGF2RERQaGFtMjlhdjNyMFlVaG54ejZ5dkFkT0ptTGZsMC1rX05WU1lYSHlIYzJxSkRLV2w5bnVqSzFRd0E?oc=5",
    "fecha": "2026-11-15T12:01",
-   "equipo": "Lithuania",
-   "tipos": []
-  },
-  {
-   "titulo": "Lituania vs. Liechtenstein, Liga de Naciones 2026: día, hora y cómo seguir online",
-   "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGtSUUF3cDZNVGpKWW1iQlVITTVTVS1feS1GVExlZTYwQndXVmwwM0pQbHNRNjFMeGlZZUFtZE1GalNaaWV5YUYwX05tZHhBVl9fekZnNUh0c0puVmQ1Z0JQQXJ3RjJvT3lMSzZibU5OSmtHTnVoNTFHRHZ6ZmdVVU5saDVRTkp1SThUWC1qSjFoeGZZVzVjN3NBakxHOEstLW5GOU5yOWlDT2g1b0h6T2w4eERBRFRNbm82VnNTd0Z0YWM0ZjUyWV9OeldyVW8?oc=5",
-   "fecha": "2026-11-15T06:02",
    "equipo": "Lithuania",
    "tipos": []
   }
@@ -908,9 +900,9 @@
   },
   {
    "titulo": "Alineaciones de Irlanda del Norte y Ucrania por la Liga de Naciones: formaciones probables",
-   "fuente": "Bolavip México",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDdhdlhEUmdxZ3NEeFZlTVpNOFZab1hRVHRQS1VJakFaVkl1VC1ILWFzNGhhUlZmVWE0d0cySTItMURva3JCdnB2NkVnT3gzUmcyVmZzdHJuUkFZWjRhS25HTkJxbThwcnllUkZaSkhPd1FIbnpVZlpvd3BtX3NsRndaNXJMYkVNc09SX0Jsd0p4TjA2OVVrMGswaWcxbWlLUk1sWGMtS0gtTjR5LVdhWk1FODlCdUxtMU9QM1Rad1pTSWR6akdPdV8tcHRPTVY0OEpR0gHTAUFVX3lxTFB0N2F2WERSZ3Fnc0R4VmVNWk04VlpvWFFUdFBLVUlqQVpWSXVULUgtYXM0aGFSVmZVYTR3RzJJMi0xRG9rckJ2cHY2RWdPeDNSZzJWZnN0cm5SQVlaNGFLbkdOQnFtOHByeWVSRlpKSE93UUhuelVmWm93cG1fc2xGd1o1ckxiRU1zT1JfQmx3SnhOMDY5VWswazBpZzFtaUtSTWxYYy1LSC1ONHktV2FaTUU4OUJ1TG0xT1AzVFp3WlNJZHpqR091Xy1wdE9NVjQ4SlE?oc=5",
-   "fecha": "2026-11-14T16:01",
+   "fuente": "Bolavip",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjJ2ZDl2c0tCV3pBaUpCaVcwdU9LMndxR0puZjdOcHgyQ3psdVZLYTh3N0tfTG9SS2hhTlZFTlp0ajJfd2lPNzJMeWVJYkNFY3BrNXQ5VUFtRzIxNnA1aUoyS3R4X3pYNEQybUdaYVN2VWJNS3QwOXJ4NjFOcU9ZMHZmSTJIbUpjNnkzZHRud05saW12VUFxRWVQX3BRTVRKUzhhazNFZy1sSm9uY1JRVzd1cVVpSk5uNnFlZmM5RGhZWHZMTzNn0gHHAUFVX3lxTFA2MnZkOXZzS0JXekFpSkJpVzB1T0syd3FHSm5mN05weDJDemx1VkthOHc3S19Mb1JLaGFOVkVOWnRqMl93aU83Mkx5ZUliQ0VjcGs1dDlVQW1HMjE2cDVpSjJLdHhfelg0RDJtR1phU3ZVYk1LdDA5cng2MU5xT1kwdmZJMkhtSmM2eTNkdG53TmxpbXZVQXFFZVBfcFFNVEpTOGFrM0VnLWxKb25jUlFXN3VxVWlKTm42cWVmYzlEaFlYdkxPM2c?oc=5",
+   "fecha": "2026-11-14T16:02",
    "equipo": "Ukraine",
    "tipos": []
   },
@@ -975,6 +967,14 @@
    "fuente": "Facebook",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUmdYRnlzZi1YWkw0cWJMd2RzT0RJM1RLNDhCYlVrVXZGUlNRTk1PcVZuSWRnWXlaNm9DYkVMc2VZc0ZRYkhhMlhjcnJfeVlUV1QtWnpNS3AwWTIwMWduMkNyM3ZzZ21TTmhoUFhGZFZnQ0IwY2xyalM2VUNrRXNEaHVOb1RaaVZsQXNRdGtBZTRXdm9TV0VzelFzR3JlcDNOUFZlZkMxMVdMTVBtTGhqUHJiQU5kWmdNQy1sQXpibTZrN1NPVDVzTlhJVzEyTlBxUjZRWUFEQ1VSa3JvNjFyd3Foa1FwM3pz?oc=5",
    "fecha": "2026-11-16T00:13",
+   "equipo": "Scotland",
+   "tipos": []
+  },
+  {
+   "titulo": "Resultado de St. Mirren Reserves 1 - 2 Peterhead (03/11)",
+   "fuente": "365Scores",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemlIM2lCa3F6VEw4NmkxdUZnc0FZQTEyOEwzNEFvUFFYbE9SV2lMQTNBQ3JHN2FvQ0RxQ1pmYUJWalpUWEM2ZFRHME1nZ1VQc1dPcTlfeG5ReDJRZTVpSGlKd0wzRHVRZFUteEsxSmVLekpmZXhqYU5RTVcwSy1qTGd0ZHlqUElub3IzeUNpdEhsTTZ5eWlBSk4zYjFGdWt6aXgtQzFYQndMV1k?oc=5",
+   "fecha": "2026-11-15T19:56",
    "equipo": "Scotland",
    "tipos": []
   },
@@ -1136,6 +1136,16 @@
   }
  ],
  "1545618": [
+  {
+   "titulo": "El análisis en frío de García Plaza del Real Madrid-Sevilla: \"Entiendo al árbitro y al VAR\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUN0OXpvQmVDMktuRllMUC16Unk4Zll5SDJxbVNNR3JPaEJFa1hsR28wY2E1QUhNWUUxRllrNFVNZUlJa3pVSEVobkV3a0Vta3Z3VVZndnVKdUZqVVg3cV9PQkplV3lFYlJvTGZLYXZ0ankwR3pYVDExQ3lhWWtSRDFmN3JnOVMtZWUwejdvdlpJaHh4XzhPbGhJRFJyRFZmZ3FWalU0M0tORVBwRktHU2E2UzRRUEdZb0VYLXctT2hjRWFQZmg0bElSWk52b0E?oc=5",
+   "fecha": "2026-11-15T09:32",
+   "equipo": "Gibraltar",
+   "tipos": [
+    "arbitro"
+   ]
+  },
   {
    "titulo": "Bellingham y Cucurella, recriminación y empujón en la tangana al descanso del España - Inglaterra",
    "fuente": "El Desmarque",
@@ -1371,6 +1381,14 @@
    "tipos": []
   },
   {
+   "titulo": "La Federación Portuguesa de Fútbol cambia el número 7 para «eternizar» a Cristiano",
+   "fuente": "AlbertoNews",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPajRBem0wTlNiM0Y2Y1RHNy1Cb3ZPYjNXVHEtSkNBUElzc21TbENXckFRM21MTEY1N2lHQ3JRUEM1NGo3dFhfenVlcmphV1RVYWxKd0liM2dWTEhvT0dUaUwxdWJLSmVPdjFjTF92NUczdHA5WWt5LVlzTDdLOThxdFhzOG8xVWU2TUoxZVprUVZucVhTeGhyOXdOdEhkb2JtckdiaW5iZXBvZjZ0VHBmd3NlVm8?oc=5",
+   "fecha": "2026-11-14T19:15",
+   "equipo": "Hungary",
+   "tipos": []
+  },
+  {
    "titulo": "Alineaciones de Georgia vs Hungría | Liga de Naciones de la UEFA",
    "fuente": "YSscores",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1RVNIdk5fY0VxRTd6UGlaZEZrN0REcFZOaDNpZXV4NU1oODZ4RVJwN2Nkc0sxSVZ4TDktckRSYzBzeExVTnNzUHN5X1N1aXVDajByX0ZDTUU1ZVBnb25zbW9zcGdXaE5TUG9lN0lB?oc=5",
@@ -1517,18 +1535,18 @@
    ]
   },
   {
-   "titulo": "Cuartos durísimos: Francia, Holanda o Alemania, y Portugal…",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHZDSzFFR2VJSkFQTzdpamV2REpGVnNNakg1R3VYSVFlRVU5eTF3am0xckgzZ25nZ0h0QkdURFRlNVlQcjVKemR1bzE0R0p1azRZYWZfcUM1RjhvS1ZYUnQtcDN4d2dnN1Juc1FzUlpHUV8tWjhOR05FaklMbTJjMEpDcXYyMEx5Y1UxanNJWno3WDlHZzlEQWtQLTc1a2fSAbMBQVVfeXFMTkowYTNhUVFUaXFGMVNIT2loQ2h1MzNfaXhYV3BoNV80SFVFRUlHQzYzdUxLZTdZM2lMZ3JPOER1eXI5U2wwYmNtT01kSW1Pc1ZyRVRHZTBvTUVzTUJGQUtxTHYtU3VkaXVQQTJVeTh2b2pweEtuOUIyLVhycUp4eFR5MmgtVFdYS0RTbElmUngzUkh5QldRZUVLQjdUbzdFQkozX1FyNTlrcmZqcXpubnhNdUU?oc=5",
-   "fecha": "2026-11-15T23:07",
+   "titulo": "Aficionado mexicano se encuentra con Joao Neves y le pide \"respetar al más grande de la historia\"",
+   "fuente": "Récord",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHRZbVl6Z0c0bWJvY2p6dnZ6NVZqUjZ1ZnJQZ1QzbFMtVWNrRFJmTnF5Ym9oanJFdG5KNEhQVUlSNFJMSHZjc0J6T0RYcVU1QUZXWkxfSkVFUVNzdUdEa3lMTWlVbVN4QXJVN2dIT24zLUZJNUVFUlN3S1RldmxWZ0puWUNBcFZDXzM2dUpZZ2FRU0pTa1I0V3pzNDAzakVNNlBRNDJEemxHVUU?oc=5",
+   "fecha": "2026-11-16T02:53",
    "equipo": "Portugal",
    "tipos": []
   },
   {
-   "titulo": "Portugal sufre goleada 4-1 en su primer partido sin Cristiano Ronaldo",
-   "fuente": "PrimerTiempo.CO",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUk1dzZHcndIN0h0clZnZDFWcllQS3pBZlZRUFFHUWhleHU0czdMMVpWVXhjWnlsdTVTM1loZzVmYUVmeG9CeFFvQ0VGcDhXMzBOZkc1QmZCLVVBeXhaOU9yVVRuODRTZE94czRHTjFnVXI5Y2NMRXcwVVloUTdxOERybWFHb294YkJUUWxlQmJ3bVFkb0NneXYwOUUwTGtCMUow?oc=5",
-   "fecha": "2026-11-15T21:02",
+   "titulo": "Cuartos durísimos: Francia, Holanda o Alemania, y Portugal…",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHZDSzFFR2VJSkFQTzdpamV2REpGVnNNakg1R3VYSVFlRVU5eTF3am0xckgzZ25nZ0h0QkdURFRlNVlQcjVKemR1bzE0R0p1azRZYWZfcUM1RjhvS1ZYUnQtcDN4d2dnN1Juc1FzUlpHUV8tWjhOR05FaklMbTJjMEpDcXYyMEx5Y1UxanNJWno3WDlHZzlEQWtQLTc1a2fSAbMBQVVfeXFMTkowYTNhUVFUaXFGMVNIT2loQ2h1MzNfaXhYV3BoNV80SFVFRUlHQzYzdUxLZTdZM2lMZ3JPOER1eXI5U2wwYmNtT01kSW1Pc1ZyRVRHZTBvTUVzTUJGQUtxTHYtU3VkaXVQQTJVeTh2b2pweEtuOUIyLVhycUp4eFR5MmgtVFdYS0RTbElmUngzUkh5QldRZUVLQjdUbzdFQkozX1FyNTlrcmZqcXpubnhNdUU?oc=5",
+   "fecha": "2026-11-15T23:07",
    "equipo": "Portugal",
    "tipos": []
   },
@@ -1695,14 +1713,6 @@
    "tipos": []
   },
   {
-   "titulo": "¡TIRO ATAJADO! disparo por Israel Luna.",
-   "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzMyZTRBeVFCcEhoLWpDa251TXhCa0tra3k1UXJxYWtsaWdvenFJU1ZjWWYweHlpbzBsaFY0cTRqcjdGUVBJNUxDclF5Y3htdUZWNFU5YVl5TFpmSm1PTXJISEZMX0RqNGE0amhRX08ySEV3cWdka2tTRGwtRUI0VlBXc1dFMHM?oc=5",
-   "fecha": "2026-11-14T22:18",
-   "equipo": "Israel",
-   "tipos": []
-  },
-  {
    "titulo": "Jugadores de Kosovo bajaron sus cabezas e hinchas abuchearon el himno de Israel antes de un partido por la Nations League",
    "fuente": "La Nación",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZU9yUE16RVR0bTRhYlFGVXJUbWJac19hbWRsVVBCSDVGNy1PcVJZa21DM1Bhci1TZFA2YWtZai1JQ3haeGFJb2NiQm5NVTNBSk9EcXV6cWVXMU1GTGo2ckhNc2RYRnNIRkh6TnB5a1VONXl1bnhHSEt1aU1ONURBcW4yalVYVWx5bHlHQXJMbGNDaVZMWndnMnVNN1VsMVNzS0YzeC01Tk5UR0VhNkszRWNhRnlzUlpxeVFMMjVjdF9HRmlMczA0LUJZYkhDWk1LdVRrSldHV0lKZFpneFZoVnE0SEo2elA5VUV3Mg?oc=5",
@@ -1745,7 +1755,7 @@
   {
    "titulo": "Alineaciones de Austria e Irlanda por la Liga de Naciones: formaciones probables",
    "fuente": "Bolavip México",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMXNPM29CdjQ3UWVyLVBiUGxuUW5ibnpqZk80Z0RUZGJkMElhb0RLcHR4b2MtWXlteGpKbGlUczF0eF85a3c4alAtMndtMG1tWnc2OEpKVVRZX3diYnBFRUZLV3RNTFptenNBaUgwNVo5dV81cXUwMTd1V2tSZGtiTFhfQndsWWNhXzczWWFDSmtWb05idV85WTZEMkhDVmxLSm5VMTl5Nk9JZWd4czJubTBQN2doZXUwM3VkNGx5UGNhdWx3ZlHSAcYBQVVfeXFMTTFzTzNvQnY0N1Flci1QYlBsblFuYm56amZPNGdEVGRiZDBJYW9ES3B0eG9jLVl5bXhqSmxpVHMxdHhfOWt3OGpQLTJ3bTBtbVp3NjhKSlVUWV93YmJwRUVGS1d0TUxabXpzQWlIMDVaOXVfNXF1MDE3dVdrUmRrYkxYX0J3bFljYV83M1lhQ0prVm9OYnVfOVk2RDJIQ1ZsS0puVTE5eTZPSWVneHMybm0wUDdnaGV1MDN1ZDRseVBjYXVsd2ZR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTZEc1JFcVl0WWM5NkIzUmEyMHczMW03OWROZW9zZklQQW9MRUNYaDM4Y3BXV0JrQlVZZFNRR2hyMjd5NUFpWE9HNEJhTnBNNXlUUDU0Q3U4S0M3VkVTUmZlcl8yVkNHanpfajhLREg5OHltOEFrNlpubXNESTI4aWhJeVZXWU0tWUNpMldBemxHa2RBbU9qNVlySDlfU2xlRWJVNHlXLVlWcy03a2wxekpnaEhfNFBmVFVZS3M1ZnPSAcYBQVVfeXFMTTFzTzNvQnY0N1Flci1QYlBsblFuYm56amZPNGdEVGRiZDBJYW9ES3B0eG9jLVl5bXhqSmxpVHMxdHhfOWt3OGpQLTJ3bTBtbVp3NjhKSlVUWV93YmJwRUVGS1d0TUxabXpzQWlIMDVaOXVfNXF1MDE3dVdrUmRrYkxYX0J3bFljYV83M1lhQ0prVm9OYnVfOVk2RDJIQ1ZsS0puVTE5eTZPSWVneHMybm0wUDdnaGV1MDN1ZDRseVBjYXVsd2ZR?oc=5",
    "fecha": "2026-11-14T16:01",
    "equipo": "Austria",
    "tipos": []
@@ -1761,18 +1771,18 @@
  ],
  "1528997": [
   {
-   "titulo": "Segundo bombo y eliminatorias: la gran importancia del partido de Kosovo en Irlanda.",
-   "fuente": "KOHA.net",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHlIVy1lZzlVQkFNalBnalZBUWd6TlBkZm1iLVVnN0hYdjdSNEJlSXZDeGEzTWNHdkVwZ1NuaXNjeFJmNHd5RE9mNmRrM01paWxYZ2FkMU9jLW5Lc1dWT1Z6RXVrYkNlYlUtWVQ0U2Mtc0xST2dUYkx5OEJEOGJ2S0FnRXl5MGdiVTZ4YWJzdmVJdE9uRTVHaGJZNDhLWGc0UC1zVVJvR0o0NlE?oc=5",
-   "fecha": "2026-11-15T09:53",
+   "titulo": "El atacante bético que sueña con ascender a la Liga de Naciones",
+   "fuente": "Flashscore.cl",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUZmdFZXZVdTV2pKMGhoMHRxUFZubGJWczBNMmNVTHlOMWw3Y1A3OG1pTGhVc2txeE12S1ZSWnBuUEh3cV9ybVJocWluUW5DWEEzLTdIMXlRTWNVQWFaamFmMjRYUjd2S2w4V0VXUXF3SVM1bG15MnJVSUI4ZlV0U2tpZy02b3ZHN1BvT1I1Mzg1UWhRVndSejh3WTdOYVg1T3NIbg?oc=5",
+   "fecha": "2026-11-15T18:39",
    "equipo": "Kosovo",
    "tipos": []
   },
   {
-   "titulo": "El atacante bético que sueña con ascender a la Liga de Naciones",
-   "fuente": "Flashscore.es",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXRaaHRlQXRjaUpjVDJveVhNcFRjSVM2cmNnQXZHZi1WWXhJLUZ2NW5IVWg3Mm5rNzdxaDNJN2JXRUlBM2N3WV9BX3M3YnRDVVdTMlRMVTZOQURIOC1CVC1ZbDJLUmpBdUgtVFp5TWduNTl0a1ZHYXlNMmJ4Ymx1SXpocmo4V2FZNHFvUGo5Q0cxbjQzeUVhbmdUVFFxMmQzcURPaA?oc=5",
-   "fecha": "2026-11-15T08:58",
+   "titulo": "Segundo bombo y eliminatorias: la gran importancia del partido de Kosovo en Irlanda.",
+   "fuente": "KOHA.net",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHlIVy1lZzlVQkFNalBnalZBUWd6TlBkZm1iLVVnN0hYdjdSNEJlSXZDeGEzTWNHdkVwZ1NuaXNjeFJmNHd5RE9mNmRrM01paWxYZ2FkMU9jLW5Lc1dWT1Z6RXVrYkNlYlUtWVQ0U2Mtc0xST2dUYkx5OEJEOGJ2S0FnRXl5MGdiVTZ4YWJzdmVJdE9uRTVHaGJZNDhLWGc0UC1zVVJvR0o0NlE?oc=5",
+   "fecha": "2026-11-15T09:53",
    "equipo": "Kosovo",
    "tipos": []
   },
