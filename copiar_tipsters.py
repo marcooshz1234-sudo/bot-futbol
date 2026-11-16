@@ -233,7 +233,8 @@ def stake(pk):
 def post_suelto(pk, ini, ahora, n):
     from plantillas import etiqueta
     # 13/11 (Marcos): fuera el «Sin argumento: solo el pick»
-    arg = next((a for a in pk.get("argumento") or [] if len(a) > 25 and not re.match(r"sin argumento", a, re.I)), None)
+    # 16/11 (Marcos: «en Telegram tiene que haber explicación»): hasta 3 razones, no solo la primera
+    args = [a for a in pk.get("argumento") or [] if len(a) > 25 and not re.match(r"sin argumento", a, re.I)][:3]
     try:
         from combis_dia import nombre_es
     except Exception:
@@ -242,8 +243,8 @@ def post_suelto(pk, ini, ahora, n):
     et = etiqueta("cabeza", f"{pk['dia']}-pick-tip-{n}")   # 11/11: no siempre la misma etiqueta
     lineas = [abrir(ABRE_PICK, f"{pk['dia']}-pick-tip-{n}")] + ([et] if et else []) + ["", texto_pata(pk), "",
               f"⚽ {nombre_es(pk['local'])} – {nombre_es(pk['visitante'])} · {dia} {ini:%H:%M}"]
-    if arg:
-        lineas += ["", f"👨‍💻 {arg}"]
+    if args:
+        lineas += [""] + [f"👨‍💻 {a}" for a in args]
     if stake(pk) != 2:   # 12/11 (Marcos): el «Stake 2/10» en todos no queda bien; solo si el suyo dice algo
         lineas += ["", f"🧠 Stake {stake(pk)}/10"]
     return {"id": f"{pk['dia']}-pick-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),

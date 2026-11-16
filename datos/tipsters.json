@@ -2867,5 +2867,25 @@
    "cuota_bet365": 1.53,
    "prob_cuota": 0.621
   }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37132",
+  "dia": "2026-11-16",
+  "local": "Albacete",
+  "visitante": "Celta Vigo II",
+  "partido_id": 1570014,
+  "texto": "Gana el Albacete",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.57,
+  "stake": null,
+  "argumento": [
+   "El Celta Fortuna llega con diez bajas: tres sancionados, tres lesionados de larga duración, tres internacionales y uno que se queda con el primer equipo.",
+   "El Albacete lleva tres victorias seguidas en liga.",
+   "Sigue en descenso y, si gana, iguala a puntos al Celta Fortuna."
+  ],
+  "auto": false,
+  "apuntado_por": "Claude 16/11 10:55 (Marcos: «mira Telegram»)"
  }
 ]

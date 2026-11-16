@@ -7352,5 +7352,22 @@
     "nota": "16/11 Marcos: «sube de nuevo el buenos días… algo guay, qué pena las tres que fallamos ayer»",
     "enviado": "2026-11-16T10:22",
     "mensaje_id": 496
+  },
+  {
+    "id": "2026-11-16-pick-tip-2",
+    "fecha": "2026-11-16T10:58",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n📋 Números en la mano antes de meterla\n\n🍀 Gana el Albacete @1,57\n\n⚽ Albacete – Celta Vigo II · hoy 20:30\n\n👨‍💻 El Celta Fortuna llega con diez bajas: tres sancionados, tres lesionados de larga duración, tres internacionales y uno que se queda con el primer equipo.\n👨‍💻 El Albacete lleva tres victorias seguidas en liga.\n👨‍💻 Sigue en descenso y, si gana, iguala a puntos al Celta Fortuna.",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [
+      "1570014|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]
