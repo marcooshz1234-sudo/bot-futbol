@@ -93,6 +93,14 @@ def acierto_tipster(nombre):
     return (v + 2) / (v + r + 4)
 
 
+TIPSTER_BUENO = 0.70   # 16/11 10:41 (Marcos: «a los tipsters buenos les dejamos pasar del 1,8»)
+
+
+def tipster_bueno(x):
+    """¿Acierta lo bastante (suavizado ≥ 70 %: INSIDER, Lafiebredelpick, MAX ANALISTA…) para saltarse el tope de 1,80?"""
+    return acierto_tipster(x.get("tipster", "")) >= TIPSTER_BUENO
+
+
 def nota_pick(x, cu, lista):
     otros = {y["tipster"] for y in lista if mismo_pick(y) == mismo_pick(x) and y["tipster"] != x["tipster"]}
     prob = (x.get("analisis") or {}).get("prob_cuota") or (1 / float(cu) / 1.05)
@@ -103,6 +111,9 @@ def nota_pick(x, cu, lista):
 def calidad_no(x, cu, lista):
     """Por qué un pick de un canal NO es bastante bueno para nuestro Telegram (o None)."""
     nota, prob, otros = nota_pick(x, cu, lista)
+    from bot import CUOTA_MAXIMA_PATA
+    if not x.get("combinada") and float(cu) > CUOTA_MAXIMA_PATA and not tipster_bueno(x):
+        return f"cuota {cu} > {CUOTA_MAXIMA_PATA} y {x['tipster']} no está entre los buenos (≥ {TIPSTER_BUENO:.0%})"
     if prob < PROB_SUELO:
         return f"demasiado arriesgado ({prob:.0%} según bet365)"
     if not x.get("combinada") and nota < NOTA_MIN:
@@ -237,7 +248,7 @@ def post_suelto(pk, ini, ahora, n):
         lineas += ["", f"🧠 Stake {stake(pk)}/10"]
     return {"id": f"{pk['dia']}-pick-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
-            "foto": None, "origen": "tipster", "directo": True, "forzar": True,
+            "foto": None, "origen": "tipster", "directo": True, "forzar": True, "tipster_bueno": tipster_bueno(pk),
             # 12/11: un «Crear apuesta»/MyMatch (gana Inglaterra + goles en la 1ª parte…) lleva varias condiciones y
             # solo tenemos una apuntada: sin sel, para que no salga el verde con una pata (lo corrige Claude a mano)
             "sel": [f"{pk['partido_id']}|{pk.get('mercado')}|{pk.get('opcion')}"]
@@ -259,7 +270,7 @@ def post_combi(patas, ahora, n):
         lineas += ["", f"📈 Cuota @{coma(total)}"]
     return {"id": f"{patas[0]['dia']}-combi-tip-{n}", "fecha": (ahora + ESPERA).strftime("%Y-%m-%dT%H:%M"),
             "texto": re.sub(r"(?<=[A-Za-zÀ-ÿ]) W(?=[\s–\-,.)!]|$)", " (fem.)", "\n".join(lineas), flags=re.M),
-            "foto": None, "origen": "tipster", "directo": True, "forzar": True,
+            "foto": None, "origen": "tipster", "directo": True, "forzar": True, "tipster_bueno": all(tipster_bueno(x) for x in patas),
             # 11/11: si alguna pata es de un partido que no seguimos, NADA de corrección automática: con patas a medias
             # el verde saldría aunque la pata sin seguir fallase (el verde/rojo lo prepara Claude a mano)
             "sel": [f"{p['partido_id']}|{p.get('mercado')}|{p.get('opcion')}" for p in patas]
