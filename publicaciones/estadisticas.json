@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 17:28",
+ "actualizado": "2026-11-16 18:01",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2948,
-   "hoy": 156,
+   "seguidores": 2961,
+   "hoy": 169,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2948
+    2961
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 435,
-   "hoy": 24,
+   "seguidores": 436,
+   "hoy": 25,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    435
+    436
    ]
   }
  },
- "total": 3427,
- "total_hoy": 182,
+ "total": 3441,
+ "total_hoy": 196,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "17:30",
+  "hora": "18:30",
   "dia": "2026-11-16",
-  "titulo": "Combi del suiza – escocia"
+  "titulo": "Todo a las 2045"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,19 +216,19 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2948,
+   "threads": 2961,
    "facebook": 1,
-   "telegram": 435
+   "telegram": 436
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 49,
+   "posts": 50,
    "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

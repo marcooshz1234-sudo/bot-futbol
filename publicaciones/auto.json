@@ -5668,7 +5668,7 @@
     ],
     "cuotas": [
       1.4,
-      1.4,
+      1.33,
       1.95,
       1.4,
       1.73
@@ -5683,7 +5683,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-16T17:02"
+    "cuotas_revisadas": "2026-11-16T18:00"
   },
   {
     "id": "2026-11-16-loca-th-1900-x50",
@@ -5702,12 +5702,12 @@
     "cuotas": [
       1.67,
       1.53,
-      1.62,
+      1.67,
       1.57,
       1.62,
       1.5,
       1.91,
-      1.95
+      1.83
     ],
     "solo_en": [
       "threads"
@@ -5719,7 +5719,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-16T17:32"
+    "cuotas_revisadas": "2026-11-16T18:00"
   },
   {
     "id": "2026-11-16-loca-th-1930-tapados",
@@ -5731,9 +5731,9 @@
       "1545618|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      2.25,
-      2.75,
-      2.5
+      2.3,
+      2.62,
+      2.38
     ],
     "solo_en": [
       "threads"
@@ -5744,7 +5744,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T18:00"
   },
   {
     "id": "2026-11-16-loca-th-2000-lista-corners",
