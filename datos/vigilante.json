@@ -104,7 +104,22 @@
   "regla-orden-2026-11-16-loca-th-1730-x500": "2026-11-16T02:55",
   "regla-orden-2026-11-16-loca-th-1830-x100": "2026-11-16T02:55",
   "regla-orden-2026-11-16-loca-th-1930-x50": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-2000-x500": "2026-11-16T02:55"
+  "regla-orden-2026-11-16-loca-th-2000-x500": "2026-11-16T02:55",
+  "check-2026-11-16-loca-th-0500-ganaambos": "2026-11-16T03:05",
+  "check-2026-11-16-loca-th-1000-x500": "2026-11-16T03:05",
+  "check-2026-11-16-loca-th-1530-x100": "2026-11-16T03:05",
+  "check-2026-11-16-loca-th-1700-x50": "2026-11-16T03:05",
+  "check-2026-11-16-loca-th-1900-ganaambos": "2026-11-16T03:05",
+  "check-2026-11-16-loca-th-1930-x500": "2026-11-16T03:05",
+  "choca-2026-11-16-1528986|Match Winner|Away-1528986|Match Winner|Draw": "2026-11-16T03:05",
+  "choca-2026-11-16-1528987|Match Winner|Draw-1528987|Match Winner|Home": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-0400-x100": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-0800-x50": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-1000-x500": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-1300-reto": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-1530-x100": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-1700-x50": "2026-11-16T03:05",
+  "regla-orden-2026-11-16-loca-th-1930-x500": "2026-11-16T03:05"
  },
  "abiertos": [
   {
@@ -120,176 +135,40 @@
    "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
   },
   {
-   "clave": "check-2026-11-16-loca-th-0500-x50",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x44,49 🤑"
+   "clave": "check-2026-11-16-loca-th-0500-ganaambos",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
   },
   {
-   "clave": "check-2026-11-16-loca-th-1500-x1000",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🎰 LA MILLONARIA x913 🎰"
+   "clave": "check-2026-11-16-loca-th-1000-x500",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x472 💎"
   },
   {
-   "clave": "check-2026-11-16-loca-th-1530-x50",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x60,37 🤑"
+   "clave": "check-2026-11-16-loca-th-1530-x100",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🔥 COMBI POR 64,08 🔥"
   },
   {
-   "clave": "check-2026-11-16-loca-th-1930-x50",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x45,02 🤑"
+   "clave": "check-2026-11-16-loca-th-1700-x50",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💸 LA DE x55,74 💸"
   },
   {
-   "clave": "check-2026-11-16-loca-th-2000-x500",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x621 💎"
+   "clave": "check-2026-11-16-loca-th-1900-ganaambos",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
   },
   {
-   "clave": "repe-2026-11-16-1528991|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 8 posts (escalera, loca-th-0500-x50, loca-th-0900-x50, loca-th-1000-lista-gana, loca-th-1300-x50, loca-th-1530-x50, loca-th-1700-lista-gana, loca-th-1930-x50)"
+   "clave": "check-2026-11-16-loca-th-1930-x500",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤪 LA LOCURA DE x329 🤪"
   },
   {
-   "clave": "repe-2026-11-16-1528986|Total - Home|Over 0.5",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (escalera, loca-th-0300-x100, loca-th-0930-x100, loca-th-1200-x100)"
+   "clave": "choca-2026-11-16-1528986|Match Winner|Away-1528986|Match Winner|Draw",
+   "t": "⚔️ 16/11: se contradicen (loca-th-0400-x100, loca-th-1130-lista-gana: Match Winner|Away ↔ loca-th-1200-empates: Match Winner|Draw)"
   },
   {
-   "clave": "repe-2026-11-16-1545662|Match Winner|Away",
-   "t": "🔁 16/11: el mismo pronóstico en 10 posts (pick-m1, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
+   "clave": "choca-2026-11-16-1528987|Match Winner|Draw-1528987|Match Winner|Home",
+   "t": "⚔️ 16/11: se contradicen (loca-th-1200-empates: Match Winner|Draw ↔ combi-m, loca-th-1130-lista-gana: Match Winner|Home)"
   },
   {
-   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (combi-m, loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1400-x500, loca-th-1500-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528990|Both Teams Score|Yes",
-   "t": "🔁 16/11: el mismo pronóstico en 7 posts (combi-m, combi-partido-m-1528990, loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1530-x50, loca-th-1900-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528990|Away Player Shots|Denzel Dumfries - 1",
-   "t": "🔁 16/11: el mismo pronóstico en 11 posts (combi-partido-m-1528990, loca-th-0300-x100, loca-th-0500-x50, loca-th-0900-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50, loca-th-1530-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528990|To Win Either Half|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (combi-partido-m-1528990, loca-th-0500-x50, loca-th-1930-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528991|Total - Home|Over 1.5",
-   "t": "🔁 16/11: el mismo pronóstico en 8 posts (pick-m2, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1300-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528989|Away Corners Over/Under|Over 1.5",
-   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1630-x100, loca-th-1730-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1570014|Total - Home|Over 1.5",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0930-x100, loca-th-1400-x500, loca-th-1730-x500, loca-th-2000-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545652|Home Player Shots|Dan Ndoye - 3",
-   "t": "🔁 16/11: el mismo pronóstico en 12 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0800-x1000, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1630-x100, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528986|Corners 1x2|Away",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1400-x500, loca-th-1430-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528990|Corners 1x2|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1200-x100, loca-th-1430-lista-corners, loca-th-1630-x100, loca-th-2030-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545618|Match Winner|Away",
-   "t": "🔁 16/11: el mismo pronóstico en 9 posts (loca-th-0300-x100, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1570014|Both Teams Score|Yes",
-   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0400-lista-ambos, loca-th-1130-x500, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1630-x100, loca-th-1830-x100, loca-th-1900-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528991|Both Teams Score|Yes",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1900-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528986|To Win Either Half|Away",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528987|To Win Either Half|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545617|Total - Home|Over 1.5",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545618|Corners 1x2|Away",
-   "t": "🔁 16/11: el mismo pronóstico en 8 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-0900-x50, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50, loca-th-2030-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1570014|Corners 1x2|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1570014|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545652|Player Fouls Committed|Lewis Ferguson - 2",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1300-x50, loca-th-1530-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528988|Corners 1x2|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528987|Home Corners Over/Under|Over 5.5",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528988|Total - Away|Over 0.5",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-0800-x1000, loca-th-1400-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545662|Home Corners Over/Under|Over 2.5",
-   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1730-x500, loca-th-2030-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528990|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1700-lista-gana)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545617|Corners Over Under|Over 8.5",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1500-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528988|To Win Either Half|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-1130-x500, loca-th-1630-x100, loca-th-1730-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528991|Home Corners Over/Under|Over 5.5",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1730-x500, loca-th-2030-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528987|Total - Away|Over 0.5",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1130-x500, loca-th-1500-x1000)"
-  },
-  {
-   "clave": "repe-2026-11-16-1545652|Corners Over Under|Over 8.5",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1830-x100, loca-th-2000-x500, loca-th-2030-lista-corners)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528991|Total - Away|Over 0.5",
-   "t": "🔁 16/11: el mismo pronóstico en 5 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1730-x500, loca-th-2000-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1528990|Away Corners Over/Under|Over 3.5",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1500-x1000, loca-th-1730-x500)"
-  },
-  {
-   "clave": "repe-2026-11-16-1570014|Total - Away|Over 0.5",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50, loca-th-1930-x50)"
-  },
-  {
-   "clave": "repe-2026-11-16-1570014|Home Corners Over/Under|Over 5.5",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-1400-x500, loca-th-1500-x1000, loca-th-1730-x500)"
-  },
-  {
-   "clave": "prensa-1528990-9ee8126c",
-   "t": "📰 Alemania–Países Bajos: «De Jong se perderá el partido entre Países Bajos y Alemania por molestias físicas» (Elbotola) · tenemos 25 post(s) de este partido: combi-m, combi-partido-m-1528990, loca-th-0300-x100, loca-th-0400-lista-ambos, loca-th-0500-x50, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-1900-lista-ambos, loca-th-1930-x50, loca-th-2000-x500, loca-th-2030-lista-corners"
+   "clave": "prensa-1528992-52705683",
+   "t": "📰 Gales–Portugal: «Bernardo Silva causa baja en Portugal por lesión - esto» (El Sol de México) · tenemos 3 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres"
   },
   {
    "clave": "regla-orden-2026-11-16-escalera",
@@ -300,76 +179,96 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0300-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x82,96 💯» (03:00)"
+   "clave": "regla-orden-2026-11-16-loca-th-0400-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 98,07 🔥» (04:00)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0500-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x44,49 🤑» (05:00)"
+   "clave": "regla-orden-2026-11-16-loca-th-0800-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,48 🤑» (08:00)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0600-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x716 💎» (06:00)"
+   "clave": "regla-orden-2026-11-16-loca-th-1000-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x472 💎» (10:00)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0800-x1000",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🚀 COMBI x867 🚀» (08:00)"
+   "clave": "regla-orden-2026-11-16-loca-th-1300-reto",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💶 RETO: DE 1€ A 506€ 💶» (13:00)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0900-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x45,92 🤑» (09:00)"
+   "clave": "regla-orden-2026-11-16-loca-th-1530-x100",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 64,08 🔥» (15:30)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0930-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x88,33 💯» (09:30)"
+   "clave": "regla-orden-2026-11-16-loca-th-1700-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x55,74 💸» (17:00)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-1130-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x795 🤪» (11:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1200-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x92,97 💯» (12:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1300-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x57,68 💸» (13:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1400-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x527 💎» (14:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1500-x1000",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🎰 LA MILLONARIA x913 🎰» (15:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1530-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x60,37 🤑» (15:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1630-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x98,44 💯» (16:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1730-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x736 💎» (17:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1830-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x129 💯» (18:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1930-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x45,02 🤑» (19:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-2000-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x621 💎» (20:00)"
+   "clave": "regla-orden-2026-11-16-loca-th-1930-x500",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x329 🤪» (19:30)"
   }
  ],
- "revisado": "2026-11-16T02:55",
+ "revisado": "2026-11-16T03:05",
  "historial": [
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x472 💎"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🔥 COMBI POR 64,08 🔥"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💸 LA DE x55,74 💸"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤪 LA LOCURA DE x329 🤪"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "⚔️ 16/11: se contradicen (loca-th-0400-x100, loca-th-1130-lista-gana: Match Winner|Away ↔ loca-th-1200-empates: Match Winner|Draw)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "⚔️ 16/11: se contradicen (loca-th-1200-empates: Match Winner|Draw ↔ combi-m, loca-th-1130-lista-gana: Match Winner|Home)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 98,07 🔥» (04:00)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,48 🤑» (08:00)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x472 💎» (10:00)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💶 RETO: DE 1€ A 506€ 💶» (13:00)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 64,08 🔥» (15:30)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x55,74 💸» (17:00)"
+  },
+  {
+   "hora": "2026-11-16T03:05",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x329 🤪» (19:30)"
+  },
   {
    "hora": "2026-11-16T02:55",
    "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x44,49 🤑"
@@ -549,66 +448,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x82,96 💯» (03:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x44,49 🤑» (05:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x716 💎» (06:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🚀 COMBI x867 🚀» (08:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x45,92 🤑» (09:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x88,33 💯» (09:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x795 🤪» (11:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x92,97 💯» (12:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x57,68 💸» (13:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x527 💎» (14:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🎰 LA MILLONARIA x913 🎰» (15:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x60,37 🤑» (15:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x98,44 💯» (16:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x736 💎» (17:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💯 LA CENTENARIA x129 💯» (18:30)"
   }
  ]
 }

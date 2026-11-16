@@ -1405,5 +1405,59 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-16-loca-th-0700-duelo",
+  "fecha": "2026-11-16T07:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570014|Home Player Shots|Diego Rodriguez - 2",
+   "1570014|Away Player Shots|Angel Arcos - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.5
+  ],
+  "real": 2.13,
+  "multiplicando": 2.1,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-16-loca-th-1400-tiros",
+  "fecha": "2026-11-16T14:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1545652|Player Fouls Committed|Lewis Ferguson - 2",
+   "1545652|Home Player Shots|Remo Freuler - 1",
+   "1545652|Player Fouls Committed|Remo Freuler - 1"
+  ],
+  "cuotas": [
+   1.44,
+   1.44,
+   1.5
+  ],
+  "real": 3.19,
+  "multiplicando": 3.11,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ]
+  ]
  }
 ]
