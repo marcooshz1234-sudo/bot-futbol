@@ -165,6 +165,7 @@
 - 👤 «Arreglado» = que no vuelva a pasar: con test.
 - 👤 Con muchas cosas que decidir: preguntar con opciones.
 - 👤 Todo cambio, a la bitácora (`informes/bitacora/AAAA-MM.md`).
+- 👤 **Navegador (su Chrome, Threads, Telegram web): solo lo de hoy** (16/11, Marcos: «estás mirando 4 días atrás… me quedo sin crédito»). Nada de scripts que bajen solos ni bucles de scroll: una lectura de la pantalla, como mucho 2-3 desplazamientos, y parar en cuanto aparezca un post de ayer. Si Marcos dice «para», no queda nada en marcha: cerrar la pestaña.
 
 - 🎯 **Combinada personal de Marcos, una cada día** (14/11, anunciado en el canal). A las 10:00 el bot le propone «Crear apuesta» por Telegram; él la monta en bet365 y manda la captura: sale como «MI COMBINADA PERSONAL DE HOY», sin dinero en la foto ni su nombre. Fuera de las reglas de nuestras combis (1,80, mercados, repetidos).
 
