@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 10:34",
+ "actualizado": "2026-11-16 10:45",
  "redes": {
   "instagram": {
    "seguidores": 42,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2863,
-   "hoy": 71,
+   "seguidores": 2865,
+   "hoy": 73,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2863
+    2865
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 425,
-   "hoy": 14,
+   "seguidores": 426,
+   "hoy": 15,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    425
+    426
    ]
   }
  },
- "total": 3331,
- "total_hoy": 86,
+ "total": 3334,
+ "total_hoy": 89,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "11:00",
+  "hora": "10:58",
   "dia": "2026-11-16",
-  "titulo": "Reto escalera · día 1/7"
+  "titulo": "Os dejo otro pick que pinta muy bien"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 42,
-   "threads": 2863,
+   "threads": 2865,
    "facebook": 1,
-   "telegram": 425
+   "telegram": 426
   }
  },
  "tipos_instagram": {
