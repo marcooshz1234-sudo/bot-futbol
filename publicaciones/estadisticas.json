@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16 05:14",
+ "actualizado": "2026-11-16 05:24",
  "redes": {
   "instagram": {
-   "seguidores": 41,
-   "hoy": 0,
+   "seguidores": 42,
+   "hoy": 1,
    "serie": [
     36,
     37,
@@ -11,12 +11,12 @@
     40,
     40,
     41,
-    41
+    42
    ]
   },
   "threads": {
-   "seguidores": 2820,
-   "hoy": 28,
+   "seguidores": 2822,
+   "hoy": 30,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2820
+    2822
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 417,
-   "hoy": 6,
+   "seguidores": 418,
+   "hoy": 7,
    "serie": [
     378,
     384,
@@ -50,13 +50,13 @@
     401,
     404,
     411,
-    417
+    418
    ]
   }
  },
- "total": 3279,
- "total_hoy": 34,
- "likes_hoy": 0,
+ "total": 3283,
+ "total_hoy": 38,
+ "likes_hoy": 1,
  "proximo": {
   "hora": "06:00",
   "dia": "2026-11-16",
@@ -215,16 +215,16 @@
    "telegram": 411
   },
   "2026-11-16": {
-   "instagram": 41,
-   "threads": 2820,
+   "instagram": 42,
+   "threads": 2822,
    "facebook": 1,
-   "telegram": 417
+   "telegram": 418
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
    "posts": 47,
-   "likes_media": 0.0,
+   "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Otros": {
