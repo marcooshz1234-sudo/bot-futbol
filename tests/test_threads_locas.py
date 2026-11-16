@@ -31,6 +31,20 @@ class ThreadsLocas(unittest.TestCase):
             fams = {p["familia"] for pt, p in sel if pt["fid"] == fid}
             self.assertFalse({"ambos", "marca"} <= fams)   # no van juntas en el mismo partido
 
+    def test_enlace_y_estilo(self):
+        import redes
+        import estilo_threads
+        self.assertTrue(redes.lleva_enlace({"id": "2026-11-16-loca-th-1000-x50", "enlace_telegram": True}))
+        self.assertFalse(redes.lleva_enlace({"id": "2026-11-16-loca-th-1030-x50", "enlace_telegram": False}))
+        t = "💎 COMBI x442 💎\n\n🏆 Gana Malta"
+        self.assertEqual(estilo_threads.estilo(t, "2026-11-16-loca-th-0700-x500"), t)
+
+    def test_tope_de_pata_por_red(self):
+        import comprobar_post as C
+        base = {"id": "2026-11-16-combi-x", "texto": "x", "cuotas": [1.5, 2.6]}
+        self.assertIn("1,80", C.bloquea(dict(base), "x") or "")                       # Telegram: máx. 1,80
+        self.assertNotIn("pata de más", C.bloquea(dict(base, solo_en=["threads"]), "x") or "")   # Threads: hasta 9
+
     def test_texto_sin_partido_repetido(self):
         pt = {"local": "Alemania", "visitante": "Países Bajos"}
         self.assertEqual(T._corto(pt, {"texto": "Ambos marcan en Alemania–Países Bajos"}), "Ambos marcan")

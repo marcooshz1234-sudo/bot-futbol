@@ -112,9 +112,12 @@ def comprobar(p, texto=None, otros=None):
     # 14/11 (Marcos): la de 1 € a 500 € puede llevar patas más grandes, sin límite (dentro de la lógica)
     if not es_copia(p) and not any(k in pid for k in ("ganadores", "marcadores", "cuotaza", "lista", "exactos", "combi-500", "boleto")):   # 14/11: los boletos de Marcos (bet365) tampoco
         from bot import CUOTA_MAXIMA_PATA
-        altas = [c for c in (p.get("cuotas") or []) if float(c) > CUOTA_MAXIMA_PATA]
+        # 16/11 (Marcos: «para Instagram y Threads no hace falta respetar lo del 1,8: puede ser desde 1,4 hasta 9»)
+        solo_redes = p.get("solo_redes") or (p.get("solo_en") and "telegram" not in p["solo_en"])
+        tope = TOPE_PATA_REDES if solo_redes else CUOTA_MAXIMA_PATA
+        altas = [c for c in (p.get("cuotas") or []) if float(c) > tope]
         if altas and not p.get("excepcion_cuota"):   # 13/11 (Marcos: «patas de máximo 1,8»); 14/11: salvo OK suyo en ese post
-            fallos.append(("cuota_alta", f"pata de más de {CUOTA_MAXIMA_PATA:.2f} (@{max(altas):.2f})".replace(".", ",")))
+            fallos.append(("cuota_alta", f"pata de más de {tope:.2f} (@{max(altas):.2f})".replace(".", ",")))
     if sels and "ganadores" not in pid and "marcadores" not in pid:
         from plantillas import choca
         if otros is None:
@@ -186,6 +189,9 @@ def _picks_txt(t):
 
 def redes_de(p):
     return set(p.get("solo_en") or ["telegram", "threads", "instagram"])
+
+
+TOPE_PATA_REDES = 9.0   # 16/11: en Threads/Instagram, patas de 1,40 a 9
 
 
 def duplicado(p, texto=None, cola=None):

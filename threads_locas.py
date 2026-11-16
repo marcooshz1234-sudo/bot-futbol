@@ -28,7 +28,7 @@ PUB = RAIZ / "publicaciones"
 DIA_INI, DIA_FIN = 9, 1          # de 09:00 a 01:00 cada 30 min; de 01:00 a 09:00 cada hora
 HUECO_DIA, HUECO_NOCHE = 30, 60
 MARGEN_INICIO = 15               # el partido tiene que empezar al menos 15 min después del post
-MIN_PATA, MAX_PATA = 1.20, 1.80   # las normas de siempre: ninguna pata por debajo de 1,20 ni por encima de 1,80
+MIN_PATA, MAX_PATA = 1.40, 9.0   # 16/11 (Marcos): en Threads e Instagram, patas de 1,40 a 9 (el tope de 1,80 es para Telegram)
 ENLACE_CADA = 4
 CUOTAS_LOCAS = (50, 100, 500, 1000)
 
@@ -193,7 +193,7 @@ def combi_cuota(partidos, objetivo, semilla, usados):
     """Combi que se acerca a la cuota objetivo con las patas más probables (como mucho 2 por partido, de
     familias distintas), variando cuáles según la semilla para que no salgan siempre las mismas."""
     rnd = int(hashlib.sha1(semilla.encode()).hexdigest(), 16)
-    minimo = {50: 1.20, 100: 1.30, 500: 1.40, 1000: 1.45}.get(objetivo, 1.2)   # cuanto más loca, patas más altas
+    minimo = {50: 1.40, 100: 1.45, 500: 1.55, 1000: 1.65}.get(objetivo, 1.4)   # cuanto más loca, patas más altas
     max_por = 2 if objetivo <= 100 else 3
     cand = []
     for i, pt in enumerate(partidos):
@@ -332,7 +332,8 @@ def plan(dia, desde=None, ya_horas=()):
             from comprobar_post import bloquea
             from bot import mercado_prohibido
             prueba = {"id": f"{dia}-loca-th-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
-                      "texto": texto, "sel": [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel]}
+                      "texto": texto, "sel": [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel],
+                      "cuotas": [p["cuota"] for _, p in sel], "solo_en": ["threads"]}
             motivo = mercado_prohibido(prueba) or bloquea(prueba, texto)
         except Exception as e:
             motivo = None
@@ -341,7 +342,8 @@ def plan(dia, desde=None, ya_horas=()):
             print("No sale", h.strftime("%H:%M"), tipo, "→", motivo)
             continue
         usados |= {(pt["fid"], p["mercado"], p["opcion"]) for pt, p in sel}
-        out.append((h, tipo, texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel]))
+        out.append((h, tipo, texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel],
+                    [p["cuota"] for _, p in sel]))
     return out
 
 
@@ -355,21 +357,35 @@ def posts(dia, desde=None):
                 from bot import MADRID
                 ya.append(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID))
     salida = []
-    for i, (h, tipo, texto, sel) in enumerate(plan(dia, desde, ya)):
+    for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(dia, desde, ya)):
         salida.append({"id": f"{dia}-loca-th-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
-                       "texto": texto, "sel": sel, "solo_en": ["threads"], "origen": "threads_locas",
-                       "sin_foto": True, "sin_porque": True, "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1})
+                       "texto": texto, "sel": sel, "cuotas": cuotas, "solo_en": ["threads"], "origen": "threads_locas",
+                       "sin_foto": True, "sin_porque": True, "fijo": True, "directo": True,
+                       "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1})
     return salida
 
 
+def guardar(ps):
+    auto = leer(PUB / "auto.json", []) or []
+    ids = {p["id"] for p in auto}
+    auto += [p for p in ps if p["id"] not in ids]
+    (PUB / "auto.json").write_text(json.dumps(auto, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 if __name__ == "__main__":
-    dia = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("-") else datetime.now().strftime("%Y-%m-%d")
+    from bot import MADRID
+    hoy = datetime.now(MADRID).strftime("%Y-%m-%d")
+    if "--auto" in sys.argv:   # en el bucle: una vez al día (en cuanto empieza el día), el plan de hoy
+        auto = leer(PUB / "auto.json", []) or []
+        if not any(p["id"].startswith(f"{hoy}-loca-th-") for p in auto):
+            ps = posts(hoy)
+            guardar(ps)
+            print(f"threads_locas: {len(ps)} posts para {hoy}")
+        raise SystemExit(0)
+    dia = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("-") else hoy
     ps = posts(dia)
     if "--guardar" in sys.argv:
-        auto = leer(PUB / "auto.json", []) or []
-        ids = {p["id"] for p in auto}
-        auto += [p for p in ps if p["id"] not in ids]
-        (PUB / "auto.json").write_text(json.dumps(auto, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        guardar(ps)
         print(f"{len(ps)} posts locos guardados para {dia}")
     else:
         for p in ps:

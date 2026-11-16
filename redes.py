@@ -264,6 +264,8 @@ def lleva_enlace(p):
     """Verdes (combis, escalera, boletos), balance del día con más acertados que fallados y, desde el 29/10,
     las combis, listas y boletos. Desde el 02/11: solo verdes (2 al día) y la loca."""
     pid = p.get("id", "")
+    if "enlace_telegram" in p:   # 16/11: las locas de Threads lo dicen ellas (1 de cada 4)
+        return bool(p["enlace_telegram"])
     if p.get("fecha", "") >= DESDE_MAS:   # 12/11 (Marcos: «pon más el enlace de Telegram en Threads»)
         if "verde" in pid:
             return True

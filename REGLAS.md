@@ -16,7 +16,10 @@
   - Formato: partidos sin foto → solo texto con emojis; un partido con 4-5 cosas → los 2 escudos; un pick solo → su foto.
   - **Nada de cuánto hemos acertado** (ni verdes, ni rojos, ni balances, ni como comentario), salvo un verde de **cuota 10 o más** («Señores, acertamos tal»).
   - Lo que más importa medir es **la gente que te sigue desde cada post** (y los likes); las visualizaciones también, pero menos (rendimiento_redes.py).
-- **Telegram = lo serio (lo que luego se podrá vender).** Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
+  - **Contenido constante** (threads_locas.py): cada 30 min de 09:00 a 01:00 y cada hora de madrugada; combis x50/x100/x500/x1000, listas del día, tiros de jugadores habituales (sin esperar alineaciones). Nada de un pick suelto con explicación. Enlace del Telegram en el comentario 1 de cada 4.
+  - **Patas de 1,40 a 9** (el tope de 1,80 es solo para Telegram).
+  - Si un cuotón entra pero algún jugador no jugó (anulado), el comentario lo dice tranquilo: «han entrado todas, X no jugó y la cuota baja un poco».
+- **Telegram = lo serio (lo que luego se podrá vender).** La escalera: 1 pick (2 solo si hay uno muy fijo), explicada. Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
 
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).
