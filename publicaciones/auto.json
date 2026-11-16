@@ -7156,10 +7156,10 @@
       "1528998|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      2.88,
+      2.75,
       3.75,
-      5.0,
-      3.75
+      4.75,
+      4.0
     ],
     "origen": "threads_locas",
     "cuota_bet365": 202.0,
@@ -7170,7 +7170,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T20:11"
   },
   {
     "id": "2026-11-17-loca-th-noche-2200-lista-ambos",
