@@ -5308,7 +5308,7 @@
     "cuotas": [
       3.6,
       3.5,
-      3.25
+      3.3
     ],
     "solo_en": [
       "threads"
@@ -5319,7 +5319,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T10:33"
   },
   {
     "id": "2026-11-16-loca-th-1300-reto",
