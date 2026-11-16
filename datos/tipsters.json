@@ -2866,7 +2866,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.53,
    "prob_cuota": 0.621
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   3
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -2893,7 +2898,12 @@
    "prob_cuota": 0.637,
    "prob_pinnacle": 0.595,
    "valor_pinnacle": -0.066
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   0
+  ]
  },
  {
   "tipster": "Tipster Pérez",
@@ -2917,7 +2927,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.621
-  }
+  },
+  "estado": null,
+  "marcador": [
+   5,
+   0
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -2942,7 +2957,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.36,
    "prob_cuota": 0.658
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   5,
+   0
+  ]
  },
  {
   "tipster": "TipsPro🤙",
@@ -2962,7 +2982,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.48,
    "prob_cuota": 0.676
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   0,
+   3
+  ]
  },
  {
   "tipster": "AllSportsPicks ⚽🏀🎾",
@@ -2986,7 +3011,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.62,
    "prob_cuota": 0.602
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   0
+  ]
  },
  {
   "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
@@ -3009,7 +3039,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.625
-  }
+  },
+  "estado": null,
+  "marcador": [
+   5,
+   0
+  ]
  },
  {
   "tipster": "ENZO TIPSTER🇦🇷",
@@ -3032,7 +3067,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.654
-  }
+  },
+  "estado": null,
+  "marcador": [
+   4,
+   0
+  ]
  },
  {
   "tipster": "CRIMINALPICKS🕵🏻‍♂️",
@@ -3052,6 +3092,36 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.4,
    "prob_cuota": 0.5
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   0
+  ]
+ },
+ {
+  "tipster": "STAKE REAL | JB APUESTAS",
+  "fuente": "-1001938149766/12762",
+  "dia": "2026-11-16",
+  "local": "Germany",
+  "visitante": "Netherlands",
+  "partido_id": 1528990,
+  "texto": "Alemania o empate",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "cuota": 1.72,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.28,
+   "prob_cuota": 0.581
+  },
+  "estado": "verde",
+  "marcador": [
+   5,
+   0
+  ]
  }
 ]

@@ -5772,7 +5772,7 @@
       "1528994|Match Winner|Home"
     ],
     "cuotas": [
-      1.91,
+      1.95,
       2.2,
       1.42,
       2.1,
@@ -5824,7 +5824,8 @@
         }
       ],
       "lema": "¿TODO VERDE HOY?"
-    }
+    },
+    "cuotas_revisadas": "2026-11-16T22:38"
   },
   {
     "id": "2026-11-17-pick-seguro",
