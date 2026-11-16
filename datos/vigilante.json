@@ -126,7 +126,8 @@
   "repe-2026-11-16-1528990|Home Player Shots|Florian Wirtz - 3": "2026-11-16T15:09",
   "choca-2026-11-16-1545652|Double Chance|Draw/Away-1545652|Match Winner|Home": "2026-11-16T15:09",
   "prensa-1528992-b54420e0": "2026-11-16T18:12",
-  "foto-2026-11-16-verde-auto-2026-11-16-pick-tip-2": "2026-11-16T22:50"
+  "foto-2026-11-16-verde-auto-2026-11-16-pick-tip-2": "2026-11-16T22:50",
+  "repe-2026-11-16-1528990|Goals Over/Under|Over 2.5": "2026-11-16T23:38"
  },
  "abiertos": [
   {
@@ -138,12 +139,16 @@
    "t": "🔁 16/11: el mismo pronóstico en 4 posts (pick-tip-2, boleto-l1-th, loca-th-1130-lista-gana, loca-th-1630-escudos)"
   },
   {
-   "clave": "repe-2026-11-16-1528991|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (boleto-personal, boleto-l1-th, boleto-personal-th, boleto-b-th)"
+   "clave": "repe-2026-11-16-1528990|Goals Over/Under|Over 2.5",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (pick-tip-3, boleto-propia-th-2, pick-tip-9)"
   },
   {
    "clave": "repe-2026-11-16-1528990|Home Player Shots|Florian Wirtz - 3",
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-personal, boleto-personal-th, loca-th-0800-x50)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (boleto-personal, boleto-l1-th, boleto-personal-th, boleto-b-th)"
   },
   {
    "clave": "repe-2026-11-16-1528991|Results/Both Teams Score|Home/Yes",
@@ -154,10 +159,6 @@
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
-  },
-  {
    "clave": "repe-2026-11-16-1528990|Match Winner|Home",
    "t": "🔁 16/11: el mismo pronóstico en 5 posts (boleto-larga, boleto-l1-th, boleto-c-th, boleto-aumento-th, loca-th-1130-lista-gana)"
   },
@@ -166,8 +167,12 @@
    "t": "🔁 16/11: el mismo pronóstico en 5 posts (boleto-larga, boleto-l1-th, boleto-propia-th-2, escalera, loca-th-1130-lista-gana)"
   },
   {
+   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
+  },
+  {
    "clave": "repe-2026-11-16-1528990|Both Teams Score|Yes",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-propia-th-2, combi-m, combi-partido-m-1528990)"
+   "t": "🔁 16/11: el mismo pronóstico en 4 posts (boleto-propia-th-2, pick-tip-9, combi-m, combi-partido-m-1528990)"
   },
   {
    "clave": "choca-2026-11-16-1545652|Double Chance|Draw/Away-1545652|Match Winner|Home",
@@ -178,8 +183,12 @@
    "t": "📏 Regla (escudos): combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): Home Corners Over/Under|Over 2.5 · «Os dejo la combi del Gales – Portugal ⚽🔥» (19:45)"
   }
  ],
- "revisado": "2026-11-16T23:21",
+ "revisado": "2026-11-16T23:38",
  "historial": [
+  {
+   "hora": "2026-11-16T23:38",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (pick-tip-3, boleto-propia-th-2, pick-tip-9)"
+  },
   {
    "hora": "2026-11-16T22:50",
    "t": "🖼️ Sale a las 22:57 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
@@ -415,10 +424,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 8 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-0900-x50, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50, loca-th-2030-lista-corners)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0500-x50, loca-th-0700-lista-corners, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1930-x50)"
   }
  ]
 }

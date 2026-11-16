@@ -8028,7 +8028,14 @@
     "agrupado_en": "2026-11-16-verde-grupo-2256",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-verde-auto-2026-11-16-pick-tip-1",
@@ -8043,7 +8050,14 @@
     "agrupado_en": "2026-11-16-verde-grupo-2256",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-verde-auto-2026-11-16-pick-tip-4",
@@ -8058,7 +8072,14 @@
     "solo_en": [
       "threads"
     ],
-    "agrupado_en": "2026-11-16-verde-grupo-2256"
+    "agrupado_en": "2026-11-16-verde-grupo-2256",
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-verde-auto-2026-11-16-boleto-personal",
@@ -8105,7 +8126,14 @@
     "solo_en": [
       "threads"
     ],
-    "agrupado_en": "2026-11-16-verde-grupo-2256"
+    "agrupado_en": "2026-11-16-verde-grupo-2256",
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-verde-grupo-2256",
@@ -8126,7 +8154,14 @@
       "instagram"
     ],
     "enviado": "2026-11-16T23:11",
-    "mensaje_id": 512
+    "mensaje_id": 512,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-balance-auto",
@@ -8138,6 +8173,13 @@
     "facebook": "texto",
     "sin_instagram": true,
     "enviado": "2026-11-16T23:16",
-    "mensaje_id": 513
+    "mensaje_id": 513,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
