@@ -1,10 +1,10 @@
 # GO Ahead Eagles – Fortuna Sittard
 **Eredivisie** · Regular Season - 13 · 22/11/2026 16:45 (hora España) · De Adelaarshorst
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 19:52_
+_Actualizadas: 16/11 20:01_
 
 - **1X2:** 1 **1.60**  ·  X **4.10**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.22**  ·  X2 **2.30**
@@ -30,6 +30,10 @@ _Actualizadas: 15/11 19:52_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10,5: más **1.67** · menos **2.10**
+    - 11: más **1.92** · menos **1.88**
+- **Córners 1X2:** 1 **1.22**  ·  X **11.00**  ·  2 **5.00**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.60**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -43,6 +47,11 @@ _Actualizadas: 15/11 19:52_
 - **Win Both Halves:** 1 **4.00**  ·  2 **19.00**
 - **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.50**  ·  Home/No **3.40**  ·  Draw/No **19.00**  ·  Away/No **11.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.40**
+- **Home Corners Over/Under:**
+    - 7,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.82**  ·  Menos de 5 **1.98**
 - **Home Player Shots On Target Total:** Soren Tengstedt - 1 **1.20**  ·  Thibo Baeten - 1 **1.50**  ·  Victor Edvardsen - 1 **1.50**  ·  Erik Flataker - 1 **1.22**  ·  Ofosu Boakye - 1 **1.28**  ·  Richonell Margaret - 1 **1.73**  ·  Stefan Ingi Sigurdarson - 1 **1.25**  ·  Mathis Suray - 1 **1.36**  ·  Oskar Sivertsen - 1 **1.36**  ·  Dani Tijman - 1 **2.25**  ·  Melle Meulensteen - 1 **1.57**  ·  Calvin Twigt - 1 **1.73**  ·  Evert Linthorst - 1 **1.83**  ·  Yassir Rahmouni - 1 **1.83**  ·  Dean James - 1 **3.00**  ·  Alfons Sampsted - 1 **3.50**  ·  Eus Waayers - 1 **3.25**  ·  Giovanni van Zwam - 1 **3.25**  ·  Joris Kramer - 1 **3.25**  ·  Julius Dirksen - 1 **3.25**  ·  Tomas Galvez - 1 **3.25**  ·  Soren Tengstedt - 2 **1.91**  ·  Thibo Baeten - 2 **3.40**  ·  Victor Edvardsen - 2 **3.40**  ·  Erik Flataker - 2 **2.00**  ·  Ofosu Boakye - 2 **2.38**  ·  Richonell Margaret - 2 **4.50**  ·  Stefan Ingi Sigurdarson - 2 **2.10**  ·  Mathis Suray - 2 **2.75**  ·  Oskar Sivertsen - 2 **2.62**  ·  Dani Tijman - 2 **9.00**  ·  Melle Meulensteen - 2 **3.75**  ·  Calvin Twigt - 2 **4.50**  ·  Evert Linthorst - 2 **5.50**  ·  Yassir Rahmouni - 2 **5.50**  ·  Dean James - 2 **15.00**  ·  Alfons Sampsted - 2 **19.00**  ·  Eus Waayers - 2 **17.00**  ·  Giovanni van Zwam - 2 **17.00**  ·  Joris Kramer - 2 **17.00**  ·  Julius Dirksen - 2 **17.00**  ·  Tomas Galvez - 2 **17.00**  ·  Soren Tengstedt - 3 **4.00**  ·  Thibo Baeten - 3 **10.00**  ·  Victor Edvardsen - 3 **10.00**  ·  Erik Flataker - 3 **4.33**  ·  Ofosu Boakye - 3 **5.50**  ·  Richonell Margaret - 3 **15.00**  ·  Stefan Ingi Sigurdarson - 3 **4.50**  ·  Mathis Suray - 3 **7.00**  ·  Oskar Sivertsen - 3 **7.00**  ·  Melle Meulensteen - 3 **11.00**  ·  Calvin Twigt - 3 **17.00**  ·  Evert Linthorst - 3 **19.00**  ·  Yassir Rahmouni - 3 **19.00**  ·  Soren Tengstedt - 4 **10.00**  ·  Thibo Baeten - 4 **21.00**  ·  Victor Edvardsen - 4 **21.00**  ·  Erik Flataker - 4 **11.00**  ·  Ofosu Boakye - 4 **15.00**  ·  Stefan Ingi Sigurdarson - 4 **13.00**  ·  Mathis Suray - 4 **19.00**  ·  Oskar Sivertsen - 4 **19.00**  ·  Soren Tengstedt - 5 **21.00**  ·  Erik Flataker - 5 **21.00**  ·  Terence Lantveld - 1 **2.62**  ·  Tino Jukic - 1 **3.25**  ·  Terence Lantveld - 2 **11.00**  ·  Tino Jukic - 2 **17.00**  ·  Robbin Weijenberg - 1 **1.73**  ·  Robbin Weijenberg - 2 **4.50**  ·  Robbin Weijenberg - 3 **17.00**  ·  Gerrit Nauber - 1 **2.62**  ·  Gerrit Nauber - 2 **11.00**
 - **Away Player Shots On Target Total:** Siebe Wylin **51.00**  ·  Nick de Groot **41.00**  ·  Tomas Galvez **34.00**  ·  Alfons Sampsted **51.00**  ·  Thibo Baeten **29.00**  ·  Eus Waayers **21.00**  ·  Moussa Gbemou **17.00**  ·  Yassir Rahmouni **11.00**  ·  Mohammed Ihattaren **41.00**  ·  Giovanni van Zwam **12.00**  ·  Ole Romeny **9.50**  ·  Richonell Margaret **23.00**  ·  Yassin Oukili **51.00**  ·  Oskar Sivertsen **23.00**  ·  Shiloh 't Zand **41.00**  ·  Melle Meulensteen **8.00**  ·  Kristoffer Peterson **23.00**  ·  Jasper Dahlhaus **34.00**  ·  Syb van Ottele **19.00**  ·  Daniel Ivo Pinto **126.00**  ·  Victor Edvardsen **11.00**  ·  Mathis Suray **26.00**  ·  Soren Tengstedt **21.00**  ·  Robbin Weijenberg **34.00**  ·  Evert Linthorst **13.00**  ·  Calvin Twigt **10.00**  ·  Dean James **51.00**  ·  Joris Kramer **21.00**  ·  Julius Dirksen **23.00**  ·  Gerrit Nauber **19.00**  ·  Lequincio Zeefuik **11.00**  ·  Erik Flataker **4.50**  ·  Terence Lantveld **51.00**  ·  Sven Simons **21.00**  ·  Tino Jukic **26.00**  ·  Justin Hubner **19.00**  ·  Edouard Michut **15.00**  ·  Philip Brittijn **15.00**  ·  Ofosu Boakye **5.50**
 - **Home Player Shots:** Soren Tengstedt - 1 **1.01**  ·  Thibo Baeten - 1 **1.04**  ·  Victor Edvardsen - 1 **1.04**  ·  Erik Flataker - 1 **1.01**  ·  Ofosu Boakye - 1 **1.02**  ·  Richonell Margaret - 1 **1.12**  ·  Stefan Ingi Sigurdarson - 1 **1.02**  ·  Mathis Suray - 1 **1.02**  ·  Oskar Sivertsen - 1 **1.03**  ·  Dani Tijman - 1 **1.25**  ·  Melle Meulensteen - 1 **1.04**  ·  Calvin Twigt - 1 **1.07**  ·  Evert Linthorst - 1 **1.12**  ·  Yassir Rahmouni - 1 **1.14**  ·  Dean James - 1 **1.40**  ·  Alfons Sampsted - 1 **1.67**  ·  Eus Waayers - 1 **1.62**  ·  Giovanni van Zwam - 1 **1.62**  ·  Joris Kramer - 1 **1.62**  ·  Julius Dirksen - 1 **1.62**  ·  Tomas Galvez - 1 **1.62**  ·  Soren Tengstedt - 2 **1.06**  ·  Thibo Baeten - 2 **1.22**  ·  Victor Edvardsen - 2 **1.22**  ·  Erik Flataker - 2 **1.11**  ·  Ofosu Boakye - 2 **1.12**  ·  Richonell Margaret - 2 **1.53**  ·  Stefan Ingi Sigurdarson - 2 **1.12**  ·  Mathis Suray - 2 **1.17**  ·  Oskar Sivertsen - 2 **1.20**  ·  Dani Tijman - 2 **2.10**  ·  Melle Meulensteen - 2 **1.22**  ·  Calvin Twigt - 2 **1.36**  ·  Evert Linthorst - 2 **1.62**  ·  Yassir Rahmouni - 2 **1.62**  ·  Dean James - 2 **2.62**  ·  Alfons Sampsted - 2 **4.00**  ·  Eus Waayers - 2 **3.75**  ·  Giovanni van Zwam - 2 **3.75**  ·  Joris Kramer - 2 **3.75**  ·  Julius Dirksen - 2 **3.75**  ·  Tomas Galvez - 2 **3.75**  ·  Soren Tengstedt - 3 **1.20**  ·  Thibo Baeten - 3 **1.67**  ·  Victor Edvardsen - 3 **1.67**  ·  Erik Flataker - 3 **1.36**  ·  Ofosu Boakye - 3 **1.40**  ·  Richonell Margaret - 3 **2.62**  ·  Stefan Ingi Sigurdarson - 3 **1.40**  ·  Mathis Suray - 3 **1.50**  ·  Oskar Sivertsen - 3 **1.57**  ·  Dani Tijman - 3 **4.33**  ·  Melle Meulensteen - 3 **1.67**  ·  Calvin Twigt - 3 **2.10**  ·  Evert Linthorst - 3 **2.75**  ·  Yassir Rahmouni - 3 **2.75**  ·  Dean James - 3 **6.50**  ·  Alfons Sampsted - 3 **11.00**  ·  Eus Waayers - 3 **11.00**  ·  Giovanni van Zwam - 3 **11.00**  ·  Joris Kramer - 3 **11.00**  ·  Julius Dirksen - 3 **11.00**  ·  Tomas Galvez - 3 **11.00**  ·  Soren Tengstedt - 4 **1.53**  ·  Thibo Baeten - 4 **2.50**  ·  Victor Edvardsen - 4 **2.50**  ·  Erik Flataker - 4 **1.83**  ·  Ofosu Boakye - 4 **2.00**  ·  Richonell Margaret - 4 **5.00**  ·  Stefan Ingi Sigurdarson - 4 **2.00**  ·  Mathis Suray - 4 **2.20**  ·  Oskar Sivertsen - 4 **2.38**  ·  Dani Tijman - 4 **10.00**  ·  Melle Meulensteen - 4 **2.50**  ·  Calvin Twigt - 4 **3.50**  ·  Evert Linthorst - 4 **5.50**  ·  Yassir Rahmouni - 4 **5.50**  ·  Soren Tengstedt - 5 **2.10**  ·  Thibo Baeten - 5 **4.33**  ·  Victor Edvardsen - 5 **4.33**  ·  Erik Flataker - 5 **2.75**  ·  Ofosu Boakye - 5 **3.25**  ·  Richonell Margaret - 5 **11.00**  ·  Stefan Ingi Sigurdarson - 5 **3.25**  ·  Mathis Suray - 5 **3.50**  ·  Oskar Sivertsen - 5 **4.00**  ·  Dani Tijman - 5 **21.00**  ·  Melle Meulensteen - 5 **4.33**  ·  Soren Tengstedt - 6 **3.25**  ·  Thibo Baeten - 6 **8.00**  ·  Victor Edvardsen - 6 **8.00**  ·  Erik Flataker - 6 **4.50**  ·  Ofosu Boakye - 6 **5.50**  ·  Richonell Margaret - 6 **21.00**  ·  Stefan Ingi Sigurdarson - 6 **5.50**  ·  Mathis Suray - 6 **6.00**  ·  Soren Tengstedt - 7 **5.50**  ·  Thibo Baeten - 7 **17.00**  ·  Victor Edvardsen - 7 **17.00**  ·  Erik Flataker - 7 **9.00**  ·  Calvin Twigt - 5 **7.00**  ·  Oskar Sivertsen - 6 **8.00**  ·  Melle Meulensteen - 6 **8.00**  ·  Stefan Ingi Sigurdarson - 7 **10.00**  ·  Ofosu Boakye - 7 **10.00**  ·  Dean James - 4 **17.00**  ·  Evert Linthorst - 5 **11.00**  ·  Yassir Rahmouni - 5 **13.00**  ·  Calvin Twigt - 6 **15.00**  ·  Mathis Suray - 7 **11.00**  ·  Melle Meulensteen - 7 **17.00**  ·  Oskar Sivertsen - 7 **15.00**  ·  Soren Tengstedt - 8 **9.00**  ·  Erik Flataker - 8 **15.00**  ·  Stefan Ingi Sigurdarson - 8 **19.00**  ·  Soren Tengstedt - 9 **17.00**  ·  Terence Lantveld - 1 **1.44**  ·  Tino Jukic - 1 **1.62**  ·  Terence Lantveld - 2 **3.00**  ·  Tino Jukic - 2 **3.75**  ·  Terence Lantveld - 3 **7.00**  ·  Tino Jukic - 3 **11.00**  ·  Ofosu Boakye - 8 **19.00**  ·  Mathis Suray - 8 **21.00**  ·  Calvin Twigt - 7 **21.00**  ·  Eus Waayers - 4 **21.00**  ·  Giovanni van Zwam - 4 **21.00**  ·  Joris Kramer - 4 **21.00**  ·  Julius Dirksen - 4 **21.00**  ·  Tomas Galvez - 4 **21.00**  ·  Evert Linthorst - 6 **21.00**  ·  Yassir Rahmouni - 6 **21.00**  ·  Terence Lantveld - 4 **19.00**  ·  Robbin Weijenberg - 1 **1.11**  ·  Robbin Weijenberg - 2 **1.53**  ·  Robbin Weijenberg - 3 **2.50**  ·  Robbin Weijenberg - 4 **4.50**  ·  Tino Jukic - 4 **21.00**  ·  Robbin Weijenberg - 5 **10.00**  ·  Robbin Weijenberg - 6 **21.00**  ·  Oskar Sivertsen - 8 **21.00**  ·  Erik Flataker - 9 **21.00**  ·  Soren Tengstedt - 10 **21.00**  ·  Gerrit Nauber - 1 **1.44**  ·  Gerrit Nauber - 2 **3.00**  ·  Gerrit Nauber - 3 **7.00**  ·  Gerrit Nauber - 4 **19.00**
@@ -198,10 +207,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
 | Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
 | Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.48 | -9% |
-| Goles más/menos: Más de 3.5 | 37% | 44% | 41% | 2.10 | -15% |
+| Goles más/menos: Más de 3.5 | 37% | 44% | 40% | 2.10 | -15% |
 | Goles más/menos: Más de 4.5 | 20% | 25% | 22% | 3.75 | -16% |
 | Goles más/menos: Menos de 2.5 | 41% | 36% | 39% | 2.60 | +0% |
-| Goles más/menos: Menos de 3.5 | 63% | 56% | 59% | 1.67 | -1% |
+| Goles más/menos: Menos de 3.5 | 63% | 56% | 60% | 1.67 | -1% |
 | Goles más/menos: Menos de 4.5 | 80% | 75% | 78% | 1.25 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 38% | 44% | 41% | 2.10 | -13% |
@@ -217,6 +226,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
 | Goles del visitante: Menos de 0.5 | 28% | 31% | 30% | 3.00 | -11% |
 | Goles del visitante: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Córners más/menos: Más de 10.5 | 39% | 56% | 48% | 1.67 | -21% |
+| Córners más/menos: Menos de 10.5 | 61% | 44% | 52% | 2.10 | +10% |
 | 1X2 descanso: X | 39% | 36% | 37% | 2.60 | -3% |
 | 1X2 descanso: 1 | 37% | 44% | 41% | 2.10 | -14% |
 

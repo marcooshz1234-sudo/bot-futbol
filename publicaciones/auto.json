@@ -5624,20 +5624,6 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-pick-seguro-2",
-    "fecha": "2026-11-16T18:00",
-    "texto": "Vamos con otro pick 🍀\n\n⚽ Alemania – Países Bajos · 20:45\n\n🍀 Más de 9,5 remates a puerta en el partido @1,61 (aprox.)\n🧠 Stake 3/10\n\n👨‍💻 Entre los dos suman casi 14 tiros a puerta de media en sus últimos partidos, bastante por encima de la línea\n👨‍💻 En los últimos 5 la suma de ambos superó 9,5 en todos\n👨‍💻 Partido de dos selecciones ofensivas que suelen generar muchas llegadas\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528990|Shots On Target|Over 9.5"
-    ],
-    "cuotas": [
-      1.61
-    ]
-  },
-  {
     "id": "2026-11-16-pick-m2",
     "fecha": "2026-11-16T18:00",
     "solo_en": [
@@ -5745,34 +5731,6 @@
     "directo": true,
     "enlace_telegram": false,
     "cuotas_revisadas": "2026-11-16T18:04"
-  },
-  {
-    "id": "2026-11-16-loca-th-2000-lista-corners",
-    "fecha": "2026-11-16T20:00",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇪🇸 Albacete–Celta de Vigo II ➜ Albacete más de 5,5 córners @1,73\n2. 🇬🇮 Gibraltar–Malta ➜ +8,5 córners @1,83\n3. 🇩🇪 Alemania–Países Bajos ➜ Alemania más córners @1,53\n4. 🇨🇭 Suiza–Escocia ➜ +8,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1570014|Home Corners Over/Under|Over 5.5",
-      "1528990|Corners 1x2|Home",
-      "1545618|Corners Over Under|Over 8.5",
-      "1545652|Corners Over Under|Over 8.5"
-    ],
-    "cuotas": [
-      1.67,
-      1.57,
-      1.95,
-      1.67
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-16T18:31"
   },
   {
     "id": "2026-11-16-loca-th-2030-ganaambos",
@@ -5888,18 +5846,34 @@
     ]
   },
   {
-    "id": "2026-11-17-combi-tres",
-    "fecha": "2026-11-17T13:30",
-    "texto": "Vamos con la combi del martes familia 🔥\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales marca\n🇭🇺 Willi Orban (Hungary): 1+ tiros\n\n📈 Cuota @2,72",
+    "id": "2026-11-17-escalera",
+    "fecha": "2026-11-17T11:00",
+    "texto": "🪜 Reto escalera · Día 1/7\n📈 De las que hemos estudiado bien\n\nAyer no salió el día 1. Borrón y cuenta nueva: otra vez desde 20€ 💪\n\n🇮🇱 Israel marca\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales marca\n\n📈 Cuota @2,20\n💶 20,00€ → 44,00€",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528992|Total - Home|Over 0.5",
+      "1528996|Total - Home|Over 0.5",
+      "1528992|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.57
+    ]
+  },
+  {
+    "id": "2026-11-17-combi-tres",
+    "fecha": "2026-11-17T13:30",
+    "texto": "Vamos con la combi del martes familia 🔥\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Más de 1,5 goles en la 2ª parte del Wales–Portugal\n🇭🇺 Willi Orban (Hungary): 1+ tiros\n\n📈 Cuota @3,11",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528992|Goals Over/Under - Second Half|Over 1.5",
       "1528995|Home Player Shots|Willi Orban - 1"
     ],
     "cuotas": [
-      1.57,
+      1.8,
       1.73
     ],
     "solo_redes": true
@@ -6737,7 +6711,7 @@
   {
     "id": "2026-11-22-picks-manana",
     "fecha": "2026-11-21T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos marcan en Burnley–Blackburn\n🇪🇸 Cordoba gana alguna de las dos partes\n🇮🇹 Federico Bernardeschi (Bologna): 1+ tiros a puerta\n🇩🇪 Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05\n🇩🇪 Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡6 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos marcan en Burnley–Blackburn\n🇪🇸 Cordoba gana alguna de las dos partes\n🇮🇹 Federico Bernardeschi (Bologna): 1+ tiros a puerta\n🇩🇪 Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05\n🇪🇸 Sporting Gijon gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -6746,6 +6720,7 @@
       "1570030|To Win Either Half|Home",
       "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1",
       "1575224|Goals Over/Under - Second Half|Over 1.5",
+      "1570031|To Win Either Half|Home",
       "1575227|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
@@ -6753,6 +6728,7 @@
       1.5,
       1.33,
       1.62,
+      1.5,
       1.73
     ],
     "solo_redes": true
@@ -7022,7 +6998,7 @@
   {
     "id": "2026-11-22-combi-partido-1575227",
     "fecha": "2026-11-22T16:55",
-    "texto": "Os dejo la combi del Werder Bremen – Hamburger SV 🇩🇪🔥\n\n🍀 Gana el Werder Bremen\n🍀 Werder Bremen marca 2 o más\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Miro Muheim: 1+ tiros\n\n📈 Cuota @6,08 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo la combi del Werder Bremen – Hamburger SV 🇩🇪🔥\n\n🍀 Gana el Werder Bremen\n🍀 Werder Bremen marca 2 o más\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Miro Muheim: 1+ tiros\n\n📈 Cuota @5,34 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7036,7 +7012,7 @@
       1.65,
       1.53,
       1.73,
-      1.73
+      1.53
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -7050,7 +7026,7 @@
       "liga": "Bundesliga"
     },
     "solo_redes": true,
-    "cuota_total": 6.08,
+    "cuota_total": 5.34,
     "cuota_calculada": true
   },
   {

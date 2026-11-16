@@ -1,10 +1,10 @@
 # Juventus – Venezia
 **Serie A** · Regular Season - 12 · 22/11/2026 12:30 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 19:52_
+_Actualizadas: 16/11 20:01_
 
 - **1X2:** 1 **1.33**  ·  X **4.75**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.18**  ·  X2 **3.25**
@@ -28,6 +28,10 @@ _Actualizadas: 15/11 19:52_
 - **Goles del visitante:**
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **4.50** · menos **1.18**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **1.95** · menos **1.85**
+- **Córners 1X2:** 1 **1.20**  ·  X **11.00**  ·  2 **5.50**
 - **1X2 descanso:** 1 **1.80**  ·  X **2.62**  ·  2 **7.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -41,6 +45,11 @@ _Actualizadas: 15/11 19:52_
 - **Win Both Halves:** 1 **3.00**  ·  2 **34.00**
 - **Results/Both Teams Score:** Home/Yes **2.88**  ·  Draw/Yes **6.00**  ·  Away/Yes **15.00**  ·  Home/No **2.25**  ·  Draw/No **15.00**  ·  Away/No **15.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **9.50**  ·  u/no 2.5 **2.88**
+- **Home Corners Over/Under:**
+    - 6,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.80**  ·  Menos de 4.5 **2.00**
 - **Home Player Shots On Target Total:** Nick Woltemade - 1 **1.25**  ·  Pape Sarr - 1 **1.91**  ·  Nick Woltemade - 2 **2.10**  ·  Pape Sarr - 2 **6.00**  ·  Nick Woltemade - 3 **4.50**  ·  Pape Sarr - 3 **21.00**  ·  Nick Woltemade - 4 **13.00**  ·  Edon Zhegrova - 1 **1.14**  ·  Jeremie Boga - 1 **1.11**  ·  Randal Kolo Muani - 1 **1.25**  ·  Francisco Conceicao - 1 **1.33**  ·  Teun Koopmeiners - 1 **1.83**  ·  Weston McKennie - 1 **1.44**  ·  Nicolas Gonzalez - 1 **1.36**  ·  Douglas Luiz - 1 **1.40**  ·  Andrea Cambiaso - 1 **2.25**  ·  Jhon Lucumi - 1 **3.00**  ·  Lloyd Kelly - 1 **3.00**  ·  Zeki Celik - 1 **3.50**  ·  Daniele Rugani - 1 **3.25**  ·  Federico Gatti - 1 **3.25**  ·  Bremer - 1 **3.25**  ·  Pierre Kalulu Kyatengwa - 1 **3.50**  ·  Kerim Alajbegovic - 2 **1.91**  ·  Edon Zhegrova - 2 **1.67**  ·  Jeremie Boga - 2 **1.57**  ·  Randal Kolo Muani - 2 **2.10**  ·  Francisco Conceicao - 2 **2.50**  ·  Teun Koopmeiners - 2 **5.50**  ·  Weston McKennie - 2 **3.25**  ·  Nicolas Gonzalez - 2 **2.75**  ·  Douglas Luiz - 2 **2.75**  ·  Andrea Cambiaso - 2 **9.00**  ·  Jhon Lucumi - 2 **15.00**  ·  Lloyd Kelly - 2 **15.00**  ·  Zeki Celik - 2 **19.00**  ·  Daniele Rugani - 2 **17.00**  ·  Federico Gatti - 2 **17.00**  ·  Bremer - 2 **17.00**  ·  Pierre Kalulu Kyatengwa - 2 **19.00**  ·  Kerim Alajbegovic - 3 **4.00**  ·  Edon Zhegrova - 3 **3.25**  ·  Jeremie Boga - 3 **2.75**  ·  Randal Kolo Muani - 3 **4.50**  ·  Francisco Conceicao - 3 **6.00**  ·  Teun Koopmeiners - 3 **19.00**  ·  Weston McKennie - 3 **9.00**  ·  Nicolas Gonzalez - 3 **7.00**  ·  Douglas Luiz - 3 **7.00**  ·  Kerim Alajbegovic - 4 **10.00**  ·  Edon Zhegrova - 4 **7.00**  ·  Jeremie Boga - 4 **5.50**  ·  Randal Kolo Muani - 4 **13.00**  ·  Francisco Conceicao - 4 **17.00**  ·  Weston McKennie - 4 **21.00**  ·  Nicolas Gonzalez - 4 **19.00**  ·  Douglas Luiz - 4 **21.00**  ·  Kerim Alajbegovic - 5 **21.00**  ·  Edon Zhegrova - 5 **17.00**  ·  Jeremie Boga - 5 **13.00**  ·  Kerim Alajbegovic - 1 **1.20**  ·  Augusto Owusu - 1 **1.83**  ·  Augusto Owusu - 2 **6.00**  ·  Augusto Owusu - 3 **21.00**
 - **Away Player Shots On Target Total:** Edon Zhegrova **26.00**  ·  Randal Kolo Muani **10.00**  ·  Albion Rrahmani **17.00**  ·  Jhon Lucumi **12.00**  ·  John Yeboah **41.00**  ·  Bremer **15.00**  ·  Zeki Celik **51.00**  ·  Kornel Lisman **67.00**  ·  Redouane Halhal **29.00**  ·  Matteo Dagasso **101.00**  ·  Lorenzo Berardi **41.00**  ·  Gianluca Busio **51.00**  ·  Akor Adams **15.00**  ·  Jeremie Boga **19.00**  ·  Lion Lauberbach **13.00**  ·  Nicolas Gonzalez **9.00**  ·  Richie Sagrado **51.00**  ·  Ridgeciano Haps **101.00**  ·  Douglas Luiz **29.00**  ·  Kike Perez **51.00**  ·  Toni Fernandez **23.00**  ·  Daniele Rugani **17.00**  ·  Thierry Correia **21.00**  ·  Lamine Dabo **81.00**  ·  Ale Gomes **41.00**  ·  Joel Schingtienne **23.00**  ·  Simone Panada **67.00**  ·  Kerim Alajbegovic **12.00**  ·  Lloyd Kelly **23.00**  ·  Pape Sarr **23.00**  ·  Matias Moreno **23.00**  ·  Nick Woltemade **4.75**  ·  Antoine Hainaut **51.00**  ·  Simon Sohm **67.00**  ·  Toma Basic **51.00**  ·  Andrea Cambiaso **51.00**  ·  Federico Gatti **11.00**  ·  Teun Koopmeiners **41.00**  ·  Weston McKennie **6.50**  ·  Francisco Conceicao **23.00**  ·  Pierre Kalulu Kyatengwa **19.00**  ·  Thorir Johann Helgason **67.00**  ·  Armel Bella-Kotchap **29.00**  ·  Augusto Owusu **15.00**
 - **Home Player Shots:** Nick Woltemade - 1 **1.02**  ·  Pape Sarr - 1 **1.17**  ·  Nick Woltemade - 2 **1.12**  ·  Pape Sarr - 2 **1.73**  ·  Nick Woltemade - 3 **1.40**  ·  Pape Sarr - 3 **3.25**  ·  Nick Woltemade - 4 **1.91**  ·  Pape Sarr - 4 **6.50**  ·  Nick Woltemade - 5 **3.00**  ·  Nick Woltemade - 6 **5.00**  ·  Nick Woltemade - 7 **10.00**  ·  Jeremie Boga - 1 **1.01**  ·  Randal Kolo Muani - 1 **1.02**  ·  Francisco Conceicao - 1 **1.02**  ·  Teun Koopmeiners - 1 **1.14**  ·  Weston McKennie - 1 **1.05**  ·  Nicolas Gonzalez - 1 **1.02**  ·  Douglas Luiz - 1 **1.03**  ·  Andrea Cambiaso - 1 **1.25**  ·  Jhon Lucumi - 1 **1.50**  ·  Lloyd Kelly - 1 **1.50**  ·  Zeki Celik - 1 **1.50**  ·  Daniele Rugani - 1 **1.57**  ·  Federico Gatti - 1 **1.57**  ·  Bremer - 1 **1.57**  ·  Pierre Kalulu Kyatengwa - 1 **1.67**  ·  Kerim Alajbegovic - 2 **1.10**  ·  Edon Zhegrova - 2 **1.07**  ·  Jeremie Boga - 2 **1.07**  ·  Randal Kolo Muani - 2 **1.12**  ·  Francisco Conceicao - 2 **1.14**  ·  Teun Koopmeiners - 2 **1.62**  ·  Weston McKennie - 2 **1.25**  ·  Nicolas Gonzalez - 2 **1.12**  ·  Douglas Luiz - 2 **1.20**  ·  Andrea Cambiaso - 2 **2.10**  ·  Jhon Lucumi - 2 **3.25**  ·  Lloyd Kelly - 2 **3.25**  ·  Zeki Celik - 2 **3.25**  ·  Daniele Rugani - 2 **3.50**  ·  Federico Gatti - 2 **3.50**  ·  Bremer - 2 **3.50**  ·  Pierre Kalulu Kyatengwa - 2 **4.00**  ·  Kerim Alajbegovic - 3 **1.30**  ·  Edon Zhegrova - 3 **1.25**  ·  Jeremie Boga - 3 **1.25**  ·  Randal Kolo Muani - 3 **1.40**  ·  Francisco Conceicao - 3 **1.50**  ·  Teun Koopmeiners - 3 **2.75**  ·  Weston McKennie - 3 **1.73**  ·  Nicolas Gonzalez - 3 **1.40**  ·  Douglas Luiz - 3 **1.57**  ·  Andrea Cambiaso - 3 **4.33**  ·  Jhon Lucumi - 3 **8.00**  ·  Lloyd Kelly - 3 **8.00**  ·  Zeki Celik - 3 **8.00**  ·  Daniele Rugani - 3 **10.00**  ·  Federico Gatti - 3 **10.00**  ·  Bremer - 3 **10.00**  ·  Pierre Kalulu Kyatengwa - 3 **11.00**  ·  Kerim Alajbegovic - 4 **1.73**  ·  Edon Zhegrova - 4 **1.57**  ·  Jeremie Boga - 4 **1.62**  ·  Randal Kolo Muani - 4 **1.91**  ·  Francisco Conceicao - 4 **2.10**  ·  Teun Koopmeiners - 4 **5.50**  ·  Weston McKennie - 4 **2.75**  ·  Nicolas Gonzalez - 4 **1.91**  ·  Douglas Luiz - 4 **2.38**  ·  Andrea Cambiaso - 4 **11.00**  ·  Jhon Lucumi - 4 **21.00**  ·  Lloyd Kelly - 4 **21.00**  ·  Zeki Celik - 4 **19.00**  ·  Daniele Rugani - 4 **21.00**  ·  Federico Gatti - 4 **21.00**  ·  Bremer - 4 **21.00**  ·  Kerim Alajbegovic - 5 **2.62**  ·  Edon Zhegrova - 5 **2.25**  ·  Jeremie Boga - 5 **2.25**  ·  Randal Kolo Muani - 5 **3.00**  ·  Francisco Conceicao - 5 **3.50**  ·  Teun Koopmeiners - 5 **13.00**  ·  Weston McKennie - 5 **5.00**  ·  Nicolas Gonzalez - 5 **3.00**  ·  Douglas Luiz - 5 **4.00**  ·  Andrea Cambiaso - 5 **21.00**  ·  Kerim Alajbegovic - 6 **4.33**  ·  Edon Zhegrova - 6 **3.50**  ·  Jeremie Boga - 6 **3.50**  ·  Randal Kolo Muani - 6 **5.00**  ·  Francisco Conceicao - 6 **6.00**  ·  Teun Koopmeiners - 6 **21.00**  ·  Weston McKennie - 6 **10.00**  ·  Nicolas Gonzalez - 6 **5.00**  ·  Douglas Luiz - 6 **7.00**  ·  Kerim Alajbegovic - 7 **8.00**  ·  Edon Zhegrova - 7 **6.00**  ·  Jeremie Boga - 7 **6.00**  ·  Randal Kolo Muani - 7 **10.00**  ·  Francisco Conceicao - 7 **11.00**  ·  Weston McKennie - 7 **19.00**  ·  Nicolas Gonzalez - 7 **10.00**  ·  Kerim Alajbegovic - 8 **15.00**  ·  Edon Zhegrova - 8 **11.00**  ·  Jeremie Boga - 8 **11.00**  ·  Randal Kolo Muani - 8 **17.00**  ·  Francisco Conceicao - 8 **21.00**  ·  Kerim Alajbegovic - 9 **21.00**  ·  Edon Zhegrova - 9 **19.00**  ·  Jeremie Boga - 9 **19.00**  ·  Kerim Alajbegovic - 1 **1.01**  ·  Pape Sarr - 5 **15.00**  ·  Nick Woltemade - 8 **17.00**  ·  Augusto Owusu - 1 **1.14**  ·  Augusto Owusu - 2 **1.67**  ·  Augusto Owusu - 3 **3.00**  ·  Augusto Owusu - 4 **6.00**  ·  Augusto Owusu - 5 **13.00**  ·  Augusto Owusu - 6 **21.00**  ·  Nicolas Gonzalez - 8 **17.00**  ·  Douglas Luiz - 7 **15.00**  ·  Douglas Luiz - 8 **21.00**
@@ -179,7 +188,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | A. Rrahmani | F | 10 | 224 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 1 | 2 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,09 · visitante 0,72 · córners esperados 10,1._
+_Goles esperados: local 2,09 · visitante 0,71 · córners esperados 10,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -189,8 +198,8 @@ _Goles esperados: local 2,09 · visitante 0,72 · córners esperados 10,1._
 | Doble oportunidad: X2 | 31% | 30% | 30% | 3.25 | -2% |
 | Doble oportunidad: 12 | 81% | 81% | 81% | 1.18 | -4% |
 | Doble oportunidad: 1X | 88% | 89% | 89% | 1.08 | -4% |
-| Ambos marcan: No | 55% | 50% | 53% | 1.91 | +0% |
-| Ambos marcan: Sí | 45% | 50% | 47% | 1.91 | -9% |
+| Ambos marcan: No | 55% | 50% | 53% | 1.91 | +1% |
+| Ambos marcan: Sí | 45% | 50% | 47% | 1.91 | -10% |
 | Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.20 | -6% |
 | Goles más/menos: Más de 2.5 | 53% | 59% | 56% | 1.62 | -9% |
 | Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -14% |
@@ -213,7 +222,9 @@ _Goles esperados: local 2,09 · visitante 0,72 · córners esperados 10,1._
 | Goles del visitante: Más de 1.5 | 16% | 21% | 18% | 4.50 | -17% |
 | Goles del visitante: Menos de 0.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Goles del visitante: Menos de 1.5 | 84% | 79% | 82% | 1.18 | -4% |
-| 1X2 descanso: X | 39% | 36% | 37% | 2.62 | -3% |
+| Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -11% |
+| Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -3% |
+| 1X2 descanso: X | 38% | 36% | 37% | 2.62 | -3% |
 | 1X2 descanso: 1 | 49% | 52% | 51% | 1.80 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

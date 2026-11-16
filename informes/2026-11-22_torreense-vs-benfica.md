@@ -1,7 +1,7 @@
 # Torreense – Benfica
 **Taça de Portugal** · Round of 32 · 22/11/2026 21:45 (hora España) · Estadio Manuel Marques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | C. Echeverri | M | 7 | 314 | 0 | 3 | 16 | 2,3 | 5 | 0,7 | 6 | 9 | 1,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,94 · visitante 2,07 · córners esperados 9,1._
+_Goles esperados: local 0,94 · visitante 2,06 · córners esperados 9,1._
 
 _Sin cuotas de Bet365 todavía para comparar._

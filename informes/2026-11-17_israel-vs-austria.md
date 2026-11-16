@@ -1,7 +1,7 @@
 # Israel – Austria
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Nagyerdei Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -190,13 +190,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 69% | 53% | 61% | 1.75 | +7% |
 | 1X2: X | 20% | 25% | 22% | 3.80 | -16% |
-| 1X2: 1 | 11% | 22% | 17% | 4.20 | -30% |
+| 1X2: 1 | 11% | 22% | 17% | 4.20 | -29% |
 | Doble oportunidad: X2 | 89% | 77% | 83% | 1.22 | +1% |
 | Doble oportunidad: 12 | 80% | 75% | 78% | 1.25 | -3% |
 | Doble oportunidad: 1X | 31% | 48% | 40% | 1.95 | -23% |
 | Ambos marcan: No | 58% | 42% | 50% | 2.20 | +11% |
 | Ambos marcan: Sí | 42% | 58% | 50% | 1.62 | -20% |
-| Goles más/menos: Más de 1.5 | 74% | 78% | 76% | 1.20 | -8% |
+| Goles más/menos: Más de 1.5 | 74% | 78% | 76% | 1.20 | -9% |
 | Goles más/menos: Más de 2.5 | 49% | 56% | 53% | 1.67 | -12% |
 | Goles más/menos: Más de 3.5 | 27% | 35% | 31% | 2.62 | -18% |
 | Goles más/menos: Menos de 1.5 | 26% | 22% | 24% | 4.33 | +3% |
@@ -212,11 +212,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 86% | 69% | 77% | 1.36 | +5% |
 | Goles del visitante: Más de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
 | Goles del visitante: Más de 2.5 | 32% | 29% | 31% | 3.25 | -1% |
-| Goles del visitante: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -11% |
+| Goles del visitante: Menos de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
 | Goles del visitante: Menos de 2.5 | 68% | 71% | 69% | 1.33 | -8% |
 | Córners más/menos: Más de 8.5 | 53% | 51% | 52% | 1.85 | -4% |
 | Córners más/menos: Menos de 8.5 | 47% | 49% | 48% | 1.95 | -7% |
-| 1X2 descanso: 2 | 48% | 40% | 44% | 2.30 | +2% |
+| 1X2 descanso: 2 | 48% | 40% | 44% | 2.30 | +1% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
 | 1X2 descanso: 1 | 12% | 21% | 17% | 4.33 | -28% |
 

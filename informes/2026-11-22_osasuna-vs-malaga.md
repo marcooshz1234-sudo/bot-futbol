@@ -1,10 +1,10 @@
 # Osasuna – Malaga
 **LaLiga** · Regular Season - 13 · 22/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 19:52_
+_Actualizadas: 16/11 20:01_
 
 - **1X2:** 1 **1.75**  ·  X **3.60**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.00**
@@ -29,6 +29,9 @@ _Actualizadas: 15/11 19:52_
     - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.98** · menos **1.82**
+- **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.25**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -42,6 +45,11 @@ _Actualizadas: 15/11 19:52_
 - **Win Both Halves:** 1 **5.00**  ·  2 **19.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **9.00**  ·  Home/No **3.00**  ·  Draw/No **11.00**  ·  Away/No **8.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.40**
+- **Home Corners Over/Under:**
+    - 5,5: más **1.91** · menos **1.80**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.80** · menos **1.91**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Away Player Shots On Target Total:** RaFA Rodriguez **29.00**  ·  Romain Del Castillo **19.00**  ·  Eneko Jauregui **7.50**  ·  David Larrubia **41.00**  ·  Haitam Abaida **51.00**  ·  Daniel Lorenzo **67.00**  ·  Ramon Enriquez **81.00**  ·  Izan Merino **67.00**  ·  Alex Pastor **26.00**  ·  Azaceta Einar Galilea **67.00**  ·  Carlos Puga **101.00**  ·  Joaquin Munoz **41.00**  ·  Jose Salinas **41.00**  ·  Pablo Martinez **41.00**  ·  Jonathan Dubasin **15.00**  ·  Mauro Echegoyen **29.00**  ·  Angel Recio **26.00**  ·  Raul Moro **29.00**  ·  Rockson Yeboah **13.00**  ·  Iker Munoz **51.00**  ·  Lucas Torro **19.00**  ·  Raul Garcia **9.00**  ·  Francisco Juani **19.00**  ·  Unai Santos **15.00**  ·  Juan Cruz **41.00**  ·  Valentin Rosier **81.00**  ·  Abel Bretones **41.00**  ·  Aimar Oroz **34.00**  ·  Alejandro Catena **10.00**  ·  Ante Budimir **4.33**  ·  Enzo Boyomo **15.00**  ·  Jon Moncayola **51.00**  ·  Jorge Herrando **15.00**  ·  Jens Cajuste **126.00**  ·  Moussa Diarra **29.00**  ·  Adam Aznou **126.00**  ·  Diego Rico **51.00**  ·  Juan Berrocal **23.00**  ·  Kike Barja **29.00**  ·  Bordonado Moi Gomez **101.00**  ·  Santos Ruben Garcia **17.00**  ·  Carlos Dotor **29.00**  ·  Fernando Calero **19.00**  ·  Carlos Chupete **19.00**  ·  Adrian Nino **17.00**  ·  Asier Osambela **21.00**  ·  Rafa Garrido **51.00**  ·  Inigo Arguibide **34.00**
 - **Anytime Goal Scorer:** RaFA Rodriguez **5.00**  ·  Romain Del Castillo **2.88**  ·  Eneko Jauregui **3.75**  ·  David Larrubia **4.75**  ·  Haitam Abaida **6.00**  ·  Daniel Lorenzo **8.00**  ·  Ramon Enriquez **10.00**  ·  Izan Merino **11.00**  ·  Alex Pastor **19.00**  ·  Azaceta Einar Galilea **19.00**  ·  Carlos Puga **19.00**  ·  Joaquin Munoz **5.00**  ·  Jose Salinas **13.00**  ·  Pablo Martinez **7.50**  ·  Jonathan Dubasin **2.88**  ·  Mauro Echegoyen **5.00**  ·  Angel Recio **13.00**  ·  Raul Moro **3.60**  ·  Rockson Yeboah **10.00**  ·  Iker Munoz **6.50**  ·  Lucas Torro **6.00**  ·  Raul Garcia **2.10**  ·  Francisco Juani **6.00**  ·  Unai Santos **10.00**  ·  Juan Cruz **4.33**  ·  Valentin Rosier **8.50**  ·  Abel Bretones **5.00**  ·  Aimar Oroz **3.60**  ·  Alejandro Catena **8.00**  ·  Ante Budimir **1.80**  ·  Enzo Boyomo **11.00**  ·  Jon Moncayola **6.00**  ·  Jorge Herrando **11.00**  ·  Jens Cajuste **13.00**  ·  Moussa Diarra **19.00**  ·  Adam Aznou **13.00**  ·  Diego Rico **8.50**  ·  Juan Berrocal **19.00**  ·  Kike Barja **4.75**  ·  Bordonado Moi Gomez **6.00**  ·  Santos Ruben Garcia **3.60**  ·  Carlos Dotor **8.00**  ·  Fernando Calero **15.00**  ·  Carlos Chupete **2.88**  ·  Adrian Nino **3.50**  ·  Asier Osambela **4.75**  ·  Rafa Garrido **13.00**  ·  Inigo Arguibide **8.00**
 - **Player to Score or Assist:** RaFA Rodriguez **3.40**  ·  Romain Del Castillo **1.91**  ·  Eneko Jauregui **2.88**  ·  David Larrubia **3.25**  ·  Haitam Abaida **3.50**  ·  Daniel Lorenzo **4.50**  ·  Ramon Enriquez **3.75**  ·  Izan Merino **4.33**  ·  Alex Pastor **11.00**  ·  Azaceta Einar Galilea **11.00**  ·  Carlos Puga **7.00**  ·  Joaquin Munoz **3.20**  ·  Jose Salinas **6.00**  ·  Pablo Martinez **3.75**  ·  Jonathan Dubasin **1.73**  ·  Mauro Echegoyen **3.00**  ·  Angel Recio **8.50**  ·  Raul Moro **2.38**  ·  Rockson Yeboah **6.00**  ·  Iker Munoz **4.75**  ·  Lucas Torro **4.75**  ·  Raul Garcia **1.73**  ·  Francisco Juani **3.40**  ·  Unai Santos **6.00**  ·  Juan Cruz **2.75**  ·  Valentin Rosier **4.50**  ·  Abel Bretones **3.40**  ·  Aimar Oroz **2.20**  ·  Alejandro Catena **4.00**  ·  Ante Budimir **1.57**  ·  Enzo Boyomo **7.50**  ·  Jon Moncayola **3.00**  ·  Jorge Herrando **8.50**  ·  Jens Cajuste **7.50**  ·  Moussa Diarra **11.00**  ·  Adam Aznou **8.50**  ·  Diego Rico **3.50**  ·  Juan Berrocal **13.00**  ·  Kike Barja **2.60**  ·  Bordonado Moi Gomez **3.25**  ·  Santos Ruben Garcia **2.00**  ·  Carlos Dotor **4.50**  ·  Fernando Calero **8.00**  ·  Carlos Chupete **2.38**  ·  Adrian Nino **2.62**  ·  Asier Osambela **3.10**  ·  Rafa Garrido **6.50**  ·  Inigo Arguibide **3.60**
@@ -209,6 +217,8 @@ _Goles esperados: local 1,71 · visitante 1,08 · córners esperados 9,3._
 | Goles del visitante: Más de 1.5 | 29% | 27% | 28% | 3.50 | -2% |
 | Goles del visitante: Menos de 0.5 | 34% | 39% | 37% | 2.38 | -13% |
 | Goles del visitante: Menos de 1.5 | 71% | 73% | 72% | 1.28 | -8% |
+| Córners más/menos: Más de 9.5 | 43% | 48% | 46% | 1.98 | -10% |
+| Córners más/menos: Menos de 9.5 | 57% | 52% | 54% | 1.82 | -1% |
 | 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
 | 1X2 descanso: 1 | 38% | 40% | 39% | 2.30 | -10% |
 

@@ -1,7 +1,7 @@
 # Monza – Fiorentina
 **Serie A** · Regular Season - 12 · 23/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -191,7 +191,7 @@ _Goles esperados: local 1,68 · visitante 1,70 · córners esperados 9,1._
 | Doble oportunidad: X2 | 62% | 74% | 68% | 1.28 | -13% |
 | Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 61% | 52% | 56% | 1.83 | +3% |
-| Ambos marcan: No | 34% | 39% | 36% | 2.38 | -14% |
+| Ambos marcan: No | 34% | 39% | 36% | 2.38 | -13% |
 | Ambos marcan: Sí | 66% | 61% | 64% | 1.53 | -3% |
 | Goles más/menos: Más de 1.5 | 85% | 79% | 82% | 1.20 | -2% |
 | Goles más/menos: Más de 2.5 | 66% | 59% | 62% | 1.62 | +1% |

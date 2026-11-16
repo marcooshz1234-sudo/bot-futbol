@@ -1,7 +1,7 @@
 # FYR Macedonia – Slovenia
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Nacional Arena Todor Proeski
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -178,17 +178,17 @@ _Sin bajas comunicadas por ahora._
 | Jure Balkovec | D | 1 | 16 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,41 · visitante 1,62 · córners esperados 9,4._
+_Goles esperados: local 0,41 · visitante 1,61 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 68% | 63% | 65% | 1.48 | -3% |
-| 1X2: X | 23% | 25% | 24% | 3.80 | -9% |
+| 1X2: X | 24% | 25% | 24% | 3.80 | -9% |
 | 1X2: 1 | 9% | 12% | 11% | 7.50 | -20% |
 | Doble oportunidad: X2 | 91% | 86% | 89% | 1.10 | -2% |
-| Doble oportunidad: 12 | 77% | 76% | 76% | 1.25 | -5% |
+| Doble oportunidad: 12 | 76% | 76% | 76% | 1.25 | -5% |
 | Doble oportunidad: 1X | 32% | 38% | 35% | 2.50 | -12% |
 | Ambos marcan: No | 73% | 59% | 66% | 1.57 | +4% |
 | Ambos marcan: Sí | 27% | 41% | 34% | 2.25 | -24% |
@@ -198,19 +198,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 40% | 31% | 36% | 3.00 | +7% |
 | Goles más/menos: Menos de 2.5 | 67% | 57% | 62% | 1.65 | +3% |
 | Goles más/menos: Menos de 3.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 58% | 65% | 62% | 1.44 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 22% | 29% | 26% | 3.25 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 35% | 38% | 2.62 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 71% | 74% | 1.33 | -1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 58% | 65% | 61% | 1.44 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 22% | 29% | 25% | 3.25 | -17% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 35% | 39% | 2.62 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 78% | 71% | 75% | 1.33 | -1% |
 | Goles del local: Más de 0.5 | 33% | 49% | 41% | 1.91 | -22% |
 | Goles del local: Menos de 0.5 | 67% | 51% | 59% | 1.80 | +6% |
-| Goles del visitante: Más de 1.5 | 48% | 51% | 50% | 1.80 | -10% |
+| Goles del visitante: Más de 1.5 | 48% | 51% | 50% | 1.80 | -11% |
 | Goles del visitante: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
 | Goles del visitante: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
 | Goles del visitante: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Córners más/menos: Más de 8.5 | 53% | 49% | 51% | 1.95 | -1% |
 | Córners más/menos: Menos de 8.5 | 47% | 51% | 49% | 1.85 | -9% |
-| 1X2 descanso: 2 | 45% | 44% | 45% | 2.10 | -7% |
+| 1X2 descanso: 2 | 45% | 44% | 44% | 2.10 | -7% |
 | 1X2 descanso: X | 47% | 42% | 45% | 2.20 | -2% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

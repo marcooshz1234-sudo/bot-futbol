@@ -1,7 +1,7 @@
 # Real Sociedad II – Cadiz
 **Segunda División** · Regular Season - 15 · 21/11/2026 16:15 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -218,9 +218,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 43% | 31% | 37% | 3.00 | +11% |
 | Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
 | Goles del visitante: Menos de 1.5 | 57% | 69% | 63% | 1.36 | -14% |
-| Córners más/menos: Más de 9.5 | 47% | 50% | 49% | 1.83 | -11% |
-| Córners más/menos: Menos de 9.5 | 53% | 50% | 51% | 1.83 | -6% |
-| 1X2 descanso: 2 | 30% | 21% | 26% | 4.33 | +10% |
+| Córners más/menos: Más de 9.5 | 47% | 50% | 48% | 1.83 | -11% |
+| Córners más/menos: Menos de 9.5 | 53% | 50% | 52% | 1.83 | -6% |
+| 1X2 descanso: 2 | 29% | 21% | 25% | 4.33 | +10% |
 | 1X2 descanso: X | 40% | 41% | 41% | 2.25 | -8% |
 | 1X2 descanso: 1 | 30% | 37% | 34% | 2.50 | -16% |
 

@@ -1,7 +1,7 @@
 # Athletic Club – Espanyol
 **LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_

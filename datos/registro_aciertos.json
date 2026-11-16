@@ -12816,7 +12816,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.683,
+  "prob_aprendida": 0.677,
   "acierto": null
  },
  "1528984|Goals Over/Under - Second Half|Over 1.5": {
@@ -12884,7 +12884,7 @@
   "valor_mercado": -0.035,
   "movimiento": -0.025,
   "ventaja": 0.137,
-  "prob_aprendida": 0.692,
+  "prob_aprendida": 0.686,
   "acierto": null
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
@@ -12906,7 +12906,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.235,
-  "prob_aprendida": 0.57,
+  "prob_aprendida": 0.568,
   "acierto": null
  },
  "1575229|Match Winner|Away": {
@@ -12994,7 +12994,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.098,
-  "prob_aprendida": 0.574,
+  "prob_aprendida": 0.573,
   "acierto": null
  },
  "1528991|Match Winner|Home": {
@@ -13039,7 +13039,8 @@
   "movimiento": null,
   "ventaja": 0.244,
   "prob_aprendida": 0.577,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1545652|Home Player Shots|Dan Ndoye - 2": {
   "partido_id": 1545652,
@@ -13060,7 +13061,7 @@
   "valor_mercado": null,
   "movimiento": -0.071,
   "ventaja": 0.231,
-  "prob_aprendida": 0.643,
+  "prob_aprendida": 0.642,
   "acierto": null
  },
  "1557473|Match Winner|Home": {
@@ -13082,7 +13083,7 @@
   "valor_mercado": -0.017,
   "movimiento": -0.071,
   "ventaja": 0.062,
-  "prob_aprendida": 0.667,
+  "prob_aprendida": 0.66,
   "acierto": null
  },
  "1550199|To Win Either Half|Home": {
@@ -13126,7 +13127,7 @@
   "valor_mercado": -0.035,
   "movimiento": -0.035,
   "ventaja": 0.051,
-  "prob_aprendida": 0.695,
+  "prob_aprendida": 0.691,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13148,7 +13149,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.283,
-  "prob_aprendida": 0.664,
+  "prob_aprendida": 0.663,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13167,10 +13168,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.017,
+  "valor_mercado": -0.006,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.613,
+  "prob_aprendida": 0.609,
   "acierto": null
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -13192,7 +13193,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.123,
-  "prob_aprendida": 0.626,
+  "prob_aprendida": 0.627,
   "acierto": null
  },
  "1528991|Home Player Shots|Konstantinos Mavropanos - 1": {
@@ -13214,7 +13215,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.265,
-  "prob_aprendida": 0.602,
+  "prob_aprendida": 0.601,
   "acierto": null
  },
  "1552823|Both Teams Score|Yes": {
@@ -13258,7 +13259,7 @@
   "valor_mercado": 0.012,
   "movimiento": null,
   "ventaja": 0.151,
-  "prob_aprendida": 0.611,
+  "prob_aprendida": 0.606,
   "acierto": null
  },
  "1528996|Corners 1x2|Away": {
@@ -13280,7 +13281,7 @@
   "valor_mercado": -0.019,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.461,
+  "prob_aprendida": 0.447,
   "acierto": null
  },
  "1570030|Match Winner|Home": {
@@ -13293,16 +13294,16 @@
   "opcion": "Home",
   "tipo": "resultado",
   "texto": "Gana el Cordoba",
-  "cuota": 1.9,
+  "cuota": 1.85,
   "frecuencia": 0.6,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.016,
-  "movimiento": null,
-  "ventaja": 0.074,
-  "prob_aprendida": 0.645,
+  "valor_mercado": -0.041,
+  "movimiento": -0.026,
+  "ventaja": 0.059,
+  "prob_aprendida": 0.68,
   "acierto": null
  },
  "1570030|To Win Either Half|Home": {
@@ -13324,7 +13325,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.083,
-  "prob_aprendida": 0.675,
+  "prob_aprendida": 0.669,
   "acierto": null
  },
  "1570030|Goals Over/Under - Second Half|Over 1.5": {
@@ -13369,7 +13370,8 @@
   "movimiento": null,
   "ventaja": 0.222,
   "prob_aprendida": 0.558,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-1"
  },
  "1528992|ShotOnTarget 1x2|Away": {
   "partido_id": 1528992,
@@ -13390,7 +13392,7 @@
   "valor_mercado": null,
   "movimiento": -0.044,
   "ventaja": 0.031,
-  "prob_aprendida": 0.499,
+  "prob_aprendida": 0.497,
   "acierto": null
  },
  "1575222|Away Corners Over/Under|Over 2.5": {
@@ -13412,7 +13414,7 @@
   "valor_mercado": 0.081,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.422,
+  "prob_aprendida": 0.414,
   "acierto": null
  },
  "1552225|Both Teams Score|Yes": {
@@ -13457,6 +13459,51 @@
   "movimiento": -0.016,
   "ventaja": 0.144,
   "prob_aprendida": 0.556,
+  "acierto": false,
+  "marcador": "2-2"
+ },
+ "1570031|To Win Either Half|Home": {
+  "partido_id": 1570031,
+  "fecha": "2026-11-22T16:15",
+  "competicion": "Segunda",
+  "local": "Sporting Gijon",
+  "visitante": "Las Palmas",
+  "mercado": "To Win Either Half",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Sporting Gijon gana alguna de las dos partes",
+  "cuota": 1.5,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.02,
+  "movimiento": null,
+  "ventaja": 0.083,
+  "prob_aprendida": 0.681,
+  "acierto": null
+ },
+ "1570030|Away Corners Over/Under|Over 3.5": {
+  "partido_id": 1570030,
+  "fecha": "2026-11-22T14:00",
+  "competicion": "Segunda",
+  "local": "Cordoba",
+  "visitante": "Oviedo",
+  "mercado": "Away Corners Over/Under",
+  "opcion": "Over 3.5",
+  "tipo": "corners",
+  "texto": "Oviedo hace más de 3,5 córners",
+  "cuota": 1.73,
+  "frecuencia": 0.778,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.048,
+  "movimiento": null,
+  "ventaja": 0.2,
+  "prob_aprendida": 0.404,
   "acierto": null
  }
 }

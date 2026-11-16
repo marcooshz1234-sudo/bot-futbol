@@ -1,7 +1,7 @@
 # Castellón – Eldense
 **Segunda División** · Regular Season - 15 · 21/11/2026 18:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -196,13 +196,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 12% | 13% | 13% | 7.00 | -11% |
 | 1X2: X | 23% | 21% | 22% | 4.50 | -3% |
 | 1X2: 1 | 65% | 66% | 66% | 1.40 | -8% |
-| Doble oportunidad: X2 | 35% | 34% | 35% | 2.75 | -5% |
+| Doble oportunidad: X2 | 35% | 34% | 34% | 2.75 | -5% |
 | Doble oportunidad: 12 | 77% | 80% | 79% | 1.18 | -7% |
 | Doble oportunidad: 1X | 88% | 86% | 87% | 1.10 | -5% |
 | Ambos marcan: No | 63% | 49% | 56% | 1.91 | +6% |
 | Ambos marcan: Sí | 37% | 51% | 44% | 1.80 | -20% |
 | Goles más/menos: Más de 2.5 | 42% | 60% | 51% | 1.57 | -20% |
-| Goles más/menos: Más de 3.5 | 21% | 39% | 30% | 2.38 | -28% |
+| Goles más/menos: Más de 3.5 | 21% | 39% | 30% | 2.38 | -29% |
 | Goles más/menos: Más de 4.5 | 9% | 22% | 15% | 4.33 | -34% |
 | Goles más/menos: Menos de 2.5 | 58% | 40% | 49% | 2.35 | +16% |
 | Goles más/menos: Menos de 3.5 | 79% | 61% | 70% | 1.53 | +7% |

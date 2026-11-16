@@ -1,7 +1,7 @@
 # Tenerife – Mallorca
 **Segunda División** · Regular Season - 15 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | A. Buksa | F | 9 | 211 | 2 | 0 | 3 | 0,3 | 2 | 0,2 | 2 | 3 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,15 · córners esperados 9,0._
+_Goles esperados: local 0,96 · visitante 1,14 · córners esperados 9,0._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -194,17 +194,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 40% | 40% | 40% | 2.30 | -8% |
 | 1X2: X | 30% | 30% | 30% | 3.10 | -8% |
-| 1X2: 1 | 30% | 30% | 30% | 3.10 | -6% |
-| Doble oportunidad: X2 | 70% | 70% | 70% | 1.36 | -5% |
+| 1X2: 1 | 31% | 30% | 30% | 3.10 | -6% |
+| Doble oportunidad: X2 | 69% | 70% | 70% | 1.36 | -5% |
 | Doble oportunidad: 12 | 70% | 70% | 70% | 1.36 | -5% |
 | Doble oportunidad: 1X | 60% | 60% | 60% | 1.57 | -5% |
 | Ambos marcan: No | 58% | 50% | 54% | 1.83 | -1% |
 | Ambos marcan: Sí | 42% | 50% | 46% | 1.83 | -16% |
 | Goles más/menos: Más de 1.5 | 62% | 69% | 66% | 1.36 | -11% |
-| Goles más/menos: Más de 2.5 | 35% | 44% | 40% | 2.15 | -15% |
+| Goles más/menos: Más de 2.5 | 35% | 44% | 39% | 2.15 | -15% |
 | Goles más/menos: Más de 3.5 | 16% | 25% | 21% | 3.75 | -23% |
 | Goles más/menos: Menos de 1.5 | 38% | 31% | 34% | 3.00 | +3% |
-| Goles más/menos: Menos de 2.5 | 65% | 56% | 60% | 1.67 | +1% |
+| Goles más/menos: Menos de 2.5 | 65% | 56% | 61% | 1.67 | +1% |
 | Goles más/menos: Menos de 3.5 | 84% | 75% | 79% | 1.25 | -1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 29% | 26% | 3.25 | -15% |

@@ -20,23 +20,6 @@
   },
   "tiempo": null
  },
- "1545617": {
-  "local": {
-   "nombre": "Iceland",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Luxembourg",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": null
- },
  "1528991": {
   "local": {
    "nombre": "Greece",
@@ -121,28 +104,6 @@
    ]
   }
  },
- "1528989": {
-  "local": {
-   "nombre": "Lithuania",
-   "dias_desde": 43,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Liechtenstein",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": null,
-  "arbitro": {
-   "nombre": "Allard Lindhout",
-   "partidos": 11,
-   "tarjetas": 2.1
-  }
- },
  "1528994": {
   "local": {
    "nombre": "Ukraine",
@@ -204,33 +165,6 @@
   },
   "tiempo": null
  },
- "1528988": {
-  "local": {
-   "nombre": "Estonia",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Bulgaria",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 21.6,
-   "temperatura": 3.7
-  },
-  "cuotas": {
-   "Home": [
-    2.1,
-    1.9
-   ]
-  }
- },
  "1528995": {
   "local": {
    "nombre": "Hungary",
@@ -246,11 +180,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 2.0,
-   "viento_kmh": 24.1,
-   "temperatura": 11.6
-  }
+  "tiempo": null
  },
  "1528992": {
   "local": {
@@ -267,11 +197,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.4,
-   "viento_kmh": 14.0,
-   "temperatura": 10.7
-  }
+  "tiempo": null
  },
  "1528996": {
   "local": {
@@ -288,11 +214,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.2,
-   "viento_kmh": 24.5,
-   "temperatura": 10.8
-  },
+  "tiempo": null,
   "cuotas": {
    "Away": [
     1.6,
@@ -315,11 +237,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 12.6,
-   "temperatura": 9.6
-  },
+  "tiempo": null,
   "cuotas": {
    "Home": [
     1.9,
@@ -343,9 +261,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 18.1,
-   "temperatura": 9.0
+   "lluvia_mm": 0.0,
+   "viento_kmh": 17.7,
+   "temperatura": 8.8
   }
  },
  "1528998": {
@@ -364,9 +282,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.8,
+   "lluvia_mm": 1.1,
    "viento_kmh": 10.0,
-   "temperatura": 7.2
+   "temperatura": 7.4
   }
  }
 }

@@ -1,10 +1,10 @@
 # Hull City – Brighton
 **Premier League** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 19:52_
+_Actualizadas: 16/11 20:01_
 
 - **1X2:** 1 **5.75**  ·  X **4.20**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.22**  ·  X2 **1.14**
@@ -188,7 +188,7 @@ _Goles esperados: local 0,58 · visitante 1,53 · córners esperados 10,2._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 60% | 62% | 61% | 1.50 | -8% |
-| 1X2: X | 26% | 22% | 24% | 4.20 | -0% |
+| 1X2: X | 26% | 22% | 24% | 4.20 | +0% |
 | 1X2: 1 | 14% | 16% | 15% | 5.75 | -13% |
 | Doble oportunidad: X2 | 86% | 84% | 85% | 1.14 | -3% |
 | Doble oportunidad: 12 | 74% | 78% | 76% | 1.22 | -7% |
@@ -200,11 +200,11 @@ _Goles esperados: local 0,58 · visitante 1,53 · córners esperados 10,2._
 | Goles más/menos: Más de 3.5 | 16% | 36% | 26% | 2.62 | -31% |
 | Goles más/menos: Más de 4.5 | 6% | 21% | 14% | 4.50 | -38% |
 | Goles más/menos: Menos de 1.5 | 38% | 21% | 29% | 4.50 | +32% |
-| Goles más/menos: Menos de 2.5 ✅ | 65% | 43% | 54% | 2.20 | +18% |
+| Goles más/menos: Menos de 2.5 ✅ | 65% | 43% | 54% | 2.20 | +19% |
 | Goles más/menos: Menos de 3.5 | 84% | 64% | 74% | 1.50 | +10% |
 | Goles más/menos: Menos de 4.5 | 94% | 79% | 86% | 1.20 | +4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 60% | 72% | 66% | 1.30 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 39% | 31% | 2.38 | -25% |
+| Goles 1ª parte más/menos: Más de 1.5 | 23% | 39% | 31% | 2.38 | -26% |
 | Goles 1ª parte más/menos: Menos de 0.5 ✅ | 40% | 28% | 34% | 3.40 | +15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 77% | 61% | 69% | 1.53 | +5% |
 | Goles del local: Más de 0.5 | 44% | 61% | 53% | 1.53 | -20% |
@@ -212,7 +212,7 @@ _Goles esperados: local 0,58 · visitante 1,53 · córners esperados 10,2._
 | Goles del local: Menos de 0.5 | 56% | 39% | 47% | 2.38 | +13% |
 | Goles del local: Menos de 1.5 | 88% | 75% | 82% | 1.25 | +2% |
 | Goles del visitante: Más de 1.5 | 45% | 61% | 53% | 1.53 | -19% |
-| Goles del visitante: Más de 2.5 | 20% | 35% | 28% | 2.62 | -27% |
+| Goles del visitante: Más de 2.5 | 20% | 35% | 28% | 2.62 | -28% |
 | Goles del visitante: Menos de 1.5 | 55% | 39% | 47% | 2.38 | +12% |
 | Goles del visitante: Menos de 2.5 | 80% | 65% | 72% | 1.44 | +4% |
 | 1X2 descanso: 2 | 41% | 46% | 43% | 2.00 | -13% |

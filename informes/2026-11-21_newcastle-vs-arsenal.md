@@ -1,7 +1,7 @@
 # Newcastle – Arsenal
 **Premier League** · Regular Season - 11 · 21/11/2026 18:30 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -188,7 +188,7 @@ _Goles esperados: local 0,80 · visitante 1,94 · córners esperados 9,1._
 |---|---|---|---|---|---|
 | 1X2: 2 | 64% | 61% | 63% | 1.53 | -4% |
 | 1X2: X | 21% | 22% | 22% | 4.20 | -9% |
-| 1X2: 1 | 15% | 16% | 16% | 5.75 | -11% |
+| 1X2: 1 | 15% | 16% | 16% | 5.75 | -10% |
 | Doble oportunidad: X2 | 85% | 83% | 84% | 1.14 | -4% |
 | Doble oportunidad: 12 | 79% | 77% | 78% | 1.22 | -5% |
 | Doble oportunidad: 1X | 36% | 40% | 38% | 2.38 | -10% |
@@ -196,10 +196,10 @@ _Goles esperados: local 0,80 · visitante 1,94 · córners esperados 9,1._
 | Ambos marcan: Sí | 47% | 52% | 50% | 1.80 | -11% |
 | Goles más/menos: Más de 1.5 | 76% | 78% | 77% | 1.22 | -6% |
 | Goles más/menos: Más de 2.5 | 52% | 55% | 53% | 1.73 | -8% |
-| Goles más/menos: Más de 3.5 | 30% | 34% | 32% | 2.75 | -12% |
+| Goles más/menos: Más de 3.5 | 29% | 34% | 32% | 2.75 | -12% |
 | Goles más/menos: Menos de 1.5 | 24% | 22% | 23% | 4.33 | -0% |
 | Goles más/menos: Menos de 2.5 | 48% | 45% | 47% | 2.10 | -2% |
-| Goles más/menos: Menos de 3.5 | 70% | 66% | 68% | 1.44 | -2% |
+| Goles más/menos: Menos de 3.5 | 71% | 66% | 68% | 1.44 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -1% |
@@ -213,6 +213,6 @@ _Goles esperados: local 0,80 · visitante 1,94 · córners esperados 9,1._
 | Goles del visitante: Menos de 1.5 | 42% | 42% | 42% | 2.20 | -7% |
 | Goles del visitante: Menos de 2.5 | 69% | 69% | 69% | 1.36 | -6% |
 | 1X2 descanso: 2 | 45% | 44% | 45% | 2.10 | -6% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.40 | -6% |
+| 1X2 descanso: X | 40% | 39% | 39% | 2.40 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

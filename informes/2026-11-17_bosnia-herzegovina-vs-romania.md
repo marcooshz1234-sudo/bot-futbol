@@ -1,7 +1,7 @@
 # Bosnia & Herzegovina – Romania
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Bilino Polje
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 13% | 23% | 18% | 4.10 | -27% |
 | 1X2: X | 18% | 25% | 22% | 3.75 | -19% |
 | 1X2: 1 | 69% | 52% | 61% | 1.80 | +9% |
-| Doble oportunidad: X2 | 31% | 48% | 40% | 1.95 | -23% |
+| Doble oportunidad: X2 | 31% | 48% | 39% | 1.95 | -23% |
 | Doble oportunidad: 12 | 82% | 75% | 78% | 1.25 | -2% |
 | Doble oportunidad: 1X | 87% | 77% | 82% | 1.22 | +0% |
 | Ambos marcan: No | 48% | 49% | 48% | 1.91 | -8% |
@@ -226,12 +226,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 34% | 51% | 43% | 1.80 | -23% |
 | Goles del local: Menos de 2.5 | 61% | 77% | 69% | 1.22 | -16% |
 | Goles del visitante: Más de 0.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Goles del visitante: Más de 1.5 | 21% | 28% | 25% | 3.40 | -17% |
+| Goles del visitante: Más de 1.5 | 21% | 28% | 24% | 3.40 | -17% |
 | Goles del visitante: Menos de 0.5 | 42% | 35% | 39% | 2.62 | +2% |
-| Goles del visitante: Menos de 1.5 | 79% | 72% | 75% | 1.30 | -2% |
+| Goles del visitante: Menos de 1.5 | 79% | 72% | 76% | 1.30 | -2% |
 | Córners más/menos: Más de 8.5 | 48% | 53% | 50% | 1.80 | -9% |
 | Córners más/menos: Menos de 8.5 | 52% | 47% | 50% | 2.00 | -1% |
-| 1X2 descanso: 2 | 14% | 21% | 17% | 4.50 | -22% |
+| 1X2 descanso: 2 | 14% | 21% | 17% | 4.50 | -23% |
 | 1X2 descanso: X | 36% | 42% | 39% | 2.20 | -14% |
 | 1X2 descanso: 1 | 50% | 37% | 44% | 2.50 | +9% |
 

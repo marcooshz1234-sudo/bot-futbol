@@ -1,10 +1,10 @@
 # Paris FC W – Køge W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Stade Charlety
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 16/11 20:00_
 
 - **1X2:** 1 **1.80**  ·  X **4.00**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.18**  ·  X2 **1.91**

@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 570 · aciertos: 355 (62%) · beneficio a 1 € por pick: -67.66 €
+Picks ya jugados: 573 · aciertos: 356 (62%) · beneficio a 1 € por pick: -68.86 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 143 | 221 | 65% | -22.82 € |
+| goles | 144 | 222 | 65% | -22.02 € |
 | jugador | 125 | 195 | 64% | -22.68 € |
-| resultado | 65 | 105 | 62% | -9.25 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
+| resultado | 65 | 106 | 61% | -10.25 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 3 | 13 | 23% | -8.14 € |
+| corners | 3 | 14 | 21% | -9.14 € |
 | fueras de juego | 0 | 3 | 0% | -3.00 € |
 | tiros a puerta | 0 | 1 | 0% | -1.00 € |
 
@@ -27,10 +27,10 @@ Picks ya jugados: 570 · aciertos: 355 (62%) · beneficio a 1 € por pick: -67.
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 6 | 8 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
-| Match Winner · Away | 8 | 11 | 73% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Match Winner · Home | 7 | 10 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
+| Match Winner · Away | 8 | 12 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
@@ -39,6 +39,7 @@ Picks ya jugados: 570 · aciertos: 355 (62%) · beneficio a 1 € por pick: -67.
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Away · Over 0.5 | 27 | 47 | 57% |
 | Total - Home · Over 1.5 | 2 | 4 | 50% |
+| Total - Away · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 9 | 19 | 47% |
 | To Win Either Half · Away | 6 | 13 | 46% |
 | Double Chance · Draw/Away | 12 | 28 | 43% |
@@ -46,11 +47,15 @@ Picks ya jugados: 570 · aciertos: 355 (62%) · beneficio a 1 € por pick: -67.
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
-| Total - Away · Over 1.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 2.5 | 1 | 3 | 33% |
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-16 · 1/3
+- ✅ Slovakia marca 2 o más · 1.80 (2-2)
+- ❌ Gana el Slovakia · 1.80 (2-2)
+- ❌ Más de 8,5 córners en Estonia–Bulgaria · 1.73 (2-1)
 
 ### 2026-11-15 · 2/4
 - ❌ Gana el Madrid CFF W · 2.10 (2-3)
@@ -194,35 +199,4 @@ Picks ya jugados: 570 · aciertos: 355 (62%) · beneficio a 1 € por pick: -67.
 - ✅ Josh Sheehan comete 1+ faltas · 1.33 (3-1)
 - ✅ Carlton Morris comete 1+ faltas · 1.33 (3-1)
 - ❌ Arouca o empate · 1.80 (1-0)
-
-### 2026-11-05 · 21/29
-- ✅ Gol en la 1ª parte del FC Midtjylland–Ajax · 1.28 (1-6)
-- ✅ Gol en la 1ª parte del Crystal Palace–1899 Hoffenheim · 1.28 (1-1)
-- ❌ Gol en la 1ª parte del Levski Sofia–Jagiellonia · 1.33 (1-0)
-- ✅ Omonia Nicosia marca · 1.36 (3-1)
-- ✅ Ferencvarosi TC marca · 1.67 (0-2)
-- ❌ Más de 8,5 córners en Lincoln Red Imps FC–HNK Hajduk Split · 1.67 (1-0)
-- ✅ Más de 1,5 goles en Mjallby AIF–Borac Banja Luka · 1.30 (2-0)
-- ✅ Koki Machida comete 1+ faltas · 1.28 (1-1)
-- ❌ Evanilson comete 1+ faltas · 1.30 (1-3)
-- ✅ James Hill comete 1+ faltas · 1.28 (1-3)
-- ✅ Real Sociedad ve más de 1,5 tarjetas · 1.57 (1-1)
-- ✅ Gol en la 1ª parte del Universitatea Craiova–Egnatia Rrogozhinë · 1.30 (2-0)
-- ❌ FC Nordsjaelland marca · 1.53 (2-0)
-- ❌ Gol en la 1ª parte del Getafe–Brighton · 1.36 (0-1)
-- ✅ FK Jablonec marca · 1.33 (1-1)
-- ❌ Gana el Bayer Leverkusen · 1.40 (0-1)
-- ✅ Dinamo Zagreb marca · 1.57 (0-2)
-- ❌ Beşiktaş o empate · 1.36 (3-2)
-- ✅ Camilo Duran: 1+ tiros a puerta · 1.36 (3-2)
-- ❌ Beşiktaş gana alguna de las dos partes · 1.57 (3-2)
-- ✅ Más de 1,5 goles en AZ Alkmaar–Juventus · 1.25 (1-2)
-- ✅ Timothy Weah comete 1+ faltas · 1.28 (0-1)
-- ✅ Dion Beljo comete 1+ faltas · 1.28 (0-2)
-- ✅ Miguel Gutierrez comete 1+ faltas · 1.44 (0-1)
-- ✅ Beşiktaş hace más tiros · 1.67 (3-2)
-- ✅ Benfica ve más de 1,5 tarjetas · 1.73 (3-1)
-- ✅ Josip Misic comete 1+ faltas · 1.40 (0-2)
-- ✅ Más de 1,5 goles en Celta Vigo–Union St. Gilloise · 1.30 (1-2)
-- ✅ Lech Poznan hace más de 2,5 córners · 1.62 (3-1)
 

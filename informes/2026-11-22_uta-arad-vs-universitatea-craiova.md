@@ -1,10 +1,41 @@
 # Uta Arad – Universitatea Craiova
 **Liga I** · Regular Season - 16 · 22/11/2026 16:30 (hora España) · Arena Francisc Neuman
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 20:01_
+
+- **1X2:** 1 **4.33**  ·  X **3.60**  ·  2 **1.70**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles del local:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.20**  ·  2 **2.30**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.40**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.75**
+- **Win Both Halves:** 1 **19.00**  ·  2 **5.00**
+- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **4.00**  ·  Home/No **8.00**  ·  Draw/No **10.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.25**
 
 ## Estadísticas de equipo
 | | Uta Arad (total) | Uta Arad en casa | Universitatea Craiova (total) | Universitatea Craiova fuera |
@@ -141,4 +172,32 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,86 · visitante 1,59 · córners esperados 9,0._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 55% | 54% | 54% | 1.70 | -8% |
+| 1X2: X | 25% | 25% | 25% | 3.60 | -9% |
+| 1X2: 1 | 20% | 21% | 21% | 4.33 | -11% |
+| Ambos marcan: No | 54% | 50% | 52% | 1.83 | -5% |
+| Ambos marcan: Sí | 46% | 50% | 48% | 1.83 | -12% |
+| Goles más/menos: Más de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
+| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
+| Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
+| Goles más/menos: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
+| Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
+| Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
+| Goles del local: Más de 0.5 | 58% | 59% | 58% | 1.57 | -9% |
+| Goles del local: Más de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles del local: Menos de 0.5 | 42% | 41% | 42% | 2.25 | -6% |
+| Goles del local: Menos de 1.5 | 79% | 75% | 77% | 1.25 | -4% |
+| Goles del visitante: Más de 0.5 | 80% | 79% | 79% | 1.18 | -6% |
+| Goles del visitante: Más de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
+| Goles del visitante: Más de 2.5 | 21% | 25% | 23% | 3.75 | -13% |
+| Goles del visitante: Menos de 0.5 | 20% | 21% | 21% | 4.50 | -7% |
+| Goles del visitante: Menos de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
+| Goles del visitante: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
+| 1X2 descanso: 2 | 38% | 40% | 39% | 2.30 | -10% |
+| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

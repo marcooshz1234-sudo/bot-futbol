@@ -1,7 +1,7 @@
 # Poland – Sweden
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Śląska  Wrocław
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -198,7 +198,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 41% | 57% | 49% | 1.65 | -19% |
 | Goles más/menos: Más de 3.5 | 20% | 38% | 29% | 2.50 | -28% |
 | Goles más/menos: Más de 4.5 | 9% | 21% | 15% | 4.50 | -34% |
-| Goles más/menos: Menos de 1.5 | 33% | 21% | 27% | 4.50 | +20% |
+| Goles más/menos: Menos de 1.5 | 33% | 21% | 27% | 4.50 | +21% |
 | Goles más/menos: Menos de 2.5 | 59% | 43% | 51% | 2.20 | +12% |
 | Goles más/menos: Menos de 3.5 | 80% | 62% | 71% | 1.50 | +7% |
 | Goles más/menos: Menos de 4.5 | 91% | 79% | 85% | 1.18 | +1% |

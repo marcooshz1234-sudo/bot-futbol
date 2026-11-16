@@ -1,10 +1,24 @@
 # Csikszereda – Corvinul Hunedoara
 **Liga I** · Regular Season - 16 · 21/11/2026 14:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 16/11 20:00_
+
+- **1X2:** 1 **3.80**  ·  X **3.40**  ·  2 **1.85**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.50**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **10.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo
 | | Csikszereda (total) | Csikszereda en casa | Corvinul Hunedoara (total) | Corvinul Hunedoara fuera |
@@ -141,4 +155,23 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 0,70 · visitante 1,56 · córners esperados 8,7._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 58% | 49% | 54% | 1.85 | -1% |
+| 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
+| 1X2: 1 | 17% | 24% | 20% | 3.80 | -23% |
+| Ambos marcan: No | 60% | 49% | 54% | 1.91 | +4% |
+| Ambos marcan: Sí | 40% | 51% | 46% | 1.80 | -18% |
+| Goles más/menos: Más de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
+| Goles más/menos: Más de 2.5 | 39% | 49% | 44% | 1.95 | -14% |
+| Goles más/menos: Más de 3.5 | 19% | 28% | 23% | 3.40 | -20% |
+| Goles más/menos: Menos de 1.5 | 34% | 27% | 30% | 3.50 | +7% |
+| Goles más/menos: Menos de 2.5 | 61% | 51% | 56% | 1.85 | +4% |
+| Goles más/menos: Menos de 3.5 | 81% | 72% | 77% | 1.30 | -0% |
+| 1X2 descanso: 2 | 40% | 37% | 38% | 2.50 | -4% |
+| 1X2 descanso: X | 46% | 42% | 44% | 2.20 | -4% |
+| 1X2 descanso: 1 | 15% | 21% | 18% | 4.33 | -22% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Feyenoord – Excelsior
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -196,8 +196,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 22% | 21% | 22% | 4.50 | -2% |
 | Doble oportunidad: 12 | 86% | 87% | 87% | 1.10 | -5% |
 | Doble oportunidad: 1X | 91% | 91% | 91% | 1.05 | -4% |
-| Ambos marcan: No | 47% | 48% | 48% | 1.95 | -7% |
-| Ambos marcan: Sí | 53% | 52% | 52% | 1.80 | -6% |
+| Ambos marcan: No | 48% | 48% | 48% | 1.95 | -7% |
+| Ambos marcan: Sí | 52% | 52% | 52% | 1.80 | -6% |
 | Goles más/menos: Más de 2.5 | 69% | 72% | 71% | 1.33 | -6% |
 | Goles más/menos: Más de 3.5 | 48% | 50% | 49% | 1.83 | -10% |
 | Goles más/menos: Más de 4.5 | 29% | 34% | 31% | 2.75 | -14% |

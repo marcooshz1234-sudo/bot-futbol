@@ -1,7 +1,7 @@
 # Marseille – Le Mans
 **Ligue 1** · Regular Season - 11 · 22/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -204,7 +204,7 @@ _Goles esperados: local 2,04 · visitante 1,31 · córners esperados 9,1._
 | Goles más/menos: Más de 3.5 | 43% | 41% | 42% | 2.30 | -3% |
 | Goles más/menos: Más de 4.5 | 25% | 24% | 24% | 4.00 | -3% |
 | Goles más/menos: Menos de 2.5 | 35% | 36% | 36% | 2.62 | -7% |
-| Goles más/menos: Menos de 3.5 | 57% | 59% | 58% | 1.62 | -7% |
+| Goles más/menos: Menos de 3.5 | 57% | 59% | 58% | 1.62 | -6% |
 | Goles más/menos: Menos de 4.5 | 75% | 76% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
@@ -220,7 +220,7 @@ _Goles esperados: local 2,04 · visitante 1,31 · córners esperados 9,1._
 | Goles del local: Menos de 3.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles del visitante: Más de 0.5 | 73% | 62% | 68% | 1.50 | +2% |
 | Goles del visitante: Más de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
-| Goles del visitante: Menos de 0.5 | 27% | 38% | 32% | 2.50 | -20% |
+| Goles del visitante: Menos de 0.5 | 27% | 38% | 32% | 2.50 | -19% |
 | Goles del visitante: Menos de 1.5 | 62% | 73% | 68% | 1.28 | -13% |
 | Córners más/menos: Más de 8.5 | 51% | 56% | 53% | 1.67 | -11% |
 | Córners más/menos: Menos de 8.5 | 49% | 44% | 47% | 2.10 | -2% |

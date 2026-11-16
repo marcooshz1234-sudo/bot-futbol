@@ -1,7 +1,7 @@
 # Strasbourg – Stade Brestois 29
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -211,7 +211,7 @@ _Goles esperados: local 1,32 · visitante 1,86 · córners esperados 8,6._
 | Goles más/menos: Menos de 3.5 | 61% | 64% | 62% | 1.50 | -7% |
 | Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.20 | -6% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 39% | 40% | 2.38 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 39% | 40% | 2.38 | -6% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
 | Goles del local: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
@@ -221,9 +221,9 @@ _Goles esperados: local 1,32 · visitante 1,86 · córners esperados 8,6._
 | Goles del local: Menos de 1.5 | 62% | 50% | 56% | 1.83 | +2% |
 | Goles del local: Menos de 2.5 | 85% | 75% | 80% | 1.25 | +0% |
 | Goles del visitante: Más de 0.5 | 84% | 75% | 80% | 1.25 | -0% |
-| Goles del visitante: Más de 1.5 | 56% | 41% | 48% | 2.25 | +9% |
+| Goles del visitante: Más de 1.5 | 55% | 41% | 48% | 2.25 | +9% |
 | Goles del visitante: Menos de 0.5 | 16% | 25% | 20% | 3.75 | -24% |
-| Goles del visitante: Menos de 1.5 | 44% | 59% | 52% | 1.57 | -19% |
+| Goles del visitante: Menos de 1.5 | 45% | 59% | 52% | 1.57 | -19% |
 | Córners más/menos: Más de 8.5 | 46% | 51% | 49% | 1.80 | -12% |
 | Córners más/menos: Menos de 8.5 | 54% | 49% | 51% | 1.91 | -2% |
 | 1X2 descanso: 2 ✅ | 38% | 27% | 32% | 3.50 | +13% |

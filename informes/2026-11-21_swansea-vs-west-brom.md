@@ -1,7 +1,7 @@
 # Swansea – West Brom
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -189,7 +189,7 @@ _Sin bajas comunicadas por ahora._
 | Matt Ingram | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,31 · visitante 1,32 · córners esperados 9,6._
+_Goles esperados: local 1,31 · visitante 1,31 · córners esperados 9,6._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -220,7 +220,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
 | Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles del visitante: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
 | Córners más/menos: Más de 9.5 | 46% | 53% | 49% | 1.78 | -12% |
 | Córners más/menos: Menos de 9.5 | 54% | 47% | 51% | 2.02 | +2% |
 | 1X2 descanso: 2 | 28% | 29% | 29% | 3.25 | -7% |

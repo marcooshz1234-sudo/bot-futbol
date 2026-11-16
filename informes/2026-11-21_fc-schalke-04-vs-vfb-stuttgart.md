@@ -1,7 +1,7 @@
 # FC Schalke 04 – VfB Stuttgart
 **Bundesliga** · Regular Season - 10 · 21/11/2026 18:30 (hora España) · Veltins Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -218,7 +218,7 @@ _Goles esperados: local 1,10 · visitante 1,61 · córners esperados 9,6._
 | Goles del local: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
 | Goles del local: Más de 1.5 | 30% | 39% | 35% | 2.38 | -18% |
 | Goles del local: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +5% |
-| Goles del local: Menos de 1.5 | 70% | 61% | 65% | 1.53 | +0% |
+| Goles del local: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
 | Goles del visitante: Más de 1.5 | 48% | 59% | 53% | 1.57 | -16% |
 | Goles del visitante: Más de 2.5 | 22% | 34% | 28% | 2.75 | -24% |
 | Goles del visitante: Menos de 1.5 | 52% | 41% | 47% | 2.25 | +5% |

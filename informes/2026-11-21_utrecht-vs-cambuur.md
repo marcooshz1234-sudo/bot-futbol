@@ -1,7 +1,7 @@
 # Utrecht – Cambuur
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -205,19 +205,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 53% | 56% | 54% | 1.67 | -10% |
 | Goles más/menos: Menos de 4.5 | 72% | 73% | 72% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
 | Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
+| Goles del local: Más de 1.5 | 53% | 58% | 55% | 1.62 | -11% |
 | Goles del local: Más de 2.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles del local: Menos de 1.5 | 48% | 42% | 45% | 2.20 | -1% |
+| Goles del local: Menos de 1.5 | 47% | 42% | 45% | 2.20 | -1% |
 | Goles del local: Menos de 2.5 | 74% | 69% | 71% | 1.36 | -3% |
 | Goles del visitante: Más de 0.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del visitante: Más de 1.5 | 54% | 42% | 48% | 2.20 | +6% |
+| Goles del visitante: Más de 1.5 | 53% | 42% | 48% | 2.20 | +5% |
 | Goles del visitante: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -22% |
-| Goles del visitante: Menos de 1.5 | 46% | 58% | 52% | 1.62 | -16% |
+| Goles del visitante: Menos de 1.5 | 47% | 58% | 52% | 1.62 | -16% |
 | 1X2 descanso: 2 | 32% | 25% | 29% | 3.60 | +4% |
 | 1X2 descanso: X | 36% | 37% | 36% | 2.50 | -9% |
 | 1X2 descanso: 1 | 32% | 38% | 35% | 2.40 | -16% |

@@ -1,7 +1,7 @@
 # Farul Constanta – Universitatea Cluj
 **Liga I** · Regular Season - 16 · 20/11/2026 19:30 (hora España) · Central Stadium Hagi Academy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Alin Chinteș | D | 3 | 112 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,53 · visitante 1,53 · córners esperados 9,4._
+_Goles esperados: local 1,53 · visitante 1,52 · córners esperados 9,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

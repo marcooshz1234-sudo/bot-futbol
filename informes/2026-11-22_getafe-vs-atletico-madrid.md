@@ -1,7 +1,7 @@
 # Getafe – Atletico Madrid
 **LaLiga** · Regular Season - 13 · 22/11/2026 21:00 (hora España) · Coliseum
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -183,7 +183,7 @@ _Goles esperados: local 0,67 · visitante 1,39 · córners esperados 9,1._
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 54% | 57% | 56% | 1.62 | -10% |
-| 1X2: X | 28% | 25% | 26% | 3.70 | -3% |
+| 1X2: X | 28% | 25% | 26% | 3.70 | -2% |
 | 1X2: 1 | 18% | 18% | 18% | 5.25 | -6% |
 | Doble oportunidad: X2 | 82% | 82% | 82% | 1.17 | -4% |
 | Doble oportunidad: 12 | 72% | 75% | 74% | 1.28 | -6% |
@@ -191,11 +191,11 @@ _Goles esperados: local 0,67 · visitante 1,39 · córners esperados 9,1._
 | Ambos marcan: No | 63% | 53% | 58% | 1.75 | +2% |
 | Ambos marcan: Sí | 37% | 47% | 42% | 2.00 | -17% |
 | Goles más/menos: Más de 1.5 | 61% | 72% | 67% | 1.33 | -12% |
-| Goles más/menos: Más de 2.5 | 34% | 47% | 41% | 2.00 | -18% |
-| Goles más/menos: Más de 3.5 | 16% | 27% | 21% | 3.50 | -25% |
+| Goles más/menos: Más de 2.5 | 34% | 47% | 41% | 2.00 | -19% |
+| Goles más/menos: Más de 3.5 | 15% | 27% | 21% | 3.50 | -26% |
 | Goles más/menos: Menos de 1.5 ✅ | 39% | 28% | 33% | 3.40 | +14% |
 | Goles más/menos: Menos de 2.5 | 66% | 53% | 59% | 1.80 | +7% |
-| Goles más/menos: Menos de 3.5 | 84% | 73% | 79% | 1.30 | +2% |
+| Goles más/menos: Menos de 3.5 | 85% | 73% | 79% | 1.30 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 59% | 66% | 63% | 1.40 | -12% |
 | Goles 1ª parte más/menos: Más de 1.5 | 23% | 31% | 27% | 3.00 | -19% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 41% | 34% | 37% | 2.75 | +2% |
@@ -205,9 +205,9 @@ _Goles esperados: local 0,67 · visitante 1,39 · córners esperados 9,1._
 | Goles del local: Menos de 0.5 | 51% | 44% | 48% | 2.10 | +0% |
 | Goles del local: Menos de 1.5 | 85% | 79% | 82% | 1.18 | -3% |
 | Goles del visitante: Más de 1.5 | 41% | 51% | 46% | 1.80 | -17% |
-| Goles del visitante: Más de 2.5 | 17% | 27% | 22% | 3.50 | -24% |
+| Goles del visitante: Más de 2.5 | 16% | 27% | 22% | 3.50 | -24% |
 | Goles del visitante: Menos de 1.5 | 59% | 49% | 54% | 1.91 | +3% |
-| Goles del visitante: Menos de 2.5 | 83% | 73% | 78% | 1.28 | +0% |
+| Goles del visitante: Menos de 2.5 | 84% | 73% | 78% | 1.28 | +0% |
 | 1X2 descanso: 2 | 37% | 42% | 39% | 2.20 | -13% |
 | 1X2 descanso: X | 48% | 42% | 45% | 2.20 | -0% |
 

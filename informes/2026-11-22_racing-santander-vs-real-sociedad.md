@@ -1,10 +1,10 @@
 # Racing Santander – Real Sociedad
 **LaLiga** · Regular Season - 13 · 22/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
-_Actualizadas: 15/11 19:52_
+_Actualizadas: 16/11 20:01_
 
 - **1X2:** 1 **3.10**  ·  X **3.80**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.70**  ·  12 **1.25**  ·  X2 **1.36**
@@ -31,6 +31,9 @@ _Actualizadas: 15/11 19:52_
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.00** · menos **1.36**
     - 3,5: más **7.00** · menos **1.10**
+- **Córners más/menos:**
+    - 10,5: más **1.82** · menos **1.98**
+- **Córners 1X2:** 1 **2.30**  ·  X **8.50**  ·  2 **1.80**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.60**  ·  2 **2.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -44,6 +47,11 @@ _Actualizadas: 15/11 19:52_
 - **Win Both Halves:** 1 **10.00**  ·  2 **6.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.25**  ·  Home/No **8.00**  ·  Draw/No **21.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.75**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.73** · menos **2.00**
+- **Away Corners Over/Under:**
+    - 5,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
 - **Away Player Shots On Target Total:** Pablo Ramon **41.00**  ·  Pablo Garcia **34.00**  ·  Aaron Martin **101.00**  ·  Andres Martin **23.00**  ·  Juan Carlos Arana **10.00**  ·  Alvaro Mantilla **81.00**  ·  Inigo Vicente **51.00**  ·  Jorge Salinas **13.00**  ·  Maguette Gueye **12.00**  ·  Manu Hernando **29.00**  ·  Inigo Sainz-Maza **29.00**  ·  Jon Gorrotxategi **41.00**  ·  Orri Steinn Oskarsson **8.00**  ·  Giorgi Guliashvili **15.00**  ·  Job Ochieng **15.00**  ·  Alex Lebarbier **51.00**  ·  Gorka Carrera **34.00**  ·  Mamadou Sarr **21.00**  ·  Gustavo Puerta **23.00**  ·  Sergio Gomez **51.00**  ·  Jeanuel Belocian **19.00**  ·  Arsen Zakharyan **34.00**  ·  Benat Turrientes **34.00**  ·  Aihen Munoz **81.00**  ·  Jon Martin **13.00**  ·  Ivan Martin **51.00**  ·  Andre Almeida **21.00**  ·  Facundo Gonzalez **13.00**  ·  Sergio Canales **29.00**  ·  Hector Fort **51.00**  ·  Iker Luque **21.00**  ·  Ander Barrenetxea **34.00**  ·  Igor Zubeldia **23.00**  ·  Jon Aramburu **81.00**  ·  Jon Pacheco **15.00**  ·  Mikel Oyarzabal **21.00**  ·  Takefusa Kubo **67.00**  ·  Yangel Herrera **13.00**  ·  Yassir Zabiri **9.00**  ·  Luka Sucic **21.00**  ·  Asier Villalibre **7.50**  ·  Diego Diaz **17.00**  ·  Matteo Prati **51.00**  ·  Goncalo Guedes **23.00**  ·  Barragan Carlos Soler **34.00**  ·  Pedro Felipe **19.00**  ·  Luken Beitia **81.00**
 - **Anytime Goal Scorer:** Pablo Ramon **12.00**  ·  Pablo Garcia **3.60**  ·  Aaron Martin **10.00**  ·  Andres Martin **2.50**  ·  Juan Carlos Arana **2.75**  ·  Alvaro Mantilla **12.00**  ·  Inigo Vicente **4.75**  ·  Jorge Salinas **9.00**  ·  Maguette Gueye **6.50**  ·  Manu Hernando **12.00**  ·  Inigo Sainz-Maza **6.00**  ·  Jon Gorrotxategi **9.00**  ·  Orri Steinn Oskarsson **2.20**  ·  Giorgi Guliashvili **3.20**  ·  Job Ochieng **3.20**  ·  Alex Lebarbier **6.00**  ·  Gorka Carrera **4.33**  ·  Mamadou Sarr **10.00**  ·  Gustavo Puerta **6.50**  ·  Sergio Gomez **6.50**  ·  Jeanuel Belocian **10.00**  ·  Arsen Zakharyan **4.00**  ·  Benat Turrientes **4.33**  ·  Aihen Munoz **9.00**  ·  Jon Martin **10.00**  ·  Ivan Martin **8.00**  ·  Andre Almeida **4.33**  ·  Facundo Gonzalez **10.00**  ·  Sergio Canales **3.20**  ·  Hector Fort **6.00**  ·  Iker Luque **4.33**  ·  Ander Barrenetxea **3.60**  ·  Igor Zubeldia **12.00**  ·  Jon Aramburu **9.00**  ·  Jon Pacheco **9.00**  ·  Mikel Oyarzabal **2.20**  ·  Takefusa Kubo **4.00**  ·  Yangel Herrera **6.00**  ·  Yassir Zabiri **2.30**  ·  Luka Sucic **3.20**  ·  Asier Villalibre **2.30**  ·  Diego Diaz **3.60**  ·  Matteo Prati **6.00**  ·  Goncalo Guedes **2.60**  ·  Barragan Carlos Soler **4.00**  ·  Pedro Felipe **10.00**  ·  Alex Marchal **4.00**  ·  Luken Beitia **9.00**
 - **Player to Score or Assist:** Pablo Ramon **8.50**  ·  Pablo Garcia **2.62**  ·  Aaron Martin **2.88**  ·  Andres Martin **1.80**  ·  Juan Carlos Arana **2.30**  ·  Alvaro Mantilla **7.50**  ·  Inigo Vicente **2.25**  ·  Jorge Salinas **3.75**  ·  Maguette Gueye **4.50**  ·  Manu Hernando **9.50**  ·  Inigo Sainz-Maza **4.33**  ·  Jon Gorrotxategi **3.75**  ·  Orri Steinn Oskarsson **1.73**  ·  Giorgi Guliashvili **2.25**  ·  Job Ochieng **2.25**  ·  Alex Lebarbier **3.40**  ·  Gorka Carrera **2.50**  ·  Mamadou Sarr **6.00**  ·  Gustavo Puerta **4.00**  ·  Sergio Gomez **2.62**  ·  Jeanuel Belocian **7.50**  ·  Arsen Zakharyan **2.40**  ·  Benat Turrientes **2.75**  ·  Aihen Munoz **4.33**  ·  Jon Martin **5.50**  ·  Ivan Martin **4.00**  ·  Andre Almeida **2.62**  ·  Facundo Gonzalez **7.50**  ·  Sergio Canales **1.91**  ·  Hector Fort **3.40**  ·  Iker Luque **2.50**  ·  Ander Barrenetxea **2.05**  ·  Igor Zubeldia **5.00**  ·  Jon Aramburu **5.50**  ·  Jon Pacheco **4.33**  ·  Mikel Oyarzabal **1.62**  ·  Takefusa Kubo **2.20**  ·  Yangel Herrera **3.40**  ·  Yassir Zabiri **1.91**  ·  Luka Sucic **2.10**  ·  Asier Villalibre **1.91**  ·  Diego Diaz **2.38**  ·  Matteo Prati **4.00**  ·  Goncalo Guedes **1.73**  ·  Barragan Carlos Soler **2.40**  ·  Pedro Felipe **5.50**  ·  Alex Marchal **2.30**  ·  Luken Beitia **4.33**
@@ -189,7 +197,7 @@ _Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
 | 1X2: 1 | 30% | 30% | 30% | 3.10 | -7% |
 | Doble oportunidad: X2 | 70% | 69% | 70% | 1.36 | -5% |
 | Doble oportunidad: 12 | 80% | 75% | 78% | 1.25 | -3% |
-| Doble oportunidad: 1X | 50% | 55% | 53% | 1.70 | -11% |
+| Doble oportunidad: 1X | 50% | 55% | 53% | 1.70 | -10% |
 | Ambos marcan: No | 27% | 34% | 30% | 2.75 | -16% |
 | Ambos marcan: Sí | 73% | 66% | 70% | 1.40 | -3% |
 | Goles más/menos: Más de 2.5 | 75% | 66% | 70% | 1.44 | +1% |
@@ -211,11 +219,13 @@ _Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
 | Goles del local: Menos de 1.5 | 49% | 54% | 52% | 1.73 | -11% |
 | Goles del local: Menos de 2.5 | 76% | 78% | 77% | 1.20 | -8% |
 | Goles del visitante: Más de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
-| Goles del visitante: Más de 2.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles del visitante: Más de 2.5 | 38% | 31% | 35% | 3.00 | +4% |
 | Goles del visitante: Menos de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
-| Goles del visitante: Menos de 2.5 | 61% | 69% | 65% | 1.36 | -11% |
+| Goles del visitante: Menos de 2.5 | 62% | 69% | 65% | 1.36 | -11% |
+| Córners más/menos: Más de 10.5 | 47% | 52% | 49% | 1.82 | -10% |
+| Córners más/menos: Menos de 10.5 | 53% | 48% | 51% | 1.98 | +0% |
 | 1X2 descanso: 2 | 40% | 36% | 38% | 2.60 | -1% |
 | 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |
-| 1X2 descanso: 1 | 27% | 28% | 27% | 3.40 | -8% |
+| 1X2 descanso: 1 | 27% | 28% | 27% | 3.40 | -7% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

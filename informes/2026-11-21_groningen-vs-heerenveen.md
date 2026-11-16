@@ -1,7 +1,7 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | Luuk Brouwers | M | 2 | 31 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,59 · visitante 1,99 · córners esperados 9,3._
+_Goles esperados: local 1,60 · visitante 1,99 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -215,9 +215,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
 | Goles del local: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
-| Goles del visitante: Más de 2.5 | 32% | 25% | 29% | 3.75 | +7% |
+| Goles del visitante: Más de 2.5 | 32% | 25% | 28% | 3.75 | +7% |
 | Goles del visitante: Menos de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
-| Goles del visitante: Menos de 2.5 | 68% | 75% | 71% | 1.25 | -11% |
+| Goles del visitante: Menos de 2.5 | 68% | 75% | 72% | 1.25 | -11% |
 | 1X2 descanso: 2 | 37% | 31% | 34% | 3.00 | +3% |
 | 1X2 descanso: X | 36% | 36% | 36% | 2.60 | -7% |
 | 1X2 descanso: 1 | 27% | 33% | 30% | 2.88 | -14% |

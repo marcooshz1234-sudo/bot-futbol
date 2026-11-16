@@ -1,18 +1,12 @@
 # Picks del Analista
 
-_Generado el 2026-11-16 16:18 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-16 20:07 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Lunes 16/11
-
-**💥 Combi cuota 3-4 · cuota 3,06**
-- Dan Ndoye: 2+ tiros (1,30) · Dan Ndoye 5/5
-- Más de 8,5 córners en Estonia–Bulgaria (1,73) · Estonia 4/5 · Bulgaria 4/5
-- Konstantinos Mavropanos: 1+ tiros (1,36) · Konstantinos Mavropanos 5/5
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:45 | Dan Ndoye: 2+ tiros | jugador | 1.30 | 100% | Dan Ndoye 5/5 |
-| 18:00 | Más de 8,5 córners en Estonia–Bulgaria | corners | 1.73 | 80% | Estonia 4/5 · Bulgaria 4/5 |
 | 20:45 | Konstantinos Mavropanos: 1+ tiros | jugador | 1.36 | 100% | Konstantinos Mavropanos 5/5 |
 
 ## Martes 17/11
@@ -47,22 +41,22 @@ _Generado el 2026-11-16 16:18 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Domingo 22/11
 
-**🤪 Combi loca · cuota 14,59**
+**🤪 Combi loca · cuota 14,72**
+- Gana el Cordoba (1,85) · Cordoba 6/10 · Oviedo 6/10
 - Gana el Bologna (1,67) · Bologna 5/10 · Udinese 8/10
 - Gana el Liverpool (1,70) · Liverpool 6/10 · Manchester United 7/10
-- Gana el Cordoba (1,90) · Cordoba 6/10 · Oviedo 6/10
 - Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 (1,62) · FC Augsburg 10/10 · FSV Mainz 05 8/10
-- Ambos marcan en Burnley–Blackburn (1,67) · Burnley 8/10 · Blackburn 7/10
+- Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV (1,73) · Werder Bremen 8/10 · Hamburger SV 7/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 14:00 | Gana el Cordoba | resultado | 1.85 | 60% | Cordoba 6/10 · Oviedo 6/10 |
 | 15:00 | Gana el Bologna | resultado | 1.67 | 65% | Bologna 5/10 · Udinese 8/10 |
 | 17:30 | Gana el Liverpool | resultado | 1.70 | 65% | Liverpool 6/10 · Manchester United 7/10 |
-| 14:00 | Gana el Cordoba | resultado | 1.90 | 60% | Cordoba 6/10 · Oviedo 6/10 |
+| 16:15 | Sporting Gijon gana alguna de las dos partes | resultado | 1.50 | 75% | Sporting Gijon 8/10 · Las Palmas 7/10 |
 | 14:00 | Cordoba gana alguna de las dos partes | resultado | 1.50 | 75% | Cordoba 8/10 · Oviedo 7/10 |
 | 15:30 | Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 | goles | 1.62 | 90% | FC Augsburg 10/10 · FSV Mainz 05 8/10 |
-| 14:00 | Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo | goles | 1.80 | 80% | Cordoba 8/10 · Oviedo 8/10 |
-| 13:00 | Ambos marcan en Burnley–Blackburn | goles | 1.67 | 75% | Burnley 8/10 · Blackburn 7/10 |
 | 17:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV | goles | 1.73 | 75% | Werder Bremen 8/10 · Hamburger SV 7/10 |
-| 14:30 | Ambos marcan en Ajax–ADO Den Haag | goles | 1.75 | 80% | Ajax 8/10 · ADO Den Haag 8/10 |
+| 13:00 | Ambos marcan en Burnley–Blackburn | goles | 1.67 | 75% | Burnley 8/10 · Blackburn 7/10 |
 | 15:00 | Federico Bernardeschi: 1+ tiros a puerta | jugador | 1.33 | 88% | Federico Bernardeschi 7/8 |
+| 14:00 | Oviedo hace más de 3,5 córners | corners | 1.73 | 78% | Cordoba (en contra) 7/9 · Oviedo 7/9 |

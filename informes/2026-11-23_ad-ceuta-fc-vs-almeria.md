@@ -1,7 +1,7 @@
 # AD Ceuta FC – Almeria
 **Segunda División** · Regular Season - 15 · 23/11/2026 20:30 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -187,7 +187,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 59% | 50% | 55% | 1.83 | +0% |
 | 1X2: X | 22% | 25% | 24% | 3.60 | -15% |
-| 1X2: 1 | 19% | 24% | 22% | 3.75 | -19% |
+| 1X2: 1 | 19% | 24% | 22% | 3.75 | -18% |
 | Doble oportunidad: X2 | 81% | 81% | 81% | 1.18 | -4% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -3% |
 | Doble oportunidad: 1X | 41% | 42% | 42% | 2.25 | -6% |

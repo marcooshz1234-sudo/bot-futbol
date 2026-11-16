@@ -1,7 +1,7 @@
 # Norwich – Cardiff
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -194,7 +194,7 @@ _Sin bajas comunicadas por ahora._
 | Dylan Lawlor | D | 3 | 115 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,28 · visitante 1,79 · córners esperados 9,3._
+_Goles esperados: local 2,28 · visitante 1,78 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -203,7 +203,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 31% | 24% | 27% | 3.90 | +6% |
 | 1X2: X | 20% | 23% | 21% | 4.10 | -13% |
 | 1X2: 1 | 49% | 54% | 51% | 1.73 | -11% |
-| Doble oportunidad: X2 | 51% | 46% | 49% | 2.05 | -1% |
+| Doble oportunidad: X2 | 51% | 46% | 48% | 2.05 | -1% |
 | Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
 | Doble oportunidad: 1X | 69% | 76% | 73% | 1.25 | -9% |
 | Ambos marcan: No | 25% | 31% | 28% | 3.00 | -15% |
@@ -212,7 +212,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 3.5 | 58% | 53% | 55% | 1.80 | -1% |
 | Goles más/menos: Más de 4.5 | 38% | 32% | 35% | 3.00 | +5% |
 | Goles más/menos: Menos de 2.5 | 23% | 28% | 26% | 3.40 | -13% |
-| Goles más/menos: Menos de 3.5 | 42% | 47% | 45% | 2.00 | -11% |
+| Goles más/menos: Menos de 3.5 | 42% | 47% | 45% | 2.00 | -10% |
 | Goles más/menos: Menos de 4.5 | 62% | 68% | 65% | 1.40 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
@@ -227,10 +227,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 60% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Menos de 3.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles del visitante: Más de 0.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del visitante: Más de 1.5 | 53% | 44% | 49% | 2.10 | +3% |
-| Goles del visitante: Más de 2.5 | 27% | 21% | 24% | 4.50 | +7% |
+| Goles del visitante: Más de 1.5 | 53% | 44% | 49% | 2.10 | +2% |
+| Goles del visitante: Más de 2.5 | 27% | 21% | 24% | 4.50 | +6% |
 | Goles del visitante: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -22% |
-| Goles del visitante: Menos de 1.5 | 47% | 56% | 51% | 1.67 | -15% |
+| Goles del visitante: Menos de 1.5 | 47% | 56% | 51% | 1.67 | -14% |
 | Goles del visitante: Menos de 2.5 | 73% | 79% | 76% | 1.18 | -10% |
 | Córners más/menos: Más de 9.5 | 43% | 51% | 47% | 1.80 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 49% | 53% | 1.91 | +0% |

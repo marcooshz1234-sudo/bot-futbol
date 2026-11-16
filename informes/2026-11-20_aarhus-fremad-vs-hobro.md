@@ -1,7 +1,7 @@
 # Aarhus Fremad – Hobro
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Jysk Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:51_
@@ -143,14 +143,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 23% | 26% | 24% | 3.50 | -15% |
+| 1X2: 2 | 22% | 26% | 24% | 3.50 | -15% |
 | 1X2: X | 30% | 26% | 28% | 3.50 | -1% |
 | 1X2: 1 | 47% | 48% | 47% | 1.91 | -9% |
 | Doble oportunidad: X2 | 53% | 53% | 53% | 1.73 | -8% |
 | Doble oportunidad: 12 | 70% | 73% | 72% | 1.25 | -11% |
-| Doble oportunidad: 1X | 77% | 73% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 78% | 73% | 75% | 1.25 | -6% |
 | Ambos marcan: No | 64% | 46% | 55% | 2.00 | +10% |
-| Ambos marcan: Sí | 36% | 54% | 45% | 1.73 | -22% |
+| Ambos marcan: Sí | 36% | 54% | 45% | 1.73 | -23% |
 | Goles más/menos: Más de 1.5 | 57% | 75% | 66% | 1.25 | -17% |
 | Goles más/menos: Más de 2.5 | 30% | 51% | 41% | 1.85 | -25% |
 | Goles más/menos: Más de 3.5 | 13% | 29% | 21% | 3.25 | -32% |
@@ -168,9 +168,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 67% | 50% | 58% | 1.83 | +7% |
 | Goles del local: Menos de 2.5 | 88% | 77% | 82% | 1.22 | +0% |
 | Goles del visitante: Más de 0.5 | 52% | 65% | 58% | 1.44 | -16% |
-| Goles del visitante: Más de 1.5 | 17% | 29% | 23% | 3.25 | -26% |
+| Goles del visitante: Más de 1.5 | 16% | 29% | 23% | 3.25 | -26% |
 | Goles del visitante: Menos de 0.5 | 48% | 35% | 42% | 2.62 | +10% |
-| Goles del visitante: Menos de 1.5 | 83% | 71% | 77% | 1.33 | +3% |
+| Goles del visitante: Menos de 1.5 | 84% | 71% | 77% | 1.33 | +3% |
 | 1X2 descanso: 2 | 17% | 21% | 19% | 4.33 | -16% |
 | 1X2 descanso: X | 51% | 41% | 46% | 2.25 | +4% |
 | 1X2 descanso: 1 | 32% | 37% | 34% | 2.50 | -14% |

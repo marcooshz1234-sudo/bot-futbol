@@ -1,7 +1,7 @@
 # Switzerland – Scotland
 **Nations League** · League B - 6 · 16/11/2026 20:45 (hora España) · Kybunpark
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:11_
@@ -221,10 +221,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 1.5 | 72% | 69% | 71% | 1.36 | -4% |
 | Goles del local: Más de 0.5 | 84% | 79% | 82% | 1.18 | -4% |
 | Goles del local: Más de 1.5 | 55% | 50% | 52% | 1.83 | -4% |
-| Goles del local: Más de 2.5 | 28% | 25% | 26% | 3.75 | -1% |
-| Goles del local: Menos de 0.5 | 16% | 21% | 18% | 4.50 | -17% |
+| Goles del local: Más de 2.5 | 28% | 25% | 27% | 3.75 | -1% |
+| Goles del local: Menos de 0.5 | 16% | 21% | 18% | 4.50 | -18% |
 | Goles del local: Menos de 1.5 | 45% | 50% | 48% | 1.83 | -13% |
-| Goles del local: Menos de 2.5 | 72% | 75% | 74% | 1.25 | -8% |
+| Goles del local: Menos de 2.5 | 72% | 75% | 73% | 1.25 | -8% |
 | Goles del visitante: Más de 0.5 | 41% | 56% | 48% | 1.67 | -19% |
 | Goles del visitante: Más de 1.5 | 10% | 22% | 16% | 4.33 | -32% |
 | Goles del visitante: Menos de 0.5 | 59% | 44% | 52% | 2.10 | +8% |

@@ -2980,7 +2980,13 @@
    "Partido abierto: ninguno de los dos se conforma con el empate, lo que suele traer más ocasiones",
    "Cuota de 1.66 razonable para una línea de 3 goles en un cruce igualado"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528991,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.62,
+   "prob_cuota": 0.602
+  }
  },
  {
   "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
@@ -2998,7 +3004,12 @@
    "Los últimos Alemania-Países Bajos han sido partidos de ida y vuelta con goles en ambas porterías",
    "Ninguno de los dos se cierra atrás: juegan para ganar y dejan espacios"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528990,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.625
+  }
  },
  {
   "tipster": "ENZO TIPSTER🇦🇷",
@@ -3016,6 +3027,11 @@
    "Suiza concede algunos disparos cuando lleva el balón y deja transiciones",
    "Línea baja: con 3 remates entre palos en 90 minutos basta"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1545652,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.654
+  }
  }
 ]

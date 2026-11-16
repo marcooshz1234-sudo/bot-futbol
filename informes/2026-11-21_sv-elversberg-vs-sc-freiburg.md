@@ -1,7 +1,7 @@
 # SV Elversberg – SC Freiburg
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -198,10 +198,10 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Ambos marcan: No | 38% | 35% | 37% | 2.62 | -3% |
 | Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -6% |
+| Goles más/menos: Más de 3.5 | 39% | 40% | 40% | 2.38 | -6% |
 | Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |
 | Goles más/menos: Menos de 2.5 | 38% | 40% | 39% | 2.38 | -7% |
-| Goles más/menos: Menos de 3.5 | 60% | 60% | 60% | 1.57 | -5% |
+| Goles más/menos: Menos de 3.5 | 61% | 60% | 60% | 1.57 | -5% |
 | Goles más/menos: Menos de 4.5 | 78% | 78% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
@@ -219,6 +219,6 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Córners más/menos: Menos de 9.5 | 53% | 53% | 53% | 1.78 | -5% |
 | 1X2 descanso: 2 | 39% | 37% | 38% | 2.50 | -5% |
 | 1X2 descanso: X | 38% | 37% | 38% | 2.50 | -6% |
-| 1X2 descanso: 1 | 23% | 26% | 24% | 3.60 | -13% |
+| 1X2 descanso: 1 | 23% | 26% | 24% | 3.60 | -12% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

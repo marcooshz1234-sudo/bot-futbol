@@ -1,7 +1,7 @@
 # Greece – Serbia
 **Nations League** · League A - 6 · 16/11/2026 20:45 (hora España) · Panthessaliko Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -203,7 +203,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 25% | 15% | 20% | 6.50 | +30% |
+| 1X2: 2 | 25% | 15% | 20% | 6.50 | +29% |
 | 1X2: X | 27% | 20% | 23% | 4.75 | +10% |
 | 1X2: 1 | 48% | 66% | 57% | 1.44 | -18% |
 | Doble oportunidad: X2 | 52% | 36% | 44% | 2.62 | +15% |
@@ -228,7 +228,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 1.5 | 58% | 38% | 48% | 2.50 | +19% |
 | Goles del local: Menos de 2.5 | 82% | 62% | 72% | 1.50 | +9% |
 | Goles del visitante: Más de 0.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del visitante: Más de 1.5 | 25% | 23% | 24% | 4.00 | -2% |
+| Goles del visitante: Más de 1.5 | 25% | 23% | 24% | 4.00 | -3% |
 | Goles del visitante: Menos de 0.5 | 38% | 42% | 40% | 2.20 | -12% |
 | Goles del visitante: Menos de 1.5 | 75% | 77% | 76% | 1.22 | -8% |
 | Córners más/menos: Más de 9.5 | 40% | 47% | 44% | 2.00 | -13% |

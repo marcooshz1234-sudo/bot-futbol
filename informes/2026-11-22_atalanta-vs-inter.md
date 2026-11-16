@@ -1,7 +1,7 @@
 # Atalanta – Inter
 **Serie A** · Regular Season - 12 · 22/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | Luis Henrique | F | 6 | 226 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 2,21 · córners esperados 9,6._
+_Goles esperados: local 1,15 · visitante 2,20 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@ _Goles esperados: local 1,15 · visitante 2,21 · córners esperados 9,6._
 | 1X2: 1 | 19% | 19% | 19% | 5.00 | -6% |
 | Doble oportunidad: X2 | 81% | 81% | 81% | 1.17 | -5% |
 | Doble oportunidad: 12 | 80% | 79% | 79% | 1.20 | -5% |
-| Doble oportunidad: 1X | 39% | 41% | 40% | 2.30 | -9% |
+| Doble oportunidad: 1X | 39% | 41% | 40% | 2.30 | -8% |
 | Ambos marcan: No | 39% | 38% | 38% | 2.50 | -4% |
 | Ambos marcan: Sí | 61% | 62% | 62% | 1.50 | -8% |
 | Goles más/menos: Más de 2.5 | 65% | 68% | 67% | 1.40 | -7% |
@@ -213,10 +213,10 @@ _Goles esperados: local 1,15 · visitante 2,21 · córners esperados 9,6._
 | Goles del local: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -1% |
 | Goles del local: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 65% | 66% | 65% | 1.40 | -8% |
-| Goles del visitante: Más de 2.5 | 38% | 41% | 40% | 2.25 | -11% |
+| Goles del visitante: Más de 2.5 | 38% | 41% | 39% | 2.25 | -11% |
 | Goles del visitante: Más de 3.5 | 18% | 21% | 19% | 4.50 | -12% |
 | Goles del visitante: Menos de 1.5 | 35% | 34% | 35% | 2.75 | -5% |
-| Goles del visitante: Menos de 2.5 | 62% | 59% | 60% | 1.57 | -5% |
+| Goles del visitante: Menos de 2.5 | 62% | 59% | 61% | 1.57 | -5% |
 | Goles del visitante: Menos de 3.5 | 82% | 79% | 81% | 1.18 | -5% |
 | 1X2 descanso: 2 | 46% | 45% | 45% | 2.05 | -7% |
 | 1X2 descanso: X | 36% | 35% | 36% | 2.62 | -7% |

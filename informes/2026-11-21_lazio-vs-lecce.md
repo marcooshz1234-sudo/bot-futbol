@@ -1,7 +1,7 @@
 # Lazio – Lecce
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -185,13 +185,13 @@ _Goles esperados: local 2,33 · visitante 0,89 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 12% | 12% | 8.00 | -2% |
+| 1X2: 2 | 13% | 12% | 12% | 8.00 | -3% |
 | 1X2: X | 18% | 20% | 19% | 4.75 | -11% |
 | 1X2: 1 | 70% | 69% | 69% | 1.36 | -6% |
 | Doble oportunidad: X2 | 30% | 32% | 31% | 3.00 | -7% |
 | Doble oportunidad: 12 | 82% | 80% | 81% | 1.18 | -4% |
 | Doble oportunidad: 1X | 87% | 88% | 88% | 1.08 | -5% |
-| Ambos marcan: No | 47% | 48% | 47% | 1.95 | -8% |
+| Ambos marcan: No | 47% | 48% | 47% | 1.95 | -7% |
 | Ambos marcan: Sí | 53% | 52% | 53% | 1.80 | -5% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
 | Goles más/menos: Más de 3.5 | 40% | 40% | 40% | 2.38 | -5% |

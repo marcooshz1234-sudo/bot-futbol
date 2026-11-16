@@ -1,7 +1,7 @@
 # Lens – Toulouse
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -206,7 +206,7 @@ _Goles esperados: local 1,64 · visitante 1,92 · córners esperados 9,5._
 | Goles más/menos: Más de 2.5 | 69% | 57% | 63% | 1.67 | +5% |
 | Goles más/menos: Más de 3.5 | 48% | 36% | 42% | 2.62 | +10% |
 | Goles más/menos: Más de 4.5 | 29% | 21% | 25% | 4.50 | +12% |
-| Goles más/menos: Menos de 1.5 | 13% | 21% | 17% | 4.50 | -24% |
+| Goles más/menos: Menos de 1.5 | 13% | 21% | 17% | 4.50 | -23% |
 | Goles más/menos: Menos de 2.5 | 31% | 43% | 37% | 2.20 | -18% |
 | Goles más/menos: Menos de 3.5 | 52% | 64% | 58% | 1.50 | -13% |
 | Goles más/menos: Menos de 4.5 | 71% | 79% | 75% | 1.20 | -10% |
@@ -216,7 +216,7 @@ _Goles esperados: local 1,64 · visitante 1,92 · córners esperados 9,5._
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 61% | 58% | 1.53 | -12% |
 | Goles del local: Más de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
 | Goles del local: Más de 2.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles del local: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -2% |
+| Goles del local: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
 | Goles del local: Menos de 2.5 | 77% | 72% | 75% | 1.30 | -3% |
 | Goles del visitante: Más de 0.5 | 85% | 69% | 77% | 1.36 | +5% |
 | Goles del visitante: Más de 1.5 ✅ | 57% | 35% | 46% | 2.62 | +21% |
@@ -224,7 +224,7 @@ _Goles esperados: local 1,64 · visitante 1,92 · córners esperados 9,5._
 | Goles del visitante: Menos de 1.5 | 43% | 65% | 54% | 1.44 | -23% |
 | Córners más/menos: Más de 9.5 | 45% | 49% | 47% | 1.91 | -11% |
 | Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
-| 1X2 descanso: 2 | 36% | 23% | 29% | 4.00 | +17% |
+| 1X2 descanso: 2 | 35% | 23% | 29% | 4.00 | +17% |
 | 1X2 descanso: X | 36% | 39% | 37% | 2.38 | -11% |
 | 1X2 descanso: 1 | 29% | 38% | 33% | 2.40 | -20% |
 

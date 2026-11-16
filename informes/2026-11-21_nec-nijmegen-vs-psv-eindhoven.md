@@ -1,7 +1,7 @@
 # NEC Nijmegen – PSV Eindhoven
 **Eredivisie** · Regular Season - 13 · 21/11/2026 16:30 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -186,7 +186,7 @@ _Sin bajas comunicadas por ahora._
 | D. Man | F | 7 | 118 | 0 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 1 | 0,1 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 2,48 · córners esperados 8,8._
+_Goles esperados: local 1,17 · visitante 2,47 · córners esperados 8,8._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -201,11 +201,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 37% | 29% | 33% | 3.25 | +7% |
 | Ambos marcan: Sí | 63% | 71% | 67% | 1.33 | -11% |
 | Goles más/menos: Más de 2.5 | 70% | 74% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 3.5 | 49% | 54% | 52% | 1.73 | -11% |
+| Goles más/menos: Más de 3.5 | 49% | 54% | 51% | 1.73 | -11% |
 | Goles más/menos: Más de 4.5 | 30% | 35% | 33% | 2.62 | -14% |
 | Goles más/menos: Más de 5.5 | 16% | 22% | 19% | 4.33 | -18% |
 | Goles más/menos: Menos de 2.5 | 30% | 26% | 28% | 3.60 | +0% |
-| Goles más/menos: Menos de 3.5 | 51% | 46% | 48% | 2.00 | -3% |
+| Goles más/menos: Menos de 3.5 | 51% | 46% | 49% | 2.00 | -3% |
 | Goles más/menos: Menos de 4.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles más/menos: Menos de 5.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 51% | 49% | 1.80 | -11% |
@@ -218,10 +218,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +9% |
 | Goles del local: Menos de 1.5 | 67% | 54% | 61% | 1.73 | +5% |
 | Goles del local: Menos de 2.5 | 89% | 78% | 83% | 1.20 | +0% |
-| Goles del visitante: Más de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
+| Goles del visitante: Más de 1.5 | 71% | 66% | 68% | 1.40 | -4% |
 | Goles del visitante: Más de 2.5 | 45% | 42% | 44% | 2.20 | -4% |
 | Goles del visitante: Más de 3.5 | 24% | 23% | 24% | 4.00 | -6% |
-| Goles del visitante: Menos de 1.5 | 29% | 34% | 31% | 2.75 | -13% |
+| Goles del visitante: Menos de 1.5 | 29% | 34% | 32% | 2.75 | -13% |
 | Goles del visitante: Menos de 2.5 | 55% | 58% | 56% | 1.62 | -9% |
 | Goles del visitante: Menos de 3.5 | 76% | 77% | 76% | 1.22 | -7% |
 | 1X2 descanso: 2 | 49% | 43% | 46% | 2.20 | +1% |

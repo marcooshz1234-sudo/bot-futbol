@@ -1,7 +1,7 @@
 # Denmark – Norway
 **Nations League** · League A - 6 · 17/11/2026 20:45 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -201,7 +201,7 @@ _Sin bajas comunicadas por ahora._
 | Kristian Thorstvedt | M | 1 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,08 · visitante 1,37 · córners esperados 9,4._
+_Goles esperados: local 2,08 · visitante 1,36 · córners esperados 9,4._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -226,7 +226,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 56% | 58% | 57% | 1.62 | -8% |
 | Goles del local: Más de 1.5 | 61% | 50% | 56% | 1.83 | +2% |
-| Goles del local: Más de 2.5 | 34% | 25% | 30% | 3.75 | +11% |
+| Goles del local: Más de 2.5 | 34% | 25% | 30% | 3.75 | +12% |
 | Goles del local: Menos de 1.5 | 39% | 50% | 44% | 1.83 | -19% |
 | Goles del local: Menos de 2.5 | 66% | 75% | 70% | 1.25 | -12% |
 | Goles del visitante: Más de 0.5 | 74% | 78% | 76% | 1.20 | -8% |

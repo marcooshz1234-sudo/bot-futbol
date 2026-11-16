@@ -1,7 +1,7 @@
 # Albacete – Celta de Vigo II
 **Segunda División** · Regular Season - 14 · 16/11/2026 20:30 (hora España) · Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:11_
@@ -200,14 +200,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 44% | 58% | 51% | 1.60 | -18% |
 | Doble oportunidad: X2 | 56% | 42% | 49% | 2.30 | +13% |
 | Doble oportunidad: 12 | 76% | 77% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 67% | 82% | 74% | 1.17 | -13% |
+| Doble oportunidad: 1X | 67% | 82% | 75% | 1.17 | -13% |
 | Ambos marcan: No | 38% | 42% | 40% | 2.20 | -12% |
 | Ambos marcan: Sí | 62% | 58% | 60% | 1.62 | -3% |
 | Goles más/menos: Más de 1.5 | 82% | 79% | 81% | 1.18 | -5% |
 | Goles más/menos: Más de 2.5 | 60% | 58% | 59% | 1.62 | -4% |
-| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles más/menos: Más de 3.5 | 38% | 38% | 38% | 2.50 | -6% |
 | Goles más/menos: Más de 4.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -13% |
+| Goles más/menos: Menos de 1.5 | 18% | 21% | 19% | 4.50 | -12% |
 | Goles más/menos: Menos de 2.5 | 40% | 42% | 41% | 2.25 | -8% |
 | Goles más/menos: Menos de 3.5 | 62% | 62% | 62% | 1.50 | -7% |
 | Goles más/menos: Menos de 4.5 | 79% | 79% | 79% | 1.18 | -6% |

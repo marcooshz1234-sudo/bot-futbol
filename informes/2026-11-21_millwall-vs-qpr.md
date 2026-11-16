@@ -1,7 +1,7 @@
 # Millwall – QPR
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -224,8 +224,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
 | Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles del visitante: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Córners más/menos: Más de 10.5 | 37% | 51% | 44% | 1.85 | -19% |
-| Córners más/menos: Menos de 10.5 | 63% | 49% | 56% | 1.95 | +9% |
+| Córners más/menos: Más de 10.5 | 36% | 51% | 44% | 1.85 | -19% |
+| Córners más/menos: Menos de 10.5 | 64% | 49% | 56% | 1.95 | +9% |
 | 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -8% |
 | 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -3% |
 | 1X2 descanso: 1 | 28% | 31% | 29% | 3.00 | -12% |

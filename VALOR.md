@@ -1,17 +1,11 @@
 # Apuestas de valor
 
-_Actualizado el 16/11/2026 16:18 (hora España)._
+_Actualizado el 16/11/2026 20:08 (hora España)._
 
 Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) supera a la que implica la cuota de Bet365 (valor mínimo 6%, cuotas entre 1.30 y 6.00). El **valor** es lo que pagaría de más la cuota si el modelo acierta la probabilidad: un +10% significa que a largo plazo ganarías 10 céntimos por cada euro apostado.
 
 > Es un modelo estadístico: no sabe de rotaciones, motivación ni noticias de última hora. Revisa siempre el informe del partido antes de apostar.
 
-
-## 20/11
-
-| Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
-|---|---|---|---|---|---|---|---|
-| 20:30 | [Bayern München – 1. FC Köln](informes/2026-11-20_bayern-munchen-vs-1-fc-koln.md) | Goles del local: Menos de 2.5 | 3.25 | 36% | 29% | 33% | **+6%** |
 
 ## 21/11
 
@@ -25,8 +19,8 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 | 16:00 | [Bournemouth – Nottingham Forest](informes/2026-11-21_bournemouth-vs-nottingham-forest.md) | Goles del visitante: Menos de 0.5 | 2.75 | 47% | 34% | 40% | **+11%** |
 | 16:00 | [Aston Villa – Sunderland](informes/2026-11-21_aston-villa-vs-sunderland.md) | Goles del visitante: Más de 1.5 | 3.40 | 39% | 28% | 33% | **+13%** |
 | 16:00 | [Aston Villa – Sunderland](informes/2026-11-21_aston-villa-vs-sunderland.md) | Goles más/menos: Más de 3.5 | 3.00 | 39% | 32% | 35% | **+6%** |
-| 16:00 | [Tottenham – Ipswich](informes/2026-11-21_tottenham-vs-ipswich.md) | Doble oportunidad: X2 | 2.38 | 51% | 40% | 46% | **+8%** |
 | 16:00 | [Tottenham – Ipswich](informes/2026-11-21_tottenham-vs-ipswich.md) | Goles del local: Menos de 1.5 | 2.50 | 49% | 38% | 43% | **+8%** |
+| 16:00 | [Tottenham – Ipswich](informes/2026-11-21_tottenham-vs-ipswich.md) | Doble oportunidad: X2 | 2.38 | 51% | 40% | 45% | **+8%** |
 | 16:00 | [Chelsea – Leeds](informes/2026-11-21_chelsea-vs-leeds.md) | Goles del visitante: Más de 1.5 | 3.00 | 42% | 31% | 37% | **+10%** |
 | 16:00 | [Chelsea – Leeds](informes/2026-11-21_chelsea-vs-leeds.md) | Goles más/menos: Más de 3.5 | 2.75 | 45% | 34% | 40% | **+9%** |
 | 18:30 | [FC Schalke 04 – VfB Stuttgart](informes/2026-11-21_fc-schalke-04-vs-vfb-stuttgart.md) | Goles más/menos: Menos de 2.5 | 2.75 | 49% | 34% | 42% | **+15%** |
@@ -43,9 +37,10 @@ Selecciones en las que la probabilidad estimada (mitad modelo, mitad mercado) su
 
 | Hora | Partido | Apuesta | Cuota | Modelo | Casa | Estimada | Valor |
 |---|---|---|---|---|---|---|---|
+| 14:00 | [Barcelona – Villarreal](informes/2026-11-22_barcelona-vs-villarreal.md) | Córners más/menos: Menos de 10.5 | 2.00 | 61% | 46% | 54% | **+8%** |
 | 15:00 | [Bologna – Udinese](informes/2026-11-22_bologna-vs-udinese.md) | Goles más/menos: Más de 3.5 | 3.40 | 38% | 28% | 33% | **+12%** |
 | 15:00 | [Bologna – Udinese](informes/2026-11-22_bologna-vs-udinese.md) | Goles del local: Más de 2.5 | 3.50 | 36% | 27% | 31% | **+10%** |
-| 15:00 | [Hull City – Brighton](informes/2026-11-22_hull-city-vs-brighton.md) | Goles más/menos: Menos de 2.5 | 2.20 | 65% | 43% | 54% | **+18%** |
+| 15:00 | [Hull City – Brighton](informes/2026-11-22_hull-city-vs-brighton.md) | Goles más/menos: Menos de 2.5 | 2.20 | 65% | 43% | 54% | **+19%** |
 | 15:00 | [Hull City – Brighton](informes/2026-11-22_hull-city-vs-brighton.md) | Goles 1ª parte más/menos: Menos de 0.5 | 3.40 | 40% | 28% | 34% | **+15%** |
 | 15:30 | [FC Augsburg – FSV Mainz 05](informes/2026-11-22_fc-augsburg-vs-fsv-mainz-05.md) | Goles más/menos: Más de 4.5 | 3.50 | 48% | 27% | 37% | **+31%** |
 | 15:30 | [FC Augsburg – FSV Mainz 05](informes/2026-11-22_fc-augsburg-vs-fsv-mainz-05.md) | Goles del local: Más de 2.5 | 3.75 | 41% | 25% | 33% | **+23%** |

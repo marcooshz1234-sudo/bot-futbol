@@ -1,7 +1,7 @@
 # Union Berlin – RB Leipzig
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -193,7 +193,7 @@ _Sin bajas comunicadas por ahora._
 | C. Baumgartner | M | 6 | 169 | 4 | 1 | 9 | 1,5 | 5 | 0,8 | 4 | 0 | 0,0 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,51 · córners esperados 9,3._
+_Goles esperados: local 1,04 · visitante 2,50 · córners esperados 9,3._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@ _Goles esperados: local 1,04 · visitante 2,51 · córners esperados 9,3._
 | Goles del local: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
 | Goles del visitante: Más de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
 | Goles del visitante: Más de 2.5 | 46% | 39% | 42% | 2.38 | +1% |
-| Goles del visitante: Más de 3.5 | 24% | 21% | 23% | 4.50 | +2% |
+| Goles del visitante: Más de 3.5 | 24% | 21% | 23% | 4.50 | +1% |
 | Goles del visitante: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
 | Goles del visitante: Menos de 2.5 | 54% | 61% | 58% | 1.53 | -12% |
 | Goles del visitante: Menos de 3.5 | 76% | 79% | 77% | 1.18 | -9% |

@@ -1,7 +1,7 @@
 # Levante – Elche
 **LaLiga** · Regular Season - 13 · 23/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -180,7 +180,7 @@ _Sin bajas comunicadas por ahora._
 | Bigas | D | 6 | 211 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 1,41 · córners esperados 8,9._
+_Goles esperados: local 1,52 · visitante 1,40 · córners esperados 8,9._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@ _Goles esperados: local 1,52 · visitante 1,41 · córners esperados 8,9._
 | Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
 | Doble oportunidad: 1X | 65% | 70% | 67% | 1.36 | -9% |
 | Ambos marcan: No | 41% | 41% | 41% | 2.25 | -8% |
-| Ambos marcan: Sí | 59% | 59% | 59% | 1.57 | -7% |
+| Ambos marcan: Sí | 59% | 59% | 59% | 1.57 | -8% |
 | Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.20 | -5% |
 | Goles más/menos: Más de 2.5 | 56% | 57% | 56% | 1.67 | -6% |
 | Goles más/menos: Más de 3.5 | 34% | 36% | 35% | 2.62 | -8% |

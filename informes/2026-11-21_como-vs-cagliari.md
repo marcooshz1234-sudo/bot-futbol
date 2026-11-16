@@ -1,7 +1,7 @@
 # Como – Cagliari
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 16:13._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -192,8 +192,8 @@ _Goles esperados: local 2,17 · visitante 0,68 · córners esperados 9,7._
 | Doble oportunidad: X2 | 28% | 28% | 28% | 3.40 | -4% |
 | Doble oportunidad: 12 | 82% | 82% | 82% | 1.17 | -4% |
 | Doble oportunidad: 1X | 90% | 90% | 90% | 1.07 | -4% |
-| Ambos marcan: No | 56% | 50% | 53% | 1.91 | +1% |
-| Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -10% |
+| Ambos marcan: No | 56% | 50% | 53% | 1.91 | +2% |
+| Ambos marcan: Sí | 44% | 50% | 47% | 1.91 | -11% |
 | Goles más/menos: Más de 2.5 | 54% | 62% | 58% | 1.53 | -11% |
 | Goles más/menos: Más de 3.5 | 32% | 41% | 37% | 2.30 | -16% |
 | Goles más/menos: Más de 4.5 | 16% | 24% | 20% | 4.00 | -20% |
