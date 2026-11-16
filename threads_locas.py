@@ -110,6 +110,17 @@ def patas_partido(ex):
                 continue
             p.update(texto=espanol(C.texto_es(t, loc, vis)), prob=_prob(cuotas, mercado, o, c))
             out.append(p)
+    # tiros de los jugadores que da bet365 en el partido (los que suelen jugar), 2+ tiros
+    for mercado in ("Home Player Shots", "Away Player Shots"):
+        for o, c in cuotas.get(mercado) or []:
+            try:
+                nombre, n = str(o).rsplit(" - ", 1)
+                n, c = int(float(n)), float(c)
+            except (TypeError, ValueError):
+                continue
+            if n >= 2 and MIN_PATA <= c <= 3.5:
+                out.append({"partido_id": pa["fixture"]["id"], "mercado": mercado, "opcion": str(o), "cuota": c,
+                            "familia": "jugador", "texto": f"{nombre.strip()}: {n}+ tiros", "prob": 1 / c / 1.07})
     # jugadores habituales (titulares en 5 de los últimos 8), sin esperar a las alineaciones
     try:
         for j in C.jugadores_estrella(pa["fixture"]["id"]):
@@ -143,14 +154,14 @@ def partidos_del_dia(dia):
         if patas:
             from nombres import espanol
             salida.append({"fid": pa["fixture"]["id"], "ini": ini, "local": espanol(pa["teams"]["home"]["name"]),
-                           "local_en": pa["teams"]["home"]["name"],
+                           "local_en": pa["teams"]["home"]["name"], "visitante_en": pa["teams"]["away"]["name"],
                            "visitante": espanol(pa["teams"]["away"]["name"]), "liga": pa["league"]["name"],
                            "patas": patas})
     return sorted(salida, key=lambda x: x["ini"])
 
 
-def huecos(dia, desde):
-    """Horas de post del día (desde «desde»): cada 30 min de día, cada hora de madrugada."""
+def huecos(dia, desde, lleno=False):
+    """Horas de post del día (desde «desde»): cada 30 min de día (20 si el día va lleno), cada hora de madrugada."""
     from bot import MADRID
     t = datetime.fromisoformat(dia).replace(tzinfo=MADRID)
     fin = t + timedelta(days=1, hours=DIA_FIN)
@@ -159,7 +170,7 @@ def huecos(dia, desde):
         if t >= desde:
             out.append(t)
         noche = DIA_FIN <= t.hour < DIA_INI
-        t += timedelta(minutes=HUECO_NOCHE if noche else HUECO_DIA)
+        t += timedelta(minutes=HUECO_NOCHE if noche else HUECO_DIA_LLENO if lleno else HUECO_DIA)
     return out
 
 
@@ -248,7 +259,8 @@ def _abreviar(t):
 
 
 # familias que no van juntas en el mismo partido (las normas del 31/10 y 02/11 de comprobar_post)
-CHOCAN = {"ambos": {"marca", "doble"}, "marca": {"ambos", "doble"}, "doble": {"ambos", "marca"}}
+CHOCAN = {"ambos": {"marca", "doble"}, "marca": {"ambos", "doble"}, "doble": {"ambos", "marca", "gana"},
+          "gana": {"doble"}}   # «gana X» ya incluye «X o empate»: las dos juntas inflan la cuota
 
 TITULOS = {50: ["🤑 COMBI x{c} 🤑", "💸 LA DE x{c} 💸"], 100: ["🔥 COMBI POR {c} 🔥", "💯 LA CENTENARIA x{c} 💯"],
            500: ["🤪 LA LOCURA DE x{c} 🤪", "💎 COMBI x{c} 💎"], 1000: ["🚀 COMBI x{c} 🚀", "🎰 LA MILLONARIA x{c} 🎰"]}
@@ -489,25 +501,121 @@ def reto_euro(partidos, semilla, usados):
     return sel, cuota, "\n".join(t)
 
 
+# 16/11 (Marcos: «también combis con escudos: si es un partidazo como Alemania–Holanda, 6, 7 u 8 cosas; si son
+# partidos más flojos, entre 3 y 4»). Una por partido, unas horas antes, con la foto de los dos escudos (Threads e IG).
+SELECCIONES_TOP = {"Spain", "France", "England", "Germany", "Netherlands", "Portugal", "Italy", "Belgium", "Croatia",
+                   "Argentina", "Brazil", "Denmark", "Switzerland"}
+COMPETICIONES_TOP = ("Champions League", "UEFA Champions League")
+HORAS_ANTES = 4
+PROB_MIN_ESCUDOS = 0.40
+ESCUDOS_DIA = (4, 6)   # 16/11 (Marcos: «no todos los partidos, entre 4 y 6»)
+# 16/11 (Marcos: «si hay Europa o Conference, que hay muchos partidos el mismo día, puedes meter más publicaciones»)
+COPAS_MUCHAS = ("Europa League", "UEFA Europa League", "Conference League", "UEFA Europa Conference League",
+                "UEFA Conference League")
+MUCHOS_PARTIDOS = 12
+ESCUDOS_DIA_LLENO, HUECO_DIA_LLENO = 10, 20
+
+
+def dia_lleno(partidos):
+    return len(partidos) >= MUCHOS_PARTIDOS or any(pt.get("liga") in COPAS_MUCHAS for pt in partidos)
+
+
+def partidazo(pt):
+    from plantillas import GRANDES
+    nombres = f"{pt['local_en']} {pt.get('visitante_en', '')}".lower()
+    top = sum(1 for e in (pt["local_en"], pt.get("visitante_en", "")) if e in SELECCIONES_TOP)
+    return top == 2 or any(g in nombres for g in GRANDES) or pt.get("liga") in COMPETICIONES_TOP
+
+
+def escudos(pt, usados):
+    """(sel, cuota, texto) de la combi de un partido: 6-8 cosas si es un partidazo, 3-4 si no. Sin córners ni
+    tarjetas (norma de los escudos), sin familias que choquen, jugadores habituales como mucho 3."""
+    grande = partidazo(pt)
+    lo, hi = (6, 8) if grande else (3, 4)
+    sel, fams, jug = [], set(), 0
+    for p in pt["patas"]:
+        if p["familia"] in ("corners", "tarjetas") or not libre(pt["fid"], p["mercado"], p["opcion"], usados):
+            continue
+        if p["prob"] < PROB_MIN_ESCUDOS:   # nada de patas raras («Serbia gana una parte», «Gana Escocia»)
+            continue
+        if p["familia"] == "jugador":
+            nombre = p["texto"].split(":")[0]
+            if jug >= (4 if grande else 2) or any(nombre in x["texto"] for _, x in sel):
+                continue
+        elif p["familia"] in fams or CHOCAN.get(p["familia"], set()) & fams:
+            continue
+        sel.append((pt, p))
+        fams.add(p["familia"])
+        jug += p["familia"] == "jugador"
+        if len(sel) >= hi:
+            break
+    if len(sel) < lo:
+        return None
+    cuota = cuota_bet(sel)
+    lineas = [f"🔥 COMBI DEL {pt['local'].upper()} – {pt['visitante'].upper()} 🔥", "",
+              f"⭐ {pt['local']} vs {pt['visitante']} · {pt['ini'].strftime('%H:%M')}", ""]
+    lineas += [_abreviar(_linea(pt, p)) for _, p in sel]
+    lineas += ["", f"🎯 CUOTA {coma(cuota)} aprox. 💎 10€ → {coma(cuota * 10)}€", "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"]
+    return sel, cuota, "\n".join(lineas)
+
+
+def tarjeta(pt):
+    pa = _ex(pt["fid"]).get("partido") or {}
+    t = pa.get("teams") or {}
+    if not t:
+        return None
+    return {"local": t["home"]["name"], "visitante": t["away"]["name"], "id_l": t["home"]["id"], "id_v": t["away"]["id"],
+            "logo_l": t["home"].get("logo"), "logo_v": t["away"].get("logo"), "fecha": pt["ini"].strftime("%Y-%m-%dT%H:%M"),
+            "liga": pa.get("league", {}).get("name")}
+
+
 ESPECIALES = {"ganaambos": gana_y_ambos, "duelo": duelo_tiros, "empates": empates, "hora": misma_hora,
               "tapados": tapados, "reto": reto_euro, "tiros": lambda v, s, u: (lambda r: r and (r[0], r[1], r[2]))(tiros_partido(v, s, u))}
 MAX_DIA = {"x50": 2, "x100": 2, "x500": 2, "x1000": 1, "reto": 1, "empates": 1, "tapados": 2, "hora": 2,
            "ganaambos": 3, "duelo": 3, "tiros": 2, "lista": 6}
+MAX_DIA_LLENO = {k: v * 2 for k, v in MAX_DIA.items()}   # día de Europa/Conference: el doble de cada tipo
 ROTACION = ("x100", "ganaambos", "lista", "duelo", "x50", "hora", "tapados", "x500", "lista", "empates", "ganaambos",
             "reto", "tiros", "lista", "duelo", "x100", "hora", "x50", "tapados", "lista", "ganaambos", "x500", "duelo",
             "x1000", "lista")
 
 
-def plan(dia, desde=None, ya_horas=(), usados_previos=None):
+escudos_de = {}   # hora → datos de la foto de los escudos (para posts())
+
+
+def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
     """[(hora, tipo, texto, sel)] del día. ya_horas: horas que ya tienen post en Threads (no se pisan)."""
     from bot import MADRID
     desde = desde or datetime.now(MADRID)
     todos = partidos_del_dia(dia)
     out, usados, i_lista, n = [], dict(usados_previos or {}), 0, 0
     veces, ultimo, firmas = {}, None, set()
-    for h in huecos(dia, desde):
-        if any(abs((h - y).total_seconds()) < 15 * 60 for y in ya_horas):
+    lleno = dia_lleno(todos)
+    max_esc = ESCUDOS_DIA_LLENO if lleno else ESCUDOS_DIA[1]
+    libres = [h for h in huecos(dia, desde, lleno) if not any(abs((h - y).total_seconds()) < 15 * 60 for y in ya_horas)]
+    hechos_esc = 0
+    orden_esc = sorted([pt for pt in todos if pt["fid"] not in (con_escudos or set())],
+                       key=lambda pt: (not partidazo(pt), -len(pt["patas"]), pt["ini"]))
+    for pt in orden_esc:
+        if hechos_esc >= max_esc:
+            break
+        cand = [h for h in libres if h <= pt["ini"] - timedelta(minutes=60)]
+        if not cand:
             continue
+        objetivo = pt["ini"] - timedelta(hours=HORAS_ANTES)
+        h = min(cand, key=lambda x: abs((x - objetivo).total_seconds()))
+        r = escudos(pt, usados)
+        if not r:
+            continue
+        sel, cuota, texto = r
+        for _, p in sel:
+            k = (pt["fid"], p["mercado"], p["opcion"])
+            usados[k] = usados.get(k, 0) + 1
+        out.append((h, "escudos", texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for _, p in sel],
+                    [p["cuota"] for _, p in sel]))
+        escudos_de[h] = tarjeta(pt)
+        libres.remove(h)
+        hechos_esc += 1
+    for h in libres:
         vivos = [pt for pt in todos if pt["ini"] >= h + timedelta(minutes=MARGEN_INICIO)]
         if len(vivos) < 2:
             continue
@@ -515,7 +623,7 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None):
         hecho = None
         for k in range(len(ROTACION)):
             tipo = ROTACION[(n + k) % len(ROTACION)]
-            if veces.get(tipo, 0) >= MAX_DIA.get(tipo, 2) or tipo == ultimo:   # variedad: nunca 2 iguales seguidos
+            if veces.get(tipo, 0) >= (MAX_DIA_LLENO if lleno else MAX_DIA).get(tipo, 2) or tipo == ultimo:   # variedad: nunca 2 iguales seguidos
                 continue
             if tipo in ESPECIALES:
                 r = ESPECIALES[tipo](vivos, semilla, usados)
@@ -571,7 +679,7 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None):
         ultimo = base_tipo
         out.append((h, tipo, texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel],
                     [p["cuota"] for _, p in sel]))
-    return out
+    return sorted(out, key=lambda x: x[0])
 
 
 def posts(dia, desde=None, sin_locas=False):
@@ -585,7 +693,7 @@ def posts(dia, desde=None, sin_locas=False):
                     and not re.search(r"verde|rojo|balance|resumen", p["id"]):
                 from bot import MADRID
                 ya.append(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID))
-    previos = {}
+    previos, con_esc = {}, set()
     for f in ("auto.json", "cola.json"):
         for p in leer(PUB / f, []) or []:
             if p["id"].startswith(dia) and "-loca-th-" not in p["id"] and not p.get("verde_de") \
@@ -594,8 +702,17 @@ def posts(dia, desde=None, sin_locas=False):
                     f_, m_, o_ = (str(s_).split("|") + ["", ""])[:3]
                     if f_.isdigit():
                         previos[(int(f_), m_, o_)] = previos.get((int(f_), m_, o_), 0) + 1
+                        if "combi-partido" in p["id"]:   # ese partido ya tiene su combi con escudos
+                            con_esc.add(int(f_))
     salida = []
-    for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(dia, desde, ya, previos)):
+    for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(dia, desde, ya, previos, con_esc)):
+        if tipo == "escudos":
+            salida.append({"id": f"{dia}-loca-th-{h.strftime('%H%M')}-escudos", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
+                           "texto": texto, "sel": sel, "cuotas": cuotas, "solo_redes": True, "origen": "threads_locas",
+                           "tarjeta": escudos_de.get(h), "cuota_total": cuota_txt(texto), "cuota_calculada": True,
+                           "cuota_bet365": cuota_txt(texto), "fijo": True, "directo": True,
+                           "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1})
+            continue
         salida.append({"id": f"{dia}-loca-th-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "sel": sel, "cuotas": cuotas, "solo_en": ["threads"], "origen": "threads_locas",
                        "cuota_bet365": cuota_txt(texto),

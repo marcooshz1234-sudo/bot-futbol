@@ -68,6 +68,20 @@ class ThreadsLocas(unittest.TestCase):
         real = C.cuota_real_sel([f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel], [p["cuota"] for _, p in sel])
         self.assertAlmostEqual(cuota, real, places=1)
 
+    def test_escudos(self):
+        # partidazo (dos selecciones top) → 6-8 cosas; flojo → 3-4; nunca «gana X» con «X o empate»
+        self.assertTrue(T.partidazo({"local_en": "Germany", "visitante_en": "Netherlands"}))
+        self.assertFalse(T.partidazo({"local_en": "Gibraltar", "visitante_en": "Malta"}))
+        self.assertIn("doble", T.CHOCAN["gana"])
+        self.assertEqual(T.ESCUDOS_DIA, (4, 6))
+
+    def test_dia_lleno_mas_posts(self):
+        from bot import MADRID
+        d = datetime(2026, 11, 16, 0, 0, tzinfo=MADRID)
+        self.assertGreater(len(T.huecos("2026-11-16", d, lleno=True)), len(T.huecos("2026-11-16", d)))
+        self.assertTrue(T.dia_lleno([{"liga": "UEFA Europa League"}]))
+        self.assertFalse(T.dia_lleno([{"liga": "Nations League"}] * 5))
+
     def test_texto_sin_partido_repetido(self):
         pt = {"local": "Alemania", "visitante": "Países Bajos"}
         self.assertEqual(T._corto(pt, {"texto": "Ambos marcan en Alemania–Países Bajos"}), "Ambos marcan")

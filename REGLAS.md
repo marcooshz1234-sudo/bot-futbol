@@ -17,6 +17,9 @@
   - **Nada de cuánto hemos acertado** (ni verdes, ni rojos, ni balances, ni como comentario), salvo un verde de **cuota 10 o más** («Señores, acertamos tal»).
   - Lo que más importa medir es **la gente que te sigue desde cada post** (y los likes); las visualizaciones también, pero menos (rendimiento_redes.py).
   - **Contenido constante** (threads_locas.py): cada 30 min de 09:00 a 01:00 y cada hora de madrugada; combis x50/x100/x500/x1000, listas del día, tiros de jugadores habituales (sin esperar alineaciones). Nada de un pick suelto con explicación. Enlace del Telegram en el comentario 1 de cada 4.
+  - **Combis con escudos (foto de los 2 escudos)**: entre 4 y 6 al día (no todos los partidos), unas 4 h antes; partidazo → 6-8 cosas, partido flojo → 3-4. Sin córners ni tarjetas, sin «gana X» junto a «X o empate».
+  - **Días de Europa League / Conference (o 12+ partidos)**: más posts (cada 20 min de día, hasta 10 escudos).
+  - Threads no deja más de 500 caracteres. La cuota, siempre como saldría en bet365 (crear apuesta en el mismo partido). Un pick, como mucho en 2 posts del día.
   - **Patas de 1,40 a 9** (el tope de 1,80 es solo para Telegram).
   - Si un cuotón entra pero algún jugador no jugó (anulado), el comentario lo dice tranquilo: «han entrado todas, X no jugó y la cuota baja un poco».
 - **Telegram = lo serio (lo que luego se podrá vender).** La escalera: 1 pick (2 solo si hay uno muy fijo), explicada. Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
