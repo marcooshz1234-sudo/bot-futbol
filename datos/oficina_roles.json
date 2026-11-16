@@ -338,5 +338,10 @@
   "rol": "analista",
   "hora": "2026-11-16T09:14",
   "texto": "Picks 10:30/18:00, escalera y combi del día OK. Xhaka (fuera de la lista) en la loca de las 10:00: avisado a Marcos"
+ },
+ {
+  "rol": "ojeador",
+  "hora": "2026-11-16T10:13",
+  "texto": "Bot parado 82 min: relanzado 09:11 UTC. Sin picks nuevos (solo publicidad y capturas de chat)"
  }
 ]
