@@ -172,10 +172,6 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-0400-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 96,60 🔥» (04:00)"
-  },
-  {
    "clave": "regla-orden-2026-11-16-loca-th-0800-x50",
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x44,60 🤑» (08:00)"
   },
@@ -196,7 +192,7 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,32 🤑» (19:00)"
   }
  ],
- "revisado": "2026-11-16T03:55",
+ "revisado": "2026-11-16T04:05",
  "historial": [
   {
    "hora": "2026-11-16T03:15",

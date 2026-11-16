@@ -33,6 +33,17 @@
  },
  "top": [
   {
+   "local": "Kazakhstan",
+   "visitante": "Slovakia",
+   "inicio": "2026-11-16T16:00",
+   "texto": "Kazakhstan marca",
+   "cuota": 1.53,
+   "justa": 1.52,
+   "ev": 0.006,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Germany",
    "visitante": "Netherlands",
    "inicio": "2026-11-16T20:45",
@@ -41,11 +52,22 @@
    "justa": 2.22,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 1.1
+   "edad_h": 1.6
+  },
+  {
+   "local": "Faroe Islands",
+   "visitante": "Moldova",
+   "inicio": "2026-11-16T16:00",
+   "texto": "Moldova marca",
+   "cuota": 1.73,
+   "justa": 1.76,
+   "ev": -0.015,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-16T03:36",
+  "hora": "2026-11-16T04:05",
   "revisadas": 0,
   "mejor": null
  },
