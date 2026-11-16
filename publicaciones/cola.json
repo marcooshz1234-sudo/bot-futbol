@@ -7404,5 +7404,25 @@
     "foto_tg": "publicaciones/media/2026-11-16-pick-tip-3.tg.jpg",
     "enviado": "2026-11-16T12:17",
     "mensaje_id": 500
+  },
+  {
+    "id": "2026-11-16-pick-tip-4",
+    "fecha": "2026-11-16T12:46",
+    "texto": "Otro para esta noche, de los que nos gustan mucho 🔥\n\n🍀 Más de 9,5 remates a puerta en Alemania–Países Bajos @1,61\n\n⚽ Alemania – Países Bajos · hoy 20:45\n\n👨‍💻 Alemania necesita ganar para meterse en cuartos: va a atacar desde el inicio\n👨‍💻 Países Bajos remató 13 veces a puerta en su último partido (7-0)\n👨‍💻 En 4 de los últimos 5 partidos de Países Bajos hubo 11 o más remates a puerta entre los dos\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [
+      "1528990|Total ShotOnGoal|Over 9.5"
+    ],
+    "cuotas": [
+      1.61
+    ],
+    "solo_en": [
+      "telegram"
+    ],
+    "nota": "copiado a mano por Claude (Tipster Pérez, favorito de Marcos, 16/11 12:32, solo en foto)"
   }
 ]
