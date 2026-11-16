@@ -27,7 +27,7 @@
   - **Siempre con explicación**: si un pick (también las copias de tipsters) va sin porqué, el bot le añade 1-3 razones (forma, tabla, rachas, qué se juega). Debajo de la foto el porqué se queda.
   - El buenos días ya **no lista lo que sale hoy** (salía solo la escalera).
 - Un **pick suelto** (o copia de tipster de una pata) es solo para Telegram, nunca Threads/Instagram.
-- **Copias de los canales (16/11, Marcos: «coge las que te gusten… fallar lo menos posible»)**: ya no se copia todo. Solo si bet365 lo ve probable (≥ 55 %, cuota ≈ 1,75 o menos) o lo dan 2 canales; no de tipsters con menos de la mitad acertada (8+ resueltos) salvo que otro canal lo dé igual; nunca a favor de un equipo que no se juega nada contra uno que sí. Siempre con su porqué. Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
+- **Copias de los canales (16/11, Marcos: «coge las que te gusten… fallar lo menos posible»; «que pese más el % de acierto de cada tipster»)**: ya no se copia todo. Nota = 40 % lo que ve bet365 + 60 % el acierto del tipster (suavizado: con pocos picks cuenta como 50 %) + 0,10 si lo dan 2 canales; se copia con nota ≥ 0,55. Nunca algo que bet365 vea por debajo del 33 %, ni a favor de un equipo que no se juega nada contra uno que sí. Siempre con su porqué.
 
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).

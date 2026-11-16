@@ -15,6 +15,11 @@ from bot import MADRID
 
 
 class CopiarMyMatch(unittest.TestCase):
+    def setUp(self):   # 16/11: el filtro de calidad de las copias se prueba en test_copiar_calidad
+        _p = mock.patch("copiar_tipsters.calidad_no", return_value=None)
+        _p.start()
+        self.addCleanup(_p.stop)
+
     def test_texto_limpio(self):
         self.assertEqual(C.limpiar("Grecia no marca 3 (pata de su MyMatch @1,54)"), "Grecia no marca 3")
         self.assertEqual(C.limpiar("Gana PB y +1,5 (MyMatch)"), "Gana PB y +1,5")
@@ -59,6 +64,11 @@ if __name__ == "__main__":
 
 class MismoPickDosCanales(unittest.TestCase):
     """14/11: «Gana el Almería» salió dos veces (STAKE REAL 11:12 y TipsAnalistas 12:36)."""
+    def setUp(self):   # 16/11: el filtro de calidad de las copias se prueba en test_copiar_calidad
+        _p = mock.patch("copiar_tipsters.calidad_no", return_value=None)
+        _p.start()
+        self.addCleanup(_p.stop)
+
 
     def test_mismo_pick(self):
         import copiar_tipsters as C

@@ -55,6 +55,11 @@ class TestCuotaMinima(unittest.TestCase):
 
 
 class TestCopiarTipsters(unittest.TestCase):
+    def setUp(self):   # 16/11: el filtro de calidad de las copias se prueba en test_copiar_calidad
+        _p = mock.patch("copiar_tipsters.calidad_no", return_value=None)
+        _p.start()
+        self.addCleanup(_p.stop)
+
     def correr(self, picks):
         import copiar_tipsters as CT
         ahora = datetime(2026, 11, 12, 12, 0, tzinfo=MADRID)

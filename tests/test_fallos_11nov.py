@@ -11,6 +11,11 @@ RAIZ = Path(__file__).resolve().parents[1]
 
 
 class TestFallos11Nov(unittest.TestCase):
+    def setUp(self):   # 16/11: el filtro de calidad de las copias se prueba en test_copiar_calidad
+        _p = mock.patch("copiar_tipsters.calidad_no", return_value=None)
+        _p.start()
+        self.addCleanup(_p.stop)
+
     def test_sin_check_falso_en_patas_sin_bandera(self):
         self.assertNotEqual(plantillas.bandera_pick({"equipo": "Equipo Inventado FC", "mercado": "Match Winner"}), "✅")
 

@@ -15,16 +15,26 @@ class Calidad(unittest.TestCase):
 
     def test_poco_probable_fuera(self):
         x = self.x(analisis={"prob_cuota": 0.45})
-        self.assertIn("poco probable", C.calidad_no(x, 2.1, [x]) or "")
+        with mock.patch.object(C, "acierto_tipster", return_value=0.5):
+            self.assertIn("nota", C.calidad_no(x, 2.1, [x]) or "")
 
     def test_dos_canales_lo_mismo_si(self):
-        x, y = self.x(analisis={"prob_cuota": 0.45}), self.x(tipster="B")
-        self.assertIsNone(C.calidad_no(x, 2.1, [x, y]))
+        x, y = self.x(analisis={"prob_cuota": 0.50}), self.x(tipster="B")
+        with mock.patch.object(C, "acierto_tipster", return_value=0.55):
+            self.assertIsNone(C.calidad_no(x, 1.9, [x, y]))
 
-    def test_tipster_flojo_fuera(self):
-        x = self.x(analisis={"prob_cuota": 0.62})
-        with mock.patch.object(C, "acierto_tipster", return_value=0.4):
-            self.assertIn("acierta solo", C.calidad_no(x, 1.55, [x]) or "")
+    def test_tipster_bueno_pesa_mas(self):
+        # 16/11 10:29 (Marcos): el acierto del tipster pesa más que la cuota
+        x = self.x(analisis={"prob_cuota": 0.45})
+        with mock.patch.object(C, "acierto_tipster", return_value=0.81):   # INSIDER 11 de 12
+            self.assertIsNone(C.calidad_no(x, 2.1, [x]))
+        with mock.patch.object(C, "acierto_tipster", return_value=0.45):
+            self.assertIsNotNone(C.calidad_no(dict(x, analisis={"prob_cuota": 0.62}), 1.55, [x]))
+
+    def test_suelo(self):
+        x = self.x(analisis={"prob_cuota": 0.30})
+        with mock.patch.object(C, "acierto_tipster", return_value=0.9):
+            self.assertIn("arriesgado", C.calidad_no(x, 3.2, [x]) or "")
 
     def test_bueno_pasa(self):
         x = self.x(analisis={"prob_cuota": 0.62})

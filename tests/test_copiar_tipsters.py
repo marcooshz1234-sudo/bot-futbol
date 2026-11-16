@@ -10,6 +10,11 @@ from bot import MADRID
 
 
 class TestCopiarTipsters(unittest.TestCase):
+    def setUp(self):   # 16/11: el filtro de calidad de las copias se prueba en test_copiar_calidad
+        _p = mock.patch("copiar_tipsters.calidad_no", return_value=None)
+        _p.start()
+        self.addCleanup(_p.stop)
+
     def test_suelto_y_combi(self):
         with tempfile.TemporaryDirectory() as d:
             d = Path(d)

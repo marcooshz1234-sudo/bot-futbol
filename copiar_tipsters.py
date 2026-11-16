@@ -78,26 +78,36 @@ def motivo_no(x, usos):
     return None
 # 16/11 (Marcos: «coge para el Telegram las que te gusten: ahora lo importante está en Telegram, tenemos que coger
 # buenos picks y fallar lo menos posible»): ya no se copia todo, solo lo que pasa este filtro de calidad
-PROB_MIN_SUELTO = 0.55      # bet365 (sin margen) tiene que verlo más probable que no (≈ cuota ≤ 1,75)
-ACIERTO_MIN_TIPSTER = 0.50  # tipsters con 8+ resueltos y menos de la mitad acertados: solo si otro canal da lo mismo
-MIN_RESUELTOS = 8
+PROB_MIN_SUELTO = 0.55      # (umbral de la nota: ver nota_pick)
+# 16/11 10:29 (Marcos: «también depende del porcentaje de acierto de cada tipster: que pese más sobre si coger el pick
+# o no, aunque no sea tan bueno»): nota = 40 % lo que ve bet365 + 60 % lo que acierta ese tipster (suavizado: con
+# pocos picks cuenta como un 50 %). Si lo dan 2 canales, +0,10. Se copia con nota ≥ 0,55.
+PESO_BET365, PESO_TIPSTER, EXTRA_CONSENSO, NOTA_MIN = 0.40, 0.60, 0.10, 0.55
+PROB_SUELO = 0.33           # ni el mejor tipster: nada que bet365 vea por debajo del 33 %
 
 
 def acierto_tipster(nombre):
+    """Acierto suavizado del tipster: (verdes + 2) / (resueltos + 4). Sin historial, 0,5."""
     a = (leer(DATOS / "tipsters_aprendizaje.json", {}) or {}).get("tipster", {}).get(nombre) or {}
     v, r = a.get("verdes", 0), a.get("rojos", 0)
-    return (v / (v + r)) if v + r >= MIN_RESUELTOS else None
+    return (v + 2) / (v + r + 4)
+
+
+def nota_pick(x, cu, lista):
+    otros = {y["tipster"] for y in lista if mismo_pick(y) == mismo_pick(x) and y["tipster"] != x["tipster"]}
+    prob = (x.get("analisis") or {}).get("prob_cuota") or (1 / float(cu) / 1.05)
+    nota = PESO_BET365 * prob + PESO_TIPSTER * acierto_tipster(x["tipster"]) + (EXTRA_CONSENSO if otros else 0)
+    return round(nota, 3), prob, otros
 
 
 def calidad_no(x, cu, lista):
     """Por qué un pick de un canal NO es bastante bueno para nuestro Telegram (o None)."""
-    otros = {y["tipster"] for y in lista if mismo_pick(y) == mismo_pick(x) and y["tipster"] != x["tipster"]}
-    prob = (x.get("analisis") or {}).get("prob_cuota") or (1 / float(cu) / 1.05)
-    if not x.get("combinada") and prob < PROB_MIN_SUELTO and not otros:
-        return f"poco probable para Telegram ({prob:.0%} según bet365)"
-    ac = acierto_tipster(x["tipster"])
-    if ac is not None and ac < ACIERTO_MIN_TIPSTER and not otros:
-        return f"{x['tipster']} acierta solo el {ac:.0%} y nadie más lo da"
+    nota, prob, otros = nota_pick(x, cu, lista)
+    if prob < PROB_SUELO:
+        return f"demasiado arriesgado ({prob:.0%} según bet365)"
+    if not x.get("combinada") and nota < NOTA_MIN:
+        return (f"nota {nota:.2f} < {NOTA_MIN} (bet365 {prob:.0%}, {x['tipster']} acierta "
+                f"{acierto_tipster(x['tipster']):.0%}{', y lo da otro canal' if otros else ''})")
     try:   # a favor de un equipo que no se juega nada contra uno que sí (que_se_juegan)
         import que_se_juegan
         from combis_dia import lado
