@@ -5758,9 +5758,9 @@
       "1545652|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
-      1.73,
-      1.53,
-      1.83,
+      1.67,
+      1.57,
+      1.95,
       1.67
     ],
     "solo_en": [
@@ -5772,7 +5772,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T18:31"
   },
   {
     "id": "2026-11-16-loca-th-2030-ganaambos",
