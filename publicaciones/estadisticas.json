@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 13:53",
+ "actualizado": "2026-11-16 14:04",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2902,
-   "hoy": 110,
+   "seguidores": 2906,
+   "hoy": 114,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2902
+    2906
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 426,
-   "hoy": 15,
+   "seguidores": 427,
+   "hoy": 16,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    426
+    427
    ]
   }
  },
- "total": 3372,
- "total_hoy": 127,
+ "total": 3377,
+ "total_hoy": 132,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "14:00",
+  "hora": "14:30",
   "dia": "2026-11-16",
-  "titulo": "Combi de tiros · albacete vs celta de "
+  "titulo": "Córners del día"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2902,
+   "threads": 2906,
    "facebook": 1,
-   "telegram": 426
+   "telegram": 427
   }
  },
  "tipos_instagram": {

@@ -2080,14 +2080,14 @@
   },
   "2026-11-16": {
     "dia": "2026-11-16",
-    "total": 16,
+    "total": 17,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 16,
+      "pendiente": 17,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 16
+      "sin_resolver": 17
     },
     "combis": [
       {
@@ -2185,13 +2185,19 @@
         "titulo": "Otro para esta noche, de los que nos gustan mucho 🔥",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-16-loca-th-1400-tiros-b",
+        "titulo": "🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯",
+        "estado": "pendiente",
+        "cuota": 5.95
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 57
+      "total": 62
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ 🔥 COMBI POR 96,60 🔥 · 96,60 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n⏳ 💎 COMBI x440 💎 · pendiente\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🏆 LOS FAVORITOS DEL DÍA 🏆 · pendiente\n⏳ 💶 RETO: DE 1€ A 721€ 💶 · pendiente\n⏳ Vamos con la combi del lunes familia 🔥 · pendiente\n⏳ Otro para esta noche, de los que nos gustan mucho 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 16 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ 🔥 COMBI POR 96,60 🔥 · 96,60 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n⏳ 💎 COMBI x440 💎 · pendiente\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🏆 LOS FAVORITOS DEL DÍA 🏆 · pendiente\n⏳ 💶 RETO: DE 1€ A 721€ 💶 · pendiente\n⏳ Vamos con la combi del lunes familia 🔥 · pendiente\n⏳ Otro para esta noche, de los que nos gustan mucho 🔥 · pendiente\n⏳ 🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯 · 5,95 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 17 sin resolver"
   }
 }
