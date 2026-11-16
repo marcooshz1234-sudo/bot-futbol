@@ -88,7 +88,8 @@ def escudo_club(nombre):
 def fila(pata, partido=None, partido_ok=False):
     """('Gana Suiza (Eslovenia – Suiza)', cuota) → {'nombre': 'Suiza', 'pick': 'GANA', …}."""
     t = re.sub(r"\s*\([^)]*\)\s*", " ", pata).strip()
-    reglas = ((r"^(.+?) gana alguna (?:de las dos )?partes?$", lambda m: "GANA UNA PARTE"),
+    reglas = ((r"^(?:Gana )?(.+?)(?: gana)? por (\d+) o más goles$", lambda m: f"GANA DE {m.group(2)}+"),   # 16/11: hándicap
+              (r"^(.+?) gana alguna (?:de las dos )?partes?$", lambda m: "GANA UNA PARTE"),
               (r"^Gana (?:el |la |los |las )?(.+)$", lambda m: "GANA"),
               (r"^(.+?) gana$", lambda m: "GANA"),
               (r"^(.+?) marca (\d+) o más$", lambda m: f"{m.group(2)}+ GOLES"),
@@ -136,9 +137,15 @@ def fila(pata, partido=None, partido_ok=False):
             return {"nombre": nombre, "pick": pick(m), "pais": pais, "bandera": semana.BANDERAS.get(pais, "⚽"),
                     "seleccion": bool(pais), "escudo": "" if pais else escudo_club(nombre)}
     c = CUOTA.search(pata)
+    # 16/11 (Marcos: «banderas o escudos siempre»): si no se entiende el pick, al menos la bandera del partido
+    eq = con_equipos({"nombre": "Partido"}, partido) if partido and " – " in str(partido) else {}
     corto = t if len(t) <= 40 else t[:39].rstrip() + "…"   # 13/11 (Marcos): el pick tiene que verse en la foto
-    return {"nombre": corto, "pick": f"@{c.group(1)}" if c else "✓", "pais": None, "bandera": "⚽", "seleccion": False,
-            "escudo": ""}
+    r = {"nombre": corto, "pick": f"@{c.group(1)}" if c else "✓", "pais": None, "bandera": "⚽", "seleccion": False,
+         "escudo": ""}
+    for k in ("pais", "bandera", "seleccion", "escudo", "pais2", "escudo2"):
+        if eq.get(k):
+            r[k] = eq[k]
+    return r
 
 
 def condiciones(pata):
@@ -288,7 +295,9 @@ def hacer(p, texto, todos=None):
     Tras MAX_SEGUIDAS posts con foto seguidos, el siguiente sale en texto (mezcla de fotos y texto)."""
     from nombres import espanol   # 15/11: países en español y sin «el» delante
     texto = espanol(texto)
-    if not toca(p) or racha_fotos(todos) >= MAX_SEGUIDAS:
+    # 16/11 (Marcos: «acuérdate de poner las banderas o los escudos siempre»): los picks y las copias, siempre con foto
+    siempre = "-pick-" in p.get("id", "") or p.get("origen") == "tipster"
+    if not toca(p) or (racha_fotos(todos) >= MAX_SEGUIDAS and not siempre):
         return None
     ps = patas(texto)
     if not ps or len(ps) > 8:

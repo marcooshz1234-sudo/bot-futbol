@@ -319,6 +319,17 @@ def main(objetivo=None):
             if t and len(corto) <= LIMITE_PIE_FOTO:
                 foto, texto = t, corto
                 p["foto_tg"] = foto
+        # 16/11 (Marcos: «programalo todo bien»): un pick o una copia NUNCA sale sin su foto de banderas/escudos
+        if not foto and not p.get("sin_tarjeta") and ("-pick-" in p.get("id", "") or p.get("origen") == "tipster"):
+            print(f"Sin foto, no sale: {p['id']}")
+            if not p.get("aviso_sin_foto"):
+                p["aviso_sin_foto"] = True
+                try:
+                    import alineaciones_posts
+                    alineaciones_posts.dm(f"⏸️ {p['id']} no sale: no se pudo hacer su foto con banderas/escudos. Lo mira Claude.")
+                except Exception as e:
+                    print(f"Aviso sin foto: {e}")
+            continue
         try:
             if foto:
                 if len(texto) > LIMITE_PIE_FOTO:
