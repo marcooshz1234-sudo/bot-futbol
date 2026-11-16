@@ -193,13 +193,16 @@ def combi_cuota(partidos, objetivo, semilla, usados):
     """Combi que se acerca a la cuota objetivo con las patas más probables (como mucho 2 por partido, de
     familias distintas), variando cuáles según la semilla para que no salgan siempre las mismas."""
     rnd = int(hashlib.sha1(semilla.encode()).hexdigest(), 16)
-    minimo = {50: 1.40, 100: 1.45, 500: 1.55, 1000: 1.65}.get(objetivo, 1.4)   # cuanto más loca, patas más altas
+    # cuanto más loca, patas más altas (en 500 caracteres caben 6-8 patas: la cuota tiene que salir de ahí)
+    minimo = {50: 1.55, 100: 1.70, 500: 2.10, 1000: 2.40}.get(objetivo, 1.4)
     max_por = 2 if objetivo <= 100 else 3
     cand = []
     for i, pt in enumerate(partidos):
         for j, p in enumerate([p for p in pt["patas"] if p["cuota"] >= minimo][:8]):
+            if usados.get((pt["fid"], p["mercado"], p["opcion"]), 0) >= MAX_USOS:
+                continue
             ruido = ((rnd >> ((i * 7 + j) % 60)) & 7) / 100   # un poco de variedad
-            cand.append((p["prob"] - ruido - (0.05 if (pt["fid"], p["mercado"], p["opcion"]) in usados else 0), pt, p))
+            cand.append((p["prob"] - ruido - 0.04 * usados.get((pt["fid"], p["mercado"], p["opcion"]), 0), pt, p))
     cand.sort(key=lambda x: -x[0])
     sel, por_partido, fams, cuota = [], {}, {}, 1.0
     for _, pt, p in cand:
@@ -218,7 +221,30 @@ def combi_cuota(partidos, objetivo, semilla, usados):
     if cuota < objetivo * 0.6:
         return None
     misma = any(v > 1 for v in por_partido.values())
-    return sel, round(cuota, 2), misma
+    return sel, cuota_bet(sel), misma
+
+
+MAX_CARACTERES = 490   # Threads no deja más de 500
+MAX_USOS = 2           # un mismo pick, como mucho en 2 posts del día (norma de Marcos)
+
+
+def cuota_bet(sel):
+    """Cuota como saldría en bet365: entre partidos se multiplica; dentro de un partido, el recorte del «Crear
+    apuesta» (combis_dia.cuota_real_sel, la misma cuenta con la que avisos.py revisa las cuotas)."""
+    import combis_dia as C
+    r = C.cuota_real_sel([f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel], [p["cuota"] for _, p in sel])
+    return r or round(math.prod(p["cuota"] for _, p in sel), 2)
+
+
+def libre(fid, mercado, opcion, usados):
+    return usados.get((fid, mercado, str(opcion)), 0) < MAX_USOS
+
+
+def _abreviar(t):
+    for a, b in ((" gana alguna de las dos partes", " gana una parte"), (" hace más córners", " más córners"),
+                 (" hace más de ", " más de "), ("Más de ", "+"), (" goles", " goles"), (" marca 2 o más", " marca 2+")):
+        t = t.replace(a, b)
+    return t
 
 
 # familias que no van juntas en el mismo partido (las normas del 31/10 y 02/11 de comprobar_post)
@@ -234,27 +260,37 @@ def texto_combi(objetivo, sel, cuota, misma, semilla):
     rnd = int(hashlib.sha1(semilla.encode()).hexdigest(), 16)
     t = TITULOS[objetivo][rnd % 2].format(c=coma(cuota))
     lineas = [t, ""]
-    actual = None
+    por = {}
     for pt, p in sorted(sel, key=lambda x: (x[0]["ini"], x[0]["fid"])):
-        if pt["fid"] != actual:
-            if actual is not None:
-                lineas.append("")
-            lineas.append(f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}")
-            actual = pt["fid"]
-        lineas.append(_linea(pt, p))
-    lineas += ["", f"🎯 CUOTA {coma(cuota)}{' aprox.' if misma else ''} 💎 · 10€ → {coma(cuota * 10)}€", "",
+        por.setdefault(pt["fid"], (pt, []))[1].append(p)
+    for pt, ps in por.values():
+        lineas.append(f"{_bandera(pt['local_en'])} {pt['local']}–{pt['visitante']} {pt['ini'].strftime('%H:%M')}")
+        lineas.append(" · ".join(_abreviar(_linea(pt, p)) for p in ps))
+    lineas += ["", f"🎯 CUOTA {coma(cuota)}{' aprox.' if misma else ''} 💎 10€ → {coma(cuota * 10)}€",
                CIERRES[rnd % len(CIERRES)]]
     return "\n".join(lineas)
+
+
+def combi_que_quepa(objetivo, sel, semilla):
+    """(sel, cuota, texto) que no pase de 500 caracteres: si no cabe, fuera la pata más baja y se recalcula."""
+    sel = list(sel)
+    while True:
+        cuota = cuota_bet(sel)
+        misma = len({pt["fid"] for pt, _ in sel}) < len(sel)
+        texto = texto_combi(objetivo, sel, cuota, misma, semilla)
+        if len(texto) <= MAX_CARACTERES or len(sel) <= 3:
+            return sel, cuota, texto
+        sel.remove(min(sel, key=lambda x: x[1]["cuota"]))
 
 
 def tiros_partido(partidos, semilla, usados):
     """Combi de solo tiros/faltas de jugadores de un partido (3-5 jugadores habituales)."""
     for pt in sorted(partidos, key=lambda pt: -sum(1 for p in pt["patas"] if p["familia"] == "jugador")):
-        js = [p for p in pt["patas"] if p["familia"] == "jugador" and (pt["fid"], p["mercado"], p["opcion"]) not in usados]
+        js = [p for p in pt["patas"] if p["familia"] == "jugador" and libre(pt["fid"], p["mercado"], p["opcion"], usados)]
         if len(js) < 3:
             continue
         js = js[:5]
-        cuota = round(math.prod(p["cuota"] for p in js) * 0.92, 2)   # mismo partido: aprox. (bet365 la baja algo)
+        cuota = cuota_bet([(pt, p) for p in js])
         lineas = [f"🎯 COMBI DE TIROS · {pt['local'].upper()} vs {pt['visitante'].upper()} 🎯", "",
                   f"⭐ {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}"]
         lineas += [_linea(pt, p) for p in js]
@@ -272,17 +308,22 @@ LISTAS = (("ambos", "⚽ AMBOS MARCAN HOY ⚽", ("Both Teams Score",)),
 def lista(partidos, clave, titulo, mercados, usados):
     filas = []
     for pt in partidos:
-        p = next((p for p in pt["patas"] if p["mercado"] in mercados and p["prob"] >= 0.5), None)
+        p = next((p for p in pt["patas"] if p["mercado"] in mercados and p["prob"] >= 0.5
+                  and libre(pt["fid"], p["mercado"], p["opcion"], usados)), None)
         if p:
             filas.append((pt, p))
     if len(filas) < 3:
         return None
     filas = filas[:10]
-    lineas = [titulo, ""]
-    for i, (pt, p) in enumerate(filas, 1):
-        lineas.append(f"{i}. {_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ {_corto(pt, p)} @{coma(p['cuota'])}")
-    lineas += ["", "👇 ¿Con cuál os quedáis? 👇"]
-    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    while True:
+        lineas = [titulo, ""]
+        for i, (pt, p) in enumerate(filas, 1):
+            lineas.append(f"{i}. {_bandera(pt['local_en'])} {pt['local']}–{pt['visitante']} ➜ {_abreviar(_corto(pt, p))} @{coma(p['cuota'])}")
+        lineas += ["", "👇 ¿Con cuál os quedáis? 👇"]
+        if len("\n".join(lineas)) <= MAX_CARACTERES or len(filas) <= 3:
+            break
+        filas = filas[:-1]
+    cuota = cuota_bet(filas)
     return filas, cuota, "\n".join(lineas)
 
 
@@ -321,7 +362,7 @@ def gana_y_ambos(partidos, semilla, usados):
             continue
         lado = "Home" if mw["Home"] <= mw["Away"] else "Away"
         c = _cuota_de(cu, "Results/Both Teams Score", f"{lado}/Yes")
-        if not c or not (MIN_PATA <= c <= 6.0):
+        if not c or not (MIN_PATA <= c <= 6.0) or not libre(pt["fid"], "Results/Both Teams Score", f"{lado}/Yes", usados):
             continue
         if C.gana_sin_motivo(ex, {"mercado": "Match Winner", "opcion": lado}):
             continue
@@ -330,7 +371,7 @@ def gana_y_ambos(partidos, semilla, usados):
     filas = sorted(sorted(filas, key=lambda x: x[1]["cuota"])[:4], key=lambda x: x[0]["ini"])
     if len(filas) < 3:
         return None
-    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    cuota = cuota_bet(filas)
     lineas = ["⚽🏆 GANA Y AMBOS MARCAN 🏆⚽", ""]
     for pt, p in filas:
         lineas.append(f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}")
@@ -353,7 +394,7 @@ def duelo_tiros(partidos, semilla, usados):
                     n, c = int(float(n)), float(c)
                 except (TypeError, ValueError):
                     continue
-                if n >= 2 and MIN_PATA <= c <= 3.0 and (pt["fid"], mercado, str(o)) not in usados:
+                if n >= 2 and MIN_PATA <= c <= 3.0 and libre(pt["fid"], mercado, str(o), usados):
                     if not mejor or c < mejor[1]:
                         mejor = (str(o), c, nombre.strip(), n)
             if mejor:
@@ -361,7 +402,7 @@ def duelo_tiros(partidos, semilla, usados):
         if len(lados) < 2:
             continue
         sel = [(pt, _pata(pt, m, o, c, f"{nom}: {n}+ tiros", "jugador")) for m, (o, c, nom, n) in lados]
-        cuota = round(math.prod(p["cuota"] for _, p in sel) * 0.95, 2)
+        cuota = cuota_bet(sel)
         lineas = ["⚔️ EL DUELO DE TIROS ⚔️", "", f"⭐ {pt['local']} vs {pt['visitante']} · {pt['ini'].strftime('%H:%M')}", ""]
         lineas += [f"🎯 {p['texto']} ({eq})" for (_, p), eq in zip(sel, (pt["local"], pt["visitante"]))]
         lineas += ["", f"🎯 CUOTA {coma(cuota)} aprox. 💎 · 10€ → {coma(cuota * 10)}€", "", "👇 ¿Quién dispara más? 👇"]
@@ -374,12 +415,12 @@ def empates(partidos, semilla, usados):
     filas = []
     for pt in partidos:
         c = _cuota_de(_ex(pt["fid"]).get("cuotas") or {}, "Match Winner", "Draw")
-        if c and MIN_PATA <= c <= 4.2:
+        if c and MIN_PATA <= c <= 4.2 and libre(pt["fid"], "Match Winner", "Draw", usados):
             filas.append((pt, _pata(pt, "Match Winner", "Draw", c, "Empate", "empate")))
     filas = sorted(sorted(filas, key=lambda x: x[1]["cuota"])[:3], key=lambda x: x[0]["ini"])
     if len(filas) < 3:
         return None
-    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    cuota = cuota_bet(filas)
     lineas = ["🤝 LA COMBI DE LOS EMPATES 🤝", ""]
     lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')} ➜ 🤝 Empate @{coma(p['cuota'])}"
                for pt, p in filas]
@@ -396,12 +437,12 @@ def misma_hora(partidos, semilla, usados):
         return None
     sel = []
     for pt in [pt for pt in partidos if pt["ini"] == hora]:
-        p = next((p for p in pt["patas"] if (pt["fid"], p["mercado"], p["opcion"]) not in usados), None)
+        p = next((p for p in pt["patas"] if libre(pt["fid"], p["mercado"], p["opcion"], usados)), None)
         if p:
             sel.append((pt, p))
     if len(sel) < 3:
         return None
-    cuota = round(math.prod(p["cuota"] for _, p in sel), 2)
+    cuota = cuota_bet(sel)
     lineas = [f"⏰ TODO A LAS {hora.strftime('%H:%M')} ⏰", ""]
     lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ {_linea(pt, p)}" for pt, p in sel]
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "⏳ Todo se decide a la vez 🔥"]
@@ -422,13 +463,13 @@ def tapados(partidos, semilla, usados):
         import combis_dia as C
         if C.gana_sin_motivo({"partido": _ex(pt["fid"]).get("partido")}, {"mercado": "Double Chance", "opcion": op}):
             continue   # el «tapado» no se juega nada y el favorito sí: no
-        if c and 1.6 <= c <= 3.2:
+        if c and 1.6 <= c <= 3.2 and libre(pt["fid"], "Double Chance", op, usados):
             eq = pt["visitante"] if debil == "Away" else pt["local"]
             filas.append((pt, _pata(pt, "Double Chance", op, c, f"{eq} o empate", "doble")))
     filas = sorted(sorted(filas, key=lambda x: x[1]["cuota"])[:4], key=lambda x: x[0]["ini"])
     if len(filas) < 3:
         return None
-    cuota = round(math.prod(p["cuota"] for _, p in filas), 2)
+    cuota = cuota_bet(filas)
     lineas = ["🐶 LA DE LOS TAPADOS 🐶", "", "Hoy vamos con los que nadie ve 👀", ""]
     lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ 🛡️ {p['texto']} @{coma(p['cuota'])}" for pt, p in filas]
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "🤫 Si sale esta, nos retiramos 🤫"]
@@ -440,10 +481,11 @@ def reto_euro(partidos, semilla, usados):
     r = combi_cuota(partidos, 1000, semilla + "reto", usados)
     if not r:
         return None
-    sel, cuota, misma = r
-    t = texto_combi(1000, sel, cuota, misma, semilla).split("\n")
+    sel, cuota, t = combi_que_quepa(1000, r[0], semilla)
+    misma = len({pt["fid"] for pt, _ in sel}) < len(sel)
+    t = t.split("\n")
     t[0] = f"💶 RETO: DE 1€ A {coma(cuota)}€ 💶"
-    t = [l if not l.startswith("🎯 CUOTA") else f"🎯 CUOTA {coma(cuota)}{' aprox.' if misma else ''} 💎 · 1€ → {coma(cuota)}€" for l in t]
+    t = [l if not l.startswith("🎯 CUOTA") else f"🎯 CUOTA {coma(cuota)}{' aprox.' if misma else ''} 💎 1€ → {coma(cuota)}€" for l in t]
     return sel, cuota, "\n".join(t)
 
 
@@ -456,13 +498,13 @@ ROTACION = ("x100", "ganaambos", "lista", "duelo", "x50", "hora", "tapados", "x5
             "x1000", "lista")
 
 
-def plan(dia, desde=None, ya_horas=()):
+def plan(dia, desde=None, ya_horas=(), usados_previos=None):
     """[(hora, tipo, texto, sel)] del día. ya_horas: horas que ya tienen post en Threads (no se pisan)."""
     from bot import MADRID
     desde = desde or datetime.now(MADRID)
     todos = partidos_del_dia(dia)
-    out, usados, i_lista, n = [], set(), 0, 0
-    veces, ultimo = {}, None
+    out, usados, i_lista, n = [], dict(usados_previos or {}), 0, 0
+    veces, ultimo, firmas = {}, None, set()
     for h in huecos(dia, desde):
         if any(abs((h - y).total_seconds()) < 15 * 60 for y in ya_horas):
             continue
@@ -482,8 +524,8 @@ def plan(dia, desde=None, ya_horas=()):
             elif tipo.startswith("x"):
                 r = combi_cuota(vivos, int(tipo[1:]), semilla, usados)
                 if r:
-                    sel, cuota, misma = r
-                    hecho = (tipo, texto_combi(int(tipo[1:]), sel, cuota, misma, semilla), sel)
+                    sel, cuota, texto = combi_que_quepa(int(tipo[1:]), r[0], semilla)
+                    hecho = (tipo, texto, sel)
             else:
                 for j in range(len(LISTAS)):
                     clave, titulo, mercados = LISTAS[(i_lista + j) % len(LISTAS)]
@@ -512,7 +554,19 @@ def plan(dia, desde=None, ya_horas=()):
         if motivo:
             print("No sale", h.strftime("%H:%M"), tipo, "→", motivo)
             continue
-        usados |= {(pt["fid"], p["mercado"], p["opcion"]) for pt, p in sel}
+        if len(texto) > 500:
+            print("No sale", h.strftime("%H:%M"), tipo, "→ más de 500 caracteres")
+            continue
+        firma = frozenset((pt["fid"], p["mercado"], p["opcion"]) for pt, p in sel)
+        if firma in firmas:
+            continue   # el mismo post otra vez, no
+        firmas.add(firma)
+        if any(usados.get((pt["fid"], p["mercado"], p["opcion"]), 0) >= MAX_USOS for pt, p in sel):
+            print("No sale", h.strftime("%H:%M"), tipo, "→ un pick ya va en 2 posts")
+            continue
+        for pt, p in sel:
+            k = (pt["fid"], p["mercado"], p["opcion"])
+            usados[k] = usados.get(k, 0) + 1
         veces[base_tipo] = veces.get(base_tipo, 0) + 1
         ultimo = base_tipo
         out.append((h, tipo, texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel],
@@ -531,13 +585,28 @@ def posts(dia, desde=None, sin_locas=False):
                     and not re.search(r"verde|rojo|balance|resumen", p["id"]):
                 from bot import MADRID
                 ya.append(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID))
+    previos = {}
+    for f in ("auto.json", "cola.json"):
+        for p in leer(PUB / f, []) or []:
+            if p["id"].startswith(dia) and "-loca-th-" not in p["id"] and not p.get("verde_de") \
+                    and not re.search(r"verde|rojo|balance|resumen|ganadores", p["id"]):
+                for s_ in set(p.get("sel") or []):
+                    f_, m_, o_ = (str(s_).split("|") + ["", ""])[:3]
+                    if f_.isdigit():
+                        previos[(int(f_), m_, o_)] = previos.get((int(f_), m_, o_), 0) + 1
     salida = []
-    for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(dia, desde, ya)):
+    for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(dia, desde, ya, previos)):
         salida.append({"id": f"{dia}-loca-th-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "sel": sel, "cuotas": cuotas, "solo_en": ["threads"], "origen": "threads_locas",
+                       "cuota_bet365": cuota_txt(texto),
                        "sin_foto": True, "sin_porque": True, "fijo": True, "directo": True,
                        "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1})
     return salida
+
+
+def cuota_txt(texto):
+    m = re.search(r"CUOTA ([\d.]+(?:,\d+)?)", texto)
+    return float(m.group(1).replace(".", "").replace(",", ".")) if m else None
 
 
 def guardar(ps):

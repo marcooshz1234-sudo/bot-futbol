@@ -6293,37 +6293,34 @@
     "texto": "Pick que nos gusta mucho para hoy 👀\n\n⚽ Grecia – Serbia · 20:45\n\n🇬🇷 Grecia marca 2 o más @1,50\n\n🧠 Por qué:\n• Serbia ya es última del grupo y no se juega nada.\n• Serbia ha encajado 11 goles en 5 partidos y ha perdido los 5.\n• Grecia juega en casa y aún puede acabar en los cuartos."
   },
   {
-    "id": "2026-11-16-loca-th-0300-x100",
-    "fecha": "2026-11-16T03:00",
-    "texto": "💯 LA CENTENARIA x87,32 💯\n\n🇰🇿 Kazajistán – Eslovaquia · 16:00\n⚽ Kazajistán marca\n🚩 Eslovaquia hace más córners\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Liechtenstein hace más de 1,5 córners\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n⚽ Albacete marca 2 o más\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n🚩 Alemania hace más córners\n\n🇬🇷 Grecia – Serbia · 20:45\n⚽ Grecia marca 2 o más\n\n🇬🇮 Gibraltar – Malta · 20:45\n🏆 Gana Malta\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🏆 Gana Eslovenia\n\n🎯 CUOTA 87,32 aprox. 💎 · 10€ → 873€\n\n👇 ¿Cuál quitaríais? 👇",
+    "id": "2026-11-16-loca-th-0400-x100",
+    "fecha": "2026-11-16T04:00",
+    "texto": "🔥 COMBI POR 98,07 🔥\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 +10 córners · 🏆 Gana Eslovaquia\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 +8,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 +8 córners\n🇮🇸 Islandia–Luxemburgo 18:00\n🚩 +8,5 córners\n🇪🇸 Albacete–Celta de Vigo II 20:30\n🚩 Albacete más de 5,5 córners\n🇨🇭 Suiza–Escocia 20:45\n🎯 Dan Ndoye: 3+ tiros · 🚩 Suiza más de 5,5 córners\n\n🎯 CUOTA 98,07 aprox. 💎 10€ → 981€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
     "sel": [
       "1545652|Home Player Shots|Dan Ndoye - 3",
-      "1528990|Away Player Shots|Denzel Dumfries - 1",
-      "1528991|Total - Home|Over 1.5",
-      "1545618|Match Winner|Away",
-      "1528989|Away Corners Over/Under|Over 1.5",
-      "1545662|Match Winner|Away",
-      "1528986|Total - Home|Over 0.5",
-      "1528990|Corners 1x2|Home",
-      "1528986|Corners 1x2|Away",
-      "1570014|Total - Home|Over 1.5"
+      "1528989|Corners Over Under|Over 8",
+      "1570014|Home Corners Over/Under|Over 5.5",
+      "1545617|Corners Over Under|Over 8.5",
+      "1528988|Corners Over Under|Over 8.5",
+      "1528986|Corners Over Under|Over 10",
+      "1528986|Match Winner|Away",
+      "1545652|Home Corners Over/Under|Over 5.5"
     ],
     "cuotas": [
       1.83,
-      1.53,
-      1.5,
-      1.5,
-      1.57,
-      1.53,
-      1.53,
-      1.53,
-      1.57,
-      1.57
+      1.78,
+      1.73,
+      1.82,
+      1.73,
+      1.88,
+      1.85,
+      1.83
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 98.07,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6331,8 +6328,8 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-0400-ganaambos",
-    "fecha": "2026-11-16T04:00",
+    "id": "2026-11-16-loca-th-0500-ganaambos",
+    "fecha": "2026-11-16T05:00",
     "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n✅ Gana Islandia y ambos marcan\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n✅ Gana Albacete y ambos marcan\n\n🇩🇪 Alemania – Países Bajos · 20:45\n✅ Gana Alemania y ambos marcan\n\n🇬🇷 Grecia – Serbia · 20:45\n✅ Gana Grecia y ambos marcan\n\n🎯 CUOTA 94,10 💎 · 10€ → 941€\n\n🔥 Goles y victoria: así nos gusta 🔥",
     "sel": [
       "1545617|Results/Both Teams Score|Home/Yes",
@@ -6350,6 +6347,7 @@
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 94.1,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6357,23 +6355,32 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-0500-lista-ambos",
-    "fecha": "2026-11-16T05:00",
-    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇪🇸 Albacete – Celta de Vigo II ➜ Ambos marcan @1,62\n2. 🇬🇷 Grecia – Serbia ➜ Ambos marcan @1,83\n3. 🇩🇪 Alemania – Países Bajos ➜ Ambos marcan @1,40\n\n👇 ¿Con cuál os quedáis? 👇",
+    "id": "2026-11-16-loca-th-0600-lista-corners",
+    "fecha": "2026-11-16T06:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇫🇴 Islas Feroe–Moldavia ➜ Islas Feroe más de 5,5 córners @1,83\n2. 🇰🇿 Kazajistán–Eslovaquia ➜ Eslovaquia más córners @1,57\n3. 🇪🇪 Estonia–Bulgaria ➜ Estonia más córners @1,67\n4. 🇱🇹 Lituania–Liechtenstein ➜ Liechtenstein más de 1,5 córners @1,57\n5. 🇮🇸 Islandia–Luxemburgo ➜ +8,5 córners @1,82\n6. 🇪🇸 Albacete–Celta de Vigo II ➜ Albacete más córners @1,40\n7. 🇬🇷 Grecia–Serbia ➜ Grecia más de 5,5 córners @1,80\n\n👇 ¿Con cuál os quedáis? 👇",
     "sel": [
-      "1570014|Both Teams Score|Yes",
-      "1528991|Both Teams Score|Yes",
-      "1528990|Both Teams Score|Yes"
+      "1528987|Home Corners Over/Under|Over 5.5",
+      "1528986|Corners 1x2|Away",
+      "1528988|Corners 1x2|Home",
+      "1528989|Away Corners Over/Under|Over 1.5",
+      "1545617|Corners Over Under|Over 8.5",
+      "1570014|Corners 1x2|Home",
+      "1528991|Home Corners Over/Under|Over 5.5"
     ],
     "cuotas": [
-      1.62,
       1.83,
-      1.4
+      1.57,
+      1.67,
+      1.57,
+      1.82,
+      1.4,
+      1.8
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": null,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6381,9 +6388,9 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-0600-duelo",
-    "fecha": "2026-11-16T06:00",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Albacete vs Celta de Vigo II · 20:30\n\n🎯 Diego Rodriguez: 2+ tiros (Albacete)\n🎯 Angel Arcos: 2+ tiros (Celta de Vigo II)\n\n🎯 CUOTA 1,99 aprox. 💎 · 10€ → 19,90€\n\n👇 ¿Quién dispara más? 👇",
+    "id": "2026-11-16-loca-th-0700-duelo",
+    "fecha": "2026-11-16T07:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Albacete vs Celta de Vigo II · 20:30\n\n🎯 Diego Rodriguez: 2+ tiros (Albacete)\n🎯 Angel Arcos: 2+ tiros (Celta de Vigo II)\n\n🎯 CUOTA 2,13 aprox. 💎 · 10€ → 21,30€\n\n👇 ¿Quién dispara más? 👇",
     "sel": [
       "1570014|Home Player Shots|Diego Rodriguez - 2",
       "1570014|Away Player Shots|Angel Arcos - 2"
@@ -6396,6 +6403,7 @@
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 2.13,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6403,39 +6411,34 @@
     "enlace_telegram": true
   },
   {
-    "id": "2026-11-16-loca-th-0700-x50",
-    "fecha": "2026-11-16T07:00",
-    "texto": "💸 LA DE x59,32 💸\n\n🇰🇿 Kazajistán – Eslovaquia · 16:00\n🏆 Eslovaquia gana alguna de las dos partes\n\n🇫🇴 Islas Feroe – Moldavia · 16:00\n🏆 Islas Feroe gana alguna de las dos partes\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n⚽ Islandia marca 2 o más\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n⚽ Celta de Vigo II marca\n🚩 Albacete hace más córners\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n🏆 Alemania gana alguna de las dos partes\n\n🇬🇷 Grecia – Serbia · 20:45\n🏆 Gana Grecia\n\n🇬🇮 Gibraltar – Malta · 20:45\n🚩 Malta hace más córners\n🏆 Gana Malta\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Remo Freuler: 1+ tiros\n\n🎯 CUOTA 59,32 aprox. 💎 · 10€ → 593€\n\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "id": "2026-11-16-loca-th-0800-x50",
+    "fecha": "2026-11-16T08:00",
+    "texto": "🤑 COMBI x66,48 🤑\n\n🇫🇴 Islas Feroe–Moldavia 16:00\n⚽ Moldavia marca\n🇪🇪 Estonia–Bulgaria 18:00\n🏆 Estonia gana una parte · 🚩 Bulgaria más de 3,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 Liechtenstein más de 1,5 córners\n🇪🇸 Albacete–Celta de Vigo II 20:30\n⚽ Ambos marcan · 🚩 +9,5 córners\n🇨🇭 Suiza–Escocia 20:45\n🎯 Dan Ndoye: 3+ tiros\n🇲🇰 Macedonia del Norte–Eslovenia 20:45\n🚩 Macedonia del Norte más de 2,5 córners\n\n🎯 CUOTA 66,48 aprox. 💎 10€ → 665€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
     "sel": [
-      "1545652|Home Player Shots|Remo Freuler - 1",
-      "1570014|Total - Away|Over 0.5",
-      "1528987|To Win Either Half|Home",
-      "1528990|Away Player Shots|Denzel Dumfries - 1",
-      "1545617|Total - Home|Over 1.5",
-      "1528990|To Win Either Half|Home",
-      "1570014|Corners 1x2|Home",
-      "1528991|Match Winner|Home",
-      "1528986|To Win Either Half|Away",
-      "1545618|Corners 1x2|Away",
-      "1545618|Match Winner|Away"
+      "1545652|Home Player Shots|Dan Ndoye - 3",
+      "1528988|To Win Either Half|Home",
+      "1570014|Both Teams Score|Yes",
+      "1528988|Away Corners Over/Under|Over 3.5",
+      "1545662|Home Corners Over/Under|Over 2.5",
+      "1570014|Corners Over Under|Over 9.5",
+      "1528989|Away Corners Over/Under|Over 1.5",
+      "1528987|Total - Away|Over 0.5"
     ],
     "cuotas": [
-      1.44,
-      1.44,
-      1.44,
-      1.53,
-      1.4,
-      1.44,
-      1.4,
-      1.42,
-      1.5,
-      1.44,
-      1.5
+      1.83,
+      1.62,
+      1.62,
+      1.73,
+      1.73,
+      1.8,
+      1.57,
+      1.73
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 66.48,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6443,27 +6446,28 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-0800-hora",
-    "fecha": "2026-11-16T08:00",
-    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇬🇷 Grecia – Serbia ➜ ⚽ Serbia marca\n🇬🇮 Gibraltar – Malta ➜ 🚩 Más de 8,5 córners\n🇩🇪 Alemania – Países Bajos ➜ ⚽ Alemania marca 2 o más\n🇲🇰 Macedonia del Norte – Eslovenia ➜ 🚩 Macedonia del Norte hace más de 2,5 córners\n🇨🇭 Suiza – Escocia ➜ 🦵 Lewis Ferguson comete 2+ faltas\n\n🎯 CUOTA 11,65 💎 · 10€ → 116€\n\n⏳ Todo se decide a la vez 🔥",
+    "id": "2026-11-16-loca-th-0900-hora",
+    "fecha": "2026-11-16T09:00",
+    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇬🇷 Grecia – Serbia ➜ ⚽ Grecia marca 2 o más\n🇬🇮 Gibraltar – Malta ➜ 🚩 Malta hace más córners\n🇩🇪 Alemania – Países Bajos ➜ 🎯 Denzel Dumfries: 1+ tiros\n🇲🇰 Macedonia del Norte – Eslovenia ➜ 🏆 Gana Eslovenia\n🇨🇭 Suiza – Escocia ➜ 🦵 Lewis Ferguson comete 2+ faltas\n\n🎯 CUOTA 7,28 💎 · 10€ → 72,80€\n\n⏳ Todo se decide a la vez 🔥",
     "sel": [
-      "1528991|Total - Away|Over 0.5",
-      "1545618|Corners Over Under|Over 8.5",
-      "1528990|Total - Home|Over 1.5",
-      "1545662|Home Corners Over/Under|Over 2.5",
+      "1528991|Total - Home|Over 1.5",
+      "1545618|Corners 1x2|Away",
+      "1528990|Away Player Shots|Denzel Dumfries - 1",
+      "1545662|Match Winner|Away",
       "1545652|Player Fouls Committed|Lewis Ferguson - 2"
     ],
     "cuotas": [
-      1.67,
-      1.83,
+      1.5,
+      1.44,
       1.53,
-      1.73,
+      1.53,
       1.44
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 7.28,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6471,8 +6475,8 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-0900-tapados",
-    "fecha": "2026-11-16T09:00",
+    "id": "2026-11-16-loca-th-0930-tapados",
+    "fecha": "2026-11-16T09:30",
     "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇰🇿 Kazajistán – Eslovaquia ➜ 🛡️ Kazajistán o empate @1,83\n🇫🇴 Islas Feroe – Moldavia ➜ 🛡️ Moldavia o empate @2,00\n🇪🇸 Albacete – Celta de Vigo II ➜ 🛡️ Celta de Vigo II o empate @2,25\n🇨🇭 Suiza – Escocia ➜ 🛡️ Escocia o empate @2,10\n\n🎯 CUOTA 17,29 💎 · 10€ → 173€\n\n🤫 Si sale esta, nos retiramos 🤫",
     "sel": [
       "1528986|Double Chance|Home/Draw",
@@ -6490,6 +6494,7 @@
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 17.29,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6497,41 +6502,34 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-0930-x500",
-    "fecha": "2026-11-16T09:30",
-    "texto": "💎 COMBI x709 💎\n\n🇰🇿 Kazajistán – Eslovaquia · 16:00\n🚩 Más de 10 córners\n🏆 Gana Eslovaquia\n\n🇪🇪 Estonia – Bulgaria · 18:00\n⚽ Bulgaria marca\n🚩 Más de 8,5 córners\n🏆 Estonia gana alguna de las dos partes\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Más de 8 córners\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n🚩 Más de 8,5 córners\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n🏆 Gana el Albacete\n⚽ Albacete marca 2 o más\n🚩 Albacete hace más de 5,5 córners\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n🚩 Más de 8,5 córners\n\n🎯 CUOTA 709 aprox. 💎 · 10€ → 7.091€\n\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "id": "2026-11-16-loca-th-1000-x500",
+    "fecha": "2026-11-16T10:00",
+    "texto": "💎 COMBI x472 💎\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 +10,5 córners\n🇮🇸 Islandia–Luxemburgo 18:00\n🚩 Luxemburgo más de 2,5 córners · ⚽ Ambos marcan\n🇬🇮 Gibraltar–Malta 20:45\n🚩 Gibraltar más de 3,5 córners · ⚽ Gibraltar marca\n🇨🇭 Suiza–Escocia 20:45\n🚩 Escocia más de 3,5 córners · 🛡️ Escocia o empate\n🇲🇰 Macedonia del Norte–Eslovenia 20:45\n🚩 Macedonia del Norte más de 3,5 córners\n\n🎯 CUOTA 472 aprox. 💎 10€ → 4.718€\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
     "sel": [
-      "1545652|Home Player Shots|Dan Ndoye - 3",
-      "1570014|Match Winner|Home",
-      "1528988|Total - Away|Over 0.5",
-      "1528989|Corners Over Under|Over 8",
-      "1570014|Total - Home|Over 1.5",
-      "1545652|Corners Over Under|Over 8.5",
-      "1528988|Corners Over Under|Over 8.5",
-      "1570014|Home Corners Over/Under|Over 5.5",
-      "1528988|To Win Either Half|Home",
-      "1545617|Corners Over Under|Over 8.5",
-      "1528986|Corners Over Under|Over 10",
-      "1528986|Match Winner|Away"
+      "1528986|Corners Over Under|Over 10.5",
+      "1545662|Home Corners Over/Under|Over 3.5",
+      "1545617|Away Corners Over/Under|Over 2.5",
+      "1545652|Away Corners Over/Under|Over 3.5",
+      "1545617|Both Teams Score|Yes",
+      "1545652|Double Chance|Draw/Away",
+      "1545618|Home Corners Over/Under|Over 3.5",
+      "1545618|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.83,
-      1.62,
-      1.67,
-      1.78,
-      1.57,
-      1.67,
-      1.73,
-      1.73,
-      1.62,
-      1.82,
-      1.88,
-      1.85
+      2.1,
+      2.1,
+      2.1,
+      2.2,
+      2.25,
+      2.1,
+      2.25,
+      2.2
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 472.0,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6539,37 +6537,26 @@
     "enlace_telegram": true
   },
   {
-    "id": "2026-11-16-loca-th-1000-lista-corners",
-    "fecha": "2026-11-16T10:00",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇫🇴 Islas Feroe – Moldavia ➜ Islas Feroe hace más de 5,5 córners @1,83\n2. 🇰🇿 Kazajistán – Eslovaquia ➜ Eslovaquia hace más córners @1,57\n3. 🇪🇪 Estonia – Bulgaria ➜ Estonia hace más córners @1,67\n4. 🇱🇹 Lituania – Liechtenstein ➜ Liechtenstein hace más de 1,5 córners @1,57\n5. 🇮🇸 Islandia – Luxemburgo ➜ Más de 8,5 córners @1,82\n6. 🇪🇸 Albacete – Celta de Vigo II ➜ Albacete hace más córners @1,40\n7. 🇬🇷 Grecia – Serbia ➜ Grecia hace más de 5,5 córners @1,80\n8. 🇬🇮 Gibraltar – Malta ➜ Malta hace más córners @1,44\n9. 🇩🇪 Alemania – Países Bajos ➜ Alemania hace más córners @1,53\n10. 🇲🇰 Macedonia del Norte – Eslovenia ➜ Macedonia del Norte hace más de 2,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "id": "2026-11-16-loca-th-1130-lista-gana",
+    "fecha": "2026-11-16T11:30",
+    "texto": "🏆 LOS FAVORITOS DEL DÍA 🏆\n\n1. 🇫🇴 Islas Feroe–Moldavia ➜ Gana Islas Feroe @1,80\n2. 🇰🇿 Kazajistán–Eslovaquia ➜ Gana Eslovaquia @1,85\n3. 🇪🇸 Albacete–Celta de Vigo II ➜ Gana el Albacete @1,62\n4. 🇩🇪 Alemania–Países Bajos ➜ Gana Alemania @1,85\n\n👇 ¿Con cuál os quedáis? 👇",
     "sel": [
-      "1528987|Home Corners Over/Under|Over 5.5",
-      "1528986|Corners 1x2|Away",
-      "1528988|Corners 1x2|Home",
-      "1528989|Away Corners Over/Under|Over 1.5",
-      "1545617|Corners Over Under|Over 8.5",
-      "1570014|Corners 1x2|Home",
-      "1528991|Home Corners Over/Under|Over 5.5",
-      "1545618|Corners 1x2|Away",
-      "1528990|Corners 1x2|Home",
-      "1545662|Home Corners Over/Under|Over 2.5"
+      "1528987|Match Winner|Home",
+      "1528986|Match Winner|Away",
+      "1570014|Match Winner|Home",
+      "1528990|Match Winner|Home"
     ],
     "cuotas": [
-      1.83,
-      1.57,
-      1.67,
-      1.57,
-      1.82,
-      1.4,
       1.8,
-      1.44,
-      1.53,
-      1.73
+      1.85,
+      1.62,
+      1.85
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": null,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6577,8 +6564,8 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-1130-empates",
-    "fecha": "2026-11-16T11:30",
+    "id": "2026-11-16-loca-th-1200-empates",
+    "fecha": "2026-11-16T12:00",
     "texto": "🤝 LA COMBI DE LOS EMPATES 🤝\n\n🇫🇴 Islas Feroe – Moldavia · 16:00 ➜ 🤝 Empate @3,50\n🇰🇿 Kazajistán – Eslovaquia · 16:00 ➜ 🤝 Empate @3,60\n🇪🇪 Estonia – Bulgaria · 18:00 ➜ 🤝 Empate @3,25\n\n🎯 CUOTA 40,95 💎 · 10€ → 410€\n\n😮‍💨 Para valientes 😮‍💨",
     "sel": [
       "1528987|Match Winner|Draw",
@@ -6594,6 +6581,7 @@
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 40.95,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6601,99 +6589,32 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-1200-ganaambos",
-    "fecha": "2026-11-16T12:00",
-    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n✅ Gana Islandia y ambos marcan\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n✅ Gana Albacete y ambos marcan\n\n🇩🇪 Alemania – Países Bajos · 20:45\n✅ Gana Alemania y ambos marcan\n\n🇬🇷 Grecia – Serbia · 20:45\n✅ Gana Grecia y ambos marcan\n\n🎯 CUOTA 94,10 💎 · 10€ → 941€\n\n🔥 Goles y victoria: así nos gusta 🔥",
-    "sel": [
-      "1545617|Results/Both Teams Score|Home/Yes",
-      "1570014|Results/Both Teams Score|Home/Yes",
-      "1528990|Results/Both Teams Score|Home/Yes",
-      "1528991|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      3.4,
-      3.1,
-      2.88,
-      3.1
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-16-loca-th-1230-reto",
-    "fecha": "2026-11-16T12:30",
-    "texto": "💶 RETO: DE 1€ A 950€ 💶\n\n🇫🇴 Islas Feroe – Moldavia · 16:00\n🏆 Gana Islas Feroe\n🚩 Moldavia hace más de 3,5 córners\n⚽ Moldavia marca\n\n🇪🇪 Estonia – Bulgaria · 18:00\n🚩 Bulgaria hace más de 3,5 córners\n⚽ Bulgaria marca\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Más de 8,5 córners\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n🚩 Más de 8,5 córners\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n🚩 Más de 9,5 córners\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🚩 Países Bajos hace más de 3,5 córners\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n🚩 Más de 8,5 córners\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🚩 Macedonia del Norte hace más de 2,5 córners\n\n🎯 CUOTA 950 aprox. 💎 · 1€ → 950€\n\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1545652|Home Player Shots|Dan Ndoye - 3",
-      "1528988|Away Corners Over/Under|Over 3.5",
-      "1528987|Match Winner|Home",
-      "1528988|Total - Away|Over 0.5",
-      "1570014|Corners Over Under|Over 9.5",
-      "1545652|Corners Over Under|Over 8.5",
-      "1528987|Away Corners Over/Under|Over 3.5",
-      "1528990|Away Corners Over/Under|Over 3.5",
-      "1528989|Corners Over Under|Over 8.5",
-      "1545617|Corners Over Under|Over 8.5",
-      "1528987|Total - Away|Over 0.5",
-      "1545662|Home Corners Over/Under|Over 2.5"
-    ],
-    "cuotas": [
-      1.83,
-      1.73,
-      1.8,
-      1.67,
-      1.8,
-      1.67,
-      1.83,
-      1.8,
-      1.85,
-      1.82,
-      1.73,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-16-loca-th-1300-lista-gana",
+    "id": "2026-11-16-loca-th-1300-reto",
     "fecha": "2026-11-16T13:00",
-    "texto": "🏆 LOS FAVORITOS DEL DÍA 🏆\n\n1. 🇫🇴 Islas Feroe – Moldavia ➜ Gana Islas Feroe @1,80\n2. 🇰🇿 Kazajistán – Eslovaquia ➜ Gana Eslovaquia @1,85\n3. 🇪🇸 Albacete – Celta de Vigo II ➜ Gana el Albacete @1,62\n4. 🇬🇷 Grecia – Serbia ➜ Gana Grecia @1,42\n5. 🇬🇮 Gibraltar – Malta ➜ Gana Malta @1,50\n6. 🇩🇪 Alemania – Países Bajos ➜ Gana Alemania @1,85\n7. 🇲🇰 Macedonia del Norte – Eslovenia ➜ Gana Eslovenia @1,53\n\n👇 ¿Con cuál os quedáis? 👇",
+    "texto": "💶 RETO: DE 1€ A 506€ 💶\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🏆 Kazajistán gana una parte\n🇫🇴 Islas Feroe–Moldavia 16:00\n🏆 Moldavia gana una parte\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Bulgaria más córners\n🇪🇸 Albacete–Celta de Vigo II 20:30\n🏆 Celta de Vigo II gana una parte · ⚽ Celta de Vigo II marca 2+\n🇬🇷 Grecia–Serbia 20:45\n🛡️ Serbia o empate\n🇬🇮 Gibraltar–Malta 20:45\n🛡️ Gibraltar o empate\n\n🎯 CUOTA 506 aprox. 💎 1€ → 506€\n👇 ¿Cuál quitaríais? 👇",
     "sel": [
-      "1528987|Match Winner|Home",
-      "1528986|Match Winner|Away",
-      "1570014|Match Winner|Home",
-      "1528991|Match Winner|Home",
-      "1545618|Match Winner|Away",
-      "1528990|Match Winner|Home",
-      "1545662|Match Winner|Away"
+      "1570014|To Win Either Half|Away",
+      "1528991|Double Chance|Draw/Away",
+      "1545618|Double Chance|Home/Draw",
+      "1528986|To Win Either Half|Home",
+      "1528988|Corners 1x2|Away",
+      "1528987|To Win Either Half|Away",
+      "1570014|Total - Away|Over 1.5"
     ],
     "cuotas": [
-      1.8,
-      1.85,
-      1.62,
-      1.42,
-      1.5,
-      1.85,
-      1.53
+      2.62,
+      2.75,
+      2.5,
+      2.5,
+      2.6,
+      2.75,
+      3.4
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 506.0,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6701,105 +6622,24 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-1430-x100",
-    "fecha": "2026-11-16T14:30",
-    "texto": "🔥 COMBI POR 97,24 🔥\n\n🇰🇿 Kazajistán – Eslovaquia · 16:00\n🏆 Eslovaquia gana alguna de las dos partes\n⚽ Kazajistán marca\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Liechtenstein hace más de 1,5 córners\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n🚩 Celta de Vigo II hace más de 3,5 córners\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n🚩 Alemania hace más córners\n\n🇬🇷 Grecia – Serbia · 20:45\n⚽ Grecia marca 2 o más\n\n🇬🇮 Gibraltar – Malta · 20:45\n🏆 Gana Malta\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🏆 Gana Eslovenia\n\n🎯 CUOTA 97,24 aprox. 💎 · 10€ → 972€\n\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "id": "2026-11-16-loca-th-1400-tiros",
+    "fecha": "2026-11-16T14:00",
+    "texto": "🎯 COMBI DE TIROS · SUIZA vs ESCOCIA 🎯\n\n⭐ Suiza – Escocia · 20:45\n🦵 Lewis Ferguson comete 2+ faltas\n🎯 Remo Freuler: 1+ tiros\n🦵 Remo Freuler comete 1+ faltas\n\n🎯 CUOTA 3,19 aprox. 💎 · 10€ → 31,90€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
     "sel": [
-      "1545652|Home Player Shots|Dan Ndoye - 3",
-      "1528990|Away Player Shots|Denzel Dumfries - 1",
-      "1545618|Match Winner|Away",
-      "1528986|To Win Either Half|Away",
-      "1528991|Total - Home|Over 1.5",
-      "1545662|Match Winner|Away",
-      "1528990|Corners 1x2|Home",
-      "1528986|Total - Home|Over 0.5",
-      "1570014|Away Corners Over/Under|Over 3.5",
-      "1528989|Away Corners Over/Under|Over 1.5"
-    ],
-    "cuotas": [
-      1.83,
-      1.53,
-      1.5,
-      1.5,
-      1.5,
-      1.53,
-      1.53,
-      1.53,
-      1.83,
-      1.57
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-16-loca-th-1500-hora",
-    "fecha": "2026-11-16T15:00",
-    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇬🇷 Grecia – Serbia ➜ 🚩 Más de 9,5 córners\n🇬🇮 Gibraltar – Malta ➜ 🚩 Malta hace más de 5,5 córners\n🇩🇪 Alemania – Países Bajos ➜ 🚩 Más de 9,5 córners\n🇲🇰 Macedonia del Norte – Eslovenia ➜ ⚽ Macedonia del Norte marca\n🇨🇭 Suiza – Escocia ➜ 🦵 Remo Freuler comete 1+ faltas\n\n🎯 CUOTA 23,29 💎 · 10€ → 233€\n\n⏳ Todo se decide a la vez 🔥",
-    "sel": [
-      "1528991|Corners Over Under|Over 9.5",
-      "1545618|Away Corners Over/Under|Over 5.5",
-      "1528990|Corners Over Under|Over 9.5",
-      "1545662|Total - Home|Over 0.5",
+      "1545652|Player Fouls Committed|Lewis Ferguson - 2",
+      "1545652|Home Player Shots|Remo Freuler - 1",
       "1545652|Player Fouls Committed|Remo Freuler - 1"
     ],
     "cuotas": [
-      2.0,
-      2.1,
-      2.02,
-      1.83,
+      1.44,
+      1.44,
       1.5
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-16-loca-th-1530-x50",
-    "fecha": "2026-11-16T15:30",
-    "texto": "🤑 COMBI x60,37 🤑\n\n🇫🇴 Islas Feroe – Moldavia · 16:00\n🏆 Islas Feroe gana alguna de las dos partes\n\n🇱🇹 Lituania – Liechtenstein · 18:00\n🚩 Liechtenstein hace más de 1,5 córners\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n⚽ Islandia marca 2 o más\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n⚽ Celta de Vigo II marca\n🚩 Albacete hace más córners\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n⚽ Ambos marcan\n\n🇬🇷 Grecia – Serbia · 20:45\n🏆 Gana Grecia\n\n🇬🇮 Gibraltar – Malta · 20:45\n🚩 Malta hace más córners\n🏆 Gana Malta\n\n🇨🇭 Suiza – Escocia · 20:45\n🦵 Lewis Ferguson comete 2+ faltas\n\n🎯 CUOTA 60,37 aprox. 💎 · 10€ → 604€\n\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
-    "sel": [
-      "1545652|Player Fouls Committed|Lewis Ferguson - 2",
-      "1528990|Away Player Shots|Denzel Dumfries - 1",
-      "1528987|To Win Either Half|Home",
-      "1528991|Match Winner|Home",
-      "1570014|Total - Away|Over 0.5",
-      "1545618|Corners 1x2|Away",
-      "1545617|Total - Home|Over 1.5",
-      "1528990|Both Teams Score|Yes",
-      "1545618|Match Winner|Away",
-      "1570014|Corners 1x2|Home",
-      "1528989|Away Corners Over/Under|Over 1.5"
-    ],
-    "cuotas": [
-      1.44,
-      1.53,
-      1.44,
-      1.42,
-      1.44,
-      1.44,
-      1.4,
-      1.4,
-      1.5,
-      1.4,
-      1.57
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
+    "cuota_bet365": 3.19,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6807,18 +6647,144 @@
     "enlace_telegram": true
   },
   {
-    "id": "2026-11-16-loca-th-1630-tapados",
+    "id": "2026-11-16-loca-th-1430-lista-corners",
+    "fecha": "2026-11-16T14:30",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇫🇴 Islas Feroe–Moldavia ➜ Islas Feroe más de 5,5 córners @1,83\n2. 🇰🇿 Kazajistán–Eslovaquia ➜ Eslovaquia más córners @1,57\n3. 🇪🇪 Estonia–Bulgaria ➜ Estonia más córners @1,67\n4. 🇱🇹 Lituania–Liechtenstein ➜ +8 córners @1,78\n5. 🇪🇸 Albacete–Celta de Vigo II ➜ Albacete más córners @1,40\n6. 🇬🇷 Grecia–Serbia ➜ Grecia más de 5,5 córners @1,80\n7. 🇬🇮 Gibraltar–Malta ➜ Malta más córners @1,44\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528987|Home Corners Over/Under|Over 5.5",
+      "1528986|Corners 1x2|Away",
+      "1528988|Corners 1x2|Home",
+      "1528989|Corners Over Under|Over 8",
+      "1570014|Corners 1x2|Home",
+      "1528991|Home Corners Over/Under|Over 5.5",
+      "1545618|Corners 1x2|Away"
+    ],
+    "cuotas": [
+      1.83,
+      1.57,
+      1.67,
+      1.78,
+      1.4,
+      1.8,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-16-loca-th-1530-x100",
+    "fecha": "2026-11-16T15:30",
+    "texto": "🔥 COMBI POR 64,08 🔥\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 Eslovaquia más de 5,5 córners\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Estonia más de 4,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 +8,5 córners\n🇪🇸 Albacete–Celta de Vigo II 20:30\n🚩 Albacete más de 5,5 córners\n🇩🇪 Alemania–Países Bajos 20:45\n🚩 Países Bajos más de 3,5 córners\n🇬🇮 Gibraltar–Malta 20:45\n🚩 +8,5 córners\n🇨🇭 Suiza–Escocia 20:45\n🚩 +9 córners\n\n🎯 CUOTA 64,08 💎 10€ → 641€\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1528989|Corners Over Under|Over 8.5",
+      "1528986|Away Corners Over/Under|Over 5.5",
+      "1528988|Home Corners Over/Under|Over 4.5",
+      "1570014|Home Corners Over/Under|Over 5.5",
+      "1545652|Corners Over Under|Over 9",
+      "1545618|Corners Over Under|Over 8.5",
+      "1528990|Away Corners Over/Under|Over 3.5"
+    ],
+    "cuotas": [
+      1.85,
+      1.83,
+      1.73,
+      1.73,
+      1.92,
+      1.83,
+      1.8
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 64.08,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-16-loca-th-1630-hora",
     "fecha": "2026-11-16T16:30",
-    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇪🇸 Albacete – Celta de Vigo II ➜ 🛡️ Celta de Vigo II o empate @2,25\n🇨🇭 Suiza – Escocia ➜ 🛡️ Escocia o empate @2,10\n🇬🇮 Gibraltar – Malta ➜ 🛡️ Gibraltar o empate @2,50\n🇬🇷 Grecia – Serbia ➜ 🛡️ Serbia o empate @2,75\n\n🎯 CUOTA 32,48 💎 · 10€ → 325€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇬🇷 Grecia – Serbia ➜ ⚽ Serbia marca\n🇬🇮 Gibraltar – Malta ➜ 🚩 Más de 8,5 córners\n🇩🇪 Alemania – Países Bajos ➜ 🏆 Alemania gana alguna de las dos partes\n🇲🇰 Macedonia del Norte – Eslovenia ➜ 🚩 Macedonia del Norte hace más de 2,5 córners\n🇨🇭 Suiza – Escocia ➜ 🎯 Remo Freuler: 1+ tiros\n\n🎯 CUOTA 10,96 💎 · 10€ → 110€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1528991|Total - Away|Over 0.5",
+      "1545618|Corners Over Under|Over 8.5",
+      "1528990|To Win Either Half|Home",
+      "1545662|Home Corners Over/Under|Over 2.5",
+      "1545652|Home Player Shots|Remo Freuler - 1"
+    ],
+    "cuotas": [
+      1.67,
+      1.83,
+      1.44,
+      1.73,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.96,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-16-loca-th-1700-x50",
+    "fecha": "2026-11-16T17:00",
+    "texto": "💸 LA DE x55,74 💸\n\n🇪🇪 Estonia–Bulgaria 18:00\n⚽ Bulgaria marca · 🏆 Estonia gana una parte\n🇪🇸 Albacete–Celta de Vigo II 20:30\n⚽ Albacete marca 2+ · 🚩 Celta de Vigo II más de 3,5 córners\n🇨🇭 Suiza–Escocia 20:45\n🚩 +8,5 córners\n🇲🇰 Macedonia del Norte–Eslovenia 20:45\n🚩 +8,5 córners · ⚽ Macedonia del Norte marca\n\n🎯 CUOTA 55,74 aprox. 💎 10€ → 557€\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1528988|Total - Away|Over 0.5",
+      "1570014|Total - Home|Over 1.5",
+      "1528988|To Win Either Half|Home",
+      "1545652|Corners Over Under|Over 8.5",
+      "1570014|Away Corners Over/Under|Over 3.5",
+      "1545662|Corners Over Under|Over 8.5",
+      "1545662|Total - Home|Over 0.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.57,
+      1.62,
+      1.67,
+      1.83,
+      1.95,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 55.74,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-16-loca-th-1730-tapados",
+    "fecha": "2026-11-16T17:30",
+    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇪🇸 Albacete – Celta de Vigo II ➜ 🛡️ Celta de Vigo II o empate @2,25\n🇬🇮 Gibraltar – Malta ➜ 🛡️ Gibraltar o empate @2,50\n🇬🇷 Grecia – Serbia ➜ 🛡️ Serbia o empate @2,75\n\n🎯 CUOTA 15,47 💎 · 10€ → 155€\n\n🤫 Si sale esta, nos retiramos 🤫",
     "sel": [
       "1570014|Double Chance|Draw/Away",
-      "1545652|Double Chance|Draw/Away",
       "1545618|Double Chance|Home/Draw",
       "1528991|Double Chance|Draw/Away"
     ],
     "cuotas": [
       2.25,
-      2.1,
       2.5,
       2.75
     ],
@@ -6826,6 +6792,7 @@
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 15.47,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6833,23 +6800,24 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-1700-lista-ambos",
-    "fecha": "2026-11-16T17:00",
-    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇪🇸 Albacete – Celta de Vigo II ➜ Ambos marcan @1,62\n2. 🇬🇷 Grecia – Serbia ➜ Ambos marcan @1,83\n3. 🇩🇪 Alemania – Países Bajos ➜ Ambos marcan @1,40\n\n👇 ¿Con cuál os quedáis? 👇",
+    "id": "2026-11-16-loca-th-1830-lista-corners",
+    "fecha": "2026-11-16T18:30",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇪🇸 Albacete–Celta de Vigo II ➜ +9,5 córners @1,80\n2. 🇩🇪 Alemania–Países Bajos ➜ Alemania más córners @1,53\n3. 🇨🇭 Suiza–Escocia ➜ +8,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
     "sel": [
-      "1570014|Both Teams Score|Yes",
-      "1528991|Both Teams Score|Yes",
-      "1528990|Both Teams Score|Yes"
+      "1570014|Corners Over Under|Over 9.5",
+      "1528990|Corners 1x2|Home",
+      "1545652|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
-      1.62,
-      1.83,
-      1.4
+      1.8,
+      1.53,
+      1.67
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": null,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6857,25 +6825,26 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-1730-ganaambos",
-    "fecha": "2026-11-16T17:30",
-    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🇮🇸 Islandia – Luxemburgo · 18:00\n✅ Gana Islandia y ambos marcan\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n✅ Gana Albacete y ambos marcan\n\n🇩🇪 Alemania – Países Bajos · 20:45\n✅ Gana Alemania y ambos marcan\n\n🇬🇷 Grecia – Serbia · 20:45\n✅ Gana Grecia y ambos marcan\n\n🎯 CUOTA 94,10 💎 · 10€ → 941€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "id": "2026-11-16-loca-th-1900-ganaambos",
+    "fecha": "2026-11-16T19:00",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n✅ Gana Albacete y ambos marcan\n\n🇩🇪 Alemania – Países Bajos · 20:45\n✅ Gana Alemania y ambos marcan\n\n🇬🇷 Grecia – Serbia · 20:45\n✅ Gana Grecia y ambos marcan\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n✅ Gana Eslovenia y ambos marcan\n\n🎯 CUOTA 120 💎 · 10€ → 1.198€\n\n🔥 Goles y victoria: así nos gusta 🔥",
     "sel": [
-      "1545617|Results/Both Teams Score|Home/Yes",
       "1570014|Results/Both Teams Score|Home/Yes",
       "1528990|Results/Both Teams Score|Home/Yes",
-      "1528991|Results/Both Teams Score|Home/Yes"
+      "1528991|Results/Both Teams Score|Home/Yes",
+      "1545662|Results/Both Teams Score|Away/Yes"
     ],
     "cuotas": [
-      3.4,
       3.1,
       2.88,
-      3.1
+      3.1,
+      4.33
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 120.0,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6883,39 +6852,32 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-16-loca-th-1830-x500",
-    "fecha": "2026-11-16T18:30",
-    "texto": "💎 COMBI x551 💎\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n⚽ Ambos marcan\n🏆 Gana el Albacete\n🚩 Albacete hace más de 5,5 córners\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🏆 Gana Alemania\n🚩 Países Bajos hace más de 3,5 córners\n\n🇬🇷 Grecia – Serbia · 20:45\n🚩 Serbia hace más de 3,5 córners\n⚽ Serbia marca\n\n🇬🇮 Gibraltar – Malta · 20:45\n🚩 Más de 8,5 córners\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n🚩 Más de 8,5 córners\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🚩 Más de 8,5 córners\n\n🎯 CUOTA 551 aprox. 💎 · 10€ → 5.507€\n\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "id": "2026-11-16-loca-th-1930-x500",
+    "fecha": "2026-11-16T19:30",
+    "texto": "🤪 LA LOCURA DE x329 🤪\n\n🇪🇸 Albacete–Celta de Vigo II 20:30\n🏆 Celta de Vigo II gana una parte\n🇩🇪 Alemania–Países Bajos 20:45\n⚽ Países Bajos marca 2+ · 🚩 Países Bajos más córners\n🇬🇮 Gibraltar–Malta 20:45\n🚩 Malta más de 5,5 córners · ⚽ Gibraltar marca\n🇨🇭 Suiza–Escocia 20:45\n🚩 Escocia más de 3,5 córners\n🇲🇰 Macedonia del Norte–Eslovenia 20:45\n🚩 Macedonia del Norte más de 3,5 córners\n\n🎯 CUOTA 329 aprox. 💎 10€ → 3.292€\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
     "sel": [
-      "1545652|Home Player Shots|Dan Ndoye - 3",
-      "1570014|Both Teams Score|Yes",
-      "1545652|Corners Over Under|Over 8.5",
-      "1570014|Match Winner|Home",
-      "1545662|Corners Over Under|Over 8.5",
-      "1528991|Away Corners Over/Under|Over 3.5",
-      "1528990|Match Winner|Home",
-      "1528991|Total - Away|Over 0.5",
-      "1570014|Home Corners Over/Under|Over 5.5",
-      "1528990|Away Corners Over/Under|Over 3.5",
-      "1545618|Corners Over Under|Over 8.5"
+      "1545618|Away Corners Over/Under|Over 5.5",
+      "1528990|Total - Away|Over 1.5",
+      "1545662|Home Corners Over/Under|Over 3.5",
+      "1545618|Total - Home|Over 0.5",
+      "1545652|Away Corners Over/Under|Over 3.5",
+      "1528990|Corners 1x2|Away",
+      "1570014|To Win Either Half|Away"
     ],
     "cuotas": [
-      1.83,
-      1.62,
-      1.67,
-      1.62,
-      1.95,
-      2.0,
-      1.85,
-      1.67,
-      1.73,
-      1.8,
-      1.83
+      2.1,
+      2.2,
+      2.1,
+      2.2,
+      2.2,
+      3.0,
+      2.62
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 329.0,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,
@@ -6923,91 +6885,28 @@
     "enlace_telegram": true
   },
   {
-    "id": "2026-11-16-loca-th-1930-x1000",
-    "fecha": "2026-11-16T19:30",
-    "texto": "🚀 COMBI x776 🚀\n\n🇪🇸 Albacete – Celta de Vigo II · 20:30\n🚩 Albacete hace más de 5,5 córners\n\n🇩🇪 Alemania – Países Bajos · 20:45\n🚩 Países Bajos hace más de 3,5 córners\n🏆 Gana Alemania\n⚽ Países Bajos marca 2 o más\n\n🇬🇷 Grecia – Serbia · 20:45\n⚽ Serbia marca\n🚩 Grecia hace más de 5,5 córners\n\n🇬🇮 Gibraltar – Malta · 20:45\n🚩 Más de 8,5 córners\n\n🇨🇭 Suiza – Escocia · 20:45\n🎯 Dan Ndoye: 3+ tiros\n🚩 Más de 9 córners\n\n🇲🇰 Macedonia del Norte – Eslovenia · 20:45\n🚩 Macedonia del Norte hace más de 2,5 córners\n⚽ Macedonia del Norte marca\n\n🎯 CUOTA 776 aprox. 💎 · 10€ → 7.755€\n\n✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
-    "sel": [
-      "1545652|Home Player Shots|Dan Ndoye - 3",
-      "1545662|Home Corners Over/Under|Over 2.5",
-      "1545652|Corners Over Under|Over 9",
-      "1528991|Total - Away|Over 0.5",
-      "1528990|Away Corners Over/Under|Over 3.5",
-      "1570014|Home Corners Over/Under|Over 5.5",
-      "1528991|Home Corners Over/Under|Over 5.5",
-      "1545618|Corners Over Under|Over 8.5",
-      "1528990|Match Winner|Home",
-      "1545662|Total - Home|Over 0.5",
-      "1528990|Total - Away|Over 1.5"
-    ],
-    "cuotas": [
-      1.83,
-      1.73,
-      1.92,
-      1.67,
-      1.8,
-      1.73,
-      1.8,
-      1.83,
-      1.85,
-      1.83,
-      2.2
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-16-loca-th-2000-lista-corners",
-    "fecha": "2026-11-16T20:00",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇪🇸 Albacete – Celta de Vigo II ➜ Albacete hace más córners @1,40\n2. 🇬🇷 Grecia – Serbia ➜ Grecia hace más de 5,5 córners @1,80\n3. 🇬🇮 Gibraltar – Malta ➜ Malta hace más córners @1,44\n4. 🇩🇪 Alemania – Países Bajos ➜ Alemania hace más córners @1,53\n5. 🇲🇰 Macedonia del Norte – Eslovenia ➜ Macedonia del Norte hace más de 2,5 córners @1,73\n6. 🇨🇭 Suiza – Escocia ➜ Más de 8,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1570014|Corners 1x2|Home",
-      "1528991|Home Corners Over/Under|Over 5.5",
-      "1545618|Corners 1x2|Away",
-      "1528990|Corners 1x2|Home",
-      "1545662|Home Corners Over/Under|Over 2.5",
-      "1545652|Corners Over Under|Over 8.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.8,
-      1.44,
-      1.53,
-      1.73,
-      1.67
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-16-loca-th-2030-duelo",
+    "id": "2026-11-16-loca-th-2030-x1000",
     "fecha": "2026-11-16T20:30",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Grecia vs Serbia · 20:45\n\n🎯 Fotis Ioannidis: 3+ tiros (Grecia)\n🎯 Aleksandar Mitrovic: 2+ tiros (Serbia)\n\n🎯 CUOTA 2,03 aprox. 💎 · 10€ → 20,30€\n\n👇 ¿Quién dispara más? 👇",
+    "texto": "🚀 COMBI x267 🚀\n\n🇬🇷 Grecia–Serbia 20:45\n🏆 Serbia gana una parte · 🚩 Serbia más córners · ⚽ Serbia marca 2+\n🇬🇮 Gibraltar–Malta 20:45\n🚩 Gibraltar más córners\n🇨🇭 Suiza–Escocia 20:45\n🚩 Escocia más córners\n\n🎯 CUOTA 267 aprox. 💎 10€ → 2.667€\n👇 ¿Cuál quitaríais? 👇",
     "sel": [
-      "1528991|Home Player Shots|Fotis Ioannidis - 3",
-      "1528991|Away Player Shots|Aleksandar Mitrovic - 2"
+      "1528991|To Win Either Half|Away",
+      "1528991|Corners 1x2|Away",
+      "1545652|Corners 1x2|Away",
+      "1528991|Total - Away|Over 1.5",
+      "1545618|Corners 1x2|Home"
     ],
     "cuotas": [
-      1.4,
-      1.53
+      3.5,
+      3.6,
+      3.75,
+      4.33,
+      3.4
     ],
     "solo_en": [
       "threads"
     ],
     "origen": "threads_locas",
+    "cuota_bet365": 267.0,
     "sin_foto": true,
     "sin_porque": true,
     "fijo": true,

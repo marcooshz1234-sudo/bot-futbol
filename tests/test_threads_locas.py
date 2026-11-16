@@ -53,6 +53,21 @@ class ThreadsLocas(unittest.TestCase):
         for k in ("ganaambos", "duelo", "empates", "hora", "tapados", "reto"):
             self.assertIn(k, r)
 
+    def test_cuota_como_bet365_y_500_caracteres(self):
+        # 16/11: «LA CENTENARIA» de 572 caracteres no salió (Threads: máx. 500) y «x59,32» no cuadraba con bet365
+        from bot import MADRID
+        import combis_dia as C
+        ini = datetime(2026, 11, 16, 20, 45, tzinfo=MADRID)
+        partidos = [{"fid": 900 + i, "ini": ini, "local": f"Equipo local {i}", "visitante": f"Equipo visitante {i}",
+                     "local_en": "x", "patas": [
+                         {"mercado": "Match Winner", "opcion": "Home", "cuota": 1.9, "prob": 0.5, "familia": "gana", "texto": "Gana Equipo local"},
+                         {"mercado": "Corners 1x2", "opcion": "Home", "cuota": 1.75, "prob": 0.55, "familia": "corners", "texto": "Equipo local hace más córners"}]}
+                    for i in range(12)]
+        sel, cuota, texto = T.combi_que_quepa(1000, T.combi_cuota(partidos, 1000, "s", {})[0], "s")
+        self.assertLessEqual(len(texto), 500)
+        real = C.cuota_real_sel([f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel], [p["cuota"] for _, p in sel])
+        self.assertAlmostEqual(cuota, real, places=1)
+
     def test_texto_sin_partido_repetido(self):
         pt = {"local": "Alemania", "visitante": "Países Bajos"}
         self.assertEqual(T._corto(pt, {"texto": "Ambos marcan en Alemania–Países Bajos"}), "Ambos marcan")
