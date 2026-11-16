@@ -85,13 +85,16 @@ def clave_pick(x):
     return f"{x.get('partido_id')}|{s}"
 
 
-def picks_dia(posts, dia):
+def picks_dia(posts, dia, solo=None):
     """28/10 (Marcos): el resumen de la noche es de PICKS, no de combis (una combi se pierde por una pata).
     Solo los picks ya resueltos (verde/rojo) de partidos terminados; nada de «pendiente»."""
     vistos, salida, en_juego = set(), [], 0
     for p in posts:
         t = p['titulo'].lstrip()
-        if (p['fecha'][:10] != dia or 'verde-auto' in p['id'] or (t.startswith('✅') and 'VERDE' in t.upper())
+        if solo is not None and p['id'] not in solo:   # 16/11: solo lo que salió en Telegram
+            continue
+        if (p['fecha'][:10] != dia or 'verde-auto' in p['id'] or 'balance' in p['id'] or 'RESUMEN DEL' in t.upper()
+                or (t.startswith('✅') and 'VERDE' in t.upper())
                 or 'picks-manana' in p['id'] or 'PARA MAÑANA' in t.upper() or 'BALANCE' in t.upper()
                 # 15/11 (Marcos): el «Quién gana» (ganadores) no cuenta en el total, ni pick a pick
                 or 'ganadores' in p['id'] or 'QUIÉN GANA' in t.upper() or 'GANADORES' in t.upper()):
@@ -136,12 +139,14 @@ def _cuota_post(pid, cola):
     return float(m.group(1).replace(',', '.')) if m else None
 
 
-def posts_dia(posts, dia, cola=()):
+def posts_dia(posts, dia, cola=(), solo=None):
     """13/11: los posts del día (no listas ni verdes) ya resueltos: [(id, picks, estado, cuota)]."""
     out = []
     for p in posts:
         # 15/11: «Más de 2,5 goles en España–Inglaterra» se subió la noche antes (fecha 14/11 22:37, id del 15):
         # cuenta el día de su id, que es el de sus partidos
+        if solo is not None and p['id'] not in solo:
+            continue
         if (p['id'][:10] != dia and p['fecha'][:10] != dia) or p.get('lista') or any(k in p['id'] for k in LISTAS):
             continue
         ps = [x for x in p.get('picks', []) if not x.get('exacto')]
@@ -151,11 +156,11 @@ def posts_dia(posts, dia, cola=()):
     return out
 
 
-def textos_picks(picks, dia, posts=(), cola=()):
+def textos_picks(picks, dia, posts=(), cola=(), solo=None):
     """13/11 (Marcos: «poner no sé cuántos fallados queda muy feo… busca una manera para que quede bien» y luego «los
     fallados tienen que salir, pero no pongas la ❌»). Todo como «x de y» (sin ❌ ni «fallados»), el % solo si es bueno
     (≥ 60 %), los picks sueltos aparte de las combis y la lista de lo que salió en verde con su cuota."""
-    rp = posts_dia(posts, dia, cola)
+    rp = posts_dia(posts, dia, cola, solo)
     # 15/11: «7 de 10 picks en verde» con solo 4 en «Para dentro» no cuadraba: la cuenta es de los posts que
     # subimos (cada post una vez, el mismo pick de dos canales una vez), igual que la lista
     if rp:
@@ -214,6 +219,16 @@ def textos_picks(picks, dia, posts=(), cola=()):
     return texto, texto
 
 
+def en_telegram(cola):
+    """16/11 (Marcos: «había 5 de 33… has mezclado todas las redes»): el resumen de Telegram cuenta SOLO lo que
+    salió en Telegram (con su mensaje), no las locas ni los boletos de Threads."""
+    ids = {p['id'] for p in cola if p.get('mensaje_id')}
+    for k, v in (leer(RAIZ / 'publicaciones' / 'enviados.json', {}) or {}).items():
+        if isinstance(v, dict) and v.get('mensaje_id'):
+            ids.add(k)
+    return ids
+
+
 def main():
     ahora = datetime.now(MADRID)
     hoy = ahora.strftime('%Y-%m-%d')
@@ -226,14 +241,16 @@ def main():
     generado = datos.get('generado_iso')
     if not generado or (ahora - datetime.fromisoformat(generado)).total_seconds() > 20 * 60:
         return
-    picks, en_juego = picks_dia(datos.get('publicados_hoy', []), hoy)
+    solo = en_telegram(cola)
+    picks, en_juego = picks_dia(datos.get('publicados_hoy', []), hoy, solo)
     if not picks or (en_juego and ahora.strftime('%H:%M') < '23:45'):
         return
-    texto, _ = textos_picks(picks, hoy, datos.get('publicados_hoy', []), cola)
+    texto, _ = textos_picks(picks, hoy, datos.get('publicados_hoy', []), cola, solo)
     if not texto:   # 13/11: si no hay nada en verde, no sale
         return
     cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': texto,
-                 'foto': None, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True})
+                 'foto': None, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True,
+                 'solo_en': ['telegram']})   # 16/11: Threads, nada de cuánto acertamos (REGLAS §0)
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print('Resumen de picks del día en cola')
 

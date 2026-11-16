@@ -73,6 +73,7 @@ class BalanceTest(unittest.TestCase):
                 {'id': 'uno', 'fecha': '2026-10-24T18:00', 'titulo': 'Combi', 'estado': 'verde',
                  'picks': [{'partido_id': i, 'texto': f'Gana el {i}', 'estado': 'verde', 'estado_partido': 'FT'}
                            for i in range(1, 4)]}]}))
+            (root/'publicaciones/enviados.json').write_text(json.dumps({'uno': {'mensaje_id': 1}}))   # 16/11: salió en Telegram
             with patch.multiple(resumen_dia, RAIZ=root, COLA=cola), patch.object(resumen_dia, 'datetime') as dt:
                 dt.now.return_value = ahora
                 dt.fromisoformat.side_effect = datetime.fromisoformat
