@@ -12,7 +12,7 @@ ya llevan su formato y no se tocan.
 import hashlib
 import re
 
-NO_TOCAR = re.compile(r"verde|rojo|balance|ganadores|lista-europa|resultado|marcadores|loca-th")   # 16/11: las locas ya van con su estilo
+NO_TOCAR = re.compile(r"verde|rojo|balance|ganadores|lista-europa|resultado|marcadores|loca-th|boleto")   # 16/11: los boletos de Marcos van como se escriben (salía la CUOTA dos veces)   # 16/11: las locas ya van con su estilo
 BANDERA = re.compile(r"^(?:[\U0001F1E6-\U0001F1FF]{2}|🏴[\U000E0061-\U000E007A]+\U000E007F|⚽|⭐)\s")
 PARTIDO = re.compile(r"^(?:⚽|⭐|[\U0001F1E6-\U0001F1FF]{2})\s*(.+?)\s+[–-]\s+(.+?)\s+·\s+(.+)$")
 CUOTA = re.compile(r"^📈\s*Cuota\s*@\s*(\d+[.,]\d+)\s*$")

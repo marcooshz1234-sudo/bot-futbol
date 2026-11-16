@@ -7810,5 +7810,37 @@
       "facebook": null,
       "threads": "18111181421622987"
     }
+  },
+  {
+    "id": "2026-11-16-boleto-propia-th-2",
+    "fecha": "2026-11-16T15:21",
+    "foto": "publicaciones/media/2026-11-16-boleto-propia-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 24.85,
+    "sel": [
+      "1528986|Match Winner|Away",
+      "1528987|Both Teams Score|Yes",
+      "1528990|Both Teams Score|Yes",
+      "1528990|Goals Over/Under|Over 2.5",
+      "1528991|Both Teams Score|Yes",
+      "1528991|Goals Over/Under|Over 2.5",
+      "1545652|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.85,
+      2.1,
+      1.4,
+      1.4,
+      1.83,
+      1.67,
+      1.7
+    ],
+    "nota": "16/11 Marcos borró el anterior (CUOTA salía 2 veces): repuesto",
+    "texto": "🎯 MI COMBINADA DE HOY · x24,8 🔥\n\n🇸🇰 Gana Eslovaquia\n🇫🇴🇲🇩 Ambos marcan en Islas Feroe–Moldavia\n🇩🇪🇳🇱 Ambos marcan y más de 2,5 en Alemania–Países Bajos\n🇬🇷🇷🇸 Ambos marcan y más de 2,5 en Grecia–Serbia\n🇨🇭 Gana Suiza\n\n🎯 CUOTA 24,85 💎 10€ → 248€\n🍀 ¿Quién se sube conmigo? 👇",
+    "repuesto_de": "2026-11-16-boleto-propia-th"
   }
 ]

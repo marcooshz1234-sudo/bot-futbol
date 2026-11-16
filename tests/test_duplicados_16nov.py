@@ -42,3 +42,10 @@ class BoletoConCaptura16Nov(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class BoletoSinTocar16Nov(unittest.TestCase):
+    def test_estilo_no_anade_otra_cuota(self):
+        from estilo_threads import estilo
+        t = "🎯 MI COMBINADA · x24,8 🔥\n\n🇸🇰 Gana Eslovaquia\n\n🎯 CUOTA 24,85 💎 10€ → 248€"
+        self.assertEqual(estilo(t, "2026-11-16-boleto-propia-th").count("CUOTA"), 1)
