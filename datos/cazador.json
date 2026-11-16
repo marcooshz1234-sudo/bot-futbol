@@ -41,7 +41,7 @@
    "justa": 1.61,
    "ev": 0.039,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Switzerland",
@@ -52,7 +52,7 @@
    "justa": 1.95,
    "ev": 0.027,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Switzerland",
@@ -63,11 +63,11 @@
    "justa": 2.11,
    "ev": -0.005,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-16T18:02",
+  "hora": "2026-11-16T18:22",
   "revisadas": 0,
   "mejor": null
  },
