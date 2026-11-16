@@ -7207,7 +7207,7 @@
       "1528993|Away Player Shots|Erling Haaland - 4"
     ],
     "cuotas": [
-      1.4,
+      1.36,
       1.44
     ],
     "origen": "threads_locas",
@@ -7219,7 +7219,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T21:02"
   },
   {
     "id": "2026-11-17-loca-th-noche-2300-x50",
