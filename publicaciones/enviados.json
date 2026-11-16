@@ -758,5 +758,10 @@
   },
   "2026-11-16-pick-seguro-2": {
     "caducada": "cancelado"
+  },
+  "2026-11-16-pick-m1": {
+    "enviado": "2026-11-16T10:30",
+    "mensaje_id": 497,
+    "foto_tg": "publicaciones/media/2026-11-16-pick-m1.tg.jpg"
   }
 }
