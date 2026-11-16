@@ -1737,5 +1737,283 @@
     0.97
    ]
   ]
+ },
+ {
+  "id": "2026-11-17-loca-th-0300-duelo",
+  "fecha": "2026-11-17T03:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528993|Home Player Shots|Gustav Isaksen - 3",
+   "1528993|Away Player Shots|Erling Haaland - 4"
+  ],
+  "cuotas": [
+   1.53,
+   1.44
+  ],
+  "real": 2.26,
+  "multiplicando": 2.203,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-0930-tiros",
+  "fecha": "2026-11-17T09:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528992|Away Player Shots|Joao Felix - 3",
+   "1528992|Away Player Shots|Pedro Neto - 2",
+   "1528992|Away Player Shots|Fabio Silva - 3",
+   "1528992|Away Player Shots|Bruno Fernandes - 3",
+   "1528992|Away Player Shots|Rafael Leao - 3"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.57,
+   1.57,
+   1.57
+  ],
+  "real": 5.38,
+  "multiplicando": 7.802,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-1130-duelo",
+  "fecha": "2026-11-17T11:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528993|Home Player Shots|Gustav Isaksen - 3",
+   "1528993|Away Player Shots|Hugo Vetlesen - 2"
+  ],
+  "cuotas": [
+   1.53,
+   1.53
+  ],
+  "real": 2.4,
+  "multiplicando": 2.341,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-1500-duelo",
+  "fecha": "2026-11-17T15:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528993|Home Player Shots|William Osula - 3",
+   "1528993|Away Player Shots|Hugo Vetlesen - 2"
+  ],
+  "cuotas": [
+   1.67,
+   1.53
+  ],
+  "real": 2.62,
+  "multiplicando": 2.555,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-1630-escudos",
+  "fecha": "2026-11-17T16:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528995|Home Player Shots|Andras Schafer - 1",
+   "1528995|Player Fouls Committed|Willi Orban - 1",
+   "1528995|To Win Either Half|Home",
+   "1528995|Total - Away|Over 0.5"
+  ],
+  "cuotas": [
+   1.62,
+   1.67,
+   1.57,
+   1.67
+  ],
+  "real": 9.42,
+  "multiplicando": 7.093,
+  "aj": 1.2304140349934773,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-1700-escudos",
+  "fecha": "2026-11-17T17:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528997|Home Player Shots|Thomas Cannon - 2",
+   "1528997|Away Player Shots|Enis Redzepi - 2",
+   "1528997|Total - Away|Over 0.5",
+   "1528997|To Win Either Half|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.5,
+   1.57,
+   1.67
+  ],
+  "real": 7.89,
+  "multiplicando": 5.506,
+  "aj": 1.2290186417912217,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-1830-tiros",
+  "fecha": "2026-11-17T18:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528992|Away Player Shots|Pedro Neto - 2",
+   "1528992|Away Player Shots|Rafael Leao - 3",
+   "1528992|Home Player Shots|Harry Wilson - 2",
+   "1528992|Home Player Shots|Mark Harris - 2",
+   "1528992|Away Player Shots|Rodrigo Mora - 3"
+  ],
+  "cuotas": [
+   1.44,
+   1.57,
+   1.62,
+   1.67,
+   1.73
+  ],
+  "real": 10.68,
+  "multiplicando": 10.581,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
  }
 ]

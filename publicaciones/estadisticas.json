@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-16 23:58",
+ "actualizado": "2026-11-17 00:08",
  "redes": {
   "instagram": {
    "seguidores": 44,
-   "hoy": 3,
+   "hoy": 0,
    "serie": [
-    36,
     37,
     40,
     40,
     40,
     41,
+    44,
     44
    ]
   },
   "threads": {
-   "seguidores": 3009,
-   "hoy": 217,
+   "seguidores": 3011,
+   "hoy": 2,
    "serie": [
-    2593,
     2644,
     2691,
     2738,
     2776,
     2792,
-    3009
+    3009,
+    3011
    ]
   },
   "facebook": {
@@ -42,29 +42,29 @@
   },
   "telegram": {
    "seguidores": 439,
-   "hoy": 28,
+   "hoy": 0,
    "serie": [
-    378,
     384,
     391,
     401,
     404,
     411,
+    439,
     439
    ]
   }
  },
- "total": 3493,
- "total_hoy": 248,
- "likes_hoy": 1,
+ "total": 3495,
+ "total_hoy": 2,
+ "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-17",
-  "titulo": "Nations league - ganadores"
+  "titulo": "Este lo tenemos claro"
  },
  "ayer": {
-  "aciertos": 2,
-  "total": 4
+  "aciertos": 1,
+  "total": 3
  },
  "escalera": {
   "dia": 1,
@@ -217,6 +217,12 @@
   "2026-11-16": {
    "instagram": 44,
    "threads": 3009,
+   "facebook": 1,
+   "telegram": 439
+  },
+  "2026-11-17": {
+   "instagram": 44,
+   "threads": 3011,
    "facebook": 1,
    "telegram": 439
   }
