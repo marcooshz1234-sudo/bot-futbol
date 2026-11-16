@@ -7584,5 +7584,150 @@
       "facebook": null,
       "threads": "17879780589572530"
     }
+  },
+  {
+    "id": "2026-11-16-boleto-propia-th",
+    "fecha": "2026-11-16T15:12",
+    "foto": "publicaciones/media/2026-11-16-boleto-propia-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 24.85,
+    "sel": [
+      "1528986|Match Winner|Away",
+      "1528987|Both Teams Score|Yes",
+      "1528990|Both Teams Score|Yes",
+      "1528990|Goals Over/Under|Over 2.5",
+      "1528991|Both Teams Score|Yes",
+      "1528991|Goals Over/Under|Over 2.5",
+      "1545652|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.85,
+      2.1,
+      1.4,
+      1.4,
+      1.83,
+      1.67,
+      1.7
+    ],
+    "nota": "16/11 Marcos: «en Threads sube la captura en todas» (boleto suyo de bet365, sin el dinero)",
+    "texto": "🎯 MI COMBINADA DE HOY · x24,8 🔥\n\n🇸🇰 Gana Eslovaquia\n🇫🇴🇲🇩 Ambos marcan en Islas Feroe–Moldavia\n🇩🇪🇳🇱 Ambos marcan y más de 2,5 en Alemania–Países Bajos\n🇬🇷🇷🇸 Ambos marcan y más de 2,5 en Grecia–Serbia\n🇨🇭 Gana Suiza\n\n🎯 CUOTA 24,85 💎 10€ → 248€\n🍀 ¿Quién se sube conmigo? 👇"
+  },
+  {
+    "id": "2026-11-16-boleto-l1-th",
+    "fecha": "2026-11-16T15:24",
+    "foto": "publicaciones/media/2026-11-16-boleto-l1-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 31.88,
+    "sel": [
+      "1528990|Match Winner|Home",
+      "1528991|Match Winner|Home",
+      "1545662|Match Winner|Away",
+      "1528986|Match Winner|Away",
+      "1545617|Match Winner|Home",
+      "1528989|First Half Winner|Home",
+      "1545618|Match Winner|Away",
+      "1570014|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.85,
+      1.44,
+      1.5,
+      1.85,
+      1.2,
+      1.44,
+      1.55,
+      1.6
+    ],
+    "nota": "16/11 Marcos: «en Threads sube la captura en todas» (boleto suyo de bet365, sin el dinero)",
+    "texto": "🔥 LARGA CON CABEZA · x31,9 🔥\n\n🏆 8 favoritos, todo «quién gana»\n🇩🇪 Alemania · 🇬🇷 Grecia · 🇸🇮 Eslovenia · 🇸🇰 Eslovaquia\n🇮🇸 Islandia · 🇱🇹 Lituania (1ª parte) · 🇲🇹 Malta · ⚽ Albacete\n\n🎯 CUOTA 31,88 💎 10€ → 318€\n🍀 ¿La pintamos de verde? 👀💚"
+  },
+  {
+    "id": "2026-11-16-boleto-personal-th",
+    "fecha": "2026-11-16T15:38",
+    "foto": "publicaciones/media/2026-11-16-boleto-personal-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 14.13,
+    "sel": [
+      "1528990|Home Player Shots|Florian Wirtz - 3",
+      "1528991|Match Winner|Home",
+      "1528991|Goalkeeper Saves|Vanja Milinkovic-Savic - 4",
+      "1545652|Away Player Shots|Scott McTominay - 3",
+      "1545652|Goalkeeper Saves|Gregor Kobel - 3"
+    ],
+    "cuotas": [
+      1.66,
+      1.42,
+      1.73,
+      1.67,
+      2.0
+    ],
+    "nota": "16/11 Marcos: «en Threads sube la captura en todas» (boleto suyo de bet365, sin el dinero)",
+    "texto": "🎯 MI COMBINADA PERSONAL · x14 🔥\n\n🇩🇪 Florian Wirtz (Alemania) más de 2,5 remates\n🇬🇷 Gana Grecia + Vanja Milinković-Savić (Serbia) 4+ paradas\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scott McTominay (Escocia) 3+ remates + Gregor Kobel (Suiza) 3+ paradas\n\n🎯 CUOTA 14,13 💎 10€ → 141€\n💚 La llevo yo, ¿quién se sube? 👇"
+  },
+  {
+    "id": "2026-11-16-boleto-b-th",
+    "fecha": "2026-11-16T15:52",
+    "foto": "publicaciones/media/2026-11-16-boleto-b-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 12.87,
+    "sel": [
+      "1528990|Away Player Shots|Tijjani Reijnders - 3",
+      "1528990|Goalkeeper Saves|Marc-Andre ter Stegen - 3",
+      "1528991|Match Winner|Home",
+      "1528991|Home Player Shots|Konstantinos Karetsas - 2",
+      "1545652|Double Chance|Draw/Away",
+      "1545662|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.67,
+      1.62,
+      1.42,
+      1.28,
+      1.95,
+      1.5
+    ],
+    "nota": "16/11 Marcos: «en Threads sube la captura en todas» (boleto suyo de bet365, sin el dinero)",
+    "texto": "🎯 OTRA DE JUGADORES · x12,9 🔥\n\n🇳🇱 Tijjani Reijnders (Países Bajos) 3+ remates\n🧤 Marc-André ter Stegen (Alemania) 3+ paradas\n🇬🇷 Gana Grecia + Konstantinos Karetsas (Grecia) 2+ remates\n🛡️ Escocia o empate · 🇸🇮 Gana Eslovenia\n\n🎯 CUOTA 12,87 💎 10€ → 128€\n🍀 ¿La pintamos de verde? 👀"
+  },
+  {
+    "id": "2026-11-16-boleto-c-th",
+    "fecha": "2026-11-16T16:20",
+    "foto": "publicaciones/media/2026-11-16-boleto-c-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 5.4,
+    "sel": [
+      "1545617|Total - Home|Over 1.5",
+      "1528991|Total ShotOnGoal|Over 8.5",
+      "1528990|Match Winner|Home",
+      "1528990|Player Fouls Committed|Justin Kluivert - 1"
+    ],
+    "cuotas": [
+      1.36,
+      1.66,
+      1.85,
+      1.28
+    ],
+    "nota": "16/11 Marcos: «en Threads sube la captura en todas» (boleto suyo de bet365, sin el dinero)",
+    "texto": "🎯 LA CORTITA · x5,4 🔥\n\n🇮🇸 Islandia marca 2 o más\n🎯 Más de 8,5 remates a puerta en Grecia–Serbia\n🇩🇪 Gana Alemania + 🟨 Justin Kluivert (Países Bajos) 1+ falta\n\n🎯 CUOTA 5,40 💎 10€ → 54€\n💚 ¿Quién se sube? 👇"
   }
 ]
