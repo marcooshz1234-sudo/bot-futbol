@@ -1,0 +1,32 @@
+name: Rendimiento de las redes (likes y seguidores por post)
+# 16/11 (Marcos: «me interesa sobre todo que me siga la gente»): cada 6 h mide cada post de Threads e Instagram
+# (vistas, likes, compartidos, seguidores) por tipo y formato → datos/rendimiento_redes.json. Solo lee.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: rendimiento
+  cancel-in-progress: false
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests
+      - name: Medir
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+        run: python rendimiento_redes.py --ya
+      - name: Guardar
+        run: |
+          git config user.name "bot-futbol"; git config user.email "bot-futbol@users.noreply.github.com"
+          git add datos/rendimiento_redes.json datos/seguidores_redes.json && git commit -qm "Rendimiento de las redes" || exit 0
+          for i in 1 2 3 4; do git pull --rebase -q -X theirs && git push -q && break; git rebase --abort 2>/dev/null; sleep 10; done
