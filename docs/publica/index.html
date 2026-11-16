@@ -377,8 +377,10 @@ function vPicksDia(){
         <img src="${esc(g.logo_l)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy">
         <b class="sp" style="font-size:15px">${esc(g.local)} – ${esc(g.visitante)}</b>
         <img src="${esc(g.logo_v)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy"></div>
+      ${g.en_juego?`<div class="mut" style="font-size:12.5px;padding:2px 0 6px;line-height:1.45">🎯 Qué se juegan<br>
+        ${[["local",g.local],["visitante",g.visitante]].map(([k,n])=>`${g.en_juego[k].estado==="nada"?"😴":g.en_juego[k].estado==="se_juega"?"🔥":"➖"} <b>${esc(n)}</b>: ${esc(g.en_juego[k].texto)}`).join("<br>")}</div>`:""}
       ${g.picks.map(x=>`<div class="row" style="font-size:14px;padding:5px 0;border-top:1px solid var(--line)">
-        <span style="width:22px">${x.canal?"📢":"🍀"}</span><span class="sp">${esc(x.texto)} ${icono(x.estado)}</span>
+        <span style="width:22px">${x.canal?"📢":"🍀"}</span><span class="sp">${esc(x.texto)} ${icono(x.estado)}${x.sin_motivo?` <span class="chip warn">⚠️ no se juega nada</span>`:""}</span>
         ${x.prob?`<span class="mut" style="font-size:12px;margin-right:8px">${Math.round(x.prob*100)}%</span>`:""}
         <span class="cuota" style="font-size:15px">${x.cuota?"@"+n2(x.cuota):""}</span></div>`).join("")}
     </div>`;
