@@ -76,6 +76,46 @@ def motivo_no(x, usos):
     except Exception as e:
         print("copiar_tipsters (estrellas):", e)
     return None
+# 16/11 (Marcos: «coge para el Telegram las que te gusten: ahora lo importante está en Telegram, tenemos que coger
+# buenos picks y fallar lo menos posible»): ya no se copia todo, solo lo que pasa este filtro de calidad
+PROB_MIN_SUELTO = 0.55      # bet365 (sin margen) tiene que verlo más probable que no (≈ cuota ≤ 1,75)
+ACIERTO_MIN_TIPSTER = 0.50  # tipsters con 8+ resueltos y menos de la mitad acertados: solo si otro canal da lo mismo
+MIN_RESUELTOS = 8
+
+
+def acierto_tipster(nombre):
+    a = (leer(DATOS / "tipsters_aprendizaje.json", {}) or {}).get("tipster", {}).get(nombre) or {}
+    v, r = a.get("verdes", 0), a.get("rojos", 0)
+    return (v / (v + r)) if v + r >= MIN_RESUELTOS else None
+
+
+def calidad_no(x, cu, lista):
+    """Por qué un pick de un canal NO es bastante bueno para nuestro Telegram (o None)."""
+    otros = {y["tipster"] for y in lista if mismo_pick(y) == mismo_pick(x) and y["tipster"] != x["tipster"]}
+    prob = (x.get("analisis") or {}).get("prob_cuota") or (1 / float(cu) / 1.05)
+    if not x.get("combinada") and prob < PROB_MIN_SUELTO and not otros:
+        return f"poco probable para Telegram ({prob:.0%} según bet365)"
+    ac = acierto_tipster(x["tipster"])
+    if ac is not None and ac < ACIERTO_MIN_TIPSTER and not otros:
+        return f"{x['tipster']} acierta solo el {ac:.0%} y nadie más lo da"
+    try:   # a favor de un equipo que no se juega nada contra uno que sí (que_se_juegan)
+        import que_se_juegan
+        from combis_dia import lado
+        s = sel_de(x)
+        if s:
+            fid, m, o = s.split("|")[:3]
+            la = {"Home/Draw": "local", "Draw/Away": "visitante"}.get(o) if m == "Double Chance" else \
+                lado({"mercado": m, "opcion": o, "texto": x.get("texto", "")})
+            if la in ("local", "visitante"):
+                c = que_se_juegan.de_partido(int(fid))
+                otro = "visitante" if la == "local" else "local"
+                if c and c[la]["estado"] == "nada" and c[otro]["estado"] == "se_juega":
+                    return "su equipo no se juega nada y el rival sí"
+    except Exception as e:
+        print("copiar_tipsters (motivación):", str(e)[:100])
+    return None
+
+
 REGISTRO = DATOS / "tipsters_copiados.json"
 COLA = DATOS.parent / "publicaciones" / "cola.json"
 MARGEN = timedelta(minutes=15)
@@ -271,6 +311,13 @@ def main(ahora=None):
         elite = x.get("combinada") and float(cu) >= CUOTA_PATA_ELITE and pata_de_elite(x)   # «España gana es muy, muy buena»
         if float(cu) < CUOTA_MINIMA_PATA and not elite:   # 12/11 (Marcos): ni sola ni en combi por debajo de 1,20
             print(f"Copiar tipsters: {x['texto']} no (cuota {cu} < {CUOTA_MINIMA_PATA})")
+            hechos.add(clave(x))
+            if x.get("combinada"):
+                rotas.add(f"{x['tipster']}|{x['combinada']}")
+            continue
+        mal = calidad_no(x, cu, lista)
+        if mal:   # 16/11: solo lo bueno va a nuestro Telegram
+            print(f"Copiar tipsters: {x['texto']} no ({mal})")
             hechos.add(clave(x))
             if x.get("combinada"):
                 rotas.add(f"{x['tipster']}|{x['combinada']}")
