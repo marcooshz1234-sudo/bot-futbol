@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 14:58",
+ "actualizado": "2026-11-16 15:09",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2915,
-   "hoy": 123,
+   "seguidores": 2918,
+   "hoy": 126,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2915
+    2918
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 430,
-   "hoy": 19,
+   "seguidores": 431,
+   "hoy": 20,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    430
+    431
    ]
   }
  },
- "total": 3389,
- "total_hoy": 144,
+ "total": 3393,
+ "total_hoy": 148,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "15:00",
+  "hora": "15:12",
   "dia": "2026-11-16",
-  "titulo": "El duelo de tiros"
+  "titulo": "Mi combinada de hoy · x24,8"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2915,
+   "threads": 2918,
    "facebook": 1,
-   "telegram": 430
+   "telegram": 431
   }
  },
  "tipos_instagram": {
