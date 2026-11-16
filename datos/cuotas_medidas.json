@@ -1619,5 +1619,69 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-16-loca-th-1400-tiros-b",
+  "fecha": "2026-11-16T14:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528990|Away Player Shots|Denzel Dumfries - 1",
+   "1528990|Home Player Shots|Lennart Karl - 2",
+   "1528990|Away Player Shots|Crysencio Summerville - 2",
+   "1528990|Away Player Shots|Guus Til - 2",
+   "1528990|Away Player Shots|Ruben van Bommel - 2"
+  ],
+  "cuotas": [
+   1.53,
+   1.4,
+   1.4,
+   1.44,
+   1.53
+  ],
+  "real": 5.95,
+  "multiplicando": 6.607,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
  }
 ]
