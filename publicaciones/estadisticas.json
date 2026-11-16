@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 21:29",
+ "actualizado": "2026-11-16 21:39",
  "redes": {
   "instagram": {
    "seguidores": 44,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2991,
-   "hoy": 199,
+   "seguidores": 2992,
+   "hoy": 200,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2991
+    2992
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3475,
- "total_hoy": 230,
+ "total": 3476,
+ "total_hoy": 231,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "21:30",
+  "hora": "22:00",
   "dia": "2026-11-16",
-  "titulo": "Gana y ambos marcan"
+  "titulo": "Ambos marcan mañana"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,7 +216,7 @@
   },
   "2026-11-16": {
    "instagram": 44,
-   "threads": 2991,
+   "threads": 2992,
    "facebook": 1,
    "telegram": 439
   }
