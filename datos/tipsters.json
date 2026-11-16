@@ -2887,5 +2887,43 @@
   ],
   "auto": false,
   "apuntado_por": "Claude 16/11 10:55 (Marcos: «mira Telegram»)"
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47160",
+  "dia": "2026-11-16",
+  "hora": "20:45",
+  "local": "Germany",
+  "visitante": "Netherlands",
+  "texto": "Más de 9,5 remates a puerta en el partido",
+  "mercado": "Shots On Target",
+  "opcion": "Over 9.5",
+  "cuota": 1.61,
+  "stake": 3,
+  "argumento": [
+   "Entre los dos suman casi 14 tiros a puerta de media en sus últimos partidos, bastante por encima de la línea",
+   "En los últimos 5 la suma de ambos superó 9,5 en todos",
+   "Partido de dos selecciones ofensivas que suelen generar muchas llegadas"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100519",
+  "dia": "2026-11-16",
+  "hora": "20:45",
+  "local": "Germany",
+  "visitante": "Netherlands",
+  "texto": "Gol en la 1ª parte y más de 2,5 goles en el partido (Crear apuesta)",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.52,
+  "stake": 3,
+  "argumento": [
+   "Cuotas muy igualadas (1,80 / 2,20): partido abierto entre dos selecciones que buscan ganar",
+   "Ambas llegan en buena racha reciente, con pocas derrotas",
+   "Dos ataques con mucha pegada en Berlín invitan a esperar goles pronto"
+  ],
+  "argumento_propio": true
  }
 ]
