@@ -30,15 +30,22 @@ class QueSeJuegan(unittest.TestCase):
         self.assertIn("ya es 1.º", c["local"]["texto"])
         self.assertEqual(c["visitante"]["estado"], "se_juega")
         self.assertIn("gana: 2.º-3.º", c["visitante"]["texto"])
-        self.assertIn("(play-off para no bajar)", Q.contexto(5, 11)["visitante"]["texto"])   # empata/pierde: 3.º
+        self.assertIn("(se queda)", Q.contexto(5, 11)["visitante"]["texto"])   # empata/pierde: 3.º
         self.assertTrue(Q.sin_motivo(5, 11, "local"))
         self.assertFalse(Q.sin_motivo(5, 11, "visitante"))
 
     def test_eslovenia_se_juega_macedonia_descendida(self):
         c = Q.contexto(5, 12)
         self.assertEqual(c["local"]["estado"], "nada")
-        self.assertIn("desciende", c["local"]["texto"])
+        self.assertIn("play-off para no bajar", c["local"]["texto"])   # 2026-27: el 4.º de la B no baja directo
         self.assertFalse(Q.sin_motivo(5, 12, "visitante"))
+
+    def test_liga_d_nadie_se_juega_nada(self):
+        # 2026-27: en la Liga D suben todos a la C → Gibraltar – Malta no es «se_juega» para nadie
+        Q._cache[5] = [dict(x, league={"id": 5, "round": "League D - 6"}) for x in CAL]
+        c = Q.contexto(5, 12)
+        self.assertEqual(c["visitante"]["estado"], "nada")
+        self.assertIn("sube a la C", c["visitante"]["texto"])
 
     def test_cara_a_cara_primero(self):
         # A y B empatan a 3 puntos; B tiene mejor diferencia general (+4 frente a 0), pero A le ganó: A va delante

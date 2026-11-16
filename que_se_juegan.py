@@ -21,12 +21,13 @@ RAIZ = Path(__file__).parent
 DATOS = RAIZ / "datos"
 MAX_PENDIENTES = 3   # con más partidos por jugar en el grupo (ligas largas, Champions) no se calcula
 TERMINADO = ("FT", "AET", "PEN", "AWD", "WO")
-# Qué significa cada puesto en la Nations League (formato 2024-25; si la UEFA lo cambia, se cambia aquí)
+# Qué significa cada puesto en la Nations League 2026-27 (uefa.com, «all you need to know»; comprobado el 16/11).
+# En la A, el 3.º y el 4.º dependen del ranking entre los terceros/cuartos de los 4 grupos. En la D suben todos.
 SIGNIFICADO = {
-    "League A": {1: "cuartos", 2: "cuartos", 3: "play-off para no bajar", 4: "desciende"},
-    "League B": {1: "sube", 2: "play-off para subir", 3: "play-off para no bajar", 4: "desciende"},
-    "League C": {1: "sube", 2: "play-off para subir", 3: "se queda", 4: "puede ir al play-off de descenso"},
-    "League D": {1: "play-off para subir"},
+    "League A": {1: "cuartos", 2: "cuartos", 3: "se queda o play-off, según ranking", 4: "play-off o desciende, según ranking"},
+    "League B": {1: "sube", 2: "play-off para subir", 3: "se queda", 4: "play-off para no bajar"},
+    "League C": {1: "sube", 2: "play-off para subir", 3: "se queda", 4: "se queda"},
+    "League D": {1: "sube a la C", 2: "sube a la C", 3: "sube a la C", 4: "sube a la C"},
 }
 _cache = {}
 
@@ -136,10 +137,12 @@ def puestos(liga, fid):
     return {"fase": fase, "equipos": {t: {k: sorted(v) for k, v in d.items()} for t, d in out.items()}}
 
 
-def estado(pos):
-    """«nada» / «se_juega» / «poco» a partir de {"G": [..], "E": [..], "P": [..]}."""
+def estado(pos, fase=None):
+    """«nada» / «se_juega» / «poco» a partir de {"G": [..], "E": [..], "P": [..]}. Con la fase, lo que cuenta es
+    lo que SIGNIFICA el puesto (16/11: en la Liga C el 3.º y el 4.º se quedan igual; en la D suben todos)."""
     todos = set().union(*map(set, pos.values()))
-    if len(todos) == 1:
+    sig = SIGNIFICADO.get(fase or "", {})
+    if len(todos) == 1 or len({sig.get(x, x) for x in todos}) == 1:
         return "nada"
     g, p = pos.get("G") or [9], pos.get("P") or [9]
     return "se_juega" if min(g) < min(p) or max(g) < max(p) else "poco"
@@ -156,6 +159,8 @@ def texto(fase, pos):
     if len(todos) == 1:
         s = sig.get(todos[0])
         return f"ya es {todos[0]}.º{f' ({s})' if s else ''} pase lo que pase"
+    if len({sig.get(x, x) for x in todos}) == 1:
+        return f"{_rango(todos)}: {sig[todos[0]]} pase lo que pase"
     def con_sig(v):
         ss = {sig.get(x) for x in v}
         return _rango(v) + (f" ({ss.pop()})" if len(ss) == 1 and None not in ss else "")
@@ -228,7 +233,7 @@ def contexto(liga, fid):
     for lado, k in (("local", "home"), ("visitante", "away")):
         nom = f["teams"][k]["name"]
         pos = r["equipos"][nom]
-        out[lado] = {"equipo": nom, "estado": estado(pos), "texto": texto(r["fase"], pos), "puestos": pos}
+        out[lado] = {"equipo": nom, "estado": estado(pos, r["fase"]), "texto": texto(r["fase"], pos), "puestos": pos}
     return out
 
 
