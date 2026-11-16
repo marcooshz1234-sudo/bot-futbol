@@ -29,6 +29,8 @@
 - Un **pick suelto** (o copia de tipster de una pata) es solo para Telegram, nunca Threads/Instagram.
 - **Copias de los canales (16/11, Marcos: «coge las que te gusten… fallar lo menos posible»; «que pese más el % de acierto de cada tipster»)**: ya no se copia todo. Nota = 40 % lo que ve bet365 + 60 % el acierto del tipster (suavizado: con pocos picks cuenta como 50 %) + 0,10 si lo dan 2 canales; se copia con nota ≥ 0,55. Nunca algo que bet365 vea por debajo del 33 %, ni a favor de un equipo que no se juega nada contra uno que sí. Siempre con su porqué. **El motivo del analista, siempre con otras palabras** (nunca su texto tal cual; si no hay uno reescrito, el bot pone sus propias razones) (16/11 10:53). **De 1,80 para arriba solo los tipsters buenos (≥ 70 % de acierto suavizado: INSIDER, Lafiebredelpick, MAX ANALISTA, TRADER…)** (16/11 10:41).
 
+- 🎯 **Pick del día con más cosas, no solo «gana»** (16/11, Marcos: «quiero más cosas… si es muy probable y está a 1,50-1,70, para adelante»): también córners, «ambos ven tarjeta» y tarjetas de un equipo (nunca totales). Los dos picks del día, de tipos distintos. La promo «2 goles de ventaja» no se escribe en los posts (el verde ya cuenta el 2-0).
+
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).
 - 🤖 Cada pata de una combi: **mínimo 1,20** (12/11). Excepción: UNA pata de 1,15–1,20 si es gana/no pierde de un

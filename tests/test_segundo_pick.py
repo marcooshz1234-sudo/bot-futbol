@@ -23,7 +23,8 @@ class SegundoPick(unittest.TestCase):
             (pub / "auto.json").write_text(json.dumps([{"id": "2026-11-20-pick-seguro", "sel": ["77|To Win Either Half|Home"]}]))
             (pub / "enviados.json").write_text(json.dumps({"2026-11-20-pick-seguro": {"enviado": "2026-11-20T10:30"}}))
             with mock.patch("bot.RAIZ", Path(d)):
-                self.assertEqual(combis_dia.seguro_publicado("2026-11-20"), {"partido_id": 77})
+                self.assertEqual(combis_dia.seguro_publicado("2026-11-20"),
+                                 {"partido_id": 77, "mercado": "To Win Either Half", "opcion": "Home"})
                 self.assertIsNone(combis_dia.seguro_publicado("2026-11-21"))
 
     def test_no_repite_lo_publicado(self):
@@ -32,9 +33,9 @@ class SegundoPick(unittest.TestCase):
                 mock.patch.object(combis_dia, "pick_de_copa", return_value=None), \
                 mock.patch.object(combis_dia, "fijisimo", return_value=True), \
                 mock.patch.object(combis_dia, "suelto_no", return_value=False), \
-                mock.patch.object(combis_dia, "familia", return_value="resultado"), \
-                mock.patch.dict(combis_dia.SEGURO, {"familias": ["resultado"], "prob_min": 0.5}):
-            r = combis_dia.pick_seguro(pools, "2026-11-20", segundo={"partido_id": 77},
+                mock.patch.object(combis_dia, "familia", lambda p: "goles" if p.get("mercado") == "Goals Over/Under" else "resultado"), \
+                mock.patch.dict(combis_dia.SEGURO, {"familias": ["resultado", "goles"], "prob_min": 0.5}):
+            r = combis_dia.pick_seguro(pools, "2026-11-20", segundo={"partido_id": 77, "mercado": "To Win Either Half", "opcion": "Home"},
                                        ya=[("77", "To Win Either Half", "Home")])
         self.assertIsNotNone(r)
         self.assertEqual(r[0]["partido_id"], 88)

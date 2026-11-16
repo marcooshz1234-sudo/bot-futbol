@@ -1149,7 +1149,11 @@ def seguro_publicado(dia):
     for p in leer(pub / "auto.json", []) or []:
         if p.get("id") == f"{dia}-pick-seguro" and (p.get("enviado") or p["id"] in env) and p.get("sel"):
             try:
-                return {"partido_id": int(str(p["sel"][0]).split("|")[0])}
+                pid, *resto = str(p["sel"][0]).split("|")
+                out = {"partido_id": int(pid)}
+                if len(resto) == 2:   # 16/11: también el mercado, para que el 2º pick sea de otro tipo
+                    out.update(mercado=resto[0], opcion=resto[1])
+                return out
             except ValueError:
                 return None
     return None
@@ -1678,7 +1682,20 @@ def estrellas(pools, ya, dia):
     return [(cp, c, h) for _, c, cp, h, _ in cands[:ESTRELLA["max"]]]
 
 
-SEGURO = {"cuota": (1.50, 2.00), "familias": ("resultado", "goles", "jugador"), "hora": (10, 30), "prob_min": 0.62}
+SEGURO = {"cuota": (1.50, 2.00), "familias": ("resultado", "goles", "jugador", "corners", "ambos", "tarjetas"),
+          "hora": (10, 30), "prob_min": 0.62}
+# 16/11 (Marcos: «no siempre solo quién gana, quiero más cosas… si es muy probable y encima está a 1,50-1,70, para
+# adelante»): también córners, «ambos ven tarjeta» y tarjetas de un equipo (nunca las totales, que están prohibidas),
+# y los dos picks del día de tipos distintos (si el de las 10:30 es un «gana», el de las 18:00 es otra cosa).
+
+
+def tipo_pick(p):
+    """16/11: tipo del pick para que los dos del día no sean lo mismo (gana/doble = resultado, córners, tarjetas…)."""
+    try:
+        f = familia(p)
+    except (KeyError, TypeError):
+        return None
+    return {"ambos-tarjeta": "tarjetas", "corners-bajo": "corners"}.get(f, f.split("-")[0])
 # 09/11 (Marcos): desde el 10/11 en Telegram solo «las medio seguras»: 1-2 picks de 1,50-1,70 al día (con razones y
 # stake), la escalera y una combi guapa. El 2º pick seguro sale a las 18:00 (2ª mejor hora en Metricool), de otro partido.
 SEGURO_DESDE = "2026-11-10"
@@ -1769,6 +1786,11 @@ def minimo_diario():
         return True
 
 
+def _excluido(p):
+    import picks as _P
+    return _P.excluido(p.get("mercado"), p.get("opcion"))
+
+
 def pick_seguro(pools, dia, segundo=False, ya=()):
     """(pick, hora) del pick más probable del día con cuota 1,50-2,00 de lo que mejor acierta (resultado, goles y
     jugadores), en un partido que empiece al menos 1 h después de publicarlo. None si ninguno llega al mínimo.
@@ -1794,14 +1816,16 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
     otro = segundo["partido_id"] if segundo else None
     # 13/11: ya = {(partido_id, mercado, opcion)} que ya salieron hoy (el 2º no repite un pick publicado)
     ya = {(int(a), b, c) for a, b, c in ya}
+    tipo_otro = tipo_pick(segundo) if segundo else None
     if dia >= SEGURO_DESDE and primero_tipsters:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
         # 11/11: dentro del rango de Marcos (1,50-1,70); el 1,45-1,85 es solo el plan B (abajo)
         t = pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(lo, hi)) or pick_de_copa(pools, hora, otro, rango=(lo, hi))
-        if t:
+        if t and not (tipo_otro and tipo_pick(t) == tipo_otro):
             return t, hora
     def buscar(lo, hi, prob_min, fijo=True):
         return [p for pool in pools for p in pool
-                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and (p["partido_id"], p["mercado"], p["opcion"]) not in ya and familia(p).split("-")[0] in SEGURO["familias"]
+                if lo <= p["cuota"] <= hi and p["partido_id"] != otro and (p["partido_id"], p["mercado"], p["opcion"]) not in ya and tipo_pick(p) in SEGURO["familias"]
+                and tipo_pick(p) != tipo_otro and not _excluido(p) and not tarjetas_altas(p)
                 and p["prob_aprendida"] >= prob_min and not suelto_no(p) and not p.get("estimada") and (fijisimo(p) or not fijo)
                 and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     cand = buscar(lo, hi, SEGURO["prob_min"])
@@ -1812,7 +1836,7 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
         if not cand:   # 11/11: el tipster del plan B también con el rango ampliado (antes solo si no iban primero)
             t = (pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(min(lo, 1.45), max(hi, 1.85)))
                  or pick_de_copa(pools, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85))))
-            if t:
+            if t and not (tipo_otro and tipo_pick(t) == tipo_otro):
                 print("Mínimo diario: pick de tipster")
                 return t, hora
         if not cand:
