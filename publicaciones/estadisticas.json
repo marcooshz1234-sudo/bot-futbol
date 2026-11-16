@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 16:57",
+ "actualizado": "2026-11-16 17:08",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2942,
-   "hoy": 150,
+   "seguidores": 2944,
+   "hoy": 152,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2942
+    2944
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3421,
- "total_hoy": 176,
+ "total": 3423,
+ "total_hoy": 178,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "17:00",
+  "hora": "17:30",
   "dia": "2026-11-16",
-  "titulo": "Combi del grecia – serbia"
+  "titulo": "Combi del suiza – escocia"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,7 +216,7 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2942,
+   "threads": 2944,
    "facebook": 1,
    "telegram": 435
   }
