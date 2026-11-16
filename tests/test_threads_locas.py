@@ -89,3 +89,36 @@ class ThreadsLocas(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Fallos16Nov(unittest.TestCase):
+    """16/11 (vigilante): «La combi de los empates» chocaba con «Gana Islas Feroe» (combi-m), las patas iban sin orden
+    de hora, «✅» antes de jugarse (parecía ganada) y Albacete–Celta II (Segunda) en un día de Nations."""
+
+    def _pt(self, fid, h):
+        from bot import MADRID
+        return {"fid": fid, "ini": datetime(2026, 11, 16, h, 0, tzinfo=MADRID)}
+
+    def test_choca_con_lo_de_hoy(self):
+        pt = self._pt(1528987, 16)
+        empate = {"mercado": "Match Winner", "opcion": "Draw"}
+        self.assertTrue(T.choca_con([(pt, empate)], {(1528987, "Match Winner", "Home"): 1}))
+        self.assertFalse(T.choca_con([(pt, empate)], {(1528986, "Match Winner", "Home"): 1}))   # otro partido
+        dc = {"mercado": "Double Chance", "opcion": "Home/Draw"}
+        self.assertFalse(T.choca_con([(pt, dc)], {(1528987, "Match Winner", "Home"): 1}))       # «o empate» de la loca
+
+    def test_sin_check_antes_de_jugarse(self):
+        import re
+        self.assertFalse(any(c.startswith("✅") for c in T.CIERRES))
+        import inspect
+        self.assertNotIn('f"✅ {p', inspect.getsource(T.gana_y_ambos))
+
+    def test_dia_bueno_fuera_partidos_menores(self):
+        import inspect
+        self.assertIn("fuera_por_dia_bueno", inspect.getsource(T.partidos_del_dia))
+
+    def test_plan_en_orden_y_sin_choques(self):
+        import inspect
+        src = inspect.getsource(T.plan)
+        self.assertIn('sorted(sel, key=lambda x: (x[0]["ini"]', src)
+        self.assertIn("choca_con(hecho[2], usados)", src)

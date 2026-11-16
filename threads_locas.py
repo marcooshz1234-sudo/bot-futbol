@@ -147,6 +147,9 @@ def partidos_del_dia(dia):
         pa = ex.get("partido")
         if not pa or pa["fixture"]["status"]["short"] not in ("NS", "TBD"):
             continue
+        import combis_dia as C
+        if C.fuera_por_dia_bueno(pa):   # 16/11: día bueno → nada de Segunda ni partidos menores (Albacete–Celta II)
+            continue
         ini = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
         if ini.strftime("%Y-%m-%d") != dia:
             continue
@@ -264,7 +267,7 @@ CHOCAN = {"ambos": {"marca", "doble"}, "marca": {"ambos", "doble"}, "doble": {"a
 
 TITULOS = {50: ["🤑 COMBI x{c} 🤑", "💸 LA DE x{c} 💸"], 100: ["🔥 COMBI POR {c} 🔥", "💯 LA CENTENARIA x{c} 💯"],
            500: ["🤪 LA LOCURA DE x{c} 🤪", "💎 COMBI x{c} 💎"], 1000: ["🚀 COMBI x{c} 🚀", "🎰 LA MILLONARIA x{c} 🎰"]}
-CIERRES = ["🍀 ¿LA PINTAMOS DE VERDE? 👀💚", "🔥 ¡A POR ELLA, FAMILIA! 🔥", "✅ ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+CIERRES = ["🍀 ¿LA PINTAMOS DE VERDE? 👀💚", "🔥 ¡A POR ELLA, FAMILIA! 🔥", "🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
            "💚 ¡A POR EL VERDE! 💚", "👇 ¿Cuál quitaríais? 👇"]
 
 
@@ -387,7 +390,7 @@ def gana_y_ambos(partidos, semilla, usados):
     lineas = ["⚽🏆 GANA Y AMBOS MARCAN 🏆⚽", ""]
     for pt, p in filas:
         lineas.append(f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}")
-        lineas += [f"✅ {p['texto']}", ""]
+        lineas += [f"🏆 {p['texto']}", ""]   # 16/11: nunca ✅ antes de jugarse (parece ganada)
     lineas.pop()
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "🔥 Goles y victoria: así nos gusta 🔥"]
     return filas, cuota, "\n".join(lineas)
@@ -582,6 +585,18 @@ ROTACION = ("x100", "ganaambos", "lista", "duelo", "x50", "hora", "tapados", "x5
 escudos_de = {}   # hora → datos de la foto de los escudos (para posts())
 
 
+def choca_con(sel, usados):
+    """16/11: «La combi de los empates» chocaba con «Gana Islas Feroe» (combi-m) y con la lista de favoritos.
+    True si alguna pata choca con algo que ya va hoy (salvo el «o empate» de la loca, como en comprobar_post)."""
+    from plantillas import choca
+    ya = [f"{k[0]}|{k[1]}|{k[2]}" for k, v in usados.items() if v]
+    for pt, p in sel:
+        s = f"{pt['fid']}|{p['mercado']}|{p['opcion']}"
+        if p["mercado"] != "Double Chance" and any(o != s and choca(s, [o]) for o in ya):   # de uno en uno, como comprobar_post
+            return True
+    return False
+
+
 def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
     """[(hora, tipo, texto, sel)] del día. ya_horas: horas que ya tienen post en Threads (no se pisan)."""
     from bot import MADRID
@@ -604,7 +619,7 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
         objetivo = pt["ini"] - timedelta(hours=HORAS_ANTES)
         h = min(cand, key=lambda x: abs((x - objetivo).total_seconds()))
         r = escudos(pt, usados)
-        if not r:
+        if not r or choca_con(r[0], usados):
             continue
         sel, cuota, texto = r
         for _, p in sel:
@@ -642,12 +657,16 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
                         i_lista += j + 1
                         hecho = (f"lista-{clave}", r[2], r[0])
                         break
+            if hecho and choca_con(hecho[2], usados):   # 16/11: si choca, se prueba el tipo siguiente
+                print("No sale", h.strftime("%H:%M"), hecho[0], "→ choca con otro post de hoy")
+                hecho = None
             if hecho:
                 n += k + 1
                 break
         if not hecho:
             continue
         tipo, texto, sel = hecho
+        sel = sorted(sel, key=lambda x: (x[0]["ini"], x[0]["fid"]))   # 16/11: patas en orden de hora (regla 02/11)
         base_tipo = "lista" if tipo.startswith("lista") else tipo
         try:
             from comprobar_post import bloquea
