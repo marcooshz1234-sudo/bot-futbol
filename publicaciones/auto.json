@@ -5389,8 +5389,8 @@
       1.4,
       1.4,
       1.4,
-      1.44,
-      1.44
+      1.4,
+      1.4
     ],
     "solo_en": [
       "threads"
@@ -5401,7 +5401,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-16T12:33"
   },
   {
     "id": "2026-11-16-loca-th-1430-lista-corners",
