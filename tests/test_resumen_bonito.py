@@ -33,8 +33,7 @@ class ResumenBonito(unittest.TestCase):
         self.assertIn("🎯 Picks sueltos: 3 de 4", t)   # los sueltos, aparte de las combis
         self.assertIn("✅ Gana el Albacete @1,53", t)
         self.assertIn("✅ España gana al descanso @1,61", t)
-        self.assertNotIn("Calvo Sotelo", t)
-        self.assertLessEqual(len(t), 500)
+        self.assertIn("se cayó por: Calvo Sotelo marca", t)   # 16/11 (Marcos): los fallados salen, con su dato y sin ❌
 
     def test_numeros_malos_no_salen(self):
         posts = [dict(p, estado="rojo", picks=[dict(x, estado="rojo") for x in p["picks"]]) for p in self.posts[:2]]

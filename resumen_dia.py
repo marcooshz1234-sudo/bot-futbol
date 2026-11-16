@@ -1,5 +1,6 @@
 """Balance diario del panel (combis) y post nocturno con los PICKS del día (28/10: sin combis ni pendientes)."""
 import json
+import re
 from datetime import datetime
 
 from bot import MADRID, RAIZ, leer
@@ -212,10 +213,27 @@ def textos_picks(picks, dia, posts=(), cola=(), solo=None):
                                                        else f"Combi de {len(ps)} partidos")
             c = f" @{cuota:.2f}".replace('.', ',') if cuota else ''
             lineas.append(f"✅ {t}{c}")
+    # 16/11 (Marcos: «pon las que han fallado con algún dato del partido»): sin ❌ (13/11), con el marcador o el dato
+    fallos = []
+    for _, ps, est, cuota in rp:
+        if est != 'rojo':
+            continue
+        malas = [x for x in ps if x.get('estado') == 'rojo'] or ps[:1]
+        x = malas[0]
+        stat = (x.get('progreso') or {}).get('texto') if isinstance(x.get('progreso'), dict) else None
+        m = x.get('marcador')
+        dato = (x['partido'].replace(' – ', f' {m[0]}–{m[1]} ', 1)
+                if isinstance(m, list) and len(m) == 2 and x.get('partido') else '')
+        if stat and re.search(r'tiro|córner|tarjeta|falta|parada', stat):   # el dato que decidió el pick
+            dato = f"{dato} ({stat.replace(' de ', ' de ', 1)})" if dato else stat
+        c = f" @{cuota:.2f}".replace('.', ',') if cuota and len(ps) == 1 else ''
+        t = x.get('texto', '') if len(ps) == 1 else f"Combi de {len(ps)} (se cayó por: {x.get('texto', '')})"
+        fallos.append(f"🔸 {t}{c}" + (f" · {dato}" if dato else ''))
+    if fallos:
+        lineas += ['', '😤 Se nos escaparon:'] + fallos[:5]
     lineas += ['', '🔔 Mañana más: activad las notificaciones 👀']
     texto = '\n'.join(lineas)
-    if len(texto) > 490:   # Threads: 500 caracteres
-        texto = '\n'.join(l for l in lineas if not l.startswith('✅ ') or l.startswith('✅ ' + str(v)))
+    # 16/11: ya solo va a Telegram (sin el límite de 500 de Threads)
     return texto, texto
 
 

@@ -27,3 +27,15 @@ class ResumenSoloTelegram16Nov(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FallosConDato16Nov(unittest.TestCase):   # 16/11 (Marcos): los fallados, con un dato del partido y sin ❌
+    def test_fallo_con_marcador(self):
+        p = post("2026-11-16-pick-m2", "rojo", [("Grecia marca 2 o más", "rojo")])
+        p["picks"][0].update(partido="Grecia – Serbia", marcador=[1, 0])
+        v = post("2026-11-16-pick-m1", "verde", [("Gana Eslovenia", "verde")])
+        picks, _ = R.picks_dia([v, p], "2026-11-16")
+        texto, _ = R.textos_picks(picks, "2026-11-16", [v, p], [])
+        self.assertIn("Se nos escaparon", texto)
+        self.assertIn("Grecia marca 2 o más · Grecia 1–0 Serbia", texto)
+        self.assertNotIn("❌", texto)
