@@ -119,7 +119,9 @@
   "regla-orden-2026-11-16-loca-th-1300-reto": "2026-11-16T03:05",
   "regla-orden-2026-11-16-loca-th-1530-x100": "2026-11-16T03:05",
   "regla-orden-2026-11-16-loca-th-1700-x50": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-1930-x500": "2026-11-16T03:05"
+  "regla-orden-2026-11-16-loca-th-1930-x500": "2026-11-16T03:05",
+  "check-2026-11-16-loca-th-2030-ganaambos": "2026-11-16T03:15",
+  "regla-orden-2026-11-16-loca-th-1900-x50": "2026-11-16T03:15"
  },
  "abiertos": [
   {
@@ -140,27 +142,19 @@
   },
   {
    "clave": "check-2026-11-16-loca-th-1000-x500",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x472 💎"
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x440 💎"
   },
   {
    "clave": "check-2026-11-16-loca-th-1530-x100",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🔥 COMBI POR 64,08 🔥"
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🔥 COMBI POR 60,08 🔥"
   },
   {
-   "clave": "check-2026-11-16-loca-th-1700-x50",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💸 LA DE x55,74 💸"
-  },
-  {
-   "clave": "check-2026-11-16-loca-th-1900-ganaambos",
+   "clave": "check-2026-11-16-loca-th-2030-ganaambos",
    "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
   },
   {
-   "clave": "check-2026-11-16-loca-th-1930-x500",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤪 LA LOCURA DE x329 🤪"
-  },
-  {
    "clave": "choca-2026-11-16-1528986|Match Winner|Away-1528986|Match Winner|Draw",
-   "t": "⚔️ 16/11: se contradicen (loca-th-0400-x100, loca-th-1130-lista-gana: Match Winner|Away ↔ loca-th-1200-empates: Match Winner|Draw)"
+   "t": "⚔️ 16/11: se contradicen (loca-th-1130-lista-gana: Match Winner|Away ↔ loca-th-1200-empates: Match Winner|Draw)"
   },
   {
    "clave": "choca-2026-11-16-1528987|Match Winner|Draw-1528987|Match Winner|Home",
@@ -180,35 +174,39 @@
   },
   {
    "clave": "regla-orden-2026-11-16-loca-th-0400-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 98,07 🔥» (04:00)"
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 96,60 🔥» (04:00)"
   },
   {
    "clave": "regla-orden-2026-11-16-loca-th-0800-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,48 🤑» (08:00)"
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x44,60 🤑» (08:00)"
   },
   {
    "clave": "regla-orden-2026-11-16-loca-th-1000-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x472 💎» (10:00)"
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x440 💎» (10:00)"
   },
   {
    "clave": "regla-orden-2026-11-16-loca-th-1300-reto",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💶 RETO: DE 1€ A 506€ 💶» (13:00)"
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💶 RETO: DE 1€ A 721€ 💶» (13:00)"
   },
   {
    "clave": "regla-orden-2026-11-16-loca-th-1530-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 64,08 🔥» (15:30)"
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 60,08 🔥» (15:30)"
   },
   {
-   "clave": "regla-orden-2026-11-16-loca-th-1700-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x55,74 💸» (17:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1930-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x329 🤪» (19:30)"
+   "clave": "regla-orden-2026-11-16-loca-th-1900-x50",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,32 🤑» (19:00)"
   }
  ],
- "revisado": "2026-11-16T03:05",
+ "revisado": "2026-11-16T03:15",
  "historial": [
+  {
+   "hora": "2026-11-16T03:15",
+   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
+  },
+  {
+   "hora": "2026-11-16T03:15",
+   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,32 🤑» (19:00)"
+  },
   {
    "hora": "2026-11-16T03:05",
    "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
@@ -440,14 +438,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "📰 Alemania–Países Bajos: «De Jong se perderá el partido entre Países Bajos y Alemania por molestias físicas» (Elbotola) · tenemos 25 post(s) de este partido: combi-m, combi-partido-m-1528990, loca-th-0300-x100, loca-th-0400-lista-ambos, loca-th-0500-x50, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-x1000, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1430-lista-corners, loca-th-1500-x1000, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1730-x500, loca-th-1830-x100, loca-th-1900-lista-ambos, loca-th-1930-x50, loca-th-2000-x500, loca-th-2030-lista-corners"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🪜 Reto escalera · Día 1/7» (11:00)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
   }
  ]
 }

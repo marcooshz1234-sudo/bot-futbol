@@ -1433,17 +1433,177 @@
   "fecha": "2026-11-16T14:00",
   "fuente": "cuota comprobada",
   "sel": [
+   "1570014|Home Player Shots|Alex Rubio - 3",
+   "1570014|Home Player Shots|Higinio Marin - 3",
+   "1570014|Home Player Shots|El Haddadi Munir - 3",
+   "1570014|Home Player Shots|Roberto Gonzalez - 3",
+   "1570014|Home Player Shots|Agustin Albarracin - 3"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.44,
+   1.44
+  ],
+  "real": 3.9,
+  "multiplicando": 5.69,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-16-loca-th-1500-duelo",
+  "fecha": "2026-11-16T15:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570014|Home Player Shots|Higinio Marin - 3",
+   "1570014|Away Player Shots|Angel Arcos - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.5
+  ],
+  "real": 2.13,
+  "multiplicando": 2.1,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-16-loca-th-1630-escudos",
+  "fecha": "2026-11-16T16:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570014|Home Player Shots|Diego Rodriguez - 2",
+   "1570014|Home Player Shots|Alex Rubio - 3",
+   "1570014|Total - Away|Over 0.5",
+   "1570014|Match Winner|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.44,
+   1.62
+  ],
+  "real": 7.32,
+  "multiplicando": 4.572,
+  "aj": 1.3395228897154345,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-16-loca-th-1700-escudos",
+  "fecha": "2026-11-16T17:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528991|Home Player Shots|Fotis Ioannidis - 3",
+   "1528991|Home Player Shots|Vangelis Pavlidis - 3",
+   "1528991|Total - Home|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.5
+  ],
+  "real": 2.74,
+  "multiplicando": 2.94,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-16-loca-th-1730-escudos",
+  "fecha": "2026-11-16T17:30",
+  "fuente": "cuota comprobada",
+  "sel": [
    "1545652|Player Fouls Committed|Lewis Ferguson - 2",
-   "1545652|Home Player Shots|Remo Freuler - 1",
-   "1545652|Player Fouls Committed|Remo Freuler - 1"
+   "1545652|Home Player Shots|Dan Ndoye - 3",
+   "1545652|Double Chance|Draw/Away"
   ],
   "cuotas": [
    1.44,
-   1.44,
-   1.5
+   1.83,
+   2.1
   ],
-  "real": 3.19,
-  "multiplicando": 3.11,
+  "real": 5.58,
+  "multiplicando": 5.534,
   "aj": null,
   "parejas": [
    [
@@ -1451,11 +1611,11 @@
     1.0
    ],
    [
-    "jugador+jugador/partido",
+    "jugador+resultado/partido",
     1.0
    ],
    [
-    "jugador+jugador/partido",
+    "jugador+resultado/contrario",
     1.0
    ]
   ]
