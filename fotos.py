@@ -612,6 +612,12 @@ def quien_gana(filas, titulo, sub=None, liga=None, alto=1350, lema=None):
             bandera = f'<div class="fl">{bandera_real(f.get("pais")) or _bandera(f)}</div>'
         else:   # sin país conocido (p. ej. equipos femeninos): hueco del mismo tamaño, nada de ⚽
             bandera = '<div class="fl" style="visibility:hidden"></div>'
+        # 16/11 (Marcos: «acuérdate de poner las banderas o los escudos siempre»): fila del partido entero (Crear
+        # apuesta): las 2 banderas o los 2 escudos, no «PARTIDO» solo
+        if f.get("pais2") and bandera_real(f.get("pais2")):
+            esc = f'<div class="fl" style="margin-left:8px">{bandera_real(f.get("pais2"))}</div>'
+        elif f.get("escudo2") and Path(f["escudo2"]).is_file():
+            esc += f'<div class="es" style="margin-left:0"><img src="data:image/png;base64,{nitido(Path(f["escudo2"]), h - 22)}"></div>'
         nombre = equipo(f["nombre"])
         lis += (f'<div class="f{cls}"><div class="n"><span>{i}.</span></div>{bandera}{esc}'
                 f'<div class="nom" style="font-size:{_tam(nombre, h // 2 - 4, 14)}px">{e(nombre)}</div><div class="flecha">{"»" if CL else "➜"}</div>'

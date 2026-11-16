@@ -70,7 +70,8 @@ class TarjetaTG(unittest.TestCase):
     def test_menos_de_goles(self):   # 13/11: combi de La Fiebre del Pick
         self.assertEqual(T.fila("Menos de 3,5 goles en Liechtenstein–Azerbaiyán")["pick"], "-3,5 GOLES")
         f = T.fila("Menos de 1,5 goles en la 1ª parte del Andorra–Gibraltar")
-        self.assertEqual((f["nombre"], f["pick"]), ("Andorra – Gibraltar", "-1,5 GOLES 1ªP"))
+        # 16/11 (Marcos: «banderas o escudos siempre»): el partido va con sus 2 banderas
+        self.assertEqual((f["nombre"], f["pick"], f["pais"], f["pais2"]), ("Partido", "-1,5 GOLES 1ªP", "Andorra", "Gibraltar"))
 
     def test_sin_argumento_fuera(self):   # el «Sin argumento: solo el pick» de las copias
         import copiar_tipsters as C
@@ -103,3 +104,26 @@ class SegundoPick(unittest.TestCase):
     def test_titulo_del_segundo_pick(self):
         import inspect, fotos
         self.assertIn("2º PICK DEL DÍA", inspect.getsource(fotos))
+
+
+class BanderasPartido16Nov(unittest.TestCase):
+    """16/11 (Marcos: «acuérdate de poner las banderas o los escudos siempre»): las filas del partido entero
+    (Crear apuesta, más de X en A–B) salían como «PARTIDO» sin banderas."""
+
+    def test_crear_apuesta_con_las_dos_banderas(self):
+        import tarjeta_tg as T
+        fs = T.filas(["Más de 2,5 goles y gol en la 1ª parte en Alemania–Países Bajos (Crear apuesta)"], "Alemania – Países Bajos")
+        self.assertEqual(len(fs), 2)
+        for f in fs:
+            self.assertEqual((f["pais"], f["pais2"]), ("Germany", "Netherlands"))
+
+    def test_mas_de_en_un_partido_con_banderas(self):
+        import tarjeta_tg as T
+        f = T.filas(["Más de 9,5 remates a puerta en Alemania–Países Bajos"])[0]
+        self.assertEqual((f["nombre"], f["pick"], f["pais2"]), ("Partido", "+9,5 A PUERTA", "Netherlands"))
+
+    def test_la_foto_pinta_la_segunda_bandera(self):
+        import fotos
+        html = fotos.quien_gana([{"nombre": "Partido", "pick": "+2,5 GOLES", "pais": "Germany", "pais2": "Netherlands",
+                                  "seleccion": True}], "PICK")
+        self.assertEqual(html.count('class="real"'), 2)

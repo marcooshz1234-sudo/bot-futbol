@@ -114,14 +114,19 @@ def fila(pata, partido=None, partido_ok=False):
                              lambda m: f"+{m.group(1)} {m.group(2).upper()} 1ªP", 3),
                             (r"^Menos de (\d+[,.]5) (goles|córners|tarjetas) en (?:el )?(.+)$",
                              lambda m: f"-{m.group(1)} {m.group(2).upper()}", 3),
-                            (r"^Más de (\d+(?:[,.]5)?) (goles|córners|tarjetas) en (.+)$",
-                             lambda m: f"+{m.group(1)} {m.group(2).upper()}", 3),
+                            (r"^Más de (\d+(?:[,.]5)?) (remates a puerta|goles|córners|tarjetas|remates) en (.+)$",
+                             lambda m: f"+{m.group(1)} {m.group(2).upper().replace('REMATES A PUERTA', 'A PUERTA')}", 3),
                             (r"^Ambos marcan en (.+)$", lambda m: "AMBOS MARCAN", 1)):
         m = re.match(patron, t, re.I)
         if m:
             p = re.sub(r"\s*–\s*", " – ", re.sub(r" Sub-(\d\d)", r" S\1", m.group(n)))
-            return {"nombre": p if len(p) <= 26 else p[:25].rstrip() + "…", "pick": pick(m), "pais": None,
-                    "bandera": "⚽", "seleccion": False, "escudo": ""}
+            r = {"nombre": p if len(p) <= 26 else p[:25].rstrip() + "…", "pick": pick(m), "pais": None,
+                 "bandera": "⚽", "seleccion": False, "escudo": ""}
+            if " – " in p:   # 16/11 (Marcos: «banderas o escudos siempre»): las 2 banderas/escudos del partido
+                c = con_equipos(dict(r, nombre="Partido"), p)
+                if c.get("pais2") or c.get("escudo2"):
+                    return c
+            return r
     for patron, pick in reglas:
         m = re.match(patron, t, re.I)
         if m and len(m.group(1)) <= MAX_NOMBRE:
@@ -156,13 +161,34 @@ def condiciones(pata):
     return out
 
 
+def con_equipos(r, partido):
+    """16/11 (Marcos: «banderas o escudos siempre»): una fila del partido entero lleva las 2 banderas (selecciones)
+    o los 2 escudos (clubes) del partido, en vez de «PARTIDO» solo."""
+    eq = [x.strip() for x in re.split(r"\s*[–-]\s*", partido, maxsplit=1)]
+    if len(eq) != 2:
+        return r
+    pl, pv = _pais(eq[0]), _pais(eq[1])
+    if pl and pv:
+        import semana
+        r.update(pais=pl, pais2=pv, seleccion=True, bandera=semana.BANDERAS.get(pl, "⚽"))
+    else:
+        el, ev = escudo_club(eq[0]), escudo_club(eq[1])
+        if el and ev:
+            r.update(escudo=el, escudo2=ev)
+    return r
+
+
 def filas(ps, partido=None):
     out = []
     for x in ps:
         if re.search(r"crear apuesta", x, re.I):
             m = re.search(r"\sen (?:el )?([A-ZÁÉÍÓÚ][^–(]*?\s*–\s*[^(,]+?)(?:\s*\(|$)", x)
             pn = re.sub(r"\s*–\s*", " – ", m.group(1).strip()) if m else partido
-            out += [fila(c, partido=pn, partido_ok=True) for c in condiciones(x)]
+            for c in condiciones(x):
+                r = fila(c, partido=pn, partido_ok=True)
+                if r and r.get("nombre") == "Partido" and pn:
+                    con_equipos(r, pn)
+                out.append(r)
         else:
             out.append(fila(x, partido))
     return out[:8]
@@ -275,10 +301,11 @@ def hacer(p, texto, todos=None):
             m = re.search(r"⚽\s*(.+?)\s*·", texto)
             crear = any(re.search(r"crear apuesta", x, re.I) for x in ps)
             lem = lema(texto) or hora_partidos(p)
-            if crear and m:   # el partido abajo, con la hora
+            fs = filas(ps, m.group(1) if m else None)
+            if (crear or any(f and f.get("nombre") == "Partido" for f in fs)) and m:   # el partido abajo, con la hora
                 lem = f"{m.group(1).upper()} · {lem}" if lem else m.group(1).upper()
             lid = liga_de(p, texto)
-            G.generar(filas(ps, m.group(1) if m else None), titulo(p, texto), out, "estadio", lema=lem,
+            G.generar(fs, titulo(p, texto), out, "estadio", lema=lem,
                       liga=G.logo_liga(lid) if lid else None)
         except Exception as e:
             print(f"Tarjeta de Telegram de {p['id']}: {e}")
