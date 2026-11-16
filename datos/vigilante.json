@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-15",
  "vistos": {
-  "regla-cuota_alta-2026-11-13-escalera": "2026-11-13T06:06",
   "bucle-gifs-2026111306": "2026-11-13T06:26",
   "bucle-gifs-2026111307": "2026-11-13T07:09",
   "foto-2026-11-13-pick-tip-1": "2026-11-13T13:49",
@@ -124,18 +123,6 @@
  },
  "abiertos": [
   {
-   "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1446-e-threads",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
-  },
-  {
-   "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-e-threads",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
-  },
-  {
-   "clave": "redes-2026-11-15-verde-auto-2026-11-15-pick-tip-1500-t-threads",
-   "t": "⏰ No ha salido en threads (23:41): PARA DENTRO SEÑORES ✅🤑 · error: caducado: no salió a tiempo"
-  },
-  {
    "clave": "check-2026-11-16-loca-th-1000-x500",
    "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x440 💎"
   },
@@ -188,7 +175,7 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,32 🤑» (19:00)"
   }
  ],
- "revisado": "2026-11-16T05:35",
+ "revisado": "2026-11-16T06:18",
  "historial": [
   {
    "hora": "2026-11-16T03:15",
