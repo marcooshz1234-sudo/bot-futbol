@@ -878,21 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/46994",
-   "fecha": "2026-11-12T21:26",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-12T21:44",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_46994.jpg"
-  },
-  {
-   "id": "-1001468963672/46998",
-   "fecha": "2026-11-12T22:42",
-   "texto": "¡PLENO DÍA DE HOY!",
-   "foto": false,
-   "visto": "2026-11-12T22:47"
-  },
-  {
    "id": "-1001468963672/46997",
    "fecha": "2026-11-12T22:42",
    "texto": "✅",
@@ -2373,6 +2358,21 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-16T23:50"
+  },
+  {
+   "id": "-1001468963672/47226",
+   "fecha": "2026-11-16T23:55",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T00:01",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47226.jpg"
+  },
+  {
+   "id": "-1001468963672/47227",
+   "fecha": "2026-11-16T23:56",
+   "texto": "80% DE LAS PLAZAS OCUPADAS\n\n🛒 Accede aquí: https://tipsterperez.tipsterpage.com/55KAi60G\n\n~ A mí nadie me regala nada, esto es trabajo diario y constante, nuestros resultados a medio-largo plazo son para confiar en mi trabajo como Tipster.",
+   "foto": false,
+   "visto": "2026-11-17T00:01"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
