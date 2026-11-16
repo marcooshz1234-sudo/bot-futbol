@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 00:18",
+ "actualizado": "2026-11-17 00:30",
  "redes": {
   "instagram": {
    "seguidores": 44,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3011,
-   "hoy": 2,
+   "seguidores": 3013,
+   "hoy": 4,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3011
+    3013
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 439,
-   "hoy": 0,
+   "seguidores": 440,
+   "hoy": 1,
    "serie": [
     384,
     391,
@@ -50,17 +50,17 @@
     404,
     411,
     439,
-    439
+    440
    ]
   }
  },
- "total": 3495,
- "total_hoy": 2,
+ "total": 3498,
+ "total_hoy": 5,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:30",
+  "hora": "00:35",
   "dia": "2026-11-17",
-  "titulo": "La centenaria x80,85"
+  "titulo": "Nations league - ganadores"
  },
  "ayer": {
   "aciertos": 1,
@@ -222,9 +222,9 @@
   },
   "2026-11-17": {
    "instagram": 44,
-   "threads": 3011,
+   "threads": 3013,
    "facebook": 1,
-   "telegram": 439
+   "telegram": 440
   }
  },
  "tipos_instagram": {
