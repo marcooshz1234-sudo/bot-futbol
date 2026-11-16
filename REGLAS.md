@@ -31,6 +31,7 @@
 
 - 🎯 **Picks de Telegram: lo más probable de TODOS los mercados, sin ser monótonos** (16/11, Marcos: «quiero que salga lo más probable… más de 2,5 goles si lo ves muy probable… que no sea monótono, aunque el gana o gana o empata me gusta»). Resultado, goles, córners, tarjetas, jugadores… Lo prohibido en las combis (más de 2,5 goles, tarjetas del partido) vale aquí solo con prob. ≥ 70 %; el resto de prohibidos (1ª parte, menos de, tiros del partido…), no. Los dos picks del día de tipos distintos (salvo el último plan B del mínimo diario) y lo que salió los 3 días antes resta un poco (el «gana», la mitad). La promo «2 goles de ventaja» no se escribe en los posts (el verde ya cuenta el 2-0).
 - 🎯 **Más picks si hay cuotas buenas** (16/11, Marcos: «si hay más cuotas buenas, que las meta también, y si son de diferente mercado, mejor»; los repetidos pueden salir): hasta 2 picks más en Telegram (12:30 y 16:30, `pick-seguro-3/4`), solo con cuota 1,50-1,70 y prob. ≥ 62 % (sin plan B), sin chocar con lo de hoy; se prefiere un mercado que no haya salido ese día.
+- 📊 **Resumen semanal por privado** (16/11, Marcos): domingo 22:00, acierto de los picks de Telegram por tipo y de las copias; ⚠️ si un tipo baja del 55 % → Marcos decide si se le sube el listón (resumen_semanal.py).
 
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).
