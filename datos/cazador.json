@@ -41,7 +41,7 @@
    "justa": 1.52,
    "ev": 0.006,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Germany",
@@ -52,7 +52,7 @@
    "justa": 2.22,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 1.9
+   "edad_h": 2.4
   },
   {
    "local": "Faroe Islands",
@@ -63,11 +63,11 @@
    "justa": 1.76,
    "ev": -0.015,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-16T04:26",
+  "hora": "2026-11-16T04:53",
   "revisadas": 0,
   "mejor": null
  },
