@@ -3148,5 +3148,30 @@
    1,
    0
   ]
+ },
+ {
+  "tipster": "MERIDIANPICKS 🌐",
+  "fuente": "-1003548284566/27",
+  "dia": "2026-11-16",
+  "local": "Germany",
+  "visitante": "Netherlands",
+  "partido_id": 1528990,
+  "texto": "Gana el Alemania",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.85,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.85,
+   "prob_cuota": 0.541
+  },
+  "estado": "verde",
+  "marcador": [
+   5,
+   0
+  ]
  }
 ]
