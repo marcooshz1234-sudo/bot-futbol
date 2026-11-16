@@ -2896,16 +2896,296 @@
    }
   },
   "1528987": {
-   "hora": "2026-11-16T15:28:54.164730+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-16T15:39:30.221054+01:00",
+   "xi": [
+    "M. Lamhauge",
+    "O. Færø",
+    "G. Vatnhamar",
+    "A. Edmundsson",
+    "J. Benjaminsen",
+    "G. Turi",
+    "J. Bjartalíð",
+    "M. Agnarsson",
+    "Á. Samuelsen",
+    "A. Justinussen",
+    "H. Sørensen",
+    "A. Kozhukhar",
+    "I. Revenco",
+    "V. Baboglo",
+    "S. Negru",
+    "M. Gherasimencov",
+    "O. Reabciuk",
+    "N. Moțpan",
+    "V. Bogaciuc",
+    "S. Perciun",
+    "Petru Popescu",
+    "N. Cleșcenco"
+   ],
+   "banquillo": [
+    "J. Andreasen",
+    "S. Chukwudi",
+    "Á. Dam",
+    "V. í Davidsen",
+    "M. Hellisdal",
+    "P. Kallsberg",
+    "P. Knudsen",
+    "M. Olsen",
+    "A. Petersen",
+    "B. Reynatrod",
+    "A. Svensson",
+    "A. Benjaminsen",
+    "D. Celeadnic",
+    "S. Cojocari",
+    "C. Cucoș",
+    "O. David",
+    "D. Dumbrăvanu",
+    "D. Forov",
+    "D. Marandici",
+    "V. Raţă",
+    "M. Ștefan",
+    "V. Stînă",
+    "A. Betivu",
+    "E. Tîmbur"
+   ],
+   "equipos": {
+    "1098": [
+     {
+      "n": "M. Lamhauge",
+      "pos": "G"
+     },
+     {
+      "n": "O. Færø",
+      "pos": "D"
+     },
+     {
+      "n": "G. Vatnhamar",
+      "pos": "D"
+     },
+     {
+      "n": "A. Edmundsson",
+      "pos": "D"
+     },
+     {
+      "n": "J. Benjaminsen",
+      "pos": "M"
+     },
+     {
+      "n": "G. Turi",
+      "pos": "M"
+     },
+     {
+      "n": "J. Bjartalíð",
+      "pos": "M"
+     },
+     {
+      "n": "M. Agnarsson",
+      "pos": "M"
+     },
+     {
+      "n": "Á. Samuelsen",
+      "pos": "F"
+     },
+     {
+      "n": "A. Justinussen",
+      "pos": "F"
+     },
+     {
+      "n": "H. Sørensen",
+      "pos": "F"
+     }
+    ],
+    "1114": [
+     {
+      "n": "A. Kozhukhar",
+      "pos": "G"
+     },
+     {
+      "n": "I. Revenco",
+      "pos": "D"
+     },
+     {
+      "n": "V. Baboglo",
+      "pos": "D"
+     },
+     {
+      "n": "S. Negru",
+      "pos": "D"
+     },
+     {
+      "n": "M. Gherasimencov",
+      "pos": "D"
+     },
+     {
+      "n": "O. Reabciuk",
+      "pos": "D"
+     },
+     {
+      "n": "N. Moțpan",
+      "pos": "M"
+     },
+     {
+      "n": "V. Bogaciuc",
+      "pos": "M"
+     },
+     {
+      "n": "S. Perciun",
+      "pos": "M"
+     },
+     {
+      "n": "Petru Popescu",
+      "pos": "F"
+     },
+     {
+      "n": "N. Cleșcenco",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1528986": {
-   "hora": "2026-11-16T15:28:54.164730+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-16T15:39:30.221054+01:00",
+   "xi": [
+    "S. Pokatilov",
+    "A. Ashirbek",
+    "S. Maliy",
+    "A. Zhumakhanov",
+    "N. Alip",
+    "B. Islamkhan",
+    "E. Tapalov",
+    "D. Karaman",
+    "Y. Vorogovskiy",
+    "I. Chesnokov",
+    "G. Kenzhebek",
+    "M. Rodák",
+    "T. Pališčák",
+    "Ľ. Šatka",
+    "D. Krčík",
+    "I. Mesík",
+    "S. Nebyla",
+    "P. Pokorný",
+    "T. Rigo",
+    "E. Prekop",
+    "R. Boženík",
+    "L. Haraslín"
+   ],
+   "banquillo": [
+    "Aybol Abiken",
+    "Z. Amir",
+    "I. Bekbolat",
+    "A. Kassym",
+    "R. Orazov",
+    "A. Tuyakbayev",
+    "A. Zarutskiy",
+    "N. Zhagorov",
+    "A. Tiuliubay",
+    "A. Zhaksylykov",
+    "Bekkhan Shayzada",
+    "M. Trusa",
+    "D. Takáč",
+    "J. Surovčík",
+    "D. Strelec",
+    "M. Sauer",
+    "L. Reis",
+    "N. Marcelli",
+    "A. Kaprálik",
+    "T. Hranica",
+    "A. Gajdoš",
+    "T. Bobček"
+   ],
+   "equipos": {
+    "1095": [
+     {
+      "n": "S. Pokatilov",
+      "pos": "G"
+     },
+     {
+      "n": "A. Ashirbek",
+      "pos": "D"
+     },
+     {
+      "n": "S. Maliy",
+      "pos": "D"
+     },
+     {
+      "n": "A. Zhumakhanov",
+      "pos": "D"
+     },
+     {
+      "n": "N. Alip",
+      "pos": "D"
+     },
+     {
+      "n": "B. Islamkhan",
+      "pos": "M"
+     },
+     {
+      "n": "E. Tapalov",
+      "pos": "M"
+     },
+     {
+      "n": "D. Karaman",
+      "pos": "M"
+     },
+     {
+      "n": "Y. Vorogovskiy",
+      "pos": "M"
+     },
+     {
+      "n": "I. Chesnokov",
+      "pos": "F"
+     },
+     {
+      "n": "G. Kenzhebek",
+      "pos": "F"
+     }
+    ],
+    "773": [
+     {
+      "n": "M. Rodák",
+      "pos": "G"
+     },
+     {
+      "n": "T. Pališčák",
+      "pos": "D"
+     },
+     {
+      "n": "Ľ. Šatka",
+      "pos": "D"
+     },
+     {
+      "n": "D. Krčík",
+      "pos": "D"
+     },
+     {
+      "n": "I. Mesík",
+      "pos": "D"
+     },
+     {
+      "n": "S. Nebyla",
+      "pos": "M"
+     },
+     {
+      "n": "P. Pokorný",
+      "pos": "M"
+     },
+     {
+      "n": "T. Rigo",
+      "pos": "M"
+     },
+     {
+      "n": "E. Prekop",
+      "pos": "F"
+     },
+     {
+      "n": "R. Boženík",
+      "pos": "F"
+     },
+     {
+      "n": "L. Haraslín",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

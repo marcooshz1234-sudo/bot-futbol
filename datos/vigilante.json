@@ -131,10 +131,6 @@
  },
  "abiertos": [
   {
-   "clave": "prohibido-2026-11-16-boleto-personal-th",
-   "t": "🚫 Lleva un mercado prohibido (Goalkeeper Saves|Vanja Milinkovic-Savic - 4): 🎯 MI COMBINADA PERSONAL · x14 🔥"
-  },
-  {
    "clave": "prohibido-2026-11-16-boleto-b-th",
    "t": "🚫 Lleva un mercado prohibido (Goalkeeper Saves|Marc-Andre ter Stegen - 3): 🎯 OTRA DE JUGADORES · x12,9 🔥"
   },
@@ -167,16 +163,16 @@
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-16-1528986|Match Winner|Away",
-   "t": "🔁 16/11: el mismo pronóstico en 5 posts (boleto-larga, boleto-l1-th, boleto-propia-th-2, escalera, loca-th-1130-lista-gana)"
+   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
   },
   {
    "clave": "repe-2026-11-16-1528990|Match Winner|Home",
    "t": "🔁 16/11: el mismo pronóstico en 5 posts (boleto-larga, boleto-l1-th, boleto-c-th, boleto-aumento-th, loca-th-1130-lista-gana)"
   },
   {
-   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
+   "clave": "repe-2026-11-16-1528986|Match Winner|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 5 posts (boleto-larga, boleto-l1-th, boleto-propia-th-2, escalera, loca-th-1130-lista-gana)"
   },
   {
    "clave": "repe-2026-11-16-1528990|Both Teams Score|Yes",
@@ -195,7 +191,7 @@
    "t": "📏 Regla (escudos): combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): Home Corners Over/Under|Over 2.5 · «Os dejo la combi del Gales – Portugal ⚽🔥» (19:45)"
   }
  ],
- "revisado": "2026-11-16T15:30",
+ "revisado": "2026-11-16T15:40",
  "historial": [
   {
    "hora": "2026-11-16T15:09",
