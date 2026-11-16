@@ -7351,7 +7351,14 @@
     "directo": true,
     "nota": "16/11 Marcos: «sube de nuevo el buenos días… algo guay, qué pena las tres que fallamos ayer»",
     "enviado": "2026-11-16T10:22",
-    "mensaje_id": 496
+    "mensaje_id": 496,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-pick-tip-2",
@@ -7370,6 +7377,13 @@
     ],
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "enviado": "2026-11-16T10:58",
-    "mensaje_id": 498
+    "mensaje_id": 498,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
