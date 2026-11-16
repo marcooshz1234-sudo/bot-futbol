@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 22:50",
+ "actualizado": "2026-11-16 23:00",
  "redes": {
   "instagram": {
    "seguidores": 44,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3003,
-   "hoy": 211,
+   "seguidores": 3004,
+   "hoy": 212,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    3003
+    3004
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 440,
-   "hoy": 29,
+   "seguidores": 441,
+   "hoy": 30,
    "serie": [
     378,
     384,
@@ -50,15 +50,15 @@
     401,
     404,
     411,
-    440
+    441
    ]
   }
  },
- "total": 3488,
- "total_hoy": 243,
+ "total": 3490,
+ "total_hoy": 245,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "22:57",
+  "hora": "23:11",
   "dia": "2026-11-16",
   "titulo": "Para dentro señores"
  },
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 44,
-   "threads": 3003,
+   "threads": 3004,
    "facebook": 1,
-   "telegram": 440
+   "telegram": 441
   }
  },
  "tipos_instagram": {
