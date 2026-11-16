@@ -2963,5 +2963,59 @@
    "cuota_bet365": 1.48,
    "prob_cuota": 0.676
   }
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/86989",
+  "dia": "2026-11-16",
+  "hora": "20:45",
+  "local": "Greece",
+  "visitante": "Serbia",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.66,
+  "argumento": [
+   "Dos selecciones con delanteros de nivel y obligadas a buscar puntos en la última jornada de grupo",
+   "Partido abierto: ninguno de los dos se conforma con el empate, lo que suele traer más ocasiones",
+   "Cuota de 1.66 razonable para una línea de 3 goles en un cruce igualado"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
+  "fuente": "-1002181392017/15481",
+  "dia": "2026-11-16",
+  "hora": "20:45",
+  "local": "Germany",
+  "visitante": "Netherlands",
+  "texto": "Crear apuesta: ambos marcan + más de 2.5 goles",
+  "mercado": "Bet Builder",
+  "opcion": "BTTS Sí + Over 2.5",
+  "cuota": 1.6,
+  "argumento": [
+   "Dos ataques de los más potentes de Europa, con mucha pegada desde banda y segunda línea",
+   "Los últimos Alemania-Países Bajos han sido partidos de ida y vuelta con goles en ambas porterías",
+   "Ninguno de los dos se cierra atrás: juegan para ganar y dejan espacios"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "ENZO TIPSTER🇦🇷",
+  "fuente": "-1002819019921/6772",
+  "dia": "2026-11-16",
+  "hora": "20:45",
+  "local": "Switzerland",
+  "visitante": "Scotland",
+  "texto": "Escocia más de 2.5 tiros a puerta",
+  "mercado": "Team Shots On Target",
+  "opcion": "Away Over 2.5",
+  "cuota": 1.53,
+  "argumento": [
+   "Escocia necesita resultado y saldrá a buscar el partido más que otras veces",
+   "Suiza concede algunos disparos cuando lleva el balón y deja transiciones",
+   "Línea baja: con 3 remates entre palos en 90 minutos basta"
+  ],
+  "argumento_propio": true
  }
 ]
