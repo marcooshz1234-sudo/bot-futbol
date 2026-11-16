@@ -86,11 +86,32 @@ PESO_BET365, PESO_TIPSTER, EXTRA_CONSENSO, NOTA_MIN = 0.40, 0.60, 0.10, 0.55
 PROB_SUELO = 0.33           # ni el mejor tipster: nada que bet365 vea por debajo del 33 %
 
 
+def clave_tipster(nombre):
+    """16/11: el mismo canal llega con y sin emojis («TRADER FOOTBALL || FREE👨🏼‍💻» / «TRADER FOOTBALL || FREE»,
+    «𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️» / «MAX ANALISTA»): su acierto salía partido en dos. Clave = solo letras y números."""
+    import unicodedata
+    t = unicodedata.normalize("NFKD", str(nombre or ""))
+    return "".join(c for c in t if c.isalnum() and c.isascii()).lower()
+
+
 def acierto_tipster(nombre):
-    """Acierto suavizado del tipster: (verdes + 2) / (resueltos + 4). Sin historial, 0,5."""
-    a = (leer(DATOS / "tipsters_aprendizaje.json", {}) or {}).get("tipster", {}).get(nombre) or {}
-    v, r = a.get("verdes", 0), a.get("rojos", 0)
+    """Acierto suavizado del tipster: (verdes + 2) / (resueltos + 4). Sin historial, 0,5. Suma todas las formas
+    de escribir su nombre (16/11)."""
+    k = clave_tipster(nombre)
+    v = r = 0
+    for n, a in ((leer(DATOS / "tipsters_aprendizaje.json", {}) or {}).get("tipster", {}) or {}).items():
+        if clave_tipster(n) == k:
+            v, r = v + a.get("verdes", 0), r + a.get("rojos", 0)
     return (v + 2) / (v + r + 4)
+
+
+# 16/11 (Marcos: «la de Tipster Pérez… me gusta mucho»): sus picks se copian siempre (sin nota ni tope de 1,80);
+# solo se frena lo que bet365 ve por debajo del suelo y lo que va a favor de un equipo que no se juega nada
+FAVORITOS = {"tipsterperez"}
+
+
+def favorito(nombre):
+    return clave_tipster(nombre) in FAVORITOS
 
 
 TIPSTER_BUENO = 0.70   # 16/11 10:41 (Marcos: «a los tipsters buenos les dejamos pasar del 1,8»)
@@ -102,7 +123,8 @@ def tipster_bueno(x):
 
 
 def nota_pick(x, cu, lista):
-    otros = {y["tipster"] for y in lista if mismo_pick(y) == mismo_pick(x) and y["tipster"] != x["tipster"]}
+    otros = {clave_tipster(y["tipster"]) for y in lista if mismo_pick(y) == mismo_pick(x)
+             and clave_tipster(y["tipster"]) != clave_tipster(x["tipster"])}
     prob = (x.get("analisis") or {}).get("prob_cuota") or (1 / float(cu) / 1.05)
     nota = PESO_BET365 * prob + PESO_TIPSTER * acierto_tipster(x["tipster"]) + (EXTRA_CONSENSO if otros else 0)
     return round(nota, 3), prob, otros
@@ -112,11 +134,12 @@ def calidad_no(x, cu, lista):
     """Por qué un pick de un canal NO es bastante bueno para nuestro Telegram (o None)."""
     nota, prob, otros = nota_pick(x, cu, lista)
     from bot import CUOTA_MAXIMA_PATA
-    if not x.get("combinada") and float(cu) > CUOTA_MAXIMA_PATA and not tipster_bueno(x):
+    fav = favorito(x.get("tipster"))
+    if not x.get("combinada") and float(cu) > CUOTA_MAXIMA_PATA and not tipster_bueno(x) and not fav:
         return f"cuota {cu} > {CUOTA_MAXIMA_PATA} y {x['tipster']} no está entre los buenos (≥ {TIPSTER_BUENO:.0%})"
     if prob < PROB_SUELO:
         return f"demasiado arriesgado ({prob:.0%} según bet365)"
-    if not x.get("combinada") and nota < NOTA_MIN:
+    if not x.get("combinada") and nota < NOTA_MIN and not fav:
         return (f"nota {nota:.2f} < {NOTA_MIN} (bet365 {prob:.0%}, {x['tipster']} acierta "
                 f"{acierto_tipster(x['tipster']):.0%}{', y lo da otro canal' if otros else ''})")
     try:   # a favor de un equipo que no se juega nada contra uno que sí (que_se_juegan)

@@ -597,8 +597,9 @@ def choca_con(sel, usados):
     return False
 
 
-def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
-    """[(hora, tipo, texto, sel)] del día. ya_horas: horas que ya tienen post en Threads (no se pisan)."""
+def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None, horas=None, max_escudos=None):
+    """[(hora, tipo, texto, sel)] del día. ya_horas: horas que ya tienen post en Threads (no se pisan).
+    16/11: horas = huecos concretos (p. ej. la noche de antes con los partidos de «dia»); max_escudos = tope de escudos."""
     from bot import MADRID
     desde = desde or datetime.now(MADRID)
     todos = partidos_del_dia(dia)
@@ -606,7 +607,10 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
     veces, ultimo, firmas = {}, None, set()
     lleno = dia_lleno(todos)
     max_esc = ESCUDOS_DIA_LLENO if lleno else ESCUDOS_DIA[1]
-    libres = [h for h in huecos(dia, desde, lleno) if not any(abs((h - y).total_seconds()) < 15 * 60 for y in ya_horas)]
+    if max_escudos is not None:
+        max_esc = max_escudos
+    libres = [h for h in (horas if horas is not None else huecos(dia, desde, lleno))
+              if not any(abs((h - y).total_seconds()) < 15 * 60 for y in ya_horas)]
     hechos_esc = 0
     orden_esc = sorted([pt for pt in todos if pt["fid"] not in (con_escudos or set())],
                        key=lambda pt: (not partidazo(pt), -len(pt["patas"]), pt["ini"]))
@@ -701,6 +705,63 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None):
     return sorted(out, key=lambda x: x[0])
 
 
+def previos_de(dia):
+    """Picks que ya van en los posts de «dia» (no locas, salvo las de la noche de antes) y partidos con escudos."""
+    previos, con_esc = {}, set()
+    for f in ("auto.json", "cola.json"):
+        for p in leer(PUB / f, []) or []:
+            if p["id"].startswith(dia) and ("-loca-th-" not in p["id"] or "-loca-th-noche-" in p["id"]) and not p.get("verde_de") \
+                    and not re.search(r"verde|rojo|balance|resumen|ganadores", p["id"]):
+                for s_ in set(p.get("sel") or []):
+                    f_, m_, o_ = (str(s_).split("|") + ["", ""])[:3]
+                    if f_.isdigit():
+                        previos[(int(f_), m_, o_)] = previos.get((int(f_), m_, o_), 0) + 1
+                        if "combi-partido" in p["id"] or p["id"].endswith("-escudos"):   # ese partido ya tiene escudos
+                            con_esc.add(int(f_))
+    return previos, con_esc
+
+
+NOCHE = {"desde": (21, 0), "hasta": (23, 30), "escudos": 1}   # 16/11 (Marcos): por la noche, lo de mañana
+MANANA = ((" HOY", " MAÑANA"), ("DEL DÍA", "DE MAÑANA"), ("Hoy vamos", "Mañana vamos"), (" hoy", " mañana"))
+
+
+def posts_noche(hoy, ahora=None):
+    """16/11 (Marcos: «sí»): de 21:00 a 23:30, cada 30 min, posts locos con los partidos de MAÑANA (cuando ya han
+    empezado los de hoy no salía nada hasta la madrugada). Id del día de los partidos («…-loca-th-noche-»)."""
+    from bot import MADRID
+    ahora = ahora or datetime.now(MADRID)
+    manana = (datetime.fromisoformat(hoy) + timedelta(days=1)).strftime("%Y-%m-%d")
+    t = datetime.fromisoformat(hoy).replace(tzinfo=MADRID, hour=NOCHE["desde"][0], minute=NOCHE["desde"][1])
+    fin = t.replace(hour=NOCHE["hasta"][0], minute=NOCHE["hasta"][1])
+    horas = []
+    while t <= fin:
+        if t >= ahora:
+            horas.append(t)
+        t += timedelta(minutes=HUECO_DIA)
+    ya = []
+    for f in ("auto.json", "cola.json"):
+        for p in leer(PUB / f, []) or []:
+            if p.get("fecha", "")[:10] == hoy and "threads" in (p.get("solo_en") or ["threads"]) \
+                    and not re.search(r"verde|rojo|balance|resumen", p["id"]):
+                ya.append(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID))
+    previos, con_esc = previos_de(manana)
+    salida = []
+    for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(manana, ahora, ya, previos, con_esc, horas=horas,
+                                                            max_escudos=NOCHE["escudos"])):
+        for a, b in MANANA:
+            texto = texto.replace(a, b)
+        p = {"id": f"{manana}-loca-th-noche-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
+             "texto": texto, "sel": sel, "cuotas": cuotas, "origen": "threads_locas", "cuota_bet365": cuota_txt(texto),
+             "fijo": True, "directo": True, "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1}
+        if tipo == "escudos":
+            p.update(solo_redes=True, tarjeta=escudos_de.get(h), cuota_total=cuota_txt(texto), cuota_calculada=True)
+        else:
+            p.update(solo_en=["threads"], sin_foto=True, sin_porque=True)
+        if len(texto) <= 500:
+            salida.append(p)
+    return salida
+
+
 def posts(dia, desde=None, sin_locas=False):
     """Los posts para publicaciones/auto.json (solo Threads). sin_locas: no cuentan las locas ya puestas (rehacer)."""
     ya = []
@@ -712,17 +773,7 @@ def posts(dia, desde=None, sin_locas=False):
                     and not re.search(r"verde|rojo|balance|resumen", p["id"]):
                 from bot import MADRID
                 ya.append(datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID))
-    previos, con_esc = {}, set()
-    for f in ("auto.json", "cola.json"):
-        for p in leer(PUB / f, []) or []:
-            if p["id"].startswith(dia) and "-loca-th-" not in p["id"] and not p.get("verde_de") \
-                    and not re.search(r"verde|rojo|balance|resumen|ganadores", p["id"]):
-                for s_ in set(p.get("sel") or []):
-                    f_, m_, o_ = (str(s_).split("|") + ["", ""])[:3]
-                    if f_.isdigit():
-                        previos[(int(f_), m_, o_)] = previos.get((int(f_), m_, o_), 0) + 1
-                        if "combi-partido" in p["id"]:   # ese partido ya tiene su combi con escudos
-                            con_esc.add(int(f_))
+    previos, con_esc = previos_de(dia)
     salida = []
     for i, (h, tipo, texto, sel, cuotas) in enumerate(plan(dia, desde, ya, previos, con_esc)):
         if tipo == "escudos":
@@ -757,16 +808,22 @@ if __name__ == "__main__":
     hoy = datetime.now(MADRID).strftime("%Y-%m-%d")
     if "--auto" in sys.argv:   # en el bucle: una vez al día (en cuanto empieza el día), el plan de hoy
         auto = leer(PUB / "auto.json", []) or []
-        if not any(p["id"].startswith(f"{hoy}-loca-th-") for p in auto):
+        if not any(p["id"].startswith(f"{hoy}-loca-th-") and "-loca-th-noche-" not in p["id"] for p in auto):
             ps = posts(hoy)
             guardar(ps)
             print(f"threads_locas: {len(ps)} posts para {hoy}")
+        manana = (datetime.now(MADRID) + timedelta(days=1)).strftime("%Y-%m-%d")
+        if datetime.now(MADRID).hour >= 20 and not any(p["id"].startswith(f"{manana}-loca-th-noche-") for p in auto):
+            ps = posts_noche(hoy)   # 16/11: la noche, con lo de mañana
+            guardar(ps)
+            print(f"threads_locas: {len(ps)} posts de noche con lo de {manana}")
         raise SystemExit(0)
     dia = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("-") else hoy
     ps = posts(dia, sin_locas="--rehacer" in sys.argv)
     if "--rehacer" in sys.argv:   # quita las locas de ese día que aún no han salido y pone las nuevas
         auto = [p for p in leer(PUB / "auto.json", []) or []
-                if not (p["id"].startswith(f"{dia}-loca-th-") and not any((p.get("redes") or {}).values()))]
+                if not (p["id"].startswith(f"{dia}-loca-th-") and "-loca-th-noche-" not in p["id"]
+                        and not any((p.get("redes") or {}).values()))]
         (PUB / "auto.json").write_text(json.dumps(auto, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         guardar(ps)
         print(f"{len(ps)} posts locos rehechos para {dia}")

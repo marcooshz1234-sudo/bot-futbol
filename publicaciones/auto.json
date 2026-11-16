@@ -7102,5 +7102,69 @@
     "solo_redes": true,
     "cuota_total": 5.01,
     "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-16-loca-th-1400-tiros-b",
+    "fecha": "2026-11-16T14:00",
+    "texto": "🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯\n\n⭐ Alemania – Países Bajos · 20:45\n🎯 Denzel Dumfries: 1+ tiros\n🎯 Lennart Karl: 2+ tiros\n🎯 Crysencio Summerville: 2+ tiros\n🎯 Guus Til: 2+ tiros\n🎯 Ruben van Bommel: 2+ tiros\n\n🎯 CUOTA 5,95 aprox. 💎 · 10€ → 59,50€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1528990|Away Player Shots|Denzel Dumfries - 1",
+      "1528990|Home Player Shots|Lennart Karl - 2",
+      "1528990|Away Player Shots|Crysencio Summerville - 2",
+      "1528990|Away Player Shots|Guus Til - 2",
+      "1528990|Away Player Shots|Ruben van Bommel - 2"
+    ],
+    "cuotas": [
+      1.53,
+      1.4,
+      1.4,
+      1.53,
+      1.53
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 5.95,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "nota": "16/11 Marcos: sustituye al de Albacete (Segunda en día bueno)"
+  },
+  {
+    "id": "2026-11-16-loca-th-1630-x1000-b",
+    "fecha": "2026-11-16T16:30",
+    "texto": "🎰 LA MILLONARIA x1.268 🎰\n\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Bulgaria más córners\n🇱🇹 Lituania–Liechtenstein 18:00\n⚽ Liechtenstein marca\n🇩🇪 Alemania–Países Bajos 20:45\n🎯 Donyell Malen: 4+ tiros\n🇬🇷 Grecia–Serbia 20:45\n🎯 Aleksandar Mitrovic: 3+ tiros · 🛡️ Serbia o empate\n🇨🇭 Suiza–Escocia 20:45\n🎯 Cedric Itten: 4+ tiros · 🏆 Escocia gana una parte\n\n🎯 CUOTA 1.268 aprox. 💎 10€ → 12.678€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1528988|Corners 1x2|Away",
+      "1528989|Total - Away|Over 0.5",
+      "1528990|Away Player Shots|Donyell Malen - 4",
+      "1528991|Away Player Shots|Aleksandar Mitrovic - 3",
+      "1528991|Double Chance|Draw/Away",
+      "1545652|Home Player Shots|Cedric Itten - 4",
+      "1545652|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      2.6,
+      3.5,
+      2.5,
+      2.5,
+      2.75,
+      2.75,
+      2.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 1268.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "nota": "16/11 Marcos: sustituye al de Albacete (Segunda en día bueno)"
   }
 ]

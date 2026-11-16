@@ -1,6 +1,7 @@
 """16/11 (Marcos): contenido constante en Threads (cada 30 min de día, cada hora de madrugada), combis locas por 50,
 100, 500 y 1000, listas y tiros de jugadores habituales. Solo Threads, sin porqué, con las normas de siempre."""
 import unittest
+from pathlib import Path
 from datetime import datetime
 
 import threads_locas as T
@@ -122,3 +123,32 @@ class Fallos16Nov(unittest.TestCase):
         src = inspect.getsource(T.plan)
         self.assertIn('sorted(sel, key=lambda x: (x[0]["ini"]', src)
         self.assertIn("choca_con(hecho[2], usados)", src)
+
+
+class Noche16Nov(unittest.TestCase):
+    """16/11 (Marcos: «sí»): de 21:00 a 23:30 salían 0 posts (ya habían empezado los partidos de hoy):
+    ahora salen con los partidos de MAÑANA, con id de mañana («-loca-th-noche-») y sin pisar el plan del día."""
+
+    def test_noche_con_lo_de_manana(self):
+        from datetime import datetime
+        from unittest import mock
+        import threads_locas as T
+        from bot import MADRID
+        visto = {}
+
+        def plan(dia, desde, ya, previos, con_esc, horas=None, max_escudos=None):
+            visto.update(dia=dia, horas=[h.strftime("%H:%M") for h in horas], max_escudos=max_escudos)
+            return [(horas[0], "lista-ambos", "⚽ AMBOS MARCAN HOY ⚽\n\n1. A–B ➜ Ambos marcan @1,60", ["1|Both Teams Score|Yes"], [1.6])]
+        with mock.patch.object(T, "plan", plan), mock.patch.object(T, "leer", lambda *a: []):
+            ps = T.posts_noche("2099-06-01", datetime(2099, 6, 1, 21, 10, tzinfo=MADRID))
+        self.assertEqual(visto["dia"], "2099-06-02")
+        self.assertEqual(visto["horas"], ["21:30", "22:00", "22:30", "23:00", "23:30"])
+        self.assertEqual(visto["max_escudos"], 1)
+        self.assertEqual(ps[0]["id"], "2099-06-02-loca-th-noche-2130-lista-ambos")
+        self.assertEqual(ps[0]["fecha"], "2099-06-01T21:30")
+        self.assertIn("MAÑANA", ps[0]["texto"])
+        self.assertNotIn("HOY", ps[0]["texto"])
+
+    def test_la_noche_no_tapa_el_plan_del_dia(self):
+        src = (Path(__file__).resolve().parent.parent / "threads_locas.py").read_text(encoding="utf-8")
+        self.assertIn('"-loca-th-noche-" not in p["id"] for p in auto', src)
