@@ -971,7 +971,9 @@ def no_jugo(pick, partido):
         nombre = o.rsplit(" - ", 1)[0] if " - " in o else o
     cands = [j for lista in (partido.get("jugadores") or {}).values() for j in lista
              if (j.get("id") == pick["jugador_id"] if pick.get("jugador_id") else mismo_jugador(nombre, j.get("nombre")))]
-    return len(cands) == 1 and not cands[0].get("min") and not sustituto_de(partido, cands[0])
+    # 17/11: Kobel (90 minutos) salía «anulada» porque la fuente no traía sus minutos (None ≠ 0): sin el dato, no se decide
+    m = cands[0].get("min") if len(cands) == 1 else None
+    return len(cands) == 1 and m is not None and str(m).strip() in ("0", "0.0") and not sustituto_de(partido, cands[0])
 
 
 def historial():
