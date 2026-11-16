@@ -7776,5 +7776,34 @@
       "facebook": null,
       "threads": "18132006235910229"
     }
+  },
+  {
+    "id": "2026-11-16-boleto-aumento-th",
+    "fecha": "2026-11-16T15:18",
+    "foto": "publicaciones/media/2026-11-16-boleto-aumento-th.jpg",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "cuota_total": 9.75,
+    "sel": [
+      "1528990|Match Winner|Home",
+      "1528990|Home Player Shots|Derry Scherhant - 2",
+      "1528990|Home Player Shots|Florian Wirtz - 2",
+      "1528990|Away Player Shots|Crysencio Summerville - 2",
+      "1528990|Player Fouls Committed|Derry Scherhant - 1",
+      "1528990|Goalkeeper Saves|Marc-Andre ter Stegen - 2"
+    ],
+    "cuotas": [
+      1.85,
+      1.33,
+      1.2,
+      1.4,
+      1.12,
+      1.2
+    ],
+    "nota": "16/11 Marcos: «sube esta diciendo que es la del aumento del 30 %» (Crear apuesta 9,75 + 30 % de bet365; menos de 5 tarjetas y menos de 12 córners sin sel: la API no da esas líneas)",
+    "texto": "🚀 CON EL 30 % DE AUMENTO DE BET365 🚀\n\n🇩🇪🇳🇱 Alemania–Países Bajos · 20:45\n🏆 Gana Alemania\n🎯 Derry Scherhant, Florian Wirtz y Crysencio Summerville 2+ remates\n🟨 Menos de 5 tarjetas · 🚩 Menos de 12 córners\n🦶 Derry Scherhant 1+ falta · 🧤 Marc-André ter Stegen 2+ paradas\n\n🎯 CUOTA 9,75 (+30 %) 💎 10€ → 123,75€\n🍀 ¿Quién se sube? 👇"
   }
 ]
