@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 16:17",
+ "actualizado": "2026-11-16 16:47",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2931,
-   "hoy": 139,
+   "seguidores": 2940,
+   "hoy": 148,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2931
+    2940
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 434,
-   "hoy": 23,
+   "seguidores": 435,
+   "hoy": 24,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    434
+    435
    ]
   }
  },
- "total": 3409,
- "total_hoy": 164,
+ "total": 3419,
+ "total_hoy": 174,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "16:20",
+  "hora": "17:00",
   "dia": "2026-11-16",
-  "titulo": "La cortita · x5,4"
+  "titulo": "Combi del grecia – serbia"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2931,
+   "threads": 2940,
    "facebook": 1,
-   "telegram": 434
+   "telegram": 435
   }
  },
  "tipos_instagram": {

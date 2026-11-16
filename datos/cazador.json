@@ -40,8 +40,8 @@
    "cuota": 1.67,
    "justa": 1.61,
    "ev": 0.039,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "fuente": "las otras casas",
+   "edad_h": 0.6
   },
   {
    "local": "Switzerland",
@@ -52,7 +52,7 @@
    "justa": 1.95,
    "ev": 0.027,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.6
   },
   {
    "local": "Switzerland",
@@ -60,10 +60,32 @@
    "inicio": "2026-11-16T20:45",
    "texto": "Scotland o empate",
    "cuota": 2.1,
-   "justa": 2.11,
-   "ev": -0.005,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "justa": 2.12,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 0.6
+  },
+  {
+   "local": "Germany",
+   "visitante": "Netherlands",
+   "inicio": "2026-11-16T20:45",
+   "texto": "Netherlands marca 2 o más",
+   "cuota": 2.2,
+   "justa": 2.23,
+   "ev": -0.014,
+   "fuente": "las otras casas",
+   "edad_h": 0.6
+  },
+  {
+   "local": "Iceland",
+   "visitante": "Luxembourg",
+   "inicio": "2026-11-16T18:00",
+   "texto": "Iceland marca 3 o más",
+   "cuota": 2.2,
+   "justa": 2.24,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 0.6
   },
   {
    "local": "Iceland",
@@ -73,12 +95,12 @@
    "cuota": 1.4,
    "justa": 1.42,
    "ev": -0.017,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "fuente": "las otras casas",
+   "edad_h": 0.6
   }
  ],
  "ultima": {
-  "hora": "2026-11-16T16:07",
+  "hora": "2026-11-16T16:47",
   "revisadas": 0,
   "mejor": null
  },
