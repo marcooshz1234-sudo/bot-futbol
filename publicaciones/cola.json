@@ -7996,6 +7996,13 @@
       "telegram"
     ],
     "enviado": "2026-11-16T20:25",
-    "mensaje_id": 511
+    "mensaje_id": 511,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
