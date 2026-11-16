@@ -307,6 +307,58 @@ def posts_por_equipo(dia):
 MAX_POSTS_EQUIPO = 2
 
 
+MOTIVO_MENOS, MOTIVO_MAS = 0.04, 0.03
+
+
+def con_motivacion(ex, pool):
+    """16/11 (Marcos: «si un equipo se juega algo tiene más probabilidad de hacer ciertas cosas, goles, tiros,
+    faltas… que lo tenga en cuenta siempre, igual en la Champions»): en un partido donde un equipo no se juega nada
+    y el otro sí, las patas del que se lo juega (gana, sus goles, sus tiros, sus córners, sus jugadores) suben un poco
+    y las del que no se juega nada bajan. Lo de favorito/no favorito ya lo mide contexto.py con lo aprendido."""
+    pa = ex.get("partido") or {}
+    try:
+        import que_se_juegan
+        c = que_se_juegan.contexto(pa["league"]["id"], pa["fixture"]["id"])
+    except Exception as e:
+        print("motivación:", str(e)[:120])
+        return pool
+    if not c or c["local"]["estado"] == c["visitante"]["estado"]:
+        return pool
+    salida = []
+    for p in pool:
+        try:
+            ld = lado(p)
+        except Exception:
+            ld = None
+        if ld in ("local", "visitante"):
+            otro = "visitante" if ld == "local" else "local"
+            d = (-MOTIVO_MENOS if c[ld]["estado"] == "nada" and c[otro]["estado"] == "se_juega"
+                 else MOTIVO_MAS if c[ld]["estado"] == "se_juega" and c[otro]["estado"] == "nada" else 0)
+            if d:
+                p = dict(p, prob_aprendida=round(min(0.97, max(0.0, p.get("prob_aprendida", 0) + d)), 3),
+                         motivacion=c[ld]["texto"])
+        salida.append(p)
+    return salida
+
+
+def gana_sin_motivo(ex, p):
+    """16/11 (Marcos: «mira a ver si se juegan algo»): un «que gane X» (gana, hándicap, doble oportunidad…) no va si X
+    no se juega nada en el grupo y su rival sí (que_se_juegan.py). P. ej. Suiza (ya 1.ª) contra Escocia (se juega el
+    play-off), Eslovaquia (ya 1.ª) en Kazajistán, Malta (ya 1.ª) en Gibraltar."""
+    if p.get("mercado") not in GANAR:
+        return False
+    pa = ex.get("partido") or {}
+    try:
+        la = {"Home/Draw": "local", "Draw/Away": "visitante"}.get(str(p.get("opcion"))) if p["mercado"] == "Double Chance" \
+            else lado(p)
+    except Exception:
+        la = None
+    if la not in ("local", "visitante"):
+        return False
+    import que_se_juegan
+    return que_se_juegan.sin_motivo(pa["league"]["id"], pa["fixture"]["id"], la)
+
+
 def pool_partido(ex, hist, ap):
     """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos.
     11/11 (Marcos): con Pinnacle de referencia (sharp.py): fuera las patas caras; en las demás, su probabilidad."""
@@ -316,6 +368,8 @@ def pool_partido(ex, hist, ap):
     pool = [p for p in _pool_partido(ex, hist, ap) if p.get("cuota", 0) <= CUOTA_MAXIMA_PATA]   # 13/11: máx. 1,80
     if partido_flojo_de_goles(ex):   # 13/11 (Marcos): Liechtenstein 0-1 y Luxemburgo 0-1 tumbaron 3 posts
         pool = [p for p in pool if not es_mas_goles(p)]
+    pool = [p for p in pool if not gana_sin_motivo(ex, p)]
+    pool = con_motivacion(ex, pool)
     try:
         import sharp
         pool = sharp.filtrar(pool)

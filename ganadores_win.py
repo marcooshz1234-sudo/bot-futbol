@@ -55,6 +55,9 @@ def candidatos(dia, minimo=None, excluir=()):
         if prob < (MIN_PROB if minimo is None else minimo) or pa["fixture"]["id"] in excluir \
                 or pa["fixture"]["id"] in partidos_fuera():
             continue
+        import que_se_juegan   # 16/11 (Marcos): nada de «WIN» a un equipo que no se juega nada contra uno que sí
+        if que_se_juegan.sin_motivo(pa["league"]["id"], pa["fixture"]["id"], "local" if lado == "Home" else "visitante"):
+            continue
         eq = pa["teams"]["home" if lado == "Home" else "away"]
         grande = any(g in eq["name"].lower() for g in GRANDES)
         salida.append({"fid": pa["fixture"]["id"], "liga": pa["league"]["id"], "ini": ini, "lado": lado, "prob": prob,

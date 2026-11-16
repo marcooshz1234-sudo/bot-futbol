@@ -65,6 +65,9 @@
 - ⚙️ Combis con escudos: 4–5 patas, cuota 5–7 (01/11). Loca: lo mejor de cada partido, 1–2 cosas. Larga: ~10 patas,
   solo «quién gana».
 
+- 🎯 **Qué se juega cada equipo** (16/11, Marcos): antes de un pick se mira la clasificación (que_se_juegan.py): si puede quedar primero, clasificarse o descender según gane, empate o pierda (desempate UEFA: cara a cara primero). Nunca «gana X» si X no se juega nada y su rival sí. Las patas del que se lo juega (goles, tiros, córners, jugadores) suben un poco y las del que no, bajan. Vale para la Nations, la Champions y las ligas.
+- 16/11 (Marcos): la tarjeta de GANADORES nunca cortada; si son muchas filas, mejor sin foto.
+
 ## 4. Copias de canales de Telegram
 - ⚙️ Se copian TODOS los canales de fútbol que seguimos (no NBA ni tenis), sin su nombre ni su boleto (12/11).
 - 👤 **Baloncesto y tenis (13/11):** se leen y se guardan (datos/tipsters_raw.json), pero NUNCA se suben al canal ni a redes. Solo se le dan a Marcos cuando los pida («solo cuando te los pida me los das, nada de subirlos al canal»).
