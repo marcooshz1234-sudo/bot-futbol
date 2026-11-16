@@ -7426,7 +7426,14 @@
     "nota": "copiado a mano por Claude (Tipster Pérez, favorito de Marcos, 16/11 12:32, solo en foto) · Marcos: «me lo enseñas primero» → en espera · 13:43 Marcos: «vale, perfecto» → sale",
     "foto_tg": "publicaciones/media/2026-11-16-pick-tip-4.tg.jpg",
     "enviado": "2026-11-16T13:53",
-    "mensaje_id": 504
+    "mensaje_id": 504,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-pick-tip-5",
