@@ -33,11 +33,16 @@ _INGLES_RX = re.compile(rf"(?<![\wÀ-ÿ])({_rx(INGLES)})(?![\wÀ-ÿ])")
 _ARTICULO_RX = re.compile(rf"(?<![\wÀ-ÿ])(el|El|EL|del|Del|DEL|al|Al|AL) ({_rx(PAISES)})(?![\wÀ-ÿ])")
 
 
+_DECIMAL_RX = re.compile(r"(?<![\w/.:,])([+-]?\d{1,2})\.(\d{1,2})(?![\d.\w/])")
+
+
 def espanol(t):
     """El texto con las selecciones en español y sin artículo delante."""
     if not t:
         return t
     t = _INGLES_RX.sub(lambda m: INGLES[m.group(1)], t)
+    # 16/11: «más de 2.5 goles» → «2,5» (las copias traían el punto inglés); no toca horas, enlaces ni versiones
+    t = _DECIMAL_RX.sub(lambda m: m.group(0) if m.group(2) in ("00", "15", "30", "45") and len(m.group(1)) == 2 else f"{m.group(1)},{m.group(2)}", t)
 
     def sin_articulo(m):
         art, pais = m.group(1), m.group(2)
