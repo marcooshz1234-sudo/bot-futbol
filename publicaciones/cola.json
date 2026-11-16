@@ -8007,13 +8007,113 @@
   },
   {
     "id": "2026-11-16-verde-auto-2026-11-16-pick-tip-2",
-    "fecha": "2026-11-16T22:57",
+    "fecha": "2026-11-16T23:11",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Albacete\n\n📈 Cuota @1,57",
     "foto": "publicaciones/media/2026-11-16-verde-auto-2026-11-16-pick-tip-2.tarjeta.jpg",
     "origen": "bot",
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-16-pick-tip-2"
+    "verde_de": "2026-11-16-pick-tip-2",
+    "agrupado_en": "2026-11-16-verde-grupo-2256",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-16-verde-auto-2026-11-16-pick-tip-1",
+    "fecha": "2026-11-16T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Eslovenia\n\n📈 Cuota @1,53\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-16-verde-auto-2026-11-16-pick-tip-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-16-pick-tip-1",
+    "agrupado_en": "2026-11-16-verde-grupo-2256",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-16-verde-auto-2026-11-16-pick-tip-4",
+    "fecha": "2026-11-16T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 9,5 remates a puerta en Alemania–Países Bajos\n\n📈 Cuota @1,61\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-16-verde-auto-2026-11-16-pick-tip-4.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-16-pick-tip-4",
+    "solo_en": [
+      "threads"
+    ],
+    "agrupado_en": "2026-11-16-verde-grupo-2256"
+  },
+  {
+    "id": "2026-11-16-verde-auto-2026-11-16-boleto-personal",
+    "fecha": "2026-11-16T22:56",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n📲 Montada en bet365, partido a partido 👇\n\n📈 Cuota @3,94\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-16-verde-auto-2026-11-16-boleto-personal.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-16-boleto-personal",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque es un boleto de bet365 (hay que mirarlo a mano). Sale cuando le des a Publicar.",
+    "solo_en": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "2026-11-16-verde-auto-2026-11-16-boleto-personal-th",
+    "fecha": "2026-11-16T22:56",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n📲 Montada en bet365, partido a partido 👇\n\n📈 Cuota @3,94\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-16-verde-auto-2026-11-16-boleto-personal-th.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-16-boleto-personal-th",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque es un boleto de bet365 (hay que mirarlo a mano). Sale cuando le des a Publicar.",
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-16-verde-auto-2026-11-16-pick-m1",
+    "fecha": "2026-11-16T23:11",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana Eslovenia\n\n📈 Cuota @1,50\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-16-verde-auto-2026-11-16-pick-m1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-16-pick-m1",
+    "solo_en": [
+      "threads"
+    ],
+    "agrupado_en": "2026-11-16-verde-grupo-2256"
+  },
+  {
+    "id": "2026-11-16-verde-grupo-2256",
+    "fecha": "2026-11-16T23:11",
+    "texto": "🔥 ¡4 VERDES PARA DENTRO! 🔥\n\n✅ Pick · Gana Eslovenia @1,50\n✅ Pick · Gana el Eslovenia @1,53\n✅ Pick · Gana el Albacete @1,57\n✅ Pick · Más de 9,5 remates a puerta en Alemania–Países Bajos @1,61\n\n💚 ¿QUIÉN LA COGIÓ?\n\n📲 ¿Tienes un colega que apueste? Pásale el canal y que se suba 👉 https://t.me/+NMCCvWtZu842Mjhk",
+    "foto": "publicaciones/media/2026-11-16-verde-grupo-2256.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "resultado": "verde",
+    "verdes": [
+      "2026-11-16-verde-auto-2026-11-16-pick-tip-2",
+      "2026-11-16-verde-auto-2026-11-16-pick-tip-1",
+      "2026-11-16-verde-auto-2026-11-16-pick-tip-4",
+      "2026-11-16-verde-auto-2026-11-16-pick-m1"
+    ],
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ]
   }
 ]
