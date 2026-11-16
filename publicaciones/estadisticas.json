@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 23:10",
+ "actualizado": "2026-11-16 23:21",
  "redes": {
   "instagram": {
    "seguidores": 44,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 441,
-   "hoy": 30,
+   "seguidores": 440,
+   "hoy": 29,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    441
+    440
    ]
   }
  },
- "total": 3490,
- "total_hoy": 245,
+ "total": 3489,
+ "total_hoy": 244,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "23:11",
+  "hora": "23:30",
   "dia": "2026-11-16",
-  "titulo": "Para dentro señores"
+  "titulo": "Combi del dinamarca – noruega"
  },
  "ayer": {
   "aciertos": 2,
@@ -218,7 +218,7 @@
    "instagram": 44,
    "threads": 3004,
    "facebook": 1,
-   "telegram": 441
+   "telegram": 440
   }
  },
  "tipos_instagram": {
