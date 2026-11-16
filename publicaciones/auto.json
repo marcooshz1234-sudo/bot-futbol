@@ -5475,10 +5475,10 @@
       "1545652|Home Player Shots|Winsley Boteli - 3"
     ],
     "cuotas": [
-      1.83,
+      1.8,
       1.73,
-      1.85,
-      1.83,
+      1.95,
+      1.73,
       1.8,
       1.8,
       1.73
@@ -5492,7 +5492,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T14:01"
   },
   {
     "id": "2026-11-16-combi-partido-m-1528990",
