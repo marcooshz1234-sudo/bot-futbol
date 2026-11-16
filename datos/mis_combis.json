@@ -1469,5 +1469,205 @@
   ],
   "origen": "Marcos (vídeo bet365 05/11 13:38)",
   "aumento": 0.3
+ },
+ {
+  "id": "2026-11-16-marcos-propia",
+  "fecha": "2026-11-16T16:00",
+  "titulo": "Su combi x24,8 (5€)",
+  "cuota": 24.85,
+  "cuota_bet365": 24.85,
+  "importe": 5,
+  "ganancia_potencial": 124.26,
+  "sel": [
+   "1528986|Match Winner|Away",
+   "1528987|Both Teams Score|Yes",
+   "1528990|Both Teams Score|Yes",
+   "1528990|Goals Over/Under|Over 2.5",
+   "1528991|Both Teams Score|Yes",
+   "1528991|Goals Over/Under|Over 2.5",
+   "1545652|Match Winner|Home"
+  ],
+  "cuotas": [
+   1.85,
+   2.1,
+   1.4,
+   1.4,
+   1.83,
+   1.67,
+   1.8
+  ],
+  "patas_texto": [
+   "1528986|Match Winner|Away @1.85",
+   "1528987|Both Teams Score|Yes @2.1",
+   "1528990|Both Teams Score|Yes+1528990|Goals Over/Under|Over 2.5 @1.61",
+   "1528991|Both Teams Score|Yes+1528991|Goals Over/Under|Over 2.5 @2.2",
+   "1545652|Match Winner|Home @1.8"
+  ],
+  "origen": "Marcos (Notas, bet365 16/11 14:20-14:21)"
+ },
+ {
+  "id": "2026-11-16-marcos-a",
+  "fecha": "2026-11-16T20:45",
+  "titulo": "Combi A x14 (5€)",
+  "cuota": 14.13,
+  "cuota_bet365": 14.13,
+  "importe": 5,
+  "ganancia_potencial": 70.66,
+  "sel": [
+   "1528990|Home Player Shots|Florian Wirtz - 3",
+   "1528991|Match Winner|Home",
+   "1528991|Goalkeeper Saves|Vanja Milinkovic-Savic - 4",
+   "1545652|Away Player Shots|Scott McTominay - 3",
+   "1545652|Goalkeeper Saves|Gregor Kobel - 3"
+  ],
+  "cuotas": [
+   1.66,
+   1.42,
+   1.73,
+   1.67,
+   2.0
+  ],
+  "patas_texto": [
+   "1528990|Home Player Shots|Florian Wirtz - 3 @1.66",
+   "1528991|Match Winner|Home+1528991|Goalkeeper Saves|Vanja Milinkovic-Savic - 4 @2.65",
+   "1545652|Away Player Shots|Scott McTominay - 3+1545652|Goalkeeper Saves|Gregor Kobel - 3 @3.2"
+  ],
+  "origen": "Marcos (Notas, bet365 16/11 14:20-14:21)"
+ },
+ {
+  "id": "2026-11-16-marcos-b",
+  "fecha": "2026-11-16T20:45",
+  "titulo": "Combi B x12,9 (5€)",
+  "cuota": 12.87,
+  "cuota_bet365": 12.87,
+  "importe": 5,
+  "ganancia_potencial": 64.35,
+  "sel": [
+   "1528990|Away Player Shots|Tijjani Reijnders - 3",
+   "1528990|Goalkeeper Saves|Marc-Andre ter Stegen - 3",
+   "1528991|Match Winner|Home",
+   "1528991|Home Player Shots|Konstantinos Karetsas - 2",
+   "1545652|Double Chance|Draw/Away",
+   "1545662|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.67,
+   1.62,
+   1.42,
+   1.28,
+   1.95,
+   1.5
+  ],
+  "patas_texto": [
+   "1528990|Away Player Shots|Tijjani Reijnders - 3+1528990|Goalkeeper Saves|Marc-Andre ter Stegen - 3 @2.4",
+   "1528991|Match Winner|Home+1528991|Home Player Shots|Konstantinos Karetsas - 2 @1.83",
+   "1545652|Double Chance|Draw/Away @1.95",
+   "1545662|Match Winner|Away @1.5"
+  ],
+  "origen": "Marcos (Notas, bet365 16/11 14:20-14:21)"
+ },
+ {
+  "id": "2026-11-16-marcos-c",
+  "fecha": "2026-11-16T18:00",
+  "titulo": "Combi C x5,4 (5€)",
+  "cuota": 5.4,
+  "cuota_bet365": 5.4,
+  "importe": 5,
+  "ganancia_potencial": 26.98,
+  "sel": [
+   "1545617|Total - Home|Over 1.5",
+   "1528991|Total ShotOnGoal|Over 8.5",
+   "1528990|Match Winner|Home",
+   "1528990|Player Fouls Committed|Justin Kluivert - 1"
+  ],
+  "cuotas": [
+   1.37,
+   1.66,
+   1.85,
+   1.28
+  ],
+  "patas_texto": [
+   "1545617|Total - Home|Over 1.5 @1.37",
+   "1528991|Total ShotOnGoal|Over 8.5 @1.66",
+   "1528990|Match Winner|Home+1528990|Player Fouls Committed|Justin Kluivert - 1 @2.37"
+  ],
+  "origen": "Marcos (Notas, bet365 16/11 14:20-14:21)"
+ },
+ {
+  "id": "2026-11-16-marcos-larga-1",
+  "fecha": "2026-11-16T16:00",
+  "titulo": "Larga con cabeza x31,9 (5€)",
+  "cuota": 31.88,
+  "cuota_bet365": 31.88,
+  "importe": 5,
+  "ganancia_potencial": 159.38,
+  "sel": [
+   "1528986|Match Winner|Away",
+   "1545617|Match Winner|Home",
+   "1528989|First Half Winner|Home",
+   "1570014|Match Winner|Home",
+   "1528990|Match Winner|Home",
+   "1528991|Match Winner|Home",
+   "1545618|Match Winner|Away",
+   "1545662|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.85,
+   1.2,
+   1.44,
+   1.6,
+   1.85,
+   1.44,
+   1.55,
+   1.5
+  ],
+  "patas_texto": [
+   "1528986|Match Winner|Away @1.85",
+   "1545617|Match Winner|Home @1.2",
+   "1528989|First Half Winner|Home @1.44",
+   "1570014|Match Winner|Home @1.6",
+   "1528990|Match Winner|Home @1.85",
+   "1528991|Match Winner|Home @1.44",
+   "1545618|Match Winner|Away @1.55",
+   "1545662|Match Winner|Away @1.5"
+  ],
+  "origen": "Marcos (Notas, bet365 16/11 14:20-14:21)"
+ },
+ {
+  "id": "2026-11-16-marcos-larga-2",
+  "fecha": "2026-11-16T16:00",
+  "titulo": "Larga loca x53 (5€)",
+  "cuota": 53.4,
+  "cuota_bet365": 53.4,
+  "importe": 5,
+  "ganancia_potencial": 266.98,
+  "sel": [
+   "1528986|Match Winner|Away",
+   "1528987|Match Winner|Home",
+   "1528988|Match Winner|Home",
+   "1528990|Match Winner|Home",
+   "1528991|First Half Winner|Home",
+   "1545618|Match Winner|Away",
+   "1545662|Match Winner|Away"
+  ],
+  "cuotas": [
+   1.85,
+   1.85,
+   1.9,
+   1.85,
+   1.9,
+   1.55,
+   1.5
+  ],
+  "patas_texto": [
+   "1528986|Match Winner|Away @1.85",
+   "1528987|Match Winner|Home @1.85",
+   "1528988|Match Winner|Home @1.9",
+   "1528990|Match Winner|Home @1.85",
+   "1528991|First Half Winner|Home @1.9",
+   "1545618|Match Winner|Away @1.55",
+   "1545662|Match Winner|Away @1.5"
+  ],
+  "origen": "Marcos (Notas, bet365 16/11 14:20-14:21)"
  }
 ]
