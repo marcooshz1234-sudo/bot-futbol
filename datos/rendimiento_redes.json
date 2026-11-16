@@ -1,203 +1,191 @@
 {
- "generado": "2026-11-16T15:11:07+00:00",
+ "generado": "2026-11-16T18:59:55+00:00",
  "posts": {
   "threads": {
-   "18074867987750274": {
-    "ts": "2026-11-16T15:00:44+0000",
+   "18132128845886479": {
+    "ts": "2026-11-16T18:30:14+0000",
     "m": {
-     "views": 0,
+     "views": 114,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.05
+   },
+   "17978101236171456": {
+    "ts": "2026-11-16T18:00:32+0000",
+    "m": {
+     "views": 299,
      "likes": 1,
      "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.0
-   },
-   "18431094268154429": {
-    "ts": "2026-11-16T14:55:37+0000",
-    "m": {
-     "views": 0,
-     "likes": 2,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.0
-   },
-   "18123247820320468": {
-    "ts": "2026-11-16T14:38:35+0000",
-    "m": {
-     "views": 91,
-     "likes": 0,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.06
-   },
-   "18118103819023646": {
-    "ts": "2026-11-16T14:30:15+0000",
-    "m": {
-     "views": 260,
-     "likes": 3,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.17
-   },
-   "18121717474779193": {
-    "ts": "2026-11-16T14:24:41+0000",
-    "m": {
-     "views": 180,
-     "likes": 0,
-     "replies": 0,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
     "seguidores_est": 0.12
    },
-   "18130600705889331": {
-    "ts": "2026-11-16T14:22:11+0000",
+   "17967925131239175": {
+    "ts": "2026-11-16T17:30:21+0000",
     "m": {
-     "views": 133,
-     "likes": 0,
+     "views": 1592,
+     "likes": 2,
      "replies": 0,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.09
+    "seguidores_est": 0.65
    },
-   "18111181421622987": {
-    "ts": "2026-11-16T14:19:23+0000",
+   "18148693546601271": {
+    "ts": "2026-11-16T16:30:44+0000",
     "m": {
-     "views": 92,
-     "likes": 0,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.06
-   },
-   "18190729693408919": {
-    "ts": "2026-11-16T14:00:22+0000",
-    "m": {
-     "views": 155,
-     "likes": 0,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.1
-   },
-   "17879780589572530": {
-    "ts": "2026-11-16T13:57:26+0000",
-    "m": {
-     "views": 1194,
-     "likes": 3,
+     "views": 1720,
+     "likes": 11,
      "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.8
+    "seguidores_est": 0.71
    },
-   "17918945835516012": {
-    "ts": "2026-11-16T13:57:18+0000",
+   "17995127673056837": {
+    "ts": "2026-11-16T16:01:07+0000",
     "m": {
-     "views": 194,
-     "likes": 1,
-     "replies": 1,
+     "views": 689,
+     "likes": 2,
+     "replies": 0,
+     "reposts": 1,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.28
+   },
+   "18132501386512004": {
+    "ts": "2026-11-16T15:32:51+0000",
+    "m": {
+     "views": 5748,
+     "likes": 15,
+     "replies": 0,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.13
+    "seguidores_est": 2.36
    },
-   "17970234150235044": {
-    "ts": "2026-11-16T13:57:09+0000",
+   "18200595130387201": {
+    "ts": "2026-11-16T15:31:16+0000",
     "m": {
-     "views": 229,
+     "views": 365,
      "likes": 0,
-     "replies": 0,
+     "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
     "seguidores_est": 0.15
    },
-   "18105602372532901": {
-    "ts": "2026-11-16T13:00:09+0000",
+   "18132551446691946": {
+    "ts": "2026-11-16T15:20:55+0000",
     "m": {
-     "views": 1358,
+     "views": 415,
      "likes": 3,
      "replies": 0,
-     "reposts": 0,
+     "reposts": 1,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.9
+    "seguidores_est": 0.17
    },
-   "18028692644917496": {
-    "ts": "2026-11-16T12:43:41+0000",
+   "18074867987750274": {
+    "ts": "2026-11-16T15:00:44+0000",
     "m": {
-     "views": 696,
-     "likes": 1,
+     "views": 716,
+     "likes": 2,
      "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.46
+    "seguidores_est": 0.64
    },
-   "18120931844010149": {
-    "ts": "2026-11-16T12:43:33+0000",
+   "18431094268154429": {
+    "ts": "2026-11-16T14:55:37+0000",
     "m": {
-     "views": 266,
-     "likes": 1,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.18
-   },
-   "18120571273980820": {
-    "ts": "2026-11-16T12:40:45+0000",
-    "m": {
-     "views": 694,
-     "likes": 3,
+     "views": 726,
+     "likes": 2,
      "replies": 0,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.46
+    "seguidores_est": 0.65
    },
-   "18015597260761331": {
-    "ts": "2026-11-16T12:40:12+0000",
+   "18123247820320468": {
+    "ts": "2026-11-16T14:38:35+0000",
     "m": {
-     "views": 235,
+     "views": 461,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.16
+    "seguidores_est": 0.42
    },
-   "18049972127818258": {
-    "ts": "2026-11-16T10:30:05+0000",
+   "18118103819023646": {
+    "ts": "2026-11-16T14:30:15+0000",
     "m": {
-     "views": 377,
+     "views": 2238,
+     "likes": 6,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 2.02
+   },
+   "18121717474779193": {
+    "ts": "2026-11-16T14:24:41+0000",
+    "m": {
+     "views": 508,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.46
+   },
+   "18130600705889331": {
+    "ts": "2026-11-16T14:22:11+0000",
+    "m": {
+     "views": 529,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.48
+   },
+   "18111181421622987": {
+    "ts": "2026-11-16T14:19:23+0000",
+    "m": {
+     "views": 248,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.22
+   },
+   "18190729693408919": {
+    "ts": "2026-11-16T14:00:22+0000",
+    "m": {
+     "views": 275,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -206,286 +194,70 @@
     },
     "seguidores_est": 0.25
    },
-   "18118592765585952": {
-    "ts": "2026-11-16T10:00:47+0000",
+   "17879780589572530": {
+    "ts": "2026-11-16T13:57:26+0000",
     "m": {
-     "views": 326,
+     "views": 2688,
+     "likes": 5,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 2.42
+   },
+   "17918945835516012": {
+    "ts": "2026-11-16T13:57:18+0000",
+    "m": {
+     "views": 333,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.22
+    "seguidores_est": 0.3
    },
-   "18646840522053128": {
-    "ts": "2026-11-16T09:13:30+0000",
+   "17970234150235044": {
+    "ts": "2026-11-16T13:57:09+0000",
     "m": {
-     "views": 461,
-     "likes": 2,
-     "replies": 1,
+     "views": 404,
+     "likes": 1,
+     "replies": 0,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.31
+    "seguidores_est": 0.36
    },
-   "18106275032566602": {
-    "ts": "2026-11-16T07:00:56+0000",
+   "18105602372532901": {
+    "ts": "2026-11-16T13:00:09+0000",
     "m": {
-     "views": 7971,
-     "likes": 19,
+     "views": 2360,
+     "likes": 4,
      "replies": 0,
-     "reposts": 2,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 8.8
-   },
-   "18213571363367568": {
-    "ts": "2026-11-16T06:00:23+0000",
-    "m": {
-     "views": 369,
-     "likes": 0,
-     "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
-    "seguidores_est": 0.41
+    "seguidores_est": 2.13
    },
-   "18023541038731523": {
-    "ts": "2026-11-16T05:17:51+0000",
+   "18028692644917496": {
+    "ts": "2026-11-16T12:43:41+0000",
     "m": {
-     "views": 721,
-     "likes": 5,
-     "replies": 0,
+     "views": 883,
+     "likes": 1,
+     "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
     },
     "seguidores_est": 0.8
    },
-   "18361459288217558": {
-    "ts": "2026-11-16T04:00:38+0000",
+   "18120931844010149": {
+    "ts": "2026-11-16T12:43:33+0000",
     "m": {
-     "views": 29258,
-     "likes": 70,
-     "replies": 10,
-     "reposts": 2,
-     "quotes": 0,
-     "shares": 1
-    },
-    "seguidores_est": 32.31
-   },
-   "18231486601330094": {
-    "ts": "2026-11-16T03:00:18+0000",
-    "m": {
-     "views": 12738,
-     "likes": 38,
-     "replies": 1,
-     "reposts": 1,
-     "quotes": 0,
-     "shares": 1
-    },
-    "seguidores_est": 14.07
-   },
-   "18107176427346664": {
-    "ts": "2026-11-16T02:09:44+0000",
-    "m": {
-     "views": 523,
-     "likes": 1,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.58
-   },
-   "18110529275299650": {
-    "ts": "2026-11-15T23:21:41+0000",
-    "m": {
-     "views": 14016,
-     "likes": 49,
-     "replies": 6,
-     "reposts": 1,
-     "quotes": 0,
-     "shares": 4
-    },
-    "seguidores_est": 15.48
-   },
-   "18137527372672594": {
-    "ts": "2026-11-15T22:19:19+0000",
-    "m": {
-     "views": 1975,
-     "likes": 2,
-     "replies": 2,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 2.18
-   },
-   "18184277455428393": {
-    "ts": "2026-11-15T18:29:53+0000",
-    "m": {
-     "views": 1245,
-     "likes": 1,
-     "replies": 4,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 1.37
-   },
-   "18341279806263019": {
-    "ts": "2026-11-15T18:03:48+0000",
-    "m": {
-     "views": 479,
-     "likes": 0,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.53
-   },
-   "17887485312512617": {
-    "ts": "2026-11-15T16:05:47+0000",
-    "m": {
-     "views": 691,
-     "likes": 2,
-     "replies": 5,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.76
-   },
-   "17997767498844025": {
-    "ts": "2026-11-15T15:52:49+0000",
-    "m": {
-     "views": 703,
-     "likes": 1,
-     "replies": 5,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.78
-   },
-   "17979212172148560": {
-    "ts": "2026-11-15T15:51:07+0000",
-    "m": {
-     "views": 3850,
-     "likes": 13,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 4.25
-   },
-   "18016113129003095": {
-    "ts": "2026-11-15T13:39:29+0000",
-    "m": {
-     "views": 18967,
-     "likes": 42,
-     "replies": 2,
-     "reposts": 2,
-     "quotes": 0,
-     "shares": 3
-    },
-    "seguidores_est": 20.94
-   },
-   "17937541983206094": {
-    "ts": "2026-11-15T13:28:09+0000",
-    "m": {
-     "views": 6736,
-     "likes": 12,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 7.44
-   },
-   "17937668859409861": {
-    "ts": "2026-11-15T12:30:34+0000",
-    "m": {
-     "views": 352,
-     "likes": 2,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.39
-   },
-   "18082169765398505": {
-    "ts": "2026-11-15T11:58:41+0000",
-    "m": {
-     "views": 605,
-     "likes": 1,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.67
-   },
-   "18082032389727066": {
-    "ts": "2026-11-15T10:45:16+0000",
-    "m": {
-     "views": 320,
-     "likes": 1,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.35
-   },
-   "17991066173877308": {
-    "ts": "2026-11-15T10:43:32+0000",
-    "m": {
-     "views": 339,
-     "likes": 2,
-     "replies": 3,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.37
-   },
-   "18030766481700461": {
-    "ts": "2026-11-15T10:23:42+0000",
-    "m": {
-     "views": 239,
-     "likes": 1,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.26
-   },
-   "18481811638115233": {
-    "ts": "2026-11-15T10:00:32+0000",
-    "m": {
-     "views": 314,
-     "likes": 1,
-     "replies": 1,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    },
-    "seguidores_est": 0.35
-   },
-   "17981662443134009": {
-    "ts": "2026-11-15T09:31:15+0000",
-    "m": {
-     "views": 260,
+     "views": 325,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
@@ -494,10 +266,334 @@
     },
     "seguidores_est": 0.29
    },
+   "18120571273980820": {
+    "ts": "2026-11-16T12:40:45+0000",
+    "m": {
+     "views": 1206,
+     "likes": 3,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 1.09
+   },
+   "18015597260761331": {
+    "ts": "2026-11-16T12:40:12+0000",
+    "m": {
+     "views": 291,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.26
+   },
+   "18049972127818258": {
+    "ts": "2026-11-16T10:30:05+0000",
+    "m": {
+     "views": 424,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.38
+   },
+   "18118592765585952": {
+    "ts": "2026-11-16T10:00:47+0000",
+    "m": {
+     "views": 362,
+     "likes": 2,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.33
+   },
+   "18646840522053128": {
+    "ts": "2026-11-16T09:13:30+0000",
+    "m": {
+     "views": 507,
+     "likes": 2,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.46
+   },
+   "18106275032566602": {
+    "ts": "2026-11-16T07:00:56+0000",
+    "m": {
+     "views": 12030,
+     "likes": 23,
+     "replies": 0,
+     "reposts": 2,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 14.89
+   },
+   "18213571363367568": {
+    "ts": "2026-11-16T06:00:23+0000",
+    "m": {
+     "views": 400,
+     "likes": 0,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.5
+   },
+   "18023541038731523": {
+    "ts": "2026-11-16T05:17:51+0000",
+    "m": {
+     "views": 759,
+     "likes": 5,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.94
+   },
+   "18361459288217558": {
+    "ts": "2026-11-16T04:00:38+0000",
+    "m": {
+     "views": 47052,
+     "likes": 88,
+     "replies": 10,
+     "reposts": 3,
+     "quotes": 0,
+     "shares": 1
+    },
+    "seguidores_est": 58.25
+   },
+   "18231486601330094": {
+    "ts": "2026-11-16T03:00:18+0000",
+    "m": {
+     "views": 19648,
+     "likes": 41,
+     "replies": 1,
+     "reposts": 1,
+     "quotes": 0,
+     "shares": 1
+    },
+    "seguidores_est": 24.32
+   },
+   "18107176427346664": {
+    "ts": "2026-11-16T02:09:44+0000",
+    "m": {
+     "views": 549,
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.68
+   },
+   "18110529275299650": {
+    "ts": "2026-11-15T23:21:41+0000",
+    "m": {
+     "views": 15211,
+     "likes": 52,
+     "replies": 6,
+     "reposts": 1,
+     "quotes": 0,
+     "shares": 4
+    },
+    "seguidores_est": 18.83
+   },
+   "18137527372672594": {
+    "ts": "2026-11-15T22:19:19+0000",
+    "m": {
+     "views": 2400,
+     "likes": 3,
+     "replies": 2,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 2.97
+   },
+   "18184277455428393": {
+    "ts": "2026-11-15T18:29:53+0000",
+    "m": {
+     "views": 1270,
+     "likes": 1,
+     "replies": 4,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 1.57
+   },
+   "18341279806263019": {
+    "ts": "2026-11-15T18:03:48+0000",
+    "m": {
+     "views": 495,
+     "likes": 0,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.61
+   },
+   "17887485312512617": {
+    "ts": "2026-11-15T16:05:47+0000",
+    "m": {
+     "views": 705,
+     "likes": 2,
+     "replies": 5,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.87
+   },
+   "17997767498844025": {
+    "ts": "2026-11-15T15:52:49+0000",
+    "m": {
+     "views": 713,
+     "likes": 1,
+     "replies": 5,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.88
+   },
+   "17979212172148560": {
+    "ts": "2026-11-15T15:51:07+0000",
+    "m": {
+     "views": 3944,
+     "likes": 13,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 4.88
+   },
+   "18016113129003095": {
+    "ts": "2026-11-15T13:39:29+0000",
+    "m": {
+     "views": 18992,
+     "likes": 42,
+     "replies": 2,
+     "reposts": 2,
+     "quotes": 0,
+     "shares": 3
+    },
+    "seguidores_est": 15.72
+   },
+   "17937541983206094": {
+    "ts": "2026-11-15T13:28:09+0000",
+    "m": {
+     "views": 6783,
+     "likes": 12,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 5.61
+   },
+   "17937668859409861": {
+    "ts": "2026-11-15T12:30:34+0000",
+    "m": {
+     "views": 360,
+     "likes": 2,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.3
+   },
+   "18082169765398505": {
+    "ts": "2026-11-15T11:58:41+0000",
+    "m": {
+     "views": 613,
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.51
+   },
+   "18082032389727066": {
+    "ts": "2026-11-15T10:45:16+0000",
+    "m": {
+     "views": 323,
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.27
+   },
+   "17991066173877308": {
+    "ts": "2026-11-15T10:43:32+0000",
+    "m": {
+     "views": 341,
+     "likes": 2,
+     "replies": 3,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.28
+   },
+   "18030766481700461": {
+    "ts": "2026-11-15T10:23:42+0000",
+    "m": {
+     "views": 241,
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.2
+   },
+   "18481811638115233": {
+    "ts": "2026-11-15T10:00:32+0000",
+    "m": {
+     "views": 316,
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.26
+   },
+   "17981662443134009": {
+    "ts": "2026-11-15T09:31:15+0000",
+    "m": {
+     "views": 262,
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    },
+    "seguidores_est": 0.22
+   },
    "18132856819874741": {
     "ts": "2026-11-14T23:00:38+0000",
     "m": {
-     "views": 3896,
+     "views": 3897,
      "likes": 11,
      "replies": 2,
      "reposts": 0,
@@ -508,7 +604,7 @@
    "18137854768710146": {
     "ts": "2026-11-14T22:16:38+0000",
     "m": {
-     "views": 1707,
+     "views": 1712,
      "likes": 3,
      "replies": 0,
      "reposts": 0,
@@ -530,7 +626,7 @@
    "18133212931836911": {
     "ts": "2026-11-14T18:38:10+0000",
     "m": {
-     "views": 387,
+     "views": 388,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -640,7 +736,7 @@
    "18231597538331096": {
     "ts": "2026-11-13T23:01:05+0000",
     "m": {
-     "views": 25212,
+     "views": 25218,
      "likes": 110,
      "replies": 6,
      "reposts": 3,
@@ -838,7 +934,7 @@
    "18121617347000931": {
     "ts": "2026-11-12T23:00:32+0000",
     "m": {
-     "views": 22634,
+     "views": 22636,
      "likes": 78,
      "replies": 1,
      "reposts": 1,
@@ -5864,11 +5960,47 @@
    }
   },
   "instagram": {
+   "18115439675112249": {
+    "ts": "2026-11-16T16:31:13+0000",
+    "m": {
+     "views": 11,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18110810674957228": {
+    "ts": "2026-11-16T16:01:37+0000",
+    "m": {
+     "views": 16,
+     "reach": 7,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18156666055541397": {
+    "ts": "2026-11-16T15:32:36+0000",
+    "m": {
+     "views": 7,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
    "18096743831269091": {
     "ts": "2026-11-16T15:01:13+0000",
     "m": {
-     "views": 0,
-     "reach": 0,
+     "views": 11,
+     "reach": 5,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5879,8 +6011,8 @@
    "18179122921457433": {
     "ts": "2026-11-16T12:46:10+0000",
     "m": {
-     "views": 9,
-     "reach": 5,
+     "views": 13,
+     "reach": 8,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5891,8 +6023,8 @@
    "18099259454667595": {
     "ts": "2026-11-16T12:45:28+0000",
     "m": {
-     "views": 18,
-     "reach": 8,
+     "views": 21,
+     "reach": 11,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5903,8 +6035,8 @@
    "17999221515061410": {
     "ts": "2026-11-16T12:41:03+0000",
     "m": {
-     "views": 7,
-     "reach": 5,
+     "views": 8,
+     "reach": 7,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5915,8 +6047,8 @@
    "17953437417057152": {
     "ts": "2026-11-16T10:01:11+0000",
     "m": {
-     "views": 11,
-     "reach": 8,
+     "views": 13,
+     "reach": 9,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5927,8 +6059,8 @@
    "18117649478033447": {
     "ts": "2026-11-16T02:10:15+0000",
     "m": {
-     "views": 26,
-     "reach": 14,
+     "views": 27,
+     "reach": 15,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5939,8 +6071,8 @@
    "17914947843581277": {
     "ts": "2026-11-15T23:01:39+0000",
     "m": {
-     "views": 32,
-     "reach": 14,
+     "views": 37,
+     "reach": 18,
      "likes": 1,
      "comments": 0,
      "saved": 0,
@@ -5951,8 +6083,8 @@
    "17941750125406677": {
     "ts": "2026-11-15T22:18:02+0000",
     "m": {
-     "views": 38,
-     "reach": 16,
+     "views": 40,
+     "reach": 17,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -5979,8 +6111,8 @@
    "18115792271613398": {
     "ts": "2026-11-15T22:17:17+0000",
     "m": {
-     "views": 13,
-     "reach": 9,
+     "views": 14,
+     "reach": 10,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -6005,8 +6137,8 @@
    "18112070609611458": {
     "ts": "2026-11-15T21:46:23+0000",
     "m": {
-     "views": 13,
-     "reach": 8,
+     "views": 14,
+     "reach": 9,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -6017,8 +6149,8 @@
    "18128032583310633": {
     "ts": "2026-11-15T18:29:14+0000",
     "m": {
-     "views": 19,
-     "reach": 8,
+     "views": 20,
+     "reach": 9,
      "likes": 0,
      "comments": 0,
      "saved": 0,
@@ -9621,6 +9753,2222 @@
      "reach": 7
     },
     "tipo_media": "REELS"
+   },
+   "18344965864286690": {
+    "ts": "2026-10-27T10:00:59+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18124499086987135": {
+    "ts": "2026-10-27T09:31:04+0000",
+    "m": {
+     "views": 15,
+     "reach": 8,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18082401299375961": {
+    "ts": "2026-10-27T00:34:39+0000",
+    "m": {
+     "views": 28,
+     "reach": 21,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18014180021763330": {
+    "ts": "2026-10-26T23:13:22+0000",
+    "m": {
+     "views": 7,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18147807940605532": {
+    "ts": "2026-10-26T23:12:30+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18124142903298092": {
+    "ts": "2026-10-26T22:08:52+0000",
+    "m": {
+     "views": 9,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18109703765462126": {
+    "ts": "2026-10-26T19:11:14+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17922085092450823": {
+    "ts": "2026-10-26T14:11:07+0000",
+    "m": {
+     "views": 7,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18215672026361739": {
+    "ts": "2026-10-26T12:01:29+0000",
+    "m": {
+     "views": 14,
+     "reach": 12,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18079216694436039": {
+    "ts": "2026-10-26T11:01:56+0000",
+    "m": {
+     "views": 28,
+     "reach": 18,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18114068861078417": {
+    "ts": "2026-10-26T11:01:27+0000",
+    "m": {
+     "views": 7,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18074785361753615": {
+    "ts": "2026-10-26T09:00:46+0000",
+    "m": {
+     "views": 10,
+     "reach": 10,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18081312674429397": {
+    "ts": "2026-10-25T19:56:44+0000",
+    "m": {
+     "views": 6,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18246025927313345": {
+    "ts": "2026-10-25T19:50:21+0000",
+    "m": {
+     "views": 76,
+     "reach": 56,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18133268434797190": {
+    "ts": "2026-10-25T19:49:47+0000",
+    "m": {
+     "views": 7,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18153237733492859": {
+    "ts": "2026-10-25T19:48:07+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18108469877610111": {
+    "ts": "2026-10-25T19:40:19+0000",
+    "m": {
+     "views": 10,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18106045298363432": {
+    "ts": "2026-10-25T19:39:53+0000",
+    "m": {
+     "views": 15,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18101187917432426": {
+    "ts": "2026-10-25T16:41:02+0000",
+    "m": {
+     "views": 17,
+     "reach": 9,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18118154255063105": {
+    "ts": "2026-10-25T16:31:33+0000",
+    "m": {
+     "views": 3,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17903587452656180": {
+    "ts": "2026-10-25T16:06:54+0000",
+    "m": {
+     "views": 16,
+     "reach": 7,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18167680435482810": {
+    "ts": "2026-10-25T15:11:02+0000",
+    "m": {
+     "views": 25,
+     "reach": 11,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18111059237235472": {
+    "ts": "2026-10-25T15:06:59+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17872351227646058": {
+    "ts": "2026-10-25T15:00:48+0000",
+    "m": {
+     "views": 24,
+     "reach": 18,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18148750147537498": {
+    "ts": "2026-10-25T14:16:09+0000",
+    "m": {
+     "views": 9,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18172518103458074": {
+    "ts": "2026-10-25T13:11:03+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 2
+    },
+    "tipo_media": "FEED"
+   },
+   "18108058262259381": {
+    "ts": "2026-10-25T12:10:58+0000",
+    "m": {
+     "views": 18,
+     "reach": 8,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18369921466245364": {
+    "ts": "2026-10-25T12:03:28+0000",
+    "m": {
+     "views": 6,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18106500233205472": {
+    "ts": "2026-10-25T11:55:58+0000",
+    "m": {
+     "views": 5,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17877954918633939": {
+    "ts": "2026-10-25T11:46:09+0000",
+    "m": {
+     "views": 4,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18112119659173331": {
+    "ts": "2026-10-25T10:40:58+0000",
+    "m": {
+     "views": 17,
+     "reach": 10,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17963138868217419": {
+    "ts": "2026-10-25T10:31:22+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18131658361774929": {
+    "ts": "2026-10-25T10:10:59+0000",
+    "m": {
+     "views": 59,
+     "reach": 43,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17998491527987108": {
+    "ts": "2026-10-25T10:03:46+0000",
+    "m": {
+     "views": 10,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18119011984997244": {
+    "ts": "2026-10-24T21:10:54+0000",
+    "m": {
+     "views": 20,
+     "reach": 8,
+     "likes": 0,
+     "comments": 0,
+     "saved": 1,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18080773796708669": {
+    "ts": "2026-10-24T21:02:33+0000",
+    "m": {
+     "views": 12,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18118299071078324": {
+    "ts": "2026-10-24T15:41:33+0000",
+    "m": {
+     "views": 14,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18033910466883796": {
+    "ts": "2026-10-24T15:31:45+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18022532846944037": {
+    "ts": "2026-10-24T14:55:55+0000",
+    "m": {
+     "views": 12,
+     "reach": 7,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18136687501629632": {
+    "ts": "2026-10-24T14:46:15+0000",
+    "m": {
+     "views": 7,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 1,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18346579210265579": {
+    "ts": "2026-10-24T14:11:00+0000",
+    "m": {
+     "views": 16,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18091499783223772": {
+    "ts": "2026-10-24T14:03:17+0000",
+    "m": {
+     "views": 10,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17943578913364743": {
+    "ts": "2026-10-24T13:12:02+0000",
+    "m": {
+     "views": 19,
+     "reach": 12,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18092367728201163": {
+    "ts": "2026-10-24T13:03:44+0000",
+    "m": {
+     "views": 8,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18219130378358603": {
+    "ts": "2026-10-24T12:10:59+0000",
+    "m": {
+     "views": 17,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18099541295383264": {
+    "ts": "2026-10-24T12:03:05+0000",
+    "m": {
+     "views": 9,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18002882834806456": {
+    "ts": "2026-10-24T11:10:56+0000",
+    "m": {
+     "views": 17,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18140134102624033": {
+    "ts": "2026-10-24T11:02:45+0000",
+    "m": {
+     "views": 11,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 2
+    },
+    "tipo_media": "FEED"
+   },
+   "18130889824752949": {
+    "ts": "2026-10-24T10:12:01+0000",
+    "m": {
+     "views": 15,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18119767381962584": {
+    "ts": "2026-10-24T10:03:31+0000",
+    "m": {
+     "views": 10,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18232785046323344": {
+    "ts": "2026-10-24T09:10:56+0000",
+    "m": {
+     "views": 18,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18473682265136912": {
+    "ts": "2026-10-24T09:03:24+0000",
+    "m": {
+     "views": 18,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18131857609761415": {
+    "ts": "2026-10-23T21:11:00+0000",
+    "m": {
+     "views": 34,
+     "reach": 23,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18086931323326510": {
+    "ts": "2026-10-23T21:03:02+0000",
+    "m": {
+     "views": 17,
+     "reach": 8,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18199376233386275": {
+    "ts": "2026-10-23T20:21:42+0000",
+    "m": {
+     "views": 13,
+     "reach": 8,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18120792289958099": {
+    "ts": "2026-10-23T20:13:37+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18395344099163412": {
+    "ts": "2026-10-23T20:12:07+0000",
+    "m": {
+     "views": 7,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18571594423072599": {
+    "ts": "2026-10-23T20:02:51+0000",
+    "m": {
+     "views": 8,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17951172573303005": {
+    "ts": "2026-10-23T17:11:19+0000",
+    "m": {
+     "views": 15,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17934649392146319": {
+    "ts": "2026-10-23T17:08:14+0000",
+    "m": {
+     "views": 6,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18109617278247268": {
+    "ts": "2026-10-23T16:12:08+0000",
+    "m": {
+     "views": 11,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17966383460981610": {
+    "ts": "2026-10-23T16:10:22+0000",
+    "m": {
+     "views": 9,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18132106576809005": {
+    "ts": "2026-10-23T15:41:11+0000",
+    "m": {
+     "views": 9,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18119180524771076": {
+    "ts": "2026-10-23T15:33:21+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18130714105696934": {
+    "ts": "2026-10-23T15:12:14+0000",
+    "m": {
+     "views": 11,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17887958778687569": {
+    "ts": "2026-10-23T15:07:07+0000",
+    "m": {
+     "views": 7,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18005416079990465": {
+    "ts": "2026-10-23T14:11:10+0000",
+    "m": {
+     "views": 6,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18128095937298599": {
+    "ts": "2026-10-23T14:06:57+0000",
+    "m": {
+     "views": 7,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17882991450534278": {
+    "ts": "2026-10-23T13:11:06+0000",
+    "m": {
+     "views": 23,
+     "reach": 10,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18341072794282093": {
+    "ts": "2026-10-23T13:05:12+0000",
+    "m": {
+     "views": 6,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18356465347301811": {
+    "ts": "2026-10-23T12:35:59+0000",
+    "m": {
+     "views": 14,
+     "reach": 11,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17894426583435313": {
+    "ts": "2026-10-23T12:26:04+0000",
+    "m": {
+     "views": 12,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18127845175658609": {
+    "ts": "2026-10-23T12:11:02+0000",
+    "m": {
+     "views": 2,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18116375099585780": {
+    "ts": "2026-10-23T12:04:25+0000",
+    "m": {
+     "views": 6,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18076246925755587": {
+    "ts": "2026-10-23T10:11:01+0000",
+    "m": {
+     "views": 15,
+     "reach": 6,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18109982012198998": {
+    "ts": "2026-10-23T10:05:01+0000",
+    "m": {
+     "views": 17,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18352255507266058": {
+    "ts": "2026-10-23T09:21:03+0000",
+    "m": {
+     "views": 2,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17920774002243474": {
+    "ts": "2026-10-23T09:11:01+0000",
+    "m": {
+     "views": 3,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18098613605553607": {
+    "ts": "2026-10-23T09:04:31+0000",
+    "m": {
+     "views": 14,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18119317390970400": {
+    "ts": "2026-10-23T09:04:16+0000",
+    "m": {
+     "views": 11,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18070129445777234": {
+    "ts": "2026-10-21T22:06:59+0000",
+    "m": {
+     "views": 24,
+     "reach": 13,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17880806253547597": {
+    "ts": "2026-10-21T18:05:09+0000",
+    "m": {
+     "views": 45,
+     "reach": 19,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18133028404683470": {
+    "ts": "2026-10-21T17:16:38+0000",
+    "m": {
+     "views": 19,
+     "reach": 15,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18193232515403269": {
+    "ts": "2026-10-21T16:16:20+0000",
+    "m": {
+     "views": 29,
+     "reach": 12,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18122071078994780": {
+    "ts": "2026-10-21T15:46:48+0000",
+    "m": {
+     "views": 24,
+     "reach": 11,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18031728299855917": {
+    "ts": "2026-10-21T14:07:09+0000",
+    "m": {
+     "views": 11,
+     "reach": 7,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17990487084059099": {
+    "ts": "2026-10-21T10:04:35+0000",
+    "m": {
+     "views": 13,
+     "reach": 8,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 1
+    },
+    "tipo_media": "REELS"
+   },
+   "17962926327235719": {
+    "ts": "2026-10-21T08:31:28+0000",
+    "m": {
+     "views": 16,
+     "reach": 9,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18230146999328283": {
+    "ts": "2026-10-21T05:32:18+0000",
+    "m": {
+     "views": 4,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18358784749221210": {
+    "ts": "2026-10-21T05:02:22+0000",
+    "m": {
+     "views": 13,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17881107087629229": {
+    "ts": "2026-10-21T03:30:59+0000",
+    "m": {
+     "views": 6,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18076984175485530": {
+    "ts": "2026-10-21T02:31:05+0000",
+    "m": {
+     "views": 7,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17931607278162648": {
+    "ts": "2026-10-21T02:03:17+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18634684120048007": {
+    "ts": "2026-10-21T00:31:15+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "17897401080412368": {
+    "ts": "2026-10-21T00:04:37+0000",
+    "m": {
+     "views": 6,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18637128340057356": {
+    "ts": "2026-10-20T22:31:39+0000",
+    "m": {
+     "views": 22,
+     "reach": 11,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18030544889857026": {
+    "ts": "2026-10-20T22:04:07+0000",
+    "m": {
+     "views": 11,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0
+    },
+    "tipo_media": "REELS"
+   },
+   "18060579950550036": {
+    "ts": "2026-10-20T20:31:20+0000",
+    "m": {
+     "views": 15,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18125675518681266": {
+    "ts": "2026-10-20T19:31:23+0000",
+    "m": {
+     "views": 5,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18095788487652247": {
+    "ts": "2026-10-20T18:03:49+0000",
+    "m": {
+     "views": 10,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18128386901307559": {
+    "ts": "2026-10-20T16:32:12+0000",
+    "m": {
+     "views": 6,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18248425309313370": {
+    "ts": "2026-10-20T15:46:17+0000",
+    "m": {
+     "views": 9,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18411834292095313": {
+    "ts": "2026-10-20T15:16:35+0000",
+    "m": {
+     "views": 22,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18097897229547797": {
+    "ts": "2026-10-20T15:07:12+0000",
+    "m": {
+     "views": 5,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18075674396733980": {
+    "ts": "2026-10-20T14:05:13+0000",
+    "m": {
+     "views": 11,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17913112965541141": {
+    "ts": "2026-10-20T12:31:42+0000",
+    "m": {
+     "views": 13,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18028460165696482": {
+    "ts": "2026-10-20T12:03:51+0000",
+    "m": {
+     "views": 9,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18637913908019129": {
+    "ts": "2026-10-20T11:31:26+0000",
+    "m": {
+     "views": 6,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18151991803545634": {
+    "ts": "2026-10-20T10:32:01+0000",
+    "m": {
+     "views": 8,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18012755093970089": {
+    "ts": "2026-10-20T10:04:24+0000",
+    "m": {
+     "views": 10,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17938578291380592": {
+    "ts": "2026-10-20T09:31:33+0000",
+    "m": {
+     "views": 6,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18130325776859614": {
+    "ts": "2026-10-20T09:04:31+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18157263529525459": {
+    "ts": "2026-10-20T08:31:22+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18152364304535704": {
+    "ts": "2026-10-20T08:06:36+0000",
+    "m": {
+     "views": 4,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18134225320675595": {
+    "ts": "2026-10-20T07:31:14+0000",
+    "m": {
+     "views": 9,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18131067295704150": {
+    "ts": "2026-10-20T07:03:50+0000",
+    "m": {
+     "views": 3,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17907515199577578": {
+    "ts": "2026-10-20T06:31:24+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18121207454044359": {
+    "ts": "2026-10-20T06:02:47+0000",
+    "m": {
+     "views": 7,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18661682731047185": {
+    "ts": "2026-10-20T05:31:13+0000",
+    "m": {
+     "views": 10,
+     "reach": 5,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18376158787210024": {
+    "ts": "2026-10-20T05:02:24+0000",
+    "m": {
+     "views": 10,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18143990227581193": {
+    "ts": "2026-10-20T04:31:11+0000",
+    "m": {
+     "views": 7,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17871646938645080": {
+    "ts": "2026-10-20T04:02:18+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17979239214121473": {
+    "ts": "2026-10-20T03:31:03+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18414163906081837": {
+    "ts": "2026-10-20T03:02:14+0000",
+    "m": {
+     "views": 3,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18036024473839578": {
+    "ts": "2026-10-20T02:31:06+0000",
+    "m": {
+     "views": 10,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18396730645164948": {
+    "ts": "2026-10-20T02:02:23+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18149880388565272": {
+    "ts": "2026-10-20T01:31:11+0000",
+    "m": {
+     "views": 7,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18130705174827839": {
+    "ts": "2026-10-20T01:02:59+0000",
+    "m": {
+     "views": 3,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18087487196694865": {
+    "ts": "2026-10-20T00:31:18+0000",
+    "m": {
+     "views": 6,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17910744825480246": {
+    "ts": "2026-10-20T00:03:07+0000",
+    "m": {
+     "views": 8,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18027461618875137": {
+    "ts": "2026-10-19T23:31:16+0000",
+    "m": {
+     "views": 4,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18116731811046688": {
+    "ts": "2026-10-19T23:04:37+0000",
+    "m": {
+     "views": 4,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18191303197360646": {
+    "ts": "2026-10-19T22:31:40+0000",
+    "m": {
+     "views": 2,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18094479734677214": {
+    "ts": "2026-10-19T22:03:43+0000",
+    "m": {
+     "views": 4,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18118033838007941": {
+    "ts": "2026-10-19T21:31:25+0000",
+    "m": {
+     "views": 5,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18116717750066177": {
+    "ts": "2026-10-19T21:03:32+0000",
+    "m": {
+     "views": 4,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18089716502698239": {
+    "ts": "2026-10-19T20:31:31+0000",
+    "m": {
+     "views": 2,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18356608279173654": {
+    "ts": "2026-10-19T20:03:34+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18134197909738330": {
+    "ts": "2026-10-19T19:31:45+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18334753645272916": {
+    "ts": "2026-10-19T18:16:45+0000",
+    "m": {
+     "views": 6,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18475894774112649": {
+    "ts": "2026-10-19T17:32:24+0000",
+    "m": {
+     "views": 2,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17966384507981896": {
+    "ts": "2026-10-19T16:32:06+0000",
+    "m": {
+     "views": 9,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18107995942945299": {
+    "ts": "2026-10-19T15:31:49+0000",
+    "m": {
+     "views": 9,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18348897154286426": {
+    "ts": "2026-10-19T10:04:38+0000",
+    "m": {
+     "views": 3,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18340415497258863": {
+    "ts": "2026-10-19T08:31:27+0000",
+    "m": {
+     "views": 6,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18033238763904663": {
+    "ts": "2026-10-18T22:32:54+0000",
+    "m": {
+     "views": 7,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18125696902932977": {
+    "ts": "2026-10-18T11:02:55+0000",
+    "m": {
+     "views": 7,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18124740286901140": {
+    "ts": "2026-10-18T09:03:53+0000",
+    "m": {
+     "views": 9,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17989254057193441": {
+    "ts": "2026-10-18T08:04:19+0000",
+    "m": {
+     "views": 13,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18108137741199933": {
+    "ts": "2026-10-17T18:31:25+0000",
+    "m": {
+     "views": 4,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18374515528300644": {
+    "ts": "2026-10-17T12:31:27+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18096440651402824": {
+    "ts": "2026-10-17T11:46:02+0000",
+    "m": {
+     "views": 2,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18095589590404754": {
+    "ts": "2026-10-17T11:16:04+0000",
+    "m": {
+     "views": 9,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18134186806662236": {
+    "ts": "2026-10-17T10:31:24+0000",
+    "m": {
+     "views": 3,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18645251575004220": {
+    "ts": "2026-10-17T10:03:32+0000",
+    "m": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18135709879679337": {
+    "ts": "2026-10-17T09:31:22+0000",
+    "m": {
+     "views": 11,
+     "reach": 4,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18095915666394594": {
+    "ts": "2026-10-17T08:31:16+0000",
+    "m": {
+     "views": 8,
+     "reach": 2,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18105231251199128": {
+    "ts": "2026-10-17T07:31:09+0000",
+    "m": {
+     "views": 9,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 1
+    },
+    "tipo_media": "FEED"
+   },
+   "18488383786128652": {
+    "ts": "2026-10-16T23:25:58+0000",
+    "m": {
+     "views": 20,
+     "reach": 4,
+     "likes": 1,
+     "comments": 1,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 2
+    },
+    "tipo_media": "FEED"
+   },
+   "18397684363200370": {
+    "ts": "2026-10-16T18:04:41+0000",
+    "m": {
+     "views": 12,
+     "reach": 2,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18130272730697566": {
+    "ts": "2026-10-16T17:16:45+0000",
+    "m": {
+     "views": 4,
+     "reach": 1,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18131424601805957": {
+    "ts": "2026-10-16T16:08:02+0000",
+    "m": {
+     "views": 20,
+     "reach": 3,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17959590318079449": {
+    "ts": "2026-10-16T15:20:08+0000",
+    "m": {
+     "views": 21,
+     "reach": 5,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18069218552510096": {
+    "ts": "2026-10-16T15:09:56+0000",
+    "m": {
+     "views": 6,
+     "reach": 1,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18109197773237780": {
+    "ts": "2026-10-16T13:31:47+0000",
+    "m": {
+     "views": 12,
+     "reach": 2,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "17991069480025449": {
+    "ts": "2026-10-16T12:04:36+0000",
+    "m": {
+     "views": 14,
+     "reach": 1,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
+   },
+   "18076505558717522": {
+    "ts": "2026-10-16T11:36:04+0000",
+    "m": {
+     "views": 17,
+     "reach": 2,
+     "likes": 1,
+     "comments": 0,
+     "saved": 0,
+     "shares": 0,
+     "follows": 0,
+     "profile_visits": 0
+    },
+    "tipo_media": "FEED"
    }
   }
  },
@@ -9629,77 +11977,60 @@
    {
     "tipo": "loca",
     "formato": "texto",
-    "n": 18,
-    "views": 687.0,
-    "views_total": 59596,
-    "likes": 1.0,
-    "likes_total": 143,
-    "replies": 1.0,
-    "replies_total": 23,
-    "shares": 0.0,
+    "n": 21,
+    "views": 735,
+    "views_total": 93597,
+    "likes": 1,
+    "likes_total": 175,
+    "replies": 1,
+    "replies_total": 24,
+    "shares": 0,
     "shares_total": 2,
-    "reposts": 0.0,
-    "reposts_total": 5,
-    "seguidores_est": 0.41,
-    "seguidores_est_total": 57.23
+    "reposts": 0,
+    "reposts_total": 6,
+    "seguidores_est": 0.57,
+    "seguidores_est_total": 103.9
    },
    {
     "tipo": "GANADORES",
     "formato": "texto",
     "n": 1,
-    "views": 14016,
-    "views_total": 14016,
-    "likes": 49,
-    "likes_total": 49,
+    "views": 15211,
+    "views_total": 15211,
+    "likes": 52,
+    "likes_total": 52,
     "replies": 6,
     "replies_total": 6,
     "shares": 4,
     "shares_total": 4,
     "reposts": 1,
     "reposts_total": 1,
-    "seguidores_est": 15.48,
-    "seguidores_est_total": 15.48
+    "seguidores_est": 18.83,
+    "seguidores_est_total": 18.83
    },
    {
     "tipo": "lista",
     "formato": "texto",
     "n": 9,
     "views": 810,
-    "views_total": 14452,
-    "likes": 0,
-    "likes_total": 30,
+    "views_total": 14712,
+    "likes": 1,
+    "likes_total": 31,
     "replies": 0,
     "replies_total": 0,
     "shares": 0,
     "shares_total": 1,
     "reposts": 0,
     "reposts_total": 0,
-    "seguidores_est": 0.25,
-    "seguidores_est_total": 1.2
-   },
-   {
-    "tipo": "escalera",
-    "formato": "texto",
-    "n": 20,
-    "views": 696.5,
-    "views_total": 62289,
-    "likes": 2.5,
-    "likes_total": 145,
-    "replies": 1.0,
-    "replies_total": 17,
-    "shares": 0.0,
-    "shares_total": 0,
-    "reposts": 0.0,
-    "reposts_total": 1,
-    "seguidores_est": 0.28,
-    "seguidores_est_total": 0.57
+    "seguidores_est": 0.38,
+    "seguidores_est_total": 1.68
    },
    {
     "tipo": "otros",
     "formato": "texto",
     "n": 14,
-    "views": 537.5,
-    "views_total": 22529,
+    "views": 765.5,
+    "views_total": 23041,
     "likes": 3.0,
     "likes_total": 53,
     "replies": 0.0,
@@ -9708,15 +12039,66 @@
     "shares_total": 0,
     "reposts": 0.0,
     "reposts_total": 0,
-    "seguidores_est": 0.46,
-    "seguidores_est_total": 0.46
+    "seguidores_est": 1.09,
+    "seguidores_est_total": 1.09
+   },
+   {
+    "tipo": "loca",
+    "formato": "escudos",
+    "n": 2,
+    "views": 1204.5,
+    "views_total": 2409,
+    "likes": 6.5,
+    "likes_total": 13,
+    "replies": 0.5,
+    "replies_total": 1,
+    "shares": 0.0,
+    "shares_total": 0,
+    "reposts": 0.5,
+    "reposts_total": 1,
+    "seguidores_est": 0.49,
+    "seguidores_est_total": 0.99
+   },
+   {
+    "tipo": "combi de 1 partido",
+    "formato": "escudos",
+    "n": 57,
+    "views": 1355,
+    "views_total": 99827,
+    "likes": 4,
+    "likes_total": 294,
+    "replies": 0,
+    "replies_total": 28,
+    "shares": 0,
+    "shares_total": 5,
+    "reposts": 0,
+    "reposts_total": 1,
+    "seguidores_est": 0.64,
+    "seguidores_est_total": 0.64
+   },
+   {
+    "tipo": "escalera",
+    "formato": "texto",
+    "n": 20,
+    "views": 696.5,
+    "views_total": 62327,
+    "likes": 2.5,
+    "likes_total": 146,
+    "replies": 1.0,
+    "replies_total": 17,
+    "shares": 0.0,
+    "shares_total": 0,
+    "reposts": 0.0,
+    "reposts_total": 1,
+    "seguidores_est": 0.3,
+    "seguidores_est_total": 0.59
    },
    {
     "tipo": "combi del día",
     "formato": "texto",
     "n": 14,
     "views": 1473.0,
-    "views_total": 19109,
+    "views_total": 19117,
     "likes": 2.0,
     "likes_total": 45,
     "replies": 0.0,
@@ -9725,15 +12107,15 @@
     "shares_total": 0,
     "reposts": 0.0,
     "reposts_total": 1,
-    "seguidores_est": 0.39,
-    "seguidores_est_total": 0.39
+    "seguidores_est": 0.3,
+    "seguidores_est_total": 0.3
    },
    {
     "tipo": "pick suelto",
     "formato": "foto",
     "n": 14,
     "views": 709.0,
-    "views_total": 16816,
+    "views_total": 16818,
     "likes": 1.0,
     "likes_total": 31,
     "replies": 0.5,
@@ -9742,32 +12124,15 @@
     "shares_total": 0,
     "reposts": 0.0,
     "reposts_total": 0,
-    "seguidores_est": 0.29,
-    "seguidores_est_total": 0.29
-   },
-   {
-    "tipo": "combi de 1 partido",
-    "formato": "escudos",
-    "n": 57,
-    "views": 1355,
-    "views_total": 99111,
-    "likes": 4,
-    "likes_total": 293,
-    "replies": 0,
-    "replies_total": 28,
-    "shares": 0,
-    "shares_total": 5,
-    "reposts": 0,
-    "reposts_total": 1,
-    "seguidores_est": 0.0,
-    "seguidores_est_total": 0.0
+    "seguidores_est": 0.22,
+    "seguidores_est_total": 0.22
    },
    {
     "tipo": "GANADORES",
     "formato": "tarjeta",
     "n": 21,
     "views": 2509,
-    "views_total": 266444,
+    "views_total": 266453,
     "likes": 6,
     "likes_total": 741,
     "replies": 1,
@@ -9855,11 +12220,24 @@
   ],
   "instagram": [
    {
+    "tipo": "loca",
+    "formato": "escudos",
+    "n": 2,
+    "views": 13.5,
+    "views_total": 27,
+    "likes": 0.0,
+    "likes_total": 0,
+    "shares": 0.0,
+    "shares_total": 0,
+    "saved": 0.0,
+    "saved_total": 0
+   },
+   {
     "tipo": "combi de 1 partido",
     "formato": "escudos",
     "n": 58,
     "views": 11.0,
-    "views_total": 681,
+    "views_total": 692,
     "likes": 0.0,
     "likes_total": 0,
     "shares": 0.0,
@@ -9870,40 +12248,40 @@
    {
     "tipo": "otros",
     "formato": "texto",
-    "n": 11,
-    "views": 10,
-    "views_total": 134,
-    "likes": 0,
+    "n": 16,
+    "views": 10.0,
+    "views_total": 201,
+    "likes": 0.0,
     "likes_total": 0,
-    "shares": 0,
+    "shares": 0.0,
     "shares_total": 0,
-    "saved": 0,
+    "saved": 0.0,
     "saved_total": 0
    },
    {
     "tipo": "escalera",
     "formato": "texto",
-    "n": 19,
-    "views": 11,
-    "views_total": 237,
-    "likes": 0,
+    "n": 20,
+    "views": 11.5,
+    "views_total": 243,
+    "likes": 0.0,
     "likes_total": 0,
-    "shares": 0,
+    "shares": 0.0,
     "shares_total": 0,
-    "saved": 0,
+    "saved": 0.0,
     "saved_total": 0
    },
    {
     "tipo": "GANADORES",
     "formato": "tarjeta",
-    "n": 19,
-    "views": 19,
-    "views_total": 378,
-    "likes": 0,
+    "n": 20,
+    "views": 18.5,
+    "views_total": 398,
+    "likes": 0.0,
     "likes_total": 1,
-    "shares": 0,
+    "shares": 0.0,
     "shares_total": 1,
-    "saved": 0,
+    "saved": 0.0,
     "saved_total": 0
    },
    {
@@ -10028,6 +12406,19 @@
  "top": [
   {
    "red": "threads",
+   "id": "2026-11-16-loca-th-0500-ganaambos",
+   "tipo": "loca",
+   "formato": "texto",
+   "views": 47052,
+   "likes": 88,
+   "replies": 10,
+   "reposts": 3,
+   "quotes": 0,
+   "shares": 1,
+   "seguidores_est": 58.25
+  },
+  {
+   "red": "threads",
    "id": "2026-11-10-ganadores-win",
    "tipo": "GANADORES",
    "formato": "tarjeta",
@@ -10037,19 +12428,6 @@
    "reposts": 13,
    "quotes": 0,
    "shares": 33
-  },
-  {
-   "red": "threads",
-   "id": "2026-11-16-loca-th-0500-ganaambos",
-   "tipo": "loca",
-   "formato": "texto",
-   "views": 29258,
-   "likes": 70,
-   "replies": 10,
-   "reposts": 2,
-   "quotes": 0,
-   "shares": 1,
-   "seguidores_est": 32.31
   },
   {
    "red": "threads",
@@ -10065,29 +12443,42 @@
   },
   {
    "red": "threads",
-   "id": "2026-11-16-ganadores-nations-texto",
-   "tipo": "GANADORES",
-   "formato": "texto",
-   "views": 14016,
-   "likes": 49,
-   "replies": 6,
-   "reposts": 1,
-   "quotes": 0,
-   "shares": 4,
-   "seguidores_est": 15.48
-  },
-  {
-   "red": "threads",
    "id": "2026-11-16-loca-th-0400-x100",
    "tipo": "loca",
    "formato": "texto",
-   "views": 12738,
-   "likes": 38,
+   "views": 19648,
+   "likes": 41,
    "replies": 1,
    "reposts": 1,
    "quotes": 0,
    "shares": 1,
-   "seguidores_est": 14.07
+   "seguidores_est": 24.32
+  },
+  {
+   "red": "threads",
+   "id": "2026-11-16-ganadores-nations-texto",
+   "tipo": "GANADORES",
+   "formato": "texto",
+   "views": 15211,
+   "likes": 52,
+   "replies": 6,
+   "reposts": 1,
+   "quotes": 0,
+   "shares": 4,
+   "seguidores_est": 18.83
+  },
+  {
+   "red": "threads",
+   "id": "2026-11-16-loca-th-0800-x50",
+   "tipo": "loca",
+   "formato": "texto",
+   "views": 12030,
+   "likes": 23,
+   "replies": 0,
+   "reposts": 2,
+   "quotes": 0,
+   "shares": 0,
+   "seguidores_est": 14.89
   },
   {
    "red": "threads",
@@ -10106,7 +12497,7 @@
    "id": "2026-11-14-ganadores-nations",
    "tipo": "GANADORES",
    "formato": "tarjeta",
-   "views": 25212,
+   "views": 25218,
    "likes": 110,
    "replies": 6,
    "reposts": 3,
@@ -10115,23 +12506,10 @@
   },
   {
    "red": "threads",
-   "id": "2026-11-16-loca-th-0800-x50",
-   "tipo": "loca",
-   "formato": "texto",
-   "views": 7971,
-   "likes": 19,
-   "replies": 0,
-   "reposts": 2,
-   "quotes": 0,
-   "shares": 0,
-   "seguidores_est": 8.8
-  },
-  {
-   "red": "threads",
    "id": "2026-11-13-ganadores-nations",
    "tipo": "GANADORES",
    "formato": "tarjeta",
-   "views": 22634,
+   "views": 22636,
    "likes": 78,
    "replies": 1,
    "reposts": 1,
@@ -10209,6 +12587,32 @@
    "reposts": 2,
    "quotes": 0,
    "shares": 1
+  },
+  {
+   "red": "threads",
+   "id": "2026-11-16-loca-th-1400-tiros-b",
+   "tipo": "loca",
+   "formato": "texto",
+   "views": 2360,
+   "likes": 4,
+   "replies": 0,
+   "reposts": 0,
+   "quotes": 0,
+   "shares": 0,
+   "seguidores_est": 2.13
+  },
+  {
+   "red": "threads",
+   "id": "2026-11-16-loca-th-1530-x100",
+   "tipo": "loca",
+   "formato": "texto",
+   "views": 2238,
+   "likes": 6,
+   "replies": 0,
+   "reposts": 0,
+   "quotes": 0,
+   "shares": 0,
+   "seguidores_est": 2.02
   },
   {
    "red": "threads",
@@ -10308,6 +12712,19 @@
   },
   {
    "red": "threads",
+   "id": "2026-11-16-loca-th-1730-escudos",
+   "tipo": "loca",
+   "formato": "escudos",
+   "views": 1720,
+   "likes": 11,
+   "replies": 1,
+   "reposts": 0,
+   "quotes": 0,
+   "shares": 0,
+   "seguidores_est": 0.71
+  },
+  {
+   "red": "threads",
    "id": "2026-11-08-combi-partido-1550193",
    "tipo": "combi de 1 partido",
    "formato": "escudos",
@@ -10353,42 +12770,6 @@
    "reposts": 0,
    "quotes": 0,
    "shares": 1
-  },
-  {
-   "red": "threads",
-   "id": "2026-11-04-escalera",
-   "tipo": "escalera",
-   "formato": "texto",
-   "views": 5683,
-   "likes": 7,
-   "replies": 0,
-   "reposts": 0,
-   "quotes": 0,
-   "shares": 0
-  },
-  {
-   "red": "threads",
-   "id": "2026-11-09-combi-tres",
-   "tipo": "combi del día",
-   "formato": "texto",
-   "views": 3468,
-   "likes": 14,
-   "replies": 0,
-   "reposts": 1,
-   "quotes": 0,
-   "shares": 0
-  },
-  {
-   "red": "threads",
-   "id": "2026-11-04-combi-partido-1635656",
-   "tipo": "combi de 1 partido",
-   "formato": "escudos",
-   "views": 2954,
-   "likes": 15,
-   "replies": 0,
-   "reposts": 0,
-   "quotes": 0,
-   "shares": 0
   }
  ]
 }
