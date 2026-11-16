@@ -7395,12 +7395,15 @@
     "directo": true,
     "forzar": true,
     "tipster_bueno": true,
-    "sel": [],
+    "sel": [
+      "1528990|Goals Over/Under First Half|Over 0.5",
+      "1528990|Goals Over/Under|Over 2.5"
+    ],
     "cuotas": [],
     "solo_en": [
       "telegram"
     ],
-    "nota": "copiado a mano por Claude con OK de Marcos (TRADER 16/11 12:00, partido solo en su foto); Crear apuesta: verde a mano",
+    "nota": "copiado a mano por Claude con OK de Marcos (TRADER 16/11 12:00, partido solo en su foto); Crear apuesta: verde a mano · 16/11 23:35 Claude: sel puesta a mano para seguir el verde/rojo",
     "foto_tg": "publicaciones/media/2026-11-16-pick-tip-3.tg.jpg",
     "enviado": "2026-11-16T12:17",
     "mensaje_id": 500
@@ -7945,9 +7948,12 @@
     "directo": true,
     "forzar": true,
     "tipster_bueno": true,
-    "sel": [],
+    "sel": [
+      "1528990|Both Teams Score|Yes",
+      "1528990|Goals Over/Under|Over 2.5"
+    ],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre) · 16/11 23:35 Claude: sel puesta a mano para seguir el verde/rojo",
     "foto_tg": "publicaciones/media/2026-11-16-pick-tip-9.tg.jpg",
     "enviado": "2026-11-16T18:43",
     "mensaje_id": 509,
@@ -7968,9 +7974,13 @@
     "directo": true,
     "forzar": true,
     "tipster_bueno": false,
-    "sel": [],
-    "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "sel": [
+      "1545652|Away Total ShotOnGoal|Over 2.5"
+    ],
+    "cuotas": [
+      1.53
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre) · 16/11 23:35 Claude: sel puesta a mano para seguir el verde/rojo",
     "foto_tg": "publicaciones/media/2026-11-16-pick-tip-10.tg.jpg",
     "enviado": "2026-11-16T18:43",
     "mensaje_id": 510,

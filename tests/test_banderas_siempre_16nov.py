@@ -35,3 +35,9 @@ class BanderasSiempre16Nov(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class CopiaSinSel16Nov(unittest.TestCase):   # 16/11: 3 copias sin «sel» no contaban en el resumen
+    def test_avisa(self):
+        src = open(T.RAIZ / "publicar_telegram.py", encoding="utf-8").read()
+        self.assertIn("aviso_sin_sel", src)

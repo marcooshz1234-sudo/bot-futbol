@@ -319,6 +319,14 @@ def main(objetivo=None):
             if t and len(corto) <= LIMITE_PIE_FOTO:
                 foto, texto = t, corto
                 p["foto_tg"] = foto
+        # 16/11 (Marcos: «arregla»): una copia sin «sel» no se sigue sola (verde/rojo ni resumen): aviso para ponérsela
+        if p.get("origen") == "tipster" and not p.get("sel") and not p.get("aviso_sin_sel"):
+            p["aviso_sin_sel"] = True
+            try:
+                import alineaciones_posts
+                alineaciones_posts.dm(f"🔎 {p['id']} sale sin mercado reconocido: no contará en verdes ni en el resumen hasta que Claude le ponga la «sel».")
+            except Exception as e:
+                print(f"Aviso sin sel: {e}")
         # 16/11 (Marcos: «programalo todo bien»): un pick o una copia NUNCA sale sin su foto de banderas/escudos
         if not foto and not p.get("sin_tarjeta") and ("-pick-" in p.get("id", "") or p.get("origen") == "tipster"):
             print(f"Sin foto, no sale: {p['id']}")
