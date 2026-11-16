@@ -31,43 +31,9 @@
    "post": "2026-11-14-cuotaza-1570018-88fe62"
   }
  },
- "top": [
-  {
-   "local": "Switzerland",
-   "visitante": "Scotland",
-   "inicio": "2026-11-16T20:45",
-   "texto": "Scotland marca",
-   "cuota": 1.67,
-   "justa": 1.61,
-   "ev": 0.039,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Switzerland",
-   "visitante": "Scotland",
-   "inicio": "2026-11-16T20:45",
-   "texto": "Ambos marcan en Switzerland–Scotland",
-   "cuota": 2.0,
-   "justa": 1.95,
-   "ev": 0.027,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Switzerland",
-   "visitante": "Scotland",
-   "inicio": "2026-11-16T20:45",
-   "texto": "Scotland o empate",
-   "cuota": 2.1,
-   "justa": 2.11,
-   "ev": -0.005,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  }
- ],
+ "top": [],
  "ultima": {
-  "hora": "2026-11-16T18:22",
+  "hora": "2026-11-16T18:43",
   "revisadas": 0,
   "mejor": null
  },

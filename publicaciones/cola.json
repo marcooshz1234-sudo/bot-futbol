@@ -7947,7 +7947,10 @@
     "tipster_bueno": true,
     "sel": [],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-16-pick-tip-9.tg.jpg",
+    "enviado": "2026-11-16T18:43",
+    "mensaje_id": 509
   },
   {
     "id": "2026-11-16-pick-tip-10",
@@ -7960,6 +7963,9 @@
     "tipster_bueno": false,
     "sel": [],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "foto_tg": "publicaciones/media/2026-11-16-pick-tip-10.tg.jpg",
+    "enviado": "2026-11-16T18:43",
+    "mensaje_id": 510
   }
 ]
