@@ -119,12 +119,17 @@
   "check-2026-11-16-loca-th-2030-ganaambos": "2026-11-16T03:15",
   "regla-orden-2026-11-16-loca-th-1900-x50": "2026-11-16T03:15",
   "regla-escudos-2026-11-17-combi-partido-1528992": "2026-11-16T08:01",
-  "foto-2026-11-16-pick-tip-2": "2026-11-16T10:45"
+  "foto-2026-11-16-pick-tip-2": "2026-11-16T10:45",
+  "prensa-1528990-27ce62a9": "2026-11-16T12:06"
  },
  "abiertos": [
   {
    "clave": "repe-2026-11-16-1570014|Match Winner|Home",
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (pick-tip-2, loca-th-1130-lista-gana, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "prensa-1528990-27ce62a9",
+   "t": "📰 Alemania–Países Bajos: «Xavi: \"La lesión de Frenkie es muy leve pero no juega en Alemania\"» (Mundo Deportivo) · tenemos 7 post(s) de este partido: combi-m, loca-th-1530-x100, combi-partido-m-1528990, loca-th-1830-hora, loca-th-1900-x50, loca-th-2000-lista-corners, loca-th-2030-ganaambos"
   },
   {
    "clave": "prensa-1528992-52705683",
@@ -135,8 +140,12 @@
    "t": "📏 Regla (escudos): combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): Home Corners Over/Under|Over 2.5 · «Os dejo la combi del Gales – Portugal ⚽🔥» (19:45)"
   }
  ],
- "revisado": "2026-11-16T11:44",
+ "revisado": "2026-11-16T12:06",
  "historial": [
+  {
+   "hora": "2026-11-16T12:06",
+   "t": "📰 Alemania–Países Bajos: «Xavi: \"La lesión de Frenkie es muy leve pero no juega en Alemania\"» (Mundo Deportivo) · tenemos 7 post(s) de este partido: combi-m, loca-th-1530-x100, combi-partido-m-1528990, loca-th-1830-hora, loca-th-1900-x50, loca-th-2000-lista-corners, loca-th-2030-ganaambos"
+  },
   {
    "hora": "2026-11-16T10:45",
    "t": "🖼️ Sale a las 10:58 y su foto no está hecha (o es vieja): Os dejo otro pick que pinta muy bien 👀"
@@ -372,10 +381,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1500-x1000, loca-th-1730-x500)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0900-x50, loca-th-1300-x50, loca-th-1530-x50, loca-th-1930-x50)"
   }
  ]
 }

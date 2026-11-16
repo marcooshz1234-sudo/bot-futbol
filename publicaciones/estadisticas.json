@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16 11:44",
+ "actualizado": "2026-11-16 12:06",
  "redes": {
   "instagram": {
-   "seguidores": 42,
-   "hoy": 1,
+   "seguidores": 43,
+   "hoy": 2,
    "serie": [
     36,
     37,
@@ -11,12 +11,12 @@
     40,
     40,
     41,
-    42
+    43
    ]
   },
   "threads": {
-   "seguidores": 2874,
-   "hoy": 82,
+   "seguidores": 2876,
+   "hoy": 84,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2874
+    2876
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3343,
- "total_hoy": 98,
+ "total": 3346,
+ "total_hoy": 101,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "12:00",
+  "hora": "13:00",
   "dia": "2026-11-16",
-  "titulo": "La combi de los empates"
+  "titulo": "Reto de 1 a 721"
  },
  "ayer": {
   "aciertos": 2,
@@ -215,8 +215,8 @@
    "telegram": 411
   },
   "2026-11-16": {
-   "instagram": 42,
-   "threads": 2874,
+   "instagram": 43,
+   "threads": 2876,
    "facebook": 1,
    "telegram": 426
   }
