@@ -118,6 +118,25 @@ def url_media(p, ext):
 
 # ------------------------------------------------------------------ cada red
 
+CUOTON = 10.0
+
+
+def resultado_sin_cuoton(p):
+    """16/11 (Marcos: «en Threads no quiero ni que subas cuánto hemos acertado durante el día… solo si aciertas un
+    cuotón bueno, mínimo 10: "señores, acertamos tal"»): verdes, rojos, balances y resúmenes NO salen en Threads ni en
+    Instagram (ni como comentario), salvo un verde de cuota 10 o más. Threads e Instagram son las combis locas."""
+    pid = p.get("id", "")
+    es_resultado = bool(p.get("resultado") or p.get("verde_de")) or bool(
+        re.search(r"-(verde|rojo|balance|resumen|resultado)(-|$)", pid))
+    if not es_resultado:
+        return False
+    if (p.get("resultado") == "verde" or "verde" in pid) and "rojo" not in pid:
+        cs = [float(c.replace(",", ".")) for c in re.findall(r"(?:@|\bx)\s*(\d+(?:[.,]\d+)?)", p.get("texto") or "")]
+        if cs and max(cs) >= CUOTON:
+            return False
+    return True
+
+
 def foto_threads(p):
     """12/11 (Marcos: «pick del día y ganadores»): la única foto que lleva un post en Threads (o None)."""
     if p.get("sin_foto"):   # 16/11 (Marcos: «súbela sin foto, si son tantas cosas no hace falta»)
@@ -598,6 +617,8 @@ def main(objetivo=None):
         errores = p.setdefault("errores_redes", {})
         tareas = []
         solo = p.get("solo_en")   # p. ej. ["threads"]: este post solo va a esas redes
+        if resultado_sin_cuoton(p):   # 16/11 (Marcos): en Threads/Instagram nada de aciertos, salvo un cuotón (≥ 10)
+            solo = ["telegram"]
         if solo:
             for red in ("threads", "instagram", "instagram_reel", "instagram_story", "facebook"):
                 if red not in solo and red not in hecho:

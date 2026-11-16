@@ -11,6 +11,13 @@
 
 ---
 
+## 0. Para qué es cada red (16/11, Marcos) — manda sobre lo de abajo si choca
+- **Threads e Instagram = COMBILOCAS de verdad, para captar gente que se vaya al Telegram.** Mucho volumen: todos los picks que gusten del día, combis con escudos, listas, GANADORES, y muchas combis locas (cuota 100, cuota 500…).
+  - Formato: partidos sin foto → solo texto con emojis; un partido con 4-5 cosas → los 2 escudos; un pick solo → su foto.
+  - **Nada de cuánto hemos acertado** (ni verdes, ni rojos, ni balances, ni como comentario), salvo un verde de **cuota 10 o más** («Señores, acertamos tal»).
+  - Lo que más importa medir es **la gente que te sigue desde cada post** (y los likes); las visualizaciones también, pero menos (rendimiento_redes.py).
+- **Telegram = lo serio (lo que luego se podrá vender).** Sobre todo **picks sueltos**: «Cuota 1,70 · Este pick me gusta mucho», «Esta cuota está bien». **Siempre o casi siempre el porqué** de cada pick o datos de ese partido, para que sea creíble. Nunca «puede que la bajen» de nuestra parte (eso solo si lo dice un tipster).
+
 ## 1. Cuotas
 - 🤖 Un pick solo: **mínimo 1,35** (12/11: «nadie coge un 1,11»).
 - 🤖 Cada pata de una combi: **mínimo 1,20** (12/11). Excepción: UNA pata de 1,15–1,20 si es gana/no pierde de un

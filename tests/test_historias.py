@@ -10,12 +10,12 @@ import redes
 
 
 class Historias(unittest.TestCase):
-    def test_verde_sale_tambien_como_historia(self):
+    def test_verde_sale_tambien_como_historia(self):   # 16/11: en redes solo verdes de cuota ≥ 10
         with tempfile.TemporaryDirectory() as d:
             root = Path(d); pub = root / "publicaciones"; (pub / "media").mkdir(parents=True)
             ahora = datetime.now(redes.MADRID)
             post = {"id": "2026-10-26-verde-auto-x", "fecha": (ahora - timedelta(minutes=1)).strftime("%Y-%m-%dT%H:%M"),
-                    "texto": "✅💚 ¡VERDE x3,00! A 🆚 B 💚✅", "directo": True}
+                    "texto": "✅💚 ¡VERDE x12,00! A 🆚 B 💚✅", "directo": True}
             (pub / "cola.json").write_text(json.dumps([post]))
             for ext in ("jpg", "mp4", "story.jpg"):
                 (pub / "media" / f"{post['id']}.{ext}").write_text("x")
