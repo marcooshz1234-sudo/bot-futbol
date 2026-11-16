@@ -176,6 +176,26 @@ def comprobar(p, texto=None, otros=None):
     return fallos
 
 
+def firma(t):
+    """16/11: el mismo pick escrito con otras palabras («más de 2,5 goles y gol en la 1ª parte en Alemania–Países
+    Bajos» / «gol en la 1ª parte y más de 2,5 goles en el partido») salió 2 veces en Telegram. Firma = partido (línea
+    ⚽) + las condiciones tal y como las lee la tarjeta («+2,5 GOLES», «GOL 1ª PARTE»…). None si no se puede leer."""
+    import unicodedata
+    try:
+        import tarjeta_tg as T
+    except Exception:
+        return None
+    m = re.search(r"⚽\s*(.+?)\s*·", t or "")
+    if not m:
+        return None
+    partido = re.sub(r"[^a-z]+", "", unicodedata.normalize("NFKD", m.group(1)).encode("ascii", "ignore").decode().lower())
+    try:
+        picks = frozenset(f["pick"] for f in T.filas(T.patas(t), m.group(1)) if f and f.get("pick") not in (None, "✓"))
+    except Exception:
+        return None
+    return (partido, picks) if partido and picks else None
+
+
 def _picks_txt(t):
     """Las líneas de pick de un texto, normalizadas (sin emoji ni espacios): para ver si dos posts son el mismo."""
     import unicodedata
@@ -204,6 +224,7 @@ def duplicado(p, texto=None, cola=None):
     mios = _picks_txt(texto or p.get("texto"))
     if not mios:
         return None
+    mi_firma = firma(texto or p.get("texto"))
     if cola is None:
         cola = (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or [])
     b = leer(RAIZ / "publicaciones" / "borrados.json", []) or []
@@ -214,7 +235,7 @@ def duplicado(p, texto=None, cola=None):
             continue
         if o.get("id") == p.get("repuesto_de"):
             continue
-        if _picks_txt(o.get("texto")) != mios:
+        if _picks_txt(o.get("texto")) != mios and not (mi_firma and firma(o.get("texto")) == mi_firma):
             continue
         salio = ({"telegram"} if o.get("enviado") else set()) | {k for k, v in (o.get("redes") or {}).items() if v}
         salio = {"instagram" if k.startswith("instagram") else k for k in salio}

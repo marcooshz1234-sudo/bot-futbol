@@ -127,6 +127,13 @@ def pick_suelto(p):
     pid = p.get("id", "")
     if re.search(r"ganadores|lista|loca-th|escalera|verde|rojo|balance|resumen", pid) or p.get("tarjeta"):
         return False
+    if not p.get("sel") and (p.get("origen") == "tipster" or "-tip-" in pid):
+        # 16/11: copia de un canal sin sel (Crear apuesta de un partido): salió en Threads e Instagram
+        try:
+            import tarjeta_tg
+            return len(tarjeta_tg.patas(p.get("texto") or "")) == 1
+        except Exception:
+            return False
     return len(set(p.get("sel") or [])) == 1
 
 
