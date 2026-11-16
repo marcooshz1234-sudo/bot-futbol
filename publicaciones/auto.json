@@ -5425,12 +5425,11 @@
   {
     "id": "2026-11-16-loca-th-1530-x100",
     "fecha": "2026-11-16T15:30",
-    "texto": "🔥 COMBI POR 60,08 🔥\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 Eslovaquia más de 5,5 córners\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Estonia más de 4,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 +8,5 córners\n🇪🇸 Albacete–Celta de Vigo II 20:30\n🎯 Agustin Medina: 4+ tiros\n🇩🇪 Alemania–Países Bajos 20:45\n🎯 Brian Brobbey: 3+ tiros\n🇬🇷 Grecia–Serbia 20:45\n🎯 Christos Zafeiris: 2+ tiros\n🇨🇭 Suiza–Escocia 20:45\n🎯 Winsley Boteli: 3+ tiros\n\n🎯 CUOTA 60,08 💎 10€ → 601€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "texto": "🔥 COMBI POR 60,08 🔥\n\n🇰🇿 Kazajistán–Eslovaquia 16:00\n🚩 Eslovaquia más de 5,5 córners\n🇪🇪 Estonia–Bulgaria 18:00\n🚩 Estonia más de 4,5 córners\n🇱🇹 Lituania–Liechtenstein 18:00\n🚩 +8,5 córners\n🎯 Agustin Medina: 4+ tiros\n🇩🇪 Alemania–Países Bajos 20:45\n🎯 Brian Brobbey: 3+ tiros\n🇬🇷 Grecia–Serbia 20:45\n🎯 Christos Zafeiris: 2+ tiros\n🇨🇭 Suiza–Escocia 20:45\n🎯 Winsley Boteli: 3+ tiros\n\n🎯 CUOTA 38,60 💎 10€ → 601€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
     "sel": [
       "1528986|Away Corners Over/Under|Over 5.5",
       "1528988|Home Corners Over/Under|Over 4.5",
       "1528989|Corners Over Under|Over 8.5",
-      "1570014|Home Player Shots|Agustin Medina - 4",
       "1528990|Away Player Shots|Brian Brobbey - 3",
       "1528991|Home Player Shots|Christos Zafeiris - 2",
       "1545652|Home Player Shots|Winsley Boteli - 3"
@@ -5439,7 +5438,6 @@
       1.8,
       1.73,
       1.95,
-      1.73,
       1.73,
       2.2,
       1.67
@@ -5454,7 +5452,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-16T14:56"
+    "cuotas_revisadas": "2026-11-16T14:56",
+    "revisado_alineaciones": "2026-11-16T20:00"
   },
   {
     "id": "2026-11-16-combi-partido-m-1528990",

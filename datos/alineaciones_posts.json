@@ -32,6 +32,9 @@
   "2026-11-07-estrella-1557457|Mohamed Belloumi: 1+ tiros",
   "2026-11-08-combi-loca|Pathe Mboup: 2+ tiros",
   "2026-11-08-estrella-1557464|Emiliano Buendia comete 1+ faltas",
+  "2026-11-16-loca-th-1300-reto|Hugo Martinez Capi: 3+ tiros",
+  "2026-11-16-loca-th-1530-x100|Agustin Medina: 4+ tiros",
+  "2026-11-16-loca-th-1900-x50|Antonio Puertas: 4+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -249,6 +252,11 @@
   "clave|2026-11-14-ganadores-nations|1528977|Match Winner|Away|P. Zieliński",
   "clave|2026-11-15-ganadores-nations|1528980|Match Winner|Away|E. Muçi",
   "clave|2026-11-15-ganadores-nations|1528981|Match Winner|Home|A. Marhiev",
+  "clave|2026-11-16-loca-th-0700-duelo|1570014|Away Player Shots|Angel Arcos - 2|A. Kibet",
+  "clave|2026-11-16-loca-th-1000-x500|1570014|Away Player Shots|Hugo Lopez - 3|A. Kibet",
+  "clave|2026-11-16-loca-th-1300-reto|1570014|To Win Either Half|Away|A. Kibet",
+  "clave|2026-11-16-loca-th-1500-duelo|1570014|Away Player Shots|Angel Arcos - 2|A. Kibet",
+  "clave|2026-11-16-loca-th-1630-escudos|1570014|Total - Away|Over 0.5|A. Kibet",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -3044,10 +3052,148 @@
    }
   },
   "1570014": {
-   "hora": "2026-11-16T19:50:35.356386+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-16T20:00:39.454663+01:00",
+   "xi": [
+    "Diego Mariño",
+    "Lorenzo Aguado",
+    "Vallejo",
+    "Lluís López",
+    "Carlos Neva",
+    "Róber",
+    "Sergio Ortu",
+    "Antonio Pacheco",
+    "Víctor Valverde",
+    "Alex Rubio",
+    "Mario Soberón",
+    "Coke Carrillo",
+    "G. Miller",
+    "A. Rodriguez",
+    "Raúl Chirveches Sánchez",
+    "Vladimir Henrique Silva",
+    "Andrés Antañón",
+    "Stefan Bajčetić",
+    "Jan Oliveras",
+    "O. Marcos",
+    "A. Marin",
+    "Ángel Arcos"
+   ],
+   "banquillo": [
+    "A. Albarracín",
+    "D. Bernabeu",
+    "Jota Domingo",
+    "F. Garcia",
+    "Capi",
+    "Carlos Marín",
+    "Agus Medina",
+    "Antonio David",
+    "Pepe Sánchez",
+    "A. Velilla",
+    "Javi Villar",
+    "M. Gonzalez",
+    "A. Davila Outerelo",
+    "Caio Barone",
+    "David Sueiro Muiños",
+    "Noah Rodríguez Guallar",
+    "Jorge Pérez-Lafuente Rey",
+    "Alexis Olmedo",
+    "S. M. Ndiaye",
+    "H. Lopez",
+    "P. Meixus"
+   ],
+   "equipos": {
+    "722": [
+     {
+      "n": "Diego Mariño",
+      "pos": "G"
+     },
+     {
+      "n": "Lorenzo Aguado",
+      "pos": "D"
+     },
+     {
+      "n": "Vallejo",
+      "pos": "D"
+     },
+     {
+      "n": "Lluís López",
+      "pos": "D"
+     },
+     {
+      "n": "Carlos Neva",
+      "pos": "D"
+     },
+     {
+      "n": "Róber",
+      "pos": "M"
+     },
+     {
+      "n": "Sergio Ortu",
+      "pos": "M"
+     },
+     {
+      "n": "Antonio Pacheco",
+      "pos": "M"
+     },
+     {
+      "n": "Víctor Valverde",
+      "pos": "M"
+     },
+     {
+      "n": "Alex Rubio",
+      "pos": "F"
+     },
+     {
+      "n": "Mario Soberón",
+      "pos": "F"
+     }
+    ],
+    "9571": [
+     {
+      "n": "Coke Carrillo",
+      "pos": "G"
+     },
+     {
+      "n": "G. Miller",
+      "pos": "D"
+     },
+     {
+      "n": "A. Rodriguez",
+      "pos": "D"
+     },
+     {
+      "n": "Raúl Chirveches Sánchez",
+      "pos": "D"
+     },
+     {
+      "n": "Vladimir Henrique Silva",
+      "pos": "M"
+     },
+     {
+      "n": "Andrés Antañón",
+      "pos": "M"
+     },
+     {
+      "n": "Stefan Bajčetić",
+      "pos": "M"
+     },
+     {
+      "n": "Jan Oliveras",
+      "pos": "M"
+     },
+     {
+      "n": "O. Marcos",
+      "pos": "F"
+     },
+     {
+      "n": "A. Marin",
+      "pos": "F"
+     },
+     {
+      "n": "Ángel Arcos",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1545652": {
    "hora": "2026-11-16T19:55:38.291035+01:00",
