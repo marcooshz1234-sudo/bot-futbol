@@ -298,7 +298,11 @@ def main():
             if f.get("status", {}).get("short") in ("PST", "CANC", "SUSP") or (
                     nueva and datetime.fromisoformat(str(nueva)).astimezone(MADRID).strftime("%Y-%m-%d") != act["dia"]):
                 movido = True
-        if not publicado and (movido or primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")):
+        # 16/11: la escalera elegida a mano por Marcos («manual») no se rehace con los datos nuevos (la de Islandia +
+        # Grecia se cambió sola por «Gana Eslovaquia» en la recogida de las 08:57 y salió así). Solo si el partido se mueve
+        if act.get("manual") and not movido:
+            print("Escalera: elegida a mano, no se toca")
+        elif not publicado and (movido or primero > datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")):
             dia_datos = picks["dias"].get(act["dia"]) or {"picks": [], "mejores_por_partido": []}
             elegido = elegir(dia_datos, fecha=act["dia"])
             menor = partido_menor(act) or pata_alta(act)   # 13/11: elegido antes de las reglas nuevas
