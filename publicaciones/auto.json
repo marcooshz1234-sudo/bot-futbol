@@ -5701,12 +5701,12 @@
     ],
     "cuotas": [
       1.67,
-      1.57,
+      1.53,
       1.62,
       1.57,
-      1.67,
-      1.57,
-      1.83,
+      1.62,
+      1.5,
+      1.91,
       1.95
     ],
     "solo_en": [
@@ -5718,7 +5718,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-16T17:32"
   },
   {
     "id": "2026-11-16-loca-th-1930-tapados",
