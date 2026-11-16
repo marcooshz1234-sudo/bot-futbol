@@ -3123,5 +3123,30 @@
    5,
    0
   ]
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47205",
+  "dia": "2026-11-16",
+  "local": "Greece",
+  "visitante": "Serbia",
+  "partido_id": 1528991,
+  "texto": "Más de 5,5 goles en Grecia–Serbia",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 5.5",
+  "cuota": 1.72,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 10.0,
+   "prob_cuota": 0.581
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   0
+  ]
  }
 ]
