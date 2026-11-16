@@ -6489,7 +6489,7 @@
       1.83,
       2.0,
       2.25,
-      2.1
+      2.0
     ],
     "solo_en": [
       "threads"
@@ -6500,7 +6500,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T08:03"
   },
   {
     "id": "2026-11-16-loca-th-1000-x500",
