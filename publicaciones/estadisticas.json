@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 15:40",
+ "actualizado": "2026-11-16 15:56",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2929,
-   "hoy": 137,
+   "seguidores": 2932,
+   "hoy": 140,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2929
+    2932
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3407,
- "total_hoy": 162,
+ "total": 3410,
+ "total_hoy": 165,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "15:52",
+  "hora": "16:00",
   "dia": "2026-11-16",
-  "titulo": "Otra de jugadores · x12,9"
+  "titulo": "Os dejo la combi del alemania – países"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,7 +216,7 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2929,
+   "threads": 2932,
    "facebook": 1,
    "telegram": 434
   }

@@ -848,21 +848,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/46956",
-   "fecha": "2026-11-11T13:47",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-11T14:05",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_46956.jpg"
-  },
-  {
-   "id": "-1001468963672/46955",
-   "fecha": "2026-11-11T13:47",
-   "texto": "🧠 STAKE 3 (Invertimos 3%)\n🎁 BONO DE 100€ GRATIS AQUI 🚀\n🔞Apuesta responsable",
-   "foto": false,
-   "visto": "2026-11-11T14:05"
-  },
-  {
    "id": "-1001468963672/46954",
    "fecha": "2026-11-11T13:47",
    "texto": "",
@@ -2339,24 +2324,24 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-16T15:32"
+  },
+  {
+   "id": "-1001468963672/47174",
+   "fecha": "2026-11-16T15:54",
+   "texto": "🎁 ¡DESCUENTO ESPECIAL! 🥳\n\n📲 Los 50 primeros en comprar el apueston tenéis un DESCUENTO del 20% YA APLICADO.✅\n\n⏰¡EN 5 MIN. ABRO PLAZAS!⚠️",
+   "foto": false,
+   "visto": "2026-11-16T15:56"
+  },
+  {
+   "id": "-1001468963672/47173",
+   "fecha": "2026-11-16T15:54",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-16T15:56",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47173.jpg"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/86149",
-   "fecha": "2026-11-10T12:39",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-10T16:47",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__86149.jpg"
-  },
-  {
-   "id": "-1002463340479/86152",
-   "fecha": "2026-11-10T12:52",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-10T16:47"
-  },
   {
    "id": "-1002463340479/86151",
    "fecha": "2026-11-10T12:52",
@@ -3835,6 +3820,21 @@
    "foto": true,
    "visto": "2026-11-16T15:45",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__86985.jpg"
+  },
+  {
+   "id": "-1002463340479/86986",
+   "fecha": "2026-11-16T15:53",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-16T15:56",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__86986.jpg"
+  },
+  {
+   "id": "-1002463340479/86987",
+   "fecha": "2026-11-16T15:55",
+   "texto": "➡️ Con sólo 30€ ganarás +150.000€\n➡️ Con sólo 60€ ganarás +300.000€\n➡️ Con sólo 100€ ganarás +500.000EUROS 💰\n\n🛍https://premiumpay.pro/2032/A\n\n🟥🟥🟥🟥🟥🟥🟥🚘🚘🚘",
+   "foto": false,
+   "visto": "2026-11-16T15:56"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -4314,13 +4314,6 @@
   }
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
-  {
-   "id": "-1001550157115/100330",
-   "fecha": "2026-11-13T22:37",
-   "texto": "✅ ¿Qué son los Stakazos?\n\nSon nuestras apuestas de máxima confianza, nuestro servicio más exclusivo con el que más dinero se puede llegar a ganar. 💯\n\n✔️ Apuesta de MÁXIMA CONFIANZA\n✔️ Apuesta ARGUMENTADA\n✔️ 100% fácil de SEGUIR\n✔️ Válido para TODO EL MUNDO\n✔️ Apuestas publicadas con TIEMPO",
-   "foto": false,
-   "visto": "2026-11-13T22:49"
-  },
   {
    "id": "-1001550157115/100331",
    "fecha": "2026-11-13T22:47",
@@ -5796,6 +5789,13 @@
    "texto": "VAMOS A POR LA TERCERA COMBINADA PREMIUM CONSECUTIVA‼️🎯\n\nEsa es nuestra filosofía. Seleccionar, analizar y quedarnos con lo que realmente nos convence. Y precisamente por eso la apuesta premium de hoy merece muchísimo nuestra atención. El momento es único, aprovéchalo. \n\n➡️ ACCESO PREMIUM: https://mypago.net/shop/grupoviptrader",
    "foto": false,
    "visto": "2026-11-16T15:45"
+  },
+  {
+   "id": "-1001550157115/100540",
+   "fecha": "2026-11-16T15:46",
+   "texto": "VAMOS A POR LA TERCERA COMBINADA PREMIUM CONSECUTIVA‼️🎯\n\nEsa es nuestra filosofía. Seleccionar, analizar y quedarnos con lo que realmente nos convence. Y precisamente por eso la apuesta premium de hoy merece muchísimo nuestra atención. El momento es único, aprovéchalo. \n\n➡️ ACCESO PREMIUM: https://mypago.net/shop/grupoviptrader",
+   "foto": false,
+   "visto": "2026-11-16T15:56"
   }
  ],
  "MisterBasquet 🏀": [
