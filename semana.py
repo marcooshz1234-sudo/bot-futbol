@@ -46,6 +46,7 @@ def pais_equipo(nombre):
 SELECCIONES = {"Czech Republic": "Czech-Republic", "Czechia": "Czech-Republic", "Türkiye": "Turkey",
                "North Macedonia": "North-Macedonia", "Faroe Islands": "Faroe-Islands",
                "Bosnia and Herzegovina": "Bosnia", "Bosnia & Herzegovina": "Bosnia", "Republic of Ireland": "Ireland",
+               "Rep. Of Ireland": "Ireland", "Rep. of Ireland": "Ireland", "Ireland Republic": "Ireland",   # 16/11: así la llama la API
                "Northern Ireland": "Northern-Ireland"}
 
 
