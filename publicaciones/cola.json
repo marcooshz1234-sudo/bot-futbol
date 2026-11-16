@@ -7736,5 +7736,31 @@
     ],
     "nota": "16/11 Marcos: «en Threads sube la captura en todas» (boleto suyo de bet365, sin el dinero)",
     "texto": "🎯 LA CORTITA · x5,4 🔥\n\n🇮🇸 Islandia marca 2 o más\n🎯 Más de 8,5 remates a puerta en Grecia–Serbia\n🇩🇪 Gana Alemania + 🟨 Justin Kluivert (Países Bajos) 1+ falta\n\n🎯 CUOTA 5,40 💎 10€ → 54€\n💚 ¿Quién se sube? 👇"
+  },
+  {
+    "id": "2026-11-16-boleto-gana-ambos-foto",
+    "fecha": "2026-11-16T15:14",
+    "texto": "📸 Aquí va el boleto 👇",
+    "foto": "publicaciones/media/2026-11-16-boleto-gana-ambos.jpg",
+    "comentario_de": "2026-11-16-boleto-gana-ambos",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "nota": "16/11 Marcos: la captura como comentario (el post salió sin foto)"
+  },
+  {
+    "id": "2026-11-16-boleto-larga-foto",
+    "fecha": "2026-11-16T15:14",
+    "texto": "📸 Aquí va el boleto 👇",
+    "foto": "publicaciones/media/2026-11-16-boleto-larga.jpg",
+    "comentario_de": "2026-11-16-boleto-larga",
+    "origen": "claude",
+    "directo": true,
+    "solo_en": [
+      "threads"
+    ],
+    "nota": "16/11 Marcos: la captura como comentario (el post salió sin foto)"
   }
 ]

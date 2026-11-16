@@ -314,7 +314,8 @@ def lleva_enlace(p):
 def hilo_original(p):
     """12/11: id de Threads del post del que este es el verde/rojo (verde_de / rojo_de), si salió en Threads."""
     import json as _json
-    orig = p.get("verde_de") or p.get("rojo_de")
+    # 16/11 (Marcos: «pon en los comentarios la foto» de los boletos que salieron sin captura): «comentario_de»
+    orig = p.get("verde_de") or p.get("rojo_de") or p.get("comentario_de")
     if not orig:
         return None
     base = Path(__file__).parent / "publicaciones"
