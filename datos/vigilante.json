@@ -1,5 +1,5 @@
 {
- "informe": "2026-11-15",
+ "informe": "2026-11-16",
  "vistos": {
   "foto-2026-11-13-pick-tip-1": "2026-11-13T13:49",
   "escalera-2026-11-13": "2026-11-13T14:21",
@@ -122,59 +122,15 @@
  },
  "abiertos": [
   {
-   "clave": "check-2026-11-16-loca-th-1000-x500",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x440 💎"
-  },
-  {
-   "clave": "check-2026-11-16-loca-th-1530-x100",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🔥 COMBI POR 60,08 🔥"
-  },
-  {
-   "clave": "check-2026-11-16-loca-th-2030-ganaambos",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽"
-  },
-  {
-   "clave": "choca-2026-11-16-1528986|Match Winner|Away-1528986|Match Winner|Draw",
-   "t": "⚔️ 16/11: se contradicen (loca-th-1130-lista-gana: Match Winner|Away ↔ loca-th-1200-empates: Match Winner|Draw)"
-  },
-  {
-   "clave": "choca-2026-11-16-1528987|Match Winner|Draw-1528987|Match Winner|Home",
-   "t": "⚔️ 16/11: se contradicen (loca-th-1200-empates: Match Winner|Draw ↔ combi-m, loca-th-1130-lista-gana: Match Winner|Home)"
-  },
-  {
    "clave": "prensa-1528992-52705683",
    "t": "📰 Gales–Portugal: «Bernardo Silva causa baja en Portugal por lesión - esto» (El Sol de México) · tenemos 4 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres, combi-partido-1528992"
   },
   {
-   "clave": "regla-orden-2026-11-16-escalera",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🪜 Reto escalera · Día 1/7» (11:00)"
-  },
-  {
    "clave": "regla-escudos-2026-11-17-combi-partido-1528992",
    "t": "📏 Regla (escudos): combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): Home Corners Over/Under|Over 2.5 · «Os dejo la combi del Gales – Portugal ⚽🔥» (19:45)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-combi-m",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «Vamos con la combi del lunes familia 🔥» (13:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1000-x500",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💎 COMBI x440 💎» (10:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1300-reto",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💶 RETO: DE 1€ A 721€ 💶» (13:00)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1530-x100",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 60,08 🔥» (15:30)"
-  },
-  {
-   "clave": "regla-orden-2026-11-16-loca-th-1900-x50",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,32 🤑» (19:00)"
   }
  ],
- "revisado": "2026-11-16T09:07",
+ "revisado": "2026-11-16T10:15",
  "historial": [
   {
    "hora": "2026-11-16T08:01",

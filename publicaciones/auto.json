@@ -5249,9 +5249,10 @@
       "1545662|Match Winner|Away"
     ],
     "cuotas": [
-      1.57
+      1.5
     ],
-    "texto": "Pick del día 🍀\n\n⚽ Macedonia del Norte – Eslovenia · 20:45\n\n🇸🇮 Gana Eslovenia @1,57\n\n🧠 Por qué:\n• Macedonia ya es última del grupo pase lo que pase: no se juega nada.\n• Macedonia lleva 1 gol a favor y 12 en contra en 5 partidos (5 derrotas).\n• A Eslovenia le basta con no perder para acabar 2.ª y jugar el play-off de subida: sale a por él.\n\nEsta cuota está bien 👌"
+    "texto": "Pick del día 🍀\n\n⚽ Macedonia del Norte – Eslovenia · 20:45\n\n🇸🇮 Gana Eslovenia @1,57\n\n🧠 Por qué:\n• Macedonia ya es última del grupo pase lo que pase: no se juega nada.\n• Macedonia lleva 1 gol a favor y 12 en contra en 5 partidos (5 derrotas).\n• A Eslovenia le basta con no perder para acabar 2.ª y jugar el play-off de subida: sale a por él.\n\nEsta cuota está bien 👌",
+    "cuotas_revisadas": "2026-11-16T10:12"
   },
   {
     "id": "2026-11-16-escalera",
@@ -5278,9 +5279,9 @@
       "1528990|Match Winner|Home"
     ],
     "cuotas": [
-      1.85,
       1.8,
-      1.62,
+      1.75,
+      1.57,
       1.85
     ],
     "solo_en": [
@@ -5292,7 +5293,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-16T10:12"
   },
   {
     "id": "2026-11-16-loca-th-1200-empates",

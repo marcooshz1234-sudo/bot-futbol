@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 08:42",
+ "actualizado": "2026-11-16 10:14",
  "redes": {
   "instagram": {
    "seguidores": 42,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2849,
-   "hoy": 57,
+   "seguidores": 2859,
+   "hoy": 67,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2849
+    2859
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 421,
-   "hoy": 10,
+   "seguidores": 423,
+   "hoy": 12,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    421
+    423
    ]
   }
  },
- "total": 3313,
- "total_hoy": 68,
+ "total": 3325,
+ "total_hoy": 80,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "09:00",
+  "hora": "10:30",
   "dia": "2026-11-16",
-  "titulo": "Todo a las 2045"
+  "titulo": "Pick del día"
  },
  "ayer": {
   "aciertos": 2,
@@ -70,7 +70,7 @@
   "dia": 1,
   "de": 7,
   "stake": 20.0,
-  "objetivo": 37.0,
+  "objetivo": 36.0,
   "fecha": "2026-11-16"
  },
  "historial": {
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 42,
-   "threads": 2849,
+   "threads": 2859,
    "facebook": 1,
-   "telegram": 421
+   "telegram": 423
   }
  },
  "tipos_instagram": {
