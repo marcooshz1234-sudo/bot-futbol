@@ -1,9 +1,6 @@
 {
  "informe": "2026-11-16",
  "vistos": {
-  "bucle-publicar_telegram-2026111314": "2026-11-13T14:32",
-  "bucle-redes-2026111314": "2026-11-13T14:32",
-  "foto-2026-11-13-pick-tip-4": "2026-11-13T14:53",
   "foto-2026-11-13-combi-noche-1": "2026-11-13T16:51",
   "prensa-1528971-f5ca567f": "2026-11-13T20:06",
   "redes-2026-11-13-pick-tip-7-instagram": "2026-11-13T20:42",
@@ -120,12 +117,31 @@
   "foto-2026-11-16-pick-tip-2": "2026-11-16T10:45",
   "prensa-1528990-27ce62a9": "2026-11-16T12:06",
   "cuotamov-2026-11-16-loca-th-1530-x100-1528991|Home Player Shots|Christos Zafeiris - 2": "2026-11-16T13:43",
-  "prensa-1545652-da18f95f": "2026-11-16T13:43"
+  "prensa-1545652-da18f95f": "2026-11-16T13:43",
+  "repe-2026-11-16-1528990|Results/Both Teams Score|Home/Yes": "2026-11-16T14:59",
+  "repe-2026-11-16-1528991|Results/Both Teams Score|Home/Yes": "2026-11-16T14:59",
+  "repe-2026-11-16-1528986|Match Winner|Away": "2026-11-16T14:59"
  },
  "abiertos": [
   {
-   "clave": "cuotamov-2026-11-16-loca-th-1530-x100-1528991|Home Player Shots|Christos Zafeiris - 2",
-   "t": "📉 Grecia–Serbia Christos Zafeiris - 2: la cuota ha pasado de 1.80 a 2.20 (+22%) desde que se hizo «🔥 COMBI POR 60,08 🔥» (15:30). Suele haber una noticia detrás"
+   "clave": "repe-2026-11-16-1545662|Match Winner|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (pick-tip-1, boleto-larga, pick-m1)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528990|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528991|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528986|Match Winner|Away",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, escalera, loca-th-1130-lista-gana)"
+  },
+  {
+   "clave": "repe-2026-11-16-1528987|Match Winner|Home",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, loca-th-1130-lista-gana, combi-m)"
   },
   {
    "clave": "prensa-1528992-52705683",
@@ -136,8 +152,20 @@
    "t": "📏 Regla (escudos): combi con escudos con córners o tarjetas (01/11: sin córners ni tarjetas): Home Corners Over/Under|Over 2.5 · «Os dejo la combi del Gales – Portugal ⚽🔥» (19:45)"
   }
  ],
- "revisado": "2026-11-16T14:25",
+ "revisado": "2026-11-16T14:59",
  "historial": [
+  {
+   "hora": "2026-11-16T14:59",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
+  },
+  {
+   "hora": "2026-11-16T14:59",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-gana-ambos, loca-th-0500-ganaambos, loca-th-2030-ganaambos)"
+  },
+  {
+   "hora": "2026-11-16T14:59",
+   "t": "🔁 16/11: el mismo pronóstico en 3 posts (boleto-larga, escalera, loca-th-1130-lista-gana)"
+  },
   {
    "hora": "2026-11-16T13:43",
    "t": "📉 Grecia–Serbia Christos Zafeiris - 2: la cuota ha pasado de 1.80 a 2.20 (+22%) desde que se hizo «🔥 COMBI POR 60,08 🔥» (15:30). Suele haber una noticia detrás"
@@ -365,18 +393,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0600-x500, loca-th-1130-x500, loca-th-1630-x100, loca-th-1730-x500)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0700-lista-corners, loca-th-1430-lista-corners, loca-th-1730-x500, loca-th-2030-lista-corners)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0800-x1000, loca-th-1130-x500, loca-th-1500-x1000)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0800-x1000, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1830-x100, loca-th-2000-x500, loca-th-2030-lista-corners)"
   }
  ]
 }

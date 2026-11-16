@@ -2080,14 +2080,14 @@
   },
   "2026-11-16": {
     "dia": "2026-11-16",
-    "total": 17,
+    "total": 20,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 17,
+      "pendiente": 20,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 17
+      "sin_resolver": 20
     },
     "combis": [
       {
@@ -2191,13 +2191,31 @@
         "titulo": "🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯",
         "estado": "pendiente",
         "cuota": 5.95
+      },
+      {
+        "id": "2026-11-16-boleto-personal",
+        "titulo": "🎯 MI COMBINADA PERSONAL DE HOY 🔥",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-16-boleto-gana-ambos",
+        "titulo": "💶 DE 1€ A 176€ 💶",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-16-boleto-larga",
+        "titulo": "🔥 MI LARGA DE HOY · x53 🔥",
+        "estado": "pendiente",
+        "cuota": 53.4
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 62
+      "total": 69
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ 🔥 COMBI POR 96,60 🔥 · 96,60 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n⏳ 💎 COMBI x440 💎 · pendiente\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🏆 LOS FAVORITOS DEL DÍA 🏆 · pendiente\n⏳ 💶 RETO: DE 1€ A 721€ 💶 · pendiente\n⏳ Vamos con la combi del lunes familia 🔥 · pendiente\n⏳ Otro para esta noche, de los que nos gustan mucho 🔥 · pendiente\n⏳ 🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯 · 5,95 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 17 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n⏳ Este nos encanta para hoy 🔥 · pendiente\n⏳ 🔥 COMBI POR 96,60 🔥 · 96,60 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 94,10 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,13 · pendiente\n⏳ 🤑 COMBI x44,60 🤑 · 44,60 · pendiente\n⏳ 💎 COMBI x440 💎 · pendiente\n⏳ Pick del día 🍀 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🏆 LOS FAVORITOS DEL DÍA 🏆 · pendiente\n⏳ 💶 RETO: DE 1€ A 721€ 💶 · pendiente\n⏳ Vamos con la combi del lunes familia 🔥 · pendiente\n⏳ Otro para esta noche, de los que nos gustan mucho 🔥 · pendiente\n⏳ 🎯 COMBI DE TIROS · ALEMANIA vs PAÍSES BAJOS 🎯 · 5,95 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · pendiente\n⏳ 💶 DE 1€ A 176€ 💶 · pendiente\n⏳ 🔥 MI LARGA DE HOY · x53 🔥 · 53,40 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 20 sin resolver"
   }
 }

@@ -5479,9 +5479,9 @@
       1.73,
       1.95,
       1.73,
-      1.8,
-      1.8,
-      1.73
+      1.73,
+      2.2,
+      1.67
     ],
     "solo_en": [
       "threads"
@@ -5493,7 +5493,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-16T14:01"
+    "cuotas_revisadas": "2026-11-16T14:56"
   },
   {
     "id": "2026-11-16-combi-partido-m-1528990",
@@ -5509,8 +5509,8 @@
     ],
     "cuotas": [
       1.44,
-      1.4,
-      1.57
+      1.36,
+      1.44
     ],
     "tarjeta": {
       "local": "Germany",
@@ -5524,7 +5524,8 @@
     },
     "cuota_total": 3.13,
     "cuota_calculada": true,
-    "texto": "Os dejo la combi del Alemania – Países Bajos 🇩🇪🔥\n\n🏆 Alemania gana alguna de las dos partes\n⚽ Ambos marcan\n🎯 Denzel Dumfries: 1+ tiros\n\n📈 Cuota @3,13 aprox."
+    "texto": "Os dejo la combi del Alemania – Países Bajos 🇩🇪🔥\n\n🏆 Alemania gana alguna de las dos partes\n⚽ Ambos marcan\n🎯 Denzel Dumfries: 1+ tiros\n\n📈 Cuota @2,79 aprox.",
+    "cuotas_revisadas": "2026-11-16T14:56"
   },
   {
     "id": "2026-11-16-loca-th-1630-escudos",

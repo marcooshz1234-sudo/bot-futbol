@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 14:25",
+ "actualizado": "2026-11-16 14:58",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2907,
-   "hoy": 115,
+   "seguidores": 2915,
+   "hoy": 123,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2907
+    2915
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 429,
-   "hoy": 18,
+   "seguidores": 430,
+   "hoy": 19,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    429
+    430
    ]
   }
  },
- "total": 3380,
- "total_hoy": 135,
+ "total": 3389,
+ "total_hoy": 144,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "14:30",
+  "hora": "15:00",
   "dia": "2026-11-16",
-  "titulo": "Córners del día"
+  "titulo": "El duelo de tiros"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2907,
+   "threads": 2915,
    "facebook": 1,
-   "telegram": 429
+   "telegram": 430
   }
  },
  "tipos_instagram": {
