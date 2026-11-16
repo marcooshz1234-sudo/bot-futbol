@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 15:09",
+ "actualizado": "2026-11-16 15:19",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2918,
-   "hoy": 126,
+   "seguidores": 2922,
+   "hoy": 130,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2918
+    2922
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 431,
-   "hoy": 20,
+   "seguidores": 432,
+   "hoy": 21,
    "serie": [
     378,
     384,
@@ -50,17 +50,17 @@
     401,
     404,
     411,
-    431
+    432
    ]
   }
  },
- "total": 3393,
- "total_hoy": 148,
+ "total": 3398,
+ "total_hoy": 153,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "15:12",
+  "hora": "15:24",
   "dia": "2026-11-16",
-  "titulo": "Mi combinada de hoy · x24,8"
+  "titulo": "Larga con cabeza · x31,9"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,9 +216,9 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2918,
+   "threads": 2922,
    "facebook": 1,
-   "telegram": 431
+   "telegram": 432
   }
  },
  "tipos_instagram": {
