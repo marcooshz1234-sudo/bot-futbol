@@ -2886,7 +2886,14 @@
    "Sigue en descenso y, si gana, iguala a puntos al Celta Fortuna."
   ],
   "auto": false,
-  "apuntado_por": "Claude 16/11 10:55 (Marcos: «mira Telegram»)"
+  "apuntado_por": "Claude 16/11 10:55 (Marcos: «mira Telegram»)",
+  "analisis": {
+   "liga": "Segunda División",
+   "cuota_bet365": 1.6,
+   "prob_cuota": 0.637,
+   "prob_pinnacle": 0.595,
+   "valor_pinnacle": -0.066
+  }
  },
  {
   "tipster": "Tipster Pérez",
@@ -2905,7 +2912,12 @@
    "En los últimos 5 la suma de ambos superó 9,5 en todos",
    "Partido de dos selecciones ofensivas que suelen generar muchas llegadas"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528990,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.621
+  }
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -2924,6 +2936,32 @@
    "Ambas llegan en buena racha reciente, con pocas derrotas",
    "Dos ataques con mucha pegada en Berlín invitan a esperar goles pronto"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528990,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.36,
+   "prob_cuota": 0.658
+  }
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10120",
+  "dia": "2026-11-16",
+  "local": "FYR Macedonia",
+  "visitante": "Slovenia",
+  "partido_id": 1545662,
+  "texto": "Gana el Eslovenia",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.48,
+   "prob_cuota": 0.676
+  }
  }
 ]
