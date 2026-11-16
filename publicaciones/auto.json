@@ -7133,5 +7133,187 @@
     "solo_redes": true,
     "cuota_total": 4.9,
     "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2100-x100",
+    "fecha": "2026-11-16T21:00",
+    "texto": "🔥 COMBI POR 93,48 🔥\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Ethan Ampadu: 1+ tiros · 🚩 Portugal más de 5,5 córners\n🇩🇰 Dinamarca–Noruega 20:45\n🏆 Noruega gana una parte\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Willi Orban: 1+ tiros\n🇮🇱 Israel–Austria 20:45\n🚩 Austria más de 4,5 córners\n⚽ Irlanda–Kosovo 20:45\n🛡️ Kosovo o empate · 🎯 Vedat Muriqi: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Ianis Hagi: 2+ tiros\n\n🎯 CUOTA 93,48 aprox. 💎 10€ → 935€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528992|Home Player Shots|Ethan Ampadu - 1",
+      "1528992|Away Corners Over/Under|Over 5.5",
+      "1528993|To Win Either Half|Away",
+      "1528995|Home Player Shots|Willi Orban - 1",
+      "1528996|Away Corners Over/Under|Over 4.5",
+      "1528997|Double Chance|Draw/Away",
+      "1528997|Away Player Shots|Vedat Muriqi - 3",
+      "1528999|Away Player Shots|Ianis Hagi - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.8,
+      1.8,
+      1.73,
+      1.73,
+      1.7,
+      1.83,
+      1.73
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 93.48,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2130-ganaambos",
+    "fecha": "2026-11-16T21:30",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal · 20:45\n🏆 Gana Portugal y ambos marcan\n\n🇩🇰 Dinamarca – Noruega · 20:45\n🏆 Gana Dinamarca y ambos marcan\n\n🇵🇱 Polonia – Suecia · 20:45\n🏆 Gana Polonia y ambos marcan\n\n🇺🇦 Ucrania – Georgia · 20:45\n🏆 Gana Ucrania y ambos marcan\n\n🎯 CUOTA 202 💎 · 10€ → 2.025€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1528992|Results/Both Teams Score|Away/Yes",
+      "1528993|Results/Both Teams Score|Home/Yes",
+      "1528994|Results/Both Teams Score|Home/Yes",
+      "1528998|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.88,
+      3.75,
+      5.0,
+      3.75
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 202.0,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2200-lista-ambos",
+    "fecha": "2026-11-16T22:00",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇩🇰 Dinamarca–Noruega ➜ Ambos marcan @1,44\n2. 🇧🇦 Bosnia–Rumanía ➜ Ambos marcan @1,80\n3. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Ambos marcan @1,73\n4. 🇮🇱 Israel–Austria ➜ Ambos marcan @1,62\n5. 🇵🇱 Polonia–Suecia ➜ Ambos marcan @1,53\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528992|Both Teams Score|Yes",
+      "1528993|Both Teams Score|Yes",
+      "1528996|Both Teams Score|Yes",
+      "1528998|Both Teams Score|Yes",
+      "1528999|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.73,
+      1.44,
+      1.62,
+      1.53,
+      1.8
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2230-duelo",
+    "fecha": "2026-11-16T22:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Mohamed Daramy: 2+ tiros (Dinamarca)\n🎯 Erling Haaland: 4+ tiros (Noruega)\n\n🎯 CUOTA 2,07 aprox. 💎 · 10€ → 20,70€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1528993|Home Player Shots|Mohamed Daramy - 2",
+      "1528993|Away Player Shots|Erling Haaland - 4"
+    ],
+    "cuotas": [
+      1.4,
+      1.44
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.07,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2300-x50",
+    "fecha": "2026-11-16T23:00",
+    "texto": "🤑 COMBI x51,16 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Ethan Ampadu: 1+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Thelonious Aasgaard: 2+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Andras Schafer: 1+ tiros\n🇮🇱 Israel–Austria 20:45\n🚩 Austria más córners\n⚽ Irlanda–Kosovo 20:45\n⚽ Kosovo marca · 🎯 Troy Parrott: 3+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🏆 Polonia gana una parte\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Florinel Coman: 2+ tiros\n\n🎯 CUOTA 51,16 aprox. 💎 10€ → 512€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1528992|Home Player Shots|Ethan Ampadu - 1",
+      "1528993|Away Player Shots|Thelonious Aasgaard - 2",
+      "1528995|Home Player Shots|Andras Schafer - 1",
+      "1528996|Corners 1x2|Away",
+      "1528997|Total - Away|Over 0.5",
+      "1528997|Home Player Shots|Troy Parrott - 3",
+      "1528998|To Win Either Half|Home",
+      "1528999|Away Player Shots|Florinel Coman - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.62,
+      1.62,
+      1.57,
+      1.57,
+      1.62,
+      1.62,
+      1.62
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 51.16,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-16T23:30",
+    "texto": "🔥 COMBI DEL DINAMARCA – NORUEGA 🔥\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Morten Hjulmand: 1+ tiros\n🎯 Mohamed Daramy: 2+ tiros\n🛡️ Dinamarca o empate\n\n🎯 CUOTA 2,92 aprox. 💎 10€ → 29,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528993|Home Player Shots|Morten Hjulmand - 1",
+      "1528993|Home Player Shots|Mohamed Daramy - 2",
+      "1528993|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.44
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.92,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "Denmark",
+      "visitante": "Norway",
+      "id_l": 21,
+      "id_v": 1090,
+      "logo_l": "https://media.api-sports.io/football/teams/21.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1090.png",
+      "fecha": "2026-11-17T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "cuota_total": 2.92,
+    "cuota_calculada": true
   }
 ]

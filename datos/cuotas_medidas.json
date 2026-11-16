@@ -1683,5 +1683,59 @@
     0.97
    ]
   ]
+ },
+ {
+  "id": "2026-11-17-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-16T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528993|Home Player Shots|Mohamed Daramy - 2",
+   "1528993|Away Player Shots|Erling Haaland - 4"
+  ],
+  "cuotas": [
+   1.4,
+   1.44
+  ],
+  "real": 2.07,
+  "multiplicando": 2.016,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-17-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-16T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1528993|Home Player Shots|Morten Hjulmand - 1",
+   "1528993|Home Player Shots|Mohamed Daramy - 2",
+   "1528993|Double Chance|Home/Draw"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.44
+  ],
+  "real": 2.92,
+  "multiplicando": 2.822,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ]
+  ]
  }
 ]

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 19:56",
+ "actualizado": "2026-11-16 20:06",
  "redes": {
   "instagram": {
    "seguidores": 43,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 2982,
-   "hoy": 190,
+   "seguidores": 2983,
+   "hoy": 191,
    "serie": [
     2593,
     2644,
@@ -24,7 +24,7 @@
     2738,
     2776,
     2792,
-    2982
+    2983
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3464,
- "total_hoy": 219,
+ "total": 3465,
+ "total_hoy": 220,
  "likes_hoy": 1,
  "proximo": {
-  "hora": "20:00",
+  "hora": "20:30",
   "dia": "2026-11-16",
-  "titulo": "Córners del día"
+  "titulo": "Gana y ambos marcan"
  },
  "ayer": {
   "aciertos": 2,
@@ -216,7 +216,7 @@
   },
   "2026-11-16": {
    "instagram": 43,
-   "threads": 2982,
+   "threads": 2983,
    "facebook": 1,
    "telegram": 438
   }
