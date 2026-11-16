@@ -2080,14 +2080,14 @@
   },
   "2026-11-16": {
     "dia": "2026-11-16",
-    "total": 1,
+    "total": 2,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 1,
+      "pendiente": 2,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 1
+      "sin_resolver": 2
     },
     "combis": [
       {
@@ -2095,13 +2095,19 @@
         "titulo": "🏆 NATIONS LEAGUE - GANADORES",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-16-loca-th-0300-x100",
+        "titulo": "💯 LA CENTENARIA x87,32 💯",
+        "estado": "pendiente",
+        "cuota": 87.32
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 10
+      "total": 18
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x87,32 💯 · 87,32 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
   }
 }
