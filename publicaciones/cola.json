@@ -8372,5 +8372,21 @@
     "verde_de": "2026-11-17-escalera",
     "enviado": "2026-11-17T21:42",
     "mensaje_id": 525
+  },
+  {
+    "id": "2026-11-17-verde-auto-2026-11-16-pick-tip-3",
+    "fecha": "2026-11-17T21:55",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gol en la 1ª parte del Alemania–Países Bajos\n✅ Más de 2,5 goles en Alemania–Países Bajos\n\n📈 Cuota @1,52\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-16-pick-tip-3.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-16-pick-tip-3",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
