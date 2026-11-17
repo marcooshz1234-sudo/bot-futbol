@@ -878,36 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47049",
-   "fecha": "2026-11-13T17:37",
-   "texto": "💤… ¡ÚLTIMAS 4 PLAZAS!",
-   "foto": false,
-   "visto": "2026-11-13T17:55"
-  },
-  {
-   "id": "-1001468963672/47050",
-   "fecha": "2026-11-13T17:57",
-   "texto": "🔒 PLAZAS CERRADAS \n🍀 Resultados al finalizar.",
-   "foto": true,
-   "visto": "2026-11-13T18:26",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47050.jpg"
-  },
-  {
-   "id": "-1001468963672/47051",
-   "fecha": "2026-11-13T19:42",
-   "texto": "⏰… ¡En una hora comienza nuestra apuesta!",
-   "foto": false,
-   "visto": "2026-11-13T20:08"
-  },
-  {
-   "id": "-1001468963672/47052",
-   "fecha": "2026-11-13T20:51",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T21:14",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47052.jpg"
-  },
-  {
    "id": "-1001468963672/47053",
    "fecha": "2026-11-13T21:02",
    "texto": "",
@@ -2375,16 +2345,39 @@
    "texto": "✅ ¡Gol de Noruega! \nNos queda un córner.",
    "foto": false,
    "visto": "2026-11-17T21:34"
+  },
+  {
+   "id": "-1001468963672/47277",
+   "fecha": "2026-11-17T21:36",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-17T21:44"
+  },
+  {
+   "id": "-1001468963672/47276",
+   "fecha": "2026-11-17T21:36",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T21:44",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47276.jpg"
+  },
+  {
+   "id": "-1001468963672/47275",
+   "fecha": "2026-11-17T21:36",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T21:44",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47275.jpg"
+  },
+  {
+   "id": "-1001468963672/47278",
+   "fecha": "2026-11-17T21:37",
+   "texto": "7° Verde Consecutivo 🧑‍❤️‍💋‍🧑",
+   "foto": false,
+   "visto": "2026-11-17T21:44"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/86966",
-   "fecha": "2026-11-16T12:46",
-   "texto": "💻 LES VOY APUNTANDO FAMILIA UNO A UNO🙏\n\n❗️❗️❗️❗️❗️❗️❗️\n\n🚘 DE 30€ A 150.000€ 🚘",
-   "foto": false,
-   "visto": "2026-11-16T12:50"
-  },
   {
    "id": "-1002463340479/86967",
    "fecha": "2026-11-16T12:54",
@@ -3869,6 +3862,13 @@
    "foto": true,
    "visto": "2026-11-17T21:34",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87170.jpg"
+  },
+  {
+   "id": "-1002463340479/87171",
+   "fecha": "2026-11-17T21:35",
+   "texto": "😋😌😚😌😋🤓😌\n\n😎Es una locura lo fácil que ha salido la CUOTA 10.00 de ayer 🤑🤑https://t.me/+_stCeAnNcxxjMjRk\n\n👆Todavía te preguntas cómo? Aquí tienes la prueba de ello👌",
+   "foto": false,
+   "visto": "2026-11-17T21:44"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -11842,6 +11842,13 @@
    "texto": "LAS PLAZAS VUELAN ✈️",
    "foto": false,
    "visto": "2026-11-17T19:14"
+  },
+  {
+   "id": "-1002181392017/15502",
+   "fecha": "2026-11-17T21:43",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-17T21:44"
   }
  ],
  "INSIDER Tenis": [
@@ -14662,6 +14669,14 @@
    "texto": "🇩🇰DINAMARCA VS NORUEGA🇳🇴",
    "foto": false,
    "visto": "2026-11-17T18:37"
+  },
+  {
+   "id": "-1002819019921/6785",
+   "fecha": "2026-11-17T21:39",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T21:44",
+   "foto_ruta": "datos/tipsters_fotos/ENZO_TIPSTER__6785.jpg"
   }
  ],
  "Rayan Stakes Daily": [
