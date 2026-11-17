@@ -129,18 +129,6 @@
  },
  "abiertos": [
   {
-   "clave": "directo-2026-11-17-pick-tip-2",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro para esta noche, de los que nos gustan mucho 🔥 (18:00)"
-  },
-  {
-   "clave": "prohibido-2026-11-17-pick-tip-2",
-   "t": "🚫 Lleva un mercado prohibido (Goals Over/Under|Over 2.5): Otro para esta noche, de los que nos gustan mucho 🔥"
-  },
-  {
-   "clave": "cuotas-2026-11-17-pick-tip-2",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Otro para esta noche, de los que nos gustan mucho 🔥"
-  },
-  {
    "clave": "directo-2026-11-17-pick-claude-2",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick, familia 👇 (19:00)"
   },
@@ -153,15 +141,15 @@
    "t": "📉 Dinamarca–Noruega Morten Hjulmand - 2: la cuota ha pasado de 2.62 a 1.91 (-27%) desde que se hizo «🚀 COMBI x835 🚀» (19:00). Suele haber una noticia detrás"
   },
   {
-   "clave": "repe-2026-11-17-1528993|Both Teams Score|Yes",
-   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-17-1528996|Both Teams Score|Yes",
    "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-claude-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-17-1528993|Both Teams Score|Yes",
+   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-3, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
   }
  ],
- "revisado": "2026-11-17T15:14",
+ "revisado": "2026-11-17T15:25",
  "historial": [
   {
    "hora": "2026-11-17T14:53",
