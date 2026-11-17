@@ -6729,7 +6729,7 @@
       "1528993|Away Player Shots|Hugo Vetlesen - 2"
     ],
     "cuotas": [
-      1.67,
+      1.62,
       1.53
     ],
     "solo_en": [
@@ -6741,7 +6741,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T13:35"
   },
   {
     "id": "2026-11-17-loca-th-1530-lista-corners",
