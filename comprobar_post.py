@@ -286,7 +286,7 @@ def tarjetas_tg(p, texto=None, posts=None):
         posts = [{**x, "mensaje_id": x.get("mensaje_id") or (env.get(x["id"]) or {}).get("mensaje_id")}
                  for x in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or [])]
     n = sum(1 for x in posts if x.get("id", "")[:10] == dia and x.get("id") != p.get("id") and x.get("mensaje_id")
-            and _de_tarjetas(x))
+            and _de_tarjetas(x) and not _es_resultado(x))
     return f"ya hay {n} picks de tarjetas hoy en Telegram (tope {TOPE_TARJETAS_TG})" if n >= TOPE_TARJETAS_TG else None
 
 
@@ -327,10 +327,16 @@ def sin_sel_claude(p):
     return None if p.get("sel") else "post de Claude sin «sel»: el bot no lo podría seguir ni sacar su verde"
 
 
+def _es_resultado(p):
+    """17/11: los verdes de las tarjetas de Polonia y Bosnia no salían: el tope de picks de tarjetas los contaba como
+    picks nuevos. Los verdes/rojos/resúmenes no son picks: no les tocan esas reglas."""
+    return bool(p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo|balance|resumen)-", p.get("id", "")))
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
     try:
-        m = sin_sel_claude(p) or pick_tarjetas_tg(p, texto) or tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
+        m = None if _es_resultado(p) else sin_sel_claude(p) or pick_tarjetas_tg(p, texto) or tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
         if m:
             return m
     except Exception as e:
