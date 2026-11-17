@@ -8229,5 +8229,175 @@
       ],
       "lema": "¿LA PINTAMOS DE VERDE?"
     }
+  },
+  {
+    "id": "2026-11-18-loca-th-noche-2100-x100",
+    "fecha": "2026-11-17T21:00",
+    "texto": "🔥 COMBI POR 19,95 🔥\n\n⚽ Häcken W–Manchester City W 18:45\n⚽ Ambos marcan en Häcken (fem.)–Manchester City (fem.) · 🚩 Manchester City (fem.) más de 6,5 córners\n⚽ Chelsea W–Paris Saint Germain W 21:00\n🚩 +9,5 córners en Chelsea (fem.)–Paris Saint Germain (fem.) · ⚽ Ambos marcan en Chelsea (fem.)–Paris Saint Germain (fem.)\n⚽ Juventus W–OH Leuven W 21:00\n⚽ OH Leuven (fem.) marca\n\n🎯 CUOTA 19,95 aprox. 💎 10€ → 200€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1638306|Both Teams Score|Yes",
+      "1638306|Away Corners Over/Under|Over 6.5",
+      "1638301|Corners Over Under|Over 9.5",
+      "1638301|Both Teams Score|Yes",
+      "1638312|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.83,
+      1.83,
+      1.8,
+      1.83,
+      1.8
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 19.95,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-noche-2130-ganaambos",
+    "fecha": "2026-11-17T21:30",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n⚽ Real Madrid W – Inter Milano W · 18:45\n🏆 Gana Real Madrid W y ambos marcan\n\n⚽ Häcken W – Manchester City W · 18:45\n🏆 Gana Manchester City W y ambos marcan\n\n⚽ Juventus W – OH Leuven W · 21:00\n🏆 Gana Juventus W y ambos marcan\n\n⚽ Chelsea W – Paris Saint Germain W · 21:00\n🏆 Gana Chelsea W y ambos marcan\n\n🎯 CUOTA 54,49 💎 · 10€ → 545€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1638306|Results/Both Teams Score|Away/Yes",
+      "1638333|Results/Both Teams Score|Home/Yes",
+      "1638301|Results/Both Teams Score|Home/Yes",
+      "1638312|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.75,
+      2.62,
+      2.75,
+      2.75
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 54.49,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-noche-2200-lista-ambos",
+    "fecha": "2026-11-17T22:00",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. ⚽ Real Madrid W–Inter Milano W ➜ Ambos marcan en Real Madrid (fem.)–Inter Milano (fem.) @1,83\n2. ⚽ Häcken W–Manchester City W ➜ Ambos marcan en Häcken (fem.)–Manchester City (fem.) @1,83\n3. ⚽ Chelsea W–Paris Saint Germain W ➜ Ambos marcan en Chelsea (fem.)–Paris Saint Germain (fem.) @1,83\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638306|Both Teams Score|Yes",
+      "1638333|Both Teams Score|Yes",
+      "1638301|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.83,
+      1.83,
+      1.83
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-noche-2230-x50",
+    "fecha": "2026-11-17T22:30",
+    "texto": "🤑 COMBI x23,75 🤑\n\n⚽ Häcken W–Manchester City W 18:45\n⚽ Häcken (fem.) marca\n⚽ Real Madrid W–Inter Milano W 18:45\n🚩 +9,5 córners en Real Madrid (fem.)–Inter Milano (fem.) · ⚽ Inter Milano (fem.) marca\n⚽ Chelsea W–Paris Saint Germain W 21:00\n⚽ Paris Saint Germain (fem.) marca · 🚩 Paris Saint Germain (fem.) más de 2,5 córners\n⚽ Juventus W–OH Leuven W 21:00\n🚩 Juventus (fem.) más de 5,5 córners\n\n🎯 CUOTA 23,75 aprox. 💎 10€ → 238€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638306|Total - Home|Over 0.5",
+      "1638333|Corners Over Under|Over 9.5",
+      "1638333|Total - Away|Over 0.5",
+      "1638301|Total - Away|Over 0.5",
+      "1638301|Away Corners Over/Under|Over 2.5",
+      "1638312|Home Corners Over/Under|Over 5.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.73,
+      1.73,
+      1.67,
+      1.73,
+      1.8
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 23.75,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-noche-2300-x500",
+    "fecha": "2026-11-17T23:00",
+    "texto": "🤪 LA LOCURA DE x392 🤪\n\n⚽ Häcken W–Manchester City W 18:45\n🚩 +10,5 córners en Häcken (fem.)–Manchester City (fem.) · 🏆 Häcken (fem.) gana una parte\n⚽ Real Madrid W–Inter Milano W 18:45\n🚩 Inter Milano (fem.) más de 3,5 córners\n⚽ Chelsea W–Paris Saint Germain W 21:00\n🛡️ Paris Saint Germain (fem.) o empate\n⚽ Juventus W–OH Leuven W 21:00\n🚩 OH Leuven (fem.) más de 3,5 córners · 🛡️ OH Leuven (fem.) o empate\n\n🎯 CUOTA 392 aprox. 💎 10€ → 3.923€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1638306|Corners Over Under|Over 10.5",
+      "1638306|To Win Either Half|Home",
+      "1638333|Away Corners Over/Under|Over 3.5",
+      "1638301|Double Chance|Draw/Away",
+      "1638312|Away Corners Over/Under|Over 3.5",
+      "1638312|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      2.1,
+      3.75,
+      2.1,
+      3.4,
+      2.1,
+      3.25
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 392.0,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-noche-2330-lista-corners",
+    "fecha": "2026-11-17T23:30",
+    "texto": "🚩 CÓRNERS DE MAÑANA 🚩\n\n1. ⚽ Real Madrid W–Inter Milano W ➜ Inter Milano (fem.) más de 2,5 córners @1,67\n2. ⚽ Häcken W–Manchester City W ➜ +9,5 córners en Häcken (fem.)–Manchester City (fem.) @1,67\n3. ⚽ Juventus W–OH Leuven W ➜ +9 córners en Juventus (fem.)–OH Leuven (fem.) @1,78\n4. ⚽ Chelsea W–Paris Saint Germain W ➜ Paris Saint Germain (fem.) más de 2,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638306|Corners Over Under|Over 9.5",
+      "1638333|Away Corners Over/Under|Over 2.5",
+      "1638301|Away Corners Over/Under|Over 2.5",
+      "1638312|Corners Over Under|Over 9"
+    ],
+    "cuotas": [
+      1.67,
+      1.67,
+      1.73,
+      1.78
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
   }
 ]
