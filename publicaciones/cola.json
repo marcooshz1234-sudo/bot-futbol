@@ -8412,7 +8412,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-17-pick-tip-3",
     "enviado": "2026-11-17T22:17",
-    "mensaje_id": 526
+    "mensaje_id": 526,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-17-loca-th-0300-duelo",
@@ -8429,5 +8436,28 @@
     "solo_en": [
       "threads"
     ]
+  },
+  {
+    "id": "2026-11-17-verde-auto-2026-11-17-pick-claude-2",
+    "fecha": "2026-11-17T22:28",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Israel – Austria\n\n📈 Cuota @1,57",
+    "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-17-pick-claude-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-17-pick-claude-2",
+    "solo_en": [
+      "telegram"
+    ],
+    "enviado": "2026-11-17T22:29",
+    "mensaje_id": 527,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
