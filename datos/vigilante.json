@@ -121,9 +121,14 @@
   "repe-2026-11-17-1528993|Both Teams Score|Yes": "2026-11-17T14:53",
   "repe-2026-11-17-1528996|Both Teams Score|Yes": "2026-11-17T14:53",
   "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away": "2026-11-17T20:27",
-  "foto-2026-11-17-verde-auto-2026-11-17-escalera": "2026-11-17T21:27"
+  "foto-2026-11-17-verde-auto-2026-11-17-escalera": "2026-11-17T21:27",
+  "foto-2026-11-17-verde-auto-2026-11-17-pick-seguro": "2026-11-17T22:40"
  },
  "abiertos": [
+  {
+   "clave": "foto-2026-11-17-verde-auto-2026-11-17-pick-seguro",
+   "t": "🖼️ Sale a las 22:49 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "clave": "repe-2026-11-17-1528996|Both Teams Score|Yes",
    "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-claude-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
@@ -133,8 +138,12 @@
    "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-3, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
   }
  ],
- "revisado": "2026-11-17T22:30",
+ "revisado": "2026-11-17T22:40",
  "historial": [
+  {
+   "hora": "2026-11-17T22:40",
+   "t": "🖼️ Sale a las 22:49 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "hora": "2026-11-17T21:27",
    "t": "🖼️ Sale a las 21:42 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
@@ -370,10 +379,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (combi-partido-m-1528990, loca-th-0500-x50, loca-th-1930-x50)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 8 posts (pick-m2, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1300-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
   }
  ]
 }

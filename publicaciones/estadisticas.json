@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 22:29",
+ "actualizado": "2026-11-17 22:39",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3155,
-   "hoy": 146,
+   "seguidores": 3153,
+   "hoy": 144,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3155
+    3153
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3671,
- "total_hoy": 178,
+ "total": 3669,
+ "total_hoy": 176,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "22:30",
+  "hora": "22:49",
   "dia": "2026-11-17",
-  "titulo": "Combi x23,75"
+  "titulo": "Para dentro señores"
  },
  "ayer": {
   "aciertos": 3,
@@ -222,7 +222,7 @@
   },
   "2026-11-17": {
    "instagram": 46,
-   "threads": 3155,
+   "threads": 3153,
    "facebook": 1,
    "telegram": 469
   }
