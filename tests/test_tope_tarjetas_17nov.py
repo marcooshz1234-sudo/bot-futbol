@@ -32,3 +32,15 @@ class ListasNoCuentan17Nov(unittest.TestCase):   # 17/11: «ambos marcan» de 2 
     def test_listas_no_suman(self):
         src = open(C.RAIZ / "combis_dia.py", encoding="utf-8").read()
         self.assertIn('"-lista-"', src)
+
+
+class MismoPickTG17Nov(unittest.TestCase):   # 17/11: Dinamarca–Noruega iba a salir dos veces
+    def test_repetido(self):
+        hecho = post("pick-tip-3", "🍀 Crear apuesta: más de 2.5 goles + ambos marcan @1,57\n\n⚽ Dinamarca – Noruega · hoy 20:45")
+        nuevo = post("pick-tip-2", "🍀 Ambos marcan y más de 2,5 goles (Crear apuesta) @1,57\n\n⚽ Dinamarca – Noruega · hoy 20:45", False)
+        self.assertTrue(C.mismo_pick_tg(nuevo, posts=[hecho]))
+
+    def test_otro_partido_no(self):
+        hecho = post("pick-tip-3", "🍀 Ambos marcan @1,57\n\n⚽ Dinamarca – Noruega · hoy 20:45")
+        nuevo = post("pick-claude-2", "🍀 Ambos marcan en Israel – Austria @1,57\n\n⚽ Israel – Austria · hoy 20:45", False)
+        self.assertIsNone(C.mismo_pick_tg(nuevo, posts=[hecho]))

@@ -8312,9 +8312,12 @@
     "directo": true,
     "forzar": true,
     "tipster_bueno": false,
-    "sel": [],
+    "sel": [
+      "1528993|Both Teams Score|Yes",
+      "1528993|Goals Over/Under|Over 2.5"
+    ],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre) · sel puesta a mano (17/11 15:30)",
     "foto_tg": "publicaciones/media/2026-11-17-pick-tip-3.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-17T13:43",

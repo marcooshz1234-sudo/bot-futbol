@@ -269,10 +269,39 @@ def tarjetas_tg(p, texto=None, posts=None):
     return f"ya hay {n} picks de tarjetas hoy en Telegram (tope {TOPE_TARJETAS_TG})" if n >= TOPE_TARJETAS_TG else None
 
 
+def _clave_pick(t):
+    """(partido, palabras del pick) de un post de un solo pick: «⚽ A – B» + la línea 🍀, sin cuota ni adornos."""
+    partido = re.search(r"⚽\s*([^·\n]+?–[^·\n]+?)\s*·", t or "")
+    pick = re.search(r"🍀\s*([^\n]+)", t or "")
+    if not partido or not pick:
+        return None
+    pk = re.sub(r"@\s*\d+[.,]\d+|\(?crear apuesta\)?:?|[^\w\s,.]", " ", pick.group(1).lower())
+    pk = frozenset(w for w in re.sub(r"(\d)[.,](\d)", r"\1\2", pk).replace(",", " ").split() if w not in ("y", "en", "de", "el", "la"))
+    return partido.group(1).strip().lower(), pk
+
+
+def mismo_pick_tg(p, texto=None, posts=None):
+    """17/11: Dinamarca–Noruega «ambos marcan + más de 2,5» iba a salir 2 veces (copia del bot sin «sel» y otra a mano)."""
+    if p.get("solo_en") and "telegram" not in p["solo_en"]:
+        return None
+    k = _clave_pick(texto or p.get("texto"))
+    if not k:
+        return None
+    if posts is None:
+        env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
+        posts = [{**x, "mensaje_id": x.get("mensaje_id") or (env.get(x["id"]) or {}).get("mensaje_id")}
+                 for x in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or [])]
+    for x in posts:
+        if x.get("id", "")[:10] == p.get("id", "")[:10] and x.get("id") != p.get("id") and x.get("mensaje_id") \
+                and _clave_pick(x.get("texto")) == k:
+            return f"el mismo pick ya salió hoy en Telegram ({x['id']})"
+    return None
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
     try:
-        m = tarjetas_tg(p, texto)
+        m = tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
         if m:
             return m
     except Exception as e:
