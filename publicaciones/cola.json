@@ -8317,6 +8317,13 @@
     "foto_tg": "publicaciones/media/2026-11-17-pick-tip-3.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-17T13:43",
-    "mensaje_id": 521
+    "mensaje_id": 521,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
