@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 04:51",
+ "actualizado": "2026-11-17 05:02",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3060,
-   "hoy": 51,
+   "seguidores": 3061,
+   "hoy": 52,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3060
+    3061
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3551,
- "total_hoy": 58,
+ "total": 3552,
+ "total_hoy": 59,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "05:00",
+  "hora": "06:00",
   "dia": "2026-11-17",
-  "titulo": "Todo a las 2045"
+  "titulo": "La de los tapados"
  },
  "ayer": {
   "aciertos": 3,
@@ -222,7 +222,7 @@
   },
   "2026-11-17": {
    "instagram": 46,
-   "threads": 3060,
+   "threads": 3061,
    "facebook": 1,
    "telegram": 444
   }
