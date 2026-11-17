@@ -2364,14 +2364,14 @@
   },
   "2026-11-17": {
     "dia": "2026-11-17",
-    "total": 31,
+    "total": 32,
     "cuentas": {
       "verde": 10,
       "rojo": 15,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 1,
       "no_jugo": 0,
-      "sin_resolver": 6
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -2559,13 +2559,19 @@
         "titulo": "🤪 LA LOCURA DE x392 🤪",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-17-balance-auto",
+        "titulo": "📊 RESUMEN DEL MARTES 🍀",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
-      "verde": 56,
+      "verde": 57,
       "rojo": 44,
-      "total": 143
+      "total": 150
     },
-    "texto": "📊 BALANCE DEL MARTES: 10 DE 25 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❌ 💯 LA CENTENARIA x80,85 💯 · 80,85\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n✅ ⚽ AMBOS MARCAN HOY ⚽\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26\n❌ 🤑 COMBI x44,48 🤑 · 44,48\n❌ ⏰ TODO A LAS 20:45 ⏰ · 23,44\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 10,13\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25\n❌ 💶 RETO: DE 1€ A 869€ 💶\n❌ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38\n✅ Este lo tenemos claro 🔥\n✅ 🪜 Reto escalera · Día 1/7\n✅ Pick que no podía faltar hoy ⚽\n❌ 💯 LA CENTENARIA x115 💯\n✅ Os dejo el pick, familia 👇\n❌ 🤑 COMBI x48,94 🤑 · 48,94\n❌ 🤪 LA LOCURA DE x632 🤪\n❌ 💎 COMBI x433 💎\n❔ 🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥 · 9,42 · faltan datos\n❌ 🔥 COMBI IRLANDA – KOSOVO 🔥 · 7,89\n✅ Vamos con otro pick, familia 👇\n❌ 🚀 COMBI x835 🚀\n⏳ 🔥 COMBI POR 19,95 🔥 · 19,95 · pendiente\n✅ Este nos encanta para hoy 🔥\n✅ Os dejo otro pick que pinta muy bien 👀\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n✅ Arrancamos la tarde con uno que pinta muy bien 👀\n⏳ 🤑 COMBI x23,75 🤑 · 23,75 · pendiente\n⏳ 🤪 LA LOCURA DE x392 🤪 · pendiente\n\n✅ 10 acertadas · ❌ 15 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 10 DE 25 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❌ 💯 LA CENTENARIA x80,85 💯 · 80,85\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n✅ ⚽ AMBOS MARCAN HOY ⚽\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26\n❌ 🤑 COMBI x44,48 🤑 · 44,48\n❌ ⏰ TODO A LAS 20:45 ⏰ · 23,44\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 10,13\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25\n❌ 💶 RETO: DE 1€ A 869€ 💶\n❌ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38\n✅ Este lo tenemos claro 🔥\n✅ 🪜 Reto escalera · Día 1/7\n✅ Pick que no podía faltar hoy ⚽\n❌ 💯 LA CENTENARIA x115 💯\n✅ Os dejo el pick, familia 👇\n❌ 🤑 COMBI x48,94 🤑 · 48,94\n❌ 🤪 LA LOCURA DE x632 🤪\n❌ 💎 COMBI x433 💎\n❔ 🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥 · 9,42 · faltan datos\n❌ 🔥 COMBI IRLANDA – KOSOVO 🔥 · 7,89\n✅ Vamos con otro pick, familia 👇\n❌ 🚀 COMBI x835 🚀\n⏳ 🔥 COMBI POR 19,95 🔥 · 19,95 · pendiente\n✅ Este nos encanta para hoy 🔥\n✅ Os dejo otro pick que pinta muy bien 👀\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n✅ Arrancamos la tarde con uno que pinta muy bien 👀\n⏳ 🤑 COMBI x23,75 🤑 · 23,75 · pendiente\n⏳ 🤪 LA LOCURA DE x392 🤪 · pendiente\n⏳ 📊 RESUMEN DEL MARTES 🍀 · pendiente\n\n✅ 10 acertadas · ❌ 15 falladas · ⏳ 7 sin resolver"
   }
 }
