@@ -2356,7 +2356,7 @@
       }
     ],
     "picks": {
-      "verde": 53,
+      "verde": 48,
       "rojo": 55,
       "total": 146
     },
@@ -2366,12 +2366,12 @@
     "dia": "2026-11-17",
     "total": 30,
     "cuentas": {
-      "verde": 5,
+      "verde": 4,
       "rojo": 0,
-      "pendiente": 5,
-      "sin_datos": 20,
+      "pendiente": 4,
+      "sin_datos": 22,
       "no_jugo": 0,
-      "sin_resolver": 25
+      "sin_resolver": 26
     },
     "combis": [
       {
@@ -2473,7 +2473,7 @@
       {
         "id": "2026-11-17-pick-seguro-3",
         "titulo": "Os dejo el pick, familia 👇",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2497,7 +2497,7 @@
       {
         "id": "2026-11-17-loca-th-1630-escudos",
         "titulo": "🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 9.42
       },
       {
@@ -2509,7 +2509,7 @@
       {
         "id": "2026-11-17-pick-claude-2",
         "titulo": "Vamos con otro pick, familia 👇",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2545,7 +2545,7 @@
       {
         "id": "2026-11-17-pick-claude-1",
         "titulo": "Arrancamos la tarde con uno que pinta muy bien 👀",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -2556,10 +2556,10 @@
       }
     ],
     "picks": {
-      "verde": 18,
+      "verde": 6,
       "rojo": 0,
       "total": 137
     },
-    "texto": "📊 BALANCE DEL MARTES: 5 DE 5 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❔ 💯 LA CENTENARIA x80,85 💯 · 80,85 · faltan datos\n❔ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · faltan datos\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26\n❔ 🤑 COMBI x44,48 🤑 · 44,48 · faltan datos\n❔ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · faltan datos\n❔ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · faltan datos\n❔ 💶 RETO: DE 1€ A 869€ 💶 · faltan datos\n❔ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38 · faltan datos\n❔ Este lo tenemos claro 🔥 · faltan datos\n✅ 🪜 Reto escalera · Día 1/7\n❔ Pick que no podía faltar hoy ⚽ · faltan datos\n❔ 💯 LA CENTENARIA x115 💯 · faltan datos\n✅ Os dejo el pick, familia 👇\n❔ 🤑 COMBI x48,94 🤑 · 48,94 · faltan datos\n❔ 🤪 LA LOCURA DE x632 🤪 · faltan datos\n❔ 💎 COMBI x433 💎 · faltan datos\n⏳ 🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥 · 9,42 · pendiente\n❔ 🔥 COMBI IRLANDA – KOSOVO 🔥 · 7,89 · faltan datos\n✅ Vamos con otro pick, familia 👇\n❔ 🚀 COMBI x835 🚀 · faltan datos\n⏳ 🔥 COMBI POR 19,95 🔥 · 19,95 · pendiente\n✅ Este nos encanta para hoy 🔥\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n❔ Arrancamos la tarde con uno que pinta muy bien 👀 · faltan datos\n⏳ 🤑 COMBI x23,75 🤑 · 23,75 · pendiente\n\n✅ 5 acertadas · ❌ 0 falladas · ⏳ 25 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 4 DE 4 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n❔ 💯 LA CENTENARIA x80,85 💯 · 80,85 · faltan datos\n❔ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · faltan datos\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n✅ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26\n❔ 🤑 COMBI x44,48 🤑 · 44,48 · faltan datos\n❔ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · faltan datos\n❔ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · faltan datos\n❔ 💶 RETO: DE 1€ A 869€ 💶 · faltan datos\n❔ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38 · faltan datos\n❔ Este lo tenemos claro 🔥 · faltan datos\n✅ 🪜 Reto escalera · Día 1/7\n❔ Pick que no podía faltar hoy ⚽ · faltan datos\n❔ 💯 LA CENTENARIA x115 💯 · faltan datos\n❔ Os dejo el pick, familia 👇 · faltan datos\n❔ 🤑 COMBI x48,94 🤑 · 48,94 · faltan datos\n❔ 🤪 LA LOCURA DE x632 🤪 · faltan datos\n❔ 💎 COMBI x433 💎 · faltan datos\n❔ 🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥 · 9,42 · faltan datos\n❔ 🔥 COMBI IRLANDA – KOSOVO 🔥 · 7,89 · faltan datos\n❔ Vamos con otro pick, familia 👇 · faltan datos\n❔ 🚀 COMBI x835 🚀 · faltan datos\n⏳ 🔥 COMBI POR 19,95 🔥 · 19,95 · pendiente\n✅ Este nos encanta para hoy 🔥\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n✅ Arrancamos la tarde con uno que pinta muy bien 👀\n⏳ 🤑 COMBI x23,75 🤑 · 23,75 · pendiente\n\n✅ 4 acertadas · ❌ 0 falladas · ⏳ 26 sin resolver"
   }
 }

@@ -8462,7 +8462,7 @@
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-17-pick-seguro",
-    "fecha": "2026-11-17T22:49",
+    "fecha": "2026-11-17T22:52",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Poland ve más de 1,5 tarjetas\n\n📈 Cuota @1,67",
     "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-17-pick-seguro.tarjeta.jpg",
     "origen": "bot",
@@ -8482,5 +8482,19 @@
     "resultado": "verde",
     "verde_de": "2026-11-17-pick-seguro-3",
     "caducada": "ya hay 2 picks de tarjetas hoy en Telegram (tope 2)"
+  },
+  {
+    "id": "2026-11-17-verde-auto-2026-11-17-pick-claude-1",
+    "fecha": "2026-11-17T22:42",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana Corea del Sur\n\n📈 Cuota @1,40\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-17-pick-claude-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-17-pick-claude-1",
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
