@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 21:27",
+ "actualizado": "2026-11-17 21:37",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3151,
-   "hoy": 142,
+   "seguidores": 3152,
+   "hoy": 143,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3151
+    3152
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 468,
-   "hoy": 29,
+   "seguidores": 467,
+   "hoy": 28,
    "serie": [
     384,
     391,
@@ -50,7 +50,7 @@
     404,
     411,
     439,
-    468
+    467
    ]
   }
  },
@@ -58,9 +58,9 @@
  "total_hoy": 173,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "21:30",
+  "hora": "21:42",
   "dia": "2026-11-17",
-  "titulo": "Gana y ambos marcan"
+  "titulo": "Para dentro señores"
  },
  "ayer": {
   "aciertos": 3,
@@ -222,9 +222,9 @@
   },
   "2026-11-17": {
    "instagram": 46,
-   "threads": 3151,
+   "threads": 3152,
    "facebook": 1,
-   "telegram": 468
+   "telegram": 467
   }
  },
  "tipos_instagram": {
