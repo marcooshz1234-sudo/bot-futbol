@@ -2379,14 +2379,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/86970",
-   "fecha": "2026-11-16T13:21",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T13:42",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__86970.jpg"
-  },
-  {
    "id": "-1002463340479/86971",
    "fecha": "2026-11-16T13:27",
    "texto": "",
@@ -3871,6 +3863,14 @@
    "foto": true,
    "visto": "2026-11-17T21:55",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87172.jpg"
+  },
+  {
+   "id": "-1002463340479/87175",
+   "fecha": "2026-11-17T21:59",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T22:05",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87175.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -14029,6 +14029,13 @@
    "foto": true,
    "visto": "2026-11-17T21:55",
    "foto_ruta": "datos/tipsters_fotos/STAKE_REAL_JB_APUESTAS_12790.jpg"
+  },
+  {
+   "id": "-1001938149766/12793",
+   "fecha": "2026-11-17T22:04",
+   "texto": "No os tengo que decir nada más, los hechos hablan solo en este canal….",
+   "foto": false,
+   "visto": "2026-11-17T22:05"
   }
  ],
  "ENZO TIPSTER🇦🇷": [
