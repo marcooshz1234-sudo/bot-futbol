@@ -461,8 +461,31 @@ def verde_partido(t, pata, cuota, publicado, liga=None, alto=1350, lema=None):
     return _html(cuerpo, 1080, alto, verde=True)
 
 
+def insignias(partido_id, lado=64):
+    """17/11 (Marcos: «ha vuelto a salir sin bandera… siempre tiene que estar la bandera»; escalera Dinamarca–Noruega):
+    las dos banderas (selección) o escudos (club) del partido de una pata, para las filas de los verdes. "" si no se sabe."""
+    if not partido_id:
+        return ""
+    try:
+        t = partido({"sel": [f"{partido_id}|x|x"]}) or {}
+    except Exception:
+        t = {}
+    if not (t.get("local") and t.get("visitante")):
+        return ""
+    def una(nombre, team_id, logo):
+        b = bandera_real(nombre)
+        if b:
+            b = b.replace('class="real"', 'style="width:100%;height:100%;object-fit:cover;display:block"')
+            return (f'<div style="width:{round(lado * 1.4)}px;height:{lado}px;border-radius:8px;overflow:hidden;flex:none;'
+                    f'box-shadow:0 0 0 3px #3ee07a,0 4px 8px rgba(0,0,0,.4)">{b}</div>')
+        return escudo(team_id, logo, nombre, lado)
+    return (f'<span style="flex:none;display:flex;gap:10px;align-items:center">'
+            f'{una(t["local"], t.get("id_l"), t.get("logo_l"))}{una(t["visitante"], t.get("id_v"), t.get("logo_v"))}</span>')
+
+
 def verde_lista(patas, titulo, cuota, publicado, alto=1350, cajas=None, lema=None):
-    """Acierto de varias patas / partidos: lista de patas con su tick y el sello."""
+    """Acierto de varias patas / partidos: lista de patas con su tick y el sello.
+    17/11: cada fila con las banderas/escudos de su partido (insignias)."""
     n = len(patas)
     letra = 44 if n <= 3 else 38 if n <= 5 else 30 if n <= 8 else 24
     pad = 14 if n <= 5 else 8
@@ -474,6 +497,7 @@ def verde_lista(patas, titulo, cuota, publicado, alto=1350, cajas=None, lema=Non
                   f'border-left:10px solid {"#8a8f9e" if anul else "#3ee07a"};opacity:{.55 if anul else 1}">'
                   + (f'<span style="flex:none;display:flex">{"⏸️" if anul else ICONO["check"].format(t=letra + 6)}</span>' if CL else
                      f'<span style="font-size:{letra}px">{"⏸️" if anul else "✅"}</span>')
+                  + insignias(x.get("partido_id"), letra + 18 if n <= 5 else letra + 8)
                   + f'<div style="flex:1">'
                   f'<div class="b3d" style="font-size:{letra}px;line-height:1.05">{e(mayus(x.get("texto", "")))}'
                   f'{" (NO SE JUGÓ)" if anul else ""}</div>'

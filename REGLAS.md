@@ -138,6 +138,7 @@
 
 ## 8. Verdes y rojos
 - ⚙️ Los verdes llevan la cuota de la publicación. Solo salen cuando terminan los partidos (o 10 min en verde).
+- 🤖 **Los verdes, siempre con las banderas o escudos de cada partido** (17/11: la escalera Dinamarca–Noruega salió sin ellas; fotos.insignias).
 - ⚙️ Pata anulada (aplazado, jugador que no juega): se quita y la cuota se rehace, como paga bet365.
 - ⚙️ **El aviso de «¡VERDE!» solo para verdes de verdad (13/11):** un post que se para para enseñárselo a Marcos le llega como «⏸️ Post en espera», nunca como verde (asistente.py + test_aviso_espera).
 - ⚙️ **Verdes seguros salen solos** (12/11: «los acertados que los suba de una, ni pregunte, pero tiene que estar seguro»):
