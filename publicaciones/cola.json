@@ -8529,7 +8529,7 @@
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-17-pick-tip-4",
-    "fecha": "2026-11-17T23:05",
+    "fecha": "2026-11-17T23:08",
     "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 6,5 córners en Polonia–Suecia\n✅ Más de 1,5 goles en Polonia–Suecia\n\n📈 Cuota @1,50\n\nA cobrar señores 🤑",
     "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-17-pick-tip-4.tarjeta.jpg",
     "origen": "bot",
@@ -8537,5 +8537,21 @@
     "facebook": "foto",
     "resultado": "verde",
     "verde_de": "2026-11-17-pick-tip-4"
+  },
+  {
+    "id": "2026-11-17-verde-auto-2026-11-17-loca-th-1130-duelo",
+    "fecha": "2026-11-17T23:01",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gustav Isaksen: 3+ tiros\n🔵 Hugo Vetlesen: 2+ tiros (no se jugó: no cuenta)\n\n📈 Cuota @1,44\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-17-loca-th-1130-duelo.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-17-loca-th-1130-duelo",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque alguna pata no está en verde (anulada o sin resultado). Sale cuando le des a Publicar.",
+    "solo_en": [
+      "threads"
+    ]
   }
 ]
