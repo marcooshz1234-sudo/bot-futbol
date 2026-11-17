@@ -41,7 +41,7 @@
    "justa": 2.17,
    "ev": 0.012,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Bosnia & Herzegovina",
@@ -52,7 +52,7 @@
    "justa": 1.39,
    "ev": 0.006,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Hungary",
@@ -63,11 +63,11 @@
    "justa": 1.7,
    "ev": -0.018,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-17T16:54",
+  "hora": "2026-11-17T17:15",
   "revisadas": 0,
   "mejor": null
  },

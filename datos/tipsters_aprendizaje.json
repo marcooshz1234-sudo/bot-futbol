@@ -106,6 +106,15 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.649
   },
+  "ENZO TIPSTER🇦🇷": {
+   "n": 4,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.524
+  },
   "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
    "n": 3,
    "verdes": 2,
@@ -114,15 +123,6 @@
    "unidades": 0.74,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.48
-  },
-  "ENZO TIPSTER🇦🇷": {
-   "n": 3,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.524
   },
   "AllSportsPicks ⚽🏀🎾": {
    "n": 3,
@@ -327,6 +327,13 @@
    "nulos": 0,
    "unidades": 0.0
   },
+  "Goals Over/Under Over 3.5": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "Asian Handicap Home -0.25": {
    "n": 1,
    "verdes": 0,
@@ -523,18 +530,11 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.581
-  },
-  "Goals Over/Under Over 3.5": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 71,
+   "n": 72,
    "verdes": 32,
    "rojos": 9,
    "nulos": 0,
@@ -840,7 +840,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 78,
+   "n": 79,
    "verdes": 45,
    "rojos": 9,
    "nulos": 0,
@@ -939,7 +939,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 19,
+   "n": 20,
    "verdes": 7,
    "rojos": 2,
    "nulos": 0,
@@ -968,7 +968,7 @@
    "prob_cuota": 11.701
   },
   "UEFA Nations League": {
-   "n": 55,
+   "n": 56,
    "verdes": 34,
    "rojos": 9,
    "nulos": 0,
@@ -1006,7 +1006,7 @@
  },
  "lado": {
   "partido": {
-   "n": 59,
+   "n": 60,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -1035,7 +1035,7 @@
  },
  "por_que": {
   "—": {
-   "n": 47,
+   "n": 48,
    "verdes": 17,
    "rojos": 10,
    "nulos": 0,
@@ -1109,7 +1109,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 121,
+   "n": 122,
    "verdes": 62,
    "rojos": 21,
    "nulos": 0,

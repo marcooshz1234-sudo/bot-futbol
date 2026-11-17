@@ -3266,5 +3266,25 @@
    "cuota_bet365": 2.0,
    "prob_cuota": 0.526
   }
+ },
+ {
+  "tipster": "ENZO TIPSTER🇦🇷",
+  "fuente": "-1002819019921/6782",
+  "dia": "2026-11-17",
+  "local": "Denmark",
+  "visitante": "Norway",
+  "partido_id": 1528993,
+  "texto": "Más de 3,5 goles en Dinamarca–Noruega",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.5",
+  "cuota": 2.06,
+  "stake": 1,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 2.0,
+   "prob_cuota": 0.485
+  }
  }
 ]
