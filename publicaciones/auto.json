@@ -6800,9 +6800,9 @@
       "1528995|Total - Away|Over 0.5"
     ],
     "cuotas": [
-      1.62,
+      1.44,
       1.67,
-      1.57,
+      1.53,
       1.67
     ],
     "solo_redes": true,
@@ -6822,7 +6822,8 @@
     "cuota_bet365": 9.42,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T15:02"
   },
   {
     "id": "2026-11-17-loca-th-1700-escudos",
