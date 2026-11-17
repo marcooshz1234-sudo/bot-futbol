@@ -8321,9 +8321,9 @@
       2.1,
       3.75,
       2.1,
-      3.4,
+      3.25,
       2.1,
-      3.25
+      4.0
     ],
     "origen": "threads_locas",
     "cuota_bet365": 392.0,
@@ -8334,7 +8334,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-17T21:32"
   },
   {
     "id": "2026-11-18-loca-th-noche-2330-lista-corners",
