@@ -54,7 +54,7 @@ class VerdesSeguros(unittest.TestCase):
         self.assertIn("baja", out["2026-11-12-pick-tip-1"]["aviso"])
         self.assertIsNone(self.grupo)   # uno seguro solo: no hay grupo
 
-    def test_varios_verdes_una_sola_foto(self):   # 12/11: «si hay varias apuestas, una foto en conjunto»
+    def test_varios_verdes_uno_cada_10_min(self):   # 17/11: «una a una cada 10 min» (antes, 12/11, una foto en conjunto)
         cola = [{"id": "2026-11-12-escalera", "texto": "🍀 Gana Bélgica @1,80"},
                 {"id": "2026-11-12-pick-seguro", "texto": "🍀 Gana el Albacete @1,53"}]
         out = self.correr([
@@ -62,14 +62,11 @@ class VerdesSeguros(unittest.TestCase):
             {"id": "2026-11-12-pick-seguro", "titulo": "Pick", "estado": "verde",
              "picks": [pick(texto="Gana el Albacete", cuota=1.53)]},
         ], cola)
-        sueltos = [out["2026-11-12-escalera"], out["2026-11-12-pick-seguro"]]
-        self.assertTrue(all(p["solo_en"] == ["threads"] and p.get("agrupado_en") for p in sueltos))
-        grupo = self.grupo
-        self.assertIn("2 VERDES", grupo["texto"])
-        self.assertIn("✅ Pick del día · Gana el Albacete @1,53", grupo["texto"])
-        self.assertIn("✅ Reto escalera · Gana Bélgica @1,80", grupo["texto"])
-        self.assertNotIn("threads", grupo["solo_en"])
-        self.assertTrue(all(p["fecha"] == grupo["fecha"] for p in sueltos))   # el comentario de Threads no se queda fuera
+        self.assertIsNone(self.grupo)
+        fechas = sorted(p["fecha"] for p in (out["2026-11-12-escalera"], out["2026-11-12-pick-seguro"]))
+        from datetime import datetime
+        dif = datetime.fromisoformat(fechas[1]) - datetime.fromisoformat(fechas[0])
+        self.assertEqual(dif.total_seconds(), 600)
 
     def test_familia_partida_lleva_verde_en_threads(self):   # 15/11: Inglaterra remates sin verde en Threads
         cola = [{"id": "2026-11-15-pick-tip-1446", "texto": "🍀 Inglaterra: más de 3,5 remates a puerta @1,80",

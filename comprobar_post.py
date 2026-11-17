@@ -253,6 +253,24 @@ def _de_tarjetas(p, texto=None):
     return bool(re.search(r"tarjeta|Cards", t, re.I))
 
 
+SIN_TARJETAS_DESDE = "2026-11-18"
+
+
+def pick_tarjetas_tg(p, texto=None):
+    """17/11 (Marcos: «las de las tarjetas van fatal, como pick no lo deberíamos de volver a poner»): ningún pick ni
+    copia de tarjetas en Telegram (las combis con alguna pata de tarjetas, sí)."""
+    if p.get("solo_en") and "telegram" not in p["solo_en"]:
+        return None
+    pid = p.get("id", "")
+    if pid[:10] < SIN_TARJETAS_DESDE or not ("-pick-" in pid or p.get("origen") == "tipster"):
+        return None
+    t = texto or p.get("texto") or ""
+    linea = " ".join(re.findall(r"🍀[^\n]*", t)) + " " + " ".join(map(str, p.get("sel") or []))
+    if re.search(r"tarjeta|Cards", linea, re.I):
+        return "picks de tarjetas en Telegram, no (Marcos 17/11: van fatal)"
+    return None
+
+
 def tarjetas_tg(p, texto=None, posts=None):
     """Motivo si ya salieron TOPE_TARJETAS_TG picks de tarjetas hoy en Telegram y este también lo es."""
     if p.get("solo_en") and "telegram" not in p["solo_en"]:
@@ -301,7 +319,7 @@ def mismo_pick_tg(p, texto=None, posts=None):
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
     try:
-        m = tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
+        m = pick_tarjetas_tg(p, texto) or tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
         if m:
             return m
     except Exception as e:

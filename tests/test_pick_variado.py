@@ -45,8 +45,8 @@ class PickVariado(unittest.TestCase):
     def test_mas_de_25_dudoso_no(self):
         self.assertIsNone(self._pick([[MAS25_DUDOSO]]))
 
-    def test_tarjetas_del_partido_si_muy_probable(self):
-        self.assertEqual(self._pick([[TARJETAS]]), "Más de 4,5 tarjetas")
+    def test_tarjetas_ya_no(self):   # 17/11 (Marcos: «las de las tarjetas van fatal»): antes salían si eran muy probables
+        self.assertIsNone(self._pick([[TARJETAS]]))
 
     def test_lo_demas_prohibido_sigue_fuera(self):
         self.assertIsNone(self._pick([[GOL_1T]]))

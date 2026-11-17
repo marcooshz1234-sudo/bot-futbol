@@ -20,7 +20,8 @@ ESTADO = DATOS / "verdes_auto.json"
 MEDIA = RAIZ / "publicaciones" / "media"
 ESPERA = DATOS / "verdes_espera.json"   # 30/10: cuándo se vio cada combi toda en verde por primera vez
 ESPERA_MIN = 10                         # minutos en verde antes de celebrarla (gol anulado por el VAR: Espanyol 30/10)
-VENTANA_GRUPO = 15                      # 12/11: un verde seguro espera 15 min por si cae otro y salen juntos
+VENTANA_GRUPO = 15                      # 12/11: un verde seguro espera 15 min por si cae otro y salen juntos (ya no, 17/11)
+SEPARACION = 10                         # 17/11 (Marcos): los verdes de Telegram, uno a uno, cada 10 min entre ellos
 ESPERA_CONFIRMAR = 30                   # 12/11: minutos máximos esperando a que todas las patas estén confirmadas
 TERMINADO = {"FT", "AET", "PEN"}
 ES_COMBI = re.compile(r"COMBI|COMBINADA|ESCALERA|GANA O EMPATA|🆚|PICK SEGURO|PICK DEL DÍA", re.I)   # 01/11: pick seguro
@@ -68,7 +69,10 @@ def main():
             hechos.add(p["id"])
             continue
         # 26/10: también por id (los estilos, p. ej. «⚽ LUNES DE GOLES», no llevan «COMBI» en el título)
-        es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera|-pick-", p["id"]) and "verde-auto" not in p["id"])   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
+        es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera|-pick-", p["id"]) and "verde-auto" not in p["id"])
+        # 17/11 (Marcos: «en Threads, si no es una combi mínimo x5 no se sube»): las locas de Threads también
+        # (la centenaria, el duelo, los tapados…), pero no las listas ni los ganadores
+        es_combi = es_combi or (re.search(r"-loca-th-", p["id"]) and not re.search(r"-lista-|ganadores", p["id"]))   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
         if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
             continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
@@ -139,8 +143,8 @@ def main():
                 "_combi": p}
         if duda:
             post.update(requiere_ok=True, aviso=f"💚 ¡VERDE! Te lo paso porque {duda}. Sale cuando le des a Publicar.")
-        else:   # 12/11 (Marcos: «si hay varias, una foto en conjunto para que no haya tantas»): espera por si cae otro
-            post["fecha"] = (ahora + timedelta(minutes=VENTANA_GRUPO)).strftime("%Y-%m-%dT%H:%M")
+        # 17/11 (Marcos: «que suba ya las que se van acertando, una a una cada 10 min entre ellas»): ya no espera
+        # 15 min para juntarlos; escalonar() los separa
         for k in ("solo_en", "solo_redes"):   # 12/11: el verde va donde fue el post (uno solo de Threads → solo Threads)
             if (originales.get(p["id"]) or {}).get(k):
                 post[k] = originales[p["id"]][k]
@@ -234,9 +238,9 @@ def main():
         post.pop("_ticket", None)
     cola.extend(nuevos)
     try:
-        agrupar(cola, ahora)
+        escalonar(cola, ahora)
     except Exception as e:
-        print("Verdes: sin agrupar:", e)
+        print("Verdes: sin escalonar:", e)
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     ESTADO.write_text(json.dumps(sorted(hechos)), encoding="utf-8")
     for post in nuevos:
@@ -270,6 +274,28 @@ def compartir(ahora, cada=timedelta(days=4)):
     from redes import ENLACE_TELEGRAM
     COMPARTIR.write_text(json.dumps({"ultimo": ahora.isoformat()}) + "\n", encoding="utf-8")
     return f"\n\n📲 ¿Tienes un colega que apueste? Pásale el canal y que se suba 👉 {ENLACE_TELEGRAM}"
+
+
+def escalonar(cola, ahora, cada=SEPARACION):
+    """17/11 (Marcos: «que suba ya las que se van acertando, una a una cada 10 min entre ellas»; antes, 12/11, iban
+    juntas en un post). Los verdes de hoy que van a Telegram y aún no han salido: cada uno al menos `cada` min
+    después del anterior (contando el último que ya salió). Devuelve los que ha movido."""
+    dia = ahora.strftime("%Y-%m-%d")
+    env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
+    a_tg = lambda p: (p.get("resultado") == "verde" and p.get("verde_de") and p["id"].startswith(dia)
+                      and (not p.get("solo_en") or "telegram" in p["solo_en"]) and not p.get("caducada"))
+    salidos = [(p.get("enviado") or (env.get(p["id"]) or {}).get("enviado") or "")[:16] for p in cola if a_tg(p) and _ya_salio(p)]
+    ultimo = max((s for s in salidos if s), default=None)
+    siguiente = datetime.fromisoformat(ultimo).replace(tzinfo=MADRID) + timedelta(minutes=cada) if ultimo else None
+    movidos = []
+    for p in sorted((p for p in cola if a_tg(p) and not _ya_salio(p) and not p.get("requiere_ok")), key=lambda p: (p["fecha"], p["id"])):
+        f = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
+        if siguiente and f < siguiente:
+            p["fecha"] = siguiente.strftime("%Y-%m-%dT%H:%M")
+            movidos.append(p["id"])
+            f = siguiente
+        siguiente = f + timedelta(minutes=cada)
+    return movidos
 
 
 def agrupar(cola, ahora):

@@ -118,7 +118,7 @@ def url_media(p, ext):
 
 # ------------------------------------------------------------------ cada red
 
-CUOTON = 10.0
+CUOTON = 5.0   # 17/11 (Marcos: «en Threads, si no es una combi mínimo x5 no se sube»; antes 10)
 
 
 def pick_suelto(p):
@@ -140,7 +140,7 @@ def pick_suelto(p):
 def resultado_sin_cuoton(p):
     """16/11 (Marcos: «en Threads no quiero ni que subas cuánto hemos acertado durante el día… solo si aciertas un
     cuotón bueno, mínimo 10: "señores, acertamos tal"»): verdes, rojos, balances y resúmenes NO salen en Threads ni en
-    Instagram (ni como comentario), salvo un verde de cuota 10 o más. Threads e Instagram son las combis locas."""
+    Instagram (ni como comentario), salvo un verde de cuota CUOTON o más (17/11: x5). Threads e Instagram son las combis locas."""
     pid = p.get("id", "")
     es_resultado = bool(p.get("resultado") or p.get("verde_de")) or bool(
         re.search(r"-(verde|rojo|balance|resumen|resultado)(-|$)", pid))

@@ -14,7 +14,7 @@
 ## 0. Para qué es cada red (16/11, Marcos) — manda sobre lo de abajo si choca
 - **Threads e Instagram = COMBILOCAS de verdad, para captar gente que se vaya al Telegram.** Mucho volumen: todos los picks que gusten del día, combis con escudos, listas, GANADORES, y muchas combis locas (cuota 100, cuota 500…).
   - Formato: partidos sin foto → solo texto con emojis; un partido con 4-5 cosas → los 2 escudos; un pick solo → su foto.
-  - **Nada de cuánto hemos acertado** (ni verdes, ni rojos, ni balances, ni como comentario), salvo un verde de **cuota 10 o más** («Señores, acertamos tal»).
+  - **Nada de cuánto hemos acertado** (ni verdes, ni rojos, ni balances, ni como comentario), salvo un verde de **combi de cuota 5 o más** (17/11: antes 10; «Señores, acertamos tal»), comprobado bien antes de subirlo.
   - Lo que más importa medir es **la gente que te sigue desde cada post** (y los likes); las visualizaciones también, pero menos (rendimiento_redes.py).
   - **Contenido constante** (threads_locas.py): cada 30 min de 09:00 a 01:00 y cada hora de madrugada (de 21:00 a 23:30, con los partidos de MAÑANA: `-loca-th-noche-`, 16/11); combis x50/x100/x500/x1000, listas del día, tiros de jugadores habituales (sin esperar alineaciones). Nada de un pick suelto con explicación. Enlace del Telegram en el comentario 1 de cada 4.
   - **Combis con escudos (foto de los 2 escudos)**: entre 4 y 6 al día (no todos los partidos), unas 4 h antes; partidazo → 6-8 cosas, partido flojo → 3-4. Sin córners ni tarjetas, sin «gana X» junto a «X o empate».
@@ -32,7 +32,7 @@
 - Un **pick suelto** (o copia de tipster de una pata) es solo para Telegram, nunca Threads/Instagram.
 - **Copias de los canales (16/11, Marcos: «coge las que te gusten… fallar lo menos posible»; «que pese más el % de acierto de cada tipster»)**: ya no se copia todo. Nota = 40 % lo que ve bet365 + 60 % el acierto del tipster (suavizado: con pocos picks cuenta como 50 %) + 0,10 si lo dan 2 canales; se copia con nota ≥ 0,55. Nunca algo que bet365 vea por debajo del 33 %, ni a favor de un equipo que no se juega nada contra uno que sí. Siempre con su porqué. **El motivo del analista, siempre con otras palabras** (nunca su texto tal cual; si no hay uno reescrito, el bot pone sus propias razones) (16/11 10:53). **De 1,80 para arriba solo los tipsters buenos (≥ 70 % de acierto suavizado: INSIDER, Lafiebredelpick, MAX ANALISTA)** (16/11 10:41; el acierto suma todas las formas del nombre del canal, con y sin emojis). **Tipster Pérez, favorito: sus picks se copian siempre** (sin nota ni tope de 1,80; solo se frena lo que bet365 ve por debajo del 33 % o a favor de quien no se juega nada) (16/11, Marcos: «me gusta mucho»).
 
-- 🎯 **Picks de Telegram: lo más probable de TODOS los mercados, sin ser monótonos** (16/11, Marcos: «quiero que salga lo más probable… más de 2,5 goles si lo ves muy probable… que no sea monótono, aunque el gana o gana o empata me gusta»). Resultado, goles, córners, tarjetas, jugadores… Lo prohibido en las combis (más de 2,5 goles, tarjetas del partido) vale aquí solo con prob. ≥ 70 %; el resto de prohibidos (1ª parte, menos de, tiros del partido…), no. Los dos picks del día de tipos distintos (salvo el último plan B del mínimo diario) y lo que salió los 3 días antes resta un poco (el «gana», la mitad). La promo «2 goles de ventaja» no se escribe en los posts (el verde ya cuenta el 2-0).
+- 🎯 **Picks de Telegram: lo más probable de TODOS los mercados, sin ser monótonos** (16/11, Marcos: «quiero que salga lo más probable… más de 2,5 goles si lo ves muy probable… que no sea monótono, aunque el gana o gana o empata me gusta»). Resultado, goles, córners, jugadores… **Tarjetas, nunca** (17/11: «van fatal, como pick no lo deberíamos de volver a poner»; ni copiadas de tipsters: comprobar_post las para). Lo prohibido en las combis (más de 2,5 goles, tarjetas del partido) vale aquí solo con prob. ≥ 70 %; el resto de prohibidos (1ª parte, menos de, tiros del partido…), no. Los dos picks del día de tipos distintos (salvo el último plan B del mínimo diario) y lo que salió los 3 días antes resta un poco (el «gana», la mitad). La promo «2 goles de ventaja» no se escribe en los posts (el verde ya cuenta el 2-0).
 - 🎯 **Más picks si hay cuotas buenas** (16/11, Marcos: «si hay más cuotas buenas, que las meta también, y si son de diferente mercado, mejor»; los repetidos pueden salir): hasta 2 picks más en Telegram (12:30 y 16:30, `pick-seguro-3/4`), solo con cuota 1,50-1,70 y prob. ≥ 62 % (sin plan B), sin chocar con lo de hoy; se prefiere un mercado que no haya salido ese día.
 - 📊 **Resumen semanal por privado** (16/11, Marcos): domingo 22:00, acierto de los picks de Telegram por tipo y de las copias; ⚠️ si un tipo baja del 55 % → Marcos decide si se le sube el listón (resumen_semanal.py).
 
@@ -143,8 +143,10 @@
 - ⚙️ **Verdes seguros salen solos** (12/11: «los acertados que los suba de una, ni pregunte, pero tiene que estar seguro»):
   todas las patas en verde y confirmadas, sin anuladas, con su cuota (≥ 1,35) y que no sea un boleto. Si hay cualquier
   duda, se le mandan a Marcos con el motivo y salen con su «✅ Publicar».
-- ⚙️ **Varios verdes a la vez → un solo post con una foto** en Telegram e Instagram (12/11: «para que no haya tantas»).
-  Cada verde espera 15 min por si cae otro. En Threads, cada uno sigue como comentario de su post.
+- ⚙️ **Verdes de Telegram: uno a uno, cada 10 min entre ellos** (17/11: «que suba ya las que se van acertando una a una
+  cada 10 min»; antes, 12/11, iban juntos en un post). Ya no esperan 15 min a juntarse (verdes_auto.escalonar).
+- ⚙️ **Threads: solo verdes de combis de x5 o más** (17/11), también las locas (centenaria, duelo, tapados…), no listas
+  ni ganadores. Si llevan varias patas del mismo partido, pasan por su «✅ Publicar».
 - 👤 Rojos y cuotazas: solo con «✅ Publicar» de Marcos.
 - 👤 Si la combi nunca se publicó (captura de Marcos), el verde no lleva «¿Quién la llevaba?».
 

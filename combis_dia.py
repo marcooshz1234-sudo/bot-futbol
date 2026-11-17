@@ -1714,8 +1714,9 @@ def estrellas(pools, ya, dia):
     return [(cp, c, h) for _, c, cp, h, _ in cands[:ESTRELLA["max"]]]
 
 
-SEGURO = {"cuota": (1.50, 2.00), "no_tipos": ("tiros", "fueras"), "hora": (10, 30), "prob_min": 0.62,
+SEGURO = {"cuota": (1.50, 2.00), "no_tipos": ("tiros", "fueras", "tarjetas"), "hora": (10, 30), "prob_min": 0.62,
           "prob_solo_pick": 0.70, "castigo_repetido": 0.03, "castigo_jugador": 0.02}
+# 17/11 (Marcos: «las de las tarjetas van fatal, como pick no lo deberíamos de volver a poner»): «tarjetas» en no_tipos
 # 16/11 (Marcos: «quiero que salga lo más probable… que no sea monótono… aunque el gana o gana o empata me gusta»):
 # el pick de Telegram sale de TODOS los mercados (resultado, goles, córners, tarjetas, jugadores…). Lo prohibido en
 # las combis (más de 2,5 goles, tarjetas del partido) vale aquí solo si es muy probable (prob_solo_pick). Los dos picks
@@ -1913,6 +1914,8 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
     if dia >= SEGURO_DESDE and primero_tipsters:   # 09/11 (Marcos): primero los de TipsAnalistas y Pérez, si el modelo no lo ve claramente mal
         # 11/11: dentro del rango de Marcos (1,50-1,70); el 1,45-1,85 es solo el plan B (abajo)
         t = pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(lo, hi)) or pick_de_copa(pools, hora, otro, rango=(lo, hi))
+        if t and tipo_pick(t) in SEGURO["no_tipos"]:   # 17/11: un tipster de tarjetas tampoco
+            t = None
         if t and not (tipo_otro and tipo_pick(t) == tipo_otro):
             return t, hora
     def buscar(lo, hi, prob_min, fijo=True, distinto=True):
@@ -1930,7 +1933,7 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
         if not cand:   # 11/11: el tipster del plan B también con el rango ampliado (antes solo si no iban primero)
             t = (pick_de_tipster(pools, dia, hora, otro, usados=ya, rango=(min(lo, 1.45), max(hi, 1.85)))
                  or pick_de_copa(pools, hora, otro, rango=(min(lo, 1.45), max(hi, 1.85))))
-            if t and not (tipo_otro and tipo_pick(t) == tipo_otro):
+            if t and tipo_pick(t) not in SEGURO["no_tipos"] and not (tipo_otro and tipo_pick(t) == tipo_otro):
                 print("Mínimo diario: pick de tipster")
                 return t, hora
         if not cand:
