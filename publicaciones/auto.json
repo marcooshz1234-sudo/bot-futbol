@@ -8377,7 +8377,7 @@
     ],
     "cuotas": [
       2.75,
-      2.62,
+      2.75,
       2.88,
       2.88
     ],
@@ -8390,7 +8390,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T00:04"
   },
   {
     "id": "2026-11-18-loca-th-0100-lista-corners",
