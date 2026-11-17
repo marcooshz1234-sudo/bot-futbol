@@ -41,7 +41,7 @@
    "justa": 1.4,
    "ev": -0.001,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Denmark",
@@ -52,11 +52,22 @@
    "justa": 1.69,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
+  },
+  {
+   "local": "Portugalete",
+   "visitante": "Real Unión",
+   "inicio": "2026-11-18T19:00",
+   "texto": "Ambos marcan en Portugalete–Real Unión",
+   "cuota": 1.91,
+   "justa": 1.95,
+   "ev": -0.019,
+   "fuente": "las otras casas",
+   "edad_h": 4.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-17T12:53",
+  "hora": "2026-11-17T13:15",
   "revisadas": 0,
   "mejor": null
  },

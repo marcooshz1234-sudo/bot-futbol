@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 13:04",
+ "actualizado": "2026-11-17 13:15",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3104,
-   "hoy": 95,
+   "seguidores": 3105,
+   "hoy": 96,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3104
+    3105
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3603,
- "total_hoy": 110,
+ "total": 3604,
+ "total_hoy": 111,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "14:00",
   "dia": "2026-11-17",
-  "titulo": "Vamos con la combi del martes familia"
+  "titulo": "Córners del día"
  },
  "ayer": {
   "aciertos": 3,
@@ -222,7 +222,7 @@
   },
   "2026-11-17": {
    "instagram": 46,
-   "threads": 3104,
+   "threads": 3105,
    "facebook": 1,
    "telegram": 452
   }

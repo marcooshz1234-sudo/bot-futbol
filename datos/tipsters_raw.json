@@ -878,14 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47010",
-   "fecha": "2026-11-13T09:55",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T10:24",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47010.jpg"
-  },
-  {
    "id": "-1001468963672/47015",
    "fecha": "2026-11-13T10:25",
    "texto": "👨🏼‍💻 PROGRAMACIÓN DEL MIÉRCOLES \n\n🔘 APUESTA GRATIS || 14:00h\n🔘 ÉLITE PÉREZ || 11ª EDICIÓN || 16:00h\n🔘 POSIBLES LIVES || A todas horas  \n\n⏰ En 🇨🇱🇦🇷🇧🇷 son 4 horas menos \n⏰ En 🇨🇴🇵🇪🇪🇨🇲🇽 son 6 horas menos",
@@ -2375,17 +2367,16 @@
    "foto": true,
    "visto": "2026-11-17T12:48",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47242.jpg"
+  },
+  {
+   "id": "-1001468963672/47243",
+   "fecha": "2026-11-17T13:01",
+   "texto": "¡Prepárense! \nEstoy analizando todo, hoy tendremos mucho contenido de calidad. \n\n🧠 Recodard \nEstamos en racha de 6 verdes en el FREE, también una racha de 14 grupos STAKES 10 acertados.",
+   "foto": false,
+   "visto": "2026-11-17T13:14"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/86900",
-   "fecha": "2026-11-15T21:45",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-15T21:49",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__86900.jpg"
-  },
   {
    "id": "-1002463340479/86899",
    "fecha": "2026-11-15T21:45",
@@ -3870,6 +3861,14 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-17T12:48"
+  },
+  {
+   "id": "-1002463340479/87102",
+   "fecha": "2026-11-17T13:02",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T13:14",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87102.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -4453,6 +4452,21 @@
    "foto": true,
    "visto": "2026-11-16T22:06",
    "foto_ruta": "datos/tipsters_fotos/TipsAnalistasNBA__36019.jpg"
+  },
+  {
+   "id": "-1001061550504/36023",
+   "fecha": "2026-11-17T13:06",
+   "texto": "Muy buenas a todos por aquí! \n\nResumen NBA de ayer:\n\n✅ ST5: Fears over asist \n✅ ST5: Anteto over reb\n✅ ST4: Combi triples \n🚫 ST4: Black over reb \n\nNueva jornada NBA donde sacamos una altísima rentabilidad aunque para los que solo estáis en el free os tocó el único fallo de la noche",
+   "foto": false,
+   "visto": "2026-11-17T13:14"
+  },
+  {
+   "id": "-1001061550504/36022",
+   "fecha": "2026-11-17T13:06",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T13:14",
+   "foto_ruta": "datos/tipsters_fotos/TipsAnalistasNBA__36022.jpg"
   }
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
@@ -7629,6 +7643,20 @@
    "foto": true,
    "visto": "2026-11-17T01:44",
    "foto_ruta": "datos/tipsters_fotos/CRIMINALPICKS__11067.jpg"
+  },
+  {
+   "id": "-1002685171001/11068",
+   "fecha": "2026-11-17T13:04",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-17T13:14"
+  },
+  {
+   "id": "-1002685171001/11069",
+   "fecha": "2026-11-17T13:11",
+   "texto": "Buenos días familia☀️\n\nMuy mala noche la que hemos vivido con la NBA, cosas que deberían de haber salido muy fácil, que venían cumpliendo en partidos anteriores y anoche no se han querido dar…\n\nLE HE ESTADO DANDO VUELTAS Y ES MEJOR HACER UN PARÓN POR UNOS DÍAS, COGER FUERZAS Y VOLVER CON GANAS\nESPERO QUE ENTIENDAN LA SITUACIÓN\n\nGRACIAS A TODOS FAMILIA🙏🏽💪🏽",
+   "foto": false,
+   "visto": "2026-11-17T13:14"
   }
  ],
  "TipsPro🤙": [
