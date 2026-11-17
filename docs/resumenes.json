@@ -2358,14 +2358,14 @@
   },
   "2026-11-17": {
     "dia": "2026-11-17",
-    "total": 21,
+    "total": 22,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 21,
+      "pendiente": 22,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 21
+      "sin_resolver": 22
     },
     "combis": [
       {
@@ -2493,13 +2493,19 @@
         "titulo": "🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥",
         "estado": "pendiente",
         "cuota": 9.42
+      },
+      {
+        "id": "2026-11-17-loca-th-1700-escudos",
+        "titulo": "🔥 COMBI IRLANDA – KOSOVO 🔥",
+        "estado": "pendiente",
+        "cuota": 7.89
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 105
+      "total": 108
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · pendiente\n⏳ 💶 RETO: DE 1€ A 869€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38 · pendiente\n⏳ Este lo tenemos claro 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 💯 LA CENTENARIA x115 💯 · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🤑 COMBI x48,94 🤑 · 48,94 · pendiente\n⏳ 🤪 LA LOCURA DE x632 🤪 · pendiente\n⏳ 💎 COMBI x433 💎 · pendiente\n⏳ 🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥 · 9,42 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 21 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · pendiente\n⏳ 💶 RETO: DE 1€ A 869€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38 · pendiente\n⏳ Este lo tenemos claro 🔥 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ Pick que no podía faltar hoy ⚽ · pendiente\n⏳ 💯 LA CENTENARIA x115 💯 · pendiente\n⏳ Os dejo el pick, familia 👇 · pendiente\n⏳ 🤑 COMBI x48,94 🤑 · 48,94 · pendiente\n⏳ 🤪 LA LOCURA DE x632 🤪 · pendiente\n⏳ 💎 COMBI x433 💎 · pendiente\n⏳ 🔥 COMBI HUNGRÍA – IRLANDA DEL NORTE 🔥 · 9,42 · pendiente\n⏳ 🔥 COMBI IRLANDA – KOSOVO 🔥 · 7,89 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 22 sin resolver"
   }
 }
