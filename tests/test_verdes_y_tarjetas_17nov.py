@@ -65,6 +65,10 @@ class SinTarjetas17Nov(unittest.TestCase):
         p = {"id": "2026-11-18-pick-tip-1", "origen": "tipster", "texto": "🍀 Más de 4,5 tarjetas @1,70"}
         self.assertTrue(C.pick_tarjetas_tg(p))
 
+    def test_copia_de_tipster_bueno_si(self):   # 17/11 21:47: «solo si es de un canal que acierte bastante»
+        p = {"id": "2026-11-18-pick-tip-1", "origen": "tipster", "tipster_bueno": True, "texto": "🍀 Más de 4,5 tarjetas @1,70"}
+        self.assertIsNone(C.pick_tarjetas_tg(p))
+
     def test_otros_picks_y_combis_si(self):
         self.assertIsNone(C.pick_tarjetas_tg({"id": "2026-11-18-pick-seguro", "texto": "🍀 Gana Polonia @1,60"}))
         self.assertIsNone(C.pick_tarjetas_tg({"id": "2026-11-18-combi-tres", "texto": "🍀 Más de 3,5 tarjetas"}))

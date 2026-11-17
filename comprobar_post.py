@@ -257,17 +257,20 @@ SIN_TARJETAS_DESDE = "2026-11-18"
 
 
 def pick_tarjetas_tg(p, texto=None):
-    """17/11 (Marcos: «las de las tarjetas van fatal, como pick no lo deberíamos de volver a poner»): ningún pick ni
-    copia de tarjetas en Telegram (las combis con alguna pata de tarjetas, sí)."""
+    """17/11 (Marcos: «las de las tarjetas van fatal, como pick no lo deberíamos de volver a poner»; 21:47: «solo que lo
+    suba si es de un canal que acierte bastante»): un pick de tarjetas en Telegram solo si es copia de un tipster bueno
+    (copiar_tipsters.tipster_bueno: ≥ 70 % de acierto suavizado). Los del bot, nunca. Las combis con alguna pata, sí."""
     if p.get("solo_en") and "telegram" not in p["solo_en"]:
         return None
     pid = p.get("id", "")
     if pid[:10] < SIN_TARJETAS_DESDE or not ("-pick-" in pid or p.get("origen") == "tipster"):
         return None
+    if p.get("origen") == "tipster" and p.get("tipster_bueno") is True:
+        return None
     t = texto or p.get("texto") or ""
     linea = " ".join(re.findall(r"🍀[^\n]*", t)) + " " + " ".join(map(str, p.get("sel") or []))
     if re.search(r"tarjeta|Cards", linea, re.I):
-        return "picks de tarjetas en Telegram, no (Marcos 17/11: van fatal)"
+        return "picks de tarjetas en Telegram solo de un canal que acierte bastante (Marcos 17/11)"
     return None
 
 
