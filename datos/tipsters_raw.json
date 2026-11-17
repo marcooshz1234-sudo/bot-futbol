@@ -878,22 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47038",
-   "fecha": "2026-11-13T16:00",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T16:23",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47038.jpg"
-  },
-  {
-   "id": "-1001468963672/47043",
-   "fecha": "2026-11-13T16:22",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T16:23",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47043.jpg"
-  },
-  {
    "id": "-1001468963672/47044",
    "fecha": "2026-11-13T16:23",
    "texto": "👀 Si, hoy me juego 1.100,00€ en esta apuesta, es súper exclusiva.🫢\n\n🛒🛒 COMPRAR STAKAZO 10 PREMIUM ➡️ https://tipsterperez.tipsterpage.com/K357Shnp\n\n✅ ¡LA MEJOR APUESTA DEL DIA!\n✔️ ¡ESTÁ EN TODAS LAS CASAS!\n✔️ ¡ANTIFALLO, GARANTIZADA!\n📈 ¡LLEVO UN 93% DE ACIERTO!",
@@ -2376,17 +2360,24 @@
    "foto": true,
    "visto": "2026-11-17T16:10",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47263.jpg"
+  },
+  {
+   "id": "-1001468963672/47268",
+   "fecha": "2026-11-17T16:46",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T16:53",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47268.jpg"
+  },
+  {
+   "id": "-1001468963672/47269",
+   "fecha": "2026-11-17T16:48",
+   "texto": "🤟🏽 RACHA DE 14 SEGUIDOS🔥\nVOY A POR 15/15 ESTE MES. \n\n• Las plazas están volando como era de esperar, solo daros las gracias por la confianza depositada en mi trabajo. 🤝 \n\n🛒 Para obtener apuesta https://tipsterperez.tipsterpage.com/GW5ECWtT",
+   "foto": false,
+   "visto": "2026-11-17T16:53"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/86931",
-   "fecha": "2026-11-16T03:01",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T03:07",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__86931.jpg"
-  },
   {
    "id": "-1002463340479/86932",
    "fecha": "2026-11-16T03:03",
@@ -3870,6 +3861,14 @@
    "foto": true,
    "visto": "2026-11-17T16:42",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87136.jpg"
+  },
+  {
+   "id": "-1002463340479/87137",
+   "fecha": "2026-11-17T16:53",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T16:53",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87137.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -4471,21 +4470,6 @@
   }
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
-  {
-   "id": "-1001550157115/100399",
-   "fecha": "2026-11-15T00:33",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-15T01:01",
-   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100399.jpg"
-  },
-  {
-   "id": "-1001550157115/100408",
-   "fecha": "2026-11-15T09:20",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-15T09:27"
-  },
   {
    "id": "-1001550157115/100409",
    "fecha": "2026-11-15T09:22",
@@ -5960,6 +5944,20 @@
    "texto": "LLEVA TUS APUESTAS AL SIGUIENTE NIVEL! 🔝\n\nConsigue un equilibrio en tus apuestas con nuestros grupos privados. Aqui encontraras nuestra apuesta de mayor valor del dia y una combinada a cuoton! Deja de pensar y toma accion desde ya! 🔘\n\nCOMIENZA A GANAR DESDE YA: https://mypago.net/shop/grupoviptrader",
    "foto": false,
    "visto": "2026-11-17T16:22"
+  },
+  {
+   "id": "-1001550157115/100615",
+   "fecha": "2026-11-17T16:45",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-17T16:53"
+  },
+  {
+   "id": "-1001550157115/100616",
+   "fecha": "2026-11-17T16:47",
+   "texto": "RESERVA TU PLAZA PREMIUM PARA ESTA TARDE EN EL SIGUIENTE LINK: https://mypago.net/shop/grupoviptrader",
+   "foto": false,
+   "visto": "2026-11-17T16:53"
   }
  ],
  "MisterBasquet 🏀": [
@@ -6651,6 +6649,13 @@
    "foto": true,
    "visto": "2026-11-17T13:48",
    "foto_ruta": "datos/tipsters_fotos/MisterBasquet__6648.jpg"
+  },
+  {
+   "id": "-1002329712307/6650",
+   "fecha": "2026-11-17T16:43",
+   "texto": "Comienza a las 17:00 nuestra tarde apuestas, en este audio la amplia explicación de cada una 🕵🏻‍♂️",
+   "foto": false,
+   "visto": "2026-11-17T16:53"
   }
  ],
  "CRIMINALPICKS🕵🏻‍♂️": [
