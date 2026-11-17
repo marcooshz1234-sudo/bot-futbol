@@ -6227,7 +6227,7 @@
       1.67,
       1.57,
       1.67,
-      1.62,
+      1.67,
       1.57,
       1.62
     ],
@@ -6240,7 +6240,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T02:44"
   },
   {
     "id": "2026-11-17-loca-th-0500-hora",
