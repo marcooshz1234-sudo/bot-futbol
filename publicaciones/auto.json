@@ -6293,7 +6293,7 @@
       1.67,
       1.83,
       1.7,
-      1.95
+      1.91
     ],
     "solo_en": [
       "threads"
@@ -6304,7 +6304,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T04:31"
   },
   {
     "id": "2026-11-17-loca-th-0700-lista-corners",
