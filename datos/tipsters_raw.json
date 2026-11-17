@@ -878,14 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/46999",
-   "fecha": "2026-11-12T22:52",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-12T23:18",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_46999.jpg"
-  },
-  {
    "id": "-1001468963672/47003",
    "fecha": "2026-11-12T22:55",
    "texto": "",
@@ -2374,6 +2366,13 @@
    "foto": true,
    "visto": "2026-11-17T00:46",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47231.jpg"
+  },
+  {
+   "id": "-1001468963672/47232",
+   "fecha": "2026-11-17T03:28",
+   "texto": "✅ ¡VERDE OTRA EDICIÓN! \n14/14 este mes. ¡RÉCORD PERSONAL!",
+   "foto": false,
+   "visto": "2026-11-17T03:31"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
