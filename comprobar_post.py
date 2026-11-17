@@ -319,10 +319,18 @@ def mismo_pick_tg(p, texto=None, posts=None):
     return None
 
 
+def sin_sel_claude(p):
+    """17/11 (Marcos: «mira tú bien lo que se ha subido al canal»): el «Gana Corea» que metió Claude a mano salió sin
+    «sel» y el bot no lo siguió (ni su verde). Lo que mete Claude en Telegram, siempre con su sel."""
+    if p.get("origen") != "claude" or (p.get("solo_en") and "telegram" not in p["solo_en"]):
+        return None
+    return None if p.get("sel") else "post de Claude sin «sel»: el bot no lo podría seguir ni sacar su verde"
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
     try:
-        m = pick_tarjetas_tg(p, texto) or tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
+        m = sin_sel_claude(p) or pick_tarjetas_tg(p, texto) or tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
         if m:
             return m
     except Exception as e:
