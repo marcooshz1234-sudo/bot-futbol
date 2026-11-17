@@ -3286,5 +3286,42 @@
    "cuota_bet365": 2.0,
    "prob_cuota": 0.485
   }
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/87140",
+  "dia": "2026-11-17",
+  "hora": "20:45",
+  "local": "Poland",
+  "visitante": "Sweden",
+  "texto": "Crear apuesta: más de 6 córners + más de 1.5 goles",
+  "mercado": "Bet Builder",
+  "opcion": "Over 6 córners + Over 1.5",
+  "cuota": 1.5,
+  "stake": 3,
+  "argumento": [
+   "Dos selecciones que atacan mucho por banda y fuerzan centros, lo que suele traducir en córners",
+   "Con dos goles basta: ninguno de los dos tiene una defensa como para cerrar el partido a cero"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
+  "fuente": "-1002181392017/15490",
+  "dia": "2026-11-17",
+  "hora": "20:45",
+  "local": "Denmark",
+  "visitante": "Norway",
+  "texto": "Crear apuesta: ambos marcan + más de 2.5 goles",
+  "mercado": "Bet Builder",
+  "opcion": "BTTS Sí + Over 2.5",
+  "cuota": 1.6,
+  "stake": 5,
+  "argumento": [
+   "Las dos selecciones han visto puerta en todos sus partidos de este grupo",
+   "Los encuentros de Noruega en esta Nations League han ido con goles a ambos lados y más de dos tantos",
+   "Noruega necesita ganar y eso deja espacios para que Dinamarca también golpee"
+  ],
+  "argumento_propio": true
  }
 ]
