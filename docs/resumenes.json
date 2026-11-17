@@ -2358,14 +2358,14 @@
   },
   "2026-11-17": {
     "dia": "2026-11-17",
-    "total": 11,
+    "total": 12,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 11,
+      "pendiente": 12,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 12
     },
     "combis": [
       {
@@ -2433,13 +2433,19 @@
         "titulo": "💶 RETO: DE 1€ A 869€ 💶",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-17-loca-th-0930-tiros",
+        "titulo": "🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯",
+        "estado": "pendiente",
+        "cuota": 5.38
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 59
+      "total": 62
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · pendiente\n⏳ 💶 RETO: DE 1€ A 869€ 💶 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · pendiente\n⏳ 💶 RETO: DE 1€ A 869€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯 · 5,38 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 12 sin resolver"
   }
 }
