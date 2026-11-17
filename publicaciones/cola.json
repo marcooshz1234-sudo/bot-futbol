@@ -8196,7 +8196,14 @@
     "repuesto_de": "2026-11-16-balance-auto",
     "nota": "repuesto: el 1º contaba Threads (5 de 33); Marcos lo borró y dijo «arregla y sube». tip-3 (gol 1ª parte) sin confirmar: fuera",
     "enviado": "2026-11-17T00:40",
-    "mensaje_id": 514
+    "mensaje_id": 514,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-16-balance-auto-3",
@@ -8212,6 +8219,13 @@
     "repuesto_de": "2026-11-16-balance-auto-2",
     "nota": "hecho mirando el canal post a post (11 picks); Marcos: «si» 00:45",
     "enviado": "2026-11-17T00:46",
-    "mensaje_id": 515
+    "mensaje_id": 515,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
