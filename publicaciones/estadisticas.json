@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 00:20",
+ "actualizado": "2026-11-18 00:30",
  "redes": {
   "instagram": {
    "seguidores": 48,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3159,
-   "hoy": -1,
+   "seguidores": 3160,
+   "hoy": 0,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3159
+    3160
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3679,
- "total_hoy": -1,
+ "total": 3680,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:30",
+  "hora": "01:00",
   "dia": "2026-11-18",
-  "titulo": "Gana y ambos marcan"
+  "titulo": "Córners del día"
  },
  "ayer": null,
  "escalera": {
@@ -225,7 +225,7 @@
   },
   "2026-11-18": {
    "instagram": 48,
-   "threads": 3159,
+   "threads": 3160,
    "facebook": 1,
    "telegram": 471
   }
