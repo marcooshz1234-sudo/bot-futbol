@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 05:57",
+ "actualizado": "2026-11-17 06:07",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3070,
-   "hoy": 61,
+   "seguidores": 3071,
+   "hoy": 62,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3070
+    3071
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 446,
-   "hoy": 7,
+   "seguidores": 447,
+   "hoy": 8,
    "serie": [
     384,
     391,
@@ -50,17 +50,17 @@
     404,
     411,
     439,
-    446
+    447
    ]
   }
  },
- "total": 3563,
- "total_hoy": 70,
+ "total": 3565,
+ "total_hoy": 72,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "06:00",
+  "hora": "07:00",
   "dia": "2026-11-17",
-  "titulo": "La de los tapados"
+  "titulo": "Córners del día"
  },
  "ayer": {
   "aciertos": 3,
@@ -222,9 +222,9 @@
   },
   "2026-11-17": {
    "instagram": 46,
-   "threads": 3070,
+   "threads": 3071,
    "facebook": 1,
-   "telegram": 446
+   "telegram": 447
   }
  },
  "tipos_instagram": {
