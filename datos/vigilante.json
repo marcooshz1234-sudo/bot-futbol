@@ -118,16 +118,25 @@
   "repe-2026-11-16-1528990|Goals Over/Under|Over 2.5": "2026-11-16T23:38",
   "prensa-1528992-76fc01e1": "2026-11-17T00:08",
   "cuotamov-2026-11-17-loca-th-1900-x1000-1528993|Home Player Shots|Morten Hjulmand - 2": "2026-11-17T08:37",
-  "prensa-1528999-73306ce3": "2026-11-17T09:31"
+  "prensa-1528999-73306ce3": "2026-11-17T09:31",
+  "cuotamov-2026-11-17-loca-th-1830-tiros-1528992|Home Player Shots|Harry Wilson - 2": "2026-11-17T13:57"
  },
  "abiertos": [
+  {
+   "clave": "cuotamov-2026-11-17-loca-th-1830-tiros-1528992|Home Player Shots|Harry Wilson - 2",
+   "t": "📉 Gales–Portugal Harry Wilson - 2: la cuota ha pasado de 1.62 a 1.33 (-18%) desde que se hizo «🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯» (18:30). Suele haber una noticia detrás"
+  },
   {
    "clave": "cuotamov-2026-11-17-loca-th-1900-x1000-1528993|Home Player Shots|Morten Hjulmand - 2",
    "t": "📉 Dinamarca–Noruega Morten Hjulmand - 2: la cuota ha pasado de 2.62 a 1.73 (-34%) desde que se hizo «🚀 COMBI x835 🚀» (19:00). Suele haber una noticia detrás"
   }
  ],
- "revisado": "2026-11-17T13:47",
+ "revisado": "2026-11-17T13:57",
  "historial": [
+  {
+   "hora": "2026-11-17T13:57",
+   "t": "📉 Gales–Portugal Harry Wilson - 2: la cuota ha pasado de 1.62 a 1.33 (-18%) desde que se hizo «🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯» (18:30). Suele haber una noticia detrás"
+  },
   {
    "hora": "2026-11-17T09:31",
    "t": "📰 Bosnia–Rumanía: «UEFA Nations League: Bosnia y Herzegovina y Rumanía se enfrentan esta noche, a partir de las 21:45 / Ianis que» (Informat.ro) · tenemos 10 post(s) de este partido: loca-th-1000-lista-corners, loca-th-1200-x100, pick-seguro-3, loca-th-1230-x50, loca-th-1300-tapados, combi-tres, loca-th-1400-lista-corners, loca-th-1430-x500, loca-th-1600-x500, loca-th-1900-x1000"
@@ -363,10 +372,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1900-lista-ambos)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0500-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50)"
   }
  ]
 }
