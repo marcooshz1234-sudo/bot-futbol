@@ -1,10 +1,47 @@
 # Farul Constanta – Universitatea Cluj
 **Liga I** · Regular Season - 16 · 20/11/2026 19:30 (hora España) · Central Stadium Hagi Academy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 17/11 08:26_
+
+- **1X2:** 1 **2.80**  ·  X **3.40**  ·  2 **2.25**
+- **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.40**  ·  X **2.30**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.25**
+- **Win Both Halves:** 1 **10.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Farul Constanta (total) | Farul Constanta en casa | Universitatea Cluj (total) | Universitatea Cluj fuera |
@@ -141,4 +178,40 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,53 · visitante 1,52 · córners esperados 9,4._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 38% | 41% | 39% | 2.25 | -12% |
+| 1X2: X | 24% | 27% | 25% | 3.40 | -13% |
+| 1X2: 1 | 38% | 33% | 35% | 2.80 | -1% |
+| Doble oportunidad: X2 | 62% | 68% | 65% | 1.36 | -12% |
+| Doble oportunidad: 12 | 76% | 72% | 74% | 1.28 | -5% |
+| Doble oportunidad: 1X | 62% | 60% | 61% | 1.53 | -6% |
+| Ambos marcan: No | 39% | 42% | 41% | 2.20 | -11% |
+| Ambos marcan: Sí | 61% | 58% | 59% | 1.62 | -4% |
+| Goles más/menos: Más de 1.5 | 81% | 77% | 79% | 1.22 | -4% |
+| Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.73 | -2% |
+| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -4% |
+| Goles más/menos: Menos de 1.5 | 19% | 23% | 21% | 4.00 | -15% |
+| Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.08 | -10% |
+| Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.40 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 38% | 38% | 2.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -10% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -7% |
+| Goles del local: Más de 0.5 | 78% | 73% | 76% | 1.28 | -3% |
+| Goles del local: Más de 1.5 | 45% | 41% | 43% | 2.25 | -3% |
+| Goles del local: Menos de 0.5 | 22% | 27% | 24% | 3.50 | -15% |
+| Goles del local: Menos de 1.5 | 55% | 59% | 57% | 1.57 | -11% |
+| Goles del visitante: Más de 0.5 | 78% | 77% | 77% | 1.22 | -6% |
+| Goles del visitante: Más de 1.5 | 45% | 46% | 46% | 2.00 | -9% |
+| Goles del visitante: Más de 2.5 | 20% | 22% | 21% | 4.33 | -10% |
+| Goles del visitante: Menos de 0.5 | 22% | 23% | 23% | 4.00 | -10% |
+| Goles del visitante: Menos de 1.5 | 55% | 54% | 54% | 1.73 | -6% |
+| Goles del visitante: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
+| 1X2 descanso: 2 | 30% | 32% | 31% | 2.88 | -10% |
+| 1X2 descanso: X | 40% | 40% | 40% | 2.30 | -8% |
+| 1X2 descanso: 1 | 30% | 27% | 29% | 3.40 | -2% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

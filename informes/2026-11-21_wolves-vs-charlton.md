@@ -1,7 +1,7 @@
 # Wolves – Charlton
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_

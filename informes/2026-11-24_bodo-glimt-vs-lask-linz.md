@@ -1,10 +1,55 @@
 # Bodo/Glimt – Lask Linz
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 17/11 08:28_
+
+- **1X2:** 1 **1.48**  ·  X **4.50**  ·  2 **5.25**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.18**  ·  X2 **2.62**
+- **Ambos marcan:** Sí **1.36**  ·  No **3.00**
+- **Goles más/menos:**
+    - 1,5: más **1.08** · menos **8.00**
+    - 2,5: más **1.28** · menos **3.75**
+    - 3,5: más **1.73** · menos **2.10**
+    - 4,5: más **2.62** · menos **1.50**
+    - 5,5: más **4.33** · menos **1.22**
+    - 6,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.73**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **1X2 descanso:** 1 **1.95**  ·  X **2.88**  ·  2 **4.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **3.00**  ·  No **1.36**
+- **Both Teams To Score - Second Half:** Sí **2.20**  ·  No **1.62**
+- **To Win Either Half:** 1 **1.28**  ·  2 **2.50**
+- **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **3.50**
+- **Win Both Halves:** 1 **3.50**  ·  2 **17.00**
+- **Results/Both Teams Score:** Home/Yes **2.30**  ·  Draw/Yes **5.00**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **34.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.50**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **4.75**
+- **Away Player Shots On Target Total:** Nael Kane **41.00**  ·  Jens Hauge **21.00**  ·  Patrick Berg **29.00**  ·  Miguel Freckleton **19.00**  ·  Kasper Jorgensen **29.00**  ·  Alessandro Schopf **26.00**  ·  Andres Andrade **26.00**  ·  Xavier Mbuyamba **15.00**  ·  Joel Mvuka **15.00**  ·  Joao Victor Alemao **21.00**  ·  Moses Usor **13.00**  ·  Florian Flecker **41.00**  ·  Sascha Horvath **34.00**  ·  George Bello **41.00**  ·  Melayro Bogarde **41.00**  ·  Christoph Lang **29.00**  ·  Ola Brynhildsen **15.00**  ·  Andreas Helmersen **5.00**  ·  Robert Ljubicic **51.00**  ·  Haitam Aleesami **29.00**  ·  Joshua Kitolano **13.00**  ·  Ole Didrik Blomberg **11.00**  ·  Ulrik Saltnes **9.00**  ·  Fredrik Sjovold **34.00**  ·  Sondre Auklend **21.00**  ·  Isak Maatta **11.00**  ·  Sondre Fet **41.00**  ·  Fredrik Andre Bjorkan **29.00**  ·  Jostein Gundersen **15.00**  ·  Odin Luras Bjortuft **11.00**  ·  Villads Nielsen **19.00**  ·  Daniel Elfadli **34.00**  ·  Samuel Adeniran **6.50**  ·  Magnus Riisnaes **29.00**  ·  Krystof Danek **26.00**  ·  Hindrin Chooly **21.00**  ·  Yvan Dibango **15.00**  ·  Manoel Verhaeghe **26.00**  ·  Assan Sanyang **41.00**  ·  Art Smakaj **34.00**  ·  Sasa Kalajdzic **5.50**
+- **Home Player Shots:** Ulrik Saltnes - 1 **1.06**  ·  Sondre Fet - 1 **1.06**  ·  Ole Didrik Blomberg - 1 **1.02**  ·  Sondre Auklend - 1 **1.06**  ·  Isak Maatta - 1 **1.06**  ·  Patrick Berg - 1 **1.01**  ·  Magnus Riisnaes - 1 **1.40**  ·  Fredrik Andre Bjorkan - 1 **1.40**  ·  Fredrik Sjovold - 1 **1.10**  ·  Haitam Aleesami - 1 **1.40**  ·  Joel Mvuka - 1 **1.05**  ·  Joshua Kitolano - 1 **1.03**  ·  Jostein Gundersen - 1 **1.57**  ·  Kasper Solhaug - 1 **1.06**  ·  Odin Luras Bjortuft - 1 **1.25**  ·  Villads Nielsen - 1 **1.57**  ·  Jostein Gundersen - 2 **3.50**  ·  Fredrik Andre Bjorkan - 2 **2.62**  ·  Joshua Kitolano - 2 **1.20**  ·  Fredrik Sjovold - 2 **1.44**  ·  Odin Luras Bjortuft - 2 **2.10**  ·  Haitam Aleesami - 2 **2.62**  ·  Andreas Helmersen - 2 **1.05**  ·  Villads Nielsen - 2 **3.50**  ·  Joel Mvuka - 2 **1.28**  ·  Kasper Solhaug - 2 **1.33**  ·  Isak Maatta - 2 **1.33**  ·  Jens Hauge - 2 **1.04**  ·  Magnus Riisnaes - 2 **2.62**  ·  Ola Brynhildsen - 2 **1.05**  ·  Ole Didrik Blomberg - 2 **1.12**  ·  Patrick Berg - 2 **1.11**  ·  Sondre Auklend - 2 **1.33**  ·  Sondre Fet - 2 **1.33**  ·  Ulrik Saltnes - 2 **1.33**  ·  Jens Hauge - 3 **1.17**  ·  Ola Brynhildsen - 3 **1.20**  ·  Ulrik Saltnes - 3 **1.91**  ·  Joshua Kitolano - 3 **1.57**  ·  Sondre Fet - 3 **1.91**  ·  Ole Didrik Blomberg - 3 **1.40**  ·  Sondre Auklend - 3 **1.91**  ·  Fredrik Sjovold - 3 **2.25**  ·  Odin Luras Bjortuft - 3 **4.33**  ·  Isak Maatta - 3 **1.91**  ·  Patrick Berg - 3 **1.36**  ·  Joel Mvuka - 3 **1.80**  ·  Magnus Riisnaes - 3 **6.00**  ·  Kasper Solhaug - 3 **1.91**  ·  Andreas Helmersen - 3 **1.18**  ·  Jens Hauge - 4 **1.40**  ·  Ola Brynhildsen - 4 **1.50**  ·  Ulrik Saltnes - 4 **3.40**  ·  Sondre Fet - 4 **3.40**  ·  Ole Didrik Blomberg - 4 **2.00**  ·  Sondre Auklend - 4 **3.40**  ·  Isak Maatta - 4 **3.40**  ·  Patrick Berg - 4 **1.83**  ·  Andreas Helmersen - 4 **1.44**  ·  Magnus Riisnaes - 4 **15.00**  ·  Jens Hauge - 5 **1.83**  ·  Ola Brynhildsen - 5 **2.00**  ·  Ulrik Saltnes - 5 **6.00**  ·  Sondre Fet - 5 **6.50**  ·  Ole Didrik Blomberg - 5 **3.25**  ·  Sondre Auklend - 5 **6.00**  ·  Patrick Berg - 5 **3.00**  ·  Andreas Helmersen - 5 **2.00**  ·  Andreas Helmersen - 6 **3.00**  ·  Andreas Helmersen - 7 **4.50**  ·  Hindrin Chooly - 1 **1.06**  ·  Hindrin Chooly - 2 **1.33**  ·  Jostein Gundersen - 3 **10.00**  ·  Hindrin Chooly - 3 **1.91**  ·  Fredrik Andre Bjorkan - 3 **6.00**  ·  Haitam Aleesami - 3 **6.00**  ·  Villads Nielsen - 3 **10.00**  ·  Odin Luras Bjortuft - 4 **10.00**  ·  Jostein Gundersen - 4 **21.00**  ·  Fredrik Sjovold - 4 **4.00**  ·  Joshua Kitolano - 4 **2.38**  ·  Hindrin Chooly - 4 **3.25**  ·  Joel Mvuka - 4 **3.00**  ·  Kasper Solhaug - 4 **3.25**  ·  Odin Luras Bjortuft - 5 **21.00**  ·  Fredrik Andre Bjorkan - 4 **15.00**  ·  Haitam Aleesami - 4 **15.00**  ·  Villads Nielsen - 4 **21.00**  ·  Fredrik Sjovold - 5 **9.00**  ·  Joshua Kitolano - 5 **4.00**  ·  Patrick Berg - 6 **5.00**  ·  Fredrik Sjovold - 6 **17.00**  ·  Patrick Berg - 7 **9.00**  ·  Patrick Berg - 8 **17.00**  ·  Ole Didrik Blomberg - 6 **5.50**  ·  Ole Didrik Blomberg - 7 **10.00**  ·  Ole Didrik Blomberg - 8 **19.00**  ·  Assan Sanyang - 1 **1.14**  ·  Assan Sanyang - 2 **1.62**  ·  Assan Sanyang - 3 **2.75**  ·  Assan Sanyang - 4 **5.50**  ·  Hindrin Chooly - 5 **6.00**  ·  Joel Mvuka - 5 **5.50**  ·  Kasper Solhaug - 5 **6.00**  ·  Isak Maatta - 5 **6.00**  ·  Jens Hauge - 6 **2.62**  ·  Ola Brynhildsen - 6 **3.25**  ·  Hindrin Chooly - 6 **13.00**  ·  Joel Mvuka - 6 **11.00**  ·  Joshua Kitolano - 6 **7.00**  ·  Jens Hauge - 7 **4.33**  ·  Ola Brynhildsen - 7 **5.00**  ·  Andreas Helmersen - 8 **8.00**  ·  Jens Hauge - 8 **7.00**  ·  Ola Brynhildsen - 8 **9.00**  ·  Assan Sanyang - 5 **11.00**  ·  Sondre Auklend - 6 **13.00**  ·  Assan Sanyang - 6 **21.00**  ·  Andreas Helmersen - 9 **15.00**  ·  Isak Maatta - 6 **13.00**  ·  Kasper Solhaug - 6 **13.00**  ·  Ulrik Saltnes - 6 **13.00**  ·  Sondre Fet - 6 **13.00**  ·  Hindrin Chooly - 7 **21.00**  ·  Joshua Kitolano - 7 **15.00**  ·  Jens Hauge - 9 **13.00**  ·  Ola Brynhildsen - 9 **15.00**  ·  Sondre Auklend - 7 **21.00**  ·  Andreas Helmersen - 10 **21.00**  ·  Joel Mvuka - 7 **19.00**  ·  Isak Maatta - 7 **21.00**  ·  Kasper Solhaug - 7 **21.00**  ·  Sondre Fet - 7 **21.00**  ·  Ulrik Saltnes - 7 **21.00**  ·  Joshua Kitolano - 8 **21.00**  ·  Patrick Berg - 9 **21.00**  ·  Jens Hauge - 10 **21.00**  ·  Ola Brynhildsen - 10 **21.00**
+- **Away Player Shots:** Sasa Kalajdzic - 1 **1.04**  ·  Sasa Kalajdzic - 2 **1.22**  ·  Sasa Kalajdzic - 3 **1.67**  ·  Sasa Kalajdzic - 4 **2.62**  ·  Sasa Kalajdzic - 5 **4.50**  ·  Sasa Kalajdzic - 6 **9.00**  ·  Sasa Kalajdzic - 7 **17.00**  ·  Daniel Elfadli - 1 **2.25**  ·  Daniel Elfadli - 2 **8.00**  ·  Moses Usor - 1 **1.05**  ·  Christoph Lang - 1 **1.08**  ·  Alessandro Schopf - 1 **1.25**  ·  Florian Flecker - 1 **1.18**  ·  Robert Ljubicic - 1 **1.25**  ·  Krystof Danek - 1 **1.33**  ·  Kasper Jorgensen - 1 **1.30**  ·  Sascha Horvath - 1 **1.44**  ·  George Bello - 1 **1.73**  ·  Andres Andrade - 1 **1.83**  ·  Joao Victor Alemao - 1 **1.62**  ·  Melayro Bogarde - 1 **1.83**  ·  Miguel Freckleton - 1 **1.83**  ·  Xavier Mbuyamba - 1 **1.73**  ·  Manoel Verhaeghe - 1 **2.25**  ·  Yvan Dibango - 1 **1.40**  ·  Moses Usor - 2 **1.25**  ·  Christoph Lang - 2 **1.40**  ·  Alessandro Schopf - 2 **2.10**  ·  Florian Flecker - 2 **1.80**  ·  Robert Ljubicic - 2 **2.10**  ·  Krystof Danek - 2 **2.38**  ·  Kasper Jorgensen - 2 **2.25**  ·  Sascha Horvath - 2 **3.00**  ·  George Bello - 2 **4.33**  ·  Andres Andrade - 2 **5.00**  ·  Joao Victor Alemao - 2 **3.75**  ·  Melayro Bogarde - 2 **5.00**  ·  Miguel Freckleton - 2 **5.00**  ·  Xavier Mbuyamba - 2 **4.33**  ·  Manoel Verhaeghe - 2 **8.00**  ·  Yvan Dibango - 2 **2.62**  ·  Moses Usor - 3 **1.73**  ·  Christoph Lang - 3 **2.10**  ·  Alessandro Schopf - 3 **4.33**  ·  Florian Flecker - 3 **3.40**  ·  Robert Ljubicic - 3 **4.33**  ·  Krystof Danek - 3 **5.50**  ·  Kasper Jorgensen - 3 **5.00**  ·  Sascha Horvath - 3 **7.00**  ·  George Bello - 3 **13.00**  ·  Andres Andrade - 3 **15.00**  ·  Moses Usor - 4 **2.75**  ·  Christoph Lang - 4 **3.75**  ·  Alessandro Schopf - 4 **10.00**  ·  Florian Flecker - 4 **7.00**  ·  Robert Ljubicic - 4 **10.00**  ·  Krystof Danek - 4 **13.00**  ·  Kasper Jorgensen - 4 **11.00**  ·  Sascha Horvath - 4 **19.00**  ·  Moses Usor - 5 **5.00**  ·  Christoph Lang - 5 **7.00**  ·  Alessandro Schopf - 5 **21.00**  ·  Florian Flecker - 5 **15.00**  ·  Robert Ljubicic - 5 **21.00**  ·  Kasper Jorgensen - 5 **21.00**  ·  Moses Usor - 6 **10.00**  ·  Christoph Lang - 6 **15.00**  ·  Moses Usor - 7 **19.00**  ·  Melayro Bogarde - 3 **15.00**  ·  Daniel Elfadli - 3 **21.00**  ·  Yvan Dibango - 3 **6.00**  ·  Joao Victor Alemao - 3 **10.00**  ·  Manoel Verhaeghe - 3 **21.00**  ·  Miguel Freckleton - 3 **15.00**  ·  Xavier Mbuyamba - 3 **13.00**  ·  Yvan Dibango - 4 **15.00**  ·  Joao Victor Alemao - 4 **21.00**  ·  Christoph Lang - 7 **21.00**  ·  Samuel Adeniran - 1 **1.04**  ·  Nael Kane - 1 **1.14**  ·  Samuel Adeniran - 2 **1.22**  ·  Nael Kane - 2 **1.62**  ·  Samuel Adeniran - 3 **1.67**  ·  Nael Kane - 3 **2.75**  ·  Samuel Adeniran - 4 **2.62**  ·  Nael Kane - 4 **5.50**  ·  Samuel Adeniran - 5 **4.50**  ·  Nael Kane - 5 **13.00**  ·  Samuel Adeniran - 6 **9.00**  ·  Samuel Adeniran - 7 **17.00**  ·  Nael Kane - 6 **21.00**  ·  Art Smakaj - 1 **1.57**  ·  Art Smakaj - 2 **3.50**  ·  Art Smakaj - 3 **10.00**  ·  Art Smakaj - 4 **21.00**
+- **Anytime Goal Scorer:** Nael Kane **4.33**  ·  Jens Hauge **2.38**  ·  Patrick Berg **3.25**  ·  Miguel Freckleton **11.00**  ·  Kasper Jorgensen **6.50**  ·  Alessandro Schopf **5.50**  ·  Andres Andrade **11.00**  ·  Xavier Mbuyamba **9.50**  ·  Joel Mvuka **3.00**  ·  Joao Victor Alemao **11.00**  ·  Moses Usor **2.88**  ·  Florian Flecker **4.75**  ·  Sascha Horvath **7.00**  ·  George Bello **9.50**  ·  Melayro Bogarde **11.00**  ·  Christoph Lang **3.50**  ·  Ola Brynhildsen **2.25**  ·  Andreas Helmersen **1.67**  ·  Robert Ljubicic **5.50**  ·  Haitam Aleesami **6.50**  ·  Joshua Kitolano **3.25**  ·  Ole Didrik Blomberg **2.25**  ·  Ulrik Saltnes **3.25**  ·  Fredrik Sjovold **3.75**  ·  Sondre Auklend **3.25**  ·  Isak Maatta **3.25**  ·  Sondre Fet **4.33**  ·  Fredrik Andre Bjorkan **6.50**  ·  Jostein Gundersen **8.00**  ·  Odin Luras Bjortuft **5.50**  ·  Villads Nielsen **8.00**  ·  Daniel Elfadli **13.00**  ·  Samuel Adeniran **2.75**  ·  Magnus Riisnaes **6.50**  ·  Krystof Danek **6.00**  ·  Hindrin Chooly **3.25**  ·  Yvan Dibango **6.50**  ·  Manoel Verhaeghe **13.00**  ·  Kasper Solhaug **3.25**  ·  Assan Sanyang **4.33**  ·  Art Smakaj **8.00**  ·  Sasa Kalajdzic **2.75**
+- **Player to Score or Assist:** Nael Kane **2.75**  ·  Jens Hauge **1.62**  ·  Patrick Berg **1.80**  ·  Miguel Freckleton **7.50**  ·  Kasper Jorgensen **3.60**  ·  Alessandro Schopf **3.25**  ·  Andres Andrade **7.00**  ·  Xavier Mbuyamba **6.00**  ·  Joel Mvuka **2.00**  ·  Joao Victor Alemao **7.00**  ·  Moses Usor **2.20**  ·  Florian Flecker **3.00**  ·  Sascha Horvath **3.50**  ·  George Bello **4.75**  ·  Melayro Bogarde **6.00**  ·  Christoph Lang **2.40**  ·  Ola Brynhildsen **1.80**  ·  Andreas Helmersen **1.44**  ·  Robert Ljubicic **2.75**  ·  Haitam Aleesami **2.75**  ·  Joshua Kitolano **2.38**  ·  Ole Didrik Blomberg **1.53**  ·  Ulrik Saltnes **2.05**  ·  Fredrik Sjovold **2.40**  ·  Sondre Auklend **1.95**  ·  Isak Maatta **2.05**  ·  Sondre Fet **3.00**  ·  Fredrik Andre Bjorkan **2.25**  ·  Jostein Gundersen **4.50**  ·  Odin Luras Bjortuft **4.00**  ·  Villads Nielsen **5.00**  ·  Daniel Elfadli **6.50**  ·  Samuel Adeniran **2.25**  ·  Magnus Riisnaes **2.60**  ·  Krystof Danek **3.10**  ·  Hindrin Chooly **2.38**  ·  Yvan Dibango **4.00**  ·  Manoel Verhaeghe **7.50**  ·  Kasper Solhaug **2.25**  ·  Assan Sanyang **2.50**  ·  Art Smakaj **4.75**  ·  Sasa Kalajdzic **2.25**
 
 ## Estadísticas de equipo
 | | Bodo/Glimt (total) | Bodo/Glimt en casa | Lask Linz (total) | Lask Linz fuera |
@@ -136,4 +181,42 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 2,70 · visitante 1,47 · córners esperados 9,8._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 19% | 18% | 18% | 5.25 | -4% |
+| 1X2: X | 17% | 20% | 19% | 4.50 | -15% |
+| 1X2: 1 | 64% | 62% | 63% | 1.48 | -7% |
+| Doble oportunidad: X2 | 36% | 37% | 37% | 2.62 | -4% |
+| Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
+| Doble oportunidad: 1X | 81% | 82% | 81% | 1.17 | -5% |
+| Ambos marcan: No | 28% | 31% | 30% | 3.00 | -11% |
+| Ambos marcan: Sí | 72% | 69% | 70% | 1.36 | -4% |
+| Goles más/menos: Más de 2.5 | 79% | 75% | 77% | 1.28 | -2% |
+| Goles más/menos: Más de 3.5 | 60% | 55% | 57% | 1.73 | -1% |
+| Goles más/menos: Más de 4.5 | 41% | 36% | 38% | 2.62 | +1% |
+| Goles más/menos: Más de 5.5 | 24% | 22% | 23% | 4.33 | +0% |
+| Goles más/menos: Menos de 2.5 | 21% | 25% | 23% | 3.75 | -12% |
+| Goles más/menos: Menos de 3.5 | 40% | 45% | 43% | 2.10 | -11% |
+| Goles más/menos: Menos de 4.5 | 59% | 64% | 62% | 1.50 | -8% |
+| Goles más/menos: Menos de 5.5 | 76% | 78% | 77% | 1.22 | -6% |
+| Goles 1ª parte más/menos: Más de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
+| Goles 1ª parte más/menos: Más de 2.5 | 27% | 27% | 27% | 3.50 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 46% | 49% | 47% | 1.91 | -10% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 73% | 73% | 73% | 1.28 | -7% |
+| Goles del local: Más de 1.5 | 75% | 72% | 74% | 1.30 | -4% |
+| Goles del local: Más de 2.5 | 51% | 46% | 49% | 2.00 | -3% |
+| Goles del local: Más de 3.5 | 29% | 27% | 28% | 3.50 | -3% |
+| Goles del local: Menos de 1.5 | 25% | 28% | 26% | 3.40 | -11% |
+| Goles del local: Menos de 2.5 | 49% | 54% | 51% | 1.73 | -11% |
+| Goles del local: Menos de 3.5 | 71% | 73% | 72% | 1.28 | -7% |
+| Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
+| Goles del visitante: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
+| Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
+| Goles del visitante: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
+| 1X2 descanso: 2 | 20% | 21% | 20% | 4.50 | -9% |
+| 1X2 descanso: X | 31% | 32% | 32% | 2.88 | -9% |
+| 1X2 descanso: 1 | 49% | 47% | 48% | 1.95 | -6% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,10 +1,10 @@
 # FC Fredericia – Hillerød
 **1. Division** · Regular Season - 15 · 19/11/2026 19:00 (hora España) · Monjasa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
@@ -25,7 +25,7 @@ _Actualizadas: 17/11 02:17_
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.00** · menos **1.73**
-    - 3,5: más **3.75** · menos **1.25**
+    - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.53** · menos **2.38**
@@ -42,8 +42,8 @@ _Actualizadas: 17/11 02:17_
 - **To Win Either Half:** 1 **1.18**  ·  2 **3.50**
 - **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **6.50**
 - **Win Both Halves:** 1 **2.75**  ·  2 **29.00**
-- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **6.50**  ·  Away/Yes **10.00**  ·  Home/No **2.50**  ·  Draw/No **23.00**  ·  Away/No **15.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.40**
+- **Results/Both Teams Score:** Home/Yes **2.60**  ·  Draw/Yes **6.50**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **23.00**  ·  Away/No **15.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.50**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.40**
 - **Anytime Goal Scorer:** Svenn Crone **5.50**  ·  Emilio Simonsen **2.30**  ·  Alexander Lyng **2.20**  ·  Adam Nygaard **6.00**  ·  Malthe Ladefoged **6.00**  ·  Hjalte Toftegaard **8.00**  ·  Hakim Sulemana **6.50**  ·  Elias Hansborg-Sorensen **2.05**  ·  Asbjorn Bondergaard **1.80**  ·  Patrick Egelund **2.50**  ·  William Madsen **3.40**  ·  Daniel Haarbo **4.33**  ·  Felix Winther **4.33**  ·  Jonatan Lindekilde **4.00**  ·  Anders Dahl **4.75**  ·  Frederik Rieper **5.50**  ·  Saman Jalaei **4.75**  ·  Sebastian Larsen **13.00**  ·  Frederik Hogh **4.33**  ·  Mikkel Mouritz **6.50**  ·  Berzan Kucukylidiz **5.50**  ·  Nicklas Schmidt **6.50**  ·  Tobias Arndal **6.50**  ·  Jonathan Witt **9.00**  ·  Kasper Enghardt **21.00**  ·  Casper Jorgensen **3.00**  ·  Marcus Voigt **10.00**  ·  Niklas Wilmerskov **10.00**  ·  Oliver Lauritsen **15.00**  ·  Noah Kretzschmar **4.00**  ·  Bork Bang-Kittilsen **2.50**  ·  Andreas Pyndt **4.75**  ·  Mads Julo **13.00**  ·  Jeppe Kudsk **7.00**  ·  Jakob Sigurdsson **4.75**  ·  Simon Jorgensen **6.00**  ·  Andreas Hoyer **13.00**  ·  Nemo Thomsen **2.05**  ·  Lauritz Dauerhoj **6.00**  ·  Oliver Vest **8.00**  ·  Frederik Bunten **3.40**  ·  Gustav Nohr **10.00**  ·  Hocine Derrar **10.00**  ·  Jacob Kronquist **6.50**  ·  Lucas Lundgren **15.00**  ·  Albert Oppenhagen **13.00**  ·  Poul Kallsberg **6.00**  ·  Rezan Corlu **6.50**  ·  Frederik Heiselberg **4.33**  ·  Magnus Munck **8.00**  ·  Solomon Opoku **8.00**  ·  William Glindtvad **15.00**
 
 ## Estadísticas de equipo
@@ -167,10 +167,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 91% | 78% | 85% | 1.20 | +2% |
 | Goles del local: Más de 1.5 | 52% | 71% | 61% | 1.33 | -19% |
 | Goles del local: Más de 2.5 | 25% | 46% | 36% | 2.00 | -29% |
-| Goles del local: Más de 3.5 | 10% | 25% | 17% | 3.75 | -35% |
+| Goles del local: Más de 3.5 | 10% | 27% | 18% | 3.50 | -36% |
 | Goles del local: Menos de 1.5 | 48% | 29% | 39% | 3.25 | +26% |
 | Goles del local: Menos de 2.5 | 75% | 54% | 64% | 1.73 | +11% |
-| Goles del local: Menos de 3.5 | 90% | 75% | 83% | 1.25 | +3% |
+| Goles del local: Menos de 3.5 | 90% | 73% | 82% | 1.28 | +5% |
 | Goles del visitante: Más de 0.5 | 48% | 61% | 54% | 1.53 | -17% |
 | Goles del visitante: Más de 1.5 | 14% | 25% | 19% | 3.75 | -27% |
 | Goles del visitante: Menos de 0.5 | 52% | 39% | 46% | 2.38 | +9% |

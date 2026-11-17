@@ -1,10 +1,53 @@
 # Slovan Bratislava – Real Betis
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 17/11 08:28_
+
+- **1X2:** 1 **8.50**  ·  X **5.75**  ·  2 **1.28**
+- **Doble oportunidad:** 1X **3.50**  ·  12 **1.14**  ·  X2 **1.08**
+- **Ambos marcan:** Sí **1.70**  ·  No **2.05**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.36** · menos **3.20**
+    - 3,5: más **1.91** · menos **1.91**
+    - 4,5: más **3.20** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **7.50**  ·  X **3.00**  ·  2 **1.67**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **3.75**  ·  2 **1.14**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **1.73**
+- **Win Both Halves:** 1 **34.00**  ·  2 **2.62**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **6.50**  ·  Away/Yes **2.40**  ·  Home/No **19.00**  ·  Draw/No **23.00**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.75**
+- **Away Player Shots On Target Total:** Sahmkou Camara **21.00**  ·  Kenan Bajric **21.00**  ·  Kevin Wimmer **26.00**  ·  Tigran Barseghyan **29.00**  ·  Valentin Gomez **26.00**  ·  Suleiman Camara **41.00**  ·  Andraz Sporar **12.00**  ·  Troy Parrott **10.00**  ·  Samuel Kozlovsky **51.00**  ·  Nelson Deossa **13.00**  ·  Facundo Bernal **21.00**  ·  Abdessamad Ezzalzouli **21.00**  ·  Peter Pokorny **19.00**  ·  Rahim Ibrahim **29.00**  ·  Alassana Yirajang **29.00**  ·  Cristian Martinez **81.00**  ·  Cesar Blackman **101.00**  ·  Matus Tomasko **67.00**  ·  Daiki Matsuoka **51.00**  ·  Cucho Hernandez **10.00**  ·  Antony **34.00**  ·  Alarcon Isco **21.00**  ·  Hector Bellerin **81.00**  ·  Alvaro Fidalgo **29.00**  ·  Alexej Maros **34.00**  ·  Alen Mustafic **19.00**  ·  Danylo Ignatenko **41.00**  ·  Nino Marcelli **41.00**  ·  Artur Gajdos **41.00**  ·  Svetozar Markovic **21.00**  ·  Sandro Cruz **67.00**  ·  Robert Tomanek **21.00**  ·  Leo Hofstadter **67.00**  ·  Aitor Ruibal **15.00**  ·  Diego Llorente **12.00**  ·  Giovani Lo Celso **23.00**  ·  Marc Roca **41.00**  ·  Pablo Fornals **26.00**  ·  Natan Bernardo **13.00**  ·  Angel Ortiz **41.00**  ·  Roman Cerepkai **13.00**  ·  Rodrigo Riquelme **51.00**  ·  Marc Bartra **15.00**  ·  Dani Ceballos **41.00**  ·  Francisco Garcia **81.00**
+- **Anytime Goal Scorer:** Sahmkou Camara **15.00**  ·  Kenan Bajric **15.00**  ·  Kevin Wimmer **19.00**  ·  Tigran Barseghyan **5.00**  ·  Valentin Gomez **10.00**  ·  Suleiman Camara **7.00**  ·  Andraz Sporar **3.75**  ·  Troy Parrott **1.67**  ·  Samuel Kozlovsky **12.00**  ·  Nelson Deossa **2.10**  ·  Facundo Bernal **4.75**  ·  Abdessamad Ezzalzouli **2.25**  ·  Peter Pokorny **10.00**  ·  Rahim Ibrahim **8.00**  ·  Alassana Yirajang **5.00**  ·  Cristian Martinez **8.50**  ·  Cesar Blackman **12.00**  ·  Jose Morante **3.20**  ·  Matus Tomasko **7.00**  ·  Daiki Matsuoka **8.00**  ·  Cucho Hernandez **1.80**  ·  Antony **2.10**  ·  Alarcon Isco **2.25**  ·  Hector Bellerin **10.00**  ·  Alvaro Fidalgo **3.20**  ·  Alexej Maros **6.00**  ·  Alen Mustafic **10.00**  ·  Danylo Ignatenko **10.00**  ·  Nino Marcelli **5.00**  ·  Artur Gajdos **5.00**  ·  Svetozar Markovic **15.00**  ·  Sandro Cruz **15.00**  ·  Robert Tomanek **15.00**  ·  Leo Hofstadter **7.00**  ·  Aitor Ruibal **2.50**  ·  Diego Llorente **8.00**  ·  Giovani Lo Celso **2.62**  ·  Marc Roca **5.00**  ·  Pablo Fornals **2.75**  ·  Natan Bernardo **10.00**  ·  Angel Ortiz **8.00**  ·  Roman Cerepkai **4.00**  ·  Rodrigo Riquelme **2.75**  ·  Marc Bartra **4.75**  ·  Dani Ceballos **5.00**  ·  Francisco Garcia **10.00**
+- **Player to Score or Assist:** Sahmkou Camara **11.00**  ·  Kenan Bajric **11.00**  ·  Kevin Wimmer **13.00**  ·  Tigran Barseghyan **3.50**  ·  Valentin Gomez **5.50**  ·  Suleiman Camara **4.33**  ·  Andraz Sporar **2.88**  ·  Troy Parrott **1.44**  ·  Samuel Kozlovsky **7.50**  ·  Nelson Deossa **1.73**  ·  Facundo Bernal **2.88**  ·  Abdessamad Ezzalzouli **1.57**  ·  Peter Pokorny **6.00**  ·  Rahim Ibrahim **4.75**  ·  Alassana Yirajang **3.50**  ·  Cristian Martinez **6.00**  ·  Cesar Blackman **6.50**  ·  Jose Morante **1.80**  ·  Matus Tomasko **5.50**  ·  Daiki Matsuoka **4.33**  ·  Cucho Hernandez **1.44**  ·  Antony **1.44**  ·  Alarcon Isco **1.57**  ·  Hector Bellerin **3.25**  ·  Alvaro Fidalgo **1.91**  ·  Alexej Maros **3.75**  ·  Alen Mustafic **6.00**  ·  Danylo Ignatenko **6.50**  ·  Nino Marcelli **3.50**  ·  Artur Gajdos **3.50**  ·  Svetozar Markovic **9.50**  ·  Sandro Cruz **8.50**  ·  Robert Tomanek **11.00**  ·  Leo Hofstadter **4.75**  ·  Aitor Ruibal **1.67**  ·  Diego Llorente **4.75**  ·  Giovani Lo Celso **1.67**  ·  Marc Roca **2.50**  ·  Pablo Fornals **1.67**  ·  Natan Bernardo **5.50**  ·  Angel Ortiz **3.20**  ·  Roman Cerepkai **3.00**  ·  Rodrigo Riquelme **1.91**  ·  Marc Bartra **3.25**  ·  Dani Ceballos **2.50**  ·  Francisco Garcia **3.20**
 
 ## Estadísticas de equipo
 | | Slovan Bratislava (total) | Slovan Bratislava en casa | Real Betis (total) | Real Betis fuera |
@@ -136,4 +179,41 @@ _Sin precedentes recientes._
 ## Probabilidades del modelo
 _Goles esperados: local 0,93 · visitante 2,27 · córners esperados 9,5._
 
-_Sin cuotas de Bet365 todavía para comparar._
+_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
+
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 68% | 73% | 70% | 1.28 | -10% |
+| 1X2: X | 18% | 16% | 17% | 5.75 | -0% |
+| 1X2: 1 | 14% | 11% | 12% | 8.50 | +6% |
+| Doble oportunidad: X2 | 86% | 89% | 87% | 1.08 | -6% |
+| Doble oportunidad: 12 | 82% | 84% | 83% | 1.14 | -6% |
+| Doble oportunidad: 1X | 32% | 27% | 30% | 3.50 | +5% |
+| Ambos marcan: No | 46% | 45% | 45% | 2.05 | -7% |
+| Ambos marcan: Sí | 54% | 55% | 55% | 1.70 | -7% |
+| Goles más/menos: Más de 2.5 | 62% | 70% | 66% | 1.36 | -10% |
+| Goles más/menos: Más de 3.5 | 40% | 50% | 45% | 1.91 | -14% |
+| Goles más/menos: Más de 4.5 | 22% | 30% | 26% | 3.20 | -17% |
+| Goles más/menos: Menos de 2.5 | 38% | 30% | 34% | 3.20 | +8% |
+| Goles más/menos: Menos de 3.5 | 60% | 50% | 55% | 1.91 | +5% |
+| Goles más/menos: Menos de 4.5 | 78% | 70% | 74% | 1.36 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Goles 1ª parte más/menos: Más de 2.5 | 16% | 23% | 20% | 4.00 | -20% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -0% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
+| Goles del local: Más de 0.5 | 61% | 59% | 60% | 1.57 | -6% |
+| Goles del local: Más de 1.5 | 24% | 25% | 24% | 3.75 | -8% |
+| Goles del local: Menos de 0.5 | 39% | 41% | 40% | 2.25 | -9% |
+| Goles del local: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -6% |
+| Goles del visitante: Más de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
+| Goles del visitante: Más de 2.5 | 40% | 50% | 45% | 1.83 | -18% |
+| Goles del visitante: Más de 3.5 | 20% | 29% | 24% | 3.25 | -21% |
+| Goles del visitante: Menos de 1.5 | 34% | 27% | 30% | 3.50 | +6% |
+| Goles del visitante: Menos de 2.5 | 60% | 50% | 55% | 1.83 | +1% |
+| Goles del visitante: Menos de 3.5 | 80% | 71% | 76% | 1.33 | +1% |
+| 1X2 descanso: 2 | 49% | 56% | 53% | 1.67 | -12% |
+| 1X2 descanso: X | 36% | 31% | 34% | 3.00 | +1% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

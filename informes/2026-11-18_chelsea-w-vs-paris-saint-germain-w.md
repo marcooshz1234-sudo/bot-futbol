@@ -1,13 +1,13 @@
 # Chelsea W – Paris Saint Germain W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Wheatsheaf Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
 - **1X2:** 1 **1.30**  ·  X **5.00**  ·  2 **9.00**
-- **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
+- **Doble oportunidad:** 1X **1.04**  ·  12 **1.14**  ·  X2 **3.40**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.00**
@@ -32,25 +32,25 @@ _Actualizadas: 17/11 02:17_
 - **Córners más/menos:**
     - 9,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **1.18**  ·  X **11.00**  ·  2 **5.50**
-- **1X2 descanso:** 1 **1.80**  ·  X **2.62**  ·  2 **6.00**
+- **1X2 descanso:** 1 **1.67**  ·  X **2.75**  ·  2 **7.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
 - **To Score In Both Halves By Teams:** 1 **1.83**  ·  2 **8.00**
 - **Win Both Halves:** 1 **2.75**  ·  2 **34.00**
 - **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **6.00**  ·  Away/Yes **15.00**  ·  Home/No **2.25**  ·  Draw/No **17.00**  ·  Away/No **17.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.20**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 6,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 2,5: más **1.73** · menos **2.00**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
-- **Anytime Goal Scorer:** Vitoria Yaya **8.50**  ·  Romee Leuchter **2.88**  ·  Jackie Groenen **13.00**  ·  Veerle Buurman **5.00**  ·  Chloe Sarwie **2.88**  ·  Katie McCabe **4.00**  ·  Paulina Dudek **17.00**  ·  Lauren James **2.40**  ·  Mayra Ramirez **2.10**  ·  Erin Cuthbert **4.00**  ·  Kadeisha Buchanan **8.50**  ·  Lucy Bronze **7.50**  ·  Maika Hamano **2.88**  ·  Nathalie Bjorn **7.50**  ·  Sandy Baltimore **2.50**  ·  Sjoeke Nuesken **3.10**  ·  Wieke Kaptein **3.10**  ·  Agnes Beever-Jones **1.95**  ·  Melvine Malard **2.10**  ·  Nelly Las **6.00**  ·  Lexi Potter **4.00**  ·  Sakina Karchaoui **5.00**  ·  Thiniba Samoura **17.00**  ·  Keira Walsh **5.50**  ·  Naomie Feller **4.33**  ·  Olga Carmona **8.50**  ·  Griedge Mbock **11.00**  ·  Rasheedat Ajibade **4.33**  ·  Jennifer Echegini **5.00**  ·  Giulia Dragoni **3.75**  ·  Merveille Kanjinga **3.10**  ·  Anais Ebayilin **8.50**  ·  Tara Elimbi **8.50**  ·  Isabela Chagas **17.00**  ·  Jade Le Guilly **17.00**  ·  Noemie Fatier **17.00**  ·  Florianne Jourde **7.00**  ·  Emilie Osteras **11.00**  ·  Alyssa Charlier **9.50**  ·  Gabrielle Le Roux **9.50**  ·  Lea Laetitia Morissaint **3.10**  ·  Marie Lafontaine **5.00**  ·  Katia Imarazene **4.33**  ·  Ellie Carpenter **5.00**  ·  Alyssa Thompson **2.50**  ·  Naomi Girma **8.50**  ·  Lola Brown **2.88**  ·  Manaka Matsukubo **2.50**
+- **Anytime Goal Scorer:** Vitoria Yaya **9.50**  ·  Romee Leuchter **3.10**  ·  Jackie Groenen **13.00**  ·  Veerle Buurman **5.00**  ·  Chloe Sarwie **2.75**  ·  Katie McCabe **4.00**  ·  Paulina Dudek **21.00**  ·  Lauren James **2.25**  ·  Mayra Ramirez **2.10**  ·  Erin Cuthbert **4.00**  ·  Kadeisha Buchanan **8.50**  ·  Lucy Bronze **7.50**  ·  Maika Hamano **2.75**  ·  Nathalie Bjorn **7.50**  ·  Sandy Baltimore **2.50**  ·  Sjoeke Nuesken **3.10**  ·  Wieke Kaptein **3.10**  ·  Agnes Beever-Jones **1.91**  ·  Melvine Malard **2.10**  ·  Nelly Las **5.50**  ·  Lexi Potter **4.00**  ·  Sakina Karchaoui **5.50**  ·  Thiniba Samoura **21.00**  ·  Keira Walsh **5.00**  ·  Naomie Feller **5.00**  ·  Olga Carmona **9.50**  ·  Griedge Mbock **11.00**  ·  Rasheedat Ajibade **5.00**  ·  Jennifer Echegini **5.50**  ·  Giulia Dragoni **3.40**  ·  Merveille Kanjinga **3.40**  ·  Anais Ebayilin **9.50**  ·  Tara Elimbi **9.50**  ·  Isabela Chagas **17.00**  ·  Jade Le Guilly **17.00**  ·  Noemie Fatier **21.00**  ·  Florianne Jourde **7.50**  ·  Emilie Osteras **11.00**  ·  Alyssa Charlier **11.00**  ·  Gabrielle Le Roux **11.00**  ·  Lea Laetitia Morissaint **3.40**  ·  Marie Lafontaine **5.50**  ·  Katia Imarazene **5.00**  ·  Ellie Carpenter **5.00**  ·  Alyssa Thompson **2.50**  ·  Naomi Girma **8.50**  ·  Lola Brown **2.75**  ·  Manaka Matsukubo **2.50**
 
 ## Estadísticas de equipo
 | | Chelsea W (total) | Chelsea W en casa | Paris Saint Germain W (total) | Paris Saint Germain W fuera |
@@ -150,9 +150,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 28% | 10% | 19% | 9.00 | +72% |
 | 1X2: X | 36% | 19% | 27% | 5.00 | +35% |
 | 1X2: 1 | 36% | 71% | 54% | 1.30 | -30% |
-| Doble oportunidad: X2 | 64% | 34% | 49% | 2.75 | +34% |
-| Doble oportunidad: 12 | 64% | 80% | 72% | 1.17 | -15% |
-| Doble oportunidad: 1X | 72% | 85% | 79% | 1.10 | -13% |
+| Doble oportunidad: X2 | 64% | 28% | 46% | 3.40 | +55% |
+| Doble oportunidad: 12 | 64% | 82% | 73% | 1.14 | -16% |
+| Doble oportunidad: 1X | 72% | 90% | 81% | 1.04 | -16% |
 | Ambos marcan: No | 71% | 50% | 60% | 1.83 | +11% |
 | Ambos marcan: Sí | 29% | 50% | 40% | 1.83 | -28% |
 | Goles más/menos: Más de 2.5 | 21% | 62% | 42% | 1.50 | -38% |
@@ -179,7 +179,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 1.5 | 84% | 78% | 81% | 1.20 | -3% |
 | Córners más/menos: Más de 9.5 | 48% | 53% | 50% | 1.80 | -9% |
 | Córners más/menos: Menos de 9.5 | 52% | 47% | 50% | 2.00 | -1% |
-| 1X2 descanso: X | 57% | 35% | 46% | 2.62 | +19% |
-| 1X2 descanso: 1 | 24% | 50% | 37% | 1.80 | -33% |
+| 1X2 descanso: X | 57% | 33% | 45% | 2.75 | +23% |
+| 1X2 descanso: 1 | 24% | 54% | 39% | 1.67 | -35% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

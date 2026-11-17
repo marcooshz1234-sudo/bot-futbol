@@ -1,13 +1,13 @@
 # Häcken W – Manchester City W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España) · Nordic Wellness Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:16_
+_Actualizadas: 17/11 08:26_
 
-- **1X2:** 1 **9.00**  ·  X **6.00**  ·  2 **1.25**
-- **Doble oportunidad:** 1X **3.75**  ·  12 **1.11**  ·  X2 **1.04**
+- **1X2:** 1 **7.50**  ·  X **5.75**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.40**  ·  12 **1.12**  ·  X2 **1.07**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.00**
@@ -27,15 +27,16 @@ _Actualizadas: 17/11 02:16_
     - 0,5: más **1.06** · menos **8.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.00** · menos **1.73**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **6.50** · menos **1.10**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.67** · menos **2.10**
     - 10: más **1.90** · menos **1.90**
+    - 10,5: más **2.10** · menos **1.67**
 - **Córners 1X2:** 1 **4.50**  ·  X **10.00**  ·  2 **1.25**
-- **1X2 descanso:** 1 **7.50**  ·  X **2.75**  ·  2 **1.67**
+- **1X2 descanso:** 1 **7.00**  ·  X **2.75**  ·  2 **1.67**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.14** · menos **5.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
@@ -44,13 +45,14 @@ _Actualizadas: 17/11 02:16_
 - **To Win Either Half:** 1 **3.75**  ·  2 **1.17**
 - **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **1.83**
 - **Win Both Halves:** 1 **34.00**  ·  2 **2.75**
-- **Results/Both Teams Score:** Home/Yes **15.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **2.75**  ·  Home/No **17.00**  ·  Draw/No **19.00**  ·  Away/No **2.20**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.10**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.75**  ·  Home/No **15.00**  ·  Draw/No **19.00**  ·  Away/No **2.20**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 6,5: más **1.83** · menos **1.83**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
+- **Anytime Goal Scorer:** Sam Coffey **3.75**  ·  Sacha Lewis **7.00**  ·  Beth Mead **2.25**  ·  Sydney Lohmann **5.50**  ·  Laura Wienroither **7.00**  ·  Johanna Fossdalsa **9.50**  ·  Niamh Charles **5.00**  ·  Grace Clinton **2.75**  ·  Khadija Shaw **1.62**  ·  Mary Fowler **2.40**  ·  Lauren Hemp **2.75**  ·  Aoba Fujino **2.75**  ·  Gracie Prior **7.00**  ·  Kerstin Casparij **5.00**  ·  Laura Blindkilde **3.75**  ·  Yui Hasegawa **3.75**  ·  Carlotta Wamser **7.00**  ·  Jade Rose **8.50**  ·  Risa Shimizu **7.00**  ·  Thelma Palmadottir **4.33**  ·  Millie Burdon **3.00**  ·  Anna Anvegard **5.00**  ·  Sienna Davis **3.00**  ·  Tabitha Tindell **3.75**  ·  Maja Bodin **4.33**  ·  Joy Ogochuckwu **5.50**  ·  Tuva Olvestad **5.50**  ·  Nathalie Staaf **9.50**  ·  Pernille Sanvig **9.50**  ·  Emma Ostlund **11.00**  ·  Aivi Luik **17.00**  ·  Alva Selerud **17.00**  ·  Ella McBride **17.00**  ·  Halimatu Ayinde **17.00**  ·  Tilde Karlsson **17.00**  ·  Faith Chinzimu **11.00**  ·  Laney Matriano **9.50**  ·  Stine Larsen **17.00**  ·  Iman Beney **2.75**  ·  Mayzee Davies **7.00**  ·  Rebecca Knaak **3.75**  ·  Josefine Rybrink **23.00**
 
 ## Estadísticas de equipo
 | | Häcken W (total) | Häcken W en casa | Manchester City W (total) | Manchester City W fuera |

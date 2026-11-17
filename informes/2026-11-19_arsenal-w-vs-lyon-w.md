@@ -1,10 +1,10 @@
 # Arsenal W – Lyon W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Meadow Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
 - **1X2:** 1 **3.20**  ·  X **4.10**  ·  2 **1.91**
 - **Doble oportunidad:** 1X **1.83**  ·  12 **1.22**  ·  X2 **1.30**
@@ -22,13 +22,13 @@ _Actualizadas: 17/11 02:17_
     - 3,5: más **9.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.00** · menos **1.14**
 - **Goles del visitante:**
     - 0,5: más **1.14** · menos **5.00**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **6.00** · menos **1.11**
+    - 3,5: más **6.50** · menos **1.10**
 - **Córners más/menos:**
     - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **2.00**  ·  X **8.00**  ·  2 **2.10**
@@ -40,17 +40,17 @@ _Actualizadas: 17/11 02:17_
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **2.10**  ·  2 **1.44**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **2.50**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **2.62**
 - **Win Both Halves:** 1 **13.00**  ·  2 **5.50**
 - **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.40**  ·  Home/No **7.00**  ·  Draw/No **17.00**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.10**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 4,5: más **1.83** · menos **1.83**
 - **Away Corners Over/Under:**
     - 4,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
-- **Anytime Goal Scorer:** Ada Hegerberg **2.30**  ·  Liana Joseph **3.10**  ·  Tabitha Chawinga **2.30**  ·  Melchie Dumornay **1.83**  ·  Vicki Becho **3.20**  ·  Julie Swierot **4.00**  ·  Wendie Renard **5.50**  ·  Damaris Egurrola **8.50**  ·  Wassa Sangare **8.50**  ·  Selma Bacha **7.00**  ·  Tarciane **7.00**  ·  Elma Junttila Nelhage **7.00**  ·  Alessia Russo **3.20**  ·  Stina Blackstenius **3.20**  ·  Caitlin Foord **5.00**  ·  Frida Maanum **4.50**  ·  Mariona Caldentey **4.50**  ·  Kim Little **5.50**  ·  Georgia Stanway **4.50**  ·  Kyra Cooney-Cross **7.50**  ·  Leah Williamson **13.00**  ·  Lotte Wubben-Moy **13.00**  ·  Steph Catley **13.00**  ·  Emily Fox **11.00**  ·  Ashley Lawrence **11.00**  ·  Chloe Kelly **4.00**  ·  Olivia Smith **3.50**  ·  Taylor Hinds **11.00**  ·  Marie-Antoinette Katoto **2.30**  ·  Elisa De Almeida **17.00**  ·  Geraldine Reuteler **5.00**  ·  Salma Paralluelo **2.75**  ·  Ona Batlle **11.00**  ·  Ingrid Engen **11.00**  ·  Caroline Weir **2.60**  ·  Ines Benyahia **5.00**  ·  Maissa Fathallah **7.00**  ·  Mia Dixon **3.50**  ·  Ambre Ouazar **5.00**  ·  Selina Cerci **4.00**  ·  Jule Brand **3.75**  ·  Lisa Baum **5.00**  ·  Smilla Holmberg **9.50**  ·  Lily Yohannes **5.00**  ·  Korbin Albert **5.50**
+- **Anytime Goal Scorer:** Ada Hegerberg **2.30**  ·  Liana Joseph **3.10**  ·  Tabitha Chawinga **2.30**  ·  Melchie Dumornay **1.95**  ·  Vicki Becho **3.40**  ·  Julie Swierot **4.50**  ·  Wendie Renard **5.50**  ·  Damaris Egurrola **8.50**  ·  Wassa Sangare **8.50**  ·  Selma Bacha **7.00**  ·  Tarciane **7.00**  ·  Elma Junttila Nelhage **7.00**  ·  Alessia Russo **3.20**  ·  Stina Blackstenius **3.20**  ·  Caitlin Foord **5.00**  ·  Frida Maanum **4.00**  ·  Mariona Caldentey **4.00**  ·  Kim Little **5.50**  ·  Georgia Stanway **4.00**  ·  Kyra Cooney-Cross **7.50**  ·  Leah Williamson **13.00**  ·  Lotte Wubben-Moy **13.00**  ·  Steph Catley **13.00**  ·  Emily Fox **11.00**  ·  Ashley Lawrence **11.00**  ·  Chloe Kelly **3.75**  ·  Olivia Smith **3.50**  ·  Taylor Hinds **11.00**  ·  Marie-Antoinette Katoto **2.30**  ·  Elisa De Almeida **17.00**  ·  Geraldine Reuteler **5.00**  ·  Salma Paralluelo **2.75**  ·  Ona Batlle **11.00**  ·  Ingrid Engen **11.00**  ·  Caroline Weir **2.60**  ·  Ines Benyahia **5.00**  ·  Maissa Fathallah **7.00**  ·  Mia Dixon **3.50**  ·  Ambre Ouazar **5.00**  ·  Selina Cerci **3.75**  ·  Jule Brand **3.75**  ·  Lisa Baum **5.00**  ·  Smilla Holmberg **9.50**  ·  Lily Yohannes **5.00**  ·  Korbin Albert **5.50**
 
 ## Estadísticas de equipo
 | | Arsenal W (total) | Arsenal W en casa | Lyon W (total) | Lyon W fuera |

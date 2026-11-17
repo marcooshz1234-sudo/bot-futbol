@@ -1,10 +1,51 @@
 # Arsenal – Borussia Dortmund
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 17/11 08:28_
+
+- **1X2:** 1 **1.36**  ·  X **5.00**  ·  2 **7.50**
+- **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **3.00**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.50**
+    - 2,5: más **1.67** · menos **2.20**
+    - 3,5: más **2.62** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.73** · menos **2.00**
+    - 1,5: más **4.50** · menos **1.18**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.50**  ·  2 **7.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.22**  ·  2 **3.75**
+- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **8.00**
+- **Win Both Halves:** 1 **3.25**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **6.50**  ·  Away/Yes **13.00**  ·  Home/No **2.25**  ·  Draw/No **15.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.62**
+- **Away Player Shots On Target Total:** Christos Tzolis **29.00**  ·  Kaua Prates **126.00**  ·  Daniel Svensson **51.00**  ·  Viktor Gyokeres **9.50**  ·  Piero Hincapie **13.00**  ·  Mathis Albert **51.00**  ·  Samuele Inacio **41.00**  ·  Martin Zubimendi **29.00**  ·  Max Dowman **17.00**  ·  Marli Salmon **13.00**  ·  Bruno Guimaraes **17.00**  ·  Gabriel Magalhaes **10.00**  ·  Jobe Bellingham **41.00**  ·  Kouakou Gadou **23.00**  ·  Konstantinos Karetsas **51.00**  ·  Filippo Mane **41.00**  ·  Jurrien Timber **19.00**  ·  Joey Veerman **81.00**  ·  Luca Reggiani **29.00**  ·  Ceadach O'Neill **23.00**  ·  Eberechi Eze **34.00**  ·  Cristhian Mosquera **12.00**  ·  Noni Madueke **29.00**  ·  Ben White **29.00**  ·  Declan Rice **26.00**  ·  Kai Havertz **7.00**  ·  Riccardo Calafiori **11.00**  ·  William Saliba **13.00**  ·  Martin Odegaard **67.00**  ·  Ezri Konsa **19.00**  ·  Carney Chukwuemeka **81.00**  ·  Fabio Silva **21.00**  ·  Ethan Nwaneri **51.00**  ·  Mikel Merino **9.50**  ·  Myles Lewis-Skelly **81.00**  ·  Felix Nmecha **101.00**  ·  Julian Ryerson **51.00**  ·  Marcel Sabitzer **101.00**  ·  Maximilian Beier **29.00**  ·  Nico Schlotterbeck **23.00**  ·  Ramy Bensebaini **41.00**  ·  Serhou Guirassy **11.00**  ·  Waldemar Anton **34.00**
+- **Home Player Shots:** Viktor Gyokeres - 1 **1.01**  ·  Kai Havertz - 1 **1.02**  ·  Christos Tzolis - 1 **1.06**  ·  Noni Madueke - 1 **1.06**  ·  Eberechi Eze - 1 **1.05**  ·  Mikel Merino - 1 **1.07**  ·  Max Dowman - 1 **1.07**  ·  Gabriel Magalhaes - 1 **1.44**  ·  Martin Odegaard - 1 **1.05**  ·  Bruno Guimaraes - 1 **1.11**  ·  Riccardo Calafiori - 1 **1.57**  ·  Declan Rice - 1 **1.25**  ·  Ben White - 1 **1.67**  ·  Martin Zubimendi - 1 **1.53**  ·  Marli Salmon - 1 **1.57**  ·  Myles Lewis-Skelly - 1 **1.67**  ·  Piero Hincapie - 1 **1.57**  ·  Cristhian Mosquera - 1 **1.67**  ·  Ezri Konsa - 1 **2.00**  ·  Viktor Gyokeres - 2 **1.10**  ·  Kai Havertz - 2 **1.12**  ·  Christos Tzolis - 2 **1.33**  ·  Noni Madueke - 2 **1.33**  ·  Eberechi Eze - 2 **1.28**  ·  Mikel Merino - 2 **1.36**  ·  Max Dowman - 2 **1.36**  ·  Gabriel Magalhaes - 2 **3.00**  ·  Martin Odegaard - 2 **1.28**  ·  Bruno Guimaraes - 2 **1.50**  ·  Riccardo Calafiori - 2 **3.50**  ·  Declan Rice - 2 **2.10**  ·  Ben White - 2 **4.00**  ·  Martin Zubimendi - 2 **3.40**  ·  Marli Salmon - 2 **3.50**  ·  Myles Lewis-Skelly - 2 **4.00**  ·  Piero Hincapie - 2 **3.50**  ·  Cristhian Mosquera - 2 **4.00**  ·  Ezri Konsa - 2 **5.50**  ·  Viktor Gyokeres - 3 **1.33**  ·  Kai Havertz - 3 **1.40**  ·  Christos Tzolis - 3 **1.91**  ·  Noni Madueke - 3 **1.91**  ·  Eberechi Eze - 3 **1.80**  ·  Mikel Merino - 3 **2.00**  ·  Max Dowman - 3 **2.00**  ·  Gabriel Magalhaes - 3 **7.00**  ·  Martin Odegaard - 3 **1.80**  ·  Bruno Guimaraes - 3 **2.50**  ·  Riccardo Calafiori - 3 **10.00**  ·  Declan Rice - 3 **4.33**  ·  Ben White - 3 **11.00**  ·  Martin Zubimendi - 3 **9.00**  ·  Marli Salmon - 3 **10.00**  ·  Myles Lewis-Skelly - 3 **11.00**  ·  Piero Hincapie - 3 **10.00**  ·  Cristhian Mosquera - 3 **11.00**  ·  Ezri Konsa - 3 **19.00**  ·  Viktor Gyokeres - 4 **1.80**  ·  Kai Havertz - 4 **2.00**  ·  Christos Tzolis - 4 **3.40**  ·  Noni Madueke - 4 **3.40**  ·  Eberechi Eze - 4 **3.00**  ·  Mikel Merino - 4 **3.50**  ·  Max Dowman - 4 **3.50**  ·  Gabriel Magalhaes - 4 **19.00**  ·  Martin Odegaard - 4 **3.00**  ·  Bruno Guimaraes - 4 **4.50**  ·  Riccardo Calafiori - 4 **21.00**  ·  Declan Rice - 4 **10.00**  ·  Martin Zubimendi - 4 **21.00**  ·  Marli Salmon - 4 **21.00**  ·  Viktor Gyokeres - 5 **2.62**  ·  Kai Havertz - 5 **3.25**  ·  Christos Tzolis - 5 **6.00**  ·  Noni Madueke - 5 **6.00**  ·  Eberechi Eze - 5 **5.50**  ·  Mikel Merino - 5 **7.00**  ·  Max Dowman - 5 **7.00**  ·  Martin Odegaard - 5 **5.50**  ·  Bruno Guimaraes - 5 **10.00**  ·  Declan Rice - 5 **21.00**  ·  Viktor Gyokeres - 6 **4.33**  ·  Kai Havertz - 6 **5.50**  ·  Christos Tzolis - 6 **13.00**  ·  Noni Madueke - 6 **13.00**  ·  Eberechi Eze - 6 **11.00**  ·  Mikel Merino - 6 **15.00**  ·  Max Dowman - 6 **15.00**  ·  Viktor Gyokeres - 7 **8.00**  ·  Kai Havertz - 7 **10.00**  ·  Christos Tzolis - 7 **21.00**  ·  Noni Madueke - 7 **21.00**  ·  Eberechi Eze - 7 **21.00**  ·  Viktor Gyokeres - 8 **15.00**  ·  Viktor Gyokeres - 9 **21.00**  ·  Piero Hincapie - 4 **21.00**  ·  Mikel Merino - 7 **21.00**  ·  Max Dowman - 7 **21.00**  ·  Martin Odegaard - 6 **11.00**  ·  Jurrien Timber - 1 **1.50**  ·  Jurrien Timber - 2 **3.25**  ·  Jurrien Timber - 3 **8.00**  ·  Jurrien Timber - 4 **21.00**  ·  Kai Havertz - 8 **19.00**  ·  Ceadach O'Neill - 1 **1.10**  ·  Ceadach O'Neill - 2 **1.44**  ·  Ceadach O'Neill - 3 **2.25**  ·  Ceadach O'Neill - 4 **4.00**  ·  Ceadach O'Neill - 5 **9.00**  ·  Bruno Guimaraes - 6 **19.00**  ·  Martin Odegaard - 7 **21.00**  ·  Ceadach O'Neill - 6 **17.00**  ·  William Saliba - 1 **1.80**  ·  William Saliba - 2 **4.33**  ·  William Saliba - 3 **13.00**
+- **Away Player Shots:** Mathis Albert - 1 **1.36**  ·  Fabio Silva - 1 **1.25**  ·  Samuele Inacio - 1 **1.53**  ·  Konstantinos Karetsas - 1 **1.30**  ·  Ramy Bensebaini - 1 **2.10**  ·  Carney Chukwuemeka - 1 **1.80**  ·  Enzo Duarte - 1 **1.53**  ·  Joey Veerman - 1 **1.67**  ·  Felix Nmecha - 1 **1.50**  ·  Jobe Bellingham - 1 **1.44**  ·  Marcel Sabitzer - 1 **1.73**  ·  Julian Ryerson - 1 **2.38**  ·  Daniel Svensson - 1 **2.20**  ·  Luca Reggiani - 1 **2.38**  ·  Kaua Prates - 1 **2.50**  ·  Kouakou Gadou - 1 **2.50**  ·  Filippo Mane - 1 **3.00**  ·  Waldemar Anton - 1 **3.00**  ·  Maximilian Beier - 2 **1.67**  ·  Serhou Guirassy - 2 **1.53**  ·  Mathis Albert - 2 **2.62**  ·  Fabio Silva - 2 **2.10**  ·  Samuele Inacio - 2 **3.40**  ·  Konstantinos Karetsas - 2 **2.25**  ·  Ramy Bensebaini - 2 **6.50**  ·  Carney Chukwuemeka - 2 **4.33**  ·  Enzo Duarte - 2 **3.40**  ·  Joey Veerman - 2 **4.00**  ·  Felix Nmecha - 2 **3.25**  ·  Jobe Bellingham - 2 **3.00**  ·  Marcel Sabitzer - 2 **4.33**  ·  Julian Ryerson - 2 **8.00**  ·  Daniel Svensson - 2 **7.00**  ·  Luca Reggiani - 2 **8.00**  ·  Kaua Prates - 2 **9.00**  ·  Kouakou Gadou - 2 **9.00**  ·  Filippo Mane - 2 **11.00**  ·  Waldemar Anton - 2 **11.00**  ·  Maximilian Beier - 3 **2.75**  ·  Serhou Guirassy - 3 **2.50**  ·  Mathis Albert - 3 **6.00**  ·  Fabio Silva - 3 **4.33**  ·  Samuele Inacio - 3 **9.00**  ·  Konstantinos Karetsas - 3 **5.00**  ·  Ramy Bensebaini - 3 **21.00**  ·  Carney Chukwuemeka - 3 **13.00**  ·  Enzo Duarte - 3 **9.00**  ·  Joey Veerman - 3 **11.00**  ·  Felix Nmecha - 3 **8.00**  ·  Jobe Bellingham - 3 **7.00**  ·  Marcel Sabitzer - 3 **13.00**  ·  Julian Ryerson - 3 **21.00**  ·  Daniel Svensson - 3 **21.00**  ·  Luca Reggiani - 3 **21.00**  ·  Kaua Prates - 3 **21.00**  ·  Kouakou Gadou - 3 **21.00**  ·  Maximilian Beier - 4 **6.00**  ·  Serhou Guirassy - 4 **4.50**  ·  Mathis Albert - 4 **15.00**  ·  Fabio Silva - 4 **10.00**  ·  Samuele Inacio - 4 **21.00**  ·  Konstantinos Karetsas - 4 **13.00**  ·  Enzo Duarte - 4 **21.00**  ·  Felix Nmecha - 4 **21.00**  ·  Jobe Bellingham - 4 **19.00**  ·  Maximilian Beier - 5 **13.00**  ·  Serhou Guirassy - 5 **10.00**  ·  Fabio Silva - 5 **21.00**  ·  Konstantinos Karetsas - 5 **21.00**  ·  Maximilian Beier - 6 **21.00**  ·  Serhou Guirassy - 6 **21.00**  ·  Maximilian Beier - 1 **1.14**  ·  Serhou Guirassy - 1 **1.11**  ·  Ethan Nwaneri - 1 **1.33**  ·  Ethan Nwaneri - 2 **2.38**  ·  Ethan Nwaneri - 3 **5.50**  ·  Ethan Nwaneri - 4 **13.00**  ·  Nico Schlotterbeck - 1 **2.10**  ·  Nico Schlotterbeck - 2 **6.00**  ·  Nico Schlotterbeck - 3 **19.00**
+- **Anytime Goal Scorer:** Enzo Duarte **7.50**  ·  Christos Tzolis **3.25**  ·  Kaua Prates **17.00**  ·  Daniel Svensson **17.00**  ·  Viktor Gyokeres **2.00**  ·  Piero Hincapie **9.00**  ·  Mathis Albert **6.50**  ·  Samuele Inacio **7.50**  ·  Martin Zubimendi **7.50**  ·  Max Dowman **3.40**  ·  Marli Salmon **8.00**  ·  Bruno Guimaraes **4.33**  ·  Gabriel Magalhaes **7.50**  ·  Jobe Bellingham **10.00**  ·  Kouakou Gadou **17.00**  ·  Konstantinos Karetsas **7.50**  ·  Filippo Mane **21.00**  ·  Jurrien Timber **9.00**  ·  Joey Veerman **10.00**  ·  Luca Reggiani **17.00**  ·  Ceadach O'Neill **3.75**  ·  Eberechi Eze **3.40**  ·  Cristhian Mosquera **9.00**  ·  Noni Madueke **3.25**  ·  Ben White **9.00**  ·  Declan Rice **5.50**  ·  Kai Havertz **2.25**  ·  Riccardo Calafiori **9.00**  ·  William Saliba **10.00**  ·  Martin Odegaard **3.40**  ·  Ezri Konsa **12.00**  ·  Carney Chukwuemeka **10.00**  ·  Fabio Silva **5.50**  ·  Ethan Nwaneri **6.50**  ·  Mikel Merino **3.40**  ·  Myles Lewis-Skelly **9.00**  ·  Felix Nmecha **9.00**  ·  Julian Ryerson **15.00**  ·  Marcel Sabitzer **12.00**  ·  Maximilian Beier **5.50**  ·  Nico Schlotterbeck **15.00**  ·  Ramy Bensebaini **15.00**  ·  Serhou Guirassy **4.00**  ·  Waldemar Anton **21.00**
+- **Player to Score or Assist:** Enzo Duarte **4.75**  ·  Christos Tzolis **1.83**  ·  Kaua Prates **11.00**  ·  Daniel Svensson **7.50**  ·  Viktor Gyokeres **1.73**  ·  Piero Hincapie **4.75**  ·  Mathis Albert **4.00**  ·  Samuele Inacio **4.33**  ·  Martin Zubimendi **3.75**  ·  Max Dowman **2.10**  ·  Marli Salmon **6.00**  ·  Bruno Guimaraes **2.75**  ·  Gabriel Magalhaes **5.50**  ·  Jobe Bellingham **6.50**  ·  Kouakou Gadou **12.00**  ·  Konstantinos Karetsas **4.33**  ·  Filippo Mane **13.00**  ·  Jurrien Timber **4.75**  ·  Joey Veerman **4.33**  ·  Luca Reggiani **11.00**  ·  Ceadach O'Neill **2.25**  ·  Eberechi Eze **1.95**  ·  Cristhian Mosquera **6.00**  ·  Noni Madueke **2.00**  ·  Ben White **5.00**  ·  Declan Rice **2.75**  ·  Kai Havertz **1.80**  ·  Riccardo Calafiori **4.75**  ·  William Saliba **7.50**  ·  Martin Odegaard **2.05**  ·  Ezri Konsa **7.00**  ·  Carney Chukwuemeka **6.00**  ·  Fabio Silva **3.60**  ·  Ethan Nwaneri **4.50**  ·  Mikel Merino **2.10**  ·  Myles Lewis-Skelly **4.33**  ·  Felix Nmecha **5.50**  ·  Julian Ryerson **5.50**  ·  Marcel Sabitzer **6.50**  ·  Maximilian Beier **3.75**  ·  Nico Schlotterbeck **8.00**  ·  Ramy Bensebaini **8.00**  ·  Serhou Guirassy **3.20**  ·  Waldemar Anton **13.00**
 
 ## Estadísticas de equipo
 | | Arsenal (total) | Arsenal en casa | Borussia Dortmund (total) | Borussia Dortmund fuera |
@@ -141,4 +182,39 @@ _Sin bajas comunicadas por ahora._
 ## Probabilidades del modelo
 _Goles esperados: local 1,51 · visitante 0,81 · córners esperados 9,3._
 
-_Sin cuotas de Bet365 todavía para comparar._
+| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
+|---|---|---|---|---|---|
+| 1X2: 2 | 20% | 12% | 16% | 7.50 | +22% |
+| 1X2: X | 26% | 19% | 22% | 5.00 | +12% |
+| 1X2: 1 | 54% | 69% | 61% | 1.36 | -17% |
+| Doble oportunidad: X2 ✅ | 46% | 32% | 39% | 3.00 | +17% |
+| Doble oportunidad: 12 | 74% | 82% | 78% | 1.17 | -9% |
+| Doble oportunidad: 1X | 80% | 87% | 83% | 1.10 | -8% |
+| Ambos marcan: No | 57% | 52% | 54% | 1.80 | -2% |
+| Ambos marcan: Sí | 43% | 48% | 46% | 1.95 | -11% |
+| Goles más/menos: Más de 1.5 | 67% | 79% | 73% | 1.20 | -12% |
+| Goles más/menos: Más de 2.5 | 41% | 57% | 49% | 1.67 | -18% |
+| Goles más/menos: Más de 3.5 | 21% | 36% | 28% | 2.62 | -25% |
+| Goles más/menos: Más de 4.5 | 9% | 21% | 15% | 4.50 | -33% |
+| Goles más/menos: Menos de 1.5 | 33% | 21% | 27% | 4.50 | +21% |
+| Goles más/menos: Menos de 2.5 | 59% | 43% | 51% | 2.20 | +12% |
+| Goles más/menos: Menos de 3.5 | 79% | 64% | 72% | 1.50 | +7% |
+| Goles más/menos: Menos de 4.5 | 91% | 79% | 85% | 1.20 | +2% |
+| Goles 1ª parte más/menos: Más de 0.5 | 64% | 73% | 68% | 1.28 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 27% | 39% | 33% | 2.38 | -22% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 27% | 32% | 3.50 | +11% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +3% |
+| Goles del local: Más de 1.5 | 45% | 65% | 55% | 1.44 | -21% |
+| Goles del local: Más de 2.5 | 19% | 39% | 29% | 2.38 | -30% |
+| Goles del local: Más de 3.5 | 7% | 21% | 14% | 4.50 | -38% |
+| Goles del local: Menos de 1.5 ✅ | 55% | 35% | 45% | 2.62 | +19% |
+| Goles del local: Menos de 2.5 | 81% | 61% | 71% | 1.53 | +8% |
+| Goles del local: Menos de 3.5 | 93% | 79% | 86% | 1.18 | +2% |
+| Goles del visitante: Más de 0.5 | 56% | 54% | 55% | 1.73 | -6% |
+| Goles del visitante: Más de 1.5 | 20% | 21% | 20% | 4.50 | -9% |
+| Goles del visitante: Menos de 0.5 | 44% | 46% | 45% | 2.00 | -9% |
+| Goles del visitante: Menos de 1.5 | 80% | 79% | 80% | 1.18 | -6% |
+| 1X2 descanso: X | 45% | 37% | 41% | 2.50 | +3% |
+| 1X2 descanso: 1 | 37% | 51% | 44% | 1.83 | -19% |
+
+_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

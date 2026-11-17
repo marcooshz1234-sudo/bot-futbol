@@ -16,8 +16,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.2,
-   "temperatura": 8.6
+   "viento_kmh": 8.3,
+   "temperatura": 7.8
   }
  },
  "1528993": {
@@ -37,17 +37,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 17.3,
-   "temperatura": 5.8
+   "viento_kmh": 15.5,
+   "temperatura": 5.7
   },
   "cuotas": {
    "Home": [
     2.7,
-    2.3
-   ],
-   "Away": [
-    2.55,
-    2.8
+    2.25
    ]
   }
  },
@@ -68,8 +64,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.9,
-   "temperatura": 11.8
+   "viento_kmh": 12.6,
+   "temperatura": 12.6
+  },
+  "cuotas": {
+   "Home": [
+    1.73,
+    1.91
+   ]
   }
  },
  "1644346": {
@@ -88,9 +90,15 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.2,
+   "lluvia_mm": 0.7,
    "viento_kmh": 22.6,
-   "temperatura": 19.3
+   "temperatura": 19.5
+  },
+  "cuotas": {
+   "Away": [
+    1.57,
+    1.7
+   ]
   }
  },
  "1644384": {
@@ -110,8 +118,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.5,
-   "temperatura": 19.9
+   "viento_kmh": 13.5,
+   "temperatura": 20.7
   },
   "cuotas": {
    "Away": [
@@ -137,8 +145,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 18.7,
-   "temperatura": 19.1
+   "viento_kmh": 19.5,
+   "temperatura": 19.0
   }
  },
  "1644353": {
@@ -158,8 +166,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.9,
-   "temperatura": 21.7
+   "viento_kmh": 6.6,
+   "temperatura": 21.8
+  },
+  "cuotas": {
+   "Away": [
+    2.3,
+    2.5
+   ]
   }
  },
  "1528994": {
@@ -178,9 +192,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.8,
-   "viento_kmh": 5.8,
-   "temperatura": 5.2
+   "lluvia_mm": 0.7,
+   "viento_kmh": 5.4,
+   "temperatura": 5.5
   }
  },
  "1644373": {
@@ -199,8 +213,8 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.2,
-   "viento_kmh": 4.3,
+   "lluvia_mm": 1.4,
+   "viento_kmh": 5.8,
    "temperatura": 19.3
   },
   "cuotas": {
@@ -227,8 +241,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.2,
-   "temperatura": 11.2
+   "viento_kmh": 4.0,
+   "temperatura": 11.6
   }
  },
  "1528995": {
@@ -247,9 +261,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 2.9,
-   "viento_kmh": 27.0,
-   "temperatura": 11.7
+   "lluvia_mm": 1.8,
+   "viento_kmh": 25.6,
+   "temperatura": 11.5
   }
  },
  "1528992": {
@@ -268,9 +282,15 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.8,
-   "viento_kmh": 14.4,
-   "temperatura": 11.1
+   "lluvia_mm": 0.0,
+   "viento_kmh": 18.7,
+   "temperatura": 10.9
+  },
+  "cuotas": {
+   "Away": [
+    1.33,
+    1.44
+   ]
   }
  },
  "1638333": {
@@ -289,9 +309,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 3.3,
-   "viento_kmh": 12.5,
-   "temperatura": 14.7
+   "lluvia_mm": 1.8,
+   "viento_kmh": 10.8,
+   "temperatura": 15.4
   }
  },
  "1644334": {
@@ -309,7 +329,11 @@
    "dias_hasta": 3,
    "siguiente_europa": null
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 28.9,
+   "temperatura": 21.5
+  }
  },
  "1528996": {
   "local": {
@@ -327,14 +351,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.0,
-   "viento_kmh": 25.9,
-   "temperatura": 11.1
+   "lluvia_mm": 0.9,
+   "viento_kmh": 25.6,
+   "temperatura": 11.0
   },
   "cuotas": {
    "Away": [
     1.6,
-    1.75
+    1.8
    ]
   }
  },
@@ -354,9 +378,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 17.6,
-   "temperatura": 2.2
+   "lluvia_mm": 0.2,
+   "viento_kmh": 18.7,
+   "temperatura": 2.3
   }
  },
  "1528997": {
@@ -376,8 +400,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.9,
-   "temperatura": 9.6
+   "viento_kmh": 10.1,
+   "temperatura": 9.2
   },
   "cuotas": {
    "Home": [
@@ -402,9 +426,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.1,
-   "viento_kmh": 9.6,
-   "temperatura": 7.4
+   "lluvia_mm": 0.4,
+   "viento_kmh": 8.7,
+   "temperatura": 7.3
   }
  }
 }

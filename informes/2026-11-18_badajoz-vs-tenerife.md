@@ -1,20 +1,21 @@
 # Badajoz – Tenerife
 **Copa del Rey** · Round of 128 · 18/11/2026 20:00 (hora España) · Estadio Nuevo Vivero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
-- **1X2:** 1 **5.00**  ·  X **3.75**  ·  2 **1.67**
-- **Doble oportunidad:** 1X **2.15**  ·  12 **1.25**  ·  X2 **1.17**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
+- **1X2:** 1 **4.75**  ·  X **3.70**  ·  2 **1.70**
+- **Doble oportunidad:** 1X **2.10**  ·  12 **1.28**  ·  X2 **1.18**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
+    - 2,5: más **1.90** · menos **1.90**
     - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
+    - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
@@ -22,7 +23,7 @@ _Actualizadas: 17/11 02:17_
 - **Goles del local:**
     - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **11.00** · menos **1.05**
+    - 2,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
@@ -33,13 +34,13 @@ _Actualizadas: 17/11 02:17_
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **13.00** · menos **1.04**
+    - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **2.62**  ·  2 **1.40**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.40**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.62**
 - **Win Both Halves:** 1 **21.00**  ·  2 **4.50**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **8.00**  ·  Draw/No **11.00**  ·  Away/No **2.75**
+- **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.75**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo

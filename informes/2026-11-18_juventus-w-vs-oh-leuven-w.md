@@ -1,16 +1,16 @@
 # Juventus W – OH Leuven W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
 - **1X2:** 1 **1.22**  ·  X **5.75**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.14**  ·  X2 **3.25**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.00**
+    - 1,5: más **1.12** · menos **5.50**
     - 2,5: más **1.44** · menos **2.62**
     - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**
@@ -34,14 +34,14 @@ _Actualizadas: 17/11 02:17_
     - 9: más **1.78** · menos **2.02**
     - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.33**  ·  X **9.00**  ·  2 **3.75**
-- **1X2 descanso:** 1 **1.67**  ·  X **2.75**  ·  2 **7.00**
+- **1X2 descanso:** 1 **1.57**  ·  X **2.88**  ·  2 **8.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **1.14**  ·  2 **4.33**
 - **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **9.00**
 - **Win Both Halves:** 1 **2.50**  ·  2 **41.00**
@@ -178,7 +178,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Menos de 0.5 | 36% | 49% | 42% | 1.91 | -19% |
 | Córners más/menos: Más de 9.5 | 36% | 46% | 41% | 2.00 | -17% |
 | Córners más/menos: Menos de 9.5 | 64% | 54% | 59% | 1.73 | +2% |
-| 1X2 descanso: X | 40% | 33% | 37% | 2.75 | +1% |
-| 1X2 descanso: 1 | 41% | 54% | 48% | 1.67 | -21% |
+| 1X2 descanso: X | 40% | 31% | 36% | 2.88 | +3% |
+| 1X2 descanso: 1 | 41% | 57% | 49% | 1.57 | -23% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

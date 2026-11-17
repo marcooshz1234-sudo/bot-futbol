@@ -1,10 +1,10 @@
 # Reddis – Barakaldo
 **Copa del Rey** · Round of 128 · 18/11/2026 20:30 (hora España) · Estadi Municipal de Reus
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
 - **1X2:** 1 **3.80**  ·  X **3.30**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.33**  ·  X2 **1.25**

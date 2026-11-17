@@ -1,21 +1,20 @@
 # Esbjerg – AB Copenhagen
 **1. Division** · Regular Season - 15 · 21/11/2026 15:00 (hora España) · Blue Water Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 02:31_
+_Actualizadas: 17/11 08:26_
 
-- **1X2:** 1 **2.88**  ·  X **3.60**  ·  2 **2.10**
-- **Doble oportunidad:** 1X **1.62**  ·  12 **1.25**  ·  X2 **1.36**
+- **1X2:** 1 **3.00**  ·  X **3.60**  ·  2 **2.15**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.48** · menos **2.60**
     - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.50** · menos **1.28**
+    - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **6.50** · menos **1.11**
-    - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -42,9 +41,9 @@ _Actualizadas: 16/11 02:31_
 - **To Win Either Half:** 1 **1.83**  ·  2 **1.57**
 - **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.62**
 - **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.40**  ·  Home/No **7.00**  ·  Draw/No **21.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.50**
-- **Anytime Goal Scorer:** Julius Lucena **4.33**  ·  Lasse Vigen **6.00**  ·  Tobias Lykkebak **4.33**  ·  Noah Strandby **3.75**  ·  Gustav Bjerge **9.00**  ·  Marc Dal Hende **7.50**  ·  Oskar Boesen **5.50**  ·  Marcus Hansen **3.40**  ·  Gustav Grubbe **13.00**  ·  Jonathan Mathys **3.40**  ·  William Warrer **9.00**  ·  Nicklas Strunck Jakobsen **3.40**  ·  Peter Bjur **4.33**  ·  Mikail Maden **5.00**  ·  Anton Skipper **11.00**  ·  Patrick Tjornelund **13.00**  ·  Gabriel Noga **7.50**  ·  Oluwatomiwa Kolawole **5.50**  ·  Frode Aronsson **8.00**  ·  Milan Rasmussen **2.50**  ·  Muamer Brajanac **2.38**  ·  James Ampofo **3.10**  ·  Sander Strand **7.50**  ·  Jonathan Foss **11.00**  ·  Martin Kruse **6.50**  ·  Jonas Heinze **5.00**  ·  Marco Ramkilde **2.50**  ·  O'Vonte Mullings **4.33**  ·  Mikkel Brund **5.50**  ·  Noah Engell **2.38**  ·  Tobias Hageltorn **2.50**  ·  Marcus Immersen **2.75**  ·  Casper Grening **4.00**  ·  Alfred Horup **4.33**  ·  Marco Vesterholm **4.33**  ·  Mikkel Clement **5.00**  ·  Soren Ilsoe **5.00**  ·  Frederik Lindgaard **6.50**  ·  Tobias Damtoft **6.50**  ·  Adrien Koudelka **11.00**  ·  Aidan Liu **7.50**  ·  Jermain Fernandes **4.00**  ·  Villum Stokbro **6.00**  ·  Andreas Kristiansen **8.00**  ·  Jakob Zwinge **5.50**  ·  Marius Stenner **5.00**  ·  Adam Ahmad **3.00**  ·  Saliou Diop **2.05**  ·  Benjamin Hvidt **5.00**  ·  Nicolai Blicher **9.00**  ·  Anders Sonderskov **9.00**  ·  Travian Sousa **9.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.40**  ·  Home/No **7.00**  ·  Draw/No **19.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.60**
+- **Anytime Goal Scorer:** Julius Lucena **4.33**  ·  Lasse Vigen **6.00**  ·  Tobias Lykkebak **4.33**  ·  Noah Strandby **3.75**  ·  Gustav Bjerge **9.00**  ·  Marc Dal Hende **7.50**  ·  Oskar Boesen **5.50**  ·  Marcus Hansen **3.40**  ·  Gustav Grubbe **13.00**  ·  Jonathan Mathys **3.40**  ·  William Warrer **9.00**  ·  Nicklas Strunck Jakobsen **3.40**  ·  Peter Bjur **4.33**  ·  Mikail Maden **4.75**  ·  Anton Skipper **11.00**  ·  Patrick Tjornelund **13.00**  ·  Gabriel Noga **7.50**  ·  Oluwatomiwa Kolawole **5.50**  ·  Frode Aronsson **8.00**  ·  Milan Rasmussen **2.50**  ·  Muamer Brajanac **2.38**  ·  James Ampofo **3.10**  ·  Sander Strand **7.50**  ·  Jonathan Foss **11.00**  ·  Martin Kruse **6.50**  ·  Jonas Heinze **4.75**  ·  Marco Ramkilde **2.50**  ·  O'Vonte Mullings **4.33**  ·  Mikkel Brund **5.50**  ·  Noah Engell **2.38**  ·  Tobias Hageltorn **2.50**  ·  Marcus Immersen **2.75**  ·  Casper Grening **4.00**  ·  Alfred Horup **4.33**  ·  Marco Vesterholm **4.33**  ·  Mikkel Clement **4.75**  ·  Soren Ilsoe **4.75**  ·  Frederik Lindgaard **6.50**  ·  Tobias Damtoft **6.50**  ·  Adrien Koudelka **11.00**  ·  Aidan Liu **7.50**  ·  Jermain Fernandes **4.00**  ·  Villum Stokbro **6.00**  ·  Andreas Kristiansen **8.00**  ·  Jakob Zwinge **5.50**  ·  Marius Stenner **4.75**  ·  Adam Ahmad **3.00**  ·  Saliou Diop **2.05**  ·  Benjamin Hvidt **4.75**  ·  Nicolai Blicher **9.00**  ·  Anders Sonderskov **9.00**  ·  Travian Sousa **9.00**
 
 ## Estadísticas de equipo
 | | Esbjerg (total) | Esbjerg en casa | AB Copenhagen (total) | AB Copenhagen fuera |
@@ -145,20 +144,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 50% | 43% | 47% | 2.10 | -2% |
-| 1X2: X | 25% | 25% | 25% | 3.60 | -10% |
-| 1X2: 1 | 26% | 32% | 29% | 2.88 | -18% |
-| Doble oportunidad: X2 | 74% | 68% | 71% | 1.36 | -3% |
-| Doble oportunidad: 12 | 75% | 74% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 50% | 57% | 54% | 1.62 | -13% |
+| 1X2: 2 | 50% | 43% | 47% | 2.15 | +0% |
+| 1X2: X | 25% | 26% | 25% | 3.60 | -9% |
+| 1X2: 1 | 26% | 31% | 28% | 3.00 | -15% |
+| Doble oportunidad: X2 | 74% | 70% | 72% | 1.36 | -2% |
+| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
+| Doble oportunidad: 1X | 50% | 57% | 53% | 1.67 | -11% |
 | Ambos marcan: No | 46% | 34% | 40% | 2.75 | +10% |
 | Ambos marcan: Sí | 54% | 66% | 60% | 1.40 | -16% |
 | Goles más/menos: Más de 2.5 | 52% | 64% | 58% | 1.48 | -15% |
 | Goles más/menos: Más de 3.5 | 30% | 44% | 37% | 2.10 | -22% |
-| Goles más/menos: Más de 4.5 | 14% | 27% | 21% | 3.50 | -28% |
+| Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -26% |
 | Goles más/menos: Menos de 2.5 | 48% | 36% | 42% | 2.60 | +10% |
 | Goles más/menos: Menos de 3.5 | 70% | 56% | 63% | 1.67 | +5% |
-| Goles más/menos: Menos de 4.5 | 86% | 73% | 79% | 1.28 | +2% |
+| Goles más/menos: Menos de 4.5 | 86% | 75% | 80% | 1.25 | +0% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 39% | 2.10 | -18% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -26% |

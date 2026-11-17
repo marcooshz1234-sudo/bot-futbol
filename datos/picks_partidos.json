@@ -1,6 +1,31 @@
 {
  "2026-11-20": [
   {
+   "partido_id": 1565308,
+   "fecha": "2026-11-20T16:30",
+   "local": "FC Botosani",
+   "visitante": "FC Voluntari",
+   "liga": "Liga I",
+   "datos": [
+    "Los partidos del FC Botosani llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del FC Voluntari llevan 2,9 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1565308|Total - Away|Over 0.5",
+     "texto": "FC Voluntari marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    },
+    {
+     "sel": "1565308|Both Teams Score|Yes",
+     "texto": "Ambos marcan en FC Botosani–FC Voluntari",
+     "cuota": 1.67,
+     "prob": 0.44
+    }
+   ]
+  },
+  {
    "partido_id": 1551377,
    "fecha": "2026-11-20T19:00",
    "local": "Aarhus Fremad",
@@ -46,6 +71,70 @@
    ]
   },
   {
+   "partido_id": 1565306,
+   "fecha": "2026-11-20T19:30",
+   "local": "Farul Constanta",
+   "visitante": "Universitatea Cluj",
+   "liga": "Liga I",
+   "datos": [
+    "El Farul Constanta no ha perdido en casa en sus últimos 6 partidos (4V 2E).",
+    "El Farul Constanta ha ganado 3 de sus últimos 5 partidos.",
+    "Los partidos del Farul Constanta llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Universitatea Cluj llevan 3,0 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1565306|Double Chance|Home/Draw",
+     "texto": "Farul Constanta o empate",
+     "cuota": 1.53,
+     "prob": 0.52
+    },
+    {
+     "sel": "1565306|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Farul Constanta–Universitatea Cluj",
+     "cuota": 1.62,
+     "prob": 0.45
+    }
+   ]
+  },
+  {
+   "partido_id": 1570025,
+   "fecha": "2026-11-20T20:30",
+   "local": "FC Andorra",
+   "visitante": "Leganes",
+   "liga": "Segunda",
+   "datos": [
+    "Los partidos del FC Andorra llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Leganes llevan 3,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570025|Corners 1x2|Home",
+     "texto": "FC Andorra hace más córners",
+     "cuota": 1.4,
+     "prob": 0.51
+    },
+    {
+     "sel": "1570025|Total - Away|Over 0.5",
+     "texto": "Leganes marca",
+     "cuota": 1.44,
+     "prob": 0.5
+    },
+    {
+     "sel": "1570025|Home Corners Over/Under|Over 5.5",
+     "texto": "FC Andorra hace más de 5,5 córners",
+     "cuota": 1.8,
+     "prob": 0.48
+    },
+    {
+     "sel": "1570025|Both Teams Score|Yes",
+     "texto": "Ambos marcan en FC Andorra–Leganes",
+     "cuota": 1.73,
+     "prob": 0.44
+    }
+   ]
+  },
+  {
    "partido_id": 1575221,
    "fecha": "2026-11-20T20:30",
    "local": "Bayern München",
@@ -62,31 +151,6 @@
      "texto": "Más de 1,5 goles en la 2ª parte del Bayern München–1. FC Köln",
      "cuota": 1.36,
      "prob": 0.57
-    }
-   ]
-  },
-  {
-   "partido_id": 1552827,
-   "fecha": "2026-11-20T20:45",
-   "local": "Estac Troyes",
-   "visitante": "Le Havre",
-   "liga": "Ligue 1",
-   "datos": [
-    "Los partidos del Estac Troyes llevan 2,6 goles de media (últimos 8).",
-    "Los partidos del Le Havre llevan 3,5 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1552827|Total - Away|Over 0.5",
-     "texto": "Le Havre marca",
-     "cuota": 1.36,
-     "prob": 0.51
-    },
-    {
-     "sel": "1552827|Corners Over Under|Over 8.5",
-     "texto": "Más de 8,5 córners en Estac Troyes–Le Havre",
-     "cuota": 1.8,
-     "prob": 0.44
     }
    ]
   },
@@ -194,8 +258,8 @@
     {
      "sel": "1550202|Match Winner|Home",
      "texto": "Gana el Lazio",
-     "cuota": 1.36,
-     "prob": 0.73
+     "cuota": 1.33,
+     "prob": 0.78
     },
     {
      "sel": "1550202|Total - Home|Over 1.5",
@@ -213,13 +277,13 @@
      "sel": "1550202|Total - Away|Over 0.5",
      "texto": "Lecce marca",
      "cuota": 1.67,
-     "prob": 0.45
+     "prob": 0.44
     },
     {
-     "sel": "1550202|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Lazio–Lecce",
-     "cuota": 1.8,
-     "prob": 0.43
+     "sel": "1550202|Total Corners (1st Half)|Over 4",
+     "texto": "Más de 4 córners en la 1ª parte en Lazio–Lecce",
+     "cuota": 1.72,
+     "prob": 0.42
     }
    ]
   },
@@ -235,16 +299,16 @@
    ],
    "picks": [
     {
-     "sel": "1550200|Total - Home|Over 1.5",
-     "texto": "Como marca 2 o más",
-     "cuota": 1.36,
-     "prob": 0.59
-    },
-    {
      "sel": "1550200|Total - Away|Over 0.5",
      "texto": "Cagliari marca",
-     "cuota": 1.73,
-     "prob": 0.45
+     "cuota": 1.8,
+     "prob": 0.44
+    },
+    {
+     "sel": "1550200|Away Corners Over/Under|Over 2.5",
+     "texto": "Cagliari hace más de 2,5 córners",
+     "cuota": 1.67,
+     "prob": 0.29
     }
    ]
   },
@@ -263,7 +327,7 @@
     {
      "sel": "1575222|Total - Away|Over 0.5",
      "texto": "SC Paderborn 07 marca",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "prob": 0.47
     },
     {
@@ -301,13 +365,13 @@
     {
      "sel": "1575229|Both Teams Score|Yes",
      "texto": "Ambos marcan en SV Elversberg–SC Freiburg",
-     "cuota": 1.44,
+     "cuota": 1.5,
      "prob": 0.47
     },
     {
      "sel": "1575229|Total - Away|Over 1.5",
      "texto": "SC Freiburg marca 2 o más",
-     "cuota": 1.67,
+     "cuota": 1.73,
      "prob": 0.38
     },
     {
@@ -418,19 +482,13 @@
     {
      "sel": "1575223|Total - Home|Over 1.5",
      "texto": "Eintracht Frankfurt marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.59
+     "cuota": 1.62,
+     "prob": 0.6
     },
     {
      "sel": "1575223|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Eintracht Frankfurt–1899 Hoffenheim",
      "cuota": 1.53,
-     "prob": 0.57
-    },
-    {
-     "sel": "1575223|Home Player Shots On Target Total|Fares Chaibi - 1",
-     "texto": "Fares Chaibi: 1+ tiros a puerta",
-     "cuota": 1.67,
      "prob": 0.57
     },
     {
@@ -444,6 +502,12 @@
      "texto": "1899 Hoffenheim marca 2 o más",
      "cuota": 1.8,
      "prob": 0.37
+    },
+    {
+     "sel": "1575223|Away Corners Over/Under|Over 4.5",
+     "texto": "1899 Hoffenheim hace más de 4,5 córners",
+     "cuota": 1.8,
+     "prob": 0.28
     }
    ]
   },
@@ -623,6 +687,12 @@
      "prob": 0.54
     },
     {
+     "sel": "1552229|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en NEC Nijmegen–PSV Eindhoven",
+     "cuota": 1.67,
+     "prob": 0.43
+    },
+    {
      "sel": "1552229|Total - Away|Over 1.5",
      "texto": "PSV Eindhoven marca 2 o más",
      "cuota": 1.4,
@@ -684,6 +754,12 @@
      "texto": "Más de 1,5 goles en la 2ª parte del Parma–AS Roma",
      "cuota": 1.8,
      "prob": 0.54
+    },
+    {
+     "sel": "1550205|Home Corners Over/Under|Over 2.5",
+     "texto": "Parma hace más de 2,5 córners",
+     "cuota": 1.67,
+     "prob": 0.49
     }
    ]
   },
@@ -906,18 +982,6 @@
    ],
    "picks": [
     {
-     "sel": "1550204|Home Player Shots On Target Total|Noa Lang - 1",
-     "texto": "Noa Lang: 1+ tiros a puerta",
-     "cuota": 1.36,
-     "prob": 0.58
-    },
-    {
-     "sel": "1550204|Home Player Shots On Target Total|Scott McTominay - 1",
-     "texto": "Scott McTominay: 1+ tiros a puerta",
-     "cuota": 1.36,
-     "prob": 0.57
-    },
-    {
      "sel": "1550204|Total - Away|Over 0.5",
      "texto": "Torino marca",
      "cuota": 1.62,
@@ -928,6 +992,12 @@
      "texto": "Ambos marcan en Napoli–Torino",
      "cuota": 1.8,
      "prob": 0.43
+    },
+    {
+     "sel": "1550204|Away Corners Over/Under|Over 2.5",
+     "texto": "Torino hace más de 2,5 córners",
+     "cuota": 1.62,
+     "prob": 0.3
     }
    ]
   },
@@ -1020,7 +1090,7 @@
     {
      "sel": "1570461|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Real Madrid–Celta Vigo",
-     "cuota": 1.62,
+     "cuota": 1.57,
      "prob": 0.52
     },
     {
@@ -1582,19 +1652,25 @@
     {
      "sel": "1550198|Match Winner|Away",
      "texto": "Gana el Inter",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.5
     },
     {
      "sel": "1550198|Both Teams Score|Yes",
      "texto": "Ambos marcan en Atalanta–Inter",
-     "cuota": 1.5,
+     "cuota": 1.44,
      "prob": 0.48
+    },
+    {
+     "sel": "1550198|Corners Over Under|Over 8.5",
+     "texto": "Más de 8,5 córners en Atalanta–Inter",
+     "cuota": 1.73,
+     "prob": 0.44
     },
     {
      "sel": "1550198|Total - Away|Over 1.5",
      "texto": "Inter marca 2 o más",
-     "cuota": 1.4,
+     "cuota": 1.44,
      "prob": 0.39
     }
    ]
@@ -1616,7 +1692,7 @@
     {
      "sel": "1552822|Match Winner|Home",
      "texto": "Gana el Marseille",
-     "cuota": 1.42,
+     "cuota": 1.44,
      "prob": 0.67
     },
     {
@@ -1684,128 +1760,111 @@
    ]
   }
  ],
- "2026-11-19": [
+ "2026-11-23": [
   {
-   "partido_id": 1638327,
-   "fecha": "2026-11-19T18:45",
-   "local": "Paris FC W",
-   "visitante": "Køge W",
-   "liga": "Champions Femenina",
+   "partido_id": 1570029,
+   "fecha": "2026-11-23T20:30",
+   "local": "AD Ceuta FC",
+   "visitante": "Almeria",
+   "liga": "Segunda",
    "datos": [
-    "Los partidos del Køge W llevan 3,5 goles de media (últimos 8).",
-    "El Køge W solo ha ganado 1 de sus últimos 5."
+    "El Almeria va 1º y el AD Ceuta FC 22º en la liga.",
+    "Los partidos del AD Ceuta FC llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Almeria llevan 2,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1638327|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Paris FC (fem.)–Køge (fem.)",
-     "cuota": 1.5,
-     "prob": 0.62
+     "sel": "1570029|Both Teams Score|Yes",
+     "texto": "Ambos marcan en AD Ceuta FC–Almeria",
+     "cuota": 1.57,
+     "prob": 0.46
     },
     {
-     "sel": "1638327|To Win Either Half|Home",
-     "texto": "Paris FC (fem.) gana alguna de las dos partes",
-     "cuota": 1.44,
-     "prob": 0.6
-    },
-    {
-     "sel": "1638327|Total - Home|Over 1.5",
-     "texto": "Paris FC (fem.) marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.56
-    },
-    {
-     "sel": "1638327|Match Winner|Home",
-     "texto": "Gana el Paris FC (fem.)",
-     "cuota": 1.8,
-     "prob": 0.52
+     "sel": "1570029|Total - Away|Over 1.5",
+     "texto": "Almeria marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.4
     }
    ]
   },
   {
-   "partido_id": 1638338,
-   "fecha": "2026-11-19T21:00",
-   "local": "SL Benfica W",
-   "visitante": "Roma W",
-   "liga": "Champions Femenina",
-   "datos": [],
+   "partido_id": 1550203,
+   "fecha": "2026-11-23T20:45",
+   "local": "Monza",
+   "visitante": "Fiorentina",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Monza llevan 3,8 goles de media (últimos 8).",
+    "Los partidos del Fiorentina llevan 3,6 goles de media (últimos 8)."
+   ],
    "picks": [
     {
-     "sel": "1638338|Double Chance|Home/Draw",
-     "texto": "SL Benfica (fem.) o empate",
-     "cuota": 1.36,
-     "prob": 0.68
-    },
-    {
-     "sel": "1638338|Both Teams Score|Yes",
-     "texto": "Ambos marcan en SL Benfica (fem.)–Roma (fem.)",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1638338|Double Chance|Draw/Away",
-     "texto": "Roma (fem.) o empate",
-     "cuota": 1.73,
+     "sel": "1550203|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Monza–Fiorentina",
+     "cuota": 1.8,
      "prob": 0.54
     },
     {
-     "sel": "1638338|To Win Either Half|Home",
-     "texto": "SL Benfica (fem.) gana alguna de las dos partes",
-     "cuota": 1.62,
-     "prob": 0.53
-    },
-    {
-     "sel": "1638338|Total - Home|Over 1.5",
-     "texto": "SL Benfica (fem.) marca 2 o más",
-     "cuota": 1.8,
-     "prob": 0.52
-    }
-   ]
-  },
-  {
-   "partido_id": 1638286,
-   "fecha": "2026-11-19T21:00",
-   "local": "Arsenal W",
-   "visitante": "Lyon W",
-   "liga": "Champions Femenina",
-   "datos": [],
-   "picks": [
-    {
-     "sel": "1638286|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Arsenal (fem.)–Lyon (fem.)",
+     "sel": "1550203|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Monza–Fiorentina",
      "cuota": 1.53,
-     "prob": 0.61
+     "prob": 0.46
     },
     {
-     "sel": "1638286|To Win Either Half|Away",
-     "texto": "Lyon (fem.) gana alguna de las dos partes",
-     "cuota": 1.44,
-     "prob": 0.59
-    },
-    {
-     "sel": "1638286|Total - Away|Over 1.5",
-     "texto": "Lyon (fem.) marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.56
+     "sel": "1550203|Total - Away|Over 1.5",
+     "texto": "Fiorentina marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.35
     }
    ]
   },
   {
-   "partido_id": 1638297,
-   "fecha": "2026-11-19T21:00",
-   "local": "Barcelona W",
-   "visitante": "Servette Chênois W",
-   "liga": "Champions Femenina",
+   "partido_id": 1557469,
+   "fecha": "2026-11-23T21:00",
+   "local": "Brentford",
+   "visitante": "Everton",
+   "liga": "Premier",
    "datos": [
-    "Los partidos del Barcelona W llevan 4,4 goles de media (últimos 8).",
-    "Los partidos del Servette Chênois W llevan 4,8 goles de media (últimos 8)."
+    "Los partidos del Brentford llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Everton llevan 2,4 goles de media (últimos 8)."
    ],
    "picks": [
     {
-     "sel": "1638297|Goals Over/Under - Second Half|Over 2.5",
-     "texto": "Más de 2,5 goles en la 2ª parte del Barcelona W–Servette Chênois W",
-     "cuota": 1.5,
-     "prob": 0.51
+     "sel": "1557469|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Brentford–Everton",
+     "cuota": 1.62,
+     "prob": 0.43
+    }
+   ]
+  },
+  {
+   "partido_id": 1570457,
+   "fecha": "2026-11-23T21:00",
+   "local": "Levante",
+   "visitante": "Elche",
+   "liga": "LaLiga",
+   "datos": [
+    "Los partidos del Levante llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Elche llevan 2,4 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570457|Shots. Home Total|Over 7.5",
+     "texto": "Levante hace 8+ tiros",
+     "cuota": 1.37,
+     "prob": 0.5
+    },
+    {
+     "sel": "1570457|Double Chance|Home/Draw",
+     "texto": "Levante o empate",
+     "cuota": 1.36,
+     "prob": 0.47
+    },
+    {
+     "sel": "1570457|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Levante–Elche",
+     "cuota": 1.57,
+     "prob": 0.43
     }
    ]
   }

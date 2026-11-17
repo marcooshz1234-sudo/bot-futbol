@@ -1,13 +1,13 @@
 # Bosnia & Herzegovina – Romania
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Stadion Bilino Polje
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:16_
+_Actualizadas: 17/11 08:26_
 
-- **1X2:** 1 **1.80**  ·  X **3.75**  ·  2 **4.10**
-- **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.95**
+- **1X2:** 1 **1.91**  ·  X **3.70**  ·  2 **3.70**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
@@ -17,59 +17,59 @@ _Actualizadas: 17/11 02:16_
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 8,5: más **1.80** · menos **2.00**
+    - 8,5: más **1.80** · menos **1.91**
 - **Córners 1X2:** 1 **1.44**  ·  X **8.50**  ·  2 **3.25**
 - **Tarjetas más/menos:**
     - 4,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **2.40**  ·  X **2.25**  ·  2 **4.50**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.25**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.44**  ·  2 **2.50**
-- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **5.50**
-- **Win Both Halves:** 1 **5.50**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.50**  ·  Home/No **3.25**  ·  Draw/No **12.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **5.00**
+- **Win Both Halves:** 1 **5.50**  ·  2 **15.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.00**  ·  Home/No **3.40**  ·  Draw/No **12.00**  ·  Away/No **7.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 - **Home Team Total Cards:**
     - 1,5: más **1.62** · menos **2.20**
 - **Away Team Total Cards:**
     - 2,5: más **2.10** · menos **1.67**
 - **Total ShotOnGoal:**
     - 7,5: más **1.73** · menos **2.00**
-- **ShotOnTarget 1x2:** 1 **1.73**  ·  X **7.00**  ·  2 **2.50**
+- **ShotOnTarget 1x2:** 1 **1.57**  ·  X **7.50**  ·  2 **3.00**
 - **Total Shots:**
     - 23,5: más **1.80** · menos **1.91**
-    - 25,5: más **1.83** · menos **1.83**
+    - 25,5: más **1.91** · menos **1.80**
 - **Shots.1x2:** 1 **1.67**  ·  X **15.00**  ·  2 **2.20**
 - **Away Player Shots Total:**
-    - 11,5: más **1.73** · menos **2.00**
-- **Home Player Shots:** Samed Bazdar - 1 **1.05**  ·  Samed Bazdar - 2 **1.30**  ·  Samed Bazdar - 3 **1.83**  ·  Samed Bazdar - 4 **3.00**  ·  Samed Bazdar - 5 **5.50**  ·  Samed Bazdar - 6 **11.00**  ·  Samed Bazdar - 7 **21.00**  ·  Tarik Muharemovic - 1 **2.25**  ·  Tarik Muharemovic - 2 **8.00**  ·  Tarik Muharemovic - 3 **21.00**  ·  Zinedin Smajlovic - 1 **1.62**  ·  Zinedin Smajlovic - 2 **3.75**  ·  Zinedin Smajlovic - 3 **11.00**  ·  Zinedin Smajlovic - 4 **21.00**  ·  Ermedin Demirovic - 1 **1.04**  ·  Ermedin Demirovic - 2 **1.22**  ·  Ermedin Demirovic - 3 **1.67**  ·  Ermedin Demirovic - 4 **2.62**  ·  Ermedin Demirovic - 5 **4.50**  ·  Ermedin Demirovic - 6 **9.00**  ·  Ermedin Demirovic - 7 **17.00**  ·  Nikola Katic - 1 **1.73**  ·  Nikola Katic - 2 **4.33**  ·  Nikola Katic - 3 **13.00**  ·  Nihad Mujakic - 1 **1.62**  ·  Nihad Mujakic - 2 **3.75**  ·  Benjamin Tahirovic - 1 **1.50**  ·  Benjamin Tahirovic - 2 **3.25**  ·  Benjamin Tahirovic - 3 **8.00**  ·  Benjamin Tahirovic - 4 **21.00**  ·  Amar Dedic - 1 **1.62**  ·  Amar Dedic - 2 **3.75**  ·  Amar Dedic - 3 **11.00**  ·  Kerim Alajbegovic - 2 **1.44**  ·  Kerim Alajbegovic - 3 **2.25**  ·  Kerim Alajbegovic - 4 **4.00**  ·  Kerim Alajbegovic - 5 **9.00**  ·  Kerim Alajbegovic - 6 **17.00**  ·  Kerim Alajbegovic - 1 **1.10**  ·  Sead Kolasinac - 1 **2.38**  ·  Sead Kolasinac - 2 **8.00**  ·  Sead Kolasinac - 3 **21.00**  ·  Esmir Bajraktarevic - 1 **1.08**  ·  Esmir Bajraktarevic - 2 **1.40**  ·  Esmir Bajraktarevic - 3 **2.20**  ·  Esmir Bajraktarevic - 4 **3.75**  ·  Esmir Bajraktarevic - 5 **8.00**  ·  Esmir Bajraktarevic - 6 **15.00**  ·  Amar Dedic - 4 **21.00**  ·  Nihad Mujakic - 3 **11.00**  ·  Ermin Mahmic - 1 **1.06**  ·  Ermin Mahmic - 2 **1.33**  ·  Ermin Mahmic - 3 **1.91**  ·  Ermin Mahmic - 4 **3.40**  ·  Ermin Mahmic - 5 **6.50**  ·  Arjan Malic - 1 **1.57**  ·  Stjepan Radeljic - 1 **1.73**  ·  Stjepan Radeljic - 2 **4.33**  ·  Stjepan Radeljic - 3 **13.00**  ·  Arjan Malic - 2 **3.50**  ·  Arjan Malic - 3 **10.00**  ·  Haris Tabakovic - 1 **1.04**  ·  Haris Tabakovic - 2 **1.22**  ·  Haris Tabakovic - 3 **1.67**  ·  Haris Tabakovic - 4 **2.62**  ·  Haris Tabakovic - 5 **4.50**  ·  Haris Tabakovic - 6 **9.00**  ·  Haris Tabakovic - 7 **17.00**  ·  Amar Memic - 1 **1.25**  ·  Amar Memic - 2 **2.10**  ·  Amar Memic - 3 **4.33**  ·  Amar Memic - 4 **10.00**  ·  Amar Memic - 5 **21.00**  ·  Dzenis Burnic - 1 **1.40**  ·  Dzenis Burnic - 2 **2.62**  ·  Dzenis Burnic - 3 **6.00**  ·  Jovo Lukic - 1 **1.03**  ·  Armin Gigovic - 1 **1.25**  ·  Ivan Basic - 1 **1.40**  ·  Ivan Sunjic - 1 **1.73**  ·  Jovo Lukic - 2 **1.17**  ·  Armin Gigovic - 2 **2.10**  ·  Ivan Basic - 2 **2.62**  ·  Ivan Sunjic - 2 **4.33**  ·  Jovo Lukic - 3 **1.53**  ·  Armin Gigovic - 3 **4.33**  ·  Ivan Basic - 3 **6.00**  ·  Ivan Sunjic - 3 **13.00**  ·  Jovo Lukic - 4 **2.25**  ·  Jovo Lukic - 5 **3.75**  ·  Armin Gigovic - 4 **10.00**  ·  Ivan Basic - 4 **15.00**  ·  Jovo Lukic - 6 **6.50**  ·  Jovo Lukic - 7 **13.00**  ·  Ermin Mahmic - 6 **13.00**  ·  Arjan Malic - 4 **21.00**  ·  Dzenis Burnic - 4 **15.00**  ·  Matej Deket - 1 **1.04**  ·  Matej Deket - 2 **1.22**  ·  Matej Deket - 3 **1.67**  ·  Matej Deket - 4 **2.62**  ·  Matej Deket - 5 **4.33**  ·  Armin Gigovic - 5 **21.00**  ·  Matej Deket - 6 **9.00**  ·  Matej Deket - 7 **17.00**  ·  Ermin Mahmic - 7 **21.00**  ·  Jovo Lukic - 8 **21.00**  ·  Nihad Mujakic - 4 **21.00**
-- **Away Player Shots:** Ianis Hagi - 1 **1.17**  ·  Ianis Hagi - 2 **1.73**  ·  Ianis Hagi - 3 **3.25**  ·  Ianis Hagi - 4 **6.50**  ·  Ianis Hagi - 5 **15.00**  ·  Andrei Coubis - 1 **1.83**  ·  Andrei Coubis - 2 **5.00**  ·  Andrei Coubis - 3 **15.00**  ·  Lisav Eissat - 1 **2.38**  ·  Lisav Eissat - 2 **8.00**  ·  Lisav Eissat - 3 **21.00**  ·  Rares Ilie - 1 **1.14**  ·  Rares Ilie - 2 **1.62**  ·  Rares Ilie - 3 **2.75**  ·  Rares Ilie - 4 **5.50**  ·  Rares Ilie - 5 **13.00**  ·  Rares Ilie - 6 **21.00**  ·  Razvan Marin - 1 **1.33**  ·  Razvan Marin - 2 **2.38**  ·  Razvan Marin - 3 **5.00**  ·  Razvan Marin - 4 **13.00**  ·  Razvan Marin - 5 **21.00**  ·  Matei Ilie - 1 **2.75**  ·  Matei Ilie - 2 **10.00**  ·  Ianis Stoica - 1 **1.20**  ·  Ianis Stoica - 2 **1.83**  ·  Ianis Stoica - 3 **3.75**  ·  Ianis Stoica - 4 **8.00**  ·  Ianis Stoica - 5 **17.00**  ·  Tony Strata - 1 **1.83**  ·  Tony Strata - 2 **5.00**  ·  Tony Strata - 3 **15.00**  ·  Andrei Ratiu - 1 **2.00**  ·  Andrei Ratiu - 2 **5.50**  ·  Andrei Ratiu - 3 **17.00**  ·  Radu Dragusin - 1 **2.75**  ·  Radu Dragusin - 2 **10.00**  ·  Dennis Man - 1 **1.14**  ·  Dennis Man - 2 **1.62**  ·  Dennis Man - 3 **2.75**  ·  Dennis Man - 4 **5.50**  ·  Dennis Man - 5 **13.00**  ·  Dennis Man - 6 **21.00**  ·  Daniel Birligea - 1 **1.08**  ·  Daniel Birligea - 2 **1.40**  ·  Daniel Birligea - 3 **2.20**  ·  Daniel Birligea - 4 **3.75**  ·  Daniel Birligea - 5 **8.00**  ·  Daniel Birligea - 6 **15.00**  ·  Daniel Birligea - 7 **21.00**  ·  Marius Corbu - 1 **1.20**  ·  Marius Corbu - 2 **1.83**  ·  Marius Corbu - 3 **3.75**  ·  Marius Corbu - 4 **8.00**  ·  Marius Corbu - 5 **17.00**  ·  Alexandru Cicaldau - 1 **1.33**  ·  Catalin Cirjan - 1 **1.44**  ·  Olimpiu Morutan - 1 **1.44**  ·  Tudor Baluta - 1 **1.53**  ·  Vlad Dragomir - 1 **1.57**  ·  Vladimir Screciu - 1 **1.83**  ·  Nicusor Bancu - 1 **2.38**  ·  Virgil Ghita - 1 **2.75**  ·  Alexandru Cicaldau - 2 **2.38**  ·  Catalin Cirjan - 2 **3.00**  ·  Olimpiu Morutan - 2 **3.00**  ·  Tudor Baluta - 2 **3.40**  ·  Vlad Dragomir - 2 **3.50**  ·  Vladimir Screciu - 2 **5.00**  ·  Nicusor Bancu - 2 **8.00**  ·  Virgil Ghita - 2 **10.00**  ·  Alexandru Cicaldau - 3 **5.00**  ·  Catalin Cirjan - 3 **7.00**  ·  Olimpiu Morutan - 3 **7.00**  ·  Tudor Baluta - 3 **9.00**  ·  Vlad Dragomir - 3 **10.00**  ·  Vladimir Screciu - 3 **15.00**  ·  Nicusor Bancu - 3 **21.00**  ·  Virgil Ghita - 3 **21.00**  ·  Alexandru Cicaldau - 4 **13.00**  ·  Catalin Cirjan - 4 **19.00**  ·  Olimpiu Morutan - 4 **19.00**  ·  Tudor Baluta - 4 **21.00**  ·  Vlad Dragomir - 4 **21.00**  ·  Alexandru Cicaldau - 5 **21.00**  ·  Florinel Coman - 1 **1.14**  ·  Florinel Coman - 2 **1.62**  ·  Florinel Coman - 3 **2.75**  ·  Florinel Coman - 4 **5.50**  ·  Florinel Coman - 5 **13.00**  ·  Florinel Coman - 6 **21.00**
-- **Goalkeeper Saves:** Martin Zlomislic - 2 **1.33**  ·  Martin Zlomislic - 3 **1.91**  ·  Martin Zlomislic - 4 **3.50**  ·  Martin Zlomislic - 5 **7.00**  ·  Otto Hindrich - 2 **1.28**  ·  Otto Hindrich - 3 **1.83**  ·  Otto Hindrich - 4 **3.25**  ·  Otto Hindrich - 5 **6.50**  ·  Martin Zlomislic - 1 **1.06**  ·  Otto Hindrich - 1 **1.05**
+    - 11,5: más **1.83** · menos **1.83**
+- **Home Player Shots:** Samed Bazdar - 1 **1.05**  ·  Samed Bazdar - 2 **1.28**  ·  Samed Bazdar - 3 **1.80**  ·  Samed Bazdar - 4 **3.00**  ·  Samed Bazdar - 5 **5.50**  ·  Samed Bazdar - 6 **10.00**  ·  Samed Bazdar - 7 **19.00**  ·  Tarik Muharemovic - 1 **2.00**  ·  Tarik Muharemovic - 2 **5.50**  ·  Tarik Muharemovic - 3 **17.00**  ·  Zinedin Smajlovic - 1 **1.62**  ·  Zinedin Smajlovic - 2 **3.75**  ·  Zinedin Smajlovic - 3 **11.00**  ·  Zinedin Smajlovic - 4 **21.00**  ·  Ermedin Demirovic - 1 **1.04**  ·  Ermedin Demirovic - 2 **1.22**  ·  Ermedin Demirovic - 3 **1.67**  ·  Ermedin Demirovic - 4 **2.62**  ·  Ermedin Demirovic - 5 **4.50**  ·  Ermedin Demirovic - 6 **9.00**  ·  Ermedin Demirovic - 7 **17.00**  ·  Nikola Katic - 1 **1.73**  ·  Nikola Katic - 2 **4.33**  ·  Nikola Katic - 3 **13.00**  ·  Nihad Mujakic - 1 **1.62**  ·  Nihad Mujakic - 2 **3.75**  ·  Benjamin Tahirovic - 1 **1.50**  ·  Benjamin Tahirovic - 2 **3.25**  ·  Benjamin Tahirovic - 3 **8.00**  ·  Benjamin Tahirovic - 4 **21.00**  ·  Amar Dedic - 1 **1.62**  ·  Amar Dedic - 2 **3.75**  ·  Amar Dedic - 3 **11.00**  ·  Kerim Alajbegovic - 2 **1.44**  ·  Kerim Alajbegovic - 3 **2.25**  ·  Kerim Alajbegovic - 4 **4.00**  ·  Kerim Alajbegovic - 5 **9.00**  ·  Kerim Alajbegovic - 6 **17.00**  ·  Kerim Alajbegovic - 7 **21.00**  ·  Kerim Alajbegovic - 1 **1.10**  ·  Sead Kolasinac - 1 **2.38**  ·  Sead Kolasinac - 2 **8.00**  ·  Sead Kolasinac - 3 **21.00**  ·  Esmir Bajraktarevic - 1 **1.08**  ·  Esmir Bajraktarevic - 2 **1.40**  ·  Esmir Bajraktarevic - 3 **2.20**  ·  Esmir Bajraktarevic - 4 **3.75**  ·  Esmir Bajraktarevic - 5 **8.00**  ·  Esmir Bajraktarevic - 6 **15.00**  ·  Amar Dedic - 4 **21.00**  ·  Nihad Mujakic - 3 **11.00**  ·  Ermin Mahmic - 1 **1.06**  ·  Ermin Mahmic - 2 **1.33**  ·  Ermin Mahmic - 3 **1.91**  ·  Ermin Mahmic - 4 **3.40**  ·  Ermin Mahmic - 5 **6.50**  ·  Arjan Malic - 1 **1.57**  ·  Stjepan Radeljic - 1 **1.73**  ·  Stjepan Radeljic - 2 **4.33**  ·  Stjepan Radeljic - 3 **13.00**  ·  Arjan Malic - 2 **3.50**  ·  Arjan Malic - 3 **10.00**  ·  Haris Tabakovic - 1 **1.04**  ·  Haris Tabakovic - 2 **1.22**  ·  Haris Tabakovic - 3 **1.67**  ·  Haris Tabakovic - 4 **2.62**  ·  Haris Tabakovic - 5 **4.50**  ·  Haris Tabakovic - 6 **9.00**  ·  Haris Tabakovic - 7 **17.00**  ·  Amar Memic - 1 **1.25**  ·  Amar Memic - 2 **2.10**  ·  Amar Memic - 3 **4.33**  ·  Amar Memic - 4 **10.00**  ·  Amar Memic - 5 **21.00**  ·  Dzenis Burnic - 1 **1.40**  ·  Dzenis Burnic - 2 **2.62**  ·  Dzenis Burnic - 3 **6.00**  ·  Jovo Lukic - 1 **1.02**  ·  Armin Gigovic - 1 **1.25**  ·  Ivan Basic - 1 **1.40**  ·  Ivan Sunjic - 1 **1.73**  ·  Jovo Lukic - 2 **1.17**  ·  Armin Gigovic - 2 **2.10**  ·  Ivan Basic - 2 **2.62**  ·  Ivan Sunjic - 2 **4.33**  ·  Jovo Lukic - 3 **1.50**  ·  Armin Gigovic - 3 **4.33**  ·  Ivan Basic - 3 **6.00**  ·  Ivan Sunjic - 3 **13.00**  ·  Jovo Lukic - 4 **2.20**  ·  Jovo Lukic - 5 **3.50**  ·  Armin Gigovic - 4 **10.00**  ·  Ivan Basic - 4 **15.00**  ·  Jovo Lukic - 6 **6.00**  ·  Jovo Lukic - 7 **11.00**  ·  Ermin Mahmic - 6 **13.00**  ·  Arjan Malic - 4 **21.00**  ·  Dzenis Burnic - 4 **15.00**  ·  Matej Deket - 1 **1.04**  ·  Matej Deket - 2 **1.22**  ·  Matej Deket - 3 **1.67**  ·  Matej Deket - 4 **2.62**  ·  Matej Deket - 5 **4.33**  ·  Armin Gigovic - 5 **21.00**  ·  Matej Deket - 6 **9.00**  ·  Matej Deket - 7 **17.00**  ·  Ermin Mahmic - 7 **21.00**  ·  Jovo Lukic - 8 **21.00**  ·  Nihad Mujakic - 4 **21.00**
+- **Away Player Shots:** Ianis Hagi - 1 **1.17**  ·  Ianis Hagi - 2 **1.73**  ·  Ianis Hagi - 3 **3.25**  ·  Ianis Hagi - 4 **6.50**  ·  Ianis Hagi - 5 **15.00**  ·  Andrei Coubis - 1 **1.83**  ·  Andrei Coubis - 2 **5.00**  ·  Andrei Coubis - 3 **15.00**  ·  Lisav Eissat - 1 **2.38**  ·  Lisav Eissat - 2 **8.00**  ·  Lisav Eissat - 3 **21.00**  ·  Rares Ilie - 1 **1.14**  ·  Rares Ilie - 2 **1.62**  ·  Rares Ilie - 3 **2.75**  ·  Rares Ilie - 4 **5.50**  ·  Rares Ilie - 5 **13.00**  ·  Rares Ilie - 6 **21.00**  ·  Razvan Marin - 1 **1.33**  ·  Razvan Marin - 2 **2.38**  ·  Razvan Marin - 3 **5.50**  ·  Razvan Marin - 4 **13.00**  ·  Razvan Marin - 5 **21.00**  ·  Matei Ilie - 1 **2.75**  ·  Matei Ilie - 2 **10.00**  ·  Ianis Stoica - 1 **1.20**  ·  Ianis Stoica - 2 **1.83**  ·  Ianis Stoica - 3 **3.75**  ·  Ianis Stoica - 4 **8.00**  ·  Ianis Stoica - 5 **17.00**  ·  Tony Strata - 1 **1.83**  ·  Tony Strata - 2 **5.00**  ·  Tony Strata - 3 **15.00**  ·  Andrei Ratiu - 1 **2.00**  ·  Andrei Ratiu - 2 **5.50**  ·  Andrei Ratiu - 3 **17.00**  ·  Radu Dragusin - 1 **2.75**  ·  Radu Dragusin - 2 **10.00**  ·  Dennis Man - 1 **1.14**  ·  Dennis Man - 2 **1.62**  ·  Dennis Man - 3 **2.75**  ·  Dennis Man - 4 **5.50**  ·  Dennis Man - 5 **13.00**  ·  Dennis Man - 6 **21.00**  ·  Daniel Birligea - 1 **1.07**  ·  Daniel Birligea - 2 **1.36**  ·  Daniel Birligea - 3 **2.00**  ·  Daniel Birligea - 4 **3.50**  ·  Daniel Birligea - 5 **6.50**  ·  Daniel Birligea - 6 **13.00**  ·  Daniel Birligea - 7 **21.00**  ·  Marius Corbu - 1 **1.20**  ·  Marius Corbu - 2 **1.83**  ·  Marius Corbu - 3 **3.75**  ·  Marius Corbu - 4 **8.00**  ·  Marius Corbu - 5 **17.00**  ·  Alexandru Cicaldau - 1 **1.33**  ·  Catalin Cirjan - 1 **1.44**  ·  Olimpiu Morutan - 1 **1.44**  ·  Tudor Baluta - 1 **1.50**  ·  Vlad Dragomir - 1 **1.25**  ·  Vladimir Screciu - 1 **1.83**  ·  Nicusor Bancu - 1 **2.38**  ·  Virgil Ghita - 1 **2.38**  ·  Alexandru Cicaldau - 2 **2.38**  ·  Catalin Cirjan - 2 **3.00**  ·  Olimpiu Morutan - 2 **3.00**  ·  Tudor Baluta - 2 **3.00**  ·  Vlad Dragomir - 2 **2.10**  ·  Vladimir Screciu - 2 **5.00**  ·  Nicusor Bancu - 2 **8.00**  ·  Virgil Ghita - 2 **8.00**  ·  Alexandru Cicaldau - 3 **5.50**  ·  Catalin Cirjan - 3 **7.00**  ·  Olimpiu Morutan - 3 **7.00**  ·  Tudor Baluta - 3 **8.00**  ·  Vlad Dragomir - 3 **4.33**  ·  Vladimir Screciu - 3 **15.00**  ·  Nicusor Bancu - 3 **21.00**  ·  Virgil Ghita - 3 **21.00**  ·  Alexandru Cicaldau - 4 **13.00**  ·  Catalin Cirjan - 4 **19.00**  ·  Olimpiu Morutan - 4 **19.00**  ·  Tudor Baluta - 4 **19.00**  ·  Vlad Dragomir - 4 **10.00**  ·  Alexandru Cicaldau - 5 **21.00**  ·  Vlad Dragomir - 5 **21.00**  ·  Florinel Coman - 1 **1.14**  ·  Florinel Coman - 2 **1.62**  ·  Florinel Coman - 3 **2.75**  ·  Florinel Coman - 4 **5.50**  ·  Florinel Coman - 5 **13.00**  ·  Florinel Coman - 6 **21.00**
+- **Goalkeeper Saves:** Martin Zlomislic - 2 **1.33**  ·  Martin Zlomislic - 3 **2.00**  ·  Martin Zlomislic - 4 **3.75**  ·  Martin Zlomislic - 5 **8.00**  ·  Otto Hindrich - 2 **1.14**  ·  Otto Hindrich - 3 **1.50**  ·  Otto Hindrich - 4 **2.20**  ·  Otto Hindrich - 5 **3.75**  ·  Otto Hindrich - 6 **7.00**  ·  Martin Zlomislic - 1 **1.06**  ·  Otto Hindrich - 1 **1.05**
 - **Anytime Goal Scorer:** Amar Dedic **9.50**  ·  Samed Bazdar **3.10**  ·  Esmir Bajraktarevic **3.60**  ·  Ivan Basic **7.00**  ·  Benjamin Tahirovic **8.00**  ·  Dzenis Burnic **6.50**  ·  Nikola Katic **9.50**  ·  Stjepan Radeljic **9.50**  ·  Nihad Mujakic **8.50**  ·  Tony Strata **11.00**  ·  Tudor Baluta **9.50**  ·  Ianis Hagi **5.00**  ·  Florinel Coman **4.33**  ·  Nicusor Bancu **15.00**  ·  Virgil Ghita **19.00**  ·  Ermin Mahmic **4.00**  ·  Alexandru Cicaldau **8.00**  ·  Andrei Coubis **11.00**  ·  Lisav Eissat **15.00**  ·  Rares Ilie **4.33**  ·  Arjan Malic **8.00**  ·  Tarik Muharemovic **13.00**  ·  Daniel Birligea **3.60**  ·  Marius Corbu **5.00**  ·  Vlad Dragomir **8.00**  ·  Ivan Sunjic **9.50**  ·  Matej Deket **2.75**  ·  Kerim Alajbegovic **4.33**  ·  Andrei Ratiu **15.00**  ·  Olimpiu Morutan **7.00**  ·  Radu Dragusin **19.00**  ·  Ianis Stoica **5.00**  ·  Jovo Lukic **3.10**  ·  Vladimir Screciu **11.00**  ·  Matei Ilie **19.00**  ·  Catalin Cirjan **7.00**  ·  Amar Memic **5.50**  ·  Ermedin Demirovic **2.75**  ·  Haris Tabakovic **2.75**  ·  Dennis Man **4.33**  ·  Razvan Marin **7.00**  ·  Sead Kolasinac **15.00**  ·  Armin Gigovic **5.50**  ·  Zinedin Smajlovic **8.50**
-- **Player to Score or Assist:** Amar Dedic **4.33**  ·  Samed Bazdar **2.20**  ·  Esmir Bajraktarevic **2.30**  ·  Ivan Basic **3.25**  ·  Benjamin Tahirovic **3.75**  ·  Dzenis Burnic **3.40**  ·  Nikola Katic **5.50**  ·  Stjepan Radeljic **5.50**  ·  Nihad Mujakic **5.00**  ·  Tony Strata **5.50**  ·  Tudor Baluta **5.50**  ·  Ianis Hagi **2.88**  ·  Florinel Coman **2.88**  ·  Nicusor Bancu **5.00**  ·  Virgil Ghita **9.50**  ·  Ermin Mahmic **2.75**  ·  Alexandru Cicaldau **4.00**  ·  Andrei Coubis **7.00**  ·  Lisav Eissat **8.00**  ·  Rares Ilie **2.88**  ·  Arjan Malic **4.33**  ·  Tarik Muharemovic **5.00**  ·  Daniel Birligea **2.75**  ·  Marius Corbu **3.20**  ·  Vlad Dragomir **4.33**  ·  Ivan Sunjic **3.25**  ·  Kerim Alajbegovic **2.38**  ·  Andrei Ratiu **6.50**  ·  Olimpiu Morutan **3.75**  ·  Radu Dragusin **15.00**  ·  Ianis Stoica **3.40**  ·  Jovo Lukic **2.30**  ·  Vladimir Screciu **7.00**  ·  Matei Ilie **9.50**  ·  Catalin Cirjan **3.60**  ·  Amar Memic **2.62**  ·  Ermedin Demirovic **2.05**  ·  Haris Tabakovic **1.91**  ·  Dennis Man **2.60**  ·  Razvan Marin **4.00**  ·  Sead Kolasinac **6.50**  ·  Armin Gigovic **3.25**  ·  Zinedin Smajlovic **5.00**
+- **Player to Score or Assist:** Amar Dedic **4.33**  ·  Samed Bazdar **2.20**  ·  Esmir Bajraktarevic **2.30**  ·  Ivan Basic **3.40**  ·  Benjamin Tahirovic **3.75**  ·  Dzenis Burnic **3.50**  ·  Nikola Katic **5.50**  ·  Stjepan Radeljic **5.50**  ·  Nihad Mujakic **5.50**  ·  Tony Strata **5.00**  ·  Tudor Baluta **5.00**  ·  Ianis Hagi **2.88**  ·  Florinel Coman **2.88**  ·  Nicusor Bancu **4.50**  ·  Virgil Ghita **8.50**  ·  Ermin Mahmic **2.75**  ·  Alexandru Cicaldau **4.00**  ·  Andrei Coubis **7.00**  ·  Lisav Eissat **7.00**  ·  Rares Ilie **2.88**  ·  Arjan Malic **4.33**  ·  Tarik Muharemovic **5.00**  ·  Daniel Birligea **2.60**  ·  Marius Corbu **3.10**  ·  Vlad Dragomir **4.00**  ·  Ivan Sunjic **3.25**  ·  Kerim Alajbegovic **2.40**  ·  Andrei Ratiu **6.00**  ·  Olimpiu Morutan **3.40**  ·  Radu Dragusin **15.00**  ·  Ianis Stoica **3.25**  ·  Jovo Lukic **2.30**  ·  Vladimir Screciu **7.00**  ·  Matei Ilie **9.50**  ·  Catalin Cirjan **3.40**  ·  Amar Memic **2.75**  ·  Ermedin Demirovic **2.05**  ·  Haris Tabakovic **1.91**  ·  Dennis Man **2.50**  ·  Razvan Marin **3.75**  ·  Sead Kolasinac **6.50**  ·  Armin Gigovic **3.50**  ·  Zinedin Smajlovic **5.00**
 
 ## Estadísticas de equipo
 | | Bosnia & Herzegovina (total) | Bosnia & Herzegovina en casa | Romania (total) | Romania fuera |
@@ -207,12 +207,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 13% | 23% | 18% | 4.10 | -27% |
-| 1X2: X | 18% | 25% | 22% | 3.75 | -19% |
-| 1X2: 1 | 69% | 52% | 61% | 1.80 | +9% |
-| Doble oportunidad: X2 | 31% | 48% | 39% | 1.95 | -23% |
-| Doble oportunidad: 12 | 82% | 75% | 78% | 1.25 | -2% |
-| Doble oportunidad: 1X | 87% | 77% | 82% | 1.22 | +0% |
+| 1X2: 2 | 13% | 25% | 19% | 3.70 | -29% |
+| 1X2: X | 18% | 25% | 22% | 3.70 | -20% |
+| 1X2: 1 | 69% | 49% | 59% | 1.91 | +13% |
+| Doble oportunidad: X2 | 31% | 52% | 41% | 1.83 | -24% |
+| Doble oportunidad: 12 | 82% | 74% | 78% | 1.28 | -0% |
+| Doble oportunidad: 1X | 87% | 74% | 81% | 1.28 | +3% |
 | Ambos marcan: No | 48% | 46% | 47% | 2.00 | -5% |
 | Ambos marcan: Sí | 52% | 54% | 53% | 1.73 | -9% |
 | Goles más/menos: Más de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
@@ -221,22 +221,24 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
 | Goles más/menos: Menos de 2.5 | 40% | 47% | 43% | 2.00 | -13% |
 | Goles más/menos: Menos de 3.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 69% | 72% | 1.36 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 74% | 71% | 73% | 1.33 | -3% |
 | Goles 1ª parte más/menos: Más de 1.5 | 39% | 35% | 37% | 2.62 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 28% | 3.00 | -15% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 29% | 27% | 3.25 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 65% | 63% | 1.44 | -10% |
+| Goles del local: Más de 0.5 | 90% | 79% | 84% | 1.18 | -0% |
 | Goles del local: Más de 1.5 | 66% | 50% | 58% | 1.83 | +6% |
 | Goles del local: Más de 2.5 | 40% | 25% | 32% | 3.75 | +21% |
+| Goles del local: Menos de 0.5 | 10% | 21% | 16% | 4.50 | -30% |
 | Goles del local: Menos de 1.5 | 34% | 50% | 42% | 1.83 | -23% |
 | Goles del local: Menos de 2.5 | 60% | 75% | 68% | 1.25 | -15% |
-| Goles del visitante: Más de 0.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Goles del visitante: Más de 1.5 | 21% | 29% | 25% | 3.25 | -18% |
-| Goles del visitante: Menos de 0.5 | 42% | 35% | 39% | 2.62 | +2% |
-| Goles del visitante: Menos de 1.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Córners más/menos: Más de 8.5 | 48% | 53% | 50% | 1.80 | -9% |
-| Córners más/menos: Menos de 8.5 | 52% | 47% | 50% | 2.00 | -1% |
-| 1X2 descanso: 2 | 14% | 21% | 17% | 4.50 | -23% |
+| Goles del visitante: Más de 0.5 | 58% | 66% | 62% | 1.40 | -13% |
+| Goles del visitante: Más de 1.5 | 21% | 31% | 26% | 3.00 | -21% |
+| Goles del visitante: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +5% |
+| Goles del visitante: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +0% |
+| Córners más/menos: Más de 8.5 | 48% | 51% | 50% | 1.80 | -10% |
+| Córners más/menos: Menos de 8.5 | 52% | 49% | 50% | 1.91 | -4% |
+| 1X2 descanso: 2 | 14% | 21% | 18% | 4.33 | -24% |
 | 1X2 descanso: X | 36% | 41% | 39% | 2.25 | -13% |
-| 1X2 descanso: 1 | 50% | 38% | 44% | 2.40 | +6% |
+| 1X2 descanso: 1 | 50% | 37% | 44% | 2.50 | +9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

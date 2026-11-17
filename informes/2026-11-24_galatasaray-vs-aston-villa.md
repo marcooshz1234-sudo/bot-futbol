@@ -1,10 +1,52 @@
 # Galatasaray – Aston Villa
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Rams Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 17/11 08:28_
+
+- **1X2:** 1 **2.55**  ·  X **3.80**  ·  2 **2.35**
+- **Doble oportunidad:** 1X **1.57**  ·  12 **1.25**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.44** · menos **2.75**
+    - 3,5: más **2.10** · menos **1.73**
+    - 4,5: más **3.50** · menos **1.30**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.50**  ·  2 **2.88**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**
+- **Both Teams To Score - Second Half:** Sí **2.38**  ·  No **1.53**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.67**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **2.75**
+- **Win Both Halves:** 1 **8.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.75**  ·  Home/No **6.00**  ·  Draw/No **21.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.62**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.60**
+- **Away Player Shots On Target Total:** Brian Madjo **8.50**  ·  Renato Nhaga **34.00**  ·  Victor Lindelof **17.00**  ·  Alysson Edward **21.00**  ·  Davinson Sanchez **17.00**  ·  Baris Yilmaz **19.00**  ·  Yunus Akgun **81.00**  ·  Abdulkerim Bardakci **10.00**  ·  Evren Elmali **23.00**  ·  Ismail Jakobs **51.00**  ·  George Hemmings **51.00**  ·  Stephane Singo **15.00**  ·  Ibrahim Mbaye **19.00**  ·  Leroy Sane **51.00**  ·  Ilkay Gundogan **29.00**  ·  Emiliano Buendia **19.00**  ·  Victor Osimhen **4.50**  ·  Berat Lus **29.00**  ·  Lucas Torreira **51.00**  ·  Deniz Gul **10.00**  ·  Alexey Batrakov **21.00**  ·  Nicolas Jackson **11.00**  ·  Mario Lemina **19.00**  ·  Matty Cash **81.00**  ·  Pau Torres **23.00**  ·  Ross Barkley **26.00**  ·  Alejandro Garnacho **34.00**  ·  Lesley Ugochukwu **19.00**  ·  Taylor Harwood-Bellis **11.00**  ·  Gabriel Sara **29.00**  ·  Aaron Wan-Bissaka **101.00**  ·  Tammy Abraham **7.00**  ·  Rafael Leao **29.00**  ·  Leon Goretzka **29.00**  ·  El Chadaille Bitshiabu **13.00**  ·  Ian Maatsen **67.00**  ·  Lamare Bogarde **17.00**  ·  John McGinn **34.00**  ·  Boubacar Kamara **29.00**  ·  Tyrone Mings **15.00**  ·  Joao Gomes **81.00**  ·  Johan Manzambi **12.00**  ·  Roland Sallai **29.00**  ·  Modou Cisse **15.00**
+- **Anytime Goal Scorer:** Brian Madjo **2.62**  ·  Renato Nhaga **3.60**  ·  Victor Lindelof **11.00**  ·  Alysson Edward **3.40**  ·  Davinson Sanchez **11.00**  ·  Baris Yilmaz **3.60**  ·  Yunus Akgun **4.33**  ·  Abdulkerim Bardakci **7.00**  ·  Evren Elmali **7.00**  ·  Ismail Jakobs **11.00**  ·  George Hemmings **5.50**  ·  Stephane Singo **6.50**  ·  Ibrahim Mbaye **4.00**  ·  Leroy Sane **3.20**  ·  Ilkay Gundogan **6.00**  ·  Emiliano Buendia **2.88**  ·  Victor Osimhen **1.91**  ·  Berat Lus **4.75**  ·  Lucas Torreira **7.00**  ·  Deniz Gul **2.62**  ·  Alexey Batrakov **3.20**  ·  Nicolas Jackson **2.38**  ·  Mario Lemina **6.50**  ·  Matty Cash **9.00**  ·  Pau Torres **11.00**  ·  Ross Barkley **5.50**  ·  Alejandro Garnacho **4.00**  ·  Lesley Ugochukwu **6.50**  ·  Taylor Harwood-Bellis **9.00**  ·  Gabriel Sara **4.75**  ·  Aaron Wan-Bissaka **13.00**  ·  Tammy Abraham **2.50**  ·  Rafael Leao **3.10**  ·  Leon Goretzka **6.00**  ·  El Chadaille Bitshiabu **9.00**  ·  Ian Maatsen **8.00**  ·  Lamare Bogarde **11.00**  ·  John McGinn **4.00**  ·  Boubacar Kamara **9.00**  ·  Tyrone Mings **11.00**  ·  Joao Gomes **9.00**  ·  Johan Manzambi **3.20**  ·  Roland Sallai **6.50**  ·  Modou Cisse **7.00**
+- **Player to Score or Assist:** Brian Madjo **2.05**  ·  Renato Nhaga **2.75**  ·  Victor Lindelof **8.00**  ·  Alysson Edward **2.25**  ·  Davinson Sanchez **5.50**  ·  Baris Yilmaz **2.50**  ·  Yunus Akgun **2.30**  ·  Abdulkerim Bardakci **5.00**  ·  Evren Elmali **4.00**  ·  Ismail Jakobs **5.00**  ·  George Hemmings **3.25**  ·  Stephane Singo **4.75**  ·  Ibrahim Mbaye **2.40**  ·  Leroy Sane **2.05**  ·  Ilkay Gundogan **3.25**  ·  Emiliano Buendia **1.95**  ·  Victor Osimhen **1.67**  ·  Berat Lus **2.88**  ·  Lucas Torreira **4.00**  ·  Deniz Gul **2.20**  ·  Alexey Batrakov **2.20**  ·  Nicolas Jackson **1.91**  ·  Mario Lemina **3.75**  ·  Matty Cash **4.33**  ·  Pau Torres **8.00**  ·  Ross Barkley **3.00**  ·  Alejandro Garnacho **2.50**  ·  Lesley Ugochukwu **3.75**  ·  Taylor Harwood-Bellis **6.50**  ·  Gabriel Sara **2.60**  ·  Aaron Wan-Bissaka **5.50**  ·  Tammy Abraham **2.05**  ·  Rafael Leao **1.95**  ·  Leon Goretzka **3.25**  ·  El Chadaille Bitshiabu **6.50**  ·  Ian Maatsen **3.40**  ·  Lamare Bogarde **5.50**  ·  John McGinn **2.38**  ·  Boubacar Kamara **4.33**  ·  Tyrone Mings **7.00**  ·  Joao Gomes **4.33**  ·  Johan Manzambi **2.05**  ·  Roland Sallai **4.00**  ·  Modou Cisse **3.75**
 
 ## Estadísticas de equipo
 | | Galatasaray (total) | Galatasaray en casa | Aston Villa (total) | Aston Villa fuera |

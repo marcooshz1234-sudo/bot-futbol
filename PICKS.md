@@ -1,12 +1,13 @@
 # Picks del Analista
 
-_Generado el 2026-11-17 02:20 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-17 08:30 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Martes 17/11
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:45 | Gana el Denmark | resultado | 2.30 | 60% | Denmark 3/5 · Norway 3/5 |
+| 20:45 | Gana el Denmark | resultado | 2.25 | 60% | Denmark 3/5 · Norway 3/5 |
+| 20:45 | Denmark marca 2 o más | goles | 1.73 | 80% | Denmark 4/5 · Norway (en contra) 4/5 |
 | 20:45 | Portugal hace más tiros a puerta | tiros a puerta | 1.30 | 80% | Wales 4/5 · Portugal 4/5 |
 | 20:45 | Austria hace más córners | corners | 1.57 | 80% | Israel 4/5 · Austria 4/5 |
 
@@ -18,19 +19,11 @@ _Generado el 2026-11-17 02:20 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Sábado 21/11
 
-**🤪 Combi loca · cuota 9,58**
-- Gana el Bournemouth (1,95) · Bournemouth 8/10 · Nottingham Forest 5/10
-- Fares Chaibi: 1+ tiros a puerta (1,67) · Fares Chaibi 5/6
-- Noa Lang: 1+ tiros a puerta (1,36) · Noa Lang 5/6
-- Thom van Bergen: 1+ tiros a puerta (1,25) · Thom van Bergen 9/10
-- SC Paderborn 07 hace más de 2,5 córners (1,73) · Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10
-
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 16:00 | Gana el Bournemouth | resultado | 1.95 | 65% | Bournemouth 8/10 · Nottingham Forest 5/10 |
-| 15:30 | Fares Chaibi: 1+ tiros a puerta | jugador | 1.67 | 83% | Fares Chaibi 5/6 |
-| 20:45 | Noa Lang: 1+ tiros a puerta | jugador | 1.36 | 83% | Noa Lang 5/6 |
-| 21:00 | Thom van Bergen: 1+ tiros a puerta | jugador | 1.25 | 90% | Thom van Bergen 9/10 |
+| 15:00 | Gana el Lazio | resultado | 1.33 | 80% | Lazio 9/10 · Lecce 7/10 |
+| 20:45 | Ambos marcan en Monaco–Auxerre | goles | 1.70 | 75% | Monaco 7/10 · Auxerre 8/10 |
 | 15:30 | SC Paderborn 07 hace más de 2,5 córners | corners | 1.73 | 80% | Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10 |
 
 ## Domingo 22/11
@@ -54,3 +47,9 @@ _Generado el 2026-11-17 02:20 (hora España). Cuotas de Bet365. Criterio: cuota 
 | 17:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV | goles | 1.73 | 75% | Werder Bremen 8/10 · Hamburger SV 7/10 |
 | 15:00 | Federico Bernardeschi: 1+ tiros a puerta | jugador | 1.33 | 88% | Federico Bernardeschi 7/8 |
 | 14:00 | Oviedo hace más de 3,5 córners | corners | 1.73 | 78% | Cordoba (en contra) 7/9 · Oviedo 7/9 |
+
+## Lunes 23/11
+
+| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
+|---|---|---|---|---|---|
+| 20:30 | Gana el Almeria | resultado | 1.83 | 75% | AD Ceuta FC 6/10 · Almeria 9/10 |

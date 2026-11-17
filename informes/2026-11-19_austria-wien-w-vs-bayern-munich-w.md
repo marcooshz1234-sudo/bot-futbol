@@ -1,57 +1,59 @@
 # Austria Wien W – Bayern Munich W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Sportplatz Jochbergengasse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 02:17_
+_Actualizadas: 17/11 08:26_
 
-- **1X2:** 1 **11.00**  ·  X **8.00**  ·  2 **1.17**
-- **Doble oportunidad:** 1X **4.00**  ·  12 **1.06**  ·  X2 **1.03**
-- **Ambos marcan:** Sí **2.38**  ·  No **1.53**
+- **1X2:** 1 **17.00**  ·  X **11.00**  ·  2 **1.09**
+- **Doble oportunidad:** 1X **7.00**  ·  12 **1.02**  ·  X2 **1.00**
+- **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.00**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.25** · menos **1.57**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.08**
+    - 1,5: más **1.10** · menos **6.50**
+    - 2,5: más **1.33** · menos **3.25**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **2.75** · menos **1.40**
+    - 5,5: más **4.50** · menos **1.17**
+    - 6,5: más **8.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.33** · menos **1.20**
-    - 3,5: más **8.50** · menos **1.05**
+    - 0,5: más **1.17** · menos **4.50**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **7.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **2.10** · menos **1.67**
-    - 1,5: más **6.50** · menos **1.10**
+    - 0,5: más **2.38** · menos **1.53**
+    - 1,5: más **7.50** · menos **1.07**
 - **Goles del visitante:**
-    - 0,5: más **1.05** · menos **8.50**
-    - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.83** · menos **1.83**
-    - 3,5: más **3.25** · menos **1.33**
-    - 4,5: más **5.50** · menos **1.12**
-    - 5,5: más **9.00** · menos **1.04**
+    - 1,5: más **1.17** · menos **4.50**
+    - 2,5: más **1.53** · menos **2.38**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **7.00** · menos **1.08**
 - **Córners más/menos:**
     - 8,5: más **1.67** · menos **2.10**
     - 9: más **1.90** · menos **1.90**
+    - 9,5: más **2.10** · menos **1.67**
 - **Córners 1X2:** 1 **6.50**  ·  X **11.00**  ·  2 **1.14**
-- **1X2 descanso:** 1 **11.00**  ·  X **2.88**  ·  2 **1.50**
+- **1X2 descanso:** 1 **15.00**  ·  X **3.50**  ·  2 **1.33**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
-- **To Win Either Half:** 1 **5.50**  ·  2 **1.11**
-- **To Score In Both Halves By Teams:** 1 **13.00**  ·  2 **1.73**
-- **Win Both Halves:** 1 **51.00**  ·  2 **2.25**
-- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **10.00**  ·  Away/Yes **3.20**  ·  Home/No **19.00**  ·  Draw/No **19.00**  ·  Away/No **1.73**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **3.00**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **2.88**
+- **To Win Either Half:** 1 **8.00**  ·  2 **1.06**
+- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.50**
+- **Win Both Halves:** 1 **101.00**  ·  2 **1.83**
+- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **13.00**  ·  Away/Yes **3.00**  ·  Home/No **26.00**  ·  Draw/No **26.00**  ·  Away/No **1.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **2.38**  ·  u/yes 2.5 **21.00**  ·  u/no 2.5 **3.60**
 - **Home Corners Over/Under:**
     - 2,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Anytime Goal Scorer:** Franziska Kett **5.00**  ·  Vanessa Gilles **5.00**  ·  Virginia Kirchberger **26.00**  ·  Katharina Schiechtl **26.00**  ·  Klara Buhl **2.05**  ·  Jovana Damnjanovic **1.67**  ·  Linda Dallmann **2.30**  ·  Alara Sehitler **3.40**  ·  Sarah Zadrazil **4.50**  ·  Giulia Gwinn **6.00**  ·  Glodis Perla Viggosdottir **8.50**  ·  Lena Oberdorf **4.00**  ·  Stine Ballisager **8.50**  ·  Katharina Naschenweng **4.00**  ·  Andrea Glibo **6.00**  ·  Sarah Mattner-Trembleau **1.80**  ·  Edna Imade **1.40**  ·  Barbara Dunst **3.40**  ·  Bernadette Amani **3.40**  ·  Kassandra Potsi **2.05**  ·  Alexandra Wolkart **15.00**  ·  Alisa Ziletkina **6.00**  ·  Almedina Sisic **8.50**  ·  Angela Pnishi **9.50**  ·  Anna Schorn **19.00**  ·  Antea Batarilo **9.50**  ·  Carina Wenninger **15.00**  ·  Elisa Pfattner **6.50**  ·  Emily Schafer **12.00**  ·  Katharina Moser **15.00**  ·  Lotta Cordes **15.00**  ·  Louise Schoffel **21.00**  ·  Modesta Uka **5.00**  ·  Tatjana Weiss **15.00**  ·  Yvonne Weilharter **21.00**  ·  Chiara Pucci **26.00**  ·  Lucia Orkic **26.00**  ·  Patricia Pfanner **8.50**  ·  Sandra Jakobsen **7.50**  ·  Valentina Potzl **15.00**  ·  Nina Pichler **15.00**  ·  Jana Kappes **4.50**  ·  Sophie Proost **3.40**  ·  Pernille Harder **1.80**  ·  Magdalena Eriksson **6.50**  ·  Verena Hanshaw **15.00**  ·  Momoko Tanikawa **2.60**
 
 ## Estadísticas de equipo
 | | Austria Wien W (total) | Austria Wien W en casa | Bayern Munich W (total) | Bayern Munich W fuera |
