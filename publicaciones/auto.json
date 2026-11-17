@@ -6837,9 +6837,9 @@
     ],
     "cuotas": [
       1.4,
-      1.5,
+      1.62,
       1.57,
-      1.67
+      1.62
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -6858,7 +6858,8 @@
     "cuota_bet365": 7.89,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T15:45"
   },
   {
     "id": "2026-11-17-loca-th-1730-lista-corners",
