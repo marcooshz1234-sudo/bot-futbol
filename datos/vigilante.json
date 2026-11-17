@@ -119,9 +119,31 @@
   "prensa-1528992-76fc01e1": "2026-11-17T00:08",
   "cuotamov-2026-11-17-loca-th-1900-x1000-1528993|Home Player Shots|Morten Hjulmand - 2": "2026-11-17T08:37",
   "prensa-1528999-73306ce3": "2026-11-17T09:31",
-  "cuotamov-2026-11-17-loca-th-1830-tiros-1528992|Home Player Shots|Harry Wilson - 2": "2026-11-17T13:57"
+  "cuotamov-2026-11-17-loca-th-1830-tiros-1528992|Home Player Shots|Harry Wilson - 2": "2026-11-17T13:57",
+  "directo-2026-11-17-pick-tip-2": "2026-11-17T14:53",
+  "prohibido-2026-11-17-pick-tip-2": "2026-11-17T14:53",
+  "cuotas-2026-11-17-pick-tip-2": "2026-11-17T14:53",
+  "directo-2026-11-17-pick-claude-2": "2026-11-17T14:53",
+  "repe-2026-11-17-1528993|Both Teams Score|Yes": "2026-11-17T14:53",
+  "repe-2026-11-17-1528996|Both Teams Score|Yes": "2026-11-17T14:53"
  },
  "abiertos": [
+  {
+   "clave": "directo-2026-11-17-pick-tip-2",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro para esta noche, de los que nos gustan mucho 🔥 (18:00)"
+  },
+  {
+   "clave": "prohibido-2026-11-17-pick-tip-2",
+   "t": "🚫 Lleva un mercado prohibido (Goals Over/Under|Over 2.5): Otro para esta noche, de los que nos gustan mucho 🔥"
+  },
+  {
+   "clave": "cuotas-2026-11-17-pick-tip-2",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Otro para esta noche, de los que nos gustan mucho 🔥"
+  },
+  {
+   "clave": "directo-2026-11-17-pick-claude-2",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick, familia 👇 (19:00)"
+  },
   {
    "clave": "cuotamov-2026-11-17-loca-th-1830-tiros-1528992|Home Player Shots|Harry Wilson - 2",
    "t": "📉 Gales–Portugal Harry Wilson - 2: la cuota ha pasado de 1.62 a 1.33 (-18%) desde que se hizo «🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯» (18:30). Suele haber una noticia detrás"
@@ -129,10 +151,42 @@
   {
    "clave": "cuotamov-2026-11-17-loca-th-1900-x1000-1528993|Home Player Shots|Morten Hjulmand - 2",
    "t": "📉 Dinamarca–Noruega Morten Hjulmand - 2: la cuota ha pasado de 2.62 a 1.91 (-27%) desde que se hizo «🚀 COMBI x835 🚀» (19:00). Suele haber una noticia detrás"
+  },
+  {
+   "clave": "repe-2026-11-17-1528993|Both Teams Score|Yes",
+   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-17-1528996|Both Teams Score|Yes",
+   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-claude-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
   }
  ],
- "revisado": "2026-11-17T14:42",
+ "revisado": "2026-11-17T14:53",
  "historial": [
+  {
+   "hora": "2026-11-17T14:53",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro para esta noche, de los que nos gustan mucho 🔥 (18:00)"
+  },
+  {
+   "hora": "2026-11-17T14:53",
+   "t": "🚫 Lleva un mercado prohibido (Goals Over/Under|Over 2.5): Otro para esta noche, de los que nos gustan mucho 🔥"
+  },
+  {
+   "hora": "2026-11-17T14:53",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Otro para esta noche, de los que nos gustan mucho 🔥"
+  },
+  {
+   "hora": "2026-11-17T14:53",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick, familia 👇 (19:00)"
+  },
+  {
+   "hora": "2026-11-17T14:53",
+   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
+  },
+  {
+   "hora": "2026-11-17T14:53",
+   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-claude-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
+  },
   {
    "hora": "2026-11-17T13:57",
    "t": "📉 Gales–Portugal Harry Wilson - 2: la cuota ha pasado de 1.62 a 1.33 (-18%) desde que se hizo «🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯» (18:30). Suele haber una noticia detrás"
@@ -348,30 +402,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0930-x100, loca-th-1400-x500, loca-th-1730-x500, loca-th-2000-x500)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 12 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0800-x1000, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1500-x1000, loca-th-1630-x100, loca-th-1730-x500, loca-th-1830-x100, loca-th-2000-x500)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1400-x500, loca-th-1430-lista-corners)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0700-lista-corners, loca-th-1200-x100, loca-th-1430-lista-corners, loca-th-1630-x100, loca-th-2030-lista-corners)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 9 posts (loca-th-0300-x100, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1530-x50, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 7 posts (loca-th-0400-lista-ambos, loca-th-1130-x500, loca-th-1200-x100, loca-th-1230-lista-ambos, loca-th-1630-x100, loca-th-1830-x100, loca-th-1900-lista-ambos)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 3 posts (loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1900-lista-ambos)"
   }
  ]
 }
