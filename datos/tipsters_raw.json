@@ -878,30 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47003",
-   "fecha": "2026-11-12T22:55",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-12T23:18",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47003.jpg"
-  },
-  {
-   "id": "-1001468963672/47002",
-   "fecha": "2026-11-12T22:55",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-12T23:18",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47002.jpg"
-  },
-  {
-   "id": "-1001468963672/47001",
-   "fecha": "2026-11-12T22:55",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-12T23:18",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47001.jpg"
-  },
-  {
    "id": "-1001468963672/47004",
    "fecha": "2026-11-12T22:56",
    "texto": "¡Lo vamos a partir! SIEMPRE CONFIANDO EN EL MÉTODO 🔝\n\nHay gente que se forra un día y al siguiente pierde todo. Nosotros con control y estabilidad, lo importante es final de mes, ganar y actualizar.",
@@ -2373,16 +2349,32 @@
    "texto": "✅ ¡VERDE OTRA EDICIÓN! \n14/14 este mes. ¡RÉCORD PERSONAL!",
    "foto": false,
    "visto": "2026-11-17T03:31"
+  },
+  {
+   "id": "-1001468963672/47233",
+   "fecha": "2026-11-17T03:50",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T03:53",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47233.jpg"
+  },
+  {
+   "id": "-1001468963672/47235",
+   "fecha": "2026-11-17T03:51",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-17T03:53",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47235.jpg"
+  },
+  {
+   "id": "-1001468963672/47234",
+   "fecha": "2026-11-17T03:51",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-17T03:53"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/86864",
-   "fecha": "2026-11-15T16:05",
-   "texto": "🇪🇸ESPAÑA 🆚 INGLATERRA🇬🇧\n\n🔤🔤🔤🔤🔤🔤🔤🔤\n\n❗️❗️❗️❗️❗️\n\n🇪🇸ESPAÑA 🆚 INGLATERRA🇬🇧\n\n🛍https://premiumpay.pro/2032/A",
-   "foto": false,
-   "visto": "2026-11-15T16:06"
-  },
   {
    "id": "-1002463340479/86865",
    "fecha": "2026-11-15T16:25",
@@ -3871,6 +3863,13 @@
    "texto": "🤩🤩🤩🤩  🤩🤩🤩🤩🤩🤩🤩\n\n❗️❗️ DE 30€ A 150.000€ 💸\n\n❗️❗️❗️❗️❗️❗️❗️❗️\n\n🛍https://premiumpay.pro/2032/A\n\n🚘🚘🚘🚘🚘🚘🚘🚘🚘",
    "foto": false,
    "visto": "2026-11-17T03:19"
+  },
+  {
+   "id": "-1002463340479/87067",
+   "fecha": "2026-11-17T03:45",
+   "texto": "👀🚘✅ Después de ACERTAR ✅  el RETO DE 30€ A 150.000€ hace TAN SÓLO 1 MES  ✅👀 \n--> https://t.me/+t76GyNAJIx41ZmI0\n\n⚠️ Yo entraría YA al RETO PORSCHE 🚘 DE 30€ A 150.000€ DE HOY 🎁\n\n--> https://premiumpay.pro/2032/A\n\n⬆️BORRO ACCESO EN UNOS MINUTOS ⌚️",
+   "foto": false,
+   "visto": "2026-11-17T03:53"
   }
  ],
  "TipsAnalistasNBA🏀": [

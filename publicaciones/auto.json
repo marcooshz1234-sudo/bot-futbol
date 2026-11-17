@@ -6260,7 +6260,7 @@
     "cuotas": [
       1.4,
       1.33,
-      1.44,
+      1.5,
       1.62,
       1.57,
       1.4,
@@ -6277,7 +6277,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T03:42"
+    "cuotas_revisadas": "2026-11-17T03:52"
   },
   {
     "id": "2026-11-17-loca-th-0600-tapados",
