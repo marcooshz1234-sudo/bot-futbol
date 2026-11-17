@@ -1,0 +1,24 @@
+{
+ "id": 1647369,
+ "fecha": "2026-11-17T14:00:00+00:00",
+ "estado": "FT",
+ "liga": 10,
+ "jornada": "Friendlies",
+ "local": {
+  "id": 1569,
+  "nombre": "Qatar"
+ },
+ "visitante": {
+  "id": 17,
+  "nombre": "South Korea"
+ },
+ "goles": [
+  0,
+  1
+ ],
+ "goles_90": [
+  0,
+  1
+ ],
+ "fuente": "a mano 17/11 22:25 · SBS News: Corea gana 1-0 (gol de Oh Se-hun)"
+}
