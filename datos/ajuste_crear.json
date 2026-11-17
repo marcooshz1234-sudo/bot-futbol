@@ -26,7 +26,7 @@
   "goles+tarjetas/partido": 0.0118,
   "goles+tiros/contrario": -0.023,
   "goles+tiros/partido": 0.0567,
-  "jugador+jugador/contrario": 0.0263,
+  "jugador+jugador/contrario": 0.0262,
   "jugador+jugador/mismo": -0.0067,
   "jugador+resultado/contrario": 0.034,
   "jugador+resultado/mismo": 0.0656,
@@ -44,7 +44,7 @@
   "tarjetas+tiros/partido": -0.0388
  },
  "beta": 1.014,
- "n": 54,
- "error_antes": 9.5,
- "error_ahora": 2.7
+ "n": 59,
+ "error_antes": 9.1,
+ "error_ahora": 2.5
 }

@@ -8364,5 +8364,213 @@
     ],
     "sin_foto": true,
     "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-0030-ganaambos",
+    "fecha": "2026-11-18T00:30",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n⚽ Real Madrid W – Inter Milano W · 18:45\n🏆 Gana Real Madrid W y ambos marcan\n\n⚽ Häcken W – Manchester City W · 18:45\n🏆 Gana Manchester City W y ambos marcan\n\n⚽ Chelsea W – Paris Saint Germain W · 21:00\n🏆 Gana Chelsea W y ambos marcan\n\n⚽ Juventus W – OH Leuven W · 21:00\n🏆 Gana Juventus W y ambos marcan\n\n🎯 CUOTA 59,76 💎 · 10€ → 598€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1638306|Results/Both Teams Score|Away/Yes",
+      "1638333|Results/Both Teams Score|Home/Yes",
+      "1638301|Results/Both Teams Score|Home/Yes",
+      "1638312|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.75,
+      2.62,
+      2.88,
+      2.88
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 59.76,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-0100-lista-corners",
+    "fecha": "2026-11-18T01:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. ⚽ Real Madrid W–Inter Milano W ➜ Inter Milano (fem.) más de 2,5 córners @1,67\n2. ⚽ Häcken W–Manchester City W ➜ +9,5 córners en Häcken (fem.)–Manchester City (fem.) @1,67\n3. ⚽ Chelsea W–Paris Saint Germain W ➜ +9,5 córners en Chelsea (fem.)–Paris Saint Germain (fem.) @1,80\n4. ⚽ Juventus W–OH Leuven W ➜ +9 córners en Juventus (fem.)–OH Leuven (fem.) @1,78\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638306|Corners Over Under|Over 9.5",
+      "1638333|Away Corners Over/Under|Over 2.5",
+      "1638301|Corners Over Under|Over 9.5",
+      "1638312|Corners Over Under|Over 9"
+    ],
+    "cuotas": [
+      1.67,
+      1.67,
+      1.8,
+      1.78
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-0200-duelo",
+    "fecha": "2026-11-18T02:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Real Madrid W vs Inter Milano W · 18:45\n\n🎯 Elisa Senss: 2+ tiros (Real Madrid W)\n🎯 Haley Bugeja: 2+ tiros (Inter Milano W)\n\n🎯 CUOTA 2,33 aprox. 💎 · 10€ → 23,30€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638333|Home Player Shots|Elisa Senss - 2",
+      "1638333|Away Player Shots|Haley Bugeja - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.33,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-0300-lista-corners",
+    "fecha": "2026-11-18T03:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. ⚽ Real Madrid W–Inter Milano W ➜ +9,5 córners en Real Madrid (fem.)–Inter Milano (fem.) @1,73\n2. ⚽ Häcken W–Manchester City W ➜ +10 córners en Häcken (fem.)–Manchester City (fem.) @1,90\n3. ⚽ Chelsea W–Paris Saint Germain W ➜ Chelsea (fem.) más de 6,5 córners @1,80\n4. ⚽ Juventus W–OH Leuven W ➜ Juventus (fem.) más de 5,5 córners @1,80\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638306|Corners Over Under|Over 10",
+      "1638333|Corners Over Under|Over 9.5",
+      "1638301|Home Corners Over/Under|Over 6.5",
+      "1638312|Home Corners Over/Under|Over 5.5"
+    ],
+    "cuotas": [
+      1.9,
+      1.73,
+      1.8,
+      1.8
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-18-loca-th-0400-tiros",
+    "fecha": "2026-11-18T04:00",
+    "texto": "🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯\n\n⭐ Real Madrid W – Inter Milano W · 18:45\n🎯 Elisa Senss: 2+ tiros\n🎯 Sandie Toletti: 2+ tiros\n🎯 Lotte Keukelaar: 3+ tiros\n🎯 Oihane San Martin: 2+ tiros\n🎯 Candela Rodriguez: 3+ tiros\n\n🎯 CUOTA 3,71 aprox. 💎 · 10€ → 37,10€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1638333|Home Player Shots|Elisa Senss - 2",
+      "1638333|Home Player Shots|Sandie Toletti - 2",
+      "1638333|Home Player Shots|Lotte Keukelaar - 3",
+      "1638333|Home Player Shots|Oihane San Martin - 2",
+      "1638333|Home Player Shots|Candela Rodriguez - 3"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 3.71,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-0500-duelo",
+    "fecha": "2026-11-18T05:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Real Madrid W vs Inter Milano W · 18:45\n\n🎯 Sandie Toletti: 2+ tiros (Real Madrid W)\n🎯 Haley Bugeja: 2+ tiros (Inter Milano W)\n\n🎯 CUOTA 2,33 aprox. 💎 · 10€ → 23,30€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638333|Home Player Shots|Sandie Toletti - 2",
+      "1638333|Away Player Shots|Haley Bugeja - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.33,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-0600-tiros",
+    "fecha": "2026-11-18T06:00",
+    "texto": "🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯\n\n⭐ Real Madrid W – Inter Milano W · 18:45\n🎯 Lotte Keukelaar: 3+ tiros\n🎯 Oihane San Martin: 2+ tiros\n🎯 Candela Rodriguez: 3+ tiros\n🎯 Filippa Angeldal: 2+ tiros\n🎯 Signe Bruun: 4+ tiros\n\n🎯 CUOTA 4,09 aprox. 💎 · 10€ → 40,90€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1638333|Home Player Shots|Lotte Keukelaar - 3",
+      "1638333|Home Player Shots|Oihane San Martin - 2",
+      "1638333|Home Player Shots|Candela Rodriguez - 3",
+      "1638333|Home Player Shots|Filippa Angeldal - 2",
+      "1638333|Home Player Shots|Signe Bruun - 4"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.44,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 4.09,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-0700-duelo",
+    "fecha": "2026-11-18T07:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Real Madrid W vs Inter Milano W · 18:45\n\n🎯 Filippa Angeldal: 2+ tiros (Real Madrid W)\n🎯 Michela Cambiaghi: 2+ tiros (Inter Milano W)\n\n🎯 CUOTA 2,39 aprox. 💎 · 10€ → 23,90€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638333|Home Player Shots|Filippa Angeldal - 2",
+      "1638333|Away Player Shots|Michela Cambiaghi - 2"
+    ],
+    "cuotas": [
+      1.44,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.39,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
   }
 ]

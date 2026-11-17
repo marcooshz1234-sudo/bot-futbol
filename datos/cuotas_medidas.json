@@ -2015,5 +2015,199 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-18-loca-th-0200-duelo",
+  "fecha": "2026-11-18T02:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638333|Home Player Shots|Elisa Senss - 2",
+   "1638333|Away Player Shots|Haley Bugeja - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.62
+  ],
+  "real": 2.33,
+  "multiplicando": 2.268,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-0400-tiros",
+  "fecha": "2026-11-18T04:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638333|Home Player Shots|Elisa Senss - 2",
+   "1638333|Home Player Shots|Sandie Toletti - 2",
+   "1638333|Home Player Shots|Lotte Keukelaar - 3",
+   "1638333|Home Player Shots|Oihane San Martin - 2",
+   "1638333|Home Player Shots|Candela Rodriguez - 3"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.4
+  ],
+  "real": 3.71,
+  "multiplicando": 5.378,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-0500-duelo",
+  "fecha": "2026-11-18T05:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638333|Home Player Shots|Sandie Toletti - 2",
+   "1638333|Away Player Shots|Haley Bugeja - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.62
+  ],
+  "real": 2.33,
+  "multiplicando": 2.268,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-0600-tiros",
+  "fecha": "2026-11-18T06:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638333|Home Player Shots|Lotte Keukelaar - 3",
+   "1638333|Home Player Shots|Oihane San Martin - 2",
+   "1638333|Home Player Shots|Candela Rodriguez - 3",
+   "1638333|Home Player Shots|Filippa Angeldal - 2",
+   "1638333|Home Player Shots|Signe Bruun - 4"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.44,
+   1.5
+  ],
+  "real": 4.09,
+  "multiplicando": 5.927,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-0700-duelo",
+  "fecha": "2026-11-18T07:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638333|Home Player Shots|Filippa Angeldal - 2",
+   "1638333|Away Player Shots|Michela Cambiaghi - 2"
+  ],
+  "cuotas": [
+   1.44,
+   1.62
+  ],
+  "real": 2.39,
+  "multiplicando": 2.333,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
  }
 ]
