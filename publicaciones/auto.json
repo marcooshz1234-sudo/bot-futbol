@@ -6769,7 +6769,7 @@
     ],
     "cuotas": [
       2.2,
-      2.2,
+      2.0,
       2.05,
       2.25,
       2.1,
@@ -6787,7 +6787,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T14:41"
+    "cuotas_revisadas": "2026-11-17T15:50"
   },
   {
     "id": "2026-11-17-loca-th-1630-escudos",
@@ -6802,7 +6802,7 @@
     "cuotas": [
       1.44,
       1.67,
-      1.53,
+      1.57,
       1.67
     ],
     "solo_redes": true,
@@ -6823,7 +6823,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T15:02"
+    "cuotas_revisadas": "2026-11-17T15:50"
   },
   {
     "id": "2026-11-17-loca-th-1700-escudos",
@@ -6837,7 +6837,7 @@
     ],
     "cuotas": [
       1.4,
-      1.62,
+      1.5,
       1.57,
       1.62
     ],
@@ -6859,7 +6859,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T15:45"
+    "cuotas_revisadas": "2026-11-17T15:50"
   },
   {
     "id": "2026-11-17-loca-th-1730-lista-corners",
