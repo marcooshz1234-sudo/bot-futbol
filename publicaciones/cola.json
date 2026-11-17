@@ -8498,7 +8498,14 @@
       "telegram"
     ],
     "enviado": "2026-11-17T22:43",
-    "mensaje_id": 528
+    "mensaje_id": 528,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-17-pick-tip-1",
@@ -8511,7 +8518,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-17-pick-tip-1",
     "enviado": "2026-11-17T22:58",
-    "mensaje_id": 529
+    "mensaje_id": 529,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-17-pick-tip-4",
