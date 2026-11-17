@@ -878,14 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47045",
-   "fecha": "2026-11-13T17:04",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-13T17:25",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47045.jpg"
-  },
-  {
    "id": "-1001468963672/47047",
    "fecha": "2026-11-13T17:26",
    "texto": "",
@@ -2376,6 +2368,14 @@
    "texto": "⚠️ [39/45] DE LAS PLAZAS OCUPADAS\n\n🛒 Accede aquí: https://tipsterperez.tipsterpage.com/GW5ECWtT\n\n~ A mí nadie me regala nada, esto es trabajo diario y constante, nuestros resultados a medio-largo plazo son para confiar en mi trabajo como Tipster.",
    "foto": false,
    "visto": "2026-11-17T17:52"
+  },
+  {
+   "id": "-1001468963672/47272",
+   "fecha": "2026-11-17T17:56",
+   "texto": "🔒 PLAZAS CERRADAS \n🍀 Resultados al finalizar.",
+   "foto": true,
+   "visto": "2026-11-17T18:02",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47272.jpg"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -4473,14 +4473,6 @@
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
   {
-   "id": "-1001550157115/100413",
-   "fecha": "2026-11-15T10:02",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-15T10:31",
-   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100413.jpg"
-  },
-  {
    "id": "-1001550157115/100412",
    "fecha": "2026-11-15T10:02",
    "texto": "",
@@ -5960,6 +5952,13 @@
    "texto": "ES HORA DE GANAR PASTA! ⚠️\n\nHa llegado el momento que llevamos tiempo esperando, tenemos la apuesta mas clara del dia y no quiero a nadie fuera de este grupl premium. Las estadisticas son una locura, esta apuesta deberia salir facil. ✔️\n\nNO TE QUEDES MIRANDO 👉 https://mypago.net/shop/grupoviptrader",
    "foto": false,
    "visto": "2026-11-17T17:52"
+  },
+  {
+   "id": "-1001550157115/100621",
+   "fecha": "2026-11-17T18:01",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-17T18:02"
   }
  ],
  "MisterBasquet 🏀": [
