@@ -36,3 +36,12 @@ class OracleA1(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TamanoGratis(unittest.TestCase):
+    def test_no_pide_mas_de_lo_gratis(self):
+        # 17/11: Oracle bajó lo gratis a 2 OCPU y 12 GB (15/06/2026); con la cuenta de pago, lo de más se cobraría
+        import oracle_a1
+        self.assertLessEqual(oracle_a1.OCPU, 2)
+        self.assertLessEqual(oracle_a1.MEMORIA, 12)
+        self.assertLessEqual(oracle_a1.DISCO, 200)

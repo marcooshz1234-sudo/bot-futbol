@@ -19,7 +19,7 @@ HECHO = CARPETA / "servidor.json"
 PUB = CARPETA / "combilocas.pub"
 NOMBRE = "combilocas-bot"
 FORMA = "VM.Standard.A1.Flex"
-OCPU, MEMORIA, DISCO = 4, 24, 100   # el máximo gratis (Always Free: 4 OCPU, 24 GB, 200 GB de disco en total)
+OCPU, MEMORIA, DISCO = 2, 12, 100   # 17/11: el máximo GRATIS desde el 15/06/2026 es 2 OCPU y 12 GB (antes 4 y 24); más se cobra con tarjeta
 SIN_HUECO = ("out of host capacity", "outofcapacity", "out of capacity")
 
 
