@@ -33,41 +33,19 @@
  },
  "top": [
   {
-   "local": "Hungary",
-   "visitante": "Northern Ireland",
+   "local": "Israel",
+   "visitante": "Austria",
    "inicio": "2026-11-17T20:45",
-   "texto": "Ambos marcan en Hungary–Northern Ireland",
-   "cuota": 2.2,
-   "justa": 2.17,
-   "ev": 0.012,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Bosnia & Herzegovina",
-   "visitante": "Romania",
-   "inicio": "2026-11-17T20:45",
-   "texto": "Romania marca",
-   "cuota": 1.4,
-   "justa": 1.39,
-   "ev": 0.006,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Hungary",
-   "visitante": "Northern Ireland",
-   "inicio": "2026-11-17T20:45",
-   "texto": "Northern Ireland marca",
-   "cuota": 1.67,
-   "justa": 1.7,
-   "ev": -0.018,
+   "texto": "Austria marca 2 o más",
+   "cuota": 1.73,
+   "justa": 1.69,
+   "ev": 0.021,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-17T18:35",
+  "hora": "2026-11-17T19:04",
   "revisadas": 0,
   "mejor": null
  },
