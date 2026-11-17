@@ -1,7 +1,7 @@
 # Girona – Eibar
 **Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Estadio Municipal de Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -203,17 +203,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 49% | 46% | 48% | 2.00 | -4% |
 | Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -10% |
 | Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 45% | 53% | 49% | 1.80 | -12% |
+| Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -12% |
 | Goles más/menos: Más de 3.5 | 24% | 31% | 28% | 3.00 | -17% |
 | Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 55% | 47% | 51% | 2.00 | +2% |
+| Goles más/menos: Menos de 2.5 | 54% | 47% | 51% | 2.00 | +2% |
 | Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 1.5 | 39% | 50% | 44% | 1.83 | -19% |
-| Goles del local: Más de 2.5 | 15% | 25% | 20% | 3.75 | -25% |
+| Goles del local: Más de 2.5 | 15% | 25% | 20% | 3.75 | -24% |
 | Goles del local: Menos de 1.5 | 61% | 50% | 56% | 1.83 | +2% |
 | Goles del local: Menos de 2.5 | 85% | 75% | 80% | 1.25 | -0% |
 | Goles del visitante: Más de 0.5 | 69% | 62% | 66% | 1.50 | -2% |

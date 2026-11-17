@@ -1,5 +1,37 @@
 # Lecciones del bot
 
+## 2026-11-16
+
+```
+🧠 LECCIONES DEL 16/11
+Picks del bot: 3 ✅ · 2 ❌ · 1 sin resultado
+
+❌ Lo que falló en lo publicado:
+• Albacete marca 2 o más → 1 de 2 goles
+• Aleksandar Mitrovic: 3+ tiros → 0 de 3 tiros
+• Ambos marcan en Albacete–Celta de Vigo II → 1 de 2 equipos que marcan
+• Ambos marcan en Alemania–Países Bajos → 1 de 2 equipos que marcan
+• Ambos marcan en Grecia–Serbia → 1 de 2 equipos que marcan
+• Ambos marcan en Islandia–Luxemburgo → 1 de 2 equipos que marcan
+• Ambos marcan en Islas Feroe–Moldavia → 1 de 2 equipos que marcan
+• Andreas Tetteh: 4+ tiros → 0 de 4 tiros
+• Angel Arcos: 2+ tiros → 1 de 2 tiros
+• Breel Embolo: 3+ tiros → 0 de 3 tiros
+• Celta de Vigo II gana alguna de las dos partes → Marcador: 1–0
+• Celta de Vigo II marca → 0 de 1 gol
+• Celta de Vigo II o empate → Marcador: 1–0
+• Christos Zafeiris: 2+ tiros → 0 de 2 tiros
+• Crysencio Summerville: 2+ tiros → 1 de 2 tiros
+
+❌ Fallos de los picks del bot y por qué:
+• Más de 8,5 córners en Estonia–Bulgaria — no llegó a la línea (2-1)
+• Gana el Slovakia — resultado 2-2
+
+📐 Modelo: 358/575 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-15
 
 ```

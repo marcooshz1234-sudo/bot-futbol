@@ -1,7 +1,7 @@
 # Estac Troyes – Le Havre
 **Ligue 1** · Regular Season - 11 · 20/11/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -225,7 +225,7 @@ _Goles esperados: local 1,40 · visitante 1,25 · córners esperados 9,3._
 | Goles del visitante: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
 | Córners más/menos: Más de 8.5 | 52% | 51% | 52% | 1.80 | -7% |
 | Córners más/menos: Menos de 8.5 | 48% | 49% | 48% | 1.91 | -8% |
-| 1X2 descanso: 2 | 26% | 25% | 26% | 3.75 | -4% |
+| 1X2 descanso: 2 | 26% | 25% | 25% | 3.75 | -4% |
 | 1X2 descanso: X | 43% | 40% | 42% | 2.30 | -4% |
 | 1X2 descanso: 1 | 31% | 35% | 33% | 2.62 | -14% |
 

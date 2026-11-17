@@ -1,7 +1,7 @@
 # Bournemouth – Nottingham Forest
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -187,19 +187,19 @@ _Goles esperados: local 1,61 · visitante 0,76 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 18% | 25% | 21% | 3.75 | -20% |
+| 1X2: 2 | 17% | 25% | 21% | 3.75 | -20% |
 | 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
 | 1X2: 1 | 58% | 48% | 53% | 1.95 | +3% |
 | Doble oportunidad: X2 | 42% | 52% | 47% | 1.80 | -15% |
 | Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 82% | 75% | 79% | 1.25 | -2% |
+| Doble oportunidad: 1X | 83% | 75% | 79% | 1.25 | -2% |
 | Ambos marcan: No | 57% | 45% | 51% | 2.05 | +5% |
 | Ambos marcan: Sí | 43% | 55% | 49% | 1.70 | -17% |
 | Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -10% |
-| Goles más/menos: Más de 2.5 | 42% | 53% | 48% | 1.80 | -14% |
+| Goles más/menos: Más de 2.5 | 42% | 53% | 47% | 1.80 | -15% |
 | Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
 | Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
-| Goles más/menos: Menos de 2.5 | 58% | 47% | 52% | 2.00 | +5% |
+| Goles más/menos: Menos de 2.5 | 58% | 47% | 53% | 2.00 | +5% |
 | Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
 | Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |

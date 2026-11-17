@@ -1,7 +1,7 @@
 # Chelsea – Leeds
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -181,16 +181,16 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | M. Zetterer | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,01 · visitante 1,44 · córners esperados 9,2._
+_Goles esperados: local 2,01 · visitante 1,43 · córners esperados 9,2._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 28% | 24% | 26% | 3.90 | +0% |
+| 1X2: 2 | 27% | 24% | 26% | 3.90 | +0% |
 | 1X2: X | 22% | 26% | 24% | 3.60 | -15% |
 | 1X2: 1 | 51% | 50% | 51% | 1.85 | -6% |
 | Doble oportunidad: X2 | 49% | 50% | 49% | 1.91 | -6% |
 | Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -2% |
-| Doble oportunidad: 1X | 72% | 76% | 74% | 1.25 | -7% |
+| Doble oportunidad: 1X | 73% | 76% | 74% | 1.25 | -7% |
 | Ambos marcan: No | 34% | 44% | 39% | 2.10 | -18% |
 | Ambos marcan: Sí | 66% | 56% | 61% | 1.67 | +2% |
 | Goles más/menos: Más de 1.5 | 86% | 78% | 82% | 1.22 | -0% |

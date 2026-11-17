@@ -1,7 +1,7 @@
 # Racing Santander – Real Sociedad
 **LaLiga** · Regular Season - 13 · 22/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | Héctor Fort | D | 7 | 216 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
+_Goles esperados: local 1,70 · visitante 2,22 · córners esperados 10,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@ _Goles esperados: local 1,70 · visitante 2,23 · córners esperados 10,7._
 | Goles del visitante: Menos de 2.5 | 62% | 69% | 65% | 1.36 | -11% |
 | Córners más/menos: Más de 10.5 | 47% | 52% | 49% | 1.82 | -10% |
 | Córners más/menos: Menos de 10.5 | 53% | 48% | 51% | 1.98 | +0% |
-| 1X2 descanso: 2 | 40% | 36% | 38% | 2.60 | -1% |
+| 1X2 descanso: 2 | 40% | 36% | 38% | 2.60 | -2% |
 | 1X2 descanso: X | 34% | 36% | 35% | 2.60 | -9% |
 | 1X2 descanso: 1 | 27% | 28% | 27% | 3.40 | -7% |
 

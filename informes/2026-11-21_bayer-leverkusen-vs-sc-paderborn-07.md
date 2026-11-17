@@ -1,7 +1,7 @@
 # Bayer Leverkusen – SC Paderborn 07
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -195,7 +195,7 @@ _Sin bajas comunicadas por ahora._
 | D. Zeitler | F | 3 | 118 | 0 | 0 | 7 | 2,3 | 5 | 1,7 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 0,84 · córners esperados 9,7._
+_Goles esperados: local 1,92 · visitante 0,83 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

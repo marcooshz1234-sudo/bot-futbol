@@ -12816,7 +12816,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.146,
-  "prob_aprendida": 0.677,
+  "prob_aprendida": 0.681,
   "acierto": null
  },
  "1528984|Goals Over/Under - Second Half|Over 1.5": {
@@ -12884,7 +12884,7 @@
   "valor_mercado": -0.035,
   "movimiento": -0.025,
   "ventaja": 0.137,
-  "prob_aprendida": 0.686,
+  "prob_aprendida": 0.693,
   "acierto": null
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
@@ -12906,7 +12906,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.235,
-  "prob_aprendida": 0.568,
+  "prob_aprendida": 0.566,
   "acierto": null
  },
  "1575229|Match Winner|Away": {
@@ -12972,7 +12972,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.593,
+  "prob_aprendida": 0.59,
   "acierto": null
  },
  "1550204|Home Player Shots On Target Total|Noa Lang - 1": {
@@ -12994,7 +12994,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.098,
-  "prob_aprendida": 0.573,
+  "prob_aprendida": 0.571,
   "acierto": null
  },
  "1528991|Match Winner|Home": {
@@ -13017,7 +13017,8 @@
   "movimiento": 0.0,
   "ventaja": 0.096,
   "prob_aprendida": 0.717,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1528986|Total - Away|Over 1.5": {
   "partido_id": 1528986,
@@ -13083,7 +13084,7 @@
   "valor_mercado": -0.017,
   "movimiento": -0.071,
   "ventaja": 0.062,
-  "prob_aprendida": 0.66,
+  "prob_aprendida": 0.664,
   "acierto": null
  },
  "1550199|To Win Either Half|Home": {
@@ -13127,7 +13128,7 @@
   "valor_mercado": -0.035,
   "movimiento": -0.035,
   "ventaja": 0.051,
-  "prob_aprendida": 0.691,
+  "prob_aprendida": 0.697,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13149,7 +13150,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.283,
-  "prob_aprendida": 0.663,
+  "prob_aprendida": 0.665,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13171,7 +13172,7 @@
   "valor_mercado": -0.006,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.609,
+  "prob_aprendida": 0.607,
   "acierto": null
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -13193,7 +13194,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.123,
-  "prob_aprendida": 0.627,
+  "prob_aprendida": 0.623,
   "acierto": null
  },
  "1528991|Home Player Shots|Konstantinos Mavropanos - 1": {
@@ -13216,7 +13217,8 @@
   "movimiento": null,
   "ventaja": 0.265,
   "prob_aprendida": 0.601,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1552823|Both Teams Score|Yes": {
   "partido_id": 1552823,
@@ -13278,10 +13280,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.019,
+  "valor_mercado": 0.033,
   "movimiento": null,
   "ventaja": 0.163,
-  "prob_aprendida": 0.447,
+  "prob_aprendida": 0.407,
   "acierto": null
  },
  "1570030|Match Winner|Home": {
@@ -13303,7 +13305,7 @@
   "valor_mercado": -0.041,
   "movimiento": -0.026,
   "ventaja": 0.059,
-  "prob_aprendida": 0.68,
+  "prob_aprendida": 0.686,
   "acierto": null
  },
  "1570030|To Win Either Half|Home": {
@@ -13325,7 +13327,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.083,
-  "prob_aprendida": 0.669,
+  "prob_aprendida": 0.673,
   "acierto": null
  },
  "1570030|Goals Over/Under - Second Half|Over 1.5": {
@@ -13392,7 +13394,7 @@
   "valor_mercado": null,
   "movimiento": -0.044,
   "ventaja": 0.031,
-  "prob_aprendida": 0.497,
+  "prob_aprendida": 0.495,
   "acierto": null
  },
  "1575222|Away Corners Over/Under|Over 2.5": {
@@ -13414,7 +13416,7 @@
   "valor_mercado": 0.081,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.414,
+  "prob_aprendida": 0.412,
   "acierto": null
  },
  "1552225|Both Teams Score|Yes": {
@@ -13481,7 +13483,7 @@
   "valor_mercado": -0.02,
   "movimiento": null,
   "ventaja": 0.083,
-  "prob_aprendida": 0.681,
+  "prob_aprendida": 0.685,
   "acierto": null
  },
  "1570030|Away Corners Over/Under|Over 3.5": {
@@ -13504,6 +13506,28 @@
   "movimiento": null,
   "ventaja": 0.2,
   "prob_aprendida": 0.404,
+  "acierto": null
+ },
+ "1528993|Match Winner|Home": {
+  "partido_id": 1528993,
+  "fecha": "2026-11-17T20:45",
+  "competicion": "Nations League",
+  "local": "Denmark",
+  "visitante": "Norway",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Gana el Denmark",
+  "cuota": 2.3,
+  "frecuencia": 0.6,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": -0.009,
+  "movimiento": -0.148,
+  "ventaja": 0.165,
+  "prob_aprendida": 0.643,
   "acierto": null
  }
 }

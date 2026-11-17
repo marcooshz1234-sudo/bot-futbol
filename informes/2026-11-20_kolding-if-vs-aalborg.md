@@ -1,7 +1,7 @@
 # Kolding IF – Aalborg
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Autocentralen Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:51_
@@ -145,12 +145,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 32% | 40% | 36% | 2.30 | -18% |
 | 1X2: X | 28% | 27% | 27% | 3.40 | -7% |
-| 1X2: 1 | 40% | 34% | 37% | 2.70 | +0% |
-| Doble oportunidad: X2 | 60% | 66% | 63% | 1.40 | -12% |
+| 1X2: 1 | 41% | 34% | 37% | 2.70 | +0% |
+| Doble oportunidad: X2 | 59% | 66% | 63% | 1.40 | -12% |
 | Doble oportunidad: 12 | 72% | 73% | 72% | 1.28 | -7% |
 | Doble oportunidad: 1X | 68% | 61% | 65% | 1.53 | -1% |
-| Ambos marcan: No | 52% | 41% | 47% | 2.25 | +5% |
-| Ambos marcan: Sí | 48% | 59% | 53% | 1.57 | -16% |
+| Ambos marcan: No | 53% | 41% | 47% | 2.25 | +5% |
+| Ambos marcan: Sí | 47% | 59% | 53% | 1.57 | -16% |
 | Goles más/menos: Más de 1.5 | 68% | 77% | 72% | 1.22 | -12% |
 | Goles más/menos: Más de 2.5 | 42% | 55% | 48% | 1.70 | -18% |
 | Goles más/menos: Más de 3.5 | 21% | 35% | 28% | 2.62 | -26% |
@@ -166,10 +166,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
 | Goles del local: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
 | Goles del visitante: Más de 0.5 | 66% | 77% | 71% | 1.22 | -13% |
-| Goles del visitante: Más de 1.5 | 30% | 46% | 38% | 2.00 | -24% |
+| Goles del visitante: Más de 1.5 | 29% | 46% | 38% | 2.00 | -24% |
 | Goles del visitante: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
 | Goles del visitante: Menos de 0.5 | 34% | 23% | 29% | 4.00 | +14% |
-| Goles del visitante: Menos de 1.5 | 70% | 54% | 62% | 1.73 | +7% |
+| Goles del visitante: Menos de 1.5 | 71% | 54% | 62% | 1.73 | +7% |
 | Goles del visitante: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
 | 1X2 descanso: 2 | 24% | 32% | 28% | 2.88 | -19% |
 | 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -1% |

@@ -1,7 +1,7 @@
 # Brentford – Everton
 **Premier League** · Regular Season - 11 · 23/11/2026 21:00 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -191,7 +191,7 @@ _Goles esperados: local 1,57 · visitante 1,14 · córners esperados 9,3._
 | 1X2: 1 | 47% | 47% | 47% | 2.00 | -6% |
 | Doble oportunidad: X2 | 53% | 52% | 53% | 1.80 | -5% |
 | Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 72% | 74% | 73% | 1.28 | -7% |
+| Doble oportunidad: 1X | 72% | 74% | 73% | 1.28 | -6% |
 | Ambos marcan: No | 46% | 42% | 44% | 2.20 | -3% |
 | Ambos marcan: Sí | 54% | 58% | 56% | 1.62 | -10% |
 | Goles más/menos: Más de 1.5 | 75% | 78% | 77% | 1.22 | -6% |
@@ -207,12 +207,12 @@ _Goles esperados: local 1,57 · visitante 1,14 · córners esperados 9,3._
 | Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
 | Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
 | Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
+| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -7% |
 | Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
 | Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 68% | 71% | 70% | 1.33 | -8% |
+| Goles del visitante: Más de 0.5 | 68% | 71% | 69% | 1.33 | -8% |
 | Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles del visitante: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -1% |
+| Goles del visitante: Menos de 0.5 | 32% | 29% | 31% | 3.25 | -1% |
 | Goles del visitante: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
 | 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -11% |
 | 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |

@@ -1,7 +1,7 @@
 # Osasuna – Malaga
 **LaLiga** · Regular Season - 13 · 22/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_

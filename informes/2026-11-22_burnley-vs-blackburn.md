@@ -1,7 +1,7 @@
 # Burnley – Blackburn
 **Championship** · Regular Season - 16 · 22/11/2026 13:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -191,7 +191,7 @@ _Sin bajas comunicadas por ahora._
 | Y. Ohashi | F | 7 | 159 | 0 | 1 | 3 | 0,4 | 2 | 0,3 | 8 | 5 | 0,7 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,43 · córners esperados 9,9._
+_Goles esperados: local 1,62 · visitante 1,42 · córners esperados 9,9._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -212,13 +212,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 2.5 | 41% | 47% | 44% | 2.00 | -11% |
 | Goles más/menos: Menos de 3.5 | 64% | 68% | 66% | 1.40 | -8% |
 | Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
 | Goles del local: Más de 1.5 | 48% | 51% | 50% | 1.80 | -10% |
-| Goles del local: Más de 2.5 | 22% | 27% | 24% | 3.50 | -14% |
+| Goles del local: Más de 2.5 | 22% | 27% | 25% | 3.50 | -14% |
 | Goles del local: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
-| Goles del local: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
+| Goles del local: Menos de 2.5 | 78% | 73% | 75% | 1.28 | -3% |
 | Goles del visitante: Más de 0.5 | 76% | 66% | 71% | 1.40 | -0% |
 | Goles del visitante: Más de 1.5 | 42% | 31% | 36% | 3.00 | +9% |
 | Goles del visitante: Menos de 0.5 | 24% | 34% | 29% | 2.75 | -21% |

@@ -1,10 +1,10 @@
 # Häcken W – Manchester City W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España) · Nordic Wellness Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 16:12_
+_Actualizadas: 17/11 02:16_
 
 - **1X2:** 1 **9.00**  ·  X **6.00**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.11**  ·  X2 **1.04**

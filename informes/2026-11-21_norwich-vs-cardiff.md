@@ -1,7 +1,7 @@
 # Norwich – Cardiff
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -202,7 +202,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 31% | 24% | 27% | 3.90 | +6% |
 | 1X2: X | 20% | 23% | 21% | 4.10 | -13% |
-| 1X2: 1 | 49% | 54% | 51% | 1.73 | -11% |
+| 1X2: 1 | 49% | 54% | 52% | 1.73 | -11% |
 | Doble oportunidad: X2 | 51% | 46% | 48% | 2.05 | -1% |
 | Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
 | Doble oportunidad: 1X | 69% | 76% | 73% | 1.25 | -9% |
@@ -216,25 +216,25 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 62% | 68% | 65% | 1.40 | -9% |
 | Goles 1ª parte más/menos: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles 1ª parte más/menos: Más de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 26% | 25% | 26% | 3.75 | -4% |
+| Goles 1ª parte más/menos: Más de 2.5 | 26% | 25% | 25% | 3.75 | -4% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -15% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 74% | 75% | 74% | 1.25 | -7% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 74% | 75% | 75% | 1.25 | -7% |
 | Goles del local: Más de 1.5 | 66% | 65% | 65% | 1.44 | -6% |
 | Goles del local: Más de 2.5 | 40% | 41% | 40% | 2.25 | -9% |
 | Goles del local: Más de 3.5 | 20% | 21% | 20% | 4.50 | -9% |
-| Goles del local: Menos de 1.5 | 34% | 35% | 35% | 2.62 | -9% |
+| Goles del local: Menos de 1.5 | 34% | 35% | 35% | 2.62 | -10% |
 | Goles del local: Menos de 2.5 | 60% | 59% | 60% | 1.57 | -6% |
 | Goles del local: Menos de 3.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles del visitante: Más de 0.5 | 83% | 75% | 79% | 1.25 | -1% |
 | Goles del visitante: Más de 1.5 | 53% | 44% | 49% | 2.10 | +2% |
-| Goles del visitante: Más de 2.5 | 27% | 21% | 24% | 4.50 | +6% |
+| Goles del visitante: Más de 2.5 | 26% | 21% | 24% | 4.50 | +6% |
 | Goles del visitante: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -22% |
 | Goles del visitante: Menos de 1.5 | 47% | 56% | 51% | 1.67 | -14% |
-| Goles del visitante: Menos de 2.5 | 73% | 79% | 76% | 1.18 | -10% |
+| Goles del visitante: Menos de 2.5 | 74% | 79% | 76% | 1.18 | -10% |
 | Córners más/menos: Más de 9.5 | 43% | 51% | 47% | 1.80 | -15% |
 | Córners más/menos: Menos de 9.5 | 57% | 49% | 53% | 1.91 | +0% |
-| 1X2 descanso: 2 | 28% | 23% | 26% | 4.00 | +2% |
+| 1X2 descanso: 2 | 28% | 23% | 25% | 4.00 | +2% |
 | 1X2 descanso: X | 33% | 34% | 34% | 2.75 | -8% |
 | 1X2 descanso: 1 | 39% | 43% | 41% | 2.20 | -10% |
 

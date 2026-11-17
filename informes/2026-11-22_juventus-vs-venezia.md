@@ -1,7 +1,7 @@
 # Juventus – Venezia
 **Serie A** · Regular Season - 12 · 22/11/2026 12:30 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -218,13 +218,13 @@ _Goles esperados: local 2,09 · visitante 0,71 · córners esperados 10,1._
 | Goles del local: Menos de 1.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles del local: Menos de 2.5 | 65% | 59% | 62% | 1.57 | -3% |
 | Goles del local: Menos de 3.5 | 84% | 78% | 81% | 1.20 | -3% |
-| Goles del visitante: Más de 0.5 | 51% | 54% | 52% | 1.73 | -9% |
+| Goles del visitante: Más de 0.5 | 51% | 54% | 52% | 1.73 | -10% |
 | Goles del visitante: Más de 1.5 | 16% | 21% | 18% | 4.50 | -17% |
 | Goles del visitante: Menos de 0.5 | 49% | 46% | 48% | 2.00 | -5% |
 | Goles del visitante: Menos de 1.5 | 84% | 79% | 82% | 1.18 | -4% |
 | Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -11% |
 | Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -3% |
-| 1X2 descanso: X | 38% | 36% | 37% | 2.62 | -3% |
+| 1X2 descanso: X | 39% | 36% | 37% | 2.62 | -3% |
 | 1X2 descanso: 1 | 49% | 52% | 51% | 1.80 | -9% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

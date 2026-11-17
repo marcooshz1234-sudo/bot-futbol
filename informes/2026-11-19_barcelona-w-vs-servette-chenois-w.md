@@ -1,10 +1,10 @@
 # Barcelona W – Servette Chênois W
-**Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Estadi Johan Cruyff
+**Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 17/11 02:17_
 
 - **1X2:** 1 **1.01**  ·  X **19.00**  ·  2 **34.00**
 - **Ambos marcan:** Sí **3.00**  ·  No **1.36**
@@ -164,16 +164,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 2.5 | 39% | 49% | 44% | 1.91 | -17% |
 | Goles 1ª parte más/menos: Menos de 3.5 | 61% | 69% | 65% | 1.36 | -12% |
 | Goles del local: Más de 3.5 | 89% | 78% | 84% | 1.20 | +0% |
-| Goles del local: Más de 4.5 | 78% | 65% | 71% | 1.44 | +2% |
+| Goles del local: Más de 4.5 | 78% | 65% | 71% | 1.44 | +3% |
 | Goles del local: Más de 5.5 | 63% | 50% | 57% | 1.83 | +4% |
 | Goles del local: Más de 6.5 | 48% | 35% | 42% | 2.62 | +9% |
 | Goles del local: Más de 7.5 | 33% | 23% | 28% | 4.00 | +13% |
 | Goles del local: Menos de 3.5 | 11% | 22% | 16% | 4.33 | -29% |
-| Goles del local: Menos de 4.5 | 22% | 35% | 29% | 2.62 | -24% |
+| Goles del local: Menos de 4.5 | 22% | 35% | 29% | 2.62 | -25% |
 | Goles del local: Menos de 5.5 | 37% | 50% | 43% | 1.83 | -21% |
 | Goles del local: Menos de 6.5 | 52% | 65% | 58% | 1.44 | -16% |
 | Goles del local: Menos de 7.5 | 67% | 77% | 72% | 1.22 | -12% |
-| Goles del visitante: Más de 0.5 | 54% | 31% | 43% | 3.00 | +28% |
-| Goles del visitante: Menos de 0.5 | 46% | 69% | 57% | 1.36 | -22% |
+| Goles del visitante: Más de 0.5 | 54% | 31% | 42% | 3.00 | +27% |
+| Goles del visitante: Menos de 0.5 | 46% | 69% | 58% | 1.36 | -22% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

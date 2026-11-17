@@ -1,7 +1,7 @@
 # Borussia Mönchengladbach – Borussia Dortmund
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -209,16 +209,16 @@ _Goles esperados: local 1,11 · visitante 2,14 · córners esperados 9,7._
 | Goles más/menos: Más de 3.5 | 41% | 45% | 43% | 2.10 | -10% |
 | Goles más/menos: Más de 4.5 | 23% | 25% | 24% | 3.75 | -9% |
 | Goles más/menos: Menos de 2.5 | 37% | 36% | 37% | 2.62 | -4% |
-| Goles más/menos: Menos de 3.5 | 59% | 55% | 57% | 1.73 | -2% |
+| Goles más/menos: Menos de 3.5 | 59% | 55% | 57% | 1.73 | -1% |
 | Goles más/menos: Menos de 4.5 | 77% | 75% | 76% | 1.28 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
 | Goles 1ª parte más/menos: Más de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
 | Goles 1ª parte más/menos: Más de 2.5 | 17% | 21% | 19% | 4.50 | -15% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -12% |
+| Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
 | Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
 | Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
 | Goles del visitante: Más de 1.5 | 63% | 62% | 63% | 1.50 | -6% |

@@ -5756,6 +5756,193 @@
     "cuotas_revisadas": "2026-11-16T19:00"
   },
   {
+    "id": "2026-11-17-loca-th-noche-2100-x100",
+    "fecha": "2026-11-16T21:00",
+    "texto": "🔥 COMBI POR 93,48 🔥\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Ethan Ampadu: 1+ tiros · 🚩 Portugal más de 5,5 córners\n🇩🇰 Dinamarca–Noruega 20:45\n🏆 Noruega gana una parte\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Willi Orban: 1+ tiros\n🇮🇱 Israel–Austria 20:45\n🚩 Austria más de 4,5 córners\n⚽ Irlanda–Kosovo 20:45\n🛡️ Kosovo o empate · 🎯 Vedat Muriqi: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Ianis Hagi: 2+ tiros\n\n🎯 CUOTA 93,48 aprox. 💎 10€ → 935€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528992|Home Player Shots|Ethan Ampadu - 1",
+      "1528992|Away Corners Over/Under|Over 5.5",
+      "1528993|To Win Either Half|Away",
+      "1528995|Home Player Shots|Willi Orban - 1",
+      "1528996|Away Corners Over/Under|Over 4.5",
+      "1528997|Double Chance|Draw/Away",
+      "1528997|Away Player Shots|Vedat Muriqi - 3",
+      "1528999|Away Player Shots|Ianis Hagi - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.8,
+      1.8,
+      1.73,
+      1.73,
+      1.7,
+      1.83,
+      1.73
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 93.48,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2130-ganaambos",
+    "fecha": "2026-11-16T21:30",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal · 20:45\n🏆 Gana Portugal y ambos marcan\n\n🇩🇰 Dinamarca – Noruega · 20:45\n🏆 Gana Dinamarca y ambos marcan\n\n🇵🇱 Polonia – Suecia · 20:45\n🏆 Gana Polonia y ambos marcan\n\n🇺🇦 Ucrania – Georgia · 20:45\n🏆 Gana Ucrania y ambos marcan\n\n🎯 CUOTA 202 💎 · 10€ → 2.025€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1528992|Results/Both Teams Score|Away/Yes",
+      "1528993|Results/Both Teams Score|Home/Yes",
+      "1528994|Results/Both Teams Score|Home/Yes",
+      "1528998|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.75,
+      3.75,
+      4.75,
+      4.0
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 202.0,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T20:11"
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2200-lista-ambos",
+    "fecha": "2026-11-16T22:00",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇩🇰 Dinamarca–Noruega ➜ Ambos marcan @1,44\n2. 🇧🇦 Bosnia–Rumanía ➜ Ambos marcan @1,80\n3. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Ambos marcan @1,73\n4. 🇮🇱 Israel–Austria ➜ Ambos marcan @1,62\n5. 🇵🇱 Polonia–Suecia ➜ Ambos marcan @1,53\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528992|Both Teams Score|Yes",
+      "1528993|Both Teams Score|Yes",
+      "1528996|Both Teams Score|Yes",
+      "1528998|Both Teams Score|Yes",
+      "1528999|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.73,
+      1.44,
+      1.67,
+      1.53,
+      1.73
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T21:18"
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2230-duelo",
+    "fecha": "2026-11-16T22:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Mohamed Daramy: 2+ tiros (Dinamarca)\n🎯 Erling Haaland: 4+ tiros (Noruega)\n\n🎯 CUOTA 2,07 aprox. 💎 · 10€ → 20,70€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1528993|Home Player Shots|Mohamed Daramy - 2",
+      "1528993|Away Player Shots|Erling Haaland - 4"
+    ],
+    "cuotas": [
+      1.36,
+      1.44
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.07,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T21:02"
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2300-x50",
+    "fecha": "2026-11-16T23:00",
+    "texto": "🤑 COMBI x51,16 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Ethan Ampadu: 1+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Thelonious Aasgaard: 2+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Andras Schafer: 1+ tiros\n🇮🇱 Israel–Austria 20:45\n🚩 Austria más córners\n⚽ Irlanda–Kosovo 20:45\n⚽ Kosovo marca · 🎯 Troy Parrott: 3+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🏆 Polonia gana una parte\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Florinel Coman: 2+ tiros\n\n🎯 CUOTA 51,16 aprox. 💎 10€ → 512€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1528992|Home Player Shots|Ethan Ampadu - 1",
+      "1528993|Away Player Shots|Thelonious Aasgaard - 2",
+      "1528995|Home Player Shots|Andras Schafer - 1",
+      "1528996|Corners 1x2|Away",
+      "1528997|Total - Away|Over 0.5",
+      "1528997|Home Player Shots|Troy Parrott - 3",
+      "1528998|To Win Either Half|Home",
+      "1528999|Away Player Shots|Florinel Coman - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.62,
+      1.44,
+      1.57,
+      1.57,
+      1.62,
+      1.62,
+      1.62
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 51.16,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-16T21:34"
+  },
+  {
+    "id": "2026-11-17-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-16T23:30",
+    "texto": "🔥 COMBI DEL DINAMARCA – NORUEGA 🔥\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Morten Hjulmand: 1+ tiros\n🎯 Mohamed Daramy: 2+ tiros\n🛡️ Dinamarca o empate\n\n🎯 CUOTA 2,92 aprox. 💎 10€ → 29,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528993|Home Player Shots|Morten Hjulmand - 1",
+      "1528993|Home Player Shots|Mohamed Daramy - 2",
+      "1528993|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.4,
+      1.36,
+      1.44
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.92,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "Denmark",
+      "visitante": "Norway",
+      "id_l": 21,
+      "id_v": 1090,
+      "logo_l": "https://media.api-sports.io/football/teams/21.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1090.png",
+      "fecha": "2026-11-17T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "cuota_total": 2.92,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-16T22:00"
+  },
+  {
     "id": "2026-11-17-ganadores-nations",
     "fecha": "2026-11-17T00:00",
     "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇭🇺 Hungría - Win\n2. 🇵🇱 Polonia - Win\n3. 🇵🇹 Portugal - Win\n4. ⚽ Irlanda - Win\n5. 🇺🇦 Ucrania - Win",
@@ -5828,23 +6015,470 @@
     "cuotas_revisadas": "2026-11-16T22:38"
   },
   {
+    "id": "2026-11-17-loca-th-0030-x100",
+    "fecha": "2026-11-17T00:30",
+    "texto": "💯 LA CENTENARIA x80,85 💯\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Goncalo Ramos: 4+ tiros · 🚩 +8,5 córners\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Jesper Lindstrom: 2+ tiros · ⚽ Dinamarca marca 2+\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Josh Magennis: 2+ tiros · 🚩 +8,5 córners\n🇧🇦 Bosnia–Rumanía 20:45\n🚩 +8,5 córners · 🎯 Ianis Hagi: 2+ tiros\n\n🎯 CUOTA 80,85 aprox. 💎 10€ → 808€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528992|Away Player Shots|Goncalo Ramos - 4",
+      "1528992|Corners Over Under|Over 8.5",
+      "1528993|Home Player Shots|Jesper Lindstrom - 2",
+      "1528993|Total - Home|Over 1.5",
+      "1528995|Away Player Shots|Josh Magennis - 2",
+      "1528995|Corners Over Under|Over 8.5",
+      "1528999|Corners Over Under|Over 8.5",
+      "1528999|Away Player Shots|Ianis Hagi - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.73,
+      1.83,
+      1.83,
+      1.83,
+      1.73,
+      1.8,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 80.85,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-ganadores-nations-2",
+    "fecha": "2026-11-17T00:35",
+    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇭🇺 Hungría - Win\n2. 🇵🇱 Polonia - Win\n3. 🇵🇹 Portugal - Win\n4. 🇮🇪 Irlanda - Win\n5. 🇺🇦 Ucrania - Win",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "solo_redes": true,
+    "forzar": true,
+    "sel": [
+      "1528995|Match Winner|Home",
+      "1528998|Match Winner|Home",
+      "1528992|Match Winner|Away",
+      "1528997|Match Winner|Home",
+      "1528994|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.95,
+      2.2,
+      1.42,
+      2.1,
+      2.15
+    ],
+    "ganadores_img": {
+      "titulo": "NATIONS LEAGUE",
+      "liga": 5,
+      "filas": [
+        {
+          "pais": "Hungary",
+          "bandera": "🇭🇺",
+          "escudo_url": "https://media.api-sports.io/football/teams/769.png",
+          "nombre": "Hungría",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Poland",
+          "bandera": "🇵🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/24.png",
+          "nombre": "Polonia",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/27.png",
+          "nombre": "Portugal",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Ireland",
+          "bandera": "🇮🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/776.png",
+          "nombre": "Irlanda",
+          "pick": "WIN",
+          "seleccion": true
+        },
+        {
+          "pais": "Ukraine",
+          "bandera": "🇺🇦",
+          "escudo_url": "https://media.api-sports.io/football/teams/772.png",
+          "nombre": "Ucrania",
+          "pick": "WIN",
+          "seleccion": true
+        }
+      ],
+      "lema": "¿TODO VERDE HOY?"
+    },
+    "cuotas_revisadas": "2026-11-16T22:38",
+    "repuesto_de": "2026-11-17-ganadores-nations",
+    "solo_en": [
+      "threads"
+    ],
+    "nota": "repuesto: Irlanda salía con ⚽ (la API la llama «Rep. Of Ireland»); Marcos borró el 1º"
+  },
+  {
+    "id": "2026-11-17-loca-th-0100-ganaambos",
+    "fecha": "2026-11-17T01:00",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal · 20:45\n🏆 Gana Portugal y ambos marcan\n\n🇩🇰 Dinamarca – Noruega · 20:45\n🏆 Gana Dinamarca y ambos marcan\n\n🇵🇱 Polonia – Suecia · 20:45\n🏆 Gana Polonia y ambos marcan\n\n🇺🇦 Ucrania – Georgia · 20:45\n🏆 Gana Ucrania y ambos marcan\n\n🎯 CUOTA 202 💎 · 10€ → 2.025€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1528992|Results/Both Teams Score|Away/Yes",
+      "1528993|Results/Both Teams Score|Home/Yes",
+      "1528994|Results/Both Teams Score|Home/Yes",
+      "1528998|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.75,
+      3.75,
+      4.75,
+      4.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 202.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T00:12"
+  },
+  {
+    "id": "2026-11-17-loca-th-0200-lista-ambos",
+    "fecha": "2026-11-17T02:00",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇩🇰 Dinamarca–Noruega ➜ Ambos marcan @1,44\n2. 🇧🇦 Bosnia–Rumanía ➜ Ambos marcan @1,80\n3. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Ambos marcan @1,73\n4. 🇮🇱 Israel–Austria ➜ Ambos marcan @1,62\n5. 🇵🇱 Polonia–Suecia ➜ Ambos marcan @1,53\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528992|Both Teams Score|Yes",
+      "1528993|Both Teams Score|Yes",
+      "1528996|Both Teams Score|Yes",
+      "1528998|Both Teams Score|Yes",
+      "1528999|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.73,
+      1.44,
+      1.67,
+      1.53,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T00:34"
+  },
+  {
+    "id": "2026-11-17-loca-th-0300-duelo",
+    "fecha": "2026-11-17T03:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Gustav Isaksen: 3+ tiros (Dinamarca)\n🎯 Erling Haaland: 4+ tiros (Noruega)\n\n🎯 CUOTA 2,26 aprox. 💎 · 10€ → 22,60€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1528993|Home Player Shots|Gustav Isaksen - 3",
+      "1528993|Away Player Shots|Erling Haaland - 4"
+    ],
+    "cuotas": [
+      1.53,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.26,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-17-loca-th-0400-x50",
+    "fecha": "2026-11-17T04:00",
+    "texto": "🤑 COMBI x44,48 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Fabio Silva: 3+ tiros\n🇺🇦 Ucrania–Georgia 20:45\n🛡️ Georgia o empate\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🦵 Willi Orban comete 1+ faltas · 🚩 Hungría más córners\n🇮🇱 Israel–Austria 20:45\n⚽ Austria marca 2+\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Fisnik Asllani: 2+ tiros · 🚩 Irlanda más córners\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Dennis Man: 2+ tiros\n\n🎯 CUOTA 44,48 aprox. 💎 10€ → 445€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528992|Away Player Shots|Fabio Silva - 3",
+      "1528994|Double Chance|Draw/Away",
+      "1528995|Player Fouls Committed|Willi Orban - 1",
+      "1528995|Corners 1x2|Home",
+      "1528996|Total - Away|Over 1.5",
+      "1528997|Away Player Shots|Fisnik Asllani - 2",
+      "1528997|Corners 1x2|Home",
+      "1528999|Away Player Shots|Dennis Man - 2"
+    ],
+    "cuotas": [
+      1.57,
+      1.67,
+      1.67,
+      1.57,
+      1.67,
+      1.62,
+      1.57,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 44.48,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-0500-hora",
+    "fecha": "2026-11-17T05:00",
+    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇩🇰 Dinamarca – Noruega ➜ 🎯 Morten Hjulmand: 1+ tiros\n🇧🇦 Bosnia – Rumanía ➜ 🎯 Ivan Basic: 1+ tiros\n🇺🇦 Ucrania – Georgia ➜ ⚽ Georgia marca\n🇭🇺 Hungría – Irlanda del Norte ➜ 🦵 Mark Csinger comete 1+ faltas\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal ➜ 🎯 Joao Felix: 3+ tiros\n🇮🇱 Israel – Austria ➜ 🚩 Austria hace más córners\n🇮🇪 Irlanda – Kosovo ➜ 🎯 Thomas Cannon: 2+ tiros\n🇵🇱 Polonia – Suecia ➜ 🏆 Polonia gana alguna de las dos partes\n\n🎯 CUOTA 23,44 💎 · 10€ → 234€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1528992|Away Player Shots|Joao Felix - 3",
+      "1528993|Home Player Shots|Morten Hjulmand - 1",
+      "1528994|Total - Away|Over 0.5",
+      "1528995|Player Fouls Committed|Mark Csinger - 1",
+      "1528996|Corners 1x2|Away",
+      "1528997|Home Player Shots|Thomas Cannon - 2",
+      "1528998|To Win Either Half|Home",
+      "1528999|Home Player Shots|Ivan Basic - 1"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.44,
+      1.62,
+      1.57,
+      1.4,
+      1.62,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 23.44,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-0600-tapados",
+    "fecha": "2026-11-17T06:00",
+    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇺🇦 Ucrania – Georgia ➜ 🛡️ Georgia o empate @1,67\n🇮🇪 Irlanda – Kosovo ➜ 🛡️ Kosovo o empate @1,70\n🇭🇺 Hungría – Irlanda del Norte ➜ 🛡️ Irlanda del Norte o empate @1,83\n🇧🇦 Bosnia – Rumanía ➜ 🛡️ Rumanía o empate @1,95\n\n🎯 CUOTA 10,13 💎 · 10€ → 101€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1528994|Double Chance|Draw/Away",
+      "1528995|Double Chance|Draw/Away",
+      "1528997|Double Chance|Draw/Away",
+      "1528999|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.67,
+      1.83,
+      1.7,
+      1.95
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.13,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-0700-lista-corners",
+    "fecha": "2026-11-17T07:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇩🇰 Dinamarca–Noruega ➜ +9 córners @1,88\n2. 🇧🇦 Bosnia–Rumanía ➜ Bosnia más córners @1,44\n3. 🇺🇦 Ucrania–Georgia ➜ +8,5 córners @1,67\n4. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más córners @1,57\n5. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Gales más de 2,5 córners @1,67\n6. 🇮🇱 Israel–Austria ➜ Austria más de 4,5 córners @1,73\n7. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más córners @1,57\n8. 🇵🇱 Polonia–Suecia ➜ Suecia más de 3,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528992|Home Corners Over/Under|Over 2.5",
+      "1528993|Corners Over Under|Over 9",
+      "1528994|Corners Over Under|Over 8.5",
+      "1528995|Corners 1x2|Home",
+      "1528996|Away Corners Over/Under|Over 4.5",
+      "1528997|Corners 1x2|Home",
+      "1528998|Away Corners Over/Under|Over 3.5",
+      "1528999|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.67,
+      1.88,
+      1.67,
+      1.57,
+      1.73,
+      1.57,
+      1.67,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-17-loca-th-0800-empates",
+    "fecha": "2026-11-17T08:00",
+    "texto": "🤝 LA COMBI DE LOS EMPATES 🤝\n\n🇮🇪 Irlanda – Kosovo · 20:45 ➜ 🤝 Empate @3,10\n🇺🇦 Ucrania – Georgia · 20:45 ➜ 🤝 Empate @3,25\n🇭🇺 Hungría – Irlanda del Norte · 20:45 ➜ 🤝 Empate @3,30\n\n🎯 CUOTA 33,25 💎 · 10€ → 332€\n\n😮‍💨 Para valientes 😮‍💨",
+    "sel": [
+      "1528994|Match Winner|Draw",
+      "1528995|Match Winner|Draw",
+      "1528997|Match Winner|Draw"
+    ],
+    "cuotas": [
+      3.25,
+      3.3,
+      3.1
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 33.25,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-0900-reto",
+    "fecha": "2026-11-17T09:00",
+    "texto": "💶 RETO: DE 1€ A 869€ 💶\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Harry Wilson: 3+ tiros · 🛡️ Gales o empate\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Andreas Schjelderup: 3+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🏆 Irlanda del Norte gana una parte · 🎯 Gabor Jurek: 3+ tiros\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Jack Moylan: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Matej Deket: 4+ tiros\n\n🎯 CUOTA 869 aprox. 💎 1€ → 869€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1528992|Home Player Shots|Harry Wilson - 3",
+      "1528992|Double Chance|Home/Draw",
+      "1528993|Away Player Shots|Andreas Schjelderup - 3",
+      "1528995|To Win Either Half|Away",
+      "1528995|Home Player Shots|Gabor Jurek - 3",
+      "1528997|Home Player Shots|Jack Moylan - 3",
+      "1528999|Home Player Shots|Matej Deket - 4"
+    ],
+    "cuotas": [
+      2.75,
+      2.75,
+      2.5,
+      2.62,
+      2.5,
+      2.5,
+      2.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 869.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-0930-tiros",
+    "fecha": "2026-11-17T09:30",
+    "texto": "🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯\n\n⭐ Gales – Portugal · 20:45\n🎯 Joao Felix: 3+ tiros\n🎯 Pedro Neto: 2+ tiros\n🎯 Fabio Silva: 3+ tiros\n🎯 Bruno Fernandes: 3+ tiros\n🎯 Rafael Leao: 3+ tiros\n\n🎯 CUOTA 5,38 aprox. 💎 · 10€ → 53,80€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1528992|Away Player Shots|Joao Felix - 3",
+      "1528992|Away Player Shots|Pedro Neto - 2",
+      "1528992|Away Player Shots|Fabio Silva - 3",
+      "1528992|Away Player Shots|Bruno Fernandes - 3",
+      "1528992|Away Player Shots|Rafael Leao - 3"
+    ],
+    "cuotas": [
+      1.4,
+      1.44,
+      1.57,
+      1.57,
+      1.57
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 5.38,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1000-lista-corners",
+    "fecha": "2026-11-17T10:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇩🇰 Dinamarca–Noruega ➜ +9 córners @1,88\n2. 🇧🇦 Bosnia–Rumanía ➜ Bosnia más córners @1,44\n3. 🇺🇦 Ucrania–Georgia ➜ +8,5 córners @1,67\n4. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más de 4,5 córners @1,67\n5. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ +8,5 córners @1,73\n6. 🇮🇱 Israel–Austria ➜ +8,5 córners @1,85\n7. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más de 4,5 córners @1,67\n8. 🇵🇱 Polonia–Suecia ➜ Suecia más de 3,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528992|Corners Over Under|Over 8.5",
+      "1528993|Corners Over Under|Over 9",
+      "1528994|Corners Over Under|Over 8.5",
+      "1528995|Home Corners Over/Under|Over 4.5",
+      "1528996|Corners Over Under|Over 8.5",
+      "1528997|Home Corners Over/Under|Over 4.5",
+      "1528998|Away Corners Over/Under|Over 3.5",
+      "1528999|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.73,
+      1.88,
+      1.67,
+      1.67,
+      1.85,
+      1.67,
+      1.67,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
     "id": "2026-11-17-pick-seguro",
     "fecha": "2026-11-17T10:30",
-    "texto": "Este lo tenemos claro 🔥\n\n⚽ Gales – Portugal · 20:45\n\n🍀 Wales marca @1,57\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Este lo tenemos claro 🔥\n\n⚽ Polonia – Suecia · 20:45\n\n🍀 Poland ve más de 1,5 tarjetas @1,67\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528992|Total - Home|Over 0.5"
+      "1528998|Home Team Total Cards|Over 1.5"
     ],
     "cuotas": [
-      1.57
+      1.67
     ]
   },
   {
     "id": "2026-11-17-escalera",
     "fecha": "2026-11-17T11:00",
-    "texto": "🪜 Reto escalera · Día 1/7\n📈 De las que hemos estudiado bien\n\nAyer no salió el día 1. Borrón y cuenta nueva: otra vez desde 20€ 💪\n\n🇮🇱 Israel marca\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales marca\n\n📈 Cuota @2,20\n💶 20,00€ → 44,00€",
+    "texto": "🪜 Reto escalera · Día 1/7\n📈 De las que hemos estudiado bien\n\nAyer no salió el día 1. Borrón y cuenta nueva: otra vez desde 20€ 💪\n\n🇮🇱 Israel marca\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales marca\n\n📈 Cuota @2,14\n💶 20,00€ → 42,80€",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -5854,71 +6488,480 @@
     ],
     "cuotas": [
       1.4,
-      1.57
+      1.53
     ]
+  },
+  {
+    "id": "2026-11-17-loca-th-1130-duelo",
+    "fecha": "2026-11-17T11:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Gustav Isaksen: 3+ tiros (Dinamarca)\n🎯 Hugo Vetlesen: 2+ tiros (Noruega)\n\n🎯 CUOTA 2,40 aprox. 💎 · 10€ → 24,00€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1528993|Home Player Shots|Gustav Isaksen - 3",
+      "1528993|Away Player Shots|Hugo Vetlesen - 2"
+    ],
+    "cuotas": [
+      1.53,
+      1.53
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.4,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1200-x100",
+    "fecha": "2026-11-17T12:00",
+    "texto": "💯 LA CENTENARIA x115 💯\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Rodrigo Mora: 3+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Felix Myhre: 2+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Daniel Lukacs: 3+ tiros · 🚩 Irlanda del Norte más de 3,5 córners\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Finn Azaz: 3+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🚩 +8,5 córners · ⚽ Polonia marca 2+\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Ianis Stoica: 2+ tiros\n\n🎯 CUOTA 115 aprox. 💎 10€ → 1.153€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1528992|Away Player Shots|Rodrigo Mora - 3",
+      "1528993|Away Player Shots|Felix Myhre - 2",
+      "1528995|Home Player Shots|Daniel Lukacs - 3",
+      "1528995|Away Corners Over/Under|Over 3.5",
+      "1528997|Home Player Shots|Finn Azaz - 3",
+      "1528998|Corners Over Under|Over 8.5",
+      "1528998|Total - Home|Over 1.5",
+      "1528999|Away Player Shots|Ianis Stoica - 2"
+    ],
+    "cuotas": [
+      1.73,
+      1.83,
+      1.83,
+      1.8,
+      1.83,
+      1.8,
+      1.83,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 115.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-pick-seguro-3",
+    "fecha": "2026-11-17T12:30",
+    "texto": "Os dejo el pick, familia 👇\n\n⚽ Bosnia – Rumanía · 20:45\n\n🍀 Bosnia & Herzegovina ve más de 1,5 tarjetas @1,62\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1528999|Home Team Total Cards|Over 1.5"
+    ],
+    "cuotas": [
+      1.62
+    ]
+  },
+  {
+    "id": "2026-11-17-loca-th-1230-x50",
+    "fecha": "2026-11-17T12:30",
+    "texto": "🤑 COMBI x48,94 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Bruno Fernandes: 3+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Oscar Bobb: 2+ tiros · 🏆 Dinamarca gana una parte\n🇺🇦 Ucrania–Georgia 20:45\n🚩 Georgia más de 3,5 córners\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🦵 Mark Csinger comete 1+ faltas · 🏆 Hungría gana una parte\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Rocco Vata: 2+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Rares Ilie: 2+ tiros\n\n🎯 CUOTA 48,94 aprox. 💎 10€ → 489€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528992|Away Player Shots|Bruno Fernandes - 3",
+      "1528993|Away Player Shots|Oscar Bobb - 2",
+      "1528993|To Win Either Half|Home",
+      "1528994|Away Corners Over/Under|Over 3.5",
+      "1528995|Player Fouls Committed|Mark Csinger - 1",
+      "1528995|To Win Either Half|Home",
+      "1528997|Home Player Shots|Rocco Vata - 2",
+      "1528999|Away Player Shots|Rares Ilie - 2"
+    ],
+    "cuotas": [
+      1.57,
+      1.62,
+      1.67,
+      1.67,
+      1.62,
+      1.57,
+      1.67,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 48.94,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1300-tapados",
+    "fecha": "2026-11-17T13:00",
+    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇭🇺 Hungría – Irlanda del Norte ➜ 🛡️ Irlanda del Norte o empate @1,83\n🇧🇦 Bosnia – Rumanía ➜ 🛡️ Rumanía o empate @1,95\n🇮🇱 Israel – Austria ➜ 🛡️ Israel o empate @1,95\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal ➜ 🛡️ Gales o empate @2,75\n\n🎯 CUOTA 19,14 💎 · 10€ → 191€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1528992|Double Chance|Home/Draw",
+      "1528995|Double Chance|Draw/Away",
+      "1528996|Double Chance|Home/Draw",
+      "1528999|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      2.75,
+      1.83,
+      1.95,
+      1.95
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 19.14,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
   },
   {
     "id": "2026-11-17-combi-tres",
     "fecha": "2026-11-17T13:30",
-    "texto": "Vamos con la combi del martes familia 🔥\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Más de 1,5 goles en la 2ª parte del Wales–Portugal\n🇭🇺 Willi Orban (Hungary): 1+ tiros\n\n📈 Cuota @3,11",
+    "texto": "Vamos con la combi del martes familia 🔥\n\n🇵🇱 Poland ve más de 1,5 tarjetas\n🇧🇦 Bosnia & Herzegovina ve más de 1,5 tarjetas\n\n📈 Cuota @2,71",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528992|Goals Over/Under - Second Half|Over 1.5",
-      "1528995|Home Player Shots|Willi Orban - 1"
+      "1528998|Home Team Total Cards|Over 1.5",
+      "1528999|Home Team Total Cards|Over 1.5"
+    ],
+    "cuotas": [
+      1.67,
+      1.62
+    ]
+  },
+  {
+    "id": "2026-11-17-loca-th-1400-lista-corners",
+    "fecha": "2026-11-17T14:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇧🇦 Bosnia–Rumanía ➜ +8,5 córners @1,80\n2. 🇺🇦 Ucrania–Georgia ➜ Georgia más de 3,5 córners @1,67\n3. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más de 4,5 córners @1,67\n4. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Portugal más de 5,5 córners @1,80\n5. 🇮🇱 Israel–Austria ➜ +8,5 córners @1,85\n6. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más de 4,5 córners @1,67\n7. 🇵🇱 Polonia–Suecia ➜ +8,5 córners @1,80\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528992|Away Corners Over/Under|Over 5.5",
+      "1528994|Away Corners Over/Under|Over 3.5",
+      "1528995|Home Corners Over/Under|Over 4.5",
+      "1528996|Corners Over Under|Over 8.5",
+      "1528997|Home Corners Over/Under|Over 4.5",
+      "1528998|Corners Over Under|Over 8.5",
+      "1528999|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
       1.8,
+      1.67,
+      1.67,
+      1.85,
+      1.67,
+      1.8,
+      1.8
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1430-x500",
+    "fecha": "2026-11-17T14:30",
+    "texto": "🤪 LA LOCURA DE x632 🤪\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Daniel James: 2+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Mohamed Daramy: 3+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Jamie Donley: 2+ tiros\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Milot Rashica: 2+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🏆 Gana Polonia · ⚽ Suecia marca 2+\n🇧🇦 Bosnia–Rumanía 20:45\n🚩 Rumanía más de 3,5 córners · 🎯 Daniel Birligea: 3+ tiros\n\n🎯 CUOTA 632 aprox. 💎 10€ → 6.317€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1528992|Home Player Shots|Daniel James - 2",
+      "1528993|Home Player Shots|Mohamed Daramy - 3",
+      "1528995|Away Player Shots|Jamie Donley - 2",
+      "1528997|Away Player Shots|Milot Rashica - 2",
+      "1528998|Match Winner|Home",
+      "1528998|Total - Away|Over 1.5",
+      "1528999|Away Corners Over/Under|Over 3.5",
+      "1528999|Away Player Shots|Daniel Birligea - 3"
+    ],
+    "cuotas": [
+      2.1,
+      2.1,
+      2.1,
+      2.1,
+      2.2,
+      2.25,
+      2.1,
+      2.1
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 632.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1500-duelo",
+    "fecha": "2026-11-17T15:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 William Osula: 3+ tiros (Dinamarca)\n🎯 Hugo Vetlesen: 2+ tiros (Noruega)\n\n🎯 CUOTA 2,62 aprox. 💎 · 10€ → 26,20€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1528993|Home Player Shots|William Osula - 3",
+      "1528993|Away Player Shots|Hugo Vetlesen - 2"
+    ],
+    "cuotas": [
+      1.67,
+      1.53
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.62,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1530-lista-corners",
+    "fecha": "2026-11-17T15:30",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇺🇦 Ucrania–Georgia ➜ Ucrania más de 4,5 córners @1,80\n2. 🇭🇺 Hungría–Irlanda del Norte ➜ +8,5 córners @1,73\n3. 🇮🇪 Irlanda–Kosovo ➜ +8,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528994|Home Corners Over/Under|Over 4.5",
+      "1528995|Corners Over Under|Over 8.5",
+      "1528997|Corners Over Under|Over 8.5"
+    ],
+    "cuotas": [
+      1.8,
+      1.73,
       1.73
     ],
-    "solo_redes": true
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-17-loca-th-1600-x500",
+    "fecha": "2026-11-17T16:00",
+    "texto": "💎 COMBI x433 💎\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Sorba Thomas: 2+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Jorgen Larsen: 4+ tiros · 🚩 Dinamarca más córners\n🇺🇦 Ucrania–Georgia 20:45\n🏆 Georgia gana una parte\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Callum Marshall: 2+ tiros\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Adam Idah: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Jovo Lukic: 4+ tiros · 🚩 Bosnia más de 5,5 córners\n\n🎯 CUOTA 433 aprox. 💎 10€ → 4.333€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528992|Home Player Shots|Sorba Thomas - 2",
+      "1528993|Away Player Shots|Jorgen Larsen - 4",
+      "1528993|Corners 1x2|Home",
+      "1528994|To Win Either Half|Away",
+      "1528995|Away Player Shots|Callum Marshall - 2",
+      "1528997|Home Player Shots|Adam Idah - 3",
+      "1528999|Home Player Shots|Jovo Lukic - 4",
+      "1528999|Home Corners Over/Under|Over 5.5"
+    ],
+    "cuotas": [
+      2.2,
+      2.2,
+      2.1,
+      2.2,
+      2.1,
+      2.1,
+      2.25,
+      2.1
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 433.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1630-escudos",
+    "fecha": "2026-11-17T16:30",
+    "texto": "🔥 COMBI DEL HUNGRÍA – IRLANDA DEL NORTE 🔥\n\n⭐ Hungría vs Irlanda del Norte · 20:45\n\n🎯 Andras Schafer: 1+ tiros\n🦵 Willi Orban comete 1+ faltas\n🏆 Hungría gana una parte\n🇮🇪 Irlanda del Norte marca\n\n🎯 CUOTA 9,42 aprox. 💎 10€ → 94,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528995|Home Player Shots|Andras Schafer - 1",
+      "1528995|Player Fouls Committed|Willi Orban - 1",
+      "1528995|To Win Either Half|Home",
+      "1528995|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.67,
+      1.57,
+      1.67
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Hungary",
+      "visitante": "Northern Ireland",
+      "id_l": 769,
+      "id_v": 771,
+      "logo_l": "https://media.api-sports.io/football/teams/769.png",
+      "logo_v": "https://media.api-sports.io/football/teams/771.png",
+      "fecha": "2026-11-17T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "cuota_total": 9.42,
+    "cuota_calculada": true,
+    "cuota_bet365": 9.42,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1700-escudos",
+    "fecha": "2026-11-17T17:00",
+    "texto": "🔥 COMBI DEL IRLANDA – KOSOVO 🔥\n\n⭐ Irlanda vs Kosovo · 20:45\n\n🎯 Thomas Cannon: 2+ tiros\n🎯 Enis Redzepi: 2+ tiros\n⚽ Kosovo marca\n🏆 Irlanda gana una parte\n\n🎯 CUOTA 7,89 aprox. 💎 10€ → 78,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1528997|Home Player Shots|Thomas Cannon - 2",
+      "1528997|Away Player Shots|Enis Redzepi - 2",
+      "1528997|Total - Away|Over 0.5",
+      "1528997|To Win Either Half|Home"
+    ],
+    "cuotas": [
+      1.4,
+      1.5,
+      1.57,
+      1.67
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Rep. Of Ireland",
+      "visitante": "Kosovo",
+      "id_l": 776,
+      "id_v": 1111,
+      "logo_l": "https://media.api-sports.io/football/teams/776.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1111.png",
+      "fecha": "2026-11-17T20:45",
+      "liga": "UEFA Nations League"
+    },
+    "cuota_total": 7.89,
+    "cuota_calculada": true,
+    "cuota_bet365": 7.89,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1730-lista-corners",
+    "fecha": "2026-11-17T17:30",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇺🇦 Ucrania–Georgia ➜ Ucrania más de 4,5 córners @1,80\n2. 🇭🇺 Hungría–Irlanda del Norte ➜ Irlanda del Norte más de 3,5 córners @1,80\n3. 🇮🇪 Irlanda–Kosovo ➜ +8,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1528994|Home Corners Over/Under|Over 4.5",
+      "1528995|Away Corners Over/Under|Over 3.5",
+      "1528997|Corners Over Under|Over 8.5"
+    ],
+    "cuotas": [
+      1.8,
+      1.8,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
   },
   {
     "id": "2026-11-17-pick-seguro-2",
     "fecha": "2026-11-17T18:00",
-    "texto": "Vamos con el pick de hoy familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Israel – Austria · 20:45\n\n🍀 Israel marca @1,40\n🧠 Stake 3/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Gales – Portugal · 20:45\n\n🍀 Wales marca @1,53\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528996|Total - Home|Over 0.5"
+      "1528992|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.4
+      1.53
     ]
   },
   {
-    "id": "2026-11-17-combi-partido-1528992",
-    "fecha": "2026-11-17T19:45",
-    "texto": "Os dejo la combi del Gales – Portugal ⚽🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Gana el Portugal\n🍀 Wales hace más de 2,5 córners\n🍀 Portugal marca 2 o más\n\n📈 Cuota @5,04 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
+    "id": "2026-11-17-loca-th-1830-tiros",
+    "fecha": "2026-11-17T18:30",
+    "texto": "🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯\n\n⭐ Gales – Portugal · 20:45\n🎯 Pedro Neto: 2+ tiros\n🎯 Rafael Leao: 3+ tiros\n🎯 Harry Wilson: 2+ tiros\n🎯 Mark Harris: 2+ tiros\n🎯 Rodrigo Mora: 3+ tiros\n\n🎯 CUOTA 10,68 aprox. 💎 · 10€ → 107€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
     "sel": [
-      "1528992|Goals Over/Under - Second Half|Over 1.5",
-      "1528992|Match Winner|Away",
-      "1528992|Home Corners Over/Under|Over 2.5",
-      "1528992|Total - Away|Over 1.5"
+      "1528992|Away Player Shots|Pedro Neto - 2",
+      "1528992|Away Player Shots|Rafael Leao - 3",
+      "1528992|Home Player Shots|Harry Wilson - 2",
+      "1528992|Home Player Shots|Mark Harris - 2",
+      "1528992|Away Player Shots|Rodrigo Mora - 3"
     ],
     "cuotas": [
-      1.8,
-      1.42,
+      1.44,
+      1.57,
+      1.62,
       1.67,
-      1.44
+      1.73
     ],
-    "tarjeta": {
-      "local": "Wales",
-      "visitante": "Portugal",
-      "id_l": 767,
-      "id_v": 27,
-      "logo_l": "https://media.api-sports.io/football/teams/767.png",
-      "logo_v": "https://media.api-sports.io/football/teams/27.png",
-      "fecha": "2026-11-17T20:45",
-      "liga": "Nations League"
-    },
-    "cuota_total": 5.04,
-    "cuota_calculada": true
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.68,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-17-loca-th-1900-x1000",
+    "fecha": "2026-11-17T19:00",
+    "texto": "🚀 COMBI x835 🚀\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Francisco Trincao: 4+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Morten Hjulmand: 2+ tiros\n🇺🇦 Ucrania–Georgia 20:45\n🚩 Georgia más córners\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Isaac Price: 3+ tiros · 🚩 Irlanda del Norte más córners\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Elvis Rexhbecaj: 2+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Dzenis Burnic: 2+ tiros\n\n🎯 CUOTA 835 aprox. 💎 10€ → 8.348€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1528992|Away Player Shots|Francisco Trincao - 4",
+      "1528993|Home Player Shots|Morten Hjulmand - 2",
+      "1528994|Corners 1x2|Away",
+      "1528995|Away Player Shots|Isaac Price - 3",
+      "1528995|Corners 1x2|Away",
+      "1528997|Away Player Shots|Elvis Rexhbecaj - 2",
+      "1528999|Home Player Shots|Dzenis Burnic - 2"
+    ],
+    "cuotas": [
+      2.75,
+      2.62,
+      2.4,
+      2.75,
+      2.75,
+      2.62,
+      2.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 835.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
   },
   {
     "id": "2026-11-18-ganadores-champions-fem",
@@ -5938,8 +6981,8 @@
     "cuotas": [
       1.25,
       1.27,
-      1.28,
-      1.28
+      1.3,
+      1.22
     ],
     "ganadores_img": {
       "titulo": "CHAMPIONS FEMENINA",
@@ -5984,17 +7027,17 @@
   {
     "id": "2026-11-18-combi-tres",
     "fecha": "2026-11-18T13:30",
-    "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n⚽ Más de 1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Más de 1,5 goles en la 2ª parte del Juventus (fem.)–OH Leuven (fem.)\n\n📈 Cuota @3,24",
+    "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n⚽ Más de 1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Häcken (fem.) marca\n\n📈 Cuota @3,11",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1638333|Goals Over/Under - Second Half|Over 1.5",
-      "1638312|Goals Over/Under - Second Half|Over 1.5"
+      "1638306|Total - Home|Over 0.5"
     ],
     "cuotas": [
       1.8,
-      1.8
+      1.73
     ]
   },
   {
@@ -6017,8 +7060,8 @@
       1.17,
       1.8,
       1.01,
-      2.2,
-      1.85
+      1.91,
+      2.15
     ],
     "ganadores_img": {
       "titulo": "CHAMPIONS FEMENINA",
@@ -6085,12 +7128,12 @@
   {
     "id": "2026-11-19-pick-seguro-3",
     "fecha": "2026-11-19T12:30",
-    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Arsenal (fem.) – Lyon (fem.) · 21:00\n\n🍀 Ambos marcan en Arsenal (fem.)–Lyon (fem.) @1,50\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Vamos con el pick de hoy familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ SL Benfica (fem.) – Roma (fem.) · 21:00\n\n🍀 Ambos marcan en SL Benfica (fem.)–Roma (fem.) @1,50\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1638286|Both Teams Score|Yes"
+      "1638338|Both Teams Score|Yes"
     ],
     "cuotas": [
       1.5
@@ -6099,28 +7142,30 @@
   {
     "id": "2026-11-19-combi-tres",
     "fecha": "2026-11-19T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n📈 De las que hemos estudiado bien\n\n⚽ Ambos marcan en Paris FC (fem.)–Køge (fem.)\n⚽ SL Benfica (fem.) marca 2 o más\n\n📈 Cuota @2,50\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del jueves familia 🔥\n📈 De las que hemos estudiado bien\n\n⚽ Ambos marcan en Paris FC (fem.)–Køge (fem.)\n⚽ SL Benfica (fem.) o empate\n⚽ Ambos marcan en Arsenal (fem.)–Lyon (fem.)\n\n📈 Cuota @3,12\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1638327|Both Teams Score|Yes",
-      "1638338|Total - Home|Over 1.5"
+      "1638338|Double Chance|Home/Draw",
+      "1638286|Both Teams Score|Yes"
     ],
     "cuotas": [
       1.5,
-      1.67
+      1.36,
+      1.53
     ]
   },
   {
     "id": "2026-11-19-pick-seguro-2",
     "fecha": "2026-11-19T18:00",
-    "texto": "Este lo tenemos claro 🔥\n\n⚽ Arsenal (fem.) – Lyon (fem.) · 21:00\n\n🍀 Lyon (fem.) o empate @1,36\n🧠 Stake 3/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n\n⚽ SL Benfica (fem.) – Roma (fem.) · 21:00\n\n🍀 SL Benfica (fem.) o empate @1,36\n🧠 Stake 3/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1638286|Double Chance|Draw/Away"
+      "1638338|Double Chance|Home/Draw"
     ],
     "cuotas": [
       1.36
@@ -7105,1067 +8150,5 @@
     "solo_redes": true,
     "cuota_total": 4.9,
     "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-17-loca-th-noche-2100-x100",
-    "fecha": "2026-11-16T21:00",
-    "texto": "🔥 COMBI POR 93,48 🔥\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Ethan Ampadu: 1+ tiros · 🚩 Portugal más de 5,5 córners\n🇩🇰 Dinamarca–Noruega 20:45\n🏆 Noruega gana una parte\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Willi Orban: 1+ tiros\n🇮🇱 Israel–Austria 20:45\n🚩 Austria más de 4,5 córners\n⚽ Irlanda–Kosovo 20:45\n🛡️ Kosovo o empate · 🎯 Vedat Muriqi: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Ianis Hagi: 2+ tiros\n\n🎯 CUOTA 93,48 aprox. 💎 10€ → 935€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528992|Home Player Shots|Ethan Ampadu - 1",
-      "1528992|Away Corners Over/Under|Over 5.5",
-      "1528993|To Win Either Half|Away",
-      "1528995|Home Player Shots|Willi Orban - 1",
-      "1528996|Away Corners Over/Under|Over 4.5",
-      "1528997|Double Chance|Draw/Away",
-      "1528997|Away Player Shots|Vedat Muriqi - 3",
-      "1528999|Away Player Shots|Ianis Hagi - 2"
-    ],
-    "cuotas": [
-      1.73,
-      1.8,
-      1.8,
-      1.73,
-      1.73,
-      1.7,
-      1.83,
-      1.73
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 93.48,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true
-  },
-  {
-    "id": "2026-11-17-loca-th-noche-2130-ganaambos",
-    "fecha": "2026-11-16T21:30",
-    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal · 20:45\n🏆 Gana Portugal y ambos marcan\n\n🇩🇰 Dinamarca – Noruega · 20:45\n🏆 Gana Dinamarca y ambos marcan\n\n🇵🇱 Polonia – Suecia · 20:45\n🏆 Gana Polonia y ambos marcan\n\n🇺🇦 Ucrania – Georgia · 20:45\n🏆 Gana Ucrania y ambos marcan\n\n🎯 CUOTA 202 💎 · 10€ → 2.025€\n\n🔥 Goles y victoria: así nos gusta 🔥",
-    "sel": [
-      "1528992|Results/Both Teams Score|Away/Yes",
-      "1528993|Results/Both Teams Score|Home/Yes",
-      "1528994|Results/Both Teams Score|Home/Yes",
-      "1528998|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      2.75,
-      3.75,
-      4.75,
-      4.0
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 202.0,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-16T20:11"
-  },
-  {
-    "id": "2026-11-17-loca-th-noche-2200-lista-ambos",
-    "fecha": "2026-11-16T22:00",
-    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇩🇰 Dinamarca–Noruega ➜ Ambos marcan @1,44\n2. 🇧🇦 Bosnia–Rumanía ➜ Ambos marcan @1,80\n3. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Ambos marcan @1,73\n4. 🇮🇱 Israel–Austria ➜ Ambos marcan @1,62\n5. 🇵🇱 Polonia–Suecia ➜ Ambos marcan @1,53\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528992|Both Teams Score|Yes",
-      "1528993|Both Teams Score|Yes",
-      "1528996|Both Teams Score|Yes",
-      "1528998|Both Teams Score|Yes",
-      "1528999|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.73,
-      1.44,
-      1.67,
-      1.53,
-      1.73
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-16T21:18"
-  },
-  {
-    "id": "2026-11-17-loca-th-noche-2230-duelo",
-    "fecha": "2026-11-16T22:30",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Mohamed Daramy: 2+ tiros (Dinamarca)\n🎯 Erling Haaland: 4+ tiros (Noruega)\n\n🎯 CUOTA 2,07 aprox. 💎 · 10€ → 20,70€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1528993|Home Player Shots|Mohamed Daramy - 2",
-      "1528993|Away Player Shots|Erling Haaland - 4"
-    ],
-    "cuotas": [
-      1.36,
-      1.44
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.07,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-16T21:02"
-  },
-  {
-    "id": "2026-11-17-loca-th-noche-2300-x50",
-    "fecha": "2026-11-16T23:00",
-    "texto": "🤑 COMBI x51,16 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Ethan Ampadu: 1+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Thelonious Aasgaard: 2+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Andras Schafer: 1+ tiros\n🇮🇱 Israel–Austria 20:45\n🚩 Austria más córners\n⚽ Irlanda–Kosovo 20:45\n⚽ Kosovo marca · 🎯 Troy Parrott: 3+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🏆 Polonia gana una parte\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Florinel Coman: 2+ tiros\n\n🎯 CUOTA 51,16 aprox. 💎 10€ → 512€\n👇 ¿Cuál quitaríais? 👇",
-    "sel": [
-      "1528992|Home Player Shots|Ethan Ampadu - 1",
-      "1528993|Away Player Shots|Thelonious Aasgaard - 2",
-      "1528995|Home Player Shots|Andras Schafer - 1",
-      "1528996|Corners 1x2|Away",
-      "1528997|Total - Away|Over 0.5",
-      "1528997|Home Player Shots|Troy Parrott - 3",
-      "1528998|To Win Either Half|Home",
-      "1528999|Away Player Shots|Florinel Coman - 2"
-    ],
-    "cuotas": [
-      1.73,
-      1.62,
-      1.44,
-      1.57,
-      1.57,
-      1.62,
-      1.62,
-      1.62
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 51.16,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-16T21:34"
-  },
-  {
-    "id": "2026-11-17-loca-th-noche-2330-escudos",
-    "fecha": "2026-11-16T23:30",
-    "texto": "🔥 COMBI DEL DINAMARCA – NORUEGA 🔥\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Morten Hjulmand: 1+ tiros\n🎯 Mohamed Daramy: 2+ tiros\n🛡️ Dinamarca o empate\n\n🎯 CUOTA 2,92 aprox. 💎 10€ → 29,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528993|Home Player Shots|Morten Hjulmand - 1",
-      "1528993|Home Player Shots|Mohamed Daramy - 2",
-      "1528993|Double Chance|Home/Draw"
-    ],
-    "cuotas": [
-      1.4,
-      1.36,
-      1.44
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.92,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_redes": true,
-    "tarjeta": {
-      "local": "Denmark",
-      "visitante": "Norway",
-      "id_l": 21,
-      "id_v": 1090,
-      "logo_l": "https://media.api-sports.io/football/teams/21.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1090.png",
-      "fecha": "2026-11-17T20:45",
-      "liga": "UEFA Nations League"
-    },
-    "cuota_total": 2.92,
-    "cuota_calculada": true,
-    "cuotas_revisadas": "2026-11-16T22:00"
-  },
-  {
-    "id": "2026-11-17-loca-th-0030-x100",
-    "fecha": "2026-11-17T00:30",
-    "texto": "💯 LA CENTENARIA x80,85 💯\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Goncalo Ramos: 4+ tiros · 🚩 +8,5 córners\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Jesper Lindstrom: 2+ tiros · ⚽ Dinamarca marca 2+\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Josh Magennis: 2+ tiros · 🚩 +8,5 córners\n🇧🇦 Bosnia–Rumanía 20:45\n🚩 +8,5 córners · 🎯 Ianis Hagi: 2+ tiros\n\n🎯 CUOTA 80,85 aprox. 💎 10€ → 808€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528992|Away Player Shots|Goncalo Ramos - 4",
-      "1528992|Corners Over Under|Over 8.5",
-      "1528993|Home Player Shots|Jesper Lindstrom - 2",
-      "1528993|Total - Home|Over 1.5",
-      "1528995|Away Player Shots|Josh Magennis - 2",
-      "1528995|Corners Over Under|Over 8.5",
-      "1528999|Corners Over Under|Over 8.5",
-      "1528999|Away Player Shots|Ianis Hagi - 2"
-    ],
-    "cuotas": [
-      1.73,
-      1.73,
-      1.83,
-      1.83,
-      1.83,
-      1.73,
-      1.8,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 80.85,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-0100-ganaambos",
-    "fecha": "2026-11-17T01:00",
-    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal · 20:45\n🏆 Gana Portugal y ambos marcan\n\n🇩🇰 Dinamarca – Noruega · 20:45\n🏆 Gana Dinamarca y ambos marcan\n\n🇵🇱 Polonia – Suecia · 20:45\n🏆 Gana Polonia y ambos marcan\n\n🇺🇦 Ucrania – Georgia · 20:45\n🏆 Gana Ucrania y ambos marcan\n\n🎯 CUOTA 202 💎 · 10€ → 2.025€\n\n🔥 Goles y victoria: así nos gusta 🔥",
-    "sel": [
-      "1528992|Results/Both Teams Score|Away/Yes",
-      "1528993|Results/Both Teams Score|Home/Yes",
-      "1528994|Results/Both Teams Score|Home/Yes",
-      "1528998|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      2.75,
-      3.75,
-      4.75,
-      4.0
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 202.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T00:12"
-  },
-  {
-    "id": "2026-11-17-loca-th-0200-lista-ambos",
-    "fecha": "2026-11-17T02:00",
-    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇩🇰 Dinamarca–Noruega ➜ Ambos marcan @1,44\n2. 🇧🇦 Bosnia–Rumanía ➜ Ambos marcan @1,80\n3. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Ambos marcan @1,73\n4. 🇮🇱 Israel–Austria ➜ Ambos marcan @1,62\n5. 🇵🇱 Polonia–Suecia ➜ Ambos marcan @1,53\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528992|Both Teams Score|Yes",
-      "1528993|Both Teams Score|Yes",
-      "1528996|Both Teams Score|Yes",
-      "1528998|Both Teams Score|Yes",
-      "1528999|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.73,
-      1.44,
-      1.67,
-      1.53,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T00:34"
-  },
-  {
-    "id": "2026-11-17-loca-th-0300-duelo",
-    "fecha": "2026-11-17T03:00",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Gustav Isaksen: 3+ tiros (Dinamarca)\n🎯 Erling Haaland: 4+ tiros (Noruega)\n\n🎯 CUOTA 2,26 aprox. 💎 · 10€ → 22,60€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1528993|Home Player Shots|Gustav Isaksen - 3",
-      "1528993|Away Player Shots|Erling Haaland - 4"
-    ],
-    "cuotas": [
-      1.53,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.26,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-17-loca-th-0400-x50",
-    "fecha": "2026-11-17T04:00",
-    "texto": "🤑 COMBI x44,48 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Fabio Silva: 3+ tiros\n🇺🇦 Ucrania–Georgia 20:45\n🛡️ Georgia o empate\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🦵 Willi Orban comete 1+ faltas · 🚩 Hungría más córners\n🇮🇱 Israel–Austria 20:45\n⚽ Austria marca 2+\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Fisnik Asllani: 2+ tiros · 🚩 Irlanda más córners\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Dennis Man: 2+ tiros\n\n🎯 CUOTA 44,48 aprox. 💎 10€ → 445€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528992|Away Player Shots|Fabio Silva - 3",
-      "1528994|Double Chance|Draw/Away",
-      "1528995|Player Fouls Committed|Willi Orban - 1",
-      "1528995|Corners 1x2|Home",
-      "1528996|Total - Away|Over 1.5",
-      "1528997|Away Player Shots|Fisnik Asllani - 2",
-      "1528997|Corners 1x2|Home",
-      "1528999|Away Player Shots|Dennis Man - 2"
-    ],
-    "cuotas": [
-      1.57,
-      1.67,
-      1.67,
-      1.57,
-      1.67,
-      1.62,
-      1.57,
-      1.62
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 44.48,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-0500-hora",
-    "fecha": "2026-11-17T05:00",
-    "texto": "⏰ TODO A LAS 20:45 ⏰\n\n🇩🇰 Dinamarca – Noruega ➜ 🎯 Morten Hjulmand: 1+ tiros\n🇧🇦 Bosnia – Rumanía ➜ 🎯 Ivan Basic: 1+ tiros\n🇺🇦 Ucrania – Georgia ➜ ⚽ Georgia marca\n🇭🇺 Hungría – Irlanda del Norte ➜ 🦵 Mark Csinger comete 1+ faltas\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal ➜ 🎯 Joao Felix: 3+ tiros\n🇮🇱 Israel – Austria ➜ 🚩 Austria hace más córners\n🇮🇪 Irlanda – Kosovo ➜ 🎯 Thomas Cannon: 2+ tiros\n🇵🇱 Polonia – Suecia ➜ 🏆 Polonia gana alguna de las dos partes\n\n🎯 CUOTA 23,44 💎 · 10€ → 234€\n\n⏳ Todo se decide a la vez 🔥",
-    "sel": [
-      "1528992|Away Player Shots|Joao Felix - 3",
-      "1528993|Home Player Shots|Morten Hjulmand - 1",
-      "1528994|Total - Away|Over 0.5",
-      "1528995|Player Fouls Committed|Mark Csinger - 1",
-      "1528996|Corners 1x2|Away",
-      "1528997|Home Player Shots|Thomas Cannon - 2",
-      "1528998|To Win Either Half|Home",
-      "1528999|Home Player Shots|Ivan Basic - 1"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.44,
-      1.62,
-      1.57,
-      1.4,
-      1.62,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 23.44,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-0600-tapados",
-    "fecha": "2026-11-17T06:00",
-    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇺🇦 Ucrania – Georgia ➜ 🛡️ Georgia o empate @1,67\n🇮🇪 Irlanda – Kosovo ➜ 🛡️ Kosovo o empate @1,70\n🇭🇺 Hungría – Irlanda del Norte ➜ 🛡️ Irlanda del Norte o empate @1,83\n🇧🇦 Bosnia – Rumanía ➜ 🛡️ Rumanía o empate @1,95\n\n🎯 CUOTA 10,13 💎 · 10€ → 101€\n\n🤫 Si sale esta, nos retiramos 🤫",
-    "sel": [
-      "1528994|Double Chance|Draw/Away",
-      "1528995|Double Chance|Draw/Away",
-      "1528997|Double Chance|Draw/Away",
-      "1528999|Double Chance|Draw/Away"
-    ],
-    "cuotas": [
-      1.67,
-      1.83,
-      1.7,
-      1.95
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 10.13,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-0700-lista-corners",
-    "fecha": "2026-11-17T07:00",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇩🇰 Dinamarca–Noruega ➜ +9 córners @1,88\n2. 🇧🇦 Bosnia–Rumanía ➜ Bosnia más córners @1,44\n3. 🇺🇦 Ucrania–Georgia ➜ +8,5 córners @1,67\n4. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más córners @1,57\n5. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Gales más de 2,5 córners @1,67\n6. 🇮🇱 Israel–Austria ➜ Austria más de 4,5 córners @1,73\n7. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más córners @1,57\n8. 🇵🇱 Polonia–Suecia ➜ Suecia más de 3,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528992|Home Corners Over/Under|Over 2.5",
-      "1528993|Corners Over Under|Over 9",
-      "1528994|Corners Over Under|Over 8.5",
-      "1528995|Corners 1x2|Home",
-      "1528996|Away Corners Over/Under|Over 4.5",
-      "1528997|Corners 1x2|Home",
-      "1528998|Away Corners Over/Under|Over 3.5",
-      "1528999|Corners 1x2|Home"
-    ],
-    "cuotas": [
-      1.67,
-      1.88,
-      1.67,
-      1.57,
-      1.73,
-      1.57,
-      1.67,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-17-loca-th-0800-empates",
-    "fecha": "2026-11-17T08:00",
-    "texto": "🤝 LA COMBI DE LOS EMPATES 🤝\n\n🇮🇪 Irlanda – Kosovo · 20:45 ➜ 🤝 Empate @3,10\n🇺🇦 Ucrania – Georgia · 20:45 ➜ 🤝 Empate @3,25\n🇭🇺 Hungría – Irlanda del Norte · 20:45 ➜ 🤝 Empate @3,30\n\n🎯 CUOTA 33,25 💎 · 10€ → 332€\n\n😮‍💨 Para valientes 😮‍💨",
-    "sel": [
-      "1528994|Match Winner|Draw",
-      "1528995|Match Winner|Draw",
-      "1528997|Match Winner|Draw"
-    ],
-    "cuotas": [
-      3.25,
-      3.3,
-      3.1
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 33.25,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-0900-reto",
-    "fecha": "2026-11-17T09:00",
-    "texto": "💶 RETO: DE 1€ A 869€ 💶\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Harry Wilson: 3+ tiros · 🛡️ Gales o empate\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Andreas Schjelderup: 3+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🏆 Irlanda del Norte gana una parte · 🎯 Gabor Jurek: 3+ tiros\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Jack Moylan: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Matej Deket: 4+ tiros\n\n🎯 CUOTA 869 aprox. 💎 1€ → 869€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
-    "sel": [
-      "1528992|Home Player Shots|Harry Wilson - 3",
-      "1528992|Double Chance|Home/Draw",
-      "1528993|Away Player Shots|Andreas Schjelderup - 3",
-      "1528995|To Win Either Half|Away",
-      "1528995|Home Player Shots|Gabor Jurek - 3",
-      "1528997|Home Player Shots|Jack Moylan - 3",
-      "1528999|Home Player Shots|Matej Deket - 4"
-    ],
-    "cuotas": [
-      2.75,
-      2.75,
-      2.5,
-      2.62,
-      2.5,
-      2.5,
-      2.62
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 869.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-0930-tiros",
-    "fecha": "2026-11-17T09:30",
-    "texto": "🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯\n\n⭐ Gales – Portugal · 20:45\n🎯 Joao Felix: 3+ tiros\n🎯 Pedro Neto: 2+ tiros\n🎯 Fabio Silva: 3+ tiros\n🎯 Bruno Fernandes: 3+ tiros\n🎯 Rafael Leao: 3+ tiros\n\n🎯 CUOTA 5,38 aprox. 💎 · 10€ → 53,80€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1528992|Away Player Shots|Joao Felix - 3",
-      "1528992|Away Player Shots|Pedro Neto - 2",
-      "1528992|Away Player Shots|Fabio Silva - 3",
-      "1528992|Away Player Shots|Bruno Fernandes - 3",
-      "1528992|Away Player Shots|Rafael Leao - 3"
-    ],
-    "cuotas": [
-      1.4,
-      1.44,
-      1.57,
-      1.57,
-      1.57
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 5.38,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1000-lista-corners",
-    "fecha": "2026-11-17T10:00",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇩🇰 Dinamarca–Noruega ➜ +9 córners @1,88\n2. 🇧🇦 Bosnia–Rumanía ➜ Bosnia más córners @1,44\n3. 🇺🇦 Ucrania–Georgia ➜ +8,5 córners @1,67\n4. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más de 4,5 córners @1,67\n5. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ +8,5 córners @1,73\n6. 🇮🇱 Israel–Austria ➜ +8,5 córners @1,85\n7. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más de 4,5 córners @1,67\n8. 🇵🇱 Polonia–Suecia ➜ Suecia más de 3,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528992|Corners Over Under|Over 8.5",
-      "1528993|Corners Over Under|Over 9",
-      "1528994|Corners Over Under|Over 8.5",
-      "1528995|Home Corners Over/Under|Over 4.5",
-      "1528996|Corners Over Under|Over 8.5",
-      "1528997|Home Corners Over/Under|Over 4.5",
-      "1528998|Away Corners Over/Under|Over 3.5",
-      "1528999|Corners 1x2|Home"
-    ],
-    "cuotas": [
-      1.73,
-      1.88,
-      1.67,
-      1.67,
-      1.85,
-      1.67,
-      1.67,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-17-loca-th-1130-duelo",
-    "fecha": "2026-11-17T11:30",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 Gustav Isaksen: 3+ tiros (Dinamarca)\n🎯 Hugo Vetlesen: 2+ tiros (Noruega)\n\n🎯 CUOTA 2,40 aprox. 💎 · 10€ → 24,00€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1528993|Home Player Shots|Gustav Isaksen - 3",
-      "1528993|Away Player Shots|Hugo Vetlesen - 2"
-    ],
-    "cuotas": [
-      1.53,
-      1.53
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.4,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1200-x100",
-    "fecha": "2026-11-17T12:00",
-    "texto": "💯 LA CENTENARIA x115 💯\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Rodrigo Mora: 3+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Felix Myhre: 2+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Daniel Lukacs: 3+ tiros · 🚩 Irlanda del Norte más de 3,5 córners\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Finn Azaz: 3+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🚩 +8,5 córners · ⚽ Polonia marca 2+\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Ianis Stoica: 2+ tiros\n\n🎯 CUOTA 115 aprox. 💎 10€ → 1.153€\n💚 ¡A POR EL VERDE! 💚",
-    "sel": [
-      "1528992|Away Player Shots|Rodrigo Mora - 3",
-      "1528993|Away Player Shots|Felix Myhre - 2",
-      "1528995|Home Player Shots|Daniel Lukacs - 3",
-      "1528995|Away Corners Over/Under|Over 3.5",
-      "1528997|Home Player Shots|Finn Azaz - 3",
-      "1528998|Corners Over Under|Over 8.5",
-      "1528998|Total - Home|Over 1.5",
-      "1528999|Away Player Shots|Ianis Stoica - 2"
-    ],
-    "cuotas": [
-      1.73,
-      1.83,
-      1.83,
-      1.8,
-      1.83,
-      1.8,
-      1.83,
-      1.83
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 115.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1230-x50",
-    "fecha": "2026-11-17T12:30",
-    "texto": "🤑 COMBI x48,94 🤑\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Bruno Fernandes: 3+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Oscar Bobb: 2+ tiros · 🏆 Dinamarca gana una parte\n🇺🇦 Ucrania–Georgia 20:45\n🚩 Georgia más de 3,5 córners\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🦵 Mark Csinger comete 1+ faltas · 🏆 Hungría gana una parte\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Rocco Vata: 2+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Rares Ilie: 2+ tiros\n\n🎯 CUOTA 48,94 aprox. 💎 10€ → 489€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528992|Away Player Shots|Bruno Fernandes - 3",
-      "1528993|Away Player Shots|Oscar Bobb - 2",
-      "1528993|To Win Either Half|Home",
-      "1528994|Away Corners Over/Under|Over 3.5",
-      "1528995|Player Fouls Committed|Mark Csinger - 1",
-      "1528995|To Win Either Half|Home",
-      "1528997|Home Player Shots|Rocco Vata - 2",
-      "1528999|Away Player Shots|Rares Ilie - 2"
-    ],
-    "cuotas": [
-      1.57,
-      1.62,
-      1.67,
-      1.67,
-      1.62,
-      1.57,
-      1.67,
-      1.62
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 48.94,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1300-tapados",
-    "fecha": "2026-11-17T13:00",
-    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n🇭🇺 Hungría – Irlanda del Norte ➜ 🛡️ Irlanda del Norte o empate @1,83\n🇧🇦 Bosnia – Rumanía ➜ 🛡️ Rumanía o empate @1,95\n🇮🇱 Israel – Austria ➜ 🛡️ Israel o empate @1,95\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales – Portugal ➜ 🛡️ Gales o empate @2,75\n\n🎯 CUOTA 19,14 💎 · 10€ → 191€\n\n🤫 Si sale esta, nos retiramos 🤫",
-    "sel": [
-      "1528992|Double Chance|Home/Draw",
-      "1528995|Double Chance|Draw/Away",
-      "1528996|Double Chance|Home/Draw",
-      "1528999|Double Chance|Draw/Away"
-    ],
-    "cuotas": [
-      2.75,
-      1.83,
-      1.95,
-      1.95
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 19.14,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-17-loca-th-1400-lista-corners",
-    "fecha": "2026-11-17T14:00",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇧🇦 Bosnia–Rumanía ➜ +8,5 córners @1,80\n2. 🇺🇦 Ucrania–Georgia ➜ Georgia más de 3,5 córners @1,67\n3. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más de 4,5 córners @1,67\n4. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Portugal más de 5,5 córners @1,80\n5. 🇮🇱 Israel–Austria ➜ +8,5 córners @1,85\n6. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más de 4,5 córners @1,67\n7. 🇵🇱 Polonia–Suecia ➜ +8,5 córners @1,80\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528992|Away Corners Over/Under|Over 5.5",
-      "1528994|Away Corners Over/Under|Over 3.5",
-      "1528995|Home Corners Over/Under|Over 4.5",
-      "1528996|Corners Over Under|Over 8.5",
-      "1528997|Home Corners Over/Under|Over 4.5",
-      "1528998|Corners Over Under|Over 8.5",
-      "1528999|Corners Over Under|Over 8.5"
-    ],
-    "cuotas": [
-      1.8,
-      1.67,
-      1.67,
-      1.85,
-      1.67,
-      1.8,
-      1.8
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1430-x500",
-    "fecha": "2026-11-17T14:30",
-    "texto": "🤪 LA LOCURA DE x632 🤪\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Daniel James: 2+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Mohamed Daramy: 3+ tiros\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Jamie Donley: 2+ tiros\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Milot Rashica: 2+ tiros\n🇵🇱 Polonia–Suecia 20:45\n🏆 Gana Polonia · ⚽ Suecia marca 2+\n🇧🇦 Bosnia–Rumanía 20:45\n🚩 Rumanía más de 3,5 córners · 🎯 Daniel Birligea: 3+ tiros\n\n🎯 CUOTA 632 aprox. 💎 10€ → 6.317€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
-    "sel": [
-      "1528992|Home Player Shots|Daniel James - 2",
-      "1528993|Home Player Shots|Mohamed Daramy - 3",
-      "1528995|Away Player Shots|Jamie Donley - 2",
-      "1528997|Away Player Shots|Milot Rashica - 2",
-      "1528998|Match Winner|Home",
-      "1528998|Total - Away|Over 1.5",
-      "1528999|Away Corners Over/Under|Over 3.5",
-      "1528999|Away Player Shots|Daniel Birligea - 3"
-    ],
-    "cuotas": [
-      2.1,
-      2.1,
-      2.1,
-      2.1,
-      2.2,
-      2.25,
-      2.1,
-      2.1
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 632.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1500-duelo",
-    "fecha": "2026-11-17T15:00",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Dinamarca vs Noruega · 20:45\n\n🎯 William Osula: 3+ tiros (Dinamarca)\n🎯 Hugo Vetlesen: 2+ tiros (Noruega)\n\n🎯 CUOTA 2,62 aprox. 💎 · 10€ → 26,20€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1528993|Home Player Shots|William Osula - 3",
-      "1528993|Away Player Shots|Hugo Vetlesen - 2"
-    ],
-    "cuotas": [
-      1.67,
-      1.53
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.62,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1530-lista-corners",
-    "fecha": "2026-11-17T15:30",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇺🇦 Ucrania–Georgia ➜ Ucrania más de 4,5 córners @1,80\n2. 🇭🇺 Hungría–Irlanda del Norte ➜ +8,5 córners @1,73\n3. 🇮🇪 Irlanda–Kosovo ➜ +8,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528994|Home Corners Over/Under|Over 4.5",
-      "1528995|Corners Over Under|Over 8.5",
-      "1528997|Corners Over Under|Over 8.5"
-    ],
-    "cuotas": [
-      1.8,
-      1.73,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-17-loca-th-1600-x500",
-    "fecha": "2026-11-17T16:00",
-    "texto": "💎 COMBI x433 💎\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Sorba Thomas: 2+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Jorgen Larsen: 4+ tiros · 🚩 Dinamarca más córners\n🇺🇦 Ucrania–Georgia 20:45\n🏆 Georgia gana una parte\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Callum Marshall: 2+ tiros\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Adam Idah: 3+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Jovo Lukic: 4+ tiros · 🚩 Bosnia más de 5,5 córners\n\n🎯 CUOTA 433 aprox. 💎 10€ → 4.333€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528992|Home Player Shots|Sorba Thomas - 2",
-      "1528993|Away Player Shots|Jorgen Larsen - 4",
-      "1528993|Corners 1x2|Home",
-      "1528994|To Win Either Half|Away",
-      "1528995|Away Player Shots|Callum Marshall - 2",
-      "1528997|Home Player Shots|Adam Idah - 3",
-      "1528999|Home Player Shots|Jovo Lukic - 4",
-      "1528999|Home Corners Over/Under|Over 5.5"
-    ],
-    "cuotas": [
-      2.2,
-      2.2,
-      2.1,
-      2.2,
-      2.1,
-      2.1,
-      2.25,
-      2.1
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 433.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1630-escudos",
-    "fecha": "2026-11-17T16:30",
-    "texto": "🔥 COMBI DEL HUNGRÍA – IRLANDA DEL NORTE 🔥\n\n⭐ Hungría vs Irlanda del Norte · 20:45\n\n🎯 Andras Schafer: 1+ tiros\n🦵 Willi Orban comete 1+ faltas\n🏆 Hungría gana una parte\n🇮🇪 Irlanda del Norte marca\n\n🎯 CUOTA 9,42 aprox. 💎 10€ → 94,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528995|Home Player Shots|Andras Schafer - 1",
-      "1528995|Player Fouls Committed|Willi Orban - 1",
-      "1528995|To Win Either Half|Home",
-      "1528995|Total - Away|Over 0.5"
-    ],
-    "cuotas": [
-      1.62,
-      1.67,
-      1.57,
-      1.67
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Hungary",
-      "visitante": "Northern Ireland",
-      "id_l": 769,
-      "id_v": 771,
-      "logo_l": "https://media.api-sports.io/football/teams/769.png",
-      "logo_v": "https://media.api-sports.io/football/teams/771.png",
-      "fecha": "2026-11-17T20:45",
-      "liga": "UEFA Nations League"
-    },
-    "cuota_total": 9.42,
-    "cuota_calculada": true,
-    "cuota_bet365": 9.42,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1700-escudos",
-    "fecha": "2026-11-17T17:00",
-    "texto": "🔥 COMBI DEL IRLANDA – KOSOVO 🔥\n\n⭐ Irlanda vs Kosovo · 20:45\n\n🎯 Thomas Cannon: 2+ tiros\n🎯 Enis Redzepi: 2+ tiros\n⚽ Kosovo marca\n🏆 Irlanda gana una parte\n\n🎯 CUOTA 7,89 aprox. 💎 10€ → 78,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1528997|Home Player Shots|Thomas Cannon - 2",
-      "1528997|Away Player Shots|Enis Redzepi - 2",
-      "1528997|Total - Away|Over 0.5",
-      "1528997|To Win Either Half|Home"
-    ],
-    "cuotas": [
-      1.4,
-      1.5,
-      1.57,
-      1.67
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Rep. Of Ireland",
-      "visitante": "Kosovo",
-      "id_l": 776,
-      "id_v": 1111,
-      "logo_l": "https://media.api-sports.io/football/teams/776.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1111.png",
-      "fecha": "2026-11-17T20:45",
-      "liga": "UEFA Nations League"
-    },
-    "cuota_total": 7.89,
-    "cuota_calculada": true,
-    "cuota_bet365": 7.89,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1730-lista-corners",
-    "fecha": "2026-11-17T17:30",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇺🇦 Ucrania–Georgia ➜ Ucrania más de 4,5 córners @1,80\n2. 🇭🇺 Hungría–Irlanda del Norte ➜ Irlanda del Norte más de 3,5 córners @1,80\n3. 🇮🇪 Irlanda–Kosovo ➜ +8,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1528994|Home Corners Over/Under|Over 4.5",
-      "1528995|Away Corners Over/Under|Over 3.5",
-      "1528997|Corners Over Under|Over 8.5"
-    ],
-    "cuotas": [
-      1.8,
-      1.8,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-17-loca-th-1830-tiros",
-    "fecha": "2026-11-17T18:30",
-    "texto": "🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯\n\n⭐ Gales – Portugal · 20:45\n🎯 Pedro Neto: 2+ tiros\n🎯 Rafael Leao: 3+ tiros\n🎯 Harry Wilson: 2+ tiros\n🎯 Mark Harris: 2+ tiros\n🎯 Rodrigo Mora: 3+ tiros\n\n🎯 CUOTA 10,68 aprox. 💎 · 10€ → 107€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1528992|Away Player Shots|Pedro Neto - 2",
-      "1528992|Away Player Shots|Rafael Leao - 3",
-      "1528992|Home Player Shots|Harry Wilson - 2",
-      "1528992|Home Player Shots|Mark Harris - 2",
-      "1528992|Away Player Shots|Rodrigo Mora - 3"
-    ],
-    "cuotas": [
-      1.44,
-      1.57,
-      1.62,
-      1.67,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 10.68,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-loca-th-1900-x1000",
-    "fecha": "2026-11-17T19:00",
-    "texto": "🚀 COMBI x835 🚀\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal 20:45\n🎯 Francisco Trincao: 4+ tiros\n🇩🇰 Dinamarca–Noruega 20:45\n🎯 Morten Hjulmand: 2+ tiros\n🇺🇦 Ucrania–Georgia 20:45\n🚩 Georgia más córners\n🇭🇺 Hungría–Irlanda del Norte 20:45\n🎯 Isaac Price: 3+ tiros · 🚩 Irlanda del Norte más córners\n🇮🇪 Irlanda–Kosovo 20:45\n🎯 Elvis Rexhbecaj: 2+ tiros\n🇧🇦 Bosnia–Rumanía 20:45\n🎯 Dzenis Burnic: 2+ tiros\n\n🎯 CUOTA 835 aprox. 💎 10€ → 8.348€\n💚 ¡A POR EL VERDE! 💚",
-    "sel": [
-      "1528992|Away Player Shots|Francisco Trincao - 4",
-      "1528993|Home Player Shots|Morten Hjulmand - 2",
-      "1528994|Corners 1x2|Away",
-      "1528995|Away Player Shots|Isaac Price - 3",
-      "1528995|Corners 1x2|Away",
-      "1528997|Away Player Shots|Elvis Rexhbecaj - 2",
-      "1528999|Home Player Shots|Dzenis Burnic - 2"
-    ],
-    "cuotas": [
-      2.75,
-      2.62,
-      2.4,
-      2.75,
-      2.75,
-      2.62,
-      2.62
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 835.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-17-ganadores-nations-2",
-    "fecha": "2026-11-17T00:35",
-    "texto": "🏆 NATIONS LEAGUE - GANADORES\n\n1. 🇭🇺 Hungría - Win\n2. 🇵🇱 Polonia - Win\n3. 🇵🇹 Portugal - Win\n4. 🇮🇪 Irlanda - Win\n5. 🇺🇦 Ucrania - Win",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "solo_redes": true,
-    "forzar": true,
-    "sel": [
-      "1528995|Match Winner|Home",
-      "1528998|Match Winner|Home",
-      "1528992|Match Winner|Away",
-      "1528997|Match Winner|Home",
-      "1528994|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.95,
-      2.2,
-      1.42,
-      2.1,
-      2.15
-    ],
-    "ganadores_img": {
-      "titulo": "NATIONS LEAGUE",
-      "liga": 5,
-      "filas": [
-        {
-          "pais": "Hungary",
-          "bandera": "🇭🇺",
-          "escudo_url": "https://media.api-sports.io/football/teams/769.png",
-          "nombre": "Hungría",
-          "pick": "WIN",
-          "seleccion": true
-        },
-        {
-          "pais": "Poland",
-          "bandera": "🇵🇱",
-          "escudo_url": "https://media.api-sports.io/football/teams/24.png",
-          "nombre": "Polonia",
-          "pick": "WIN",
-          "seleccion": true
-        },
-        {
-          "pais": "Portugal",
-          "bandera": "🇵🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/27.png",
-          "nombre": "Portugal",
-          "pick": "WIN",
-          "seleccion": true
-        },
-        {
-          "pais": "Ireland",
-          "bandera": "🇮🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/776.png",
-          "nombre": "Irlanda",
-          "pick": "WIN",
-          "seleccion": true
-        },
-        {
-          "pais": "Ukraine",
-          "bandera": "🇺🇦",
-          "escudo_url": "https://media.api-sports.io/football/teams/772.png",
-          "nombre": "Ucrania",
-          "pick": "WIN",
-          "seleccion": true
-        }
-      ],
-      "lema": "¿TODO VERDE HOY?"
-    },
-    "cuotas_revisadas": "2026-11-16T22:38",
-    "repuesto_de": "2026-11-17-ganadores-nations",
-    "solo_en": [
-      "threads"
-    ],
-    "nota": "repuesto: Irlanda salía con ⚽ (la API la llama «Rep. Of Ireland»); Marcos borró el 1º"
   }
 ]

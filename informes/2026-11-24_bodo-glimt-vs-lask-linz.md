@@ -1,7 +1,7 @@
 # Bodo/Glimt – Lask Linz
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -134,6 +134,6 @@ _Sin precedentes recientes._
 | Miguel Freckleton | D | 1 | 21 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,70 · visitante 1,48 · córners esperados 9,8._
+_Goles esperados: local 2,70 · visitante 1,47 · córners esperados 9,8._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Sassuolo – Genoa
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -194,12 +194,12 @@ _Goles esperados: local 1,21 · visitante 1,15 · córners esperados 9,4._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 35% | 37% | 36% | 2.50 | -11% |
+| 1X2: 2 | 34% | 37% | 36% | 2.50 | -11% |
 | 1X2: X | 28% | 30% | 29% | 3.10 | -10% |
 | 1X2: 1 | 38% | 33% | 35% | 2.80 | -1% |
 | Doble oportunidad: X2 | 62% | 68% | 65% | 1.40 | -9% |
 | Doble oportunidad: 12 | 72% | 69% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 65% | 63% | 64% | 1.50 | -4% |
+| Doble oportunidad: 1X | 66% | 63% | 64% | 1.50 | -4% |
 | Ambos marcan: No | 52% | 44% | 48% | 2.10 | +1% |
 | Ambos marcan: Sí | 48% | 56% | 52% | 1.67 | -14% |
 | Goles más/menos: Más de 1.5 | 68% | 75% | 71% | 1.28 | -9% |
@@ -216,9 +216,9 @@ _Goles esperados: local 1,21 · visitante 1,15 · córners esperados 9,4._
 | Goles del local: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
 | Goles del local: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles del local: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del visitante: Más de 0.5 | 68% | 75% | 72% | 1.25 | -10% |
+| Goles del visitante: Más de 0.5 | 68% | 75% | 72% | 1.25 | -11% |
 | Goles del visitante: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
-| Goles del visitante: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +6% |
+| Goles del visitante: Menos de 0.5 | 32% | 25% | 28% | 3.75 | +7% |
 | Goles del visitante: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
 | Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |

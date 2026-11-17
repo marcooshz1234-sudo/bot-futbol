@@ -1,7 +1,7 @@
 # Alaves – Deportivo La Coruna
 **LaLiga** · Regular Season - 13 · 21/11/2026 14:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:00_
@@ -195,7 +195,7 @@ _Goles esperados: local 1,20 · visitante 1,04 · córners esperados 9,4._
 | 1X2: 1 | 39% | 46% | 43% | 2.00 | -14% |
 | Doble oportunidad: X2 | 61% | 53% | 57% | 1.80 | +2% |
 | Doble oportunidad: 12 | 71% | 72% | 72% | 1.33 | -5% |
-| Doble oportunidad: 1X | 68% | 75% | 71% | 1.28 | -8% |
+| Doble oportunidad: 1X | 68% | 75% | 72% | 1.28 | -8% |
 | Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
 | Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
 | Goles más/menos: Más de 1.5 | 65% | 70% | 68% | 1.36 | -8% |
@@ -205,7 +205,7 @@ _Goles esperados: local 1,20 · visitante 1,04 · córners esperados 9,4._
 | Goles más/menos: Menos de 2.5 | 61% | 57% | 59% | 1.67 | -1% |
 | Goles más/menos: Menos de 3.5 | 81% | 76% | 79% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 25% | 29% | 27% | 3.25 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 25% | 29% | 27% | 3.25 | -12% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -4% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
 | Goles del local: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |

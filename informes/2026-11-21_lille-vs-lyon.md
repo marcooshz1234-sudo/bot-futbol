@@ -1,7 +1,7 @@
 # Lille – Lyon
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -222,7 +222,7 @@ _Goles esperados: local 0,97 · visitante 1,01 · córners esperados 9,1._
 | Córners más/menos: Más de 9.5 | 41% | 50% | 46% | 1.83 | -16% |
 | Córners más/menos: Menos de 9.5 | 59% | 50% | 54% | 1.83 | -1% |
 | 1X2 descanso: 2 | 25% | 26% | 25% | 3.60 | -8% |
-| 1X2 descanso: X | 50% | 44% | 47% | 2.10 | -1% |
+| 1X2 descanso: X | 51% | 44% | 47% | 2.10 | -1% |
 | 1X2 descanso: 1 | 24% | 31% | 27% | 3.00 | -18% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

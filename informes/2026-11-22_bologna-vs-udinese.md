@@ -1,7 +1,7 @@
 # Bologna – Udinese
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -201,8 +201,8 @@ _Goles esperados: local 2,14 · visitante 0,96 · córners esperados 9,7._
 | Doble oportunidad: X2 | 36% | 44% | 40% | 2.15 | -14% |
 | Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -1% |
 | Doble oportunidad: 1X | 84% | 81% | 83% | 1.17 | -3% |
-| Ambos marcan: No | 45% | 48% | 47% | 1.95 | -9% |
-| Ambos marcan: Sí | 55% | 52% | 53% | 1.80 | -4% |
+| Ambos marcan: No | 46% | 48% | 47% | 1.95 | -9% |
+| Ambos marcan: Sí | 54% | 52% | 53% | 1.80 | -4% |
 | Goles más/menos: Más de 1.5 | 82% | 75% | 78% | 1.28 | -0% |
 | Goles más/menos: Más de 2.5 | 60% | 50% | 55% | 1.91 | +5% |
 | Goles más/menos: Más de 3.5 ✅ | 38% | 28% | 33% | 3.40 | +12% |
@@ -214,9 +214,9 @@ _Goles esperados: local 2,14 · visitante 0,96 · córners esperados 9,7._
 | Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
 | Goles del local: Más de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles del local: Más de 2.5 ✅ | 36% | 27% | 31% | 3.50 | +10% |
+| Goles del local: Más de 2.5 ✅ | 36% | 27% | 32% | 3.50 | +10% |
 | Goles del local: Menos de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
-| Goles del local: Menos de 2.5 | 64% | 73% | 69% | 1.28 | -12% |
+| Goles del local: Menos de 2.5 | 64% | 73% | 68% | 1.28 | -12% |
 | Goles del visitante: Más de 0.5 | 62% | 61% | 61% | 1.53 | -6% |
 | Goles del visitante: Más de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
 | Goles del visitante: Menos de 0.5 | 38% | 39% | 39% | 2.38 | -8% |

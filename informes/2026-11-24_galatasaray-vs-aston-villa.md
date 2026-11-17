@@ -1,7 +1,7 @@
 # Galatasaray – Aston Villa
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Rams Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

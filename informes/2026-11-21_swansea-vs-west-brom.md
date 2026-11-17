@@ -1,7 +1,7 @@
 # Swansea – West Brom
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -201,13 +201,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 63% | 63% | 63% | 1.50 | -5% |
 | Doble oportunidad: 12 | 74% | 71% | 72% | 1.33 | -4% |
 | Doble oportunidad: 1X | 63% | 66% | 64% | 1.44 | -7% |
-| Ambos marcan: No | 47% | 46% | 46% | 2.00 | -7% |
-| Ambos marcan: Sí | 53% | 54% | 54% | 1.73 | -7% |
+| Ambos marcan: No | 47% | 46% | 47% | 2.00 | -7% |
+| Ambos marcan: Sí | 53% | 54% | 53% | 1.73 | -7% |
 | Goles más/menos: Más de 1.5 | 74% | 73% | 73% | 1.30 | -5% |
 | Goles más/menos: Más de 2.5 | 49% | 47% | 48% | 2.00 | -4% |
 | Goles más/menos: Más de 3.5 | 27% | 28% | 28% | 3.40 | -6% |
 | Goles más/menos: Menos de 1.5 | 26% | 27% | 27% | 3.50 | -7% |
-| Goles más/menos: Menos de 2.5 | 51% | 53% | 52% | 1.80 | -7% |
+| Goles más/menos: Menos de 2.5 | 51% | 53% | 52% | 1.80 | -6% |
 | Goles más/menos: Menos de 3.5 | 73% | 72% | 72% | 1.33 | -4% |
 | Goles 1ª parte más/menos: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
 | Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |

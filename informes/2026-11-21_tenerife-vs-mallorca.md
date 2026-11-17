@@ -1,7 +1,7 @@
 # Tenerife – Mallorca
 **Segunda División** · Regular Season - 15 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -194,8 +194,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 40% | 40% | 40% | 2.30 | -8% |
 | 1X2: X | 30% | 30% | 30% | 3.10 | -8% |
-| 1X2: 1 | 31% | 30% | 30% | 3.10 | -6% |
-| Doble oportunidad: X2 | 69% | 70% | 70% | 1.36 | -5% |
+| 1X2: 1 | 30% | 30% | 30% | 3.10 | -6% |
+| Doble oportunidad: X2 | 70% | 70% | 70% | 1.36 | -5% |
 | Doble oportunidad: 12 | 70% | 70% | 70% | 1.36 | -5% |
 | Doble oportunidad: 1X | 60% | 60% | 60% | 1.57 | -5% |
 | Ambos marcan: No | 58% | 50% | 54% | 1.83 | -1% |
@@ -215,13 +215,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
 | Goles del local: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
 | Goles del visitante: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
+| Goles del visitante: Más de 1.5 | 32% | 38% | 35% | 2.50 | -14% |
 | Goles del visitante: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +1% |
 | Goles del visitante: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
 | Córners más/menos: Más de 9.5 | 40% | 46% | 43% | 2.00 | -13% |
 | Córners más/menos: Menos de 9.5 | 60% | 54% | 57% | 1.73 | -2% |
 | 1X2 descanso: 2 | 28% | 31% | 30% | 3.00 | -11% |
-| 1X2 descanso: X | 49% | 44% | 46% | 2.10 | -2% |
+| 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |
 | 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -11% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

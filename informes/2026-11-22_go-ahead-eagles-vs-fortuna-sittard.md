@@ -1,7 +1,7 @@
 # GO Ahead Eagles – Fortuna Sittard
 **Eredivisie** · Regular Season - 13 · 22/11/2026 16:45 (hora España) · De Adelaarshorst
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -203,12 +203,12 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 50% | 58% | 54% | 1.60 | -14% |
 | Doble oportunidad: X2 | 50% | 41% | 46% | 2.30 | +6% |
 | Doble oportunidad: 12 | 77% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 73% | 81% | 77% | 1.18 | -10% |
+| Doble oportunidad: 1X | 73% | 81% | 77% | 1.18 | -9% |
 | Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
 | Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
 | Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.48 | -9% |
 | Goles más/menos: Más de 3.5 | 37% | 44% | 40% | 2.10 | -15% |
-| Goles más/menos: Más de 4.5 | 20% | 25% | 22% | 3.75 | -16% |
+| Goles más/menos: Más de 4.5 | 20% | 25% | 22% | 3.75 | -17% |
 | Goles más/menos: Menos de 2.5 | 41% | 36% | 39% | 2.60 | +0% |
 | Goles más/menos: Menos de 3.5 | 63% | 56% | 60% | 1.67 | -1% |
 | Goles más/menos: Menos de 4.5 | 80% | 75% | 78% | 1.25 | -3% |

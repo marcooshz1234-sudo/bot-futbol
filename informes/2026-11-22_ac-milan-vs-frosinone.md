@@ -1,7 +1,7 @@
 # AC Milan – Frosinone
 **Serie A** · Regular Season - 12 · 22/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -213,15 +213,15 @@ _Goles esperados: local 2,15 · visitante 1,50 · córners esperados 9,4._
 | Goles más/menos: Menos de 4.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles del local: Más de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles del local: Más de 2.5 | 36% | 44% | 40% | 2.10 | -15% |
+| Goles del local: Más de 2.5 | 37% | 44% | 40% | 2.10 | -15% |
 | Goles del local: Más de 3.5 | 17% | 23% | 20% | 4.00 | -19% |
 | Goles del local: Menos de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles del local: Menos de 2.5 | 64% | 56% | 60% | 1.67 | -0% |
+| Goles del local: Menos de 2.5 | 63% | 56% | 60% | 1.67 | -0% |
 | Goles del local: Menos de 3.5 | 83% | 77% | 80% | 1.22 | -3% |
 | Goles del visitante: Más de 0.5 | 78% | 71% | 74% | 1.33 | -1% |
 | Goles del visitante: Más de 1.5 | 44% | 35% | 40% | 2.62 | +4% |

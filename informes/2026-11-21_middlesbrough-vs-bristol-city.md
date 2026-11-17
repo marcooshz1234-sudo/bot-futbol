@@ -1,7 +1,7 @@
 # Middlesbrough – Bristol City
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -192,7 +192,7 @@ _Sin bajas comunicadas por ahora._
 | B. De Keersmaecker | M | 6 | 213 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,19 · visitante 0,85 · córners esperados 10,1._
+_Goles esperados: local 2,20 · visitante 0,85 · córners esperados 10,1._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Doble oportunidad: X2 | 32% | 32% | 32% | 3.00 | -4% |
 | Doble oportunidad: 12 | 81% | 81% | 81% | 1.18 | -4% |
 | Doble oportunidad: 1X | 87% | 87% | 87% | 1.10 | -4% |
-| Ambos marcan: No | 49% | 46% | 48% | 2.00 | -5% |
+| Ambos marcan: No | 49% | 46% | 48% | 2.00 | -4% |
 | Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -10% |
 | Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.50 | -8% |
 | Goles más/menos: Más de 3.5 | 36% | 41% | 39% | 2.30 | -11% |

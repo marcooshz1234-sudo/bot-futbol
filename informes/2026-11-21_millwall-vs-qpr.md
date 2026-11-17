@@ -1,7 +1,7 @@
 # Millwall – QPR
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -210,9 +210,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
 | Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
 | Goles más/menos: Menos de 3.5 | 75% | 66% | 71% | 1.44 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -9% |
+| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +2% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
 | Goles del local: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
 | Goles del local: Más de 1.5 | 35% | 44% | 40% | 2.10 | -16% |
@@ -224,8 +224,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
 | Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
 | Goles del visitante: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Córners más/menos: Más de 10.5 | 36% | 51% | 44% | 1.85 | -19% |
-| Córners más/menos: Menos de 10.5 | 64% | 49% | 56% | 1.95 | +9% |
+| Córners más/menos: Más de 10.5 | 37% | 51% | 44% | 1.85 | -19% |
+| Córners más/menos: Menos de 10.5 | 63% | 49% | 56% | 1.95 | +9% |
 | 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -8% |
 | 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -3% |
 | 1X2 descanso: 1 | 28% | 31% | 29% | 3.00 | -12% |

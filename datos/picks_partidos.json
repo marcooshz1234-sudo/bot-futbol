@@ -207,7 +207,7 @@
      "sel": "1550202|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Lazio–Lecce",
      "cuota": 1.8,
-     "prob": 0.54
+     "prob": 0.53
     },
     {
      "sel": "1550202|Total - Away|Over 0.5",
@@ -296,7 +296,7 @@
      "sel": "1575229|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
      "cuota": 1.73,
-     "prob": 0.56
+     "prob": 0.55
     },
     {
      "sel": "1575229|Both Teams Score|Yes",
@@ -314,7 +314,7 @@
      "sel": "1575229|Corners 1x2|Away",
      "texto": "SC Freiburg hace más córners",
      "cuota": 1.8,
-     "prob": 0.34
+     "prob": 0.33
     }
    ]
   },
@@ -425,13 +425,13 @@
      "sel": "1575223|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Eintracht Frankfurt–1899 Hoffenheim",
      "cuota": 1.53,
-     "prob": 0.58
+     "prob": 0.57
     },
     {
      "sel": "1575223|Home Player Shots On Target Total|Fares Chaibi - 1",
      "texto": "Fares Chaibi: 1+ tiros a puerta",
      "cuota": 1.67,
-     "prob": 0.58
+     "prob": 0.57
     },
     {
      "sel": "1575223|Double Chance|Home/Draw",
@@ -463,7 +463,7 @@
      "sel": "1557467|Match Winner|Home",
      "texto": "Gana el Aston Villa",
      "cuota": 1.75,
-     "prob": 0.66
+     "prob": 0.67
     },
     {
      "sel": "1557467|Total - Home|Over 1.5",
@@ -568,7 +568,7 @@
      "sel": "1557470|Both Teams Score|Yes",
      "texto": "Ambos marcan en Chelsea–Leeds",
      "cuota": 1.67,
-     "prob": 0.46
+     "prob": 0.45
     }
    ]
   },
@@ -594,7 +594,7 @@
      "sel": "1570460|Corners Over Under|Over 9.5",
      "texto": "Más de 9,5 córners en Rayo Vallecano–Valencia",
      "cuota": 1.73,
-     "prob": 0.44
+     "prob": 0.43
     }
    ]
   },
@@ -620,7 +620,7 @@
      "sel": "1552229|Home Player Shots|Ahmetcan Kaplan - 1",
      "texto": "Ahmetcan Kaplan: 1+ tiros",
      "cuota": 1.57,
-     "prob": 0.53
+     "prob": 0.54
     },
     {
      "sel": "1552229|Total - Away|Over 1.5",
@@ -651,7 +651,7 @@
      "sel": "1552824|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Nice–Paris Saint Germain",
      "cuota": 1.57,
-     "prob": 0.55
+     "prob": 0.54
     },
     {
      "sel": "1552824|Both Teams Score|Yes",
@@ -683,7 +683,7 @@
      "sel": "1550205|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Parma–AS Roma",
      "cuota": 1.8,
-     "prob": 0.55
+     "prob": 0.54
     }
    ]
   },
@@ -866,7 +866,7 @@
      "sel": "1552820|Home Player Shots|Soriba Diaoune - 2",
      "texto": "Soriba Diaoune: 2+ tiros",
      "cuota": 1.36,
-     "prob": 0.53
+     "prob": 0.54
     },
     {
      "sel": "1552820|Total - Away|Over 0.5",
@@ -915,7 +915,7 @@
      "sel": "1550204|Home Player Shots On Target Total|Scott McTominay - 1",
      "texto": "Scott McTominay: 1+ tiros a puerta",
      "cuota": 1.36,
-     "prob": 0.58
+     "prob": 0.57
     },
     {
      "sel": "1550204|Total - Away|Over 0.5",
@@ -1055,7 +1055,7 @@
      "sel": "1550201|Total - Away|Over 0.5",
      "texto": "Venezia marca",
      "cuota": 1.73,
-     "prob": 0.47
+     "prob": 0.46
     },
     {
      "sel": "1550201|Corners Over Under|Over 9.5",
@@ -1209,7 +1209,7 @@
      "sel": "1550199|To Win Either Half|Home",
      "texto": "Bologna gana alguna de las dos partes",
      "cuota": 1.4,
-     "prob": 0.62
+     "prob": 0.63
     },
     {
      "sel": "1550199|Total - Home|Over 1.5",
@@ -1332,7 +1332,7 @@
      "sel": "1575224|Total - Away|Over 1.5",
      "texto": "FSV Mainz 05 marca 2 o más",
      "cuota": 1.8,
-     "prob": 0.36
+     "prob": 0.35
     }
    ]
   },
@@ -1396,7 +1396,7 @@
      "sel": "1552821|Double Chance|Home/Draw",
      "texto": "Lorient o empate",
      "cuota": 1.57,
-     "prob": 0.51
+     "prob": 0.52
     },
     {
      "sel": "1552821|Corners 1x2|Away",
@@ -1447,7 +1447,7 @@
      "sel": "1575227|Away Player Shots|Miro Muheim - 1",
      "texto": "Miro Muheim: 1+ tiros",
      "cuota": 1.53,
-     "prob": 0.52
+     "prob": 0.53
     }
    ]
   },
@@ -1469,7 +1469,7 @@
      "sel": "1557473|Match Winner|Home",
      "texto": "Gana el Liverpool",
      "cuota": 1.7,
-     "prob": 0.69
+     "prob": 0.7
     },
     {
      "sel": "1557473|To Win Either Half|Home",
@@ -1487,13 +1487,13 @@
      "sel": "1557473|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte del Liverpool–Manchester United",
      "cuota": 1.67,
-     "prob": 0.56
+     "prob": 0.55
     },
     {
      "sel": "1557473|Both Teams Score|Yes",
      "texto": "Ambos marcan en Liverpool–Manchester United",
      "cuota": 1.5,
-     "prob": 0.46
+     "prob": 0.45
     }
    ]
   },
@@ -1673,7 +1673,7 @@
      "sel": "1570456|To Win Either Half|Away",
      "texto": "Atletico Madrid gana alguna de las dos partes",
      "cuota": 1.36,
-     "prob": 0.42
+     "prob": 0.41
     },
     {
      "sel": "1570456|Total - Away|Over 1.5",
@@ -1731,22 +1731,34 @@
    "datos": [],
    "picks": [
     {
-     "sel": "1638338|To Win Either Half|Home",
-     "texto": "SL Benfica (fem.) gana alguna de las dos partes",
-     "cuota": 1.44,
-     "prob": 0.59
+     "sel": "1638338|Double Chance|Home/Draw",
+     "texto": "SL Benfica (fem.) o empate",
+     "cuota": 1.36,
+     "prob": 0.68
     },
     {
      "sel": "1638338|Both Teams Score|Yes",
      "texto": "Ambos marcan en SL Benfica (fem.)–Roma (fem.)",
-     "cuota": 1.57,
-     "prob": 0.59
+     "cuota": 1.5,
+     "prob": 0.62
+    },
+    {
+     "sel": "1638338|Double Chance|Draw/Away",
+     "texto": "Roma (fem.) o empate",
+     "cuota": 1.73,
+     "prob": 0.54
+    },
+    {
+     "sel": "1638338|To Win Either Half|Home",
+     "texto": "SL Benfica (fem.) gana alguna de las dos partes",
+     "cuota": 1.62,
+     "prob": 0.53
     },
     {
      "sel": "1638338|Total - Home|Over 1.5",
      "texto": "SL Benfica (fem.) marca 2 o más",
-     "cuota": 1.67,
-     "prob": 0.56
+     "cuota": 1.8,
+     "prob": 0.52
     }
    ]
   },
@@ -1759,34 +1771,22 @@
    "datos": [],
    "picks": [
     {
-     "sel": "1638286|Double Chance|Draw/Away",
-     "texto": "Lyon (fem.) o empate",
-     "cuota": 1.36,
-     "prob": 0.68
-    },
-    {
      "sel": "1638286|Both Teams Score|Yes",
      "texto": "Ambos marcan en Arsenal (fem.)–Lyon (fem.)",
-     "cuota": 1.5,
-     "prob": 0.62
-    },
-    {
-     "sel": "1638286|Double Chance|Home/Draw",
-     "texto": "Arsenal (fem.) o empate",
-     "cuota": 1.62,
-     "prob": 0.57
+     "cuota": 1.53,
+     "prob": 0.61
     },
     {
      "sel": "1638286|To Win Either Half|Away",
      "texto": "Lyon (fem.) gana alguna de las dos partes",
-     "cuota": 1.57,
-     "prob": 0.54
+     "cuota": 1.44,
+     "prob": 0.59
     },
     {
      "sel": "1638286|Total - Away|Over 1.5",
      "texto": "Lyon (fem.) marca 2 o más",
-     "cuota": 1.73,
-     "prob": 0.54
+     "cuota": 1.67,
+     "prob": 0.56
     }
    ]
   },

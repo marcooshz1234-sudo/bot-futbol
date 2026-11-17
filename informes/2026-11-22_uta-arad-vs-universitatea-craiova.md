@@ -1,7 +1,7 @@
 # Uta Arad – Universitatea Craiova
 **Liga I** · Regular Season - 16 · 22/11/2026 16:30 (hora España) · Arena Francisc Neuman
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -178,7 +178,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 55% | 54% | 54% | 1.70 | -8% |
 | 1X2: X | 25% | 25% | 25% | 3.60 | -9% |
-| 1X2: 1 | 20% | 21% | 21% | 4.33 | -11% |
+| 1X2: 1 | 20% | 21% | 21% | 4.33 | -10% |
 | Ambos marcan: No | 54% | 50% | 52% | 1.83 | -5% |
 | Ambos marcan: Sí | 46% | 50% | 48% | 1.83 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 72% | 71% | 1.30 | -7% |

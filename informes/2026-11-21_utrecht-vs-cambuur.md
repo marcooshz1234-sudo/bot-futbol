@@ -1,7 +1,7 @@
 # Utrecht – Cambuur
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -192,7 +192,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 40% | 28% | 34% | 3.30 | +11% |
 | 1X2: X | 22% | 24% | 23% | 3.80 | -12% |
-| 1X2: 1 | 38% | 48% | 43% | 1.91 | -18% |
+| 1X2: 1 | 38% | 48% | 43% | 1.91 | -17% |
 | Doble oportunidad: X2 | 62% | 52% | 57% | 1.83 | +4% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 60% | 72% | 66% | 1.33 | -12% |
@@ -206,10 +206,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 72% | 73% | 72% | 1.28 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 21% | 4.50 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 79% | 1.18 | -6% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
 | Goles del local: Más de 1.5 | 53% | 58% | 55% | 1.62 | -11% |
 | Goles del local: Más de 2.5 | 26% | 31% | 29% | 3.00 | -14% |
 | Goles del local: Menos de 1.5 | 47% | 42% | 45% | 2.20 | -1% |

@@ -1,15 +1,15 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 573 · aciertos: 356 (62%) · beneficio a 1 € por pick: -68.86 €
+Picks ya jugados: 575 · aciertos: 358 (62%) · beneficio a 1 € por pick: -68.08 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
 | goles | 144 | 222 | 65% | -22.02 € |
-| jugador | 125 | 195 | 64% | -22.68 € |
+| jugador | 126 | 196 | 64% | -22.32 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
-| resultado | 65 | 106 | 61% | -10.25 € |
+| resultado | 66 | 107 | 62% | -9.83 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
 | corners | 3 | 14 | 21% | -9.14 € |
 | fueras de juego | 0 | 3 | 0% | -3.00 € |
@@ -27,8 +27,8 @@ Picks ya jugados: 573 · aciertos: 356 (62%) · beneficio a 1 € por pick: -68.
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 6 | 8 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
+| Match Winner · Home | 8 | 11 | 73% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
-| Match Winner · Home | 7 | 10 | 70% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
 | Match Winner · Away | 8 | 12 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
@@ -52,10 +52,12 @@ Picks ya jugados: 573 · aciertos: 356 (62%) · beneficio a 1 € por pick: -68.
 
 ## Últimos días
 
-### 2026-11-16 · 1/3
+### 2026-11-16 · 3/5
 - ✅ Slovakia marca 2 o más · 1.80 (2-2)
 - ❌ Gana el Slovakia · 1.80 (2-2)
 - ❌ Más de 8,5 córners en Estonia–Bulgaria · 1.73 (2-1)
+- ✅ Gana el Greece · 1.42 (1-0)
+- ✅ Konstantinos Mavropanos: 1+ tiros · 1.36 (1-0)
 
 ### 2026-11-15 · 2/4
 - ❌ Gana el Madrid CFF W · 2.10 (2-3)

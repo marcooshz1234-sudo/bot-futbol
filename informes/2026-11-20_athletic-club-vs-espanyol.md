@@ -1,7 +1,7 @@
 # Athletic Club – Espanyol
 **LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -217,7 +217,7 @@ _Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
 | Goles del visitante: Más de 0.5 | 53% | 54% | 53% | 1.73 | -8% |
 | Goles del visitante: Más de 1.5 | 17% | 21% | 19% | 4.50 | -14% |
 | Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -6% |
-| Goles del visitante: Menos de 1.5 | 83% | 79% | 81% | 1.18 | -5% |
+| Goles del visitante: Menos de 1.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Córners más/menos: Más de 9.5 | 49% | 50% | 49% | 1.83 | -10% |
 | Córners más/menos: Menos de 9.5 | 51% | 50% | 51% | 1.83 | -7% |
 | 1X2 descanso: X | 44% | 39% | 41% | 2.38 | -1% |

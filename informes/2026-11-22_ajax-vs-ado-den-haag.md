@@ -1,7 +1,7 @@
 # Ajax – ADO Den Haag
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -215,17 +215,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 50% | 44% | 47% | 2.10 | -1% |
 | Goles más/menos: Menos de 4.5 | 69% | 65% | 67% | 1.44 | -4% |
 | Goles más/menos: Menos de 5.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 51% | 50% | 1.80 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 48% | 51% | 49% | 1.80 | -11% |
 | Goles 1ª parte más/menos: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 49% | 51% | 1.91 | -4% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del local: Más de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
 | Goles del local: Más de 2.5 | 53% | 59% | 56% | 1.57 | -12% |
-| Goles del local: Más de 3.5 | 30% | 38% | 34% | 2.50 | -15% |
-| Goles del local: Más de 4.5 | 15% | 22% | 18% | 4.33 | -21% |
+| Goles del local: Más de 3.5 | 31% | 38% | 34% | 2.50 | -15% |
+| Goles del local: Más de 4.5 | 15% | 22% | 18% | 4.33 | -20% |
 | Goles del local: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
 | Goles del local: Menos de 2.5 | 47% | 41% | 44% | 2.25 | -1% |
-| Goles del local: Menos de 3.5 | 70% | 62% | 66% | 1.50 | -1% |
+| Goles del local: Menos de 3.5 | 69% | 62% | 66% | 1.50 | -1% |
 | Goles del local: Menos de 4.5 | 85% | 78% | 82% | 1.20 | -2% |
 | Goles del visitante: Más de 0.5 | 59% | 56% | 57% | 1.67 | -4% |
 | Goles del visitante: Más de 1.5 | 23% | 22% | 22% | 4.33 | -4% |

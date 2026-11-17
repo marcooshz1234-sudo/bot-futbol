@@ -1,7 +1,7 @@
 # Rayo Vallecano – Valencia
 **LaLiga** · Regular Season - 13 · 21/11/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -214,10 +214,10 @@ _Goles esperados: local 1,39 · visitante 1,10 · córners esperados 9,7._
 | Goles 1ª parte más/menos: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
 | Goles del local: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
 | Goles del local: Más de 1.5 | 41% | 46% | 43% | 2.00 | -13% |
-| Goles del local: Más de 2.5 | 16% | 22% | 19% | 4.33 | -17% |
+| Goles del local: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
 | Goles del local: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
 | Goles del local: Menos de 1.5 | 59% | 54% | 57% | 1.73 | -2% |
-| Goles del local: Menos de 2.5 | 84% | 78% | 81% | 1.20 | -3% |
+| Goles del local: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
 | Goles del visitante: Más de 0.5 | 67% | 62% | 65% | 1.50 | -3% |
 | Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
 | Goles del visitante: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -11% |

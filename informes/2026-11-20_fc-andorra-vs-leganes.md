@@ -1,7 +1,7 @@
 # FC Andorra – Leganes
 **Segunda División** · Regular Season - 15 · 20/11/2026 20:30 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -139,6 +139,6 @@ _Sin bajas comunicadas por ahora._
 | Raúl Fernández | G | 4 | 293 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,10 · visitante 1,15 · córners esperados 9,7._
+_Goles esperados: local 2,10 · visitante 1,16 · córners esperados 9,7._
 
 _Sin cuotas de Bet365 todavía para comparar._

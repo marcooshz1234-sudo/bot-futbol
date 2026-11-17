@@ -1,7 +1,7 @@
 # AVS – Tondela
 **Taça de Portugal** · Round of 32 · 21/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -114,6 +114,6 @@ _Sin bajas comunicadas por ahora._
 | João Lima | F | 1 | 3 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,03 · visitante 1,06 · córners esperados 7,4._
+_Goles esperados: local 1,03 · visitante 1,05 · córners esperados 7,4._
 
 _Sin cuotas de Bet365 todavía para comparar._

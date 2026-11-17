@@ -1,7 +1,7 @@
 # Aarhus Fremad – Hobro
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Jysk Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:51_
@@ -137,7 +137,7 @@ _Sin bajas comunicadas por ahora._
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,19 · visitante 0,73._
+_Goles esperados: local 1,19 · visitante 0,72._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -148,7 +148,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 1 | 47% | 48% | 47% | 1.91 | -9% |
 | Doble oportunidad: X2 | 53% | 53% | 53% | 1.73 | -8% |
 | Doble oportunidad: 12 | 70% | 73% | 72% | 1.25 | -11% |
-| Doble oportunidad: 1X | 78% | 73% | 75% | 1.25 | -6% |
+| Doble oportunidad: 1X | 78% | 73% | 76% | 1.25 | -6% |
 | Ambos marcan: No | 64% | 46% | 55% | 2.00 | +10% |
 | Ambos marcan: Sí | 36% | 54% | 45% | 1.73 | -23% |
 | Goles más/menos: Más de 1.5 | 57% | 75% | 66% | 1.25 | -17% |

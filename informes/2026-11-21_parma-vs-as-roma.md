@@ -1,7 +1,7 @@
 # Parma – AS Roma
 **Serie A** · Regular Season - 12 · 21/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -186,12 +186,12 @@ _Goles esperados: local 0,79 · visitante 2,43 · córners esperados 9,5._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 74% | 73% | 73% | 1.27 | -7% |
+| 1X2: 2 | 73% | 73% | 73% | 1.27 | -7% |
 | 1X2: X | 16% | 18% | 17% | 5.25 | -11% |
 | 1X2: 1 | 10% | 10% | 10% | 9.50 | -5% |
 | Doble oportunidad: X2 | 90% | 90% | 90% | 1.07 | -4% |
 | Doble oportunidad: 12 | 84% | 82% | 83% | 1.17 | -3% |
-| Doble oportunidad: 1X | 26% | 28% | 27% | 3.40 | -7% |
+| Doble oportunidad: 1X | 27% | 28% | 27% | 3.40 | -7% |
 | Ambos marcan: No | 50% | 52% | 51% | 1.80 | -8% |
 | Ambos marcan: Sí | 50% | 48% | 49% | 1.95 | -5% |
 | Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
@@ -207,12 +207,12 @@ _Goles esperados: local 0,79 · visitante 2,43 · córners esperados 9,5._
 | Goles del local: Más de 0.5 | 55% | 51% | 53% | 1.80 | -4% |
 | Goles del local: Menos de 0.5 | 45% | 49% | 47% | 1.91 | -10% |
 | Goles del visitante: Más de 1.5 | 70% | 71% | 70% | 1.33 | -6% |
-| Goles del visitante: Más de 2.5 | 44% | 44% | 44% | 2.10 | -7% |
-| Goles del visitante: Más de 3.5 | 23% | 25% | 24% | 3.75 | -10% |
+| Goles del visitante: Más de 2.5 | 44% | 44% | 44% | 2.10 | -8% |
+| Goles del visitante: Más de 3.5 | 23% | 25% | 24% | 3.75 | -11% |
 | Goles del visitante: Menos de 1.5 | 30% | 29% | 30% | 3.25 | -4% |
 | Goles del visitante: Menos de 2.5 | 56% | 56% | 56% | 1.67 | -7% |
 | Goles del visitante: Menos de 3.5 | 77% | 75% | 76% | 1.25 | -5% |
-| 1X2 descanso: 2 | 54% | 55% | 55% | 1.67 | -9% |
+| 1X2 descanso: 2 | 54% | 55% | 54% | 1.67 | -9% |
 | 1X2 descanso: X | 34% | 34% | 34% | 2.75 | -6% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

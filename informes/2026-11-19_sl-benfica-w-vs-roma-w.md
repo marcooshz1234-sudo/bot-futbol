@@ -1,17 +1,17 @@
 # SL Benfica W – Roma W
-**Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Caixa Futebol Campus
+**Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Estadio da Tapadinha
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 09:51_
+_Actualizadas: 17/11 02:17_
 
-- **1X2:** 1 **1.85**  ·  X **4.00**  ·  2 **3.50**
-- **Doble oportunidad:** 1X **1.25**  ·  12 **1.18**  ·  X2 **1.83**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **1X2:** 1 **2.15**  ·  X **3.80**  ·  2 **2.80**
+- **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.73**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
-    - 2,5: más **1.53** · menos **2.38**
+    - 2,5: más **1.57** · menos **2.35**
     - 3,5: más **2.38** · menos **1.53**
     - 4,5: más **4.00** · menos **1.22**
     - 5,5: más **7.00** · menos **1.08**
@@ -21,35 +21,36 @@ _Actualizadas: 16/11 09:51_
     - 2,5: más **4.50** · menos **1.17**
     - 3,5: más **9.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.00**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **6.50** · menos **1.10**
+    - 0,5: más **1.17** · menos **4.50**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.73**
+    - 9,5: más **2.02** · menos **1.78**
 - **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.75**
-- **1X2 descanso:** 1 **2.30**  ·  X **2.40**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.50**  ·  X **2.40**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
+    - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **1.44**  ·  2 **2.10**
-- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **4.00**
-- **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **5.00**  ·  Away/Yes **5.50**  ·  Home/No **3.75**  ·  Draw/No **17.00**  ·  Away/No **7.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.10**
+- **To Win Either Half:** 1 **1.62**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **3.40**
+- **Win Both Halves:** 1 **7.00**  ·  2 **10.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.75**  ·  Home/No **4.50**  ·  Draw/No **17.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
+- **Anytime Goal Scorer:** Frederikke Thogersen **7.00**  ·  Martina Piemonte **2.75**  ·  Manuela Giugliano **4.00**  ·  Elisabetta Oliviero **11.00**  ·  Anna Csiki **6.50**  ·  Tinkara Testen **9.50**  ·  Giada Greggi **6.50**  ·  Alayah Pilgrim **3.60**  ·  Marit Bratberg Lund **5.00**  ·  Caroline Moller **3.10**  ·  Chandra Davidson **2.62**  ·  Alice Corelli **3.60**  ·  Annalena Rieke **11.00**  ·  Marta Pandini **5.00**  ·  Rinsola Babajide **3.10**  ·  Sara Terlizzi **9.50**  ·  Shukurat Oladipo **11.00**  ·  Carolina Tristao **5.00**  ·  Clara Oliveira **4.00**  ·  Nicole Raysala **3.00**  ·  Paula Encinas **4.50**  ·  Froya Dorsin **2.62**  ·  Neide Guedes **4.00**  ·  Kayleigh van Dooren **3.10**  ·  Shao Ziqin **2.50**  ·  Ines Meninas **9.50**  ·  Diana Costa **2.62**  ·  Flourish Sabastine **3.10**  ·  Janet Akekoromowei **3.40**  ·  Blessing Demehin **11.00**  ·  Agata Pinchi **3.60**  ·  Bianca Vergani **11.00**  ·  Ella Ottey **13.00**  ·  Magda Piekarska **11.00**  ·  Maya Antoine **13.00**  ·  Maya Doms **6.00**  ·  Rebecca Roselli **3.60**  ·  Sofia Jahnukainen **3.10**  ·  Viola Cacace **9.50**  ·  Giada Pellegrino Cimò **4.33**  ·  Ariana Schafer **6.50**  ·  Matilde Matos **6.50**  ·  Madalena Loucao **6.50**  ·  Valentina Bergamaschi **7.50**  ·  Winonah Heatley **11.00**  ·  Ana Borges **6.50**  ·  Andreia Norton **6.00**  ·  Catarina Amado **7.50**  ·  Diana Gomes **9.50**  ·  Lucia Alves **3.40**
 
 ## Estadísticas de equipo
 | | SL Benfica W (total) | SL Benfica W en casa | Roma W (total) | Roma W fuera |

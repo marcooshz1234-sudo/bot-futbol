@@ -1,7 +1,7 @@
 # Marseille – Le Mans
 **Ligue 1** · Regular Season - 11 · 22/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -188,7 +188,7 @@ _Sin precedentes recientes._
 | Théo Eyoum | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,04 · visitante 1,31 · córners esperados 9,1._
+_Goles esperados: local 2,05 · visitante 1,31 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -207,8 +207,8 @@ _Goles esperados: local 2,04 · visitante 1,31 · córners esperados 9,1._
 | Goles más/menos: Menos de 3.5 | 57% | 59% | 58% | 1.62 | -6% |
 | Goles más/menos: Menos de 4.5 | 75% | 76% | 76% | 1.25 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 44% | 44% | 2.10 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 18% | 21% | 19% | 4.50 | -12% |
+| Goles 1ª parte más/menos: Más de 1.5 | 43% | 44% | 44% | 2.10 | -9% |
+| Goles 1ª parte más/menos: Más de 2.5 | 18% | 21% | 19% | 4.50 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 57% | 56% | 56% | 1.67 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |

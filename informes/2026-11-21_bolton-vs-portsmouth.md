@@ -1,7 +1,7 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -196,14 +196,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 42% | 39% | 41% | 2.35 | -5% |
+| 1X2: 2 | 42% | 39% | 40% | 2.35 | -5% |
 | 1X2: X | 27% | 27% | 27% | 3.40 | -9% |
 | 1X2: 1 | 32% | 34% | 33% | 2.75 | -10% |
 | Doble oportunidad: X2 | 68% | 67% | 68% | 1.40 | -5% |
 | Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
 | Doble oportunidad: 1X | 58% | 60% | 59% | 1.57 | -7% |
-| Ambos marcan: No | 48% | 44% | 46% | 2.10 | -3% |
-| Ambos marcan: Sí | 52% | 56% | 54% | 1.67 | -10% |
+| Ambos marcan: No | 49% | 44% | 46% | 2.10 | -3% |
+| Ambos marcan: Sí | 51% | 56% | 54% | 1.67 | -11% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
 | Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
 | Goles más/menos: Más de 3.5 | 25% | 30% | 28% | 3.20 | -12% |
@@ -215,9 +215,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
 | Goles del local: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles del local: Más de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | +0% |
-| Goles del local: Menos de 1.5 | 68% | 61% | 64% | 1.53 | -2% |
+| Goles del local: Más de 1.5 | 33% | 39% | 36% | 2.38 | -15% |
+| Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -0% |
+| Goles del local: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
 | Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
 | Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
 | Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |

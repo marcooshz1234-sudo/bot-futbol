@@ -1,7 +1,7 @@
 # SV Elversberg – SC Freiburg
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Waldstadion Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -185,7 +185,7 @@ _Sin bajas comunicadas por ahora._
 | F. Müller | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
+_Goles esperados: local 1,28 · visitante 1,90 · córners esperados 9,7._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
@@ -195,8 +195,8 @@ _Goles esperados: local 1,28 · visitante 1,91 · córners esperados 9,7._
 | Doble oportunidad: X2 | 74% | 71% | 73% | 1.33 | -3% |
 | Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -4% |
 | Doble oportunidad: 1X | 48% | 53% | 50% | 1.80 | -9% |
-| Ambos marcan: No | 38% | 35% | 37% | 2.62 | -3% |
-| Ambos marcan: Sí | 62% | 65% | 63% | 1.44 | -9% |
+| Ambos marcan: No | 39% | 35% | 37% | 2.62 | -3% |
+| Ambos marcan: Sí | 61% | 65% | 63% | 1.44 | -9% |
 | Goles más/menos: Más de 2.5 | 62% | 60% | 61% | 1.57 | -4% |
 | Goles más/menos: Más de 3.5 | 39% | 40% | 40% | 2.38 | -6% |
 | Goles más/menos: Más de 4.5 | 22% | 22% | 22% | 4.33 | -5% |

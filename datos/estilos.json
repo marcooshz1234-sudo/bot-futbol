@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16 20:06",
+ "generado": "2026-11-17 02:19",
  "estilos": {
   "datos-rachas": {
    "nota": 0.927,
@@ -38,8 +38,8 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.424,
-   "posts_threads": 19,
+   "nota": 2.05,
+   "posts_threads": 20,
    "resultados": 2,
    "verdes": 1
   },
@@ -50,9 +50,9 @@
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 0.985,
+   "nota": 1.035,
    "posts_threads": 14,
-   "resultados": 3,
+   "resultados": 2,
    "verdes": 0
   },
   "combi-partido-1550167": {
@@ -146,9 +146,9 @@
    "verdes": 0
   },
   "combi-loca": {
-   "nota": 0.699,
+   "nota": 0.774,
    "posts_threads": 9,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550186": {
@@ -236,9 +236,9 @@
    "verdes": 0
   },
   "lista-europa-2": {
-   "nota": 1.135,
+   "nota": 1.21,
    "posts_threads": 3,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1635677": {
@@ -248,21 +248,21 @@
    "verdes": 0
   },
   "lista-europa-1": {
-   "nota": 0.993,
+   "nota": 1.118,
    "posts_threads": 2,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-multi": {
-   "nota": 0.975,
+   "nota": 1.025,
    "posts_threads": 7,
-   "resultados": 3,
+   "resultados": 2,
    "verdes": 0
   },
   "combi-partido-1635745": {
-   "nota": 0.864,
+   "nota": 0.989,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "estrella-1635656": {
@@ -272,9 +272,9 @@
    "verdes": 0
   },
   "estrella-1635651": {
-   "nota": 0.876,
+   "nota": 1.001,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "lista-europa-3": {
@@ -332,7 +332,7 @@
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 2.1,
+   "nota": 1.75,
    "posts_threads": 0,
    "resultados": 2,
    "verdes": 1
@@ -493,10 +493,118 @@
    "resultados": 1,
    "verdes": 0
   },
+  "loca-th-0800-x50": {
+   "nota": 1.375,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1000-x500": {
+   "nota": 0.966,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
   "loca-th-1130-lista-gana": {
-   "nota": 0.875,
-   "posts_threads": 0,
+   "nota": 0.827,
+   "posts_threads": 1,
    "resultados": 1,
+   "verdes": 0
+  },
+  "loca-th-1300-reto": {
+   "nota": 0.928,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-m": {
+   "nota": 1.104,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1400-tiros-b": {
+   "nota": 1.351,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1430-lista-corners": {
+   "nota": 0.951,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1500-duelo": {
+   "nota": 0.927,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1530-x100": {
+   "nota": 1.303,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "combi-partido-m-1528990": {
+   "nota": 1.017,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1700-escudos": {
+   "nota": 1.03,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1730-escudos": {
+   "nota": 1.375,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1830-hora": {
+   "nota": 1.332,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1900-x50": {
+   "nota": 0.961,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1930-tapados": {
+   "nota": 1.087,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-2000-lista-corners": {
+   "nota": 0.919,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-2030-ganaambos": {
+   "nota": 1.086,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-noche-2100-x100": {
+   "nota": 0.924,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-noche-2130-ganaambos": {
+   "nota": 0.875,
+   "posts_threads": 1,
+   "resultados": 0,
    "verdes": 0
   }
  }

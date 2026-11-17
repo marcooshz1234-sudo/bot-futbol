@@ -1,7 +1,7 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -184,7 +184,7 @@ _Sin bajas comunicadas por ahora._
 | Luuk Brouwers | M | 2 | 31 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,60 · visitante 1,99 · córners esperados 9,3._
+_Goles esperados: local 1,60 · visitante 1,98 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -205,8 +205,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 52% | 54% | 53% | 1.73 | -9% |
 | Goles más/menos: Menos de 4.5 | 71% | 72% | 72% | 1.30 | -7% |
 | Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 46% | 46% | 2.00 | -7% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 22% | 21% | 4.33 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
+| Goles 1ª parte más/menos: Más de 2.5 | 21% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -5% |
@@ -216,9 +216,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
 | Goles del visitante: Más de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
 | Goles del visitante: Más de 2.5 | 32% | 25% | 28% | 3.75 | +7% |
-| Goles del visitante: Menos de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
+| Goles del visitante: Menos de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
 | Goles del visitante: Menos de 2.5 | 68% | 75% | 72% | 1.25 | -11% |
-| 1X2 descanso: 2 | 37% | 31% | 34% | 3.00 | +3% |
+| 1X2 descanso: 2 | 37% | 31% | 34% | 3.00 | +2% |
 | 1X2 descanso: X | 36% | 36% | 36% | 2.60 | -7% |
 | 1X2 descanso: 1 | 27% | 33% | 30% | 2.88 | -14% |
 

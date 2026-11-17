@@ -15540,7 +15540,7 @@
   "dia": "2026-11-17",
   "escalon": 1,
   "stake": 20.0,
-  "cuota": 2.2,
+  "cuota": 2.14,
   "picks": [
    {
     "partido_id": 1528996,
@@ -15564,10 +15564,10 @@
      "1116": [],
      "775": []
     },
-    "prob_aprendida": 0.681,
+    "prob_aprendida": 0.682,
     "prob_bet365": 0.6671289163019205,
-    "prob_tipo": 0.6963636363636364,
-    "prob_sin_calibrar": 0.6728181423658742,
+    "prob_tipo": 0.6980495867768596,
+    "prob_sin_calibrar": 0.6739690142991663,
     "motivacion": "gana: 3.º-4.º · empata: 4.º (play-off para no bajar) · pierde: 4.º (play-off para no bajar)"
    },
    {
@@ -15581,9 +15581,9 @@
     "opcion": "Over 0.5",
     "tipo": "goles",
     "texto": "Wales marca",
-    "cuota": 1.57,
+    "cuota": 1.53,
     "frecuencia": 0.6,
-    "ventaja": -0.037,
+    "ventaja": -0.054,
     "detalle": "Wales 2/5 · Portugal 4/5",
     "contexto": null,
     "forma": "forma_peor",
@@ -15592,10 +15592,10 @@
      "767": [],
      "27": []
     },
-    "prob_aprendida": 0.657,
-    "prob_bet365": 0.6132589765454988,
-    "prob_tipo": 0.775763429927131,
-    "prob_sin_calibrar": 0.6788796056886767
+    "prob_aprendida": 0.653,
+    "prob_bet365": 0.5934303402594009,
+    "prob_tipo": 0.781758205508824,
+    "prob_sin_calibrar": 0.6750069298303845
    }
   ],
   "hora": null,

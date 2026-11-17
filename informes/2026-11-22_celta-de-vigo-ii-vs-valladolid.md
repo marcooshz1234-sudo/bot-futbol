@@ -1,7 +1,7 @@
 # Celta de Vigo II – Valladolid
 **Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -58,53 +58,53 @@ _Actualizadas: 16/11 20:01_
 ## Estadísticas de equipo
 | | Celta de Vigo II (total) | Celta de Vigo II en casa | Valladolid (total) | Valladolid fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 15 | 8 |
-| Forma (últimos 5) | DEDEV | EEVED | DVVVD | VVDEE |
-| Balance | 3V 4E 6D | 2V 3E 2D | 6V 3E 6D | 2V 3E 3D |
-| Goles a favor / partido | 1,46 | 1,86 | 1,53 | 1,00 |
-| Goles en contra / partido | 1,92 | 1,86 | 1,40 | 1,25 |
-| Goles a favor 1ª parte | 0,69 | 0,86 | 1,07 | 0,75 |
-| Goles a favor 2ª parte | 0,77 | 1,00 | 0,47 | 0,25 |
-| Goles en contra 1ª parte | 1,15 | 1,00 | 0,53 | 0,38 |
-| Goles en contra 2ª parte | 0,77 | 0,86 | 0,87 | 0,88 |
-| Más de 1,5 goles | 92% | 100% | 73% | 75% |
-| Más de 2,5 goles | 62% | 71% | 53% | 38% |
-| Más de 3,5 goles | 46% | 57% | 33% | 12% |
-| Ambos marcan | 69% | 86% | 53% | 62% |
-| Portería a cero | 15% | 0% | 20% | 12% |
-| Se queda sin marcar | 23% | 14% | 27% | 25% |
-| xG a favor | 1,21 | 1,54 | 1,48 | 0,94 |
-| xG en contra | 1,96 | 1,58 | 1,53 | 1,37 |
+| Partidos analizados | 14 | 7 | 15 | 8 |
+| Forma (últimos 5) | DDEDE | EEVED | DVVVD | VVDEE |
+| Balance | 3V 4E 7D | 2V 3E 2D | 6V 3E 6D | 2V 3E 3D |
+| Goles a favor / partido | 1,36 | 1,86 | 1,53 | 1,00 |
+| Goles en contra / partido | 1,86 | 1,86 | 1,40 | 1,25 |
+| Goles a favor 1ª parte | 0,64 | 0,86 | 1,07 | 0,75 |
+| Goles a favor 2ª parte | 0,71 | 1,00 | 0,47 | 0,25 |
+| Goles en contra 1ª parte | 1,14 | 1,00 | 0,53 | 0,38 |
+| Goles en contra 2ª parte | 0,71 | 0,86 | 0,87 | 0,88 |
+| Más de 1,5 goles | 86% | 100% | 73% | 75% |
+| Más de 2,5 goles | 57% | 71% | 53% | 38% |
+| Más de 3,5 goles | 43% | 57% | 33% | 12% |
+| Ambos marcan | 64% | 86% | 53% | 62% |
+| Portería a cero | 14% | 0% | 20% | 12% |
+| Se queda sin marcar | 29% | 14% | 27% | 25% |
+| xG a favor | 1,23 | 1,54 | 1,48 | 0,94 |
+| xG en contra | 1,97 | 1,58 | 1,53 | 1,37 |
 | Tiros / partido | 11,5 | 13,4 | 13,2 | 13,1 |
-| Tiros a puerta / partido | 4,8 | 5,7 | 5,3 | 5,4 |
+| Tiros a puerta / partido | 4,6 | 5,7 | 5,3 | 5,4 |
 | Tiros recibidos | 15,4 | 13,7 | 13,1 | 12,0 |
-| Tiros a puerta recibidos | 5,2 | 4,6 | 4,4 | 4,0 |
+| Tiros a puerta recibidos | 5,3 | 4,6 | 4,4 | 4,0 |
 | Posesión media % | 48 | 50 | 48 | 50 |
-| Córners a favor | 3,4 | 3,4 | 4,9 | 4,7 |
-| Córners en contra | 5,8 | 5,1 | 4,4 | 4,3 |
-| Córners a favor 1ª parte | 1,7 | 1,6 | 2,5 | 2,9 |
+| Córners a favor | 3,5 | 3,4 | 4,9 | 4,7 |
+| Córners en contra | 6,0 | 5,1 | 4,4 | 4,3 |
+| Córners a favor 1ª parte | 1,8 | 1,6 | 2,5 | 2,9 |
 | Córners a favor 2ª parte | 1,7 | 1,9 | 2,4 | 1,9 |
-| Córners totales del partido | 9,2 | 8,6 | 9,3 | 9,0 |
-| Córners totales 1ª parte | 4,5 | 4,4 | 4,1 | 4,6 |
-| Córners totales 2ª parte | 4,7 | 4,1 | 5,1 | 4,4 |
-| Más de 8,5 córners | 54% | 43% | 57% | 57% |
-| Más de 9,5 córners | 46% | 43% | 50% | 43% |
-| Más de 10,5 córners | 38% | 29% | 29% | 14% |
-| Faltas cometidas | 12,5 | 12,6 | 13,6 | 15,1 |
+| Córners totales del partido | 9,5 | 8,6 | 9,3 | 9,0 |
+| Córners totales 1ª parte | 4,4 | 4,4 | 4,1 | 4,6 |
+| Córners totales 2ª parte | 5,1 | 4,1 | 5,1 | 4,4 |
+| Más de 8,5 córners | 57% | 43% | 57% | 57% |
+| Más de 9,5 córners | 50% | 43% | 50% | 43% |
+| Más de 10,5 córners | 43% | 29% | 29% | 14% |
+| Faltas cometidas | 12,7 | 12,6 | 13,6 | 15,1 |
 | Faltas recibidas | 13,9 | 13,1 | 14,0 | 13,0 |
-| Amarillas propias | 2,8 | 2,7 | 3,1 | 3,7 |
+| Amarillas propias | 3,0 | 2,7 | 3,1 | 3,7 |
 | Amarillas del rival | 2,6 | 3,0 | 3,2 | 2,9 |
-| Rojas / partido | 0,15 | 0,00 | 0,29 | 0,29 |
+| Rojas / partido | 0,14 | 0,00 | 0,29 | 0,29 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Celta de Vigo II | Recibe Celta de Vigo II | Tarjetas Celta de Vigo II | Goles Valladolid | Recibe Valladolid | Tarjetas Valladolid |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 4 | 2 | 6 | 3 | 4 |
-| 16-30' | 2 | 7 | 6 | 5 | 3 | 8 |
-| 31-45' | 3 | 4 | 4 | 5 | 2 | 9 |
+| 1-15' | 4 | 5 | 2 | 6 | 3 | 4 |
+| 16-30' | 2 | 7 | 7 | 5 | 3 | 8 |
+| 31-45' | 3 | 4 | 6 | 5 | 2 | 9 |
 | 46-60' | 4 | 6 | 5 | 5 | 3 | 5 |
-| 61-75' | 0 | 2 | 5 | 1 | 6 | 5 |
-| 76-90' | 6 | 2 | 17 | 1 | 4 | 19 |
+| 61-75' | 0 | 2 | 6 | 1 | 6 | 5 |
+| 76-90' | 6 | 2 | 18 | 1 | 4 | 19 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -117,36 +117,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Celta de Vigo II
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | Segunda División | Albacete 1-0 Celta de Vigo II | fuera | 5-9 | 11 (3) - 16 (6) | 5-3 |
 | 2026-11-07 | Segunda División | Burgos 2-1 Celta de Vigo II | fuera | 1-10 | 7 (1) - 19 (6) | 4-1 |
 | 2026-10-31 | Segunda División | Celta de Vigo II 2-2 Cordoba | casa | 4-7 | 17 (7) - 11 (5) | 3-2 |
 | 2026-10-24 | Segunda División | Girona 5-1 Celta de Vigo II | fuera | 2-7 | 3 (3) - 21 (8) | 3-1 |
 | 2026-10-19 | Segunda División | Celta de Vigo II 1-1 Tenerife | casa | 4-4 | 14 (4) - 10 (3) | 3-2 |
 | 2026-10-10 | Segunda División | Celta de Vigo II 4-1 Real Sociedad II | casa | 1-10 | 13 (8) - 23 (5) | 3-3 |
-| 2026-10-04 | Segunda División | Sporting Gijon 3-2 Celta de Vigo II | fuera | 6-6 | 14 (8) - 13 (7) | 2-5 |
 
 ## Jugadores de Celta de Vigo II
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Coke Carrillo | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Coke Carrillo | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | K. Ribes | D | 13 | 1102 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 8 | 15 | 1,2 | 5 | 0 |
 | AdriÃ  Capdevila | M | 13 | 1058 | 1 | 0 | 5 | 0,4 | 3 | 0,2 | 17 | 23 | 1,8 | 5 | 0 |
-| A. Marin | F | 13 | 950 | 8 | 1 | 26 | 2,0 | 11 | 0,8 | 14 | 21 | 1,6 | 2 | 0 |
+| A. Marin | F | 14 | 1035 | 8 | 1 | 28 | 2,0 | 12 | 0,9 | 15 | 21 | 1,5 | 2 | 0 |
+| Ángel Arcos | F | 14 | 993 | 1 | 0 | 19 | 1,4 | 9 | 0,6 | 8 | 15 | 1,1 | 0 | 0 |
 | Joel López | D | 13 | 938 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 16 | 12 | 0,9 | 5 | 0 |
-| Ángel Arcos | M | 13 | 903 | 1 | 0 | 18 | 1,4 | 9 | 0,7 | 7 | 14 | 1,1 | 0 | 0 |
-| O. Marcos | F | 12 | 865 | 3 | 1 | 20 | 1,7 | 15 | 1,2 | 7 | 20 | 1,7 | 4 | 0 |
-| G. Miller | M | 13 | 794 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 6 | 14 | 1,1 | 2 | 0 |
-| Anxo Rodríguez | D | 8 | 646 | 0 | 1 | 3 | 0,4 | 2 | 0,2 | 11 | 2 | 0,2 | 5 | 0 |
+| O. Marcos | F | 13 | 933 | 3 | 1 | 21 | 1,6 | 15 | 1,2 | 7 | 23 | 1,8 | 4 | 0 |
+| G. Miller | D | 14 | 884 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 6 | 18 | 1,3 | 2 | 0 |
+| A. Rodriguez | D | 9 | 736 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 14 | 2 | 0,2 | 5 | 0 |
 | P. Gavian | M | 10 | 637 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 11 | 7 | 0,7 | 0 | 0 |
 | A. Kibet | M | 11 | 598 | 3 | 2 | 12 | 1,1 | 8 | 0,7 | 13 | 8 | 0,7 | 0 | 0 |
-| P. Meixus | D | 11 | 556 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 10 | 4 | 0,4 | 1 | 2 |
+| P. Meixus | D | 12 | 561 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 11 | 4 | 0,3 | 2 | 2 |
 | M. Sobral | M | 8 | 472 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 8 | 6 | 0,8 | 0 | 0 |
 | H. Cuenca | M | 9 | 412 | 0 | 1 | 9 | 1,0 | 3 | 0,3 | 5 | 8 | 0,9 | 2 | 0 |
 | S. M. Ndiaye | D | 6 | 349 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 0 | 0,0 | 2 | 0 |
+| Jan Oliveras | M | 8 | 332 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 1 | 0,1 | 1 | 0 |
+| Raúl Chirveches Sánchez |  | 10 | 294 | 0 | 0 | 7 | 0,7 | 1 | 0,1 | 6 | 3 | 0,3 | 3 | 0 |
 | Hugo Burcio | M | 4 | 288 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 6 | 1,5 | 0 | 0 |
-| Jan Oliveras | M | 7 | 247 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,1 | 1 | 0 |
+| Andrés Antañón | M | 4 | 270 | 1 | 0 | 4 | 1,0 | 2 | 0,5 | 4 | 3 | 0,8 | 1 | 0 |
 | Bernard Somuah | F | 6 | 204 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 4 | 1 | 0,2 | 0 | 0 |
-| Andrés Antañón | M | 3 | 180 | 1 | 0 | 2 | 0,7 | 2 | 0,7 | 2 | 1 | 0,3 | 0 | 0 |
-| Alexis Olmedo | D | 4 | 169 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,8 | 2 | 0 |
 
 ## Últimos partidos de Valladolid
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
@@ -183,44 +183,44 @@ _Sin precedentes recientes._
 | M. Lachuer | M | 8 | 250 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 8 | 4 | 0,5 | 4 | 1 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,47 · visitante 1,78 · córners esperados 9,3._
+_Goles esperados: local 1,42 · visitante 1,77 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 45% | 53% | 49% | 1.73 | -15% |
+| 1X2: 2 | 46% | 53% | 49% | 1.73 | -15% |
 | 1X2: X | 23% | 25% | 24% | 3.60 | -13% |
-| 1X2: 1 | 32% | 22% | 27% | 4.20 | +13% |
-| Doble oportunidad: X2 | 68% | 72% | 70% | 1.33 | -7% |
+| 1X2: 1 | 31% | 22% | 26% | 4.20 | +11% |
+| Doble oportunidad: X2 | 69% | 72% | 70% | 1.33 | -6% |
 | Doble oportunidad: 12 | 77% | 73% | 75% | 1.30 | -2% |
-| Doble oportunidad: 1X | 55% | 55% | 55% | 1.73 | -5% |
-| Ambos marcan: No | 36% | 42% | 39% | 2.20 | -14% |
-| Ambos marcan: Sí | 64% | 58% | 61% | 1.62 | -1% |
-| Goles más/menos: Más de 1.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 63% | 55% | 59% | 1.73 | +2% |
-| Goles más/menos: Más de 3.5 | 41% | 34% | 37% | 2.75 | +3% |
-| Goles más/menos: Menos de 1.5 | 16% | 23% | 20% | 4.00 | -20% |
-| Goles más/menos: Menos de 2.5 | 37% | 45% | 41% | 2.08 | -14% |
-| Goles más/menos: Menos de 3.5 | 59% | 66% | 63% | 1.40 | -12% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 71% | 73% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 38% | 39% | 2.50 | -1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 29% | 27% | 3.25 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 62% | 61% | 1.50 | -9% |
-| Goles del local: Más de 0.5 | 77% | 71% | 74% | 1.33 | -2% |
-| Goles del local: Más de 1.5 | 43% | 35% | 39% | 2.62 | +3% |
-| Goles del local: Menos de 0.5 | 23% | 29% | 26% | 3.25 | -16% |
-| Goles del local: Menos de 1.5 | 57% | 65% | 61% | 1.44 | -13% |
+| Doble oportunidad: 1X | 54% | 55% | 55% | 1.73 | -6% |
+| Ambos marcan: No | 37% | 42% | 40% | 2.20 | -13% |
+| Ambos marcan: Sí | 63% | 58% | 60% | 1.62 | -2% |
+| Goles más/menos: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
+| Goles más/menos: Más de 2.5 | 62% | 55% | 58% | 1.73 | +1% |
+| Goles más/menos: Más de 3.5 | 40% | 34% | 37% | 2.75 | +1% |
+| Goles más/menos: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
+| Goles más/menos: Menos de 2.5 | 38% | 45% | 42% | 2.08 | -13% |
+| Goles más/menos: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -11% |
+| Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
+| Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
+| Goles del local: Más de 0.5 | 76% | 71% | 73% | 1.33 | -2% |
+| Goles del local: Más de 1.5 | 42% | 35% | 39% | 2.62 | +1% |
+| Goles del local: Menos de 0.5 | 24% | 29% | 27% | 3.25 | -14% |
+| Goles del local: Menos de 1.5 | 58% | 65% | 61% | 1.44 | -12% |
 | Goles del visitante: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
 | Goles del visitante: Más de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
-| Goles del visitante: Más de 2.5 | 26% | 23% | 25% | 4.00 | -0% |
+| Goles del visitante: Más de 2.5 | 26% | 23% | 25% | 4.00 | -1% |
 | Goles del visitante: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -15% |
 | Goles del visitante: Menos de 1.5 | 47% | 51% | 49% | 1.80 | -11% |
 | Goles del visitante: Menos de 2.5 | 74% | 77% | 75% | 1.22 | -8% |
-| Córners más/menos: Más de 8.5 | 52% | 54% | 53% | 1.73 | -9% |
-| Córners más/menos: Menos de 8.5 | 48% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: 2 | 35% | 35% | 35% | 2.62 | -8% |
+| Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
+| Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |
+| 1X2 descanso: 2 | 35% | 35% | 35% | 2.62 | -7% |
 | 1X2 descanso: X | 38% | 40% | 39% | 2.30 | -10% |
-| 1X2 descanso: 1 | 27% | 25% | 26% | 3.75 | -3% |
+| 1X2 descanso: 1 | 26% | 25% | 25% | 3.75 | -5% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

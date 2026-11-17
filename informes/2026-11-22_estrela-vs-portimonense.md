@@ -1,7 +1,7 @@
 # Estrela – Portimonense
 **Taça de Portugal** · Round of 32 · 22/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,6 +133,6 @@ _Sin bajas comunicadas por ahora._
 | Zinho Hoffmann | M | 1 | 1 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,87 · visitante 0,96 · córners esperados 9,0._
+_Goles esperados: local 0,87 · visitante 0,95 · córners esperados 9,0._
 
 _Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # Vendsyssel FF – Hvidovre
 **1. Division** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nord Energi Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:00_
@@ -144,7 +144,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 |---|---|---|---|---|---|
 | 1X2: 2 | 64% | 48% | 56% | 1.95 | +9% |
 | 1X2: X | 21% | 26% | 23% | 3.60 | -16% |
-| 1X2: 1 | 15% | 27% | 21% | 3.50 | -28% |
+| 1X2: 1 | 15% | 27% | 21% | 3.50 | -27% |
 | Doble oportunidad: X2 | 85% | 74% | 79% | 1.28 | +2% |
 | Doble oportunidad: 12 | 79% | 74% | 76% | 1.28 | -2% |
 | Doble oportunidad: 1X | 36% | 52% | 44% | 1.80 | -20% |
@@ -153,11 +153,11 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 1.5 | 76% | 79% | 78% | 1.18 | -8% |
 | Goles más/menos: Más de 2.5 | 52% | 57% | 55% | 1.65 | -10% |
 | Goles más/menos: Más de 3.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -21% |
+| Goles más/menos: Más de 4.5 | 14% | 21% | 18% | 4.50 | -21% |
 | Goles más/menos: Menos de 1.5 | 24% | 21% | 22% | 4.50 | +1% |
-| Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | -0% |
+| Goles más/menos: Menos de 2.5 | 48% | 43% | 45% | 2.20 | +0% |
 | Goles más/menos: Menos de 3.5 | 70% | 62% | 66% | 1.50 | -0% |
-| Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.18 | -3% |
+| Goles más/menos: Menos de 4.5 | 86% | 79% | 82% | 1.18 | -3% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 72% | 71% | 1.30 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 36% | 2.38 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
@@ -170,7 +170,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 2.5 | 31% | 27% | 29% | 3.50 | +1% |
 | Goles del visitante: Menos de 1.5 | 42% | 49% | 45% | 1.91 | -13% |
 | Goles del visitante: Menos de 2.5 | 69% | 73% | 71% | 1.28 | -9% |
-| 1X2 descanso: 2 | 46% | 37% | 41% | 2.50 | +3% |
+| 1X2 descanso: 2 | 45% | 37% | 41% | 2.50 | +3% |
 | 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -7% |
 | 1X2 descanso: 1 | 15% | 25% | 20% | 3.75 | -27% |
 

@@ -1,7 +1,7 @@
 # Sporting Gijon – Las Palmas
 **Segunda División** · Regular Season - 15 · 22/11/2026 16:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | Adrián Rodríguez | D | 2 | 103 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,33 · visitante 1,00 · córners esperados 9,3._
+_Goles esperados: local 1,34 · visitante 1,01 · córners esperados 9,3._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 

@@ -1,7 +1,7 @@
 # Sabadell – Granada CF
 **Segunda División** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 16:12_
@@ -196,18 +196,18 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: No | 66% | 51% | 59% | 1.80 | +6% |
 | Ambos marcan: Sí | 34% | 49% | 41% | 1.91 | -21% |
 | Goles más/menos: Más de 1.5 | 53% | 66% | 60% | 1.40 | -17% |
-| Goles más/menos: Más de 2.5 | 26% | 42% | 34% | 2.25 | -24% |
+| Goles más/menos: Más de 2.5 | 26% | 42% | 34% | 2.25 | -23% |
 | Goles más/menos: Más de 3.5 | 10% | 23% | 17% | 4.00 | -32% |
 | Goles más/menos: Menos de 1.5 | 47% | 34% | 40% | 2.75 | +11% |
 | Goles más/menos: Menos de 2.5 | 74% | 58% | 66% | 1.62 | +7% |
 | Goles más/menos: Menos de 3.5 | 90% | 77% | 83% | 1.22 | +1% |
 | Goles 1ª parte más/menos: Más de 0.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 18% | 29% | 24% | 3.25 | -24% |
+| Goles 1ª parte más/menos: Más de 1.5 | 18% | 29% | 24% | 3.25 | -23% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 82% | 71% | 76% | 1.33 | +2% |
 | Goles del local: Más de 0.5 | 54% | 73% | 64% | 1.28 | -18% |
 | Goles del local: Más de 1.5 | 19% | 41% | 30% | 2.25 | -33% |
-| Goles del local: Menos de 0.5 | 46% | 27% | 36% | 3.50 | +27% |
+| Goles del local: Menos de 0.5 | 46% | 27% | 36% | 3.50 | +26% |
 | Goles del local: Menos de 1.5 | 81% | 59% | 70% | 1.57 | +10% |
 | Goles del visitante: Más de 0.5 | 63% | 62% | 63% | 1.50 | -6% |
 | Goles del visitante: Más de 1.5 | 26% | 27% | 26% | 3.50 | -8% |

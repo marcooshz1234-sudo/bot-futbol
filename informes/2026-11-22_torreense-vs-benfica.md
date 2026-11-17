@@ -1,7 +1,7 @@
 # Torreense – Benfica
 **Taça de Portugal** · Round of 32 · 22/11/2026 21:45 (hora España) · Estadio Manuel Marques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

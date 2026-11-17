@@ -1,10 +1,10 @@
 # Real Madrid W – Inter Milano W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 16:12_
+_Actualizadas: 17/11 02:16_
 
 - **1X2:** 1 **1.27**  ·  X **5.75**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.12**  ·  X2 **3.75**
@@ -172,9 +172,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 52% | 54% | 53% | 1.73 | -8% |
 | Goles del local: Menos de 3.5 | 74% | 75% | 74% | 1.25 | -7% |
 | Goles del visitante: Más de 0.5 | 64% | 54% | 59% | 1.73 | +2% |
-| Goles del visitante: Más de 1.5 | 28% | 21% | 24% | 4.50 | +8% |
+| Goles del visitante: Más de 1.5 | 27% | 21% | 24% | 4.50 | +8% |
 | Goles del visitante: Menos de 0.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Goles del visitante: Menos de 1.5 | 72% | 79% | 76% | 1.17 | -11% |
+| Goles del visitante: Menos de 1.5 | 73% | 79% | 76% | 1.17 | -11% |
 | Córners más/menos: Más de 9.5 | 40% | 49% | 44% | 1.91 | -15% |
 | Córners más/menos: Menos de 9.5 | 60% | 51% | 56% | 1.80 | -0% |
 | 1X2 descanso: X | 33% | 33% | 33% | 2.75 | -10% |

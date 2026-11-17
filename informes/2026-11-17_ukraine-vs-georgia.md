@@ -1,26 +1,26 @@
 # Ukraine – Georgia
 **Nations League** · League B - 6 · 17/11/2026 20:45 (hora España) · Kosicka futbalova arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 16:12_
+_Actualizadas: 17/11 02:16_
 
 - **1X2:** 1 **2.15**  ·  X **3.25**  ·  2 **3.40**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.33**  ·  X2 **1.67**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.33**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.70**
+    - 2,5: más **2.15** · menos **1.67**
     - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 4,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
+    - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del visitante:**
@@ -41,14 +41,14 @@ _Actualizadas: 16/11 16:12_
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.20**
 - **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **5.00**
 - **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **8.50**  ·  Away/No **5.50**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **8.50**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.10**
 - **Home Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 3,5: más **1.67** · menos **2.10**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
-- **Anytime Goal Scorer:** Georgiy Sudakov **4.33**  ·  Mykola Matviyenko **13.00**  ·  Giorgi Kochorashvili **9.50**  ·  Irakli Yegoian **4.75**  ·  Nodar Lominadze **9.50**  ·  Giorgi Maisuradze **12.00**  ·  Borys Krushynskyi **6.00**  ·  Vladyslav Veleten **5.50**  ·  Giorgi Guliashvili **3.50**  ·  Budu Zivzivadze **3.50**  ·  Roman Yaremchuk **3.10**  ·  Vladyslav Vanat **3.25**  ·  Georges Mikautadze **3.10**  ·  Zuriko Davitashvili **6.00**  ·  Giorgi Chakvetadze **6.00**  ·  Sandro Altunashvili **12.00**  ·  Lasha Dvali **13.00**  ·  Luka Lochoshvili **12.00**  ·  Otar Kakabadze **13.00**  ·  Oleksandr Nazarenko **7.00**  ·  Valeriy Bondar **17.00**  ·  Igor Krasnopir **3.25**  ·  Maksym Khlan **4.33**  ·  Yegor Yarmolyuk **9.50**  ·  Ivan Varfolomeyev **9.50**  ·  Oleg Ocheretko **7.00**  ·  Ilya Krupskyi **13.00**  ·  Taras Mykhavko **12.00**  ·  Giorgi Moistsrapishvili **8.00**  ·  Giorgi Tsitaishvili **5.00**  ·  Eduard Sarapiy **9.50**  ·  Iva Gelashvili **13.00**  ·  Nika Gagnidze **6.00**  ·  Giorgi Kvernadze **5.00**  ·  Vitaliy Mykolenko **11.00**  ·  Danylo Sikan **3.25**  ·  Irakli Azarovi **12.00**  ·  Yehor Nazaryna **8.00**  ·  Andriy Yarmolenko **4.33**  ·  Oleksandr Pikhalyonok **5.50**  ·  Volodymyr Brazhko **5.00**  ·  Oleksandr Andriyevskyi **6.00**  ·  Oleksii Kashchuk **5.00**  ·  Oleksandr Drambayev **12.00**  ·  Giorgi Gagua **3.75**  ·  Jemal Tabidze **12.00**  ·  Illia Zabarnyi **17.00**  ·  Viktor Tsygankov **3.75**  ·  Anzor Mekvabishvili **12.00**  ·  Artem Dovbyk **2.88**  ·  Saba Goglichidze **13.00**  ·  Saba Sazonov **13.00**  ·  Hennadii Synchuk **4.33**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
+- **Anytime Goal Scorer:** Georgiy Sudakov **4.33**  ·  Mykola Matviyenko **13.00**  ·  Giorgi Kochorashvili **9.50**  ·  Irakli Yegoian **4.75**  ·  Nodar Lominadze **9.50**  ·  Giorgi Maisuradze **12.00**  ·  Borys Krushynskyi **6.00**  ·  Vladyslav Veleten **5.50**  ·  Giorgi Guliashvili **3.50**  ·  Budu Zivzivadze **3.50**  ·  Roman Yaremchuk **3.10**  ·  Vladyslav Vanat **3.25**  ·  Georges Mikautadze **3.10**  ·  Zuriko Davitashvili **6.00**  ·  Giorgi Chakvetadze **6.00**  ·  Sandro Altunashvili **12.00**  ·  Lasha Dvali **13.00**  ·  Luka Lochoshvili **12.00**  ·  Otar Kakabadze **13.00**  ·  Oleksandr Nazarenko **7.00**  ·  Valeriy Bondar **17.00**  ·  Igor Krasnopir **3.25**  ·  Maksym Khlan **4.33**  ·  Yegor Yarmolyuk **9.50**  ·  Ivan Varfolomeyev **9.50**  ·  Oleg Ocheretko **7.00**  ·  Ilya Krupskyi **13.00**  ·  Taras Mykhavko **12.00**  ·  Giorgi Moistsrapishvili **8.00**  ·  Giorgi Tsitaishvili **5.50**  ·  Eduard Sarapiy **9.50**  ·  Iva Gelashvili **13.00**  ·  Nika Gagnidze **6.00**  ·  Giorgi Kvernadze **5.50**  ·  Vitaliy Mykolenko **11.00**  ·  Danylo Sikan **3.25**  ·  Irakli Azarovi **12.00**  ·  Yehor Nazaryna **8.00**  ·  Andriy Yarmolenko **4.33**  ·  Oleksandr Pikhalyonok **5.50**  ·  Volodymyr Brazhko **5.00**  ·  Oleksandr Andriyevskyi **6.00**  ·  Oleksii Kashchuk **5.00**  ·  Oleksandr Drambayev **12.00**  ·  Giorgi Gagua **3.75**  ·  Jemal Tabidze **12.00**  ·  Illia Zabarnyi **17.00**  ·  Viktor Tsygankov **3.50**  ·  Anzor Mekvabishvili **12.00**  ·  Artem Dovbyk **2.88**  ·  Saba Goglichidze **13.00**  ·  Saba Sazonov **13.00**  ·  Hennadii Synchuk **4.33**
 
 ## Estadísticas de equipo
 | | Ukraine (total) | Ukraine en casa | Georgia (total) | Georgia fuera |
@@ -187,27 +187,27 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 30% | 28% | 29% | 3.40 | -2% |
 | 1X2: X | 35% | 29% | 32% | 3.25 | +4% |
 | 1X2: 1 | 35% | 44% | 39% | 2.15 | -16% |
-| Doble oportunidad: X2 | 65% | 57% | 61% | 1.67 | +2% |
-| Doble oportunidad: 12 | 65% | 72% | 68% | 1.33 | -9% |
-| Doble oportunidad: 1X | 70% | 72% | 71% | 1.33 | -6% |
+| Doble oportunidad: X2 | 65% | 56% | 61% | 1.67 | +2% |
+| Doble oportunidad: 12 | 65% | 71% | 68% | 1.33 | -10% |
+| Doble oportunidad: 1X | 70% | 73% | 71% | 1.30 | -8% |
 | Ambos marcan: No | 69% | 50% | 60% | 1.83 | +9% |
 | Ambos marcan: Sí | 31% | 50% | 40% | 1.83 | -26% |
 | Goles más/menos: Más de 1.5 | 48% | 69% | 58% | 1.36 | -21% |
-| Goles más/menos: Más de 2.5 | 22% | 45% | 33% | 2.10 | -30% |
+| Goles más/menos: Más de 2.5 | 22% | 44% | 33% | 2.15 | -29% |
 | Goles más/menos: Más de 3.5 | 8% | 25% | 17% | 3.75 | -38% |
 | Goles más/menos: Menos de 1.5 | 52% | 31% | 42% | 3.00 | +25% |
-| Goles más/menos: Menos de 2.5 | 78% | 55% | 67% | 1.70 | +13% |
+| Goles más/menos: Menos de 2.5 | 78% | 56% | 67% | 1.67 | +12% |
 | Goles más/menos: Menos de 3.5 | 92% | 75% | 83% | 1.25 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 51% | 65% | 58% | 1.44 | -17% |
+| Goles 1ª parte más/menos: Más de 0.5 | 50% | 65% | 58% | 1.44 | -17% |
 | Goles 1ª parte más/menos: Más de 1.5 | 16% | 29% | 22% | 3.25 | -27% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 49% | 35% | 42% | 2.62 | +11% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 50% | 35% | 42% | 2.62 | +11% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 84% | 71% | 78% | 1.33 | +3% |
-| Goles del local: Más de 0.5 | 57% | 73% | 65% | 1.28 | -17% |
+| Goles del local: Más de 0.5 | 57% | 75% | 66% | 1.25 | -17% |
 | Goles del local: Más de 1.5 | 21% | 41% | 31% | 2.25 | -30% |
-| Goles del local: Menos de 0.5 | 43% | 27% | 35% | 3.50 | +22% |
+| Goles del local: Menos de 0.5 | 43% | 25% | 34% | 3.75 | +27% |
 | Goles del local: Menos de 1.5 | 79% | 59% | 69% | 1.57 | +8% |
 | Goles del visitante: Más de 0.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles del visitante: Más de 1.5 | 18% | 29% | 24% | 3.25 | -23% |
+| Goles del visitante: Más de 1.5 | 18% | 29% | 24% | 3.25 | -24% |
 | Goles del visitante: Menos de 0.5 | 46% | 35% | 41% | 2.62 | +7% |
 | Goles del visitante: Menos de 1.5 | 82% | 71% | 76% | 1.33 | +2% |
 | Córners más/menos: Más de 8.5 | 49% | 56% | 52% | 1.67 | -12% |

@@ -1,34 +1,35 @@
 # Juventus W – OH Leuven W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 16:12_
+_Actualizadas: 17/11 02:17_
 
-- **1X2:** 1 **1.28**  ·  X **5.00**  ·  2 **10.00**
-- **Doble oportunidad:** 1X **1.03**  ·  12 **1.14**  ·  X2 **3.50**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **1X2:** 1 **1.22**  ·  X **5.75**  ·  2 **11.00**
+- **Doble oportunidad:** 1X **1.05**  ·  12 **1.14**  ·  X2 **3.25**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.00**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **6.50** · menos **1.10**
+    - 2,5: más **1.44** · menos **2.62**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.00** · menos **1.11**
+    - 6,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **8.50** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.06** · menos **8.00**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **7.00** · menos **1.08**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.00** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.73** · menos **2.00**
-    - 1,5: más **4.33** · menos **1.20**
+    - 0,5: más **1.80** · menos **1.91**
+    - 1,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
     - 9: más **1.78** · menos **2.02**
     - 9,5: más **2.00** · menos **1.73**
@@ -36,21 +37,22 @@ _Actualizadas: 16/11 16:12_
 - **1X2 descanso:** 1 **1.67**  ·  X **2.75**  ·  2 **7.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.18**  ·  2 **3.75**
-- **To Score In Both Halves By Teams:** 1 **1.91**  ·  2 **8.00**
-- **Win Both Halves:** 1 **2.75**  ·  2 **34.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **6.50**  ·  Away/Yes **15.00**  ·  Home/No **2.20**  ·  Draw/No **17.00**  ·  Away/No **17.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **3.10**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.14**  ·  2 **4.33**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **9.00**
+- **Win Both Halves:** 1 **2.50**  ·  2 **41.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **7.00**  ·  Away/Yes **19.00**  ·  Home/No **2.00**  ·  Draw/No **19.00**  ·  Away/No **21.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **3.60**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.20**
 - **Home Corners Over/Under:**
     - 5,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 3,5: más **2.10** · menos **1.67**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.02**  ·  Menos de 4.5 **1.78**
+- **Anytime Goal Scorer:** Kysha Sylla **3.75**  ·  Annamaria Serturini **2.50**  ·  Alba Redondo **1.57**  ·  Julia Bartel **4.33**  ·  Manaka Hayashi **4.33**  ·  Julie Biesmans **6.50**  ·  Alixe Bosteels **9.00**  ·  Anouk Van Praet **5.50**  ·  Axelle Van Besauw **11.00**  ·  Flo Hermans **11.00**  ·  Ioanna Papatheodorou **5.50**  ·  Jada Conjnenberg **4.00**  ·  Jeslynn Kuijpers **5.50**  ·  Kadhiya De Ceuster **5.00**  ·  Manon Heremans **5.50**  ·  Manon Van Raay **6.00**  ·  Nel Neyrinck **8.00**  ·  Saar Janssen **11.00**  ·  Cristina Libran **4.33**  ·  Estela Carbonell **6.50**  ·  Agathe Ollivier **21.00**  ·  Ornella Graziani **4.33**  ·  Isabella Dekker **4.33**  ·  Lily Hoekx **6.00**  ·  Amelie Van Holderbeke **15.00**  ·  Lili Verstrepen **6.50**  ·  Emma Godo **3.75**  ·  Kim Everaerts **23.00**  ·  Matilde Pavan **3.40**  ·  Emilie Mece **2.38**  ·  Lea Khelifi **2.50**  ·  Danique Noordman **3.40**  ·  Federica D'Auria **8.00**  ·  Camille Lafaix **6.50**  ·  Kimberley Smit **15.00**  ·  Linnea Viola Stromberg **4.33**  ·  Sterre Gielen **15.00**  ·  Viraj Nagy **23.00**  ·  Giorgia Bianchi **4.33**  ·  Marzia Piermarini **6.50**  ·  Eva Schatzer **3.75**  ·  Martina Rosucci **4.33**  ·  Cecilia Salvai **8.00**  ·  Martina Lenzini **9.00**  ·  Ana Capeta **1.95**  ·  Tatiana Pinto **2.50**  ·  Remina Chiba **1.95**  ·  Amaiur Sarriegi **1.80**
 
 ## Estadísticas de equipo
 | | Juventus W (total) | Juventus W en casa | OH Leuven W (total) | OH Leuven W fuera |
@@ -146,36 +148,34 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 21% | 9% | 15% | 10.00 | +50% |
-| 1X2: X | 23% | 18% | 21% | 5.00 | +3% |
-| 1X2: 1 | 56% | 72% | 64% | 1.28 | -18% |
-| Doble oportunidad: X2 | 44% | 27% | 35% | 3.50 | +23% |
+| 1X2: 2 | 21% | 8% | 15% | 11.00 | +60% |
+| 1X2: X | 23% | 16% | 19% | 5.75 | +12% |
+| 1X2: 1 | 56% | 76% | 66% | 1.22 | -20% |
+| Doble oportunidad: X2 | 44% | 29% | 36% | 3.25 | +18% |
 | Doble oportunidad: 12 | 77% | 82% | 80% | 1.14 | -9% |
-| Doble oportunidad: 1X | 79% | 91% | 85% | 1.03 | -12% |
-| Ambos marcan: No | 47% | 50% | 48% | 1.83 | -12% |
-| Ambos marcan: Sí | 53% | 50% | 52% | 1.83 | -5% |
-| Goles más/menos: Más de 2.5 | 54% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 3.5 | 32% | 42% | 37% | 2.20 | -19% |
-| Goles más/menos: Más de 4.5 | 16% | 25% | 20% | 3.75 | -24% |
-| Goles más/menos: Menos de 2.5 | 46% | 38% | 42% | 2.50 | +5% |
-| Goles más/menos: Menos de 3.5 | 68% | 58% | 63% | 1.62 | +2% |
-| Goles más/menos: Menos de 4.5 | 84% | 75% | 80% | 1.25 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 44% | 40% | 2.10 | -17% |
+| Doble oportunidad: 1X | 79% | 89% | 84% | 1.05 | -12% |
+| Ambos marcan: No | 47% | 51% | 49% | 1.80 | -12% |
+| Ambos marcan: Sí | 53% | 49% | 51% | 1.91 | -3% |
+| Goles más/menos: Más de 2.5 | 54% | 65% | 59% | 1.44 | -15% |
+| Goles más/menos: Más de 3.5 | 32% | 44% | 38% | 2.10 | -20% |
+| Goles más/menos: Más de 4.5 | 16% | 27% | 21% | 3.50 | -26% |
+| Goles más/menos: Menos de 2.5 | 46% | 35% | 41% | 2.62 | +7% |
+| Goles más/menos: Menos de 3.5 | 68% | 56% | 62% | 1.67 | +4% |
+| Goles más/menos: Menos de 4.5 | 84% | 73% | 79% | 1.28 | +1% |
+| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
+| Goles 1ª parte más/menos: Más de 1.5 | 35% | 46% | 41% | 2.00 | -19% |
 | Goles 1ª parte más/menos: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +1% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +3% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 54% | 69% | 62% | 1.36 | -16% |
-| Goles del local: Más de 2.5 | 28% | 44% | 36% | 2.10 | -25% |
-| Goles del local: Más de 3.5 | 11% | 25% | 18% | 3.75 | -32% |
-| Goles del local: Menos de 1.5 | 46% | 31% | 38% | 3.00 | +15% |
-| Goles del local: Menos de 2.5 | 72% | 56% | 64% | 1.67 | +7% |
-| Goles del local: Menos de 3.5 | 89% | 75% | 82% | 1.25 | +2% |
-| Goles del visitante: Más de 0.5 | 64% | 54% | 59% | 1.73 | +1% |
-| Goles del visitante: Más de 1.5 | 27% | 22% | 24% | 4.33 | +5% |
-| Goles del visitante: Menos de 0.5 | 36% | 46% | 41% | 2.00 | -17% |
-| Goles del visitante: Menos de 1.5 | 73% | 78% | 76% | 1.20 | -9% |
+| Goles del local: Más de 1.5 | 54% | 73% | 64% | 1.28 | -18% |
+| Goles del local: Más de 2.5 | 28% | 50% | 39% | 1.83 | -29% |
+| Goles del local: Más de 3.5 | 11% | 28% | 19% | 3.40 | -34% |
+| Goles del local: Menos de 1.5 | 46% | 27% | 36% | 3.50 | +27% |
+| Goles del local: Menos de 2.5 | 72% | 50% | 61% | 1.83 | +12% |
+| Goles del local: Menos de 3.5 | 89% | 72% | 81% | 1.30 | +5% |
+| Goles del visitante: Más de 0.5 | 64% | 51% | 58% | 1.80 | +4% |
+| Goles del visitante: Menos de 0.5 | 36% | 49% | 42% | 1.91 | -19% |
 | Córners más/menos: Más de 9.5 | 36% | 46% | 41% | 2.00 | -17% |
 | Córners más/menos: Menos de 9.5 | 64% | 54% | 59% | 1.73 | +2% |
 | 1X2 descanso: X | 40% | 33% | 37% | 2.75 | +1% |

@@ -1,7 +1,7 @@
 # Newcastle – Arsenal
 **Premier League** · Regular Season - 11 · 21/11/2026 18:30 (hora España) · St. James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -182,7 +182,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Cristhian Mosquera | D | 4 | 287 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 0,80 · visitante 1,94 · córners esperados 9,1._
+_Goles esperados: local 0,80 · visitante 1,93 · córners esperados 9,1._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|

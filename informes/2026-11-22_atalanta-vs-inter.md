@@ -1,7 +1,7 @@
 # Atalanta – Inter
 **Serie A** · Regular Season - 12 · 22/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:32_
@@ -188,7 +188,7 @@ _Goles esperados: local 1,15 · visitante 2,20 · córners esperados 9,6._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 61% | 60% | 61% | 1.57 | -5% |
+| 1X2: 2 | 61% | 60% | 60% | 1.57 | -5% |
 | 1X2: X | 20% | 22% | 21% | 4.33 | -10% |
 | 1X2: 1 | 19% | 19% | 19% | 5.00 | -6% |
 | Doble oportunidad: X2 | 81% | 81% | 81% | 1.17 | -5% |
@@ -214,7 +214,7 @@ _Goles esperados: local 1,15 · visitante 2,20 · córners esperados 9,6._
 | Goles del local: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
 | Goles del visitante: Más de 1.5 | 65% | 66% | 65% | 1.40 | -8% |
 | Goles del visitante: Más de 2.5 | 38% | 41% | 39% | 2.25 | -11% |
-| Goles del visitante: Más de 3.5 | 18% | 21% | 19% | 4.50 | -12% |
+| Goles del visitante: Más de 3.5 | 18% | 21% | 19% | 4.50 | -13% |
 | Goles del visitante: Menos de 1.5 | 35% | 34% | 35% | 2.75 | -5% |
 | Goles del visitante: Menos de 2.5 | 62% | 59% | 61% | 1.57 | -5% |
 | Goles del visitante: Menos de 3.5 | 82% | 79% | 81% | 1.18 | -5% |

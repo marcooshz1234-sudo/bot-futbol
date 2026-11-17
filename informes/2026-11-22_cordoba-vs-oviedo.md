@@ -1,7 +1,7 @@
 # Cordoba – Oviedo
 **Segunda División** · Regular Season - 15 · 22/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -187,7 +187,7 @@ _Sin bajas comunicadas por ahora._
 | Estanis | M | 7 | 291 | 2 | 0 | 11 | 1,6 | 4 | 0,6 | 5 | 8 | 1,1 | 2 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 2,07 · visitante 1,85 · córners esperados 10,2._
+_Goles esperados: local 2,08 · visitante 1,86 · córners esperados 10,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -205,17 +205,17 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Más de 2.5 | 75% | 58% | 67% | 1.62 | +8% |
 | Goles más/menos: Más de 3.5 | 55% | 38% | 46% | 2.50 | +16% |
 | Goles más/menos: Más de 4.5 | 36% | 21% | 28% | 4.50 | +27% |
-| Goles más/menos: Menos de 1.5 | 10% | 21% | 15% | 4.50 | -31% |
+| Goles más/menos: Menos de 1.5 | 10% | 21% | 15% | 4.50 | -32% |
 | Goles más/menos: Menos de 2.5 | 25% | 42% | 33% | 2.25 | -25% |
 | Goles más/menos: Menos de 3.5 | 45% | 62% | 54% | 1.50 | -20% |
 | Goles más/menos: Menos de 4.5 | 64% | 79% | 72% | 1.18 | -15% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 78% | 1.28 | -1% |
 | Goles 1ª parte más/menos: Más de 1.5 | 51% | 39% | 45% | 2.38 | +7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 22% | 3.50 | -21% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 22% | 3.50 | -22% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 49% | 61% | 55% | 1.53 | -16% |
-| Goles del local: Más de 1.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del local: Más de 2.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del local: Menos de 1.5 | 39% | 46% | 43% | 2.00 | -15% |
+| Goles del local: Más de 1.5 | 61% | 54% | 58% | 1.73 | -0% |
+| Goles del local: Más de 2.5 | 34% | 28% | 31% | 3.40 | +6% |
+| Goles del local: Menos de 1.5 | 39% | 46% | 42% | 2.00 | -15% |
 | Goles del local: Menos de 2.5 | 66% | 72% | 69% | 1.30 | -10% |
 | Goles del visitante: Más de 0.5 | 84% | 71% | 78% | 1.33 | +3% |
 | Goles del visitante: Más de 1.5 | 55% | 35% | 45% | 2.62 | +19% |

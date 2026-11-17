@@ -1,7 +1,7 @@
 # Esbjerg – AB Copenhagen
 **1. Division** · Regular Season - 15 · 21/11/2026 15:00 (hora España) · Blue Water Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -146,10 +146,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 50% | 43% | 47% | 2.10 | -2% |
-| 1X2: X | 24% | 25% | 25% | 3.60 | -10% |
-| 1X2: 1 | 25% | 32% | 29% | 2.88 | -18% |
-| Doble oportunidad: X2 | 75% | 68% | 71% | 1.36 | -3% |
-| Doble oportunidad: 12 | 76% | 74% | 75% | 1.25 | -6% |
+| 1X2: X | 25% | 25% | 25% | 3.60 | -10% |
+| 1X2: 1 | 26% | 32% | 29% | 2.88 | -18% |
+| Doble oportunidad: X2 | 74% | 68% | 71% | 1.36 | -3% |
+| Doble oportunidad: 12 | 75% | 74% | 75% | 1.25 | -6% |
 | Doble oportunidad: 1X | 50% | 57% | 54% | 1.62 | -13% |
 | Ambos marcan: No | 46% | 34% | 40% | 2.75 | +10% |
 | Ambos marcan: Sí | 54% | 66% | 60% | 1.40 | -16% |
@@ -160,10 +160,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 3.5 | 70% | 56% | 63% | 1.67 | +5% |
 | Goles más/menos: Menos de 4.5 | 86% | 73% | 79% | 1.28 | +2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 70% | 75% | 72% | 1.25 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 44% | 39% | 2.10 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 39% | 2.10 | -18% |
 | Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -26% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 25% | 28% | 3.75 | +4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 56% | 61% | 1.67 | +2% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +2% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
 | Goles del local: Más de 0.5 | 67% | 77% | 72% | 1.22 | -13% |
 | Goles del local: Más de 1.5 | 30% | 46% | 38% | 2.00 | -23% |
@@ -173,7 +173,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
 | Goles del visitante: Más de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
 | Goles del visitante: Más de 2.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles del visitante: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
+| Goles del visitante: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -2% |
 | Goles del visitante: Menos de 2.5 | 77% | 72% | 75% | 1.30 | -3% |
 | 1X2 descanso: 2 | 37% | 35% | 36% | 2.62 | -6% |
 | 1X2 descanso: X | 42% | 37% | 39% | 2.50 | -2% |

@@ -1,7 +1,7 @@
 # Aston Villa – Sunderland
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Villa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -190,14 +190,14 @@ _Goles esperados: local 1,83 · visitante 1,34 · córners esperados 9,4._
 | 1X2: X | 23% | 26% | 25% | 3.50 | -14% |
 | 1X2: 1 | 49% | 53% | 51% | 1.75 | -11% |
 | Doble oportunidad: X2 | 51% | 46% | 49% | 2.05 | -0% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -3% |
+| Doble oportunidad: 12 | 77% | 74% | 76% | 1.28 | -3% |
 | Doble oportunidad: 1X | 72% | 80% | 76% | 1.18 | -10% |
 | Ambos marcan: No | 38% | 45% | 42% | 2.05 | -15% |
 | Ambos marcan: Sí | 62% | 55% | 58% | 1.70 | -1% |
-| Goles más/menos: Más de 1.5 | 83% | 76% | 79% | 1.25 | -1% |
+| Goles más/menos: Más de 1.5 | 82% | 76% | 79% | 1.25 | -1% |
 | Goles más/menos: Más de 2.5 | 61% | 53% | 57% | 1.80 | +3% |
 | Goles más/menos: Más de 3.5 ✅ | 39% | 32% | 35% | 3.00 | +6% |
-| Goles más/menos: Menos de 1.5 | 17% | 24% | 21% | 4.00 | -17% |
+| Goles más/menos: Menos de 1.5 | 18% | 24% | 21% | 4.00 | -17% |
 | Goles más/menos: Menos de 2.5 | 39% | 47% | 43% | 2.00 | -14% |
 | Goles más/menos: Menos de 3.5 | 61% | 68% | 65% | 1.40 | -10% |
 | Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |

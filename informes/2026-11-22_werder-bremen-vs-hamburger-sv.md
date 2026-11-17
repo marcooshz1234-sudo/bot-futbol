@@ -1,7 +1,7 @@
 # Werder Bremen – Hamburger SV
 **Bundesliga** · Regular Season - 10 · 22/11/2026 17:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -195,12 +195,12 @@ _Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 17% | 21% | 19% | 4.50 | -16% |
+| 1X2: 2 | 16% | 21% | 19% | 4.50 | -17% |
 | 1X2: X | 20% | 23% | 22% | 4.00 | -13% |
 | 1X2: 1 | 63% | 56% | 60% | 1.65 | -1% |
-| Doble oportunidad: X2 | 37% | 43% | 40% | 2.20 | -12% |
+| Doble oportunidad: X2 | 37% | 43% | 40% | 2.20 | -13% |
 | Doble oportunidad: 12 | 80% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 83% | 80% | 82% | 1.18 | -4% |
+| Doble oportunidad: 1X | 84% | 80% | 82% | 1.18 | -4% |
 | Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
 | Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
 | Goles más/menos: Más de 2.5 | 59% | 62% | 61% | 1.53 | -7% |

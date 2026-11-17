@@ -1,7 +1,7 @@
 # Nice – Paris Saint Germain
 **Ligue 1** · Regular Season - 11 · 21/11/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 02:31_
@@ -193,12 +193,12 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Beraldo | D | 11 | 287 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,62 · córners esperados 9,0._
+_Goles esperados: local 1,04 · visitante 2,61 · córners esperados 9,0._
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
 | 1X2: 2 | 71% | 65% | 68% | 1.42 | -3% |
-| 1X2: X | 16% | 19% | 18% | 4.75 | -16% |
+| 1X2: X | 16% | 19% | 18% | 4.75 | -15% |
 | 1X2: 1 | 13% | 15% | 14% | 6.00 | -15% |
 | Doble oportunidad: X2 | 87% | 85% | 86% | 1.12 | -4% |
 | Doble oportunidad: 12 | 84% | 81% | 82% | 1.18 | -3% |
@@ -206,14 +206,14 @@ _Goles esperados: local 1,04 · visitante 2,62 · córners esperados 9,0._
 | Ambos marcan: No | 40% | 39% | 40% | 2.38 | -6% |
 | Ambos marcan: Sí | 60% | 61% | 60% | 1.53 | -8% |
 | Goles más/menos: Más de 2.5 | 71% | 68% | 69% | 1.40 | -3% |
-| Goles más/menos: Más de 3.5 | 50% | 47% | 49% | 2.00 | -3% |
+| Goles más/menos: Más de 3.5 | 50% | 47% | 48% | 2.00 | -3% |
 | Goles más/menos: Más de 4.5 | 30% | 30% | 30% | 3.20 | -4% |
 | Goles más/menos: Menos de 2.5 | 29% | 32% | 31% | 3.00 | -8% |
-| Goles más/menos: Menos de 3.5 | 50% | 53% | 51% | 1.80 | -7% |
+| Goles más/menos: Menos de 3.5 | 50% | 53% | 52% | 1.80 | -7% |
 | Goles más/menos: Menos de 4.5 | 70% | 70% | 70% | 1.36 | -5% |
 | Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
 | Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -10% |
+| Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
 | Goles 1ª parte más/menos: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
@@ -222,10 +222,10 @@ _Goles esperados: local 1,04 · visitante 2,62 · córners esperados 9,0._
 | Goles del local: Menos de 0.5 | 35% | 34% | 35% | 2.75 | -5% |
 | Goles del local: Menos de 1.5 | 72% | 69% | 70% | 1.36 | -4% |
 | Goles del visitante: Más de 1.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Goles del visitante: Más de 2.5 | 49% | 44% | 46% | 2.10 | -2% |
+| Goles del visitante: Más de 2.5 | 48% | 44% | 46% | 2.10 | -3% |
 | Goles del visitante: Más de 3.5 | 27% | 25% | 26% | 3.75 | -3% |
 | Goles del visitante: Menos de 1.5 | 26% | 29% | 28% | 3.25 | -10% |
-| Goles del visitante: Menos de 2.5 | 51% | 56% | 54% | 1.67 | -11% |
+| Goles del visitante: Menos de 2.5 | 52% | 56% | 54% | 1.67 | -10% |
 | Goles del visitante: Menos de 3.5 | 73% | 75% | 74% | 1.25 | -7% |
 | Córners más/menos: Más de 9.5 | 40% | 50% | 45% | 1.83 | -17% |
 | Córners más/menos: Menos de 9.5 | 60% | 50% | 55% | 1.83 | +0% |

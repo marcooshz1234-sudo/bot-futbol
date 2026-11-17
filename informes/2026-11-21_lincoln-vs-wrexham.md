@@ -1,7 +1,7 @@
 # Lincoln – Wrexham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -188,7 +188,7 @@ _Sin bajas comunicadas por ahora._
 | Josh Windass | F | 6 | 260 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
 
 ## Probabilidades del modelo
-_Goles esperados: local 1,07 · visitante 1,08 · córners esperados 9,2._
+_Goles esperados: local 1,08 · visitante 1,08 · córners esperados 9,2._
 
 _Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
 
@@ -204,7 +204,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Ambos marcan: Sí | 44% | 54% | 49% | 1.73 | -16% |
 | Goles más/menos: Más de 1.5 | 63% | 72% | 68% | 1.33 | -10% |
 | Goles más/menos: Más de 2.5 | 37% | 47% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 3.5 | 17% | 27% | 22% | 3.50 | -22% |
+| Goles más/menos: Más de 3.5 | 17% | 27% | 22% | 3.50 | -23% |
 | Goles más/menos: Menos de 1.5 | 37% | 28% | 32% | 3.40 | +10% |
 | Goles más/menos: Menos de 2.5 | 63% | 53% | 58% | 1.80 | +4% |
 | Goles más/menos: Menos de 3.5 | 83% | 73% | 78% | 1.30 | +1% |

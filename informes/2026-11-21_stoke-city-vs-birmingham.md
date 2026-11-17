@@ -1,7 +1,7 @@
 # Stoke City – Birmingham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 09:52_
@@ -196,19 +196,19 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 48% | 38% | 43% | 2.45 | +4% |
+| 1X2: 2 | 47% | 38% | 43% | 2.45 | +4% |
 | 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
-| 1X2: 1 | 26% | 34% | 30% | 2.70 | -18% |
-| Doble oportunidad: X2 | 74% | 66% | 70% | 1.44 | +1% |
+| 1X2: 1 | 27% | 34% | 30% | 2.70 | -18% |
+| Doble oportunidad: X2 | 73% | 66% | 70% | 1.44 | +1% |
 | Doble oportunidad: 12 | 74% | 72% | 73% | 1.33 | -3% |
-| Doble oportunidad: 1X | 52% | 62% | 57% | 1.53 | -12% |
+| Doble oportunidad: 1X | 53% | 62% | 57% | 1.53 | -12% |
 | Ambos marcan: No | 50% | 46% | 48% | 2.00 | -4% |
 | Ambos marcan: Sí | 50% | 54% | 52% | 1.73 | -10% |
 | Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
+| Goles más/menos: Más de 2.5 | 46% | 50% | 48% | 1.91 | -8% |
 | Goles más/menos: Más de 3.5 | 25% | 28% | 27% | 3.40 | -10% |
 | Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | +0% |
-| Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
+| Goles más/menos: Menos de 2.5 | 54% | 50% | 52% | 1.91 | -1% |
 | Goles más/menos: Menos de 3.5 | 75% | 72% | 73% | 1.33 | -2% |
 | Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
 | Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
@@ -219,9 +219,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del local: Menos de 0.5 | 35% | 28% | 31% | 3.40 | +7% |
 | Goles del local: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
 | Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del visitante: Más de 1.5 | 44% | 41% | 43% | 2.25 | -4% |
+| Goles del visitante: Más de 1.5 | 44% | 41% | 42% | 2.25 | -4% |
 | Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -14% |
-| Goles del visitante: Menos de 1.5 | 56% | 59% | 57% | 1.57 | -10% |
+| Goles del visitante: Menos de 1.5 | 56% | 59% | 58% | 1.57 | -10% |
 | Córners más/menos: Más de 9.5 | 43% | 54% | 48% | 1.73 | -16% |
 | Córners más/menos: Menos de 9.5 | 57% | 46% | 52% | 2.00 | +3% |
 | 1X2 descanso: 2 | 34% | 30% | 32% | 3.10 | +0% |

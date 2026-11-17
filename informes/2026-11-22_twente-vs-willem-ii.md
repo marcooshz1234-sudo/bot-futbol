@@ -1,7 +1,7 @@
 # Twente – Willem II
 **Eredivisie** · Regular Season - 13 · 22/11/2026 12:15 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_
@@ -203,7 +203,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 3% | 4% | 3% | 23.00 | -23% |
 | 1X2: X | 5% | 8% | 6% | 12.00 | -23% |
 | 1X2: 1 | 92% | 88% | 90% | 1.06 | -4% |
-| Doble oportunidad: X2 | 8% | 10% | 9% | 10.00 | -12% |
+| Doble oportunidad: X2 | 8% | 10% | 9% | 10.00 | -13% |
 | Doble oportunidad: 12 | 95% | 93% | 94% | 1.05 | -1% |
 | Doble oportunidad: 1X | 97% | 97% | 97% | 1.01 | -2% |
 | Ambos marcan: No | 52% | 56% | 54% | 1.67 | -10% |

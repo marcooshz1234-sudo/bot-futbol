@@ -1,7 +1,7 @@
 # Vejle – HB Koge
 **1. Division** · Regular Season - 15 · 21/11/2026 13:30 (hora España) · Vejle Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 16/11 20:02._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 02:18._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:00_
@@ -159,13 +159,13 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 4.5 | 65% | 75% | 70% | 1.25 | -12% |
 | Goles 1ª parte más/menos: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
 | Goles 1ª parte más/menos: Más de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -19% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -18% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
 | Goles del local: Más de 1.5 | 75% | 65% | 70% | 1.44 | +0% |
 | Goles del local: Más de 2.5 | 50% | 41% | 46% | 2.25 | +2% |
 | Goles del local: Más de 3.5 | 28% | 21% | 24% | 4.50 | +10% |
 | Goles del local: Menos de 1.5 | 25% | 35% | 30% | 2.62 | -20% |
-| Goles del local: Menos de 2.5 | 50% | 59% | 54% | 1.57 | -14% |
+| Goles del local: Menos de 2.5 | 50% | 59% | 54% | 1.57 | -15% |
 | Goles del local: Menos de 3.5 | 72% | 79% | 76% | 1.18 | -11% |
 | Goles del visitante: Más de 0.5 | 70% | 62% | 66% | 1.50 | -0% |
 | Goles del visitante: Más de 1.5 | 34% | 28% | 31% | 3.40 | +5% |
