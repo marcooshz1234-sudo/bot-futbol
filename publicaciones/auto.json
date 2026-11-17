@@ -6968,7 +6968,7 @@
     "cuotas": [
       1.3,
       1.25,
-      1.33,
+      1.3,
       1.22
     ],
     "ganadores_img": {
@@ -7009,7 +7009,8 @@
         }
       ],
       "lema": "¿PLENO HOY?"
-    }
+    },
+    "cuotas_revisadas": "2026-11-17T23:29"
   },
   {
     "id": "2026-11-18-combi-tres",

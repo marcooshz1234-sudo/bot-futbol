@@ -8538,7 +8538,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-17-pick-tip-4",
     "enviado": "2026-11-17T23:08",
-    "mensaje_id": 531
+    "mensaje_id": 531,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-17-loca-th-1130-duelo",
@@ -8569,6 +8576,13 @@
       "telegram"
     ],
     "enviado": "2026-11-17T23:16",
-    "mensaje_id": 532
+    "mensaje_id": 532,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]

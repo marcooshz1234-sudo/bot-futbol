@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 23:19",
+ "actualizado": "2026-11-17 23:30",
  "redes": {
   "instagram": {
    "seguidores": 48,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3161,
-   "hoy": 152,
+   "seguidores": 3160,
+   "hoy": 151,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3161
+    3160
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 471,
-   "hoy": 32,
+   "seguidores": 470,
+   "hoy": 31,
    "serie": [
     384,
     391,
@@ -50,17 +50,17 @@
     404,
     411,
     439,
-    471
+    470
    ]
   }
  },
- "total": 3681,
- "total_hoy": 188,
+ "total": 3679,
+ "total_hoy": 186,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:30",
-  "dia": "2026-11-17",
-  "titulo": "Córners de mañana"
+  "hora": "00:00",
+  "dia": "2026-11-18",
+  "titulo": "Champions femenina - ganadores"
  },
  "ayer": {
   "aciertos": 3,
@@ -222,9 +222,9 @@
   },
   "2026-11-17": {
    "instagram": 48,
-   "threads": 3161,
+   "threads": 3160,
    "facebook": 1,
-   "telegram": 471
+   "telegram": 470
   }
  },
  "tipos_instagram": {
