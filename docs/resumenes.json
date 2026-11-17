@@ -2358,14 +2358,14 @@
   },
   "2026-11-17": {
     "dia": "2026-11-17",
-    "total": 7,
+    "total": 8,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -2409,13 +2409,19 @@
         "titulo": "⏰ TODO A LAS 20:45 ⏰",
         "estado": "pendiente",
         "cuota": 23.44
+      },
+      {
+        "id": "2026-11-17-loca-th-0600-tapados",
+        "titulo": "🐶 LA DE LOS TAPADOS 🐶",
+        "estado": "pendiente",
+        "cuota": 10.13
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 40
+      "total": 43
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
   }
 }
