@@ -8246,6 +8246,13 @@
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "foto_tg": "publicaciones/media/2026-11-17-pick-tip-1.tg.jpg",
     "enviado": "2026-11-17T11:33",
-    "mensaje_id": 519
+    "mensaje_id": 519,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
