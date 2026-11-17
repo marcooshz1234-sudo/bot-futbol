@@ -190,6 +190,14 @@ def progreso_seguro(mercado, opcion, d):
         return None
 
 
+def con_cuotas(p):
+    """17/11: copia «Crear apuesta» con la sel puesta a mano y sin cuotas por pata (Dinamarca–Noruega ambos marcan
+    + más de 2,5, pick-tip-3): no se seguía ni salía su verde. Se sigue por la sel, sin cuota por pata."""
+    if p.get("sel") and not (p.get("cuotas") and len(p["cuotas"]) == len(p["sel"])) and not p.get("textos"):
+        return dict(p, cuotas=[None] * len(p["sel"]))
+    return p
+
+
 def fila_sel(sel, cuota, directo, conocidos=None):
     """Estado de una selección guardada como 'partido|mercado|opción' (verde en cuanto se cumple si ya no
     se puede perder; si no, al final del partido)."""
@@ -1058,6 +1066,7 @@ def main():
     for p in todos:
         if not (p.get("enviado") or p.get("mensaje_id") or p.get("redes")) or p.get("borrar") or p["fecha"] < desde36:
             continue
+        p = con_cuotas(p)
         if p.get("cuotas") and p.get("sel") and len(p["cuotas"]) == len(p["sel"]):
             # 27/10: los posts nuevos del bot se corrigen con sus selecciones guardadas (partido|mercado|opción),
             # no leyendo el texto (las combis de partido van en mayúsculas y con [x1.40])

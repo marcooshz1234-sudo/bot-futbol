@@ -8342,9 +8342,12 @@
     "directo": true,
     "forzar": true,
     "tipster_bueno": false,
-    "sel": [],
+    "sel": [
+      "1528998|Corners Over Under|Over 6.5",
+      "1528998|Goals Over/Under|Over 1.5"
+    ],
     "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre) · Marcos 17/11 18:41: «sube lo que más te guste» (saltada la nota de calidad)",
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre) · Marcos 17/11 18:41: «sube lo que más te guste» (saltada la nota de calidad) · sel puesta a mano (17/11 22:00)",
     "foto_tg": "publicaciones/media/2026-11-17-pick-tip-4.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-17T18:43",
