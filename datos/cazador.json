@@ -44,15 +44,15 @@
    "edad_h": 0.0
   },
   {
-   "local": "Denmark",
-   "visitante": "Norway",
-   "inicio": "2026-11-17T20:45",
-   "texto": "Más de 1,5 goles en la 2ª parte del Denmark–Norway",
-   "cuota": 1.67,
-   "justa": 1.69,
-   "ev": -0.01,
+   "local": "Deportiva Minera",
+   "visitante": "FC Cartagena",
+   "inicio": "2026-11-18T20:30",
+   "texto": "Deportiva Minera o empate",
+   "cuota": 1.57,
+   "justa": 1.59,
+   "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 6.3
   },
   {
    "local": "Portugalete",
@@ -63,11 +63,11 @@
    "justa": 1.95,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 5.5
+   "edad_h": 6.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-17T13:57",
+  "hora": "2026-11-17T14:42",
   "revisadas": 0,
   "mejor": null
  },

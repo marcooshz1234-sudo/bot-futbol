@@ -6770,8 +6770,8 @@
     "cuotas": [
       2.2,
       2.2,
-      2.1,
-      2.2,
+      2.05,
+      2.25,
       2.1,
       2.1,
       2.25,
@@ -6786,7 +6786,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T14:41"
   },
   {
     "id": "2026-11-17-loca-th-1630-escudos",
