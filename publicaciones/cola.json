@@ -8371,7 +8371,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-17-escalera",
     "enviado": "2026-11-17T21:42",
-    "mensaje_id": 525
+    "mensaje_id": 525,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-17-verde-auto-2026-11-16-pick-tip-3",
