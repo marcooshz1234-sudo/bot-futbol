@@ -3,9 +3,10 @@
 Proyecto **@combilocas** de Marcos: bot de pronósticos de fútbol (Telegram, Threads, Instagram) en este repo.
 
 ## Al empezar CUALQUIER sesión (en este orden)
-1. `git pull` y lee **`REGLAS.md`**: todas las normas de Marcos al día. Si algo choca con otra cosa, manda REGLAS.md.
+1. `git pull` (en la nube, en `/home/claude/bot-futbol`; la copia del Mac de Marcos está vieja desde el 1/11: no se toca ni se hace pull ahí, la verdad es GitHub) y lee **`REGLAS.md`**: todas las normas de Marcos al día. Si algo choca con otra cosa, manda REGLAS.md.
 2. **`MANUAL_PROYECTO.md`**: qué es cada pieza y cómo funciona.
 3. El final de **`informes/bitacora/AAAA-MM.md`** (mes actual): lo que se ha hecho y lo pendiente de los últimos días.
+   Para saber qué salió de verdad en Telegram, manda `publicaciones/enviados.json` y `mensaje_id` en la cola, no lo «pendiente» de la bitácora.
 4. Si el Mac de Marcos está enlazado: su bóveda de Obsidian «Combilocas» (iCloud) → `00 Inicio/Pendientes.md` y la
    última nota de `05 Diario/`. Es una copia para él; la verdad está en este repo.
 
