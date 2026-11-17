@@ -106,6 +106,15 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.649
   },
+  "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
+   "n": 4,
+   "verdes": 2,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.74,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.48
+  },
   "ENZO TIPSTER🇦🇷": {
    "n": 4,
    "verdes": 0,
@@ -115,17 +124,8 @@
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.524
   },
-  "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️": {
-   "n": 3,
-   "verdes": 2,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.74,
-   "resueltos_con_cuota": 2,
-   "prob_cuota": 1.48
-  },
   "AllSportsPicks ⚽🏀🎾": {
-   "n": 3,
+   "n": 4,
    "verdes": 1,
    "rojos": 2,
    "nulos": 0,
@@ -286,6 +286,13 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.14
   },
+  "Bet Builder BTTS Sí + Over 2.5": {
+   "n": 3,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "To Qualify Away": {
    "n": 2,
    "verdes": 1,
@@ -314,13 +321,6 @@
    "prob_cuota": 1.235
   },
   "Shots On Target Over 9.5": {
-   "n": 2,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
-  "Bet Builder BTTS Sí + Over 2.5": {
    "n": 2,
    "verdes": 0,
    "rojos": 0,
@@ -530,11 +530,18 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.581
+  },
+  "Bet Builder Over 6 córners + Over 1.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 72,
+   "n": 74,
    "verdes": 32,
    "rojos": 9,
    "nulos": 0,
@@ -849,7 +856,7 @@
    "prob_cuota": 24.645
   },
   "goles": {
-   "n": 27,
+   "n": 29,
    "verdes": 11,
    "rojos": 8,
    "nulos": 0,
@@ -885,7 +892,7 @@
    "prob_cuota": 4.953
   },
   "motivación": {
-   "n": 11,
+   "n": 12,
    "verdes": 4,
    "rojos": 3,
    "nulos": 0,
@@ -914,7 +921,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 46,
+   "n": 48,
    "verdes": 23,
    "rojos": 12,
    "nulos": 0,
@@ -958,6 +965,15 @@
   }
  },
  "liga": {
+  "UEFA Nations League": {
+   "n": 58,
+   "verdes": 34,
+   "rojos": 9,
+   "nulos": 0,
+   "unidades": 7.48,
+   "resueltos_con_cuota": 39,
+   "prob_cuota": 25.345
+  },
   "?": {
    "n": 57,
    "verdes": 24,
@@ -966,15 +982,6 @@
    "unidades": 2.77,
    "resueltos_con_cuota": 18,
    "prob_cuota": 11.701
-  },
-  "UEFA Nations League": {
-   "n": 56,
-   "verdes": 34,
-   "rojos": 9,
-   "nulos": 0,
-   "unidades": 7.48,
-   "resueltos_con_cuota": 39,
-   "prob_cuota": 25.345
   },
   "Copa del Rey": {
    "n": 5,
@@ -1006,7 +1013,7 @@
  },
  "lado": {
   "partido": {
-   "n": 60,
+   "n": 62,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -1035,7 +1042,7 @@
  },
  "por_que": {
   "—": {
-   "n": 48,
+   "n": 50,
    "verdes": 17,
    "rojos": 10,
    "nulos": 0,
@@ -1109,7 +1116,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 122,
+   "n": 124,
    "verdes": 62,
    "rojos": 21,
    "nulos": 0,

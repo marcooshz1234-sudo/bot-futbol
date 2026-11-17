@@ -1,14 +1,14 @@
 # Portugalete – Real Unión
 **Copa del Rey** · Round of 128 · 18/11/2026 19:00 (hora España) · Estadio La Florida
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:26_
+_Actualizadas: 17/11 20:07_
 
-- **1X2:** 1 **3.25**  ·  X **3.20**  ·  2 **2.25**
-- **Doble oportunidad:** 1X **1.62**  ·  12 **1.36**  ·  X2 **1.33**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
+- **1X2:** 1 **3.10**  ·  X **3.20**  ·  2 **2.35**
+- **Doble oportunidad:** 1X **1.57**  ·  12 **1.36**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **8.50**
     - 1,5: más **1.33** · menos **3.25**
@@ -22,22 +22,22 @@ _Actualizadas: 17/11 08:26_
 - **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.10**  ·  2 **2.88**
+    - 2,5: más **6.00** · menos **1.12**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.10**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **2.10**  ·  2 **1.67**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **3.75**
-- **Win Both Halves:** 1 **13.00**  ·  2 **8.00**
-- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.50**  ·  Draw/No **8.50**  ·  Away/No **3.75**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **5.50**  ·  Draw/No **8.50**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **11.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.20**
 
 ## Estadísticas de equipo

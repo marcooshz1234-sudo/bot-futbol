@@ -1,13 +1,13 @@
 # Arsenal W – Lyon W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Meadow Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:26_
+_Actualizadas: 17/11 20:08_
 
 - **1X2:** 1 **3.20**  ·  X **4.10**  ·  2 **1.91**
-- **Doble oportunidad:** 1X **1.83**  ·  12 **1.22**  ·  X2 **1.30**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.22**  ·  X2 **1.36**
 - **Ambos marcan:** Sí **1.53**  ·  No **2.38**
 - **Goles más/menos:**
     - 1,5: más **1.17** · menos **4.50**
@@ -30,7 +30,7 @@ _Actualizadas: 17/11 08:26_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **6.50** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.73**
+    - 9,5: más **2.02** · menos **1.78**
 - **Córners 1X2:** 1 **2.00**  ·  X **8.00**  ·  2 **2.10**
 - **1X2 descanso:** 1 **3.60**  ·  X **2.40**  ·  2 **2.38**
 - **Goals Over/Under - Second Half:**

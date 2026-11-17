@@ -1,10 +1,10 @@
 # FC Botosani – FC Voluntari
 **Liga I** · Regular Season - 16 · 20/11/2026 16:30 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:26_
+_Actualizadas: 17/11 20:08_
 
 - **1X2:** 1 **1.70**  ·  X **3.60**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.00**

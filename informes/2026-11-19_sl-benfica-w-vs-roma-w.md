@@ -1,10 +1,10 @@
 # SL Benfica W – Roma W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Estadio da Tapadinha
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:26_
+_Actualizadas: 17/11 20:08_
 
 - **1X2:** 1 **2.15**  ·  X **3.80**  ·  2 **2.80**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.25**  ·  X2 **1.67**
@@ -31,7 +31,7 @@ _Actualizadas: 17/11 08:26_
     - 2,5: más **4.50** · menos **1.17**
     - 3,5: más **9.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **2.02** · menos **1.78**
+    - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.62**  ·  X **8.00**  ·  2 **2.75**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.40**  ·  2 **3.20**
 - **Goals Over/Under - Second Half:**
@@ -50,7 +50,7 @@ _Actualizadas: 17/11 08:26_
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.72**  ·  Menos de 4 **2.08**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Anytime Goal Scorer:** Frederikke Thogersen **7.00**  ·  Martina Piemonte **2.62**  ·  Manuela Giugliano **3.50**  ·  Elisabetta Oliviero **11.00**  ·  Anna Csiki **6.50**  ·  Tinkara Testen **9.50**  ·  Giada Greggi **6.00**  ·  Alayah Pilgrim **3.40**  ·  Marit Bratberg Lund **5.00**  ·  Caroline Moller **3.25**  ·  Chandra Davidson **2.75**  ·  Alice Corelli **3.40**  ·  Annalena Rieke **11.00**  ·  Marta Pandini **4.50**  ·  Rinsola Babajide **2.88**  ·  Sara Terlizzi **9.50**  ·  Shukurat Oladipo **11.00**  ·  Carolina Tristao **5.00**  ·  Clara Oliveira **4.33**  ·  Nicole Raysala **2.88**  ·  Paula Encinas **4.50**  ·  Froya Dorsin **2.75**  ·  Neide Guedes **4.33**  ·  Kayleigh van Dooren **2.88**  ·  Shao Ziqin **2.62**  ·  Ines Meninas **9.50**  ·  Diana Costa **2.75**  ·  Flourish Sabastine **3.25**  ·  Janet Akekoromowei **3.50**  ·  Blessing Demehin **11.00**  ·  Agata Pinchi **3.40**  ·  Bianca Vergani **11.00**  ·  Ella Ottey **13.00**  ·  Magda Piekarska **11.00**  ·  Maya Antoine **13.00**  ·  Maya Doms **5.00**  ·  Rebecca Roselli **3.40**  ·  Sofia Jahnukainen **2.88**  ·  Viola Cacace **9.50**  ·  Giada Pellegrino Cimò **3.75**  ·  Ariana Schafer **6.50**  ·  Matilde Matos **6.50**  ·  Madalena Loucao **6.50**  ·  Valentina Bergamaschi **7.50**  ·  Winonah Heatley **11.00**  ·  Ana Borges **6.50**  ·  Andreia Norton **6.00**  ·  Catarina Amado **8.50**  ·  Diana Gomes **9.50**  ·  Lucia Alves **3.50**
 
 ## Estadísticas de equipo

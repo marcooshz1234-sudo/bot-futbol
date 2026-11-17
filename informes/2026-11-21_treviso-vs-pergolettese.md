@@ -1,7 +1,7 @@
 # Treviso – Pergolettese
 **Serie C** · Girone A - 15 · 21/11/2026 14:30 (hora España) · Stadio Omobono Tenni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

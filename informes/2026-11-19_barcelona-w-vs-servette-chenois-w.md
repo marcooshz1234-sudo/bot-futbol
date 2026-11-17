@@ -1,54 +1,55 @@
 # Barcelona W – Servette Chênois W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:26_
+_Actualizadas: 17/11 20:08_
 
-- **1X2:** 1 **1.01**  ·  X **23.00**  ·  2 **67.00**
-- **Ambos marcan:** Sí **5.00**  ·  No **1.14**
+- **1X2:** 1 **1.01**  ·  X **23.00**  ·  2 **51.00**
+- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
 - **Goles más/menos:**
+    - 2,5: más **1.05** · menos **8.50**
+    - 3,5: más **1.14** · menos **5.00**
+    - 4,5: más **1.36** · menos **3.00**
+    - 5,5: más **1.73** · menos **2.00**
+    - 6,5: más **2.38** · menos **1.53**
+    - 7,5: más **3.75** · menos **1.25**
+    - 8,5: más **5.50** · menos **1.12**
+    - 9,5: más **8.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.04** · menos **9.00**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **1.91**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
+- **Goles del local:**
     - 2,5: más **1.06** · menos **8.00**
-    - 3,5: más **1.17** · menos **4.50**
+    - 3,5: más **1.20** · menos **4.33**
     - 4,5: más **1.44** · menos **2.62**
     - 5,5: más **1.83** · menos **1.83**
-    - 6,5: más **2.62** · menos **1.44**
-    - 7,5: más **4.00** · menos **1.22**
-    - 8,5: más **6.50** · menos **1.10**
-    - 9,5: más **9.00** · menos **1.04**
-- **Goles 1ª parte más/menos:**
-    - 0,5: más **1.05** · menos **8.50**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **1.83** · menos **1.83**
-    - 3,5: más **3.40** · menos **1.30**
-    - 4,5: más **6.00** · menos **1.11**
-- **Goles del local:**
-    - 2,5: más **1.07** · menos **7.50**
-    - 3,5: más **1.22** · menos **4.00**
-    - 4,5: más **1.50** · menos **2.50**
-    - 5,5: más **2.00** · menos **1.73**
     - 6,5: más **2.75** · menos **1.40**
     - 7,5: más **4.33** · menos **1.20**
-    - 8,5: más **7.00** · menos **1.08**
+    - 8,5: más **6.50** · menos **1.10**
     - 9,5: más **9.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **5.00** · menos **1.14**
-- **1X2 descanso:** 1 **1.07**  ·  X **9.00**  ·  2 **67.00**
+    - 0,5: más **3.50** · menos **1.28**
+- **1X2 descanso:** 1 **1.07**  ·  X **9.00**  ·  2 **41.00**
 - **Goals Over/Under - Second Half:**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.62** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
-    - 5,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **13.00**  ·  No **1.04**
-- **Both Teams To Score - Second Half:** Sí **8.00**  ·  No **1.08**
-- **To Win Either Half:** 1 **1.00**  ·  2 **34.00**
-- **To Score In Both Halves By Teams:** 1 **1.11**  ·  2 **51.00**
-- **Win Both Halves:** 1 **1.17**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **34.00**  ·  Away/Yes **126.00**  ·  Home/No **1.17**  ·  Draw/No **26.00**  ·  Away/No **251.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **5.00**  ·  o/no 2.5 **1.25**  ·  u/yes 2.5 **51.00**  ·  u/no 2.5 **9.00**
-- **Anytime Goal Scorer:** Clara Serrajordi **3.10**  ·  Laia Balleste **81.00**  ·  Caroline Hansen **1.57**  ·  Claudia Pina **1.33**  ·  Victoria Lopez **1.50**  ·  Ewa Pajor **1.20**  ·  Aitana Bonmati **1.40**  ·  Francisca Nazareth **2.40**  ·  Esmee Brugts **3.10**  ·  Marta Torrejon **4.00**  ·  Patri Guijarro **2.40**  ·  Martina Fernandez **5.00**  ·  Irene Paredes **5.00**  ·  Aicha Camara **4.33**  ·  Carla Julia Martinez **1.73**  ·  Benedicte Simon **67.00**  ·  Rosalia Dominguez **2.10**  ·  Lua Arufe Calo **1.67**  ·  Renee van Asten **4.33**  ·  Magdalena Sobal **13.00**  ·  Garance Nein **19.00**  ·  Mickaella Cardia **19.00**  ·  Gloria Marinelli **19.00**  ·  Natasha Andonova **23.00**  ·  Paula Serrano **26.00**  ·  Asun Martinez **26.00**  ·  Paola Hernandez **26.00**  ·  Stefanie de Alem **26.00**  ·  Camila Mingard **34.00**  ·  Elodie Nakkach **41.00**  ·  Laura Strik **34.00**  ·  Daina Bourma **67.00**  ·  Amanda Chaney **81.00**  ·  Emma Petzoldt **81.00**  ·  Noemie Carage **81.00**  ·  Amina Muratovic **81.00**  ·  Chiara Wallin **81.00**  ·  Lea Sergeant-Huet **81.00**  ·  Carolina Ferrera **2.10**  ·  Martina Gonzalez **4.00**  ·  Ghoutia Karchouni **34.00**  ·  Kautar Azraf **1.40**  ·  Nikoline Nielsen **1.40**  ·  Laia Cabetas **1.73**  ·  Noa Jimenez **3.10**  ·  Julia Torres **1.73**  ·  Meriame Terchoun **19.00**  ·  Sydney Schertenleib **2.60**  ·  Nicoli Kerolin **1.67**  ·  Joana Marchao **41.00**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+- **To Win Either Half:** 1 **1.00**  ·  2 **21.00**
+- **To Score In Both Halves By Teams:** 1 **1.11**  ·  2 **21.00**
+- **Win Both Halves:** 1 **1.20**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **34.00**  ·  Away/Yes **67.00**  ·  Home/No **1.33**  ·  Draw/No **34.00**  ·  Away/No **101.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **1.53**  ·  u/yes 2.5 **51.00**  ·  u/no 2.5 **12.00**
+- **Anytime Goal Scorer:** Clara Serrajordi **3.00**  ·  Laia Balleste **51.00**  ·  Caroline Hansen **1.53**  ·  Claudia Pina **1.30**  ·  Victoria Lopez **1.44**  ·  Ewa Pajor **1.20**  ·  Aitana Bonmati **1.40**  ·  Francisca Nazareth **2.38**  ·  Esmee Brugts **3.00**  ·  Marta Torrejon **3.75**  ·  Patri Guijarro **2.38**  ·  Martina Fernandez **5.00**  ·  Irene Paredes **5.00**  ·  Aicha Camara **4.00**  ·  Carla Julia Martinez **1.73**  ·  Benedicte Simon **41.00**  ·  Rosalia Dominguez **2.10**  ·  Lua Arufe Calo **1.62**  ·  Renee van Asten **4.00**  ·  Magdalena Sobal **7.50**  ·  Garance Nein **9.50**  ·  Mickaella Cardia **9.50**  ·  Gloria Marinelli **12.00**  ·  Natasha Andonova **15.00**  ·  Paula Serrano **19.00**  ·  Asun Martinez **19.00**  ·  Paola Hernandez **19.00**  ·  Stefanie de Alem **19.00**  ·  Camila Mingard **26.00**  ·  Elodie Nakkach **26.00**  ·  Laura Strik **26.00**  ·  Daina Bourma **41.00**  ·  Amanda Chaney **51.00**  ·  Emma Petzoldt **51.00**  ·  Noemie Carage **51.00**  ·  Amina Muratovic **67.00**  ·  Chiara Wallin **67.00**  ·  Lea Sergeant-Huet **67.00**  ·  Carolina Ferrera **2.10**  ·  Martina Gonzalez **3.75**  ·  Ghoutia Karchouni **21.00**  ·  Kautar Azraf **1.40**  ·  Nikoline Nielsen **1.40**  ·  Laia Cabetas **1.73**  ·  Noa Jimenez **3.00**  ·  Julia Torres **1.73**  ·  Meriame Terchoun **12.00**  ·  Sydney Schertenleib **2.75**  ·  Nicoli Kerolin **1.62**  ·  Joana Marchao **26.00**
 
 ## Estadísticas de equipo
 | | Barcelona W (total) | Barcelona W en casa | Servette Chênois W (total) | Servette Chênois W fuera |
@@ -144,36 +145,36 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 7% | 1% | 4% | 67.00 | +191% |
+| 1X2: 2 | 7% | 2% | 5% | 51.00 | +132% |
 | 1X2: X | 1% | 4% | 3% | 23.00 | -39% |
 | 1X2: 1 | 92% | 94% | 93% | 1.01 | -6% |
-| Ambos marcan: No | 43% | 81% | 62% | 1.14 | -29% |
-| Ambos marcan: Sí | 57% | 19% | 38% | 5.00 | +89% |
-| Goles más/menos: Más de 3.5 | 93% | 79% | 86% | 1.17 | +1% |
-| Goles más/menos: Más de 4.5 | 85% | 65% | 75% | 1.44 | +8% |
-| Goles más/menos: Más de 5.5 | 73% | 50% | 62% | 1.83 | +13% |
-| Goles más/menos: Más de 6.5 | 59% | 35% | 47% | 2.62 | +24% |
-| Goles más/menos: Más de 7.5 | 44% | 23% | 34% | 4.00 | +36% |
-| Goles más/menos: Menos de 3.5 | 7% | 21% | 14% | 4.50 | -38% |
-| Goles más/menos: Menos de 4.5 | 15% | 35% | 25% | 2.62 | -34% |
-| Goles más/menos: Menos de 5.5 | 27% | 50% | 38% | 1.83 | -30% |
-| Goles más/menos: Menos de 6.5 | 41% | 65% | 53% | 1.44 | -24% |
-| Goles más/menos: Menos de 7.5 | 56% | 77% | 66% | 1.22 | -19% |
-| Goles 1ª parte más/menos: Más de 1.5 | 82% | 72% | 77% | 1.30 | +1% |
-| Goles 1ª parte más/menos: Más de 2.5 | 61% | 50% | 56% | 1.83 | +2% |
-| Goles 1ª parte más/menos: Más de 3.5 | 39% | 28% | 33% | 3.40 | +13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 18% | 28% | 23% | 3.40 | -23% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 39% | 50% | 44% | 1.83 | -19% |
-| Goles 1ª parte más/menos: Menos de 3.5 | 61% | 72% | 67% | 1.30 | -13% |
-| Goles del local: Más de 3.5 | 89% | 77% | 83% | 1.22 | +1% |
-| Goles del local: Más de 4.5 | 78% | 62% | 70% | 1.50 | +5% |
-| Goles del local: Más de 5.5 | 63% | 46% | 55% | 2.00 | +10% |
+| Ambos marcan: No | 43% | 73% | 58% | 1.28 | -26% |
+| Ambos marcan: Sí | 57% | 27% | 42% | 3.50 | +46% |
+| Goles más/menos: Más de 4.5 | 85% | 69% | 77% | 1.36 | +5% |
+| Goles más/menos: Más de 5.5 | 73% | 54% | 64% | 1.73 | +10% |
+| Goles más/menos: Más de 6.5 | 59% | 39% | 49% | 2.38 | +17% |
+| Goles más/menos: Más de 7.5 | 44% | 25% | 35% | 3.75 | +30% |
+| Goles más/menos: Menos de 4.5 | 15% | 31% | 23% | 3.00 | -31% |
+| Goles más/menos: Menos de 5.5 | 27% | 46% | 36% | 2.00 | -27% |
+| Goles más/menos: Menos de 6.5 | 41% | 61% | 51% | 1.53 | -22% |
+| Goles más/menos: Menos de 7.5 | 56% | 75% | 65% | 1.25 | -18% |
+| Goles 1ª parte más/menos: Más de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
+| Goles 1ª parte más/menos: Más de 2.5 | 61% | 51% | 56% | 1.80 | +2% |
+| Goles 1ª parte más/menos: Más de 3.5 | 39% | 31% | 35% | 3.00 | +5% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 18% | 25% | 21% | 3.75 | -20% |
+| Goles 1ª parte más/menos: Menos de 2.5 | 39% | 49% | 44% | 1.91 | -17% |
+| Goles 1ª parte más/menos: Menos de 3.5 | 61% | 69% | 65% | 1.36 | -12% |
+| Goles del local: Más de 3.5 | 89% | 78% | 84% | 1.20 | +0% |
+| Goles del local: Más de 4.5 | 78% | 65% | 71% | 1.44 | +3% |
+| Goles del local: Más de 5.5 | 63% | 50% | 57% | 1.83 | +4% |
 | Goles del local: Más de 6.5 | 48% | 34% | 41% | 2.75 | +12% |
 | Goles del local: Más de 7.5 | 33% | 22% | 27% | 4.33 | +18% |
-| Goles del local: Menos de 3.5 | 11% | 23% | 17% | 4.00 | -31% |
-| Goles del local: Menos de 4.5 | 22% | 38% | 30% | 2.50 | -25% |
-| Goles del local: Menos de 5.5 | 37% | 54% | 45% | 1.73 | -22% |
+| Goles del local: Menos de 3.5 | 11% | 22% | 16% | 4.33 | -29% |
+| Goles del local: Menos de 4.5 | 22% | 35% | 29% | 2.62 | -25% |
+| Goles del local: Menos de 5.5 | 37% | 50% | 43% | 1.83 | -21% |
 | Goles del local: Menos de 6.5 | 52% | 66% | 59% | 1.40 | -17% |
 | Goles del local: Menos de 7.5 | 67% | 78% | 73% | 1.20 | -13% |
+| Goles del visitante: Más de 0.5 | 54% | 27% | 40% | 3.50 | +41% |
+| Goles del visitante: Menos de 0.5 | 46% | 73% | 60% | 1.28 | -24% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

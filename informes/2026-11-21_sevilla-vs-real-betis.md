@@ -1,7 +1,7 @@
 # Sevilla – Real Betis
 **LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_

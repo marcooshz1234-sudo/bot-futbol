@@ -1,12 +1,12 @@
 # Vendsyssel FF – Hvidovre
 **1. Division** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nord Energi Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 20:00_
+_Actualizadas: 17/11 20:08_
 
-- **1X2:** 1 **3.50**  ·  X **3.60**  ·  2 **1.95**
+- **1X2:** 1 **3.50**  ·  X **3.50**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
@@ -20,15 +20,15 @@ _Actualizadas: 16/11 20:00_
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
-- **1X2 descanso:** 1 **3.75**  ·  X **2.38**  ·  2 **2.50**
+    - 3,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.38**  ·  2 **2.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -36,12 +36,12 @@ _Actualizadas: 16/11 20:00_
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
-- **To Win Either Half:** 1 **2.10**  ·  2 **1.50**
+- **To Win Either Half:** 1 **2.10**  ·  2 **1.53**
 - **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **2.75**
 - **Win Both Halves:** 1 **13.00**  ·  2 **6.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.60**  ·  Home/No **7.00**  ·  Draw/No **15.00**  ·  Away/No **3.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
-- **Anytime Goal Scorer:** Rasmus Schuller **10.00**  ·  Ahmed Iljazovski **8.00**  ·  Adam Vendelbo **4.00**  ·  Bilal Krubally **12.00**  ·  Emil Gronn Pedersen **2.75**  ·  Lasse Steffensen **3.40**  ·  Marcus Hannesbo **4.33**  ·  Emmanuel Aby **3.00**  ·  Marvin Egho **2.75**  ·  Alexander Johansen **3.50**  ·  Andreas Smed **3.60**  ·  Marius Papuga **6.00**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **10.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.20**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Simon Okosun **4.75**  ·  Oliver Juul Jensen **7.50**  ·  Donavan Bagou **2.38**  ·  Abdoulie Njai **7.50**  ·  Arni Atlason **6.50**  ·  Haki Bedzeti **6.00**  ·  Lucas Andersen **4.33**  ·  Nathan Huygevelde **4.00**  ·  Harald Tangen **5.50**  ·  Louka Prip **3.50**  ·  Danny Beshara **5.50**  ·  Jonathan Rosengaard **5.50**  ·  Kasper Kjellingbro **5.50**  ·  Oliver Jensen **3.50**  ·  Ari Olsen **10.00**  ·  Jeppe Sommer **10.00**  ·  Malthe Holt **8.00**  ·  Precious Williams **3.00**  ·  Sebastian Lodberg **6.50**  ·  Stephen Michael **7.50**  ·  Steven Simpson **5.50**  ·  Mathias Andersen **10.00**  ·  Andreas Rise **5.50**  ·  Roberto Risnaes **2.38**  ·  Louis Gronemann **8.00**  ·  Roma Wilfried **5.50**  ·  Morten Knudsen **5.50**  ·  Frederik Mortensen **5.50**  ·  Hassan Ndam **12.00**  ·  Julius Lockhart **10.00**  ·  Zamir Aliji **5.50**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.60**  ·  Home/No **7.00**  ·  Draw/No **15.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Anytime Goal Scorer:** Rasmus Schuller **9.00**  ·  Ahmed Iljazovski **8.00**  ·  Adam Vendelbo **4.00**  ·  Bilal Krubally **12.00**  ·  Emil Gronn Pedersen **2.50**  ·  Lasse Steffensen **3.40**  ·  Marcus Hannesbo **4.33**  ·  Emmanuel Aby **3.00**  ·  Marvin Egho **2.75**  ·  Alexander Johansen **3.50**  ·  Andreas Smed **3.60**  ·  Marius Papuga **6.00**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **10.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.20**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Simon Okosun **4.75**  ·  Oliver Juul Jensen **7.50**  ·  Donavan Bagou **2.38**  ·  Abdoulie Njai **7.50**  ·  Arni Atlason **6.50**  ·  Haki Bedzeti **6.00**  ·  Lucas Andersen **4.33**  ·  Nathan Huygevelde **4.00**  ·  Harald Tangen **5.50**  ·  Louka Prip **3.50**  ·  Danny Beshara **5.50**  ·  Jonathan Rosengaard **5.50**  ·  Kasper Kjellingbro **5.50**  ·  Oliver Jensen **3.50**  ·  Ari Olsen **9.00**  ·  Jeppe Sommer **9.00**  ·  Malthe Holt **8.00**  ·  Precious Williams **3.00**  ·  Sebastian Lodberg **6.50**  ·  Stephen Michael **7.50**  ·  Steven Simpson **5.50**  ·  Mathias Andersen **9.00**  ·  Andreas Rise **5.50**  ·  Roberto Risnaes **2.38**  ·  Louis Gronemann **8.00**  ·  Roma Wilfried **5.50**  ·  Morten Knudsen **5.50**  ·  Frederik Mortensen **5.50**  ·  Hassan Ndam **12.00**  ·  Julius Lockhart **10.00**  ·  Zamir Aliji **5.50**
 
 ## Estadísticas de equipo
 | | Vendsyssel FF (total) | Vendsyssel FF en casa | Hvidovre (total) | Hvidovre fuera |
@@ -142,8 +142,8 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 64% | 48% | 56% | 1.95 | +9% |
-| 1X2: X | 21% | 26% | 23% | 3.60 | -16% |
+| 1X2: 2 | 64% | 47% | 55% | 2.00 | +11% |
+| 1X2: X | 21% | 27% | 24% | 3.50 | -16% |
 | 1X2: 1 | 15% | 27% | 21% | 3.50 | -27% |
 | Doble oportunidad: X2 | 85% | 74% | 79% | 1.28 | +2% |
 | Doble oportunidad: 12 | 79% | 74% | 76% | 1.28 | -2% |
@@ -162,16 +162,16 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles 1ª parte más/menos: Más de 1.5 | 34% | 39% | 36% | 2.38 | -13% |
 | Goles 1ª parte más/menos: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles 1ª parte más/menos: Menos de 1.5 | 66% | 61% | 64% | 1.53 | -3% |
-| Goles del local: Más de 0.5 | 56% | 71% | 63% | 1.33 | -16% |
-| Goles del local: Más de 1.5 | 19% | 35% | 27% | 2.62 | -28% |
-| Goles del local: Menos de 0.5 | 44% | 29% | 37% | 3.25 | +19% |
-| Goles del local: Menos de 1.5 | 81% | 65% | 73% | 1.44 | +4% |
+| Goles del local: Más de 0.5 | 56% | 72% | 64% | 1.30 | -17% |
+| Goles del local: Más de 1.5 | 19% | 38% | 28% | 2.50 | -29% |
+| Goles del local: Menos de 0.5 | 44% | 28% | 36% | 3.40 | +23% |
+| Goles del local: Menos de 1.5 | 81% | 62% | 72% | 1.50 | +7% |
 | Goles del visitante: Más de 1.5 | 58% | 51% | 55% | 1.80 | -2% |
 | Goles del visitante: Más de 2.5 | 31% | 27% | 29% | 3.50 | +1% |
 | Goles del visitante: Menos de 1.5 | 42% | 49% | 45% | 1.91 | -13% |
 | Goles del visitante: Menos de 2.5 | 69% | 73% | 71% | 1.28 | -9% |
-| 1X2 descanso: 2 | 45% | 37% | 41% | 2.50 | +3% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -7% |
-| 1X2 descanso: 1 | 15% | 25% | 20% | 3.75 | -27% |
+| 1X2 descanso: 2 | 45% | 36% | 41% | 2.60 | +6% |
+| 1X2 descanso: X | 40% | 39% | 40% | 2.38 | -6% |
+| 1X2 descanso: 1 | 15% | 25% | 20% | 3.75 | -26% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

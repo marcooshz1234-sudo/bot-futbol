@@ -1,12 +1,13 @@
 # Csikszereda – Corvinul Hunedoara
 **Liga I** · Regular Season - 16 · 21/11/2026 14:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 20:00_
+_Actualizadas: 17/11 20:08_
 
 - **1X2:** 1 **3.80**  ·  X **3.40**  ·  2 **1.85**
+- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.22**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -14,9 +15,30 @@ _Actualizadas: 16/11 20:00_
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
 - **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **2.38**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **3.00**
+- **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
 - **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **10.00**  ·  Away/No **3.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
 
@@ -162,6 +184,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 58% | 49% | 54% | 1.85 | -1% |
 | 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
 | 1X2: 1 | 17% | 24% | 20% | 3.80 | -23% |
+| Doble oportunidad: X2 | 83% | 76% | 80% | 1.22 | -3% |
+| Doble oportunidad: 12 | 75% | 72% | 74% | 1.28 | -6% |
+| Doble oportunidad: 1X | 42% | 52% | 47% | 1.80 | -16% |
 | Ambos marcan: No | 60% | 49% | 54% | 1.91 | +4% |
 | Ambos marcan: Sí | 40% | 51% | 46% | 1.80 | -18% |
 | Goles más/menos: Más de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
@@ -170,6 +195,20 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 34% | 27% | 30% | 3.50 | +7% |
 | Goles más/menos: Menos de 2.5 | 61% | 51% | 56% | 1.85 | +4% |
 | Goles más/menos: Menos de 3.5 | 81% | 72% | 77% | 1.30 | -0% |
+| Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 66% | 1.36 | -11% |
+| Goles 1ª parte más/menos: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 34% | 3.00 | +3% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
+| Goles del local: Más de 0.5 | 50% | 65% | 57% | 1.44 | -17% |
+| Goles del local: Más de 1.5 | 15% | 28% | 22% | 3.40 | -27% |
+| Goles del local: Menos de 0.5 | 50% | 35% | 43% | 2.62 | +12% |
+| Goles del local: Menos de 1.5 | 85% | 72% | 78% | 1.30 | +2% |
+| Goles del visitante: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
+| Goles del visitante: Más de 1.5 | 46% | 49% | 47% | 1.91 | -10% |
+| Goles del visitante: Más de 2.5 | 21% | 23% | 22% | 4.00 | -12% |
+| Goles del visitante: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -7% |
+| Goles del visitante: Menos de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
+| Goles del visitante: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
 | 1X2 descanso: 2 | 40% | 37% | 38% | 2.50 | -4% |
 | 1X2 descanso: X | 46% | 42% | 44% | 2.20 | -4% |
 | 1X2 descanso: 1 | 15% | 21% | 18% | 4.33 | -22% |

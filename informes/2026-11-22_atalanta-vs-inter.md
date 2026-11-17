@@ -1,7 +1,7 @@
 # Atalanta – Inter
 **Serie A** · Regular Season - 12 · 22/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_

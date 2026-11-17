@@ -1,7 +1,7 @@
 # Dolomiti Bellunesi – Athletic Carpi
 **Serie C** · Girone A - 15 · 22/11/2026 17:30 (hora España) · Zugni Tauro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

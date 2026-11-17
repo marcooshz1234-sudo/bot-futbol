@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_

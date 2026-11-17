@@ -3303,7 +3303,12 @@
    "Dos selecciones que atacan mucho por banda y fuerzan centros, lo que suele traducir en córners",
    "Con dos goles basta: ninguno de los dos tiene una defensa como para cerrar el partido a cero"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528998,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.667
+  }
  },
  {
   "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
@@ -3322,6 +3327,11 @@
    "Los encuentros de Noruega en esta Nations League han ido con goles a ambos lados y más de dos tantos",
    "Noruega necesita ganar y eso deja espacios para que Dinamarca también golpee"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528993,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.625
+  }
  }
 ]

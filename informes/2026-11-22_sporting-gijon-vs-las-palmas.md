@@ -1,10 +1,10 @@
 # Sporting Gijon – Las Palmas
 **Segunda División** · Regular Season - 15 · 22/11/2026 16:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 20:01_
+_Actualizadas: 17/11 20:09_
 
 - **1X2:** 1 **1.85**  ·  X **3.40**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.80**

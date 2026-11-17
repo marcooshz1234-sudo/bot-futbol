@@ -1,20 +1,20 @@
 # Vejle – HB Koge
 **1. Division** · Regular Season - 15 · 21/11/2026 13:30 (hora España) · Vejle Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 20:00_
+_Actualizadas: 17/11 20:08_
 
-- **1X2:** 1 **1.44**  ·  X **4.33**  ·  2 **5.75**
-- **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.50**
-- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **1X2:** 1 **1.44**  ·  X **4.50**  ·  2 **6.25**
+- **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.62**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.50**
     - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **7.00** · menos **1.10**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -30,7 +30,7 @@ _Actualizadas: 16/11 20:00_
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.40** · menos **1.30**
     - 2,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **1.91**  ·  X **2.62**  ·  2 **5.50**
+- **1X2 descanso:** 1 **1.91**  ·  X **2.62**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
@@ -38,12 +38,12 @@ _Actualizadas: 16/11 20:00_
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.25**  ·  2 **3.00**
-- **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **5.50**
-- **Win Both Halves:** 1 **3.50**  ·  2 **23.00**
-- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **19.00**  ·  Away/No **13.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.20**
-- **Anytime Goal Scorer:** Mustafa Salah **3.50**  ·  Lukas Achton **11.00**  ·  Emil Villumsen **11.00**  ·  Magnus Warming **7.00**  ·  Marcel Romer **7.50**  ·  Mikkel Duelund **1.95**  ·  Christian Sorensen **4.00**  ·  Lundrim Hetemi **5.00**  ·  Thomas Gundelund **7.00**  ·  Tobias Thomsen **2.88**  ·  Gunnar Vatnhamar **7.50**  ·  Bismark Edjeodji **3.25**  ·  Erkan Semovski **4.33**  ·  Vinicius Pederson **11.00**  ·  Durmus Efe Bayrak **13.00**  ·  Laurits Bust **13.00**  ·  Gustav Marcussen **2.88**  ·  Lucas From **2.40**  ·  Christian Tue Jensen **5.50**  ·  Gabriel Culhaci **7.00**  ·  Gabriel Larsen **7.50**  ·  Mads Rasmussen **6.00**  ·  Mattias Jakobsen **13.00**  ·  Mike Jensen **6.00**  ·  Niklas Jakobsen **7.00**  ·  Silas Hald **13.00**  ·  Viktor Sorensen **7.50**  ·  Fisnik Isaki **5.50**  ·  Mike Vestergaard **4.00**  ·  Rasmus Brodersen **13.00**  ·  Giorgi Tabatadze **5.50**  ·  Max Jensen **3.25**  ·  Wahidullah Faghir **2.25**  ·  Adam Choukri **4.00**  ·  Mathias Fris **11.00**  ·  Rasmus Lund **11.00**  ·  Johan Karlsson **6.00**  ·  Lasse Nielsen **7.00**  ·  Eman Subasic **3.25**  ·  Nicolas Gammelgaard **3.25**  ·  Ransford Amoo **2.25**  ·  Hjalte Gitz **7.00**  ·  Oliver Engberg **11.00**  ·  Ibrahim Figuigui **7.00**  ·  Noah Stolshoj **3.50**  ·  Tobias Bach **2.60**  ·  Sebastian Rosenwanger **11.00**  ·  Marcus Brolund **2.88**  ·  Jakob Sorensen **6.00**  ·  William Palm **6.00**  ·  Mathias Jensen **4.00**  ·  Valdemar Lund **7.50**  ·  Andrew Hjulsager **3.25**  ·  Jelle Duin **2.25**  ·  Sander Ravn **4.00**  ·  Abdoulaye Camara **3.25**  ·  Mads Westergren **13.00**
+- **To Win Either Half:** 1 **1.25**  ·  2 **3.25**
+- **To Score In Both Halves By Teams:** 1 **2.00**  ·  2 **6.00**
+- **Win Both Halves:** 1 **3.40**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **17.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.20**
+- **Anytime Goal Scorer:** Mustafa Salah **3.75**  ·  Lukas Achton **11.00**  ·  Emil Villumsen **11.00**  ·  Magnus Warming **7.00**  ·  Marcel Romer **7.50**  ·  Mikkel Duelund **2.00**  ·  Christian Sorensen **4.00**  ·  Lundrim Hetemi **5.00**  ·  Thomas Gundelund **7.00**  ·  Tobias Thomsen **3.00**  ·  Gunnar Vatnhamar **7.50**  ·  Bismark Edjeodji **3.40**  ·  Erkan Semovski **4.33**  ·  Vinicius Pederson **11.00**  ·  Durmus Efe Bayrak **13.00**  ·  Laurits Bust **17.00**  ·  Gustav Marcussen **2.88**  ·  Lucas From **2.40**  ·  Christian Tue Jensen **5.50**  ·  Gabriel Culhaci **7.00**  ·  Gabriel Larsen **7.50**  ·  Mads Rasmussen **6.50**  ·  Mattias Jakobsen **13.00**  ·  Mike Jensen **6.50**  ·  Niklas Jakobsen **7.00**  ·  Silas Hald **17.00**  ·  Viktor Sorensen **7.50**  ·  Fisnik Isaki **5.50**  ·  Mike Vestergaard **4.00**  ·  Rasmus Brodersen **13.00**  ·  Giorgi Tabatadze **5.50**  ·  Max Jensen **3.40**  ·  Wahidullah Faghir **2.30**  ·  Adam Choukri **4.00**  ·  Mathias Fris **11.00**  ·  Rasmus Lund **11.00**  ·  Johan Karlsson **6.50**  ·  Lasse Nielsen **7.00**  ·  Eman Subasic **3.40**  ·  Nicolas Gammelgaard **3.40**  ·  Ransford Amoo **2.30**  ·  Hjalte Gitz **7.00**  ·  Oliver Engberg **11.00**  ·  Ibrahim Figuigui **7.00**  ·  Noah Stolshoj **3.75**  ·  Tobias Bach **2.60**  ·  Sebastian Rosenwanger **11.00**  ·  Marcus Brolund **2.88**  ·  Jakob Sorensen **6.50**  ·  William Palm **6.50**  ·  Mathias Jensen **4.00**  ·  Valdemar Lund **7.50**  ·  Andrew Hjulsager **3.40**  ·  Jelle Duin **2.30**  ·  Sander Ravn **4.00**  ·  Abdoulaye Camara **3.40**  ·  Mads Westergren **17.00**
 
 ## Estadísticas de equipo
 | | Vejle (total) | Vejle en casa | HB Koge (total) | HB Koge fuera |
@@ -143,14 +143,14 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 
 | Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
 |---|---|---|---|---|---|
-| 1X2: 2 | 15% | 16% | 15% | 5.75 | -11% |
-| 1X2: X | 16% | 21% | 19% | 4.33 | -19% |
-| 1X2: 1 | 68% | 63% | 66% | 1.44 | -5% |
-| Doble oportunidad: X2 | 32% | 37% | 34% | 2.50 | -14% |
-| Doble oportunidad: 12 | 84% | 79% | 81% | 1.18 | -4% |
-| Doble oportunidad: 1X | 85% | 83% | 84% | 1.12 | -6% |
-| Ambos marcan: No | 35% | 42% | 39% | 2.20 | -15% |
-| Ambos marcan: Sí | 65% | 58% | 61% | 1.62 | -0% |
+| 1X2: 2 | 15% | 15% | 15% | 6.25 | -7% |
+| 1X2: X | 16% | 21% | 19% | 4.50 | -16% |
+| 1X2: 1 | 68% | 64% | 66% | 1.44 | -4% |
+| Doble oportunidad: X2 | 32% | 36% | 34% | 2.62 | -12% |
+| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -4% |
+| Doble oportunidad: 1X | 85% | 84% | 85% | 1.12 | -5% |
+| Ambos marcan: No | 35% | 44% | 39% | 2.10 | -17% |
+| Ambos marcan: Sí | 65% | 56% | 61% | 1.67 | +1% |
 | Goles más/menos: Más de 2.5 | 74% | 62% | 68% | 1.50 | +3% |
 | Goles más/menos: Más de 3.5 | 54% | 42% | 48% | 2.20 | +6% |
 | Goles más/menos: Más de 4.5 | 35% | 25% | 30% | 3.75 | +12% |
@@ -171,7 +171,7 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles del visitante: Más de 1.5 | 34% | 28% | 31% | 3.40 | +5% |
 | Goles del visitante: Menos de 0.5 | 30% | 38% | 34% | 2.50 | -16% |
 | Goles del visitante: Menos de 1.5 | 66% | 72% | 69% | 1.30 | -10% |
-| 1X2 descanso: X | 32% | 35% | 33% | 2.62 | -13% |
-| 1X2 descanso: 1 | 52% | 48% | 50% | 1.91 | -5% |
+| 1X2 descanso: X | 32% | 36% | 34% | 2.62 | -12% |
+| 1X2 descanso: 1 | 52% | 49% | 50% | 1.91 | -4% |
 
 _Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

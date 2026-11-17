@@ -1,7 +1,7 @@
 # Brentford – Everton
 **Premier League** · Regular Season - 11 · 23/11/2026 21:00 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_

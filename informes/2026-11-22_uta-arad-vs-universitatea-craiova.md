@@ -1,12 +1,13 @@
 # Uta Arad – Universitatea Craiova
 **Liga I** · Regular Season - 16 · 22/11/2026 16:30 (hora España) · Arena Francisc Neuman
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
 
 ## Cuotas Bet365
-_Actualizadas: 16/11 20:01_
+_Actualizadas: 17/11 20:09_
 
 - **1X2:** 1 **4.33**  ·  X **3.60**  ·  2 **1.70**
+- **Doble oportunidad:** 1X **2.00**  ·  12 **1.25**  ·  X2 **1.18**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **10.00**
@@ -14,6 +15,10 @@ _Actualizadas: 16/11 20:01_
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
@@ -179,6 +184,9 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | 1X2: 2 | 55% | 54% | 54% | 1.70 | -8% |
 | 1X2: X | 25% | 25% | 25% | 3.60 | -9% |
 | 1X2: 1 | 20% | 21% | 21% | 4.33 | -10% |
+| Doble oportunidad: X2 | 80% | 79% | 79% | 1.18 | -6% |
+| Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -7% |
+| Doble oportunidad: 1X | 45% | 47% | 46% | 2.00 | -8% |
 | Ambos marcan: No | 54% | 50% | 52% | 1.83 | -5% |
 | Ambos marcan: Sí | 46% | 50% | 48% | 1.83 | -12% |
 | Goles más/menos: Más de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
@@ -187,6 +195,10 @@ _Datos poco comparables para alguno de los equipos (pocos partidos en las grande
 | Goles más/menos: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
 | Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
 | Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
+| Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
+| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
+| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
+| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
 | Goles del local: Más de 0.5 | 58% | 59% | 58% | 1.57 | -9% |
 | Goles del local: Más de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
 | Goles del local: Menos de 0.5 | 42% | 41% | 42% | 2.25 | -6% |
