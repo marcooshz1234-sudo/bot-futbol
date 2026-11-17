@@ -8262,12 +8262,17 @@
     "solo_en": [
       "telegram"
     ],
-    "sel": [],
+    "sel": [
+      "1647369|Match Winner|Away"
+    ],
     "texto": "Arrancamos la tarde con uno que pinta muy bien 👀\n\n🍀 Gana Corea del Sur @1,40\n\n⚽ Catar – Corea del Sur · hoy 15:00\n\n👨‍💻 Corea es de largo el favorito: Catar paga 8,00 en bet365\n👨‍💻 Más plantilla y más ritmo: sus jugadores compiten en Europa\n👨‍💻 Amistoso, pero Corea suele salir con sus fijos para ganar\n\n🧠 Stake 3/10",
-    "nota": "Claude, de la lista de NEXTBETTING; sin sel (amistoso fuera de nuestros datos): verde a mano · 14:46 Marcos: «súbelos»",
+    "nota": "Claude, de la lista de NEXTBETTING; sin sel (amistoso fuera de nuestros datos): verde a mano · 14:46 Marcos: «súbelos» · sel puesta a mano 17/11 22:20 (Catar 0-1 Corea, SBS)",
     "foto_tg": "publicaciones/media/2026-11-17-pick-claude-1.tg.jpg",
     "enviado": "2026-11-17T14:47",
-    "mensaje_id": 522
+    "mensaje_id": 522,
+    "cuotas": [
+      1.4
+    ]
   },
   {
     "id": "2026-11-17-pick-tip-2",
