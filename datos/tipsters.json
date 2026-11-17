@@ -3173,5 +3173,45 @@
    5,
    0
   ]
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10131",
+  "dia": "2026-11-17",
+  "local": "Poland",
+  "visitante": "Sweden",
+  "partido_id": 1528998,
+  "texto": "Polonia o empate",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "cuota": 1.52,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.36,
+   "prob_cuota": 0.658
+  }
+ },
+ {
+  "tipster": "MERIDIANPICKS 🌐",
+  "fuente": "-1003548284566/43",
+  "dia": "2026-11-17",
+  "local": "Hungary",
+  "visitante": "Northern Ireland",
+  "partido_id": 1528995,
+  "texto": "Gana el Hungría",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.95,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.95,
+   "prob_cuota": 0.513
+  }
  }
 ]

@@ -8227,5 +8227,22 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-17-pick-tip-1",
+    "fecha": "2026-11-17T11:33",
+    "texto": "Pick que no podía faltar hoy ⚽\n\n🍀 Polonia o empate @1,36\n\n⚽ Polonia – Suecia · hoy 20:45",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [
+      "1528998|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.36
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]

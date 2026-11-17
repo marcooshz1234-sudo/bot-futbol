@@ -6617,10 +6617,10 @@
       "1528999|Double Chance|Draw/Away"
     ],
     "cuotas": [
-      2.75,
-      1.83,
-      1.95,
-      1.95
+      2.62,
+      1.8,
+      1.91,
+      1.8
     ],
     "solo_en": [
       "threads"
@@ -6631,7 +6631,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-17T11:30"
   },
   {
     "id": "2026-11-17-combi-tres",
