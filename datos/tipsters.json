@@ -3197,7 +3197,12 @@
    "cuota_bet365": 1.36,
    "prob_cuota": 0.658
   },
-  "argumento_propio": true
+  "argumento_propio": true,
+  "estado": "verde",
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "MERIDIANPICKS 🌐",
@@ -3217,7 +3222,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.95,
    "prob_cuota": 0.513
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -3241,7 +3251,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.637
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "MERIDIANPICKS 🌐",
@@ -3265,7 +3280,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 2.0,
    "prob_cuota": 0.526
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "ENZO TIPSTER🇦🇷",
@@ -3285,7 +3305,12 @@
    "liga": "UEFA Nations League",
    "cuota_bet365": 2.0,
    "prob_cuota": 0.485
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   3
+  ]
  },
  {
   "tipster": "AllSportsPicks ⚽🏀🎾",
@@ -3308,7 +3333,12 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.667
-  }
+  },
+  "estado": null,
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "𝐌𝐀𝐗 𝐀𝐍𝐀𝐋𝐈𝐒𝐓𝐀 ⚜️",
@@ -3332,6 +3362,36 @@
   "analisis": {
    "liga": "UEFA Nations League",
    "prob_cuota": 0.625
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   3
+  ]
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10141",
+  "dia": "2026-11-17",
+  "local": "Ukraine",
+  "visitante": "Georgia",
+  "partido_id": 1528994,
+  "texto": "Ucrania o empate",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "cuota": 1.3,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 1.28,
+   "prob_cuota": 0.769
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   0
+  ]
  }
 ]
