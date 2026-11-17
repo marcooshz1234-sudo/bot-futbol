@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 09:52",
+ "actualizado": "2026-11-17 10:32",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 449,
-   "hoy": 10,
+   "seguidores": 451,
+   "hoy": 12,
    "serie": [
     384,
     391,
@@ -50,17 +50,17 @@
     404,
     411,
     439,
-    449
+    451
    ]
   }
  },
- "total": 3583,
- "total_hoy": 90,
+ "total": 3585,
+ "total_hoy": 92,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:00",
+  "hora": "11:00",
   "dia": "2026-11-17",
-  "titulo": "Córners del día"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": {
   "aciertos": 3,
@@ -224,7 +224,7 @@
    "instagram": 46,
    "threads": 3087,
    "facebook": 1,
-   "telegram": 449
+   "telegram": 451
   }
  },
  "tipos_instagram": {
