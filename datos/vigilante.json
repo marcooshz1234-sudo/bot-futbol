@@ -122,9 +122,14 @@
   "cuotas-2026-11-17-pick-tip-2": "2026-11-17T14:53",
   "directo-2026-11-17-pick-claude-2": "2026-11-17T14:53",
   "repe-2026-11-17-1528993|Both Teams Score|Yes": "2026-11-17T14:53",
-  "repe-2026-11-17-1528996|Both Teams Score|Yes": "2026-11-17T14:53"
+  "repe-2026-11-17-1528996|Both Teams Score|Yes": "2026-11-17T14:53",
+  "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away": "2026-11-17T20:27"
  },
  "abiertos": [
+  {
+   "clave": "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away",
+   "t": "📉 Juventus (fem.)–OH Leuven (fem.) Draw/Away: la cuota ha pasado de 3.25 a 4.00 (+23%) desde que se hizo «🤪 LA LOCURA DE x392 🤪» (23:00). Suele haber una noticia detrás"
+  },
   {
    "clave": "repe-2026-11-17-1528996|Both Teams Score|Yes",
    "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-claude-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
@@ -134,8 +139,12 @@
    "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-3, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
   }
  ],
- "revisado": "2026-11-17T20:16",
+ "revisado": "2026-11-17T20:27",
  "historial": [
+  {
+   "hora": "2026-11-17T20:27",
+   "t": "📉 Juventus (fem.)–OH Leuven (fem.) Draw/Away: la cuota ha pasado de 3.25 a 4.00 (+23%) desde que se hizo «🤪 LA LOCURA DE x392 🤪» (23:00). Suele haber una noticia detrás"
+  },
   {
    "hora": "2026-11-17T14:53",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro para esta noche, de los que nos gustan mucho 🔥 (18:00)"
@@ -371,10 +380,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1630-x100, loca-th-1730-x500)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0930-x100, loca-th-1400-x500, loca-th-1730-x500, loca-th-2000-x500)"
   }
  ]
 }
