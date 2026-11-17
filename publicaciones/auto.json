@@ -6915,7 +6915,7 @@
       1.44,
       1.57,
       1.33,
-      1.5,
+      1.62,
       1.73
     ],
     "solo_en": [
@@ -6928,7 +6928,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-17T17:03"
+    "cuotas_revisadas": "2026-11-17T17:51"
   },
   {
     "id": "2026-11-17-loca-th-1900-x1000",
@@ -6945,12 +6945,12 @@
     ],
     "cuotas": [
       2.75,
-      2.62,
+      1.91,
       2.4,
-      2.75,
+      2.38,
       2.75,
       2.62,
-      2.62
+      3.0
     ],
     "solo_en": [
       "threads"
@@ -6961,7 +6961,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T17:51"
   },
   {
     "id": "2026-11-18-ganadores-champions-fem",
