@@ -31,9 +31,32 @@
    "post": "2026-11-14-cuotaza-1570018-88fe62"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Wales",
+   "visitante": "Portugal",
+   "inicio": "2026-11-17T20:45",
+   "texto": "Portugal marca 2 o más",
+   "cuota": 1.44,
+   "justa": 1.46,
+   "ev": -0.014,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Poland",
+   "visitante": "Sweden",
+   "inicio": "2026-11-17T20:45",
+   "texto": "Poland marca 2 o más",
+   "cuota": 1.91,
+   "justa": 1.94,
+   "ev": -0.018,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-17T08:37",
+  "hora": "2026-11-17T09:10",
   "revisadas": 0,
   "mejor": null
  },
