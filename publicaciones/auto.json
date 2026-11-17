@@ -6322,7 +6322,7 @@
       "1528999|Corners 1x2|Home"
     ],
     "cuotas": [
-      1.67,
+      1.62,
       1.88,
       1.67,
       1.57,
@@ -6340,7 +6340,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-17T05:45"
   },
   {
     "id": "2026-11-17-loca-th-0800-empates",
