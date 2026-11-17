@@ -245,8 +245,38 @@ def duplicado(p, texto=None, cola=None):
     return None
 
 
+TOPE_TARJETAS_TG = 2   # 17/11 (Marcos: «ya hay dos picks de tarjetas hoy, ya no subas ninguno así»)
+
+
+def _de_tarjetas(p, texto=None):
+    t = (texto or p.get("texto") or "") + " " + " ".join(map(str, p.get("sel") or []))
+    return bool(re.search(r"tarjeta|Cards", t, re.I))
+
+
+def tarjetas_tg(p, texto=None, posts=None):
+    """Motivo si ya salieron TOPE_TARJETAS_TG picks de tarjetas hoy en Telegram y este también lo es."""
+    if p.get("solo_en") and "telegram" not in p["solo_en"]:
+        return None
+    if not _de_tarjetas(p, texto):
+        return None
+    dia = p.get("id", "")[:10]
+    if posts is None:
+        env = leer(RAIZ / "publicaciones" / "enviados.json", {}) or {}
+        posts = [{**x, "mensaje_id": x.get("mensaje_id") or (env.get(x["id"]) or {}).get("mensaje_id")}
+                 for x in (leer(RAIZ / "publicaciones" / "cola.json", []) or []) + (leer(RAIZ / "publicaciones" / "auto.json", []) or [])]
+    n = sum(1 for x in posts if x.get("id", "")[:10] == dia and x.get("id") != p.get("id") and x.get("mensaje_id")
+            and _de_tarjetas(x))
+    return f"ya hay {n} picks de tarjetas hoy en Telegram (tope {TOPE_TARJETAS_TG})" if n >= TOPE_TARJETAS_TG else None
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
+    try:
+        m = tarjetas_tg(p, texto)
+        if m:
+            return m
+    except Exception as e:
+        print("comprobar_post tarjetas:", e)
     try:
         d = duplicado(p, texto)
         if d:

@@ -170,6 +170,7 @@
 - ⚙️ **Resumen de la noche: los fallados salen en «😤 Se nos escaparon», con un dato del partido** (16/11, Marcos): el marcador, y si el pick era de tiros/córners/tarjetas, cuánto hubo; en las combis, la pata que la tumbó. Sin ❌ (13/11).
 - 🤖 **El resumen de la noche (Telegram) cuenta SOLO lo que salió en Telegram** (16/11, Marcos: «5 de 33… has mezclado todas las redes»): nada de locas ni boletos de Threads; y el resumen no sale en Threads (§0). (resumen_dia.en_telegram + test)
 - ⚙️ **Combi muy gorda que se cae por UNA → se sube a Threads** (16/11, Marcos: «si alguna muy gorda falla por uno, se sube»): cuota ≥ 30, todas las demás en verde y los partidos acabados; «😱 SE NOS ESCAPÓ POR UNA» con la que falló. Pasa por su «✅ Publicar» (verdes_auto.casi_por_una). No listas, ni ganadores, ni boletos.
+- 🤖 **Telegram: como mucho 2 picks de tarjetas al día** (17/11, Marcos: «ya hay dos picks de tarjetas hoy, ya no subas ninguno así»). El tercero no sale (comprobar_post.tarjetas_tg).
 - 👤 **Varios picks del mismo partido en Telegram, sin tope** (16/11, Marcos: «si las cosas son buenas no pasa nada»; le gustaron los 3 de Alemania–Países Bajos). No proponer límite por partido.
 - 👤 **Navegador (su Chrome, Threads, Telegram web): solo lo de hoy** (16/11, Marcos: «estás mirando 4 días atrás… me quedo sin crédito»). Nada de scripts que bajen solos ni bucles de scroll: una lectura de la pantalla, como mucho 2-3 desplazamientos, y parar en cuanto aparezca un post de ayer. Si Marcos dice «para», no queda nada en marcha: cerrar la pestaña.
 
