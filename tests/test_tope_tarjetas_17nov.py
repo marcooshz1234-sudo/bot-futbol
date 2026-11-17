@@ -26,3 +26,9 @@ class TopeTarjetas17Nov(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class ListasNoCuentan17Nov(unittest.TestCase):   # 17/11: «ambos marcan» de 2 listas de Threads bloqueaba el pick de Telegram
+    def test_listas_no_suman(self):
+        src = open(C.RAIZ / "combis_dia.py", encoding="utf-8").read()
+        self.assertIn('"-lista-"', src)

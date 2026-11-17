@@ -8254,5 +8254,52 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-17-pick-claude-1",
+    "fecha": "2026-11-17T14:15",
+    "origen": "claude",
+    "requiere_ok": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "sel": [],
+    "texto": "Arrancamos la tarde con uno que pinta muy bien 👀\n\n🍀 Gana Corea del Sur @1,40\n\n⚽ Catar – Corea del Sur · hoy 15:00\n\n👨‍💻 Corea es de largo el favorito: Catar paga 8,00 en bet365\n👨‍💻 Más plantilla y más ritmo: sus jugadores compiten en Europa\n👨‍💻 Amistoso, pero Corea suele salir con sus fijos para ganar\n\n🧠 Stake 3/10",
+    "nota": "Claude, de la lista de NEXTBETTING; sin sel (amistoso fuera de nuestros datos): verde a mano"
+  },
+  {
+    "id": "2026-11-17-pick-tip-2",
+    "fecha": "2026-11-17T18:00",
+    "origen": "tipster",
+    "requiere_ok": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "sel": [
+      "1528993|Both Teams Score|Yes",
+      "1528993|Goals Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "texto": "Otro para esta noche, de los que nos gustan mucho 🔥\n\n🍀 Ambos marcan y más de 2,5 goles (Crear apuesta) @1,57\n\n⚽ Dinamarca – Noruega · hoy 20:45\n\n👨‍💻 Es el partido con más gol de la noche: ambos marcan @1,40 y más de 2,5 @1,40\n👨‍💻 El último Noruega–Dinamarca acabó 3-2\n👨‍💻 Haaland y Sørloth arriba en Noruega; Højlund en Dinamarca\n\n🧠 Stake 3/10",
+    "nota": "copia de TRADER 11:58 (crear apuesta 1,57)"
+  },
+  {
+    "id": "2026-11-17-pick-claude-2",
+    "fecha": "2026-11-17T19:00",
+    "origen": "claude",
+    "requiere_ok": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "sel": [
+      "1528996|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "texto": "Vamos con otro pick, familia 👇\n\n🍀 Ambos marcan en Israel – Austria @1,57\n\n⚽ Israel – Austria · hoy 20:45\n\n👨‍💻 Los 4 últimos Israel–Austria acabaron con gol de los dos: 4-2, 5-2, 3-1 y 4-2\n👨‍💻 Austria ya tiene el ascenso: saldrá suelta y dejará espacios\n👨‍💻 Israel en casa siempre busca la portería\n\n🧠 Stake 3/10",
+    "nota": "Claude, con datos (h2h, ESPN/Sports Mole)"
   }
 ]
