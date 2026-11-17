@@ -233,3 +233,4 @@
 2026-11-16 16:25:24 botón ok|2026-11-16-loca-th-1630-escudos → ok
 2026-11-16 19:45:03 arranca el bot del móvil
 2026-11-17 01:43:21 arranca el bot del móvil
+2026-11-17 07:58:29 arranca el bot del móvil
