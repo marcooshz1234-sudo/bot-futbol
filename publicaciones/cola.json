@@ -8413,5 +8413,21 @@
     "verde_de": "2026-11-17-pick-tip-3",
     "enviado": "2026-11-17T22:17",
     "mensaje_id": 526
+  },
+  {
+    "id": "2026-11-17-verde-auto-2026-11-17-loca-th-0300-duelo",
+    "fecha": "2026-11-17T22:25",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gustav Isaksen: 3+ tiros\n✅ Erling Haaland: 4+ tiros\n\n📈 Cuota @2,26\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-17-verde-auto-2026-11-17-loca-th-0300-duelo.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-17-loca-th-0300-duelo",
+    "requiere_ok": true,
+    "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
+    "solo_en": [
+      "threads"
+    ]
   }
 ]
