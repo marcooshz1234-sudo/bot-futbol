@@ -6664,7 +6664,7 @@
       "1528999|Corners Over Under|Over 8.5"
     ],
     "cuotas": [
-      1.8,
+      1.83,
       1.67,
       1.67,
       1.85,
@@ -6681,7 +6681,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T12:31"
   },
   {
     "id": "2026-11-17-loca-th-1430-x500",
