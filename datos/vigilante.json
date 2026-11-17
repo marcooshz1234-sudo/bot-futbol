@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-17",
  "vistos": {
-  "foto-2026-11-14-verde-auto-2026-11-14-pick-seguro-2": "2026-11-14T21:20",
   "prensa-1528984-b03eb932": "2026-11-14T21:50",
   "prensa-1528984-7646f75a": "2026-11-14T21:50",
   "prensa-1528990-66062339": "2026-11-15T00:42",
@@ -123,9 +122,14 @@
   "directo-2026-11-17-pick-claude-2": "2026-11-17T14:53",
   "repe-2026-11-17-1528993|Both Teams Score|Yes": "2026-11-17T14:53",
   "repe-2026-11-17-1528996|Both Teams Score|Yes": "2026-11-17T14:53",
-  "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away": "2026-11-17T20:27"
+  "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away": "2026-11-17T20:27",
+  "foto-2026-11-17-verde-auto-2026-11-17-escalera": "2026-11-17T21:27"
  },
  "abiertos": [
+  {
+   "clave": "foto-2026-11-17-verde-auto-2026-11-17-escalera",
+   "t": "🖼️ Sale a las 21:42 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "clave": "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away",
    "t": "📉 Juventus (fem.)–OH Leuven (fem.) Draw/Away: la cuota ha pasado de 3.25 a 4.00 (+23%) desde que se hizo «🤪 LA LOCURA DE x392 🤪» (23:00). Suele haber una noticia detrás"
@@ -139,8 +143,12 @@
    "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-3, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
   }
  ],
- "revisado": "2026-11-17T21:17",
+ "revisado": "2026-11-17T21:27",
  "historial": [
+  {
+   "hora": "2026-11-17T21:27",
+   "t": "🖼️ Sale a las 21:42 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "hora": "2026-11-17T20:27",
    "t": "📉 Juventus (fem.)–OH Leuven (fem.) Draw/Away: la cuota ha pasado de 3.25 a 4.00 (+23%) desde que se hizo «🤪 LA LOCURA DE x392 🤪» (23:00). Suele haber una noticia detrás"
@@ -376,10 +384,6 @@
   {
    "hora": "2026-11-16T02:55",
    "t": "🔁 16/11: el mismo pronóstico en 8 posts (pick-m2, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1300-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 11 posts (loca-th-0300-x100, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0930-x100, loca-th-1130-x500, loca-th-1200-x100, loca-th-1400-x500, loca-th-1430-lista-corners, loca-th-1530-x50, loca-th-1630-x100, loca-th-1730-x500)"
   }
  ]
 }
