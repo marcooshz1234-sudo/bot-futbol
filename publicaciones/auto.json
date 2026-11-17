@@ -6384,7 +6384,7 @@
     ],
     "cuotas": [
       2.75,
-      2.75,
+      2.62,
       2.5,
       2.62,
       2.5,
@@ -6400,7 +6400,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T08:36"
   },
   {
     "id": "2026-11-17-loca-th-0930-tiros",
