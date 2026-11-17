@@ -3186,13 +3186,18 @@
   "opcion": "Home/Draw",
   "cuota": 1.52,
   "stake": null,
-  "argumento": [],
+  "argumento": [
+   "Polonia juega en casa y se juega no descender, así que saldrá a por el partido",
+   "Suecia ya no se juega nada y se esperan cambios en su once",
+   "Con esa necesidad local, que Polonia marque al menos uno es lo más probable"
+  ],
   "auto": true,
   "analisis": {
    "liga": "UEFA Nations League",
    "cuota_bet365": 1.36,
    "prob_cuota": 0.658
-  }
+  },
+  "argumento_propio": true
  },
  {
   "tipster": "MERIDIANPICKS 🌐",
@@ -3213,5 +3218,42 @@
    "cuota_bet365": 1.95,
    "prob_cuota": 0.513
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100591",
+  "dia": "2026-11-17",
+  "hora": "20:45",
+  "local": "Denmark",
+  "visitante": "Norway",
+  "texto": "Crear apuesta: más de 2.5 goles + ambos marcan",
+  "mercado": "Bet Builder",
+  "opcion": "BTTS Sí + Over 2.5",
+  "cuota": 1.57,
+  "stake": 3,
+  "argumento": [
+   "Noruega llega con un ataque muy en forma y Dinamarca no suele cerrarse en casa",
+   "Última jornada con los dos equipos obligados a buscar el gol: se esperan espacios y llegadas en ambas áreas",
+   "Las dos defensas conceden ante rivales de nivel, lo que favorece un partido abierto"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "MERIDIANPICKS 🌐",
+  "fuente": "-1003548284566/42",
+  "dia": "2026-11-17",
+  "hora": "20:45",
+  "local": "Denmark",
+  "visitante": "Norway",
+  "texto": "Más de 3.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 3.5",
+  "cuota": 1.9,
+  "stake": null,
+  "argumento": [
+   "Cruce entre dos selecciones con mucha pegada arriba y que se juegan algo en la última jornada",
+   "Ninguno de los dos se conforma con poco: partido de ida y vuelta con opciones de goleada"
+  ],
+  "argumento_propio": true
  }
 ]
