@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 16:27",
+ "actualizado": "2026-11-17 16:43",
  "redes": {
   "instagram": {
    "seguidores": 46,
@@ -58,9 +58,9 @@
  "total_hoy": 143,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:30",
+  "hora": "17:00",
   "dia": "2026-11-17",
-  "titulo": "Combi hungría – irlanda del norte"
+  "titulo": "Combi irlanda – kosovo"
  },
  "ayer": {
   "aciertos": 3,
@@ -228,14 +228,14 @@
   }
  },
  "tipos_instagram": {
-  "Escalera (reel)": {
-   "posts": 4,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Otros (reel)": {
    "posts": 49,
    "likes_media": 0.1,
+   "comentarios_media": 0.0
+  },
+  "Escalera (reel)": {
+   "posts": 4,
+   "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros": {
