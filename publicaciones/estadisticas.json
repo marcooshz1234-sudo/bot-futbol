@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-17 22:50",
+ "actualizado": "2026-11-17 22:58",
  "redes": {
   "instagram": {
-   "seguidores": 47,
-   "hoy": 3,
+   "seguidores": 48,
+   "hoy": 4,
    "serie": [
     37,
     40,
@@ -11,12 +11,12 @@
     40,
     41,
     44,
-    47
+    48
    ]
   },
   "threads": {
-   "seguidores": 3155,
-   "hoy": 146,
+   "seguidores": 3156,
+   "hoy": 147,
    "serie": [
     2644,
     2691,
@@ -24,7 +24,7 @@
     2776,
     2792,
     3009,
-    3155
+    3156
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 470,
-   "hoy": 31,
+   "seguidores": 471,
+   "hoy": 32,
    "serie": [
     384,
     391,
@@ -50,17 +50,17 @@
     404,
     411,
     439,
-    470
+    471
    ]
   }
  },
- "total": 3673,
- "total_hoy": 180,
+ "total": 3676,
+ "total_hoy": 183,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "22:52",
+  "hora": "23:00",
   "dia": "2026-11-17",
-  "titulo": "Para dentro señores"
+  "titulo": "La locura de x392"
  },
  "ayer": {
   "aciertos": 3,
@@ -221,10 +221,10 @@
    "telegram": 439
   },
   "2026-11-17": {
-   "instagram": 47,
-   "threads": 3155,
+   "instagram": 48,
+   "threads": 3156,
    "facebook": 1,
-   "telegram": 470
+   "telegram": 471
   }
  },
  "tipos_instagram": {
