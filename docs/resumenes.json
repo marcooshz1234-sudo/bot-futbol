@@ -2358,14 +2358,14 @@
   },
   "2026-11-17": {
     "dia": "2026-11-17",
-    "total": 9,
+    "total": 10,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 9,
+      "pendiente": 10,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 9
+      "sin_resolver": 10
     },
     "combis": [
       {
@@ -2421,13 +2421,19 @@
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-17-loca-th-0800-empates",
+        "titulo": "🤝 LA COMBI DE LOS EMPATES 🤝",
+        "estado": "pendiente",
+        "cuota": 33.25
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 49
+      "total": 52
     },
-    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
+    "texto": "📊 BALANCE DEL MARTES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 NATIONS LEAGUE - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x80,85 💯 · 80,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,26 · pendiente\n⏳ 🤑 COMBI x44,48 🤑 · 44,48 · pendiente\n⏳ ⏰ TODO A LAS 20:45 ⏰ · 23,44 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 10,13 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 33,25 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 10 sin resolver"
   }
 }

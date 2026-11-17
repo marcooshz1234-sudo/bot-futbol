@@ -6414,9 +6414,9 @@
       "1528992|Away Player Shots|Rafael Leao - 3"
     ],
     "cuotas": [
-      1.4,
+      1.36,
       1.44,
-      1.57,
+      1.5,
       1.57,
       1.57
     ],
@@ -6429,7 +6429,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T08:03"
   },
   {
     "id": "2026-11-17-loca-th-1000-lista-corners",
