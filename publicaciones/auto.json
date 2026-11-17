@@ -6700,13 +6700,13 @@
     ],
     "cuotas": [
       2.1,
+      2.0,
       2.1,
-      2.1,
-      2.1,
+      2.38,
       2.2,
-      2.25,
+      2.2,
       2.1,
-      2.1
+      1.83
     ],
     "solo_en": [
       "threads"
@@ -6717,7 +6717,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T13:03"
   },
   {
     "id": "2026-11-17-loca-th-1500-duelo",
