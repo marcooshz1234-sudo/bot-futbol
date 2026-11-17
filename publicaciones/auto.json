@@ -6355,7 +6355,7 @@
     "cuotas": [
       3.25,
       3.3,
-      3.1
+      3.2
     ],
     "solo_en": [
       "threads"
@@ -6366,7 +6366,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-17T06:48"
   },
   {
     "id": "2026-11-17-loca-th-0900-reto",
