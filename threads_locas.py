@@ -555,7 +555,7 @@ def escudos(pt, usados):
     if len(sel) < lo:
         return None
     cuota = cuota_bet(sel)
-    lineas = [f"🔥 COMBI DEL {pt['local'].upper()} – {pt['visitante'].upper()} 🔥", "",
+    lineas = [f"🔥 COMBI {pt['local'].upper()} – {pt['visitante'].upper()} 🔥", "",
               f"⭐ {pt['local']} vs {pt['visitante']} · {pt['ini'].strftime('%H:%M')}", ""]
     lineas += [_abreviar(_linea(pt, p)) for _, p in sel]
     lineas += ["", f"🎯 CUOTA {coma(cuota)} aprox. 💎 10€ → {coma(cuota * 10)}€", "🍀 ¿LA PINTAMOS DE VERDE? 👀💚"]
