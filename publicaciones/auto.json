@@ -8272,8 +8272,8 @@
     "cuotas": [
       2.75,
       2.62,
-      2.75,
-      2.75
+      2.88,
+      2.88
     ],
     "origen": "threads_locas",
     "cuota_bet365": 54.49,
@@ -8284,7 +8284,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-17T20:07"
   },
   {
     "id": "2026-11-18-loca-th-noche-2200-lista-ambos",
