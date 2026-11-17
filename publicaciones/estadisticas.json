@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 03:53",
+ "actualizado": "2026-11-17 04:03",
  "redes": {
   "instagram": {
    "seguidores": 45,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 444,
-   "hoy": 5,
+   "seguidores": 445,
+   "hoy": 6,
    "serie": [
     384,
     391,
@@ -50,17 +50,17 @@
     404,
     411,
     439,
-    444
+    445
    ]
   }
  },
- "total": 3542,
- "total_hoy": 49,
+ "total": 3543,
+ "total_hoy": 50,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "04:00",
+  "hora": "05:00",
   "dia": "2026-11-17",
-  "titulo": "Combi x44,48"
+  "titulo": "Todo a las 2045"
  },
  "ayer": {
   "aciertos": 3,
@@ -224,7 +224,7 @@
    "instagram": 45,
    "threads": 3052,
    "facebook": 1,
-   "telegram": 444
+   "telegram": 445
   }
  },
  "tipos_instagram": {
