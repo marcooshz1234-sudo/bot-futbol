@@ -42,10 +42,21 @@
    "ev": -0.001,
    "fuente": "Pinnacle",
    "edad_h": 0.0
+  },
+  {
+   "local": "Denmark",
+   "visitante": "Norway",
+   "inicio": "2026-11-17T20:45",
+   "texto": "Más de 1,5 goles en la 2ª parte del Denmark–Norway",
+   "cuota": 1.67,
+   "justa": 1.69,
+   "ev": -0.01,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-17T11:13",
+  "hora": "2026-11-17T11:42",
   "revisadas": 0,
   "mejor": null
  },
