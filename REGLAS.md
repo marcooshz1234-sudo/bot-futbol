@@ -171,6 +171,7 @@
 - 👤 Todo cambio, a la bitácora (`informes/bitacora/AAAA-MM.md`).
 - 🤖 **App «Mis combis» y widget de la pantalla de bloqueo: solo las combis que pasa Marcos** (16/11, Marcos: «quiero que ahí solo se vean las que yo te paso»): las de sus capturas/notas de bet365 (origen «Marcos…»); las que propone Claude o el bot no salen (mis_datos.es_suya).
 - ⚙️ **Resumen de la noche: los fallados salen en «😤 Se nos escaparon», con un dato del partido** (16/11, Marcos): el marcador, y si el pick era de tiros/córners/tarjetas, cuánto hubo; en las combis, la pata que la tumbó. Sin ❌ (13/11).
+- ⚙️ **El resumen de la noche nunca sale solo: llega a Marcos y sale con su «✅ Publicar»** (17/11: salió solo con fallos).
 - 🤖 **El resumen de la noche (Telegram) cuenta SOLO lo que salió en Telegram** (16/11, Marcos: «5 de 33… has mezclado todas las redes»): nada de locas ni boletos de Threads; y el resumen no sale en Threads (§0). (resumen_dia.en_telegram + test)
 - ⚙️ **Combi muy gorda que se cae por UNA → se sube a Threads** (16/11, Marcos: «si alguna muy gorda falla por uno, se sube»): cuota ≥ 30, todas las demás en verde y los partidos acabados; «😱 SE NOS ESCAPÓ POR UNA» con la que falló. Pasa por su «✅ Publicar» (verdes_auto.casi_por_una). No listas, ni ganadores, ni boletos.
 - 🤖 **Telegram: como mucho 2 picks de tarjetas al día** (17/11, Marcos: «ya hay dos picks de tarjetas hoy, ya no subas ninguno así»). El tercero no sale (comprobar_post.tarjetas_tg).

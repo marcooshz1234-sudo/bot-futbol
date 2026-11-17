@@ -189,7 +189,7 @@ def textos_picks(picks, dia, posts=(), cola=(), solo=None):
               f"✅ {v} de {n} picks en verde" + (f" · {round(100 * v / n)} %" if bueno(v, n) else '')]
     sueltos = [x for x in rp if len(x[1]) == 1]
     sv = sum(x[2] == 'verde' for x in sueltos)
-    if sueltos:
+    if sueltos and len(sueltos) < n:   # 17/11: «8 de 8» y debajo «sueltos 6 de 6» liaba (si son todos, no se pone)
         lineas.append(f"🎯 Picks sueltos: {sv} de {len(sueltos)}")
     mejores = sorted((k for k in tipos if k != 'ganadores' and tipos[k][1] >= 2 and bueno(*tipos[k])),
                      key=lambda k: (-tipos[k][0] / tipos[k][1], -tipos[k][1]))[:2]
@@ -208,9 +208,10 @@ def textos_picks(picks, dia, posts=(), cola=(), solo=None):
     verdes = unicos
     if verdes:
         lineas += ['', '💚 Para dentro:']
-        for _, ps, _, cuota in verdes[:6]:
-            t = ps[0]['texto'] if len(ps) == 1 else (" + ".join(x['texto'] for x in ps) if len(ps) == 2
-                                                       else f"Combi de {len(ps)} partidos")
+        # 17/11 (Marcos): salían 6 de 8 (los de cuota más baja, Corea y Polonia o empate, fuera): todos, hasta 12
+        for _, ps, _, cuota in verdes[:12]:
+            t = ps[0]['texto'] if len(ps) == 1 else (_mismo_partido(ps) or (" + ".join(x['texto'] for x in ps) if len(ps) == 2
+                                                       else f"Combi de {len(ps)} partidos"))
             c = f" @{cuota:.2f}".replace('.', ',') if cuota else ''
             lineas.append(f"✅ {t}{c}")
     # 16/11 (Marcos: «pon las que han fallado con algún dato del partido»): sin ❌ (13/11), con el marcador o el dato
@@ -235,6 +236,23 @@ def textos_picks(picks, dia, posts=(), cola=(), solo=None):
     texto = '\n'.join(lineas)
     # 16/11: ya solo va a Telegram (sin el límite de 500 de Threads)
     return texto, texto
+
+
+def _mismo_partido(ps):
+    """17/11: «Ambos marcan en Dinamarca–Noruega + Más de 2,5 goles en Dinamarca–Noruega» → «Ambos marcan + más de
+    2,5 goles en Dinamarca–Noruega». None si las patas no son del mismo partido."""
+    import re as _re
+    sufijos = set()
+    for x in ps:
+        m = _re.search(r" en ([^+]+?)$", x.get('texto', ''))
+        if not m:
+            return None
+        sufijos.add(m.group(1))
+    if len(sufijos) != 1:
+        return None
+    partes = [_re.sub(r" en [^+]+?$", "", x['texto']) for x in ps]
+    partes = [partes[0]] + [p[:1].lower() + p[1:] for p in partes[1:]]
+    return " + ".join(partes) + f" en {sufijos.pop()}"
 
 
 def en_telegram(cola):
@@ -268,7 +286,9 @@ def main():
         return
     cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': texto,
                  'foto': None, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True,
-                 'solo_en': ['telegram']})   # 16/11: Threads, nada de cuánto acertamos (REGLAS §0)
+                 'solo_en': ['telegram'],   # 16/11: Threads, nada de cuánto acertamos (REGLAS §0)
+                 # 17/11 (Marcos): el resumen salió solo con fallos: ya no sale sin su «✅ Publicar»
+                 'requiere_ok': True, 'aviso': '📊 Resumen de la noche listo. Sale cuando le des a Publicar.'})
     COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print('Resumen de picks del día en cola')
 
