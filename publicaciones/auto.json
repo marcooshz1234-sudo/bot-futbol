@@ -6635,22 +6635,6 @@
     "cuotas_revisadas": "2026-11-17T11:30"
   },
   {
-    "id": "2026-11-17-combi-tres",
-    "fecha": "2026-11-17T13:30",
-    "texto": "Vamos con la combi del martes familia 🔥\n\n🇵🇱 Poland ve más de 1,5 tarjetas\n🇧🇦 Bosnia & Herzegovina ve más de 1,5 tarjetas\n\n📈 Cuota @2,71",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1528998|Home Team Total Cards|Over 1.5",
-      "1528999|Home Team Total Cards|Over 1.5"
-    ],
-    "cuotas": [
-      1.67,
-      1.62
-    ]
-  },
-  {
     "id": "2026-11-17-loca-th-1400-lista-corners",
     "fecha": "2026-11-17T14:00",
     "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇧🇦 Bosnia–Rumanía ➜ +8,5 córners @1,80\n2. 🇺🇦 Ucrania–Georgia ➜ Georgia más de 3,5 córners @1,67\n3. 🇭🇺 Hungría–Irlanda del Norte ➜ Hungría más de 4,5 córners @1,67\n4. 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales–Portugal ➜ Portugal más de 5,5 córners @1,80\n5. 🇮🇱 Israel–Austria ➜ +8,5 córners @1,85\n6. 🇮🇪 Irlanda–Kosovo ➜ Irlanda más de 4,5 córners @1,67\n7. 🇵🇱 Polonia–Suecia ➜ +8,5 córners @1,80\n\n👇 ¿Con cuál os quedáis? 👇",
@@ -6902,15 +6886,15 @@
   {
     "id": "2026-11-17-pick-seguro-2",
     "fecha": "2026-11-17T18:00",
-    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Gales – Portugal · 20:45\n\n🍀 Wales marca @1,53\n🧠 Stake 3/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Os dejo el pick, familia 👇\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Dinamarca – Noruega · 20:45\n\n🍀 Crear apuesta: más de 2.5 goles + ambos marcan @1,57 (aprox.)\n🧠 Stake 3/10\n\n👨‍💻 Noruega llega con un ataque muy en forma y Dinamarca no suele cerrarse en casa\n👨‍💻 Última jornada con los dos equipos obligados a buscar el gol: se esperan espacios y llegadas en ambas áreas\n👨‍💻 Las dos defensas conceden ante rivales de nivel, lo que favorece un partido abierto\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1528992|Total - Home|Over 0.5"
+      "1528993|Bet Builder|BTTS Sí + Over 2.5"
     ],
     "cuotas": [
-      1.53
+      1.57
     ]
   },
   {
@@ -7172,7 +7156,7 @@
   {
     "id": "2026-11-20-ganadores-resto",
     "fecha": "2026-11-20T00:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇷🇴 FC Botosani - Win\n2. 🇩🇰 Aarhus Fremad - Win\n3. 🇷🇴 Universitatea Cluj - Win\n4. 🇩🇪 Bayern - Win\n5. 🇪🇸 FC Andorra - Win\n6. 🇫🇷 Estac Troyes - Win\n7. 🇪🇸 Athletic Club - Win",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇷🇴 FC Botosani - Win\n2. 🇩🇰 Aalborg - Win\n3. 🇩🇰 Aarhus Fremad - Win\n4. 🇷🇴 Universitatea Cluj - Win\n5. 🇩🇪 Bayern - Win\n6. 🇪🇸 FC Andorra - Win\n7. 🇫🇷 Estac Troyes - Win\n8. 🇪🇸 Athletic Club - Win",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7180,6 +7164,7 @@
     "forzar": true,
     "sel": [
       "1565308|Match Winner|Home",
+      "1551380|Match Winner|Away",
       "1551377|Match Winner|Home",
       "1565306|Match Winner|Away",
       "1575221|Match Winner|Home",
@@ -7189,7 +7174,8 @@
     ],
     "cuotas": [
       1.7,
-      1.91,
+      2.25,
+      1.9,
       2.25,
       1.07,
       1.85,
@@ -7205,6 +7191,14 @@
           "bandera": "🇷🇴",
           "escudo_url": "https://media.api-sports.io/football/teams/2581.png",
           "nombre": "FC Botosani",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Denmark",
+          "bandera": "🇩🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/402.png",
+          "nombre": "Aalborg",
           "pick": "WIN",
           "seleccion": false
         },
@@ -7275,9 +7269,25 @@
     ]
   },
   {
+    "id": "2026-11-20-combi-tres",
+    "fecha": "2026-11-20T13:30",
+    "texto": "Vamos con la combi del viernes familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇩🇰 Kolding IF o empate\n🇩🇪 Más de 1,5 goles en la 2ª parte del Bayern München–1. FC Köln\n\n📈 Cuota @2,20\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1551380|Double Chance|Home/Draw",
+      "1575221|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.36
+    ]
+  },
+  {
     "id": "2026-11-20-combi-multi",
     "fecha": "2026-11-20T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS x9,85! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Voluntari marca\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇪🇸 FC Andorra hace más córners\n🇪🇸 Gana el Athletic Club\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS x10,14! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Voluntari marca\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇪🇸 FC Andorra hace más córners\n🇪🇸 Gana el Athletic Club\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7291,8 +7301,8 @@
     ],
     "cuotas": [
       1.44,
-      1.53,
-      1.44,
+      1.62,
+      1.4,
       1.53,
       1.4,
       1.45
@@ -7624,11 +7634,12 @@
   {
     "id": "2026-11-21-combi-500",
     "fecha": "2026-11-21T12:00",
-    "texto": "Vamos con la combi del día familia 🔥\n\n🇩🇰 HB Koge o empate\n🇮🇹 Gana el Lazio\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg\n🇩🇪 Borussia Mönchengladbach hace más de 3,5 córners\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🇷🇴 CFR 1907 Cluj gana alguna de las dos partes\n🇫🇷 Lille gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n🇮🇹 Ambos marcan en Napoli–Torino\n\n📈 Cuota @569,64\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos marcan en Southampton–Derby\n🇩🇰 HB Koge o empate\n🇮🇹 Gana el Lazio\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg\n🇩🇪 Borussia Mönchengladbach hace más de 3,5 córners\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🇷🇴 CFR 1907 Cluj gana alguna de las dos partes\n🇫🇷 Lille gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n\n📈 Cuota @547,48\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1563270|Both Teams Score|Yes",
       "1551381|Double Chance|Draw/Away",
       "1550202|Match Winner|Home",
       "1575223|To Win Either Half|Home",
@@ -7638,10 +7649,10 @@
       "1557476|Goals Over/Under - Second Half|Over 1.5",
       "1565303|To Win Either Half|Home",
       "1552820|To Win Either Half|Home",
-      "1552826|Goals Over/Under - Second Half|Over 1.5",
-      "1550204|Both Teams Score|Yes"
+      "1552826|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
+      1.73,
       2.5,
       1.33,
       1.62,
@@ -7651,8 +7662,7 @@
       1.8,
       1.67,
       1.73,
-      1.83,
-      1.8
+      1.83
     ],
     "solo_redes": true
   },

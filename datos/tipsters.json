@@ -3236,7 +3236,12 @@
    "Última jornada con los dos equipos obligados a buscar el gol: se esperan espacios y llegadas en ambas áreas",
    "Las dos defensas conceden ante rivales de nivel, lo que favorece un partido abierto"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528993,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "prob_cuota": 0.637
+  }
  },
  {
   "tipster": "MERIDIANPICKS 🌐",
@@ -3254,6 +3259,12 @@
    "Cruce entre dos selecciones con mucha pegada arriba y que se juegan algo en la última jornada",
    "Ninguno de los dos se conforma con poco: partido de ida y vuelta con opciones de goleada"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1528993,
+  "analisis": {
+   "liga": "UEFA Nations League",
+   "cuota_bet365": 2.0,
+   "prob_cuota": 0.526
+  }
  }
 ]

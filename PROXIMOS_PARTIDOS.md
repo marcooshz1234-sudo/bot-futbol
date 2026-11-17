@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 17/11/2026 08:28 (hora España). Partidos guardados en la base de datos: 2646._
+_Actualizado el 17/11/2026 14:15 (hora España). Partidos guardados en la base de datos: 2646._
 
 
 ## Martes 17/11
@@ -35,8 +35,8 @@ _Actualizado el 17/11/2026 08:28 (hora España). Partidos guardados en la base d
 
 ## Viernes 20/11
 - 16:30 · Liga I · [FC Botosani – FC Voluntari](informes/2026-11-20_fc-botosani-vs-fc-voluntari.md) · 1X2: 1.70 / 3.60 / 4.33
-- 19:00 · 1. Division · [Kolding IF – Aalborg](informes/2026-11-20_kolding-if-vs-aalborg.md) · 1X2: 2.70 / 3.40 / 2.30
-- 19:00 · 1. Division · [Aarhus Fremad – Hobro](informes/2026-11-20_aarhus-fremad-vs-hobro.md) · 1X2: 1.91 / 3.50 / 3.50
+- 19:00 · 1. Division · [Kolding IF – Aalborg](informes/2026-11-20_kolding-if-vs-aalborg.md) · 1X2: 2.88 / 3.50 / 2.25
+- 19:00 · 1. Division · [Aarhus Fremad – Hobro](informes/2026-11-20_aarhus-fremad-vs-hobro.md) · 1X2: 1.90 / 3.60 / 3.70
 - 19:30 · Liga I · [Farul Constanta – Universitatea Cluj](informes/2026-11-20_farul-constanta-vs-universitatea-cluj.md) · 1X2: 2.80 / 3.40 / 2.25
 - 20:30 · Bundesliga · [Bayern München – 1. FC Köln](informes/2026-11-20_bayern-munchen-vs-1-fc-koln.md) · 1X2: 1.07 / 11.00 / 23.00
 - 20:30 · Segunda División · [FC Andorra – Leganes](informes/2026-11-20_fc-andorra-vs-leganes.md) · 1X2: 1.85 / 3.50 / 3.90
@@ -49,7 +49,7 @@ _Actualizado el 17/11/2026 08:28 (hora España). Partidos guardados en la base d
 - 12:00 · Liga F · [FC Levante Badalona W – Deportivo de La Coruña W](informes/2026-11-21_fc-levante-badalona-w-vs-deportivo-de-la-coruna-w.md)
 - 12:00 · Taça de Portugal · [Atlético CP – Casa Pia](informes/2026-11-21_atletico-cp-vs-casa-pia.md)
 - 13:30 · Premier League · [Manchester City – Fulham](informes/2026-11-21_manchester-city-vs-fulham.md) · 1X2: 1.40 / 4.75 / 7.00
-- 13:30 · Championship · [Southampton – Derby](informes/2026-11-21_southampton-vs-derby.md) · 1X2: 1.36 / 4.75 / 7.00
+- 13:30 · Championship · [Southampton – Derby](informes/2026-11-21_southampton-vs-derby.md) · 1X2: 1.40 / 4.75 / 6.50
 - 13:30 · Championship · [Millwall – QPR](informes/2026-11-21_millwall-vs-qpr.md) · 1X2: 2.40 / 3.50 / 2.62
 - 13:30 · Championship · [Norwich – Cardiff](informes/2026-11-21_norwich-vs-cardiff.md) · 1X2: 1.73 / 4.10 / 3.90
 - 13:30 · 1. Division · [Vejle – HB Koge](informes/2026-11-21_vejle-vs-hb-koge.md) · 1X2: 1.44 / 4.33 / 5.75
@@ -77,7 +77,7 @@ _Actualizado el 17/11/2026 08:28 (hora España). Partidos guardados en la base d
 - 16:00 · Championship · [Sheffield Utd – Watford](informes/2026-11-21_sheffield-utd-vs-watford.md) · 1X2: 1.57 / 3.90 / 5.00
 - 16:00 · Championship · [Bolton – Portsmouth](informes/2026-11-21_bolton-vs-portsmouth.md) · 1X2: 2.75 / 3.40 / 2.35
 - 16:00 · Championship · [Middlesbrough – Bristol City](informes/2026-11-21_middlesbrough-vs-bristol-city.md) · 1X2: 1.36 / 4.75 / 7.50
-- 16:00 · Championship · [Stoke City – Birmingham](informes/2026-11-21_stoke-city-vs-birmingham.md) · 1X2: 2.70 / 3.30 / 2.45
+- 16:00 · Championship · [Stoke City – Birmingham](informes/2026-11-21_stoke-city-vs-birmingham.md) · 1X2: 2.80 / 3.30 / 2.38
 - 16:00 · Championship · [Swansea – West Brom](informes/2026-11-21_swansea-vs-west-brom.md) · 1X2: 2.50 / 3.25 / 2.62
 - 16:00 · Championship · [Lincoln – Wrexham](informes/2026-11-21_lincoln-vs-wrexham.md) · 1X2: 2.70 / 3.25 / 2.50
 - 16:00 · Taça de Portugal · [AVS – Tondela](informes/2026-11-21_avs-vs-tondela.md)
@@ -120,7 +120,7 @@ _Actualizado el 17/11/2026 08:28 (hora España). Partidos guardados en la base d
 - 12:30 · Serie A · [Juventus – Venezia](informes/2026-11-22_juventus-vs-venezia.md) · 1X2: 1.33 / 4.75 / 8.00
 - 12:30 · Serie C · [PRO Vercelli – Novara](informes/2026-11-22_pro-vercelli-vs-novara.md)
 - 12:30 · Serie C · [Union Brescia – Renate](informes/2026-11-22_union-brescia-vs-renate.md)
-- 13:00 · Championship · [Burnley – Blackburn](informes/2026-11-22_burnley-vs-blackburn.md) · 1X2: 1.80 / 3.50 / 3.90
+- 13:00 · Championship · [Burnley – Blackburn](informes/2026-11-22_burnley-vs-blackburn.md) · 1X2: 1.80 / 3.75 / 3.60
 - 14:00 · LaLiga · [Barcelona – Villarreal](informes/2026-11-22_barcelona-vs-villarreal.md) · 1X2: 1.22 / 7.00 / 9.50
 - 14:00 · Segunda División · [Cordoba – Oviedo](informes/2026-11-22_cordoba-vs-oviedo.md) · 1X2: 1.85 / 3.50 / 3.70
 - 14:30 · Eredivisie · [Ajax – ADO Den Haag](informes/2026-11-22_ajax-vs-ado-den-haag.md) · 1X2: 1.17 / 7.50 / 12.00

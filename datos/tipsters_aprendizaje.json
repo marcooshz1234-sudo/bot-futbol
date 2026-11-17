@@ -54,6 +54,15 @@
    "resueltos_con_cuota": 8,
    "prob_cuota": 3.754
   },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 7,
+   "verdes": 4,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 0.05,
+   "resueltos_con_cuota": 6,
+   "prob_cuota": 3.98
+  },
   "TipsPro": {
    "n": 6,
    "verdes": 4,
@@ -71,15 +80,6 @@
    "unidades": 2.33,
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.69
-  },
-  "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 6,
-   "verdes": 4,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 0.05,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 3.98
   },
   "CRIMINALPICKS": {
    "n": 4,
@@ -133,6 +133,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.877
   },
+  "MERIDIANPICKS 🌐": {
+   "n": 3,
+   "verdes": 1,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.85,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.541
+  },
   "PABLO ANALISTA": {
    "n": 2,
    "verdes": 1,
@@ -150,15 +159,6 @@
    "unidades": 0.87,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.426
-  },
-  "MERIDIANPICKS 🌐": {
-   "n": 2,
-   "verdes": 1,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.85,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.541
   },
   "AllSportsPicks": {
    "n": 1,
@@ -314,6 +314,13 @@
    "prob_cuota": 1.235
   },
   "Shots On Target Over 9.5": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Bet Builder BTTS Sí + Over 2.5": {
    "n": 2,
    "verdes": 0,
    "rojos": 0,
@@ -501,13 +508,6 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "Bet Builder BTTS Sí + Over 2.5": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
-  },
   "Team Shots On Target Away Over 2.5": {
    "n": 1,
    "verdes": 0,
@@ -523,11 +523,18 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.581
+  },
+  "Goals Over/Under Over 3.5": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 69,
+   "n": 71,
    "verdes": 32,
    "rojos": 9,
    "nulos": 0,
@@ -833,7 +840,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 79,
+   "n": 78,
    "verdes": 45,
    "rojos": 9,
    "nulos": 0,
@@ -842,7 +849,7 @@
    "prob_cuota": 24.645
   },
   "goles": {
-   "n": 25,
+   "n": 27,
    "verdes": 11,
    "rojos": 8,
    "nulos": 0,
@@ -851,7 +858,7 @@
    "prob_cuota": 13.876
   },
   "casa/fuera": {
-   "n": 17,
+   "n": 19,
    "verdes": 11,
    "rojos": 4,
    "nulos": 0,
@@ -878,7 +885,7 @@
    "prob_cuota": 4.953
   },
   "motivación": {
-   "n": 9,
+   "n": 11,
    "verdes": 4,
    "rojos": 3,
    "nulos": 0,
@@ -907,7 +914,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 45,
+   "n": 46,
    "verdes": 23,
    "rojos": 12,
    "nulos": 0,
@@ -932,7 +939,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 18,
+   "n": 19,
    "verdes": 7,
    "rojos": 2,
    "nulos": 0,
@@ -961,7 +968,7 @@
    "prob_cuota": 11.701
   },
   "UEFA Nations League": {
-   "n": 53,
+   "n": 55,
    "verdes": 34,
    "rojos": 9,
    "nulos": 0,
@@ -999,7 +1006,7 @@
  },
  "lado": {
   "partido": {
-   "n": 57,
+   "n": 59,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -1028,7 +1035,7 @@
  },
  "por_que": {
   "—": {
-   "n": 45,
+   "n": 47,
    "verdes": 17,
    "rojos": 10,
    "nulos": 0,
@@ -1102,7 +1109,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 119,
+   "n": 121,
    "verdes": 62,
    "rojos": 21,
    "nulos": 0,

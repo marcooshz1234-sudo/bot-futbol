@@ -1,7 +1,7 @@
 # Denmark – Norway
 **Nations League** · League A - 6 · 17/11/2026 20:45 (hora España) · Parken Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:25_

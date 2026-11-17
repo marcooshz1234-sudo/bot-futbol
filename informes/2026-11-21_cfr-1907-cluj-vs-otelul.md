@@ -1,7 +1,7 @@
 # CFR 1907 Cluj – Oţelul
 **Liga I** · Regular Season - 16 · 21/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_

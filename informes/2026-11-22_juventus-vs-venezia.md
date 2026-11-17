@@ -1,7 +1,7 @@
 # Juventus – Venezia
 **Serie A** · Regular Season - 12 · 22/11/2026 12:30 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 14:15._
 
 ## Cuotas Bet365
 _Actualizadas: 16/11 20:01_

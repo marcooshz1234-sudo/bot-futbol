@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17 08:28",
+ "generado": "2026-11-17 14:16",
  "estilos": {
   "datos-rachas": {
    "nota": 0.927,
@@ -38,7 +38,7 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.05,
+   "nota": 2.0,
    "posts_threads": 20,
    "resultados": 2,
    "verdes": 1
@@ -236,9 +236,9 @@
    "verdes": 0
   },
   "lista-europa-2": {
-   "nota": 1.21,
+   "nota": 1.335,
    "posts_threads": 3,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1635677": {
@@ -332,7 +332,7 @@
    "verdes": 0
   },
   "picks-manana": {
-   "nota": 1.75,
+   "nota": 1.7,
    "posts_threads": 0,
    "resultados": 2,
    "verdes": 1
