@@ -41,7 +41,7 @@
    "justa": 2.17,
    "ev": 0.012,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Bosnia & Herzegovina",
@@ -49,21 +49,10 @@
    "inicio": "2026-11-17T20:45",
    "texto": "Romania marca",
    "cuota": 1.4,
-   "justa": 1.4,
-   "ev": -0.001,
+   "justa": 1.39,
+   "ev": 0.006,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Deportiva Minera",
-   "visitante": "FC Cartagena",
-   "inicio": "2026-11-18T20:30",
-   "texto": "Deportiva Minera o empate",
-   "cuota": 1.57,
-   "justa": 1.59,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 7.7
+   "edad_h": 0.0
   },
   {
    "local": "Hungary",
@@ -74,22 +63,11 @@
    "justa": 1.7,
    "ev": -0.018,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Portugalete",
-   "visitante": "Real Unión",
-   "inicio": "2026-11-18T19:00",
-   "texto": "Ambos marcan en Portugalete–Real Unión",
-   "cuota": 1.91,
-   "justa": 1.95,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 7.7
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-17T16:07",
+  "hora": "2026-11-17T16:28",
   "revisadas": 0,
   "mejor": null
  },
