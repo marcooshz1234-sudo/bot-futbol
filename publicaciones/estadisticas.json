@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 03:47",
+ "actualizado": "2026-11-18 04:16",
  "redes": {
   "instagram": {
    "seguidores": 48,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3169,
-   "hoy": 9,
+   "seguidores": 3173,
+   "hoy": 13,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3169
+    3173
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 473,
-   "hoy": 2,
+   "seguidores": 474,
+   "hoy": 3,
    "serie": [
     391,
     401,
@@ -50,17 +50,17 @@
     411,
     439,
     471,
-    473
+    474
    ]
   }
  },
- "total": 3691,
- "total_hoy": 11,
+ "total": 3696,
+ "total_hoy": 16,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "04:00",
+  "hora": "05:00",
   "dia": "2026-11-18",
-  "titulo": "Combi de tiros · real madrid w vs inte"
+  "titulo": "El duelo de tiros"
  },
  "ayer": {
   "aciertos": 3,
@@ -228,9 +228,9 @@
   },
   "2026-11-18": {
    "instagram": 48,
-   "threads": 3169,
+   "threads": 3173,
    "facebook": 1,
-   "telegram": 473
+   "telegram": 474
   }
  },
  "tipos_instagram": {
