@@ -126,7 +126,7 @@ class TestVigilante(unittest.TestCase):
             est = Path(d) / "v.json"
             avisos = []
             with mock.patch.object(vigilante, "ESTADO", est), \
-                    mock.patch.object(vigilante, "revisar", lambda a: [("x-1", "fallo")]), \
+                    mock.patch.object(vigilante, "revisar", lambda a: [("escalera-1", "fallo")]), \
                     mock.patch.object(vigilante, "dm_botones", lambda t, b: avisos.append(t)):
                 vigilante.main(AHORA)
                 vigilante.main(AHORA)

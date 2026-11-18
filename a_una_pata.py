@@ -45,7 +45,11 @@ def avisar(publicados_hoy, ahora=None):
     ahora = ahora or datetime.now(MADRID)
     est = leer(ESTADO, {}) or {}
     nuevos = []
+    import privado
+    solo = privado.solo_telegram()
     for p, f in candidatos(publicados_hoy):
+        if solo and not privado.es_tg(p):   # 18/11 (Marcos): solo avisos de Telegram
+            continue
         clave = f"{p['id']}|{f['texto']}"
         if clave in est:
             continue

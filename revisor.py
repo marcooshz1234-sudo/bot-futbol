@@ -149,6 +149,9 @@ def main():
     estado = leer(ESTADO, {}) or {}
     picks_bot = leer(DATOS / "picks.json", {}) or {}
     mensajes = []
+    import privado
+    if privado.solo_telegram():   # 18/11 (Marcos): solo avisos de Telegram
+        pendientes = [p for p in pendientes if privado.es_tg(p)]
     for p in pendientes:
         prob = problemas_post(p, partidos, hist, arbitros, picks_bot)
         ya = set(estado.get(p["id"], []))

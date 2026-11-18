@@ -126,6 +126,10 @@ def jugadores_pendientes():
 
 
 def avisar(lineas):
+    import privado
+    if privado.solo_telegram():   # 18/11 (Marcos): solo avisos de Telegram
+        print("\n".join(lineas))
+        return
     token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
     if not (token and canal and lineas):
         return

@@ -29,6 +29,9 @@ GRANDES = ("real madrid", "barcelona", "atletico madrid", "manchester city", "ar
 def dm(texto):
     token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
     print(texto)
+    import privado
+    if privado.solo_telegram():   # 18/11 (Marcos): solo avisos de Telegram
+        return
     if not (token and canal):
         return
     from publicar_telegram import api

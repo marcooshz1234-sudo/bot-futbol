@@ -34,6 +34,9 @@ def main():
     for p in app.get("publicados_hoy", []):
         if p.get("estado") != "verde" or "verde-auto" in p["id"] or not re.search(r"-combi-|escalera|-boleto-", p["id"]):
             continue
+        import privado
+        if privado.solo_telegram() and not privado.es_tg(p):   # 18/11 (Marcos): solo avisos de Telegram
+            continue
         k = f"verde-{p['id']}"
         if k in hecho:
             continue
@@ -66,8 +69,11 @@ def main():
             fallos["telegram"] = p["error"]
         if p.get("caducada") is True:
             fallos["telegram"] = "no salió a su hora"
+        import privado
         for red, e in fallos.items():
             if red not in ("telegram", "threads"):   # 27/10: solo Telegram y Threads
+                continue
+            if red != "telegram" and privado.solo_telegram():   # 18/11 (Marcos): solo avisos de Telegram
                 continue
             k = f"fallo-{p['id']}-{red}"
             if k not in hecho:

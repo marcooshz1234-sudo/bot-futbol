@@ -585,7 +585,8 @@ def main():
     estado[dia] = ahora.strftime("%Y-%m-%d %H:%M")
     ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), encoding="utf-8")
     token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
-    if token and canal:
+    import privado
+    if token and canal and not privado.solo_telegram():   # 18/11 (Marcos): las lecciones ya no van al privado
         try:
             from publicar_telegram import api
             admins = api(token, "getChatAdministrators", {"chat_id": canal})["result"]

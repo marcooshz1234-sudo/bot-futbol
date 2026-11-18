@@ -294,6 +294,9 @@ class Asistente:
             if (not p.get("requiere_ok") or p.get("enviado") or p.get("mensaje_id") or p.get("caducada")
                     or p["id"] in c["avisados"] or p["id"] in c["cancelados"]):
                 continue
+            import privado   # 18/11 (Marcos): solo lo de Telegram (los verdes de Threads con dudas no se mandan)
+            if privado.solo_telegram() and not privado.es_tg(p):
+                continue
             corto = hashlib.md5(p["id"].encode()).hexdigest()[:10]
             c.setdefault("por_aprobar", {})[corto] = p["id"]
             botones = [[("✅ Publicar", f"ap|{corto}"), ("❌ No sale", f"apno|{corto}")]]

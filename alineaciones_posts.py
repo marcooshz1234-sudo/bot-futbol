@@ -52,9 +52,15 @@ def num(x):
     return f"{x:.2f}".replace(".", ",")
 
 
+_ACTUAL = {"p": None}   # 18/11: el post que se está mirando (para avisar solo de los de Telegram)
+
+
 def dm(texto):
     token, canal = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CANAL")
     print(texto)
+    import privado
+    if privado.solo_telegram() and not privado.es_tg(_ACTUAL["p"]):   # 18/11 (Marcos): solo avisos de Telegram
+        return
     if not (token and canal):
         return
     from publicar_telegram import api
@@ -351,6 +357,7 @@ def main():
     api, cambios_auto, cambios_cola, cancelar, cambios_control = None, False, False, [], []
     for origen, lista in (("auto", auto), ("cola", cola)):
         for p in lista:
+            _ACTUAL["p"] = p
             if p.get("caducada") or p.get("borrar") or p["id"] in control.get("cancelados", []):
                 continue
             if p["fecha"] < (ahora - timedelta(hours=12)).strftime("%Y-%m-%dT%H:%M"):

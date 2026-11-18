@@ -335,6 +335,14 @@ def main(ahora=None, avisar=True):
     for _, t in problemas:
         print(" ", t)
     if nuevos and avisar:
+        try:   # 18/11 (Marcos): solo lo de Telegram
+            import privado
+            if privado.solo_telegram(leer(PUB / "control.json", {}) or {}):
+                por_id = {p["id"]: p for p in todos()}
+                nuevos = [(k, t) for k, t in nuevos if privado.aviso_vigilante_tg(k, por_id)]
+        except Exception as e:
+            print("vigilante (filtro tg):", e)
+    if nuevos and avisar:
         try:
             from ajustes import valor
             if valor("aviso_vigilante", control=leer(PUB / "control.json", {}) or {}):
@@ -351,7 +359,8 @@ def main(ahora=None, avisar=True):
     if avisar and 9 <= ahora.hour < 12 and est.get("informe") != hoy:
         try:
             from ajustes import valor
-            if valor("informe_manana", control=leer(PUB / "control.json", {}) or {}):
+            import privado   # 18/11 (Marcos): «nunca los leo» → con «solo Telegram» no va la revisión de la mañana
+            if valor("informe_manana", control=leer(PUB / "control.json", {}) or {}) and not privado.solo_telegram():
                 import revision
                 dm_botones(revision.informe(ahora), [])
             est["informe"] = hoy
