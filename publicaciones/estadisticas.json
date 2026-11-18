@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 18:59",
+ "actualizado": "2026-11-18 19:10",
  "redes": {
   "instagram": {
    "seguidores": 50,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3207,
-   "hoy": 47,
+   "seguidores": 3208,
+   "hoy": 48,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3207
+    3208
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3736,
- "total_hoy": 56,
+ "total": 3737,
+ "total_hoy": 57,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "19:00",
+  "hora": "19:30",
   "dia": "2026-11-18",
-  "titulo": "Combi de tiros · juventus (fem.) vs oh"
+  "titulo": "El duelo de tiros"
  },
  "ayer": {
   "aciertos": 3,
@@ -228,7 +228,7 @@
   },
   "2026-11-18": {
    "instagram": 50,
-   "threads": 3207,
+   "threads": 3208,
    "facebook": 1,
    "telegram": 478
   }
