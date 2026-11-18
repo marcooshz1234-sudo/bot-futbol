@@ -3393,5 +3393,24 @@
    1,
    0
   ]
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/87219",
+  "dia": "2026-11-18",
+  "hora": "18:45",
+  "local": "BK Hacken W",
+  "visitante": "Manchester City W",
+  "texto": "Más de 9 córners",
+  "mercado": "Corners Over Under",
+  "opcion": "Over 9",
+  "cuota": 1.66,
+  "stake": null,
+  "argumento": [
+   "El City femenino vive en campo rival y carga mucho por bandas, lo que suele traducirse en muchos saques de esquina",
+   "Se espera un Häcken replegado y despejando, otra fuente de córners a favor del City",
+   "La línea de 9 es asequible para un partido de Champions con un favorito tan dominante"
+  ],
+  "argumento_propio": true
  }
 ]
