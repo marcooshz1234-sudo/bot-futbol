@@ -72,7 +72,8 @@ def main():
         es_combi = ES_COMBI.search(p["titulo"]) or (re.search(r"-combi-|escalera|-pick-", p["id"]) and "verde-auto" not in p["id"])
         # 17/11 (Marcos: «en Threads, si no es una combi mínimo x5 no se sube»): las locas de Threads también
         # (la centenaria, el duelo, los tapados…), pero no las listas ni los ganadores
-        es_combi = es_combi or (re.search(r"-loca-th-", p["id"]) and not re.search(r"-lista-|ganadores", p["id"]))   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
+        # 18/11 (Marcos): cada acierto de Threads va en el comentario de su post, también las listas
+        es_combi = es_combi or (re.search(r"-loca-th-", p["id"]) and not re.search(r"ganadores", p["id"]))   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
         if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
             continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
@@ -141,7 +142,8 @@ def main():
         post = {"id": pid, "fecha": ahora.strftime("%Y-%m-%dT%H:%M"), "texto": texto, "foto": None,
                 "origen": "bot", "directo": True, "facebook": "foto", "resultado": "verde", "verde_de": p["id"],
                 "_combi": p}
-        if duda:
+        solo_threads = (originales.get(p["id"]) or {}).get("solo_en") == ["threads"]
+        if duda and not solo_threads:   # 18/11: el comentario del acierto en su post de Threads sale solo
             post.update(requiere_ok=True, aviso=f"💚 ¡VERDE! Te lo paso porque {duda}. Sale cuando le des a Publicar.")
         # 17/11 (Marcos: «que suba ya las que se van acertando, una a una cada 10 min entre ellas»): ya no espera
         # 15 min para juntarlos; escalonar() los separa

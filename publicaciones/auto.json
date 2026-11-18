@@ -9203,5 +9203,57 @@
     ],
     "texto": "Combi de las favoritas de la Champions femenina 🔥\n\n🏆 Gana el Real Madrid (fem.) · vs Inter · 18:45\n🏆 Gana el Manchester City (fem.) · en Häcken · 18:45\n🏆 Gana el Chelsea (fem.) · vs PSG · 21:00\n🏆 Gana la Juventus (fem.) · vs Leuven · 21:00\n\n📈 Cuota @2,62\n\n🧠 Por qué:\n👨‍💻 Los partidos del Real Madrid llevan 4,4 goles de media en los últimos 8.\n👨‍💻 Las cuatro son muy favoritas en bet365 (todas por debajo de 1,35) y juegan contra rivales de otro nivel.\n👨‍💻 Real Madrid, Chelsea y Juve juegan en casa; el City, ante el rival más flojo de los cuatro.",
     "nota": "18/11 Marcos: «me gusta la combi de las 4 favoritas»"
+  },
+  {
+    "id": "2026-11-18-loca-th-1545-goleadoras",
+    "fecha": "2026-11-18T15:45",
+    "texto": "⚽ LAS GOLEADORAS ⚽\n\n⚽ Khadija Shaw marca · Häcken–City · 18:45\n⚽ Signe Bruun marca · Real Madrid–Inter · 18:45\n⚽ Beever-Jones marca · Chelsea–PSG · 21:00\n⚽ Alba Redondo marca · Juventus–Leuven · 21:00\n\nChampions femenina, cuatro que no perdonan 🔥\n\n🎯 CUOTA 7,54 💎 10€ → 75€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1638306|Anytime Goal Scorer|Khadija Shaw",
+      "1638333|Anytime Goal Scorer|Signe Bruun",
+      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+      "1638312|Anytime Goal Scorer|Alba Redondo"
+    ],
+    "cuotas": [
+      1.62,
+      1.62,
+      1.83,
+      1.57
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 7.54,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-1745-sustos-copa",
+    "fecha": "2026-11-18T17:45",
+    "texto": "😱 LOS SUSTOS DE COPA 😱\n\nLa Copa es la Copa… y hoy van tres pequeños a por el batacazo:\n\n🛡️ Utebo o empate vs Sabadell · 19:00\n🛡️ Alcoyano o empate vs Mallorca · 20:00\n🛡️ Badajoz o empate vs Tenerife · 20:00\n\n🎯 CUOTA 13,09 💎 10€ → 131€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1644384|Double Chance|Home/Draw",
+      "1644334|Double Chance|Home/Draw",
+      "1644346|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      2.62,
+      2.38,
+      2.1
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 13.09,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
   }
 ]

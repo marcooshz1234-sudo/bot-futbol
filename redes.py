@@ -153,6 +153,15 @@ def resultado_sin_cuoton(p):
     return True
 
 
+def verde_en_su_hilo(p):
+    """18/11 (Marcos: «cuando aciertes una de threads lo vas a poner en el comentario de la misma publicación»):
+    un verde (no rojo ni balance) de un post que salió en Threads va como comentario de ese post, sea cual sea la cuota."""
+    pid = p.get("id", "")
+    if not p.get("verde_de") or p.get("rojo_de") or re.search(r"-(rojo|balance|resumen)(-|$)", pid):
+        return False
+    return bool(hilo_original(p))
+
+
 def foto_threads(p):
     """12/11 (Marcos: «pick del día y ganadores»): la única foto que lleva un post en Threads (o None)."""
     if p.get("sin_foto"):   # 16/11 (Marcos: «súbela sin foto, si son tantas cosas no hace falta»)
@@ -641,12 +650,14 @@ def main(objetivo=None):
         solo = p.get("solo_en")   # p. ej. ["threads"]: este post solo va a esas redes
         if resultado_sin_cuoton(p) or pick_suelto(p):   # 16/11 (Marcos): en Threads/IG nada de aciertos (salvo cuotón ≥ 10) ni picks sueltos
             solo = ["telegram"]
+            if verde_en_su_hilo(p):   # 18/11 (Marcos): el acierto de un post de Threads, en el comentario de ese post
+                solo = ["telegram", "threads"]
         if solo:
             for red in ("threads", "instagram", "instagram_reel", "instagram_story", "facebook"):
                 if red not in solo and red not in hecho:
                     hecho[red] = None
         if claves["threads"] and "threads" not in hecho:
-            if (threads_hoy >= MAX_THREADS_DIA and not p.get("forzar") and not objetivo
+            if (threads_hoy >= MAX_THREADS_DIA and not p.get("forzar") and not objetivo and not hilo_original(p)
                     and not any(k in p["id"] for k in PRIORITARIOS)):
                 hecho["threads"] = None   # no sale en Threads (no es un fallo: no se avisa ni se reintenta)
                 print(f"threads: {p['id']} no sale (tope diario)")

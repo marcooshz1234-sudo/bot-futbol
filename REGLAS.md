@@ -137,6 +137,7 @@
 - 👤 Más contenido de noche para el día siguiente; sobre las 00:30, siempre algo con escudos.
 
 ## 8. Verdes y rojos
+- ⚙️ **Acierto de Threads → comentario en ese mismo post (18/11, Marcos: «cuando aciertes una de threads lo vas a poner en el comentario de la misma publicación»):** todas, también listas y cuotas bajas; sale solo, sin esperar al OK (redes.verde_en_su_hilo, verdes_auto; test_threads_verde_comentario). Con jugador que no juega: «han entrado todas, X no jugó y baja un poco».
 - ⚙️ Los verdes llevan la cuota de la publicación. Solo salen cuando terminan los partidos (o 10 min en verde).
 - 🤖 **Los verdes, siempre con las banderas o escudos de cada partido** (17/11: la escalera Dinamarca–Noruega salió sin ellas; fotos.insignias).
 - ⚙️ Pata anulada (aplazado, jugador que no juega): se quita y la cuota se rehace, como paga bet365.
