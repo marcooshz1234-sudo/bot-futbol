@@ -41,7 +41,7 @@
    "justa": 2.07,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 2.6
+   "edad_h": 3.0
   },
   {
    "local": "Real Madrid W",
@@ -52,7 +52,7 @@
    "justa": 1.82,
    "ev": -0.012,
    "fuente": "las otras casas",
-   "edad_h": 2.6
+   "edad_h": 3.0
   },
   {
    "local": "Juventus W",
@@ -63,11 +63,11 @@
    "justa": 1.86,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 2.6
+   "edad_h": 3.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T04:58",
+  "hora": "2026-11-18T05:24",
   "revisadas": 0,
   "mejor": null
  },
