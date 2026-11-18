@@ -23,3 +23,6 @@ Proyecto **@combilocas** de Marcos: bot de pronósticos de fútbol (Telegram, Th
 ## Al acabar
 Una línea por cambio en la bitácora del mes (qué y por qué) y, si es una norma nueva de Marcos, en `REGLAS.md`
 (y su copia en el proyecto de claude.ai: `claude/REGLAS_NOVIEMBRE.md`).
+Si el Mac está enlazado, **copia a Obsidian** (Marcos abre los chats nuevos con «lee el Obsidian»): `REGLAS.md` →
+`00 Inicio/Reglas.md`, `MANUAL_PROYECTO.md` → `00 Inicio/Manual del proyecto.md`, la bitácora → `01 Bot/Bitácora noviembre.md`,
+y pon al día `00 Inicio/Pendientes.md` y la nota del día en `05 Diario/AAAA-MM-DD.md`.
