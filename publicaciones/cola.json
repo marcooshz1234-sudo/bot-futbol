@@ -8818,6 +8818,13 @@
     ],
     "sin_instagram": true,
     "enviado": "2026-11-18T21:03",
-    "mensaje_id": 543
+    "mensaje_id": 543,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
