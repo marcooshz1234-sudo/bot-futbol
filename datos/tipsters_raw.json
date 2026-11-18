@@ -878,14 +878,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47084",
-   "fecha": "2026-11-15T01:00",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-15T01:01",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47084.jpg"
-  },
-  {
    "id": "-1001468963672/47083",
    "fecha": "2026-11-15T01:00",
    "texto": "",
@@ -2380,17 +2372,16 @@
    "foto": true,
    "visto": "2026-11-18T00:25",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47316.jpg"
+  },
+  {
+   "id": "-1001468963672/47317",
+   "fecha": "2026-11-18T13:15",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-18T13:21"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/87038",
-   "fecha": "2026-11-16T22:53",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T23:00",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87038.jpg"
-  },
   {
    "id": "-1002463340479/87039",
    "fecha": "2026-11-16T22:55",
@@ -3880,6 +3871,13 @@
    "foto": true,
    "visto": "2026-11-18T13:08",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87242.jpg"
+  },
+  {
+   "id": "-1002463340479/87243",
+   "fecha": "2026-11-18T13:16",
+   "texto": "🛍 CUOTA 500 ACERTADA ⭐️\n\n⚽️🇪🇸😁😁😁😊  😁😁😉  \n            😊😁😊\n\n👀 HACE TAN SÓLO UNOS DÍAS  —> https://t.me/+KHTJ5np7IPY4NGZk",
+   "foto": false,
+   "visto": "2026-11-18T13:21"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -6752,6 +6750,14 @@
    "foto": true,
    "visto": "2026-11-17T23:52",
    "foto_ruta": "datos/tipsters_fotos/MisterBasquet__6652.jpg"
+  },
+  {
+   "id": "-1002329712307/6655",
+   "fecha": "2026-11-18T13:18",
+   "texto": "Se me acaba de ir la pinza con las ganancias de ayer 😏",
+   "foto": true,
+   "visto": "2026-11-18T13:21",
+   "foto_ruta": "datos/tipsters_fotos/MisterBasquet__6655.jpg"
   }
  ],
  "CRIMINALPICKS🕵🏻‍♂️": [
@@ -8643,6 +8649,45 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-18T12:03"
+  },
+  {
+   "id": "-1001262785423/10148",
+   "fecha": "2026-11-18T13:12",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-18T13:21",
+   "foto_ruta": "datos/tipsters_fotos/TipsPro__10148.jpg"
+  },
+  {
+   "id": "-1001262785423/10147",
+   "fecha": "2026-11-18T13:12",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-18T13:21",
+   "foto_ruta": "datos/tipsters_fotos/TipsPro__10147.jpg"
+  },
+  {
+   "id": "-1001262785423/10149",
+   "fecha": "2026-11-18T13:13",
+   "texto": "Sé que este mes muchos no habéis llegado a tiempo de acceder al Premium  ☑\n\nCreo que lo más justo es que os de ACCESO a TODOS. Os dejo solo hoy 20 plazas más!",
+   "foto": false,
+   "visto": "2026-11-18T13:21"
+  },
+  {
+   "id": "-1001262785423/10151",
+   "fecha": "2026-11-18T13:15",
+   "texto": "🔒 20 nuevas plazas PREMIUM! 😞\n\n🌟 Entre 30 y 45 apuestas Garantizadas \n( Menos de 1€ por pronóstico )\n\n📁 Todas argumentadas y en un 95% apuestas PRE para que todos las pillemos.\n\n🟣1 mes: 30€ \n🟣2 meses: 50€ (ahorro 33% 2º mes) \n\n🤔 Da igual el día de acceso son 30 o 60 días desde el día que entréis.\n\n⭐ También dejo antes y con descuento todos los apuestones y Retos gratuitos 📊",
+   "foto": true,
+   "visto": "2026-11-18T13:21",
+   "foto_ruta": "datos/tipsters_fotos/TipsPro__10151.jpg"
+  },
+  {
+   "id": "-1001262785423/10150",
+   "fecha": "2026-11-18T13:15",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-18T13:21",
+   "foto_ruta": "datos/tipsters_fotos/TipsPro__10150.jpg"
   }
  ],
  "INSIDER": [
