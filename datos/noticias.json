@@ -50,6 +50,22 @@
    ]
   },
   {
+   "titulo": "A Badajoz, más de 23 años después",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3dtRHFCbE9QLUpxMUpaRHRva2djTm9DUGdjNUhCWkYxVFJTYy1rSTVKOVVFQklIVDJoSGM3ZWRpeTU5NUY5ZVIyWVByd2o4Nl8zd1BHUFh4TENqTnhQcmljdF83bkREMDRHQ1otLTE5cGtCODJWYTRXb3RoNnNtYVphSErSAZgBQVVfeXFMT2RydF9RQU1lbk9SbDdoNTQ4d19qSUMxWC02UUJNR2o3QnlXRmthRkJSSkZOaDA2U3VLNTl3NEVaUFNnMTBCd0p6TUdRbmVJMmRtM2d1T3FfS28yRHhqN2d6RzNmYW1Vc1RLN0pseTE0T0tpOXpFRjUwZDRURVhramx5NGxNYVRnRmFnLXpmSV8xdVowd1NFcnY?oc=5",
+   "fecha": "2026-11-18T11:22",
+   "equipo": "Badajoz",
+   "tipos": []
+  },
+  {
+   "titulo": "Trabajada victoria del CD Tenerife B en la Ciudad Deportiva",
+   "fuente": "CD Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGc1R0RyU0htUnZ1RHMwdFdvU1o3aG1sdXJrb1RacVRYb0xoN0FiOXNZTk9MRmpiQ0Q0RktBOUtVaWUtenpnakhlOUQwdEc3dVFOeWJzUk12ZnRuWWVFcUJhSEdhMjRzbDc1cFpodEhFb0JMdlNnOHVwUHBwQXVITEdvSmlJeWR3elg0dEIzQ0JPeGZIZ0txX3hCNkpoNXlRYmpYUU0zX3c?oc=5",
+   "fecha": "2026-11-18T09:49",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
    "titulo": "El Estadio Nuevo Vivero, primera parada del CD Tenerife en la Copa del Rey",
    "fuente": "8SPORTS.es",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGRGakxwcHpyaWhGNHJkNDhJUUFxT1ZneHdzZ0FlaEFWeGEycGF4QmNqRzFTLXljM29jNkFQME9Nblk1YWY0MWVSaVJQcW0wTG5POTYtOEtSMjY4Q1NKR0VGLWYtUGtqQVhWbk1RdjB3clM0Z0ZpLWRIV1ZuX0k1OF9oMFdDMGtBVU13WmF0eXJrMHRwT2JxRHkyVkpxT3pwMG1EQUlUTE5YZjhmYkF3QXZzbw?oc=5",
@@ -90,6 +106,14 @@
    "tipos": []
   },
   {
+   "titulo": "La Tenerife Bluetrail by UTMB® reúne a los 15 municipios por los que pasará la carrera en 2027",
+   "fuente": "8SPORTS.es",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOakpSNEZmMWtkOVpVZ2FYbkoyMXdkVEppcXREMWdaUmUyamJfbEhkUVBMa3BwRDZvSGpUUjUyQ1hLNnk0MXRicW55dTVvaTA4SkdoWXRzWHZNYnlYR3UwbENmdFpzckNBbWtBZjFVVWZ4UFU1N1BheDg5b0MwZUpxbmZtcTBrZkhISVBBb3RJYTR2eTBLTUN2QWo1bDZCeWNMQ1lfbnp2Q1pWcDNJSXQ4dnJFTUdBVnhEdWtfLVA4d0NhUDVfcC1TRUh4ZHNzQQ?oc=5",
+   "fecha": "2026-11-17T22:59",
+   "equipo": "Tenerife",
+   "tipos": []
+  },
+  {
    "titulo": "La respuesta del entrenador de Tenerife a Gerard Piqué por la suspensión a Jesús Owono",
    "fuente": "TyC Sports",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkEyUlRIVTRyMFdhZ242aFVKU1Q2bXJ6UXpyRmtVdENUemMxX0c1VVBLQVNkTEdMSENNZm02bG9JZDFrTExNc0p5UXA5SGwyVHBPMmY2TjVNbkNLLXJtWi1Sd0lYaG9BTHZHMnZiRXVENXFadXl0ZHNzWEFVQktya1pRcU9Ld1dvbDA0NWoyZzBKRXFET3VTemVnSm52R0E?oc=5",
@@ -122,14 +146,6 @@
    "tipos": []
   },
   {
-   "titulo": "Una Copa para soñar y honrar la memoria",
-   "fuente": "Hoy",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXNPMjFxb1hwTEVFaFg4ZkxFWjdzQ3ZQU0dQU2toWThMNFVqZ1lxZXlTaHRkVF9uMUJ4d3RKbXJ3NGdrV05VRlVvN2hVTXNRM0hSczN6b2dJMUd6M1hvLXdubVJoVG9jaDh4VVR1UlRBcGZQblFJRmktckN3czJNUmFTbUZEdGwzRFdmWUNQTmhtaFp0S0hNU2hYZVTSAaIBQVVfeXFMTmNyOEdPUUhYSmNKTnQ3YVYxbllUSDJpM1RjR1BzT2kzbHllQ2t5bHloT2NZQ1c4VlVKbnlyLXZiaVdLU0NuVDJDWkd4QTJEdEdWOFdkamQxcFZ2aWdMbnVOSXB0aDJXSUZPTXd0dEw5VU9rSGdFTVBJX0xPU2JKY0UxM2NPSVFPT0xMMmxjd1lHeG5ld1VjS004RXVxQ0I0S1pn?oc=5",
-   "fecha": "2026-11-17T21:34",
-   "equipo": "Badajoz",
-   "tipos": []
-  },
-  {
    "titulo": "LaCrónica | Un triplazo inverosímil de Kyle Guy culmina la épica remontada de La Laguna Tenerife en Turquía (88-91)",
    "fuente": "Radio Marca Tenerife",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFIyYTJ1ZTl4VjZidXhNXzlfUGMwbmh5Y3dhTHFiaUl0OGs1bkNINm5OcmZpZjBFYThXZkt4V1E3RFJJLVBFUnRLS0ZxTUpLNTNoQlZFNWt6aUd4cmwwTEo0Qk1SNEtYdkg5SnNtNGNwbTh6aXI2TFM2ZXQ0Qk9RXzJYTEhDSENXdEw5VnJIV0k1SG9JWm5YMXpldU1EN0tHaUhNWEIyTURUU1Q5bDIxSE1DcFVSTEQ5bXFiazRLY3c5aFB4VzQzV2lXbWs2NFRKN0Vjb3BYeXh6anNGeVJOQzB5d2JtZw?oc=5",
@@ -142,14 +158,6 @@
    "fuente": "Hoy",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXVmTW8wOEFNYXhnM3pWTUd5Uk4zMjlNbUJJMzFJbWFjQ3d4MU5GUk96REVLOWRkWTNtaWVlYWZhOWV5VGNKc1JGSkw1VUEtckR3eGZyaGxKUU8tc0JVWlRybjlxcnJXREJPVGktWGNSc0FQS0ZpcXd6S2NGMGVMOG83dUY2MkMyT3BDVzFBQW5iaDRLbTRVcHVSX2FLdGhENlVV0gGoAUFVX3lxTFBQdnJXUUQtaTVPdE9vWVNPNlNVUjhxSjBkTGM1Q0xOQWEyc0hlQl81VndWN3ZfZTgzVEQzY0dfdm9KcWdsMi0zclFSQ3pMa2RMU1FmRjRFMnYtZnh6RDY0OUVhUnMxRi1VcGh2cUdnZ2VJYWY3RTlTODRnbnFCX2hTWjdzQ3BCMTF5VWNQRzhNT2dLZEFXRzA1Tk5lVkk4UHkxSWNfbldCbA?oc=5",
    "fecha": "2026-11-17T20:12",
-   "equipo": "Badajoz",
-   "tipos": []
-  },
-  {
-   "titulo": "Muere Blas Ziarreta, el técnico con el que se inauguró el Nuevo Vivero",
-   "fuente": "Hoy",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmEzYXJ2Qko0dG1XaTNVNWw3OGNUUnBGMXZiVzROMWEyUkZUMl9XbzYzcFlFVWZ1UmUxM21FdGFqWGp3aXMtX0pYNG5QNEd5dDJGNTVwT1pQc2w4QTkwV2I0NlpHSjBnX2FEZWtQT180T2ZTQkxHTGVNLXlBUm5Ndi1qcUIxd19TdWl6bDNrbExpSFRPandaVnUtNi1YVGF1cFpid1JpdGlQLWU3blpYMDcxMElRM0hHMXBiS9IBwgFBVV95cUxNVmlUeGt3V2RpVWRfQ1Q3eUN0anU5N3BvVFh5bVl4ZmFoU3pYenlid2JqNzRRLWZVR0t3alJiRUdvZ1BUbXNaZDVDZ3NHUzV1d3NNRUdGTmlnR1BVVEhNV1NaUTB0S2x6bHoyLWwtUkVFbGJTdWxkeXhkcVZEQkRMNHZ2ZHF2Z2hIV0l1Rmpkd2llaDdldFR2UlU1OU5qcW5YSm5GQ1U4VDItQXN2QjF1NWluN0M3cE1JLW1zYUhSWW5vZw?oc=5",
-   "fecha": "2026-11-17T19:49",
    "equipo": "Badajoz",
    "tipos": []
   },
@@ -186,22 +194,6 @@
    "tipos": []
   },
   {
-   "titulo": "Tenerife - Andorra de LALIGA Hypermotion 2026/2027: resultado, resumen y goles",
-   "fuente": "Cadena SER",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0FHaXpVdlZlenlhdy1lemE2UmQzVE0yRk41T2FZVXR1Z1lkUG9yMGZ1NWM0ZFpvS2xNci1jd1YySERlbGJ2ZzNFeHRycmhIYlNlZVVKbnhLWU5XOG9UMC1KZ2ZyMDNMTHVmX0NoWW12cE1oQWJoc29SOXBqRFNtN0ZneE1BU01zZXlSSHpJQk5OaktEUmZRVHB3TQ?oc=5",
-   "fecha": "2026-11-17T18:07",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
-   "titulo": "Una cantera de altura: el Atlético Barranco Hondo crece desde la base",
-   "fuente": "Radio Marca Tenerife",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXlyVWwwSUtjLVFJMzVHb1p4Y3FvSUl6bXF1SUp2X1cxVGVkTzdWYkpCY09lSmZxSlV3aDdLTjhValhWeEZLVl9LUUNfMU4wUWtVZ0RCNDhDRVlBajViWm4zT1lYbXdXbTJwNGJKMGd4czhjVmFPeDFUMmhSaUt5VE5oLXJ4elZMX25xbHI5RGE0d2Z3b1gyUUMtTVp0LWEwOEVkeEgzZkE3aEl6?oc=5",
-   "fecha": "2026-11-17T17:00",
-   "equipo": "Tenerife",
-   "tipos": []
-  },
-  {
    "titulo": "Ocho partidos sin perder avalan al Badajoz antes de recibir al Tenerife",
    "fuente": "Radio Marca Tenerife",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1JhTVBNbk5SZ1VaN3BKOGNtRVZmbEh0MmJwemxTcUc0azN6S2ZLc293OGtsRjdLWlNEcUJzYnE4ZTVxclRmamUyTXBLczFTVVFiRGhxU1BQblRoTzdxMDZCQldnbWVhODZPNWZiRDRUc19mOHhrSWd5RHJ0dTYxSnBMU1V1dEljaVl2SkdxcFJGZFpCak1qcVFJNVZEYm93NzJ2ZlFWOEhTbkJqMHFmZA?oc=5",
@@ -224,6 +216,14 @@
    "fecha": "2026-11-17T14:31",
    "equipo": "Badajoz",
    "tipos": []
+  },
+  {
+   "titulo": "El CD Tenerife se reencuentra con el CD Badajoz 23 años después",
+   "fuente": "CD Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVhFd1hBblhHTzd6NWVGVWQ4MWZLTXZiMnV3bG54azZsOURXc0M0SEZKVkN3VVlpamprMEVVZnZwM0Zja293bUVqV0VFVGZWVUJCYzdjN2RzVjNndWlIMHdrX1N0QkJzZ1Nod1RaMzhGYU1TeXpsY3R1TElZRTU5TEZfS08tdFVOV0xiZC1LMFJQc3N4THZidG9talplNk91T3k0ZkZwaFZpanNjM0E?oc=5",
+   "fecha": "2026-11-17T13:36",
+   "equipo": "Badajoz",
+   "tipos": []
   }
  ],
  "1644384": [
@@ -232,14 +232,6 @@
    "fuente": "Aragón Play",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkFnQjlucFJmZk1GcW4wQmFGR0dFSVNzd0daOUFNOU9wbDFvZmdUM0xqOERHaFYyeDhxMkxXYlZJdzZXZE5NcTU4X1NNVDg5NjJZM21keXo1UHRvbW9iUWh1V1hqLUVBR3JLakxYR3VfNjRwYzF3cnl6VzFLemhSQTdmWDYzVFpU?oc=5",
    "fecha": "2026-11-18T10:34",
-   "equipo": "Utebo",
-   "tipos": []
-  },
-  {
-   "titulo": "Juan Mata se retira: \"A veces amar es dejar ir\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDNFektTLXYzdVNvUnZfNkdLcGFkQ0YwaENXOUFVX0FWbVRld1pyOTJtVjJfcE1sejZwbzFadWp0dzc4QTR3Z0gzcXhwb0VxT0RHN3RMS3laQmlPS01rS3ZGMzFQRW9zOTg4UVZvRkptQlExNmZ5ekk5c0tabUZ0QV9YS2FvX3pkRFhEeXVCd0dtZ1cta09RRlNjcHdFUThq?oc=5",
-   "fecha": "2026-11-18T10:11",
    "equipo": "Utebo",
    "tipos": []
   },
@@ -292,14 +284,6 @@
    "tipos": []
   },
   {
-   "titulo": "Antiviolencia sanciona al Real Madrid por la pancarta contra Javier Tebas ante el Sevilla",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFI5YmkyRWNrUUhQV005RndkMXVHZnAzc0M3YjNwOGpyd1FwNHp6Y0hfUnIxN2N3aFdrWFh2TUxWUlFXUkpWQTdxdUVTS1ZYMVdscnM2eXRVZXU2VU1aQWxFRXY3dnRLdDdEMk12WEJHVnJPMWtqc0VVcW9odlQ1MVRjbW1LalRGemgydk0wNTV1SGdVZkl5eFZ2VGVTOFl3R2VkTEF5VGV2bHJUR0xvQVBrYjNlUGpkTUxrV1lPSWRhUGZnSnNvTTBxblFwc3psYkpLNEN5ZlRmaHc?oc=5",
-   "fecha": "2026-11-17T18:41",
-   "equipo": "Utebo",
-   "tipos": []
-  },
-  {
    "titulo": "El ambicioso reto del Utebo ante el Sabadell en la Copa del Rey: 32 años sin superar una primera ronda",
    "fuente": "heraldo.es",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeEhsN25lOHJ2Wi1RZU9WY1duRDFmM05kY01MYkp1WmNCRTE2eXVPTG1xOVdpalY5OE1VT1BXMl9Wc195RUdUQy1ua19ReXZvYjdwM1VTbFhtQXZFdXBhdkZpUk5UOVZaWDFIOFZrQk9FYl9VMEhqUTRZT3dpeWpPV1d5VnZhdDNXVVFiVHBjdWlKZTlUcDNpVWJWT2NydktJUFBIRzBEVFZ5STN0M0dRSU41QVhBQzU3VU9TLUM5bEtSSVJzdnJtLU5oOTlvMDVpT3JXZ3ppX0haNmE0TDgyNVd4M1RrTXlu?oc=5",
@@ -309,6 +293,14 @@
   }
  ],
  "1644369": [
+  {
+   "titulo": "Unión empezó a delinear el mercado de pases: las prioridades que presentó Madelón",
+   "fuente": "Diario Uno Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzJnWVZFLWt3QjJsRWhMa1ZFblZNZV9tUzg3enBkVXFOaUV2bFNHMFNpa2RBVC1nejdDS19UUkJ1Q25aZ2N1YWZDbXB2WlVvREFISnljZUxleGplMHFaZlVSVi14MTlPTzVGQ01NNVdHRDNnZnZfTWlNYkNHa0xJZ2JFLTB2Yk9DLUxtdUhrTkUxd09xY1ZMYTRMZlZsLXE2c0F1eUN2UjQ4Mkg2VkN6ekhPV2o4VkloaGw3X0J3dE1USHV10gHKAUFVX3lxTE1sOUdFUU12aEVaN3gwazVKQndRQ2pGandJdVNoVHM4N3U5dFA5UU5mU3M4c2l6Q0xUMHNELWtGX2FIS0g1RzlPN3lDWWpuMl9aOHNxbmx3T1drWjh0MGNTYzd2YkFaMEZpVXJHdFc0MXZjSXVQQ3BjNGxqLUlwdjZRVGxDV3FwSUwxajNaTGNLbEc0elNpbE1wTzVoY25hU1NiMHZ0MUpsTzVfQi1MZmxHUmZBRVBncjJFd1BSY2x1YmhuSDhnR21kSWc?oc=5",
+   "fecha": "2026-11-18T11:46",
+   "equipo": "Real Unión",
+   "tipos": []
+  },
   {
    "titulo": "Juan Mata se retira: \"A veces amar es dejar ir\"",
    "fuente": "El Desmarque",
@@ -424,7 +416,7 @@
   {
    "titulo": "Unión descendió a la Primera B del fútbol femenino",
    "fuente": "AgenciaFe",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnN3d1pwSGY2RC02UUszRE5GSlNvX0ZMX2M5SkpOMUFxR014cEZiV2pqMUdXOU9kV2JkSV9JUHBVbjJ5S3Yxc1dUSkQ0NTcybDFCZGN2cVBqMUVsUUJISFhZcUI2MnhUdTA3MG1OYXFKMVY0blZNNXV2aVkzNmREcnpCRHNfR0ExZnJVdDFWNmE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0htVnh4cHM4aURodGdhdGs5d0JOeHUyTEkyM2JHY0JwY3U3Q1oyZGJpcEY4Zmo0dkJiYXc1OXh2Z0piYmJnUGpBRklrWXJ3U2p3QmNsQzR5cEdSR2VXcm5qYkJLUktnVkM3cUpmX3F3enh6dWxzdE8xS1NETlktN3g0RXFzeGZKNEZiRHFodURMQQ?oc=5",
    "fecha": "2026-11-17T14:57",
    "equipo": "Real Unión",
    "tipos": []
@@ -443,14 +435,6 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZjQ0N2JMc2F0NS1Gbi1jVzRETG9sODNPNnNaYUplNmxwSGw1bUw0VnRRRnlHTlFIMXZvTG5fdGNwNVpLVlZvSG9qdXVwTUczLUtCMnlzWVJXVUsxS2ZkbzFNZHJGUzBFS1otNWZtZXUyWVh4ckRSYU53Q0N0d2dldzV6QWNkZFZnTFZkZW9OTmhsRkI4QkhuZ0ZDWFZwWEtGRnpZQ2JDTHk1VFp6V3BQVURscHRQdjQyMzVrQ3hVbTcxbWxvaEZtbXZXbW8?oc=5",
    "fecha": "2026-11-17T13:18",
    "equipo": "Portugalete",
-   "tipos": []
-  },
-  {
-   "titulo": "\"Unión perdió la categoría, el orgullo de las pibas queda intacto\"",
-   "fuente": "SoyDeportes",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWF0a1FCSDMzb1ZMSnZ4UjhJSlE3c1JHT09YVlRRVEJscGVEcFhHQlNyeGFKelJTZGNJdWd1bHZKakdOU3RYN0FRUFFpaFg2d2EwZ1ZPMlh4OWtRXy1mQ2FOaVZXckdkdFRkREZiZUpkN0ppZVZtSUpZc0hxRDJMRl9QdjRJN2hwWGx3OFFLSlUzUUpEVl9NSWN0cTlwZw?oc=5",
-   "fecha": "2026-11-17T12:48",
-   "equipo": "Real Unión",
    "tipos": []
   },
   {
@@ -540,19 +524,19 @@
    "tipos": []
   },
   {
+   "titulo": "Fútbol Club Cartagena",
+   "fuente": "VAVEL.com",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2YnhyRmRsMi1FTHlLUE5RTmJtNWtjdk9tSllqa2UzM1RnOEtCUnoxWVQzYlJjVHI5TXlnTjFIdDlPSURNUTBtLWhlUFMyOVRrbjcyWjdrTUlnU1dseGQ1SjBB?oc=5",
+   "fecha": "2026-11-18T10:00",
+   "equipo": "FC Cartagena",
+   "tipos": []
+  },
+  {
    "titulo": "Deportiva Minera vs Cartagena: Copa del Rey stats & head-to-head",
    "fuente": "BBC",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nb3E1NXk5M0EtMjRVSkgtRmlRZ0RmRWNKY3hldllLUW1NU0ZwS3ZHMWlkZmpxRHJXVXhSV1loTUNCd2h3NFFWNlZKNDVZYkRqdUFHdms0QVRiRkYxa1U1dk5Law?oc=5",
    "fecha": "2026-11-18T06:16",
    "equipo": "Deportiva Minera",
-   "tipos": []
-  },
-  {
-   "titulo": "Fútbol Club Cartagena",
-   "fuente": "VAVEL.com",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2YnhyRmRsMi1FTHlLUE5RTmJtNWtjdk9tSllqa2UzM1RnOEtCUnoxWVQzYlJjVHI5TXlnTjFIdDlPSURNUTBtLWhlUFMyOVRrbjcyWjdrTUlnU1dseGQ1SjBB?oc=5",
-   "fecha": "2026-11-18T03:13",
-   "equipo": "FC Cartagena",
    "tipos": []
   },
   {
@@ -576,14 +560,6 @@
    "fuente": "PrimerTiempo.CO",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbE5XalB6bk11VTZHMUdYMUdPcGYyTVR1Mll0TXgydXRkN2phY2Q2X2daMk4waXY3djhpVlFFeDBVSThfMVN5am1iMVJIUDNCZ1FVUnhvVzA3dTl2Wm5kdU5lX0RmMEVkbllKSEQ2NGZzVnR6VEtKZ293RldhZ3pic1hoUjFoOWNJcUNuUUpZR0xkS2UycGxDZVBpel8wbHhqYTlkaVdIOVA?oc=5",
    "fecha": "2026-11-18T02:11",
-   "equipo": "FC Cartagena",
-   "tipos": []
-  },
-  {
-   "titulo": "Luis Javier Suárez se disculpa por sus declaraciones tras el partido contra Chile",
-   "fuente": "PrimerTiempo.CO",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVIza0pTUW9vcXdmZjdSSjNPaXYxWE85ZkJZUk13ck0xSlFiMWZHeHhxbFdtYVpMZlVVc1BKc3Q3Z0VKblM5aG5kckJwcGpURVFLMkpQdUtZZy1SZzFSVmpoaWpoeVg5TXdiVWplMWY1YUNRU2tQRnlWa0R6RFByRTN6VUFfejZfQXN2MFBYWEpmWW5GbVBKcnJKSGRIR01IanF1ZDVtM1hJTkwtZFdTNXAyNA?oc=5",
-   "fecha": "2026-11-17T23:11",
    "equipo": "FC Cartagena",
    "tipos": []
   },
@@ -628,6 +604,14 @@
    "tipos": []
   },
   {
+   "titulo": "Asesinaron a tiros a exjudador del Atlético Nacional: le dispararon en plena vía pública en Cartagena",
+   "fuente": "Infobae",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRTVZNnEtTlFGcW9wVEdEa29VbEFVUmpfOUk0Z0M5cjZLbEpqYlQ5dmtnQmxMUUt6TWsxNmVsUHgya2lBQU9ieU5SZUs3U0pfbGlsNTR4NVVsWFc0X3owaGxqdHFESmZCTWFjbExoX1JCVjlZN1lISVZNTzJINUpFcEhUMzk2OXhiNzhwcnRyMnZFWEtJVG1KVHZCeDMtWG9RcjlfLWFWMGYxVndGWjVIYzlfc0N3UmdYUVdheFBQSDdhNVU4d2RkOXcycnZXZXpyZWVYQkNpZUZKa2RvdmfSAfgBQVVfeXFMUFRteWptRmtaUmdQZmswZ2JadUhiSHU1d0Y1WUJOTmdzakJOVVFiaFdLTWExbkJYUWh1NElWUlI0UWxSX3JNMHMwRjk4WlRQSzZ1NnZEZ2FReVVRcjNGWEY2WWM5NEhQUFl3T2lKQ1hocFU5QzdIZDhscUEwaHE2d0ZXUUtKNHQzcDByeFBRaTBCRDdyZzBXTnIzMDB5S1BlZzN6MmlVV2R2VDBCRnhGNFlyYkxySmw1V1FlaE80cE5DemExcjN2WlNYN19TSmtGOFVCUUNydXlVUUN3d2dPUm1ic1VYMm9Welo2WkFVcVNGWDY0UHJmdWg?oc=5",
+   "fecha": "2026-11-17T16:19",
+   "equipo": "FC Cartagena",
+   "tipos": []
+  },
+  {
    "titulo": "Sandroni valora \"el buen momento\" de la Minera y Vélez \"la confianza\" del Efesé",
    "fuente": "Murcia Plaza",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1pNd01sZWRUVm5vc2FRM3ZCaXVKcjNqRno1QUVJa2c3dm9oc3A1Q0xRMk5TNzZ6a2gtWGU4cm1SYm9SWFV0UVZkUHFQN2NzZm9LekROYjlic3l5SEFyOHlUWUFiemxjX2JIZGVDNk9BQ3ZIaEZXUjFoeTlKdDI3YUZGeWoxMkxNX0thUlNVcjUwdzV3S0d1TF9iMG1qR1NsamlETFFubDRjZ3JodWpzdC1fYWtBYkxoTlhqTHNpZXB3TnFXVGc?oc=5",
@@ -646,6 +630,14 @@
  ],
  "1644373": [
   {
+   "titulo": "Borja Iglesias confiesa el consejo de Manuel Pellegrini que no siguió en el Betis: \"La barba\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2IzX3NsNjRiT0xhSlpzVjZWZW51RlFLVGMycFRUcDFpN252eUVOWVJrVGV1X3YxcXNsMWc3dWQ1VmRPdktfb3lBZjB6T0NhQkl3ZHZXeE1aQUQ5UzN0XzdpbFBOZXRfc3JoVV9PUllFV2xBRV9vUUpRRXFpd3JJYTcyeExIZ3dmZlhsVkc2RlBNSUpoNzdYR1B1cEN4T283bzVfWFQwRWRGWHNYVV9raWI1TGVWOG1wTW9NSmNWSEJrenNEN1RqRlg5ckQ4a3FfeFViUnVNQU1vbDNkZDhaUHo3aw?oc=5",
+   "fecha": "2026-11-18T11:15",
+   "equipo": "Reddis",
+   "tipos": []
+  },
+  {
    "titulo": "No lo ha anunciado, pero lleva meses sin jugar: el único campeón del Mundo de 2010 que falta por retirarse",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0k1ZmhQbFVJbEF0OUJZdFdyQm9xek44aDZJT2VseEExOW4wRVBYSl9HcjVZeHBzc1hLTGxwTmcxcUtOaS1tSldJTEhpV3hLcklFcWdHOVhmenhSNzdoenJ0bFJaRWNqTDh6dGp2ZTZjWktGUGp1NmZOR3ZncW5IRklFWEJLT1hjWTJDbkt2V0Q0RnM1aUVnbVVQa2pwei14QkpLdWJ1WWRIb3pZTW9uRmkyWmVadw?oc=5",
@@ -659,22 +651,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDNFektTLXYzdVNvUnZfNkdLcGFkQ0YwaENXOUFVX0FWbVRld1pyOTJtVjJfcE1sejZwbzFadWp0dzc4QTR3Z0gzcXhwb0VxT0RHN3RMS3laQmlPS01rS3ZGMzFQRW9zOTg4UVZvRkptQlExNmZ5ekk5c0tabUZ0QV9YS2FvX3pkRFhEeXVCd0dtZ1cta09RRlNjcHdFUThq?oc=5",
    "fecha": "2026-11-18T10:11",
    "equipo": "Reddis",
-   "tipos": []
-  },
-  {
-   "titulo": "Ibai Gómez, exentrenador de Jesús Owono: \"Sería una pena cargarnos a una segunda persona\"",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDZZNnUzYjNQaEllbDEySmtkTXVYdVVuV1FLUWt4Y0l1WHdnMG1WeEJpMC16cUtpQ2FHYTJVREhOY2VSSk40TGNmdHdyN3FMeUJBbW44emFPTFN1NVZBX0xBR2c5ekpWSWpWVkptbnhPalZiOEV1T0J1d2RvQU00NURRU2doZXVqRDd5eVEzXzRZY2JzVzVLNGlRRG5mRlFIdExkcVdLbld1cGpaclUwYk5CR2tZb3BXQlVlSmM0VQ?oc=5",
-   "fecha": "2026-11-18T08:42",
-   "equipo": "Barakaldo",
-   "tipos": []
-  },
-  {
-   "titulo": "El Reus FCR busca otra gesta en la Copa del Rey",
-   "fuente": "SPORT",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2tpTFNJMlNyandERmk3V1VsLXdNMlp6ckJkNDVtTGZxUHUxUG1kby1ldHQxdHB2UXIxem8td01RUXRrTVI0ekZmOER4UG01aVIzMFF1VXZlUC1IRzNKazhMVFlEMUNZblBPNkpNM241VkN1ZW9QbEdtNlVYT21fQkhCUzZiZkw3ZVRR0gGLAUFVX3lxTE5na2lMU0kyU3Jqd0RGaTdXVWwtd00yWnpyQmQ0NW1MZnFQdTFQbWRvLWV0dDF0cHZRcjF6by13TVFRdGtNUjR6RmY4RHhQbTVpUjMwUXVVdmVQLUhHM0prOExUWUQxQ1luUE82Sk0zbjVWQ3Vlb1BsR202VVhPbV9CSEJTNmJmTDdlVFE?oc=5",
-   "fecha": "2026-11-18T08:00",
-   "equipo": "Barakaldo",
    "tipos": []
   },
   {
@@ -722,7 +698,7 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYTJTeXZ5U01xOFhXcUlmSjI3eE1PcjNnRHdzMG5leDBWeVZtTm9jR0xvbW1vVzVVU3dBUlYzV3hibVpoY2ZNY3VkYjZPb3AxR3k3d2ZrTWlsbDZWRWlVbXRMY0QtM0ZFR2lKS21mUGV2VjZ4ZmE1bDJXWHN2a2ptY0YzMmJiN1NpdTNOdXdsc2RFTl9BakdaZUkzQkJCOW5aZUdDYmxWSEtid0hiSEJYZkZuNXkwdUNjUXJWMmpqVGlqeGJQR3hIcUNmSDlzLWhDU1E?oc=5",
    "fecha": "2026-11-17T22:46",
-   "equipo": "Reddis",
+   "equipo": "Barakaldo",
    "tipos": []
   },
   {
@@ -738,14 +714,6 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRF8tTC00ajl3TUZwbV8tZU9QYnYwc190TGNhY0gzSmIzLThudko2cTdCM3NiYVdQVElIOVVwUXhrdEFjOTBjQklrd0lNLUd0clU4OEF3SFhIRmh0Y3BzVHMyc2IxQzNza3R5Vk9Kb0Y0WC1TcFpfcVNwSFpKQkxXV0xmWFhINzBZd1ZEZHpPVDRhbFVDclF5SGg2eGtBcGRzd2szU3dTS2hucWo5M1V4MVJ1RWNVOGo2?oc=5",
    "fecha": "2026-11-17T15:15",
-   "equipo": "Reddis",
-   "tipos": []
-  },
-  {
-   "titulo": "Muere Blas Ziarreta, uno de los grandes responsables del auge de la cantera y la filosofía del Athletic",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnFmLXVaSFR5dXBoZTNLWDVtcnh2TlVkd1c0X3k2MGJ2SlRCcVhqZFd6MmZOSVU4TDA2MlBWbFZKTjVJeXJfWTZFenN1a3lvTS1EeEM0eEdZQUkzYlZOa2puRXdhZG9SVXJFTU0xaDd5RlBLekg0aElsVl9qd0t0bnZZdHpDaksybXRFTC1YTUoyZWE5Uk5xNVlTWXNSWWdtekRpMHVxdl9VcDhIMzBzSXRhOVJiclZ2dFpmWllKT2I3aHdUY0cxeUVaTW5ZMmZnNzhJ?oc=5",
-   "fecha": "2026-11-17T11:59",
    "equipo": "Barakaldo",
    "tipos": []
   },
@@ -780,14 +748,6 @@
    "fecha": "2026-11-18T08:27",
    "equipo": "Barcelona W",
    "tipos": []
-  },
-  {
-   "titulo": "El Barça hará historia en el Mundial de Clubs",
-   "fuente": "Artículo 14",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3ljTEJ0bVk3cVhnclVRTGRPdWZuejcwS1JEMUlSTHRrWHNlMnNURjJaVVpTZVhudE85eG1lamtaZDJTdXozYnZBMUVIdHBfMFJ6c2k1TTRHVkptNlhBY3ZWdE5BSkdxMDl4TUsxRnlRem1xM3lpbjVGdks0SjVnUGdnU05UbGw3TnhlVkNJS3lLR3ZMZExTVjd3?oc=5",
-   "fecha": "2026-11-18T01:06",
-   "equipo": "Barcelona W",
-   "tipos": []
   }
  ],
  "1638333": [
@@ -804,7 +764,7 @@
   {
    "titulo": "El capitán del Real Mallorca, Antonio Raíllo, declara en el juzgado por coacciones e injurias a su expareja",
    "fuente": "Ultima Hora",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMWxteGxIeFgwWkl2TmFqbVRuc0pNQlFqRUFVbElfQnJvRzliNmVRTEc3SXItRE9WdUYzdWFsRXUycUM4TnhBTnRKeU9TVjB2LURyMXdsRVdwRkJSOUI3ODJtQXF1X2I3T1BZMzRLRDBSZjlJNXhRWV9tUVJhUEpNWkItSE8tazJmd05OYWlsel85Y2dKYm5ZR2ExZ2pLTkJmNmVNbkJ1Y3huTjJtSk0tMDF6bF9ib0Q3QjJQYXh6NTd5OGlxS2MyZE9TYXNMbWNXdnNnVzVUcDdyd3hEQmpXeFNfaWlTMkpNdGfSAeoBQVVfeXFMTTFIRGd1M253Rllld3Z5R2UyWVVTLTFzMkNpWVUzQWRkdkRzaVNTcDRqU2JQa0ZZWGtYQmM2cGpwbnNzMDdKRERVYUxOanZuampudk45emFEQXBTN1A2VllQOGhsZGpPUDZJbllsVGtKTmczZTR6TUFuc3p5V29KNXg0dUhBZk9oWFlwTzFJclN1c2ZjTV9RMXU4anJtaHdyQTk5ZUpueTdxMnUwVmp4RWJOcXhsSVdmVk1nMmNFaGEzUE5XNjlYMWtHNkVtdUNFSGVqMUxVMk1uVTJKRW83WV9yNUdwZlpnX0Z3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMUhEZ3UzbndGWWV3dnlHZTJZVVMtMXMyQ2lZVTNBZGR2RHNpU1NwNGpTYlBrRllYa1hCYzZwanBuc3MwN0pERFVhTE5qdm5qam52Tjl6YURBcFM3UDZWWVA4aGxkak9QNkluWWxUa0pOZzNlNHpNQW5zenlXb0o1eDR1SEFmT2hYWXBPMUlyU3VzZmNNX1ExdThqcm1od3JBOTllSm55N3EydTBWanhFYk5xeGxJV2ZWTWcyY0VoYTNQTlc2OVgxa0c2RW11Q0VIZWoxTFUyTW5VMkpFbzdZX3I1R3BmWmdfRnfSAeoBQVVfeXFMTTFIRGd1M253Rllld3Z5R2UyWVVTLTFzMkNpWVUzQWRkdkRzaVNTcDRqU2JQa0ZZWGtYQmM2cGpwbnNzMDdKRERVYUxOanZuampudk45emFEQXBTN1A2VllQOGhsZGpPUDZJbllsVGtKTmczZTR6TUFuc3p5V29KNXg0dUhBZk9oWFlwTzFJclN1c2ZjTV9RMXU4anJtaHdyQTk5ZUpueTdxMnUwVmp4RWJOcXhsSVdmVk1nMmNFaGEzUE5XNjlYMWtHNkVtdUNFSGVqMUxVMk1uVTJKRW83WV9yNUdwZlpnX0Z3?oc=5",
    "fecha": "2026-11-17T14:52",
    "equipo": "Mallorca",
    "tipos": [
@@ -822,8 +782,16 @@
   {
    "titulo": "Juan Mata anuncia su retirada del fútbol profesional",
    "fuente": "Diario de Mallorca",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWs2bE5PUi13RVdIVExjNU9vSWJNeFpiSGROU0wwMXdYNUpuTERiS2RxemFaQlRJUkxZYUtTcFk1SjFNOEN5cUZGVnhuMWlBNzQ0QmJ3b05ZWGx2c3FwTXc3dTdvaGViUDVmbV9sSDNyZndReGkxLWZydXBnVDA4SGVBUGdEVUdTZTcyWjVYTFFEY0lXSTZDZGZob1JOQ3c1c2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWs2bE5PUi13RVdIVExjNU9vSWJNeFpiSGROU0wwMXdYNUpuTERiS2RxemFaQlRJUkxZYUtTcFk1SjFNOEN5cUZGVnhuMWlBNzQ0QmJ3b05ZWGx2c3FwTXc3dTdvaGViUDVmbV9sSDNyZndReGkxLWZydXBnVDA4SGVBUGdEVUdTZTcyWjVYTFFEY0lXSTZDZGZob1JOQ3c1c2fSAacBQVVfeXFMTjdDaExfcVlZVklVT3czV3JQWFRsakFoYkFDaVMyVTlmQVFEeHlKUTR5Y0swX0VHZjRWUWx4cENmQkZfazE5YTFNRnRMYU9hWkowbjZqYUd1UHF6WTRjb0ZsMG44ck8tUlhiR0s2aEIxZ1VvdnM0blI5MVJZOVRvanE5d2NRaE5zbkFGRHJNNjQtTDQyOEZvMC1xQzd1dkw4TU9HYWNoUTg?oc=5",
    "fecha": "2026-11-18T10:45",
+   "equipo": "Mallorca",
+   "tipos": []
+  },
+  {
+   "titulo": "El Mallorca estudia los avales de Rufete",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjJSUHhiazRvYkc5eGlEOUJqTm1Vd2RZR0o3U0l5Ri1yRGNZVTZWd0FSc2MxOFRveDVTT0MyazNvYWptMjZMNW8xZGd3YVk0Zk4yaVFPekU0Nm91YjFObjNpeE1DUFJKOHdPWllwazF6MUJxWkpyNkVvU0FuS3lIZDBsRTNtVUZmS1U0ZWxpbkpmV2k0YnBMZ3lMMHbSAZwBQVVfeXFMT0IyUlB4Yms0b2JHOXhpRDlCak5tVXdkWUdKN1NJeUYtckRjWVU2VndBUnNjMThUb3g1U09DMmszb2FqbTI2TDVvMWRnd2FZNGZOMmlRT3pFNDZvdWIxTm4zaXhNQ1BSSjh3T1pZcGsxejFCcVpKcjZFb1NBbkt5SGQwbEUzbVVGZktVNGVsaW5KZldpNGJwTGd5TDB2?oc=5",
+   "fecha": "2026-11-18T10:41",
    "equipo": "Mallorca",
    "tipos": []
   },
@@ -860,14 +828,6 @@
    "tipos": []
   },
   {
-   "titulo": "Posibles rivales de España en cuartos de la Nations League: sorteo, fechas y formato",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYTJTeXZ5U01xOFhXcUlmSjI3eE1PcjNnRHdzMG5leDBWeVZtTm9jR0xvbW1vVzVVU3dBUlYzV3hibVpoY2ZNY3VkYjZPb3AxR3k3d2ZrTWlsbDZWRWlVbXRMY0QtM0ZFR2lKS21mUGV2VjZ4ZmE1bDJXWHN2a2ptY0YzMmJiN1NpdTNOdXdsc2RFTl9BakdaZUkzQkJCOW5aZUdDYmxWSEtid0hiSEJYZkZuNXkwdUNjUXJWMmpqVGlqeGJQR3hIcUNmSDlzLWhDU1E?oc=5",
-   "fecha": "2026-11-17T22:46",
-   "equipo": "Alcoyano",
-   "tipos": []
-  },
-  {
    "titulo": "Mallorca - Real Madrid 5-2",
    "fuente": "Flashscore.es",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVU5VbnFDemFwaUZBQVB0cGhCTVFqRHNyQ2JwZG1UV0EweUlLbzU4TWlKS2ZhZERwczM3OV9YemVxeVR2UnBOdUMzMFZnSnVGRmdVVUpVekxMby1sOW9mU0dMVENuMzJsdW9TdjZCVlB5aDR2MXdacHNmZE05Wm5yb1AxVURmS1Z2aUVyNERVME5EamFGRXpSbEhvT0tTT3ZlOVBldVc0clFKYjJVa205bWlPdmxEbURkdjY0eDlFZVRyZVV6cXpV?oc=5",
@@ -881,14 +841,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzJkUTFvRU5qWTZKQXBTQ19HellQdnpnQW9lNzVfOXdqakxBZFJaTGo4dnVOMVRLOG9OLXd4TkVpTjIweTlETmZ0YUlRS09OeVEwYnRrbnFaNTFCSHpZc1lNbDBQY2cxeldKRmw4WU1jbm14enhWTmQ3Yldkb2JrLXlTLUg0aXA5bmJ5NEdjZlhBN3daWEtBbE1EWE5sVDVubmfSAbYBQVVfeXFMTloxaFdPbUYtRDZIaG5XZ3UyOHJYb0piNmdwZTRDZzlNR3NOVElWQ2RRazhlTXFZSWxSaXE5TlUyczZNRk1Hd3BTckZJLXplbmpWcEl0MW1iYzcybHVJaUZvbWw1cG1zbUVEcWZNUnJwb0MtSHRJSy1OWXUyWExCcEdaOHJGS1FWRTZIZ3dWNHZlZUNZUWVwLUg4Mnl6c242QlNuX0kwYzZ2TmJ6bDZRRWV2MTNaS1E?oc=5",
    "fecha": "2026-11-17T19:57",
    "equipo": "Mallorca",
-   "tipos": []
-  },
-  {
-   "titulo": "Antiviolencia sanciona al Real Madrid por la pancarta contra Javier Tebas ante el Sevilla",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFI5YmkyRWNrUUhQV005RndkMXVHZnAzc0M3YjNwOGpyd1FwNHp6Y0hfUnIxN2N3aFdrWFh2TUxWUlFXUkpWQTdxdUVTS1ZYMVdscnM2eXRVZXU2VU1aQWxFRXY3dnRLdDdEMk12WEJHVnJPMWtqc0VVcW9odlQ1MVRjbW1LalRGemgydk0wNTV1SGdVZkl5eFZ2VGVTOFl3R2VkTEF5VGV2bHJUR0xvQVBrYjNlUGpkTUxrV1lPSWRhUGZnSnNvTTBxblFwc3psYkpLNEN5ZlRmaHc?oc=5",
-   "fecha": "2026-11-17T18:41",
-   "equipo": "Alcoyano",
    "tipos": []
   },
   {
@@ -953,14 +905,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYVJZZTZVNHg0QmcwVlR4NXNDQm1rQlhzcV9PVGt4Z2ZyVjh4SGhkLURrN05qOVpnTDZSZjBDZ1JNdzhUR0pKNkIxcElPTlFmNWFTbk5iTUdyc080Q3A4T2t3RlVBd2pWWkZIR1Q2SjFqcy1kRlRNRU1QTEc5YlJFcEVDVV9iN1NMTlY1VDQtdXlNTF9VUzZTczg4cDR6N2tfNWt3TnZ3S1JJaEpDUU94dmtqSXU4SmdBRnJZVnMycjgwWDZFUVh0MWQ0bmpUV3VKNm9XVG5ocFdERVVBYmdtYmJ3?oc=5",
    "fecha": "2026-11-17T14:43",
    "equipo": "Alcoyano",
-   "tipos": []
-  },
-  {
-   "titulo": "Alfonso Díaz, tras el cese de Ortells: «La estructura sigue funcionando y el club está preparado»",
-   "fuente": "Ultima Hora",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM3hFNDFycjhfQllDcTk5d0htVVAxaXFiZjBITV9xR2JIRks4VF9sbk1NLUcwN0FjT0dWZS13S2lBc21vREdBWmRqVENKT2E4S3F6NkRpajR6ZXpVTDBnOGhDM3Z3YUczVlp5ZE9Ud2p2TkwyZmxBeEZtQkpnUElKX0lxS1ZBOHhpbFVwbENMVDRtREV6VThqVkJCLVcxRm84dEV6c2RlMTBwQTdTMFZBVWNnRjNKLXJPR2MxTlh4RHQycHN5YjNsdVZiaXdKaVFicTh1b2pLYmxMSWhFUml1SEVzMXFZUnc?oc=5",
-   "fecha": "2026-11-17T13:48",
-   "equipo": "Mallorca",
    "tipos": []
   },
   {
