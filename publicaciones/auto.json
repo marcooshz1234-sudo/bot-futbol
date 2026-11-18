@@ -7416,7 +7416,7 @@
   {
     "id": "2026-11-18-combi-tres",
     "fecha": "2026-11-18T13:30",
-    "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n⚽ Más de 1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Häcken (fem.) marca\n\n📈 Cuota @2,89",
+    "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n⚽ Más de 1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Häcken (fem.) marca\n\n📈 Cuota @2,62",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7426,8 +7426,9 @@
     ],
     "cuotas": [
       1.67,
-      1.73
-    ]
+      1.57
+    ],
+    "cuotas_revisadas": "2026-11-18T12:05"
   },
   {
     "id": "2026-11-19-ganadores-champions-fem",
