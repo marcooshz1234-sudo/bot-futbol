@@ -8730,11 +8730,11 @@
       "1638312|Home Player Shots|Annamaria Serturini - 3"
     ],
     "cuotas": [
-      1.62,
+      1.53,
       1.73,
       1.62,
       1.83,
-      1.83,
+      1.8,
       1.62
     ],
     "solo_en": [
@@ -8746,7 +8746,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T12:38"
   },
   {
     "id": "2026-11-18-loca-th-1400-ganaambos",
@@ -8759,8 +8760,8 @@
       "1638312|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      2.75,
-      2.6,
+      2.4,
+      2.5,
       2.75,
       2.75
     ],
@@ -8773,7 +8774,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T12:38"
   },
   {
     "id": "2026-11-18-loca-th-1430-escudos",
