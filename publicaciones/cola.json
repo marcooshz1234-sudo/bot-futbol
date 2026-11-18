@@ -8790,6 +8790,15 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-18-escalera"
+    "verde_de": "2026-11-18-escalera",
+    "enviado": "2026-11-18T19:57",
+    "mensaje_id": 542,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17893311450627596"
+    }
   }
 ]
