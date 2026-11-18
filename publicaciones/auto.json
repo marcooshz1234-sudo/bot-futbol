@@ -7371,7 +7371,7 @@
     "cuotas": [
       1.67,
       1.83,
-      1.83
+      1.8
     ],
     "solo_en": [
       "threads"
@@ -7383,7 +7383,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T14:00"
+    "cuotas_revisadas": "2026-11-18T14:33"
   },
   {
     "id": "2026-11-18-loca-th-1545-goleadoras",
@@ -7422,8 +7422,8 @@
       "1638306|Away Player Shots|Laura Blindkilde - 2"
     ],
     "cuotas": [
-      1.44,
-      1.44
+      1.36,
+      1.36
     ],
     "solo_en": [
       "threads"
@@ -7434,7 +7434,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T14:33"
   },
   {
     "id": "2026-11-18-loca-th-1630-escudos",
