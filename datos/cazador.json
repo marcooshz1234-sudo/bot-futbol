@@ -33,28 +33,6 @@
  },
  "top": [
   {
-   "local": "Badajoz",
-   "visitante": "Tenerife",
-   "inicio": "2026-11-18T20:00",
-   "texto": "Badajoz o empate",
-   "cuota": 2.15,
-   "justa": 2.07,
-   "ev": 0.037,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Alcoyano",
-   "visitante": "Mallorca",
-   "inicio": "2026-11-18T20:00",
-   "texto": "Mallorca marca 2 o más",
-   "cuota": 1.73,
-   "justa": 1.73,
-   "ev": 0.0,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
    "local": "Juventus W",
    "visitante": "OH Leuven W",
    "inicio": "2026-11-18T21:00",
@@ -63,11 +41,11 @@
    "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T19:28",
+  "hora": "2026-11-18T19:49",
   "revisadas": 0,
   "mejor": null
  },

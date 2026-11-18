@@ -136,11 +136,11 @@
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-18-1638306|Both Teams Score|Yes",
+   "clave": "repe-2026-11-18-1638301|Both Teams Score|Yes",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-18-1638301|Both Teams Score|Yes",
+   "clave": "repe-2026-11-18-1638306|Both Teams Score|Yes",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)"
   },
   {
@@ -156,31 +156,31 @@
    "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1545-goleadoras, loca-th-1730-x50)"
   },
   {
-   "clave": "repe-2026-11-18-1638306|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50)"
-  },
-  {
    "clave": "repe-2026-11-18-1638301|Anytime Goal Scorer|Agnes Beever-Jones",
    "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1545-goleadoras, loca-th-1630-escudos, loca-th-1800-x500)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638306|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50)"
   },
   {
    "clave": "repe-2026-11-18-1638312|Anytime Goal Scorer|Alba Redondo",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1545-goleadoras, loca-th-1700-escudos, loca-th-1730-x50)"
   },
   {
-   "clave": "repe-2026-11-18-1638312|Home Player Shots|Emma Godo - 2",
-   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-1930-duelo)"
-  },
-  {
-   "clave": "repe-2026-11-18-1638312|Home Player Shots|Eva Schatzer - 2",
-   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
-  },
-  {
    "clave": "repe-2026-11-18-1638312|Home Player Shots|Alba Redondo - 4",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
   },
   {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Emma Godo - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-1930-duelo)"
+  },
+  {
    "clave": "repe-2026-11-18-1638312|Home Player Shots|Kysha Sylla - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Eva Schatzer - 2",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
   },
   {
@@ -188,7 +188,7 @@
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1900-tiros, loca-th-1930-duelo, loca-th-2000-tiros)"
   }
  ],
- "revisado": "2026-11-18T19:38",
+ "revisado": "2026-11-18T19:49",
  "historial": [
   {
    "hora": "2026-11-18T15:08",
