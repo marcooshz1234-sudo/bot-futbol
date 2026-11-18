@@ -2461,13 +2461,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87092",
-   "fecha": "2026-11-17T12:06",
-   "texto": "▶️▶️▶️▶️▶️▶️▶️",
-   "foto": false,
-   "visto": "2026-11-17T12:14"
-  },
-  {
    "id": "-1002463340479/87093",
    "fecha": "2026-11-17T12:09",
    "texto": "",
@@ -3955,8 +3948,15 @@
    "fecha": "2026-11-18T19:59",
    "texto": "",
    "foto": true,
-   "visto": "2026-11-18T20:00",
+   "visto": "2026-11-18T20:04",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87296.jpg"
+  },
+  {
+   "id": "-1002463340479/87297",
+   "fecha": "2026-11-18T20:01",
+   "texto": "🔘 STAKE 3⚽️\n🏆 SERIE A🇧🇷\n🍀CLUBE DO REMO GANA EL PARTIDO\n🔞 Apuestacon responsabilidad\nREGÍSTRATE, JUEGA 30€ Y GANA 200€ DESDE AQUÍ",
+   "foto": false,
+   "visto": "2026-11-18T20:04"
   }
  ],
  "TipsAnalistasNBA🏀": [

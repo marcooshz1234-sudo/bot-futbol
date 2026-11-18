@@ -1,7 +1,7 @@
 # Marseille – Le Mans
 **Ligue 1** · Regular Season - 11 · 22/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 14:21_

@@ -1,44 +1,44 @@
 # Deportiva Minera – FC Cartagena
 **Copa del Rey** · Round of 128 · 18/11/2026 20:30 (hora España) · Estadio Municipal Angel Celdran
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 08:25_
+_Actualizadas: 18/11 20:01_
 
-- **1X2:** 1 **2.80**  ·  X **3.00**  ·  2 **2.70**
-- **Doble oportunidad:** 1X **1.50**  ·  12 **1.36**  ·  X2 **1.40**
-- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
+- **1X2:** 1 **2.88**  ·  X **2.90**  ·  2 **2.62**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.36**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.30** · menos **1.60**
+    - 2,5: más **2.35** · menos **1.57**
     - 3,5: más **4.33** · menos **1.20**
     - 4,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.40** · menos **1.30**
-    - 2,5: más **10.00** · menos **1.06**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
-- **Goles del visitante:**
-    - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **7.00** · menos **1.10**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.00**  ·  2 **3.25**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.00**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.30** · menos **3.40**
+    - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
-- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+    - 2,5: más **6.50** · menos **1.11**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
-- **To Win Either Half:** 1 **1.91**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **4.50**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.83**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **4.50**
 - **Win Both Halves:** 1 **11.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.33**  ·  Draw/No **7.50**  ·  Away/No **4.33**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **5.50**  ·  u/no 2.5 **2.00**
+- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **4.33**  ·  Draw/No **7.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **12.00**  ·  u/yes 2.5 **5.50**  ·  u/no 2.5 **1.95**
 
 ## Estadísticas de equipo
 | | Deportiva Minera (total) | Deportiva Minera en casa | FC Cartagena (total) | FC Cartagena fuera |

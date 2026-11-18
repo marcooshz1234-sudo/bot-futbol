@@ -7716,36 +7716,6 @@
     "cuotas_revisadas": "2026-11-18T18:04"
   },
   {
-    "id": "2026-11-18-loca-th-2000-tiros",
-    "fecha": "2026-11-18T20:00",
-    "texto": "🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯\n\n⭐ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n🎯 Anouk Van Praet: 2+ tiros\n🎯 Ioanna Papatheodorou: 2+ tiros\n\n🎯 CUOTA 6,23 aprox. 💎 · 10€ → 62,30€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1638312|Home Player Shots|Eva Schatzer - 2",
-      "1638312|Home Player Shots|Kysha Sylla - 2",
-      "1638312|Home Player Shots|Alba Redondo - 4",
-      "1638312|Away Player Shots|Anouk Van Praet - 2",
-      "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.33,
-      1.73,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 6.23,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T19:39"
-  },
-  {
     "id": "2026-11-18-loca-th-2030-duelo",
     "fecha": "2026-11-18T20:30",
     "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Annamaria Serturini: 3+ tiros (Juventus (fem.))\n🎯 Ioanna Papatheodorou: 2+ tiros (OH Leuven (fem.))\n\n🎯 CUOTA 2,49 aprox. 💎 · 10€ → 24,90€\n\n👇 ¿Quién dispara más? 👇",
@@ -7786,10 +7756,10 @@
       "1638338|Match Winner|Home"
     ],
     "cuotas": [
-      1.09,
+      1.1,
       1.62,
-      1.01,
-      1.85,
+      1.0,
+      1.8,
       2.15
     ],
     "ganadores_img": {
@@ -7871,23 +7841,25 @@
   {
     "id": "2026-11-19-combi-tres",
     "fecha": "2026-11-19T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n📈 De las que hemos estudiado bien\n\n⚽ Bayern Munich (fem.) marca 3 o más\n⚽ Gana el Paris FC (fem.)\n\n📈 Cuota @2,43\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del jueves familia 🔥\n📈 De las que hemos estudiado bien\n\n⚽ Bayern Munich (fem.) marca 3 o más\n⚽ Paris FC (fem.) marca 2 o más\n⚽ SL Benfica (fem.) o empate\n\n📈 Cuota @3,21\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1638292|Total - Away|Over 2.5",
-      "1638327|Match Winner|Home"
+      "1638327|Total - Home|Over 1.5",
+      "1638338|Double Chance|Home/Draw"
     ],
     "cuotas": [
       1.5,
-      1.62
+      1.53,
+      1.4
     ]
   },
   {
     "id": "2026-11-19-pick-seguro-2",
     "fecha": "2026-11-19T18:00",
-    "texto": "Este lo tenemos claro 🔥\n\n⚽ Arsenal (fem.) – Lyon (fem.) · 21:00\n\n🍀 Lyon (fem.) gana alguna de las dos partes @1,44\n\n👨‍💻 La cuota de que gane Lyon (fem.) ha bajado de 2,2 a 1,85: el mercado lo ve más claro\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Este lo tenemos claro 🔥\n\n⚽ Arsenal (fem.) – Lyon (fem.) · 21:00\n\n🍀 Lyon (fem.) gana alguna de las dos partes @1,44\n\n👨‍💻 La cuota de que gane Lyon (fem.) ha bajado de 2,2 a 1,8: el mercado lo ve más claro\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7901,7 +7873,7 @@
   {
     "id": "2026-11-20-ganadores-resto",
     "fecha": "2026-11-20T00:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇷🇴 FC Botosani - Win\n2. 🇩🇰 Aarhus Fremad - Win\n3. 🇷🇴 Universitatea Cluj - Win\n4. 🇩🇪 Bayern - Win\n5. 🇪🇸 FC Andorra - Win\n6. 🇫🇷 Estac Troyes - Win\n7. 🇪🇸 Athletic Club - Win",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇷🇴 FC Botosani - Win\n2. 🇩🇰 Aarhus Fremad - Win\n3. 🇩🇪 Bayern - Win\n4. 🇪🇸 FC Andorra - Win\n5. 🇫🇷 Estac Troyes - Win\n6. 🇪🇸 Athletic Club - Win",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7910,7 +7882,6 @@
     "sel": [
       "1565308|Match Winner|Home",
       "1551377|Match Winner|Home",
-      "1565306|Match Winner|Away",
       "1575221|Match Winner|Home",
       "1570025|Match Winner|Home",
       "1552827|Match Winner|Home",
@@ -7919,10 +7890,9 @@
     "cuotas": [
       1.7,
       1.9,
-      2.25,
-      1.07,
-      1.85,
-      2.1,
+      1.08,
+      1.83,
+      2.15,
       1.45
     ],
     "ganadores_img": {
@@ -7942,14 +7912,6 @@
           "bandera": "🇩🇰",
           "escudo_url": "https://media.api-sports.io/football/teams/6004.png",
           "nombre": "Aarhus Fremad",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "Romania",
-          "bandera": "🇷🇴",
-          "escudo_url": "https://media.api-sports.io/football/teams/2599.png",
-          "nombre": "Universitatea Cluj",
           "pick": "WIN",
           "seleccion": false
         },
@@ -8006,24 +7968,24 @@
   {
     "id": "2026-11-20-combi-tres",
     "fecha": "2026-11-20T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇩🇰 Kolding IF o empate\n🇷🇴 Farul Constanta o empate\n\n📈 Cuota @2,34\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del viernes familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇩🇰 Kolding IF o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n\n📈 Cuota @2,14\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1551380|Double Chance|Home/Draw",
-      "1565306|Double Chance|Home/Draw"
+      "1575221|Player Fouls Committed|Dayot Upamecano - 1"
     ],
     "cuotas": [
       1.53,
-      1.53
+      1.4
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-20-combi-multi",
     "fecha": "2026-11-20T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS x10,08! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Botosani hace más córners\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS x9,89! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Botosani hace más córners\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -8039,7 +8001,7 @@
       1.57,
       1.53,
       1.4,
-      1.53,
+      1.5,
       1.4,
       1.4
     ],

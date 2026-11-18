@@ -1,7 +1,7 @@
 # Sparta Rotterdam – AZ Alkmaar
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Sparta Stadion Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_

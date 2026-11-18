@@ -3474,7 +3474,15 @@
    "El PSG tiene pegada arriba para hacer daño a la contra",
    "Línea de 2.5 asumible en un cruce entre dos equipos ofensivos"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1638301,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.4,
+   "prob_cuota": 0.654,
+   "prob_pinnacle": 0.607,
+   "valor_pinnacle": -0.071
+  }
  },
  {
   "tipster": "TipsPro🤙",
@@ -3494,6 +3502,11 @@
    "Se espera que el favorito golpee pronto y el partido tenga goles",
    "La combinación pide poco: un gol antes del descanso y al menos tres en total"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1638312,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "prob_cuota": 0.667
+  }
  }
 ]

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18 14:24",
+ "generado": "2026-11-18 20:05",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -44,7 +44,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.183,
      "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
-     "valor_mercado": 0.012,
+     "valor_mercado": 0.006,
      "movimiento": -0.115,
      "cuota_inicial": 1.83,
      "posiciones": [
@@ -92,7 +92,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.183,
      "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
-     "valor_mercado": 0.012,
+     "valor_mercado": 0.006,
      "movimiento": -0.115,
      "cuota_inicial": 1.83,
      "posiciones": [

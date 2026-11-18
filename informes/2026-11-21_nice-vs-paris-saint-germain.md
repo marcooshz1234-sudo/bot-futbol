@@ -1,7 +1,7 @@
 # Nice – Paris Saint Germain
 **Ligue 1** · Regular Season - 11 · 21/11/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 14:21_

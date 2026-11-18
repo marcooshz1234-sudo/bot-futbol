@@ -1,7 +1,7 @@
 # FC Augsburg – FSV Mainz 05
 **Bundesliga** · Regular Season - 10 · 22/11/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_

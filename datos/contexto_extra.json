@@ -16,8 +16,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.2,
-   "temperatura": 7.7
+   "viento_kmh": 7.6,
+   "temperatura": 9.7
   }
  },
  "1638327": {
@@ -36,90 +36,15 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 17.3,
-   "temperatura": 12.9
+   "lluvia_mm": 0.0,
+   "viento_kmh": 18.9,
+   "temperatura": 13.1
   },
   "cuotas": {
    "Home": [
     1.8,
     1.62
    ]
-  }
- },
- "1644346": {
-  "local": {
-   "nombre": "Badajoz",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Tenerife",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.9,
-   "viento_kmh": 25.2,
-   "temperatura": 19.1
-  },
-  "cuotas": {
-   "Away": [
-    1.57,
-    1.83
-   ]
-  }
- },
- "1644384": {
-  "local": {
-   "nombre": "Utebo",
-   "dias_desde": 4,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Sabadell",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": 2,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.2,
-   "viento_kmh": 5.5,
-   "temperatura": 19.9
-  },
-  "cuotas": {
-   "Away": [
-    1.67,
-    1.53
-   ]
-  }
- },
- "1644369": {
-  "local": {
-   "nombre": "Portugalete",
-   "dias_desde": 4,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Real Unión",
-   "dias_desde": 4,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 7.4,
-   "temperatura": 19.4
   }
  },
  "1644353": {
@@ -139,17 +64,17 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.8,
-   "temperatura": 21.8
+   "viento_kmh": 6.7,
+   "temperatura": 21.7
   },
   "cuotas": {
    "Home": [
     3.2,
-    2.8
+    2.88
    ],
    "Away": [
     2.3,
-    2.7
+    2.62
    ]
   }
  },
@@ -169,9 +94,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.4,
-   "viento_kmh": 8.1,
-   "temperatura": 18.2
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.8,
+   "temperatura": 19.1
   }
  },
  "1638338": {
@@ -191,8 +116,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.0,
-   "temperatura": 13.5
+   "viento_kmh": 3.0,
+   "temperatura": 14.0
   },
   "cuotas": {
    "Home": [
@@ -226,8 +151,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.6,
-   "temperatura": 1.2
+   "viento_kmh": 7.2,
+   "temperatura": 0.9
   },
   "arbitro": {
    "nombre": "M. Thomsen",
@@ -252,8 +177,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 15.1,
-   "temperatura": 11.2
+   "viento_kmh": 20.8,
+   "temperatura": 10.4
   }
  },
  "1638312": {
@@ -273,8 +198,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.7,
-   "temperatura": 10.7
+   "viento_kmh": 6.1,
+   "temperatura": 9.1
   }
  },
  "1638286": {
@@ -294,13 +219,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.0,
-   "temperatura": 7.6
+   "viento_kmh": 4.0,
+   "temperatura": 6.7
   },
   "cuotas": {
    "Away": [
     2.2,
-    1.85
+    1.8
    ]
   }
  },
@@ -321,71 +246,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.1,
+   "viento_kmh": 7.6,
    "temperatura": 15.7
-  }
- },
- "1638333": {
-  "local": {
-   "nombre": "Real Madrid W",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Inter Milano W",
-   "dias_desde": 7,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 28,
-   "siguiente_europa": "Champions femenina"
-  },
-  "tiempo": {
-   "lluvia_mm": 4.3,
-   "viento_kmh": 10.7,
-   "temperatura": 14.9
-  }
- },
- "1644334": {
-  "local": {
-   "nombre": "Alcoyano",
-   "dias_desde": 3,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Mallorca",
-   "dias_desde": 4,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 25.8,
-   "temperatura": 21.3
-  }
- },
- "1638306": {
-  "local": {
-   "nombre": "Häcken W",
-   "dias_desde": 8,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 28,
-   "siguiente_europa": "Champions femenina"
-  },
-  "visitante": {
-   "nombre": "Manchester City W",
-   "dias_desde": 7,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 28,
-   "siguiente_europa": "Champions femenina"
-  },
-  "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 20.9,
-   "temperatura": 2.3
   }
  }
 }

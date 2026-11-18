@@ -1,38 +1,34 @@
 # Próximos partidos
 
-_Actualizado el 18/11/2026 14:22 (hora España). Partidos guardados en la base de datos: 2655._
+_Actualizado el 18/11/2026 20:03 (hora España). Partidos guardados en la base de datos: 2655._
 
 
 ## Miércoles 18/11
-- 18:45 · Champions Femenina · [Real Madrid W – Inter Milano W](informes/2026-11-18_real-madrid-w-vs-inter-milano-w.md) · 1X2: 1.22 / 6.25 / 9.50
-- 18:45 · Champions Femenina · [Häcken W – Manchester City W](informes/2026-11-18_hacken-w-vs-manchester-city-w.md) · 1X2: 7.50 / 6.00 / 1.27
-- 19:00 · Copa del Rey · [Portugalete – Real Unión](informes/2026-11-18_portugalete-vs-real-union.md) · 1X2: 3.00 / 3.20 / 2.40
-- 19:00 · Copa del Rey · [Utebo – Sabadell](informes/2026-11-18_utebo-vs-sabadell.md) · 1X2: 6.25 / 4.00 / 1.53
-- 20:00 · Copa del Rey · [Badajoz – Tenerife](informes/2026-11-18_badajoz-vs-tenerife.md) · 1X2: 4.20 / 3.50 / 1.83
-- 20:00 · Copa del Rey · [Alcoyano – Mallorca](informes/2026-11-18_alcoyano-vs-mallorca.md) · 1X2: 6.25 / 3.90 / 1.55
-- 20:30 · Copa del Rey · [Deportiva Minera – FC Cartagena](informes/2026-11-18_deportiva-minera-vs-fc-cartagena.md) · 1X2: 2.80 / 3.00 / 2.70
-- 20:30 · Copa del Rey · [Reddis – Barakaldo](informes/2026-11-18_reddis-vs-barakaldo.md) · 1X2: 3.60 / 3.25 / 2.05
-- 21:00 · Champions Femenina · [Chelsea W – Paris Saint Germain W](informes/2026-11-18_chelsea-w-vs-paris-saint-germain-w.md) · 1X2: 1.27 / 5.25 / 9.50
-- 21:00 · Champions Femenina · [Juventus W – OH Leuven W](informes/2026-11-18_juventus-w-vs-oh-leuven-w.md) · 1X2: 1.33 / 5.00 / 8.00
+- 20:00 · Copa del Rey · [Badajoz – Tenerife](informes/2026-11-18_badajoz-vs-tenerife.md) · 1X2: 5.50 / 3.75 / 1.60
+- 20:00 · Copa del Rey · [Alcoyano – Mallorca](informes/2026-11-18_alcoyano-vs-mallorca.md) · 1X2: 7.50 / 4.20 / 1.45
+- 20:30 · Copa del Rey · [Deportiva Minera – FC Cartagena](informes/2026-11-18_deportiva-minera-vs-fc-cartagena.md) · 1X2: 2.88 / 2.90 / 2.62
+- 20:30 · Copa del Rey · [Reddis – Barakaldo](informes/2026-11-18_reddis-vs-barakaldo.md) · 1X2: 3.70 / 3.20 / 2.05
+- 21:00 · Champions Femenina · [Chelsea W – Paris Saint Germain W](informes/2026-11-18_chelsea-w-vs-paris-saint-germain-w.md) · 1X2: 1.36 / 5.00 / 6.50
+- 21:00 · Champions Femenina · [Juventus W – OH Leuven W](informes/2026-11-18_juventus-w-vs-oh-leuven-w.md) · 1X2: 1.20 / 6.25 / 11.00
 
 ## Jueves 19/11
 - 18:45 · Champions Femenina · [Paris FC W – Køge W](informes/2026-11-19_paris-fc-w-vs-kge-w.md) · 1X2: 1.62 / 4.20 / 4.50
-- 18:45 · Champions Femenina · [Austria Wien W – Bayern Munich W](informes/2026-11-19_austria-wien-w-vs-bayern-munich-w.md) · 1X2: 15.00 / 11.00 / 1.09
+- 18:45 · Champions Femenina · [Austria Wien W – Bayern Munich W](informes/2026-11-19_austria-wien-w-vs-bayern-munich-w.md) · 1X2: 15.00 / 10.00 / 1.10
 - 19:00 · 1. Division · [FC Fredericia – Hillerød](informes/2026-11-19_fc-fredericia-vs-hillerd.md) · 1X2: 1.33 / 5.50 / 7.00
-- 21:00 · Champions Femenina · [Arsenal W – Lyon W](informes/2026-11-19_arsenal-w-vs-lyon-w.md) · 1X2: 3.40 / 4.10 / 1.85
-- 21:00 · Champions Femenina · [Barcelona W – Servette Chênois W](informes/2026-11-19_barcelona-w-vs-servette-chenois-w.md) · 1X2: 1.01 / 23.00 / 51.00
+- 21:00 · Champions Femenina · [Arsenal W – Lyon W](informes/2026-11-19_arsenal-w-vs-lyon-w.md) · 1X2: 3.50 / 4.20 / 1.80
+- 21:00 · Champions Femenina · [Barcelona W – Servette Chênois W](informes/2026-11-19_barcelona-w-vs-servette-chenois-w.md) · 1X2: 1.00 / 34.00 / 51.00
 - 21:00 · Champions Femenina · [SL Benfica W – Roma W](informes/2026-11-19_sl-benfica-w-vs-roma-w.md) · 1X2: 2.15 / 3.80 / 2.80
 
 ## Viernes 20/11
 - 16:30 · Liga I · [FC Botosani – FC Voluntari](informes/2026-11-20_fc-botosani-vs-fc-voluntari.md) · 1X2: 1.70 / 3.60 / 4.33
 - 19:00 · 1. Division · [Kolding IF – Aalborg](informes/2026-11-20_kolding-if-vs-aalborg.md) · 1X2: 2.62 / 3.50 / 2.40
 - 19:00 · 1. Division · [Aarhus Fremad – Hobro](informes/2026-11-20_aarhus-fremad-vs-hobro.md) · 1X2: 1.90 / 3.60 / 3.70
-- 19:30 · Liga I · [Farul Constanta – Universitatea Cluj](informes/2026-11-20_farul-constanta-vs-universitatea-cluj.md) · 1X2: 2.80 / 3.40 / 2.25
-- 20:30 · Bundesliga · [Bayern München – 1. FC Köln](informes/2026-11-20_bayern-munchen-vs-1-fc-koln.md) · 1X2: 1.07 / 11.00 / 23.00
-- 20:30 · Segunda División · [FC Andorra – Leganes](informes/2026-11-20_fc-andorra-vs-leganes.md) · 1X2: 1.85 / 3.50 / 3.90
+- 19:30 · Liga I · [Farul Constanta – Universitatea Cluj](informes/2026-11-20_farul-constanta-vs-universitatea-cluj.md) · 1X2: 2.60 / 3.40 / 2.40
+- 20:30 · Bundesliga · [Bayern München – 1. FC Köln](informes/2026-11-20_bayern-munchen-vs-1-fc-koln.md) · 1X2: 1.08 / 13.00 / 19.00
+- 20:30 · Segunda División · [FC Andorra – Leganes](informes/2026-11-20_fc-andorra-vs-leganes.md) · 1X2: 1.83 / 3.50 / 4.33
 - 20:30 · Serie C · [Trento – Cittadella](informes/2026-11-20_trento-vs-cittadella.md) · 1X2: 2.25 / 3.10 / 2.88
-- 20:45 · Ligue 1 · [Estac Troyes – Le Havre](informes/2026-11-20_estac-troyes-vs-le-havre.md) · 1X2: 2.10 / 3.50 / 3.40
-- 21:00 · LaLiga · [Athletic Club – Espanyol](informes/2026-11-20_athletic-club-vs-espanyol.md) · 1X2: 1.45 / 4.10 / 7.50
+- 20:45 · Ligue 1 · [Estac Troyes – Le Havre](informes/2026-11-20_estac-troyes-vs-le-havre.md) · 1X2: 2.15 / 3.10 / 3.40
+- 21:00 · LaLiga · [Athletic Club – Espanyol](informes/2026-11-20_athletic-club-vs-espanyol.md) · 1X2: 1.45 / 4.33 / 7.00
 - 21:45 · Taça de Portugal · [FC Porto – Paredes](informes/2026-11-20_fc-porto-vs-paredes.md)
 
 ## Sábado 21/11
@@ -191,3 +187,24 @@ _Actualizado el 18/11/2026 14:22 (hora España). Partidos guardados en la base d
 - 21:00 · Champions League · [Shakhtar Donetsk – Fenerbahçe](informes/2026-11-25_shakhtar-donetsk-vs-fenerbahce.md) · 1X2: 2.50 / 3.50 / 2.55
 - 21:00 · Champions League · [Club Brugge KV – Liverpool](informes/2026-11-25_club-brugge-kv-vs-liverpool.md) · 1X2: 4.20 / 4.50 / 1.67
 - 21:00 · Championship · [Stoke City – Millwall](informes/2026-11-25_stoke-city-vs-millwall.md)
+
+## Jueves 26/11
+- 16:30 · Conference League · [Kairat Almaty – Mjallby AIF](informes/2026-11-26_kairat-almaty-vs-mjallby-aif.md)
+- 18:45 · Europa League · [Marseille – Levski Sofia](informes/2026-11-26_marseille-vs-levski-sofia.md)
+- 18:45 · Europa League · [Celta Vigo – Bournemouth](informes/2026-11-26_celta-vigo-vs-bournemouth.md)
+- 18:45 · Europa League · [Beşiktaş – Hapoel Beer Sheva](informes/2026-11-26_besiktas-vs-hapoel-beer-sheva.md)
+- 18:45 · Europa League · [Olympiakos Piraeus – AC Milan](informes/2026-11-26_olympiakos-piraeus-vs-ac-milan.md)
+- 18:45 · Europa League · [Plzen – Benfica](informes/2026-11-26_plzen-vs-benfica.md)
+- 18:45 · Europa League · [Red Bull Salzburg – Ararat-Armenia](informes/2026-11-26_red-bull-salzburg-vs-ararat-armenia.md)
+- 18:45 · Europa League · [Dinamo Zagreb – Bayer Leverkusen](informes/2026-11-26_dinamo-zagreb-vs-bayer-leverkusen.md)
+- 18:45 · Europa League · [Union St. Gilloise – Lech Poznan](informes/2026-11-26_union-st-gilloise-vs-lech-poznan.md)
+- 18:45 · Conference League · [Brighton – Universitatea Craiova](informes/2026-11-26_brighton-vs-universitatea-craiova.md)
+- 18:45 · Conference League · [Ajax – FC Thun](informes/2026-11-26_ajax-vs-fc-thun.md)
+- 18:45 · Conference League · [Heart Of Midlothian – Monaco](informes/2026-11-26_heart-of-midlothian-vs-monaco.md)
+- 18:45 · Conference League · [Brann – Aarhus](informes/2026-11-26_brann-vs-aarhus.md)
+- 18:45 · Conference League · [FK Jablonec – FC Lugano](informes/2026-11-26_fk-jablonec-vs-fc-lugano.md)
+- 18:45 · Conference League · [Egnatia Rrogozhinë – Lincoln Red Imps FC](informes/2026-11-26_egnatia-rrogozhine-vs-lincoln-red-imps-fc.md)
+- 18:45 · Conference League · [Pafos – FC Midtjylland](informes/2026-11-26_pafos-vs-fc-midtjylland.md)
+- 18:45 · Conference League · [FC Iberia 1999 – Getafe](informes/2026-11-26_fc-iberia-1999-vs-getafe.md)
+- 18:45 · Conference League · [Kauno Žalgiris – Riga](informes/2026-11-26_kauno-zalgiris-vs-riga.md)
+- 19:00 · 1. Division · [Aalborg – Esbjerg](informes/2026-11-26_aalborg-vs-esbjerg.md)

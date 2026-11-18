@@ -1,7 +1,7 @@
 # Lazio – Lecce
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Olimpico
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 14:20_

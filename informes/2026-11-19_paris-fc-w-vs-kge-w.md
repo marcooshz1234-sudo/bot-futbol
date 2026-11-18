@@ -1,10 +1,10 @@
 # Paris FC W – Køge W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Stade Jean-Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 08:25_
+_Actualizadas: 18/11 20:01_
 
 - **1X2:** 1 **1.62**  ·  X **4.20**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.20**
@@ -21,16 +21,17 @@ _Actualizadas: 18/11 08:25_
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **8.50** · menos **1.05**
 - **Goles del local:**
-    - 0,5: más **1.12** · menos **5.50**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **5.50** · menos **1.12**
+    - 0,5: más **1.10** · menos **6.50**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.00** · menos **1.14**
+    - 4,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **6.50** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.85** · menos **1.95**
 - **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.40**
 - **1X2 descanso:** 1 **2.05**  ·  X **2.50**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**

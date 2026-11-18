@@ -10,13 +10,22 @@
    "prob_cuota": 2.453
   },
   "TipsAnalistas": {
-   "n": 14,
+   "n": 15,
    "verdes": 9,
    "rojos": 4,
    "nulos": 0,
    "unidades": 1.43,
    "resueltos_con_cuota": 9,
    "prob_cuota": 5.496
+  },
+  "Tipster Pérez": {
+   "n": 12,
+   "verdes": 4,
+   "rojos": 4,
+   "nulos": 0,
+   "unidades": -1.86,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 5.552
   },
   "INSIDER": {
    "n": 12,
@@ -26,15 +35,6 @@
    "unidades": 2.41,
    "resueltos_con_cuota": 8,
    "prob_cuota": 6.199
-  },
-  "Tipster Pérez": {
-   "n": 11,
-   "verdes": 4,
-   "rojos": 4,
-   "nulos": 0,
-   "unidades": -1.86,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 5.552
   },
   "TRADER FOOTBALL || FREE": {
    "n": 11,
@@ -82,7 +82,7 @@
    "prob_cuota": 1.69
   },
   "TipsPro🤙": {
-   "n": 5,
+   "n": 6,
    "verdes": 5,
    "rojos": 0,
    "nulos": 0,
@@ -91,7 +91,7 @@
    "prob_cuota": 2.076
   },
   "AllSportsPicks ⚽🏀🎾": {
-   "n": 5,
+   "n": 6,
    "verdes": 1,
    "rojos": 2,
    "nulos": 0,
@@ -172,7 +172,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 22,
+   "n": 23,
    "verdes": 14,
    "rojos": 6,
    "nulos": 0,
@@ -181,7 +181,7 @@
    "prob_cuota": 10.286
   },
   "Goals Over/Under Over 2.5": {
-   "n": 12,
+   "n": 13,
    "verdes": 7,
    "rojos": 3,
    "nulos": 0,
@@ -546,11 +546,25 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Crear apuesta Palmeiras +3.5 tiros a puerta & Cruzeiro portería a 0: No": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Crear apuesta 1ª mitad +0.5 & Total +2": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 75,
+   "n": 78,
    "verdes": 34,
    "rojos": 9,
    "nulos": 0,
@@ -865,6 +879,13 @@
    "unidades": 0.3,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.769
+  },
+  "San Javier Mar Menor": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
@@ -878,7 +899,7 @@
    "prob_cuota": 26.412
   },
   "goles": {
-   "n": 29,
+   "n": 32,
    "verdes": 12,
    "rojos": 8,
    "nulos": 0,
@@ -887,7 +908,7 @@
    "prob_cuota": 14.402
   },
   "casa/fuera": {
-   "n": 20,
+   "n": 24,
    "verdes": 12,
    "rojos": 4,
    "nulos": 0,
@@ -896,7 +917,7 @@
    "prob_cuota": 8.385
   },
   "clasificación": {
-   "n": 12,
+   "n": 13,
    "verdes": 5,
    "rojos": 7,
    "nulos": 0,
@@ -943,7 +964,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 49,
+   "n": 53,
    "verdes": 24,
    "rojos": 12,
    "nulos": 0,
@@ -987,6 +1008,15 @@
   }
  },
  "liga": {
+  "?": {
+   "n": 59,
+   "verdes": 24,
+   "rojos": 7,
+   "nulos": 0,
+   "unidades": 2.77,
+   "resueltos_con_cuota": 18,
+   "prob_cuota": 11.701
+  },
   "UEFA Nations League": {
    "n": 59,
    "verdes": 38,
@@ -996,14 +1026,14 @@
    "resueltos_con_cuota": 44,
    "prob_cuota": 28.296
   },
-  "?": {
-   "n": 57,
-   "verdes": 24,
-   "rojos": 7,
+  "UEFA Champions League Women": {
+   "n": 7,
+   "verdes": 1,
+   "rojos": 3,
    "nulos": 0,
-   "unidades": 2.77,
-   "resueltos_con_cuota": 18,
-   "prob_cuota": 11.701
+   "unidades": -2.86,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 3.05
   },
   "Copa del Rey": {
    "n": 5,
@@ -1013,15 +1043,6 @@
    "unidades": -0.64,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
-  },
-  "UEFA Champions League Women": {
-   "n": 5,
-   "verdes": 1,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": -2.86,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 3.05
   },
   "Segunda División": {
    "n": 5,
@@ -1035,7 +1056,7 @@
  },
  "lado": {
   "partido": {
-   "n": 63,
+   "n": 66,
    "verdes": 27,
    "rojos": 7,
    "nulos": 0,
@@ -1044,7 +1065,7 @@
    "prob_cuota": 17.361
   },
   "local": {
-   "n": 38,
+   "n": 39,
    "verdes": 22,
    "rojos": 10,
    "nulos": 0,
@@ -1064,7 +1085,7 @@
  },
  "por_que": {
   "—": {
-   "n": 52,
+   "n": 56,
    "verdes": 21,
    "rojos": 11,
    "nulos": 0,
@@ -1138,7 +1159,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 126,
+   "n": 129,
    "verdes": 66,
    "rojos": 22,
    "nulos": 0,
@@ -1147,7 +1168,7 @@
    "prob_cuota": 46.643
   },
   "sin valor": {
-   "n": 3,
+   "n": 4,
    "verdes": 2,
    "rojos": 1,
    "nulos": 0,

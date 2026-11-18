@@ -1,10 +1,10 @@
 # FC Fredericia – Hillerød
 **1. Division** · Regular Season - 15 · 19/11/2026 19:00 (hora España) · Monjasa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 08:25_
+_Actualizadas: 18/11 20:01_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
@@ -25,12 +25,14 @@ _Actualizadas: 18/11 08:25_
     - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.00** · menos **1.73**
-    - 3,5: más **3.50** · menos **1.28**
+    - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 10,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.75**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**

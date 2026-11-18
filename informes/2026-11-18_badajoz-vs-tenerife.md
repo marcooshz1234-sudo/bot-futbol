@@ -1,46 +1,45 @@
 # Badajoz – Tenerife
 **Copa del Rey** · Round of 128 · 18/11/2026 20:00 (hora España) · Estadio Nuevo Vivero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 08:24_
+_Actualizadas: 18/11 20:01_
 
-- **1X2:** 1 **4.20**  ·  X **3.50**  ·  2 **1.83**
-- **Doble oportunidad:** 1X **2.10**  ·  12 **1.28**  ·  X2 **1.18**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
+- **1X2:** 1 **5.50**  ·  X **3.75**  ·  2 **1.60**
+- **Doble oportunidad:** 1X **2.15**  ·  12 **1.28**  ·  X2 **1.17**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.50** · menos **1.28**
-    - 2,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.50** · menos **1.18**
 - **Goles del visitante:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
-- **1X2 descanso:** 1 **4.75**  ·  X **2.20**  ·  2 **2.50**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **9.00** · menos **1.07**
+- **1X2 descanso:** 1 **6.00**  ·  X **2.25**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
+    - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **2.50**  ·  2 **1.50**
-- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **3.00**
-- **Win Both Halves:** 1 **17.00**  ·  2 **5.50**
-- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **9.50**  ·  Away/No **3.25**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.25**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **3.00**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **2.62**
+- **Win Both Halves:** 1 **23.00**  ·  2 **4.33**
+- **Results/Both Teams Score:** Home/Yes **11.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **10.00**  ·  Draw/No **9.50**  ·  Away/No **2.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.25**
 
 ## Estadísticas de equipo
 | | Badajoz (total) | Badajoz en casa | Tenerife (total) | Tenerife fuera |
