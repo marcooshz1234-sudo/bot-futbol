@@ -2384,14 +2384,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87037",
-   "fecha": "2026-11-16T22:41",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T22:49",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87037.jpg"
-  },
-  {
    "id": "-1002463340479/87038",
    "fecha": "2026-11-16T22:53",
    "texto": "",
@@ -3880,6 +3872,14 @@
    "texto": "✅⚽️🏆👑COMBINADA 500 COPA DEL REY ACERTADA",
    "foto": false,
    "visto": "2026-11-18T12:47"
+  },
+  {
+   "id": "-1002463340479/87242",
+   "fecha": "2026-11-18T13:02",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-18T13:08",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87242.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
