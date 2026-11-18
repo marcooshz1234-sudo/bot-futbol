@@ -2835,5 +2835,109 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-19-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-18T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "1638327|Away Player Shots|Kyra Carusa - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.4
+  ],
+  "real": 2.01,
+  "multiplicando": 1.96,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-18T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638338|Double Chance|Home/Draw",
+   "1638338|Home Player Shots|Clara Oliveira - 2",
+   "1638338|Home Player Shots|Janet Akekoromowei - 2",
+   "1638338|Home Player Shots|Nicole Raysala - 3",
+   "1638338|Home Player Shots|Paula Encinas - 2",
+   "1638338|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.44,
+   1.8
+  ],
+  "real": 12.02,
+  "multiplicando": 9.957,
+  "aj": 1.0146117690493242,
+  "parejas": [
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
  }
 ]

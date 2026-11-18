@@ -33,19 +33,63 @@
  },
  "top": [
   {
+   "local": "Chelsea W",
+   "visitante": "Paris Saint Germain W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "Paris Saint Germain W marca",
+   "cuota": 1.8,
+   "justa": 1.68,
+   "ev": 0.07,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
    "local": "Juventus W",
    "visitante": "OH Leuven W",
    "inicio": "2026-11-18T21:00",
-   "texto": "Juventus W marca 3 o más",
-   "cuota": 2.0,
-   "justa": 2.03,
-   "ev": -0.016,
-   "fuente": "Pinnacle",
+   "texto": "Más de 1,5 goles en la 2ª parte del Juventus W–OH Leuven W",
+   "cuota": 1.73,
+   "justa": 1.71,
+   "ev": 0.011,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Barcelona W",
+   "visitante": "Servette Chênois W",
+   "inicio": "2026-11-19T21:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Barcelona W–Servette Chênois W",
+   "cuota": 1.57,
+   "justa": 1.6,
+   "ev": -0.017,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Juventus W",
+   "visitante": "OH Leuven W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "Ambos marcan en Juventus W–OH Leuven W",
+   "cuota": 1.91,
+   "justa": 1.95,
+   "ev": -0.019,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Austria Wien W",
+   "visitante": "Bayern Munich W",
+   "inicio": "2026-11-19T18:45",
+   "texto": "Más de 1,5 goles en la 2ª parte del Austria Wien W–Bayern Munich W",
+   "cuota": 1.57,
+   "justa": 1.6,
+   "ev": -0.019,
+   "fuente": "las otras casas",
    "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T19:49",
+  "hora": "2026-11-18T20:26",
   "revisadas": 0,
   "mejor": null
  },
