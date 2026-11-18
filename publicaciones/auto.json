@@ -7727,11 +7727,11 @@
       "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
     ],
     "cuotas": [
-      1.53,
-      1.53,
-      1.44,
-      1.57,
-      1.57
+      1.4,
+      1.4,
+      1.33,
+      1.73,
+      1.73
     ],
     "solo_en": [
       "threads"
@@ -7743,7 +7743,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T18:31"
+    "cuotas_revisadas": "2026-11-18T19:39"
   },
   {
     "id": "2026-11-18-loca-th-2030-duelo",
@@ -7755,7 +7755,7 @@
     ],
     "cuotas": [
       1.62,
-      1.57
+      1.73
     ],
     "solo_en": [
       "threads"
@@ -7767,7 +7767,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T19:04"
+    "cuotas_revisadas": "2026-11-18T19:39"
   },
   {
     "id": "2026-11-19-ganadores-champions-fem",
