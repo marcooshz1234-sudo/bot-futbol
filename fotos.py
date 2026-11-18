@@ -594,6 +594,10 @@ def bandera_real(pais):
         f = BANDERAS / "paises.json"
         bandera_real.cod = json.loads(f.read_text()) if f.exists() else {}
     c = bandera_real.cod.get(pais or "")
+    if not c and pais:   # 18/11: «Bosnia & Herzegovina» y «South Korea» (API) son «Bosnia» y «South-Korea» en la lista
+        alias = {"Bosnia & Herzegovina": "Bosnia", "Bosnia and Herzegovina": "Bosnia", "Rep. Of Ireland": "Ireland",
+                 "Republic of Ireland": "Ireland"}
+        c = bandera_real.cod.get(alias.get(pais) or pais.replace(" ", "-")) or bandera_real.cod.get(pais.split(" ")[0])
     svg = BANDERAS / f"{c}.svg" if c else None
     if not (svg and svg.exists()):
         return None

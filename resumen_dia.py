@@ -255,6 +255,109 @@ def _mismo_partido(ps):
     return " + ".join(partes) + f" en {sufijos.pop()}"
 
 
+# ── 18/11 (Marcos: «este resumen habría que mejorarlo» → «foto») ──────────────────────────────────────────────
+APUESTA = 10   # «10 € a cada pick → +44,20 €»
+
+
+def _corto(texto, partido=None):
+    """Texto de una fila: sin « en Partido» (la fila ya lo lleva debajo) y «Más de 1,5 tarjetas» → «2+ tarjetas»."""
+    t = re.sub(r"\s+en\s+[^+]+?$", "", texto) if partido or " en " in texto else texto
+    t = re.sub(r"[Mm]ás de (\d+),5 (córners|tarjetas|tiros|faltas|remates)",
+               lambda m: f"{int(m.group(1)) + 1}+ {m.group(2)}", t)
+    return t
+
+
+def filas_resumen(rp):
+    """rp: [(id, picks, estado, cuota)] → filas para la foto (solo los verdes), de más cuota a menos."""
+    filas = []
+    for _, ps, est, cuota in sorted(rp, key=lambda x: -(x[3] or 0)):
+        if est != 'verde':
+            continue
+        mismo = len({x.get('partido_id') for x in ps}) == 1
+        if len(ps) == 1 or mismo:
+            partes = [_corto(x.get('texto', ''), x.get('partido')) for x in ps]
+            texto = " + ".join([partes[0]] + [p[:1].lower() + p[1:] for p in partes[1:]])
+            base = dict(ps[0])
+        else:
+            texto, base = f"Combi de {len(ps)} partidos", {}
+        c = f" · @{cuota:.2f}".replace('.', ',') if cuota else ''
+        try:
+            from nombres import espanol
+        except Exception:
+            espanol = lambda x: x
+        fila = {k: base.get(k) for k in ('partido_id', 'partido', 'marcador', 'goles', 'estado_partido')}
+        fila['partido'] = espanol(fila['partido']) if fila.get('partido') else fila.get('partido')
+        filas.append({**fila, 'texto': espanol(texto + c), 'estado': 'verde'})
+    return filas
+
+
+def ganancia(rp, apuesta=APUESTA):
+    """Lo que se habría ganado con `apuesta` € a cada post (solo si todos tienen cuota)."""
+    if not rp or any(not x[3] for x in rp):
+        return None
+    return round(sum((x[3] - 1) * apuesta if x[2] == 'verde' else -apuesta for x in rp), 2)
+
+
+def euros(v):
+    s = f"{abs(v):,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+    return ("+" if v >= 0 else "−") + s + " €"
+
+
+def texto_corto(rp, dia, texto_largo=None):
+    """El texto debajo de la foto: el «x de y», el dinero y, si hubo, «😤 Se nos escaparon» (del texto de siempre)."""
+    v, n = sum(x[2] == 'verde' for x in rp), len(rp)
+    g = ganancia(rp)
+    fecha = datetime.fromisoformat(dia)
+    lin = [f"📊 RESUMEN DEL {DIAS[fecha.weekday()]} 🍀", '',
+           (f"🔥 PLENO: {v} de {n} en verde" if v == n and n >= 3 else f"✅ {v} de {n} picks en verde")]
+    if g is not None and g > 0:
+        lin.append(f"💶 {APUESTA} € a cada pick → {euros(g)}")
+    if texto_largo and '😤' in texto_largo:
+        bloque = texto_largo[texto_largo.index('😤'):].split('\n\n')[0]
+        lin += ['', bloque]
+    lin += ['', '🔔 Mañana más. Activad las notificaciones 👀']
+    return '\n'.join(lin)
+
+
+def foto_resumen(rp, dia, destino):
+    """La foto: como la de los verdes (fotos.verde_lista), con las banderas de cada partido, «8/8» y el dinero."""
+    import fotos
+    filas = filas_resumen(rp)
+    if not filas:
+        return None
+    v, n = sum(x[2] == 'verde' for x in rp), len(rp)
+    g = ganancia(rp)
+    fecha = datetime.fromisoformat(dia)
+    cajas = [("EN VERDE", f"{v}/{n}")] + ([(f"{APUESTA} € A CADA PICK", euros(g))] if g is not None and g > 0 else [])
+    lema = "¡PLENO! 🔥" if v == n and n >= 3 else "MAÑANA MÁS 🍀"
+    html = fotos.verde_lista(filas[:10], f"RESUMEN DEL {DIAS[fecha.weekday()]}", None, None, alto=1350, cajas=cajas, lema=lema)
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as pw:
+        nav = pw.chromium.launch()
+        pg = nav.new_page()
+        pg.set_viewport_size({"width": 1080, "height": 1350})
+        pg.set_content(html)
+        pg.wait_for_timeout(300)
+        h = pg.evaluate("document.documentElement.scrollHeight")
+        if h > 1350:
+            pg.evaluate(f"document.body.style.transformOrigin='top center';document.body.style.transform='scale({1350 / h:.4f})'")
+            pg.wait_for_timeout(100)
+        destino.parent.mkdir(parents=True, exist_ok=True)
+        pg.screenshot(path=str(destino), type="jpeg", quality=92, clip={"x": 0, "y": 0, "width": 1080, "height": 1350})
+        nav.close()
+    return destino
+
+
+def unicos(rp):
+    out, ya = [], set()
+    for x in rp:
+        k = tuple(sorted(clave_pick(y) for y in x[1]))
+        if k not in ya:
+            ya.add(k)
+            out.append(x)
+    return out
+
+
 def en_telegram(cola):
     """16/11 (Marcos: «había 5 de 33… has mezclado todas las redes»): el resumen de Telegram cuenta SOLO lo que
     salió en Telegram (con su mensaje), no las locas ni los boletos de Threads."""
@@ -284,8 +387,17 @@ def main():
     texto, _ = textos_picks(picks, hoy, datos.get('publicados_hoy', []), cola, solo)
     if not texto:   # 13/11: si no hay nada en verde, no sale
         return
+    # 18/11 (Marcos: «este resumen habría que mejorarlo» → «foto»): foto con la lista y banderas + texto corto
+    foto = None
+    try:
+        rp = unicos(posts_dia(datos.get('publicados_hoy', []), hoy, cola, solo))
+        f = foto_resumen(rp, hoy, RAIZ / 'publicaciones' / 'media' / f'{pid}.jpg')
+        if f:
+            foto, texto = str(f.relative_to(RAIZ)), texto_corto(rp, hoy, texto)
+    except Exception as e:
+        print('Resumen: sin foto,', e)
     cola.append({'id': pid, 'fecha': ahora.strftime('%Y-%m-%dT%H:%M'), 'texto': texto,
-                 'foto': None, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True,
+                 'foto': foto, 'origen': 'bot', 'directo': True, 'facebook': 'texto', 'sin_instagram': True,
                  'solo_en': ['telegram'],   # 16/11: Threads, nada de cuánto acertamos (REGLAS §0)
                  # 17/11 (Marcos): el resumen salió solo con fallos: ya no sale sin su «✅ Publicar»
                  'requiere_ok': True, 'aviso': '📊 Resumen de la noche listo. Sale cuando le des a Publicar.'})
