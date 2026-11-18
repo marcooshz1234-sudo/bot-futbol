@@ -115,6 +115,7 @@
 - 👤 Escribir como los canales de Telegram que sigue, no como un bot (09/11).
 
 ## 6. Telegram (canal gratis)
+- 🤖 **Toda combi de Telegram, con su foto de escudos/banderas** (18/11, Marcos: «algún pick de hoy también ha salido sin escudo»: la combi del miércoles y la de las favoritas salieron solo en texto). La racha de «3 fotos → texto» ya no vale para combis; sin foto, no sale (tarjeta_tg + publicar_telegram; test_combis_tg_con_escudos).
 - ⚙️ Solo: pick del día (1,50–1,70), escalera, una combi buena y las copias de canales (09/11 y 12/11).
 - ⚙️ 9:30 buenos días con foto (3 que rotan) y lo que sale hoy; noche europea los días de Champions/EL/Conference;
   «en directo» al empezar un partido nuestro, de vez en cuando (uno cada 3 días como mucho, 12/11); ¡PLENO! si sale todo (12/11). No el balance de la noche.

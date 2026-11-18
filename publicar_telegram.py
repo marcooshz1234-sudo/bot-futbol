@@ -328,7 +328,7 @@ def main(objetivo=None):
             except Exception as e:
                 print(f"Aviso sin sel: {e}")
         # 16/11 (Marcos: «programalo todo bien»): un pick o una copia NUNCA sale sin su foto de banderas/escudos
-        if not foto and not p.get("sin_tarjeta") and ("-pick-" in p.get("id", "") or p.get("origen") == "tipster"):
+        if not foto and not p.get("sin_tarjeta") and (re.search(r"-(pick|combi)-|-combi$", p.get("id", "")) or p.get("origen") == "tipster"):   # 18/11: las combis tampoco
             print(f"Sin foto, no sale: {p['id']}")
             if not p.get("aviso_sin_foto"):
                 p["aviso_sin_foto"] = True

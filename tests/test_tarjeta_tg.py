@@ -53,8 +53,8 @@ class TarjetaTG(unittest.TestCase):
         sin = lambda i: {"enviado": f"2026-11-13T1{i}:00", "mensaje_id": i + 1}
         self.assertEqual(T.racha_fotos([sin(0), con(1), con(2)]), 2)
         self.assertEqual(T.racha_fotos([con(0), con(1), con(2)]), 3)
-        # 16/11 (Marcos: «banderas siempre»): la racha ya no quita la foto a picks ni copias; sí a las combis
-        self.assertIsNone(T.hacer({"id": "x-combi-noche"}, NOCHE, [con(0), con(1), con(2)]))
+        # 16/11 (Marcos: «banderas siempre»): la racha ya no quita la foto a picks ni copias;
+        # 18/11 («algún pick de hoy también ha salido sin escudo»): tampoco a las combis (ver test_combis_tg_con_escudos)
 
     def test_escudo_de_club(self):   # 13/11: los clubes con su escudo; las selecciones con su bandera
         from unittest import mock

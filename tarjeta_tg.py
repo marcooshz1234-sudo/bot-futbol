@@ -14,7 +14,7 @@ import re
 from bot import RAIZ
 
 MEDIA = RAIZ / "publicaciones" / "media"
-CON_TARJETA = re.compile(r"-(pick-tip|combi-tip|pick-extra|cuotaza|combi-noche|combi-tarde|combi-dia|combi-tres|pick)(-|$)")   # 18/11: la combi del día también con foto
+CON_TARJETA = re.compile(r"-(pick-tip|pick-extra|cuotaza|combi-[a-z]+|combi|pick)(-|$)")   # 18/11 (Marcos: «algún pick de hoy también ha salido sin escudo»): TODAS las combis de Telegram   # 18/11: la combi del día también con foto
 NO = re.compile(r"verde|rojo|balance|resumen|escalera|pick-seguro$|ganadores|marcador|exactos|lista|boleto|directo")
 CUOTA = re.compile(r"@\s*(\d+[.,]\d+)")
 MAX_NOMBRE = 20
@@ -70,6 +70,8 @@ def escudo_club(nombre):
             if n and url:
                 for clave in (n, nombre_es(n)):
                     _ESCUDOS.setdefault(_sin_tildes(clave.lower()), url)
+                    # 18/11: «Häcken (fem.) marca» no encontraba «Häcken W» (la combi salió sin escudo)
+                    _ESCUDOS.setdefault(_sin_tildes(re.sub(r"\s+(w|\(fem\.\))$", "", clave.lower())), url)
     n = _sin_tildes(nombre.lower())   # 14/11: «Almería» no encontraba «Almeria» (salía sin escudo)
     url = _ESCUDOS.get(n) or _ESCUDOS.get(re.sub(r"^(el|la|los|las) ", "", n))
     if not url:
@@ -111,8 +113,8 @@ def fila(pata, partido=None, partido_ok=False):
             return {"nombre": nom, "pick": pick(m), "pais": None, "bandera": "⚽", "seleccion": False, "escudo": ""}
     for patron, pick, n in ((r"^Menos de (\d+[,.]5) (goles|córners|tarjetas) en la 1ª parte del? (.+)$",
                              lambda m: f"-{m.group(1)} {m.group(2).upper()} 1ªP", 3),
-                            (r"^Más de (\d+[,.]5) (goles|córners|tarjetas) en la 1ª parte del? (.+)$",
-                             lambda m: f"+{m.group(1)} {m.group(2).upper()} 1ªP", 3),
+                            (r"^Más de (\d+[,.]5) (goles|córners|tarjetas) en la ([12])ª parte del? (.+)$",   # 18/11: también la 2ª
+                             lambda m: f"+{m.group(1)} {m.group(2).upper()} {m.group(3)}ªP", 4),
                             (r"^Menos de (\d+[,.]5) (goles|córners|tarjetas) en (?:el )?(.+)$",
                              lambda m: f"-{m.group(1)} {m.group(2).upper()}", 3),
                             (r"^Más de (\d+(?:[,.]5)?) (remates a puerta|goles|córners|tarjetas|remates) en (.+)$",
@@ -212,6 +214,21 @@ def patas(texto):
     return out
 
 
+PATA_SIN_CUOTA = re.compile(r"\s*(⚽|🏆|🛡️|🛡|🎯|🚩|🔥|🟨|🅰️|✅)\s*")
+
+
+def patas_sin_cuota(texto):
+    """18/11: las combis de Telegram escriben las patas sin su @cuota («🏆 Gana el Real Madrid (fem.) · vs Inter · 18:45»)
+    y salían sin foto. Líneas que empiezan por el emoji de un mercado, sin la línea del partido («Israel – Austria · hoy»)."""
+    out = []
+    for l in texto.splitlines():
+        if PATA_SIN_CUOTA.match(l) and " – " not in l and not re.search(r"cuota|por qué", l, re.I):
+            limpio = re.sub(r"^[^\wÀ-ÿ¡¿]+", "", l).split(" · ")[0].strip(" ·-")   # «· vs Inter · 18:45» fuera
+            if limpio:
+                out.append(limpio)
+    return out
+
+
 def titulo(p, texto):
     pid = p["id"]
     m = re.search(r"Cuota\s*@?\s*(\d+[.,]\d+)", texto) or (CUOTA.search(texto) if len(patas(texto)) == 1 else None)
@@ -296,10 +313,10 @@ def hacer(p, texto, todos=None):
     from nombres import espanol   # 15/11: países en español y sin «el» delante
     texto = espanol(texto)
     # 16/11 (Marcos: «acuérdate de poner las banderas o los escudos siempre»): los picks y las copias, siempre con foto
-    siempre = "-pick-" in p.get("id", "") or p.get("origen") == "tipster"
+    siempre = re.search(r"-(pick|combi)-|-combi$", p.get("id", "")) or p.get("origen") == "tipster"   # 18/11: las combis también
     if not toca(p) or (racha_fotos(todos) >= MAX_SEGUIDAS and not siempre):
         return None
-    ps = patas(texto)
+    ps = patas(texto) or patas_sin_cuota(texto.split("🧠 Por qué")[0])
     if not ps or len(ps) > 8:
         return None
     out = MEDIA / f"{p['id']}.tg.jpg"
