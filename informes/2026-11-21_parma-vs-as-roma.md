@@ -1,7 +1,7 @@
 # Parma – AS Roma
 **Serie A** · Regular Season - 12 · 21/11/2026 18:00 (hora España) · Stadio Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -187,41 +187,3 @@ _Sin bajas comunicadas por ahora._
 | S. Castro | F | 11 | 370 | 1 | 2 | 16 | 1,5 | 2 | 0,2 | 13 | 7 | 0,6 | 0 | 0 |
 | D. Ghilardi | D | 10 | 358 | 1 | 2 | 4 | 0,4 | 2 | 0,2 | 7 | 5 | 0,5 | 1 | 0 |
 | D. Rensch | M | 10 | 343 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,3 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,79 · visitante 2,43 · córners esperados 9,5._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 73% | 73% | 73% | 1.27 | -7% |
-| 1X2: X | 16% | 18% | 17% | 5.25 | -11% |
-| 1X2: 1 | 10% | 10% | 10% | 9.50 | -5% |
-| Doble oportunidad: X2 | 90% | 91% | 90% | 1.07 | -3% |
-| Doble oportunidad: 12 | 84% | 83% | 83% | 1.17 | -2% |
-| Doble oportunidad: 1X | 27% | 26% | 26% | 3.75 | -2% |
-| Ambos marcan: No | 50% | 52% | 51% | 1.80 | -8% |
-| Ambos marcan: Sí | 50% | 48% | 49% | 1.95 | -5% |
-| Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 3.5 | 40% | 41% | 41% | 2.30 | -6% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -8% |
-| Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles más/menos: Menos de 3.5 | 60% | 59% | 59% | 1.62 | -4% |
-| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 58% | 58% | 1.62 | -5% |
-| Goles del local: Más de 0.5 | 55% | 51% | 53% | 1.80 | -4% |
-| Goles del local: Menos de 0.5 | 45% | 49% | 47% | 1.91 | -10% |
-| Goles del visitante: Más de 1.5 | 70% | 71% | 70% | 1.33 | -6% |
-| Goles del visitante: Más de 2.5 | 44% | 44% | 44% | 2.10 | -8% |
-| Goles del visitante: Más de 3.5 | 23% | 25% | 24% | 3.75 | -11% |
-| Goles del visitante: Menos de 1.5 | 30% | 29% | 30% | 3.25 | -4% |
-| Goles del visitante: Menos de 2.5 | 56% | 56% | 56% | 1.67 | -7% |
-| Goles del visitante: Menos de 3.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Córners más/menos: Más de 8.5 | 54% | 51% | 53% | 1.85 | -3% |
-| Córners más/menos: Menos de 8.5 | 46% | 49% | 47% | 1.95 | -8% |
-| 1X2 descanso: 2 | 54% | 55% | 54% | 1.67 | -9% |
-| 1X2 descanso: X | 34% | 34% | 34% | 2.75 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Sabah FA – Barcelona
 **Champions League** · League Stage - 5 · 25/11/2026 18:45 (hora España) · Baku Olympic Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -132,8 +132,3 @@ _Sin precedentes recientes._
 | Gabriel Jesus | F | 10 | 296 | 4 | 1 | 10 | 1,0 | 5 | 0,5 | 2 | 6 | 0,6 | 0 | 0 |
 | Gavi | M | 9 | 230 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 6 | 2 | 0,2 | 0 | 0 |
 | B. Farinas | D | 3 | 217 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,27 · visitante 4,15 · córners esperados 9,5._
-
-_Sin cuotas de Bet365 todavía para comparar._

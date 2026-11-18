@@ -1,19 +1,19 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 575 · aciertos: 358 (62%) · beneficio a 1 € por pick: -68.08 €
+Picks ya jugados: 579 · aciertos: 361 (62%) · beneficio a 1 € por pick: -66.46 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 144 | 222 | 65% | -22.02 € |
+| goles | 145 | 223 | 65% | -21.22 € |
 | jugador | 126 | 196 | 64% | -22.32 € |
+| resultado | 67 | 108 | 62% | -8.58 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
-| resultado | 66 | 107 | 62% | -9.83 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 3 | 14 | 21% | -9.14 € |
+| corners | 4 | 15 | 27% | -8.57 € |
 | fueras de juego | 0 | 3 | 0% | -3.00 € |
-| tiros a puerta | 0 | 1 | 0% | -1.00 € |
+| tiros a puerta | 0 | 2 | 0% | -2.00 € |
 
 ## Por mercado (mín. 3 picks)
 
@@ -24,10 +24,10 @@ Picks ya jugados: 575 · aciertos: 358 (62%) · beneficio a 1 € por pick: -68.
 | To Win Either Half · Home | 6 | 7 | 86% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
 | Double Chance · Home/Draw | 9 | 12 | 75% |
+| Match Winner · Home | 9 | 12 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 6 | 8 | 75% |
 | Home Team Total Cards · Over 1.5 | 9 | 12 | 75% |
-| Match Winner · Home | 8 | 11 | 73% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
 | Match Winner · Away | 8 | 12 | 67% |
@@ -37,8 +37,8 @@ Picks ya jugados: 575 · aciertos: 358 (62%) · beneficio a 1 € por pick: -68.
 | Total - Home · Over 0.5 | 9 | 14 | 64% |
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
+| Total - Home · Over 1.5 | 3 | 5 | 60% |
 | Total - Away · Over 0.5 | 27 | 47 | 57% |
-| Total - Home · Over 1.5 | 2 | 4 | 50% |
 | Total - Away · Over 1.5 | 2 | 4 | 50% |
 | Both Teams Score · Yes | 9 | 19 | 47% |
 | To Win Either Half · Away | 6 | 13 | 46% |
@@ -51,6 +51,12 @@ Picks ya jugados: 575 · aciertos: 358 (62%) · beneficio a 1 € por pick: -68.
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
 
 ## Últimos días
+
+### 2026-11-17 · 3/4
+- ✅ Austria hace más córners · 1.57 (1-1)
+- ❌ Portugal hace más tiros a puerta · 1.30 (2-3)
+- ✅ Gana el Denmark · 2.25 (2-3)
+- ✅ Denmark marca 2 o más · 1.80 (2-3)
 
 ### 2026-11-16 · 3/5
 - ✅ Slovakia marca 2 o más · 1.80 (2-2)
@@ -187,18 +193,4 @@ Picks ya jugados: 575 · aciertos: 358 (62%) · beneficio a 1 € por pick: -68.
 - ❌ Más de 2,5 tarjetas en AS Roma–Sassuolo · 1.57 (3-0)
 - ✅ GO Ahead Eagles o empate · 1.40 (0-1)
 - ❌ Estac Troyes hace más de 2,5 córners · 1.57 (1-0)
-
-### 2026-11-06 · 6/12
-- ❌ Florian Neuhaus comete 1+ faltas · 1.33 (3-1)
-- ✅ Casper Tengstedt: 1+ tiros a puerta · 1.28 (3-1)
-- ✅ Akor Adams: 1+ tiros a puerta · 1.28 (2-1)
-- ❌ Redouane Halhal comete 1+ faltas · 1.25 (2-1)
-- ✅ Juan Jesus comete 1+ faltas · 1.28 (2-1)
-- ❌ Más de 1,5 goles en Sevilla–Alaves · 1.40 (0-0)
-- ❌ Josh Sheehan: 1+ tiros · 1.25 (3-1)
-- ✅ Thierno Barry: 1+ tiros a puerta · 1.25 (3-1)
-- ❌ Lucas Boye comete 2+ faltas · 1.30 (0-0)
-- ✅ Josh Sheehan comete 1+ faltas · 1.33 (3-1)
-- ✅ Carlton Morris comete 1+ faltas · 1.33 (3-1)
-- ❌ Arouca o empate · 1.80 (1-0)
 

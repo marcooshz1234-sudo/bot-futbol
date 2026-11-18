@@ -1,7 +1,7 @@
 # Bologna – Udinese
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -188,41 +188,3 @@ _Sin bajas comunicadas por ahora._
 | J. Arizala | M | 7 | 201 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
 | N. Bertola | M | 6 | 190 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 2 | 0,3 | 3 | 0 |
 | V. Bayo | F | 6 | 184 | 2 | 1 | 6 | 1,0 | 3 | 0,5 | 1 | 2 | 0,3 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,14 · visitante 0,96 · córners esperados 9,7._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 16% | 18% | 17% | 5.00 | -14% |
-| 1X2: X | 20% | 26% | 23% | 3.50 | -19% |
-| 1X2: 1 | 64% | 55% | 60% | 1.67 | -0% |
-| Doble oportunidad: X2 | 36% | 44% | 40% | 2.15 | -14% |
-| Doble oportunidad: 12 | 80% | 74% | 77% | 1.28 | -1% |
-| Doble oportunidad: 1X | 84% | 81% | 83% | 1.17 | -3% |
-| Ambos marcan: No | 46% | 48% | 47% | 1.95 | -9% |
-| Ambos marcan: Sí | 54% | 52% | 53% | 1.80 | -4% |
-| Goles más/menos: Más de 1.5 | 82% | 75% | 78% | 1.28 | -0% |
-| Goles más/menos: Más de 2.5 | 60% | 50% | 55% | 1.91 | +5% |
-| Goles más/menos: Más de 3.5 ✅ | 38% | 28% | 33% | 3.40 | +12% |
-| Goles más/menos: Menos de 1.5 | 18% | 25% | 22% | 3.75 | -18% |
-| Goles más/menos: Menos de 2.5 | 40% | 50% | 45% | 1.91 | -14% |
-| Goles más/menos: Menos de 3.5 | 62% | 72% | 67% | 1.33 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 61% | 66% | 64% | 1.40 | -11% |
-| Goles del local: Más de 1.5 | 63% | 51% | 57% | 1.80 | +3% |
-| Goles del local: Más de 2.5 ✅ | 36% | 27% | 32% | 3.50 | +10% |
-| Goles del local: Menos de 1.5 | 37% | 49% | 43% | 1.91 | -18% |
-| Goles del local: Menos de 2.5 | 64% | 73% | 68% | 1.28 | -12% |
-| Goles del visitante: Más de 0.5 | 62% | 61% | 61% | 1.53 | -6% |
-| Goles del visitante: Más de 1.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles del visitante: Menos de 0.5 | 38% | 39% | 39% | 2.38 | -8% |
-| Goles del visitante: Menos de 1.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Córners más/menos: Más de 8.5 | 56% | 56% | 56% | 1.67 | -7% |
-| Córners más/menos: Menos de 8.5 | 44% | 44% | 44% | 2.10 | -7% |
-| 1X2 descanso: X | 37% | 41% | 39% | 2.25 | -12% |
-| 1X2 descanso: 1 | 47% | 41% | 44% | 2.25 | -1% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

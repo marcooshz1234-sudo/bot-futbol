@@ -1,7 +1,7 @@
 # Barcelona – Villarreal
 **LaLiga** · Regular Season - 13 · 22/11/2026 14:00 (hora España) · Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -192,45 +192,3 @@ _Sin bajas comunicadas por ahora._
 | C. Macia | M | 9 | 463 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 4 | 0,4 | 1 | 0 |
 | Luiz Júnior | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Ilias Akhomach | M | 9 | 394 | 0 | 2 | 6 | 0,7 | 2 | 0,2 | 4 | 6 | 0,7 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 3,36 · visitante 1,21 · córners esperados 9,7._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 10% | 8% | 9% | 11.00 | +1% |
-| 1X2: X | 12% | 12% | 12% | 7.50 | -8% |
-| 1X2: 1 | 78% | 79% | 79% | 1.18 | -7% |
-| Doble oportunidad: X2 | 22% | 21% | 22% | 4.50 | -3% |
-| Doble oportunidad: 12 | 88% | 87% | 88% | 1.10 | -4% |
-| Doble oportunidad: 1X | 90% | 91% | 91% | 1.05 | -5% |
-| Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
-| Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 2.5 | 83% | 79% | 81% | 1.20 | -3% |
-| Goles más/menos: Más de 3.5 | 67% | 64% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 4.5 | 48% | 45% | 47% | 2.10 | -2% |
-| Goles más/menos: Más de 5.5 | 31% | 28% | 29% | 3.40 | +0% |
-| Goles más/menos: Menos de 2.5 | 17% | 21% | 19% | 4.50 | -15% |
-| Goles más/menos: Menos de 3.5 | 33% | 36% | 35% | 2.62 | -9% |
-| Goles más/menos: Menos de 4.5 | 52% | 55% | 53% | 1.73 | -8% |
-| Goles más/menos: Menos de 5.5 | 69% | 72% | 71% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 59% | 58% | 58% | 1.62 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 42% | 42% | 2.20 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 2.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del local: Más de 3.5 | 43% | 42% | 43% | 2.20 | -6% |
-| Goles del local: Más de 4.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles del local: Menos de 2.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles del local: Menos de 3.5 | 57% | 58% | 57% | 1.62 | -7% |
-| Goles del local: Menos de 4.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 0.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del visitante: Más de 1.5 | 34% | 31% | 33% | 3.00 | -2% |
-| Goles del visitante: Menos de 0.5 | 30% | 35% | 33% | 2.62 | -14% |
-| Goles del visitante: Menos de 1.5 | 66% | 69% | 67% | 1.36 | -8% |
-| Córners más/menos: Más de 10.5 | 39% | 54% | 46% | 1.73 | -20% |
-| Córners más/menos: Menos de 10.5 ✅ | 61% | 46% | 54% | 2.00 | +8% |
-| 1X2 descanso: X | 26% | 26% | 26% | 3.50 | -8% |
-| 1X2 descanso: 1 | 60% | 61% | 61% | 1.50 | -9% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

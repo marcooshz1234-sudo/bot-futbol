@@ -1,7 +1,7 @@
 # Hull City – Brighton
 **Premier League** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -180,41 +180,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Michael Svoboda | D | 6 | 363 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 7 | 0 | 0,0 | 2 | 0 |
 | Matt O'Riley | M | 8 | 339 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 1 | 3 | 0,4 | 0 | 0 |
 | Ibrahim Osman | F | 8 | 306 | 0 | 2 | 11 | 1,4 | 1 | 0,1 | 7 | 3 | 0,4 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,58 · visitante 1,53 · córners esperados 10,2._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 60% | 62% | 61% | 1.50 | -8% |
-| 1X2: X | 26% | 22% | 24% | 4.20 | +0% |
-| 1X2: 1 | 14% | 16% | 15% | 5.75 | -13% |
-| Doble oportunidad: X2 | 86% | 84% | 85% | 1.14 | -3% |
-| Doble oportunidad: 12 | 74% | 78% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X | 40% | 38% | 39% | 2.50 | -3% |
-| Ambos marcan: No | 65% | 47% | 56% | 2.00 | +12% |
-| Ambos marcan: Sí | 35% | 53% | 44% | 1.75 | -23% |
-| Goles más/menos: Más de 1.5 | 62% | 79% | 71% | 1.20 | -15% |
-| Goles más/menos: Más de 2.5 | 35% | 57% | 46% | 1.67 | -23% |
-| Goles más/menos: Más de 3.5 | 16% | 36% | 26% | 2.62 | -31% |
-| Goles más/menos: Más de 4.5 | 6% | 21% | 14% | 4.50 | -38% |
-| Goles más/menos: Menos de 1.5 | 38% | 21% | 29% | 4.50 | +32% |
-| Goles más/menos: Menos de 2.5 ✅ | 65% | 43% | 54% | 2.20 | +19% |
-| Goles más/menos: Menos de 3.5 | 84% | 64% | 74% | 1.50 | +10% |
-| Goles más/menos: Menos de 4.5 | 94% | 79% | 86% | 1.20 | +4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 72% | 66% | 1.30 | -14% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 39% | 31% | 2.38 | -26% |
-| Goles 1ª parte más/menos: Menos de 0.5 ✅ | 40% | 28% | 34% | 3.40 | +15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 61% | 69% | 1.53 | +5% |
-| Goles del local: Más de 0.5 | 44% | 61% | 53% | 1.53 | -20% |
-| Goles del local: Más de 1.5 | 12% | 25% | 18% | 3.75 | -31% |
-| Goles del local: Menos de 0.5 | 56% | 39% | 47% | 2.38 | +13% |
-| Goles del local: Menos de 1.5 | 88% | 75% | 82% | 1.25 | +2% |
-| Goles del visitante: Más de 1.5 | 45% | 61% | 53% | 1.53 | -19% |
-| Goles del visitante: Más de 2.5 | 20% | 35% | 28% | 2.62 | -28% |
-| Goles del visitante: Menos de 1.5 | 55% | 39% | 47% | 2.38 | +12% |
-| Goles del visitante: Menos de 2.5 | 80% | 65% | 72% | 1.44 | +4% |
-| 1X2 descanso: 2 | 41% | 46% | 43% | 2.00 | -13% |
-| 1X2 descanso: X | 47% | 37% | 42% | 2.50 | +5% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

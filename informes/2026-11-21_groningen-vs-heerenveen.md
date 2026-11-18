@@ -1,7 +1,7 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -190,46 +190,3 @@ _Sin bajas comunicadas por ahora._
 | M. Egbring | D | 3 | 92 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 | R. Uldriķis | F | 5 | 86 | 0 | 0 | 4 | 0,8 | 2 | 0,4 | 1 | 1 | 0,2 | 0 | 0 |
 | Luuk Brouwers | M | 2 | 31 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,60 · visitante 1,98 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 47% | 37% | 42% | 2.55 | +7% |
-| 1X2: X | 22% | 25% | 23% | 3.75 | -13% |
-| 1X2: 1 | 31% | 38% | 35% | 2.45 | -15% |
-| Doble oportunidad: X2 | 69% | 62% | 65% | 1.53 | -0% |
-| Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 53% | 63% | 58% | 1.50 | -13% |
-| Ambos marcan: No | 31% | 34% | 32% | 2.75 | -11% |
-| Ambos marcan: Sí | 69% | 66% | 68% | 1.40 | -5% |
-| Goles más/menos: Más de 2.5 | 69% | 67% | 68% | 1.40 | -4% |
-| Goles más/menos: Más de 3.5 | 48% | 49% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 4.5 | 29% | 29% | 29% | 3.25 | -6% |
-| Goles más/menos: Menos de 2.5 | 31% | 33% | 32% | 2.88 | -9% |
-| Goles más/menos: Menos de 3.5 | 52% | 51% | 52% | 1.80 | -7% |
-| Goles más/menos: Menos de 4.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 22% | 21% | 4.33 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 78% | 79% | 1.20 | -5% |
-| Goles del local: Más de 1.5 | 47% | 51% | 49% | 1.80 | -11% |
-| Goles del local: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
-| Goles del local: Menos de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
-| Goles del local: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
-| Goles del visitante: Más de 1.5 | 59% | 51% | 55% | 1.80 | -1% |
-| Goles del visitante: Más de 2.5 | 32% | 25% | 28% | 3.75 | +7% |
-| Goles del visitante: Menos de 1.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Goles del visitante: Menos de 2.5 | 68% | 75% | 72% | 1.25 | -11% |
-| Córners más/menos: Más de 10.5 | 35% | 46% | 41% | 2.00 | -19% |
-| Córners más/menos: Menos de 10.5 | 65% | 54% | 59% | 1.73 | +3% |
-| 1X2 descanso: 2 | 37% | 31% | 34% | 3.00 | +2% |
-| 1X2 descanso: X | 36% | 36% | 36% | 2.60 | -7% |
-| 1X2 descanso: 1 | 27% | 33% | 30% | 2.88 | -14% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

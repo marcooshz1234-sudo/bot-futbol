@@ -1,7 +1,7 @@
 # Uta Arad – Universitatea Craiova
 **Liga I** · Regular Season - 16 · 22/11/2026 16:30 (hora España) · Arena Francisc Neuman
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -173,43 +173,3 @@ _Sin bajas comunicadas por ahora._
 | Luca Băsceanu | M | 13 | 386 | 0 | 1 | 12 | 0,9 | 7 | 0,5 | 1 | 12 | 0,9 | 1 | 0 |
 | João Lameira | M | 9 | 376 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 9 | 6 | 0,7 | 1 | 0 |
 | Alexandru Crețu | M | 8 | 254 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 4 | 4 | 0,5 | 2 | 1 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,86 · visitante 1,59 · córners esperados 9,0._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 55% | 54% | 54% | 1.70 | -8% |
-| 1X2: X | 25% | 25% | 25% | 3.60 | -9% |
-| 1X2: 1 | 20% | 21% | 21% | 4.33 | -10% |
-| Doble oportunidad: X2 | 80% | 79% | 79% | 1.18 | -6% |
-| Doble oportunidad: 12 | 75% | 75% | 75% | 1.25 | -7% |
-| Doble oportunidad: 1X | 45% | 47% | 46% | 2.00 | -8% |
-| Ambos marcan: No | 54% | 50% | 52% | 1.83 | -5% |
-| Ambos marcan: Sí | 46% | 50% | 48% | 1.83 | -12% |
-| Goles más/menos: Más de 1.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles más/menos: Más de 2.5 | 44% | 49% | 46% | 1.95 | -9% |
-| Goles más/menos: Más de 3.5 | 23% | 28% | 25% | 3.40 | -14% |
-| Goles más/menos: Menos de 1.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles más/menos: Menos de 2.5 | 56% | 51% | 54% | 1.85 | -1% |
-| Goles más/menos: Menos de 3.5 | 77% | 72% | 75% | 1.30 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 65% | 66% | 66% | 1.40 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 35% | 34% | 34% | 2.75 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Goles del local: Más de 0.5 | 58% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles del local: Menos de 0.5 | 42% | 41% | 42% | 2.25 | -6% |
-| Goles del local: Menos de 1.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 80% | 79% | 79% | 1.18 | -6% |
-| Goles del visitante: Más de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
-| Goles del visitante: Más de 2.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles del visitante: Menos de 0.5 | 20% | 21% | 21% | 4.50 | -7% |
-| Goles del visitante: Menos de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Goles del visitante: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| 1X2 descanso: 2 | 38% | 40% | 39% | 2.30 | -10% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

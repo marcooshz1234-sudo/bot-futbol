@@ -1,7 +1,7 @@
 # Como – AEK Athens FC
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -175,45 +175,3 @@ _Sin precedentes recientes._
 | João Mário | M | 2 | 82 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,5 | 0 | 0 |
 | O. Zubkov | M | 5 | 54 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 | Petros Mantalos | M | 2 | 51 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,5 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,91 · visitante 1,13 · córners esperados 8,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 22% | 11% | 16% | 9.00 | +48% |
-| 1X2: X | 22% | 17% | 20% | 5.50 | +9% |
-| 1X2: 1 | 55% | 72% | 64% | 1.33 | -15% |
-| Doble oportunidad: X2 | 45% | 29% | 37% | 3.25 | +20% |
-| Doble oportunidad: 12 | 78% | 83% | 80% | 1.14 | -8% |
-| Doble oportunidad: 1X | 78% | 88% | 83% | 1.07 | -11% |
-| Ambos marcan: No | 42% | 42% | 42% | 2.20 | -7% |
-| Ambos marcan: Sí | 58% | 58% | 58% | 1.62 | -7% |
-| Goles más/menos: Más de 2.5 | 59% | 70% | 64% | 1.36 | -12% |
-| Goles más/menos: Más de 3.5 | 36% | 50% | 43% | 1.91 | -18% |
-| Goles más/menos: Más de 4.5 | 19% | 30% | 25% | 3.20 | -22% |
-| Goles más/menos: Menos de 2.5 | 41% | 30% | 36% | 3.20 | +14% |
-| Goles más/menos: Menos de 3.5 | 64% | 50% | 57% | 1.91 | +9% |
-| Goles más/menos: Menos de 4.5 | 81% | 70% | 75% | 1.36 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 78% | 76% | 1.20 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 49% | 43% | 1.91 | -17% |
-| Goles 1ª parte más/menos: Más de 2.5 | 15% | 23% | 19% | 4.00 | -24% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 22% | 24% | 4.33 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 51% | 57% | 1.80 | +2% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 85% | 77% | 81% | 1.22 | -1% |
-| Goles del local: Más de 1.5 | 57% | 73% | 65% | 1.28 | -17% |
-| Goles del local: Más de 2.5 | 30% | 50% | 40% | 1.83 | -27% |
-| Goles del local: Más de 3.5 | 13% | 29% | 21% | 3.25 | -32% |
-| Goles del local: Menos de 1.5 | 43% | 27% | 35% | 3.50 | +22% |
-| Goles del local: Menos de 2.5 | 70% | 50% | 60% | 1.83 | +10% |
-| Goles del local: Menos de 3.5 | 87% | 71% | 79% | 1.33 | +5% |
-| Goles del visitante: Más de 0.5 | 68% | 61% | 64% | 1.53 | -2% |
-| Goles del visitante: Más de 1.5 | 31% | 27% | 29% | 3.50 | +2% |
-| Goles del visitante: Menos de 0.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del visitante: Menos de 1.5 | 69% | 73% | 71% | 1.28 | -9% |
-| 1X2 descanso: X | 39% | 32% | 35% | 2.88 | +2% |
-| 1X2 descanso: 1 | 41% | 55% | 48% | 1.67 | -20% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

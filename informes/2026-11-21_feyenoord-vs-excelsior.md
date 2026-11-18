@@ -1,7 +1,7 @@
 # Feyenoord – Excelsior
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -189,47 +189,3 @@ _Sin bajas comunicadas por ahora._
 | V. Sulzbacher | M | 7 | 144 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 2 | 0,3 | 2 | 0 |
 | A. Jahanbakhsh | F | 8 | 127 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 4 | 2 | 0,2 | 1 | 0 |
 | Nolan Martens | D | 2 | 119 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,76 · visitante 0,82 · córners esperados 9,1._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 8% | 8% | 8% | 11.00 | -7% |
-| 1X2: X | 14% | 13% | 13% | 7.00 | -6% |
-| 1X2: 1 | 78% | 78% | 78% | 1.18 | -8% |
-| Doble oportunidad: X2 | 22% | 21% | 22% | 4.50 | -2% |
-| Doble oportunidad: 12 | 86% | 87% | 87% | 1.10 | -5% |
-| Doble oportunidad: 1X | 92% | 91% | 91% | 1.05 | -4% |
-| Ambos marcan: No | 48% | 48% | 48% | 1.95 | -7% |
-| Ambos marcan: Sí | 52% | 52% | 52% | 1.80 | -6% |
-| Goles más/menos: Más de 2.5 | 69% | 72% | 71% | 1.33 | -6% |
-| Goles más/menos: Más de 3.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles más/menos: Más de 4.5 | 29% | 34% | 31% | 2.75 | -14% |
-| Goles más/menos: Menos de 2.5 | 31% | 28% | 29% | 3.40 | -0% |
-| Goles más/menos: Menos de 3.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles más/menos: Menos de 4.5 | 71% | 66% | 69% | 1.40 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 25% | 23% | 3.75 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -3% |
-| Goles del local: Más de 1.5 | 76% | 78% | 77% | 1.20 | -7% |
-| Goles del local: Más de 2.5 | 52% | 58% | 55% | 1.62 | -11% |
-| Goles del local: Más de 3.5 | 30% | 35% | 33% | 2.62 | -14% |
-| Goles del local: Menos de 1.5 | 24% | 22% | 23% | 4.33 | -1% |
-| Goles del local: Menos de 2.5 | 48% | 42% | 45% | 2.20 | -1% |
-| Goles del local: Menos de 3.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del visitante: Más de 0.5 | 56% | 56% | 56% | 1.67 | -7% |
-| Goles del visitante: Más de 1.5 | 20% | 22% | 21% | 4.33 | -10% |
-| Goles del visitante: Menos de 0.5 | 44% | 44% | 44% | 2.10 | -7% |
-| Goles del visitante: Menos de 1.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Córners más/menos: Más de 10.5 | 34% | 50% | 42% | 1.83 | -23% |
-| Córners más/menos: Menos de 10.5 | 66% | 50% | 58% | 1.83 | +6% |
-| 1X2 descanso: X | 31% | 29% | 30% | 3.20 | -4% |
-| 1X2 descanso: 1 | 58% | 61% | 59% | 1.53 | -9% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

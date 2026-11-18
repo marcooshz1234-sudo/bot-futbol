@@ -1,5 +1,40 @@
 # Lecciones del bot
 
+## 2026-11-17
+
+```
+🧠 LECCIONES DEL 17/11
+Picks del bot: 3 ✅ · 1 ❌
+
+❌ Lo que falló en lo publicado:
+• Andreas Schjelderup: 3+ tiros → 2 de 3 tiros
+• Austria marca 2 o más → 1 de 2 goles
+• Bosnia hace más córners → Córners: 4 – 4
+• Bosnia hace más de 5,5 córners → 4 de 6 córners
+• Bruno Fernandes: 3+ tiros → 1 de 3 tiros
+• Daniel James: 2+ tiros → 1 de 2 tiros
+• Dennis Man: 2+ tiros → 1 de 2 tiros
+• Dinamarca hace más córners → Córners: 1 – 7
+• Elvis Rexhbecaj: 2+ tiros → 0 de 2 tiros
+• Empate en Irlanda–Kosovo → Marcador: 3–0
+• Empate en Ucrania–Georgia → Marcador: 1–0
+• Finn Azaz: 3+ tiros → 1 de 3 tiros
+• Gales o empate → Marcador: 2–3
+• Gana Dinamarca y ambos marcan → Marcador: 2–3
+• Gana Hungría → Marcador: 1–1
+
+❌ Fallos de los picks del bot y por qué:
+• Portugal hace más tiros a puerta — no llegó a la línea (2-3)
+
+📐 Modelo: 361/579 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo corners: 4/15 (-11 pts)
+⬇️ castigo tipo tiros a puerta: 0/2 (-5 pts)
+⬇️ castigo mercado ShotOnTarget 1x2|Away: 0/1 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-16
 
 ```

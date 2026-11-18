@@ -1,7 +1,7 @@
 # Monza – Fiorentina
 **Serie A** · Regular Season - 12 · 23/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -187,44 +187,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Pote | M | 9 | 226 | 1 | 2 | 6 | 0,7 | 2 | 0,2 | 4 | 1 | 0,1 | 0 | 0 |
 | Beto | F | 10 | 206 | 0 | 1 | 9 | 0,9 | 1 | 0,1 | 5 | 1 | 0,1 | 0 | 0 |
 | Dodô | D | 5 | 181 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,68 · visitante 1,70 · córners esperados 9,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 39% | 49% | 44% | 1.90 | -16% |
-| 1X2: X | 23% | 25% | 24% | 3.70 | -11% |
-| 1X2: 1 ✅ | 38% | 26% | 32% | 3.60 | +15% |
-| Doble oportunidad: X2 | 62% | 75% | 68% | 1.28 | -13% |
-| Doble oportunidad: 12 | 77% | 75% | 76% | 1.28 | -3% |
-| Doble oportunidad: 1X | 61% | 50% | 56% | 1.91 | +6% |
-| Ambos marcan: No | 34% | 39% | 36% | 2.38 | -13% |
-| Ambos marcan: Sí | 66% | 61% | 64% | 1.53 | -3% |
-| Goles más/menos: Más de 1.5 | 85% | 79% | 82% | 1.20 | -2% |
-| Goles más/menos: Más de 2.5 | 66% | 59% | 62% | 1.62 | +1% |
-| Goles más/menos: Más de 3.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles más/menos: Más de 4.5 | 25% | 21% | 23% | 4.50 | +4% |
-| Goles más/menos: Menos de 1.5 | 15% | 21% | 18% | 4.50 | -19% |
-| Goles más/menos: Menos de 2.5 | 34% | 41% | 38% | 2.30 | -13% |
-| Goles más/menos: Menos de 3.5 | 56% | 62% | 59% | 1.53 | -9% |
-| Goles más/menos: Menos de 4.5 | 75% | 79% | 77% | 1.20 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del local: Más de 0.5 | 81% | 71% | 76% | 1.33 | +1% |
-| Goles del local: Más de 1.5 ✅ | 50% | 38% | 44% | 2.50 | +9% |
-| Goles del local: Menos de 0.5 | 19% | 29% | 24% | 3.25 | -22% |
-| Goles del local: Menos de 1.5 | 50% | 62% | 56% | 1.50 | -16% |
-| Goles del visitante: Más de 1.5 | 51% | 54% | 52% | 1.73 | -10% |
-| Goles del visitante: Más de 2.5 | 24% | 28% | 26% | 3.40 | -12% |
-| Goles del visitante: Menos de 1.5 | 49% | 46% | 48% | 2.00 | -4% |
-| Goles del visitante: Menos de 2.5 | 76% | 72% | 74% | 1.30 | -4% |
-| Córners más/menos: Más de 9.5 | 41% | 44% | 43% | 2.10 | -10% |
-| Córners más/menos: Menos de 9.5 | 59% | 56% | 57% | 1.67 | -4% |
-| 1X2 descanso: 2 | 32% | 38% | 35% | 2.40 | -16% |
-| 1X2 descanso: X | 37% | 38% | 38% | 2.40 | -9% |
-| 1X2 descanso: 1 | 31% | 23% | 27% | 4.00 | +8% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

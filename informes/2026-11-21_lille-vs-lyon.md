@@ -1,7 +1,7 @@
 # Lille – Lyon
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -186,42 +186,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | K. Merah | F | 9 | 399 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 4 | 4 | 0,4 | 0 | 0 |
 | Malick Fofana | F | 6 | 335 | 2 | 0 | 11 | 1,8 | 10 | 1,7 | 5 | 10 | 1,7 | 0 | 0 |
 | Ainsley Maitland-Niles | D | 4 | 318 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,97 · visitante 1,01 · córners esperados 9,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 36% | 31% | 33% | 3.00 | -0% |
-| 1X2: X | 31% | 29% | 30% | 3.25 | -3% |
-| 1X2: 1 | 33% | 40% | 37% | 2.30 | -15% |
-| Doble oportunidad: X2 | 67% | 60% | 63% | 1.57 | -1% |
-| Doble oportunidad: 12 | 69% | 71% | 70% | 1.33 | -7% |
-| Doble oportunidad: 1X | 64% | 69% | 67% | 1.36 | -9% |
-| Ambos marcan: No | 61% | 48% | 54% | 1.95 | +6% |
-| Ambos marcan: Sí | 39% | 52% | 46% | 1.80 | -18% |
-| Goles más/menos: Más de 1.5 | 59% | 73% | 66% | 1.30 | -14% |
-| Goles más/menos: Más de 2.5 | 32% | 47% | 40% | 2.00 | -21% |
-| Goles más/menos: Más de 3.5 | 14% | 27% | 20% | 3.50 | -28% |
-| Goles más/menos: Menos de 1.5 ✅ | 41% | 27% | 34% | 3.50 | +20% |
-| Goles más/menos: Menos de 2.5 | 68% | 53% | 60% | 1.80 | +9% |
-| Goles más/menos: Menos de 3.5 | 86% | 73% | 80% | 1.30 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 58% | 66% | 62% | 1.40 | -13% |
-| Goles 1ª parte más/menos: Más de 1.5 | 21% | 31% | 26% | 3.00 | -21% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 42% | 34% | 38% | 2.75 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 79% | 69% | 74% | 1.36 | +0% |
-| Goles del local: Más de 0.5 | 62% | 73% | 68% | 1.28 | -13% |
-| Goles del local: Más de 1.5 | 25% | 41% | 33% | 2.25 | -25% |
-| Goles del local: Menos de 0.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
-| Goles del local: Menos de 1.5 | 75% | 59% | 67% | 1.57 | +5% |
-| Goles del visitante: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles del visitante: Más de 1.5 | 27% | 34% | 30% | 2.75 | -17% |
-| Goles del visitante: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles del visitante: Menos de 1.5 | 73% | 66% | 70% | 1.40 | -2% |
-| Córners más/menos: Más de 9.5 | 41% | 50% | 46% | 1.90 | -13% |
-| Córners más/menos: Menos de 9.5 | 59% | 50% | 54% | 1.90 | +3% |
-| 1X2 descanso: 2 | 25% | 26% | 25% | 3.60 | -8% |
-| 1X2 descanso: X | 51% | 44% | 47% | 2.10 | -1% |
-| 1X2 descanso: 1 | 24% | 31% | 27% | 3.00 | -18% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

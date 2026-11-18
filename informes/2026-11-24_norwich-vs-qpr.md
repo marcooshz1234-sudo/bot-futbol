@@ -1,7 +1,7 @@
 # Norwich – QPR
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | D. Cirkin | D | 11 | 425 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 5 | 7 | 0,6 | 1 | 1 |
 | A. Lloyd | F | 9 | 326 | 1 | 0 | 12 | 1,3 | 5 | 0,6 | 5 | 5 | 0,6 | 0 | 0 |
 | Rayan Jawad Kolli | F | 5 | 242 | 0 | 0 | 6 | 1,2 | 5 | 1,0 | 5 | 6 | 1,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,43 · visitante 1,42 · córners esperados 8,8._
-
-_Sin cuotas de Bet365 todavía para comparar._

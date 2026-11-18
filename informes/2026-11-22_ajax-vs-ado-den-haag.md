@@ -1,7 +1,7 @@
 # Ajax – ADO Den Haag
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -190,49 +190,3 @@ _Sin bajas comunicadas por ahora._
 | M. Jiménez | M | 4 | 220 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 7 | 1 | 0,2 | 1 | 0 |
 | Finn de Bruin | M | 4 | 176 | 0 | 1 | 5 | 1,2 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
 | L. Wilhelm | D | 4 | 135 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,79 · visitante 0,89 · córners esperados 9,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 9% | 8% | 9% | 12.00 | +3% |
-| 1X2: X | 14% | 12% | 13% | 7.50 | -1% |
-| 1X2: 1 | 77% | 80% | 78% | 1.17 | -8% |
-| Doble oportunidad: X2 | 23% | 19% | 21% | 5.00 | +7% |
-| Doble oportunidad: 12 | 86% | 88% | 87% | 1.10 | -4% |
-| Doble oportunidad: 1X | 91% | 92% | 92% | 1.05 | -4% |
-| Ambos marcan: No | 45% | 47% | 46% | 2.00 | -9% |
-| Ambos marcan: Sí | 55% | 53% | 54% | 1.75 | -5% |
-| Goles más/menos: Más de 2.5 | 71% | 74% | 72% | 1.28 | -7% |
-| Goles más/menos: Más de 3.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Goles más/menos: Más de 4.5 | 31% | 35% | 33% | 2.62 | -13% |
-| Goles más/menos: Más de 5.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles más/menos: Menos de 2.5 | 29% | 26% | 28% | 3.60 | -1% |
-| Goles más/menos: Menos de 3.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles más/menos: Menos de 4.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Menos de 5.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 51% | 49% | 1.80 | -11% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 27% | 24% | 3.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 49% | 51% | 1.91 | -4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 73% | 76% | 1.28 | -3% |
-| Goles del local: Más de 1.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles del local: Más de 2.5 | 53% | 59% | 56% | 1.57 | -12% |
-| Goles del local: Más de 3.5 | 31% | 38% | 34% | 2.50 | -15% |
-| Goles del local: Más de 4.5 | 15% | 22% | 18% | 4.33 | -20% |
-| Goles del local: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
-| Goles del local: Menos de 2.5 | 47% | 41% | 44% | 2.25 | -1% |
-| Goles del local: Menos de 3.5 | 69% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Menos de 4.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles del visitante: Más de 0.5 | 59% | 56% | 57% | 1.67 | -4% |
-| Goles del visitante: Más de 1.5 | 23% | 22% | 22% | 4.33 | -4% |
-| Goles del visitante: Menos de 0.5 | 41% | 44% | 43% | 2.10 | -11% |
-| Goles del visitante: Menos de 1.5 | 77% | 78% | 78% | 1.20 | -7% |
-| Córners más/menos: Más de 10.5 | 40% | 46% | 43% | 2.00 | -14% |
-| Córners más/menos: Menos de 10.5 | 60% | 54% | 57% | 1.73 | -2% |
-| 1X2 descanso: X | 31% | 29% | 30% | 3.25 | -4% |
-| 1X2 descanso: 1 | 57% | 62% | 60% | 1.50 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

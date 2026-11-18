@@ -1,7 +1,7 @@
 # Levante – Elche
 **LaLiga** · Regular Season - 13 · 23/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -188,44 +188,3 @@ _Sin bajas comunicadas por ahora._
 | David Affengruber | D | 3 | 270 | 0 | 0 | 3 | 1,0 | 0 | 0,0 | 1 | 4 | 1,3 | 0 | 0 |
 | Ali Houary | M | 4 | 235 | 0 | 0 | 5 | 1,2 | 2 | 0,5 | 3 | 2 | 0,5 | 1 | 0 |
 | Bigas | D | 6 | 211 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,52 · visitante 1,40 · córners esperados 8,9._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 35% | 30% | 33% | 3.10 | +1% |
-| 1X2: X | 25% | 26% | 25% | 3.60 | -9% |
-| 1X2: 1 | 40% | 44% | 42% | 2.15 | -10% |
-| Doble oportunidad: X2 | 60% | 57% | 58% | 1.67 | -3% |
-| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 65% | 70% | 67% | 1.36 | -9% |
-| Ambos marcan: No | 41% | 41% | 41% | 2.25 | -8% |
-| Ambos marcan: Sí | 59% | 59% | 59% | 1.57 | -8% |
-| Goles más/menos: Más de 1.5 | 79% | 78% | 78% | 1.22 | -4% |
-| Goles más/menos: Más de 2.5 | 56% | 57% | 56% | 1.67 | -6% |
-| Goles más/menos: Más de 3.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles más/menos: Menos de 1.5 | 21% | 22% | 22% | 4.33 | -7% |
-| Goles más/menos: Menos de 2.5 | 44% | 43% | 44% | 2.20 | -4% |
-| Goles más/menos: Menos de 3.5 | 66% | 66% | 66% | 1.44 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 72% | 72% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 28% | 28% | 3.40 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 62% | 63% | 1.50 | -5% |
-| Goles del local: Más de 0.5 | 78% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 1.5 | 45% | 50% | 47% | 1.83 | -13% |
-| Goles del local: Más de 2.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles del local: Menos de 0.5 | 22% | 21% | 21% | 4.50 | -4% |
-| Goles del local: Menos de 1.5 | 55% | 50% | 53% | 1.83 | -4% |
-| Goles del local: Menos de 2.5 | 80% | 75% | 78% | 1.25 | -3% |
-| Goles del visitante: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles del visitante: Más de 1.5 | 41% | 39% | 40% | 2.38 | -5% |
-| Goles del visitante: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -10% |
-| Goles del visitante: Menos de 1.5 | 59% | 61% | 60% | 1.53 | -8% |
-| Córners más/menos: Más de 9.5 | 39% | 44% | 42% | 2.10 | -12% |
-| Córners más/menos: Menos de 9.5 | 61% | 56% | 58% | 1.67 | -3% |
-| 1X2 descanso: 2 | 28% | 26% | 27% | 3.60 | -2% |
-| 1X2 descanso: X | 41% | 40% | 40% | 2.38 | -5% |
-| 1X2 descanso: 1 | 31% | 34% | 33% | 2.75 | -10% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

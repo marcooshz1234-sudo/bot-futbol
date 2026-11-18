@@ -1,16 +1,16 @@
 # Utebo – Sabadell
 **Copa del Rey** · Round of 128 · 18/11/2026 19:00 (hora España) · Campo Santa Ana
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:07_
+_Actualizadas: 18/11 02:22_
 
-- **1X2:** 1 **7.00**  ·  X **3.70**  ·  2 **1.53**
+- **1X2:** 1 **6.50**  ·  X **3.60**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.28**  ·  X2 **1.10**
-- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.06** · menos **9.50**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.25** · menos **1.33**
@@ -23,10 +23,10 @@ _Actualizadas: 17/11 20:07_
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **5.00** · menos **1.17**
 - **Goles del visitante:**
-    - 0,5: más **1.12** · menos **6.00**
+    - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
 - **1X2 descanso:** 1 **6.50**  ·  X **2.30**  ·  2 **2.05**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -35,11 +35,11 @@ _Actualizadas: 17/11 20:07_
     - 3,5: más **11.00** · menos **1.05**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **3.50**  ·  2 **1.28**
-- **To Score In Both Halves By Teams:** 1 **9.00**  ·  2 **2.50**
-- **Win Both Halves:** 1 **29.00**  ·  2 **3.75**
-- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.60**  ·  Home/No **11.00**  ·  Draw/No **9.50**  ·  Away/No **2.38**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.30**
+- **To Win Either Half:** 1 **3.40**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **8.00**  ·  2 **2.50**
+- **Win Both Halves:** 1 **26.00**  ·  2 **3.75**
+- **Results/Both Teams Score:** Home/Yes **13.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.75**  ·  Home/No **11.00**  ·  Draw/No **9.50**  ·  Away/No **2.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Utebo (total) | Utebo en casa | Sabadell (total) | Sabadell fuera |
@@ -141,6 +141,3 @@ _Sin precedentes recientes._
 | Javi López | M | 8 | 307 | 0 | 0 | 11 | 1,4 | 3 | 0,4 | 2 | 2 | 0,2 | 0 | 0 |
 | N. Obolskiy | F | 11 | 255 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 12 | 6 | 0,5 | 2 | 0 |
 | Pipa | M | 5 | 181 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

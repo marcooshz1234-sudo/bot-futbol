@@ -1,7 +1,7 @@
 # Juventus – Venezia
 **Serie A** · Regular Season - 12 · 22/11/2026 12:30 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -185,45 +185,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | P. Mazzocchi | M | 5 | 274 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
 | L. Lauberbach | F | 9 | 265 | 0 | 0 | 6 | 0,7 | 3 | 0,3 | 1 | 4 | 0,4 | 0 | 0 |
 | A. Rrahmani | F | 10 | 224 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 1 | 2 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,09 · visitante 0,71 · córners esperados 10,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 12% | 11% | 12% | 8.00 | -8% |
-| 1X2: X | 19% | 19% | 19% | 4.75 | -9% |
-| 1X2: 1 | 69% | 69% | 69% | 1.33 | -8% |
-| Doble oportunidad: X2 | 31% | 30% | 30% | 3.25 | -2% |
-| Doble oportunidad: 12 | 81% | 81% | 81% | 1.18 | -4% |
-| Doble oportunidad: 1X | 88% | 89% | 89% | 1.08 | -4% |
-| Ambos marcan: No | 55% | 50% | 53% | 1.91 | +1% |
-| Ambos marcan: Sí | 45% | 50% | 47% | 1.91 | -10% |
-| Goles más/menos: Más de 1.5 | 77% | 79% | 78% | 1.20 | -6% |
-| Goles más/menos: Más de 2.5 | 53% | 59% | 56% | 1.62 | -9% |
-| Goles más/menos: Más de 3.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles más/menos: Más de 4.5 | 15% | 21% | 18% | 4.50 | -18% |
-| Goles más/menos: Menos de 1.5 | 23% | 21% | 22% | 4.50 | -1% |
-| Goles más/menos: Menos de 2.5 | 47% | 41% | 44% | 2.30 | +1% |
-| Goles más/menos: Menos de 3.5 | 69% | 62% | 66% | 1.53 | +0% |
-| Goles más/menos: Menos de 4.5 | 85% | 79% | 82% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 41% | 38% | 2.25 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 59% | 62% | 1.57 | -2% |
-| Goles del local: Más de 1.5 | 62% | 66% | 64% | 1.40 | -10% |
-| Goles del local: Más de 2.5 | 35% | 41% | 38% | 2.25 | -15% |
-| Goles del local: Más de 3.5 | 16% | 22% | 19% | 4.33 | -19% |
-| Goles del local: Menos de 1.5 | 38% | 34% | 36% | 2.75 | -1% |
-| Goles del local: Menos de 2.5 | 65% | 59% | 62% | 1.57 | -3% |
-| Goles del local: Menos de 3.5 | 84% | 78% | 81% | 1.20 | -3% |
-| Goles del visitante: Más de 0.5 | 51% | 54% | 52% | 1.73 | -10% |
-| Goles del visitante: Más de 1.5 | 16% | 21% | 18% | 4.50 | -17% |
-| Goles del visitante: Menos de 0.5 | 49% | 46% | 48% | 2.00 | -5% |
-| Goles del visitante: Menos de 1.5 | 84% | 79% | 82% | 1.18 | -4% |
-| Córners más/menos: Más de 9.5 | 50% | 54% | 52% | 1.73 | -11% |
-| Córners más/menos: Menos de 9.5 | 50% | 46% | 48% | 2.00 | -3% |
-| 1X2 descanso: X | 39% | 36% | 37% | 2.62 | -3% |
-| 1X2 descanso: 1 | 49% | 52% | 51% | 1.80 | -9% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

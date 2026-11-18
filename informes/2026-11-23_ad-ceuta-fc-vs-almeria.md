@@ -1,7 +1,7 @@
 # AD Ceuta FC – Almeria
 **Segunda División** · Regular Season - 15 · 23/11/2026 20:30 (hora España) · Estadio Municipal Alfonso Murube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -181,46 +181,3 @@ _Sin bajas comunicadas por ahora._
 | Léo Baptistão | F | 12 | 280 | 1 | 1 | 11 | 0,9 | 4 | 0,3 | 4 | 7 | 0,6 | 1 | 0 |
 | Rodrigo Ely | D | 2 | 170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,5 | 1 | 0 |
 | Jon Morcillo | F | 5 | 153 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,00 · visitante 1,94 · córners esperados 10,0._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 59% | 50% | 55% | 1.83 | -0% |
-| 1X2: X | 22% | 25% | 24% | 3.60 | -15% |
-| 1X2: 1 | 19% | 25% | 22% | 3.70 | -19% |
-| Doble oportunidad: X2 | 81% | 75% | 78% | 1.28 | -0% |
-| Doble oportunidad: 12 | 78% | 75% | 77% | 1.28 | -2% |
-| Doble oportunidad: 1X | 41% | 50% | 46% | 1.91 | -13% |
-| Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
-| Goles más/menos: Más de 1.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles más/menos: Más de 2.5 | 56% | 58% | 57% | 1.62 | -7% |
-| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles más/menos: Más de 4.5 | 18% | 21% | 19% | 4.50 | -14% |
-| Goles más/menos: Menos de 1.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles más/menos: Menos de 2.5 | 44% | 42% | 43% | 2.25 | -4% |
-| Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles más/menos: Menos de 4.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 39% | 38% | 2.38 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 61% | 62% | 1.53 | -5% |
-| Goles del local: Más de 0.5 | 63% | 71% | 67% | 1.33 | -11% |
-| Goles del local: Más de 1.5 | 27% | 35% | 31% | 2.62 | -19% |
-| Goles del local: Menos de 0.5 | 37% | 29% | 33% | 3.25 | +7% |
-| Goles del local: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del visitante: Más de 1.5 | 58% | 54% | 56% | 1.73 | -4% |
-| Goles del visitante: Más de 2.5 | 31% | 28% | 29% | 3.40 | -1% |
-| Goles del visitante: Menos de 1.5 | 42% | 46% | 44% | 2.00 | -11% |
-| Goles del visitante: Menos de 2.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Córners más/menos: Más de 9.5 | 49% | 48% | 48% | 1.98 | -4% |
-| Córners más/menos: Menos de 9.5 | 51% | 52% | 52% | 1.82 | -6% |
-| 1X2 descanso: 2 | 43% | 38% | 41% | 2.40 | -2% |
-| 1X2 descanso: X | 39% | 38% | 39% | 2.40 | -7% |
-| 1X2 descanso: 1 | 18% | 23% | 21% | 4.00 | -18% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

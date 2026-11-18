@@ -1,7 +1,7 @@
 # Chelsea – Leeds
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -179,40 +179,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Rodon | D | 4 | 215 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,5 | 0 | 0 |
 | M. Bard | D | 3 | 141 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 | M. Zetterer | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,01 · visitante 1,43 · córners esperados 9,2._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 27% | 24% | 26% | 3.90 | +0% |
-| 1X2: X | 22% | 26% | 24% | 3.60 | -15% |
-| 1X2: 1 | 51% | 50% | 51% | 1.85 | -6% |
-| Doble oportunidad: X2 | 49% | 50% | 49% | 1.91 | -6% |
-| Doble oportunidad: 12 | 78% | 74% | 76% | 1.28 | -2% |
-| Doble oportunidad: 1X | 73% | 76% | 74% | 1.25 | -7% |
-| Ambos marcan: No | 34% | 44% | 39% | 2.10 | -18% |
-| Ambos marcan: Sí | 66% | 56% | 61% | 1.67 | +2% |
-| Goles más/menos: Más de 1.5 | 86% | 78% | 82% | 1.22 | -0% |
-| Goles más/menos: Más de 2.5 | 67% | 55% | 61% | 1.73 | +5% |
-| Goles más/menos: Más de 3.5 ✅ | 45% | 34% | 40% | 2.75 | +9% |
-| Goles más/menos: Menos de 1.5 | 14% | 22% | 18% | 4.33 | -22% |
-| Goles más/menos: Menos de 2.5 | 33% | 45% | 39% | 2.10 | -18% |
-| Goles más/menos: Menos de 3.5 | 55% | 66% | 60% | 1.44 | -13% |
-| Goles 1ª parte más/menos: Más de 0.5 | 78% | 71% | 74% | 1.33 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 44% | 38% | 41% | 2.50 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 22% | 29% | 26% | 3.25 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 56% | 62% | 59% | 1.50 | -11% |
-| Goles del local: Más de 1.5 | 60% | 51% | 56% | 1.80 | -0% |
-| Goles del local: Más de 2.5 | 33% | 27% | 30% | 3.50 | +4% |
-| Goles del local: Menos de 1.5 | 40% | 49% | 44% | 1.91 | -15% |
-| Goles del local: Menos de 2.5 | 67% | 73% | 70% | 1.28 | -10% |
-| Goles del visitante: Más de 0.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del visitante: Más de 1.5 ✅ | 42% | 31% | 37% | 3.00 | +10% |
-| Goles del visitante: Menos de 0.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del visitante: Menos de 1.5 | 58% | 69% | 63% | 1.36 | -14% |
-| 1X2 descanso: 2 | 25% | 21% | 23% | 4.33 | -1% |
-| 1X2 descanso: X | 36% | 40% | 38% | 2.30 | -12% |
-| 1X2 descanso: 1 | 39% | 38% | 39% | 2.40 | -7% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

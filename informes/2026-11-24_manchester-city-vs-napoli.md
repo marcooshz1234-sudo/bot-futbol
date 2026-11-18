@@ -1,7 +1,7 @@
 # Manchester City – Napoli
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -182,43 +182,3 @@ _Sin bajas comunicadas por ahora._
 | L. Lucca | F | 13 | 325 | 0 | 0 | 10 | 0,8 | 3 | 0,2 | 9 | 6 | 0,5 | 1 | 0 |
 | S. Beukema | D | 6 | 303 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 | Alisson Santos | F | 5 | 274 | 0 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,57 · visitante 1,02 · córners esperados 9,9._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 13% | 10% | 11% | 9.50 | +8% |
-| 1X2: X | 16% | 15% | 16% | 6.25 | -2% |
-| 1X2: 1 | 71% | 75% | 73% | 1.25 | -9% |
-| Doble oportunidad: X2 | 29% | 25% | 27% | 3.75 | +2% |
-| Doble oportunidad: 12 | 84% | 85% | 84% | 1.12 | -5% |
-| Doble oportunidad: 1X | 87% | 89% | 88% | 1.07 | -6% |
-| Ambos marcan: No | 41% | 45% | 43% | 2.05 | -11% |
-| Ambos marcan: Sí | 59% | 55% | 57% | 1.70 | -3% |
-| Goles más/menos: Más de 2.5 | 70% | 70% | 70% | 1.36 | -5% |
-| Goles más/menos: Más de 3.5 | 48% | 50% | 49% | 1.91 | -6% |
-| Goles más/menos: Más de 4.5 | 29% | 32% | 30% | 3.00 | -9% |
-| Goles más/menos: Menos de 2.5 | 30% | 30% | 30% | 3.20 | -4% |
-| Goles más/menos: Menos de 3.5 | 52% | 50% | 51% | 1.91 | -3% |
-| Goles más/menos: Menos de 4.5 | 71% | 68% | 70% | 1.40 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del local: Más de 1.5 | 73% | 75% | 74% | 1.25 | -8% |
-| Goles del local: Más de 2.5 | 47% | 54% | 51% | 1.73 | -13% |
-| Goles del local: Más de 3.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles del local: Menos de 1.5 | 27% | 25% | 26% | 3.75 | -2% |
-| Goles del local: Menos de 2.5 | 53% | 46% | 49% | 2.00 | -1% |
-| Goles del local: Menos de 3.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 0.5 | 64% | 58% | 61% | 1.62 | -2% |
-| Goles del visitante: Más de 1.5 | 27% | 23% | 25% | 4.00 | +1% |
-| Goles del visitante: Menos de 0.5 | 36% | 42% | 39% | 2.20 | -14% |
-| Goles del visitante: Menos de 1.5 | 73% | 77% | 75% | 1.22 | -9% |
-| 1X2 descanso: X | 33% | 30% | 32% | 3.00 | -5% |
-| 1X2 descanso: 1 | 53% | 58% | 55% | 1.57 | -13% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

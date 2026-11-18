@@ -1,7 +1,7 @@
 # Sepsi OSK Sfantu Gheorghe – Rapid
 **Liga I** · Regular Season - 16 · 23/11/2026 19:00 (hora España) · Stadionul Sepsi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | Rareș Pop | M | 8 | 306 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 3 | 4 | 0,5 | 0 | 0 |
 | Daniel Graovac | D | 5 | 289 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
 | Sheriff Sinyan | D | 5 | 276 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 1 | 0,2 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,76 · visitante 1,48 · córners esperados 9,9._
-
-_Sin cuotas de Bet365 todavía para comparar._

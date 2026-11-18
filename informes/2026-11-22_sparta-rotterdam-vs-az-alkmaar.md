@@ -1,7 +1,7 @@
 # Sparta Rotterdam – AZ Alkmaar
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Sparta Stadion Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -189,46 +189,3 @@ _Sin bajas comunicadas por ahora._
 | B. Kovacs | F | 7 | 189 | 0 | 0 | 7 | 1,0 | 2 | 0,3 | 1 | 3 | 0,4 | 0 | 0 |
 | S. Maikuma | D | 7 | 180 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 5 | 4 | 0,6 | 1 | 0 |
 | D. Kasius | D | 7 | 172 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,35 · visitante 2,32 · córners esperados 10,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 59% | 54% | 56% | 1.73 | -3% |
-| 1X2: X | 19% | 23% | 21% | 4.00 | -15% |
-| 1X2: 1 | 22% | 23% | 22% | 4.00 | -11% |
-| Doble oportunidad: X2 | 78% | 77% | 78% | 1.22 | -5% |
-| Doble oportunidad: 12 | 81% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 41% | 46% | 43% | 2.05 | -11% |
-| Ambos marcan: No | 33% | 35% | 34% | 2.62 | -10% |
-| Ambos marcan: Sí | 67% | 65% | 66% | 1.44 | -5% |
-| Goles más/menos: Más de 2.5 | 71% | 65% | 68% | 1.44 | -2% |
-| Goles más/menos: Más de 3.5 | 50% | 44% | 47% | 2.10 | -1% |
-| Goles más/menos: Más de 4.5 | 31% | 27% | 29% | 3.50 | +1% |
-| Goles más/menos: Menos de 2.5 | 29% | 35% | 32% | 2.70 | -14% |
-| Goles más/menos: Menos de 3.5 | 50% | 56% | 53% | 1.67 | -12% |
-| Goles más/menos: Menos de 4.5 | 69% | 73% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 44% | 46% | 2.10 | -4% |
-| Goles 1ª parte más/menos: Más de 2.5 | 22% | 21% | 21% | 4.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 23% | 22% | 4.00 | -13% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 56% | 54% | 1.67 | -10% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 78% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 0.5 | 74% | 72% | 73% | 1.30 | -5% |
-| Goles del local: Más de 1.5 | 39% | 39% | 39% | 2.38 | -7% |
-| Goles del local: Menos de 0.5 | 26% | 28% | 27% | 3.40 | -9% |
-| Goles del local: Menos de 1.5 | 61% | 61% | 61% | 1.53 | -7% |
-| Goles del visitante: Más de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del visitante: Más de 2.5 | 41% | 35% | 38% | 2.62 | +0% |
-| Goles del visitante: Menos de 1.5 | 33% | 39% | 36% | 2.38 | -15% |
-| Goles del visitante: Menos de 2.5 | 59% | 65% | 62% | 1.44 | -11% |
-| Córners más/menos: Más de 10.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Córners más/menos: Menos de 10.5 | 56% | 50% | 53% | 1.83 | -3% |
-| 1X2 descanso: 2 | 45% | 42% | 43% | 2.20 | -5% |
-| 1X2 descanso: X | 34% | 35% | 35% | 2.60 | -10% |
-| 1X2 descanso: 1 | 21% | 23% | 22% | 4.00 | -12% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

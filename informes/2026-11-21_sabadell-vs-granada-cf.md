@@ -1,7 +1,7 @@
 # Sabadell – Granada CF
 **Segunda División** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Estadi de la Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -179,44 +179,3 @@ _Sin precedentes recientes._
 | Alejandro Marqués | F | 9 | 347 | 2 | 0 | 8 | 0,9 | 4 | 0,4 | 6 | 7 | 0,8 | 0 | 0 |
 | Benedikt Gimber | D | 4 | 315 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 3 | 3 | 0,8 | 1 | 0 |
 | K. Bamba | M | 5 | 135 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 6 | 1,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,79 · visitante 0,98 · córners esperados 8,8._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 39% | 29% | 34% | 3.20 | +8% |
-| 1X2: X | 33% | 30% | 31% | 3.10 | -3% |
-| 1X2: 1 | 28% | 42% | 35% | 2.20 | -23% |
-| Doble oportunidad: X2 | 72% | 58% | 65% | 1.67 | +8% |
-| Doble oportunidad: 12 | 67% | 71% | 69% | 1.36 | -6% |
-| Doble oportunidad: 1X | 61% | 71% | 66% | 1.36 | -10% |
-| Ambos marcan: No | 66% | 51% | 59% | 1.80 | +6% |
-| Ambos marcan: Sí | 34% | 49% | 41% | 1.91 | -21% |
-| Goles más/menos: Más de 1.5 | 53% | 66% | 60% | 1.40 | -17% |
-| Goles más/menos: Más de 2.5 | 26% | 42% | 34% | 2.25 | -23% |
-| Goles más/menos: Más de 3.5 | 10% | 23% | 17% | 4.00 | -32% |
-| Goles más/menos: Menos de 1.5 | 47% | 34% | 40% | 2.75 | +11% |
-| Goles más/menos: Menos de 2.5 | 74% | 58% | 66% | 1.62 | +7% |
-| Goles más/menos: Menos de 3.5 | 90% | 77% | 83% | 1.22 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles 1ª parte más/menos: Más de 1.5 | 18% | 29% | 24% | 3.25 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 46% | 35% | 41% | 2.62 | +7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 82% | 71% | 76% | 1.33 | +2% |
-| Goles del local: Más de 0.5 | 54% | 69% | 62% | 1.36 | -16% |
-| Goles del local: Más de 1.5 | 19% | 35% | 27% | 2.62 | -29% |
-| Goles del local: Menos de 0.5 | 46% | 31% | 38% | 3.00 | +15% |
-| Goles del local: Menos de 1.5 | 81% | 65% | 73% | 1.44 | +5% |
-| Goles del visitante: Más de 0.5 | 63% | 66% | 64% | 1.40 | -10% |
-| Goles del visitante: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles del visitante: Menos de 0.5 | 37% | 34% | 36% | 2.75 | -2% |
-| Goles del visitante: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Córners más/menos: Más de 8.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Córners más/menos: Menos de 8.5 | 52% | 46% | 49% | 2.00 | -1% |
-| 1X2 descanso: 2 | 26% | 23% | 25% | 4.00 | -0% |
-| 1X2 descanso: X | 53% | 46% | 49% | 2.05 | +1% |
-| 1X2 descanso: 1 | 20% | 31% | 26% | 3.00 | -23% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

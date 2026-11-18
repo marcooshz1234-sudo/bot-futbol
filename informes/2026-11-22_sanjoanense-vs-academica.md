@@ -1,7 +1,7 @@
 # Sanjoanense – Academica
 **Taça de Portugal** · Round of 32 · 22/11/2026 12:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -104,6 +104,3 @@ _Sin precedentes recientes._
 | Hugo Nunes | M | 1 | 20 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | Rui Gomes | F | 1 | 20 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 | Ilies Fauré | F | 1 | 3 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

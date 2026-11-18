@@ -1,7 +1,7 @@
 # NEC Nijmegen – PSV Eindhoven
 **Eredivisie** · Regular Season - 13 · 21/11/2026 16:30 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -192,50 +192,3 @@ _Sin bajas comunicadas por ahora._
 | A. Bouhamdi | F | 7 | 200 | 0 | 2 | 6 | 0,9 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
 | A. Santos | M | 6 | 121 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 2 | 4 | 0,7 | 0 | 0 |
 | D. Man | F | 7 | 118 | 0 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 1 | 0,1 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 2,47 · córners esperados 8,8._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 66% | 54% | 60% | 1.73 | +4% |
-| 1X2: X | 18% | 22% | 20% | 4.33 | -15% |
-| 1X2: 1 | 16% | 24% | 20% | 3.90 | -21% |
-| Doble oportunidad: X2 | 84% | 75% | 80% | 1.25 | -1% |
-| Doble oportunidad: 12 | 82% | 79% | 80% | 1.20 | -4% |
-| Doble oportunidad: 1X | 34% | 46% | 40% | 2.05 | -18% |
-| Ambos marcan: No | 37% | 29% | 33% | 3.25 | +7% |
-| Ambos marcan: Sí | 63% | 71% | 67% | 1.33 | -11% |
-| Goles más/menos: Más de 2.5 | 70% | 74% | 72% | 1.28 | -8% |
-| Goles más/menos: Más de 3.5 | 49% | 56% | 52% | 1.67 | -12% |
-| Goles más/menos: Más de 4.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles más/menos: Más de 5.5 | 16% | 22% | 19% | 4.33 | -18% |
-| Goles más/menos: Menos de 2.5 | 30% | 26% | 28% | 3.60 | +1% |
-| Goles más/menos: Menos de 3.5 | 51% | 44% | 48% | 2.10 | -0% |
-| Goles más/menos: Menos de 4.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles más/menos: Menos de 5.5 | 84% | 78% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 51% | 49% | 1.80 | -11% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 27% | 24% | 3.50 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 49% | 51% | 1.91 | -3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 73% | 76% | 1.28 | -3% |
-| Goles del local: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
-| Goles del local: Más de 1.5 | 33% | 46% | 39% | 2.00 | -21% |
-| Goles del local: Más de 2.5 | 11% | 22% | 17% | 4.33 | -28% |
-| Goles del local: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +9% |
-| Goles del local: Menos de 1.5 | 67% | 54% | 61% | 1.73 | +5% |
-| Goles del local: Menos de 2.5 | 89% | 78% | 83% | 1.20 | +0% |
-| Goles del visitante: Más de 1.5 | 71% | 66% | 68% | 1.40 | -4% |
-| Goles del visitante: Más de 2.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles del visitante: Más de 3.5 | 24% | 23% | 23% | 4.00 | -6% |
-| Goles del visitante: Menos de 1.5 | 29% | 34% | 32% | 2.75 | -13% |
-| Goles del visitante: Menos de 2.5 | 55% | 58% | 56% | 1.62 | -9% |
-| Goles del visitante: Menos de 3.5 | 76% | 77% | 77% | 1.22 | -7% |
-| Córners más/menos: Más de 9.5 | 38% | 56% | 47% | 1.67 | -21% |
-| Córners más/menos: Menos de 9.5 | 62% | 44% | 53% | 2.10 | +11% |
-| 1X2 descanso: 2 | 49% | 43% | 46% | 2.20 | +1% |
-| 1X2 descanso: X | 33% | 34% | 34% | 2.75 | -7% |
-| 1X2 descanso: 1 | 17% | 23% | 20% | 4.00 | -19% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

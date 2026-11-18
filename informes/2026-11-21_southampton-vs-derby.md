@@ -1,7 +1,7 @@
 # Southampton – Derby
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -188,45 +188,3 @@ _Sin bajas comunicadas por ahora._
 | M. Johnston | D | 9 | 407 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | Josh Vickers | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | L. Salvesen | F | 14 | 290 | 2 | 0 | 12 | 0,9 | 6 | 0,4 | 10 | 1 | 0,1 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,37 · visitante 0,82 · córners esperados 9,8._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 11% | 14% | 13% | 6.50 | -17% |
-| 1X2: X | 17% | 20% | 18% | 4.75 | -13% |
-| 1X2: 1 | 72% | 66% | 69% | 1.40 | -3% |
-| Doble oportunidad: X2 | 28% | 34% | 31% | 2.75 | -14% |
-| Doble oportunidad: 12 | 83% | 80% | 82% | 1.18 | -4% |
-| Doble oportunidad: 1X | 89% | 85% | 87% | 1.11 | -3% |
-| Ambos marcan: No | 49% | 46% | 48% | 2.00 | -4% |
-| Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -10% |
-| Goles más/menos: Más de 2.5 | 62% | 62% | 62% | 1.53 | -5% |
-| Goles más/menos: Más de 3.5 | 39% | 40% | 40% | 2.38 | -6% |
-| Goles más/menos: Más de 4.5 | 22% | 24% | 23% | 4.00 | -9% |
-| Goles más/menos: Menos de 2.5 | 38% | 38% | 38% | 2.50 | -5% |
-| Goles más/menos: Menos de 3.5 | 61% | 60% | 60% | 1.57 | -5% |
-| Goles más/menos: Menos de 4.5 | 78% | 76% | 77% | 1.25 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
-| Goles del local: Más de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 2.5 | 42% | 41% | 42% | 2.25 | -6% |
-| Goles del local: Más de 3.5 | 21% | 22% | 22% | 4.33 | -7% |
-| Goles del local: Menos de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles del local: Menos de 2.5 | 58% | 59% | 58% | 1.57 | -8% |
-| Goles del local: Menos de 3.5 | 79% | 78% | 78% | 1.20 | -6% |
-| Goles del visitante: Más de 0.5 | 56% | 59% | 57% | 1.57 | -10% |
-| Goles del visitante: Más de 1.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles del visitante: Menos de 0.5 | 44% | 41% | 43% | 2.25 | -4% |
-| Goles del visitante: Menos de 1.5 | 80% | 75% | 78% | 1.25 | -3% |
-| Córners más/menos: Más de 10.5 | 39% | 53% | 46% | 1.80 | -17% |
-| Córners más/menos: Menos de 10.5 | 61% | 47% | 54% | 2.00 | +8% |
-| 1X2 descanso: X | 35% | 35% | 35% | 2.62 | -8% |
-| 1X2 descanso: 1 | 52% | 51% | 51% | 1.83 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

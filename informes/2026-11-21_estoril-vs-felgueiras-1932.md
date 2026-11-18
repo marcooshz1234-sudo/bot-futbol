@@ -1,7 +1,7 @@
 # Estoril – Felgueiras 1932
 **Taça de Portugal** · Round of 32 · 21/11/2026 17:00 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -112,8 +112,3 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Felgueiras 1932
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-## Probabilidades del modelo
-_Goles esperados: local 0,87 · visitante 1,57 · córners esperados 8,1._
-
-_Sin cuotas de Bet365 todavía para comparar._

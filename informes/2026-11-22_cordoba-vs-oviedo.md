@@ -1,7 +1,7 @@
 # Cordoba – Oviedo
 **Segunda División** · Regular Season - 15 · 22/11/2026 14:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -185,46 +185,3 @@ _Sin bajas comunicadas por ahora._
 | Nacho Vidal | D | 8 | 338 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 5 | 5 | 0,6 | 1 | 0 |
 | V. Mingo | F | 11 | 315 | 0 | 1 | 17 | 1,5 | 6 | 0,5 | 9 | 8 | 0,7 | 1 | 0 |
 | Estanis | M | 7 | 291 | 2 | 0 | 11 | 1,6 | 4 | 0,6 | 5 | 8 | 1,1 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,08 · visitante 1,86 · córners esperados 10,2._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 35% | 25% | 30% | 3.70 | +11% |
-| 1X2: X | 21% | 26% | 23% | 3.50 | -18% |
-| 1X2: 1 | 44% | 49% | 47% | 1.85 | -14% |
-| Doble oportunidad: X2 | 56% | 52% | 54% | 1.80 | -3% |
-| Doble oportunidad: 12 | 79% | 74% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 65% | 74% | 69% | 1.25 | -13% |
-| Ambos marcan: No | 26% | 41% | 34% | 2.25 | -24% |
-| Ambos marcan: Sí | 74% | 59% | 66% | 1.57 | +4% |
-| Goles más/menos: Más de 1.5 | 90% | 79% | 85% | 1.18 | +0% |
-| Goles más/menos: Más de 2.5 | 75% | 58% | 67% | 1.62 | +8% |
-| Goles más/menos: Más de 3.5 | 55% | 38% | 46% | 2.50 | +16% |
-| Goles más/menos: Más de 4.5 | 36% | 21% | 28% | 4.50 | +27% |
-| Goles más/menos: Menos de 1.5 | 10% | 21% | 15% | 4.50 | -32% |
-| Goles más/menos: Menos de 2.5 | 25% | 42% | 33% | 2.25 | -25% |
-| Goles más/menos: Menos de 3.5 | 45% | 62% | 54% | 1.50 | -20% |
-| Goles más/menos: Menos de 4.5 | 64% | 79% | 72% | 1.18 | -15% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 73% | 78% | 1.28 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 51% | 39% | 45% | 2.38 | +7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 27% | 22% | 3.50 | -22% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 49% | 61% | 55% | 1.53 | -16% |
-| Goles del local: Más de 1.5 | 61% | 54% | 58% | 1.73 | -0% |
-| Goles del local: Más de 2.5 | 34% | 28% | 31% | 3.40 | +6% |
-| Goles del local: Menos de 1.5 | 39% | 46% | 42% | 2.00 | -15% |
-| Goles del local: Menos de 2.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 0.5 | 84% | 71% | 78% | 1.33 | +3% |
-| Goles del visitante: Más de 1.5 | 55% | 35% | 45% | 2.62 | +19% |
-| Goles del visitante: Menos de 0.5 | 16% | 29% | 22% | 3.25 | -27% |
-| Goles del visitante: Menos de 1.5 | 45% | 65% | 55% | 1.44 | -21% |
-| Córners más/menos: Más de 10.5 | 42% | 51% | 47% | 1.80 | -16% |
-| Córners más/menos: Menos de 10.5 | 58% | 49% | 53% | 1.91 | +1% |
-| 1X2 descanso: 2 | 30% | 23% | 27% | 4.00 | +7% |
-| 1X2 descanso: X | 34% | 38% | 36% | 2.40 | -13% |
-| 1X2 descanso: 1 | 36% | 38% | 37% | 2.40 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

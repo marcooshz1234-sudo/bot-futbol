@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17 20:16",
+ "generado": "2026-11-18 02:26",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,104 +7,6 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-11-17": {
-   "picks": [
-    {
-     "partido_id": 1528993,
-     "fecha": "2026-11-17T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Denmark",
-     "visitante": "Norway",
-     "mercado": "Total - Home",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Denmark marca 2 o más",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Denmark 4/5 · Norway (en contra) 4/5",
-     "valor_mercado": -0.027,
-     "movimiento": -0.1,
-     "cuota_inicial": 2.0,
-     "arbitro": "Halil Umut Meler",
-     "arbitro_tarjetas": 3.7,
-     "prob_aprendida": 0.711
-    },
-    {
-     "partido_id": 1528996,
-     "fecha": "2026-11-17T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Israel",
-     "visitante": "Austria",
-     "mercado": "Corners 1x2",
-     "opcion": "Away",
-     "tipo": "corners",
-     "texto": "Austria hace más córners",
-     "cuota": 1.57,
-     "frecuencia": 0.8,
-     "ventaja": 0.163,
-     "detalle": "Israel 4/5 · Austria 4/5",
-     "valor_mercado": 0.026,
-     "arbitro": "Davide Massa",
-     "arbitro_tarjetas": 3.0,
-     "prob_aprendida": 0.407
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1528993,
-     "fecha": "2026-11-17T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Denmark",
-     "visitante": "Norway",
-     "mercado": "Total - Home",
-     "opcion": "Over 1.5",
-     "tipo": "goles",
-     "texto": "Denmark marca 2 o más",
-     "cuota": 1.8,
-     "frecuencia": 0.8,
-     "ventaja": 0.244,
-     "detalle": "Denmark 4/5 · Norway (en contra) 4/5",
-     "valor_mercado": -0.027,
-     "movimiento": -0.1,
-     "cuota_inicial": 2.0,
-     "arbitro": "Halil Umut Meler",
-     "arbitro_tarjetas": 3.7,
-     "prob_aprendida": 0.711
-    },
-    {
-     "partido_id": 1528996,
-     "fecha": "2026-11-17T20:45",
-     "competicion": "Nations League",
-     "liga_id": 5,
-     "local": "Israel",
-     "visitante": "Austria",
-     "mercado": "Corners 1x2",
-     "opcion": "Away",
-     "tipo": "corners",
-     "texto": "Austria hace más córners",
-     "cuota": 1.57,
-     "frecuencia": 0.8,
-     "ventaja": 0.163,
-     "detalle": "Israel 4/5 · Austria 4/5",
-     "valor_mercado": 0.026,
-     "arbitro": "Davide Massa",
-     "arbitro_tarjetas": 3.0,
-     "prob_aprendida": 0.407
-    }
-   ],
-   "combis": {
-    "segura": null,
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {},
-   "combis_partido": []
-  },
   "2026-11-20": {
    "picks": [
     {
@@ -125,7 +27,33 @@
      "valor_mercado": 0.059,
      "movimiento": 0.059,
      "cuota_inicial": 1.53,
-     "prob_aprendida": 0.644
+     "prob_aprendida": 0.657
+    },
+    {
+     "partido_id": 1575221,
+     "fecha": "2026-11-20T20:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayern München",
+     "visitante": "1. FC Köln",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "1. FC Köln hace más de 2,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.8,
+     "ventaja": 0.183,
+     "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
+     "valor_mercado": 0.012,
+     "movimiento": -0.115,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      1,
+      15,
+      18
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.459
     }
    ],
    "mejores_por_partido": [
@@ -147,7 +75,33 @@
      "valor_mercado": 0.059,
      "movimiento": 0.059,
      "cuota_inicial": 1.53,
-     "prob_aprendida": 0.644
+     "prob_aprendida": 0.657
+    },
+    {
+     "partido_id": 1575221,
+     "fecha": "2026-11-20T20:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Bayern München",
+     "visitante": "1. FC Köln",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "1. FC Köln hace más de 2,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.8,
+     "ventaja": 0.183,
+     "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
+     "valor_mercado": 0.012,
+     "movimiento": -0.115,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      1,
+      15,
+      18
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.459
     }
    ],
    "combis": {
@@ -156,7 +110,57 @@
     "loca": null,
     "doble": null
    },
-   "estilos": {},
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
+       "partido_id": 1551380,
+       "fecha": "2026-11-20T19:00",
+       "competicion": "1. Division",
+       "liga_id": 120,
+       "local": "Kolding IF",
+       "visitante": "Aalborg",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Kolding IF gana alguna de las dos partes",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Kolding IF 7/10 · Aalborg 6/10",
+       "valor_mercado": -0.011,
+       "prob_aprendida": 0.665
+      },
+      {
+       "partido_id": 1570025,
+       "fecha": "2026-11-20T20:30",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "FC Andorra",
+       "visitante": "Leganes",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "FC Andorra gana alguna de las dos partes",
+       "cuota": 1.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.033,
+       "detalle": "FC Andorra 6/10 · Leganes 8/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        21,
+        16,
+        22
+       ],
+       "contexto": "peor_lejos_abajo",
+       "prob_aprendida": 0.672
+      }
+     ],
+     "cuota": 2.75,
+     "titulo": "👑 VIERNES DE FAVORITOS",
+     "tema": "favoritos"
+    }
+   },
    "combis_partido": []
   },
   "2026-11-21": {
@@ -185,7 +189,7 @@
       20
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.693
+     "prob_aprendida": 0.707
     },
     {
      "partido_id": 1550202,
@@ -211,7 +215,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.761
+     "prob_aprendida": 0.767
     },
     {
      "partido_id": 1570034,
@@ -242,7 +246,7 @@
       22
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.598
+     "prob_aprendida": 0.6
     },
     {
      "partido_id": 1552823,
@@ -268,7 +272,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.594
+     "prob_aprendida": 0.597
     },
     {
      "partido_id": 1575222,
@@ -292,7 +296,7 @@
       18
      ],
      "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.412
+     "prob_aprendida": 0.425
     }
    ],
    "mejores_por_partido": [
@@ -320,7 +324,7 @@
       20
      ],
      "contexto": "mejor_lejos_medio",
-     "prob_aprendida": 0.693
+     "prob_aprendida": 0.707
     },
     {
      "partido_id": 1550202,
@@ -346,7 +350,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.761
+     "prob_aprendida": 0.767
     },
     {
      "partido_id": 1570034,
@@ -377,7 +381,7 @@
       22
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.598
+     "prob_aprendida": 0.6
     },
     {
      "partido_id": 1552823,
@@ -403,7 +407,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.594
+     "prob_aprendida": 0.597
     },
     {
      "partido_id": 1575222,
@@ -427,7 +431,7 @@
       18
      ],
      "contexto": "peor_lejos_medio",
-     "prob_aprendida": 0.412
+     "prob_aprendida": 0.425
     }
    ],
    "combis": {
@@ -459,7 +463,7 @@
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.693
+       "prob_aprendida": 0.707
       },
       {
        "partido_id": 1550202,
@@ -485,7 +489,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.761
+       "prob_aprendida": 0.767
       },
       {
        "partido_id": 1570034,
@@ -516,7 +520,7 @@
         22
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.598
+       "prob_aprendida": 0.6
       },
       {
        "partido_id": 1552823,
@@ -542,7 +546,7 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.594
+       "prob_aprendida": 0.597
       },
       {
        "partido_id": 1575222,
@@ -566,7 +570,7 @@
         18
        ],
        "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.412
+       "prob_aprendida": 0.425
       }
      ],
      "cuota": 11.98
@@ -576,6 +580,34 @@
    "estilos": {
     "tema": {
      "picks": [
+      {
+       "partido_id": 1552226,
+       "fecha": "2026-11-21T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Feyenoord",
+       "visitante": "Excelsior",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Excelsior marca",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "Feyenoord (en contra) 7/10 · Excelsior 6/10",
+       "valor_mercado": -0.035,
+       "movimiento": -0.072,
+       "cuota_inicial": 1.8,
+       "prob_xg": 0.691,
+       "xg_esperado": 3.17,
+       "posiciones": [
+        2,
+        15,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.604
+      },
       {
        "partido_id": 1552233,
        "fecha": "2026-11-21T18:45",
@@ -600,36 +632,10 @@
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.553
-      },
-      {
-       "partido_id": 1552819,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lens",
-       "visitante": "Toulouse",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Toulouse o empate",
-       "cuota": 1.95,
-       "frecuencia": 0.7,
-       "ventaja": 0.187,
-       "detalle": "Lens 7/10 · Toulouse 7/10",
-       "valor_mercado": -0.025,
-       "movimiento": -0.049,
-       "cuota_inicial": 2.05,
-       "posiciones": [
-        11,
-        12,
-        18
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.553
+       "prob_aprendida": 0.564
       }
      ],
-     "cuota": 3.9,
+     "cuota": 3.34,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
@@ -661,7 +667,7 @@
         24
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.605
+       "prob_aprendida": 0.609
       },
       {
        "partido_id": 1563268,
@@ -685,7 +691,7 @@
         24
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.553
+       "prob_aprendida": 0.565
       },
       {
        "partido_id": 1563272,
@@ -709,7 +715,7 @@
         24
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.55
+       "prob_aprendida": 0.56
       }
      ],
      "cuota": 6.96,
@@ -718,6 +724,30 @@
     },
     "atreve": {
      "picks": [
+      {
+       "partido_id": 1557476,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Tottenham",
+       "visitante": "Ipswich",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
+       "cuota": 1.8,
+       "frecuencia": 0.65,
+       "ventaja": 0.094,
+       "detalle": "Tottenham 6/10 · Ipswich 7/10",
+       "valor_mercado": -0.022,
+       "posiciones": [
+        11,
+        14,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.661
+      },
       {
        "partido_id": 1552820,
        "fecha": "2026-11-21T20:45",
@@ -742,31 +772,7 @@
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.651
-      },
-      {
-       "partido_id": 1557476,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Tottenham",
-       "visitante": "Ipswich",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Tottenham 6/10 · Ipswich 7/10",
-       "valor_mercado": -0.022,
-       "posiciones": [
-        11,
-        14,
-        20
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.652
+       "prob_aprendida": 0.658
       },
       {
        "partido_id": 1575229,
@@ -790,7 +796,7 @@
         18
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.637
+       "prob_aprendida": 0.645
       }
      ],
      "cuota": 5.39
@@ -821,7 +827,7 @@
         20
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.693
+       "prob_aprendida": 0.707
       },
       {
        "partido_id": 1550202,
@@ -847,7 +853,25 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.761
+       "prob_aprendida": 0.767
+      },
+      {
+       "partido_id": 1565303,
+       "fecha": "2026-11-21T16:30",
+       "competicion": "Liga I",
+       "liga_id": 283,
+       "local": "CFR 1907 Cluj",
+       "visitante": "Oţelul",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "CFR 1907 Cluj gana alguna de las dos partes",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "CFR 1907 Cluj 6/10 · Oţelul 7/10",
+       "valor_mercado": 0.0,
+       "prob_aprendida": 0.668
       },
       {
        "partido_id": 1575223,
@@ -873,25 +897,31 @@
         18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.651
+       "prob_aprendida": 0.657
       },
       {
-       "partido_id": 1565303,
-       "fecha": "2026-11-21T16:30",
-       "competicion": "Liga I",
-       "liga_id": 283,
-       "local": "CFR 1907 Cluj",
-       "visitante": "Oţelul",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "CFR 1907 Cluj gana alguna de las dos partes",
-       "cuota": 1.67,
+       "partido_id": 1557476,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Tottenham",
+       "visitante": "Ipswich",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
+       "cuota": 1.8,
        "frecuencia": 0.65,
-       "ventaja": 0.051,
-       "detalle": "CFR 1907 Cluj 6/10 · Oţelul 7/10",
-       "valor_mercado": 0.0,
-       "prob_aprendida": 0.66
+       "ventaja": 0.094,
+       "detalle": "Tottenham 6/10 · Ipswich 7/10",
+       "valor_mercado": -0.022,
+       "posiciones": [
+        11,
+        14,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.661
       },
       {
        "partido_id": 1552820,
@@ -917,31 +947,7 @@
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.651
-      },
-      {
-       "partido_id": 1557476,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Tottenham",
-       "visitante": "Ipswich",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich",
-       "cuota": 1.8,
-       "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Tottenham 6/10 · Ipswich 7/10",
-       "valor_mercado": -0.022,
-       "posiciones": [
-        11,
-        14,
-        20
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.652
+       "prob_aprendida": 0.658
       },
       {
        "partido_id": 1575229,
@@ -965,7 +971,7 @@
         18
        ],
        "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.637
+       "prob_aprendida": 0.645
       },
       {
        "partido_id": 1563270,
@@ -993,7 +999,31 @@
         24
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.605
+       "prob_aprendida": 0.609
+      },
+      {
+       "partido_id": 1575226,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Borussia Mönchengladbach",
+       "visitante": "Borussia Dortmund",
+       "mercado": "Home Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Borussia Mönchengladbach hace más de 3,5 córners",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Borussia Mönchengladbach 6/10 · Borussia Dortmund (en contra) 7/10",
+       "valor_mercado": 0.017,
+       "posiciones": [
+        18,
+        2,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.592
       },
       {
        "partido_id": 1552826,
@@ -1019,91 +1049,36 @@
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.602
+       "prob_aprendida": 0.606
       },
       {
-       "partido_id": 1570034,
+       "partido_id": 1570453,
        "fecha": "2026-11-21T14:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Sabadell",
-       "visitante": "Granada CF",
-       "mercado": "Away Player Shots",
-       "opcion": "Ruben Alcaraz - 1",
-       "cuota": 1.57,
-       "frecuencia": 0.9,
-       "ventaja": 0.263,
-       "tipo": "jugador",
-       "jugador": "Ruben Alcaraz",
-       "equipo": "Granada CF",
-       "jugador_id": 47485,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Ruben Alcaraz: 1+ tiros",
-       "detalle": "Ruben Alcaraz 9/10",
-       "temporada": "9/12",
-       "movimiento": -0.06,
-       "cuota_inicial": 1.67,
-       "posiciones": [
-        14,
-        3,
-        22
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.598
-      },
-      {
-       "partido_id": 1575226,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Borussia Mönchengladbach",
-       "visitante": "Borussia Dortmund",
-       "mercado": "Home Corners Over/Under",
-       "opcion": "Over 3.5",
-       "tipo": "corners",
-       "texto": "Borussia Mönchengladbach hace más de 3,5 córners",
-       "cuota": 1.83,
-       "frecuencia": 0.65,
-       "ventaja": 0.104,
-       "detalle": "Borussia Mönchengladbach 6/10 · Borussia Dortmund (en contra) 7/10",
-       "valor_mercado": 0.017,
-       "posiciones": [
-        18,
-        2,
-        18
-       ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.578
-      },
-      {
-       "partido_id": 1550204,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Napoli",
-       "visitante": "Torino",
+       "competicion": "LaLiga",
+       "liga_id": 140,
+       "local": "Alaves",
+       "visitante": "Deportivo La Coruna",
        "mercado": "Both Teams Score",
        "opcion": "Yes",
        "tipo": "goles",
-       "texto": "Ambos marcan en Napoli–Torino",
-       "cuota": 1.8,
+       "texto": "Ambos marcan en Alaves–Deportivo La Coruna",
+       "cuota": 1.95,
        "frecuencia": 0.65,
-       "ventaja": 0.094,
-       "detalle": "Napoli 7/10 · Torino 6/10",
-       "valor_mercado": -0.011,
-       "prob_xg": 0.588,
-       "xg_esperado": 2.92,
+       "ventaja": 0.137,
+       "detalle": "Alaves 7/10 · Deportivo La Coruna 6/10",
+       "valor_mercado": 0.043,
+       "prob_xg": 0.499,
+       "xg_esperado": 2.53,
        "posiciones": [
-        10,
-        11,
+        12,
+        9,
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.592
+       "prob_aprendida": 0.558
       }
      ],
-     "cuota": 618.87
+     "cuota": 427.04
     }
    },
    "combis_partido": []
@@ -1134,7 +1109,7 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.686
+     "prob_aprendida": 0.7
     },
     {
      "partido_id": 1550199,
@@ -1160,7 +1135,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.697
+     "prob_aprendida": 0.708
     },
     {
      "partido_id": 1557473,
@@ -1186,7 +1161,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.664
+     "prob_aprendida": 0.673
     },
     {
      "partido_id": 1570031,
@@ -1210,7 +1185,7 @@
       22
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.685
+     "prob_aprendida": 0.691
     },
     {
      "partido_id": 1570030,
@@ -1234,7 +1209,7 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.673
+     "prob_aprendida": 0.68
     },
     {
      "partido_id": 1575224,
@@ -1258,7 +1233,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.619
+     "prob_aprendida": 0.623
     },
     {
      "partido_id": 1563264,
@@ -1284,7 +1259,7 @@
       24
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.606
+     "prob_aprendida": 0.61
     },
     {
      "partido_id": 1575227,
@@ -1308,7 +1283,33 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.607
+     "prob_aprendida": 0.611
+    },
+    {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Ajax–ADO Den Haag",
+     "cuota": 1.75,
+     "frecuencia": 0.8,
+     "ventaja": 0.229,
+     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": 0.023,
+     "prob_xg": 0.629,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.58
     },
     {
      "partido_id": 1570030,
@@ -1332,7 +1333,7 @@
       22
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.404
+     "prob_aprendida": 0.418
     }
    ],
    "mejores_por_partido": [
@@ -1360,7 +1361,7 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.686
+     "prob_aprendida": 0.7
     },
     {
      "partido_id": 1550199,
@@ -1386,7 +1387,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.697
+     "prob_aprendida": 0.708
     },
     {
      "partido_id": 1557473,
@@ -1412,7 +1413,7 @@
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.664
+     "prob_aprendida": 0.673
     },
     {
      "partido_id": 1570031,
@@ -1436,7 +1437,7 @@
       22
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.685
+     "prob_aprendida": 0.691
     },
     {
      "partido_id": 1575224,
@@ -1460,7 +1461,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.619
+     "prob_aprendida": 0.623
     },
     {
      "partido_id": 1563264,
@@ -1486,7 +1487,7 @@
       24
      ],
      "contexto": "total_lejos_abajo",
-     "prob_aprendida": 0.606
+     "prob_aprendida": 0.61
     },
     {
      "partido_id": 1575227,
@@ -1510,7 +1511,33 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.607
+     "prob_aprendida": 0.611
+    },
+    {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Ajax–ADO Den Haag",
+     "cuota": 1.75,
+     "frecuencia": 0.8,
+     "ventaja": 0.229,
+     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": 0.023,
+     "prob_xg": 0.629,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.58
     }
    ],
    "combis": {
@@ -1542,7 +1569,7 @@
         22
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.686
+       "prob_aprendida": 0.7
       },
       {
        "partido_id": 1550199,
@@ -1568,7 +1595,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.697
+       "prob_aprendida": 0.708
       },
       {
        "partido_id": 1557473,
@@ -1594,7 +1621,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.664
+       "prob_aprendida": 0.673
       },
       {
        "partido_id": 1575224,
@@ -1618,7 +1645,7 @@
         18
        ],
        "contexto": "total_igualado_abajo",
-       "prob_aprendida": 0.619
+       "prob_aprendida": 0.623
       },
       {
        "partido_id": 1563264,
@@ -1644,7 +1671,7 @@
         24
        ],
        "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.606
+       "prob_aprendida": 0.61
       }
      ],
      "cuota": 14.46
@@ -1678,7 +1705,7 @@
         22
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.699
+       "prob_aprendida": 0.709
       },
       {
        "partido_id": 1570031,
@@ -1702,7 +1729,7 @@
         22
        ],
        "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.685
+       "prob_aprendida": 0.691
       },
       {
        "partido_id": 1570030,
@@ -1728,7 +1755,7 @@
         22
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.617
+       "prob_aprendida": 0.623
       }
      ],
      "cuota": 3.95,
@@ -1759,7 +1786,7 @@
         18
        ],
        "contexto": "peor_igualado_abajo",
-       "prob_aprendida": 0.661
+       "prob_aprendida": 0.669
       },
       {
        "partido_id": 1550199,
@@ -1787,7 +1814,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.655
+       "prob_aprendida": 0.663
       },
       {
        "partido_id": 1552232,
@@ -1815,7 +1842,7 @@
         18
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.571
+       "prob_aprendida": 0.577
       }
      ],
      "cuota": 6.8
@@ -1847,7 +1874,7 @@
       22
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.572
+     "prob_aprendida": 0.582
     }
    ],
    "mejores_por_partido": [
@@ -1873,7 +1900,7 @@
       22
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.572
+     "prob_aprendida": 0.582
     }
    ],
    "combis": {

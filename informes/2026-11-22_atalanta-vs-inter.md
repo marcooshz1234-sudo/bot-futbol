@@ -1,7 +1,7 @@
 # Atalanta – Inter
 **Serie A** · Regular Season - 12 · 22/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -190,46 +190,3 @@ _Sin bajas comunicadas por ahora._
 | B. Pavard | D | 6 | 260 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,3 | 0 | 0 |
 | Curtis Jones | M | 5 | 242 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 4 | 0,8 | 0 | 0 |
 | Luis Henrique | F | 6 | 226 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 0 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 2,20 · córners esperados 9,6._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 61% | 58% | 60% | 1.62 | -3% |
-| 1X2: X | 20% | 22% | 21% | 4.20 | -11% |
-| 1X2: 1 | 19% | 20% | 19% | 4.75 | -8% |
-| Doble oportunidad: X2 | 81% | 80% | 81% | 1.18 | -5% |
-| Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 39% | 42% | 40% | 2.25 | -9% |
-| Ambos marcan: No | 39% | 35% | 37% | 2.62 | -2% |
-| Ambos marcan: Sí | 61% | 65% | 63% | 1.44 | -10% |
-| Goles más/menos: Más de 2.5 | 65% | 68% | 67% | 1.40 | -7% |
-| Goles más/menos: Más de 3.5 | 43% | 47% | 45% | 2.00 | -10% |
-| Goles más/menos: Más de 4.5 | 25% | 28% | 26% | 3.40 | -10% |
-| Goles más/menos: Menos de 2.5 | 35% | 32% | 33% | 3.00 | +0% |
-| Goles más/menos: Menos de 3.5 | 57% | 53% | 55% | 1.80 | -1% |
-| Goles más/menos: Menos de 4.5 | 75% | 72% | 74% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 46% | 45% | 2.00 | -11% |
-| Goles 1ª parte más/menos: Más de 2.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 23% | 23% | 4.00 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 54% | 55% | 1.73 | -4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 82% | 78% | 80% | 1.20 | -4% |
-| Goles del local: Más de 0.5 | 68% | 71% | 70% | 1.33 | -7% |
-| Goles del local: Más de 1.5 | 32% | 38% | 35% | 2.50 | -13% |
-| Goles del local: Menos de 0.5 | 32% | 29% | 30% | 3.25 | -1% |
-| Goles del local: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
-| Goles del visitante: Más de 1.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del visitante: Más de 2.5 | 38% | 39% | 38% | 2.38 | -9% |
-| Goles del visitante: Más de 3.5 | 18% | 21% | 19% | 4.50 | -13% |
-| Goles del visitante: Menos de 1.5 | 35% | 35% | 35% | 2.62 | -7% |
-| Goles del visitante: Menos de 2.5 | 62% | 61% | 62% | 1.53 | -6% |
-| Goles del visitante: Menos de 3.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Córners más/menos: Más de 8.5 | 54% | 54% | 54% | 1.73 | -6% |
-| Córners más/menos: Menos de 8.5 | 46% | 46% | 46% | 2.00 | -8% |
-| 1X2 descanso: 2 | 46% | 45% | 45% | 2.05 | -8% |
-| 1X2 descanso: X | 36% | 35% | 35% | 2.62 | -7% |
-| 1X2 descanso: 1 | 19% | 20% | 19% | 4.50 | -12% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

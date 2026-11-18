@@ -1,24 +1,24 @@
 # Badajoz – Tenerife
 **Copa del Rey** · Round of 128 · 18/11/2026 20:00 (hora España) · Estadio Nuevo Vivero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:07_
+_Actualizadas: 18/11 02:22_
 
-- **1X2:** 1 **4.75**  ·  X **3.70**  ·  2 **1.70**
+- **1X2:** 1 **4.75**  ·  X **3.60**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.28**  ·  X2 **1.18**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.95**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.91**
 - **Goles más/menos:**
-    - 0,5: más **1.05** · menos **11.00**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.36** · menos **3.00**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
     - 0,5: más **1.57** · menos **2.25**
     - 1,5: más **3.75** · menos **1.25**
@@ -30,17 +30,17 @@ _Actualizadas: 17/11 20:07_
     - 3,5: más **8.00** · menos **1.08**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.25**  ·  2 **2.25**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.22** · menos **4.00**
+    - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **11.00** · menos **1.05**
+    - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
 - **To Win Either Half:** 1 **2.75**  ·  2 **1.40**
 - **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.62**
 - **Win Both Halves:** 1 **21.00**  ·  2 **4.50**
 - **Results/Both Teams Score:** Home/Yes **9.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.75**  ·  Home/No **9.00**  ·  Draw/No **10.00**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Badajoz (total) | Badajoz en casa | Tenerife (total) | Tenerife fuera |
@@ -142,6 +142,3 @@ _Sin precedentes recientes._
 | Iván Chapela | M | 6 | 245 | 1 | 1 | 2 | 0,3 | 1 | 0,2 | 2 | 6 | 1,0 | 1 | 0 |
 | M. Pečar | M | 8 | 219 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 3 | 0,4 | 0 | 0 |
 | R. Jureškin | D | 3 | 203 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

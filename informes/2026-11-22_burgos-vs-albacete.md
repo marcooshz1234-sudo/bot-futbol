@@ -1,7 +1,7 @@
 # Burgos – Albacete
 **Segunda División** · Regular Season - 15 · 22/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -185,45 +185,3 @@ _Sin bajas comunicadas por ahora._
 | Róber | M | 8 | 318 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 6 | 14 | 1,8 | 0 | 0 |
 | D. Bernabeu | D | 11 | 309 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 11 | 11 | 1,0 | 0 | 0 |
 | Javi Villar | M | 8 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 4 | 0,5 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,74 · visitante 0,99 · córners esperados 9,5._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 21% | 21% | 21% | 4.50 | -5% |
-| 1X2: X | 24% | 27% | 25% | 3.50 | -12% |
-| 1X2: 1 | 55% | 52% | 54% | 1.80 | -4% |
-| Doble oportunidad: X2 | 45% | 48% | 47% | 1.95 | -9% |
-| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 79% | 79% | 79% | 1.18 | -7% |
-| Ambos marcan: No | 48% | 50% | 49% | 1.83 | -10% |
-| Ambos marcan: Sí | 52% | 50% | 51% | 1.83 | -7% |
-| Goles más/menos: Más de 1.5 | 76% | 72% | 74% | 1.30 | -4% |
-| Goles más/menos: Más de 2.5 | 51% | 47% | 49% | 2.00 | -1% |
-| Goles más/menos: Más de 3.5 | 29% | 27% | 28% | 3.50 | -2% |
-| Goles más/menos: Menos de 1.5 | 24% | 28% | 26% | 3.40 | -12% |
-| Goles más/menos: Menos de 2.5 | 49% | 53% | 51% | 1.80 | -9% |
-| Goles más/menos: Menos de 3.5 | 71% | 73% | 72% | 1.28 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 34% | 34% | 2.75 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 66% | 66% | 1.40 | -7% |
-| Goles del local: Más de 0.5 | 82% | 77% | 80% | 1.22 | -3% |
-| Goles del local: Más de 1.5 | 52% | 44% | 48% | 2.10 | +1% |
-| Goles del local: Más de 2.5 | 25% | 21% | 23% | 4.50 | +4% |
-| Goles del local: Menos de 0.5 | 18% | 23% | 20% | 4.00 | -18% |
-| Goles del local: Menos de 1.5 | 48% | 56% | 52% | 1.67 | -13% |
-| Goles del local: Menos de 2.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Goles del visitante: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del visitante: Más de 1.5 | 26% | 29% | 28% | 3.25 | -10% |
-| Goles del visitante: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles del visitante: Menos de 1.5 | 74% | 71% | 72% | 1.33 | -4% |
-| Córners más/menos: Más de 9.5 | 45% | 49% | 47% | 1.91 | -10% |
-| Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -5% |
-| 1X2 descanso: X | 41% | 42% | 42% | 2.20 | -8% |
-| 1X2 descanso: 1 | 40% | 39% | 39% | 2.40 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

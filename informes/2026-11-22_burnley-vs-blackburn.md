@@ -1,7 +1,7 @@
 # Burnley – Blackburn
 **Championship** · Regular Season - 16 · 22/11/2026 13:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -188,44 +188,3 @@ _Sin bajas comunicadas por ahora._
 | Gady Beyuku | D | 5 | 261 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 5 | 4 | 0,8 | 2 | 0 |
 | J. Garrett | M | 8 | 227 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 6 | 4 | 0,5 | 1 | 0 |
 | Y. Ohashi | F | 7 | 159 | 0 | 1 | 3 | 0,4 | 2 | 0,3 | 8 | 5 | 0,7 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,62 · visitante 1,42 · córners esperados 9,9._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 34% | 25% | 29% | 3.60 | +6% |
-| 1X2: X | 24% | 24% | 24% | 3.75 | -10% |
-| 1X2: 1 | 42% | 51% | 46% | 1.80 | -16% |
-| Doble oportunidad: X2 | 58% | 50% | 54% | 1.83 | -1% |
-| Doble oportunidad: 12 | 76% | 76% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X | 66% | 74% | 70% | 1.25 | -12% |
-| Ambos marcan: No | 39% | 44% | 42% | 2.10 | -12% |
-| Ambos marcan: Sí | 61% | 56% | 58% | 1.67 | -3% |
-| Goles más/menos: Más de 1.5 | 81% | 78% | 79% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 59% | 55% | 57% | 1.73 | -2% |
-| Goles más/menos: Más de 3.5 | 36% | 34% | 35% | 2.75 | -3% |
-| Goles más/menos: Menos de 1.5 | 19% | 22% | 21% | 4.33 | -11% |
-| Goles más/menos: Menos de 2.5 | 41% | 45% | 43% | 2.10 | -9% |
-| Goles más/menos: Menos de 3.5 | 64% | 66% | 65% | 1.44 | -7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 71% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 35% | 37% | 2.62 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 29% | 28% | 3.25 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles del local: Más de 1.5 | 48% | 51% | 50% | 1.80 | -10% |
-| Goles del local: Más de 2.5 | 22% | 27% | 25% | 3.50 | -14% |
-| Goles del local: Menos de 1.5 | 52% | 49% | 50% | 1.91 | -4% |
-| Goles del local: Menos de 2.5 | 78% | 73% | 75% | 1.28 | -3% |
-| Goles del visitante: Más de 0.5 | 76% | 66% | 71% | 1.40 | -0% |
-| Goles del visitante: Más de 1.5 | 42% | 31% | 36% | 3.00 | +9% |
-| Goles del visitante: Menos de 0.5 | 24% | 34% | 29% | 2.75 | -21% |
-| Goles del visitante: Menos de 1.5 | 58% | 69% | 64% | 1.36 | -14% |
-| Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: 2 | 28% | 22% | 25% | 4.33 | +7% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.38 | -6% |
-| 1X2 descanso: 1 | 33% | 39% | 36% | 2.40 | -14% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

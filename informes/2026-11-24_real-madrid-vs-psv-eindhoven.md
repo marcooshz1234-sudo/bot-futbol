@@ -1,7 +1,7 @@
 # Real Madrid – PSV Eindhoven
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -179,43 +179,3 @@ _Sin precedentes recientes._
 | A. Bouhamdi | F | 7 | 200 | 0 | 2 | 6 | 0,9 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
 | A. Santos | M | 6 | 121 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 2 | 4 | 0,7 | 0 | 0 |
 | D. Man | F | 7 | 118 | 0 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 1 | 0,1 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,36 · visitante 1,13 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 17% | 8% | 12% | 12.00 | +47% |
-| 1X2: X | 19% | 13% | 16% | 7.50 | +16% |
-| 1X2: 1 | 65% | 80% | 72% | 1.18 | -15% |
-| Doble oportunidad: X2 | 35% | 21% | 28% | 4.50 | +27% |
-| Doble oportunidad: 12 | 81% | 87% | 84% | 1.10 | -7% |
-| Doble oportunidad: 1X | 83% | 91% | 87% | 1.05 | -8% |
-| Ambos marcan: No | 39% | 38% | 38% | 2.50 | -5% |
-| Ambos marcan: Sí | 61% | 62% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 3.5 | 46% | 66% | 56% | 1.44 | -20% |
-| Goles más/menos: Más de 4.5 | 27% | 47% | 37% | 2.00 | -25% |
-| Goles más/menos: Más de 5.5 | 14% | 30% | 22% | 3.20 | -30% |
-| Goles más/menos: Menos de 3.5 | 54% | 34% | 44% | 2.75 | +21% |
-| Goles más/menos: Menos de 4.5 | 73% | 53% | 63% | 1.80 | +13% |
-| Goles más/menos: Menos de 5.5 | 86% | 70% | 78% | 1.36 | +6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 59% | 52% | 1.57 | -19% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 34% | 27% | 2.75 | -27% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 41% | 48% | 2.25 | +8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 66% | 73% | 1.40 | +3% |
-| Goles del local: Más de 2.5 | 42% | 65% | 53% | 1.44 | -23% |
-| Goles del local: Más de 3.5 | 21% | 44% | 33% | 2.10 | -31% |
-| Goles del local: Más de 4.5 | 9% | 27% | 18% | 3.50 | -37% |
-| Goles del local: Menos de 2.5 | 58% | 35% | 47% | 2.62 | +22% |
-| Goles del local: Menos de 3.5 | 79% | 56% | 67% | 1.67 | +12% |
-| Goles del local: Menos de 4.5 | 91% | 73% | 82% | 1.28 | +5% |
-| Goles del visitante: Más de 0.5 | 68% | 65% | 66% | 1.44 | -5% |
-| Goles del visitante: Más de 1.5 | 31% | 29% | 30% | 3.25 | -2% |
-| Goles del visitante: Menos de 0.5 | 32% | 35% | 34% | 2.62 | -11% |
-| Goles del visitante: Menos de 1.5 | 69% | 71% | 70% | 1.33 | -7% |
-| 1X2 descanso: X | 34% | 26% | 30% | 3.60 | +9% |
-| 1X2 descanso: 1 | 48% | 62% | 55% | 1.50 | -17% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

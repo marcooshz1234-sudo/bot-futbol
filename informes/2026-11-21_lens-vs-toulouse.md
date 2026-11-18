@@ -1,7 +1,7 @@
 # Lens – Toulouse
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -186,44 +186,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | A. Dønnum | M | 4 | 188 | 1 | 1 | 2 | 0,5 | 2 | 0,5 | 2 | 6 | 1,5 | 1 | 0 |
 | Julián Vignolo | F | 5 | 186 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 5 | 4 | 0,8 | 0 | 0 |
 | Yann Gboho | M | 2 | 170 | 0 | 1 | 2 | 1,0 | 0 | 0,0 | 3 | 6 | 3,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,64 · visitante 1,91 · córners esperados 9,5._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 ✅ | 45% | 23% | 34% | 4.00 | +36% |
-| 1X2: X | 22% | 25% | 23% | 3.75 | -12% |
-| 1X2: 1 | 34% | 52% | 43% | 1.80 | -23% |
-| Doble oportunidad: X2 | 66% | 48% | 57% | 1.95 | +12% |
-| Doble oportunidad: 12 | 78% | 75% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 55% | 77% | 66% | 1.22 | -19% |
-| Ambos marcan: No | 31% | 42% | 37% | 2.20 | -19% |
-| Ambos marcan: Sí | 69% | 58% | 63% | 1.62 | +2% |
-| Goles más/menos: Más de 1.5 | 87% | 79% | 83% | 1.20 | -0% |
-| Goles más/menos: Más de 2.5 | 69% | 59% | 64% | 1.62 | +3% |
-| Goles más/menos: Más de 3.5 | 48% | 38% | 43% | 2.50 | +7% |
-| Goles más/menos: Más de 4.5 | 29% | 21% | 25% | 4.50 | +12% |
-| Goles más/menos: Menos de 1.5 | 13% | 21% | 17% | 4.50 | -23% |
-| Goles más/menos: Menos de 2.5 | 31% | 41% | 36% | 2.30 | -17% |
-| Goles más/menos: Menos de 3.5 | 52% | 62% | 57% | 1.53 | -12% |
-| Goles más/menos: Menos de 4.5 | 71% | 79% | 75% | 1.20 | -10% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 72% | 76% | 1.30 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 39% | 42% | 2.38 | +1% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 28% | 24% | 3.40 | -17% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 61% | 58% | 1.53 | -12% |
-| Goles del local: Más de 1.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Goles del local: Más de 2.5 | 23% | 29% | 26% | 3.25 | -16% |
-| Goles del local: Menos de 1.5 | 51% | 46% | 49% | 2.00 | -3% |
-| Goles del local: Menos de 2.5 | 77% | 71% | 74% | 1.33 | -1% |
-| Goles del visitante: Más de 0.5 | 85% | 69% | 77% | 1.36 | +5% |
-| Goles del visitante: Más de 1.5 ✅ | 57% | 34% | 45% | 2.75 | +25% |
-| Goles del visitante: Menos de 0.5 | 15% | 31% | 23% | 3.00 | -31% |
-| Goles del visitante: Menos de 1.5 | 43% | 66% | 55% | 1.40 | -24% |
-| Córners más/menos: Más de 9.5 | 45% | 49% | 47% | 1.91 | -11% |
-| Córners más/menos: Menos de 9.5 | 55% | 51% | 53% | 1.80 | -4% |
-| 1X2 descanso: 2 | 35% | 22% | 28% | 4.33 | +23% |
-| 1X2 descanso: X | 36% | 39% | 38% | 2.38 | -11% |
-| 1X2 descanso: 1 | 29% | 39% | 34% | 2.38 | -19% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Marseille – Le Mans
 **Ligue 1** · Regular Season - 11 · 22/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -185,43 +185,3 @@ _Sin precedentes recientes._
 | Y. Larouci | D | 6 | 241 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 2 | 4 | 0,7 | 0 | 0 |
 | Ewan Hatfout | G | 3 | 189 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
 | Théo Eyoum | D | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,05 · visitante 1,31 · córners esperados 9,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 24% | 14% | 19% | 6.50 | +25% |
-| 1X2: X | 21% | 21% | 21% | 4.33 | -8% |
-| 1X2: 1 | 54% | 64% | 59% | 1.44 | -15% |
-| Doble oportunidad: X2 ✅ | 46% | 36% | 41% | 2.62 | +7% |
-| Doble oportunidad: 12 | 79% | 79% | 79% | 1.20 | -6% |
-| Doble oportunidad: 1X | 76% | 85% | 80% | 1.11 | -11% |
-| Ambos marcan: No | 36% | 44% | 40% | 2.10 | -15% |
-| Ambos marcan: Sí | 64% | 56% | 60% | 1.67 | -0% |
-| Goles más/menos: Más de 2.5 | 65% | 64% | 64% | 1.50 | -3% |
-| Goles más/menos: Más de 3.5 | 43% | 43% | 43% | 2.20 | -5% |
-| Goles más/menos: Más de 4.5 | 25% | 24% | 24% | 4.00 | -3% |
-| Goles más/menos: Menos de 2.5 | 35% | 36% | 36% | 2.62 | -7% |
-| Goles más/menos: Menos de 3.5 | 57% | 57% | 57% | 1.67 | -5% |
-| Goles más/menos: Menos de 4.5 | 75% | 76% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 43% | 42% | 43% | 2.20 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 57% | 58% | 57% | 1.62 | -7% |
-| Goles del local: Más de 1.5 | 61% | 66% | 63% | 1.40 | -11% |
-| Goles del local: Más de 2.5 | 34% | 41% | 37% | 2.25 | -16% |
-| Goles del local: Más de 3.5 | 15% | 22% | 18% | 4.33 | -20% |
-| Goles del local: Menos de 1.5 | 39% | 34% | 37% | 2.75 | +1% |
-| Goles del local: Menos de 2.5 | 66% | 59% | 63% | 1.57 | -2% |
-| Goles del local: Menos de 3.5 | 85% | 78% | 82% | 1.20 | -2% |
-| Goles del visitante: Más de 0.5 | 73% | 62% | 68% | 1.50 | +2% |
-| Goles del visitante: Más de 1.5 ✅ | 38% | 27% | 32% | 3.50 | +13% |
-| Goles del visitante: Menos de 0.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles del visitante: Menos de 1.5 | 62% | 73% | 68% | 1.28 | -13% |
-| Córners más/menos: Más de 8.5 | 51% | 56% | 53% | 1.67 | -11% |
-| Córners más/menos: Menos de 8.5 | 49% | 44% | 47% | 2.10 | -2% |
-| 1X2 descanso: X | 37% | 36% | 36% | 2.62 | -5% |
-| 1X2 descanso: 1 | 41% | 49% | 45% | 1.91 | -14% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Vitória de Sernache – Lusitânia Lourosa
 **Taça de Portugal** · Round of 32 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -102,6 +102,3 @@ _Sin precedentes recientes._
 | João Silva | F | 1 | 11 | 0 | 0 | 1 | 1,0 | 1 | 1,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Iuri Moreira | F | 1 | 11 | 0 | 0 | 1 | 1,0 | 1 | 1,0 | 1 | 0 | 0,0 | 0 | 0 |
 | Danny | M | 1 | 4 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 0 | 3 | 3,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

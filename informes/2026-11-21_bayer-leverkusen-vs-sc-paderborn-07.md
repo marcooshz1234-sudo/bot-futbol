@@ -1,7 +1,7 @@
 # Bayer Leverkusen – SC Paderborn 07
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -192,45 +192,3 @@ _Sin bajas comunicadas por ahora._
 | Jonah Benedict Sticker | D | 7 | 149 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 2 | 5 | 0,7 | 0 | 0 |
 | Ruben Müller | F | 3 | 148 | 0 | 1 | 4 | 1,3 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | D. Zeitler | F | 3 | 118 | 0 | 0 | 7 | 2,3 | 5 | 1,7 | 2 | 0 | 0,0 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,92 · visitante 0,83 · córners esperados 9,7._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 16% | 10% | 13% | 9.50 | +21% |
-| 1X2: X | 21% | 16% | 19% | 5.75 | +9% |
-| 1X2: 1 | 63% | 74% | 68% | 1.27 | -13% |
-| Doble oportunidad: X2 | 37% | 26% | 31% | 3.75 | +18% |
-| Doble oportunidad: 12 | 79% | 84% | 81% | 1.14 | -7% |
-| Doble oportunidad: 1X | 84% | 90% | 87% | 1.07 | -7% |
-| Ambos marcan: No | 52% | 44% | 48% | 2.10 | +1% |
-| Ambos marcan: Sí | 48% | 56% | 52% | 1.67 | -13% |
-| Goles más/menos: Más de 2.5 | 52% | 72% | 62% | 1.33 | -18% |
-| Goles más/menos: Más de 3.5 | 30% | 50% | 40% | 1.91 | -24% |
-| Goles más/menos: Más de 4.5 | 15% | 32% | 23% | 3.00 | -30% |
-| Goles más/menos: Menos de 2.5 ✅ | 48% | 28% | 38% | 3.40 | +29% |
-| Goles más/menos: Menos de 3.5 | 70% | 50% | 60% | 1.91 | +15% |
-| Goles más/menos: Menos de 4.5 | 85% | 68% | 77% | 1.40 | +8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 79% | 75% | 1.18 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 50% | 42% | 1.83 | -23% |
-| Goles 1ª parte más/menos: Más de 2.5 | 12% | 25% | 19% | 3.75 | -31% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 21% | 25% | 4.50 | +15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 50% | 58% | 1.83 | +6% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 88% | 75% | 81% | 1.25 | +2% |
-| Goles del local: Más de 1.5 | 57% | 75% | 66% | 1.25 | -17% |
-| Goles del local: Más de 2.5 | 30% | 51% | 41% | 1.80 | -27% |
-| Goles del local: Más de 3.5 | 13% | 31% | 22% | 3.00 | -34% |
-| Goles del local: Menos de 1.5 ✅ | 43% | 25% | 34% | 3.75 | +27% |
-| Goles del local: Menos de 2.5 | 70% | 49% | 59% | 1.91 | +13% |
-| Goles del local: Menos de 3.5 | 87% | 69% | 78% | 1.36 | +6% |
-| Goles del visitante: Más de 0.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del visitante: Más de 1.5 | 20% | 25% | 23% | 3.75 | -15% |
-| Goles del visitante: Menos de 0.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles del visitante: Menos de 1.5 | 80% | 75% | 77% | 1.25 | -3% |
-| Córners más/menos: Más de 10.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Córners más/menos: Menos de 10.5 | 61% | 54% | 57% | 1.73 | -1% |
-| 1X2 descanso: X | 40% | 31% | 35% | 3.00 | +6% |
-| 1X2 descanso: 1 | 45% | 57% | 51% | 1.62 | -18% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

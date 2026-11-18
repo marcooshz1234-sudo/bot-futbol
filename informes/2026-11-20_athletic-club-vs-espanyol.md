@@ -1,10 +1,10 @@
 # Athletic Club – Espanyol
-**LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España)
+**LaLiga** · Regular Season - 13 · 20/11/2026 21:00 (hora España) · San Mamés Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:26_
+_Actualizadas: 18/11 02:23_
 
 - **1X2:** 1 **1.45**  ·  X **4.10**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.22**  ·  X2 **2.62**
@@ -186,41 +186,3 @@ _Sin bajas comunicadas por ahora._
 | V. Drkušić | D | 7 | 367 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 0,6 | 0 | 0 |
 | Gabriel Moscardo | M | 8 | 260 | 1 | 0 | 4 | 0,5 | 2 | 0,2 | 5 | 4 | 0,5 | 2 | 0 |
 | Rafel Bauzà | M | 6 | 224 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 8 | 8 | 1,3 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,63 · visitante 0,75 · córners esperados 9,9._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 17% | 13% | 15% | 7.00 | +6% |
-| 1X2: X | 25% | 23% | 24% | 4.10 | -3% |
-| 1X2: 1 | 58% | 64% | 61% | 1.45 | -11% |
-| Doble oportunidad: X2 | 42% | 36% | 39% | 2.62 | +2% |
-| Doble oportunidad: 12 | 75% | 78% | 77% | 1.22 | -7% |
-| Doble oportunidad: 1X | 83% | 86% | 85% | 1.10 | -7% |
-| Ambos marcan: No | 58% | 52% | 55% | 1.80 | -1% |
-| Ambos marcan: Sí | 42% | 48% | 45% | 1.95 | -12% |
-| Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 42% | 53% | 48% | 1.80 | -14% |
-| Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
-| Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
-| Goles más/menos: Menos de 2.5 | 58% | 47% | 52% | 2.00 | +5% |
-| Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
-| Goles del local: Más de 1.5 | 48% | 59% | 54% | 1.57 | -16% |
-| Goles del local: Más de 2.5 | 22% | 34% | 28% | 2.75 | -23% |
-| Goles del local: Menos de 1.5 | 52% | 41% | 46% | 2.25 | +4% |
-| Goles del local: Menos de 2.5 | 78% | 66% | 72% | 1.40 | +1% |
-| Goles del visitante: Más de 0.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Goles del visitante: Más de 1.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles del visitante: Menos de 0.5 | 47% | 46% | 47% | 2.00 | -6% |
-| Goles del visitante: Menos de 1.5 | 83% | 79% | 81% | 1.18 | -4% |
-| Córners más/menos: Más de 9.5 | 49% | 50% | 49% | 1.83 | -10% |
-| Córners más/menos: Menos de 9.5 | 51% | 50% | 51% | 1.83 | -7% |
-| 1X2 descanso: X | 44% | 39% | 41% | 2.38 | -1% |
-| 1X2 descanso: 1 | 40% | 47% | 44% | 1.95 | -15% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

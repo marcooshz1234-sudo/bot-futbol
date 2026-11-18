@@ -1,10 +1,10 @@
 # Juventus W – OH Leuven W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 21:00 (hora España) · Juventus Center
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:08_
+_Actualizadas: 18/11 02:22_
 
 - **1X2:** 1 **1.22**  ·  X **5.75**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.12**  ·  X2 **4.00**
@@ -25,23 +25,24 @@ _Actualizadas: 17/11 20:08_
     - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.83** · menos **1.83**
-    - 3,5: más **3.40** · menos **1.30**
+    - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.00** · menos **1.11**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles del visitante:**
-    - 0,5: más **1.80** · menos **1.91**
+    - 0,5: más **1.83** · menos **1.83**
     - 1,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
     - 9: más **1.78** · menos **2.02**
     - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.33**  ·  X **9.00**  ·  2 **3.75**
-- **1X2 descanso:** 1 **1.57**  ·  X **2.88**  ·  2 **8.00**
+- **1X2 descanso:** 1 **1.57**  ·  X **2.88**  ·  2 **8.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.73** · menos **2.00**
-    - 2,5: más **3.40** · menos **1.30**
+    - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **1.12**  ·  2 **4.50**
 - **To Score In Both Halves By Teams:** 1 **1.73**  ·  2 **10.00**
 - **Win Both Halves:** 1 **2.50**  ·  2 **51.00**
@@ -142,45 +143,3 @@ _Sin precedentes recientes._
 ## Jugadores de OH Leuven W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-## Probabilidades del modelo
-_Goles esperados: local 1,82 · visitante 1,01 · córners esperados 8,5._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 21% | 8% | 15% | 11.00 | +60% |
-| 1X2: X | 23% | 16% | 19% | 5.75 | +12% |
-| 1X2: 1 | 56% | 76% | 66% | 1.22 | -20% |
-| Doble oportunidad: X2 | 44% | 24% | 34% | 4.00 | +34% |
-| Doble oportunidad: 12 | 77% | 84% | 81% | 1.12 | -10% |
-| Doble oportunidad: 1X | 79% | 92% | 86% | 1.02 | -12% |
-| Ambos marcan: No | 47% | 51% | 49% | 1.80 | -12% |
-| Ambos marcan: Sí | 53% | 49% | 51% | 1.91 | -3% |
-| Goles más/menos: Más de 2.5 | 54% | 65% | 59% | 1.44 | -15% |
-| Goles más/menos: Más de 3.5 | 32% | 44% | 38% | 2.10 | -20% |
-| Goles más/menos: Más de 4.5 | 16% | 27% | 21% | 3.50 | -26% |
-| Goles más/menos: Menos de 2.5 | 46% | 35% | 41% | 2.62 | +7% |
-| Goles más/menos: Menos de 3.5 | 68% | 56% | 62% | 1.67 | +4% |
-| Goles más/menos: Menos de 4.5 | 84% | 73% | 79% | 1.28 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 77% | 74% | 1.22 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 46% | 41% | 2.00 | -19% |
-| Goles 1ª parte más/menos: Más de 2.5 | 13% | 22% | 17% | 4.33 | -25% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 23% | 26% | 4.00 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 54% | 59% | 1.73 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 87% | 78% | 83% | 1.20 | -1% |
-| Goles del local: Más de 1.5 | 54% | 73% | 64% | 1.28 | -18% |
-| Goles del local: Más de 2.5 | 28% | 50% | 39% | 1.83 | -29% |
-| Goles del local: Más de 3.5 | 11% | 28% | 19% | 3.40 | -34% |
-| Goles del local: Menos de 1.5 | 46% | 27% | 36% | 3.50 | +27% |
-| Goles del local: Menos de 2.5 | 72% | 50% | 61% | 1.83 | +12% |
-| Goles del local: Menos de 3.5 | 89% | 72% | 81% | 1.30 | +5% |
-| Goles del visitante: Más de 0.5 | 64% | 51% | 58% | 1.80 | +4% |
-| Goles del visitante: Menos de 0.5 | 36% | 49% | 42% | 1.91 | -19% |
-| Córners más/menos: Más de 9.5 | 36% | 46% | 41% | 2.00 | -17% |
-| Córners más/menos: Menos de 9.5 | 64% | 54% | 59% | 1.73 | +2% |
-| 1X2 descanso: X | 40% | 31% | 36% | 2.88 | +3% |
-| 1X2 descanso: 1 | 41% | 57% | 49% | 1.57 | -23% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

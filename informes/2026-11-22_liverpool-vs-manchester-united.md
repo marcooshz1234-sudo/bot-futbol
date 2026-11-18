@@ -1,7 +1,7 @@
 # Liverpool – Manchester United
 **Premier League** · Regular Season - 11 · 22/11/2026 17:30 (hora España) · Anfield
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -182,40 +182,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | C. Baleba | M | 7 | 397 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 7 | 10 | 1,4 | 1 | 0 |
 | P. Dorgu | D | 7 | 271 | 1 | 3 | 7 | 1,0 | 2 | 0,3 | 9 | 4 | 0,6 | 2 | 0 |
 | B. Šeško | F | 6 | 206 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 3 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,35 · visitante 1,39 · córners esperados 9,2._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 22% | 23% | 22% | 4.10 | -8% |
-| 1X2: X | 19% | 22% | 21% | 4.20 | -12% |
-| 1X2: 1 | 59% | 55% | 57% | 1.73 | -2% |
-| Doble oportunidad: X2 | 41% | 46% | 43% | 2.05 | -11% |
-| Doble oportunidad: 12 | 81% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 78% | 77% | 78% | 1.22 | -5% |
-| Ambos marcan: No | 32% | 38% | 35% | 2.50 | -13% |
-| Ambos marcan: Sí | 68% | 62% | 65% | 1.50 | -2% |
-| Goles más/menos: Más de 2.5 | 72% | 64% | 68% | 1.50 | +2% |
-| Goles más/menos: Más de 3.5 | 51% | 43% | 47% | 2.20 | +4% |
-| Goles más/menos: Más de 4.5 | 32% | 25% | 29% | 3.75 | +8% |
-| Goles más/menos: Menos de 2.5 | 28% | 36% | 32% | 2.62 | -16% |
-| Goles más/menos: Menos de 3.5 | 49% | 57% | 53% | 1.67 | -12% |
-| Goles más/menos: Menos de 4.5 | 68% | 75% | 71% | 1.28 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 48% | 44% | 46% | 2.10 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 52% | 56% | 54% | 1.67 | -10% |
-| Goles del local: Más de 1.5 | 68% | 61% | 64% | 1.53 | -1% |
-| Goles del local: Más de 2.5 | 42% | 35% | 39% | 2.62 | +1% |
-| Goles del local: Menos de 1.5 | 32% | 39% | 36% | 2.38 | -15% |
-| Goles del local: Menos de 2.5 | 58% | 65% | 61% | 1.44 | -12% |
-| Goles del visitante: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles del visitante: Más de 1.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles del visitante: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles del visitante: Menos de 1.5 | 60% | 65% | 62% | 1.44 | -11% |
-| 1X2 descanso: 2 | 21% | 21% | 21% | 4.33 | -8% |
-| 1X2 descanso: X | 34% | 37% | 35% | 2.50 | -12% |
-| 1X2 descanso: 1 | 45% | 42% | 43% | 2.20 | -5% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

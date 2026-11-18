@@ -1,7 +1,7 @@
 # Alaves – Deportivo La Coruna
 **LaLiga** · Regular Season - 13 · 21/11/2026 14:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -183,42 +183,3 @@ _Sin bajas comunicadas por ahora._
 | Adama Traoré | F | 9 | 268 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 6 | 7 | 0,8 | 0 | 0 |
 | Jonathan Asp Jensen | M | 8 | 262 | 0 | 0 | 9 | 1,1 | 6 | 0,8 | 2 | 2 | 0,2 | 0 | 0 |
 | Marc Casadó | M | 4 | 138 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 7 | 1,8 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,20 · visitante 1,04 · córners esperados 9,4._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 32% | 28% | 30% | 3.30 | -1% |
-| 1X2: X | 29% | 29% | 29% | 3.20 | -8% |
-| 1X2: 1 | 39% | 43% | 41% | 2.15 | -11% |
-| Doble oportunidad: X2 | 61% | 57% | 59% | 1.67 | -2% |
-| Doble oportunidad: 12 | 71% | 70% | 71% | 1.36 | -4% |
-| Doble oportunidad: 1X | 68% | 72% | 70% | 1.33 | -7% |
-| Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
-| Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 1.5 | 65% | 70% | 68% | 1.36 | -8% |
-| Goles más/menos: Más de 2.5 | 39% | 43% | 41% | 2.20 | -10% |
-| Goles más/menos: Más de 3.5 | 19% | 24% | 21% | 4.00 | -15% |
-| Goles más/menos: Menos de 1.5 | 35% | 30% | 32% | 3.20 | +3% |
-| Goles más/menos: Menos de 2.5 | 61% | 57% | 59% | 1.67 | -1% |
-| Goles más/menos: Menos de 3.5 | 81% | 76% | 79% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 62% | 65% | 63% | 1.44 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 35% | 37% | 2.62 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles del local: Más de 0.5 | 70% | 73% | 71% | 1.28 | -8% |
-| Goles del local: Más de 1.5 | 34% | 41% | 37% | 2.25 | -16% |
-| Goles del local: Menos de 0.5 | 30% | 27% | 29% | 3.50 | -0% |
-| Goles del local: Menos de 1.5 | 66% | 59% | 63% | 1.57 | -2% |
-| Goles del visitante: Más de 0.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del visitante: Más de 1.5 | 28% | 29% | 28% | 3.25 | -7% |
-| Goles del visitante: Menos de 0.5 | 35% | 35% | 35% | 2.62 | -7% |
-| Goles del visitante: Menos de 1.5 | 72% | 71% | 72% | 1.33 | -5% |
-| Córners más/menos: Más de 9.5 | 45% | 51% | 48% | 1.85 | -11% |
-| Córners más/menos: Menos de 9.5 | 55% | 49% | 52% | 1.95 | +1% |
-| 1X2 descanso: 2 | 24% | 23% | 24% | 4.00 | -5% |
-| 1X2 descanso: X | 47% | 44% | 46% | 2.10 | -4% |
-| 1X2 descanso: 1 | 29% | 32% | 31% | 2.88 | -12% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

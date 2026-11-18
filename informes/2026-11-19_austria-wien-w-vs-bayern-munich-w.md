@@ -1,21 +1,21 @@
 # Austria Wien W – Bayern Munich W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Sportplatz Jochbergengasse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:08_
+_Actualizadas: 18/11 02:22_
 
-- **1X2:** 1 **17.00**  ·  X **11.00**  ·  2 **1.09**
+- **1X2:** 1 **17.00**  ·  X **11.00**  ·  2 **1.08**
 - **Doble oportunidad:** 1X **7.00**  ·  12 **1.02**  ·  X2 **1.00**
 - **Ambos marcan:** Sí **2.50**  ·  No **1.50**
 - **Goles más/menos:**
-    - 1,5: más **1.10** · menos **6.50**
-    - 2,5: más **1.33** · menos **3.25**
-    - 3,5: más **1.83** · menos **1.83**
-    - 4,5: más **2.75** · menos **1.40**
-    - 5,5: más **4.50** · menos **1.17**
-    - 6,5: más **8.00** · menos **1.06**
+    - 1,5: más **1.08** · menos **7.00**
+    - 2,5: más **1.30** · menos **3.40**
+    - 3,5: más **1.73** · menos **2.00**
+    - 4,5: más **2.62** · menos **1.44**
+    - 5,5: más **4.33** · menos **1.20**
+    - 6,5: más **7.50** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **4.50**
     - 1,5: más **1.80** · menos **1.91**
@@ -43,16 +43,18 @@ _Actualizadas: 17/11 20:08_
     - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
 - **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
-- **To Win Either Half:** 1 **8.00**  ·  2 **1.06**
-- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.50**
-- **Win Both Halves:** 1 **101.00**  ·  2 **1.83**
-- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **13.00**  ·  Away/Yes **3.00**  ·  Home/No **26.00**  ·  Draw/No **26.00**  ·  Away/No **1.62**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **2.38**  ·  u/yes 2.5 **21.00**  ·  u/no 2.5 **3.60**
+- **To Win Either Half:** 1 **8.00**  ·  2 **1.05**
+- **To Score In Both Halves By Teams:** 1 **15.00**  ·  2 **1.44**
+- **Win Both Halves:** 1 **101.00**  ·  2 **1.80**
+- **Results/Both Teams Score:** Home/Yes **29.00**  ·  Draw/Yes **13.00**  ·  Away/Yes **2.88**  ·  Home/No **29.00**  ·  Draw/No **26.00**  ·  Away/No **1.62**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **2.30**  ·  u/yes 2.5 **23.00**  ·  u/no 2.5 **3.50**
 - **Home Corners Over/Under:**
     - 2,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 6,5: más **1.91** · menos **1.80**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Home Player Shots:** Modesta Uka - 1 **1.25**  ·  Alisa Ziletkina - 1 **1.40**  ·  Elisa Pfattner - 1 **1.53**  ·  Almedina Sisic - 1 **1.57**  ·  Angela Pnishi - 1 **1.83**  ·  Antea Batarilo - 1 **1.83**  ·  Emily Schafer - 1 **1.83**  ·  Katharina Moser - 1 **2.38**  ·  Alexandra Wolkart - 1 **2.75**  ·  Carina Wenninger - 1 **2.75**  ·  Lotta Cordes - 1 **2.75**  ·  Tatjana Weiss - 1 **2.75**  ·  Anna Schorn - 1 **3.00**  ·  Louise Schoffel - 1 **3.00**  ·  Yvonne Weilharter - 1 **2.50**  ·  Katharina Schiechtl - 1 **3.25**  ·  Verena Hanshaw - 1 **2.38**  ·  Virginia Kirchberger - 1 **3.75**  ·  Modesta Uka - 2 **2.10**  ·  Alisa Ziletkina - 2 **2.62**  ·  Elisa Pfattner - 2 **3.25**  ·  Almedina Sisic - 2 **3.50**  ·  Angela Pnishi - 2 **5.00**  ·  Antea Batarilo - 2 **5.00**  ·  Emily Schafer - 2 **5.00**  ·  Katharina Moser - 2 **8.00**  ·  Alexandra Wolkart - 2 **10.00**  ·  Carina Wenninger - 2 **10.00**  ·  Lotta Cordes - 2 **10.00**  ·  Tatjana Weiss - 2 **10.00**  ·  Anna Schorn - 2 **11.00**  ·  Louise Schoffel - 2 **11.00**  ·  Yvonne Weilharter - 2 **8.00**  ·  Modesta Uka - 3 **4.33**  ·  Alisa Ziletkina - 3 **6.00**  ·  Elisa Pfattner - 3 **8.00**  ·  Almedina Sisic - 3 **9.00**  ·  Angela Pnishi - 3 **15.00**  ·  Antea Batarilo - 3 **15.00**  ·  Modesta Uka - 4 **10.00**  ·  Katharina Schiechtl - 2 **13.00**  ·  Virginia Kirchberger - 2 **15.00**  ·  Elisa Pfattner - 4 **19.00**  ·  Verena Hanshaw - 2 **8.00**  ·  Emily Schafer - 3 **15.00**  ·  Alisa Ziletkina - 4 **15.00**  ·  Sandra Jakobsen - 1 **1.57**  ·  Patricia Pfanner - 1 **1.67**  ·  Nina Pichler - 1 **2.75**  ·  Valentina Potzl - 1 **2.20**  ·  Chiara Pucci - 1 **3.75**  ·  Lucia Orkic - 1 **3.75**  ·  Sandra Jakobsen - 2 **3.50**  ·  Patricia Pfanner - 2 **3.75**  ·  Nina Pichler - 2 **10.00**  ·  Valentina Potzl - 2 **6.50**  ·  Chiara Pucci - 2 **15.00**  ·  Lucia Orkic - 2 **15.00**  ·  Sandra Jakobsen - 3 **9.00**  ·  Patricia Pfanner - 3 **10.00**  ·  Katharina Moser - 3 **21.00**  ·  Verena Hanshaw - 3 **21.00**  ·  Valentina Potzl - 3 **19.00**  ·  Yvonne Weilharter - 3 **21.00**  ·  Almedina Sisic - 4 **21.00**  ·  Sandra Jakobsen - 4 **21.00**  ·  Patricia Pfanner - 4 **21.00**  ·  Modesta Uka - 5 **21.00**  ·  Andrea Glibo - 1 **1.40**  ·  Andrea Glibo - 2 **2.62**  ·  Andrea Glibo - 3 **6.00**  ·  Andrea Glibo - 4 **15.00**  ·  Andrea Glibo - 5 **21.00**
+- **Away Player Shots:** Pernille Harder - 1 **1.01**  ·  Kassandra Potsi - 1 **1.01**  ·  Klara Buhl - 1 **1.01**  ·  Linda Dallmann - 1 **1.02**  ·  Momoko Tanikawa - 1 **1.03**  ·  Sophie Proost - 1 **1.03**  ·  Barbara Dunst - 1 **1.07**  ·  Bernadette Amani - 1 **1.07**  ·  Alara Sehitler - 1 **1.07**  ·  Lena Oberdorf - 1 **1.08**  ·  Katharina Naschenweng - 1 **1.11**  ·  Vanessa Gilles - 1 **1.11**  ·  Sarah Zadrazil - 1 **1.14**  ·  Franziska Kett - 1 **1.22**  ·  Giulia Gwinn - 1 **1.33**  ·  Magdalena Eriksson - 1 **1.40**  ·  Glodis Perla Viggosdottir - 1 **1.62**  ·  Stine Ballisager - 1 **1.62**  ·  Edna Imade - 2 **1.01**  ·  Jovana Damnjanovic - 2 **1.04**  ·  Sarah Mattner-Trembleau - 2 **1.02**  ·  Pernille Harder - 2 **1.07**  ·  Kassandra Potsi - 2 **1.11**  ·  Klara Buhl - 2 **1.11**  ·  Linda Dallmann - 2 **1.14**  ·  Momoko Tanikawa - 2 **1.17**  ·  Sophie Proost - 2 **1.20**  ·  Barbara Dunst - 2 **1.36**  ·  Bernadette Amani - 2 **1.36**  ·  Alara Sehitler - 2 **1.36**  ·  Lena Oberdorf - 2 **1.40**  ·  Katharina Naschenweng - 2 **1.53**  ·  Vanessa Gilles - 2 **1.50**  ·  Sarah Zadrazil - 2 **1.67**  ·  Franziska Kett - 2 **1.83**  ·  Giulia Gwinn - 2 **2.38**  ·  Magdalena Eriksson - 2 **2.62**  ·  Glodis Perla Viggosdottir - 2 **3.50**  ·  Stine Ballisager - 2 **3.50**  ·  Edna Imade - 3 **1.07**  ·  Jovana Damnjanovic - 3 **1.14**  ·  Sarah Mattner-Trembleau - 3 **1.11**  ·  Pernille Harder - 3 **1.25**  ·  Kassandra Potsi - 3 **1.33**  ·  Klara Buhl - 3 **1.36**  ·  Linda Dallmann - 3 **1.44**  ·  Momoko Tanikawa - 3 **1.50**  ·  Sophie Proost - 3 **1.57**  ·  Barbara Dunst - 3 **2.00**  ·  Bernadette Amani - 3 **2.00**  ·  Alara Sehitler - 3 **2.00**  ·  Lena Oberdorf - 3 **2.20**  ·  Katharina Naschenweng - 3 **2.50**  ·  Vanessa Gilles - 3 **2.50**  ·  Sarah Zadrazil - 3 **2.75**  ·  Franziska Kett - 3 **3.50**  ·  Giulia Gwinn - 3 **5.00**  ·  Magdalena Eriksson - 3 **6.00**  ·  Glodis Perla Viggosdottir - 3 **10.00**  ·  Stine Ballisager - 3 **10.00**  ·  Edna Imade - 4 **1.22**  ·  Jovana Damnjanovic - 4 **1.40**  ·  Sarah Mattner-Trembleau - 4 **1.28**  ·  Pernille Harder - 4 **1.62**  ·  Kassandra Potsi - 4 **1.80**  ·  Klara Buhl - 4 **1.83**  ·  Linda Dallmann - 4 **2.00**  ·  Momoko Tanikawa - 4 **2.20**  ·  Sophie Proost - 4 **2.38**  ·  Barbara Dunst - 4 **3.50**  ·  Bernadette Amani - 4 **3.50**  ·  Alara Sehitler - 4 **3.50**  ·  Lena Oberdorf - 4 **3.75**  ·  Katharina Naschenweng - 4 **4.50**  ·  Vanessa Gilles - 4 **4.50**  ·  Sarah Zadrazil - 4 **5.50**  ·  Franziska Kett - 4 **8.00**  ·  Giulia Gwinn - 4 **13.00**  ·  Edna Imade - 5 **1.44**  ·  Jovana Damnjanovic - 5 **1.80**  ·  Sarah Mattner-Trembleau - 5 **1.62**  ·  Pernille Harder - 5 **2.25**  ·  Kassandra Potsi - 5 **2.62**  ·  Klara Buhl - 5 **2.75**  ·  Linda Dallmann - 5 **3.25**  ·  Momoko Tanikawa - 5 **3.50**  ·  Sophie Proost - 5 **4.00**  ·  Barbara Dunst - 5 **6.50**  ·  Bernadette Amani - 5 **6.50**  ·  Alara Sehitler - 5 **6.50**  ·  Lena Oberdorf - 5 **8.00**  ·  Katharina Naschenweng - 5 **10.00**  ·  Vanessa Gilles - 5 **9.00**  ·  Sarah Zadrazil - 5 **11.00**  ·  Edna Imade - 6 **1.91**  ·  Jovana Damnjanovic - 6 **2.62**  ·  Sarah Mattner-Trembleau - 6 **2.20**  ·  Pernille Harder - 6 **3.50**  ·  Kassandra Potsi - 6 **4.33**  ·  Klara Buhl - 6 **4.33**  ·  Linda Dallmann - 6 **5.50**  ·  Momoko Tanikawa - 6 **6.00**  ·  Sophie Proost - 6 **7.00**  ·  Edna Imade - 7 **2.62**  ·  Jovana Damnjanovic - 7 **4.00**  ·  Sarah Mattner-Trembleau - 7 **3.25**  ·  Pernille Harder - 7 **6.00**  ·  Kassandra Potsi - 7 **8.00**  ·  Klara Buhl - 7 **8.00**  ·  Linda Dallmann - 7 **10.00**  ·  Momoko Tanikawa - 7 **11.00**  ·  Edna Imade - 8 **4.00**  ·  Jovana Damnjanovic - 8 **6.50**  ·  Sarah Mattner-Trembleau - 8 **5.00**  ·  Pernille Harder - 8 **10.00**  ·  Kassandra Potsi - 8 **13.00**  ·  Klara Buhl - 8 **15.00**  ·  Edna Imade - 9 **6.50**  ·  Jovana Damnjanovic - 9 **11.00**  ·  Sarah Mattner-Trembleau - 9 **8.00**  ·  Sophie Proost - 7 **13.00**  ·  Sophie Proost - 8 **21.00**  ·  Edna Imade - 10 **11.00**  ·  Sarah Mattner-Trembleau - 10 **13.00**  ·  Giulia Gwinn - 5 **21.00**  ·  Jana Kappes - 1 **1.14**  ·  Jana Kappes - 2 **1.62**  ·  Jana Kappes - 3 **2.75**  ·  Jana Kappes - 4 **5.50**  ·  Magdalena Eriksson - 4 **15.00**  ·  Jana Kappes - 5 **11.00**  ·  Alara Sehitler - 6 **13.00**  ·  Barbara Dunst - 6 **13.00**  ·  Bernadette Amani - 6 **13.00**  ·  Lena Oberdorf - 6 **15.00**  ·  Pernille Harder - 9 **19.00**  ·  Franziska Kett - 5 **17.00**  ·  Vanessa Gilles - 6 **19.00**  ·  Katharina Naschenweng - 6 **19.00**  ·  Linda Dallmann - 8 **19.00**  ·  Edna Imade - 11 **17.00**  ·  Glodis Perla Viggosdottir - 4 **21.00**  ·  Stine Ballisager - 4 **21.00**  ·  Jovana Damnjanovic - 10 **19.00**  ·  Momoko Tanikawa - 8 **21.00**  ·  Klara Buhl - 9 **21.00**  ·  Jana Kappes - 6 **21.00**  ·  Sarah Zadrazil - 6 **21.00**  ·  Alara Sehitler - 7 **21.00**  ·  Barbara Dunst - 7 **21.00**  ·  Bernadette Amani - 7 **21.00**  ·  Kassandra Potsi - 9 **21.00**  ·  Sarah Mattner-Trembleau - 11 **21.00**  ·  Edna Imade - 12 **21.00**  ·  Lena Oberdorf - 7 **21.00**
 - **Anytime Goal Scorer:** Franziska Kett **5.00**  ·  Vanessa Gilles **5.00**  ·  Virginia Kirchberger **26.00**  ·  Katharina Schiechtl **26.00**  ·  Klara Buhl **2.10**  ·  Jovana Damnjanovic **1.57**  ·  Linda Dallmann **2.38**  ·  Alara Sehitler **3.40**  ·  Sarah Zadrazil **4.50**  ·  Giulia Gwinn **6.00**  ·  Glodis Perla Viggosdottir **8.50**  ·  Lena Oberdorf **3.75**  ·  Stine Ballisager **8.50**  ·  Katharina Naschenweng **4.00**  ·  Andrea Glibo **6.00**  ·  Sarah Mattner-Trembleau **1.83**  ·  Edna Imade **1.40**  ·  Barbara Dunst **3.40**  ·  Bernadette Amani **3.40**  ·  Kassandra Potsi **2.10**  ·  Alexandra Wolkart **19.00**  ·  Alisa Ziletkina **6.50**  ·  Almedina Sisic **8.50**  ·  Angela Pnishi **12.00**  ·  Anna Schorn **21.00**  ·  Antea Batarilo **12.00**  ·  Carina Wenninger **19.00**  ·  Elisa Pfattner **6.50**  ·  Emily Schafer **12.00**  ·  Katharina Moser **15.00**  ·  Lotta Cordes **19.00**  ·  Louise Schoffel **21.00**  ·  Modesta Uka **5.00**  ·  Tatjana Weiss **19.00**  ·  Yvonne Weilharter **21.00**  ·  Chiara Pucci **26.00**  ·  Lucia Orkic **26.00**  ·  Patricia Pfanner **10.00**  ·  Sandra Jakobsen **8.50**  ·  Valentina Potzl **19.00**  ·  Nina Pichler **19.00**  ·  Jana Kappes **4.50**  ·  Sophie Proost **3.40**  ·  Pernille Harder **1.83**  ·  Magdalena Eriksson **6.50**  ·  Verena Hanshaw **15.00**  ·  Momoko Tanikawa **2.50**
 
 ## Estadísticas de equipo
@@ -139,6 +141,3 @@ _Sin precedentes recientes._
 ## Jugadores de Bayern Munich W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

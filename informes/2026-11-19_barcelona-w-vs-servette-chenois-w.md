@@ -1,54 +1,56 @@
 # Barcelona W – Servette Chênois W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:08_
+_Actualizadas: 18/11 02:22_
 
 - **1X2:** 1 **1.01**  ·  X **23.00**  ·  2 **51.00**
-- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
+- **Ambos marcan:** Sí **2.75**  ·  No **1.40**
 - **Goles más/menos:**
     - 2,5: más **1.05** · menos **8.50**
-    - 3,5: más **1.14** · menos **5.00**
+    - 3,5: más **1.17** · menos **4.50**
     - 4,5: más **1.36** · menos **3.00**
-    - 5,5: más **1.73** · menos **2.00**
-    - 6,5: más **2.38** · menos **1.53**
+    - 5,5: más **1.80** · menos **1.91**
+    - 6,5: más **2.50** · menos **1.50**
     - 7,5: más **3.75** · menos **1.25**
-    - 8,5: más **5.50** · menos **1.12**
-    - 9,5: más **8.00** · menos **1.06**
+    - 8,5: más **6.00** · menos **1.11**
+    - 9,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.04** · menos **9.00**
-    - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **1.91**
-    - 3,5: más **3.00** · menos **1.36**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **5.50** · menos **1.12**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles del local:**
-    - 2,5: más **1.06** · menos **8.00**
-    - 3,5: más **1.20** · menos **4.33**
-    - 4,5: más **1.44** · menos **2.62**
-    - 5,5: más **1.83** · menos **1.83**
-    - 6,5: más **2.75** · menos **1.40**
-    - 7,5: más **4.33** · menos **1.20**
-    - 8,5: más **6.50** · menos **1.10**
-    - 9,5: más **9.00** · menos **1.04**
+    - 2,5: más **1.07** · menos **7.50**
+    - 3,5: más **1.22** · menos **4.00**
+    - 4,5: más **1.50** · menos **2.50**
+    - 5,5: más **2.00** · menos **1.73**
+    - 6,5: más **3.00** · menos **1.36**
+    - 7,5: más **4.50** · menos **1.17**
+    - 8,5: más **7.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **3.50** · menos **1.28**
-- **1X2 descanso:** 1 **1.07**  ·  X **9.00**  ·  2 **41.00**
+    - 0,5: más **2.75** · menos **1.40**
+    - 1,5: más **8.50** · menos **1.05**
+- **1X2 descanso:** 1 **1.08**  ·  X **8.00**  ·  2 **34.00**
 - **Goals Over/Under - Second Half:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.53** · menos **2.38**
-    - 3,5: más **2.38** · menos **1.53**
-    - 4,5: más **4.00** · menos **1.22**
-    - 5,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
-- **Both Teams To Score - Second Half:** Sí **5.50**  ·  No **1.14**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.57** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
 - **To Win Either Half:** 1 **1.00**  ·  2 **21.00**
 - **To Score In Both Halves By Teams:** 1 **1.11**  ·  2 **21.00**
 - **Win Both Halves:** 1 **1.20**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **34.00**  ·  Away/Yes **67.00**  ·  Home/No **1.33**  ·  Draw/No **34.00**  ·  Away/No **101.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **29.00**  ·  Away/Yes **81.00**  ·  Home/No **1.40**  ·  Draw/No **34.00**  ·  Away/No **101.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.62**  ·  o/no 2.5 **1.53**  ·  u/yes 2.5 **51.00**  ·  u/no 2.5 **12.00**
+- **Home Player Shots:** Francisca Nazareth - 1 **1.04**  ·  Patri Guijarro - 1 **1.04**  ·  Sydney Schertenleib - 1 **1.04**  ·  Clara Serrajordi - 1 **1.06**  ·  Esmee Brugts - 1 **1.06**  ·  Marta Torrejon - 1 **1.06**  ·  Renee van Asten - 1 **1.14**  ·  Aicha Camara - 1 **1.14**  ·  Irene Paredes - 1 **1.22**  ·  Martina Fernandez - 1 **1.22**  ·  Victoria Lopez - 2 **1.01**  ·  Caroline Hansen - 2 **1.01**  ·  Aitana Bonmati - 2 **1.02**  ·  Carla Julia Martinez - 2 **1.06**  ·  Lua Arufe Calo - 2 **1.04**  ·  Nicoli Kerolin - 2 **1.05**  ·  Francisca Nazareth - 2 **1.22**  ·  Patri Guijarro - 2 **1.22**  ·  Sydney Schertenleib - 2 **1.25**  ·  Clara Serrajordi - 2 **1.30**  ·  Esmee Brugts - 2 **1.30**  ·  Marta Torrejon - 2 **1.28**  ·  Renee van Asten - 2 **1.62**  ·  Aicha Camara - 2 **1.67**  ·  Irene Paredes - 2 **1.91**  ·  Martina Fernandez - 2 **1.91**  ·  Claudia Pina - 3 **1.01**  ·  Ewa Pajor - 3 **1.01**  ·  Victoria Lopez - 3 **1.05**  ·  Caroline Hansen - 3 **1.07**  ·  Aitana Bonmati - 3 **1.08**  ·  Carla Julia Martinez - 3 **1.22**  ·  Lua Arufe Calo - 3 **1.17**  ·  Nicoli Kerolin - 3 **1.17**  ·  Francisca Nazareth - 3 **1.62**  ·  Patri Guijarro - 3 **1.62**  ·  Sydney Schertenleib - 3 **1.67**  ·  Clara Serrajordi - 3 **1.83**  ·  Esmee Brugts - 3 **1.83**  ·  Marta Torrejon - 3 **1.83**  ·  Renee van Asten - 3 **2.75**  ·  Aicha Camara - 3 **2.75**  ·  Irene Paredes - 3 **3.50**  ·  Martina Fernandez - 3 **3.50**  ·  Claudia Pina - 4 **1.04**  ·  Ewa Pajor - 4 **1.06**  ·  Victoria Lopez - 4 **1.14**  ·  Caroline Hansen - 4 **1.20**  ·  Aitana Bonmati - 4 **1.22**  ·  Carla Julia Martinez - 4 **1.53**  ·  Lua Arufe Calo - 4 **1.40**  ·  Nicoli Kerolin - 4 **1.44**  ·  Francisca Nazareth - 4 **2.50**  ·  Patri Guijarro - 4 **2.50**  ·  Sydney Schertenleib - 4 **2.62**  ·  Clara Serrajordi - 4 **3.00**  ·  Esmee Brugts - 4 **3.00**  ·  Marta Torrejon - 4 **3.00**  ·  Renee van Asten - 4 **5.50**  ·  Aicha Camara - 4 **5.50**  ·  Irene Paredes - 4 **8.00**  ·  Martina Fernandez - 4 **8.00**  ·  Claudia Pina - 5 **1.12**  ·  Ewa Pajor - 5 **1.14**  ·  Victoria Lopez - 5 **1.33**  ·  Caroline Hansen - 5 **1.44**  ·  Aitana Bonmati - 5 **1.50**  ·  Carla Julia Martinez - 5 **2.10**  ·  Lua Arufe Calo - 5 **1.83**  ·  Nicoli Kerolin - 5 **1.83**  ·  Francisca Nazareth - 5 **4.00**  ·  Patri Guijarro - 5 **4.00**  ·  Sydney Schertenleib - 5 **4.33**  ·  Clara Serrajordi - 5 **5.50**  ·  Esmee Brugts - 5 **5.50**  ·  Marta Torrejon - 5 **5.50**  ·  Renee van Asten - 5 **11.00**  ·  Aicha Camara - 5 **11.00**  ·  Irene Paredes - 5 **17.00**  ·  Martina Fernandez - 5 **17.00**  ·  Claudia Pina - 6 **1.25**  ·  Ewa Pajor - 6 **1.33**  ·  Victoria Lopez - 6 **1.67**  ·  Caroline Hansen - 6 **1.83**  ·  Aitana Bonmati - 6 **1.91**  ·  Carla Julia Martinez - 6 **3.25**  ·  Lua Arufe Calo - 6 **2.62**  ·  Nicoli Kerolin - 6 **2.75**  ·  Francisca Nazareth - 6 **8.00**  ·  Patri Guijarro - 6 **8.00**  ·  Sydney Schertenleib - 6 **8.00**  ·  Clara Serrajordi - 6 **11.00**  ·  Esmee Brugts - 6 **11.00**  ·  Marta Torrejon - 6 **10.00**  ·  Claudia Pina - 7 **1.50**  ·  Ewa Pajor - 7 **1.62**  ·  Victoria Lopez - 7 **2.20**  ·  Caroline Hansen - 7 **2.50**  ·  Aitana Bonmati - 7 **2.75**  ·  Carla Julia Martinez - 7 **5.00**  ·  Lua Arufe Calo - 7 **4.00**  ·  Nicoli Kerolin - 7 **4.33**  ·  Francisca Nazareth - 7 **15.00**  ·  Patri Guijarro - 7 **15.00**  ·  Sydney Schertenleib - 7 **15.00**  ·  Claudia Pina - 8 **1.83**  ·  Ewa Pajor - 8 **2.00**  ·  Victoria Lopez - 8 **3.25**  ·  Caroline Hansen - 8 **3.75**  ·  Aitana Bonmati - 8 **4.00**  ·  Carla Julia Martinez - 8 **9.00**  ·  Lua Arufe Calo - 8 **7.00**  ·  Nicoli Kerolin - 8 **7.00**  ·  Claudia Pina - 9 **2.50**  ·  Ewa Pajor - 9 **2.75**  ·  Victoria Lopez - 9 **4.50**  ·  Caroline Hansen - 9 **6.00**  ·  Aitana Bonmati - 9 **6.50**  ·  Carla Julia Martinez - 9 **15.00**  ·  Lua Arufe Calo - 9 **11.00**  ·  Nicoli Kerolin - 9 **13.00**  ·  Claudia Pina - 10 **3.40**  ·  Ewa Pajor - 10 **4.00**  ·  Victoria Lopez - 10 **8.00**  ·  Caroline Hansen - 10 **10.00**  ·  Aitana Bonmati - 10 **11.00**  ·  Claudia Pina - 11 **5.00**  ·  Ewa Pajor - 11 **6.00**  ·  Victoria Lopez - 11 **13.00**  ·  Caroline Hansen - 11 **15.00**  ·  Claudia Pina - 12 **8.00**  ·  Ewa Pajor - 12 **9.00**  ·  Claudia Pina - 13 **11.00**  ·  Ewa Pajor - 13 **15.00**  ·  Esmee Brugts - 7 **21.00**  ·  Clara Serrajordi - 7 **21.00**  ·  Marta Torrejon - 7 **19.00**  ·  Aitana Bonmati - 11 **17.00**  ·  Caroline Hansen - 12 **21.00**  ·  Victoria Lopez - 12 **19.00**  ·  Claudia Pina - 14 **19.00**  ·  Francisca Nazareth - 8 **21.00**  ·  Patri Guijarro - 8 **21.00**  ·  Aicha Camara - 6 **21.00**  ·  Renee van Asten - 6 **21.00**  ·  Lua Arufe Calo - 10 **19.00**  ·  Nicoli Kerolin - 10 **21.00**  ·  Carolina Ferrera - 1 **1.01**  ·  Martina Gonzalez - 1 **1.10**  ·  Kautar Azraf - 2 **1.01**  ·  Nikoline Nielsen - 2 **1.01**  ·  Laia Cabetas - 2 **1.06**  ·  Carolina Ferrera - 2 **1.11**  ·  Martina Gonzalez - 2 **1.44**  ·  Kautar Azraf - 3 **1.07**  ·  Nikoline Nielsen - 3 **1.07**  ·  Laia Cabetas - 3 **1.22**  ·  Carolina Ferrera - 3 **1.36**  ·  Martina Gonzalez - 3 **2.25**  ·  Kautar Azraf - 4 **1.22**  ·  Nikoline Nielsen - 4 **1.22**  ·  Laia Cabetas - 4 **1.53**  ·  Carolina Ferrera - 4 **1.83**  ·  Martina Gonzalez - 4 **4.00**  ·  Kautar Azraf - 5 **1.44**  ·  Nikoline Nielsen - 5 **1.44**  ·  Laia Cabetas - 5 **2.10**  ·  Carolina Ferrera - 5 **2.75**  ·  Martina Gonzalez - 5 **8.00**  ·  Kautar Azraf - 6 **1.91**  ·  Nikoline Nielsen - 6 **1.91**  ·  Laia Cabetas - 6 **3.25**  ·  Carolina Ferrera - 6 **4.50**  ·  Martina Gonzalez - 6 **17.00**  ·  Kautar Azraf - 7 **2.62**  ·  Nikoline Nielsen - 7 **2.62**  ·  Laia Cabetas - 7 **5.00**  ·  Carolina Ferrera - 7 **8.00**  ·  Kautar Azraf - 8 **4.00**  ·  Nikoline Nielsen - 8 **4.00**  ·  Laia Cabetas - 8 **9.00**  ·  Carolina Ferrera - 8 **15.00**  ·  Kautar Azraf - 9 **6.50**  ·  Nikoline Nielsen - 9 **6.50**  ·  Laia Cabetas - 9 **15.00**  ·  Kautar Azraf - 10 **11.00**  ·  Nikoline Nielsen - 10 **11.00**  ·  Kautar Azraf - 11 **17.00**  ·  Nikoline Nielsen - 11 **17.00**  ·  Rosalia Dominguez - 1 **1.01**  ·  Noa Jimenez - 1 **1.06**  ·  Rosalia Dominguez - 2 **1.11**  ·  Noa Jimenez - 2 **1.30**  ·  Rosalia Dominguez - 3 **1.36**  ·  Noa Jimenez - 3 **1.83**  ·  Rosalia Dominguez - 4 **1.83**  ·  Noa Jimenez - 4 **3.00**  ·  Rosalia Dominguez - 5 **2.75**  ·  Noa Jimenez - 5 **5.50**  ·  Rosalia Dominguez - 6 **4.50**  ·  Noa Jimenez - 6 **11.00**  ·  Rosalia Dominguez - 7 **8.00**  ·  Noa Jimenez - 7 **19.00**  ·  Rosalia Dominguez - 8 **15.00**  ·  Carolina Ferrera - 9 **21.00**  ·  Rosalia Dominguez - 9 **21.00**  ·  Ewa Pajor - 14 **21.00**  ·  Julia Torres - 2 **1.06**  ·  Julia Torres - 3 **1.22**  ·  Julia Torres - 4 **1.53**  ·  Julia Torres - 5 **2.10**  ·  Julia Torres - 6 **3.25**  ·  Julia Torres - 7 **5.00**  ·  Julia Torres - 8 **9.00**  ·  Sydney Schertenleib - 8 **21.00**  ·  Julia Torres - 9 **15.00**  ·  Carla Julia Martinez - 10 **21.00**  ·  Julia Torres - 10 **21.00**  ·  Laia Cabetas - 10 **21.00**  ·  Kautar Azraf - 12 **21.00**  ·  Nikoline Nielsen - 12 **21.00**  ·  Aitana Bonmati - 12 **21.00**  ·  Claudia Pina - 15 **21.00**
+- **Away Player Shots:** Magdalena Sobal - 1 **1.28**  ·  Garance Nein - 1 **1.57**  ·  Mickaella Cardia - 1 **1.57**  ·  Gloria Marinelli - 1 **1.73**  ·  Meriame Terchoun - 1 **1.73**  ·  Natasha Andonova - 1 **1.73**  ·  Paula Serrano - 1 **2.38**  ·  Asun Martinez - 1 **2.38**  ·  Paola Hernandez - 1 **2.38**  ·  Stefanie de Alem - 1 **2.38**  ·  Camila Mingard - 1 **2.75**  ·  Elodie Nakkach - 1 **3.25**  ·  Laura Strik - 1 **2.75**  ·  Amanda Chaney - 1 **5.00**  ·  Amina Muratovic - 1 **9.00**  ·  Benedicte Simon - 1 **5.00**  ·  Chiara Wallin - 1 **9.00**  ·  Daina Bourma - 1 **5.00**  ·  Emma Petzoldt - 1 **5.00**  ·  Joana Marchao - 1 **3.25**  ·  Laia Balleste - 1 **5.00**  ·  Lea Sergeant-Huet - 1 **9.00**  ·  Noemie Carage - 1 **5.00**  ·  Magdalena Sobal - 2 **2.20**  ·  Garance Nein - 2 **3.50**  ·  Mickaella Cardia - 2 **3.50**  ·  Gloria Marinelli - 2 **4.00**  ·  Meriame Terchoun - 2 **4.00**  ·  Natasha Andonova - 2 **4.00**  ·  Paula Serrano - 2 **7.00**  ·  Asun Martinez - 2 **8.00**  ·  Paola Hernandez - 2 **8.00**  ·  Stefanie de Alem - 2 **8.00**  ·  Camila Mingard - 2 **10.00**  ·  Elodie Nakkach - 2 **13.00**  ·  Laura Strik - 2 **10.00**  ·  Magdalena Sobal - 3 **4.50**  ·  Garance Nein - 3 **9.00**  ·  Mickaella Cardia - 3 **9.00**  ·  Gloria Marinelli - 3 **11.00**  ·  Meriame Terchoun - 3 **11.00**  ·  Natasha Andonova - 3 **11.00**  ·  Asun Martinez - 3 **21.00**  ·  Magdalena Sobal - 4 **11.00**  ·  Magdalena Sobal - 5 **21.00**  ·  Paula Serrano - 3 **21.00**  ·  Joana Marchao - 2 **13.00**  ·  Ghoutia Karchouni - 1 **2.75**  ·  Ghoutia Karchouni - 2 **10.00**  ·  Benedicte Simon - 2 **21.00**  ·  Daina Bourma - 2 **21.00**  ·  Amanda Chaney - 2 **21.00**  ·  Emma Petzoldt - 2 **21.00**  ·  Laia Balleste - 2 **21.00**  ·  Noemie Carage - 2 **21.00**  ·  Paola Hernandez - 3 **21.00**  ·  Stefanie de Alem - 3 **21.00**  ·  Garance Nein - 4 **21.00**  ·  Mickaella Cardia - 4 **21.00**
 - **Anytime Goal Scorer:** Clara Serrajordi **3.00**  ·  Laia Balleste **51.00**  ·  Caroline Hansen **1.53**  ·  Claudia Pina **1.30**  ·  Victoria Lopez **1.44**  ·  Ewa Pajor **1.20**  ·  Aitana Bonmati **1.40**  ·  Francisca Nazareth **2.38**  ·  Esmee Brugts **3.00**  ·  Marta Torrejon **3.75**  ·  Patri Guijarro **2.38**  ·  Martina Fernandez **5.00**  ·  Irene Paredes **5.00**  ·  Aicha Camara **4.00**  ·  Carla Julia Martinez **1.73**  ·  Benedicte Simon **41.00**  ·  Rosalia Dominguez **2.10**  ·  Lua Arufe Calo **1.62**  ·  Renee van Asten **4.00**  ·  Magdalena Sobal **7.50**  ·  Garance Nein **9.50**  ·  Mickaella Cardia **9.50**  ·  Gloria Marinelli **12.00**  ·  Natasha Andonova **15.00**  ·  Paula Serrano **19.00**  ·  Asun Martinez **19.00**  ·  Paola Hernandez **19.00**  ·  Stefanie de Alem **19.00**  ·  Camila Mingard **26.00**  ·  Elodie Nakkach **26.00**  ·  Laura Strik **26.00**  ·  Daina Bourma **41.00**  ·  Amanda Chaney **51.00**  ·  Emma Petzoldt **51.00**  ·  Noemie Carage **51.00**  ·  Amina Muratovic **67.00**  ·  Chiara Wallin **67.00**  ·  Lea Sergeant-Huet **67.00**  ·  Carolina Ferrera **2.10**  ·  Martina Gonzalez **3.75**  ·  Ghoutia Karchouni **21.00**  ·  Kautar Azraf **1.40**  ·  Nikoline Nielsen **1.40**  ·  Laia Cabetas **1.73**  ·  Noa Jimenez **3.00**  ·  Julia Torres **1.73**  ·  Meriame Terchoun **12.00**  ·  Sydney Schertenleib **2.75**  ·  Nicoli Kerolin **1.62**  ·  Joana Marchao **26.00**
 
 ## Estadísticas de equipo
@@ -137,44 +139,3 @@ _Sin precedentes recientes._
 ## Jugadores de Servette Chênois W
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-## Probabilidades del modelo
-_Goles esperados: local 6,52 · visitante 0,77 · córners esperados 10,7._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 7% | 2% | 5% | 51.00 | +132% |
-| 1X2: X | 1% | 4% | 3% | 23.00 | -39% |
-| 1X2: 1 | 92% | 94% | 93% | 1.01 | -6% |
-| Ambos marcan: No | 43% | 73% | 58% | 1.28 | -26% |
-| Ambos marcan: Sí | 57% | 27% | 42% | 3.50 | +46% |
-| Goles más/menos: Más de 4.5 | 85% | 69% | 77% | 1.36 | +5% |
-| Goles más/menos: Más de 5.5 | 73% | 54% | 64% | 1.73 | +10% |
-| Goles más/menos: Más de 6.5 | 59% | 39% | 49% | 2.38 | +17% |
-| Goles más/menos: Más de 7.5 | 44% | 25% | 35% | 3.75 | +30% |
-| Goles más/menos: Menos de 4.5 | 15% | 31% | 23% | 3.00 | -31% |
-| Goles más/menos: Menos de 5.5 | 27% | 46% | 36% | 2.00 | -27% |
-| Goles más/menos: Menos de 6.5 | 41% | 61% | 51% | 1.53 | -22% |
-| Goles más/menos: Menos de 7.5 | 56% | 75% | 65% | 1.25 | -18% |
-| Goles 1ª parte más/menos: Más de 1.5 | 82% | 75% | 79% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 2.5 | 61% | 51% | 56% | 1.80 | +2% |
-| Goles 1ª parte más/menos: Más de 3.5 | 39% | 31% | 35% | 3.00 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 39% | 49% | 44% | 1.91 | -17% |
-| Goles 1ª parte más/menos: Menos de 3.5 | 61% | 69% | 65% | 1.36 | -12% |
-| Goles del local: Más de 3.5 | 89% | 78% | 84% | 1.20 | +0% |
-| Goles del local: Más de 4.5 | 78% | 65% | 71% | 1.44 | +3% |
-| Goles del local: Más de 5.5 | 63% | 50% | 57% | 1.83 | +4% |
-| Goles del local: Más de 6.5 | 48% | 34% | 41% | 2.75 | +12% |
-| Goles del local: Más de 7.5 | 33% | 22% | 27% | 4.33 | +18% |
-| Goles del local: Menos de 3.5 | 11% | 22% | 16% | 4.33 | -29% |
-| Goles del local: Menos de 4.5 | 22% | 35% | 29% | 2.62 | -25% |
-| Goles del local: Menos de 5.5 | 37% | 50% | 43% | 1.83 | -21% |
-| Goles del local: Menos de 6.5 | 52% | 66% | 59% | 1.40 | -17% |
-| Goles del local: Menos de 7.5 | 67% | 78% | 73% | 1.20 | -13% |
-| Goles del visitante: Más de 0.5 | 54% | 27% | 40% | 3.50 | +41% |
-| Goles del visitante: Menos de 0.5 | 46% | 73% | 60% | 1.28 | -24% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

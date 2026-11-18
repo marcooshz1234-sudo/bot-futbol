@@ -1,7 +1,7 @@
 # Wolves – Derby
 **Championship** · Regular Season - 17 · 24/11/2026 21:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | M. Johnston | D | 9 | 407 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | Josh Vickers | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | L. Salvesen | F | 14 | 290 | 2 | 0 | 12 | 0,9 | 6 | 0,4 | 10 | 1 | 0,1 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,30 · visitante 0,60 · córners esperados 9,9._
-
-_Sin cuotas de Bet365 todavía para comparar._

@@ -1,7 +1,7 @@
 # CFR 1907 Cluj – Oţelul
 **Liga I** · Regular Season - 16 · 21/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -173,42 +173,3 @@ _Sin bajas comunicadas por ahora._
 | João Paulino | F | 10 | 242 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 2 | 6 | 0,6 | 1 | 0 |
 | Alexandru Bălănică | F | 7 | 213 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 7 | 0 | 0,0 | 2 | 0 |
 | Zé Turbo | F | 6 | 165 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 3 | 5 | 0,8 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 1,41 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 35% | 29% | 32% | 3.10 | +0% |
-| 1X2: X | 25% | 28% | 26% | 3.25 | -14% |
-| 1X2: 1 | 40% | 42% | 41% | 2.15 | -11% |
-| Doble oportunidad: X2 | 60% | 58% | 59% | 1.62 | -5% |
-| Doble oportunidad: 12 | 75% | 72% | 74% | 1.30 | -4% |
-| Doble oportunidad: 1X | 65% | 70% | 68% | 1.33 | -10% |
-| Ambos marcan: No | 41% | 46% | 44% | 2.00 | -12% |
-| Ambos marcan: Sí | 59% | 54% | 56% | 1.73 | -3% |
-| Goles más/menos: Más de 1.5 | 79% | 73% | 76% | 1.28 | -3% |
-| Goles más/menos: Más de 2.5 | 56% | 49% | 52% | 1.95 | +2% |
-| Goles más/menos: Más de 3.5 | 33% | 28% | 31% | 3.40 | +4% |
-| Goles más/menos: Menos de 1.5 | 21% | 27% | 24% | 3.50 | -16% |
-| Goles más/menos: Menos de 2.5 | 44% | 51% | 48% | 1.85 | -12% |
-| Goles más/menos: Menos de 3.5 | 67% | 72% | 69% | 1.30 | -10% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 66% | 69% | 1.40 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 34% | 35% | 2.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 66% | 65% | 1.40 | -9% |
-| Goles del local: Más de 0.5 | 78% | 75% | 76% | 1.25 | -4% |
-| Goles del local: Más de 1.5 | 45% | 42% | 44% | 2.20 | -4% |
-| Goles del local: Menos de 0.5 | 22% | 25% | 24% | 3.75 | -12% |
-| Goles del local: Menos de 1.5 | 55% | 58% | 56% | 1.62 | -9% |
-| Goles del visitante: Más de 0.5 | 75% | 69% | 72% | 1.36 | -2% |
-| Goles del visitante: Más de 1.5 | 41% | 34% | 37% | 2.75 | +3% |
-| Goles del visitante: Menos de 0.5 | 25% | 31% | 28% | 3.00 | -16% |
-| Goles del visitante: Menos de 1.5 | 59% | 66% | 63% | 1.40 | -12% |
-| 1X2 descanso: 2 | 28% | 25% | 27% | 3.75 | -0% |
-| 1X2 descanso: X | 41% | 43% | 42% | 2.20 | -9% |
-| 1X2 descanso: 1 | 31% | 32% | 32% | 2.88 | -8% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

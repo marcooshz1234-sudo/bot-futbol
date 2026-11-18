@@ -1,7 +1,7 @@
 # Millwall – QPR
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -187,46 +187,3 @@ _Sin bajas comunicadas por ahora._
 | D. Cirkin | D | 11 | 425 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 5 | 7 | 0,6 | 1 | 1 |
 | A. Lloyd | F | 9 | 326 | 1 | 0 | 12 | 1,3 | 5 | 0,6 | 5 | 5 | 0,6 | 0 | 0 |
 | Rayan Jawad Kolli | F | 5 | 242 | 0 | 0 | 6 | 1,2 | 5 | 1,0 | 5 | 6 | 1,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,25 · visitante 1,27 · córners esperados 9,5._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 37% | 35% | 36% | 2.62 | -5% |
-| 1X2: X | 27% | 26% | 27% | 3.50 | -7% |
-| 1X2: 1 | 36% | 38% | 37% | 2.40 | -11% |
-| Doble oportunidad: X2 | 64% | 61% | 63% | 1.53 | -4% |
-| Doble oportunidad: 12 | 73% | 73% | 73% | 1.28 | -6% |
-| Doble oportunidad: 1X | 63% | 65% | 64% | 1.44 | -8% |
-| Ambos marcan: No | 49% | 42% | 46% | 2.20 | +0% |
-| Ambos marcan: Sí | 51% | 58% | 54% | 1.62 | -12% |
-| Goles más/menos: Más de 1.5 | 72% | 78% | 75% | 1.22 | -9% |
-| Goles más/menos: Más de 2.5 | 46% | 55% | 50% | 1.73 | -13% |
-| Goles más/menos: Más de 3.5 | 25% | 34% | 29% | 2.75 | -19% |
-| Goles más/menos: Menos de 1.5 | 28% | 22% | 25% | 4.33 | +9% |
-| Goles más/menos: Menos de 2.5 | 54% | 45% | 50% | 2.10 | +4% |
-| Goles más/menos: Menos de 3.5 | 75% | 66% | 71% | 1.44 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles del local: Más de 1.5 | 35% | 44% | 40% | 2.10 | -16% |
-| Goles del local: Más de 2.5 | 13% | 21% | 17% | 4.50 | -24% |
-| Goles del local: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles del local: Menos de 1.5 | 65% | 56% | 60% | 1.67 | +0% |
-| Goles del local: Menos de 2.5 | 87% | 79% | 83% | 1.18 | -2% |
-| Goles del visitante: Más de 0.5 | 72% | 75% | 73% | 1.25 | -8% |
-| Goles del visitante: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles del visitante: Menos de 0.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles del visitante: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Córners más/menos: Más de 10.5 | 37% | 50% | 43% | 1.83 | -21% |
-| Córners más/menos: Menos de 10.5 | 63% | 50% | 57% | 1.83 | +4% |
-| 1X2 descanso: 2 | 28% | 29% | 28% | 3.25 | -8% |
-| 1X2 descanso: X | 44% | 40% | 42% | 2.30 | -3% |
-| 1X2 descanso: 1 | 28% | 31% | 29% | 3.00 | -12% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

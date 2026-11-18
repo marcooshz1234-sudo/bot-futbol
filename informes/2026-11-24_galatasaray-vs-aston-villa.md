@@ -1,7 +1,7 @@
 # Galatasaray – Aston Villa
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Rams Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -172,6 +172,3 @@ _Sin precedentes recientes._
 | L. Goretzka | M | 8 | 295 | 1 | 0 | 7 | 0,9 | 1 | 0,1 | 6 | 3 | 0,4 | 0 | 0 |
 | T. Harwood-Bellis | D | 3 | 270 | 0 | 0 | 2 | 0,7 | 2 | 0,7 | 2 | 2 | 0,7 | 0 | 0 |
 | Matteo Ruggeri | D | 5 | 248 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

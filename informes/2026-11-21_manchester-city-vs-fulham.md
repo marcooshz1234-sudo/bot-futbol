@@ -1,7 +1,7 @@
 # Manchester City – Fulham
 **Premier League** · Regular Season - 11 · 21/11/2026 13:30 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -181,41 +181,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | H. Larsson | M | 8 | 234 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Kevin | F | 8 | 230 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 4 | 3 | 0,4 | 0 | 0 |
 | Emile Smith Rowe | M | 6 | 207 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 3 | 1 | 0,2 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,98 · visitante 0,86 · córners esperados 9,6._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 16% | 13% | 14% | 7.00 | +1% |
-| 1X2: X | 21% | 20% | 20% | 4.75 | -3% |
-| 1X2: 1 | 63% | 67% | 65% | 1.40 | -9% |
-| Doble oportunidad: X2 | 37% | 34% | 35% | 2.75 | -3% |
-| Doble oportunidad: 12 | 79% | 80% | 79% | 1.18 | -6% |
-| Doble oportunidad: 1X | 84% | 86% | 85% | 1.10 | -6% |
-| Ambos marcan: No | 50% | 45% | 48% | 2.05 | -2% |
-| Ambos marcan: Sí | 50% | 55% | 52% | 1.70 | -11% |
-| Goles más/menos: Más de 2.5 | 54% | 64% | 59% | 1.50 | -12% |
-| Goles más/menos: Más de 3.5 | 32% | 43% | 37% | 2.20 | -18% |
-| Goles más/menos: Más de 4.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles más/menos: Menos de 2.5 ✅ | 46% | 36% | 41% | 2.62 | +8% |
-| Goles más/menos: Menos de 3.5 | 68% | 57% | 63% | 1.67 | +5% |
-| Goles más/menos: Menos de 4.5 | 84% | 75% | 79% | 1.28 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
-| Goles del local: Más de 1.5 | 59% | 66% | 63% | 1.40 | -12% |
-| Goles del local: Más de 2.5 | 32% | 42% | 37% | 2.20 | -18% |
-| Goles del local: Más de 3.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles del local: Menos de 1.5 | 41% | 34% | 37% | 2.75 | +3% |
-| Goles del local: Menos de 2.5 | 68% | 58% | 63% | 1.62 | +2% |
-| Goles del local: Menos de 3.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles del visitante: Más de 0.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles del visitante: Más de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles del visitante: Menos de 0.5 | 42% | 39% | 41% | 2.38 | -3% |
-| Goles del visitante: Menos de 1.5 | 79% | 75% | 77% | 1.25 | -4% |
-| 1X2 descanso: X | 39% | 35% | 37% | 2.62 | -2% |
-| 1X2 descanso: 1 | 45% | 51% | 48% | 1.83 | -12% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Vejle – HB Koge
 **1. Division** · Regular Season - 15 · 21/11/2026 13:30 (hora España) · Vejle Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -135,43 +135,3 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de HB Koge
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-## Probabilidades del modelo
-_Goles esperados: local 2,67 · visitante 1,21._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 15% | 15% | 15% | 6.25 | -7% |
-| 1X2: X | 16% | 21% | 19% | 4.50 | -16% |
-| 1X2: 1 | 68% | 64% | 66% | 1.44 | -4% |
-| Doble oportunidad: X2 | 32% | 36% | 34% | 2.62 | -12% |
-| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -4% |
-| Doble oportunidad: 1X | 85% | 84% | 85% | 1.12 | -5% |
-| Ambos marcan: No | 35% | 44% | 39% | 2.10 | -17% |
-| Ambos marcan: Sí | 65% | 56% | 61% | 1.67 | +1% |
-| Goles más/menos: Más de 2.5 | 74% | 62% | 68% | 1.50 | +3% |
-| Goles más/menos: Más de 3.5 | 54% | 42% | 48% | 2.20 | +6% |
-| Goles más/menos: Más de 4.5 | 35% | 25% | 30% | 3.75 | +12% |
-| Goles más/menos: Menos de 2.5 | 26% | 38% | 32% | 2.50 | -21% |
-| Goles más/menos: Menos de 3.5 | 46% | 58% | 52% | 1.62 | -16% |
-| Goles más/menos: Menos de 4.5 | 65% | 75% | 70% | 1.25 | -12% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 1.5 | 50% | 42% | 46% | 2.20 | +2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 25% | 22% | 3.75 | -18% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 50% | 58% | 54% | 1.62 | -13% |
-| Goles del local: Más de 1.5 | 75% | 65% | 70% | 1.44 | +0% |
-| Goles del local: Más de 2.5 | 50% | 41% | 46% | 2.25 | +2% |
-| Goles del local: Más de 3.5 | 28% | 21% | 24% | 4.50 | +10% |
-| Goles del local: Menos de 1.5 | 25% | 35% | 30% | 2.62 | -20% |
-| Goles del local: Menos de 2.5 | 50% | 59% | 54% | 1.57 | -15% |
-| Goles del local: Menos de 3.5 | 72% | 79% | 76% | 1.18 | -11% |
-| Goles del visitante: Más de 0.5 | 70% | 62% | 66% | 1.50 | -0% |
-| Goles del visitante: Más de 1.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del visitante: Menos de 0.5 | 30% | 38% | 34% | 2.50 | -16% |
-| Goles del visitante: Menos de 1.5 | 66% | 72% | 69% | 1.30 | -10% |
-| 1X2 descanso: X | 32% | 36% | 34% | 2.62 | -12% |
-| 1X2 descanso: 1 | 52% | 49% | 50% | 1.91 | -4% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

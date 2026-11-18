@@ -1,7 +1,7 @@
 # RB Leipzig – Lens
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -177,43 +177,3 @@ _Sin bajas comunicadas por ahora._
 | A. Bulatović | M | 10 | 390 | 0 | 0 | 11 | 1,1 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
 | O. Édouard | F | 9 | 344 | 1 | 0 | 10 | 1,1 | 6 | 0,7 | 2 | 3 | 0,3 | 0 | 0 |
 | J. Kadile | F | 9 | 321 | 0 | 0 | 8 | 0,9 | 4 | 0,4 | 3 | 4 | 0,4 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 3,45 · visitante 1,22 · córners esperados 10,0._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 9% | 16% | 13% | 6.00 | -24% |
-| 1X2: X | 12% | 19% | 15% | 5.00 | -24% |
-| 1X2: 1 | 79% | 65% | 72% | 1.45 | +5% |
-| Doble oportunidad: X2 | 21% | 36% | 28% | 2.62 | -25% |
-| Doble oportunidad: 12 | 88% | 80% | 84% | 1.17 | -1% |
-| Doble oportunidad: 1X | 91% | 84% | 87% | 1.12 | -2% |
-| Ambos marcan: No | 32% | 35% | 34% | 2.62 | -12% |
-| Ambos marcan: Sí | 68% | 65% | 66% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 85% | 73% | 79% | 1.30 | +2% |
-| Goles más/menos: Más de 3.5 | 69% | 53% | 61% | 1.80 | +9% |
-| Goles más/menos: Más de 4.5 ✅ | 50% | 34% | 42% | 2.75 | +16% |
-| Goles más/menos: Más de 5.5 | 33% | 21% | 27% | 4.50 | +21% |
-| Goles más/menos: Menos de 2.5 | 15% | 27% | 21% | 3.50 | -26% |
-| Goles más/menos: Menos de 3.5 | 31% | 47% | 39% | 2.00 | -21% |
-| Goles más/menos: Menos de 4.5 | 50% | 66% | 58% | 1.44 | -17% |
-| Goles más/menos: Menos de 5.5 | 67% | 79% | 73% | 1.20 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles 1ª parte más/menos: Más de 2.5 | 33% | 25% | 29% | 3.75 | +9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 67% | 75% | 71% | 1.25 | -11% |
-| Goles del local: Más de 1.5 | 86% | 73% | 80% | 1.28 | +2% |
-| Goles del local: Más de 2.5 | 67% | 49% | 58% | 1.91 | +10% |
-| Goles del local: Más de 3.5 ✅ | 45% | 28% | 36% | 3.40 | +24% |
-| Goles del local: Menos de 1.5 | 14% | 27% | 20% | 3.50 | -28% |
-| Goles del local: Menos de 2.5 | 33% | 51% | 42% | 1.80 | -24% |
-| Goles del local: Menos de 3.5 | 55% | 72% | 64% | 1.30 | -17% |
-| Goles del visitante: Más de 0.5 | 71% | 71% | 71% | 1.33 | -6% |
-| Goles del visitante: Más de 1.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles del visitante: Menos de 0.5 | 29% | 29% | 29% | 3.25 | -5% |
-| Goles del visitante: Menos de 1.5 | 65% | 65% | 65% | 1.44 | -6% |
-| 1X2 descanso: X | 26% | 32% | 29% | 2.88 | -16% |
-| 1X2 descanso: 1 | 61% | 51% | 56% | 1.83 | +2% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

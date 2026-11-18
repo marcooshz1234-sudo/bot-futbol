@@ -1,7 +1,7 @@
 # Eintracht Frankfurt – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -191,44 +191,3 @@ _Sin bajas comunicadas por ahora._
 | Patrick Wimmer | M | 6 | 344 | 2 | 1 | 11 | 1,8 | 5 | 0,8 | 5 | 6 | 1,0 | 0 | 0 |
 | L. Philipp | G | 2 | 210 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Natnael Abraha | D | 3 | 193 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 1 | 1 | 0,3 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,20 · visitante 1,93 · córners esperados 10,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 35% | 36% | 35% | 2.60 | -8% |
-| 1X2: X | 20% | 23% | 22% | 4.00 | -13% |
-| 1X2: 1 | 45% | 41% | 43% | 2.30 | -1% |
-| Doble oportunidad: X2 | 55% | 60% | 57% | 1.57 | -10% |
-| Doble oportunidad: 12 | 80% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 65% | 63% | 64% | 1.50 | -4% |
-| Ambos marcan: No | 24% | 29% | 26% | 3.25 | -14% |
-| Ambos marcan: Sí | 76% | 71% | 74% | 1.33 | -2% |
-| Goles más/menos: Más de 2.5 | 78% | 70% | 74% | 1.36 | +1% |
-| Goles más/menos: Más de 3.5 | 59% | 50% | 55% | 1.91 | +4% |
-| Goles más/menos: Más de 4.5 ✅ | 40% | 32% | 36% | 3.00 | +7% |
-| Goles más/menos: Menos de 2.5 | 22% | 30% | 26% | 3.20 | -17% |
-| Goles más/menos: Menos de 3.5 | 41% | 50% | 45% | 1.91 | -13% |
-| Goles más/menos: Menos de 4.5 | 60% | 68% | 64% | 1.40 | -10% |
-| Goles 1ª parte más/menos: Más de 0.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 54% | 49% | 51% | 1.91 | -2% |
-| Goles 1ª parte más/menos: Más de 2.5 | 27% | 23% | 25% | 4.00 | +0% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 46% | 51% | 49% | 1.80 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 73% | 77% | 75% | 1.22 | -9% |
-| Goles del local: Más de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
-| Goles del local: Más de 2.5 | 38% | 31% | 35% | 3.00 | +4% |
-| Goles del local: Menos de 1.5 | 35% | 42% | 39% | 2.20 | -14% |
-| Goles del local: Menos de 2.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 57% | 51% | 54% | 1.80 | -2% |
-| Goles del visitante: Más de 2.5 | 30% | 27% | 29% | 3.50 | +0% |
-| Goles del visitante: Menos de 1.5 | 43% | 49% | 46% | 1.91 | -13% |
-| Goles del visitante: Menos de 2.5 | 70% | 73% | 71% | 1.28 | -9% |
-| Córners más/menos: Más de 10.5 | 42% | 46% | 44% | 2.00 | -12% |
-| Córners más/menos: Menos de 10.5 | 58% | 54% | 56% | 1.73 | -3% |
-| 1X2 descanso: 2 | 30% | 31% | 31% | 3.00 | -8% |
-| 1X2 descanso: X | 33% | 35% | 34% | 2.62 | -11% |
-| 1X2 descanso: 1 | 37% | 34% | 35% | 2.75 | -3% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

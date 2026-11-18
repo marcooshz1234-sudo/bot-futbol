@@ -1,7 +1,7 @@
 # Slavia Praha – Villarreal
 **Champions League** · League Stage - 5 · 25/11/2026 18:45 (hora España) · Fortuna Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -131,6 +131,3 @@ _Sin bajas comunicadas por ahora._
 | C. Macia | M | 9 | 463 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 4 | 0,4 | 1 | 0 |
 | Luiz Júnior | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Ilias Akhomach | M | 9 | 394 | 0 | 2 | 6 | 0,7 | 2 | 0,2 | 4 | 6 | 0,7 | 1 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

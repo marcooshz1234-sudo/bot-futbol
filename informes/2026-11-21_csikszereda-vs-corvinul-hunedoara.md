@@ -1,7 +1,7 @@
 # Csikszereda – Corvinul Hunedoara
 **Liga I** · Regular Season - 16 · 21/11/2026 14:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -173,44 +173,3 @@ _Sin bajas comunicadas por ahora._
 | Adrian Frânculescu | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Dragoș Albu | M | 5 | 163 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 | Roger Ferreira | M | 5 | 152 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,70 · visitante 1,56 · córners esperados 8,7._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 58% | 49% | 54% | 1.85 | -1% |
-| 1X2: X | 25% | 27% | 26% | 3.40 | -11% |
-| 1X2: 1 | 17% | 24% | 20% | 3.80 | -23% |
-| Doble oportunidad: X2 | 83% | 76% | 80% | 1.22 | -3% |
-| Doble oportunidad: 12 | 75% | 72% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 42% | 52% | 47% | 1.80 | -16% |
-| Ambos marcan: No | 60% | 49% | 54% | 1.91 | +4% |
-| Ambos marcan: Sí | 40% | 51% | 46% | 1.80 | -18% |
-| Goles más/menos: Más de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Goles más/menos: Más de 2.5 | 39% | 49% | 44% | 1.95 | -14% |
-| Goles más/menos: Más de 3.5 | 19% | 28% | 23% | 3.40 | -20% |
-| Goles más/menos: Menos de 1.5 | 34% | 27% | 30% | 3.50 | +7% |
-| Goles más/menos: Menos de 2.5 | 61% | 51% | 56% | 1.85 | +4% |
-| Goles más/menos: Menos de 3.5 | 81% | 72% | 77% | 1.30 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 62% | 69% | 66% | 1.36 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 26% | 34% | 30% | 2.75 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 38% | 31% | 34% | 3.00 | +3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 74% | 66% | 70% | 1.40 | -2% |
-| Goles del local: Más de 0.5 | 50% | 65% | 57% | 1.44 | -17% |
-| Goles del local: Más de 1.5 | 15% | 28% | 22% | 3.40 | -27% |
-| Goles del local: Menos de 0.5 | 50% | 35% | 43% | 2.62 | +12% |
-| Goles del local: Menos de 1.5 | 85% | 72% | 78% | 1.30 | +2% |
-| Goles del visitante: Más de 0.5 | 79% | 78% | 79% | 1.20 | -6% |
-| Goles del visitante: Más de 1.5 | 46% | 49% | 47% | 1.91 | -10% |
-| Goles del visitante: Más de 2.5 | 21% | 23% | 22% | 4.00 | -12% |
-| Goles del visitante: Menos de 0.5 | 21% | 22% | 21% | 4.33 | -7% |
-| Goles del visitante: Menos de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
-| Goles del visitante: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
-| 1X2 descanso: 2 | 40% | 37% | 38% | 2.50 | -4% |
-| 1X2 descanso: X | 46% | 42% | 44% | 2.20 | -4% |
-| 1X2 descanso: 1 | 15% | 21% | 18% | 4.33 | -22% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

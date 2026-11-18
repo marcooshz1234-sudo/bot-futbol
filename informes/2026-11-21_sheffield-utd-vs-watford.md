@@ -1,7 +1,7 @@
 # Sheffield Utd – Watford
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -188,43 +188,3 @@ _Sin bajas comunicadas por ahora._
 | S. Coulibaly | D | 5 | 346 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 2 | 6 | 1,2 | 0 | 0 |
 | R. Vata | F | 13 | 325 | 0 | 1 | 13 | 1,0 | 6 | 0,5 | 3 | 3 | 0,2 | 0 | 0 |
 | S. Mavididi | F | 7 | 297 | 1 | 0 | 5 | 0,7 | 2 | 0,3 | 3 | 4 | 0,6 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 0,78 · córners esperados 9,4._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 19% | 18% | 18% | 5.00 | -8% |
-| 1X2: X | 25% | 23% | 24% | 3.90 | -5% |
-| 1X2: 1 | 56% | 58% | 57% | 1.57 | -10% |
-| Doble oportunidad: X2 | 44% | 42% | 43% | 2.30 | -1% |
-| Doble oportunidad: 12 | 75% | 77% | 76% | 1.25 | -6% |
-| Doble oportunidad: 1X | 81% | 82% | 82% | 1.17 | -5% |
-| Ambos marcan: No | 57% | 49% | 53% | 1.91 | +1% |
-| Ambos marcan: Sí | 43% | 51% | 47% | 1.80 | -15% |
-| Goles más/menos: Más de 1.5 | 68% | 76% | 72% | 1.25 | -10% |
-| Goles más/menos: Más de 2.5 | 41% | 53% | 47% | 1.80 | -15% |
-| Goles más/menos: Más de 3.5 | 21% | 32% | 26% | 3.00 | -21% |
-| Goles más/menos: Menos de 1.5 | 32% | 24% | 28% | 4.00 | +12% |
-| Goles más/menos: Menos de 2.5 | 59% | 47% | 53% | 2.00 | +6% |
-| Goles más/menos: Menos de 3.5 | 79% | 68% | 74% | 1.40 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 67% | 1.33 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 33% | 3.25 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +2% |
-| Goles del local: Más de 1.5 | 46% | 56% | 51% | 1.67 | -15% |
-| Goles del local: Más de 2.5 | 21% | 31% | 26% | 3.00 | -22% |
-| Goles del local: Menos de 1.5 | 54% | 44% | 49% | 2.10 | +3% |
-| Goles del local: Menos de 2.5 | 79% | 69% | 74% | 1.36 | +1% |
-| Goles del visitante: Más de 0.5 | 54% | 61% | 57% | 1.53 | -12% |
-| Goles del visitante: Más de 1.5 | 18% | 25% | 22% | 3.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 46% | 39% | 43% | 2.38 | +1% |
-| Goles del visitante: Menos de 1.5 | 82% | 75% | 78% | 1.25 | -2% |
-| Córners más/menos: Más de 10.5 | 36% | 46% | 41% | 2.00 | -18% |
-| Córners más/menos: Menos de 10.5 | 64% | 54% | 59% | 1.73 | +2% |
-| 1X2 descanso: X | 45% | 39% | 42% | 2.38 | -0% |
-| 1X2 descanso: 1 | 39% | 44% | 41% | 2.10 | -13% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

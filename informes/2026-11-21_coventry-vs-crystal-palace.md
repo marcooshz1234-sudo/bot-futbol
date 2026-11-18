@@ -1,7 +1,7 @@
 # Coventry – Crystal Palace
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Coventry Building Society Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -176,42 +176,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | J. Mateta | F | 6 | 303 | 1 | 0 | 11 | 1,8 | 6 | 1,0 | 5 | 6 | 1,0 | 0 | 1 |
 | Takehiro Tomiyasu | D | 5 | 280 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 3 | 0,6 | 0 | 0 |
 | D. Osorio | M | 9 | 255 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 6 | 6 | 0,7 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,54 · visitante 1,61 · córners esperados 8,8._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 40% | 33% | 36% | 2.88 | +4% |
-| 1X2: X | 24% | 27% | 25% | 3.50 | -11% |
-| 1X2: 1 | 37% | 40% | 38% | 2.35 | -10% |
-| Doble oportunidad: X2 | 63% | 60% | 62% | 1.57 | -3% |
-| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 60% | 67% | 64% | 1.40 | -11% |
-| Ambos marcan: No | 37% | 41% | 39% | 2.25 | -12% |
-| Ambos marcan: Sí | 63% | 59% | 61% | 1.57 | -4% |
-| Goles más/menos: Más de 1.5 | 82% | 78% | 80% | 1.22 | -2% |
-| Goles más/menos: Más de 2.5 | 61% | 57% | 59% | 1.67 | -1% |
-| Goles más/menos: Más de 3.5 | 39% | 34% | 37% | 2.75 | +1% |
-| Goles más/menos: Menos de 1.5 | 18% | 22% | 20% | 4.33 | -14% |
-| Goles más/menos: Menos de 2.5 | 39% | 43% | 41% | 2.20 | -10% |
-| Goles más/menos: Menos de 3.5 | 61% | 66% | 63% | 1.44 | -9% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del local: Más de 0.5 | 79% | 78% | 78% | 1.20 | -6% |
-| Goles del local: Más de 1.5 | 46% | 46% | 46% | 2.00 | -8% |
-| Goles del local: Más de 2.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles del local: Menos de 0.5 | 21% | 22% | 22% | 4.33 | -7% |
-| Goles del local: Menos de 1.5 | 54% | 54% | 54% | 1.73 | -7% |
-| Goles del local: Menos de 2.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles del visitante: Más de 0.5 | 80% | 75% | 78% | 1.25 | -3% |
-| Goles del visitante: Más de 1.5 | 48% | 42% | 45% | 2.20 | -1% |
-| Goles del visitante: Menos de 0.5 | 20% | 25% | 22% | 3.75 | -16% |
-| Goles del visitante: Menos de 1.5 | 52% | 58% | 55% | 1.62 | -11% |
-| 1X2 descanso: 2 | 32% | 28% | 30% | 3.25 | -3% |
-| 1X2 descanso: X | 39% | 40% | 39% | 2.30 | -10% |
-| 1X2 descanso: 1 | 30% | 32% | 31% | 2.88 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

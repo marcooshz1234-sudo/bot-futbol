@@ -1,7 +1,7 @@
 # Feyenoord – FC Porto
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -175,46 +175,3 @@ _Sin bajas comunicadas por ahora._
 | N. Pérez | D | 8 | 262 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
 | S. Giménez | F | 7 | 118 | 1 | 1 | 8 | 1,1 | 6 | 0,9 | 3 | 4 | 0,6 | 1 | 0 |
 | O. Pietuszewski | F | 4 | 110 | 1 | 0 | 6 | 1,5 | 1 | 0,2 | 1 | 7 | 1,8 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,56 · visitante 1,48 · córners esperados 9,1._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 36% | 42% | 39% | 2.25 | -12% |
-| 1X2: X | 24% | 25% | 25% | 3.75 | -8% |
-| 1X2: 1 | 40% | 33% | 37% | 2.80 | +2% |
-| Doble oportunidad: X2 | 60% | 67% | 64% | 1.40 | -11% |
-| Doble oportunidad: 12 | 76% | 75% | 75% | 1.25 | -6% |
-| Doble oportunidad: 1X | 64% | 58% | 61% | 1.62 | -1% |
-| Ambos marcan: No | 39% | 38% | 38% | 2.50 | -4% |
-| Ambos marcan: Sí | 61% | 62% | 62% | 1.50 | -7% |
-| Goles más/menos: Más de 2.5 | 59% | 60% | 59% | 1.57 | -7% |
-| Goles más/menos: Más de 3.5 | 36% | 38% | 37% | 2.50 | -7% |
-| Goles más/menos: Más de 4.5 | 19% | 22% | 21% | 4.33 | -11% |
-| Goles más/menos: Menos de 2.5 | 41% | 40% | 41% | 2.38 | -3% |
-| Goles más/menos: Menos de 3.5 | 64% | 62% | 63% | 1.53 | -4% |
-| Goles más/menos: Menos de 4.5 | 81% | 78% | 79% | 1.22 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 73% | 73% | 1.28 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 41% | 40% | 2.25 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 27% | 27% | 3.50 | -6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 59% | 60% | 1.57 | -5% |
-| Goles del local: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 46% | 44% | 45% | 2.10 | -5% |
-| Goles del local: Más de 2.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles del local: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del local: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -9% |
-| Goles del local: Menos de 2.5 | 79% | 79% | 79% | 1.18 | -6% |
-| Goles del visitante: Más de 0.5 | 77% | 78% | 78% | 1.20 | -7% |
-| Goles del visitante: Más de 1.5 | 44% | 49% | 46% | 1.91 | -12% |
-| Goles del visitante: Más de 2.5 | 19% | 23% | 21% | 4.00 | -16% |
-| Goles del visitante: Menos de 0.5 | 23% | 22% | 22% | 4.33 | -4% |
-| Goles del visitante: Menos de 1.5 | 56% | 51% | 54% | 1.80 | -3% |
-| Goles del visitante: Menos de 2.5 | 81% | 77% | 79% | 1.22 | -4% |
-| 1X2 descanso: 2 | 29% | 32% | 31% | 2.88 | -12% |
-| 1X2 descanso: X | 40% | 39% | 39% | 2.40 | -6% |
-| 1X2 descanso: 1 | 31% | 29% | 30% | 3.20 | -4% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Charlton – Lincoln
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | C. Ogbene | F | 11 | 381 | 0 | 0 | 6 | 0,5 | 3 | 0,3 | 1 | 5 | 0,5 | 0 | 0 |
 | M. Ladefoged | F | 9 | 376 | 3 | 1 | 13 | 1,4 | 4 | 0,4 | 6 | 4 | 0,4 | 1 | 0 |
 | T. Hamer | D | 7 | 326 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 3 | 0,4 | 1 | 1 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,12 · visitante 1,23 · córners esperados 9,5._
-
-_Sin cuotas de Bet365 todavía para comparar._

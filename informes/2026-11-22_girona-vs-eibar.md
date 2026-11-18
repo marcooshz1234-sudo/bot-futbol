@@ -1,7 +1,7 @@
 # Girona – Eibar
 **Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Estadio Municipal de Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -186,43 +186,3 @@ _Sin bajas comunicadas por ahora._
 | Lucas Nuñez | M | 9 | 180 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 3 | 0,3 | 2 | 0 |
 | Jair Amador | D | 5 | 137 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 1 |
 | Sergio Álvarez | M | 3 | 126 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 2 | 2 | 0,7 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,16 · córners esperados 9,1._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 32% | 21% | 27% | 4.33 | +16% |
-| 1X2: X | 27% | 26% | 27% | 3.50 | -7% |
-| 1X2: 1 | 41% | 53% | 47% | 1.75 | -18% |
-| Doble oportunidad: X2 | 59% | 47% | 53% | 2.00 | +6% |
-| Doble oportunidad: 12 | 73% | 74% | 74% | 1.28 | -6% |
-| Doble oportunidad: 1X | 68% | 79% | 73% | 1.20 | -12% |
-| Ambos marcan: No | 49% | 46% | 48% | 2.00 | -4% |
-| Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -10% |
-| Goles más/menos: Más de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles más/menos: Más de 2.5 | 46% | 53% | 49% | 1.80 | -12% |
-| Goles más/menos: Más de 3.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles más/menos: Menos de 1.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles más/menos: Menos de 2.5 | 54% | 47% | 51% | 2.00 | +2% |
-| Goles más/menos: Menos de 3.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 71% | 69% | 1.33 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 29% | 31% | 3.25 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del local: Más de 1.5 | 39% | 51% | 45% | 1.80 | -19% |
-| Goles del local: Más de 2.5 | 15% | 27% | 21% | 3.50 | -26% |
-| Goles del local: Menos de 1.5 | 61% | 49% | 55% | 1.91 | +5% |
-| Goles del local: Menos de 2.5 | 85% | 73% | 79% | 1.28 | +1% |
-| Goles del visitante: Más de 0.5 | 69% | 65% | 67% | 1.44 | -4% |
-| Goles del visitante: Más de 1.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles del visitante: Menos de 0.5 | 31% | 35% | 33% | 2.62 | -12% |
-| Goles del visitante: Menos de 1.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Córners más/menos: Más de 9.5 | 41% | 49% | 45% | 1.91 | -14% |
-| Córners más/menos: Menos de 9.5 | 59% | 51% | 55% | 1.80 | -1% |
-| 1X2 descanso: X | 44% | 41% | 43% | 2.30 | -2% |
-| 1X2 descanso: 1 | 30% | 39% | 35% | 2.38 | -17% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

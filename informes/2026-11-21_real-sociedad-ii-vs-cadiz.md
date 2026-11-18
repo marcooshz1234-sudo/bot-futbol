@@ -1,7 +1,7 @@
 # Real Sociedad II – Cadiz
 **Segunda División** · Regular Season - 15 · 21/11/2026 16:15 (hora España) · Estadio Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -182,46 +182,3 @@ _Sin bajas comunicadas por ahora._
 | N. Ukwuije | D | 5 | 356 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 | G. Gocholeishvili | D | 5 | 289 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 5 | 1,0 | 1 | 0 |
 | Javi Ontiveros | M | 7 | 249 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 5 | 11 | 1,6 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,49 · visitante 1,46 · córners esperados 9,7._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 37% | 24% | 31% | 3.90 | +19% |
-| 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
-| 1X2: 1 | 38% | 49% | 44% | 1.90 | -17% |
-| Doble oportunidad: X2 | 62% | 50% | 56% | 1.91 | +6% |
-| Doble oportunidad: 12 | 75% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 63% | 76% | 69% | 1.25 | -13% |
-| Ambos marcan: No | 41% | 46% | 43% | 2.00 | -13% |
-| Ambos marcan: Sí | 59% | 54% | 57% | 1.73 | -2% |
-| Goles más/menos: Más de 1.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles más/menos: Más de 2.5 | 57% | 51% | 54% | 1.85 | -0% |
-| Goles más/menos: Más de 3.5 | 34% | 31% | 33% | 3.00 | -2% |
-| Goles más/menos: Menos de 1.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles más/menos: Menos de 2.5 | 43% | 49% | 46% | 1.95 | -10% |
-| Goles más/menos: Menos de 3.5 | 66% | 69% | 67% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 69% | 71% | 1.36 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 37% | 35% | 36% | 2.62 | -5% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 31% | 29% | 3.00 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del local: Más de 0.5 | 77% | 79% | 78% | 1.18 | -8% |
-| Goles del local: Más de 1.5 | 44% | 50% | 47% | 1.83 | -14% |
-| Goles del local: Más de 2.5 | 19% | 25% | 22% | 3.75 | -18% |
-| Goles del local: Menos de 0.5 | 23% | 21% | 22% | 4.50 | -2% |
-| Goles del local: Menos de 1.5 | 56% | 50% | 53% | 1.83 | -3% |
-| Goles del local: Menos de 2.5 | 81% | 75% | 78% | 1.25 | -2% |
-| Goles del visitante: Más de 0.5 | 77% | 66% | 72% | 1.40 | +0% |
-| Goles del visitante: Más de 1.5 | 43% | 31% | 37% | 3.00 | +11% |
-| Goles del visitante: Menos de 0.5 | 23% | 34% | 28% | 2.75 | -22% |
-| Goles del visitante: Menos de 1.5 | 57% | 69% | 63% | 1.36 | -14% |
-| Córners más/menos: Más de 9.5 | 47% | 50% | 48% | 1.90 | -8% |
-| Córners más/menos: Menos de 9.5 | 53% | 50% | 52% | 1.90 | -2% |
-| 1X2 descanso: 2 | 29% | 21% | 25% | 4.33 | +10% |
-| 1X2 descanso: X | 40% | 41% | 41% | 2.25 | -8% |
-| 1X2 descanso: 1 | 30% | 37% | 34% | 2.50 | -16% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

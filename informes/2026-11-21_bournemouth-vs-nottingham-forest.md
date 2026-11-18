@@ -1,7 +1,7 @@
 # Bournemouth – Nottingham Forest
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -180,42 +180,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | R. Yates | M | 2 | 124 | 0 | 0 | 2 | 1,0 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 | A. Kalimuendo | F | 5 | 115 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 2 | 0,4 | 0 | 0 |
 | L. Netz | D | 6 | 100 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,61 · visitante 0,76 · córners esperados 9,2._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 17% | 25% | 21% | 3.75 | -20% |
-| 1X2: X | 25% | 27% | 26% | 3.50 | -10% |
-| 1X2: 1 | 58% | 48% | 53% | 1.95 | +3% |
-| Doble oportunidad: X2 | 42% | 52% | 47% | 1.80 | -15% |
-| Doble oportunidad: 12 | 75% | 73% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 83% | 75% | 79% | 1.25 | -2% |
-| Ambos marcan: No | 57% | 45% | 51% | 2.05 | +5% |
-| Ambos marcan: Sí | 43% | 55% | 49% | 1.70 | -17% |
-| Goles más/menos: Más de 1.5 | 69% | 76% | 72% | 1.25 | -10% |
-| Goles más/menos: Más de 2.5 | 42% | 53% | 47% | 1.80 | -15% |
-| Goles más/menos: Más de 3.5 | 22% | 32% | 27% | 3.00 | -20% |
-| Goles más/menos: Menos de 1.5 | 31% | 24% | 28% | 4.00 | +10% |
-| Goles más/menos: Menos de 2.5 | 58% | 47% | 53% | 2.00 | +5% |
-| Goles más/menos: Menos de 3.5 | 78% | 68% | 73% | 1.40 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 71% | 68% | 1.33 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 28% | 35% | 32% | 2.62 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 29% | 32% | 3.25 | +5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 72% | 65% | 68% | 1.44 | -1% |
-| Goles del local: Más de 0.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 48% | 50% | 49% | 1.83 | -10% |
-| Goles del local: Más de 2.5 | 22% | 23% | 23% | 4.00 | -9% |
-| Goles del local: Menos de 0.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles del local: Menos de 1.5 | 52% | 50% | 51% | 1.83 | -7% |
-| Goles del local: Menos de 2.5 | 78% | 77% | 77% | 1.22 | -6% |
-| Goles del visitante: Más de 0.5 | 53% | 66% | 60% | 1.40 | -16% |
-| Goles del visitante: Más de 1.5 | 18% | 34% | 26% | 2.75 | -29% |
-| Goles del visitante: Menos de 0.5 ✅ | 47% | 34% | 40% | 2.75 | +11% |
-| Goles del visitante: Menos de 1.5 | 82% | 66% | 74% | 1.40 | +4% |
-| 1X2 descanso: 2 | 16% | 23% | 19% | 4.00 | -23% |
-| 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 40% | 36% | 38% | 2.60 | -2% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

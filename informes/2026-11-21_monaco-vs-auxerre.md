@@ -1,7 +1,7 @@
 # Monaco – Auxerre
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Louis II
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -189,45 +189,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Aristide Zossou | M | 5 | 131 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | R. Mandengue | D | 7 | 113 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 10 | 3 | 0,4 | 1 | 0 |
 | M. Senaya | D | 2 | 92 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 3 | 2 | 1,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,45 · visitante 0,86 · córners esperados 10,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 11% | 13% | 12% | 7.00 | -14% |
-| 1X2: X | 16% | 20% | 18% | 4.75 | -14% |
-| 1X2: 1 | 72% | 67% | 70% | 1.40 | -3% |
-| Doble oportunidad: X2 | 28% | 34% | 31% | 2.75 | -15% |
-| Doble oportunidad: 12 | 84% | 80% | 82% | 1.18 | -4% |
-| Doble oportunidad: 1X | 89% | 86% | 87% | 1.10 | -4% |
-| Ambos marcan: No | 47% | 45% | 46% | 2.05 | -5% |
-| Ambos marcan: Sí | 53% | 55% | 54% | 1.70 | -9% |
-| Goles más/menos: Más de 2.5 | 64% | 62% | 63% | 1.53 | -3% |
-| Goles más/menos: Más de 3.5 | 42% | 41% | 42% | 2.30 | -4% |
-| Goles más/menos: Más de 4.5 | 24% | 24% | 24% | 4.00 | -5% |
-| Goles más/menos: Menos de 2.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles más/menos: Menos de 3.5 | 58% | 59% | 58% | 1.62 | -6% |
-| Goles más/menos: Menos de 4.5 | 76% | 76% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 75% | 76% | 1.25 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 42% | 44% | 43% | 2.10 | -9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 18% | 21% | 19% | 4.50 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 25% | 24% | 3.75 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 58% | 56% | 57% | 1.67 | -5% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 82% | 79% | 81% | 1.18 | -5% |
-| Goles del local: Más de 1.5 | 70% | 66% | 68% | 1.40 | -4% |
-| Goles del local: Más de 2.5 | 44% | 42% | 43% | 2.20 | -5% |
-| Goles del local: Más de 3.5 | 23% | 23% | 23% | 4.00 | -7% |
-| Goles del local: Menos de 1.5 | 30% | 34% | 32% | 2.75 | -13% |
-| Goles del local: Menos de 2.5 | 56% | 58% | 57% | 1.62 | -8% |
-| Goles del local: Menos de 3.5 | 77% | 77% | 77% | 1.22 | -6% |
-| Goles del visitante: Más de 0.5 | 58% | 61% | 59% | 1.53 | -9% |
-| Goles del visitante: Más de 1.5 | 21% | 25% | 23% | 3.75 | -13% |
-| Goles del visitante: Menos de 0.5 | 42% | 39% | 41% | 2.38 | -3% |
-| Goles del visitante: Menos de 1.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Córners más/menos: Más de 9.5 | 50% | 51% | 51% | 1.80 | -8% |
-| Córners más/menos: Menos de 9.5 | 50% | 49% | 49% | 1.91 | -6% |
-| 1X2 descanso: X | 34% | 35% | 35% | 2.62 | -9% |
-| 1X2 descanso: 1 | 53% | 51% | 52% | 1.83 | -5% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

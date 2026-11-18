@@ -1,7 +1,7 @@
 # Sevilla – Real Betis
 **LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -187,44 +187,3 @@ _Sin bajas comunicadas por ahora._
 | Dani Ceballos | M | 12 | 494 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 19 | 1,6 | 1 | 0 |
 | Ángel Ortiz | D | 8 | 421 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 7 | 2 | 0,2 | 3 | 0 |
 | Junior Firpo | D | 4 | 306 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 7 | 1,8 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,39 · visitante 1,40 · córners esperados 8,9._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 38% | 42% | 40% | 2.20 | -12% |
-| 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 37% | 31% | 34% | 3.00 | +2% |
-| Doble oportunidad: X2 | 63% | 70% | 66% | 1.36 | -10% |
-| Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 62% | 57% | 60% | 1.67 | -1% |
-| Ambos marcan: No | 43% | 42% | 43% | 2.20 | -6% |
-| Ambos marcan: Sí | 57% | 58% | 57% | 1.62 | -8% |
-| Goles más/menos: Más de 1.5 | 77% | 78% | 77% | 1.22 | -6% |
-| Goles más/menos: Más de 2.5 | 53% | 55% | 54% | 1.73 | -7% |
-| Goles más/menos: Más de 3.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles más/menos: Menos de 1.5 | 23% | 22% | 23% | 4.33 | -2% |
-| Goles más/menos: Menos de 2.5 | 47% | 45% | 46% | 2.10 | -3% |
-| Goles más/menos: Menos de 3.5 | 69% | 66% | 68% | 1.44 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 71% | 71% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 29% | 29% | 3.25 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del local: Más de 0.5 | 75% | 72% | 74% | 1.30 | -4% |
-| Goles del local: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles del local: Menos de 0.5 | 25% | 28% | 26% | 3.40 | -11% |
-| Goles del local: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del visitante: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
-| Goles del visitante: Más de 1.5 | 41% | 46% | 44% | 2.00 | -13% |
-| Goles del visitante: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del visitante: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +0% |
-| Goles del visitante: Menos de 1.5 | 59% | 54% | 56% | 1.73 | -2% |
-| Goles del visitante: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Córners más/menos: Más de 8.5 | 49% | 53% | 51% | 1.80 | -8% |
-| Córners más/menos: Menos de 8.5 | 51% | 47% | 49% | 2.00 | -2% |
-| 1X2 descanso: 2 | 29% | 33% | 31% | 2.88 | -11% |
-| 1X2 descanso: X | 42% | 41% | 41% | 2.30 | -5% |
-| 1X2 descanso: 1 | 29% | 27% | 28% | 3.50 | -2% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

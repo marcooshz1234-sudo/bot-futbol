@@ -1,7 +1,7 @@
 # Bristol City – Wrexham
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · Ashton Gate Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -133,8 +133,3 @@ _Sin bajas comunicadas por ahora._
 | G. Thomason | M | 6 | 389 | 1 | 0 | 6 | 1,0 | 1 | 0,2 | 4 | 4 | 0,7 | 0 | 0 |
 | Nathan Broadhead | F | 4 | 296 | 0 | 0 | 5 | 1,2 | 1 | 0,2 | 3 | 3 | 0,8 | 1 | 0 |
 | Josh Windass | F | 6 | 260 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,01 · visitante 1,10 · córners esperados 9,5._
-
-_Sin cuotas de Bet365 todavía para comparar._

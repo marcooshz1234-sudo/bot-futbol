@@ -1,7 +1,7 @@
 # Sporting Gijon – Las Palmas
 **Segunda División** · Regular Season - 15 · 22/11/2026 16:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -186,46 +186,3 @@ _Sin bajas comunicadas por ahora._
 | Sandro Ramírez | F | 7 | 148 | 1 | 1 | 3 | 0,4 | 2 | 0,3 | 1 | 6 | 0,9 | 0 | 0 |
 | Adrián Rodríguez del Rosario |  | 4 | 139 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 | Adrián Rodríguez | D | 2 | 103 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,34 · visitante 1,01 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 28% | 24% | 26% | 3.80 | -1% |
-| 1X2: X | 28% | 27% | 27% | 3.40 | -8% |
-| 1X2: 1 | 44% | 49% | 47% | 1.85 | -14% |
-| Doble oportunidad: X2 | 56% | 52% | 54% | 1.80 | -3% |
-| Doble oportunidad: 12 | 72% | 72% | 72% | 1.28 | -7% |
-| Doble oportunidad: 1X | 72% | 76% | 74% | 1.22 | -10% |
-| Ambos marcan: No | 53% | 46% | 50% | 2.00 | -0% |
-| Ambos marcan: Sí | 47% | 54% | 50% | 1.73 | -13% |
-| Goles más/menos: Más de 1.5 | 68% | 75% | 71% | 1.25 | -11% |
-| Goles más/menos: Más de 2.5 | 41% | 51% | 46% | 1.85 | -14% |
-| Goles más/menos: Más de 3.5 | 21% | 29% | 25% | 3.25 | -19% |
-| Goles más/menos: Menos de 1.5 | 32% | 25% | 29% | 3.75 | +7% |
-| Goles más/menos: Menos de 2.5 | 59% | 49% | 54% | 1.95 | +5% |
-| Goles más/menos: Menos de 3.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 35% | 31% | 2.62 | -18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 65% | 69% | 1.44 | -1% |
-| Goles del local: Más de 0.5 | 74% | 79% | 76% | 1.18 | -10% |
-| Goles del local: Más de 1.5 | 39% | 50% | 44% | 1.83 | -19% |
-| Goles del local: Más de 2.5 | 15% | 25% | 20% | 3.75 | -25% |
-| Goles del local: Menos de 0.5 | 26% | 21% | 24% | 4.50 | +6% |
-| Goles del local: Menos de 1.5 | 61% | 50% | 56% | 1.83 | +2% |
-| Goles del local: Menos de 2.5 | 85% | 75% | 80% | 1.25 | -0% |
-| Goles del visitante: Más de 0.5 | 63% | 65% | 64% | 1.44 | -8% |
-| Goles del visitante: Más de 1.5 | 27% | 29% | 28% | 3.25 | -10% |
-| Goles del visitante: Menos de 0.5 | 37% | 35% | 36% | 2.62 | -6% |
-| Goles del visitante: Menos de 1.5 | 73% | 71% | 72% | 1.33 | -4% |
-| Córners más/menos: Más de 9.5 | 43% | 47% | 45% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 57% | 53% | 55% | 1.80 | -2% |
-| 1X2 descanso: 2 | 22% | 21% | 22% | 4.33 | -5% |
-| 1X2 descanso: X | 46% | 41% | 44% | 2.25 | -2% |
-| 1X2 descanso: 1 | 32% | 37% | 35% | 2.50 | -14% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

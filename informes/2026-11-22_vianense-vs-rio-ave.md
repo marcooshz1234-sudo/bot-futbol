@@ -1,7 +1,7 @@
 # Vianense – Rio Ave
 **Taça de Portugal** · Round of 32 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -107,6 +107,3 @@ _Sin precedentes recientes._
 | M. Sellouki | M | 7 | 228 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 3 | 6 | 0,9 | 0 | 0 |
 | S. Garcia | D | 3 | 194 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 1 | 0,3 | 1 | 0 |
 | D. Špikić | F | 6 | 183 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

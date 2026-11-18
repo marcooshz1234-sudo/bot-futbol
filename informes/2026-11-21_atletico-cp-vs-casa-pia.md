@@ -1,7 +1,7 @@
 # Atlético CP – Casa Pia
 **Taça de Portugal** · Round of 32 · 21/11/2026 12:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -107,6 +107,3 @@ _Sin precedentes recientes._
 | Abdu Conté | D | 3 | 233 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 5 | 1,7 | 0 | 0 |
 | Gabi Pereira | M | 6 | 213 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 4 | 1 | 0,2 | 1 | 0 |
 | K. Prieto | F | 5 | 196 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 7 | 1,4 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

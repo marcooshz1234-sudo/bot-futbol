@@ -1,7 +1,7 @@
 # Mafra – Arouca
 **Taça de Portugal** · Round of 32 · 21/11/2026 15:00 (hora España) · Estadio Municipal de Mafra
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -110,6 +110,3 @@ _Sin bajas comunicadas por ahora._
 | G. Rukavina | F | 4 | 105 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,5 | 1 | 0 |
 | Diogo Monteiro | D | 1 | 20 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 2 | 1 |
 | F. Mayulu | F | 2 | 13 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_No hay suficientes partidos de alguno de los dos equipos para calcularlas._

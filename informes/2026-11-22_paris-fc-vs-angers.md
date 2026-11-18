@@ -1,7 +1,7 @@
 # Paris FC – Angers
 **Ligue 1** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · Stade Jean Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -186,43 +186,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Maël Gernigon | D | 2 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 | U. Simbakoli | F | 8 | 105 | 0 | 0 | 9 | 1,1 | 2 | 0,2 | 5 | 3 | 0,4 | 1 | 0 |
 | Jacques Ekomié | D | 1 | 90 | 0 | 0 | 2 | 2,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,14 · visitante 0,72 · córners esperados 9,1._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 11% | 10% | 11% | 9.00 | -3% |
-| 1X2: X | 19% | 19% | 19% | 5.00 | -7% |
-| 1X2: 1 | 70% | 71% | 71% | 1.30 | -8% |
-| Doble oportunidad: X2 | 30% | 28% | 29% | 3.40 | -1% |
-| Doble oportunidad: 12 | 81% | 82% | 82% | 1.17 | -4% |
-| Doble oportunidad: 1X | 89% | 90% | 89% | 1.07 | -5% |
-| Ambos marcan: No | 55% | 52% | 53% | 1.80 | -4% |
-| Ambos marcan: Sí | 45% | 48% | 47% | 1.95 | -9% |
-| Goles más/menos: Más de 1.5 | 78% | 79% | 78% | 1.20 | -6% |
-| Goles más/menos: Más de 2.5 | 54% | 59% | 57% | 1.62 | -8% |
-| Goles más/menos: Más de 3.5 | 32% | 36% | 34% | 2.62 | -10% |
-| Goles más/menos: Más de 4.5 | 16% | 21% | 19% | 4.50 | -16% |
-| Goles más/menos: Menos de 1.5 | 22% | 21% | 22% | 4.50 | -3% |
-| Goles más/menos: Menos de 2.5 | 46% | 41% | 43% | 2.30 | -0% |
-| Goles más/menos: Menos de 3.5 | 68% | 64% | 66% | 1.50 | -1% |
-| Goles más/menos: Menos de 4.5 | 84% | 79% | 81% | 1.20 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 73% | 72% | 1.28 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 39% | 37% | 2.38 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 27% | 28% | 3.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 61% | 63% | 1.53 | -4% |
-| Goles del local: Más de 1.5 | 63% | 66% | 65% | 1.40 | -10% |
-| Goles del local: Más de 2.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles del local: Más de 3.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del local: Menos de 1.5 | 37% | 34% | 35% | 2.75 | -3% |
-| Goles del local: Menos de 2.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Goles del local: Menos de 3.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles del visitante: Más de 0.5 | 51% | 51% | 51% | 1.80 | -7% |
-| Goles del visitante: Menos de 0.5 | 49% | 49% | 49% | 1.91 | -7% |
-| Córners más/menos: Más de 9.5 | 42% | 44% | 43% | 2.10 | -10% |
-| Córners más/menos: Menos de 9.5 | 58% | 56% | 57% | 1.67 | -5% |
-| 1X2 descanso: X | 38% | 35% | 37% | 2.60 | -5% |
-| 1X2 descanso: 1 | 50% | 53% | 52% | 1.73 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

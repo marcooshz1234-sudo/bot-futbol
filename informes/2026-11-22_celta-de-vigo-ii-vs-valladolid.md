@@ -1,7 +1,7 @@
 # Celta de Vigo II – Valladolid
 **Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Municipal de Barreiro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -181,46 +181,3 @@ _Sin precedentes recientes._
 | K. de Rooij | F | 9 | 301 | 0 | 0 | 3 | 0,3 | 3 | 0,3 | 9 | 5 | 0,6 | 3 | 0 |
 | R. Duiven | F | 8 | 297 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 5 | 0,6 | 0 | 0 |
 | M. Lachuer | M | 8 | 250 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 8 | 4 | 0,5 | 4 | 1 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,42 · visitante 1,77 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 46% | 47% | 47% | 1.95 | -9% |
-| 1X2: X | 23% | 26% | 25% | 3.50 | -14% |
-| 1X2: 1 | 31% | 26% | 29% | 3.50 | +0% |
-| Doble oportunidad: X2 | 69% | 74% | 71% | 1.28 | -9% |
-| Doble oportunidad: 12 | 77% | 74% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 54% | 52% | 53% | 1.80 | -4% |
-| Ambos marcan: No | 37% | 42% | 40% | 2.20 | -13% |
-| Ambos marcan: Sí | 63% | 58% | 60% | 1.62 | -2% |
-| Goles más/menos: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles más/menos: Más de 2.5 | 62% | 55% | 58% | 1.73 | +1% |
-| Goles más/menos: Más de 3.5 | 40% | 34% | 37% | 2.75 | +1% |
-| Goles más/menos: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles más/menos: Menos de 2.5 | 38% | 45% | 42% | 2.08 | -13% |
-| Goles más/menos: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 71% | 73% | 1.33 | -3% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 38% | 39% | 2.50 | -3% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 29% | 27% | 3.25 | -12% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 62% | 61% | 1.50 | -8% |
-| Goles del local: Más de 0.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles del local: Más de 1.5 | 42% | 34% | 38% | 2.75 | +4% |
-| Goles del local: Menos de 0.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles del local: Menos de 1.5 | 58% | 66% | 62% | 1.40 | -13% |
-| Goles del visitante: Más de 0.5 | 83% | 79% | 81% | 1.18 | -4% |
-| Goles del visitante: Más de 1.5 | 53% | 50% | 51% | 1.83 | -6% |
-| Goles del visitante: Más de 2.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles del visitante: Menos de 0.5 | 17% | 21% | 19% | 4.50 | -15% |
-| Goles del visitante: Menos de 1.5 | 47% | 50% | 49% | 1.83 | -11% |
-| Goles del visitante: Menos de 2.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: 2 | 35% | 37% | 36% | 2.50 | -10% |
-| 1X2 descanso: X | 38% | 40% | 39% | 2.30 | -10% |
-| 1X2 descanso: 1 | 26% | 23% | 25% | 4.00 | -1% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

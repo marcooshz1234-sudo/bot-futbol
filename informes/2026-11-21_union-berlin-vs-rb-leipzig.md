@@ -1,7 +1,7 @@
 # Union Berlin – RB Leipzig
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -190,45 +190,3 @@ _Sin bajas comunicadas por ahora._
 | Ø. Nyland | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 1 | 0 |
 | Max Finkgräfe | D | 5 | 171 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 5 | 1,0 | 0 | 0 |
 | C. Baumgartner | M | 6 | 169 | 4 | 1 | 9 | 1,5 | 5 | 0,8 | 4 | 0 | 0,0 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 2,50 · córners esperados 9,3._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 69% | 60% | 65% | 1.55 | +0% |
-| 1X2: X | 17% | 21% | 19% | 4.33 | -17% |
-| 1X2: 1 | 14% | 19% | 16% | 5.00 | -19% |
-| Doble oportunidad: X2 | 86% | 81% | 84% | 1.17 | -2% |
-| Doble oportunidad: 12 | 83% | 79% | 81% | 1.20 | -3% |
-| Doble oportunidad: 1X | 31% | 40% | 35% | 2.38 | -16% |
-| Ambos marcan: No | 41% | 39% | 40% | 2.38 | -5% |
-| Ambos marcan: Sí | 59% | 61% | 60% | 1.53 | -8% |
-| Goles más/menos: Más de 2.5 | 69% | 66% | 67% | 1.44 | -3% |
-| Goles más/menos: Más de 3.5 | 47% | 45% | 46% | 2.10 | -3% |
-| Goles más/menos: Más de 4.5 | 28% | 27% | 28% | 3.50 | -3% |
-| Goles más/menos: Menos de 2.5 | 31% | 34% | 33% | 2.75 | -10% |
-| Goles más/menos: Menos de 3.5 | 53% | 55% | 54% | 1.73 | -7% |
-| Goles más/menos: Menos de 4.5 | 72% | 73% | 72% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 45% | 44% | 45% | 2.10 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 55% | 56% | 55% | 1.67 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 0.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles del local: Más de 1.5 | 28% | 34% | 31% | 2.75 | -15% |
-| Goles del local: Menos de 0.5 | 35% | 31% | 33% | 3.00 | -0% |
-| Goles del local: Menos de 1.5 | 72% | 66% | 69% | 1.40 | -3% |
-| Goles del visitante: Más de 1.5 | 71% | 65% | 68% | 1.44 | -2% |
-| Goles del visitante: Más de 2.5 | 46% | 39% | 42% | 2.38 | +1% |
-| Goles del visitante: Más de 3.5 | 24% | 21% | 23% | 4.50 | +1% |
-| Goles del visitante: Menos de 1.5 | 29% | 35% | 32% | 2.62 | -16% |
-| Goles del visitante: Menos de 2.5 | 54% | 61% | 58% | 1.53 | -12% |
-| Goles del visitante: Menos de 3.5 | 76% | 79% | 77% | 1.18 | -9% |
-| Córners más/menos: Más de 10.5 | 35% | 46% | 41% | 2.00 | -19% |
-| Córners más/menos: Menos de 10.5 | 65% | 54% | 59% | 1.73 | +3% |
-| 1X2 descanso: 2 | 51% | 46% | 49% | 2.00 | -2% |
-| 1X2 descanso: X | 33% | 35% | 34% | 2.62 | -10% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

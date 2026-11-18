@@ -1,7 +1,7 @@
 # Arsenal – Borussia Dortmund
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -178,43 +178,3 @@ _Sin bajas comunicadas por ahora._
 | S. Inacio | F | 4 | 143 | 2 | 0 | 5 | 1,2 | 2 | 0,5 | 4 | 2 | 0,5 | 0 | 1 |
 | Filippo Mané | D | 3 | 138 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 0 | 0 |
 | Mathis Albert | F | 2 | 110 | 0 | 0 | 3 | 1,5 | 3 | 1,5 | 2 | 3 | 1,5 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,51 · visitante 0,81 · córners esperados 9,3._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 20% | 12% | 16% | 7.50 | +22% |
-| 1X2: X | 26% | 19% | 22% | 5.00 | +12% |
-| 1X2: 1 | 54% | 69% | 61% | 1.36 | -17% |
-| Doble oportunidad: X2 ✅ | 46% | 32% | 39% | 3.00 | +17% |
-| Doble oportunidad: 12 | 74% | 82% | 78% | 1.17 | -9% |
-| Doble oportunidad: 1X | 80% | 87% | 83% | 1.10 | -8% |
-| Ambos marcan: No | 57% | 52% | 54% | 1.80 | -2% |
-| Ambos marcan: Sí | 43% | 48% | 46% | 1.95 | -11% |
-| Goles más/menos: Más de 1.5 | 67% | 79% | 73% | 1.20 | -12% |
-| Goles más/menos: Más de 2.5 | 41% | 57% | 49% | 1.67 | -18% |
-| Goles más/menos: Más de 3.5 | 21% | 36% | 28% | 2.62 | -25% |
-| Goles más/menos: Más de 4.5 | 9% | 21% | 15% | 4.50 | -33% |
-| Goles más/menos: Menos de 1.5 | 33% | 21% | 27% | 4.50 | +21% |
-| Goles más/menos: Menos de 2.5 | 59% | 43% | 51% | 2.20 | +12% |
-| Goles más/menos: Menos de 3.5 | 79% | 64% | 72% | 1.50 | +7% |
-| Goles más/menos: Menos de 4.5 | 91% | 79% | 85% | 1.20 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 73% | 68% | 1.28 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 39% | 33% | 2.38 | -22% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 27% | 32% | 3.50 | +11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 61% | 67% | 1.53 | +3% |
-| Goles del local: Más de 1.5 | 45% | 65% | 55% | 1.44 | -21% |
-| Goles del local: Más de 2.5 | 19% | 39% | 29% | 2.38 | -30% |
-| Goles del local: Más de 3.5 | 7% | 21% | 14% | 4.50 | -38% |
-| Goles del local: Menos de 1.5 ✅ | 55% | 35% | 45% | 2.62 | +19% |
-| Goles del local: Menos de 2.5 | 81% | 61% | 71% | 1.53 | +8% |
-| Goles del local: Menos de 3.5 | 93% | 79% | 86% | 1.18 | +2% |
-| Goles del visitante: Más de 0.5 | 56% | 54% | 55% | 1.73 | -6% |
-| Goles del visitante: Más de 1.5 | 20% | 21% | 20% | 4.50 | -9% |
-| Goles del visitante: Menos de 0.5 | 44% | 46% | 45% | 2.00 | -9% |
-| Goles del visitante: Menos de 1.5 | 80% | 79% | 80% | 1.18 | -6% |
-| 1X2 descanso: X | 45% | 37% | 41% | 2.50 | +3% |
-| 1X2 descanso: 1 | 37% | 51% | 44% | 1.83 | -19% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

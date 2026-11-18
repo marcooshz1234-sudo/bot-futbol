@@ -1,7 +1,7 @@
 # Utrecht – Cambuur
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -190,46 +190,3 @@ _Sin bajas comunicadas por ahora._
 | W. Kooistra | F | 6 | 197 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 5 | 2 | 0,3 | 1 | 0 |
 | R. Mulders | D | 6 | 188 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 6 | 1,0 | 1 | 0 |
 | Ethan Apkakou | M | 6 | 164 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,76 · visitante 1,79 · córners esperados 9,6._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 40% | 28% | 34% | 3.30 | +11% |
-| 1X2: X | 22% | 24% | 23% | 3.80 | -12% |
-| 1X2: 1 | 38% | 48% | 43% | 1.91 | -17% |
-| Doble oportunidad: X2 | 62% | 52% | 57% | 1.83 | +4% |
-| Doble oportunidad: 12 | 78% | 76% | 77% | 1.25 | -4% |
-| Doble oportunidad: 1X | 60% | 72% | 66% | 1.33 | -12% |
-| Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
-| Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 69% | 65% | 67% | 1.44 | -3% |
-| Goles más/menos: Más de 3.5 | 47% | 46% | 47% | 2.00 | -6% |
-| Goles más/menos: Más de 4.5 | 28% | 28% | 28% | 3.40 | -5% |
-| Goles más/menos: Menos de 2.5 | 31% | 35% | 33% | 2.70 | -11% |
-| Goles más/menos: Menos de 3.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Goles más/menos: Menos de 4.5 | 72% | 72% | 72% | 1.30 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 46% | 44% | 45% | 2.10 | -6% |
-| Goles 1ª parte más/menos: Más de 2.5 | 20% | 21% | 20% | 4.50 | -8% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 54% | 56% | 55% | 1.67 | -8% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 80% | 79% | 80% | 1.18 | -6% |
-| Goles del local: Más de 1.5 | 53% | 58% | 55% | 1.62 | -11% |
-| Goles del local: Más de 2.5 | 26% | 31% | 29% | 3.00 | -14% |
-| Goles del local: Menos de 1.5 | 47% | 42% | 45% | 2.20 | -1% |
-| Goles del local: Menos de 2.5 | 74% | 69% | 71% | 1.36 | -3% |
-| Goles del visitante: Más de 0.5 | 83% | 75% | 79% | 1.25 | -1% |
-| Goles del visitante: Más de 1.5 | 53% | 42% | 48% | 2.20 | +5% |
-| Goles del visitante: Menos de 0.5 | 17% | 25% | 21% | 3.75 | -22% |
-| Goles del visitante: Menos de 1.5 | 47% | 58% | 52% | 1.62 | -16% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 32% | 25% | 29% | 3.60 | +4% |
-| 1X2 descanso: X | 36% | 37% | 36% | 2.50 | -9% |
-| 1X2 descanso: 1 | 32% | 38% | 35% | 2.40 | -16% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Napoli – Torino
 **Serie A** · Regular Season - 12 · 21/11/2026 20:45 (hora España) · Stadio Diego Armando Maradona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -189,41 +189,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | C. Casadei | M | 4 | 185 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 5 | 3 | 0,8 | 0 | 0 |
 | N. Patterson | D | 5 | 178 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,4 | 1 | 0 |
 | Z. Aboukhlal | F | 8 | 154 | 0 | 0 | 7 | 0,9 | 3 | 0,4 | 4 | 5 | 0,6 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,73 · visitante 0,87 · córners esperados 9,5._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 19% | 14% | 16% | 6.50 | +7% |
-| 1X2: X | 24% | 22% | 23% | 4.20 | -4% |
-| 1X2: 1 | 58% | 64% | 61% | 1.45 | -12% |
-| Doble oportunidad: X2 | 42% | 36% | 39% | 2.62 | +3% |
-| Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 81% | 86% | 84% | 1.11 | -7% |
-| Ambos marcan: No | 52% | 48% | 50% | 1.95 | -2% |
-| Ambos marcan: Sí | 48% | 52% | 50% | 1.80 | -10% |
-| Goles más/menos: Más de 1.5 | 73% | 78% | 76% | 1.22 | -8% |
-| Goles más/menos: Más de 2.5 | 48% | 57% | 52% | 1.67 | -12% |
-| Goles más/menos: Más de 3.5 | 26% | 34% | 30% | 2.75 | -17% |
-| Goles más/menos: Menos de 1.5 | 27% | 22% | 24% | 4.33 | +6% |
-| Goles más/menos: Menos de 2.5 | 52% | 43% | 48% | 2.20 | +5% |
-| Goles más/menos: Menos de 3.5 | 74% | 66% | 70% | 1.44 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 31% | 38% | 34% | 2.50 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +2% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 69% | 62% | 66% | 1.50 | -1% |
-| Goles del local: Más de 1.5 | 52% | 61% | 56% | 1.53 | -14% |
-| Goles del local: Más de 2.5 | 25% | 35% | 30% | 2.62 | -21% |
-| Goles del local: Menos de 1.5 | 48% | 39% | 44% | 2.38 | +4% |
-| Goles del local: Menos de 2.5 | 75% | 65% | 70% | 1.44 | +0% |
-| Goles del visitante: Más de 0.5 | 58% | 58% | 58% | 1.62 | -6% |
-| Goles del visitante: Más de 1.5 | 22% | 22% | 22% | 4.33 | -6% |
-| Goles del visitante: Menos de 0.5 | 42% | 42% | 42% | 2.20 | -7% |
-| Goles del visitante: Menos de 1.5 | 78% | 78% | 78% | 1.20 | -6% |
-| Córners más/menos: Más de 9.5 | 45% | 46% | 46% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 55% | 54% | 54% | 1.73 | -6% |
-| 1X2 descanso: X | 42% | 37% | 40% | 2.50 | -0% |
-| 1X2 descanso: 1 | 41% | 48% | 45% | 1.95 | -13% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

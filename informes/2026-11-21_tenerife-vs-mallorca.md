@@ -1,7 +1,7 @@
 # Tenerife – Mallorca
 **Segunda División** · Regular Season - 15 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -184,44 +184,3 @@ _Sin bajas comunicadas por ahora._
 | Antoniu Roca | M | 6 | 237 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 3 | 5 | 0,8 | 1 | 0 |
 | Arnau Puigmal | M | 6 | 222 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
 | A. Buksa | F | 9 | 211 | 2 | 0 | 3 | 0,3 | 2 | 0,2 | 2 | 3 | 0,3 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,96 · visitante 1,14 · córners esperados 9,0._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 40% | 40% | 40% | 2.30 | -8% |
-| 1X2: X | 30% | 30% | 30% | 3.10 | -8% |
-| 1X2: 1 | 30% | 30% | 30% | 3.10 | -6% |
-| Doble oportunidad: X2 | 70% | 70% | 70% | 1.36 | -5% |
-| Doble oportunidad: 12 | 70% | 70% | 70% | 1.36 | -5% |
-| Doble oportunidad: 1X | 60% | 60% | 60% | 1.57 | -5% |
-| Ambos marcan: No | 58% | 50% | 54% | 1.83 | -1% |
-| Ambos marcan: Sí | 42% | 50% | 46% | 1.83 | -16% |
-| Goles más/menos: Más de 1.5 | 62% | 69% | 66% | 1.36 | -11% |
-| Goles más/menos: Más de 2.5 | 35% | 44% | 39% | 2.15 | -15% |
-| Goles más/menos: Más de 3.5 | 16% | 25% | 21% | 3.75 | -23% |
-| Goles más/menos: Menos de 1.5 | 38% | 31% | 34% | 3.00 | +3% |
-| Goles más/menos: Menos de 2.5 | 65% | 56% | 61% | 1.67 | +1% |
-| Goles más/menos: Menos de 3.5 | 84% | 75% | 79% | 1.25 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 60% | 65% | 62% | 1.44 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 23% | 29% | 26% | 3.25 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 40% | 35% | 38% | 2.62 | -1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 77% | 71% | 74% | 1.33 | -2% |
-| Goles del local: Más de 0.5 | 62% | 66% | 64% | 1.40 | -10% |
-| Goles del local: Más de 1.5 | 25% | 31% | 28% | 3.00 | -16% |
-| Goles del local: Menos de 0.5 | 38% | 34% | 36% | 2.75 | -1% |
-| Goles del local: Menos de 1.5 | 75% | 69% | 72% | 1.36 | -2% |
-| Goles del visitante: Más de 0.5 | 68% | 72% | 70% | 1.30 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 38% | 35% | 2.50 | -14% |
-| Goles del visitante: Menos de 0.5 | 32% | 28% | 30% | 3.40 | +1% |
-| Goles del visitante: Menos de 1.5 | 68% | 62% | 65% | 1.50 | -2% |
-| Córners más/menos: Más de 9.5 | 40% | 46% | 43% | 2.00 | -13% |
-| Córners más/menos: Menos de 9.5 | 60% | 54% | 57% | 1.73 | -2% |
-| 1X2 descanso: 2 | 28% | 31% | 30% | 3.00 | -11% |
-| 1X2 descanso: X | 49% | 44% | 47% | 2.10 | -2% |
-| 1X2 descanso: 1 | 23% | 25% | 24% | 3.75 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

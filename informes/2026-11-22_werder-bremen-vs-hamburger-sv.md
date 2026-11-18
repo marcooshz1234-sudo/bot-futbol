@@ -1,7 +1,7 @@
 # Werder Bremen – Hamburger SV
 **Bundesliga** · Regular Season - 10 · 22/11/2026 17:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -188,42 +188,3 @@ _Sin bajas comunicadas por ahora._
 | Y. Poulsen | F | 8 | 288 | 2 | 0 | 8 | 1,0 | 3 | 0,4 | 5 | 6 | 0,8 | 0 | 0 |
 | Otto Emerson Stange | F | 9 | 246 | 0 | 0 | 5 | 0,6 | 3 | 0,3 | 12 | 12 | 1,3 | 2 | 0 |
 | B. Nadir | M | 5 | 238 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 0 | 4 | 0,8 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,09 · visitante 0,97 · córners esperados 9,0._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 16% | 21% | 19% | 4.50 | -17% |
-| 1X2: X | 20% | 23% | 22% | 4.00 | -13% |
-| 1X2: 1 | 63% | 56% | 60% | 1.65 | -1% |
-| Doble oportunidad: X2 | 37% | 43% | 40% | 2.20 | -13% |
-| Doble oportunidad: 12 | 80% | 77% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 84% | 80% | 82% | 1.18 | -4% |
-| Ambos marcan: No | 46% | 41% | 43% | 2.25 | -2% |
-| Ambos marcan: Sí | 54% | 59% | 57% | 1.57 | -11% |
-| Goles más/menos: Más de 2.5 | 59% | 62% | 61% | 1.53 | -7% |
-| Goles más/menos: Más de 3.5 | 37% | 41% | 39% | 2.30 | -10% |
-| Goles más/menos: Más de 4.5 | 19% | 24% | 22% | 4.00 | -13% |
-| Goles más/menos: Menos de 2.5 | 41% | 38% | 39% | 2.50 | -1% |
-| Goles más/menos: Menos de 3.5 | 63% | 59% | 61% | 1.62 | -1% |
-| Goles más/menos: Menos de 4.5 | 81% | 76% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 74% | 75% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 26% | 25% | 26% | 3.75 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 1.5 | 62% | 61% | 61% | 1.53 | -6% |
-| Goles del local: Más de 2.5 | 35% | 35% | 35% | 2.62 | -8% |
-| Goles del local: Menos de 1.5 | 38% | 39% | 39% | 2.38 | -8% |
-| Goles del local: Menos de 2.5 | 65% | 65% | 65% | 1.44 | -7% |
-| Goles del visitante: Más de 0.5 | 62% | 69% | 65% | 1.36 | -11% |
-| Goles del visitante: Más de 1.5 | 25% | 34% | 29% | 2.75 | -19% |
-| Goles del visitante: Menos de 0.5 | 38% | 31% | 35% | 3.00 | +4% |
-| Goles del visitante: Menos de 1.5 | 75% | 66% | 71% | 1.40 | -1% |
-| Córners más/menos: Más de 9.5 | 41% | 50% | 46% | 1.90 | -13% |
-| Córners más/menos: Menos de 9.5 | 59% | 50% | 54% | 1.90 | +3% |
-| 1X2 descanso: 2 | 16% | 21% | 19% | 4.50 | -17% |
-| 1X2 descanso: X | 38% | 37% | 37% | 2.50 | -7% |
-| 1X2 descanso: 1 | 46% | 42% | 44% | 2.20 | -3% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

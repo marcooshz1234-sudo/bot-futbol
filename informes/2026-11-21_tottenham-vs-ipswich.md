@@ -1,7 +1,7 @@
 # Tottenham – Ipswich
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -176,39 +176,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | C. Akpom | F | 10 | 238 | 2 | 1 | 5 | 0,5 | 4 | 0,4 | 2 | 9 | 0,9 | 0 | 0 |
 | Z. Flemming | F | 9 | 231 | 2 | 0 | 9 | 1,0 | 5 | 0,6 | 10 | 4 | 0,4 | 2 | 0 |
 | K. McAteer | M | 5 | 199 | 0 | 0 | 4 | 0,8 | 3 | 0,6 | 6 | 4 | 0,8 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,71 · visitante 1,22 · córners esperados 9,8._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 27% | 16% | 21% | 6.00 | +29% |
-| 1X2: X | 24% | 22% | 23% | 4.20 | -3% |
-| 1X2: 1 | 49% | 62% | 55% | 1.50 | -17% |
-| Doble oportunidad: X2 ✅ | 51% | 38% | 45% | 2.50 | +11% |
-| Doble oportunidad: 12 | 76% | 78% | 77% | 1.22 | -6% |
-| Doble oportunidad: 1X | 73% | 85% | 79% | 1.12 | -12% |
-| Ambos marcan: No | 42% | 44% | 43% | 2.10 | -9% |
-| Ambos marcan: Sí | 58% | 56% | 57% | 1.67 | -5% |
-| Goles más/menos: Más de 2.5 | 56% | 60% | 58% | 1.57 | -9% |
-| Goles más/menos: Más de 3.5 | 34% | 38% | 36% | 2.50 | -10% |
-| Goles más/menos: Más de 4.5 | 17% | 22% | 20% | 4.33 | -15% |
-| Goles más/menos: Menos de 2.5 | 44% | 40% | 42% | 2.38 | -0% |
-| Goles más/menos: Menos de 3.5 | 66% | 62% | 64% | 1.53 | -2% |
-| Goles más/menos: Menos de 4.5 | 83% | 78% | 80% | 1.22 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Goles del local: Más de 1.5 | 51% | 62% | 57% | 1.50 | -15% |
-| Goles del local: Más de 2.5 | 24% | 35% | 30% | 2.62 | -21% |
-| Goles del local: Menos de 1.5 ✅ | 49% | 38% | 43% | 2.50 | +8% |
-| Goles del local: Menos de 2.5 | 76% | 65% | 70% | 1.44 | +1% |
-| Goles del visitante: Más de 0.5 | 71% | 62% | 67% | 1.50 | -0% |
-| Goles del visitante: Más de 1.5 | 34% | 27% | 31% | 3.50 | +7% |
-| Goles del visitante: Menos de 0.5 | 29% | 38% | 33% | 2.50 | -16% |
-| Goles del visitante: Menos de 1.5 | 66% | 73% | 69% | 1.28 | -11% |
-| 1X2 descanso: X | 40% | 37% | 39% | 2.50 | -4% |
-| 1X2 descanso: 1 | 36% | 46% | 41% | 2.00 | -17% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

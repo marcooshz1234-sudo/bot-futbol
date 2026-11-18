@@ -1,7 +1,7 @@
 # Wolves – Charlton
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -186,45 +186,3 @@ _Sin bajas comunicadas por ahora._
 | W. Mannion | G | 4 | 365 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | K. Ramsay | D | 5 | 352 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 4 | 3 | 0,6 | 0 | 0 |
 | H. Knibbs | M | 8 | 350 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 10 | 3 | 0,4 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,91 · visitante 0,59 · córners esperados 9,8._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 11% | 11% | 11% | 8.00 | -12% |
-| 1X2: X | 20% | 18% | 19% | 5.00 | -3% |
-| 1X2: 1 | 69% | 70% | 70% | 1.30 | -9% |
-| Doble oportunidad: X2 | 31% | 28% | 30% | 3.40 | +1% |
-| Doble oportunidad: 12 | 80% | 82% | 81% | 1.17 | -5% |
-| Doble oportunidad: 1X | 89% | 89% | 89% | 1.08 | -4% |
-| Ambos marcan: No | 62% | 50% | 56% | 1.83 | +2% |
-| Ambos marcan: Sí | 38% | 50% | 44% | 1.83 | -19% |
-| Goles más/menos: Más de 2.5 | 46% | 60% | 53% | 1.57 | -17% |
-| Goles más/menos: Más de 3.5 | 24% | 40% | 32% | 2.38 | -24% |
-| Goles más/menos: Más de 4.5 | 11% | 22% | 16% | 4.33 | -29% |
-| Goles más/menos: Menos de 2.5 | 54% | 40% | 47% | 2.38 | +12% |
-| Goles más/menos: Menos de 3.5 | 76% | 60% | 68% | 1.57 | +7% |
-| Goles más/menos: Menos de 4.5 | 89% | 78% | 84% | 1.22 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 41% | 35% | 2.25 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 27% | 30% | 3.50 | +6% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 59% | 65% | 1.57 | +1% |
-| Goles del local: Más de 1.5 | 57% | 66% | 62% | 1.40 | -14% |
-| Goles del local: Más de 2.5 | 30% | 42% | 36% | 2.20 | -20% |
-| Goles del local: Más de 3.5 | 13% | 23% | 18% | 4.00 | -28% |
-| Goles del local: Menos de 1.5 | 43% | 34% | 38% | 2.75 | +5% |
-| Goles del local: Menos de 2.5 | 70% | 58% | 64% | 1.62 | +3% |
-| Goles del local: Menos de 3.5 | 87% | 77% | 82% | 1.22 | -0% |
-| Goles del visitante: Más de 0.5 | 45% | 54% | 49% | 1.73 | -15% |
-| Goles del visitante: Más de 1.5 | 12% | 21% | 16% | 4.50 | -26% |
-| Goles del visitante: Menos de 0.5 | 55% | 46% | 51% | 2.00 | +2% |
-| Goles del visitante: Menos de 1.5 | 88% | 79% | 84% | 1.18 | -1% |
-| Córners más/menos: Más de 10.5 | 39% | 49% | 44% | 1.92 | -15% |
-| Córners más/menos: Menos de 10.5 | 61% | 51% | 56% | 1.88 | +5% |
-| 1X2 descanso: X | 41% | 35% | 38% | 2.62 | -0% |
-| 1X2 descanso: 1 | 48% | 53% | 50% | 1.73 | -13% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Bodo/Glimt – Lask Linz
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -177,46 +177,3 @@ _Sin precedentes recientes._
 | Daniel Elfadli | M | 2 | 46 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
 | T. Schützenauer | G | 1 | 38 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
 | Miguel Freckleton | D | 1 | 21 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,70 · visitante 1,47 · córners esperados 9,8._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 19% | 18% | 18% | 5.25 | -4% |
-| 1X2: X | 17% | 20% | 19% | 4.50 | -15% |
-| 1X2: 1 | 64% | 62% | 63% | 1.48 | -7% |
-| Doble oportunidad: X2 | 36% | 37% | 37% | 2.62 | -4% |
-| Doble oportunidad: 12 | 83% | 81% | 82% | 1.18 | -3% |
-| Doble oportunidad: 1X | 81% | 82% | 81% | 1.17 | -5% |
-| Ambos marcan: No | 28% | 31% | 30% | 3.00 | -11% |
-| Ambos marcan: Sí | 72% | 69% | 70% | 1.36 | -4% |
-| Goles más/menos: Más de 2.5 | 79% | 75% | 77% | 1.28 | -2% |
-| Goles más/menos: Más de 3.5 | 60% | 55% | 57% | 1.73 | -1% |
-| Goles más/menos: Más de 4.5 | 41% | 36% | 38% | 2.62 | +1% |
-| Goles más/menos: Más de 5.5 | 24% | 22% | 23% | 4.33 | +0% |
-| Goles más/menos: Menos de 2.5 | 21% | 25% | 23% | 3.75 | -12% |
-| Goles más/menos: Menos de 3.5 | 40% | 45% | 43% | 2.10 | -11% |
-| Goles más/menos: Menos de 4.5 | 59% | 64% | 62% | 1.50 | -8% |
-| Goles más/menos: Menos de 5.5 | 76% | 78% | 77% | 1.22 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 54% | 51% | 53% | 1.80 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 27% | 27% | 27% | 3.50 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 46% | 49% | 47% | 1.91 | -10% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 73% | 73% | 73% | 1.28 | -7% |
-| Goles del local: Más de 1.5 | 75% | 72% | 74% | 1.30 | -4% |
-| Goles del local: Más de 2.5 | 51% | 46% | 49% | 2.00 | -3% |
-| Goles del local: Más de 3.5 | 29% | 27% | 28% | 3.50 | -3% |
-| Goles del local: Menos de 1.5 | 25% | 28% | 26% | 3.40 | -11% |
-| Goles del local: Menos de 2.5 | 49% | 54% | 51% | 1.73 | -11% |
-| Goles del local: Menos de 3.5 | 71% | 73% | 72% | 1.28 | -7% |
-| Goles del visitante: Más de 0.5 | 77% | 73% | 75% | 1.28 | -4% |
-| Goles del visitante: Más de 1.5 | 43% | 41% | 42% | 2.25 | -5% |
-| Goles del visitante: Menos de 0.5 | 23% | 27% | 25% | 3.50 | -13% |
-| Goles del visitante: Menos de 1.5 | 57% | 59% | 58% | 1.57 | -9% |
-| 1X2 descanso: 2 | 20% | 21% | 20% | 4.50 | -9% |
-| 1X2 descanso: X | 31% | 32% | 32% | 2.88 | -9% |
-| 1X2 descanso: 1 | 49% | 47% | 48% | 1.95 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

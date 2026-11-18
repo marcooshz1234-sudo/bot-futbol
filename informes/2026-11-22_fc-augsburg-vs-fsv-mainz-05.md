@@ -1,7 +1,7 @@
 # FC Augsburg – FSV Mainz 05
 **Bundesliga** · Regular Season - 10 · 22/11/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -190,46 +190,3 @@ _Sin bajas comunicadas por ahora._
 | E. Martel | M | 7 | 143 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 4 | 3 | 0,4 | 0 | 0 |
 | B. Hollerbach | F | 6 | 89 | 2 | 1 | 5 | 0,8 | 2 | 0,3 | 2 | 1 | 0,2 | 0 | 0 |
 | Otto Ruoppi | M | 4 | 61 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,31 · visitante 2,23 · córners esperados 9,8._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 39% | 40% | 39% | 2.35 | -8% |
-| 1X2: X | 19% | 25% | 22% | 3.80 | -17% |
-| 1X2: 1 | 42% | 36% | 39% | 2.62 | +2% |
-| Doble oportunidad: X2 | 58% | 65% | 62% | 1.44 | -11% |
-| Doble oportunidad: 12 | 81% | 75% | 78% | 1.25 | -3% |
-| Doble oportunidad: 1X | 61% | 60% | 61% | 1.57 | -5% |
-| Ambos marcan: No | 20% | 34% | 27% | 2.75 | -27% |
-| Ambos marcan: Sí | 80% | 66% | 73% | 1.40 | +3% |
-| Goles más/menos: Más de 2.5 | 83% | 68% | 76% | 1.40 | +6% |
-| Goles más/menos: Más de 3.5 | 66% | 47% | 57% | 2.00 | +14% |
-| Goles más/menos: Más de 4.5 ✅ | 48% | 28% | 38% | 3.40 | +29% |
-| Goles más/menos: Menos de 2.5 | 17% | 32% | 24% | 3.00 | -27% |
-| Goles más/menos: Menos de 3.5 | 34% | 53% | 43% | 1.80 | -22% |
-| Goles más/menos: Menos de 4.5 | 52% | 72% | 62% | 1.33 | -17% |
-| Goles 1ª parte más/menos: Más de 0.5 | 86% | 77% | 81% | 1.22 | -1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 59% | 44% | 51% | 2.10 | +8% |
-| Goles 1ª parte más/menos: Más de 2.5 | 32% | 21% | 26% | 4.50 | +18% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 14% | 23% | 19% | 4.00 | -25% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 41% | 56% | 49% | 1.67 | -19% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 68% | 79% | 74% | 1.18 | -13% |
-| Goles del local: Más de 0.5 | 90% | 79% | 85% | 1.18 | -0% |
-| Goles del local: Más de 1.5 | 67% | 50% | 59% | 1.83 | +7% |
-| Goles del local: Más de 2.5 ✅ | 41% | 25% | 33% | 3.75 | +23% |
-| Goles del local: Menos de 0.5 | 10% | 21% | 15% | 4.50 | -31% |
-| Goles del local: Menos de 1.5 | 33% | 50% | 41% | 1.83 | -24% |
-| Goles del local: Menos de 2.5 | 59% | 75% | 67% | 1.25 | -16% |
-| Goles del visitante: Más de 1.5 | 65% | 51% | 58% | 1.80 | +5% |
-| Goles del visitante: Más de 2.5 | 38% | 27% | 33% | 3.50 | +14% |
-| Goles del visitante: Menos de 1.5 | 35% | 49% | 42% | 1.91 | -20% |
-| Goles del visitante: Menos de 2.5 | 62% | 73% | 67% | 1.28 | -14% |
-| Córners más/menos: Más de 9.5 | 48% | 54% | 51% | 1.73 | -12% |
-| Córners más/menos: Menos de 9.5 | 52% | 46% | 49% | 2.00 | -1% |
-| 1X2 descanso: 2 | 33% | 33% | 33% | 2.75 | -8% |
-| 1X2 descanso: X | 31% | 37% | 34% | 2.50 | -15% |
-| 1X2 descanso: 1 | 35% | 30% | 33% | 3.10 | +1% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

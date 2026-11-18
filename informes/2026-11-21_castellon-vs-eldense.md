@@ -1,7 +1,7 @@
 # Castellón – Eldense
 **Segunda División** · Regular Season - 15 · 21/11/2026 18:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -185,45 +185,3 @@ _Sin bajas comunicadas por ahora._
 | A. Ibarrondo | F | 7 | 355 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 3 | 2 | 0,3 | 1 | 0 |
 | Roberto López | M | 8 | 339 | 1 | 0 | 18 | 2,2 | 7 | 0,9 | 3 | 6 | 0,8 | 1 | 0 |
 | Iker Recio | D | 7 | 283 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 2 | 0,3 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,75 · visitante 0,60 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 12% | 13% | 13% | 7.00 | -11% |
-| 1X2: X | 22% | 21% | 22% | 4.50 | -3% |
-| 1X2: 1 | 65% | 66% | 66% | 1.40 | -8% |
-| Doble oportunidad: X2 | 35% | 34% | 34% | 2.75 | -5% |
-| Doble oportunidad: 12 | 78% | 80% | 79% | 1.18 | -7% |
-| Doble oportunidad: 1X | 88% | 86% | 87% | 1.10 | -5% |
-| Ambos marcan: No | 63% | 49% | 56% | 1.91 | +6% |
-| Ambos marcan: Sí | 37% | 51% | 44% | 1.80 | -20% |
-| Goles más/menos: Más de 2.5 | 42% | 60% | 51% | 1.57 | -20% |
-| Goles más/menos: Más de 3.5 | 21% | 39% | 30% | 2.38 | -28% |
-| Goles más/menos: Más de 4.5 | 9% | 22% | 15% | 4.33 | -34% |
-| Goles más/menos: Menos de 2.5 | 58% | 40% | 49% | 2.35 | +16% |
-| Goles más/menos: Menos de 3.5 | 79% | 61% | 70% | 1.53 | +7% |
-| Goles más/menos: Menos de 4.5 | 91% | 78% | 85% | 1.20 | +2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 73% | 69% | 1.28 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 41% | 34% | 2.25 | -23% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 27% | 31% | 3.50 | +10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 59% | 66% | 1.57 | +3% |
-| Goles del local: Más de 1.5 | 52% | 65% | 58% | 1.44 | -16% |
-| Goles del local: Más de 2.5 | 26% | 41% | 33% | 2.25 | -25% |
-| Goles del local: Más de 3.5 | 10% | 21% | 15% | 4.50 | -31% |
-| Goles del local: Menos de 1.5 | 48% | 35% | 42% | 2.62 | +9% |
-| Goles del local: Menos de 2.5 | 74% | 59% | 67% | 1.57 | +5% |
-| Goles del local: Menos de 3.5 | 90% | 79% | 85% | 1.18 | -0% |
-| Goles del visitante: Más de 0.5 | 45% | 58% | 51% | 1.62 | -17% |
-| Goles del visitante: Más de 1.5 | 12% | 23% | 18% | 4.00 | -29% |
-| Goles del visitante: Menos de 0.5 | 55% | 42% | 49% | 2.20 | +7% |
-| Goles del visitante: Menos de 1.5 | 88% | 77% | 82% | 1.22 | +0% |
-| Córners más/menos: Más de 10.5 | 35% | 46% | 41% | 2.00 | -18% |
-| Córners más/menos: Menos de 10.5 | 65% | 54% | 59% | 1.73 | +2% |
-| 1X2 descanso: X | 44% | 35% | 39% | 2.60 | +3% |
-| 1X2 descanso: 1 | 45% | 50% | 48% | 1.83 | -13% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

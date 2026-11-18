@@ -1,7 +1,7 @@
 # Slovan Bratislava – Real Betis
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -175,45 +175,3 @@ _Sin precedentes recientes._
 | Dani Ceballos | M | 12 | 494 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 19 | 1,6 | 1 | 0 |
 | Ángel Ortiz | D | 8 | 421 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 7 | 2 | 0,2 | 3 | 0 |
 | Junior Firpo | D | 4 | 306 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 7 | 1,8 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,93 · visitante 2,27 · córners esperados 9,5._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 68% | 73% | 70% | 1.28 | -10% |
-| 1X2: X | 18% | 16% | 17% | 5.75 | -0% |
-| 1X2: 1 | 14% | 11% | 12% | 8.50 | +6% |
-| Doble oportunidad: X2 | 86% | 89% | 87% | 1.08 | -6% |
-| Doble oportunidad: 12 | 82% | 84% | 83% | 1.14 | -6% |
-| Doble oportunidad: 1X | 32% | 27% | 30% | 3.50 | +5% |
-| Ambos marcan: No | 46% | 45% | 45% | 2.05 | -7% |
-| Ambos marcan: Sí | 54% | 55% | 55% | 1.70 | -7% |
-| Goles más/menos: Más de 2.5 | 62% | 70% | 66% | 1.36 | -10% |
-| Goles más/menos: Más de 3.5 | 40% | 50% | 45% | 1.91 | -14% |
-| Goles más/menos: Más de 4.5 | 22% | 30% | 26% | 3.20 | -17% |
-| Goles más/menos: Menos de 2.5 | 38% | 30% | 34% | 3.20 | +8% |
-| Goles más/menos: Menos de 3.5 | 60% | 50% | 55% | 1.91 | +5% |
-| Goles más/menos: Menos de 4.5 | 78% | 70% | 74% | 1.36 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 78% | 77% | 1.20 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 49% | 45% | 1.91 | -15% |
-| Goles 1ª parte más/menos: Más de 2.5 | 16% | 23% | 20% | 4.00 | -20% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 22% | 23% | 4.33 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 51% | 55% | 1.80 | -0% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 84% | 77% | 80% | 1.22 | -2% |
-| Goles del local: Más de 0.5 | 61% | 59% | 60% | 1.57 | -6% |
-| Goles del local: Más de 1.5 | 24% | 25% | 24% | 3.75 | -8% |
-| Goles del local: Menos de 0.5 | 39% | 41% | 40% | 2.25 | -9% |
-| Goles del local: Menos de 1.5 | 76% | 75% | 76% | 1.25 | -6% |
-| Goles del visitante: Más de 1.5 | 66% | 73% | 70% | 1.28 | -11% |
-| Goles del visitante: Más de 2.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles del visitante: Más de 3.5 | 20% | 29% | 24% | 3.25 | -21% |
-| Goles del visitante: Menos de 1.5 | 34% | 27% | 30% | 3.50 | +6% |
-| Goles del visitante: Menos de 2.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles del visitante: Menos de 3.5 | 80% | 71% | 76% | 1.33 | +1% |
-| 1X2 descanso: 2 | 49% | 56% | 53% | 1.67 | -12% |
-| 1X2 descanso: X | 36% | 31% | 34% | 3.00 | +1% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

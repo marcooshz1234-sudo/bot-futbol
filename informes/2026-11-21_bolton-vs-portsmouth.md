@@ -1,7 +1,7 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -187,44 +187,3 @@ _Sin bajas comunicadas por ahora._
 | Benjamin Arthur | D | 6 | 447 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,7 | 0 | 0 |
 | Daniel Bielica | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | O. Bailey | M | 10 | 326 | 0 | 1 | 7 | 0,7 | 1 | 0,1 | 4 | 2 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,17 · visitante 1,38 · córners esperados 9,7._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 42% | 39% | 40% | 2.35 | -5% |
-| 1X2: X | 27% | 27% | 27% | 3.40 | -9% |
-| 1X2: 1 | 32% | 34% | 33% | 2.75 | -10% |
-| Doble oportunidad: X2 | 68% | 67% | 68% | 1.40 | -5% |
-| Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
-| Doble oportunidad: 1X | 58% | 60% | 59% | 1.57 | -7% |
-| Ambos marcan: No | 49% | 44% | 46% | 2.10 | -3% |
-| Ambos marcan: Sí | 51% | 56% | 54% | 1.67 | -11% |
-| Goles más/menos: Más de 1.5 | 72% | 75% | 73% | 1.28 | -6% |
-| Goles más/menos: Más de 2.5 | 47% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 3.5 | 25% | 30% | 28% | 3.20 | -12% |
-| Goles más/menos: Menos de 1.5 | 28% | 25% | 27% | 3.75 | -0% |
-| Goles más/menos: Menos de 2.5 | 53% | 50% | 52% | 1.91 | -1% |
-| Goles más/menos: Menos de 3.5 | 75% | 70% | 72% | 1.36 | -1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 71% | 69% | 1.33 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 35% | 33% | 2.62 | -14% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 29% | 31% | 3.25 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 65% | 67% | 1.44 | -3% |
-| Goles del local: Más de 0.5 | 69% | 72% | 71% | 1.30 | -8% |
-| Goles del local: Más de 1.5 | 33% | 39% | 36% | 2.38 | -15% |
-| Goles del local: Menos de 0.5 | 31% | 28% | 29% | 3.40 | -0% |
-| Goles del local: Menos de 1.5 | 67% | 61% | 64% | 1.53 | -2% |
-| Goles del visitante: Más de 0.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 1.5 | 40% | 42% | 41% | 2.20 | -9% |
-| Goles del visitante: Menos de 0.5 | 25% | 25% | 25% | 3.75 | -6% |
-| Goles del visitante: Menos de 1.5 | 60% | 58% | 59% | 1.62 | -5% |
-| Córners más/menos: Más de 10.5 | 39% | 49% | 44% | 1.91 | -17% |
-| Córners más/menos: Menos de 10.5 | 61% | 51% | 56% | 1.80 | +1% |
-| 1X2 descanso: 2 | 31% | 31% | 31% | 3.00 | -7% |
-| 1X2 descanso: X | 44% | 41% | 43% | 2.25 | -4% |
-| 1X2 descanso: 1 | 25% | 27% | 26% | 3.40 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

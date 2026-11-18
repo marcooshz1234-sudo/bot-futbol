@@ -1,7 +1,7 @@
 # West Ham – Preston
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -184,47 +184,3 @@ _Sin precedentes recientes._
 | T. Small | F | 11 | 378 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | Ali McCann | M | 4 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,8 | 3 | 0 |
 | Pol Valentín | D | 5 | 283 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 3,22 · visitante 0,95 · córners esperados 10,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 8% | 8% | 8% | 11.00 | -13% |
-| 1X2: X | 11% | 15% | 13% | 6.25 | -19% |
-| 1X2: 1 | 81% | 77% | 79% | 1.18 | -7% |
-| Doble oportunidad: X2 | 19% | 22% | 21% | 4.33 | -11% |
-| Doble oportunidad: 12 | 89% | 86% | 87% | 1.11 | -3% |
-| Doble oportunidad: 1X | 92% | 92% | 92% | 1.04 | -4% |
-| Ambos marcan: No | 41% | 50% | 46% | 1.83 | -17% |
-| Ambos marcan: Sí | 59% | 50% | 54% | 1.83 | -0% |
-| Goles más/menos: Más de 2.5 | 79% | 70% | 74% | 1.36 | +1% |
-| Goles más/menos: Más de 3.5 | 60% | 50% | 55% | 1.91 | +5% |
-| Goles más/menos: Más de 4.5 | 40% | 30% | 35% | 3.20 | +12% |
-| Goles más/menos: Menos de 2.5 | 21% | 30% | 26% | 3.20 | -18% |
-| Goles más/menos: Menos de 3.5 | 40% | 50% | 45% | 1.91 | -14% |
-| Goles más/menos: Menos de 4.5 | 60% | 70% | 65% | 1.36 | -12% |
-| Goles 1ª parte más/menos: Más de 0.5 | 84% | 79% | 81% | 1.18 | -4% |
-| Goles 1ª parte más/menos: Más de 1.5 | 54% | 50% | 52% | 1.83 | -5% |
-| Goles 1ª parte más/menos: Más de 2.5 | 27% | 25% | 26% | 3.75 | -2% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 16% | 21% | 19% | 4.50 | -16% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 73% | 75% | 74% | 1.25 | -8% |
-| Goles del local: Más de 1.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles del local: Más de 2.5 | 62% | 54% | 58% | 1.73 | +0% |
-| Goles del local: Más de 3.5 | 40% | 34% | 37% | 2.75 | +2% |
-| Goles del local: Menos de 1.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles del local: Menos de 2.5 | 38% | 46% | 42% | 2.00 | -16% |
-| Goles del local: Menos de 3.5 | 60% | 66% | 63% | 1.40 | -12% |
-| Goles del visitante: Más de 0.5 | 61% | 54% | 57% | 1.73 | -1% |
-| Goles del visitante: Más de 1.5 | 25% | 21% | 23% | 4.50 | +2% |
-| Goles del visitante: Menos de 0.5 | 39% | 46% | 43% | 2.00 | -15% |
-| Goles del visitante: Menos de 1.5 | 75% | 79% | 77% | 1.18 | -9% |
-| Córners más/menos: Más de 11.5 | 36% | 50% | 43% | 1.83 | -21% |
-| Córners más/menos: Menos de 11.5 | 64% | 50% | 57% | 1.83 | +4% |
-| 1X2 descanso: X | 27% | 30% | 28% | 3.10 | -12% |
-| 1X2 descanso: 1 | 62% | 60% | 61% | 1.53 | -7% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

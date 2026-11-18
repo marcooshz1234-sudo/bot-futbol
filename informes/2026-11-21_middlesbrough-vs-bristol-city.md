@@ -1,7 +1,7 @@
 # Middlesbrough – Bristol City
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -189,45 +189,3 @@ _Sin bajas comunicadas por ahora._
 | A. Randell | M | 9 | 428 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 8 | 0,9 | 2 | 1 |
 | B. Collins | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | B. De Keersmaecker | M | 6 | 213 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 0 | 0,0 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,20 · visitante 0,85 · córners esperados 10,1._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 13% | 12% | 13% | 7.50 | -4% |
-| 1X2: X | 19% | 20% | 19% | 4.75 | -9% |
-| 1X2: 1 | 68% | 68% | 68% | 1.36 | -7% |
-| Doble oportunidad: X2 | 32% | 32% | 32% | 3.00 | -4% |
-| Doble oportunidad: 12 | 81% | 81% | 81% | 1.18 | -4% |
-| Doble oportunidad: 1X | 87% | 87% | 87% | 1.10 | -4% |
-| Ambos marcan: No | 49% | 46% | 48% | 2.00 | -4% |
-| Ambos marcan: Sí | 51% | 54% | 52% | 1.73 | -10% |
-| Goles más/menos: Más de 2.5 | 59% | 64% | 61% | 1.50 | -8% |
-| Goles más/menos: Más de 3.5 | 36% | 41% | 39% | 2.30 | -11% |
-| Goles más/menos: Más de 4.5 | 19% | 24% | 22% | 4.00 | -14% |
-| Goles más/menos: Menos de 2.5 | 41% | 36% | 39% | 2.62 | +2% |
-| Goles más/menos: Menos de 3.5 | 64% | 59% | 61% | 1.62 | -1% |
-| Goles más/menos: Menos de 4.5 | 81% | 76% | 78% | 1.25 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 73% | 75% | 74% | 1.25 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 38% | 42% | 40% | 2.20 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 27% | 25% | 26% | 3.75 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Más de 1.5 | 64% | 69% | 67% | 1.36 | -9% |
-| Goles del local: Más de 2.5 | 38% | 42% | 40% | 2.20 | -12% |
-| Goles del local: Más de 3.5 | 18% | 23% | 21% | 4.00 | -17% |
-| Goles del local: Menos de 1.5 | 36% | 31% | 33% | 3.00 | +0% |
-| Goles del local: Menos de 2.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles del local: Menos de 3.5 | 82% | 77% | 79% | 1.22 | -3% |
-| Goles del visitante: Más de 0.5 | 57% | 59% | 58% | 1.57 | -9% |
-| Goles del visitante: Más de 1.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles del visitante: Menos de 0.5 | 43% | 41% | 42% | 2.25 | -6% |
-| Goles del visitante: Menos de 1.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Córners más/menos: Más de 11.5 | 34% | 46% | 40% | 2.00 | -19% |
-| Córners más/menos: Menos de 11.5 | 66% | 54% | 60% | 1.73 | +3% |
-| 1X2 descanso: X | 37% | 35% | 36% | 2.62 | -6% |
-| 1X2 descanso: 1 | 49% | 51% | 50% | 1.80 | -10% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

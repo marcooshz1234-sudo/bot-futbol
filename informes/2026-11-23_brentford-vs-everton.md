@@ -1,7 +1,7 @@
 # Brentford – Everton
 **Premier League** · Regular Season - 11 · 23/11/2026 21:00 (hora España) · Brentford Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:28_
@@ -179,42 +179,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Iliman Ndiaye | M | 3 | 261 | 0 | 1 | 4 | 1,3 | 3 | 1,0 | 4 | 2 | 0,7 | 0 | 0 |
 | C. Alcaraz | M | 8 | 60 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 2 | 2 | 0,2 | 1 | 0 |
 | Beto | F | 2 | 31 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,57 · visitante 1,14 · córners esperados 9,3._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 28% | 27% | 27% | 3.50 | -5% |
-| 1X2: X | 25% | 27% | 26% | 3.50 | -9% |
-| 1X2: 1 | 47% | 47% | 47% | 2.00 | -6% |
-| Doble oportunidad: X2 | 53% | 52% | 53% | 1.80 | -5% |
-| Doble oportunidad: 12 | 75% | 74% | 74% | 1.28 | -5% |
-| Doble oportunidad: 1X | 72% | 74% | 73% | 1.28 | -6% |
-| Ambos marcan: No | 46% | 42% | 44% | 2.20 | -3% |
-| Ambos marcan: Sí | 54% | 58% | 56% | 1.62 | -10% |
-| Goles más/menos: Más de 1.5 | 75% | 78% | 77% | 1.22 | -6% |
-| Goles más/menos: Más de 2.5 | 51% | 55% | 53% | 1.73 | -9% |
-| Goles más/menos: Más de 3.5 | 29% | 34% | 32% | 2.75 | -13% |
-| Goles más/menos: Menos de 1.5 | 25% | 22% | 23% | 4.33 | +1% |
-| Goles más/menos: Menos de 2.5 | 49% | 45% | 47% | 2.10 | -1% |
-| Goles más/menos: Menos de 3.5 | 71% | 66% | 68% | 1.44 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 71% | 70% | 1.33 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 38% | 35% | 2.50 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 29% | 30% | 3.25 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del local: Más de 0.5 | 79% | 79% | 79% | 1.18 | -7% |
-| Goles del local: Más de 1.5 | 47% | 50% | 48% | 1.83 | -12% |
-| Goles del local: Más de 2.5 | 21% | 25% | 23% | 3.75 | -14% |
-| Goles del local: Menos de 0.5 | 21% | 21% | 21% | 4.50 | -7% |
-| Goles del local: Menos de 1.5 | 53% | 50% | 52% | 1.83 | -5% |
-| Goles del local: Menos de 2.5 | 79% | 75% | 77% | 1.25 | -4% |
-| Goles del visitante: Más de 0.5 | 68% | 71% | 69% | 1.33 | -8% |
-| Goles del visitante: Más de 1.5 | 32% | 35% | 34% | 2.62 | -12% |
-| Goles del visitante: Menos de 0.5 | 32% | 29% | 31% | 3.25 | -1% |
-| Goles del visitante: Menos de 1.5 | 68% | 65% | 66% | 1.44 | -4% |
-| 1X2 descanso: 2 | 23% | 25% | 24% | 3.75 | -11% |
-| 1X2 descanso: X | 42% | 40% | 41% | 2.30 | -6% |
-| 1X2 descanso: 1 | 35% | 35% | 35% | 2.60 | -9% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

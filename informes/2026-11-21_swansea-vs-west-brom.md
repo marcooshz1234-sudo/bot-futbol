@@ -1,7 +1,7 @@
 # Swansea – West Brom
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -186,44 +186,3 @@ _Sin bajas comunicadas por ahora._
 | Tobias Christopher Collyer | M | 5 | 288 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
 | K. Tunde | F | 7 | 128 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 3 | 6 | 0,9 | 0 | 0 |
 | Matt Ingram | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,31 · visitante 1,31 · córners esperados 9,6._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 37% | 35% | 36% | 2.62 | -6% |
-| 1X2: X | 26% | 28% | 27% | 3.25 | -11% |
-| 1X2: 1 | 37% | 37% | 37% | 2.50 | -8% |
-| Doble oportunidad: X2 | 63% | 63% | 63% | 1.50 | -5% |
-| Doble oportunidad: 12 | 74% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 63% | 66% | 64% | 1.44 | -7% |
-| Ambos marcan: No | 47% | 46% | 47% | 2.00 | -7% |
-| Ambos marcan: Sí | 53% | 54% | 53% | 1.73 | -7% |
-| Goles más/menos: Más de 1.5 | 74% | 73% | 73% | 1.30 | -5% |
-| Goles más/menos: Más de 2.5 | 49% | 47% | 48% | 2.00 | -4% |
-| Goles más/menos: Más de 3.5 | 27% | 28% | 28% | 3.40 | -6% |
-| Goles más/menos: Menos de 1.5 | 26% | 27% | 27% | 3.50 | -7% |
-| Goles más/menos: Menos de 2.5 | 51% | 53% | 52% | 1.80 | -6% |
-| Goles más/menos: Menos de 3.5 | 73% | 72% | 72% | 1.33 | -4% |
-| Goles 1ª parte más/menos: Más de 0.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles 1ª parte más/menos: Más de 1.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 32% | 34% | 33% | 2.75 | -10% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 68% | 66% | 67% | 1.40 | -6% |
-| Goles del local: Más de 0.5 | 73% | 72% | 73% | 1.30 | -6% |
-| Goles del local: Más de 1.5 | 38% | 39% | 38% | 2.38 | -9% |
-| Goles del local: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del local: Menos de 1.5 | 62% | 61% | 62% | 1.53 | -6% |
-| Goles del visitante: Más de 0.5 | 73% | 72% | 73% | 1.30 | -5% |
-| Goles del visitante: Más de 1.5 | 38% | 38% | 38% | 2.50 | -6% |
-| Goles del visitante: Menos de 0.5 | 27% | 28% | 27% | 3.40 | -7% |
-| Goles del visitante: Menos de 1.5 | 62% | 62% | 62% | 1.50 | -6% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +1% |
-| 1X2 descanso: 2 | 28% | 29% | 29% | 3.25 | -7% |
-| 1X2 descanso: X | 43% | 42% | 43% | 2.20 | -6% |
-| 1X2 descanso: 1 | 28% | 29% | 29% | 3.20 | -8% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

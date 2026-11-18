@@ -12816,7 +12816,7 @@
   "valor_mercado": 0.059,
   "movimiento": 0.059,
   "ventaja": 0.183,
-  "prob_aprendida": 0.644,
+  "prob_aprendida": 0.657,
   "acierto": null
  },
  "1528984|Goals Over/Under - Second Half|Over 1.5": {
@@ -12884,7 +12884,7 @@
   "valor_mercado": -0.035,
   "movimiento": -0.025,
   "ventaja": 0.137,
-  "prob_aprendida": 0.693,
+  "prob_aprendida": 0.707,
   "acierto": null
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
@@ -13084,7 +13084,7 @@
   "valor_mercado": -0.011,
   "movimiento": -0.055,
   "ventaja": 0.072,
-  "prob_aprendida": 0.664,
+  "prob_aprendida": 0.673,
   "acierto": null
  },
  "1550199|To Win Either Half|Home": {
@@ -13128,7 +13128,7 @@
   "valor_mercado": -0.04,
   "movimiento": -0.035,
   "ventaja": 0.051,
-  "prob_aprendida": 0.697,
+  "prob_aprendida": 0.708,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13150,7 +13150,7 @@
   "valor_mercado": 0.006,
   "movimiento": null,
   "ventaja": 0.283,
-  "prob_aprendida": 0.619,
+  "prob_aprendida": 0.623,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13172,7 +13172,7 @@
   "valor_mercado": -0.006,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.607,
+  "prob_aprendida": 0.611,
   "acierto": null
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -13239,7 +13239,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.162,
-  "prob_aprendida": 0.594,
+  "prob_aprendida": 0.597,
   "acierto": null
  },
  "1563264|Both Teams Score|Yes": {
@@ -13261,7 +13261,7 @@
   "valor_mercado": 0.012,
   "movimiento": null,
   "ventaja": 0.151,
-  "prob_aprendida": 0.606,
+  "prob_aprendida": 0.61,
   "acierto": null
  },
  "1528996|Corners 1x2|Away": {
@@ -13284,7 +13284,8 @@
   "movimiento": null,
   "ventaja": 0.163,
   "prob_aprendida": 0.407,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1570030|Match Winner|Home": {
   "partido_id": 1570030,
@@ -13305,7 +13306,7 @@
   "valor_mercado": -0.041,
   "movimiento": -0.026,
   "ventaja": 0.059,
-  "prob_aprendida": 0.686,
+  "prob_aprendida": 0.7,
   "acierto": null
  },
  "1570030|To Win Either Half|Home": {
@@ -13327,7 +13328,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.083,
-  "prob_aprendida": 0.673,
+  "prob_aprendida": 0.68,
   "acierto": null
  },
  "1570030|Goals Over/Under - Second Half|Over 1.5": {
@@ -13395,7 +13396,8 @@
   "movimiento": -0.044,
   "ventaja": 0.031,
   "prob_aprendida": 0.495,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-3"
  },
  "1575222|Away Corners Over/Under|Over 2.5": {
   "partido_id": 1575222,
@@ -13416,7 +13418,7 @@
   "valor_mercado": 0.081,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.412,
+  "prob_aprendida": 0.425,
   "acierto": null
  },
  "1552225|Both Teams Score|Yes": {
@@ -13438,7 +13440,7 @@
   "valor_mercado": 0.023,
   "movimiento": null,
   "ventaja": 0.229,
-  "prob_aprendida": 0.573,
+  "prob_aprendida": 0.58,
   "acierto": null
  },
  "1528986|Match Winner|Away": {
@@ -13483,7 +13485,7 @@
   "valor_mercado": -0.02,
   "movimiento": null,
   "ventaja": 0.083,
-  "prob_aprendida": 0.685,
+  "prob_aprendida": 0.691,
   "acierto": null
  },
  "1570030|Away Corners Over/Under|Over 3.5": {
@@ -13505,7 +13507,7 @@
   "valor_mercado": 0.048,
   "movimiento": null,
   "ventaja": 0.2,
-  "prob_aprendida": 0.404,
+  "prob_aprendida": 0.418,
   "acierto": null
  },
  "1528993|Match Winner|Home": {
@@ -13528,7 +13530,8 @@
   "movimiento": -0.167,
   "ventaja": 0.156,
   "prob_aprendida": 0.688,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-3"
  },
  "1528993|Total - Home|Over 1.5": {
   "partido_id": 1528993,
@@ -13550,7 +13553,8 @@
   "movimiento": -0.1,
   "ventaja": 0.244,
   "prob_aprendida": 0.711,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-3"
  },
  "1550202|Match Winner|Home": {
   "partido_id": 1550202,
@@ -13571,7 +13575,7 @@
   "valor_mercado": -0.022,
   "movimiento": -0.022,
   "ventaja": 0.048,
-  "prob_aprendida": 0.761,
+  "prob_aprendida": 0.767,
   "acierto": null
  },
  "1570029|Match Winner|Away": {
@@ -13593,7 +13597,7 @@
   "valor_mercado": -0.032,
   "movimiento": null,
   "ventaja": 0.204,
-  "prob_aprendida": 0.572,
+  "prob_aprendida": 0.582,
   "acierto": null
  },
  "1570034|Away Player Shots|Ruben Alcaraz - 1": {
@@ -13615,7 +13619,29 @@
   "valor_mercado": null,
   "movimiento": -0.06,
   "ventaja": 0.263,
-  "prob_aprendida": 0.598,
+  "prob_aprendida": 0.6,
+  "acierto": null
+ },
+ "1575221|Away Corners Over/Under|Over 2.5": {
+  "partido_id": 1575221,
+  "fecha": "2026-11-20T20:30",
+  "competicion": "Bundesliga",
+  "local": "Bayern München",
+  "visitante": "1. FC Köln",
+  "mercado": "Away Corners Over/Under",
+  "opcion": "Over 2.5",
+  "tipo": "corners",
+  "texto": "1. FC Köln hace más de 2,5 córners",
+  "cuota": 1.62,
+  "frecuencia": 0.8,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.012,
+  "movimiento": -0.115,
+  "ventaja": 0.183,
+  "prob_aprendida": 0.459,
   "acierto": null
  }
 }

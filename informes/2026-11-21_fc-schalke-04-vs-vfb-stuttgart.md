@@ -1,7 +1,7 @@
 # FC Schalke 04 – VfB Stuttgart
 **Bundesliga** · Regular Season - 10 · 21/11/2026 18:30 (hora España) · Veltins Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -188,44 +188,3 @@ _Sin bajas comunicadas por ahora._
 | Tiago Tomás | F | 4 | 181 | 1 | 1 | 7 | 1,8 | 4 | 1,0 | 1 | 4 | 1,0 | 0 | 0 |
 | L. Assignon | D | 6 | 175 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 | L. Sauer | M | 9 | 149 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 4 | 2 | 0,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,10 · visitante 1,60 · córners esperados 9,6._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 49% | 53% | 51% | 1.75 | -11% |
-| 1X2: X | 25% | 23% | 24% | 4.00 | -4% |
-| 1X2: 1 | 26% | 24% | 25% | 3.80 | -4% |
-| Doble oportunidad: X2 | 74% | 75% | 75% | 1.25 | -7% |
-| Doble oportunidad: 12 | 75% | 77% | 76% | 1.22 | -7% |
-| Doble oportunidad: 1X | 51% | 47% | 49% | 2.00 | -2% |
-| Ambos marcan: No | 47% | 38% | 42% | 2.50 | +5% |
-| Ambos marcan: Sí | 53% | 62% | 58% | 1.50 | -13% |
-| Goles más/menos: Más de 2.5 | 51% | 66% | 58% | 1.44 | -16% |
-| Goles más/menos: Más de 3.5 | 29% | 43% | 36% | 2.20 | -21% |
-| Goles más/menos: Más de 4.5 | 14% | 25% | 20% | 3.75 | -26% |
-| Goles más/menos: Menos de 2.5 ✅ | 49% | 34% | 42% | 2.75 | +15% |
-| Goles más/menos: Menos de 3.5 | 71% | 57% | 64% | 1.67 | +7% |
-| Goles más/menos: Menos de 4.5 | 86% | 75% | 80% | 1.28 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 77% | 73% | 1.22 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 44% | 39% | 2.10 | -19% |
-| Goles 1ª parte más/menos: Más de 2.5 | 12% | 21% | 16% | 4.50 | -27% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 23% | 27% | 4.00 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 56% | 61% | 1.67 | +3% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 88% | 79% | 84% | 1.18 | -1% |
-| Goles del local: Más de 0.5 | 67% | 73% | 70% | 1.28 | -10% |
-| Goles del local: Más de 1.5 | 30% | 39% | 35% | 2.38 | -18% |
-| Goles del local: Menos de 0.5 | 33% | 27% | 30% | 3.50 | +5% |
-| Goles del local: Menos de 1.5 | 70% | 61% | 65% | 1.53 | -0% |
-| Goles del visitante: Más de 1.5 | 48% | 59% | 53% | 1.57 | -16% |
-| Goles del visitante: Más de 2.5 | 22% | 34% | 28% | 2.75 | -24% |
-| Goles del visitante: Menos de 1.5 | 52% | 41% | 47% | 2.25 | +5% |
-| Goles del visitante: Menos de 2.5 | 78% | 66% | 72% | 1.40 | +1% |
-| Córners más/menos: Más de 9.5 | 46% | 50% | 48% | 1.83 | -12% |
-| Córners más/menos: Menos de 9.5 | 54% | 50% | 52% | 1.83 | -5% |
-| 1X2 descanso: 2 | 36% | 41% | 39% | 2.25 | -13% |
-| 1X2 descanso: X | 42% | 36% | 39% | 2.60 | +1% |
-| 1X2 descanso: 1 | 22% | 23% | 23% | 4.00 | -10% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

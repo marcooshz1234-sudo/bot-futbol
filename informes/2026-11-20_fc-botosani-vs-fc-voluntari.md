@@ -1,10 +1,10 @@
 # FC Botosani – FC Voluntari
 **Liga I** · Regular Season - 16 · 20/11/2026 16:30 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:08_
+_Actualizadas: 18/11 02:22_
 
 - **1X2:** 1 **1.70**  ·  X **3.60**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.00**
@@ -174,42 +174,3 @@ _Sin bajas comunicadas por ahora._
 | David Kiki | D | 4 | 105 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 | Eduard Chioveanu | G | 1 | 94 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Florian Haită | M | 5 | 88 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,66 · visitante 1,34 · córners esperados 9,2._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 17% | 21% | 19% | 4.33 | -17% |
-| 1X2: X | 17% | 25% | 21% | 3.60 | -24% |
-| 1X2: 1 | 66% | 54% | 60% | 1.70 | +1% |
-| Doble oportunidad: X2 | 34% | 47% | 40% | 2.00 | -19% |
-| Doble oportunidad: 12 | 83% | 75% | 79% | 1.25 | -2% |
-| Doble oportunidad: 1X | 83% | 79% | 81% | 1.18 | -5% |
-| Ambos marcan: No | 31% | 44% | 38% | 2.10 | -21% |
-| Ambos marcan: Sí | 69% | 56% | 62% | 1.67 | +4% |
-| Goles más/menos: Más de 1.5 | 91% | 77% | 84% | 1.22 | +2% |
-| Goles más/menos: Más de 2.5 | 76% | 55% | 66% | 1.70 | +12% |
-| Goles más/menos: Más de 3.5 | 57% | 35% | 46% | 2.62 | +21% |
-| Goles más/menos: Menos de 1.5 | 9% | 23% | 16% | 4.00 | -35% |
-| Goles más/menos: Menos de 2.5 | 24% | 45% | 34% | 2.10 | -28% |
-| Goles más/menos: Menos de 3.5 | 43% | 65% | 54% | 1.44 | -22% |
-| Goles 1ª parte más/menos: Más de 0.5 | 82% | 72% | 77% | 1.30 | +1% |
-| Goles 1ª parte más/menos: Más de 1.5 | 52% | 38% | 45% | 2.50 | +12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 18% | 28% | 23% | 3.40 | -23% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 48% | 62% | 55% | 1.50 | -17% |
-| Goles del local: Más de 1.5 | 74% | 54% | 64% | 1.73 | +11% |
-| Goles del local: Más de 2.5 | 50% | 28% | 39% | 3.40 | +32% |
-| Goles del local: Menos de 1.5 | 26% | 46% | 36% | 2.00 | -28% |
-| Goles del local: Menos de 2.5 | 50% | 72% | 61% | 1.30 | -20% |
-| Goles del visitante: Más de 0.5 | 74% | 65% | 69% | 1.44 | -0% |
-| Goles del visitante: Más de 1.5 | 39% | 29% | 34% | 3.25 | +10% |
-| Goles del visitante: Menos de 0.5 | 26% | 35% | 31% | 2.62 | -19% |
-| Goles del visitante: Menos de 1.5 | 61% | 71% | 66% | 1.33 | -12% |
-| 1X2 descanso: 2 | 19% | 21% | 20% | 4.50 | -12% |
-| 1X2 descanso: X | 32% | 39% | 35% | 2.38 | -16% |
-| 1X2 descanso: 1 | 50% | 40% | 45% | 2.30 | +4% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

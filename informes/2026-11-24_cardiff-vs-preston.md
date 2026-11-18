@@ -1,7 +1,7 @@
 # Cardiff – Preston
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · Cardiff City Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | T. Small | F | 11 | 378 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | Ali McCann | M | 4 | 301 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,8 | 3 | 0 |
 | Pol Valentín | D | 5 | 283 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,2 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,53 · visitante 1,17 · córners esperados 10,3._
-
-_Sin cuotas de Bet365 todavía para comparar._

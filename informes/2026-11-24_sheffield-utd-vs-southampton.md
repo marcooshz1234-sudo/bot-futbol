@@ -1,7 +1,7 @@
 # Sheffield Utd – Southampton
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | D. Mubama | F | 14 | 315 | 1 | 1 | 10 | 0,7 | 3 | 0,2 | 5 | 8 | 0,6 | 1 | 0 |
 | Taylor Harwood-Bellis | D | 2 | 186 | 0 | 0 | 4 | 2,0 | 1 | 0,5 | 0 | 4 | 2,0 | 0 | 0 |
 | C. Jander | M | 3 | 176 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 3 | 5 | 1,7 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,23 · visitante 1,43 · córners esperados 9,4._
-
-_Sin cuotas de Bet365 todavía para comparar._

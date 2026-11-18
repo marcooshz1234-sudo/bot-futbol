@@ -1,7 +1,7 @@
 # Strasbourg – Stade Brestois 29
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -187,46 +187,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Luc Zogbé | D | 1 | 68 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 1,0 | 0 | 0 |
 | Ibrahim Yayiya Kante | F | 3 | 36 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 2 | 2 | 0,7 | 0 | 0 |
 | Djylian N'Guessan | F | 3 | 36 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,32 · visitante 1,86 · córners esperados 8,6._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 ✅ | 50% | 31% | 41% | 3.00 | +22% |
-| 1X2: X | 23% | 25% | 24% | 3.80 | -10% |
-| 1X2: 1 | 27% | 44% | 36% | 2.15 | -23% |
-| Doble oportunidad: X2 | 73% | 56% | 64% | 1.67 | +8% |
-| Doble oportunidad: 12 | 77% | 75% | 76% | 1.25 | -5% |
-| Doble oportunidad: 1X | 50% | 69% | 59% | 1.36 | -19% |
-| Ambos marcan: No | 38% | 41% | 40% | 2.25 | -11% |
-| Ambos marcan: Sí | 62% | 59% | 60% | 1.57 | -5% |
-| Goles más/menos: Más de 1.5 | 83% | 79% | 81% | 1.20 | -3% |
-| Goles más/menos: Más de 2.5 | 62% | 57% | 59% | 1.67 | -1% |
-| Goles más/menos: Más de 3.5 | 39% | 36% | 38% | 2.62 | -1% |
-| Goles más/menos: Más de 4.5 | 22% | 21% | 21% | 4.50 | -4% |
-| Goles más/menos: Menos de 1.5 | 17% | 21% | 19% | 4.50 | -14% |
-| Goles más/menos: Menos de 2.5 | 38% | 43% | 41% | 2.20 | -10% |
-| Goles más/menos: Menos de 3.5 | 61% | 64% | 62% | 1.50 | -7% |
-| Goles más/menos: Menos de 4.5 | 78% | 79% | 79% | 1.20 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 75% | 73% | 74% | 1.28 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 40% | 39% | 40% | 2.38 | -6% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 25% | 27% | 26% | 3.50 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 60% | 61% | 60% | 1.53 | -8% |
-| Goles del local: Más de 0.5 | 73% | 79% | 76% | 1.18 | -10% |
-| Goles del local: Más de 1.5 | 38% | 50% | 44% | 1.83 | -19% |
-| Goles del local: Más de 2.5 | 15% | 25% | 20% | 3.75 | -25% |
-| Goles del local: Menos de 0.5 | 27% | 21% | 24% | 4.50 | +7% |
-| Goles del local: Menos de 1.5 | 62% | 50% | 56% | 1.83 | +2% |
-| Goles del local: Menos de 2.5 | 85% | 75% | 80% | 1.25 | +0% |
-| Goles del visitante: Más de 0.5 | 84% | 73% | 79% | 1.28 | +1% |
-| Goles del visitante: Más de 1.5 | 55% | 41% | 48% | 2.25 | +9% |
-| Goles del visitante: Menos de 0.5 | 16% | 27% | 21% | 3.50 | -26% |
-| Goles del visitante: Menos de 1.5 | 45% | 59% | 52% | 1.57 | -19% |
-| Córners más/menos: Más de 8.5 | 46% | 53% | 49% | 1.80 | -11% |
-| Córners más/menos: Menos de 8.5 | 54% | 47% | 51% | 2.00 | +1% |
-| 1X2 descanso: 2 ✅ | 38% | 27% | 32% | 3.50 | +13% |
-| 1X2 descanso: X | 38% | 39% | 39% | 2.38 | -8% |
-| 1X2 descanso: 1 | 24% | 34% | 29% | 2.75 | -20% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

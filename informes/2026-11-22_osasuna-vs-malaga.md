@@ -1,7 +1,7 @@
 # Osasuna – Malaga
 **LaLiga** · Regular Season - 13 · 22/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -187,41 +187,3 @@ _Sin bajas comunicadas por ahora._
 | Rafa Rodríguez | M | 8 | 290 | 0 | 0 | 9 | 1,1 | 2 | 0,2 | 8 | 6 | 0,8 | 0 | 0 |
 | Juan Cruz | M | 7 | 251 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 2 | 2 | 0,3 | 1 | 0 |
 | Juan Berrocal | D | 3 | 110 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,71 · visitante 1,08 · córners esperados 9,3._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 24% | 20% | 22% | 4.75 | +4% |
-| 1X2: X | 24% | 26% | 25% | 3.60 | -10% |
-| 1X2: 1 | 52% | 54% | 53% | 1.75 | -7% |
-| Doble oportunidad: X2 | 48% | 47% | 47% | 2.00 | -5% |
-| Doble oportunidad: 12 | 76% | 73% | 75% | 1.28 | -4% |
-| Doble oportunidad: 1X | 76% | 80% | 78% | 1.18 | -8% |
-| Ambos marcan: No | 46% | 48% | 47% | 1.95 | -8% |
-| Ambos marcan: Sí | 54% | 52% | 53% | 1.80 | -5% |
-| Goles más/menos: Más de 1.5 | 77% | 73% | 75% | 1.30 | -3% |
-| Goles más/menos: Más de 2.5 | 53% | 50% | 51% | 1.91 | -2% |
-| Goles más/menos: Más de 3.5 | 31% | 28% | 29% | 3.40 | -0% |
-| Goles más/menos: Menos de 1.5 | 23% | 27% | 25% | 3.50 | -12% |
-| Goles más/menos: Menos de 2.5 | 47% | 50% | 49% | 1.91 | -7% |
-| Goles más/menos: Menos de 3.5 | 69% | 72% | 71% | 1.33 | -6% |
-| Goles 1ª parte más/menos: Más de 0.5 | 70% | 69% | 70% | 1.36 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 30% | 31% | 30% | 3.00 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 66% | 66% | 66% | 1.40 | -8% |
-| Goles del local: Más de 1.5 | 51% | 50% | 51% | 1.83 | -8% |
-| Goles del local: Más de 2.5 | 25% | 25% | 25% | 3.75 | -7% |
-| Goles del local: Menos de 1.5 | 49% | 50% | 49% | 1.83 | -9% |
-| Goles del local: Menos de 2.5 | 75% | 75% | 75% | 1.25 | -6% |
-| Goles del visitante: Más de 0.5 | 66% | 61% | 63% | 1.53 | -3% |
-| Goles del visitante: Más de 1.5 | 29% | 25% | 27% | 3.75 | +2% |
-| Goles del visitante: Menos de 0.5 | 34% | 39% | 37% | 2.38 | -13% |
-| Goles del visitante: Menos de 1.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Córners más/menos: Más de 9.5 | 43% | 49% | 46% | 1.91 | -12% |
-| Córners más/menos: Menos de 9.5 | 57% | 51% | 54% | 1.80 | -3% |
-| 1X2 descanso: X | 41% | 41% | 41% | 2.25 | -7% |
-| 1X2 descanso: 1 | 38% | 40% | 39% | 2.30 | -10% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

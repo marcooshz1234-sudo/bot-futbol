@@ -1,7 +1,7 @@
 # Lincoln – Wrexham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -185,44 +185,3 @@ _Sin bajas comunicadas por ahora._
 | G. Thomason | M | 6 | 389 | 1 | 0 | 6 | 1,0 | 1 | 0,2 | 4 | 4 | 0,7 | 0 | 0 |
 | Nathan Broadhead | F | 4 | 296 | 0 | 0 | 5 | 1,2 | 1 | 0,2 | 3 | 3 | 0,8 | 1 | 0 |
 | Josh Windass | F | 6 | 260 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,08 · visitante 1,08 · córners esperados 9,2._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 35% | 37% | 36% | 2.50 | -9% |
-| 1X2: X | 29% | 29% | 29% | 3.25 | -6% |
-| 1X2: 1 | 35% | 34% | 35% | 2.70 | -6% |
-| Doble oportunidad: X2 | 65% | 66% | 65% | 1.44 | -6% |
-| Doble oportunidad: 12 | 71% | 71% | 71% | 1.33 | -6% |
-| Doble oportunidad: 1X | 65% | 63% | 64% | 1.50 | -4% |
-| Ambos marcan: No | 56% | 46% | 51% | 2.00 | +3% |
-| Ambos marcan: Sí | 44% | 54% | 49% | 1.73 | -16% |
-| Goles más/menos: Más de 1.5 | 63% | 73% | 68% | 1.30 | -11% |
-| Goles más/menos: Más de 2.5 | 37% | 47% | 42% | 2.00 | -16% |
-| Goles más/menos: Más de 3.5 | 17% | 27% | 22% | 3.50 | -23% |
-| Goles más/menos: Menos de 1.5 | 37% | 27% | 32% | 3.50 | +11% |
-| Goles más/menos: Menos de 2.5 | 63% | 53% | 58% | 1.80 | +4% |
-| Goles más/menos: Menos de 3.5 | 83% | 73% | 78% | 1.30 | +1% |
-| Goles 1ª parte más/menos: Más de 0.5 | 61% | 66% | 64% | 1.40 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 24% | 31% | 28% | 3.00 | -17% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 39% | 34% | 36% | 2.75 | +0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 76% | 69% | 72% | 1.36 | -2% |
-| Goles del local: Más de 0.5 | 66% | 71% | 68% | 1.33 | -9% |
-| Goles del local: Más de 1.5 | 29% | 38% | 33% | 2.50 | -17% |
-| Goles del local: Menos de 0.5 | 34% | 29% | 32% | 3.25 | +3% |
-| Goles del local: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
-| Goles del visitante: Más de 0.5 | 66% | 72% | 69% | 1.30 | -10% |
-| Goles del visitante: Más de 1.5 | 29% | 38% | 33% | 2.50 | -16% |
-| Goles del visitante: Menos de 0.5 | 34% | 28% | 31% | 3.40 | +5% |
-| Goles del visitante: Menos de 1.5 | 71% | 62% | 67% | 1.50 | -0% |
-| Córners más/menos: Más de 9.5 | 43% | 48% | 45% | 1.98 | -10% |
-| Córners más/menos: Menos de 9.5 | 57% | 52% | 55% | 1.82 | -1% |
-| 1X2 descanso: 2 | 26% | 29% | 27% | 3.20 | -12% |
-| 1X2 descanso: X | 48% | 44% | 46% | 2.10 | -3% |
-| 1X2 descanso: 1 | 26% | 27% | 26% | 3.40 | -10% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

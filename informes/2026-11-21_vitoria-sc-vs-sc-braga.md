@@ -1,7 +1,7 @@
 # Vitória SC – SC Braga
 **Taça de Portugal** · Round of 32 · 21/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | B. Arrey-Mbi | D | 7 | 404 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 0 | 0,0 | 0 | 0 |
 | J. Milošević | F | 9 | 333 | 0 | 0 | 12 | 1,3 | 4 | 0,4 | 3 | 7 | 0,8 | 0 | 0 |
 | D. Huseinbašić | M | 10 | 322 | 0 | 0 | 10 | 1,0 | 3 | 0,3 | 9 | 4 | 0,4 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 0,78 · visitante 0,86 · córners esperados 8,9._
-
-_Sin cuotas de Bet365 todavía para comparar._

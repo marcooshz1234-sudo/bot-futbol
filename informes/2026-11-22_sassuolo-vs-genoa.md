@@ -1,7 +1,7 @@
 # Sassuolo – Genoa
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -187,42 +187,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Alexsandro Amorim | M | 8 | 305 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 1 | 4 | 0,5 | 1 | 0 |
 | Brooke Norton-Cuffy | M | 3 | 270 | 0 | 1 | 3 | 1,0 | 1 | 0,3 | 0 | 1 | 0,3 | 0 | 0 |
 | D. Puczka | D | 6 | 240 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,21 · visitante 1,15 · córners esperados 9,4._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 34% | 38% | 36% | 2.50 | -10% |
-| 1X2: X | 28% | 28% | 28% | 3.40 | -5% |
-| 1X2: 1 | 38% | 34% | 36% | 2.75 | -1% |
-| Doble oportunidad: X2 | 62% | 66% | 64% | 1.40 | -10% |
-| Doble oportunidad: 12 | 72% | 72% | 72% | 1.30 | -7% |
-| Doble oportunidad: 1X | 66% | 62% | 64% | 1.50 | -4% |
-| Ambos marcan: No | 52% | 45% | 49% | 2.05 | -0% |
-| Ambos marcan: Sí | 48% | 55% | 51% | 1.70 | -13% |
-| Goles más/menos: Más de 1.5 | 68% | 75% | 71% | 1.28 | -9% |
-| Goles más/menos: Más de 2.5 | 42% | 50% | 46% | 1.91 | -12% |
-| Goles más/menos: Más de 3.5 | 21% | 28% | 25% | 3.40 | -16% |
-| Goles más/menos: Menos de 1.5 | 32% | 25% | 29% | 3.75 | +7% |
-| Goles más/menos: Menos de 2.5 | 58% | 50% | 54% | 1.91 | +3% |
-| Goles más/menos: Menos de 3.5 | 79% | 72% | 75% | 1.33 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 69% | 66% | 1.36 | -10% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 34% | 31% | 2.75 | -16% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 31% | 34% | 3.00 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 66% | 69% | 1.40 | -3% |
-| Goles del local: Más de 0.5 | 70% | 72% | 71% | 1.30 | -7% |
-| Goles del local: Más de 1.5 | 34% | 38% | 36% | 2.50 | -11% |
-| Goles del local: Menos de 0.5 | 30% | 28% | 29% | 3.40 | -2% |
-| Goles del local: Menos de 1.5 | 66% | 62% | 64% | 1.50 | -4% |
-| Goles del visitante: Más de 0.5 | 68% | 73% | 71% | 1.28 | -9% |
-| Goles del visitante: Más de 1.5 | 32% | 41% | 36% | 2.25 | -18% |
-| Goles del visitante: Menos de 0.5 | 32% | 27% | 29% | 3.50 | +3% |
-| Goles del visitante: Menos de 1.5 | 68% | 59% | 64% | 1.57 | -0% |
-| Córners más/menos: Más de 8.5 | 53% | 54% | 53% | 1.73 | -8% |
-| Córners más/menos: Menos de 8.5 | 47% | 46% | 47% | 2.00 | -6% |
-| 1X2 descanso: 2 | 26% | 30% | 28% | 3.10 | -13% |
-| 1X2 descanso: X | 46% | 42% | 44% | 2.20 | -3% |
-| 1X2 descanso: 1 | 28% | 27% | 28% | 3.40 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

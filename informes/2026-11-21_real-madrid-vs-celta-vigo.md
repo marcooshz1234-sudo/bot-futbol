@@ -1,7 +1,7 @@
 # Real Madrid – Celta Vigo
 **LaLiga** · Regular Season - 13 · 21/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -189,43 +189,3 @@ _Sin bajas comunicadas por ahora._
 | Hugo González | F | 9 | 389 | 1 | 2 | 11 | 1,2 | 7 | 0,8 | 3 | 4 | 0,4 | 0 | 0 |
 | H. Burcio | M | 10 | 372 | 0 | 0 | 8 | 0,8 | 1 | 0,1 | 6 | 3 | 0,3 | 0 | 0 |
 | C. Driouech | F | 10 | 346 | 0 | 0 | 8 | 0,8 | 1 | 0,1 | 5 | 3 | 0,3 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,06 · visitante 0,62 · córners esperados 9,3._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 10% | 6% | 8% | 15.00 | +21% |
-| 1X2: X | 19% | 14% | 17% | 6.50 | +8% |
-| 1X2: 1 | 71% | 79% | 75% | 1.17 | -12% |
-| Doble oportunidad: X2 | 29% | 22% | 25% | 4.33 | +10% |
-| Doble oportunidad: 12 | 81% | 86% | 83% | 1.12 | -7% |
-| Doble oportunidad: 1X | 90% | 92% | 91% | 1.04 | -5% |
-| Ambos marcan: No | 60% | 50% | 55% | 1.91 | +5% |
-| Ambos marcan: Sí | 40% | 50% | 45% | 1.91 | -14% |
-| Goles más/menos: Más de 2.5 | 50% | 68% | 59% | 1.40 | -17% |
-| Goles más/menos: Más de 3.5 | 28% | 47% | 38% | 2.00 | -24% |
-| Goles más/menos: Más de 4.5 | 13% | 30% | 22% | 3.20 | -31% |
-| Goles más/menos: Menos de 2.5 ✅ | 50% | 32% | 41% | 3.00 | +22% |
-| Goles más/menos: Menos de 3.5 | 72% | 53% | 62% | 1.80 | +12% |
-| Goles más/menos: Menos de 4.5 | 87% | 70% | 78% | 1.36 | +7% |
-| Goles 1ª parte más/menos: Más de 0.5 | 69% | 78% | 74% | 1.20 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 33% | 49% | 41% | 1.91 | -23% |
-| Goles 1ª parte más/menos: Más de 2.5 | 11% | 23% | 17% | 4.00 | -31% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 31% | 22% | 26% | 4.33 | +14% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 67% | 51% | 59% | 1.80 | +7% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 89% | 77% | 83% | 1.22 | +1% |
-| Goles del local: Más de 1.5 | 61% | 77% | 69% | 1.22 | -16% |
-| Goles del local: Más de 2.5 | 34% | 54% | 44% | 1.73 | -24% |
-| Goles del local: Más de 3.5 | 15% | 34% | 25% | 2.75 | -32% |
-| Goles del local: Menos de 1.5 ✅ | 39% | 23% | 31% | 4.00 | +25% |
-| Goles del local: Menos de 2.5 | 66% | 46% | 56% | 2.00 | +12% |
-| Goles del local: Menos de 3.5 | 85% | 66% | 75% | 1.40 | +6% |
-| Goles del visitante: Más de 0.5 | 46% | 51% | 49% | 1.80 | -12% |
-| Goles del visitante: Menos de 0.5 | 54% | 49% | 51% | 1.91 | -2% |
-| Córners más/menos: Más de 9.5 | 43% | 51% | 47% | 1.85 | -13% |
-| Córners más/menos: Menos de 9.5 | 57% | 49% | 53% | 1.95 | +3% |
-| 1X2 descanso: X | 39% | 30% | 34% | 3.10 | +7% |
-| 1X2 descanso: 1 | 50% | 60% | 55% | 1.53 | -15% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

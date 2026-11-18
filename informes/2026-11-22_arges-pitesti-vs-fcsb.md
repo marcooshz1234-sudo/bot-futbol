@@ -1,7 +1,7 @@
 # Arges Pitesti – FCSB
 **Liga I** · Regular Season - 16 · 22/11/2026 19:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | Ofri Arad | D | 9 | 401 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 4 | 7 | 0,8 | 1 | 0 |
 | Octavian Popescu | F | 6 | 317 | 0 | 2 | 7 | 1,2 | 2 | 0,3 | 1 | 7 | 1,2 | 1 | 0 |
 | Ronny Labonne | D | 6 | 307 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 2 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,15 · visitante 1,29 · córners esperados 9,8._
-
-_Sin cuotas de Bet365 todavía para comparar._

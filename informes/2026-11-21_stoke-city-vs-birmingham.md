@@ -1,7 +1,7 @@
 # Stoke City – Birmingham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 14:15_
@@ -187,44 +187,3 @@ _Sin bajas comunicadas por ahora._
 | M. Bird | M | 8 | 293 | 1 | 3 | 7 | 0,9 | 6 | 0,8 | 4 | 3 | 0,4 | 0 | 0 |
 | Kristoffer Lund | D | 3 | 133 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | M. Ducksch | F | 9 | 127 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,04 · visitante 1,49 · córners esperados 9,3._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 47% | 39% | 43% | 2.38 | +3% |
-| 1X2: X | 26% | 28% | 27% | 3.30 | -11% |
-| 1X2: 1 | 27% | 33% | 30% | 2.80 | -17% |
-| Doble oportunidad: X2 | 73% | 67% | 70% | 1.40 | -1% |
-| Doble oportunidad: 12 | 74% | 71% | 72% | 1.33 | -4% |
-| Doble oportunidad: 1X | 53% | 62% | 57% | 1.53 | -13% |
-| Ambos marcan: No | 50% | 46% | 48% | 2.00 | -4% |
-| Ambos marcan: Sí | 50% | 54% | 52% | 1.73 | -10% |
-| Goles más/menos: Más de 1.5 | 72% | 73% | 72% | 1.30 | -6% |
-| Goles más/menos: Más de 2.5 | 46% | 50% | 48% | 1.91 | -8% |
-| Goles más/menos: Más de 3.5 | 25% | 28% | 27% | 3.40 | -10% |
-| Goles más/menos: Menos de 1.5 | 28% | 27% | 28% | 3.50 | -3% |
-| Goles más/menos: Menos de 2.5 | 54% | 50% | 52% | 1.91 | -1% |
-| Goles más/menos: Menos de 3.5 | 75% | 72% | 73% | 1.33 | -2% |
-| Goles 1ª parte más/menos: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles 1ª parte más/menos: Más de 1.5 | 30% | 34% | 32% | 2.75 | -12% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -3% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 70% | 66% | 68% | 1.40 | -5% |
-| Goles del local: Más de 0.5 | 65% | 71% | 68% | 1.33 | -10% |
-| Goles del local: Más de 1.5 | 28% | 38% | 33% | 2.50 | -18% |
-| Goles del local: Menos de 0.5 | 35% | 29% | 32% | 3.25 | +4% |
-| Goles del local: Menos de 1.5 | 72% | 62% | 67% | 1.50 | +1% |
-| Goles del visitante: Más de 0.5 | 77% | 75% | 76% | 1.25 | -5% |
-| Goles del visitante: Más de 1.5 | 44% | 41% | 42% | 2.25 | -4% |
-| Goles del visitante: Menos de 0.5 | 23% | 25% | 24% | 3.75 | -11% |
-| Goles del visitante: Menos de 1.5 | 56% | 59% | 58% | 1.57 | -10% |
-| Córners más/menos: Más de 9.5 | 43% | 54% | 48% | 1.73 | -16% |
-| Córners más/menos: Menos de 9.5 | 57% | 46% | 52% | 2.00 | +3% |
-| 1X2 descanso: 2 | 34% | 31% | 33% | 3.00 | -2% |
-| 1X2 descanso: X | 44% | 42% | 43% | 2.20 | -6% |
-| 1X2 descanso: 1 | 22% | 27% | 24% | 3.40 | -17% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Borussia Mönchengladbach – Borussia Dortmund
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -190,43 +190,3 @@ _Sin bajas comunicadas por ahora._
 | S. Inacio | F | 4 | 143 | 2 | 0 | 5 | 1,2 | 2 | 0,5 | 4 | 2 | 0,5 | 0 | 1 |
 | Filippo Mané | D | 3 | 138 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 0 | 0 |
 | Mathis Albert | F | 2 | 110 | 0 | 0 | 3 | 1,5 | 3 | 1,5 | 2 | 3 | 1,5 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,11 · visitante 2,14 · córners esperados 9,7._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 61% | 56% | 58% | 1.65 | -4% |
-| 1X2: X | 20% | 23% | 21% | 4.10 | -12% |
-| 1X2: 1 | 19% | 21% | 20% | 4.33 | -13% |
-| Doble oportunidad: X2 | 81% | 79% | 80% | 1.20 | -4% |
-| Doble oportunidad: 12 | 80% | 78% | 79% | 1.22 | -4% |
-| Doble oportunidad: 1X | 39% | 43% | 41% | 2.20 | -9% |
-| Ambos marcan: No | 41% | 39% | 40% | 2.38 | -5% |
-| Ambos marcan: Sí | 59% | 61% | 60% | 1.53 | -8% |
-| Goles más/menos: Más de 2.5 | 63% | 64% | 63% | 1.50 | -5% |
-| Goles más/menos: Más de 3.5 | 41% | 45% | 43% | 2.10 | -10% |
-| Goles más/menos: Más de 4.5 | 23% | 25% | 24% | 3.75 | -9% |
-| Goles más/menos: Menos de 2.5 | 37% | 36% | 37% | 2.62 | -4% |
-| Goles más/menos: Menos de 3.5 | 59% | 55% | 57% | 1.73 | -1% |
-| Goles más/menos: Menos de 4.5 | 77% | 75% | 76% | 1.28 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 76% | 77% | 76% | 1.22 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 41% | 44% | 43% | 2.10 | -10% |
-| Goles 1ª parte más/menos: Más de 2.5 | 17% | 21% | 19% | 4.50 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 24% | 23% | 24% | 4.00 | -5% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 59% | 56% | 57% | 1.67 | -4% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 83% | 79% | 81% | 1.18 | -4% |
-| Goles del local: Más de 0.5 | 67% | 69% | 68% | 1.36 | -8% |
-| Goles del local: Más de 1.5 | 31% | 34% | 32% | 2.75 | -11% |
-| Goles del local: Menos de 0.5 | 33% | 31% | 32% | 3.00 | -4% |
-| Goles del local: Menos de 1.5 | 69% | 66% | 68% | 1.40 | -5% |
-| Goles del visitante: Más de 1.5 | 63% | 62% | 63% | 1.50 | -6% |
-| Goles del visitante: Más de 2.5 | 36% | 38% | 37% | 2.50 | -8% |
-| Goles del visitante: Menos de 1.5 | 37% | 38% | 37% | 2.50 | -7% |
-| Goles del visitante: Menos de 2.5 | 64% | 62% | 63% | 1.50 | -5% |
-| Córners más/menos: Más de 9.5 | 47% | 46% | 46% | 2.00 | -7% |
-| Córners más/menos: Menos de 9.5 | 53% | 54% | 54% | 1.73 | -7% |
-| 1X2 descanso: 2 | 45% | 44% | 45% | 2.10 | -6% |
-| 1X2 descanso: X | 37% | 36% | 36% | 2.60 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

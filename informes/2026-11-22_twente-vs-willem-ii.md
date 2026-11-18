@@ -1,7 +1,7 @@
 # Twente – Willem II
 **Eredivisie** · Regular Season - 13 · 22/11/2026 12:15 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_
@@ -191,45 +191,3 @@ _Sin bajas comunicadas por ahora._
 | Justin Hoogma | D | 3 | 225 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,3 | 0 | 0 |
 | Karst de Leeuw | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | T. Didillon | G | 2 | 158 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 4,18 · visitante 0,67 · córners esperados 10,0._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 3% | 4% | 3% | 23.00 | -23% |
-| 1X2: X | 5% | 8% | 6% | 12.00 | -23% |
-| 1X2: 1 | 92% | 88% | 90% | 1.06 | -4% |
-| Doble oportunidad: X2 | 8% | 10% | 9% | 10.00 | -13% |
-| Doble oportunidad: 12 | 95% | 93% | 94% | 1.05 | -1% |
-| Doble oportunidad: 1X | 97% | 97% | 97% | 1.01 | -2% |
-| Ambos marcan: No | 52% | 56% | 54% | 1.67 | -10% |
-| Ambos marcan: Sí | 48% | 44% | 46% | 2.10 | -3% |
-| Goles más/menos: Más de 2.5 | 86% | 78% | 82% | 1.20 | -1% |
-| Goles más/menos: Más de 3.5 | 71% | 61% | 66% | 1.53 | +1% |
-| Goles más/menos: Más de 4.5 | 53% | 42% | 48% | 2.20 | +5% |
-| Goles más/menos: Más de 5.5 | 36% | 27% | 31% | 3.50 | +10% |
-| Goles más/menos: Menos de 2.5 | 14% | 22% | 18% | 4.33 | -23% |
-| Goles más/menos: Menos de 3.5 | 29% | 39% | 34% | 2.38 | -19% |
-| Goles más/menos: Menos de 4.5 | 47% | 58% | 52% | 1.62 | -16% |
-| Goles más/menos: Menos de 5.5 | 64% | 73% | 69% | 1.28 | -12% |
-| Goles 1ª parte más/menos: Más de 1.5 | 62% | 58% | 60% | 1.62 | -3% |
-| Goles 1ª parte más/menos: Más de 2.5 | 35% | 31% | 33% | 3.00 | -0% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 38% | 42% | 40% | 2.20 | -12% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 65% | 69% | 67% | 1.36 | -9% |
-| Goles del local: Más de 2.5 | 79% | 71% | 75% | 1.33 | -0% |
-| Goles del local: Más de 3.5 | 60% | 50% | 55% | 1.83 | +1% |
-| Goles del local: Más de 4.5 | 41% | 31% | 36% | 3.00 | +8% |
-| Goles del local: Menos de 2.5 | 21% | 29% | 25% | 3.25 | -18% |
-| Goles del local: Menos de 3.5 | 40% | 50% | 45% | 1.83 | -18% |
-| Goles del local: Menos de 4.5 | 59% | 69% | 64% | 1.36 | -13% |
-| Goles del visitante: Más de 0.5 | 49% | 44% | 47% | 2.10 | -2% |
-| Goles del visitante: Menos de 0.5 | 51% | 56% | 53% | 1.67 | -11% |
-| Córners más/menos: Más de 10.5 | 41% | 51% | 46% | 1.85 | -14% |
-| Córners más/menos: Menos de 10.5 | 59% | 49% | 54% | 1.95 | +5% |
-| 1X2 descanso: X | 19% | 23% | 21% | 4.00 | -15% |
-| 1X2 descanso: 1 | 75% | 72% | 73% | 1.28 | -6% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

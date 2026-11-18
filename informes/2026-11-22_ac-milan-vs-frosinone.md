@@ -1,7 +1,7 @@
 # AC Milan – Frosinone
 **Serie A** · Regular Season - 12 · 22/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
@@ -190,45 +190,3 @@ _Sin bajas comunicadas por ahora._
 | E. Tchato | D | 4 | 216 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 0 | 0 |
 | L. Hasa | M | 6 | 193 | 0 | 1 | 8 | 1,3 | 3 | 0,5 | 4 | 9 | 1,5 | 0 | 0 |
 | Kevin Akpoguma | D | 2 | 129 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,15 · visitante 1,50 · córners esperados 9,4._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 27% | 17% | 22% | 5.50 | +20% |
-| 1X2: X | 21% | 21% | 21% | 4.33 | -9% |
-| 1X2: 1 | 53% | 62% | 57% | 1.50 | -14% |
-| Doble oportunidad: X2 ✅ | 47% | 38% | 43% | 2.50 | +7% |
-| Doble oportunidad: 12 | 79% | 79% | 79% | 1.20 | -5% |
-| Doble oportunidad: 1X | 73% | 83% | 78% | 1.14 | -11% |
-| Ambos marcan: No | 31% | 35% | 33% | 2.62 | -13% |
-| Ambos marcan: Sí | 69% | 65% | 67% | 1.44 | -4% |
-| Goles más/menos: Más de 2.5 | 71% | 70% | 70% | 1.36 | -4% |
-| Goles más/menos: Más de 3.5 | 50% | 50% | 50% | 1.91 | -5% |
-| Goles más/menos: Más de 4.5 | 30% | 30% | 30% | 3.20 | -4% |
-| Goles más/menos: Menos de 2.5 | 29% | 30% | 30% | 3.20 | -5% |
-| Goles más/menos: Menos de 3.5 | 50% | 50% | 50% | 1.91 | -4% |
-| Goles más/menos: Menos de 4.5 | 70% | 70% | 70% | 1.36 | -5% |
-| Goles 1ª parte más/menos: Más de 0.5 | 80% | 78% | 79% | 1.20 | -5% |
-| Goles 1ª parte más/menos: Más de 1.5 | 47% | 49% | 48% | 1.91 | -9% |
-| Goles 1ª parte más/menos: Más de 2.5 | 21% | 23% | 22% | 4.00 | -11% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 20% | 22% | 21% | 4.33 | -9% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 53% | 51% | 52% | 1.80 | -6% |
-| Goles 1ª parte más/menos: Menos de 2.5 | 79% | 77% | 78% | 1.22 | -5% |
-| Goles del local: Más de 1.5 | 63% | 69% | 66% | 1.36 | -10% |
-| Goles del local: Más de 2.5 | 37% | 44% | 40% | 2.10 | -15% |
-| Goles del local: Más de 3.5 | 17% | 23% | 20% | 4.00 | -19% |
-| Goles del local: Menos de 1.5 | 37% | 31% | 34% | 3.00 | +2% |
-| Goles del local: Menos de 2.5 | 63% | 56% | 60% | 1.67 | -0% |
-| Goles del local: Menos de 3.5 | 83% | 77% | 80% | 1.22 | -3% |
-| Goles del visitante: Más de 0.5 | 78% | 71% | 74% | 1.33 | -1% |
-| Goles del visitante: Más de 1.5 | 44% | 35% | 40% | 2.62 | +4% |
-| Goles del visitante: Menos de 0.5 | 22% | 29% | 26% | 3.25 | -17% |
-| Goles del visitante: Menos de 1.5 | 56% | 65% | 60% | 1.44 | -13% |
-| Córners más/menos: Más de 9.5 | 44% | 46% | 45% | 2.00 | -9% |
-| Córners más/menos: Menos de 9.5 | 56% | 54% | 55% | 1.73 | -5% |
-| 1X2 descanso: X | 35% | 34% | 34% | 2.75 | -6% |
-| 1X2 descanso: 1 | 41% | 48% | 44% | 1.95 | -14% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

@@ -1,7 +1,7 @@
 # Como – Cagliari
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_
@@ -187,41 +187,3 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 | Y. Massolin | M | 3 | 147 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 1,0 | 0 | 0 |
 | Mattia Felici | F | 4 | 133 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 2 | 1 | 0,2 | 0 | 0 |
 | R. Ciervo | F | 3 | 114 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 0 | 1 | 0,3 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 2,17 · visitante 0,68 · córners esperados 9,7._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 10% | 9% | 10% | 10.00 | -2% |
-| 1X2: X | 18% | 16% | 17% | 6.00 | +1% |
-| 1X2: 1 | 72% | 75% | 73% | 1.25 | -8% |
-| Doble oportunidad: X2 | 28% | 25% | 27% | 3.75 | +0% |
-| Doble oportunidad: 12 | 82% | 85% | 83% | 1.12 | -7% |
-| Doble oportunidad: 1X | 90% | 90% | 90% | 1.06 | -5% |
-| Ambos marcan: No | 56% | 52% | 54% | 1.80 | -2% |
-| Ambos marcan: Sí | 44% | 48% | 46% | 1.95 | -11% |
-| Goles más/menos: Más de 2.5 | 54% | 62% | 58% | 1.53 | -11% |
-| Goles más/menos: Más de 3.5 | 32% | 41% | 37% | 2.30 | -16% |
-| Goles más/menos: Más de 4.5 | 16% | 24% | 20% | 4.00 | -20% |
-| Goles más/menos: Menos de 2.5 | 46% | 38% | 42% | 2.50 | +5% |
-| Goles más/menos: Menos de 3.5 | 68% | 59% | 63% | 1.62 | +3% |
-| Goles más/menos: Menos de 4.5 | 84% | 76% | 80% | 1.25 | +0% |
-| Goles 1ª parte más/menos: Más de 0.5 | 71% | 75% | 73% | 1.25 | -9% |
-| Goles 1ª parte más/menos: Más de 1.5 | 35% | 42% | 39% | 2.20 | -15% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 29% | 25% | 27% | 3.75 | +1% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 65% | 58% | 61% | 1.62 | -1% |
-| Goles del local: Más de 1.5 | 64% | 71% | 67% | 1.33 | -10% |
-| Goles del local: Más de 2.5 | 37% | 46% | 42% | 2.00 | -17% |
-| Goles del local: Más de 3.5 | 18% | 25% | 21% | 3.75 | -20% |
-| Goles del local: Menos de 1.5 | 36% | 29% | 33% | 3.25 | +6% |
-| Goles del local: Menos de 2.5 | 63% | 54% | 58% | 1.73 | +1% |
-| Goles del local: Menos de 3.5 | 82% | 75% | 79% | 1.25 | -2% |
-| Goles del visitante: Más de 0.5 | 49% | 51% | 50% | 1.80 | -9% |
-| Goles del visitante: Menos de 0.5 | 51% | 49% | 50% | 1.91 | -5% |
-| Córners más/menos: Más de 9.5 | 47% | 48% | 47% | 1.98 | -6% |
-| Córners más/menos: Menos de 9.5 | 53% | 52% | 53% | 1.82 | -4% |
-| 1X2 descanso: X | 38% | 34% | 36% | 2.75 | -2% |
-| 1X2 descanso: 1 | 51% | 55% | 53% | 1.67 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

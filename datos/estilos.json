@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17 20:15",
+ "generado": "2026-11-18 02:25",
  "estilos": {
   "datos-rachas": {
    "nota": 0.927,
@@ -38,10 +38,10 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 1.95,
-   "posts_threads": 20,
-   "resultados": 2,
-   "verdes": 1
+   "nota": 2.114,
+   "posts_threads": 21,
+   "resultados": 3,
+   "verdes": 2
   },
   "combi-liga": {
    "nota": 1.263,
@@ -50,9 +50,9 @@
    "verdes": 0
   },
   "combi-tres": {
-   "nota": 1.035,
+   "nota": 1.11,
    "posts_threads": 14,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1550167": {
@@ -128,9 +128,9 @@
    "verdes": 0
   },
   "combi-500": {
-   "nota": 1.193,
+   "nota": 1.318,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1575204": {
@@ -254,9 +254,9 @@
    "verdes": 0
   },
   "combi-multi": {
-   "nota": 1.025,
+   "nota": 1.1,
    "posts_threads": 7,
-   "resultados": 2,
+   "resultados": 1,
    "verdes": 0
   },
   "combi-partido-1635745": {
@@ -331,16 +331,10 @@
    "resultados": 0,
    "verdes": 0
   },
-  "picks-manana": {
-   "nota": 1.65,
-   "posts_threads": 0,
-   "resultados": 2,
-   "verdes": 1
-  },
   "ganadores-win-2": {
-   "nota": 1.389,
+   "nota": 1.514,
    "posts_threads": 2,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "combi-partido-1557463": {
@@ -400,6 +394,12 @@
   "combi-partido-1552815": {
    "nota": 1.03,
    "posts_threads": 1,
+   "resultados": 1,
+   "verdes": 0
+  },
+  "picks-manana": {
+   "nota": 0.875,
+   "posts_threads": 0,
    "resultados": 1,
    "verdes": 0
   },
@@ -536,8 +536,8 @@
    "verdes": 0
   },
   "loca-th-1500-duelo": {
-   "nota": 0.927,
-   "posts_threads": 1,
+   "nota": 0.9,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
@@ -554,8 +554,8 @@
    "verdes": 0
   },
   "loca-th-1700-escudos": {
-   "nota": 1.03,
-   "posts_threads": 1,
+   "nota": 1.187,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
@@ -596,13 +596,109 @@
    "verdes": 0
   },
   "loca-th-noche-2100-x100": {
-   "nota": 0.924,
-   "posts_threads": 1,
+   "nota": 0.846,
+   "posts_threads": 2,
    "resultados": 0,
    "verdes": 0
   },
   "loca-th-noche-2130-ganaambos": {
-   "nota": 0.875,
+   "nota": 0.8,
+   "posts_threads": 2,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-0800-empates": {
+   "nota": 1.292,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-0900-reto": {
+   "nota": 0.97,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-0930-tiros": {
+   "nota": 1.059,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1000-lista-corners": {
+   "nota": 1.04,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1130-duelo": {
+   "nota": 0.956,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1200-x100": {
+   "nota": 1.375,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1230-x50": {
+   "nota": 1.375,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1300-tapados": {
+   "nota": 1.009,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1400-lista-corners": {
+   "nota": 1.012,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1430-x500": {
+   "nota": 0.979,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1530-lista-corners": {
+   "nota": 0.977,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1600-x500": {
+   "nota": 1.331,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1630-escudos": {
+   "nota": 1.044,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1730-lista-corners": {
+   "nota": 0.946,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1830-tiros": {
+   "nota": 0.99,
+   "posts_threads": 1,
+   "resultados": 0,
+   "verdes": 0
+  },
+  "loca-th-1900-x1000": {
+   "nota": 1.129,
    "posts_threads": 1,
    "resultados": 0,
    "verdes": 0

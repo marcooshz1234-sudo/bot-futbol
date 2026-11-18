@@ -1,10 +1,10 @@
 # Kolding IF – Aalborg
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Autocentralen Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 14:14_
+_Actualizadas: 18/11 02:22_
 
 - **1X2:** 1 **2.88**  ·  X **3.50**  ·  2 **2.25**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.28**  ·  X2 **1.40**
@@ -135,44 +135,3 @@ _Sin bajas comunicadas por ahora._
 ## Jugadores de Aalborg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-## Probabilidades del modelo
-_Goles esperados: local 1,27 · visitante 1,08._
-
-_Datos poco comparables para alguno de los equipos (pocos partidos en las grandes ligas): se muestran las probabilidades pero no se recomiendan apuestas._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 32% | 41% | 36% | 2.25 | -18% |
-| 1X2: X | 28% | 27% | 27% | 3.50 | -5% |
-| 1X2: 1 | 41% | 32% | 36% | 2.88 | +5% |
-| Doble oportunidad: X2 | 59% | 68% | 64% | 1.40 | -11% |
-| Doble oportunidad: 12 | 72% | 74% | 73% | 1.28 | -7% |
-| Doble oportunidad: 1X | 68% | 58% | 63% | 1.62 | +3% |
-| Ambos marcan: No | 53% | 41% | 47% | 2.25 | +5% |
-| Ambos marcan: Sí | 47% | 59% | 53% | 1.57 | -16% |
-| Goles más/menos: Más de 1.5 | 68% | 78% | 73% | 1.20 | -12% |
-| Goles más/menos: Más de 2.5 | 42% | 56% | 49% | 1.67 | -18% |
-| Goles más/menos: Más de 3.5 | 21% | 35% | 28% | 2.62 | -26% |
-| Goles más/menos: Menos de 1.5 | 32% | 22% | 27% | 4.33 | +16% |
-| Goles más/menos: Menos de 2.5 | 58% | 44% | 51% | 2.15 | +10% |
-| Goles más/menos: Menos de 3.5 | 79% | 65% | 72% | 1.44 | +3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 64% | 72% | 68% | 1.30 | -11% |
-| Goles 1ª parte más/menos: Más de 1.5 | 27% | 38% | 32% | 2.50 | -19% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 36% | 28% | 32% | 3.40 | +8% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 73% | 62% | 68% | 1.50 | +1% |
-| Goles del local: Más de 0.5 | 72% | 73% | 73% | 1.28 | -7% |
-| Goles del local: Más de 1.5 | 36% | 41% | 39% | 2.25 | -13% |
-| Goles del local: Menos de 0.5 | 28% | 27% | 27% | 3.50 | -4% |
-| Goles del local: Menos de 1.5 | 64% | 59% | 61% | 1.57 | -4% |
-| Goles del visitante: Más de 0.5 | 66% | 78% | 72% | 1.20 | -13% |
-| Goles del visitante: Más de 1.5 | 29% | 46% | 38% | 2.00 | -24% |
-| Goles del visitante: Más de 2.5 | 10% | 22% | 16% | 4.33 | -32% |
-| Goles del visitante: Menos de 0.5 | 34% | 22% | 28% | 4.33 | +20% |
-| Goles del visitante: Menos de 1.5 | 71% | 54% | 62% | 1.73 | +7% |
-| Goles del visitante: Menos de 2.5 | 90% | 78% | 84% | 1.20 | +1% |
-| 1X2 descanso: 2 | 24% | 32% | 28% | 2.88 | -18% |
-| 1X2 descanso: X | 46% | 40% | 43% | 2.30 | -1% |
-| 1X2 descanso: 1 | 30% | 27% | 28% | 3.40 | -3% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

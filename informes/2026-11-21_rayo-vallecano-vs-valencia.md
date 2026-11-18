@@ -1,7 +1,7 @@
 # Rayo Vallecano – Valencia
 **LaLiga** · Regular Season - 13 · 21/11/2026 16:15 (hora España) · Campo de Futbol de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:27_
@@ -187,44 +187,3 @@ _Sin bajas comunicadas por ahora._
 | Ryunosuke Sato | M | 5 | 297 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 4 | 1 | 0,2 | 2 | 0 |
 | U. Sadiq | F | 5 | 246 | 2 | 0 | 6 | 1,2 | 6 | 1,2 | 6 | 2 | 0,4 | 0 | 0 |
 | Aliou Dieng | M | 6 | 244 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,39 · visitante 1,10 · córners esperados 9,7._
-
-| Apuesta | Modelo | Casa | Estimada | Cuota | Valor |
-|---|---|---|---|---|---|
-| 1X2: 2 | 30% | 24% | 27% | 3.90 | +4% |
-| 1X2: X | 27% | 27% | 27% | 3.40 | -8% |
-| 1X2: 1 | 44% | 49% | 46% | 1.91 | -12% |
-| Doble oportunidad: X2 | 56% | 52% | 54% | 1.83 | -1% |
-| Doble oportunidad: 12 | 73% | 73% | 73% | 1.30 | -5% |
-| Doble oportunidad: 1X | 70% | 76% | 73% | 1.25 | -9% |
-| Ambos marcan: No | 50% | 50% | 50% | 1.91 | -5% |
-| Ambos marcan: Sí | 50% | 50% | 50% | 1.91 | -4% |
-| Goles más/menos: Más de 1.5 | 71% | 72% | 71% | 1.33 | -5% |
-| Goles más/menos: Más de 2.5 | 45% | 47% | 46% | 2.00 | -7% |
-| Goles más/menos: Más de 3.5 | 24% | 27% | 26% | 3.50 | -11% |
-| Goles más/menos: Menos de 1.5 | 29% | 28% | 29% | 3.40 | -3% |
-| Goles más/menos: Menos de 2.5 | 55% | 53% | 54% | 1.80 | -3% |
-| Goles más/menos: Menos de 3.5 | 76% | 73% | 74% | 1.30 | -3% |
-| Goles 1ª parte más/menos: Más de 0.5 | 66% | 66% | 66% | 1.40 | -7% |
-| Goles 1ª parte más/menos: Más de 1.5 | 29% | 31% | 30% | 3.00 | -9% |
-| Goles 1ª parte más/menos: Menos de 0.5 | 34% | 34% | 34% | 2.75 | -7% |
-| Goles 1ª parte más/menos: Menos de 1.5 | 71% | 69% | 70% | 1.36 | -5% |
-| Goles del local: Más de 0.5 | 75% | 77% | 76% | 1.22 | -7% |
-| Goles del local: Más de 1.5 | 41% | 46% | 43% | 2.00 | -13% |
-| Goles del local: Más de 2.5 | 17% | 22% | 19% | 4.33 | -17% |
-| Goles del local: Menos de 0.5 | 25% | 23% | 24% | 4.00 | -4% |
-| Goles del local: Menos de 1.5 | 59% | 54% | 57% | 1.73 | -2% |
-| Goles del local: Menos de 2.5 | 83% | 78% | 81% | 1.20 | -3% |
-| Goles del visitante: Más de 0.5 | 67% | 62% | 65% | 1.50 | -3% |
-| Goles del visitante: Más de 1.5 | 30% | 27% | 28% | 3.50 | -1% |
-| Goles del visitante: Menos de 0.5 | 33% | 38% | 35% | 2.50 | -11% |
-| Goles del visitante: Menos de 1.5 | 70% | 73% | 72% | 1.28 | -8% |
-| Córners más/menos: Más de 9.5 | 46% | 54% | 50% | 1.73 | -14% |
-| Córners más/menos: Menos de 9.5 | 54% | 46% | 50% | 2.00 | +0% |
-| 1X2 descanso: 2 | 24% | 21% | 22% | 4.50 | +0% |
-| 1X2 descanso: X | 44% | 43% | 44% | 2.20 | -4% |
-| 1X2 descanso: 1 | 32% | 36% | 34% | 2.60 | -11% |
-
-_Estimada = mezcla de modelo y casa. ✅ = apuesta de valor._

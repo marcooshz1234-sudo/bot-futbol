@@ -1,7 +1,7 @@
 # Middlesbrough – Swansea
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · Riverside Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 17/11 20:10._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -137,8 +137,3 @@ _Sin bajas comunicadas por ahora._
 | J. Seelt | D | 7 | 331 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 0 | 4 | 0,6 | 0 | 0 |
 | Joseph Okopu | F | 4 | 248 | 1 | 1 | 7 | 1,8 | 2 | 0,5 | 1 | 1 | 0,2 | 0 | 0 |
 | Ronald | D | 6 | 216 | 2 | 1 | 6 | 1,0 | 3 | 0,5 | 2 | 3 | 0,5 | 1 | 0 |
-
-## Probabilidades del modelo
-_Goles esperados: local 1,78 · visitante 1,01 · córners esperados 9,5._
-
-_Sin cuotas de Bet365 todavía para comparar._
