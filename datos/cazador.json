@@ -55,6 +55,17 @@
    "edad_h": 0.0
   },
   {
+   "local": "Paris FC W",
+   "visitante": "Køge W",
+   "inicio": "2026-11-19T18:45",
+   "texto": "Paris FC W marca 2 o más",
+   "cuota": 1.62,
+   "justa": 1.64,
+   "ev": -0.014,
+   "fuente": "las otras casas",
+   "edad_h": 4.6
+  },
+  {
    "local": "Häcken W",
    "visitante": "Manchester City W",
    "inicio": "2026-11-18T18:45",
@@ -78,7 +89,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T12:32",
+  "hora": "2026-11-18T12:58",
   "revisadas": 0,
   "mejor": null
  },
