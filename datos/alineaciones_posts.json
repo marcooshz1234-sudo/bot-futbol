@@ -2718,13 +2718,149 @@
    "equipos": {}
   },
   "1644334": {
-   "hora": "2026-11-18T19:33:29.431001+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-18T19:44:52.118265+01:00",
+   "xi": [
+    "Borja Martí",
+    "Loren Fernández",
+    "Adolfo Romero",
+    "Javier Soler",
+    "José Solbes",
+    "Yosmel Zayas",
+    "Alejandro Alonso",
+    "Javier Mecerreyes",
+    "Pablo Carbonell",
+    "Guille Andrés",
+    "Tiko Iniesta",
+    "Iván Cuéllar",
+    "Miguel Calatayud",
+    "Martin Valjent",
+    "Aboubaka Soumahoro",
+    "Toni Lato",
+    "Justin-Noel Kalumba",
+    "Sergi Darder",
+    "Jandro García",
+    "Luis Orejuela",
+    "Adam Buksa",
+    "Abdón Prats"
+   ],
+   "banquillo": [
+    "Víctor Pacheco",
+    "Ivi Martínez",
+    "Mauro Pastor Soler",
+    "Bruno Serrano Domenech",
+    "Diego Rodríguez",
+    "Guillem Naranjo",
+    "Javi Masia",
+    "Cristian Filipov Bachev Tabachki",
+    "Saul Sempere Llata",
+    "Lucas Bergström",
+    "Iago Mendes Vicens",
+    "Alex Sala",
+    "Pablo Torre",
+    "Alejandro Yerga Gonzalez",
+    "Abdourahamane Diallo Conde",
+    "Arnau Puigmal",
+    "Oriol Tejada",
+    "Adrian Liso",
+    "Adrian Fuentes"
+   ],
+   "equipos": {
+    "9686": [
+     {
+      "n": "Borja Martí",
+      "pos": "G"
+     },
+     {
+      "n": "Loren Fernández",
+      "pos": "D"
+     },
+     {
+      "n": "Adolfo Romero",
+      "pos": "D"
+     },
+     {
+      "n": "Javier Soler",
+      "pos": "M"
+     },
+     {
+      "n": "José Solbes",
+      "pos": "D"
+     },
+     {
+      "n": "Yosmel Zayas",
+      "pos": "F"
+     },
+     {
+      "n": "Alejandro Alonso",
+      "pos": "D"
+     },
+     {
+      "n": "Javier Mecerreyes",
+      "pos": "M"
+     },
+     {
+      "n": "Pablo Carbonell",
+      "pos": "M"
+     },
+     {
+      "n": "Guille Andrés",
+      "pos": "F"
+     },
+     {
+      "n": "Tiko Iniesta",
+      "pos": "F"
+     }
+    ],
+    "798": [
+     {
+      "n": "Iván Cuéllar",
+      "pos": "G"
+     },
+     {
+      "n": "Miguel Calatayud",
+      "pos": "D"
+     },
+     {
+      "n": "Martin Valjent",
+      "pos": "D"
+     },
+     {
+      "n": "Aboubaka Soumahoro",
+      "pos": "D"
+     },
+     {
+      "n": "Toni Lato",
+      "pos": "D"
+     },
+     {
+      "n": "Justin-Noel Kalumba",
+      "pos": "M"
+     },
+     {
+      "n": "Sergi Darder",
+      "pos": "M"
+     },
+     {
+      "n": "Jandro García",
+      "pos": "M"
+     },
+     {
+      "n": "Luis Orejuela",
+      "pos": "D"
+     },
+     {
+      "n": "Adam Buksa",
+      "pos": "F"
+     },
+     {
+      "n": "Abdón Prats",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1644346": {
-   "hora": "2026-11-18T19:33:29.431001+01:00",
+   "hora": "2026-11-18T19:44:52.118265+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
