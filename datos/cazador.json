@@ -41,7 +41,7 @@
    "justa": 2.07,
    "ev": 0.037,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Alcoyano",
@@ -52,7 +52,7 @@
    "justa": 1.73,
    "ev": 0.0,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Juventus W",
@@ -63,11 +63,11 @@
    "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T18:38",
+  "hora": "2026-11-18T18:59",
   "revisadas": 0,
   "mejor": null
  },
