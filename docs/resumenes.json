@@ -2574,7 +2574,7 @@
       }
     ],
     "picks": {
-      "verde": 66,
+      "verde": 63,
       "rojo": 51,
       "total": 153
     },
@@ -2586,8 +2586,8 @@
     "cuentas": {
       "verde": 2,
       "rojo": 5,
-      "pendiente": 11,
-      "sin_datos": 4,
+      "pendiente": 6,
+      "sin_datos": 9,
       "no_jugo": 0,
       "sin_resolver": 15
     },
@@ -2595,7 +2595,7 @@
       {
         "id": "2026-11-18-ganadores-champions-fem",
         "titulo": "🏆 CHAMPIONS FEMENINA - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2667,13 +2667,13 @@
       {
         "id": "2026-11-18-loca-th-1630-escudos",
         "titulo": "🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 8.32
       },
       {
         "id": "2026-11-18-loca-th-1700-escudos",
         "titulo": "🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 6.3
       },
       {
@@ -2685,7 +2685,7 @@
       {
         "id": "2026-11-18-combi-favoritas",
         "titulo": "Combi de las favoritas de la Champions femenina 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2709,7 +2709,7 @@
       {
         "id": "2026-11-18-loca-th-1900-tiros",
         "titulo": "🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 5.12
       },
       {
@@ -2730,6 +2730,6 @@
       "rojo": 7,
       "total": 70
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 2 DE 7 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n✅ 🪜 Reto escalera · Día 2/7\n❔ 🔥 COMBI POR 19,46 🔥 · 19,46 · faltan datos\n❌ Vamos con la combi del miércoles familia 🔥\n❔ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · faltan datos\n❌ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❔ ⚽ LAS GOLEADORAS ⚽ · 7,54 · faltan datos\n⏳ 🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥 · 8,32 · pendiente\n⏳ 🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥 · 6,30 · pendiente\n❔ 💸 LA DE x10,82 💸 · 10,82 · faltan datos\n⏳ Combi de las favoritas de la Champions femenina 🔥 · pendiente\n❌ 😱 LOS SUSTOS DE COPA 😱 · 13,09\n✅ Vamos con el pick de la tarde, familia 👇\n❌ 💎 COMBI x42,93 💎 · 42,93\n⏳ 🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯 · 5,12 · pendiente\n⏳ 🔥 COMBI POR 19,18 🔥 · 19,18 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n\n✅ 2 acertadas · ❌ 5 falladas · ⏳ 15 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 2 DE 7 EN VERDE 📊\n\n❔ 🏆 CHAMPIONS FEMENINA - GANADORES · faltan datos\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n✅ 🪜 Reto escalera · Día 2/7\n❔ 🔥 COMBI POR 19,46 🔥 · 19,46 · faltan datos\n❌ Vamos con la combi del miércoles familia 🔥\n❔ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · faltan datos\n❌ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❔ ⚽ LAS GOLEADORAS ⚽ · 7,54 · faltan datos\n❔ 🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥 · 8,32 · faltan datos\n❔ 🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥 · 6,30 · faltan datos\n❔ 💸 LA DE x10,82 💸 · 10,82 · faltan datos\n❔ Combi de las favoritas de la Champions femenina 🔥 · faltan datos\n❌ 😱 LOS SUSTOS DE COPA 😱 · 13,09\n✅ Vamos con el pick de la tarde, familia 👇\n❌ 💎 COMBI x42,93 💎 · 42,93\n❔ 🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯 · 5,12 · faltan datos\n⏳ 🔥 COMBI POR 19,18 🔥 · 19,18 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n\n✅ 2 acertadas · ❌ 5 falladas · ⏳ 15 sin resolver"
   }
 }

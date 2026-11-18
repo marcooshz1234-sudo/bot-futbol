@@ -3416,7 +3416,12 @@
   "analisis": {
    "liga": "UEFA Champions League Women",
    "prob_cuota": 0.602
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "TipsAnalistas",
@@ -3482,7 +3487,12 @@
    "prob_cuota": 0.654,
    "prob_pinnacle": 0.607,
    "valor_pinnacle": -0.071
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   0
+  ]
  },
  {
   "tipster": "TipsPro🤙",
@@ -3507,6 +3517,34 @@
   "analisis": {
    "liga": "UEFA Champions League Women",
    "prob_cuota": 0.667
-  }
+  },
+  "estado": null,
+  "marcador": [
+   2,
+   0
+  ]
+ },
+ {
+  "tipster": "OC TIPSTER",
+  "fuente": "-1002538677212/5093",
+  "dia": "2026-11-17",
+  "local": "Wales",
+  "visitante": "Portugal",
+  "partido_id": 1528992,
+  "texto": "Gana el Portugal",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 2.65,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "prob_cuota": 0.377
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   3
+  ]
  }
 ]
