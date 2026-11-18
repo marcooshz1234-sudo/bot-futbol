@@ -8457,7 +8457,7 @@
     "cuotas": [
       1.9,
       1.73,
-      1.8,
+      1.73,
       1.8
     ],
     "solo_en": [
@@ -8469,7 +8469,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-18T02:16"
   },
   {
     "id": "2026-11-18-loca-th-0400-tiros",
