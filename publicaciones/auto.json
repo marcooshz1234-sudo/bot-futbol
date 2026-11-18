@@ -8871,7 +8871,7 @@
       "1638301|Both Teams Score|Yes"
     ],
     "cuotas": [
-      1.83,
+      1.67,
       1.83,
       1.83
     ],
@@ -8884,7 +8884,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T14:00"
   },
   {
     "id": "2026-11-18-loca-th-1600-duelo",
