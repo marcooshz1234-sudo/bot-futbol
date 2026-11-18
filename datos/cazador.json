@@ -33,6 +33,17 @@
  },
  "top": [
   {
+   "local": "Häcken W",
+   "visitante": "Manchester City W",
+   "inicio": "2026-11-18T18:45",
+   "texto": "Más de 1,5 goles en la 2ª parte del Häcken W–Manchester City W",
+   "cuota": 1.73,
+   "justa": 1.68,
+   "ev": 0.028,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
+  },
+  {
    "local": "Badajoz",
    "visitante": "Tenerife",
    "inicio": "2026-11-18T20:00",
@@ -41,18 +52,40 @@
    "justa": 2.07,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 4.1
+   "edad_h": 4.5
   },
   {
-   "local": "Real Madrid W",
-   "visitante": "Inter Milano W",
+   "local": "Häcken W",
+   "visitante": "Manchester City W",
    "inicio": "2026-11-18T18:45",
-   "texto": "Inter Milano W marca",
-   "cuota": 1.8,
-   "justa": 1.82,
-   "ev": -0.012,
+   "texto": "Manchester City W marca 3 o más",
+   "cuota": 2.0,
+   "justa": 1.97,
+   "ev": 0.013,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Häcken W",
+   "visitante": "Manchester City W",
+   "inicio": "2026-11-18T18:45",
+   "texto": "Häcken W marca",
+   "cuota": 1.73,
+   "justa": 1.76,
+   "ev": -0.015,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Häcken W",
+   "visitante": "Manchester City W",
+   "inicio": "2026-11-18T18:45",
+   "texto": "Ambos marcan en Häcken W–Manchester City W",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 4.1
+   "edad_h": 0.0
   },
   {
    "local": "Juventus W",
@@ -63,11 +96,11 @@
    "justa": 1.86,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 4.1
+   "edad_h": 4.5
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T06:29",
+  "hora": "2026-11-18T06:50",
   "revisadas": 0,
   "mejor": null
  },
