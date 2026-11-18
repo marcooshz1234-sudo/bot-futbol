@@ -8826,5 +8826,36 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-18-verde-auto-2026-11-18-combi-favoritas",
+    "fecha": "2026-11-18T23:16",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Real Madrid (fem.)\n✅ Gana el Manchester City (fem.)\n✅ Gana el Chelsea (fem.)\n✅ Gana el Juventus (fem.)\n\n📈 Cuota @2,62",
+    "foto": "publicaciones/media/2026-11-18-verde-auto-2026-11-18-combi-favoritas.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-18-combi-favoritas",
+    "solo_en": [
+      "telegram"
+    ],
+    "enviado": "2026-11-18T23:17",
+    "mensaje_id": 544
+  },
+  {
+    "id": "2026-11-18-balance-auto",
+    "fecha": "2026-11-18T23:17",
+    "texto": "📊 RESUMEN DEL MIÉRCOLES 🍀\n\n✅ 3 de 4 picks en verde\n\n😤 Se nos escaparon:\n🔸 Combi de 2 (se cayó por: Häcken (fem.) marca) · Häcken (fem.) 0–2 Manchester City (fem.)\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-18-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "requiere_ok": true,
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
   }
 ]
