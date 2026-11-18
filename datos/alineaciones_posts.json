@@ -77,6 +77,7 @@
   "2026-11-17-loca-th-1830-tiros|Rafael Leao: 3+ tiros",
   "2026-11-17-loca-th-1830-tiros|Rodrigo Mora: 3+ tiros",
   "2026-11-17-loca-th-1900-x1000|Dzenis Burnic: 2+ tiros",
+  "2026-11-18-loca-th-1300-x100|Annamaria Serturini: 3+ tiros",
   "2026-11-18-loca-th-1300-x100|Khadija Shaw marca",
   "2026-11-18-loca-th-1300-x100|Signe Bruun marca",
   "2026-11-18-loca-th-1430-escudos|Elisa Senss: 2+ tiros",
@@ -89,7 +90,17 @@
   "2026-11-18-loca-th-1545-goleadoras|Khadija Shaw marca",
   "2026-11-18-loca-th-1545-goleadoras|Signe Bruun marca",
   "2026-11-18-loca-th-1600-duelo|Laura Blindkilde: 2+ tiros",
+  "2026-11-18-loca-th-1630-escudos|Mayra Ramirez: 4+ tiros",
+  "2026-11-18-loca-th-1630-escudos|Melvine Malard: 4+ tiros",
+  "2026-11-18-loca-th-1700-escudos|Emma Godo: 2+ tiros",
+  "2026-11-18-loca-th-1700-escudos|Kysha Sylla: 2+ tiros",
   "2026-11-18-loca-th-1730-x50|Khadija Shaw marca",
+  "2026-11-18-loca-th-1900-tiros|Anouk Van Praet: 2+ tiros",
+  "2026-11-18-loca-th-1900-tiros|Emma Godo: 2+ tiros",
+  "2026-11-18-loca-th-1900-tiros|Kysha Sylla: 2+ tiros",
+  "2026-11-18-loca-th-1930-duelo|Anouk Van Praet: 2+ tiros",
+  "2026-11-18-loca-th-1930-duelo|Emma Godo: 2+ tiros",
+  "2026-11-18-loca-th-2030-duelo|Annamaria Serturini: 3+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -2121,16 +2132,293 @@
    }
   },
   "1638301": {
-   "hora": "2026-11-18T20:25:04.411482+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-18T20:35:29.736506+01:00",
+   "xi": [
+    "H. Hampton",
+    "N. Björn",
+    "K. McCabe",
+    "V. Buurman",
+    "E. Carpenter",
+    "K. Walsh",
+    "L. Potter",
+    "A. Thompson",
+    "W. Kaptein",
+    "A. Beever-Jones",
+    "S. Baltimore",
+    "K. Kiedrzynek",
+    "Belinha",
+    "G. Mbock Bathy",
+    "T. Samoura",
+    "T. Elimbi",
+    "O. Echegini",
+    "J. Groenen",
+    "E. ÃsterÃ¥s",
+    "J. Le Guilly",
+    "N. Feller",
+    "M. Kanjinga"
+   ],
+   "banquillo": [
+    "E. Cuthbert",
+    "K. Buchanan",
+    "L. Brown",
+    "G. Dragoni",
+    "M. Hamano",
+    "N. Las",
+    "S. Nüsken",
+    "L. Peng",
+    "R. Spencer",
+    "L. Bronze",
+    "Olga Carmona",
+    "A. Charlier",
+    "P. Dudek",
+    "N. Fatier",
+    "Yaya",
+    "Katia Imarazene",
+    "F. Jourde",
+    "M. Lafontaine",
+    "G. Le Roux",
+    "L. Morissaint",
+    "O. Szperkowska",
+    "O. Toussaint"
+   ],
+   "equipos": {
+    "1853": [
+     {
+      "n": "H. Hampton",
+      "pos": "G"
+     },
+     {
+      "n": "N. Björn",
+      "pos": "D"
+     },
+     {
+      "n": "K. McCabe",
+      "pos": "D"
+     },
+     {
+      "n": "V. Buurman",
+      "pos": "D"
+     },
+     {
+      "n": "E. Carpenter",
+      "pos": "M"
+     },
+     {
+      "n": "K. Walsh",
+      "pos": "M"
+     },
+     {
+      "n": "L. Potter",
+      "pos": "M"
+     },
+     {
+      "n": "A. Thompson",
+      "pos": "M"
+     },
+     {
+      "n": "W. Kaptein",
+      "pos": "F"
+     },
+     {
+      "n": "A. Beever-Jones",
+      "pos": "F"
+     },
+     {
+      "n": "S. Baltimore",
+      "pos": "F"
+     }
+    ],
+    "1667": [
+     {
+      "n": "K. Kiedrzynek",
+      "pos": "G"
+     },
+     {
+      "n": "Belinha",
+      "pos": "D"
+     },
+     {
+      "n": "G. Mbock Bathy",
+      "pos": "D"
+     },
+     {
+      "n": "T. Samoura",
+      "pos": "D"
+     },
+     {
+      "n": "T. Elimbi",
+      "pos": "D"
+     },
+     {
+      "n": "O. Echegini",
+      "pos": "M"
+     },
+     {
+      "n": "J. Groenen",
+      "pos": "M"
+     },
+     {
+      "n": "E. ÃsterÃ¥s",
+      "pos": "M"
+     },
+     {
+      "n": "J. Le Guilly",
+      "pos": "M"
+     },
+     {
+      "n": "N. Feller",
+      "pos": "F"
+     },
+     {
+      "n": "M. Kanjinga",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1638312": {
-   "hora": "2026-11-18T20:25:04.411482+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-18T20:35:29.736506+01:00",
+   "xi": [
+    "L. Rusek",
+    "M. Lenzini",
+    "M. Rosucci",
+    "C. Salvai",
+    "Estela Carbonell",
+    "M. Hayashi",
+    "E. Schatzer",
+    "J. Bartel",
+    "D. Noordman",
+    "Alba Redondo",
+    "R. Chiba",
+    "L. Seynhaeve",
+    "K. Everaerts",
+    "S. Gielen",
+    "K. Smit",
+    "Saar Janssen",
+    "J. Kuijpers",
+    "J. Biesmans",
+    "L. Hoekx",
+    "A. Bosteels",
+    "I. Papatheodorou",
+    "J. Conijnenberg"
+   ],
+   "banquillo": [
+    "D. de Jong",
+    "Cristina Librán",
+    "L. Khelifi",
+    "Ornella Graziani",
+    "Tatiana Pinto",
+    "A. Mallardi",
+    "M. Pavan",
+    "Amaiur Sarriegi",
+    "A. Serturini",
+    "K. Sylla",
+    "J. Demol",
+    "M. Heremans",
+    "F. Hermans",
+    "C. Lafaix",
+    "F. Lammertijn",
+    "V. Nagy",
+    "N. Neyrinck",
+    "A. Ollivier",
+    "A. Vanholderbeke",
+    "Lili Verstrepen",
+    "I. Dekker"
+   ],
+   "equipos": {
+    "1886": [
+     {
+      "n": "L. Rusek",
+      "pos": "G"
+     },
+     {
+      "n": "M. Lenzini",
+      "pos": "D"
+     },
+     {
+      "n": "M. Rosucci",
+      "pos": "D"
+     },
+     {
+      "n": "C. Salvai",
+      "pos": "D"
+     },
+     {
+      "n": "Estela Carbonell",
+      "pos": "D"
+     },
+     {
+      "n": "M. Hayashi",
+      "pos": "M"
+     },
+     {
+      "n": "E. Schatzer",
+      "pos": "M"
+     },
+     {
+      "n": "J. Bartel",
+      "pos": "M"
+     },
+     {
+      "n": "D. Noordman",
+      "pos": "F"
+     },
+     {
+      "n": "Alba Redondo",
+      "pos": "F"
+     },
+     {
+      "n": "R. Chiba",
+      "pos": "F"
+     }
+    ],
+    "1790": [
+     {
+      "n": "L. Seynhaeve",
+      "pos": "G"
+     },
+     {
+      "n": "K. Everaerts",
+      "pos": "D"
+     },
+     {
+      "n": "S. Gielen",
+      "pos": "D"
+     },
+     {
+      "n": "K. Smit",
+      "pos": "D"
+     },
+     {
+      "n": "Saar Janssen",
+      "pos": "D"
+     },
+     {
+      "n": "J. Kuijpers",
+      "pos": "M"
+     },
+     {
+      "n": "J. Biesmans",
+      "pos": "M"
+     },
+     {
+      "n": "L. Hoekx",
+      "pos": "M"
+     },
+     {
+      "n": "A. Bosteels",
+      "pos": "M"
+     },
+     {
+      "n": "I. Papatheodorou",
+      "pos": "F"
+     },
+     {
+      "n": "J. Conijnenberg",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }
