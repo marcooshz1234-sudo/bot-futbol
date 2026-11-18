@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 14:21",
+ "actualizado": "2026-11-18 14:31",
  "redes": {
   "instagram": {
    "seguidores": 49,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 476,
-   "hoy": 5,
+   "seguidores": 475,
+   "hoy": 4,
    "serie": [
     391,
     401,
@@ -50,17 +50,17 @@
     411,
     439,
     471,
-    476
+    475
    ]
   }
  },
- "total": 3729,
- "total_hoy": 49,
+ "total": 3728,
+ "total_hoy": 48,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:30",
+  "hora": "15:00",
   "dia": "2026-11-18",
-  "titulo": "Combi real madrid (fem.) – inter milan"
+  "titulo": "Combi häcken (fem.) – manchester city "
  },
  "ayer": {
   "aciertos": 3,
@@ -230,7 +230,7 @@
    "instagram": 49,
    "threads": 3203,
    "facebook": 1,
-   "telegram": 476
+   "telegram": 475
   }
  },
  "tipos_instagram": {

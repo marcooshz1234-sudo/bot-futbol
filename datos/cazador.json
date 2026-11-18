@@ -41,7 +41,18 @@
    "justa": 1.7,
    "ev": 0.015,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
+  },
+  {
+   "local": "Alcoyano",
+   "visitante": "Mallorca",
+   "inicio": "2026-11-18T20:00",
+   "texto": "Mallorca marca 2 o más",
+   "cuota": 1.73,
+   "justa": 1.73,
+   "ev": 0.0,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Real Madrid W",
@@ -52,7 +63,7 @@
    "justa": 1.82,
    "ev": -0.012,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Paris FC W",
@@ -63,7 +74,7 @@
    "justa": 1.64,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 5.8
+   "edad_h": 6.1
   },
   {
    "local": "Häcken W",
@@ -74,7 +85,7 @@
    "justa": 1.59,
    "ev": -0.014,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Juventus W",
@@ -85,11 +96,11 @@
    "justa": 2.03,
    "ev": -0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T14:11",
+  "hora": "2026-11-18T14:31",
   "revisadas": 0,
   "mejor": null
  },
