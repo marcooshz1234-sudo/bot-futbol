@@ -9382,20 +9382,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16240",
-   "fecha": "2026-11-08T22:58",
-   "texto": "💔💔💔💔💔💔💔💔💔💔",
-   "foto": false,
-   "visto": "2026-11-10T16:47"
-  },
-  {
-   "id": "-1001393609245/16242",
-   "fecha": "2026-11-08T23:02",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-10T16:47"
-  },
-  {
    "id": "-1001393609245/16244",
    "fecha": "2026-11-08T23:14",
    "texto": "Las amarillas una vez ha pitado el final no cuentan , asique nada se quedó a 1 .",
@@ -10860,6 +10846,21 @@
    "foto": true,
    "visto": "2026-11-18T04:16",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16446.jpg"
+  },
+  {
+   "id": "-1001393609245/16447",
+   "fecha": "2026-11-18T05:41",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-18T05:47",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16447.jpg"
+  },
+  {
+   "id": "-1001393609245/16448",
+   "fecha": "2026-11-18T05:43",
+   "texto": "✅ 1ª EDICIÓN NOVIEMBRE ✅\n✅ 2ª EDICIÓN NOVIEMBRE ✅\n✅ 3ª EDICIÓN NOVIEMBRE ✅\n✅ 4ª EDICIÓN NOVIEMBRE ✅ \n✅ 5ª EDICIÓN NOVIEMBRE ✅\n✅ 6ª EDICIÓN NOVIEMBRE ✅\n✅ 7ª EDICIÓN NOVIEMBRE ✅\n✅ 8ª EDICIÓN NOVIEMBRE ✅\n✅ 9ª EDICIÓN NOVIEMBRE ✅\n✅ 10ª EDICIÓN NOVIEMBRE ✅\n✅ 11ª EDICIÓN NOVIEMBRE ✅",
+   "foto": false,
+   "visto": "2026-11-18T05:47"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
