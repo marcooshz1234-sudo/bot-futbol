@@ -2860,10 +2860,144 @@
    }
   },
   "1644346": {
-   "hora": "2026-11-18T19:44:52.118265+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-18T19:55:22.523145+01:00",
+   "xi": [
+    "Sergio Tienza Valverde",
+    "Jesús Ocaña",
+    "Jesús Sánchez",
+    "Lolo González",
+    "Franc Mateu",
+    "Nacho Sánchez",
+    "Ángel Guerrero González",
+    "Julen Agirre",
+    "Guille Perero",
+    "Manuel Hernández Suárez",
+    "Jose Bermúdez",
+    "Gabriel De Vuyst",
+    "Roko Jureškin",
+    "José León",
+    "Jorge Moreno",
+    "Marc Mateu",
+    "Martin Pečar",
+    "Mauro Pittón",
+    "Juanjo Sánchez",
+    "Gerard Valentín",
+    "Anes Krdžalić",
+    "Grant-Leon Ranos"
+   ],
+   "banquillo": [
+    "Alonso Pérez Viniegra",
+    "Iván Morales",
+    "Gustavo Francisco Gasperini",
+    "Eduardo López",
+    "Aquíles Mansilla",
+    "Pablo Ollero Gomez",
+    "Jorge Barba",
+    "Carlos Beitia",
+    "Alberto Cerro Floriano",
+    "Dani Martín",
+    "Neal Viereck",
+    "César Álvarez",
+    "Iván Chapela",
+    "Jesús Álvarez",
+    "Víctor Moreno",
+    "Christian Gomis",
+    "Óscar Bazaga"
+   ],
+   "equipos": {
+    "9382": [
+     {
+      "n": "Sergio Tienza Valverde",
+      "pos": "G"
+     },
+     {
+      "n": "Jesús Ocaña",
+      "pos": "D"
+     },
+     {
+      "n": "Jesús Sánchez",
+      "pos": "D"
+     },
+     {
+      "n": "Lolo González",
+      "pos": "M"
+     },
+     {
+      "n": "Franc Mateu",
+      "pos": "D"
+     },
+     {
+      "n": "Nacho Sánchez",
+      "pos": "M"
+     },
+     {
+      "n": "Ángel Guerrero González",
+      "pos": "M"
+     },
+     {
+      "n": "Julen Agirre",
+      "pos": "M"
+     },
+     {
+      "n": "Guille Perero",
+      "pos": "M"
+     },
+     {
+      "n": "Manuel Hernández Suárez",
+      "pos": "F"
+     },
+     {
+      "n": "Jose Bermúdez",
+      "pos": "F"
+     }
+    ],
+    "719": [
+     {
+      "n": "Gabriel De Vuyst",
+      "pos": "G"
+     },
+     {
+      "n": "Roko Jureškin",
+      "pos": "D"
+     },
+     {
+      "n": "José León",
+      "pos": "D"
+     },
+     {
+      "n": "Jorge Moreno",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Mateu",
+      "pos": "D"
+     },
+     {
+      "n": "Martin Pečar",
+      "pos": "F"
+     },
+     {
+      "n": "Mauro Pittón",
+      "pos": "M"
+     },
+     {
+      "n": "Juanjo Sánchez",
+      "pos": "M"
+     },
+     {
+      "n": "Gerard Valentín",
+      "pos": "M"
+     },
+     {
+      "n": "Anes Krdžalić",
+      "pos": "M"
+     },
+     {
+      "n": "Grant-Leon Ranos",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1638301": {
    "hora": "2026-11-18T19:50:15.130936+01:00",
