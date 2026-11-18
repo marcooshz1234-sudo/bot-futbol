@@ -139,7 +139,7 @@
 ## 8. Verdes y rojos
 - ⚙️ **Acierto de Threads → comentario en ese mismo post (18/11, Marcos: «cuando aciertes una de threads lo vas a poner en el comentario de la misma publicación»):** todas, también listas y cuotas bajas; sale solo, sin esperar al OK (redes.verde_en_su_hilo, verdes_auto; test_threads_verde_comentario). Con jugador que no juega: «han entrado todas, X no jugó y baja un poco».
 - ⚙️ Los verdes llevan la cuota de la publicación. Solo salen cuando terminan los partidos (o 10 min en verde).
-- 🤖 **Los verdes, siempre con las banderas o escudos de cada partido** (17/11: la escalera Dinamarca–Noruega salió sin ellas; fotos.insignias).
+- 🤖 **Los verdes, siempre con las banderas o escudos de cada partido** (17/11: la escalera Dinamarca–Noruega salió sin ellas; fotos.insignias) 18/11 (Marcos: «siempre revisa eso»): un verde sin foto ya no sale en ninguna red (comprobar_post.verde_sin_escudos; test_verde_con_escudos).
 - ⚙️ Pata anulada (aplazado, jugador que no juega): se quita y la cuota se rehace, como paga bet365.
 - ⚙️ **El aviso de «¡VERDE!» solo para verdes de verdad (13/11):** un post que se para para enseñárselo a Marcos le llega como «⏸️ Post en espera», nunca como verde (asistente.py + test_aviso_espera).
 - ⚙️ **Verdes seguros salen solos** (12/11: «los acertados que los suba de una, ni pregunte, pero tiene que estar seguro»):

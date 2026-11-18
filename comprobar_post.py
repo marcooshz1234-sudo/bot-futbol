@@ -333,8 +333,24 @@ def _es_resultado(p):
     return bool(p.get("resultado") or p.get("verde_de") or re.search(r"-(verde|rojo|balance|resumen)-", p.get("id", "")))
 
 
+def verde_sin_escudos(p):
+    """18/11 (Marcos: «no salen los escudos de los equipos, siempre revisa eso»): los 5 aciertos de Threads de ayer que
+    metió Claude a mano salieron como comentario sin foto. Un verde (no rojo/balance/resumen) siempre con su foto
+    (tarjeta con banderas/escudos); sin ella no sale."""
+    pid = p.get("id", "")
+    if not (p.get("verde_de") or p.get("resultado") == "verde") or re.search(r"-(rojo|balance|resumen)(-|$)", pid):
+        return None
+    foto = p.get("foto")
+    if foto and (RAIZ / foto).exists():
+        return None
+    return "verde sin foto con los escudos/banderas del partido"
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
+    v = verde_sin_escudos(p)
+    if v:
+        return v
     try:
         m = None if _es_resultado(p) else sin_sel_claude(p) or pick_tarjetas_tg(p, texto) or tarjetas_tg(p, texto) or mismo_pick_tg(p, texto)
         if m:
