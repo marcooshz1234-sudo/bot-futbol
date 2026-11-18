@@ -14,7 +14,7 @@ import re
 from bot import RAIZ
 
 MEDIA = RAIZ / "publicaciones" / "media"
-CON_TARJETA = re.compile(r"-(pick-tip|combi-tip|pick-extra|cuotaza|combi-noche|combi-tarde|combi-dia|pick)(-|$)")
+CON_TARJETA = re.compile(r"-(pick-tip|combi-tip|pick-extra|cuotaza|combi-noche|combi-tarde|combi-dia|combi-tres|pick)(-|$)")   # 18/11: la combi del día también con foto
 NO = re.compile(r"verde|rojo|balance|resumen|escalera|pick-seguro$|ganadores|marcador|exactos|lista|boleto|directo")
 CUOTA = re.compile(r"@\s*(\d+[.,]\d+)")
 MAX_NOMBRE = 20

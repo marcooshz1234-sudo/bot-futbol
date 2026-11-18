@@ -83,6 +83,11 @@ class ThreadsLocas(unittest.TestCase):
         self.assertTrue(T.dia_lleno([{"liga": "UEFA Europa League"}]))
         self.assertFalse(T.dia_lleno([{"liga": "Nations League"}] * 5))
 
+    def test_variadas(self):
+        # 18/11: «solo tiros y córners»: primero lo mejor de cada familia
+        ps = [{"familia": "jugador"}, {"familia": "jugador"}, {"familia": "goleador"}, {"familia": "ambos"}]
+        self.assertEqual([p["familia"] for p in T.variadas(ps)][:3], ["jugador", "goleador", "ambos"])
+
     def test_texto_sin_partido_repetido(self):
         pt = {"local": "Alemania", "visitante": "Países Bajos"}
         self.assertEqual(T._corto(pt, {"texto": "Ambos marcan en Alemania–Países Bajos"}), "Ambos marcan")

@@ -46,6 +46,14 @@ MERCADOS = {
     "Away Corners Over/Under": (None, "corners"),
     "Cards Over/Under": (None, "tarjetas"),
     "To Win Either Half": (("Home", "Away"), "gana"),
+    # 18/11 (Marcos: «en Threads no solo tiros y córners, tiene que haber más cosas»)
+    "First Half Winner": (("Home", "Away"), "descanso"),
+    "Win Both Halves": (("Home", "Away"), "gana"),
+    "To Score In Both Halves By Teams": (("Home", "Away"), "marca"),
+    "Results/Both Teams Score": (("Home/Yes", "Away/Yes"), "gana"),
+    "Goals Over/Under First Half": (("Over 0.5", "Over 1.5"), "goles1"),
+    "Goals Over/Under - Second Half": (("Over 0.5", "Over 1.5"), "goles2"),
+    "Anytime Goal Scorer": (None, "goleador"),
 }
 JUGADORES = ("Home Player Shots", "Away Player Shots", "Player Shots", "Player Shots On Target",
              "Home Player Shots On Target", "Away Player Shots On Target", "Player Fouls Committed")
@@ -97,7 +105,9 @@ def patas_partido(ex):
                 continue
             if P.excluido(mercado, str(o)):   # los mercados prohibidos de siempre (unders, más de 2,5…)
                 continue
-            if validas is None and not str(o).startswith(("Over", "Under")):
+            if validas is None and mercado != "Anytime Goal Scorer" and not str(o).startswith(("Over", "Under")):
+                continue
+            if mercado == "Anytime Goal Scorer" and c > 3.5:   # goleadores: solo los que bet365 ve claros
                 continue
             p = {"partido_id": pa["fixture"]["id"], "mercado": mercado, "opcion": str(o), "cuota": c, "familia": fam}
             if flojo and C.es_mas_goles(p):
@@ -156,9 +166,10 @@ def partidos_del_dia(dia):
         patas = patas_partido(ex)
         if patas:
             from nombres import espanol
-            salida.append({"fid": pa["fixture"]["id"], "ini": ini, "local": espanol(pa["teams"]["home"]["name"]),
+            fem = lambda n: re.sub(r" W$", " (fem.)", espanol(n))   # 18/11: «Häcken W» → «Häcken (fem.)»
+            salida.append({"fid": pa["fixture"]["id"], "ini": ini, "local": fem(pa["teams"]["home"]["name"]),
                            "local_en": pa["teams"]["home"]["name"], "visitante_en": pa["teams"]["away"]["name"],
-                           "visitante": espanol(pa["teams"]["away"]["name"]), "liga": pa["league"]["name"],
+                           "visitante": fem(pa["teams"]["away"]["name"]), "liga": pa["league"]["name"],
                            "patas": patas})
     return sorted(salida, key=lambda x: x["ini"])
 
@@ -203,16 +214,26 @@ def _linea(partido, p):
     return f"{e} {t}"
 
 
+def variadas(patas):
+    """18/11 (Marcos: «no solo tiros y córners»): primero la mejor de cada familia (gana, goles, ambos, goleador,
+    córners, jugador…) y luego el resto, para que los tiros de jugadores no se coman la combi."""
+    vistas, primero, resto = set(), [], []
+    for p in patas:
+        (resto if p["familia"] in vistas else primero).append(p)
+        vistas.add(p["familia"])
+    return primero + resto
+
+
 def combi_cuota(partidos, objetivo, semilla, usados):
     """Combi que se acerca a la cuota objetivo con las patas más probables (como mucho 2 por partido, de
     familias distintas), variando cuáles según la semilla para que no salgan siempre las mismas."""
     rnd = int(hashlib.sha1(semilla.encode()).hexdigest(), 16)
     # cuanto más loca, patas más altas (en 500 caracteres caben 6-8 patas: la cuota tiene que salir de ahí)
-    minimo = {50: 1.55, 100: 1.70, 500: 2.10, 1000: 2.40}.get(objetivo, 1.4)
+    minimo = {50: 1.45, 100: 1.55, 500: 1.80, 1000: 2.00}.get(objetivo, 1.4)   # 18/11: más bajo, había días sin combis
     max_por = 2 if objetivo <= 100 else 3
     cand = []
     for i, pt in enumerate(partidos):
-        for j, p in enumerate([p for p in pt["patas"] if p["cuota"] >= minimo][:8]):
+        for j, p in enumerate(variadas([p for p in pt["patas"] if p["cuota"] >= minimo])[:8]):
             if usados.get((pt["fid"], p["mercado"], p["opcion"]), 0) >= MAX_USOS:
                 continue
             ruido = ((rnd >> ((i * 7 + j) % 60)) & 7) / 100   # un poco de variedad
@@ -226,6 +247,8 @@ def combi_cuota(partidos, objetivo, semilla, usados):
         f_ = fams.get(pt["fid"], set())
         if n >= max_por or p["familia"] in f_ or CHOCAN.get(p["familia"], set()) & f_:
             continue
+        if p["familia"] in ("corners", "jugador") and sum(1 for _, x in sel if x["familia"] in ("corners", "jugador")) >= 2:
+            continue   # 18/11: que no sea todo tiros y córners
         if cuota * p["cuota"] > objetivo * 1.6 and cuota >= objetivo * 0.5:
             continue
         sel.append((pt, p))
@@ -239,7 +262,7 @@ def combi_cuota(partidos, objetivo, semilla, usados):
 
 
 MAX_CARACTERES = 490   # Threads no deja más de 500
-MAX_USOS = 2           # un mismo pick, como mucho en 2 posts del día (norma de Marcos)
+MAX_USOS = 3           # 18/11: en Threads (contenido constante) un pick hasta en 3 posts; los demás posts no cuentan
 
 
 def cuota_bet(sel):
@@ -263,7 +286,7 @@ def _abreviar(t):
 
 # familias que no van juntas en el mismo partido (las normas del 31/10 y 02/11 de comprobar_post)
 CHOCAN = {"ambos": {"marca", "doble"}, "marca": {"ambos", "doble"}, "doble": {"ambos", "marca", "gana"},
-          "gana": {"doble"}}   # «gana X» ya incluye «X o empate»: las dos juntas inflan la cuota
+          "gana": {"doble", "descanso"}, "descanso": {"gana"}}   # «gana X» ya incluye «X o empate»: las dos juntas inflan la cuota
 
 TITULOS = {50: ["🤑 COMBI x{c} 🤑", "💸 LA DE x{c} 💸"], 100: ["🔥 COMBI POR {c} 🔥", "💯 LA CENTENARIA x{c} 💯"],
            500: ["🤪 LA LOCURA DE x{c} 🤪", "💎 COMBI x{c} 💎"], 1000: ["🚀 COMBI x{c} 🚀", "🎰 LA MILLONARIA x{c} 🎰"]}
