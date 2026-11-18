@@ -36,34 +36,12 @@
    "local": "Häcken W",
    "visitante": "Manchester City W",
    "inicio": "2026-11-18T18:45",
-   "texto": "Häcken W marca",
-   "cuota": 1.73,
-   "justa": 1.63,
-   "ev": 0.063,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "Häcken W",
-   "visitante": "Manchester City W",
-   "inicio": "2026-11-18T18:45",
    "texto": "Más de 1,5 goles en la 2ª parte del Häcken W–Manchester City W",
    "cuota": 1.73,
-   "justa": 1.72,
-   "ev": 0.008,
+   "justa": 1.7,
+   "ev": 0.015,
    "fuente": "las otras casas",
-   "edad_h": 0.4
-  },
-  {
-   "local": "Häcken W",
-   "visitante": "Manchester City W",
-   "inicio": "2026-11-18T18:45",
-   "texto": "Manchester City W marca 3 o más",
-   "cuota": 2.0,
-   "justa": 1.98,
-   "ev": 0.008,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Real Madrid W",
@@ -71,10 +49,21 @@
    "inicio": "2026-11-18T18:45",
    "texto": "Real Madrid W marca 3 o más",
    "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.016,
+   "justa": 1.82,
+   "ev": -0.012,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
+  },
+  {
+   "local": "Häcken W",
+   "visitante": "Manchester City W",
+   "inicio": "2026-11-18T18:45",
+   "texto": "Häcken W marca",
+   "cuota": 1.57,
+   "justa": 1.59,
+   "ev": -0.014,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Portugalete",
@@ -85,11 +74,11 @@
    "justa": 1.95,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T11:19",
+  "hora": "2026-11-18T11:50",
   "revisadas": 0,
   "mejor": null
  },
