@@ -143,8 +143,11 @@ class TestRevision(unittest.TestCase):
                 mock.patch.object(vigilante, "revisar", lambda a: []), mock.patch.object(vigilante, "PUB", Path(d)), \
                 mock.patch.object(vigilante, "dm_botones", lambda t, b: enviados.append(t)), \
                 mock.patch.object(R, "informe", lambda a: "☀️ informe"):
+            import privado   # 18/11: con «avisos solo de Telegram» la revisión no va; aquí se prueba con él apagado
+            mock.patch.object(privado, "solo_telegram", lambda c=None: False).start()
             for h, m in ((8, 50), (9, 0), (9, 10), (10, 0)):
                 vigilante.main(datetime(2026, 11, 12, h, m, tzinfo=MADRID))
+        mock.patch.stopall()
         self.assertEqual(enviados, ["☀️ informe"])
 
 
