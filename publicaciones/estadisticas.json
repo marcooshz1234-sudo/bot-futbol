@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 16:55",
+ "actualizado": "2026-11-18 17:06",
  "redes": {
   "instagram": {
    "seguidores": 49,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3201,
-   "hoy": 41,
+   "seguidores": 3202,
+   "hoy": 42,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3201
+    3202
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3727,
- "total_hoy": 47,
+ "total": 3728,
+ "total_hoy": 48,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:00",
+  "hora": "17:30",
   "dia": "2026-11-18",
-  "titulo": "Combi juventus (fem.) – oh leuven (fem"
+  "titulo": "La de x10,82"
  },
  "ayer": {
   "aciertos": 3,
@@ -228,7 +228,7 @@
   },
   "2026-11-18": {
    "instagram": 49,
-   "threads": 3201,
+   "threads": 3202,
    "facebook": 1,
    "telegram": 476
   }
