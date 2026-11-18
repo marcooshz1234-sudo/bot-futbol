@@ -3417,5 +3417,83 @@
    "liga": "UEFA Champions League Women",
    "prob_cuota": 0.602
   }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37144",
+  "dia": "2026-11-18",
+  "hora": "20:30",
+  "local": "San Javier Mar Menor",
+  "visitante": "Bullas Deportivo",
+  "texto": "Gana el Mar Menor",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.66,
+  "stake": null,
+  "argumento": [
+   "El Mar Menor está en zona alta y casi no pierde, mientras el Bullas anda abajo y encadena derrotas",
+   "El Bullas concede mucho atrás, y el Mar Menor juega en su campo",
+   "Hay una docena de puntos entre ambos en la tabla"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47326",
+  "dia": "2026-11-19",
+  "hora": "00:30",
+  "local": "Cruzeiro",
+  "visitante": "Palmeiras",
+  "texto": "Crear apuesta: Palmeiras más de 3.5 remates a puerta + Cruzeiro no deja la portería a cero",
+  "mercado": "Crear apuesta",
+  "opcion": "Palmeiras +3.5 tiros a puerta & Cruzeiro portería a 0: No",
+  "cuota": 1.55,
+  "stake": null,
+  "combinada": true,
+  "argumento": [
+   "Duelo directo por arriba en el Brasileirão: Palmeiras segundo y Cruzeiro tercero",
+   "Palmeiras es de los equipos que más llegan y suele generar disparos incluso fuera de casa",
+   "Partido abierto con dos equipos goleadores, difícil que Cruzeiro acabe sin encajar"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/87276",
+  "dia": "2026-11-18",
+  "hora": "21:00",
+  "local": "Chelsea W",
+  "visitante": "Paris Saint Germain W",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.53,
+  "stake": null,
+  "argumento": [
+   "Chelsea en casa suele imponer ritmo alto y marcar varios goles en Champions femenina",
+   "El PSG tiene pegada arriba para hacer daño a la contra",
+   "Línea de 2.5 asumible en un cruce entre dos equipos ofensivos"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TipsPro🤙",
+  "fuente": "-1001262785423/10150",
+  "dia": "2026-11-18",
+  "hora": "21:00",
+  "local": "Juventus W",
+  "visitante": "OH Leuven W",
+  "texto": "Crear apuesta: gol en la 1ª mitad + más de 2 goles",
+  "mercado": "Crear apuesta",
+  "opcion": "1ª mitad +0.5 & Total +2",
+  "cuota": 1.5,
+  "stake": null,
+  "combinada": true,
+  "argumento": [
+   "La Juve en casa debería dominar ante un rival belga de menos nivel",
+   "Se espera que el favorito golpee pronto y el partido tenga goles",
+   "La combinación pide poco: un gol antes del descanso y al menos tres en total"
+  ],
+  "argumento_propio": true
  }
 ]
