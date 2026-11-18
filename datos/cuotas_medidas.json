@@ -2209,5 +2209,631 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1430-escudos",
+  "fecha": "2026-11-18T14:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638333|Home Player Shots|Elisa Senss - 2",
+   "1638333|Home Player Shots|Sandie Toletti - 2",
+   "1638333|Home Player Shots|Oihane San Martin - 2",
+   "1638333|Home Player Shots|Signe Bruun - 4",
+   "1638333|Anytime Goal Scorer|Lineth Beerensteyn",
+   "1638333|Goals Over/Under - Second Half|Over 1.5",
+   "1638333|To Score In Both Halves By Teams|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.44,
+   1.53,
+   1.67,
+   1.73
+  ],
+  "real": 5.76,
+  "multiplicando": 17.466,
+  "aj": 0.7848567643712503,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1500-escudos",
+  "fecha": "2026-11-18T15:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638306|Home Player Shots|Tabitha Tindell - 2",
+   "1638306|Away Player Shots|Laura Blindkilde - 2",
+   "1638306|Away Player Shots|Rebecca Knaak - 2",
+   "1638306|Away Player Shots|Sam Coffey - 2",
+   "1638306|Anytime Goal Scorer|Khadija Shaw",
+   "1638306|Total - Home|Over 0.5",
+   "1638306|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.44,
+   1.44,
+   1.44,
+   1.44,
+   1.62,
+   1.73,
+   1.73
+  ],
+  "real": 6.88,
+  "multiplicando": 20.848,
+  "aj": 0.8268367394984111,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1600-duelo",
+  "fecha": "2026-11-18T16:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638306|Home Player Shots|Tabitha Tindell - 2",
+   "1638306|Away Player Shots|Laura Blindkilde - 2"
+  ],
+  "cuotas": [
+   1.44,
+   1.44
+  ],
+  "real": 2.13,
+  "multiplicando": 2.074,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1630-escudos",
+  "fecha": "2026-11-18T16:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638301|Home Player Shots|Mayra Ramirez - 4",
+   "1638301|Home Player Shots|Katie McCabe - 2",
+   "1638301|Home Player Shots|Lexi Potter - 2",
+   "1638301|Home Player Shots|Melvine Malard - 4",
+   "1638301|To Score In Both Halves By Teams|Home",
+   "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+   "1638301|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.44,
+   1.44,
+   1.83,
+   1.83,
+   1.8
+  ],
+  "real": 8.32,
+  "multiplicando": 25.199,
+  "aj": 0.7696108259439927,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1700-escudos",
+  "fecha": "2026-11-18T17:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638312|Home Player Shots|Emma Godo - 2",
+   "1638312|Home Player Shots|Eva Schatzer - 2",
+   "1638312|Home Player Shots|Kysha Sylla - 2",
+   "1638312|Home Player Shots|Alba Redondo - 4",
+   "1638312|Anytime Goal Scorer|Alba Redondo",
+   "1638312|Goals Over/Under - Second Half|Over 1.5",
+   "1638312|To Score In Both Halves By Teams|Home"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.57,
+   1.73,
+   1.83
+  ],
+  "real": 6.3,
+  "multiplicando": 19.095,
+  "aj": 0.7661545654656716,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1900-tiros",
+  "fecha": "2026-11-18T19:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638312|Home Player Shots|Emma Godo - 2",
+   "1638312|Home Player Shots|Eva Schatzer - 2",
+   "1638312|Home Player Shots|Kysha Sylla - 2",
+   "1638312|Home Player Shots|Alba Redondo - 4",
+   "1638312|Away Player Shots|Anouk Van Praet - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.5
+  ],
+  "real": 5.12,
+  "multiplicando": 5.762,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-1930-duelo",
+  "fecha": "2026-11-18T19:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638312|Home Player Shots|Emma Godo - 2",
+   "1638312|Away Player Shots|Anouk Van Praet - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.5
+  ],
+  "real": 2.16,
+  "multiplicando": 2.1,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-2000-tiros",
+  "fecha": "2026-11-18T20:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638312|Home Player Shots|Eva Schatzer - 2",
+   "1638312|Home Player Shots|Kysha Sylla - 2",
+   "1638312|Home Player Shots|Alba Redondo - 4",
+   "1638312|Away Player Shots|Anouk Van Praet - 2",
+   "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.5,
+   1.5
+  ],
+  "real": 6.23,
+  "multiplicando": 6.174,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-18-loca-th-2030-duelo",
+  "fecha": "2026-11-18T20:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638312|Home Player Shots|Annamaria Serturini - 3",
+   "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
+  ],
+  "cuotas": [
+   1.62,
+   1.5
+  ],
+  "real": 2.49,
+  "multiplicando": 2.43,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
  }
 ]

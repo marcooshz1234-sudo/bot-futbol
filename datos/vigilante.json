@@ -117,11 +117,152 @@
   "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away": "2026-11-17T20:27",
   "foto-2026-11-17-verde-auto-2026-11-17-escalera": "2026-11-17T21:27",
   "foto-2026-11-17-verde-auto-2026-11-17-pick-seguro": "2026-11-17T22:40",
-  "foto-2026-11-17-verde-auto-2026-11-17-pick-tip-4": "2026-11-17T22:58"
+  "foto-2026-11-17-verde-auto-2026-11-17-pick-tip-4": "2026-11-17T22:58",
+  "repe-2026-11-18-1638301|Both Teams Score|Yes": "2026-11-18T12:48",
+  "repe-2026-11-18-1638306|Both Teams Score|Yes": "2026-11-18T12:48",
+  "repe-2026-11-18-1638333|Both Teams Score|Yes": "2026-11-18T12:48",
+  "repe-2026-11-18-1638306|Total - Home|Over 0.5": "2026-11-18T12:48",
+  "repe-2026-11-18-1638306|Anytime Goal Scorer|Khadija Shaw": "2026-11-18T12:48",
+  "repe-2026-11-18-1638301|Anytime Goal Scorer|Agnes Beever-Jones": "2026-11-18T12:48",
+  "repe-2026-11-18-1638306|Goals Over/Under - Second Half|Over 1.5": "2026-11-18T12:48",
+  "repe-2026-11-18-1638312|Home Player Shots|Eva Schatzer - 2": "2026-11-18T12:48",
+  "repe-2026-11-18-1638312|Home Player Shots|Emma Godo - 2": "2026-11-18T12:48",
+  "repe-2026-11-18-1638312|Home Player Shots|Alba Redondo - 4": "2026-11-18T12:48",
+  "repe-2026-11-18-1638312|Home Player Shots|Kysha Sylla - 2": "2026-11-18T12:48",
+  "repe-2026-11-18-1638312|Anytime Goal Scorer|Alba Redondo": "2026-11-18T12:48",
+  "repe-2026-11-18-1638312|Away Player Shots|Anouk Van Praet - 2": "2026-11-18T12:48",
+  "prensa-1644334-25d706e3": "2026-11-18T12:48"
  },
- "abiertos": [],
- "revisado": "2026-11-18T12:32",
+ "abiertos": [
+  {
+   "clave": "repe-2026-11-18-1638301|Both Teams Score|Yes",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638306|Both Teams Score|Yes",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638333|Both Teams Score|Yes",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos, loca-th-1800-x500)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638306|Total - Home|Over 0.5",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, combi-tres, loca-th-1500-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638306|Anytime Goal Scorer|Khadija Shaw",
+   "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50, loca-th-1545-goleadoras)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+   "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1630-escudos, loca-th-1800-x500, loca-th-1545-goleadoras)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638306|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Eva Schatzer - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Emma Godo - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-1930-duelo)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Alba Redondo - 4",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Kysha Sylla - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Anytime Goal Scorer|Alba Redondo",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1730-x50, loca-th-1545-goleadoras)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638312|Away Player Shots|Anouk Van Praet - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1900-tiros, loca-th-1930-duelo, loca-th-2000-tiros)"
+  },
+  {
+   "clave": "prensa-1644334-25d706e3",
+   "t": "📰 Alcoyano–Mallorca: «El capitán del Real Mallorca, Antonio Raíllo, declara en el juzgado por coacciones e injurias a su expareja» (Ultima Hora) · tenemos 1 post(s) de este partido: loca-th-1745-sustos-copa"
+  }
+ ],
+ "revisado": "2026-11-18T12:48",
  "historial": [
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)",
+   "k": "repe-2026-11-18-1638301|Both Teams Score|Yes"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)",
+   "k": "repe-2026-11-18-1638306|Both Teams Score|Yes"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos, loca-th-1800-x500)",
+   "k": "repe-2026-11-18-1638333|Both Teams Score|Yes"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, combi-tres, loca-th-1500-escudos)",
+   "k": "repe-2026-11-18-1638306|Total - Home|Over 0.5"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50, loca-th-1545-goleadoras)",
+   "k": "repe-2026-11-18-1638306|Anytime Goal Scorer|Khadija Shaw"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1630-escudos, loca-th-1800-x500, loca-th-1545-goleadoras)",
+   "k": "repe-2026-11-18-1638301|Anytime Goal Scorer|Agnes Beever-Jones"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50)",
+   "k": "repe-2026-11-18-1638306|Goals Over/Under - Second Half|Over 1.5"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)",
+   "k": "repe-2026-11-18-1638312|Home Player Shots|Eva Schatzer - 2"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-1930-duelo)",
+   "k": "repe-2026-11-18-1638312|Home Player Shots|Emma Godo - 2"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)",
+   "k": "repe-2026-11-18-1638312|Home Player Shots|Alba Redondo - 4"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)",
+   "k": "repe-2026-11-18-1638312|Home Player Shots|Kysha Sylla - 2"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1730-x50, loca-th-1545-goleadoras)",
+   "k": "repe-2026-11-18-1638312|Anytime Goal Scorer|Alba Redondo"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1900-tiros, loca-th-1930-duelo, loca-th-2000-tiros)",
+   "k": "repe-2026-11-18-1638312|Away Player Shots|Anouk Van Praet - 2"
+  },
+  {
+   "hora": "2026-11-18T12:48",
+   "t": "📰 Alcoyano–Mallorca: «El capitán del Real Mallorca, Antonio Raíllo, declara en el juzgado por coacciones e injurias a su expareja» (Ultima Hora) · tenemos 1 post(s) de este partido: loca-th-1745-sustos-copa",
+   "k": "prensa-1644334-25d706e3"
+  },
   {
    "hora": "2026-11-17T22:58",
    "t": "🖼️ Sale a las 23:05 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
@@ -305,62 +446,6 @@
   {
    "hora": "2026-11-16T03:05",
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💶 RETO: DE 1€ A 506€ 💶» (13:00)"
-  },
-  {
-   "hora": "2026-11-16T03:05",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 64,08 🔥» (15:30)"
-  },
-  {
-   "hora": "2026-11-16T03:05",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «💸 LA DE x55,74 💸» (17:00)"
-  },
-  {
-   "hora": "2026-11-16T03:05",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤪 LA LOCURA DE x329 🤪» (19:30)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x44,49 🤑"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🎰 LA MILLONARIA x913 🎰"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x60,37 🤑"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 🤑 COMBI x45,02 🤑"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): 💎 COMBI x621 💎"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 8 posts (escalera, loca-th-0500-x50, loca-th-0900-x50, loca-th-1000-lista-gana, loca-th-1300-x50, loca-th-1530-x50, loca-th-1700-lista-gana, loca-th-1930-x50)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 4 posts (escalera, loca-th-0300-x100, loca-th-0930-x100, loca-th-1200-x100)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 10 posts (pick-m1, loca-th-0300-x100, loca-th-0900-x50, loca-th-0930-x100, loca-th-1000-lista-gana, loca-th-1200-x100, loca-th-1630-x100, loca-th-1700-lista-gana, loca-th-1830-x100, loca-th-1930-x50)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 6 posts (combi-m, loca-th-0600-x500, loca-th-1000-lista-gana, loca-th-1130-x500, loca-th-1400-x500, loca-th-1500-x1000)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 7 posts (combi-m, combi-partido-m-1528990, loca-th-0400-lista-ambos, loca-th-1230-lista-ambos, loca-th-1300-x50, loca-th-1530-x50, loca-th-1900-lista-ambos)"
-  },
-  {
-   "hora": "2026-11-16T02:55",
-   "t": "🔁 16/11: el mismo pronóstico en 11 posts (combi-partido-m-1528990, loca-th-0300-x100, loca-th-0500-x50, loca-th-0900-x50, loca-th-0930-x100, loca-th-1200-x100, loca-th-1300-x50, loca-th-1530-x50, loca-th-1630-x100, loca-th-1830-x100, loca-th-1930-x50)"
   }
  ]
 }
