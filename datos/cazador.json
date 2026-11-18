@@ -41,7 +41,7 @@
    "justa": 1.7,
    "ev": 0.015,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Real Madrid W",
@@ -52,7 +52,7 @@
    "justa": 1.82,
    "ev": -0.012,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Paris FC W",
@@ -63,7 +63,7 @@
    "justa": 1.64,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 4.9
+   "edad_h": 5.4
   },
   {
    "local": "Häcken W",
@@ -74,22 +74,22 @@
    "justa": 1.59,
    "ev": -0.014,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
-   "local": "Portugalete",
-   "visitante": "Real Unión",
-   "inicio": "2026-11-18T19:00",
-   "texto": "Ambos marcan en Portugalete–Real Unión",
-   "cuota": 1.91,
-   "justa": 1.95,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 0.4
+   "local": "Juventus W",
+   "visitante": "OH Leuven W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "Juventus W marca 3 o más",
+   "cuota": 2.0,
+   "justa": 2.03,
+   "ev": -0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T13:19",
+  "hora": "2026-11-18T13:50",
   "revisadas": 0,
   "mejor": null
  },
