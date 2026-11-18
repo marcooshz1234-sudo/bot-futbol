@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 15:39",
+ "actualizado": "2026-11-18 15:49",
  "redes": {
   "instagram": {
    "seguidores": 49,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 475,
-   "hoy": 4,
+   "seguidores": 476,
+   "hoy": 5,
    "serie": [
     391,
     401,
@@ -50,17 +50,17 @@
     411,
     439,
     471,
-    475
+    476
    ]
   }
  },
- "total": 3726,
- "total_hoy": 46,
+ "total": 3727,
+ "total_hoy": 47,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:45",
+  "hora": "16:00",
   "dia": "2026-11-18",
-  "titulo": "Las goleadoras"
+  "titulo": "El duelo de tiros"
  },
  "ayer": {
   "aciertos": 3,
@@ -230,7 +230,7 @@
    "instagram": 49,
    "threads": 3201,
    "facebook": 1,
-   "telegram": 475
+   "telegram": 476
   }
  },
  "tipos_instagram": {

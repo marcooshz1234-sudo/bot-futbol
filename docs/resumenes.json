@@ -2582,14 +2582,14 @@
   },
   "2026-11-18": {
     "dia": "2026-11-18",
-    "total": 11,
+    "total": 12,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 11,
+      "pendiente": 12,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 12
     },
     "combis": [
       {
@@ -2657,13 +2657,19 @@
         "titulo": "⚽ AMBOS MARCAN HOY ⚽",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-18-loca-th-1545-goleadoras",
+        "titulo": "⚽ LAS GOLEADORAS ⚽",
+        "estado": "pendiente",
+        "cuota": 7.54
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 30
+      "total": 31
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ 🔥 COMBI POR 19,46 🔥 · 19,46 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · pendiente\n⏳ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ 🔥 COMBI POR 19,46 🔥 · 19,46 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · pendiente\n⏳ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚽ LAS GOLEADORAS ⚽ · 7,54 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 12 sin resolver"
   }
 }
