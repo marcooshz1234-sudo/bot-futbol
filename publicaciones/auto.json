@@ -8833,12 +8833,12 @@
       "1638306|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.44,
-      1.44,
-      1.44,
-      1.44,
-      1.62,
-      1.73,
+      1.36,
+      1.36,
+      1.36,
+      1.36,
+      1.53,
+      1.57,
       1.73
     ],
     "solo_redes": true,
@@ -8858,7 +8858,8 @@
     "cuota_bet365": 6.88,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-18T13:32"
   },
   {
     "id": "2026-11-18-loca-th-1530-lista-ambos",
