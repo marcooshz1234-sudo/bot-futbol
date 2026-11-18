@@ -8841,7 +8841,14 @@
       "telegram"
     ],
     "enviado": "2026-11-18T23:17",
-    "mensaje_id": 544
+    "mensaje_id": 544,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-18-balance-auto",
