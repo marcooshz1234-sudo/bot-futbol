@@ -77,6 +77,19 @@
   "2026-11-17-loca-th-1830-tiros|Rafael Leao: 3+ tiros",
   "2026-11-17-loca-th-1830-tiros|Rodrigo Mora: 3+ tiros",
   "2026-11-17-loca-th-1900-x1000|Dzenis Burnic: 2+ tiros",
+  "2026-11-18-loca-th-1300-x100|Khadija Shaw marca",
+  "2026-11-18-loca-th-1300-x100|Signe Bruun marca",
+  "2026-11-18-loca-th-1430-escudos|Elisa Senss: 2+ tiros",
+  "2026-11-18-loca-th-1430-escudos|Oihane San Martin: 2+ tiros",
+  "2026-11-18-loca-th-1430-escudos|Sandie Toletti: 2+ tiros",
+  "2026-11-18-loca-th-1430-escudos|Signe Bruun: 4+ tiros",
+  "2026-11-18-loca-th-1500-escudos|Khadija Shaw marca",
+  "2026-11-18-loca-th-1500-escudos|Laura Blindkilde: 2+ tiros",
+  "2026-11-18-loca-th-1500-escudos|Sam Coffey: 2+ tiros",
+  "2026-11-18-loca-th-1545-goleadoras|Khadija Shaw marca",
+  "2026-11-18-loca-th-1545-goleadoras|Signe Bruun marca",
+  "2026-11-18-loca-th-1600-duelo|Laura Blindkilde: 2+ tiros",
+  "2026-11-18-loca-th-1730-x50|Khadija Shaw marca",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -2411,19 +2424,307 @@
    }
   },
   "1638306": {
-   "hora": "2026-11-18T18:09:42.472260+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-18T18:26:37.592690+01:00",
+   "xi": [
+    "J. Falk",
+    "J. Rybrink",
+    "E. Ãstlund",
+    "S. Larsen",
+    "Ella McBride",
+    "T. Pálmadóttir",
+    "P. Sanvig",
+    "T. Tindell",
+    "Tuva Eva Christina Ölvestad",
+    "A. AnvegÃ¥rd",
+    "M. Bodin",
+    "A. Yamashita",
+    "K. Casparij",
+    "Gracie Prior",
+    "R. Knaak",
+    "C. Wamser",
+    "Laura Blindkilde Brown",
+    "Grace Clinton",
+    "Yui Hasegawa",
+    "B. Mead",
+    "M. Fowler",
+    "A. Fujino"
+   ],
+   "banquillo": [
+    "Tilde Birgitta Karlsson",
+    "Jóhanna Fossdalsá Sørensen",
+    "Faith Chinzimu",
+    "Hanna Karlsson",
+    "A. Luik",
+    "Laney Matriano",
+    "J. Omewa",
+    "A. Selerud",
+    "N. Staaf",
+    "I. Beney",
+    "S. Coffey",
+    "E. Cumings",
+    "L. Hemp",
+    "S. Lewis",
+    "S. Lohmann",
+    "Jade Rose",
+    "K. Shaw",
+    "R. Shimizu",
+    "Erin Walker"
+   ],
+   "equipos": {
+    "16483": [
+     {
+      "n": "J. Falk",
+      "pos": "G"
+     },
+     {
+      "n": "J. Rybrink",
+      "pos": "D"
+     },
+     {
+      "n": "E. Ãstlund",
+      "pos": "D"
+     },
+     {
+      "n": "S. Larsen",
+      "pos": "D"
+     },
+     {
+      "n": "Ella McBride",
+      "pos": "D"
+     },
+     {
+      "n": "T. Pálmadóttir",
+      "pos": "M"
+     },
+     {
+      "n": "P. Sanvig",
+      "pos": "M"
+     },
+     {
+      "n": "T. Tindell",
+      "pos": "M"
+     },
+     {
+      "n": "Tuva Eva Christina Ölvestad",
+      "pos": "M"
+     },
+     {
+      "n": "A. AnvegÃ¥rd",
+      "pos": "F"
+     },
+     {
+      "n": "M. Bodin",
+      "pos": "F"
+     }
+    ],
+    "1854": [
+     {
+      "n": "A. Yamashita",
+      "pos": "G"
+     },
+     {
+      "n": "K. Casparij",
+      "pos": "D"
+     },
+     {
+      "n": "Gracie Prior",
+      "pos": "D"
+     },
+     {
+      "n": "R. Knaak",
+      "pos": "D"
+     },
+     {
+      "n": "C. Wamser",
+      "pos": "D"
+     },
+     {
+      "n": "Laura Blindkilde Brown",
+      "pos": "M"
+     },
+     {
+      "n": "Grace Clinton",
+      "pos": "M"
+     },
+     {
+      "n": "Yui Hasegawa",
+      "pos": "M"
+     },
+     {
+      "n": "B. Mead",
+      "pos": "F"
+     },
+     {
+      "n": "M. Fowler",
+      "pos": "F"
+     },
+     {
+      "n": "A. Fujino",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1638333": {
-   "hora": "2026-11-18T18:09:42.472260+01:00",
+   "hora": "2026-11-18T18:26:37.592690+01:00",
+   "xi": [
+    "Laia López",
+    "Eva Navarro",
+    "MarÃ­a Méndez",
+    "M. Lakrar",
+    "Silvi",
+    "A. Caruso",
+    "E. SenÃ",
+    "Andreia Jacinto",
+    "L. Beerensteyn",
+    "F. Schröder",
+    "L. Caicedo",
+    "C. Rúnarsdóttir",
+    "Emma Kullberg",
+    "Ivana Andrés",
+    "M. MilinkoviÄ",
+    "E. Bartoli",
+    "B. Glionna",
+    "I. Santi",
+    "K. Vilhjálmsdóttir",
+    "M. Detruyer",
+    "M. Cambiaghi",
+    "B. Raphino"
+   ],
+   "banquillo": [
+    "Irune Dorado",
+    "Paula Comendador",
+    "NoemÃ­ Bejarano",
+    "F. Angeldahl",
+    "S. Däbritz",
+    "B. Andersson",
+    "Athenea del Castillo",
+    "S. Holmgaard",
+    "J. Levels",
+    "L. Keukelaar",
+    "S. Bruun",
+    "M. Frohms",
+    "T. Payne",
+    "L. Magull",
+    "C. Robustellini",
+    "M. Tomašević",
+    "S. van Diemen",
+    "R. Giudici",
+    "H. Bugeja",
+    "M. Bressan",
+    "E. Belli",
+    "C. Forcinella",
+    "E. Polli"
+   ],
+   "equipos": {
+    "15224": [
+     {
+      "n": "Laia López",
+      "pos": "G"
+     },
+     {
+      "n": "Eva Navarro",
+      "pos": "D"
+     },
+     {
+      "n": "MarÃ­a Méndez",
+      "pos": "D"
+     },
+     {
+      "n": "M. Lakrar",
+      "pos": "D"
+     },
+     {
+      "n": "Silvi",
+      "pos": "D"
+     },
+     {
+      "n": "A. Caruso",
+      "pos": "M"
+     },
+     {
+      "n": "E. SenÃ",
+      "pos": "M"
+     },
+     {
+      "n": "Andreia Jacinto",
+      "pos": "M"
+     },
+     {
+      "n": "L. Beerensteyn",
+      "pos": "F"
+     },
+     {
+      "n": "F. Schröder",
+      "pos": "F"
+     },
+     {
+      "n": "L. Caicedo",
+      "pos": "F"
+     }
+    ],
+    "7533": [
+     {
+      "n": "C. Rúnarsdóttir",
+      "pos": "G"
+     },
+     {
+      "n": "Emma Kullberg",
+      "pos": "D"
+     },
+     {
+      "n": "Ivana Andrés",
+      "pos": "D"
+     },
+     {
+      "n": "M. MilinkoviÄ",
+      "pos": "D"
+     },
+     {
+      "n": "E. Bartoli",
+      "pos": "D"
+     },
+     {
+      "n": "B. Glionna",
+      "pos": "M"
+     },
+     {
+      "n": "I. Santi",
+      "pos": "M"
+     },
+     {
+      "n": "K. Vilhjálmsdóttir",
+      "pos": "M"
+     },
+     {
+      "n": "M. Detruyer",
+      "pos": "M"
+     },
+     {
+      "n": "M. Cambiaghi",
+      "pos": "M"
+     },
+     {
+      "n": "B. Raphino",
+      "pos": "F"
+     }
+    ]
+   }
+  },
+  "1644384": {
+   "hora": "2026-11-18T18:26:37.592690+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
-  "1644384": {
-   "hora": "2026-11-18T18:09:42.472260+01:00",
+  "1644334": {
+   "hora": "2026-11-18T18:26:37.592690+01:00",
+   "xi": [],
+   "banquillo": [],
+   "equipos": {}
+  },
+  "1644346": {
+   "hora": "2026-11-18T18:26:37.592690+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

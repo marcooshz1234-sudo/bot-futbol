@@ -136,11 +136,11 @@
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-18-1638301|Both Teams Score|Yes",
+   "clave": "repe-2026-11-18-1638306|Both Teams Score|Yes",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-18-1638306|Both Teams Score|Yes",
+   "clave": "repe-2026-11-18-1638301|Both Teams Score|Yes",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1530-lista-ambos)"
   },
   {
@@ -168,15 +168,11 @@
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1545-goleadoras, loca-th-1700-escudos, loca-th-1730-x50)"
   },
   {
-   "clave": "repe-2026-11-18-1638312|Home Player Shots|Alba Redondo - 4",
-   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
-  },
-  {
    "clave": "repe-2026-11-18-1638312|Home Player Shots|Emma Godo - 2",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-1930-duelo)"
   },
   {
-   "clave": "repe-2026-11-18-1638312|Home Player Shots|Kysha Sylla - 2",
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Alba Redondo - 4",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
   },
   {
@@ -184,11 +180,15 @@
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
   },
   {
+   "clave": "repe-2026-11-18-1638312|Home Player Shots|Kysha Sylla - 2",
+   "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-2000-tiros)"
+  },
+  {
    "clave": "repe-2026-11-18-1638312|Away Player Shots|Anouk Van Praet - 2",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1900-tiros, loca-th-1930-duelo, loca-th-2000-tiros)"
   }
  ],
- "revisado": "2026-11-18T18:10",
+ "revisado": "2026-11-18T18:28",
  "historial": [
   {
    "hora": "2026-11-18T15:08",
