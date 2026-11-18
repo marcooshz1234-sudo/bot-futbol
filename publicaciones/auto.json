@@ -7673,11 +7673,11 @@
       "1638312|Away Player Shots|Anouk Van Praet - 2"
     ],
     "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.4,
-      1.5
+      1.53,
+      1.53,
+      1.53,
+      1.44,
+      1.57
     ],
     "solo_en": [
       "threads"
@@ -7688,7 +7688,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-18T17:31"
   },
   {
     "id": "2026-11-18-loca-th-1930-duelo",
