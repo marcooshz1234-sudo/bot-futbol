@@ -8802,5 +8802,20 @@
       "threads": "17893311450627596",
       "threads_enlace": "17902523034680968"
     }
+  },
+  {
+    "id": "2026-11-18-verde-auto-2026-11-18-pick-claude-1",
+    "fecha": "2026-11-18T21:01",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Real Madrid (fem.) marca en las dos partes\n\n📈 Cuota @1,73",
+    "foto": "publicaciones/media/2026-11-18-verde-auto-2026-11-18-pick-claude-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-18-pick-claude-1",
+    "solo_en": [
+      "telegram"
+    ],
+    "sin_instagram": true
   }
 ]
