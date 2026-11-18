@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 17:28",
+ "actualizado": "2026-11-18 17:38",
  "redes": {
   "instagram": {
    "seguidores": 49,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3203,
-   "hoy": 43,
+   "seguidores": 3204,
+   "hoy": 44,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3203
+    3204
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 476,
-   "hoy": 5,
+   "seguidores": 477,
+   "hoy": 6,
    "serie": [
     391,
     401,
@@ -50,17 +50,17 @@
     411,
     439,
     471,
-    476
+    477
    ]
   }
  },
- "total": 3729,
- "total_hoy": 49,
+ "total": 3731,
+ "total_hoy": 51,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:30",
+  "hora": "17:45",
   "dia": "2026-11-18",
-  "titulo": "La de x10,82"
+  "titulo": "Los sustos de copa"
  },
  "ayer": {
   "aciertos": 3,
@@ -228,9 +228,9 @@
   },
   "2026-11-18": {
    "instagram": 49,
-   "threads": 3203,
+   "threads": 3204,
    "facebook": 1,
-   "telegram": 476
+   "telegram": 477
   }
  },
  "tipos_instagram": {
