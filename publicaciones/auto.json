@@ -7384,8 +7384,8 @@
       "1638333|Away Player Shots|Michela Cambiaghi - 2"
     ],
     "cuotas": [
-      1.44,
-      1.62
+      1.33,
+      1.8
     ],
     "solo_en": [
       "threads"
@@ -7396,7 +7396,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-18T05:33"
   },
   {
     "id": "2026-11-18-escalera",
