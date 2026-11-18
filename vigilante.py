@@ -328,7 +328,7 @@ def main(ahora=None, avisar=True):
     est = {"informe": est.get("informe"), "vistos": {k: v for k, v in vistos.items() if v >= limite},
            "abiertos": [{"clave": k, "t": t} for k, t in problemas],
            "revisado": ahora.strftime("%Y-%m-%dT%H:%M"),
-           "historial": ([{"hora": ahora.strftime("%Y-%m-%dT%H:%M"), "t": t} for _, t in nuevos]
+           "historial": ([{"hora": ahora.strftime("%Y-%m-%dT%H:%M"), "t": t, "k": k} for k, t in nuevos]
                          + (est.get("historial") or []))[:60]}
     ESTADO.write_text(json.dumps(est, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"Vigilante: {len(problemas)} problemas ({len(nuevos)} nuevos)")

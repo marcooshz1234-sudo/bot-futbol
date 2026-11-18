@@ -54,3 +54,46 @@ vm.runInContext(`D.bot={redes:{},claves_caducan:'2026-12-21',errores:[{post:'Fal
 assert.ok(vm.runInContext('vBot()',context).includes('https://t.me/combilocas_publica_bot?start=retry_abc'));
 vm.runInContext(`D.bot.errores[0].reintentable=false;D.bot.errores[0].bloqueo='Fuera de plazo'`,context);
 assert.ok(!vm.runInContext('vBot()',context).includes('start=retry_'));
+
+// 18/11: pestaña 📲 Telegram del panel (docs/panel): botones que escriben en control.json
+{
+  const ph = fs.readFileSync('docs/panel/index.html', 'utf8');
+  const src = ph.match(/<script>([\s\S]*?)<\/script>/)[1].replace(/\ncargar\(\);\s*$/, '\n');
+  const almacen = {};
+  const ctx = vm.createContext({
+    document: {querySelector: () => ({innerHTML: '', textContent: '', style: {}, value: ''}), addEventListener(){}},
+    localStorage: {getItem: k => almacen[k] ?? null, setItem: (k, v) => { almacen[k] = String(v); }, removeItem: k => { delete almacen[k]; }},
+    window: {}, navigator: {}, setTimeout(){}, fetch: () => new Promise(() => {}), console, Intl, TextEncoder, TextDecoder, atob, btoa,
+  });
+  vm.runInContext(src, ctx);
+  assert.equal(vm.runInContext('tab', ctx), 'tg');   // se abre en Telegram
+  // aprobar = lo mismo que el «✅ Publicar» del bot; no se duplica
+  vm.runInContext('var c = {aprobados:{}, cancelados:["x"]}', ctx);
+  assert.equal(vm.runInContext('TG_ACC.aprobar(c, "v1", "2026-11-18T10:00")', ctx), true);
+  assert.equal(vm.runInContext('c.aprobados.v1', ctx), '2026-11-18T10:00');
+  assert.equal(vm.runInContext('TG_ACC.aprobar(c, "v1", "2026-11-18T11:00")', ctx), false);
+  assert.equal(vm.runInContext('TG_ACC.cancelar(c, "p2"); TG_ACC.nosale(c, "p2"); c.cancelados.filter(x=>x==="p2").length', ctx), 1);
+  assert.equal(vm.runInContext('TG_ACC.recuperar(c, "x"); c.cancelados.includes("x")', ctx), false);
+  // base64 con emojis y tildes ida y vuelta (control.json lleva textos con emojis)
+  assert.equal(vm.runInContext('b64aTexto(textoAb64("✅ Ñandú 🇩🇰"))', ctx), '✅ Ñandú 🇩🇰');
+  assert.match(vm.runInContext('horaMadrid(new Date("2026-11-18T09:05:00Z"))', ctx), /^2026-11-18T10:05$/);
+  vm.runInContext(`D = {comentarios:[], redes:[], telegram:{hoy:'2026-11-17', picks:1, cuenta:{verde:0,rojo:0,va_bien:1,va_mal:0,pendiente:0},
+    aprobar:[{id:'v9', fecha:'2026-11-17T21:55', tipo:'Verde', titulo:'Gol en Alemania', partido:'', texto:'PARA DENTRO', foto:null, por:'Varias patas', falta_cuota:false}],
+    proximo:[{id:'p8', fecha:'2026-11-17T22:15', tipo:'Verde', titulo:'Ambos marcan', partido:'', texto:'t', foto:null}],
+    enviados:[{id:'e1', fecha:'2026-11-17T19:00', hora:'19:00', mid:524, tipo:'Pick de Claude', titulo:'Ambos marcan en Israel – Austria', partido:'Israel – Austria', texto:'t', foto:null,
+      directo:{estado:'va_mal', picks:[{texto:'Ambos marcan', partido:'Israel – Austria', estado:'va_mal', marcador:[1,0], minuto:60, fin:false, progreso:'1 de 2 equipos que marcan'}]}}],
+    no_salen:[], avisos:[{hora:'14:53', t:'🚫 prohibido'}], pausa:false}}`, ctx);
+  let v = vm.runInContext('vTelegram()', ctx);
+  assert.ok(v.includes('Conecta la app'));                       // sin clave: pide conectar…
+  assert.ok(v.includes('disabled'));                              // …y los botones no hacen nada
+  assert.ok(v.includes('🟠 Va mal') && v.includes("1-0 · 60'"));  // estado y marcador en directo
+  assert.ok(v.includes('🚫 prohibido'));
+  almacen.cl_token_github = 'x';
+  v = vm.runInContext('vTelegram()', ctx);
+  assert.ok(!v.includes('Conecta la app') && v.includes("tgAccion('aprobar','v9')") && v.includes("tgAccion('cancelar','p8')"));
+  assert.ok(!v.includes('github_pat_') || v.includes('placeholder'));   // la clave nunca se pinta
+  vm.runInContext('tgHecho("v9", {acc:"aprobar", estado:"ok"})', ctx);
+  v = vm.runInContext('vTelegram()', ctx);
+  assert.ok(v.includes('Aprobado: sale en la próxima vuelta') && !v.includes("tgAccion('aprobar','v9')"));
+  console.log('Panel 📲 Telegram: aprobar/cancelar en control.json, directo, avisos y clave.');
+}

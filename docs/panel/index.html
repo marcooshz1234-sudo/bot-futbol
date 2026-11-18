@@ -43,7 +43,7 @@ textarea{width:100%;min-height:200px;margin-top:8px}
 .big{font-weight:800;font-size:26px}
 .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
 .barra{height:8px;border-radius:99px;background:var(--card2);overflow:hidden;margin-top:5px}.barra>div{height:100%;background:var(--acc)}
-nav{position:fixed;left:0;right:0;bottom:0;background:rgba(10,15,28,.96);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(6,1fr);padding:6px 4px calc(6px + env(safe-area-inset-bottom));backdrop-filter:blur(10px)}
+nav{position:fixed;left:0;right:0;bottom:0;background:rgba(10,15,28,.96);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(7,1fr);padding:6px 4px calc(6px + env(safe-area-inset-bottom));backdrop-filter:blur(10px)}
 nav button{background:none;border:0;color:var(--mut);font:600 11px inherit;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 0;position:relative}
 nav button span{font-size:21px}nav button.on{color:var(--ok)}
 nav .badge{position:absolute;top:0;right:22%;background:var(--ko);color:#fff;font-size:10px;border-radius:99px;padding:1px 5px}
@@ -145,6 +145,26 @@ header h1 small{display:block;font-size:12px;font-weight:600;color:var(--mut);le
 .of-li.ok{border-color:#166534}.of-li.ko{border-color:#7f1d1d}
 .of-dot{display:inline-block;width:9px;height:9px;margin-right:6px;border:2px solid #000;vertical-align:middle}
 
+/* 18/11: 📲 Telegram (app de control) */
+.tg-kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:6px 0 4px}
+.tg-kpis div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:9px 4px;text-align:center}
+.tg-kpis b{display:block;font-size:22px;font-weight:800}.tg-kpis span{font-size:11px;color:var(--mut)}
+.tg-kpis .ok b{color:var(--ok)}.tg-kpis .warn b{color:var(--warn)}
+.tg-pill{font-size:12.5px;font-weight:800;padding:5px 8px;border-radius:10px;white-space:nowrap;background:var(--card2);color:var(--mut)}
+.tg-pill.verde{background:rgba(74,222,128,.16);color:var(--ok)}.tg-pill.va_bien{background:rgba(74,222,128,.10);color:#a7f3c0}
+.tg-pill.va_mal{background:rgba(251,191,36,.15);color:var(--warn)}.tg-pill.rojo{background:rgba(248,113,113,.18);color:var(--ko)}
+.tg-marc{display:flex;align-items:center;gap:8px;margin-top:8px;background:var(--card2);border-radius:10px;padding:7px 10px;font-size:13px}
+.tg-marc b{white-space:nowrap}.tg-vivo{width:8px;height:8px;border-radius:50%;background:var(--ko);animation:tglat 1.2s infinite;flex:none}
+@keyframes tglat{50%{opacity:.25}}
+.tg-tit{font-weight:700;font-size:15px;line-height:1.25}
+.tg-hecho{margin-top:10px;font-weight:700;font-size:14px;text-align:center;padding:10px;border-radius:12px;background:var(--card2)}
+.tg-fila{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border-bottom:1px solid var(--line);font-size:13.5px}
+.tg-fila:last-child{border-bottom:0}.tg-fila .hh{color:var(--mut);font-weight:700;min-width:42px}
+.tg-fila small{display:block;color:var(--mut)}
+.tg-chips{display:flex;gap:6px;margin:0 0 8px;flex-wrap:wrap}
+.tg-clave input{width:100%;margin-top:8px;background:var(--card2);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:10px;font:15px inherit;font-family:inherit}
+.tg-clave ol{margin:8px 0 0;padding-left:20px;font-size:13.5px;line-height:1.5}
+details.lista summary{cursor:pointer;list-style:none}details.lista summary::-webkit-details-marker{display:none}
 </style>
 <style id="estilo-cl">/* 11/11 (Marcos): estilo CL, como las fotos y el logo nuevo: negro, verde neón y el estadio de noche */
 :root:not([x]):not([y]){--bg:#050806;--card:rgba(10,18,10,.58);--card2:rgba(20,30,20,.64);--line:rgba(126,240,58,.32);--txt:#fff;
@@ -168,12 +188,12 @@ const tg = window.Telegram && Telegram.WebApp;
 if (tg) { tg.ready(); tg.expand(); try { tg.setHeaderColor("#0a0f1c"); tg.setBackgroundColor("#0a0f1c"); } catch (e) {} }
 const enTelegram = !!(tg && tg.initData);
 const BOT = "https://t.me/combilocas_publica_bot";
-let D = null, tab = "cola", cambios = [], abiertos = new Set(), editando = null;
+let D = null, tab = "tg", cambios = [], abiertos = new Set(), editando = null;
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const dia = f => { const h = new Date(); const d = f.slice(0,10); const hoy = h.toISOString().slice(0,10);
   const man = new Date(h.getTime()+864e5).toISOString().slice(0,10); return d===hoy?"Hoy":d===man?"Mañana":d.slice(8,10)+"/"+d.slice(5,7) };
-const TABS = [["cola","📅","Cola"],["redes","📡","Redes"],["com","💬","Respuestas"],["oficina","🏢","Oficina"],["ajustes","🎛️","Ajustes"],["rend","📈","Números"]];
+const TABS = [["tg","📲","Telegram"],["cola","📅","Cola"],["redes","📡","Redes"],["com","💬","Respuestas"],["oficina","🏢","Oficina"],["ajustes","🎛️","Ajustes"],["rend","📈","Números"]];
 
 async function cargar(){
   try { D = await (await fetch("datos.json?t="+Date.now(), {cache:"no-store"})).json(); }
@@ -183,14 +203,14 @@ async function cargar(){
   pintar();
 }
 function nav(){
-  const nc = D.comentarios.length, nf = D.redes.filter(p=>Object.values(p.redes).some(r=>r.error)).length;
+  const na = D.telegram ? D.telegram.aprobar.filter(a => !((tgHechos()[a.id]||{}).estado==="ok")).length : 0, nc = D.comentarios.length, nf = D.redes.filter(p=>Object.values(p.redes).some(r=>r.error)).length;
   $("#nav").innerHTML = TABS.map(([k,i,n]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${n}${
-    k==="com"&&nc?`<i class="badge">${nc}</i>`:k==="redes"&&nf?`<i class="badge">${nf}</i>`:""}</button>`).join("");
+    k==="tg"&&na?`<i class="badge">${na}</i>`:k==="com"&&nc?`<i class="badge">${nc}</i>`:k==="redes"&&nf?`<i class="badge">${nf}</i>`:""}</button>`).join("");
 }
 function ir(k){ tab = k; window.scrollTo(0,0); pintar(); }
 function pintar(){
   nav();
-  const f = {cola:vCola, redes:vRedes, com:vCom, oficina:vOficina, ajustes:vAjustes, rend:vRend}[tab];
+  const f = {tg:vTelegram, cola:vCola, redes:vRedes, com:vCom, oficina:vOficina, ajustes:vAjustes, rend:vRend}[tab];
   $("#vista").innerHTML = (D.pausa && !cambio("pausa") ? `<div class="aviso">⏸️ El bot está en pausa: no se publica nada.</div>` : "") + f();
   const b = $("#aplicar"); b.style.display = cambios.length ? "block" : "none";
   b.textContent = `✅ Aplicar ${cambios.length} cambio${cambios.length>1?"s":""}`;
@@ -393,6 +413,134 @@ function vRend(){
   const barras = (l, et) => { const m = Math.max(...l.map(x=>x.media), 1); return l.map(x => `<div style="margin-bottom:10px"><div class="row"><span class="sp">${esc(x[et])}</span><b>${x.media.toLocaleString("es-ES")}</b><span class="mut">· ${x.n} posts</span></div><div class="barra"><div style="width:${100*x.media/m}%"></div></div></div>`).join(""); };
   h += `<h2>Vistas medias por tipo de post</h2><div class="card">${barras(R.por_tipo, "tipo")}</div>`;
   h += `<h2>Vistas medias por hora</h2><div class="card">${barras(R.por_hora, "franja")}</div><div class="mut">Últimos 14 días, solo Threads.</div>`;
+  return h;
+}
+// ---------- 📲 Telegram (18/11, Marcos: «una app y desde la propia app lo pueda gestionar todo»)
+// Los botones escriben en publicaciones/control.json con la API de GitHub y el token que Marcos pega aquí una vez
+// (se guarda solo en su móvil, localStorage). Lo mismo que el «✅ Publicar» del bot: aprobados[id] / cancelados.
+const GH_REPO = "marcooshz1234-sudo/bot-futbol", GH_RUTA = "publicaciones/control.json", GH_CLAVE = "cl_token_github";
+let tgFiltro = "todo", tgMsg = "";
+const tgLS = { get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } },
+               set(k,v){ try { v===null ? localStorage.removeItem(k) : localStorage.setItem(k,v); } catch(e){} } };
+function tgHechos(){ try { const h = JSON.parse(tgLS.get("cl_tg_hechos")||"{}"); const lim = Date.now()-45*60000;
+  for (const k in h) if (h[k].t < lim) delete h[k]; return h; } catch(e){ return {}; } }
+function tgHecho(id, v){ const h = tgHechos(); if (v===null) delete h[id]; else h[id] = {...v, t: Date.now()}; tgLS.set("cl_tg_hechos", JSON.stringify(h)); }
+function horaMadrid(d){ return new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Madrid",year:"numeric",month:"2-digit",day:"2-digit",
+  hour:"2-digit",minute:"2-digit",hour12:false}).format(d||new Date()).replace(" ","T"); }
+function b64aTexto(b){ const s = atob(b.replace(/\s/g,"")); const u = new Uint8Array(s.length); for (let i=0;i<s.length;i++) u[i]=s.charCodeAt(i); return new TextDecoder().decode(u); }
+function textoAb64(t){ const u = new TextEncoder().encode(t); let s = ""; for (let i=0;i<u.length;i+=8192) s += String.fromCharCode.apply(null, u.subarray(i,i+8192)); return btoa(s); }
+// cambios en control.json (puros, para poder probarlos): devuelven false si ya estaba hecho
+const TG_ACC = {
+  aprobar(c, id, ahora){ c.aprobados = c.aprobados || {}; if (c.aprobados[id]) return false; c.aprobados[id] = ahora; return true; },
+  nosale(c, id){ c.cancelados = c.cancelados || []; if (c.cancelados.includes(id)) return false; c.cancelados.push(id); return true; },
+  recuperar(c, id){ c.cancelados = c.cancelados || []; if (!c.cancelados.includes(id)) return false; c.cancelados = c.cancelados.filter(x => x !== id); return true; },
+};
+TG_ACC.cancelar = TG_ACC.nosale;
+const TG_TXT = {aprobar:"✅ Aprobado: sale en la próxima vuelta del bot (2-3 min)", nosale:"❌ No sale", cancelar:"✕ Cancelado: no saldrá", recuperar:"↩️ Recuperado: saldrá a su hora"};
+async function ghPedir(metodo, cuerpo){
+  const tok = tgLS.get(GH_CLAVE); if (!tok) throw new Error("Falta conectar la app (la clave de GitHub)");
+  const r = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_RUTA}` + (metodo==="GET" ? "?ref=main&t="+Date.now() : ""), {
+    method: metodo, cache: "no-store", headers: {Authorization: "Bearer "+tok, Accept: "application/vnd.github+json"},
+    body: cuerpo ? JSON.stringify(cuerpo) : undefined});
+  if (r.status === 401 || r.status === 403) throw new Error("La clave de GitHub no vale o no tiene permiso «Contents: Read and write»");
+  return r;
+}
+async function ghCambiar(acc, id){
+  for (let i=0; i<4; i++){
+    const r = await ghPedir("GET"); if (!r.ok) throw new Error("GitHub no responde ("+r.status+")");
+    const j = await r.json(); const c = JSON.parse(b64aTexto(j.content));
+    if (!TG_ACC[acc](c, id, horaMadrid())) return "ya";
+    const w = await ghPedir("PUT", {message: `App: ${acc} ${id}`, content: textoAb64(JSON.stringify(c, null, 2) + "\n"), sha: j.sha, branch: "main"});
+    if (w.ok) return "ok";
+    if (w.status !== 409 && w.status !== 422) throw new Error("GitHub no lo ha guardado ("+w.status+")");
+    await new Promise(s => setTimeout(s, 1500));   // otro commit a la vez (el bot): se lee otra vez y se repite
+  }
+  throw new Error("GitHub estaba ocupado: prueba otra vez");
+}
+async function tgAccion(acc, id){
+  tgHecho(id, {acc, estado:"enviando"}); pintar();
+  try {
+    await ghCambiar(acc, id);
+    tgHecho(id, {acc, estado:"ok"});
+    // el bucle hace pull --rebase -X theirs: si pisa el cambio, a los 2 y 5 min se vuelve a poner (si ya está, no hace nada)
+    for (const s of [120, 300]) setTimeout(() => ghCambiar(acc, id).catch(()=>{}), s*1000);
+  } catch(e){ tgHecho(id, {acc, estado:"error", msg: e.message}); }
+  pintar();
+}
+async function tgGuardarClave(){
+  const v = ($("#tgclave").value||"").trim(); if (!v) return;
+  tgLS.set(GH_CLAVE, v); tgMsg = "Comprobando…"; pintar();
+  try { const r = await ghPedir("GET"); if (!r.ok) throw new Error("GitHub no responde ("+r.status+")"); tgMsg = "✅ App conectada: los botones ya funcionan"; }
+  catch(e){ tgLS.set(GH_CLAVE, null); tgMsg = "⚠️ " + e.message; }
+  pintar();
+}
+function tgQuitarClave(){ tgLS.set(GH_CLAVE, null); tgMsg = "Clave quitada de este móvil"; pintar(); }
+function tgEstado(e){ return {verde:"✅ Verde", rojo:"❌ Rojo", va_bien:"🟢 Va bien", va_mal:"🟠 Va mal", pendiente:"⏳ Sin empezar"}[e] || ""; }
+function tgMarcador(p){
+  const m = Array.isArray(p.marcador) ? `${p.marcador[0]}-${p.marcador[1]}` : "";
+  const t = p.fin ? "final" : p.minuto ? p.minuto+"'" : "";
+  const vivo = !p.fin && p.minuto;
+  return `<div class="tg-marc">${vivo?'<i class="tg-vivo"></i>':""}<b>${esc([m,t].filter(Boolean).join(" · ")||"—")}</b><span class="mut">${esc(p.progreso||p.texto||"")}</span></div>`;
+}
+function tgCuerpo(p){ return abiertos.has(p.id) ? `${p.foto?`<img class="img" loading="lazy" src="${esc(p.foto)}">`:""}<div class="txt abierto">${esc(p.texto)}</div>`
+  : `<div class="mut" style="font-size:12px;margin-top:6px">${p.foto?"🖼️ ":""}Toca para ver el post tal cual ↓</div>`; }
+function tgBotones(p, botones){
+  const h = tgHechos()[p.id];
+  if (h && h.estado === "enviando") return `<div class="tg-hecho">Guardando…</div>`;
+  if (h && h.estado === "ok") return `<div class="tg-hecho">${TG_TXT[h.acc]}</div>`;
+  return (h && h.estado === "error" ? `<div class="aviso" style="margin-top:8px">⚠️ ${esc(h.msg)}</div>` : "") + `<div class="acciones">${botones}</div>`;
+}
+function vTelegram(){
+  const T = D.telegram; if (!T) return `<div class="vacio">Aún no hay datos de Telegram: espera a la próxima vuelta del bot.</div>`;
+  const tok = !!tgLS.get(GH_CLAVE), hechos = tgHechos();
+  const aprobar = T.aprobar.filter(a => !(hechos[a.id] && hechos[a.id].estado === "ok"));
+  let h = "";
+  if (!tok) h += `<div class="card tg-clave pend"><b>🔑 Conecta la app (solo una vez)</b>
+    <div class="mut">Para que los botones funcionen. La clave se queda solo en este móvil.</div>
+    <ol><li>Abre <a href="https://github.com/settings/personal-access-tokens/new" style="color:var(--ok)">github.com → nuevo token fino</a>.</li>
+    <li>Nombre: <b>App Combilocas</b>. Caducidad: la que quieras.</li>
+    <li>Repository access → <b>Only select repositories</b> → <b>bot-futbol</b>.</li>
+    <li>Permissions → Repository → <b>Contents: Read and write</b>. Nada más.</li>
+    <li>Generate token, cópialo y pégalo aquí:</li></ol>
+    <input id="tgclave" type="password" autocomplete="off" placeholder="github_pat_…">
+    <div class="acciones"><button class="btn acc" onclick="tgGuardarClave()">Guardar</button></div>
+    ${tgMsg?`<div class="mut" style="margin-top:6px">${esc(tgMsg)}</div>`:""}</div>`;
+  else if (tgMsg) h += `<div class="aviso">${esc(tgMsg)}</div>`;
+  const c = T.cuenta;
+  h += `<div class="tg-kpis"><div><b>${T.picks}</b><span>picks hoy</span></div><div class="ok"><b>${c.verde}</b><span>en verde</span></div>
+    <div><b>${c.va_bien+c.va_mal}</b><span>en juego</span></div><div class="warn"><b>${aprobar.length}</b><span>por aprobar</span></div></div>`;
+  // ⏳ por aprobar
+  h += `<h2>⏳ Por aprobar</h2>` + (T.aprobar.length ? T.aprobar.map(a => `<div class="card ${hechos[a.id]?"":"pend"}">
+    <div class="post" onclick="abrir('${a.id}')"><div class="h">${a.fecha.slice(11,16)}<small>${dia(a.fecha)}</small></div>
+    <div class="sp"><div class="tg-tit">${esc(a.titulo)}</div><div class="tipo">${esc(a.tipo)}${a.partido?" · "+esc(a.partido):""}</div></div></div>
+    <div class="aviso" style="margin-top:8px">${esc(a.por)}${a.falta_cuota?"<br><b>Falta la cuota de bet365: mándasela al bot y luego publícalo.</b>":""}</div>
+    ${tgCuerpo(a)}
+    ${tgBotones(a, `<button class="btn acc" ${a.falta_cuota||!tok?"disabled style='opacity:.4'":""} onclick="tgAccion('aprobar','${a.id}')">✅ Publicar</button>
+      <button class="btn ko" ${!tok?"disabled style='opacity:.4'":""} onclick="tgAccion('nosale','${a.id}')">❌ No sale</button>`)}</div>`).join("")
+    : `<div class="vacio">Nada pendiente 👌</div>`);
+  // 🔜 lo próximo
+  h += `<h2>🔜 Lo próximo (aún no ha salido)</h2>` + (T.proximo.length ? T.proximo.map(p => `<div class="card">
+    <div class="post" onclick="abrir('${p.id}')"><div class="h">${p.fecha.slice(11,16)}<small>${dia(p.fecha)}</small></div>
+    <div class="sp"><div class="tg-tit">${esc(p.titulo)}</div><div class="tipo">${esc(p.tipo)}${p.partido?" · "+esc(p.partido):""}${p.aprobado?" · ✅ aprobado":""}</div></div></div>
+    ${tgCuerpo(p)}${tgBotones(p, `<button class="btn ko" ${!tok?"disabled style='opacity:.4'":""} onclick="tgAccion('cancelar','${p.id}')">✕ Cancelar</button>`)}</div>`).join("")
+    : `<div class="vacio">Nada más en la cola de Telegram</div>`);
+  // 📡 hoy en el canal
+  const es = T.enviados.filter(p => tgFiltro==="todo" || (tgFiltro==="picks") === !!p.directo);
+  h += `<h2>📡 Hoy en el canal</h2><div class="tg-chips">${[["todo","Todo"],["picks","Picks"],["otros","Verdes y resumen"]].map(([k,n]) =>
+    `<button class="chip ${tgFiltro===k?"ok":""}" style="border:0;font:700 13px inherit;padding:6px 12px" onclick="tgFiltro='${k}';pintar()">${n}</button>`).join("")}</div>`;
+  h += es.length ? es.map(p => `<div class="card"><div class="post" onclick="abrir('${p.id}')">
+    <div class="h">${p.hora}<small>${p.mid?"#"+p.mid:""}</small></div>
+    <div class="sp"><div class="tg-tit">${esc(p.titulo)}</div><div class="tipo">${esc(p.tipo)}${p.partido?" · "+esc(p.partido):""}</div></div>
+    ${p.directo?`<span class="tg-pill ${p.directo.estado}">${tgEstado(p.directo.estado)}</span>`:""}</div>
+    ${p.directo ? p.directo.picks.map(tgMarcador).join("") : ""}${tgCuerpo(p)}</div>`).join("") : `<div class="vacio">Hoy aún no ha salido nada</div>`;
+  // ⚠️ avisos
+  h += `<h2>⚠️ Avisos del vigilante · solo Telegram</h2><div class="lista">` + (T.avisos.length ? T.avisos.map(a =>
+    `<div class="tg-fila"><span class="hh">${esc(a.hora)}</span><span>${esc(a.t)}</span></div>`).join("") : `<div class="vacio">Sin avisos 👌</div>`) + `</div>`;
+  // 🚫 no salen
+  if (T.no_salen.length) h += `<h2>🚫 No salen hoy</h2><details class="lista"><summary class="tg-fila"><span class="hh">${T.no_salen.length}</span><span>Cancelados o frenados · ver ↓</span></summary>` +
+    T.no_salen.map(n => `<div class="tg-fila"><span class="hh">${n.fecha.slice(11,16)}</span><span class="sp">${esc(n.titulo)}<small>${esc(n.tipo)} · ${esc(n.motivo)}</small>
+      ${n.cancelado && n.se_puede ? tgBotones(n, `<button class="btn sm" ${!tok?"disabled style='opacity:.4'":""} onclick="tgAccion('recuperar','${n.id}')">↩️ Recuperar</button>`) : ""}</span></div>`).join("") + `</details>`;
+  if (tok) h += `<div class="mut" style="text-align:center;margin-top:14px">🔑 App conectada · <a href="#" style="color:var(--mut)" onclick="tgQuitarClave();return false">quitar la clave de este móvil</a></div>`;
   return h;
 }
 cargar();

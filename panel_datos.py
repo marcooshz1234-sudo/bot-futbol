@@ -175,6 +175,11 @@ def main():
     datos = {"generado": ahora.strftime("%Y-%m-%d %H:%M"), "pausa": bool(control.get("pausa")),
              "cola": cola, "redes": redes, "comentarios": com[-30:], "claude": claude[-40:],
              "ajustes": {k: dict(a, v=ajustes(control)[k]) for k, a in AJUSTES.items() if "rol" not in a}, "rendimiento": rendimiento}
+    try:   # 18/11: pestaña 📲 Telegram (app de control)
+        import panel_telegram
+        datos["telegram"] = panel_telegram.main(posts, control, ahora)
+    except Exception as e:
+        print("telegram:", e)
     SALIDA.parent.mkdir(parents=True, exist_ok=True)
     SALIDA.write_text(json.dumps(datos, ensure_ascii=False) + "\n", encoding="utf-8")
     try:   # 10/11: la Oficina Combilocas (pestaña 🏢)
