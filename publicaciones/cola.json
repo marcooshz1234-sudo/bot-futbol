@@ -8724,7 +8724,14 @@
     "foto_tg": "publicaciones/media/2026-11-18-pick-tip-1.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-18T18:45",
-    "mensaje_id": 538
+    "mensaje_id": 538,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-19-pick-tip-1",
@@ -8741,7 +8748,14 @@
     "foto_tg": "publicaciones/media/2026-11-19-pick-tip-1.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-18T18:45",
-    "mensaje_id": 539
+    "mensaje_id": 539,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-18-pick-tip-2",
@@ -8758,6 +8772,13 @@
     "foto_tg": "publicaciones/media/2026-11-18-pick-tip-2.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-18T18:45",
-    "mensaje_id": 540
+    "mensaje_id": 540,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
