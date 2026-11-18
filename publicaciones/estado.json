@@ -1,4 +1,6 @@
 {
-  "comprobado": "2026-11-18 18:43",
-  "error": "Telegram no responde"
+  "comprobado": "2026-11-18 18:44",
+  "bot": "@combilocas_publica_bot",
+  "rol": "administrator",
+  "puede_publicar": true
 }
