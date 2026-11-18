@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 00:16",
+ "actualizado": "2026-11-19 00:26",
  "redes": {
   "instagram": {
    "seguidores": 51,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 479,
-   "hoy": 0,
+   "seguidores": 480,
+   "hoy": 1,
    "serie": [
     401,
     404,
@@ -50,17 +50,17 @@
     439,
     471,
     479,
-    479
+    480
    ]
   }
  },
- "total": 3747,
- "total_hoy": 1,
+ "total": 3748,
+ "total_hoy": 2,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "00:30",
   "dia": "2026-11-19",
-  "titulo": "Vamos con el pick de hoy familia"
+  "titulo": "La centenaria x10,85"
  },
  "ayer": null,
  "escalera": {
@@ -233,7 +233,7 @@
    "instagram": 51,
    "threads": 3216,
    "facebook": 1,
-   "telegram": 479
+   "telegram": 480
   }
  },
  "tipos_instagram": {
