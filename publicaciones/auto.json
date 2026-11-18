@@ -9177,5 +9177,29 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-combi-favoritas",
+    "fecha": "2026-11-18T17:30",
+    "solo_en": [
+      "telegram"
+    ],
+    "fijo": true,
+    "directo": true,
+    "origen": "analista",
+    "sel": [
+      "1638333|Match Winner|Home",
+      "1638306|Match Winner|Away",
+      "1638301|Match Winner|Home",
+      "1638312|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.22,
+      1.27,
+      1.27,
+      1.33
+    ],
+    "texto": "Combi de las favoritas de la Champions femenina 🔥\n\n🏆 Gana el Real Madrid (fem.) · vs Inter · 18:45\n🏆 Gana el Manchester City (fem.) · en Häcken · 18:45\n🏆 Gana el Chelsea (fem.) · vs PSG · 21:00\n🏆 Gana la Juventus (fem.) · vs Leuven · 21:00\n\n📈 Cuota @2,62\n\n🧠 Por qué:\n👨‍💻 Los partidos del Real Madrid llevan 4,4 goles de media en los últimos 8.\n👨‍💻 Las cuatro son muy favoritas en bet365 (todas por debajo de 1,35) y juegan contra rivales de otro nivel.\n👨‍💻 Real Madrid, Chelsea y Juve juegan en casa; el City, ante el rival más flojo de los cuatro.",
+    "nota": "18/11 Marcos: «me gusta la combi de las 4 favoritas»"
   }
 ]
