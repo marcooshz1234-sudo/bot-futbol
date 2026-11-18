@@ -1,10 +1,39 @@
 # Trento – Cittadella
 **Serie C** · Girone A - 15 · 20/11/2026 20:30 (hora España) · Stadio Briamasco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 18/11 08:25_
+
+- **1X2:** 1 **2.25**  ·  X **3.10**  ·  2 **2.88**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.53**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.08**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **1.91**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.10**  ·  2 **3.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.91**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **4.33**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **9.50**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.98**  ·  Menos de 4 **1.82**
 
 ## Estadísticas de equipo
 | | Trento (total) | Trento en casa | Cittadella (total) | Cittadella fuera |

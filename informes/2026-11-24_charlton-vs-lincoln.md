@@ -1,7 +1,7 @@
 # Charlton – Lincoln
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · The Valley
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

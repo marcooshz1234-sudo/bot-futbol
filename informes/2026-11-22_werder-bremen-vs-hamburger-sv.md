@@ -1,7 +1,7 @@
 # Werder Bremen – Hamburger SV
 **Bundesliga** · Regular Season - 10 · 22/11/2026 17:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_

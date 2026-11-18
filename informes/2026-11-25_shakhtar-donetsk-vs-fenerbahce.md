@@ -1,10 +1,51 @@
 # Shakhtar Donetsk – Fenerbahçe
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 18/11 08:26_
+
+- **1X2:** 1 **2.50**  ·  X **3.50**  ·  2 **2.55**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **3.10**  ·  X **2.30**  ·  2 **3.10**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.80**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **3.40**
+- **Win Both Halves:** 1 **9.00**  ·  2 **9.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.50**  ·  Home/No **5.00**  ·  Draw/No **15.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Away Player Shots On Target Total:** Marlon da Silva **26.00**  ·  Alaa Ghram **17.00**  ·  Dmytro Kryskiv **29.00**  ·  Mykola Matviyenko **23.00**  ·  Milan Skriniar **17.00**  ·  Alisson Santana **41.00**  ·  Lucas Ferreira **51.00**  ·  Prosper Obah **15.00**  ·  Matteo Guendouzi **41.00**  ·  Gabriel Carvalho **51.00**  ·  Kerem Akturkoglu **29.00**  ·  Valeriy Bondar **21.00**  ·  Irfan Kahveci **29.00**  ·  Ismail Yuksek **21.00**  ·  Mert Muldur **26.00**  ·  Yigit Efe Demir **23.00**  ·  Oleg Ocheretko **29.00**  ·  Pedrinho da Silva **41.00**  ·  Severino Isaque **41.00**  ·  Mason Greenwood **21.00**  ·  Nene Dorgeles **12.00**  ·  Archie Brown **26.00**  ·  Romelu Lukaku **7.50**  ·  Vedat Muriqi **6.00**  ·  Oguz Aydin **21.00**  ·  Mert Hakan Yandas **34.00**  ·  Munir Mercan **67.00**  ·  Bartug Elmaz **51.00**  ·  Kojo Oppong **19.00**  ·  Ryan Roberto **29.00**  ·  Ngolo Kante **67.00**  ·  Irakli Azarovi **81.00**  ·  Viktor Tsukanov **41.00**  ·  Yehor Nazaryna **67.00**  ·  Ognjen Mimovic **51.00**  ·  Lassina Traore **11.00**  ·  Vinicius Tobias **101.00**  ·  Oleksandr Karavaev **34.00**  ·  Nathan Ake **23.00**  ·  Marlon Gomes **34.00**  ·  Newerton **34.00**  ·  Bruninho Ramos **51.00**  ·  Pedro Henrique Azevedo **51.00**  ·  Luca Meirelles **12.00**  ·  Kaua Elias **12.00**  ·  Nelson Semedo **67.00**  ·  Gleiker Mendoza **26.00**
+- **Anytime Goal Scorer:** Marlon da Silva **15.00**  ·  Alaa Ghram **10.00**  ·  Dmytro Kryskiv **7.00**  ·  Mykola Matviyenko **12.00**  ·  Milan Skriniar **12.00**  ·  Alisson Santana **4.75**  ·  Lucas Ferreira **5.50**  ·  Prosper Obah **3.10**  ·  Matteo Guendouzi **9.00**  ·  Gabriel Carvalho **5.50**  ·  Kerem Akturkoglu **3.40**  ·  Valeriy Bondar **15.00**  ·  Irfan Kahveci **6.00**  ·  Ismail Yuksek **7.50**  ·  Mert Muldur **10.00**  ·  Yigit Efe Demir **10.00**  ·  Oleg Ocheretko **6.00**  ·  Pedrinho da Silva **4.75**  ·  Severino Isaque **4.75**  ·  Mason Greenwood **2.75**  ·  Nene Dorgeles **3.60**  ·  Archie Brown **8.00**  ·  Romelu Lukaku **2.75**  ·  Vedat Muriqi **2.60**  ·  Oguz Aydin **4.75**  ·  Mert Hakan Yandas **5.50**  ·  Munir Mercan **8.00**  ·  Bartug Elmaz **7.00**  ·  Kojo Oppong **10.00**  ·  Ryan Roberto **4.75**  ·  Ngolo Kante **7.50**  ·  Irakli Azarovi **15.00**  ·  Viktor Tsukanov **4.75**  ·  Yehor Nazaryna **7.50**  ·  Ognjen Mimovic **8.00**  ·  Lassina Traore **2.88**  ·  Vinicius Tobias **12.00**  ·  Oleksandr Karavaev **6.00**  ·  Nathan Ake **15.00**  ·  Marlon Gomes **6.00**  ·  Newerton **4.00**  ·  Bruninho Ramos **5.50**  ·  Pedro Henrique Azevedo **10.00**  ·  Luca Meirelles **3.10**  ·  Kaua Elias **3.10**  ·  Nelson Semedo **12.00**  ·  Gleiker Mendoza **4.00**
+- **Player to Score or Assist:** Marlon da Silva **9.00**  ·  Alaa Ghram **7.50**  ·  Dmytro Kryskiv **3.60**  ·  Mykola Matviyenko **6.00**  ·  Milan Skriniar **7.00**  ·  Alisson Santana **2.75**  ·  Lucas Ferreira **3.60**  ·  Prosper Obah **2.20**  ·  Matteo Guendouzi **5.00**  ·  Gabriel Carvalho **3.00**  ·  Kerem Akturkoglu **2.25**  ·  Valeriy Bondar **9.00**  ·  Irfan Kahveci **3.25**  ·  Ismail Yuksek **4.00**  ·  Mert Muldur **5.50**  ·  Yigit Efe Demir **6.50**  ·  Oleg Ocheretko **3.75**  ·  Pedrinho da Silva **2.62**  ·  Severino Isaque **2.75**  ·  Mason Greenwood **1.91**  ·  Nene Dorgeles **2.50**  ·  Archie Brown **4.00**  ·  Romelu Lukaku **2.05**  ·  Vedat Muriqi **2.05**  ·  Oguz Aydin **2.62**  ·  Mert Hakan Yandas **3.00**  ·  Munir Mercan **3.60**  ·  Bartug Elmaz **4.00**  ·  Kojo Oppong **7.00**  ·  Ryan Roberto **3.20**  ·  Ngolo Kante **4.50**  ·  Irakli Azarovi **4.75**  ·  Viktor Tsukanov **2.88**  ·  Yehor Nazaryna **5.00**  ·  Ognjen Mimovic **5.50**  ·  Lassina Traore **1.91**  ·  Vinicius Tobias **4.75**  ·  Oleksandr Karavaev **3.00**  ·  Nathan Ake **8.00**  ·  Marlon Gomes **3.40**  ·  Newerton **2.62**  ·  Bruninho Ramos **3.25**  ·  Pedro Henrique Azevedo **3.75**  ·  Luca Meirelles **2.25**  ·  Kaua Elias **2.40**  ·  Nelson Semedo **6.50**  ·  Gleiker Mendoza **2.40**
 
 ## Estadísticas de equipo
 | | Shakhtar Donetsk (total) | Shakhtar Donetsk en casa | Fenerbahçe (total) | Fenerbahçe fuera |

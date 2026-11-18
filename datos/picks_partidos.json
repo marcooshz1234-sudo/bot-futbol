@@ -1,212 +1,4 @@
 {
- "2026-11-20": [
-  {
-   "partido_id": 1565308,
-   "fecha": "2026-11-20T16:30",
-   "local": "FC Botosani",
-   "visitante": "FC Voluntari",
-   "liga": "Liga I",
-   "datos": [
-    "Los partidos del FC Botosani llevan 3,0 goles de media (últimos 8).",
-    "Los partidos del FC Voluntari llevan 2,9 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1565308|Total - Away|Over 0.5",
-     "texto": "FC Voluntari marca",
-     "cuota": 1.44,
-     "prob": 0.48
-    },
-    {
-     "sel": "1565308|Both Teams Score|Yes",
-     "texto": "Ambos marcan en FC Botosani–FC Voluntari",
-     "cuota": 1.67,
-     "prob": 0.44
-    }
-   ]
-  },
-  {
-   "partido_id": 1551377,
-   "fecha": "2026-11-20T19:00",
-   "local": "Aarhus Fremad",
-   "visitante": "Hobro",
-   "liga": "1. Division",
-   "datos": [
-    "Los partidos del Aarhus Fremad llevan 1,8 goles de media (últimos 8).",
-    "Los partidos del Hobro llevan 2,9 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1551377|Total - Away|Over 0.5",
-     "texto": "Hobro marca",
-     "cuota": 1.4,
-     "prob": 0.49
-    }
-   ]
-  },
-  {
-   "partido_id": 1551380,
-   "fecha": "2026-11-20T19:00",
-   "local": "Kolding IF",
-   "visitante": "Aalborg",
-   "liga": "1. Division",
-   "datos": [
-    "El Aalborg no ha ganado ninguno de sus últimos 5.",
-    "Los partidos del Kolding IF llevan 2,5 goles de media (últimos 8).",
-    "Los partidos del Aalborg llevan 3,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1551380|Double Chance|Home/Draw",
-     "texto": "Kolding IF o empate",
-     "cuota": 1.62,
-     "prob": 0.55
-    },
-    {
-     "sel": "1551380|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Kolding IF–Aalborg",
-     "cuota": 1.57,
-     "prob": 0.47
-    }
-   ]
-  },
-  {
-   "partido_id": 1565306,
-   "fecha": "2026-11-20T19:30",
-   "local": "Farul Constanta",
-   "visitante": "Universitatea Cluj",
-   "liga": "Liga I",
-   "datos": [
-    "El Farul Constanta no ha perdido en casa en sus últimos 6 partidos (4V 2E).",
-    "El Farul Constanta ha ganado 3 de sus últimos 5 partidos.",
-    "Los partidos del Farul Constanta llevan 3,5 goles de media (últimos 8).",
-    "Los partidos del Universitatea Cluj llevan 3,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1565306|Double Chance|Home/Draw",
-     "texto": "Farul Constanta o empate",
-     "cuota": 1.53,
-     "prob": 0.52
-    },
-    {
-     "sel": "1565306|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Farul Constanta–Universitatea Cluj",
-     "cuota": 1.62,
-     "prob": 0.45
-    },
-    {
-     "sel": "1565306|Total Corners (1st Half)|Over 4.5",
-     "texto": "Más de 4,5 córners en la 1ª parte en Farul Constanta–Universitatea Cluj",
-     "cuota": 1.8,
-     "prob": 0.44
-    }
-   ]
-  },
-  {
-   "partido_id": 1570025,
-   "fecha": "2026-11-20T20:30",
-   "local": "FC Andorra",
-   "visitante": "Leganes",
-   "liga": "Segunda",
-   "datos": [
-    "Los partidos del FC Andorra llevan 2,9 goles de media (últimos 8).",
-    "Los partidos del Leganes llevan 3,2 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1570025|Corners 1x2|Home",
-     "texto": "FC Andorra hace más córners",
-     "cuota": 1.4,
-     "prob": 0.52
-    },
-    {
-     "sel": "1570025|Total - Away|Over 0.5",
-     "texto": "Leganes marca",
-     "cuota": 1.44,
-     "prob": 0.5
-    },
-    {
-     "sel": "1570025|Home Corners Over/Under|Over 5.5",
-     "texto": "FC Andorra hace más de 5,5 córners",
-     "cuota": 1.8,
-     "prob": 0.49
-    },
-    {
-     "sel": "1570025|Both Teams Score|Yes",
-     "texto": "Ambos marcan en FC Andorra–Leganes",
-     "cuota": 1.73,
-     "prob": 0.45
-    }
-   ]
-  },
-  {
-   "partido_id": 1575221,
-   "fecha": "2026-11-20T20:30",
-   "local": "Bayern München",
-   "visitante": "1. FC Köln",
-   "liga": "Bundesliga",
-   "datos": [
-    "El Bayern München va 1º y el 1. FC Köln 14º en la liga.",
-    "Los partidos del Bayern München llevan 4,6 goles de media (últimos 8).",
-    "Los partidos del 1. FC Köln llevan 2,4 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1575221|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Bayern München–1. FC Köln",
-     "cuota": 1.36,
-     "prob": 0.57
-    },
-    {
-     "sel": "1575221|Player Fouls Committed|Dayot Upamecano - 1",
-     "texto": "Dayot Upamecano comete 1+ faltas",
-     "cuota": 1.4,
-     "prob": 0.56
-    },
-    {
-     "sel": "1575221|Away Corners Over/Under|Over 2.5",
-     "texto": "1. FC Köln hace más de 2,5 córners",
-     "cuota": 1.62,
-     "prob": 0.26
-    }
-   ]
-  },
-  {
-   "partido_id": 1570454,
-   "fecha": "2026-11-20T21:00",
-   "local": "Athletic Club",
-   "visitante": "Espanyol",
-   "liga": "LaLiga",
-   "datos": [
-    "El Athletic Club va 7º y el Espanyol 15º en la liga.",
-    "El Athletic Club ha ganado 3 de sus últimos 5 partidos.",
-    "El Espanyol solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Athletic Club llevan 2,8 goles de media (últimos 8).",
-    "Los partidos del Espanyol llevan 2,2 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1570454|Match Winner|Home",
-     "texto": "Gana el Athletic Club",
-     "cuota": 1.45,
-     "prob": 0.62
-    },
-    {
-     "sel": "1570454|Total - Away|Over 0.5",
-     "texto": "Espanyol marca",
-     "cuota": 1.73,
-     "prob": 0.42
-    },
-    {
-     "sel": "1570454|Away Corners Over/Under|Over 2.5",
-     "texto": "Espanyol hace más de 2,5 córners",
-     "cuota": 1.62,
-     "prob": 0.26
-    }
-   ]
-  }
- ],
  "2026-11-21": [
   {
    "partido_id": 1557474,
@@ -746,6 +538,32 @@
      "texto": "Ambos marcan en Nice–Paris Saint Germain",
      "cuota": 1.53,
      "prob": 0.46
+    }
+   ]
+  },
+  {
+   "partido_id": 1608376,
+   "fecha": "2026-11-21T17:30",
+   "local": "Giana Erminio",
+   "visitante": "Juventus U23",
+   "liga": "Serie C",
+   "datos": [
+    "El Juventus U23 no ha ganado fuera en sus últimos 6 partidos.",
+    "Los partidos del Giana Erminio llevan 2,2 goles de media (últimos 8).",
+    "Los partidos del Juventus U23 llevan 2,2 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608376|Double Chance|Home/Draw",
+     "texto": "Giana Erminio o empate",
+     "cuota": 1.44,
+     "prob": 0.55
+    },
+    {
+     "sel": "1608376|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Giana Erminio–Juventus U23",
+     "cuota": 1.8,
+     "prob": 0.44
     }
    ]
   },
@@ -1800,6 +1618,40 @@
    ]
   },
   {
+   "partido_id": 1608377,
+   "fecha": "2026-11-23T20:45",
+   "local": "Lecco",
+   "visitante": "Lumezzane",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Lecco llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Lumezzane llevan 2,6 goles de media (últimos 8).",
+    "El Lecco no ha perdido en casa en sus últimos 6 partidos (2V 4E).",
+    "El Lecco ha ganado 3 de sus últimos 5 partidos.",
+    "El Lumezzane solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1608377|Total - Home|Over 1.5",
+     "texto": "Lecco marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.62
+    },
+    {
+     "sel": "1608377|To Win Either Half|Home",
+     "texto": "Lecco gana alguna de las dos partes",
+     "cuota": 1.36,
+     "prob": 0.58
+    },
+    {
+     "sel": "1608377|Total - Away|Over 0.5",
+     "texto": "Lumezzane marca",
+     "cuota": 1.57,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
    "partido_id": 1550203,
    "fecha": "2026-11-23T20:45",
    "local": "Monza",
@@ -1877,6 +1729,181 @@
      "texto": "Ambos marcan en Levante–Elche",
      "cuota": 1.57,
      "prob": 0.43
+    }
+   ]
+  }
+ ],
+ "2026-11-25": [
+  {
+   "partido_id": 1635718,
+   "fecha": "2026-11-25T18:45",
+   "local": "Sabah FA",
+   "visitante": "Barcelona",
+   "liga": "Champions",
+   "datos": [
+    "Los partidos del Sabah FA llevan 3,9 goles de media (últimos 8).",
+    "Los partidos del Barcelona llevan 4,6 goles de media (últimos 8).",
+    "El Barcelona ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1635718|Total - Home|Over 0.5",
+     "texto": "Sabah FA marca",
+     "cuota": 1.53,
+     "prob": 0.67
+    },
+    {
+     "sel": "1635718|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Sabah FA–Barcelona",
+     "cuota": 1.57,
+     "prob": 0.45
+    },
+    {
+     "sel": "1635718|Results/Both Teams Score|Away/Yes",
+     "texto": "Gana el Barcelona y ambos marcan",
+     "cuota": 1.8,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "partido_id": 1635703,
+   "fecha": "2026-11-25T21:00",
+   "local": "Paris Saint Germain",
+   "visitante": "AS Roma",
+   "liga": "Champions",
+   "datos": [
+    "Los partidos del Paris Saint Germain llevan 4,4 goles de media (últimos 8).",
+    "Los partidos del AS Roma llevan 5,0 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1635703|Away Player Shots|Matias Soule - 2",
+     "texto": "Matias Soule: 2+ tiros",
+     "cuota": 1.36,
+     "prob": 0.8
+    },
+    {
+     "sel": "1635703|Home Player Shots|Desire Doue - 3",
+     "texto": "Desire Doue: 3+ tiros",
+     "cuota": 1.36,
+     "prob": 0.74
+    },
+    {
+     "sel": "1635703|Away Player Shots|Bryan Cristante - 1",
+     "texto": "Bryan Cristante: 1+ tiros",
+     "cuota": 1.4,
+     "prob": 0.74
+    },
+    {
+     "sel": "1635703|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Paris Saint Germain–AS Roma",
+     "cuota": 1.53,
+     "prob": 0.51
+    },
+    {
+     "sel": "1635703|Total - Away|Over 0.5",
+     "texto": "AS Roma marca",
+     "cuota": 1.44,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1635735,
+   "fecha": "2026-11-25T21:00",
+   "local": "Sporting CP",
+   "visitante": "Manchester United",
+   "liga": "Champions",
+   "datos": [
+    "El Manchester United no ha ganado fuera en sus últimos 6 partidos.",
+    "El Sporting CP ha ganado 3 de sus últimos 5 partidos.",
+    "El Manchester United solo ha ganado 1 de sus últimos 5.",
+    "Los partidos del Sporting CP llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Manchester United llevan 3,6 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1635735|Double Chance|Home/Draw",
+     "texto": "Sporting CP o empate",
+     "cuota": 1.5,
+     "prob": 0.52
+    },
+    {
+     "sel": "1635735|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United",
+     "cuota": 1.73,
+     "prob": 0.51
+    },
+    {
+     "sel": "1635735|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Sporting CP–Manchester United",
+     "cuota": 1.5,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1635673,
+   "fecha": "2026-11-25T21:00",
+   "local": "Inter",
+   "visitante": "VfB Stuttgart",
+   "liga": "Champions",
+   "datos": [
+    "El Inter ha ganado 4 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1635673|Away Player Shots|Jamie Leweling - 2",
+     "texto": "Jamie Leweling: 2+ tiros",
+     "cuota": 1.53,
+     "prob": 0.78
+    },
+    {
+     "sel": "1635673|Match Winner|Home",
+     "texto": "Gana el Inter",
+     "cuota": 1.42,
+     "prob": 0.61
+    }
+   ]
+  },
+  {
+   "partido_id": 1635682,
+   "fecha": "2026-11-25T21:00",
+   "local": "Lille",
+   "visitante": "Bayern München",
+   "liga": "Champions",
+   "datos": [],
+   "picks": [
+    {
+     "sel": "1635682|Away Player Shots|Joshua Kimmich - 1",
+     "texto": "Joshua Kimmich: 1+ tiros",
+     "cuota": 1.4,
+     "prob": 0.93
+    },
+    {
+     "sel": "1635682|Away Player Shots|Dayot Upamecano - 1",
+     "texto": "Dayot Upamecano: 1+ tiros",
+     "cuota": 1.8,
+     "prob": 0.8
+    },
+    {
+     "sel": "1635682|Away Player Shots|Harry Kane - 4",
+     "texto": "Harry Kane: 4+ tiros",
+     "cuota": 1.36,
+     "prob": 0.8
+    },
+    {
+     "sel": "1635682|Home Player Shots|Nabil Bentaleb - 1",
+     "texto": "Nabil Bentaleb: 1+ tiros",
+     "cuota": 1.62,
+     "prob": 0.78
+    },
+    {
+     "sel": "1635682|Home Player Shots|Soriba Diaoune - 2",
+     "texto": "Soriba Diaoune: 2+ tiros",
+     "cuota": 1.67,
+     "prob": 0.74
     }
    ]
   }

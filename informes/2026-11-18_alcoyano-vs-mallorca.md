@@ -1,20 +1,20 @@
 # Alcoyano – Mallorca
 **Copa del Rey** · Round of 128 · 18/11/2026 20:00 (hora España) · Estadio El Collao
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 02:22_
+_Actualizadas: 18/11 08:24_
 
-- **1X2:** 1 **6.50**  ·  X **4.00**  ·  2 **1.53**
+- **1X2:** 1 **6.25**  ·  X **3.90**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.22**  ·  X2 **1.11**
 - **Ambos marcan:** Sí **2.05**  ·  No **1.70**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
-    - 1,5: más **1.30** · menos **3.40**
-    - 2,5: más **2.00** · menos **1.80**
-    - 3,5: más **3.50** · menos **1.28**
-    - 4,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.95** · menos **1.85**
+    - 3,5: más **3.40** · menos **1.30**
+    - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**

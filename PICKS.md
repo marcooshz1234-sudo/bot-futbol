@@ -1,12 +1,12 @@
 # Picks del Analista
 
-_Generado el 2026-11-18 02:26 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-18 08:28 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 20/11
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 19:00 | Kolding IF o empate | resultado | 1.62 | 80% | Kolding IF 7/10 · Aalborg 9/10 |
+| 19:00 | Kolding IF o empate | resultado | 1.53 | 80% | Kolding IF 7/10 · Aalborg 9/10 |
 | 20:30 | 1. FC Köln hace más de 2,5 córners | corners | 1.62 | 80% | Bayern München (en contra) 7/10 · 1. FC Köln 9/10 |
 
 ## Sábado 21/11
@@ -22,6 +22,7 @@ _Generado el 2026-11-18 02:26 (hora España). Cuotas de Bet365. Criterio: cuota 
 |---|---|---|---|---|---|
 | 16:00 | Gana el Bournemouth | resultado | 1.95 | 65% | Bournemouth 8/10 · Nottingham Forest 5/10 |
 | 15:00 | Gana el Lazio | resultado | 1.33 | 80% | Lazio 9/10 · Lecce 7/10 |
+| 17:30 | Giana Erminio o empate | resultado | 1.44 | 85% | Giana Erminio 9/10 · Juventus U23 8/10 |
 | 14:00 | Ruben Alcaraz: 1+ tiros | jugador | 1.57 | 90% | Ruben Alcaraz 9/10 |
 | 20:45 | Ambos marcan en Monaco–Auxerre | goles | 1.70 | 75% | Monaco 7/10 · Auxerre 8/10 |
 | 15:30 | SC Paderborn 07 hace más de 2,5 córners | corners | 1.73 | 80% | Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10 |
@@ -53,3 +54,9 @@ _Generado el 2026-11-18 02:26 (hora España). Cuotas de Bet365. Criterio: cuota 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 20:30 | Gana el Almeria | resultado | 1.83 | 75% | AD Ceuta FC 6/10 · Almeria 9/10 |
+
+## Miércoles 25/11
+
+| Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
+|---|---|---|---|---|---|
+| 18:45 | Sabah FA marca | goles | 1.53 | 85% | Sabah FA 9/10 · Barcelona (en contra) 8/10 |

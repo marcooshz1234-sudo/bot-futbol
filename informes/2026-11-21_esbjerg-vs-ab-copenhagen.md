@@ -1,7 +1,7 @@
 # Esbjerg – AB Copenhagen
 **1. Division** · Regular Season - 15 · 21/11/2026 15:00 (hora España) · Blue Water Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_

@@ -16,8 +16,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 7.8
+   "viento_kmh": 9.0,
+   "temperatura": 8.0
   }
  },
  "1638327": {
@@ -38,7 +38,13 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 16.8,
-   "temperatura": 12.7
+   "temperatura": 12.6
+  },
+  "cuotas": {
+   "Home": [
+    1.8,
+    1.62
+   ]
   }
  },
  "1644346": {
@@ -57,14 +63,14 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.7,
-   "viento_kmh": 26.3,
-   "temperatura": 19.2
+   "lluvia_mm": 1.6,
+   "viento_kmh": 23.7,
+   "temperatura": 19.1
   },
   "cuotas": {
    "Away": [
     1.57,
-    1.7
+    1.83
    ]
   }
  },
@@ -85,8 +91,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.7,
-   "temperatura": 20.6
+   "viento_kmh": 6.5,
+   "temperatura": 20.4
+  },
+  "cuotas": {
+   "Away": [
+    1.67,
+    1.53
+   ]
   }
  },
  "1644369": {
@@ -105,9 +117,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 12.6,
-   "viento_kmh": 4.6,
-   "temperatura": 17.1
+   "lluvia_mm": 5.1,
+   "viento_kmh": 8.6,
+   "temperatura": 17.5
   }
  },
  "1644353": {
@@ -127,17 +139,17 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
+   "viento_kmh": 9.0,
    "temperatura": 21.6
   },
   "cuotas": {
    "Home": [
     3.2,
-    2.88
+    2.8
    ],
    "Away": [
     2.3,
-    2.6
+    2.7
    ]
   }
  },
@@ -159,13 +171,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 6.2,
-   "temperatura": 18.5
-  },
-  "cuotas": {
-   "Away": [
-    2.2,
-    2.0
-   ]
+   "temperatura": 18.6
   }
  },
  "1638338": {
@@ -185,8 +191,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.3,
-   "temperatura": 13.6
+   "viento_kmh": 3.8,
+   "temperatura": 13.7
   },
   "cuotas": {
    "Home": [
@@ -220,7 +226,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.2,
+   "viento_kmh": 12.6,
    "temperatura": 1.3
   },
   "arbitro": {
@@ -245,8 +251,8 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 16.4,
+   "lluvia_mm": 0.4,
+   "viento_kmh": 7.9,
    "temperatura": 10.4
   }
  },
@@ -267,8 +273,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.5,
-   "temperatura": 10.5
+   "viento_kmh": 6.8,
+   "temperatura": 11.4
   }
  },
  "1638286": {
@@ -288,8 +294,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.6,
-   "temperatura": 8.3
+   "viento_kmh": 4.7,
+   "temperatura": 7.0
   },
   "cuotas": {
    "Away": [
@@ -315,8 +321,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.9,
-   "temperatura": 15.7
+   "viento_kmh": 11.2,
+   "temperatura": 15.8
   }
  },
  "1638333": {
@@ -335,9 +341,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 3.1,
-   "viento_kmh": 12.4,
-   "temperatura": 15.3
+   "lluvia_mm": 4.9,
+   "viento_kmh": 11.0,
+   "temperatura": 15.6
   }
  },
  "1644334": {
@@ -357,7 +363,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 23.6,
+   "viento_kmh": 21.2,
    "temperatura": 21.1
   }
  },
@@ -377,9 +383,9 @@
    "siguiente_europa": "Champions femenina"
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 20.2,
-   "temperatura": 2.1
+   "lluvia_mm": 0.3,
+   "viento_kmh": 20.9,
+   "temperatura": 2.0
   }
  }
 }

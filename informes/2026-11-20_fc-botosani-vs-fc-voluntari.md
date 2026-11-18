@@ -1,10 +1,10 @@
 # FC Botosani – FC Voluntari
 **Liga I** · Regular Season - 16 · 20/11/2026 16:30 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 02:22_
+_Actualizadas: 18/11 08:25_
 
 - **1X2:** 1 **1.70**  ·  X **3.60**  ·  2 **4.33**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.00**
@@ -29,6 +29,10 @@ _Actualizadas: 18/11 02:22_
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
+- **Córners más/menos:**
+    - 9: más **1.82** · menos **1.98**
+    - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.88**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.38**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
@@ -42,6 +46,11 @@ _Actualizadas: 18/11 02:22_
 - **Win Both Halves:** 1 **5.00**  ·  2 **17.00**
 - **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.75**  ·  Away/Yes **7.50**  ·  Home/No **3.25**  ·  Draw/No **13.00**  ·  Away/No **9.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.75**
+- **Home Corners Over/Under:**
+    - 5,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 3,5: más **1.73** · menos **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 
 ## Estadísticas de equipo
 | | FC Botosani (total) | FC Botosani en casa | FC Voluntari (total) | FC Voluntari fuera |

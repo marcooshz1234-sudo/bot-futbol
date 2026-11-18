@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18 02:25",
+ "generado": "2026-11-18 08:26",
  "estilos": {
   "datos-rachas": {
    "nota": 0.927,
@@ -38,7 +38,7 @@
    "verdes": 0
   },
   "escalera": {
-   "nota": 2.114,
+   "nota": 2.031,
    "posts_threads": 21,
    "resultados": 3,
    "verdes": 2
@@ -374,9 +374,9 @@
    "verdes": 0
   },
   "combi-partido-1570448": {
-   "nota": 0.958,
+   "nota": 1.083,
    "posts_threads": 1,
-   "resultados": 1,
+   "resultados": 0,
    "verdes": 0
   },
   "estrella-1557465": {

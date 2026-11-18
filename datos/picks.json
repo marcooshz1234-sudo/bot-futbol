@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18 02:26",
+ "generado": "2026-11-18 08:28",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -20,14 +20,14 @@
      "opcion": "Home/Draw",
      "tipo": "resultado",
      "texto": "Kolding IF o empate",
-     "cuota": 1.62,
+     "cuota": 1.53,
      "frecuencia": 0.8,
-     "ventaja": 0.183,
+     "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.059,
-     "movimiento": 0.059,
+     "valor_mercado": 0.0,
+     "movimiento": 0.0,
      "cuota_inicial": 1.53,
-     "prob_aprendida": 0.657
+     "prob_aprendida": 0.688
     },
     {
      "partido_id": 1575221,
@@ -68,14 +68,14 @@
      "opcion": "Home/Draw",
      "tipo": "resultado",
      "texto": "Kolding IF o empate",
-     "cuota": 1.62,
+     "cuota": 1.53,
      "frecuencia": 0.8,
-     "ventaja": 0.183,
+     "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.059,
-     "movimiento": 0.059,
+     "valor_mercado": 0.0,
+     "movimiento": 0.0,
      "cuota_inicial": 1.53,
-     "prob_aprendida": 0.657
+     "prob_aprendida": 0.688
     },
     {
      "partido_id": 1575221,
@@ -124,12 +124,14 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Kolding IF gana alguna de las dos partes",
-       "cuota": 1.83,
+       "cuota": 1.8,
        "frecuencia": 0.65,
-       "ventaja": 0.104,
+       "ventaja": 0.094,
        "detalle": "Kolding IF 7/10 · Aalborg 6/10",
-       "valor_mercado": -0.011,
-       "prob_aprendida": 0.665
+       "valor_mercado": -0.027,
+       "movimiento": -0.016,
+       "cuota_inicial": 1.83,
+       "prob_aprendida": 0.713
       },
       {
        "partido_id": 1570025,
@@ -156,7 +158,7 @@
        "prob_aprendida": 0.672
       }
      ],
-     "cuota": 2.75,
+     "cuota": 2.7,
      "titulo": "👑 VIERNES DE FAVORITOS",
      "tema": "favoritos"
     }
@@ -216,6 +218,24 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.767
+    },
+    {
+     "partido_id": 1608376,
+     "fecha": "2026-11-21T17:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Giana Erminio",
+     "visitante": "Juventus U23",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Giana Erminio o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.85,
+     "ventaja": 0.156,
+     "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
+     "valor_mercado": 0.014,
+     "prob_aprendida": 0.702
     },
     {
      "partido_id": 1570034,
@@ -351,6 +371,24 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.767
+    },
+    {
+     "partido_id": 1608376,
+     "fecha": "2026-11-21T17:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Giana Erminio",
+     "visitante": "Juventus U23",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Giana Erminio o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.85,
+     "ventaja": 0.156,
+     "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
+     "valor_mercado": 0.014,
+     "prob_aprendida": 0.702
     },
     {
      "partido_id": 1570034,
@@ -856,6 +894,24 @@
        "prob_aprendida": 0.767
       },
       {
+       "partido_id": 1608376,
+       "fecha": "2026-11-21T17:30",
+       "competicion": "Serie C",
+       "liga_id": 138,
+       "local": "Giana Erminio",
+       "visitante": "Juventus U23",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Giana Erminio o empate",
+       "cuota": 1.44,
+       "frecuencia": 0.85,
+       "ventaja": 0.156,
+       "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
+       "valor_mercado": 0.014,
+       "prob_aprendida": 0.702
+      },
+      {
        "partido_id": 1565303,
        "fecha": "2026-11-21T16:30",
        "competicion": "Liga I",
@@ -1078,7 +1134,7 @@
        "prob_aprendida": 0.558
       }
      ],
-     "cuota": 427.04
+     "cuota": 614.93
     }
    },
    "combis_partido": []
@@ -1901,6 +1957,56 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.582
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
+   "combis_partido": []
+  },
+  "2026-11-25": {
+   "picks": [
+    {
+     "partido_id": 1635718,
+     "fecha": "2026-11-25T18:45",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Sabah FA",
+     "visitante": "Barcelona",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Sabah FA marca",
+     "cuota": 1.53,
+     "frecuencia": 0.85,
+     "ventaja": 0.196,
+     "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
+     "valor_mercado": -0.013,
+     "prob_aprendida": 0.702
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1635718,
+     "fecha": "2026-11-25T18:45",
+     "competicion": "Champions",
+     "liga_id": 2,
+     "local": "Sabah FA",
+     "visitante": "Barcelona",
+     "mercado": "Total - Home",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Sabah FA marca",
+     "cuota": 1.53,
+     "frecuencia": 0.85,
+     "ventaja": 0.196,
+     "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
+     "valor_mercado": -0.013,
+     "prob_aprendida": 0.702
     }
    ],
    "combis": {

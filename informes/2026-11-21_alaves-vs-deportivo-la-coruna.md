@@ -1,7 +1,7 @@
 # Alaves – Deportivo La Coruna
 **LaLiga** · Regular Season - 13 · 21/11/2026 14:00 (hora España) · Estadio Mendizorrotza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_

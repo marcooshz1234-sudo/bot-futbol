@@ -1,10 +1,50 @@
 # Sporting CP – Manchester United
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 18/11 08:26_
+
+- **1X2:** 1 **2.55**  ·  X **3.50**  ·  2 **2.55**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.57**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.40**  ·  2 **3.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.00**
+- **Win Both Halves:** 1 **8.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.00**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **17.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.20**
+- **Away Player Shots On Target Total:** Luis Guilherme Lira **26.00**  ·  Zeno Debast **34.00**  ·  Jaydan Kamason **41.00**  ·  Moncef Zekri **15.00**  ·  Luis Suarez **9.00**  ·  Georgios Vagiannidis **34.00**  ·  Bruno Fernandes **34.00**  ·  Diogo Dalot **81.00**  ·  Goncalo Inacio **15.00**  ·  Lisandro Martinez **34.00**  ·  Maximiliano Araujo **51.00**  ·  Tynan Thompson **41.00**  ·  Shea Lacey **23.00**  ·  Andrey Santos **26.00**  ·  Sotiris Alexandropoulos **41.00**  ·  Fotis Ioannidis **4.50**  ·  Issa Doumbia **41.00**  ·  Salvador Blopa **21.00**  ·  Flavio Goncalves **41.00**  ·  Matheus Cunha **21.00**  ·  Silas Andersen **34.00**  ·  Tyler Fletcher **34.00**  ·  Rodrigo Dias **41.00**  ·  Rafael Nel **11.00**  ·  Miguel Gomes dos Nuno Santos **41.00**  ·  Geny Catamo **41.00**  ·  Joao Simoes **41.00**  ·  Ivan Fresneda **51.00**  ·  Eduardo Quaresma **23.00**  ·  Jesse Derry **29.00**  ·  Rodrigo Zalazar **41.00**  ·  Pedro Lima **19.00**  ·  Jack Fletcher **41.00**  ·  Ibrahima Ba **13.00**  ·  Daniel Armer **34.00**  ·  Sergi Altimira **51.00**  ·  Youri Tielemans **51.00**  ·  Carlos Baleba **51.00**  ·  Amad Diallo **51.00**  ·  Bryan Mbeumo **13.00**  ·  Harry Maguire **13.00**  ·  Joshua Zirkzee **17.00**  ·  Kobbie Mainoo **67.00**  ·  Marcus Rashford **34.00**  ·  Mason Mount **34.00**  ·  Matthijs de Ligt **15.00**  ·  Noussair Mazraoui **51.00**  ·  Leny Yoro **23.00**  ·  Nestory Irankunda **29.00**  ·  Harry Amass **81.00**  ·  Ayden Heaven **19.00**  ·  Eduardo Felicissimo **13.00**
+- **Anytime Goal Scorer:** Luis Guilherme Lira **5.50**  ·  Zeno Debast **11.00**  ·  Jaydan Kamason **9.50**  ·  Moncef Zekri **11.00**  ·  Luis Suarez **1.91**  ·  Georgios Vagiannidis **9.50**  ·  Bruno Fernandes **3.20**  ·  Diogo Dalot **9.50**  ·  Goncalo Inacio **11.00**  ·  Lisandro Martinez **13.00**  ·  Maximiliano Araujo **7.50**  ·  Tynan Thompson **5.00**  ·  Shea Lacey **5.00**  ·  Andrey Santos **7.00**  ·  Sotiris Alexandropoulos **8.50**  ·  Fotis Ioannidis **2.75**  ·  Issa Doumbia **5.00**  ·  Salvador Blopa **7.50**  ·  Flavio Goncalves **4.50**  ·  Matheus Cunha **3.20**  ·  Silas Andersen **7.00**  ·  Tyler Fletcher **7.50**  ·  Rodrigo Dias **9.50**  ·  Rafael Nel **2.88**  ·  Miguel Gomes dos Nuno Santos **5.00**  ·  Geny Catamo **5.00**  ·  Joao Simoes **7.00**  ·  Ivan Fresneda **8.50**  ·  Eduardo Quaresma **11.00**  ·  Jesse Derry **3.75**  ·  Rodrigo Zalazar **3.10**  ·  Pedro Lima **3.75**  ·  Jack Fletcher **7.00**  ·  Ibrahima Ba **9.50**  ·  Daniel Armer **11.00**  ·  Sergi Altimira **7.50**  ·  Youri Tielemans **6.50**  ·  Carlos Baleba **8.50**  ·  Amad Diallo **4.50**  ·  Bryan Mbeumo **2.75**  ·  Harry Maguire **9.50**  ·  Joshua Zirkzee **3.40**  ·  Kobbie Mainoo **7.50**  ·  Marcus Rashford **3.75**  ·  Mason Mount **5.50**  ·  Matthijs de Ligt **9.50**  ·  Noussair Mazraoui **13.00**  ·  Leny Yoro **13.00**  ·  Nestory Irankunda **3.10**  ·  Harry Amass **8.50**  ·  Ayden Heaven **11.00**  ·  Eduardo Felicissimo **9.50**
+- **Player to Score or Assist:** Luis Guilherme Lira **3.50**  ·  Zeno Debast **6.00**  ·  Jaydan Kamason **7.00**  ·  Moncef Zekri **7.00**  ·  Luis Suarez **1.73**  ·  Georgios Vagiannidis **4.75**  ·  Bruno Fernandes **1.83**  ·  Diogo Dalot **4.75**  ·  Goncalo Inacio **5.50**  ·  Lisandro Martinez **10.00**  ·  Maximiliano Araujo **3.75**  ·  Tynan Thompson **3.10**  ·  Shea Lacey **3.50**  ·  Andrey Santos **4.33**  ·  Sotiris Alexandropoulos **5.00**  ·  Fotis Ioannidis **2.00**  ·  Issa Doumbia **3.60**  ·  Salvador Blopa **4.33**  ·  Flavio Goncalves **2.60**  ·  Matheus Cunha **2.20**  ·  Silas Andersen **4.33**  ·  Tyler Fletcher **4.33**  ·  Rodrigo Dias **3.60**  ·  Rafael Nel **2.20**  ·  Miguel Gomes dos Nuno Santos **2.88**  ·  Geny Catamo **2.75**  ·  Joao Simoes **3.75**  ·  Ivan Fresneda **5.00**  ·  Eduardo Quaresma **6.00**  ·  Jesse Derry **3.00**  ·  Rodrigo Zalazar **2.10**  ·  Pedro Lima **2.60**  ·  Jack Fletcher **4.75**  ·  Ibrahima Ba **6.50**  ·  Daniel Armer **7.00**  ·  Sergi Altimira **4.00**  ·  Youri Tielemans **3.50**  ·  Carlos Baleba **4.75**  ·  Amad Diallo **2.75**  ·  Bryan Mbeumo **2.10**  ·  Harry Maguire **7.00**  ·  Joshua Zirkzee **2.60**  ·  Kobbie Mainoo **4.75**  ·  Marcus Rashford **2.50**  ·  Mason Mount **3.75**  ·  Matthijs de Ligt **6.00**  ·  Noussair Mazraoui **8.00**  ·  Leny Yoro **9.00**  ·  Nestory Irankunda **2.10**  ·  Harry Amass **5.00**  ·  Ayden Heaven **7.50**  ·  Eduardo Felicissimo **4.50**
 
 ## Estadísticas de equipo
 | | Sporting CP (total) | Sporting CP en casa | Manchester United (total) | Manchester United fuera |

@@ -1,18 +1,18 @@
 # Aarhus Fremad – Hobro
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Jysk Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 02:22_
+_Actualizadas: 18/11 08:25_
 
 - **1X2:** 1 **1.90**  ·  X **3.60**  ·  2 **3.70**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **2.00**
+    - 2,5: más **1.85** · menos **1.95**
     - 3,5: más **3.00** · menos **1.36**
     - 4,5: más **6.00** · menos **1.12**
     - 5,5: más **13.00** · menos **1.04**
@@ -42,7 +42,7 @@ _Actualizadas: 18/11 02:22_
 - **Win Both Halves:** 1 **5.50**  ·  2 **15.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **7.00**  ·  Home/No **3.50**  ·  Draw/No **12.00**  ·  Away/No **7.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
-- **Anytime Goal Scorer:** Mikkel Londal **4.33**  ·  Vedad Halilovic **4.33**  ·  Jashar Beluli **3.00**  ·  Kasper Lunding **3.60**  ·  Simon Baekgaard **5.50**  ·  Jonas Thorsen **8.00**  ·  Erik Nissen **9.50**  ·  Elias Egerton **4.33**  ·  Magnus Kirchheiner **4.33**  ·  Marcus Berthelsen **4.33**  ·  Frederik Grube **5.50**  ·  Olafur Hjaltason **5.50**  ·  Andreas Pisani **9.50**  ·  Mikkel Falk **9.50**  ·  Oluwasegun Olalere **8.50**  ·  marcus Kirchheiner **8.50**  ·  Anders Noshe **6.50**  ·  Malthe Kjolby **9.50**  ·  Magnus Kaastrup **3.40**  ·  Marco Bruhn **4.00**  ·  Soren Andreasen **2.88**  ·  Oliver Klitten **5.00**  ·  Oscar Meedom **5.50**  ·  Mikkel Pedersen **5.50**  ·  Theo Hansen **5.50**  ·  Zander Hyltoft **8.50**  ·  Lukas Klitten **9.50**  ·  Frederik Dietz **11.00**  ·  Emil Jensen Sogaard **12.00**  ·  Marius Jacobsen **12.00**  ·  Oliver Dorph **12.00**  ·  Frederik Christensen **3.20**  ·  Alexander Ludwig **12.00**  ·  Christian Enemark **11.00**  ·  Jonas Ostergard **3.00**  ·  Carl Nygaard **3.60**  ·  Marius Lokke **8.00**  ·  Runar Hauge **3.75**  ·  Jonathan Lind **3.40**  ·  Onyebuchi Obasi **4.33**  ·  Yusuf Abdullahi **2.50**  ·  Marcus Ryberg **5.00**  ·  Lukas Falk **8.00**  ·  Hjalte Dahl **5.50**  ·  Frederik Munk **3.60**  ·  Devon Appu **3.00**  ·  Oskar Elleberg **2.50**  ·  August Breum **3.40**  ·  Phillip Flak **11.00**  ·  Linus Ronnberg **8.00**  ·  Ingimar Kristjansson **4.33**  ·  Tristan Birch **6.50**  ·  Magnus Rosengreen **4.33**  ·  Martin Huldahl **4.33**  ·  Mikkel Kristensen **12.00**
+- **Anytime Goal Scorer:** Mikkel Londal **4.33**  ·  Vedad Halilovic **4.33**  ·  Jashar Beluli **3.00**  ·  Kasper Lunding **3.75**  ·  Simon Baekgaard **5.50**  ·  Jonas Thorsen **8.00**  ·  Erik Nissen **9.50**  ·  Elias Egerton **4.33**  ·  Magnus Kirchheiner **4.33**  ·  Marcus Berthelsen **4.33**  ·  Frederik Grube **5.50**  ·  Olafur Hjaltason **5.50**  ·  Andreas Pisani **9.50**  ·  Mikkel Falk **9.50**  ·  Oluwasegun Olalere **8.50**  ·  marcus Kirchheiner **8.50**  ·  Anders Noshe **6.50**  ·  Malthe Kjolby **9.50**  ·  Magnus Kaastrup **3.40**  ·  Marco Bruhn **4.00**  ·  Soren Andreasen **2.88**  ·  Oliver Klitten **5.00**  ·  Oscar Meedom **5.50**  ·  Mikkel Pedersen **5.50**  ·  Theo Hansen **5.50**  ·  Zander Hyltoft **8.50**  ·  Lukas Klitten **9.50**  ·  Frederik Dietz **11.00**  ·  Emil Jensen Sogaard **12.00**  ·  Marius Jacobsen **12.00**  ·  Oliver Dorph **12.00**  ·  Frederik Christensen **3.20**  ·  Alexander Ludwig **12.00**  ·  Christian Enemark **11.00**  ·  Jonas Ostergard **3.00**  ·  Carl Nygaard **3.75**  ·  Marius Lokke **8.00**  ·  Runar Hauge **3.75**  ·  Jonathan Lind **3.40**  ·  Onyebuchi Obasi **4.33**  ·  Yusuf Abdullahi **2.50**  ·  Marcus Ryberg **5.00**  ·  Lukas Falk **8.00**  ·  Hjalte Dahl **5.50**  ·  Frederik Munk **3.75**  ·  Devon Appu **3.00**  ·  Oskar Elleberg **2.50**  ·  August Breum **3.40**  ·  Phillip Flak **11.00**  ·  Linus Ronnberg **8.00**  ·  Ingimar Kristjansson **4.33**  ·  Tristan Birch **6.50**  ·  Magnus Rosengreen **4.33**  ·  Martin Huldahl **4.33**  ·  Mikkel Kristensen **12.00**
 
 ## Estadísticas de equipo
 | | Aarhus Fremad (total) | Aarhus Fremad en casa | Hobro (total) | Hobro fuera |

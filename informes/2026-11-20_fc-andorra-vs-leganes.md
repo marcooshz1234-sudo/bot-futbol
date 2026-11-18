@@ -1,10 +1,10 @@
 # FC Andorra – Leganes
 **Segunda División** · Regular Season - 15 · 20/11/2026 20:30 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 02:23_
+_Actualizadas: 18/11 08:25_
 
 - **1X2:** 1 **1.85**  ·  X **3.50**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.91**

@@ -1,10 +1,43 @@
 # Treviso – Pergolettese
 **Serie C** · Girone A - 15 · 21/11/2026 14:30 (hora España) · Stadio Omobono Tenni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 18/11 08:25_
+
+- **1X2:** 1 **1.57**  ·  X **3.40**  ·  2 **5.25**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.25**  ·  X2 **2.15**
+- **Ambos marcan:** Sí **2.20**  ·  No **1.62**
+- **Goles más/menos:**
+    - 0,5: más **1.06** · menos **8.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.15** · menos **1.67**
+    - 3,5: más **3.75** · menos **1.25**
+    - 4,5: más **7.00** · menos **1.08**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **7.50** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.80** · menos **1.91**
+    - 1,5: más **4.50** · menos **1.17**
+- **Córners más/menos:**
+    - 8,5: más **2.02** · menos **1.78**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.10**  ·  2 **5.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **1.40**  ·  2 **3.25**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **9.00**
+- **Win Both Halves:** 1 **4.50**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **8.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.05**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.08**  ·  Menos de 4 **1.72**
 
 ## Estadísticas de equipo
 | | Treviso (total) | Treviso en casa | Pergolettese (total) | Pergolettese fuera |

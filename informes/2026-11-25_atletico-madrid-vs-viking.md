@@ -1,10 +1,52 @@
 # Atletico Madrid – Viking
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 18/11 08:26_
+
+- **1X2:** 1 **1.10**  ·  X **9.50**  ·  2 **19.00**
+- **Doble oportunidad:** 1X **1.02**  ·  12 **1.07**  ·  X2 **7.00**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.75**
+- **Goles más/menos:**
+    - 1,5: más **1.08** · menos **8.00**
+    - 2,5: más **1.28** · menos **3.75**
+    - 3,5: más **1.73** · menos **2.10**
+    - 4,5: más **2.62** · menos **1.50**
+    - 5,5: más **4.33** · menos **1.22**
+    - 6,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.44** · menos **2.62**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **1.36**  ·  X **3.60**  ·  2 **13.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.06**  ·  2 **6.50**
+- **To Score In Both Halves By Teams:** 1 **1.44**  ·  2 **11.00**
+- **Win Both Halves:** 1 **1.83**  ·  2 **101.00**
+- **Results/Both Teams Score:** Home/Yes **2.40**  ·  Draw/Yes **11.00**  ·  Away/Yes **26.00**  ·  Home/No **1.83**  ·  Draw/No **29.00**  ·  Away/No **29.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **2.62**  ·  u/yes 2.5 **21.00**  ·  u/no 2.5 **4.33**
+- **Away Player Shots On Target Total:** Morten Hjulmand **23.00**  ·  Jonathan David **8.00**  ·  Kang-In Lee **19.00**  ·  Rodrigo Mendoza **6.00**  ·  Marc Pubill **29.00**  ·  Alexander Sorloth **3.75**  ·  David Hancko **9.50**  ·  Kristoffer Askildsen **126.00**  ·  Alex Baena **13.00**  ·  Alex Grimaldo **23.00**  ·  Gianni Stensness **26.00**  ·  Julian Alvarez **15.00**  ·  Jesper Daland **41.00**  ·  Kristoffer Haugen **41.00**  ·  Peter Christiansen **26.00**  ·  Zlatko Tripic **34.00**  ·  Erik Botheim **12.00**  ·  Romano Postema **26.00**  ·  Niklas Fuglestad **126.00**  ·  Simen Kvia-Egeskog **67.00**  ·  Jakob Hansen **67.00**  ·  Vetle Auklend **126.00**  ·  Joe Bell **126.00**  ·  Viljar Vevatne **23.00**  ·  Herman Haugen **81.00**  ·  Tobias Moi **126.00**  ·  Henrik Heggheim **34.00**  ·  Jorge Koke **51.00**  ·  Obed Vargas **67.00**  ·  Dani Martinez **51.00**  ·  Henrik Falchener **26.00**  ·  Henrik Bjordal **19.00**  ·  Jorge Castillo **19.00**  ·  Jorge Dominguez **7.50**  ·  Romeo Hueso **17.00**  ·  Arnau Ortiz **12.00**  ·  Essien Bassey **151.00**  ·  Amin Cosic **34.00**  ·  Marcos Llorente **51.00**  ·  Robin Le Normand **11.00**  ·  Johnny Cardoso **11.00**  ·  Cristian Romero **6.50**  ·  Giuliano Simeone **26.00**  ·  Pablo Barrios **34.00**  ·  Ademola Lookman **17.00**
+- **Anytime Goal Scorer:** Morten Hjulmand **4.75**  ·  Jonathan David **1.62**  ·  Kang-In Lee **2.00**  ·  Rodrigo Mendoza **2.50**  ·  Marc Pubill **6.50**  ·  Alexander Sorloth **1.67**  ·  David Hancko **6.00**  ·  Kristoffer Askildsen **13.00**  ·  Alex Baena **2.38**  ·  Alex Grimaldo **2.75**  ·  Gianni Stensness **21.00**  ·  Julian Alvarez **1.73**  ·  Jesper Daland **26.00**  ·  Kristoffer Haugen **19.00**  ·  Peter Christiansen **6.00**  ·  Zlatko Tripic **6.00**  ·  Erik Botheim **4.75**  ·  Romano Postema **6.00**  ·  Niklas Fuglestad **13.00**  ·  Simen Kvia-Egeskog **7.00**  ·  Jakob Hansen **9.50**  ·  Vetle Auklend **13.00**  ·  Joe Bell **13.00**  ·  Viljar Vevatne **19.00**  ·  Herman Haugen **9.50**  ·  Tobias Moi **26.00**  ·  Henrik Heggheim **26.00**  ·  Jorge Koke **5.50**  ·  Obed Vargas **3.75**  ·  Dani Martinez **6.00**  ·  Henrik Falchener **21.00**  ·  Henrik Bjordal **8.00**  ·  Jorge Castillo **3.75**  ·  Jorge Dominguez **6.00**  ·  Romeo Hueso **5.50**  ·  Arnau Ortiz **2.00**  ·  Essien Bassey **21.00**  ·  Amin Cosic **8.00**  ·  Marcos Llorente **5.50**  ·  Robin Le Normand **8.00**  ·  Johnny Cardoso **5.50**  ·  Cristian Romero **4.75**  ·  Giuliano Simeone **3.00**  ·  Pablo Barrios **3.75**  ·  Ademola Lookman **1.91**
+- **Player to Score or Assist:** Morten Hjulmand **2.88**  ·  Jonathan David **1.33**  ·  Kang-In Lee **1.44**  ·  Rodrigo Mendoza **1.62**  ·  Marc Pubill **2.88**  ·  Alexander Sorloth **1.40**  ·  David Hancko **3.75**  ·  Kristoffer Askildsen **9.00**  ·  Alex Baena **1.44**  ·  Alex Grimaldo **1.53**  ·  Gianni Stensness **17.00**  ·  Julian Alvarez **1.33**  ·  Jesper Daland **17.00**  ·  Kristoffer Haugen **11.00**  ·  Peter Christiansen **4.33**  ·  Zlatko Tripic **3.10**  ·  Erik Botheim **3.60**  ·  Romano Postema **5.00**  ·  Niklas Fuglestad **7.00**  ·  Simen Kvia-Egeskog **4.75**  ·  Jakob Hansen **5.50**  ·  Vetle Auklend **8.00**  ·  Joe Bell **8.50**  ·  Viljar Vevatne **12.00**  ·  Herman Haugen **6.00**  ·  Tobias Moi **17.00**  ·  Henrik Heggheim **15.00**  ·  Jorge Koke **2.88**  ·  Obed Vargas **2.05**  ·  Dani Martinez **3.10**  ·  Henrik Falchener **15.00**  ·  Henrik Bjordal **5.00**  ·  Jorge Castillo **2.60**  ·  Jorge Dominguez **3.50**  ·  Romeo Hueso **2.30**  ·  Arnau Ortiz **1.50**  ·  Essien Bassey **9.00**  ·  Amin Cosic **5.00**  ·  Marcos Llorente **2.50**  ·  Robin Le Normand **5.50**  ·  Johnny Cardoso **3.40**  ·  Cristian Romero **4.00**  ·  Giuliano Simeone **1.62**  ·  Pablo Barrios **2.30**  ·  Ademola Lookman **1.36**
 
 ## Estadísticas de equipo
 | | Atletico Madrid (total) | Atletico Madrid en casa | Viking (total) | Viking fuera |

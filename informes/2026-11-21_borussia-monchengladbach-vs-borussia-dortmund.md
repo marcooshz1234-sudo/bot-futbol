@@ -1,7 +1,7 @@
 # Borussia Mönchengladbach – Borussia Dortmund
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 08:26_

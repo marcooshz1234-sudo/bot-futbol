@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18 02:25",
+ "generado": "2026-11-18 08:26",
  "picks_usados": 579,
  "aciertos": 361,
  "prometido_medio": 0.704,
@@ -737,9 +737,9 @@
    "cuota_implicita": 0.699
   },
   "To Win Either Half": {
-   "ajuste": 0.0164,
-   "n": 45,
-   "aciertos": 31,
+   "ajuste": 0.0112,
+   "n": 44,
+   "aciertos": 30,
    "cuota_implicita": 0.68
   },
   "Home Team Total Cards|Over": {
@@ -761,16 +761,16 @@
    "cuota_implicita": 0.602
   },
   "Match Winner": {
-   "ajuste": 0.0394,
-   "n": 154,
-   "aciertos": 105,
+   "ajuste": 0.0369,
+   "n": 153,
+   "aciertos": 104,
    "cuota_implicita": 0.643
   },
   "Double Chance|Draw/Away": {
-   "ajuste": -0.1741,
-   "n": 22,
+   "ajuste": -0.1535,
+   "n": 21,
    "aciertos": 9,
-   "cuota_implicita": 0.651
+   "cuota_implicita": 0.645
   },
   "First Half Winner": {
    "ajuste": 0.0608,
@@ -851,10 +851,10 @@
    "cuota_implicita": 0.714
   },
   "Goals Over/Under|Over 1.5": {
-   "ajuste": 0.005,
-   "n": 20,
+   "ajuste": 0.0346,
+   "n": 19,
    "aciertos": 15,
-   "cuota_implicita": 0.737
+   "cuota_implicita": 0.734
   },
   "ShotOnTarget 1x2|Home": {
    "ajuste": -0.1203,
@@ -881,10 +881,10 @@
    "cuota_implicita": 0.664
   },
   "Both Teams Score|Yes": {
-   "ajuste": -0.0395,
-   "n": 45,
-   "aciertos": 25,
-   "cuota_implicita": 0.605
+   "ajuste": -0.0489,
+   "n": 44,
+   "aciertos": 24,
+   "cuota_implicita": 0.606
   },
   "Home Player Shots On Target Total": {
    "ajuste": -0.0151,
@@ -3769,11 +3769,6 @@
    "n": 1,
    "aciertos": 1
   },
-  "equipo|Real Jaén|Match Winner|gana": {
-   "ajuste": 0.0426,
-   "n": 1,
-   "aciertos": 1
-  },
   "equipo|Real Madrid W|Total|Over 1.5": {
    "ajuste": 0.0284,
    "n": 1,
@@ -3788,16 +3783,6 @@
    "ajuste": 0.0361,
    "n": 1,
    "aciertos": 1
-  },
-  "equipo|Real Jaén|To Win Either Half|gana": {
-   "ajuste": 0.0284,
-   "n": 1,
-   "aciertos": 1
-  },
-  "equipo|UD Logroñés|Double Chance|o empate": {
-   "ajuste": -0.0765,
-   "n": 1,
-   "aciertos": 0
   },
   "equipo|Leganes|Total|Over 2.5": {
    "ajuste": -0.0553,

@@ -1,7 +1,7 @@
 # Hull City – Brighton
 **Premier League** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 02:24._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
