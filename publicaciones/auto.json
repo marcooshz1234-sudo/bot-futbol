@@ -7533,10 +7533,10 @@
       "1638312|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.62,
-      1.73,
-      1.8,
+      1.5,
       1.57,
+      1.73,
+      1.62,
       1.73
     ],
     "solo_en": [
@@ -7548,7 +7548,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T16:21"
   },
   {
     "id": "2026-11-18-combi-favoritas",
@@ -7567,12 +7568,13 @@
     ],
     "cuotas": [
       1.22,
+      1.33,
       1.27,
-      1.27,
-      1.33
+      1.27
     ],
     "texto": "Combi de las favoritas de la Champions femenina 🔥\n\n🏆 Gana el Real Madrid (fem.) · vs Inter · 18:45\n🏆 Gana el Manchester City (fem.) · en Häcken · 18:45\n🏆 Gana el Chelsea (fem.) · vs PSG · 21:00\n🏆 Gana la Juventus (fem.) · vs Leuven · 21:00\n\n📈 Cuota @2,62\n\n🧠 Por qué:\n👨‍💻 Los partidos del Real Madrid llevan 4,4 goles de media en los últimos 8.\n👨‍💻 Las cuatro son muy favoritas en bet365 (todas por debajo de 1,35) y juegan contra rivales de otro nivel.\n👨‍💻 Real Madrid, Chelsea y Juve juegan en casa; el City, ante el rival más flojo de los cuatro.",
-    "nota": "18/11 Marcos: «me gusta la combi de las 4 favoritas»"
+    "nota": "18/11 Marcos: «me gusta la combi de las 4 favoritas»",
+    "cuotas_revisadas": "2026-11-18T16:21"
   },
   {
     "id": "2026-11-18-loca-th-1745-sustos-copa",
@@ -7584,9 +7586,9 @@
       "1644346|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      2.62,
       2.38,
-      2.1
+      2.62,
+      2.15
     ],
     "origen": "threads_locas",
     "cuota_bet365": 13.09,
@@ -7597,7 +7599,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-18T16:21"
   },
   {
     "id": "2026-11-18-loca-th-1800-x500",

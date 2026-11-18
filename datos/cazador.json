@@ -52,7 +52,7 @@
    "justa": 1.97,
    "ev": 0.016,
    "fuente": "las otras casas",
-   "edad_h": 7.4
+   "edad_h": 8.0
   },
   {
    "local": "Badajoz",
@@ -85,7 +85,7 @@
    "justa": 1.51,
    "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 7.4
+   "edad_h": 8.0
   },
   {
    "local": "Real Madrid W",
@@ -107,7 +107,7 @@
    "justa": 1.64,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 7.4
+   "edad_h": 8.0
   },
   {
    "local": "Juventus W",
@@ -122,7 +122,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T15:49",
+  "hora": "2026-11-18T16:24",
   "revisadas": 0,
   "mejor": null
  },
