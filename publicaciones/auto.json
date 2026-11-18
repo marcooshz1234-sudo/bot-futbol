@@ -8794,10 +8794,10 @@
       1.4,
       1.4,
       1.4,
-      1.44,
+      1.4,
       1.53,
       1.67,
-      1.73
+      1.62
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -8816,7 +8816,8 @@
     "cuota_bet365": 5.76,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T13:03"
   },
   {
     "id": "2026-11-18-loca-th-1500-escudos",
