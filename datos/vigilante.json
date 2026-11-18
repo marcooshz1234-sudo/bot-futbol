@@ -133,7 +133,8 @@
   "repe-2026-11-18-1638312|Away Player Shots|Anouk Van Praet - 2": "2026-11-18T12:48",
   "prensa-1644334-25d706e3": "2026-11-18T12:48",
   "directo-2026-11-18-pick-claude-1": "2026-11-18T15:08",
-  "bucle-imagenes-2026111820": "2026-11-18T20:56"
+  "bucle-imagenes-2026111820": "2026-11-18T20:56",
+  "bucle-imagenes-2026111821": "2026-11-18T21:06"
  },
  "abiertos": [
   {
@@ -157,12 +158,12 @@
    "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1545-goleadoras, loca-th-1630-escudos, loca-th-1800-x500)"
   },
   {
-   "clave": "repe-2026-11-18-1638306|Anytime Goal Scorer|Khadija Shaw",
-   "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1545-goleadoras, loca-th-1730-x50)"
-  },
-  {
    "clave": "repe-2026-11-18-1638306|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1730-x50)"
+  },
+  {
+   "clave": "repe-2026-11-18-1638306|Anytime Goal Scorer|Khadija Shaw",
+   "t": "🔁 18/11: el mismo pronóstico en 4 posts (loca-th-1300-x100, loca-th-1500-escudos, loca-th-1545-goleadoras, loca-th-1730-x50)"
   },
   {
    "clave": "repe-2026-11-18-1638312|Anytime Goal Scorer|Alba Redondo",
@@ -173,12 +174,17 @@
    "t": "🔁 18/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, loca-th-1900-tiros, loca-th-1930-duelo)"
   },
   {
-   "clave": "bucle-imagenes-2026111820",
+   "clave": "bucle-imagenes-2026111821",
    "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-18T20:56",
+ "revisado": "2026-11-18T21:06",
  "historial": [
+  {
+   "hora": "2026-11-18T21:06",
+   "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora",
+   "k": "bucle-imagenes-2026111821"
+  },
   {
    "hora": "2026-11-18T20:56",
    "t": "🔧 El paso «imagenes» del bot ha fallado 3 veces en la última hora",
@@ -430,10 +436,6 @@
   {
    "hora": "2026-11-16T03:05",
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🔥 COMBI POR 98,07 🔥» (04:00)"
-  },
-  {
-   "hora": "2026-11-16T03:05",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🤑 COMBI x66,48 🤑» (08:00)"
   }
  ]
 }
