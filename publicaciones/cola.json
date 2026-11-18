@@ -8864,5 +8864,20 @@
     ],
     "requiere_ok": true,
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
+  },
+  {
+    "id": "2026-11-19-verde-manual-2026-11-18-pick-tip-1",
+    "fecha": "2026-11-19T00:39",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Mar Menor\n\n📈 Cuota @1,66",
+    "foto": "publicaciones/media/2026-11-19-verde-manual-2026-11-18-pick-tip-1.tarjeta.jpg",
+    "origen": "claude",
+    "directo": true,
+    "resultado": "verde",
+    "verde_de": "2026-11-18-pick-tip-1",
+    "solo_en": [
+      "telegram"
+    ],
+    "sin_instagram": true,
+    "nota": "19/11 00:40 Marcos OK: verde que faltaba (la copia salió sin sel). Mar Menor 2-0 Bullas (futbolme)."
   }
 ]
