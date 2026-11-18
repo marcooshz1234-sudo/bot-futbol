@@ -7727,11 +7727,11 @@
       "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
     ],
     "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.5,
-      1.5
+      1.53,
+      1.53,
+      1.44,
+      1.57,
+      1.57
     ],
     "solo_en": [
       "threads"
@@ -7742,7 +7742,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T18:31"
   },
   {
     "id": "2026-11-18-loca-th-2030-duelo",
