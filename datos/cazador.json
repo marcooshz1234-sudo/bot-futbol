@@ -33,15 +33,15 @@
  },
  "top": [
   {
-   "local": "Häcken W",
-   "visitante": "Manchester City W",
-   "inicio": "2026-11-18T18:45",
-   "texto": "Más de 1,5 goles en la 2ª parte del Häcken W–Manchester City W",
-   "cuota": 1.73,
-   "justa": 1.7,
-   "ev": 0.015,
+   "local": "Barcelona W",
+   "visitante": "Servette Chênois W",
+   "inicio": "2026-11-19T21:00",
+   "texto": "Barcelona W marca 6 o más",
+   "cuota": 2.0,
+   "justa": 1.97,
+   "ev": 0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 6.7
   },
   {
    "local": "Alcoyano",
@@ -55,14 +55,25 @@
    "edad_h": 0.0
   },
   {
+   "local": "Barcelona W",
+   "visitante": "Servette Chênois W",
+   "inicio": "2026-11-19T21:00",
+   "texto": "Barcelona W marca 5 o más",
+   "cuota": 1.5,
+   "justa": 1.51,
+   "ev": -0.006,
+   "fuente": "las otras casas",
+   "edad_h": 6.7
+  },
+  {
    "local": "Real Madrid W",
    "visitante": "Inter Milano W",
    "inicio": "2026-11-18T18:45",
-   "texto": "Real Madrid W marca 3 o más",
-   "cuota": 1.8,
-   "justa": 1.82,
-   "ev": -0.012,
-   "fuente": "Pinnacle",
+   "texto": "Más de 1,5 goles en la 2ª parte del Real Madrid W–Inter Milano W",
+   "cuota": 1.67,
+   "justa": 1.69,
+   "ev": -0.009,
+   "fuente": "las otras casas",
    "edad_h": 0.0
   },
   {
@@ -74,18 +85,7 @@
    "justa": 1.64,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 6.1
-  },
-  {
-   "local": "Häcken W",
-   "visitante": "Manchester City W",
-   "inicio": "2026-11-18T18:45",
-   "texto": "Häcken W marca",
-   "cuota": 1.57,
-   "justa": 1.59,
-   "ev": -0.014,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 6.7
   },
   {
    "local": "Juventus W",
@@ -100,7 +100,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T14:31",
+  "hora": "2026-11-18T15:08",
   "revisadas": 0,
   "mejor": null
  },

@@ -7370,7 +7370,7 @@
     ],
     "cuotas": [
       1.67,
-      1.83,
+      1.8,
       1.8
     ],
     "solo_en": [
@@ -7383,7 +7383,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T14:33"
+    "cuotas_revisadas": "2026-11-18T15:04"
   },
   {
     "id": "2026-11-18-loca-th-1545-goleadoras",
@@ -7452,12 +7452,12 @@
     ],
     "cuotas": [
       1.4,
+      1.4,
+      1.4,
       1.44,
-      1.44,
-      1.44,
+      1.8,
       1.83,
-      1.83,
-      1.8
+      1.73
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -7476,7 +7476,8 @@
     "cuota_bet365": 8.32,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T15:04"
   },
   {
     "id": "2026-11-18-loca-th-1700-escudos",

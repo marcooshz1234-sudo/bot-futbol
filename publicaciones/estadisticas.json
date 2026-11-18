@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 14:31",
+ "actualizado": "2026-11-18 15:07",
  "redes": {
   "instagram": {
    "seguidores": 49,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3203,
-   "hoy": 43,
+   "seguidores": 3201,
+   "hoy": 41,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3203
+    3201
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3728,
- "total_hoy": 48,
+ "total": 3726,
+ "total_hoy": 46,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "15:30",
   "dia": "2026-11-18",
-  "titulo": "Combi häcken (fem.) – manchester city "
+  "titulo": "Ambos marcan hoy"
  },
  "ayer": {
   "aciertos": 3,
@@ -228,7 +228,7 @@
   },
   "2026-11-18": {
    "instagram": 49,
-   "threads": 3203,
+   "threads": 3201,
    "facebook": 1,
    "telegram": 475
   }
