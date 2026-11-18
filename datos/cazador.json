@@ -31,9 +31,43 @@
    "post": "2026-11-14-cuotaza-1570018-88fe62"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Badajoz",
+   "visitante": "Tenerife",
+   "inicio": "2026-11-18T20:00",
+   "texto": "Badajoz o empate",
+   "cuota": 2.1,
+   "justa": 2.07,
+   "ev": 0.013,
+   "fuente": "Pinnacle",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Real Madrid W",
+   "visitante": "Inter Milano W",
+   "inicio": "2026-11-18T18:45",
+   "texto": "Inter Milano W marca",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.012,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  },
+  {
+   "local": "Juventus W",
+   "visitante": "OH Leuven W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "OH Leuven W marca",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.019,
+   "fuente": "las otras casas",
+   "edad_h": 0.7
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-18T02:26",
+  "hora": "2026-11-18T03:06",
   "revisadas": 0,
   "mejor": null
  },

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 02:26",
+ "actualizado": "2026-11-18 03:06",
  "redes": {
   "instagram": {
    "seguidores": 48,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3164,
-   "hoy": 4,
+   "seguidores": 3165,
+   "hoy": 5,
    "serie": [
     2691,
     2738,
@@ -24,7 +24,7 @@
     2792,
     3009,
     3160,
-    3164
+    3165
    ]
   },
   "facebook": {
@@ -54,21 +54,24 @@
    ]
   }
  },
- "total": 3686,
- "total_hoy": 6,
+ "total": 3687,
+ "total_hoy": 7,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "03:00",
+  "hora": "04:00",
   "dia": "2026-11-18",
-  "titulo": "Córners del día"
+  "titulo": "Combi de tiros · real madrid w vs inte"
  },
- "ayer": null,
+ "ayer": {
+  "aciertos": 3,
+  "total": 4
+ },
  "escalera": {
-  "dia": 1,
+  "dia": 2,
   "de": 7,
-  "stake": 20.0,
-  "objetivo": 34.6,
-  "fecha": "2026-11-17"
+  "stake": 34.6,
+  "objetivo": 62.28,
+  "fecha": "2026-11-18"
  },
  "historial": {
   "2026-10-23": {
@@ -225,7 +228,7 @@
   },
   "2026-11-18": {
    "instagram": 48,
-   "threads": 3164,
+   "threads": 3165,
    "facebook": 1,
    "telegram": 473
   }
