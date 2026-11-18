@@ -33,6 +33,17 @@
  },
  "top": [
   {
+   "local": "Juventus W",
+   "visitante": "OH Leuven W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "OH Leuven W marca",
+   "cuota": 1.83,
+   "justa": 1.76,
+   "ev": 0.037,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
    "local": "Häcken W",
    "visitante": "Manchester City W",
    "inicio": "2026-11-18T18:45",
@@ -41,7 +52,18 @@
    "justa": 1.68,
    "ev": 0.028,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.4
+  },
+  {
+   "local": "Häcken W",
+   "visitante": "Manchester City W",
+   "inicio": "2026-11-18T18:45",
+   "texto": "Manchester City W marca 3 o más",
+   "cuota": 2.0,
+   "justa": 1.97,
+   "ev": 0.013,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
   },
   {
    "local": "Badajoz",
@@ -52,18 +74,29 @@
    "justa": 2.07,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
-   "local": "Häcken W",
-   "visitante": "Manchester City W",
-   "inicio": "2026-11-18T18:45",
-   "texto": "Manchester City W marca 3 o más",
-   "cuota": 2.0,
-   "justa": 1.97,
-   "ev": 0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "local": "Juventus W",
+   "visitante": "OH Leuven W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "Ambos marcan en Juventus W–OH Leuven W",
+   "cuota": 1.91,
+   "justa": 1.9,
+   "ev": 0.007,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Chelsea W",
+   "visitante": "Paris Saint Germain W",
+   "inicio": "2026-11-18T21:00",
+   "texto": "Paris Saint Germain W marca",
+   "cuota": 1.83,
+   "justa": 1.84,
+   "ev": -0.006,
+   "fuente": "las otras casas",
+   "edad_h": 0.4
   },
   {
    "local": "Häcken W",
@@ -73,8 +106,8 @@
    "cuota": 1.73,
    "justa": 1.76,
    "ev": -0.015,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "fuente": "las otras casas",
+   "edad_h": 0.4
   },
   {
    "local": "Häcken W",
@@ -85,22 +118,11 @@
    "justa": 1.86,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Juventus W",
-   "visitante": "OH Leuven W",
-   "inicio": "2026-11-18T21:00",
-   "texto": "OH Leuven W marca",
-   "cuota": 1.83,
-   "justa": 1.86,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 5.6
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-18T08:00",
+  "hora": "2026-11-18T08:47",
   "revisadas": 0,
   "mejor": null
  },
