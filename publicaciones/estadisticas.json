@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-18 23:58",
+ "actualizado": "2026-11-19 00:16",
  "redes": {
   "instagram": {
    "seguidores": 51,
-   "hoy": 3,
+   "hoy": 0,
    "serie": [
-    40,
     40,
     40,
     41,
     44,
     48,
+    51,
     51
    ]
   },
   "threads": {
-   "seguidores": 3215,
-   "hoy": 55,
+   "seguidores": 3216,
+   "hoy": 1,
    "serie": [
-    2691,
     2738,
     2776,
     2792,
     3009,
     3160,
-    3215
+    3215,
+    3216
    ]
   },
   "facebook": {
@@ -42,30 +42,27 @@
   },
   "telegram": {
    "seguidores": 479,
-   "hoy": 8,
+   "hoy": 0,
    "serie": [
-    391,
     401,
     404,
     411,
     439,
     471,
+    479,
     479
    ]
   }
  },
- "total": 3746,
- "total_hoy": 66,
+ "total": 3747,
+ "total_hoy": 1,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-19",
-  "titulo": "Champions femenina - ganadores"
+  "titulo": "Vamos con el pick de hoy familia"
  },
- "ayer": {
-  "aciertos": 3,
-  "total": 4
- },
+ "ayer": null,
  "escalera": {
   "dia": 2,
   "de": 7,
@@ -229,6 +226,12 @@
   "2026-11-18": {
    "instagram": 51,
    "threads": 3215,
+   "facebook": 1,
+   "telegram": 479
+  },
+  "2026-11-19": {
+   "instagram": 51,
+   "threads": 3216,
    "facebook": 1,
    "telegram": 479
   }

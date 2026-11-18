@@ -9435,5 +9435,593 @@
     },
     "cuota_total": 12.02,
     "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-19-loca-th-0030-x100",
+    "fecha": "2026-11-19T00:30",
+    "texto": "💯 LA CENTENARIA x10,85 💯\n\n⚽ Paris FC (fem.)–Køge (fem.) 18:45\n🔥 +1,5 goles en la 2ª parte del Paris FC (fem.)–Køge (fem.)\n⚽ Arsenal (fem.)–Lyon (fem.) 21:00\n⚽ Lyon (fem.) marca 2+ · 🏆 Gana el Lyon (fem.)\n⚽ SL Benfica (fem.)–Roma (fem.) 21:00\n🛡️ Roma (fem.) o empate · 🔥 +1,5 goles en la 2ª parte del SL Benfica (fem.)–Roma (fem.)\n\n🎯 CUOTA 10,85 aprox. 💎 10€ → 108€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1638327|Goals Over/Under - Second Half|Over 1.5",
+      "1638286|Total - Away|Over 1.5",
+      "1638286|Match Winner|Away",
+      "1638338|Double Chance|Draw/Away",
+      "1638338|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.67,
+      1.8,
+      1.67,
+      1.8
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.85,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-0100-ganaambos",
+    "fecha": "2026-11-19T01:00",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n⚽ Austria Wien (fem.) – Bayern Munich (fem.) · 18:45\n🏆 Gana Bayern Munich (fem.) y ambos marcan\n\n⚽ Paris FC (fem.) – Køge (fem.) · 18:45\n🏆 Gana Paris FC (fem.) y ambos marcan\n\n⚽ Arsenal (fem.) – Lyon (fem.) · 21:00\n🏆 Gana Lyon (fem.) y ambos marcan\n\n⚽ SL Benfica (fem.) – Roma (fem.) · 21:00\n🏆 Gana SL Benfica (fem.) y ambos marcan\n\n🎯 CUOTA 101 💎 · 10€ → 1.006€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1638292|Results/Both Teams Score|Away/Yes",
+      "1638327|Results/Both Teams Score|Home/Yes",
+      "1638286|Results/Both Teams Score|Away/Yes",
+      "1638338|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.75,
+      3.0,
+      3.25,
+      3.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 101.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-0200-lista-corners",
+    "fecha": "2026-11-19T02:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. ⚽ Paris FC (fem.)–Køge (fem.) ➜ Paris FC (fem.) más de 4,5 córners @1,62\n2. ⚽ Austria Wien (fem.)–Bayern Munich (fem.) ➜ +8,5 córners @1,67\n3. ⚽ SL Benfica (fem.)–Roma (fem.) ➜ SL Benfica (fem.) más córners @1,62\n4. ⚽ Arsenal (fem.)–Lyon (fem.) ➜ Arsenal (fem.) más de 4,5 córners @1,83\n5. ⚽ Barcelona (fem.)–Servette Chênois (fem.) ➜ Servette Chênois (fem.) más de 1,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638292|Corners Over Under|Over 8.5",
+      "1638327|Home Corners Over/Under|Over 4.5",
+      "1638286|Home Corners Over/Under|Over 4.5",
+      "1638297|Away Corners Over/Under|Over 1.5",
+      "1638338|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.67,
+      1.62,
+      1.83,
+      1.73,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-0300-duelo",
+    "fecha": "2026-11-19T03:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Paris FC (fem.) vs Køge (fem.) · 18:45\n\n🎯 Anaele Le Moguedec: 2+ tiros (Paris FC (fem.))\n🎯 Kyra Carusa: 2+ tiros (Køge (fem.))\n\n🎯 CUOTA 2,01 aprox. 💎 · 10€ → 20,10€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638327|Home Player Shots|Anaele Le Moguedec - 2",
+      "1638327|Away Player Shots|Kyra Carusa - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.01,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-19-loca-th-0400-x50",
+    "fecha": "2026-11-19T04:00",
+    "texto": "🤑 COMBI x24,20 🤑\n\n⚽ Austria Wien (fem.)–Bayern Munich (fem.) 18:45\n⚽ Bayern Munich (fem.) marca en las dos partes · ⚽ Jovana Damnjanovic marca\n⚽ Paris FC (fem.)–Køge (fem.) 18:45\n🎯 Oceane Picard: 2+ tiros · ⚽ Ambos marcan\n⚽ Arsenal (fem.)–Lyon (fem.) 21:00\n🛡️ Arsenal (fem.) o empate\n⚽ SL Benfica (fem.)–Roma (fem.) 21:00\n🏆 SL Benfica (fem.) gana una parte · ⚽ Ambos marcan\n\n🎯 CUOTA 24,20 aprox. 💎 10€ → 242€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1638292|To Score In Both Halves By Teams|Away",
+      "1638292|Anytime Goal Scorer|Jovana Damnjanovic",
+      "1638327|Home Player Shots|Oceane Picard - 2",
+      "1638327|Both Teams Score|Yes",
+      "1638286|Double Chance|Home/Draw",
+      "1638338|To Win Either Half|Home",
+      "1638338|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.5,
+      1.67,
+      1.53,
+      1.57,
+      1.91,
+      1.62,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 24.2,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-0500-hora",
+    "fecha": "2026-11-19T05:00",
+    "texto": "⏰ TODO A LAS 21:00 ⏰\n\n⚽ SL Benfica (fem.) – Roma (fem.) ➜ 🛡️ SL Benfica (fem.) o empate\n⚽ Arsenal (fem.) – Lyon (fem.) ➜ 🎯 Marie-Antoinette Katoto: 3+ tiros\n⚽ Barcelona (fem.) – Servette Chênois (fem.) ➜ 🎯 Nicoli Kerolin: 4+ tiros\n\n🎯 CUOTA 2,74 💎 · 10€ → 27,40€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
+      "1638297|Home Player Shots|Nicoli Kerolin - 4",
+      "1638338|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.74,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-0600-tapados",
+    "fecha": "2026-11-19T06:00",
+    "texto": "🐶 LA DE LOS TAPADOS 🐶\n\nHoy vamos con los que nadie ve 👀\n\n⚽ Paris FC (fem.) – Køge (fem.) ➜ 🛡️ Køge (fem.) o empate @2,20\n⚽ SL Benfica (fem.) – Roma (fem.) ➜ 🛡️ Roma (fem.) o empate @1,67\n⚽ Arsenal (fem.) – Lyon (fem.) ➜ 🛡️ Arsenal (fem.) o empate @1,91\n\n🎯 CUOTA 7,02 💎 · 10€ → 70,20€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1638327|Double Chance|Draw/Away",
+      "1638286|Double Chance|Home/Draw",
+      "1638338|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      2.2,
+      1.91,
+      1.67
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 7.02,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-0700-x500",
+    "fecha": "2026-11-19T07:00",
+    "texto": "🤪 LA LOCURA DE x91,37 🤪\n\n⚽ Austria Wien (fem.)–Bayern Munich (fem.) 18:45\n🚩 +9 córners · 🏆 Bayern Munich (fem.) gana las dos partes\n⚽ Paris FC (fem.)–Køge (fem.) 18:45\n🎯 Karla Torres: 4+ tiros · ⚽ Clara Mateo marca\n⚽ Arsenal (fem.)–Lyon (fem.) 21:00\n⚽ Melchie Dumornay marca\n⚽ SL Benfica (fem.)–Roma (fem.) 21:00\n🏆 Roma (fem.) gana una parte · ⚽ SL Benfica (fem.) marca 2+\n\n🎯 CUOTA 91,37 aprox. 💎 10€ → 914€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1638292|Corners Over Under|Over 9",
+      "1638292|Win Both Halves|Away",
+      "1638327|Home Player Shots|Karla Torres - 4",
+      "1638327|Anytime Goal Scorer|Clara Mateo",
+      "1638286|Anytime Goal Scorer|Melchie Dumornay",
+      "1638338|To Win Either Half|Away",
+      "1638338|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.9,
+      1.83,
+      1.83,
+      1.91,
+      1.91,
+      1.83,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 91.37,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-19-loca-th-0930-tiros",
+    "fecha": "2026-11-19T09:30",
+    "texto": "🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯\n\n⭐ Paris FC (fem.) – Køge (fem.) · 18:45\n🎯 Kenza Dufour: 2+ tiros\n🎯 Manoly Baquerizo: 2+ tiros\n🎯 Mariam Toloba: 3+ tiros\n🎯 Maeline Mendy: 4+ tiros\n🎯 Aurelie Reynders: 3+ tiros\n\n🎯 CUOTA 3,75 aprox. 💎 · 10€ → 37,50€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1638327|Home Player Shots|Kenza Dufour - 2",
+      "1638327|Home Player Shots|Manoly Baquerizo - 2",
+      "1638327|Home Player Shots|Mariam Toloba - 3",
+      "1638327|Home Player Shots|Maeline Mendy - 4",
+      "1638327|Home Player Shots|Aurelie Reynders - 3"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 3.75,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1100-duelo",
+    "fecha": "2026-11-19T11:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Paris FC (fem.) vs Køge (fem.) · 18:45\n\n🎯 Kenza Dufour: 2+ tiros (Paris FC (fem.))\n🎯 Kyra Carusa: 2+ tiros (Køge (fem.))\n\n🎯 CUOTA 2,01 aprox. 💎 · 10€ → 20,10€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638327|Home Player Shots|Kenza Dufour - 2",
+      "1638327|Away Player Shots|Kyra Carusa - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.01,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1130-hora",
+    "fecha": "2026-11-19T11:30",
+    "texto": "⏰ TODO A LAS 21:00 ⏰\n\n⚽ SL Benfica (fem.) – Roma (fem.) ➜ 🎯 Clara Oliveira: 2+ tiros\n⚽ Arsenal (fem.) – Lyon (fem.) ➜ 🎯 Marie-Antoinette Katoto: 3+ tiros\n⚽ Barcelona (fem.) – Servette Chênois (fem.) ➜ 🎯 Nicoli Kerolin: 4+ tiros\n\n🎯 CUOTA 2,74 💎 · 10€ → 27,40€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
+      "1638297|Home Player Shots|Nicoli Kerolin - 4",
+      "1638338|Home Player Shots|Clara Oliveira - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.74,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1400-x500",
+    "fecha": "2026-11-19T14:00",
+    "texto": "🤪 LA LOCURA DE x156 🤪\n\n⚽ Austria Wien (fem.)–Bayern Munich (fem.) 18:45\n⚽ Austria Wien (fem.) marca\n⚽ Paris FC (fem.)–Køge (fem.) 18:45\n⚽ Clara Mateo marca\n⚽ Arsenal (fem.)–Lyon (fem.) 21:00\n⚽ Melchie Dumornay marca\n⚽ Barcelona (fem.)–Servette Chênois (fem.) 21:00\n⚽ Rosalia Dominguez marca\n⚽ SL Benfica (fem.)–Roma (fem.) 21:00\n🎯 Chandra Davidson: 4+ tiros · ⚽ SL Benfica (fem.) marca 2+ · 🏆 Roma (fem.) gana una parte\n\n🎯 CUOTA 156 aprox. 💎 10€ → 1.564€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638292|Total - Home|Over 0.5",
+      "1638327|Anytime Goal Scorer|Clara Mateo",
+      "1638286|Anytime Goal Scorer|Melchie Dumornay",
+      "1638297|Anytime Goal Scorer|Rosalia Dominguez",
+      "1638338|Home Player Shots|Chandra Davidson - 4",
+      "1638338|Total - Home|Over 1.5",
+      "1638338|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      2.2,
+      1.91,
+      1.91,
+      2.05,
+      1.83,
+      1.83,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 156.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-19-loca-th-1430-escudos",
+    "fecha": "2026-11-19T14:30",
+    "texto": "🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥\n\n⭐ Austria Wien (fem.) vs Bayern Munich (fem.) · 18:45\n\n⚽ Edna Imade marca\n🎯 Linda Dallmann: 3+ tiros\n⚽ Bayern Munich (fem.) marca en las dos partes\n🎯 Vanessa Gilles: 2+ tiros\n🎯 Jovana Damnjanovic: 4+ tiros\n🎯 Lena Oberdorf: 2+ tiros\n🔥 +1,5 goles en la 2ª parte de Austria Wien (fem.)–Bayern Munich (fem.)\n🏆 Bayern Munich (fem.) gana las dos partes\n\n🎯 CUOTA 9,87 aprox. 💎 10€ → 98,70€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638292|Anytime Goal Scorer|Edna Imade",
+      "1638292|Away Player Shots|Linda Dallmann - 3",
+      "1638292|To Score In Both Halves By Teams|Away",
+      "1638292|Away Player Shots|Vanessa Gilles - 2",
+      "1638292|Away Player Shots|Jovana Damnjanovic - 4",
+      "1638292|Away Player Shots|Lena Oberdorf - 2",
+      "1638292|Goals Over/Under - Second Half|Over 1.5",
+      "1638292|Win Both Halves|Away"
+    ],
+    "cuotas": [
+      1.4,
+      1.44,
+      1.5,
+      1.5,
+      1.5,
+      1.53,
+      1.57,
+      1.83
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Austria Wien W",
+      "visitante": "Bayern Munich W",
+      "id_l": 17575,
+      "id_v": 1860,
+      "logo_l": "https://media.api-sports.io/football/teams/17575.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1860.png",
+      "fecha": "2026-11-19T18:45",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 9.87,
+    "cuota_calculada": true,
+    "cuota_bet365": 9.87,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1500-escudos",
+    "fecha": "2026-11-19T15:00",
+    "texto": "🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥\n\n⭐ Paris FC (fem.) vs Køge (fem.) · 18:45\n\n🎯 Anaele Le Moguedec: 2+ tiros\n🎯 Kenza Dufour: 2+ tiros\n⚽ Køge (fem.) marca\n⚽ Maeline Mendy marca\n\n🎯 CUOTA 2,72 aprox. 💎 10€ → 27,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638327|Home Player Shots|Anaele Le Moguedec - 2",
+      "1638327|Home Player Shots|Kenza Dufour - 2",
+      "1638327|Total - Away|Over 0.5",
+      "1638327|Anytime Goal Scorer|Maeline Mendy"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.62
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Paris FC W",
+      "visitante": "Køge W",
+      "id_l": 1676,
+      "id_v": 13982,
+      "logo_l": "https://media.api-sports.io/football/teams/1676.png",
+      "logo_v": "https://media.api-sports.io/football/teams/13982.png",
+      "fecha": "2026-11-19T18:45",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 2.72,
+    "cuota_calculada": true,
+    "cuota_bet365": 2.72,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1530-duelo",
+    "fecha": "2026-11-19T15:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Paris FC (fem.) vs Køge (fem.) · 18:45\n\n🎯 Manoly Baquerizo: 2+ tiros (Paris FC (fem.))\n🎯 Sarah Thygesen: 2+ tiros (Køge (fem.))\n\n🎯 CUOTA 2,06 aprox. 💎 · 10€ → 20,60€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638327|Home Player Shots|Manoly Baquerizo - 2",
+      "1638327|Away Player Shots|Sarah Thygesen - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.06,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1630-x100",
+    "fecha": "2026-11-19T16:30",
+    "texto": "🔥 COMBI POR 12,83 🔥\n\n⚽ Austria Wien (fem.)–Bayern Munich (fem.) 18:45\n🔥 +1,5 goles en la 2ª parte de Austria Wien (fem.)–Bayern Munich (fem.)\n⚽ Paris FC (fem.)–Køge (fem.) 18:45\n⚽ Ambos marcan · ⚽ Maeline Mendy marca\n⚽ Arsenal (fem.)–Lyon (fem.) 21:00\n⚽ Lyon (fem.) marca 2+ · 🔥 +1,5 goles en la 2ª parte del Arsenal (fem.)–Lyon (fem.)\n⚽ SL Benfica (fem.)–Roma (fem.) 21:00\n🏆 SL Benfica (fem.) gana una parte\n\n🎯 CUOTA 12,83 aprox. 💎 10€ → 128€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1638292|Goals Over/Under - Second Half|Over 1.5",
+      "1638327|Both Teams Score|Yes",
+      "1638327|Anytime Goal Scorer|Maeline Mendy",
+      "1638286|Total - Away|Over 1.5",
+      "1638286|Goals Over/Under - Second Half|Over 1.5",
+      "1638338|To Win Either Half|Home"
+    ],
+    "cuotas": [
+      1.57,
+      1.57,
+      1.62,
+      1.67,
+      1.8,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 12.83,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-19-loca-th-1700-escudos",
+    "fecha": "2026-11-19T17:00",
+    "texto": "🔥 COMBI ARSENAL (FEM.) – LYON (FEM.) 🔥\n\n⭐ Arsenal (fem.) vs Lyon (fem.) · 21:00\n\n🎯 Marie-Antoinette Katoto: 3+ tiros\n🎯 Tabitha Chawinga: 3+ tiros\n🏆 Lyon (fem.) gana una parte\n🎯 Frida Maanum: 2+ tiros\n🎯 Olivia Smith: 3+ tiros\n⚽ Ambos marcan\n🔥 +1,5 goles en la 2ª parte del Arsenal (fem.)–Lyon (fem.)\n⚽ Melchie Dumornay marca\n\n🎯 CUOTA 12,13 aprox. 💎 10€ → 121€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
+      "1638286|Away Player Shots|Tabitha Chawinga - 3",
+      "1638286|To Win Either Half|Away",
+      "1638286|Home Player Shots|Frida Maanum - 2",
+      "1638286|Home Player Shots|Olivia Smith - 3",
+      "1638286|Both Teams Score|Yes",
+      "1638286|Goals Over/Under - Second Half|Over 1.5",
+      "1638286|Anytime Goal Scorer|Melchie Dumornay"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.44,
+      1.44,
+      1.53,
+      1.57,
+      1.8,
+      1.91
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Arsenal W",
+      "visitante": "Lyon W",
+      "id_l": 1850,
+      "id_v": 1674,
+      "logo_l": "https://media.api-sports.io/football/teams/1850.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1674.png",
+      "fecha": "2026-11-19T21:00",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 12.13,
+    "cuota_calculada": true,
+    "cuota_bet365": 12.13,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1900-lista-corners",
+    "fecha": "2026-11-19T19:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. ⚽ SL Benfica (fem.)–Roma (fem.) ➜ SL Benfica (fem.) más córners @1,62\n2. ⚽ Arsenal (fem.)–Lyon (fem.) ➜ Arsenal (fem.) más de 4,5 córners @1,83\n3. ⚽ Barcelona (fem.)–Servette Chênois (fem.) ➜ Servette Chênois (fem.) más de 1,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638286|Home Corners Over/Under|Over 4.5",
+      "1638297|Away Corners Over/Under|Over 1.5",
+      "1638338|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.83,
+      1.73,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-1930-ganaambos",
+    "fecha": "2026-11-19T19:30",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n⚽ Arsenal (fem.) – Lyon (fem.) · 21:00\n🏆 Gana Lyon (fem.) y ambos marcan\n\n⚽ SL Benfica (fem.) – Roma (fem.) · 21:00\n🏆 Gana SL Benfica (fem.) y ambos marcan\n\n⚽ Barcelona (fem.) – Servette Chênois (fem.) · 21:00\n🏆 Gana Barcelona (fem.) y ambos marcan\n\n🎯 CUOTA 48,75 💎 · 10€ → 488€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1638286|Results/Both Teams Score|Away/Yes",
+      "1638297|Results/Both Teams Score|Home/Yes",
+      "1638338|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      3.25,
+      4.0,
+      3.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 48.75,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-19-loca-th-2000-tiros",
+    "fecha": "2026-11-19T20:00",
+    "texto": "🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CHÊNOIS (FEM.) 🎯\n\n⭐ Barcelona (fem.) – Servette Chênois (fem.) · 21:00\n🎯 Nicoli Kerolin: 4+ tiros\n🎯 Aitana Bonmati: 5+ tiros\n🎯 Claudia Pina: 7+ tiros\n🎯 Martina Gonzalez: 2+ tiros\n🎯 Francisca Nazareth: 3+ tiros\n\n🎯 CUOTA 3,86 aprox. 💎 · 10€ → 38,60€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1638297|Home Player Shots|Nicoli Kerolin - 4",
+      "1638297|Home Player Shots|Aitana Bonmati - 5",
+      "1638297|Home Player Shots|Claudia Pina - 7",
+      "1638297|Home Player Shots|Martina Gonzalez - 2",
+      "1638297|Home Player Shots|Francisca Nazareth - 3"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 3.86,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
   }
 ]

@@ -2939,5 +2939,505 @@
     0.99
    ]
   ]
+ },
+ {
+  "id": "2026-11-19-loca-th-0300-duelo",
+  "fecha": "2026-11-19T03:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "1638327|Away Player Shots|Kyra Carusa - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.4
+  ],
+  "real": 2.01,
+  "multiplicando": 1.96,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-0930-tiros",
+  "fecha": "2026-11-19T09:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638327|Home Player Shots|Kenza Dufour - 2",
+   "1638327|Home Player Shots|Manoly Baquerizo - 2",
+   "1638327|Home Player Shots|Mariam Toloba - 3",
+   "1638327|Home Player Shots|Maeline Mendy - 4",
+   "1638327|Home Player Shots|Aurelie Reynders - 3"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.4
+  ],
+  "real": 3.75,
+  "multiplicando": 5.378,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-1100-duelo",
+  "fecha": "2026-11-19T11:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638327|Home Player Shots|Kenza Dufour - 2",
+   "1638327|Away Player Shots|Kyra Carusa - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.4
+  ],
+  "real": 2.01,
+  "multiplicando": 1.96,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-1430-escudos",
+  "fecha": "2026-11-19T14:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638292|Anytime Goal Scorer|Edna Imade",
+   "1638292|Away Player Shots|Linda Dallmann - 3",
+   "1638292|To Score In Both Halves By Teams|Away",
+   "1638292|Away Player Shots|Vanessa Gilles - 2",
+   "1638292|Away Player Shots|Jovana Damnjanovic - 4",
+   "1638292|Away Player Shots|Lena Oberdorf - 2",
+   "1638292|Goals Over/Under - Second Half|Over 1.5",
+   "1638292|Win Both Halves|Away"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.5,
+   1.5,
+   1.5,
+   1.53,
+   1.57,
+   1.83
+  ],
+  "real": 9.87,
+  "multiplicando": 29.909,
+  "aj": 0.5423910100199391,
+  "parejas": [
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+resultado/partido",
+    0.9
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-1500-escudos",
+  "fecha": "2026-11-19T15:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "1638327|Home Player Shots|Kenza Dufour - 2",
+   "1638327|Total - Away|Over 0.5",
+   "1638327|Anytime Goal Scorer|Maeline Mendy"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.62
+  ],
+  "real": 2.72,
+  "multiplicando": 4.445,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-1530-duelo",
+  "fecha": "2026-11-19T15:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638327|Home Player Shots|Manoly Baquerizo - 2",
+   "1638327|Away Player Shots|Sarah Thygesen - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.44
+  ],
+  "real": 2.06,
+  "multiplicando": 2.016,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-1700-escudos",
+  "fecha": "2026-11-19T17:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
+   "1638286|Away Player Shots|Tabitha Chawinga - 3",
+   "1638286|To Win Either Half|Away",
+   "1638286|Home Player Shots|Frida Maanum - 2",
+   "1638286|Home Player Shots|Olivia Smith - 3",
+   "1638286|Both Teams Score|Yes",
+   "1638286|Goals Over/Under - Second Half|Over 1.5",
+   "1638286|Anytime Goal Scorer|Melchie Dumornay"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.44,
+   1.44,
+   1.53,
+   1.57,
+   1.8,
+   1.91
+  ],
+  "real": 12.13,
+  "multiplicando": 33.564,
+  "aj": 0.7563915912709693,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goleador+resultado/partido",
+    0.9
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-19-loca-th-2000-tiros",
+  "fecha": "2026-11-19T20:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1638297|Home Player Shots|Nicoli Kerolin - 4",
+   "1638297|Home Player Shots|Aitana Bonmati - 5",
+   "1638297|Home Player Shots|Claudia Pina - 7",
+   "1638297|Home Player Shots|Martina Gonzalez - 2",
+   "1638297|Home Player Shots|Francisca Nazareth - 3"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.44
+  ],
+  "real": 3.86,
+  "multiplicando": 5.532,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
  }
 ]
