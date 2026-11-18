@@ -7357,11 +7357,11 @@
       "1638333|Home Player Shots|Signe Bruun - 4"
     ],
     "cuotas": [
+      1.36,
       1.4,
-      1.4,
-      1.4,
-      1.44,
-      1.5
+      1.36,
+      1.33,
+      1.44
     ],
     "solo_en": [
       "threads"
@@ -7372,7 +7372,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T04:32"
   },
   {
     "id": "2026-11-18-loca-th-0700-duelo",
