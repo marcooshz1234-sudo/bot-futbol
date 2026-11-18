@@ -1,7 +1,7 @@
 # Austria Wien W – Bayern Munich W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 18:45 (hora España) · Sportplatz Jochbergengasse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 08:25_

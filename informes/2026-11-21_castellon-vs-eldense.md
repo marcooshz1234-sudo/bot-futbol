@@ -1,7 +1,7 @@
 # Castellón – Eldense
 **Segunda División** · Regular Season - 15 · 21/11/2026 18:30 (hora España) · Estadio Municipal de Castalia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:08_

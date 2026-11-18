@@ -90,14 +90,6 @@
    "tipos": []
   },
   {
-   "titulo": "La viñeta del miércoles",
-   "fuente": "El Periódico Extremadura",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2NsMjlZVU55WDkxZlFuSy1CUUdYd1FVcTRPRjRhckxrc3pZWW8zNDh5aC1GTEhlaHhacXMtMHpMQi1fd2RpeWNFaGp0WjlFVXVLb2w2MkVia3pxU1ZvQ2dqZjNoQUdObHFrNy1vNUdPMjBzdFNRRnZmc0pRWks2SlBrSUtFWXpkbS1ZMVdwV1B0ejh1Y1Q0Vw?oc=5",
-   "fecha": "2026-11-18T07:01",
-   "equipo": "Badajoz",
-   "tipos": []
-  },
-  {
    "titulo": "FÚTBOL | Televisión Canaria emite esta tarde el encuentro de Copa del Rey entre el CD Badajoz y el CD Tenerife",
    "fuente": "Elblogoferoz",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQkU2TU5hdmlPSjY5dElueGVFMGNFU1BzUzVHR0Q4QlppNU02bENRdF90ZzJlZndtV1NsTndRVWhFbG5vM0ZyM3hwbFViOVhZZlNpMmFuc2drb3ZESU9kajRGazI3aUhyWmRpSHFzeUpaOFhvUm5MRTNNTUIweWJWeHcxVFRsRDBXbXBPaHJVV05rYVZ4Z09NNEJJUVBMMVZlbzVGS0dPS1MtNzIySFhrcWRveS1qQXZSYm5KYS05TmIwN1VuU3JkTEJrSkJkam1iVTNZWlZNSVJfOW9CZFUyUGJMVQ?oc=5",
@@ -224,6 +216,14 @@
    "fecha": "2026-11-17T13:36",
    "equipo": "Badajoz",
    "tipos": []
+  },
+  {
+   "titulo": "Juanjo ya ganó en Badajoz",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS085V3NRUFlmTnBiR0R5Z3RTTlBiQXlVaUVBTF9ETGw1ck5VdlE3b1pWOFNWTXhzbDRXRHEzOXRxcHY3clhLdy1Hb2U2WGFZSU5mazdxMFBvN09FalVqeEpMN3piMmE5cnZFZE9LQVBveEdQeDV1SzhQMzFEZFFsTXBCejNFVzZR0gGIAUFVX3lxTE5LTzlXc1FQWWZOcGJHRHlndFNOUGJBeVVpRUFMX0RMbDVyTlV2UTdvWlY4U1ZNeHNsNFdEcTM5dHFwdjdyWEt3LUdvZTZYYVlJTmZrN3EwUG83T0VqVWp4Skw3emIyYTlydkVkT0tBUG94R1B4NXVLOFAzMURkUWxNcEJ6M0VXNlE?oc=5",
+   "fecha": "2026-11-17T09:39",
+   "equipo": "Badajoz",
+   "tipos": []
   }
  ],
  "1644384": [
@@ -249,14 +249,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmpXTkRjRmZWWTFxQlJRakJBbUtnUDhILTBqc3JKc3Y3dWdvaWdsNUthZ2lsalRZQkhFZVZjZUN4ZGZGRTZ5ODk4T2xCVXRLenlUUU03YWFQZzBNenhzR2NJeHFqTWh1VzVFQ1JkUjRrNURLX0FVMVYzZXJsZEZLdlE0dnpmWGxGVG5uenF0VnpLWkJ6Yy1yZDFNRHJDckdiRjhZbGlpTnBfUXg2LTZaUkRzWXJXUdIBtgFBVV95cUxOWmpXTkRjRmZWWTFxQlJRakJBbUtnUDhILTBqc3JKc3Y3dWdvaWdsNUthZ2lsalRZQkhFZVZjZUN4ZGZGRTZ5ODk4T2xCVXRLenlUUU03YWFQZzBNenhzR2NJeHFqTWh1VzVFQ1JkUjRrNURLX0FVMVYzZXJsZEZLdlE0dnpmWGxGVG5uenF0VnpLWkJ6Yy1yZDFNRHJDckdiRjhZbGlpTnBfUXg2LTZaUkRzWXJXUQ?oc=5",
    "fecha": "2026-11-18T07:00",
    "equipo": "Sabadell",
-   "tipos": []
-  },
-  {
-   "titulo": "El Utebo busca dar la sorpresa ante el Sabadell para seguir soñando en la Copa",
-   "fuente": "El Periódico de Aragón",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmNTRnc3QzBwdm5jSmk5VW5BSGhTWUR6Y29BUWxiVndNZllwQUJqVDhMSmVwVmJ4eEZEbEVFTEZ1ZEw0cUc3TmkyRXBxTnBPZVl2c01XTWFBZFBETjdSZzhTNW5oMjRzcWhaNG1oalF6RkhRNGRTQkNRZDhiSnEzYlhjSm5kQzVhS25JM0x4OTYwblQ0bGpTTldqZm9yNm56N3R1dk9NWdIBrAFBVV95cUxPcmdxcXlKcF9LUUVBelZxWjk2Q292clg4V0RDbmFXQ1hkVVFTLWM4OWZucFF6ZXNIN215ZnVHdVJhbHRWdnF1c1IycUdNWEJSZVZoSXFwMjZoRGdxcnpicm9sbi1UdDhSa25mRkFHUUxiSU05MlNlTVlNMjVRMmcwUVMyWHcxTVI4eG9yNEY0SXIxREg2cTlfbTZqUUJyN2VmOERQY2pkTmFacXV5?oc=5",
-   "fecha": "2026-11-18T05:30",
-   "equipo": "Utebo",
    "tipos": []
   },
   {
@@ -299,6 +291,14 @@
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcU5XcGxTaU9EeEpGZURfN1Z1UGZFTlFYZ0N3eFI0YkhUVDJaekNiVDh5TnFrenRWSzRQc3ZMbXJrbjZQVnNKQVhpWWJ1OHF0MklwbWp3bF9MZW5DVjl1MTVsVHJnUTJvNUM1VFJCZ2ZkRlRGbThWN0hadWxWNmRYN0I3bEE4bHpZRDR2cTV2Y1haR0Q0OUdvejNMY2NES0xTUEtaa3MzQ1hiMk1QZDN1OU5ubjhPUnFQaVRnTHQxN0xObDJJLWREY3ljckNzN2NaV2FUY0kxcTJzRFdCaFNvc2ZGQnd2OVJibUd4WXVsejYtMlFISWJXd1JMM1V0ZTJrZ2pvRWJkNWhDdm1O0gGbAkFVX3lxTFBibFdzekU4VXN4cVFTUFJQQ2tkZ1Q0dEZ5QWpPWXB5YWlza3lPLW85MlA4c0tNWmVSeG9fajIxRThGSjk5VllsNzVyU1pOWVJYQmlwVlRRZS1FRGhsMWZ4bS14aDhSRVBlMVlQMEh1UUZZNldOOHhtck1QcDVlYjQydzhKYmZHSnZEaFBFYzF4TjRlNmNteXJBSDhtNDgyOFE2Ym9NaVZlT0VvcXNJdS0tQ1VXTGFEX3lBRGhMUlNBTVBkUnlqVmRHcmV2bzlMeHIyR0NFbzZmVk5HSHU1LUlmNDFaSExfS1RQbUhPS2RNUDJPMFZUVGpEMnJyajk3ekRpTmx6Um10SmVmQ2sxTDJPdjRsekR0Qk5sQkE?oc=5",
    "fecha": "2026-11-18T13:13",
    "equipo": "Real Unión",
+   "tipos": []
+  },
+  {
+   "titulo": "Antonio Adán anuncia su retirada del fútbol profesional",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1lCdVNmaFo1T1o0bGNON0E1bktyRHI1eld1eDl2OUQ5V21LMWozSXJUS0oxLXpJeFhVcXFTSlBMa0lZcWpJSENueldwRURDdGU0eUpHNFdoWUVUVTVkSm9rR2NzX2lMSVZSbjB0TTZvLWlnb2ZMdWxPZ2tETXhmeTNNUW1JMXZkRlRaQ3BHaC1tYU5JaERqeXdfdjVJZDgxVDFGX3IwaFhveGJD?oc=5",
+   "fecha": "2026-11-18T13:06",
+   "equipo": "Portugalete",
    "tipos": []
   },
   {
@@ -374,14 +374,6 @@
    "tipos": []
   },
   {
-   "titulo": "América empató agónicamente y clasificó a la final de Copa BetPlay",
-   "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmRhdVU5dU5menc1eVR4X3dzQmNWVmZEeWVZRk91VWZGLUx0Qm9XVTdwR2J3dGw4eHNhQVNQRVFONTEybks2UlRKeVBnWE8welNJc08wT3JJcWQ3bVNCNWRaeFY1Z19XZUpvTVNla2UxekpYX1hFZkN6V29IVlg3SWNxSDd4Yk9ld2k1SlZYckZnOENDSHAzbTVQTGcyeVhjc3VTWWpPM0R4WXZnUFFoYVB5MjlCNEo3NWJhY2J3SDFJQTFkSk9zVHhwOGxZUQ?oc=5",
-   "fecha": "2026-11-17T20:42",
-   "equipo": "Real Unión",
-   "tipos": []
-  },
-  {
    "titulo": "Preocupación por estado de salud de Mario Soto, histórico del fútbol chileno",
    "fuente": "TVN",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3Q0WUdUNThhakNNVXo0WnNVcTJfUXVGNUxkU2NuUy1NZFdlR0Y4QUJ3ejc3ZFdndkJka0FjNWNCdHB4VlhoNFE5NjVaZlZEZGRaTFFWOXhmd3ZiNlNnSFl4TnRTSjVNdzZFOTBjWTUtWmhINExPNFdZalZIU1REZzVyZXFNZlRreHlGel80YUkxVEpyUWE5MGN4TklMQWc0aHdSbWkyVzBXdzlBWHJjRmpNLVdzUdIBuwFBVV95cUxObEwyeUdaT0c2clpiTVJUVjFPanIxQmEteEtLTnFsLTFHeTdOWTlpa0NwaExNSkxUc3ItdGl3by13aGZsMkNqMjVrbDhiMjZBbkpUbjRvX1ZHbUNpYm5mYTdCQXkwNjJRYnVnTEVUc0syQzJ5dkE5MUFEd2gtMm50c1VtM3NBU2pfUy0ySXBHeDloVk5iejItNGhCRXRoQnlQRldBNnVjN0pxLWQ4Vzh4NzZpQ3o1U0JPVDJF?oc=5",
@@ -427,6 +419,14 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRF8tTC00ajl3TUZwbV8tZU9QYnYwc190TGNhY0gzSmIzLThudko2cTdCM3NiYVdQVElIOVVwUXhrdEFjOTBjQklrd0lNLUd0clU4OEF3SFhIRmh0Y3BzVHMyc2IxQzNza3R5Vk9Kb0Y0WC1TcFpfcVNwSFpKQkxXV0xmWFhINzBZd1ZEZHpPVDRhbFVDclF5SGg2eGtBcGRzd2szU3dTS2hucWo5M1V4MVJ1RWNVOGo2?oc=5",
    "fecha": "2026-11-17T15:15",
    "equipo": "Portugalete",
+   "tipos": []
+  },
+  {
+   "titulo": "Unión descendió a la Primera B del fútbol femenino",
+   "fuente": "AgenciaFe",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0htVnh4cHM4aURodGdhdGs5d0JOeHUyTEkyM2JHY0JwY3U3Q1oyZGJpcEY4Zmo0dkJiYXc1OXh2Z0piYmJnUGpBRklrWXJ3U2p3QmNsQzR5cEdSR2VXcm5qYkJLUktnVkM3cUpmX3F3enh6dWxzdE8xS1NETlktN3g0RXFzeGZKNEZiRHFodURMQQ?oc=5",
+   "fecha": "2026-11-17T14:57",
+   "equipo": "Real Unión",
    "tipos": []
   },
   {
@@ -490,7 +490,7 @@
    ]
   },
   {
-   "titulo": "La carta de despedida de Antonio Adán tras anunciar su retirada del fútbol profesional",
+   "titulo": "Antonio Adán anuncia su retirada del fútbol profesional",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1lCdVNmaFo1T1o0bGNON0E1bktyRHI1eld1eDl2OUQ5V21LMWozSXJUS0oxLXpJeFhVcXFTSlBMa0lZcWpJSENueldwRURDdGU0eUpHNFdoWUVUVTVkSm9rR2NzX2lMSVZSbjB0TTZvLWlnb2ZMdWxPZ2tETXhmeTNNUW1JMXZkRlRaQ3BHaC1tYU5JaERqeXdfdjVJZDgxVDFGX3IwaFhveGJD?oc=5",
    "fecha": "2026-11-18T13:06",
@@ -526,14 +526,6 @@
    "fuente": "PrimerTiempo.CO",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXZ4VTJvWEZVS2NqUl9XVnlCdTFjcmlHOWdWTmdfcXU1dF9yUC1pTEIzMFg1Mm10ZTNucURna0sxZXNrd3hzaWRZT3FuTm1McWF6LVhKY3VrQ1ZTa1pDMjM0UVlmS3FOLXdlMlg0Z05md3hBTkNaVjNKOV8wYTFvYXUyMWVmdU5rYmcxRTd1QVBjT3Axd1pKMUZUNExuYnF0ZGtBVVp4Z3Y?oc=5",
    "fecha": "2026-11-18T02:24",
-   "equipo": "FC Cartagena",
-   "tipos": []
-  },
-  {
-   "titulo": "Millonarios se prepara para enfrentar a América de Cali en cuadrangulares",
-   "fuente": "PrimerTiempo.CO",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbE5XalB6bk11VTZHMUdYMUdPcGYyTVR1Mll0TXgydXRkN2phY2Q2X2daMk4waXY3djhpVlFFeDBVSThfMVN5am1iMVJIUDNCZ1FVUnhvVzA3dTl2Wm5kdU5lX0RmMEVkbllKSEQ2NGZzVnR6VEtKZ293RldhZ3pic1hoUjFoOWNJcUNuUUpZR0xkS2UycGxDZVBpel8wbHhqYTlkaVdIOVA?oc=5",
-   "fecha": "2026-11-18T02:11",
    "equipo": "FC Cartagena",
    "tipos": []
   },
@@ -610,6 +602,14 @@
    "tipos": []
   },
   {
+   "titulo": "Hinchas de Boca Juniors se toman Cartagena antes de la final de la Copa Sudamericana",
+   "fuente": "El País",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWIyNzV4NjN6Q3ljZHVfaEVLV0J1Z2JHMkFsYnB5bzlraTRGVDFGZzNPYkV2NkU2dnQyQ2RONUdNVDRTRWhwZzBaaEFjRlBnMVZyU0pZQnlOUE1Ca2t5QzhaSGFIYm12RGJEUV8ydGMtOVJ2MkozeV8xM01oSi1uWjFvX2E0eXdjTjRRbm5yY01UcHJTdzBId2llaXV4bTV3WFhOQWVaUWhKRUlkcThnTjNXNjdYTDRpYzZXMElWWjdHZ1phTng2ZtIBzgFBVV95cUxPcmotV3BUOFlXRkNrTGkweTdjanZBX01hRnZhQjhqRXZhSE45dEZuTnByQnJhekcyb19Tb0R3ek5HZkpFa1ZlWk9fZy14OEZhbjdWODljb2JGTjVhcXZNU1JxODdEVEhtVTdFTmxyRkFBOUJ0bXh0T1pENEJROGJjbTdXNDlRTUpkMmYyb1Bzc2x4cGRHTm9wLXV4QXFHYXptMmJqTGxVSnR2dFhtYUpzS3p1RWF6eDhGMG9wU203VWNzWVVqUkRLSDZMYXFYUQ?oc=5",
+   "fecha": "2026-11-17T13:46",
+   "equipo": "FC Cartagena",
+   "tipos": []
+  },
+  {
    "titulo": "Sandroni: \"Donde no llegan las piernas tiene que llegar el corazón\"",
    "fuente": "Onda Regional de Murcia | ORM",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMU40X2Q1aWdxRGVzUEhqdDVjWmgtbmozSmpBSGlkYlV6aUZHQnFTLUJVd2FITVVrWUxGMkRncnFLblVlUnB0TWkzNEx2YzhUWERnbElFQkFhenY0cGN6eTJubzJUZkxxaDRGUWhJajBKLVpCcGhUT1cxR2o5VGFjNHhETWxYLW1DejVLSlQ5cDJ3VjA3X2QyYw?oc=5",
@@ -620,7 +620,7 @@
  ],
  "1644373": [
   {
-   "titulo": "La carta de despedida de Antonio Adán tras anunciar su retirada del fútbol profesional",
+   "titulo": "Antonio Adán anuncia su retirada del fútbol profesional",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1lCdVNmaFo1T1o0bGNON0E1bktyRHI1eld1eDl2OUQ5V21LMWozSXJUS0oxLXpJeFhVcXFTSlBMa0lZcWpJSENueldwRURDdGU0eUpHNFdoWUVUVTVkSm9rR2NzX2lMSVZSbjB0TTZvLWlnb2ZMdWxPZ2tETXhmeTNNUW1JMXZkRlRaQ3BHaC1tYU5JaERqeXdfdjVJZDgxVDFGX3IwaFhveGJD?oc=5",
    "fecha": "2026-11-18T13:06",
@@ -732,14 +732,6 @@
    "tipos": []
   },
   {
-   "titulo": "Muere Blas Ziarreta, uno de los grandes responsables del auge de la cantera y la filosofía del Athletic",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnFmLXVaSFR5dXBoZTNLWDVtcnh2TlVkd1c0X3k2MGJ2SlRCcVhqZFd6MmZOSVU4TDA2MlBWbFZKTjVJeXJfWTZFenN1a3lvTS1EeEM0eEdZQUkzYlZOa2puRXdhZG9SVXJFTU0xaDd5RlBLekg0aElsVl9qd0t0bnZZdHpDaksybXRFTC1YTUoyZWE5Uk5xNVlTWXNSWWdtekRpMHVxdl9VcDhIMzBzSXRhOVJiclZ2dFpmWllKT2I3aHdUY0cxeUVaTW5ZMmZnNzhJ?oc=5",
-   "fecha": "2026-11-17T11:59",
-   "equipo": "Barakaldo",
-   "tipos": []
-  },
-  {
    "titulo": "Los deberes del Barakaldo para la Copa",
    "fuente": "Deia",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1RaYVhiaWZEMnNyNVBsTl9za1AwTkluN1VGRS1MVHJLYTBncHRVSDBWb2MtZ29BS19YTktsd2hkazNoeDJ5ZWZGOHlGS3ZmaVNfaGt2TzFtODVUMi1KaHBCWDQzU3hMZW9KSXlkZnNmUmFkRGxzQm5vRVRRanBCMW96MXVQQdIBhgFBVV95cUxQU1RaYVhiaWZEMnNyNVBsTl9za1AwTkluN1VGRS1MVHJLYTBncHRVSDBWb2MtZ29BS19YTktsd2hkazNoeDJ5ZWZGOHlGS3ZmaVNfaGt2TzFtODVUMi1KaHBCWDQzU3hMZW9KSXlkZnNmUmFkRGxzQm5vRVRRanBCMW96MXVQQQ?oc=5",
@@ -802,7 +794,7 @@
    ]
   },
   {
-   "titulo": "La carta de despedida de Antonio Adán tras anunciar su retirada del fútbol profesional",
+   "titulo": "Antonio Adán anuncia su retirada del fútbol profesional",
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1lCdVNmaFo1T1o0bGNON0E1bktyRHI1eld1eDl2OUQ5V21LMWozSXJUS0oxLXpJeFhVcXFTSlBMa0lZcWpJSENueldwRURDdGU0eUpHNFdoWUVUVTVkSm9rR2NzX2lMSVZSbjB0TTZvLWlnb2ZMdWxPZ2tETXhmeTNNUW1JMXZkRlRaQ3BHaC1tYU5JaERqeXdfdjVJZDgxVDFGX3IwaFhveGJD?oc=5",
    "fecha": "2026-11-18T13:06",
@@ -874,6 +866,14 @@
    "tipos": []
   },
   {
+   "titulo": "La provocación a Troy Parrott antes de su penalti y su clara respuesta: \"Si la pones en la escuadra...\"",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeDFsLWNISFhIVFVxTEdNQ2E1QUUxZWdJT2RVaVpLMWJVZ3M1a3djWDdfQ1R6VXFUM1VOcjl5SXhWeV9KaVhfajcxYkRsTndkc2xjZk1jbldVMWQyZHprUTk4dDlXOTRVd1hyd3dxTDM4Z05kY3QxNkZmV0J4ZjNybFhUZVdBZE9fZzQzWXNjcWdMM0RSa1YwWnRpaUdwRGJ5YlJONlBWNGE0RFEwOFM1OU9jUWtsbm5Ba0s0a3ZfTQ?oc=5",
+   "fecha": "2026-11-18T10:07",
+   "equipo": "Alcoyano",
+   "tipos": []
+  },
+  {
    "titulo": "Alcoyano – Mallorca: Encuentro entre dos sorpresas coperas de los últimos años",
    "fuente": "Muy de Fútbol",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU1xVzBvMjNCYnZocW5pNGthWmNYN09GZnR0aGZVOXM0RkpIQUZzRE9Sa1RTNm1WUWNCWnhnRUJlS3lFYjh3aUswd09ndWxKN1dzS3RzS1U5OXFocGkxLVpUOFFpaml4RDBWLWM4TFQ0NTNqb2Q4UEJRNHR0YXNuYnpqMkZvWUtKU2RSOEZwRGFwQ1pLbVpJQV8zejdNSGFXMHc?oc=5",
@@ -903,6 +903,14 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYTJTeXZ5U01xOFhXcUlmSjI3eE1PcjNnRHdzMG5leDBWeVZtTm9jR0xvbW1vVzVVU3dBUlYzV3hibVpoY2ZNY3VkYjZPb3AxR3k3d2ZrTWlsbDZWRWlVbXRMY0QtM0ZFR2lKS21mUGV2VjZ4ZmE1bDJXWHN2a2ptY0YzMmJiN1NpdTNOdXdsc2RFTl9BakdaZUkzQkJCOW5aZUdDYmxWSEtid0hiSEJYZkZuNXkwdUNjUXJWMmpqVGlqeGJQR3hIcUNmSDlzLWhDU1E?oc=5",
    "fecha": "2026-11-17T22:46",
    "equipo": "Alcoyano",
+   "tipos": []
+  },
+  {
+   "titulo": "Mallorca - Real Madrid 5-2",
+   "fuente": "Flashscore.es",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVU5VbnFDemFwaUZBQVB0cGhCTVFqRHNyQ2JwZG1UV0EweUlLbzU4TWlKS2ZhZERwczM3OV9YemVxeVR2UnBOdUMzMFZnSnVGRmdVVUpVekxMby1sOW9mU0dMVENuMzJsdW9TdjZCVlB5aDR2MXdacHNmZE05Wm5yb1AxVURmS1Z2aUVyNERVME5EamFGRXpSbEhvT0tTT3ZlOVBldVc0clFKYjJVa205bWlPdmxEbURkdjY0eDlFZVRyZVV6cXpV?oc=5",
+   "fecha": "2026-11-17T21:19",
+   "equipo": "Mallorca",
    "tipos": []
   },
   {
@@ -966,22 +974,6 @@
    "fuente": "El Desmarque",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRF8tTC00ajl3TUZwbV8tZU9QYnYwc190TGNhY0gzSmIzLThudko2cTdCM3NiYVdQVElIOVVwUXhrdEFjOTBjQklrd0lNLUd0clU4OEF3SFhIRmh0Y3BzVHMyc2IxQzNza3R5Vk9Kb0Y0WC1TcFpfcVNwSFpKQkxXV0xmWFhINzBZd1ZEZHpPVDRhbFVDclF5SGg2eGtBcGRzd2szU3dTS2hucWo5M1V4MVJ1RWNVOGo2?oc=5",
    "fecha": "2026-11-17T15:15",
-   "equipo": "Alcoyano",
-   "tipos": []
-  },
-  {
-   "titulo": "Raíllo declara por un presunto delito de coacciones a su exmujer",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUoxUU9sZ3pQbHhjQ3BWUW5tMUFPckNPWWRqX2x5ZFpJM2xfYU9ZcDRkY2VXVjVGT01feC14ZlpVbnBjeGhCZlZDU0hWdWVQaGdLd09KT1VHbTZMRjdia3o3QXlfaVk2YzhNVEY3SW1FZDBvMTN0a0tkUDBsSXdIZWNIQnROb3pVeThtSXV1ZV9JTXFyd0FTd1Y5aTdUckE5b1pwVnYwLXQtdUQwaHZyNFN3LWprQmNxcFVYNkt3SDBlUmpqTG5JSFdwc9IBywFBVV95cUxQcUoxUU9sZ3pQbHhjQ3BWUW5tMUFPckNPWWRqX2x5ZFpJM2xfYU9ZcDRkY2VXVjVGT01feC14ZlpVbnBjeGhCZlZDU0hWdWVQaGdLd09KT1VHbTZMRjdia3o3QXlfaVk2YzhNVEY3SW1FZDBvMTN0a0tkUDBsSXdIZWNIQnROb3pVeThtSXV1ZV9JTXFyd0FTd1Y5aTdUckE5b1pwVnYwLXQtdUQwaHZyNFN3LWprQmNxcFVYNkt3SDBlUmpqTG5JSFdwcw?oc=5",
-   "fecha": "2026-11-17T15:04",
-   "equipo": "Mallorca",
-   "tipos": []
-  },
-  {
-   "titulo": "À Punt retransmite el Alcoyano-Mallorca de Copa este miércoles por televisión y radio",
-   "fuente": "Plaza Deportiva",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYVJZZTZVNHg0QmcwVlR4NXNDQm1rQlhzcV9PVGt4Z2ZyVjh4SGhkLURrN05qOVpnTDZSZjBDZ1JNdzhUR0pKNkIxcElPTlFmNWFTbk5iTUdyc080Q3A4T2t3RlVBd2pWWkZIR1Q2SjFqcy1kRlRNRU1QTEc5YlJFcEVDVV9iN1NMTlY1VDQtdXlNTF9VUzZTczg4cDR6N2tfNWt3TnZ3S1JJaEpDUU94dmtqSXU4SmdBRnJZVnMycjgwWDZFUVh0MWQ0bmpUV3VKNm9XVG5ocFdERVVBYmdtYmJ3?oc=5",
-   "fecha": "2026-11-17T14:43",
    "equipo": "Alcoyano",
    "tipos": []
   }

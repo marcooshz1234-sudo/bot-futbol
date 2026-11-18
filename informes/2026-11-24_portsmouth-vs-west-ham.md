@@ -1,7 +1,7 @@
 # Portsmouth – West Ham
 **Championship** · Regular Season - 17 · 24/11/2026 20:45 (hora España) · Fratton Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

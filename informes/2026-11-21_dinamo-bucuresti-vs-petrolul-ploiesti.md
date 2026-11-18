@@ -1,10 +1,37 @@
 # Dinamo Bucuresti – Petrolul Ploiesti
 **Liga I** · Regular Season - 16 · 21/11/2026 19:30 (hora España) · Arena Nationala
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 18/11 14:21_
+
+- **1X2:** 1 **1.38**  ·  X **4.20**  ·  2 **6.50**
+- **Doble oportunidad:** 1X **1.10**  ·  12 **1.20**  ·  X2 **2.75**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **1X2 descanso:** 1 **1.83**  ·  X **2.50**  ·  2 **6.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.22**  ·  2 **3.50**
+- **To Score In Both Halves By Teams:** 1 **2.10**  ·  2 **7.00**
+- **Win Both Halves:** 1 **3.40**  ·  2 **29.00**
+- **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **15.00**  ·  Away/No **13.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Dinamo Bucuresti (total) | Dinamo Bucuresti en casa | Petrolul Ploiesti (total) | Petrolul Ploiesti fuera |

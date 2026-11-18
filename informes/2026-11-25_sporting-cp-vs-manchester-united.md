@@ -1,7 +1,7 @@
 # Sporting CP – Manchester United
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 08:26_

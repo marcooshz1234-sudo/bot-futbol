@@ -1,16 +1,16 @@
 # CFR 1907 Cluj – Oţelul
 **Liga I** · Regular Season - 16 · 21/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:27_
+_Actualizadas: 18/11 14:21_
 
 - **1X2:** 1 **2.15**  ·  X **3.25**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.62**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **10.00**
+    - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
     - 2,5: más **1.95** · menos **1.85**
     - 3,5: más **3.40** · menos **1.30**
@@ -28,6 +28,9 @@ _Actualizadas: 17/11 08:27_
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.91** · menos **1.80**
+- **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.50**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.20**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -41,6 +44,11 @@ _Actualizadas: 17/11 08:27_
 - **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
+- **Home Corners Over/Under:**
+    - 4,5: más **1.67** · menos **2.10**
+- **Away Corners Over/Under:**
+    - 4,5: más **2.20** · menos **1.62**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 
 ## Estadísticas de equipo
 | | CFR 1907 Cluj (total) | CFR 1907 Cluj en casa | Oţelul (total) | Oţelul fuera |

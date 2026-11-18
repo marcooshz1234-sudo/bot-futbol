@@ -3411,6 +3411,11 @@
    "Se espera un Häcken replegado y despejando, otra fuente de córners a favor del City",
    "La línea de 9 es asequible para un partido de Champions con un favorito tan dominante"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1638306,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "prob_cuota": 0.602
+  }
  }
 ]

@@ -90,6 +90,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.076
   },
+  "AllSportsPicks ⚽🏀🎾": {
+   "n": 5,
+   "verdes": 1,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": -1.39,
+   "resueltos_con_cuota": 3,
+   "prob_cuota": 1.877
+  },
   "CRIMINALPICKS": {
    "n": 4,
    "verdes": 0,
@@ -123,15 +132,6 @@
    "unidades": 0.06,
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.009
-  },
-  "AllSportsPicks ⚽🏀🎾": {
-   "n": 4,
-   "verdes": 1,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": -1.39,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 1.877
   },
   "MERIDIANPICKS 🌐": {
    "n": 3,
@@ -539,11 +539,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Corners Over Under Over 9": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 74,
+   "n": 75,
    "verdes": 34,
    "rojos": 9,
    "nulos": 0,
@@ -880,7 +887,7 @@
    "prob_cuota": 14.402
   },
   "casa/fuera": {
-   "n": 19,
+   "n": 20,
    "verdes": 12,
    "rojos": 4,
    "nulos": 0,
@@ -936,7 +943,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 48,
+   "n": 49,
    "verdes": 24,
    "rojos": 12,
    "nulos": 0,
@@ -1007,6 +1014,15 @@
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
   },
+  "UEFA Champions League Women": {
+   "n": 5,
+   "verdes": 1,
+   "rojos": 3,
+   "nulos": 0,
+   "unidades": -2.86,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 3.05
+  },
   "Segunda División": {
    "n": 5,
    "verdes": 4,
@@ -1015,20 +1031,11 @@
    "unidades": 1.15,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.408
-  },
-  "UEFA Champions League Women": {
-   "n": 4,
-   "verdes": 1,
-   "rojos": 3,
-   "nulos": 0,
-   "unidades": -2.86,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 3.05
   }
  },
  "lado": {
   "partido": {
-   "n": 62,
+   "n": 63,
    "verdes": 27,
    "rojos": 7,
    "nulos": 0,
@@ -1057,7 +1064,7 @@
  },
  "por_que": {
   "—": {
-   "n": 51,
+   "n": 52,
    "verdes": 21,
    "rojos": 11,
    "nulos": 0,
@@ -1131,7 +1138,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 125,
+   "n": 126,
    "verdes": 66,
    "rojos": 22,
    "nulos": 0,

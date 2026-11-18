@@ -1,12 +1,12 @@
 # Levante – Elche
 **LaLiga** · Regular Season - 13 · 23/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 08:28_
+_Actualizadas: 18/11 14:22_
 
-- **1X2:** 1 **2.15**  ·  X **3.60**  ·  2 **3.10**
+- **1X2:** 1 **2.15**  ·  X **3.60**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.67**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**

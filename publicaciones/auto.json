@@ -7199,6 +7199,38 @@
     ]
   },
   {
+    "id": "2026-11-18-loca-th-1300-x100",
+    "fecha": "2026-11-18T13:00",
+    "texto": "🔥 COMBI POR 19,46 🔥\n\n⚽ Häcken (fem.)–Manchester City (fem.) 18:45\n⚽ Khadija Shaw marca · 🔥 +1,5 goles en la 2ª parte del Häcken (fem.)–Manchester City (fem.)\n⚽ Real Madrid (fem.)–Inter Milano (fem.) 18:45\n⚽ Signe Bruun marca\n⚽ Chelsea (fem.)–Paris Saint Germain (fem.) 21:00\n⚽ Agnes Beever-Jones marca · ⚽ Chelsea (fem.) marca en las dos partes\n⚽ Juventus (fem.)–OH Leuven (fem.) 21:00\n🎯 Annamaria Serturini: 3+ tiros\n\n🎯 CUOTA 19,46 aprox. 💎 10€ → 195€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1638306|Anytime Goal Scorer|Khadija Shaw",
+      "1638306|Goals Over/Under - Second Half|Over 1.5",
+      "1638333|Anytime Goal Scorer|Signe Bruun",
+      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+      "1638301|To Score In Both Halves By Teams|Home",
+      "1638312|Home Player Shots|Annamaria Serturini - 3"
+    ],
+    "cuotas": [
+      1.53,
+      1.73,
+      1.62,
+      1.83,
+      1.8,
+      1.62
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 19.46,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T12:38"
+  },
+  {
     "id": "2026-11-18-combi-tres",
     "fecha": "2026-11-18T13:30",
     "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n⚽ Más de 1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Häcken (fem.) marca\n\n📈 Cuota @2,62",
@@ -7214,6 +7246,517 @@
       1.57
     ],
     "cuotas_revisadas": "2026-11-18T12:05"
+  },
+  {
+    "id": "2026-11-18-loca-th-1400-ganaambos",
+    "fecha": "2026-11-18T14:00",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n⚽ Real Madrid (fem.) – Inter Milano (fem.) · 18:45\n🏆 Gana Real Madrid (fem.) y ambos marcan\n\n⚽ Häcken (fem.) – Manchester City (fem.) · 18:45\n🏆 Gana Manchester City (fem.) y ambos marcan\n\n⚽ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🏆 Gana Juventus (fem.) y ambos marcan\n\n⚽ Chelsea (fem.) – Paris Saint Germain (fem.) · 21:00\n🏆 Gana Chelsea (fem.) y ambos marcan\n\n🎯 CUOTA 54,07 💎 · 10€ → 541€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1638306|Results/Both Teams Score|Away/Yes",
+      "1638333|Results/Both Teams Score|Home/Yes",
+      "1638301|Results/Both Teams Score|Home/Yes",
+      "1638312|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.4,
+      2.5,
+      2.75,
+      2.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 54.07,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T12:38"
+  },
+  {
+    "id": "2026-11-18-loca-th-1430-escudos",
+    "fecha": "2026-11-18T14:30",
+    "texto": "🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥\n\n⭐ Real Madrid (fem.) vs Inter Milano (fem.) · 18:45\n\n🎯 Elisa Senss: 2+ tiros\n🎯 Sandie Toletti: 2+ tiros\n🎯 Oihane San Martin: 2+ tiros\n🎯 Signe Bruun: 4+ tiros\n⚽ Lineth Beerensteyn marca\n🔥 +1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Real Madrid (fem.) marca en las dos partes\n\n🎯 CUOTA 5,76 aprox. 💎 10€ → 57,60€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638333|Home Player Shots|Elisa Senss - 2",
+      "1638333|Home Player Shots|Sandie Toletti - 2",
+      "1638333|Home Player Shots|Oihane San Martin - 2",
+      "1638333|Home Player Shots|Signe Bruun - 4",
+      "1638333|Anytime Goal Scorer|Lineth Beerensteyn",
+      "1638333|Goals Over/Under - Second Half|Over 1.5",
+      "1638333|To Score In Both Halves By Teams|Home"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.53,
+      1.67,
+      1.62
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Real Madrid W",
+      "visitante": "Inter Milano W",
+      "id_l": 15224,
+      "id_v": 7533,
+      "logo_l": "https://media.api-sports.io/football/teams/15224.png",
+      "logo_v": "https://media.api-sports.io/football/teams/7533.png",
+      "fecha": "2026-11-18T18:45",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 5.76,
+    "cuota_calculada": true,
+    "cuota_bet365": 5.76,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T13:03"
+  },
+  {
+    "id": "2026-11-18-loca-th-1500-escudos",
+    "fecha": "2026-11-18T15:00",
+    "texto": "🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥\n\n⭐ Häcken (fem.) vs Manchester City (fem.) · 18:45\n\n🎯 Tabitha Tindell: 2+ tiros\n🎯 Laura Blindkilde: 2+ tiros\n🎯 Rebecca Knaak: 2+ tiros\n🎯 Sam Coffey: 2+ tiros\n⚽ Khadija Shaw marca\n⚽ Häcken (fem.) marca\n🔥 +1,5 goles en la 2ª parte del Häcken (fem.)–Manchester City (fem.)\n\n🎯 CUOTA 6,88 aprox. 💎 10€ → 68,80€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638306|Home Player Shots|Tabitha Tindell - 2",
+      "1638306|Away Player Shots|Laura Blindkilde - 2",
+      "1638306|Away Player Shots|Rebecca Knaak - 2",
+      "1638306|Away Player Shots|Sam Coffey - 2",
+      "1638306|Anytime Goal Scorer|Khadija Shaw",
+      "1638306|Total - Home|Over 0.5",
+      "1638306|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.36,
+      1.36,
+      1.36,
+      1.53,
+      1.57,
+      1.73
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Häcken W",
+      "visitante": "Manchester City W",
+      "id_l": 16483,
+      "id_v": 1854,
+      "logo_l": "https://media.api-sports.io/football/teams/16483.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1854.png",
+      "fecha": "2026-11-18T18:45",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 6.88,
+    "cuota_calculada": true,
+    "cuota_bet365": 6.88,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-18T13:32"
+  },
+  {
+    "id": "2026-11-18-loca-th-1530-lista-ambos",
+    "fecha": "2026-11-18T15:30",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. ⚽ Häcken (fem.)–Manchester City (fem.) ➜ Ambos marcan @1,83\n2. ⚽ Real Madrid (fem.)–Inter Milano (fem.) ➜ Ambos marcan @1,83\n3. ⚽ Chelsea (fem.)–Paris Saint Germain (fem.) ➜ Ambos marcan @1,83\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638306|Both Teams Score|Yes",
+      "1638333|Both Teams Score|Yes",
+      "1638301|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.67,
+      1.83,
+      1.83
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T14:00"
+  },
+  {
+    "id": "2026-11-18-loca-th-1545-goleadoras",
+    "fecha": "2026-11-18T15:45",
+    "texto": "⚽ LAS GOLEADORAS ⚽\n\n⚽ Khadija Shaw marca · Häcken–City · 18:45\n⚽ Signe Bruun marca · Real Madrid–Inter · 18:45\n⚽ Beever-Jones marca · Chelsea–PSG · 21:00\n⚽ Alba Redondo marca · Juventus–Leuven · 21:00\n\nChampions femenina, cuatro que no perdonan 🔥\n\n🎯 CUOTA 7,54 💎 10€ → 75€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1638306|Anytime Goal Scorer|Khadija Shaw",
+      "1638333|Anytime Goal Scorer|Signe Bruun",
+      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+      "1638312|Anytime Goal Scorer|Alba Redondo"
+    ],
+    "cuotas": [
+      1.53,
+      1.62,
+      1.83,
+      1.62
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 7.54,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-18T14:15"
+  },
+  {
+    "id": "2026-11-18-loca-th-1600-duelo",
+    "fecha": "2026-11-18T16:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Häcken (fem.) vs Manchester City (fem.) · 18:45\n\n🎯 Tabitha Tindell: 2+ tiros (Häcken (fem.))\n🎯 Laura Blindkilde: 2+ tiros (Manchester City (fem.))\n\n🎯 CUOTA 2,13 aprox. 💎 · 10€ → 21,30€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638306|Home Player Shots|Tabitha Tindell - 2",
+      "1638306|Away Player Shots|Laura Blindkilde - 2"
+    ],
+    "cuotas": [
+      1.44,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.13,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-1630-escudos",
+    "fecha": "2026-11-18T16:30",
+    "texto": "🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥\n\n⭐ Chelsea (fem.) vs Paris Saint Germain (fem.) · 21:00\n\n🎯 Mayra Ramirez: 4+ tiros\n🎯 Katie McCabe: 2+ tiros\n🎯 Lexi Potter: 2+ tiros\n🎯 Melvine Malard: 4+ tiros\n⚽ Chelsea (fem.) marca en las dos partes\n⚽ Agnes Beever-Jones marca\n🔥 +1,5 goles en la 2ª parte del Chelsea (fem.)–Paris Saint Germain (fem.)\n\n🎯 CUOTA 8,32 aprox. 💎 10€ → 83,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638301|Home Player Shots|Mayra Ramirez - 4",
+      "1638301|Home Player Shots|Katie McCabe - 2",
+      "1638301|Home Player Shots|Lexi Potter - 2",
+      "1638301|Home Player Shots|Melvine Malard - 4",
+      "1638301|To Score In Both Halves By Teams|Home",
+      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+      "1638301|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.44,
+      1.44,
+      1.44,
+      1.83,
+      1.83,
+      1.8
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Chelsea W",
+      "visitante": "Paris Saint Germain W",
+      "id_l": 1853,
+      "id_v": 1667,
+      "logo_l": "https://media.api-sports.io/football/teams/1853.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1667.png",
+      "fecha": "2026-11-18T21:00",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 8.32,
+    "cuota_calculada": true,
+    "cuota_bet365": 8.32,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-1700-escudos",
+    "fecha": "2026-11-18T17:00",
+    "texto": "🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Emma Godo: 2+ tiros\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n⚽ Alba Redondo marca\n🔥 +1,5 goles en la 2ª parte del Juventus (fem.)–OH Leuven (fem.)\n⚽ Juventus (fem.) marca en las dos partes\n\n🎯 CUOTA 6,30 aprox. 💎 10€ → 63,00€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1638312|Home Player Shots|Emma Godo - 2",
+      "1638312|Home Player Shots|Eva Schatzer - 2",
+      "1638312|Home Player Shots|Kysha Sylla - 2",
+      "1638312|Home Player Shots|Alba Redondo - 4",
+      "1638312|Anytime Goal Scorer|Alba Redondo",
+      "1638312|Goals Over/Under - Second Half|Over 1.5",
+      "1638312|To Score In Both Halves By Teams|Home"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.57,
+      1.73,
+      1.83
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Juventus W",
+      "visitante": "OH Leuven W",
+      "id_l": 1886,
+      "id_v": 1790,
+      "logo_l": "https://media.api-sports.io/football/teams/1886.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1790.png",
+      "fecha": "2026-11-18T21:00",
+      "liga": "UEFA Champions League Women"
+    },
+    "cuota_total": 6.3,
+    "cuota_calculada": true,
+    "cuota_bet365": 6.3,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-18-loca-th-1730-x50",
+    "fecha": "2026-11-18T17:30",
+    "texto": "💸 LA DE x10,82 💸\n\n⚽ Häcken (fem.)–Manchester City (fem.) 18:45\n⚽ Khadija Shaw marca · 🔥 +1,5 goles en la 2ª parte del Häcken (fem.)–Manchester City (fem.)\n⚽ Chelsea (fem.)–Paris Saint Germain (fem.) 21:00\n🔥 +1,5 goles en la 2ª parte del Chelsea (fem.)–Paris Saint Germain (fem.)\n⚽ Juventus (fem.)–OH Leuven (fem.) 21:00\n⚽ Alba Redondo marca · 🔥 +1,5 goles en la 2ª parte del Juventus (fem.)–OH Leuven (fem.)\n\n🎯 CUOTA 10,82 aprox. 💎 10€ → 108€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1638306|Anytime Goal Scorer|Khadija Shaw",
+      "1638306|Goals Over/Under - Second Half|Over 1.5",
+      "1638301|Goals Over/Under - Second Half|Over 1.5",
+      "1638312|Anytime Goal Scorer|Alba Redondo",
+      "1638312|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.73,
+      1.8,
+      1.57,
+      1.73
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.82,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-combi-favoritas",
+    "fecha": "2026-11-18T17:30",
+    "solo_en": [
+      "telegram"
+    ],
+    "fijo": true,
+    "directo": true,
+    "origen": "analista",
+    "sel": [
+      "1638333|Match Winner|Home",
+      "1638306|Match Winner|Away",
+      "1638301|Match Winner|Home",
+      "1638312|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.22,
+      1.27,
+      1.27,
+      1.33
+    ],
+    "texto": "Combi de las favoritas de la Champions femenina 🔥\n\n🏆 Gana el Real Madrid (fem.) · vs Inter · 18:45\n🏆 Gana el Manchester City (fem.) · en Häcken · 18:45\n🏆 Gana el Chelsea (fem.) · vs PSG · 21:00\n🏆 Gana la Juventus (fem.) · vs Leuven · 21:00\n\n📈 Cuota @2,62\n\n🧠 Por qué:\n👨‍💻 Los partidos del Real Madrid llevan 4,4 goles de media en los últimos 8.\n👨‍💻 Las cuatro son muy favoritas en bet365 (todas por debajo de 1,35) y juegan contra rivales de otro nivel.\n👨‍💻 Real Madrid, Chelsea y Juve juegan en casa; el City, ante el rival más flojo de los cuatro.",
+    "nota": "18/11 Marcos: «me gusta la combi de las 4 favoritas»"
+  },
+  {
+    "id": "2026-11-18-loca-th-1745-sustos-copa",
+    "fecha": "2026-11-18T17:45",
+    "texto": "😱 LOS SUSTOS DE COPA 😱\n\nLa Copa es la Copa… y hoy van tres pequeños a por el batacazo:\n\n🛡️ Utebo o empate vs Sabadell · 19:00\n🛡️ Alcoyano o empate vs Mallorca · 20:00\n🛡️ Badajoz o empate vs Tenerife · 20:00\n\n🎯 CUOTA 13,09 💎 10€ → 131€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1644384|Double Chance|Home/Draw",
+      "1644334|Double Chance|Home/Draw",
+      "1644346|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      2.62,
+      2.38,
+      2.1
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 13.09,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-18-loca-th-1800-x500",
+    "fecha": "2026-11-18T18:00",
+    "texto": "💎 COMBI x42,93 💎\n\n⚽ Häcken (fem.)–Manchester City (fem.) 18:45\n⚽ Manchester City (fem.) marca en las dos partes · ⚽ Beth Mead marca\n⚽ Real Madrid (fem.)–Inter Milano (fem.) 18:45\n🚩 Real Madrid (fem.) más de 6,5 córners · ⚽ Ambos marcan\n⚽ Chelsea (fem.)–Paris Saint Germain (fem.) 21:00\n⚽ Agnes Beever-Jones marca\n⚽ Juventus (fem.)–OH Leuven (fem.) 21:00\n⚽ Ambos marcan\n\n🎯 CUOTA 42,93 aprox. 💎 10€ → 429€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1638306|To Score In Both Halves By Teams|Away",
+      "1638306|Anytime Goal Scorer|Beth Mead",
+      "1638333|Home Corners Over/Under|Over 6.5",
+      "1638333|Both Teams Score|Yes",
+      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
+      "1638312|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.83,
+      2.25,
+      1.83,
+      1.83,
+      1.83,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 42.93,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-1830-lista-corners",
+    "fecha": "2026-11-18T18:30",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. ⚽ Häcken (fem.)–Manchester City (fem.) ➜ +9,5 córners @1,67\n2. ⚽ Real Madrid (fem.)–Inter Milano (fem.) ➜ Inter Milano (fem.) más de 2,5 córners @1,67\n3. ⚽ Juventus (fem.)–OH Leuven (fem.) ➜ +9 córners @1,78\n4. ⚽ Chelsea (fem.)–Paris Saint Germain (fem.) ➜ Chelsea (fem.) más de 6,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1638306|Corners Over Under|Over 9.5",
+      "1638333|Away Corners Over/Under|Over 2.5",
+      "1638301|Home Corners Over/Under|Over 6.5",
+      "1638312|Corners Over Under|Over 9"
+    ],
+    "cuotas": [
+      1.67,
+      1.67,
+      1.73,
+      1.78
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-1900-tiros",
+    "fecha": "2026-11-18T19:00",
+    "texto": "🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯\n\n⭐ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🎯 Emma Godo: 2+ tiros\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n🎯 Anouk Van Praet: 2+ tiros\n\n🎯 CUOTA 5,12 aprox. 💎 · 10€ → 51,20€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1638312|Home Player Shots|Emma Godo - 2",
+      "1638312|Home Player Shots|Eva Schatzer - 2",
+      "1638312|Home Player Shots|Kysha Sylla - 2",
+      "1638312|Home Player Shots|Alba Redondo - 4",
+      "1638312|Away Player Shots|Anouk Van Praet - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 5.12,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-18-loca-th-1930-duelo",
+    "fecha": "2026-11-18T19:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Emma Godo: 2+ tiros (Juventus (fem.))\n🎯 Anouk Van Praet: 2+ tiros (OH Leuven (fem.))\n\n🎯 CUOTA 2,16 aprox. 💎 · 10€ → 21,60€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638312|Home Player Shots|Emma Godo - 2",
+      "1638312|Away Player Shots|Anouk Van Praet - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.16,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-2000-tiros",
+    "fecha": "2026-11-18T20:00",
+    "texto": "🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯\n\n⭐ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n🎯 Anouk Van Praet: 2+ tiros\n🎯 Ioanna Papatheodorou: 2+ tiros\n\n🎯 CUOTA 6,23 aprox. 💎 · 10€ → 62,30€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1638312|Home Player Shots|Eva Schatzer - 2",
+      "1638312|Home Player Shots|Kysha Sylla - 2",
+      "1638312|Home Player Shots|Alba Redondo - 4",
+      "1638312|Away Player Shots|Anouk Van Praet - 2",
+      "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.5,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 6.23,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-18-loca-th-2030-duelo",
+    "fecha": "2026-11-18T20:30",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Annamaria Serturini: 3+ tiros (Juventus (fem.))\n🎯 Ioanna Papatheodorou: 2+ tiros (OH Leuven (fem.))\n\n🎯 CUOTA 2,49 aprox. 💎 · 10€ → 24,90€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1638312|Home Player Shots|Annamaria Serturini - 3",
+      "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
+    ],
+    "cuotas": [
+      1.62,
+      1.5
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.49,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
   },
   {
     "id": "2026-11-19-ganadores-champions-fem",
@@ -7469,7 +8012,7 @@
   {
     "id": "2026-11-20-combi-multi",
     "fecha": "2026-11-20T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x14,62! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Botosani hace más córners\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n🇪🇸 Gana el Athletic Club\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 6 PARTIDOS x10,08! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Botosani hace más córners\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7479,8 +8022,7 @@
       "1551377|Total - Away|Over 0.5",
       "1565306|Double Chance|Home/Draw",
       "1575221|Player Fouls Committed|Dayot Upamecano - 1",
-      "1570025|Corners 1x2|Home",
-      "1570454|Match Winner|Home"
+      "1570025|Corners 1x2|Home"
     ],
     "cuotas": [
       1.57,
@@ -7488,28 +8030,27 @@
       1.4,
       1.53,
       1.4,
-      1.4,
-      1.45
+      1.4
     ],
     "solo_redes": true
   },
   {
     "id": "2026-11-20-estrella-1575221",
     "fecha": "2026-11-20T19:55",
-    "texto": "Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (20:30) 🔥\n\n🍀 Marius Bulter comete 1+ faltas\n🍀 Sebastian Sebulonsen: 1+ tiros\n🍀 Dayot Upamecano: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @7,40 aprox.",
+    "texto": "Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (20:30) 🔥\n\n🍀 Marius Bulter comete 1+ faltas\n🍀 Joshua Kimmich: 1+ tiros\n🍀 Sebastian Sebulonsen: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @5,89 aprox.",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575221|Player Fouls Committed|Marius Bulter - 1",
+      "1575221|Home Player Shots|Joshua Kimmich - 1",
       "1575221|Away Player Shots|Sebastian Sebulonsen - 1",
-      "1575221|Home Player Shots|Dayot Upamecano - 1",
       "1575221|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.57,
+      1.33,
       2.0,
-      1.67,
       1.36
     ],
     "espera_alineacion": true,
@@ -7523,25 +8064,25 @@
       "fecha": "2026-11-20T20:30",
       "liga": "Bundesliga"
     },
-    "cuota_total": 7.4,
+    "cuota_total": 5.89,
     "cuota_calculada": true
   },
   {
     "id": "2026-11-20-estrella-1570454",
     "fecha": "2026-11-20T20:25",
-    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Espanyol marca\n\n📈 Cuota @3,68 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Gana el Athletic Club\n\n📈 Cuota @2,86 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570454|Player Fouls Committed|Nico Williams - 1",
       "1570454|Home Player Shots|Alex Berenguer - 2",
-      "1570454|Total - Away|Over 0.5"
+      "1570454|Match Winner|Home"
     ],
     "cuotas": [
       1.53,
       1.33,
-      1.73
+      1.45
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -7555,24 +8096,24 @@
       "liga": "LaLiga"
     },
     "solo_redes": true,
-    "cuota_total": 3.68,
+    "cuota_total": 2.86,
     "cuota_calculada": true
   },
   {
     "id": "2026-11-21-picks-manana",
     "fecha": "2026-11-20T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n🇪🇸 Ruben Alcaraz (Granada CF): 1+ tiros\n🇮🇹 Gana el Lazio\n🇮🇹 Giana Erminio o empate\n\n⚽ ¡Cógelos sueltos o combínalos! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n🇪🇸 Ruben Alcaraz (Granada CF): 1+ tiros\n🇩🇪 Alexander Prass (Hoffenheim): 1+ tiros\n🇮🇹 Giana Erminio o empate\n\n⚽ ¡Cógelos sueltos o combínalos! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570034|Away Player Shots|Ruben Alcaraz - 1",
-      "1550202|Match Winner|Home",
+      "1575223|Away Player Shots|Alexander Prass - 1",
       "1608376|Double Chance|Home/Draw"
     ],
     "cuotas": [
       1.57,
-      1.33,
+      1.3,
       1.44
     ],
     "solo_redes": true
@@ -7595,7 +8136,7 @@
     "cuotas": [
       2.15,
       1.91,
-      2.2,
+      2.3,
       1.17
     ],
     "ganadores_img": {
@@ -7641,7 +8182,7 @@
   {
     "id": "2026-11-21-ganadores-premier",
     "fecha": "2026-11-21T01:00",
-    "texto": "🏆 PREMIER LEAGUE - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Coventry - Win\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham - Win\n7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win\n\n🍀 ¿NOS LA JUGAMOS? 👀💚",
+    "texto": "🏆 PREMIER LEAGUE - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa - Win\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham - Win\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win\n\n🍀 ¿NOS LA JUGAMOS? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7652,18 +8193,16 @@
       "1557467|Match Winner|Home",
       "1557468|Match Winner|Home",
       "1557470|Match Winner|Home",
-      "1557471|Match Winner|Home",
       "1557476|Match Winner|Home",
       "1557475|Match Winner|Away"
     ],
     "cuotas": [
-      1.4,
-      1.75,
-      1.95,
+      1.38,
+      1.8,
+      1.91,
       1.85,
-      2.35,
       1.5,
-      1.53
+      1.55
     ],
     "ganadores_img": {
       "titulo": "PREMIER LEAGUE",
@@ -7704,14 +8243,6 @@
         {
           "pais": "England",
           "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/1346.png",
-          "nombre": "Coventry",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "escudo_url": "https://media.api-sports.io/football/teams/47.png",
           "nombre": "Tottenham",
           "pick": "WIN",
@@ -7745,10 +8276,10 @@
       "1550204|Match Winner|Home"
     ],
     "cuotas": [
-      1.25,
-      1.33,
       1.27,
-      1.45
+      1.36,
+      1.28,
+      1.48
     ],
     "ganadores_img": {
       "titulo": "SERIE A",
@@ -7808,11 +8339,11 @@
       "1552823|Match Winner|Home"
     ],
     "cuotas": [
-      1.27,
-      1.65,
+      1.25,
+      1.62,
       1.55,
-      1.42,
-      1.18,
+      1.45,
+      1.2,
       1.4
     ],
     "ganadores_img": {
@@ -7888,35 +8419,35 @@
   {
     "id": "2026-11-21-combi-500",
     "fecha": "2026-11-21T12:00",
-    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ambos marcan en Southampton–Derby\n🇪🇸 Ambos marcan en Alaves–Deportivo La Coruna\n🇮🇹 Gana el Lazio\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg\n🇩🇪 Borussia Mönchengladbach hace más de 3,5 córners\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🇷🇴 CFR 1907 Cluj gana alguna de las dos partes\n🇮🇹 Giana Erminio o empate\n🇫🇷 Lille gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n\n📈 Cuota @614,93\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Millwall ve más de 1,5 tarjetas\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa ve más de 1,5 tarjetas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sheffield Utd ve más de 1,5 tarjetas\n🇷🇴 CFR 1907 Cluj gana alguna de las dos partes\n🇮🇹 Giana Erminio o empate\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle hace más de 3,5 córners\n🇫🇷 Lille gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n\n📈 Cuota @595,38\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563270|Both Teams Score|Yes",
-      "1570453|Both Teams Score|Yes",
-      "1550202|Match Winner|Home",
+      "1563267|Home Team Total Cards|Over 1.5",
       "1575223|To Win Either Half|Home",
       "1575229|Goals Over/Under - Second Half|Over 1.5",
-      "1575226|Home Corners Over/Under|Over 3.5",
       "1557468|Match Winner|Home",
+      "1557467|Home Team Total Cards|Over 1.5",
       "1557476|Goals Over/Under - Second Half|Over 1.5",
+      "1563269|Home Team Total Cards|Over 1.5",
       "1565303|To Win Either Half|Home",
       "1608376|Double Chance|Home/Draw",
+      "1557475|Home Corners Over/Under|Over 3.5",
       "1552820|To Win Either Half|Home",
       "1552826|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.73,
-      1.95,
-      1.33,
+      1.5,
       1.62,
       1.73,
-      1.83,
-      1.95,
+      1.91,
+      2.0,
       1.8,
+      1.62,
       1.67,
       1.44,
+      1.67,
       1.73,
       1.83
     ],
@@ -7937,9 +8468,42 @@
     ]
   },
   {
+    "id": "2026-11-21-estrella-1557474",
+    "fecha": "2026-11-21T12:55",
+    "texto": "Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (13:30) 🔥\n\n🍀 Calvin Bassey comete 1+ faltas\n🍀 Elliot Anderson comete 1+ faltas\n🍀 Oscar Bobb: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,55 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557474|Player Fouls Committed|Calvin Bassey - 1",
+      "1557474|Player Fouls Committed|Elliot Anderson - 1",
+      "1557474|Away Player Shots|Oscar Bobb - 1",
+      "1557474|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.33,
+      1.4,
+      1.73
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Manchester City",
+      "visitante": "Fulham",
+      "id_l": 50,
+      "id_v": 36,
+      "logo_l": "https://media.api-sports.io/football/teams/50.png",
+      "logo_v": "https://media.api-sports.io/football/teams/36.png",
+      "fecha": "2026-11-21T13:30",
+      "liga": "Premier"
+    },
+    "cuota_total": 4.55,
+    "cuota_calculada": true
+  },
+  {
     "id": "2026-11-21-combi-tres",
     "fecha": "2026-11-21T13:30",
-    "texto": "Vamos con la combi del sábado familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Aston Villa\n🇮🇹 Parma marca\n\n📈 Cuota @3,15\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del sábado familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Aston Villa\n🇮🇹 Parma marca\n\n📈 Cuota @3,24\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7948,46 +8512,15 @@
       "1550205|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.75,
+      1.8,
       1.8
     ],
     "solo_redes": true
   },
   {
-    "id": "2026-11-21-estrella-1575226",
-    "fecha": "2026-11-21T14:55",
-    "texto": "Hoy hay partidazo: Borussia Mönchengladbach 🆚 Borussia Dortmund 🇩🇪⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (15:30) 🔥\n\n🍀 Felix Nmecha: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Gana el Borussia Dortmund\n\n📈 Cuota @4,00 aprox.",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1575226|Away Player Shots|Felix Nmecha - 2",
-      "1575226|Goals Over/Under - Second Half|Over 1.5",
-      "1575226|Match Winner|Away"
-    ],
-    "cuotas": [
-      1.53,
-      1.67,
-      1.65
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Borussia Mönchengladbach",
-      "visitante": "Borussia Dortmund",
-      "id_l": 163,
-      "id_v": 165,
-      "logo_l": "https://media.api-sports.io/football/teams/163.png",
-      "logo_v": "https://media.api-sports.io/football/teams/165.png",
-      "fecha": "2026-11-21T15:30",
-      "liga": "Bundesliga"
-    },
-    "cuota_total": 4.0,
-    "cuota_calculada": true
-  },
-  {
     "id": "2026-11-21-pick-seguro-4",
     "fecha": "2026-11-21T16:30",
-    "texto": "Este lo tenemos claro 🔥\n🧠 Esta va con cabeza: analizada\n\n🇳🇱 Feyenoord – Excelsior · 18:45\n\n🍀 Feyenoord marca en las dos partes @1,57\n\n👨‍💻 El Feyenoord va 2º y el Excelsior 15º en la liga.\n👨‍💻 Los partidos del Feyenoord llevan 3,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Excelsior llevan 3,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Este lo tenemos claro 🔥\n🧠 Esta va con cabeza: analizada\n\n🇳🇱 Feyenoord – Excelsior · 18:45\n\n🍀 Feyenoord marca en las dos partes @1,62\n\n👨‍💻 El Feyenoord va 2º y el Excelsior 15º en la liga.\n👨‍💻 Los partidos del Feyenoord llevan 3,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Excelsior llevan 3,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -7995,41 +8528,41 @@
       "1552226|To Score In Both Halves By Teams|Home"
     ],
     "cuotas": [
-      1.57
+      1.62
     ]
   },
   {
-    "id": "2026-11-21-estrella-1550205",
-    "fecha": "2026-11-21T17:25",
-    "texto": "Hoy hay partidazo: Parma 🆚 AS Roma 🇮🇹⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (18:00) 🔥\n\n🍀 Enrico Del Prato: 1+ tiros\n🍀 Bryan Cristante: 2+ tiros\n🍀 Parma marca\n🍀 Parma hace más de 2,5 córners\n\n📈 Cuota @6,81 aprox.",
+    "id": "2026-11-21-estrella-1557475",
+    "fecha": "2026-11-21T17:55",
+    "texto": "Hoy hay partidazo: Newcastle 🆚 Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (18:30) 🔥\n\n🍀 Harvey Barnes: 2+ tiros\n🍀 Bruno Guimaraes: 2+ tiros\n🍀 Newcastle marca\n🍀 Arsenal hace más tiros\n\n📈 Cuota @5,12 aprox.",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1550205|Home Player Shots|Enrico Del Prato - 1",
-      "1550205|Away Player Shots|Bryan Cristante - 2",
-      "1550205|Total - Home|Over 0.5",
-      "1550205|Home Corners Over/Under|Over 2.5"
+      "1557475|Home Player Shots|Harvey Barnes - 2",
+      "1557475|Away Player Shots|Bruno Guimaraes - 2",
+      "1557475|Total - Home|Over 0.5",
+      "1557475|Shots.1x2|Away"
     ],
     "cuotas": [
-      1.91,
-      1.36,
-      1.8,
-      1.67
+      1.4,
+      1.83,
+      1.53,
+      1.44
     ],
     "espera_alineacion": true,
     "tarjeta": {
-      "local": "Parma",
-      "visitante": "AS Roma",
-      "id_l": 523,
-      "id_v": 497,
-      "logo_l": "https://media.api-sports.io/football/teams/523.png",
-      "logo_v": "https://media.api-sports.io/football/teams/497.png",
-      "fecha": "2026-11-21T18:00",
-      "liga": "Serie A"
+      "local": "Newcastle",
+      "visitante": "Arsenal",
+      "id_l": 34,
+      "id_v": 42,
+      "logo_l": "https://media.api-sports.io/football/teams/34.png",
+      "logo_v": "https://media.api-sports.io/football/teams/42.png",
+      "fecha": "2026-11-21T18:30",
+      "liga": "Premier"
     },
     "solo_redes": true,
-    "cuota_total": 6.81,
+    "cuota_total": 5.12,
     "cuota_calculada": true
   },
   {
@@ -8088,7 +8621,7 @@
       1.18,
       2.1,
       1.75,
-      1.62
+      1.6
     ],
     "ganadores_img": {
       "titulo": "LALIGA",
@@ -8439,10 +8972,10 @@
       "1570457|Match Winner|Home"
     ],
     "cuotas": [
-      1.83,
-      1.9,
+      1.85,
+      1.91,
       1.6,
-      2.0,
+      2.1,
       2.15
     ],
     "ganadores_img": {
@@ -8496,31 +9029,66 @@
   {
     "id": "2026-11-23-pick-seguro",
     "fecha": "2026-11-23T10:30",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇮🇹 Lecco – Lumezzane · 20:45\n\n🍀 Lecco marca 2 o más @1,73\n\n👨‍💻 Los partidos del Lecco llevan 3,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Lumezzane llevan 2,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇪🇸 AD Ceuta FC – Almeria · 20:30\n\n🍀 AD Ceuta FC marca @1,36\n🧠 Stake 3/10\n\n👨‍💻 El Almeria va 1º y el AD Ceuta FC 22º en la liga.\n👨‍💻 Los partidos del AD Ceuta FC llevan 2,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Almeria llevan 2,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1608377|Total - Home|Over 1.5"
+      "1570029|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.73
+      1.36
     ]
   },
   {
     "id": "2026-11-23-combi-tres",
     "fecha": "2026-11-23T13:30",
-    "texto": "Vamos con la combi del lunes familia 🔥\n📈 De las que hemos estudiado bien\n\n🇮🇹 Lecco marca 2 o más\n🇮🇹 Más de 1,5 goles en la 2ª parte del Monza–Fiorentina\n\n📈 Cuota @3,11",
+    "texto": "Vamos con la combi del lunes familia 🔥\n📈 De las que hemos estudiado bien\n\n🇮🇹 Lecco marca 2 o más\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford ve más de 1,5 tarjetas\n\n📈 Cuota @3,11",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1608377|Total - Home|Over 1.5",
-      "1550203|Goals Over/Under - Second Half|Over 1.5"
+      "1557469|Home Team Total Cards|Over 1.5"
     ],
     "cuotas": [
       1.73,
       1.8
+    ]
+  },
+  {
+    "id": "2026-11-23-combi-loca",
+    "fecha": "2026-11-23T16:00",
+    "texto": "Y para los valientes, la loca del lunes 🤪🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🇪🇸 AD Ceuta FC marca\n🇮🇹 Lecco gana alguna de las dos partes\n🇮🇹 Más de 1,5 goles en la 2ª parte del Monza–Fiorentina\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford ve más de 1,5 tarjetas\n\n📈 Cuota @5,99",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570029|Total - Home|Over 0.5",
+      "1608377|To Win Either Half|Home",
+      "1550203|Goals Over/Under - Second Half|Over 1.5",
+      "1557469|Home Team Total Cards|Over 1.5"
+    ],
+    "cuotas": [
+      1.36,
+      1.36,
+      1.8,
+      1.8
+    ],
+    "solo_redes": true
+  },
+  {
+    "id": "2026-11-23-pick-seguro-2",
+    "fecha": "2026-11-23T18:00",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n\n🇮🇹 Lecco – Lumezzane · 20:45\n\n🍀 Lecco gana alguna de las dos partes @1,36\n\n👨‍💻 El Lecco no ha perdido en casa en sus últimos 6 partidos (2V 4E).\n👨‍💻 El Lecco ha ganado 3 de sus últimos 5 partidos.\n👨‍💻 El Lumezzane solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1608377|To Win Either Half|Home"
+    ],
+    "cuotas": [
+      1.36
     ]
   },
   {
@@ -8541,9 +9109,9 @@
       "1635703|Match Winner|Home"
     ],
     "cuotas": [
-      1.18,
+      1.17,
       1.25,
-      1.28,
+      1.25,
       1.33,
       1.07,
       1.1,
@@ -8716,548 +9284,5 @@
     "cuotas": [
       1.42
     ]
-  },
-  {
-    "id": "2026-11-18-loca-th-1300-x100",
-    "fecha": "2026-11-18T13:00",
-    "texto": "🔥 COMBI POR 19,46 🔥\n\n⚽ Häcken (fem.)–Manchester City (fem.) 18:45\n⚽ Khadija Shaw marca · 🔥 +1,5 goles en la 2ª parte del Häcken (fem.)–Manchester City (fem.)\n⚽ Real Madrid (fem.)–Inter Milano (fem.) 18:45\n⚽ Signe Bruun marca\n⚽ Chelsea (fem.)–Paris Saint Germain (fem.) 21:00\n⚽ Agnes Beever-Jones marca · ⚽ Chelsea (fem.) marca en las dos partes\n⚽ Juventus (fem.)–OH Leuven (fem.) 21:00\n🎯 Annamaria Serturini: 3+ tiros\n\n🎯 CUOTA 19,46 aprox. 💎 10€ → 195€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
-    "sel": [
-      "1638306|Anytime Goal Scorer|Khadija Shaw",
-      "1638306|Goals Over/Under - Second Half|Over 1.5",
-      "1638333|Anytime Goal Scorer|Signe Bruun",
-      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
-      "1638301|To Score In Both Halves By Teams|Home",
-      "1638312|Home Player Shots|Annamaria Serturini - 3"
-    ],
-    "cuotas": [
-      1.53,
-      1.73,
-      1.62,
-      1.83,
-      1.8,
-      1.62
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 19.46,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T12:38"
-  },
-  {
-    "id": "2026-11-18-loca-th-1400-ganaambos",
-    "fecha": "2026-11-18T14:00",
-    "texto": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n\n⚽ Real Madrid (fem.) – Inter Milano (fem.) · 18:45\n🏆 Gana Real Madrid (fem.) y ambos marcan\n\n⚽ Häcken (fem.) – Manchester City (fem.) · 18:45\n🏆 Gana Manchester City (fem.) y ambos marcan\n\n⚽ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🏆 Gana Juventus (fem.) y ambos marcan\n\n⚽ Chelsea (fem.) – Paris Saint Germain (fem.) · 21:00\n🏆 Gana Chelsea (fem.) y ambos marcan\n\n🎯 CUOTA 54,07 💎 · 10€ → 541€\n\n🔥 Goles y victoria: así nos gusta 🔥",
-    "sel": [
-      "1638306|Results/Both Teams Score|Away/Yes",
-      "1638333|Results/Both Teams Score|Home/Yes",
-      "1638301|Results/Both Teams Score|Home/Yes",
-      "1638312|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      2.4,
-      2.5,
-      2.75,
-      2.75
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 54.07,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T12:38"
-  },
-  {
-    "id": "2026-11-18-loca-th-1430-escudos",
-    "fecha": "2026-11-18T14:30",
-    "texto": "🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥\n\n⭐ Real Madrid (fem.) vs Inter Milano (fem.) · 18:45\n\n🎯 Elisa Senss: 2+ tiros\n🎯 Sandie Toletti: 2+ tiros\n🎯 Oihane San Martin: 2+ tiros\n🎯 Signe Bruun: 4+ tiros\n⚽ Lineth Beerensteyn marca\n🔥 +1,5 goles en la 2ª parte del Real Madrid (fem.)–Inter Milano (fem.)\n⚽ Real Madrid (fem.) marca en las dos partes\n\n🎯 CUOTA 5,76 aprox. 💎 10€ → 57,60€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1638333|Home Player Shots|Elisa Senss - 2",
-      "1638333|Home Player Shots|Sandie Toletti - 2",
-      "1638333|Home Player Shots|Oihane San Martin - 2",
-      "1638333|Home Player Shots|Signe Bruun - 4",
-      "1638333|Anytime Goal Scorer|Lineth Beerensteyn",
-      "1638333|Goals Over/Under - Second Half|Over 1.5",
-      "1638333|To Score In Both Halves By Teams|Home"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.4,
-      1.53,
-      1.67,
-      1.62
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Real Madrid W",
-      "visitante": "Inter Milano W",
-      "id_l": 15224,
-      "id_v": 7533,
-      "logo_l": "https://media.api-sports.io/football/teams/15224.png",
-      "logo_v": "https://media.api-sports.io/football/teams/7533.png",
-      "fecha": "2026-11-18T18:45",
-      "liga": "UEFA Champions League Women"
-    },
-    "cuota_total": 5.76,
-    "cuota_calculada": true,
-    "cuota_bet365": 5.76,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T13:03"
-  },
-  {
-    "id": "2026-11-18-loca-th-1500-escudos",
-    "fecha": "2026-11-18T15:00",
-    "texto": "🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥\n\n⭐ Häcken (fem.) vs Manchester City (fem.) · 18:45\n\n🎯 Tabitha Tindell: 2+ tiros\n🎯 Laura Blindkilde: 2+ tiros\n🎯 Rebecca Knaak: 2+ tiros\n🎯 Sam Coffey: 2+ tiros\n⚽ Khadija Shaw marca\n⚽ Häcken (fem.) marca\n🔥 +1,5 goles en la 2ª parte del Häcken (fem.)–Manchester City (fem.)\n\n🎯 CUOTA 6,88 aprox. 💎 10€ → 68,80€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1638306|Home Player Shots|Tabitha Tindell - 2",
-      "1638306|Away Player Shots|Laura Blindkilde - 2",
-      "1638306|Away Player Shots|Rebecca Knaak - 2",
-      "1638306|Away Player Shots|Sam Coffey - 2",
-      "1638306|Anytime Goal Scorer|Khadija Shaw",
-      "1638306|Total - Home|Over 0.5",
-      "1638306|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.36,
-      1.36,
-      1.36,
-      1.36,
-      1.53,
-      1.57,
-      1.73
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Häcken W",
-      "visitante": "Manchester City W",
-      "id_l": 16483,
-      "id_v": 1854,
-      "logo_l": "https://media.api-sports.io/football/teams/16483.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1854.png",
-      "fecha": "2026-11-18T18:45",
-      "liga": "UEFA Champions League Women"
-    },
-    "cuota_total": 6.88,
-    "cuota_calculada": true,
-    "cuota_bet365": 6.88,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-18T13:32"
-  },
-  {
-    "id": "2026-11-18-loca-th-1530-lista-ambos",
-    "fecha": "2026-11-18T15:30",
-    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. ⚽ Häcken (fem.)–Manchester City (fem.) ➜ Ambos marcan @1,83\n2. ⚽ Real Madrid (fem.)–Inter Milano (fem.) ➜ Ambos marcan @1,83\n3. ⚽ Chelsea (fem.)–Paris Saint Germain (fem.) ➜ Ambos marcan @1,83\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1638306|Both Teams Score|Yes",
-      "1638333|Both Teams Score|Yes",
-      "1638301|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.67,
-      1.83,
-      1.8
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-18T14:20"
-  },
-  {
-    "id": "2026-11-18-loca-th-1600-duelo",
-    "fecha": "2026-11-18T16:00",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Häcken (fem.) vs Manchester City (fem.) · 18:45\n\n🎯 Tabitha Tindell: 2+ tiros (Häcken (fem.))\n🎯 Laura Blindkilde: 2+ tiros (Manchester City (fem.))\n\n🎯 CUOTA 2,13 aprox. 💎 · 10€ → 21,30€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1638306|Home Player Shots|Tabitha Tindell - 2",
-      "1638306|Away Player Shots|Laura Blindkilde - 2"
-    ],
-    "cuotas": [
-      1.44,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.13,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-1630-escudos",
-    "fecha": "2026-11-18T16:30",
-    "texto": "🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥\n\n⭐ Chelsea (fem.) vs Paris Saint Germain (fem.) · 21:00\n\n🎯 Mayra Ramirez: 4+ tiros\n🎯 Katie McCabe: 2+ tiros\n🎯 Lexi Potter: 2+ tiros\n🎯 Melvine Malard: 4+ tiros\n⚽ Chelsea (fem.) marca en las dos partes\n⚽ Agnes Beever-Jones marca\n🔥 +1,5 goles en la 2ª parte del Chelsea (fem.)–Paris Saint Germain (fem.)\n\n🎯 CUOTA 8,32 aprox. 💎 10€ → 83,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1638301|Home Player Shots|Mayra Ramirez - 4",
-      "1638301|Home Player Shots|Katie McCabe - 2",
-      "1638301|Home Player Shots|Lexi Potter - 2",
-      "1638301|Home Player Shots|Melvine Malard - 4",
-      "1638301|To Score In Both Halves By Teams|Home",
-      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
-      "1638301|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.44,
-      1.44,
-      1.44,
-      1.83,
-      1.83,
-      1.8
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Chelsea W",
-      "visitante": "Paris Saint Germain W",
-      "id_l": 1853,
-      "id_v": 1667,
-      "logo_l": "https://media.api-sports.io/football/teams/1853.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1667.png",
-      "fecha": "2026-11-18T21:00",
-      "liga": "UEFA Champions League Women"
-    },
-    "cuota_total": 8.32,
-    "cuota_calculada": true,
-    "cuota_bet365": 8.32,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-1700-escudos",
-    "fecha": "2026-11-18T17:00",
-    "texto": "🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Emma Godo: 2+ tiros\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n⚽ Alba Redondo marca\n🔥 +1,5 goles en la 2ª parte del Juventus (fem.)–OH Leuven (fem.)\n⚽ Juventus (fem.) marca en las dos partes\n\n🎯 CUOTA 6,30 aprox. 💎 10€ → 63,00€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1638312|Home Player Shots|Emma Godo - 2",
-      "1638312|Home Player Shots|Eva Schatzer - 2",
-      "1638312|Home Player Shots|Kysha Sylla - 2",
-      "1638312|Home Player Shots|Alba Redondo - 4",
-      "1638312|Anytime Goal Scorer|Alba Redondo",
-      "1638312|Goals Over/Under - Second Half|Over 1.5",
-      "1638312|To Score In Both Halves By Teams|Home"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.4,
-      1.57,
-      1.73,
-      1.83
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Juventus W",
-      "visitante": "OH Leuven W",
-      "id_l": 1886,
-      "id_v": 1790,
-      "logo_l": "https://media.api-sports.io/football/teams/1886.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1790.png",
-      "fecha": "2026-11-18T21:00",
-      "liga": "UEFA Champions League Women"
-    },
-    "cuota_total": 6.3,
-    "cuota_calculada": true,
-    "cuota_bet365": 6.3,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-18-loca-th-1730-x50",
-    "fecha": "2026-11-18T17:30",
-    "texto": "💸 LA DE x10,82 💸\n\n⚽ Häcken (fem.)–Manchester City (fem.) 18:45\n⚽ Khadija Shaw marca · 🔥 +1,5 goles en la 2ª parte del Häcken (fem.)–Manchester City (fem.)\n⚽ Chelsea (fem.)–Paris Saint Germain (fem.) 21:00\n🔥 +1,5 goles en la 2ª parte del Chelsea (fem.)–Paris Saint Germain (fem.)\n⚽ Juventus (fem.)–OH Leuven (fem.) 21:00\n⚽ Alba Redondo marca · 🔥 +1,5 goles en la 2ª parte del Juventus (fem.)–OH Leuven (fem.)\n\n🎯 CUOTA 10,82 aprox. 💎 10€ → 108€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
-    "sel": [
-      "1638306|Anytime Goal Scorer|Khadija Shaw",
-      "1638306|Goals Over/Under - Second Half|Over 1.5",
-      "1638301|Goals Over/Under - Second Half|Over 1.5",
-      "1638312|Anytime Goal Scorer|Alba Redondo",
-      "1638312|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.62,
-      1.73,
-      1.8,
-      1.57,
-      1.73
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 10.82,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-1800-x500",
-    "fecha": "2026-11-18T18:00",
-    "texto": "💎 COMBI x42,93 💎\n\n⚽ Häcken (fem.)–Manchester City (fem.) 18:45\n⚽ Manchester City (fem.) marca en las dos partes · ⚽ Beth Mead marca\n⚽ Real Madrid (fem.)–Inter Milano (fem.) 18:45\n🚩 Real Madrid (fem.) más de 6,5 córners · ⚽ Ambos marcan\n⚽ Chelsea (fem.)–Paris Saint Germain (fem.) 21:00\n⚽ Agnes Beever-Jones marca\n⚽ Juventus (fem.)–OH Leuven (fem.) 21:00\n⚽ Ambos marcan\n\n🎯 CUOTA 42,93 aprox. 💎 10€ → 429€\n👇 ¿Cuál quitaríais? 👇",
-    "sel": [
-      "1638306|To Score In Both Halves By Teams|Away",
-      "1638306|Anytime Goal Scorer|Beth Mead",
-      "1638333|Home Corners Over/Under|Over 6.5",
-      "1638333|Both Teams Score|Yes",
-      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
-      "1638312|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.83,
-      2.25,
-      1.83,
-      1.83,
-      1.83,
-      1.91
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 42.93,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-1830-lista-corners",
-    "fecha": "2026-11-18T18:30",
-    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. ⚽ Häcken (fem.)–Manchester City (fem.) ➜ +9,5 córners @1,67\n2. ⚽ Real Madrid (fem.)–Inter Milano (fem.) ➜ Inter Milano (fem.) más de 2,5 córners @1,67\n3. ⚽ Juventus (fem.)–OH Leuven (fem.) ➜ +9 córners @1,78\n4. ⚽ Chelsea (fem.)–Paris Saint Germain (fem.) ➜ Chelsea (fem.) más de 6,5 córners @1,73\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1638306|Corners Over Under|Over 9.5",
-      "1638333|Away Corners Over/Under|Over 2.5",
-      "1638301|Home Corners Over/Under|Over 6.5",
-      "1638312|Corners Over Under|Over 9"
-    ],
-    "cuotas": [
-      1.67,
-      1.67,
-      1.73,
-      1.78
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-1900-tiros",
-    "fecha": "2026-11-18T19:00",
-    "texto": "🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯\n\n⭐ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🎯 Emma Godo: 2+ tiros\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n🎯 Anouk Van Praet: 2+ tiros\n\n🎯 CUOTA 5,12 aprox. 💎 · 10€ → 51,20€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1638312|Home Player Shots|Emma Godo - 2",
-      "1638312|Home Player Shots|Eva Schatzer - 2",
-      "1638312|Home Player Shots|Kysha Sylla - 2",
-      "1638312|Home Player Shots|Alba Redondo - 4",
-      "1638312|Away Player Shots|Anouk Van Praet - 2"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.4,
-      1.5
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 5.12,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-18-loca-th-1930-duelo",
-    "fecha": "2026-11-18T19:30",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Emma Godo: 2+ tiros (Juventus (fem.))\n🎯 Anouk Van Praet: 2+ tiros (OH Leuven (fem.))\n\n🎯 CUOTA 2,16 aprox. 💎 · 10€ → 21,60€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1638312|Home Player Shots|Emma Godo - 2",
-      "1638312|Away Player Shots|Anouk Van Praet - 2"
-    ],
-    "cuotas": [
-      1.4,
-      1.5
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.16,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-2000-tiros",
-    "fecha": "2026-11-18T20:00",
-    "texto": "🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯\n\n⭐ Juventus (fem.) – OH Leuven (fem.) · 21:00\n🎯 Eva Schatzer: 2+ tiros\n🎯 Kysha Sylla: 2+ tiros\n🎯 Alba Redondo: 4+ tiros\n🎯 Anouk Van Praet: 2+ tiros\n🎯 Ioanna Papatheodorou: 2+ tiros\n\n🎯 CUOTA 6,23 aprox. 💎 · 10€ → 62,30€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1638312|Home Player Shots|Eva Schatzer - 2",
-      "1638312|Home Player Shots|Kysha Sylla - 2",
-      "1638312|Home Player Shots|Alba Redondo - 4",
-      "1638312|Away Player Shots|Anouk Van Praet - 2",
-      "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.5,
-      1.5
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 6.23,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-loca-th-2030-duelo",
-    "fecha": "2026-11-18T20:30",
-    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Juventus (fem.) vs OH Leuven (fem.) · 21:00\n\n🎯 Annamaria Serturini: 3+ tiros (Juventus (fem.))\n🎯 Ioanna Papatheodorou: 2+ tiros (OH Leuven (fem.))\n\n🎯 CUOTA 2,49 aprox. 💎 · 10€ → 24,90€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1638312|Home Player Shots|Annamaria Serturini - 3",
-      "1638312|Away Player Shots|Ioanna Papatheodorou - 2"
-    ],
-    "cuotas": [
-      1.62,
-      1.5
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.49,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-18-combi-favoritas",
-    "fecha": "2026-11-18T17:30",
-    "solo_en": [
-      "telegram"
-    ],
-    "fijo": true,
-    "directo": true,
-    "origen": "analista",
-    "sel": [
-      "1638333|Match Winner|Home",
-      "1638306|Match Winner|Away",
-      "1638301|Match Winner|Home",
-      "1638312|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.22,
-      1.27,
-      1.27,
-      1.33
-    ],
-    "texto": "Combi de las favoritas de la Champions femenina 🔥\n\n🏆 Gana el Real Madrid (fem.) · vs Inter · 18:45\n🏆 Gana el Manchester City (fem.) · en Häcken · 18:45\n🏆 Gana el Chelsea (fem.) · vs PSG · 21:00\n🏆 Gana la Juventus (fem.) · vs Leuven · 21:00\n\n📈 Cuota @2,62\n\n🧠 Por qué:\n👨‍💻 Los partidos del Real Madrid llevan 4,4 goles de media en los últimos 8.\n👨‍💻 Las cuatro son muy favoritas en bet365 (todas por debajo de 1,35) y juegan contra rivales de otro nivel.\n👨‍💻 Real Madrid, Chelsea y Juve juegan en casa; el City, ante el rival más flojo de los cuatro.",
-    "nota": "18/11 Marcos: «me gusta la combi de las 4 favoritas»"
-  },
-  {
-    "id": "2026-11-18-loca-th-1545-goleadoras",
-    "fecha": "2026-11-18T15:45",
-    "texto": "⚽ LAS GOLEADORAS ⚽\n\n⚽ Khadija Shaw marca · Häcken–City · 18:45\n⚽ Signe Bruun marca · Real Madrid–Inter · 18:45\n⚽ Beever-Jones marca · Chelsea–PSG · 21:00\n⚽ Alba Redondo marca · Juventus–Leuven · 21:00\n\nChampions femenina, cuatro que no perdonan 🔥\n\n🎯 CUOTA 7,54 💎 10€ → 75€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
-    "sel": [
-      "1638306|Anytime Goal Scorer|Khadija Shaw",
-      "1638333|Anytime Goal Scorer|Signe Bruun",
-      "1638301|Anytime Goal Scorer|Agnes Beever-Jones",
-      "1638312|Anytime Goal Scorer|Alba Redondo"
-    ],
-    "cuotas": [
-      1.53,
-      1.62,
-      1.83,
-      1.62
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 7.54,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-18T14:15"
-  },
-  {
-    "id": "2026-11-18-loca-th-1745-sustos-copa",
-    "fecha": "2026-11-18T17:45",
-    "texto": "😱 LOS SUSTOS DE COPA 😱\n\nLa Copa es la Copa… y hoy van tres pequeños a por el batacazo:\n\n🛡️ Utebo o empate vs Sabadell · 19:00\n🛡️ Alcoyano o empate vs Mallorca · 20:00\n🛡️ Badajoz o empate vs Tenerife · 20:00\n\n🎯 CUOTA 13,09 💎 10€ → 131€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1644384|Double Chance|Home/Draw",
-      "1644334|Double Chance|Home/Draw",
-      "1644346|Double Chance|Home/Draw"
-    ],
-    "cuotas": [
-      2.62,
-      2.38,
-      2.1
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 13.09,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true
   }
 ]

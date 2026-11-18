@@ -27,7 +27,7 @@
     {
      "sel": "1557474|Both Teams Score|Yes",
      "texto": "Ambos marcan en Manchester City–Fulham",
-     "cuota": 1.7,
+     "cuota": 1.67,
      "prob": 0.45
     }
    ]
@@ -47,7 +47,7 @@
      "sel": "1570453|Total - Away|Over 0.5",
      "texto": "Deportivo La Coruna marca",
      "cuota": 1.44,
-     "prob": 0.5
+     "prob": 0.49
     }
    ]
   },
@@ -68,8 +68,8 @@
     {
      "sel": "1550202|Match Winner|Home",
      "texto": "Gana el Lazio",
-     "cuota": 1.33,
-     "prob": 0.78
+     "cuota": 1.36,
+     "prob": 0.74
     },
     {
      "sel": "1550202|Total - Home|Over 1.5",
@@ -90,10 +90,10 @@
      "prob": 0.45
     },
     {
-     "sel": "1550202|Total Corners (1st Half)|Over 4",
-     "texto": "Más de 4 córners en la 1ª parte en Lazio–Lecce",
-     "cuota": 1.72,
-     "prob": 0.43
+     "sel": "1550202|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Lazio–Lecce",
+     "cuota": 1.8,
+     "prob": 0.42
     }
    ]
   },
@@ -117,7 +117,7 @@
     {
      "sel": "1550200|Away Corners Over/Under|Over 2.5",
      "texto": "Cagliari hace más de 2,5 córners",
-     "cuota": 1.67,
+     "cuota": 1.62,
      "prob": 0.29
     }
    ]
@@ -137,8 +137,8 @@
     {
      "sel": "1575222|Total - Away|Over 0.5",
      "texto": "SC Paderborn 07 marca",
-     "cuota": 1.57,
-     "prob": 0.47
+     "cuota": 1.5,
+     "prob": 0.46
     },
     {
      "sel": "1575222|Total Corners (1st Half)|Over 4.5",
@@ -177,6 +177,12 @@
      "texto": "Ambos marcan en SV Elversberg–SC Freiburg",
      "cuota": 1.5,
      "prob": 0.47
+    },
+    {
+     "sel": "1575229|Shots.1x2|Away",
+     "texto": "SC Freiburg hace más tiros",
+     "cuota": 1.5,
+     "prob": 0.45
     },
     {
      "sel": "1575229|Total - Away|Over 1.5",
@@ -220,7 +226,7 @@
     {
      "sel": "1575226|Match Winner|Away",
      "texto": "Gana el Borussia Dortmund",
-     "cuota": 1.65,
+     "cuota": 1.62,
      "prob": 0.52
     },
     {
@@ -255,7 +261,7 @@
      "sel": "1575225|Total - Home|Over 0.5",
      "texto": "Union Berlin marca",
      "cuota": 1.36,
-     "prob": 0.71
+     "prob": 0.7
     },
     {
      "sel": "1575225|Goals Over/Under - Second Half|Over 1.5",
@@ -302,6 +308,12 @@
      "prob": 0.57
     },
     {
+     "sel": "1575223|Away Player Shots|Wouter Burger - 1",
+     "texto": "Wouter Burger: 1+ tiros",
+     "cuota": 1.4,
+     "prob": 0.53
+    },
+    {
      "sel": "1575223|Double Chance|Home/Draw",
      "texto": "Eintracht Frankfurt o empate",
      "cuota": 1.5,
@@ -312,12 +324,24 @@
      "texto": "1899 Hoffenheim marca 2 o más",
      "cuota": 1.8,
      "prob": 0.37
-    },
+    }
+   ]
+  },
+  {
+   "partido_id": 1557468,
+   "fecha": "2026-11-21T16:00",
+   "local": "Bournemouth",
+   "visitante": "Nottingham Forest",
+   "liga": "Premier",
+   "datos": [
+    "El Bournemouth va 7º y el Nottingham Forest 17º en la liga."
+   ],
+   "picks": [
     {
-     "sel": "1575223|Away Corners Over/Under|Over 4.5",
-     "texto": "1899 Hoffenheim hace más de 4,5 córners",
-     "cuota": 1.8,
-     "prob": 0.28
+     "sel": "1557468|Home Team Total Cards|Over 1.5",
+     "texto": "Bournemouth ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "prob": 0.69
     }
    ]
   },
@@ -336,7 +360,7 @@
     {
      "sel": "1557467|Match Winner|Home",
      "texto": "Gana el Aston Villa",
-     "cuota": 1.75,
+     "cuota": 1.8,
      "prob": 0.67
     },
     {
@@ -349,7 +373,7 @@
      "sel": "1557467|Total - Away|Over 0.5",
      "texto": "Sunderland marca",
      "cuota": 1.44,
-     "prob": 0.49
+     "prob": 0.5
     },
     {
      "sel": "1557467|Both Teams Score|Yes",
@@ -371,6 +395,12 @@
    ],
    "picks": [
     {
+     "sel": "1557471|Player Fouls Committed|Tatsuhiro Sakamoto - 1",
+     "texto": "Tatsuhiro Sakamoto comete 1+ faltas",
+     "cuota": 1.4,
+     "prob": 0.57
+    },
+    {
      "sel": "1557471|Both Teams Score|Yes",
      "texto": "Ambos marcan en Coventry–Crystal Palace",
      "cuota": 1.57,
@@ -379,7 +409,7 @@
     {
      "sel": "1557471|Double Chance|Draw/Away",
      "texto": "Crystal Palace o empate",
-     "cuota": 1.57,
+     "cuota": 1.53,
      "prob": 0.38
     }
    ]
@@ -396,6 +426,12 @@
    ],
    "picks": [
     {
+     "sel": "1557476|Home Team Total Cards|Over 1.5",
+     "texto": "Tottenham ve más de 1,5 tarjetas",
+     "cuota": 1.57,
+     "prob": 0.69
+    },
+    {
      "sel": "1557476|Total - Home|Over 1.5",
      "texto": "Tottenham marca 2 o más",
      "cuota": 1.5,
@@ -408,16 +444,16 @@
      "prob": 0.57
     },
     {
+     "sel": "1557476|Player Fouls Committed|Omar Marmoush - 1",
+     "texto": "Omar Marmoush comete 1+ faltas",
+     "cuota": 1.4,
+     "prob": 0.57
+    },
+    {
      "sel": "1557476|Total - Away|Over 0.5",
      "texto": "Ipswich marca",
      "cuota": 1.5,
      "prob": 0.51
-    },
-    {
-     "sel": "1557476|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Tottenham–Ipswich",
-     "cuota": 1.67,
-     "prob": 0.45
     }
    ]
   },
@@ -428,15 +464,34 @@
    "visitante": "Leeds",
    "liga": "Premier",
    "datos": [
+    "El Leeds solo ha ganado 1 de sus últimos 5.",
     "Los partidos del Chelsea llevan 2,8 goles de media (últimos 8).",
     "Los partidos del Leeds llevan 2,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
+     "sel": "1557470|Home Team Total Cards|Over 1.5",
+     "texto": "Chelsea ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "prob": 0.7
+    },
+    {
+     "sel": "1557470|ShotOnTarget 1x2|Home",
+     "texto": "Chelsea hace más tiros a puerta",
+     "cuota": 1.57,
+     "prob": 0.57
+    },
+    {
      "sel": "1557470|Total - Away|Over 0.5",
      "texto": "Leeds marca",
      "cuota": 1.4,
      "prob": 0.53
+    },
+    {
+     "sel": "1557470|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Chelsea–Leeds",
+     "cuota": 1.73,
+     "prob": 0.47
     },
     {
      "sel": "1557470|Both Teams Score|Yes",
@@ -505,7 +560,7 @@
     {
      "sel": "1552229|Total - Away|Over 1.5",
      "texto": "PSV Eindhoven marca 2 o más",
-     "cuota": 1.4,
+     "cuota": 1.36,
      "prob": 0.36
     }
    ]
@@ -594,8 +649,20 @@
     {
      "sel": "1550205|Home Corners Over/Under|Over 2.5",
      "texto": "Parma hace más de 2,5 córners",
-     "cuota": 1.67,
+     "cuota": 1.62,
      "prob": 0.5
+    },
+    {
+     "sel": "1550205|Corners Over Under|Over 8.5",
+     "texto": "Más de 8,5 córners en Parma–AS Roma",
+     "cuota": 1.73,
+     "prob": 0.44
+    },
+    {
+     "sel": "1550205|Total Corners (1st Half)|Over 4",
+     "texto": "Más de 4 córners en la 1ª parte en Parma–AS Roma",
+     "cuota": 1.78,
+     "prob": 0.42
     }
    ]
   },
@@ -620,16 +687,28 @@
      "prob": 0.67
     },
     {
+     "sel": "1557475|Home Team Total Cards|Over 2.5",
+     "texto": "Newcastle ve más de 2,5 tarjetas",
+     "cuota": 1.8,
+     "prob": 0.6
+    },
+    {
+     "sel": "1557475|Home Corners Over/Under|Over 3.5",
+     "texto": "Newcastle hace más de 3,5 córners",
+     "cuota": 1.67,
+     "prob": 0.57
+    },
+    {
      "sel": "1557475|Match Winner|Away",
      "texto": "Gana el Arsenal",
-     "cuota": 1.53,
+     "cuota": 1.55,
      "prob": 0.52
     },
     {
-     "sel": "1557475|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Newcastle–Arsenal",
-     "cuota": 1.8,
-     "prob": 0.44
+     "sel": "1557475|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en Newcastle–Arsenal",
+     "cuota": 1.73,
+     "prob": 0.46
     }
    ]
   },
@@ -673,13 +752,19 @@
     {
      "sel": "1575228|Match Winner|Away",
      "texto": "Gana el VfB Stuttgart",
-     "cuota": 1.75,
+     "cuota": 1.8,
      "prob": 0.5
+    },
+    {
+     "sel": "1575228|Corners Over Under|Over 9.5",
+     "texto": "Más de 9,5 córners en FC Schalke 04–VfB Stuttgart",
+     "cuota": 1.67,
+     "prob": 0.45
     },
     {
      "sel": "1575228|Corners 1x2|Away",
      "texto": "VfB Stuttgart hace más córners",
-     "cuota": 1.73,
+     "cuota": 1.57,
      "prob": 0.37
     }
    ]
@@ -699,7 +784,7 @@
     {
      "sel": "1552226|To Score In Both Halves By Teams|Home",
      "texto": "Feyenoord marca en las dos partes",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.62
     },
     {
@@ -712,7 +797,7 @@
      "sel": "1552226|Total - Away|Over 0.5",
      "texto": "Excelsior marca",
      "cuota": 1.67,
-     "prob": 0.48
+     "prob": 0.49
     }
    ]
   },
@@ -751,13 +836,13 @@
     {
      "sel": "1552823|Total - Away|Over 0.5",
      "texto": "Auxerre marca",
-     "cuota": 1.53,
-     "prob": 0.49
+     "cuota": 1.57,
+     "prob": 0.48
     },
     {
      "sel": "1552823|Both Teams Score|Yes",
      "texto": "Ambos marcan en Monaco–Auxerre",
-     "cuota": 1.7,
+     "cuota": 1.75,
      "prob": 0.45
     }
    ]
@@ -769,15 +854,27 @@
    "visitante": "Lyon",
    "liga": "Ligue 1",
    "datos": [
+    "El Lyon solo ha ganado 1 de sus últimos 5.",
     "Los partidos del Lille llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Lyon llevan 2,8 goles de media (últimos 8).",
-    "El Lyon solo ha ganado 1 de sus últimos 5."
+    "Los partidos del Lyon llevan 2,8 goles de media (últimos 8)."
    ],
    "picks": [
     {
+     "sel": "1552820|Shots.1x2|Home",
+     "texto": "Lille hace más tiros",
+     "cuota": 1.53,
+     "prob": 0.59
+    },
+    {
+     "sel": "1552820|ShotOnTarget 1x2|Home",
+     "texto": "Lille hace más tiros a puerta",
+     "cuota": 1.73,
+     "prob": 0.57
+    },
+    {
      "sel": "1552820|Home Player Shots|Soriba Diaoune - 2",
      "texto": "Soriba Diaoune: 2+ tiros",
-     "cuota": 1.36,
+     "cuota": 1.44,
      "prob": 0.54
     },
     {
@@ -791,18 +888,6 @@
      "texto": "Lille o empate",
      "cuota": 1.36,
      "prob": 0.51
-    },
-    {
-     "sel": "1552820|Corners 1x2|Home",
-     "texto": "Lille hace más córners",
-     "cuota": 1.73,
-     "prob": 0.5
-    },
-    {
-     "sel": "1552820|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Lille–Lyon",
-     "cuota": 1.8,
-     "prob": 0.45
     }
    ]
   },
@@ -832,7 +917,7 @@
     {
      "sel": "1550204|Away Corners Over/Under|Over 2.5",
      "texto": "Torino hace más de 2,5 córners",
-     "cuota": 1.62,
+     "cuota": 1.57,
      "prob": 0.3
     }
    ]
@@ -857,7 +942,7 @@
     {
      "sel": "1552826|Corners 1x2|Home",
      "texto": "Strasbourg hace más córners",
-     "cuota": 1.57,
+     "cuota": 1.62,
      "prob": 0.49
     },
     {
@@ -888,8 +973,20 @@
     {
      "sel": "1552819|Total - Home|Over 1.5",
      "texto": "Lens marca 2 o más",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "prob": 0.6
+    },
+    {
+     "sel": "1552819|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Lens–Toulouse",
+     "cuota": 1.8,
+     "prob": 0.55
+    },
+    {
+     "sel": "1552819|Away Player Shots|Casper Tengstedt - 3",
+     "texto": "Casper Tengstedt: 3+ tiros",
+     "cuota": 1.67,
+     "prob": 0.53
     },
     {
      "sel": "1552819|Total - Away|Over 0.5",
@@ -902,12 +999,6 @@
      "texto": "Lens hace más córners",
      "cuota": 1.53,
      "prob": 0.5
-    },
-    {
-     "sel": "1552819|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Lens–Toulouse",
-     "cuota": 1.62,
-     "prob": 0.46
     }
    ]
   },
@@ -928,12 +1019,6 @@
      "texto": "Más de 1,5 goles en la 2ª parte del Real Madrid–Celta Vigo",
      "cuota": 1.57,
      "prob": 0.52
-    },
-    {
-     "sel": "1570461|Total - Away|Over 0.5",
-     "texto": "Celta Vigo marca",
-     "cuota": 1.8,
-     "prob": 0.46
     }
    ]
   }
@@ -1480,6 +1565,12 @@
      "prob": 0.54
     },
     {
+     "sel": "1550198|Home Corners Over/Under|Over 3.5",
+     "texto": "Atalanta hace más de 3,5 córners",
+     "cuota": 1.8,
+     "prob": 0.52
+    },
+    {
      "sel": "1550198|Match Winner|Away",
      "texto": "Gana el Inter",
      "cuota": 1.62,
@@ -1489,19 +1580,13 @@
      "sel": "1550198|Both Teams Score|Yes",
      "texto": "Ambos marcan en Atalanta–Inter",
      "cuota": 1.44,
-     "prob": 0.48
+     "prob": 0.47
     },
     {
      "sel": "1550198|Corners Over Under|Over 8.5",
      "texto": "Más de 8,5 córners en Atalanta–Inter",
      "cuota": 1.73,
      "prob": 0.45
-    },
-    {
-     "sel": "1550198|Total - Away|Over 1.5",
-     "texto": "Inter marca 2 o más",
-     "cuota": 1.44,
-     "prob": 0.39
     }
    ]
   },
@@ -1572,7 +1657,7 @@
     {
      "sel": "1570456|Match Winner|Away",
      "texto": "Gana el Atletico Madrid",
-     "cuota": 1.62,
+     "cuota": 1.6,
      "prob": 0.46
     },
     {
@@ -1604,6 +1689,12 @@
    ],
    "picks": [
     {
+     "sel": "1570029|Total - Home|Over 0.5",
+     "texto": "AD Ceuta FC marca",
+     "cuota": 1.36,
+     "prob": 0.69
+    },
+    {
      "sel": "1570029|Both Teams Score|Yes",
      "texto": "Ambos marcan en AD Ceuta FC–Almeria",
      "cuota": 1.57,
@@ -1612,7 +1703,7 @@
     {
      "sel": "1570029|Total - Away|Over 1.5",
      "texto": "Almeria marca 2 o más",
-     "cuota": 1.73,
+     "cuota": 1.67,
      "prob": 0.4
     }
    ]
@@ -1672,7 +1763,7 @@
      "sel": "1550203|Both Teams Score|Yes",
      "texto": "Ambos marcan en Monza–Fiorentina",
      "cuota": 1.53,
-     "prob": 0.46
+     "prob": 0.47
     },
     {
      "sel": "1550203|Total - Away|Over 1.5",
@@ -1694,10 +1785,16 @@
    ],
    "picks": [
     {
+     "sel": "1557469|Home Team Total Cards|Over 1.5",
+     "texto": "Brentford ve más de 1,5 tarjetas",
+     "cuota": 1.8,
+     "prob": 0.67
+    },
+    {
      "sel": "1557469|Both Teams Score|Yes",
      "texto": "Ambos marcan en Brentford–Everton",
      "cuota": 1.62,
-     "prob": 0.43
+     "prob": 0.44
     }
    ]
   },
@@ -1728,7 +1825,7 @@
      "sel": "1570457|Both Teams Score|Yes",
      "texto": "Ambos marcan en Levante–Elche",
      "cuota": 1.57,
-     "prob": 0.43
+     "prob": 0.44
     }
    ]
   }

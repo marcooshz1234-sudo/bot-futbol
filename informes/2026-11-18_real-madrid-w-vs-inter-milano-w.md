@@ -1,7 +1,7 @@
 # Real Madrid W – Inter Milano W
 **Champions Femenina** · League Stage - 5 · 18/11/2026 18:45 (hora España) · Ciudad Real Madrid
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 08:24_

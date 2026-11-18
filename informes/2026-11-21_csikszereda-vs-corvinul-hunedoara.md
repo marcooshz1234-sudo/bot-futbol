@@ -1,10 +1,10 @@
 # Csikszereda – Corvinul Hunedoara
 **Liga I** · Regular Season - 16 · 21/11/2026 14:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:08_
+_Actualizadas: 18/11 14:20_
 
 - **1X2:** 1 **3.80**  ·  X **3.40**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.22**
@@ -28,6 +28,10 @@ _Actualizadas: 17/11 20:08_
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
+- **Córners más/menos:**
+    - 9: más **1.88** · menos **1.92**
+    - 9,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **3.50**  ·  X **8.50**  ·  2 **1.40**
 - **1X2 descanso:** 1 **4.33**  ·  X **2.20**  ·  2 **2.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -41,6 +45,11 @@ _Actualizadas: 17/11 20:08_
 - **Win Both Halves:** 1 **15.00**  ·  2 **6.00**
 - **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **4.00**  ·  Home/No **7.00**  ·  Draw/No **10.00**  ·  Away/No **3.25**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
+- **Home Corners Over/Under:**
+    - 3,5: más **2.10** · menos **1.67**
+- **Away Corners Over/Under:**
+    - 5,5: más **1.83** · menos **1.83**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 
 ## Estadísticas de equipo
 | | Csikszereda (total) | Csikszereda en casa | Corvinul Hunedoara (total) | Corvinul Hunedoara fuera |

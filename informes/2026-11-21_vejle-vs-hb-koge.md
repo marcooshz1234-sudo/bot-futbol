@@ -1,20 +1,20 @@
 # Vejle – HB Koge
 **1. Division** · Regular Season - 15 · 21/11/2026 13:30 (hora España) · Vejle Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
-_Actualizadas: 17/11 20:08_
+_Actualizadas: 18/11 14:20_
 
 - **1X2:** 1 **1.44**  ·  X **4.50**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.20** · menos **1.62**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **8.00** · menos **1.08**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -24,12 +24,12 @@ _Actualizadas: 17/11 20:08_
     - 0,5: más **1.08** · menos **8.00**
     - 1,5: más **1.44** · menos **2.62**
     - 2,5: más **2.25** · menos **1.57**
-    - 3,5: más **4.50** · menos **1.18**
+    - 3,5: más **4.33** · menos **1.20**
     - 4,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.40** · menos **1.30**
-    - 2,5: más **10.00** · menos **1.06**
+    - 1,5: más **3.50** · menos **1.28**
+    - 2,5: más **11.00** · menos **1.05**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.62**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
@@ -43,7 +43,7 @@ _Actualizadas: 17/11 20:08_
 - **Win Both Halves:** 1 **3.40**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **17.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.20**
-- **Anytime Goal Scorer:** Mustafa Salah **3.75**  ·  Lukas Achton **11.00**  ·  Emil Villumsen **11.00**  ·  Magnus Warming **7.00**  ·  Marcel Romer **7.50**  ·  Mikkel Duelund **2.00**  ·  Christian Sorensen **4.00**  ·  Lundrim Hetemi **5.00**  ·  Thomas Gundelund **7.00**  ·  Tobias Thomsen **3.00**  ·  Gunnar Vatnhamar **7.50**  ·  Bismark Edjeodji **3.40**  ·  Erkan Semovski **4.33**  ·  Vinicius Pederson **11.00**  ·  Durmus Efe Bayrak **13.00**  ·  Laurits Bust **17.00**  ·  Gustav Marcussen **2.88**  ·  Lucas From **2.40**  ·  Christian Tue Jensen **5.50**  ·  Gabriel Culhaci **7.00**  ·  Gabriel Larsen **7.50**  ·  Mads Rasmussen **6.50**  ·  Mattias Jakobsen **13.00**  ·  Mike Jensen **6.50**  ·  Niklas Jakobsen **7.00**  ·  Silas Hald **17.00**  ·  Viktor Sorensen **7.50**  ·  Fisnik Isaki **5.50**  ·  Mike Vestergaard **4.00**  ·  Rasmus Brodersen **13.00**  ·  Giorgi Tabatadze **5.50**  ·  Max Jensen **3.40**  ·  Wahidullah Faghir **2.30**  ·  Adam Choukri **4.00**  ·  Mathias Fris **11.00**  ·  Rasmus Lund **11.00**  ·  Johan Karlsson **6.50**  ·  Lasse Nielsen **7.00**  ·  Eman Subasic **3.40**  ·  Nicolas Gammelgaard **3.40**  ·  Ransford Amoo **2.30**  ·  Hjalte Gitz **7.00**  ·  Oliver Engberg **11.00**  ·  Ibrahim Figuigui **7.00**  ·  Noah Stolshoj **3.75**  ·  Tobias Bach **2.60**  ·  Sebastian Rosenwanger **11.00**  ·  Marcus Brolund **2.88**  ·  Jakob Sorensen **6.50**  ·  William Palm **6.50**  ·  Mathias Jensen **4.00**  ·  Valdemar Lund **7.50**  ·  Andrew Hjulsager **3.40**  ·  Jelle Duin **2.30**  ·  Sander Ravn **4.00**  ·  Abdoulaye Camara **3.40**  ·  Mads Westergren **17.00**
+- **Anytime Goal Scorer:** Mustafa Salah **3.75**  ·  Lukas Achton **11.00**  ·  Emil Villumsen **11.00**  ·  Magnus Warming **7.00**  ·  Marcel Romer **7.50**  ·  Mikkel Duelund **2.00**  ·  Christian Sorensen **4.00**  ·  Lundrim Hetemi **5.00**  ·  Thomas Gundelund **7.00**  ·  Tobias Thomsen **3.00**  ·  Gunnar Vatnhamar **7.50**  ·  Bismark Edjeodji **3.40**  ·  Erkan Semovski **4.33**  ·  Vinicius Pederson **11.00**  ·  Durmus Efe Bayrak **13.00**  ·  Laurits Bust **17.00**  ·  Gustav Marcussen **2.88**  ·  Lucas From **2.40**  ·  Christian Tue Jensen **5.50**  ·  Gabriel Culhaci **7.00**  ·  Gabriel Larsen **7.50**  ·  Mads Rasmussen **6.50**  ·  Mattias Jakobsen **13.00**  ·  Mike Jensen **6.50**  ·  Niklas Jakobsen **7.00**  ·  Silas Hald **17.00**  ·  Viktor Sorensen **7.50**  ·  Fisnik Isaki **5.50**  ·  Mike Vestergaard **4.00**  ·  Rasmus Brodersen **13.00**  ·  Giorgi Tabatadze **5.50**  ·  Max Jensen **3.40**  ·  Wahidullah Faghir **2.25**  ·  Adam Choukri **4.00**  ·  Mathias Fris **11.00**  ·  Rasmus Lund **11.00**  ·  Johan Karlsson **6.50**  ·  Lasse Nielsen **7.00**  ·  Eman Subasic **3.40**  ·  Nicolas Gammelgaard **3.40**  ·  Ransford Amoo **2.25**  ·  Hjalte Gitz **7.00**  ·  Oliver Engberg **11.00**  ·  Ibrahim Figuigui **7.00**  ·  Noah Stolshoj **3.75**  ·  Tobias Bach **2.60**  ·  Sebastian Rosenwanger **11.00**  ·  Marcus Brolund **2.88**  ·  Jakob Sorensen **6.50**  ·  William Palm **6.50**  ·  Mathias Jensen **4.00**  ·  Valdemar Lund **7.50**  ·  Andrew Hjulsager **3.40**  ·  Jelle Duin **2.25**  ·  Sander Ravn **4.00**  ·  Abdoulaye Camara **3.40**  ·  Mads Westergren **17.00**
 
 ## Estadísticas de equipo
 | | Vejle (total) | Vejle en casa | HB Koge (total) | HB Koge fuera |

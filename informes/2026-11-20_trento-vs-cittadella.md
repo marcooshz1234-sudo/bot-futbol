@@ -1,7 +1,7 @@
 # Trento – Cittadella
 **Serie C** · Girone A - 15 · 20/11/2026 20:30 (hora España) · Stadio Briamasco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Actualizadas: 18/11 08:25_

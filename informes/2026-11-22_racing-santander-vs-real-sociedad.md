@@ -1,7 +1,7 @@
 # Racing Santander – Real Sociedad
 **LaLiga** · Regular Season - 13 · 22/11/2026 16:15 (hora España) · Estadio El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 08:26._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 14:22._
 
 ## Cuotas Bet365
 _Actualizadas: 17/11 20:09_
