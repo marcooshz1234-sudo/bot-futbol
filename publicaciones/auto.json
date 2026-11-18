@@ -7755,7 +7755,7 @@
     ],
     "cuotas": [
       1.62,
-      1.5
+      1.57
     ],
     "solo_en": [
       "threads"
@@ -7766,7 +7766,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-18T19:04"
   },
   {
     "id": "2026-11-19-ganadores-champions-fem",
