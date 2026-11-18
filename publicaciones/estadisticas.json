@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 18:27",
+ "actualizado": "2026-11-18 18:38",
  "redes": {
   "instagram": {
    "seguidores": 49,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 478,
-   "hoy": 7,
+   "seguidores": 479,
+   "hoy": 8,
    "serie": [
     391,
     401,
@@ -50,17 +50,17 @@
     411,
     439,
     471,
-    478
+    479
    ]
   }
  },
- "total": 3733,
- "total_hoy": 53,
+ "total": 3734,
+ "total_hoy": 54,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:30",
+  "hora": "19:00",
   "dia": "2026-11-18",
-  "titulo": "Córners del día"
+  "titulo": "Combi de tiros · juventus (fem.) vs oh"
  },
  "ayer": {
   "aciertos": 3,
@@ -230,7 +230,7 @@
    "instagram": 49,
    "threads": 3205,
    "facebook": 1,
-   "telegram": 478
+   "telegram": 479
   }
  },
  "tipos_instagram": {
