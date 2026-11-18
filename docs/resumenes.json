@@ -2582,14 +2582,14 @@
   },
   "2026-11-18": {
     "dia": "2026-11-18",
-    "total": 13,
+    "total": 14,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 13,
+      "pendiente": 14,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 13
+      "sin_resolver": 14
     },
     "combis": [
       {
@@ -2669,13 +2669,19 @@
         "titulo": "🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥",
         "estado": "pendiente",
         "cuota": 8.32
+      },
+      {
+        "id": "2026-11-18-loca-th-1700-escudos",
+        "titulo": "🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥",
+        "estado": "pendiente",
+        "cuota": 6.3
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 36
+      "total": 42
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ 🔥 COMBI POR 19,46 🔥 · 19,46 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · pendiente\n⏳ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚽ LAS GOLEADORAS ⚽ · 7,54 · pendiente\n⏳ 🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥 · 8,32 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 13 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n⏳ 🔥 COMBI POR 19,46 🔥 · 19,46 · pendiente\n⏳ Vamos con la combi del miércoles familia 🔥 · pendiente\n⏳ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · pendiente\n⏳ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚽ LAS GOLEADORAS ⚽ · 7,54 · pendiente\n⏳ 🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥 · 8,32 · pendiente\n⏳ 🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥 · 6,30 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 14 sin resolver"
   }
 }
