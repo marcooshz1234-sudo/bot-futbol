@@ -8341,11 +8341,11 @@
       "1638338|To Win Either Half|Away"
     ],
     "cuotas": [
-      2.2,
-      1.91,
-      1.91,
-      2.05,
+      2.1,
       1.83,
+      1.91,
+      1.91,
+      1.8,
       1.83,
       1.83
     ],
@@ -8358,7 +8358,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-19T12:34"
   },
   {
     "id": "2026-11-19-loca-th-1430-escudos",
