@@ -3590,5 +3590,43 @@
    "Si el favorito marca pronto, el partido puede abrirse y sumar goles"
   ],
   "argumento_propio": true
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/87421",
+  "dia": "2026-11-19",
+  "hora": "23:30",
+  "local": "Vasco da Gama",
+  "visitante": "Internacional",
+  "texto": "Gana Vasco da Gama",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.61,
+  "stake": 3,
+  "argumento": [
+   "Vasco juega en São Januário, donde se hace fuerte",
+   "Internacional viaja con menos ritmo fuera de casa",
+   "La cuota de 1.61 deja margen para un local favorito"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100739",
+  "dia": "2026-11-19",
+  "hora": "21:00",
+  "local": "Barcelona W",
+  "visitante": "Servette W",
+  "texto": "Más de 5.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 5.5",
+  "cuota": 1.53,
+  "stake": 3,
+  "argumento": [
+   "El Barça femenino suele golear en casa a rivales de este nivel",
+   "Servette llega muy por debajo en calidad y profundidad",
+   "En la Champions femenina estos cruces desiguales acaban con marcadores abultados"
+  ],
+  "argumento_propio": true
  }
 ]

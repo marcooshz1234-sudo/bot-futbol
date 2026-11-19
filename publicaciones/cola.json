@@ -8994,5 +8994,20 @@
       "edad_h": 0.0,
       "texto": "Más de 3,5 goles en la 2ª parte del Barcelona W–Servette Chênois W"
     }
+  },
+  {
+    "id": "2026-11-19-pick-tip-3",
+    "fecha": "2026-11-19T18:42",
+    "texto": "Otro pick que nos gusta mucho familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Más de 5.5 goles @1,53\n\n⚽ Barcelona (fem.) – Servette (fem.) · hoy 21:00\n\n👨‍💻 El Barça femenino suele golear en casa a rivales de este nivel\n👨‍💻 Servette llega muy por debajo en calidad y profundidad\n👨‍💻 En la Champions femenina estos cruces desiguales acaban con marcadores abultados\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]
