@@ -28,7 +28,15 @@ if __name__ == "__main__":
 
 class BoletoConFoto(unittest.TestCase):
     def test_boleto_lleva_su_captura_en_threads(self):   # 14/11: la combinada personal salió sin foto y no se entendía
+        # 19/11: con una carpeta de prueba (la limpieza de media borró la captura real del 14/11 y el test fallaba)
+        import tempfile
+        from pathlib import Path
+        from unittest import mock
         import redes
-        u = redes.foto_threads({"id": "2026-11-14-boleto-personal", "foto": "publicaciones/media/2026-11-14-boleto-personal.tarjeta.jpg"})
+        with tempfile.TemporaryDirectory() as d:
+            (Path(d) / "publicaciones" / "media").mkdir(parents=True)
+            (Path(d) / "publicaciones" / "media" / "2026-11-14-boleto-personal.tarjeta.jpg").write_bytes(b"jpg")
+            with mock.patch.object(redes, "RAIZ", Path(d)):
+                u = redes.foto_threads({"id": "2026-11-14-boleto-personal", "foto": "publicaciones/media/2026-11-14-boleto-personal.tarjeta.jpg"})
         self.assertIn("2026-11-14-boleto-personal.tarjeta.jpg", u or "")
         self.assertIsNone(redes.foto_threads({"id": "2026-11-14-pick-tip-1", "texto": "\n".join(["🍀 x"] * 5)}))
