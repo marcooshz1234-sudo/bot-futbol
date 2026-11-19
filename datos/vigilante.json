@@ -74,20 +74,16 @@
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche de Champions femenina 🔥 (20:30)"
   },
   {
-   "clave": "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2",
-   "t": "📉 Arsenal (fem.)–Lyon (fem.) Frida Maanum - 2: la cuota ha pasado de 1.73 a 1.44 (-17%) desde que se hizo «🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨» (17:00). Suele haber una noticia detrás"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Match Winner|Home",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2100-x100, loca-th-noche-2300-x50)"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 4 posts (combi-ambos, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638338|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 4 posts (combi-ambos, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
@@ -126,24 +122,24 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Home/Draw",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-escudos, loca-th-0500-hora, pick-seguro-2)"
   },
   {
-   "clave": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-2000-tiros)"
-  },
-  {
    "clave": "repe-2026-11-19-1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-1700-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-2000-tiros)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Anytime Goal Scorer|Melchie Dumornay",
@@ -154,7 +150,7 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T15:42",
+ "revisado": "2026-11-19T15:53",
  "historial": [
   {
    "hora": "2026-11-19T15:29",
