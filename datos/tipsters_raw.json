@@ -2461,14 +2461,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87181",
-   "fecha": "2026-11-17T22:37",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-17T22:39",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87181.jpg"
-  },
-  {
    "id": "-1002463340479/87182",
    "fecha": "2026-11-17T22:39",
    "texto": "📰💡 La Noticia es de hace unos minutos, el equipo rival no podrá competir, saldrá fácil este STAKAZO 100.000€ CUOTA 10.00💸\n\n🚑🚨 8 BAJAS IMPORTANTES",
@@ -3956,6 +3948,14 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-19T12:28"
+  },
+  {
+   "id": "-1002463340479/87384",
+   "fecha": "2026-11-19T12:59",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T13:03",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87384.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -16746,6 +16746,59 @@
    "texto": "Tenéis hasta las 12 : 00 para entrar 🚨",
    "foto": false,
    "visto": "2026-11-19T09:12"
+  },
+  {
+   "id": "-1001233274610/196159",
+   "fecha": "2026-11-19T12:55",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T13:03",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196159.jpg"
+  },
+  {
+   "id": "-1001233274610/196161",
+   "fecha": "2026-11-19T12:56",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T13:03",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196161.jpg"
+  },
+  {
+   "id": "-1001233274610/196160",
+   "fecha": "2026-11-19T12:56",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-19T13:03"
+  },
+  {
+   "id": "-1001233274610/196162",
+   "fecha": "2026-11-19T12:57",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T13:03",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196162.jpg"
+  },
+  {
+   "id": "-1001233274610/196164",
+   "fecha": "2026-11-19T13:02",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T13:03",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196164.jpg"
+  },
+  {
+   "id": "-1001233274610/196163",
+   "fecha": "2026-11-19T13:02",
+   "texto": "☝️ Mi Stakazo para comenzar el dia 💯\n\n🎯🌏 Dardos - Modus Super Series:\n\n💶 Nicole Regnaud gana el partido\n\n📃 Las casas no conocen a esta jugador que recientemente ha estado haciendo sus mejores averages históricos. Por otro lado, Cairns lleva toda la semana ya jugando la Modus y ha ganado 2 partidos de 15 que ha jugado, algo patético.",
+   "foto": false,
+   "visto": "2026-11-19T13:03"
+  },
+  {
+   "id": "-1001233274610/196165",
+   "fecha": "2026-11-19T13:03",
+   "texto": "Este es el estado de forma de Cairns ☝️",
+   "foto": false,
+   "visto": "2026-11-19T13:03"
   }
  ]
 }
