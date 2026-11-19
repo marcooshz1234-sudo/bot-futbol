@@ -8143,7 +8143,7 @@
     ],
     "cuotas": [
       1.4,
-      1.4,
+      1.33,
       1.4
     ],
     "solo_en": [
@@ -8155,7 +8155,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T03:34"
   },
   {
     "id": "2026-11-19-loca-th-0600-tapados",
