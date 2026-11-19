@@ -8499,12 +8499,12 @@
     "cuotas": [
       1.4,
       1.4,
-      1.44,
-      1.44,
-      1.53,
+      1.4,
+      1.73,
+      1.67,
       1.57,
-      1.8,
-      1.91
+      1.83,
+      1.83
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -8523,7 +8523,8 @@
     "cuota_bet365": 12.13,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T15:30"
   },
   {
     "id": "2026-11-19-pick-seguro-2",
