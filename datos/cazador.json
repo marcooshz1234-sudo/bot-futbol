@@ -47,7 +47,7 @@
    "justa": 1.98,
    "ev": 0.109,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Barcelona W",
@@ -58,7 +58,7 @@
    "justa": 1.71,
    "ev": 0.052,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Barcelona W",
@@ -69,7 +69,7 @@
    "justa": 1.46,
    "ev": 0.026,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Barcelona W",
@@ -80,7 +80,7 @@
    "justa": 1.37,
    "ev": 0.021,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Arsenal W",
@@ -91,7 +91,7 @@
    "justa": 1.6,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Arsenal W",
@@ -102,11 +102,11 @@
    "justa": 1.85,
    "ev": -0.011,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T19:17",
+  "hora": "2026-11-19T19:46",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1638297,
@@ -120,7 +120,7 @@
    "justa": 1.98,
    "ev": 0.109,
    "fuente": "las otras casas",
-   "edad_h": 0.4,
+   "edad_h": 0.0,
    "texto": "Más de 3,5 goles en la 2ª parte del Barcelona W–Servette Chênois W"
   }
  },
