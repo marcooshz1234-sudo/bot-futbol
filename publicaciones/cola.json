@@ -9090,7 +9090,8 @@
     "resultado": "rojo",
     "rojo_de": "2026-11-19-pick-seguro-2",
     "requiere_ok": true,
-    "sin_instagram": true
+    "sin_instagram": true,
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-19-balance-auto",
@@ -9105,6 +9106,8 @@
       "telegram"
     ],
     "requiere_ok": true,
-    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
+    "enviado": "2026-11-19T23:47",
+    "mensaje_id": 557
   }
 ]
