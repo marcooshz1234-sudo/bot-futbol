@@ -8112,9 +8112,9 @@
       "1638338|Both Teams Score|Yes"
     ],
     "cuotas": [
-      1.5,
-      1.67,
+      1.44,
       1.53,
+      1.44,
       1.57,
       1.91,
       1.62,
@@ -8129,7 +8129,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T02:44"
   },
   {
     "id": "2026-11-19-loca-th-0500-hora",
