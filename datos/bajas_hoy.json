@@ -7137,8 +7137,49 @@
   "1565308": [],
   "1551377": [],
   "1551380": [],
-  "1565306": []
+  "1565306": [],
+  "1552827": [
+   {
+    "equipo": 110,
+    "jugador": "Y. Kone",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   },
+   {
+    "equipo": 111,
+    "jugador": "E. Jelert",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Problems"
+   },
+   {
+    "equipo": 111,
+    "jugador": "L. Mpasi",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Problems"
+   },
+   {
+    "equipo": 111,
+    "jugador": "F. Mambimbi",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Problems"
+   },
+   {
+    "equipo": 111,
+    "jugador": "Stephan Zagadou",
+    "tipo": "Missing Fixture",
+    "motivo": "Jumpers Knee"
+   },
+   {
+    "equipo": 111,
+    "jugador": "T. Pembélé",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Bruise"
+   }
+  ],
+  "1608379": [],
+  "1570025": [],
+  "1575221": []
  },
- "ultima": "2026-11-19T13:55:25.714376+01:00",
+ "ultima": "2026-11-19T14:45:41.533944+01:00",
  "avisados": []
 }

@@ -70,7 +70,8 @@
   "directo-2026-11-19-pick-claude-1": "2026-11-19T12:45",
   "directo-2026-11-19-combi-ambos": "2026-11-19T12:45",
   "repe-2026-11-19-1638327|Match Winner|Home": "2026-11-19T12:45",
-  "prensa-1570454-e2b30a57": "2026-11-19T13:33"
+  "prensa-1570454-e2b30a57": "2026-11-19T13:33",
+  "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2": "2026-11-19T14:47"
  },
  "abiertos": [
   {
@@ -80,6 +81,10 @@
   {
    "clave": "directo-2026-11-19-combi-ambos",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche de Champions femenina 🔥 (20:30)"
+  },
+  {
+   "clave": "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2",
+   "t": "📉 Arsenal (fem.)–Lyon (fem.) Frida Maanum - 2: la cuota ha pasado de 1.44 a 1.73 (+20%) desde que se hizo «🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨» (17:00). Suele haber una noticia detrás"
   },
   {
    "clave": "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes",
@@ -98,10 +103,6 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
@@ -110,11 +111,15 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
@@ -130,16 +135,20 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
+   "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
+   "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|Double Chance|Home/Draw",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-escudos, loca-th-0500-hora, pick-seguro-2)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
@@ -158,8 +167,13 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T14:04",
+ "revisado": "2026-11-19T14:47",
  "historial": [
+  {
+   "hora": "2026-11-19T14:47",
+   "t": "📉 Arsenal (fem.)–Lyon (fem.) Frida Maanum - 2: la cuota ha pasado de 1.44 a 1.73 (+20%) desde que se hizo «🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨» (17:00). Suele haber una noticia detrás",
+   "k": "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2"
+  },
   {
    "hora": "2026-11-19T13:33",
    "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 3 post(s) de este partido: ganadores-resto, pick-seguro, estrella-1570454",
@@ -438,10 +452,6 @@
   {
    "hora": "2026-11-16T22:50",
    "t": "🖼️ Sale a las 22:57 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
-  },
-  {
-   "hora": "2026-11-16T18:12",
-   "t": "📰 Gales–Portugal: «Bernardo Silva abandona selección de Portugal: destapan disputa con DT y descartan lesión» (BioBioChile) · tenemos 4 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres, combi-partido-1528992"
   }
  ]
 }

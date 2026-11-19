@@ -33,15 +33,26 @@
  },
  "top": [
   {
+   "local": "FC Fredericia",
+   "visitante": "Hillerød",
+   "inicio": "2026-11-19T19:00",
+   "texto": "Ambos marcan en FC Fredericia–Hillerød",
+   "cuota": 1.8,
+   "justa": 1.77,
+   "ev": 0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Arsenal W",
    "visitante": "Lyon W",
    "inicio": "2026-11-19T21:00",
    "texto": "Lyon W marca 2 o más",
-   "cuota": 1.67,
-   "justa": 1.66,
-   "ev": 0.009,
+   "cuota": 1.62,
+   "justa": 1.6,
+   "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Aarhus Fremad",
@@ -52,22 +63,33 @@
    "justa": 1.93,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 5.5
+   "edad_h": 6.4
   },
   {
-   "local": "SL Benfica W",
-   "visitante": "Roma W",
+   "local": "FC Fredericia",
+   "visitante": "Hillerød",
+   "inicio": "2026-11-19T19:00",
+   "texto": "Hillerød marca",
+   "cuota": 1.67,
+   "justa": 1.69,
+   "ev": -0.01,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Arsenal W",
+   "visitante": "Lyon W",
    "inicio": "2026-11-19T21:00",
-   "texto": "SL Benfica W marca 2 o más",
+   "texto": "Más de 1,5 goles en la 2ª parte del Arsenal W–Lyon W",
    "cuota": 1.83,
    "justa": 1.85,
-   "ev": -0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "ev": -0.011,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T13:54",
+  "hora": "2026-11-19T14:47",
   "revisadas": 0,
   "mejor": null
  },
