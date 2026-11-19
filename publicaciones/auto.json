@@ -10593,5 +10593,197 @@
     "solo_redes": true,
     "cuota_total": 3.47,
     "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-20-loca-th-noche-2100-x100",
+    "fecha": "2026-11-19T21:00",
+    "texto": "🎰 LA CENTENARIA x28,93 🎰\n\n🇷🇴 FC Botosani–FC Voluntari 16:30\n✅ 👑 Gana el FC Botosani · ✅ ☄️ FC Botosani marca 2+\n🇩🇰 Kolding IF–Aalborg 19:00\n✅ ⚽ Ambos marcan\n🇩🇪 Bayern München–1. FC Köln 20:30\n✅ 💨 Sebastian Sebulonsen: 1+ tiros\n🇮🇹 Trento–Cittadella 20:30\n✅ 👑 Trento gana una parte\n🇫🇷 Estac Troyes–Le Havre 20:45\n✅ ⚽ Ambos marcan\n🇪🇸 Athletic Club–Espanyol 21:00\n✅ 🚩 Espanyol más de 2,5 córners\n\n🎯 CUOTA 28,93 aprox. 💎 10€ → 289€\n🙋 ¿QUIÉN SE LA JUEGA CON NOSOTROS? 👇",
+    "sel": [
+      "1565308|Match Winner|Home",
+      "1565308|Total - Home|Over 1.5",
+      "1551380|Both Teams Score|Yes",
+      "1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+      "1608379|To Win Either Half|Home",
+      "1552827|Both Teams Score|Yes",
+      "1570454|Away Corners Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.7,
+      1.67,
+      1.57,
+      2.0,
+      1.73,
+      1.7,
+      1.62
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 28.93,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-20-loca-th-noche-2130-ganaambos",
+    "fecha": "2026-11-19T21:30",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆\n\n🇷🇴 FC Botosani – FC Voluntari · 16:30\n↔️ Gana FC Botosani y ambos marcan\n\n🇩🇰 Aarhus Fremad – Hobro · 19:00\n↔️ Gana Aarhus Fremad y ambos marcan\n\n🇩🇪 Bayern München – 1. FC Köln · 20:30\n↔️ Gana Bayern München y ambos marcan\n\n🇪🇸 Athletic Club – Espanyol · 21:00\n↔️ Gana Athletic Club y ambos marcan\n\n🎯 CUOTA 87,02 💎 · 10€ → 870€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1565308|Results/Both Teams Score|Home/Yes",
+      "1551377|Results/Both Teams Score|Home/Yes",
+      "1575221|Results/Both Teams Score|Home/Yes",
+      "1570454|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      3.4,
+      3.75,
+      2.1,
+      3.25
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 87.02,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-20-loca-th-noche-2200-lista-ambos",
+    "fecha": "2026-11-19T22:00",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇷🇴 FC Botosani–FC Voluntari ➜ Ambos marcan @1,67\n2. 🇩🇰 Aarhus Fremad–Hobro ➜ Ambos marcan @1,73\n3. 🇩🇰 Kolding IF–Aalborg ➜ Ambos marcan @1,57\n4. 🇷🇴 Farul Constanta–Universitatea Cluj ➜ Ambos marcan @1,57\n5. 🇮🇹 Trento–Cittadella ➜ Ambos marcan @1,80\n6. 🇪🇸 FC Andorra–Leganes ➜ Ambos marcan @1,73\n7. 🇩🇪 Bayern München–1. FC Köln ➜ Ambos marcan @1,91\n8. 🇫🇷 Estac Troyes–Le Havre ➜ Ambos marcan @1,70\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1565308|Both Teams Score|Yes",
+      "1551377|Both Teams Score|Yes",
+      "1551380|Both Teams Score|Yes",
+      "1565306|Both Teams Score|Yes",
+      "1570025|Both Teams Score|Yes",
+      "1575221|Both Teams Score|Yes",
+      "1608379|Both Teams Score|Yes",
+      "1552827|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.67,
+      1.73,
+      1.57,
+      1.57,
+      1.73,
+      1.91,
+      1.8,
+      1.7
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-20-loca-th-noche-2230-duelo",
+    "fecha": "2026-11-19T22:30",
+    "texto": "🥊 EL DUELO DE TIROS 🥊\n\n⭐ FC Andorra vs Leganes · 20:30\n\n🎳 Lautaro de Leon: 3+ tiros (FC Andorra)\n🎳 Alex Millan: 2+ tiros (Leganes)\n\n🎯 CUOTA 2,06 aprox. 💎 · 10€ → 20,60€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1570025|Home Player Shots|Lautaro de Leon - 3",
+      "1570025|Away Player Shots|Alex Millan - 2"
+    ],
+    "cuotas": [
+      1.44,
+      1.4
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.06,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-20-loca-th-noche-2300-x50",
+    "fecha": "2026-11-19T23:00",
+    "texto": "🧨 LA DE x24,52 🧨\n\n🇩🇰 Kolding IF–Aalborg 19:00\n✅ 🏆 Aalborg gana una parte\n🇷🇴 Farul Constanta–Universitatea Cluj 19:30\n✅ 🤝 Universitatea Cluj o empate\n🇪🇸 FC Andorra–Leganes 20:30\n✅ 🏆 FC Andorra gana una parte\n🇩🇪 Bayern München–1. FC Köln 20:30\n✅ 🦵 Marius Bulter comete 1+ faltas\n🇮🇹 Trento–Cittadella 20:30\n✅ 🤝 Cittadella o empate\n🇫🇷 Estac Troyes–Le Havre 20:45\n✅ 🤝 Le Havre o empate\n🇪🇸 Athletic Club–Espanyol 21:00\n✅ 💥 Athletic Club marca 2+\n\n🎯 CUOTA 24,52 💎 10€ → 245€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1551380|To Win Either Half|Away",
+      "1565306|Double Chance|Draw/Away",
+      "1570025|To Win Either Half|Home",
+      "1575221|Player Fouls Committed|Marius Bulter - 1",
+      "1608379|Double Chance|Draw/Away",
+      "1552827|Double Chance|Draw/Away",
+      "1570454|Total - Home|Over 1.5"
+    ],
+    "cuotas": [
+      1.73,
+      1.5,
+      1.5,
+      1.57,
+      1.53,
+      1.67,
+      1.57
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 24.52,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-20-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-19T23:30",
+    "texto": "🚨 COMBI BAYERN MÜNCHEN – 1. FC KÖLN 🚨\n\n⭐ Bayern München vs 1. FC Köln · 20:30\n\n🦵 Marius Bulter comete 1+ faltas\n🎳 Sebastian Sebulonsen: 1+ tiros\n🦵 Dayot Upamecano comete 1+ faltas\n🎳 Said El Mala: 2+ tiros\n⚡ Bayern München gana las dos partes\n☄️ Jamal Musiala marca\n⚔️ Ambos marcan\n\n🎯 CUOTA 20,87 aprox. 💎 10€ → 209€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1575221|Player Fouls Committed|Marius Bulter - 1",
+      "1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+      "1575221|Player Fouls Committed|Dayot Upamecano - 1",
+      "1575221|Away Player Shots|Said El Mala - 2",
+      "1575221|Win Both Halves|Home",
+      "1575221|Anytime Goal Scorer|Jamal Musiala",
+      "1575221|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57,
+      2.0,
+      1.4,
+      1.44,
+      1.67,
+      1.8,
+      1.91
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 20.87,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "Bayern München",
+      "visitante": "1. FC Köln",
+      "id_l": 157,
+      "id_v": 192,
+      "logo_l": "https://media.api-sports.io/football/teams/157.png",
+      "logo_v": "https://media.api-sports.io/football/teams/192.png",
+      "fecha": "2026-11-20T20:30",
+      "liga": "Bundesliga"
+    },
+    "cuota_total": 20.87,
+    "cuota_calculada": true
   }
 ]

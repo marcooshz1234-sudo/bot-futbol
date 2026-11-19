@@ -32,8 +32,8 @@
   "jugador+resultado/mismo": 0.0794,
   "jugador+resultado/partido": 0.0862,
   "jugador+tarjetas/partido": 0.0171,
-  "jugador+tiros/contrario": -0.0908,
-  "jugador+tiros/mismo": -0.0908,
+  "jugador+tiros/contrario": -0.0907,
+  "jugador+tiros/mismo": -0.0907,
   "jugador+tiros/partido": -0.0978,
   "resultado+tarjetas/contrario": -0.0154,
   "resultado+tarjetas/mismo": -0.0053,
@@ -44,7 +44,7 @@
   "tarjetas+tiros/partido": -0.025
  },
  "beta": 0.933,
- "n": 78,
- "error_antes": 9.8,
+ "n": 80,
+ "error_antes": 10.3,
  "error_ahora": 3.3
 }
