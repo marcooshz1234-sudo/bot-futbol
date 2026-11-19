@@ -2746,14 +2746,14 @@
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 11,
+    "total": 12,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 11,
+      "pendiente": 12,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 12
     },
     "combis": [
       {
@@ -2821,13 +2821,19 @@
         "titulo": "🪜 Reto escalera · Día 3/7",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-19-loca-th-1130-hora",
+        "titulo": "⏳ TODO A LAS 21:00 ⏳",
+        "estado": "pendiente",
+        "cuota": 2.74
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 43
+      "total": 44
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 3,75 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 3,75 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 12 sin resolver"
   }
 }
