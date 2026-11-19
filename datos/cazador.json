@@ -47,7 +47,7 @@
    "justa": 1.67,
    "ev": 0.0,
    "fuente": "las otras casas",
-   "edad_h": 2.0
+   "edad_h": 2.3
   },
   {
    "local": "Farul Constanta",
@@ -58,7 +58,7 @@
    "justa": 1.53,
    "ev": -0.018,
    "fuente": "las otras casas",
-   "edad_h": 2.0
+   "edad_h": 2.3
   },
   {
    "local": "Farul Constanta",
@@ -69,11 +69,11 @@
    "justa": 2.24,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 2.0
+   "edad_h": 2.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T22:05",
+  "hora": "2026-11-19T22:25",
   "revisadas": 0,
   "mejor": null
  },

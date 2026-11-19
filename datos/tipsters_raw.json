@@ -4717,13 +4717,6 @@
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
   {
-   "id": "-1001550157115/100544",
-   "fecha": "2026-11-16T16:36",
-   "texto": "ÚLTIMAS PLAZAS PREMIUM DISPONIBLES EN EL SIGUIENTE LINK: https://mypago.net/shop/grupoviptrader",
-   "foto": false,
-   "visto": "2026-11-16T16:47"
-  },
-  {
    "id": "-1001550157115/100543",
    "fecha": "2026-11-16T16:36",
    "texto": "",
@@ -6193,6 +6186,14 @@
    "foto": true,
    "visto": "2026-11-19T20:54",
    "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100746.jpg"
+  },
+  {
+   "id": "-1001550157115/100747",
+   "fecha": "2026-11-19T22:22",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T22:22",
+   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100747.jpg"
   }
  ],
  "MisterBasquet 🏀": [
