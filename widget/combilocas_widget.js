@@ -11,7 +11,8 @@
 //   «seguidores» = el widget de antes (seguidores de Threads, Instagram y Telegram); «escalera» = reto escalera.
 // Se actualiza solo: cada vez que se ejecuta mira si hay una versión nueva de este archivo en GitHub y se
 // sobrescribe (la siguiente vez que se pinte ya sale la nueva). Marcos no tiene que tocar nada.
-const VERSION = "2026-11-11"   // 11/11: estilo CL (logo CL, estadio de noche, verde neón)
+const VERSION = "2026-11-19"   // 19/11 (Marcos: «añádeme los seguidores al gadget»): seguidores también en el de Mis combis
+// 11/11: estilo CL (logo CL, estadio de noche, verde neón)
 const BASE = "https://raw.githubusercontent.com/marcooshz1234-sudo/bot-futbol/main/"
 const URL = BASE + "docs/mis/datos.json"
 const CODIGO = BASE + "widget/combilocas_widget.js"
@@ -259,6 +260,43 @@ async function widgetSeguidores(tam, modo) {
     : tam === "accessoryCircular" ? w.presentAccessoryCircular() : tam === "accessoryInline" ? w.presentAccessoryInline() : w.presentMedium()
 }
 
+// 19/11 (Marcos: «añádeme los seguidores al gadget»): los seguidores de las redes también en el widget de Mis combis
+// (abajo en el grande; en el mediano si cabe; y en lugar del «Nada en juego hoy»)
+const RED_MINI = [
+  { k: "threads", icono: "at", color: new Color("#f1fbf5") },
+  { k: "telegram", icono: "paperplane.fill", color: new Color("#38bdf8") },
+  { k: "instagram", icono: "camera.fill", color: new Color("#f472b6") },
+]
+async function seguidores() {
+  try { return await new Request(BASE + "publicaciones/estadisticas.json?t=" + Date.now()).loadJSON() } catch (e) { return null }
+}
+const numS = n => n == null ? "—" : Math.round(n).toLocaleString("es-ES")
+const masS = n => !n ? "" : n > 0 ? " +" + n : " −" + Math.abs(n)
+function tiraSeguidores(w, s, grande) {
+  if (!s || !s.redes) return
+  const c = w.addStack(); c.centerAlignContent(); c.backgroundColor = CARTA; c.cornerRadius = 11
+  c.borderColor = BORDE; c.borderWidth = 1; c.setPadding(5, 9, 5, 9)
+  RED_MINI.forEach((r, i) => {
+    const x = s.redes[r.k] || {}
+    if (i) c.addSpacer()
+    const ic = c.addImage(SFSymbol.named(r.icono).image); ic.imageSize = new Size(grande ? 12 : 10, grande ? 12 : 10); ic.tintColor = r.color
+    c.addSpacer(4); texto(c, numS(x.seguidores), grande ? 13 : 12, BLANCO, "negra")
+    if (x.hoy) texto(c, masS(x.hoy), grande ? 11 : 10, VERDE, "semi")
+  })
+}
+function bloqueSeguidores(w, s) {   // sin combis en juego: los seguidores en grande
+  if (!s || !s.redes) return
+  texto(w, "SEGUIDORES", 10, GRIS, "semi"); w.addSpacer(3)
+  for (const r of RED_MINI) {
+    const x = s.redes[r.k] || {}
+    const f = w.addStack(); f.centerAlignContent()
+    const ic = f.addImage(SFSymbol.named(r.icono).image); ic.imageSize = new Size(12, 12); ic.tintColor = r.color
+    f.addSpacer(6); texto(f, numS(x.seguidores), 16, BLANCO, "negra"); f.addSpacer()
+    if (x.hoy) texto(f, masS(x.hoy) + " hoy", 11, VERDE, "semi")
+    w.addSpacer(2)
+  }
+}
+
 async function widgetCombis(tam) {
   let d
   try { d = await new Request(URL + "?t=" + Date.now()).loadJSON() } catch (e) { d = null }
@@ -269,6 +307,7 @@ async function widgetCombis(tam) {
   // sin combis: por qué
   const vacio = !d ? "Sin conexión" : elegidas === null ? `No hay combi de «${args.widgetParameter.trim()}»` : "Nada en juego hoy"
   const vivas = combis.filter(r => r.vivo).length
+  const seg = await seguidores()
 
   const w = new ListWidget()
   const bloqueo = tam.startsWith("accessory")
@@ -300,15 +339,21 @@ async function widgetCombis(tam) {
       }
     } else {
       const r = combis[0]
-      texto(w, r ? [r.minuto, r.titulo, r.marcador].filter(Boolean).join(" ") + ` · ${r.corta} · ${r.valor}` : "Mis combis: " + vacio.toLowerCase(), 12, Color.white(), "semi")
+      const tg = seg && seg.redes ? `Threads ${numS((seg.redes.threads || {}).seguidores)} · Telegram ${numS((seg.redes.telegram || {}).seguidores)}` : ""
+      texto(w, r ? [r.minuto, r.titulo, r.marcador].filter(Boolean).join(" ") + ` · ${r.corta} · ${r.valor}` : (tg || "Mis combis: " + vacio.toLowerCase()), 12, Color.white(), "semi")
     }
   } else if (!d) {
     w.setPadding(14, 14, 14, 14)
     texto(w, "MIS COMBIS", 13, BLANCO, "negra"); w.addSpacer(6); texto(w, vacio, 12, GRIS)
   } else if (!hay) {
     w.setPadding(14, 14, 14, 14)
-    texto(w, "MIS COMBIS", 13, BLANCO, "negra"); w.addSpacer()
-    texto(w, vacio, 15, GRIS, "semi"); w.addSpacer()
+    const cab0 = w.addStack(); cab0.centerAlignContent()
+    texto(cab0, "MIS COMBIS", 13, BLANCO, "negra"); cab0.addSpacer()
+    texto(cab0, vacio, 10, GRIS, "semi")
+    w.addSpacer()
+    if (seg && seg.redes) bloqueSeguidores(w, seg)
+    else texto(w, vacio, 15, GRIS, "semi")
+    w.addSpacer()
     texto(w, "act. " + d.generado.slice(11), 9, GRIS, "semi")
   } else if (tam === "small") {
     const r = combis[0]
@@ -332,8 +377,10 @@ async function widgetCombis(tam) {
     cab.addSpacer(); texto(cab, "act. " + d.generado.slice(11), 9, GRIS, "semi")
     w.addSpacer(8)
     const n = tam === "large" ? 6 : 2   // en el mediano no caben más de 2 con su segunda línea
-    for (const r of combis.slice(0, n)) { fila(w, r, tam === "large"); w.addSpacer(5) }
+    const n2 = tam === "large" ? 5 : n   // 19/11: en el grande, sitio para los seguidores abajo
+    for (const r of combis.slice(0, n2)) { fila(w, r, tam === "large"); w.addSpacer(5) }
     w.addSpacer()
+    if (tam === "large" || combis.length <= 1) tiraSeguidores(w, seg, tam === "large")
   }
   Script.setWidget(w)
   if (config.runsInApp) tam === "small" ? w.presentSmall() : tam === "large" ? w.presentLarge()

@@ -97,3 +97,13 @@ assert.ok(!vm.runInContext('vBot()',context).includes('start=retry_'));
   assert.ok(v.includes('Aprobado: sale en la próxima vuelta') && !v.includes("tgAccion('aprobar','v9')"));
   console.log('Panel 📲 Telegram: aprobar/cancelar en control.json, directo, avisos y clave.');
 }
+
+// 19/11 (Marcos: «añádeme los seguidores al gadget»): el widget de Mis combis también enseña los seguidores
+{
+  const wsrc = fs.readFileSync('widget/combilocas_widget.js', 'utf8');
+  new Function('return (async () => {' + wsrc + '})');   // que el widget no tenga errores de sintaxis
+  assert.ok(wsrc.includes('publicaciones/estadisticas.json') && wsrc.includes('tiraSeguidores(w, seg'));
+  assert.ok(wsrc.includes('bloqueSeguidores(w, seg)'));   // sin combis en juego: seguidores en grande
+  assert.match(wsrc, /const VERSION = "2026-11-19"/);     // versión nueva: el iPhone se actualiza solo
+  console.log('Widget: seguidores en el de Mis combis.');
+}
