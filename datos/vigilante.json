@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-19",
  "vistos": {
-  "prensa-1528992-76fc01e1": "2026-11-17T00:08",
   "cuotamov-2026-11-17-loca-th-1900-x1000-1528993|Home Player Shots|Morten Hjulmand - 2": "2026-11-17T08:37",
   "prensa-1528999-73306ce3": "2026-11-17T09:31",
   "cuotamov-2026-11-17-loca-th-1830-tiros-1528992|Home Player Shots|Harry Wilson - 2": "2026-11-17T13:57",
@@ -103,32 +102,40 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-seguro-2, estrella-1570454, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2100-x100, loca-th-noche-2330-escudos)"
-  },
-  {
    "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2300-x50, loca-th-noche-2330-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
+   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2100-x100, loca-th-noche-2330-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1551380|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
+   "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
@@ -139,15 +146,7 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
+   "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
@@ -159,16 +158,16 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
-  },
-  {
    "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Away Corners Over/Under|Over 2.5",
@@ -195,7 +194,7 @@
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-20T00:02",
+ "revisado": "2026-11-20T00:12",
  "historial": [
   {
    "hora": "2026-11-20T00:02",
