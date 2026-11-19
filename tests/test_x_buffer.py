@@ -45,12 +45,18 @@ class QueSeSube(unittest.TestCase):
         todo = [p["id"] for p in xb.candidatos(posts, {}, {"x_modo": "todo"}, AHORA)]
         self.assertIn("2026-11-19-loca-th-2100-duelo", todo)
 
+    def test_los_verdes_no_gastan_el_tope(self):   # 19/11: el verde de la escalera se quedó fuera por el tope
+        hechos = {f"2026-11-19-loca-th-x{i}": {"cuando": "2026-11-19T1%d:00" % i} for i in range(5)}
+        posts = [self.post("2026-11-19-verde-auto-2026-11-19-escalera"), self.post("2026-11-19-loca-th-noche-2300-x50")]
+        ids = [p["id"] for p in xb.candidatos(posts, {"enviados": hechos}, {}, AHORA)]
+        self.assertEqual(ids, ["2026-11-19-verde-auto-2026-11-19-escalera"])
+
     def test_no_repite_ni_sube_lo_viejo_y_respeta_tope_y_pausa(self):
-        posts = [self.post(f"2026-11-19-verde-auto-p{i}") for i in range(8)] + [self.post("2026-11-19-escalera", "2026-11-19T11:00")]
-        estado = {"enviados": {"2026-11-19-verde-auto-p0": {"cuando": "2026-11-19T21:05"}}}
+        posts = [self.post(f"2026-11-19-loca-th-noche-p{i}-x50") for i in range(8)] + [self.post("2026-11-19-escalera", "2026-11-19T11:00")]
+        estado = {"enviados": {"2026-11-19-loca-th-noche-p0-x50": {"cuando": "2026-11-19T21:05"}}}
         r = xb.candidatos(posts, estado, {}, AHORA)
         self.assertEqual(len(r), 4)   # tope 5 al día, ya va 1
-        self.assertNotIn("2026-11-19-verde-auto-p0", [p["id"] for p in r])
+        self.assertNotIn("2026-11-19-loca-th-noche-p0-x50", [p["id"] for p in r])
         self.assertNotIn("2026-11-19-escalera", [p["id"] for p in r])   # de las 11:00: fuera de la ventana de 3 h
         self.assertEqual(xb.candidatos(posts, {}, {"x_pausa": True}, AHORA), [])
 

@@ -95,7 +95,8 @@ def candidatos(posts, estado, control, ahora):
         return []
     hoy = ahora.strftime("%Y-%m-%d")
     hechos = estado.get("enviados") or {}
-    subidos_hoy = sum(1 for v in hechos.values() if str(v.get("cuando", "")).startswith(hoy))
+    # 19/11: los verdes no gastan el tope (el de la escalera se quedó sin subir porque ya iban 5 posts)
+    subidos_hoy = sum(1 for k, v in hechos.items() if str(v.get("cuando", "")).startswith(hoy) and "-verde-" not in k)
     tope = int(control.get("x_max_dia") or MAX_DIA)
     modo = control.get("x_modo") or "fuerte"
     desde = (ahora - timedelta(hours=VENTANA_H)).strftime("%Y-%m-%dT%H:%M")
@@ -109,7 +110,9 @@ def candidatos(posts, estado, control, ahora):
         if modo != "todo" and not fuerte(p["id"]):
             continue
         out.append(p)
-    return out[:max(0, tope - subidos_hoy)]
+    verdes = [p for p in out if "-verde-" in p["id"]]
+    resto = [p for p in out if "-verde-" not in p["id"]][:max(0, tope - subidos_hoy)]
+    return sorted(verdes + resto, key=lambda x: x.get("fecha") or "")
 
 
 # ---------- Buffer
