@@ -1170,7 +1170,7 @@ def seguro_publicado(dia):
     return None
 
 
-def ya_publicadas(dia, excluir=None):
+def ya_publicadas(dia, excluir=None, red=None):
     """Selecciones de los posts de ese día que YA han salido (cola a mano y auto publicados) y, 12/11, también los
     de la cola a mano que están programados (los de Threads de Claude: Montenegro 2+ salía en 3 posts).
     Los «ganadores» cuentan para no chocar pero no para el máx. 2 (como en el vigilante): van con 0 usos."""
@@ -1185,6 +1185,9 @@ def ya_publicadas(dia, excluir=None):
         salio = p.get("enviado") or any((p.get("redes") or {}).values()) or p["id"] in env
         programado = p in cola and p["id"] not in fuera and not p.get("caducada")
         if p["id"] == excluir:   # 12/11 (comprobar_post): el propio post no cuenta contra sí mismo
+            continue
+        # 19/11 (Marcos: «las que no pueden chocar son las de la misma red social»): con «red», solo los posts de esa red
+        if red and red not in set(p.get("solo_en") or (["threads", "instagram"] if p.get("solo_redes") else ["telegram", "threads", "instagram"])):
             continue
         if p["id"].startswith(dia) and (salio or programado) and not p.get("verde_de") and not p.get("borrar"):
             for s_ in p.get("sel") or []:
@@ -1403,7 +1406,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     esc = (leer(DATOS / "escalera.json") or {}).get("actual") or {}
     if esc.get("dia") == dia:
         usos.update(sel(p) for p in esc.get("picks", []))
-    for s_, n_ in ya_publicadas(dia).items():   # lo que ya salió ese día (a mano o del bot) y la cola programada
+    for s_, n_ in ya_publicadas(dia, red="telegram").items():   # 19/11: solo Telegram · lo que ya salió ese día (a mano o del bot) y la cola programada
         usos[s_] += n_
 
     # 13/11 (Marcos: «hemos fallado bastante»): Suiza iba en 4 posts (gana / gana una parte) y un 0-0 tumbó los 4.
@@ -1432,7 +1435,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         # (desde el 14/11: el de hoy 13/11 lo decide Marcos, no se cambia solo un post ya programado)
         nuevo = dia >= "2026-11-14"
         primero = (seguro_publicado(dia) if nuevo else None) or (res["seguro"][0] if res["seguro"] else None)
-        ya2 = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-2").items()
+        ya2 = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-2", red="telegram").items()
                if n_ and s_.split("|")[0].isdigit()] if nuevo else ()
         res["seguro2"] = pick_seguro(sin_choques(pools_pick), dia, segundo=primero, ya=ya2)
         if res.get("seguro2"):
@@ -1443,7 +1446,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     if dia >= SEGURO_DESDE:
         hechos = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
         for n, hora_x in zip((3, 4), EXTRA_PICKS["horas"]):
-            ya_x = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-{n}").items()
+            ya_x = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-{n}", red="telegram").items()
                     if n_ and s_.split("|")[0].isdigit()]
             r = pick_extra(sin_choques(pools_pick), dia, hora_x, hechos, ya=ya_x, usados=list(usos))
             res[f"seguro{n}"] = r

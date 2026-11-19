@@ -17,6 +17,7 @@ Reglas (de Marcos):
   8. combi de un partido: la cuota no se multiplica (tiene que llevar la de «Crear apuesta» que da Marcos)
 """
 import re
+from collections import Counter
 import sys
 
 from bot import cuota_baja, leer, mercado_prohibido, partido_caido, RAIZ
@@ -120,15 +121,20 @@ def comprobar(p, texto=None, otros=None):
             fallos.append(("cuota_alta", f"pata de más de {tope:.2f} (@{max(altas):.2f})".replace(".", ",")))
     if sels and "ganadores" not in pid and "marcadores" not in pid:
         from plantillas import choca
+        dado = otros is not None
         if otros is None:
             otros = _sin_este(p)
         otros = dict(otros)
         loca = "loca" in pid
+        # 19/11 (Marcos): Threads y Telegram pueden chocar entre ellos; dentro de la misma red, nunca
+        misma_red = Counter(otros) if dado else Counter()
+        for r_ in ([] if dado else redes_de(p)):   # por red: el máximo, no la suma (un post en 2 redes cuenta 1)
+            misma_red = misma_red | Counter(_sin_este(p, red=r_))
         for s in sels:
-            rival = [o for o in otros if o not in sels and choca(s, [o])]
+            rival = [o for o in misma_red if o not in sels and choca(s, [o])]
             if rival and not (loca and s.split("|")[1] == "Double Chance"):
                 fallos.append(("choca", f"{s.split('|', 1)[1]} choca con {rival[0].split('|', 1)[1]} (mismo partido)"))
-            if otros.get(s, 0) >= 2:
+            if misma_red.get(s, 0) >= 2:   # 19/11: el máx. de 2 posts con el mismo pick, también por red
                 fallos.append(("repetido", f"{s.split('|', 1)[1]} ya va en 2 posts"))
         if not es_copia(p):
             try:
@@ -372,9 +378,9 @@ def bloquea(p, texto=None):
     return "; ".join(m for _, m in f) or None
 
 
-def _sin_este(p):
+def _sin_este(p, red=None):
     from combis_dia import ya_publicadas
-    return ya_publicadas(p.get("id", "")[:10], excluir=p.get("id"))
+    return ya_publicadas(p.get("id", "")[:10], excluir=p.get("id"), red=red)
 
 
 if __name__ == "__main__":

@@ -328,7 +328,10 @@ def hacer(p, texto, todos=None):
             crear = any(re.search(r"crear apuesta", x, re.I) for x in ps)
             lem = lema(texto) or hora_partidos(p)
             fs = filas(ps, m.group(1) if m else None)
-            if (crear or any(f and f.get("nombre") == "Partido" for f in fs)) and m:   # el partido abajo, con la hora
+            varios = len({str(x).split("|")[0] for x in p.get("sel") or []}) > 1
+            if varios:   # 19/11: combi de varios partidos → ni «PARTIDO» en cada fila ni la cinta con el 1º partido
+                fs = [dict(f, nombre="") if f and f.get("nombre") == "Partido" else f for f in fs]
+            if (crear or any(f and f.get("nombre") == "Partido" for f in fs)) and m and not varios:   # el partido abajo, con la hora
                 lem = f"{m.group(1).upper()} · {lem}" if lem else m.group(1).upper()
             lid = liga_de(p, texto)
             G.generar(fs, titulo(p, texto), out, "estadio", lema=lem,

@@ -8897,5 +8897,39 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-19-pick-claude-1",
+    "fecha": "2026-11-19T18:00",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "sel": [
+      "1638327|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "texto": "Vamos con el pick de la tarde 👇\n\n🍀 Gana el Paris FC (fem.) @1,57\n\n⚽ Paris FC (fem.) – Køge (fem.) · hoy 18:45\n\n👨‍💻 En casa y claro favorito: bet365 le da @1,50 a que meta 2 o más\n👨‍💻 El Køge es de los más flojos de la fase: lo normal es que encaje\n👨‍💻 Cuota de valor para un favorito tan claro\n\n🧠 Stake 3/10",
+    "nota": "Claude · 12:41 Marcos: «sube la de París, gana»"
+  },
+  {
+    "id": "2026-11-19-combi-ambos",
+    "fecha": "2026-11-19T20:30",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "sel": [
+      "1638338|Both Teams Score|Yes",
+      "1638286|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.5,
+      1.57
+    ],
+    "texto": "Combi de la noche de Champions femenina 🔥\n\n⚽ Ambos marcan en el Benfica (fem.)–Roma (fem.) · 21:00\n⚽ Ambos marcan en el Arsenal (fem.)–Lyon (fem.) · 21:00\n\n📈 Cuota @2,35\n\n🧠 Por qué:\n👨‍💻 Dos partidos muy igualados y de gol: bet365 da @1,57 a +2,5 goles en los dos\n👨‍💻 Arsenal y Lyon tienen pegada de sobra; Benfica y Roma, defensas que conceden\n\n🧠 Stake 2/10",
+    "nota": "Claude · 12:41 Marcos (aprobó la propuesta)"
   }
 ]

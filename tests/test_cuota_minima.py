@@ -72,7 +72,7 @@ class TestCopiarTipsters(unittest.TestCase):
                     mock.patch.object(CT, "inicio", lambda x: ahora + timedelta(hours=6)), \
                     mock.patch.object(CT, "cuota_bet365", lambda x: (x.get("cuota"), True)), \
                     mock.patch.object(CT, "motivo_no", lambda x, u: None), \
-                    mock.patch("combis_dia.ya_publicadas", lambda dia: Counter()), \
+                    mock.patch("combis_dia.ya_publicadas", lambda dia, **k: Counter()), \
                     mock.patch.dict("os.environ", {"GITHUB_ACTIONS": ""}):
                 return CT.main(ahora)
 
@@ -148,7 +148,7 @@ class TestCopiarTipsters(unittest.TestCase):
                     mock.patch.object(CT, "REGISTRO", d / "reg.json"), \
                     mock.patch.object(CT, "inicio", lambda x: ahora + timedelta(hours=6)), \
                     mock.patch.object(CT, "cuota_bet365", lambda x: (x.get("cuota"), True)), \
-                    mock.patch("combis_dia.ya_publicadas", lambda dia: Counter()), \
+                    mock.patch("combis_dia.ya_publicadas", lambda dia, **k: Counter()), \
                     mock.patch("revision.lados_sin_estrella", lambda fid: set()), \
                     mock.patch.dict("os.environ", {"GITHUB_ACTIONS": ""}):
                 return CT.main(ahora)

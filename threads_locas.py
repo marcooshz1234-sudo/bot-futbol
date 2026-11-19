@@ -810,6 +810,8 @@ def previos_de(dia):
     previos, con_esc = {}, set()
     for f in ("auto.json", "cola.json"):
         for p in leer(PUB / f, []) or []:
+            if p.get("solo_en") and "threads" not in p["solo_en"]:
+                continue   # 19/11 (Marcos): lo de Telegram puede chocar con Threads; solo cuenta lo de la misma red
             if p["id"].startswith(dia) and ("-loca-th-" not in p["id"] or "-loca-th-noche-" in p["id"]) and not p.get("verde_de") \
                     and not re.search(r"verde|rojo|balance|resumen|ganadores", p["id"]):
                 for s_ in set(p.get("sel") or []):

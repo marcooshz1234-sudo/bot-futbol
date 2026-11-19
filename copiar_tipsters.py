@@ -315,7 +315,7 @@ def main(ahora=None):
     lista = [x for x in leer(DATOS / "tipsters.json", []) or []
              if es_de_futbol(x.get("tipster")) and x.get("dia") in (hoy, manana) and (x.get("partido_id") or x.get("hora"))]
     from combis_dia import ya_publicadas
-    usos = {d: ya_publicadas(d) for d in (hoy, manana)}   # lo nuestro de ese día (publicado y programado)
+    usos = {d: ya_publicadas(d, red="telegram") for d in (hoy, manana)}   # 19/11: las copias van a Telegram   # lo nuestro de ese día (publicado y programado)
     clave = lambda x: f"{x.get('fuente') or x['tipster'] + '|' + x['dia'] + '|' + x['local']}|{x.get('mercado')}|{x.get('opcion')}"
     sueltos, combis = [], {}
     rotas = set()
