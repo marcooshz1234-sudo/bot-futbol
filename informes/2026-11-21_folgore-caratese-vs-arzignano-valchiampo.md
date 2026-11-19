@@ -1,10 +1,10 @@
 # Folgore Caratese – Arzignano Valchiampo
 **Serie C** · Girone A - 15 · 21/11/2026 17:30 (hora España) · Sportitalia Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:25_
+_Actualizadas: 19/11 20:07_
 
 - **1X2:** 1 **2.80**  ·  X **3.10**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.33**
@@ -42,7 +42,7 @@ _Actualizadas: 19/11 08:25_
 - **Win Both Halves:** 1 **11.00**  ·  2 **9.00**
 - **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **8.50**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
 
 ## Estadísticas de equipo
 | | Folgore Caratese (total) | Folgore Caratese en casa | Arzignano Valchiampo (total) | Arzignano Valchiampo fuera |

@@ -1,10 +1,10 @@
 # Real Sociedad W – Sevilla W
 **Liga F** · Regular Season - 12 · 22/11/2026 12:00 (hora España) · Instalaciones de Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:26_
+_Actualizadas: 19/11 20:07_
 
 - **1X2:** 1 **1.62**  ·  X **3.75**  ·  2 **4.40**
 - **Doble oportunidad:** 1X **1.14**  ·  12 **1.20**  ·  X2 **2.10**

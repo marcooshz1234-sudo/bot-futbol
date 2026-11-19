@@ -1,10 +1,10 @@
 # Southampton – Derby
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:25_
+_Actualizadas: 19/11 20:06_
 
 - **1X2:** 1 **1.40**  ·  X **5.00**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
@@ -31,7 +31,7 @@ _Actualizadas: 19/11 08:25_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 10,5: más **1.80** · menos **1.91**
+    - 10,5: más **1.80** · menos **2.00**
 - **Córners 1X2:** 1 **1.28**  ·  X **10.00**  ·  2 **4.33**
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**
@@ -52,7 +52,7 @@ _Actualizadas: 19/11 08:25_
     - 6,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.20**  ·  Menos de 5 **2.25**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.88**  ·  Menos de 5 **1.92**
 - **Home Team Total Cards:**
     - 1,5: más **2.20** · menos **1.62**
 - **Away Team Total Cards:**

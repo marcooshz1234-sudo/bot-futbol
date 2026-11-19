@@ -55,7 +55,7 @@
    "prob_cuota": 3.754
   },
   "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 8,
+   "n": 9,
    "verdes": 4,
    "rojos": 2,
    "nulos": 0,
@@ -64,7 +64,7 @@
    "prob_cuota": 3.98
   },
   "AllSportsPicks ⚽🏀🎾": {
-   "n": 7,
+   "n": 8,
    "verdes": 1,
    "rojos": 4,
    "nulos": 0,
@@ -181,7 +181,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 23,
+   "n": 24,
    "verdes": 14,
    "rojos": 6,
    "nulos": 0,
@@ -335,6 +335,15 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Goals Over/Under Over 5.5": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.581
   },
   "Goals Over/Under Over 3.5": {
    "n": 2,
@@ -533,15 +542,6 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "Goals Over/Under Over 5.5": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.581
-  },
   "Bet Builder Over 6 córners + Over 1.5": {
    "n": 1,
    "verdes": 0,
@@ -575,7 +575,7 @@
  },
  "equipo": {
   "—": {
-   "n": 80,
+   "n": 81,
    "verdes": 34,
    "rojos": 11,
    "nulos": 0,
@@ -897,6 +897,13 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Vasco da Gama": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
@@ -910,7 +917,7 @@
    "prob_cuota": 26.789
   },
   "goles": {
-   "n": 33,
+   "n": 34,
    "verdes": 12,
    "rojos": 9,
    "nulos": 0,
@@ -919,7 +926,7 @@
    "prob_cuota": 15.056
   },
   "casa/fuera": {
-   "n": 26,
+   "n": 28,
    "verdes": 12,
    "rojos": 6,
    "nulos": 0,
@@ -975,7 +982,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 55,
+   "n": 57,
    "verdes": 24,
    "rojos": 14,
    "nulos": 0,
@@ -1038,7 +1045,7 @@
    "prob_cuota": 28.296
   },
   "UEFA Champions League Women": {
-   "n": 8,
+   "n": 10,
    "verdes": 1,
    "rojos": 5,
    "nulos": 0,
@@ -1067,7 +1074,7 @@
  },
  "lado": {
   "partido": {
-   "n": 68,
+   "n": 69,
    "verdes": 27,
    "rojos": 9,
    "nulos": 0,
@@ -1076,7 +1083,7 @@
    "prob_cuota": 18.617
   },
   "local": {
-   "n": 39,
+   "n": 40,
    "verdes": 22,
    "rojos": 10,
    "nulos": 0,
@@ -1096,7 +1103,7 @@
  },
  "por_que": {
   "—": {
-   "n": 59,
+   "n": 61,
    "verdes": 22,
    "rojos": 13,
    "nulos": 0,
@@ -1170,7 +1177,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 132,
+   "n": 134,
    "verdes": 67,
    "rojos": 23,
    "nulos": 0,

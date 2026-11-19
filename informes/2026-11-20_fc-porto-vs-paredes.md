@@ -1,10 +1,48 @@
 # FC Porto – Paredes
 **Taça de Portugal** · Round of 32 · 20/11/2026 21:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 20:06_
+
+- **1X2:** 1 **1.10**  ·  X **8.50**  ·  2 **21.00**
+- **Doble oportunidad:** 1X **1.01**  ·  12 **1.08**  ·  X2 **7.00**
+- **Ambos marcan:** Sí **2.75**  ·  No **1.40**
+- **Goles más/menos:**
+    - 1,5: más **1.11** · menos **6.50**
+    - 2,5: más **1.40** · menos **2.88**
+    - 3,5: más **2.00** · menos **1.73**
+    - 4,5: más **3.25** · menos **1.33**
+    - 5,5: más **6.00** · menos **1.12**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.67** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **2.62** · menos **1.44**
+    - 1,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **1.40**  ·  X **3.25**  ·  2 **19.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
+- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
+- **To Win Either Half:** 1 **1.06**  ·  2 **9.00**
+- **To Score In Both Halves By Teams:** 1 **1.62**  ·  2 **19.00**
+- **Win Both Halves:** 1 **1.83**  ·  2 **101.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **12.00**  ·  Away/Yes **41.00**  ·  Home/No **1.53**  ·  Draw/No **17.00**  ·  Away/No **29.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.10**  ·  o/no 2.5 **2.40**  ·  u/yes 2.5 **19.00**  ·  u/no 2.5 **3.00**
 
 ## Estadísticas de equipo
 | | FC Porto (total) | FC Porto en casa | Paredes (total) | Paredes fuera |

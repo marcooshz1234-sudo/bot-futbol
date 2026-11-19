@@ -1,10 +1,10 @@
 # Parma – AS Roma
 **Serie A** · Regular Season - 12 · 21/11/2026 18:00 (hora España) · Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:25_
+_Actualizadas: 19/11 20:07_
 
 - **1X2:** 1 **9.00**  ·  X **5.75**  ·  2 **1.28**
 - **Doble oportunidad:** 1X **3.50**  ·  12 **1.14**  ·  X2 **1.07**
@@ -50,7 +50,7 @@ _Actualizadas: 19/11 08:25_
     - 2,5: más **1.62** · menos **2.20**
 - **Away Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
 - **Total ShotOnGoal:**
     - 8,5: más **1.73** · menos **2.00**
 - **ShotOnTarget 1x2:** 1 **5.50**  ·  X **9.00**  ·  2 **1.22**

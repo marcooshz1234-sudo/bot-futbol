@@ -1,10 +1,10 @@
 # Strasbourg – Stade Brestois 29
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:26_
+_Actualizadas: 19/11 20:07_
 
 - **1X2:** 1 **2.15**  ·  X **3.80**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.67**
@@ -53,7 +53,7 @@ _Actualizadas: 19/11 08:26_
     - 5,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 - **Home Team Total Cards:**
     - 1,5: más **1.62** · menos **2.20**
 - **Away Team Total Cards:**

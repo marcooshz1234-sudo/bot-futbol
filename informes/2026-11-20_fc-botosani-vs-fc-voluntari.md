@@ -1,51 +1,50 @@
 # FC Botosani – FC Voluntari
 **Liga I** · Regular Season - 16 · 20/11/2026 16:30 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:24_
+_Actualizadas: 19/11 20:06_
 
-- **1X2:** 1 **1.70**  ·  X **3.60**  ·  2 **4.50**
-- **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **2.10**
+- **1X2:** 1 **1.67**  ·  X **3.75**  ·  2 **4.33**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.10**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.70** · menos **2.10**
+    - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **11.00** · menos **1.05**
+    - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
+    - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Goles del visitante:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **10.00** · menos **1.06**
+    - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 9: más **1.82** · menos **1.98**
     - 9,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.88**
-- **1X2 descanso:** 1 **2.25**  ·  X **2.38**  ·  2 **4.75**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.38**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **4.00** · menos **1.22**
+    - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.40**  ·  2 **2.50**
 - **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **5.00**
-- **Win Both Halves:** 1 **4.50**  ·  2 **17.00**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **13.00**  ·  Away/No **9.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+- **Win Both Halves:** 1 **4.50**  ·  2 **19.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.25**  ·  Draw/No **13.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.75**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**

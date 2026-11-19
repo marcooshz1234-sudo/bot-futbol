@@ -1,14 +1,14 @@
 # Farul Constanta – Universitatea Cluj
 **Liga I** · Regular Season - 16 · 20/11/2026 19:30 (hora España) · Central Stadium Hagi Academy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:24_
+_Actualizadas: 19/11 20:06_
 
-- **1X2:** 1 **2.55**  ·  X **3.40**  ·  2 **2.50**
+- **1X2:** 1 **2.60**  ·  X **3.40**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.50**
-- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
@@ -34,19 +34,19 @@ _Actualizadas: 19/11 08:24_
     - 10: más **1.80** · menos **2.00**
     - 10,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.10**
-- **1X2 descanso:** 1 **3.10**  ·  X **2.30**  ·  2 **3.10**
+- **1X2 descanso:** 1 **3.20**  ·  X **2.30**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.83** · menos **1.83**
+    - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **To Win Either Half:** 1 **1.80**  ·  2 **1.80**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.50**
-- **Win Both Halves:** 1 **9.00**  ·  2 **9.00**
+- **To Win Either Half:** 1 **1.80**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.40**
+- **Win Both Halves:** 1 **9.00**  ·  2 **8.00**
 - **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.50**  ·  Home/No **5.00**  ·  Draw/No **13.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
 - **Home Corners Over/Under:**
     - 5,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**

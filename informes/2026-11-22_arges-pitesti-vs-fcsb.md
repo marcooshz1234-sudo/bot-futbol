@@ -1,10 +1,10 @@
 # Arges Pitesti – FCSB
 **Liga I** · Regular Season - 16 · 22/11/2026 19:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:21_
+_Actualizadas: 19/11 20:08_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.30**
@@ -28,6 +28,9 @@ _Actualizadas: 19/11 02:21_
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.90** · menos **1.90**
+- **Córners 1X2:** 1 **2.75**  ·  X **8.00**  ·  2 **1.57**
 - **1X2 descanso:** 1 **4.33**  ·  X **2.10**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -40,6 +43,11 @@ _Actualizadas: 19/11 02:21_
 - **Win Both Halves:** 1 **15.00**  ·  2 **6.50**
 - **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **4.50**  ·  Home/No **6.00**  ·  Draw/No **9.50**  ·  Away/No **3.40**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.20**
+- **Home Corners Over/Under:**
+    - 3,5: más **1.67** · menos **2.10**
+- **Away Corners Over/Under:**
+    - 5,5: más **2.00** · menos **1.73**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.62**  ·  Más de 4.5 **2.00**  ·  Menos de 4.5 **1.80**
 
 ## Estadísticas de equipo
 | | Arges Pitesti (total) | Arges Pitesti en casa | FCSB (total) | FCSB fuera |

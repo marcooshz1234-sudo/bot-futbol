@@ -1,20 +1,21 @@
 # FC Levante Badalona W – Deportivo de La Coruña W
 **Liga F** · Regular Season - 12 · 21/11/2026 12:00 (hora España) · Estadi Municipal de Badalona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:25_
+_Actualizadas: 19/11 20:06_
 
 - **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.25**  ·  X2 **1.62**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.25** · menos **3.75**
-    - 2,5: más **1.80** · menos **2.00**
-    - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **5.00** · menos **1.14**
-    - 5,5: más **8.50** · menos **1.05**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**

@@ -1,10 +1,10 @@
 # FC Schalke 04 – VfB Stuttgart
 **Bundesliga** · Regular Season - 10 · 21/11/2026 18:30 (hora España) · VELTINS-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:26_
+_Actualizadas: 19/11 20:07_
 
 - **1X2:** 1 **4.10**  ·  X **4.00**  ·  2 **1.80**
 - **Doble oportunidad:** 1X **1.95**  ·  12 **1.22**  ·  X2 **1.22**
@@ -12,7 +12,7 @@ _Actualizadas: 19/11 08:26_
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.62**
-    - 3,5: más **2.20** · menos **1.67**
+    - 3,5: más **2.10** · menos **1.73**
     - 4,5: más **3.75** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
@@ -22,12 +22,12 @@ _Actualizadas: 19/11 08:26_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.10** · menos **7.00**
-    - 1,5: más **1.53** · menos **2.38**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
@@ -60,7 +60,7 @@ _Actualizadas: 19/11 08:26_
 - **Total Shots:**
     - 28,5: más **1.80** · menos **1.91**
 - **Shots.1x2:** 1 **2.30**  ·  X **15.00**  ·  2 **1.62**
-- **Away Player Shots On Target Total:** Mertcan Ayhan **19.00**  ·  Chris Fuhrich **34.00**  ·  Edin Dzeko **12.00**  ·  Maximilian Mittelstadt **51.00**  ·  Nikola Katic **21.00**  ·  Maximilian Wober **26.00**  ·  Leo Sauer **34.00**  ·  Bilal El Khannous **51.00**  ·  Soufiane El-Faouzi **67.00**  ·  Satoshi Tanaka **67.00**  ·  Lorenz Assignon **41.00**  ·  Hasan Kurucay **17.00**  ·  Dzenan Pejcinovic **5.50**  ·  Dan-Axel Zagadou **21.00**  ·  Leonidas Stergiou **11.00**  ·  Nikolas Nartey **29.00**  ·  Dejan Ljubicic **41.00**  ·  Grischa Promel **11.00**  ·  Luca Vozar **29.00**  ·  Kenan Karaman **12.00**  ·  Moussa Sylla **15.00**  ·  Janik Bachmann **17.00**  ·  Bryan Lasme **6.50**  ·  Ron Schallenberg **23.00**  ·  Max Gruger **34.00**  ·  Adrian Gantenbein **29.00**  ·  Anton Donkor **51.00**  ·  Vitalie Becker **67.00**  ·  Finn Jeltsch **19.00**  ·  Yanik Spalt **41.00**  ·  Adil Aouchiche **34.00**  ·  Jarzinho Malanga **23.00**  ·  Edion Gashi **19.00**  ·  Robin Gosens **17.00**  ·  Angelo Stiller **51.00**  ·  Atakan Karazor **21.00**  ·  Deniz Undav **7.50**  ·  Ermedin Demirovic **7.50**  ·  Jamie Leweling **29.00**  ·  Josha Vagnoman **67.00**  ·  Ramon Hendriks **12.00**  ·  Julian Chabot **13.00**  ·  Ameen Al Dakhil **23.00**  ·  Eric Ebimbe **26.00**  ·  Hee-Chan Hwang **21.00**  ·  Finn Porath **51.00**  ·  Timo Becker **19.00**  ·  Tiago Tomas **15.00**  ·  Chukwubuike Adamu **8.00**  ·  Luca Jaquez **12.00**
+- **Away Player Shots On Target Total:** Mertcan Ayhan **19.00**  ·  Chris Fuhrich **34.00**  ·  Edin Dzeko **13.00**  ·  Maximilian Mittelstadt **51.00**  ·  Nikola Katic **21.00**  ·  Maximilian Wober **26.00**  ·  Leo Sauer **34.00**  ·  Bilal El Khannous **51.00**  ·  Soufiane El-Faouzi **67.00**  ·  Satoshi Tanaka **67.00**  ·  Lorenz Assignon **41.00**  ·  Hasan Kurucay **17.00**  ·  Dzenan Pejcinovic **5.50**  ·  Dan-Axel Zagadou **21.00**  ·  Leonidas Stergiou **11.00**  ·  Nikolas Nartey **26.00**  ·  Dejan Ljubicic **41.00**  ·  Grischa Promel **9.50**  ·  Luca Vozar **29.00**  ·  Kenan Karaman **13.00**  ·  Moussa Sylla **15.00**  ·  Janik Bachmann **19.00**  ·  Bryan Lasme **7.50**  ·  Ron Schallenberg **23.00**  ·  Max Gruger **34.00**  ·  Adrian Gantenbein **29.00**  ·  Anton Donkor **51.00**  ·  Vitalie Becker **67.00**  ·  Finn Jeltsch **19.00**  ·  Yanik Spalt **41.00**  ·  Adil Aouchiche **34.00**  ·  Jarzinho Malanga **23.00**  ·  Edion Gashi **19.00**  ·  Robin Gosens **19.00**  ·  Angelo Stiller **51.00**  ·  Atakan Karazor **21.00**  ·  Deniz Undav **7.50**  ·  Ermedin Demirovic **7.50**  ·  Jamie Leweling **29.00**  ·  Josha Vagnoman **81.00**  ·  Ramon Hendriks **12.00**  ·  Julian Chabot **13.00**  ·  Ameen Al Dakhil **23.00**  ·  Eric Ebimbe **26.00**  ·  Hee-Chan Hwang **23.00**  ·  Finn Porath **51.00**  ·  Timo Becker **19.00**  ·  Tiago Tomas **15.00**  ·  Chukwubuike Adamu **8.00**  ·  Luca Jaquez **12.00**
 - **Away Player Shots Total:**
     - 14,5: más **1.73** · menos **2.00**
 - **Home Player Shots:** Hee-Chan Hwang - 1 **1.18**  ·  Hee-Chan Hwang - 2 **1.83**  ·  Hee-Chan Hwang - 3 **3.50**  ·  Hee-Chan Hwang - 4 **7.00**  ·  Hee-Chan Hwang - 5 **17.00**  ·  Hee-Chan Hwang - 6 **13.00**  ·  Hee-Chan Hwang - 7 **21.00**  ·  Chukwubuike Adamu - 1 **1.08**  ·  Moussa Sylla - 1 **1.07**  ·  Kenan Karaman - 1 **1.18**  ·  Adil Aouchiche - 1 **1.07**  ·  Timo Becker - 1 **1.62**  ·  Eric Ebimbe - 1 **1.20**  ·  Robin Gosens - 1 **1.40**  ·  Janik Bachmann - 1 **1.33**  ·  Max Gruger - 1 **1.50**  ·  Satoshi Tanaka - 1 **1.40**  ·  Soufiane El-Faouzi - 1 **1.50**  ·  Vitalie Becker - 1 **1.33**  ·  Adrian Gantenbein - 1 **2.25**  ·  Ron Schallenberg - 1 **2.00**  ·  Anton Donkor - 1 **2.25**  ·  Hasan Kurucay - 1 **1.73**  ·  Maximilian Wober - 1 **1.83**  ·  Mertcan Ayhan - 1 **2.25**  ·  Nikola Katic - 1 **1.73**  ·  Chukwubuike Adamu - 2 **1.40**  ·  Moussa Sylla - 2 **1.33**  ·  Kenan Karaman - 2 **1.83**  ·  Adil Aouchiche - 2 **1.33**  ·  Timo Becker - 2 **3.75**  ·  Eric Ebimbe - 2 **1.83**  ·  Robin Gosens - 2 **2.62**  ·  Janik Bachmann - 2 **2.38**  ·  Max Gruger - 2 **3.25**  ·  Satoshi Tanaka - 2 **2.62**  ·  Soufiane El-Faouzi - 2 **3.25**  ·  Vitalie Becker - 2 **2.38**  ·  Adrian Gantenbein - 2 **8.00**  ·  Ron Schallenberg - 2 **5.50**  ·  Anton Donkor - 2 **8.00**  ·  Hasan Kurucay - 2 **4.33**  ·  Maximilian Wober - 2 **5.00**  ·  Mertcan Ayhan - 2 **8.00**  ·  Nikola Katic - 2 **4.33**  ·  Chukwubuike Adamu - 3 **2.10**  ·  Moussa Sylla - 3 **2.00**  ·  Kenan Karaman - 3 **3.50**  ·  Adil Aouchiche - 3 **2.00**  ·  Timo Becker - 3 **10.00**  ·  Eric Ebimbe - 3 **3.75**  ·  Robin Gosens - 3 **6.50**  ·  Janik Bachmann - 3 **5.50**  ·  Max Gruger - 3 **8.00**  ·  Satoshi Tanaka - 3 **6.50**  ·  Soufiane El-Faouzi - 3 **8.00**  ·  Vitalie Becker - 3 **5.50**  ·  Adrian Gantenbein - 3 **21.00**  ·  Ron Schallenberg - 3 **17.00**  ·  Anton Donkor - 3 **21.00**  ·  Hasan Kurucay - 3 **13.00**  ·  Maximilian Wober - 3 **15.00**  ·  Mertcan Ayhan - 3 **21.00**  ·  Nikola Katic - 3 **13.00**  ·  Chukwubuike Adamu - 4 **3.75**  ·  Moussa Sylla - 4 **3.40**  ·  Kenan Karaman - 4 **7.00**  ·  Adil Aouchiche - 4 **3.40**  ·  Timo Becker - 4 **21.00**  ·  Eric Ebimbe - 4 **8.00**  ·  Robin Gosens - 4 **17.00**  ·  Janik Bachmann - 4 **13.00**  ·  Max Gruger - 4 **19.00**  ·  Satoshi Tanaka - 4 **17.00**  ·  Soufiane El-Faouzi - 4 **19.00**  ·  Vitalie Becker - 4 **13.00**  ·  Chukwubuike Adamu - 5 **7.00**  ·  Moussa Sylla - 5 **6.50**  ·  Kenan Karaman - 5 **17.00**  ·  Adil Aouchiche - 5 **6.50**  ·  Timo Becker - 5 **21.00**  ·  Chukwubuike Adamu - 6 **15.00**  ·  Moussa Sylla - 6 **13.00**  ·  Kenan Karaman - 6 **13.00**  ·  Adil Aouchiche - 6 **13.00**  ·  Chukwubuike Adamu - 7 **21.00**  ·  Moussa Sylla - 7 **21.00**  ·  Eric Ebimbe - 5 **19.00**  ·  Robin Gosens - 5 **19.00**  ·  Edin Dzeko - 1 **1.04**  ·  Edin Dzeko - 2 **1.22**  ·  Edin Dzeko - 3 **1.62**  ·  Edin Dzeko - 4 **2.50**  ·  Edin Dzeko - 5 **4.33**  ·  Edin Dzeko - 6 **8.00**  ·  Luca Vozar - 1 **1.20**  ·  Luca Vozar - 2 **1.83**  ·  Luca Vozar - 3 **3.75**  ·  Luca Vozar - 4 **8.00**  ·  Luca Vozar - 5 **19.00**  ·  Edin Dzeko - 7 **15.00**  ·  Kenan Karaman - 7 **21.00**  ·  Edin Dzeko - 8 **21.00**  ·  Adil Aouchiche - 7 **21.00**

@@ -1,13 +1,13 @@
 # Swansea – West Brom
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Swansea.com Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:25_
+_Actualizadas: 19/11 20:07_
 
 - **1X2:** 1 **2.60**  ·  X **3.30**  ·  2 **2.70**
-- **Doble oportunidad:** 1X **1.40**  ·  12 **1.33**  ·  X2 **1.50**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.33**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.06** · menos **9.50**
@@ -20,8 +20,8 @@ _Actualizadas: 19/11 08:25_
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **8.00** · menos **1.08**
 - **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
     - 0,5: más **1.30** · menos **3.40**

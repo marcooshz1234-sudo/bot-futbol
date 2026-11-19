@@ -1,10 +1,10 @@
 # Estac Troyes – Le Havre
 **Ligue 1** · Regular Season - 11 · 20/11/2026 20:45 (hora España) · Stade de l'Aube
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:24_
+_Actualizadas: 19/11 20:06_
 
 - **1X2:** 1 **2.15**  ·  X **3.10**  ·  2 **3.40**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.36**  ·  X2 **1.67**
@@ -51,7 +51,7 @@ _Actualizadas: 19/11 08:24_
     - 4,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 3,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **1.85**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.20**
 - **Home Team Total Cards:**
     - 1,5: más **1.62** · menos **2.20**
 - **Away Team Total Cards:**

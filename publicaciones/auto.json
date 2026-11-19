@@ -8583,39 +8583,9 @@
     "cuotas_revisadas": "2026-11-19T19:08"
   },
   {
-    "id": "2026-11-19-loca-th-2000-tiros",
-    "fecha": "2026-11-19T20:00",
-    "texto": "🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CHÊNOIS (FEM.) 🎯\n\n⭐ Barcelona (fem.) – Servette Chênois (fem.) · 21:00\n🏹 Nicoli Kerolin: 4+ tiros\n🏹 Aitana Bonmati: 5+ tiros\n🏹 Claudia Pina: 7+ tiros\n🏹 Martina Gonzalez: 2+ tiros\n🏹 Francisca Nazareth: 3+ tiros\n\n🎯 CUOTA 3,86 aprox. 💎 · 10€ → 38,60€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1638297|Home Player Shots|Nicoli Kerolin - 4",
-      "1638297|Home Player Shots|Aitana Bonmati - 5",
-      "1638297|Home Player Shots|Claudia Pina - 7",
-      "1638297|Home Player Shots|Martina Gonzalez - 2",
-      "1638297|Home Player Shots|Francisca Nazareth - 3"
-    ],
-    "cuotas": [
-      1.33,
-      1.4,
-      1.17,
-      1.4,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 3.86,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-19T18:35"
-  },
-  {
     "id": "2026-11-20-ganadores-resto",
     "fecha": "2026-11-20T00:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇷🇴 FC Botosani - Win\n2. 🇩🇰 Aarhus Fremad - Win\n3. 🇩🇪 Bayern - Win\n4. 🇪🇸 FC Andorra - Win\n5. 🇫🇷 Estac Troyes - Win\n6. 🇪🇸 Athletic Club - Win",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🇷🇴 FC Botosani - Win\n2. 🇩🇰 Aarhus Fremad - Win\n3. 🇩🇪 Bayern - Win\n4. 🇪🇸 FC Andorra - Win\n5. 🇫🇷 Estac Troyes - Win\n6. 🇪🇸 Athletic Club - Win\n7. 🇵🇹 FC Porto - Win",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -8627,15 +8597,17 @@
       "1575221|Match Winner|Home",
       "1570025|Match Winner|Home",
       "1552827|Match Winner|Home",
-      "1570454|Match Winner|Home"
+      "1570454|Match Winner|Home",
+      "1647583|Match Winner|Home"
     ],
     "cuotas": [
-      1.7,
-      1.9,
+      1.67,
+      1.8,
       1.07,
-      1.9,
+      1.83,
       2.15,
-      1.45
+      1.48,
+      1.1
     ],
     "ganadores_img": {
       "titulo": "PARTIDOS DE HOY",
@@ -8688,6 +8660,14 @@
           "nombre": "Athletic Club",
           "pick": "WIN",
           "seleccion": false
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/212.png",
+          "nombre": "FC Porto",
+          "pick": "WIN",
+          "seleccion": false
         }
       ],
       "lema": "¿QUIÉN SE APUNTA?"
@@ -8696,15 +8676,15 @@
   {
     "id": "2026-11-20-pick-seguro",
     "fecha": "2026-11-20T10:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Athletic Club – Espanyol · 21:00\n\n🍀 Gana el Athletic Club @1,45\n\n👨‍💻 El Athletic Club va 7º y el Espanyol 15º en la liga.\n👨‍💻 El Athletic Club ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Pick de hoy, con datos detrás 📊\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 FC Andorra – Leganes · 20:30\n\n🍀 FC Andorra marca 2 o más @1,80\n\n👨‍💻 Los partidos del FC Andorra llevan 2,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Leganes llevan 3,2 goles de media (últimos 8).\n👨‍💻 FC Andorra está en descenso (20º): se juega mucho\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570454|Match Winner|Home"
+      "1570025|Total - Home|Over 1.5"
     ],
     "cuotas": [
-      1.45
+      1.8
     ]
   },
   {
@@ -8727,7 +8707,7 @@
   {
     "id": "2026-11-20-combi-multi",
     "fecha": "2026-11-20T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 7 PARTIDOS x16,02! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Botosani hace más córners\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n🇫🇷 Estac Troyes ve más de 1,5 tarjetas\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x28,83! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 FC Botosani hace más córners\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇪🇸 FC Andorra marca 2 o más\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇮🇹 Trento o empate\n🇫🇷 Estac Troyes ve más de 1,5 tarjetas\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -8736,8 +8716,9 @@
       "1551380|Double Chance|Home/Draw",
       "1551377|Total - Away|Over 0.5",
       "1565306|Double Chance|Home/Draw",
+      "1570025|Total - Home|Over 1.5",
       "1575221|Player Fouls Committed|Dayot Upamecano - 1",
-      "1570025|Corners 1x2|Home",
+      "1608379|Double Chance|Home/Draw",
       "1552827|Home Team Total Cards|Over 1.5"
     ],
     "cuotas": [
@@ -8745,6 +8726,7 @@
       1.53,
       1.4,
       1.5,
+      1.8,
       1.4,
       1.4,
       1.62
@@ -8752,9 +8734,56 @@
     "solo_redes": true
   },
   {
+    "id": "2026-11-20-pick-seguro-2",
+    "fecha": "2026-11-20T18:00",
+    "texto": "Pick de hoy, con datos detrás 📊\n\n🇪🇸 Athletic Club – Espanyol · 21:00\n\n🍀 Gana el Athletic Club @1,48\n\n👨‍💻 El Athletic Club va 7º y el Espanyol 15º en la liga.\n👨‍💻 El Athletic Club ha ganado 3 de sus últimos 5 partidos.\n👨‍💻 El Espanyol solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570454|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.48
+    ]
+  },
+  {
+    "id": "2026-11-20-estrella-1575221",
+    "fecha": "2026-11-20T19:55",
+    "texto": "Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (20:30) 🔥\n\n🍀 Marius Bulter comete 1+ faltas\n🍀 Joshua Kimmich: 1+ tiros\n🍀 Sebastian Sebulonsen: 1+ tiros\n🍀 1. FC Köln marca\n\n📈 Cuota @6,22 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575221|Player Fouls Committed|Marius Bulter - 1",
+      "1575221|Home Player Shots|Joshua Kimmich - 1",
+      "1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+      "1575221|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.57,
+      1.33,
+      2.0,
+      1.8
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Bayern München",
+      "visitante": "1. FC Köln",
+      "id_l": 157,
+      "id_v": 192,
+      "logo_l": "https://media.api-sports.io/football/teams/157.png",
+      "logo_v": "https://media.api-sports.io/football/teams/192.png",
+      "fecha": "2026-11-20T20:30",
+      "liga": "Bundesliga"
+    },
+    "cuota_total": 6.22,
+    "cuota_calculada": true
+  },
+  {
     "id": "2026-11-20-estrella-1570454",
     "fecha": "2026-11-20T20:25",
-    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Gana el Athletic Club\n\n📈 Cuota @2,62 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Gana el Athletic Club\n\n📈 Cuota @2,67 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -8766,7 +8795,7 @@
     "cuotas": [
       1.4,
       1.33,
-      1.45
+      1.48
     ],
     "espera_alineacion": true,
     "tarjeta": {
@@ -8779,27 +8808,26 @@
       "fecha": "2026-11-20T21:00",
       "liga": "LaLiga"
     },
-    "cuota_total": 2.62,
+    "solo_redes": true,
+    "cuota_total": 2.67,
     "cuota_calculada": true
   },
   {
     "id": "2026-11-21-picks-manana",
     "fecha": "2026-11-20T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡5 PICKS PARA MAÑANA! 🍀\n\n🇪🇸 Ruben Alcaraz (Granada CF): 1+ tiros\n🇮🇹 Gana el Lazio\n🇮🇹 Cagliari marca\n🇩🇪 Alexander Prass (Hoffenheim): 1+ tiros\n🇮🇹 Giana Erminio o empate\n\n⚽ ¡Combina máximo 2 o 3! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA MAÑANA! 🍀\n\n🇪🇸 Ruben Alcaraz (Granada CF): 1+ tiros\n🇮🇹 Gana el Lazio\n🇩🇪 Alexander Prass (Hoffenheim): 1+ tiros\n🇮🇹 Giana Erminio o empate\n\n⚽ ¡Cógelos sueltos o combínalos! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1570034|Away Player Shots|Ruben Alcaraz - 1",
       "1550202|Match Winner|Home",
-      "1550200|Total - Away|Over 0.5",
       "1575223|Away Player Shots|Alexander Prass - 1",
       "1608376|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      1.57,
+      1.53,
       1.33,
-      1.73,
       1.25,
       1.44
     ],
@@ -8821,9 +8849,9 @@
       "1570461|Match Winner|Home"
     ],
     "cuotas": [
-      2.15,
+      2.2,
       1.91,
-      2.35,
+      2.38,
       1.18
     ],
     "ganadores_img": {
@@ -8884,11 +8912,11 @@
       "1557475|Match Winner|Away"
     ],
     "cuotas": [
-      1.42,
+      1.4,
       1.8,
       1.91,
-      1.85,
-      1.5,
+      1.9,
+      1.53,
       1.57
     ],
     "ganadores_img": {
@@ -9027,9 +9055,9 @@
     ],
     "cuotas": [
       1.28,
-      1.6,
-      1.55,
-      1.45,
+      1.57,
+      1.5,
+      1.42,
       1.2,
       1.42
     ],
@@ -9106,7 +9134,7 @@
   {
     "id": "2026-11-21-combi-500",
     "fecha": "2026-11-21T12:00",
-    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Millwall ve más de 1,5 tarjetas\n🇮🇹 Gana el Lazio\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa ve más de 1,5 tarjetas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wolves ve más de 1,5 tarjetas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sheffield Utd ve más de 1,5 tarjetas\n🇷🇴 CFR 1907 Cluj gana alguna de las dos partes\n🇮🇹 Giana Erminio o empate\n🇫🇷 Lille gana alguna de las dos partes\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n\n📈 Cuota @501,58\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
+    "texto": "Vamos con la combi del día familia 🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Millwall ve más de 1,5 tarjetas\n🇮🇹 Gana el Lazio\n🇩🇪 Eintracht Frankfurt gana alguna de las dos partes\n🇩🇪 Más de 1,5 goles en la 2ª parte del Union Berlin–RB Leipzig\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Bournemouth\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa ve más de 1,5 tarjetas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wolves ve más de 1,5 tarjetas\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Tottenham–Ipswich\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sheffield Utd ve más de 1,5 tarjetas\n🇷🇴 CFR 1907 Cluj gana alguna de las dos partes\n🇮🇹 Giana Erminio o empate\n🇫🇷 Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29\n\n📈 Cuota @469,68\n\n🔔 Activad las notificaciones, que vienen más combis 👀\n\nℹ️ No hace falta coger todos los picks: es info de los que hemos analizado entre todos los partidos. Quédate con los que más te gusten 👌",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -9114,6 +9142,7 @@
       "1563267|Home Team Total Cards|Over 1.5",
       "1550202|Match Winner|Home",
       "1575223|To Win Either Half|Home",
+      "1575225|Goals Over/Under - Second Half|Over 1.5",
       "1557468|Match Winner|Home",
       "1557467|Home Team Total Cards|Over 1.5",
       "1563274|Home Team Total Cards|Over 1.5",
@@ -9121,12 +9150,12 @@
       "1563269|Home Team Total Cards|Over 1.5",
       "1565303|To Win Either Half|Home",
       "1608376|Double Chance|Home/Draw",
-      "1552820|To Win Either Half|Home",
       "1552826|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.5,
       1.33,
+      1.62,
       1.62,
       1.91,
       2.0,
@@ -9135,7 +9164,6 @@
       1.62,
       1.67,
       1.44,
-      1.73,
       1.83
     ],
     "solo_redes": true
@@ -9284,7 +9312,7 @@
     "cuotas": [
       1.67,
       1.62,
-      1.5,
+      1.53,
       1.73
     ],
     "solo_redes": true
@@ -9306,8 +9334,8 @@
     ],
     "cuotas": [
       1.17,
-      2.05,
-      1.75,
+      2.0,
+      1.8,
       1.55
     ],
     "ganadores_img": {
@@ -9368,7 +9396,7 @@
     "cuotas": [
       1.33,
       1.7,
-      1.5,
+      1.53,
       1.6
     ],
     "ganadores_img": {
@@ -9561,20 +9589,20 @@
   {
     "id": "2026-11-22-combi-partido-1575227",
     "fecha": "2026-11-22T16:55",
-    "texto": "Os dejo la combi del Werder Bremen – Hamburger SV 🇩🇪🔥\n\n🍀 Gana el Werder Bremen\n🍀 Werder Bremen marca 2 o más\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Miro Muheim: 1+ tiros\n\n📈 Cuota @5,40 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo la combi del Werder Bremen – Hamburger SV 🇩🇪🔥\n\n🍀 Gana el Werder Bremen\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Werder Bremen hace más tiros a puerta\n🍀 Miro Muheim: 1+ tiros\n\n📈 Cuota @6,89 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575227|Match Winner|Home",
-      "1575227|Total - Home|Over 1.5",
       "1575227|Goals Over/Under - Second Half|Over 1.5",
+      "1575227|ShotOnTarget 1x2|Home",
       "1575227|Away Player Shots|Miro Muheim - 1"
     ],
     "cuotas": [
       1.67,
-      1.53,
       1.73,
+      1.36,
       1.53
     ],
     "espera_alineacion": true,
@@ -9589,13 +9617,13 @@
       "liga": "Bundesliga"
     },
     "solo_redes": true,
-    "cuota_total": 5.4,
+    "cuota_total": 6.89,
     "cuota_calculada": true
   },
   {
     "id": "2026-11-22-estrella-1557473",
     "fecha": "2026-11-22T16:55",
-    "texto": "Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (17:30) 🔥\n\n🍀 Cody Gakpo comete 1+ faltas\n🍀 Florian Wirtz comete 1+ faltas\n🍀 Virgil van Dijk: 1+ tiros\n🍀 Ronald Araujo: 1+ tiros\n🍀 Liverpool marca 2 o más\n\n📈 Cuota @6,15 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (17:30) 🔥\n\n🍀 Cody Gakpo comete 1+ faltas\n🍀 Florian Wirtz comete 1+ faltas\n🍀 Virgil van Dijk: 1+ tiros\n🍀 Ronald Araujo: 1+ tiros\n🍀 Liverpool marca 2 o más\n\n📈 Cuota @5,54 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -9610,7 +9638,7 @@
       1.25,
       1.33,
       1.73,
-      1.57,
+      1.4,
       1.53
     ],
     "espera_alineacion": true,
@@ -9624,7 +9652,7 @@
       "fecha": "2026-11-22T17:30",
       "liga": "Premier"
     },
-    "cuota_total": 6.15,
+    "cuota_total": 5.54,
     "cuota_calculada": true
   },
   {
@@ -9860,7 +9888,7 @@
   {
     "id": "2026-11-23-semana-europa",
     "fecha": "2026-11-23T23:30",
-    "texto": "🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆\n\n🏆 MARTES — CHAMPIONS LEAGUE\n🇪🇸 REAL MADRID — GANA\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY — GANA\n🇪🇸 REAL BETIS — GANA\n\n🏆 MIÉRCOLES — CHAMPIONS LEAGUE\n🇪🇸 BARCELONA — GANA\n🇪🇸 ATLÉTICO — GANA\n🇩🇪 BAYERN — GANA\n\n🏆 JUEVES — EUROPA LEAGUE\n🇦🇹 RED BULL SALZBURG — GANA\n🇫🇷 LYON — GANA\n🇮🇹 JUVENTUS — GANA\n\n🏆 JUEVES — CONFERENCE LEAGUE\n🇵🇹 SC BRAGA — GANA\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BRIGHTON — GANA\n🇳🇱 AJAX — GANA\n\n📊 ¿Cuántos aciertas tú? 👇💚",
+    "texto": "🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆\n\n🏆 MARTES — CHAMPIONS LEAGUE\n🇪🇸 REAL MADRID — GANA\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 MANCHESTER CITY — GANA\n🇪🇸 REAL BETIS — GANA\n\n🏆 MIÉRCOLES — CHAMPIONS LEAGUE\n🇪🇸 BARCELONA — GANA\n🇪🇸 ATLÉTICO — GANA\n🇩🇪 BAYERN — GANA\n\n🏆 JUEVES — EUROPA LEAGUE\n🇦🇹 RED BULL SALZBURG — GANA\n🇫🇷 LYON — GANA\n🇹🇷 BEŞIKTAŞ — GANA\n\n🏆 JUEVES — CONFERENCE LEAGUE\n🇵🇹 SC BRAGA — GANA\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 BRIGHTON — GANA\n🇳🇱 AJAX — GANA\n\n📊 ¿Cuántos aciertas tú? 👇💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -9873,7 +9901,7 @@
       "1635682|Match Winner|Away",
       "1636334|Match Winner|Home",
       "1636294|Match Winner|Home",
-      "1636277|Match Winner|Home",
+      "1636231|Match Winner|Home",
       "1636389|Match Winner|Home",
       "1636395|Match Winner|Home",
       "1636381|Match Winner|Home"

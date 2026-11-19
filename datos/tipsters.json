@@ -3589,7 +3589,13 @@
    "Se espera dominio local con muchas llegadas",
    "Si el favorito marca pronto, el partido puede abrirse y sumar goles"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1638327,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.5,
+   "prob_cuota": 0.654
+  }
  },
  {
   "tipster": "AllSportsPicks ⚽🏀🎾",
@@ -3627,6 +3633,12 @@
    "Servette llega muy por debajo en calidad y profundidad",
    "En la Champions femenina estos cruces desiguales acaban con marcadores abultados"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1638297,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.44,
+   "prob_cuota": 0.654
+  }
  }
 ]

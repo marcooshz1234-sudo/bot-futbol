@@ -1,7 +1,7 @@
 # FC Iberia 1999 – Getafe
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Mikheil Meskhi Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
 _Actualizadas: 19/11 08:27_

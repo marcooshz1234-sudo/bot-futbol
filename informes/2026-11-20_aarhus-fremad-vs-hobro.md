@@ -1,12 +1,12 @@
 # Aarhus Fremad – Hobro
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Jysk Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:24_
+_Actualizadas: 19/11 20:06_
 
-- **1X2:** 1 **1.90**  ·  X **3.60**  ·  2 **3.70**
+- **1X2:** 1 **1.80**  ·  X **3.70**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
