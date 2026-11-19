@@ -44,4 +44,5 @@ class TamanoGratis(unittest.TestCase):
         import oracle_a1
         self.assertLessEqual(oracle_a1.OCPU, 2)
         self.assertLessEqual(oracle_a1.MEMORIA, 12)
+        self.assertEqual((oracle_a1.OCPU, oracle_a1.MEMORIA), (1, 6))   # 19/11: lo pequeño, que tiene hueco antes
         self.assertLessEqual(oracle_a1.DISCO, 200)
