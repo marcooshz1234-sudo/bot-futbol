@@ -101,6 +101,17 @@
   "2026-11-18-loca-th-1930-duelo|Anouk Van Praet: 2+ tiros",
   "2026-11-18-loca-th-1930-duelo|Emma Godo: 2+ tiros",
   "2026-11-18-loca-th-2030-duelo|Annamaria Serturini: 3+ tiros",
+  "2026-11-19-loca-th-0700-x500|Karla Torres: 4+ tiros",
+  "2026-11-19-loca-th-0930-tiros|Maeline Mendy: 4+ tiros",
+  "2026-11-19-loca-th-0930-tiros|Manoly Baquerizo: 2+ tiros",
+  "2026-11-19-loca-th-0930-tiros|Mariam Toloba: 3+ tiros",
+  "2026-11-19-loca-th-1430-escudos|Jovana Damnjanovic: 4+ tiros",
+  "2026-11-19-loca-th-1430-escudos|Lena Oberdorf: 2+ tiros",
+  "2026-11-19-loca-th-1430-escudos|Vanessa Gilles: 2+ tiros",
+  "2026-11-19-loca-th-1500-escudos|Anaele Le Moguedec: 2+ tiros",
+  "2026-11-19-loca-th-1500-escudos|Maeline Mendy marca",
+  "2026-11-19-loca-th-1530-duelo|Manoly Baquerizo: 2+ tiros",
+  "2026-11-19-loca-th-1630-x100|Maeline Mendy marca",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -2421,16 +2432,293 @@
    }
   },
   "1638327": {
-   "hora": "2026-11-19T18:13:57.788013+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-19T18:24:46.136303+01:00",
+   "xi": [
+    "M. Chavas",
+    "H. Diaz",
+    "C. Ould Hocine",
+    "T. Greboval",
+    "Kenza Dufour",
+    "K. Korošec",
+    "S. Scott",
+    "Aurelie reynders",
+    "A. Le MogueÌdec",
+    "C. Matéo",
+    "É. Viens",
+    "L. Kozal",
+    "M. Schultz",
+    "M. Uhre",
+    "S. Boye",
+    "Emma Flick",
+    "C. Paulson",
+    "Mwanalima Jereko",
+    "M. Gejl",
+    "S. Thygesen",
+    "K. Carusa",
+    "N. Nadim"
+   ],
+   "banquillo": [
+    "H. Sangaré",
+    "Mariam Toloba",
+    "O. Picard",
+    "H. Said",
+    "K. Seweryn",
+    "Karla Dayana Torres García",
+    "Kadidia Traore",
+    "S. Yerro",
+    "Maeline Mendy",
+    "S. Ishizaka",
+    "M. Baquerizo",
+    "R. Mendonca",
+    "A. Callesen",
+    "S. Jones",
+    "R. Madsen",
+    "L. Hermann",
+    "E. Møller",
+    "A. Oyama",
+    "Y. Sakabe",
+    "A. Vingum",
+    "Z. Witek",
+    "E. Oskarsdottir",
+    "M. Chipasula",
+    "M. Wendicke"
+   ],
+   "equipos": {
+    "1676": [
+     {
+      "n": "M. Chavas",
+      "pos": "G"
+     },
+     {
+      "n": "H. Diaz",
+      "pos": "D"
+     },
+     {
+      "n": "C. Ould Hocine",
+      "pos": "D"
+     },
+     {
+      "n": "T. Greboval",
+      "pos": "D"
+     },
+     {
+      "n": "Kenza Dufour",
+      "pos": "D"
+     },
+     {
+      "n": "K. Korošec",
+      "pos": "M"
+     },
+     {
+      "n": "S. Scott",
+      "pos": "M"
+     },
+     {
+      "n": "Aurelie reynders",
+      "pos": "M"
+     },
+     {
+      "n": "A. Le MogueÌdec",
+      "pos": "M"
+     },
+     {
+      "n": "C. Matéo",
+      "pos": "M"
+     },
+     {
+      "n": "É. Viens",
+      "pos": "F"
+     }
+    ],
+    "13982": [
+     {
+      "n": "L. Kozal",
+      "pos": "G"
+     },
+     {
+      "n": "M. Schultz",
+      "pos": "D"
+     },
+     {
+      "n": "M. Uhre",
+      "pos": "D"
+     },
+     {
+      "n": "S. Boye",
+      "pos": "D"
+     },
+     {
+      "n": "Emma Flick",
+      "pos": "D"
+     },
+     {
+      "n": "C. Paulson",
+      "pos": "M"
+     },
+     {
+      "n": "Mwanalima Jereko",
+      "pos": "M"
+     },
+     {
+      "n": "M. Gejl",
+      "pos": "M"
+     },
+     {
+      "n": "S. Thygesen",
+      "pos": "M"
+     },
+     {
+      "n": "K. Carusa",
+      "pos": "F"
+     },
+     {
+      "n": "N. Nadim",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1638292": {
-   "hora": "2026-11-19T18:13:57.788013+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-19T18:24:46.136303+01:00",
+   "xi": [
+    "E. Goetz",
+    "C. Wenninger",
+    "K. Schiechtl",
+    "V. Kirchberger",
+    "Y. Weilharter",
+    "T. Weiss",
+    "L. Cordes",
+    "V. Hanshaw",
+    "V. Potzl",
+    "P. Pfanner",
+    "E. Pfattner",
+    "E. Mahmutovic",
+    "G. Gwinn",
+    "G. Viggósdóttir",
+    "M. Eriksson",
+    "F. Kett",
+    "M. Tanikawa",
+    "S. Zadrazil",
+    "L. Dallmann",
+    "P. Harder",
+    "K. Bühl",
+    "E. Imade"
+   ],
+   "banquillo": [
+    "S. Jakobsen",
+    "A. Glibo",
+    "K. Gartner",
+    "L. Orkic",
+    "N. Pichler",
+    "C. Pucci",
+    "A. Schorn",
+    "E. Schäfer",
+    "A. Sisic",
+    "Dominika Škorvánková",
+    "A. Åehitler",
+    "R. van Eijk",
+    "S. Proost",
+    "K. Naschenweng",
+    "S. Mattner-Trembleau",
+    "A. Klink",
+    "B. Dunst",
+    "J. DamnjanoviÄ",
+    "S. Ballisager"
+   ],
+   "equipos": {
+    "17575": [
+     {
+      "n": "E. Goetz",
+      "pos": "G"
+     },
+     {
+      "n": "C. Wenninger",
+      "pos": "D"
+     },
+     {
+      "n": "K. Schiechtl",
+      "pos": "D"
+     },
+     {
+      "n": "V. Kirchberger",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Weilharter",
+      "pos": "M"
+     },
+     {
+      "n": "T. Weiss",
+      "pos": "M"
+     },
+     {
+      "n": "L. Cordes",
+      "pos": "M"
+     },
+     {
+      "n": "V. Hanshaw",
+      "pos": "M"
+     },
+     {
+      "n": "V. Potzl",
+      "pos": "F"
+     },
+     {
+      "n": "P. Pfanner",
+      "pos": "F"
+     },
+     {
+      "n": "E. Pfattner",
+      "pos": "F"
+     }
+    ],
+    "1860": [
+     {
+      "n": "E. Mahmutovic",
+      "pos": "G"
+     },
+     {
+      "n": "G. Gwinn",
+      "pos": "D"
+     },
+     {
+      "n": "G. Viggósdóttir",
+      "pos": "D"
+     },
+     {
+      "n": "M. Eriksson",
+      "pos": "D"
+     },
+     {
+      "n": "F. Kett",
+      "pos": "D"
+     },
+     {
+      "n": "M. Tanikawa",
+      "pos": "M"
+     },
+     {
+      "n": "S. Zadrazil",
+      "pos": "M"
+     },
+     {
+      "n": "L. Dallmann",
+      "pos": "M"
+     },
+     {
+      "n": "P. Harder",
+      "pos": "M"
+     },
+     {
+      "n": "K. Bühl",
+      "pos": "M"
+     },
+     {
+      "n": "E. Imade",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

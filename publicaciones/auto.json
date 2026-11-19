@@ -8221,18 +8221,12 @@
   {
     "id": "2026-11-19-loca-th-0930-tiros",
     "fecha": "2026-11-19T09:30",
-    "texto": "🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯\n\n⭐ Paris FC (fem.) – Køge (fem.) · 18:45\n✅ 🎳 Kenza Dufour: 2+ tiros\n✅ 🎳 Manoly Baquerizo: 2+ tiros\n✅ 🎳 Mariam Toloba: 3+ tiros\n✅ 🎳 Maeline Mendy: 4+ tiros\n✅ 🎳 Aurelie Reynders: 3+ tiros\n\n🎯 CUOTA 3,75 aprox. 💎 · 10€ → 37,50€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "texto": "🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯\n\n⭐ Paris FC (fem.) – Køge (fem.) · 18:45\n✅ 🎳 Kenza Dufour: 2+ tiros\n✅ 🎳 Aurelie Reynders: 3+ tiros\n\n🎯 CUOTA 1,95 aprox. 💎 · 10€ → 37,50€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
     "sel": [
       "1638327|Home Player Shots|Kenza Dufour - 2",
-      "1638327|Home Player Shots|Manoly Baquerizo - 2",
-      "1638327|Home Player Shots|Mariam Toloba - 3",
-      "1638327|Home Player Shots|Maeline Mendy - 4",
       "1638327|Home Player Shots|Aurelie Reynders - 3"
     ],
     "cuotas": [
-      1.4,
-      1.4,
-      1.4,
       1.4,
       1.44
     ],
@@ -8246,7 +8240,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-19T08:03"
+    "cuotas_revisadas": "2026-11-19T08:03",
+    "revisado_alineaciones": "2026-11-19T18:24"
   },
   {
     "id": "2026-11-19-escalera",
@@ -8349,14 +8344,11 @@
   {
     "id": "2026-11-19-loca-th-1430-escudos",
     "fecha": "2026-11-19T14:30",
-    "texto": "🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥\n\n⭐ Austria Wien (fem.) vs Bayern Munich (fem.) · 18:45\n\n✅ 🎯 Edna Imade marca\n✅ 🔫 Linda Dallmann: 3+ tiros\n✅ 📈 Bayern Munich (fem.) marca en las dos partes\n✅ 🔫 Vanessa Gilles: 2+ tiros\n✅ 🔫 Jovana Damnjanovic: 4+ tiros\n✅ 🔫 Lena Oberdorf: 2+ tiros\n✅ 📈 +1,5 goles en la 2ª parte de Austria Wien (fem.)–Bayern Munich (fem.)\n✅ 👑 Bayern Munich (fem.) gana las dos partes\n\n🎯 CUOTA 9,87 aprox. 💎 10€ → 98,70€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥\n\n⭐ Austria Wien (fem.) vs Bayern Munich (fem.) · 18:45\n\n✅ 🎯 Edna Imade marca\n✅ 🔫 Linda Dallmann: 3+ tiros\n✅ 📈 Bayern Munich (fem.) marca en las dos partes\n✅ 📈 +1,5 goles en la 2ª parte de Austria Wien (fem.)–Bayern Munich (fem.)\n✅ 👑 Bayern Munich (fem.) gana las dos partes\n\n🎯 CUOTA 3,70 aprox. 💎 10€ → 98,70€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1638292|Anytime Goal Scorer|Edna Imade",
       "1638292|Away Player Shots|Linda Dallmann - 3",
       "1638292|To Score In Both Halves By Teams|Away",
-      "1638292|Away Player Shots|Vanessa Gilles - 2",
-      "1638292|Away Player Shots|Jovana Damnjanovic - 4",
-      "1638292|Away Player Shots|Lena Oberdorf - 2",
       "1638292|Goals Over/Under - Second Half|Over 1.5",
       "1638292|Win Both Halves|Away"
     ],
@@ -8364,9 +8356,6 @@
       1.4,
       1.5,
       1.5,
-      1.5,
-      1.44,
-      1.53,
       1.5,
       1.91
     ],
@@ -8388,7 +8377,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-19T13:03"
+    "cuotas_revisadas": "2026-11-19T13:03",
+    "revisado_alineaciones": "2026-11-19T18:24"
   },
   {
     "id": "2026-11-19-loca-th-1500-escudos",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 18:14",
+ "actualizado": "2026-11-19 18:25",
  "redes": {
   "instagram": {
    "seguidores": 51,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 485,
-   "hoy": 6,
+   "seguidores": 486,
+   "hoy": 7,
    "serie": [
     401,
     404,
@@ -50,17 +50,17 @@
     439,
     471,
     479,
-    485
+    486
    ]
   }
  },
- "total": 3765,
- "total_hoy": 19,
+ "total": 3766,
+ "total_hoy": 20,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:15",
+  "hora": "19:00",
   "dia": "2026-11-19",
-  "titulo": "Vamos con el pick de la tarde"
+  "titulo": "Córners del día"
  },
  "ayer": null,
  "escalera": {
@@ -233,7 +233,7 @@
    "instagram": 51,
    "threads": 3228,
    "facebook": 1,
-   "telegram": 485
+   "telegram": 486
   }
  },
  "tipos_instagram": {
