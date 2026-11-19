@@ -26,6 +26,7 @@ API = "https://api.buffer.com"
 ESTADO_F = "x_buffer.json"
 VENTANA_H = 3          # solo lo publicado en Threads en las últimas 3 h (nada viejo al arrancar)
 MAX_DIA = 5
+YA_ESTA = re.compile(r"already got this one|post the same thing twice", re.I)
 FUERTE = re.compile(r"-(escalera|pick-seguro(-\d+)?|ganadores[-\w]*|verde-[-\w]+)$|-x(50|100|500)$")
 
 
@@ -212,6 +213,11 @@ def main(ahora=None):
             print("x_buffer: subido", p["id"])
         else:
             msg = res.get("message") or json.dumps(r.get("errors"), ensure_ascii=False)[:300]
+            if YA_ESTA.search(msg):   # 19/11: Buffer dice que ya lo tiene (subido en una tanda que no guardó el registro)
+                estado.setdefault("enviados", {})[p["id"]] = {"cuando": ahora.strftime("%Y-%m-%dT%H:%M"), "buffer": None,
+                                                            "nota": "Buffer: ya estaba subido"}
+                estado.get("fallos", {}).pop(p["id"], None)
+                continue
             estado.setdefault("fallos", {})[p["id"]] = {"cuando": ahora.strftime("%Y-%m-%dT%H:%M"), "error": msg}
             print("x_buffer: FALLO", p["id"], msg)
             break   # p. ej. la cola de Buffer llena: se reintenta en la próxima vuelta

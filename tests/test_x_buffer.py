@@ -65,6 +65,9 @@ class Buffer(unittest.TestCase):
         self.assertIn('assets: [{image: {url: "https://raw.githubusercontent.com/a.jpg"}}]', q)
         self.assertIn('text: "Hola \\"X\\" 🔥"', q)
 
+    def test_duplicado_de_buffer_cuenta_como_subido(self):   # 19/11: no puede atascar lo siguiente
+        self.assertTrue(xb.YA_ESTA.search("Invalid post: Whoops, it looks like you've already got this one scheduled"))
+
     def test_hilo(self):
         q = xb.mutacion(xb.entrada("c1", ["uno", "dos"], None, AHORA))
         self.assertIn('metadata: {twitter: {thread: [{text: "uno"}, {text: "dos"}]}}', q)
