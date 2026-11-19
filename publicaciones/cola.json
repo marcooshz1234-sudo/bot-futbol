@@ -9091,5 +9091,20 @@
     "rojo_de": "2026-11-19-pick-seguro-2",
     "requiere_ok": true,
     "sin_instagram": true
+  },
+  {
+    "id": "2026-11-19-balance-auto",
+    "fecha": "2026-11-19T23:15",
+    "texto": "📊 RESUMEN DEL JUEVES 🍀\n\n✅ 3 de 5 picks en verde\n\n😤 Se nos escaparon:\n🔸 Combi de 2 (se cayó por: Ambos marcan en Arsenal (fem.)–Lyon (fem.)) · Arsenal (fem.) 0–2 Lyon (fem.)\n🔸 SL Benfica (fem.) o empate @1,40 · SL Benfica (fem.) 2–3 Roma (fem.)\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-19-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "requiere_ok": true,
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
   }
 ]
