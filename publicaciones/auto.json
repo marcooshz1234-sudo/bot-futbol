@@ -10759,9 +10759,9 @@
     "cuotas": [
       1.73,
       1.5,
-      1.5,
+      1.44,
       1.57,
-      1.53,
+      1.44,
       1.67,
       1.57
     ],
@@ -10774,7 +10774,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-19T21:31"
   },
   {
     "id": "2026-11-20-loca-th-noche-2330-escudos",
