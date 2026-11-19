@@ -8251,7 +8251,7 @@
   {
     "id": "2026-11-19-pick-seguro",
     "fecha": "2026-11-19T10:30",
-    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Austria Wien (fem.) – Bayern Munich (fem.) · 18:45\n\n🍀 Bayern Munich (fem.) marca 3 o más @1,44\n\n👨‍💻 Los partidos del Austria Wien (fem.) llevan 3,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⚽ Austria Wien (fem.) – Bayern Munich (fem.) · 18:45\n\n🍀 Bayern Munich (fem.) marca 3 o más @1,33\n\n👨‍💻 Los partidos del Austria Wien (fem.) llevan 3,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -8259,8 +8259,9 @@
       "1638292|Total - Away|Over 2.5"
     ],
     "cuotas": [
-      1.44
-    ]
+      1.33
+    ],
+    "cuotas_revisadas": "2026-11-19T09:11"
   },
   {
     "id": "2026-11-19-escalera",
