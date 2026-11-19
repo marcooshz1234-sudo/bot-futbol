@@ -9108,6 +9108,13 @@
     "requiere_ok": true,
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
     "enviado": "2026-11-19T23:47",
-    "mensaje_id": 557
+    "mensaje_id": 557,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]

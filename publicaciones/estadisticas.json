@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-19 23:50",
+ "actualizado": "2026-11-20 00:02",
  "redes": {
   "instagram": {
    "seguidores": 52,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
-    40,
     40,
     41,
     44,
     48,
     51,
+    52,
     52
    ]
   },
   "threads": {
    "seguidores": 3230,
-   "hoy": 15,
+   "hoy": 0,
    "serie": [
-    2738,
     2776,
     2792,
     3009,
     3160,
     3215,
+    3230,
     3230
    ]
   },
@@ -42,25 +42,25 @@
   },
   "telegram": {
    "seguidores": 485,
-   "hoy": 6,
+   "hoy": 0,
    "serie": [
-    401,
     404,
     411,
     439,
     471,
     479,
+    485,
     485
    ]
   }
  },
  "total": 3768,
- "total_hoy": 22,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-20",
-  "titulo": "Partidos de hoy - ganadores"
+  "titulo": "Pick de hoy, con datos detrás"
  },
  "ayer": null,
  "escalera": {
@@ -234,16 +234,22 @@
    "threads": 3230,
    "facebook": 1,
    "telegram": 485
+  },
+  "2026-11-20": {
+   "instagram": 52,
+   "threads": 3230,
+   "facebook": 1,
+   "telegram": 485
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 51,
+   "posts": 52,
    "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

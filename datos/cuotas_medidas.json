@@ -3569,5 +3569,277 @@
     0.88
    ]
   ]
+ },
+ {
+  "id": "2026-11-20-loca-th-0300-duelo",
+  "fecha": "2026-11-20T03:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570025|Home Player Shots|Lautaro de Leon - 3",
+   "1570025|Away Player Shots|Alex Millan - 2"
+  ],
+  "cuotas": [
+   1.5,
+   1.44
+  ],
+  "real": 2.21,
+  "multiplicando": 2.16,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-20-loca-th-1100-tiros",
+  "fecha": "2026-11-20T11:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570025|Home Player Shots|Stefan Golubovic - 3",
+   "1570025|Home Player Shots|Julian Rijkhoff - 3",
+   "1570025|Home Player Shots|Moro Sidibe - 3",
+   "1570025|Away Player Shots|Dani Rodriguez - 2",
+   "1570025|Away Player Shots|Yassine Kechta - 2"
+  ],
+  "cuotas": [
+   1.57,
+   1.57,
+   1.57,
+   1.57,
+   1.57
+  ],
+  "real": 9.53,
+  "multiplicando": 9.539,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-20-loca-th-1130-duelo",
+  "fecha": "2026-11-20T11:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570025|Home Player Shots|Stefan Golubovic - 3",
+   "1570025|Away Player Shots|Dani Rodriguez - 2"
+  ],
+  "cuotas": [
+   1.57,
+   1.57
+  ],
+  "real": 2.52,
+  "multiplicando": 2.465,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-20-loca-th-1230-escudos",
+  "fecha": "2026-11-20T12:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1565308|To Win Either Half|Home",
+   "1565308|Total - Away|Over 0.5",
+   "1565308|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.83
+  ],
+  "real": 3.2,
+  "multiplicando": 3.689,
+  "aj": 0.8571897297133307,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-20-loca-th-1500-escudos",
+  "fecha": "2026-11-20T15:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1551377|Total - Away|Over 0.5",
+   "1551377|To Win Either Half|Home",
+   "1551377|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.5,
+   2.0
+  ],
+  "real": 3.57,
+  "multiplicando": 4.2,
+  "aj": 0.8394728657281251,
+  "parejas": []
+ },
+ {
+  "id": "2026-11-20-loca-th-1600-escudos",
+  "fecha": "2026-11-20T16:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552827|Away Player Shots|Rayan Fofana - 2",
+   "1552827|Home Player Shots|Hugo Picard - 2",
+   "1552827|To Win Either Half|Home",
+   "1552827|Both Teams Score|Yes"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.62,
+   1.7
+  ],
+  "real": 6.04,
+  "multiplicando": 5.552,
+  "aj": 0.9068193370028135,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-20-loca-th-1630-escudos",
+  "fecha": "2026-11-20T16:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570025|To Win Either Half|Home",
+   "1570025|Away Player Shots|Alex Millan - 2",
+   "1570025|Total - Away|Over 0.5",
+   "1570025|Home Player Shots|Lautaro de Leon - 3"
+  ],
+  "cuotas": [
+   1.44,
+   1.44,
+   1.44,
+   1.5
+  ],
+  "real": 5.59,
+  "multiplicando": 4.479,
+  "aj": 1.1678064747015033,
+  "parejas": [
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "jugador+resultado/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-20-loca-th-1700-escudos",
+  "fecha": "2026-11-20T17:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570454|Player Fouls Committed|Nico Williams - 1",
+   "1570454|Player Fouls Committed|Alex Berenguer - 1",
+   "1570454|Match Winner|Home",
+   "1570454|Total - Home|Over 1.5"
+  ],
+  "cuotas": [
+   1.4,
+   1.44,
+   1.48,
+   1.57
+  ],
+  "real": 4.41,
+  "multiplicando": 4.684,
+  "aj": 0.7194034889199766,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ]
+  ]
  }
 ]
