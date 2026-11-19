@@ -34,6 +34,12 @@ class ChocarPorRed(unittest.TestCase):
         fallos = [f for f in C.comprobar(tg, "x") if f[0] == "choca"]
         self.assertEqual(fallos, [])
 
+    def test_bloquea_tambien_por_red(self):   # bloquea pasaba «otros» de todas las redes y el pick de París no salía
+        tg = {"id": "2026-11-19-pick-claude-1", "solo_en": ["telegram"], "origen": "claude", "sel": ["9|Match Winner|Home"],
+              "cuotas": [1.57], "texto": "🍀 Gana el Paris FC (fem.) @1,57"}
+        motivo = C.bloquea(tg, tg["texto"]) or ""
+        self.assertNotIn("choca", motivo)
+
     def test_misma_red_no(self):
         th = {"id": "2026-11-19-loca-th-1200-x50", "solo_en": ["threads"], "sel": ["9|Match Winner|Home"]}
         self.assertTrue([f for f in C.comprobar(th, "x") if f[0] == "choca"])

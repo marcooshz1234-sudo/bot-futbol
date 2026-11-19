@@ -370,7 +370,7 @@ def bloquea(p, texto=None):
     except Exception as e:
         print("comprobar_post duplicado:", e)
     try:
-        f = [x for x in comprobar(p, texto, otros=_sin_este(p)) if x[0] in GRAVES and x[0] not in ("repetido", "choca")
+        f = [x for x in comprobar(p, texto) if x[0] in GRAVES and x[0] not in ("repetido", "choca")
              or (x[0] in ("repetido", "choca") and not es_copia(p) and p.get("origen") == "claude")]
     except Exception as e:
         print("comprobar_post:", e)
@@ -399,7 +399,7 @@ if __name__ == "__main__":
     malos = 0
     for p in cola:
         if p["id"] in ids:
-            f = comprobar(p, otros=_sin_este(p))
+            f = comprobar(p)
             if f:
                 malos += 1
                 print(f"❌ {p['id']}:\n   " + "\n   ".join(f"[{r}] {m}" for r, m in f))

@@ -258,7 +258,7 @@ def revisar(ahora=None):
             t = cuando(p)
             if not t or not (ahora <= t <= ahora + timedelta(hours=36)) or publicado(p) or not vivo(p, control):
                 continue
-            for regla, motivo in CP.comprobar(p, (control.get("textos") or {}).get(p["id"]), otros=CP._sin_este(p)):
+            for regla, motivo in CP.comprobar(p, (control.get("textos") or {}).get(p["id"])):
                 if regla in ("crear", "texto", "mercado", "caido", "choca", "repetido"):
                     continue   # «crear»: se le pide aparte; las demás ya tienen su propio aviso arriba
                 out.append((f"regla-{regla}-{p['id']}", f"📏 Regla ({regla}): {motivo} · «{(p.get('texto') or '').strip().splitlines()[0][:50]}» ({p['fecha'][11:16]})"))
