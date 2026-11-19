@@ -41,7 +41,7 @@
    "justa": 1.66,
    "ev": 0.009,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Aarhus Fremad",
@@ -52,7 +52,7 @@
    "justa": 1.93,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 5.1
+   "edad_h": 5.5
   },
   {
    "local": "SL Benfica W",
@@ -63,11 +63,11 @@
    "justa": 1.85,
    "ev": -0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T13:33",
+  "hora": "2026-11-19T13:54",
   "revisadas": 0,
   "mejor": null
  },
