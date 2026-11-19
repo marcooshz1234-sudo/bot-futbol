@@ -7141,39 +7141,57 @@
   "1552827": [
    {
     "equipo": 110,
+    "jugador": "J. M. Diaz",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 110,
     "jugador": "Y. Kone",
     "tipo": "Missing Fixture",
-    "motivo": "Jumpers Knee"
-   },
-   {
-    "equipo": 111,
-    "jugador": "E. Jelert",
-    "tipo": "Missing Fixture",
-    "motivo": "Thigh Problems"
-   },
-   {
-    "equipo": 111,
-    "jugador": "L. Mpasi",
-    "tipo": "Missing Fixture",
-    "motivo": "Achilles Tendon Problems"
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 111,
     "jugador": "F. Mambimbi",
     "tipo": "Missing Fixture",
-    "motivo": "Achilles Tendon Problems"
+    "motivo": "Achilles Tendon Injury"
    },
    {
     "equipo": 111,
-    "jugador": "Stephan Zagadou",
+    "jugador": "D. Mosengo",
     "tipo": "Missing Fixture",
-    "motivo": "Jumpers Knee"
+    "motivo": "Ankle Injury"
    },
    {
     "equipo": 111,
-    "jugador": "T. Pembélé",
+    "jugador": "L. Mpasi-Nzau",
     "tipo": "Missing Fixture",
-    "motivo": "Muscle Bruise"
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "S. Nakamura",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "R. Ndiaye",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "T. Pembele",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 111,
+    "jugador": "S. Zagadou",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
    }
   ],
   "1608379": [],
@@ -7298,7 +7316,7 @@
   ],
   "1647583": []
  },
- "ultima": "2026-11-19T23:38:44.229691+01:00",
+ "ultima": "2026-11-20T00:10:14.283841+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
