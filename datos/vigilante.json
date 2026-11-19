@@ -113,16 +113,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
+   "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
@@ -131,6 +127,10 @@
   {
    "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Home/Draw",
@@ -161,7 +161,7 @@
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-19T21:54",
+ "revisado": "2026-11-19T22:05",
  "historial": [
   {
    "hora": "2026-11-19T21:15",

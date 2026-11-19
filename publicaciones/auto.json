@@ -10795,9 +10795,9 @@
       2.0,
       1.4,
       1.44,
-      1.67,
+      1.62,
       1.8,
-      1.91
+      1.8
     ],
     "origen": "threads_locas",
     "cuota_bet365": 20.87,
@@ -10816,6 +10816,7 @@
       "liga": "Bundesliga"
     },
     "cuota_total": 20.87,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-19T22:04"
   }
 ]
