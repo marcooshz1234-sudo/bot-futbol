@@ -184,14 +184,18 @@ def main(ahora=None):
     ahora = ahora or datetime.now(MADRID)
     estado = leer(DATOS / ESTADO_F, {}) or {}
     control = leer(RAIZ / "publicaciones" / "control.json", {}) or {}
+    if not estado.get("canal"):   # 19/11: se comprueba la conexión en cuanto hay clave (sin publicar nada)
+        canal = canal_x(token, estado)
+        estado["conexion"] = {"cuando": ahora.strftime("%Y-%m-%dT%H:%M"),
+                              "ok": bool(canal), "nota": None if canal else "con clave, pero sin canal de X en Buffer"}
+        escribir(DATOS / ESTADO_F, estado)
+        print("x_buffer: conectado a Buffer, canal de X", canal if canal else "NO encontrado")
+        if not canal:
+            return 1
     lista = candidatos(publicaciones(RAIZ), estado, control, ahora)
     if not lista:
         return 0
-    canal = canal_x(token, estado)
-    if not canal:
-        print("x_buffer: no encuentro el canal de X en Buffer (¿está conectada @combilocass?)")
-        escribir(DATOS / ESTADO_F, estado)
-        return 1
+    canal = estado["canal"]
     from redes import foto_threads
     for p in lista:
         textos = a_x(texto_threads(p))
