@@ -85,12 +85,16 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2100-x100, loca-th-noche-2300-x50)"
   },
   {
+   "clave": "repe-2026-11-19-1638338|Both Teams Score|Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
+  },
+  {
    "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 4 posts (combi-ambos, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|Both Teams Score|Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
+   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
@@ -99,10 +103,6 @@
   {
    "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
-  },
-  {
-   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
@@ -117,12 +117,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
@@ -161,7 +161,7 @@
    "t": "📏 Regla (cuota): una pata a 1.17 (mínimo 1.20 por pata) · «🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CH» (20:00)"
   }
  ],
- "revisado": "2026-11-19T19:46",
+ "revisado": "2026-11-19T19:56",
  "historial": [
   {
    "hora": "2026-11-19T19:17",
