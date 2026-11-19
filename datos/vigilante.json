@@ -71,7 +71,8 @@
   "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes": "2026-11-19T12:24",
   "directo-2026-11-19-pick-claude-1": "2026-11-19T12:45",
   "directo-2026-11-19-combi-ambos": "2026-11-19T12:45",
-  "repe-2026-11-19-1638327|Match Winner|Home": "2026-11-19T12:45"
+  "repe-2026-11-19-1638327|Match Winner|Home": "2026-11-19T12:45",
+  "prensa-1570454-e2b30a57": "2026-11-19T13:33"
  },
  "abiertos": [
   {
@@ -83,20 +84,20 @@
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche de Champions femenina 🔥 (20:30)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Match Winner|Home",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2100-x100, loca-th-noche-2300-x50)"
+   "clave": "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes",
+   "t": "📉 Barcelona (fem.)–Servette Chênois (fem.) Home/Yes: la cuota ha pasado de 4.00 a 6.00 (+50%) desde que se hizo «⚽🏆 GANA Y AMBOS MARCAN ⚽🏆» (19:30). Suele haber una noticia detrás"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 4 posts (combi-ambos, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
+   "clave": "repe-2026-11-19-1638327|Match Winner|Home",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2100-x100, loca-th-noche-2300-x50)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
   },
   {
-   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
+   "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 4 posts (combi-ambos, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
@@ -105,6 +106,10 @@
   {
    "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
@@ -119,32 +124,32 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-2000-tiros)"
+   "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-1700-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-2000-tiros)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Anytime Goal Scorer|Melchie Dumornay",
@@ -153,10 +158,19 @@
   {
    "clave": "repe-2026-11-19-1638327|Home Player Shots|Kenza Dufour - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
+  },
+  {
+   "clave": "prensa-1570454-e2b30a57",
+   "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 3 post(s) de este partido: ganadores-resto, pick-seguro, estrella-1570454"
   }
  ],
- "revisado": "2026-11-19T13:22",
+ "revisado": "2026-11-19T13:33",
  "historial": [
+  {
+   "hora": "2026-11-19T13:33",
+   "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 3 post(s) de este partido: ganadores-resto, pick-seguro, estrella-1570454",
+   "k": "prensa-1570454-e2b30a57"
+  },
   {
    "hora": "2026-11-19T12:45",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con el pick de la tarde 👇 (18:00)",
@@ -434,10 +448,6 @@
   {
    "hora": "2026-11-16T18:12",
    "t": "📰 Gales–Portugal: «Bernardo Silva abandona selección de Portugal: destapan disputa con DT y descartan lesión» (BioBioChile) · tenemos 4 post(s) de este partido: ganadores-nations, pick-seguro, combi-tres, combi-partido-1528992"
-  },
-  {
-   "hora": "2026-11-16T15:09",
-   "t": "🚫 Lleva un mercado prohibido (Goals Over/Under|Over 2.5): 🎯 MI COMBINADA DE HOY · x24,8 🔥"
   }
  ]
 }
