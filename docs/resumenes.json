@@ -2746,14 +2746,14 @@
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 7,
+    "total": 8,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -2797,13 +2797,19 @@
         "titulo": "⏰ TODO A LAS 21:00 ⏰",
         "estado": "pendiente",
         "cuota": 2.74
+      },
+      {
+        "id": "2026-11-19-loca-th-0600-tapados",
+        "titulo": "🐶 LA DE LOS TAPADOS 🐶",
+        "estado": "pendiente",
+        "cuota": 7.02
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 30
+      "total": 31
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
   }
 }
