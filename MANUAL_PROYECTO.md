@@ -122,6 +122,7 @@ Canal de Telegram: `-1003953339107`.
 | `info_top.py` | (15/11) «INFORMACIÓN TOP»: crisis real contada por 2+ medios → borrador con fuentes que solo sale con el «✅ Publicar» de Marcos (máx. 1 cada 3 días) |
 | OCR (`tesseract`, en `tipsters_auto.py`) | (15/11) Lee los picks que los canales suben solo en foto; mercados raros de boleto los mira Claude |
 | `app_datos.py`, `panel_datos.py`, `mis_datos.py`, `oficina_datos.py` | Datos de la app, el panel, Mis combis y la Oficina |
+| `x_buffer.py` | 19/11: X (@combilocass) por Buffer (gratis): lo que sale en Threads, cortado a 280 y sin «@» en las cuotas; solo «lo fuerte», máx. 5/día (control: x_modo, x_max_dia, x_pausa). Necesita el secreto `BUFFER_TOKEN`; sin él no hace nada. Registro en `datos/x_buffer.json` |
 | `panel_telegram.py` | 18/11: pestaña 📲 Telegram del panel (app de control): hoy en el canal, por aprobar, lo próximo, avisos; los botones escriben `control.json` con el token de GitHub de Marcos (solo en su móvil) |
 | `ajustes.py` | Ajustes de cada rol (panel → `control.json`) |
 | `limpiar_media.py` | Borra imágenes de posts de hace más de 3 días, fotos de boletos y partidos en directo de hace más de 7 |

@@ -24,6 +24,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CANAL: "-1003953339107"
           THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}   # 19/11: X (@combilocass) por Buffer; sin él x_buffer.py no hace nada
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
           FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
           FACEBOOK_PAGINA: ${{ secrets.FACEBOOK_PAGINA }}
@@ -64,6 +65,7 @@ jobs:
             if [ $(( $(date +%s) - ult_2 )) -ge 120 ]; then ult_2=$(date +%s); paso alineaciones_espera 110 alineaciones_espera.py; fi
             paso publicar_telegram 180 publicar_telegram.py
             paso redes 420 redes.py
+            paso x_buffer 120 x_buffer.py
             if [ $(( $(date +%s) - ult_app )) -ge 180 ]; then ult_app=$(date +%s); paso directo 180 directo.py; paso app_datos 180 app_datos.py; paso verdes_auto 240 verdes_auto.py; paso avisos 120 avisos.py; paso noticias 240 noticias.py; paso info_top 60 info_top.py; paso combis_personales 120 combis_personales.py; paso lector_canales 60 lector_canales.py; paso tipsters_auto 60 tipsters_auto.py; paso copiar_tipsters 180 copiar_tipsters.py; paso marca_tg 120 marca_tg.py; fi
             if [ $(( $(date +%s) - ult_10 )) -ge 600 ]; then ult_10=$(date +%s); paso moderar 180 moderar.py; paso estadisticas 180 estadisticas.py; paso revisor 180 revisor.py; pub; paso threads_crecer 240 threads_crecer.py; paso threads_locas 240 threads_locas.py --auto; paso threads_analisis 300 threads_analisis.py; pub; paso comunidad 120 comunidad.py; paso calibrar_crear 120 calibrar_crear.py; paso cazador 90 cazador.py; paso vigilante 90 vigilante.py; paso resumen_semanal 60 resumen_semanal.py; paso imagenes 300 imagenes.py publicaciones/auto.json --pendientes; pub; paso imagenes_cola 300 imagenes.py publicaciones/cola.json --pendientes; fi
             paso resumen_dia 120 resumen_dia.py
