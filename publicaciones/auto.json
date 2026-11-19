@@ -8343,11 +8343,11 @@
     "cuotas": [
       2.1,
       1.83,
-      1.91,
+      1.83,
       1.91,
       1.8,
-      1.83,
-      1.83
+      1.73,
+      1.91
     ],
     "solo_en": [
       "threads"
@@ -8359,7 +8359,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-19T12:34"
+    "cuotas_revisadas": "2026-11-19T13:08"
   },
   {
     "id": "2026-11-19-loca-th-1430-escudos",
