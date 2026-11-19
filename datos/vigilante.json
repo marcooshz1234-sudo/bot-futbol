@@ -67,12 +67,17 @@
   "repe-2026-11-19-1638327|Home Player Shots|Kenza Dufour - 2": "2026-11-19T00:17",
   "prensa-1570454-7d6aa70c": "2026-11-19T00:48",
   "cuotabaja-2026-11-19-pick-seguro": "2026-11-19T09:12",
-  "regla-cuota-2026-11-19-pick-seguro": "2026-11-19T09:12"
+  "regla-cuota-2026-11-19-pick-seguro": "2026-11-19T09:12",
+  "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes": "2026-11-19T12:24"
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
+   "clave": "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes",
+   "t": "📉 Barcelona (fem.)–Servette Chênois (fem.) Home/Yes: la cuota ha pasado de 4.00 a 6.00 (+50%) desde que se hizo «⚽🏆 GANA Y AMBOS MARCAN ⚽🏆» (19:30). Suele haber una noticia detrás"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
@@ -83,15 +88,15 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
-  },
-  {
-   "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
@@ -99,12 +104,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
@@ -135,8 +140,13 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T12:13",
+ "revisado": "2026-11-19T12:24",
  "historial": [
+  {
+   "hora": "2026-11-19T12:24",
+   "t": "📉 Barcelona (fem.)–Servette Chênois (fem.) Home/Yes: la cuota ha pasado de 4.00 a 6.00 (+50%) desde que se hizo «⚽🏆 GANA Y AMBOS MARCAN ⚽🏆» (19:30). Suele haber una noticia detrás",
+   "k": "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes"
+  },
   {
    "hora": "2026-11-19T09:12",
    "t": "🪫 No saldrá (cuota 1.33 por debajo de 1.35): Vamos con otro pick 🍀 (10:30)",
@@ -410,10 +420,6 @@
   {
    "hora": "2026-11-16T15:09",
    "t": "🚫 Lleva un mercado prohibido (Goalkeeper Saves|Marc-Andre ter Stegen - 3): 🎯 OTRA DE JUGADORES · x12,9 🔥"
-  },
-  {
-   "hora": "2026-11-16T15:09",
-   "t": "🚫 Lleva un mercado prohibido (Total ShotOnGoal|Over 8.5): 🎯 LA CORTITA · x5,4 🔥"
   }
  ]
 }
