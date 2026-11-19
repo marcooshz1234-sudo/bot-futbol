@@ -2746,14 +2746,14 @@
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 14,
+    "total": 15,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 14,
+      "pendiente": 15,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 14
+      "sin_resolver": 15
     },
     "combis": [
       {
@@ -2839,13 +2839,19 @@
         "titulo": "🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥",
         "estado": "pendiente",
         "cuota": 9.87
+      },
+      {
+        "id": "2026-11-19-loca-th-1500-escudos",
+        "titulo": "🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥",
+        "estado": "pendiente",
+        "cuota": 2.72
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 53
+      "total": 55
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 3,75 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n⏳ 🤑💸 LA LOCURA DE x156 🤑💸 · pendiente\n⏳ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 9,87 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 14 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 3,75 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n⏳ 🤑💸 LA LOCURA DE x156 🤑💸 · pendiente\n⏳ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 9,87 · pendiente\n⏳ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 15 sin resolver"
   }
 }
