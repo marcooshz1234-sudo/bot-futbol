@@ -83,17 +83,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "FC Fredericia",
-   "visitante": "Hillerød",
-   "inicio": "2026-11-19T19:00",
-   "texto": "Ambos marcan en FC Fredericia–Hillerød",
-   "cuota": 1.8,
-   "justa": 1.77,
-   "ev": 0.016,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
    "local": "Arsenal W",
    "visitante": "Lyon W",
    "inicio": "2026-11-19T21:00",
@@ -101,17 +90,6 @@
    "cuota": 1.62,
    "justa": 1.6,
    "ev": 0.013,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "FC Fredericia",
-   "visitante": "Hillerød",
-   "inicio": "2026-11-19T19:00",
-   "texto": "Hillerød marca",
-   "cuota": 1.67,
-   "justa": 1.69,
-   "ev": -0.01,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   },
@@ -128,7 +106,7 @@
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T18:36",
+  "hora": "2026-11-19T18:56",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1638297,
