@@ -1,18 +1,18 @@
 # Vendsyssel FF – Hvidovre
 **1. Division** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nord Energi Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:20_
+_Actualizadas: 19/11 02:19_
 
-- **1X2:** 1 **3.30**  ·  X **3.50**  ·  2 **2.05**
-- **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**
+- **1X2:** 1 **3.40**  ·  X **3.40**  ·  2 **2.05**
+- **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.30**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.67** · menos **2.15**
+    - 2,5: más **1.70** · menos **2.10**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
@@ -25,24 +25,24 @@ _Actualizadas: 18/11 14:20_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.17** · menos **5.00**
+    - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
-- **1X2 descanso:** 1 **3.60**  ·  X **2.38**  ·  2 **2.62**
+    - 3,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **3.75**  ·  X **2.30**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
 - **To Win Either Half:** 1 **2.00**  ·  2 **1.57**
-- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **2.75**
 - **Win Both Halves:** 1 **11.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **13.00**  ·  Away/No **4.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.88**
-- **Anytime Goal Scorer:** Rasmus Schuller **9.00**  ·  Ahmed Iljazovski **8.00**  ·  Adam Vendelbo **4.00**  ·  Bilal Krubally **12.00**  ·  Emil Gronn Pedersen **2.50**  ·  Lasse Steffensen **3.40**  ·  Marcus Hannesbo **4.33**  ·  Emmanuel Aby **3.00**  ·  Marvin Egho **2.75**  ·  Alexander Johansen **3.50**  ·  Andreas Smed **3.60**  ·  Marius Papuga **6.00**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **10.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.20**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Simon Okosun **4.75**  ·  Oliver Juul Jensen **7.50**  ·  Donavan Bagou **2.38**  ·  Abdoulie Njai **7.50**  ·  Arni Atlason **6.50**  ·  Haki Bedzeti **6.00**  ·  Lucas Andersen **4.33**  ·  Nathan Huygevelde **4.00**  ·  Harald Tangen **5.50**  ·  Louka Prip **3.50**  ·  Danny Beshara **5.50**  ·  Jonathan Rosengaard **5.50**  ·  Kasper Kjellingbro **5.50**  ·  Oliver Jensen **3.50**  ·  Ari Olsen **9.00**  ·  Jeppe Sommer **9.00**  ·  Malthe Holt **8.00**  ·  Precious Williams **3.00**  ·  Sebastian Lodberg **6.50**  ·  Stephen Michael **7.50**  ·  Steven Simpson **5.50**  ·  Mathias Andersen **9.00**  ·  Andreas Rise **5.50**  ·  Roberto Risnaes **2.38**  ·  Louis Gronemann **8.00**  ·  Roma Wilfried **5.50**  ·  Roma Seahet **7.50**  ·  Morten Knudsen **5.50**  ·  Frederik Mortensen **5.50**  ·  Hassan Ndam **12.00**  ·  Julius Lockhart **10.00**  ·  Zamir Aliji **5.50**
+- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **13.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.88**
+- **Anytime Goal Scorer:** Rasmus Schuller **9.00**  ·  Ahmed Iljazovski **8.00**  ·  Adam Vendelbo **4.00**  ·  Bilal Krubally **12.00**  ·  Emil Gronn Pedersen **2.60**  ·  Lasse Steffensen **3.20**  ·  Marcus Hannesbo **4.33**  ·  Emmanuel Aby **3.20**  ·  Marvin Egho **2.75**  ·  Alexander Johansen **3.75**  ·  Andreas Smed **4.00**  ·  Marius Papuga **6.00**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **10.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.40**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Simon Okosun **4.75**  ·  Oliver Juul Jensen **8.00**  ·  Donavan Bagou **2.40**  ·  Abdoulie Njai **8.00**  ·  Arni Atlason **6.50**  ·  Haki Bedzeti **6.00**  ·  Lucas Andersen **4.33**  ·  Nathan Huygevelde **4.33**  ·  Harald Tangen **5.50**  ·  Louka Prip **3.75**  ·  Danny Beshara **5.50**  ·  Jonathan Rosengaard **5.50**  ·  Kasper Kjellingbro **5.50**  ·  Oliver Jensen **3.75**  ·  Ari Olsen **9.00**  ·  Jeppe Sommer **9.00**  ·  Malthe Holt **7.50**  ·  Precious Williams **2.88**  ·  Sebastian Lodberg **6.50**  ·  Stephen Michael **7.50**  ·  Steven Simpson **5.50**  ·  Mathias Andersen **9.00**  ·  Andreas Rise **5.50**  ·  Roberto Risnaes **2.40**  ·  Louis Gronemann **8.00**  ·  Roma Wilfried **5.50**  ·  Roma Seahet **7.50**  ·  Morten Knudsen **5.50**  ·  Frederik Mortensen **5.50**  ·  Hassan Ndam **12.00**  ·  Julius Lockhart **10.00**  ·  Zamir Aliji **5.50**
 
 ## Estadísticas de equipo
 | | Vendsyssel FF (total) | Vendsyssel FF en casa | Hvidovre (total) | Hvidovre fuera |

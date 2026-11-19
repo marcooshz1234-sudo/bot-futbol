@@ -1,7 +1,7 @@
 # Dinamo Zagreb – Bayer Leverkusen
 **Europa League** · League Stage - 5 · 26/11/2026 18:45 (hora España) · Stadion Maksimir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

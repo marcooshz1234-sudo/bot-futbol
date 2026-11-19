@@ -1,10 +1,10 @@
 # Telstar – PEC Zwolle
-**Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · BUKO Stadion
+**Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:21_
+_Actualizadas: 19/11 02:20_
 
 - **1X2:** 1 **2.10**  ·  X **3.50**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.28**  ·  X2 **1.70**

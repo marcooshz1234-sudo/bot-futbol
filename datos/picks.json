@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18 20:05",
+ "generado": "2026-11-19 02:25",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -24,10 +24,10 @@
      "frecuencia": 0.8,
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": 0.007,
      "movimiento": 0.0,
      "cuota_inicial": 1.53,
-     "prob_aprendida": 0.688
+     "prob_aprendida": 0.678
     },
     {
      "partido_id": 1575221,
@@ -44,7 +44,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.183,
      "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
-     "valor_mercado": 0.006,
+     "valor_mercado": 0.012,
      "movimiento": -0.115,
      "cuota_inicial": 1.83,
      "posiciones": [
@@ -72,10 +72,10 @@
      "frecuencia": 0.8,
      "ventaja": 0.146,
      "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.0,
+     "valor_mercado": 0.007,
      "movimiento": 0.0,
      "cuota_inicial": 1.53,
-     "prob_aprendida": 0.688
+     "prob_aprendida": 0.678
     },
     {
      "partido_id": 1575221,
@@ -92,7 +92,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.183,
      "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
-     "valor_mercado": 0.006,
+     "valor_mercado": 0.012,
      "movimiento": -0.115,
      "cuota_inicial": 1.83,
      "posiciones": [
@@ -131,7 +131,7 @@
        "valor_mercado": -0.027,
        "movimiento": -0.016,
        "cuota_inicial": 1.83,
-       "prob_aprendida": 0.713
+       "prob_aprendida": 0.703
       },
       {
        "partido_id": 1570025,
@@ -155,7 +155,7 @@
         22
        ],
        "contexto": "peor_lejos_abajo",
-       "prob_aprendida": 0.672
+       "prob_aprendida": 0.675
       }
      ],
      "cuota": 2.7,
@@ -185,6 +185,8 @@
      "valor_mercado": -0.021,
      "movimiento": -0.045,
      "cuota_inicial": 2.0,
+     "arbitro": "Adam Herczeg",
+     "arbitro_tarjetas": 4.6,
      "posiciones": [
       7,
       16,
@@ -241,6 +243,34 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.6
+    },
+    {
+     "partido_id": 1550200,
+     "fecha": "2026-11-21T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Como",
+     "visitante": "Cagliari",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Cagliari marca",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Como (en contra) 7/10 · Cagliari 8/10",
+     "valor_mercado": -0.023,
+     "movimiento": 0.036,
+     "cuota_inicial": 1.67,
+     "prob_xg": 0.685,
+     "xg_esperado": 3.1,
+     "posiciones": [
+      5,
+      9,
+      20
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.609
     },
     {
      "partido_id": 1575229,
@@ -346,6 +376,8 @@
      "ventaja": 0.222,
      "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
      "valor_mercado": 0.102,
+     "arbitro": "Andrew Madley",
+     "arbitro_tarjetas": null,
      "posiciones": [
       10,
       19,
@@ -379,6 +411,24 @@
      "prob_aprendida": 0.425
     },
     {
+     "partido_id": 1565305,
+     "fecha": "2026-11-21T19:30",
+     "competicion": "Liga I",
+     "liga_id": 283,
+     "local": "Dinamo Bucuresti",
+     "visitante": "Petrolul Ploiesti",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "Petrolul Ploiesti hace más de 2,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Dinamo Bucuresti (en contra) 8/10 · Petrolul Ploiesti 7/10",
+     "valor_mercado": 0.0,
+     "prob_aprendida": 0.473
+    },
+    {
      "partido_id": 1563273,
      "fecha": "2026-11-21T16:00",
      "competicion": "Championship",
@@ -394,13 +444,15 @@
      "ventaja": 0.263,
      "detalle": "West Ham (en contra) 9/10 · Preston 9/10",
      "valor_mercado": 0.047,
+     "arbitro": "Will Finnie",
+     "arbitro_tarjetas": 3.4,
      "posiciones": [
       9,
       24,
       24
      ],
      "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.44
+     "prob_aprendida": 0.439
     }
    ],
    "mejores_por_partido": [
@@ -422,6 +474,8 @@
      "valor_mercado": -0.021,
      "movimiento": -0.045,
      "cuota_inicial": 2.0,
+     "arbitro": "Adam Herczeg",
+     "arbitro_tarjetas": 4.6,
      "posiciones": [
       7,
       16,
@@ -478,6 +532,34 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.6
+    },
+    {
+     "partido_id": 1550200,
+     "fecha": "2026-11-21T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Como",
+     "visitante": "Cagliari",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "Cagliari marca",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Como (en contra) 7/10 · Cagliari 8/10",
+     "valor_mercado": -0.023,
+     "movimiento": 0.036,
+     "cuota_inicial": 1.67,
+     "prob_xg": 0.685,
+     "xg_esperado": 3.1,
+     "posiciones": [
+      5,
+      9,
+      20
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.609
     },
     {
      "partido_id": 1575229,
@@ -552,6 +634,8 @@
      "ventaja": 0.222,
      "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
      "valor_mercado": 0.102,
+     "arbitro": "Andrew Madley",
+     "arbitro_tarjetas": null,
      "posiciones": [
       10,
       19,
@@ -585,6 +669,24 @@
      "prob_aprendida": 0.425
     },
     {
+     "partido_id": 1565305,
+     "fecha": "2026-11-21T19:30",
+     "competicion": "Liga I",
+     "liga_id": 283,
+     "local": "Dinamo Bucuresti",
+     "visitante": "Petrolul Ploiesti",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 2.5",
+     "tipo": "corners",
+     "texto": "Petrolul Ploiesti hace más de 2,5 córners",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Dinamo Bucuresti (en contra) 8/10 · Petrolul Ploiesti 7/10",
+     "valor_mercado": 0.0,
+     "prob_aprendida": 0.473
+    },
+    {
      "partido_id": 1563273,
      "fecha": "2026-11-21T16:00",
      "competicion": "Championship",
@@ -600,13 +702,15 @@
      "ventaja": 0.263,
      "detalle": "West Ham (en contra) 9/10 · Preston 9/10",
      "valor_mercado": 0.047,
+     "arbitro": "Will Finnie",
+     "arbitro_tarjetas": 3.4,
      "posiciones": [
       9,
       24,
       24
      ],
      "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.44
+     "prob_aprendida": 0.439
     }
    ],
    "combis": {
@@ -631,6 +735,8 @@
        "valor_mercado": -0.021,
        "movimiento": -0.045,
        "cuota_inicial": 2.0,
+       "arbitro": "Adam Herczeg",
+       "arbitro_tarjetas": 4.6,
        "posiciones": [
         7,
         16,
@@ -725,6 +831,34 @@
        "prob_aprendida": 0.6
       },
       {
+       "partido_id": 1550200,
+       "fecha": "2026-11-21T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Como",
+       "visitante": "Cagliari",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Cagliari marca",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Como (en contra) 7/10 · Cagliari 8/10",
+       "valor_mercado": -0.023,
+       "movimiento": 0.036,
+       "cuota_inicial": 1.67,
+       "prob_xg": 0.685,
+       "xg_esperado": 3.1,
+       "posiciones": [
+        5,
+        9,
+        20
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.609
+      },
+      {
        "partido_id": 1575229,
        "fecha": "2026-11-21T15:30",
        "competicion": "Bundesliga",
@@ -766,6 +900,8 @@
        "ventaja": 0.222,
        "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
        "valor_mercado": 0.102,
+       "arbitro": "Andrew Madley",
+       "arbitro_tarjetas": null,
        "posiciones": [
         10,
         19,
@@ -797,33 +933,9 @@
        ],
        "contexto": "peor_lejos_medio",
        "prob_aprendida": 0.425
-      },
-      {
-       "partido_id": 1563273,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "West Ham",
-       "visitante": "Preston",
-       "mercado": "Away Corners Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "corners",
-       "texto": "Preston hace más de 2,5 córners",
-       "cuota": 1.57,
-       "frecuencia": 0.9,
-       "ventaja": 0.263,
-       "detalle": "West Ham (en contra) 9/10 · Preston 9/10",
-       "valor_mercado": 0.047,
-       "posiciones": [
-        9,
-        24,
-        24
-       ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.44
       }
      ],
-     "cuota": 14.39
+     "cuota": 15.85
     },
     "doble": null
    },
@@ -874,6 +986,8 @@
        "valor_mercado": -0.024,
        "movimiento": -0.024,
        "cuota_inicial": 2.05,
+       "arbitro": "Matt Donohue",
+       "arbitro_tarjetas": 4.7,
        "posiciones": [
         12,
         14,
@@ -905,6 +1019,8 @@
        "ventaja": 0.033,
        "detalle": "Millwall 7/10 · QPR (en contra) 7/10",
        "valor_mercado": -0.045,
+       "arbitro": "Josh Smith",
+       "arbitro_tarjetas": 4.9,
        "posiciones": [
         16,
         8,
@@ -929,6 +1045,8 @@
        "ventaja": 0.067,
        "detalle": "Sheffield Utd 6/10 · Watford (en contra) 7/9",
        "valor_mercado": 0.012,
+       "arbitro": "Tim Robinson",
+       "arbitro_tarjetas": 4.4,
        "posiciones": [
         10,
         20,
@@ -955,6 +1073,8 @@
        "valor_mercado": 0.0,
        "movimiento": -0.039,
        "cuota_inicial": 1.8,
+       "arbitro": "Sam Allison",
+       "arbitro_tarjetas": 3.4,
        "prob_xg": 0.569,
        "xg_esperado": 2.9,
        "posiciones": [
@@ -987,7 +1107,9 @@
        "frecuencia": 0.65,
        "ventaja": 0.15,
        "detalle": "Aston Villa 6/10 · Sunderland (en contra) 7/10",
-       "valor_mercado": 0.081,
+       "valor_mercado": 0.143,
+       "arbitro": "Andrew Madley",
+       "arbitro_tarjetas": null,
        "posiciones": [
         10,
         19,
@@ -1012,13 +1134,15 @@
        "ventaja": 0.094,
        "detalle": "Tottenham 6/10 · Ipswich 7/10",
        "valor_mercado": -0.022,
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 3.0,
        "posiciones": [
         11,
         14,
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.661
+       "prob_aprendida": 0.662
       },
       {
        "partido_id": 1552820,
@@ -1038,13 +1162,15 @@
        "valor_mercado": 0.018,
        "movimiento": 0.036,
        "cuota_inicial": 1.67,
+       "arbitro": "Francois Letexier",
+       "arbitro_tarjetas": 3.0,
        "posiciones": [
         2,
         5,
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.658
+       "prob_aprendida": 0.659
       }
      ],
      "cuota": 6.23
@@ -1069,6 +1195,8 @@
        "valor_mercado": -0.021,
        "movimiento": -0.045,
        "cuota_inicial": 2.0,
+       "arbitro": "Adam Herczeg",
+       "arbitro_tarjetas": 4.6,
        "posiciones": [
         7,
         16,
@@ -1092,7 +1220,9 @@
        "frecuencia": 0.65,
        "ventaja": 0.15,
        "detalle": "Aston Villa 6/10 · Sunderland (en contra) 7/10",
-       "valor_mercado": 0.081,
+       "valor_mercado": 0.143,
+       "arbitro": "Andrew Madley",
+       "arbitro_tarjetas": null,
        "posiciones": [
         10,
         19,
@@ -1135,6 +1265,8 @@
        "ventaja": 0.033,
        "detalle": "Millwall 7/10 · QPR (en contra) 7/10",
        "valor_mercado": -0.045,
+       "arbitro": "Josh Smith",
+       "arbitro_tarjetas": 4.9,
        "posiciones": [
         16,
         8,
@@ -1159,7 +1291,7 @@
        "ventaja": 0.051,
        "detalle": "CFR 1907 Cluj 6/10 · Oţelul 7/10",
        "valor_mercado": 0.0,
-       "prob_aprendida": 0.668
+       "prob_aprendida": 0.669
       },
       {
        "partido_id": 1575223,
@@ -1185,7 +1317,7 @@
         18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.657
+       "prob_aprendida": 0.658
       },
       {
        "partido_id": 1557476,
@@ -1203,13 +1335,15 @@
        "ventaja": 0.094,
        "detalle": "Tottenham 6/10 · Ipswich 7/10",
        "valor_mercado": -0.022,
+       "arbitro": "Robert Jones",
+       "arbitro_tarjetas": 3.0,
        "posiciones": [
         11,
         14,
         20
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.661
+       "prob_aprendida": 0.662
       },
       {
        "partido_id": 1552820,
@@ -1229,13 +1363,15 @@
        "valor_mercado": 0.018,
        "movimiento": 0.036,
        "cuota_inicial": 1.67,
+       "arbitro": "Francois Letexier",
+       "arbitro_tarjetas": 3.0,
        "posiciones": [
         2,
         5,
         18
        ],
        "contexto": "mejor_igualado_arriba",
-       "prob_aprendida": 0.658
+       "prob_aprendida": 0.659
       },
       {
        "partido_id": 1563269,
@@ -1253,6 +1389,8 @@
        "ventaja": 0.067,
        "detalle": "Sheffield Utd 6/10 · Watford (en contra) 7/9",
        "valor_mercado": 0.012,
+       "arbitro": "Tim Robinson",
+       "arbitro_tarjetas": 4.4,
        "posiciones": [
         10,
         20,
@@ -1279,13 +1417,15 @@
        "valor_mercado": -0.037,
        "movimiento": 0.017,
        "cuota_inicial": 1.8,
+       "arbitro": "Azzedine Souifi",
+       "arbitro_tarjetas": 3.5,
        "posiciones": [
         13,
         9,
         18
        ],
        "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.658
+       "prob_aprendida": 0.659
       },
       {
        "partido_id": 1575229,
@@ -1327,6 +1467,8 @@
        "ventaja": 0.151,
        "detalle": "Newcastle 9/10 · Arsenal (en contra) 6/10",
        "valor_mercado": 0.084,
+       "arbitro": "Chris Kavanagh",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         12,
         1,
@@ -1380,12 +1522,12 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Bologna",
-     "cuota": 1.67,
+     "cuota": 1.7,
      "frecuencia": 0.65,
-     "ventaja": 0.051,
+     "ventaja": 0.062,
      "detalle": "Bologna 5/10 · Udinese 8/10",
-     "valor_mercado": -0.04,
-     "movimiento": -0.035,
+     "valor_mercado": -0.023,
+     "movimiento": -0.017,
      "cuota_inicial": 1.73,
      "posiciones": [
       8,
@@ -1443,7 +1585,7 @@
       22
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.691
+     "prob_aprendida": 0.692
     },
     {
      "partido_id": 1570030,
@@ -1491,7 +1633,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.623
+     "prob_aprendida": 0.624
     },
     {
      "partido_id": 1563264,
@@ -1632,12 +1774,12 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Bologna",
-     "cuota": 1.67,
+     "cuota": 1.7,
      "frecuencia": 0.65,
-     "ventaja": 0.051,
+     "ventaja": 0.062,
      "detalle": "Bologna 5/10 · Udinese 8/10",
-     "valor_mercado": -0.04,
-     "movimiento": -0.035,
+     "valor_mercado": -0.023,
+     "movimiento": -0.017,
      "cuota_inicial": 1.73,
      "posiciones": [
       8,
@@ -1695,7 +1837,7 @@
       22
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.691
+     "prob_aprendida": 0.692
     },
     {
      "partido_id": 1575224,
@@ -1719,7 +1861,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.623
+     "prob_aprendida": 0.624
     },
     {
      "partido_id": 1563264,
@@ -1840,12 +1982,12 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Bologna",
-       "cuota": 1.67,
+       "cuota": 1.7,
        "frecuencia": 0.65,
-       "ventaja": 0.051,
+       "ventaja": 0.062,
        "detalle": "Bologna 5/10 · Udinese 8/10",
-       "valor_mercado": -0.04,
-       "movimiento": -0.035,
+       "valor_mercado": -0.023,
+       "movimiento": -0.017,
        "cuota_inicial": 1.73,
        "posiciones": [
         8,
@@ -1903,7 +2045,7 @@
         18
        ],
        "contexto": "total_igualado_abajo",
-       "prob_aprendida": 0.623
+       "prob_aprendida": 0.624
       },
       {
        "partido_id": 1563264,
@@ -1932,94 +2074,11 @@
        "prob_aprendida": 0.61
       }
      ],
-     "cuota": 14.46
+     "cuota": 14.72
     },
     "doble": null
    },
    "estilos": {
-    "liga": {
-     "picks": [
-      {
-       "partido_id": 1570026,
-       "fecha": "2026-11-22T21:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Burgos",
-       "visitante": "Albacete",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Burgos gana alguna de las dos partes",
-       "cuota": 1.44,
-       "frecuencia": 0.7,
-       "ventaja": 0.006,
-       "detalle": "Burgos 8/10 · Albacete 6/10",
-       "valor_mercado": -0.059,
-       "movimiento": -0.083,
-       "cuota_inicial": 1.57,
-       "posiciones": [
-        6,
-        19,
-        22
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.709
-      },
-      {
-       "partido_id": 1570031,
-       "fecha": "2026-11-22T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Sporting Gijon",
-       "visitante": "Las Palmas",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Sporting Gijon gana alguna de las dos partes",
-       "cuota": 1.5,
-       "frecuencia": 0.75,
-       "ventaja": 0.083,
-       "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
-       "valor_mercado": -0.02,
-       "posiciones": [
-        8,
-        11,
-        22
-       ],
-       "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.691
-      },
-      {
-       "partido_id": 1570030,
-       "fecha": "2026-11-22T14:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Cordoba",
-       "visitante": "Oviedo",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo",
-       "cuota": 1.83,
-       "frecuencia": 0.8,
-       "ventaja": 0.254,
-       "detalle": "Cordoba 8/10 · Oviedo 8/10",
-       "valor_mercado": 0.017,
-       "movimiento": 0.017,
-       "cuota_inicial": 1.8,
-       "posiciones": [
-        10,
-        9,
-        22
-       ],
-       "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.623
-      }
-     ],
-     "cuota": 3.95,
-     "titulo": "🇪🇸 COMBI SEGUNDA",
-     "liga": "Segunda"
-    },
     "atreve": {
      "picks": [
       {
@@ -2085,12 +2144,12 @@
        "opcion": "Yes",
        "tipo": "goles",
        "texto": "Ambos marcan en Twente–Willem II",
-       "cuota": 2.1,
+       "cuota": 2.0,
        "frecuencia": 0.65,
-       "ventaja": 0.174,
+       "ventaja": 0.15,
        "detalle": "Twente 6/10 · Willem II 7/10",
-       "valor_mercado": 0.019,
-       "movimiento": 0.024,
+       "valor_mercado": -0.029,
+       "movimiento": -0.024,
        "cuota_inicial": 2.05,
        "prob_xg": 0.549,
        "xg_esperado": 3.57,
@@ -2100,10 +2159,10 @@
         18
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.577
+       "prob_aprendida": 0.631
       }
      ],
-     "cuota": 6.8
+     "cuota": 6.48
     }
    },
    "combis_partido": []

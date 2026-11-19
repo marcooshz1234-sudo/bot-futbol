@@ -463,5 +463,41 @@
  "Borehamwood|World": [
   51.65468,
   -0.27762
+ ],
+ "Andorra|Spain": [
+  40.97655,
+  -0.44721
+ ],
+ "Porto|Portugal": [
+  41.1485,
+  -8.61097
+ ],
+ "Silkeborg|Denmark": [
+  56.1697,
+  9.54508
+ ],
+ "Kolding|Denmark": [
+  55.4904,
+  9.47216
+ ],
+ "Trento|Italy": [
+  46.06787,
+  11.12108
+ ],
+ "Munich|Germany": [
+  48.13743,
+  11.57549
+ ],
+ "Troyes|France": [
+  48.30073,
+  4.08524
+ ],
+ "Bilbao|Spain": [
+  43.26271,
+  -2.92528
+ ],
+ "Ovidiu|Romania": [
+  44.258,
+  28.56083
  ]
 }

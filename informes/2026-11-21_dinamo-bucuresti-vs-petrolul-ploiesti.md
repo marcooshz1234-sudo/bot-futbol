@@ -1,10 +1,10 @@
 # Dinamo Bucuresti – Petrolul Ploiesti
 **Liga I** · Regular Season - 16 · 21/11/2026 19:30 (hora España) · Arena Nationala
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:21_
+_Actualizadas: 19/11 02:20_
 
 - **1X2:** 1 **1.38**  ·  X **4.20**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.20**  ·  X2 **2.75**
@@ -19,6 +19,18 @@ _Actualizadas: 18/11 14:21_
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.50** · menos **1.50**
+    - 3,5: más **5.00** · menos **1.17**
+    - 4,5: más **11.00** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.67** · menos **2.10**
+    - 1,5: más **4.33** · menos **1.20**
+- **Córners más/menos:**
+    - 9,5: más **1.90** · menos **1.90**
+- **Córners 1X2:** 1 **1.25**  ·  X **10.00**  ·  2 **4.75**
 - **1X2 descanso:** 1 **1.83**  ·  X **2.50**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -32,6 +44,11 @@ _Actualizadas: 18/11 14:21_
 - **Win Both Halves:** 1 **3.40**  ·  2 **29.00**
 - **Results/Both Teams Score:** Home/Yes **3.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **15.00**  ·  Away/No **13.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **5.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.75**
+- **Home Corners Over/Under:**
+    - 6,5: más **2.00** · menos **1.73**
+- **Away Corners Over/Under:**
+    - 2,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
 
 ## Estadísticas de equipo
 | | Dinamo Bucuresti (total) | Dinamo Bucuresti en casa | Petrolul Ploiesti (total) | Petrolul Ploiesti fuera |

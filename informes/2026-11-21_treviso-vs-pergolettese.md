@@ -1,10 +1,10 @@
 # Treviso – Pergolettese
 **Serie C** · Girone A - 15 · 21/11/2026 14:30 (hora España) · Stadio Omobono Tenni
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 20:02_
+_Actualizadas: 19/11 02:19_
 
 - **1X2:** 1 **1.57**  ·  X **3.40**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.25**  ·  X2 **2.15**
@@ -15,6 +15,10 @@ _Actualizadas: 18/11 20:02_
     - 2,5: más **2.15** · menos **1.67**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **7.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **7.50** · menos **1.07**
 - **Goles del local:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.83** · menos **1.83**
@@ -37,7 +41,7 @@ _Actualizadas: 18/11 20:02_
 - **Win Both Halves:** 1 **4.50**  ·  2 **23.00**
 - **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **5.50**  ·  Away/Yes **12.00**  ·  Home/No **2.38**  ·  Draw/No **8.00**  ·  Away/No **9.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.05**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.08**  ·  Menos de 4 **1.72**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.50**  ·  Menos de 4 **2.10**
 
 ## Estadísticas de equipo
 | | Treviso (total) | Treviso en casa | Pergolettese (total) | Pergolettese fuera |

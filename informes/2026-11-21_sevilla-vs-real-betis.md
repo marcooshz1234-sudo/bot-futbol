@@ -1,10 +1,10 @@
 # Sevilla – Real Betis
-**LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España)
+**LaLiga** · Regular Season - 13 · 21/11/2026 18:30 (hora España) · Estadio Ramón Sánchez-Pizjuán
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:21_
+_Actualizadas: 19/11 02:20_
 
 - **1X2:** 1 **3.00**  ·  X **3.50**  ·  2 **2.30**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**

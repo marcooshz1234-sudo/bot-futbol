@@ -1,10 +1,10 @@
 # Union Berlin – RB Leipzig
-**Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España)
+**Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · An der Alten Försterei
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:20_
+_Actualizadas: 19/11 02:19_
 
 - **1X2:** 1 **5.25**  ·  X **4.50**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.20**  ·  X2 **1.17**

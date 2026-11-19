@@ -1,10 +1,10 @@
 # Rayo Vallecano – Valencia
-**LaLiga** · Regular Season - 13 · 21/11/2026 16:15 (hora España) · Campo de Futbol de Vallecas
+**LaLiga** · Regular Season - 13 · 21/11/2026 16:15 (hora España) · Estadio de Vallecas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:21_
+_Actualizadas: 19/11 02:20_
 
 - **1X2:** 1 **1.91**  ·  X **3.50**  ·  2 **4.10**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.30**  ·  X2 **1.83**

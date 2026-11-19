@@ -1,10 +1,10 @@
 # Sabadell – Granada CF
-**Segunda División** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Estadi de la Nova Creu Alta
+**Segunda División** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:20_
+_Actualizadas: 19/11 02:19_
 
 - **1X2:** 1 **2.20**  ·  X **3.20**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.36**  ·  X2 **1.67**
@@ -56,21 +56,21 @@ _Actualizadas: 18/11 14:20_
 ## Estadísticas de equipo
 | | Sabadell (total) | Sabadell en casa | Granada CF (total) | Granada CF fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 6 | 14 | 8 |
-| Forma (últimos 5) | DEDED | EEEVV | VVVVV | VVVVD |
-| Balance | 4V 6E 4D | 3V 3E 0D | 9V 2E 3D | 5V 1E 2D |
-| Goles a favor / partido | 0,86 | 1,33 | 1,71 | 1,75 |
-| Goles en contra / partido | 0,93 | 0,67 | 1,00 | 1,12 |
-| Goles a favor 1ª parte | 0,43 | 0,67 | 0,36 | 0,38 |
-| Goles a favor 2ª parte | 0,43 | 0,67 | 1,36 | 1,38 |
-| Goles en contra 1ª parte | 0,64 | 0,17 | 0,64 | 0,88 |
-| Goles en contra 2ª parte | 0,29 | 0,50 | 0,36 | 0,25 |
-| Más de 1,5 goles | 57% | 50% | 79% | 75% |
-| Más de 2,5 goles | 29% | 33% | 50% | 62% |
-| Más de 3,5 goles | 14% | 33% | 29% | 38% |
-| Ambos marcan | 43% | 50% | 43% | 38% |
-| Portería a cero | 36% | 50% | 50% | 50% |
-| Se queda sin marcar | 50% | 33% | 14% | 25% |
+| Partidos analizados | 15 | 6 | 14 | 8 |
+| Forma (últimos 5) | VDEDE | EEEVV | VVVVV | VVVVD |
+| Balance | 5V 6E 4D | 3V 3E 0D | 9V 2E 3D | 5V 1E 2D |
+| Goles a favor / partido | 1,00 | 1,33 | 1,71 | 1,75 |
+| Goles en contra / partido | 0,87 | 0,67 | 1,00 | 1,12 |
+| Goles a favor 1ª parte | 0,60 | 0,67 | 0,36 | 0,38 |
+| Goles a favor 2ª parte | 0,40 | 0,67 | 1,36 | 1,38 |
+| Goles en contra 1ª parte | 0,60 | 0,17 | 0,64 | 0,88 |
+| Goles en contra 2ª parte | 0,27 | 0,50 | 0,36 | 0,25 |
+| Más de 1,5 goles | 60% | 50% | 79% | 75% |
+| Más de 2,5 goles | 33% | 33% | 50% | 62% |
+| Más de 3,5 goles | 13% | 33% | 29% | 38% |
+| Ambos marcan | 40% | 50% | 43% | 38% |
+| Portería a cero | 40% | 50% | 50% | 50% |
+| Se queda sin marcar | 47% | 33% | 14% | 25% |
 | xG a favor | 1,22 | 1,24 | 1,51 | 1,76 |
 | xG en contra | 0,94 | 0,96 | 1,09 | 1,25 |
 | Tiros / partido | 14,6 | 17,0 | 14,6 | 14,9 |
@@ -97,11 +97,11 @@ _Actualizadas: 18/11 14:20_
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sabadell | Recibe Sabadell | Tarjetas Sabadell | Goles Granada CF | Recibe Granada CF | Tarjetas Granada CF |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 4 | 5 | 2 | 5 | 3 |
-| 16-30' | 3 | 2 | 5 | 3 | 2 | 5 |
-| 31-45' | 1 | 3 | 10 | 0 | 2 | 7 |
+| 1-15' | 3 | 4 | 5 | 2 | 5 | 3 |
+| 16-30' | 4 | 2 | 5 | 3 | 2 | 5 |
+| 31-45' | 2 | 3 | 10 | 0 | 2 | 7 |
 | 46-60' | 2 | 1 | 9 | 6 | 3 | 1 |
-| 61-75' | 0 | 2 | 4 | 6 | 0 | 5 |
+| 61-75' | 0 | 2 | 5 | 6 | 0 | 5 |
 | 76-90' | 4 | 1 | 10 | 7 | 2 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -115,12 +115,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Sabadell
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-18 | Copa del Rey | Utebo 0-3 Sabadell | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-15 | Segunda División | Eldense 2-0 Sabadell | fuera | 2-1 | 5 (0) - 14 (6) | 2-2 |
 | 2026-11-09 | Segunda División | Sabadell 0-0 Real Sociedad II | casa | 5-3 | 19 (3) - 10 (1) | 2-3 |
 | 2026-10-31 | Segunda División | Albacete 2-1 Sabadell | fuera | 6-7 | 25 (5) - 5 (2) | 3-1 |
 | 2026-10-25 | Segunda División | Sabadell 1-1 Tenerife | casa | 4-5 | 14 (4) - 11 (3) | 5-3 |
 | 2026-10-18 | Segunda División | Burgos 1-0 Sabadell | fuera | 3-10 | 7 (2) - 13 (7) | 1-2 |
-| 2026-10-10 | Segunda División | AD Ceuta FC 1-2 Sabadell | fuera | 3-2 | 11 (3) - 17 (4) | 4-1 |
 
 ## Jugadores de Sabadell
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

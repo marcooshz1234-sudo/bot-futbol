@@ -1,7 +1,7 @@
 # FK Jablonec – FC Lugano
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Stadion Strelnice
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

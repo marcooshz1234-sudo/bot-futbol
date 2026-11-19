@@ -1,10 +1,10 @@
 # Napoli – Torino
-**Serie A** · Regular Season - 12 · 21/11/2026 20:45 (hora España) · Stadio Diego Armando Maradona
+**Serie A** · Regular Season - 12 · 21/11/2026 20:45 (hora España) · Maradona Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:21_
+_Actualizadas: 19/11 02:20_
 
 - **1X2:** 1 **1.48**  ·  X **4.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.62**

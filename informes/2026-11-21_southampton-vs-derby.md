@@ -1,10 +1,10 @@
 # Southampton – Derby
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:20_
+_Actualizadas: 19/11 02:19_
 
 - **1X2:** 1 **1.40**  ·  X **5.00**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**

@@ -1,18 +1,18 @@
 # Vejle – HB Koge
 **1. Division** · Regular Season - 15 · 21/11/2026 13:30 (hora España) · Vejle Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 18/11 20:03._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:20_
+_Actualizadas: 19/11 02:19_
 
 - **1X2:** 1 **1.44**  ·  X **4.50**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.48** · menos **2.60**
-    - 3,5: más **2.10** · menos **1.67**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
