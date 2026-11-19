@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 10:56",
+ "actualizado": "2026-11-19 11:07",
  "redes": {
   "instagram": {
    "seguidores": 51,
@@ -58,9 +58,9 @@
  "total_hoy": 8,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "11:30",
   "dia": "2026-11-19",
-  "titulo": "Reto escalera · día 3/7"
+  "titulo": "Todo a las 2100"
  },
  "ayer": null,
  "escalera": {
@@ -237,18 +237,18 @@
   }
  },
  "tipos_instagram": {
+  "Escalera (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
    "posts": 50,
    "likes_media": 0.1,
    "comentarios_media": 0.0
   },
-  "Escalera (reel)": {
-   "posts": 5,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
   "Otros": {
-   "posts": 4,
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
