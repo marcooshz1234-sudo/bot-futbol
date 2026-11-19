@@ -62,7 +62,9 @@
   "prensa-1570454-e2b30a57": "2026-11-19T13:33",
   "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2": "2026-11-19T14:47",
   "prensa-1570454-387117e9": "2026-11-19T15:29",
-  "redes-2026-11-19-pick-seguro-2-threads-instagram": "2026-11-19T18:25"
+  "redes-2026-11-19-pick-seguro-2-threads-instagram": "2026-11-19T18:25",
+  "cuotabaja-2026-11-19-loca-th-2000-tiros": "2026-11-19T18:36",
+  "regla-cuota-2026-11-19-loca-th-2000-tiros": "2026-11-19T18:36"
  },
  "abiertos": [
   {
@@ -72,6 +74,10 @@
   {
    "clave": "redes-2026-11-19-pick-seguro-2-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (18:00): Vamos con el pick de hoy familia 🔥"
+  },
+  {
+   "clave": "cuotabaja-2026-11-19-loca-th-2000-tiros",
+   "t": "🪫 No saldrá (una pata a 1.17 (mínimo 1.20 por pata)): 🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CHÊNOIS (FEM (20:00)"
   },
   {
    "clave": "repe-2026-11-19-1638327|Match Winner|Home",
@@ -90,12 +96,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
-  },
-  {
    "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
@@ -148,10 +154,24 @@
   {
    "clave": "repe-2026-11-19-1638327|Home Player Shots|Kenza Dufour - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
+  },
+  {
+   "clave": "regla-cuota-2026-11-19-loca-th-2000-tiros",
+   "t": "📏 Regla (cuota): una pata a 1.17 (mínimo 1.20 por pata) · «🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CH» (20:00)"
   }
  ],
- "revisado": "2026-11-19T18:25",
+ "revisado": "2026-11-19T18:36",
  "historial": [
+  {
+   "hora": "2026-11-19T18:36",
+   "t": "🪫 No saldrá (una pata a 1.17 (mínimo 1.20 por pata)): 🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CHÊNOIS (FEM (20:00)",
+   "k": "cuotabaja-2026-11-19-loca-th-2000-tiros"
+  },
+  {
+   "hora": "2026-11-19T18:36",
+   "t": "📏 Regla (cuota): una pata a 1.17 (mínimo 1.20 por pata) · «🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CH» (20:00)",
+   "k": "regla-cuota-2026-11-19-loca-th-2000-tiros"
+  },
   {
    "hora": "2026-11-19T18:25",
    "t": "⏰ No ha salido en threads ni instagram (18:00): Vamos con el pick de hoy familia 🔥",
@@ -429,14 +449,6 @@
   {
    "hora": "2026-11-17T09:31",
    "t": "📰 Bosnia–Rumanía: «UEFA Nations League: Bosnia y Herzegovina y Rumanía se enfrentan esta noche, a partir de las 21:45 / Ianis que» (Informat.ro) · tenemos 10 post(s) de este partido: loca-th-1000-lista-corners, loca-th-1200-x100, pick-seguro-3, loca-th-1230-x50, loca-th-1300-tapados, combi-tres, loca-th-1400-lista-corners, loca-th-1430-x500, loca-th-1600-x500, loca-th-1900-x1000"
-  },
-  {
-   "hora": "2026-11-17T08:37",
-   "t": "📉 Dinamarca–Noruega Morten Hjulmand - 2: la cuota ha pasado de 2.62 a 1.73 (-34%) desde que se hizo «🚀 COMBI x835 🚀» (19:00). Suele haber una noticia detrás"
-  },
-  {
-   "hora": "2026-11-17T00:08",
-   "t": "📰 Gales–Portugal: «Portugal buscará asegurar su primera plaza ante una Gales ya descartada.» (Muy de Fútbol) · tenemos 21 post(s) de este partido: pick-seguro, escalera, combi-tres, combi-partido-1528992, loca-th-0030-x100, loca-th-0100-ganaambos, loca-th-0200-lista-ambos, loca-th-0400-x50, loca-th-0500-hora, loca-th-0700-lista-corners, loca-th-0900-reto, loca-th-0930-tiros, loca-th-1000-lista-corners, loca-th-1200-x100, loca-th-1230-x50, loca-th-1300-tapados, loca-th-1400-lista-corners, loca-th-1430-x500, loca-th-1600-x500, loca-th-1830-tiros, loca-th-1900-x1000"
   }
  ]
 }

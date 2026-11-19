@@ -8541,7 +8541,7 @@
     ],
     "cuotas": [
       1.91,
-      1.83,
+      1.73,
       1.62
     ],
     "solo_en": [
@@ -8554,7 +8554,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-19T17:30"
+    "cuotas_revisadas": "2026-11-19T18:35"
   },
   {
     "id": "2026-11-19-loca-th-1930-ganaambos",
@@ -8567,7 +8567,7 @@
     ],
     "cuotas": [
       3.2,
-      4.33,
+      4.0,
       3.4
     ],
     "solo_en": [
@@ -8580,7 +8580,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-19T18:02"
+    "cuotas_revisadas": "2026-11-19T18:35"
   },
   {
     "id": "2026-11-19-loca-th-2000-tiros",
@@ -8594,9 +8594,9 @@
       "1638297|Home Player Shots|Francisca Nazareth - 3"
     ],
     "cuotas": [
-      1.44,
+      1.33,
       1.4,
-      1.4,
+      1.17,
       1.4,
       1.44
     ],
@@ -8610,7 +8610,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-19T18:30"
+    "cuotas_revisadas": "2026-11-19T18:35"
   },
   {
     "id": "2026-11-20-ganadores-resto",
