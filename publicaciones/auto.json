@@ -8576,9 +8576,9 @@
       "1638338|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      3.25,
-      4.0,
-      3.75
+      3.2,
+      4.33,
+      3.4
     ],
     "solo_en": [
       "threads"
@@ -8589,7 +8589,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T18:02"
   },
   {
     "id": "2026-11-19-loca-th-2000-tiros",

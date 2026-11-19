@@ -2746,14 +2746,14 @@
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 19,
+    "total": 20,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 19,
+      "pendiente": 20,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 19
+      "sin_resolver": 20
     },
     "combis": [
       {
@@ -2869,6 +2869,12 @@
         "titulo": "🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨",
         "estado": "pendiente",
         "cuota": 12.13
+      },
+      {
+        "id": "2026-11-19-pick-seguro-2",
+        "titulo": "Vamos con el pick de hoy familia 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
@@ -2876,6 +2882,6 @@
       "rojo": 0,
       "total": 63
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 3,75 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n⏳ 🤑💸 LA LOCURA DE x156 🤑💸 · pendiente\n⏳ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 9,87 · pendiente\n⏳ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · pendiente\n⏳ 🤑 COMBI POR 12,83 🤑 · 12,83 · pendiente\n⏳ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 12,13 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 19 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 3,75 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n⏳ 🤑💸 LA LOCURA DE x156 🤑💸 · pendiente\n⏳ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 9,87 · pendiente\n⏳ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · pendiente\n⏳ 🤑 COMBI POR 12,83 🤑 · 12,83 · pendiente\n⏳ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 12,13 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 20 sin resolver"
   }
 }
