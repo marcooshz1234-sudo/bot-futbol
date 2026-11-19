@@ -982,14 +982,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47112",
-   "fecha": "2026-11-15T14:30",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-15T14:33",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47112.jpg"
-  },
-  {
    "id": "-1001468963672/47111",
    "fecha": "2026-11-15T14:30",
    "texto": "ℹ️ ¡ÉLITE PÉREZ || 12° EDICIÓN! 🎁 \n\n👑 ¡LA OPORTUNIDAD DEL AÑO! TOP \n\n~ Tenemos un porcentaje de acierto MUY ALTO de acertar la información  🧑‍💻\n\n🎙 ¡CONFIANZA MAXIMA! SE JUEGA HOY \n\n🔐 Estás informaciones tenemos un porcentaje muy alto de acierto. \n\n🛍 PRECIO: 14.99€ 24.99€\n\n💳 VARIOS MÉTODOS DE PAGO\n\n👇👇👇👇👇👇👇👇👇👇👇👇👇\n\n🔥 COMPRAR AQUÍ YA 🔥\n\nhttps://tipsterperez.tipsterpage.com/tx1zi4jf",
@@ -2478,16 +2470,16 @@
    "texto": "⏰… ¡En 30 minutos comienza nuestra apuesta!",
    "foto": false,
    "visto": "2026-11-19T20:54"
+  },
+  {
+   "id": "-1001468963672/47346",
+   "fecha": "2026-11-19T20:56",
+   "texto": "⏰… ¡esto empieza señores! \nEn el momento acabe el partido dejo una apuesta NBA me gusta por Aqui.",
+   "foto": false,
+   "visto": "2026-11-19T21:04"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
-  {
-   "id": "-1002463340479/87241",
-   "fecha": "2026-11-18T12:42",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-18T12:47"
-  },
   {
    "id": "-1002463340479/87240",
    "fecha": "2026-11-18T12:42",
@@ -3974,6 +3966,14 @@
    "texto": "👀🤐✅ Después de ACERTAR ✅  LA CUOTA 500 DE AYER DE LA NBA  ✅👀🤐 --> https://t.me/+JUAcl0urV8tjZGI0\n\n⚠️ Yo entraría YA a la CUOTA 500 DE LA NBA DE HOY  🤐\n\n--> https://premiumpay.pro/2032/A\n\n⬆️BORRO ACCESO EN UNOS MINUTOS ⌚️",
    "foto": false,
    "visto": "2026-11-19T20:54"
+  },
+  {
+   "id": "-1002463340479/87442",
+   "fecha": "2026-11-19T20:55",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T21:04",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87442.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -17122,6 +17122,14 @@
    "texto": "Por supuesto, VA A SER DE NBA 🏀🇺🇸",
    "foto": false,
    "visto": "2026-11-19T20:54"
+  },
+  {
+   "id": "-1001233274610/196193",
+   "fecha": "2026-11-19T21:04",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T21:04",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196193.jpg"
   }
  ]
 }
