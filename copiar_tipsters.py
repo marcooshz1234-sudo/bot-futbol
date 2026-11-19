@@ -66,8 +66,8 @@ def motivo_no(x, usos):
     from plantillas import choca
     if choca(s, list(usos)):
         return "choca con un post nuestro de ese partido"
-    if usos[s] >= 2:
-        return "ya va en 2 posts"
+    if usos[s] >= 1:   # 19/11 (Marcos): en Telegram el mismo pick nunca dos veces (sí otra cosa del mismo partido)
+        return "ya salió hoy en Telegram"
     try:
         import revision
         sin = revision.lados_sin_estrella(x["partido_id"])

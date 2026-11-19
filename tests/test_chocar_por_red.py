@@ -40,6 +40,16 @@ class ChocarPorRed(unittest.TestCase):
         motivo = C.bloquea(tg, tg["texto"]) or ""
         self.assertNotIn("choca", motivo)
 
+    def test_telegram_nunca_el_mismo_pick(self):   # 19/11 16:58
+        POSTS.append({"id": "2026-11-19-pick-tg", "solo_en": ["telegram"], "enviado": "x", "sel": ["7|Match Winner|Home"]})
+        try:
+            mismo = {"id": "2026-11-19-pick-claude-9", "solo_en": ["telegram"], "sel": ["7|Match Winner|Home"]}
+            otro = {"id": "2026-11-19-pick-claude-8", "solo_en": ["telegram"], "sel": ["7|Both Teams Score|Yes"]}
+            self.assertTrue([f for f in C.comprobar(mismo, "x") if f[0] == "repetido"])
+            self.assertFalse([f for f in C.comprobar(otro, "x") if f[0] in ("repetido", "choca")])
+        finally:
+            POSTS.pop()
+
     def test_misma_red_no(self):
         th = {"id": "2026-11-19-loca-th-1200-x50", "solo_en": ["threads"], "sel": ["9|Match Winner|Home"]}
         self.assertTrue([f for f in C.comprobar(th, "x") if f[0] == "choca"])

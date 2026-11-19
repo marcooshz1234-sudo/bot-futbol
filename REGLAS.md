@@ -70,7 +70,7 @@
 - ⚙️ Variedad en cada combi: tipos de mercado distintos; en las de varios partidos, una pata por partido.
 
 ## 3. Lógica de una combi
-- 🤖 **Nunca chocar**: dos posts del mismo partido tienen que poder ganar a la vez. **Solo dentro de la misma red** (19/11, Marcos: «no importa que choquen las del Threads y las del Telegram; las que no pueden chocar son las de la misma red social»). El máx. de 2 posts con el mismo pick, también por red. (combis_dia.ya_publicadas(red=…), comprobar_post; test_chocar_por_red) Única excepción: la loca puede llevar
+- 🤖 **Nunca chocar**: dos posts del mismo partido tienen que poder ganar a la vez. **Solo dentro de la misma red** (19/11, Marcos: «no importa que choquen las del Threads y las del Telegram; las que no pueden chocar son las de la misma red social»). El máx. de 2 posts con el mismo pick, también por red. **En Telegram, el mismo pick nunca dos veces en el día; dos cosas distintas del mismo partido, sí** (19/11 16:58, Marcos). (combis_dia.ya_publicadas(red=…), comprobar_post; test_chocar_por_red) Única excepción: la loca puede llevar
   un «o empate» aunque choque, pero no como costumbre (12/11).
 - 🤖 **Máximo 2 posts con el mismo pronóstico** en el día (ganadores no cuenta; la cola a mano sí) (11/11).
 - 🤖 **«Que gane un equipo» (gana, gana una parte, hándicap, doble oportunidad…) como mucho en 2 posts del día por equipo** (13/11: Suiza iba en 4 posts y un 0-0 tumbó los 4). Córners, tarjetas, jugadores y goles no cuentan para esto; las combis con escudos, el estrella y los ganadores tampoco. Los posts del día NO tienen límite. (combis_dia.equipo_de + test_fallos_13nov)

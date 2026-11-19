@@ -128,14 +128,19 @@ def comprobar(p, texto=None, otros=None):
         loca = "loca" in pid
         # 19/11 (Marcos): Threads y Telegram pueden chocar entre ellos; dentro de la misma red, nunca
         misma_red = Counter(otros) if dado else Counter()
-        for r_ in ([] if dado else redes_de(p)):   # por red: el máximo, no la suma (un post en 2 redes cuenta 1)
-            misma_red = misma_red | Counter(_sin_este(p, red=r_))
+        por_red = {} if dado else {r_: Counter(_sin_este(p, red=r_)) for r_ in redes_de(p)}
+        for c_ in por_red.values():   # por red: el máximo, no la suma (un post en 2 redes cuenta 1)
+            misma_red = misma_red | c_
         for s in sels:
             rival = [o for o in misma_red if o not in sels and choca(s, [o])]
             if rival and not (loca and s.split("|")[1] == "Double Chance"):
                 fallos.append(("choca", f"{s.split('|', 1)[1]} choca con {rival[0].split('|', 1)[1]} (mismo partido)"))
             if misma_red.get(s, 0) >= 2:   # 19/11: el máx. de 2 posts con el mismo pick, también por red
                 fallos.append(("repetido", f"{s.split('|', 1)[1]} ya va en 2 posts"))
+            elif por_red.get("telegram", {}).get(s, 0) >= 1:
+                # 19/11 16:58 (Marcos: «en Telegram no se puede repetir nunca el mismo pick, pero sí dos cosas diferentes
+                # del mismo partido»)
+                fallos.append(("repetido", f"{s.split('|', 1)[1]} ya salió hoy en Telegram"))
         if not es_copia(p):
             try:
                 import revision
