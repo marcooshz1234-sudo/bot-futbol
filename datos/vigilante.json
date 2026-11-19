@@ -1,21 +1,6 @@
 {
  "informe": "2026-11-18",
  "vistos": {
-  "check-2026-11-16-loca-th-0500-ganaambos": "2026-11-16T03:05",
-  "check-2026-11-16-loca-th-1000-x500": "2026-11-16T03:05",
-  "check-2026-11-16-loca-th-1530-x100": "2026-11-16T03:05",
-  "check-2026-11-16-loca-th-1700-x50": "2026-11-16T03:05",
-  "check-2026-11-16-loca-th-1900-ganaambos": "2026-11-16T03:05",
-  "check-2026-11-16-loca-th-1930-x500": "2026-11-16T03:05",
-  "choca-2026-11-16-1528986|Match Winner|Away-1528986|Match Winner|Draw": "2026-11-16T03:05",
-  "choca-2026-11-16-1528987|Match Winner|Draw-1528987|Match Winner|Home": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-0400-x100": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-0800-x50": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-1000-x500": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-1300-reto": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-1530-x100": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-1700-x50": "2026-11-16T03:05",
-  "regla-orden-2026-11-16-loca-th-1930-x500": "2026-11-16T03:05",
   "check-2026-11-16-loca-th-2030-ganaambos": "2026-11-16T03:15",
   "regla-orden-2026-11-16-loca-th-1900-x50": "2026-11-16T03:15",
   "regla-escudos-2026-11-17-combi-partido-1528992": "2026-11-16T08:01",
@@ -89,6 +74,10 @@
  },
  "abiertos": [
   {
+   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
+  },
+  {
    "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
@@ -99,10 +88,6 @@
   {
    "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
-  },
-  {
-   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
@@ -153,7 +138,7 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T02:56",
+ "revisado": "2026-11-19T03:06",
  "historial": [
   {
    "hora": "2026-11-19T00:48",
