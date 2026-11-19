@@ -2481,14 +2481,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87245",
-   "fecha": "2026-11-18T13:26",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-18T13:32",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87245.jpg"
-  },
-  {
    "id": "-1002463340479/87244",
    "fecha": "2026-11-18T13:26",
    "texto": "",
@@ -3973,6 +3965,14 @@
    "foto": true,
    "visto": "2026-11-19T22:32",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87447.jpg"
+  },
+  {
+   "id": "-1002463340479/87448",
+   "fecha": "2026-11-19T22:43",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T22:43",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87448.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -4716,20 +4716,6 @@
   }
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
-  {
-   "id": "-1001550157115/100546",
-   "fecha": "2026-11-16T17:22",
-   "texto": "LA CUOTA ESTÁ AHÍ. AHORA TOCA TOMAR LA DECISIÓN. ⏳\n\nLlevamos horas trabajando la jornada y finalmente tenemos seleccionada nuestra apuesta premium. Datos, contexto y una cuota que consideramos muy interesante en estos momentos. No podemos dejarlo pasar. 🤝\n\n➡️ RESERVA TU ACCESO PREMIUM EN EL SIGUIENTE LINK: https://mypago.net/shop/grupoviptrader",
-   "foto": false,
-   "visto": "2026-11-16T17:31"
-  },
-  {
-   "id": "-1001550157115/100547",
-   "fecha": "2026-11-16T17:50",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-16T18:01"
-  },
   {
    "id": "-1001550157115/100548",
    "fecha": "2026-11-16T17:52",
@@ -6193,6 +6179,20 @@
    "texto": "Este no es un grupo más, no es un pack más… Es la oportunidad más fuerte que hemos lanzado en mucho tiempo: pronósticos de máximo valor, análisis quirúrgico y picks creados para generar pasta desde el primer día. 📈\n\n🚩 Aquí no vienes a probar suerte, estás por delante del resto.\n🚩 Aquí cuentas con ventaja, con datos y con una estrategia diseñada para pegar fuerte. \n\nEste grupo es para quien quiere resultados YA. Para quien entiende que en las apuestas gana el que actúa, no el que duda. Para quien sabe que la banca crece cuando se toman decisiones inteligentes… y rápidas. Muy atentos! ⚠️",
    "foto": false,
    "visto": "2026-11-19T22:32"
+  },
+  {
+   "id": "-1001550157115/100750",
+   "fecha": "2026-11-19T22:35",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-19T22:43"
+  },
+  {
+   "id": "-1001550157115/100751",
+   "fecha": "2026-11-19T22:37",
+   "texto": "➕¿Qué hace tan poderosa La Inversión del Siglo? \n • Picks filtrados por valor real, no por intuición.\n • Ventaja estadística en cada movimiento.\n • Cuotas mal calibradas que las casas no quieren que detectes.\n • Análisis táctico y lectura profesional de líneas.\n\n💡 La Inversión del Siglo no espera a nadie. Cada minuto fuera es dinero potencial que estás dejando pasar.",
+   "foto": false,
+   "visto": "2026-11-19T22:43"
   }
  ],
  "MisterBasquet 🏀": [
@@ -17164,6 +17164,13 @@
    "texto": "¡Tenéis 20 minutos para entrar! 🚨\n\nCuesta solo 1.99€ y es de NBA 🏀🇺🇸\n\nhttps://store.kunfupay.com/cobrich/kDHt21Aw",
    "foto": false,
    "visto": "2026-11-19T22:32"
+  },
+  {
+   "id": "-1001233274610/196200",
+   "fecha": "2026-11-19T22:34",
+   "texto": "Estais entrando como locos 🤯",
+   "foto": false,
+   "visto": "2026-11-19T22:43"
   }
  ]
 }
