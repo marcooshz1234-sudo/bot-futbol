@@ -66,17 +66,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "Arsenal W",
-   "visitante": "Lyon W",
-   "inicio": "2026-11-19T21:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del Arsenal W–Lyon W",
-   "cuota": 1.83,
-   "justa": 1.85,
-   "ev": -0.011,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
    "local": "Austria Wien W",
    "visitante": "Bayern Munich W",
    "inicio": "2026-11-19T18:45",
@@ -86,10 +75,21 @@
    "ev": -0.011,
    "fuente": "Pinnacle",
    "edad_h": 0.0
+  },
+  {
+   "local": "Arsenal W",
+   "visitante": "Lyon W",
+   "inicio": "2026-11-19T21:00",
+   "texto": "Más de 1,5 goles en la 2ª parte del Arsenal W–Lyon W",
+   "cuota": 1.83,
+   "justa": 1.85,
+   "ev": -0.011,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T17:29",
+  "hora": "2026-11-19T17:53",
   "revisadas": 0,
   "mejor": null
  },
