@@ -8463,12 +8463,12 @@
       "1638338|To Win Either Half|Home"
     ],
     "cuotas": [
-      1.57,
+      1.53,
       1.57,
       1.62,
-      1.67,
-      1.8,
-      1.62
+      1.62,
+      1.83,
+      1.53
     ],
     "solo_en": [
       "threads"
@@ -8479,7 +8479,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-19T15:02"
   },
   {
     "id": "2026-11-19-loca-th-1700-escudos",
