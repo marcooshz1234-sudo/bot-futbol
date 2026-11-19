@@ -9029,7 +9029,14 @@
       "telegram"
     ],
     "enviado": "2026-11-19T21:12",
-    "mensaje_id": 554
+    "mensaje_id": 554,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-19-verde-auto-2026-11-19-pick-tip-2",
@@ -9042,6 +9049,13 @@
     "resultado": "verde",
     "verde_de": "2026-11-19-pick-tip-2",
     "enviado": "2026-11-19T21:20",
-    "mensaje_id": 555
+    "mensaje_id": 555,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]

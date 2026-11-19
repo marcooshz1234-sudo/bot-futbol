@@ -7178,10 +7178,126 @@
   ],
   "1608379": [],
   "1570025": [],
-  "1575221": [],
-  "1570454": [],
+  "1575221": [
+   {
+    "equipo": 157,
+    "jugador": "A. Davies",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "L. Diaz",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "S. Gnabry",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "M. Neuer",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 157,
+    "jugador": "I. Saibari",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "T. Dallinga",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "T. Hubers",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "I. Rondic",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "E. Skhiri",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 192,
+    "jugador": "R. van den Berg",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1570454": [
+   {
+    "equipo": 531,
+    "jugador": "U. Egiluz",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "G. Guruzeta",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "M. Sannadi",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "D. Vivian",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "A. Paredes",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 531,
+    "jugador": "N. Serrano",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 540,
+    "jugador": "A. Calatrava",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 540,
+    "jugador": "K. Garcia",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 540,
+    "jugador": "U. Gonzalez",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   }
+  ],
   "1647583": []
  },
- "ultima": "2026-11-19T20:53:31.534349+01:00",
+ "ultima": "2026-11-19T21:26:23.181846+01:00",
  "avisados": []
 }
