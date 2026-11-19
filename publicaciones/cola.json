@@ -9079,5 +9079,17 @@
       "threads": "18391391101229116",
       "threads_enlace": "18084284990349491"
     }
+  },
+  {
+    "id": "2026-11-19-rojo-auto-2026-11-19-pick-seguro-2",
+    "fecha": "2026-11-19T23:13",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ SL Benfica (fem.) o empate (SL Benfica (fem.) – Roma (fem.) 2–3)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-19-pick-seguro-2",
+    "requiere_ok": true,
+    "sin_instagram": true
   }
 ]
