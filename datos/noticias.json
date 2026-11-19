@@ -1,140 +1,404 @@
 {
- "1565306": [],
- "1575221": [
+ "1552827": [
   {
-   "titulo": "Espectáculo en Berlín: Los futbolistas del FC Bayern se hacen con el liderato del grupo con Alemania",
-   "fuente": "FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEVETGdCSThiM2RsLVhCWjBHdFE4alRuU3IyWFRYcmdnb0hPUldxaDVsSmhmTk91ZThIemN0d20zV3ZYdXFmV3FSbENRN0NVeTRnZUVRUGFnVVRzUW04Qmk0MnFER2ZrQUFBTTBpTTFQSFJxd2lxamJnQ0VXNWhjbERnXzQ0Ymxwc0liSXdiakR4My1sWkJVd19PU3BneEJHeWRtM3JMQnNNZVFxX1dTejRNeS1peFpNOXBIZ2gxMWJvMDh5RnBBamlmSjgtZmluaHR2YnczYw?oc=5",
-   "fecha": "2026-11-19T01:12",
-   "equipo": "Bayern München",
+   "titulo": "Resultados de Fútbol",
+   "fuente": "espn.com.pe",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cWhQUDBmcjAwN0tHdkpZNWczdkxnVmloLVU0cFpNRVJyN21qbXVlUjAwRWVudmpaSW85S3llTmdyOXM4TC1LTTNRTHlXdVl5dU80Q3dEZl9XVnZEcE1TZUM1RjgtdUVMWnc?oc=5",
+   "fecha": "2026-11-19T07:32",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Calendario de fútbol 2026",
+   "fuente": "espn.com.pe",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RTmMzeGZGeWR1ZzZpU2w0aTdJaVdDNHRHQkxrMmE5ckZKb0NKWWt4eFZ4MUpkLVB1UTJERGlfWGc4MjNuZG1leXdTUTBuRnVHckpzS3E4c2FiRnptN25xMUNfa1BuQ3hObGc?oc=5",
+   "fecha": "2026-11-19T06:59",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Troyes vs. Le Havre, por la Liga de Francia 2026: día, hora y cómo seguir online",
+   "fuente": "La Nación",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3cyUVFoZ1ptaGVPNHRiR29mZ0NySWxlNDUxbXZ1c1AxcEQyUzdzNUxqc1pROG1tYk9mODBDRlktM1A5REdLUkJqeDNzNC04a2E3MnZkLXU5S3R4YVd6UXoyRG1NZEY1ZVdKaWtIYUpaejlHWTlIUFFfUVE3aVNXb3ZYX0Zod0pJQW9VajJ5T3NMemNkZWs3cDN5alNyaXNYbmJaTVJWQmZfY1NzLWJyeF94ckplTVN0MG1YbWVxSkV4bDlkc1l0RVFNbmV2UQ?oc=5",
+   "fecha": "2026-11-19T06:00",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Fallece jugador en Francia durante entrenamiento de su equipo",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEphQWRnNEdMRXg2S2xBOV9MeWdJZ1NORjlYZUxKTXZLRHN1ZkZiMWNrUUpqTGRRZEhMeHBUTnNUNnBEZVJvbWdqcmVBUkM4ZnNYeFBPOV9VenhrU0JxZG1PSHJsTExqVC03MDlfM05tdkwwcGNJLU8wWkROaE9OaktKQURMUnlaajVZcVp4WE50eUh3WnhoXw?oc=5",
+   "fecha": "2026-11-19T03:42",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Equipo de Le Havre - Plantillas y estadísticas | Coupe de France 2024-2025",
+   "fuente": "Las Provincias",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1o2Ry1KSlRfOEJwV0FRLWppZjNyNlhqMkFfTldfRUtlV25qZ2RuV1BzcDNUaUZkN25DTGRPVW1JNDVYZjg3QmZ6X2N2aXh1S1hDSGJJVTE0NGM1ZFhBbEtHS0QzTnVTRDJ5UEpXTElDZTA2UnItdVZPZVYtbF92TkFSUjB2VUhGX3liMTFydmNnTmgzMjBwNlJySURva1oxOUw5SXRRT0JrWXl6LWdqZnI2M1FIeUpxN1ZxMw?oc=5",
+   "fecha": "2026-11-19T01:00",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "¿Qué pasó con Jardine? Así le va al entrenador brasileño fuera de América",
+   "fuente": "TV Azteca",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hkeFM3OXA0bElDNHg4WEVkd1lmd0pRM0pvb2V5WUNiUHlhcTNwdkxUYlZkMFNxbHJMdXZPV3d1bHp2aGtudE1wSDh0TlJTbjJFVGtjQURJY2tLZUVmVnRhaW5IdzBzSTJZR0RaRkw2R0ZRU1N3T0tfWmNUUGpxTHcybExSdlBWOGtKUnlVX2ZrTlRXMTZEV0V5bVowVW5fQUxYZ3luR1k2bjFJakpGaGJR?oc=5",
+   "fecha": "2026-11-19T00:22",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Lyon e Independiente Barranquilla jugarán la final de la Liga de Futsal",
+   "fuente": "Win Sports",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemwyeFZWbzZ3TVBNZkJCakNteGtiVnB5OEpZY1NMd2xDTFlzSUF0Y3hDOHJFYnNRRzJmYUFNdmZaUXY0UGJxeVpGMG5OYldaRHVGMkJMeThac1NZdW1WeEs5MUFVZlYtX2FnVjd0eExXZTM2OGh1cWdPZlJYM1hESHoxaUllc09Xdk1yanVrSTJtQnJ2cFVROUdxdjEtRnpwYW0wM1g5S3VzcFN5UF9JM2ZPanIwUWczS2stWllpNkhpaU5sb3lRWV9kREs?oc=5",
+   "fecha": "2026-11-18T23:04",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Sigue el baile de entrenadores en la Ligue 1",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmtxQlhPS2lnRlc4TkxGSzBtUWRPLXRJTGp6TzV4a01NYV9ob1huN3BiRlhuVDBnd1pnZ1JzYkpmTVJILUNHemFZVElYSVRHMzl5dmJRYS1NUG9ndnFhQzAtaEY4WC1IcnI3N1JwVGZBTDFFMzdtWm5UZ3ZTWmotaHJ4bHBVZE1Id0hrT0FwSlB1NFdtNTBuX3hR0gGaAUFVX3lxTFB2a3FCWE9LaWdGVzhOTEZLMG1RZE8tdElManpPNXhrTU1hX2hvWG43cGJGWG5UMGd3WmdnUnNiSmZNUkgtQ0d6YVlUSVhJVEczOXl2YlFhLU1Qb2d2cWFDMC1oRjhYLUhycjc3UnBUZkFMMUUzN21ablRndlNaai1ocnhscFVkTUh3SGtPQXBKUHU0V201MG5feFE?oc=5",
+   "fecha": "2026-11-18T22:26",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Alineaciones de Troyes contra Le Havre AC",
+   "fuente": "rcdm.es",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mUG5GaWhQTTY5VEw3UC00dGk2Q2RsYmNRbTRIeHppMG5pRTVFMVVySGlxRDlIMzd3Sm9IbTJtRDRBWDQ1eUh2YmVHZGVBU1gtU3JNQ005TWpydzhpeU9mYThKV2FfbEhJOWc?oc=5",
+   "fecha": "2026-11-18T21:09",
+   "equipo": "Estac Troyes",
+   "tipos": []
+  },
+  {
+   "titulo": "Así va la tabla general del Apertura 2026, antes de la última jornada de la Liga BBVA MX",
+   "fuente": "TV Azteca",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmEtOURDYjhxeFlucldEZUh1QjVGWVgwYmg0eWVrOUZLOUpTUHlqdkxaLUJjTzBFSFo4NEg3VFp6ajE1ajdKbHVyVGMwODF2T1VNSlY0SjRlVnpoZXl4cFJXMTFpNGhjZllfeEpwakFJM1BZWTJYbW1EUGdQeEgzV1R1VTgtaTZUOHJYUURwUm5fa2R1Yjdsa1BvT3BncDRyUjk4SXBPSVIxb2piQlI5cDhNVXNqZElHOGktOHpNSEE3RV9BZjBn?oc=5",
+   "fecha": "2026-11-18T21:07",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Argentina vs España: Lionel Scaloni le responde a Unai Simón tras decir que Inglaterra es mejor que ellos",
+   "fuente": "TV Azteca",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRTltSVFGMWozQXVOSWZtV1lnNnJnMlBKdDZqakg1TC16WDkxbXRMUF9uNmF5M0JrXzlHeFJBSWtpQURYQzFWLXNRQkJjcFJkdWZtQTM3QWpLR09DcVdHV3dUc2U2OGEwel94Vjk1Zm9RYjNBQmc0NjNhQWotbFRSdE1WVWJTenRhRndKOGVjU2diNTRWNC1iak91WjBIMF9laUJCNkQ3X2IyUDRZSUhEOVJKMmhZMGwtTDBoMGpwWmF6dzJCNy1Sdm41WC1ZdllXYk5Dd1pYLVNUZUgtdnc?oc=5",
+   "fecha": "2026-11-18T20:56",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "Cómo conseguir entradas para el Le Havre-Le Mans: precios de la Ligue 1, información del partido, venta de última hora y más",
+   "fuente": "Goal.com",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNU3hpUGgxWW1KbmQ4WWdidWszWTZoLWJ2SlViZGVnODlxWkppb0ZkaHZzZnJ1QVhJOTQxUnFSblRwRGl1RW9nd3NrS1BxaWVtbndTZDNZRk1mQjhBQVZEMUt1TGVzZkU5Z0tGU1dzaUgzdzhVXzdicldjM2pGaGxUTndFX1VVWU44dE8wU2VxM1lUOEdibmViNnlVbHBrUmRBNGdqbVlneWVfZHZpN2kycTlselJGLU9FSVdzQWtwdFlPemlIbU0tcU1iSFNPY2dTd3dPeTN0WDRldk1nd1hsQlRoLS1aczlYQ0pvSGhLT2QyMUJJaGNLUE55MGVON0x6LWhqbGpBbi02TTVXSXVBRjg5ZGpwbTBIaHRr?oc=5",
+   "fecha": "2026-11-18T15:32",
+   "equipo": "Le Havre",
+   "tipos": []
+  },
+  {
+   "titulo": "El Estrasburgo reemplaza a su entrenador, Hugo Oliveira, por Vitor Matos",
+   "fuente": "Flashscore.es",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2pTeFkxaHdKeXVMVEFyeVRrckF1T1IwcktMV0dkRUJLMGJaeVFPaFY0MlFKcV85RVBjdjdKeGdGV3Z3UzJxMjFZa2tEd2NBUGNaX1dPY3NCZ2JIa0t2SEFSdlJBMVdxZ1JNVXNxSGRrN1NaYllEZmJhcXE2M3RISXN0NXR3S1hlLUFIVnZVWlE3eU44YjM4VTJPWlk3QmFpMGVkeHV6cFQ5U3BiLVE?oc=5",
+   "fecha": "2026-11-18T14:07",
+   "equipo": "Le Havre",
+   "tipos": []
+  }
+ ],
+ "1638327": [
+  {
+   "titulo": "Paris FC Femenino vs HB Køge Women: estadísticas previas y datos | Champions League Femenina 2026/2027",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0pyU0FweWR0WVRqNkkyQV9pbVMxWVJfR1ZhQ3RabGNkYVNOVzhHU3ByLTZzdl9ibkRmUGpNODN2VjhBMFZpcE83ZzhVQmpqNVNBLUV3SkRKOVFLR19jZkpuak9TUUFsYUFFOXFORDMxT1ktWDI3SWtMa25ZRGlLcGtWT1cxdWNGM3VkT1N1YkNibTZ3UHlGblNpNUVSZGplU2NfcmZfYldUY3lSTWh1bWYyb0RiRGNWVmc?oc=5",
+   "fecha": "2026-11-19T01:20",
+   "equipo": "Paris FC W",
+   "tipos": []
+  },
+  {
+   "titulo": "Resultados de fútbol del 19 de noviembre de 2026",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jY3YxSHZQdVNHRW5qMF96aWxvblphWExEdWs4T2lMTFdDQ3N2bElNWFBzb2tGek05dnNxNGZDcFp3TENUeGN5eDBoUG9kQVFIVl9uNWxVTzA1V1J3djRyYlp0ZDFKQ0d6MjhId3Rtbw?oc=5",
+   "fecha": "2026-11-18T18:11",
+   "equipo": "Paris FC W",
+   "tipos": []
+  }
+ ],
+ "1608379": [],
+ "1551377": [],
+ "1638338": [
+  {
+   "titulo": "Benfica Femenino vs Roma Femenino: estadísticas previas y datos | Champions League Femenina 2026/2027",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTlkdm5yelJVRG9FdmxIV1A2aFY2dWdjbVk5RGJlcU4xd1k2MTJuVlJ3TkduOVg0UUFPV194LUlFR0p4Y0ZvWDBNUXpRR0wzeXZUWE5ISEsyNDdXZk5OdkF3OTRIdWYxYmlKdzFHVmxkQUM0SjluM19zQkFvTFFFV1BFblhvRm9hSHdKSGNQOWhieTYyV3RMUm5ZNW4yQWFsVk9HcWdfTzQyUlU2ZTI3cjhLazJUUnl6Y1E?oc=5",
+   "fecha": "2026-11-19T01:20",
+   "equipo": "Roma W",
+   "tipos": []
+  }
+ ],
+ "1551379": [],
+ "1551380": [
+  {
+   "titulo": "34-31: El Füchse de Gidsel se mete en un buen lío en la Champions, amenaza para el Barça",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR2tBdnhhYWtsd1J4Z2JRaW43SGc5QXlkM29PNmRFd1RIcE9FaFVwWjVGbTFEWU4wQ3dhdkZkVmFCNEU1d1dUajN5dml1dFd2M2d4aEJGQTVUOXE1bXAxdkJ4UUZoR2NqLW94c3JWNjVKQWdEaktnS3VJLUpocUFfbVYzNkhXaEFMLVNqcDVwQ1g4M1JNc0N1dFZMQWpFSTZOS1BEakpiRWlLaDJFR0cyaFplRlNPSlVZVHE1eDlybXZXMUY1ZHZBMWlfOUVPVjjSAc8BQVVfeXFMTUdrQXZ4YWFrbHdSeGdiUWluN0hnOUF5ZDNvTzZkRXdUSHBPRWhVcFo1Rm0xRFlOMEN3YXZGZFZhQjRFNXdXVGozeXZpdXRXdjNneGhCRkE1VDlxNW1wMXZCeFFGaEdjai1veHNyVjY1SkFnRGpLZ0t1SS1KaHFBX21WMzZIV2hBTC1TanA1cENYODNSTXNDdXRWTEFqRUk2TktQRGpKYkVpS2gyRUdHMmhaZUZTT0pVWVRxNXg5cm12VzFGNWR2QTFpXzlFT1Y4?oc=5",
+   "fecha": "2026-11-18T21:11",
+   "equipo": "Aalborg",
+   "tipos": []
+  }
+ ],
+ "1638292": [],
+ "1565308": [],
+ "1570454": [
+  {
+   "titulo": "El mensaje de Eder Sarabia a 'Cala' tras su gravísima lesión",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1BXNF9KWmt4bEVBUkFJZm43a1ZrR3JEckltM196ZDg1SGVJb19PeU5UWUtWYnVqTmxTRktQUkF3N0NQeG5DQkNXYnNtQ293NU40UkxhZlZYMFNxU1R2c0tYZ2k1ZEo3VG8yaWlya1FBcUZsTkcyLTU4dHdVMVB1WTJzbFUwUEZNUmN2NUUxOE9pQUp1REkwenpib3dYdjJmeHhpMHVXQUt0STFzZXNkZ0NicEtqbk9kc3A0YWN3VVBOZHdxSjAw0gHHAUFVX3lxTE9fUFc0X0paa3hsRUFSQUlmbjdrVmtHckRySW0zX3pkODVIZUlvX095TlRZS1ZidWpObFNGS1BSQXc3Q1B4bkNCQ1dic21Db3c1TjRSTGFmVlgwU3FTVHZzS1hnaTVkSjdUbzJpaXJrUUFxRmxORzItNTh0d1UxUHVZMnNsVTBQRk1SY3Y1RTE4T2lBSnVESTB6emJvd1h2MmZ4eGkwdVdBS3RJMXNlc2RnQ2JwS2puT2RzcDRhY3dVUE5kd3FKMDA?oc=5",
+   "fecha": "2026-11-19T09:58",
+   "equipo": "Espanyol",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Grave lesión en el Espanyol, rotura de cruzado y adiós a la temporada",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM3ZQU0xGZXhOMUJBa0pKNGsxMVRCY0dPUDJEalJyQnNYb2RJeHpEbjhoVTNwbXkyN2xlTkJ6RTBpVm1KN1B6RFlnWFdidW5HVHNYRVE3SXBOel9wZTNsdFB4elpMbjN0OThxMThta2hOYnNKM1d5U29PUXl4Yk9YVGIxZW5XdElCWlpYZHJacUN5N1F3UzVlQ1RSWTRpTG9CSTVWbHhIdTRhM2lsNDJLeExIYzgzT0VPX2ZYTnhYM0RveUE5aGVZOGppcw?oc=5",
+   "fecha": "2026-11-18T18:43",
+   "equipo": "Espanyol",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Bajas importantes en el entrenamiento del Athletic Club",
+   "fuente": "Comuniate",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVZvS2Iwai1SbnZndGlHYVR1YkxZY0daMEZOUmlTRGdiTGF4bHhiVjFZOFEzYmdiaVpmMUJNMGNsNFRPS21qdWRHeDZ3OGRiRFBwLUFYb042SzUwMGJoQ1lhRm5wN3NOZFFQNlRrekZKYjVUaGJvVzB3Y1VxV2huZldnS21ackNJeVVQb3pndEMxNV9MeXRpbWcxT0M?oc=5",
+   "fecha": "2026-11-18T17:40",
+   "equipo": "Athletic Club",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "As Celtas llegan en ascenso a su test de Liga F",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3RtbExPb3FmcHcwOWxWTFBTNy1mMVFsTGM2dDZEdmFFY3pGbU9wbFdWU0tqM3RhZENRLXVfVTh6QWczUmJ4MG80b3Nqd1VtOUFsVEFpQTJGNlBZZlNWd3kwMDN2RnJqQVpFYWlGbjczUFFxcFhJUVQ4bnFmOVBpdjJPcDRCRkt2T3ZvVVFsSlBoWXPSAacBQVVfeXFMT0oxNjdnbTkxdE1obXZ5NXpXTUlMcGRfdWpsUlVNLXVfd0swQmZaYWd5aF85Wko5cnVNeVJPZXUtSUN2cXU0QWxaaktmWFZ3alJtOEx1NVJrQS11ZmdQeGlOdDB2QlJIQ3l4VGxFVzFCWFV4SVo5cFdoVm5sMDRFdFdwVzhSY3pSOWdqX0cydE9yZWl6YnpYR3pwazVPNnl5VEE3Wldja3c?oc=5",
+   "fecha": "2026-11-18T12:54",
+   "equipo": "Espanyol",
    "tipos": [
     "motivacion"
    ]
   },
   {
-   "titulo": "El Bayern recupera a Kompany para el duelo contra el Köln",
-   "fuente": "KarloBag.eu",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVFc4S2NLWUVRTzhRX0QwSmZoOVgzMk91aXM5NzBHc2NORmNIM1NaMHJ1cHpkMzFiVU4yRGVTLUowOHBWRi1VTlFnWk1UV2ZaNnJadXZSdERkOXMxa3pTUlh1eVowUUdZNHhpVjV2S19STmNvalVqc2RyelpUTkVvVDF0cWhvYXRUWXZrbkxkYmtaY0xDdFhZZWNRY2l1TUZ3eWFmWHNYcXctWmNZdk00ZHphVzFxa0huQV9Z?oc=5",
-   "fecha": "2026-11-18T15:22",
-   "equipo": "1. FC Köln",
+   "titulo": "Álvaro Marín sube escalones en el Athletic por las lesiones de Guruzeta y Sannadi con dos bazas a favor",
+   "fuente": "El Desmarque",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR091b0VYdHRzNGZpR1R1enM5WC0yZWc0UU5GSGR3eC1ldGRzZ2RiamozTUVIcFdKbkxVZzRvMU5ieHZLclpwZ2ZoZU9qdnlHS0JVRVJSdnFnZjRhaWdZRm1reFhzQW11ekM2dVlZWlAweXdfYjlMekJ3SlBKUFRFNlBQb2YxUEs5OTNKRUZSWUJWNEVYeWsyYk9qT3RRQmRENkFQUHhROGYzWW9yR1JoQmppdXRYUzRyRFZEUXhqOFZyQmg2X1BaTWdfUFB1dkpnYWhfSVg1TFNaTTZ1VVE?oc=5",
+   "fecha": "2026-11-18T11:58",
+   "equipo": "Athletic Club",
    "tipos": [
-    "vuelve"
+    "baja"
    ]
   },
   {
-   "titulo": "Kompany respalda a Musiala en el Bayern de Múnich con una emotiva declaración | Goal.com México",
-   "fuente": "Goal.com",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxORW5DYzhtQ0R0eXFJT1FnMnhpRGFnd0hTV1k1NnI2VTZNNklidGVxSld1NUhIcmtuYlhrWnd4blhHWGZ0U3VKOW1ZREg2cERzTmRHT0lHYTNONVlDc21RcVdmTHV2V3ZIUVRwMFd1ckpTaEVkMENIZWp4WWE1TUl3UERSOXJrV2dMZGFQWHBaVkxFZy12UE0weE4tRUVkOXJVZmRYSXhlVDVkUGFYc1dZdTlYd1RjYllSQjlZeTV4c09oc2p0SThneWxTajlYSWRCRE83Q3NjVmUteVIwNm1CbXUxcVRqM3FXOGEzenFyaGQ4VkVvMU5yczBJUS1IMDJpSWl3ckdhQW95REszQV84aXUtQTlZV0xwQUl0ekFEWHJmM0p4R1hNaGlRTFRSaUE?oc=5",
-   "fecha": "2026-11-19T11:38",
-   "equipo": "1. FC Köln",
+   "titulo": "Yeray dosifica ante las bajas de Vivian y Paredes ante el Espanyol",
+   "fuente": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkVlRVpSRW5xUHhhTWNLZlhWT2VpaHQyR1plZi1zR0RrelFkUlo2cHdtaTdYSWpoVDEwUDBYTGlNR0lxc0FoUF9SNVo3X19UYkZhYzVKYXRhbXpqMVlhamhQVXAyRUdURUFLeFl3Wkg0RnkyQURGSElLdEFUWkN6YjFqbFJ0bHJGM3BmQTAwU00xQlJOc1F2WkV5Y3lqRDhfMWplNm12MnhHWEZ4eUZHanVDRk1ocmIxTEE3dWhqd9IBvwFBVV95cUxNSkVlRVpSRW5xUHhhTWNLZlhWT2VpaHQyR1plZi1zR0RrelFkUlo2cHdtaTdYSWpoVDEwUDBYTGlNR0lxc0FoUF9SNVo3X19UYkZhYzVKYXRhbXpqMVlhamhQVXAyRUdURUFLeFl3Wkg0RnkyQURGSElLdEFUWkN6YjFqbFJ0bHJGM3BmQTAwU00xQlJOc1F2WkV5Y3lqRDhfMWplNm12MnhHWEZ4eUZHanVDRk1ocmIxTEE3dWhqdw?oc=5",
+   "fecha": "2026-11-18T11:34",
+   "equipo": "Espanyol",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "Eder Sarabia, contra sus orígenes: debut en el banquillo del Espanyol ante su querido Athletic",
+   "fuente": "El Periódico",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVR1YmZrcWdsTUptcmRteXlibWllT3pEVktJSjQyN052aWM5YWprWHpxNEFMSWZ5ZmJYcG5HM0JlY25feVpfREUtS2tsN1ZRTVEtVGhPako4TUNIVzhnblVqRWlRSXdrVWNRTk40dWhWRlE1LXNITEtPenZjYmxQRkxPa2xZMDc0RmxDTzBUa3JEYjBVZDNDbnZNNXRpZ2J0MHfSAaIBQVVfeXFMTjRRVDFsM3J2Z0dGdXo2RVpBVGdUY0VHSWljamJBczFIWUtlR2c2RWRpZWRDamJoc2NiN0ItQnZLZW5RM185Y3lKdUc5QVhRSUlwVURqYV9qTV9yV1VvUmNGRk4tYXdkaUFWaVV3cWFqT3FBSVRvLXpacW13YlJuR2JIVnpsSmFzX2w1RUU4aEpLNVE1Tk9XMHE3SGItM0hYR1RR?oc=5",
+   "fecha": "2026-11-18T06:01",
+   "equipo": "Espanyol",
+   "tipos": [
+    "entrenador"
+   ]
+  },
+  {
+   "titulo": "¡Durísimo golpe para el Espanyol!",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUZVTWZHTHBLMUFaS3Jjb3IwZmFSOFJaRGVaN3NsdGtoeTFVcTdjcTZaQmVpeHdPeDM5Z1BaZWgyb0V1aUZzSVJwa1dZREdzZmdLcW1MUUhqQ1g4TWdCOHcwc3B5ams2M1N4LWJvbUpXTGVrdE5iWGk3SExxS2F0eVVFemNINUdMQlhuRnBHSXQ3YkpaWE9mc09ibElabVpF0gGuAUFVX3lxTE9SeXByQUJNV3N3Z2NwWFlDNHA2NzN2Nm0xUWtyNUpLckhvQWR5YXFTVE4xdjEyc1JoU2JWeHFjMjhTT3doV1RfTXl1TF9FbjBGUjNObTRHQUZ4cUpFWVJYejZnTnJUY3FUZGU3SXJPeDF4TDhiNU53aXdXMmgtX1ZZVEdDbnJJbEZZYXNKamQwRkJvOUYtYkNmdkwxQnNCM0xfYldtN3EtaktIaXZwQQ?oc=5",
+   "fecha": "2026-11-19T12:17",
+   "equipo": "Espanyol",
    "tipos": []
   },
   {
-   "titulo": "Vídeo: Rueda de prensa previa al FC Bayern vs. 1. FC Köln",
-   "fuente": "FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWowM3RpYUkzVlFidk1YaHNTeE9RdzJfOWdyd2ZndmFBS1NOWE53aUJxX0pPWS1zck15RXhuRzItRFF6LWVWakZndV9FajVtRTNFY3BsMDIzdFptM2otNlc0YUg3bXhBTGU4NGMxb2VzX0I4dkY2Ul93N0Z3d2JTU3FPNHRjTUF3QVpBNFRRV2Y5bklhSjNXZzhjZUdwRGxFNHo5MGJacmwtLW8?oc=5",
-   "fecha": "2026-11-19T10:59",
-   "equipo": "1. FC Köln",
+   "titulo": "El Athletic rendirá homenaje en San Mamés a las campeonas del mundo Elene Gurtubay y Daniela Agote",
+   "fuente": "Radio Nervión",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmtnVms5eTFNRHU1Wm1ucnY0Wmc5ZXI0SDB5WUFlcmxvTFZ2emtEWWdFWGNTWmdsOFlZOXJQM3pzQm1aQWl6cWk0bTZYN3VZQkNkZi13TTNWTllRVUF2NWN3d050b0VwaFhZaDJ4Um9peldneDFranNSbXV2VUR6bU80Uzg2S1hwM2RsbUl2cFVSaUtUMlpWZFk0c0NqRWhYTFd5cHFfaTZQUER5enRxb3hlRThVWFlFRXhuMWZEdWtfbUVDdXR2NG43ZTZZQm5SV1QzTkdR?oc=5",
+   "fecha": "2026-11-19T12:08",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "Austria Wien - Bayern München, Resultado, Info del Partido",
-   "fuente": "Forza Football",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fNk8xNE55LWh4U2JEaDd4RHE3c2M5MDI4WjhacExKTnRpWGxjNXA1a3BQSWt4dW53RFFFU3F6R2NXWjE4OVdIaE5wTzBUSlA2dHhKWHZ2LTE0SDlhcGlCWDZ4VUlyalludWl5YzZBNGZXMjV0NUMyLUluWW1LQQ?oc=5",
-   "fecha": "2026-11-19T10:01",
-   "equipo": "Bayern München",
+   "titulo": "El Athletic pone en el mercado a un descarte de Terzic",
+   "fuente": "Fichajes.net",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0tVV05wR0ItcGpaV3NxbkhkTlZPN01BV29JRmk5Y3puLW9hZGJUR1hqSVIwaUFwYVpwcGljaF9aR0ZxMWllZjVxZ19EOTl3WDl4eUR4T2lmbmZWYng3NGlYYzJNT0tNWF94U0VOQVg4eXhfM2UwTXNWNGJwdVIzdVRpMFN3WWhQODlnaHRn?oc=5",
+   "fecha": "2026-11-19T12:05",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "Bayern München vs. Köln, por la Bundesliga 2026: día, hora y cómo seguir online",
+   "titulo": "Barcelona W – Athletic Club W: hora y canal de TV (DAZN)",
+   "fuente": "El Periódico de Ceuta",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkhRZnh5T196RXpMQnluUl9VSTY3aGJKZl9LZ09RNEFkTGhMQWdTZnlhSGhxek1PVHB2bDVmU1Y2aHdqT3FyV0dCMVZvQVo1a08yRHVtbF9UZHlpMHhMVldGQldHc3h5ZElBZHV5eEFnM2xXZThyWmw2RWtVUV9iOW1taThtbDVXOHc?oc=5",
+   "fecha": "2026-11-19T12:03",
+   "equipo": "Athletic Club",
+   "tipos": []
+  },
+  {
+   "titulo": "Espanyol: Makar Kotovshchikov le entra por el ojo a Eder Sarabia",
+   "fuente": "El 1900",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NTU9fSWMwUzFDeEwtYktQd0g1Z2Z6SjZFYXRfcjFnalRHYWJrQXBqU2Q4dDczOHJBNVBMaEJVZEFlNHh5OWZqTno3OExqUUZVZVppd0dtVHl1T2pNUkYzZnNiTndoOHpGMllYMDBIaU9rcUlDSnUzNQ?oc=5",
+   "fecha": "2026-11-19T11:47",
+   "equipo": "Espanyol",
+   "tipos": []
+  },
+  {
+   "titulo": "Resultados de Espanyol vs FC Barcelona, historial de enfrentamientos (H2H) | Fútbol",
+   "fuente": "Flashscore.es",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0hmNnI3clFkZDdETG5IcG1WWEZDSzlIaHBVN25pY2I4Q0lNNUFNT2ticjVXbWNhODdEekkzQktrX1cyNjZ2RkhZeFZ1UHBQRER1ZGNsMjhoOXNNVHJvWG9qVVdBekhFQUJ5ZExxRzZ3NmJiajVDT2c2ck80MlNaM3pRWWd0RjRsUTFIUEJR?oc=5",
+   "fecha": "2026-11-19T11:15",
+   "equipo": "Espanyol",
+   "tipos": []
+  },
+  {
+   "titulo": "Previa As Celtas - Espanyol | El partido más especial en la historia de As Celtas",
+   "fuente": "Celta de Vigo Moi Celeste",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT21QTkwxdkhQamxfWnlnTDhJR3dOdWRoZ2NmLTZSU2FpOFZ0Rk1Pa29wc2pKZElNSklldElBaTRCZW5wTjVwVkxiaGhXNWIyLU9fXy0tTVpaYnBkRkxSUjJwa2dTcExiOUhudzZYY1YwckVKTkxxakNkUFZrbFp5N1RoTHNsZHptTWZiQ19RSDk?oc=5",
+   "fecha": "2026-11-19T10:00",
+   "equipo": "Espanyol",
+   "tipos": []
+  },
+  {
+   "titulo": "Gorosabel sigue sin debutar con el Espanyol",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3NQTFNqanFaZUFmSk9CRWVTNFBsUWRmR1BZWW5sQURlZjY5WnlhZjRfeFowM3ZvNjVYS2FidVVLdG5ndW5oc2Q1VS1ibWlIVWdhOEp6UDFxMk9SYmxGbnd4RlpfZExIUW9MLUpQT3VGcC1qRVNCYVJ2aXAtc1hob2FxaFRyRnU4OERfX3Q2Mmo2eFpLcE5oMFlUVUg0V0JGZWoxSzNxZVdDam5MdWFhSGZRaVdZTHlrMjNqSzdR0gG-AUFVX3lxTE13c1BMU2pqcVplQWZKT0JFZVM0UGxRZGZHUFlZbmxBRGVmNjlaeWFmNF94WjAzdm82NVhLYWJ1VUt0bmd1bmhzZDVVLWJtaUhVZ2E4SnpQMXEyT1JibEZud3hGWl9kTEhRb0wtSlBPdUZwLWpFU0JhUnZpcC1zWGhvYXFoVHJGdTg4RF9fdDYyajZ4WktwTmgwWVRVSDRXQkZlajFLM3FlV0Nqbkx1YWFIZlFpV1lMeWsyM2pLN1E?oc=5",
+   "fecha": "2026-11-19T09:00",
+   "equipo": "Espanyol",
+   "tipos": []
+  },
+  {
+   "titulo": "\"San Mamés va a ser especial toda la vida\"",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUw2VTVUZzE1MlBlaVBET3hVWG5UNHltQkhCLXdyMWV5aEVsNE9ybkRWYjh1STZhdXFLb181NXBuSGVOQ0RkMGhGMzdvOVlPc0Q0NjFIc3lkaVoyWjZGQmlfajRZb0haQjlmYnlDQzhNWElYRjROX1pIMktTTjFON195U1g2WXhMaXlqVWdyZmpFTXUxcmRLN1psaUVyOVFKRXJCWnI0S1h0ZVJodUE3a0JEcXPSAbQBQVVfeXFMT2lMNlU1VGcxNTJQZWlQRE94VVhuVDR5bUJIQi13cjFleWhFbDRPcm5EVmI4dUk2YXVxS29fNTVwbkhlTkNEZDBoRjM3bzlZT3NENDYxSHN5ZGlaMlo2RkJpX2o0WW9IWkI5ZmJ5Q0M4TVhJWEY0Tl9aSDJLU04xTjdfeVNYNll4TGl5alVncmZqRU11MXJkSzdabGlFcjlRSkVyQlpyNEtYdGVSaHVBN2tCRHFz?oc=5",
+   "fecha": "2026-11-19T07:00",
+   "equipo": "Espanyol",
+   "tipos": []
+  },
+  {
+   "titulo": "Athletic Club vs. Espanyol por el Liga de España 2026: día, hora y cómo seguir online",
    "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1JoU1BkR2lMZG92M1ZLQk1uM3B0X1lzU0FxeUFHTWNudi1tVExaR01JeGZYcF9sRHZaT1dQM3ljN3hKVWlhU3ZhbnlXWnJPTllDcTJuY1BfM1V6QzVhSjdBZEF5SHAwX21GYXBHVnNDYVR0eTFEUnV6blI2dGFndWl0b3hMcHZTX0xXZmswRWF1VjFIOWRldWhueGY3bFJYNno4ZEMyc3pMb3hLcl9iRXk0UXY1eG5LdGxkQ0pGM24weUV1SDJYNlZKbWw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTBPekpkUnQycFJlR0tETGFBWThSSThUOVQ5blpJUjZhelhzTm1DRmhmVTQzM1VtaWZPc1kyQ1NaUnNneUt5djhKSVZyRUVwMlM1SHRkZDZEcXhhX3BKdndwU0RmUlJoMTlwQ2huNTNSWVRIWkc3d3U1WWFPMllkSnNyMExETXp2Yjd6QmFMclpReEFqaUU1QlFXaEV5QUxFTFNXUnMtSDFHbDZtbmd2ZGM0VXF1cUExVnh3bWNCc3hhSE1zdmZKRE5KSFRoUjdOTWhjd1p3?oc=5",
    "fecha": "2026-11-19T06:00",
-   "equipo": "Bayern München",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "Un exmundialista y campeón olímpico con la Selección Argentina anunció su retiro: \"Ya está decidido\"",
-   "fuente": "DSports",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTJqYXhwWEFvcnlqVF9YR01tRFpWVGF0ZG5CcmNJMmF1MlFTNU5NM1Fnb241YnBUTG84cEV0SFlGc1FuQUFVTGtFdnFmbzFXT0UxSGRFRktnMGNGeXVndlJVWnZLN01hZmlLYTVIUlZoelY3b2t3RWlRV2hSTkZiYWNZVTJwSGJvTjZWNjR3UF90azkydGd5Yzc5UEh2eXJDWjlBamlSNDU3bVMzd2hDNnQ1Y3RualBsLXI2LUl3cjBPek1fWHZNUW9xcWxlTWZheElaR3hBTlBTQk9LNWhjWFpjWmZZcE5T0gHuAUFVX3lxTFBCX1EtX2NtbDczV2JxQ0haeXpOUzNqVnB3SXpMRGFKSG5tQ3NCSUw2S3BfQmFQdURQSE95RnpzUkozc1ZEM0hpNVhCV3ZYUnFJbmxWVVFjdlBOc19wcS1hZnRFUUx5M3VwZEpQZXJ4eW5yWUtjZ1ZHd1FLaEd6WTEzRkpNM0dqbDItcWJrdnZrZ216SklSNHdkTExMcEdOQzZUeldaS0lWY19hNHdTUmpQYjFIUmlIRXNzUENfb2V5THdxaEstR29oX0taRmR4cjhXUXh6YTloXzJRVkc4cFVWNFVqbEZRVWNNRnRPOHc?oc=5",
-   "fecha": "2026-11-19T00:26",
-   "equipo": "Bayern München",
+   "titulo": "Alavés vs Espanyol",
+   "fuente": "TUDN",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wcVJqdS1hWGdYRkxBRzhNX1pJbXBtUmI1Um9NbWhWaGZIQklJLWVHX3g1R29TeGJPcEhBOEpHVUdEdEp0cmZSbmVNbTRqSFdvVVZ0ek1LeFNQS2tKNkU4Z0pQaC03bXhVbDB2azRvVGZMM0c2dDAtU0gzWm9hZw?oc=5",
+   "fecha": "2026-11-19T03:32",
+   "equipo": "Espanyol",
    "tipos": []
   },
   {
-   "titulo": "FK Austria Wien vs FC Bayern München de 450-LIGA DE CAMPEONES FEMENINA DE LA UEFA",
-   "fuente": "Futbolme",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzB0NFBWU1g1YjZrdGw0NXM1OU95UFl5Qmd5RmQtbHNOSkRlZWItYy1pdVVuWk9XcWV1YlpEc0FfTEh6UUY3VzBkTGM0WUwzRnp2b09JSldPX3BUc0FjbXJKTGdiMkNwWGl6VEpzZjhaMk1tbmptbWNDZTB5bnhWZzZwNktiUjJ3RXBickZ1QjFtQ2M?oc=5",
+   "titulo": "Resúmenes LaLiga EA Sports: Athletic Club - RCD Espanyol",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0JNZVhLMmZtcjFwQ3NxVmk1TkUyQmxoOWhxRVZNVHZNOHAwQ3NuZTI3RThhVDV0RWxSZGMtbHRJc0ZfOXhwSG1qaGJJOV9nWVU1NmhzQWpWaXNYUmw0ajUtZEhYSHRHdG1Iejk4UG5XbEZydzdPN2hkazJNeDhyN0wxZVY0cWNCVzBTSzRGRVN2ZzJnUURjdWxlWWJfV2xtZnItZFNsOElHbGhW?oc=5",
    "fecha": "2026-11-19T00:03",
-   "equipo": "Bayern München",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "Entradas para 1. FC Köln - SV 07 Elversberg en Colonia",
-   "fuente": "KarloBag.eu",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2s5Mk9jamJMVEtqRmhkVkRaTHRfMkoyQlY4c0dRLTI5SEtDNjY0NU5CNGpQWktRQTRiSlNHWEJ3TUVPaEo5b2JfM21YRFRKSUVsMFgyWktBVW5BbExSYzR6ZkcwZVAtZy1uWExmWEZEazF3czVKYU1YRkZwV0FLWDhtT0EyeE90M1A2SnFjanExR25XY1FiS1p5NEFDazhK?oc=5",
-   "fecha": "2026-11-18T17:04",
-   "equipo": "1. FC Köln",
+   "titulo": "El fútbol vizcaíno despide en Santurtzi a Blas Ziarreta",
+   "fuente": "kirolakeitb.eus",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzBTc1BPMkg1aVBrRFhBXzl0R3lHY3FMN1ItM2VKZUZsS0dHZXdLYVBtb0loWFV3Nk5jS0wzamUySE1BaTJBLUhYaG90TGV3MzFJMjlJa2gydU5DeGhFUUJZQ0p0cmtWZUI2ZkF4T3FxT243VUQ1b0FET2hjLTAtODZhUU10NFl4YlVnRkdjbXN3OEVjSWhtSA?oc=5",
+   "fecha": "2026-11-18T23:14",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "Mbappé celebra la renovación de Güler: \"Dormiré mejor esta noche\"",
-   "fuente": "DSports",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW90VXJiQ2FjTnA1bjh3VGZhUVE5aHdBeXdGaXhhM1JQanhQZ2lKdTRHSXFEeGVqTG5JWXR4RjJsX2pQdzl2YUh0aXJWRWhpUG9JaVE3SWczMFl3bl8zWHdQS3lhZXBsMFBFV1ZIRWszOVZXalNUb1NMZjRSZU1HaE4tb0NaUE1CNXNqSTZEM2I2eElFZUxRSmFwZWN2U1BILWVUUVJVMnFQTVJLQWsxTWZlLWNJeEVkZmfSAb8BQVVfeXFMUEZZODRoc3dmd3NuZEY1T2NENXAzTVFSV0tWMFYydXZRdHlXWFVoVW9ScGx3cEQwTVJxZEp0cDFYNnhuY21LUW9RX3YyNzdMNjRDLTlaRjBOdUlQYVVDMGQ5QnFMY3F5VHhIS2R6aE41N013VXp5LVpSaVRlX1BPTWw4cW1YUFl3dHhGTXk0WUQ5MklVaGdveUtLcnNnZGZRWS1fZW9mMXJfc1hLYkNyTHJLY09CRndPemlXSVJTYkk?oc=5",
-   "fecha": "2026-11-18T16:56",
-   "equipo": "Bayern München",
+   "titulo": "Santurtzi despide a Blas Ziarreta en Mamariga",
+   "fuente": "Athletic Club Info",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEI5N3g3cjVlN2xZY1ZXQjh2aWN3Um8tWWFHT0hPT0M2SmVIVWZlUlRHNVlMbXltbWdydzFXRGY5QWJkU0Nldm5Jam8tVmNlT2xYckxtelh4blZwM2EyZG9Sd05JT3dtcldVUFROMnc1RGROWDBfUFd0eUpvRWpqOVdxTmJCdUtfVUVodnRoLV95SXhmZ1JPR1pjV2VUalZjNmNWaHBn?oc=5",
+   "fecha": "2026-11-18T20:31",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "Pep Guardiola rechazó tentadora propuesta de Arabia Saudita y tomará tiempo para decidir su próximo desafío",
-   "fuente": "DSports",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMUN0dnBsd3RoYzFtaTc2aTFBRGlPc0lMZlBXdzRRSm0zVGFkTnhEZTRucC1rbWFCNWVuRUJFM2dhT1RtNW9GeF9mWGNyYm1ocVZacHpZWlBBQW83VmdNb0NmbzZneDlXbUxFYnVsOUtOODA0Q01lZFY0WWViOVlySEZ1QWc3b1hHUEpieG82SktJTjJVZk1vRlJ4YldkNVJhZkFxTmFEaUNjUUktWW1ZYmZFMTRfd2w3R3pmTEJ2Sks2YXltMjR2OW8xdk9XcHJUODNHRTFOQ0VPb0FFRmtDWnJEbHhtbXQ4bUhTSW9JMWVhQldKMkHSAfsBQVVfeXFMTnFZVC1wWjRLbEd3OXhNOXFHY0I2WmxDY1FHaXJNQ0xGRFY2aVZtdTU0Yk5YcEV1Z21vWERVYnZESU1ickFXRW1hbTBRNC1PaDczMmZXMnNPLVZfbnduNTktSm5ILVA0LUtTSWIzYUFTSEJ5V1BLRG5McHVaTXpiRVhuUDE0MTJDWnItN0Jpc0RoNE5ya25GZm5vdXF5NmpTWG5acW1tNjJWUXJVdlVHdGZOU3pLZ2FqQ3ExWmkxMlJZcGQta0ZNQmg1aDVHWnVpcHY3RWROWXNNcEVoTU9lZENISDFObWp3NWw1MWlHb1lQR2w3RVBiMEg5ZUk?oc=5",
-   "fecha": "2026-11-18T16:13",
-   "equipo": "Bayern München",
+   "titulo": "Fichajes del Athletic Club: Terzic, lanzado a por un 'killer' que ya conoce la casa",
+   "fuente": "dorsal16",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hbDVkeURYWlY4RmlVdEhCeXY0Q29rYkRCVFF0Q0dxMWFrR2JXdzV2VVhiRW1aVzF6MjhQOEtCbDFTV2xqdnVBc2FwMVdmem5LbDZleU82MXJBc3kxR09fdzlkVWFiTnN4WTM2cnI3TFpDMlJGdU9rSUp5V3k?oc=5",
+   "fecha": "2026-11-18T17:45",
+   "equipo": "Athletic Club",
    "tipos": []
   },
   {
-   "titulo": "La tajante y sincera confesión de Luis Suárez sobre su futuro y el de Lionel Messi: \"Jugaremos hasta...\"",
-   "fuente": "DSports",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUnZjU25ON2VXc3R2NjBCQmZIdmlvWWl6Nm42RFlWYkdZQURROUpYY0JHVlAyWlZ5dkVUYWhCV1lhQW1oNENmekVFVTdHQjI3MHRkUDJQRFRzNmRlN2VpV3RMUXVwY1cwbTR3MHNxSldmanZ1eWQtbUNTa2xXaTUxWnFjemhYc3dxREdaNTROenF2QU03NUNYdFJOWkdRZjlZLUtodDhxd2JGTmFDbERkVzItVkFxX042aDBoWU8yclF3TlRMeDZvdGlTYmlrVnNKNFV2UlpUbmMtSl81dEdwblF1dnVlUmNpWkFlNG1R0gHzAUFVX3lxTFBIeGxEel96MUJIVklWdFNJaTFDOEZXdE01N0k1SXFyZU9GcklPbFVaZzg4WlFBdExlbnAxUjlPYjU3R0hKdUZRdG9Pdm5DZldWQ3pfRWlhckVpcFJXN1BtYVZjZy1CN1NKUXg1TV8xVTVYM2RacDJDTEpaS1hNTTlZUGZyZHVFcEJhTEcwdF9MMWdUQVhGMUZadncySzlYNkJyNlhUOGp2ZVp3QWRlTy1vbHgzRFZxc1ZhRTN0SzYyT3otZ1BEOF8xZXJBS044azUxa2xiV2R1blhOM3plOEoyUlEtZTRScnY5Nzl1dWxpYkEzZw?oc=5",
-   "fecha": "2026-11-18T16:09",
-   "equipo": "Bayern München",
+   "titulo": "Unai Simón, sobre su gran pasión más allá del fútbol: \"Me gusta jugar al ajedrez porque me evade del fútbol. Sobre todo juego en las concentraciones, momentos largos como por ejemplo el Mundial o la Eurocopa, que estás 50 o 40 y pico días, pues me pue",
+   "fuente": "SPORT",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3VHREtXWUY5Yjl2OVcwdkx1NkZGbmdNQ0dIUmx0YzI1QVh3d1AzRHpRZ01PSzAwSDV4TmJ1SU1KRXRlaTU1TWl6ZW55S29KV2hhZUZpVWh1SWRROVJzYjV4ZGZDeDNodl9pUFdsQU9vZU9kMW5PSFNJd1FRYmZSVDNLZ0toM3h1X3R5dnFkbnZiY2ItYmFCVDlsZ2xsNXl3cHUwdW5KXzVuSW03dDluOFlaYk9taWdIUDhlVkxB0gG-AUFVX3lxTE01TTAyLVc1czg3YmNlOENRVVZvN3E2eURSRmRVaEZ6T2d4VG9sS0xLWXRpOFIyVUFpZk9zZlZkOE1BeEd1eHVZdngwbHJ3aEJBdHEyRVFBZ3NKY2dBdWp1U2NvR3NMakFpNUNka3FCakc1eDZCbHZFOUpFVWVEa2ktVUEzUGdvRWRtWDN2SDktWEIwN1l5R0dHTXhqMFNzWFplem9TdEd4UGtiU212ai1Ia3djakhlaGFTa0VIREE?oc=5",
+   "fecha": "2026-11-18T10:17",
+   "equipo": "Athletic Club",
    "tipos": []
-  },
+  }
+ ],
+ "1638286": [
   {
-   "titulo": "La rueda de prensa previa al partido contra el Köln, minuto a minuto",
-   "fuente": "FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEpxUW5LQmM3c2p1azM2TzBKeWZkTHFrRnVRLTdyQkVjMk8tV0k3S1dDclg3SzQyTUZoam5DbUFKTWFIS19XMGx1cjVoNHlNNXZCc19MOHh4LXZQOFdKT2FDYmdIeUgwaFpmMkctOWhCNHJPanNtWWZ4VE1pOGZ1OWw2bTlEcERlZk5IakFJcmNfY1BEblRhdmI0NnROUG83SXdDSzBB?oc=5",
-   "fecha": "2026-11-18T13:52",
-   "equipo": "1. FC Köln",
-   "tipos": []
-  },
-  {
-   "titulo": "Cifras y datos previos al FC Bayern - 1. FC Köln | jornada 10 Bundesliga 2026/27",
-   "fuente": "FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUE5YkJuZVdfYWZEamFiQThwUWU1ckFxZkRvRDZvN1ZXR3dWMUxkNDVaRmFNa0NiSDFTZnhqRm82ZFRSMGNZZnFTT3haZ0Y5WV9hNUVOM0xNejlFbU5XdFhmaVZhUUNPV3plNVJhOURuUDhXLUx3bFgwS3JiRUtwOFBDdVQ5TndzV2xIbk0wZ0FJRjZ6SmFyTjNyRlhOQ1U1alJWSDE4SU1nY0ZfbU9EQmJoajVKOUpOTUlyWk1GWQ?oc=5",
-   "fecha": "2026-11-18T13:44",
-   "equipo": "1. FC Köln",
-   "tipos": []
-  },
-  {
-   "titulo": "Laimer empata, Minjae gana e Ito cae derrotado",
-   "fuente": "FC Bayern",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhGZ2NaZGxLRU9NMTlXOVhXTmpsLXNoRm9ZOWtwdFEtZTBCTVZIUzZEbl9kLXFYTGRBNjdrN1U0OURiTHZfLURIb1BwZjVrNEFObzJmbE9NRUxHVW5mRDBYTUkyNWh5bGNfVF8xZzRsMVRPa1ZmT2ViU3dpazVqWDJuSG9JbUJ6WXFYb0RJaw?oc=5",
-   "fecha": "2026-11-18T11:01",
-   "equipo": "Bayern München",
-   "tipos": []
-  },
-  {
-   "titulo": "Bayern vs Colonia: estadísticas previas y datos | Bundesliga 2026/2027",
+   "titulo": "Arsenal Women vs Lyon Femenino: estadísticas previas y datos | Champions League Femenina 2026/2027",
    "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0NmNDdPczdMeWpscUVyLUdoREtDZGNTbmxQSWtidXBoMUFUNFk4amFfLTJFOG9EeXhUQjR1WmhWczlQVFFJLW1lTmh4X2lPRmxwZGxiTkZFYTRHMlhnUGc1dTlFbHNFa3dVODBqMGVoU1VER2RiNVAwdGJIQmdNb1dNYkx5TDhlX2NzVG9rb3RFUFpfd1ZhZ20xUTRBWWtkWjBncA?oc=5",
-   "fecha": "2026-11-18T04:10",
-   "equipo": "Bayern München",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzB4M2FWTHg2c3N3UnBmbXVxdVFTUmNGLUtrUklmWE1SSUNGWmdVX3FwMWxkcHVDb1d1NjVza3ZoeTRFOUhMLV9XTHljLWRMWXU3TEZiSzVVX05vemNadjdGSmxhaGc3WmNRbWhuRzVncTV3X3BWbnQ2ZFZKM0ZTYTBCaWM5c1ZXajg2QTVQRDE4RVMxWm5NdWNCTUZacVlfNzVrQUhJcldRankyVXU0UUFSRVBKMTJwLWc?oc=5",
+   "fecha": "2026-11-19T01:20",
+   "equipo": "Lyon W",
+   "tipos": []
+  },
+  {
+   "titulo": "Previa Arsenal Fem vs OL Lyonnes Fem, Champions League Femenina Jornada 5",
+   "fuente": "BeSoccer ES",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSTg4UGVJQmNfWS05SjJPMGdYV2g4bDV3RTBoUGJXNGc3a1hBbTBSdEJSTXRKU2pUQTJyZ012QzNsMV9pSnNGVUZWVUVONHo1ZUF6TUVVT2FfeDNaLUM5aFpCWUNNQ0FCOUlkMXJWSEVBTi0yQXVLQnluZElKZ0ZGTnU3bTk2OE9aNFZ5SG5LTDY?oc=5",
+   "fecha": "2026-11-19T00:38",
+   "equipo": "Arsenal W",
+   "tipos": []
+  },
+  {
+   "titulo": "Resultados de fútbol del 19 de noviembre de 2026",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jY3YxSHZQdVNHRW5qMF96aWxvblphWExEdWs4T2lMTFdDQ3N2bElNWFBzb2tGek05dnNxNGZDcFp3TENUeGN5eDBoUG9kQVFIVl9uNWxVTzA1V1J3djRyYlp0ZDFKQ0d6MjhId3Rtbw?oc=5",
+   "fecha": "2026-11-18T18:11",
+   "equipo": "Lyon W",
    "tipos": []
   }
  ],
  "1647583": [
+  {
+   "titulo": "Santiago Giménez, de promesa de Cruz Azul a delantero bajo presión: ¿qué pasó con el Bebote?",
+   "fuente": "Soy Futbol",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTN6b3B5TFBFdnYwNWxZVnFiWEhNRmYtbHFLUlpOdTRhVWFuNjc0dHR1VkFUUjB2cndnUU5NdXFXYURzdzlqeGlKUThEbjl5a2Znd3pCbDFYMTl0RlBIRzBWbG5Wc1k3Skh6bTlxcnF0azlBOFRNY1ZkQ3RuN2l4VFBOdUlZUF9aMmRLNDZyWTJDRDlLMHdMZFN3XzM3YmZja1Z0UUlyMmx5RlktVzZaU0NMaEJBN2ZxYnc4VkkyWlJ4ZGdBNzNpall6MF9hQTlBR3BpZm9TWW5qdw?oc=5",
+   "fecha": "2026-11-19T12:58",
+   "equipo": "FC Porto",
+   "tipos": []
+  },
+  {
+   "titulo": "\"El más activo en el centro del campo\": Hwang In-beom, máximo tiempo de juego entre los jugadores de campo del FC Porto... 165 minutos en total en dos partidos de la selección nacional",
+   "fuente": "스타뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nNzdEZ2dLTmJGMnJrRkZUZDBlUVVldjhhZ2EydzRQOVZoOTl4NkxqWllzNUlUcTRHRkFpN0VkV2ZDVllzME1fTWlxdXUxNDh5b3M0ZVRvVnd1WHlHbGpocGdNSkpqUUgwclVjUFNCdzJ5Q2UzOXNxS1Rn?oc=5",
+   "fecha": "2026-11-19T12:57",
+   "equipo": "FC Porto",
+   "tipos": []
+  },
+  {
+   "titulo": "A puro fútbol: así fue el festejo de los 10 años de Giovanni, el hijo de Leandro Paredes",
+   "fuente": "HolaSalta Noticias",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTY2cHMzd3I0ODNqTmQxVGFnMlZ6TXpvdkZNdFpvLU5kZm1jemN1OXJwMENJX2F5b0hPcms0SDBCSjJlNUt5bTYtQTRPVW5mcUxkODBUUkFNS01RSmlVZnM2S1o4VVk1cm1xb2ZrY25XVnBST0theDN4ZlBYdUtUWTA0VlF0d2kyNXBHcUhDWXhsR3V6Y19BbGNBR242TDZFU0E?oc=5",
+   "fecha": "2026-11-19T12:30",
+   "equipo": "Paredes",
+   "tipos": []
+  },
   {
    "titulo": "Riquelme punta a un defensor de la Selección Argentina ante la posible salida de Di Lollo",
    "fuente": "El Intransigente",
@@ -240,14 +504,6 @@
    "tipos": []
   },
   {
-   "titulo": "Detienen a una ex jugadora de la selección brasileña, en un operativo contra el crimen organizado",
-   "fuente": "DSports",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVlVCNUVsRFRlLVlmc3dFV1NKYVdEQ0FoMHVKTGpxUGpxbjM0clVDenN4MW5tdW9UUzdfS3A4TW9tRWdtQWNqUE42bXFsY0dSNnJybFhIV2N3TFpBXzJaWThqLXJ6T1hPRmxtZDQ1cTRhT2QzNmpCRHRablB0SWdHTEhaa2d0eWZGQ2hrYnFBSGpFSURvSHp4RnV0YjVsSEdKMnA1ZWRMTkc0UVc1RS1BZFBHTmp2Nk1VMmZ3SVJ2ZDF5ZGZqMjR6T1dvU09hTWphVkFQNzZITURtZjhGQnVWZUkyLVBuTFnSAewBQVVfeXFMT25uYnJzeXJYWjZTUWxBaXVBZHRXMUF6WHdFTy1UOXVxTG1vMENIVlExOVBZTzFqMTVLdVFlaldRdW40QVNqMXFnRVJMNjFJY0VIRmF6SnVEbThjOHBoWHZkRUFRY1MwZTc1OGMtVzVFaVFKX1hiRlpGaE1yeHJVR2JpUDdsSTNyOEdNbS1WRk1kNHZKZTkwVmptS21OVzlYaDRKcld2bHBmbWprc0VvSUltWnZyQ0Z1bVRfSWVIYlFkS18xem9oNVQwSUJpcFZpLXlDVDhLbW9hLU96QTQxTjg3V0hZM09BSVBnQWY?oc=5",
-   "fecha": "2026-11-18T15:24",
-   "equipo": "FC Porto",
-   "tipos": []
-  },
-  {
    "titulo": "Calendario Champions League 2026/27: equipos clasificados, partidos y eliminatorias",
    "fuente": "DAZN",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOHNUeURGcW94alVIT1Y5TVE4TkdnVzU1Y2xYcnhhNU12V0RxWlRaZ2x4SDVJRTM2d2p1WGdWRk9ISnkyYU8xT05VcjNmaTZnVmpfdjMyX1pSUVFGOFJ0TE1ObjBWN1NndFBTc0RpVllKdmZUT25yRV9uZWxfMkZqaWRxaHhkMG9TYlh2MktHWFZHeDNFUlc2ZmUyM1RxdHZPd254OHk1M2lqUkNiWlFucEhRLUxWSkpUVWswOTkzR0hWU1RWR0lTTWhzQ2JsUHB4Yjg2UDEzLV9UX28yMlJoRHVNbHp1aFRXZ2xhT0Rpdw?oc=5",
@@ -280,215 +536,53 @@
    "tipos": []
   },
   {
-   "titulo": "- La llama que nos alimenta: la cuarta equipación para 2026/27",
-   "fuente": "FC Porto",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmhvQ19xLUxNWkNUamM5UUxONjFKR2UyZ1BxS2FURXdRNm9fdThBUnNCMVhUMlBxQ0htdG84cVMxd0lVZFdhdzEwdHViRGptaXBRcjV0NlJHVUJrOFVkRWNBcE94X1BGMmpLVHVFc3htc2p4dUxPcXhoOVVZQTVzYm00NDZUX0RIYjBaT1B6c3lsQ29pMWlzajFnZml0QU50bUpNcVNvVmVaQQ?oc=5",
-   "fecha": "2026-11-18T12:00",
-   "equipo": "FC Porto",
-   "tipos": []
-  },
-  {
    "titulo": "Paredes seguirá ligado al fútbol cuando deje de jugar: el paso que dio",
    "fuente": "https://yoxeneize.com/",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUlFUzlhQ0FFTW45UGpuZkVrSG5KUGtJX285a3d6QzdOekhfTV9BOXB2cUFZQ0lkbG4zdWRLNllfT0RwQjlENVByZ0lwTERic05NZDlRejVSQVRWUkVZMkw1TWE3YWRYODhGTWxWTWd1ZzIwTUZXX2xnTEVsUjFnS0lYTXJIeVlxbkVkWjFGU1Zyb3k4?oc=5",
    "fecha": "2026-11-18T03:17",
    "equipo": "Paredes",
    "tipos": []
-  },
-  {
-   "titulo": "Quién es la influencer trans que aseguró mensajearse con Paredes: ''Me pide...''",
-   "fuente": "Que Pasa Salta",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUU5T2x0SmNSeUlOeEhSeFZwVVo4WXBnVkNGYVRlcWNoLUVTLTRtNlA2T0poeUR3SVRSV0daNjZMNVZXRUdoSjVYSk1GMlBOdHpISzJRVTNoSTN2RzZXOTRGWjRsTjhTOFN3c1Nzc0owRTVJMll6OEpwUTJFZVo1dGdzcUtRWlRqRnZ3bEZHM1hkc2hEQnh3eWNrMTBOZThGMFNkTURsbmxsdzNsVTd3bFo3c9IBswFBVV95cUxOQUU5T2x0SmNSeUlOeEhSeFZwVVo4WXBnVkNGYVRlcWNoLUVTLTRtNlA2T0poeUR3SVRSV0daNjZMNVZXRUdoSjVYSk1GMlBOdHpISzJRVTNoSTN2RzZXOTRGWjRsTjhTOFN3c1Nzc0owRTVJMll6OEpwUTJFZVo1dGdzcUtRWlRqRnZ3bEZHM1hkc2hEQnh3eWNrMTBOZThGMFNkTURsbmxsdzNsVTd3bFo3cw?oc=5",
-   "fecha": "2026-11-18T01:22",
-   "equipo": "Paredes",
-   "tipos": []
-  },
-  {
-   "titulo": "Paredes y Merentiel se divirtieron jugando en un cumpleaños infantil",
-   "fuente": "TyC Sports",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOGM1RllaQy05My1CdHhkdGg1a1BONTlINURrUFhPUzZvOHBOUVlCUnhSOXlnTlR3UWFqY2ZsWnlJMDdhczB4cUxTeWRDdWh3RGJNaFRqUm0tTFN0TTJiVFlYY1JJRi1fSURXWk1kT2htUXAtdDNKc29ZMTluQ2tjd3BYN0diaWZ0cGtEdnpJSGFHMmJHS01ROUNFemxCa2VPQ1FsSm4ydGE5TmRmT2J4RW5MVGQ5TVVwR3hxdHpNclJ1TjVwMmdkeHkzSGhkVVZLTHRRbU9ueTBLWGptelVB?oc=5",
-   "fecha": "2026-11-18T00:30",
-   "equipo": "Paredes",
-   "tipos": []
   }
  ],
- "1570454": [
+ "1638297": [
   {
-   "titulo": "Grave lesión en el Espanyol, rotura de cruzado y adiós a la temporada",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM3ZQU0xGZXhOMUJBa0pKNGsxMVRCY0dPUDJEalJyQnNYb2RJeHpEbjhoVTNwbXkyN2xlTkJ6RTBpVm1KN1B6RFlnWFdidW5HVHNYRVE3SXBOel9wZTNsdFB4elpMbjN0OThxMThta2hOYnNKM1d5U29PUXl4Yk9YVGIxZW5XdElCWlpYZHJacUN5N1F3UzVlQ1RSWTRpTG9CSTVWbHhIdTRhM2lsNDJLeExIYzgzT0VPX2ZYTnhYM0RveUE5aGVZOGppcw?oc=5",
-   "fecha": "2026-11-18T18:43",
-   "equipo": "Espanyol",
-   "tipos": [
-    "baja"
-   ]
-  },
-  {
-   "titulo": "As Celtas llegan en ascenso a su test de Liga F",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3RtbExPb3FmcHcwOWxWTFBTNy1mMVFsTGM2dDZEdmFFY3pGbU9wbFdWU0tqM3RhZENRLXVfVTh6QWczUmJ4MG80b3Nqd1VtOUFsVEFpQTJGNlBZZlNWd3kwMDN2RnJqQVpFYWlGbjczUFFxcFhJUVQ4bnFmOVBpdjJPcDRCRkt2T3ZvVVFsSlBoWXPSAacBQVVfeXFMT0oxNjdnbTkxdE1obXZ5NXpXTUlMcGRfdWpsUlVNLXVfd0swQmZaYWd5aF85Wko5cnVNeVJPZXUtSUN2cXU0QWxaaktmWFZ3alJtOEx1NVJrQS11ZmdQeGlOdDB2QlJIQ3l4VGxFVzFCWFV4SVo5cFdoVm5sMDRFdFdwVzhSY3pSOWdqX0cydE9yZWl6YnpYR3pwazVPNnl5VEE3Wldja3c?oc=5",
-   "fecha": "2026-11-18T12:54",
-   "equipo": "Espanyol",
-   "tipos": [
-    "motivacion"
-   ]
-  },
-  {
-   "titulo": "Álvaro Marín sube escalones en el Athletic por las lesiones de Guruzeta y Sannadi con dos bazas a favor",
-   "fuente": "El Desmarque",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR091b0VYdHRzNGZpR1R1enM5WC0yZWc0UU5GSGR3eC1ldGRzZ2RiamozTUVIcFdKbkxVZzRvMU5ieHZLclpwZ2ZoZU9qdnlHS0JVRVJSdnFnZjRhaWdZRm1reFhzQW11ekM2dVlZWlAweXdfYjlMekJ3SlBKUFRFNlBQb2YxUEs5OTNKRUZSWUJWNEVYeWsyYk9qT3RRQmRENkFQUHhROGYzWW9yR1JoQmppdXRYUzRyRFZEUXhqOFZyQmg2X1BaTWdfUFB1dkpnYWhfSVg1TFNaTTZ1VVE?oc=5",
-   "fecha": "2026-11-18T11:58",
-   "equipo": "Athletic Club",
-   "tipos": [
-    "baja"
-   ]
-  },
-  {
-   "titulo": "Yeray dosifica ante las bajas de Vivian y Paredes ante el Espanyol",
-   "fuente": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkVlRVpSRW5xUHhhTWNLZlhWT2VpaHQyR1plZi1zR0RrelFkUlo2cHdtaTdYSWpoVDEwUDBYTGlNR0lxc0FoUF9SNVo3X19UYkZhYzVKYXRhbXpqMVlhamhQVXAyRUdURUFLeFl3Wkg0RnkyQURGSElLdEFUWkN6YjFqbFJ0bHJGM3BmQTAwU00xQlJOc1F2WkV5Y3lqRDhfMWplNm12MnhHWEZ4eUZHanVDRk1ocmIxTEE3dWhqd9IBvwFBVV95cUxNSkVlRVpSRW5xUHhhTWNLZlhWT2VpaHQyR1plZi1zR0RrelFkUlo2cHdtaTdYSWpoVDEwUDBYTGlNR0lxc0FoUF9SNVo3X19UYkZhYzVKYXRhbXpqMVlhamhQVXAyRUdURUFLeFl3Wkg0RnkyQURGSElLdEFUWkN6YjFqbFJ0bHJGM3BmQTAwU00xQlJOc1F2WkV5Y3lqRDhfMWplNm12MnhHWEZ4eUZHanVDRk1ocmIxTEE3dWhqdw?oc=5",
-   "fecha": "2026-11-18T11:34",
-   "equipo": "Espanyol",
-   "tipos": [
-    "baja"
-   ]
-  },
-  {
-   "titulo": "Eder Sarabia, contra sus orígenes: debut en el banquillo del Espanyol ante su querido Athletic",
-   "fuente": "El Periódico",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVR1YmZrcWdsTUptcmRteXlibWllT3pEVktJSjQyN052aWM5YWprWHpxNEFMSWZ5ZmJYcG5HM0JlY25feVpfREUtS2tsN1ZRTVEtVGhPako4TUNIVzhnblVqRWlRSXdrVWNRTk40dWhWRlE1LXNITEtPenZjYmxQRkxPa2xZMDc0RmxDTzBUa3JEYjBVZDNDbnZNNXRpZ2J0MHfSAaIBQVVfeXFMTjRRVDFsM3J2Z0dGdXo2RVpBVGdUY0VHSWljamJBczFIWUtlR2c2RWRpZWRDamJoc2NiN0ItQnZLZW5RM185Y3lKdUc5QVhRSUlwVURqYV9qTV9yV1VvUmNGRk4tYXdkaUFWaVV3cWFqT3FBSVRvLXpacW13YlJuR2JIVnpsSmFzX2w1RUU4aEpLNVE1Tk9XMHE3SGItM0hYR1RR?oc=5",
-   "fecha": "2026-11-18T06:01",
-   "equipo": "Espanyol",
-   "tipos": [
-    "entrenador"
-   ]
-  },
-  {
-   "titulo": "El Athletic rendirá homenaje en San Mamés a las campeonas del mundo Elene Gurtubay y Daniela Agote",
-   "fuente": "Radio Nervión",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmtnVms5eTFNRHU1Wm1ucnY0Wmc5ZXI0SDB5WUFlcmxvTFZ2emtEWWdFWGNTWmdsOFlZOXJQM3pzQm1aQWl6cWk0bTZYN3VZQkNkZi13TTNWTllRVUF2NWN3d050b0VwaFhZaDJ4Um9peldneDFranNSbXV2VUR6bU80Uzg2S1hwM2RsbUl2cFVSaUtUMlpWZFk0c0NqRWhYTFd5cHFfaTZQUER5enRxb3hlRThVWFlFRXhuMWZEdWtfbUVDdXR2NG43ZTZZQm5SV1QzTkdR?oc=5",
-   "fecha": "2026-11-19T12:08",
-   "equipo": "Athletic Club",
-   "tipos": []
-  },
-  {
-   "titulo": "Espanyol: Makar Kotovshchikov le entra por el ojo a Eder Sarabia",
-   "fuente": "El 1900",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NTU9fSWMwUzFDeEwtYktQd0g1Z2Z6SjZFYXRfcjFnalRHYWJrQXBqU2Q4dDczOHJBNVBMaEJVZEFlNHh5OWZqTno3OExqUUZVZVppd0dtVHl1T2pNUkYzZnNiTndoOHpGMllYMDBIaU9rcUlDSnUzNQ?oc=5",
-   "fecha": "2026-11-19T11:47",
-   "equipo": "Espanyol",
-   "tipos": []
-  },
-  {
-   "titulo": "Previa As Celtas - Espanyol | El partido más especial en la historia de As Celtas",
-   "fuente": "Celta de Vigo Moi Celeste",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT21QTkwxdkhQamxfWnlnTDhJR3dOdWRoZ2NmLTZSU2FpOFZ0Rk1Pa29wc2pKZElNSklldElBaTRCZW5wTjVwVkxiaGhXNWIyLU9fXy0tTVpaYnBkRkxSUjJwa2dTcExiOUhudzZYY1YwckVKTkxxakNkUFZrbFp5N1RoTHNsZHptTWZiQ19RSDk?oc=5",
-   "fecha": "2026-11-19T10:00",
-   "equipo": "Espanyol",
-   "tipos": []
-  },
-  {
-   "titulo": "Gorosabel sigue sin debutar con el Espanyol",
+   "titulo": "Ya hay lista del Barça para recibir al Servette en Champions",
    "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3NQTFNqanFaZUFmSk9CRWVTNFBsUWRmR1BZWW5sQURlZjY5WnlhZjRfeFowM3ZvNjVYS2FidVVLdG5ndW5oc2Q1VS1ibWlIVWdhOEp6UDFxMk9SYmxGbnd4RlpfZExIUW9MLUpQT3VGcC1qRVNCYVJ2aXAtc1hob2FxaFRyRnU4OERfX3Q2Mmo2eFpLcE5oMFlUVUg0V0JGZWoxSzNxZVdDam5MdWFhSGZRaVdZTHlrMjNqSzdR0gG-AUFVX3lxTE13c1BMU2pqcVplQWZKT0JFZVM0UGxRZGZHUFlZbmxBRGVmNjlaeWFmNF94WjAzdm82NVhLYWJ1VUt0bmd1bmhzZDVVLWJtaUhVZ2E4SnpQMXEyT1JibEZud3hGWl9kTEhRb0wtSlBPdUZwLWpFU0JhUnZpcC1zWGhvYXFoVHJGdTg4RF9fdDYyajZ4WktwTmgwWVRVSDRXQkZlajFLM3FlV0Nqbkx1YWFIZlFpV1lMeWsyM2pLN1E?oc=5",
-   "fecha": "2026-11-19T09:00",
-   "equipo": "Espanyol",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW5SQktNZ1FvQlFSamxIenF5UjdGUHR6RXJVeUVESVhRTXl3TUNFcGhGMnpYWDFhN2h5UVZFaTFiWl83ZXBTckRrM3NqV0I4VlN0UTN6VlhPOElJRG1OdlRBNnNESDBPNElFbUZCSThsdlcwcm1SR0JoTUlIcmYweE1ERExFZmFiY1FuY1AtRmp3QlZXdnFycjlxSFcwaDF2NE1VcVhGNkdHV093MzhZQXg5SEZjdGlBaGfSAccBQVVfeXFMTUlla1ZPclFrUWV4YXJXODNFbFNoUldVZVZaU1BuNU42RGV1UU9ZdnhQS1MyQm05c1Z4T0dDTEJrWUNoemgyM1p4S0FoU1dsQlNjN2FIRFpURmRrSndiR2FLQ3hFa1VMNWhmaWwxYXhTaVpQVUREbXNETTdockgtcTRSVFpGbWRPVUI0Z01JZ1V4RWQyT1ZzMTBPdXR1X0RXOUJtLXk3YzNXYzZkMXpBMWlOdFF2RmJvc0VDTXNCdW5OcW5rMlZXMA?oc=5",
+   "fecha": "2026-11-19T12:29",
+   "equipo": "Barcelona W",
    "tipos": []
   },
   {
-   "titulo": "\"San Mamés va a ser especial toda la vida\"",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUw2VTVUZzE1MlBlaVBET3hVWG5UNHltQkhCLXdyMWV5aEVsNE9ybkRWYjh1STZhdXFLb181NXBuSGVOQ0RkMGhGMzdvOVlPc0Q0NjFIc3lkaVoyWjZGQmlfajRZb0haQjlmYnlDQzhNWElYRjROX1pIMktTTjFON195U1g2WXhMaXlqVWdyZmpFTXUxcmRLN1psaUVyOVFKRXJCWnI0S1h0ZVJodUE3a0JEcXPSAbQBQVVfeXFMT2lMNlU1VGcxNTJQZWlQRE94VVhuVDR5bUJIQi13cjFleWhFbDRPcm5EVmI4dUk2YXVxS29fNTVwbkhlTkNEZDBoRjM3bzlZT3NENDYxSHN5ZGlaMlo2RkJpX2o0WW9IWkI5ZmJ5Q0M4TVhJWEY0Tl9aSDJLU04xTjdfeVNYNll4TGl5alVncmZqRU11MXJkSzdabGlFcjlRSkVyQlpyNEtYdGVSaHVBN2tCRHFz?oc=5",
-   "fecha": "2026-11-19T07:00",
-   "equipo": "Espanyol",
+   "titulo": "FC Barcelona Femenino vs Servette FC Femenino: estadísticas previas y datos | Champions League Femenina 2026/2027",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkJjRVZpdWZnQTEtNE9OelpsV1pVaFJBN0VMcHV4WU9lUklpNVdEZVNUSm9NWGNsaUQ2T3JfaWNFUkdSUnFFbzM2WUFBU0NCeWpEcTY1VWdCeWQ5YlJ5a0s3bDExZTRBNjVnNWFOV1FMV2RkcDA3cS1PRHhIYTR2d2FtRzVOQjNQV1pZWmZSTm5CMjd4akdHYzRvSm1jM29PN01QaE1kc3lwTEFMQmlQV2lTaVA3N1Fyanc?oc=5",
+   "fecha": "2026-11-19T01:20",
+   "equipo": "Barcelona W",
    "tipos": []
   },
   {
-   "titulo": "Athletic Club vs. Espanyol por el Liga de España 2026: día, hora y cómo seguir online",
-   "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTBPekpkUnQycFJlR0tETGFBWThSSThUOVQ5blpJUjZhelhzTm1DRmhmVTQzM1VtaWZPc1kyQ1NaUnNneUt5djhKSVZyRUVwMlM1SHRkZDZEcXhhX3BKdndwU0RmUlJoMTlwQ2huNTNSWVRIWkc3d3U1WWFPMllkSnNyMExETXp2Yjd6QmFMclpReEFqaUU1QlFXaEV5QUxFTFNXUnMtSDFHbDZtbmd2ZGM0VXF1cUExVnh3bWNCc3hhSE1zdmZKRE5KSFRoUjdOTWhjd1p3?oc=5",
-   "fecha": "2026-11-19T06:00",
-   "equipo": "Athletic Club",
+   "titulo": "Resultados de fútbol del 19 de noviembre de 2026",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jY3YxSHZQdVNHRW5qMF96aWxvblphWExEdWs4T2lMTFdDQ3N2bElNWFBzb2tGek05dnNxNGZDcFp3TENUeGN5eDBoUG9kQVFIVl9uNWxVTzA1V1J3djRyYlp0ZDFKQ0d6MjhId3Rtbw?oc=5",
+   "fecha": "2026-11-18T18:11",
+   "equipo": "Barcelona W",
    "tipos": []
   },
   {
-   "titulo": "Alavés vs Espanyol",
-   "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wcVJqdS1hWGdYRkxBRzhNX1pJbXBtUmI1Um9NbWhWaGZIQklJLWVHX3g1R29TeGJPcEhBOEpHVUdEdEp0cmZSbmVNbTRqSFdvVVZ0ek1LeFNQS2tKNkU4Z0pQaC03bXhVbDB2azRvVGZMM0c2dDAtU0gzWm9hZw?oc=5",
-   "fecha": "2026-11-19T03:32",
-   "equipo": "Espanyol",
+   "titulo": "Del Bernabéu al Camp Nou: Laporta prepara el golpe maestro contra Florentino, firmará para 2029",
+   "fuente": "Madrid-Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbmoxUkRVbDdBUjVsbGM2WEU0dFJqUU5rWkZTN05xa25icFUyd3FpczFuQ3NJSDJITzVBeVB4MFN4Wl9mZWU5TlRMdENMNXFNM05xTWVyYlJQTzkwUFNKbU1nVWdGWm8zY2tib1huQjZ6Mk9zRGhhZm1nZjJaYVdOcGowSWFhVG1lZlNHblE4X1hFUDhGdjNtVXRndHlyWENOUUdQOWlUaW5OYzhHWWFzQi1SLU5IYW5kT1VYQmhzdmRkTjVxZEVFLVNmV09Jc2oycU41T3NiVWZJWHd0VEtjWHNkTmJFZ9IB6wFBVV95cUxPODhtLXZQV1Q0QV9WT0h2ODB3ZnZyM3dNdnA0ajRZSU5qWUtFWl92SWdzUVZUcV9TNHZOdVNpaGtPb3JkWG9mejNrdWt1SlZtRF9vcHFwMzRvVWhzendlaERpdzd6WXlLMVZFcTUyZkhqTEdXbHZYVWJ0TFp1VmNUTG84RkNDMUx3N2ZkUndHZGZwcFdRc1BqeFVGV003aXJfVnZxSW1KeGQ3V00ydVZhMVJ1Z3Y0QTBOSjFpTDhkckF1eVYxTXIzT0NnRi03Q2hPZXNyeFJIaXdEY0lyR2gzTk9vNFhaM0JoZ0Zr?oc=5",
+   "fecha": "2026-11-18T12:00",
+   "equipo": "Barcelona W",
    "tipos": []
   },
   {
-   "titulo": "Barcelona W – Athletic Club W: hora y canal de TV (DAZN)",
-   "fuente": "El Periódico de Ceuta",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkhRZnh5T196RXpMQnluUl9VSTY3aGJKZl9LZ09RNEFkTGhMQWdTZnlhSGhxek1PVHB2bDVmU1Y2aHdqT3FyV0dCMVZvQVo1a08yRHVtbF9UZHlpMHhMVldGQldHc3h5ZElBZHV5eEFnM2xXZThyWmw2RWtVUV9iOW1taThtbDVXOHc?oc=5",
-   "fecha": "2026-11-19T01:02",
-   "equipo": "Athletic Club",
-   "tipos": []
-  },
-  {
-   "titulo": "Resúmenes LaLiga EA Sports: Athletic Club - RCD Espanyol",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0JNZVhLMmZtcjFwQ3NxVmk1TkUyQmxoOWhxRVZNVHZNOHAwQ3NuZTI3RThhVDV0RWxSZGMtbHRJc0ZfOXhwSG1qaGJJOV9nWVU1NmhzQWpWaXNYUmw0ajUtZEhYSHRHdG1Iejk4UG5XbEZydzdPN2hkazJNeDhyN0wxZVY0cWNCVzBTSzRGRVN2ZzJnUURjdWxlWWJfV2xtZnItZFNsOElHbGhW?oc=5",
-   "fecha": "2026-11-19T00:03",
-   "equipo": "Athletic Club",
-   "tipos": []
-  },
-  {
-   "titulo": "El fútbol vizcaíno despide en Santurtzi a Blas Ziarreta",
-   "fuente": "kirolakeitb.eus",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzBTc1BPMkg1aVBrRFhBXzl0R3lHY3FMN1ItM2VKZUZsS0dHZXdLYVBtb0loWFV3Nk5jS0wzamUySE1BaTJBLUhYaG90TGV3MzFJMjlJa2gydU5DeGhFUUJZQ0p0cmtWZUI2ZkF4T3FxT243VUQ1b0FET2hjLTAtODZhUU10NFl4YlVnRkdjbXN3OEVjSWhtSA?oc=5",
-   "fecha": "2026-11-18T23:14",
-   "equipo": "Athletic Club",
-   "tipos": []
-  },
-  {
-   "titulo": "Santurtzi despide a Blas Ziarreta en Mamariga",
-   "fuente": "Athletic Club Info",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEI5N3g3cjVlN2xZY1ZXQjh2aWN3Um8tWWFHT0hPT0M2SmVIVWZlUlRHNVlMbXltbWdydzFXRGY5QWJkU0Nldm5Jam8tVmNlT2xYckxtelh4blZwM2EyZG9Sd05JT3dtcldVUFROMnc1RGROWDBfUFd0eUpvRWpqOVdxTmJCdUtfVUVodnRoLV95SXhmZ1JPR1pjV2VUalZjNmNWaHBn?oc=5",
-   "fecha": "2026-11-18T20:31",
-   "equipo": "Athletic Club",
-   "tipos": []
-  },
-  {
-   "titulo": "¡Durísimo golpe para el Espanyol!",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUZVTWZHTHBLMUFaS3Jjb3IwZmFSOFJaRGVaN3NsdGtoeTFVcTdjcTZaQmVpeHdPeDM5Z1BaZWgyb0V1aUZzSVJwa1dZREdzZmdLcW1MUUhqQ1g4TWdCOHcwc3B5ams2M1N4LWJvbUpXTGVrdE5iWGk3SExxS2F0eVVFemNINUdMQlhuRnBHSXQ3YkpaWE9mc09ibElabVpF0gGuAUFVX3lxTE9SeXByQUJNV3N3Z2NwWFlDNHA2NzN2Nm0xUWtyNUpLckhvQWR5YXFTVE4xdjEyc1JoU2JWeHFjMjhTT3doV1RfTXl1TF9FbjBGUjNObTRHQUZ4cUpFWVJYejZnTnJUY3FUZGU3SXJPeDF4TDhiNU53aXdXMmgtX1ZZVEdDbnJJbEZZYXNKamQwRkJvOUYtYkNmdkwxQnNCM0xfYldtN3EtaktIaXZwQQ?oc=5",
-   "fecha": "2026-11-18T19:56",
-   "equipo": "Espanyol",
-   "tipos": []
-  },
-  {
-   "titulo": "El futbolista del Espanyol Álex Calatrava se rompe el cruzado",
-   "fuente": "Diario de Navarra",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGxiVUUzTjE3RV93dFp6UnhtTGd2ZU9HSTlJSVZiWDl1cjdEekE3bF9Fb0Q2X01CbnNjZjdhZUpyNzlWVlloOS1QLXBiYUdoS25OQVJ4YWFjajdvXzgwWHMtX3NNbmtXaFpyQTBsekw2UjFoc2t6TkZXRFRxMGdEb1NYSWNIWTZKdkNqclZrSm41Z0MtVEtITXAxVDZYTzlqU1JUM0VpcFVUWGMyX2hPTUtmMmRBMmx2ZEZuN1lmS3JoTGdPQTNYZVVB?oc=5",
-   "fecha": "2026-11-18T18:54",
-   "equipo": "Espanyol",
-   "tipos": []
-  },
-  {
-   "titulo": "El Espanyol pierde a uno de sus fichajes estrella para lo que resta de temporada",
-   "fuente": "Estadio Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORW5OQmZQY1VfV25RbUtYQUFQODZBaHpjM2J0X1gySGxfdjBWU2JLMUk2S1JIYzEzaV9lYldBQ3QzNGl3Zk5tM0tZOTVBb3pzcDFzWXA4VjUwOVJZZEFZeGFyNmJsdEwteXNuQWItT1lnX1laY1Z3QnI2WEZoSjZOeWFMOFZ1M1d3RmdIUXBYRHVlN2xqLU84Ym5IRXBsYU90aVVYM05aVVVlZzY3MXNHbWVVZWtYRks3aE50VGhHcjEwZ2poczBsaktDMnJubHJRWFZTSzFPeGtmVFJ1a3FCbXhtbjY?oc=5",
-   "fecha": "2026-11-18T18:53",
-   "equipo": "Espanyol",
-   "tipos": []
-  },
-  {
-   "titulo": "Fichajes del Athletic Club: Terzic, lanzado a por un 'killer' que ya conoce la casa",
-   "fuente": "dorsal16",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hbDVkeURYWlY4RmlVdEhCeXY0Q29rYkRCVFF0Q0dxMWFrR2JXdzV2VVhiRW1aVzF6MjhQOEtCbDFTV2xqdnVBc2FwMVdmem5LbDZleU82MXJBc3kxR09fdzlkVWFiTnN4WTM2cnI3TFpDMlJGdU9rSUp5V3k?oc=5",
-   "fecha": "2026-11-18T17:45",
-   "equipo": "Athletic Club",
-   "tipos": []
-  },
-  {
-   "titulo": "Unai Simón, sobre su gran pasión más allá del fútbol: \"Me gusta jugar al ajedrez porque me evade del fútbol. Sobre todo juego en las concentraciones, momentos largos como por ejemplo el Mundial o la Eurocopa, que estás 50 o 40 y pico días, pues me pue",
-   "fuente": "SPORT",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNU0wMi1XNXM4N2JjZThDUVVWbzdxNnlEUkZkVWhGek9neFRvbEtMS1l0aThSMlVBaWZPc2ZWZDhNQXhHdXh1WXZ4MGxyd2hCQXRxMkVRQWdzSmNnQXVqdVNjb0dzTGpBaTVDZGtxQmpHNXg2Qmx2RTlKRVVlRGtpLVVBM1Bnb0VkbVgzdkg5LVhCMDdZeUdHR014ajBTc1haZXpvU3RHeFBrYlNtdmotSGt3Y2pIZWhhU2tFSERB0gG-AUFVX3lxTE01TTAyLVc1czg3YmNlOENRVVZvN3E2eURSRmRVaEZ6T2d4VG9sS0xLWXRpOFIyVUFpZk9zZlZkOE1BeEd1eHVZdngwbHJ3aEJBdHEyRVFBZ3NKY2dBdWp1U2NvR3NMakFpNUNka3FCakc1eDZCbHZFOUpFVWVEa2ktVUEzUGdvRWRtWDN2SDktWEIwN1l5R0dHTXhqMFNzWFplem9TdEd4UGtiU212ai1Ia3djakhlaGFTa0VIREE?oc=5",
-   "fecha": "2026-11-18T10:17",
-   "equipo": "Athletic Club",
+   "titulo": "El Barça hará historia en el Mundial de Clubs",
+   "fuente": "Artículo 14",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3ljTEJ0bVk3cVhnclVRTGRPdWZuejcwS1JEMUlSTHRrWHNlMnNURjJaVVpTZVhudE85eG1lamtaZDJTdXozYnZBMUVIdHBfMFJ6c2k1TTRHVkptNlhBY3ZWdE5BSkdxMDl4TUsxRnlRem1xM3lpbjVGdks0SjVnUGdnU05UbGw3TnhlVkNJS3lLR3ZMZExTVjd3?oc=5",
+   "fecha": "2026-11-18T05:54",
+   "equipo": "Barcelona W",
    "tipos": []
   }
  ],
@@ -504,6 +598,24 @@
    ]
   },
   {
+   "titulo": "Gerard Piqué defendió al arquero de su club, sancionado por la muerte de Jesús de Miguel: “No es el culpable”",
+   "fuente": "La Nación",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdE5aTUVET3pqaV83cFpZOHpqR1lBYmlvZk93ZHVCMzZ2bV9PbmpXdWxuMk1VQ0p2dzFjYmZjbjlwZnVpOGpfN3ZHbjBndS1aaERiR01aV2RfRmd1ZHhQeWtxMERPNUhSSHNEOUZEejlKZEs0WVFZZDNseVFUazlYVTRqaHRaTGNIX0tKTEItblJIUlVKMlFSb0VEM1VteVpSdHlOU2NrdUlWRFNERGxhRmJmcDRRVnl6TjVlNUNwYk12alBTTU1YV0hZT3dnek8xWWZZV0xLRmlWY3pFWFlDVjhuT0JBREhx?oc=5",
+   "fecha": "2026-11-18T05:18",
+   "equipo": "FC Andorra",
+   "tipos": [
+    "baja"
+   ]
+  },
+  {
+   "titulo": "\"Owono no ha tomado una decisión\"",
+   "fuente": "Mundo Deportivo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUl9IOUZHUjNkRmRkZzBZdDVXajZ4ZlRmLUFjd3I1My00ZTZHbVpTZ1lPV3kzYWpiV2g4U0ZsWGpKNDJUcHhWT3Z2bDBrcUZ3enJEbEZKM1BZV2Vsck5DYTR1VDRmXzZ4eUlGUUxsSnRMU1FXX1JPbHotVEtMVF9RV0NSMzNOZWYzcE1RcFlzTVFBcXJBMDdPOVZ5Y080Ml820gGuAUFVX3lxTE1GR0h2NDdEZFozanJUZi1zV3VidU9OR2NoQkdmX3doSFpaLXJzb1BWZmtweHNyYUl2dVo3QjRsT3JkLTkzYXl5MXA4TWFOUk1vSWtjdUlSY0VFdG9IRWY0SEdVUzJ3ZE5GZUFWTVVkVDkteGdpYm9UelplSVc2OVJGMzVtd0xNOEZuWVc4WUxaSVl4WlVxTjlva2JJT1lQSE8xYTFpZXd0N0VuLUY4UQ?oc=5",
+   "fecha": "2026-11-19T12:52",
+   "equipo": "FC Andorra",
+   "tipos": []
+  },
+  {
    "titulo": "Liga Endesa | acb.com",
    "fuente": "ACB",
    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBOZ05CaVU2R3E0d253QW9waWdKaDctMEgySkZYdVM1TnBGblZJT21TSV9LSEJ4cWt6M3BV?oc=5",
@@ -516,7 +628,7 @@
    "fuente": "rcdm.es",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM181UVpPa0NGYkFLVDVmanlXUHozU09wVDdPZ1A1ZEJwLWhHUnhEMFZGajZIM1RGcTloOUlIMnVLc0xtUnI1TVItWmZrcnZHVktMRmhSblhBTUZvLWdqaE9YM0JxUU5nalE?oc=5",
    "fecha": "2026-11-18T21:06",
-   "equipo": "Leganes",
+   "equipo": "FC Andorra",
    "tipos": []
   },
   {
@@ -584,221 +696,129 @@
    "tipos": []
   }
  ],
- "1551380": [
+ "1575221": [
   {
-   "titulo": "34-31: El Füchse de Gidsel se mete en un buen lío en la Champions, amenaza para el Barça",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR2tBdnhhYWtsd1J4Z2JRaW43SGc5QXlkM29PNmRFd1RIcE9FaFVwWjVGbTFEWU4wQ3dhdkZkVmFCNEU1d1dUajN5dml1dFd2M2d4aEJGQTVUOXE1bXAxdkJ4UUZoR2NqLW94c3JWNjVKQWdEaktnS3VJLUpocUFfbVYzNkhXaEFMLVNqcDVwQ1g4M1JNc0N1dFZMQWpFSTZOS1BEakpiRWlLaDJFR0cyaFplRlNPSlVZVHE1eDlybXZXMUY1ZHZBMWlfOUVPVjjSAc8BQVVfeXFMTUdrQXZ4YWFrbHdSeGdiUWluN0hnOUF5ZDNvTzZkRXdUSHBPRWhVcFo1Rm0xRFlOMEN3YXZGZFZhQjRFNXdXVGozeXZpdXRXdjNneGhCRkE1VDlxNW1wMXZCeFFGaEdjai1veHNyVjY1SkFnRGpLZ0t1SS1KaHFBX21WMzZIV2hBTC1TanA1cENYODNSTXNDdXRWTEFqRUk2TktQRGpKYkVpS2gyRUdHMmhaZUZTT0pVWVRxNXg5cm12VzFGNWR2QTFpXzlFT1Y4?oc=5",
-   "fecha": "2026-11-18T21:11",
-   "equipo": "Aalborg",
-   "tipos": []
-  }
- ],
- "1638338": [
+   "titulo": "Espectáculo en Berlín: Los futbolistas del FC Bayern se hacen con el liderato del grupo con Alemania",
+   "fuente": "FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEVETGdCSThiM2RsLVhCWjBHdFE4alRuU3IyWFRYcmdnb0hPUldxaDVsSmhmTk91ZThIemN0d20zV3ZYdXFmV3FSbENRN0NVeTRnZUVRUGFnVVRzUW04Qmk0MnFER2ZrQUFBTTBpTTFQSFJxd2lxamJnQ0VXNWhjbERnXzQ0Ymxwc0liSXdiakR4My1sWkJVd19PU3BneEJHeWRtM3JMQnNNZVFxX1dTejRNeS1peFpNOXBIZ2gxMWJvMDh5RnBBamlmSjgtZmluaHR2YnczYw?oc=5",
+   "fecha": "2026-11-19T01:12",
+   "equipo": "Bayern München",
+   "tipos": [
+    "motivacion"
+   ]
+  },
   {
-   "titulo": "Benfica Femenino vs Roma Femenino: estadísticas previas y datos | Champions League Femenina 2026/2027",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTlkdm5yelJVRG9FdmxIV1A2aFY2dWdjbVk5RGJlcU4xd1k2MTJuVlJ3TkduOVg0UUFPV194LUlFR0p4Y0ZvWDBNUXpRR0wzeXZUWE5ISEsyNDdXZk5OdkF3OTRIdWYxYmlKdzFHVmxkQUM0SjluM19zQkFvTFFFV1BFblhvRm9hSHdKSGNQOWhieTYyV3RMUm5ZNW4yQWFsVk9HcWdfTzQyUlU2ZTI3cjhLazJUUnl6Y1E?oc=5",
-   "fecha": "2026-11-19T01:20",
-   "equipo": "Roma W",
+   "titulo": "Vincent Kompany le puso fecha al regreso de Luis Díaz a las canchas con el Bayern Múnich",
+   "fuente": "Caracol Radio",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzBOYk9MblRkQmNGZWlBZW90VkhwaUk2MGtXWEFOWExTQXhGRTZuLWtjYUM3cnI5QmlNZkZZSDVMNXNuRERja1Z6NU04bmgtbTJ5RTdlRDJvMUg4dDVmakluXzFMVVpwekphelBacndZR3F5ZDVQUFRrNmtTZGdfMmtVQWZ2NHczczlnb3JuelZ2WmliNW15VXVLOElxUlJ3NTZFVzVjX25RYncxRGZHVGJ0STc4VkFEMzI3Y3dIY2_SAdQBQVVfeXFMT19oQ0dUeGVSNnBUOW5GMmJBSl9Yd3B0ckhRZmFZcG9YZXU0bENqZFdreEdTODhaaWM3a3dEX1VlN18wZnJLcmNNMHZzVy01d1Y1ZGN4bEJlZmMtRUF2cDV3b2JaU2I1a3FNRkRPTlVubGVDTTFpWnl4LVJnRHJTQmRZa0RQM2FKVjdWY2RwNXhkNG5VQ1BvWUJMeG13ck1rdmUwbmQzM05PSDE1Tmh3OXhOUVh5ZEt5Ym8wWWI5YjNtYmM4dVBFejlBWjlYS2wyNEtqdnQ?oc=5",
+   "fecha": "2026-11-19T12:53",
+   "equipo": "Bayern München",
    "tipos": []
   },
   {
-   "titulo": "Alineaciones Roma Femenino vs Servette FC Femenino, Champions League Femenina 2026/2027",
-   "fuente": "AS Chile",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSzh4anFiZ0hoSlNORDgtWXlKeV9XR0lPUFR0SHVMZlZ2b1E2U0VBdDlrS19pUlRZb1V4N0FtZzBsdnJlQkIzT3RqN25KSm5ZMXRSMk14MXJPN2FaaU5sVjQtM3FQMTA3NzlIZ2phaHBia2M1OEUzNGk4NVRYZTk2YVZxRHZDT3JBbHhLQTRMNTRCZDBqWWlWNTBFUGRZVkpwMWhDMXRtYkRvdmczZ0FXZHo4RmFMNTMtTF9hcFVCUHI1QQ?oc=5",
-   "fecha": "2026-11-19T00:48",
-   "equipo": "Roma W",
-   "tipos": []
-  }
- ],
- "1551377": [],
- "1565308": [],
- "1638286": [
-  {
-   "titulo": "Arsenal Women vs Lyon Femenino: estadísticas previas y datos | Champions League Femenina 2026/2027",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzB4M2FWTHg2c3N3UnBmbXVxdVFTUmNGLUtrUklmWE1SSUNGWmdVX3FwMWxkcHVDb1d1NjVza3ZoeTRFOUhMLV9XTHljLWRMWXU3TEZiSzVVX05vemNadjdGSmxhaGc3WmNRbWhuRzVncTV3X3BWbnQ2ZFZKM0ZTYTBCaWM5c1ZXajg2QTVQRDE4RVMxWm5NdWNCTUZacVlfNzVrQUhJcldRankyVXU0UUFSRVBKMTJwLWc?oc=5",
-   "fecha": "2026-11-19T01:20",
-   "equipo": "Lyon W",
-   "tipos": []
-  },
-  {
-   "titulo": "Previa Arsenal Fem vs OL Lyonnes Fem, Champions League Femenina Jornada 5",
-   "fuente": "BeSoccer ES",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSTg4UGVJQmNfWS05SjJPMGdYV2g4bDV3RTBoUGJXNGc3a1hBbTBSdEJSTXRKU2pUQTJyZ012QzNsMV9pSnNGVUZWVUVONHo1ZUF6TUVVT2FfeDNaLUM5aFpCWUNNQ0FCOUlkMXJWSEVBTi0yQXVLQnluZElKZ0ZGTnU3bTk2OE9aNFZ5SG5LTDY?oc=5",
-   "fecha": "2026-11-19T00:38",
-   "equipo": "Arsenal W",
-   "tipos": []
-  },
-  {
-   "titulo": "Resultados de fútbol del 19 de noviembre de 2026",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jY3YxSHZQdVNHRW5qMF96aWxvblphWExEdWs4T2lMTFdDQ3N2bElNWFBzb2tGek05dnNxNGZDcFp3TENUeGN5eDBoUG9kQVFIVl9uNWxVTzA1V1J3djRyYlp0ZDFKQ0d6MjhId3Rtbw?oc=5",
-   "fecha": "2026-11-18T18:11",
-   "equipo": "Lyon W",
-   "tipos": []
-  }
- ],
- "1638297": [
-  {
-   "titulo": "FC Barcelona Femenino vs Servette FC Femenino: estadísticas previas y datos | Champions League Femenina 2026/2027",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkJjRVZpdWZnQTEtNE9OelpsV1pVaFJBN0VMcHV4WU9lUklpNVdEZVNUSm9NWGNsaUQ2T3JfaWNFUkdSUnFFbzM2WUFBU0NCeWpEcTY1VWdCeWQ5YlJ5a0s3bDExZTRBNjVnNWFOV1FMV2RkcDA3cS1PRHhIYTR2d2FtRzVOQjNQV1pZWmZSTm5CMjd4akdHYzRvSm1jM29PN01QaE1kc3lwTEFMQmlQV2lTaVA3N1Fyanc?oc=5",
-   "fecha": "2026-11-19T01:20",
-   "equipo": "Barcelona W",
-   "tipos": []
-  },
-  {
-   "titulo": "Resultados de fútbol del 19 de noviembre de 2026",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jY3YxSHZQdVNHRW5qMF96aWxvblphWExEdWs4T2lMTFdDQ3N2bElNWFBzb2tGek05dnNxNGZDcFp3TENUeGN5eDBoUG9kQVFIVl9uNWxVTzA1V1J3djRyYlp0ZDFKQ0d6MjhId3Rtbw?oc=5",
-   "fecha": "2026-11-18T18:11",
-   "equipo": "Barcelona W",
-   "tipos": []
-  },
-  {
-   "titulo": "Del Bernabéu al Camp Nou: Laporta prepara el golpe maestro contra Florentino, firmará para 2029",
-   "fuente": "Madrid-Barcelona",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbmoxUkRVbDdBUjVsbGM2WEU0dFJqUU5rWkZTN05xa25icFUyd3FpczFuQ3NJSDJITzVBeVB4MFN4Wl9mZWU5TlRMdENMNXFNM05xTWVyYlJQTzkwUFNKbU1nVWdGWm8zY2tib1huQjZ6Mk9zRGhhZm1nZjJaYVdOcGowSWFhVG1lZlNHblE4X1hFUDhGdjNtVXRndHlyWENOUUdQOWlUaW5OYzhHWWFzQi1SLU5IYW5kT1VYQmhzdmRkTjVxZEVFLVNmV09Jc2oycU41T3NiVWZJWHd0VEtjWHNkTmJFZ9IB6wFBVV95cUxPODhtLXZQV1Q0QV9WT0h2ODB3ZnZyM3dNdnA0ajRZSU5qWUtFWl92SWdzUVZUcV9TNHZOdVNpaGtPb3JkWG9mejNrdWt1SlZtRF9vcHFwMzRvVWhzendlaERpdzd6WXlLMVZFcTUyZkhqTEdXbHZYVWJ0TFp1VmNUTG84RkNDMUx3N2ZkUndHZGZwcFdRc1BqeFVGV003aXJfVnZxSW1KeGQ3V00ydVZhMVJ1Z3Y0QTBOSjFpTDhkckF1eVYxTXIzT0NnRi03Q2hPZXNyeFJIaXdEY0lyR2gzTk9vNFhaM0JoZ0Zr?oc=5",
-   "fecha": "2026-11-18T12:00",
-   "equipo": "Barcelona W",
-   "tipos": []
-  },
-  {
-   "titulo": "El Barça hará historia en el Mundial de Clubs",
-   "fuente": "Artículo 14",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3ljTEJ0bVk3cVhnclVRTGRPdWZuejcwS1JEMUlSTHRrWHNlMnNURjJaVVpTZVhudE85eG1lamtaZDJTdXozYnZBMUVIdHBfMFJ6c2k1TTRHVkptNlhBY3ZWdE5BSkdxMDl4TUsxRnlRem1xM3lpbjVGdks0SjVnUGdnU05UbGw3TnhlVkNJS3lLR3ZMZExTVjd3?oc=5",
-   "fecha": "2026-11-18T05:54",
-   "equipo": "Barcelona W",
-   "tipos": []
-  }
- ],
- "1552827": [
-  {
-   "titulo": "Resultados de Fútbol",
-   "fuente": "espn.com.pe",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cWhQUDBmcjAwN0tHdkpZNWczdkxnVmloLVU0cFpNRVJyN21qbXVlUjAwRWVudmpaSW85S3llTmdyOXM4TC1LTTNRTHlXdVl5dU80Q3dEZl9XVnZEcE1TZUM1RjgtdUVMWnc?oc=5",
-   "fecha": "2026-11-19T07:32",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Calendario de fútbol 2026",
-   "fuente": "espn.com.pe",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RTmMzeGZGeWR1ZzZpU2w0aTdJaVdDNHRHQkxrMmE5ckZKb0NKWWt4eFZ4MUpkLVB1UTJERGlfWGc4MjNuZG1leXdTUTBuRnVHckpzS3E4c2FiRnptN25xMUNfa1BuQ3hObGc?oc=5",
-   "fecha": "2026-11-19T06:59",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Troyes vs. Le Havre, por la Liga de Francia 2026: día, hora y cómo seguir online",
-   "fuente": "La Nación",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3cyUVFoZ1ptaGVPNHRiR29mZ0NySWxlNDUxbXZ1c1AxcEQyUzdzNUxqc1pROG1tYk9mODBDRlktM1A5REdLUkJqeDNzNC04a2E3MnZkLXU5S3R4YVd6UXoyRG1NZEY1ZVdKaWtIYUpaejlHWTlIUFFfUVE3aVNXb3ZYX0Zod0pJQW9VajJ5T3NMemNkZWs3cDN5alNyaXNYbmJaTVJWQmZfY1NzLWJyeF94ckplTVN0MG1YbWVxSkV4bDlkc1l0RVFNbmV2UQ?oc=5",
-   "fecha": "2026-11-19T06:00",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Fallece jugador en Francia durante entrenamiento de su equipo",
-   "fuente": "TUDN",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEphQWRnNEdMRXg2S2xBOV9MeWdJZ1NORjlYZUxKTXZLRHN1ZkZiMWNrUUpqTGRRZEhMeHBUTnNUNnBEZVJvbWdqcmVBUkM4ZnNYeFBPOV9VenhrU0JxZG1PSHJsTExqVC03MDlfM05tdkwwcGNJLU8wWkROaE9OaktKQURMUnlaajVZcVp4WE50eUh3WnhoXw?oc=5",
-   "fecha": "2026-11-19T03:42",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "¿Qué pasó con Jardine? Así le va al entrenador brasileño fuera de América",
-   "fuente": "TV Azteca",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hkeFM3OXA0bElDNHg4WEVkd1lmd0pRM0pvb2V5WUNiUHlhcTNwdkxUYlZkMFNxbHJMdXZPV3d1bHp2aGtudE1wSDh0TlJTbjJFVGtjQURJY2tLZUVmVnRhaW5IdzBzSTJZR0RaRkw2R0ZRU1N3T0tfWmNUUGpxTHcybExSdlBWOGtKUnlVX2ZrTlRXMTZEV0V5bVowVW5fQUxYZ3luR1k2bjFJakpGaGJR?oc=5",
-   "fecha": "2026-11-19T00:22",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Lyon e Independiente Barranquilla jugarán la final de la Liga de Futsal",
-   "fuente": "Win Sports",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemwyeFZWbzZ3TVBNZkJCakNteGtiVnB5OEpZY1NMd2xDTFlzSUF0Y3hDOHJFYnNRRzJmYUFNdmZaUXY0UGJxeVpGMG5OYldaRHVGMkJMeThac1NZdW1WeEs5MUFVZlYtX2FnVjd0eExXZTM2OGh1cWdPZlJYM1hESHoxaUllc09Xdk1yanVrSTJtQnJ2cFVROUdxdjEtRnpwYW0wM1g5S3VzcFN5UF9JM2ZPanIwUWczS2stWllpNkhpaU5sb3lRWV9kREs?oc=5",
-   "fecha": "2026-11-18T23:04",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Sigue el baile de entrenadores en la Ligue 1",
-   "fuente": "Mundo Deportivo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmtxQlhPS2lnRlc4TkxGSzBtUWRPLXRJTGp6TzV4a01NYV9ob1huN3BiRlhuVDBnd1pnZ1JzYkpmTVJILUNHemFZVElYSVRHMzl5dmJRYS1NUG9ndnFhQzAtaEY4WC1IcnI3N1JwVGZBTDFFMzdtWm5UZ3ZTWmotaHJ4bHBVZE1Id0hrT0FwSlB1NFdtNTBuX3hR0gGaAUFVX3lxTFB2a3FCWE9LaWdGVzhOTEZLMG1RZE8tdElManpPNXhrTU1hX2hvWG43cGJGWG5UMGd3WmdnUnNiSmZNUkgtQ0d6YVlUSVhJVEczOXl2YlFhLU1Qb2d2cWFDMC1oRjhYLUhycjc3UnBUZkFMMUUzN21ablRndlNaai1ocnhscFVkTUh3SGtPQXBKUHU0V201MG5feFE?oc=5",
-   "fecha": "2026-11-18T22:26",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Alineaciones de Troyes contra Le Havre AC",
-   "fuente": "rcdm.es",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mUG5GaWhQTTY5VEw3UC00dGk2Q2RsYmNRbTRIeHppMG5pRTVFMVVySGlxRDlIMzd3Sm9IbTJtRDRBWDQ1eUh2YmVHZGVBU1gtU3JNQ005TWpydzhpeU9mYThKV2FfbEhJOWc?oc=5",
-   "fecha": "2026-11-18T21:09",
-   "equipo": "Estac Troyes",
-   "tipos": []
-  },
-  {
-   "titulo": "Así va la tabla general del Apertura 2026, antes de la última jornada de la Liga BBVA MX",
-   "fuente": "TV Azteca",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmEtOURDYjhxeFlucldEZUh1QjVGWVgwYmg0eWVrOUZLOUpTUHlqdkxaLUJjTzBFSFo4NEg3VFp6ajE1ajdKbHVyVGMwODF2T1VNSlY0SjRlVnpoZXl4cFJXMTFpNGhjZllfeEpwakFJM1BZWTJYbW1EUGdQeEgzV1R1VTgtaTZUOHJYUURwUm5fa2R1Yjdsa1BvT3BncDRyUjk4SXBPSVIxb2piQlI5cDhNVXNqZElHOGktOHpNSEE3RV9BZjBn?oc=5",
-   "fecha": "2026-11-18T21:07",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Argentina vs España: Lionel Scaloni le responde a Unai Simón tras decir que Inglaterra es mejor que ellos",
-   "fuente": "TV Azteca",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRTltSVFGMWozQXVOSWZtV1lnNnJnMlBKdDZqakg1TC16WDkxbXRMUF9uNmF5M0JrXzlHeFJBSWtpQURYQzFWLXNRQkJjcFJkdWZtQTM3QWpLR09DcVdHV3dUc2U2OGEwel94Vjk1Zm9RYjNBQmc0NjNhQWotbFRSdE1WVWJTenRhRndKOGVjU2diNTRWNC1iak91WjBIMF9laUJCNkQ3X2IyUDRZSUhEOVJKMmhZMGwtTDBoMGpwWmF6dzJCNy1Sdm41WC1ZdllXYk5Dd1pYLVNUZUgtdnc?oc=5",
-   "fecha": "2026-11-18T20:56",
-   "equipo": "Le Havre",
-   "tipos": []
-  },
-  {
-   "titulo": "Cómo conseguir entradas para el Le Havre-Le Mans: precios de la Ligue 1, información del partido, venta de última hora y más",
+   "titulo": "Cómo conseguir entradas para el FC Köln-RB Leipzig: precios de la Bundesliga, fecha del partido y ventas de última hora",
    "fuente": "Goal.com",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNU3hpUGgxWW1KbmQ4WWdidWszWTZoLWJ2SlViZGVnODlxWkppb0ZkaHZzZnJ1QVhJOTQxUnFSblRwRGl1RW9nd3NrS1BxaWVtbndTZDNZRk1mQjhBQVZEMUt1TGVzZkU5Z0tGU1dzaUgzdzhVXzdicldjM2pGaGxUTndFX1VVWU44dE8wU2VxM1lUOEdibmViNnlVbHBrUmRBNGdqbVlneWVfZHZpN2kycTlselJGLU9FSVdzQWtwdFlPemlIbU0tcU1iSFNPY2dTd3dPeTN0WDRldk1nd1hsQlRoLS1aczlYQ0pvSGhLT2QyMUJJaGNLUE55MGVON0x6LWhqbGpBbi02TTVXSXVBRjg5ZGpwbTBIaHRr?oc=5",
-   "fecha": "2026-11-18T15:32",
-   "equipo": "Le Havre",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMmlNdlc1aWE2THo4UkJZVWc2bzlNckZ0dXIxNGhMTWlqcmZrSEtKSWRhRkcyQnFRY2JPV3R0SW53bTFuQXJ1ZUkxNzFybXNmTEdHVzRueDlUa2ZUWThpdEs0bnRUZWlIOUJhbGw4cmJGZ0RRdi14d2tjUlBWWktfUkFUQVdHYVJac0t2VWVwOHNjWk5kemJYTEQxWFZtYjJBa2tvcWRHdUoweEw4UnBmaDdYVy0xSlhLcXdXMWdPaUtaTEQ1SlhjYVhhV0gxNG9lVXAxRlVOeXVIX1QwWEt6Zk5hRFVOMVZYSmVrTmlMbFFIT0pNVlRhSHYzUFhFSHR4bFNLYmZRZGNsZkpHZWV3MllSb3B5aHM?oc=5",
+   "fecha": "2026-11-19T12:43",
+   "equipo": "1. FC Köln",
    "tipos": []
   },
   {
-   "titulo": "El Estrasburgo reemplaza a su entrenador, Hugo Oliveira, por Vitor Matos",
-   "fuente": "Flashscore.es",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2pTeFkxaHdKeXVMVEFyeVRrckF1T1IwcktMV0dkRUJLMGJaeVFPaFY0MlFKcV85RVBjdjdKeGdGV3Z3UzJxMjFZa2tEd2NBUGNaX1dPY3NCZ2JIa0t2SEFSdlJBMVdxZ1JNVXNxSGRrN1NaYllEZmJhcXE2M3RISXN0NXR3S1hlLUFIVnZVWlE3eU44YjM4VTJPWlk3QmFpMGVkeHV6cFQ5U3BiLVE?oc=5",
-   "fecha": "2026-11-18T14:07",
-   "equipo": "Le Havre",
+   "titulo": "Kompany respalda a Musiala en el Bayern de Múnich con una emotiva declaración | Goal.com México",
+   "fuente": "Goal.com",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxORW5DYzhtQ0R0eXFJT1FnMnhpRGFnd0hTV1k1NnI2VTZNNklidGVxSld1NUhIcmtuYlhrWnd4blhHWGZ0U3VKOW1ZREg2cERzTmRHT0lHYTNONVlDc21RcVdmTHV2V3ZIUVRwMFd1ckpTaEVkMENIZWp4WWE1TUl3UERSOXJrV2dMZGFQWHBaVkxFZy12UE0weE4tRUVkOXJVZmRYSXhlVDVkUGFYc1dZdTlYd1RjYllSQjlZeTV4c09oc2p0SThneWxTajlYSWRCRE83Q3NjVmUteVIwNm1CbXUxcVRqM3FXOGEzenFyaGQ4VkVvMU5yczBJUS1IMDJpSWl3ckdhQW95REszQV84aXUtQTlZV0xwQUl0ekFEWHJmM0p4R1hNaGlRTFRSaUE?oc=5",
+   "fecha": "2026-11-19T11:38",
+   "equipo": "1. FC Köln",
    "tipos": []
   },
   {
-   "titulo": "CONFIRMADO: El rival de México para las Semifinales de la Concacaf Nations League 2027",
-   "fuente": "TV Azteca",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSnNOTzloaG9JSmhXVmkxS0xuWmF5MFlQbENZaG4xMUFjVjMxeEtjU1IzWWdtZ0Jwd1d4WFN2UWM4d1JoejhBUTlCMW1aU09nUTB6U2g0eEVZUHNYelpyT1ZXd2p1RVRyLWpHVEdteXllVlNWbU92VG5ZUjByNXJJYjFnSlNQSWRiMVpQVFVZSjZGdWVmOTRpU05BdkptWjdLNDFBZDloUTVWYjBiSF8wNUVBSGVfZVhJbEZYUzJ5MGJqS3Ra?oc=5",
-   "fecha": "2026-11-18T05:37",
-   "equipo": "Le Havre",
+   "titulo": "Austria Wien - Bayern München, Resultado, Info del Partido",
+   "fuente": "Forza Football",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fNk8xNE55LWh4U2JEaDd4RHE3c2M5MDI4WjhacExKTnRpWGxjNXA1a3BQSWt4dW53RFFFU3F6R2NXWjE4OVdIaE5wTzBUSlA2dHhKWHZ2LTE0SDlhcGlCWDZ4VUlyalludWl5YzZBNGZXMjV0NUMyLUluWW1LQQ?oc=5",
+   "fecha": "2026-11-19T10:01",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Bayern München vs. Köln, por la Bundesliga 2026: día, hora y cómo seguir online",
+   "fuente": "La Nación",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1JoU1BkR2lMZG92M1ZLQk1uM3B0X1lzU0FxeUFHTWNudi1tVExaR01JeGZYcF9sRHZaT1dQM3ljN3hKVWlhU3ZhbnlXWnJPTllDcTJuY1BfM1V6QzVhSjdBZEF5SHAwX21GYXBHVnNDYVR0eTFEUnV6blI2dGFndWl0b3hMcHZTX0xXZmswRWF1VjFIOWRldWhueGY3bFJYNno4ZEMyc3pMb3hLcl9iRXk0UXY1eG5LdGxkQ0pGM24weUV1SDJYNlZKbWw?oc=5",
+   "fecha": "2026-11-19T06:00",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Un exmundialista y campeón olímpico con la Selección Argentina anunció su retiro: \"Ya está decidido\"",
+   "fuente": "DSports",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTJqYXhwWEFvcnlqVF9YR01tRFpWVGF0ZG5CcmNJMmF1MlFTNU5NM1Fnb241YnBUTG84cEV0SFlGc1FuQUFVTGtFdnFmbzFXT0UxSGRFRktnMGNGeXVndlJVWnZLN01hZmlLYTVIUlZoelY3b2t3RWlRV2hSTkZiYWNZVTJwSGJvTjZWNjR3UF90azkydGd5Yzc5UEh2eXJDWjlBamlSNDU3bVMzd2hDNnQ1Y3RualBsLXI2LUl3cjBPek1fWHZNUW9xcWxlTWZheElaR3hBTlBTQk9LNWhjWFpjWmZZcE5T0gHuAUFVX3lxTFBCX1EtX2NtbDczV2JxQ0haeXpOUzNqVnB3SXpMRGFKSG5tQ3NCSUw2S3BfQmFQdURQSE95RnpzUkozc1ZEM0hpNVhCV3ZYUnFJbmxWVVFjdlBOc19wcS1hZnRFUUx5M3VwZEpQZXJ4eW5yWUtjZ1ZHd1FLaEd6WTEzRkpNM0dqbDItcWJrdnZrZ216SklSNHdkTExMcEdOQzZUeldaS0lWY19hNHdTUmpQYjFIUmlIRXNzUENfb2V5THdxaEstR29oX0taRmR4cjhXUXh6YTloXzJRVkc4cFVWNFVqbEZRVWNNRnRPOHc?oc=5",
+   "fecha": "2026-11-19T00:26",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "FK Austria Wien vs FC Bayern München de 450-LIGA DE CAMPEONES FEMENINA DE LA UEFA",
+   "fuente": "Futbolme",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzB0NFBWU1g1YjZrdGw0NXM1OU95UFl5Qmd5RmQtbHNOSkRlZWItYy1pdVVuWk9XcWV1YlpEc0FfTEh6UUY3VzBkTGM0WUwzRnp2b09JSldPX3BUc0FjbXJKTGdiMkNwWGl6VEpzZjhaMk1tbmptbWNDZTB5bnhWZzZwNktiUjJ3RXBickZ1QjFtQ2M?oc=5",
+   "fecha": "2026-11-19T00:03",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Bayern Munich: noticias, resultados y calendario",
+   "fuente": "VAVEL.com",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11RE1JZ2E0LVlPYjJGWEEyb083MFVVWmJWQlRlY2RMZzdmYXctbkI1Qkt6LVhIVFQ5Z0JpZ1B6SVhZdjFXUUE2N2NLd3hLYi1FdXlQaldGSQ?oc=5",
+   "fecha": "2026-11-18T18:43",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Entradas para 1. FC Köln - SV 07 Elversberg en Colonia",
+   "fuente": "KarloBag.eu",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2s5Mk9jamJMVEtqRmhkVkRaTHRfMkoyQlY4c0dRLTI5SEtDNjY0NU5CNGpQWktRQTRiSlNHWEJ3TUVPaEo5b2JfM21YRFRKSUVsMFgyWktBVW5BbExSYzR6ZkcwZVAtZy1uWExmWEZEazF3czVKYU1YRkZwV0FLWDhtT0EyeE90M1A2SnFjanExR25XY1FiS1p5NEFDazhK?oc=5",
+   "fecha": "2026-11-18T17:04",
+   "equipo": "1. FC Köln",
+   "tipos": []
+  },
+  {
+   "titulo": "Mbappé celebra la renovación de Güler: \"Dormiré mejor esta noche\"",
+   "fuente": "DSports",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW90VXJiQ2FjTnA1bjh3VGZhUVE5aHdBeXdGaXhhM1JQanhQZ2lKdTRHSXFEeGVqTG5JWXR4RjJsX2pQdzl2YUh0aXJWRWhpUG9JaVE3SWczMFl3bl8zWHdQS3lhZXBsMFBFV1ZIRWszOVZXalNUb1NMZjRSZU1HaE4tb0NaUE1CNXNqSTZEM2I2eElFZUxRSmFwZWN2U1BILWVUUVJVMnFQTVJLQWsxTWZlLWNJeEVkZmfSAb8BQVVfeXFMUEZZODRoc3dmd3NuZEY1T2NENXAzTVFSV0tWMFYydXZRdHlXWFVoVW9ScGx3cEQwTVJxZEp0cDFYNnhuY21LUW9RX3YyNzdMNjRDLTlaRjBOdUlQYVVDMGQ5QnFMY3F5VHhIS2R6aE41N013VXp5LVpSaVRlX1BPTWw4cW1YUFl3dHhGTXk0WUQ5MklVaGdveUtLcnNnZGZRWS1fZW9mMXJfc1hLYkNyTHJLY09CRndPemlXSVJTYkk?oc=5",
+   "fecha": "2026-11-18T16:56",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Pep Guardiola rechazó tentadora propuesta de Arabia Saudita y tomará tiempo para decidir su próximo desafío",
+   "fuente": "DSports",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMUN0dnBsd3RoYzFtaTc2aTFBRGlPc0lMZlBXdzRRSm0zVGFkTnhEZTRucC1rbWFCNWVuRUJFM2dhT1RtNW9GeF9mWGNyYm1ocVZacHpZWlBBQW83VmdNb0NmbzZneDlXbUxFYnVsOUtOODA0Q01lZFY0WWViOVlySEZ1QWc3b1hHUEpieG82SktJTjJVZk1vRlJ4YldkNVJhZkFxTmFEaUNjUUktWW1ZYmZFMTRfd2w3R3pmTEJ2Sks2YXltMjR2OW8xdk9XcHJUODNHRTFOQ0VPb0FFRmtDWnJEbHhtbXQ4bUhTSW9JMWVhQldKMkHSAfsBQVVfeXFMTnFZVC1wWjRLbEd3OXhNOXFHY0I2WmxDY1FHaXJNQ0xGRFY2aVZtdTU0Yk5YcEV1Z21vWERVYnZESU1ickFXRW1hbTBRNC1PaDczMmZXMnNPLVZfbnduNTktSm5ILVA0LUtTSWIzYUFTSEJ5V1BLRG5McHVaTXpiRVhuUDE0MTJDWnItN0Jpc0RoNE5ya25GZm5vdXF5NmpTWG5acW1tNjJWUXJVdlVHdGZOU3pLZ2FqQ3ExWmkxMlJZcGQta0ZNQmg1aDVHWnVpcHY3RWROWXNNcEVoTU9lZENISDFObWp3NWw1MWlHb1lQR2w3RVBiMEg5ZUk?oc=5",
+   "fecha": "2026-11-18T16:13",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "La tajante y sincera confesión de Luis Suárez sobre su futuro y el de Lionel Messi: \"Jugaremos hasta...\"",
+   "fuente": "DSports",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUnZjU25ON2VXc3R2NjBCQmZIdmlvWWl6Nm42RFlWYkdZQURROUpYY0JHVlAyWlZ5dkVUYWhCV1lhQW1oNENmekVFVTdHQjI3MHRkUDJQRFRzNmRlN2VpV3RMUXVwY1cwbTR3MHNxSldmanZ1eWQtbUNTa2xXaTUxWnFjemhYc3dxREdaNTROenF2QU03NUNYdFJOWkdRZjlZLUtodDhxd2JGTmFDbERkVzItVkFxX042aDBoWU8yclF3TlRMeDZvdGlTYmlrVnNKNFV2UlpUbmMtSl81dEdwblF1dnVlUmNpWkFlNG1R0gHzAUFVX3lxTFBIeGxEel96MUJIVklWdFNJaTFDOEZXdE01N0k1SXFyZU9GcklPbFVaZzg4WlFBdExlbnAxUjlPYjU3R0hKdUZRdG9Pdm5DZldWQ3pfRWlhckVpcFJXN1BtYVZjZy1CN1NKUXg1TV8xVTVYM2RacDJDTEpaS1hNTTlZUGZyZHVFcEJhTEcwdF9MMWdUQVhGMUZadncySzlYNkJyNlhUOGp2ZVp3QWRlTy1vbHgzRFZxc1ZhRTN0SzYyT3otZ1BEOF8xZXJBS044azUxa2xiV2R1blhOM3plOEoyUlEtZTRScnY5Nzl1dWxpYkEzZw?oc=5",
+   "fecha": "2026-11-18T16:09",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Laimer empata, Minjae gana e Ito cae derrotado",
+   "fuente": "FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhGZ2NaZGxLRU9NMTlXOVhXTmpsLXNoRm9ZOWtwdFEtZTBCTVZIUzZEbl9kLXFYTGRBNjdrN1U0OURiTHZfLURIb1BwZjVrNEFObzJmbE9NRUxHVW5mRDBYTUkyNWh5bGNfVF8xZzRsMVRPa1ZmT2ViU3dpazVqWDJuSG9JbUJ6WXFYb0RJaw?oc=5",
+   "fecha": "2026-11-18T11:01",
+   "equipo": "Bayern München",
+   "tipos": []
+  },
+  {
+   "titulo": "Bayern vs Colonia: estadísticas previas y datos | Bundesliga 2026/2027",
+   "fuente": "EL PAÍS",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0NmNDdPczdMeWpscUVyLUdoREtDZGNTbmxQSWtidXBoMUFUNFk4amFfLTJFOG9EeXhUQjR1WmhWczlQVFFJLW1lTmh4X2lPRmxwZGxiTkZFYTRHMlhnUGc1dTlFbHNFa3dVODBqMGVoU1VER2RiNVAwdGJIQmdNb1dNYkx5TDhlX2NzVG9rb3RFUFpfd1ZhZ20xUTRBWWtkWjBncA?oc=5",
+   "fecha": "2026-11-18T04:10",
+   "equipo": "Bayern München",
    "tipos": []
   }
  ],
- "1608379": [],
- "1638327": [
-  {
-   "titulo": "Paris FC Femenino vs HB Køge Women: estadísticas previas y datos | Champions League Femenina 2026/2027",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0pyU0FweWR0WVRqNkkyQV9pbVMxWVJfR1ZhQ3RabGNkYVNOVzhHU3ByLTZzdl9ibkRmUGpNODN2VjhBMFZpcE83ZzhVQmpqNVNBLUV3SkRKOVFLR19jZkpuak9TUUFsYUFFOXFORDMxT1ktWDI3SWtMa25ZRGlLcGtWT1cxdWNGM3VkT1N1YkNibTZ3UHlGblNpNUVSZGplU2NfcmZfYldUY3lSTWh1bWYyb0RiRGNWVmc?oc=5",
-   "fecha": "2026-11-19T01:20",
-   "equipo": "Paris FC W",
-   "tipos": []
-  },
-  {
-   "titulo": "Resultados de fútbol del 19 de noviembre de 2026",
-   "fuente": "EL PAÍS",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jY3YxSHZQdVNHRW5qMF96aWxvblphWExEdWs4T2lMTFdDQ3N2bElNWFBzb2tGek05dnNxNGZDcFp3TENUeGN5eDBoUG9kQVFIVl9uNWxVTzA1V1J3djRyYlp0ZDFKQ0d6MjhId3Rtbw?oc=5",
-   "fecha": "2026-11-18T18:11",
-   "equipo": "Paris FC W",
-   "tipos": []
-  }
- ],
- "1551379": [],
- "1638292": []
+ "1565306": []
 }
