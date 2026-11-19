@@ -84,6 +84,7 @@ class Buffer(unittest.TestCase):
         wf = (Path(__file__).resolve().parent.parent / ".github" / "workflows" / "telegram.yml").read_text(encoding="utf-8")
         self.assertIn("BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}", wf)
         self.assertIn("paso x_buffer 120 x_buffer.py", wf)
+        self.assertIn("datos/x_buffer.json; do", wf)   # 19/11: si no se guarda, entre tandas se repetían los posts
 
 
 if __name__ == "__main__":
