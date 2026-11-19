@@ -1,68 +1,6 @@
 {
  "informe": "2026-11-18",
  "vistos": {
-  "check-2026-11-16-loca-th-0500-x50": "2026-11-16T02:55",
-  "check-2026-11-16-loca-th-1500-x1000": "2026-11-16T02:55",
-  "check-2026-11-16-loca-th-1530-x50": "2026-11-16T02:55",
-  "check-2026-11-16-loca-th-1930-x50": "2026-11-16T02:55",
-  "check-2026-11-16-loca-th-2000-x500": "2026-11-16T02:55",
-  "repe-2026-11-16-1528991|Match Winner|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1528986|Total - Home|Over 0.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1545662|Match Winner|Away": "2026-11-16T02:55",
-  "repe-2026-11-16-1528987|Match Winner|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1528990|Both Teams Score|Yes": "2026-11-16T02:55",
-  "repe-2026-11-16-1528990|Away Player Shots|Denzel Dumfries - 1": "2026-11-16T02:55",
-  "repe-2026-11-16-1528990|To Win Either Half|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1528991|Total - Home|Over 1.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528989|Away Corners Over/Under|Over 1.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1570014|Total - Home|Over 1.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1545652|Home Player Shots|Dan Ndoye - 3": "2026-11-16T02:55",
-  "repe-2026-11-16-1528986|Corners 1x2|Away": "2026-11-16T02:55",
-  "repe-2026-11-16-1528990|Corners 1x2|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1545618|Match Winner|Away": "2026-11-16T02:55",
-  "repe-2026-11-16-1570014|Both Teams Score|Yes": "2026-11-16T02:55",
-  "repe-2026-11-16-1528991|Both Teams Score|Yes": "2026-11-16T02:55",
-  "repe-2026-11-16-1528986|To Win Either Half|Away": "2026-11-16T02:55",
-  "repe-2026-11-16-1528987|To Win Either Half|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1545617|Total - Home|Over 1.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1545618|Corners 1x2|Away": "2026-11-16T02:55",
-  "repe-2026-11-16-1570014|Corners 1x2|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1570014|Match Winner|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1545652|Player Fouls Committed|Lewis Ferguson - 2": "2026-11-16T02:55",
-  "repe-2026-11-16-1528988|Corners 1x2|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1528987|Home Corners Over/Under|Over 5.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528988|Total - Away|Over 0.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1545662|Home Corners Over/Under|Over 2.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528990|Match Winner|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1545617|Corners Over Under|Over 8.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528988|To Win Either Half|Home": "2026-11-16T02:55",
-  "repe-2026-11-16-1528991|Home Corners Over/Under|Over 5.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528987|Total - Away|Over 0.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1545652|Corners Over Under|Over 8.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528991|Total - Away|Over 0.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1528990|Away Corners Over/Under|Over 3.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1570014|Total - Away|Over 0.5": "2026-11-16T02:55",
-  "repe-2026-11-16-1570014|Home Corners Over/Under|Over 5.5": "2026-11-16T02:55",
-  "prensa-1528990-9ee8126c": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-escalera": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-combi-m": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-0300-x100": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-0500-x50": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-0600-x500": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-0800-x1000": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-0900-x50": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-0930-x100": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1130-x500": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1200-x100": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1300-x50": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1400-x500": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1500-x1000": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1530-x50": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1630-x100": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1730-x500": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1830-x100": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-1930-x50": "2026-11-16T02:55",
-  "regla-orden-2026-11-16-loca-th-2000-x500": "2026-11-16T02:55",
   "check-2026-11-16-loca-th-0500-ganaambos": "2026-11-16T03:05",
   "check-2026-11-16-loca-th-1000-x500": "2026-11-16T03:05",
   "check-2026-11-16-loca-th-1530-x100": "2026-11-16T03:05",
@@ -155,23 +93,23 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
+   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
-  },
-  {
-   "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
@@ -179,12 +117,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
@@ -215,7 +153,7 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T02:46",
+ "revisado": "2026-11-19T02:56",
  "historial": [
   {
    "hora": "2026-11-19T00:48",
