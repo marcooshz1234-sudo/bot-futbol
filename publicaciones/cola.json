@@ -8865,7 +8865,14 @@
     "requiere_ok": true,
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
     "enviado": "2026-11-19T00:39",
-    "mensaje_id": 545
+    "mensaje_id": 545,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-19-verde-manual-2026-11-18-pick-tip-1",
@@ -8882,6 +8889,13 @@
     "sin_instagram": true,
     "nota": "19/11 00:40 Marcos OK: verde que faltaba (la copia salió sin sel). Mar Menor 2-0 Bullas (futbolme).",
     "enviado": "2026-11-19T00:39",
-    "mensaje_id": 546
+    "mensaje_id": 546,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
