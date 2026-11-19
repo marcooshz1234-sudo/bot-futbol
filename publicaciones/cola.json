@@ -9057,5 +9057,27 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-19-verde-auto-2026-11-19-escalera",
+    "fecha": "2026-11-19T22:39",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Lyon (fem.)\n\n📈 Cuota @1,80\n💶 62,28€ → 112,10€",
+    "foto": "publicaciones/media/2026-11-19-verde-auto-2026-11-19-escalera.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-19-escalera",
+    "sin_instagram": true,
+    "enviado": "2026-11-19T22:40",
+    "mensaje_id": 556,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18391391101229116",
+      "threads_enlace": "18084284990349491"
+    }
   }
 ]
