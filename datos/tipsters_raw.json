@@ -2461,13 +2461,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87182",
-   "fecha": "2026-11-17T22:39",
-   "texto": "📰💡 La Noticia es de hace unos minutos, el equipo rival no podrá competir, saldrá fácil este STAKAZO 100.000€ CUOTA 10.00💸\n\n🚑🚨 8 BAJAS IMPORTANTES",
-   "foto": false,
-   "visto": "2026-11-17T22:39"
-  },
-  {
    "id": "-1002463340479/87183",
    "fecha": "2026-11-17T22:45",
    "texto": "✨🎁💯 STAKAZO 100.000€ CUOTA 10.00 + FUNBET CUOTA 100",
@@ -3956,6 +3949,13 @@
    "foto": true,
    "visto": "2026-11-19T13:03",
    "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87384.jpg"
+  },
+  {
+   "id": "-1002463340479/87385",
+   "fecha": "2026-11-19T13:15",
+   "texto": "❗️❗️❗️❗️ 🏀🏀🏀🏀🏀🏀\n\n👆😱Esta locura es de anoche!!!! Vayan todos corriendo a ver la cuota 500 ACERTADA de la nba 👆🏀https://t.me/+JUAcl0urV8tjZGI0",
+   "foto": false,
+   "visto": "2026-11-19T13:22"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -4699,21 +4699,6 @@
   }
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
-  {
-   "id": "-1001550157115/100519",
-   "fecha": "2026-11-16T11:58",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T12:06",
-   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100519.jpg"
-  },
-  {
-   "id": "-1001550157115/100520",
-   "fecha": "2026-11-16T12:00",
-   "texto": "🎮 PRONOSTICO GRATUITO. \n🗣 Más de 2.5 goles en el partido con gol antes del descanso.\nℹ️ STAKE 3 👉 CUOTA @1.52\n🌎Nations League ⏰ 20:45h\n🎁 Realiza tu apuesta aqui y consigue TU BONO GRATIS!\n🔞 ¡Juego con responsabilidad!",
-   "foto": false,
-   "visto": "2026-11-16T12:06"
-  },
   {
    "id": "-1001550157115/100521",
    "fecha": "2026-11-16T12:02",
@@ -6176,6 +6161,21 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-19T12:06"
+  },
+  {
+   "id": "-1001550157115/100723",
+   "fecha": "2026-11-19T13:20",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-19T13:22",
+   "foto_ruta": "datos/tipsters_fotos/TRADER_FOOTBALL_FREE__100723.jpg"
+  },
+  {
+   "id": "-1001550157115/100724",
+   "fecha": "2026-11-19T13:22",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-19T13:22"
   }
  ],
  "MisterBasquet 🏀": [
