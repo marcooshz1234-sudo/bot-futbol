@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 14:58",
+ "actualizado": "2026-11-19 15:08",
  "redes": {
   "instagram": {
    "seguidores": 51,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3224,
-   "hoy": 9,
+   "seguidores": 3225,
+   "hoy": 10,
    "serie": [
     2738,
     2776,
@@ -24,7 +24,7 @@
     3009,
     3160,
     3215,
-    3224
+    3225
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 482,
-   "hoy": 3,
+   "seguidores": 483,
+   "hoy": 4,
    "serie": [
     401,
     404,
@@ -50,17 +50,17 @@
     439,
     471,
     479,
-    482
+    483
    ]
   }
  },
- "total": 3758,
- "total_hoy": 12,
+ "total": 3760,
+ "total_hoy": 14,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "15:30",
   "dia": "2026-11-19",
-  "titulo": "Combi paris fc (fem.) – køge (fem.)"
+  "titulo": "El duelo de tiros"
  },
  "ayer": null,
  "escalera": {
@@ -231,9 +231,9 @@
   },
   "2026-11-19": {
    "instagram": 51,
-   "threads": 3224,
+   "threads": 3225,
    "facebook": 1,
-   "telegram": 482
+   "telegram": 483
   }
  },
  "tipos_instagram": {

@@ -41,7 +41,7 @@
    "justa": 1.77,
    "ev": 0.016,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Arsenal W",
@@ -52,7 +52,7 @@
    "justa": 1.6,
    "ev": 0.013,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Aarhus Fremad",
@@ -63,7 +63,7 @@
    "justa": 1.93,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 6.4
+   "edad_h": 6.7
   },
   {
    "local": "FC Fredericia",
@@ -74,7 +74,7 @@
    "justa": 1.69,
    "ev": -0.01,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Arsenal W",
@@ -85,11 +85,11 @@
    "justa": 1.85,
    "ev": -0.011,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-19T14:47",
+  "hora": "2026-11-19T15:08",
   "revisadas": 0,
   "mejor": null
  },
