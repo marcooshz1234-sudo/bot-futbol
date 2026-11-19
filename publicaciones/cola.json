@@ -9014,5 +9014,30 @@
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-19-verde-auto-2026-11-19-pick-claude-1",
+    "fecha": "2026-11-19T21:10",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Paris FC (fem.)\n\n📈 Cuota @1,57\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-19-verde-auto-2026-11-19-pick-claude-1.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-19-pick-claude-1",
+    "solo_en": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "2026-11-19-verde-auto-2026-11-19-pick-tip-2",
+    "fecha": "2026-11-19T21:20",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 2.5 goles\n\n📈 Cuota @1,53\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-19-verde-auto-2026-11-19-pick-tip-2.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-19-pick-tip-2"
   }
 ]
