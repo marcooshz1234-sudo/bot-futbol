@@ -10834,7 +10834,7 @@
       "1647583|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.67,
+      1.57,
       1.57,
       1.8,
       1.73,
@@ -10851,7 +10851,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T00:04"
   },
   {
     "id": "2026-11-20-loca-th-0100-ganaambos",
@@ -10864,7 +10865,7 @@
       "1647583|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      3.25,
+      3.1,
       2.05,
       3.4,
       3.4
@@ -10878,7 +10879,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T00:04"
   },
   {
     "id": "2026-11-20-loca-th-0200-lista-ambos",
