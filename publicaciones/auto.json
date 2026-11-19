@@ -8475,13 +8475,12 @@
   {
     "id": "2026-11-19-loca-th-1700-escudos",
     "fecha": "2026-11-19T17:00",
-    "texto": "🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨\n\n⭐ Arsenal (fem.) vs Lyon (fem.) · 21:00\n\n✅ 💨 Marie-Antoinette Katoto: 3+ tiros\n✅ 💨 Tabitha Chawinga: 3+ tiros\n✅ 🏆 Lyon (fem.) gana una parte\n✅ 💨 Frida Maanum: 2+ tiros\n✅ 💨 Olivia Smith: 3+ tiros\n✅ ⚔️ Ambos marcan\n✅ ⏱️ +1,5 goles en la 2ª parte del Arsenal (fem.)–Lyon (fem.)\n✅ 💥 Melchie Dumornay marca\n\n🎯 CUOTA 12,13 aprox. 💎 10€ → 121€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨\n\n⭐ Arsenal (fem.) vs Lyon (fem.) · 21:00\n\n✅ 💨 Marie-Antoinette Katoto: 3+ tiros\n✅ 💨 Tabitha Chawinga: 3+ tiros\n✅ 🏆 Lyon (fem.) gana una parte\n✅ 💨 Frida Maanum: 2+ tiros\n✅ ⚔️ Ambos marcan\n✅ ⏱️ +1,5 goles en la 2ª parte del Arsenal (fem.)–Lyon (fem.)\n✅ 💥 Melchie Dumornay marca\n\n🎯 CUOTA 10,79 aprox. 💎 10€ → 121€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
       "1638286|Away Player Shots|Tabitha Chawinga - 3",
       "1638286|To Win Either Half|Away",
       "1638286|Home Player Shots|Frida Maanum - 2",
-      "1638286|Home Player Shots|Olivia Smith - 3",
       "1638286|Both Teams Score|Yes",
       "1638286|Goals Over/Under - Second Half|Over 1.5",
       "1638286|Anytime Goal Scorer|Melchie Dumornay"
@@ -8491,7 +8490,6 @@
       1.4,
       1.4,
       1.73,
-      1.67,
       1.57,
       1.83,
       1.83
@@ -8514,7 +8512,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-19T15:30"
+    "cuotas_revisadas": "2026-11-19T15:30",
+    "revisado_alineaciones": "2026-11-19T20:53"
   },
   {
     "id": "2026-11-19-pick-seguro-2",
@@ -10702,10 +10701,10 @@
       1.67,
       1.73,
       1.57,
-      1.57,
+      1.62,
       1.73,
-      1.91,
       1.8,
+      1.83,
       1.7
     ],
     "origen": "threads_locas",
@@ -10717,7 +10716,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-19T20:52"
   },
   {
     "id": "2026-11-20-loca-th-noche-2230-duelo",

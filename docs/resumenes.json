@@ -2586,8 +2586,8 @@
     "cuentas": {
       "verde": 4,
       "rojo": 9,
-      "pendiente": 8,
-      "sin_datos": 3,
+      "pendiente": 5,
+      "sin_datos": 6,
       "no_jugo": 0,
       "sin_resolver": 11
     },
@@ -2715,19 +2715,19 @@
       {
         "id": "2026-11-19-loca-th-noche-2100-x100",
         "titulo": "🔥 COMBI POR 19,18 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 19.18
       },
       {
         "id": "2026-11-19-loca-th-noche-2200-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN MAÑANA ⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-19-loca-th-noche-2300-x50",
         "titulo": "🤑 COMBI x9,79 🤑",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 9.79
       },
       {
@@ -2738,58 +2738,58 @@
       }
     ],
     "picks": {
-      "verde": 17,
+      "verde": 16,
       "rojo": 14,
       "total": 81
     },
-    "texto": "📊 BALANCE DEL MIÉRCOLES: 4 DE 13 EN VERDE 📊\n\n✅ 🏆 CHAMPIONS FEMENINA - GANADORES\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n✅ 🪜 Reto escalera · Día 2/7\n❌ 🔥 COMBI POR 19,46 🔥 · 19,46\n❌ Vamos con la combi del miércoles familia 🔥\n❔ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · faltan datos\n❌ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❔ ⚽ LAS GOLEADORAS ⚽ · 7,54 · faltan datos\n❌ 🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥 · 8,32\n❌ 🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥 · 6,30\n❌ 💸 LA DE x10,82 💸 · 10,82\n✅ Combi de las favoritas de la Champions femenina 🔥\n❌ 😱 LOS SUSTOS DE COPA 😱 · 13,09\n✅ Vamos con el pick de la tarde, familia 👇\n❌ 💎 COMBI x42,93 💎 · 42,93\n❔ 🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯 · 5,12 · faltan datos\n⏳ 🔥 COMBI POR 19,18 🔥 · 19,18 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤑 COMBI x9,79 🤑 · 9,79 · pendiente\n⏳ 🔥 COMBI SL BENFICA (FEM.) – ROMA (FEM.) 🔥 · 12,02 · pendiente\n\n✅ 4 acertadas · ❌ 9 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL MIÉRCOLES: 4 DE 13 EN VERDE 📊\n\n✅ 🏆 CHAMPIONS FEMENINA - GANADORES\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · 59,76 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,33 · pendiente\n⏳ 🎯 COMBI DE TIROS · REAL MADRID W vs INTER MILANO W 🎯 · 3,71 · pendiente\n✅ 🪜 Reto escalera · Día 2/7\n❌ 🔥 COMBI POR 19,46 🔥 · 19,46\n❌ Vamos con la combi del miércoles familia 🔥\n❔ 🔥 COMBI REAL MADRID (FEM.) – INTER MILANO (FEM.) 🔥 · 5,76 · faltan datos\n❌ 🔥 COMBI HÄCKEN (FEM.) – MANCHESTER CITY (FEM.) 🔥 · 6,88\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❔ ⚽ LAS GOLEADORAS ⚽ · 7,54 · faltan datos\n❌ 🔥 COMBI CHELSEA (FEM.) – PARIS SAINT GERMAIN (FEM.) 🔥 · 8,32\n❌ 🔥 COMBI JUVENTUS (FEM.) – OH LEUVEN (FEM.) 🔥 · 6,30\n❌ 💸 LA DE x10,82 💸 · 10,82\n✅ Combi de las favoritas de la Champions femenina 🔥\n❌ 😱 LOS SUSTOS DE COPA 😱 · 13,09\n✅ Vamos con el pick de la tarde, familia 👇\n❌ 💎 COMBI x42,93 💎 · 42,93\n❔ 🎯 COMBI DE TIROS · JUVENTUS (FEM.) vs OH LEUVEN (FEM.) 🎯 · 5,12 · faltan datos\n❔ 🔥 COMBI POR 19,18 🔥 · 19,18 · faltan datos\n❔ ⚽ AMBOS MARCAN MAÑANA ⚽ · faltan datos\n❔ 🤑 COMBI x9,79 🤑 · 9,79 · faltan datos\n⏳ 🔥 COMBI SL BENFICA (FEM.) – ROMA (FEM.) 🔥 · 12,02 · pendiente\n\n✅ 4 acertadas · ❌ 9 falladas · ⏳ 11 sin resolver"
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 22,
+    "total": 23,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 22,
-      "sin_datos": 0,
+      "pendiente": 7,
+      "sin_datos": 16,
       "no_jugo": 0,
-      "sin_resolver": 22
+      "sin_resolver": 23
     },
     "combis": [
       {
         "id": "2026-11-19-ganadores-champions-fem",
         "titulo": "🏆 CHAMPIONS FEMENINA - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-19-loca-th-0030-x100",
         "titulo": "💯 LA CENTENARIA x10,85 💯",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 10.85
       },
       {
         "id": "2026-11-19-loca-th-0100-ganaambos",
         "titulo": "⚽🏆 GANA Y AMBOS MARCAN 🏆⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-19-loca-th-0200-lista-corners",
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-19-loca-th-0300-duelo",
         "titulo": "⚔️ EL DUELO DE TIROS ⚔️",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 2.01
       },
       {
         "id": "2026-11-19-loca-th-0400-x50",
         "titulo": "🤑 COMBI x24,20 🤑",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 24.2
       },
       {
@@ -2801,19 +2801,19 @@
       {
         "id": "2026-11-19-loca-th-0600-tapados",
         "titulo": "🐶 LA DE LOS TAPADOS 🐶",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 7.02
       },
       {
         "id": "2026-11-19-loca-th-0700-x500",
         "titulo": "🤪 LA LOCURA DE x91,37 🤪",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 91.37
       },
       {
         "id": "2026-11-19-loca-th-0930-tiros",
         "titulo": "🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 1.95
       },
       {
@@ -2831,44 +2831,44 @@
       {
         "id": "2026-11-19-loca-th-1400-x500",
         "titulo": "🤑💸 LA LOCURA DE x156 🤑💸",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-19-loca-th-1430-escudos",
         "titulo": "🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 3.7
       },
       {
         "id": "2026-11-19-loca-th-1500-escudos",
         "titulo": "🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 2.72
       },
       {
         "id": "2026-11-19-pick-tip-2",
         "titulo": "Os dejo otro pick que pinta muy bien 👀",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-19-loca-th-1530-duelo",
         "titulo": "🤺 EL DUELO DE TIROS 🤺",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 2.06
       },
       {
         "id": "2026-11-19-loca-th-1630-x100",
         "titulo": "🤑 COMBI POR 12,83 🤑",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 12.83
       },
       {
         "id": "2026-11-19-loca-th-1700-escudos",
         "titulo": "🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨",
         "estado": "pendiente",
-        "cuota": 12.13
+        "cuota": 10.79
       },
       {
         "id": "2026-11-19-pick-seguro-2",
@@ -2879,7 +2879,7 @@
       {
         "id": "2026-11-19-pick-claude-1",
         "titulo": "Vamos con el pick de la tarde 👇",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -2887,13 +2887,19 @@
         "titulo": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆",
         "estado": "pendiente",
         "cuota": 48.75
+      },
+      {
+        "id": "2026-11-19-combi-ambos",
+        "titulo": "Combi de la noche de Champions femenina 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
-      "verde": 4,
+      "verde": 0,
       "rojo": 0,
-      "total": 59
+      "total": 58
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · pendiente\n⏳ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · pendiente\n⏳ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 1,95 · pendiente\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n⏳ 🤑💸 LA LOCURA DE x156 🤑💸 · pendiente\n⏳ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 3,70 · pendiente\n⏳ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · pendiente\n⏳ Os dejo otro pick que pinta muy bien 👀 · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · pendiente\n⏳ 🤑 COMBI POR 12,83 🤑 · 12,83 · pendiente\n⏳ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 12,13 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n⏳ Vamos con el pick de la tarde 👇 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 48,75 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 22 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n❔ 🏆 CHAMPIONS FEMENINA - GANADORES · faltan datos\n❔ 💯 LA CENTENARIA x10,85 💯 · 10,85 · faltan datos\n❔ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · faltan datos\n❔ 🤑 COMBI x24,20 🤑 · 24,20 · faltan datos\n⏳ ⏰ TODO A LAS 21:00 ⏰ · 2,74 · pendiente\n❔ 🐶 LA DE LOS TAPADOS 🐶 · 7,02 · faltan datos\n❔ 🤪 LA LOCURA DE x91,37 🤪 · 91,37 · faltan datos\n❔ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 1,95 · faltan datos\n⏳ 🪜 Reto escalera · Día 3/7 · pendiente\n⏳ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · pendiente\n❔ 🤑💸 LA LOCURA DE x156 🤑💸 · faltan datos\n❔ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 3,70 · faltan datos\n❔ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · faltan datos\n❔ Os dejo otro pick que pinta muy bien 👀 · faltan datos\n❔ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · faltan datos\n❔ 🤑 COMBI POR 12,83 🤑 · 12,83 · faltan datos\n⏳ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 10,79 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n❔ Vamos con el pick de la tarde 👇 · faltan datos\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 48,75 · pendiente\n⏳ Combi de la noche de Champions femenina 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 23 sin resolver"
   }
 }

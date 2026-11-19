@@ -65,13 +65,12 @@
   "redes-2026-11-19-pick-seguro-2-threads-instagram": "2026-11-19T18:25",
   "cuotabaja-2026-11-19-loca-th-2000-tiros": "2026-11-19T18:36",
   "regla-cuota-2026-11-19-loca-th-2000-tiros": "2026-11-19T18:36",
-  "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638286|Results/Both Teams Score|Away/Yes": "2026-11-19T19:17"
+  "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638286|Results/Both Teams Score|Away/Yes": "2026-11-19T19:17",
+  "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1": "2026-11-19T20:54",
+  "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1": "2026-11-19T20:54",
+  "regla-cuota_alta-2026-11-20-estrella-1575221": "2026-11-19T20:54"
  },
  "abiertos": [
-  {
-   "clave": "directo-2026-11-19-combi-ambos",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche de Champions femenina 🔥 (20:30)"
-  },
   {
    "clave": "redes-2026-11-19-pick-seguro-2-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (18:00): Vamos con el pick de hoy familia 🔥"
@@ -81,12 +80,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2100-x100, loca-th-noche-2300-x50)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|Both Teams Score|Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
-  },
-  {
    "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 4 posts (combi-ambos, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|Both Teams Score|Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (combi-ambos, loca-th-noche-2200-lista-ambos, loca-th-0400-x50)"
   },
   {
    "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
@@ -113,20 +112,20 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
+   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
@@ -135,10 +134,6 @@
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Home/Draw",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2330-escudos, loca-th-0500-hora, pick-seguro-2)"
-  },
-  {
-   "clave": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-2000-tiros)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Away Player Shots|Marie-Antoinette Katoto - 3",
@@ -151,10 +146,37 @@
   {
    "clave": "repe-2026-11-19-1638327|Home Player Shots|Kenza Dufour - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2300-x50, loca-th-noche-2330-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2100-x100, loca-th-noche-2330-escudos)"
+  },
+  {
+   "clave": "regla-cuota_alta-2026-11-20-estrella-1575221",
+   "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-19T20:07",
+ "revisado": "2026-11-19T20:54",
  "historial": [
+  {
+   "hora": "2026-11-19T20:54",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2300-x50, loca-th-noche-2330-escudos)",
+   "k": "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1"
+  },
+  {
+   "hora": "2026-11-19T20:54",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2100-x100, loca-th-noche-2330-escudos)",
+   "k": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1"
+  },
+  {
+   "hora": "2026-11-19T20:54",
+   "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)",
+   "k": "regla-cuota_alta-2026-11-20-estrella-1575221"
+  },
   {
    "hora": "2026-11-19T19:17",
    "t": "📉 Arsenal (fem.)–Lyon (fem.) Away/Yes: la cuota ha pasado de 2.75 a 3.20 (+16%) desde que se hizo «⚽🏆 GANA Y AMBOS MARCAN ⚽🏆» (19:30). Suele haber una noticia detrás",
@@ -431,18 +453,6 @@
   {
    "hora": "2026-11-17T14:53",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick, familia 👇 (19:00)"
-  },
-  {
-   "hora": "2026-11-17T14:53",
-   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-tip-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
-  },
-  {
-   "hora": "2026-11-17T14:53",
-   "t": "🔁 17/11: el mismo pronóstico en 3 posts (pick-claude-2, loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos)"
-  },
-  {
-   "hora": "2026-11-17T13:57",
-   "t": "📉 Gales–Portugal Harry Wilson - 2: la cuota ha pasado de 1.62 a 1.33 (-18%) desde que se hizo «🎯 COMBI DE TIROS · GALES vs PORTUGAL 🎯» (18:30). Suele haber una noticia detrás"
   }
  ]
 }
