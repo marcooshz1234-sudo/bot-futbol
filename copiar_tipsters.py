@@ -283,7 +283,20 @@ def post_suelto(pk, ini, ahora, n):
                    if pk.get("partido_id") and not VARIAS.search(pk.get("texto") or "") else [],
             "cuotas": [pk.get("cuota")] if pk.get("partido_id") and pk.get("cuota")
                       and not VARIAS.search(pk.get("texto") or "") else [],   # sin cuotas la app no lo corrige
-            "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
+            "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+            **sin_seguir(pk)}
+
+
+def sin_seguir(pk):
+    """19/11 (Marcos: «revisa que no falta nada»; las copias del 18/11 y la de las 13:42 del 19/11 salieron sin sel):
+    lo que el bot no puede seguir (no encuentra el partido, o un «Crear apuesta» de varias condiciones) no sale
+    solo: espera el OK de Marcos, porque si sale no tendrá verde automático ni contará en el resumen."""
+    if pk.get("partido_id") and not VARIAS.search(pk.get("texto") or ""):
+        return {}
+    por = ("es un «Crear apuesta» de varias condiciones" if VARIAS.search(pk.get("texto") or "")
+           else "no encuentra el partido en sus calendarios")
+    return {"requiere_ok": True,
+            "aviso": f"⚠️ El bot no puede seguir esta copia ({por}): si sale, su verde y el resumen van a mano."}
 
 
 def post_combi(patas, ahora, n):
@@ -305,7 +318,8 @@ def post_combi(patas, ahora, n):
                    if all(p.get("partido_id") for p in patas) else [],
             "cuotas": [p.get("cuota") for p in patas]
                       if all(p.get("partido_id") and p.get("cuota") for p in patas) else [],
-            "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)"}
+            "nota": "combinada copiada de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+            **next((sin_seguir(p) for p in patas if sin_seguir(p)), {})}
 
 
 def main(ahora=None):

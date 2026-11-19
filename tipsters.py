@@ -32,11 +32,23 @@ RAZONES = {   # palabras de su «argumento» → tipo de razón (para saber qué
 }
 
 
+LETRAS = str.maketrans({"ø": "o", "Ø": "o", "æ": "ae", "Æ": "ae", "ß": "ss", "đ": "d", "Đ": "d", "ł": "l", "Ł": "l",
+                        "ı": "i", "þ": "th", "ð": "d"})   # 19/11: «Køge» se quedaba en «kge» y no casaba con «Koge»
+
+
 def norm(s):
-    s = unicodedata.normalize("NFKD", str(s or "")).encode("ascii", "ignore").decode().lower()
+    s = unicodedata.normalize("NFKD", str(s or "").translate(LETRAS)).encode("ascii", "ignore").decode().lower()
     for x in (" fc", "fc ", " cf", "cf ", "real ", "club ", "cd ", "ud ", "sd ", "rcd ", " w"):
         s = s.replace(x, " ")
     return " ".join(s.replace(".", " ").replace("-", " ").split())
+
+
+def mismo(a, b):
+    """Mismo equipo con nombres distintos: por el principio («paris» / «paris saint») o, 19/11, por una palabra
+    de 4+ letras en común («hb koge» / «koge»: la copia de las 13:42 salió sin seguir por eso)."""
+    if a[:5] in b or b[:5] in a:
+        return True
+    return bool({w for w in a.split() if len(w) >= 4} & {w for w in b.split() if len(w) >= 4})
 
 
 def casar(pk):
@@ -47,7 +59,7 @@ def casar(pk):
             if p["fixture"]["date"][:10] != pk["dia"]:
                 continue
             hl, hv = norm(p["teams"]["home"]["name"]), norm(p["teams"]["away"]["name"])
-            if (l[:5] in hl or hl[:5] in l) and (v[:5] in hv or hv[:5] in v):
+            if mismo(l, hl) and mismo(v, hv):
                 return p
     return None
 

@@ -8900,7 +8900,7 @@
   },
   {
     "id": "2026-11-19-pick-claude-1",
-    "fecha": "2026-11-19T18:00",
+    "fecha": "2026-11-19T18:15",
     "origen": "claude",
     "solo_en": [
       "telegram"
@@ -8941,9 +8941,13 @@
     "directo": true,
     "forzar": true,
     "tipster_bueno": false,
-    "sel": [],
-    "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "sel": [
+      "1638327|Goals Over/Under|Over 2.5"
+    ],
+    "cuotas": [
+      1.53
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre) · 19/11 15:10 Claude: sel puesta a mano (salió sin ella: «HB Koge» no casaba con «Køge»)",
     "foto_tg": "publicaciones/media/2026-11-19-pick-tip-2.tg.jpg",
     "aviso_sin_sel": true,
     "enviado": "2026-11-19T13:42",
