@@ -8450,8 +8450,8 @@
       "1638327|Away Player Shots|Sarah Thygesen - 2"
     ],
     "cuotas": [
-      1.4,
-      1.44
+      1.36,
+      1.53
     ],
     "solo_en": [
       "threads"
@@ -8462,7 +8462,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T14:00"
   },
   {
     "id": "2026-11-19-loca-th-1630-x100",
