@@ -1,8 +1,6 @@
 {
  "informe": "2026-11-18",
  "vistos": {
-  "check-2026-11-16-loca-th-2030-ganaambos": "2026-11-16T03:15",
-  "regla-orden-2026-11-16-loca-th-1900-x50": "2026-11-16T03:15",
   "regla-escudos-2026-11-17-combi-partido-1528992": "2026-11-16T08:01",
   "foto-2026-11-16-pick-tip-2": "2026-11-16T10:45",
   "prensa-1528990-27ce62a9": "2026-11-16T12:06",
@@ -74,27 +72,27 @@
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
+   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
-  },
-  {
    "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|Results/Both Teams Score|Home/Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
@@ -102,16 +100,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
-   "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
+   "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Total - Away|Over 1.5",
@@ -120,6 +114,10 @@
   {
    "clave": "repe-2026-11-19-1638338|Double Chance|Draw/Away",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-1630-x100, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4",
@@ -138,7 +136,7 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T03:06",
+ "revisado": "2026-11-19T03:16",
  "historial": [
   {
    "hora": "2026-11-19T00:48",
