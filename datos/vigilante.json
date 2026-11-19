@@ -72,20 +72,20 @@
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
-  },
-  {
-   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
-  },
-  {
    "clave": "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1430-escudos, loca-th-1630-x100)"
   },
   {
+   "clave": "repe-2026-11-19-1638327|Anytime Goal Scorer|Maeline Mendy",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-1500-escudos, loca-th-1630-x100)"
+  },
+  {
    "clave": "repe-2026-11-19-1638286|Both Teams Score|Yes",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1700-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638338|To Win Either Half|Home",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Results/Both Teams Score|Away/Yes",
@@ -100,12 +100,12 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0400-x50, loca-th-1630-x100)"
   },
   {
-   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
-  },
-  {
    "clave": "repe-2026-11-19-1638327|Away Player Shots|Kyra Carusa - 2",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1100-duelo)"
+  },
+  {
+   "clave": "repe-2026-11-19-1638327|Home Player Shots|Anaele Le Moguedec - 2",
+   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1500-escudos)"
   },
   {
    "clave": "repe-2026-11-19-1638286|Goals Over/Under - Second Half|Over 1.5",
@@ -136,7 +136,7 @@
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0930-tiros, loca-th-1100-duelo, loca-th-1500-escudos)"
   }
  ],
- "revisado": "2026-11-19T03:53",
+ "revisado": "2026-11-19T04:03",
  "historial": [
   {
    "hora": "2026-11-19T00:48",

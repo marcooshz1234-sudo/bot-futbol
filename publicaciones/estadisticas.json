@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 03:52",
+ "actualizado": "2026-11-19 04:03",
  "redes": {
   "instagram": {
    "seguidores": 51,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3216,
-   "hoy": 1,
+   "seguidores": 3217,
+   "hoy": 2,
    "serie": [
     2738,
     2776,
@@ -24,7 +24,7 @@
     3009,
     3160,
     3215,
-    3216
+    3217
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3748,
- "total_hoy": 2,
+ "total": 3749,
+ "total_hoy": 3,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "04:00",
+  "hora": "05:00",
   "dia": "2026-11-19",
-  "titulo": "Combi x24,20"
+  "titulo": "Todo a las 2100"
  },
  "ayer": null,
  "escalera": {
@@ -231,7 +231,7 @@
   },
   "2026-11-19": {
    "instagram": 51,
-   "threads": 3216,
+   "threads": 3217,
    "facebook": 1,
    "telegram": 480
   }

@@ -2746,14 +2746,14 @@
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -2785,13 +2785,19 @@
         "titulo": "⚔️ EL DUELO DE TIROS ⚔️",
         "estado": "pendiente",
         "cuota": 2.01
+      },
+      {
+        "id": "2026-11-19-loca-th-0400-x50",
+        "titulo": "🤑 COMBI x24,20 🤑",
+        "estado": "pendiente",
+        "cuota": 24.2
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 20
+      "total": 27
     },
-    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 CHAMPIONS FEMENINA - GANADORES · pendiente\n⏳ 💯 LA CENTENARIA x10,85 💯 · 10,85 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽ · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · pendiente\n⏳ 🤑 COMBI x24,20 🤑 · 24,20 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
   }
 }
