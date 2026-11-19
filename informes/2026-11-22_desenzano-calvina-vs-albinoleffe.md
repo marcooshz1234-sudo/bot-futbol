@@ -1,10 +1,10 @@
 # Desenzano Calvina – Albinoleffe
 **Serie C** · Girone A - 15 · 22/11/2026 17:30 (hora España) · Stadio Tre Stelle-Francesco Ghizzi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 08:25_
+_Actualizadas: 19/11 08:26_
 
 - **1X2:** 1 **2.55**  ·  X **3.10**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.44**
@@ -28,7 +28,7 @@ _Actualizadas: 18/11 08:25_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **5.50** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **1.73** · menos **2.00**
+    - 9,5: más **1.78** · menos **2.02**
 - **1X2 descanso:** 1 **3.20**  ·  X **2.10**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -42,7 +42,7 @@ _Actualizadas: 18/11 08:25_
 - **Win Both Halves:** 1 **10.00**  ·  2 **10.00**
 - **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.33**  ·  Draw/No **9.00**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.25**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.75**  ·  Más de 4.5 **1.95**  ·  Menos de 4.5 **1.85**
 
 ## Estadísticas de equipo
 | | Desenzano Calvina (total) | Desenzano Calvina en casa | Albinoleffe (total) | Albinoleffe fuera |

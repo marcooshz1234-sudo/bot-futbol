@@ -1,10 +1,10 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Hitachi Capital Mobility Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:20_
+_Actualizadas: 19/11 08:26_
 
 - **1X2:** 1 **2.45**  ·  X **3.75**  ·  2 **2.55**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.25**  ·  X2 **1.53**

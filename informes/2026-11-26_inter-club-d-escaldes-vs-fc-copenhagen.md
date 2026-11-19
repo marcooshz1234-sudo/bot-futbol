@@ -1,10 +1,49 @@
 # Inter Club d'Escaldes – FC Copenhagen
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **11.00**  ·  X **5.50**  ·  2 **1.22**
+- **Doble oportunidad:** 1X **4.00**  ·  12 **1.14**  ·  X2 **1.05**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.20** · menos **1.62**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.83** · menos **1.83**
+    - 1,5: más **5.50** · menos **1.14**
+- **Goles del visitante:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **9.00**  ·  X **2.88**  ·  2 **1.62**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **4.50**  ·  2 **1.14**
+- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **1.80**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.50**
+- **Results/Both Teams Score:** Home/Yes **19.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **2.75**  ·  Home/No **19.00**  ·  Draw/No **17.00**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **12.00**  ·  u/no 2.5 **3.10**
+- **Away Player Shots On Target Total:** Alex Kral **17.00**  ·  Mads Madsen **15.00**  ·  Mohamed Elyounoussi **7.50**  ·  Andreas Cornelius **5.50**  ·  Magnus Mattsson **12.00**  ·  Thomas Delaney **29.00**  ·  Rodrigo Huescas **26.00**  ·  Marcos Lopez **29.00**  ·  William Clem **15.00**  ·  Dominik Sarapata **15.00**  ·  Viktor Dadason **4.50**  ·  Maher Carrizo **12.00**  ·  Junnosuke Suzuki **12.00**  ·  Marc Jurado **251.00**  ·  Birger Meling **29.00**  ·  Robert Silva **23.00**  ·  Gabriel Pereira dos Santos **9.50**
+- **Anytime Goal Scorer:** David Lopez **11.00**  ·  Juan Camara **6.00**  ·  Alex Kral **4.33**  ·  Mads Madsen **3.40**  ·  Felix Beijmo **7.00**  ·  Mohamed Elyounoussi **1.83**  ·  Andreas Cornelius **1.95**  ·  Magnus Mattsson **2.50**  ·  Thomas Delaney **5.00**  ·  Rodrigo Huescas **5.50**  ·  Marcos Lopez **6.00**  ·  William Clem **4.33**  ·  Thapelo Maseko **3.40**  ·  Angel De La Torre **7.00**  ·  Alex Sanchez **21.00**  ·  Dominik Sarapata **3.00**  ·  Marc Rodriguez **17.00**  ·  Robin Lafarge **23.00**  ·  Viktor Dadason **2.40**  ·  Maher Carrizo **2.50**  ·  Junnosuke Suzuki **6.00**  ·  Asger Sorensen **6.00**  ·  Akos Markgraf **8.50**  ·  Geovanni Vianney **2.50**  ·  Khung-hyun Lee **7.00**  ·  Henrik Haraldsen **8.50**  ·  Marvin Nasnas **3.00**  ·  Gunner Olsen **2.40**  ·  Maurizio Pochettino **7.00**  ·  Marc Jurado **23.00**  ·  Antonio Otegui **13.00**  ·  Faysal Chouaib **4.33**  ·  Anwar Hernandez **21.00**  ·  Soule Sidibe **6.00**  ·  Lamine Diaby **11.00**  ·  Borja Arellano **4.33**  ·  Alex Aizbitarte Kaxe **3.75**  ·  Hermann Rafinha **5.00**  ·  Madueno Victor Alonso **6.00**  ·  Yerai Davila **6.00**  ·  Domingo Berlanga **7.00**  ·  Pablo Molina **11.00**  ·  Jaouad Erraji **21.00**  ·  Kleber Leite Filho **17.00**  ·  Marc Vargas **17.00**  ·  Alex Prelado **5.00**  ·  Torres Jilmar **17.00**  ·  Arnau Luque Martos **13.00**  ·  Adrian Gomes **17.00**  ·  Birger Meling **6.00**  ·  Hunor Nemeth **5.00**  ·  Kenay Myrie **5.00**  ·  Robert Silva **3.00**  ·  Gabriel Pereira dos Santos **7.00**
 
 ## Estadísticas de equipo
 | | Inter Club d'Escaldes (total) | Inter Club d'Escaldes en casa | FC Copenhagen (total) | FC Copenhagen fuera |

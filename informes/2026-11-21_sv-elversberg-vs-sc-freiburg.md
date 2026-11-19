@@ -1,10 +1,10 @@
 # SV Elversberg – SC Freiburg
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Ursapharm-Arena an der Kaiserlinde
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:19_
+_Actualizadas: 19/11 08:25_
 
 - **1X2:** 1 **3.60**  ·  X **3.75**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.28**

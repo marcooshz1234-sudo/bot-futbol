@@ -1,10 +1,10 @@
 # Barcelona W – Servette Chênois W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Spotify Camp Nou
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:19_
+_Actualizadas: 19/11 08:24_
 
 - **1X2:** 1 **1.00**  ·  X **34.00**  ·  2 **51.00**
 - **Ambos marcan:** Sí **3.75**  ·  No **1.25**

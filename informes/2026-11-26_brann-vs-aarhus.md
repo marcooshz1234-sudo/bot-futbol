@@ -1,10 +1,49 @@
 # Brann – Aarhus
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Brann Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:27_
+
+- **1X2:** 1 **1.90**  ·  X **3.75**  ·  2 **3.50**
+- **Doble oportunidad:** 1X **1.28**  ·  12 **1.25**  ·  X2 **1.91**
+- **Ambos marcan:** Sí **1.50**  ·  No **2.50**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **5.50** · menos **1.14**
+- **1X2 descanso:** 1 **2.40**  ·  X **2.50**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **2.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **17.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.80**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.25**
+- **Away Player Shots On Target Total:** Saevar Magnusson **17.00**  ·  Bard Finne **10.00**  ·  Colin Rosler **19.00**  ·  Niklas Castro **12.00**  ·  Fredrik Knudsen **26.00**  ·  Thore Pedersen **26.00**  ·  Noah Holm **6.00**  ·  Eggert Aron Gudmundsson **17.00**  ·  Magnus Nordengen Knudsen **67.00**
+- **Anytime Goal Scorer:** Niklas Jensen Wassberg **5.50**  ·  Frederik Emmery **5.00**  ·  Oskar Haugstrup **7.00**  ·  Julian Laegreid **2.75**  ·  Stefen Tchamche **2.88**  ·  Christian Storch **11.00**  ·  Daniel Gretarsson **11.00**  ·  Mikael Anderson **6.50**  ·  Saevar Magnusson **2.60**  ·  Tobias Bech **2.88**  ·  Gift Links **4.50**  ·  Kristian Arnstad **3.20**  ·  Eric Kahl **9.50**  ·  Frederik Tingager **13.00**  ·  Luka Callo **11.00**  ·  Nicolai Poulsen **7.50**  ·  Jacob Andersen **17.00**  ·  Kristall Ingason **2.60**  ·  Callum McCowatt **2.88**  ·  Kevin Yakob **4.00**  ·  Tomas Oli Kristjansson **4.00**  ·  Zander Grantzau **11.00**  ·  Jacob Sorensen **5.50**  ·  Vetle Dragsnes **8.50**  ·  Bard Finne **2.60**  ·  Kristian Eriksen **2.60**  ·  Rasmus Carstensen **6.50**  ·  Jens Jonsson **9.50**  ·  Neraysho Kasanwirjo **7.00**  ·  Janni-Luca Serra **3.40**  ·  Sebastian Jorgensen **4.00**  ·  Colin Rosler **11.00**  ·  Niklas Castro **2.60**  ·  Joachim Soltvedt **3.40**  ·  Ulrik Mathisen **3.75**  ·  Fredrik Knudsen **8.50**  ·  Thore Pedersen **8.50**  ·  Noah Holm **2.30**  ·  Leo Cornic **7.00**  ·  James Bogere **3.00**  ·  Markus Solbakken **9.50**  ·  Hamza Sengooba **11.00**  ·  Mouhammade Camara **11.00**  ·  Brage Haugen **6.50**  ·  Sondre Vindenes **5.50**  ·  Andreas Wilhelmsen **8.50**  ·  Jonas Torsvik **7.00**  ·  Eggert Aron Gudmundsson **3.50**  ·  Tobias Molgaard **11.00**  ·  Magnus Nordengen Knudsen **7.00**
 
 ## Estadísticas de equipo
 | | Brann (total) | Brann en casa | Aarhus (total) | Aarhus fuera |

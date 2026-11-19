@@ -1,10 +1,49 @@
 # Gent – FK Crvena Zvezda
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Planet Group Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.30**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.73**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.25**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.57**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.33**
+- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **12.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.60**
+- **Away Player Shots On Target Total:** Rade Krunic **51.00**  ·  Timi Elsnik **81.00**  ·  Vasilije Kostov **34.00**  ·  Vladimir Lucic **34.00**  ·  Adem Avdic **67.00**  ·  Prado Rodrigao **21.00**  ·  Christian Burgess **21.00**  ·  Milos Veljkovic **41.00**  ·  Franklin Tebo **21.00**  ·  Aleksandar Katai **41.00**  ·  Mirko Ivanic **15.00**  ·  Tomas Handel **81.00**  ·  Kim Ye-Geon **23.00**  ·  Bamba Dieng **10.00**  ·  Mahmudu Bajo **21.00**  ·  Marko Arnautovic **19.00**  ·  Mihailo Ristic **41.00**
+- **Anytime Goal Scorer:** Aime Omgba **3.75**  ·  Rade Krunic **11.00**  ·  Mohammad Abu Fani **7.50**  ·  Timi Elsnik **8.50**  ·  Laszlo Benes **5.50**  ·  Maksim Paskotsi **12.00**  ·  Loizos Loizou **4.33**  ·  Mohammed El Adfaoui **11.00**  ·  Mamadou Diallo **11.00**  ·  Vasilije Kostov **5.50**  ·  Vladimir Lucic **5.50**  ·  Adem Avdic **11.00**  ·  Prado Rodrigao **19.00**  ·  Mouhamed Ngom **11.00**  ·  Abdoul Ayinde **7.50**  ·  Yuta Nakayama **11.00**  ·  Michel Ange Balikwisha **3.20**  ·  Kristiyan Balov **3.75**  ·  Max Dean **2.30**  ·  Momodou Sonko **4.33**  ·  Tibe De Vlieger **5.00**  ·  Matisse Samoise **6.50**  ·  Mathias Delorge-Knieper **7.50**  ·  Tiago Araujo **7.00**  ·  Gilles De Meyer **11.00**  ·  Christian Burgess **15.00**  ·  Milos Veljkovic **19.00**  ·  Moctar Diop **2.88**  ·  Franklin Tebo **15.00**  ·  Ibrahima Cisse **3.40**  ·  Muhammed Cham Saracevic **5.50**  ·  Matties Volckaert **7.00**  ·  Osman Bukari **5.50**  ·  Aleksandar Katai **3.50**  ·  Mirko Ivanic **3.75**  ·  Stefan Gudelj **15.00**  ·  Abdelkahar Kadri **4.33**  ·  El Hadji Seck **5.00**  ·  Tomas Handel **8.50**  ·  Derrick Luckassen **15.00**  ·  Dimitrije Saric **4.33**  ·  Josue Vergara **2.50**  ·  Matej Strika **11.00**  ·  Abubakar Abdullahi **3.20**  ·  Matej Gashtarov **8.50**  ·  Kim Ye-Geon **3.75**  ·  Bamba Dieng **3.20**  ·  Mahmudu Bajo **8.50**  ·  Marko Arnautovic **3.00**  ·  Mihailo Ristic **11.00**  ·  Siebe van der Heyden **11.00**  ·  Leonardo Da Silva Lopes **7.00**  ·  Kyrell Wilson **3.75**  ·  Bi Goore **2.62**
 
 ## Estadísticas de equipo
 | | Gent (total) | Gent en casa | FK Crvena Zvezda (total) | FK Crvena Zvezda fuera |

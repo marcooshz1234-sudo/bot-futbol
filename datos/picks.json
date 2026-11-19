@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19 02:25",
+ "generado": "2026-11-19 08:34",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -47,6 +47,8 @@
      "valor_mercado": 0.012,
      "movimiento": -0.115,
      "cuota_inicial": 1.83,
+     "arbitro": "Robin Braun",
+     "arbitro_tarjetas": null,
      "posiciones": [
       1,
       15,
@@ -95,6 +97,8 @@
      "valor_mercado": 0.012,
      "movimiento": -0.115,
      "cuota_inicial": 1.83,
+     "arbitro": "Robin Braun",
+     "arbitro_tarjetas": null,
      "posiciones": [
       1,
       15,
@@ -196,6 +200,34 @@
      "prob_aprendida": 0.707
     },
     {
+     "partido_id": 1550202,
+     "fecha": "2026-11-21T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Lazio",
+     "visitante": "Lecce",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Lazio",
+     "cuota": 1.33,
+     "frecuencia": 0.8,
+     "ventaja": 0.048,
+     "detalle": "Lazio 9/10 · Lecce 7/10",
+     "valor_mercado": -0.022,
+     "movimiento": -0.022,
+     "cuota_inicial": 1.36,
+     "arbitro": "Matteo Marcenaro",
+     "arbitro_tarjetas": null,
+     "posiciones": [
+      1,
+      14,
+      20
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.768
+    },
+    {
      "partido_id": 1608376,
      "fecha": "2026-11-21T17:30",
      "competicion": "Serie C",
@@ -245,6 +277,36 @@
      "prob_aprendida": 0.6
     },
     {
+     "partido_id": 1552823,
+     "fecha": "2026-11-21T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Monaco",
+     "visitante": "Auxerre",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Monaco–Auxerre",
+     "cuota": 1.7,
+     "frecuencia": 0.75,
+     "ventaja": 0.162,
+     "detalle": "Monaco 7/10 · Auxerre 8/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.7,
+     "arbitro": "Jeremy Stinat",
+     "arbitro_tarjetas": 3.5,
+     "prob_xg": 0.554,
+     "xg_esperado": 2.76,
+     "posiciones": [
+      7,
+      14,
+      18
+     ],
+     "contexto": "total_lejos_medio",
+     "prob_aprendida": 0.597
+    },
+    {
      "partido_id": 1550200,
      "fecha": "2026-11-21T15:00",
      "competicion": "Serie A",
@@ -262,6 +324,8 @@
      "valor_mercado": -0.023,
      "movimiento": 0.036,
      "cuota_inicial": 1.67,
+     "arbitro": "Andrea Calzavara",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.685,
      "xg_esperado": 3.1,
      "posiciones": [
@@ -290,6 +354,8 @@
      "valor_mercado": -0.03,
      "movimiento": -0.025,
      "cuota_inicial": 2.0,
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": null,
      "posiciones": [
       7,
       3,
@@ -307,9 +373,9 @@
      "visitante": "1899 Hoffenheim",
      "mercado": "Away Player Shots",
      "opcion": "Alexander Prass - 1",
-     "cuota": 1.3,
+     "cuota": 1.25,
      "frecuencia": 1.0,
-     "ventaja": 0.231,
+     "ventaja": 0.2,
      "tipo": "jugador",
      "jugador": "Alexander Prass",
      "equipo": "1899 Hoffenheim",
@@ -319,8 +385,10 @@
      "texto": "Alexander Prass: 1+ tiros",
      "detalle": "Alexander Prass 6/6",
      "temporada": "6/6",
-     "movimiento": 0.182,
+     "movimiento": 0.136,
      "cuota_inicial": 1.1,
+     "arbitro": "Max Burda",
+     "arbitro_tarjetas": null,
      "posiciones": [
       10,
       9,
@@ -352,6 +420,8 @@
      "temporada": "7/8",
      "movimiento": 0.153,
      "cuota_inicial": 1.11,
+     "arbitro": "Max Burda",
+     "arbitro_tarjetas": null,
      "posiciones": [
       10,
       9,
@@ -402,6 +472,8 @@
      "ventaja": 0.222,
      "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
      "valor_mercado": 0.081,
+     "arbitro": "Tobias Reichel",
+     "arbitro_tarjetas": null,
      "posiciones": [
       5,
       13,
@@ -485,6 +557,34 @@
      "prob_aprendida": 0.707
     },
     {
+     "partido_id": 1550202,
+     "fecha": "2026-11-21T15:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Lazio",
+     "visitante": "Lecce",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Lazio",
+     "cuota": 1.33,
+     "frecuencia": 0.8,
+     "ventaja": 0.048,
+     "detalle": "Lazio 9/10 · Lecce 7/10",
+     "valor_mercado": -0.022,
+     "movimiento": -0.022,
+     "cuota_inicial": 1.36,
+     "arbitro": "Matteo Marcenaro",
+     "arbitro_tarjetas": null,
+     "posiciones": [
+      1,
+      14,
+      20
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.768
+    },
+    {
      "partido_id": 1608376,
      "fecha": "2026-11-21T17:30",
      "competicion": "Serie C",
@@ -534,6 +634,36 @@
      "prob_aprendida": 0.6
     },
     {
+     "partido_id": 1552823,
+     "fecha": "2026-11-21T20:45",
+     "competicion": "Ligue 1",
+     "liga_id": 61,
+     "local": "Monaco",
+     "visitante": "Auxerre",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Monaco–Auxerre",
+     "cuota": 1.7,
+     "frecuencia": 0.75,
+     "ventaja": 0.162,
+     "detalle": "Monaco 7/10 · Auxerre 8/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.0,
+     "cuota_inicial": 1.7,
+     "arbitro": "Jeremy Stinat",
+     "arbitro_tarjetas": 3.5,
+     "prob_xg": 0.554,
+     "xg_esperado": 2.76,
+     "posiciones": [
+      7,
+      14,
+      18
+     ],
+     "contexto": "total_lejos_medio",
+     "prob_aprendida": 0.597
+    },
+    {
      "partido_id": 1550200,
      "fecha": "2026-11-21T15:00",
      "competicion": "Serie A",
@@ -551,6 +681,8 @@
      "valor_mercado": -0.023,
      "movimiento": 0.036,
      "cuota_inicial": 1.67,
+     "arbitro": "Andrea Calzavara",
+     "arbitro_tarjetas": null,
      "prob_xg": 0.685,
      "xg_esperado": 3.1,
      "posiciones": [
@@ -579,6 +711,8 @@
      "valor_mercado": -0.03,
      "movimiento": -0.025,
      "cuota_inicial": 2.0,
+     "arbitro": "Richard Hempel",
+     "arbitro_tarjetas": null,
      "posiciones": [
       7,
       3,
@@ -596,9 +730,9 @@
      "visitante": "1899 Hoffenheim",
      "mercado": "Away Player Shots",
      "opcion": "Alexander Prass - 1",
-     "cuota": 1.3,
+     "cuota": 1.25,
      "frecuencia": 1.0,
-     "ventaja": 0.231,
+     "ventaja": 0.2,
      "tipo": "jugador",
      "jugador": "Alexander Prass",
      "equipo": "1899 Hoffenheim",
@@ -608,8 +742,10 @@
      "texto": "Alexander Prass: 1+ tiros",
      "detalle": "Alexander Prass 6/6",
      "temporada": "6/6",
-     "movimiento": 0.182,
+     "movimiento": 0.136,
      "cuota_inicial": 1.1,
+     "arbitro": "Max Burda",
+     "arbitro_tarjetas": null,
      "posiciones": [
       10,
       9,
@@ -660,6 +796,8 @@
      "ventaja": 0.222,
      "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
      "valor_mercado": 0.081,
+     "arbitro": "Tobias Reichel",
+     "arbitro_tarjetas": null,
      "posiciones": [
       5,
       13,
@@ -714,7 +852,72 @@
     }
    ],
    "combis": {
-    "segura": null,
+    "segura": {
+     "picks": [
+      {
+       "partido_id": 1550202,
+       "fecha": "2026-11-21T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Lazio",
+       "visitante": "Lecce",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Lazio",
+       "cuota": 1.33,
+       "frecuencia": 0.8,
+       "ventaja": 0.048,
+       "detalle": "Lazio 9/10 · Lecce 7/10",
+       "valor_mercado": -0.022,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "arbitro": "Matteo Marcenaro",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        1,
+        14,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.768
+      },
+      {
+       "partido_id": 1575223,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Eintracht Frankfurt",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "Away Player Shots",
+       "opcion": "Alexander Prass - 1",
+       "cuota": 1.25,
+       "frecuencia": 1.0,
+       "ventaja": 0.2,
+       "tipo": "jugador",
+       "jugador": "Alexander Prass",
+       "equipo": "1899 Hoffenheim",
+       "jugador_id": 7327,
+       "campo": "tiros",
+       "n": 1,
+       "texto": "Alexander Prass: 1+ tiros",
+       "detalle": "Alexander Prass 6/6",
+       "temporada": "6/6",
+       "movimiento": 0.136,
+       "cuota_inicial": 1.1,
+       "arbitro": "Max Burda",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.63
+      }
+     ],
+     "cuota": 1.66
+    },
     "cuota_3": {
      "picks": [
       {
@@ -771,31 +974,33 @@
        "local": "Eintracht Frankfurt",
        "visitante": "1899 Hoffenheim",
        "mercado": "Away Player Shots",
-       "opcion": "Alexander Prass - 1",
-       "cuota": 1.3,
-       "frecuencia": 1.0,
-       "ventaja": 0.231,
+       "opcion": "Fisnik Asllani - 2",
+       "cuota": 1.28,
+       "frecuencia": 0.875,
+       "ventaja": 0.094,
        "tipo": "jugador",
-       "jugador": "Alexander Prass",
+       "jugador": "Fisnik Asllani",
        "equipo": "1899 Hoffenheim",
-       "jugador_id": 7327,
+       "jugador_id": 202501,
        "campo": "tiros",
-       "n": 1,
-       "texto": "Alexander Prass: 1+ tiros",
-       "detalle": "Alexander Prass 6/6",
-       "temporada": "6/6",
-       "movimiento": 0.182,
-       "cuota_inicial": 1.1,
+       "n": 2,
+       "texto": "Fisnik Asllani: 2+ tiros",
+       "detalle": "Fisnik Asllani 7/8",
+       "temporada": "7/8",
+       "movimiento": 0.153,
+       "cuota_inicial": 1.11,
+       "arbitro": "Max Burda",
+       "arbitro_tarjetas": null,
        "posiciones": [
         10,
         9,
         18
        ],
        "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.63
+       "prob_aprendida": 0.615
       }
      ],
-     "cuota": 3.58
+     "cuota": 3.52
     },
     "loca": {
      "picks": [
@@ -831,6 +1036,36 @@
        "prob_aprendida": 0.6
       },
       {
+       "partido_id": 1552823,
+       "fecha": "2026-11-21T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Monaco",
+       "visitante": "Auxerre",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Monaco–Auxerre",
+       "cuota": 1.7,
+       "frecuencia": 0.75,
+       "ventaja": 0.162,
+       "detalle": "Monaco 7/10 · Auxerre 8/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.7,
+       "arbitro": "Jeremy Stinat",
+       "arbitro_tarjetas": 3.5,
+       "prob_xg": 0.554,
+       "xg_esperado": 2.76,
+       "posiciones": [
+        7,
+        14,
+        18
+       ],
+       "contexto": "total_lejos_medio",
+       "prob_aprendida": 0.597
+      },
+      {
        "partido_id": 1550200,
        "fecha": "2026-11-21T15:00",
        "competicion": "Serie A",
@@ -848,6 +1083,8 @@
        "valor_mercado": -0.023,
        "movimiento": 0.036,
        "cuota_inicial": 1.67,
+       "arbitro": "Andrea Calzavara",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.685,
        "xg_esperado": 3.1,
        "posiciones": [
@@ -876,6 +1113,8 @@
        "valor_mercado": -0.03,
        "movimiento": -0.025,
        "cuota_inicial": 2.0,
+       "arbitro": "Richard Hempel",
+       "arbitro_tarjetas": null,
        "posiciones": [
         7,
         3,
@@ -909,33 +1148,9 @@
        ],
        "contexto": "peor_lejos_abajo",
        "prob_aprendida": 0.421
-      },
-      {
-       "partido_id": 1575222,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Bayer Leverkusen",
-       "visitante": "SC Paderborn 07",
-       "mercado": "Away Corners Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "corners",
-       "texto": "SC Paderborn 07 hace más de 2,5 córners",
-       "cuota": 1.73,
-       "frecuencia": 0.8,
-       "ventaja": 0.222,
-       "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
-       "valor_mercado": 0.081,
-       "posiciones": [
-        5,
-        13,
-        18
-       ],
-       "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.425
       }
      ],
-     "cuota": 15.85
+     "cuota": 15.58
     },
     "doble": null
    },
@@ -960,6 +1175,8 @@
        "valor_mercado": -0.048,
        "movimiento": -0.091,
        "cuota_inicial": 2.2,
+       "arbitro": "Allard Lindhout",
+       "arbitro_tarjetas": 2.3,
        "posiciones": [
         14,
         10,
@@ -969,40 +1186,66 @@
        "prob_aprendida": 0.564
       },
       {
-       "partido_id": 1563268,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Norwich",
-       "visitante": "Cardiff",
+       "partido_id": 1552819,
+       "fecha": "2026-11-21T20:45",
+       "competicion": "Ligue 1",
+       "liga_id": 61,
+       "local": "Lens",
+       "visitante": "Toulouse",
        "mercado": "Double Chance",
        "opcion": "Draw/Away",
        "tipo": "resultado",
-       "texto": "Cardiff o empate",
-       "cuota": 2.0,
-       "frecuencia": 0.65,
-       "ventaja": 0.15,
-       "detalle": "Norwich 6/10 · Cardiff 7/10",
-       "valor_mercado": -0.024,
-       "movimiento": -0.024,
+       "texto": "Toulouse o empate",
+       "cuota": 1.91,
+       "frecuencia": 0.7,
+       "ventaja": 0.176,
+       "detalle": "Lens 7/10 · Toulouse 7/10",
+       "valor_mercado": -0.021,
+       "movimiento": -0.068,
        "cuota_inicial": 2.05,
-       "arbitro": "Matt Donohue",
-       "arbitro_tarjetas": 4.7,
+       "arbitro": "Bastein Dechepy",
+       "arbitro_tarjetas": 0.0,
        "posiciones": [
+        11,
         12,
-        14,
-        24
+        18
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.566
+       "prob_aprendida": 0.562
       }
      ],
-     "cuota": 4.0,
+     "cuota": 3.82,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
     "liga": {
      "picks": [
+      {
+       "partido_id": 1563274,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Wolves",
+       "visitante": "Charlton",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Wolves ve más de 1,5 tarjetas",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Wolves 7/10 · Charlton (en contra) 6/10",
+       "valor_mercado": -0.021,
+       "arbitro": "Simon Hooper",
+       "arbitro_tarjetas": 4.0,
+       "posiciones": [
+        5,
+        19,
+        24
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.703
+      },
       {
        "partido_id": 1563267,
        "fecha": "2026-11-21T13:30",
@@ -1028,32 +1271,6 @@
        ],
        "contexto": "peor_lejos_medio",
        "prob_aprendida": 0.719
-      },
-      {
-       "partido_id": 1563269,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Sheffield Utd",
-       "visitante": "Watford",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Sheffield Utd ve más de 1,5 tarjetas",
-       "cuota": 1.62,
-       "frecuencia": 0.684,
-       "ventaja": 0.067,
-       "detalle": "Sheffield Utd 6/10 · Watford (en contra) 7/9",
-       "valor_mercado": 0.012,
-       "arbitro": "Tim Robinson",
-       "arbitro_tarjetas": 4.4,
-       "posiciones": [
-        10,
-        20,
-        24
-       ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.662
       },
       {
        "partido_id": 1563270,
@@ -1086,7 +1303,7 @@
        "prob_aprendida": 0.609
       }
      ],
-     "cuota": 4.2,
+     "cuota": 4.75,
      "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP",
      "liga": "Championship"
     },
@@ -1232,6 +1449,60 @@
        "prob_aprendida": 0.629
       },
       {
+       "partido_id": 1550202,
+       "fecha": "2026-11-21T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Lazio",
+       "visitante": "Lecce",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Lazio",
+       "cuota": 1.33,
+       "frecuencia": 0.8,
+       "ventaja": 0.048,
+       "detalle": "Lazio 9/10 · Lecce 7/10",
+       "valor_mercado": -0.022,
+       "movimiento": -0.022,
+       "cuota_inicial": 1.36,
+       "arbitro": "Matteo Marcenaro",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        1,
+        14,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.768
+      },
+      {
+       "partido_id": 1563274,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Wolves",
+       "visitante": "Charlton",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Wolves ve más de 1,5 tarjetas",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Wolves 7/10 · Charlton (en contra) 6/10",
+       "valor_mercado": -0.021,
+       "arbitro": "Simon Hooper",
+       "arbitro_tarjetas": 4.0,
+       "posiciones": [
+        5,
+        19,
+        24
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.703
+      },
+      {
        "partido_id": 1608376,
        "fecha": "2026-11-21T17:30",
        "competicion": "Serie C",
@@ -1311,6 +1582,8 @@
        "valor_mercado": 0.012,
        "movimiento": -0.03,
        "cuota_inicial": 1.67,
+       "arbitro": "Max Burda",
+       "arbitro_tarjetas": null,
        "posiciones": [
         10,
         9,
@@ -1426,59 +1699,9 @@
        ],
        "contexto": "total_lejos_medio",
        "prob_aprendida": 0.659
-      },
-      {
-       "partido_id": 1575229,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "SV Elversberg",
-       "visitante": "SC Freiburg",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
-       "cuota": 1.73,
-       "frecuencia": 0.65,
-       "ventaja": 0.072,
-       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
-       "valor_mercado": -0.023,
-       "posiciones": [
-        7,
-        3,
-        18
-       ],
-       "contexto": "total_lejos_arriba",
-       "prob_aprendida": 0.645
-      },
-      {
-       "partido_id": 1557475,
-       "fecha": "2026-11-21T18:30",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Newcastle",
-       "visitante": "Arsenal",
-       "mercado": "Home Corners Over/Under",
-       "opcion": "Over 3.5",
-       "tipo": "corners",
-       "texto": "Newcastle hace más de 3,5 córners",
-       "cuota": 1.67,
-       "frecuencia": 0.75,
-       "ventaja": 0.151,
-       "detalle": "Newcastle 9/10 · Arsenal (en contra) 6/10",
-       "valor_mercado": 0.084,
-       "arbitro": "Chris Kavanagh",
-       "arbitro_tarjetas": 4.0,
-       "posiciones": [
-        12,
-        1,
-        20
-       ],
-       "contexto": "peor_abismo_medio",
-       "prob_aprendida": 0.592
       }
      ],
-     "cuota": 595.38
+     "cuota": 501.58
     }
    },
    "combis_partido": []
@@ -2308,7 +2531,7 @@
      "frecuencia": 0.85,
      "ventaja": 0.196,
      "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
-     "valor_mercado": -0.013,
+     "valor_mercado": -0.019,
      "prob_aprendida": 0.702
     }
    ],
@@ -2328,7 +2551,7 @@
      "frecuencia": 0.85,
      "ventaja": 0.196,
      "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
-     "valor_mercado": -0.013,
+     "valor_mercado": -0.019,
      "prob_aprendida": 0.702
     }
    ],
@@ -2339,6 +2562,177 @@
     "doble": null
    },
    "estilos": {},
+   "combis_partido": []
+  },
+  "2026-11-26": {
+   "picks": [
+    {
+     "partido_id": 1636301,
+     "fecha": "2026-11-26T21:00",
+     "competicion": "Europa League",
+     "liga_id": 3,
+     "local": "NEC Nijmegen",
+     "visitante": "Rennes",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "NEC Nijmegen o empate",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "NEC Nijmegen 8/10 · Rennes 7/10",
+     "valor_mercado": -0.03,
+     "prob_aprendida": 0.677
+    },
+    {
+     "partido_id": 1636393,
+     "fecha": "2026-11-26T18:45",
+     "competicion": "Conference",
+     "liga_id": 848,
+     "local": "Brann",
+     "visitante": "Aarhus",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Brann",
+     "cuota": 1.9,
+     "frecuencia": 0.611,
+     "ventaja": 0.085,
+     "detalle": "Brann 6/9 · Aarhus 5/9",
+     "valor_mercado": -0.016,
+     "prob_aprendida": 0.639
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1636301,
+     "fecha": "2026-11-26T21:00",
+     "competicion": "Europa League",
+     "liga_id": 3,
+     "local": "NEC Nijmegen",
+     "visitante": "Rennes",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "NEC Nijmegen o empate",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "NEC Nijmegen 8/10 · Rennes 7/10",
+     "valor_mercado": -0.03,
+     "prob_aprendida": 0.677
+    },
+    {
+     "partido_id": 1636393,
+     "fecha": "2026-11-26T18:45",
+     "competicion": "Conference",
+     "liga_id": 848,
+     "local": "Brann",
+     "visitante": "Aarhus",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Brann",
+     "cuota": 1.9,
+     "frecuencia": 0.611,
+     "ventaja": 0.085,
+     "detalle": "Brann 6/9 · Aarhus 5/9",
+     "valor_mercado": -0.016,
+     "prob_aprendida": 0.639
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
+       "partido_id": 1636426,
+       "fecha": "2026-11-26T18:45",
+       "competicion": "Conference",
+       "liga_id": 848,
+       "local": "FC Iberia 1999",
+       "visitante": "Getafe",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "FC Iberia 1999 marca",
+       "cuota": 1.8,
+       "frecuencia": 0.75,
+       "ventaja": 0.194,
+       "detalle": "FC Iberia 1999 6/10 · Getafe (en contra) 9/10",
+       "valor_mercado": 0.0,
+       "prob_aprendida": 0.712
+      },
+      {
+       "partido_id": 1636428,
+       "fecha": "2026-11-26T21:00",
+       "competicion": "Conference",
+       "liga_id": 848,
+       "local": "Inter Club d'Escaldes",
+       "visitante": "FC Copenhagen",
+       "mercado": "Total - Home",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Inter Club d'Escaldes marca",
+       "cuota": 1.83,
+       "frecuencia": 0.722,
+       "ventaja": 0.176,
+       "detalle": "Inter Club d'Escaldes 7/9 · FC Copenhagen (en contra) 6/9",
+       "valor_mercado": 0.005,
+       "prob_aprendida": 0.675
+      }
+     ],
+     "cuota": 3.29,
+     "titulo": "🏠 JUEVES DE LOS DE CASA",
+     "tema": "casa"
+    },
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1636386,
+       "fecha": "2026-11-26T21:00",
+       "competicion": "Conference",
+       "liga_id": 848,
+       "local": "Borac Banja Luka",
+       "visitante": "Atalanta",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Borac Banja Luka o empate",
+       "cuota": 2.3,
+       "frecuencia": 0.65,
+       "ventaja": 0.215,
+       "detalle": "Borac Banja Luka 6/10 · Atalanta 7/10",
+       "valor_mercado": 0.0,
+       "prob_aprendida": 0.624
+      },
+      {
+       "partido_id": 1636393,
+       "fecha": "2026-11-26T18:45",
+       "competicion": "Conference",
+       "liga_id": 848,
+       "local": "Brann",
+       "visitante": "Aarhus",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Brann",
+       "cuota": 1.9,
+       "frecuencia": 0.611,
+       "ventaja": 0.085,
+       "detalle": "Brann 6/9 · Aarhus 5/9",
+       "valor_mercado": -0.016,
+       "prob_aprendida": 0.639
+      }
+     ],
+     "cuota": 4.37
+    }
+   },
    "combis_partido": []
   }
  }

@@ -1,10 +1,48 @@
 # CSKA Sofia – Trabzonspor
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Stadion Balgarska Armia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **3.80**  ·  X **3.60**  ·  2 **1.85**
+- **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.65** · menos **2.20**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **4.00**  ·  X **2.38**  ·  2 **2.40**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **2.20**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **2.62**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **3.40**  ·  Home/No **8.00**  ·  Draw/No **15.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
+- **Away Player Shots On Target Total:** Leo Pereira Augusto **34.00**  ·  Facundo Rodriguez **23.00**  ·  Aral Simsir **34.00**  ·  Sidny Cabral **101.00**  ·  Noah Saviolo **10.00**  ·  Angelo Martino **21.00**  ·  Jean-Philippe Gbamin **67.00**  ·  Cenk Ozkacar **13.00**  ·  Batista Mendy **29.00**  ·  Gluda Dju Franculino **13.00**  ·  Tamimou Ouorou **151.00**  ·  Mohamed Salah **23.00**
+- **Anytime Goal Scorer:** David Pastor **12.00**  ·  Leo Pereira Augusto **4.00**  ·  Yigithan Cubukcu **6.00**  ·  Facundo Rodriguez **10.00**  ·  Ernest Muci **4.00**  ·  Max Ebong **9.00**  ·  Barry Cotter **10.00**  ·  Aral Simsir **4.00**  ·  Samet Akaydin **6.50**  ·  Ioannis Pittas **2.75**  ·  Isaac Solet **6.50**  ·  Metehan Mimaroglu **3.40**  ·  Sidny Cabral **12.00**  ·  Bruno Jordao **8.00**  ·  Mohamed Brahimi **4.00**  ·  Noah Saviolo **4.00**  ·  Taha Ince **7.50**  ·  Angelo Martino **8.00**  ·  Benjamin Bouchouari **6.50**  ·  Jean-Philippe Gbamin **12.00**  ·  Leandro Godoy **2.50**  ·  Chibuike Nwaiwu **9.00**  ·  Petko Panayotov **6.00**  ·  James Eto'o **9.00**  ·  Andrey Yordanov **7.50**  ·  Teodor Ivanov **15.00**  ·  Cenk Ozkacar **8.00**  ·  Mustafa Eskihellac **6.00**  ·  Ozan Tufan **8.00**  ·  Stefan Savic **8.00**  ·  Batista Mendy **6.00**  ·  Mehmet Nayir **2.88**  ·  Melih Kabasakal **6.50**  ·  Alex Tunchev **12.00**  ·  Joel Zwarts **3.00**  ·  Oguzhan Ertem **4.00**  ·  Vasil Kaymakanov **3.00**  ·  Wagner Pina **6.50**  ·  Ali Habesoglu **2.50**  ·  Gluda Dju Franculino **2.25**  ·  Kuzey Akcay **7.50**  ·  Hakan Yilmaz **4.00**  ·  Ahmet Guren **2.50**  ·  Dinis Almeida **12.00**  ·  Fabinho **7.50**  ·  Catalin Itu **5.50**  ·  Tamimou Ouorou **10.00**  ·  Stefano Sensi **6.50**  ·  Ebere Paul Onuachu **2.05**  ·  Mohamed Salah **2.25**  ·  Georgi Chorbadzhiyski **5.50**  ·  Tim Jabol **6.00**
 
 ## Estadísticas de equipo
 | | CSKA Sofia (total) | CSKA Sofia en casa | Trabzonspor (total) | Trabzonspor fuera |

@@ -14,15 +14,11 @@
    "dias_hasta": 27,
    "siguiente_europa": "Champions femenina"
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 1.1,
-   "temperatura": 5.9
-  },
+  "tiempo": null,
   "cuotas": {
    "Away": [
     2.2,
-    1.8
+    1.75
    ]
   }
  },
@@ -45,11 +41,7 @@
    "puesto": 16,
    "de": 22
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 5.2,
-   "temperatura": 10.9
-  }
+  "tiempo": null
  },
  "1638338": {
   "local": {
@@ -66,19 +58,15 @@
    "dias_hasta": 27,
    "siguiente_europa": "Champions femenina"
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.1,
-   "temperatura": 13.9
-  },
+  "tiempo": null,
   "cuotas": {
    "Home": [
     1.85,
-    2.15
+    2.1
    ],
    "Away": [
     3.5,
-    2.8
+    2.9
    ]
   }
  },
@@ -87,7 +75,7 @@
    "nombre": "FC Botosani",
    "dias_desde": 10,
    "ultimo_europa": null,
-   "dias_hasta": 8,
+   "dias_hasta": 9,
    "siguiente_europa": null,
    "puesto": 12,
    "de": 16
@@ -96,7 +84,7 @@
    "nombre": "FC Voluntari",
    "dias_desde": 12,
    "ultimo_europa": null,
-   "dias_hasta": 8,
+   "dias_hasta": 7,
    "siguiente_europa": null,
    "puesto": 15,
    "de": 16
@@ -117,11 +105,7 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 1.0,
-   "viento_kmh": 9.2,
-   "temperatura": 14.0
-  }
+  "tiempo": null
  },
  "1551379": {
   "local": {
@@ -142,11 +126,7 @@
    "puesto": 8,
    "de": 12
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.9,
-   "temperatura": 1.3
-  },
+  "tiempo": null,
   "arbitro": {
    "nombre": "M. Thomsen",
    "partidos": 8,
@@ -172,11 +152,7 @@
    "puesto": 7,
    "de": 12
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 8.3,
-   "temperatura": 1.0
-  }
+  "tiempo": null
  },
  "1551380": {
   "local": {
@@ -197,11 +173,7 @@
    "puesto": 6,
    "de": 12
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 8.3,
-   "temperatura": 1.5
-  }
+  "tiempo": null
  },
  "1608379": {
   "local": {
@@ -218,11 +190,7 @@
    "dias_hasta": 8,
    "siguiente_europa": null
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 3.6,
-   "temperatura": 5.9
-  }
+  "tiempo": null
  },
  "1575221": {
   "local": {
@@ -243,11 +211,7 @@
    "puesto": 14,
    "de": 18
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 20.1,
-   "temperatura": 8.0
-  }
+  "tiempo": null
  },
  "1552827": {
   "local": {
@@ -292,8 +256,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 27.2,
-   "temperatura": 10.0
+   "viento_kmh": 25.6,
+   "temperatura": 10.2
   }
  },
  "1638327": {
@@ -313,13 +277,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 18.9,
+   "viento_kmh": 16.8,
    "temperatura": 13.0
   },
   "cuotas": {
    "Home": [
     1.8,
-    1.6
+    1.57
    ]
   }
  },
@@ -340,7 +304,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.3,
+   "viento_kmh": 11.3,
    "temperatura": 15.7
   }
  },
@@ -365,8 +329,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.2,
-   "temperatura": 16.2
+   "viento_kmh": 8.3,
+   "temperatura": 16.6
   }
  },
  "1565306": {
@@ -383,15 +347,15 @@
    "nombre": "Universitatea Cluj",
    "dias_desde": 13,
    "ultimo_europa": null,
-   "dias_hasta": 7,
+   "dias_hasta": 6,
    "siguiente_europa": null,
    "puesto": 5,
    "de": 16
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.9,
-   "temperatura": 12.4
+   "viento_kmh": 12.3,
+   "temperatura": 12.2
   },
   "cuotas": {
    "Home": [

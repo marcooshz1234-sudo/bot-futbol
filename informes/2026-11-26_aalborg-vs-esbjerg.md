@@ -1,7 +1,7 @@
 # Aalborg – Esbjerg
 **1. Division** · Regular Season - 16 · 26/11/2026 19:00 (hora España) · Aalborg Portland Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

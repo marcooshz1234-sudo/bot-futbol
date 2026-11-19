@@ -1,10 +1,49 @@
 # FK Jablonec – FC Lugano
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Stadion Strelnice
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:27_
+
+- **1X2:** 1 **3.00**  ·  X **3.50**  ·  2 **2.15**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.38** · menos **1.53**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **1X2 descanso:** 1 **3.50**  ·  X **2.30**  ·  2 **2.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.91**  ·  2 **1.62**
+- **To Score In Both Halves By Teams:** 1 **3.75**  ·  2 **3.00**
+- **Win Both Halves:** 1 **11.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.00**  ·  Draw/No **13.00**  ·  Away/No **4.33**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Martin Cedidla **12.00**  ·  Filip Zorvan **41.00**
+- **Anytime Goal Scorer:** Joel Bichsel **10.00**  ·  Ezgjan Alioski **4.33**  ·  Ahmed Kendouci **5.50**  ·  David Nykrin **12.00**  ·  Vakhtang Tchanturishvili **4.75**  ·  Damian Kelvin **10.00**  ·  Albian Ajeti **2.10**  ·  Beckham Castro **2.88**  ·  Joao Victor Carbone **10.00**  ·  Claudio Cassano **4.33**  ·  Dereck Moncada **3.40**  ·  Elias Pihlstrom **3.75**  ·  Evzen Maly **15.00**  ·  Lamin Jawo **3.10**  ·  Daniel Dos Santos **3.75**  ·  Renato Steffen **3.75**  ·  Yanis Cimignani **4.33**  ·  Uran Bislimi **7.00**  ·  Anto Grgic **5.50**  ·  Antonios Papadopoulos **10.00**  ·  Lars Lukas Mai **10.00**  ·  Martim Marques **10.00**  ·  Mattia Zanotti **10.00**  ·  Saidou Alioum **5.50**  ·  Dusan Pavlovic **12.00**  ·  Michal Kukucka **2.25**  ·  Adam Kubat **7.50**  ·  Nicolo Puddu **3.75**  ·  Jason Parente **4.33**  ·  Bekhruzdjon Karimov **8.00**  ·  Gjan Ajdin **8.00**  ·  Christian Raffa **3.75**  ·  Dominik Holly **5.50**  ·  Jan Chramosta **3.25**  ·  Matej Polidar **7.00**  ·  Martin Cedidla **7.50**  ·  Daniel Soucek **12.00**  ·  Sebastian Nebyla **7.50**  ·  Jan Suchan **4.00**  ·  Nemanja Tekijaski **12.00**  ·  Jiri Slama **8.00**  ·  Filip Zorvan **7.50**  ·  Richard Sedlacek **7.50**  ·  Garang Kuol **4.00**  ·  Kevin Behrens **2.88**  ·  Hannes Delcroix **10.00**  ·  Antonin Rusek **2.75**  ·  Nelson Okeke **7.00**  ·  Filip Novak **10.00**
 
 ## Estadísticas de equipo
 | | FK Jablonec (total) | FK Jablonec en casa | FC Lugano (total) | FC Lugano fuera |

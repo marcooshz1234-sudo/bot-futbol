@@ -1,12 +1,12 @@
 # Chelsea – Leeds
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Stamford Bridge
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:19_
+_Actualizadas: 19/11 08:25_
 
-- **1X2:** 1 **1.85**  ·  X **3.80**  ·  2 **4.00**
+- **1X2:** 1 **1.85**  ·  X **3.80**  ·  2 **3.90**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.25**  ·  X2 **1.91**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
@@ -21,14 +21,14 @@ _Actualizadas: 19/11 02:19_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.14** · menos **5.50**
+    - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **8.00** · menos **1.08**
+    - 3,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
-    - 2,5: más **9.00** · menos **1.07**
+    - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**

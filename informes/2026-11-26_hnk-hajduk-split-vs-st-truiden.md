@@ -1,10 +1,49 @@
 # HNK Hajduk Split – St. Truiden
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Stadion Poljud
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **2.00**  ·  X **3.50**  ·  2 **3.25**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.28**  ·  X2 **1.80**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.75** · menos **2.05**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
+- **1X2 descanso:** 1 **2.62**  ·  X **2.30**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
+- **To Win Either Half:** 1 **1.57**  ·  2 **2.10**
+- **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **4.33**
+- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **13.00**  ·  Away/No **6.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.62**
+- **Away Player Shots On Target Total:** Kota Takai **23.00**  ·  Marin Soticek **17.00**  ·  Jeremy Kandje Mbambi **15.00**  ·  Khalil Fayad **51.00**  ·  Leander Dendoncker **29.00**  ·  Carlos Martin **17.00**  ·  Nathanael Mbuku **29.00**  ·  Leite Dali **17.00**
+- **Anytime Goal Scorer:** Etnik Brruti **5.50**  ·  Samed Bazdar **3.20**  ·  Alberto del Moral **7.00**  ·  Adrion Pajaziti **7.00**  ·  Visar Musliu **15.00**  ·  Shogo Taniguchi **12.00**  ·  Kota Takai **12.00**  ·  Kaito Matsuzawa **5.50**  ·  Ryan Merlen **6.50**  ·  Illyes Benachour **3.75**  ·  Jay-David Mbalanda **2.62**  ·  Bassel Jradi **4.33**  ·  Josip Basic **7.00**  ·  Marin Soticek **3.40**  ·  Jeremy Kandje Mbambi **10.00**  ·  Ron Raci **12.00**  ·  Taiga Hata **7.50**  ·  Ryotaro Araki **4.33**  ·  Khalil Fayad **6.50**  ·  Mathieu Acapandie **12.00**  ·  Robert-Jan Vanwesemael **10.00**  ·  Alouis Diriken **8.50**  ·  Wolke Janssens **12.00**  ·  Abdoulage Sissako **8.50**  ·  Leander Dendoncker **7.50**  ·  Joederik Pupe **10.00**  ·  Carlos Martin **2.88**  ·  Alec Van Hoorenbeeck **12.00**  ·  Ilias Sebaoui **4.33**  ·  Oumar Diouf **3.20**  ·  Arbnor Muja **3.75**  ·  Dennis Hadzikadunic **12.00**  ·  Nathanael Mbuku **4.50**  ·  Nelson Ishiwatari **4.50**  ·  Shion Shinkawa **3.75**  ·  Dario Maresic **12.00**  ·  Marko Livaja **2.50**  ·  Dario Melnjak **5.50**  ·  Simun Hrgovic **10.00**  ·  Michele Sego **2.88**  ·  Luka Hodak **12.00**  ·  Roko Gabric **12.00**  ·  Roko Brajkovic **12.00**  ·  Marino Skelin **10.00**  ·  Adam Guram **3.75**  ·  Andjelo Sutalo **4.33**  ·  Frederic Soelle **3.20**  ·  Marco Fossati **5.50**  ·  Abdoulie Sanyang **3.40**  ·  Leite Dali **3.40**
 
 ## Estadísticas de equipo
 | | HNK Hajduk Split (total) | HNK Hajduk Split en casa | St. Truiden (total) | St. Truiden fuera |

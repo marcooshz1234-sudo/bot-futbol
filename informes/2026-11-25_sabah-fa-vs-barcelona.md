@@ -1,10 +1,10 @@
 # Sabah FA – Barcelona
 **Champions League** · League Stage - 5 · 25/11/2026 18:45 (hora España) · Baku Olympic Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 08:26_
+_Actualizadas: 19/11 08:27_
 
 - **1X2:** 1 **21.00**  ·  X **11.00**  ·  2 **1.07**
 - **Doble oportunidad:** 1X **9.00**  ·  12 **1.05**  ·  X2 **1.01**
@@ -12,9 +12,9 @@ _Actualizadas: 18/11 08:26_
 - **Goles más/menos:**
     - 2,5: más **1.11** · menos **6.50**
     - 3,5: más **1.30** · menos **3.50**
-    - 4,5: más **1.73** · menos **2.10**
+    - 4,5: más **1.67** · menos **2.20**
     - 5,5: más **2.38** · menos **1.57**
-    - 6,5: más **4.00** · menos **1.25**
+    - 6,5: más **3.75** · menos **1.28**
     - 7,5: más **6.00** · menos **1.12**
     - 8,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**

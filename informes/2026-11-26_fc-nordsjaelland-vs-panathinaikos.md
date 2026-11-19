@@ -1,10 +1,50 @@
 # FC Nordsjaelland – Panathinaikos
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Right to Dream Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **2.70**  ·  X **3.50**  ·  2 **2.38**
+- **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.44**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del visitante:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.25**  ·  X **2.30**  ·  2 **3.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **3.25**
+- **Win Both Halves:** 1 **10.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **4.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Victor Nelsson **17.00**  ·  Facundo Pellistri **81.00**  ·  Santino Andino **34.00**  ·  Vicente Taborda **34.00**  ·  Imran Louza **34.00**  ·  Pedro Chirivella **81.00**  ·  Alexander Lind **9.50**  ·  Cyriel Dessers **12.00**  ·  Anass Saleh-Eddine **81.00**  ·  Victor Kristiansen **41.00**  ·  Davide Calabria **41.00**  ·  Erik Palmer-Brown **23.00**  ·  Georgios Kyriakopoulos **81.00**  ·  Ola Solbakken **29.00**  ·  Stefan de Vrij **34.00**
+- **Anytime Goal Scorer:** Stephen Acquah **12.00**  ·  Markus Walker **4.75**  ·  Hjalte Rasmussen **4.00**  ·  Villum Berthelsen **3.40**  ·  Justin Janssen **6.00**  ·  Mark Christensen **6.00**  ·  Peter Ankersen **12.00**  ·  Noah Markmann **15.00**  ·  Victor Nelsson **12.00**  ·  Souleymane Alio **2.75**  ·  Prince Amoako **3.10**  ·  Malte Heyde **7.00**  ·  Facundo Pellistri **4.33**  ·  Azz-Eddine Ounahi **5.50**  ·  Giannis Bokos **5.50**  ·  Ibrahim Adel **4.00**  ·  Vasilios Lavdas **8.00**  ·  Elmin Rastoder **2.60**  ·  Villads Rutkjaer **7.50**  ·  Victor Gustafsen **7.50**  ·  Santino Andino **3.75**  ·  Vicente Taborda **4.00**  ·  Imran Louza **3.75**  ·  Pedro Chirivella **7.50**  ·  Etienne Camara **8.00**  ·  Levi Garcia **2.60**  ·  Alexander Lind **2.75**  ·  Sotiris Kontouris **7.00**  ·  Triantafyllos Tsapras **9.00**  ·  Georgios Katris **15.00**  ·  Cyriel Dessers **2.25**  ·  Anass Saleh-Eddine **9.00**  ·  Rick Van Drongelen **12.00**  ·  Nicklas Rojkjaer **4.75**  ·  Runar Norheim **5.50**  ·  Tobias Salquist **15.00**  ·  Adriano Jagusic **3.60**  ·  Mamadou Sadio **3.75**  ·  Matej Tuka **7.50**  ·  Mouekinga Kone **2.75**  ·  William Faber **3.10**  ·  Panagiotis Biniaris **7.00**  ·  Iason Nebis **3.25**  ·  Victor Kristiansen **15.00**  ·  Davide Calabria **7.00**  ·  Erik Palmer-Brown **15.00**  ·  Andrews Tetteh **2.25**  ·  Georgios Kyriakopoulos **10.00**  ·  Kings Kangwa **6.00**  ·  Ola Solbakken **3.40**  ·  Stefan de Vrij **17.00**  ·  Juho Lahteenmaki **5.50**
 
 ## Estadísticas de equipo
 | | FC Nordsjaelland (total) | FC Nordsjaelland en casa | Panathinaikos (total) | Panathinaikos fuera |

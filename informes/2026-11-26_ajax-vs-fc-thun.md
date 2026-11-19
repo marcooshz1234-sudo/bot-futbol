@@ -1,10 +1,52 @@
 # Ajax – FC Thun
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:27_
+
+- **1X2:** 1 **1.17**  ·  X **6.25**  ·  2 **12.00**
+- **Doble oportunidad:** 1X **1.04**  ·  12 **1.11**  ·  X2 **4.50**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **Goles más/menos:**
+    - 1,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.25** · menos **4.00**
+    - 3,5: más **1.62** · menos **2.20**
+    - 4,5: más **2.50** · menos **1.50**
+    - 5,5: más **4.00** · menos **1.22**
+    - 6,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Goles del local:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.38**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
+    - 2,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **1.50**  ·  X **3.40**  ·  2 **9.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.38** · menos **1.53**
+    - 3,5: más **4.50** · menos **1.18**
+    - 4,5: más **11.00** · menos **1.05**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **1.10**  ·  2 **5.00**
+- **To Score In Both Halves By Teams:** 1 **1.50**  ·  2 **7.00**
+- **Win Both Halves:** 1 **2.10**  ·  2 **51.00**
+- **Results/Both Teams Score:** Home/Yes **2.20**  ·  Draw/Yes **7.50**  ·  Away/Yes **19.00**  ·  Home/No **2.25**  ·  Draw/No **29.00**  ·  Away/No **26.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **3.40**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.75**
+- **Away Player Shots On Target Total:** Oscar Gloukh **19.00**  ·  Thilo Kehrer **9.50**  ·  Sofyan Amrabat **17.00**  ·  Jofre Torrents **21.00**  ·  Caio Henrique **51.00**  ·  Toluwalase Arokodare **3.75**  ·  Davy Klaassen **10.00**  ·  Youri Baas **10.00**  ·  Owen Wijndal **51.00**  ·  Dies Janse **9.50**  ·  Oliver Valaker Edvardsen **8.50**  ·  Marcos Leonardo **7.50**  ·  Jorthy Mokio **10.00**  ·  Steven Berghuis **29.00**  ·  Daley Blind **51.00**  ·  Viktor Tsygankov **26.00**  ·  Simon Adingra **21.00**  ·  Yves Bissouma **34.00**  ·  Lucas Rosa **41.00**  ·  Julian Brandt **21.00**  ·  Diego Pugno **6.00**  ·  Aaron Bouwman **8.00**  ·  Rayane Bounida **21.00**
+- **Anytime Goal Scorer:** Oscar Gloukh **2.10**  ·  Thilo Kehrer **5.00**  ·  Mattias Kait **9.00**  ·  Patrik Kristal **8.00**  ·  Nicolas Burgy **13.00**  ·  Sofyan Amrabat **3.75**  ·  Jofre Torrents **4.75**  ·  Nico Maier **9.00**  ·  Riccardo Braschi **5.00**  ·  Olivier Mambwa **21.00**  ·  Caio Henrique **6.00**  ·  Toluwalase Arokodare **1.57**  ·  Furkan Dursun **4.75**  ·  Davy Klaassen **2.88**  ·  Youri Baas **5.00**  ·  Owen Wijndal **5.00**  ·  Dies Janse **6.00**  ·  Oliver Valaker Edvardsen **2.20**  ·  Noah Christoffersson **4.75**  ·  Marcos Leonardo **1.67**  ·  Tom Strannegard **13.00**  ·  Mats Seiler **17.00**  ·  Abdellah Ouazane **2.60**  ·  Mohamed Abdalla **2.30**  ·  Nils Reichmuth **7.00**  ·  Marc Gutbub **4.75**  ·  Jan Bamert **17.00**  ·  Dorian Derbaci **9.00**  ·  Nassim Zoukit **9.00**  ·  Justin Roth **13.00**  ·  Ashvin Balaruban **17.00**  ·  Adam Ilic **9.00**  ·  Fabio Fehr **17.00**  ·  Marco Burki **26.00**  ·  Lucien Dahler **17.00**  ·  Simon Lengen **4.75**  ·  Louis Passavant **17.00**  ·  Fabio Saiz **8.00**  ·  Jorthy Mokio **3.75**  ·  Steven Berghuis **2.88**  ·  Daley Blind **8.00**  ·  Viktor Tsygankov **2.10**  ·  Simon Adingra **2.30**  ·  Yves Bissouma **3.75**  ·  Lucas Rosa **5.00**  ·  Julian Brandt **1.95**  ·  Diego Pugno **1.67**  ·  Brighton Labeau **4.75**  ·  Aaron Bouwman **4.75**  ·  Rayane Bounida **2.20**
 
 ## Estadísticas de equipo
 | | Ajax (total) | Ajax en casa | FC Thun (total) | FC Thun fuera |

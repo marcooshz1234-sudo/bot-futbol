@@ -1,10 +1,51 @@
 # SC Freiburg – Twente
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **1.85**  ·  X **3.90**  ·  2 **3.25**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.22**  ·  X2 **1.80**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+    - 6,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **2.40**  ·  X **2.50**  ·  2 **3.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **1.50**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **3.50**
+- **Win Both Halves:** 1 **5.50**  ·  2 **13.00**
+- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **21.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **8.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.50**
+- **Away Player Shots On Target Total:** Younes Taha **17.00**  ·  Thomas Van den Belt **11.00**  ·  Yuito Suzuki **23.00**  ·  Ramiz Zerrouki **34.00**  ·  Guilherme Peixoto **34.00**  ·  Benjamin Nagel **34.00**  ·  Rihito Yamamoto **51.00**  ·  Lucas Holer **9.00**  ·  Derry Scherhant **15.00**  ·  Wout Weghorst **4.50**  ·  Lukas Kubler **34.00**  ·  Christian Gunter **67.00**  ·  Daan Rots **21.00**  ·  Gijs Besselink **23.00**  ·  Bart van Rooij **19.00**  ·  Julien Mesbahi **19.00**  ·  Max Bruns **21.00**  ·  Daouda Weidmann **26.00**  ·  Kristian Hlynsson **29.00**  ·  Yannick Engelhardt **51.00**  ·  Aske Adelgaard **51.00**  ·  Robin Propper **23.00**  ·  Sondre Orjasaeter **21.00**  ·  Naci Unuvar **23.00**  ·  Berkay Yilmaz **67.00**  ·  Jan-Niklas Beste **29.00**  ·  Rouven Tarnutzer **34.00**  ·  Stav Lemkin **15.00**  ·  Krzysztof Kurowski **51.00**  ·  Mateo Zelic **11.00**  ·  Igor Matanovic **8.50**  ·  Philipp Treu **67.00**  ·  Anthony Jung **29.00**  ·  Bruno Ogbus **21.00**  ·  Jordy Makengo **126.00**  ·  Matthias Ginter **11.00**  ·  Max Rosenfelder **15.00**  ·  Maximilian Eggestein **41.00**  ·  Patrick Osterhage **51.00**  ·  Philipp Lienhart **13.00**  ·  Vincenzo Grifo **23.00**  ·  Cyriaque Irie **12.00**  ·  Lucas Vennegoor of Hesselink **6.50**  ·  Keisuke Goto **15.00**  ·  Ruud Nijstad **21.00**
+- **Anytime Goal Scorer:** Younes Taha **3.75**  ·  Michal Rosiak **6.00**  ·  Thomas Van den Belt **5.50**  ·  Yuito Suzuki **2.62**  ·  Ramiz Zerrouki **7.50**  ·  Marko Pjaca **3.75**  ·  Guilherme Peixoto **8.00**  ·  Benjamin Nagel **8.00**  ·  Rihito Yamamoto **5.50**  ·  Lucas Holer **2.62**  ·  Derry Scherhant **3.00**  ·  Wout Weghorst **2.75**  ·  Lukas Kubler **5.50**  ·  Christian Gunter **8.00**  ·  Daan Rots **4.00**  ·  Gijs Besselink **7.50**  ·  Bart van Rooij **9.00**  ·  Julien Mesbahi **13.00**  ·  Max Bruns **11.00**  ·  Daouda Weidmann **5.50**  ·  Kristian Hlynsson **3.40**  ·  Yannick Engelhardt **7.50**  ·  Aske Adelgaard **9.00**  ·  Robin Propper **13.00**  ·  Sondre Orjasaeter **4.33**  ·  Naci Unuvar **5.00**  ·  Berkay Yilmaz **8.00**  ·  Filip Thorvaldsen **3.40**  ·  Jan-Niklas Beste **3.25**  ·  Jordy Bawuah **7.50**  ·  Rouven Tarnutzer **3.75**  ·  Stav Lemkin **11.00**  ·  Krzysztof Kurowski **11.00**  ·  Mateo Zelic **3.40**  ·  Jip Meilink **8.00**  ·  Igor Matanovic **2.20**  ·  Philipp Treu **8.00**  ·  Anthony Jung **13.00**  ·  Bruno Ogbus **8.00**  ·  Jordy Makengo **13.00**  ·  Matthias Ginter **6.50**  ·  Max Rosenfelder **11.00**  ·  Maximilian Eggestein **4.33**  ·  Patrick Osterhage **5.50**  ·  Philipp Lienhart **8.00**  ·  Vincenzo Grifo **2.50**  ·  Cyriaque Irie **3.75**  ·  Lucas Vennegoor of Hesselink **4.00**  ·  Keisuke Goto **3.00**  ·  Ruud Nijstad **15.00**
 
 ## Estadísticas de equipo
 | | SC Freiburg (total) | SC Freiburg en casa | Twente (total) | Twente fuera |

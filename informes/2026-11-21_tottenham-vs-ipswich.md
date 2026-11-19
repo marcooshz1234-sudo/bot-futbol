@@ -1,10 +1,10 @@
 # Tottenham – Ipswich
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Tottenham Hotspur Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:19_
+_Actualizadas: 19/11 08:25_
 
 - **1X2:** 1 **1.50**  ·  X **4.50**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.18**  ·  X2 **2.50**

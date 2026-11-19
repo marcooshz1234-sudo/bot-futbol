@@ -1,10 +1,50 @@
 # Brighton – Universitatea Craiova
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Amex Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:27_
+
+- **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **15.00**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **5.50**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.36** · menos **3.10**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **3.00** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **1.44**  ·  X **3.20**  ·  2 **12.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.08**  ·  2 **6.00**
+- **To Score In Both Halves By Teams:** 1 **1.57**  ·  2 **11.00**
+- **Win Both Halves:** 1 **2.10**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **9.00**  ·  Away/Yes **23.00**  ·  Home/No **1.83**  ·  Draw/No **23.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **3.50**
+- **Away Player Shots On Target Total:** Maxim De Cuyper **23.00**  ·  Jaouen Hadjam **13.00**  ·  Ibrahim Osman **19.00**  ·  Olivier Boscagli **29.00**  ·  Diego Gomez **23.00**  ·  Ferdi Kadioglu **41.00**  ·  Zadok Yohanna **11.00**  ·  Michael Svoboda **9.50**  ·  Pascal Struijk **9.50**  ·  Nehemiah Oriola **23.00**  ·  Promise David **12.00**  ·  Luka Vuskovic **7.00**  ·  Malick Yalcouye **12.00**  ·  Joao Pedro Costinha **41.00**  ·  Adrian Rus **41.00**  ·  Baptiste Roux **41.00**  ·  Shane Nti **21.00**  ·  Younes Ibrahim **12.00**  ·  Matt O'Riley **10.00**  ·  Georginio Rutter **7.50**  ·  Jack Hinshelwood **7.50**  ·  Lewis Dunk **9.00**  ·  Mats Wieffer **15.00**  ·  Yankuba Minteh **21.00**  ·  Yasin Ayari **29.00**  ·  Charalampos Kostoulas **5.50**  ·  Chema Andres **6.00**  ·  Pascal Gross **21.00**
+- **Anytime Goal Scorer:** Maxim De Cuyper **2.62**  ·  Jaouen Hadjam **4.00**  ·  Ibrahim Osman **2.10**  ·  Olivier Boscagli **7.00**  ·  Diego Gomez **2.50**  ·  Ferdi Kadioglu **4.75**  ·  David Matei **15.00**  ·  Tudor Baluta **15.00**  ·  Oleksandr Romanchuk **23.00**  ·  Nicusor Bancu **23.00**  ·  Ronaldo Webster **29.00**  ·  Steven Nsimba **5.00**  ·  Monday Etim **6.50**  ·  Alexandru Cicaldau **10.00**  ·  Zadok Yohanna **2.40**  ·  Heriberto Tavares **8.00**  ·  Michael Svoboda **6.50**  ·  Pascal Struijk **6.50**  ·  Nehemiah Oriola **2.50**  ·  Promise David **2.00**  ·  Luka Vuskovic **5.00**  ·  Malick Yalcouye **2.50**  ·  Joao Pedro Costinha **6.50**  ·  Adrian Rus **29.00**  ·  Assad Al Hamlawi **5.00**  ·  Alexandru Cretu **19.00**  ·  Baptiste Roux **23.00**  ·  Shane Nti **2.40**  ·  Younes Ibrahim **2.50**  ·  Matt O'Riley **3.10**  ·  Georginio Rutter **2.00**  ·  Jack Hinshelwood **2.62**  ·  Lewis Dunk **6.50**  ·  Mats Wieffer **5.00**  ·  Yankuba Minteh **2.40**  ·  Yasin Ayari **3.10**  ·  Charalampos Kostoulas **1.80**  ·  Joao Lameira **15.00**  ·  Samuel Teles **15.00**  ·  Carlos Mora **8.50**  ·  Stefan Baiaram **5.00**  ·  Vladimir Screciu **15.00**  ·  Luca Basceanu **8.00**  ·  Nikola Stevanovic **23.00**  ·  Chema Andres **3.50**  ·  Pascal Gross **2.40**  ·  Simon Elisor **5.00**
 
 ## Estadísticas de equipo
 | | Brighton (total) | Brighton en casa | Universitatea Craiova (total) | Universitatea Craiova fuera |

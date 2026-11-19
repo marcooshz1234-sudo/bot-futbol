@@ -1,10 +1,50 @@
 # Heart Of Midlothian – Monaco
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Tynecastle Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:27_
+
+- **1X2:** 1 **4.75**  ·  X **3.90**  ·  2 **1.62**
+- **Doble oportunidad:** 1X **2.25**  ·  12 **1.25**  ·  X2 **1.18**
+- **Ambos marcan:** Sí **1.57**  ·  No **2.25**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **4.75**  ·  X **2.50**  ·  2 **2.10**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **3.75**  ·  No **1.25**
+- **Both Teams To Score - Second Half:** Sí **2.75**  ·  No **1.40**
+- **To Win Either Half:** 1 **2.62**  ·  2 **1.33**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.20**
+- **Win Both Halves:** 1 **19.00**  ·  2 **4.00**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **3.00**  ·  Home/No **10.00**  ·  Draw/No **17.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.10**
+- **Away Player Shots On Target Total:** Vanderson Campos **21.00**  ·  Mika Biereth **7.00**  ·  Denis Zakaria **7.50**  ·  Folarin Balogun **10.00**  ·  Lamine Camara **51.00**  ·  Mohammed Salisu **15.00**  ·  Takumi Minamino **21.00**  ·  Jamie McCart **29.00**  ·  James Wilson **19.00**  ·  Calvin Miller **17.00**  ·  Harry Milne **81.00**  ·  Eduardo Ageu **34.00**  ·  Sabah Kerjota **41.00**  ·  Tomas Magnusson **41.00**  ·  Laurent Mendy **21.00**  ·  Pape Cabral **17.00**  ·  Pierre Kabore **15.00**  ·  Ilane Toure **17.00**  ·  Matthis Abline **13.00**  ·  Finlay Pollock **51.00**  ·  Jordan Teze **21.00**  ·  Christian Mawissa Elebi **13.00**  ·  Edan Diop **17.00**  ·  Alexandr Golovin **21.00**  ·  Paris Brunner **6.50**  ·  Elton Kabangu **29.00**  ·  Malachi Fagan-Walcott **19.00**  ·  Jordi Altena **41.00**  ·  Flavio Nazinho **13.00**  ·  Oisin McEntee **21.00**  ·  Blair Spittal **41.00**  ·  Yan Dhanda **51.00**  ·  Craig Halkett **11.00**  ·  Stephen Kingsley **51.00**  ·  Joshua McPake **34.00**  ·  Stuart Findlay **15.00**  ·  Stanis Idumbo-Muzambo **17.00**  ·  Mamadou Coulibaly **19.00**  ·  Claudio Braga **11.00**  ·  Christian Borchgrevink **126.00**  ·  Mathys Detourbet **17.00**  ·  Amadou Ba-Sy **7.50**  ·  Oumar Konate **6.50**  ·  Safouane Benzahra **9.50**  ·  Anis Soubeir **21.00**  ·  JJ Williams **11.00**  ·  Samuel Nibombe **17.00**  ·  Rogers Mato **15.00**  ·  Eric Dier **11.00**  ·  Ansu Fati **34.00**  ·  Sadibou Sane **15.00**  ·  Sabri Guendouz **21.00**
+- **Anytime Goal Scorer:** Vanderson Campos **7.00**  ·  Mika Biereth **2.30**  ·  Denis Zakaria **4.50**  ·  Folarin Balogun **2.10**  ·  Lamine Camara **5.50**  ·  Mohammed Salisu **8.50**  ·  Takumi Minamino **3.20**  ·  Jamie McCart **21.00**  ·  James Wilson **3.75**  ·  Calvin Miller **5.00**  ·  Harry Milne **8.50**  ·  Eduardo Ageu **7.00**  ·  Sabah Kerjota **4.50**  ·  Tomas Magnusson **7.00**  ·  Laurent Mendy **7.00**  ·  Pape Cabral **3.50**  ·  Pierre Kabore **3.75**  ·  Ilane Toure **7.00**  ·  Matthis Abline **2.10**  ·  Finlay Pollock **6.50**  ·  Jordan Teze **5.50**  ·  Christian Mawissa Elebi **9.50**  ·  Edan Diop **4.00**  ·  Alexandr Golovin **3.20**  ·  Paris Brunner **2.00**  ·  Elton Kabangu **3.10**  ·  Malachi Fagan-Walcott **11.00**  ·  Jordi Altena **8.50**  ·  Flavio Nazinho **5.50**  ·  Oisin McEntee **13.00**  ·  Blair Spittal **4.50**  ·  Aron Benjaminsen **4.50**  ·  Yan Dhanda **6.50**  ·  Craig Halkett **8.50**  ·  Stephen Kingsley **13.00**  ·  Joshua McPake **3.75**  ·  Stuart Findlay **11.00**  ·  Stanis Idumbo-Muzambo **3.50**  ·  Mamadou Coulibaly **4.00**  ·  Claudio Braga **3.40**  ·  Christian Borchgrevink **13.00**  ·  Mathys Detourbet **4.00**  ·  Leart Kabashi **6.50**  ·  Amadou Ba-Sy **3.75**  ·  Gus Stevenson **8.50**  ·  Matthew Gillies **13.00**  ·  Oumar Konate **2.10**  ·  Safouane Benzahra **2.75**  ·  Anis Soubeir **5.50**  ·  JJ Williams **3.75**  ·  Samuel Nibombe **7.00**  ·  Rogers Mato **4.50**  ·  Eric Dier **7.00**  ·  Ansu Fati **2.60**  ·  Sadibou Sane **8.50**  ·  Sabri Guendouz **4.00**
 
 ## Estadísticas de equipo
 | | Heart Of Midlothian (total) | Heart Of Midlothian en casa | Monaco (total) | Monaco fuera |

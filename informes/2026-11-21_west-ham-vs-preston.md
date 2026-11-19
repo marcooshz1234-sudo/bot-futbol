@@ -1,10 +1,10 @@
 # West Ham – Preston
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:19_
+_Actualizadas: 19/11 08:25_
 
 - **1X2:** 1 **1.20**  ·  X **7.00**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.10**  ·  X2 **4.33**
@@ -42,7 +42,6 @@ _Actualizadas: 19/11 02:19_
     - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
-    - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **1.11**  ·  2 **4.50**

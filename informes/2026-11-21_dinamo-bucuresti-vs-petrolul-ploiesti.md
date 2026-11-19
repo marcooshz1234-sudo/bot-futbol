@@ -1,10 +1,10 @@
 # Dinamo Bucuresti – Petrolul Ploiesti
 **Liga I** · Regular Season - 16 · 21/11/2026 19:30 (hora España) · Arena Nationala
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:20_
+_Actualizadas: 19/11 08:26_
 
 - **1X2:** 1 **1.38**  ·  X **4.20**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.20**  ·  X2 **2.75**

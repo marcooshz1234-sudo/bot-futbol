@@ -1,10 +1,50 @@
 # SC Braga – KuPS
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:28_
+
+- **1X2:** 1 **1.12**  ·  X **7.50**  ·  2 **17.00**
+- **Doble oportunidad:** 1X **1.02**  ·  12 **1.10**  ·  X2 **6.00**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.36** · menos **3.10**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **3.00** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.62** · menos **2.20**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.50** · menos **1.18**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **1.44**  ·  X **3.25**  ·  2 **12.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.08**  ·  2 **6.00**
+- **To Score In Both Halves By Teams:** 1 **1.57**  ·  2 **11.00**
+- **Win Both Halves:** 1 **2.00**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **2.62**  ·  Draw/Yes **9.50**  ·  Away/Yes **26.00**  ·  Home/No **1.83**  ·  Draw/No **23.00**  ·  Away/No **26.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **2.88**  ·  u/yes 2.5 **17.00**  ·  u/no 2.5 **3.60**
+- **Away Player Shots On Target Total:** Ruben Furtado **21.00**  ·  Denis Huseinbasic **21.00**  ·  Adrian Barisic **11.00**  ·  Mario Dorgeles **23.00**  ·  Yanis da Rocha **12.00**  ·  Joao Aragao **23.00**  ·  Diego Rodrigues **23.00**  ·  Ayman Aiki **41.00**  ·  Gustaf Lagerbielke **9.50**  ·  Pau Victor **7.00**  ·  Julius Eskesen **51.00**  ·  Gabriel Martinez **34.00**  ·  Tomas Marques **29.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **19.00**  ·  Fran Navarro **4.00**  ·  Felipe Joao Moutinho **29.00**  ·  Jean-Baptiste Gorby **34.00**  ·  Vitor Carvalho **15.00**  ·  Bright Arrey-Mbi **23.00**  ·  Victor Gomez **41.00**  ·  Teixeira Luisinho **11.00**  ·  Diogo Travassos **41.00**  ·  Demir Tiknaz **13.00**  ·  Jovan Milosevic **4.33**  ·  Flinto Costa **17.00**  ·  Diogo Lobo **41.00**  ·  Jonas Wind **6.50**  ·  Gabriel Silva Vieira **17.00**
+- **Anytime Goal Scorer:** Ruben Furtado **2.38**  ·  Saikou Touray **15.00**  ·  Denis Huseinbasic **2.38**  ·  Adrian Barisic **7.00**  ·  Mario Dorgeles **2.62**  ·  Clinton Antwi **19.00**  ·  Joslyn Luyeye-Lutumba **7.00**  ·  Petteri Pennanen **7.50**  ·  Saku Savolainen **12.00**  ·  Yanis da Rocha **6.50**  ·  Jaime Moreno **5.50**  ·  Taneli Hamalainen **23.00**  ·  Rasmus Tikkanen **19.00**  ·  Piotr Parzyszek **6.50**  ·  Arttu Lotjonen **23.00**  ·  Samuel Pasanen **12.00**  ·  Bob Armah **12.00**  ·  Joao Aragao **2.62**  ·  Diego Rodrigues **4.00**  ·  Ayman Aiki **7.00**  ·  Gustaf Lagerbielke **6.50**  ·  Pau Victor **1.53**  ·  Julius Eskesen **8.50**  ·  Gustav Engvall **4.50**  ·  Gabriel Martinez **2.10**  ·  Calvin Kabuye **7.50**  ·  Tomas Marques **6.50**  ·  Adrian Bajrami **7.00**  ·  Akseli Puukko **10.00**  ·  Valentin Roman Gasc **8.50**  ·  Luz Ricardo Horta **1.73**  ·  Fran Navarro **1.67**  ·  Felipe Joao Moutinho **3.20**  ·  Jean-Baptiste Gorby **4.00**  ·  Vitor Carvalho **5.00**  ·  Bright Arrey-Mbi **6.50**  ·  Victor Gomez **6.50**  ·  Teixeira Luisinho **2.38**  ·  Diogo Travassos **4.50**  ·  Demir Tiknaz **4.00**  ·  Niilo Kujasalo **10.00**  ·  Sergio Barcia **5.00**  ·  Jovan Milosevic **1.83**  ·  Brahima Magassa **23.00**  ·  Kasim Adams **26.00**  ·  Saku Heiskanen **23.00**  ·  Joao Trovisco **1.95**  ·  Flinto Costa **1.83**  ·  Diogo Lobo **4.50**  ·  Tommi Jyry **12.00**  ·  Jonas Wind **1.73**  ·  Ricardo Jorginho **10.00**  ·  Gabriel Silva Vieira **1.83**
 
 ## Estadísticas de equipo
 | | SC Braga (total) | SC Braga en casa | KuPS (total) | KuPS fuera |

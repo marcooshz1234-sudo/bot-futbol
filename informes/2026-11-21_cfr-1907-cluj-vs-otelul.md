@@ -1,10 +1,10 @@
 # CFR 1907 Cluj – Oţelul
 **Liga I** · Regular Season - 16 · 21/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:20_
+_Actualizadas: 19/11 08:25_
 
 - **1X2:** 1 **2.15**  ·  X **3.25**  ·  2 **3.10**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.62**
@@ -12,7 +12,7 @@ _Actualizadas: 19/11 02:20_
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
+    - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**

@@ -1,10 +1,47 @@
 # Egnatia Rrogozhinë – Lincoln Red Imps FC
-**Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Demrozi Stadium
+**Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Arena Kombetare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:27_
+
+- **1X2:** 1 **1.57**  ·  X **4.00**  ·  2 **4.75**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.20**  ·  X2 **2.20**
+- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **Goles más/menos:**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.70** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **11.00** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **2.10**  ·  X **2.40**  ·  2 **5.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
+- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
+- **To Win Either Half:** 1 **1.33**  ·  2 **2.75**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **6.00**
+- **Win Both Halves:** 1 **4.00**  ·  2 **21.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.00**  ·  Home/No **2.75**  ·  Draw/No **13.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.62**
+- **Anytime Goal Scorer:** Deivid Hoxha **2.50**  ·  Alvaro Romero **7.00**  ·  Lee Casciaro **4.50**  ·  Graeme Torrilla **10.00**  ·  Ethan Britto **7.50**  ·  Ethan Jolley **15.00**  ·  Bernardo Lopes **15.00**  ·  Numan Ajetovikj **8.50**  ·  Toni Garcia **7.50**  ·  Kike Gomez **4.00**  ·  Christian Rutjens **17.00**  ·  Gonzalez Nano **8.50**  ·  Armando Mandi **10.00**  ·  Martinez Joe **10.00**  ·  Ayman El Ghobashy **3.75**  ·  Zamiq Aliyev **12.00**  ·  Ibrahim Diabate **5.50**  ·  Eneo Bitri **7.00**  ·  Alessandro Albanese **2.75**  ·  Julliani Eersteling **15.00**  ·  Yussef Flalhi Idrissi **7.00**  ·  Leon Mason **6.00**  ·  Facundo Alvarez **7.00**  ·  Manu Toledano **3.75**  ·  Nico Pinto **7.00**  ·  Eljon Sota **8.50**  ·  Ildi Gruda **2.75**  ·  Altin Kryeziu **8.50**  ·  Karim Loukili **3.25**  ·  Geralb Smajli **10.00**  ·  Edison Ndreca **7.00**  ·  Albano Aleksi **8.50**  ·  Jurguens Montenegro **2.50**  ·  Daniel Adjessa **2.30**  ·  Alessandro Kacbufi **10.00**  ·  Andrey Yago **8.50**  ·  Guillem Jaime **8.50**  ·  Reis Bakalli **4.75**  ·  Aly Coulibaly **7.50**  ·  Jay Coombes **15.00**  ·  da Silva Fernando Medeiros **3.75**  ·  Cardoza Tomas Gabri **15.00**  ·  Alex Mula **7.00**  ·  Ledio Beqja **7.50**
 
 ## Estadísticas de equipo
 | | Egnatia Rrogozhinë (total) | Egnatia Rrogozhinë en casa | Lincoln Red Imps FC (total) | Lincoln Red Imps FC fuera |

@@ -1,10 +1,10 @@
 # FC Fredericia – Hillerød
 **1. Division** · Regular Season - 15 · 19/11/2026 19:00 (hora España) · Monjasa Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:19_
+_Actualizadas: 19/11 08:24_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.14**  ·  X2 **3.25**
@@ -32,7 +32,7 @@ _Actualizadas: 19/11 02:19_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 10,5: más **1.90** · menos **1.90**
+    - 10,5: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.75**  ·  2 **6.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -46,7 +46,7 @@ _Actualizadas: 19/11 02:19_
 - **Win Both Halves:** 1 **3.00**  ·  2 **29.00**
 - **Results/Both Teams Score:** Home/Yes **2.50**  ·  Draw/Yes **6.50**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **21.00**  ·  Away/No **15.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **4.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.40**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.02**  ·  Menos de 5 **1.78**
 - **Anytime Goal Scorer:** Svenn Crone **5.50**  ·  Emilio Simonsen **2.30**  ·  Alexander Lyng **2.20**  ·  Adam Nygaard **6.50**  ·  Malthe Ladefoged **6.50**  ·  Hjalte Toftegaard **8.00**  ·  Hakim Sulemana **6.50**  ·  Elias Hansborg-Sorensen **2.05**  ·  Asbjorn Bondergaard **1.80**  ·  Patrick Egelund **2.50**  ·  William Madsen **3.40**  ·  Daniel Haarbo **4.33**  ·  Felix Winther **4.33**  ·  Jonatan Lindekilde **4.00**  ·  Anders Dahl **4.75**  ·  Frederik Rieper **5.50**  ·  Saman Jalaei **4.75**  ·  Sebastian Larsen **13.00**  ·  Frederik Hogh **4.00**  ·  Mikkel Mouritz **6.50**  ·  Berzan Kucukylidiz **5.50**  ·  Nicklas Schmidt **6.00**  ·  Tobias Arndal **6.50**  ·  Jonathan Witt **9.00**  ·  Kasper Enghardt **21.00**  ·  Casper Jorgensen **3.00**  ·  Marcus Voigt **10.00**  ·  Niklas Wilmerskov **10.00**  ·  Oliver Lauritsen **15.00**  ·  Noah Kretzschmar **4.00**  ·  Bork Bang-Kittilsen **2.50**  ·  Andreas Pyndt **4.75**  ·  Mads Julo **13.00**  ·  Jeppe Kudsk **7.00**  ·  Jakob Sigurdsson **4.75**  ·  Simon Jorgensen **6.00**  ·  Andreas Hoyer **13.00**  ·  Nemo Thomsen **2.05**  ·  Lauritz Dauerhoj **6.50**  ·  Oliver Vest **8.00**  ·  Frederik Bunten **3.40**  ·  Gustav Nohr **10.00**  ·  Hocine Derrar **10.00**  ·  Jacob Kronquist **6.50**  ·  Lucas Lundgren **15.00**  ·  Albert Oppenhagen **13.00**  ·  Poul Kallsberg **6.00**  ·  Rezan Corlu **6.00**  ·  Frederik Heiselberg **4.33**  ·  Magnus Munck **8.00**  ·  Solomon Opoku **8.00**  ·  William Glindtvad **15.00**
 
 ## Estadísticas de equipo

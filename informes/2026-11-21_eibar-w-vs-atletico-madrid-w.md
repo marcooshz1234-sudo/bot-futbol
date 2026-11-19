@@ -1,10 +1,38 @@
 # Eibar W – Atletico Madrid W
 **Liga F** · Regular Season - 12 · 21/11/2026 17:00 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:25_
+
+- **1X2:** 1 **8.50**  ·  X **5.20**  ·  2 **1.25**
+- **Doble oportunidad:** 1X **3.40**  ·  12 **1.11**  ·  X2 **1.04**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.60** · menos **2.30**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **7.50** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **9.00** · menos **1.04**
+- **1X2 descanso:** 1 **8.50**  ·  X **2.62**  ·  2 **1.67**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.18** · menos **4.50**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.17**
+- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **1.91**
+- **Win Both Halves:** 1 **41.00**  ·  2 **2.62**
+- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **3.10**  ·  Home/No **15.00**  ·  Draw/No **15.00**  ·  Away/No **2.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.62**
 
 ## Estadísticas de equipo
 | | Eibar W (total) | Eibar W en casa | Atletico Madrid W (total) | Atletico Madrid W fuera |

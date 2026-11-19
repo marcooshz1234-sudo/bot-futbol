@@ -1,10 +1,10 @@
 # Feyenoord – Excelsior
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Feijenoord
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 02:20_
+_Actualizadas: 19/11 08:26_
 
 - **1X2:** 1 **1.20**  ·  X **7.00**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.10**  ·  X2 **4.33**

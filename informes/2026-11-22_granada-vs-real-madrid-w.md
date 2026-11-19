@@ -1,10 +1,49 @@
 # Granada – Real Madrid W
 **Liga F** · Regular Season - 12 · 22/11/2026 12:00 (hora España) · Ciudad Deportiva del Granada
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 02:23._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 19/11 08:26_
+
+- **1X2:** 1 **11.00**  ·  X **5.75**  ·  2 **1.18**
+- **Doble oportunidad:** 1X **3.80**  ·  12 **1.10**  ·  X2 **1.02**
+- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **Goles más/menos:**
+    - 1,5: más **1.14** · menos **5.00**
+    - 2,5: más **1.50** · menos **2.50**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.75** · menos **1.25**
+    - 5,5: más **6.50** · menos **1.10**
+    - 6,5: más **9.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.00** · menos **1.73**
+    - 2,5: más **4.33** · menos **1.20**
+    - 3,5: más **8.50** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.91** · menos **1.80**
+    - 1,5: más **5.50** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.05** · menos **8.50**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.83** · menos **1.83**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
+- **1X2 descanso:** 1 **9.50**  ·  X **2.88**  ·  2 **1.53**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
+    - 3,5: más **8.00** · menos **1.08**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **5.00**  ·  2 **1.12**
+- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **1.73**
+- **Win Both Halves:** 1 **51.00**  ·  2 **2.38**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.88**  ·  Home/No **21.00**  ·  Draw/No **17.00**  ·  Away/No **1.83**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **3.25**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **3.10**
 
 ## Estadísticas de equipo
 | | Granada (total) | Granada en casa | Real Madrid W (total) | Real Madrid W fuera |
