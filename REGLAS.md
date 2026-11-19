@@ -127,6 +127,7 @@
 - 👤 Nada de GIF de relleno, encuestas, concursos ni rankings (11/11).
 
 ## 7. Threads e Instagram
+- ⚙️ **Emojis variados y ✅ un post sí y otro no** (19/11, Marcos: «siempre me pones los mismos emojis»; «quiero más ticks verdes… una vez sí y otra no»). Cada tipo de apuesta con su grupo de emojis (gana 🏆👑💪🥇⚡🦁, o empate 🛡️🧱🔒🤝⚖️, marca ⚽🎯💥🥅🚀☄️, ambos ⚽🔁↔️🎭⚔️, goles 🔥🌋💣📈⏱️, tiros 🎯🔫💨🏹🎳, córners 🚩📐🏳️🌀), uno por post; la línea del partido con la bandera de la liga o 🆚 (nunca ⚽); cabeceras que cambian; en los posts pares ✅ delante de cada pata (anula lo del 16/11 «nunca ✅ antes de jugarse» en las locas). (threads_locas.vestir; test_threads_emojis)
 - ⚙️ Threads: sin etiqueta de tema (26/10: con ella se veía 3–10 veces menos); texto con emojis; **foto solo en el pick del día y los ganadores** (12/11). Y los boletos de Marcos, siempre con su captura (14/11: sin ella no se entienden).
 - ⚙️ Estilo Threads: cabecera en mayúsculas con 🔥⚽, ✅ en cada pata, «🎯 CUOTA … 💎», lo que se gana con 10 € y
   un cierre que cambia (12/11).

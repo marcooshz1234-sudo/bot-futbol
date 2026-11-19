@@ -202,6 +202,76 @@ def _bandera(eq):
         return "⚽"
 
 
+# 19/11 (Marcos: «siempre me pones los mismos emojis… añade los que me has propuesto»): la línea del partido con la
+# bandera de la liga (no ⚽), un emoji que cambia para cada tipo de apuesta, cabeceras variadas y ✅ en las patas un post
+# sí y otro no («que lo haga una vez sí y otra no»).
+BANDERA_LIGA = ((r"Premier|Championship|FA Cup|EFL|WSL|England", "🏴\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F"),
+                (r"La Liga|Segunda|Copa del Rey|Primera|Liga F|Spain", "🇪🇸"),
+                (r"Serie A|Serie B|Coppa|Italy", "🇮🇹"), (r"Bundesliga|DFB|Germany", "🇩🇪"),
+                (r"Ligue 1|Ligue 2|Coupe|France", "🇫🇷"), (r"Primeira|Portugal", "🇵🇹"), (r"Eredivisie|Netherlands", "🇳🇱"))
+EMOJIS = {"gana": ["🏆", "👑", "💪", "🥇", "⚡", "🦁"], "doble": ["🛡️", "🧱", "🔒", "🤝", "⚖️"],
+          "marca": ["⚽", "🎯", "💥", "🥅", "🚀", "☄️"], "ambos": ["⚽", "🔁", "↔️", "🎭", "⚔️"],
+          "goles": ["🔥", "🌋", "💣", "📈", "⏱️"], "tiros": ["🎯", "🔫", "💨", "🏹", "🎳"],
+          "corners": ["🚩", "📐", "🏳️", "🌀"]}
+CABECERAS = ((r"TAPADOS", ["🐶", "🕵️", "🫣", "🃏"]), (r"DUELO", ["⚔️", "🥊", "🤺"]), (r"TODO A LAS", ["⏰", "⏳", "🕘"]),
+             (r"EMPATES", ["🤝", "⚖️", "😮‍💨"]), (r"GANA Y AMBOS", ["⚽🏆", "👑⚽", "💥🏆"]), (r"FAVORIT", ["👑", "💎", "🧊"]),
+             (r"COPA|SUSTO", ["😱", "🌪️", "🪃"]), (r"x\d|POR \d|CENTENARIA|MILLONARIA|LOCURA", ["🤑💸", "🎰", "💰🚀", "🧨", "🤑"]),
+             (r"^🔥 COMBI ", ["🔥", "💥", "⚡", "🚨"]))
+MARCAS = "🏆|🛡️|🛡|⚽|🎯|🔥|🚩|🤝|🦵|🍀"
+
+
+def _bandera_pt(pt):
+    b = _bandera(pt["local_en"])
+    if b != "⚽":
+        return b
+    for rx, f in BANDERA_LIGA:
+        if re.search(rx, pt.get("liga") or ""):
+            return f
+    return "🆚"
+
+
+def _clase(t):
+    n = t.lower()
+    for rx, c in ((r"tiro|remate", "tiros"), (r"c[oó]rner", "corners"), (r"ambos marcan", "ambos"), (r"o empate|no pierde", "doble"),
+                  (r"\bgana\b", "gana"), (r"m[aá]s de \d|goles|parte", "goles"), (r"\bmarca\b", "marca")):
+        if re.search(rx, n):
+            return c
+    return None
+
+
+def _elige(lista, clave):
+    return lista[int(hashlib.sha1(clave.encode()).hexdigest(), 16) % len(lista)]
+
+
+def vestir(texto, semilla, ticks):
+    """Emojis variados (por tipo de apuesta y cabecera) y, si «ticks», ✅ delante de cada pata."""
+    lineas = texto.split("\n")
+    t0 = lineas[0]
+    for rx, opciones in CABECERAS:
+        if re.search(rx, t0):
+            e = _elige(opciones, semilla + "cab")
+            limpio = re.sub(r"^[^\w¿¡]+|[^\w)?!.,€]+$", "", t0).strip()
+            lineas[0] = f"{e} {limpio} {e}"
+            break
+
+    def cambia(m):
+        pre, emo, resto = m.group(1), m.group(2), m.group(3)
+        c = _clase(resto)
+        nuevo = _elige(EMOJIS[c], semilla + c) if c else emo   # el mismo dentro del post, cambia entre posts
+        return f"{pre}{'✅ ' if ticks else ''}{nuevo} {resto}"
+    patron = re.compile(r"(^|➜ | · )(" + MARCAS + r")\ufe0f? ([^·➜\n]+?)(?=$| · )")
+    patron_flecha = re.compile(r"(➜ )(" + MARCAS + r")\ufe0f? ([^·➜\n]+?)(?=$| · )")
+    for i in range(1, len(lineas)):
+        l = lineas[i]
+        if re.search(r"CUOTA|¿|Si sale|Todo se decide|Sin alineaciones|Para valientes|Goles y victoria", l):
+            continue   # ni la cuota ni el cierre
+        if re.match(r"^⚽ [^➜·]+?[–-][^➜·]+? \d{1,2}:\d\d$", l):   # la línea del partido nunca con ⚽ (se confundía con las patas)
+            lineas[i] = "🆚" + l[1:]
+            continue
+        lineas[i] = (patron_flecha if "➜" in l else patron).sub(cambia, l)
+    return "\n".join(lineas)
+
+
 def _corto(pt, p):
     """«Ambos marcan en Alemania–Países Bajos» → «Ambos marcan» (ya va debajo del partido)."""
     return re.sub(r"\s+en\s+" + re.escape(pt["local"]) + r"\s*[–-]\s*" + re.escape(pt["visitante"]) + r"\s*$", "", p["texto"])
@@ -302,7 +372,7 @@ def texto_combi(objetivo, sel, cuota, misma, semilla):
     for pt, p in sorted(sel, key=lambda x: (x[0]["ini"], x[0]["fid"])):
         por.setdefault(pt["fid"], (pt, []))[1].append(p)
     for pt, ps in por.values():
-        lineas.append(f"{_bandera(pt['local_en'])} {pt['local']}–{pt['visitante']} {pt['ini'].strftime('%H:%M')}")
+        lineas.append(f"{_bandera_pt(pt)} {pt['local']}–{pt['visitante']} {pt['ini'].strftime('%H:%M')}")
         lineas.append(" · ".join(_abreviar(_linea(pt, p)) for p in ps))
     lineas += ["", f"🎯 CUOTA {coma(cuota)}{' aprox.' if misma else ''} 💎 10€ → {coma(cuota * 10)}€",
                CIERRES[rnd % len(CIERRES)]]
@@ -356,7 +426,7 @@ def lista(partidos, clave, titulo, mercados, usados):
     while True:
         lineas = [titulo, ""]
         for i, (pt, p) in enumerate(filas, 1):
-            lineas.append(f"{i}. {_bandera(pt['local_en'])} {pt['local']}–{pt['visitante']} ➜ {_abreviar(_corto(pt, p))} @{coma(p['cuota'])}")
+            lineas.append(f"{i}. {_bandera_pt(pt)} {pt['local']}–{pt['visitante']} ➜ {_abreviar(_corto(pt, p))} @{coma(p['cuota'])}")
         lineas += ["", "👇 ¿Con cuál os quedáis? 👇"]
         if len("\n".join(lineas)) <= MAX_CARACTERES or len(filas) <= 3:
             break
@@ -412,7 +482,7 @@ def gana_y_ambos(partidos, semilla, usados):
     cuota = cuota_bet(filas)
     lineas = ["⚽🏆 GANA Y AMBOS MARCAN 🏆⚽", ""]
     for pt, p in filas:
-        lineas.append(f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}")
+        lineas.append(f"{_bandera_pt(pt)} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')}")
         lineas += [f"🏆 {p['texto']}", ""]   # 16/11: nunca ✅ antes de jugarse (parece ganada)
     lineas.pop()
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "🔥 Goles y victoria: así nos gusta 🔥"]
@@ -460,7 +530,7 @@ def empates(partidos, semilla, usados):
         return None
     cuota = cuota_bet(filas)
     lineas = ["🤝 LA COMBI DE LOS EMPATES 🤝", ""]
-    lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')} ➜ 🤝 Empate @{coma(p['cuota'])}"
+    lineas += [f"{_bandera_pt(pt)} {pt['local']} – {pt['visitante']} · {pt['ini'].strftime('%H:%M')} ➜ 🤝 Empate @{coma(p['cuota'])}"
                for pt, p in filas]
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "😮‍💨 Para valientes 😮‍💨"]
     return filas, cuota, "\n".join(lineas)
@@ -482,7 +552,7 @@ def misma_hora(partidos, semilla, usados):
         return None
     cuota = cuota_bet(sel)
     lineas = [f"⏰ TODO A LAS {hora.strftime('%H:%M')} ⏰", ""]
-    lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ {_linea(pt, p)}" for pt, p in sel]
+    lineas += [f"{_bandera_pt(pt)} {pt['local']} – {pt['visitante']} ➜ {_linea(pt, p)}" for pt, p in sel]
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "⏳ Todo se decide a la vez 🔥"]
     return sel, cuota, "\n".join(lineas)
 
@@ -509,7 +579,7 @@ def tapados(partidos, semilla, usados):
         return None
     cuota = cuota_bet(filas)
     lineas = ["🐶 LA DE LOS TAPADOS 🐶", "", "Hoy vamos con los que nadie ve 👀", ""]
-    lineas += [f"{_bandera(pt['local_en'])} {pt['local']} – {pt['visitante']} ➜ 🛡️ {p['texto']} @{coma(p['cuota'])}" for pt, p in filas]
+    lineas += [f"{_bandera_pt(pt)} {pt['local']} – {pt['visitante']} ➜ 🛡️ {p['texto']} @{coma(p['cuota'])}" for pt, p in filas]
     lineas += ["", f"🎯 CUOTA {coma(cuota)} 💎 · 10€ → {coma(cuota * 10)}€", "", "🤫 Si sale esta, nos retiramos 🤫"]
     return filas, cuota, "\n".join(lineas)
 
@@ -725,7 +795,14 @@ def plan(dia, desde=None, ya_horas=(), usados_previos=None, con_escudos=None, ho
         ultimo = base_tipo
         out.append((h, tipo, texto, [f"{pt['fid']}|{p['mercado']}|{p['opcion']}" for pt, p in sel],
                     [p["cuota"] for _, p in sel]))
-    return sorted(out, key=lambda x: x[0])
+    out = sorted(out, key=lambda x: x[0])
+    vestidos = []
+    for i, (h, tipo, texto, sels, cuotas) in enumerate(out):
+        nuevo = vestir(texto, f"{dia}{h.isoformat()}", ticks=(i % 2 == 0))   # ✅ un post sí y otro no
+        if len(nuevo) > MAX_CARACTERES:
+            nuevo = vestir(texto, f"{dia}{h.isoformat()}", ticks=False)
+        vestidos.append((h, tipo, nuevo if len(nuevo) <= MAX_CARACTERES else texto, sels, cuotas))
+    return vestidos
 
 
 def previos_de(dia):

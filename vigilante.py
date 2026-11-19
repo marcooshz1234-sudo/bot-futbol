@@ -155,7 +155,7 @@ def revisar(ahora=None):
         m = RESTOS.search(tx)
         if m:
             out.append((f"resto-{p['id']}", f"🧩 Texto roto («{m.group(0)}»): {cab}"))
-        if re.search(r"^\s*✅ (?!D[ií]a )", tx, re.M) and not any(k in p["id"] for k in ("ganadores", "recuerdo", "pleno")):
+        if re.search(r"^\s*✅ (?!D[ií]a )", tx, re.M) and not any(k in p["id"] for k in ("ganadores", "recuerdo", "pleno", "-loca-th-")):   # 19/11: Marcos quiere ✅ en las locas
             out.append((f"check-{p['id']}", f"✅ Lleva ✅ en patas que aún no se han jugado (parece ganada): {cab}"))
         # 8. sin cuotas
         if p.get("sel") and len(p.get("cuotas") or []) != len(p["sel"]):
