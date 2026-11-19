@@ -71,10 +71,14 @@ class Buffer(unittest.TestCase):
 
     def test_sin_clave_no_hace_nada(self):
         import os
+        import tempfile
         from unittest import mock
-        with mock.patch.dict(os.environ, {}, clear=False):
+        import bot
+        with tempfile.TemporaryDirectory() as d, mock.patch.object(bot, "DATOS", Path(d)), \
+                mock.patch.dict(os.environ, {}, clear=False):
             os.environ.pop("BUFFER_TOKEN", None)
             self.assertEqual(xb.main(AHORA), 0)
+            self.assertFalse(bot.leer(Path(d) / xb.ESTADO_F, {})["clave"])
 
     def test_en_el_bucle_con_su_secreto(self):
         wf = (Path(__file__).resolve().parent.parent / ".github" / "workflows" / "telegram.yml").read_text(encoding="utf-8")

@@ -177,7 +177,12 @@ def canal_x(token, estado):
 def main(ahora=None):
     from bot import DATOS, MADRID, RAIZ, escribir, leer
     from incidencias import publicaciones
-    token = os.environ.get("BUFFER_TOKEN")
+    token = (os.environ.get("BUFFER_TOKEN") or "").strip()
+    estado0 = leer(DATOS / ESTADO_F, {}) or {}
+    if estado0.get("clave") != bool(token):   # 19/11: queda apuntado si el bucle tiene la clave (solo cuando cambia)
+        estado0["clave"] = bool(token)
+        estado0["clave_vista"] = datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")
+        escribir(DATOS / ESTADO_F, estado0)
     if not token:
         print("x_buffer: sin BUFFER_TOKEN (Marcos aún no ha puesto la clave de Buffer): no se sube nada")
         return 0
