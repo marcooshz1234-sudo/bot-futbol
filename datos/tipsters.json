@@ -3546,5 +3546,43 @@
    2,
    3
   ]
+ },
+ {
+  "tipster": "AllSportsPicks ⚽🏀🎾",
+  "fuente": "-1002463340479/87364",
+  "dia": "2026-11-19",
+  "hora": "21:00",
+  "local": "Arsenal W",
+  "visitante": "Lyon W",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.57,
+  "stake": null,
+  "argumento": [
+   "Dos de los ataques más fuertes de Europa en categoría femenina",
+   "Lyon suele generar muchas ocasiones incluso fuera de casa",
+   "Arsenal en su campo propone y concede espacios, partido abierto"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100716",
+  "dia": "2026-11-19",
+  "hora": "18:45",
+  "local": "Paris FC W",
+  "visitante": "HB Koge W",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.53,
+  "stake": null,
+  "argumento": [
+   "Paris FC es claro favorito en casa ante un rival danés de menos nivel",
+   "Se espera dominio local con muchas llegadas",
+   "Si el favorito marca pronto, el partido puede abrirse y sumar goles"
+  ],
+  "argumento_propio": true
  }
 ]
