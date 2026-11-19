@@ -810,5 +810,9 @@
   },
   "2026-11-19-pick-seguro": {
     "caducada": "cuota 1.33 por debajo de 1.35"
+  },
+  "2026-11-19-escalera": {
+    "enviado": "2026-11-19T11:00",
+    "mensaje_id": 548
   }
 }
