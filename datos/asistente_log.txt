@@ -245,3 +245,4 @@
 2026-11-18 18:43:40 getUpdates falló: RemoteDisconnected('Remote end closed connection without response')
 2026-11-18 19:43:24 arranca el bot del móvil
 2026-11-18 20:35:17 botón apno|230df91ea6 → ok
+2026-11-19 01:52:28 arranca el bot del móvil
