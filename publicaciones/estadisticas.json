@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 16:25",
+ "actualizado": "2026-11-19 16:47",
  "redes": {
   "instagram": {
    "seguidores": 51,
@@ -41,25 +41,26 @@
    ]
   },
   "telegram": {
-   "seguidores": null,
-   "hoy": null,
+   "seguidores": 485,
+   "hoy": 6,
    "serie": [
     401,
     404,
     411,
     439,
     471,
-    479
+    479,
+    485
    ]
   }
  },
- "total": 3278,
- "total_hoy": 11,
+ "total": 3763,
+ "total_hoy": 17,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:30",
+  "hora": "17:00",
   "dia": "2026-11-19",
-  "titulo": "Combi por 12,83"
+  "titulo": "Combi arsenal (fem.) – lyon (fem.)"
  },
  "ayer": null,
  "escalera": {
@@ -231,7 +232,8 @@
   "2026-11-19": {
    "instagram": 51,
    "threads": 3226,
-   "facebook": 1
+   "facebook": 1,
+   "telegram": 485
   }
  },
  "tipos_instagram": {
