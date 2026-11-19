@@ -8594,7 +8594,7 @@
       "1638297|Home Player Shots|Francisca Nazareth - 3"
     ],
     "cuotas": [
-      1.4,
+      1.44,
       1.4,
       1.4,
       1.4,
@@ -8609,7 +8609,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-19T18:30"
   },
   {
     "id": "2026-11-20-ganadores-resto",
