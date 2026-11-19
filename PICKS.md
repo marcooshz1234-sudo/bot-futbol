@@ -1,6 +1,6 @@
 # Picks del Analista
 
-_Generado el 2026-11-19 08:34 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-19 14:26 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 20/11
 
@@ -45,20 +45,19 @@ _Generado el 2026-11-19 08:34 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Domingo 22/11
 
-**🤪 Combi loca · cuota 14,72**
-- Gana el Cordoba (1,85) · Cordoba 6/10 · Oviedo 6/10
+**🤪 Combi loca · cuota 13,76**
 - Gana el Bologna (1,70) · Bologna 5/10 · Udinese 8/10
 - Gana el Liverpool (1,73) · Liverpool 6/10 · Manchester United 7/10
 - Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 (1,62) · FC Augsburg 10/10 · FSV Mainz 05 8/10
 - Ambos marcan en Burnley–Blackburn (1,67) · Burnley 8/10 · Blackburn 7/10
+- Oviedo hace más de 3,5 córners (1,73) · Cordoba (en contra) 7/9 · Oviedo 7/9
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 14:00 | Gana el Cordoba | resultado | 1.85 | 60% | Cordoba 6/10 · Oviedo 6/10 |
 | 15:00 | Gana el Bologna | resultado | 1.70 | 65% | Bologna 5/10 · Udinese 8/10 |
 | 17:30 | Gana el Liverpool | resultado | 1.73 | 65% | Liverpool 6/10 · Manchester United 7/10 |
+| 14:00 | Gana el Cordoba | resultado | 1.91 | 60% | Cordoba 6/10 · Oviedo 6/10 |
 | 16:15 | Sporting Gijon gana alguna de las dos partes | resultado | 1.50 | 75% | Sporting Gijon 8/10 · Las Palmas 7/10 |
-| 14:00 | Cordoba gana alguna de las dos partes | resultado | 1.50 | 75% | Cordoba 8/10 · Oviedo 7/10 |
 | 15:30 | Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 | goles | 1.62 | 90% | FC Augsburg 10/10 · FSV Mainz 05 8/10 |
 | 13:00 | Ambos marcan en Burnley–Blackburn | goles | 1.67 | 75% | Burnley 8/10 · Blackburn 7/10 |
 | 17:30 | Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV | goles | 1.73 | 75% | Werder Bremen 8/10 · Hamburger SV 7/10 |
@@ -69,7 +68,6 @@ _Generado el 2026-11-19 08:34 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
-| 20:30 | Gana el Almeria | resultado | 1.85 | 75% | AD Ceuta FC 6/10 · Almeria 9/10 |
 | 21:00 | Thierno Barry: 2+ tiros | jugador | 1.33 | 100% | Thierno Barry 10/10 |
 
 ## Miércoles 25/11

@@ -1,10 +1,10 @@
 # Manchester City – Napoli
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:22_
+_Actualizadas: 19/11 14:24_
 
 - **1X2:** 1 **1.25**  ·  X **6.25**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.12**  ·  X2 **3.75**

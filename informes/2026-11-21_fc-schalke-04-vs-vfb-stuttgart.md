@@ -1,7 +1,7 @@
 # FC Schalke 04 – VfB Stuttgart
 **Bundesliga** · Regular Season - 10 · 21/11/2026 18:30 (hora España) · VELTINS-Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
 
 ## Cuotas Bet365
 _Actualizadas: 19/11 08:26_

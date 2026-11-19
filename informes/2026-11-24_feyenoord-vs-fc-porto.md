@@ -1,10 +1,10 @@
 # Feyenoord – FC Porto
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
 
 ## Cuotas Bet365
-_Actualizadas: 18/11 14:22_
+_Actualizadas: 19/11 14:24_
 
 - **1X2:** 1 **2.70**  ·  X **3.70**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.44**

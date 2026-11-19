@@ -3564,7 +3564,13 @@
    "Lyon suele generar muchas ocasiones incluso fuera de casa",
    "Arsenal en su campo propone y concede espacios, partido abierto"
   ],
-  "argumento_propio": true
+  "argumento_propio": true,
+  "partido_id": 1638286,
+  "analisis": {
+   "liga": "UEFA Champions League Women",
+   "cuota_bet365": 1.57,
+   "prob_cuota": 0.637
+  }
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",

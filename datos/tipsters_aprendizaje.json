@@ -55,13 +55,22 @@
    "prob_cuota": 3.754
   },
   "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 7,
+   "n": 8,
    "verdes": 4,
    "rojos": 2,
    "nulos": 0,
    "unidades": 0.05,
    "resueltos_con_cuota": 6,
    "prob_cuota": 3.98
+  },
+  "AllSportsPicks ⚽🏀🎾": {
+   "n": 7,
+   "verdes": 1,
+   "rojos": 4,
+   "nulos": 0,
+   "unidades": -3.39,
+   "resueltos_con_cuota": 5,
+   "prob_cuota": 3.133
   },
   "TipsPro": {
    "n": 6,
@@ -89,15 +98,6 @@
    "unidades": 1.36,
    "resueltos_con_cuota": 3,
    "prob_cuota": 2.076
-  },
-  "AllSportsPicks ⚽🏀🎾": {
-   "n": 6,
-   "verdes": 1,
-   "rojos": 4,
-   "nulos": 0,
-   "unidades": -3.39,
-   "resueltos_con_cuota": 5,
-   "prob_cuota": 3.133
   },
   "CRIMINALPICKS": {
    "n": 4,
@@ -190,7 +190,7 @@
    "prob_cuota": 10.286
   },
   "Goals Over/Under Over 2.5": {
-   "n": 13,
+   "n": 15,
    "verdes": 7,
    "rojos": 4,
    "nulos": 0,
@@ -575,7 +575,7 @@
  },
  "equipo": {
   "—": {
-   "n": 78,
+   "n": 80,
    "verdes": 34,
    "rojos": 11,
    "nulos": 0,
@@ -910,7 +910,7 @@
    "prob_cuota": 26.789
   },
   "goles": {
-   "n": 32,
+   "n": 33,
    "verdes": 12,
    "rojos": 9,
    "nulos": 0,
@@ -919,7 +919,7 @@
    "prob_cuota": 15.056
   },
   "casa/fuera": {
-   "n": 24,
+   "n": 26,
    "verdes": 12,
    "rojos": 6,
    "nulos": 0,
@@ -964,7 +964,7 @@
    "prob_cuota": 4.117
   },
   "categoría": {
-   "n": 6,
+   "n": 7,
    "verdes": 3,
    "rojos": 3,
    "nulos": 0,
@@ -975,7 +975,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 53,
+   "n": 55,
    "verdes": 24,
    "rojos": 14,
    "nulos": 0,
@@ -1020,7 +1020,7 @@
  },
  "liga": {
   "?": {
-   "n": 60,
+   "n": 61,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -1038,7 +1038,7 @@
    "prob_cuota": 28.296
   },
   "UEFA Champions League Women": {
-   "n": 7,
+   "n": 8,
    "verdes": 1,
    "rojos": 5,
    "nulos": 0,
@@ -1067,7 +1067,7 @@
  },
  "lado": {
   "partido": {
-   "n": 66,
+   "n": 68,
    "verdes": 27,
    "rojos": 9,
    "nulos": 0,
@@ -1096,7 +1096,7 @@
  },
  "por_que": {
   "—": {
-   "n": 57,
+   "n": 59,
    "verdes": 22,
    "rojos": 13,
    "nulos": 0,
@@ -1170,7 +1170,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 130,
+   "n": 132,
    "verdes": 67,
    "rojos": 23,
    "nulos": 0,

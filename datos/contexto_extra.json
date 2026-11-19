@@ -14,7 +14,11 @@
    "dias_hasta": 27,
    "siguiente_europa": "Champions femenina"
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.2,
+   "temperatura": 4.1
+  },
   "cuotas": {
    "Away": [
     2.2,
@@ -41,7 +45,11 @@
    "puesto": 16,
    "de": 22
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.8,
+   "temperatura": 10.6
+  }
  },
  "1638338": {
   "local": {
@@ -58,7 +66,11 @@
    "dias_hasta": 27,
    "siguiente_europa": "Champions femenina"
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.5,
+   "temperatura": 14.7
+  },
   "cuotas": {
    "Home": [
     1.85,
@@ -105,7 +117,11 @@
    "dias_hasta": null,
    "siguiente_europa": null
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.4,
+   "viento_kmh": 8.9,
+   "temperatura": 13.7
+  }
  },
  "1551379": {
   "local": {
@@ -126,7 +142,11 @@
    "puesto": 8,
    "de": 12
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 10.1,
+   "temperatura": 0.2
+  },
   "arbitro": {
    "nombre": "M. Thomsen",
    "partidos": 8,
@@ -152,7 +172,11 @@
    "puesto": 7,
    "de": 12
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 8.6,
+   "temperatura": 0.0
+  }
  },
  "1551380": {
   "local": {
@@ -173,7 +197,11 @@
    "puesto": 6,
    "de": 12
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 9.7,
+   "temperatura": 0.8
+  }
  },
  "1608379": {
   "local": {
@@ -190,7 +218,11 @@
    "dias_hasta": 8,
    "siguiente_europa": null
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.3,
+   "temperatura": 6.4
+  }
  },
  "1575221": {
   "local": {
@@ -211,7 +243,11 @@
    "puesto": 14,
    "de": 18
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.1,
+   "viento_kmh": 19.2,
+   "temperatura": 7.6
+  }
  },
  "1552827": {
   "local": {
@@ -232,7 +268,11 @@
    "puesto": 18,
    "de": 18
   },
-  "tiempo": null,
+  "tiempo": {
+   "lluvia_mm": 0.6,
+   "viento_kmh": 20.6,
+   "temperatura": 11.1
+  },
   "arbitro": {
    "nombre": "Jeremie Pignard",
    "partidos": 4,
@@ -256,8 +296,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 25.6,
-   "temperatura": 10.2
+   "viento_kmh": 25.8,
+   "temperatura": 10.0
   }
  },
  "1638327": {
@@ -277,8 +317,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 16.8,
-   "temperatura": 13.0
+   "viento_kmh": 17.3,
+   "temperatura": 12.8
   },
   "cuotas": {
    "Home": [
@@ -304,8 +344,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.3,
-   "temperatura": 15.7
+   "viento_kmh": 7.1,
+   "temperatura": 15.6
   }
  },
  "1570454": {
@@ -329,8 +369,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.3,
-   "temperatura": 16.6
+   "viento_kmh": 10.0,
+   "temperatura": 16.2
   }
  },
  "1565306": {
@@ -354,8 +394,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.3,
-   "temperatura": 12.2
+   "viento_kmh": 12.0,
+   "temperatura": 12.5
   },
   "cuotas": {
    "Home": [

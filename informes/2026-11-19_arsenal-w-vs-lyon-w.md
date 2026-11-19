@@ -1,7 +1,7 @@
 # Arsenal W – Lyon W
 **Champions Femenina** · League Stage - 5 · 19/11/2026 21:00 (hora España) · Meadow Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 08:28._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 14:25._
 
 ## Cuotas Bet365
 _Actualizadas: 19/11 08:24_

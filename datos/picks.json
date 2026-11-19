@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19 08:34",
+ "generado": "2026-11-19 14:26",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -1709,32 +1709,6 @@
   "2026-11-22": {
    "picks": [
     {
-     "partido_id": 1570030,
-     "fecha": "2026-11-22T14:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cordoba",
-     "visitante": "Oviedo",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Cordoba",
-     "cuota": 1.85,
-     "frecuencia": 0.6,
-     "ventaja": 0.059,
-     "detalle": "Cordoba 6/10 · Oviedo 6/10",
-     "valor_mercado": -0.041,
-     "movimiento": -0.026,
-     "cuota_inicial": 1.9,
-     "posiciones": [
-      10,
-      9,
-      22
-     ],
-     "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.7
-    },
-    {
      "partido_id": 1550199,
      "fecha": "2026-11-22T15:00",
      "competicion": "Serie A",
@@ -1787,6 +1761,32 @@
      "prob_aprendida": 0.673
     },
     {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Cordoba",
+     "cuota": 1.91,
+     "frecuencia": 0.6,
+     "ventaja": 0.076,
+     "detalle": "Cordoba 6/10 · Oviedo 6/10",
+     "valor_mercado": -0.005,
+     "movimiento": 0.005,
+     "cuota_inicial": 1.9,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.65
+    },
+    {
      "partido_id": 1570031,
      "fecha": "2026-11-22T16:15",
      "competicion": "Segunda",
@@ -1809,30 +1809,6 @@
      ],
      "contexto": "mejor_igualado_medio",
      "prob_aprendida": 0.692
-    },
-    {
-     "partido_id": 1570030,
-     "fecha": "2026-11-22T14:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cordoba",
-     "visitante": "Oviedo",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Cordoba gana alguna de las dos partes",
-     "cuota": 1.5,
-     "frecuencia": 0.75,
-     "ventaja": 0.083,
-     "detalle": "Cordoba 8/10 · Oviedo 7/10",
-     "valor_mercado": 0.0,
-     "posiciones": [
-      10,
-      9,
-      22
-     ],
-     "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.68
     },
     {
      "partido_id": 1575224,
@@ -1949,7 +1925,7 @@
      "frecuencia": 0.778,
      "ventaja": 0.2,
      "detalle": "Cordoba (en contra) 7/9 · Oviedo 7/9",
-     "valor_mercado": 0.048,
+     "valor_mercado": 0.153,
      "posiciones": [
       10,
       9,
@@ -1960,32 +1936,6 @@
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1570030,
-     "fecha": "2026-11-22T14:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cordoba",
-     "visitante": "Oviedo",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Cordoba",
-     "cuota": 1.85,
-     "frecuencia": 0.6,
-     "ventaja": 0.059,
-     "detalle": "Cordoba 6/10 · Oviedo 6/10",
-     "valor_mercado": -0.041,
-     "movimiento": -0.026,
-     "cuota_inicial": 1.9,
-     "posiciones": [
-      10,
-      9,
-      22
-     ],
-     "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.7
-    },
     {
      "partido_id": 1550199,
      "fecha": "2026-11-22T15:00",
@@ -2037,6 +1987,32 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.673
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "Match Winner",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Gana el Cordoba",
+     "cuota": 1.91,
+     "frecuencia": 0.6,
+     "ventaja": 0.076,
+     "detalle": "Cordoba 6/10 · Oviedo 6/10",
+     "valor_mercado": -0.005,
+     "movimiento": 0.005,
+     "cuota_inicial": 1.9,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.65
     },
     {
      "partido_id": 1570031,
@@ -2169,32 +2145,6 @@
     "loca": {
      "picks": [
       {
-       "partido_id": 1570030,
-       "fecha": "2026-11-22T14:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Cordoba",
-       "visitante": "Oviedo",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Cordoba",
-       "cuota": 1.85,
-       "frecuencia": 0.6,
-       "ventaja": 0.059,
-       "detalle": "Cordoba 6/10 · Oviedo 6/10",
-       "valor_mercado": -0.041,
-       "movimiento": -0.026,
-       "cuota_inicial": 1.9,
-       "posiciones": [
-        10,
-        9,
-        22
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.7
-      },
-      {
        "partido_id": 1550199,
        "fecha": "2026-11-22T15:00",
        "competicion": "Serie A",
@@ -2295,9 +2245,33 @@
        ],
        "contexto": "total_lejos_abajo",
        "prob_aprendida": 0.61
+      },
+      {
+       "partido_id": 1570030,
+       "fecha": "2026-11-22T14:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Cordoba",
+       "visitante": "Oviedo",
+       "mercado": "Away Corners Over/Under",
+       "opcion": "Over 3.5",
+       "tipo": "corners",
+       "texto": "Oviedo hace más de 3,5 córners",
+       "cuota": 1.73,
+       "frecuencia": 0.778,
+       "ventaja": 0.2,
+       "detalle": "Cordoba (en contra) 7/9 · Oviedo 7/9",
+       "valor_mercado": 0.153,
+       "posiciones": [
+        10,
+        9,
+        22
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.418
       }
      ],
-     "cuota": 14.72
+     "cuota": 13.76
     },
     "doble": null
    },
@@ -2357,67 +2331,39 @@
        "prob_aprendida": 0.663
       },
       {
-       "partido_id": 1552232,
-       "fecha": "2026-11-22T12:15",
-       "competicion": "Eredivisie",
-       "liga_id": 88,
-       "local": "Twente",
-       "visitante": "Willem II",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Twente–Willem II",
-       "cuota": 2.0,
-       "frecuencia": 0.65,
-       "ventaja": 0.15,
-       "detalle": "Twente 6/10 · Willem II 7/10",
-       "valor_mercado": -0.029,
-       "movimiento": -0.024,
-       "cuota_inicial": 2.05,
-       "prob_xg": 0.549,
-       "xg_esperado": 3.57,
+       "partido_id": 1570030,
+       "fecha": "2026-11-22T14:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Cordoba",
+       "visitante": "Oviedo",
+       "mercado": "Match Winner",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Gana el Cordoba",
+       "cuota": 1.91,
+       "frecuencia": 0.6,
+       "ventaja": 0.076,
+       "detalle": "Cordoba 6/10 · Oviedo 6/10",
+       "valor_mercado": -0.005,
+       "movimiento": 0.005,
+       "cuota_inicial": 1.9,
        "posiciones": [
-        4,
-        18,
-        18
+        10,
+        9,
+        22
        ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.631
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.65
       }
      ],
-     "cuota": 6.48
+     "cuota": 6.19
     }
    },
    "combis_partido": []
   },
   "2026-11-23": {
    "picks": [
-    {
-     "partido_id": 1570029,
-     "fecha": "2026-11-23T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "AD Ceuta FC",
-     "visitante": "Almeria",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Almeria",
-     "cuota": 1.85,
-     "frecuencia": 0.75,
-     "ventaja": 0.209,
-     "detalle": "AD Ceuta FC 6/10 · Almeria 9/10",
-     "valor_mercado": -0.021,
-     "movimiento": 0.011,
-     "cuota_inicial": 1.83,
-     "posiciones": [
-      22,
-      1,
-      22
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.582
-    },
     {
      "partido_id": 1557469,
      "fecha": "2026-11-23T21:00",
@@ -2449,32 +2395,6 @@
     }
    ],
    "mejores_por_partido": [
-    {
-     "partido_id": 1570029,
-     "fecha": "2026-11-23T20:30",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "AD Ceuta FC",
-     "visitante": "Almeria",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el Almeria",
-     "cuota": 1.85,
-     "frecuencia": 0.75,
-     "ventaja": 0.209,
-     "detalle": "AD Ceuta FC 6/10 · Almeria 9/10",
-     "valor_mercado": -0.021,
-     "movimiento": 0.011,
-     "cuota_inicial": 1.83,
-     "posiciones": [
-      22,
-      1,
-      22
-     ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.582
-    },
     {
      "partido_id": 1557469,
      "fecha": "2026-11-23T21:00",
