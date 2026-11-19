@@ -8550,8 +8550,8 @@
       "1638338|Corners 1x2|Home"
     ],
     "cuotas": [
+      1.91,
       1.83,
-      1.73,
       1.62
     ],
     "solo_en": [
@@ -8563,7 +8563,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T17:30"
   },
   {
     "id": "2026-11-19-loca-th-1930-ganaambos",
