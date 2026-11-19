@@ -9531,8 +9531,8 @@
       "1638327|Away Player Shots|Kyra Carusa - 2"
     ],
     "cuotas": [
-      1.4,
-      1.4
+      1.36,
+      1.44
     ],
     "solo_en": [
       "threads"
@@ -9543,7 +9543,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-19T01:33"
   },
   {
     "id": "2026-11-19-loca-th-0400-x50",
