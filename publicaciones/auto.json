@@ -8168,7 +8168,7 @@
       "1638338|Double Chance|Draw/Away"
     ],
     "cuotas": [
-      2.2,
+      2.25,
       1.91,
       1.67
     ],
@@ -8181,7 +8181,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-19T04:44"
   },
   {
     "id": "2026-11-19-loca-th-0700-x500",
