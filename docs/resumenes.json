@@ -2746,14 +2746,14 @@
   },
   "2026-11-19": {
     "dia": "2026-11-19",
-    "total": 27,
+    "total": 28,
     "cuentas": {
       "verde": 3,
       "rojo": 14,
-      "pendiente": 4,
+      "pendiente": 5,
       "sin_datos": 6,
       "no_jugo": 0,
-      "sin_resolver": 10
+      "sin_resolver": 11
     },
     "combis": [
       {
@@ -2917,13 +2917,19 @@
         "titulo": "🧨 LA DE x24,52 🧨",
         "estado": "pendiente",
         "cuota": 24.52
+      },
+      {
+        "id": "2026-11-20-loca-th-noche-2330-escudos",
+        "titulo": "🚨 COMBI BAYERN MÜNCHEN – 1. FC KÖLN 🚨",
+        "estado": "pendiente",
+        "cuota": 20.87
       }
     ],
     "picks": {
       "verde": 19,
       "rojo": 18,
-      "total": 84
+      "total": 88
     },
-    "texto": "📊 BALANCE DEL JUEVES: 3 DE 17 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS FEMENINA - GANADORES\n❌ 💯 LA CENTENARIA x10,85 💯 · 10,85\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · faltan datos\n❌ 🤑 COMBI x24,20 🤑 · 24,20\n❌ ⏰ TODO A LAS 21:00 ⏰ · 2,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 7,02\n❌ 🤪 LA LOCURA DE x91,37 🤪 · 91,37\n❔ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 1,95 · faltan datos\n✅ 🪜 Reto escalera · Día 3/7\n❔ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · faltan datos\n❌ 🤑💸 LA LOCURA DE x156 🤑💸\n❔ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 3,70 · faltan datos\n❔ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · faltan datos\n✅ Os dejo otro pick que pinta muy bien 👀\n❔ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · faltan datos\n❌ 🤑 COMBI POR 12,83 🤑 · 12,83\n❌ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 10,79\n❌ Vamos con el pick de hoy familia 🔥\n✅ Vamos con el pick de la tarde 👇\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 48,75\n❌ Combi de la noche de Champions femenina 🔥\n⏳ 🎰 LA CENTENARIA x28,93 🎰 · 28,93 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,06 · pendiente\n⏳ 🧨 LA DE x24,52 🧨 · 24,52 · pendiente\n\n✅ 3 acertadas · ❌ 14 falladas · ⏳ 10 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 3 DE 17 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS FEMENINA - GANADORES\n❌ 💯 LA CENTENARIA x10,85 💯 · 10,85\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · faltan datos\n❌ 🤑 COMBI x24,20 🤑 · 24,20\n❌ ⏰ TODO A LAS 21:00 ⏰ · 2,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 7,02\n❌ 🤪 LA LOCURA DE x91,37 🤪 · 91,37\n❔ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 1,95 · faltan datos\n✅ 🪜 Reto escalera · Día 3/7\n❔ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · faltan datos\n❌ 🤑💸 LA LOCURA DE x156 🤑💸\n❔ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 3,70 · faltan datos\n❔ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · faltan datos\n✅ Os dejo otro pick que pinta muy bien 👀\n❔ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · faltan datos\n❌ 🤑 COMBI POR 12,83 🤑 · 12,83\n❌ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 10,79\n❌ Vamos con el pick de hoy familia 🔥\n✅ Vamos con el pick de la tarde 👇\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 48,75\n❌ Combi de la noche de Champions femenina 🔥\n⏳ 🎰 LA CENTENARIA x28,93 🎰 · 28,93 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,06 · pendiente\n⏳ 🧨 LA DE x24,52 🧨 · 24,52 · pendiente\n⏳ 🚨 COMBI BAYERN MÜNCHEN – 1. FC KÖLN 🚨 · 20,87 · pendiente\n\n✅ 3 acertadas · ❌ 14 falladas · ⏳ 11 sin resolver"
   }
 }
