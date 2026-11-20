@@ -8901,7 +8901,7 @@
    {
     "equipo": 42,
     "jugador": "M. Zubimendi",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    }
   ],
@@ -9445,7 +9445,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-20T22:29:22.984919+01:00",
+ "ultima": "2026-11-20T23:02:27.523170+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-noche-2330-escudos|Emre Mor"
