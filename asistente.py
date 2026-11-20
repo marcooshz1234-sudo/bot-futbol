@@ -777,6 +777,20 @@ class Asistente:
         import redes
         b, self.boleto = self.boleto, None
         self.enviar("⏳ Subiendo…")
+        # 20/11 (Marcos): si es una de las combis de un partido por pata que le propuso el bot (combis_semana.py),
+        # va con el dato de cada pata, también a X, y a Telegram solo 1 al día
+        semana, a_tg = None, True
+        try:
+            import combis_semana as CS
+            semana = CS.casa_con([p.get("sel") for p in b.get("patas") or []],
+                                 textos=[p.get("texto") or "" for p in b.get("patas") or []] + [b.get("leido") or ""])
+            if semana:
+                b["texto"] = CS.texto_post(semana)
+                hoy_ = datetime.now(MADRID).strftime("%Y-%m-%d")
+                a_tg = not any(x.get("semana") and x.get("mensaje_id") and str(x.get("fecha", "")).startswith(hoy_)
+                               for x in leer(PROPIOS, []))
+        except Exception as e:
+            print("combis semana:", e)
         media = RAIZ / "publicaciones" / "media"
         media.mkdir(parents=True, exist_ok=True)
         tarjeta = media / f"{b['id']}.tarjeta.jpg"
@@ -784,6 +798,8 @@ class Asistente:
         subido = guardar_archivos([b["foto"], tarjeta], f"boleto {b['id']}")
         res, mid, th = [], None, None
         try:
+            if not a_tg:
+                raise RuntimeError("hoy ya salió una combi de estas en Telegram (máx. 1 al día)")
             r = api(self.t, "sendPhoto", {"chat_id": self.canal, "caption": preparar_texto(b["texto"])[:1024]},
                     archivo=b["foto"])
             mid = r["result"]["message_id"]
@@ -811,7 +827,7 @@ class Asistente:
                         "sel": [p["sel"] or f"0|?|{p['texto']}" for p in patas], "cuotas": [None] * len(patas),
                         "textos": [p.get("texto_app") or p["texto"] for p in patas], "partidos": [p["partido"] for p in patas],
                         "enviado": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M"), "mensaje_id": mid,
-                        "redes": {"threads": th}})
+                        "redes": {"threads": th}, **({"semana": True, "x": True} if semana else {})})
         escribir(PROPIOS, propios[-100:])
         guardar_archivos([PROPIOS], f"publicado {b['id']}")
         return self.enviar("\n".join(res))

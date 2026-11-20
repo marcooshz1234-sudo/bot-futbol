@@ -136,6 +136,21 @@ def main():
                 if k not in hecho:
                     avisos.append((k, f"🚨 INFO TOP en {canal_} ({m.get('fecha', '')[11:16]})\n\n{t[:3000]}\n\n"
                                       "👉 Si te gusta, reenvíasela a Claude y la sube al momento."))
+    # 20/11 (Marcos): combis de un partido por pata (~@1,50) con el dato del jugador, con días de antelación
+    # (viernes: el finde; martes: entre semana). Él las monta, manda la captura y se suben (combis_semana.py)
+    try:
+        import combis_semana as CS
+        rango = CS.de_hoy(ahora)
+        k = f"combis-semana-{ahora:%Y-%m-%d}"
+        if rango and ahora.hour >= 10 and k not in hecho:
+            cs = CS.generar(*rango)
+            CS.SALIDA.write_text(json.dumps({"dia": ahora.strftime("%Y-%m-%d"), "rango": list(rango), "combis": cs},
+                                            ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            for i, c in enumerate(cs, 1):
+                avisos.append((f"{k}-{i}", CS.texto_aviso(c, i, len(cs))))
+            hecho.add(k)
+    except Exception as e:
+        print("combis semana:", e)
     # avisos sueltos que dejo yo a mano (p. ej. una prueba): datos/avisos_manuales.json = [{"k", "texto"}]
     for x in leer(DATOS / "avisos_manuales.json", []) or []:
         if x["k"] not in hecho:

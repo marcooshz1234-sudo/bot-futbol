@@ -208,3 +208,4 @@
 - 15/11 (Marcos: «el escudo arriba»): en Threads la foto sale debajo del texto, así que los picks sueltos van con texto corto (solo el pick) y el porqué en el primer comentario («porque_threads»).
 
 - 20/11 X: formatos de x_extra.py ACTIVOS (control `x_extra: true`): «🗓️ PARA MAÑANA» en las combis de la noche, escalera presumida, enlace de Telegram siempre en el 2.º post (nunca en el principal) y un directo de la escalera al día (min. 60–80).
+- 20/11 (Marcos): combis de un partido por pata (~@1,50 cada pata) con el dato del jugador siendo titular, preparadas con días de antelación (viernes el finde, martes entre semana) porque las cuotas bajan. Marcos las monta y manda la captura; se suben a Threads, X y Telegram (Telegram, 1 al día como mucho). Sin «recibirá falta» (sin cuota en la API).

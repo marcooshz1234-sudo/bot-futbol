@@ -107,7 +107,7 @@ def candidatos(posts, estado, control, ahora):
             continue
         if not (desde <= (p.get("fecha") or "") <= ya):
             continue
-        if modo != "todo" and not fuerte(p["id"]):
+        if modo != "todo" and not (fuerte(p["id"]) or p.get("x")):
             continue
         out.append(p)
     verdes = [p for p in out if "-verde-" in p["id"]]
@@ -201,7 +201,9 @@ def main(ahora=None):
         print("x_buffer: conectado a Buffer, canal de X", canal if canal else "NO encontrado")
         if not canal:
             return 1
-    lista = candidatos(publicaciones(RAIZ), estado, control, ahora)
+    # 20/11: las combis de un partido por pata que sube Marcos desde el móvil (asistente.json con "x") también van a X
+    propios = [p for p in leer(RAIZ / "publicaciones" / "asistente.json", []) or [] if p.get("x")]
+    lista = candidatos(publicaciones(RAIZ) + propios, estado, control, ahora)
     canal = estado["canal"]
     import x_extra
     if x_extra.activo(control):   # 20/11: directo de la escalera (un post al día, min. 60–80)
