@@ -9364,18 +9364,6 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 492,
-    "jugador": "C. Favasuli",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 492,
-    "jugador": "L. Spinazzola",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
-   },
-   {
     "equipo": 503,
     "jugador": "F. Israel",
     "tipo": "Missing Fixture",
@@ -9493,7 +9481,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-20T21:23:17.800966+01:00",
+ "ultima": "2026-11-20T21:58:01.997386+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-noche-2330-escudos|Emre Mor"
