@@ -177,6 +177,13 @@
    "unidades": 1.65,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.377
+  },
+  "ApuestasCobrich - Canal Gratuito": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "mercado": {
@@ -190,7 +197,7 @@
    "prob_cuota": 10.286
   },
   "Goals Over/Under Over 2.5": {
-   "n": 15,
+   "n": 16,
    "verdes": 8,
    "rojos": 5,
    "nulos": 0,
@@ -582,7 +589,7 @@
  },
  "equipo": {
   "—": {
-   "n": 82,
+   "n": 83,
    "verdes": 36,
    "rojos": 12,
    "nulos": 0,
@@ -915,7 +922,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 82,
+   "n": 83,
    "verdes": 48,
    "rojos": 10,
    "nulos": 0,
@@ -989,7 +996,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 57,
+   "n": 58,
    "verdes": 26,
    "rojos": 15,
    "nulos": 0,
@@ -1084,11 +1091,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Bundesliga": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "lado": {
   "partido": {
-   "n": 70,
+   "n": 71,
    "verdes": 29,
    "rojos": 10,
    "nulos": 0,
@@ -1117,7 +1131,7 @@
  },
  "por_que": {
   "—": {
-   "n": 62,
+   "n": 63,
    "verdes": 24,
    "rojos": 14,
    "nulos": 0,
@@ -1191,7 +1205,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 135,
+   "n": 136,
    "verdes": 69,
    "rojos": 24,
    "nulos": 0,

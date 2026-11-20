@@ -3675,5 +3675,25 @@
    "cuota_bet365": 11.0,
    "prob_cuota": 0.877
   }
+ },
+ {
+  "tipster": "ApuestasCobrich - Canal Gratuito",
+  "fuente": "-1001233274610/196245",
+  "dia": "2026-11-20",
+  "local": "Bayern München",
+  "visitante": "1. FC Köln",
+  "partido_id": 1575221,
+  "texto": "Más de 2,5 goles en Bayern München–1. FC Köln",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.61,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Bundesliga",
+   "cuota_bet365": 1.14,
+   "prob_cuota": 0.621
+  }
  }
 ]
