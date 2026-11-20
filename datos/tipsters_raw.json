@@ -9810,13 +9810,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16293",
-   "fecha": "2026-11-11T21:47",
-   "texto": "MONEDAS CUOTA 5.50 NBA 🐦\n\nhttps://x.com/pabloanalista5/status/2120618842674069848?a=bkdcfPU_GlcnV9Pzb4Y&s=46",
-   "foto": false,
-   "visto": "2026-11-11T23:41"
-  },
-  {
    "id": "-1001393609245/16295",
    "fecha": "2026-11-12T00:38",
    "texto": "YA EN DIRECTO EN TWITCH 🎮\n\nhttps://www.twitch.tv/pabloanalista",
@@ -11292,6 +11285,13 @@
    "foto": true,
    "visto": "2026-11-20T01:36",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16495.jpg"
+  },
+  {
+   "id": "-1001393609245/16497",
+   "fecha": "2026-11-20T01:37",
+   "texto": "ÚLTIMAS EDICIONES 111/120 ✅\n\n13/13 EN NOVIEMBRE ✅",
+   "foto": false,
+   "visto": "2026-11-20T01:46"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
