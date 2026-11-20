@@ -9448,7 +9448,7 @@
       "1551377|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4,
+      1.44,
       1.5,
       2.0
     ],
@@ -9469,7 +9469,8 @@
     "cuota_bet365": 3.57,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T13:32"
   },
   {
     "id": "2026-11-20-loca-th-1600-escudos",
