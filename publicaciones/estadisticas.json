@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 14:43",
+ "actualizado": "2026-11-20 14:53",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3244,
-   "hoy": 14,
+   "seguidores": 3245,
+   "hoy": 15,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3244
+    3245
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3787,
- "total_hoy": 19,
+ "total": 3788,
+ "total_hoy": 20,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:50",
+  "hora": "15:00",
   "dia": "2026-11-20",
-  "titulo": "Reto escalera · día 4/7"
+  "titulo": "Combi aarhus fremad – hobro"
  },
  "ayer": null,
  "escalera": {
@@ -237,7 +237,7 @@
   },
   "2026-11-20": {
    "instagram": 52,
-   "threads": 3244,
+   "threads": 3245,
    "facebook": 1,
    "telegram": 490
   }

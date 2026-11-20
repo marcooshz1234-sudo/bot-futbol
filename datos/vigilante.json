@@ -1,12 +1,6 @@
 {
  "informe": "2026-11-20",
  "vistos": {
-  "directo-2026-11-17-pick-tip-2": "2026-11-17T14:53",
-  "prohibido-2026-11-17-pick-tip-2": "2026-11-17T14:53",
-  "cuotas-2026-11-17-pick-tip-2": "2026-11-17T14:53",
-  "directo-2026-11-17-pick-claude-2": "2026-11-17T14:53",
-  "repe-2026-11-17-1528993|Both Teams Score|Yes": "2026-11-17T14:53",
-  "repe-2026-11-17-1528996|Both Teams Score|Yes": "2026-11-17T14:53",
   "cuotamov-2026-11-18-loca-th-noche-2300-x500-1638312|Double Chance|Draw/Away": "2026-11-17T20:27",
   "foto-2026-11-17-verde-auto-2026-11-17-escalera": "2026-11-17T21:27",
   "foto-2026-11-17-verde-auto-2026-11-17-pick-seguro": "2026-11-17T22:40",
@@ -107,7 +101,8 @@
   "prensa-1570461-DMaldini": "2026-11-20T13:31",
   "redes-2026-11-20-combi-tres-threads-instagram": "2026-11-20T13:52",
   "prensa-1570462-d1f6831e": "2026-11-20T14:33",
-  "repe-2026-11-20-1570025|Total - Home|Over 1.5": "2026-11-20T14:44"
+  "repe-2026-11-20-1570025|Total - Home|Over 1.5": "2026-11-20T14:44",
+  "redes-2026-11-20-combi-multi-threads-instagram": "2026-11-20T14:54"
  },
  "abiertos": [
   {
@@ -117,6 +112,10 @@
   {
    "clave": "directo-2026-11-20-combi-noche",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche 🔥 (20:00)"
+  },
+  {
+   "clave": "redes-2026-11-20-combi-multi-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (14:30): 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,30! 🍀"
   },
   {
    "clave": "repe-2026-11-20-1575221|Win Both Halves|Home",
@@ -131,32 +130,28 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (escalera-b, pick-seguro, escalera)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2330-escudos, estrella-1575221)"
+   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 5 posts (pick-tip-1446, pick-tip-1446-e, loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1551380|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
+   "t": "🔁 20/11: el mismo pronóstico en 5 posts (pick-tip-1448, pick-tip-1448-e, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2330-escudos, estrella-1575221)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
@@ -175,20 +170,24 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1570025|Home Player Shots|Lautaro de Leon - 3",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
+   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|Away Player Shots|Alex Millan - 2",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
+   "clave": "repe-2026-11-20-1570025|Home Player Shots|Lautaro de Leon - 3",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
+  },
+  {
+   "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1",
@@ -223,8 +222,13 @@
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-20T14:44",
+ "revisado": "2026-11-20T14:54",
  "historial": [
+  {
+   "hora": "2026-11-20T14:54",
+   "t": "⏰ No ha salido en threads ni instagram (14:30): 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,30! 🍀",
+   "k": "redes-2026-11-20-combi-multi-threads-instagram"
+  },
   {
    "hora": "2026-11-20T14:44",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (escalera-b, pick-seguro, escalera)",
@@ -519,11 +523,6 @@
    "hora": "2026-11-19T12:24",
    "t": "📉 Barcelona (fem.)–Servette Chênois (fem.) Home/Yes: la cuota ha pasado de 4.00 a 6.00 (+50%) desde que se hizo «⚽🏆 GANA Y AMBOS MARCAN ⚽🏆» (19:30). Suele haber una noticia detrás",
    "k": "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes"
-  },
-  {
-   "hora": "2026-11-19T09:12",
-   "t": "🪫 No saldrá (cuota 1.33 por debajo de 1.35): Vamos con otro pick 🍀 (10:30)",
-   "k": "cuotabaja-2026-11-19-pick-seguro"
   }
  ]
 }
