@@ -1,10 +1,10 @@
 # Bournemouth – Nottingham Forest
 **Premier League** · Regular Season - 11 · 21/11/2026 16:00 (hora España) · Vitality Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **1.91**  ·  X **3.60**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.28**  ·  X2 **1.83**

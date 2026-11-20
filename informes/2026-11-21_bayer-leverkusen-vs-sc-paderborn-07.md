@@ -1,10 +1,10 @@
 # Bayer Leverkusen – SC Paderborn 07
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · BayArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **1.28**  ·  X **6.50**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.11**  ·  X2 **3.50**

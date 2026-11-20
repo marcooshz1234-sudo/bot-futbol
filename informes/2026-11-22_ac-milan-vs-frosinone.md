@@ -1,10 +1,10 @@
 # AC Milan – Frosinone
 **Serie A** · Regular Season - 12 · 22/11/2026 18:00 (hora España) · San Siro/Giuseppe Meazza
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:27_
 
 - **1X2:** 1 **1.53**  ·  X **4.50**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.18**  ·  X2 **2.38**
@@ -32,7 +32,7 @@ _Actualizadas: 20/11 02:15_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.92** · menos **1.88**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.10**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**

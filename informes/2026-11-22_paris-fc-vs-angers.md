@@ -1,10 +1,10 @@
 # Paris FC – Angers
 **Ligue 1** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · Stade Jean-Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:14_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.25**
@@ -34,7 +34,7 @@ _Actualizadas: 20/11 02:14_
 - **Córners 1X2:** 1 **1.28**  ·  X **9.50**  ·  2 **4.33**
 - **Tarjetas más/menos:**
     - 2,5: más **1.62** · menos **2.20**
-    - 3,5: más **2.00** · menos **1.73**
+    - 3,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.62**  ·  2 **8.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**

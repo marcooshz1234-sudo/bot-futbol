@@ -1,10 +1,10 @@
 # Eibar W – Atletico Madrid W
 **Liga F** · Regular Season - 12 · 21/11/2026 17:00 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **8.00**  ·  X **4.50**  ·  2 **1.30**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.12**  ·  X2 **1.05**

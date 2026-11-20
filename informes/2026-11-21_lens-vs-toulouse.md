@@ -1,10 +1,10 @@
 # Lens – Toulouse
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade Bollaert-Delelis
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:14_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **1.85**  ·  X **3.90**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.91**
@@ -29,7 +29,7 @@ _Actualizadas: 20/11 02:14_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.53**  ·  X **8.50**  ·  2 **2.88**
 - **Tarjetas más/menos:**
     - 4,5: más **1.73** · menos **2.00**
@@ -126,7 +126,7 @@ _Actualizadas: 20/11 02:14_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Lens:** A. Bulatovic (baja, Neck Injury); O. Edouard (baja, Groin Injury); M. Nawrocki (baja, Knee Injury); A. Sima (duda, Muscle Injury)
+**Lens:** A. Bulatovic (baja, Neck Injury); O. Edouard (baja, Groin Injury); M. Nawrocki (baja, Knee Injury)
 **Toulouse:** R. Messali (baja, Thigh Injury); T. Jorgensen (duda, Injury)
 
 ## Enfrentamientos directos recientes

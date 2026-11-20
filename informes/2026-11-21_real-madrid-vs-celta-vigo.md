@@ -1,10 +1,10 @@
 # Real Madrid – Celta Vigo
 **LaLiga** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Santiago Bernabéu Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:14_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **1.17**  ·  X **8.00**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.08**  ·  X2 **5.00**
@@ -31,7 +31,7 @@ _Actualizadas: 20/11 02:14_
     - 0,5: más **1.91** · menos **1.80**
     - 1,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 9,5: más **1.85** · menos **1.95**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **1.14**  ·  X **12.00**  ·  2 **6.50**
 - **1X2 descanso:** 1 **1.50**  ·  X **3.20**  ·  2 **11.00**
 - **Goals Over/Under - Second Half:**

@@ -1,10 +1,10 @@
 # CSKA Sofia – Trabzonspor
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Stadion Balgarska Armia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:28_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **3.80**  ·  X **3.60**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.91**  ·  12 **1.28**  ·  X2 **1.25**

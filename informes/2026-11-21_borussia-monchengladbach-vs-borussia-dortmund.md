@@ -1,10 +1,10 @@
 # Borussia Mönchengladbach – Borussia Dortmund
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Borussia-Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **5.25**  ·  X **4.33**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.20**  ·  X2 **1.17**
@@ -33,7 +33,7 @@ _Actualizadas: 20/11 02:13_
     - 4,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **3.10**  ·  X **8.50**  ·  2 **1.50**
 - **Tarjetas más/menos:**
     - 3,5: más **1.73** · menos **2.00**

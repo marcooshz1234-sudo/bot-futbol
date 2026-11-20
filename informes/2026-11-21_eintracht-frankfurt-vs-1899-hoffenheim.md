@@ -1,10 +1,10 @@
 # Eintracht Frankfurt – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **2.30**  ·  X **4.00**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.22**  ·  X2 **1.57**
@@ -56,6 +56,10 @@ _Actualizadas: 20/11 02:13_
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Home Team Total Cards:**
+    - 1,5: más **1.62** · menos **2.20**
+- **Away Team Total Cards:**
+    - 2,5: más **2.38** · menos **1.53**
 - **Total ShotOnGoal:**
     - 9,5: más **1.73** · menos **2.00**
 - **ShotOnTarget 1x2:** 1 **1.80**  ·  X **7.50**  ·  2 **2.38**

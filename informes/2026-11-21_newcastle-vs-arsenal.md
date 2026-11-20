@@ -1,10 +1,10 @@
 # Newcastle – Arsenal
 **Premier League** · Regular Season - 11 · 21/11/2026 18:30 (hora España) · St James' Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:14_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **5.75**  ·  X **4.20**  ·  2 **1.57**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.14**
@@ -23,7 +23,7 @@ _Actualizadas: 20/11 02:14_
 - **Goles del local:**
     - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **13.00** · menos **1.04**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.11** · menos **6.50**
     - 1,5: más **1.57** · menos **2.25**

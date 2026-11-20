@@ -1,10 +1,10 @@
 # Lorient – Rennes
 **Ligue 1** · Regular Season - 11 · 22/11/2026 17:15 (hora España) · Stade du Moustoir
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:27_
 
 - **1X2:** 1 **2.80**  ·  X **3.50**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.40**
@@ -59,6 +59,7 @@ _Actualizadas: 20/11 02:15_
     - 8,5: más **1.67** · menos **2.10**
 - **ShotOnTarget 1x2:** 1 **2.00**  ·  X **7.00**  ·  2 **2.10**
 - **Total Shots:**
+    - 27,5: más **1.83** · menos **1.83**
     - 28,5: más **1.91** · menos **1.80**
 - **Shots.1x2:** 1 **2.05**  ·  X **15.00**  ·  2 **1.80**
 - **Away Player Shots On Target Total:** Goncalo Oliveira **21.00**  ·  Mahdi Camara **29.00**  ·  Isak Jensen **11.00**  ·  Noah Cadiou **21.00**  ·  Sebastian Szymanski **17.00**  ·  Przemyslaw Frankowski **51.00**  ·  Abdelhamid Ait Boudlal **19.00**  ·  Charlie Cresswell **11.00**  ·  Nathaniel Adjei **21.00**  ·  Arthur Avom **23.00**  ·  Panos Katseris **23.00**  ·  Tosin Aiyegun **11.00**  ·  Jean-Victor Makengo **19.00**  ·  Souleymane Faye **21.00**  ·  Eliezer Mayenda **15.00**  ·  Issa Soumare **9.50**  ·  Quentin Merlin **15.00**  ·  Valentin Rongier **29.00**  ·  Arnaud Nordin **23.00**  ·  Adrien Thomasson **26.00**  ·  Ludovic Blas **26.00**  ·  Djaoui Cisse **26.00**  ·  Mahamadou Nagida **21.00**  ·  Esteban Lepaul **9.50**  ·  Bryan Reynolds **21.00**  ·  Dembo Sylla **26.00**  ·  Nosa Obaretin **13.00**  ·  Elias Legendre **21.00**  ·  Enzo Genton **17.00**  ·  Mohamed Bamba **10.00**  ·  Anthony Rouault **19.00**  ·  Montassar Talbi **19.00**  ·  Boulaye Dia **13.00**  ·  Souleymane Toure **13.00**  ·  Alec Georgen **26.00**  ·  Henrick Do Marcolino **15.00**  ·  Gabin Bernardeau **29.00**  ·  Mousa Tamari **10.00**  ·  Theo Le Bris **23.00**

@@ -1,10 +1,10 @@
 # Lincoln – Wrexham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Sincil Bank
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **2.75**  ·  X **3.25**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**
@@ -28,7 +28,7 @@ _Actualizadas: 20/11 02:13_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **2.10**  ·  X **8.00**  ·  2 **1.95**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**

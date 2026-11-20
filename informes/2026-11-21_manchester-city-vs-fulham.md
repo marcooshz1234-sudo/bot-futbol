@@ -1,12 +1,12 @@
 # Manchester City – Fulham
 **Premier League** · Regular Season - 11 · 21/11/2026 13:30 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
-- **1X2:** 1 **1.40**  ·  X **5.25**  ·  2 **7.00**
+- **1X2:** 1 **1.38**  ·  X **5.25**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.70**  ·  No **2.05**
 - **Goles más/menos:**
@@ -54,7 +54,7 @@ _Actualizadas: 20/11 02:13_
     - 6,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
     - 3,5: más **1.91** · menos **1.80**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.30**  ·  Menos de 5 **2.10**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.98**  ·  Menos de 5 **1.82**
 - **Home Team Total Cards:**
     - 0,5: más **1.44** · menos **2.62**
     - 1,5: más **2.62** · menos **1.44**

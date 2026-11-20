@@ -1,10 +1,10 @@
 # Plzen – Benfica
 **Europa League** · League Stage - 5 · 26/11/2026 18:45 (hora España) · Doosan Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **5.00**  ·  X **4.50**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.18**  ·  X2 **1.17**

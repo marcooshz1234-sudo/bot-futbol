@@ -1,10 +1,10 @@
 # Sabadell – Granada CF
 **Segunda División** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nova Creu Alta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **2.50**  ·  X **3.20**  ·  2 **2.90**
 - **Doble oportunidad:** 1X **1.40**  ·  12 **1.36**  ·  X2 **1.50**

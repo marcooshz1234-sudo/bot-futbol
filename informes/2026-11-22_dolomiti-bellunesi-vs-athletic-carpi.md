@@ -1,12 +1,12 @@
 # Dolomiti Bellunesi – Athletic Carpi
 **Serie C** · Girone A - 15 · 22/11/2026 17:30 (hora España) · Zugni Tauro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:27_
 
-- **1X2:** 1 **2.62**  ·  X **3.10**  ·  2 **2.45**
+- **1X2:** 1 **3.00**  ·  X **3.10**  ·  2 **2.20**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
@@ -30,7 +30,7 @@ _Actualizadas: 20/11 02:15_
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.02** · menos **1.78**
-- **1X2 descanso:** 1 **3.25**  ·  X **2.10**  ·  2 **3.10**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.10**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.20** · menos **1.62**
@@ -38,11 +38,11 @@ _Actualizadas: 20/11 02:15_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
-- **To Win Either Half:** 1 **1.83**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **4.00**
-- **Win Both Halves:** 1 **10.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.50**  ·  Draw/No **9.00**  ·  Away/No **4.33**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.25**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **3.75**
+- **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.50**  ·  Draw/No **9.00**  ·  Away/No **3.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
 
 ## Estadísticas de equipo

@@ -1,10 +1,10 @@
 # Kauno Žalgiris – Riga
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **3.10**  ·  X **3.50**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.67**  ·  12 **1.25**  ·  X2 **1.33**
@@ -20,9 +20,9 @@ _Actualizadas: 19/11 08:27_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
-    - 0,5: más **1.36** · menos **3.00**
+    - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **2.75** · menos **1.40**
-    - 2,5: más **7.00** · menos **1.10**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**

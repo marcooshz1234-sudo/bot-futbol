@@ -1,10 +1,10 @@
 # Como – Cagliari
 **Serie A** · Regular Season - 12 · 21/11/2026 15:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **1.27**  ·  X **6.00**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **3.75**
@@ -30,8 +30,8 @@ _Actualizadas: 20/11 02:13_
     - 0,5: más **1.73** · menos **2.00**
     - 1,5: más **5.00** · menos **1.17**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
-- **Córners 1X2:** 1 **1.22**  ·  X **10.00**  ·  2 **5.00**
+    - 9,5: más **1.85** · menos **1.95**
+- **Córners 1X2:** 1 **1.17**  ·  X **11.00**  ·  2 **6.00**
 - **Tarjetas más/menos:**
     - 2,5: más **1.62** · menos **2.20**
     - 3,5: más **1.91** · menos **1.80**
@@ -49,9 +49,9 @@ _Actualizadas: 20/11 02:13_
 - **Results/Both Teams Score:** Home/Yes **2.75**  ·  Draw/Yes **7.00**  ·  Away/Yes **15.00**  ·  Home/No **2.10**  ·  Draw/No **19.00**  ·  Away/No **17.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **4.00**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **3.00**
 - **Home Corners Over/Under:**
-    - 6,5: más **1.91** · menos **1.80**
+    - 6,5: más **1.80** · menos **1.91**
 - **Away Corners Over/Under:**
-    - 2,5: más **1.62** · menos **2.20**
+    - 2,5: más **1.80** · menos **1.91**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**  ·  Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.88**  ·  Menos de 4.5 **1.92**
 - **Home Team Total Cards:**
     - 0,5: más **1.50** · menos **2.50**

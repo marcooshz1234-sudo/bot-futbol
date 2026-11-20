@@ -1,10 +1,10 @@
 # Egnatia Rrogozhinë – Lincoln Red Imps FC
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Arena Kombetare
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **1.57**  ·  X **4.00**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.20**  ·  X2 **2.20**
@@ -22,11 +22,11 @@ _Actualizadas: 19/11 08:27_
 - **Goles del local:**
     - 0,5: más **1.12** · menos **6.00**
     - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **11.00** · menos **1.05**
 - **1X2 descanso:** 1 **2.10**  ·  X **2.40**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**

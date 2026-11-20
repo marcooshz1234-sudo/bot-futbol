@@ -1,13 +1,14 @@
 # Picks del Analista
 
-_Generado el 2026-11-20 02:23 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
+_Generado el 2026-11-20 08:35 (hora España). Cuotas de Bet365. Criterio: cuota ≥ 1.25, cumplido en ≥ 75% de los últimos 10 partidos de los dos equipos (≥ 70% en cada uno) y por encima de lo que dice la cuota. Jugadores: titulares fijos, ≥ 75% en sus últimos partidos._
 
 ## Viernes 20/11
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
+| 20:30 | Ambos marcan en Bayern München–1. FC Köln | goles | 1.75 | 75% | Bayern München 8/10 · 1. FC Köln 7/10 |
 | 19:00 | Kolding IF o empate | resultado | 1.50 | 80% | Kolding IF 7/10 · Aalborg 9/10 |
-| 20:30 | Ambos marcan en Bayern München–1. FC Köln | goles | 1.80 | 75% | Bayern München 8/10 · 1. FC Köln 7/10 |
+| 20:30 | 1. FC Köln marca | goles | 1.73 | 80% | Bayern München (en contra) 8/10 · 1. FC Köln 8/10 |
 | 20:30 | 1. FC Köln hace más de 2,5 córners | corners | 1.73 | 80% | Bayern München (en contra) 7/10 · 1. FC Köln 9/10 |
 
 ## Sábado 21/11
@@ -34,16 +35,17 @@ _Generado el 2026-11-20 02:23 (hora España). Cuotas de Bet365. Criterio: cuota 
 
 ## Domingo 22/11
 
-**🤪 Combi loca · cuota 14,93**
+**🤪 Combi loca · cuota 13,83**
 - Gana el Liverpool (1,70) · Liverpool 6/10 · Manchester United 7/10
+- Juventus ve más de 0,5 tarjetas (1,50) · Juventus 8/10 · Venezia (en contra) 8/10
 - Gana el Cordoba (1,91) · Cordoba 6/10 · Oviedo 6/10
 - AC Milan ve más de 1,5 tarjetas (1,67) · AC Milan 7/10 · Frosinone (en contra) 8/10
 - Ambos marcan en Ajax–ADO Den Haag (1,70) · Ajax 8/10 · ADO Den Haag 8/10
-- Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 (1,62) · FC Augsburg 10/10 · FSV Mainz 05 8/10
 
 | Hora | Pick | Tipo | Cuota | Se cumplió | Detalle |
 |---|---|---|---|---|---|
 | 17:30 | Gana el Liverpool | resultado | 1.70 | 65% | Liverpool 6/10 · Manchester United 7/10 |
+| 12:30 | Juventus ve más de 0,5 tarjetas | tarjetas | 1.50 | 80% | Juventus 8/10 · Venezia (en contra) 8/10 |
 | 14:00 | Gana el Cordoba | resultado | 1.91 | 60% | Cordoba 6/10 · Oviedo 6/10 |
 | 18:00 | AC Milan ve más de 1,5 tarjetas | tarjetas | 1.67 | 75% | AC Milan 7/10 · Frosinone (en contra) 8/10 |
 | 15:00 | Gana el Bologna | resultado | 1.70 | 65% | Bologna 5/10 · Udinese 8/10 |

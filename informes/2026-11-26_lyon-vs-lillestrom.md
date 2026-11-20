@@ -1,10 +1,10 @@
 # Lyon – Lillestrom
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Parc Olympique Lyonnais
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **1.17**  ·  X **7.00**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.08**  ·  X2 **4.50**
@@ -12,10 +12,10 @@ _Actualizadas: 19/11 08:27_
 - **Goles más/menos:**
     - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.36** · menos **3.20**
-    - 3,5: más **2.00** · menos **1.80**
+    - 3,5: más **1.91** · menos **1.91**
     - 4,5: más **3.20** · menos **1.36**
     - 5,5: más **5.50** · menos **1.14**
-    - 6,5: más **11.00** · menos **1.05**
+    - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**

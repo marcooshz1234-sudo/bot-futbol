@@ -1,10 +1,10 @@
 # Borac Banja Luka – Atalanta
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Gradski stadion Banja Luka
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:28_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **4.75**  ·  X **4.10**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.18**
@@ -16,7 +16,7 @@ _Actualizadas: 19/11 08:28_
     - 4,5: más **4.33** · menos **1.20**
     - 5,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.25** · menos **3.75**
+    - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**

@@ -1,16 +1,16 @@
 # Getafe – Atletico Madrid
 **LaLiga** · Regular Season - 13 · 22/11/2026 21:00 (hora España) · Coliseum Alfonso Pérez
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:27_
 
 - **1X2:** 1 **6.25**  ·  X **3.90**  ·  2 **1.55**
 - **Doble oportunidad:** 1X **2.38**  ·  12 **1.25**  ·  X2 **1.12**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.75**
 - **Goles más/menos:**
-    - 0,5: más **1.06** · menos **9.50**
+    - 0,5: más **1.06** · menos **10.00**
     - 1,5: más **1.30** · menos **3.50**
     - 2,5: más **2.00** · menos **1.80**
     - 3,5: más **3.50** · menos **1.30**
@@ -29,7 +29,7 @@ _Actualizadas: 20/11 02:15_
     - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
     - 9: más **1.80** · menos **2.00**
-    - 9,5: más **2.00** · menos **1.73**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **3.50**  ·  X **9.00**  ·  2 **1.40**
 - **1X2 descanso:** 1 **6.00**  ·  X **2.25**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
@@ -45,10 +45,10 @@ _Actualizadas: 20/11 02:15_
 - **Results/Both Teams Score:** Home/Yes **12.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.75**  ·  Home/No **10.00**  ·  Draw/No **9.50**  ·  Away/No **2.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.20**
 - **Home Corners Over/Under:**
-    - 3,5: más **2.00** · menos **1.73**
+    - 3,5: más **1.91** · menos **1.80**
 - **Away Corners Over/Under:**
     - 5,5: más **1.83** · menos **1.83**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.08**  ·  Menos de 4.5 **1.72**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.00**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 - **Total ShotOnGoal:**
     - 6,5: más **1.73** · menos **2.00**
     - 7,5: más **1.83** · menos **1.83**

@@ -1,10 +1,10 @@
 # Wolves – Charlton
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:13_
+_Actualizadas: 20/11 08:25_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.25**
@@ -32,6 +32,7 @@ _Actualizadas: 20/11 02:13_
     - 10,5: más **1.92** · menos **1.88**
 - **Córners 1X2:** 1 **1.17**  ·  X **11.00**  ·  2 **5.50**
 - **Tarjetas más/menos:**
+    - 3,5: más **1.67** · menos **2.10**
     - 4,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **1.73**  ·  X **2.62**  ·  2 **8.00**
 - **Goals Over/Under - Second Half:**
@@ -51,11 +52,11 @@ _Actualizadas: 20/11 02:13_
 - **Away Corners Over/Under:**
     - 2,5: más **1.62** · menos **2.20**
     - 3,5: más **2.25** · menos **1.57**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.25**  ·  Menos de 5 **2.20**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **1.95**  ·  Menos de 5 **1.85**
 - **Home Team Total Cards:**
-    - 1,5: más **1.83** · menos **1.83**
+    - 1,5: más **1.91** · menos **1.80**
 - **Away Team Total Cards:**
-    - 2,5: más **1.83** · menos **1.83**
+    - 2,5: más **2.00** · menos **1.73**
 - **Total ShotOnGoal:**
     - 9,5: más **1.73** · menos **2.00**
 - **ShotOnTarget 1x2:** 1 **1.08**  ·  X **15.00**  ·  2 **12.00**

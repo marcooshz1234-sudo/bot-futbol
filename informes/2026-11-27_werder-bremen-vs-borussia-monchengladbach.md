@@ -1,7 +1,7 @@
 # Werder Bremen – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 11 · 27/11/2026 20:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 02:15_

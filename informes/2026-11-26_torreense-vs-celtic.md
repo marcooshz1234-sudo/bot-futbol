@@ -1,10 +1,10 @@
 # Torreense – Celtic
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Estadio Algarve
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **4.50**  ·  X **3.70**  ·  2 **1.65**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.25**  ·  X2 **1.17**

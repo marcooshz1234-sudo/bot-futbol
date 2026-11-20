@@ -1,10 +1,10 @@
 # Racing Santander – Real Sociedad
 **LaLiga** · Regular Season - 13 · 22/11/2026 16:15 (hora España) · El Sardinero
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **3.25**  ·  X **4.20**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.22**  ·  X2 **1.33**
@@ -33,7 +33,7 @@ _Actualizadas: 20/11 02:15_
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 10,5: más **1.80** · menos **1.91**
+    - 10,5: más **1.82** · menos **1.98**
 - **Córners 1X2:** 1 **2.30**  ·  X **8.50**  ·  2 **1.80**
 - **1X2 descanso:** 1 **3.40**  ·  X **2.75**  ·  2 **2.40**
 - **Goals Over/Under - Second Half:**

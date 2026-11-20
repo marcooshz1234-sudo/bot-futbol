@@ -1,10 +1,10 @@
 # Osasuna – Malaga
 **LaLiga** · Regular Season - 13 · 22/11/2026 18:30 (hora España) · Estadio El Sadar
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:27_
 
 - **1X2:** 1 **1.80**  ·  X **3.50**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.28**  ·  X2 **1.95**
@@ -29,7 +29,7 @@ _Actualizadas: 20/11 02:15_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Córners más/menos:**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.50**  ·  X **8.50**  ·  2 **3.00**
 - **1X2 descanso:** 1 **2.40**  ·  X **2.20**  ·  2 **4.75**
 - **Goals Over/Under - Second Half:**

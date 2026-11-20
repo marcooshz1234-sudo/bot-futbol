@@ -1,47 +1,52 @@
 # Barcelona W – Athletic Club W
 **Liga F** · Regular Season - 12 · 22/11/2026 19:00 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 20/11 08:27_
 
-- **1X2:** 1 **1.02**  ·  X **13.00**  ·  2 **26.00**
+- **1X2:** 1 **1.03**  ·  X **15.00**  ·  2 **41.00**
 - **Doble oportunidad:** 1X **1.00**  ·  12 **1.01**  ·  X2 **10.50**
-- **Ambos marcan:** Sí **3.00**  ·  No **1.36**
+- **Ambos marcan:** Sí **3.50**  ·  No **1.28**
 - **Goles más/menos:**
-    - 1,5: más **1.04** · menos **9.00**
-    - 2,5: más **1.17** · menos **4.50**
-    - 3,5: más **1.40** · menos **2.75**
-    - 4,5: más **1.83** · menos **1.83**
-    - 5,5: más **2.75** · menos **1.40**
-    - 6,5: más **4.50** · menos **1.17**
-    - 7,5: más **7.00** · menos **1.08**
-- **Goles del local:**
-    - 1,5: más **1.06** · menos **8.00**
-    - 2,5: más **1.22** · menos **4.00**
+    - 1,5: más **1.05** · menos **8.50**
+    - 2,5: más **1.20** · menos **4.33**
     - 3,5: más **1.53** · menos **2.38**
-    - 4,5: más **2.20** · menos **1.62**
+    - 4,5: más **2.10** · menos **1.67**
+    - 5,5: más **3.40** · menos **1.30**
+    - 6,5: más **5.50** · menos **1.12**
+    - 7,5: más **8.50** · menos **1.05**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.11** · menos **6.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.00** · menos **1.14**
+    - 4,5: más **9.00** · menos **1.04**
+- **Goles del local:**
+    - 1,5: más **1.07** · menos **7.50**
+    - 2,5: más **1.25** · menos **3.75**
+    - 3,5: más **1.57** · menos **2.25**
+    - 4,5: más **2.25** · menos **1.57**
     - 5,5: más **3.50** · menos **1.28**
     - 6,5: más **5.50** · menos **1.12**
     - 7,5: más **8.50** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **3.00** · menos **1.36**
-    - 1,5: más **9.00** · menos **1.04**
-- **1X2 descanso:** 1 **1.17**  ·  X **5.00**  ·  2 **26.00**
+    - 0,5: más **3.25** · menos **1.33**
+- **1X2 descanso:** 1 **1.17**  ·  X **4.75**  ·  2 **29.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.06** · menos **10.00**
-    - 1,5: más **1.33** · menos **3.25**
-    - 2,5: más **2.00** · menos **1.73**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.36** · menos **3.00**
+    - 2,5: más **2.10** · menos **1.67**
     - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **8.00** · menos **1.08**
-- **Both Teams Score - First Half:** Sí **7.00**  ·  No **1.10**
-- **Both Teams To Score - Second Half:** Sí **5.00**  ·  No **1.17**
-- **To Win Either Half:** 1 **1.01**  ·  2 **15.00**
-- **To Score In Both Halves By Teams:** 1 **1.25**  ·  2 **23.00**
+- **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
+- **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
+- **To Win Either Half:** 1 **1.01**  ·  2 **17.00**
+- **To Score In Both Halves By Teams:** 1 **1.28**  ·  2 **29.00**
 - **Win Both Halves:** 1 **1.40**
-- **Results/Both Teams Score:** Home/Yes **3.10**  ·  Draw/Yes **17.00**  ·  Away/Yes **51.00**  ·  Home/No **1.40**  ·  Draw/No **29.00**  ·  Away/No **101.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.00**  ·  o/no 2.5 **1.73**  ·  u/yes 2.5 **29.00**  ·  u/no 2.5 **5.50**
+- **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **19.00**  ·  Away/Yes **67.00**  ·  Home/No **1.33**  ·  Draw/No **26.00**  ·  Away/No **67.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **3.60**  ·  o/no 2.5 **1.67**  ·  u/yes 2.5 **34.00**  ·  u/no 2.5 **4.50**
 
 ## Estadísticas de equipo
 | | Barcelona W (total) | Barcelona W en casa | Athletic Club W (total) | Athletic Club W fuera |

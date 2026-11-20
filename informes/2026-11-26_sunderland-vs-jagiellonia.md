@@ -1,10 +1,10 @@
 # Sunderland – Jagiellonia
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **1.22**  ·  X **5.50**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **3.75**
@@ -13,8 +13,8 @@ _Actualizadas: 19/11 08:27_
     - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
-    - 4,5: más **4.50** · menos **1.20**
-    - 5,5: más **9.00** · menos **1.07**
+    - 4,5: más **4.33** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**

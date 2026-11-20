@@ -1,10 +1,10 @@
 # Napoli – Torino
 **Serie A** · Regular Season - 12 · 21/11/2026 20:45 (hora España) · Maradona Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:14_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **1.48**  ·  X **4.50**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
@@ -31,11 +31,11 @@ _Actualizadas: 20/11 02:14_
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 9: más **1.82** · menos **1.98**
-    - 9,5: más **1.91** · menos **1.80**
+    - 9,5: más **2.00** · menos **1.80**
 - **Córners 1X2:** 1 **1.28**  ·  X **9.50**  ·  2 **4.33**
 - **Tarjetas más/menos:**
     - 2,5: más **1.73** · menos **2.00**
-    - 3,5: más **1.91** · menos **1.80**
+    - 3,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **1.95**  ·  X **2.50**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**

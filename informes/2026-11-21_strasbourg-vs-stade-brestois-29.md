@@ -1,10 +1,10 @@
 # Strasbourg – Stade Brestois 29
 **Ligue 1** · Regular Season - 11 · 21/11/2026 20:45 (hora España) · Stade de la Meinau
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:14_
+_Actualizadas: 20/11 08:26_
 
 - **1X2:** 1 **2.20**  ·  X **3.80**  ·  2 **3.00**
 - **Doble oportunidad:** 1X **1.36**  ·  12 **1.25**  ·  X2 **1.67**
@@ -46,21 +46,21 @@ _Actualizadas: 20/11 02:14_
 - **To Win Either Half:** 1 **1.62**  ·  2 **1.91**
 - **To Score In Both Halves By Teams:** 1 **3.00**  ·  2 **3.75**
 - **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **5.00**  ·  Home/No **4.33**  ·  Draw/No **15.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.88**
 - **Home Corners Over/Under:**
     - 4,5: más **1.73** · menos **2.00**
     - 5,5: más **2.20** · menos **1.62**
 - **Away Corners Over/Under:**
     - 3,5: más **1.73** · menos **2.00**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.78**  ·  Menos de 4 **2.02**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
 - **Home Team Total Cards:**
     - 1,5: más **1.62** · menos **2.20**
 - **Away Team Total Cards:**
     - 1,5: más **1.62** · menos **2.20**
 - **Total ShotOnGoal:**
-    - 9,5: más **1.83** · menos **1.83**
-- **ShotOnTarget 1x2:** 1 **1.95**  ·  X **7.50**  ·  2 **2.20**
+    - 9,5: más **2.10** · menos **1.67**
+- **ShotOnTarget 1x2:** 1 **1.95**  ·  X **7.00**  ·  2 **2.20**
 - **Total Shots:**
     - 26,5: más **1.91** · menos **1.80**
     - 27,5: más **1.83** · menos **1.83**

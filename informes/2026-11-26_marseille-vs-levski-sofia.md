@@ -1,10 +1,10 @@
 # Marseille – Levski Sofia
 **Europa League** · League Stage - 5 · 26/11/2026 18:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 08:27_
+_Actualizadas: 20/11 08:28_
 
 - **1X2:** 1 **1.40**  ·  X **4.20**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.20**  ·  X2 **2.62**
