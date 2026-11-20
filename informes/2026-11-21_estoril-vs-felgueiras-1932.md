@@ -1,10 +1,30 @@
 # Estoril – Felgueiras 1932
 **Taça de Portugal** · Round of 32 · 21/11/2026 17:00 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 20/11 20:06_
+
+- **1X2:** 1 **1.67**  ·  X **3.75**  ·  2 **4.00**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.25**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Goles más/menos:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.90** · menos **1.90**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.50** · menos **1.11**
+- **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **5.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **8.50**  ·  Home/No **2.75**  ·  Draw/No **11.00**  ·  Away/No **8.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Estoril (total) | Estoril en casa | Felgueiras 1932 (total) | Felgueiras 1932 fuera |

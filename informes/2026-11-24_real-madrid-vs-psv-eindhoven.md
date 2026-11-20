@@ -1,10 +1,10 @@
 # Real Madrid – PSV Eindhoven
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 14:24_
+_Actualizadas: 20/11 20:08_
 
 - **1X2:** 1 **1.17**  ·  X **7.50**  ·  2 **13.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.10**  ·  X2 **5.00**

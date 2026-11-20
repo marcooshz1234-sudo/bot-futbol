@@ -1,10 +1,10 @@
 # Bologna – Udinese
 **Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España) · Stadio Renato Dall'Ara
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:26_
+_Actualizadas: 20/11 20:07_
 
 - **1X2:** 1 **1.70**  ·  X **3.75**  ·  2 **5.00**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.25**  ·  X2 **2.10**

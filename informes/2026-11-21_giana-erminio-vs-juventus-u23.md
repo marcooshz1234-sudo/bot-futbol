@@ -1,32 +1,25 @@
 # Giana Erminio – Juventus U23
 **Serie C** · Girone A - 15 · 21/11/2026 17:30 (hora España) · Stadio Citta di Gorgonzola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:25_
+_Actualizadas: 20/11 20:06_
 
 - **1X2:** 1 **2.50**  ·  X **3.25**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
+    - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.85** · menos **1.95**
-    - 3,5: más **3.25** · menos **1.33**
+    - 3,5: más **3.00** · menos **1.36**
     - 4,5: más **5.50** · menos **1.12**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **6.50** · menos **1.10**
-- **Goles del local:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.00** · menos **1.14**
-- **Goles del visitante:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
     - 8,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.10**
@@ -42,7 +35,8 @@ _Actualizadas: 20/11 08:25_
 - **Win Both Halves:** 1 **9.00**  ·  2 **9.00**
 - **Results/Both Teams Score:** Home/Yes **5.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **4.50**  ·  Draw/No **11.00**  ·  Away/No **4.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.50**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.02**  ·  Menos de 4 **1.78**
+- **Total Corners (1st Half):**
+    - 4: más **2.02** · menos **1.78**
 
 ## Estadísticas de equipo
 | | Giana Erminio (total) | Giana Erminio en casa | Juventus U23 (total) | Juventus U23 fuera |

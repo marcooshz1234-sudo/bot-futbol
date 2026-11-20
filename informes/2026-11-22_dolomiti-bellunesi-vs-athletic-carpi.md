@@ -1,32 +1,27 @@
 # Dolomiti Bellunesi – Athletic Carpi
 **Serie C** · Girone A - 15 · 22/11/2026 17:30 (hora España) · Zugni Tauro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:27_
+_Actualizadas: 20/11 20:07_
 
 - **1X2:** 1 **3.00**  ·  X **3.10**  ·  2 **2.20**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.40**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **9.00**
+    - 0,5: más **1.06** · menos **8.00**
     - 1,5: más **1.33** · menos **3.25**
     - 2,5: más **2.05** · menos **1.75**
     - 3,5: más **3.50** · menos **1.28**
     - 4,5: más **7.00** · menos **1.08**
-- **Goles 1ª parte más/menos:**
+- **Goles del local:**
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **7.00** · menos **1.08**
-- **Goles del local:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.62** · menos **1.44**
-    - 2,5: más **6.00** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **5.50** · menos **1.12**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **2.02** · menos **1.78**
@@ -43,7 +38,7 @@ _Actualizadas: 20/11 08:27_
 - **Win Both Halves:** 1 **11.00**  ·  2 **8.00**
 - **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.00**  ·  Home/No **5.50**  ·  Draw/No **9.00**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
 
 ## Estadísticas de equipo
 | | Dolomiti Bellunesi (total) | Dolomiti Bellunesi en casa | Athletic Carpi (total) | Athletic Carpi fuera |

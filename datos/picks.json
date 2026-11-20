@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20 14:25",
+ "generado": "2026-11-20 20:13",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -7,182 +7,6 @@
   "ultimos_partidos": 10
  },
  "dias": {
-  "2026-11-20": {
-   "picks": [
-    {
-     "partido_id": 1575221,
-     "fecha": "2026-11-20T20:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "1. FC Köln",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Bayern München–1. FC Köln",
-     "cuota": 1.75,
-     "frecuencia": 0.75,
-     "ventaja": 0.179,
-     "detalle": "Bayern München 8/10 · 1. FC Köln 7/10",
-     "valor_mercado": -0.028,
-     "movimiento": -0.103,
-     "cuota_inicial": 1.95,
-     "arbitro": "Robin Braun",
-     "arbitro_tarjetas": null,
-     "prob_xg": 0.634,
-     "xg_esperado": 3.46,
-     "posiciones": [
-      1,
-      15,
-      18
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.66
-    },
-    {
-     "partido_id": 1551380,
-     "fecha": "2026-11-20T19:00",
-     "competicion": "1. Division",
-     "liga_id": 120,
-     "local": "Kolding IF",
-     "visitante": "Aalborg",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Kolding IF o empate",
-     "cuota": 1.5,
-     "frecuencia": 0.8,
-     "ventaja": 0.133,
-     "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.007,
-     "movimiento": -0.02,
-     "cuota_inicial": 1.53,
-     "arbitro": "F. Iriskic",
-     "arbitro_tarjetas": 0.0,
-     "prob_aprendida": 0.678
-    },
-    {
-     "partido_id": 1575221,
-     "fecha": "2026-11-20T20:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "1. FC Köln",
-     "mercado": "Total - Away",
-     "opcion": "Over 0.5",
-     "tipo": "goles",
-     "texto": "1. FC Köln marca",
-     "cuota": 1.73,
-     "frecuencia": 0.8,
-     "ventaja": 0.222,
-     "detalle": "Bayern München (en contra) 8/10 · 1. FC Köln 8/10",
-     "valor_mercado": -0.023,
-     "movimiento": -0.055,
-     "cuota_inicial": 1.83,
-     "arbitro": "Robin Braun",
-     "arbitro_tarjetas": null,
-     "prob_xg": 0.711,
-     "xg_esperado": 3.46,
-     "posiciones": [
-      1,
-      15,
-      18
-     ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.609
-    },
-    {
-     "partido_id": 1575221,
-     "fecha": "2026-11-20T20:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "1. FC Köln",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 2.5",
-     "tipo": "corners",
-     "texto": "1. FC Köln hace más de 2,5 córners",
-     "cuota": 1.73,
-     "frecuencia": 0.8,
-     "ventaja": 0.222,
-     "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
-     "valor_mercado": 0.075,
-     "movimiento": -0.055,
-     "cuota_inicial": 1.83,
-     "arbitro": "Robin Braun",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      1,
-      15,
-      18
-     ],
-     "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.423
-    }
-   ],
-   "mejores_por_partido": [
-    {
-     "partido_id": 1575221,
-     "fecha": "2026-11-20T20:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Bayern München",
-     "visitante": "1. FC Köln",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Bayern München–1. FC Köln",
-     "cuota": 1.75,
-     "frecuencia": 0.75,
-     "ventaja": 0.179,
-     "detalle": "Bayern München 8/10 · 1. FC Köln 7/10",
-     "valor_mercado": -0.028,
-     "movimiento": -0.103,
-     "cuota_inicial": 1.95,
-     "arbitro": "Robin Braun",
-     "arbitro_tarjetas": null,
-     "prob_xg": 0.634,
-     "xg_esperado": 3.46,
-     "posiciones": [
-      1,
-      15,
-      18
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.66
-    },
-    {
-     "partido_id": 1551380,
-     "fecha": "2026-11-20T19:00",
-     "competicion": "1. Division",
-     "liga_id": 120,
-     "local": "Kolding IF",
-     "visitante": "Aalborg",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Kolding IF o empate",
-     "cuota": 1.5,
-     "frecuencia": 0.8,
-     "ventaja": 0.133,
-     "detalle": "Kolding IF 7/10 · Aalborg 9/10",
-     "valor_mercado": 0.007,
-     "movimiento": -0.02,
-     "cuota_inicial": 1.53,
-     "arbitro": "F. Iriskic",
-     "arbitro_tarjetas": 0.0,
-     "prob_aprendida": 0.678
-    }
-   ],
-   "combis": {
-    "segura": null,
-    "cuota_3": null,
-    "loca": null,
-    "doble": null
-   },
-   "estilos": {},
-   "combis_partido": []
-  },
   "2026-11-21": {
    "picks": [
     {
@@ -240,6 +64,24 @@
      "prob_aprendida": 0.687
     },
     {
+     "partido_id": 1608376,
+     "fecha": "2026-11-21T17:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Giana Erminio",
+     "visitante": "Juventus U23",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Giana Erminio o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.85,
+     "ventaja": 0.156,
+     "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
+     "valor_mercado": 0.0,
+     "prob_aprendida": 0.704
+    },
+    {
      "partido_id": 1570034,
      "fecha": "2026-11-21T14:00",
      "competicion": "Segunda",
@@ -269,64 +111,6 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.6
-    },
-    {
-     "partido_id": 1552823,
-     "fecha": "2026-11-21T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Monaco",
-     "visitante": "Auxerre",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Monaco–Auxerre",
-     "cuota": 1.7,
-     "frecuencia": 0.75,
-     "ventaja": 0.162,
-     "detalle": "Monaco 7/10 · Auxerre 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.7,
-     "arbitro": "Jeremy Stinat",
-     "arbitro_tarjetas": 3.5,
-     "prob_xg": 0.554,
-     "xg_esperado": 2.76,
-     "posiciones": [
-      7,
-      14,
-      18
-     ],
-     "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.597
-    },
-    {
-     "partido_id": 1575229,
-     "fecha": "2026-11-21T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SV Elversberg",
-     "visitante": "SC Freiburg",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el SC Freiburg",
-     "cuota": 1.95,
-     "frecuencia": 0.6,
-     "ventaja": 0.087,
-     "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
-     "valor_mercado": -0.03,
-     "movimiento": -0.025,
-     "cuota_inicial": 2.0,
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      7,
-      3,
-      18
-     ],
-     "contexto": "mejor_lejos_arriba",
-     "prob_aprendida": 0.54
     },
     {
      "partido_id": 1575223,
@@ -406,6 +190,34 @@
      "prob_aprendida": 0.437
     },
     {
+     "partido_id": 1557467,
+     "fecha": "2026-11-21T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Aston Villa",
+     "visitante": "Sunderland",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Sunderland hace más de 3,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
+     "valor_mercado": 0.044,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
+     "arbitro": "Andrew Madley",
+     "arbitro_tarjetas": null,
+     "posiciones": [
+      10,
+      19,
+      20
+     ],
+     "contexto": "peor_lejos_abajo",
+     "prob_aprendida": 0.42
+    },
+    {
      "partido_id": 1563273,
      "fecha": "2026-11-21T16:00",
      "competicion": "Championship",
@@ -430,34 +242,6 @@
      ],
      "contexto": "peor_abismo_medio",
      "prob_aprendida": 0.439
-    },
-    {
-     "partido_id": 1557467,
-     "fecha": "2026-11-21T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Sunderland",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Sunderland hace más de 3,5 córners",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
-     "valor_mercado": 0.031,
-     "movimiento": -0.035,
-     "cuota_inicial": 1.73,
-     "arbitro": "Andrew Madley",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      10,
-      19,
-      20
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.42
     }
    ],
    "mejores_por_partido": [
@@ -516,6 +300,24 @@
      "prob_aprendida": 0.687
     },
     {
+     "partido_id": 1608376,
+     "fecha": "2026-11-21T17:30",
+     "competicion": "Serie C",
+     "liga_id": 138,
+     "local": "Giana Erminio",
+     "visitante": "Juventus U23",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Giana Erminio o empate",
+     "cuota": 1.44,
+     "frecuencia": 0.85,
+     "ventaja": 0.156,
+     "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
+     "valor_mercado": 0.0,
+     "prob_aprendida": 0.704
+    },
+    {
      "partido_id": 1570034,
      "fecha": "2026-11-21T14:00",
      "competicion": "Segunda",
@@ -545,64 +347,6 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.6
-    },
-    {
-     "partido_id": 1552823,
-     "fecha": "2026-11-21T20:45",
-     "competicion": "Ligue 1",
-     "liga_id": 61,
-     "local": "Monaco",
-     "visitante": "Auxerre",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Monaco–Auxerre",
-     "cuota": 1.7,
-     "frecuencia": 0.75,
-     "ventaja": 0.162,
-     "detalle": "Monaco 7/10 · Auxerre 8/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.0,
-     "cuota_inicial": 1.7,
-     "arbitro": "Jeremy Stinat",
-     "arbitro_tarjetas": 3.5,
-     "prob_xg": 0.554,
-     "xg_esperado": 2.76,
-     "posiciones": [
-      7,
-      14,
-      18
-     ],
-     "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.597
-    },
-    {
-     "partido_id": 1575229,
-     "fecha": "2026-11-21T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "SV Elversberg",
-     "visitante": "SC Freiburg",
-     "mercado": "Match Winner",
-     "opcion": "Away",
-     "tipo": "resultado",
-     "texto": "Gana el SC Freiburg",
-     "cuota": 1.95,
-     "frecuencia": 0.6,
-     "ventaja": 0.087,
-     "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
-     "valor_mercado": -0.03,
-     "movimiento": -0.025,
-     "cuota_inicial": 2.0,
-     "arbitro": "Richard Hempel",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      7,
-      3,
-      18
-     ],
-     "contexto": "mejor_lejos_arriba",
-     "prob_aprendida": 0.54
     },
     {
      "partido_id": 1575223,
@@ -682,6 +426,34 @@
      "prob_aprendida": 0.437
     },
     {
+     "partido_id": 1557467,
+     "fecha": "2026-11-21T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Aston Villa",
+     "visitante": "Sunderland",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Sunderland hace más de 3,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
+     "valor_mercado": 0.044,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
+     "arbitro": "Andrew Madley",
+     "arbitro_tarjetas": null,
+     "posiciones": [
+      10,
+      19,
+      20
+     ],
+     "contexto": "peor_lejos_abajo",
+     "prob_aprendida": 0.42
+    },
+    {
      "partido_id": 1563273,
      "fecha": "2026-11-21T16:00",
      "competicion": "Championship",
@@ -706,34 +478,6 @@
      ],
      "contexto": "peor_abismo_medio",
      "prob_aprendida": 0.439
-    },
-    {
-     "partido_id": 1557467,
-     "fecha": "2026-11-21T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Sunderland",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Sunderland hace más de 3,5 córners",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
-     "valor_mercado": 0.031,
-     "movimiento": -0.035,
-     "cuota_inicial": 1.73,
-     "arbitro": "Andrew Madley",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      10,
-      19,
-      20
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.42
     }
    ],
    "combis": {
@@ -796,6 +540,24 @@
        "prob_aprendida": 0.687
       },
       {
+       "partido_id": 1608376,
+       "fecha": "2026-11-21T17:30",
+       "competicion": "Serie C",
+       "liga_id": 138,
+       "local": "Giana Erminio",
+       "visitante": "Juventus U23",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
+       "tipo": "resultado",
+       "texto": "Giana Erminio o empate",
+       "cuota": 1.44,
+       "frecuencia": 0.85,
+       "ventaja": 0.156,
+       "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
+       "valor_mercado": 0.0,
+       "prob_aprendida": 0.704
+      },
+      {
        "partido_id": 1570034,
        "fecha": "2026-11-21T14:00",
        "competicion": "Segunda",
@@ -827,65 +589,40 @@
        "prob_aprendida": 0.6
       },
       {
-       "partido_id": 1552823,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Monaco",
-       "visitante": "Auxerre",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Monaco–Auxerre",
-       "cuota": 1.7,
-       "frecuencia": 0.75,
-       "ventaja": 0.162,
-       "detalle": "Monaco 7/10 · Auxerre 8/10",
-       "valor_mercado": 0.0,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.7,
-       "arbitro": "Jeremy Stinat",
-       "arbitro_tarjetas": 3.5,
-       "prob_xg": 0.554,
-       "xg_esperado": 2.76,
-       "posiciones": [
-        7,
-        14,
-        18
-       ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.597
-      },
-      {
-       "partido_id": 1575229,
+       "partido_id": 1575223,
        "fecha": "2026-11-21T15:30",
        "competicion": "Bundesliga",
        "liga_id": 78,
-       "local": "SV Elversberg",
-       "visitante": "SC Freiburg",
-       "mercado": "Match Winner",
-       "opcion": "Away",
-       "tipo": "resultado",
-       "texto": "Gana el SC Freiburg",
-       "cuota": 1.95,
-       "frecuencia": 0.6,
-       "ventaja": 0.087,
-       "detalle": "SV Elversberg 6/10 · SC Freiburg 6/10",
-       "valor_mercado": -0.03,
-       "movimiento": -0.025,
-       "cuota_inicial": 2.0,
-       "arbitro": "Richard Hempel",
+       "local": "Eintracht Frankfurt",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "Away Player Shots",
+       "opcion": "Fisnik Asllani - 2",
+       "cuota": 1.28,
+       "frecuencia": 0.875,
+       "ventaja": 0.094,
+       "tipo": "jugador",
+       "jugador": "Fisnik Asllani",
+       "equipo": "1899 Hoffenheim",
+       "jugador_id": 202501,
+       "campo": "tiros",
+       "n": 2,
+       "texto": "Fisnik Asllani: 2+ tiros",
+       "detalle": "Fisnik Asllani 7/8",
+       "temporada": "7/8",
+       "movimiento": 0.153,
+       "cuota_inicial": 1.11,
+       "arbitro": "Max Burda",
        "arbitro_tarjetas": null,
        "posiciones": [
-        7,
-        3,
+        10,
+        9,
         18
        ],
-       "contexto": "mejor_lejos_arriba",
-       "prob_aprendida": 0.54
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.615
       }
      ],
-     "cuota": 14.91
+     "cuota": 8.29
     },
     "doble": null
    },
@@ -893,23 +630,53 @@
     "tema": {
      "picks": [
       {
+       "partido_id": 1552226,
+       "fecha": "2026-11-21T18:45",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Feyenoord",
+       "visitante": "Excelsior",
+       "mercado": "Total - Away",
+       "opcion": "Over 0.5",
+       "tipo": "goles",
+       "texto": "Excelsior marca",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "Feyenoord (en contra) 7/10 · Excelsior 6/10",
+       "valor_mercado": -0.035,
+       "movimiento": -0.072,
+       "cuota_inicial": 1.8,
+       "arbitro": "Robin Hensgens",
+       "arbitro_tarjetas": 2.1,
+       "prob_xg": 0.691,
+       "xg_esperado": 3.17,
+       "posiciones": [
+        2,
+        15,
+        18
+       ],
+       "contexto": "peor_abismo_medio",
+       "prob_aprendida": 0.604
+      },
+      {
        "partido_id": 1552233,
        "fecha": "2026-11-21T18:45",
        "competicion": "Eredivisie",
        "liga_id": 88,
        "local": "Utrecht",
        "visitante": "Cambuur",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
        "tipo": "resultado",
-       "texto": "Cambuur o empate",
-       "cuota": 1.83,
-       "frecuencia": 0.7,
-       "ventaja": 0.154,
-       "detalle": "Utrecht 6/10 · Cambuur 8/10",
-       "valor_mercado": -0.027,
-       "movimiento": -0.085,
-       "cuota_inicial": 2.0,
+       "texto": "Cambuur gana alguna de las dos partes",
+       "cuota": 2.0,
+       "frecuencia": 0.65,
+       "ventaja": 0.15,
+       "detalle": "Utrecht 6/10 · Cambuur 7/10",
+       "valor_mercado": -0.048,
+       "movimiento": -0.091,
+       "cuota_inicial": 2.2,
        "arbitro": "Allard Lindhout",
        "arbitro_tarjetas": 2.3,
        "posiciones": [
@@ -918,38 +685,10 @@
         18
        ],
        "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.575
-      },
-      {
-       "partido_id": 1552819,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Lens",
-       "visitante": "Toulouse",
-       "mercado": "Double Chance",
-       "opcion": "Draw/Away",
-       "tipo": "resultado",
-       "texto": "Toulouse o empate",
-       "cuota": 1.91,
-       "frecuencia": 0.7,
-       "ventaja": 0.176,
-       "detalle": "Lens 7/10 · Toulouse 7/10",
-       "valor_mercado": -0.021,
-       "movimiento": -0.068,
-       "cuota_inicial": 2.05,
-       "arbitro": "Bastein Dechepy",
-       "arbitro_tarjetas": 0.0,
-       "posiciones": [
-        11,
-        12,
-        18
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.562
+       "prob_aprendida": 0.564
       }
      ],
-     "cuota": 3.5,
+     "cuota": 3.34,
      "titulo": "✈️ SÁBADO DE LOS DE FUERA",
      "tema": "fuera"
     },
@@ -1020,12 +759,12 @@
        "opcion": "Yes",
        "tipo": "goles",
        "texto": "Ambos marcan en Southampton–Derby",
-       "cuota": 1.8,
+       "cuota": 1.73,
        "frecuencia": 0.65,
-       "ventaja": 0.094,
+       "ventaja": 0.072,
        "detalle": "Southampton 6/10 · Derby 7/10",
-       "valor_mercado": 0.04,
-       "movimiento": 0.0,
+       "valor_mercado": -0.006,
+       "movimiento": -0.039,
        "cuota_inicial": 1.8,
        "arbitro": "Sam Allison",
        "arbitro_tarjetas": 3.4,
@@ -1037,10 +776,10 @@
         24
        ],
        "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.574
+       "prob_aprendida": 0.609
       }
      ],
-     "cuota": 4.05,
+     "cuota": 3.89,
      "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP",
      "liga": "Championship"
     },
@@ -1266,50 +1005,22 @@
        "prob_aprendida": 0.687
       },
       {
-       "partido_id": 1565303,
-       "fecha": "2026-11-21T16:30",
-       "competicion": "Liga I",
-       "liga_id": 283,
-       "local": "CFR 1907 Cluj",
-       "visitante": "Oţelul",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
+       "partido_id": 1608376,
+       "fecha": "2026-11-21T17:30",
+       "competicion": "Serie C",
+       "liga_id": 138,
+       "local": "Giana Erminio",
+       "visitante": "Juventus U23",
+       "mercado": "Double Chance",
+       "opcion": "Home/Draw",
        "tipo": "resultado",
-       "texto": "CFR 1907 Cluj gana alguna de las dos partes",
-       "cuota": 1.67,
-       "frecuencia": 0.65,
-       "ventaja": 0.051,
-       "detalle": "CFR 1907 Cluj 6/10 · Oţelul 7/10",
+       "texto": "Giana Erminio o empate",
+       "cuota": 1.44,
+       "frecuencia": 0.85,
+       "ventaja": 0.156,
+       "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
        "valor_mercado": 0.0,
-       "prob_aprendida": 0.669
-      },
-      {
-       "partido_id": 1575223,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Eintracht Frankfurt",
-       "visitante": "1899 Hoffenheim",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
-       "cuota": 1.62,
-       "frecuencia": 0.65,
-       "ventaja": 0.033,
-       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
-       "valor_mercado": 0.012,
-       "movimiento": -0.03,
-       "cuota_inicial": 1.67,
-       "arbitro": "Max Burda",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        10,
-        9,
-        18
-       ],
-       "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.658
+       "prob_aprendida": 0.704
       },
       {
        "partido_id": 1557476,
@@ -1366,6 +1077,34 @@
        "prob_aprendida": 0.659
       },
       {
+       "partido_id": 1575223,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "Eintracht Frankfurt",
+       "visitante": "1899 Hoffenheim",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Eintracht Frankfurt gana alguna de las dos partes",
+       "cuota": 1.67,
+       "frecuencia": 0.65,
+       "ventaja": 0.051,
+       "detalle": "Eintracht Frankfurt 7/10 · 1899 Hoffenheim 6/10",
+       "valor_mercado": 0.044,
+       "movimiento": 0.0,
+       "cuota_inicial": 1.67,
+       "arbitro": "Max Burda",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        10,
+        9,
+        18
+       ],
+       "contexto": "peor_igualado_medio",
+       "prob_aprendida": 0.625
+      },
+      {
        "partido_id": 1552820,
        "fecha": "2026-11-21T20:45",
        "competicion": "Ligue 1",
@@ -1394,34 +1133,6 @@
        "prob_aprendida": 0.647
       },
       {
-       "partido_id": 1575225,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Union Berlin",
-       "visitante": "RB Leipzig",
-       "mercado": "Goals Over/Under - Second Half",
-       "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Union Berlin–RB Leipzig",
-       "cuota": 1.62,
-       "frecuencia": 0.7,
-       "ventaja": 0.083,
-       "detalle": "Union Berlin 7/10 · RB Leipzig 7/10",
-       "valor_mercado": -0.024,
-       "movimiento": -0.03,
-       "cuota_inicial": 1.67,
-       "arbitro": "Christian Dingert",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        16,
-        4,
-        18
-       ],
-       "contexto": "total_abismo_medio",
-       "prob_aprendida": 0.651
-      },
-      {
        "partido_id": 1575229,
        "fecha": "2026-11-21T15:30",
        "competicion": "Bundesliga",
@@ -1436,7 +1147,7 @@
        "frecuencia": 0.65,
        "ventaja": 0.072,
        "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
-       "valor_mercado": -0.023,
+       "valor_mercado": -0.034,
        "arbitro": "Richard Hempel",
        "arbitro_tarjetas": null,
        "posiciones": [
@@ -1446,9 +1157,35 @@
        ],
        "contexto": "total_lejos_arriba",
        "prob_aprendida": 0.645
+      },
+      {
+       "partido_id": 1570035,
+       "fecha": "2026-11-21T21:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Tenerife",
+       "visitante": "Mallorca",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Tenerife–Mallorca",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Tenerife 7/10 · Mallorca 6/10",
+       "valor_mercado": -0.021,
+       "prob_xg": 0.588,
+       "xg_esperado": 2.91,
+       "posiciones": [
+        13,
+        7,
+        22
+       ],
+       "contexto": "total_lejos_medio",
+       "prob_aprendida": 0.622
       }
      ],
-     "cuota": 537.74
+     "cuota": 539.95
     }
    },
    "combis_partido": []
@@ -1498,7 +1235,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.133,
      "detalle": "Juventus 8/10 · Venezia (en contra) 8/10",
-     "valor_mercado": 0.111,
+     "valor_mercado": 0.172,
      "arbitro": "Alberto Ruben Arena",
      "arbitro_tarjetas": null,
      "posiciones": [
@@ -1560,6 +1297,30 @@
      ],
      "contexto": "mejor_igualado_arriba",
      "prob_aprendida": 0.709
+    },
+    {
+     "partido_id": 1570030,
+     "fecha": "2026-11-22T14:00",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Cordoba",
+     "visitante": "Oviedo",
+     "mercado": "To Win Either Half",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Cordoba gana alguna de las dos partes",
+     "cuota": 1.5,
+     "frecuencia": 0.75,
+     "ventaja": 0.083,
+     "detalle": "Cordoba 8/10 · Oviedo 7/10",
+     "valor_mercado": 0.02,
+     "posiciones": [
+      10,
+      9,
+      22
+     ],
+     "contexto": "peor_igualado_medio",
+     "prob_aprendida": 0.68
     },
     {
      "partido_id": 1550199,
@@ -1630,7 +1391,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.212,
      "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
-     "valor_mercado": 0.012,
+     "valor_mercado": -0.006,
      "movimiento": -0.029,
      "cuota_inicial": 1.75,
      "arbitro": "Erwin Blank",
@@ -1726,6 +1487,36 @@
      "prob_aprendida": 0.612
     },
     {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Total - Away",
+     "opcion": "Over 0.5",
+     "tipo": "goles",
+     "texto": "ADO Den Haag marca",
+     "cuota": 1.62,
+     "frecuencia": 0.8,
+     "ventaja": 0.183,
+     "detalle": "Ajax (en contra) 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": -0.03,
+     "movimiento": -0.03,
+     "cuota_inicial": 1.67,
+     "arbitro": "Erwin Blank",
+     "arbitro_tarjetas": 3.2,
+     "prob_xg": 0.745,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.621
+    },
+    {
      "partido_id": 1550206,
      "fecha": "2026-11-22T15:00",
      "competicion": "Serie A",
@@ -1755,30 +1546,6 @@
      ],
      "contexto": "mejor_igualado_abajo",
      "prob_aprendida": 0.54
-    },
-    {
-     "partido_id": 1570030,
-     "fecha": "2026-11-22T14:00",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Cordoba",
-     "visitante": "Oviedo",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Oviedo hace más de 3,5 córners",
-     "cuota": 1.73,
-     "frecuencia": 0.778,
-     "ventaja": 0.2,
-     "detalle": "Cordoba (en contra) 7/9 · Oviedo 7/9",
-     "valor_mercado": 0.153,
-     "posiciones": [
-      10,
-      9,
-      22
-     ],
-     "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.418
     }
    ],
    "mejores_por_partido": [
@@ -1825,7 +1592,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.133,
      "detalle": "Juventus 8/10 · Venezia (en contra) 8/10",
-     "valor_mercado": 0.111,
+     "valor_mercado": 0.172,
      "arbitro": "Alberto Ruben Arena",
      "arbitro_tarjetas": null,
      "posiciones": [
@@ -1957,7 +1724,7 @@
      "frecuencia": 0.8,
      "ventaja": 0.212,
      "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
-     "valor_mercado": 0.012,
+     "valor_mercado": -0.006,
      "movimiento": -0.029,
      "cuota_inicial": 1.75,
      "arbitro": "Erwin Blank",
@@ -2132,7 +1899,7 @@
        "frecuencia": 0.8,
        "ventaja": 0.133,
        "detalle": "Juventus 8/10 · Venezia (en contra) 8/10",
-       "valor_mercado": 0.111,
+       "valor_mercado": 0.172,
        "arbitro": "Alberto Ruben Arena",
        "arbitro_tarjetas": null,
        "posiciones": [
@@ -2210,7 +1977,7 @@
        "frecuencia": 0.8,
        "ventaja": 0.212,
        "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
-       "valor_mercado": 0.012,
+       "valor_mercado": -0.006,
        "movimiento": -0.029,
        "cuota_inicial": 1.75,
        "arbitro": "Erwin Blank",
@@ -2449,6 +2216,32 @@
      ],
      "contexto": "mejor_igualado_medio",
      "prob_aprendida": 0.598
+    },
+    {
+     "partido_id": 1570029,
+     "fecha": "2026-11-23T20:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "AD Ceuta FC",
+     "visitante": "Almeria",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Almeria",
+     "cuota": 1.95,
+     "frecuencia": 0.75,
+     "ventaja": 0.237,
+     "detalle": "AD Ceuta FC 6/10 · Almeria 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.066,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      22,
+      1,
+      22
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.526
     }
    ],
    "mejores_por_partido": [
@@ -2480,6 +2273,32 @@
      ],
      "contexto": "mejor_igualado_medio",
      "prob_aprendida": 0.598
+    },
+    {
+     "partido_id": 1570029,
+     "fecha": "2026-11-23T20:30",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "AD Ceuta FC",
+     "visitante": "Almeria",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Almeria",
+     "cuota": 1.95,
+     "frecuencia": 0.75,
+     "ventaja": 0.237,
+     "detalle": "AD Ceuta FC 6/10 · Almeria 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": 0.066,
+     "cuota_inicial": 1.83,
+     "posiciones": [
+      22,
+      1,
+      22
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.526
     }
    ],
    "combis": {
@@ -2643,7 +2462,7 @@
        "ventaja": 0.194,
        "detalle": "FC Iberia 1999 6/10 · Getafe (en contra) 9/10",
        "valor_mercado": 0.0,
-       "prob_aprendida": 0.712
+       "prob_aprendida": 0.713
       },
       {
        "partido_id": 1636428,
@@ -2904,6 +2723,333 @@
     "doble": null
    },
    "estilos": {},
+   "combis_partido": []
+  },
+  "2026-11-28": {
+   "picks": [
+    {
+     "partido_id": 1575234,
+     "fecha": "2026-11-28T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "FSV Mainz 05",
+     "visitante": "Union Berlin",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "FSV Mainz 05 8/10 · Union Berlin 7/10",
+     "valor_mercado": -0.023,
+     "posiciones": [
+      12,
+      16,
+      18
+     ],
+     "contexto": "total_lejos_abajo",
+     "prob_aprendida": 0.672
+    },
+    {
+     "partido_id": 1557482,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Aston Villa",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Ipswich–Aston Villa",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Ipswich 7/10 · Aston Villa 8/10",
+     "valor_mercado": -0.028,
+     "posiciones": [
+      14,
+      10,
+      20
+     ],
+     "contexto": "total_igualado_medio",
+     "prob_aprendida": 0.666
+    },
+    {
+     "partido_id": 1575238,
+     "fecha": "2026-11-28T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Paderborn 07",
+     "visitante": "FC Schalke 04",
+     "mercado": "Home Player Shots",
+     "opcion": "Santiago Castaneda - 1",
+     "cuota": 1.53,
+     "frecuencia": 0.9,
+     "ventaja": 0.246,
+     "tipo": "jugador",
+     "jugador": "Santiago Castaneda",
+     "equipo": "SC Paderborn 07",
+     "jugador_id": 363156,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "detalle": "Santiago Castaneda 9/10",
+     "temporada": "10/11",
+     "posiciones": [
+      13,
+      17,
+      18
+     ],
+     "contexto": "mejor_lejos_abajo",
+     "prob_aprendida": 0.586
+    },
+    {
+     "partido_id": 1557482,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Aston Villa",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Aston Villa",
+     "cuota": 2.0,
+     "frecuencia": 0.6,
+     "ventaja": 0.1,
+     "detalle": "Ipswich 6/10 · Aston Villa 6/10",
+     "valor_mercado": 0.0,
+     "posiciones": [
+      14,
+      10,
+      20
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.534
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1575234,
+     "fecha": "2026-11-28T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "FSV Mainz 05",
+     "visitante": "Union Berlin",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "FSV Mainz 05 8/10 · Union Berlin 7/10",
+     "valor_mercado": -0.023,
+     "posiciones": [
+      12,
+      16,
+      18
+     ],
+     "contexto": "total_lejos_abajo",
+     "prob_aprendida": 0.672
+    },
+    {
+     "partido_id": 1557482,
+     "fecha": "2026-11-28T18:30",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Ipswich",
+     "visitante": "Aston Villa",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Ipswich–Aston Villa",
+     "cuota": 1.73,
+     "frecuencia": 0.75,
+     "ventaja": 0.172,
+     "detalle": "Ipswich 7/10 · Aston Villa 8/10",
+     "valor_mercado": -0.028,
+     "posiciones": [
+      14,
+      10,
+      20
+     ],
+     "contexto": "total_igualado_medio",
+     "prob_aprendida": 0.666
+    },
+    {
+     "partido_id": 1575238,
+     "fecha": "2026-11-28T15:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "SC Paderborn 07",
+     "visitante": "FC Schalke 04",
+     "mercado": "Home Player Shots",
+     "opcion": "Santiago Castaneda - 1",
+     "cuota": 1.53,
+     "frecuencia": 0.9,
+     "ventaja": 0.246,
+     "tipo": "jugador",
+     "jugador": "Santiago Castaneda",
+     "equipo": "SC Paderborn 07",
+     "jugador_id": 363156,
+     "campo": "tiros",
+     "n": 1,
+     "texto": "Santiago Castaneda: 1+ tiros",
+     "detalle": "Santiago Castaneda 9/10",
+     "temporada": "10/11",
+     "posiciones": [
+      13,
+      17,
+      18
+     ],
+     "contexto": "mejor_lejos_abajo",
+     "prob_aprendida": 0.586
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {
+    "tema": {
+     "picks": [
+      {
+       "partido_id": 1557484,
+       "fecha": "2026-11-28T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Manchester United",
+       "visitante": "Brentford",
+       "mercado": "Total - Away",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Brentford marca 2 o más",
+       "cuota": 2.5,
+       "frecuencia": 0.65,
+       "ventaja": 0.25,
+       "detalle": "Manchester United (en contra) 7/10 · Brentford 6/10",
+       "valor_mercado": 0.05,
+       "prob_xg": 0.508,
+       "xg_esperado": 3.36,
+       "posiciones": [
+        18,
+        8,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.491
+      },
+      {
+       "partido_id": 1557482,
+       "fecha": "2026-11-28T18:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Ipswich",
+       "visitante": "Aston Villa",
+       "mercado": "Match Winner",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Gana el Aston Villa",
+       "cuota": 2.0,
+       "frecuencia": 0.6,
+       "ventaja": 0.1,
+       "detalle": "Ipswich 6/10 · Aston Villa 6/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        14,
+        10,
+        20
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.534
+      }
+     ],
+     "cuota": 5.0,
+     "titulo": "✈️ SÁBADO DE LOS DE FUERA",
+     "tema": "fuera"
+    },
+    "atreve": {
+     "picks": [
+      {
+       "partido_id": 1575234,
+       "fecha": "2026-11-28T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "FSV Mainz 05",
+       "visitante": "Union Berlin",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "FSV Mainz 05 8/10 · Union Berlin 7/10",
+       "valor_mercado": -0.023,
+       "posiciones": [
+        12,
+        16,
+        18
+       ],
+       "contexto": "total_lejos_abajo",
+       "prob_aprendida": 0.672
+      },
+      {
+       "partido_id": 1557482,
+       "fecha": "2026-11-28T18:30",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Ipswich",
+       "visitante": "Aston Villa",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del Ipswich–Aston Villa",
+       "cuota": 1.73,
+       "frecuencia": 0.75,
+       "ventaja": 0.172,
+       "detalle": "Ipswich 7/10 · Aston Villa 8/10",
+       "valor_mercado": -0.028,
+       "posiciones": [
+        14,
+        10,
+        20
+       ],
+       "contexto": "total_igualado_medio",
+       "prob_aprendida": 0.666
+      },
+      {
+       "partido_id": 1557484,
+       "fecha": "2026-11-28T16:00",
+       "competicion": "Premier",
+       "liga_id": 39,
+       "local": "Manchester United",
+       "visitante": "Brentford",
+       "mercado": "To Win Either Half",
+       "opcion": "Away",
+       "tipo": "resultado",
+       "texto": "Brentford gana alguna de las dos partes",
+       "cuota": 2.1,
+       "frecuencia": 0.65,
+       "ventaja": 0.174,
+       "detalle": "Manchester United 7/10 · Brentford 6/10",
+       "valor_mercado": 0.0,
+       "posiciones": [
+        18,
+        8,
+        20
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.52
+      }
+     ],
+     "cuota": 6.29
+    }
+   },
    "combis_partido": []
   }
  }

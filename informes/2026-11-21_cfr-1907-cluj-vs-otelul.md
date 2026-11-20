@@ -1,13 +1,13 @@
 # CFR 1907 Cluj – Oţelul
 **Liga I** · Regular Season - 16 · 21/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:25_
+_Actualizadas: 20/11 20:06_
 
-- **1X2:** 1 **2.15**  ·  X **3.25**  ·  2 **3.10**
-- **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.62**
+- **1X2:** 1 **2.20**  ·  X **3.25**  ·  2 **3.00**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.57**
 - **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
@@ -31,7 +31,7 @@ _Actualizadas: 20/11 08:25_
 - **Córners más/menos:**
     - 9,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.73**  ·  X **8.00**  ·  2 **2.50**
-- **1X2 descanso:** 1 **2.88**  ·  X **2.20**  ·  2 **3.75**
+- **1X2 descanso:** 1 **2.88**  ·  X **2.20**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -40,9 +40,9 @@ _Actualizadas: 20/11 08:25_
 - **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
 - **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.50**
-- **Win Both Halves:** 1 **7.00**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.50**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **5.50**
+- **To Score In Both Halves By Teams:** 1 **3.50**  ·  2 **4.33**
+- **Win Both Halves:** 1 **8.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **3.75**  ·  Draw/No **10.00**  ·  Away/No **5.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.30**
 - **Home Corners Over/Under:**
     - 4,5: más **1.67** · menos **2.10**

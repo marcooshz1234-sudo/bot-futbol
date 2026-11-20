@@ -1,10 +1,10 @@
 # Vendsyssel FF – Hvidovre
 **1. Division** · Regular Season - 15 · 21/11/2026 14:00 (hora España) · Nord Energi Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:25_
+_Actualizadas: 20/11 20:06_
 
 - **1X2:** 1 **3.40**  ·  X **3.40**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.30**
@@ -12,7 +12,7 @@ _Actualizadas: 20/11 08:25_
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.70** · menos **2.10**
+    - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
@@ -42,7 +42,7 @@ _Actualizadas: 20/11 08:25_
 - **Win Both Halves:** 1 **11.00**  ·  2 **6.50**
 - **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.75**  ·  Home/No **7.00**  ·  Draw/No **13.00**  ·  Away/No **4.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.88**
-- **Anytime Goal Scorer:** Rasmus Schuller **9.00**  ·  Ahmed Iljazovski **8.00**  ·  Adam Vendelbo **4.00**  ·  Bilal Krubally **12.00**  ·  Emil Gronn Pedersen **2.60**  ·  Lasse Steffensen **3.20**  ·  Marcus Hannesbo **4.33**  ·  Emmanuel Aby **3.20**  ·  Marvin Egho **2.75**  ·  Alexander Johansen **3.75**  ·  Andreas Smed **4.00**  ·  Marius Papuga **6.00**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **10.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.40**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Simon Okosun **4.75**  ·  Oliver Juul Jensen **8.00**  ·  Donavan Bagou **2.40**  ·  Abdoulie Njai **8.00**  ·  Arni Atlason **6.50**  ·  Haki Bedzeti **6.00**  ·  Lucas Andersen **4.33**  ·  Nathan Huygevelde **4.33**  ·  Harald Tangen **5.50**  ·  Louka Prip **3.75**  ·  Danny Beshara **5.50**  ·  Jonathan Rosengaard **5.50**  ·  Kasper Kjellingbro **5.50**  ·  Oliver Jensen **3.75**  ·  Ari Olsen **9.00**  ·  Jeppe Sommer **9.00**  ·  Malthe Holt **7.50**  ·  Precious Williams **2.88**  ·  Sebastian Lodberg **6.50**  ·  Stephen Michael **7.50**  ·  Steven Simpson **5.50**  ·  Mathias Andersen **9.00**  ·  Andreas Rise **5.50**  ·  Roberto Risnaes **2.40**  ·  Louis Gronemann **8.00**  ·  Roma Wilfried **5.50**  ·  Roma Seahet **7.50**  ·  Morten Knudsen **5.50**  ·  Frederik Mortensen **5.50**  ·  Hassan Ndam **12.00**  ·  Julius Lockhart **10.00**  ·  Zamir Aliji **5.50**
+- **Anytime Goal Scorer:** Rasmus Schuller **9.00**  ·  Ahmed Iljazovski **8.00**  ·  Adam Vendelbo **4.00**  ·  Bilal Krubally **12.00**  ·  Emil Gronn Pedersen **2.60**  ·  Lasse Steffensen **3.20**  ·  Marcus Hannesbo **4.33**  ·  Emmanuel Aby **3.20**  ·  Alexander Johansen **3.75**  ·  Andreas Smed **4.00**  ·  Marius Papuga **6.00**  ·  Daniel Stenderup **8.00**  ·  Nicolaj Jungvig **10.00**  ·  Malte Killerich **12.00**  ·  Nicolai Clausen **12.00**  ·  Oliver Kjaergaard **3.40**  ·  Benjamin Clemmensen **12.00**  ·  Mads Houkjaer **12.00**  ·  Mads Lauritsen **12.00**  ·  Simon Okosun **4.75**  ·  Oliver Juul Jensen **8.00**  ·  Donavan Bagou **2.40**  ·  Abdoulie Njai **8.00**  ·  Arni Atlason **6.50**  ·  Haki Bedzeti **6.00**  ·  Lucas Andersen **4.33**  ·  Nathan Huygevelde **4.33**  ·  Harald Tangen **5.50**  ·  Louka Prip **3.75**  ·  Danny Beshara **5.50**  ·  Jonathan Rosengaard **5.50**  ·  Kasper Kjellingbro **5.50**  ·  Oliver Jensen **3.75**  ·  Ari Olsen **9.00**  ·  Jeppe Sommer **9.00**  ·  Malthe Holt **7.50**  ·  Precious Williams **2.88**  ·  Sebastian Lodberg **6.50**  ·  Stephen Michael **7.50**  ·  Steven Simpson **5.50**  ·  Mathias Andersen **9.00**  ·  Andreas Rise **5.50**  ·  Roberto Risnaes **2.40**  ·  Louis Gronemann **8.00**  ·  Roma Wilfried **5.50**  ·  Roma Seahet **7.50**  ·  Morten Knudsen **5.50**  ·  Frederik Mortensen **5.50**  ·  Hassan Ndam **12.00**  ·  Julius Lockhart **10.00**  ·  Zamir Aliji **5.50**
 
 ## Estadísticas de equipo
 | | Vendsyssel FF (total) | Vendsyssel FF en casa | Hvidovre (total) | Hvidovre fuera |

@@ -1,13 +1,13 @@
 # Trento – Cittadella
 **Serie C** · Girone A - 15 · 20/11/2026 20:30 (hora España) · Stadio Briamasco
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:24_
+_Actualizadas: 20/11 20:05_
 
-- **1X2:** 1 **2.45**  ·  X **3.10**  ·  2 **2.62**
-- **Doble oportunidad:** 1X **1.40**  ·  12 **1.28**  ·  X2 **1.44**
+- **1X2:** 1 **2.50**  ·  X **3.10**  ·  2 **2.55**
+- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **7.50**
@@ -28,8 +28,8 @@ _Actualizadas: 20/11 08:24_
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.50** · menos **1.10**
 - **Córners más/menos:**
-    - 8,5: más **1.82** · menos **1.98**
-- **1X2 descanso:** 1 **3.10**  ·  X **2.05**  ·  2 **3.25**
+    - 8,5: más **1.80** · menos **1.91**
+- **1X2 descanso:** 1 **3.20**  ·  X **2.05**  ·  2 **3.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
@@ -37,9 +37,9 @@ _Actualizadas: 20/11 08:24_
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
 - **To Win Either Half:** 1 **1.83**  ·  2 **1.83**
-- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **4.33**
+- **To Score In Both Halves By Teams:** 1 **4.33**  ·  2 **4.33**
 - **Win Both Halves:** 1 **10.00**  ·  2 **10.00**
-- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.00**  ·  Draw/No **8.50**  ·  Away/No **4.33**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **6.00**  ·  Home/No **4.33**  ·  Draw/No **8.50**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.20**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.38**  ·  Menos de 4 **2.20**
 

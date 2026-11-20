@@ -1,13 +1,12 @@
 # Barcelona W – Athletic Club W
 **Liga F** · Regular Season - 12 · 22/11/2026 19:00 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:27_
+_Actualizadas: 20/11 20:07_
 
 - **1X2:** 1 **1.03**  ·  X **15.00**  ·  2 **41.00**
-- **Doble oportunidad:** 1X **1.00**  ·  12 **1.01**  ·  X2 **10.50**
 - **Ambos marcan:** Sí **3.50**  ·  No **1.28**
 - **Goles más/menos:**
     - 1,5: más **1.05** · menos **8.50**
@@ -18,28 +17,26 @@ _Actualizadas: 20/11 08:27_
     - 6,5: más **5.50** · menos **1.12**
     - 7,5: más **8.50** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.11** · menos **6.00**
-    - 1,5: más **1.53** · menos **2.38**
-    - 2,5: más **2.62** · menos **1.44**
-    - 3,5: más **5.00** · menos **1.14**
-    - 4,5: más **9.00** · menos **1.04**
+    - 0,5: más **1.12** · menos **5.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **5.50** · menos **1.12**
 - **Goles del local:**
     - 1,5: más **1.07** · menos **7.50**
     - 2,5: más **1.25** · menos **3.75**
-    - 3,5: más **1.57** · menos **2.25**
-    - 4,5: más **2.25** · menos **1.57**
-    - 5,5: más **3.50** · menos **1.28**
-    - 6,5: más **5.50** · menos **1.12**
-    - 7,5: más **8.50** · menos **1.05**
+    - 3,5: más **1.67** · menos **2.10**
+    - 4,5: más **2.50** · menos **1.50**
+    - 5,5: más **4.00** · menos **1.22**
+    - 6,5: más **6.50** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **3.25** · menos **1.33**
+    - 0,5: más **3.50** · menos **1.28**
 - **1X2 descanso:** 1 **1.17**  ·  X **4.75**  ·  2 **29.00**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.10** · menos **1.67**
-    - 3,5: más **3.75** · menos **1.25**
-    - 4,5: más **8.00** · menos **1.08**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.25** · menos **1.57**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **8.00**  ·  No **1.08**
 - **Both Teams To Score - Second Half:** Sí **6.00**  ·  No **1.12**
 - **To Win Either Half:** 1 **1.01**  ·  2 **17.00**

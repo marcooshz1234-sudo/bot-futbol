@@ -1,21 +1,21 @@
 # FC Porto – Paredes
 **Taça de Portugal** · Round of 32 · 20/11/2026 21:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:24_
+_Actualizadas: 20/11 20:05_
 
-- **1X2:** 1 **1.07**  ·  X **11.00**  ·  2 **23.00**
+- **1X2:** 1 **1.08**  ·  X **11.00**  ·  2 **21.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.05**  ·  X2 **9.00**
 - **Ambos marcan:** Sí **2.62**  ·  No **1.44**
 - **Goles más/menos:**
-    - 1,5: más **1.08** · menos **8.00**
-    - 2,5: más **1.30** · menos **3.50**
-    - 3,5: más **1.80** · menos **1.91**
-    - 4,5: más **2.75** · menos **1.40**
-    - 5,5: más **4.50** · menos **1.18**
-    - 6,5: más **9.00** · menos **1.07**
+    - 1,5: más **1.10** · menos **7.00**
+    - 2,5: más **1.33** · menos **3.40**
+    - 3,5: más **1.83** · menos **1.83**
+    - 4,5: más **3.00** · menos **1.36**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**

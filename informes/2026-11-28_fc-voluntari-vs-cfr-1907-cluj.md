@@ -1,7 +1,7 @@
 # FC Voluntari – CFR 1907 Cluj
 **Liga I** · Regular Season - 17 · 28/11/2026 13:30 (hora España) · Stadionul Anghel Iordanescu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,52 +9,52 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | FC Voluntari (total) | FC Voluntari en casa | CFR 1907 Cluj (total) | CFR 1907 Cluj fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 19 | 10 |
-| Forma (últimos 5) | DDDDD | DDDVE | EEEDV | EDVDV |
-| Balance | 2V 2E 11D | 2V 2E 4D | 6V 5E 8D | 2V 2E 6D |
-| Goles a favor / partido | 1,00 | 1,12 | 1,32 | 1,00 |
-| Goles en contra / partido | 2,20 | 1,50 | 1,53 | 1,80 |
-| Goles a favor 1ª parte | 0,53 | 0,62 | 0,68 | 0,40 |
-| Goles a favor 2ª parte | 0,47 | 0,50 | 0,63 | 0,60 |
-| Goles en contra 1ª parte | 1,07 | 0,75 | 0,63 | 0,90 |
-| Goles en contra 2ª parte | 1,13 | 0,75 | 0,89 | 0,90 |
-| Más de 1,5 goles | 87% | 75% | 74% | 80% |
-| Más de 2,5 goles | 80% | 62% | 63% | 60% |
-| Más de 3,5 goles | 40% | 25% | 42% | 30% |
-| Ambos marcan | 67% | 62% | 53% | 70% |
-| Portería a cero | 13% | 25% | 32% | 10% |
-| Se queda sin marcar | 20% | 12% | 26% | 20% |
+| Partidos analizados | 16 | 8 | 19 | 10 |
+| Forma (últimos 5) | EDDDD | DDDVE | EEEDV | EDVDV |
+| Balance | 2V 3E 11D | 2V 2E 4D | 6V 5E 8D | 2V 2E 6D |
+| Goles a favor / partido | 1,12 | 1,12 | 1,32 | 1,00 |
+| Goles en contra / partido | 2,25 | 1,50 | 1,53 | 1,80 |
+| Goles a favor 1ª parte | 0,50 | 0,62 | 0,68 | 0,40 |
+| Goles a favor 2ª parte | 0,62 | 0,50 | 0,63 | 0,60 |
+| Goles en contra 1ª parte | 1,12 | 0,75 | 0,63 | 0,90 |
+| Goles en contra 2ª parte | 1,12 | 0,75 | 0,89 | 0,90 |
+| Más de 1,5 goles | 88% | 75% | 74% | 80% |
+| Más de 2,5 goles | 81% | 62% | 63% | 60% |
+| Más de 3,5 goles | 44% | 25% | 42% | 30% |
+| Ambos marcan | 69% | 62% | 53% | 70% |
+| Portería a cero | 12% | 25% | 32% | 10% |
+| Se queda sin marcar | 19% | 12% | 26% | 20% |
 | xG a favor | 1,40 | 1,73 | 1,52 | 1,29 |
 | xG en contra | 2,44 | 2,17 | 1,79 | 2,03 |
-| Tiros / partido | 14,0 | 16,5 | 12,9 | 13,4 |
-| Tiros a puerta / partido | 4,4 | 5,2 | 4,1 | 4,0 |
-| Tiros recibidos | 17,9 | 15,6 | 16,9 | 18,0 |
+| Tiros / partido | 14,4 | 16,5 | 12,9 | 13,4 |
+| Tiros a puerta / partido | 4,5 | 5,2 | 4,1 | 4,0 |
+| Tiros recibidos | 17,6 | 15,6 | 16,9 | 18,0 |
 | Tiros a puerta recibidos | 5,6 | 3,6 | 5,6 | 6,2 |
-| Posesión media % | 45 | 47 | 45 | 47 |
+| Posesión media % | 46 | 47 | 45 | 47 |
 | Córners a favor | 4,1 | 5,5 | 4,0 | 3,3 |
-| Córners en contra | 4,9 | 4,2 | 5,1 | 6,6 |
+| Córners en contra | 5,0 | 4,2 | 5,1 | 6,6 |
 | Córners a favor 1ª parte | 1,5 | 1,6 | 1,6 | 1,1 |
-| Córners a favor 2ª parte | 2,7 | 3,9 | 2,1 | 2,2 |
+| Córners a favor 2ª parte | 2,6 | 3,9 | 2,1 | 2,2 |
 | Córners totales del partido | 9,1 | 9,8 | 9,1 | 9,9 |
-| Córners totales 1ª parte | 4,3 | 3,6 | 3,8 | 3,9 |
+| Córners totales 1ª parte | 4,2 | 3,6 | 3,8 | 3,9 |
 | Córners totales 2ª parte | 4,8 | 6,1 | 4,5 | 5,0 |
-| Más de 8,5 córners | 47% | 50% | 53% | 67% |
-| Más de 9,5 córners | 40% | 50% | 41% | 44% |
-| Más de 10,5 córners | 33% | 50% | 29% | 33% |
+| Más de 8,5 córners | 50% | 50% | 53% | 67% |
+| Más de 9,5 córners | 38% | 50% | 41% | 44% |
+| Más de 10,5 córners | 31% | 50% | 29% | 33% |
 | Faltas cometidas | 9,1 | 9,8 | 11,4 | 11,3 |
-| Faltas recibidas | 12,3 | 12,1 | 10,5 | 9,9 |
-| Amarillas propias | 2,1 | 1,9 | 1,6 | 1,7 |
-| Amarillas del rival | 1,5 | 1,4 | 1,4 | 1,2 |
-| Rojas / partido | 0,13 | 0,00 | 0,00 | 0,00 |
+| Faltas recibidas | 11,9 | 12,1 | 10,5 | 9,9 |
+| Amarillas propias | 1,9 | 1,9 | 1,6 | 1,7 |
+| Amarillas del rival | 1,4 | 1,4 | 1,4 | 1,2 |
+| Rojas / partido | 0,12 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FC Voluntari | Recibe FC Voluntari | Tarjetas FC Voluntari | Goles CFR 1907 Cluj | Recibe CFR 1907 Cluj | Tarjetas CFR 1907 Cluj |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 4 | 5 | 4 | 3 | 2 |
-| 16-30' | 3 | 7 | 1 | 5 | 4 | 3 |
+| 1-15' | 4 | 5 | 5 | 4 | 3 | 2 |
+| 16-30' | 3 | 8 | 1 | 5 | 4 | 3 |
 | 31-45' | 1 | 5 | 2 | 4 | 5 | 8 |
-| 46-60' | 3 | 5 | 7 | 5 | 6 | 4 |
-| 61-75' | 2 | 4 | 4 | 1 | 6 | 4 |
+| 46-60' | 3 | 6 | 7 | 5 | 6 | 4 |
+| 61-75' | 5 | 4 | 4 | 1 | 6 | 4 |
 | 76-90' | 2 | 8 | 14 | 6 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -73,36 +73,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de FC Voluntari
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | Liga I | FC Botosani 3-3 FC Voluntari | fuera | 3-6 | 21 (6) - 12 (5) | –-– |
 | 2026-11-08 | Liga I | Sepsi OSK Sfantu Gheorghe 2-1 FC Voluntari | fuera | 7-7 | 18 (7) - 16 (7) | 3-2 |
 | 2026-11-02 | Liga I | FC Voluntari 1-2 Farul Constanta | casa | 11-2 | 28 (8) - 4 (2) | 1-0 |
 | 2026-10-24 | Liga I | Csikszereda 2-1 FC Voluntari | fuera | 3-3 | 16 (4) - 19 (7) | 3-1 |
 | 2026-10-19 | Liga I | FC Voluntari 1-2 FCSB | casa | 4-2 | 14 (2) - 18 (7) | 2-2 |
 | 2026-10-09 | Liga I | Corvinul Hunedoara 3-2 FC Voluntari | fuera | 2-4 | 15 (3) - 18 (7) | 3-2 |
-| 2026-09-20 | Liga I | FC Voluntari 0-2 Universitatea Cluj | casa | 8-4 | 15 (6) - 17 (6) | 2-0 |
 
 ## Jugadores de FC Voluntari
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alexandru Șuteu | D | 15 | 1260 | 0 | 1 | 12 | 0,8 | 2 | 0,1 | 16 | 17 | 1,1 | 1 | 0 |
-| Metod Jurhar | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| Remus Guțea | M | 15 | 1253 | 6 | 0 | 33 | 2,2 | 17 | 1,1 | 6 | 34 | 2,3 | 1 | 0 |
-| Denis Haruț | D | 14 | 1156 | 0 | 0 | 2 | 0,1 | 2 | 0,1 | 7 | 7 | 0,5 | 1 | 0 |
+| Metod Jurhar | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| Alexandru Șuteu | D | 16 | 1350 | 0 | 1 | 12 | 0,8 | 2 | 0,1 | 16 | 18 | 1,1 | 1 | 0 |
+| Remus Guțea | M | 16 | 1343 | 6 | 0 | 36 | 2,2 | 17 | 1,1 | 6 | 37 | 2,3 | 1 | 0 |
+| Denis Haruț | D | 15 | 1193 | 0 | 0 | 2 | 0,1 | 2 | 0,1 | 7 | 7 | 0,5 | 1 | 0 |
+| Radu Crişan | D | 13 | 1141 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 14 | 3 | 0,2 | 5 | 0 |
 | Ion Gheorghe | M | 15 | 1094 | 0 | 4 | 11 | 0,7 | 8 | 0,5 | 18 | 10 | 0,7 | 5 | 1 |
-| Radu Crişan | D | 12 | 1051 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 13 | 3 | 0,2 | 5 | 0 |
-| Mihael Onișa | D | 14 | 944 | 0 | 1 | 5 | 0,4 | 2 | 0,1 | 7 | 4 | 0,3 | 2 | 0 |
-| Daniel Dumbrăvanu | D | 14 | 941 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 10 | 2 | 0,1 | 2 | 0 |
+| Daniel Dumbrăvanu | D | 15 | 1031 | 0 | 0 | 4 | 0,3 | 0 | 0,0 | 10 | 2 | 0,1 | 2 | 0 |
+| Mihael Onișa | M | 15 | 1006 | 0 | 1 | 5 | 0,3 | 2 | 0,1 | 7 | 4 | 0,3 | 2 | 0 |
 | Matko Babić | F | 13 | 938 | 1 | 0 | 18 | 1,4 | 8 | 0,6 | 10 | 18 | 1,4 | 2 | 0 |
 | Marvin Schieb | D | 14 | 887 | 1 | 0 | 6 | 0,4 | 2 | 0,1 | 1 | 7 | 0,5 | 0 | 0 |
-| Mihai Roman II | F | 13 | 781 | 2 | 0 | 15 | 1,2 | 5 | 0,4 | 11 | 13 | 1,0 | 2 | 1 |
-| Lovro Cvek | M | 9 | 721 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 9 | 5 | 0,6 | 0 | 0 |
-| Matej Mamić | D | 13 | 621 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 1 | 2 | 0,2 | 0 | 0 |
-| Cristian Merloi | F | 13 | 521 | 1 | 2 | 14 | 1,1 | 9 | 0,7 | 7 | 23 | 1,8 | 1 | 0 |
+| Mihai Roman II | F | 14 | 869 | 2 | 0 | 15 | 1,1 | 5 | 0,4 | 13 | 13 | 0,9 | 2 | 1 |
+| Lovro Cvek | M | 10 | 749 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 10 | 5 | 0,5 | 0 | 0 |
+| Matej Mamić | D | 14 | 711 | 0 | 1 | 2 | 0,1 | 1 | 0,1 | 1 | 2 | 0,1 | 0 | 0 |
+| Cristian Merloi | F | 14 | 574 | 2 | 2 | 16 | 1,1 | 11 | 0,8 | 8 | 24 | 1,7 | 1 | 0 |
 | Sava Arangel Čestić | D | 5 | 388 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 1 | 6 | 1,2 | 0 | 0 |
-| Godfried Roemeratoe | M | 4 | 304 | 1 | 1 | 6 | 1,5 | 1 | 0,2 | 5 | 1 | 0,2 | 0 | 0 |
-| Adrian Chică-Roșă | F | 12 | 264 | 0 | 0 | 12 | 1,0 | 5 | 0,4 | 3 | 7 | 0,6 | 3 | 0 |
+| Adrian Chică-Roșă | M | 13 | 352 | 1 | 1 | 18 | 1,4 | 7 | 0,5 | 4 | 8 | 0,6 | 3 | 0 |
+| Godfried Roemeratoe | M | 5 | 306 | 1 | 1 | 6 | 1,2 | 1 | 0,2 | 5 | 1 | 0,2 | 0 | 0 |
+| Nuno Rodrigues | M | 7 | 144 | 1 | 0 | 3 | 0,4 | 3 | 0,4 | 2 | 2 | 0,3 | 0 | 0 |
 | David Kiki | D | 4 | 105 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 | Eduard Chioveanu | G | 1 | 94 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Florian Haită | M | 5 | 88 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
 
 ## Últimos partidos de CFR 1907 Cluj
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

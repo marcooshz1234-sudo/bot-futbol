@@ -1,10 +1,10 @@
 # Stoke City – Birmingham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · bet365 Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:25_
+_Actualizadas: 20/11 20:06_
 
 - **1X2:** 1 **2.88**  ·  X **3.30**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.33**  ·  X2 **1.40**

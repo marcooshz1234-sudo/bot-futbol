@@ -1,7 +1,7 @@
 # Olympiakos Piraeus – AC Milan
 **Europa League** · League Stage - 5 · 26/11/2026 18:45 (hora España) · Georgios Karaiskakis Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 08:28_

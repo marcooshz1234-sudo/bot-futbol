@@ -1,7 +1,7 @@
 # Lille – Bayern München
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 08:27_

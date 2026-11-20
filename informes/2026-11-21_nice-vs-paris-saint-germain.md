@@ -1,10 +1,10 @@
 # Nice – Paris Saint Germain
 **Ligue 1** · Regular Season - 11 · 21/11/2026 17:15 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:25_
+_Actualizadas: 20/11 20:06_
 
 - **1X2:** 1 **6.25**  ·  X **5.00**  ·  2 **1.42**
 - **Doble oportunidad:** 1X **2.75**  ·  12 **1.17**  ·  X2 **1.12**
@@ -130,7 +130,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Nice:** M. Abdelmonem (baja, Muscle Injury); L. Abergel (baja, Knee Injury); M. Bombito (baja, Leg Injury); A. Mendy (baja, Knee Injury)
-**Paris Saint Germain:** K. Kvaratskhelia (baja, Knee Injury); A. Longoni (baja, Thigh Injury); M. Akliouche (duda, Calf Injury); D. Doue (duda, Hamstring Injury); D. Fernandez (duda, Muscle Injury); Marquinhos (duda, Thigh Injury)
+**Paris Saint Germain:** K. Kvaratskhelia (baja, Knee Injury); A. Longoni (baja, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-21 · Ligue 1: Nice 0-4 Paris Saint Germain

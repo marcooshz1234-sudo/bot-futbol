@@ -1,14 +1,14 @@
 # FC Levante Badalona W – Deportivo de La Coruña W
 **Liga F** · Regular Season - 12 · 21/11/2026 12:00 (hora España) · Estadi Municipal de Badalona
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:25_
+_Actualizadas: 20/11 20:05_
 
-- **1X2:** 1 **2.05**  ·  X **3.40**  ·  2 **3.00**
-- **Doble oportunidad:** 1X **1.30**  ·  12 **1.25**  ·  X2 **1.62**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **1X2:** 1 **2.15**  ·  X **3.40**  ·  2 **2.88**
+- **Doble oportunidad:** 1X **1.33**  ·  12 **1.25**  ·  X2 **1.57**
+- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **8.50**
     - 1,5: más **1.25** · menos **3.75**
@@ -18,30 +18,30 @@ _Actualizadas: 20/11 08:25_
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.11**
-- **Goles del local:**
-    - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **8.50** · menos **1.05**
-- **Goles del visitante:**
-    - 0,5: más **1.36** · menos **3.00**
     - 1,5: más **2.62** · menos **1.44**
     - 2,5: más **6.00** · menos **1.11**
-- **1X2 descanso:** 1 **2.60**  ·  X **2.25**  ·  2 **3.60**
+- **Goles del local:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.17**
+    - 3,5: más **8.50** · menos **1.05**
+- **Goles del visitante:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **6.00** · menos **1.11**
+- **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.40**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
-    - 1,5: más **2.00** · menos **1.73**
-    - 2,5: más **4.33** · menos **1.20**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **1.62**  ·  2 **2.00**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **4.33**
-- **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
-- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **3.75**  ·  Draw/No **12.00**  ·  Away/No **6.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
+- **To Win Either Half:** 1 **1.67**  ·  2 **2.00**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **4.00**
+- **Win Both Halves:** 1 **7.00**  ·  2 **11.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.00**  ·  Draw/No **11.00**  ·  Away/No **5.50**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.50**
 
 ## Estadísticas de equipo
 | | FC Levante Badalona W (total) | FC Levante Badalona W en casa | Deportivo de La Coruña W (total) | Deportivo de La Coruña W fuera |
