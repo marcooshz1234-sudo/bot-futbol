@@ -9231,7 +9231,14 @@
     "partido_id": 1575221,
     "solo_en": [
       "instagram"
-    ]
+    ],
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-20-pick-tip-1446-e",
@@ -9254,7 +9261,16 @@
       "threads"
     ],
     "texto_threads": "Otro pick que nos gusta mucho familia 🔥\n\n🍀 Ambos marcan en Bayern–Colonia @1,75",
-    "porque_threads": "⚽ Bayern Múnich – Colonia · 20:30 (Bundesliga)\n\n👨‍💻 En el 73% de los partidos del Bayern marcan los dos: solo deja la portería a cero en el 27%.\n👨‍💻 El Colonia solo se ha quedado sin marcar en el 18% de sus partidos.\n👨‍💻 El Bayern ataca con todo y siempre deja algún hueco atrás: encaja 1 gol por partido."
+    "porque_threads": "⚽ Bayern Múnich – Colonia · 20:30 (Bundesliga)\n\n👨‍💻 En el 73% de los partidos del Bayern marcan los dos: solo deja la portería a cero en el 27%.\n👨‍💻 El Colonia solo se ha quedado sin marcar en el 18% de sus partidos.\n👨‍💻 El Bayern ataca con todo y siempre deja algún hueco atrás: encaja 1 gol por partido.",
+    "enviado": "2026-11-20T16:30",
+    "mensaje_id": 562,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-20-pick-tip-1448",
