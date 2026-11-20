@@ -92,16 +92,18 @@
   "prensa-1570460-7d5af23c": "2026-11-20T00:58",
   "prensa-1570460-c1246914": "2026-11-20T00:58",
   "prensa-1570461-35fcdbd8": "2026-11-20T00:58",
-  "prensa-1552823-4a1566f2": "2026-11-20T00:58"
+  "prensa-1552823-4a1566f2": "2026-11-20T00:58",
+  "prensa-1552827-PAubameyang": "2026-11-20T01:57",
+  "prensa-1575221-PAubameyang": "2026-11-20T01:57"
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Dayot Upamecano - 1",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (combi-multi, loca-th-noche-2330-escudos, loca-th-0500-hora)"
-  },
-  {
    "clave": "repe-2026-11-20-1608379|Double Chance|Home/Draw",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (combi-multi, loca-th-0500-hora, loca-th-1200-hora)"
+  },
+  {
+   "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Dayot Upamecano - 1",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (combi-multi, loca-th-noche-2330-escudos, loca-th-0500-hora)"
   },
   {
    "clave": "repe-2026-11-20-1570454|Match Winner|Home",
@@ -116,20 +118,28 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (estrella-1575221, loca-th-noche-2100-x100, loca-th-noche-2330-escudos)"
   },
   {
+   "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
+  },
+  {
    "clave": "repe-2026-11-20-1551380|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
+   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
@@ -142,14 +152,6 @@
   {
    "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
@@ -184,6 +186,14 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (picks-manana, combi-500, combi-tres)"
   },
   {
+   "clave": "prensa-1552827-PAubameyang",
+   "t": "📰 Estac Troyes–Le Havre: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 11 post(s) de este partido: combi-tres, combi-multi, loca-th-0400-x50, loca-th-0600-tapados, loca-th-0700-x500, loca-th-0800-lista-corners, loca-th-0900-empates, loca-th-1000-reto, loca-th-1600-escudos, loca-th-1830-x1000, loca-th-1900-lista-corners"
+  },
+  {
+   "clave": "prensa-1575221-PAubameyang",
+   "t": "📰 Bayern München–1. FC Köln: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 10 post(s) de este partido: combi-multi, estrella-1575221, loca-th-0200-lista-ambos, loca-th-0400-x50, loca-th-0500-hora, loca-th-0800-lista-corners, loca-th-1200-hora, loca-th-1830-x1000, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
+  },
+  {
    "clave": "prensa-1570454-387117e9",
    "t": "📰 Athletic Club–Espanyol: «Terzic confirma la baja de Vivian antes del Athletic-Espanyol» (Athletic Club Info) · tenemos 9 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
   },
@@ -196,8 +206,18 @@
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-20T01:47",
+ "revisado": "2026-11-20T01:57",
  "historial": [
+  {
+   "hora": "2026-11-20T01:57",
+   "t": "📰 Estac Troyes–Le Havre: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 11 post(s) de este partido: combi-tres, combi-multi, loca-th-0400-x50, loca-th-0600-tapados, loca-th-0700-x500, loca-th-0800-lista-corners, loca-th-0900-empates, loca-th-1000-reto, loca-th-1600-escudos, loca-th-1830-x1000, loca-th-1900-lista-corners",
+   "k": "prensa-1552827-PAubameyang"
+  },
+  {
+   "hora": "2026-11-20T01:57",
+   "t": "📰 Bayern München–1. FC Köln: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 10 post(s) de este partido: combi-multi, estrella-1575221, loca-th-0200-lista-ambos, loca-th-0400-x50, loca-th-0500-hora, loca-th-0800-lista-corners, loca-th-1200-hora, loca-th-1830-x1000, loca-th-1900-lista-corners, loca-th-1930-ganaambos",
+   "k": "prensa-1575221-PAubameyang"
+  },
   {
    "hora": "2026-11-20T00:58",
    "t": "📰 Athletic Club–Espanyol: «Grave lesión en el RCD Espanyol, rotura de cruzado y adiós a la temporada» (El Desmarque) · tenemos 10 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0100-ganaambos, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos",
@@ -487,16 +507,6 @@
    "hora": "2026-11-19T00:17",
    "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0030-x100, loca-th-0600-tapados)",
    "k": "repe-2026-11-19-1638338|Double Chance|Draw/Away"
-  },
-  {
-   "hora": "2026-11-19T00:17",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-1700-escudos)",
-   "k": "repe-2026-11-19-1638286|Away Player Shots|Marie-Antoinette Katoto - 3"
-  },
-  {
-   "hora": "2026-11-19T00:17",
-   "t": "🔁 19/11: el mismo pronóstico en 3 posts (loca-th-0500-hora, loca-th-1130-hora, loca-th-2000-tiros)",
-   "k": "repe-2026-11-19-1638297|Home Player Shots|Nicoli Kerolin - 4"
   }
  ]
 }
