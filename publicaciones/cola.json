@@ -9578,5 +9578,45 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-20-rojo-auto-2026-11-20-pick-seguro-2",
+    "fecha": "2026-11-20T23:13",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Gana el Athletic Club (Athletic Club – Espanyol 0–1)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-20-pick-seguro-2",
+    "requiere_ok": true,
+    "sin_instagram": true
+  },
+  {
+    "id": "2026-11-20-casi-auto-2026-11-20-loca-th-noche-2100-x100",
+    "fecha": "2026-11-20T23:13",
+    "texto": "😱 SE NOS ESCAPÓ POR UNA 😱\n\n💎 Combi x44,13 · 6 de 7 ✅\n❌ Solo falló: Espanyol hace más de 2,5 córners\n\n🔥 La próxima entra. ¿Os subís? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "casi",
+    "casi_de": "2026-11-20-loca-th-noche-2100-x100",
+    "requiere_ok": true,
+    "solo_en": [
+      "threads"
+    ]
+  },
+  {
+    "id": "2026-11-20-verde-auto-2026-11-20-loca-th-1300-tapados",
+    "fecha": "2026-11-20T23:13",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ FC Voluntari o empate\n✅ Hobro o empate\n✅ Leganes o empate\n✅ Espanyol o empate\n\n📈 Cuota @20,07",
+    "foto": "publicaciones/media/2026-11-20-verde-auto-2026-11-20-loca-th-1300-tapados.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-20-loca-th-1300-tapados",
+    "solo_en": [
+      "threads"
+    ]
   }
 ]
