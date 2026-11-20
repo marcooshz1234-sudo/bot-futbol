@@ -77,8 +77,12 @@ def buscar(h, nombre):
     return h[cands[0]] if len(cands) == 1 else None
 
 
+def _teams(pid):
+    return ((leer(DATOS / "proximos" / f"{pid}.json", {}) or {}).get("partido") or {}).get("teams") or {}
+
+
 def equipos_partido(pid):
-    t = ((leer(DATOS / "proximos" / f"{pid}.json", {}) or {}).get("partido") or {}).get("teams") or {}
+    t = _teams(pid)
     return {str((t.get("home") or {}).get("id")), str((t.get("away") or {}).get("id"))} - {"None"}
 
 
@@ -120,7 +124,10 @@ def patas_jugador(p, h):
             x = candidata(f"{p['id']}|{m}|{o}", f"{nombre}: {plant.format(n=umbral, s='' if umbral == 1 else 's')}", c,
                           (cumple + 1) / (de + 2) + 0.05,   # suavizado (5/6 → 0,80) + 0,05 por ser titular fijo
                           f"cumple {cumple}/{de} siendo titular · {coma(p90)} por 90' ({'-'.join(map(str, vals))})")
-            if x:
+            if x:   # 20/11 (Marcos: «saber rápido de qué partido es cada línea»): equipo del jugador
+                t = _teams(p["id"])
+                x["equipo"] = next((e.get("name") for e in (t.get("home") or {}, t.get("away") or {})
+                                    if str(e.get("id")) == hj[-1]["eq"]), None)
                 out.append(x)
     return out
 
@@ -267,7 +274,9 @@ def generar(desde, hasta, partidos=None, h=None, max_combis=6, fuera=(), empieza
             if cands:
                 b = max(cands, key=lambda x: x["nota"])
                 ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
-                patas.append(dict(b, partido=f"{p['local']}–{p['visitante']}", hora=ini.strftime("%Y-%m-%dT%H:%M")))
+                t = _teams(p["id"])
+                patas.append(dict(b, partido=f"{p['local']}–{p['visitante']}", hora=ini.strftime("%Y-%m-%dT%H:%M"),
+                                  logo_l=(t.get("home") or {}).get("logo"), logo_v=(t.get("away") or {}).get("logo")))
         if len(patas) < 4:
             continue
         patas = sorted(sorted(patas, key=lambda x: -x["nota"])[:MAX_PATAS], key=lambda x: x["hora"])

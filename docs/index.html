@@ -186,8 +186,10 @@ function vCombis(){
   let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana"}</b><div class="mut" style="margin-top:4px">Un partido por pata, ~@1,50. Se actualiza sola y quita lo que ya se ha subido. Monta las que quieras en bet365 (las cuotas bajan con los días) y manda la captura: se sube a Threads, X y Telegram (1 al día).</div></div>`;
   L.forEach((c,i) => {
     h += `<div class="card" style="margin-bottom:10px"><div style="display:flex;justify-content:space-between"><b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b><b style="color:var(--ok)">@${coma(c.cuota)}</b></div>`;
-    c.patas.forEach(x => { const f = new Date(x.hora);
-      h += `<div style="margin-top:10px"><div style="font-size:13px"><span class="mut">${dias[f.getDay()]} ${x.hora.slice(11,16)} · </span><b style="color:#3b82f6">${esc(x.partido)}</b></div><div><b>${esc(x.texto)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
+    c.patas.forEach((x,k) => { const f = new Date(x.hora);   // 20/11: el partido arriba, grande, con escudos, para saber rápido de cuál es
+      const esc2 = x.logo_l ? `<img src="${esc(x.logo_l)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain"><img src="${esc(x.logo_v)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain">` : "⚽";
+      const txt = x.equipo && !String(x.texto).includes(x.equipo) ? String(x.texto).replace(/^([^:]+):/, `$1 (${x.equipo}):`) : x.texto;
+      h += `<div style="margin-top:10px;padding-top:10px;${k?"border-top:1px solid var(--line)":""}"><div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">${esc2}<b style="color:#3b82f6;font-size:16px">${esc(x.partido)}</b><span class="mut" style="font-size:12px">· ${dias[f.getDay()]} ${x.hora.slice(11,16)}</span></div><div style="margin-top:4px"><b>${esc(txt)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
     h += `</div>`; });
   return h;
 }
