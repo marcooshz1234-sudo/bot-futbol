@@ -8985,9 +8985,142 @@
     "motivo": "Toe Injury"
    }
   ],
-  "1647587": []
+  "1647587": [],
+  "1570027": [],
+  "1557475": [
+   {
+    "equipo": 34,
+    "jugador": "E. Jaouen",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 34,
+    "jugador": "Joelinton",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 42,
+    "jugador": "M. Dowman",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 42,
+    "jugador": "B. Saka",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 42,
+    "jugador": "M. Zubimendi",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1570462": [
+   {
+    "equipo": 536,
+    "jugador": "J. A. Carmona",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 536,
+    "jugador": "A. Gonzalez",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "Marcao",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 536,
+    "jugador": "M. Sierra",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 543,
+    "jugador": "F. Bernal",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 543,
+    "jugador": "J. Morante",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 543,
+    "jugador": "C. Hernandez",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   }
+  ],
+  "1575228": [
+   {
+    "equipo": 174,
+    "jugador": "T. Becker",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "R. Schallenberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "M. Wober",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "R. Gosens",
+    "tipo": "Questionable",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 174,
+    "jugador": "L. Vozar",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 172,
+    "jugador": "J. Diehl",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 172,
+    "jugador": "L. Jaquez",
+    "tipo": "Missing Fixture",
+    "motivo": "Ribs Injury"
+   },
+   {
+    "equipo": 172,
+    "jugador": "A. Stiller",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 172,
+    "jugador": "D. Zagadou",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ]
  },
- "ultima": "2026-11-20T12:07:18.762633+01:00",
+ "ultima": "2026-11-20T12:40:44.195286+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
