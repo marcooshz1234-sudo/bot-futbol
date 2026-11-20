@@ -7547,9 +7547,44 @@
     "motivo": "Back Injury"
    }
   ],
-  "1551381": []
+  "1551381": [],
+  "1565304": [],
+  "1570453": [
+   {
+    "equipo": 542,
+    "jugador": "F. Garces",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 542,
+    "jugador": "M. Rodriguez",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 544,
+    "jugador": "P. Aubameyang",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 544,
+    "jugador": "Z. Eddahchouri",
+    "tipo": "Questionable",
+    "motivo": "Wrist Injury"
+   },
+   {
+    "equipo": 544,
+    "jugador": "B. Ede",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   }
+  ],
+  "1570034": [],
+  "1551382": []
  },
- "ultima": "2026-11-20T07:56:37.398121+01:00",
+ "ultima": "2026-11-20T08:29:22.394374+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
