@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 23:17",
+ "actualizado": "2026-11-20 23:38",
  "redes": {
   "instagram": {
    "seguidores": 53,
@@ -58,9 +58,9 @@
  "total_hoy": 24,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:30",
-  "dia": "2026-11-20",
-  "titulo": "Combi nec nijmegen – psv eindhoven"
+  "hora": "00:00",
+  "dia": "2026-11-21",
+  "titulo": "Laliga - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -243,6 +243,11 @@
   }
  },
  "tipos_instagram": {
+  "Otros (reel)": {
+   "posts": 47,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Combi loca (reel)": {
    "posts": 1,
    "likes_media": 0.0,
@@ -250,11 +255,6 @@
   },
   "Combi de partido (reel)": {
    "posts": 1,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Otros (reel)": {
-   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
