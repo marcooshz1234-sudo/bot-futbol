@@ -9521,5 +9521,31 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-20-rojo-auto-2026-11-20-pick-seguro",
+    "fecha": "2026-11-20T22:52",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ FC Andorra marca 2 o más (FC Andorra – Leganes 1–3)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-20-pick-seguro",
+    "requiere_ok": true,
+    "sin_instagram": true
+  },
+  {
+    "id": "2026-11-20-verde-auto-2026-11-20-loca-th-1200-hora",
+    "fecha": "2026-11-20T22:52",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Leganes marca\n✅ Dayot Upamecano: 1+ tiros\n✅ Trento o empate\n\n📈 Cuota @3,02\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-20-verde-auto-2026-11-20-loca-th-1200-hora.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-20-loca-th-1200-hora",
+    "solo_en": [
+      "threads"
+    ]
   }
 ]

@@ -2749,11 +2749,11 @@
     "total": 28,
     "cuentas": {
       "verde": 3,
-      "rojo": 15,
+      "rojo": 18,
       "pendiente": 0,
-      "sin_datos": 10,
+      "sin_datos": 7,
       "no_jugo": 0,
-      "sin_resolver": 10
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -2903,19 +2903,19 @@
       {
         "id": "2026-11-20-loca-th-noche-2200-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN MAÑANA ⚽",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-20-loca-th-noche-2230-duelo",
         "titulo": "🥊 EL DUELO DE TIROS 🥊",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.06
       },
       {
         "id": "2026-11-20-loca-th-noche-2300-x50",
         "titulo": "🧨 LA DE x24,52 🧨",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 24.52
       },
       {
@@ -2926,22 +2926,22 @@
       }
     ],
     "picks": {
-      "verde": 32,
-      "rojo": 23,
+      "verde": 35,
+      "rojo": 27,
       "total": 88
     },
-    "texto": "📊 BALANCE DEL JUEVES: 3 DE 18 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS FEMENINA - GANADORES\n❌ 💯 LA CENTENARIA x10,85 💯 · 10,85\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · faltan datos\n❌ 🤑 COMBI x24,20 🤑 · 24,20\n❌ ⏰ TODO A LAS 21:00 ⏰ · 2,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 7,02\n❌ 🤪 LA LOCURA DE x91,37 🤪 · 91,37\n❔ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 1,95 · faltan datos\n✅ 🪜 Reto escalera · Día 3/7\n❔ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · faltan datos\n❌ 🤑💸 LA LOCURA DE x156 🤑💸\n❔ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 3,70 · faltan datos\n❔ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · faltan datos\n✅ Os dejo otro pick que pinta muy bien 👀\n❔ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · faltan datos\n❌ 🤑 COMBI POR 12,83 🤑 · 12,83\n❌ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 10,79\n❌ Vamos con el pick de hoy familia 🔥\n✅ Vamos con el pick de la tarde 👇\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 48,75\n❌ Combi de la noche de Champions femenina 🔥\n❔ 🎰 LA CENTENARIA x28,93 🎰 · 28,93 · faltan datos\n❔ ⚽ AMBOS MARCAN MAÑANA ⚽ · faltan datos\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,06 · faltan datos\n❔ 🧨 LA DE x24,52 🧨 · 24,52 · faltan datos\n❌ 🚨 COMBI BAYERN MÜNCHEN – 1. FC KÖLN 🚨 · 20,87\n\n✅ 3 acertadas · ❌ 15 falladas · ⏳ 10 sin resolver"
+    "texto": "📊 BALANCE DEL JUEVES: 3 DE 21 EN VERDE 📊\n\n❌ 🏆 CHAMPIONS FEMENINA - GANADORES\n❌ 💯 LA CENTENARIA x10,85 💯 · 10,85\n❌ ⚽🏆 GANA Y AMBOS MARCAN 🏆⚽\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,01 · faltan datos\n❌ 🤑 COMBI x24,20 🤑 · 24,20\n❌ ⏰ TODO A LAS 21:00 ⏰ · 2,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 7,02\n❌ 🤪 LA LOCURA DE x91,37 🤪 · 91,37\n❔ 🎯 COMBI DE TIROS · PARIS FC (FEM.) vs KØGE (FEM.) 🎯 · 1,95 · faltan datos\n✅ 🪜 Reto escalera · Día 3/7\n❔ ⏳ TODO A LAS 21:00 ⏳ · 2,74 · faltan datos\n❌ 🤑💸 LA LOCURA DE x156 🤑💸\n❔ 🔥 COMBI AUSTRIA WIEN (FEM.) – BAYERN MUNICH (FEM.) 🔥 · 3,70 · faltan datos\n❔ 🔥 COMBI PARIS FC (FEM.) – KØGE (FEM.) 🔥 · 2,72 · faltan datos\n✅ Os dejo otro pick que pinta muy bien 👀\n❔ 🤺 EL DUELO DE TIROS 🤺 · 2,06 · faltan datos\n❌ 🤑 COMBI POR 12,83 🤑 · 12,83\n❌ 🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨 · 10,79\n❌ Vamos con el pick de hoy familia 🔥\n✅ Vamos con el pick de la tarde 👇\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 48,75\n❌ Combi de la noche de Champions femenina 🔥\n❔ 🎰 LA CENTENARIA x28,93 🎰 · 28,93 · faltan datos\n❌ ⚽ AMBOS MARCAN MAÑANA ⚽\n❌ 🥊 EL DUELO DE TIROS 🥊 · 2,06\n❌ 🧨 LA DE x24,52 🧨 · 24,52\n❌ 🚨 COMBI BAYERN MÜNCHEN – 1. FC KÖLN 🚨 · 20,87\n\n✅ 3 acertadas · ❌ 18 falladas · ⏳ 7 sin resolver"
   },
   "2026-11-20": {
     "dia": "2026-11-20",
     "total": 31,
     "cuentas": {
       "verde": 3,
-      "rojo": 12,
+      "rojo": 19,
       "pendiente": 6,
-      "sin_datos": 10,
+      "sin_datos": 3,
       "no_jugo": 0,
-      "sin_resolver": 16
+      "sin_resolver": 9
     },
     "combis": [
       {
@@ -2965,13 +2965,13 @@
       {
         "id": "2026-11-20-loca-th-0200-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN HOY ⚽",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-20-loca-th-0300-duelo",
         "titulo": "🤺 EL DUELO DE TIROS 🤺",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.21
       },
       {
@@ -2983,7 +2983,7 @@
       {
         "id": "2026-11-20-loca-th-0500-hora",
         "titulo": "⏰ TODO A LAS 20:30 ⏰",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 2.82
       },
       {
@@ -3019,19 +3019,19 @@
       {
         "id": "2026-11-20-pick-seguro",
         "titulo": "Pick de hoy, con datos detrás 📊",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-20-escalera",
         "titulo": "🪜 Reto escalera · Día 4/7",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
         "id": "2026-11-20-loca-th-1100-tiros",
         "titulo": "🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 9.53
       },
       {
@@ -3061,7 +3061,7 @@
       {
         "id": "2026-11-20-loca-th-1630-escudos",
         "titulo": "🚨 COMBI FC ANDORRA – LEGANES 🚨",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 5.59
       },
       {
@@ -3132,10 +3132,10 @@
       }
     ],
     "picks": {
-      "verde": 20,
-      "rojo": 14,
+      "verde": 27,
+      "rojo": 28,
       "total": 100
     },
-    "texto": "📊 BALANCE DEL VIERNES: 3 DE 15 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n❔ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · faltan datos\n❌ 🎰 COMBI x28,12 🎰 · 28,12\n❔ ⏰ TODO A LAS 20:30 ⏰ · 2,82 · faltan datos\n❔ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79 · faltan datos\n❌ 🧨 COMBI x43,74 🧨 · 43,74\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🤝 LA COMBI DE LOS EMPATES 🤝 · 32,67\n❌ 💶 RETO: DE 1€ A 78,94€ 💶 · 78,94\n❔ Pick de hoy, con datos detrás 📊 · faltan datos\n❔ 🪜 Reto escalera · Día 4/7 · faltan datos\n❔ 🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯 · 9,53 · faltan datos\n✅ 🚨 COMBI FC BOTOSANI – FC VOLUNTARI 🚨 · 3,20\n❌ 💥 COMBI AARHUS FREMAD – HOBRO 💥 · 3,57\n❔ 🔥 COMBI ESTAC TROYES – LE HAVRE 🔥 · 4,09 · faltan datos\n✅ Otro pick que nos gusta mucho familia 🔥\n❔ 🚨 COMBI FC ANDORRA – LEGANES 🚨 · 5,59 · faltan datos\n❌ Pick de la tarde, familia 👇\n⏳ 🚨 COMBI ATHLETIC CLUB – ESPANYOL 🚨 · 4,41 · pendiente\n✅ Pick que no podía faltar hoy ⚽\n❌ 🤑 LA MILLONARIA x93,04 🤑 · 93,04\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 88,87\n❔ Pick para esta noche 👇 · faltan datos\n⏳ Otro pick para la noche ⚽ · pendiente\n⏳ Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐ · pendiente\n⏳ 🤑 COMBI POR 29,80 🤑 · 29,80 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,40 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n\n✅ 3 acertadas · ❌ 12 falladas · ⏳ 16 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 3 DE 22 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 2,21\n❌ 🎰 COMBI x28,12 🎰 · 28,12\n❌ ⏰ TODO A LAS 20:30 ⏰ · 2,82\n❔ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79 · faltan datos\n❌ 🧨 COMBI x43,74 🧨 · 43,74\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🤝 LA COMBI DE LOS EMPATES 🤝 · 32,67\n❌ 💶 RETO: DE 1€ A 78,94€ 💶 · 78,94\n❌ Pick de hoy, con datos detrás 📊\n❌ 🪜 Reto escalera · Día 4/7\n❌ 🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯 · 9,53\n✅ 🚨 COMBI FC BOTOSANI – FC VOLUNTARI 🚨 · 3,20\n❌ 💥 COMBI AARHUS FREMAD – HOBRO 💥 · 3,57\n❔ 🔥 COMBI ESTAC TROYES – LE HAVRE 🔥 · 4,09 · faltan datos\n✅ Otro pick que nos gusta mucho familia 🔥\n❌ 🚨 COMBI FC ANDORRA – LEGANES 🚨 · 5,59\n❌ Pick de la tarde, familia 👇\n⏳ 🚨 COMBI ATHLETIC CLUB – ESPANYOL 🚨 · 4,41 · pendiente\n✅ Pick que no podía faltar hoy ⚽\n❌ 🤑 LA MILLONARIA x93,04 🤑 · 93,04\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 88,87\n❔ Pick para esta noche 👇 · faltan datos\n⏳ Otro pick para la noche ⚽ · pendiente\n⏳ Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐ · pendiente\n⏳ 🤑 COMBI POR 29,80 🤑 · 29,80 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,40 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n\n✅ 3 acertadas · ❌ 19 falladas · ⏳ 9 sin resolver"
   }
 }
