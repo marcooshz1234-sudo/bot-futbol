@@ -9087,12 +9087,12 @@
       "1647583|Win Both Halves|Home"
     ],
     "cuotas": [
+      1.8,
       1.83,
       1.83,
-      1.83,
-      2.0,
+      2.1,
       1.95,
-      1.83
+      1.73
     ],
     "solo_en": [
       "threads"
@@ -9103,7 +9103,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-20T05:48"
   },
   {
     "id": "2026-11-20-loca-th-0800-lista-corners",
