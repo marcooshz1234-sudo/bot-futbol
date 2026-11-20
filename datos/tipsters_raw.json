@@ -2482,28 +2482,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87262",
-   "fecha": "2026-11-18T14:45",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-18T15:07"
-  },
-  {
-   "id": "-1002463340479/87261",
-   "fecha": "2026-11-18T14:45",
-   "texto": "⚽️🏆👑COMBINADA 500 COPA DEL REY ACERTADA",
-   "foto": false,
-   "visto": "2026-11-18T15:07"
-  },
-  {
-   "id": "-1002463340479/87263",
-   "fecha": "2026-11-18T14:49",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-18T15:07",
-   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87263.jpg"
-  },
-  {
    "id": "-1002463340479/87264",
    "fecha": "2026-11-18T14:51",
    "texto": "⚽️🇪🇸🏆🇪🇸🏆🇪🇸🏆⚽️",
@@ -3972,6 +3950,29 @@
    "texto": "❗️❗️❗️❗️❗️❗️❗️❗️\n\n❗️❗️❗️❗️❗️❗️",
    "foto": false,
    "visto": "2026-11-20T01:57"
+  },
+  {
+   "id": "-1002463340479/87463",
+   "fecha": "2026-11-20T02:01",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-20T02:10",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87463.jpg"
+  },
+  {
+   "id": "-1002463340479/87464",
+   "fecha": "2026-11-20T02:03",
+   "texto": "🔘 STAKE 3🎾\n🏆 ATP FINALS\n🍀 MÁS DE 8,5 JUEGOS EN EL PRIMER SET Y DANIIL MEDVEDEV GANA EL PARTIDO\n🔞 Apuesta con responsabilidad\nREGÍSTRATE, JUEGA 30€ Y GANA 200€ DESDE AQUÍ",
+   "foto": false,
+   "visto": "2026-11-20T02:10"
+  },
+  {
+   "id": "-1002463340479/87465",
+   "fecha": "2026-11-20T02:09",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-20T02:10",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87465.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -9810,20 +9811,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16295",
-   "fecha": "2026-11-12T00:38",
-   "texto": "YA EN DIRECTO EN TWITCH 🎮\n\nhttps://www.twitch.tv/pabloanalista",
-   "foto": false,
-   "visto": "2026-11-12T00:48"
-  },
-  {
-   "id": "-1001393609245/16294",
-   "fecha": "2026-11-12T00:38",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-12T00:48"
-  },
-  {
    "id": "-1001393609245/16298",
    "fecha": "2026-11-12T03:23",
    "texto": "💔💔💔💔💔💔💔💔💔💔💔",
@@ -11292,6 +11279,20 @@
    "texto": "ÚLTIMAS EDICIONES 111/120 ✅\n\n13/13 EN NOVIEMBRE ✅",
    "foto": false,
    "visto": "2026-11-20T01:46"
+  },
+  {
+   "id": "-1001393609245/16499",
+   "fecha": "2026-11-20T02:04",
+   "texto": "YA EN DIRECTO EN TWITCH 🎮\n\nA VIBRAR LA GRATUITAAAAAAA\n\nhttps://www.twitch.tv/pabloanalista",
+   "foto": false,
+   "visto": "2026-11-20T02:10"
+  },
+  {
+   "id": "-1001393609245/16498",
+   "fecha": "2026-11-20T02:04",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-20T02:10"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
