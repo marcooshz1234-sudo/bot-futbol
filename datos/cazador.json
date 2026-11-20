@@ -47,7 +47,7 @@
    "justa": 2.0,
    "ev": 0.027,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -58,7 +58,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 6.5
+   "edad_h": 6.8
   },
   {
    "local": "Aarhus Fremad",
@@ -69,7 +69,7 @@
    "justa": 1.82,
    "ev": 0.006,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -80,7 +80,7 @@
    "justa": 1.79,
    "ev": 0.005,
    "fuente": "las otras casas",
-   "edad_h": 6.5
+   "edad_h": 6.8
   },
   {
    "local": "Edf Logrono W",
@@ -91,11 +91,22 @@
    "justa": 1.81,
    "ev": -0.008,
    "fuente": "las otras casas",
-   "edad_h": 6.5
+   "edad_h": 6.8
+  },
+  {
+   "local": "Tenerife",
+   "visitante": "Mallorca",
+   "inicio": "2026-11-21T21:00",
+   "texto": "Tenerife marca",
+   "cuota": 1.5,
+   "justa": 1.51,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 6.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-20T14:54",
+  "hora": "2026-11-20T15:14",
   "revisadas": 0,
   "mejor": null
  },
