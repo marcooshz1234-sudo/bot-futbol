@@ -76,6 +76,15 @@ def main():
         es_combi = es_combi or (re.search(r"-loca-th-", p["id"]) and not re.search(r"ganadores", p["id"]))   # 10/11: el pick del día ya no lleva «PICK DEL DÍA» en el título
         if p["id"] in hechos or p.get("estado") != "verde" or not es_combi or NO_ES.search(p["titulo"]):
             continue
+        # 20/11 (Marcos: «el ambos marcan acertado en Telegram ha salido dos veces»): la copia partida («…» para
+        # Instagram y «…-e» para Telegram/Threads) daba DOS verdes en Telegram (Kolding y Bayern). El verde lo da
+        # solo el post base, que ya lo manda a todas las redes de la familia (y el comentario en Threads).
+        base_ = re.sub(r"-[et]$", "", p["id"])
+        if base_ != p["id"] and base_ in originales and not originales[base_].get("caducada") \
+                and originales[base_].get("solo_en") == ["instagram"]:
+            print("Verde de la familia: lo da", base_, "→ sin", p["id"])
+            hechos.add(p["id"])
+            continue
         legs = [x for x in p.get("picks", []) if x.get("estado") == "verde"]
         # 31/10: una pata anulada (partido aplazado o suspendido) no tumba la combi, como en bet365
         if not legs or not all(x.get("estado") in ("verde", "anulada") for x in p.get("picks", [])):

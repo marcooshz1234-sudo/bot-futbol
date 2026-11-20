@@ -78,6 +78,18 @@ class VerdesSeguros(unittest.TestCase):
         self.assertIn("2026-11-15-pick-tip-1446-e", out)
         self.assertEqual(out["2026-11-15-pick-tip-1446-e"]["solo_en"], ["threads"])
 
+    def test_familia_partida_un_solo_verde_en_telegram(self):   # 20/11: Kolding y Bayern, dos verdes en Telegram
+        cola = [{"id": "2026-11-20-pick-tip-1448", "texto": "🍀 Ambos marcan en Kolding–Aalborg @1,57",
+                 "solo_en": ["instagram"], "redes": {"instagram": "1"}},
+                {"id": "2026-11-20-pick-tip-1448-e", "texto": "🍀 Ambos marcan en Kolding–Aalborg @1,57",
+                 "solo_en": ["telegram"], "enviado": "2026-11-20T17:40"}]
+        pk = [pick(texto="Ambos marcan en Kolding–Aalborg", cuota=1.57)]
+        out = self.correr([{"id": "2026-11-20-pick-tip-1448", "titulo": "Pick", "estado": "verde", "cuota": 1.57, "picks": pk},
+                           {"id": "2026-11-20-pick-tip-1448-e", "titulo": "Pick", "estado": "verde", "cuota": 1.57,
+                            "picks": [dict(pk[0], texto="Ambos marcan · Kolding IF – Aalborg")]}], cola)
+        en_tg = [k for k, v in out.items() if "telegram" in (v.get("solo_en") or ["telegram"])]
+        self.assertEqual(en_tg, ["2026-11-20-pick-tip-1448"])
+
     def test_espera_a_que_se_confirme(self):
         out = self.correr([{"id": "2026-11-12-pick-seguro", "titulo": "Pick", "estado": "verde",
                             "cuota": 1.53, "picks": [pick(definitivo=False)]}])
