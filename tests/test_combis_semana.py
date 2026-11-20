@@ -91,6 +91,22 @@ class CombisDeEquipo(unittest.TestCase):
         self.assertIn("COMBI DEL L1", CS.texto_post(c))
 
 
+class MasMercados(unittest.TestCase):
+    """20/11 (Marcos: «quiero más cosas»): más de 1,5, gol en la 2ª parte, quién saca más córners/remates, tarjetas totales."""
+    def test_mercados_nuevos(self):
+        p = partido(1, "15:00")
+        p["stats_local_casa"] = {"gf": 2.2, "gc": 1.0, "gf_2p": 1.3, "gc_2p": 0.6, "o15": "90%", "corners": 7, "corners_c": 3,
+                                 "tiros": 17, "tiros_c": 9, "amarillas": 3, "amarillas_c": 3}
+        p["stats_visitante_fuera"] = {"gf": 1.2, "gc": 1.8, "gf_2p": 0.7, "gc_2p": 1.1, "o15": "85%", "corners": 3, "corners_c": 6,
+                                      "tiros": 9, "tiros_c": 15, "amarillas": 3, "amarillas_c": 3}
+        p["cuotas_bet365"] = {"Goals Over/Under": [["Over 1.5", "1.40"]], "Goals Over/Under - Second Half": [["Over 0.5", "1.40"]],
+                              "Corners 1x2": [["Home", "1.45"]], "Shots.1x2": [["Home", "1.40"]], "Cards Over/Under": [["Over 3.5", "1.60"]]}
+        textos = {x["texto"] for x in CS.patas_equipo(p)}
+        for t in ("Más de 1,5 goles", "Gol en la 2ª parte", "L1 saca más córners", "L1 remata más que el rival",
+                  "Más de 3,5 tarjetas en el partido"):
+            self.assertIn(t, textos)
+
+
 class LigasYDestacadas(unittest.TestCase):
     """20/11 (Marcos): solo 5 grandes, europeas, copas y selecciones; si no hay nada de eso, otras ligas (nunca femenino).
     Destacadas que mezclan ligas sin repetir partido entre ellas."""
@@ -109,5 +125,9 @@ class LigasYDestacadas(unittest.TestCase):
             ds = CS.generar_destacadas("2026-11-21", "2026-11-23", partidos=ps, h=h)
         self.assertTrue(ds and ds[0]["clave"] == "todas")
         self.assertGreater(len({x["liga"] for x in ds[0]["patas"]}), 1)          # mezcla ligas
-        ids = [x["sel"].split("|")[0] for c in ds for x in c["patas"]]
-        self.assertEqual(len(ids), len(set(ids)))                                  # ningún partido en dos destacadas
+        sels = [x["sel"] for c in ds for x in c["patas"]]
+        self.assertEqual(len(sels), len(set(sels)))                                # ningún pick en dos destacadas
+        for c in ds:
+            ids = [x["sel"].split("|")[0] for x in c["patas"]]
+            self.assertEqual(len(ids), len(set(ids)))                              # un partido una vez por combi
+            self.assertTrue(0 < c["prob"] <= 1)

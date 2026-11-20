@@ -132,7 +132,7 @@ def patas_jugador(p, h):
                 continue
             cumple, de, p90, vals = s
             x = candidata(f"{p['id']}|{m}|{o}", f"{nombre}: {plant.format(n=umbral, s='' if umbral == 1 else 's')}", c,
-                          (cumple + 1) / (de + 2) + 0.05,   # suavizado (5/6 → 0,80) + 0,05 por ser titular fijo
+                          min(0.88, (cumple + 1) / (de + 2) + 0.05),   # suavizado (5/6 → 0,80) + 0,05 por ser titular fijo; tope 88 % (puede no jugar)
                           f"cumple {cumple}/{de} siendo titular · {coma(p90)} por 90' ({'-'.join(map(str, vals))})")
             if x:   # 20/11 (Marcos: «saber rápido de qué partido es cada línea»): equipo del jugador
                 t = _teams(p["id"])
@@ -261,6 +261,49 @@ def patas_equipo(p):
             k = int(float(o.split()[1]) + 0.5)
             out.append(candidata(f"{pid}|Total ShotOnGoal|{o}", f"Más de {o.split()[1].replace('.', ',')} remates a puerta en el partido",
                                  _num(cu), poisson_al_menos(lam_t, k), f"{coma(lam_t, 1)} remates a puerta de media entre los dos"))
+    # 20/11 (Marcos: «quiero más cosas»): más mercados
+    def mas_que(la, lb, N=30):   # P(X > Y) con X~Poisson(la), Y~Poisson(lb)
+        px = [math.exp(-la) * la ** i / math.factorial(i) for i in range(N)]
+        py = [math.exp(-lb) * lb ** i / math.factorial(i) for i in range(N)]
+        return sum(px[i] * sum(py[:i]) for i in range(N))
+    po15 = poisson_al_menos(lam_l + lam_v, 2)
+    a, b = _pct(sl.get("o15")), _pct(sv.get("o15"))
+    if a and b:
+        po15 = (po15 + min(a, b) / 100) / 2
+    out.append(candidata(f"{pid}|Goals Over/Under|Over 1.5", "Más de 1,5 goles", g("Goals Over/Under", "Over 1.5"), po15,
+                         f"más de 1,5 goles en el {a}% y el {b}% de sus partidos"))
+    lam_2p = (f(sl, "gf_2p") + f(sv, "gc_2p") + f(sv, "gf_2p") + f(sl, "gc_2p")) / 2
+    for o, k, txt in (("Over 0.5", 1, "Gol en la 2ª parte"), ("Over 1.5", 2, "Más de 1,5 goles en la 2ª parte")):
+        out.append(candidata(f"{pid}|Goals Over/Under - Second Half|{o}", txt, g("Goals Over/Under - Second Half", o),
+                             poisson_al_menos(lam_2p, k), f"{coma(lam_2p, 1)} goles de media en las segundas partes de los dos"))
+    cl, cv = (f(sl, "corners") + f(sv, "corners_c")) / 2, (f(sv, "corners") + f(sl, "corners_c")) / 2
+    tl, tv = (f(sl, "tiros") + f(sv, "tiros_c")) / 2, (f(sv, "tiros") + f(sl, "tiros_c")) / 2
+    al, av = (f(sl, "a_puerta") + f(sv, "a_puerta_c")) / 2, (f(sv, "a_puerta") + f(sl, "a_puerta_c")) / 2
+    for eq, k, mine, suyo, m, txt, que in ((L, "Home", cl, cv, "Corners 1x2", "saca más córners", "córners"),
+                                           (V, "Away", cv, cl, "Corners 1x2", "saca más córners", "córners"),
+                                           (L, "Home", tl, tv, "Shots.1x2", "remata más que el rival", "remates"),
+                                           (V, "Away", tv, tl, "Shots.1x2", "remata más que el rival", "remates"),
+                                           (L, "Home", al, av, "ShotOnTarget 1x2", "remata más a puerta", "remates a puerta"),
+                                           (V, "Away", av, al, "ShotOnTarget 1x2", "remata más a puerta", "remates a puerta")):
+        if mine and suyo:
+            out.append(candidata(f"{pid}|{m}|{k}", f"{eq} {txt}", g(m, k), mas_que(mine, suyo),
+                                 f"{coma(mine, 1)} {que} de {eq} contra {coma(suyo, 1)} del rival"))
+    lam_ct = (f(sl, "corners_total_1p") + f(sv, "corners_total_1p")) / 2
+    for o, cu in c.get("Total Corners (1st Half)", []):
+        mm = re.match(r"Over (\d+)$", o)
+        if mm and lam_ct:
+            out.append(candidata(f"{pid}|Total Corners (1st Half)|{o}", f"Más de {mm.group(1)} córners en la 1ª parte", _num(cu),
+                                 poisson_al_menos(lam_ct, int(mm.group(1)) + 1), f"{coma(lam_ct, 1)} córners de media en las primeras partes"))
+    lam_ts = tl + tv
+    for o, cu in c.get("Total Shots", []):
+        if o.startswith("Over ") and o.endswith(".5") and lam_ts:
+            out.append(candidata(f"{pid}|Total Shots|{o}", f"Más de {o.split()[1].replace('.', ',')} remates en el partido", _num(cu),
+                                 poisson_al_menos(lam_ts, int(float(o.split()[1]) + 0.5)), f"{coma(lam_ts, 1)} remates de media entre los dos"))
+    lam_tj = (f(sl, "amarillas") + f(sv, "amarillas_c")) / 2 + (f(sv, "amarillas") + f(sl, "amarillas_c")) / 2
+    for o, cu in c.get("Cards Over/Under", []):
+        if o.startswith("Over ") and o.endswith(".5") and lam_tj:
+            out.append(candidata(f"{pid}|Cards Over/Under|{o}", f"Más de {o.split()[1].replace('.', ',')} tarjetas en el partido", _num(cu),
+                                 poisson_al_menos(lam_tj, int(float(o.split()[1]) + 0.5)), f"{coma(lam_tj, 1)} tarjetas de media entre los dos"))
     return [x for x in out if x]
 
 
@@ -335,10 +378,12 @@ def tipo_pata(x):
         return "corners"
     if "Cards" in m:
         return "tarjetas"
+    if m in ("Shots.1x2", "ShotOnTarget 1x2"):
+        return "remates"
     return "jugador:" + x["texto"].split(":")[0]
 
 
-def generar_equipos(desde, hasta, partidos=None, h=None, fuera=(), empieza_despues=None, max_patas=4):
+def generar_equipos(desde, hasta, partidos=None, h=None, fuera=(), empieza_despues=None, max_patas=5):
     """20/11 (Marcos: «un apartado de combis de cada equipo»): por cada equipo que juega, una combi de su partido
     solo con cosas suyas (sus goles, resultado, córners, tarjetas y sus jugadores), sin lo ya subido. Para Crear apuesta."""
     if partidos is None:
@@ -375,20 +420,32 @@ def generar_equipos(desde, hasta, partidos=None, h=None, fuera=(), empieza_despu
     return out
 
 
+def _es_top(x):
+    from plantillas import GRANDES
+    return any(g in x["partido"].lower() for g in GRANDES)
+
+
+DIAS_ES = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
+JUG = lambda x: bool(x.get("lado") and ":" in x["texto"])
 DESTACADAS = (   # (clave, título, explicación, filtro de pata, nº de patas, orden)
     ("todas", "🌍 Lo mejor de todas las ligas", "La mejor pata de cada partido, mezclando ligas", lambda x: True, 7, "nota"),
     ("segura", "🛡️ La segura", "Las 3 patas más probables de todo", lambda x: True, 3, "p"),
-    ("jugadores", "🎯 Solo jugadores", "Faltas, remates y paradas de titulares fijos", lambda x: bool(x.get("lado") and ":" in x["texto"]), 5, "nota"),
-    ("goles", "⚽ Goles", "Marca, ambos marcan, más de 2,5 y gol en la 1ª parte",
+    ("top", "🏟️ Partidos top", "Solo partidos de los grandes", _es_top, 4, "nota"),
+    ("faltas", "🦵 Faltas", "Jugadores que cometen faltas siempre que son titulares", lambda x: JUG(x) and "falta" in x["texto"], 5, "nota"),
+    ("remates", "🔫 Remates y paradas", "Rematadores fijos y porteros con trabajo",
+     lambda x: JUG(x) and ("remate" in x["texto"] or "parada" in x["texto"]), 5, "nota"),
+    ("goles", "⚽ Goles", "Marca, ambos marcan, más de 1,5 / 2,5 y gol en cada parte",
      lambda x: any(m in x["sel"] for m in ("|Total - ", "|Both Teams Score|", "|Goals Over/Under")), 5, "nota"),
-    ("corners", "🚩 Córners y tarjetas", "Córners y tarjetas de equipos y partidos",
-     lambda x: "Corners" in x["sel"] or "Cards" in x["sel"], 4, "nota"),
+    ("corners", "🚩 Córners", "Córners de equipos, del partido, de la 1ª parte y quién saca más", lambda x: "Corners" in x["sel"], 4, "nota"),
+    ("tarjetas", "🟨 Tarjetas y remates de equipo", "Tarjetas y quién remata más",
+     lambda x: any(m in x["sel"] for m in ("Cards", "Shots", "ShotOnGoal", "ShotOnTarget")) and not JUG(x), 4, "nota"),
+    ("larga", "🚀 La larga", "10 patas para soñar, con lo que queda", lambda x: True, 10, "nota"),
 )
 
 
 def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_despues=None):
-    """20/11 (Marcos: «combinadas de todas las ligas en una y algo más que se te ocurra»): combis que mezclan ligas,
-    cada una de un tipo. Entre ellas no repiten partido, y cada partido una sola vez por combi."""
+    """20/11 (Marcos: «combinadas de todas las ligas en una y algo más»; «quiero más cosas»): combis que mezclan ligas,
+    cada una de un tipo, más una por día. Ninguna selección sale en dos destacadas y cada partido una vez por combi."""
     if partidos is None:
         d = leer(DATOS / "resumen_proximos.json", []) or []
         partidos = d if isinstance(d, list) else d.get("partidos", [])
@@ -405,23 +462,32 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
                  for x in patas_jugador(p, h) + patas_equipo(p) if x and x["sel"] not in set(fuera)]
         if cands:
             pool.append((p, cands))
-    usados, out = set(), []
-    for clave, titulo, expl, filtro, n, orden in DESTACADAS:
+    tipos = list(DESTACADAS)
+    dias = sorted({_dia(p) for p, _ in pool})
+    if len(dias) > 1:   # una por día, detrás de la segura
+        for d in reversed(dias):
+            wd = datetime.fromisoformat(d).weekday()
+            tipos.insert(2, (f"dia-{d}", f"📅 La del {DIAS_ES[wd]}", f"Solo partidos del {DIAS_ES[wd]} {int(d[8:])}",
+                             lambda x, d=d: x["hora"][:10] == d, 5, "nota"))
+    usadas, out = set(), []
+    for clave, titulo, expl, filtro, n, orden in tipos:
         mejores = []
         for p, cands in pool:
-            if str(p["id"]) in usados:
-                continue
-            cs = [x for x in cands if filtro(x)]
+            cs = [x for x in cands if filtro(x) and x["sel"] not in usadas]
             if cs:
                 mejores.append(max(cs, key=lambda x: x[orden]))
         patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])
         if len(patas) < min(3, n):
             continue
-        usados |= {x["sel"].split("|")[0] for x in patas}
+        usadas |= {x["sel"] for x in patas}
         tot = 1.0
         for x in patas:
             tot *= x["cuota"]
-        out.append({"clave": clave, "titulo": titulo, "expl": expl, "liga": "Varias", "patas": patas, "cuota": round(tot, 2)})
+        prob = 1.0
+        for x in patas:
+            prob *= x["p"]
+        out.append({"clave": clave, "titulo": titulo, "expl": expl, "liga": "Varias", "patas": patas, "cuota": round(tot, 2),
+                    "prob": round(prob, 3)})
     return out
 
 
