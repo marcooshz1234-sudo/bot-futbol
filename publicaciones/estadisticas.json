@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 13:52",
+ "actualizado": "2026-11-20 14:02",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3243,
-   "hoy": 13,
+   "seguidores": 3244,
+   "hoy": 14,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3243
+    3244
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3786,
- "total_hoy": 18,
+ "total": 3787,
+ "total_hoy": 19,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:00",
+  "hora": "14:30",
   "dia": "2026-11-20",
-  "titulo": "Ambos marcan hoy"
+  "titulo": "Combi de 8 partidos x24,91"
  },
  "ayer": null,
  "escalera": {
@@ -237,7 +237,7 @@
   },
   "2026-11-20": {
    "instagram": 52,
-   "threads": 3243,
+   "threads": 3244,
    "facebook": 1,
    "telegram": 490
   }
