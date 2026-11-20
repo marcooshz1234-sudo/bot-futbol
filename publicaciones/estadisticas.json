@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 04:52",
+ "actualizado": "2026-11-20 05:03",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3235,
-   "hoy": 5,
+   "seguidores": 3236,
+   "hoy": 6,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3235
+    3236
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3776,
- "total_hoy": 8,
+ "total": 3777,
+ "total_hoy": 9,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "05:00",
+  "hora": "06:00",
   "dia": "2026-11-20",
-  "titulo": "Todo a las 2030"
+  "titulo": "La de los tapados"
  },
  "ayer": null,
  "escalera": {
@@ -237,7 +237,7 @@
   },
   "2026-11-20": {
    "instagram": 52,
-   "threads": 3235,
+   "threads": 3236,
    "facebook": 1,
    "telegram": 488
   }
