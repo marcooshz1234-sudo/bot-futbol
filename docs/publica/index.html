@@ -187,16 +187,22 @@ function vCombis(){   // 20/11: se pueden plegar (toca la cabecera) y hay combis
   const BAND = {"LaLiga":"🇪🇸","Segunda División":"🇪🇸","Premier League":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Serie A":"🇮🇹","Bundesliga":"🇩🇪","Ligue 1":"🇫🇷","Eredivisie":"🇳🇱","Primeira Liga":"🇵🇹"};
   const img = u => u ? `<img src="${esc(u)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain">` : "";
   const cuando = h => { const f = new Date(h); return `${dias[f.getDay()]} ${h.slice(11,16)}` };
-  const [modo, tabs] = subTabs("combis", [["liga","🏆 Por liga"],["equipo","🛡️ Por equipo"]], "liga");
+  const X = C.destacadas || [];
+  const [modo, tabs] = subTabs("combis", [["destacadas","⭐ Destacadas"],["liga","🏆 Por liga"],["equipo","🛡️ Por equipo"]], "destacadas");
   const rango = C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana";
-  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${rango}</b><div class="mut" style="margin-top:4px">${modo==="liga" ? "Un partido por pata, ~@1,50." : "Cada equipo con cosas solo suyas en su partido (Crear apuesta; bet365 puede dar algo menos de cuota)."} Se actualiza sola y quita lo que ya se ha subido. Toca una combi para plegarla. Monta las que quieras en bet365 y manda la captura: se sube a Threads, X y Telegram (1 al día).</div></div>` + tabs;
+  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${rango}</b><div class="mut" style="margin-top:4px">${modo==="destacadas" ? "Mezclan ligas, cada una de un tipo y sin repetir partido entre ellas." : modo==="liga" ? "Un partido por pata, ~@1,50." : "Cada equipo con cosas solo suyas en su partido (Crear apuesta; bet365 puede dar algo menos de cuota)."} Se actualiza sola y quita lo que ya se ha subido. Toca una combi para plegarla. Monta las que quieras en bet365 y manda la captura: se sube a Threads, X y Telegram (1 al día).${C.otras_ligas ? `<div style="margin-top:6px;color:var(--warn)">Estos días no juegan las 5 grandes ni hay europeas, copas o selecciones: salen otras ligas.</div>` : ""}</div></div>` + tabs;
   const pata = (x, k, conPartido) => {
     const txt = x.equipo && !String(x.texto).includes(x.equipo) ? String(x.texto).replace(/^([^:]+):/, `$1 (${x.equipo}):`) : x.texto;
-    const cab = conPartido ? `<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">${x.logo_l ? img(x.logo_l)+img(x.logo_v) : "⚽"}<b style="color:#3b82f6;font-size:16px">${esc(x.partido)}</b><span class="mut" style="font-size:12px">· ${cuando(x.hora)}</span></div>` : "";
+    const cab = conPartido ? `<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">${x.logo_l ? img(x.logo_l)+img(x.logo_v) : "⚽"}<b style="color:#3b82f6;font-size:16px">${esc(x.partido)}</b><span class="mut" style="font-size:12px">· ${x.liga && BAND[x.liga] ? BAND[x.liga]+" " : ""}${cuando(x.hora)}</span></div>` : "";
     return `<div style="margin-top:10px;padding-top:10px;${k?"border-top:1px solid var(--line)":""}">${cab}<div style="margin-top:${conPartido?4:0}px"><b>${esc(txt)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`;
   };
   const tarjeta = (clave, def, cabeza, cuota, cuerpo) => { const ab = combiAbierta(clave, def);
     return `<div class="card" style="margin-bottom:10px"><div data-k="${esc(clave)}" onclick="plegarCombi(this.dataset.k,${def})" style="display:flex;justify-content:space-between;align-items:center;gap:8px;cursor:pointer">${cabeza}<span style="display:flex;align-items:center;gap:8px;white-space:nowrap"><b style="color:var(--ok)">@${coma(cuota)}</b><span class="mut">${ab?"▲":"▼"}</span></span></div>${ab?cuerpo:""}</div>` };
+  if(modo === "destacadas"){
+    if(!X.length) return h + `<div class="empty">Ahora no hay combis destacadas.</div>`;
+    X.forEach(c => { h += tarjeta("dest:"+c.clave, true, `<div><b>${esc(c.titulo)} · ${c.patas.length} patas</b><div class="mut" style="font-size:12px">${esc(c.expl)}</div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join("")) });
+    return h;
+  }
   if(modo === "liga"){
     if(!L.length) return h + `<div class="empty">Ahora no hay combis por liga.</div>`;
     L.forEach(c => { h += tarjeta("liga:"+c.liga, true, `<b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join("")) });

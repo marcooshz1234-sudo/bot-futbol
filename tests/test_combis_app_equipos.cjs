@@ -13,6 +13,12 @@ const ctx={esc:s=>String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace
     patas:[{texto:"Nott'm Forest marca",cuota:1.4,dato:'z'},{texto:'Elanga: 1+ remate',cuota:1.57,dato:'w'}]}]}}};
 vm.createContext(ctx); vm.runInContext(f, ctx);
 let out=vm.runInContext('vCombis()', ctx);
+assert.ok(out.includes('Destacadas') && out.includes('Ahora no hay combis destacadas'), 'por defecto, destacadas');
+ctx.D.combis_semana.destacadas=[{clave:'todas',titulo:'🌍 Lo mejor de todas las ligas',expl:'e',cuota:2,patas:[{hora:'2026-11-21T15:00',partido:'A–B',liga:'Serie A',texto:'Ambos marcan',cuota:1.5,dato:'d'}]}];
+out=vm.runInContext('vCombis()', ctx);
+assert.ok(out.includes('Lo mejor de todas las ligas') && out.includes('🇮🇹 Sáb 15:00'), 'destacada con bandera de la liga');
+vm.runInContext('sub.combis="liga"', ctx);
+out=vm.runInContext('vCombis()', ctx);
 assert.ok(out.includes('<b style="color:#3b82f6;font-size:16px">Lazio–Lecce</b>'), 'partido sin resaltar');
 assert.ok(out.includes('L.png') && out.includes('Gustav Isaksen (Lazio): comete'));
 assert.ok(out.includes('▲') && out.includes('Por equipo'));

@@ -25,11 +25,21 @@ from bot import DATOS, MADRID, leer
 SALIDA = DATOS / "combis_semana.json"
 CUOTA_MIN, CUOTA_MAX, OBJETIVO = 1.38, 1.70, 1.50
 MAX_PATAS = 7
-LIGAS = ("LaLiga", "Premier League", "Serie A", "Bundesliga", "Ligue 1", "Eredivisie", "Champions League",
-         "Europa League", "Segunda División", "Primeira Liga")
+# 20/11 (Marcos: «solo de las 5 grandes ligas»): las 5 grandes, las europeas, sus copas y las selecciones. Solo si en
+# esos días no hay nada de eso, se tira de las demás ligas que sigue el bot (nunca femenino).
+GRANDES5 = ("LaLiga", "Premier League", "Serie A", "Bundesliga", "Ligue 1")
+EUROPA = ("Champions League", "Europa League", "Conference League", "UEFA Super Cup")
+COPAS = ("Copa del Rey", "Supercopa de España", "FA Cup", "League Cup", "EFL Cup", "Community Shield", "Coppa Italia",
+         "Supercoppa Italiana", "DFB Pokal", "Super Cup", "Coupe de France", "Trophée des Champions")
+SELECCIONES = ("World Cup", "World Cup - Qualification Europe", "UEFA Nations League", "Euro Championship",
+               "Euro Championship - Qualification", "Friendlies")
+LIGAS = GRANDES5 + EUROPA + COPAS + SELECCIONES   # en este orden salen en la app
+NO_VALEN = ("Liga F",)
 BANDERA = {"LaLiga": "🇪🇸", "Segunda División": "🇪🇸", "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Serie A": "🇮🇹",
            "Bundesliga": "🇩🇪", "Ligue 1": "🇫🇷", "Eredivisie": "🇳🇱", "Primeira Liga": "🇵🇹",
-           "Champions League": "⭐", "Europa League": "🟠"}
+           "Champions League": "⭐", "Europa League": "🟠", "Conference League": "🟢",
+           "Copa del Rey": "🇪🇸", "FA Cup": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "League Cup": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Coppa Italia": "🇮🇹", "DFB Pokal": "🇩🇪",
+           "Coupe de France": "🇫🇷", "World Cup": "🌍", "UEFA Nations League": "🌍", "Friendlies": "🌍"}
 JUGADOR = {  # mercado bet365 → (dato del jugador, texto)
     "Player Fouls Committed": ("faltas_c", "comete {n}+ falta{s}"),
     "Home Player Fouls Committed": ("faltas_c", "comete {n}+ falta{s}"),
@@ -254,7 +264,20 @@ def patas_equipo(p):
     return [x for x in out if x]
 
 
-def generar(desde, hasta, partidos=None, h=None, max_combis=6, fuera=(), empieza_despues=None):
+def _dia(p):
+    return datetime.fromisoformat(p["fecha"]).astimezone(MADRID).strftime("%Y-%m-%d")
+
+
+def ligas_elegidas(partidos, desde, hasta):
+    """Las competiciones buenas (LIGAS) que tienen partido esos días; si no hay ninguna, las demás que sigue el bot."""
+    hay = [p.get("competicion") for p in partidos if desde <= _dia(p) <= hasta]
+    buenas = [l for l in LIGAS if l in hay]
+    if buenas:
+        return buenas
+    return sorted({l for l in hay if l and l not in NO_VALEN})
+
+
+def generar(desde, hasta, partidos=None, h=None, max_combis=12, fuera=(), empieza_despues=None):
     """Combis por liga con los partidos entre desde y hasta (fechas AAAA-MM-DD, ambas incluidas).
     20/11 (Marcos: «no quiero las cosas 20.000 veces repetidas»): sin las selecciones de «fuera» (lo ya subido) y
     cada partido en una sola combi; si la mejor pata de un partido ya salió, va la siguiente."""
@@ -263,7 +286,7 @@ def generar(desde, hasta, partidos=None, h=None, max_combis=6, fuera=(), empieza
         partidos = d if isinstance(d, list) else d.get("partidos", [])
     h = historial() if h is None else h
     combis = []
-    for liga in LIGAS:
+    for liga in ligas_elegidas(partidos, desde, hasta):
         ms = sorted([p for p in partidos if p.get("competicion") == liga
                      and desde <= datetime.fromisoformat(p["fecha"]).astimezone(MADRID).strftime("%Y-%m-%d") <= hasta],
                     key=lambda p: p["fecha"])
@@ -285,7 +308,8 @@ def generar(desde, hasta, partidos=None, h=None, max_combis=6, fuera=(), empieza
         for x in patas:
             tot *= x["cuota"]
         combis.append({"liga": liga, "patas": patas, "cuota": round(tot, 2), "media": sum(x["nota"] for x in patas) / len(patas)})
-    return sorted(combis, key=lambda c: -c["media"])[:max_combis]
+    orden = ligas_elegidas(partidos, desde, hasta)   # 20/11: en orden fijo (LaLiga, Premier, Serie A…), no por nota
+    return sorted(sorted(combis, key=lambda c: -c["media"])[:max_combis], key=lambda c: orden.index(c["liga"]))
 
 
 def lado_pata(x):
@@ -321,9 +345,9 @@ def generar_equipos(desde, hasta, partidos=None, h=None, fuera=(), empieza_despu
         d = leer(DATOS / "resumen_proximos.json", []) or []
         partidos = d if isinstance(d, list) else d.get("partidos", [])
     h = historial() if h is None else h
-    out = []
-    for p in sorted(partidos, key=lambda p: p["fecha"]):
-        if p.get("competicion") not in LIGAS:
+    out, ligas = [], ligas_elegidas(partidos, desde, hasta)
+    for p in sorted(partidos, key=lambda p: (ligas.index(p["competicion"]) if p.get("competicion") in ligas else 99, p["fecha"])):
+        if p.get("competicion") not in ligas:
             continue
         ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
         if not (desde <= ini.strftime("%Y-%m-%d") <= hasta) or (empieza_despues and ini < empieza_despues):
@@ -351,6 +375,56 @@ def generar_equipos(desde, hasta, partidos=None, h=None, fuera=(), empieza_despu
     return out
 
 
+DESTACADAS = (   # (clave, título, explicación, filtro de pata, nº de patas, orden)
+    ("todas", "🌍 Lo mejor de todas las ligas", "La mejor pata de cada partido, mezclando ligas", lambda x: True, 7, "nota"),
+    ("segura", "🛡️ La segura", "Las 3 patas más probables de todo", lambda x: True, 3, "p"),
+    ("jugadores", "🎯 Solo jugadores", "Faltas, remates y paradas de titulares fijos", lambda x: bool(x.get("lado") and ":" in x["texto"]), 5, "nota"),
+    ("goles", "⚽ Goles", "Marca, ambos marcan, más de 2,5 y gol en la 1ª parte",
+     lambda x: any(m in x["sel"] for m in ("|Total - ", "|Both Teams Score|", "|Goals Over/Under")), 5, "nota"),
+    ("corners", "🚩 Córners y tarjetas", "Córners y tarjetas de equipos y partidos",
+     lambda x: "Corners" in x["sel"] or "Cards" in x["sel"], 4, "nota"),
+)
+
+
+def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_despues=None):
+    """20/11 (Marcos: «combinadas de todas las ligas en una y algo más que se te ocurra»): combis que mezclan ligas,
+    cada una de un tipo. Entre ellas no repiten partido, y cada partido una sola vez por combi."""
+    if partidos is None:
+        d = leer(DATOS / "resumen_proximos.json", []) or []
+        partidos = d if isinstance(d, list) else d.get("partidos", [])
+    h = historial() if h is None else h
+    ligas = ligas_elegidas(partidos, desde, hasta)
+    pool = []   # (partido, candidatas)
+    for p in sorted(partidos, key=lambda p: p["fecha"]):
+        ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
+        if p.get("competicion") not in ligas or not (desde <= _dia(p) <= hasta) or (empieza_despues and ini < empieza_despues):
+            continue
+        t = _teams(p["id"])
+        cands = [dict(x, partido=f"{p['local']}–{p['visitante']}", hora=ini.strftime("%Y-%m-%dT%H:%M"), liga=p["competicion"],
+                      logo_l=(t.get("home") or {}).get("logo"), logo_v=(t.get("away") or {}).get("logo"))
+                 for x in patas_jugador(p, h) + patas_equipo(p) if x and x["sel"] not in set(fuera)]
+        if cands:
+            pool.append((p, cands))
+    usados, out = set(), []
+    for clave, titulo, expl, filtro, n, orden in DESTACADAS:
+        mejores = []
+        for p, cands in pool:
+            if str(p["id"]) in usados:
+                continue
+            cs = [x for x in cands if filtro(x)]
+            if cs:
+                mejores.append(max(cs, key=lambda x: x[orden]))
+        patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])
+        if len(patas) < min(3, n):
+            continue
+        usados |= {x["sel"].split("|")[0] for x in patas}
+        tot = 1.0
+        for x in patas:
+            tot *= x["cuota"]
+        out.append({"clave": clave, "titulo": titulo, "expl": expl, "liga": "Varias", "patas": patas, "cuota": round(tot, 2)})
+    return out
+
+
 DIAS = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"]
 
 
@@ -367,7 +441,9 @@ def texto_aviso(c, i, n):
 
 def texto_post(c):
     """El texto del post (con la captura de Marcos): las patas con su dato, como las cuentas de X."""
-    if c.get("equipo"):   # combi de un equipo (Crear apuesta de su partido)
+    if c.get("titulo"):   # destacada (mezcla ligas)
+        lineas = [f"{c['titulo'].upper()} 🔥", ""]
+    elif c.get("equipo"):   # combi de un equipo (Crear apuesta de su partido)
         lineas = [f"{BANDERA.get(c['liga'], '⚽')} COMBI DEL {c['equipo'].upper()} · {c['partido']} 🔥", ""]
     else:
         lineas = [f"{BANDERA.get(c['liga'], '⚽')} COMBI {c['liga'].upper()} · UNA POR PARTIDO 🔥", ""]
@@ -393,7 +469,7 @@ def casa_con(patas_boleto, guardadas=None, textos=None):
     jugador/equipo que se lee en la captura), o None."""
     if guardadas is None:
         g = leer(SALIDA, {}) or {}
-        guardadas = (g.get("combis") or []) + (g.get("equipos") or [])
+        guardadas = (g.get("destacadas") or []) + (g.get("combis") or []) + (g.get("equipos") or [])
     sels = {s for s in patas_boleto if s}
     leido = norm(" ".join(textos or []))
     for c in guardadas:
@@ -431,10 +507,13 @@ def refrescar(ahora=None, cada=timedelta(minutes=30)):
     fuera, h = ya_subidas(ahora, g), historial()
     cs = generar(*rango, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30))
     eqs = generar_equipos(*rango, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30))
+    des = generar_destacadas(*rango, h=h, fuera=fuera, empieza_despues=ahora + timedelta(minutes=30))
+    d_ = leer(DATOS / "resumen_proximos.json", []) or []
+    otras = not any(l in LIGAS for l in ligas_elegidas(d_ if isinstance(d_, list) else d_.get("partidos", []), *rango))
     g = {"dia": ahora.strftime("%Y-%m-%d"), "generado": ahora.isoformat(timespec="minutes"), "rango": list(rango),
-         "combis": cs, "equipos": eqs, "subidas": subidas[-300:], "n_subidas": len(subidas[-300:])}
+         "combis": cs, "equipos": eqs, "destacadas": des, "otras_ligas": otras, "subidas": subidas[-300:], "n_subidas": len(subidas[-300:])}
     SALIDA.write_text(json.dumps(g, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"combis_semana: {len(cs)} combis ({', '.join(c['liga'] for c in cs)}) y {len(eqs)} de equipo")
+    print(f"combis_semana: {len(cs)} combis ({', '.join(c['liga'] for c in cs)}) y {len(eqs)} de equipo, {len(des)} destacadas")
     return g
 
 

@@ -89,3 +89,25 @@ class CombisDeEquipo(unittest.TestCase):
         self.assertLessEqual(sum(t in ("Gana L1", "L1 o empate") for t in textos), 1)   # un solo resultado
         self.assertEqual(c["logo"], "l.png")
         self.assertIn("COMBI DEL L1", CS.texto_post(c))
+
+
+class LigasYDestacadas(unittest.TestCase):
+    """20/11 (Marcos): solo 5 grandes, europeas, copas y selecciones; si no hay nada de eso, otras ligas (nunca femenino).
+    Destacadas que mezclan ligas sin repetir partido entre ellas."""
+    def test_solo_grandes_si_hay(self):
+        ps = [partido(1, "15:00", "LaLiga"), partido(2, "16:00", "Segunda División"), partido(3, "17:00", "Liga F")]
+        self.assertEqual(CS.ligas_elegidas(ps, "2026-11-21", "2026-11-21"), ["LaLiga"])
+        self.assertEqual(CS.ligas_elegidas(ps[1:], "2026-11-21", "2026-11-21"), ["Segunda División"])   # sin grandes: otras, sin Liga F
+
+    def test_destacadas_sin_repetir_partido(self):
+        h = {"pepe uno": [{"nombre": "Pepe Uno", "min": 90, "faltas_c": 1, "eq": "10"}] * 6}
+        ps = [partido(i, f"{12 + i}:00", liga) for i, liga in enumerate(["LaLiga", "Serie A", "Premier League", "Bundesliga",
+                                                                        "Ligue 1", "LaLiga", "Serie A", "Premier League"])]
+        for p in ps:
+            p["cuotas_bet365"]["Total - Home"] = [["Over 0.5", "1.45"]]
+        with mock.patch.object(CS, "equipos_partido", lambda pid: {"10", "20"}), mock.patch.object(CS, "_teams", lambda pid: {}):
+            ds = CS.generar_destacadas("2026-11-21", "2026-11-23", partidos=ps, h=h)
+        self.assertTrue(ds and ds[0]["clave"] == "todas")
+        self.assertGreater(len({x["liga"] for x in ds[0]["patas"]}), 1)          # mezcla ligas
+        ids = [x["sel"].split("|")[0] for c in ds for x in c["patas"]]
+        self.assertEqual(len(ids), len(set(ids)))                                  # ningún partido en dos destacadas
