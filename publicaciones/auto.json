@@ -9651,9 +9651,9 @@
     ],
     "cuotas": [
       3.75,
-      2.05,
-      3.4,
-      3.4
+      2.0,
+      3.2,
+      3.0
     ],
     "solo_en": [
       "threads"
@@ -9664,7 +9664,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-20T18:04"
   },
   {
     "id": "2026-11-20-estrella-1575221",
