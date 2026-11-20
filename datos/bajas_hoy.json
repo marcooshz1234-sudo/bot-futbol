@@ -7284,18 +7284,6 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 531,
-    "jugador": "A. Paredes",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 531,
-    "jugador": "N. Serrano",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
     "equipo": 540,
     "jugador": "A. Calatrava",
     "tipo": "Missing Fixture",
@@ -7316,7 +7304,7 @@
   ],
   "1647583": []
  },
- "ultima": "2026-11-20T00:42:51.570079+01:00",
+ "ultima": "2026-11-20T01:15:51.825120+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
