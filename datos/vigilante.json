@@ -132,7 +132,11 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
@@ -140,19 +144,15 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
+   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
@@ -168,12 +168,12 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
-  },
-  {
    "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Away Corners Over/Under|Over 2.5",
@@ -185,42 +185,18 @@
   },
   {
    "clave": "prensa-1570454-387117e9",
-   "t": "📰 Athletic Club–Espanyol: «Terzic confirma la baja de Vivian antes del Athletic-Espanyol» (Athletic Club Info) · tenemos 10 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0100-ganaambos, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
-  },
-  {
-   "clave": "prensa-1570454-c7237918",
-   "t": "📰 Athletic Club–Espanyol: «Grave lesión en el RCD Espanyol, rotura de cruzado y adiós a la temporada» (El Desmarque) · tenemos 10 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0100-ganaambos, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
+   "t": "📰 Athletic Club–Espanyol: «Terzic confirma la baja de Vivian antes del Athletic-Espanyol» (Athletic Club Info) · tenemos 9 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
   },
   {
    "clave": "prensa-1570454-e2b30a57",
-   "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 10 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0100-ganaambos, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
-  },
-  {
-   "clave": "prensa-1570453-PAubameyang",
-   "t": "📰 Alaves–Deportivo La Coruna: «Aubameyang enciende las alarmas en el Deportivo: molestias en el tobillo a 48 horas del partido ante el Alavés» (Cadena SER) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
-   "clave": "prensa-1570460-7d5af23c",
-   "t": "📰 Rayo Vallecano–Valencia: «Beñat San José, la duda del Rayo Vallecano y de sus rivales en la tabla: \"¿Europa o el descenso? Estamos todos» (Estadio Deportivo) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
-   "clave": "prensa-1570460-c1246914",
-   "t": "📰 Rayo Vallecano–Valencia: «Oscar Valentín, baja segura frente al Valencia, y Álvaro García y Jozhua dudas» (Mundo Deportivo) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
-   "clave": "prensa-1570461-35fcdbd8",
-   "t": "📰 Real Madrid–Celta Vigo: «Sergi Guilló, antes de visitar al Real Madrid Castilla: «No tengo ninguna duda de que el Murcia va a acabar la» (Murcia Actualidad) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
-   "clave": "prensa-1552823-4a1566f2",
-   "t": "📰 Monaco–Auxerre: «El centrocampista del Mónaco Coulibaly, sancionado tras gesto hacia los aficionados desplazados» (Tribuna.com) · tenemos 1 post(s) de este partido: ganadores-resto"
+   "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 9 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos"
   },
   {
    "clave": "regla-cuota_alta-2026-11-20-estrella-1575221",
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-20T00:58",
+ "revisado": "2026-11-20T01:08",
  "historial": [
   {
    "hora": "2026-11-20T00:58",
