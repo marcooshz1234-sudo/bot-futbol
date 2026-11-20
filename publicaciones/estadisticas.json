@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 08:36",
+ "actualizado": "2026-11-20 09:08",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3238,
-   "hoy": 8,
+   "seguidores": 3239,
+   "hoy": 9,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3238
+    3239
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3780,
- "total_hoy": 12,
+ "total": 3781,
+ "total_hoy": 13,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "09:00",
+  "hora": "10:00",
   "dia": "2026-11-20",
-  "titulo": "La combi de los empates"
+  "titulo": "Reto de 1 a 78,94"
  },
  "ayer": null,
  "escalera": {
@@ -237,7 +237,7 @@
   },
   "2026-11-20": {
    "instagram": 52,
-   "threads": 3238,
+   "threads": 3239,
    "facebook": 1,
    "telegram": 489
   }

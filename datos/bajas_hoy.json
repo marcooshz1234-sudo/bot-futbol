@@ -7582,9 +7582,136 @@
    }
   ],
   "1570034": [],
-  "1551382": []
+  "1551382": [],
+  "1647586": [],
+  "1608380": [],
+  "1550202": [
+   {
+    "equipo": 487,
+    "jugador": "A. Furlanetto",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "J. Sutalo",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "N. Tavares",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "D. Frattesi",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "A. Marusic",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "M. Zaccagni",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 867,
+    "jugador": "I. Ilic",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 867,
+    "jugador": "S. Pierotti",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 867,
+    "jugador": "M. Berisha",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 867,
+    "jugador": "J. Monteiro",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   }
+  ],
+  "1550200": [
+   {
+    "equipo": 895,
+    "jugador": "M. Kean",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "J. Addai",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "T. Chalobah",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "A. Diao",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "J. Rodriguez",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 490,
+    "jugador": "M. Felici",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 490,
+    "jugador": "G. Aurelio",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 490,
+    "jugador": "A. Fadera",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 490,
+    "jugador": "Y. Mina",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 490,
+    "jugador": "H. Winks",
+    "tipo": "Questionable",
+    "motivo": "Back Injury"
+   }
+  ],
+  "1551378": []
  },
- "ultima": "2026-11-20T08:29:22.394374+01:00",
+ "ultima": "2026-11-20T09:07:54.367077+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
