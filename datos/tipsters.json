@@ -3670,7 +3670,12 @@
   "stake": null,
   "argumento": [],
   "auto": true,
-  "corregido": "20/11 Claude: era «Ath Bilbao o empate», no empate en el Porto"
+  "corregido": "20/11 Claude: era «Ath Bilbao o empate», no empate en el Porto",
+  "analisis": {
+   "liga": "La Liga",
+   "cuota_bet365": 1.11,
+   "prob_cuota": 0.877
+  }
  },
  {
   "tipster": "ApuestasCobrich - Canal Gratuito",
@@ -3687,6 +3692,31 @@
   "argumento": [],
   "auto": true,
   "en_directo": true,
-  "corregido": "20/11 Claude: goles del Bayern (equipo local), en directo al descanso, no del partido"
+  "corregido": "20/11 Claude: goles del Bayern (equipo local), en directo al descanso, no del partido",
+  "analisis": {
+   "liga": "Bundesliga",
+   "cuota_bet365": 1.28,
+   "prob_cuota": 0.621
+  }
+ },
+ {
+  "tipster": "ApuestasCobrich - Canal Gratuito",
+  "fuente": "-1001233274610/196250",
+  "dia": "2026-11-20",
+  "local": "Bayern München",
+  "visitante": "1. FC Köln",
+  "partido_id": 1575221,
+  "texto": "Gana el Bayern München",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": null,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Bundesliga",
+   "cuota_bet365": 1.08,
+   "prob_cuota": 0.926
+  }
  }
 ]

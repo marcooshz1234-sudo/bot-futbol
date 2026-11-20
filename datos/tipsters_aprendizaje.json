@@ -160,6 +160,13 @@
    "resueltos_con_cuota": 2,
    "prob_cuota": 1.426
   },
+  "ApuestasCobrich - Canal Gratuito": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
   "AllSportsPicks": {
    "n": 1,
    "verdes": 0,
@@ -177,18 +184,11 @@
    "unidades": 1.65,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.377
-  },
-  "ApuestasCobrich - Canal Gratuito": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 0,
-   "nulos": 0,
-   "unidades": 0.0
   }
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 24,
+   "n": 25,
    "verdes": 14,
    "rojos": 6,
    "nulos": 0,
@@ -197,7 +197,7 @@
    "prob_cuota": 10.286
   },
   "Goals Over/Under Over 2.5": {
-   "n": 16,
+   "n": 15,
    "verdes": 8,
    "rojos": 5,
    "nulos": 0,
@@ -224,7 +224,7 @@
    "prob_cuota": 4.522
   },
   "Double Chance Home/Draw": {
-   "n": 6,
+   "n": 7,
    "verdes": 5,
    "rojos": 1,
    "nulos": 0,
@@ -579,7 +579,7 @@
    "nulos": 0,
    "unidades": 0.0
   },
-  "Match Winner Draw": {
+  "Total - Home Over 2.5": {
    "n": 1,
    "verdes": 0,
    "rojos": 0,
@@ -589,7 +589,7 @@
  },
  "equipo": {
   "—": {
-   "n": 83,
+   "n": 82,
    "verdes": 36,
    "rojos": 12,
    "nulos": 0,
@@ -918,11 +918,25 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Athletic Club": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
+  },
+  "Bayern München": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 83,
+   "n": 84,
    "verdes": 48,
    "rojos": 10,
    "nulos": 0,
@@ -1014,7 +1028,7 @@
    "prob_cuota": 17.844
   },
   "?": {
-   "n": 27,
+   "n": 28,
    "verdes": 16,
    "rojos": 2,
    "nulos": 0,
@@ -1085,14 +1099,14 @@
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.408
   },
-  "Taça de Portugal": {
-   "n": 1,
+  "Bundesliga": {
+   "n": 2,
    "verdes": 0,
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
   },
-  "Bundesliga": {
+  "La Liga": {
    "n": 1,
    "verdes": 0,
    "rojos": 0,
@@ -1102,7 +1116,7 @@
  },
  "lado": {
   "partido": {
-   "n": 71,
+   "n": 69,
    "verdes": 29,
    "rojos": 10,
    "nulos": 0,
@@ -1111,7 +1125,7 @@
    "prob_cuota": 20.562
   },
   "local": {
-   "n": 40,
+   "n": 43,
    "verdes": 22,
    "rojos": 10,
    "nulos": 0,
@@ -1131,7 +1145,7 @@
  },
  "por_que": {
   "—": {
-   "n": 63,
+   "n": 64,
    "verdes": 24,
    "rojos": 14,
    "nulos": 0,
@@ -1205,7 +1219,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 136,
+   "n": 137,
    "verdes": 69,
    "rojos": 24,
    "nulos": 0,
