@@ -205,3 +205,5 @@
 - 15/11 (Marcos): la primera frase de un post nunca se repite con los últimos posts del día («Este nos encanta para hoy» salió 3 veces seguidas).
 - 15/11 (Marcos): un pick suelto (una sola cosa) SIEMPRE con los escudos/banderas, también en Threads (fallo: la foto se buscaba por el id del post y no la encontraba; ahora por su ruta).
 - 15/11 (Marcos: «el escudo arriba»): en Threads la foto sale debajo del texto, así que los picks sueltos van con texto corto (solo el pick) y el porqué en el primer comentario («porque_threads»).
+
+- 20/11 X: formatos de x_extra.py ACTIVOS (control `x_extra: true`): «🗓️ PARA MAÑANA» en las combis de la noche, escalera presumida, enlace de Telegram siempre en el 2.º post (nunca en el principal) y un directo de la escalera al día (min. 60–80).
