@@ -1264,7 +1264,9 @@ def combis_estilo(dia, buenos, amplios, usados):
     # sábados: de 1 € a 500 € (muchas patas; sale con los picks de todo el día, puede repetir con otras combis)
     if dsem == 5:
         # es la de 1 € para soñar: sin el filtro de lo aprendido (no habría 8 patas), con los mínimos del bot
-        grande = sorted(todos.values(), key=lambda x: -calidad(x))
+        from combis_dia import liga_conocida
+        grande = sorted([x for x in todos.values() if liga_conocida(x.get("liga_id"), x.get("partido_id"))],
+                        key=lambda x: -calidad(x))   # 20/11: sin ligas raras (si no, el revisor la para en Telegram)
         c = combinar(grande, 400.0, 900.0, 18, 8, 6)
         if c:
             res["500"] = c

@@ -1,3 +1,4 @@
+import re
 """
 09/11 (Marcos, como TipsAnalistas): 2-3 razones cortas y reales para el pick seguro del día.
 Todo sale de nuestros datos: clasificación (calendario de la liga), forma de los últimos 5, cómo le va en casa o
@@ -55,6 +56,21 @@ def vde(res):
     return sum(a > b for a, b in res), sum(a == b for a, b in res), sum(a < b for a, b in res)
 
 
+def equipo_del_pick(p, L, V, favor_local, favor_visit):
+    """El equipo al que favorece el pick (o None si es neutro: tarjetas, faltas, tiros de jugador, goles del partido…)."""
+    if favor_local:
+        return L
+    if favor_visit:
+        return V
+    t = (p.get("texto") or "").strip()
+    if re.search(r"tarjeta|falta|tiros?\b|remate|c[oó]rner|ambos|partido|goles en la|del? .+[–-]", t, re.I):
+        return None
+    for eq in (L, V):
+        if re.match(rf"(?:el )?{re.escape(eq)} (?:marca|gana|hace m[aá]s goles)", t, re.I):
+            return eq
+    return None
+
+
 def razones(p, hist, ex=None, maximo=3):
     """p: pick del pool (con partido_id, liga_id, local/visitante, mercado/opcion). → lista de frases."""
     copa = []
@@ -88,8 +104,11 @@ def razones(p, hist, ex=None, maximo=3):
         tb, n = tabla(p.get("liga_id"))
         if il in tb and iv in tb and n >= 10:
             (pl, ptl, _), (pv, ptv, _) = tb[il], tb[iv]
-            if abs(pl - pv) >= 5:
-                arriba, abajo = (L, V) if pl < pv else (V, L)
+            arriba, abajo = (L, V) if pl < pv else (V, L)
+            # 20/11 (Marcos, otra vez un porqué en contra: «Newcastle marca» con «el Arsenal va 1º y el Newcastle 12º»):
+            # la tabla solo se cuenta si el de arriba es el equipo del pick (gana, o empate, marca…); en tarjetas, faltas,
+            # tiros o goles del partido no explica nada → fuera
+            if abs(pl - pv) >= 5 and equipo_del_pick(p, L, V, favor_local, favor_visit) == arriba:
                 pa_, pb_ = min(pl, pv), max(pl, pv)
                 cand.append((3, f"El {arriba} va {pa_}º y el {abajo} {pb_}º en la liga."))
     except Exception:

@@ -36,8 +36,13 @@ class BoletoConCaptura16Nov(unittest.TestCase):
     def test_boleto_usa_su_captura(self):
         from unittest import mock
         p = {"id": "2026-11-16-boleto-gana-ambos", "foto": "publicaciones/media/2026-11-16-boleto-gana-ambos.jpg", "texto": "x"}
-        with mock.patch.object(redes, "url_archivo", lambda r: "URL:" + r):
-            self.assertEqual(redes.foto_threads(p), "URL:publicaciones/media/2026-11-16-boleto-gana-ambos.jpg")
+        import tempfile
+        from pathlib import Path
+        with tempfile.TemporaryDirectory() as d:   # 20/11: la limpieza de media borró la captura real → carpeta de prueba
+            (Path(d) / "publicaciones" / "media").mkdir(parents=True)
+            (Path(d) / p["foto"]).write_bytes(b"x")
+            with mock.patch.object(redes, "url_archivo", lambda r: "URL:" + r), mock.patch.object(redes, "RAIZ", Path(d)):
+                self.assertEqual(redes.foto_threads(p), "URL:publicaciones/media/2026-11-16-boleto-gana-ambos.jpg")
 
 
 if __name__ == "__main__":
