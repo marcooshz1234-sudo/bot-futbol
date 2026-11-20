@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 01:57",
+ "actualizado": "2026-11-20 02:08",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3233,
-   "hoy": 3,
+   "seguidores": 3234,
+   "hoy": 4,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3233
+    3234
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 486,
-   "hoy": 1,
+   "seguidores": 487,
+   "hoy": 2,
    "serie": [
     404,
     411,
@@ -50,17 +50,17 @@
     471,
     479,
     485,
-    486
+    487
    ]
   }
  },
- "total": 3772,
- "total_hoy": 4,
+ "total": 3774,
+ "total_hoy": 6,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "02:00",
+  "hora": "03:00",
   "dia": "2026-11-20",
-  "titulo": "Ambos marcan hoy"
+  "titulo": "El duelo de tiros"
  },
  "ayer": null,
  "escalera": {
@@ -237,9 +237,9 @@
   },
   "2026-11-20": {
    "instagram": 52,
-   "threads": 3233,
+   "threads": 3234,
    "facebook": 1,
-   "telegram": 486
+   "telegram": 487
   }
  },
  "tipos_instagram": {
