@@ -3655,5 +3655,25 @@
    6,
    0
   ]
+ },
+ {
+  "tipster": "INSIDER",
+  "fuente": "-1001299202120/45045",
+  "dia": "2026-11-20",
+  "local": "FC Porto",
+  "visitante": "Paredes",
+  "partido_id": 1647583,
+  "texto": "Empate en FC Porto–Paredes",
+  "mercado": "Match Winner",
+  "opcion": "Draw",
+  "cuota": 1.14,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Taça de Portugal",
+   "cuota_bet365": 11.0,
+   "prob_cuota": 0.877
+  }
  }
 ]

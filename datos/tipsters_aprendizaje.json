@@ -18,6 +18,15 @@
    "resueltos_con_cuota": 9,
    "prob_cuota": 5.496
   },
+  "INSIDER": {
+   "n": 13,
+   "verdes": 11,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 2.41,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 6.199
+  },
   "Tipster Pérez": {
    "n": 12,
    "verdes": 4,
@@ -26,15 +35,6 @@
    "unidades": -1.86,
    "resueltos_con_cuota": 8,
    "prob_cuota": 5.552
-  },
-  "INSIDER": {
-   "n": 12,
-   "verdes": 11,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 2.41,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 6.199
   },
   "TRADER FOOTBALL || FREE": {
    "n": 11,
@@ -571,11 +571,18 @@
    "rojos": 0,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Match Winner Draw": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "equipo": {
   "—": {
-   "n": 81,
+   "n": 82,
    "verdes": 36,
    "rojos": 12,
    "nulos": 0,
@@ -908,7 +915,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 81,
+   "n": 82,
    "verdes": 48,
    "rojos": 10,
    "nulos": 0,
@@ -991,7 +998,7 @@
    "prob_cuota": 25.919
   },
   "<1,50": {
-   "n": 29,
+   "n": 30,
    "verdes": 18,
    "rojos": 4,
    "nulos": 0,
@@ -1070,11 +1077,18 @@
    "unidades": 1.15,
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.408
+  },
+  "Taça de Portugal": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "lado": {
   "partido": {
-   "n": 69,
+   "n": 70,
    "verdes": 29,
    "rojos": 10,
    "nulos": 0,
@@ -1103,7 +1117,7 @@
  },
  "por_que": {
   "—": {
-   "n": 61,
+   "n": 62,
    "verdes": 24,
    "rojos": 14,
    "nulos": 0,
@@ -1177,7 +1191,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 134,
+   "n": 135,
    "verdes": 69,
    "rojos": 24,
    "nulos": 0,
