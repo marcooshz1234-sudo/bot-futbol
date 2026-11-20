@@ -9811,13 +9811,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16298",
-   "fecha": "2026-11-12T03:23",
-   "texto": "💔💔💔💔💔💔💔💔💔💔💔",
-   "foto": false,
-   "visto": "2026-11-12T03:26"
-  },
-  {
    "id": "-1001393609245/16300",
    "fecha": "2026-11-12T03:24",
    "texto": "",
@@ -11293,6 +11286,13 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-20T02:20"
+  },
+  {
+   "id": "-1001393609245/16500",
+   "fecha": "2026-11-20T04:09",
+   "texto": "✅🏀✅🏀✅🏀✅🏀✅🏀✅",
+   "foto": false,
+   "visto": "2026-11-20T04:17"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -17327,6 +17327,20 @@
    "foto": true,
    "visto": "2026-11-20T03:24",
    "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196211.jpg"
+  },
+  {
+   "id": "-1001233274610/196214",
+   "fecha": "2026-11-20T04:14",
+   "texto": "He vuelto a hacer historia 💯✅",
+   "foto": false,
+   "visto": "2026-11-20T04:17"
+  },
+  {
+   "id": "-1001233274610/196213",
+   "fecha": "2026-11-20T04:14",
+   "texto": "Quien de Like y Coment le regalo Stake 10 💯🔥\n\nhttps://x.com/apuestascobrich/status/2123615807603118412?a=ADMDYid_dLlag0w8pEQ&s=46",
+   "foto": false,
+   "visto": "2026-11-20T04:17"
   }
  ]
 }
