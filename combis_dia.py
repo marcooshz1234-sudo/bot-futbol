@@ -1425,7 +1425,12 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
                  and (equipo_de(p) is None or usos_eq[equipo_de(p)] < MAX_POSTS_EQUIPO)]
                 for pool in ps]
     # 01/11 (Marcos): «🔒 pick seguro del día» en el gratis, para tener historial antes de abrir el VIP
-    res["seguro"] = pick_seguro(sin_choques(pools_pick), dia)
+    # 20/11 (Marcos borró el pick del día: era el mismo que la escalera, «FC Andorra marca 2 o más»): en Telegram el
+    # mismo pick nunca dos veces → fuera lo de la escalera de hoy y lo que ya salió en Telegram
+    ya1 = {(str(p["partido_id"]), p["mercado"], p["opcion"]) for p in esc.get("picks", [])} if esc.get("dia") == dia else set()
+    ya1 |= {tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro", red="telegram").items()
+            if n_ and s_.split("|")[0].isdigit()}
+    res["seguro"] = pick_seguro(sin_choques(pools_pick), dia, ya=ya1)
     if res["seguro"]:
         usos[sel(res["seguro"][0])] += 1
         apuntar(res["seguro"][:1])
@@ -1436,7 +1441,7 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
         nuevo = dia >= "2026-11-14"
         primero = (seguro_publicado(dia) if nuevo else None) or (res["seguro"][0] if res["seguro"] else None)
         ya2 = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-2", red="telegram").items()
-               if n_ and s_.split("|")[0].isdigit()] if nuevo else ()
+               if n_ and s_.split("|")[0].isdigit()] + list(ya1) if nuevo else ()
         res["seguro2"] = pick_seguro(sin_choques(pools_pick), dia, segundo=primero, ya=ya2)
         if res.get("seguro2"):
             usos[sel(res["seguro2"][0])] += 1

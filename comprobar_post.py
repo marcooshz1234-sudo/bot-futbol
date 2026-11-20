@@ -376,7 +376,9 @@ def bloquea(p, texto=None):
         print("comprobar_post duplicado:", e)
     try:
         f = [x for x in comprobar(p, texto) if x[0] in GRAVES and x[0] not in ("repetido", "choca")
-             or (x[0] in ("repetido", "choca") and not es_copia(p) and p.get("origen") == "claude")]
+             or (x[0] in ("repetido", "choca") and not es_copia(p) and p.get("origen") == "claude")
+             # 20/11: el mismo pick dos veces en Telegram no sale nunca, sea de quien sea (salvo la escalera: hay todos los días)
+             or (x[0] == "repetido" and "en Telegram" in x[1] and not p.get("id", "").endswith("-escalera"))]
     except Exception as e:
         print("comprobar_post:", e)
         return None

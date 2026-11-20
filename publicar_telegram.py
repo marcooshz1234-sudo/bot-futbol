@@ -197,6 +197,11 @@ def con_porque(p, texto):
                     elif c[lado]["estado"] == "se_juega":
                         g = next((x for x in c[lado]["texto"].split(" · ") if x.startswith("gana:")), "")
                         g = g.replace("gana:", "si gana, acaba").strip() if g else c[lado]["texto"]
+                        m_ = re.search(r"entre (\d+)\.º y (\d+)\.º", g)
+                        # 20/11 (escalera de Andorra: «puede acabar entre 1.º y 22.º» no dice nada): fuera si el
+                        # margen es enorme o ya hay otra razón de ese equipo (p. ej. «está en descenso»)
+                        if (m_ and int(m_.group(2)) - int(m_.group(1)) >= 8) or any(f.startswith(c[lado]["equipo"]) for f in frases):
+                            continue
                         frases.append(espanol(f"{c[lado]['equipo']} se lo juega: {g}."))
     except Exception as e:
         print("porqué:", str(e)[:150])

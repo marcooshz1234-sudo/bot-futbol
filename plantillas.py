@@ -576,6 +576,10 @@ def etiquetar(tipo, texto, semilla=None):
     et = etiqueta(clase, semilla or f"{tipo}|{primera}")
     if not et:
         return texto
+    # 20/11: «Pick de hoy, con datos detrás 📊» + «📊 Con datos detrás, nada de corazonadas» (lo mismo dos veces)
+    nucleo = re.sub(r"^\W+", "", et).split(",")[0].lower()
+    if nucleo[:12] and nucleo[:12] in primera.lower():
+        return texto
     return f"{primera}\n{et}\n{resto}" if resto else f"{primera}\n{et}"
 
 
