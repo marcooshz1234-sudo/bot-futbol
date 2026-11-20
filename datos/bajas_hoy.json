@@ -8793,9 +8793,72 @@
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
    }
+  ],
+  "1565303": [],
+  "1552229": [
+   {
+    "equipo": 413,
+    "jugador": "E. Mor",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 413,
+    "jugador": "B. Nuytinck",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 413,
+    "jugador": "D. Geiger",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 413,
+    "jugador": "P. Schuurs",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "A. Nagalo",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "S. Ouaissa",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "A. Plea",
+    "tipo": "Missing Fixture",
+    "motivo": "Surgery"
+   },
+   {
+    "equipo": 197,
+    "jugador": "J. Schouten",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "P. Wanner",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "S. Dest",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   }
   ]
  },
- "ultima": "2026-11-20T10:27:23.011860+01:00",
+ "ultima": "2026-11-20T10:59:29.411430+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]

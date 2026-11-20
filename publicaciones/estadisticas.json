@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 10:52",
+ "actualizado": "2026-11-20 11:02",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3240,
-   "hoy": 10,
+   "seguidores": 3241,
+   "hoy": 11,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3240
+    3241
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 489,
-   "hoy": 4,
+   "seguidores": 490,
+   "hoy": 5,
    "serie": [
     404,
     411,
@@ -50,17 +50,17 @@
     471,
     479,
     485,
-    489
+    490
    ]
   }
  },
- "total": 3782,
- "total_hoy": 14,
+ "total": 3784,
+ "total_hoy": 16,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:00",
+  "hora": "11:30",
   "dia": "2026-11-20",
-  "titulo": "Reto escalera · día 4/7"
+  "titulo": "El duelo de tiros"
  },
  "ayer": null,
  "escalera": {
@@ -237,20 +237,20 @@
   },
   "2026-11-20": {
    "instagram": 52,
-   "threads": 3240,
+   "threads": 3241,
    "facebook": 1,
-   "telegram": 489
+   "telegram": 490
   }
  },
  "tipos_instagram": {
-  "Otros (reel)": {
-   "posts": 52,
-   "likes_media": 0.1,
+  "Escalera (reel)": {
+   "posts": 6,
+   "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Escalera (reel)": {
-   "posts": 5,
-   "likes_media": 0.0,
+  "Otros (reel)": {
+   "posts": 51,
+   "likes_media": 0.1,
    "comentarios_media": 0.0
   },
   "Otros": {
