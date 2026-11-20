@@ -9426,5 +9426,36 @@
       "threads": "ya-publicado",
       "instagram": "ya-publicado"
     }
+  },
+  {
+    "id": "2026-11-20-verde-auto-2026-11-20-pick-tip-1448",
+    "fecha": "2026-11-20T21:12",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Kolding–Aalborg\n\n📈 Cuota @1,57\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-20-verde-auto-2026-11-20-pick-tip-1448.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-20-pick-tip-1448",
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ],
+    "enviado": "2026-11-20T21:14",
+    "mensaje_id": 568
+  },
+  {
+    "id": "2026-11-20-verde-auto-2026-11-20-pick-tip-1448-e",
+    "fecha": "2026-11-20T21:22",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Kolding–Aalborg\n\n📈 Cuota @1,57\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-20-verde-auto-2026-11-20-pick-tip-1448-e.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-20-pick-tip-1448-e",
+    "solo_en": [
+      "telegram"
+    ]
   }
 ]
