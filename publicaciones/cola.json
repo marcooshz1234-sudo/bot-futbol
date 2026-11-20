@@ -9643,6 +9643,13 @@
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
     "nota": "00:37 Marcos: «sí, pero di que mañana vamos fuerte, que hay buenos partidos y que subiremos un par de combis»",
     "enviado": "2026-11-21T00:39",
-    "mensaje_id": 573
+    "mensaje_id": 573,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
