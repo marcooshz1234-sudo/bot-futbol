@@ -7147,6 +7147,12 @@
    },
    {
     "equipo": 110,
+    "jugador": "P. Gozzi",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 110,
     "jugador": "Y. Kone",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -7304,7 +7310,7 @@
   ],
   "1647583": []
  },
- "ultima": "2026-11-20T03:31:58.071464+01:00",
+ "ultima": "2026-11-20T04:04:49.618644+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]

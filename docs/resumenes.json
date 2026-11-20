@@ -2934,14 +2934,14 @@
   },
   "2026-11-20": {
     "dia": "2026-11-20",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -2973,13 +2973,19 @@
         "titulo": "🤺 EL DUELO DE TIROS 🤺",
         "estado": "pendiente",
         "cuota": 2.21
+      },
+      {
+        "id": "2026-11-20-loca-th-0400-x50",
+        "titulo": "🎰 COMBI x28,12 🎰",
+        "estado": "pendiente",
+        "cuota": 28.12
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 24
+      "total": 30
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · pendiente\n⏳ 🎰 COMBI x28,12 🎰 · 28,12 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
   }
 }
