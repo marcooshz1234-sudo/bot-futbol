@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 19:56",
+ "actualizado": "2026-11-20 20:07",
  "redes": {
   "instagram": {
    "seguidores": 53,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3245,
-   "hoy": 15,
+   "seguidores": 3246,
+   "hoy": 16,
    "serie": [
     2776,
     2792,
@@ -24,7 +24,7 @@
     3160,
     3215,
     3230,
-    3245
+    3246
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3791,
- "total_hoy": 23,
+ "total": 3792,
+ "total_hoy": 24,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:05",
+  "hora": "20:20",
   "dia": "2026-11-20",
-  "titulo": "Pick para esta noche"
+  "titulo": "Otro pick para la noche"
  },
  "ayer": null,
  "escalera": {
@@ -237,7 +237,7 @@
   },
   "2026-11-20": {
    "instagram": 53,
-   "threads": 3245,
+   "threads": 3246,
    "facebook": 1,
    "telegram": 492
   }

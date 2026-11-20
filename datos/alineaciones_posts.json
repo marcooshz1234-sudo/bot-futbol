@@ -117,6 +117,10 @@
   "2026-11-19-loca-th-1530-duelo|Manoly Baquerizo: 2+ tiros",
   "2026-11-19-loca-th-1630-x100|Maeline Mendy marca",
   "2026-11-19-loca-th-1700-escudos|Olivia Smith: 3+ tiros",
+  "2026-11-20-loca-th-1100-tiros|Julian Rijkhoff: 3+ tiros",
+  "2026-11-20-loca-th-1100-tiros|Stefan Golubovic: 3+ tiros",
+  "2026-11-20-loca-th-1100-tiros|Yassine Kechta: 2+ tiros",
+  "2026-11-20-loca-th-1130-duelo|Stefan Golubovic: 3+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -384,10 +388,23 @@
   "clave|2026-11-17-loca-th-1900-x1000|1528992|Away Player Shots|Francisco Trincao - 4|João Félix",
   "clave|2026-11-17-loca-th-noche-2100-x100|1528992|Home Player Shots|Ethan Ampadu - 1|E. Ampadu",
   "clave|2026-11-17-loca-th-noche-2300-x50|1528992|Home Player Shots|Ethan Ampadu - 1|E. Ampadu",
+  "clave|2026-11-20-estrella-1575221|1575221|Away Player Shots|Sebastian Sebulonsen - 1|Í. Bergmann Jóhannesson",
+  "clave|2026-11-20-estrella-1575221|1575221|Total - Away|Over 0.5|Í. Bergmann Jóhannesson",
   "clave|2026-11-20-ganadores-resto|1565308|Match Winner|Home|Charles Petro",
+  "clave|2026-11-20-loca-th-0300-duelo|1570025|Away Player Shots|Alex Millan - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1100-tiros|1570025|Away Player Shots|Dani Rodriguez - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1100-tiros|1570025|Away Player Shots|Yassine Kechta - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1130-duelo|1570025|Away Player Shots|Dani Rodriguez - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1200-hora|1570025|Total - Away|Over 0.5|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-1230-escudos|1565308|To Win Either Half|Home|Charles Petro",
+  "clave|2026-11-20-loca-th-1630-escudos|1570025|Away Player Shots|Alex Millan - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1630-escudos|1570025|Total - Away|Over 0.5|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-noche-2100-x100|1565308|Match Winner|Home|Charles Petro",
   "clave|2026-11-20-loca-th-noche-2100-x100|1565308|Total - Home|Over 1.5|Charles Petro",
+  "clave|2026-11-20-loca-th-noche-2100-x100|1575221|Away Player Shots|Sebastian Sebulonsen - 1|Í. Bergmann Jóhannesson",
+  "clave|2026-11-20-loca-th-noche-2230-duelo|1570025|Away Player Shots|Alex Millan - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-noche-2330-escudos|1575221|Away Player Shots|Said El Mala - 2|Í. Bergmann Jóhannesson",
+  "clave|2026-11-20-loca-th-noche-2330-escudos|1575221|Away Player Shots|Sebastian Sebulonsen - 1|Í. Bergmann Jóhannesson",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -1711,31 +1728,307 @@
    }
   },
   "1570025": {
-   "hora": "2026-11-20T19:55:56.092294+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-20T20:06:25.357951+01:00",
+   "xi": [
+    "Pau López",
+    "Juan Serrano",
+    "Marc Bombardó",
+    "L. Spatz",
+    "T. Carrique",
+    "Hugo Solozábal",
+    "Marc Domènech",
+    "R. Schneider",
+    "L. de León",
+    "Hugo López",
+    "Moró Sidibe",
+    "L. Zidane",
+    "Jorge Martínez",
+    "Lalo Aguilar",
+    "Ignasi Miquel",
+    "Marvel",
+    "Álex Sancris",
+    "Miguel Atienza",
+    "Dani Rodríguez",
+    "U. del Cura",
+    "Álex Millán",
+    "Álvaro Morata"
+   ],
+   "banquillo": [
+    "Jordi Cano",
+    "D. Diaz",
+    "S. Golubovic",
+    "Gael Alonso",
+    "Andoni López",
+    "Sergio Molina",
+    "T. Olmedo",
+    "Nacho Quintana",
+    "N. Ratti",
+    "Julian Dean Rijkhoff",
+    "E. Sali",
+    "E. Akman",
+    "Z. Buurmeester",
+    "Andrés Campos",
+    "A. Diawara",
+    "Suleiman El Haddadi Mohamed",
+    "Raúl Fernández",
+    "Enric Franquesa",
+    "Naim García",
+    "Ismaël Gharbi",
+    "Y. Kechta",
+    "Javi Montero",
+    "P. Soko",
+    "Diego Pérez Moreno"
+   ],
+   "equipos": {
+    "8157": [
+     {
+      "n": "Pau López",
+      "pos": "G"
+     },
+     {
+      "n": "Juan Serrano",
+      "pos": "D"
+     },
+     {
+      "n": "Marc Bombardó",
+      "pos": "D"
+     },
+     {
+      "n": "L. Spatz",
+      "pos": "D"
+     },
+     {
+      "n": "T. Carrique",
+      "pos": "D"
+     },
+     {
+      "n": "Hugo Solozábal",
+      "pos": "M"
+     },
+     {
+      "n": "Marc Domènech",
+      "pos": "M"
+     },
+     {
+      "n": "R. Schneider",
+      "pos": "M"
+     },
+     {
+      "n": "L. de León",
+      "pos": "F"
+     },
+     {
+      "n": "Hugo López",
+      "pos": "F"
+     },
+     {
+      "n": "Moró Sidibe",
+      "pos": "F"
+     }
+    ],
+    "537": [
+     {
+      "n": "L. Zidane",
+      "pos": "G"
+     },
+     {
+      "n": "Jorge Martínez",
+      "pos": "D"
+     },
+     {
+      "n": "Lalo Aguilar",
+      "pos": "D"
+     },
+     {
+      "n": "Ignasi Miquel",
+      "pos": "D"
+     },
+     {
+      "n": "Marvel",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Sancris",
+      "pos": "M"
+     },
+     {
+      "n": "Miguel Atienza",
+      "pos": "M"
+     },
+     {
+      "n": "Dani Rodríguez",
+      "pos": "M"
+     },
+     {
+      "n": "U. del Cura",
+      "pos": "M"
+     },
+     {
+      "n": "Álex Millán",
+      "pos": "F"
+     },
+     {
+      "n": "Álvaro Morata",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1575221": {
-   "hora": "2026-11-20T19:55:56.092294+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-20T20:06:25.357951+01:00",
+   "xi": [
+    "J. Urbig",
+    "K. Laimer",
+    "D. Upamecano",
+    "J. Tah",
+    "J. Stanišić",
+    "J. Kimmich",
+    "A. Pavlović",
+    "M. Olise",
+    "L. Karl",
+    "N. Brown",
+    "H. Kane",
+    "M. Schwäbe",
+    "J. Schmied",
+    "Jahmai Simpson-Pusey",
+    "L. Lochoshvili",
+    "S. Sebulonsen",
+    "Paul Michael Junior Okon-Engstler",
+    "T. Krauß",
+    "M. Moore",
+    "B. Sosa",
+    "L. Maina",
+    "S. El Mala"
+   ],
+   "banquillo": [
+    "S. Ulreich",
+    "Bara Ndiaye",
+    "J. Musiala",
+    "Kim Min-Jae",
+    "H. Ito",
+    "Noah Codjo-Evora",
+    "S. Boey",
+    "T. Bischof",
+    "T. Binder",
+    "R. Zieler",
+    "R. Ache",
+    "M. Bülter",
+    "A. Castro-Montes",
+    "Reigan Heskey",
+    "Í. Bergmann Jóhannesson",
+    "J. Thielmann",
+    "L. Waldschmidt",
+    "M. El Mala"
+   ],
+   "equipos": {
+    "157": [
+     {
+      "n": "J. Urbig",
+      "pos": "G"
+     },
+     {
+      "n": "K. Laimer",
+      "pos": "D"
+     },
+     {
+      "n": "D. Upamecano",
+      "pos": "D"
+     },
+     {
+      "n": "J. Tah",
+      "pos": "D"
+     },
+     {
+      "n": "J. Stanišić",
+      "pos": "D"
+     },
+     {
+      "n": "J. Kimmich",
+      "pos": "M"
+     },
+     {
+      "n": "A. Pavlović",
+      "pos": "M"
+     },
+     {
+      "n": "M. Olise",
+      "pos": "M"
+     },
+     {
+      "n": "L. Karl",
+      "pos": "M"
+     },
+     {
+      "n": "N. Brown",
+      "pos": "M"
+     },
+     {
+      "n": "H. Kane",
+      "pos": "F"
+     }
+    ],
+    "192": [
+     {
+      "n": "M. Schwäbe",
+      "pos": "G"
+     },
+     {
+      "n": "J. Schmied",
+      "pos": "D"
+     },
+     {
+      "n": "Jahmai Simpson-Pusey",
+      "pos": "D"
+     },
+     {
+      "n": "L. Lochoshvili",
+      "pos": "D"
+     },
+     {
+      "n": "S. Sebulonsen",
+      "pos": "M"
+     },
+     {
+      "n": "Paul Michael Junior Okon-Engstler",
+      "pos": "M"
+     },
+     {
+      "n": "T. Krauß",
+      "pos": "M"
+     },
+     {
+      "n": "M. Moore",
+      "pos": "M"
+     },
+     {
+      "n": "B. Sosa",
+      "pos": "M"
+     },
+     {
+      "n": "L. Maina",
+      "pos": "F"
+     },
+     {
+      "n": "S. El Mala",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1608379": {
-   "hora": "2026-11-20T19:55:56.092294+01:00",
+   "hora": "2026-11-20T20:06:25.357951+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1552827": {
-   "hora": "2026-11-20T19:55:56.092294+01:00",
+   "hora": "2026-11-20T20:06:25.357951+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1570454": {
-   "hora": "2026-11-20T19:55:56.092294+01:00",
+   "hora": "2026-11-20T20:06:25.357951+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

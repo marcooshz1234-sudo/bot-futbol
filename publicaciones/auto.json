@@ -11745,5 +11745,204 @@
     "cuotas": [
       1.4
     ]
+  },
+  {
+    "id": "2026-11-21-loca-th-noche-2100-x100",
+    "fecha": "2026-11-20T21:00",
+    "texto": "🎰 LA CENTENARIA x34,46 🎰\n\n🇩🇪 Eintracht Frankfurt–1899 Hoffenheim 15:30\n✅ 🔒 1899 Hoffenheim o empate\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham–Ipswich 16:00\n✅ ⚽ Ambos marcan\n🇪🇸 Rayo Vallecano–Valencia 16:15\n✅ 🦵 Sergio Camello comete 1+ faltas\n🇮🇹 Parma–AS Roma 18:00\n✅ 🎳 Enrico Del Prato: 1+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle–Arsenal 18:30\n✅ 🏆 Gana el Arsenal\n🇮🇹 Napoli–Torino 20:45\n✅ ⚽ Torino marca\n🇫🇷 Strasbourg–Stade Brestois 29 20:45\n✅ 🔒 Stade Brestois 29 o empate\n\n🎯 CUOTA 34,46 💎 10€ → 345€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1575223|Double Chance|Draw/Away",
+      "1557476|Both Teams Score|Yes",
+      "1570460|Player Fouls Committed|Sergio Camello - 1",
+      "1550205|Home Player Shots|Enrico Del Prato - 1",
+      "1557475|Match Winner|Away",
+      "1550204|Total - Away|Over 0.5",
+      "1552826|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.57,
+      1.67,
+      1.62,
+      1.91,
+      1.57,
+      1.62,
+      1.67
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 34.46,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-21-loca-th-noche-2130-ganaambos",
+    "fecha": "2026-11-20T21:30",
+    "texto": "👑⚽ GANA Y AMBOS MARCAN 👑⚽\n\n🇩🇪 Bayer Leverkusen – SC Paderborn 07 · 15:30\n↔️ Gana Bayer Leverkusen y ambos marcan\n\n🇳🇱 NEC Nijmegen – PSV Eindhoven · 16:30\n↔️ Gana PSV Eindhoven y ambos marcan\n\n🇫🇷 Nice – Paris Saint Germain · 17:15\n↔️ Gana Paris Saint Germain y ambos marcan\n\n🇳🇱 Feyenoord – Excelsior · 18:45\n↔️ Gana Feyenoord y ambos marcan\n\n🎯 CUOTA 35,40 💎 · 10€ → 354€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1575222|Results/Both Teams Score|Home/Yes",
+      "1552229|Results/Both Teams Score|Away/Yes",
+      "1552824|Results/Both Teams Score|Away/Yes",
+      "1552226|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.38,
+      2.5,
+      2.5,
+      2.38
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 35.4,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_porque": true,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Germany",
+          "bandera": "🇩🇪",
+          "escudo_url": "https://media.api-sports.io/football/teams/168.png",
+          "nombre": "Bayer Leverkusen",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/197.png",
+          "nombre": "PSV Eindhoven",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/85.png",
+          "nombre": "Paris Saint Germain",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Netherlands",
+          "bandera": "🇳🇱",
+          "escudo_url": "https://media.api-sports.io/football/teams/209.png",
+          "nombre": "Feyenoord",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-21-loca-th-noche-2200-lista-ambos",
+    "fecha": "2026-11-20T22:00",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City–Fulham ➜ Ambos marcan @1,70\n2. 🇪🇸 Alaves–Deportivo La Coruna ➜ Ambos marcan @1,91\n3. 🇮🇹 Lazio–Lecce ➜ Ambos marcan @1,91\n4. 🇩🇪 Borussia Mönchengladbach–Borussia Dortmund ➜ Ambos marcan @1,53\n5. 🇩🇪 Union Berlin–RB Leipzig ➜ Ambos marcan @1,53\n6. 🇩🇪 Bayer Leverkusen–SC Paderborn 07 ➜ Ambos marcan @1,67\n7. 🇩🇪 SV Elversberg–SC Freiburg ➜ Ambos marcan @1,50\n8. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea–Leeds ➜ Ambos marcan @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1557474|Both Teams Score|Yes",
+      "1570453|Both Teams Score|Yes",
+      "1550202|Both Teams Score|Yes",
+      "1575222|Both Teams Score|Yes",
+      "1575225|Both Teams Score|Yes",
+      "1575226|Both Teams Score|Yes",
+      "1575229|Both Teams Score|Yes",
+      "1557470|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.7,
+      1.91,
+      1.91,
+      1.67,
+      1.53,
+      1.53,
+      1.5,
+      1.67
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-21-loca-th-noche-2230-duelo",
+    "fecha": "2026-11-20T22:30",
+    "texto": "🤺 EL DUELO DE TIROS 🤺\n\n⭐ Manchester City vs Fulham · 13:30\n\n💨 Enzo Fernandez: 2+ tiros (Manchester City)\n💨 Rodrigo Muniz: 2+ tiros (Fulham)\n\n🎯 CUOTA 2,15 aprox. 💎 · 10€ → 21,50€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1557474|Home Player Shots|Enzo Fernandez - 2",
+      "1557474|Away Player Shots|Rodrigo Muniz - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.5
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.15,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-21-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-20T23:30",
+    "texto": "⚡ COMBI NEC NIJMEGEN – PSV EINDHOVEN ⚡\n\n⭐ NEC Nijmegen vs PSV Eindhoven · 16:30\n\n✅ 🎳 Ahmetcan Kaplan: 1+ tiros\n✅ 🎳 Emre Mor: 2+ tiros\n✅ 🎳 Willum Willumsson: 2+ tiros\n✅ ☄️ PSV Eindhoven marca 2+\n✅ 🎳 Mitchel Bakker: 2+ tiros\n✅ ⏱️ +1,5 goles en la 2ª parte del NEC Nijmegen–PSV Eindhoven\n✅ ⚡ Gana el PSV Eindhoven\n✅ ☄️ Guus Til marca\n\n🎯 CUOTA 10,71 aprox. 💎 10€ → 107€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552229|Home Player Shots|Ahmetcan Kaplan - 1",
+      "1552229|Home Player Shots|Emre Mor - 2",
+      "1552229|Home Player Shots|Willum Willumsson - 2",
+      "1552229|Total - Away|Over 1.5",
+      "1552229|Home Player Shots|Mitchel Bakker - 2",
+      "1552229|Goals Over/Under - Second Half|Over 1.5",
+      "1552229|Match Winner|Away",
+      "1552229|Anytime Goal Scorer|Guus Til"
+    ],
+    "cuotas": [
+      1.57,
+      1.4,
+      1.4,
+      1.4,
+      1.44,
+      1.44,
+      1.73,
+      2.1
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 10.71,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "NEC Nijmegen",
+      "visitante": "PSV Eindhoven",
+      "id_l": 413,
+      "id_v": 197,
+      "logo_l": "https://media.api-sports.io/football/teams/413.png",
+      "logo_v": "https://media.api-sports.io/football/teams/197.png",
+      "fecha": "2026-11-21T16:30",
+      "liga": "Eredivisie"
+    },
+    "cuota_total": 10.71,
+    "cuota_calculada": true
   }
 ]

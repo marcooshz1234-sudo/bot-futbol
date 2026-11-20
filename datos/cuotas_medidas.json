@@ -3841,5 +3841,157 @@
     0.99
    ]
   ]
+ },
+ {
+  "id": "2026-11-21-loca-th-noche-2230-duelo",
+  "fecha": "2026-11-20T22:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1557474|Home Player Shots|Enzo Fernandez - 2",
+   "1557474|Away Player Shots|Rodrigo Muniz - 2"
+  ],
+  "cuotas": [
+   1.4,
+   1.5
+  ],
+  "real": 2.15,
+  "multiplicando": 2.1,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-21-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-20T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1552229|Home Player Shots|Ahmetcan Kaplan - 1",
+   "1552229|Home Player Shots|Emre Mor - 2",
+   "1552229|Home Player Shots|Willum Willumsson - 2",
+   "1552229|Total - Away|Over 1.5",
+   "1552229|Home Player Shots|Mitchel Bakker - 2",
+   "1552229|Goals Over/Under - Second Half|Over 1.5",
+   "1552229|Match Winner|Away",
+   "1552229|Anytime Goal Scorer|Guus Til"
+  ],
+  "cuotas": [
+   1.57,
+   1.4,
+   1.4,
+   1.4,
+   1.44,
+   1.44,
+   1.73,
+   2.1
+  ],
+  "real": 10.71,
+  "multiplicando": 32.454,
+  "aj": 0.6296823487512627,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "jugador+resultado/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+resultado/partido",
+    0.9
+   ]
+  ]
  }
 ]

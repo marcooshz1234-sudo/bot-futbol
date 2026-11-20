@@ -8908,30 +8908,6 @@
     "jugador": "A. Longoni",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 85,
-    "jugador": "M. Akliouche",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 85,
-    "jugador": "D. Doue",
-    "tipo": "Questionable",
-    "motivo": "Hamstring Injury"
-   },
-   {
-    "equipo": 85,
-    "jugador": "D. Fernandez",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 85,
-    "jugador": "Marquinhos",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
    }
   ],
   "1573652": [],
@@ -9595,7 +9571,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-20T19:31:26.925552+01:00",
+ "ultima": "2026-11-20T20:06:33.878945+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
