@@ -1,10 +1,10 @@
 # Norwich – Cardiff
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · Carrow Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **1.75**  ·  X **4.20**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.22**  ·  X2 **2.00**
@@ -129,7 +129,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Norwich:** A. Ahmed (baja, Knee Injury); P. A. Diallo (baja, Hamstring Injury); G. Forsyth (baja, Lacking Match Fitness); M. Toure (baja, Shoulder Injury)
+**Cardiff:** J. Bagan (baja, Yellow Cards); C. Chambers (baja, Knee Injury); I. Davies (baja, Muscle Injury); D. Lawlor (baja, Hamstring Injury); C. Robinson (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-08-25 · League Cup: Cardiff 1-2 Norwich

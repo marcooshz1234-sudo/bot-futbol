@@ -56,21 +56,21 @@
   },
   "TRADER FOOTBALL || FREE👨🏼‍💻": {
    "n": 9,
-   "verdes": 4,
+   "verdes": 6,
    "rojos": 2,
    "nulos": 0,
-   "unidades": 0.05,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 3.98
+   "unidades": 1.11,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 5.288
   },
   "AllSportsPicks ⚽🏀🎾": {
    "n": 8,
    "verdes": 1,
-   "rojos": 4,
+   "rojos": 5,
    "nulos": 0,
-   "unidades": -3.39,
-   "resueltos_con_cuota": 5,
-   "prob_cuota": 3.133
+   "unidades": -4.39,
+   "resueltos_con_cuota": 6,
+   "prob_cuota": 3.77
   },
   "TipsPro": {
    "n": 6,
@@ -191,12 +191,12 @@
   },
   "Goals Over/Under Over 2.5": {
    "n": 15,
-   "verdes": 7,
-   "rojos": 4,
+   "verdes": 8,
+   "rojos": 5,
    "nulos": 0,
-   "unidades": 0.33,
-   "resueltos_con_cuota": 9,
-   "prob_cuota": 5.79
+   "unidades": -0.14,
+   "resueltos_con_cuota": 11,
+   "prob_cuota": 7.081
   },
   "Goals Over/Under Over 1.5": {
    "n": 10,
@@ -338,12 +338,12 @@
   },
   "Goals Over/Under Over 5.5": {
    "n": 2,
-   "verdes": 0,
+   "verdes": 1,
    "rojos": 1,
    "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.581
+   "unidades": -0.47,
+   "resueltos_con_cuota": 2,
+   "prob_cuota": 1.235
   },
   "Goals Over/Under Over 3.5": {
    "n": 2,
@@ -576,12 +576,12 @@
  "equipo": {
   "—": {
    "n": 81,
-   "verdes": 34,
-   "rojos": 11,
+   "verdes": 36,
+   "rojos": 12,
    "nulos": 0,
-   "unidades": 4.35,
-   "resueltos_con_cuota": 38,
-   "prob_cuota": 25.345
+   "unidades": 4.41,
+   "resueltos_con_cuota": 41,
+   "prob_cuota": 27.29
   },
   "Spain": {
    "n": 7,
@@ -918,21 +918,21 @@
   },
   "goles": {
    "n": 34,
-   "verdes": 12,
+   "verdes": 14,
    "rojos": 9,
    "nulos": 0,
-   "unidades": -4.01,
-   "resueltos_con_cuota": 21,
-   "prob_cuota": 15.056
+   "unidades": -2.95,
+   "resueltos_con_cuota": 23,
+   "prob_cuota": 16.364
   },
   "casa/fuera": {
    "n": 28,
-   "verdes": 12,
-   "rojos": 6,
+   "verdes": 14,
+   "rojos": 7,
    "nulos": 0,
-   "unidades": 1.21,
-   "resueltos_con_cuota": 15,
-   "prob_cuota": 9.641
+   "unidades": 1.27,
+   "resueltos_con_cuota": 18,
+   "prob_cuota": 11.586
   },
   "clasificación": {
    "n": 13,
@@ -973,22 +973,22 @@
   "categoría": {
    "n": 7,
    "verdes": 3,
-   "rojos": 3,
+   "rojos": 4,
    "nulos": 0,
-   "unidades": -1.03,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 3.974
+   "unidades": -2.03,
+   "resueltos_con_cuota": 7,
+   "prob_cuota": 4.611
   }
  },
  "cuota": {
   "1,50-1,80": {
    "n": 57,
-   "verdes": 24,
-   "rojos": 14,
+   "verdes": 26,
+   "rojos": 15,
    "nulos": 0,
-   "unidades": 0.5,
-   "resueltos_con_cuota": 38,
-   "prob_cuota": 23.974
+   "unidades": 0.56,
+   "resueltos_con_cuota": 41,
+   "prob_cuota": 25.919
   },
   "<1,50": {
    "n": 29,
@@ -1046,12 +1046,12 @@
   },
   "UEFA Champions League Women": {
    "n": 10,
-   "verdes": 1,
-   "rojos": 5,
+   "verdes": 3,
+   "rojos": 6,
    "nulos": 0,
-   "unidades": -4.86,
-   "resueltos_con_cuota": 6,
-   "prob_cuota": 4.306
+   "unidades": -4.8,
+   "resueltos_con_cuota": 9,
+   "prob_cuota": 6.251
   },
   "Copa del Rey": {
    "n": 5,
@@ -1075,12 +1075,12 @@
  "lado": {
   "partido": {
    "n": 69,
-   "verdes": 27,
-   "rojos": 9,
+   "verdes": 29,
+   "rojos": 10,
    "nulos": 0,
-   "unidades": 4.16,
-   "resueltos_con_cuota": 29,
-   "prob_cuota": 18.617
+   "unidades": 4.22,
+   "resueltos_con_cuota": 32,
+   "prob_cuota": 20.562
   },
   "local": {
    "n": 40,
@@ -1104,12 +1104,12 @@
  "por_que": {
   "—": {
    "n": 61,
-   "verdes": 22,
-   "rojos": 13,
+   "verdes": 24,
+   "rojos": 14,
    "nulos": 0,
-   "unidades": 2.4,
-   "resueltos_con_cuota": 29,
-   "prob_cuota": 16.702
+   "unidades": 2.46,
+   "resueltos_con_cuota": 32,
+   "prob_cuota": 18.647
   },
   "goles": {
    "n": 43,
@@ -1178,12 +1178,12 @@
  "valor_pinnacle": {
   "?": {
    "n": 134,
-   "verdes": 67,
-   "rojos": 23,
+   "verdes": 69,
+   "rojos": 24,
    "nulos": 0,
-   "unidades": 9.18,
-   "resueltos_con_cuota": 73,
-   "prob_cuota": 47.622
+   "unidades": 9.24,
+   "resueltos_con_cuota": 76,
+   "prob_cuota": 49.567
   },
   "sin valor": {
    "n": 4,

@@ -1,10 +1,10 @@
 # NEC Nijmegen – PSV Eindhoven
 **Eredivisie** · Regular Season - 13 · 21/11/2026 16:30 (hora España) · Stadion de Goffert
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **4.00**  ·  X **4.33**  ·  2 **1.73**
 - **Doble oportunidad:** 1X **2.05**  ·  12 **1.20**  ·  X2 **1.22**
@@ -115,7 +115,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**NEC Nijmegen:** E. Mor (baja, Groin Injury); B. Nuytinck (baja, Ankle Injury); D. Geiger (duda, Injury); P. Schuurs (duda, Injury)
+**PSV Eindhoven:** A. Nagalo (baja, Injury); S. Ouaissa (baja, Muscle Injury); A. Plea (baja, Surgery); J. Schouten (baja, Knee Injury); P. Wanner (baja, Foot Injury); S. Dest (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-14 · Eredivisie: PSV Eindhoven 2-3 NEC Nijmegen

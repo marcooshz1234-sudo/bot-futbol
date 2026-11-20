@@ -1,10 +1,10 @@
 # Sheffield Utd – Watford
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Bramall Lane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **1.57**  ·  X **4.10**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.25**
@@ -126,7 +126,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Sheffield Utd:** M. Doherty (baja, Muscle Injury); R. One (baja, Hamstring Injury); J. Rothwell (baja, Muscle Injury); J. Shackleton (baja, Health problems); P. Bamford (duda, Shoulder Injury)
+**Watford:** M. Antonio (baja, Injury); K. Baah (baja, Knock); E. Bove (baja, Knee Injury); N. Chikovani (baja, Inactive); S. Coulibaly (baja, Hamstring Injury); J. Grieves (baja, Knee Injury); J. Ngakia (baja, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-18 · Championship: Watford 0-2 Sheffield Utd

@@ -1,10 +1,10 @@
 # Eintracht Frankfurt – 1899 Hoffenheim
 **Bundesliga** · Regular Season - 10 · 21/11/2026 15:30 (hora España) · Deutsche Bank Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **2.30**  ·  X **4.00**  ·  2 **2.70**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.22**  ·  X2 **1.57**
@@ -35,6 +35,8 @@ _Actualizadas: 19/11 20:06_
     - 10: más **1.85** · menos **1.95**
     - 10,5: más **2.00** · menos **1.73**
 - **Córners 1X2:** 1 **1.91**  ·  X **8.00**  ·  2 **2.20**
+- **Tarjetas más/menos:**
+    - 3,5: más **1.62** · menos **2.20**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.62**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.10** · menos **7.00**
@@ -124,7 +126,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Eintracht Frankfurt:** E. Baum (baja, Red Card); J. Ngankam (baja, Groin Injury); C. Uzun (duda, Illness)
+**1899 Hoffenheim:** V. Gendrey (baja, Ankle Injury); B. Conte (duda, Groin Injury); N. De Cat (duda, Knee Injury); A. Hajdari (duda, Foot Injury); R. Hranac (duda, Knee Injury); A. Prass (duda, Thigh Injury); P. Wimmer (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-01-24 · Bundesliga: Eintracht Frankfurt 1-3 1899 Hoffenheim

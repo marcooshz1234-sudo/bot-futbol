@@ -19,14 +19,357 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 1.1,
-   "viento_kmh": 19.4,
-   "temperatura": 11.2
+   "lluvia_mm": 0.5,
+   "viento_kmh": 17.3,
+   "temperatura": 10.8
   },
   "arbitro": {
    "nombre": "Jeremie Pignard",
    "partidos": 4,
    "tarjetas": 4.2
+  }
+ },
+ "1552824": {
+  "local": {
+   "nombre": "Nice",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 5,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Paris Saint Germain",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Champions",
+   "puesto": 1,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.6,
+   "temperatura": 15.5
+  },
+  "arbitro": {
+   "nombre": "Jerome Brisard",
+   "partidos": 5,
+   "tarjetas": 5.0
+  }
+ },
+ "1563269": {
+  "local": {
+   "nombre": "Sheffield Utd",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 11,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Watford",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null,
+   "puesto": 21,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 5.0,
+   "temperatura": 5.6
+  },
+  "arbitro": {
+   "nombre": "Tim Robinson",
+   "partidos": 8,
+   "tarjetas": 4.4
+  }
+ },
+ "1565303": {
+  "local": {
+   "nombre": "CFR 1907 Cluj",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 16
+  },
+  "visitante": {
+   "nombre": "Oţelul",
+   "dias_desde": 11,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 16
+  },
+  "tiempo": {
+   "lluvia_mm": 2.3,
+   "viento_kmh": 6.4,
+   "temperatura": 8.9
+  }
+ },
+ "1563268": {
+  "local": {
+   "nombre": "Norwich",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 13,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Cardiff",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 16,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 1.1,
+   "temperatura": 5.1
+  },
+  "arbitro": {
+   "nombre": "Matt Donohue",
+   "partidos": 6,
+   "tarjetas": 4.7
+  }
+ },
+ "1552823": {
+  "local": {
+   "nombre": "Monaco",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Conference League",
+   "puesto": 7,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Auxerre",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 18
+  },
+  "arbitro": {
+   "nombre": "Jeremy Stinat",
+   "partidos": 4,
+   "tarjetas": 3.5
+  }
+ },
+ "1570461": {
+  "local": {
+   "nombre": "Real Madrid",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 2,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Celta Vigo",
+   "dias_desde": 8,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Europa League",
+   "puesto": 12,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.7,
+   "viento_kmh": 1.1,
+   "temperatura": 11.4
+  }
+ },
+ "1647591": {
+  "local": {
+   "nombre": "Sporting CP",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Champions"
+  },
+  "visitante": {
+   "nombre": "UD da Serra",
+   "dias_desde": null,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.4,
+   "viento_kmh": 15.2,
+   "temperatura": 18.0
+  }
+ },
+ "1557468": {
+  "local": {
+   "nombre": "Bournemouth",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 7,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Nottingham Forest",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 17,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 9.0,
+   "temperatura": 10.7
+  },
+  "arbitro": {
+   "nombre": "Adam Herczeg",
+   "partidos": 7,
+   "tarjetas": 4.6
+  }
+ },
+ "1570027": {
+  "local": {
+   "nombre": "Castellón",
+   "dias_desde": 7,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 2,
+   "de": 22
+  },
+  "visitante": {
+   "nombre": "Eldense",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 15,
+   "de": 22
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 1.3,
+   "temperatura": 17.5
+  }
+ },
+ "1647580": {
+  "local": {
+   "nombre": "Atlético CP",
+   "dias_desde": 34,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Casa Pia",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 9,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 22.2,
+   "temperatura": 19.3
+  }
+ },
+ "1552229": {
+  "local": {
+   "nombre": "NEC Nijmegen",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 11,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "PSV Eindhoven",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 1,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 11.2,
+   "temperatura": 8.0
+  },
+  "arbitro": {
+   "nombre": "Jeroen Manschot",
+   "partidos": 7,
+   "tarjetas": 3.7
+  },
+  "cuotas": {
+   "Away": [
+    1.5,
+    1.73
+   ]
+  }
+ },
+ "1557474": {
+  "local": {
+   "nombre": "Manchester City",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 3,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Fulham",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 15,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.2,
+   "temperatura": 5.3
+  }
+ },
+ "1557467": {
+  "local": {
+   "nombre": "Aston Villa",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 10,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Sunderland",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 19,
+   "de": 20
   }
  },
  "1608379": {
@@ -60,6 +403,192 @@
    ]
   }
  },
+ "1552231": {
+  "local": {
+   "nombre": "Telstar",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 16,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "PEC Zwolle",
+   "dias_desde": 15,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 13,
+   "de": 18
+  },
+  "arbitro": {
+   "nombre": "Joey Kooij",
+   "partidos": 9,
+   "tarjetas": 4.1
+  }
+ },
+ "1563274": {
+  "local": {
+   "nombre": "Wolves",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 4,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Charlton",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 19,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 9.4,
+   "temperatura": 6.5
+  }
+ },
+ "1551378": {
+  "local": {
+   "nombre": "Esbjerg",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": null,
+   "puesto": 10,
+   "de": 12
+  },
+  "visitante": {
+   "nombre": "AB Copenhagen",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 4,
+   "de": 12
+  },
+  "tiempo": {
+   "lluvia_mm": 0.9,
+   "viento_kmh": 19.8,
+   "temperatura": 7.1
+  }
+ },
+ "1557475": {
+  "local": {
+   "nombre": "Newcastle",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 12,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Arsenal",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 1,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 0.4,
+   "temperatura": 2.2
+  },
+  "arbitro": {
+   "nombre": "Chris Kavanagh",
+   "partidos": 4,
+   "tarjetas": 4.0
+  }
+ },
+ "1575222": {
+  "local": {
+   "nombre": "Bayer Leverkusen",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 5,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "SC Paderborn 07",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 13,
+   "de": 18
+  }
+ },
+ "1647593": {
+  "local": {
+   "nombre": "Vitória SC",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "SC Braga",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Conference League"
+  }
+ },
+ "1573651": {
+  "local": {
+   "nombre": "Edf Logrono W",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 18,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 16
+  },
+  "visitante": {
+   "nombre": "Deportivo Alavés W",
+   "dias_desde": 7,
+   "ultimo_europa": null,
+   "dias_hasta": 16,
+   "siguiente_europa": null,
+   "puesto": 13,
+   "de": 16
+  }
+ },
+ "1565305": {
+  "local": {
+   "nombre": "Dinamo Bucuresti",
+   "dias_desde": 15,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 2,
+   "de": 16
+  },
+  "visitante": {
+   "nombre": "Petrolul Ploiesti",
+   "dias_desde": 15,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 4,
+   "de": 16
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 8.2,
+   "temperatura": 9.9
+  }
+ },
  "1551377": {
   "local": {
    "nombre": "Aarhus Fremad",
@@ -82,38 +611,57 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 8.3,
-   "temperatura": -0.4
+   "temperatura": -0.5
   }
  },
- "1638338": {
+ "1573648": {
   "local": {
-   "nombre": "SL Benfica W",
-   "dias_desde": 7,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 27,
-   "siguiente_europa": "Champions femenina"
+   "nombre": "FC Levante Badalona W",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 17,
+   "siguiente_europa": null,
+   "puesto": 15,
+   "de": 16
   },
   "visitante": {
-   "nombre": "Roma W",
-   "dias_desde": 9,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 27,
-   "siguiente_europa": "Champions femenina"
+   "nombre": "Deportivo de La Coruña W",
+   "dias_desde": 5,
+   "ultimo_europa": null,
+   "dias_hasta": 18,
+   "siguiente_europa": null,
+   "puesto": 10,
+   "de": 16
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.6,
-   "temperatura": 14.4
+   "viento_kmh": 3.9,
+   "temperatura": 16.6
+  }
+ },
+ "1550202": {
+  "local": {
+   "nombre": "Lazio",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 1,
+   "de": 20
   },
-  "cuotas": {
-   "Home": [
-    1.85,
-    2.0
-   ],
-   "Away": [
-    3.5,
-    3.0
-   ]
+  "visitante": {
+   "nombre": "Lecce",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 9,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 9.1,
+   "temperatura": 18.3
   }
  },
  "1551380": {
@@ -137,14 +685,44 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.0,
-   "temperatura": 1.2
+   "viento_kmh": 8.3,
+   "temperatura": 0.5
   },
   "cuotas": {
    "Away": [
     2.3,
     2.5
    ]
+  }
+ },
+ "1563272": {
+  "local": {
+   "nombre": "Swansea",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 7,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "West Brom",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null,
+   "puesto": 5,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 21.2,
+   "temperatura": 10.1
+  },
+  "arbitro": {
+   "nombre": "Thomas Kirk",
+   "partidos": 4,
+   "tarjetas": 3.5
   }
  },
  "1565308": {
@@ -165,6 +743,127 @@
    "siguiente_europa": null,
    "puesto": 15,
    "de": 16
+  }
+ },
+ "1563271": {
+  "local": {
+   "nombre": "Stoke City",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null,
+   "puesto": 2,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Birmingham",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null,
+   "puesto": 3,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 9.0,
+   "temperatura": 5.6
+  }
+ },
+ "1557471": {
+  "local": {
+   "nombre": "Coventry",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 16,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Crystal Palace",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 20,
+   "de": 20
+  },
+  "tiempo": null
+ },
+ "1552820": {
+  "local": {
+   "nombre": "Lille",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Champions",
+   "puesto": 2,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Lyon",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 6,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.5,
+   "temperatura": 4.9
+  }
+ },
+ "1565304": {
+  "local": {
+   "nombre": "Csikszereda",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 16,
+   "de": 16
+  },
+  "visitante": {
+   "nombre": "Corvinul Hunedoara",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 7,
+   "de": 16
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 12.2,
+   "temperatura": 9.4
+  }
+ },
+ "1575229": {
+  "local": {
+   "nombre": "SV Elversberg",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 7,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "SC Freiburg",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Conference League",
+   "puesto": 3,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.2,
+   "temperatura": 6.7
   }
  },
  "1570454": {
@@ -188,35 +887,223 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.4,
-   "temperatura": 15.6
+   "viento_kmh": 7.7,
+   "temperatura": 14.8
   }
  },
- "1638286": {
+ "1570453": {
   "local": {
-   "nombre": "Arsenal W",
-   "dias_desde": 7,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 27,
-   "siguiente_europa": "Champions femenina"
+   "nombre": "Alaves",
+   "dias_desde": 10,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 11,
+   "de": 20
   },
   "visitante": {
-   "nombre": "Lyon W",
-   "dias_desde": 8,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 27,
-   "siguiente_europa": "Champions femenina"
+   "nombre": "Deportivo La Coruna",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 20
+  },
+  "cuotas": {
+   "Home": [
+    2.0,
+    2.2
+   ]
+  }
+ },
+ "1557476": {
+  "local": {
+   "nombre": "Tottenham",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 11,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Ipswich",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 20
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.0,
-   "temperatura": 6.6
+   "viento_kmh": 8.6,
+   "temperatura": 9.3
+  }
+ },
+ "1563267": {
+  "local": {
+   "nombre": "Millwall",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null,
+   "puesto": 15,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "QPR",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 8,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.5,
+   "temperatura": 8.3
+  },
+  "arbitro": {
+   "nombre": "Josh Smith",
+   "partidos": 8,
+   "tarjetas": 4.9
   },
   "cuotas": {
-   "Away": [
-    2.2,
-    1.62
+   "Home": [
+    2.4,
+    2.6
    ]
+  }
+ },
+ "1570034": {
+  "local": {
+   "nombre": "Sabadell",
+   "dias_desde": 2,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 22
+  },
+  "visitante": {
+   "nombre": "Granada CF",
+   "dias_desde": 5,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 3,
+   "de": 22
+  },
+  "tiempo": null,
+  "cuotas": {
+   "Home": [
+    2.05,
+    2.5
+   ],
+   "Away": [
+    3.5,
+    2.9
+   ]
+  }
+ },
+ "1550204": {
+  "local": {
+   "nombre": "Napoli",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 10,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Torino",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 12,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 2.9,
+   "temperatura": 17.3
+  }
+ },
+ "1573652": {
+  "local": {
+   "nombre": "Eibar W",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 18,
+   "siguiente_europa": null,
+   "puesto": 11,
+   "de": 16
+  },
+  "visitante": {
+   "nombre": "Atletico Madrid W",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 16,
+   "siguiente_europa": null,
+   "puesto": 3,
+   "de": 16
+  },
+  "tiempo": {
+   "lluvia_mm": 3.3,
+   "viento_kmh": 5.1,
+   "temperatura": 13.6
+  }
+ },
+ "1552226": {
+  "local": {
+   "nombre": "Feyenoord",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 2,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Excelsior",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 15,
+   "de": 18
+  },
+  "tiempo": null,
+  "arbitro": {
+   "nombre": "Robin Hensgens",
+   "partidos": 7,
+   "tarjetas": 2.1
+  }
+ },
+ "1647587": {
+  "local": {
+   "nombre": "Maritimo",
+   "dias_desde": 19,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Chaves",
+   "dias_desde": 5,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.3,
+   "temperatura": 20.6
   }
  },
  "1647583": {
@@ -235,30 +1122,135 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.0,
-   "viento_kmh": 8.7,
-   "temperatura": 13.7
+   "lluvia_mm": 3.9,
+   "viento_kmh": 11.0,
+   "temperatura": 13.5
   }
  },
- "1638297": {
+ "1570460": {
   "local": {
-   "nombre": "Barcelona W",
-   "dias_desde": 4,
+   "nombre": "Rayo Vallecano",
+   "dias_desde": 13,
    "ultimo_europa": null,
-   "dias_hasta": 2,
-   "siguiente_europa": null
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 20
   },
   "visitante": {
-   "nombre": "Servette Chênois W",
-   "dias_desde": 9,
-   "ultimo_europa": "Champions femenina",
-   "dias_hasta": 27,
-   "siguiente_europa": "Champions femenina"
+   "nombre": "Valencia",
+   "dias_desde": 10,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 19,
+   "de": 20
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
-   "temperatura": 15.6
+   "viento_kmh": 4.1,
+   "temperatura": 12.5
+  }
+ },
+ "1552826": {
+  "local": {
+   "nombre": "Strasbourg",
+   "dias_desde": 15,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 13,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Stade Brestois 29",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 10,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.7,
+   "temperatura": 6.8
+  },
+  "arbitro": {
+   "nombre": "Azzedine Souifi",
+   "partidos": 4,
+   "tarjetas": 3.5
+  }
+ },
+ "1608380": {
+  "local": {
+   "nombre": "Treviso",
+   "dias_desde": 5,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Pergolettese",
+   "dias_desde": 5,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.3,
+   "temperatura": 9.4
+  }
+ },
+ "1570033": {
+  "local": {
+   "nombre": "Real Sociedad II",
+   "dias_desde": 7,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 17,
+   "de": 22
+  },
+  "visitante": {
+   "nombre": "Cadiz",
+   "dias_desde": 5,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 21,
+   "de": 22
+  },
+  "tiempo": {
+   "lluvia_mm": 0.9,
+   "viento_kmh": 20.4,
+   "temperatura": 16.6
+  }
+ },
+ "1550205": {
+  "local": {
+   "nombre": "Parma",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 16,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "AS Roma",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Champions",
+   "puesto": 3,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 3.8,
+   "temperatura": 9.8
   }
  },
  "1570025": {
@@ -282,8 +1274,319 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.3,
-   "temperatura": 10.9
+   "viento_kmh": 4.6,
+   "temperatura": 11.5
+  }
+ },
+ "1570462": {
+  "local": {
+   "nombre": "Sevilla",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null,
+   "puesto": 6,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Real Betis",
+   "dias_desde": 8,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 4,
+   "de": 20
+  }
+ },
+ "1608376": {
+  "local": {
+   "nombre": "Giana Erminio",
+   "dias_desde": 7,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Juventus U23",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 4.8,
+   "temperatura": 11.0
+  }
+ },
+ "1647579": {
+  "local": {
+   "nombre": "AVS",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Tondela",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null
+  }
+ },
+ "1552233": {
+  "local": {
+   "nombre": "Utrecht",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Cambuur",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.8,
+   "temperatura": 6.2
+  },
+  "arbitro": {
+   "nombre": "Allard Lindhout",
+   "partidos": 12,
+   "tarjetas": 2.3
+  },
+  "cuotas": {
+   "Home": [
+    1.75,
+    1.91
+   ]
+  }
+ },
+ "1563270": {
+  "local": {
+   "nombre": "Southampton",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 6,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Derby",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 22,
+   "de": 24
+  },
+  "tiempo": null,
+  "arbitro": {
+   "nombre": "Sam Allison",
+   "partidos": 7,
+   "tarjetas": 3.4
+  }
+ },
+ "1608375": {
+  "local": {
+   "nombre": "Folgore Caratese",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Arzignano Valchiampo",
+   "dias_desde": 7,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.5,
+   "temperatura": 11.8
+  }
+ },
+ "1551381": {
+  "local": {
+   "nombre": "Vejle",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 2,
+   "de": 12
+  },
+  "visitante": {
+   "nombre": "HB Koge",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 12,
+   "de": 12
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 16.6,
+   "temperatura": 5.6
+  }
+ },
+ "1575226": {
+  "local": {
+   "nombre": "Borussia Mönchengladbach",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 18,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Borussia Dortmund",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 2,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 11.9,
+   "temperatura": 7.7
+  }
+ },
+ "1563266": {
+  "local": {
+   "nombre": "Middlesbrough",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 1,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Bristol City",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 14,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 1.8,
+   "temperatura": 3.9
+  },
+  "arbitro": {
+   "nombre": "Ruebyn Ricardo",
+   "partidos": 4,
+   "tarjetas": 6.0
+  }
+ },
+ "1570035": {
+  "local": {
+   "nombre": "Tenerife",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 13,
+   "de": 22
+  },
+  "visitante": {
+   "nombre": "Mallorca",
+   "dias_desde": 3,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 7,
+   "de": 22
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 9.6,
+   "temperatura": 22.0
+  },
+  "cuotas": {
+   "Away": [
+    2.3,
+    2.0
+   ]
+  }
+ },
+ "1563265": {
+  "local": {
+   "nombre": "Lincoln",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 20,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Wrexham",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 17,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 7.2,
+   "temperatura": 5.0
+  },
+  "arbitro": {
+   "nombre": "Edward Duckworth",
+   "partidos": 5,
+   "tarjetas": 4.2
+  }
+ },
+ "1563263": {
+  "local": {
+   "nombre": "Bolton",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": null,
+   "puesto": 18,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Portsmouth",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 10,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 11.5,
+   "temperatura": 5.3
+  },
+  "arbitro": {
+   "nombre": "Tom Reeves",
+   "partidos": 6,
+   "tarjetas": 4.2
   }
  },
  "1575221": {
@@ -307,8 +1610,236 @@
   },
   "tiempo": {
    "lluvia_mm": 0.1,
+   "viento_kmh": 20.6,
+   "temperatura": 8.3
+  }
+ },
+ "1647581": {
+  "local": {
+   "nombre": "Estoril",
+   "dias_desde": 20,
+   "ultimo_europa": null,
+   "dias_hasta": 8,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Felgueiras 1932",
+   "dias_desde": 6,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  },
+  "tiempo": {
+   "lluvia_mm": 12.8,
+   "viento_kmh": 20.5,
+   "temperatura": 19.0
+  }
+ },
+ "1557470": {
+  "local": {
+   "nombre": "Chelsea",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 6,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Leeds",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 8,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 8.6,
+   "temperatura": 9.3
+  },
+  "arbitro": {
+   "nombre": "Michael Oliver",
+   "partidos": 4,
+   "tarjetas": 4.0
+  }
+ },
+ "1575225": {
+  "local": {
+   "nombre": "Union Berlin",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 16,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "RB Leipzig",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 4,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
    "viento_kmh": 19.5,
-   "temperatura": 8.0
+   "temperatura": 6.0
+  }
+ },
+ "1647586": {
+  "local": {
+   "nombre": "Mafra",
+   "dias_desde": 34,
+   "ultimo_europa": null,
+   "dias_hasta": null,
+   "siguiente_europa": null
+  },
+  "visitante": {
+   "nombre": "Arouca",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null
+  }
+ },
+ "1575228": {
+  "local": {
+   "nombre": "FC Schalke 04",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 17,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "VfB Stuttgart",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 4,
+   "siguiente_europa": "Champions",
+   "puesto": 8,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 7.9,
+   "temperatura": 6.9
+  }
+ },
+ "1551382": {
+  "local": {
+   "nombre": "Vendsyssel FF",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 11,
+   "de": 12
+  },
+  "visitante": {
+   "nombre": "Hvidovre",
+   "dias_desde": 11,
+   "ultimo_europa": null,
+   "dias_hasta": 6,
+   "siguiente_europa": null,
+   "puesto": 1,
+   "de": 12
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 8.3,
+   "temperatura": 4.5
+  }
+ },
+ "1563273": {
+  "local": {
+   "nombre": "West Ham",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 24
+  },
+  "visitante": {
+   "nombre": "Preston",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": null,
+   "puesto": 24,
+   "de": 24
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 8.6,
+   "temperatura": 9.3
+  },
+  "arbitro": {
+   "nombre": "Will Finnie",
+   "partidos": 5,
+   "tarjetas": 3.4
+  }
+ },
+ "1552819": {
+  "local": {
+   "nombre": "Lens",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 11,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Toulouse",
+   "dias_desde": 15,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 12,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 7.6,
+   "temperatura": 5.9
+  }
+ },
+ "1575223": {
+  "local": {
+   "nombre": "Eintracht Frankfurt",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "1899 Hoffenheim",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": "Europa League",
+   "puesto": 10,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.9,
+   "temperatura": 7.4
+  },
+  "cuotas": {
+   "Away": [
+    2.5,
+    2.7
+   ]
   }
  },
  "1565306": {
@@ -332,8 +1863,73 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.7,
-   "temperatura": 12.2
+   "viento_kmh": 10.2,
+   "temperatura": 12.3
+  }
+ },
+ "1552228": {
+  "local": {
+   "nombre": "Groningen",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 5,
+   "siguiente_europa": null,
+   "puesto": 10,
+   "de": 18
+  },
+  "visitante": {
+   "nombre": "Heerenveen",
+   "dias_desde": 13,
+   "ultimo_europa": null,
+   "dias_hasta": 7,
+   "siguiente_europa": null,
+   "puesto": 6,
+   "de": 18
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 12.6,
+   "temperatura": 3.2
+  },
+  "arbitro": {
+   "nombre": "Alex Bos",
+   "partidos": 7,
+   "tarjetas": 2.0
+  },
+  "cuotas": {
+   "Home": [
+    2.15,
+    2.5
+   ],
+   "Away": [
+    2.9,
+    2.62
+   ]
+  }
+ },
+ "1550200": {
+  "local": {
+   "nombre": "Como",
+   "dias_desde": 12,
+   "ultimo_europa": null,
+   "dias_hasta": 3,
+   "siguiente_europa": "Champions",
+   "puesto": 5,
+   "de": 20
+  },
+  "visitante": {
+   "nombre": "Cagliari",
+   "dias_desde": 14,
+   "ultimo_europa": null,
+   "dias_hasta": 9,
+   "siguiente_europa": null,
+   "puesto": 9,
+   "de": 20
+  },
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.1,
+   "temperatura": 15.2
   }
  }
 }

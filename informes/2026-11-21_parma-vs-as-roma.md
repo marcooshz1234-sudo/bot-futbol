@@ -1,10 +1,10 @@
 # Parma – AS Roma
 **Serie A** · Regular Season - 12 · 21/11/2026 18:00 (hora España) · Ennio Tardini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **9.00**  ·  X **5.75**  ·  2 **1.28**
 - **Doble oportunidad:** 1X **3.50**  ·  12 **1.14**  ·  X2 **1.07**
@@ -123,7 +123,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Parma:** A. Ndiaye (baja, Red Card); D. Romero (baja, Shoulder Injury); A. Bernabe (duda, Thigh Injury); Diego Carlos (duda, Groin Injury); D. Drobnic (duda, Foot Injury); L. Valenti (duda, Coach's decision)
+**AS Roma:** L. Pellegrini (baja, Thigh Injury); P. Gollini (duda, Back Injury); D. Rensch (duda, Muscle Injury); M. Svilar (duda, Toe Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-05-10 · Serie A: Parma 2-3 AS Roma

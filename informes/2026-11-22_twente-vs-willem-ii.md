@@ -1,10 +1,10 @@
 # Twente – Willem II
 **Eredivisie** · Regular Season - 13 · 22/11/2026 12:15 (hora España) · De Grolsch Veste
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 14:24_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **1.09**  ·  X **10.00**  ·  2 **21.00**
 - **Doble oportunidad:** 1X **1.01**  ·  12 **1.06**  ·  X2 **8.00**
@@ -114,7 +114,8 @@ _Actualizadas: 19/11 14:24_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Twente:** M. Bruns (baja, Inactive); S. Lemkin (baja, Muscle Injury); F. Thorvaldsen (baja, Inactive); L. Unnerstall (baja, Inactive)
+**Willem II:** J. Hoogma (baja, Knee Injury); A. Lachkar (baja, Groin Injury); T. Didillon Hodl (duda, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2025-01-12 · Eredivisie: Twente 6-2 Willem II

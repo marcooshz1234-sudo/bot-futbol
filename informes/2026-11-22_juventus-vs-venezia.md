@@ -1,10 +1,10 @@
 # Juventus – Venezia
 **Serie A** · Regular Season - 12 · 22/11/2026 12:30 (hora España) · Allianz Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 14:24_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **1.33**  ·  X **5.25**  ·  2 **9.00**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.17**  ·  X2 **3.25**
@@ -120,7 +120,8 @@ _Actualizadas: 19/11 14:24_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Venezia:** M. Šverko (baja, Hip Injury)
+**Juventus:** K. Grabara (baja, Knee Injury); P. Kalulu (baja, Hamstring Injury); M. Locatelli (baja, Knee Injury); A. Milik (baja, Inactive); K. Thuram (baja, Knee Injury); K. Yildiz (baja, Foot Injury); A. Cambiaso (duda, Muscle Injury); Z. Celik (duda, Muscle Injury)
+**Venezia:** A. Adorante (baja, Hernia); B. Franjic (baja, Shoulder Injury); M. Sverko (baja, Hip Injury); P. Mazzocchi (duda, Muscle Injury); J. Yeboah (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-05-25 · Serie A: Venezia 2-3 Juventus

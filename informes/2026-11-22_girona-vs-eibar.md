@@ -1,10 +1,10 @@
 # Girona – Eibar
-**Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Estadio Municipal de Montilivi
+**Segunda División** · Regular Season - 15 · 22/11/2026 18:30 (hora España) · Estadi Montilivi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:08_
+_Actualizadas: 20/11 02:15_
 
 - **1X2:** 1 **1.75**  ·  X **3.75**  ·  2 **4.50**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.00**
@@ -30,8 +30,8 @@ _Actualizadas: 19/11 20:08_
     - 1,5: más **3.25** · menos **1.33**
     - 2,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
-- **Córners 1X2:** 1 **1.33**  ·  X **9.50**  ·  2 **4.00**
+    - 9,5: más **1.90** · menos **1.90**
+- **Córners 1X2:** 1 **1.36**  ·  X **9.00**  ·  2 **3.75**
 - **1X2 descanso:** 1 **2.30**  ·  X **2.30**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**

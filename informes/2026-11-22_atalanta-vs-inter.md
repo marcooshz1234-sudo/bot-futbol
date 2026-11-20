@@ -1,10 +1,10 @@
 # Atalanta – Inter
 **Serie A** · Regular Season - 12 · 22/11/2026 20:45 (hora España) · New Balance Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 14:24_
+_Actualizadas: 20/11 02:15_
 
 - **1X2:** 1 **5.00**  ·  X **4.33**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.20**  ·  X2 **1.17**
@@ -126,7 +126,8 @@ _Actualizadas: 19/11 14:24_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Atalanta:** G. Gaetano (baja, Muscle Injury); I. Hien (baja, Muscle Injury); O. Kossounou (baja, Thigh Injury); T. Kristensen (baja, Muscle Injury)
+**Inter:** A. Bonny (baja, Muscle Injury); A. Stankovic (baja, Muscle Injury); M. Thuram (baja, Muscle Injury); M. Akanji (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-03-14 · Serie A: Inter 1-1 Atalanta

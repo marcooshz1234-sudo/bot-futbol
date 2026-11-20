@@ -3570,7 +3570,12 @@
    "liga": "UEFA Champions League Women",
    "cuota_bet365": 1.57,
    "prob_cuota": 0.637
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   2
+  ]
  },
  {
   "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
@@ -3595,7 +3600,12 @@
    "liga": "UEFA Champions League Women",
    "cuota_bet365": 1.5,
    "prob_cuota": 0.654
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   2,
+   1
+  ]
  },
  {
   "tipster": "AllSportsPicks ⚽🏀🎾",
@@ -3639,6 +3649,11 @@
    "liga": "UEFA Champions League Women",
    "cuota_bet365": 1.44,
    "prob_cuota": 0.654
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   6,
+   0
+  ]
  }
 ]

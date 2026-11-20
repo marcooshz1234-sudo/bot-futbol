@@ -1,10 +1,10 @@
 # West Ham – Preston
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · London Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **1.20**  ·  X **7.00**  ·  2 **11.00**
 - **Doble oportunidad:** 1X **1.05**  ·  12 **1.10**  ·  X2 **4.33**
@@ -128,7 +128,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**West Ham:** M. Kilman (baja, Yellow Cards); K. Walker-Peters (baja, Inactive); K. Lamadrid (duda, Knee Injury)
+**Preston:** H. Clarke (baja, Knee Injury); L. Gibbs (baja, Muscle Injury); L. Gibson (baja, Muscle Injury); J. Kenny (baja, Hamstring Injury); A. McCann (baja, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._

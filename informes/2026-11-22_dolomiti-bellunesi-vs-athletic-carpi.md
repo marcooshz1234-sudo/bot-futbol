@@ -1,10 +1,10 @@
 # Dolomiti Bellunesi – Athletic Carpi
 **Serie C** · Girone A - 15 · 22/11/2026 17:30 (hora España) · Zugni Tauro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:08_
+_Actualizadas: 20/11 02:15_
 
 - **1X2:** 1 **2.62**  ·  X **3.10**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.40**
@@ -43,7 +43,7 @@ _Actualizadas: 19/11 20:08_
 - **Win Both Halves:** 1 **10.00**  ·  2 **9.00**
 - **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **5.50**  ·  Home/No **4.50**  ·  Draw/No **9.00**  ·  Away/No **4.33**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.00**  ·  u/no 2.5 **2.25**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.30**  ·  Menos de 4 **2.25**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
 
 ## Estadísticas de equipo
 | | Dolomiti Bellunesi (total) | Dolomiti Bellunesi en casa | Athletic Carpi (total) | Athletic Carpi fuera |

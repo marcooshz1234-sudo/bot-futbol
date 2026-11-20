@@ -1,10 +1,10 @@
 # Sparta Rotterdam – AZ Alkmaar
-**Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Sparta Stadion Het Kasteel
+**Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Sparta Stadium Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **4.00**  ·  X **4.00**  ·  2 **1.73**
 - **Doble oportunidad:** 1X **2.05**  ·  12 **1.22**  ·  X2 **1.22**
@@ -112,7 +112,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Sparta Rotterdam:** M. Brouwer (duda, Injury)
+**AZ Alkmaar:** J. Hornkamp (baja, Injury); S. Resink (baja, Knee Injury); J. Zoet (baja, Inactive); L. Schouten (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-02-22 · Eredivisie: AZ Alkmaar 3-1 Sparta Rotterdam

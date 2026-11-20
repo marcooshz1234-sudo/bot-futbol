@@ -1,10 +1,10 @@
 # Lincoln – Wrexham
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Sincil Bank
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **2.75**  ·  X **3.25**  ·  2 **2.60**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.33**  ·  X2 **1.40**
@@ -122,7 +122,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Lincoln:** T. Darikwa (baja, Knee Injury); C. McGrandles (baja, Yellow Cards); M. Melia (baja, Thigh Injury)
+**Wrexham:** N. Broadhead (baja, Thigh Injury); L. Cacace (baja, Calf Injury); S. Smith (baja, Knee Injury); J. Windass (baja, Ankle Injury); C. O'Hare (duda, Lacking Match Fitness); S. Revan (duda, Hamstring Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-05-03 · League One: Lincoln 0-2 Wrexham

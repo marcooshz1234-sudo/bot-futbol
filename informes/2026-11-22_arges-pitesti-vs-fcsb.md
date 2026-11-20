@@ -1,10 +1,10 @@
 # Arges Pitesti – FCSB
 **Liga I** · Regular Season - 16 · 22/11/2026 19:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:08_
+_Actualizadas: 20/11 02:15_
 
 - **1X2:** 1 **3.40**  ·  X **3.50**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.30**
@@ -29,7 +29,7 @@ _Actualizadas: 19/11 20:08_
     - 2,5: más **4.50** · menos **1.18**
     - 3,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.90** · menos **1.90**
+    - 9,5: más **1.83** · menos **1.83**
 - **Córners 1X2:** 1 **2.75**  ·  X **8.00**  ·  2 **1.57**
 - **1X2 descanso:** 1 **4.33**  ·  X **2.10**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**

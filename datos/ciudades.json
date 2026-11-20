@@ -499,5 +499,197 @@
  "Ovidiu|Romania": [
   44.258,
   28.56083
+ ],
+ "Nice|France": [
+  43.70313,
+  7.26608
+ ],
+ "Sheffield|England": [
+  53.38297,
+  -1.4659
+ ],
+ "Cluj-Napoca|Romania": [
+  46.76667,
+  23.6
+ ],
+ "Norwich|England": [
+  52.62783,
+  1.29834
+ ],
+ "Monaco|France": null,
+ "Lisbon|Portugal": [
+  38.72509,
+  -9.1498
+ ],
+ "Bournemouth|England": [
+  50.72048,
+  -1.8795
+ ],
+ "Castellon|Spain": [
+  39.98567,
+  -0.04935
+ ],
+ "Nijmegen|Netherlands": [
+  51.8425,
+  5.85278
+ ],
+ "Manchester|England": [
+  53.48095,
+  -2.23743
+ ],
+ "Birmingham|England": null,
+ "Felsen|Netherlands": null,
+ "Wolverhampton|England": [
+  52.58547,
+  -2.12296
+ ],
+ "Esbjerg|Denmark": [
+  55.47028,
+  8.45187
+ ],
+ "Newcastle upon Tyne|England": [
+  54.97328,
+  -1.61396
+ ],
+ "Bayer Leverkusen|Germany": null,
+ "Bucharest|Romania": [
+  44.43225,
+  26.10626
+ ],
+ "Badalona|Spain": [
+  41.45004,
+  2.24741
+ ],
+ "Rome|Italy": [
+  41.89193,
+  12.51133
+ ],
+ "Swansea|England": [
+  51.62079,
+  -3.94323
+ ],
+ "Stoke-On-Trent|England": [
+  53.00415,
+  -2.18538
+ ],
+ "Coventry|England": [
+  52.40656,
+  -1.51217
+ ],
+ "Lille|France": [
+  50.63391,
+  3.05512
+ ],
+ "Miercurea Ciuc|Romania": [
+  46.35,
+  25.8
+ ],
+ "Spiesen-Elversberg|Germany": [
+  49.31667,
+  7.13333
+ ],
+ "Victoria-Gasteiz|Spain": null,
+ "London|England": [
+  51.50853,
+  -0.12574
+ ],
+ "Sabadell|Spain": [
+  41.54329,
+  2.10942
+ ],
+ "Naples|Italy": [
+  40.85216,
+  14.26811
+ ],
+ "Rotterdam|Netherlands": [
+  51.9225,
+  4.47917
+ ],
+ "Funchal|Portugal": [
+  32.66568,
+  -16.92547
+ ],
+ "Strasbourg|France": [
+  48.58392,
+  7.74553
+ ],
+ "Treviso|Italy": [
+  45.66673,
+  12.2416
+ ],
+ "Parma|Italy": [
+  44.79935,
+  10.32618
+ ],
+ "Seville|Spain": null,
+ "Gorgonzola|Italy": [
+  45.53069,
+  9.40531
+ ],
+ "Vila das Aves|Portugal": null,
+ "Utrecht|Netherlands": [
+  52.09083,
+  5.12222
+ ],
+ "Southampton|England": [
+  50.90395,
+  -1.40428
+ ],
+ "Carate Brianza|Italy": [
+  45.67574,
+  9.23723
+ ],
+ "Vejle|Denmark": [
+  55.70927,
+  9.5357
+ ],
+ "Monchengladbach|Germany": [
+  51.18539,
+  6.44172
+ ],
+ "Middlesbrough|England": [
+  54.57623,
+  -1.23483
+ ],
+ "Lincoln|England": [
+  53.22683,
+  -0.53792
+ ],
+ "Horwich|England": [
+  53.60126,
+  -2.54975
+ ],
+ "Estoril|Portugal": [
+  38.70571,
+  -9.39773
+ ],
+ "Berlin|Germany": [
+  52.52437,
+  13.41053
+ ],
+ "Mafra|Portugal": null,
+ "Gelsenkirchen|Germany": [
+  51.50508,
+  7.09654
+ ],
+ "Hjorring|Denmark": [
+  57.46417,
+  9.98229
+ ],
+ "Lens|France": [
+  50.43302,
+  2.82791
+ ],
+ "Frankfurt|Germany": [
+  50.11552,
+  8.68417
+ ],
+ "Groningen|Netherlands": [
+  53.21917,
+  6.56667
+ ],
+ "Como|Italy": [
+  45.80819,
+  9.0832
  ]
 }

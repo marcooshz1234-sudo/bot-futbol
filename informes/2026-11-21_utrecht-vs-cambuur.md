@@ -1,10 +1,10 @@
 # Utrecht – Cambuur
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **1.91**  ·  X **4.00**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.22**  ·  X2 **1.83**
@@ -113,7 +113,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Utrecht:** A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury)
+**Cambuur:** J. Amofa (baja, Injury); D. Visser (baja, Knee Injury); D. Westerhof (baja, Inactive); W. Asselman (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-07-24 · Friendlies Clubs: Cambuur 1-0 Utrecht

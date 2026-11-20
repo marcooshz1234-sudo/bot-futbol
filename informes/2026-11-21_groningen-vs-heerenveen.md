@@ -1,10 +1,10 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Hitachi Capital Mobility Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **2.50**  ·  X **3.60**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
@@ -113,7 +113,7 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Groningen:** H. Hateboer (baja, Red Card); T. Hernes (baja, Inactive); M. Jeng (baja, Leg Injury); R. Metu (baja, Inactive); E. Vaessen (baja, Red Card)
 
 ## Enfrentamientos directos recientes
 - 2026-01-18 · Eredivisie: Heerenveen 0-2 Groningen

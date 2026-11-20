@@ -1,10 +1,10 @@
 # Wolves – Charlton
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.25**
@@ -125,7 +125,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Wolves:** J. James (baja, Muscle Injury); R. Jimenez (baja, Knee Injury); G. Konan (baja, Knee Injury); B. Traore (baja, Hamstring Injury); B. Traore (baja, Calf Injury)
+**Charlton:** R. Apter (baja, Knee Injury); C. Sichenje (baja, Knee Injury); K. Ramsay (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2015-12-28 · Championship: Charlton 0-2 Wolves

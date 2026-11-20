@@ -1,10 +1,10 @@
 # Southampton – Derby
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · St. Mary's Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **1.40**  ·  X **5.00**  ·  2 **7.00**
 - **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.75**
@@ -126,7 +126,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Southampton:** C. Jander (duda, Muscle Injury); C. Larin (duda, Hamstring Injury)
+**Derby:** P. Agyemang (baja, Achilles Tendon Injury); E. Cashin (baja, Calf Injury); M. Clarke (baja, Calf Injury); C. Forsyth (baja, Knee Injury); R. Hedges (baja, Muscle Injury); S. Langas (baja, Groin Injury); D. Murkin (baja, Hamstring Injury); S. Szmodics (baja, Knee Injury); C. Taylor (baja, Hamstring Injury); J. Ward (baja, Back Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-11 · Championship: Southampton 2-1 Derby

@@ -1,10 +1,10 @@
 # Sassuolo – Genoa
-**Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España)
+**Serie A** · Regular Season - 12 · 22/11/2026 15:00 (hora España) · Mapei Stadium – Città del Tricolore
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **2.80**  ·  X **3.40**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.40**
@@ -119,8 +119,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Sassuolo:** I. Koné (baja, Broken Leg); E. Pieragnolo (baja, Jumpers Knee); Fali Candé (baja, Jumpers Knee); D. Boloca (baja, Muscle Bruise); Y. Paz (baja, Jumpers Knee)
-**Genoa:** L. Venturino (baja, Jumpers Knee)
+**Sassuolo:** D. Boloca (baja, Muscle Injury); I. Kone (baja, Broken Leg); F. Leysen (baja, Knee Injury); Y. Paz (baja, Knee Injury); V. Adzic (duda, Knee Injury); D. Berardi (duda, Inactive); C. Volpato (duda, Muscle Injury)
+**Genoa:** M. Frendrup (duda, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-04-12 · Serie A: Genoa 2-1 Sassuolo

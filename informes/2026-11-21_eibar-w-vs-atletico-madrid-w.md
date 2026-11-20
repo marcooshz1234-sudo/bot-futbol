@@ -1,47 +1,47 @@
 # Eibar W – Atletico Madrid W
 **Liga F** · Regular Season - 12 · 21/11/2026 17:00 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:13_
 
-- **1X2:** 1 **8.50**  ·  X **5.20**  ·  2 **1.25**
-- **Doble oportunidad:** 1X **3.40**  ·  12 **1.11**  ·  X2 **1.04**
-- **Ambos marcan:** Sí **2.10**  ·  No **1.67**
+- **1X2:** 1 **8.00**  ·  X **4.50**  ·  2 **1.30**
+- **Doble oportunidad:** 1X **3.00**  ·  12 **1.12**  ·  X2 **1.05**
+- **Ambos marcan:** Sí **2.25**  ·  No **1.57**
 - **Goles más/menos:**
-    - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.60** · menos **2.30**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.33** · menos **1.20**
-    - 5,5: más **7.50** · menos **1.07**
+    - 1,5: más **1.25** · menos **3.75**
+    - 2,5: más **1.80** · menos **2.00**
+    - 3,5: más **3.00** · menos **1.36**
+    - 4,5: más **5.50** · menos **1.12**
+    - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.20** · menos **1.62**
     - 2,5: más **4.50** · menos **1.17**
     - 3,5: más **9.00** · menos **1.04**
 - **Goles del local:**
-    - 0,5: más **1.91** · menos **1.80**
-    - 1,5: más **5.50** · menos **1.12**
+    - 0,5: más **2.00** · menos **1.73**
+    - 1,5: más **6.00** · menos **1.11**
 - **Goles del visitante:**
-    - 0,5: más **1.07** · menos **7.50**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.20** · menos **1.62**
-    - 3,5: más **4.00** · menos **1.22**
-    - 4,5: más **7.50** · menos **1.07**
-- **1X2 descanso:** 1 **8.50**  ·  X **2.62**  ·  2 **1.67**
+    - 0,5: más **1.10** · menos **6.50**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **4.50** · menos **1.17**
+    - 4,5: más **8.50** · menos **1.05**
+- **1X2 descanso:** 1 **8.00**  ·  X **2.40**  ·  2 **1.73**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.18** · menos **4.50**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
-- **To Win Either Half:** 1 **4.33**  ·  2 **1.17**
-- **To Score In Both Halves By Teams:** 1 **10.00**  ·  2 **1.91**
-- **Win Both Halves:** 1 **41.00**  ·  2 **2.62**
-- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.50**  ·  Away/Yes **3.10**  ·  Home/No **15.00**  ·  Draw/No **15.00**  ·  Away/No **2.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **3.75**  ·  u/yes 2.5 **11.00**  ·  u/no 2.5 **2.62**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.50**  ·  No **1.18**
+- **To Win Either Half:** 1 **4.33**  ·  2 **1.20**
+- **To Score In Both Halves By Teams:** 1 **11.00**  ·  2 **2.20**
+- **Win Both Halves:** 1 **41.00**  ·  2 **3.25**
+- **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **3.60**  ·  Home/No **13.00**  ·  Draw/No **11.00**  ·  Away/No **1.91**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.30**
 
 ## Estadísticas de equipo
 | | Eibar W (total) | Eibar W en casa | Atletico Madrid W (total) | Atletico Madrid W fuera |

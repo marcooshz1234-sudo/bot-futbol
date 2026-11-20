@@ -1,10 +1,10 @@
 # Burnley – Blackburn
 **Championship** · Regular Season - 16 · 22/11/2026 13:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 14:24_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **1.85**  ·  X **3.80**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.91**
@@ -127,7 +127,8 @@ _Actualizadas: 19/11 14:24_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Burnley:** B. Amos (baja, Inactive); A. Barnes (baja, Muscle Injury); A. Broja (baja, Muscle Injury); J. Bruun Larsen (baja, Leg Injury); B. Humphreys (baja, Muscle Injury); H. Mejbri (baja, Hamstring Injury); M. Obafemi (baja, Inactive); D. Satpaev (baja, Muscle Injury)
+**Blackburn:** R. Alebiosu (baja, Injury); A. Forshaw (baja, Hip Injury); M. Jorgensen (baja, Muscle Injury); L. Miller (baja, Achilles Tendon Injury); R. Morishita (baja, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-01-04 · Championship: Blackburn 0-1 Burnley

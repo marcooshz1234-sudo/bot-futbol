@@ -1,10 +1,10 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:13_
 
 - **1X2:** 1 **2.70**  ·  X **3.40**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.30**  ·  X2 **1.44**
@@ -124,7 +124,8 @@ _Actualizadas: 19/11 20:06_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Bolton:** G. Bazunu (baja, Muscle Injury); E. Erhahon (baja, Thigh Injury); R. Hardie (baja, Hamstring Injury); J. McAtee (baja, Knee Injury); J. Nelson (baja, Hamstring Injury); E. Toal (baja, Muscle Injury)
+**Portsmouth:** E. Adams (baja, Yellow Cards); K. Anderson (baja, Overload); B. Arthur (baja, Back Injury); C. Bishop (baja, Knee Injury); L. Brooke-Smith (baja, Ankle Injury); M. Kosznovszky (baja, Knee Injury); C. Ogilvie (baja, Knee Injury); J. Swift (baja, Knee Injury); M. Milovanovic (duda, Thigh Injury)
 
 ## Enfrentamientos directos recientes
 - 2024-04-13 · League One: Bolton 1-1 Portsmouth

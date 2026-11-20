@@ -1,18 +1,18 @@
 # Kolding IF – Aalborg
 **1. Division** · Regular Season - 15 · 20/11/2026 19:00 (hora España) · Autocentralen Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:06_
+_Actualizadas: 20/11 02:12_
 
 - **1X2:** 1 **2.60**  ·  X **3.50**  ·  2 **2.50**
-- **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.44**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
     - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.20** · menos **4.33**
-    - 2,5: más **1.70** · menos **2.10**
+    - 2,5: más **1.67** · menos **2.15**
     - 3,5: más **2.62** · menos **1.44**
     - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
@@ -22,15 +22,18 @@ _Actualizadas: 19/11 20:06_
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.20** · menos **1.62**
+    - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del visitante:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
     - 2,5: más **4.50** · menos **1.18**
-    - 3,5: más **11.00** · menos **1.05**
-- **1X2 descanso:** 1 **3.20**  ·  X **2.30**  ·  2 **3.00**
+    - 3,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 10: más **1.82** · menos **1.98**
+    - 10,5: más **2.00** · menos **1.73**
+- **1X2 descanso:** 1 **3.10**  ·  X **2.30**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
@@ -41,9 +44,10 @@ _Actualizadas: 19/11 20:06_
 - **To Win Either Half:** 1 **1.80**  ·  2 **1.73**
 - **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **3.40**
 - **Win Both Halves:** 1 **9.00**  ·  2 **9.00**
-- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.33**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **5.00**
+- **Results/Both Teams Score:** Home/Yes **4.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.50**  ·  Home/No **5.50**  ·  Draw/No **13.00**  ·  Away/No **5.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.88**
-- **Anytime Goal Scorer:** Marcus Bonde **9.00**  ·  Nicklas Helenius **2.40**  ·  Kelvin John **2.88**  ·  Jubril Adedeji **3.20**  ·  Andres Jasson **4.33**  ·  Bjarne Pudel **12.00**  ·  Marc Nielsen **12.00**  ·  Mathias Kubel **4.33**  ·  Cornelius Olsson **9.00**  ·  Magnus Doj **7.50**  ·  Daniel Johannesson **4.75**  ·  Philip Sondergaard **8.00**  ·  Anton Kjaergaard **6.50**  ·  Isak Tannader **3.60**  ·  Sterling Yateke **3.10**  ·  Mikkel Kallesoe **8.00**  ·  Niels Morberg **9.00**  ·  Frederik Borsting **4.33**  ·  Alasana Manneh **6.50**  ·  Albert Norager **8.00**  ·  Mathijs Tielemans **6.50**  ·  Tobias Jorgensen **4.33**  ·  Pascal Estrada **10.00**  ·  Filip Lesniak **7.50**  ·  Markus Kaasa **3.60**  ·  Benjamin Tiedemann **10.00**  ·  Elison Makolli **12.00**  ·  Kornelius Hansen **2.60**  ·  Gustav Friberg **10.00**  ·  Alexander Hapnes **7.50**  ·  Abdul Arshad **4.75**  ·  Hans Hollsberg **7.50**  ·  Lasse Laursen **10.00**  ·  William Thomsen **4.33**  ·  Malthe Nielsen **4.75**  ·  Georg Ejsing **3.20**  ·  Vladislav Morozov **2.75**  ·  Mikkel Levinsen **2.75**  ·  Emil Fevre **9.00**  ·  Tobias Augustinus-Jensen **4.75**  ·  Mikkel Lynge **7.50**  ·  Anton Klaster **10.00**  ·  Jonas Hansen **10.00**  ·  Mustapha Nyassi **8.00**  ·  Benjamin Jorgensen **5.50**  ·  Gustav Steffensen **2.75**  ·  Papa Thome **2.75**  ·  Yacouba Ouattara **3.60**  ·  Bertram Skovgaard **2.88**  ·  Issa Niare **2.75**  ·  Sebastian Christensen **7.50**  ·  Johan Hvistendahl **12.00**  ·  Daryosh Popalzai **12.00**  ·  Gustav Laugesen **6.00**  ·  Villads Thogersen **8.00**  ·  Noel Arnorsson **8.00**  ·  Markus Soomets **6.50**  ·  Tibo Persyn **12.00**  ·  Aksel Halsgaard **10.00**  ·  Valdemar Moller **5.50**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.60**  ·  Menos de 5 **1.95**  ·  Más de 4.5 **1.82**  ·  Menos de 4.5 **1.98**
+- **Anytime Goal Scorer:** Marcus Bonde **9.00**  ·  Nicklas Helenius **2.60**  ·  Kelvin John **2.88**  ·  Jubril Adedeji **3.20**  ·  Andres Jasson **4.75**  ·  Bjarne Pudel **12.00**  ·  Marc Nielsen **12.00**  ·  Mathias Kubel **4.75**  ·  Cornelius Olsson **9.00**  ·  Magnus Doj **7.50**  ·  Daniel Johannesson **4.75**  ·  Philip Sondergaard **8.00**  ·  Anton Kjaergaard **6.50**  ·  Isak Tannader **3.60**  ·  Sterling Yateke **3.10**  ·  Mikkel Kallesoe **8.00**  ·  Niels Morberg **9.00**  ·  Frederik Borsting **4.75**  ·  Alasana Manneh **6.50**  ·  Albert Norager **8.00**  ·  Mathijs Tielemans **6.50**  ·  Tobias Jorgensen **4.75**  ·  Pascal Estrada **10.00**  ·  Filip Lesniak **7.50**  ·  Markus Kaasa **3.60**  ·  Benjamin Tiedemann **10.00**  ·  Elison Makolli **12.00**  ·  Kornelius Hansen **2.75**  ·  Gustav Friberg **10.00**  ·  Alexander Hapnes **7.50**  ·  Abdul Arshad **4.75**  ·  Hans Hollsberg **7.50**  ·  Lasse Laursen **10.00**  ·  William Thomsen **4.75**  ·  Malthe Nielsen **4.75**  ·  Georg Ejsing **3.20**  ·  Vladislav Morozov **2.75**  ·  Mikkel Levinsen **2.75**  ·  Emil Fevre **9.00**  ·  Tobias Augustinus-Jensen **4.75**  ·  Mikkel Lynge **7.50**  ·  Anton Klaster **10.00**  ·  Jonas Hansen **10.00**  ·  Mustapha Nyassi **8.00**  ·  Benjamin Jorgensen **5.50**  ·  Gustav Steffensen **2.75**  ·  Papa Thome **2.75**  ·  Yacouba Ouattara **3.60**  ·  Bertram Skovgaard **2.88**  ·  Issa Niare **2.75**  ·  Sebastian Christensen **7.50**  ·  Johan Hvistendahl **12.00**  ·  Daryosh Popalzai **12.00**  ·  Gustav Laugesen **6.00**  ·  Villads Thogersen **8.00**  ·  Noel Arnorsson **8.00**  ·  Markus Soomets **6.50**  ·  Tibo Persyn **12.00**  ·  Aksel Halsgaard **10.00**  ·  Valdemar Moller **5.50**
 
 ## Estadísticas de equipo
 | | Kolding IF (total) | Kolding IF en casa | Aalborg (total) | Aalborg fuera |

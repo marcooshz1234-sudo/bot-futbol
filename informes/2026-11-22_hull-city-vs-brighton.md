@@ -1,10 +1,10 @@
 # Hull City – Brighton
 **Premier League** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · MKM Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **6.50**  ·  X **4.33**  ·  2 **1.50**
 - **Doble oportunidad:** 1X **2.50**  ·  12 **1.20**  ·  X2 **1.11**
@@ -135,8 +135,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-**Hull City:** C. Hughes (baja, Groin Injury); Ilyas  Ansah (baja, Back Injury)
-**Brighton:** K. Mitoma (baja, Hamstring Injury); Z. Yohanna (baja, Wound); P. Struijk (baja, Rest); O. Azeez (baja, Abdominal Strain); E. Ferguson (baja, Sprained Ankle); S. Tzimas (baja, Jumpers Knee)
+**Hull City:** I. Ansah (baja, Back Injury); E. Matazo (baja, Knee Injury); H. Morita (baja, Muscle Injury); M. Targett (baja, Ankle Injury); C. Hughes (duda, Groin Injury)
+**Brighton:** E. Ferguson (baja, Ankle Injury); J. Hadjam (baja, Muscle Injury); K. Mitoma (baja, Hamstring Injury); Z. Yohanna (baja, Injury); C. Andres (duda, Hip Injury); F. Azeez (duda, Abdominal strain); Y. Minteh (duda, Thigh Injury); P. Struijk (duda, Muscle Injury); S. Tzimas (duda, Knee Injury)
 
 ## Enfrentamientos directos recientes
 - 2016-02-16 · Championship: Hull City 0-0 Brighton

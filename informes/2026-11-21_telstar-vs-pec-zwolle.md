@@ -1,10 +1,10 @@
 # Telstar – PEC Zwolle
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 19/11 20:08._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 02:16._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:07_
+_Actualizadas: 20/11 02:14_
 
 - **1X2:** 1 **2.05**  ·  X **3.50**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.70**
@@ -110,7 +110,8 @@ _Actualizadas: 19/11 20:07_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Telstar:** G. Alders (duda, Inactive); R. Mendes (duda, Inactive)
+**PEC Zwolle:** F. Krastev (baja, Achilles Tendon Injury); G. Rahajaan (baja, Inactive)
 
 ## Enfrentamientos directos recientes
 - 2026-01-31 · Eredivisie: PEC Zwolle 4-1 Telstar

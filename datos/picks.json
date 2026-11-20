@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19 20:10",
+ "generado": "2026-11-20 02:23",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -9,6 +9,26 @@
  "dias": {
   "2026-11-20": {
    "picks": [
+    {
+     "partido_id": 1551380,
+     "fecha": "2026-11-20T19:00",
+     "competicion": "1. Division",
+     "liga_id": 120,
+     "local": "Kolding IF",
+     "visitante": "Aalborg",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Kolding IF o empate",
+     "cuota": 1.5,
+     "frecuencia": 0.8,
+     "ventaja": 0.133,
+     "detalle": "Kolding IF 7/10 · Aalborg 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": -0.02,
+     "cuota_inicial": 1.53,
+     "prob_aprendida": 0.678
+    },
     {
      "partido_id": 1575221,
      "fecha": "2026-11-20T20:30",
@@ -50,12 +70,12 @@
      "opcion": "Over 2.5",
      "tipo": "corners",
      "texto": "1. FC Köln hace más de 2,5 córners",
-     "cuota": 1.62,
+     "cuota": 1.73,
      "frecuencia": 0.8,
-     "ventaja": 0.183,
+     "ventaja": 0.222,
      "detalle": "Bayern München (en contra) 7/10 · 1. FC Köln 9/10",
-     "valor_mercado": -0.024,
-     "movimiento": -0.115,
+     "valor_mercado": 0.081,
+     "movimiento": -0.055,
      "cuota_inicial": 1.83,
      "arbitro": "Robin Braun",
      "arbitro_tarjetas": null,
@@ -65,10 +85,30 @@
       18
      ],
      "contexto": "peor_abismo_medio",
-     "prob_aprendida": 0.515
+     "prob_aprendida": 0.423
     }
    ],
    "mejores_por_partido": [
+    {
+     "partido_id": 1551380,
+     "fecha": "2026-11-20T19:00",
+     "competicion": "1. Division",
+     "liga_id": 120,
+     "local": "Kolding IF",
+     "visitante": "Aalborg",
+     "mercado": "Double Chance",
+     "opcion": "Home/Draw",
+     "tipo": "resultado",
+     "texto": "Kolding IF o empate",
+     "cuota": 1.5,
+     "frecuencia": 0.8,
+     "ventaja": 0.133,
+     "detalle": "Kolding IF 7/10 · Aalborg 9/10",
+     "valor_mercado": 0.0,
+     "movimiento": -0.02,
+     "cuota_inicial": 1.53,
+     "prob_aprendida": 0.678
+    },
     {
      "partido_id": 1575221,
      "fecha": "2026-11-20T20:30",
@@ -140,50 +180,30 @@
      "prob_aprendida": 0.707
     },
     {
-     "partido_id": 1550202,
+     "partido_id": 1550200,
      "fecha": "2026-11-21T15:00",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Lecce",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.33,
-     "frecuencia": 0.8,
-     "ventaja": 0.048,
-     "detalle": "Lazio 9/10 · Lecce 7/10",
-     "valor_mercado": -0.022,
-     "movimiento": -0.022,
-     "cuota_inicial": 1.36,
-     "arbitro": "Matteo Marcenaro",
+     "local": "Como",
+     "visitante": "Cagliari",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 0.5",
+     "tipo": "tarjetas",
+     "texto": "Como ve más de 0,5 tarjetas",
+     "cuota": 1.5,
+     "frecuencia": 0.789,
+     "ventaja": 0.123,
+     "detalle": "Como 7/10 · Cagliari (en contra) 8/9",
+     "valor_mercado": 0.02,
+     "arbitro": "Andrea Calzavara",
      "arbitro_tarjetas": null,
      "posiciones": [
-      1,
-      14,
+      5,
+      9,
       20
      ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.768
-    },
-    {
-     "partido_id": 1608376,
-     "fecha": "2026-11-21T17:30",
-     "competicion": "Serie C",
-     "liga_id": 138,
-     "local": "Giana Erminio",
-     "visitante": "Juventus U23",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Giana Erminio o empate",
-     "cuota": 1.44,
-     "frecuencia": 0.85,
-     "ventaja": 0.156,
-     "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
-     "valor_mercado": 0.014,
-     "prob_aprendida": 0.702
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.687
     },
     {
      "partido_id": 1570034,
@@ -194,9 +214,9 @@
      "visitante": "Granada CF",
      "mercado": "Away Player Shots",
      "opcion": "Ruben Alcaraz - 1",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "frecuencia": 0.9,
-     "ventaja": 0.246,
+     "ventaja": 0.263,
      "tipo": "jugador",
      "jugador": "Ruben Alcaraz",
      "equipo": "Granada CF",
@@ -206,7 +226,7 @@
      "texto": "Ruben Alcaraz: 1+ tiros",
      "detalle": "Ruben Alcaraz 9/10",
      "temporada": "9/12",
-     "movimiento": -0.084,
+     "movimiento": -0.06,
      "cuota_inicial": 1.67,
      "posiciones": [
       14,
@@ -273,39 +293,6 @@
      ],
      "contexto": "mejor_lejos_arriba",
      "prob_aprendida": 0.54
-    },
-    {
-     "partido_id": 1575223,
-     "fecha": "2026-11-21T15:30",
-     "competicion": "Bundesliga",
-     "liga_id": 78,
-     "local": "Eintracht Frankfurt",
-     "visitante": "1899 Hoffenheim",
-     "mercado": "Away Player Shots",
-     "opcion": "Alexander Prass - 1",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
-     "tipo": "jugador",
-     "jugador": "Alexander Prass",
-     "equipo": "1899 Hoffenheim",
-     "jugador_id": 7327,
-     "campo": "tiros",
-     "n": 1,
-     "texto": "Alexander Prass: 1+ tiros",
-     "detalle": "Alexander Prass 6/6",
-     "temporada": "6/6",
-     "movimiento": 0.136,
-     "cuota_inicial": 1.1,
-     "arbitro": "Max Burda",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      10,
-      9,
-      18
-     ],
-     "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.63
     },
     {
      "partido_id": 1575223,
@@ -367,34 +354,6 @@
      "prob_aprendida": 0.425
     },
     {
-     "partido_id": 1557467,
-     "fecha": "2026-11-21T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Sunderland",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Sunderland hace más de 3,5 córners",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
-     "valor_mercado": 0.012,
-     "movimiento": -0.035,
-     "cuota_inicial": 1.73,
-     "arbitro": "Andrew Madley",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      10,
-      19,
-      20
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.456
-    },
-    {
      "partido_id": 1565305,
      "fecha": "2026-11-21T19:30",
      "competicion": "Liga I",
@@ -409,8 +368,8 @@
      "frecuencia": 0.75,
      "ventaja": 0.133,
      "detalle": "Dinamo Bucuresti (en contra) 8/10 · Petrolul Ploiesti 7/10",
-     "valor_mercado": 0.0,
-     "prob_aprendida": 0.473
+     "valor_mercado": 0.059,
+     "prob_aprendida": 0.437
     },
     {
      "partido_id": 1563273,
@@ -437,6 +396,34 @@
      ],
      "contexto": "peor_abismo_medio",
      "prob_aprendida": 0.439
+    },
+    {
+     "partido_id": 1557467,
+     "fecha": "2026-11-21T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Aston Villa",
+     "visitante": "Sunderland",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Sunderland hace más de 3,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
+     "valor_mercado": 0.031,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
+     "arbitro": "Andrew Madley",
+     "arbitro_tarjetas": null,
+     "posiciones": [
+      10,
+      19,
+      20
+     ],
+     "contexto": "peor_lejos_abajo",
+     "prob_aprendida": 0.42
     }
    ],
    "mejores_por_partido": [
@@ -469,50 +456,30 @@
      "prob_aprendida": 0.707
     },
     {
-     "partido_id": 1550202,
+     "partido_id": 1550200,
      "fecha": "2026-11-21T15:00",
      "competicion": "Serie A",
      "liga_id": 135,
-     "local": "Lazio",
-     "visitante": "Lecce",
-     "mercado": "Match Winner",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Gana el Lazio",
-     "cuota": 1.33,
-     "frecuencia": 0.8,
-     "ventaja": 0.048,
-     "detalle": "Lazio 9/10 · Lecce 7/10",
-     "valor_mercado": -0.022,
-     "movimiento": -0.022,
-     "cuota_inicial": 1.36,
-     "arbitro": "Matteo Marcenaro",
+     "local": "Como",
+     "visitante": "Cagliari",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 0.5",
+     "tipo": "tarjetas",
+     "texto": "Como ve más de 0,5 tarjetas",
+     "cuota": 1.5,
+     "frecuencia": 0.789,
+     "ventaja": 0.123,
+     "detalle": "Como 7/10 · Cagliari (en contra) 8/9",
+     "valor_mercado": 0.02,
+     "arbitro": "Andrea Calzavara",
      "arbitro_tarjetas": null,
      "posiciones": [
-      1,
-      14,
+      5,
+      9,
       20
      ],
-     "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.768
-    },
-    {
-     "partido_id": 1608376,
-     "fecha": "2026-11-21T17:30",
-     "competicion": "Serie C",
-     "liga_id": 138,
-     "local": "Giana Erminio",
-     "visitante": "Juventus U23",
-     "mercado": "Double Chance",
-     "opcion": "Home/Draw",
-     "tipo": "resultado",
-     "texto": "Giana Erminio o empate",
-     "cuota": 1.44,
-     "frecuencia": 0.85,
-     "ventaja": 0.156,
-     "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
-     "valor_mercado": 0.014,
-     "prob_aprendida": 0.702
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.687
     },
     {
      "partido_id": 1570034,
@@ -523,9 +490,9 @@
      "visitante": "Granada CF",
      "mercado": "Away Player Shots",
      "opcion": "Ruben Alcaraz - 1",
-     "cuota": 1.53,
+     "cuota": 1.57,
      "frecuencia": 0.9,
-     "ventaja": 0.246,
+     "ventaja": 0.263,
      "tipo": "jugador",
      "jugador": "Ruben Alcaraz",
      "equipo": "Granada CF",
@@ -535,7 +502,7 @@
      "texto": "Ruben Alcaraz: 1+ tiros",
      "detalle": "Ruben Alcaraz 9/10",
      "temporada": "9/12",
-     "movimiento": -0.084,
+     "movimiento": -0.06,
      "cuota_inicial": 1.67,
      "posiciones": [
       14,
@@ -611,21 +578,21 @@
      "local": "Eintracht Frankfurt",
      "visitante": "1899 Hoffenheim",
      "mercado": "Away Player Shots",
-     "opcion": "Alexander Prass - 1",
-     "cuota": 1.25,
-     "frecuencia": 1.0,
-     "ventaja": 0.2,
+     "opcion": "Fisnik Asllani - 2",
+     "cuota": 1.28,
+     "frecuencia": 0.875,
+     "ventaja": 0.094,
      "tipo": "jugador",
-     "jugador": "Alexander Prass",
+     "jugador": "Fisnik Asllani",
      "equipo": "1899 Hoffenheim",
-     "jugador_id": 7327,
+     "jugador_id": 202501,
      "campo": "tiros",
-     "n": 1,
-     "texto": "Alexander Prass: 1+ tiros",
-     "detalle": "Alexander Prass 6/6",
-     "temporada": "6/6",
-     "movimiento": 0.136,
-     "cuota_inicial": 1.1,
+     "n": 2,
+     "texto": "Fisnik Asllani: 2+ tiros",
+     "detalle": "Fisnik Asllani 7/8",
+     "temporada": "7/8",
+     "movimiento": 0.153,
+     "cuota_inicial": 1.11,
      "arbitro": "Max Burda",
      "arbitro_tarjetas": null,
      "posiciones": [
@@ -634,7 +601,7 @@
       18
      ],
      "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.63
+     "prob_aprendida": 0.615
     },
     {
      "partido_id": 1575222,
@@ -663,34 +630,6 @@
      "prob_aprendida": 0.425
     },
     {
-     "partido_id": 1557467,
-     "fecha": "2026-11-21T16:00",
-     "competicion": "Premier",
-     "liga_id": 39,
-     "local": "Aston Villa",
-     "visitante": "Sunderland",
-     "mercado": "Away Corners Over/Under",
-     "opcion": "Over 3.5",
-     "tipo": "corners",
-     "texto": "Sunderland hace más de 3,5 córners",
-     "cuota": 1.67,
-     "frecuencia": 0.8,
-     "ventaja": 0.201,
-     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
-     "valor_mercado": 0.012,
-     "movimiento": -0.035,
-     "cuota_inicial": 1.73,
-     "arbitro": "Andrew Madley",
-     "arbitro_tarjetas": null,
-     "posiciones": [
-      10,
-      19,
-      20
-     ],
-     "contexto": "peor_lejos_abajo",
-     "prob_aprendida": 0.456
-    },
-    {
      "partido_id": 1565305,
      "fecha": "2026-11-21T19:30",
      "competicion": "Liga I",
@@ -705,8 +644,8 @@
      "frecuencia": 0.75,
      "ventaja": 0.133,
      "detalle": "Dinamo Bucuresti (en contra) 8/10 · Petrolul Ploiesti 7/10",
-     "valor_mercado": 0.0,
-     "prob_aprendida": 0.473
+     "valor_mercado": 0.059,
+     "prob_aprendida": 0.437
     },
     {
      "partido_id": 1563273,
@@ -733,76 +672,40 @@
      ],
      "contexto": "peor_abismo_medio",
      "prob_aprendida": 0.439
+    },
+    {
+     "partido_id": 1557467,
+     "fecha": "2026-11-21T16:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Aston Villa",
+     "visitante": "Sunderland",
+     "mercado": "Away Corners Over/Under",
+     "opcion": "Over 3.5",
+     "tipo": "corners",
+     "texto": "Sunderland hace más de 3,5 córners",
+     "cuota": 1.67,
+     "frecuencia": 0.8,
+     "ventaja": 0.201,
+     "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
+     "valor_mercado": 0.031,
+     "movimiento": -0.035,
+     "cuota_inicial": 1.73,
+     "arbitro": "Andrew Madley",
+     "arbitro_tarjetas": null,
+     "posiciones": [
+      10,
+      19,
+      20
+     ],
+     "contexto": "peor_lejos_abajo",
+     "prob_aprendida": 0.42
     }
    ],
    "combis": {
-    "segura": {
-     "picks": [
-      {
-       "partido_id": 1550202,
-       "fecha": "2026-11-21T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Lecce",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Lazio",
-       "cuota": 1.33,
-       "frecuencia": 0.8,
-       "ventaja": 0.048,
-       "detalle": "Lazio 9/10 · Lecce 7/10",
-       "valor_mercado": -0.022,
-       "movimiento": -0.022,
-       "cuota_inicial": 1.36,
-       "arbitro": "Matteo Marcenaro",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        1,
-        14,
-        20
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.768
-      },
-      {
-       "partido_id": 1575223,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Eintracht Frankfurt",
-       "visitante": "1899 Hoffenheim",
-       "mercado": "Away Player Shots",
-       "opcion": "Alexander Prass - 1",
-       "cuota": 1.25,
-       "frecuencia": 1.0,
-       "ventaja": 0.2,
-       "tipo": "jugador",
-       "jugador": "Alexander Prass",
-       "equipo": "1899 Hoffenheim",
-       "jugador_id": 7327,
-       "campo": "tiros",
-       "n": 1,
-       "texto": "Alexander Prass: 1+ tiros",
-       "detalle": "Alexander Prass 6/6",
-       "temporada": "6/6",
-       "movimiento": 0.136,
-       "cuota_inicial": 1.1,
-       "arbitro": "Max Burda",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        10,
-        9,
-        18
-       ],
-       "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.63
-      }
-     ],
-     "cuota": 1.66
-    },
-    "cuota_3": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": {
      "picks": [
       {
        "partido_id": 1557468,
@@ -833,61 +736,31 @@
        "prob_aprendida": 0.707
       },
       {
-       "partido_id": 1608376,
-       "fecha": "2026-11-21T17:30",
-       "competicion": "Serie C",
-       "liga_id": 138,
-       "local": "Giana Erminio",
-       "visitante": "Juventus U23",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Giana Erminio o empate",
-       "cuota": 1.44,
-       "frecuencia": 0.85,
-       "ventaja": 0.156,
-       "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
-       "valor_mercado": 0.014,
-       "prob_aprendida": 0.702
-      },
-      {
-       "partido_id": 1575223,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Eintracht Frankfurt",
-       "visitante": "1899 Hoffenheim",
-       "mercado": "Away Player Shots",
-       "opcion": "Fisnik Asllani - 2",
-       "cuota": 1.28,
-       "frecuencia": 0.875,
-       "ventaja": 0.094,
-       "tipo": "jugador",
-       "jugador": "Fisnik Asllani",
-       "equipo": "1899 Hoffenheim",
-       "jugador_id": 202501,
-       "campo": "tiros",
-       "n": 2,
-       "texto": "Fisnik Asllani: 2+ tiros",
-       "detalle": "Fisnik Asllani 7/8",
-       "temporada": "7/8",
-       "movimiento": 0.153,
-       "cuota_inicial": 1.11,
-       "arbitro": "Max Burda",
+       "partido_id": 1550200,
+       "fecha": "2026-11-21T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Como",
+       "visitante": "Cagliari",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 0.5",
+       "tipo": "tarjetas",
+       "texto": "Como ve más de 0,5 tarjetas",
+       "cuota": 1.5,
+       "frecuencia": 0.789,
+       "ventaja": 0.123,
+       "detalle": "Como 7/10 · Cagliari (en contra) 8/9",
+       "valor_mercado": 0.02,
+       "arbitro": "Andrea Calzavara",
        "arbitro_tarjetas": null,
        "posiciones": [
-        10,
+        5,
         9,
-        18
+        20
        ],
        "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.615
-      }
-     ],
-     "cuota": 3.52
-    },
-    "loca": {
-     "picks": [
+       "prob_aprendida": 0.687
+      },
       {
        "partido_id": 1570034,
        "fecha": "2026-11-21T14:00",
@@ -897,9 +770,9 @@
        "visitante": "Granada CF",
        "mercado": "Away Player Shots",
        "opcion": "Ruben Alcaraz - 1",
-       "cuota": 1.53,
+       "cuota": 1.57,
        "frecuencia": 0.9,
-       "ventaja": 0.246,
+       "ventaja": 0.263,
        "tipo": "jugador",
        "jugador": "Ruben Alcaraz",
        "equipo": "Granada CF",
@@ -909,7 +782,7 @@
        "texto": "Ruben Alcaraz: 1+ tiros",
        "detalle": "Ruben Alcaraz 9/10",
        "temporada": "9/12",
-       "movimiento": -0.084,
+       "movimiento": -0.06,
        "cuota_inicial": 1.67,
        "posiciones": [
         14,
@@ -976,63 +849,9 @@
        ],
        "contexto": "mejor_lejos_arriba",
        "prob_aprendida": 0.54
-      },
-      {
-       "partido_id": 1575222,
-       "fecha": "2026-11-21T15:30",
-       "competicion": "Bundesliga",
-       "liga_id": 78,
-       "local": "Bayer Leverkusen",
-       "visitante": "SC Paderborn 07",
-       "mercado": "Away Corners Over/Under",
-       "opcion": "Over 2.5",
-       "tipo": "corners",
-       "texto": "SC Paderborn 07 hace más de 2,5 córners",
-       "cuota": 1.73,
-       "frecuencia": 0.8,
-       "ventaja": 0.222,
-       "detalle": "Bayer Leverkusen (en contra) 8/10 · SC Paderborn 07 8/10",
-       "valor_mercado": 0.081,
-       "arbitro": "Tobias Reichel",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        5,
-        13,
-        18
-       ],
-       "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.425
-      },
-      {
-       "partido_id": 1557467,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Premier",
-       "liga_id": 39,
-       "local": "Aston Villa",
-       "visitante": "Sunderland",
-       "mercado": "Away Corners Over/Under",
-       "opcion": "Over 3.5",
-       "tipo": "corners",
-       "texto": "Sunderland hace más de 3,5 córners",
-       "cuota": 1.67,
-       "frecuencia": 0.8,
-       "ventaja": 0.201,
-       "detalle": "Aston Villa (en contra) 9/10 · Sunderland 7/10",
-       "valor_mercado": 0.012,
-       "movimiento": -0.035,
-       "cuota_inicial": 1.73,
-       "arbitro": "Andrew Madley",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        10,
-        19,
-        20
-       ],
-       "contexto": "peor_lejos_abajo",
-       "prob_aprendida": 0.456
       }
      ],
-     "cuota": 14.65
+     "cuota": 14.91
     },
     "doble": null
    },
@@ -1103,32 +922,6 @@
     "liga": {
      "picks": [
       {
-       "partido_id": 1563274,
-       "fecha": "2026-11-21T16:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Wolves",
-       "visitante": "Charlton",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Wolves ve más de 1,5 tarjetas",
-       "cuota": 1.83,
-       "frecuencia": 0.65,
-       "ventaja": 0.104,
-       "detalle": "Wolves 7/10 · Charlton (en contra) 6/10",
-       "valor_mercado": -0.021,
-       "arbitro": "Simon Hooper",
-       "arbitro_tarjetas": 4.0,
-       "posiciones": [
-        5,
-        19,
-        24
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.703
-      },
-      {
        "partido_id": 1563267,
        "fecha": "2026-11-21T13:30",
        "competicion": "Championship",
@@ -1152,7 +945,33 @@
         24
        ],
        "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.719
+       "prob_aprendida": 0.845
+      },
+      {
+       "partido_id": 1563269,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Sheffield Utd",
+       "visitante": "Watford",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Sheffield Utd ve más de 1,5 tarjetas",
+       "cuota": 1.62,
+       "frecuencia": 0.684,
+       "ventaja": 0.067,
+       "detalle": "Sheffield Utd 6/10 · Watford (en contra) 7/9",
+       "valor_mercado": 0.012,
+       "arbitro": "Tim Robinson",
+       "arbitro_tarjetas": 4.4,
+       "posiciones": [
+        10,
+        20,
+        24
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.706
       },
       {
        "partido_id": 1563270,
@@ -1185,7 +1004,7 @@
        "prob_aprendida": 0.609
       }
      ],
-     "cuota": 4.75,
+     "cuota": 4.2,
      "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 COMBI CHAMPIONSHIP",
      "liga": "Championship"
     },
@@ -1244,38 +1063,62 @@
        "prob_aprendida": 0.662
       },
       {
-       "partido_id": 1552826,
-       "fecha": "2026-11-21T20:45",
-       "competicion": "Ligue 1",
-       "liga_id": 61,
-       "local": "Strasbourg",
-       "visitante": "Stade Brestois 29",
-       "mercado": "Goals Over/Under - Second Half",
+       "partido_id": 1563274,
+       "fecha": "2026-11-21T16:00",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Wolves",
+       "visitante": "Charlton",
+       "mercado": "Home Team Total Cards",
        "opcion": "Over 1.5",
-       "tipo": "goles",
-       "texto": "Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29",
+       "tipo": "tarjetas",
+       "texto": "Wolves ve más de 1,5 tarjetas",
        "cuota": 1.83,
-       "frecuencia": 0.75,
-       "ventaja": 0.204,
-       "detalle": "Strasbourg 8/10 · Stade Brestois 29 7/10",
-       "valor_mercado": -0.037,
-       "movimiento": 0.017,
-       "cuota_inicial": 1.8,
-       "arbitro": "Azzedine Souifi",
-       "arbitro_tarjetas": 3.5,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Wolves 7/10 · Charlton (en contra) 6/10",
+       "valor_mercado": -0.021,
+       "arbitro": "Simon Hooper",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
-        13,
-        9,
-        18
+        5,
+        19,
+        24
        ],
-       "contexto": "total_lejos_medio",
-       "prob_aprendida": 0.659
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.655
       }
      ],
      "cuota": 6.59
     },
     "500": {
      "picks": [
+      {
+       "partido_id": 1563267,
+       "fecha": "2026-11-21T13:30",
+       "competicion": "Championship",
+       "liga_id": 40,
+       "local": "Millwall",
+       "visitante": "QPR",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "Millwall ve más de 1,5 tarjetas",
+       "cuota": 1.5,
+       "frecuencia": 0.7,
+       "ventaja": 0.033,
+       "detalle": "Millwall 7/10 · QPR (en contra) 7/10",
+       "valor_mercado": -0.045,
+       "arbitro": "Josh Smith",
+       "arbitro_tarjetas": 4.9,
+       "posiciones": [
+        16,
+        8,
+        24
+       ],
+       "contexto": "peor_lejos_medio",
+       "prob_aprendida": 0.845
+      },
       {
        "partido_id": 1557468,
        "fecha": "2026-11-21T16:00",
@@ -1331,102 +1174,56 @@
        "prob_aprendida": 0.629
       },
       {
-       "partido_id": 1550202,
-       "fecha": "2026-11-21T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Lazio",
-       "visitante": "Lecce",
-       "mercado": "Match Winner",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Gana el Lazio",
-       "cuota": 1.33,
-       "frecuencia": 0.8,
-       "ventaja": 0.048,
-       "detalle": "Lazio 9/10 · Lecce 7/10",
-       "valor_mercado": -0.022,
-       "movimiento": -0.022,
-       "cuota_inicial": 1.36,
-       "arbitro": "Matteo Marcenaro",
-       "arbitro_tarjetas": null,
-       "posiciones": [
-        1,
-        14,
-        20
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.768
-      },
-      {
-       "partido_id": 1563274,
+       "partido_id": 1563269,
        "fecha": "2026-11-21T16:00",
        "competicion": "Championship",
        "liga_id": 40,
-       "local": "Wolves",
-       "visitante": "Charlton",
+       "local": "Sheffield Utd",
+       "visitante": "Watford",
        "mercado": "Home Team Total Cards",
        "opcion": "Over 1.5",
        "tipo": "tarjetas",
-       "texto": "Wolves ve más de 1,5 tarjetas",
-       "cuota": 1.83,
-       "frecuencia": 0.65,
-       "ventaja": 0.104,
-       "detalle": "Wolves 7/10 · Charlton (en contra) 6/10",
-       "valor_mercado": -0.021,
-       "arbitro": "Simon Hooper",
-       "arbitro_tarjetas": 4.0,
+       "texto": "Sheffield Utd ve más de 1,5 tarjetas",
+       "cuota": 1.62,
+       "frecuencia": 0.684,
+       "ventaja": 0.067,
+       "detalle": "Sheffield Utd 6/10 · Watford (en contra) 7/9",
+       "valor_mercado": 0.012,
+       "arbitro": "Tim Robinson",
+       "arbitro_tarjetas": 4.4,
+       "posiciones": [
+        10,
+        20,
+        24
+       ],
+       "contexto": "mejor_lejos_medio",
+       "prob_aprendida": 0.706
+      },
+      {
+       "partido_id": 1550200,
+       "fecha": "2026-11-21T15:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "Como",
+       "visitante": "Cagliari",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 0.5",
+       "tipo": "tarjetas",
+       "texto": "Como ve más de 0,5 tarjetas",
+       "cuota": 1.5,
+       "frecuencia": 0.789,
+       "ventaja": 0.123,
+       "detalle": "Como 7/10 · Cagliari (en contra) 8/9",
+       "valor_mercado": 0.02,
+       "arbitro": "Andrea Calzavara",
+       "arbitro_tarjetas": null,
        "posiciones": [
         5,
-        19,
-        24
+        9,
+        20
        ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.703
-      },
-      {
-       "partido_id": 1608376,
-       "fecha": "2026-11-21T17:30",
-       "competicion": "Serie C",
-       "liga_id": 138,
-       "local": "Giana Erminio",
-       "visitante": "Juventus U23",
-       "mercado": "Double Chance",
-       "opcion": "Home/Draw",
-       "tipo": "resultado",
-       "texto": "Giana Erminio o empate",
-       "cuota": 1.44,
-       "frecuencia": 0.85,
-       "ventaja": 0.156,
-       "detalle": "Giana Erminio 9/10 · Juventus U23 8/10",
-       "valor_mercado": 0.014,
-       "prob_aprendida": 0.702
-      },
-      {
-       "partido_id": 1563267,
-       "fecha": "2026-11-21T13:30",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Millwall",
-       "visitante": "QPR",
-       "mercado": "Home Team Total Cards",
-       "opcion": "Over 1.5",
-       "tipo": "tarjetas",
-       "texto": "Millwall ve más de 1,5 tarjetas",
-       "cuota": 1.5,
-       "frecuencia": 0.7,
-       "ventaja": 0.033,
-       "detalle": "Millwall 7/10 · QPR (en contra) 7/10",
-       "valor_mercado": -0.045,
-       "arbitro": "Josh Smith",
-       "arbitro_tarjetas": 4.9,
-       "posiciones": [
-        16,
-        8,
-        24
-       ],
-       "contexto": "peor_lejos_medio",
-       "prob_aprendida": 0.719
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.687
       },
       {
        "partido_id": 1565303,
@@ -1501,30 +1298,30 @@
        "prob_aprendida": 0.662
       },
       {
-       "partido_id": 1563269,
+       "partido_id": 1563274,
        "fecha": "2026-11-21T16:00",
        "competicion": "Championship",
        "liga_id": 40,
-       "local": "Sheffield Utd",
-       "visitante": "Watford",
+       "local": "Wolves",
+       "visitante": "Charlton",
        "mercado": "Home Team Total Cards",
        "opcion": "Over 1.5",
        "tipo": "tarjetas",
-       "texto": "Sheffield Utd ve más de 1,5 tarjetas",
-       "cuota": 1.62,
-       "frecuencia": 0.684,
-       "ventaja": 0.067,
-       "detalle": "Sheffield Utd 6/10 · Watford (en contra) 7/9",
-       "valor_mercado": 0.012,
-       "arbitro": "Tim Robinson",
-       "arbitro_tarjetas": 4.4,
+       "texto": "Wolves ve más de 1,5 tarjetas",
+       "cuota": 1.83,
+       "frecuencia": 0.65,
+       "ventaja": 0.104,
+       "detalle": "Wolves 7/10 · Charlton (en contra) 6/10",
+       "valor_mercado": -0.021,
+       "arbitro": "Simon Hooper",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
-        10,
-        20,
+        5,
+        19,
         24
        ],
-       "contexto": "mejor_lejos_medio",
-       "prob_aprendida": 0.662
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.655
       },
       {
        "partido_id": 1552826,
@@ -1581,9 +1378,35 @@
        ],
        "contexto": "total_abismo_medio",
        "prob_aprendida": 0.651
+      },
+      {
+       "partido_id": 1575229,
+       "fecha": "2026-11-21T15:30",
+       "competicion": "Bundesliga",
+       "liga_id": 78,
+       "local": "SV Elversberg",
+       "visitante": "SC Freiburg",
+       "mercado": "Goals Over/Under - Second Half",
+       "opcion": "Over 1.5",
+       "tipo": "goles",
+       "texto": "Más de 1,5 goles en la 2ª parte del SV Elversberg–SC Freiburg",
+       "cuota": 1.73,
+       "frecuencia": 0.65,
+       "ventaja": 0.072,
+       "detalle": "SV Elversberg 7/10 · SC Freiburg 6/10",
+       "valor_mercado": -0.023,
+       "arbitro": "Richard Hempel",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        7,
+        3,
+        18
+       ],
+       "contexto": "total_lejos_arriba",
+       "prob_aprendida": 0.645
       }
      ],
-     "cuota": 469.68
+     "cuota": 636.4
     }
    },
    "combis_partido": []
@@ -1601,20 +1424,22 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Liverpool",
-     "cuota": 1.73,
+     "cuota": 1.7,
      "frecuencia": 0.65,
-     "ventaja": 0.072,
+     "ventaja": 0.062,
      "detalle": "Liverpool 6/10 · Manchester United 7/10",
-     "valor_mercado": -0.011,
-     "movimiento": -0.055,
+     "valor_mercado": -0.029,
+     "movimiento": -0.071,
      "cuota_inicial": 1.83,
+     "arbitro": "Samuel Barrott",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       4,
       18,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.673
+     "prob_aprendida": 0.721
     },
     {
      "partido_id": 1570030,
@@ -1640,33 +1465,33 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.65
+     "prob_aprendida": 0.651
     },
     {
-     "partido_id": 1570031,
-     "fecha": "2026-11-22T16:15",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Sporting Gijon",
-     "visitante": "Las Palmas",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Sporting Gijon gana alguna de las dos partes",
-     "cuota": 1.53,
+     "partido_id": 1550197,
+     "fecha": "2026-11-22T18:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "AC Milan",
+     "visitante": "Frosinone",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "AC Milan ve más de 1,5 tarjetas",
+     "cuota": 1.67,
      "frecuencia": 0.75,
-     "ventaja": 0.096,
-     "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.02,
-     "cuota_inicial": 1.5,
+     "ventaja": 0.151,
+     "detalle": "AC Milan 7/10 · Frosinone (en contra) 8/10",
+     "valor_mercado": -0.072,
+     "arbitro": "Luca J. Pairetto",
+     "arbitro_tarjetas": null,
      "posiciones": [
-      8,
-      11,
-      22
+      4,
+      6,
+      20
      ],
-     "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.692
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.709
     },
     {
      "partido_id": 1550199,
@@ -1686,6 +1511,8 @@
      "valor_mercado": -0.017,
      "movimiento": -0.017,
      "cuota_inicial": 1.73,
+     "arbitro": "Livio Marinelli",
+     "arbitro_tarjetas": null,
      "posiciones": [
       8,
       20,
@@ -1693,6 +1520,60 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.66
+    },
+    {
+     "partido_id": 1570031,
+     "fecha": "2026-11-22T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Sporting Gijon",
+     "visitante": "Las Palmas",
+     "mercado": "To Win Either Half",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Sporting Gijon gana alguna de las dos partes",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
+     "valor_mercado": 0.032,
+     "movimiento": 0.08,
+     "cuota_inicial": 1.5,
+     "posiciones": [
+      8,
+      11,
+      22
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.66
+    },
+    {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Ajax–ADO Den Haag",
+     "cuota": 1.7,
+     "frecuencia": 0.8,
+     "ventaja": 0.212,
+     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": 0.012,
+     "movimiento": -0.029,
+     "cuota_inicial": 1.75,
+     "prob_xg": 0.629,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.614
     },
     {
      "partido_id": 1575224,
@@ -1716,7 +1597,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.624
+     "prob_aprendida": 0.625
     },
     {
      "partido_id": 1563264,
@@ -1734,6 +1615,8 @@
      "ventaja": 0.151,
      "detalle": "Burnley 8/10 · Blackburn 7/10",
      "valor_mercado": 0.012,
+     "arbitro": "Lewis Smith",
+     "arbitro_tarjetas": 2.7,
      "prob_xg": 0.626,
      "xg_esperado": 3.13,
      "posiciones": [
@@ -1766,33 +1649,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.611
-    },
-    {
-     "partido_id": 1552225,
-     "fecha": "2026-11-22T14:30",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Ajax",
-     "visitante": "ADO Den Haag",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Ajax–ADO Den Haag",
-     "cuota": 1.75,
-     "frecuencia": 0.8,
-     "ventaja": 0.229,
-     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
-     "valor_mercado": 0.042,
-     "prob_xg": 0.629,
-     "xg_esperado": 3.23,
-     "posiciones": [
-      3,
-      17,
-      18
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.58
+     "prob_aprendida": 0.612
     },
     {
      "partido_id": 1550206,
@@ -1815,6 +1672,8 @@
      "texto": "Junior Messias comete 1+ faltas",
      "detalle": "Junior Messias 4/5",
      "temporada": "4/5",
+     "arbitro": "Maria Sole Ferrieri Caputi",
+     "arbitro_tarjetas": 1.5,
      "posiciones": [
       17,
       13,
@@ -1860,20 +1719,22 @@
      "opcion": "Home",
      "tipo": "resultado",
      "texto": "Gana el Liverpool",
-     "cuota": 1.73,
+     "cuota": 1.7,
      "frecuencia": 0.65,
-     "ventaja": 0.072,
+     "ventaja": 0.062,
      "detalle": "Liverpool 6/10 · Manchester United 7/10",
-     "valor_mercado": -0.011,
-     "movimiento": -0.055,
+     "valor_mercado": -0.029,
+     "movimiento": -0.071,
      "cuota_inicial": 1.83,
+     "arbitro": "Samuel Barrott",
+     "arbitro_tarjetas": 5.0,
      "posiciones": [
       4,
       18,
       20
      ],
      "contexto": "mejor_abismo_medio",
-     "prob_aprendida": 0.673
+     "prob_aprendida": 0.721
     },
     {
      "partido_id": 1570030,
@@ -1899,33 +1760,33 @@
       22
      ],
      "contexto": "peor_igualado_medio",
-     "prob_aprendida": 0.65
+     "prob_aprendida": 0.651
     },
     {
-     "partido_id": 1570031,
-     "fecha": "2026-11-22T16:15",
-     "competicion": "Segunda",
-     "liga_id": 141,
-     "local": "Sporting Gijon",
-     "visitante": "Las Palmas",
-     "mercado": "To Win Either Half",
-     "opcion": "Home",
-     "tipo": "resultado",
-     "texto": "Sporting Gijon gana alguna de las dos partes",
-     "cuota": 1.53,
+     "partido_id": 1550197,
+     "fecha": "2026-11-22T18:00",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "AC Milan",
+     "visitante": "Frosinone",
+     "mercado": "Home Team Total Cards",
+     "opcion": "Over 1.5",
+     "tipo": "tarjetas",
+     "texto": "AC Milan ve más de 1,5 tarjetas",
+     "cuota": 1.67,
      "frecuencia": 0.75,
-     "ventaja": 0.096,
-     "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
-     "valor_mercado": 0.0,
-     "movimiento": 0.02,
-     "cuota_inicial": 1.5,
+     "ventaja": 0.151,
+     "detalle": "AC Milan 7/10 · Frosinone (en contra) 8/10",
+     "valor_mercado": -0.072,
+     "arbitro": "Luca J. Pairetto",
+     "arbitro_tarjetas": null,
      "posiciones": [
-      8,
-      11,
-      22
+      4,
+      6,
+      20
      ],
-     "contexto": "mejor_igualado_medio",
-     "prob_aprendida": 0.692
+     "contexto": "mejor_igualado_arriba",
+     "prob_aprendida": 0.709
     },
     {
      "partido_id": 1550199,
@@ -1945,6 +1806,8 @@
      "valor_mercado": -0.017,
      "movimiento": -0.017,
      "cuota_inicial": 1.73,
+     "arbitro": "Livio Marinelli",
+     "arbitro_tarjetas": null,
      "posiciones": [
       8,
       20,
@@ -1952,6 +1815,60 @@
      ],
      "contexto": "mejor_abismo_medio",
      "prob_aprendida": 0.66
+    },
+    {
+     "partido_id": 1570031,
+     "fecha": "2026-11-22T16:15",
+     "competicion": "Segunda",
+     "liga_id": 141,
+     "local": "Sporting Gijon",
+     "visitante": "Las Palmas",
+     "mercado": "To Win Either Half",
+     "opcion": "Home",
+     "tipo": "resultado",
+     "texto": "Sporting Gijon gana alguna de las dos partes",
+     "cuota": 1.62,
+     "frecuencia": 0.75,
+     "ventaja": 0.133,
+     "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
+     "valor_mercado": 0.032,
+     "movimiento": 0.08,
+     "cuota_inicial": 1.5,
+     "posiciones": [
+      8,
+      11,
+      22
+     ],
+     "contexto": "mejor_igualado_medio",
+     "prob_aprendida": 0.66
+    },
+    {
+     "partido_id": 1552225,
+     "fecha": "2026-11-22T14:30",
+     "competicion": "Eredivisie",
+     "liga_id": 88,
+     "local": "Ajax",
+     "visitante": "ADO Den Haag",
+     "mercado": "Both Teams Score",
+     "opcion": "Yes",
+     "tipo": "goles",
+     "texto": "Ambos marcan en Ajax–ADO Den Haag",
+     "cuota": 1.7,
+     "frecuencia": 0.8,
+     "ventaja": 0.212,
+     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+     "valor_mercado": 0.012,
+     "movimiento": -0.029,
+     "cuota_inicial": 1.75,
+     "prob_xg": 0.629,
+     "xg_esperado": 3.23,
+     "posiciones": [
+      3,
+      17,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.614
     },
     {
      "partido_id": 1575224,
@@ -1975,7 +1892,7 @@
       18
      ],
      "contexto": "total_igualado_abajo",
-     "prob_aprendida": 0.624
+     "prob_aprendida": 0.625
     },
     {
      "partido_id": 1563264,
@@ -1993,6 +1910,8 @@
      "ventaja": 0.151,
      "detalle": "Burnley 8/10 · Blackburn 7/10",
      "valor_mercado": 0.012,
+     "arbitro": "Lewis Smith",
+     "arbitro_tarjetas": 2.7,
      "prob_xg": 0.626,
      "xg_esperado": 3.13,
      "posiciones": [
@@ -2025,33 +1944,7 @@
       18
      ],
      "contexto": "total_lejos_medio",
-     "prob_aprendida": 0.611
-    },
-    {
-     "partido_id": 1552225,
-     "fecha": "2026-11-22T14:30",
-     "competicion": "Eredivisie",
-     "liga_id": 88,
-     "local": "Ajax",
-     "visitante": "ADO Den Haag",
-     "mercado": "Both Teams Score",
-     "opcion": "Yes",
-     "tipo": "goles",
-     "texto": "Ambos marcan en Ajax–ADO Den Haag",
-     "cuota": 1.75,
-     "frecuencia": 0.8,
-     "ventaja": 0.229,
-     "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
-     "valor_mercado": 0.042,
-     "prob_xg": 0.629,
-     "xg_esperado": 3.23,
-     "posiciones": [
-      3,
-      17,
-      18
-     ],
-     "contexto": "total_abismo_medio",
-     "prob_aprendida": 0.58
+     "prob_aprendida": 0.612
     },
     {
      "partido_id": 1550206,
@@ -2074,6 +1967,8 @@
      "texto": "Junior Messias comete 1+ faltas",
      "detalle": "Junior Messias 4/5",
      "temporada": "4/5",
+     "arbitro": "Maria Sole Ferrieri Caputi",
+     "arbitro_tarjetas": 1.5,
      "posiciones": [
       17,
       13,
@@ -2099,20 +1994,22 @@
        "opcion": "Home",
        "tipo": "resultado",
        "texto": "Gana el Liverpool",
-       "cuota": 1.73,
+       "cuota": 1.7,
        "frecuencia": 0.65,
-       "ventaja": 0.072,
+       "ventaja": 0.062,
        "detalle": "Liverpool 6/10 · Manchester United 7/10",
-       "valor_mercado": -0.011,
-       "movimiento": -0.055,
+       "valor_mercado": -0.029,
+       "movimiento": -0.071,
        "cuota_inicial": 1.83,
+       "arbitro": "Samuel Barrott",
+       "arbitro_tarjetas": 5.0,
        "posiciones": [
         4,
         18,
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.673
+       "prob_aprendida": 0.721
       },
       {
        "partido_id": 1570030,
@@ -2138,7 +2035,61 @@
         22
        ],
        "contexto": "peor_igualado_medio",
-       "prob_aprendida": 0.65
+       "prob_aprendida": 0.651
+      },
+      {
+       "partido_id": 1550197,
+       "fecha": "2026-11-22T18:00",
+       "competicion": "Serie A",
+       "liga_id": 135,
+       "local": "AC Milan",
+       "visitante": "Frosinone",
+       "mercado": "Home Team Total Cards",
+       "opcion": "Over 1.5",
+       "tipo": "tarjetas",
+       "texto": "AC Milan ve más de 1,5 tarjetas",
+       "cuota": 1.67,
+       "frecuencia": 0.75,
+       "ventaja": 0.151,
+       "detalle": "AC Milan 7/10 · Frosinone (en contra) 8/10",
+       "valor_mercado": -0.072,
+       "arbitro": "Luca J. Pairetto",
+       "arbitro_tarjetas": null,
+       "posiciones": [
+        4,
+        6,
+        20
+       ],
+       "contexto": "mejor_igualado_arriba",
+       "prob_aprendida": 0.709
+      },
+      {
+       "partido_id": 1552225,
+       "fecha": "2026-11-22T14:30",
+       "competicion": "Eredivisie",
+       "liga_id": 88,
+       "local": "Ajax",
+       "visitante": "ADO Den Haag",
+       "mercado": "Both Teams Score",
+       "opcion": "Yes",
+       "tipo": "goles",
+       "texto": "Ambos marcan en Ajax–ADO Den Haag",
+       "cuota": 1.7,
+       "frecuencia": 0.8,
+       "ventaja": 0.212,
+       "detalle": "Ajax 8/10 · ADO Den Haag 8/10",
+       "valor_mercado": 0.012,
+       "movimiento": -0.029,
+       "cuota_inicial": 1.75,
+       "prob_xg": 0.629,
+       "xg_esperado": 3.23,
+       "posiciones": [
+        3,
+        17,
+        18
+       ],
+       "contexto": "total_abismo_medio",
+       "prob_aprendida": 0.614
       },
       {
        "partido_id": 1575224,
@@ -2162,123 +2113,16 @@
         18
        ],
        "contexto": "total_igualado_abajo",
-       "prob_aprendida": 0.624
-      },
-      {
-       "partido_id": 1563264,
-       "fecha": "2026-11-22T13:00",
-       "competicion": "Championship",
-       "liga_id": 40,
-       "local": "Burnley",
-       "visitante": "Blackburn",
-       "mercado": "Both Teams Score",
-       "opcion": "Yes",
-       "tipo": "goles",
-       "texto": "Ambos marcan en Burnley–Blackburn",
-       "cuota": 1.67,
-       "frecuencia": 0.75,
-       "ventaja": 0.151,
-       "detalle": "Burnley 8/10 · Blackburn 7/10",
-       "valor_mercado": 0.012,
-       "prob_xg": 0.626,
-       "xg_esperado": 3.13,
-       "posiciones": [
-        22,
-        13,
-        24
-       ],
-       "contexto": "total_lejos_abajo",
-       "prob_aprendida": 0.61
-      },
-      {
-       "partido_id": 1550206,
-       "fecha": "2026-11-22T15:00",
-       "competicion": "Serie A",
-       "liga_id": 135,
-       "local": "Sassuolo",
-       "visitante": "Genoa",
-       "mercado": "Player Fouls Committed",
-       "opcion": "Junior Messias - 1",
-       "cuota": 1.91,
-       "frecuencia": 0.8,
-       "ventaja": 0.276,
-       "tipo": "jugador",
-       "jugador": "Junior Messias",
-       "equipo": "Genoa",
-       "jugador_id": 56396,
-       "campo": "faltas_c",
-       "n": 1,
-       "texto": "Junior Messias comete 1+ faltas",
-       "detalle": "Junior Messias 4/5",
-       "temporada": "4/5",
-       "posiciones": [
-        17,
-        13,
-        20
-       ],
-       "contexto": "mejor_igualado_abajo",
-       "prob_aprendida": 0.54
+       "prob_aprendida": 0.625
       }
      ],
-     "cuota": 17.07
+     "cuota": 14.93
     },
     "doble": null
    },
    "estilos": {
     "liga": {
      "picks": [
-      {
-       "partido_id": 1570031,
-       "fecha": "2026-11-22T16:15",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Sporting Gijon",
-       "visitante": "Las Palmas",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Sporting Gijon gana alguna de las dos partes",
-       "cuota": 1.53,
-       "frecuencia": 0.75,
-       "ventaja": 0.096,
-       "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
-       "valor_mercado": 0.0,
-       "movimiento": 0.02,
-       "cuota_inicial": 1.5,
-       "posiciones": [
-        8,
-        11,
-        22
-       ],
-       "contexto": "mejor_igualado_medio",
-       "prob_aprendida": 0.692
-      },
-      {
-       "partido_id": 1570026,
-       "fecha": "2026-11-22T21:00",
-       "competicion": "Segunda",
-       "liga_id": 141,
-       "local": "Burgos",
-       "visitante": "Albacete",
-       "mercado": "To Win Either Half",
-       "opcion": "Home",
-       "tipo": "resultado",
-       "texto": "Burgos gana alguna de las dos partes",
-       "cuota": 1.57,
-       "frecuencia": 0.7,
-       "ventaja": 0.063,
-       "detalle": "Burgos 8/10 · Albacete 6/10",
-       "valor_mercado": 0.013,
-       "movimiento": 0.0,
-       "cuota_inicial": 1.57,
-       "posiciones": [
-        6,
-        19,
-        22
-       ],
-       "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.66
-      },
       {
        "partido_id": 1570030,
        "fecha": "2026-11-22T14:00",
@@ -2303,10 +2147,62 @@
         22
        ],
        "contexto": "total_igualado_medio",
-       "prob_aprendida": 0.623
+       "prob_aprendida": 0.624
+      },
+      {
+       "partido_id": 1570031,
+       "fecha": "2026-11-22T16:15",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Sporting Gijon",
+       "visitante": "Las Palmas",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Sporting Gijon gana alguna de las dos partes",
+       "cuota": 1.62,
+       "frecuencia": 0.75,
+       "ventaja": 0.133,
+       "detalle": "Sporting Gijon 8/10 · Las Palmas 7/10",
+       "valor_mercado": 0.032,
+       "movimiento": 0.08,
+       "cuota_inicial": 1.5,
+       "posiciones": [
+        8,
+        11,
+        22
+       ],
+       "contexto": "mejor_igualado_medio",
+       "prob_aprendida": 0.66
+      },
+      {
+       "partido_id": 1570026,
+       "fecha": "2026-11-22T21:00",
+       "competicion": "Segunda",
+       "liga_id": 141,
+       "local": "Burgos",
+       "visitante": "Albacete",
+       "mercado": "To Win Either Half",
+       "opcion": "Home",
+       "tipo": "resultado",
+       "texto": "Burgos gana alguna de las dos partes",
+       "cuota": 1.62,
+       "frecuencia": 0.7,
+       "ventaja": 0.083,
+       "detalle": "Burgos 8/10 · Albacete 6/10",
+       "valor_mercado": 0.0,
+       "movimiento": 0.032,
+       "cuota_inicial": 1.57,
+       "posiciones": [
+        6,
+        19,
+        22
+       ],
+       "contexto": "mejor_abismo_medio",
+       "prob_aprendida": 0.661
       }
      ],
-     "cuota": 4.4,
+     "cuota": 4.8,
      "titulo": "🇪🇸 COMBI SEGUNDA",
      "liga": "Segunda"
     },
@@ -2356,6 +2252,8 @@
        "valor_mercado": 0.0,
        "movimiento": -0.016,
        "cuota_inicial": 1.83,
+       "arbitro": "Livio Marinelli",
+       "arbitro_tarjetas": null,
        "prob_xg": 0.603,
        "xg_esperado": 3.39,
        "posiciones": [
@@ -2364,7 +2262,7 @@
         20
        ],
        "contexto": "mejor_abismo_medio",
-       "prob_aprendida": 0.663
+       "prob_aprendida": 0.664
       },
       {
        "partido_id": 1552232,
@@ -2490,7 +2388,7 @@
      "ventaja": 0.196,
      "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
      "valor_mercado": -0.019,
-     "prob_aprendida": 0.702
+     "prob_aprendida": 0.703
     }
    ],
    "mejores_por_partido": [
@@ -2510,7 +2408,7 @@
      "ventaja": 0.196,
      "detalle": "Sabah FA 9/10 · Barcelona (en contra) 8/10",
      "valor_mercado": -0.019,
-     "prob_aprendida": 0.702
+     "prob_aprendida": 0.703
     }
    ],
    "combis": {
@@ -2691,6 +2589,200 @@
      "cuota": 4.37
     }
    },
+   "combis_partido": []
+  },
+  "2026-11-27": {
+   "picks": [
+    {
+     "partido_id": 1575237,
+     "fecha": "2026-11-27T20:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Werder Bremen",
+     "visitante": "Borussia Mönchengladbach",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach",
+     "cuota": 1.67,
+     "frecuencia": 0.75,
+     "ventaja": 0.151,
+     "detalle": "Werder Bremen 8/10 · Borussia Mönchengladbach 7/10",
+     "valor_mercado": -0.023,
+     "posiciones": [
+      6,
+      18,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.66
+    },
+    {
+     "partido_id": 1575237,
+     "fecha": "2026-11-27T20:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Werder Bremen",
+     "visitante": "Borussia Mönchengladbach",
+     "mercado": "Total - Home",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Werder Bremen marca 2 o más",
+     "cuota": 1.53,
+     "frecuencia": 0.75,
+     "ventaja": 0.096,
+     "detalle": "Werder Bremen 7/10 · Borussia Mönchengladbach (en contra) 8/10",
+     "valor_mercado": -0.013,
+     "prob_xg": 0.55,
+     "xg_esperado": 3.3,
+     "posiciones": [
+      6,
+      18,
+      18
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.665
+    },
+    {
+     "partido_id": 1550216,
+     "fecha": "2026-11-27T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Venezia",
+     "visitante": "Bologna",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Bologna",
+     "cuota": 1.95,
+     "frecuencia": 0.65,
+     "ventaja": 0.137,
+     "detalle": "Venezia 8/10 · Bologna 5/10",
+     "valor_mercado": -0.039,
+     "posiciones": [
+      19,
+      8,
+      20
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.558
+    },
+    {
+     "partido_id": 1557485,
+     "fecha": "2026-11-27T21:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Nottingham Forest",
+     "visitante": "Chelsea",
+     "mercado": "Home Player Shots",
+     "opcion": "Liam Delap - 2",
+     "cuota": 1.3,
+     "frecuencia": 0.875,
+     "ventaja": 0.106,
+     "tipo": "jugador",
+     "jugador": "Liam Delap",
+     "equipo": "Nottingham Forest",
+     "jugador_id": 161948,
+     "campo": "tiros",
+     "n": 2,
+     "texto": "Liam Delap: 2+ tiros",
+     "detalle": "Liam Delap 7/8",
+     "temporada": "7/8",
+     "posiciones": [
+      16,
+      5,
+      20
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.587
+    }
+   ],
+   "mejores_por_partido": [
+    {
+     "partido_id": 1575237,
+     "fecha": "2026-11-27T20:30",
+     "competicion": "Bundesliga",
+     "liga_id": 78,
+     "local": "Werder Bremen",
+     "visitante": "Borussia Mönchengladbach",
+     "mercado": "Goals Over/Under - Second Half",
+     "opcion": "Over 1.5",
+     "tipo": "goles",
+     "texto": "Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach",
+     "cuota": 1.67,
+     "frecuencia": 0.75,
+     "ventaja": 0.151,
+     "detalle": "Werder Bremen 8/10 · Borussia Mönchengladbach 7/10",
+     "valor_mercado": -0.023,
+     "posiciones": [
+      6,
+      18,
+      18
+     ],
+     "contexto": "total_abismo_medio",
+     "prob_aprendida": 0.66
+    },
+    {
+     "partido_id": 1550216,
+     "fecha": "2026-11-27T20:45",
+     "competicion": "Serie A",
+     "liga_id": 135,
+     "local": "Venezia",
+     "visitante": "Bologna",
+     "mercado": "Match Winner",
+     "opcion": "Away",
+     "tipo": "resultado",
+     "texto": "Gana el Bologna",
+     "cuota": 1.95,
+     "frecuencia": 0.65,
+     "ventaja": 0.137,
+     "detalle": "Venezia 8/10 · Bologna 5/10",
+     "valor_mercado": -0.039,
+     "posiciones": [
+      19,
+      8,
+      20
+     ],
+     "contexto": "mejor_abismo_medio",
+     "prob_aprendida": 0.558
+    },
+    {
+     "partido_id": 1557485,
+     "fecha": "2026-11-27T21:00",
+     "competicion": "Premier",
+     "liga_id": 39,
+     "local": "Nottingham Forest",
+     "visitante": "Chelsea",
+     "mercado": "Home Player Shots",
+     "opcion": "Liam Delap - 2",
+     "cuota": 1.3,
+     "frecuencia": 0.875,
+     "ventaja": 0.106,
+     "tipo": "jugador",
+     "jugador": "Liam Delap",
+     "equipo": "Nottingham Forest",
+     "jugador_id": 161948,
+     "campo": "tiros",
+     "n": 2,
+     "texto": "Liam Delap: 2+ tiros",
+     "detalle": "Liam Delap 7/8",
+     "temporada": "7/8",
+     "posiciones": [
+      16,
+      5,
+      20
+     ],
+     "contexto": "peor_abismo_medio",
+     "prob_aprendida": 0.587
+    }
+   ],
+   "combis": {
+    "segura": null,
+    "cuota_3": null,
+    "loca": null,
+    "doble": null
+   },
+   "estilos": {},
    "combis_partido": []
   }
  }
