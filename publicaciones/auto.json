@@ -9313,9 +9313,9 @@
       "1565308|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4,
-      1.44,
-      1.83
+      1.36,
+      1.36,
+      1.8
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -9334,7 +9334,8 @@
     "cuota_bet365": 3.2,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T11:04"
   },
   {
     "id": "2026-11-20-loca-th-1300-tapados",
