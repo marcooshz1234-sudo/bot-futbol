@@ -2934,14 +2934,14 @@
   },
   "2026-11-20": {
     "dia": "2026-11-20",
-    "total": 18,
+    "total": 20,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 18,
+      "pendiente": 20,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 18
+      "sin_resolver": 20
     },
     "combis": [
       {
@@ -3051,6 +3051,18 @@
         "titulo": "🔥 COMBI ESTAC TROYES – LE HAVRE 🔥",
         "estado": "pendiente",
         "cuota": 6.04
+      },
+      {
+        "id": "2026-11-20-pick-tip-1446",
+        "titulo": "Otro pick que nos gusta mucho familia 🔥",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-20-loca-th-1630-escudos",
+        "titulo": "🚨 COMBI FC ANDORRA – LEGANES 🚨",
+        "estado": "pendiente",
+        "cuota": 5.59
       }
     ],
     "picks": {
@@ -3058,6 +3070,6 @@
       "rojo": 0,
       "total": 72
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · pendiente\n⏳ 🎰 COMBI x28,12 🎰 · 28,12 · pendiente\n⏳ ⏰ TODO A LAS 20:30 ⏰ · 2,82 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79 · pendiente\n⏳ 🧨 COMBI x43,74 🧨 · 43,74 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 32,67 · pendiente\n⏳ 💶 RETO: DE 1€ A 78,94€ 💶 · 78,94 · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ 🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯 · 9,53 · pendiente\n⏳ 🚨 COMBI FC BOTOSANI – FC VOLUNTARI 🚨 · 3,20 · pendiente\n⏳ 💥 COMBI AARHUS FREMAD – HOBRO 💥 · 3,57 · pendiente\n⏳ 🔥 COMBI ESTAC TROYES – LE HAVRE 🔥 · 6,04 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 18 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · pendiente\n⏳ 🎰 COMBI x28,12 🎰 · 28,12 · pendiente\n⏳ ⏰ TODO A LAS 20:30 ⏰ · 2,82 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79 · pendiente\n⏳ 🧨 COMBI x43,74 🧨 · 43,74 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🤝 LA COMBI DE LOS EMPATES 🤝 · 32,67 · pendiente\n⏳ 💶 RETO: DE 1€ A 78,94€ 💶 · 78,94 · pendiente\n⏳ Pick de hoy, con datos detrás 📊 · pendiente\n⏳ 🪜 Reto escalera · Día 4/7 · pendiente\n⏳ 🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯 · 9,53 · pendiente\n⏳ 🚨 COMBI FC BOTOSANI – FC VOLUNTARI 🚨 · 3,20 · pendiente\n⏳ 💥 COMBI AARHUS FREMAD – HOBRO 💥 · 3,57 · pendiente\n⏳ 🔥 COMBI ESTAC TROYES – LE HAVRE 🔥 · 6,04 · pendiente\n⏳ Otro pick que nos gusta mucho familia 🔥 · pendiente\n⏳ 🚨 COMBI FC ANDORRA – LEGANES 🚨 · 5,59 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 20 sin resolver"
   }
 }
