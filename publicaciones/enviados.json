@@ -827,5 +827,10 @@
   "2026-11-20-escalera": {
     "enviado": "2026-11-20T11:00",
     "mensaje_id": 560
+  },
+  "2026-11-20-pick-seguro-2": {
+    "enviado": "2026-11-20T18:00",
+    "mensaje_id": 565,
+    "foto_tg": "publicaciones/media/2026-11-20-pick-seguro-2.tg.jpg"
   }
 }
