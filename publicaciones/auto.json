@@ -9150,7 +9150,7 @@
     "cuotas": [
       3.4,
       3.1,
-      3.1
+      3.4
     ],
     "solo_en": [
       "threads"
@@ -9161,7 +9161,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T07:31"
   },
   {
     "id": "2026-11-20-loca-th-1000-reto",
