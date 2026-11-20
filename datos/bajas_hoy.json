@@ -8856,9 +8856,75 @@
     "tipo": "Questionable",
     "motivo": "Injury"
    }
-  ]
+  ],
+  "1647581": [],
+  "1608375": [],
+  "1608376": [],
+  "1552824": [
+   {
+    "equipo": 84,
+    "jugador": "M. Abdelmonem",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 84,
+    "jugador": "L. Abergel",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 84,
+    "jugador": "M. Bombito",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 84,
+    "jugador": "A. Mendy",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "K. Kvaratskhelia",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "A. Longoni",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "M. Akliouche",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "D. Doue",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "D. Fernandez",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 85,
+    "jugador": "Marquinhos",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   }
+  ],
+  "1573652": []
  },
- "ultima": "2026-11-20T10:59:29.411430+01:00",
+ "ultima": "2026-11-20T11:34:11.272243+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
