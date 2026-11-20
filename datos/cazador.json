@@ -37,32 +37,9 @@
    "post": "2026-11-19-cuotaza-1638297-733bbf"
   }
  },
- "top": [
-  {
-   "local": "Aarhus Fremad",
-   "visitante": "Hobro",
-   "inicio": "2026-11-20T19:00",
-   "texto": "Gana el Aarhus Fremad",
-   "cuota": 2.05,
-   "justa": 2.0,
-   "ev": 0.027,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Aarhus Fremad",
-   "visitante": "Hobro",
-   "inicio": "2026-11-20T19:00",
-   "texto": "Ambos marcan en Aarhus Fremad–Hobro",
-   "cuota": 1.83,
-   "justa": 1.82,
-   "ev": 0.006,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  }
- ],
+ "top": [],
  "ultima": {
-  "hora": "2026-11-20T18:36",
+  "hora": "2026-11-20T18:57",
   "revisadas": 0,
   "mejor": null
  },
