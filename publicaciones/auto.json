@@ -9622,9 +9622,9 @@
     "cuotas": [
       1.73,
       1.4,
-      1.62,
+      1.73,
       1.8,
-      1.62,
+      1.67,
       1.62
     ],
     "solo_en": [
@@ -9636,7 +9636,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T17:34"
   },
   {
     "id": "2026-11-20-loca-th-1930-ganaambos",
