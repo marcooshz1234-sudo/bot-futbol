@@ -1177,7 +1177,8 @@ def main():
              "goleadores": (leer(DATOS / "goleadores.json", {}) or {}).get("ligas", {}),
              "goleadores_hoy": goleadores_que_juegan(partidos, hoy, manana),
              "arbitros": ranking_arbitros(partidos), "tramos_liga": tramos_por_liga(),
-             "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "picks_partidos": picks_partidos, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot}
+             "revision": leer(DATOS / "revision_avisos.json", {}) or {}, "publicados": publicados, "publicados_hoy": publicados_hoy, "picks_partidos": picks_partidos, "muro": muro[:20], "ideas": ideas, "redes": stats, "bot": bot,
+             "combis_semana": leer(DATOS / "combis_semana.json", {}) or {}}   # 20/11: pestaña 🧮 Combis
     SALIDA.parent.mkdir(exist_ok=True)
     copia_publica()
     # 12/11 (Marcos: «los nombres de los países están en inglés»): al final, para no romper los cruces por nombre
