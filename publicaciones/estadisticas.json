@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 12:28",
+ "actualizado": "2026-11-20 12:39",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -58,9 +58,9 @@
  "total_hoy": 17,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "12:30",
+  "hora": "13:00",
   "dia": "2026-11-20",
-  "titulo": "Combi fc botosani – fc voluntari"
+  "titulo": "La de los tapados"
  },
  "ayer": null,
  "escalera": {
@@ -243,13 +243,18 @@
   }
  },
  "tipos_instagram": {
+  "Cuota 3 (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Escalera (reel)": {
    "posts": 6,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 51,
+   "posts": 50,
    "likes_media": 0.1,
    "comentarios_media": 0.0
   },
