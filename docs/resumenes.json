@@ -2934,14 +2934,14 @@
   },
   "2026-11-20": {
     "dia": "2026-11-20",
-    "total": 3,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 3,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 3
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -2961,13 +2961,19 @@
         "titulo": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆",
         "estado": "pendiente",
         "cuota": 77.02
+      },
+      {
+        "id": "2026-11-20-loca-th-0200-lista-ambos",
+        "titulo": "⚽ AMBOS MARCAN HOY ⚽",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 18
+      "total": 22
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 3 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
