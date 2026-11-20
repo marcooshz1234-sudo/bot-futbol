@@ -9431,8 +9431,8 @@
     ],
     "cuotas": [
       1.44,
-      1.5,
-      2.0
+      1.62,
+      2.25
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -9452,7 +9452,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-20T13:32"
+    "cuotas_revisadas": "2026-11-20T14:28"
   },
   {
     "id": "2026-11-20-loca-th-1600-escudos",
