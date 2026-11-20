@@ -7743,45 +7743,27 @@
    },
    {
     "equipo": 167,
+    "jugador": "N. De Cat",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 167,
     "jugador": "V. Gendrey",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 167,
-    "jugador": "B. Conte",
-    "tipo": "Questionable",
-    "motivo": "Groin Injury"
-   },
-   {
-    "equipo": 167,
-    "jugador": "N. De Cat",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 167,
     "jugador": "A. Hajdari",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Foot Injury"
    },
    {
     "equipo": 167,
     "jugador": "R. Hranac",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 167,
-    "jugador": "A. Prass",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 167,
-    "jugador": "P. Wimmer",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
    }
   ],
   "1575226": [
@@ -7830,6 +7812,12 @@
    {
     "equipo": 165,
     "jugador": "E. Can",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 165,
+    "jugador": "S. Inacio",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
    },
@@ -7912,12 +7900,6 @@
     "jugador": "A. Ouedraogo",
     "tipo": "Missing Fixture",
     "motivo": "Shoulder Injury"
-   },
-   {
-    "equipo": 173,
-    "jugador": "M. Finkgrafe",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
    }
   ],
   "1575222": [
@@ -7931,30 +7913,6 @@
     "equipo": 168,
     "jugador": "M. Terrier",
     "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 168,
-    "jugador": "M. Diaby",
-    "tipo": "Questionable",
-    "motivo": "Hamstring Injury"
-   },
-   {
-    "equipo": 168,
-    "jugador": "C. Kofane",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 168,
-    "jugador": "I. Maza",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 168,
-    "jugador": "N. Tella",
-    "tipo": "Questionable",
     "motivo": "Muscle Injury"
    },
    {
@@ -8522,12 +8480,6 @@
     "jugador": "J. Vazquez",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 532,
-    "jugador": "D. Otorbi",
-    "tipo": "Questionable",
-    "motivo": "Hamstring Injury"
    }
   ],
   "1570033": [],
@@ -8926,9 +8878,9 @@
    },
    {
     "equipo": 523,
-    "jugador": "A. Bernabe",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "jugador": "L. Valenti",
+    "tipo": "Missing Fixture",
+    "motivo": "Coach's decision"
    },
    {
     "equipo": 523,
@@ -8943,12 +8895,6 @@
     "motivo": "Foot Injury"
    },
    {
-    "equipo": 523,
-    "jugador": "L. Valenti",
-    "tipo": "Questionable",
-    "motivo": "Coach's decision"
-   },
-   {
     "equipo": 497,
     "jugador": "L. Pellegrini",
     "tipo": "Missing Fixture",
@@ -8956,21 +8902,9 @@
    },
    {
     "equipo": 497,
-    "jugador": "P. Gollini",
-    "tipo": "Questionable",
-    "motivo": "Back Injury"
-   },
-   {
-    "equipo": 497,
     "jugador": "D. Rensch",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 497,
-    "jugador": "M. Svilar",
-    "tipo": "Questionable",
-    "motivo": "Toe Injury"
    }
   ],
   "1647587": [],
@@ -9034,21 +8968,15 @@
    },
    {
     "equipo": 543,
-    "jugador": "F. Bernal",
+    "jugador": "D. Ceballos",
     "tipo": "Missing Fixture",
-    "motivo": "Red Card"
+    "motivo": "Injury"
    },
    {
     "equipo": 543,
     "jugador": "J. Morante",
     "tipo": "Missing Fixture",
     "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 543,
-    "jugador": "C. Hernandez",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
    }
   ],
   "1575228": [
@@ -9287,6 +9215,12 @@
    },
    {
     "equipo": 541,
+    "jugador": "F. Mendy",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 541,
     "jugador": "Rodrygo",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -9305,9 +9239,9 @@
    },
    {
     "equipo": 538,
-    "jugador": "I. Moriba",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
+    "jugador": "C. Starfelt",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    }
   ],
   "1552231": [
@@ -9559,7 +9493,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-20T20:50:29.054263+01:00",
+ "ultima": "2026-11-20T21:23:17.800966+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-noche-2330-escudos|Emre Mor"
