@@ -107,20 +107,24 @@
   "estrella-2026-11-21-pick-seguro-c751f9e5": "2026-11-20T19:19",
   "estrella-2026-11-21-estrella-1557475-c751f9e5": "2026-11-20T19:19",
   "regla-estrella-2026-11-21-pick-seguro": "2026-11-20T19:19",
-  "regla-estrella-2026-11-21-estrella-1557475": "2026-11-20T19:19"
+  "regla-estrella-2026-11-21-estrella-1557475": "2026-11-20T19:19",
+  "directo-2026-11-20-pick-claude-4": "2026-11-20T19:30",
+  "directo-2026-11-20-pick-claude-5": "2026-11-20T19:30",
+  "repe-2026-11-20-1552827|Corners 1x2|Home": "2026-11-20T19:30",
+  "repe-2026-11-20-1570454|Away Corners Over/Under|Over 2.5": "2026-11-20T19:30"
  },
  "abiertos": [
   {
-   "clave": "directo-2026-11-20-combi-noche",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche 🔥 (20:00)"
+   "clave": "directo-2026-11-20-pick-claude-4",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para esta noche 👇 (20:05)"
+  },
+  {
+   "clave": "directo-2026-11-20-pick-claude-5",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro pick para la noche ⚽ (20:20)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Win Both Halves|Home",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2330-escudos, loca-th-0030-x100)"
-  },
-  {
-   "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
-   "t": "🔁 20/11: el mismo pronóstico en 4 posts (combi-noche, loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|Total - Home|Over 1.5",
@@ -135,8 +139,12 @@
    "t": "🔁 20/11: el mismo pronóstico en 5 posts (pick-tip-1448, pick-tip-1448-e, loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2330-escudos, estrella-1575221)"
+   "clave": "repe-2026-11-20-1552827|Corners 1x2|Home",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-4, loca-th-0800-lista-corners, loca-th-1900-lista-corners)"
+  },
+  {
+   "clave": "repe-2026-11-20-1570454|Away Corners Over/Under|Over 2.5",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-5, loca-th-noche-2100-x100, loca-th-1900-lista-corners)"
   },
   {
    "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
@@ -151,15 +159,7 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
@@ -167,8 +167,16 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
+   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|Away Player Shots|Alex Millan - 2",
@@ -179,16 +187,16 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-noche-2330-escudos, estrella-1575221)"
-  },
-  {
-   "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
+   "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Dayot Upamecano - 1",
@@ -215,18 +223,6 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, pick-seguro-2, estrella-1570454)"
   },
   {
-   "clave": "estrella-2026-11-21-pick-seguro-c751f9e5",
-   "t": "⭐ Newcastle–Arsenal: «Estrella del Newcastle revela que temió por el final de su carrera tras unas terribles complicaciones de su le» (Lente Desportiva). «Pick que nos gusta mucho para hoy 👀» (10:30) va a favor de ese equipo: te propongo quitarlo"
-  },
-  {
-   "clave": "estrella-2026-11-21-estrella-1557475-c751f9e5",
-   "t": "⭐ Newcastle–Arsenal: «Estrella del Newcastle revela que temió por el final de su carrera tras unas terribles complicaciones de su le» (Lente Desportiva). «Hoy hay partidazo: Newcastle 🆚 Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐» (17:55) va a favor de ese equipo: te propongo quitarlo"
-  },
-  {
-   "clave": "regla-cuota_alta-2026-11-20-estrella-1575221",
-   "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
-  },
-  {
    "clave": "regla-estrella-2026-11-21-pick-seguro",
    "t": "📏 Regla (estrella): Total - Home|Over 0.5: a ese equipo le falta su estrella · «Pick que nos gusta mucho para hoy 👀» (10:30)"
   },
@@ -235,8 +231,28 @@
    "t": "📏 Regla (estrella): Total - Home|Over 0.5: a ese equipo le falta su estrella · «Hoy hay partidazo: Newcastle 🆚 Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐» (17:55)"
   }
  ],
- "revisado": "2026-11-20T19:19",
+ "revisado": "2026-11-20T19:30",
  "historial": [
+  {
+   "hora": "2026-11-20T19:30",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para esta noche 👇 (20:05)",
+   "k": "directo-2026-11-20-pick-claude-4"
+  },
+  {
+   "hora": "2026-11-20T19:30",
+   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Otro pick para la noche ⚽ (20:20)",
+   "k": "directo-2026-11-20-pick-claude-5"
+  },
+  {
+   "hora": "2026-11-20T19:30",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-4, loca-th-0800-lista-corners, loca-th-1900-lista-corners)",
+   "k": "repe-2026-11-20-1552827|Corners 1x2|Home"
+  },
+  {
+   "hora": "2026-11-20T19:30",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-5, loca-th-noche-2100-x100, loca-th-1900-lista-corners)",
+   "k": "repe-2026-11-20-1570454|Away Corners Over/Under|Over 2.5"
+  },
   {
    "hora": "2026-11-20T19:19",
    "t": "⭐ Newcastle–Arsenal: «Estrella del Newcastle revela que temió por el final de su carrera tras unas terribles complicaciones de su le» (Lente Desportiva). «Pick que nos gusta mucho para hoy 👀» (10:30) va a favor de ese equipo: te propongo quitarlo",
@@ -516,26 +532,6 @@
    "hora": "2026-11-19T18:36",
    "t": "🪫 No saldrá (una pata a 1.17 (mínimo 1.20 por pata)): 🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CHÊNOIS (FEM (20:00)",
    "k": "cuotabaja-2026-11-19-loca-th-2000-tiros"
-  },
-  {
-   "hora": "2026-11-19T18:36",
-   "t": "📏 Regla (cuota): una pata a 1.17 (mínimo 1.20 por pata) · «🎯 COMBI DE TIROS · BARCELONA (FEM.) vs SERVETTE CH» (20:00)",
-   "k": "regla-cuota-2026-11-19-loca-th-2000-tiros"
-  },
-  {
-   "hora": "2026-11-19T18:25",
-   "t": "⏰ No ha salido en threads ni instagram (18:00): Vamos con el pick de hoy familia 🔥",
-   "k": "redes-2026-11-19-pick-seguro-2-threads-instagram"
-  },
-  {
-   "hora": "2026-11-19T15:29",
-   "t": "📰 Athletic Club–Espanyol: «Terzic confirma la baja de Vivian antes del Athletic-Espanyol» (Athletic Club Info) · tenemos 3 post(s) de este partido: ganadores-resto, pick-seguro, estrella-1570454",
-   "k": "prensa-1570454-387117e9"
-  },
-  {
-   "hora": "2026-11-19T14:47",
-   "t": "📉 Arsenal (fem.)–Lyon (fem.) Frida Maanum - 2: la cuota ha pasado de 1.44 a 1.73 (+20%) desde que se hizo «🚨 COMBI ARSENAL (FEM.) – LYON (FEM.) 🚨» (17:00). Suele haber una noticia detrás",
-   "k": "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2"
   }
  ]
 }
