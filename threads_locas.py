@@ -860,7 +860,7 @@ def posts_noche(hoy, ahora=None):
         else:
             p.update(solo_en=["threads"], sin_foto=True, sin_porque=True)
         if len(texto) <= 500:
-            salida.append(p)
+            salida.append(con_escudos(p))
     return salida
 
 
@@ -885,12 +885,68 @@ def posts(dia, desde=None, sin_locas=False):
                            "cuota_bet365": cuota_txt(texto), "fijo": True, "directo": True,
                            "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1})
             continue
-        salida.append({"id": f"{dia}-loca-th-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
+        salida.append(con_escudos({"id": f"{dia}-loca-th-{h.strftime('%H%M')}-{tipo}", "fecha": h.strftime("%Y-%m-%dT%H:%M"),
                        "texto": texto, "sel": sel, "cuotas": cuotas, "solo_en": ["threads"], "origen": "threads_locas",
                        "cuota_bet365": cuota_txt(texto),
                        "sin_foto": True, "sin_porque": True, "fijo": True, "directo": True,
-                       "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1})
+                       "enlace_telegram": i % ENLACE_CADA == ENLACE_CADA - 1}))
     return salida
+
+
+ETIQUETA_EQUIPO = {   # 20/11: lo que sale en la foto al lado del escudo del equipo del pick
+    ("Match Winner", None): "WIN", ("Results/Both Teams Score", "Yes"): "WIN + BTTS", ("To Win Either Half", None): "GANA 1 PARTE",
+    ("Win Both Halves", None): "GANA 2 PARTES", ("Double Chance", None): "O EMPATE",
+}
+
+
+def fila_equipo(s_):
+    """(lado, etiqueta) de una selección que va de UN equipo (gana, gana y ambos marcan, o empate, marca…), o None."""
+    fid, m, o = (s_.split("|") + ["", ""])[:3]
+    lado = "Home" if o.startswith("Home") or o == "Home/Draw" else "Away" if o.startswith("Away") or o == "Draw/Away" else None
+    if m in ("Total - Home", "Total - Away"):
+        mm = re.match(r"Over (\d)\.5$", o)
+        if not mm:
+            return None
+        return ("Home" if m.endswith("Home") else "Away"), ("MARCA" if mm.group(1) == "0" else f"MARCA {int(mm.group(1)) + 1}+")
+    if not lado:
+        return None
+    if m == "Results/Both Teams Score":
+        return (lado, "WIN + BTTS") if o.endswith("/Yes") else None
+    et = ETIQUETA_EQUIPO.get((m, None))
+    return (lado, et) if et else None
+
+
+def con_escudos(p):
+    """20/11 (Marcos: «en Threads acuérdate de subir más fotos con escudos, sobre todo donde haya varios quién gana»):
+    si TODAS las patas son de un equipo (gana, gana y ambos marcan, gana una parte, o empate, marca), el post lleva la
+    foto de GANADORES (escudo de cada equipo y su pick) en vez de ir solo en texto."""
+    sel = [s_ for s_ in p.get("sel") or [] if s_]
+    if not (3 <= len(sel) <= 12):
+        return p
+    filas = []
+    try:
+        import semana
+        from combis_dia import nombre_es
+        from bot import DATOS
+        for s_ in sel:
+            f = fila_equipo(s_)
+            if not f:
+                return p
+            t = ((leer(DATOS / "proximos" / f"{s_.split('|')[0]}.json", {}) or {}).get("partido") or {}).get("teams") or {}
+            eq = t.get("home" if f[0] == "Home" else "away") or {}
+            if not eq.get("name"):
+                return p
+            n = eq["name"]
+            pais = semana.pais_equipo(n)
+            filas.append({"pais": pais, "bandera": semana.BANDERAS.get(pais, "⚽"), "escudo_url": eq.get("logo"),
+                          "nombre": nombre_es(n), "pick": f[1], "seleccion": semana.SELECCIONES.get(n, n) in semana.BANDERAS})
+    except Exception as e:
+        print("con_escudos:", str(e)[:120])
+        return p
+    titulo = re.sub(r"[^\wÁÉÍÓÚÑÜáéíóúñü0-9 ,.+x-]", "", (p.get("texto") or "").split("\n")[0]).strip()[:40] or "PARTIDOS DE HOY"
+    p = dict(p, ganadores_img={"titulo": titulo, "liga": None, "filas": filas, "lema": None})
+    p.pop("sin_foto", None)
+    return p
 
 
 def cuota_txt(texto):
