@@ -47,33 +47,22 @@
    "justa": 1.67,
    "ev": 0.0,
    "fuente": "las otras casas",
-   "edad_h": 6.2
+   "edad_h": 0.8
   },
   {
-   "local": "Farul Constanta",
-   "visitante": "Universitatea Cluj",
-   "inicio": "2026-11-20T19:30",
-   "texto": "Universitatea Cluj o empate",
-   "cuota": 1.5,
-   "justa": 1.53,
-   "ev": -0.018,
-   "fuente": "las otras casas",
-   "edad_h": 6.2
-  },
-  {
-   "local": "Farul Constanta",
-   "visitante": "Universitatea Cluj",
-   "inicio": "2026-11-20T19:30",
-   "texto": "Universitatea Cluj marca 2 o más",
-   "cuota": 2.2,
-   "justa": 2.24,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 6.2
+   "local": "FC Andorra",
+   "visitante": "Leganes",
+   "inicio": "2026-11-20T20:30",
+   "texto": "Gana el FC Andorra",
+   "cuota": 1.95,
+   "justa": 1.97,
+   "ev": -0.008,
+   "fuente": "Pinnacle",
+   "edad_h": 0.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-20T02:19",
+  "hora": "2026-11-20T02:58",
   "revisadas": 0,
   "mejor": null
  },

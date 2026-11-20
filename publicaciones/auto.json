@@ -9002,13 +9002,13 @@
       "1647583|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.5,
+      1.44,
       1.8,
-      1.62,
+      1.73,
       1.67,
       1.5,
       1.57,
-      1.67
+      1.53
     ],
     "solo_en": [
       "threads"
@@ -9019,7 +9019,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T02:57"
   },
   {
     "id": "2026-11-20-loca-th-0500-hora",
