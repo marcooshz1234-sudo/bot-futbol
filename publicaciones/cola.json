@@ -9292,7 +9292,14 @@
     "partido_id": 1551380,
     "solo_en": [
       "instagram"
-    ]
+    ],
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-20-pick-tip-1448-e",
@@ -9317,6 +9324,13 @@
     "porque_threads": "⚽ Kolding – Aalborg · 19:00 (Dinamarca)\n\n👨‍💻 En el 79% de los partidos del Kolding marcan los dos: solo ha dejado la portería a cero 1 vez.\n👨‍💻 El Aalborg marca en casi 8 de cada 10 partidos.\n👨‍💻 Los dos encajan 1,4 goles por partido: ninguno es fiable atrás.",
     "nota": "sin Threads: allí el ambos marcan del Kolding ya va en 2 posts",
     "enviado": "2026-11-20T17:40",
-    "mensaje_id": 564
+    "mensaje_id": 564,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
