@@ -9473,5 +9473,35 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-20-verde-auto-2026-11-20-pick-tip-1446",
+    "fecha": "2026-11-20T21:32",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Bayern–Colonia\n\n📈 Cuota @1,75\n\nSeguimos sumando 📈",
+    "foto": "publicaciones/media/2026-11-20-verde-auto-2026-11-20-pick-tip-1446.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-20-pick-tip-1446",
+    "solo_en": [
+      "telegram",
+      "instagram"
+    ]
+  },
+  {
+    "id": "2026-11-20-verde-auto-2026-11-20-pick-tip-1446-e",
+    "fecha": "2026-11-20T21:42",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Ambos marcan en Bayern–Colonia\n\n📈 Cuota @1,75\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-20-verde-auto-2026-11-20-pick-tip-1446-e.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-20-pick-tip-1446-e",
+    "solo_en": [
+      "telegram",
+      "threads"
+    ]
   }
 ]
