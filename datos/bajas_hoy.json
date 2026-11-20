@@ -8922,9 +8922,72 @@
     "motivo": "Thigh Injury"
    }
   ],
-  "1573652": []
+  "1573652": [],
+  "1550205": [
+   {
+    "equipo": 523,
+    "jugador": "A. Ndiaye",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 523,
+    "jugador": "D. Romero",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 523,
+    "jugador": "A. Bernabe",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 523,
+    "jugador": "Diego Carlos",
+    "tipo": "Questionable",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 523,
+    "jugador": "D. Drobnic",
+    "tipo": "Questionable",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 523,
+    "jugador": "L. Valenti",
+    "tipo": "Questionable",
+    "motivo": "Coach's decision"
+   },
+   {
+    "equipo": 497,
+    "jugador": "L. Pellegrini",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "P. Gollini",
+    "tipo": "Questionable",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "D. Rensch",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "M. Svilar",
+    "tipo": "Questionable",
+    "motivo": "Toe Injury"
+   }
+  ],
+  "1647587": []
  },
- "ultima": "2026-11-20T11:34:11.272243+01:00",
+ "ultima": "2026-11-20T12:07:18.762633+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
