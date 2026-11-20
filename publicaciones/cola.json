@@ -9152,7 +9152,8 @@
       1.44
     ],
     "texto": "Combi de la noche 🔥\n\n⚽ Athletic Club marca 2 o más vs Espanyol · 21:00\n⚽ Oporto marca 3 o más vs Paredes · 21:45\n\n📈 Cuota @2,26\n\n🧠 Por qué:\n👨‍💻 El Athletic, 7º, recibe al Espanyol (15º), que solo ha ganado 1 de sus últimos 5\n👨‍💻 El Oporto juega la Copa contra un equipo de categoría inferior: bet365 da @1,50 a que el Paredes no marque\n\n🧠 Stake 2/10",
-    "nota": "Claude · 11:37 Marcos: «prepara las cosas que más te gusten» · 12:13 OK implícito («no pongas partidos tan raros»: fuera los 2 rumanos)"
+    "nota": "Claude · 11:37 Marcos: «prepara las cosas que más te gusten» · 12:13 OK implícito («no pongas partidos tan raros»: fuera los 2 rumanos) · 19:22 Marcos: «no quiero combis en Telegram»: quitada",
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-20-pick-claude-2",
@@ -9347,5 +9348,39 @@
     "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
     "solo_redes": true,
     "sin_instagram": true
+  },
+  {
+    "id": "2026-11-20-pick-claude-4",
+    "fecha": "2026-11-20T20:05",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.62
+    ],
+    "partido_id": 1552827,
+    "sel": [
+      "1552827|Corners 1x2|Home"
+    ],
+    "nota": "Claude · 19:22 Marcos: «quítala (la estrella)… cámbiala por un pick bueno; en Telegram quiero entre 7 y 11 picks al día»",
+    "texto": "Pick para esta noche 👇\n\n🇫🇷 Troyes – Le Havre · hoy 20:45\n\n🍀 Troyes saca más córners que el Le Havre @1,62\n\n👨‍💻 En casa, el Troyes saca 6,6 córners por partido y solo concede 2,2\n👨‍💻 El Le Havre, fuera, concede 4,8 córners por partido\n👨‍💻 Con esas medias, el Troyes saca unos 5,7 córners en este partido y el Le Havre unos 3,6\n\n🧠 Stake 2/10"
+  },
+  {
+    "id": "2026-11-20-pick-claude-5",
+    "fecha": "2026-11-20T20:20",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "cuotas": [
+      1.62
+    ],
+    "partido_id": 1570454,
+    "sel": [
+      "1570454|Away Corners Over/Under|Over 2.5"
+    ],
+    "nota": "Claude · 19:22 Marcos: «quítala (la estrella)… cámbiala por un pick bueno; en Telegram quiero entre 7 y 11 picks al día»",
+    "texto": "Otro pick para la noche ⚽\n\n🇪🇸 Athletic Club – Espanyol · hoy 21:00\n\n🍀 Espanyol: más de 2,5 córners @1,62\n\n👨‍💻 Fuera de casa, el Espanyol saca 4,7 córners por partido\n👨‍💻 El Athletic, en casa, concede 4,2 córners por partido\n👨‍💻 Con esas medias, lo normal es que el Espanyol llegue a 3 o más\n\n🧠 Stake 2/10"
   }
 ]
