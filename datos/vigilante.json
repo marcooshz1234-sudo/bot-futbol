@@ -106,7 +106,8 @@
   "prensa-1570025-530213b5": "2026-11-20T12:29",
   "prensa-1570461-DMaldini": "2026-11-20T13:31",
   "redes-2026-11-20-combi-tres-threads-instagram": "2026-11-20T13:52",
-  "prensa-1570462-d1f6831e": "2026-11-20T14:33"
+  "prensa-1570462-d1f6831e": "2026-11-20T14:33",
+  "repe-2026-11-20-1570025|Total - Home|Over 1.5": "2026-11-20T14:44"
  },
  "abiertos": [
   {
@@ -118,10 +119,6 @@
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche 🔥 (20:00)"
   },
   {
-   "clave": "redes-2026-11-20-combi-tres-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del viernes familia 🔥"
-  },
-  {
    "clave": "repe-2026-11-20-1575221|Win Both Halves|Home",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2330-escudos, loca-th-0030-x100)"
   },
@@ -130,47 +127,51 @@
    "t": "🔁 20/11: el mismo pronóstico en 4 posts (combi-noche, loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2330-escudos, estrella-1575221)"
+   "clave": "repe-2026-11-20-1570025|Total - Home|Over 1.5",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (escalera-b, pick-seguro, escalera)"
   },
   {
-   "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
+   "clave": "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2330-escudos, estrella-1575221)"
   },
   {
    "clave": "repe-2026-11-20-1551380|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+   "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
+   "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
    "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
@@ -207,7 +208,7 @@
   },
   {
    "clave": "repe-2026-11-20-1565308|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 20/11: el mismo pronóstico en 4 posts (loca-th-0700-x500, loca-th-1230-escudos, combi-tres, combi-multi)"
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-0700-x500, loca-th-1230-escudos, combi-multi)"
   },
   {
    "clave": "repe-2026-11-20-1570025|Corners 1x2|Home",
@@ -218,16 +219,17 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, pick-seguro-2, estrella-1570454)"
   },
   {
-   "clave": "prensa-1570462-d1f6831e",
-   "t": "📰 Sevilla–Real Betis: «Dani Ceballos se pierde el derbi ante el Sevilla FC» (Sevilla Actualidad) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
    "clave": "regla-cuota_alta-2026-11-20-estrella-1575221",
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-20T14:33",
+ "revisado": "2026-11-20T14:44",
  "historial": [
+  {
+   "hora": "2026-11-20T14:44",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (escalera-b, pick-seguro, escalera)",
+   "k": "repe-2026-11-20-1570025|Total - Home|Over 1.5"
+  },
   {
    "hora": "2026-11-20T14:33",
    "t": "📰 Sevilla–Real Betis: «Dani Ceballos se pierde el derbi ante el Sevilla FC» (Sevilla Actualidad) · tenemos 1 post(s) de este partido: ganadores-laliga",
@@ -522,11 +524,6 @@
    "hora": "2026-11-19T09:12",
    "t": "🪫 No saldrá (cuota 1.33 por debajo de 1.35): Vamos con otro pick 🍀 (10:30)",
    "k": "cuotabaja-2026-11-19-pick-seguro"
-  },
-  {
-   "hora": "2026-11-19T09:12",
-   "t": "📏 Regla (cuota): cuota 1.33 por debajo de 1.35 · «Vamos con otro pick 🍀» (10:30)",
-   "k": "regla-cuota-2026-11-19-pick-seguro"
   }
  ]
 }
