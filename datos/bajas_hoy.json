@@ -9130,7 +9130,7 @@
    {
     "equipo": 91,
     "jugador": "S. Idumbo",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
    },
    {
@@ -9138,6 +9138,12 @@
     "jugador": "C. Mawissa",
     "tipo": "Questionable",
     "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 108,
+    "jugador": "C. Akpa",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    },
    {
     "equipo": 108,
@@ -9153,21 +9159,15 @@
    },
    {
     "equipo": 108,
+    "jugador": "D. Namaso",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 108,
     "jugador": "B. Okoh",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 108,
-    "jugador": "C. Makosso",
-    "tipo": "Questionable",
-    "motivo": "Rest"
-   },
-   {
-    "equipo": 108,
-    "jugador": "D. Namaso",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
    }
   ],
   "1570461": [
@@ -9445,7 +9445,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-20T23:35:07.420740+01:00",
+ "ultima": "2026-11-21T00:06:55.175129+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-noche-2330-escudos|Emre Mor"

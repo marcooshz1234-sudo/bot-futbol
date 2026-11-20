@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-20 23:59",
+ "actualizado": "2026-11-21 00:09",
  "redes": {
   "instagram": {
    "seguidores": 53,
-   "hoy": 1,
+   "hoy": 0,
    "serie": [
-    40,
     41,
     44,
     48,
     51,
     52,
+    53,
     53
    ]
   },
   "threads": {
    "seguidores": 3248,
-   "hoy": 18,
+   "hoy": 0,
    "serie": [
-    2776,
     2792,
     3009,
     3160,
     3215,
     3230,
+    3248,
     3248
    ]
   },
@@ -42,25 +42,25 @@
   },
   "telegram": {
    "seguidores": 490,
-   "hoy": 5,
+   "hoy": 0,
    "serie": [
-    404,
     411,
     439,
     471,
     479,
     485,
+    490,
     490
    ]
   }
  },
  "total": 3792,
- "total_hoy": 24,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "01:00",
   "dia": "2026-11-21",
-  "titulo": "Laliga - ganadores"
+  "titulo": "Premier league - ganadores"
  },
  "ayer": null,
  "escalera": {
@@ -236,6 +236,12 @@
    "telegram": 485
   },
   "2026-11-20": {
+   "instagram": 53,
+   "threads": 3248,
+   "facebook": 1,
+   "telegram": 490
+  },
+  "2026-11-21": {
    "instagram": 53,
    "threads": 3248,
    "facebook": 1,
