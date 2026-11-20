@@ -151,7 +151,7 @@ const MERCADOS_ES = {"Goals Over/Under":"Más de X goles","Goals Over/Under Firs
   "Away Player Shots On Target Total":"Tiros a puerta de jugador (visitante)","Total Goals/Both Teams To Score":"Goles y ambos marcan",
   "Results/Both Teams Score":"Resultado y ambos marcan"};
 const nombreMercado = m => MERCADOS_ES[m] || m;   // versión para compartir: sin lo interno
-const PESTANAS = [["hoy","🏠","Hoy"],["picksdia","🍀","Picks"],["info","ℹ️","Info"],["directo","⚽","Directo"],["historial","📊","Historial"],["contenido","✍️","Posts"]]
+const PESTANAS = [["hoy","🏠","Hoy"],["picksdia","🍀","Picks"],["info","ℹ️","Info"],["directo","⚽","Directo"],["historial","📊","Historial"],["combis","🧮","Combis"],["contenido","✍️","Posts"]]
   .filter(([k]) => !PUBLICA || !["contenido","bot"].includes(k));   // 09/11: de 5 pestañas con mucho lío a 4 (5 para Marcos)
 let D = null, tab = guardado("tab") || "hoy"; if(PUBLICA && ["contenido","bot"].includes(tab)) tab = "hoy"; let _x, sub = {}, abiertos = new Set();
 function guardado(k){try{return localStorage.getItem("cl_"+k)}catch(e){return null}}
@@ -175,10 +175,26 @@ async function cargar(){
   $("#act").textContent = "Datos del bot · " + D.generado.slice(8,10)+"/"+D.generado.slice(5,7)+" "+D.generado.slice(11);
   pintar();
 }
+
+// 20/11 (Marcos): combis de un partido por pata (~@1,50) con el dato de cada jugador (combis_semana.py). Él monta
+// las que quiera en bet365 y le manda la captura a Claude/al bot, que la sube a Threads, X y Telegram (1 al día).
+function vCombis(){
+  const C = D.combis_semana || {}, L = C.combis || [];
+  if(!L.length) return `<div class="empty">Aún no hay combis preparadas. Salen los viernes (el finde) y los martes (entre semana) a las 10:00.</div>`;
+  const dias = ["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"], coma = x => Number(x).toFixed(2).replace(".",",");
+  const BAND = {"LaLiga":"🇪🇸","Segunda División":"🇪🇸","Premier League":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Serie A":"🇮🇹","Bundesliga":"🇩🇪","Ligue 1":"🇫🇷","Eredivisie":"🇳🇱","Primeira Liga":"🇵🇹"};
+  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana"}</b><div class="mut" style="margin-top:4px">Un partido por pata, ~@1,50. Monta las que quieras en bet365 (las cuotas bajan con los días) y manda la captura: se suben a Threads, X y Telegram (1 al día).</div></div>`;
+  L.forEach((c,i) => {
+    h += `<div class="card" style="margin-bottom:10px"><div style="display:flex;justify-content:space-between"><b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b><b style="color:var(--ok)">@${coma(c.cuota)}</b></div>`;
+    c.patas.forEach(x => { const f = new Date(x.hora);
+      h += `<div style="margin-top:10px"><div class="mut" style="font-size:12px">${dias[f.getDay()]} ${x.hora.slice(11,16)} · ${esc(x.partido)}</div><div><b>${esc(x.texto)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
+    h += `</div>`; });
+  return h;
+}
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }
 function ir(k){ tab=k; guardar("tab",k); window.scrollTo(0,0); pintar() }
 function subTabs(id, ops, def){ const v = sub[id] || def; return [v, `<div class="tabs">${ops.map(([k,t]) => `<button class="${k===v?"on":""}" onclick="sub['${id}']='${k}';pintar()">${t}</button>`).join("")}</div>`] }
-function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,picksdia:vPicksDia,info:vInfo,directo:vDirectoTab,historial:vHistorial,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot})[tab] || vHoy;
+function pintar(){ nav(); if(!D) return; estadoBot(); const v = ({hoy:vHoy,picksdia:vPicksDia,info:vInfo,directo:vDirectoTab,historial:vHistorial,picks:vPicks,partidos:vPartidos,contenido:vContenido,stats:vStats,bot:vBot,combis:vCombis})[tab] || vHoy;
   const aviso = avisoDatos(D.generado_iso); $("#vista").innerHTML = (/Datos atrasados|sin confirmar/.test(aviso)?`<div style="margin-bottom:10px">${aviso}</div>`:"") + v(); }
 function estadoBot(){ const b = $("#estadoBot"); if(!b || !D || !D.bot) return; const B = D.bot; const col = B.pausa?"var(--warn)":(B.errores||[]).length?"var(--live)":"var(--ok)";
   b.innerHTML = `<span class="punto" style="background:${col}"></span> 🤖`; }
