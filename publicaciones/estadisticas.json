@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 14:53",
+ "actualizado": "2026-11-20 15:04",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 490,
-   "hoy": 5,
+   "seguidores": 491,
+   "hoy": 6,
    "serie": [
     404,
     411,
@@ -50,17 +50,17 @@
     471,
     479,
     485,
-    490
+    491
    ]
   }
  },
- "total": 3788,
- "total_hoy": 20,
+ "total": 3789,
+ "total_hoy": 21,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "16:00",
   "dia": "2026-11-20",
-  "titulo": "Combi aarhus fremad – hobro"
+  "titulo": "Combi estac troyes – le havre"
  },
  "ayer": null,
  "escalera": {
@@ -239,12 +239,12 @@
    "instagram": 52,
    "threads": 3245,
    "facebook": 1,
-   "telegram": 490
+   "telegram": 491
   }
  },
  "tipos_instagram": {
   "Cuota 3 (reel)": {
-   "posts": 1,
+   "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -254,7 +254,7 @@
    "comentarios_media": 0.0
   },
   "Otros (reel)": {
-   "posts": 50,
+   "posts": 49,
    "likes_media": 0.1,
    "comentarios_media": 0.0
   },
