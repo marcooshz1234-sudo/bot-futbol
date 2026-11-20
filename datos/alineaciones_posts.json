@@ -1838,37 +1838,174 @@
    }
   },
   "1551380": {
-   "hora": "2026-11-20T18:56:23.878863+01:00",
+   "hora": "2026-11-20T19:07:41.619285+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1551377": {
-   "hora": "2026-11-20T18:56:23.878863+01:00",
+   "hora": "2026-11-20T19:07:41.619285+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1565306": {
-   "hora": "2026-11-20T18:56:23.878863+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-20T19:07:41.619285+01:00",
+   "xi": [
+    "Rafael Munteanu",
+    "Sofyane Bouzamoucha",
+    "Nabil Aberdin",
+    "Victor Dican",
+    "Ionuț Vînă",
+    "Tony Njiké",
+    "Matteo Ahlinvi",
+    "Cristian Ganea",
+    "Răzvan Tănasă",
+    "Denis Alibec",
+    "Eduard Radaslavescu",
+    "Ștefan Lefter",
+    "Dino Mikanović",
+    "Florent Poulolo",
+    "Iulian Cristea",
+    "Alexandru Chipciu",
+    "Dorin Codrea",
+    "Issouf Macalou",
+    "Pedro Pinho",
+    "Marius Ștefănescu",
+    "Jug Stanojev",
+    "Jovo Lukić"
+   ],
+   "banquillo": [
+    "Alexandru Buzbuchi",
+    "Hassane Traoré",
+    "João Ferreira",
+    "Gustavo Marins",
+    "Dan Sîrbu",
+    "Valentin Țicu",
+    "Lucas Pellegrini",
+    "Ionuț Larie",
+    "Nicolas Popescu",
+    "Eddy Sylvestre",
+    "Narek Grigoryan",
+    "Denis Moldovan",
+    "Neofytos Michail",
+    "Alin Techereș",
+    "Adams Friday",
+    "Alin Chinteș",
+    "Oucasse Mendy",
+    "Luca Szimionaș",
+    "Andrei Gheorghiță",
+    "Lukas Pall"
+   ],
+   "equipos": {
+    "2596": [
+     {
+      "n": "Rafael Munteanu",
+      "pos": "G"
+     },
+     {
+      "n": "Sofyane Bouzamoucha",
+      "pos": "D"
+     },
+     {
+      "n": "Nabil Aberdin",
+      "pos": "D"
+     },
+     {
+      "n": "Victor Dican",
+      "pos": "D"
+     },
+     {
+      "n": "Ionuț Vînă",
+      "pos": "M"
+     },
+     {
+      "n": "Tony Njiké",
+      "pos": "M"
+     },
+     {
+      "n": "Matteo Ahlinvi",
+      "pos": "M"
+     },
+     {
+      "n": "Cristian Ganea",
+      "pos": "M"
+     },
+     {
+      "n": "Răzvan Tănasă",
+      "pos": "F"
+     },
+     {
+      "n": "Denis Alibec",
+      "pos": "F"
+     },
+     {
+      "n": "Eduard Radaslavescu",
+      "pos": "F"
+     }
+    ],
+    "2599": [
+     {
+      "n": "Ștefan Lefter",
+      "pos": "G"
+     },
+     {
+      "n": "Dino Mikanović",
+      "pos": "D"
+     },
+     {
+      "n": "Florent Poulolo",
+      "pos": "D"
+     },
+     {
+      "n": "Iulian Cristea",
+      "pos": "D"
+     },
+     {
+      "n": "Alexandru Chipciu",
+      "pos": "D"
+     },
+     {
+      "n": "Dorin Codrea",
+      "pos": "M"
+     },
+     {
+      "n": "Issouf Macalou",
+      "pos": "M"
+     },
+     {
+      "n": "Pedro Pinho",
+      "pos": "M"
+     },
+     {
+      "n": "Marius Ștefănescu",
+      "pos": "M"
+     },
+     {
+      "n": "Jug Stanojev",
+      "pos": "M"
+     },
+     {
+      "n": "Jovo Lukić",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570025": {
-   "hora": "2026-11-20T18:56:23.878863+01:00",
+   "hora": "2026-11-20T19:07:41.619285+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1575221": {
-   "hora": "2026-11-20T18:56:23.878863+01:00",
+   "hora": "2026-11-20T19:07:41.619285+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1608379": {
-   "hora": "2026-11-20T18:56:23.878863+01:00",
+   "hora": "2026-11-20T19:07:41.619285+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
