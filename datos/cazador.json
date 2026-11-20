@@ -47,7 +47,7 @@
    "justa": 1.67,
    "ev": 0.0,
    "fuente": "las otras casas",
-   "edad_h": 2.8
+   "edad_h": 3.2
   },
   {
    "local": "FC Andorra",
@@ -58,11 +58,11 @@
    "justa": 1.97,
    "ev": -0.008,
    "fuente": "Pinnacle",
-   "edad_h": 2.8
+   "edad_h": 3.2
   }
  ],
  "ultima": {
-  "hora": "2026-11-20T05:03",
+  "hora": "2026-11-20T05:25",
   "revisadas": 0,
   "mejor": null
  },
