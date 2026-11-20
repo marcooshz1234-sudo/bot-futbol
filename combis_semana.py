@@ -307,6 +307,36 @@ def patas_equipo(p):
     return [x for x in out if x]
 
 
+def patas_ganador(p):
+    """20/11 (Marcos: «otra de quién gana»): el favorito de cada partido gana, de @1,20 a @1,80 (máximo de pata)."""
+    import math
+    c = p.get("cuotas_bet365") or {}
+    sl = p.get("stats_local_casa") or p.get("stats_local") or {}
+    sv = p.get("stats_visitante_fuera") or p.get("stats_visitante") or {}
+    f = lambda d, k: _num(d.get(k)) or 0.0
+    lam_l, lam_v = (f(sl, "gf") + f(sv, "gc")) / 2, (f(sv, "gf") + f(sl, "gc")) / 2
+    if not (lam_l or lam_v):
+        return []
+    pl = pe = 0.0
+    for i in range(10):
+        for j in range(10):
+            pij = math.exp(-lam_l) * lam_l ** i / math.factorial(i) * math.exp(-lam_v) * lam_v ** j / math.factorial(j)
+            pl += pij if i > j else 0
+            pe += pij if i == j else 0
+    out = []
+    for eq, pw, k, s in ((p["local"], pl, "Home", sl), (p["visitante"], 1 - pl - pe, "Away", sv)):
+        cu = next((_num(v) for n_, v in c.get("Match Winner", []) if n_ == k), None)
+        forma = s.get("forma", "")
+        pr = (pw + 1 / cu) / 2 if cu else pw          # mezcla nuestro cálculo con lo que dice la casa
+        if forma:
+            pr = (2 * pr + forma.count("V") / 5) / 3
+        if cu and 1.20 <= cu <= 1.80 and pr >= 0.6:
+            out.append({"sel": f"{p['id']}|Match Winner|{k}", "texto": f"Gana {eq}", "cuota": cu, "p": round(pr, 3),
+                        "dato": f"{eq}: {forma} en sus últimos 5 · {'en casa' if k == 'Home' else 'fuera'}" if forma else f"{eq} favorito",
+                        "nota": pr + 0.5 * (pr * cu - 1), "lado": "L" if k == "Home" else "V", "ganador": True})
+    return out
+
+
 def _dia(p):
     return datetime.fromisoformat(p["fecha"]).astimezone(MADRID).strftime("%Y-%m-%d")
 
@@ -430,6 +460,7 @@ JUG = lambda x: bool(x.get("lado") and ":" in x["texto"])
 DESTACADAS = (   # (clave, título, explicación, filtro de pata, nº de patas, orden)
     ("todas", "🌍 Lo mejor de todas las ligas", "La mejor pata de cada partido, mezclando ligas", lambda x: True, 7, "nota"),
     ("segura", "🛡️ La segura", "Las 3 patas más probables de todo", lambda x: True, 3, "p"),
+    ("ganan", "🏆 Quién gana", "El favorito de cada partido gana, de @1,20 a @1,80", lambda x: x["sel"].split("|")[1] == "Match Winner", 6, "p"),
     ("top", "🏟️ Partidos top", "Solo partidos de los grandes", _es_top, 4, "nota"),
     ("faltas", "🦵 Faltas", "Jugadores que cometen faltas siempre que son titulares", lambda x: JUG(x) and "falta" in x["texto"], 5, "nota"),
     ("remates", "🔫 Remates y paradas", "Rematadores fijos y porteros con trabajo",
@@ -459,7 +490,7 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
         t = _teams(p["id"])
         cands = [dict(x, partido=f"{p['local']}–{p['visitante']}", hora=ini.strftime("%Y-%m-%dT%H:%M"), liga=p["competicion"],
                       logo_l=(t.get("home") or {}).get("logo"), logo_v=(t.get("away") or {}).get("logo"))
-                 for x in patas_jugador(p, h) + patas_equipo(p) if x and x["sel"] not in set(fuera)]
+                 for x in patas_jugador(p, h) + patas_equipo(p) + patas_ganador(p) if x and x["sel"] not in set(fuera)]
         if cands:
             pool.append((p, cands))
     tipos = list(DESTACADAS)
@@ -473,7 +504,7 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
     for clave, titulo, expl, filtro, n, orden in tipos:
         mejores = []
         for p, cands in pool:
-            cs = [x for x in cands if filtro(x) and x["sel"] not in usadas]
+            cs = [x for x in cands if filtro(x) and x["sel"] not in usadas and (clave == "ganan") == bool(x.get("ganador"))]
             if cs:
                 mejores.append(max(cs, key=lambda x: x[orden]))
         patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])

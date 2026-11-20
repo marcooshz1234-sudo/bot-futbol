@@ -131,3 +131,16 @@ class LigasYDestacadas(unittest.TestCase):
             ids = [x["sel"].split("|")[0] for x in c["patas"]]
             self.assertEqual(len(ids), len(set(ids)))                              # un partido una vez por combi
             self.assertTrue(0 < c["prob"] <= 1)
+
+
+class QuienGana(unittest.TestCase):
+    """20/11 (Marcos: «otra de quién gana»): favoritos de @1,20 a @1,80, solo en su combi."""
+    def test_favorito(self):
+        p = partido(1, "15:00")
+        p["stats_local_casa"] = {"gf": 2.4, "gc": 0.8, "forma": "VVVVE"}
+        p["stats_visitante_fuera"] = {"gf": 0.8, "gc": 2.0, "forma": "DDEDV"}
+        p["cuotas_bet365"] = {"Match Winner": [["Home", "1.30"], ["Away", "9.00"]]}
+        ps = CS.patas_ganador(p)
+        self.assertEqual([x["texto"] for x in ps], ["Gana L1"])
+        p["cuotas_bet365"] = {"Match Winner": [["Home", "1.10"]]}
+        self.assertEqual(CS.patas_ganador(p), [])           # demasiado baja

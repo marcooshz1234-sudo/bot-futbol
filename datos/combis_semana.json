@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-20",
- "generado": "2026-11-20T19:11+01:00",
+ "generado": "2026-11-20T19:12+01:00",
  "rango": [
   "2026-11-20",
   "2026-11-23"
@@ -2163,6 +2163,106 @@
    ],
    "cuota": 3.39,
    "prob": 0.509
+  },
+  {
+   "clave": "ganan",
+   "titulo": "🏆 Quién gana",
+   "expl": "El favorito de cada partido gana, de @1,20 a @1,80",
+   "liga": "Varias",
+   "patas": [
+    {
+     "sel": "1550200|Match Winner|Home",
+     "texto": "Gana Como",
+     "cuota": 1.27,
+     "p": 0.744,
+     "dato": "Como: VVVEV en sus últimos 5 · en casa",
+     "nota": 0.7170467361102815,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Como–Cagliari",
+     "hora": "2026-11-21T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/895.png",
+     "logo_v": "https://media.api-sports.io/football/teams/490.png"
+    },
+    {
+     "sel": "1550202|Match Winner|Home",
+     "texto": "Gana Lazio",
+     "cuota": 1.33,
+     "p": 0.689,
+     "dato": "Lazio: VVVEV en sus últimos 5 · en casa",
+     "nota": 0.6471994167932967,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Lazio–Lecce",
+     "hora": "2026-11-21T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/487.png",
+     "logo_v": "https://media.api-sports.io/football/teams/867.png"
+    },
+    {
+     "sel": "1552824|Match Winner|Away",
+     "texto": "Gana Paris Saint Germain",
+     "cuota": 1.42,
+     "p": 0.733,
+     "dato": "Paris Saint Germain: VVVVV en sus últimos 5 · fuera",
+     "nota": 0.7529599344400935,
+     "lado": "V",
+     "ganador": true,
+     "partido": "Nice–Paris Saint Germain",
+     "hora": "2026-11-21T17:15",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/84.png",
+     "logo_v": "https://media.api-sports.io/football/teams/85.png"
+    },
+    {
+     "sel": "1552823|Match Winner|Home",
+     "texto": "Gana Monaco",
+     "cuota": 1.4,
+     "p": 0.684,
+     "dato": "Monaco: VEVEV en sus últimos 5 · en casa",
+     "nota": 0.6621726824432184,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Monaco–Auxerre",
+     "hora": "2026-11-21T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/91.png",
+     "logo_v": "https://media.api-sports.io/football/teams/108.png"
+    },
+    {
+     "sel": "1570455|Match Winner|Home",
+     "texto": "Gana Barcelona",
+     "cuota": 1.2,
+     "p": 0.758,
+     "dato": "Barcelona: VVDVV en sus últimos 5 · en casa",
+     "nota": 0.7130985163812764,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Barcelona–Villarreal",
+     "hora": "2026-11-22T14:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/529.png",
+     "logo_v": "https://media.api-sports.io/football/teams/533.png"
+    },
+    {
+     "sel": "1552825|Match Winner|Home",
+     "texto": "Gana Paris FC",
+     "cuota": 1.33,
+     "p": 0.733,
+     "dato": "Paris FC: VVVEV en sus últimos 5 · en casa",
+     "nota": 0.719891123447346,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Paris FC–Angers",
+     "hora": "2026-11-22T15:00",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/114.png",
+     "logo_v": "https://media.api-sports.io/football/teams/77.png"
+    }
+   ],
+   "cuota": 5.36,
+   "prob": 0.143
   },
   {
    "clave": "top",
