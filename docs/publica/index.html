@@ -180,14 +180,14 @@ async function cargar(){
 // las que quiera en bet365 y le manda la captura a Claude/al bot, que la sube a Threads, X y Telegram (1 al día).
 function vCombis(){
   const C = D.combis_semana || {}, L = C.combis || [];
-  if(!L.length) return `<div class="empty">Aún no hay combis preparadas. Salen los viernes (el finde) y los martes (entre semana) a las 10:00.</div>`;
+  if(!L.length) return `<div class="empty">Aún no hay combis preparadas. Se actualizan solas cada 30 minutos con los partidos de los próximos 3 días.</div>`;
   const dias = ["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"], coma = x => Number(x).toFixed(2).replace(".",",");
   const BAND = {"LaLiga":"🇪🇸","Segunda División":"🇪🇸","Premier League":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Serie A":"🇮🇹","Bundesliga":"🇩🇪","Ligue 1":"🇫🇷","Eredivisie":"🇳🇱","Primeira Liga":"🇵🇹"};
-  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana"}</b><div class="mut" style="margin-top:4px">Un partido por pata, ~@1,50. Monta las que quieras en bet365 (las cuotas bajan con los días) y manda la captura: se suben a Threads, X y Telegram (1 al día).</div></div>`;
+  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana"}</b><div class="mut" style="margin-top:4px">Un partido por pata, ~@1,50. Se actualiza sola y quita lo que ya se ha subido. Monta las que quieras en bet365 (las cuotas bajan con los días) y manda la captura: se sube a Threads, X y Telegram (1 al día).</div></div>`;
   L.forEach((c,i) => {
     h += `<div class="card" style="margin-bottom:10px"><div style="display:flex;justify-content:space-between"><b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b><b style="color:var(--ok)">@${coma(c.cuota)}</b></div>`;
     c.patas.forEach(x => { const f = new Date(x.hora);
-      h += `<div style="margin-top:10px"><div class="mut" style="font-size:12px">${dias[f.getDay()]} ${x.hora.slice(11,16)} · ${esc(x.partido)}</div><div><b>${esc(x.texto)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
+      h += `<div style="margin-top:10px"><div style="font-size:13px"><span class="mut">${dias[f.getDay()]} ${x.hora.slice(11,16)} · </span><b style="color:#3b82f6">${esc(x.partido)}</b></div><div><b>${esc(x.texto)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
     h += `</div>`; });
   return h;
 }

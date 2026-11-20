@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 18:26",
+ "actualizado": "2026-11-20 18:36",
  "redes": {
   "instagram": {
    "seguidores": 52,
@@ -41,25 +41,26 @@
    ]
   },
   "telegram": {
-   "seguidores": null,
-   "hoy": null,
+   "seguidores": 491,
+   "hoy": 6,
    "serie": [
     404,
     411,
     439,
     471,
     479,
-    485
+    485,
+    491
    ]
   }
  },
- "total": 3298,
- "total_hoy": 15,
+ "total": 3789,
+ "total_hoy": 21,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:30",
+  "hora": "19:00",
   "dia": "2026-11-20",
-  "titulo": "La millonaria x93,04"
+  "titulo": "Córners del día"
  },
  "ayer": null,
  "escalera": {
@@ -237,7 +238,8 @@
   "2026-11-20": {
    "instagram": 52,
    "threads": 3245,
-   "facebook": 1
+   "facebook": 1,
+   "telegram": 491
   }
  },
  "tipos_instagram": {
