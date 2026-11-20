@@ -9179,8 +9179,8 @@
     "cuotas": [
       2.0,
       2.1,
-      2.25,
-      2.1,
+      2.62,
+      2.0,
       2.0,
       2.0
     ],
@@ -9193,7 +9193,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T08:34"
   },
   {
     "id": "2026-11-20-pick-seguro",
