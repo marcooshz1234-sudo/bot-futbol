@@ -1,6 +1,6 @@
 # Próximos partidos
 
-_Actualizado el 20/11/2026 08:29 (hora España). Partidos guardados en la base de datos: 2668._
+_Actualizado el 20/11/2026 14:20 (hora España). Partidos guardados en la base de datos: 2668._
 
 
 ## Viernes 20/11
@@ -225,3 +225,13 @@ _Actualizado el 20/11/2026 08:29 (hora España). Partidos guardados en la base d
 - 21:00 · Premier League · [Nottingham Forest – Chelsea](informes/2026-11-27_nottingham-forest-vs-chelsea.md) · 1X2: 2.70 / 3.40 / 2.40
 - 21:00 · Championship · [Southampton – Middlesbrough](informes/2026-11-27_southampton-vs-middlesbrough.md)
 - 21:15 · Primeira Liga · [Maritimo – Nacional](informes/2026-11-27_maritimo-vs-nacional.md) · 1X2: 2.15 / 3.25 / 3.30
+
+## Sábado 28/11
+- 12:00 · Segunda Liga · [AVS – Leixoes](informes/2026-11-28_avs-vs-leixoes.md)
+- 13:00 · 1. Division · [Hillerød – Vendsyssel FF](informes/2026-11-28_hillerd-vs-vendsyssel-ff.md)
+- 13:30 · Championship · [Preston – Norwich](informes/2026-11-28_preston-vs-norwich.md)
+- 13:30 · Championship · [Blackburn – Charlton](informes/2026-11-28_blackburn-vs-charlton.md)
+- 13:30 · Championship · [Lincoln – Wolves](informes/2026-11-28_lincoln-vs-wolves.md)
+- 13:30 · Liga I · [FC Voluntari – CFR 1907 Cluj](informes/2026-11-28_fc-voluntari-vs-cfr-1907-cluj.md)
+- 13:30 · 1. Division · [HB Koge – Aarhus Fremad](informes/2026-11-28_hb-koge-vs-aarhus-fremad.md)
+- 14:00 · LaLiga · [Real Betis – Rayo Vallecano](informes/2026-11-28_real-betis-vs-rayo-vallecano.md) · 1X2: 1.48 / 4.33 / 6.25

@@ -9366,23 +9366,6 @@
     "cuotas_revisadas": "2026-11-20T11:33"
   },
   {
-    "id": "2026-11-20-combi-tres",
-    "fecha": "2026-11-20T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇷🇴 Más de 1,5 goles en la 2ª parte del FC Botosani–FC Voluntari\n🇫🇷 Estac Troyes ve más de 1,5 tarjetas\n\n📈 Cuota @2,83\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1565308|Goals Over/Under - Second Half|Over 1.5",
-      "1552827|Home Team Total Cards|Over 1.5"
-    ],
-    "cuotas": [
-      1.8,
-      1.57
-    ],
-    "solo_redes": true
-  },
-  {
     "id": "2026-11-20-loca-th-1400-lista-ambos",
     "fecha": "2026-11-20T14:00",
     "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇩🇰 Aarhus Fremad–Hobro ➜ Ambos marcan @1,73\n2. 🇷🇴 Farul Constanta–Universitatea Cluj ➜ Ambos marcan @1,62\n3. 🇮🇹 Trento–Cittadella ➜ Ambos marcan @1,83\n\n👇 ¿Con cuál os quedáis? 👇",
@@ -9411,7 +9394,7 @@
   {
     "id": "2026-11-20-combi-multi",
     "fecha": "2026-11-20T14:30",
-    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x24,91! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 Más de 1,5 goles en la 2ª parte del FC Botosani–FC Voluntari\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇮🇹 Trento o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n🇫🇷 Estac Troyes ve más de 1,5 tarjetas\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,30! 🍀\n🤪 Para soñar un poco: con poquito dinero\n\n🇷🇴 Más de 1,5 goles en la 2ª parte del FC Botosani–FC Voluntari\n🇩🇰 Kolding IF o empate\n🇩🇰 Hobro marca\n🇷🇴 Farul Constanta o empate\n🇮🇹 Trento o empate\n🇩🇪 Dayot Upamecano (Bayern) comete 1+ faltas\n🇪🇸 FC Andorra hace más córners\n🇫🇷 Estac Troyes ve más de 1,5 tarjetas\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -9427,16 +9410,15 @@
     ],
     "cuotas": [
       1.8,
-      1.53,
+      1.5,
       1.44,
       1.57,
       1.4,
-      1.3,
+      1.4,
       1.4,
       1.57
     ],
-    "solo_redes": true,
-    "cuotas_revisadas": "2026-11-20T13:37"
+    "solo_redes": true
   },
   {
     "id": "2026-11-20-loca-th-1500-escudos",
@@ -10686,15 +10668,15 @@
   {
     "id": "2026-11-23-pick-seguro",
     "fecha": "2026-11-23T10:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇷🇴 Sepsi OSK Sfantu Gheorghe – Rapid · 19:00\n\n🍀 Sepsi OSK Sfantu Gheorghe marca @1,44\n🧠 Stake 3/10\n\n👨‍💻 El Rapid va 3º y el Sepsi OSK Sfantu Gheorghe 11º en la liga.\n👨‍💻 Los partidos del Sepsi OSK Sfantu Gheorghe llevan 3,0 goles de media (últimos 8).\n👨‍💻 Los partidos del Rapid llevan 3,2 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con otro pick 🍀\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇪🇸 AD Ceuta FC – Almeria · 20:30\n\n🍀 AD Ceuta FC marca @1,36\n🧠 Stake 3/10\n\n👨‍💻 El Almeria va 1º y el AD Ceuta FC 22º en la liga.\n👨‍💻 Los partidos del AD Ceuta FC llevan 2,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Almeria llevan 2,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1565309|Total - Home|Over 0.5"
+      "1570029|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.44
+      1.36
     ]
   },
   {
@@ -10733,20 +10715,6 @@
       1.4
     ],
     "solo_redes": true
-  },
-  {
-    "id": "2026-11-23-pick-seguro-2",
-    "fecha": "2026-11-23T18:00",
-    "texto": "Vamos con otro pick 🍀\n\n🇪🇸 AD Ceuta FC – Almeria · 20:30\n\n🍀 AD Ceuta FC marca @1,36\n🧠 Stake 3/10\n\n👨‍💻 El Almeria va 1º y el AD Ceuta FC 22º en la liga.\n👨‍💻 Los partidos del AD Ceuta FC llevan 2,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Almeria llevan 2,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570029|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.36
-    ]
   },
   {
     "id": "2026-11-23-semana-europa",
@@ -11479,14 +11447,14 @@
   {
     "id": "2026-11-26-lista-europa-1",
     "fecha": "2026-11-26T12:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 James Hill (Bournemouth): 1+ tiros\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇪🇸 Celta Vigo marca\n🇱🇹 Kauno Žalgiris marca\n🇨🇿 Plzen marca\n🇬🇪 FC Iberia 1999 marca\n🇳🇱 Peer Koopmeiners (AZ): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇳🇱 Dave Kwakman (AZ): 1+ tiros\n\n👉 ¡Coge los que más te gusten! ✅",
+    "texto": "🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 James Hill (Bournemouth): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇪🇸 Celta Vigo marca\n🇱🇹 Kauno Žalgiris marca\n🇨🇿 Plzen marca\n🇬🇪 FC Iberia 1999 marca\n🇳🇱 Peer Koopmeiners (AZ): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇳🇱 Dave Kwakman (AZ): 1+ tiros\n\n👉 ¡Coge los que más te gusten! ✅",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1636244|Away Player Shots|James Hill - 1",
-      "1636431|Home Player Shots|Richard Sedlacek - 1",
       "1636334|Away Player Shots|Artur Serobyan - 2",
+      "1636431|Home Player Shots|Richard Sedlacek - 1",
       "1636421|Total - Home|Over 0.5",
       "1636244|Total - Home|Over 0.5",
       "1636438|Total - Home|Over 0.5",
@@ -11498,8 +11466,8 @@
     ],
     "cuotas": [
       1.53,
-      1.53,
       1.91,
+      1.53,
       1.4,
       1.4,
       1.4,
@@ -11545,7 +11513,7 @@
   {
     "id": "2026-11-26-lista-europa-2",
     "fecha": "2026-11-26T15:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Brann marca 2 o más\n🇳🇴 Más de 1,5 goles en la 2ª parte del Brann–Aarhus\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 James Hill (Bournemouth): 1+ tiros\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇪🇸 Celta Vigo marca\n🇱🇹 Kauno Žalgiris marca\n🇬🇷 OFI marca\n🇭🇺 Ferencvarosi TC marca 2 o más\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🏆⚽ COPAS EUROPEAS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Brann marca 2 o más\n🇳🇴 Más de 1,5 goles en la 2ª parte del Brann–Aarhus\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 James Hill (Bournemouth): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇪🇸 Celta Vigo marca\n🇱🇹 Kauno Žalgiris marca\n🇬🇷 OFI marca\n🇭🇺 Ferencvarosi TC marca 2 o más\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -11553,8 +11521,8 @@
       "1636393|Total - Home|Over 1.5",
       "1636393|Goals Over/Under - Second Half|Over 1.5",
       "1636244|Away Player Shots|James Hill - 1",
-      "1636431|Home Player Shots|Richard Sedlacek - 1",
       "1636334|Away Player Shots|Artur Serobyan - 2",
+      "1636431|Home Player Shots|Richard Sedlacek - 1",
       "1636421|Total - Home|Over 0.5",
       "1636244|Total - Home|Over 0.5",
       "1636438|Total - Home|Over 0.5",
@@ -11565,8 +11533,8 @@
       1.67,
       1.73,
       1.53,
-      1.53,
       1.91,
+      1.53,
       1.4,
       1.4,
       1.4,

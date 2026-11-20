@@ -1,7 +1,7 @@
 # Getafe – Atletico Madrid
 **LaLiga** · Regular Season - 13 · 22/11/2026 21:00 (hora España) · Coliseum Alfonso Pérez
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 08:27_

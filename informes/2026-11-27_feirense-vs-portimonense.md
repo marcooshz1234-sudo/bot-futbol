@@ -1,7 +1,7 @@
 # Feirense – Portimonense
 **Segunda Liga** · Regular Season - 12 · 27/11/2026 19:00 (hora España) · Estadio Marcolino de Castro
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

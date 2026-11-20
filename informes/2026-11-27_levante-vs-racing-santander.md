@@ -1,7 +1,7 @@
 # Levante – Racing Santander
 **LaLiga** · Regular Season - 14 · 27/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 02:15_

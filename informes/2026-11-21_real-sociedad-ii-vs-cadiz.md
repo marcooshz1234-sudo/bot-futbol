@@ -1,7 +1,7 @@
 # Real Sociedad II – Cadiz
 **Segunda División** · Regular Season - 15 · 21/11/2026 16:15 (hora España) · Estadio Ciudad Deportiva Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 08:25_

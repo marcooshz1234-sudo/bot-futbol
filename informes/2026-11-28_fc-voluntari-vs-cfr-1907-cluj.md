@@ -1,0 +1,139 @@
+# FC Voluntari – CFR 1907 Cluj
+**Liga I** · Regular Season - 17 · 28/11/2026 13:30 (hora España) · Stadionul Anghel Iordanescu
+
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
+
+## Cuotas Bet365
+_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+
+## Estadísticas de equipo
+| | FC Voluntari (total) | FC Voluntari en casa | CFR 1907 Cluj (total) | CFR 1907 Cluj fuera |
+|---|---|---|---|---|
+| Partidos analizados | 15 | 8 | 19 | 10 |
+| Forma (últimos 5) | DDDDD | DDDVE | EEEDV | EDVDV |
+| Balance | 2V 2E 11D | 2V 2E 4D | 6V 5E 8D | 2V 2E 6D |
+| Goles a favor / partido | 1,00 | 1,12 | 1,32 | 1,00 |
+| Goles en contra / partido | 2,20 | 1,50 | 1,53 | 1,80 |
+| Goles a favor 1ª parte | 0,53 | 0,62 | 0,68 | 0,40 |
+| Goles a favor 2ª parte | 0,47 | 0,50 | 0,63 | 0,60 |
+| Goles en contra 1ª parte | 1,07 | 0,75 | 0,63 | 0,90 |
+| Goles en contra 2ª parte | 1,13 | 0,75 | 0,89 | 0,90 |
+| Más de 1,5 goles | 87% | 75% | 74% | 80% |
+| Más de 2,5 goles | 80% | 62% | 63% | 60% |
+| Más de 3,5 goles | 40% | 25% | 42% | 30% |
+| Ambos marcan | 67% | 62% | 53% | 70% |
+| Portería a cero | 13% | 25% | 32% | 10% |
+| Se queda sin marcar | 20% | 12% | 26% | 20% |
+| xG a favor | 1,40 | 1,73 | 1,52 | 1,29 |
+| xG en contra | 2,44 | 2,17 | 1,79 | 2,03 |
+| Tiros / partido | 14,0 | 16,5 | 12,9 | 13,4 |
+| Tiros a puerta / partido | 4,4 | 5,2 | 4,1 | 4,0 |
+| Tiros recibidos | 17,9 | 15,6 | 16,9 | 18,0 |
+| Tiros a puerta recibidos | 5,6 | 3,6 | 5,6 | 6,2 |
+| Posesión media % | 45 | 47 | 45 | 47 |
+| Córners a favor | 4,1 | 5,5 | 4,0 | 3,3 |
+| Córners en contra | 4,9 | 4,2 | 5,1 | 6,6 |
+| Córners a favor 1ª parte | 1,5 | 1,6 | 1,6 | 1,1 |
+| Córners a favor 2ª parte | 2,7 | 3,9 | 2,1 | 2,2 |
+| Córners totales del partido | 9,1 | 9,8 | 9,1 | 9,9 |
+| Córners totales 1ª parte | 4,3 | 3,6 | 3,8 | 3,9 |
+| Córners totales 2ª parte | 4,8 | 6,1 | 4,5 | 5,0 |
+| Más de 8,5 córners | 47% | 50% | 53% | 67% |
+| Más de 9,5 córners | 40% | 50% | 41% | 44% |
+| Más de 10,5 córners | 33% | 50% | 29% | 33% |
+| Faltas cometidas | 9,1 | 9,8 | 11,4 | 11,3 |
+| Faltas recibidas | 12,3 | 12,1 | 10,5 | 9,9 |
+| Amarillas propias | 2,1 | 1,9 | 1,6 | 1,7 |
+| Amarillas del rival | 1,5 | 1,4 | 1,4 | 1,2 |
+| Rojas / partido | 0,13 | 0,00 | 0,00 | 0,00 |
+
+## Goles y tarjetas por tramos de minutos
+| Tramo | Goles FC Voluntari | Recibe FC Voluntari | Tarjetas FC Voluntari | Goles CFR 1907 Cluj | Recibe CFR 1907 Cluj | Tarjetas CFR 1907 Cluj |
+|---|---|---|---|---|---|---|
+| 1-15' | 4 | 4 | 5 | 4 | 3 | 2 |
+| 16-30' | 3 | 7 | 1 | 5 | 4 | 3 |
+| 31-45' | 1 | 5 | 2 | 4 | 5 | 8 |
+| 46-60' | 3 | 5 | 7 | 5 | 6 | 4 |
+| 61-75' | 2 | 4 | 4 | 1 | 6 | 4 |
+| 76-90' | 2 | 8 | 14 | 6 | 5 | 10 |
+
+_Totales de la temporada (el tramo 76-90 incluye el descuento)._
+
+## Bajas y dudas
+_Sin bajas comunicadas por ahora._
+
+## Enfrentamientos directos recientes
+- 2026-07-27 · Liga I: CFR 1907 Cluj 5-0 FC Voluntari
+- 2024-01-29 · Liga I: CFR 1907 Cluj 4-1 FC Voluntari
+- 2023-09-02 · Liga I: FC Voluntari 1-4 CFR 1907 Cluj
+- 2023-01-30 · Liga I: FC Voluntari 0-1 CFR 1907 Cluj
+- 2022-08-31 · Liga I: CFR 1907 Cluj 4-0 FC Voluntari
+- 2022-04-24 · Liga I: FC Voluntari 0-1 CFR 1907 Cluj
+
+## Últimos partidos de FC Voluntari
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-11-08 | Liga I | Sepsi OSK Sfantu Gheorghe 2-1 FC Voluntari | fuera | 7-7 | 18 (7) - 16 (7) | 3-2 |
+| 2026-11-02 | Liga I | FC Voluntari 1-2 Farul Constanta | casa | 11-2 | 28 (8) - 4 (2) | 1-0 |
+| 2026-10-24 | Liga I | Csikszereda 2-1 FC Voluntari | fuera | 3-3 | 16 (4) - 19 (7) | 3-1 |
+| 2026-10-19 | Liga I | FC Voluntari 1-2 FCSB | casa | 4-2 | 14 (2) - 18 (7) | 2-2 |
+| 2026-10-09 | Liga I | Corvinul Hunedoara 3-2 FC Voluntari | fuera | 2-4 | 15 (3) - 18 (7) | 3-2 |
+| 2026-09-20 | Liga I | FC Voluntari 0-2 Universitatea Cluj | casa | 8-4 | 15 (6) - 17 (6) | 2-0 |
+
+## Jugadores de FC Voluntari
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alexandru Șuteu | D | 15 | 1260 | 0 | 1 | 12 | 0,8 | 2 | 0,1 | 16 | 17 | 1,1 | 1 | 0 |
+| Metod Jurhar | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| Remus Guțea | M | 15 | 1253 | 6 | 0 | 33 | 2,2 | 17 | 1,1 | 6 | 34 | 2,3 | 1 | 0 |
+| Denis Haruț | D | 14 | 1156 | 0 | 0 | 2 | 0,1 | 2 | 0,1 | 7 | 7 | 0,5 | 1 | 0 |
+| Ion Gheorghe | M | 15 | 1094 | 0 | 4 | 11 | 0,7 | 8 | 0,5 | 18 | 10 | 0,7 | 5 | 1 |
+| Radu Crişan | D | 12 | 1051 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 13 | 3 | 0,2 | 5 | 0 |
+| Mihael Onișa | D | 14 | 944 | 0 | 1 | 5 | 0,4 | 2 | 0,1 | 7 | 4 | 0,3 | 2 | 0 |
+| Daniel Dumbrăvanu | D | 14 | 941 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 10 | 2 | 0,1 | 2 | 0 |
+| Matko Babić | F | 13 | 938 | 1 | 0 | 18 | 1,4 | 8 | 0,6 | 10 | 18 | 1,4 | 2 | 0 |
+| Marvin Schieb | D | 14 | 887 | 1 | 0 | 6 | 0,4 | 2 | 0,1 | 1 | 7 | 0,5 | 0 | 0 |
+| Mihai Roman II | F | 13 | 781 | 2 | 0 | 15 | 1,2 | 5 | 0,4 | 11 | 13 | 1,0 | 2 | 1 |
+| Lovro Cvek | M | 9 | 721 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 9 | 5 | 0,6 | 0 | 0 |
+| Matej Mamić | D | 13 | 621 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 1 | 2 | 0,2 | 0 | 0 |
+| Cristian Merloi | F | 13 | 521 | 1 | 2 | 14 | 1,1 | 9 | 0,7 | 7 | 23 | 1,8 | 1 | 0 |
+| Sava Arangel Čestić | D | 5 | 388 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 1 | 6 | 1,2 | 0 | 0 |
+| Godfried Roemeratoe | M | 4 | 304 | 1 | 1 | 6 | 1,5 | 1 | 0,2 | 5 | 1 | 0,2 | 0 | 0 |
+| Adrian Chică-Roșă | F | 12 | 264 | 0 | 0 | 12 | 1,0 | 5 | 0,4 | 3 | 7 | 0,6 | 3 | 0 |
+| David Kiki | D | 4 | 105 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
+| Eduard Chioveanu | G | 1 | 94 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Florian Haită | M | 5 | 88 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
+
+## Últimos partidos de CFR 1907 Cluj
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-11-08 | Liga I | CFR 1907 Cluj 0-0 Universitatea Craiova | casa | 2-4 | 5 (1) - 20 (6) | –-– |
+| 2026-10-31 | Liga I | Petrolul Ploiesti 1-1 CFR 1907 Cluj | fuera | 3-8 | 12 (6) - 26 (6) | 3-4 |
+| 2026-10-25 | Liga I | CFR 1907 Cluj 2-2 Dinamo Bucuresti | casa | 4-9 | 10 (4) - 24 (7) | 4-4 |
+| 2026-10-18 | Liga I | Uta Arad 1-0 CFR 1907 Cluj | fuera | 3-8 | 6 (1) - 24 (8) | 2-2 |
+| 2026-10-12 | Liga I | Arges Pitesti 0-1 CFR 1907 Cluj | fuera | 2-7 | 10 (3) - 20 (2) | 2-1 |
+| 2026-10-08 | Liga I | CFR 1907 Cluj 1-3 Universitatea Cluj | casa | 4-4 | 12 (3) - 15 (6) | 1-4 |
+
+## Jugadores de CFR 1907 Cluj
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Octavian Vâlceanu | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Christopher Braun | M | 14 | 1248 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 22 | 11 | 0,8 | 1 | 0 |
+| Stefan Dražić | F | 14 | 1195 | 7 | 1 | 20 | 1,4 | 10 | 0,7 | 12 | 15 | 1,1 | 1 | 0 |
+| Andrei Cordea | F | 14 | 1154 | 6 | 2 | 22 | 1,6 | 11 | 0,8 | 10 | 14 | 1,0 | 2 | 0 |
+| Ovidiu Perianu | M | 12 | 1043 | 1 | 0 | 7 | 0,6 | 3 | 0,2 | 18 | 12 | 1,0 | 1 | 0 |
+| Mário Camora | M | 13 | 911 | 1 | 1 | 2 | 0,2 | 1 | 0,1 | 7 | 9 | 0,7 | 2 | 0 |
+| Lorenzo Biliboc | F | 13 | 839 | 2 | 0 | 13 | 1,0 | 9 | 0,7 | 8 | 14 | 1,1 | 0 | 0 |
+| Renato Pantalon | D | 10 | 738 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 5 | 0,5 | 1 | 0 |
+| Simão Rocha | M | 9 | 632 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 5 | 7 | 0,8 | 0 | 0 |
+| Iva Gelashvili | D | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 1 | 0,1 | 1 | 0 |
+| Andres Șfaiț | M | 14 | 561 | 0 | 2 | 7 | 0,5 | 3 | 0,2 | 6 | 2 | 0,1 | 4 | 0 |
+| Aly Abeid | D | 6 | 540 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 1 | 0 |
+| Viktor Kun | M | 7 | 505 | 0 | 0 | 2 | 0,3 | 2 | 0,3 | 12 | 4 | 0,6 | 1 | 0 |
+| Cristian Ignat | D | 5 | 450 | 1 | 0 | 7 | 1,4 | 3 | 0,6 | 2 | 3 | 0,6 | 1 | 0 |
+| Anton Krešić | D | 5 | 418 | 1 | 0 | 3 | 0,6 | 1 | 0,2 | 9 | 1 | 0,2 | 1 | 0 |
+| Ervin Omić | M | 7 | 392 | 0 | 1 | 6 | 0,9 | 4 | 0,6 | 9 | 3 | 0,4 | 1 | 0 |
+| Adi Nalić | M | 8 | 379 | 0 | 1 | 5 | 0,6 | 3 | 0,4 | 7 | 5 | 0,6 | 1 | 0 |
+| Meriton Korenica | M | 5 | 373 | 0 | 1 | 9 | 1,8 | 3 | 0,6 | 8 | 5 | 1,0 | 0 | 0 |
+| Karlo Muhar | M | 3 | 226 | 0 | 0 | 4 | 1,3 | 2 | 0,7 | 2 | 2 | 0,7 | 0 | 0 |
+| Amin Ziblim | M | 5 | 225 | 0 | 0 | 3 | 0,6 | 2 | 0,4 | 5 | 4 | 0,8 | 1 | 0 |

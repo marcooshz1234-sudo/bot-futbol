@@ -1,7 +1,7 @@
 # Arsenal – Borussia Dortmund
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Emirates Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 08:29._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 14:20._
 
 ## Cuotas Bet365
 _Actualizadas: 19/11 14:24_
