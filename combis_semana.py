@@ -461,6 +461,8 @@ DESTACADAS = (   # (clave, título, explicación, filtro de pata, nº de patas, 
     ("todas", "🌍 Lo mejor de todas las ligas", "La mejor pata de cada partido, mezclando ligas", lambda x: True, 7, "nota"),
     ("segura", "🛡️ La segura", "Las 3 patas más probables de todo", lambda x: True, 3, "p"),
     ("ganan", "🏆 Quién gana", "El favorito de cada partido gana, de @1,20 a @1,80", lambda x: x["sel"].split("|")[1] == "Match Winner", 6, "p"),
+    ("ganan-larga", "🏆 Quién gana · larga", "Todos los favoritos claros, hasta 12 (puede llevar los de la de arriba)",
+     lambda x: x["sel"].split("|")[1] == "Match Winner", 12, "p"),
     ("top", "🏟️ Partidos top", "Solo partidos de los grandes", _es_top, 4, "nota"),
     ("faltas", "🦵 Faltas", "Jugadores que cometen faltas siempre que son titulares", lambda x: JUG(x) and "falta" in x["texto"], 5, "nota"),
     ("remates", "🔫 Remates y paradas", "Rematadores fijos y porteros con trabajo",
@@ -504,7 +506,8 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
     for clave, titulo, expl, filtro, n, orden in tipos:
         mejores = []
         for p, cands in pool:
-            cs = [x for x in cands if filtro(x) and x["sel"] not in usadas and (clave == "ganan") == bool(x.get("ganador"))]
+            gan = clave.startswith("ganan")
+            cs = [x for x in cands if filtro(x) and (gan or x["sel"] not in usadas) and gan == bool(x.get("ganador"))]
             if cs:
                 mejores.append(max(cs, key=lambda x: x[orden]))
         patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])

@@ -125,7 +125,7 @@ class LigasYDestacadas(unittest.TestCase):
             ds = CS.generar_destacadas("2026-11-21", "2026-11-23", partidos=ps, h=h)
         self.assertTrue(ds and ds[0]["clave"] == "todas")
         self.assertGreater(len({x["liga"] for x in ds[0]["patas"]}), 1)          # mezcla ligas
-        sels = [x["sel"] for c in ds for x in c["patas"]]
+        sels = [x["sel"] for c in ds if c["clave"] != "ganan-larga" for x in c["patas"]]
         self.assertEqual(len(sels), len(set(sels)))                                # ningún pick en dos destacadas
         for c in ds:
             ids = [x["sel"].split("|")[0] for x in c["patas"]]
