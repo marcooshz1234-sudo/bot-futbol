@@ -39,6 +39,28 @@
  },
  "top": [
   {
+   "local": "Treviso",
+   "visitante": "Pergolettese",
+   "inicio": "2026-11-21T14:30",
+   "texto": "Ambos marcan en Treviso–Pergolettese",
+   "cuota": 2.2,
+   "justa": 2.19,
+   "ev": 0.005,
+   "fuente": "las otras casas",
+   "edad_h": 6.4
+  },
+  {
+   "local": "Treviso",
+   "visitante": "Pergolettese",
+   "inicio": "2026-11-21T14:30",
+   "texto": "Pergolettese marca",
+   "cuota": 1.8,
+   "justa": 1.79,
+   "ev": 0.005,
+   "fuente": "las otras casas",
+   "edad_h": 6.4
+  },
+  {
    "local": "FC Porto",
    "visitante": "Paredes",
    "inicio": "2026-11-20T21:45",
@@ -47,22 +69,11 @@
    "justa": 1.67,
    "ev": 0.0,
    "fuente": "las otras casas",
-   "edad_h": 6.1
-  },
-  {
-   "local": "FC Andorra",
-   "visitante": "Leganes",
-   "inicio": "2026-11-20T20:30",
-   "texto": "Gana el FC Andorra",
-   "cuota": 1.95,
-   "justa": 1.97,
-   "ev": -0.008,
-   "fuente": "Pinnacle",
-   "edad_h": 6.1
+   "edad_h": 6.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-20T08:16",
+  "hora": "2026-11-20T08:36",
   "revisadas": 0,
   "mejor": null
  },
