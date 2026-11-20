@@ -66,7 +66,8 @@ def linea_del_dia(ahora):
     return f"📅 {DIAS_SEMANA[ahora.weekday()]} de {nombres} 🌍"
 
 
-NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro-3", "Otro pick"), ("pick-seguro-4", "Otro pick"), ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
+NOMBRES = [("pick-seguro-2", "Segundo pick"), ("pick-seguro-3", "Otro pick"), ("pick-seguro-4", "Otro pick"),
+           *[(f"pick-seguro-{n}", "Otro pick") for n in range(5, 11)], ("pick-seguro", "Pick del día"), ("escalera", "Reto escalera"),
            ("combi-tres", "Combi del día"), ("combi-partido", "Combi de partido"), ("combi-loca", "La loca"),
            ("combi-multi", "Combi larga")]
 

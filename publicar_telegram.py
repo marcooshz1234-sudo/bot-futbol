@@ -42,6 +42,21 @@ LIMITE_TEXTO = 4096
 LIMITE_PIE_FOTO = 1024
 
 
+
+def combi_no_pedida(p):
+    """20/11 (Marcos: «no quiero combis en Telegram a no ser que te la pida o la suba yo»): en Telegram solo picks
+    sueltos. Pasan: lo que sube él (boletos, origen marcos/asistente), lo que pidió (pedida=True), verdes, balances,
+    listas y la escalera. Desde el 21/11 (lo de hoy ya publicado no se toca)."""
+    import re as _re
+    if str(p.get("fecha", "")) < "2026-11-21" or p.get("pedida") or p.get("origen") in ("marcos", "asistente"):
+        return None
+    if _re.search(r"verde|rojo|balance|boleto|lista|escalera|resumen|acertad", p.get("id", "")):
+        return None
+    patas = {s_ for s_ in p.get("sel") or [] if s_}
+    if len(patas) > 1 or len(p.get("cuotas") or []) > 1:
+        return "combi: en Telegram solo picks sueltos (Marcos 20/11)"
+    return None
+
 def api(token, metodo, datos=None, archivo=None, campo="photo", tipo="image/jpeg"):
     url = f"https://api.telegram.org/bot{token}/{metodo}"
     if archivo:
@@ -300,8 +315,8 @@ def main(objetivo=None):
         from bot import cuota_baja
         from bot import mercado_prohibido
         from comprobar_post import bloquea   # 12/11: TODAS las reglas en un sitio (comprobar_post.py)
-        motivo = partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"])) or mercado_prohibido(p) \
-            or bloquea(p, control.get("textos", {}).get(p["id"]))
+        motivo = combi_no_pedida(p) or partido_caido(p) or cuota_baja(p, control.get("textos", {}).get(p["id"])) \
+            or mercado_prohibido(p) or bloquea(p, control.get("textos", {}).get(p["id"]))
         if motivo:   # 07/11: combi con un partido aplazado o ya jugado: no se publica (12/11: ni con cuota < 1,35)
             p["caducada"] = motivo
             cambios += 1

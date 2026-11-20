@@ -7,7 +7,7 @@ class SoloEnTelegram(unittest.TestCase):
     def test_publicar_respeta_solo_en(self):
         src = (Path(__file__).resolve().parent.parent / "publicar_telegram.py").read_text(encoding="utf-8")
         i = src.index('if p.get("solo_en") and "telegram" not in p["solo_en"]')
-        self.assertLess(i, src.index("motivo = partido_caido(p)"))
+        self.assertLess(i, src.index("motivo = combi_no_pedida(p)"))
 
 
 if __name__ == "__main__":

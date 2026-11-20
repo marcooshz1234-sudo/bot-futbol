@@ -1471,10 +1471,14 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
     # picks más en Telegram (12:30 y 16:30), solo si los hay buenos de verdad (sin plan B)
     if dia >= SEGURO_DESDE:
         hechos = [x[0] for x in (res.get("seguro"), res.get("seguro2")) if x]
-        for n, hora_x in zip((3, 4), EXTRA_PICKS["horas"]):
+        for n, hora_x in zip(range(3, 3 + len(EXTRA_PICKS["horas"])), EXTRA_PICKS["horas"]):
             ya_x = [tuple(s_.split("|")) for s_, n_ in ya_publicadas(dia, excluir=f"{dia}-pick-seguro-{n}", red="telegram").items()
                     if n_ and s_.split("|")[0].isdigit()]
             r = pick_extra(sin_choques(pools_pick), dia, hora_x, hechos, ya=ya_x, usados=list(usos))
+            # con la escalera: 1 + los hechos; si aún no se llega al mínimo, vale uno algo más flojo
+            for nivel in (1, 2):
+                if not r and 1 + len(hechos) < EXTRA_PICKS["minimo_tg"]:
+                    r = pick_extra(sin_choques(pools_pick), dia, hora_x, hechos, ya=ya_x, usados=list(usos), relajado=nivel)
             res[f"seguro{n}"] = r
             if r:
                 hechos.append(r[0])
@@ -1866,10 +1870,15 @@ def minimo_diario():
         return True
 
 
-EXTRA_PICKS = {"horas": ((12, 30), (16, 30)), "castigo_tipo_hoy": 0.05}
+# 20/11 (Marcos: «en Telegram quiero al día entre 7 y 11 picks»): hasta 8 picks más (pick-seguro-3 … -10). Con el del
+# día, el de las 18:00 y la escalera, máx. 11. Si con el filtro de siempre no se llega a 7, se rellena con uno algo más
+# flojo: nivel 1 sin «fijísimo» y 5 puntos menos de probabilidad; nivel 2, 10 puntos menos, de @1,40 a @1,80 y sin
+# mala cuota (prob × cuota ≥ 0,95).
+EXTRA_PICKS = {"horas": ((12, 30), (13, 30), (15, 0), (16, 30), (17, 15), (19, 0), (20, 0), (21, 0)), "castigo_tipo_hoy": 0.05,
+               "minimo_tg": 7, "relajo_prob": 0.05}
 
 
-def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=()):
+def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=(), relajado=0):
     """16/11: (pick, hora) de un pick más para Telegram si hay una cuota buena de verdad: misma cuota y probabilidad
     que el pick del día (sin plan B), que no choque con lo de hoy y mejor de un mercado que no haya salido hoy."""
     from plantillas import choca
@@ -1883,6 +1892,8 @@ def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=()):
         lo, hi = float(AJ.valor("pick_cuota_min", c)), float(AJ.valor("pick_cuota_max", c))
     except Exception:
         pass
+    if relajado >= 2:   # 20/11: para llegar a 7 picks: de @1,40 a @1,80 (máximo de pata)
+        lo, hi = min(lo, 1.40), 1.80
     hora = datetime.fromisoformat(dia).replace(tzinfo=MADRID, hour=hh, minute=mm)
     clave = lambda p: (int(p["partido_id"]), p["mercado"], p["opcion"])
     ya = {(int(a), b, c_) for a, b, c_ in ya} | {clave(p) for p in hechos}
@@ -1890,7 +1901,9 @@ def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=()):
     cand = [p for pool in pools for p in pool
             if lo <= p["cuota"] <= hi and clave(p) not in ya and tipo_pick(p) not in SEGURO["no_tipos"]
             and (not _excluido(p) or (_solo_pick(p) and p["prob_aprendida"] >= SEGURO["prob_solo_pick"]))
-            and p["prob_aprendida"] >= SEGURO["prob_min"] and not suelto_no(p) and not p.get("estimada") and fijisimo(p)
+            and p["prob_aprendida"] >= SEGURO["prob_min"] - EXTRA_PICKS["relajo_prob"] * int(relajado)
+            and (relajado < 2 or p["prob_aprendida"] * p["cuota"] >= 0.95)
+            and not suelto_no(p) and not p.get("estimada") and (relajado or fijisimo(p))
             and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)
             and not choca(f"{p['partido_id']}|{p['mercado']}|{p['opcion']}", otras)]
     if not cand:

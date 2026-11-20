@@ -660,7 +660,7 @@ def posts_del_dia(dia, d):
             ps, hs = cd["seguro2"]
             posts.append(("pick-seguro-2", hs, [ps], texto_seguro(ps, dia)))
             apuntar([ps])
-        for n in (3, 4):   # 16/11 (Marcos): más picks si hay cuotas buenas (12:30 y 16:30)
+        for n in range(3, 11):   # 16/11 (Marcos): más picks si hay cuotas buenas; 20/11: hasta el -10 (7-11 al día)
             if cd.get(f"seguro{n}"):
                 ps, hs = cd[f"seguro{n}"]
                 posts.append((f"pick-seguro-{n}", hs, [ps], texto_seguro(ps, dia)))
@@ -882,8 +882,10 @@ def posts_del_dia(dia, d):
                     p["fecha"])
         combis = sorted([p for p in salida if re.match(r"(estrella|combi-partido|combi-tres|combi-loca)", p["id"][11:])],
                         key=peso)
-        en_tg = {f"{dia}-escalera", f"{dia}-pick-seguro", f"{dia}-pick-seguro-2", f"{dia}-pick-seguro-3",
-                 f"{dia}-pick-seguro-4"} | ({combis[0]["id"]} if combis else set())
+        # 20/11 (Marcos: «no quiero combis en Telegram a no ser que te la pida o la suba yo»): solo picks sueltos
+        en_tg = {f"{dia}-escalera", f"{dia}-pick-seguro"} | {f"{dia}-pick-seguro-{n}" for n in range(2, 11)}
+        if dia < "2026-11-21":
+            en_tg |= ({combis[0]["id"]} if combis else set())
         for p in salida:
             if p["id"] not in en_tg:
                 p["solo_redes"] = True
