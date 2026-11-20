@@ -2483,13 +2483,6 @@
  ],
  "AllSportsPicks ⚽🏀🎾": [
   {
-   "id": "-1002463340479/87297",
-   "fecha": "2026-11-18T20:01",
-   "texto": "🔘 STAKE 3⚽️\n🏆 SERIE A🇧🇷\n🍀CLUBE DO REMO GANA EL PARTIDO\n🔞 Apuestacon responsabilidad\nREGÍSTRATE, JUEGA 30€ Y GANA 200€ DESDE AQUÍ",
-   "foto": false,
-   "visto": "2026-11-18T20:04"
-  },
-  {
    "id": "-1002463340479/87298",
    "fecha": "2026-11-18T20:11",
    "texto": "✔️✔️✔️✔️✔️✔️✔️✔️✔️",
@@ -3973,6 +3966,14 @@
    "texto": "✅⚽️🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸RETO ESPECIAL CREAR APUESTA DE 30€ A 10.000€ ACERTADO",
    "foto": false,
    "visto": "2026-11-20T12:49"
+  },
+  {
+   "id": "-1002463340479/87499",
+   "fecha": "2026-11-20T13:02",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-20T13:02",
+   "foto_ruta": "datos/tipsters_fotos/AllSportsPicks__87499.jpg"
   }
  ],
  "TipsAnalistasNBA🏀": [
@@ -4764,6 +4765,21 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-20T12:28"
+  },
+  {
+   "id": "-1001061550504/36051",
+   "fecha": "2026-11-20T13:02",
+   "texto": "Vamos a la Euroliga 🇪🇺\n▪️Partizan Handicap -2.5\n\nLa atmósfera de Belgrado es de las más potentes de todo el continente y este es el motivo por lo que la localía del Partizan es clave cada temporada \n\nCuentan con la mejor defensa de la competición limitando a sus rivales en un máximo de 80 puntos en casa. Esto es clave ante un Besiktas que no brilla en este registro defensivo y que ocupan la primera plaza en cuanto a tiros libres permitidos por partido \n\nUn dato muy característico que vemos bastante en baloncesto:\nCuando un equipo de menor nivel gana de forma sorprendente a un contendiente y el siguiente partido lo juegan fuera de casa, tienen una mayor relajación por ese hito conseguido. Y aquí Besiktas viene de ganar al Madrid contra todo pronóstico para luego (hoy) jugar en Belgrado",
+   "foto": false,
+   "visto": "2026-11-20T13:02"
+  },
+  {
+   "id": "-1001061550504/36050",
+   "fecha": "2026-11-20T13:02",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-20T13:02",
+   "foto_ruta": "datos/tipsters_fotos/TipsAnalistasNBA__36050.jpg"
   }
  ],
  "TRADER FOOTBALL || FREE👨🏼‍💻": [
