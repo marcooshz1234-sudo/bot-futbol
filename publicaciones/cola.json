@@ -9152,5 +9152,39 @@
     ],
     "texto": "Combi de la noche 🔥\n\n⚽ Athletic Club marca 2 o más vs Espanyol · 21:00\n⚽ Oporto marca 3 o más vs Paredes · 21:45\n\n📈 Cuota @2,26\n\n🧠 Por qué:\n👨‍💻 El Athletic, 7º, recibe al Espanyol (15º), que solo ha ganado 1 de sus últimos 5\n👨‍💻 El Oporto juega la Copa contra un equipo de categoría inferior: bet365 da @1,50 a que el Paredes no marque\n\n🧠 Stake 2/10",
     "nota": "Claude · 11:37 Marcos: «prepara las cosas que más te gusten»"
+  },
+  {
+    "id": "2026-11-20-pick-claude-2",
+    "fecha": "2026-11-20T13:30",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "requiere_ok": true,
+    "sel": [
+      "1565308|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.67
+    ],
+    "texto": "Pick de mediodía 👇\n\n🇷🇴 Botosani – Voluntari · hoy 17:30\n\n🍀 Gana el Botosani @1,67\n\n👨‍💻 El Voluntari no ha ganado ninguno de sus últimos 5 partidos\n👨‍💻 Y fuera de casa lleva 6 sin ganar\n👨‍💻 El Botosani es claro favorito en casa\n\n🧠 Stake 2/10",
+    "nota": "Claude · 11:41 Marcos: «muy poco veo… deberías poder sacar contenido bueno»"
+  },
+  {
+    "id": "2026-11-20-pick-claude-3",
+    "fecha": "2026-11-20T16:00",
+    "origen": "claude",
+    "solo_en": [
+      "telegram"
+    ],
+    "requiere_ok": true,
+    "sel": [
+      "1565306|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.57
+    ],
+    "texto": "Otro pick para la tarde ⚽\n\n🇷🇴 Farul Constanta – U Cluj · hoy 19:30\n\n🍀 Ambos marcan @1,57\n\n👨‍💻 Los partidos del Farul llevan 3,5 goles de media (últimos 8)\n👨‍💻 Los del U Cluj, 3,0 goles de media\n👨‍💻 Dos equipos que marcan y encajan con facilidad\n\n🧠 Stake 2/10",
+    "nota": "Claude · 11:41 Marcos: «muy poco veo… deberías poder sacar contenido bueno»"
   }
 ]
