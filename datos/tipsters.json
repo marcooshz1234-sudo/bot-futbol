@@ -3660,21 +3660,17 @@
   "tipster": "INSIDER",
   "fuente": "-1001299202120/45045",
   "dia": "2026-11-20",
-  "local": "FC Porto",
-  "visitante": "Paredes",
-  "partido_id": 1647583,
-  "texto": "Empate en FC Porto–Paredes",
-  "mercado": "Match Winner",
-  "opcion": "Draw",
+  "local": "Athletic Club",
+  "visitante": "Espanyol",
+  "partido_id": 1570454,
+  "texto": "Athletic Club o empate",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
   "cuota": 1.14,
   "stake": null,
   "argumento": [],
   "auto": true,
-  "analisis": {
-   "liga": "Taça de Portugal",
-   "cuota_bet365": 11.0,
-   "prob_cuota": 0.877
-  }
+  "corregido": "20/11 Claude: era «Ath Bilbao o empate», no empate en el Porto"
  },
  {
   "tipster": "ApuestasCobrich - Canal Gratuito",
@@ -3683,17 +3679,14 @@
   "local": "Bayern München",
   "visitante": "1. FC Köln",
   "partido_id": 1575221,
-  "texto": "Más de 2,5 goles en Bayern München–1. FC Köln",
-  "mercado": "Goals Over/Under",
+  "texto": "Bayern München marca 3 o más",
+  "mercado": "Total - Home",
   "opcion": "Over 2.5",
   "cuota": 1.61,
   "stake": null,
   "argumento": [],
   "auto": true,
-  "analisis": {
-   "liga": "Bundesliga",
-   "cuota_bet365": 1.14,
-   "prob_cuota": 0.621
-  }
+  "en_directo": true,
+  "corregido": "20/11 Claude: goles del Bayern (equipo local), en directo al descanso, no del partido"
  }
 ]

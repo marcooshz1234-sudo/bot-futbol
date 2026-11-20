@@ -42,7 +42,16 @@ def fichas(nombre):
         out.add(norm(nombre_es(nombre)).replace(" w", ""))
     except Exception:
         pass
+    out |= ALIAS.get(norm(nombre), set())
     return {x for x in out if len(x) >= 4}
+
+
+# 20/11: como lo escriben las casas en los boletos («Ath Bilbao» en el de INSIDER no se reconocía y la pata se
+# le pegó al Porto como «empate»)
+ALIAS = {"athletic club": {"ath bilbao", "athletic bilbao", "bilbao"}, "atletico madrid": {"atl madrid", "atl. madrid"},
+         "bayern munchen": {"bayern de munich", "bayern munich", "bayern"}, "1. fc koln": {"colonia", "koln", "cologne"},
+         "paris saint germain": {"paris sg", "psg"}, "borussia dortmund": {"dortmund"}, "manchester united": {"man utd"},
+         "manchester city": {"man city"}, "tottenham": {"spurs"}, "internazionale": {"inter milan"}}
 
 
 def partidos(dias):
@@ -92,6 +101,14 @@ def mercado(l, lado_l, lado_v):
     lado = "Home" if lado_l and not lado_v else "Away" if lado_v and not lado_l else None
     if re.search(r"remate|tiros?\b|corner|saque de esquina|tarjeta|falta|parada|fuera de juego|asistencia|handicap|h[aá]ndicap", l):
         return None   # 15/11: «Inglaterra - Más de 3.5 / Remates a puerta» (boleto) NO es «más de 3,5 goles»
+    # 20/11: «Bayern de Múnich - más de 2.5 / Equipo local - Goles» (boleto de Cobrich) son goles DEL EQUIPO, no del partido
+    eq = re.search(r"equipo (local|visitante)\s*-?\s*goles", l)
+    if eq or (lado and re.search(r"\banota\b", l)):
+        m = re.search(r"(?:mas de|over|\+)\s*(\d)[.,]5", l)
+        if not m:
+            return None
+        lado_eq = ("Home" if eq.group(1) == "local" else "Away") if eq else lado
+        return f"Total - {lado_eq}", f"Over {m.group(1)}.5"
     if re.search(r"ambos marcan|btts|ambos equipos marcan", l):
         return "Both Teams Score", "Yes"
     if re.search(r"[a-z]{3,}\s*[+-]\s*\d(?:[.,]\d+)?(?!\s*goles?)\b", l) and not re.search(r"(?:mas de|over)\s*\d", l):
@@ -112,6 +129,8 @@ def mercado(l, lado_l, lado_v):
     if lado and re.search(r"\bgana\b|victoria|\bwin\b|\bganador\b|resultado final|resultado del partido|\b1x2\b|"
                           r"tiempo reglamentario", l) and "clasifica" not in l:   # 15/11: boletos («Francia / Resultado final»)
         return "Match Winner", lado
+    if re.search(r"o empate|doble oportunidad|\b1x\b|\bx2\b", l):
+        return None   # 20/11: «Doble oportunidad X o empate» sin reconocer X NO es «empate»
     if re.search(r"^\W*empate\W*$|\bempate\b(?! no)", l) and not lado:
         return "Match Winner", "Draw"
     return None
