@@ -9683,12 +9683,13 @@
       "1608376|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      1.57,
-      1.5,
+      1.53,
+      1.44,
       1.28,
       1.44
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-20T22:40"
   },
   {
     "id": "2026-11-21-ganadores-laliga",
