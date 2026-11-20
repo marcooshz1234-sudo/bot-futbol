@@ -9466,8 +9466,8 @@
     ],
     "cuotas": [
       1.4,
-      1.44,
-      1.62,
+      1.57,
+      1.67,
       1.7
     ],
     "solo_redes": true,
@@ -9487,7 +9487,8 @@
     "cuota_bet365": 6.04,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T14:34"
   },
   {
     "id": "2026-11-20-loca-th-1630-escudos",
