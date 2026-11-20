@@ -178,19 +178,36 @@ async function cargar(){
 
 // 20/11 (Marcos): combis de un partido por pata (~@1,50) con el dato de cada jugador (combis_semana.py). Él monta
 // las que quiera en bet365 y le manda la captura a Claude/al bot, que la sube a Threads, X y Telegram (1 al día).
-function vCombis(){
-  const C = D.combis_semana || {}, L = C.combis || [];
-  if(!L.length) return `<div class="empty">Aún no hay combis preparadas. Se actualizan solas cada 30 minutos con los partidos de los próximos 3 días.</div>`;
+function combiAbierta(k, def){ let m={}; try{m=JSON.parse(guardado("combis_abiertas")||"{}")}catch(e){} return k in m ? m[k] : def }
+function plegarCombi(k, def){ let m={}; try{m=JSON.parse(guardado("combis_abiertas")||"{}")}catch(e){} m[k] = !combiAbierta(k, def); guardar("combis_abiertas", JSON.stringify(m)); pintar() }
+function vCombis(){   // 20/11: se pueden plegar (toca la cabecera) y hay combis por liga y por equipo
+  const C = D.combis_semana || {}, L = C.combis || [], E = C.equipos || [];
+  if(!L.length && !E.length) return `<div class="empty">Aún no hay combis preparadas. Se actualizan solas cada 30 minutos con los partidos de los próximos 3 días.</div>`;
   const dias = ["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"], coma = x => Number(x).toFixed(2).replace(".",",");
   const BAND = {"LaLiga":"🇪🇸","Segunda División":"🇪🇸","Premier League":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Serie A":"🇮🇹","Bundesliga":"🇩🇪","Ligue 1":"🇫🇷","Eredivisie":"🇳🇱","Primeira Liga":"🇵🇹"};
-  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana"}</b><div class="mut" style="margin-top:4px">Un partido por pata, ~@1,50. Se actualiza sola y quita lo que ya se ha subido. Monta las que quieras en bet365 (las cuotas bajan con los días) y manda la captura: se sube a Threads, X y Telegram (1 al día).</div></div>`;
-  L.forEach((c,i) => {
-    h += `<div class="card" style="margin-bottom:10px"><div style="display:flex;justify-content:space-between"><b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b><b style="color:var(--ok)">@${coma(c.cuota)}</b></div>`;
-    c.patas.forEach((x,k) => { const f = new Date(x.hora);   // 20/11: el partido arriba, grande, con escudos, para saber rápido de cuál es
-      const esc2 = x.logo_l ? `<img src="${esc(x.logo_l)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain"><img src="${esc(x.logo_v)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain">` : "⚽";
-      const txt = x.equipo && !String(x.texto).includes(x.equipo) ? String(x.texto).replace(/^([^:]+):/, `$1 (${x.equipo}):`) : x.texto;
-      h += `<div style="margin-top:10px;padding-top:10px;${k?"border-top:1px solid var(--line)":""}"><div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">${esc2}<b style="color:#3b82f6;font-size:16px">${esc(x.partido)}</b><span class="mut" style="font-size:12px">· ${dias[f.getDay()]} ${x.hora.slice(11,16)}</span></div><div style="margin-top:4px"><b>${esc(txt)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
-    h += `</div>`; });
+  const img = u => u ? `<img src="${esc(u)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain">` : "";
+  const cuando = h => { const f = new Date(h); return `${dias[f.getDay()]} ${h.slice(11,16)}` };
+  const [modo, tabs] = subTabs("combis", [["liga","🏆 Por liga"],["equipo","🛡️ Por equipo"]], "liga");
+  const rango = C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana";
+  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${rango}</b><div class="mut" style="margin-top:4px">${modo==="liga" ? "Un partido por pata, ~@1,50." : "Cada equipo con cosas solo suyas en su partido (Crear apuesta; bet365 puede dar algo menos de cuota)."} Se actualiza sola y quita lo que ya se ha subido. Toca una combi para plegarla. Monta las que quieras en bet365 y manda la captura: se sube a Threads, X y Telegram (1 al día).</div></div>` + tabs;
+  const pata = (x, k, conPartido) => {
+    const txt = x.equipo && !String(x.texto).includes(x.equipo) ? String(x.texto).replace(/^([^:]+):/, `$1 (${x.equipo}):`) : x.texto;
+    const cab = conPartido ? `<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">${x.logo_l ? img(x.logo_l)+img(x.logo_v) : "⚽"}<b style="color:#3b82f6;font-size:16px">${esc(x.partido)}</b><span class="mut" style="font-size:12px">· ${cuando(x.hora)}</span></div>` : "";
+    return `<div style="margin-top:10px;padding-top:10px;${k?"border-top:1px solid var(--line)":""}">${cab}<div style="margin-top:${conPartido?4:0}px"><b>${esc(txt)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`;
+  };
+  const tarjeta = (clave, def, cabeza, cuota, cuerpo) => { const ab = combiAbierta(clave, def);
+    return `<div class="card" style="margin-bottom:10px"><div data-k="${esc(clave)}" onclick="plegarCombi(this.dataset.k,${def})" style="display:flex;justify-content:space-between;align-items:center;gap:8px;cursor:pointer">${cabeza}<span style="display:flex;align-items:center;gap:8px;white-space:nowrap"><b style="color:var(--ok)">@${coma(cuota)}</b><span class="mut">${ab?"▲":"▼"}</span></span></div>${ab?cuerpo:""}</div>` };
+  if(modo === "liga"){
+    if(!L.length) return h + `<div class="empty">Ahora no hay combis por liga.</div>`;
+    L.forEach(c => { h += tarjeta("liga:"+c.liga, true, `<b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join("")) });
+    return h;
+  }
+  if(!E.length) return h + `<div class="empty">Ahora no hay combis por equipo.</div>`;
+  const ligas = [...new Set(E.map(c => c.liga))];
+  ligas.forEach(lg => { h += `<div class="mut" style="margin:14px 2px 6px;font-weight:700">${BAND[lg]||"⚽"} ${esc(lg)}</div>`;
+    E.filter(c => c.liga === lg).forEach(c => {
+      h += tarjeta("eq:"+c.equipo+"|"+c.hora, false, `<div style="display:flex;align-items:center;gap:8px;min-width:0">${img(c.logo)}<div style="min-width:0"><b style="color:#3b82f6;font-size:16px">${esc(c.equipo)}</b><div class="mut" style="font-size:12px">${esc(c.partido)} · ${cuando(c.hora)} · ${c.patas.length} patas</div></div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,false)).join(""));
+    }); });
   return h;
 }
 function nav(){ $("#nav").innerHTML = PESTANAS.map(([k,i,t]) => `<button class="${k===tab?"on":""}" onclick="ir('${k}')"><span>${i}</span>${t}</button>`).join("") }

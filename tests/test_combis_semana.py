@@ -69,3 +69,23 @@ class SinRepetir(unittest.TestCase):
     def test_poisson(self):
         self.assertAlmostEqual(CS.poisson_al_menos(2.0, 1), 0.8647, places=3)
         self.assertEqual(CS.poisson_al_menos(0, 1), 0.0)
+
+
+class CombisDeEquipo(unittest.TestCase):
+    """20/11 (Marcos: «un apartado de combis de cada equipo»): solo cosas de ese equipo, sin repetir tipo."""
+    def test_solo_cosas_del_equipo(self):
+        p = partido(1, "15:00")
+        p["cuotas_bet365"].update({"Total - Home": [["Over 0.5", "1.45"]], "Both Teams Score": [["Yes", "1.50"]],
+                                   "Double Chance": [["Home/Draw", "1.40"]]})
+        h = {"pepe uno": [{"nombre": "Pepe Uno", "min": 90, "faltas_c": 1, "eq": "10"}] * 6}
+        teams = {"home": {"id": 10, "name": "L1", "logo": "l.png"}, "away": {"id": 20, "name": "V1"}}
+        with mock.patch.object(CS, "equipos_partido", lambda pid: {"10", "20"}), mock.patch.object(CS, "_teams", lambda pid: teams):
+            es = CS.generar_equipos("2026-11-21", "2026-11-23", partidos=[p], h=h)
+        self.assertEqual([c["equipo"] for c in es], ["L1"])
+        c = es[0]
+        textos = [x["texto"] for x in c["patas"]]
+        self.assertNotIn("Ambos marcan", textos)                           # del partido, no del equipo
+        self.assertIn("Pepe Uno: comete 1+ falta", textos)
+        self.assertLessEqual(sum(t in ("Gana L1", "L1 o empate") for t in textos), 1)   # un solo resultado
+        self.assertEqual(c["logo"], "l.png")
+        self.assertIn("COMBI DEL L1", CS.texto_post(c))
