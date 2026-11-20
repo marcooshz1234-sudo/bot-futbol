@@ -9932,14 +9932,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16302",
-   "fecha": "2026-11-12T05:34",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-12T05:38",
-   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16302.jpg"
-  },
-  {
    "id": "-1001393609245/16305",
    "fecha": "2026-11-12T05:36",
    "texto": "",
@@ -11413,6 +11405,14 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-20T04:41"
+  },
+  {
+   "id": "-1001393609245/16505",
+   "fecha": "2026-11-20T17:49",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-20T17:51",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16505.jpg"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
