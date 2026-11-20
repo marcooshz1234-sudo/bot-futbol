@@ -202,12 +202,28 @@ def main(ahora=None):
         if not canal:
             return 1
     lista = candidatos(publicaciones(RAIZ), estado, control, ahora)
+    canal = estado["canal"]
+    import x_extra
+    if x_extra.activo(control):   # 20/11: directo de la escalera (un post al día, min. 60–80)
+        hoy = ahora.strftime("%Y-%m-%d")
+        vivo = (leer(RAIZ / "docs" / "datos.json", {}) or {}).get("publicados_hoy") or []
+        t = x_extra.directo(vivo, hoy, estado.get("directo") or {})
+        if t:
+            r = pedir(token, mutacion(entrada(canal, [t], None, ahora + timedelta(minutes=1))))
+            if ((r.get("data") or {}).get("createPost") or {}).get("post"):
+                estado.setdefault("directo", {})[hoy] = ahora.strftime("%Y-%m-%dT%H:%M")
+                print("x_buffer: directo de la escalera subido")
+            escribir(DATOS / ESTADO_F, estado)
     if not lista:
         return 0
-    canal = estado["canal"]
+    esc = leer(DATOS / "escalera.json", {}) or {}
     from redes import foto_threads
     for p in lista:
         textos = a_x(texto_threads(p))
+        if x_extra.activo(control):   # 20/11: «para mañana», escalera presumida, enlace en el 2.º post
+            textos = x_extra.transformar(p, textos, ahora, esc)
+            if peso(textos[0]) > 280:
+                textos = a_x(textos[0]) + textos[1:]
         r = pedir(token, mutacion(entrada(canal, textos, foto_threads(p), ahora + timedelta(minutes=1))))
         res = (r.get("data") or {}).get("createPost") or {}
         if res.get("post"):
