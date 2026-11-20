@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-20",
- "generado": "2026-11-20T21:21+01:00",
+ "generado": "2026-11-20T21:51+01:00",
  "rango": [
   "2026-11-20",
   "2026-11-23"
@@ -24,14 +24,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/544.png"
     },
     {
-     "sel": "1570460|Player Fouls Committed|Sergio Camello - 1",
-     "texto": "Sergio Camello: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,79 por 90' (2-2-2-1-1-1)",
-     "nota": 1.0688,
-     "equipo": "Rayo Vallecano",
-     "lado": "L",
+     "sel": "1570460|Total - Away|Over 0.5",
+     "texto": "Valencia marca",
+     "cuota": 1.5,
+     "p": 0.816,
+     "dato": "marca 1,8 por partido y el rival encaja 1,4",
+     "nota": 0.9272206633642828,
      "partido": "Rayo Vallecano–Valencia",
      "hora": "2026-11-21T16:15",
      "logo_l": "https://media.api-sports.io/football/teams/728.png",
@@ -104,8 +102,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/797.png"
     }
    ],
-   "cuota": 19.11,
-   "media": 0.9508006371439633
+   "cuota": 17.69,
+   "media": 0.9305750176245752
   },
   {
    "liga": "Premier League",
@@ -513,38 +511,6 @@
   }
  ],
  "equipos": [
-  {
-   "equipo": "Rayo Vallecano",
-   "liga": "LaLiga",
-   "partido": "Rayo Vallecano–Valencia",
-   "hora": "2026-11-21T16:15",
-   "logo": "https://media.api-sports.io/football/teams/728.png",
-   "patas": [
-    {
-     "sel": "1570460|Player Fouls Committed|Sergio Camello - 1",
-     "texto": "Sergio Camello: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,79 por 90' (2-2-2-1-1-1)",
-     "nota": 1.0688,
-     "equipo": "Rayo Vallecano",
-     "lado": "L",
-     "partido": "Rayo Vallecano–Valencia",
-     "hora": "2026-11-21T16:15"
-    },
-    {
-     "sel": "1570460|ShotOnTarget 1x2|Home",
-     "texto": "Rayo Vallecano remata más a puerta",
-     "cuota": 1.44,
-     "p": 0.695,
-     "dato": "5,3 remates a puerta de Rayo Vallecano contra 3,3 del rival",
-     "nota": 0.6837564986376717,
-     "partido": "Rayo Vallecano–Valencia",
-     "hora": "2026-11-21T16:15"
-    }
-   ],
-   "cuota": 2.33
-  },
   {
    "equipo": "Valencia",
    "liga": "LaLiga",
@@ -1636,21 +1602,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/867.png"
     },
     {
-     "sel": "1570460|Player Fouls Committed|Sergio Camello - 1",
-     "texto": "Sergio Camello: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,79 por 90' (2-2-2-1-1-1)",
-     "nota": 1.0688,
-     "equipo": "Rayo Vallecano",
-     "lado": "L",
-     "partido": "Rayo Vallecano–Valencia",
-     "hora": "2026-11-21T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/728.png",
-     "logo_v": "https://media.api-sports.io/football/teams/532.png"
-    },
-    {
      "sel": "1550204|Away Corners Over/Under|Over 2.5",
      "texto": "Torino: más de 2,5 córners",
      "cuota": 1.57,
@@ -1694,6 +1645,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
+     "sel": "1557472|Player Fouls Committed|Matt Crooks - 2",
+     "texto": "Matt Crooks: comete 2+ faltas",
+     "cuota": 1.53,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 3,08 por 90' (2-3-2-3)",
+     "nota": 1.0472,
+     "equipo": "Hull City",
+     "lado": "L",
+     "partido": "Hull City–Brighton",
+     "hora": "2026-11-22T15:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/64.png",
+     "logo_v": "https://media.api-sports.io/football/teams/51.png"
+    },
+    {
      "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
      "texto": "Jannik Schuster: comete 1+ falta",
      "cuota": 1.67,
@@ -1709,7 +1675,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     }
    ],
-   "cuota": 24.64,
+   "cuota": 23.28,
    "prob": 0.411
   },
   {
@@ -1872,21 +1838,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
-     "sel": "1557472|Player Fouls Committed|Matt Crooks - 2",
-     "texto": "Matt Crooks: comete 2+ faltas",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 3,08 por 90' (2-3-2-3)",
-     "nota": 1.0472,
-     "equipo": "Hull City",
-     "lado": "L",
-     "partido": "Hull City–Brighton",
-     "hora": "2026-11-22T15:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/64.png",
-     "logo_v": "https://media.api-sports.io/football/teams/51.png"
-    },
-    {
      "sel": "1552821|Away Player Shots|Mahdi Camara - 1",
      "texto": "Mahdi Camara: 1+ remate",
      "cuota": 1.44,
@@ -1930,10 +1881,25 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/727.png",
      "logo_v": "https://media.api-sports.io/football/teams/535.png"
+    },
+    {
+     "sel": "1570456|Home Player Shots|Martin Satriano - 2",
+     "texto": "Martin Satriano: 2+ remates",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,46 por 90' (2-2-3-1-3-3)",
+     "nota": 0.934,
+     "equipo": "Getafe",
+     "lado": "L",
+     "partido": "Getafe–Atletico Madrid",
+     "hora": "2026-11-22T21:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/546.png",
+     "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 7.08,
-   "prob": 0.528
+   "cuota": 7.73,
+   "prob": 0.48
   },
   {
    "clave": "dia-2026-11-23",
@@ -2270,6 +2236,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/185.png"
     },
     {
+     "sel": "1557476|Home Player Shots|Jan Paul van Hecke - 1",
+     "texto": "Jan Paul van Hecke: 1+ remate",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-1-2-1-0)",
+     "nota": 0.9240000000000002,
+     "equipo": "Tottenham",
+     "lado": "L",
+     "partido": "Tottenham–Ipswich",
+     "hora": "2026-11-21T16:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/47.png",
+     "logo_v": "https://media.api-sports.io/football/teams/57.png"
+    },
+    {
      "sel": "1557475|Player Fouls Committed|Ezri Konsa - 1",
      "texto": "Ezri Konsa: comete 1+ falta",
      "cuota": 1.67,
@@ -2296,24 +2277,9 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/40.png",
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
-    },
-    {
-     "sel": "1570456|Home Player Shots|Martin Satriano - 2",
-     "texto": "Martin Satriano: 2+ remates",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,46 por 90' (2-2-3-1-3-3)",
-     "nota": 0.934,
-     "equipo": "Getafe",
-     "lado": "L",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/546.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 6.52,
+   "cuota": 6.33,
    "prob": 0.449
   },
   {
@@ -2423,21 +2389,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/185.png"
     },
     {
-     "sel": "1557476|Home Player Shots|Jan Paul van Hecke - 1",
-     "texto": "Jan Paul van Hecke: 1+ remate",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-1-2-1-0)",
-     "nota": 0.9240000000000002,
-     "equipo": "Tottenham",
-     "lado": "L",
-     "partido": "Tottenham–Ipswich",
-     "hora": "2026-11-21T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/47.png",
-     "logo_v": "https://media.api-sports.io/football/teams/57.png"
-    },
-    {
      "sel": "1552826|Home Player Shots|Dario Essugo - 1",
      "texto": "Dario Essugo: 1+ remate",
      "cuota": 1.4,
@@ -2468,6 +2419,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
+     "sel": "1557472|Home Player Shots|Mohamed Belloumi - 2",
+     "texto": "Mohamed Belloumi: 2+ remates",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,40 por 90' (2-1-2-2-4-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Hull City",
+     "lado": "L",
+     "partido": "Hull City–Brighton",
+     "hora": "2026-11-22T15:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/64.png",
+     "logo_v": "https://media.api-sports.io/football/teams/51.png"
+    },
+    {
      "sel": "1575224|Away Player Shots|Phillip Tietz - 3",
      "texto": "Phillip Tietz: 3+ remates",
      "cuota": 1.62,
@@ -2483,7 +2449,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/164.png"
     }
    ],
-   "cuota": 8.65,
+   "cuota": 8.01,
    "prob": 0.36
   },
   {

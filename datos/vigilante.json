@@ -110,9 +110,14 @@
   "directo-2026-11-20-pick-claude-5": "2026-11-20T19:30",
   "repe-2026-11-20-1552827|Corners 1x2|Home": "2026-11-20T19:30",
   "repe-2026-11-20-1570454|Away Corners Over/Under|Over 2.5": "2026-11-20T19:30",
-  "prensa-1552229-c749a12e": "2026-11-20T20:07"
+  "prensa-1552229-c749a12e": "2026-11-20T20:07",
+  "redes-2026-11-20-verde-auto-2026-11-20-pick-tip-1446-instagram": "2026-11-20T21:52"
  },
  "abiertos": [
+  {
+   "clave": "redes-2026-11-20-verde-auto-2026-11-20-pick-tip-1446-instagram",
+   "t": "⏰ No ha salido en instagram (21:32): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "clave": "repe-2026-11-20-1575221|Win Both Halves|Home",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2330-escudos, loca-th-0030-x100)"
@@ -146,16 +151,12 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
-  },
-  {
    "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
@@ -168,6 +169,10 @@
   {
    "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
@@ -186,20 +191,25 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
-  },
-  {
    "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
+  },
+  {
+   "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Away Corners Over/Under|Over 2.5",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-0400-x50, loca-th-0800-lista-corners, loca-th-1900-lista-corners)"
   }
  ],
- "revisado": "2026-11-20T21:42",
+ "revisado": "2026-11-20T21:52",
  "historial": [
+  {
+   "hora": "2026-11-20T21:52",
+   "t": "⏰ No ha salido en instagram (21:32): PARA DENTRO SEÑORES ✅🤑",
+   "k": "redes-2026-11-20-verde-auto-2026-11-20-pick-tip-1446-instagram"
+  },
   {
    "hora": "2026-11-20T20:07",
    "t": "📰 NEC Nijmegen–PSV Eindhoven: «El Nápoles fija el precio de Kevin De Bruyne tras una oferta a la baja del PSV Eindhoven para enero» (Goal.com) · tenemos 2 post(s) de este partido: loca-th-noche-2130-ganaambos, loca-th-noche-2330-escudos",
@@ -494,11 +504,6 @@
    "hora": "2026-11-19T20:54",
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@2,00) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)",
    "k": "regla-cuota_alta-2026-11-20-estrella-1575221"
-  },
-  {
-   "hora": "2026-11-19T19:17",
-   "t": "📉 Arsenal (fem.)–Lyon (fem.) Away/Yes: la cuota ha pasado de 2.75 a 3.20 (+16%) desde que se hizo «⚽🏆 GANA Y AMBOS MARCAN ⚽🏆» (19:30). Suele haber una noticia detrás",
-   "k": "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638286|Results/Both Teams Score|Away/Yes"
   }
  ]
 }
