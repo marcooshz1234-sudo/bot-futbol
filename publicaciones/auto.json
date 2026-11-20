@@ -11905,10 +11905,9 @@
   {
     "id": "2026-11-21-loca-th-noche-2330-escudos",
     "fecha": "2026-11-20T23:30",
-    "texto": "⚡ COMBI NEC NIJMEGEN – PSV EINDHOVEN ⚡\n\n⭐ NEC Nijmegen vs PSV Eindhoven · 16:30\n\n✅ 🎳 Ahmetcan Kaplan: 1+ tiros\n✅ 🎳 Emre Mor: 2+ tiros\n✅ 🎳 Willum Willumsson: 2+ tiros\n✅ ☄️ PSV Eindhoven marca 2+\n✅ 🎳 Mitchel Bakker: 2+ tiros\n✅ ⏱️ +1,5 goles en la 2ª parte del NEC Nijmegen–PSV Eindhoven\n✅ ⚡ Gana el PSV Eindhoven\n✅ ☄️ Guus Til marca\n\n🎯 CUOTA 10,71 aprox. 💎 10€ → 107€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚡ COMBI NEC NIJMEGEN – PSV EINDHOVEN ⚡\n\n⭐ NEC Nijmegen vs PSV Eindhoven · 16:30\n\n✅ 🎳 Ahmetcan Kaplan: 1+ tiros\n✅ 🎳 Willum Willumsson: 2+ tiros\n✅ ☄️ PSV Eindhoven marca 2+\n✅ 🎳 Mitchel Bakker: 2+ tiros\n✅ ⏱️ +1,5 goles en la 2ª parte del NEC Nijmegen–PSV Eindhoven\n✅ ⚡ Gana el PSV Eindhoven\n✅ ☄️ Guus Til marca\n\n🎯 CUOTA 8,30 aprox. 💎 10€ → 107€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1552229|Home Player Shots|Ahmetcan Kaplan - 1",
-      "1552229|Home Player Shots|Emre Mor - 2",
       "1552229|Home Player Shots|Willum Willumsson - 2",
       "1552229|Total - Away|Over 1.5",
       "1552229|Home Player Shots|Mitchel Bakker - 2",
@@ -11918,7 +11917,6 @@
     ],
     "cuotas": [
       1.57,
-      1.4,
       1.4,
       1.4,
       1.44,
@@ -11943,6 +11941,7 @@
       "liga": "Eredivisie"
     },
     "cuota_total": 10.71,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "revisado_bajas": "2026-11-20T20:12"
   }
 ]
