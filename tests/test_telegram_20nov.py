@@ -41,3 +41,22 @@ class EscudosPorSel(unittest.TestCase):
         import tarjeta_tg as T
         src = open(T.RAIZ / "tarjeta_tg.py", encoding="utf-8").read()
         self.assertIn("fila sin escudo/bandera", src)
+
+
+class PartidosRaros(unittest.TestCase):
+    def test_ligas(self):
+        import combis_dia as D
+        self.assertTrue(D.liga_conocida(140))      # La Liga
+        self.assertTrue(D.liga_conocida(141))      # Segunda
+        self.assertFalse(D.liga_conocida(283))     # Liga I (Rumanía)
+
+    def test_bloquea_pick_raro_en_telegram(self):
+        from unittest import mock
+        p = {"id": "2026-11-20-pick-claude-2", "solo_en": ["telegram"], "origen": "claude", "sel": ["999|Match Winner|Home"]}
+        with mock.patch("combis_dia.liga_conocida", return_value=False), \
+             mock.patch.object(C.json, "loads", return_value={"partido": {"league": {"id": 283, "name": "Liga I"},
+                                                                          "teams": {"home": {"name": "A"}, "away": {"name": "B"}}}}), \
+             mock.patch("pathlib.Path.read_text", return_value="{}"):
+            self.assertIn("partido raro", C.partido_raro(p) or "")
+        th = dict(p, id="2026-11-20-loca-th-1200-x50", solo_en=["threads"])
+        self.assertIsNone(C.partido_raro(th))      # Threads puede llevar lo que sea

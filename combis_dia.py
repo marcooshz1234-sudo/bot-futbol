@@ -14,6 +14,7 @@ Datos: los dos equipos con al menos 5 partidos; en copa contra uno de categoría
 mercados de nuestro equipo (con sus datos). Probabilidad = la aprendida (aprender.py).
 """
 import itertools
+import json
 import math
 from collections import Counter
 from datetime import datetime, timedelta
@@ -208,6 +209,26 @@ BUENAS = {2, 3, 848,                    # Champions, Europa League, Conference
           525}                          # Champions femenina («como mucho»)
 MIN_BUENOS = 4                          # con 4 partidos buenos o más, el día es «bueno»
 _DIAS_BUENOS = {}
+
+
+# 20/11 (Marcos: «no pongas partidos tan raros», por Botosani–Voluntari y Farul–U Cluj): en Telegram, lo nuestro solo de
+# competiciones que conoce la gente; lo demás (Rumanía, Dinamarca, Serie C…) solo si juega un grande.
+CONOCIDAS = BUENAS | {141, 40, 88, 94, 143, 45, 48, 137, 81, 66, 96, 556}   # Segunda, Championship, Eredivisie, Primeira, copas
+
+
+def liga_conocida(liga_id, fid=None):
+    """True si la competición es conocida o juega un grande. Sin datos para saberlo, no se frena (True)."""
+    if liga_id in CONOCIDAS:
+        return True
+    pa = None
+    if fid:
+        try:
+            pa = json.loads((DATOS / "proximos" / f"{fid}.json").read_text(encoding="utf-8"))["partido"]
+        except Exception:
+            pa = None
+    if pa:
+        return pa["league"]["id"] in CONOCIDAS or partido_bueno(pa)
+    return liga_id is None
 
 
 def partido_bueno(pa):
@@ -1932,6 +1953,7 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
                 and tipo_pick(p) not in SEGURO["no_tipos"] and (tipo_pick(p) != tipo_otro or not distinto)
                 and (not _excluido(p) or (_solo_pick(p) and p["prob_aprendida"] >= max(prob_min, SEGURO["prob_solo_pick"])))
                 and p["prob_aprendida"] >= prob_min and not suelto_no(p) and not p.get("estimada") and (fijisimo(p) or not fijo)
+                and liga_conocida(p.get("liga_id"), p.get("partido_id"))   # 20/11: nada de partidos raros en Telegram
                 and datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID) >= hora + timedelta(hours=1)]
     cand = buscar(lo, hi, SEGURO["prob_min"])
     if not cand and dia >= SEGURO_DESDE and minimo_diario():

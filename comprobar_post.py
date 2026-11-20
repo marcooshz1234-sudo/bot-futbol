@@ -16,6 +16,7 @@ Reglas (de Marcos):
   7. texto: nunca «seguro/asegurado/sin riesgo»; sin restos de plantilla (None, nan, {…})
   8. combi de un partido: la cuota no se multiplica (tiene que llevar la de «Crear apuesta» que da Marcos)
 """
+import json
 import re
 from collections import Counter
 import sys
@@ -357,9 +358,28 @@ def verde_sin_escudos(p):
     return "verde sin foto con los escudos/banderas del partido"
 
 
+def partido_raro(p):
+    """20/11 (Marcos: «no pongas partidos tan raros»): picks y combis nuestras de Telegram (no copias de canales ni
+    escalera de días atrás) solo de competiciones conocidas o con un grande."""
+    pid = p.get("id", "")
+    if "telegram" not in redes_de(p) or es_copia(p) or p.get("origen") == "tipster" or not re.search(r"-(pick|combi)", pid):
+        return None
+    from combis_dia import liga_conocida
+    for s in p.get("sel") or []:
+        fid = str(s).split("|")[0]
+        if fid.isdigit():
+            try:
+                pa = json.loads((RAIZ / "datos" / "proximos" / f"{fid}.json").read_text(encoding="utf-8"))["partido"]
+            except Exception:
+                continue
+            if not liga_conocida(pa["league"]["id"], fid):
+                return f"partido raro para Telegram: {pa['teams']['home']['name']}–{pa['teams']['away']['name']} ({pa['league']['name']})"
+    return None
+
+
 def bloquea(p, texto=None):
     """Motivo para NO publicar (las reglas graves), o None. Lo usan publicar_telegram y redes."""
-    v = verde_sin_escudos(p)
+    v = verde_sin_escudos(p) or partido_raro(p)
     if v:
         return v
     try:

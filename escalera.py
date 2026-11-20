@@ -32,6 +32,7 @@ NIVELES = [{"valor": True, "rango": (CUOTA_MIN, CUOTA_MAX), "jugador": False},
            {"valor": False, "rango": (1.70, 2.60), "jugador": False},
            {"valor": False, "rango": (1.70, 2.60), "jugador": True}]
 # ligas que no se juegan un día (29/10: accidente de tren en España, Marcos: «de los partidos de España no subas nada hoy»)
+from combis_dia import liga_conocida   # noqa: E402
 PAUSADAS = {"2026-10-29": (140, 141, 143)}
 
 
@@ -159,7 +160,8 @@ def elegir_(dia, compartir, nivel=NIVELES[0], fecha=None):
     picks = [p for p in dia["picks"] if not es_sin_empate(p["mercado"], p["opcion"])
              and (nivel["jugador"] or p.get("tipo") != "jugador")   # los de jugador se corrigen aparte
              and (p["partido_id"], p["mercado"], p["opcion"]) not in en_segura
-             and p.get("fecha", "9") > limite and p.get("liga_id") not in pausadas]
+             and p.get("fecha", "9") > limite and p.get("liga_id") not in pausadas
+             and liga_conocida(p.get("liga_id"), p.get("partido_id"))]   # 20/11 (Marcos): nada de partidos raros
     # 26/10: con lo aprendido (aprender.py), solo patas cuya probabilidad real supera la de la cuota
     if nivel["valor"]:
         picks = [p for p in picks if p.get("prob_aprendida") is None or p["prob_aprendida"] >= 1 / p["cuota"] - 0.03]
