@@ -982,13 +982,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47140",
-   "fecha": "2026-11-16T01:16",
-   "texto": "¡Tenemos los Nicks ganando descanso!",
-   "foto": false,
-   "visto": "2026-11-16T01:26"
-  },
-  {
    "id": "-1001468963672/47139",
    "fecha": "2026-11-16T01:16",
    "texto": "",
@@ -2479,6 +2472,14 @@
    "foto": true,
    "visto": "2026-11-20T17:24",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47372.jpg"
+  },
+  {
+   "id": "-1001468963672/47374",
+   "fecha": "2026-11-20T18:03",
+   "texto": "🔓 PLAZAS ABIERTAS\n[41/45] Todas mis apuestas del fin de semana 🔥\n\nhttps://tipsterperez.tipsterpage.com/Ms6eawfl",
+   "foto": true,
+   "visto": "2026-11-20T18:21",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47374.jpg"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -17846,6 +17847,13 @@
    "texto": "Si en partidos a 10 rondas hicieron 20 180s entre los dos hace dos dias, ¿hoy en un partido a 16 rondas cuantos 180s tendremos?\n\n18 o mas me parece un jodido regalo 🎁",
    "foto": false,
    "visto": "2026-11-20T17:03"
+  },
+  {
+   "id": "-1001233274610/196238",
+   "fecha": "2026-11-20T18:04",
+   "texto": "Recordad, tenéis Stakazo 10 gratis ☝️",
+   "foto": false,
+   "visto": "2026-11-20T18:21"
   }
  ]
 }
