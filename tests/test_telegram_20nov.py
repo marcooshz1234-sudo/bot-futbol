@@ -26,3 +26,18 @@ class Telegram20Nov(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class EscudosPorSel(unittest.TestCase):
+    def test_rellena_escudo_del_partido(self):
+        import tarjeta_tg as T
+        fs = T.filas(["Athletic Club marca 2 o más vs Espanyol"], None)
+        self.assertFalse(fs[0].get("escudo"))
+        con = T.escudos_por_sel(fs, ["1570454|Total - Home|Over 1.5"])
+        if (T.RAIZ / "datos" / "proximos" / "1570454.json").exists():
+            self.assertTrue(con[0]["escudo"].endswith(".png"))
+
+    def test_sin_escudo_no_hay_foto(self):
+        import tarjeta_tg as T
+        src = open(T.RAIZ / "tarjeta_tg.py", encoding="utf-8").read()
+        self.assertIn("fila sin escudo/bandera", src)

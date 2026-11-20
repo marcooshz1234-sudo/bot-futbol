@@ -9,6 +9,7 @@ la foto; el argumento largo se queda para Threads).
 No toca: combis de un partido (su tarjeta de escudos), verdes, rojos, escalera y pick del día (imagen de marca),
 balances y resúmenes.
 """
+import json
 import re
 
 from bot import RAIZ
@@ -229,6 +230,45 @@ def patas_sin_cuota(texto):
     return out
 
 
+def _ruta_escudo(url, nombre):
+    """Ruta local del escudo (lo que pinta la tarjeta); se descarga si falta."""
+    if not url:
+        return ""
+    from pathlib import Path
+    ruta = MEDIA / "escudos" / Path(url).name
+    if not ruta.exists():
+        try:
+            from imagenes import escudo
+            escudo(url, nombre)
+        except Exception:
+            pass
+    return str(ruta) if ruta.exists() else ""
+
+
+def escudos_por_sel(fs, sels):
+    """20/11 (Marcos: «siempre revisa» los escudos): si una fila no trae escudo ni bandera («Oporto marca 3 o más vs
+    Paredes», «Bayern Múnich gana…»), se coge del partido de su «sel»: el escudo del equipo del pick (el local si el
+    mercado es de los dos) y, si es del partido entero, los dos."""
+    if not sels or len(sels) != len(fs):
+        return fs
+    out = []
+    for f, s in zip(fs, sels):
+        if f and not (f.get("escudo") or f.get("pais")):
+            try:
+                fid, mercado, opcion = str(s).split("|", 2)
+                j = json.load(open(RAIZ / "datos" / "proximos" / f"{fid}.json", encoding="utf-8"))
+                t = j["partido"]["teams"]
+                fuera = "Away" in mercado or opcion.startswith("Away") or opcion == "Draw/Away"
+                eq, otro = (t["away"], t["home"]) if fuera else (t["home"], t["away"])
+                f = dict(f, escudo=_ruta_escudo(eq.get("logo"), eq.get("name")))
+                if re.search(r"Both Teams|Goals Over|Total Corners|^Corners", mercado):
+                    f["escudo2"] = _ruta_escudo(otro.get("logo"), otro.get("name"))
+            except Exception:
+                pass
+        out.append(f)
+    return out
+
+
 def titulo(p, texto):
     pid = p["id"]
     m = re.search(r"Cuota\s*@?\s*(\d+[.,]\d+)", texto) or (CUOTA.search(texto) if len(patas(texto)) == 1 else None)
@@ -328,6 +368,10 @@ def hacer(p, texto, todos=None):
             crear = any(re.search(r"crear apuesta", x, re.I) for x in ps)
             lem = lema(texto) or hora_partidos(p)
             fs = filas(ps, m.group(1) if m else None)
+            fs = escudos_por_sel(fs, p.get("sel") or [])
+            if p.get("sel") and any(f and not (f.get("escudo") or f.get("pais")) for f in fs):
+                print("tarjeta_tg: fila sin escudo/bandera →", p.get("id"))   # 20/11: sin escudos no hay foto (y el post no sale)
+                return None
             varios = len({str(x).split("|")[0] for x in p.get("sel") or []}) > 1
             if varios:   # 19/11: combi de varios partidos → ni «PARTIDO» en cada fila ni la cinta con el 1º partido
                 fs = [dict(f, nombre="") if f and f.get("nombre") == "Partido" else f for f in fs]

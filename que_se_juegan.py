@@ -15,6 +15,7 @@ Eslovaquia en Kazajistán, Malta en Gibraltar…).
 import collections
 import itertools
 import json
+import re
 from pathlib import Path
 
 RAIZ = Path(__file__).parent
@@ -210,6 +211,15 @@ def por_zonas(liga, fid):
 
 def contexto(liga, fid):
     """{"local": {...}, "visitante": {...}} con estado y texto de cada uno, o None."""
+    # 20/11: en una copa a partido único (Taça de Portugal, Copa del Rey…) no hay tabla: salía «Paredes se lo juega:
+    # si gana, acaba 1.º» (el Paredes–Oporto de copa leído como si fuera un grupo de 2)
+    try:
+        f0 = next((x for x in _cal(liga) if x["fixture"]["id"] == fid), None)
+        nombre = ((f0 or {}).get("league") or {}).get("name", "") + " " + ((f0 or {}).get("league") or {}).get("round", "")
+        if re.search(r"Ta[cç]a|Copa|Cup|Coupe|Pokal|Coppa|Beker|Trophy", nombre, re.I) and not re.search(r"Group|League Stage|Grupo", nombre, re.I):
+            return None
+    except Exception:
+        pass
     r = puestos(liga, fid)
     if not r:
         z = por_zonas(liga, fid)
