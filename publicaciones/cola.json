@@ -9388,5 +9388,43 @@
     "foto_tg": "publicaciones/media/2026-11-20-pick-claude-5.tg.jpg",
     "enviado": "2026-11-20T20:20",
     "mensaje_id": 567
+  },
+  {
+    "id": "2026-11-20-estrella-1570454",
+    "fecha": "2026-11-20T20:51",
+    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Gana el Athletic Club\n\n📈 Cuota @2,67 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570454|Player Fouls Committed|Nico Williams - 1",
+      "1570454|Home Player Shots|Alex Berenguer - 2",
+      "1570454|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.4,
+      1.33,
+      1.48
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Athletic Club",
+      "visitante": "Espanyol",
+      "id_l": 531,
+      "id_v": 540,
+      "logo_l": "https://media.api-sports.io/football/teams/531.png",
+      "logo_v": "https://media.api-sports.io/football/teams/540.png",
+      "fecha": "2026-11-20T21:00",
+      "liga": "LaLiga"
+    },
+    "solo_redes": true,
+    "cuota_total": 2.67,
+    "cuota_calculada": true,
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
   }
 ]

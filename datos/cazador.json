@@ -37,9 +37,76 @@
    "post": "2026-11-19-cuotaza-1638297-733bbf"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Vitória SC",
+   "visitante": "SC Braga",
+   "inicio": "2026-11-21T21:30",
+   "texto": "Ambos marcan en Vitória SC–SC Braga",
+   "cuota": 2.2,
+   "justa": 2.06,
+   "ev": 0.07,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
+  },
+  {
+   "local": "Treviso",
+   "visitante": "Pergolettese",
+   "inicio": "2026-11-21T14:30",
+   "texto": "Ambos marcan en Treviso–Pergolettese",
+   "cuota": 2.2,
+   "justa": 2.18,
+   "ev": 0.008,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
+  },
+  {
+   "local": "Vitória SC",
+   "visitante": "SC Braga",
+   "inicio": "2026-11-21T21:30",
+   "texto": "Más de 1,5 goles en Vitória SC–SC Braga",
+   "cuota": 1.5,
+   "justa": 1.49,
+   "ev": 0.008,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
+  },
+  {
+   "local": "Treviso",
+   "visitante": "Pergolettese",
+   "inicio": "2026-11-21T14:30",
+   "texto": "Pergolettese marca",
+   "cuota": 1.8,
+   "justa": 1.79,
+   "ev": 0.005,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
+  },
+  {
+   "local": "Edf Logrono W",
+   "visitante": "Deportivo Alavés W",
+   "inicio": "2026-11-21T19:00",
+   "texto": "Ambos marcan en Edf Logrono W–Deportivo Alavés W",
+   "cuota": 1.8,
+   "justa": 1.81,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
+  },
+  {
+   "local": "Real Sociedad II",
+   "visitante": "Cadiz",
+   "inicio": "2026-11-21T16:15",
+   "texto": "Cadiz o empate",
+   "cuota": 1.8,
+   "justa": 1.83,
+   "ev": -0.018,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-20T20:07",
+  "hora": "2026-11-20T20:52",
   "revisadas": 0,
   "mejor": null
  },

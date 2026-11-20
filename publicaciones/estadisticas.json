@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 20:17",
+ "actualizado": "2026-11-20 20:52",
  "redes": {
   "instagram": {
    "seguidores": 53,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 492,
-   "hoy": 7,
+   "seguidores": 491,
+   "hoy": 6,
    "serie": [
     404,
     411,
@@ -50,17 +50,17 @@
     471,
     479,
     485,
-    492
+    491
    ]
   }
  },
- "total": 3792,
- "total_hoy": 24,
+ "total": 3791,
+ "total_hoy": 23,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:20",
+  "hora": "23:00",
   "dia": "2026-11-20",
-  "titulo": "Otro pick para la noche"
+  "titulo": "4 picks para mañana"
  },
  "ayer": null,
  "escalera": {
@@ -239,12 +239,17 @@
    "instagram": 53,
    "threads": 3246,
    "facebook": 1,
-   "telegram": 492
+   "telegram": 491
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 1,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 49,
+   "posts": 48,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
