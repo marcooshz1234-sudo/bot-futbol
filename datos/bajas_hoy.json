@@ -7388,21 +7388,27 @@
    },
    {
     "equipo": 50,
-    "jugador": "M. Guehi",
-    "tipo": "Questionable",
-    "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 50,
     "jugador": "A. Khusanov",
     "tipo": "Questionable",
     "motivo": "Knock"
    },
    {
-    "equipo": 36,
-    "jugador": "T. Cairney",
+    "equipo": 50,
+    "jugador": "M. Nunes",
     "tipo": "Questionable",
-    "motivo": "Knee Injury"
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 36,
+    "jugador": "B. Lecomte",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 36,
+    "jugador": "E. Smith Rowe",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
    }
   ],
   "1563267": [
@@ -7606,6 +7612,12 @@
    },
    {
     "equipo": 487,
+    "jugador": "A. Marusic",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 487,
     "jugador": "J. Sutalo",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
@@ -7618,21 +7630,15 @@
    },
    {
     "equipo": 487,
-    "jugador": "D. Frattesi",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 487,
-    "jugador": "A. Marusic",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 487,
     "jugador": "M. Zaccagni",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 487,
+    "jugador": "D. Cataldi",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 867,
@@ -7651,15 +7657,21 @@
     "jugador": "M. Berisha",
     "tipo": "Questionable",
     "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 867,
-    "jugador": "J. Monteiro",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
    }
   ],
   "1550200": [
+   {
+    "equipo": 895,
+    "jugador": "J. Addai",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 895,
+    "jugador": "A. Diao",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
    {
     "equipo": 895,
     "jugador": "M. Kean",
@@ -7668,26 +7680,8 @@
    },
    {
     "equipo": 895,
-    "jugador": "J. Addai",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 895,
-    "jugador": "T. Chalobah",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 895,
-    "jugador": "A. Diao",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 895,
     "jugador": "J. Rodriguez",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Injury"
    },
    {
@@ -7698,26 +7692,20 @@
    },
    {
     "equipo": 490,
-    "jugador": "G. Aurelio",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 490,
-    "jugador": "A. Fadera",
-    "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "jugador": "J. Liteta",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
    },
    {
     "equipo": 490,
     "jugador": "Y. Mina",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
    },
    {
     "equipo": 490,
     "jugador": "H. Winks",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Back Injury"
    }
   ],
@@ -8093,7 +8081,7 @@
     "equipo": 65,
     "jugador": "N. Williams",
     "tipo": "Questionable",
-    "motivo": "Leg Injury"
+    "motivo": "Ankle Injury"
    }
   ],
   "1557467": [
@@ -8114,12 +8102,6 @@
     "jugador": "M. Ruggeri",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 66,
-    "jugador": "J. Manzambi",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
    },
    {
     "equipo": 746,
@@ -8373,6 +8355,12 @@
   "1557476": [
    {
     "equipo": 47,
+    "jugador": "T. Adarabioyo",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 47,
     "jugador": "W. Odobert",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
@@ -8385,15 +8373,9 @@
    },
    {
     "equipo": 47,
-    "jugador": "T. Adarabioyo",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 47,
-    "jugador": "L. Bergvall",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
+    "jugador": "M. Tel",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
    },
    {
     "equipo": 47,
@@ -8406,18 +8388,6 @@
     "jugador": "M. Mudryk",
     "tipo": "Questionable",
     "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 47,
-    "jugador": "Savio",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 47,
-    "jugador": "M. Tel",
-    "tipo": "Questionable",
-    "motivo": "Achilles Tendon Injury"
    }
   ],
   "1570460": [
@@ -8667,38 +8637,32 @@
   "1557470": [
    {
     "equipo": 49,
+    "jugador": "J. Gittens",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 49,
+    "jugador": "J. Hato",
+    "tipo": "Missing Fixture",
+    "motivo": "Back Injury"
+   },
+   {
+    "equipo": 49,
     "jugador": "R. James",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
    },
    {
     "equipo": 49,
-    "jugador": "M. Caicedo",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 49,
-    "jugador": "J. Gittens",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 49,
-    "jugador": "J. Hato",
-    "tipo": "Questionable",
-    "motivo": "Back Injury"
-   },
-   {
-    "equipo": 49,
     "jugador": "Joao Pedro",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
    },
    {
     "equipo": 49,
     "jugador": "M. Lacroix",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    },
    {
@@ -9481,7 +9445,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-20T21:58:01.997386+01:00",
+ "ultima": "2026-11-20T22:29:22.984919+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-noche-2330-escudos|Emre Mor"
