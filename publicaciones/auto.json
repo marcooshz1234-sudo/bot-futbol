@@ -9709,7 +9709,7 @@
       2.2,
       1.91,
       2.38,
-      1.14
+      1.17
     ],
     "ganadores_img": {
       "titulo": "LALIGA",
@@ -9749,7 +9749,8 @@
         }
       ],
       "lema": "¿QUIÉN SE APUNTA?"
-    }
+    },
+    "cuotas_revisadas": "2026-11-20T22:35"
   },
   {
     "id": "2026-11-21-ganadores-premier",
