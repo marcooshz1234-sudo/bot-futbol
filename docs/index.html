@@ -187,7 +187,7 @@ function vCombis(){
   L.forEach((c,i) => {
     h += `<div class="card" style="margin-bottom:10px"><div style="display:flex;justify-content:space-between"><b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b><b style="color:var(--ok)">@${coma(c.cuota)}</b></div>`;
     c.patas.forEach(x => { const f = new Date(x.hora);
-      h += `<div style="margin-top:10px"><div class="mut" style="font-size:12px">${dias[f.getDay()]} ${x.hora.slice(11,16)} · ${esc(x.partido)}</div><div><b>${esc(x.texto)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
+      h += `<div style="margin-top:10px"><div style="font-size:13px"><span class="mut">${dias[f.getDay()]} ${x.hora.slice(11,16)} · </span><b style="color:#3b82f6">${esc(x.partido)}</b></div><div><b>${esc(x.texto)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span></div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`; });
     h += `</div>`; });
   return h;
 }
