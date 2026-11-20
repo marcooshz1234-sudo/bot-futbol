@@ -9652,7 +9652,7 @@
     "cuotas": [
       3.75,
       1.91,
-      3.2,
+      3.0,
       3.0
     ],
     "solo_en": [
@@ -9665,7 +9665,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": true,
-    "cuotas_revisadas": "2026-11-20T19:20"
+    "cuotas_revisadas": "2026-11-20T19:26"
   },
   {
     "id": "2026-11-20-estrella-1575221",
@@ -9704,7 +9704,7 @@
   {
     "id": "2026-11-20-estrella-1570454",
     "fecha": "2026-11-20T20:25",
-    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Gana el Athletic Club\n\n📈 Cuota @2,70 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Nico Williams comete 1+ faltas\n🍀 Alex Berenguer: 2+ tiros\n🍀 Gana el Athletic Club\n\n📈 Cuota @3,05 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -9715,7 +9715,7 @@
     ],
     "cuotas": [
       1.4,
-      1.33,
+      1.3,
       1.5
     ],
     "espera_alineacion": true,
@@ -9731,7 +9731,8 @@
     },
     "solo_redes": true,
     "cuota_total": 2.7,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-20T19:26"
   },
   {
     "id": "2026-11-21-picks-manana",
