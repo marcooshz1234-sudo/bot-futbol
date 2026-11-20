@@ -47,7 +47,7 @@
    "justa": 2.0,
    "ev": 0.027,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Aarhus Fremad",
@@ -58,11 +58,11 @@
    "justa": 1.82,
    "ev": 0.006,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-20T16:43",
+  "hora": "2026-11-20T17:03",
   "revisadas": 0,
   "mejor": null
  },

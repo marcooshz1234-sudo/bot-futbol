@@ -9588,11 +9588,11 @@
       "1552827|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      2.25,
       2.2,
-      2.0,
+      2.2,
+      2.05,
       2.25,
-      2.1,
+      2.0,
       2.0
     ],
     "solo_en": [
@@ -9604,7 +9604,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-20T17:01"
   },
   {
     "id": "2026-11-20-loca-th-1900-lista-corners",
