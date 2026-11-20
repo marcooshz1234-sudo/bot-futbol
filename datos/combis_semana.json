@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-20",
- "generado": "2026-11-20T19:48+01:00",
+ "generado": "2026-11-20T20:19+01:00",
  "rango": [
   "2026-11-20",
   "2026-11-23"
@@ -317,20 +317,6 @@
    "liga": "Bundesliga",
    "patas": [
     {
-     "sel": "1575221|Player Fouls Committed|Luka Lochoshvili - 1",
-     "texto": "Luka Lochoshvili: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,24 por 90' (0-3-3-1-2-4)",
-     "nota": 0.84,
-     "equipo": "1. FC Köln",
-     "lado": "V",
-     "partido": "Bayern München–1. FC Köln",
-     "hora": "2026-11-20T20:30",
-     "logo_l": "https://media.api-sports.io/football/teams/157.png",
-     "logo_v": "https://media.api-sports.io/football/teams/192.png"
-    },
-    {
      "sel": "1575226|Player Fouls Committed|Kouakou Gadou - 1",
      "texto": "Kouakou Gadou: comete 1+ falta",
      "cuota": 1.44,
@@ -383,6 +369,20 @@
      "hora": "2026-11-21T15:30",
      "logo_l": "https://media.api-sports.io/football/teams/1660.png",
      "logo_v": "https://media.api-sports.io/football/teams/160.png"
+    },
+    {
+     "sel": "1575228|Player Fouls Committed|Maximilian Mittelstadt - 1",
+     "texto": "Maximilian Mittelstadt: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,20 por 90' (1-1-1-0-2-2)",
+     "nota": 0.84,
+     "equipo": "VfB Stuttgart",
+     "lado": "V",
+     "partido": "FC Schalke 04–VfB Stuttgart",
+     "hora": "2026-11-21T18:30",
+     "logo_l": "https://media.api-sports.io/football/teams/174.png",
+     "logo_v": "https://media.api-sports.io/football/teams/172.png"
     },
     {
      "sel": "1575224|Away Player Shots|Phillip Tietz - 3",
