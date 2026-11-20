@@ -142,15 +142,10 @@ def main():
         import combis_semana as CS
         rango = CS.de_hoy(ahora)
         k = f"combis-semana-{ahora:%Y-%m-%d}"
-        guardadas = leer(CS.SALIDA, {}) or {}
-        if rango and ahora.hour >= 10 and (k not in hecho or guardadas.get("dia") != ahora.strftime("%Y-%m-%d")):
-            cs = guardadas.get("combis") if guardadas.get("dia") == ahora.strftime("%Y-%m-%d") else CS.generar(*rango)
-            # el archivo lo lee la app (pestaña 🧮 Combis) y el asistente (para reconocer la captura)
-            CS.SALIDA.write_text(json.dumps({"dia": ahora.strftime("%Y-%m-%d"), "rango": list(rango), "combis": cs},
-                                            ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-            if k not in hecho:
-                for i, c in enumerate(cs, 1):
-                    avisos.append((f"{k}-{i}", CS.texto_aviso(c, i, len(cs))))
+        if rango and ahora.hour >= 10 and k not in hecho:
+            cs = CS.refrescar(ahora).get("combis") or []
+            for i, c in enumerate(cs, 1):
+                avisos.append((f"{k}-{i}", CS.texto_aviso(c, i, len(cs))))
             hecho.add(k)
     except Exception as e:
         print("combis semana:", e)

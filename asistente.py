@@ -786,6 +786,8 @@ class Asistente:
                                  textos=[p.get("texto") or "" for p in b.get("patas") or []] + [b.get("leido") or ""])
             if semana:
                 b["texto"] = CS.texto_post(semana)
+                CS.apuntar_subida(semana)   # sus patas salen de las demás combis de la app
+                guardar_archivos([CS.SALIDA], "combis semana: subida")
                 hoy_ = datetime.now(MADRID).strftime("%Y-%m-%d")
                 a_tg = not any(x.get("semana") and x.get("mensaje_id") and str(x.get("fecha", "")).startswith(hoy_)
                                for x in leer(PROPIOS, []))

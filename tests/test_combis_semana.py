@@ -52,3 +52,20 @@ class CombisSemana(unittest.TestCase):
                                           {"sel": "2|a|b", "texto": "Sergio Camello: comete 1+ falta"},
                                           {"sel": "3|a|b", "texto": "Gana Barcelona"}], "cuota": 3}
         self.assertIs(CS.casa_con([], [c], textos=["Koski - Más de 0.5 faltas", "Camello más de 0.5", "Barcelona"]), c)
+
+
+class SinRepetir(unittest.TestCase):
+    """20/11 (Marcos): lo ya subido sale de las combis y se cambia por otra pata del mismo partido."""
+    def test_fuera_lo_subido(self):
+        h = {"pepe uno": [{"nombre": "Pepe Uno", "min": 90, "faltas_c": v, "eq": "10"} for v in (1, 2, 1, 1, 1, 1)]}
+        ps = [partido(i, f"{12 + i}:00") for i in range(5)]
+        with mock.patch.object(CS, "equipos_partido", lambda pid: {"10", "20"}):
+            antes = CS.generar("2026-11-21", "2026-11-23", partidos=ps, h=h)[0]
+            quitada = antes["patas"][0]["sel"]
+            despues = CS.generar("2026-11-21", "2026-11-23", partidos=ps, h=h, fuera={quitada})
+        sels = {x["sel"] for c in despues for x in c["patas"]}
+        self.assertNotIn(quitada, sels)
+
+    def test_poisson(self):
+        self.assertAlmostEqual(CS.poisson_al_menos(2.0, 1), 0.8647, places=3)
+        self.assertEqual(CS.poisson_al_menos(0, 1), 0.0)

@@ -4,8 +4,9 @@ combis de UN PARTIDO POR PATA, cada pata ~@1,50, con el dato del jugador detrás
 antelación (las cuotas bajan durante el finde: Bauza recibirá falta 1,50 → 1,15), Marcos las monta en bet365, manda
 la captura y se suben a Threads, X y Telegram (Telegram, 1 al día como mucho).
 
-  · viernes ≥ 10:00: las del finde (sábado a lunes), una por liga
-  · martes ≥ 10:00: las de entre semana (martes a jueves)
+  · en la app (pestaña 🧮 Combis), siempre al día: próximos 3 días, cada 30 min (refrescar), sin lo ya subido
+    y sin repetir partido ni selección entre combis
+  · al privado: viernes ≥ 10:00 (el finde) y martes ≥ 10:00 (entre semana)
 
 Patas que valen (sin «recibirá falta»: la API no trae su cuota):
   · jugador (comete falta, remates, remates a puerta, paradas): lo cumple en ≥ 80 % de sus últimos partidos de
@@ -116,9 +117,11 @@ def patas_jugador(p, h):
             if not s or s[0] / s[1] < 0.8:
                 continue
             cumple, de, p90, vals = s
-            out.append({"sel": f"{p['id']}|{m}|{o}", "texto": f"{nombre}: {plant.format(n=umbral, s='' if umbral == 1 else 's')}",
-                        "cuota": c, "dato": f"cumple {cumple}/{de} siendo titular · {coma(p90)} por 90' ({'-'.join(map(str, vals))})",
-                        "nota": cumple / de - abs(c - OBJETIVO) * 0.3})
+            x = candidata(f"{p['id']}|{m}|{o}", f"{nombre}: {plant.format(n=umbral, s='' if umbral == 1 else 's')}", c,
+                          (cumple + 1) / (de + 2) + 0.05,   # suavizado (5/6 → 0,80) + 0,05 por ser titular fijo
+                          f"cumple {cumple}/{de} siendo titular · {coma(p90)} por 90' ({'-'.join(map(str, vals))})")
+            if x:
+                out.append(x)
     return out
 
 
@@ -129,37 +132,124 @@ def _pct(x):
         return 0
 
 
+def poisson_al_menos(lam, k):
+    """P(X ≥ k) con X ~ Poisson(lam)."""
+    import math
+    if lam <= 0:
+        return 0.0
+    return 1 - sum(math.exp(-lam) * lam ** i / math.factorial(i) for i in range(int(k)))
+
+
+def _num(x):
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return None
+
+
+def candidata(sel, texto, cuota, p, dato):
+    """Pata con su probabilidad estimada p: vale si p ≥ 0,68 y no es mala cuota (p·cuota ≥ 1)."""
+    if cuota is None or not (CUOTA_MIN <= cuota <= CUOTA_MAX) or p < 0.68 or p * cuota < 1.0:
+        return None
+    return {"sel": sel, "texto": texto, "cuota": cuota, "p": round(p, 3), "dato": dato,
+            "nota": p + 0.5 * (p * cuota - 1) - abs(cuota - OBJETIVO) * 0.2}
+
+
 def patas_equipo(p):
-    out, c = [], p.get("cuotas_bet365") or {}
-    sl, sv = p.get("stats_local") or {}, p.get("stats_visitante") or {}
-    g = lambda m, k: next((float(v) for n_, v in c.get(m, []) if n_ == k), None)
+    """20/11 (Marcos: «faltan cosas, tenemos muchísimos datos»): goles del equipo, ambos marcan, más de 2,5,
+    goles en la 1ª parte, gana / gana alguna parte / doble oportunidad, córners (equipo y totales), tarjetas del equipo
+    y remates a puerta del partido. Probabilidad con Poisson sobre las medias de los dos equipos (lo que hace uno y
+    lo que concede el otro) y, si hay, el % real de partidos que lo cumplieron."""
+    c = p.get("cuotas_bet365") or {}
+    sl = p.get("stats_local_casa") or p.get("stats_local") or {}
+    sv = p.get("stats_visitante_fuera") or p.get("stats_visitante") or {}
+    g = lambda m, k: next((_num(v) for n_, v in c.get(m, []) if n_ == k), None)
     L, V = p["local"], p["visitante"]
-    for lado, k, eq, s, r in (("l", "Home", L, sl, sv), ("v", "Away", V, sv, sl)):
-        cu = g("Match Winner", k)
-        if cu and CUOTA_MIN <= cu <= CUOTA_MAX and s.get("forma", "").count("V") >= 3:
-            out.append({"sel": f"{p['id']}|Match Winner|{k}", "texto": f"Gana {eq}", "cuota": cu,
-                        "dato": f"{eq}: {s.get('forma')} en sus últimos 5", "nota": 0.72 - abs(cu - OBJETIVO) * 0.3})
-        cu = g("Total - Home" if lado == "l" else "Total - Away", "Over 1.5")
-        if cu and CUOTA_MIN <= cu <= CUOTA_MAX and (s.get("gf") or 0) >= 1.8 and (r.get("gc") or 0) >= 1.3:
-            out.append({"sel": f"{p['id']}|{'Total - Home' if lado == 'l' else 'Total - Away'}|Over 1.5",
-                        "texto": f"{eq} marca 2 o más", "cuota": cu,
-                        "dato": f"{eq} marca {coma(s.get('gf'), 1)} goles por partido y el rival encaja {coma(r.get('gc'), 1)}",
-                        "nota": 0.7 - abs(cu - OBJETIVO) * 0.3})
-    cu = g("Both Teams Score", "Yes")
+    f = lambda d, k: _num(d.get(k)) or 0.0
+    lam_l = (f(sl, "gf") + f(sv, "gc")) / 2
+    lam_v = (f(sv, "gf") + f(sl, "gc")) / 2
+    pid = p["id"]
+    out = []
+    # goles de cada equipo
+    for eq, lam, lado, s in ((L, lam_l, "Home", sl), (V, lam_v, "Away", sv)):
+        m = "Total - Home" if lado == "Home" else "Total - Away"
+        for linea, k, txt in (("Over 0.5", 1, f"{eq} marca"), ("Over 1.5", 2, f"{eq} marca 2 o más")):
+            pr = poisson_al_menos(lam, k)
+            if k == 1 and s.get("sin_marcar"):
+                pr = (pr + 1 - _pct(s["sin_marcar"]) / 100) / 2
+            out.append(candidata(f"{pid}|{m}|{linea}", txt, g(m, linea), pr,
+                                 f"marca {coma(f(s, 'gf'), 1)} por partido y el rival encaja {coma(f(sv if s is sl else sl, 'gc'), 1)}"))
+    # ganador, gana alguna parte, doble oportunidad (Poisson de los dos equipos)
+    import math
+    pl = pe = 0.0
+    for i in range(10):
+        for j in range(10):
+            pij = math.exp(-lam_l) * lam_l ** i / math.factorial(i) * math.exp(-lam_v) * lam_v ** j / math.factorial(j)
+            pl += pij if i > j else 0
+            pe += pij if i == j else 0
+    pv = 1 - pl - pe
+    for eq, pw, k, s in ((L, pl, "Home", sl), (V, pv, "Away", sv)):
+        forma = s.get("forma", "")
+        out.append(candidata(f"{pid}|Match Winner|{k}", f"Gana {eq}", g("Match Winner", k), (pw + forma.count("V") / 5) / 2 if forma else pw,
+                             f"{eq}: {forma} en sus últimos 5" if forma else f"{eq} favorito"))
+        out.append(candidata(f"{pid}|To Win Either Half|{k}", f"{eq} gana alguna de las dos partes", g("To Win Either Half", k),
+                             min(0.95, pw + 0.12), f"{eq}: {forma} en sus últimos 5"))
+        dc = "Home/Draw" if k == "Home" else "Draw/Away"
+        out.append(candidata(f"{pid}|Double Chance|{dc}", f"{eq} o empate", g("Double Chance", dc), pw + pe,
+                             f"{eq}: {forma} en sus últimos 5"))
+    # ambos marcan y más de 2,5 (Poisson + % real)
+    pb = poisson_al_menos(lam_l, 1) * poisson_al_menos(lam_v, 1)
     a, b = _pct(sl.get("btts")), _pct(sv.get("btts"))
-    if cu and CUOTA_MIN <= cu <= 1.75 and min(a, b) >= 60:
-        out.append({"sel": f"{p['id']}|Both Teams Score|Yes", "texto": "Ambos marcan", "cuota": cu,
-                    "dato": f"marcan los dos en el {a}% y el {b}% de sus partidos", "nota": min(a, b) / 100 - abs(cu - OBJETIVO) * 0.3})
-    cu = g("Goals Over/Under", "Over 2.5")
+    if a and b:
+        pb = (pb + min(a, b) / 100) / 2
+    out.append(candidata(f"{pid}|Both Teams Score|Yes", "Ambos marcan", g("Both Teams Score", "Yes"), pb,
+                         f"marcan los dos en el {a}% y el {b}% de sus partidos"))
+    po = poisson_al_menos(lam_l + lam_v, 3)
     a, b = _pct(sl.get("o25")), _pct(sv.get("o25"))
-    if cu and CUOTA_MIN <= cu <= CUOTA_MAX and min(a, b) >= 60:
-        out.append({"sel": f"{p['id']}|Goals Over/Under|Over 2.5", "texto": "Más de 2,5 goles", "cuota": cu,
-                    "dato": f"más de 2,5 goles en el {a}% y el {b}% de sus partidos", "nota": min(a, b) / 100 - abs(cu - OBJETIVO) * 0.3})
-    return out
+    if a and b:
+        po = (po + min(a, b) / 100) / 2
+    out.append(candidata(f"{pid}|Goals Over/Under|Over 2.5", "Más de 2,5 goles", g("Goals Over/Under", "Over 2.5"), po,
+                         f"más de 2,5 goles en el {a}% y el {b}% de sus partidos"))
+    lam_1p = (f(sl, "gf_1p") + f(sv, "gc_1p") + f(sv, "gf_1p") + f(sl, "gc_1p")) / 2
+    out.append(candidata(f"{pid}|Goals Over/Under First Half|Over 0.5", "Gol en la 1ª parte", g("Goals Over/Under First Half", "Over 0.5"),
+                         poisson_al_menos(lam_1p, 1), f"{coma(lam_1p, 1)} goles de media en las primeras partes de los dos"))
+    # córners
+    lam_c = (f(sl, "corners_total") + f(sv, "corners_total")) / 2
+    for o, cu in c.get("Corners Over Under", []):
+        mm = re.match(r"Over (\d+)(?:\.5)?$", o)
+        if mm:
+            k = int(float(o.split()[1]) + 0.5) if ".5" in o else int(o.split()[1]) + 1
+            out.append(candidata(f"{pid}|Corners Over Under|{o}", f"Más de {o.split()[1].replace('.', ',')} córners",
+                                 _num(cu), poisson_al_menos(lam_c, k), f"{coma(lam_c, 1)} córners de media en los partidos de los dos"))
+    for eq, s, r, m in ((L, sl, sv, "Home Corners Over/Under"), (V, sv, sl, "Away Corners Over/Under")):
+        lam = (f(s, "corners") + f(r, "corners_c")) / 2
+        for o, cu in c.get(m, []):
+            if o.startswith("Over ") and o.endswith(".5"):
+                k = int(float(o.split()[1]) + 0.5)
+                out.append(candidata(f"{pid}|{m}|{o}", f"{eq}: más de {o.split()[1].replace('.', ',')} córners", _num(cu),
+                                     poisson_al_menos(lam, k), f"{eq} saca {coma(f(s, 'corners'), 1)} córners y el rival concede {coma(f(r, 'corners_c'), 1)}"))
+    # tarjetas del equipo
+    for eq, s, r, m in ((L, sl, sv, "Home Team Total Cards"), (V, sv, sl, "Away Team Total Cards")):
+        lam = (f(s, "amarillas") + f(r, "amarillas_c")) / 2
+        for o, cu in c.get(m, []):
+            if o.startswith("Over ") and o.endswith(".5"):
+                k = int(float(o.split()[1]) + 0.5)
+                out.append(candidata(f"{pid}|{m}|{o}", f"{eq} ve más de {o.split()[1].replace('.', ',')} tarjetas", _num(cu),
+                                     poisson_al_menos(lam, k), f"{eq} ve {coma(f(s, 'amarillas'), 1)} amarillas por partido"))
+    # remates a puerta del partido
+    lam_t = (f(sl, "a_puerta") + f(sv, "a_puerta_c")) / 2 + (f(sv, "a_puerta") + f(sl, "a_puerta_c")) / 2
+    for o, cu in c.get("Total ShotOnGoal", []):
+        if o.startswith("Over ") and o.endswith(".5"):
+            k = int(float(o.split()[1]) + 0.5)
+            out.append(candidata(f"{pid}|Total ShotOnGoal|{o}", f"Más de {o.split()[1].replace('.', ',')} remates a puerta en el partido",
+                                 _num(cu), poisson_al_menos(lam_t, k), f"{coma(lam_t, 1)} remates a puerta de media entre los dos"))
+    return [x for x in out if x]
 
 
-def generar(desde, hasta, partidos=None, h=None, max_combis=4):
-    """Combis por liga con los partidos entre desde y hasta (fechas AAAA-MM-DD, ambas incluidas)."""
+def generar(desde, hasta, partidos=None, h=None, max_combis=6, fuera=(), empieza_despues=None):
+    """Combis por liga con los partidos entre desde y hasta (fechas AAAA-MM-DD, ambas incluidas).
+    20/11 (Marcos: «no quiero las cosas 20.000 veces repetidas»): sin las selecciones de «fuera» (lo ya subido) y
+    cada partido en una sola combi; si la mejor pata de un partido ya salió, va la siguiente."""
     if partidos is None:
         d = leer(DATOS / "resumen_proximos.json", []) or []
         partidos = d if isinstance(d, list) else d.get("partidos", [])
@@ -171,7 +261,9 @@ def generar(desde, hasta, partidos=None, h=None, max_combis=4):
                     key=lambda p: p["fecha"])
         patas = []
         for p in ms:
-            cands = patas_jugador(p, h) + patas_equipo(p)
+            if empieza_despues and datetime.fromisoformat(p["fecha"]).astimezone(MADRID) < empieza_despues:
+                continue
+            cands = [x for x in patas_jugador(p, h) + patas_equipo(p) if x["sel"] not in set(fuera)]
             if cands:
                 b = max(cands, key=lambda x: x["nota"])
                 ini = datetime.fromisoformat(p["fecha"]).astimezone(MADRID)
@@ -236,10 +328,47 @@ def casa_con(patas_boleto, guardadas=None, textos=None):
     return None
 
 
+def ya_subidas(ahora, guardado=None):
+    """Selecciones ya publicadas (posts con su selección de los últimos 3 días) + las de las combis de aquí que
+    Marcos ya subió con su captura."""
+    from incidencias import publicaciones
+    from bot import RAIZ
+    desde = (ahora - timedelta(days=3)).strftime("%Y-%m-%d")
+    sels = set((guardado or {}).get("subidas") or [])
+    for p in publicaciones(RAIZ) + (leer(RAIZ / "publicaciones" / "asistente.json", []) or []):
+        if str(p.get("fecha", "")) >= desde and (p.get("mensaje_id") or p.get("enviado") or any((p.get("redes") or {}).values())):
+            sels |= {x for x in p.get("sel") or [] if x and not x.startswith("0|")}
+    return sels
+
+
+def refrescar(ahora=None, cada=timedelta(minutes=30)):
+    """20/11 (Marcos: «que esté constantemente actualizándose»): las combis de la app para los próximos 3 días, sin
+    lo ya subido. Cada 30 min, o al momento si Marcos acaba de subir una (cambian las «subidas»)."""
+    ahora = ahora or datetime.now(MADRID)
+    g = leer(SALIDA, {}) or {}
+    subidas = g.get("subidas") or []
+    if g.get("generado") and ahora - datetime.fromisoformat(g["generado"]) < cada and g.get("n_subidas") == len(subidas):
+        return g
+    rango = (ahora.strftime("%Y-%m-%d"), (ahora + timedelta(days=3)).strftime("%Y-%m-%d"))
+    cs = generar(*rango, fuera=ya_subidas(ahora, g), empieza_despues=ahora + timedelta(minutes=30))
+    g = {"dia": ahora.strftime("%Y-%m-%d"), "generado": ahora.isoformat(timespec="minutes"), "rango": list(rango),
+         "combis": cs, "subidas": subidas[-300:], "n_subidas": len(subidas[-300:])}
+    SALIDA.write_text(json.dumps(g, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"combis_semana: {len(cs)} combis ({', '.join(c['liga'] for c in cs)})")
+    return g
+
+
+def apuntar_subida(c):
+    """Las patas de una combi que Marcos ya subió: fuera de las demás desde la próxima vuelta."""
+    g = leer(SALIDA, {}) or {}
+    g["subidas"] = sorted(set(g.get("subidas") or []) | {x["sel"] for x in c["patas"]})
+    SALIDA.write_text(json.dumps(g, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+
 if __name__ == "__main__":
     import sys
-    ahora = datetime.now(MADRID)
-    rango = (sys.argv[1], sys.argv[2]) if len(sys.argv) > 2 else de_hoy(ahora)
-    if rango:
-        for i, c in enumerate(generar(*rango), 1):
+    if len(sys.argv) > 2:
+        for i, c in enumerate(generar(sys.argv[1], sys.argv[2]), 1):
             print(texto_aviso(c, i, 4), "\n")
+    else:
+        refrescar()
