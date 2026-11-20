@@ -9118,9 +9118,117 @@
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    }
+  ],
+  "1647591": [],
+  "1573651": [],
+  "1552226": [
+   {
+    "equipo": 209,
+    "jugador": "T. Beelen",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken Leg"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. Bos",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. Moder",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "B. Nieuwkoop",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "G. Smal",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "J. St. Juste",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 209,
+    "jugador": "A. Hadj Moussa",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 196,
+    "jugador": "N. Groen",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   }
+  ],
+  "1552233": [
+   {
+    "equipo": 207,
+    "jugador": "A. Engwanda",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "V. Jensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "M. Jonathans",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "N. Ohio",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 207,
+    "jugador": "K. Paredes",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 420,
+    "jugador": "J. Amofa",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 420,
+    "jugador": "D. Visser",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 420,
+    "jugador": "D. Westerhof",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 420,
+    "jugador": "W. Asselman",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   }
   ]
  },
- "ultima": "2026-11-20T12:40:44.195286+01:00",
+ "ultima": "2026-11-20T13:13:25.138714+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi"
  ]
