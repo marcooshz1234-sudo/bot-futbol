@@ -147,20 +147,12 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
   },
   {
-   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
-  },
-  {
    "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+   "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
    "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
@@ -169,6 +161,14 @@
   {
    "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
@@ -199,7 +199,7 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-0400-x50, loca-th-0800-lista-corners, loca-th-1900-lista-corners)"
   }
  ],
- "revisado": "2026-11-20T23:38",
+ "revisado": "2026-11-20T23:48",
  "historial": [
   {
    "hora": "2026-11-20T22:14",
