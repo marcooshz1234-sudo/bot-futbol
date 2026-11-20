@@ -107,10 +107,6 @@
    "t": "📉 Trento–Cittadella Over 1.5: la cuota ha pasado de 2.25 a 2.62 (+16%) desde que se hizo «💶 RETO: DE 1€ A 78,94€ 💶» (10:00). Suele haber una noticia detrás"
   },
   {
-   "clave": "repe-2026-11-20-1551380|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
-  },
-  {
    "clave": "repe-2026-11-20-1552827|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-1600-escudos)"
   },
@@ -119,12 +115,32 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2330-escudos, estrella-1575221)"
   },
   {
-   "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+   "clave": "repe-2026-11-20-1551380|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2200-lista-ambos, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
@@ -133,22 +149,6 @@
   {
    "clave": "repe-2026-11-20-1551377|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1575221|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-noche-2330-escudos, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|Away Player Shots|Alex Millan - 2",
@@ -163,16 +163,16 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-noche-2330-escudos, estrella-1575221)"
   },
   {
-   "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
+   "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1552827|Double Chance|Draw/Away",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-0600-tapados)"
   },
   {
-   "clave": "repe-2026-11-20-1570025|To Win Either Half|Home",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0500-hora, loca-th-1630-escudos)"
+   "clave": "repe-2026-11-20-1570454|Total - Home|Over 1.5",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2300-x50, loca-th-0400-x50, loca-th-1700-escudos)"
   },
   {
    "clave": "repe-2026-11-20-1575221|Player Fouls Committed|Dayot Upamecano - 1",
@@ -204,18 +204,18 @@
   },
   {
    "clave": "prensa-1570454-387117e9",
-   "t": "📰 Athletic Club–Espanyol: «Terzic confirma la baja de Vivian antes del Athletic-Espanyol» (Athletic Club Info) · tenemos 9 post(s) de este partido: loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, pick-seguro-2, loca-th-1900-lista-corners, loca-th-1930-ganaambos, estrella-1570454"
+   "t": "📰 Athletic Club–Espanyol: «Terzic confirma la baja de Vivian antes del Athletic-Espanyol» (Athletic Club Info) · tenemos 8 post(s) de este partido: loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, pick-seguro-2, loca-th-1900-lista-corners, loca-th-1930-ganaambos, estrella-1570454"
   },
   {
    "clave": "prensa-1570454-e2b30a57",
-   "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 9 post(s) de este partido: loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, pick-seguro-2, loca-th-1900-lista-corners, loca-th-1930-ganaambos, estrella-1570454"
+   "t": "📰 Athletic Club–Espanyol: «Bajas importantes en el entrenamiento del Athletic Club» (Comuniate) · tenemos 8 post(s) de este partido: loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, pick-seguro-2, loca-th-1900-lista-corners, loca-th-1930-ganaambos, estrella-1570454"
   },
   {
    "clave": "regla-cuota_alta-2026-11-20-estrella-1575221",
    "t": "📏 Regla (cuota_alta): pata de más de 1,80 (@1,83) · «Hoy hay partidazo: Bayern München 🆚 1. FC Köln 🇩🇪⭐» (19:55)"
   }
  ],
- "revisado": "2026-11-20T03:50",
+ "revisado": "2026-11-20T04:00",
  "historial": [
   {
    "hora": "2026-11-20T02:58",
