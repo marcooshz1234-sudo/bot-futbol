@@ -2934,14 +2934,14 @@
   },
   "2026-11-20": {
     "dia": "2026-11-20",
-    "total": 7,
+    "total": 8,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 7,
+      "pendiente": 8,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 8
     },
     "combis": [
       {
@@ -2985,13 +2985,19 @@
         "titulo": "⏰ TODO A LAS 20:30 ⏰",
         "estado": "pendiente",
         "cuota": 2.82
+      },
+      {
+        "id": "2026-11-20-loca-th-0600-tapados",
+        "titulo": "🕵️ LA DE LOS TAPADOS 🕵️",
+        "estado": "pendiente",
+        "cuota": 12.79
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 33
+      "total": 36
     },
-    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · pendiente\n⏳ 🎰 COMBI x28,12 🎰 · 28,12 · pendiente\n⏳ ⏰ TODO A LAS 20:30 ⏰ · 2,82 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 2,21 · pendiente\n⏳ 🎰 COMBI x28,12 🎰 · 28,12 · pendiente\n⏳ ⏰ TODO A LAS 20:30 ⏰ · 2,82 · pendiente\n⏳ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
   }
 }
