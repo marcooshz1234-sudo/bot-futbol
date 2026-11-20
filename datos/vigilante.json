@@ -156,15 +156,15 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-ganaambos, loca-th-0100-ganaambos, loca-th-1930-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-20-1570025|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1608379|Both Teams Score|Yes",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
@@ -172,15 +172,15 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
-   "clave": "repe-2026-11-20-1565308|Both Teams Score|Yes",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0030-x100, loca-th-0200-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-20-1570025|Home Player Shots|Lautaro de Leon - 3",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
+   "clave": "repe-2026-11-20-1565306|Both Teams Score|Yes",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-lista-ambos, loca-th-0200-lista-ambos, loca-th-1400-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-20-1570025|Away Player Shots|Alex Millan - 2",
+   "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-20-1570025|Home Player Shots|Lautaro de Leon - 3",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-duelo, loca-th-0300-duelo, loca-th-1630-escudos)"
   },
   {
@@ -220,10 +220,6 @@
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-1700-escudos, pick-seguro-2, estrella-1570454)"
   },
   {
-   "clave": "prensa-1552229-c749a12e",
-   "t": "📰 NEC Nijmegen–PSV Eindhoven: «El Nápoles fija el precio de Kevin De Bruyne tras una oferta a la baja del PSV Eindhoven para enero» (Goal.com) · tenemos 2 post(s) de este partido: loca-th-noche-2130-ganaambos, loca-th-noche-2330-escudos"
-  },
-  {
    "clave": "regla-estrella-2026-11-21-pick-seguro",
    "t": "📏 Regla (estrella): Total - Home|Over 0.5: a ese equipo le falta su estrella · «Pick que nos gusta mucho para hoy 👀» (10:30)"
   },
@@ -232,7 +228,7 @@
    "t": "📏 Regla (estrella): Total - Home|Over 0.5: a ese equipo le falta su estrella · «Hoy hay partidazo: Newcastle 🆚 Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐» (17:55)"
   }
  ],
- "revisado": "2026-11-20T20:07",
+ "revisado": "2026-11-20T20:17",
  "historial": [
   {
    "hora": "2026-11-20T20:07",

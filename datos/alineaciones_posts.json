@@ -121,6 +121,7 @@
   "2026-11-20-loca-th-1100-tiros|Stefan Golubovic: 3+ tiros",
   "2026-11-20-loca-th-1100-tiros|Yassine Kechta: 2+ tiros",
   "2026-11-20-loca-th-1130-duelo|Stefan Golubovic: 3+ tiros",
+  "2026-11-20-loca-th-1600-escudos|Hugo Picard: 2+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -392,13 +393,16 @@
   "clave|2026-11-20-estrella-1575221|1575221|Total - Away|Over 0.5|Í. Bergmann Jóhannesson",
   "clave|2026-11-20-ganadores-resto|1565308|Match Winner|Home|Charles Petro",
   "clave|2026-11-20-loca-th-0300-duelo|1570025|Away Player Shots|Alex Millan - 2|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1000-reto|1552827|To Win Either Half|Away|M. Samatta",
   "clave|2026-11-20-loca-th-1100-tiros|1570025|Away Player Shots|Dani Rodriguez - 2|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-1100-tiros|1570025|Away Player Shots|Yassine Kechta - 2|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-1130-duelo|1570025|Away Player Shots|Dani Rodriguez - 2|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-1200-hora|1570025|Total - Away|Over 0.5|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-1230-escudos|1565308|To Win Either Half|Home|Charles Petro",
+  "clave|2026-11-20-loca-th-1600-escudos|1552827|Away Player Shots|Rayan Fofana - 2|M. Samatta",
   "clave|2026-11-20-loca-th-1630-escudos|1570025|Away Player Shots|Alex Millan - 2|Ismaël Gharbi",
   "clave|2026-11-20-loca-th-1630-escudos|1570025|Total - Away|Over 0.5|Ismaël Gharbi",
+  "clave|2026-11-20-loca-th-1830-x1000|1552827|To Win Either Half|Away|M. Samatta",
   "clave|2026-11-20-loca-th-noche-2100-x100|1565308|Match Winner|Home|Charles Petro",
   "clave|2026-11-20-loca-th-noche-2100-x100|1565308|Total - Home|Over 1.5|Charles Petro",
   "clave|2026-11-20-loca-th-noche-2100-x100|1575221|Away Player Shots|Sebastian Sebulonsen - 1|Í. Bergmann Jóhannesson",
@@ -2016,19 +2020,153 @@
    }
   },
   "1608379": {
-   "hora": "2026-11-20T20:06:25.357951+01:00",
+   "hora": "2026-11-20T20:17:17.919275+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}
   },
   "1552827": {
-   "hora": "2026-11-20T20:06:25.357951+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-20T20:17:17.919275+01:00",
+   "xi": [
+    "H. Konaté",
+    "Y. Titi",
+    "A. Monfray",
+    "A. Ouzenadji",
+    "I. Boura",
+    "A. Mille",
+    "D. Karim",
+    "M. Diop",
+    "M. Ifnaoui",
+    "J. Le Douaron",
+    "K. Diawara",
+    "A. Bodart",
+    "V. Sasso",
+    "A. Seko",
+    "A. Touba",
+    "E. Koffi Vinette",
+    "S. Ebonog",
+    "A. Richardson",
+    "J. Mwanga",
+    "R. Fofana",
+    "K. Mizuta",
+    "J. Maja"
+   ],
+   "banquillo": [
+    "L. Maronnier",
+    "I. Gomis",
+    "P. Beach",
+    "T. Nkada",
+    "A. Phliponeau",
+    "H. Picard",
+    "R. Ripart",
+    "Lassana Simakha",
+    "I. Soukouna",
+    "Hakim Dongopandji",
+    "G. Gallon",
+    "E. Jelert",
+    "Lamine N'Diaye",
+    "D. Ouziad",
+    "M. Samatta",
+    "I. Bouneb",
+    "G. Zohouri"
+   ],
+   "equipos": {
+    "110": [
+     {
+      "n": "H. Konaté",
+      "pos": "G"
+     },
+     {
+      "n": "Y. Titi",
+      "pos": "D"
+     },
+     {
+      "n": "A. Monfray",
+      "pos": "D"
+     },
+     {
+      "n": "A. Ouzenadji",
+      "pos": "D"
+     },
+     {
+      "n": "I. Boura",
+      "pos": "D"
+     },
+     {
+      "n": "A. Mille",
+      "pos": "M"
+     },
+     {
+      "n": "D. Karim",
+      "pos": "M"
+     },
+     {
+      "n": "M. Diop",
+      "pos": "M"
+     },
+     {
+      "n": "M. Ifnaoui",
+      "pos": "F"
+     },
+     {
+      "n": "J. Le Douaron",
+      "pos": "F"
+     },
+     {
+      "n": "K. Diawara",
+      "pos": "F"
+     }
+    ],
+    "111": [
+     {
+      "n": "A. Bodart",
+      "pos": "G"
+     },
+     {
+      "n": "V. Sasso",
+      "pos": "D"
+     },
+     {
+      "n": "A. Seko",
+      "pos": "D"
+     },
+     {
+      "n": "A. Touba",
+      "pos": "D"
+     },
+     {
+      "n": "E. Koffi Vinette",
+      "pos": "M"
+     },
+     {
+      "n": "S. Ebonog",
+      "pos": "M"
+     },
+     {
+      "n": "A. Richardson",
+      "pos": "M"
+     },
+     {
+      "n": "J. Mwanga",
+      "pos": "M"
+     },
+     {
+      "n": "R. Fofana",
+      "pos": "M"
+     },
+     {
+      "n": "K. Mizuta",
+      "pos": "M"
+     },
+     {
+      "n": "J. Maja",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570454": {
-   "hora": "2026-11-20T20:06:25.357951+01:00",
+   "hora": "2026-11-20T20:17:17.919275+01:00",
    "xi": [],
    "banquillo": [],
    "equipos": {}

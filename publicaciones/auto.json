@@ -9457,16 +9457,14 @@
   {
     "id": "2026-11-20-loca-th-1600-escudos",
     "fecha": "2026-11-20T16:00",
-    "texto": "🔥 COMBI ESTAC TROYES – LE HAVRE 🔥\n\n⭐ Estac Troyes vs Le Havre · 20:45\n\n✅ 🔫 Rayan Fofana: 2+ tiros\n✅ 🔫 Hugo Picard: 2+ tiros\n✅ 👑 Estac Troyes gana una parte\n✅ 🔁 Ambos marcan\n\n🎯 CUOTA 6,04 aprox. 💎 10€ → 60,40€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥 COMBI ESTAC TROYES – LE HAVRE 🔥\n\n⭐ Estac Troyes vs Le Havre · 20:45\n\n✅ 🔫 Rayan Fofana: 2+ tiros\n✅ 👑 Estac Troyes gana una parte\n✅ 🔁 Ambos marcan\n\n🎯 CUOTA 4,09 aprox. 💎 10€ → 60,40€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1552827|Away Player Shots|Rayan Fofana - 2",
-      "1552827|Home Player Shots|Hugo Picard - 2",
       "1552827|To Win Either Half|Home",
       "1552827|Both Teams Score|Yes"
     ],
     "cuotas": [
       1.4,
-      1.57,
       1.67,
       1.7
     ],
@@ -9488,7 +9486,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-20T14:34"
+    "cuotas_revisadas": "2026-11-20T14:34",
+    "revisado_alineaciones": "2026-11-20T20:17"
   },
   {
     "id": "2026-11-20-loca-th-1630-escudos",
