@@ -9442,7 +9442,14 @@
       "instagram"
     ],
     "enviado": "2026-11-20T21:14",
-    "mensaje_id": 568
+    "mensaje_id": 568,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-20-verde-auto-2026-11-20-pick-tip-1448-e",
@@ -9458,6 +9465,13 @@
       "telegram"
     ],
     "enviado": "2026-11-20T21:22",
-    "mensaje_id": 569
+    "mensaje_id": 569,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
