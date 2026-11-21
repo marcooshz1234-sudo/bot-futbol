@@ -3146,14 +3146,14 @@
   },
   "2026-11-21": {
     "dia": "2026-11-21",
-    "total": 23,
+    "total": 24,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 23,
+      "pendiente": 24,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 23
+      "sin_resolver": 24
     },
     "combis": [
       {
@@ -3293,13 +3293,19 @@
         "titulo": "Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-21-combi-tres",
+        "titulo": "Vamos con la combi del sábado familia 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 110
+      "total": 112
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 41,03 🎰 · 41,03 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14 · pendiente\n⏳ 🧨 LA DE x14,51 🧨 · 14,51 · pendiente\n⏳ 🕘 TODO A LAS 15:30 🕘 · 8,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 8,13 · pendiente\n⏳ 🧨 LA LOCURA DE x40,91 🧨 · 40,91 · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 4,49 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🚨 COMBI CHELSEA – LEEDS 🚨 · 25,22 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🔥 COMBI TOTTENHAM – IPSWICH 🔥 · 13,88 · pendiente\n⏳ 💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥 · 6,27 · pendiente\n⏳ 🔥 COMBI BORUSSIA MÖNCHENGLADBACH – BORUSSIA DORTMUND 🔥 · 14,52 · pendiente\n⏳ Vamos con la combi del día familia 🔥 · pendiente\n⏳ Este lo tenemos claro 🔥 · pendiente\n⏳ Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 23 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 41,03 🎰 · 41,03 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14 · pendiente\n⏳ 🧨 LA DE x14,51 🧨 · 14,51 · pendiente\n⏳ 🕘 TODO A LAS 15:30 🕘 · 8,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 8,13 · pendiente\n⏳ 🧨 LA LOCURA DE x40,91 🧨 · 40,91 · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 4,49 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🚨 COMBI CHELSEA – LEEDS 🚨 · 25,22 · pendiente\n⏳ Pick que nos gusta mucho para hoy 👀 · pendiente\n⏳ 🪜 Reto escalera · Día 1/7 · pendiente\n⏳ 🔥 COMBI TOTTENHAM – IPSWICH 🔥 · 13,88 · pendiente\n⏳ 💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥 · 6,27 · pendiente\n⏳ 🔥 COMBI BORUSSIA MÖNCHENGLADBACH – BORUSSIA DORTMUND 🔥 · 14,52 · pendiente\n⏳ Vamos con la combi del día familia 🔥 · pendiente\n⏳ Este lo tenemos claro 🔥 · pendiente\n⏳ Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐ · pendiente\n⏳ Vamos con la combi del sábado familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 24 sin resolver"
   }
 }
