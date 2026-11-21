@@ -10484,7 +10484,7 @@
       1.4,
       1.4,
       1.53,
-      1.57,
+      1.5,
       1.67
     ],
     "solo_redes": true,
@@ -10504,7 +10504,8 @@
     "cuota_bet365": 5.99,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T07:54"
   },
   {
     "id": "2026-11-21-loca-th-0940-lista-corners",
