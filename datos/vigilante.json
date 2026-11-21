@@ -138,14 +138,6 @@
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
-  },
-  {
-   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
-  },
-  {
    "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
@@ -158,7 +150,15 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
+   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
+  },
+  {
+   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -166,7 +166,7 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
+   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -182,10 +182,6 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
   },
   {
-   "clave": "prensa-1570453-PAubameyang",
-   "t": "📰 Alaves–Deportivo La Coruna: «Aubameyang enciende las alarmas en el Deportivo: molestias en el tobillo a 48 horas del partido ante el Alavés» (Cadena SER) · tenemos 2 post(s) de este partido: loca-th-0700-tapados, loca-th-0940-lista-corners"
-  },
-  {
    "clave": "prensa-1570460-7d5af23c",
    "t": "📰 Rayo Vallecano–Valencia: «Beñat San José, la duda del Rayo Vallecano y de sus rivales en la tabla: \"¿Europa o el descenso? Estamos todos» (Estadio Deportivo) · tenemos 2 post(s) de este partido: loca-th-0800-x500, loca-th-1600-reto"
   },
@@ -198,11 +194,15 @@
    "t": "📰 NEC Nijmegen–PSV Eindhoven: «El Nápoles fija el precio de Kevin De Bruyne tras una oferta a la baja del PSV Eindhoven para enero» (Goal.com) · tenemos 4 post(s) de este partido: loca-th-0800-x500, ganadores-resto, loca-th-1540-ganaambos, loca-th-1600-reto"
   },
   {
+   "clave": "prensa-1570453-PAubameyang",
+   "t": "📰 Alaves–Deportivo La Coruna: «Aubameyang enciende las alarmas en el Deportivo: molestias en el tobillo a 48 horas del partido ante el Alavés» (Cadena SER) · tenemos 1 post(s) de este partido: loca-th-0940-lista-corners"
+  },
+  {
    "clave": "prensa-1557470-01650370",
    "t": "📰 Chelsea–Leeds: «Xabi Alonso confirma que Moi Caicedo está disponible con el Chelsea tras salir con molestias ante Bolivia» (Studiofutbol) · tenemos 1 post(s) de este partido: loca-th-1000-escudos"
   }
  ],
- "revisado": "2026-11-21T06:56",
+ "revisado": "2026-11-21T07:07",
  "historial": [
   {
    "hora": "2026-11-21T03:01",
