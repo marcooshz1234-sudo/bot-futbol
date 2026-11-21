@@ -9651,5 +9651,37 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-21-cuotaza-1647593-dcae0e",
+    "fecha": "2026-11-21T09:03",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Vitória SC – SC Braga · 21:30\n\n🍀 Vitória SC o empate @2,10\n\n👀 Lo normal sería @1,74: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Vitória SC – SC Braga (21:30)\nVitória SC o empate @2,10 en bet365; lo justo según las otras casas es @1,74 (+21%).\n⚠️ Cuotas de hace 7 h: compruébala en bet365 antes.\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1647593|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      2.1
+    ],
+    "cuotaza": {
+      "partido_id": 1647593,
+      "local": "Vitória SC",
+      "visitante": "SC Braga",
+      "inicio": "2026-11-21T21:30",
+      "liga": "Taça de Portugal",
+      "mercado": "Double Chance",
+      "opcion": "Home/Draw",
+      "cuota": 2.1,
+      "justa": 1.74,
+      "ev": 0.209,
+      "fuente": "las otras casas",
+      "edad_h": 6.7,
+      "texto": "Vitória SC o empate"
+    }
   }
 ]

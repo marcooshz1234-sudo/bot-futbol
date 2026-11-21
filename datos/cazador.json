@@ -35,6 +35,12 @@
    "cuota": 2.2,
    "ev": 0.109,
    "post": "2026-11-19-cuotaza-1638297-733bbf"
+  },
+  "1647593|Double Chance|Home/Draw": {
+   "dia": "2026-11-21",
+   "cuota": 2.1,
+   "ev": 0.209,
+   "post": "2026-11-21-cuotaza-1647593-dcae0e"
   }
  },
  "top": [
@@ -47,18 +53,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 6.0
-  },
-  {
-   "local": "Mafra",
-   "visitante": "Arouca",
-   "inicio": "2026-11-21T15:00",
-   "texto": "Mafra o empate",
-   "cuota": 2.1,
-   "justa": 2.04,
-   "ev": 0.029,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 6.7
   },
   {
    "local": "Treviso",
@@ -69,7 +64,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Atlético CP",
@@ -80,7 +75,18 @@
    "justa": 1.79,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
+  },
+  {
+   "local": "Treviso",
+   "visitante": "Pergolettese",
+   "inicio": "2026-11-21T14:30",
+   "texto": "Pergolettese marca",
+   "cuota": 1.8,
+   "justa": 1.8,
+   "ev": -0.001,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Atlético CP",
@@ -91,7 +97,7 @@
    "justa": 2.1,
    "ev": -0.001,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Granada",
@@ -102,18 +108,7 @@
    "justa": 1.8,
    "ev": -0.002,
    "fuente": "las otras casas",
-   "edad_h": 6.0
-  },
-  {
-   "local": "Treviso",
-   "visitante": "Pergolettese",
-   "inicio": "2026-11-21T14:30",
-   "texto": "Pergolettese marca",
-   "cuota": 1.8,
-   "justa": 1.81,
-   "ev": -0.004,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 6.7
   },
   {
    "local": "Estoril",
@@ -124,11 +119,22 @@
    "justa": 1.81,
    "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 6.0
+   "edad_h": 6.8
+  },
+  {
+   "local": "Edf Logrono W",
+   "visitante": "Deportivo Alavés W",
+   "inicio": "2026-11-21T19:00",
+   "texto": "Ambos marcan en Edf Logrono W–Deportivo Alavés W",
+   "cuota": 1.8,
+   "justa": 1.81,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 6.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T08:15",
+  "hora": "2026-11-21T09:03",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1647593,
@@ -142,7 +148,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 6.0,
+   "edad_h": 6.7,
    "texto": "Vitória SC o empate"
   }
  },
@@ -170,6 +176,10 @@
   {
    "hora": "2026-11-19T18:36",
    "t": "Más de 3,5 goles en la 2ª parte del Barcelona W–Servette Chênois W @2,20 (justa 1,98, +11%)"
+  },
+  {
+   "hora": "2026-11-21T09:03",
+   "t": "Vitória SC o empate @2,10 (justa 1,74, +21%)"
   }
  ]
 }

@@ -10553,11 +10553,11 @@
     ],
     "cuotas": [
       1.4,
-      1.44,
-      1.44,
-      1.44,
+      1.53,
       1.5,
-      1.5,
+      1.4,
+      1.53,
+      1.44,
       2.0
     ],
     "solo_redes": true,
@@ -10577,7 +10577,8 @@
     "cuota_bet365": 25.22,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T09:00"
   },
   {
     "id": "2026-11-21-pick-seguro",

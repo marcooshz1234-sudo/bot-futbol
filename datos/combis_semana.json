@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T08:20+01:00",
+ "generado": "2026-11-21T09:02+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -1613,38 +1613,6 @@
    "cuota": 3.9
   },
   {
-   "equipo": "Paris Saint Germain",
-   "liga": "Ligue 1",
-   "partido": "Nice–Paris Saint Germain",
-   "hora": "2026-11-21T17:15",
-   "logo": "https://media.api-sports.io/football/teams/85.png",
-   "patas": [
-    {
-     "sel": "1552824|Away Player Shots|Achraf Hakimi - 2",
-     "texto": "Achraf Hakimi: 2+ remates",
-     "cuota": 1.57,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
-     "nota": 0.8502500000000002,
-     "equipo": "Paris Saint Germain",
-     "lado": "V",
-     "partido": "Nice–Paris Saint Germain",
-     "hora": "2026-11-21T17:15"
-    },
-    {
-     "sel": "1552824|Match Winner|Away",
-     "texto": "Gana Paris Saint Germain",
-     "cuota": 1.45,
-     "p": 0.747,
-     "dato": "Paris Saint Germain: VVVVV en sus últimos 5",
-     "nota": 0.7785318503898004,
-     "partido": "Nice–Paris Saint Germain",
-     "hora": "2026-11-21T17:15"
-    }
-   ],
-   "cuota": 2.28
-  },
-  {
    "equipo": "Stade Brestois 29",
    "liga": "Ligue 1",
    "partido": "Strasbourg–Stade Brestois 29",
@@ -2223,19 +2191,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1552824|Match Winner|Away",
-     "texto": "Gana Paris Saint Germain",
-     "cuota": 1.45,
-     "p": 0.728,
-     "dato": "Paris Saint Germain: VVVVV en sus últimos 5 · fuera",
-     "nota": 0.7555729577311315,
-     "lado": "V",
+     "sel": "1550201|Match Winner|Home",
+     "texto": "Gana Juventus",
+     "cuota": 1.36,
+     "p": 0.666,
+     "dato": "Juventus: VEDVV en sus últimos 5 · en casa",
+     "nota": 0.6191086303201756,
+     "lado": "L",
      "ganador": true,
-     "partido": "Nice–Paris Saint Germain",
-     "hora": "2026-11-21T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/84.png",
-     "logo_v": "https://media.api-sports.io/football/teams/85.png"
+     "partido": "Juventus–Venezia",
+     "hora": "2026-11-22T12:30",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/496.png",
+     "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
      "sel": "1570455|Match Winner|Home",
@@ -2313,8 +2281,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 5.93,
-   "prob": 0.172
+   "cuota": 5.56,
+   "prob": 0.158
   },
   {
    "clave": "ganan-larga",
@@ -2322,51 +2290,6 @@
    "expl": "Todos los favoritos claros, hasta 12 (puede llevar los de la de arriba)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1575222|Match Winner|Home",
-     "texto": "Gana Bayer Leverkusen",
-     "cuota": 1.27,
-     "p": 0.645,
-     "dato": "Bayer Leverkusen: DDVVV en sus últimos 5 · en casa",
-     "nota": 0.55443548276758,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Bayer Leverkusen–SC Paderborn 07",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/168.png",
-     "logo_v": "https://media.api-sports.io/football/teams/185.png"
-    },
-    {
-     "sel": "1552824|Match Winner|Away",
-     "texto": "Gana Paris Saint Germain",
-     "cuota": 1.45,
-     "p": 0.728,
-     "dato": "Paris Saint Germain: VVVVV en sus últimos 5 · fuera",
-     "nota": 0.7555729577311315,
-     "lado": "V",
-     "ganador": true,
-     "partido": "Nice–Paris Saint Germain",
-     "hora": "2026-11-21T17:15",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/84.png",
-     "logo_v": "https://media.api-sports.io/football/teams/85.png"
-    },
-    {
-     "sel": "1552823|Match Winner|Home",
-     "texto": "Gana Monaco",
-     "cuota": 1.42,
-     "p": 0.68,
-     "dato": "Monaco: VEVEV en sus últimos 5 · en casa",
-     "nota": 0.6632745859013114,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Monaco–Auxerre",
-     "hora": "2026-11-21T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/91.png",
-     "logo_v": "https://media.api-sports.io/football/teams/108.png"
-    },
     {
      "sel": "1550201|Match Winner|Home",
      "texto": "Gana Juventus",
@@ -2503,8 +2426,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 55.74,
-   "prob": 0.012
+   "cuota": 21.32,
+   "prob": 0.038
   },
   {
    "clave": "top",
