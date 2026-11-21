@@ -9896,7 +9896,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-21-pick-seguro",
     "enviado": "2026-11-21T21:44",
-    "mensaje_id": 583
+    "mensaje_id": 583,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-21-verde-auto-2026-11-21-escalera",
@@ -9930,7 +9937,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-21-pick-seguro-3",
     "enviado": "2026-11-21T21:54",
-    "mensaje_id": 584
+    "mensaje_id": 584,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-21-verde-auto-2026-11-21-pick-seguro-4",
