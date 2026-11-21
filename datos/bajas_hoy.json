@@ -9543,12 +9543,6 @@
    },
    {
     "equipo": 517,
-    "jugador": "M. Sverko",
-    "tipo": "Missing Fixture",
-    "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 517,
     "jugador": "A. Adorante",
     "tipo": "Questionable",
     "motivo": "Hernia"
@@ -9564,6 +9558,12 @@
     "jugador": "P. Mazzocchi",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "M. Sverko",
+    "tipo": "Questionable",
+    "motivo": "Hip Injury"
    }
   ],
   "1608378": [],
@@ -10502,7 +10502,7 @@
   "1570026": [],
   "1647592": []
  },
- "ultima": "2026-11-21T21:18:49.694152+01:00",
+ "ultima": "2026-11-21T21:49:25.780247+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
