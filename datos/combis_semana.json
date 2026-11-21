@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T21:23+01:00",
+ "generado": "2026-11-21T21:54+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -336,38 +336,6 @@
     }
    ],
    "cuota": 2.16
-  },
-  {
-   "equipo": "Hull City",
-   "liga": "Premier League",
-   "partido": "Hull City–Brighton",
-   "hora": "2026-11-22T15:00",
-   "logo": "https://media.api-sports.io/football/teams/64.png",
-   "patas": [
-    {
-     "sel": "1557472|Player Fouls Committed|Mohamed Belloumi - 1",
-     "texto": "Mohamed Belloumi: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,48 por 90' (2-1-0-1-3-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Hull City",
-     "lado": "L",
-     "partido": "Hull City–Brighton",
-     "hora": "2026-11-22T15:00"
-    },
-    {
-     "sel": "1557472|Total - Home|Over 0.5",
-     "texto": "Hull City marca",
-     "cuota": 1.57,
-     "p": 0.749,
-     "dato": "marca 1,4 por partido y el rival encaja 1,0",
-     "nota": 0.8236841658683596,
-     "partido": "Hull City–Brighton",
-     "hora": "2026-11-22T15:00"
-    }
-   ],
-   "cuota": 2.35
   },
   {
    "equipo": "Brentford",
@@ -1563,19 +1531,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
     },
     {
-     "sel": "1557472|Total - Home|Over 0.5",
-     "texto": "Hull City marca",
-     "cuota": 1.57,
-     "p": 0.749,
-     "dato": "marca 1,4 por partido y el rival encaja 1,0",
-     "nota": 0.8236841658683596,
-     "partido": "Hull City–Brighton",
-     "hora": "2026-11-22T15:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/64.png",
-     "logo_v": "https://media.api-sports.io/football/teams/51.png"
-    },
-    {
      "sel": "1575224|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
      "cuota": 1.57,
@@ -1613,10 +1568,23 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/209.png",
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
+    },
+    {
+     "sel": "1635713|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.5,
+     "p": 0.683,
+     "dato": "2,4 goles de media en las segundas partes de los dos",
+     "nota": 0.6948090876057422,
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     }
    ],
-   "cuota": 8.39,
-   "prob": 0.213
+   "cuota": 8.01,
+   "prob": 0.194
   },
   {
    "clave": "larga",
@@ -1737,23 +1705,10 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/55.png",
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
-    {
-     "sel": "1635713|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte",
-     "cuota": 1.5,
-     "p": 0.683,
-     "dato": "2,4 goles de media en las segundas partes de los dos",
-     "nota": 0.6948090876057422,
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     }
    ],
-   "cuota": 32.71,
-   "prob": 0.067
+   "cuota": 21.81,
+   "prob": 0.098
   }
  ],
  "otras_ligas": false,
