@@ -10120,9 +10120,197 @@
     "motivo": "Inactive"
    }
   ],
-  "1573650": []
+  "1573650": [],
+  "1552821": [
+   {
+    "equipo": 97,
+    "jugador": "B. Fadiga",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 97,
+    "jugador": "P. Katseris",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 97,
+    "jugador": "I. Toure",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 94,
+    "jugador": "P. Frankowski",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1557473": [
+   {
+    "equipo": 40,
+    "jugador": "C. Bradley",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 40,
+    "jugador": "H. Ekitike",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 40,
+    "jugador": "G. Leoni",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 40,
+    "jugador": "A. Nallo",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "C. Baleba",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "B. Sesko",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "M. Ugarte",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "K. Darlow",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "A. Heaven",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "S. Lacey",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "M. Rashford",
+    "tipo": "Questionable",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 33,
+    "jugador": "L. Shaw",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1575227": [
+   {
+    "equipo": 162,
+    "jugador": "S. Musah",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "J. Stage",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "K. Topp",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "F. Agu",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "S. Alvero",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "M. Grull",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "S. Lynen",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 162,
+    "jugador": "M. N'Diaye",
+    "tipo": "Questionable",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "A. S. Lokonga",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "Y. Poulsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "N. Remberg",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "J. Torunarigha",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "B. Nadir",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "M. Vuskovic",
+    "tipo": "Questionable",
+    "motivo": "Back Injury"
+   }
+  ],
+  "1608374": [],
+  "1608373": []
  },
- "ultima": "2026-11-21T11:06:06.677660+01:00",
+ "ultima": "2026-11-21T11:37:08.073045+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
