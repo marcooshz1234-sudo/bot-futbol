@@ -10538,23 +10538,19 @@
   {
     "id": "2026-11-21-loca-th-1000-escudos",
     "fecha": "2026-11-21T10:00",
-    "texto": "🚨 COMBI CHELSEA – LEEDS 🚨\n\n⭐ Chelsea vs Leeds · 16:00\n\n✅ 🎯 Pedro Neto: 2+ tiros\n✅ 🎯 Cole Palmer: 3+ tiros\n✅ 🎯 Emanuel Emegha: 3+ tiros\n✅ 💥 Leeds marca\n✅ ⚡ Chelsea gana una parte\n✅ 🎯 Lukas Nmecha: 2+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Chelsea–Leeds\n\n🎯 CUOTA 25,22 aprox. 💎 10€ → 252€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🚨 COMBI CHELSEA – LEEDS 🚨\n\n⭐ Chelsea vs Leeds · 16:00\n\n✅ 🎯 Cole Palmer: 3+ tiros\n✅ 🎯 Emanuel Emegha: 3+ tiros\n✅ 💥 Leeds marca\n✅ ⚡ Chelsea gana una parte\n✅ 🔥 +1,5 goles en la 2ª parte del Chelsea–Leeds\n\n🎯 CUOTA 10,49 aprox. 💎 10€ → 252€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
-      "1557470|Home Player Shots|Pedro Neto - 2",
       "1557470|Home Player Shots|Cole Palmer - 3",
       "1557470|Home Player Shots|Emanuel Emegha - 3",
       "1557470|Total - Away|Over 0.5",
       "1557470|To Win Either Half|Home",
-      "1557470|Away Player Shots|Lukas Nmecha - 2",
       "1557470|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4,
       1.53,
       1.5,
       1.4,
       1.53,
-      1.44,
       2.0
     ],
     "solo_redes": true,
@@ -10575,7 +10571,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-21T09:00"
+    "cuotas_revisadas": "2026-11-21T09:00",
+    "revisado_alineaciones": "2026-11-21T15:34"
   },
   {
     "id": "2026-11-21-pick-seguro",
@@ -11111,12 +11108,12 @@
       "1550204|Anytime Goal Scorer|Rasmus Hojlund"
     ],
     "cuotas": [
-      1.4,
+      1.44,
       1.48,
-      1.5,
-      1.5,
-      1.53,
       1.57,
+      1.57,
+      1.53,
+      1.67,
       1.83,
       2.1
     ],
@@ -11137,7 +11134,8 @@
     "cuota_bet365": 14.2,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T15:34"
   },
   {
     "id": "2026-11-21-loca-th-1720-escudos",
