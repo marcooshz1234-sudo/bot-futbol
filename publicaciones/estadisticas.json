@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-11-21 23:51",
+ "actualizado": "2026-11-22 00:02",
  "redes": {
   "instagram": {
    "seguidores": 55,
-   "hoy": 2,
+   "hoy": 0,
    "serie": [
-    41,
     44,
     48,
     51,
     52,
     53,
+    55,
     55
    ]
   },
   "threads": {
-   "seguidores": 3475,
-   "hoy": 227,
+   "seguidores": 3477,
+   "hoy": 2,
    "serie": [
-    2792,
     3009,
     3160,
     3215,
     3230,
     3248,
-    3475
+    3475,
+    3477
    ]
   },
   "facebook": {
@@ -41,31 +41,28 @@
    ]
   },
   "telegram": {
-   "seguidores": 496,
-   "hoy": 6,
+   "seguidores": 497,
+   "hoy": 1,
    "serie": [
-    411,
     439,
     471,
     479,
     485,
     490,
-    496
+    496,
+    497
    ]
   }
  },
- "total": 4027,
- "total_hoy": 235,
+ "total": 4030,
+ "total_hoy": 3,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "01:00",
   "dia": "2026-11-22",
-  "titulo": "Laliga - ganadores"
+  "titulo": "Serie a - ganadores"
  },
- "ayer": {
-  "aciertos": 3,
-  "total": 4
- },
+ "ayer": null,
  "escalera": {
   "dia": 1,
   "de": 7,
@@ -249,11 +246,17 @@
    "threads": 3475,
    "facebook": 1,
    "telegram": 496
+  },
+  "2026-11-22": {
+   "instagram": 55,
+   "threads": 3477,
+   "facebook": 1,
+   "telegram": 497
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 45,
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -283,7 +286,7 @@
    "comentarios_media": 0.0
   },
   "Otros": {
-   "posts": 2,
+   "posts": 1,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   }

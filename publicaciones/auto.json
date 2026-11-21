@@ -13778,5 +13778,1091 @@
     "cuota_total": 5.59,
     "cuota_calculada": true,
     "cuotas_revisadas": "2026-11-21T22:05"
+  },
+  {
+    "id": "2026-11-22-loca-th-0020-x100",
+    "fecha": "2026-11-22T00:20",
+    "texto": "🎰 COMBI POR 46,78 🎰\n\n🇮🇹 Juventus–Venezia 12:30\n✅ 🦵 Kike Perez comete 2+ faltas\n🇮🇹 Sassuolo–Genoa 15:00\n✅ 🏆 Genoa gana una parte\n🇫🇷 Paris FC–Angers 15:00\n✅ 🚀 Angers marca\n🇪🇸 Racing Santander–Real Sociedad 16:15\n✅ 🔒 Racing Santander o empate\n🇩🇪 Werder Bremen–Hamburger SV 17:30\n✅ 🦵 David Wolfe comete 1+ faltas\n🇮🇹 AC Milan–Frosinone 18:00\n✅ 🔥 AC Milan marca en las dos partes\n🇫🇷 Marseille–Le Mans 20:45\n✅ 🎭 Ambos marcan\n\n🎯 CUOTA 46,78 💎 10€ → 468€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1550201|Player Fouls Committed|Kike Perez - 2",
+      "1550206|To Win Either Half|Away",
+      "1552825|Total - Away|Over 0.5",
+      "1570459|Double Chance|Home/Draw",
+      "1575227|Player Fouls Committed|David Wolfe - 1",
+      "1550197|To Score In Both Halves By Teams|Home",
+      "1552822|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.62,
+      1.8,
+      1.8,
+      1.8,
+      1.62,
+      1.83,
+      1.67
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 46.78,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-0040-ganaambos",
+    "fecha": "2026-11-22T00:40",
+    "texto": "💥🏆 GANA Y AMBOS MARCAN 💥🏆\n\n🇪🇸 Barcelona – Villarreal · 14:00\n↔️ Gana Barcelona y ambos marcan\n\n🇮🇹 AC Milan – Frosinone · 18:00\n↔️ Gana AC Milan y ambos marcan\n\n🇮🇹 Atalanta – Inter · 20:45\n↔️ Gana Inter y ambos marcan\n\n🇫🇷 Marseille – Le Mans · 20:45\n↔️ Gana Marseille y ambos marcan\n\n🎯 CUOTA 35,12 💎 · 10€ → 351€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1570455|Results/Both Teams Score|Home/Yes",
+      "1550197|Results/Both Teams Score|Home/Yes",
+      "1550198|Results/Both Teams Score|Away/Yes",
+      "1552822|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      1.95,
+      2.5,
+      2.62,
+      2.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 35.12,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/529.png",
+          "nombre": "Barcelona",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
+          "nombre": "AC Milan",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
+          "nombre": "Inter",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
+          "nombre": "Marseille",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-22-loca-th-0300-lista-ambos",
+    "fecha": "2026-11-22T03:00",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇪🇸 Barcelona–Villarreal ➜ Ambos marcan @1,44\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hull City–Brighton ➜ Ambos marcan @1,80\n3. 🇮🇹 Bologna–Udinese ➜ Ambos marcan @1,80\n4. 🇮🇹 Sassuolo–Genoa ➜ Ambos marcan @1,70\n5. 🇫🇷 Lorient–Rennes ➜ Ambos marcan @1,70\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Manchester United ➜ Ambos marcan @1,50\n7. 🇩🇪 Werder Bremen–Hamburger SV ➜ Ambos marcan @1,57\n8. 🇮🇹 AC Milan–Frosinone ➜ Ambos marcan @1,44\n9. 🇪🇸 Osasuna–Malaga ➜ Ambos marcan @1,91\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1570455|Both Teams Score|Yes",
+      "1550199|Both Teams Score|Yes",
+      "1550206|Both Teams Score|Yes",
+      "1557472|Both Teams Score|Yes",
+      "1552821|Both Teams Score|Yes",
+      "1557473|Both Teams Score|Yes",
+      "1575227|Both Teams Score|Yes",
+      "1550197|Both Teams Score|Yes",
+      "1570458|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.44,
+      1.8,
+      1.7,
+      1.8,
+      1.7,
+      1.5,
+      1.57,
+      1.44,
+      1.91
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-0400-duelo",
+    "fecha": "2026-11-22T04:00",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Juventus vs Venezia · 12:30\n\n💨 Jeremie Boga: 3+ tiros (Juventus)\n💨 John Yeboah: 2+ tiros (Venezia)\n\n🎯 CUOTA 2,05 aprox. 💎 · 10€ → 20,50€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1550201|Home Player Shots|Jeremie Boga - 3",
+      "1550201|Away Player Shots|John Yeboah - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.05,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-22-loca-th-0500-x50",
+    "fecha": "2026-11-22T05:00",
+    "texto": "💰🚀 LA DE x25,70 💰🚀\n\n🇮🇹 Bologna–Udinese 15:00\n✅ ⚽ Udinese marca\n🇮🇹 Sassuolo–Genoa 15:00\n✅ 🦵 Mikael Egill Ellertsson comete 1+ faltas\n🇪🇸 Racing Santander–Real Sociedad 16:15\n✅ 🦵 Pablo Ramon comete 1+ faltas · ✅ 📈 +1,5 goles en la 2ª parte del Racing Santander–Real Sociedad\n🇫🇷 Lorient–Rennes 17:15\n✅ 🧱 Lorient o empate\n🇩🇪 Werder Bremen–Hamburger SV 17:30\n✅ ⚽ Werder Bremen marca 2+\n🇪🇸 Osasuna–Malaga 18:30\n✅ ⚽ Malaga marca\n\n🎯 CUOTA 25,70 aprox. 💎 10€ → 257€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550199|Total - Away|Over 0.5",
+      "1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1",
+      "1570459|Player Fouls Committed|Pablo Ramon - 1",
+      "1570459|Goals Over/Under - Second Half|Over 1.5",
+      "1552821|Double Chance|Home/Draw",
+      "1575227|Total - Home|Over 1.5",
+      "1570458|Total - Away|Over 0.5"
+    ],
+    "cuotas": [
+      1.53,
+      1.62,
+      1.83,
+      1.53,
+      1.53,
+      1.53,
+      1.53
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 25.7,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-0600-hora",
+    "fecha": "2026-11-22T06:00",
+    "texto": "🕘 TODO A LAS 15:00 🕘\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hull City – Brighton ➜ 🎯 Yasin Ayari: 2+ tiros\n🇮🇹 Bologna – Udinese ➜ 👑 Bologna gana alguna de las dos partes\n🇮🇹 Sassuolo – Genoa ➜ 🦵 Mikael Egill Ellertsson comete 1+ faltas\n🇫🇷 Paris FC – Angers ➜ 🎯 Jean-Philippe Krasso: 3+ tiros\n\n🎯 CUOTA 4,45 💎 · 10€ → 44,50€\n\n⏳ Todo se decide a la vez 🔥",
+    "sel": [
+      "1550199|To Win Either Half|Home",
+      "1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1",
+      "1552825|Home Player Shots|Jean-Philippe Krasso - 3",
+      "1557472|Away Player Shots|Yasin Ayari - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.62,
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 4.45,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-0700-tapados",
+    "fecha": "2026-11-22T07:00",
+    "texto": "🕵️ LA DE LOS TAPADOS 🕵️\n\nHoy vamos con los que nadie ve 👀\n\n🇮🇹 Bologna – Udinese ➜ ✅ ⚖️ Udinese o empate @2,10\n🇪🇸 Racing Santander – Real Sociedad ➜ ✅ ⚖️ Racing Santander o empate @1,80\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool – Manchester United ➜ ✅ ⚖️ Manchester United o empate @2,15\n🇪🇸 Osasuna – Malaga ➜ ✅ ⚖️ Malaga o empate @1,95\n\n🎯 CUOTA 15,85 💎 · 10€ → 158€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1550199|Double Chance|Draw/Away",
+      "1570459|Double Chance|Home/Draw",
+      "1557473|Double Chance|Draw/Away",
+      "1570458|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      2.1,
+      1.8,
+      2.15,
+      1.95
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 15.85,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "LA DE LOS TAPADOS",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/494.png",
+          "nombre": "Udinese",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/4665.png",
+          "nombre": "Racing Santander",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/33.png",
+          "nombre": "Manchester United",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/535.png",
+          "nombre": "Malaga",
+          "pick": "O EMPATE",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-22-loca-th-0800-escudos",
+    "fecha": "2026-11-22T08:00",
+    "texto": "🔥 COMBI JUVENTUS – VENEZIA 🔥\n\n⭐ Juventus vs Venezia · 12:30\n\n🦵 Kike Perez comete 2+ faltas\n🦵 Bremer comete 1+ faltas\n🔫 Akor Adams: 2+ tiros\n🔫 John Yeboah: 2+ tiros\n🚀 Juventus marca 2+\n🔥 +1,5 goles en la 2ª parte del Juventus–Venezia\n🚀 Jeremie Boga marca\n\n🎯 CUOTA 9,52 aprox. 💎 10€ → 95,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550201|Player Fouls Committed|Kike Perez - 2",
+      "1550201|Player Fouls Committed|Bremer - 1",
+      "1550201|Away Player Shots|Akor Adams - 2",
+      "1550201|Away Player Shots|John Yeboah - 2",
+      "1550201|Total - Home|Over 1.5",
+      "1550201|Goals Over/Under - Second Half|Over 1.5",
+      "1550201|Anytime Goal Scorer|Jeremie Boga"
+    ],
+    "cuotas": [
+      1.62,
+      1.44,
+      1.5,
+      1.44,
+      1.44,
+      1.83,
+      2.05
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Juventus",
+      "visitante": "Venezia",
+      "id_l": 496,
+      "id_v": 517,
+      "logo_l": "https://media.api-sports.io/football/teams/496.png",
+      "logo_v": "https://media.api-sports.io/football/teams/517.png",
+      "fecha": "2026-11-22T12:30",
+      "liga": "Serie A"
+    },
+    "cuota_total": 9.52,
+    "cuota_calculada": true,
+    "cuota_bet365": 9.52,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-22-loca-th-0900-x500",
+    "fecha": "2026-11-22T09:00",
+    "texto": "🧨 LA LOCURA DE x83,47 🧨\n\n🇮🇹 Sassuolo–Genoa 15:00\n🦁 Sassuolo gana una parte\n🇪🇸 Racing Santander–Real Sociedad 16:15\n🦁 Racing Santander gana una parte · 🎯 Orri Steinn Oskarsson marca\n🇩🇪 Werder Bremen–Hamburger SV 17:30\n🎯 Niclas Fullkrug marca\n🇮🇹 AC Milan–Frosinone 18:00\n📈 AC Milan marca en las dos partes\n🇮🇹 Atalanta–Inter 20:45\n📈 Inter marca en las dos partes\n🇫🇷 Marseille–Le Mans 20:45\n📈 Marseille marca en las dos partes\n\n🎯 CUOTA 83,47 aprox. 💎 10€ → 835€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1550206|To Win Either Half|Home",
+      "1570459|To Win Either Half|Home",
+      "1570459|Anytime Goal Scorer|Orri Steinn Oskarsson",
+      "1575227|Anytime Goal Scorer|Niclas Fullkrug",
+      "1550197|To Score In Both Halves By Teams|Home",
+      "1550198|To Score In Both Halves By Teams|Away",
+      "1552822|To Score In Both Halves By Teams|Home"
+    ],
+    "cuotas": [
+      1.83,
+      1.91,
+      1.95,
+      2.0,
+      1.83,
+      2.0,
+      2.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 83.47,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-0920-lista-corners",
+    "fecha": "2026-11-22T09:20",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇮🇹 Juventus–Venezia ➜ Venezia más de 2,5 córners @1,62\n2. 🇪🇸 Barcelona–Villarreal ➜ +10,5 córners @1,73\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hull City–Brighton ➜ Brighton más córners @1,40\n4. 🇮🇹 Bologna–Udinese ➜ Bologna más córners @1,57\n5. 🇮🇹 Sassuolo–Genoa ➜ Genoa más de 3,5 córners @1,67\n6. 🇫🇷 Paris FC–Angers ➜ Angers más de 2,5 córners @1,62\n7. 🇩🇪 FC Augsburg–FSV Mainz 05 ➜ FSV Mainz 05 más de 4,5 córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550201|Away Corners Over/Under|Over 2.5",
+      "1570455|Corners Over Under|Over 10.5",
+      "1550199|Corners 1x2|Home",
+      "1550206|Away Corners Over/Under|Over 3.5",
+      "1552825|Away Corners Over/Under|Over 2.5",
+      "1557472|Corners 1x2|Away",
+      "1575224|Away Corners Over/Under|Over 4.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.73,
+      1.57,
+      1.67,
+      1.62,
+      1.4,
+      1.67
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-0940-empates",
+    "fecha": "2026-11-22T09:40",
+    "texto": "😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨\n\n🇮🇹 Sassuolo – Genoa · 15:00 ➜ ✅ 🤝 Empate @3,30\n🇫🇷 Lorient – Rennes · 17:15 ➜ ✅ 🤝 Empate @3,50\n🇪🇸 Osasuna – Malaga · 18:30 ➜ ✅ 🤝 Empate @3,60\n\n🎯 CUOTA 41,58 💎 · 10€ → 416€\n\n😮‍💨 Para valientes 😮‍💨",
+    "sel": [
+      "1550206|Match Winner|Draw",
+      "1552821|Match Winner|Draw",
+      "1570458|Match Winner|Draw"
+    ],
+    "cuotas": [
+      3.3,
+      3.5,
+      3.6
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 41.58,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1000-ganaambos",
+    "fecha": "2026-11-22T10:00",
+    "texto": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool – Manchester United · 17:30\n🎭 Gana Liverpool y ambos marcan\n\n🇮🇹 AC Milan – Frosinone · 18:00\n🎭 Gana AC Milan y ambos marcan\n\n🇮🇹 Atalanta – Inter · 20:45\n🎭 Gana Inter y ambos marcan\n\n🇫🇷 Marseille – Le Mans · 20:45\n🎭 Gana Marseille y ambos marcan\n\n🎯 CUOTA 51,88 💎 · 10€ → 519€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1557473|Results/Both Teams Score|Home/Yes",
+      "1550197|Results/Both Teams Score|Home/Yes",
+      "1550198|Results/Both Teams Score|Away/Yes",
+      "1552822|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      2.88,
+      2.5,
+      2.62,
+      2.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 51.88,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/40.png",
+          "nombre": "Liverpool",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
+          "nombre": "AC Milan",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
+          "nombre": "Inter",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
+          "nombre": "Marseille",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-22-loca-th-1100-escudos",
+    "fecha": "2026-11-22T11:00",
+    "texto": "⚡ COMBI HULL CITY – BRIGHTON ⚡\n\n⭐ Hull City vs Brighton · 15:00\n\n✅ 🎯 Yasin Ayari: 2+ tiros\n✅ 💪 Gana el Brighton\n✅ 🎯 Mohamed Belloumi: 2+ tiros\n✅ ☄️ Brighton marca 2+\n\n🎯 CUOTA 4,46 aprox. 💎 10€ → 44,60€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1557472|Away Player Shots|Yasin Ayari - 2",
+      "1557472|Match Winner|Away",
+      "1557472|Home Player Shots|Mohamed Belloumi - 2",
+      "1557472|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.5,
+      1.5,
+      1.53
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Hull City",
+      "visitante": "Brighton",
+      "id_l": 64,
+      "id_v": 51,
+      "logo_l": "https://media.api-sports.io/football/teams/64.png",
+      "logo_v": "https://media.api-sports.io/football/teams/51.png",
+      "fecha": "2026-11-22T15:00",
+      "liga": "Premier League"
+    },
+    "cuota_total": 4.46,
+    "cuota_calculada": true,
+    "cuota_bet365": 4.46,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1120-escudos",
+    "fecha": "2026-11-22T11:20",
+    "texto": "⚡ COMBI SASSUOLO – GENOA ⚡\n\n⭐ Sassuolo vs Genoa · 15:00\n\n🦵 Mikael Egill Ellertsson comete 1+ faltas\n💨 Sebastiano Esposito: 2+ tiros\n🤝 Genoa o empate\n🌋 +1,5 goles en la 2ª parte del Sassuolo–Genoa\n\n🎯 CUOTA 8,02 aprox. 💎 10€ → 80,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1",
+      "1550206|Home Player Shots|Sebastiano Esposito - 2",
+      "1550206|Double Chance|Draw/Away",
+      "1550206|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.4,
+      1.44,
+      2.0
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Sassuolo",
+      "visitante": "Genoa",
+      "id_l": 488,
+      "id_v": 495,
+      "logo_l": "https://media.api-sports.io/football/teams/488.png",
+      "logo_v": "https://media.api-sports.io/football/teams/495.png",
+      "fecha": "2026-11-22T15:00",
+      "liga": "Serie A"
+    },
+    "cuota_total": 8.02,
+    "cuota_calculada": true,
+    "cuota_bet365": 8.02,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1140-escudos",
+    "fecha": "2026-11-22T11:40",
+    "texto": "🚨 COMBI LORIENT – RENNES 🚨\n\n⭐ Lorient vs Rennes · 17:15\n\n✅ 🧱 Rennes o empate\n✅ 🏹 Isak Jensen: 2+ tiros\n✅ 🏹 Jean-Victor Makengo: 2+ tiros\n✅ 🌋 +1,5 goles en la 2ª parte del Lorient–Rennes\n\n🎯 CUOTA 7,18 aprox. 💎 10€ → 71,80€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552821|Double Chance|Draw/Away",
+      "1552821|Home Player Shots|Isak Jensen - 2",
+      "1552821|Home Player Shots|Jean-Victor Makengo - 2",
+      "1552821|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.4,
+      1.44,
+      1.5,
+      2.0
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Lorient",
+      "visitante": "Rennes",
+      "id_l": 97,
+      "id_v": 94,
+      "logo_l": "https://media.api-sports.io/football/teams/97.png",
+      "logo_v": "https://media.api-sports.io/football/teams/94.png",
+      "fecha": "2026-11-22T17:15",
+      "liga": "Ligue 1"
+    },
+    "cuota_total": 7.18,
+    "cuota_calculada": true,
+    "cuota_bet365": 7.18,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1200-escudos",
+    "fecha": "2026-11-22T12:00",
+    "texto": "💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥\n\n⭐ Racing Santander vs Real Sociedad · 16:15\n\n🦵 Pablo Ramon comete 1+ faltas\n🔫 Jorge Salinas: 1+ tiros\n🥇 Real Sociedad gana una parte\n🚀 Real Sociedad marca 2+\n\n🎯 CUOTA 6,42 aprox. 💎 10€ → 64,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570459|Player Fouls Committed|Pablo Ramon - 1",
+      "1570459|Home Player Shots|Jorge Salinas - 1",
+      "1570459|To Win Either Half|Away",
+      "1570459|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      1.83,
+      1.62,
+      1.5,
+      1.53
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Racing Santander",
+      "visitante": "Real Sociedad",
+      "id_l": 4665,
+      "id_v": 548,
+      "logo_l": "https://media.api-sports.io/football/teams/4665.png",
+      "logo_v": "https://media.api-sports.io/football/teams/548.png",
+      "fecha": "2026-11-22T16:15",
+      "liga": "La Liga"
+    },
+    "cuota_total": 6.42,
+    "cuota_calculada": true,
+    "cuota_bet365": 6.42,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-22-loca-th-1300-escudos",
+    "fecha": "2026-11-22T13:00",
+    "texto": "⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡\n\n⭐ Werder Bremen vs Hamburger SV · 17:30\n\n✅ 🦵 David Wolfe comete 1+ faltas\n✅ 🎳 Miro Muheim: 1+ tiros\n✅ ⚽ Hamburger SV marca\n✅ ⚡ Gana el Werder Bremen\n\n🎯 CUOTA 8,06 aprox. 💎 10€ → 80,60€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1575227|Player Fouls Committed|David Wolfe - 1",
+      "1575227|Away Player Shots|Miro Muheim - 1",
+      "1575227|Total - Away|Over 0.5",
+      "1575227|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.62,
+      1.53,
+      1.4,
+      1.62
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Werder Bremen",
+      "visitante": "Hamburger SV",
+      "id_l": 162,
+      "id_v": 175,
+      "logo_l": "https://media.api-sports.io/football/teams/162.png",
+      "logo_v": "https://media.api-sports.io/football/teams/175.png",
+      "fecha": "2026-11-22T17:30",
+      "liga": "Bundesliga"
+    },
+    "cuota_total": 8.06,
+    "cuota_calculada": true,
+    "cuota_bet365": 8.06,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1400-escudos",
+    "fecha": "2026-11-22T14:00",
+    "texto": "💥 COMBI AC MILAN – FROSINONE 💥\n\n⭐ AC Milan vs Frosinone · 18:00\n\n💨 Giorgi Kvernadze: 2+ tiros\n💨 Samuel Chukwueze: 2+ tiros\n💨 Christian Pulisic: 3+ tiros\n💨 Daniel Birligea: 3+ tiros\n↔️ Ambos marcan\n🏆 Gana el AC Milan\n💣 +1,5 goles en la 2ª parte del AC Milan–Frosinone\n🥅 Goncalo Ramos marca\n\n🎯 CUOTA 10,72 aprox. 💎 10€ → 107€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550197|Away Player Shots|Giorgi Kvernadze - 2",
+      "1550197|Home Player Shots|Samuel Chukwueze - 2",
+      "1550197|Home Player Shots|Christian Pulisic - 3",
+      "1550197|Away Player Shots|Daniel Birligea - 3",
+      "1550197|Both Teams Score|Yes",
+      "1550197|Match Winner|Home",
+      "1550197|Goals Over/Under - Second Half|Over 1.5",
+      "1550197|Anytime Goal Scorer|Goncalo Ramos"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.44,
+      1.5,
+      1.57,
+      1.83
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "AC Milan",
+      "visitante": "Frosinone",
+      "id_l": 489,
+      "id_v": 512,
+      "logo_l": "https://media.api-sports.io/football/teams/489.png",
+      "logo_v": "https://media.api-sports.io/football/teams/512.png",
+      "fecha": "2026-11-22T18:00",
+      "liga": "Serie A"
+    },
+    "cuota_total": 10.72,
+    "cuota_calculada": true,
+    "cuota_bet365": 10.72,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1520-reto",
+    "fecha": "2026-11-22T15:20",
+    "texto": "💶 RETO: DE 1€ A 226€ 💶\n\n🇫🇷 Lorient–Rennes 17:15\n✅ 🎳 Mousa Tamari: 3+ tiros · ✅ 🎯 Rennes marca 2+ · ✅ ⏱️ +1,5 goles en la 2ª parte del Lorient–Rennes\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Manchester United 17:30\n✅ 🎯 Alexander Isak marca\n🇮🇹 Atalanta–Inter 20:45\n✅ 🎯 Matteo Lavelli marca\n🇫🇷 Marseille–Le Mans 20:45\n✅ 🎯 Amine Gouiri marca · ✅ ⏱️ Marseille marca en las dos partes\n🇪🇸 Getafe–Atletico Madrid 21:00\n✅ ↔️ Ambos marcan\n\n🎯 CUOTA 226 aprox. 💎 1€ → 226€\n✅ 🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1552821|Away Player Shots|Mousa Tamari - 3",
+      "1552821|Total - Away|Over 1.5",
+      "1552821|Goals Over/Under - Second Half|Over 1.5",
+      "1557473|Anytime Goal Scorer|Alexander Isak",
+      "1550198|Anytime Goal Scorer|Matteo Lavelli",
+      "1552822|Anytime Goal Scorer|Amine Gouiri",
+      "1552822|To Score In Both Halves By Teams|Home",
+      "1570456|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      2.0,
+      2.2,
+      2.0,
+      2.1,
+      2.0,
+      2.1,
+      2.0,
+      2.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 226.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1540-tiros",
+    "fecha": "2026-11-22T15:40",
+    "texto": "🎯 COMBI DE TIROS · RACING SANTANDER vs REAL SOCIEDAD 🎯\n\n⭐ Racing Santander – Real Sociedad · 16:15\n🦵 Pablo Ramon comete 1+ faltas\n💨 Jorge Salinas: 1+ tiros\n💨 Yassir Zabiri: 3+ tiros\n💨 Pablo Garcia: 2+ tiros\n💨 Diego Diaz: 2+ tiros\n\n🎯 CUOTA 6,73 aprox. 💎 · 10€ → 67,30€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1570459|Player Fouls Committed|Pablo Ramon - 1",
+      "1570459|Home Player Shots|Jorge Salinas - 1",
+      "1570459|Home Player Shots|Yassir Zabiri - 3",
+      "1570459|Home Player Shots|Pablo Garcia - 2",
+      "1570459|Home Player Shots|Diego Diaz - 2"
+    ],
+    "cuotas": [
+      1.83,
+      1.62,
+      1.4,
+      1.44,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 6.73,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-22-loca-th-1600-escudos",
+    "fecha": "2026-11-22T16:00",
+    "texto": "🔥 COMBI MARSEILLE – LE MANS 🔥\n\n⭐ Marseille vs Le Mans · 20:45\n\n✅ 🎳 Keyliane Abdallah: 3+ tiros\n✅ 🎳 Habib Diallo: 2+ tiros\n✅ 👑 Gana el Marseille\n✅ 💥 Marseille marca 2+\n✅ 🎳 Dame Gueye: 2+ tiros\n✅ 🎳 Amine Gouiri: 4+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Marseille–Le Mans\n✅ 💥 Antoine Valero marca\n\n🎯 CUOTA 10,87 aprox. 💎 10€ → 109€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1552822|Home Player Shots|Keyliane Abdallah - 3",
+      "1552822|Away Player Shots|Habib Diallo - 2",
+      "1552822|Match Winner|Home",
+      "1552822|Total - Home|Over 1.5",
+      "1552822|Away Player Shots|Dame Gueye - 2",
+      "1552822|Home Player Shots|Amine Gouiri - 4",
+      "1552822|Goals Over/Under - Second Half|Over 1.5",
+      "1552822|Anytime Goal Scorer|Antoine Valero"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.44,
+      1.44,
+      1.53,
+      1.57,
+      1.73,
+      1.95
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Marseille",
+      "visitante": "Le Mans",
+      "id_l": 81,
+      "id_v": 1298,
+      "logo_l": "https://media.api-sports.io/football/teams/81.png",
+      "logo_v": "https://media.api-sports.io/football/teams/1298.png",
+      "fecha": "2026-11-22T20:45",
+      "liga": "Ligue 1"
+    },
+    "cuota_total": 10.87,
+    "cuota_calculada": true,
+    "cuota_bet365": 10.87,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1720-escudos",
+    "fecha": "2026-11-22T17:20",
+    "texto": "⚡ COMBI ATALANTA – INTER ⚡\n\n⭐ Atalanta vs Inter · 20:45\n\n🦵 Nicola Zalewski comete 1+ faltas\n🏹 Nikola Krstovic: 3+ tiros\n🏹 Jonathan Rowe: 2+ tiros\n🏹 Andy Diouf: 2+ tiros\n🥅 Inter marca 2+\n👑 Gana el Inter\n💣 +1,5 goles en la 2ª parte del Atalanta–Inter\n🥅 Marcus Thuram marca\n\n🎯 CUOTA 9,53 aprox. 💎 10€ → 95,30€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550198|Player Fouls Committed|Nicola Zalewski - 1",
+      "1550198|Home Player Shots|Nikola Krstovic - 3",
+      "1550198|Home Player Shots|Jonathan Rowe - 2",
+      "1550198|Away Player Shots|Andy Diouf - 2",
+      "1550198|Total - Away|Over 1.5",
+      "1550198|Match Winner|Away",
+      "1550198|Goals Over/Under - Second Half|Over 1.5",
+      "1550198|Anytime Goal Scorer|Marcus Thuram"
+    ],
+    "cuotas": [
+      1.5,
+      1.44,
+      1.4,
+      1.4,
+      1.4,
+      1.57,
+      1.62,
+      1.91
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Atalanta",
+      "visitante": "Inter",
+      "id_l": 499,
+      "id_v": 505,
+      "logo_l": "https://media.api-sports.io/football/teams/499.png",
+      "logo_v": "https://media.api-sports.io/football/teams/505.png",
+      "fecha": "2026-11-22T20:45",
+      "liga": "Serie A"
+    },
+    "cuota_total": 9.53,
+    "cuota_calculada": true,
+    "cuota_bet365": 9.53,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1740-escudos",
+    "fecha": "2026-11-22T17:40",
+    "texto": "💥 COMBI GETAFE – ATLETICO MADRID 💥\n\n⭐ Getafe vs Atletico Madrid · 21:00\n\n✅ 🦵 Giuliano Simeone comete 1+ faltas\n✅ 🔫 Moya Borja Mayoral: 2+ tiros\n✅ 🔫 Rodrigo Mendoza: 2+ tiros\n✅ 🔫 Alex Grimaldo: 2+ tiros\n✅ 👑 Gana el Atletico Madrid\n✅ 🚀 Getafe marca\n✅ ⏱️ +1,5 goles en la 2ª parte del Getafe–Atletico Madrid\n✅ 🚀 Jonathan David marca\n\n🎯 CUOTA 21,49 aprox. 💎 10€ → 215€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570456|Player Fouls Committed|Giuliano Simeone - 1",
+      "1570456|Home Player Shots|Moya Borja Mayoral - 2",
+      "1570456|Away Player Shots|Rodrigo Mendoza - 2",
+      "1570456|Away Player Shots|Alex Grimaldo - 2",
+      "1570456|Match Winner|Away",
+      "1570456|Total - Home|Over 0.5",
+      "1570456|Goals Over/Under - Second Half|Over 1.5",
+      "1570456|Anytime Goal Scorer|Jonathan David"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.55,
+      1.73,
+      2.2,
+      2.3
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Getafe",
+      "visitante": "Atletico Madrid",
+      "id_l": 546,
+      "id_v": 530,
+      "logo_l": "https://media.api-sports.io/football/teams/546.png",
+      "logo_v": "https://media.api-sports.io/football/teams/530.png",
+      "fecha": "2026-11-22T21:00",
+      "liga": "La Liga"
+    },
+    "cuota_total": 21.49,
+    "cuota_calculada": true,
+    "cuota_bet365": 21.49,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1820-lista-gana",
+    "fecha": "2026-11-22T18:20",
+    "texto": "💎 LOS FAVORITOS DEL DÍA 💎\n\n1. 🇮🇹 Atalanta–Inter ➜ Gana el Inter @1,57\n2. 🇫🇷 Marseille–Le Mans ➜ Gana el Marseille @1,44\n3. 🇪🇸 Getafe–Atletico Madrid ➜ Gana el Atletico Madrid @1,55\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550198|Match Winner|Away",
+      "1552822|Match Winner|Home",
+      "1570456|Match Winner|Away"
+    ],
+    "cuotas": [
+      1.57,
+      1.44,
+      1.55
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "ganadores_img": {
+      "titulo": "LOS FAVORITOS DEL DÍA",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
+          "nombre": "Inter",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
+          "nombre": "Marseille",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/530.png",
+          "nombre": "Atletico Madrid",
+          "pick": "WIN",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-22-loca-th-1840-duelo",
+    "fecha": "2026-11-22T18:40",
+    "texto": "⚔️ EL DUELO DE TIROS ⚔️\n\n⭐ Atalanta vs Inter · 20:45\n\n✅ 🎯 Jonathan Rowe: 2+ tiros (Atalanta)\n✅ 🎯 Andy Diouf: 2+ tiros (Inter)\n\n🎯 CUOTA 2,00 aprox. 💎 · 10€ → 20,00€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1550198|Home Player Shots|Jonathan Rowe - 2",
+      "1550198|Away Player Shots|Andy Diouf - 2"
+    ],
+    "cuotas": [
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1900-tapados",
+    "fecha": "2026-11-22T19:00",
+    "texto": "🃏 LA DE LOS TAPADOS 🃏\n\nHoy vamos con los que nadie ve 👀\n\n🇮🇹 Atalanta – Inter ➜ ⚖️ Atalanta o empate @2,30\n🇫🇷 Marseille – Le Mans ➜ ⚖️ Le Mans o empate @2,62\n🇪🇸 Getafe – Atletico Madrid ➜ ⚖️ Getafe o empate @2,38\n\n🎯 CUOTA 14,34 💎 · 10€ → 143€\n\n🤫 Si sale esta, nos retiramos 🤫",
+    "sel": [
+      "1550198|Double Chance|Home/Draw",
+      "1552822|Double Chance|Draw/Away",
+      "1570456|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      2.3,
+      2.62,
+      2.38
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 14.34,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "LA DE LOS TAPADOS",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/499.png",
+          "nombre": "Atalanta",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/1298.png",
+          "nombre": "Le Mans",
+          "pick": "O EMPATE",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/546.png",
+          "nombre": "Getafe",
+          "pick": "O EMPATE",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-22-loca-th-1920-lista-corners",
+    "fecha": "2026-11-22T19:20",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇮🇹 Atalanta–Inter ➜ Inter más córners @1,57\n2. 🇫🇷 Marseille–Le Mans ➜ +9 córners @1,82\n3. 🇪🇸 Getafe–Atletico Madrid ➜ Atletico Madrid más córners @1,44\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550198|Corners 1x2|Away",
+      "1552822|Corners Over Under|Over 9",
+      "1570456|Corners 1x2|Away"
+    ],
+    "cuotas": [
+      1.57,
+      1.82,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-22-loca-th-1940-x500",
+    "fecha": "2026-11-22T19:40",
+    "texto": "🤑 LA LOCURA DE x490 🤑\n\n🇮🇹 Atalanta–Inter 20:45\n💥 Marcus Thuram marca · 🔥 Inter marca en las dos partes · 🏆 Atalanta gana una parte\n🇫🇷 Marseille–Le Mans 20:45\n🌀 Marseille más de 5,5 córners · 🏹 Pierre Hojbjerg: 2+ tiros · 💥 Antoine Valero marca\n🇪🇸 Getafe–Atletico Madrid 21:00\n⚽ Ambos marcan · 🔥 +1,5 goles en la 2ª parte del Getafe–Atletico Madrid · 💥 Jonathan David marca\n\n🎯 CUOTA 490 aprox. 💎 10€ → 4.904€\n💚 ¡A POR EL VERDE! 💚",
+    "sel": [
+      "1550198|Anytime Goal Scorer|Marcus Thuram",
+      "1550198|To Score In Both Halves By Teams|Away",
+      "1550198|To Win Either Half|Home",
+      "1552822|Home Corners Over/Under|Over 5.5",
+      "1552822|Home Player Shots|Pierre Hojbjerg - 2",
+      "1552822|Anytime Goal Scorer|Antoine Valero",
+      "1570456|Both Teams Score|Yes",
+      "1570456|Goals Over/Under - Second Half|Over 1.5",
+      "1570456|Anytime Goal Scorer|Jonathan David"
+    ],
+    "cuotas": [
+      1.91,
+      2.0,
+      2.5,
+      1.8,
+      1.8,
+      1.95,
+      2.0,
+      2.2,
+      2.3
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 490.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
   }
 ]
