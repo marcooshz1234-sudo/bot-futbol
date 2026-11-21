@@ -1,7 +1,7 @@
 # Maritimo – Nacional
 **Primeira Liga** · Regular Season - 12 · 27/11/2026 21:15 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:06_
@@ -48,21 +48,21 @@ _Actualizadas: 21/11 14:06_
 ## Estadísticas de equipo
 | | Maritimo (total) | Maritimo en casa | Nacional (total) | Nacional fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 12 | 6 |
-| Forma (últimos 5) | DDVDE | DDDEV | VDVDD | DDDDD |
-| Balance | 3V 2E 6D | 1V 1E 3D | 3V 1E 8D | 0V 1E 5D |
-| Goles a favor / partido | 1,00 | 0,80 | 0,92 | 0,67 |
-| Goles en contra / partido | 2,00 | 1,80 | 1,67 | 1,67 |
-| Goles a favor 1ª parte | 0,27 | 0,20 | 0,42 | 0,50 |
-| Goles a favor 2ª parte | 0,73 | 0,60 | 0,50 | 0,17 |
-| Goles en contra 1ª parte | 1,00 | 1,00 | 1,00 | 0,83 |
-| Goles en contra 2ª parte | 1,00 | 0,80 | 0,67 | 0,83 |
-| Más de 1,5 goles | 91% | 80% | 58% | 50% |
-| Más de 2,5 goles | 73% | 60% | 42% | 33% |
-| Más de 3,5 goles | 27% | 20% | 42% | 33% |
-| Ambos marcan | 64% | 40% | 33% | 33% |
-| Portería a cero | 9% | 20% | 25% | 0% |
-| Se queda sin marcar | 27% | 40% | 42% | 67% |
+| Partidos analizados | 12 | 6 | 12 | 6 |
+| Forma (últimos 5) | EDDVD | EDDDE | VDVDD | DDDDD |
+| Balance | 3V 3E 6D | 1V 2E 3D | 3V 1E 8D | 0V 1E 5D |
+| Goles a favor / partido | 0,92 | 0,67 | 0,92 | 0,67 |
+| Goles en contra / partido | 1,83 | 1,50 | 1,67 | 1,67 |
+| Goles a favor 1ª parte | 0,25 | 0,17 | 0,42 | 0,50 |
+| Goles a favor 2ª parte | 0,67 | 0,50 | 0,50 | 0,17 |
+| Goles en contra 1ª parte | 0,92 | 0,83 | 1,00 | 0,83 |
+| Goles en contra 2ª parte | 0,92 | 0,67 | 0,67 | 0,83 |
+| Más de 1,5 goles | 83% | 67% | 58% | 50% |
+| Más de 2,5 goles | 67% | 50% | 42% | 33% |
+| Más de 3,5 goles | 25% | 17% | 42% | 33% |
+| Ambos marcan | 58% | 33% | 33% | 33% |
+| Portería a cero | 17% | 33% | 25% | 0% |
+| Se queda sin marcar | 33% | 50% | 42% | 67% |
 | xG a favor | 0,96 | 1,02 | 1,02 | 0,66 |
 | xG en contra | 1,42 | 1,36 | 1,65 | 2,06 |
 | Tiros / partido | 10,6 | 11,2 | 10,8 | 7,4 |
@@ -70,20 +70,20 @@ _Actualizadas: 21/11 14:06_
 | Tiros recibidos | 14,0 | 12,4 | 14,5 | 16,8 |
 | Tiros a puerta recibidos | 5,7 | 5,8 | 5,7 | 6,4 |
 | Posesión media % | 45 | 45 | 47 | 43 |
-| Córners a favor | 3,3 | 3,2 | 4,3 | 3,4 |
-| Córners en contra | 4,4 | 4,8 | 5,1 | 7,2 |
-| Córners a favor 1ª parte | 1,7 | 1,2 | 2,3 | 2,2 |
-| Córners a favor 2ª parte | 1,6 | 2,0 | 2,0 | 1,2 |
-| Córners totales del partido | 7,7 | 8,0 | 9,4 | 10,6 |
-| Córners totales 1ª parte | 3,4 | 3,0 | 5,1 | 6,4 |
-| Córners totales 2ª parte | 4,3 | 5,0 | 4,3 | 4,2 |
-| Más de 8,5 córners | 20% | 20% | 64% | 60% |
-| Más de 9,5 córners | 10% | 0% | 64% | 60% |
-| Más de 10,5 córners | 10% | 0% | 27% | 40% |
+| Córners a favor | 3,0 | 2,7 | 4,3 | 3,4 |
+| Córners en contra | 4,0 | 4,0 | 5,1 | 7,2 |
+| Córners a favor 1ª parte | 1,5 | 1,0 | 2,3 | 2,2 |
+| Córners a favor 2ª parte | 1,5 | 1,7 | 2,0 | 1,2 |
+| Córners totales del partido | 7,0 | 6,7 | 9,4 | 10,6 |
+| Córners totales 1ª parte | 3,1 | 2,5 | 5,1 | 6,4 |
+| Córners totales 2ª parte | 3,9 | 4,2 | 4,3 | 4,2 |
+| Más de 8,5 córners | 18% | 17% | 64% | 60% |
+| Más de 9,5 córners | 9% | 0% | 64% | 60% |
+| Más de 10,5 córners | 9% | 0% | 27% | 40% |
 | Faltas cometidas | 15,2 | 17,2 | 11,4 | 11,2 |
 | Faltas recibidas | 13,3 | 15,2 | 11,4 | 11,2 |
-| Amarillas propias | 2,0 | 2,0 | 1,6 | 1,2 |
-| Amarillas del rival | 2,5 | 3,2 | 2,5 | 2,0 |
+| Amarillas propias | 1,8 | 1,7 | 1,6 | 1,2 |
+| Amarillas del rival | 2,3 | 2,7 | 2,5 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,09 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -93,8 +93,8 @@ _Actualizadas: 21/11 14:06_
 | 16-30' | 3 | 3 | 1 | 1 | 2 | 0 |
 | 31-45' | 0 | 5 | 8 | 3 | 7 | 5 |
 | 46-60' | 1 | 4 | 5 | 1 | 2 | 4 |
-| 61-75' | 3 | 2 | 3 | 2 | 4 | 4 |
-| 76-90' | 4 | 5 | 8 | 3 | 2 | 8 |
+| 61-75' | 3 | 2 | 5 | 2 | 4 | 4 |
+| 76-90' | 4 | 5 | 9 | 3 | 2 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -112,12 +112,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Maritimo
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Taça de Portugal | Maritimo 0-0 Chaves | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Primeira Liga | Maritimo 0-2 Santa Clara | casa | 5-2 | 17 (6) - 11 (5) | 3-3 |
 | 2026-10-23 | Primeira Liga | Vitória SC 5-0 Maritimo | fuera | 5-6 | 10 (2) - 17 (8) | 3-4 |
 | 2026-10-18 | Taça de Portugal | Alcochetense 1-2 Maritimo | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | Primeira Liga | Maritimo 1-2 FC Porto | casa | 2-6 | 7 (4) - 19 (8) | 1-2 |
 | 2026-09-19 | Primeira Liga | GIL Vicente 1-1 Maritimo | fuera | 3-4 | 10 (3) - 19 (4) | 1-1 |
-| 2026-09-14 | Primeira Liga | Moreirense 3-1 Maritimo | fuera | 5-3 | 9 (2) - 11 (5) | 3-1 |
 
 ## Jugadores de Maritimo
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

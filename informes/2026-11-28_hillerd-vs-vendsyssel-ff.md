@@ -1,7 +1,7 @@
 # Hillerød – Vendsyssel FF
 **1. Division** · Regular Season - 16 · 28/11/2026 13:00 (hora España) · Helsingor Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Hillerød (total) | Hillerød en casa | Vendsyssel FF (total) | Vendsyssel FF fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 7 | 14 | 8 |
-| Forma (últimos 5) | DVDVD | VVDVV | DEEDD | DEDED |
-| Balance | 4V 3E 8D | 4V 1E 2D | 2V 6E 6D | 1V 4E 3D |
+| Partidos analizados | 15 | 7 | 15 | 8 |
+| Forma (últimos 5) | DVDVD | VVDVV | EDEED | DEDED |
+| Balance | 4V 3E 8D | 4V 1E 2D | 2V 7E 6D | 1V 4E 3D |
 | Goles a favor / partido | 1,27 | 1,71 | 1,00 | 1,38 |
-| Goles en contra / partido | 1,67 | 1,29 | 1,71 | 2,00 |
-| Goles a favor 1ª parte | 0,67 | 0,71 | 0,50 | 0,50 |
-| Goles a favor 2ª parte | 0,60 | 1,00 | 0,50 | 0,88 |
-| Goles en contra 1ª parte | 0,87 | 0,86 | 1,07 | 1,12 |
-| Goles en contra 2ª parte | 0,80 | 0,43 | 0,64 | 0,88 |
-| Más de 1,5 goles | 73% | 86% | 86% | 100% |
-| Más de 2,5 goles | 40% | 57% | 57% | 75% |
-| Más de 3,5 goles | 33% | 43% | 29% | 50% |
-| Ambos marcan | 60% | 71% | 57% | 75% |
-| Portería a cero | 7% | 14% | 21% | 12% |
-| Se queda sin marcar | 33% | 14% | 29% | 12% |
+| Goles en contra / partido | 1,67 | 1,29 | 1,67 | 2,00 |
+| Goles a favor 1ª parte | 0,67 | 0,71 | 0,47 | 0,50 |
+| Goles a favor 2ª parte | 0,60 | 1,00 | 0,53 | 0,88 |
+| Goles en contra 1ª parte | 0,87 | 0,86 | 1,00 | 1,12 |
+| Goles en contra 2ª parte | 0,80 | 0,43 | 0,67 | 0,88 |
+| Más de 1,5 goles | 73% | 86% | 87% | 100% |
+| Más de 2,5 goles | 40% | 57% | 53% | 75% |
+| Más de 3,5 goles | 33% | 43% | 27% | 50% |
+| Ambos marcan | 60% | 71% | 60% | 75% |
+| Portería a cero | 7% | 14% | 20% | 12% |
+| Se queda sin marcar | 33% | 14% | 27% | 12% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -53,9 +53,9 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 1-15' | 6 | 6 | 2 | 0 | 5 | 3 |
 | 16-30' | 2 | 2 | 2 | 3 | 6 | 5 |
 | 31-45' | 2 | 5 | 6 | 4 | 4 | 5 |
-| 46-60' | 3 | 3 | 5 | 3 | 4 | 8 |
-| 61-75' | 2 | 5 | 9 | 2 | 2 | 4 |
-| 76-90' | 4 | 4 | 13 | 2 | 3 | 10 |
+| 46-60' | 3 | 3 | 5 | 3 | 4 | 9 |
+| 61-75' | 2 | 5 | 9 | 2 | 3 | 4 |
+| 76-90' | 4 | 4 | 13 | 3 | 3 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -87,12 +87,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Vendsyssel FF
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | 1. Division | Vendsyssel FF 1-1 Hvidovre | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-06 | 1. Division | AB Copenhagen 3-0 Vendsyssel FF | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | 1. Division | Vendsyssel FF 1-1 Vejle | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | 1. Division | Hobro 2-2 Vendsyssel FF | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-16 | 1. Division | Kolding IF 2-1 Vendsyssel FF | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | 1. Division | Vendsyssel FF 0-2 HB Koge | casa | –-– | – (–) - – (–) | –-– |
-| 2026-09-20 | 1. Division | Aalborg 2-2 Vendsyssel FF | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Vendsyssel FF
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

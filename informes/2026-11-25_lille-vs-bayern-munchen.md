@@ -1,7 +1,7 @@
 # Lille – Bayern München
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:04_
@@ -53,50 +53,50 @@ _Actualizadas: 21/11 14:04_
 ## Estadísticas de equipo
 | | Lille (total) | Lille en casa | Bayern München (total) | Bayern München fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 16 | 8 |
-| Forma (últimos 5) | VEVED | VDEVV | EVVEV | VVVEE |
-| Balance | 6V 4E 4D | 3V 2E 2D | 10V 6E 0D | 5V 3E 0D |
-| Goles a favor / partido | 1,29 | 1,57 | 3,25 | 2,25 |
-| Goles en contra / partido | 1,21 | 1,43 | 1,06 | 1,12 |
-| Goles a favor 1ª parte | 0,79 | 1,00 | 1,12 | 0,75 |
-| Goles a favor 2ª parte | 0,50 | 0,57 | 2,12 | 1,50 |
-| Goles en contra 1ª parte | 0,43 | 0,57 | 0,44 | 0,50 |
-| Goles en contra 2ª parte | 0,79 | 0,86 | 0,62 | 0,62 |
-| Más de 1,5 goles | 71% | 71% | 94% | 88% |
-| Más de 2,5 goles | 43% | 43% | 81% | 75% |
-| Más de 3,5 goles | 21% | 43% | 69% | 50% |
-| Ambos marcan | 50% | 57% | 75% | 75% |
-| Portería a cero | 43% | 43% | 25% | 25% |
-| Se queda sin marcar | 14% | 0% | 6% | 12% |
-| xG a favor | 1,22 | 1,57 | 3,12 | 2,98 |
-| xG en contra | 1,47 | 1,09 | 0,97 | 0,98 |
-| Tiros / partido | 10,6 | 11,6 | 22,0 | 22,8 |
-| Tiros a puerta / partido | 4,2 | 4,3 | 8,3 | 7,6 |
-| Tiros recibidos | 14,0 | 12,3 | 8,9 | 8,9 |
-| Tiros a puerta recibidos | 4,1 | 3,0 | 3,1 | 2,9 |
+| Partidos analizados | 15 | 8 | 16 | 8 |
+| Forma (últimos 5) | DVEVE | DVDEV | EVVEV | VVVEE |
+| Balance | 6V 4E 5D | 3V 2E 3D | 10V 6E 0D | 5V 3E 0D |
+| Goles a favor / partido | 1,20 | 1,38 | 3,25 | 2,25 |
+| Goles en contra / partido | 1,20 | 1,38 | 1,06 | 1,12 |
+| Goles a favor 1ª parte | 0,73 | 0,88 | 1,12 | 0,75 |
+| Goles a favor 2ª parte | 0,47 | 0,50 | 2,12 | 1,50 |
+| Goles en contra 1ª parte | 0,47 | 0,62 | 0,44 | 0,50 |
+| Goles en contra 2ª parte | 0,73 | 0,75 | 0,62 | 0,62 |
+| Más de 1,5 goles | 67% | 62% | 94% | 88% |
+| Más de 2,5 goles | 40% | 38% | 81% | 75% |
+| Más de 3,5 goles | 20% | 38% | 69% | 50% |
+| Ambos marcan | 47% | 50% | 75% | 75% |
+| Portería a cero | 40% | 38% | 25% | 25% |
+| Se queda sin marcar | 20% | 12% | 6% | 12% |
+| xG a favor | 1,20 | 1,50 | 3,12 | 2,98 |
+| xG en contra | 1,42 | 1,04 | 0,97 | 0,98 |
+| Tiros / partido | 10,8 | 11,9 | 22,0 | 22,8 |
+| Tiros a puerta / partido | 4,3 | 4,4 | 8,3 | 7,6 |
+| Tiros recibidos | 13,7 | 11,9 | 8,9 | 8,9 |
+| Tiros a puerta recibidos | 4,2 | 3,4 | 3,1 | 2,9 |
 | Posesión media % | 49 | 52 | 64 | 68 |
-| Córners a favor | 3,4 | 4,1 | 7,8 | 8,8 |
-| Córners en contra | 4,8 | 3,9 | 3,1 | 3,9 |
-| Córners a favor 1ª parte | 1,4 | 1,3 | 3,5 | 3,9 |
+| Córners a favor | 3,7 | 4,5 | 7,8 | 8,8 |
+| Córners en contra | 4,9 | 4,2 | 3,1 | 3,9 |
+| Córners a favor 1ª parte | 1,5 | 1,6 | 3,5 | 3,9 |
 | Córners a favor 2ª parte | 2,1 | 2,9 | 4,2 | 4,9 |
-| Córners totales del partido | 8,2 | 8,0 | 10,8 | 12,6 |
-| Córners totales 1ª parte | 3,2 | 2,9 | 5,1 | 5,9 |
-| Córners totales 2ª parte | 5,0 | 5,1 | 5,8 | 6,8 |
-| Más de 8,5 córners | 43% | 43% | 62% | 75% |
-| Más de 9,5 córners | 29% | 29% | 56% | 75% |
-| Más de 10,5 córners | 14% | 14% | 56% | 75% |
-| Faltas cometidas | 11,0 | 11,1 | 9,1 | 8,1 |
-| Faltas recibidas | 13,5 | 13,7 | 8,3 | 9,0 |
-| Amarillas propias | 1,6 | 1,4 | 1,1 | 1,2 |
+| Córners totales del partido | 8,6 | 8,8 | 10,8 | 12,6 |
+| Córners totales 1ª parte | 3,5 | 3,5 | 5,1 | 5,9 |
+| Córners totales 2ª parte | 5,1 | 5,2 | 5,8 | 6,8 |
+| Más de 8,5 córners | 47% | 50% | 62% | 75% |
+| Más de 9,5 córners | 33% | 38% | 56% | 75% |
+| Más de 10,5 córners | 20% | 25% | 56% | 75% |
+| Faltas cometidas | 11,1 | 11,4 | 9,1 | 8,1 |
+| Faltas recibidas | 13,4 | 13,5 | 8,3 | 9,0 |
+| Amarillas propias | 1,5 | 1,2 | 1,1 | 1,2 |
 | Amarillas del rival | 1,5 | 1,4 | 1,8 | 1,6 |
-| Rojas / partido | 0,14 | 0,14 | 0,06 | 0,12 |
+| Rojas / partido | 0,13 | 0,12 | 0,06 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lille | Recibe Lille | Tarjetas Lille | Goles Bayern München | Recibe Bayern München | Tarjetas Bayern München |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 0 | 3 | 5 | 0 |
 | 16-30' | 4 | 1 | 1 | 8 | 1 | 0 |
-| 31-45' | 3 | 3 | 2 | 7 | 1 | 2 |
+| 31-45' | 3 | 4 | 2 | 7 | 1 | 2 |
 | 46-60' | 0 | 3 | 4 | 12 | 2 | 4 |
 | 61-75' | 3 | 6 | 5 | 12 | 2 | 8 |
 | 76-90' | 4 | 2 | 13 | 10 | 6 | 5 |
@@ -113,33 +113,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Lille
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Lille 0-1 Lyon | casa | 7-7 | 14 (5) - 9 (6) | 0-1 |
 | 2026-11-08 | Ligue 1 | Rennes 1-2 Lille | fuera | 2-7 | 8 (3) - 15 (2) | 3-0 |
 | 2026-11-03 | Champions League | Bodo/Glimt 0-0 Lille | fuera | 4-3 | 9 (2) - 4 (4) | 1-0 |
 | 2026-10-30 | Ligue 1 | Lille 1-0 Lens | casa | 10-2 | 16 (7) - 5 (3) | 0-1 |
 | 2026-10-25 | Ligue 1 | Monaco 1-1 Lille | fuera | 1-6 | 4 (2) - 21 (6) | 4-3 |
 | 2026-10-21 | Champions League | Lille 2-4 Galatasaray | casa | 3-3 | 15 (5) - 10 (4) | 3-1 |
-| 2026-10-17 | Ligue 1 | Lille 1-1 Stade Brestois 29 | casa | 5-2 | 17 (5) - 8 (2) | 1-2 |
 
 ## Jugadores de Lille
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Ngoy | D | 13 | 1170 | 1 | 0 | 3 | 0,2 | 2 | 0,2 | 11 | 10 | 0,8 | 2 | 0 |
-| B. Özer | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,4 | 1 | 0 |
-| H. Haraldsson | F | 14 | 1106 | 1 | 1 | 10 | 0,7 | 5 | 0,4 | 11 | 27 | 1,9 | 2 | 0 |
-| Alexsandro Ribeiro | D | 12 | 1080 | 1 | 1 | 7 | 0,6 | 1 | 0,1 | 5 | 10 | 0,8 | 0 | 0 |
-| N. Bentaleb | M | 13 | 957 | 0 | 1 | 10 | 0,8 | 4 | 0,3 | 13 | 5 | 0,4 | 1 | 0 |
-| N. Mukau | M | 14 | 916 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 11 | 8 | 0,6 | 0 | 0 |
-| R. Perraud | D | 12 | 880 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 8 | 15 | 1,2 | 3 | 0 |
-| B. André | M | 12 | 877 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 20 | 15 | 1,2 | 2 | 0 |
-| D. Bakwa | F | 12 | 649 | 2 | 1 | 13 | 1,1 | 5 | 0,4 | 13 | 12 | 1,0 | 0 | 0 |
-| E. Mbappé | F | 10 | 624 | 2 | 1 | 12 | 1,2 | 9 | 0,9 | 6 | 12 | 1,2 | 0 | 1 |
+| B. Özer | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 0,5 | 1 | 0 |
+| N. Ngoy | D | 14 | 1260 | 1 | 0 | 5 | 0,4 | 2 | 0,1 | 11 | 10 | 0,7 | 2 | 0 |
+| H. Haraldsson | F | 15 | 1196 | 1 | 1 | 12 | 0,8 | 6 | 0,4 | 12 | 28 | 1,9 | 2 | 0 |
+| Alexsandro Ribeiro | D | 13 | 1170 | 1 | 1 | 7 | 0,5 | 1 | 0,1 | 7 | 10 | 0,8 | 0 | 0 |
+| N. Bentaleb | M | 14 | 1047 | 0 | 1 | 12 | 0,9 | 4 | 0,3 | 14 | 5 | 0,4 | 1 | 0 |
+| N. Mukau | M | 15 | 996 | 0 | 0 | 4 | 0,3 | 2 | 0,1 | 13 | 10 | 0,7 | 0 | 0 |
+| B. André | M | 13 | 967 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 21 | 17 | 1,3 | 2 | 0 |
+| R. Perraud | D | 13 | 960 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 10 | 15 | 1,2 | 3 | 0 |
+| D. Bakwa | F | 13 | 711 | 2 | 1 | 13 | 1,0 | 5 | 0,4 | 13 | 15 | 1,2 | 0 | 0 |
+| E. Mbappé | M | 11 | 652 | 2 | 1 | 13 | 1,2 | 10 | 0,9 | 7 | 12 | 1,1 | 0 | 1 |
 | Tiago Santos | D | 7 | 562 | 2 | 0 | 9 | 1,3 | 6 | 0,9 | 7 | 15 | 2,1 | 0 | 0 |
-| O. Giroud | F | 13 | 498 | 3 | 2 | 9 | 0,7 | 5 | 0,4 | 4 | 6 | 0,5 | 2 | 0 |
-| T. Nianzou | D | 6 | 453 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 3 | 3 | 0,5 | 0 | 1 |
-| S. Diaoune | F | 7 | 432 | 3 | 2 | 12 | 1,7 | 5 | 0,7 | 7 | 9 | 1,3 | 0 | 0 |
-| M. Goffi | D | 6 | 422 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 5 | 5 | 0,8 | 2 | 0 |
-| C. Verdonk | D | 10 | 388 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 12 | 1 | 0,1 | 2 | 0 |
-| A. Ueda | F | 6 | 382 | 3 | 0 | 11 | 1,8 | 8 | 1,3 | 8 | 4 | 0,7 | 0 | 0 |
+| O. Giroud | F | 14 | 508 | 3 | 2 | 11 | 0,8 | 5 | 0,4 | 5 | 6 | 0,4 | 2 | 0 |
+| T. Nianzou | D | 7 | 505 | 0 | 1 | 4 | 0,6 | 1 | 0,1 | 3 | 4 | 0,6 | 0 | 1 |
+| S. Diaoune | F | 8 | 477 | 3 | 2 | 12 | 1,5 | 5 | 0,6 | 8 | 10 | 1,2 | 0 | 0 |
+| M. Goffi | D | 7 | 460 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 6 | 5 | 0,7 | 2 | 0 |
+| A. Ueda | F | 7 | 427 | 3 | 0 | 14 | 2,0 | 9 | 1,3 | 8 | 4 | 0,6 | 0 | 0 |
+| C. Verdonk | D | 11 | 398 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 12 | 1 | 0,1 | 2 | 0 |
 | M. Kjærgaard | M | 10 | 326 | 0 | 2 | 6 | 0,6 | 2 | 0,2 | 3 | 3 | 0,3 | 2 | 0 |
 | B. Önal | F | 6 | 234 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 5 | 0,8 | 0 | 0 |
 | G. Perrin | F | 8 | 213 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |

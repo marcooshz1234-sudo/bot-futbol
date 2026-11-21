@@ -1,10 +1,10 @@
 # Frosinone – Parma
 **Serie A** · Regular Season - 13 · 28/11/2026 15:00 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 22/11 00:14_
 
 - **1X2:** 1 **1.48**  ·  X **4.20**  ·  2 **6.25**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.22**  ·  X2 **2.62**
@@ -21,6 +21,16 @@ _Actualizadas: 20/11 20:08_
     - 1,5: más **2.00** · menos **1.73**
     - 2,5: más **4.33** · menos **1.20**
     - 3,5: más **11.00** · menos **1.05**
+- **Goles del local:**
+    - 0,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.20** · menos **1.62**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Goles del visitante:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **9.00** · menos **1.07**
 - **1X2 descanso:** 1 **1.91**  ·  X **2.75**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -43,53 +53,53 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | Frosinone (total) | Frosinone en casa | Parma (total) | Parma fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 13 | 5 |
-| Forma (últimos 5) | DVVEV | VVVVV | DVEDD | VDDDD |
-| Balance | 7V 3E 3D | 6V 0E 1D | 3V 2E 8D | 1V 0E 4D |
-| Goles a favor / partido | 2,23 | 2,86 | 0,85 | 1,00 |
-| Goles en contra / partido | 1,31 | 1,00 | 1,46 | 1,80 |
-| Goles a favor 1ª parte | 1,38 | 1,71 | 0,31 | 0,20 |
-| Goles a favor 2ª parte | 0,85 | 1,14 | 0,54 | 0,80 |
-| Goles en contra 1ª parte | 0,77 | 0,43 | 0,69 | 0,80 |
-| Goles en contra 2ª parte | 0,54 | 0,57 | 0,77 | 1,00 |
-| Más de 1,5 goles | 85% | 86% | 85% | 100% |
-| Más de 2,5 goles | 54% | 57% | 54% | 80% |
-| Más de 3,5 goles | 38% | 57% | 0% | 0% |
-| Ambos marcan | 54% | 57% | 38% | 40% |
-| Portería a cero | 23% | 29% | 23% | 20% |
-| Se queda sin marcar | 23% | 14% | 46% | 40% |
-| xG a favor | 1,82 | 1,98 | 0,86 | 0,63 |
-| xG en contra | 2,04 | 1,75 | 1,97 | 2,34 |
-| Tiros / partido | 19,8 | 19,3 | 10,1 | 8,2 |
-| Tiros a puerta / partido | 6,8 | 7,1 | 3,5 | 3,2 |
-| Tiros recibidos | 17,2 | 17,1 | 17,9 | 22,0 |
-| Tiros a puerta recibidos | 5,5 | 5,6 | 5,5 | 6,0 |
-| Posesión media % | 48 | 45 | 41 | 36 |
-| Córners a favor | 6,6 | 5,9 | 3,8 | 3,0 |
-| Córners en contra | 5,9 | 5,4 | 6,8 | 8,0 |
-| Córners a favor 1ª parte | 2,5 | 2,3 | 1,9 | 2,2 |
-| Córners a favor 2ª parte | 4,1 | 3,6 | 1,8 | 0,8 |
-| Córners totales del partido | 12,5 | 11,3 | 10,5 | 11,0 |
-| Córners totales 1ª parte | 6,0 | 5,4 | 5,8 | 6,6 |
-| Córners totales 2ª parte | 6,5 | 5,9 | 4,8 | 4,4 |
-| Más de 8,5 córners | 85% | 71% | 62% | 80% |
-| Más de 9,5 córners | 77% | 57% | 46% | 80% |
-| Más de 10,5 córners | 69% | 57% | 46% | 80% |
-| Faltas cometidas | 15,5 | 16,0 | 11,1 | 9,4 |
-| Faltas recibidas | 12,2 | 13,0 | 12,7 | 11,4 |
+| Partidos analizados | 13 | 7 | 14 | 5 |
+| Forma (últimos 5) | DVVEV | VVVVV | DDVED | VDDDD |
+| Balance | 7V 3E 3D | 6V 0E 1D | 3V 2E 9D | 1V 0E 4D |
+| Goles a favor / partido | 2,23 | 2,86 | 0,86 | 1,00 |
+| Goles en contra / partido | 1,31 | 1,00 | 1,71 | 1,80 |
+| Goles a favor 1ª parte | 1,38 | 1,71 | 0,29 | 0,20 |
+| Goles a favor 2ª parte | 0,85 | 1,14 | 0,57 | 0,80 |
+| Goles en contra 1ª parte | 0,77 | 0,43 | 0,71 | 0,80 |
+| Goles en contra 2ª parte | 0,54 | 0,57 | 1,00 | 1,00 |
+| Más de 1,5 goles | 85% | 86% | 86% | 100% |
+| Más de 2,5 goles | 54% | 57% | 57% | 80% |
+| Más de 3,5 goles | 38% | 57% | 7% | 0% |
+| Ambos marcan | 54% | 57% | 43% | 40% |
+| Portería a cero | 23% | 29% | 21% | 20% |
+| Se queda sin marcar | 23% | 14% | 43% | 40% |
+| xG a favor | 1,82 | 1,98 | 0,96 | 0,63 |
+| xG en contra | 2,04 | 1,75 | 2,06 | 2,34 |
+| Tiros / partido | 19,8 | 19,3 | 10,6 | 8,2 |
+| Tiros a puerta / partido | 6,8 | 7,1 | 3,6 | 3,2 |
+| Tiros recibidos | 17,2 | 17,1 | 18,0 | 22,0 |
+| Tiros a puerta recibidos | 5,5 | 5,6 | 5,7 | 6,0 |
+| Posesión media % | 48 | 45 | 40 | 36 |
+| Córners a favor | 6,6 | 5,9 | 3,7 | 3,0 |
+| Córners en contra | 5,9 | 5,4 | 6,9 | 8,0 |
+| Córners a favor 1ª parte | 2,5 | 2,3 | 2,0 | 2,2 |
+| Córners a favor 2ª parte | 4,1 | 3,6 | 1,7 | 0,8 |
+| Córners totales del partido | 12,5 | 11,3 | 10,6 | 11,0 |
+| Córners totales 1ª parte | 6,0 | 5,4 | 5,9 | 6,6 |
+| Córners totales 2ª parte | 6,5 | 5,9 | 4,6 | 4,4 |
+| Más de 8,5 córners | 85% | 71% | 64% | 80% |
+| Más de 9,5 córners | 77% | 57% | 50% | 80% |
+| Más de 10,5 córners | 69% | 57% | 50% | 80% |
+| Faltas cometidas | 15,5 | 16,0 | 10,7 | 9,4 |
+| Faltas recibidas | 12,2 | 13,0 | 12,4 | 11,4 |
 | Amarillas propias | 1,8 | 1,3 | 1,4 | 0,8 |
-| Amarillas del rival | 2,5 | 2,6 | 1,5 | 0,8 |
-| Rojas / partido | 0,00 | 0,00 | 0,08 | 0,00 |
+| Amarillas del rival | 2,5 | 2,6 | 1,4 | 0,8 |
+| Rojas / partido | 0,00 | 0,00 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Frosinone | Recibe Frosinone | Tarjetas Frosinone | Goles Parma | Recibe Parma | Tarjetas Parma |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 3 | 0 | 3 | 3 |
 | 16-30' | 8 | 2 | 3 | 1 | 3 | 2 |
-| 31-45' | 6 | 6 | 5 | 3 | 3 | 2 |
-| 46-60' | 4 | 3 | 3 | 3 | 3 | 3 |
-| 61-75' | 3 | 2 | 3 | 0 | 4 | 2 |
-| 76-90' | 4 | 2 | 6 | 4 | 3 | 8 |
+| 31-45' | 6 | 6 | 5 | 3 | 4 | 3 |
+| 46-60' | 4 | 3 | 3 | 4 | 3 | 3 |
+| 61-75' | 3 | 2 | 3 | 0 | 6 | 2 |
+| 76-90' | 4 | 2 | 6 | 4 | 5 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -141,33 +151,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Parma
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Serie A | Parma 1-5 AS Roma | casa | 3-8 | 17 (6) - 19 (9) | 1-0 |
 | 2026-11-07 | Serie A | Parma 1-2 Bologna | casa | 1-15 | 11 (2) - 33 (10) | 3-2 |
 | 2026-11-02 | Serie A | Atalanta 0-3 Parma | fuera | 5-8 | 6 (3) - 20 (6) | 0-0 |
 | 2026-10-28 | Serie A | Parma 0-0 Udinese | casa | 3-6 | 8 (2) - 20 (5) | 1-2 |
 | 2026-10-24 | Serie A | Lazio 2-1 Parma | fuera | 3-8 | 10 (4) - 21 (5) | 1-1 |
 | 2026-10-19 | Serie A | Parma 0-3 Torino | casa | 6-2 | 25 (8) - 9 (3) | 3-2 |
-| 2026-10-10 | Serie A | Inter 3-0 Parma | fuera | 1-3 | 9 (2) - 19 (6) | –-– |
 
 ## Jugadores de Parma
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E. Del Prato | D | 12 | 1080 | 0 | 0 | 9 | 0,8 | 1 | 0,1 | 5 | 5 | 0,4 | 3 | 0 |
-| M. Troilo | D | 12 | 1075 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 10 | 12 | 1,0 | 4 | 0 |
-| M. Keita | M | 13 | 1044 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 10 | 27 | 2,1 | 1 | 0 |
-| E. Valeri | M | 13 | 1032 | 0 | 0 | 4 | 0,3 | 2 | 0,2 | 6 | 9 | 0,7 | 0 | 0 |
-| E. Touré | F | 13 | 944 | 0 | 2 | 14 | 1,1 | 7 | 0,5 | 13 | 10 | 0,8 | 0 | 0 |
+| E. Del Prato | D | 13 | 1170 | 0 | 0 | 13 | 1,0 | 1 | 0,1 | 5 | 5 | 0,4 | 3 | 0 |
+| M. Troilo | D | 13 | 1165 | 0 | 1 | 8 | 0,6 | 2 | 0,2 | 10 | 12 | 0,9 | 4 | 0 |
+| M. Keita | M | 14 | 1134 | 0 | 0 | 7 | 0,5 | 2 | 0,1 | 11 | 30 | 2,1 | 1 | 0 |
+| E. Valeri | M | 14 | 1122 | 0 | 0 | 5 | 0,4 | 3 | 0,2 | 6 | 10 | 0,7 | 1 | 0 |
+| E. Touré | M | 14 | 1010 | 0 | 2 | 15 | 1,1 | 7 | 0,5 | 14 | 10 | 0,7 | 0 | 0 |
 | E. Corvi | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| S. Britschgi | D | 11 | 726 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 5 | 0,5 | 1 | 0 |
-| S. Lontani | F | 12 | 624 | 5 | 0 | 20 | 1,7 | 7 | 0,6 | 7 | 11 | 0,9 | 1 | 0 |
-| V. Sierro | M | 8 | 558 | 1 | 1 | 4 | 0,5 | 2 | 0,2 | 11 | 5 | 0,6 | 1 | 0 |
+| S. Britschgi | M | 12 | 801 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 5 | 0,4 | 1 | 0 |
+| S. Lontani | F | 13 | 648 | 5 | 0 | 20 | 1,5 | 7 | 0,5 | 7 | 13 | 1,0 | 1 | 0 |
+| V. Sierro | M | 9 | 633 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 12 | 5 | 0,6 | 1 | 0 |
 | D. Drobnic | D | 7 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
+| G. Fabbian | M | 11 | 526 | 1 | 2 | 7 | 0,6 | 3 | 0,3 | 10 | 11 | 1,0 | 0 | 0 |
+| C. Ordoñez | M | 11 | 512 | 0 | 0 | 8 | 0,7 | 0 | 0,0 | 4 | 8 | 0,7 | 0 | 0 |
 | D. Romero | F | 10 | 490 | 2 | 0 | 18 | 1,8 | 10 | 1,0 | 8 | 10 | 1,0 | 1 | 0 |
-| C. Ordoñez | M | 10 | 489 | 0 | 0 | 7 | 0,7 | 0 | 0,0 | 4 | 8 | 0,8 | 0 | 0 |
 | Adrián Bernabé | M | 8 | 465 | 0 | 0 | 6 | 0,8 | 4 | 0,5 | 6 | 17 | 2,1 | 0 | 0 |
-| G. Fabbian | M | 10 | 459 | 1 | 2 | 5 | 0,5 | 2 | 0,2 | 9 | 10 | 1,0 | 0 | 0 |
+| G. Daffara | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
 | Diego Carlos | D | 6 | 423 | 0 | 0 | 4 | 0,7 | 2 | 0,3 | 7 | 1 | 0,2 | 1 | 0 |
-| G. Daffara | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| N. Elphege | F | 8 | 286 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 3 | 0 | 0,0 | 0 | 0 |
+| N. Elphege | F | 9 | 375 | 1 | 1 | 9 | 1,0 | 2 | 0,2 | 3 | 1 | 0,1 | 0 | 0 |
+| F. Carboni | D | 5 | 319 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 0 | 0,0 | 1 | 0 |
 | M. Frigan | F | 9 | 258 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 6 | 0,7 | 0 | 0 |
-| F. Carboni | M | 4 | 229 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
 | Abdou-Salam Konate | M | 4 | 205 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 2 | 0,5 | 1 | 0 |

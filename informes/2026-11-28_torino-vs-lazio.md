@@ -1,10 +1,10 @@
 # Torino – Lazio
 **Serie A** · Regular Season - 13 · 28/11/2026 18:00 (hora España) · Stadio Olimpico di Torino
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:15_
 
 - **1X2:** 1 **3.40**  ·  X **3.40**  ·  2 **2.05**
 - **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.30**
@@ -51,53 +51,53 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | Torino (total) | Torino en casa | Lazio (total) | Lazio fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 8 | 12 | 6 |
-| Forma (últimos 5) | EDDVV | EDVVD | EVVVV | EVVVV |
-| Balance | 5V 2E 6D | 3V 1E 4D | 9V 2E 1D | 5V 1E 0D |
-| Goles a favor / partido | 1,23 | 1,12 | 2,08 | 2,50 |
-| Goles en contra / partido | 1,38 | 1,50 | 0,92 | 0,67 |
-| Goles a favor 1ª parte | 0,54 | 0,50 | 1,00 | 1,00 |
-| Goles a favor 2ª parte | 0,69 | 0,62 | 1,08 | 1,50 |
-| Goles en contra 1ª parte | 0,38 | 0,38 | 0,25 | 0,33 |
-| Goles en contra 2ª parte | 1,00 | 1,12 | 0,67 | 0,33 |
-| Más de 1,5 goles | 85% | 75% | 83% | 83% |
-| Más de 2,5 goles | 54% | 50% | 58% | 50% |
-| Más de 3,5 goles | 15% | 25% | 25% | 17% |
-| Ambos marcan | 62% | 62% | 58% | 50% |
-| Portería a cero | 15% | 12% | 33% | 50% |
-| Se queda sin marcar | 23% | 25% | 8% | 0% |
-| xG a favor | 1,22 | 1,36 | 1,59 | 1,52 |
-| xG en contra | 1,45 | 1,32 | 1,26 | 1,42 |
-| Tiros / partido | 11,2 | 11,6 | 14,5 | 13,5 |
-| Tiros a puerta / partido | 3,3 | 3,2 | 4,6 | 4,7 |
-| Tiros recibidos | 15,0 | 13,2 | 11,9 | 12,3 |
-| Tiros a puerta recibidos | 4,7 | 3,9 | 4,5 | 4,3 |
-| Posesión media % | 52 | 50 | 55 | 51 |
-| Córners a favor | 4,2 | 3,9 | 5,0 | 5,0 |
-| Córners en contra | 4,8 | 5,1 | 4,2 | 5,0 |
-| Córners a favor 1ª parte | 2,2 | 1,6 | 2,1 | 2,3 |
-| Córners a favor 2ª parte | 2,0 | 2,2 | 2,9 | 2,7 |
-| Córners totales del partido | 8,9 | 9,0 | 9,2 | 10,0 |
+| Partidos analizados | 14 | 8 | 13 | 6 |
+| Forma (últimos 5) | DEDDV | EDVVD | VEVVV | EVVVV |
+| Balance | 5V 2E 7D | 3V 1E 4D | 10V 2E 1D | 5V 1E 0D |
+| Goles a favor / partido | 1,14 | 1,12 | 2,15 | 2,50 |
+| Goles en contra / partido | 1,36 | 1,50 | 0,85 | 0,67 |
+| Goles a favor 1ª parte | 0,50 | 0,50 | 1,00 | 1,00 |
+| Goles a favor 2ª parte | 0,64 | 0,62 | 1,15 | 1,50 |
+| Goles en contra 1ª parte | 0,36 | 0,38 | 0,23 | 0,33 |
+| Goles en contra 2ª parte | 1,00 | 1,12 | 0,62 | 0,33 |
+| Más de 1,5 goles | 79% | 75% | 85% | 83% |
+| Más de 2,5 goles | 50% | 50% | 62% | 50% |
+| Más de 3,5 goles | 14% | 25% | 23% | 17% |
+| Ambos marcan | 57% | 62% | 54% | 50% |
+| Portería a cero | 14% | 12% | 38% | 50% |
+| Se queda sin marcar | 29% | 25% | 8% | 0% |
+| xG a favor | 1,17 | 1,36 | 1,55 | 1,52 |
+| xG en contra | 1,47 | 1,32 | 1,24 | 1,42 |
+| Tiros / partido | 11,2 | 11,6 | 14,2 | 13,5 |
+| Tiros a puerta / partido | 3,2 | 3,2 | 4,7 | 4,7 |
+| Tiros recibidos | 15,5 | 13,2 | 11,8 | 12,3 |
+| Tiros a puerta recibidos | 5,1 | 3,9 | 4,3 | 4,3 |
+| Posesión media % | 52 | 50 | 56 | 51 |
+| Córners a favor | 4,2 | 3,9 | 5,3 | 5,0 |
+| Córners en contra | 5,0 | 5,1 | 4,2 | 5,0 |
+| Córners a favor 1ª parte | 2,1 | 1,6 | 2,2 | 2,3 |
+| Córners a favor 2ª parte | 2,1 | 2,2 | 3,1 | 2,7 |
+| Córners totales del partido | 9,2 | 9,0 | 9,5 | 10,0 |
 | Córners totales 1ª parte | 4,5 | 4,6 | 4,5 | 5,0 |
-| Córners totales 2ª parte | 4,5 | 4,4 | 4,8 | 5,0 |
-| Más de 8,5 córners | 38% | 50% | 67% | 83% |
-| Más de 9,5 córners | 23% | 25% | 58% | 67% |
-| Más de 10,5 córners | 23% | 25% | 42% | 50% |
-| Faltas cometidas | 10,8 | 10,2 | 11,3 | 11,2 |
-| Faltas recibidas | 11,7 | 11,0 | 11,9 | 11,8 |
-| Amarillas propias | 0,9 | 0,4 | 1,7 | 1,5 |
-| Amarillas del rival | 1,2 | 1,1 | 2,4 | 3,2 |
+| Córners totales 2ª parte | 4,7 | 4,4 | 4,9 | 5,0 |
+| Más de 8,5 córners | 43% | 50% | 69% | 83% |
+| Más de 9,5 córners | 29% | 25% | 62% | 67% |
+| Más de 10,5 córners | 29% | 25% | 46% | 50% |
+| Faltas cometidas | 10,6 | 10,2 | 11,3 | 11,2 |
+| Faltas recibidas | 11,8 | 11,0 | 12,0 | 11,8 |
+| Amarillas propias | 0,9 | 0,4 | 1,6 | 1,5 |
+| Amarillas del rival | 1,3 | 1,1 | 2,4 | 3,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Torino | Recibe Torino | Tarjetas Torino | Goles Lazio | Recibe Lazio | Tarjetas Lazio |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 0 | 4 | 1 | 0 |
-| 16-30' | 2 | 0 | 3 | 4 | 1 | 5 |
+| 16-30' | 2 | 0 | 3 | 5 | 1 | 5 |
 | 31-45' | 3 | 5 | 4 | 4 | 1 | 4 |
-| 46-60' | 1 | 3 | 0 | 6 | 3 | 3 |
-| 61-75' | 5 | 3 | 4 | 3 | 3 | 2 |
-| 76-90' | 4 | 7 | 1 | 4 | 2 | 6 |
+| 46-60' | 1 | 3 | 1 | 6 | 3 | 3 |
+| 61-75' | 5 | 4 | 4 | 4 | 3 | 2 |
+| 76-90' | 4 | 7 | 1 | 5 | 2 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,67 +115,67 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Torino
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Serie A | Napoli 1-0 Torino | fuera | 5-8 | 12 (2) - 22 (10) | 1-2 |
 | 2026-11-07 | Serie A | Torino 1-1 Lecce | casa | 4-5 | 10 (3) - 6 (2) | 0-2 |
 | 2026-11-01 | Serie A | Frosinone 2-0 Torino | fuera | 7-7 | 12 (3) - 20 (8) | 3-1 |
 | 2026-10-27 | Serie A | Torino 1-3 Como | casa | 5-6 | 11 (5) - 18 (5) | 1-0 |
 | 2026-10-23 | Serie A | Torino 3-2 Monza | casa | 3-4 | 17 (7) - 7 (3) | 1-0 |
 | 2026-10-19 | Serie A | Parma 0-3 Torino | fuera | 2-6 | 9 (3) - 25 (8) | 2-3 |
-| 2026-10-12 | Serie A | Torino 2-1 Udinese | casa | 4-3 | 12 (4) - 15 (1) | 0-1 |
 
 ## Jugadores de Torino
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Saúl Coco | D | 13 | 1120 | 0 | 0 | 8 | 0,6 | 1 | 0,1 | 9 | 13 | 1,0 | 1 | 0 |
-| P. Comuzzo | D | 12 | 1033 | 1 | 1 | 8 | 0,7 | 3 | 0,2 | 11 | 2 | 0,2 | 1 | 0 |
-| N. Vlašić | M | 13 | 1013 | 1 | 0 | 9 | 0,7 | 4 | 0,3 | 11 | 8 | 0,6 | 0 | 0 |
-| G. Simeone | F | 13 | 1000 | 4 | 1 | 29 | 2,2 | 9 | 0,7 | 8 | 20 | 1,5 | 0 | 0 |
-| A. Cacciamani | M | 12 | 900 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 8 | 20 | 1,7 | 0 | 0 |
-| Lucas Perri | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Ismajli | D | 12 | 849 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 4 | 0,3 | 2 | 0 |
+| Saúl Coco | D | 14 | 1210 | 0 | 0 | 8 | 0,6 | 1 | 0,1 | 9 | 14 | 1,0 | 1 | 0 |
+| P. Comuzzo | D | 13 | 1123 | 1 | 1 | 8 | 0,6 | 3 | 0,2 | 13 | 2 | 0,2 | 2 | 0 |
+| G. Simeone | F | 14 | 1072 | 4 | 1 | 29 | 2,1 | 9 | 0,6 | 9 | 24 | 1,7 | 0 | 0 |
+| N. Vlašić | M | 14 | 1058 | 1 | 0 | 11 | 0,8 | 4 | 0,3 | 11 | 8 | 0,6 | 0 | 0 |
+| A. Cacciamani | M | 13 | 990 | 0 | 1 | 5 | 0,4 | 0 | 0,0 | 9 | 23 | 1,8 | 0 | 0 |
+| Lucas Perri | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Ismajli | D | 13 | 921 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 5 | 0,4 | 2 | 0 |
+| C. Adams | F | 11 | 717 | 4 | 0 | 14 | 1,3 | 6 | 0,5 | 5 | 7 | 0,6 | 0 | 0 |
+| G. Gineitis | M | 13 | 708 | 0 | 2 | 6 | 0,5 | 2 | 0,2 | 16 | 14 | 1,1 | 2 | 0 |
 | K. Fitz-Jim | M | 9 | 660 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 2 | 6 | 0,7 | 0 | 0 |
-| G. Gineitis | M | 12 | 640 | 0 | 2 | 5 | 0,4 | 1 | 0,1 | 16 | 12 | 1,0 | 2 | 0 |
-| C. Adams | F | 10 | 627 | 4 | 0 | 14 | 1,4 | 6 | 0,6 | 4 | 5 | 0,5 | 0 | 0 |
-| R. Belghali | M | 9 | 598 | 1 | 3 | 5 | 0,6 | 3 | 0,3 | 11 | 0 | 0,0 | 2 | 0 |
-| Daniel Bragança | M | 9 | 557 | 1 | 0 | 6 | 0,7 | 1 | 0,1 | 7 | 11 | 1,2 | 1 | 0 |
-| R. Mandragora | M | 6 | 467 | 1 | 1 | 8 | 1,3 | 5 | 0,8 | 9 | 10 | 1,7 | 0 | 0 |
-| Eray Cömert | D | 5 | 404 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,6 | 0 | 0 |
+| R. Belghali | M | 10 | 638 | 1 | 3 | 5 | 0,5 | 3 | 0,3 | 11 | 0 | 0,0 | 2 | 0 |
+| Daniel Bragança | M | 10 | 602 | 1 | 0 | 6 | 0,6 | 1 | 0,1 | 7 | 11 | 1,1 | 1 | 0 |
+| R. Mandragora | M | 7 | 557 | 1 | 1 | 10 | 1,4 | 6 | 0,9 | 10 | 10 | 1,4 | 0 | 0 |
+| E. Cömert | D | 6 | 422 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
 | Niccolò Fortini | M | 6 | 357 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 6 | 1,0 | 0 | 0 |
 | S. Kulenović | F | 11 | 271 | 2 | 0 | 5 | 0,5 | 3 | 0,3 | 8 | 1 | 0,1 | 1 | 0 |
 | Diego Mascardi | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| C. Casadei | M | 4 | 185 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 5 | 3 | 0,8 | 0 | 0 |
+| C. Casadei | M | 5 | 207 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 5 | 3 | 0,6 | 0 | 0 |
+| Z. Aboukhlal | F | 9 | 204 | 0 | 0 | 9 | 1,0 | 3 | 0,3 | 5 | 5 | 0,6 | 1 | 0 |
 | N. Patterson | D | 5 | 178 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 2 | 0,4 | 1 | 0 |
-| Z. Aboukhlal | F | 8 | 154 | 0 | 0 | 7 | 0,9 | 3 | 0,4 | 4 | 5 | 0,6 | 1 | 0 |
 
 ## Últimos partidos de Lazio
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Serie A | Lazio 3-0 Lecce | casa | 9-3 | 10 (6) - 10 (2) | 1-2 |
 | 2026-11-08 | Serie A | Napoli 1-1 Lazio | fuera | 6-6 | 15 (6) - 15 (6) | 1-3 |
 | 2026-11-01 | Serie A | Lazio 2-1 Cagliari | casa | 2-2 | 11 (4) - 9 (3) | 1-2 |
 | 2026-10-27 | Serie A | Sassuolo 2-6 Lazio | fuera | 1-2 | 16 (8) - 9 (1) | 1-1 |
 | 2026-10-24 | Serie A | Lazio 2-1 Parma | casa | 8-3 | 21 (5) - 10 (4) | 1-1 |
 | 2026-10-18 | Serie A | Juventus 0-3 Lazio | fuera | 7-5 | 9 (3) - 9 (2) | 2-0 |
-| 2026-10-11 | Serie A | Lazio 3-1 Monza | casa | 7-6 | 17 (7) - 14 (6) | 3-1 |
 
 ## Jugadores de Lazio
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Mandas | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| K. Taylor | M | 12 | 966 | 2 | 1 | 12 | 1,0 | 5 | 0,4 | 10 | 15 | 1,2 | 2 | 0 |
+| C. Mandas | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,1 | 0 | 0 |
+| K. Taylor | M | 13 | 1056 | 2 | 2 | 12 | 0,9 | 5 | 0,4 | 10 | 16 | 1,2 | 2 | 0 |
+| R. Floriani Mussolini | D | 12 | 976 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 14 | 4 | 0,3 | 1 | 0 |
+| D. Frattesi | M | 13 | 958 | 5 | 0 | 16 | 1,2 | 8 | 0,6 | 12 | 15 | 1,2 | 0 | 0 |
+| R. Belahyane | M | 12 | 948 | 0 | 0 | 4 | 0,3 | 3 | 0,2 | 4 | 3 | 0,2 | 1 | 0 |
 | M. Zaccagni | F | 11 | 934 | 2 | 5 | 24 | 2,2 | 12 | 1,1 | 8 | 22 | 2,0 | 3 | 0 |
 | O. Provstgaard | D | 11 | 901 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 16 | 1 | 0,1 | 3 | 0 |
-| R. Floriani Mussolini | D | 11 | 886 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 13 | 3 | 0,3 | 1 | 0 |
-| D. Frattesi | M | 12 | 868 | 4 | 0 | 13 | 1,1 | 6 | 0,5 | 10 | 15 | 1,2 | 0 | 0 |
-| R. Belahyane | M | 11 | 865 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
+| T. Noslin | F | 12 | 762 | 6 | 4 | 20 | 1,7 | 9 | 0,8 | 5 | 6 | 0,5 | 0 | 0 |
 | Nuno Tavares | D | 11 | 757 | 1 | 3 | 9 | 0,8 | 3 | 0,3 | 7 | 10 | 0,9 | 0 | 0 |
-| T. Noslin | F | 11 | 679 | 4 | 4 | 17 | 1,5 | 7 | 0,6 | 5 | 5 | 0,5 | 0 | 0 |
-| G. Isaksen | F | 11 | 649 | 4 | 1 | 21 | 1,9 | 6 | 0,5 | 8 | 23 | 2,1 | 1 | 0 |
+| G. Isaksen | F | 12 | 727 | 4 | 2 | 21 | 1,8 | 6 | 0,5 | 9 | 25 | 2,1 | 1 | 0 |
 | J. Šutalo | D | 8 | 597 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 2 | 0,2 | 0 | 0 |
-| Danilho Doekhi | D | 5 | 413 | 0 | 1 | 4 | 0,8 | 0 | 0,0 | 7 | 3 | 0,6 | 1 | 0 |
-| M. Cancellieri | F | 8 | 411 | 1 | 0 | 13 | 1,6 | 4 | 0,5 | 10 | 10 | 1,2 | 2 | 0 |
-| Pedraza | D | 11 | 322 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
-| F. Dele-Bashiru | M | 8 | 304 | 1 | 1 | 6 | 0,8 | 2 | 0,2 | 1 | 6 | 0,8 | 1 | 0 |
-| A. Pinamonti | F | 9 | 259 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 7 | 2 | 0,2 | 1 | 0 |
-| Diogo Leite | D | 6 | 254 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 2 | 0,3 | 1 | 0 |
+| D. Doekhi | D | 6 | 503 | 0 | 1 | 5 | 0,8 | 0 | 0,0 | 7 | 4 | 0,7 | 1 | 0 |
+| M. Cancellieri | F | 9 | 423 | 1 | 1 | 13 | 1,4 | 4 | 0,4 | 10 | 10 | 1,1 | 2 | 0 |
+| Pedraza | D | 12 | 400 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 5 | 4 | 0,3 | 1 | 0 |
+| A. Pinamonti | F | 10 | 347 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 8 | 3 | 0,3 | 1 | 0 |
+| Diogo Leite | D | 7 | 344 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 2 | 0,3 | 1 | 0 |
+| F. Dele-Bashiru | M | 9 | 311 | 1 | 1 | 6 | 0,7 | 2 | 0,2 | 2 | 6 | 0,7 | 1 | 0 |
 | Boulaye Dia | F | 3 | 230 | 0 | 1 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 1 | 0 |
-| Nicolò Rovella | M | 3 | 206 | 0 | 0 | 2 | 0,7 | 0 | 0,0 | 3 | 2 | 0,7 | 1 | 0 |
+| N. Rovella | M | 4 | 213 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 3 | 2 | 0,5 | 1 | 0 |
 | M. Lazzari | M | 7 | 114 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |

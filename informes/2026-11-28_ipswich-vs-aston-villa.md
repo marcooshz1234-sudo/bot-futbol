@@ -1,10 +1,10 @@
 # Ipswich – Aston Villa
 **Premier League** · Regular Season - 12 · 28/11/2026 18:30 (hora España) · Portman Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:15_
 
 - **1X2:** 1 **3.30**  ·  X **3.75**  ·  2 **2.00**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.25**  ·  X2 **1.33**
@@ -51,53 +51,53 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | Ipswich (total) | Ipswich en casa | Aston Villa (total) | Aston Villa fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 7 | 16 | 9 |
-| Forma (últimos 5) | DEEDV | DEVDD | EDEDV | EDDVV |
-| Balance | 4V 2E 6D | 3V 1E 3D | 7V 4E 5D | 4V 2E 3D |
-| Goles a favor / partido | 1,67 | 1,57 | 1,81 | 1,56 |
-| Goles en contra / partido | 2,08 | 1,71 | 1,69 | 2,11 |
-| Goles a favor 1ª parte | 0,58 | 0,29 | 1,06 | 1,00 |
-| Goles a favor 2ª parte | 1,08 | 1,29 | 0,75 | 0,56 |
-| Goles en contra 1ª parte | 1,00 | 1,00 | 0,69 | 1,11 |
-| Goles en contra 2ª parte | 1,08 | 0,71 | 1,00 | 1,00 |
-| Más de 1,5 goles | 92% | 100% | 81% | 78% |
-| Más de 2,5 goles | 75% | 71% | 75% | 78% |
-| Más de 3,5 goles | 50% | 29% | 50% | 56% |
-| Ambos marcan | 83% | 86% | 56% | 44% |
-| Portería a cero | 0% | 0% | 19% | 22% |
-| Se queda sin marcar | 17% | 14% | 31% | 44% |
-| xG a favor | 1,34 | 1,10 | 1,69 | 1,70 |
-| xG en contra | 1,94 | 1,53 | 1,86 | 2,12 |
-| Tiros / partido | 11,0 | 10,7 | 14,1 | 14,0 |
-| Tiros a puerta / partido | 4,2 | 4,3 | 4,9 | 4,4 |
-| Tiros recibidos | 16,1 | 14,3 | 15,9 | 17,6 |
-| Tiros a puerta recibidos | 5,5 | 5,7 | 5,4 | 6,0 |
-| Posesión media % | 46 | 46 | 46 | 46 |
-| Córners a favor | 3,0 | 2,7 | 4,7 | 4,1 |
-| Córners en contra | 4,7 | 4,3 | 5,1 | 5,2 |
-| Córners a favor 1ª parte | 1,5 | 1,4 | 2,9 | 2,3 |
-| Córners a favor 2ª parte | 1,5 | 1,3 | 1,8 | 1,8 |
-| Córners totales del partido | 7,7 | 7,0 | 9,8 | 9,3 |
-| Córners totales 1ª parte | 3,9 | 3,7 | 5,3 | 4,9 |
-| Córners totales 2ª parte | 3,8 | 3,3 | 4,4 | 4,4 |
-| Más de 8,5 córners | 33% | 14% | 62% | 67% |
-| Más de 9,5 córners | 8% | 0% | 44% | 33% |
-| Más de 10,5 córners | 8% | 0% | 44% | 33% |
-| Faltas cometidas | 10,9 | 9,0 | 11,3 | 11,0 |
-| Faltas recibidas | 11,2 | 13,4 | 13,7 | 13,8 |
-| Amarillas propias | 2,1 | 1,6 | 2,0 | 2,2 |
-| Amarillas del rival | 2,0 | 2,3 | 2,6 | 2,4 |
+| Partidos analizados | 13 | 7 | 17 | 9 |
+| Forma (últimos 5) | DDEED | DEVDD | EEDED | EDDVV |
+| Balance | 4V 2E 7D | 3V 1E 3D | 7V 5E 5D | 4V 2E 3D |
+| Goles a favor / partido | 1,54 | 1,57 | 1,71 | 1,56 |
+| Goles en contra / partido | 2,08 | 1,71 | 1,59 | 2,11 |
+| Goles a favor 1ª parte | 0,54 | 0,29 | 1,00 | 1,00 |
+| Goles a favor 2ª parte | 1,00 | 1,29 | 0,71 | 0,56 |
+| Goles en contra 1ª parte | 1,00 | 1,00 | 0,65 | 1,11 |
+| Goles en contra 2ª parte | 1,08 | 0,71 | 0,94 | 1,00 |
+| Más de 1,5 goles | 92% | 100% | 76% | 78% |
+| Más de 2,5 goles | 69% | 71% | 71% | 78% |
+| Más de 3,5 goles | 46% | 29% | 47% | 56% |
+| Ambos marcan | 77% | 86% | 53% | 44% |
+| Portería a cero | 0% | 0% | 24% | 22% |
+| Se queda sin marcar | 23% | 14% | 35% | 44% |
+| xG a favor | 1,26 | 1,10 | 1,65 | 1,70 |
+| xG en contra | 2,01 | 1,53 | 1,76 | 2,12 |
+| Tiros / partido | 11,0 | 10,7 | 14,4 | 14,0 |
+| Tiros a puerta / partido | 4,2 | 4,3 | 5,0 | 4,4 |
+| Tiros recibidos | 16,2 | 14,3 | 15,4 | 17,6 |
+| Tiros a puerta recibidos | 5,8 | 5,7 | 5,1 | 6,0 |
+| Posesión media % | 46 | 46 | 48 | 46 |
+| Córners a favor | 3,2 | 2,7 | 4,8 | 4,1 |
+| Córners en contra | 4,9 | 4,3 | 4,9 | 5,2 |
+| Córners a favor 1ª parte | 1,5 | 1,4 | 3,1 | 2,3 |
+| Córners a favor 2ª parte | 1,7 | 1,3 | 1,8 | 1,8 |
+| Córners totales del partido | 8,2 | 7,0 | 9,7 | 9,3 |
+| Córners totales 1ª parte | 4,2 | 3,7 | 5,3 | 4,9 |
+| Córners totales 2ª parte | 4,0 | 3,3 | 4,4 | 4,4 |
+| Más de 8,5 córners | 38% | 14% | 65% | 67% |
+| Más de 9,5 córners | 15% | 0% | 41% | 33% |
+| Más de 10,5 córners | 15% | 0% | 41% | 33% |
+| Faltas cometidas | 11,4 | 9,0 | 11,5 | 11,0 |
+| Faltas recibidas | 11,6 | 13,4 | 14,1 | 13,8 |
+| Amarillas propias | 2,0 | 1,6 | 2,0 | 2,2 |
+| Amarillas del rival | 2,2 | 2,3 | 2,6 | 2,4 |
 | Rojas / partido | 0,08 | 0,00 | 0,06 | 0,11 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Ipswich | Recibe Ipswich | Tarjetas Ipswich | Goles Aston Villa | Recibe Aston Villa | Tarjetas Aston Villa |
 |---|---|---|---|---|---|---|
-| 1-15' | 0 | 7 | 0 | 7 | 4 | 4 |
+| 1-15' | 0 | 8 | 0 | 7 | 4 | 4 |
 | 16-30' | 5 | 2 | 2 | 2 | 5 | 3 |
-| 31-45' | 2 | 3 | 7 | 8 | 2 | 8 |
-| 46-60' | 0 | 6 | 5 | 4 | 6 | 4 |
-| 61-75' | 5 | 6 | 5 | 5 | 4 | 1 |
-| 76-90' | 8 | 1 | 7 | 3 | 7 | 13 |
+| 31-45' | 2 | 3 | 8 | 8 | 2 | 8 |
+| 46-60' | 0 | 7 | 5 | 4 | 6 | 5 |
+| 61-75' | 5 | 6 | 5 | 5 | 4 | 2 |
+| 76-90' | 8 | 1 | 8 | 3 | 7 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,67 +115,67 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Ipswich
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Premier League | Tottenham 2-0 Ipswich | fuera | 6-8 | 11 (3) - 18 (9) | 1-4 |
 | 2026-11-08 | Premier League | Ipswich 1-2 Bournemouth | casa | 2-7 | 10 (2) - 15 (4) | 2-3 |
 | 2026-10-31 | Premier League | Hull City 2-2 Ipswich | fuera | 3-6 | 15 (3) - 9 (3) | 3-3 |
 | 2026-10-23 | Premier League | Ipswich 1-1 Nottingham Forest | casa | 0-5 | 7 (3) - 17 (5) | 1-1 |
 | 2026-10-17 | Premier League | Manchester City 3-2 Ipswich | fuera | 3-2 | 8 (3) - 19 (6) | 2-1 |
 | 2026-10-10 | Premier League | Ipswich 2-1 Fulham | casa | 2-5 | 11 (5) - 13 (5) | 2-4 |
-| 2026-09-19 | Premier League | Everton 1-0 Ipswich | fuera | 4-4 | 13 (4) - 21 (2) | 3-2 |
 
 ## Jugadores de Ipswich
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. O&apos;Shea | D | 11 | 990 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 7 | 9 | 0,8 | 0 | 0 |
-| L. Davis | D | 12 | 949 | 2 | 2 | 7 | 0,6 | 3 | 0,2 | 6 | 6 | 0,5 | 2 | 0 |
-| I. Diop | D | 10 | 900 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 2 | 0,2 | 2 | 0 |
-| J. Enciso | M | 10 | 835 | 2 | 2 | 27 | 2,7 | 9 | 0,9 | 6 | 17 | 1,7 | 3 | 0 |
-| C. Walton | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,4 | 1 | 0 |
-| A. Ouattara | D | 12 | 718 | 1 | 2 | 4 | 0,3 | 2 | 0,2 | 5 | 4 | 0,3 | 1 | 0 |
-| E. Palacios | M | 9 | 664 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 11 | 1,2 | 1 | 0 |
-| Emersonn | F | 10 | 661 | 2 | 1 | 17 | 1,7 | 4 | 0,4 | 6 | 15 | 1,5 | 0 | 0 |
-| A. Fatawu | F | 9 | 544 | 0 | 1 | 8 | 0,9 | 1 | 0,1 | 11 | 13 | 1,4 | 4 | 1 |
-| Jacob Greaves | D | 6 | 537 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 6 | 1,0 | 1 | 0 |
-| D. Maeda | M | 11 | 525 | 1 | 0 | 6 | 0,5 | 3 | 0,3 | 8 | 5 | 0,5 | 0 | 0 |
-| Saša Lukić | M | 7 | 502 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 14 | 1 | 0,1 | 2 | 0 |
-| Florentino | M | 8 | 485 | 1 | 0 | 3 | 0,4 | 2 | 0,2 | 8 | 2 | 0,2 | 0 | 0 |
-| J. Clarke | F | 11 | 406 | 2 | 3 | 7 | 0,6 | 4 | 0,4 | 4 | 8 | 0,7 | 2 | 0 |
+| D. O&apos;Shea | D | 12 | 1080 | 1 | 0 | 3 | 0,2 | 2 | 0,2 | 8 | 9 | 0,8 | 0 | 0 |
+| L. Davis | D | 13 | 1032 | 2 | 2 | 7 | 0,5 | 3 | 0,2 | 8 | 8 | 0,6 | 2 | 0 |
+| I. Diop | D | 11 | 990 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 11 | 2 | 0,2 | 3 | 0 |
+| J. Enciso | M | 11 | 925 | 2 | 2 | 31 | 2,8 | 9 | 0,8 | 7 | 23 | 2,1 | 3 | 0 |
+| C. Walton | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 1 | 0 |
+| A. Ouattara | M | 13 | 774 | 1 | 2 | 5 | 0,4 | 3 | 0,2 | 5 | 4 | 0,3 | 1 | 0 |
+| E. Palacios | M | 10 | 720 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 13 | 1,3 | 1 | 0 |
+| Emersonn | F | 11 | 677 | 2 | 1 | 17 | 1,5 | 4 | 0,4 | 7 | 15 | 1,4 | 0 | 0 |
+| S. Lukić | M | 8 | 592 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 14 | 2 | 0,2 | 2 | 0 |
+| D. Maeda | M | 12 | 581 | 1 | 0 | 6 | 0,5 | 3 | 0,2 | 11 | 6 | 0,5 | 0 | 0 |
+| A. Fatawu | F | 10 | 578 | 0 | 1 | 9 | 0,9 | 1 | 0,1 | 12 | 13 | 1,3 | 4 | 1 |
+| J. Greaves | D | 7 | 544 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 5 | 6 | 0,9 | 1 | 0 |
+| Florentino | M | 9 | 519 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 8 | 3 | 0,3 | 0 | 0 |
+| J. Clarke | F | 12 | 440 | 2 | 3 | 8 | 0,7 | 4 | 0,3 | 5 | 8 | 0,7 | 2 | 0 |
 | J. Philogene | M | 7 | 361 | 0 | 0 | 5 | 0,7 | 4 | 0,6 | 4 | 5 | 0,7 | 0 | 0 |
 | Kjell Scherpen | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | M. Núñez | M | 4 | 321 | 2 | 0 | 3 | 0,8 | 2 | 0,5 | 4 | 0 | 0,0 | 1 | 0 |
+| Z. Flemming | F | 10 | 305 | 2 | 0 | 11 | 1,1 | 6 | 0,6 | 12 | 7 | 0,7 | 2 | 0 |
+| D. Furlong | D | 4 | 287 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | C. Akpom | F | 10 | 238 | 2 | 1 | 5 | 0,5 | 4 | 0,4 | 2 | 9 | 0,9 | 0 | 0 |
-| Z. Flemming | F | 9 | 231 | 2 | 0 | 9 | 1,0 | 5 | 0,6 | 10 | 4 | 0,4 | 2 | 0 |
-| K. McAteer | M | 5 | 199 | 0 | 0 | 4 | 0,8 | 3 | 0,6 | 6 | 4 | 0,8 | 1 | 0 |
 
 ## Últimos partidos de Aston Villa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Premier League | Aston Villa 0-0 Sunderland | casa | 7-2 | 19 (7) - 7 (1) | 2-2 |
 | 2026-11-08 | Premier League | Manchester United 4-4 Aston Villa | fuera | 1-8 | 12 (6) - 26 (9) | 1-1 |
 | 2026-11-03 | Champions League | Barcelona 3-0 Aston Villa | fuera | 8-4 | 9 (1) - 16 (8) | 3-1 |
 | 2026-10-31 | Premier League | Aston Villa 1-1 Fulham | casa | 7-7 | 16 (3) - 14 (5) | 1-3 |
 | 2026-10-28 | Carabao Cup | Bournemouth 3-0 Aston Villa | fuera | 2-6 | 17 (5) - 19 (7) | 3-3 |
 | 2026-10-24 | Premier League | Aston Villa 2-1 Manchester City | casa | 4-7 | 8 (2) - 15 (7) | 4-4 |
-| 2026-10-21 | Champions League | Aston Villa 3-1 Viking | casa | 8-6 | 21 (10) - 10 (3) | 0-0 |
 
 ## Jugadores de Aston Villa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Z. Suzuki | G | 15 | 1305 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 1 | 0 |
 | V. Lindelöf | D | 14 | 1260 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
-| J.  McGinn | M | 16 | 1226 | 3 | 4 | 18 | 1,1 | 8 | 0,5 | 18 | 36 | 2,2 | 3 | 0 |
-| Z. Suzuki | G | 14 | 1215 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 1 | 0 |
-| B. Kamara | M | 13 | 1114 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 24 | 29 | 2,2 | 0 | 0 |
-| N. Jackson | F | 14 | 1054 | 9 | 1 | 34 | 2,4 | 19 | 1,4 | 6 | 11 | 0,8 | 3 | 0 |
-| E. Buendía | M | 14 | 904 | 3 | 0 | 27 | 1,9 | 7 | 0,5 | 15 | 21 | 1,5 | 5 | 0 |
-| I. Maatsen | D | 10 | 870 | 0 | 0 | 9 | 0,9 | 1 | 0,1 | 9 | 9 | 0,9 | 3 | 0 |
+| J.  McGinn | M | 17 | 1256 | 3 | 4 | 19 | 1,1 | 8 | 0,5 | 18 | 37 | 2,2 | 3 | 0 |
+| B. Kamara | M | 14 | 1204 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 28 | 31 | 2,2 | 0 | 0 |
+| N. Jackson | F | 15 | 1127 | 9 | 1 | 35 | 2,3 | 19 | 1,3 | 7 | 11 | 0,7 | 3 | 0 |
+| E. Buendía | M | 15 | 964 | 3 | 0 | 31 | 2,1 | 9 | 0,6 | 17 | 22 | 1,5 | 5 | 0 |
+| I. Maatsen | D | 11 | 960 | 0 | 0 | 11 | 1,0 | 2 | 0,2 | 11 | 11 | 1,0 | 4 | 0 |
+| Pau Torres | D | 12 | 922 | 0 | 2 | 6 | 0,5 | 0 | 0,0 | 4 | 5 | 0,4 | 0 | 0 |
 | M. Cash | D | 11 | 858 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 19 | 12 | 1,1 | 5 | 0 |
-| Pau Torres | D | 11 | 832 | 0 | 2 | 5 | 0,5 | 0 | 0,0 | 4 | 3 | 0,3 | 0 | 0 |
 | João Gomes | M | 12 | 735 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 15 | 14 | 1,2 | 4 | 1 |
-| R. Barkley | M | 16 | 716 | 4 | 2 | 16 | 1,0 | 8 | 0,5 | 13 | 9 | 0,6 | 1 | 0 |
+| R. Barkley | M | 17 | 733 | 4 | 2 | 18 | 1,1 | 9 | 0,5 | 14 | 9 | 0,5 | 1 | 0 |
 | T. Mings | D | 9 | 711 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 4 | 0,4 | 1 | 0 |
-| J. Manzambi | M | 10 | 628 | 3 | 3 | 18 | 1,8 | 8 | 0,8 | 1 | 19 | 1,9 | 1 | 0 |
+| J. Manzambi | M | 11 | 688 | 3 | 3 | 20 | 1,8 | 9 | 0,8 | 1 | 21 | 1,9 | 1 | 0 |
+| A. Wan-Bissaka | D | 10 | 616 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
+| Alysson Edward | M | 16 | 599 | 2 | 1 | 15 | 0,9 | 5 | 0,3 | 12 | 11 | 0,7 | 2 | 0 |
 | George Hemmings | M | 10 | 560 | 0 | 1 | 8 | 0,8 | 2 | 0,2 | 13 | 7 | 0,7 | 0 | 0 |
-| A. Wan-Bissaka | D | 9 | 526 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 3 | 0,3 | 1 | 0 |
-| Alysson Edward | M | 15 | 509 | 2 | 1 | 13 | 0,9 | 4 | 0,3 | 11 | 9 | 0,6 | 2 | 0 |
-| I. Mbaye | F | 12 | 454 | 0 | 4 | 14 | 1,2 | 6 | 0,5 | 5 | 6 | 0,5 | 0 | 0 |
-| L. Goretzka | M | 8 | 295 | 1 | 0 | 7 | 0,9 | 1 | 0,1 | 6 | 3 | 0,4 | 0 | 0 |
-| T. Harwood-Bellis | D | 3 | 270 | 0 | 0 | 2 | 0,7 | 2 | 0,7 | 2 | 2 | 0,7 | 0 | 0 |
+| I. Mbaye | F | 13 | 484 | 0 | 4 | 15 | 1,2 | 7 | 0,5 | 5 | 7 | 0,5 | 0 | 0 |
+| L. Goretzka | M | 9 | 368 | 1 | 0 | 9 | 1,0 | 1 | 0,1 | 10 | 7 | 0,8 | 1 | 0 |
+| T. Harwood-Bellis | D | 4 | 360 | 0 | 0 | 3 | 0,8 | 2 | 0,5 | 2 | 5 | 1,2 | 0 | 0 |
 | Matteo Ruggeri | D | 5 | 248 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |

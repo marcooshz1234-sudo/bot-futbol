@@ -1,7 +1,7 @@
 # Lyon – Lillestrom
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Parc Olympique Lyonnais
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:05_
@@ -53,53 +53,53 @@ _Actualizadas: 21/11 14:05_
 ## Estadísticas de equipo
 | | Lyon (total) | Lyon en casa | Lillestrom (total) | Lillestrom fuera |
 |---|---|---|---|---|
-| Partidos analizados | 18 | 8 | 6 | 2 |
-| Forma (últimos 5) | DEVDD | VVVVV | DDEDV | EE |
-| Balance | 8V 4E 6D | 6V 1E 1D | 1V 2E 3D | 0V 2E 0D |
-| Goles a favor / partido | 1,50 | 2,38 | 0,67 | 0,50 |
-| Goles en contra / partido | 1,17 | 0,88 | 1,83 | 0,50 |
-| Goles a favor 1ª parte | 0,78 | 1,25 | 0,00 | 0,00 |
-| Goles a favor 2ª parte | 0,72 | 1,12 | 0,67 | 0,50 |
-| Goles en contra 1ª parte | 0,44 | 0,50 | 1,00 | 0,00 |
-| Goles en contra 2ª parte | 0,72 | 0,38 | 0,83 | 0,50 |
-| Más de 1,5 goles | 94% | 100% | 67% | 50% |
-| Más de 2,5 goles | 56% | 75% | 50% | 0% |
-| Más de 3,5 goles | 17% | 38% | 17% | 0% |
-| Ambos marcan | 56% | 62% | 50% | 50% |
-| Portería a cero | 28% | 38% | 17% | 50% |
-| Se queda sin marcar | 22% | 0% | 50% | 50% |
-| xG a favor | 1,45 | 2,26 | 1,14 | 0,84 |
-| xG en contra | 1,34 | 1,06 | 1,82 | 1,12 |
-| Tiros / partido | 12,8 | 15,9 | 15,0 | 6,0 |
-| Tiros a puerta / partido | 5,1 | 6,4 | 3,2 | 2,0 |
-| Tiros recibidos | 12,3 | 10,9 | 14,8 | 15,0 |
+| Partidos analizados | 19 | 8 | 6 | 2 |
+| Forma (últimos 5) | VDEVD | VVVVV | DDEDV | EE |
+| Balance | 9V 4E 6D | 6V 1E 1D | 1V 2E 3D | 0V 2E 0D |
+| Goles a favor / partido | 1,47 | 2,38 | 0,67 | 0,50 |
+| Goles en contra / partido | 1,11 | 0,88 | 1,83 | 0,50 |
+| Goles a favor 1ª parte | 0,79 | 1,25 | 0,00 | 0,00 |
+| Goles a favor 2ª parte | 0,68 | 1,12 | 0,67 | 0,50 |
+| Goles en contra 1ª parte | 0,42 | 0,50 | 1,00 | 0,00 |
+| Goles en contra 2ª parte | 0,68 | 0,38 | 0,83 | 0,50 |
+| Más de 1,5 goles | 89% | 100% | 67% | 50% |
+| Más de 2,5 goles | 53% | 75% | 50% | 0% |
+| Más de 3,5 goles | 16% | 38% | 17% | 0% |
+| Ambos marcan | 53% | 62% | 50% | 50% |
+| Portería a cero | 32% | 38% | 17% | 50% |
+| Se queda sin marcar | 21% | 0% | 50% | 50% |
+| xG a favor | 1,40 | 2,26 | 1,14 | 0,84 |
+| xG en contra | 1,32 | 1,06 | 1,82 | 1,12 |
+| Tiros / partido | 12,6 | 15,9 | 15,0 | 6,0 |
+| Tiros a puerta / partido | 5,2 | 6,4 | 3,2 | 2,0 |
+| Tiros recibidos | 12,4 | 10,9 | 14,8 | 15,0 |
 | Tiros a puerta recibidos | 4,7 | 3,8 | 6,2 | 6,0 |
 | Posesión media % | 52 | 55 | 55 | 48 |
-| Córners a favor | 5,1 | 4,9 | 5,2 | 2,5 |
-| Córners en contra | 5,4 | 5,1 | 5,2 | 6,0 |
-| Córners a favor 1ª parte | 2,4 | 3,0 | 1,3 | 0,0 |
+| Córners a favor | 5,2 | 4,9 | 5,2 | 2,5 |
+| Córners en contra | 5,5 | 5,1 | 5,2 | 6,0 |
+| Córners a favor 1ª parte | 2,5 | 3,0 | 1,3 | 0,0 |
 | Córners a favor 2ª parte | 2,6 | 1,9 | 1,7 | 0,5 |
-| Córners totales del partido | 10,4 | 10,0 | 10,3 | 8,5 |
-| Córners totales 1ª parte | 5,4 | 5,4 | 3,2 | 2,5 |
+| Córners totales del partido | 10,6 | 10,0 | 10,3 | 8,5 |
+| Córners totales 1ª parte | 5,5 | 5,4 | 3,2 | 2,5 |
 | Córners totales 2ª parte | 5,1 | 4,6 | 2,7 | 1,0 |
-| Más de 8,5 córners | 72% | 62% | 67% | 50% |
-| Más de 9,5 córners | 67% | 62% | 50% | 50% |
-| Más de 10,5 córners | 50% | 38% | 33% | 0% |
+| Más de 8,5 córners | 74% | 62% | 67% | 50% |
+| Más de 9,5 córners | 68% | 62% | 50% | 50% |
+| Más de 10,5 córners | 53% | 38% | 33% | 0% |
 | Faltas cometidas | 11,2 | 11,1 | 11,0 | 13,0 |
 | Faltas recibidas | 13,7 | 12,1 | 10,2 | 11,5 |
 | Amarillas propias | 1,3 | 1,0 | 1,7 | 1,5 |
-| Amarillas del rival | 1,9 | 2,2 | 2,5 | 2,0 |
-| Rojas / partido | 0,06 | 0,12 | 0,00 | 0,00 |
+| Amarillas del rival | 1,8 | 2,2 | 2,5 | 2,0 |
+| Rojas / partido | 0,05 | 0,12 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lyon | Recibe Lyon | Tarjetas Lyon | Goles Lillestrom | Recibe Lillestrom | Tarjetas Lillestrom |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 0 | 1 | 0 | 1 | 0 |
 | 16-30' | 4 | 5 | 2 | 0 | 3 | 3 |
-| 31-45' | 7 | 3 | 4 | 0 | 2 | 1 |
+| 31-45' | 8 | 3 | 4 | 0 | 2 | 1 |
 | 46-60' | 3 | 3 | 5 | 0 | 2 | 3 |
 | 61-75' | 4 | 5 | 5 | 0 | 2 | 0 |
-| 76-90' | 6 | 5 | 8 | 4 | 1 | 3 |
+| 76-90' | 6 | 5 | 9 | 4 | 1 | 3 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -112,36 +112,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Lyon
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Lille 0-1 Lyon | fuera | 7-7 | 9 (6) - 14 (5) | 1-0 |
 | 2026-11-08 | Ligue 1 | Stade Brestois 29 2-0 Lyon | fuera | 8-1 | 10 (2) - 13 (6) | 2-1 |
 | 2026-11-05 | Europa League | Real Sociedad 1-1 Lyon | fuera | 6-5 | 12 (4) - 11 (4) | 4-3 |
 | 2026-11-01 | Ligue 1 | Lyon 2-0 Angers | casa | 4-3 | 21 (5) - 8 (2) | 0-1 |
 | 2026-10-26 | Ligue 1 | Paris Saint Germain 2-0 Lyon | fuera | 4-7 | 8 (5) - 17 (10) | 1-2 |
 | 2026-10-22 | Europa League | 1899 Hoffenheim 3-0 Lyon | fuera | 9-11 | 8 (2) - 21 (8) | 1-3 |
-| 2026-10-18 | Ligue 1 | Lyon 2-1 Nice | casa | 1-9 | 8 (4) - 12 (5) | 0-4 |
 
 ## Jugadores de Lyon
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. Greif | G | 15 | 1354 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,3 | 1 | 0 |
-| C. Tolisso | M | 18 | 1337 | 4 | 5 | 28 | 1,6 | 16 | 0,9 | 15 | 33 | 1,8 | 1 | 0 |
-| Abner | D | 15 | 1185 | 0 | 0 | 6 | 0,4 | 1 | 0,1 | 13 | 6 | 0,4 | 3 | 0 |
-| Z. Athekame | D | 13 | 1108 | 2 | 3 | 7 | 0,5 | 4 | 0,3 | 14 | 15 | 1,2 | 1 | 0 |
+| D. Greif | G | 16 | 1444 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,3 | 1 | 0 |
+| C. Tolisso | M | 19 | 1427 | 4 | 5 | 30 | 1,6 | 18 | 0,9 | 18 | 35 | 1,8 | 2 | 0 |
+| Abner | D | 16 | 1259 | 0 | 0 | 7 | 0,4 | 1 | 0,1 | 15 | 6 | 0,4 | 3 | 0 |
+| Z. Athekame | D | 14 | 1182 | 2 | 3 | 8 | 0,6 | 4 | 0,3 | 14 | 18 | 1,3 | 1 | 0 |
+| M. Niakhaté | D | 14 | 1174 | 0 | 0 | 2 | 0,1 | 1 | 0,1 | 23 | 7 | 0,5 | 3 | 0 |
 | T. Morton | M | 14 | 1097 | 1 | 0 | 8 | 0,6 | 4 | 0,3 | 8 | 12 | 0,9 | 1 | 0 |
-| M. Niakhaté | D | 13 | 1084 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 21 | 5 | 0,4 | 3 | 0 |
-| F. Bacher | D | 13 | 1001 | 1 | 1 | 9 | 0,7 | 3 | 0,2 | 11 | 8 | 0,6 | 1 | 0 |
-| T. Tessmann | M | 17 | 998 | 1 | 1 | 8 | 0,5 | 2 | 0,1 | 7 | 7 | 0,4 | 1 | 0 |
-| R. Kluivert | D | 13 | 921 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 16 | 4 | 0,3 | 0 | 0 |
-| E. Nuamah | F | 14 | 879 | 6 | 1 | 22 | 1,6 | 12 | 0,9 | 9 | 20 | 1,4 | 1 | 0 |
+| F. Bacher | D | 14 | 1091 | 1 | 1 | 9 | 0,6 | 3 | 0,2 | 12 | 8 | 0,6 | 1 | 0 |
+| T. Tessmann | M | 18 | 1088 | 1 | 1 | 9 | 0,5 | 3 | 0,2 | 7 | 7 | 0,4 | 1 | 0 |
+| E. Nuamah | F | 15 | 961 | 6 | 1 | 24 | 1,6 | 14 | 0,9 | 9 | 23 | 1,5 | 1 | 0 |
+| R. Kluivert | D | 14 | 937 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 17 | 4 | 0,3 | 0 | 0 |
+| M. Bidstrup | M | 16 | 903 | 1 | 0 | 6 | 0,4 | 1 | 0,1 | 12 | 8 | 0,5 | 0 | 0 |
 | Loïs Openda | F | 10 | 823 | 2 | 1 | 23 | 2,3 | 13 | 1,3 | 18 | 21 | 2,1 | 2 | 0 |
-| M. Bidstrup | M | 15 | 813 | 0 | 0 | 5 | 0,3 | 0 | 0,0 | 11 | 8 | 0,5 | 0 | 0 |
-| K. Boudache | F | 17 | 726 | 0 | 0 | 15 | 0,9 | 5 | 0,3 | 8 | 22 | 1,3 | 2 | 0 |
-| Keito Nakamura | F | 10 | 570 | 1 | 2 | 11 | 1,1 | 4 | 0,4 | 5 | 7 | 0,7 | 1 | 1 |
-| N. Nartey | M | 14 | 558 | 2 | 0 | 5 | 0,4 | 4 | 0,3 | 7 | 8 | 0,6 | 2 | 0 |
+| K. Boudache | F | 18 | 734 | 0 | 0 | 15 | 0,8 | 5 | 0,3 | 8 | 22 | 1,2 | 2 | 0 |
+| Keito Nakamura | F | 11 | 652 | 1 | 2 | 11 | 1,0 | 4 | 0,4 | 6 | 7 | 0,6 | 1 | 1 |
+| N. Nartey | M | 15 | 559 | 2 | 0 | 5 | 0,3 | 4 | 0,3 | 7 | 8 | 0,5 | 2 | 0 |
+| K. Merah | F | 10 | 488 | 1 | 0 | 6 | 0,6 | 1 | 0,1 | 5 | 7 | 0,7 | 0 | 0 |
 | Clinton Mata | D | 7 | 483 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 0,9 | 0 | 0 |
 | Pavel Šulc | F | 10 | 476 | 2 | 3 | 6 | 0,6 | 5 | 0,5 | 5 | 5 | 0,5 | 1 | 0 |
-| K. Merah | F | 9 | 399 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 4 | 4 | 0,4 | 0 | 0 |
 | Malick Fofana | F | 6 | 335 | 2 | 0 | 11 | 1,8 | 10 | 1,7 | 5 | 10 | 1,7 | 0 | 0 |
-| Ainsley Maitland-Niles | D | 4 | 318 | 1 | 1 | 1 | 0,2 | 1 | 0,2 | 3 | 1 | 0,2 | 1 | 0 |
+| J. Duranville | F | 8 | 320 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 5 | 5 | 0,6 | 1 | 0 |
 
 ## Últimos partidos de Lillestrom
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

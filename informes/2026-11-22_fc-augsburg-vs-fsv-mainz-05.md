@@ -1,20 +1,20 @@
 # FC Augsburg – FSV Mainz 05
 **Bundesliga** · Regular Season - 10 · 22/11/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:03_
+_Actualizadas: 22/11 00:12_
 
 - **1X2:** 1 **2.62**  ·  X **3.80**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.25**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.75**
+    - 2,5: más **1.40** · menos **3.00**
     - 3,5: más **2.00** · menos **1.80**
     - 4,5: más **3.40** · menos **1.33**
-    - 5,5: más **6.00** · menos **1.12**
+    - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -36,7 +36,7 @@ _Actualizadas: 21/11 14:03_
     - 10: más **1.95** · menos **1.85**
 - **Córners 1X2:** 1 **2.20**  ·  X **8.00**  ·  2 **1.91**
 - **Tarjetas más/menos:**
-    - 4,5: más **2.10** · menos **1.67**
+    - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **3.00**  ·  X **2.60**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
@@ -56,7 +56,7 @@ _Actualizadas: 21/11 14:03_
     - 4,5: más **1.67** · menos **2.10**
 - **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.75**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
 - **Home Team Total Cards:**
-    - 1,5: más **1.62** · menos **2.20**
+    - 1,5: más **1.57** · menos **2.25**
 - **Away Team Total Cards:**
     - 2,5: más **2.10** · menos **1.67**
 - **Total ShotOnGoal:**

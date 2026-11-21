@@ -1,7 +1,7 @@
 # Valencia – Osasuna
 **LaLiga** · Regular Season - 14 · 29/11/2026 14:00 (hora España) · Estadio de Mestalla
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:07_
@@ -48,52 +48,52 @@ _Actualizadas: 21/11 14:07_
 ## Estadísticas de equipo
 | | Valencia (total) | Valencia en casa | Osasuna (total) | Osasuna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 13 | 7 |
-| Forma (últimos 5) | VDVDE | DDEDD | EDVDV | DVDDD |
-| Balance | 3V 3E 7D | 0V 2E 5D | 4V 3E 6D | 2V 0E 5D |
-| Goles a favor / partido | 1,08 | 0,43 | 1,38 | 1,86 |
-| Goles en contra / partido | 1,54 | 2,00 | 1,77 | 2,71 |
-| Goles a favor 1ª parte | 0,54 | 0,14 | 0,54 | 0,57 |
-| Goles a favor 2ª parte | 0,54 | 0,29 | 0,85 | 1,29 |
-| Goles en contra 1ª parte | 0,62 | 0,71 | 0,69 | 1,00 |
-| Goles en contra 2ª parte | 0,92 | 1,29 | 1,08 | 1,71 |
-| Más de 1,5 goles | 54% | 57% | 85% | 100% |
-| Más de 2,5 goles | 54% | 57% | 46% | 86% |
-| Más de 3,5 goles | 38% | 29% | 31% | 57% |
-| Ambos marcan | 31% | 29% | 46% | 57% |
-| Portería a cero | 38% | 29% | 31% | 14% |
-| Se queda sin marcar | 46% | 71% | 31% | 29% |
-| xG a favor | 0,97 | 0,96 | 1,41 | 1,43 |
-| xG en contra | 1,55 | 1,80 | 1,57 | 1,97 |
-| Tiros / partido | 9,8 | 11,1 | 11,2 | 9,2 |
+| Partidos analizados | 14 | 7 | 13 | 7 |
+| Forma (últimos 5) | VVDVD | DDEDD | EDVDV | DVDDD |
+| Balance | 4V 3E 7D | 0V 2E 5D | 4V 3E 6D | 2V 0E 5D |
+| Goles a favor / partido | 1,07 | 0,43 | 1,38 | 1,86 |
+| Goles en contra / partido | 1,43 | 2,00 | 1,77 | 2,71 |
+| Goles a favor 1ª parte | 0,57 | 0,14 | 0,54 | 0,57 |
+| Goles a favor 2ª parte | 0,50 | 0,29 | 0,85 | 1,29 |
+| Goles en contra 1ª parte | 0,57 | 0,71 | 0,69 | 1,00 |
+| Goles en contra 2ª parte | 0,86 | 1,29 | 1,08 | 1,71 |
+| Más de 1,5 goles | 50% | 57% | 85% | 100% |
+| Más de 2,5 goles | 50% | 57% | 46% | 86% |
+| Más de 3,5 goles | 36% | 29% | 31% | 57% |
+| Ambos marcan | 29% | 29% | 46% | 57% |
+| Portería a cero | 43% | 29% | 31% | 14% |
+| Se queda sin marcar | 43% | 71% | 31% | 29% |
+| xG a favor | 0,96 | 0,96 | 1,41 | 1,43 |
+| xG en contra | 1,49 | 1,80 | 1,57 | 1,97 |
+| Tiros / partido | 9,9 | 11,1 | 11,2 | 9,2 |
 | Tiros a puerta / partido | 2,8 | 3,1 | 4,0 | 3,3 |
-| Tiros recibidos | 15,8 | 16,4 | 14,2 | 16,3 |
+| Tiros recibidos | 16,2 | 16,4 | 14,2 | 16,3 |
 | Tiros a puerta recibidos | 5,2 | 5,4 | 4,4 | 6,8 |
 | Posesión media % | 43 | 39 | 45 | 45 |
-| Córners a favor | 3,8 | 3,9 | 3,7 | 2,3 |
-| Córners en contra | 5,0 | 4,7 | 5,2 | 6,7 |
-| Córners a favor 1ª parte | 1,4 | 1,3 | 1,4 | 0,7 |
+| Córners a favor | 3,9 | 3,9 | 3,7 | 2,3 |
+| Córners en contra | 5,2 | 4,7 | 5,2 | 6,7 |
+| Córners a favor 1ª parte | 1,5 | 1,3 | 1,4 | 0,7 |
 | Córners a favor 2ª parte | 2,4 | 2,6 | 2,2 | 1,7 |
-| Córners totales del partido | 8,8 | 8,6 | 8,9 | 9,0 |
-| Córners totales 1ª parte | 4,2 | 4,1 | 3,9 | 3,5 |
-| Córners totales 2ª parte | 4,7 | 4,4 | 5,0 | 5,5 |
-| Más de 8,5 córners | 50% | 43% | 50% | 50% |
-| Más de 9,5 córners | 50% | 43% | 50% | 50% |
-| Más de 10,5 córners | 25% | 29% | 33% | 33% |
-| Faltas cometidas | 13,1 | 14,4 | 14,3 | 12,5 |
-| Faltas recibidas | 10,6 | 10,6 | 11,4 | 9,2 |
-| Amarillas propias | 2,4 | 2,4 | 2,8 | 2,7 |
+| Córners totales del partido | 9,2 | 8,6 | 8,9 | 9,0 |
+| Córners totales 1ª parte | 4,5 | 4,1 | 3,9 | 3,5 |
+| Córners totales 2ª parte | 4,6 | 4,4 | 5,0 | 5,5 |
+| Más de 8,5 córners | 54% | 43% | 50% | 50% |
+| Más de 9,5 córners | 54% | 43% | 50% | 50% |
+| Más de 10,5 córners | 31% | 29% | 33% | 33% |
+| Faltas cometidas | 13,4 | 14,4 | 14,3 | 12,5 |
+| Faltas recibidas | 10,7 | 10,6 | 11,4 | 9,2 |
+| Amarillas propias | 2,3 | 2,4 | 2,8 | 2,7 |
 | Amarillas del rival | 2,4 | 2,7 | 1,7 | 1,0 |
-| Rojas / partido | 0,17 | 0,29 | 0,00 | 0,00 |
+| Rojas / partido | 0,15 | 0,29 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Valencia | Recibe Valencia | Tarjetas Valencia | Goles Osasuna | Recibe Osasuna | Tarjetas Osasuna |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 2 | 3 | 2 | 3 | 1 |
 | 16-30' | 3 | 4 | 5 | 2 | 4 | 6 |
-| 31-45' | 1 | 2 | 6 | 3 | 2 | 5 |
+| 31-45' | 2 | 2 | 6 | 3 | 2 | 5 |
 | 46-60' | 2 | 3 | 5 | 6 | 4 | 4 |
-| 61-75' | 3 | 2 | 5 | 2 | 4 | 5 |
+| 61-75' | 3 | 2 | 6 | 2 | 4 | 5 |
 | 76-90' | 2 | 7 | 11 | 3 | 6 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -112,36 +112,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Valencia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | LaLiga | Rayo Vallecano 0-1 Valencia | fuera | 5-8 | 11 (2) - 21 (5) | 1-2 |
 | 2026-11-10 | Copa del Rey | Tavernes 0-6 Valencia | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | LaLiga | Valencia 0-3 Real Madrid | casa | 2-5 | 4 (2) - 19 (11) | 4-3 |
 | 2026-11-01 | LaLiga | Elche 0-1 Valencia | fuera | 2-6 | 5 (3) - 16 (3) | 2-3 |
 | 2026-10-24 | LaLiga | Valencia 1-2 Villarreal | casa | 6-9 | 9 (5) - 19 (3) | 3-3 |
 | 2026-10-17 | LaLiga | Valencia 0-0 Athletic Club | casa | 2-6 | 16 (3) - 9 (2) | 3-3 |
-| 2026-10-11 | LaLiga | Racing Santander 2-2 Valencia | fuera | 3-8 | 10 (2) - 20 (11) | 3-3 |
 
 ## Jugadores de Valencia
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Dimitrievski | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
-| Pepelu | D | 12 | 1018 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 13 | 6 | 0,5 | 3 | 0 |
-| Javi Guerra | M | 12 | 980 | 0 | 2 | 12 | 1,0 | 3 | 0,2 | 14 | 11 | 0,9 | 2 | 0 |
+| S. Dimitrievski | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 2 | 0 |
+| Pepelu | M | 13 | 1108 | 1 | 0 | 3 | 0,2 | 1 | 0,1 | 13 | 6 | 0,5 | 3 | 0 |
+| Javi Guerra | F | 13 | 1063 | 0 | 3 | 13 | 1,0 | 3 | 0,2 | 17 | 13 | 1,0 | 3 | 0 |
 | A. Danjuma | F | 12 | 929 | 0 | 1 | 17 | 1,4 | 7 | 0,6 | 9 | 11 | 0,9 | 0 | 0 |
+| G. Rodríguez | M | 10 | 819 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 18 | 17 | 1,7 | 4 | 0 |
+| Pablo Maffeo | D | 12 | 797 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 16 | 11 | 0,9 | 4 | 0 |
 | José Gayà | D | 10 | 794 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 11 | 6 | 0,6 | 1 | 1 |
-| G. Rodríguez | M | 9 | 736 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 15 | 15 | 1,7 | 4 | 0 |
-| Pablo Maffeo | D | 11 | 707 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 15 | 8 | 0,7 | 4 | 0 |
-| César Tárrega | D | 9 | 690 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 11 | 4 | 0,4 | 1 | 0 |
-| F. Ugrinic | M | 12 | 627 | 0 | 0 | 5 | 0,4 | 3 | 0,2 | 7 | 12 | 1,0 | 0 | 0 |
+| César Tárrega | D | 10 | 780 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 13 | 4 | 0,4 | 1 | 0 |
+| F. Ugrinic | M | 13 | 648 | 0 | 0 | 5 | 0,4 | 3 | 0,2 | 8 | 12 | 0,9 | 0 | 0 |
 | J. de Haas | D | 7 | 503 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 2 | 0,3 | 2 | 0 |
-| Hugo Duro | F | 10 | 429 | 0 | 1 | 6 | 0,6 | 0 | 0,0 | 5 | 11 | 1,1 | 0 | 0 |
-| Arnau Martínez | D | 8 | 388 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
+| Arnau Martínez | D | 9 | 478 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 3 | 3 | 0,3 | 1 | 0 |
+| Luis Rioja | M | 9 | 462 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 0 | 3 | 0,3 | 1 | 0 |
+| Hugo Duro | F | 11 | 436 | 0 | 1 | 6 | 0,5 | 0 | 0,0 | 5 | 11 | 1,0 | 0 | 0 |
 | Jesús Vázquez | D | 10 | 374 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 10 | 1,0 | 0 | 0 |
-| Luis Rioja | F | 8 | 372 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 0 | 2 | 0,2 | 1 | 0 |
+| Aaron Mayol | M | 5 | 355 | 1 | 0 | 3 | 0,6 | 2 | 0,4 | 9 | 2 | 0,4 | 1 | 0 |
 | David Otorbi | M | 9 | 352 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 2 | 5 | 0,6 | 0 | 0 |
-| Aaron Mayol | M | 4 | 348 | 1 | 0 | 3 | 0,8 | 2 | 0,5 | 9 | 2 | 0,5 | 1 | 0 |
-| M. Diakhaby | D | 6 | 334 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 2 | 0 |
+| M. Diakhaby | D | 7 | 351 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 1 | 0,1 | 2 | 0 |
+| U. Sadiq | F | 6 | 329 | 2 | 0 | 8 | 1,3 | 6 | 1,0 | 10 | 2 | 0,3 | 0 | 0 |
 | Ryunosuke Sato | M | 5 | 297 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 4 | 1 | 0,2 | 2 | 0 |
-| U. Sadiq | F | 5 | 246 | 2 | 0 | 6 | 1,2 | 6 | 1,2 | 6 | 2 | 0,4 | 0 | 0 |
-| Aliou Dieng | M | 6 | 244 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 2 | 0,3 | 0 | 0 |
+| Dani Raba | M | 6 | 257 | 1 | 0 | 5 | 0,8 | 1 | 0,2 | 10 | 10 | 1,7 | 3 | 0 |
 
 ## Últimos partidos de Osasuna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

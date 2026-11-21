@@ -1,10 +1,37 @@
 # Estrela – Portimonense
 **Taça de Portugal** · Round of 32 · 22/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 22/11 00:13_
+
+- **1X2:** 1 **1.62**  ·  X **3.20**  ·  2 **5.25**
+- **Doble oportunidad:** 1X **1.14**  ·  12 **1.33**  ·  X2 **2.10**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **Goles más/menos:**
+    - 0,5: más **1.07** · menos **9.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **2.00** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.20**  ·  2 **5.50**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **1.36**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **8.00**
+- **Win Both Halves:** 1 **4.33**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **11.00**  ·  Home/No **2.62**  ·  Draw/No **9.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.60**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.25**
 
 ## Estadísticas de equipo
 | | Estrela (total) | Estrela en casa | Portimonense (total) | Portimonense fuera |

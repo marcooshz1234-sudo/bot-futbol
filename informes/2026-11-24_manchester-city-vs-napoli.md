@@ -1,10 +1,10 @@
 # Manchester City – Napoli
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Etihad Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 22/11 00:13_
 
 - **1X2:** 1 **1.25**  ·  X **6.25**  ·  2 **9.50**
 - **Doble oportunidad:** 1X **1.07**  ·  12 **1.12**  ·  X2 **3.75**
@@ -55,58 +55,59 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | Manchester City (total) | Manchester City en casa | Napoli (total) | Napoli fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 9 | 15 | 8 |
-| Forma (últimos 5) | DVDED | DEVVD | EDDVE | DDVDD |
-| Balance | 11V 1E 4D | 6V 1E 2D | 5V 3E 7D | 2V 1E 5D |
-| Goles a favor / partido | 2,50 | 2,78 | 1,60 | 1,38 |
-| Goles en contra / partido | 1,38 | 1,56 | 1,67 | 1,88 |
-| Goles a favor 1ª parte | 0,81 | 1,22 | 0,67 | 0,50 |
-| Goles a favor 2ª parte | 1,69 | 1,56 | 0,93 | 0,88 |
-| Goles en contra 1ª parte | 0,75 | 1,00 | 0,53 | 0,50 |
-| Goles en contra 2ª parte | 0,62 | 0,56 | 1,13 | 1,38 |
-| Más de 1,5 goles | 81% | 78% | 80% | 88% |
-| Más de 2,5 goles | 75% | 78% | 53% | 50% |
-| Más de 3,5 goles | 56% | 67% | 40% | 50% |
-| Ambos marcan | 62% | 67% | 60% | 62% |
-| Portería a cero | 31% | 22% | 20% | 12% |
-| Se queda sin marcar | 6% | 11% | 20% | 25% |
-| xG a favor | 2,12 | 2,37 | 1,63 | 1,51 |
-| xG en contra | 1,26 | 1,68 | 1,62 | 1,54 |
-| Tiros / partido | 15,8 | 17,2 | 14,3 | 14,6 |
-| Tiros a puerta / partido | 5,9 | 5,9 | 5,5 | 5,4 |
-| Tiros recibidos | 10,8 | 10,7 | 16,9 | 16,4 |
-| Tiros a puerta recibidos | 4,0 | 4,6 | 4,8 | 4,9 |
-| Posesión media % | 64 | 63 | 50 | 54 |
-| Córners a favor | 5,8 | 5,8 | 4,7 | 5,2 |
-| Córners en contra | 3,8 | 3,7 | 5,5 | 5,4 |
-| Córners a favor 1ª parte | 2,9 | 3,1 | 2,2 | 2,8 |
-| Córners a favor 2ª parte | 2,9 | 2,7 | 2,5 | 2,5 |
-| Córners totales del partido | 9,6 | 9,4 | 10,1 | 10,6 |
-| Córners totales 1ª parte | 4,4 | 4,2 | 5,1 | 5,6 |
-| Córners totales 2ª parte | 5,1 | 5,2 | 5,0 | 5,0 |
-| Más de 8,5 córners | 69% | 78% | 73% | 75% |
-| Más de 9,5 córners | 62% | 67% | 60% | 62% |
-| Más de 10,5 córners | 44% | 44% | 33% | 38% |
-| Faltas cometidas | 9,9 | 8,4 | 9,5 | 9,2 |
-| Faltas recibidas | 14,1 | 13,1 | 9,3 | 9,2 |
-| Amarillas propias | 1,3 | 0,7 | 1,5 | 1,4 |
-| Amarillas del rival | 2,1 | 1,7 | 1,6 | 2,1 |
-| Rojas / partido | 0,06 | 0,00 | 0,13 | 0,25 |
+| Partidos analizados | 17 | 10 | 16 | 8 |
+| Forma (últimos 5) | EDVDE | EDEVV | VEDDV | DDVDD |
+| Balance | 11V 2E 4D | 6V 2E 2D | 6V 3E 7D | 2V 1E 5D |
+| Goles a favor / partido | 2,41 | 2,60 | 1,56 | 1,38 |
+| Goles en contra / partido | 1,35 | 1,50 | 1,56 | 1,88 |
+| Goles a favor 1ª parte | 0,76 | 1,10 | 0,62 | 0,50 |
+| Goles a favor 2ª parte | 1,65 | 1,50 | 0,94 | 0,88 |
+| Goles en contra 1ª parte | 0,76 | 1,00 | 0,50 | 0,50 |
+| Goles en contra 2ª parte | 0,59 | 0,50 | 1,06 | 1,38 |
+| Más de 1,5 goles | 82% | 80% | 75% | 88% |
+| Más de 2,5 goles | 71% | 70% | 50% | 50% |
+| Más de 3,5 goles | 53% | 60% | 38% | 50% |
+| Ambos marcan | 65% | 70% | 56% | 62% |
+| Portería a cero | 29% | 20% | 25% | 12% |
+| Se queda sin marcar | 6% | 10% | 19% | 25% |
+| xG a favor | 2,11 | 2,33 | 1,64 | 1,51 |
+| xG en contra | 1,23 | 1,58 | 1,55 | 1,54 |
+| Tiros / partido | 15,8 | 17,0 | 14,8 | 14,6 |
+| Tiros a puerta / partido | 5,7 | 5,6 | 5,8 | 5,4 |
+| Tiros recibidos | 10,4 | 10,1 | 16,6 | 16,4 |
+| Tiros a puerta recibidos | 4,0 | 4,5 | 4,6 | 4,9 |
+| Posesión media % | 64 | 63 | 51 | 54 |
+| Córners a favor | 5,9 | 6,0 | 4,9 | 5,2 |
+| Córners en contra | 3,9 | 3,9 | 5,4 | 5,4 |
+| Córners a favor 1ª parte | 3,1 | 3,3 | 2,3 | 2,8 |
+| Córners a favor 2ª parte | 2,9 | 2,7 | 2,6 | 2,5 |
+| Córners totales del partido | 9,8 | 9,9 | 10,3 | 10,6 |
+| Córners totales 1ª parte | 4,6 | 4,5 | 5,1 | 5,6 |
+| Córners totales 2ª parte | 5,2 | 5,4 | 5,2 | 5,0 |
+| Más de 8,5 córners | 71% | 80% | 75% | 75% |
+| Más de 9,5 córners | 65% | 70% | 62% | 62% |
+| Más de 10,5 córners | 47% | 50% | 38% | 38% |
+| Faltas cometidas | 9,8 | 8,4 | 9,8 | 9,2 |
+| Faltas recibidas | 13,9 | 12,9 | 9,2 | 9,2 |
+| Amarillas propias | 1,3 | 0,7 | 1,6 | 1,4 |
+| Amarillas del rival | 2,2 | 1,8 | 1,6 | 2,1 |
+| Rojas / partido | 0,06 | 0,00 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester City | Recibe Manchester City | Tarjetas Manchester City | Goles Napoli | Recibe Napoli | Tarjetas Napoli |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 6 | 0 | 3 | 1 | 2 |
-| 16-30' | 5 | 4 | 1 | 4 | 5 | 1 |
+| 16-30' | 5 | 5 | 1 | 4 | 5 | 1 |
 | 31-45' | 6 | 2 | 5 | 3 | 2 | 7 |
-| 46-60' | 12 | 6 | 4 | 5 | 3 | 4 |
-| 61-75' | 6 | 3 | 2 | 4 | 6 | 4 |
-| 76-90' | 9 | 1 | 10 | 5 | 8 | 9 |
+| 46-60' | 13 | 6 | 4 | 5 | 3 | 5 |
+| 61-75' | 6 | 3 | 2 | 5 | 6 | 4 |
+| 76-90' | 9 | 1 | 11 | 5 | 8 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Manchester City:** M. Nunes (baja, Injury); A. Semenyo (baja, Knee Injury)
+**Napoli:** Alisson Santos (baja, Muscle Injury); B. Badiashile (baja, Muscle Injury); A. Buongiorno (baja, Knee Injury); David Neres (baja, Thigh Injury); G. Di Lorenzo (baja, Muscle Injury); S. Lobotka (baja, Ankle Injury); L. Marianucci (baja, Off the roster); R. Marin (baja, Red Card); A. Meret (baja, Back Injury); A. Vergara (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2025-09-18 · UEFA Champions League: Manchester City 2-0 Napoli
@@ -118,67 +119,67 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Manchester City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Premier League | Manchester City 1-1 Fulham | casa | 8-6 | 15 (3) - 5 (4) | 1-3 |
 | 2026-11-07 | Premier League | Nottingham Forest 3-1 Manchester City | fuera | 7-3 | 12 (4) - 11 (5) | 0-4 |
 | 2026-11-04 | Champions League | RB Leipzig 2-3 Manchester City | fuera | 3-5 | 12 (5) - 14 (6) | 2-4 |
 | 2026-10-31 | Premier League | Manchester City 0-1 Brighton | casa | 8-2 | 21 (6) - 7 (3) | 0-3 |
 | 2026-10-28 | Carabao Cup | Manchester City 2-2 Brighton | casa | 3-7 | 13 (3) - 17 (6) | 1-3 |
 | 2026-10-24 | Premier League | Aston Villa 2-1 Manchester City | fuera | 7-4 | 15 (7) - 8 (2) | 4-4 |
-| 2026-10-20 | Champions League | Manchester City 5-1 AEK Athens FC | casa | 8-3 | 17 (7) - 11 (3) | 1-0 |
 
 ## Jugadores de Manchester City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G. Donnarumma | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 0 |
-| E. Haaland | F | 13 | 1160 | 14 | 0 | 50 | 3,8 | 28 | 2,2 | 10 | 8 | 0,6 | 1 | 0 |
-| Rúben Dias | D | 14 | 1129 | 0 | 0 | 6 | 0,4 | 3 | 0,2 | 18 | 2 | 0,1 | 0 | 0 |
-| M. Guéhi | D | 13 | 1080 | 1 | 1 | 4 | 0,3 | 1 | 0,1 | 11 | 14 | 1,1 | 1 | 0 |
-| E. Anderson | M | 14 | 1079 | 1 | 2 | 14 | 1,0 | 4 | 0,3 | 17 | 37 | 2,6 | 2 | 0 |
-| R. Cherki | M | 15 | 987 | 7 | 3 | 29 | 1,9 | 13 | 0,9 | 8 | 11 | 0,7 | 2 | 0 |
-| A. Khusanov | D | 13 | 969 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 9 | 7 | 0,5 | 2 | 0 |
-| E. Fernández | M | 13 | 937 | 2 | 1 | 18 | 1,4 | 6 | 0,5 | 12 | 26 | 2,0 | 1 | 0 |
-| J. Gvardiol | D | 13 | 912 | 1 | 3 | 9 | 0,7 | 5 | 0,4 | 12 | 14 | 1,1 | 4 | 0 |
-| I. Ndiaye | M | 11 | 747 | 0 | 4 | 16 | 1,5 | 6 | 0,5 | 5 | 22 | 2,0 | 0 | 0 |
+| G. Donnarumma | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 2 | 0 |
+| E. Haaland | F | 14 | 1250 | 14 | 0 | 54 | 3,9 | 29 | 2,1 | 11 | 9 | 0,6 | 1 | 0 |
+| Rúben Dias | D | 15 | 1219 | 0 | 0 | 8 | 0,5 | 3 | 0,2 | 20 | 2 | 0,1 | 0 | 0 |
+| M. Guéhi | D | 14 | 1170 | 1 | 1 | 4 | 0,3 | 1 | 0,1 | 11 | 14 | 1,0 | 1 | 0 |
+| E. Anderson | M | 15 | 1169 | 2 | 2 | 18 | 1,2 | 5 | 0,3 | 18 | 40 | 2,7 | 2 | 0 |
+| A. Khusanov | D | 14 | 1059 | 0 | 0 | 2 | 0,1 | 2 | 0,1 | 10 | 7 | 0,5 | 2 | 0 |
+| R. Cherki | M | 16 | 1007 | 7 | 3 | 30 | 1,9 | 13 | 0,8 | 8 | 12 | 0,8 | 2 | 0 |
+| E. Fernández | M | 14 | 942 | 2 | 1 | 18 | 1,3 | 6 | 0,4 | 12 | 26 | 1,9 | 1 | 0 |
+| J. Gvardiol | D | 14 | 924 | 1 | 3 | 9 | 0,6 | 5 | 0,4 | 12 | 14 | 1,0 | 4 | 0 |
+| I. Ndiaye | M | 12 | 825 | 0 | 4 | 16 | 1,3 | 6 | 0,5 | 6 | 22 | 1,8 | 0 | 0 |
+| P. Foden | M | 13 | 753 | 4 | 4 | 16 | 1,2 | 6 | 0,5 | 6 | 17 | 1,3 | 1 | 1 |
 | Matheus Nunes | M | 10 | 728 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 3 | 0,3 | 0 | 0 |
+| N. O&apos;Reilly | D | 13 | 715 | 0 | 1 | 10 | 0,8 | 1 | 0,1 | 10 | 3 | 0,2 | 1 | 0 |
 | Antoine Semenyo | F | 9 | 705 | 2 | 3 | 13 | 1,4 | 6 | 0,7 | 15 | 7 | 0,8 | 1 | 0 |
-| P. Foden | M | 12 | 683 | 4 | 4 | 15 | 1,2 | 6 | 0,5 | 6 | 15 | 1,2 | 1 | 1 |
-| N. O&apos;Reilly | D | 12 | 637 | 0 | 1 | 9 | 0,8 | 1 | 0,1 | 8 | 3 | 0,2 | 1 | 0 |
-| J. Doku | M | 9 | 496 | 1 | 1 | 10 | 1,1 | 3 | 0,3 | 3 | 18 | 2,0 | 1 | 0 |
-| A. Bouaddi | M | 10 | 439 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 4 | 8 | 0,8 | 2 | 0 |
+| J. Doku | M | 10 | 586 | 1 | 1 | 11 | 1,1 | 4 | 0,4 | 3 | 19 | 1,9 | 1 | 0 |
+| A. Bouaddi | M | 11 | 524 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 4 | 11 | 1,0 | 2 | 0 |
 | R. Lewis | D | 5 | 358 | 0 | 2 | 3 | 0,6 | 1 | 0,2 | 4 | 8 | 1,6 | 0 | 0 |
 | M. Kovačić | M | 7 | 294 | 1 | 1 | 1 | 0,1 | 1 | 0,1 | 0 | 3 | 0,4 | 0 | 0 |
-| Allan | F | 6 | 250 | 1 | 1 | 5 | 0,8 | 2 | 0,3 | 6 | 7 | 1,2 | 0 | 0 |
+| Allan | F | 7 | 262 | 1 | 1 | 5 | 0,7 | 2 | 0,3 | 6 | 7 | 1,0 | 0 | 0 |
 | Vitor Nunes | D | 4 | 199 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Napoli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Serie A | Napoli 1-0 Torino | casa | 8-5 | 22 (10) - 12 (2) | 2-1 |
 | 2026-11-08 | Serie A | Napoli 1-1 Lazio | casa | 6-6 | 15 (6) - 15 (6) | 3-1 |
 | 2026-11-04 | Champions League | FC Porto 4-1 Napoli | fuera | 5-5 | 11 (6) - 19 (8) | 4-1 |
 | 2026-11-01 | Serie A | Juventus 2-0 Napoli | fuera | 4-13 | 8 (1) - 18 (4) | 1-3 |
 | 2026-10-28 | Serie A | Monza 1-4 Napoli | fuera | 2-2 | 16 (7) - 12 (5) | 0-3 |
 | 2026-10-24 | Serie A | Napoli 3-3 AS Roma | casa | 2-11 | 15 (9) - 24 (4) | 1-4 |
-| 2026-10-20 | Champions League | Napoli 4-3 Bodo/Glimt | casa | 2-5 | 17 (8) - 15 (6) | 3-0 |
 
 ## Jugadores de Napoli
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Rafa Marín | D | 14 | 1231 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 20 | 7 | 0,5 | 3 | 1 |
-| Amir Rrahmani | D | 14 | 1170 | 1 | 1 | 8 | 0,6 | 3 | 0,2 | 16 | 9 | 0,6 | 2 | 0 |
+| Rafa Marín | D | 15 | 1289 | 1 | 0 | 7 | 0,5 | 1 | 0,1 | 23 | 8 | 0,5 | 3 | 1 |
+| Amir Rrahmani | D | 15 | 1260 | 1 | 1 | 8 | 0,5 | 3 | 0,2 | 16 | 10 | 0,7 | 2 | 0 |
+| R. Højlund | F | 15 | 1133 | 3 | 0 | 30 | 2,0 | 13 | 0,9 | 10 | 14 | 0,9 | 0 | 0 |
 | G. Di Lorenzo | D | 13 | 1115 | 0 | 2 | 6 | 0,5 | 3 | 0,2 | 7 | 12 | 0,9 | 3 | 0 |
-| R. Højlund | F | 14 | 1051 | 3 | 0 | 26 | 1,9 | 11 | 0,8 | 9 | 13 | 0,9 | 0 | 0 |
-| K. De Bruyne | M | 15 | 983 | 4 | 2 | 12 | 0,8 | 7 | 0,5 | 13 | 12 | 0,8 | 1 | 0 |
-| S. McTominay | M | 11 | 865 | 5 | 0 | 28 | 2,5 | 12 | 1,1 | 6 | 8 | 0,7 | 1 | 0 |
-| M. Politano | F | 15 | 858 | 3 | 4 | 13 | 0,9 | 11 | 0,7 | 5 | 8 | 0,5 | 1 | 0 |
+| K. De Bruyne | M | 16 | 1060 | 4 | 2 | 15 | 0,9 | 7 | 0,4 | 13 | 13 | 0,8 | 1 | 0 |
+| S. McTominay | M | 12 | 955 | 6 | 0 | 35 | 2,9 | 15 | 1,2 | 6 | 9 | 0,8 | 1 | 0 |
+| M. Politano | M | 16 | 940 | 3 | 4 | 16 | 1,0 | 13 | 0,8 | 6 | 9 | 0,6 | 1 | 0 |
 | A. Meret | G | 10 | 855 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| B. Gilmour | M | 12 | 793 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 6 | 7 | 0,6 | 3 | 0 |
+| N. Lang | F | 13 | 757 | 1 | 2 | 21 | 1,6 | 12 | 0,9 | 6 | 5 | 0,4 | 2 | 0 |
 | S. Lobotka | M | 12 | 753 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 4 | 15 | 1,2 | 0 | 0 |
-| N. Lang | F | 12 | 725 | 1 | 1 | 19 | 1,6 | 10 | 0,8 | 6 | 5 | 0,4 | 2 | 0 |
-| B. Gilmour | M | 11 | 703 | 1 | 0 | 5 | 0,5 | 1 | 0,1 | 5 | 7 | 0,6 | 2 | 0 |
-| A. Zambo Anguissa | M | 10 | 628 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 6 | 6 | 0,6 | 2 | 0 |
-| M. Olivera | M | 11 | 621 | 0 | 1 | 10 | 0,9 | 2 | 0,2 | 11 | 3 | 0,3 | 0 | 0 |
-| L. Spinazzola | D | 9 | 586 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| V. Milinković-Savić | G | 6 | 495 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Vergara | M | 9 | 381 | 1 | 1 | 2 | 0,2 | 2 | 0,2 | 5 | 4 | 0,4 | 3 | 0 |
+| A. Zambo Anguissa | M | 11 | 718 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 9 | 6 | 0,5 | 3 | 0 |
+| M. Olivera | D | 12 | 653 | 0 | 1 | 10 | 0,8 | 2 | 0,2 | 11 | 4 | 0,3 | 0 | 0 |
+| L. Spinazzola | M | 10 | 644 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
+| V. Milinković-Savić | G | 7 | 585 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Vergara | M | 10 | 394 | 1 | 1 | 2 | 0,2 | 2 | 0,2 | 5 | 4 | 0,4 | 3 | 0 |
+| S. Beukema | D | 7 | 393 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 1 | 0,1 | 0 | 0 |
 | B. Badiashile | D | 5 | 332 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 6 | 2 | 0,4 | 1 | 0 |
 | L. Lucca | F | 13 | 325 | 0 | 0 | 10 | 0,8 | 3 | 0,2 | 9 | 6 | 0,5 | 1 | 0 |
-| S. Beukema | D | 6 | 303 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
 | Alisson Santos | F | 5 | 274 | 0 | 0 | 7 | 1,4 | 4 | 0,8 | 0 | 2 | 0,4 | 0 | 0 |

@@ -1,5 +1,55 @@
 # Lecciones del bot
 
+## 2026-11-21
+
+```
+🧠 LECCIONES DEL 21/11
+Picks del bot: 12 ✅ · 9 ❌
+
+❌ Lo que falló en lo publicado:
+• Ambos marcan en Bayer Leverkusen–SC Paderborn 07 → 1 de 2 equipos que marcan
+• Ambos marcan en Borussia Mönchengladbach–Borussia Dortmund → 1 de 2 equipos que marcan
+• Ambos marcan en Lazio–Lecce → 1 de 2 equipos que marcan
+• Ambos marcan en SV Elversberg–SC Freiburg → 1 de 2 equipos que marcan
+• Archie Gray comete 1+ faltas → 0 de 1 falta
+• Borussia Mönchengladbach marca → 0 de 1 gol
+• Bournemouth ve más de 1,5 tarjetas → 1 de 2 tarjetas
+• Chelsea gana alguna de las dos partes → Marcador: 1–4
+• Cole Palmer: 3+ tiros → 1 de 3 tiros
+• Como hace más de 6,5 córners → 3 de 7 córners
+• Como ve más de 0,5 tarjetas → 0 de 1 tarjeta
+• Coventry ve más de 1,5 tarjetas → 1 de 2 tarjetas
+• Crystal Palace o empate → Marcador: 3–2
+• Deportivo La Coruna o empate → Marcador: 3–1
+• Elye Wahi: 2+ tiros → 0 de 2 tiros
+
+❌ Fallos de los picks del bot y por qué:
+• Más de 1,5 goles en la 2ª parte del Strasbourg–Stade Brestois 29 — partido cerrado (0-1): faltó 2 goles en la 2ª parte
+• Giana Erminio o empate — resultado 1-3
+• Alexander Prass: 1+ tiros — jugó 80′ e hizo 0 (necesitaba 1)
+• Sunderland hace más de 3,5 córners — no llegó a la línea (0-0)
+• Preston hace más de 2,5 córners — no llegó a la línea (1-1)
+• Cagliari marca — Cagliari no marcó lo esperado (2-0)
+• Petrolul Ploiesti hace más de 2,5 córners — no llegó a la línea (0-1)
+• Como ve más de 0,5 tarjetas — no llegó a la línea (2-0)
+• Tenerife marca — Tenerife no marcó lo esperado (0-0)
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Como–Cagliari
+
+📐 Modelo: 376/604 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo tipo corners: 5/20 (-16 pts)
+⬆️ premio mercado de casas: bet365 paga menos: 37/50 (+9 pts)
+⬇️ castigo mercado Away Corners Over/Under|Over 2.5: 2/7 (-6 pts)
+⬆️ premio tipo jugador:a_puerta: 28/40 (+5 pts)
+⬆️ premio mercado Home Team Total Cards|Over 1.5: 10/13 (+5 pts)
+⬆️ premio mercado Match Winner|Home: 11/14 (+4 pts)
+⬇️ castigo mercado Total - Home|Over 0.5: 9/15 (-4 pts)
+⬇️ castigo mercado Away Corners Over/Under|Over 3.5: 1/4 (-4 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-20
 
 ```

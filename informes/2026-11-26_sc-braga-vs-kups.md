@@ -1,7 +1,7 @@
 # SC Braga – KuPS
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:05_
@@ -51,21 +51,21 @@ _Actualizadas: 21/11 14:05_
 ## Estadísticas de equipo
 | | SC Braga (total) | SC Braga en casa | KuPS (total) | KuPS fuera |
 |---|---|---|---|---|
-| Partidos analizados | 20 | 9 | 11 | 5 |
-| Forma (últimos 5) | VEVDV | VVDDV | EDDVE | DEDDV |
-| Balance | 10V 5E 5D | 7V 0E 2D | 2V 3E 6D | 1V 1E 3D |
-| Goles a favor / partido | 1,15 | 1,78 | 0,91 | 0,80 |
-| Goles en contra / partido | 0,70 | 0,56 | 1,45 | 1,20 |
-| Goles a favor 1ª parte | 0,45 | 0,78 | 0,18 | 0,40 |
-| Goles a favor 2ª parte | 0,70 | 1,00 | 0,73 | 0,40 |
-| Goles en contra 1ª parte | 0,20 | 0,00 | 0,55 | 0,60 |
-| Goles en contra 2ª parte | 0,50 | 0,56 | 0,91 | 0,60 |
-| Más de 1,5 goles | 50% | 67% | 73% | 80% |
-| Más de 2,5 goles | 40% | 44% | 27% | 20% |
-| Más de 3,5 goles | 15% | 22% | 18% | 0% |
-| Ambos marcan | 25% | 22% | 45% | 40% |
-| Portería a cero | 65% | 78% | 27% | 20% |
-| Se queda sin marcar | 30% | 0% | 36% | 40% |
+| Partidos analizados | 21 | 9 | 11 | 5 |
+| Forma (últimos 5) | VVEVD | VVDDV | EDDVE | DEDDV |
+| Balance | 11V 5E 5D | 7V 0E 2D | 2V 3E 6D | 1V 1E 3D |
+| Goles a favor / partido | 1,19 | 1,78 | 0,91 | 0,80 |
+| Goles en contra / partido | 0,67 | 0,56 | 1,45 | 1,20 |
+| Goles a favor 1ª parte | 0,48 | 0,78 | 0,18 | 0,40 |
+| Goles a favor 2ª parte | 0,71 | 1,00 | 0,73 | 0,40 |
+| Goles en contra 1ª parte | 0,19 | 0,00 | 0,55 | 0,60 |
+| Goles en contra 2ª parte | 0,48 | 0,56 | 0,91 | 0,60 |
+| Más de 1,5 goles | 52% | 67% | 73% | 80% |
+| Más de 2,5 goles | 38% | 44% | 27% | 20% |
+| Más de 3,5 goles | 14% | 22% | 18% | 0% |
+| Ambos marcan | 24% | 22% | 45% | 40% |
+| Portería a cero | 67% | 78% | 27% | 20% |
+| Se queda sin marcar | 29% | 0% | 36% | 40% |
 | xG a favor | 1,44 | 1,49 | 0,99 | 0,65 |
 | xG en contra | 0,80 | 0,73 | 2,42 | 2,13 |
 | Tiros / partido | 14,6 | 16,3 | 10,0 | 9,3 |
@@ -73,16 +73,16 @@ _Actualizadas: 21/11 14:05_
 | Tiros recibidos | 8,3 | 8,3 | 16,1 | 17,3 |
 | Tiros a puerta recibidos | 2,6 | 1,8 | 6,0 | 8,5 |
 | Posesión media % | 57 | 58 | 52 | 49 |
-| Córners a favor | 5,2 | 5,2 | 5,0 | 2,2 |
-| Córners en contra | 2,6 | 2,0 | 4,9 | 5,0 |
-| Córners a favor 1ª parte | 1,7 | 2,0 | 1,5 | 0,8 |
-| Córners a favor 2ª parte | 2,8 | 2,1 | 2,0 | 0,8 |
-| Córners totales del partido | 7,7 | 7,2 | 9,9 | 7,2 |
-| Córners totales 1ª parte | 2,5 | 2,8 | 3,4 | 3,2 |
-| Córners totales 2ª parte | 4,3 | 3,2 | 4,3 | 2,8 |
-| Más de 8,5 córners | 39% | 38% | 50% | 25% |
-| Más de 9,5 córners | 22% | 12% | 50% | 25% |
-| Más de 10,5 córners | 6% | 0% | 40% | 25% |
+| Córners a favor | 4,9 | 5,2 | 5,0 | 2,2 |
+| Córners en contra | 2,4 | 2,0 | 4,9 | 5,0 |
+| Córners a favor 1ª parte | 1,6 | 2,0 | 1,5 | 0,8 |
+| Córners a favor 2ª parte | 2,6 | 2,1 | 2,0 | 0,8 |
+| Córners totales del partido | 7,3 | 7,2 | 9,9 | 7,2 |
+| Córners totales 1ª parte | 2,4 | 2,8 | 3,4 | 3,2 |
+| Córners totales 2ª parte | 4,1 | 3,2 | 4,3 | 2,8 |
+| Más de 8,5 córners | 37% | 38% | 50% | 25% |
+| Más de 9,5 córners | 21% | 12% | 50% | 25% |
+| Más de 10,5 córners | 5% | 0% | 40% | 25% |
 | Faltas cometidas | 14,2 | 12,5 | 15,7 | 15,0 |
 | Faltas recibidas | 12,7 | 12,1 | 12,2 | 12,5 |
 | Amarillas propias | 1,9 | 1,9 | 2,0 | 1,5 |
@@ -93,11 +93,11 @@ _Actualizadas: 21/11 14:05_
 | Tramo | Goles SC Braga | Recibe SC Braga | Tarjetas SC Braga | Goles KuPS | Recibe KuPS | Tarjetas KuPS |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 1 | 0 | 1 | 1 | 0 |
-| 16-30' | 2 | 2 | 5 | 0 | 1 | 2 |
-| 31-45' | 3 | 2 | 6 | 1 | 4 | 4 |
-| 46-60' | 4 | 3 | 2 | 2 | 5 | 3 |
+| 16-30' | 3 | 2 | 5 | 0 | 1 | 2 |
+| 31-45' | 3 | 2 | 7 | 1 | 4 | 4 |
+| 46-60' | 5 | 3 | 2 | 2 | 5 | 3 |
 | 61-75' | 6 | 2 | 4 | 2 | 2 | 5 |
-| 76-90' | 6 | 4 | 20 | 4 | 3 | 9 |
+| 76-90' | 6 | 4 | 22 | 4 | 3 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -110,12 +110,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de SC Braga
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Taça de Portugal | Vitória SC 0-2 SC Braga | fuera | –-– | – (–) - – (–) | 3-1 |
 | 2026-11-08 | Primeira Liga | Rio Ave 0-1 SC Braga | fuera | 8-0 | 13 (2) - 4 (3) | 1-2 |
 | 2026-11-05 | Conference League | Aarhus 0-0 SC Braga | fuera | 7-2 | 26 (8) - 14 (5) | 2-2 |
 | 2026-11-01 | Primeira Liga | SC Braga 3-0 Famalicao | casa | 7-1 | 15 (4) - 4 (1) | 5-3 |
 | 2026-10-25 | Primeira Liga | Nacional 1-0 SC Braga | fuera | 6-4 | 20 (2) - 8 (4) | 2-2 |
 | 2026-10-22 | Conference League | SC Braga 2-0 Gent | casa | 6-3 | 22 (10) - 10 (1) | 2-1 |
-| 2026-10-19 | Primeira Liga | SC Braga 1-2 GIL Vicente | casa | 4-1 | 18 (6) - 10 (4) | 3-3 |
 
 ## Jugadores de SC Braga
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

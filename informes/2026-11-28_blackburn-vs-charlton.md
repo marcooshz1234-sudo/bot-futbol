@@ -1,7 +1,7 @@
 # Blackburn – Charlton
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,43 +9,43 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Blackburn (total) | Blackburn en casa | Charlton (total) | Charlton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 9 | 17 | 9 |
-| Forma (últimos 5) | VDDVD | VDVVV | VDDDD | DDEDD |
-| Balance | 7V 3E 7D | 5V 0E 4D | 5V 5E 7D | 2V 2E 5D |
-| Goles a favor / partido | 1,47 | 1,67 | 1,00 | 1,11 |
-| Goles en contra / partido | 1,53 | 1,33 | 1,71 | 2,44 |
-| Goles a favor 1ª parte | 0,59 | 0,56 | 0,47 | 0,56 |
-| Goles a favor 2ª parte | 0,88 | 1,11 | 0,53 | 0,56 |
-| Goles en contra 1ª parte | 0,82 | 0,56 | 0,94 | 1,22 |
-| Goles en contra 2ª parte | 0,71 | 0,78 | 0,76 | 1,22 |
-| Más de 1,5 goles | 88% | 100% | 76% | 100% |
-| Más de 2,5 goles | 82% | 89% | 59% | 78% |
-| Más de 3,5 goles | 29% | 11% | 35% | 56% |
-| Ambos marcan | 76% | 89% | 59% | 67% |
-| Portería a cero | 18% | 11% | 18% | 0% |
-| Se queda sin marcar | 12% | 0% | 35% | 33% |
-| xG a favor | 1,05 | 1,45 | 0,95 | 0,93 |
-| xG en contra | 1,69 | 1,25 | 1,56 | 2,04 |
-| Tiros / partido | 11,8 | 12,9 | 10,2 | 9,2 |
-| Tiros a puerta / partido | 4,1 | 4,4 | 3,1 | 3,7 |
-| Tiros recibidos | 17,2 | 16,0 | 15,9 | 18,6 |
-| Tiros a puerta recibidos | 4,2 | 3,3 | 5,2 | 6,8 |
-| Posesión media % | 48 | 47 | 44 | 41 |
-| Córners a favor | 6,0 | 5,8 | 4,2 | 3,8 |
-| Córners en contra | 5,8 | 5,8 | 6,1 | 6,4 |
+| Partidos analizados | 17 | 9 | 18 | 10 |
+| Forma (últimos 5) | VDDVD | VDVVV | DVDDD | DDDED |
+| Balance | 7V 3E 7D | 5V 0E 4D | 5V 5E 8D | 2V 2E 6D |
+| Goles a favor / partido | 1,47 | 1,67 | 1,00 | 1,10 |
+| Goles en contra / partido | 1,53 | 1,33 | 1,72 | 2,40 |
+| Goles a favor 1ª parte | 0,59 | 0,56 | 0,44 | 0,50 |
+| Goles a favor 2ª parte | 0,88 | 1,11 | 0,56 | 0,60 |
+| Goles en contra 1ª parte | 0,82 | 0,56 | 0,89 | 1,10 |
+| Goles en contra 2ª parte | 0,71 | 0,78 | 0,83 | 1,30 |
+| Más de 1,5 goles | 88% | 100% | 78% | 100% |
+| Más de 2,5 goles | 82% | 89% | 61% | 80% |
+| Más de 3,5 goles | 29% | 11% | 33% | 50% |
+| Ambos marcan | 76% | 89% | 61% | 70% |
+| Portería a cero | 18% | 11% | 17% | 0% |
+| Se queda sin marcar | 12% | 0% | 33% | 30% |
+| xG a favor | 1,05 | 1,45 | 0,92 | 0,87 |
+| xG en contra | 1,69 | 1,25 | 1,61 | 2,08 |
+| Tiros / partido | 11,8 | 12,9 | 9,8 | 8,6 |
+| Tiros a puerta / partido | 4,1 | 4,4 | 3,1 | 3,5 |
+| Tiros recibidos | 17,2 | 16,0 | 16,1 | 18,6 |
+| Tiros a puerta recibidos | 4,2 | 3,3 | 5,2 | 6,5 |
+| Posesión media % | 48 | 47 | 43 | 40 |
+| Córners a favor | 6,0 | 5,8 | 4,3 | 4,0 |
+| Córners en contra | 5,8 | 5,8 | 6,2 | 6,5 |
 | Córners a favor 1ª parte | 2,9 | 2,9 | 2,1 | 2,0 |
-| Córners a favor 2ª parte | 3,1 | 2,9 | 2,1 | 1,8 |
-| Córners totales del partido | 11,8 | 11,6 | 10,3 | 10,2 |
-| Córners totales 1ª parte | 5,6 | 5,3 | 4,8 | 4,8 |
-| Córners totales 2ª parte | 6,2 | 6,2 | 5,5 | 5,4 |
-| Más de 8,5 córners | 88% | 89% | 65% | 56% |
-| Más de 9,5 córners | 82% | 78% | 59% | 56% |
-| Más de 10,5 córners | 65% | 56% | 47% | 56% |
-| Faltas cometidas | 11,6 | 11,1 | 12,6 | 14,0 |
-| Faltas recibidas | 10,9 | 10,9 | 10,5 | 8,9 |
+| Córners a favor 2ª parte | 3,1 | 2,9 | 2,2 | 2,0 |
+| Córners totales del partido | 11,8 | 11,6 | 10,4 | 10,5 |
+| Córners totales 1ª parte | 5,6 | 5,3 | 4,8 | 4,9 |
+| Córners totales 2ª parte | 6,2 | 6,2 | 5,6 | 5,6 |
+| Más de 8,5 córners | 88% | 89% | 67% | 60% |
+| Más de 9,5 córners | 82% | 78% | 61% | 60% |
+| Más de 10,5 córners | 65% | 56% | 50% | 60% |
+| Faltas cometidas | 11,6 | 11,1 | 12,6 | 13,8 |
+| Faltas recibidas | 10,9 | 10,9 | 10,6 | 9,1 |
 | Amarillas propias | 2,2 | 2,6 | 1,9 | 2,1 |
 | Amarillas del rival | 1,6 | 1,8 | 1,8 | 2,0 |
-| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,11 |
+| Rojas / partido | 0,06 | 0,00 | 0,06 | 0,10 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Blackburn | Recibe Blackburn | Tarjetas Blackburn | Goles Charlton | Recibe Charlton | Tarjetas Charlton |
@@ -53,9 +53,9 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | 1-15' | 3 | 5 | 2 | 4 | 3 | 2 |
 | 16-30' | 3 | 4 | 5 | 3 | 7 | 2 |
 | 31-45' | 4 | 5 | 11 | 1 | 6 | 9 |
-| 46-60' | 9 | 4 | 4 | 3 | 5 | 7 |
+| 46-60' | 9 | 4 | 4 | 3 | 7 | 7 |
 | 61-75' | 1 | 4 | 6 | 2 | 3 | 5 |
-| 76-90' | 5 | 4 | 11 | 4 | 5 | 8 |
+| 76-90' | 5 | 4 | 11 | 5 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -107,33 +107,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Charlton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Championship | Wolves 2-1 Charlton | fuera | 6-7 | 3 (2) - 19 (4) | 2-2 |
 | 2026-11-07 | Championship | Charlton 2-1 Sheffield Utd | casa | 1-6 | 9 (2) - 13 (7) | 4-1 |
 | 2026-11-03 | Championship | Charlton 0-1 Bolton | casa | 4-3 | 14 (2) - 11 (3) | 1-1 |
 | 2026-10-31 | Championship | Middlesbrough 3-0 Charlton | fuera | 4-8 | 7 (0) - 16 (6) | 1-2 |
 | 2026-10-24 | Championship | Charlton 1-3 Norwich | casa | 3-7 | 8 (3) - 16 (5) | 4-2 |
 | 2026-10-17 | Championship | Watford 2-0 Charlton | fuera | 3-4 | 14 (3) - 22 (10) | 5-3 |
-| 2026-10-13 | Championship | Burnley 2-2 Charlton | fuera | 7-7 | 9 (5) - 18 (4) | 1-2 |
 
 ## Jugadores de Charlton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | L. Jones | D | 16 | 1430 | 3 | 1 | 8 | 0,5 | 6 | 0,4 | 8 | 12 | 0,8 | 1 | 0 |
-| T. Campbell | M | 16 | 1291 | 5 | 1 | 20 | 1,2 | 10 | 0,6 | 20 | 16 | 1,0 | 1 | 0 |
-| C. Coventry | M | 15 | 1246 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 25 | 7 | 0,5 | 3 | 0 |
-| D. McNamara | D | 15 | 1136 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 8 | 14 | 0,9 | 6 | 1 |
-| K. Ahearne-Grant | M | 15 | 1119 | 2 | 1 | 16 | 1,1 | 7 | 0,5 | 8 | 8 | 0,5 | 2 | 0 |
+| T. Campbell | F | 17 | 1364 | 5 | 1 | 20 | 1,2 | 10 | 0,6 | 21 | 17 | 1,0 | 1 | 0 |
+| C. Coventry | M | 16 | 1336 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 28 | 8 | 0,5 | 4 | 0 |
+| D. McNamara | D | 16 | 1226 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 9 | 15 | 0,9 | 6 | 1 |
+| K. Ahearne-Grant | F | 16 | 1136 | 2 | 1 | 17 | 1,1 | 8 | 0,5 | 8 | 8 | 0,5 | 2 | 0 |
 | A. Okonkwo | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| A. Bell | D | 12 | 1008 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 19 | 1,6 | 0 | 0 |
+| A. Bell | D | 13 | 1073 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 20 | 1,5 | 0 | 0 |
+| Billy Dawson Koumetio | D | 12 | 1010 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 6 | 9 | 0,8 | 1 | 0 |
 | M. Leaburn | F | 16 | 995 | 0 | 0 | 14 | 0,9 | 3 | 0,2 | 28 | 17 | 1,1 | 2 | 0 |
-| Billy Dawson Koumetio | D | 11 | 920 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 6 | 9 | 0,8 | 1 | 0 |
-| I. Mesík | D | 13 | 786 | 1 | 0 | 3 | 0,2 | 1 | 0,1 | 13 | 12 | 0,9 | 2 | 0 |
-| O. Skipp | M | 9 | 649 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 10 | 10 | 1,1 | 2 | 0 |
-| Tyler Bindon | D | 7 | 576 | 0 | 1 | 5 | 0,7 | 1 | 0,1 | 11 | 2 | 0,3 | 2 | 0 |
-| M. Alli | M | 15 | 498 | 1 | 2 | 7 | 0,5 | 3 | 0,2 | 10 | 7 | 0,5 | 0 | 0 |
-| S. Carey | M | 11 | 459 | 1 | 2 | 8 | 0,7 | 5 | 0,5 | 4 | 3 | 0,3 | 0 | 0 |
-| J. Rankin-Costello | M | 11 | 428 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 10 | 1 | 0,1 | 2 | 0 |
-| C. Kelman | F | 9 | 405 | 1 | 0 | 15 | 1,7 | 6 | 0,7 | 2 | 2 | 0,2 | 0 | 0 |
+| I. Mesík | D | 14 | 811 | 1 | 0 | 3 | 0,2 | 1 | 0,1 | 14 | 12 | 0,9 | 2 | 0 |
+| O. Skipp | M | 10 | 674 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 11 | 10 | 1,0 | 3 | 0 |
+| Tyler Bindon | D | 8 | 666 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 11 | 2 | 0,2 | 2 | 0 |
+| M. Alli | F | 16 | 588 | 1 | 2 | 7 | 0,4 | 3 | 0,2 | 12 | 8 | 0,5 | 0 | 0 |
+| J. Rankin-Costello | M | 12 | 493 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 2 | 0 |
+| S. Carey | M | 12 | 484 | 1 | 2 | 8 | 0,7 | 5 | 0,4 | 4 | 3 | 0,2 | 0 | 0 |
+| C. Kelman | F | 10 | 478 | 1 | 0 | 15 | 1,5 | 6 | 0,6 | 3 | 3 | 0,3 | 0 | 0 |
+| W. Mannion | G | 5 | 455 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | N. Chalobah | M | 6 | 371 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 9 | 1,5 | 0 | 0 |
-| W. Mannion | G | 4 | 365 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | K. Ramsay | D | 5 | 352 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 4 | 3 | 0,6 | 0 | 0 |
 | H. Knibbs | M | 8 | 350 | 0 | 1 | 5 | 0,6 | 1 | 0,1 | 10 | 3 | 0,4 | 2 | 0 |

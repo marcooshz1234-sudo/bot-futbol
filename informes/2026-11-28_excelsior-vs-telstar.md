@@ -1,10 +1,10 @@
 # Excelsior – Telstar
 **Eredivisie** · Regular Season - 14 · 28/11/2026 16:30 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:14_
 
 - **1X2:** 1 **1.95**  ·  X **3.50**  ·  2 **3.60**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.80**
@@ -53,53 +53,53 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | Excelsior (total) | Excelsior en casa | Telstar (total) | Telstar fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 13 | 6 |
-| Forma (últimos 5) | DDVDD | DDDDV | EVDDD | EDDED |
-| Balance | 4V 2E 7D | 1V 0E 5D | 2V 4E 7D | 1V 2E 3D |
-| Goles a favor / partido | 1,46 | 0,83 | 1,38 | 1,00 |
-| Goles en contra / partido | 2,23 | 3,33 | 2,08 | 1,33 |
-| Goles a favor 1ª parte | 0,77 | 0,33 | 0,85 | 0,67 |
-| Goles a favor 2ª parte | 0,69 | 0,50 | 0,54 | 0,33 |
-| Goles en contra 1ª parte | 0,92 | 1,50 | 1,00 | 0,83 |
-| Goles en contra 2ª parte | 1,31 | 1,83 | 1,08 | 0,50 |
-| Más de 1,5 goles | 85% | 83% | 77% | 50% |
-| Más de 2,5 goles | 85% | 83% | 69% | 50% |
-| Más de 3,5 goles | 46% | 33% | 62% | 33% |
-| Ambos marcan | 46% | 67% | 62% | 50% |
-| Portería a cero | 23% | 0% | 8% | 17% |
-| Se queda sin marcar | 31% | 33% | 38% | 50% |
-| xG a favor | 1,15 | 0,84 | 1,34 | 0,77 |
-| xG en contra | 1,95 | 2,39 | 2,00 | 1,96 |
-| Tiros / partido | 10,0 | 10,0 | 12,6 | 8,7 |
-| Tiros a puerta / partido | 3,5 | 2,5 | 3,6 | 3,2 |
-| Tiros recibidos | 15,2 | 15,0 | 15,4 | 19,2 |
-| Tiros a puerta recibidos | 5,8 | 7,0 | 6,2 | 6,2 |
-| Posesión media % | 42 | 43 | 47 | 42 |
-| Córners a favor | 3,5 | 3,7 | 4,6 | 3,2 |
-| Córners en contra | 5,2 | 4,5 | 5,8 | 7,2 |
-| Córners a favor 1ª parte | 1,5 | 1,5 | 2,0 | 1,5 |
-| Córners a favor 2ª parte | 2,1 | 2,2 | 2,6 | 1,7 |
-| Córners totales del partido | 8,7 | 8,2 | 10,5 | 10,3 |
-| Córners totales 1ª parte | 3,8 | 4,3 | 4,6 | 4,0 |
-| Córners totales 2ª parte | 4,9 | 3,8 | 5,8 | 6,3 |
-| Más de 8,5 córners | 46% | 33% | 62% | 50% |
-| Más de 9,5 córners | 31% | 17% | 54% | 50% |
-| Más de 10,5 córners | 23% | 0% | 54% | 50% |
-| Faltas cometidas | 10,8 | 9,0 | 10,2 | 11,0 |
-| Faltas recibidas | 7,8 | 7,0 | 13,6 | 13,5 |
-| Amarillas propias | 1,2 | 1,2 | 1,3 | 1,7 |
+| Partidos analizados | 14 | 6 | 14 | 6 |
+| Forma (últimos 5) | VDDVD | DDDDV | DEVDD | EDDED |
+| Balance | 5V 2E 7D | 1V 0E 5D | 2V 4E 8D | 1V 2E 3D |
+| Goles a favor / partido | 1,57 | 0,83 | 1,36 | 1,00 |
+| Goles en contra / partido | 2,21 | 3,33 | 2,14 | 1,33 |
+| Goles a favor 1ª parte | 0,86 | 0,33 | 0,86 | 0,67 |
+| Goles a favor 2ª parte | 0,71 | 0,50 | 0,50 | 0,33 |
+| Goles en contra 1ª parte | 0,93 | 1,50 | 1,07 | 0,83 |
+| Goles en contra 2ª parte | 1,29 | 1,83 | 1,07 | 0,50 |
+| Más de 1,5 goles | 86% | 83% | 79% | 50% |
+| Más de 2,5 goles | 86% | 83% | 71% | 50% |
+| Más de 3,5 goles | 50% | 33% | 64% | 33% |
+| Ambos marcan | 50% | 67% | 64% | 50% |
+| Portería a cero | 21% | 0% | 7% | 17% |
+| Se queda sin marcar | 29% | 33% | 36% | 50% |
+| xG a favor | 1,20 | 0,84 | 1,40 | 0,77 |
+| xG en contra | 1,90 | 2,39 | 1,91 | 1,96 |
+| Tiros / partido | 9,9 | 10,0 | 13,1 | 8,7 |
+| Tiros a puerta / partido | 3,6 | 2,5 | 3,8 | 3,2 |
+| Tiros recibidos | 15,3 | 15,0 | 15,1 | 19,2 |
+| Tiros a puerta recibidos | 5,6 | 7,0 | 6,0 | 6,2 |
+| Posesión media % | 41 | 43 | 48 | 42 |
+| Córners a favor | 3,6 | 3,7 | 5,1 | 3,2 |
+| Córners en contra | 5,4 | 4,5 | 5,9 | 7,2 |
+| Córners a favor 1ª parte | 1,4 | 1,5 | 2,1 | 1,5 |
+| Córners a favor 2ª parte | 2,1 | 2,2 | 2,9 | 1,7 |
+| Córners totales del partido | 8,9 | 8,2 | 11,0 | 10,3 |
+| Córners totales 1ª parte | 3,8 | 4,3 | 4,9 | 4,0 |
+| Córners totales 2ª parte | 5,1 | 3,8 | 6,1 | 6,3 |
+| Más de 8,5 córners | 50% | 33% | 64% | 50% |
+| Más de 9,5 córners | 36% | 17% | 57% | 50% |
+| Más de 10,5 córners | 29% | 0% | 57% | 50% |
+| Faltas cometidas | 11,4 | 9,0 | 10,1 | 11,0 |
+| Faltas recibidas | 7,4 | 7,0 | 13,7 | 13,5 |
+| Amarillas propias | 1,2 | 1,2 | 1,2 | 1,7 |
 | Amarillas del rival | 0,9 | 0,8 | 1,6 | 1,5 |
-| Rojas / partido | 0,08 | 0,17 | 0,08 | 0,00 |
+| Rojas / partido | 0,07 | 0,17 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Excelsior | Recibe Excelsior | Tarjetas Excelsior | Goles Telstar | Recibe Telstar | Tarjetas Telstar |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 5 | 1 | 3 | 4 | 0 |
-| 16-30' | 2 | 0 | 1 | 3 | 4 | 4 |
-| 31-45' | 6 | 7 | 4 | 5 | 5 | 3 |
-| 46-60' | 2 | 4 | 1 | 2 | 7 | 3 |
-| 61-75' | 3 | 6 | 3 | 2 | 3 | 3 |
-| 76-90' | 4 | 7 | 6 | 3 | 4 | 5 |
+| 1-15' | 3 | 6 | 1 | 3 | 4 | 0 |
+| 16-30' | 2 | 0 | 1 | 4 | 5 | 4 |
+| 31-45' | 7 | 7 | 4 | 5 | 6 | 3 |
+| 46-60' | 3 | 4 | 1 | 2 | 8 | 3 |
+| 61-75' | 3 | 7 | 3 | 2 | 3 | 3 |
+| 76-90' | 4 | 7 | 8 | 3 | 4 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -116,67 +116,67 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Excelsior
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Eredivisie | Feyenoord 2-3 Excelsior | fuera | 4-8 | 9 (5) - 16 (3) | 2-0 |
 | 2026-11-07 | Eredivisie | Excelsior 0-1 GO Ahead Eagles | casa | 7-0 | 14 (2) - 6 (2) | 1-1 |
 | 2026-11-01 | Eredivisie | Excelsior 0-9 Twente | casa | 0-8 | 0 (0) - 28 (15) | 1-1 |
 | 2026-10-28 | KNVB Beker | MVV 0-3 Excelsior | fuera | 1-6 | 9 (6) - 16 (6) | 0-1 |
 | 2026-10-25 | Eredivisie | Fortuna Sittard 1-0 Excelsior | fuera | 4-7 | 6 (2) - 7 (5) | 1-2 |
 | 2026-10-16 | Eredivisie | Heerenveen 4-0 Excelsior | fuera | 1-4 | 5 (1) - 14 (7) | 1-0 |
-| 2026-10-11 | Eredivisie | Excelsior 1-5 Groningen | casa | 3-6 | 16 (2) - 14 (9) | 0-2 |
 
 ## Jugadores de Excelsior
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. van Gassel | G | 13 | 1170 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 0 | 0 |
-| R. Meissen | D | 13 | 1170 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 11 | 4 | 0,3 | 1 | 0 |
-| J. Plug | D | 13 | 1170 | 0 | 0 | 3 | 0,2 | 2 | 0,2 | 6 | 3 | 0,2 | 2 | 0 |
-| I. Yegoian | M | 13 | 1127 | 5 | 5 | 22 | 1,7 | 12 | 0,9 | 12 | 17 | 1,3 | 2 | 0 |
-| C. Widell | D | 13 | 1096 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 9 | 7 | 0,5 | 0 | 0 |
-| L. Hartjes | M | 12 | 1059 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 13 | 9 | 0,8 | 2 | 0 |
+| R. Meissen | D | 14 | 1260 | 1 | 0 | 4 | 0,3 | 2 | 0,1 | 13 | 5 | 0,4 | 1 | 0 |
+| J. Plug | D | 14 | 1260 | 0 | 0 | 3 | 0,2 | 2 | 0,1 | 7 | 3 | 0,2 | 2 | 0 |
+| S. van Gassel | G | 14 | 1260 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,1 | 0 | 0 |
+| I. Yegoian | M | 14 | 1217 | 6 | 5 | 24 | 1,7 | 13 | 0,9 | 12 | 17 | 1,2 | 2 | 0 |
+| C. Widell | D | 14 | 1186 | 2 | 0 | 7 | 0,5 | 2 | 0,1 | 12 | 7 | 0,5 | 0 | 0 |
+| L. Hartjes | M | 13 | 1149 | 1 | 0 | 4 | 0,3 | 3 | 0,2 | 15 | 9 | 0,7 | 2 | 0 |
+| A. Sliti | F | 14 | 804 | 4 | 2 | 18 | 1,3 | 9 | 0,6 | 1 | 9 | 0,6 | 0 | 0 |
 | S. Janssen | D | 13 | 764 | 0 | 3 | 1 | 0,1 | 0 | 0,0 | 11 | 4 | 0,3 | 1 | 0 |
-| A. Sliti | M | 13 | 726 | 4 | 1 | 16 | 1,2 | 8 | 0,6 | 1 | 9 | 0,7 | 0 | 0 |
-| D. Garden | F | 12 | 706 | 3 | 0 | 12 | 1,0 | 5 | 0,4 | 12 | 5 | 0,4 | 0 | 0 |
-| Á. Þorsteinsson | M | 10 | 640 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 10 | 8 | 0,8 | 2 | 0 |
-| Eric Emanuel da Silva Moreira | F | 9 | 579 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 9 | 9 | 1,0 | 0 | 0 |
+| D. Garden | F | 13 | 732 | 3 | 0 | 12 | 0,9 | 5 | 0,4 | 13 | 5 | 0,4 | 0 | 0 |
+| Á. Þorsteinsson | F | 11 | 714 | 0 | 2 | 2 | 0,2 | 1 | 0,1 | 12 | 8 | 0,7 | 2 | 0 |
+| Eric Emanuel da Silva Moreira | F | 10 | 595 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 11 | 9 | 0,9 | 1 | 0 |
+| K. Bos | D | 9 | 508 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 5 | 0,6 | 1 | 0 |
 | D. van Vianen | M | 8 | 475 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 7 | 0,9 | 0 | 0 |
-| K. Bos | D | 8 | 418 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 6 | 5 | 0,6 | 0 | 0 |
-| N. Naujoks | M | 6 | 362 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 8 | 3 | 0,5 | 0 | 0 |
-| Ilano Silva Timas | M | 8 | 297 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 3 | 0,4 | 0 | 0 |
-| Mario Domínguez | F | 8 | 286 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 5 | 0 | 0,0 | 1 | 0 |
+| N. Naujoks | M | 7 | 441 | 2 | 0 | 4 | 0,6 | 2 | 0,3 | 11 | 3 | 0,4 | 0 | 0 |
+| Mario Domínguez | F | 9 | 350 | 1 | 0 | 9 | 1,0 | 3 | 0,3 | 6 | 0 | 0,0 | 1 | 0 |
+| I. Silva Timas | F | 9 | 308 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 3 | 0,3 | 0 | 0 |
 | N. Groen | F | 7 | 164 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 7 | 0 | 0,0 | 1 | 1 |
 | V. Sulzbacher | M | 7 | 144 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 2 | 0,3 | 2 | 0 |
-| A. Jahanbakhsh | F | 8 | 127 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 4 | 2 | 0,2 | 1 | 0 |
+| A. Jahanbakhsh | F | 9 | 139 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 5 | 2 | 0,2 | 1 | 0 |
 | Nolan Martens | D | 2 | 119 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Telstar
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Eredivisie | Telstar 1-3 PEC Zwolle | casa | 11-7 | 20 (6) - 12 (4) | 0-1 |
 | 2026-11-07 | Eredivisie | Fortuna Sittard 2-2 Telstar | fuera | 4-4 | 14 (8) - 10 (4) | 3-2 |
 | 2026-11-01 | Eredivisie | Telstar 4-2 Utrecht | casa | 3-9 | 16 (7) - 15 (5) | 0-2 |
 | 2026-10-27 | KNVB Beker | Telstar 0-2 Almere City FC | casa | 7-5 | 15 (1) - 10 (4) | –-– |
 | 2026-10-23 | Eredivisie | GO Ahead Eagles 3-2 Telstar | fuera | 2-4 | 12 (3) - 16 (7) | 1-1 |
 | 2026-10-17 | Eredivisie | Telstar 3-4 Feyenoord | casa | 7-8 | 23 (9) - 21 (11) | 1-4 |
-| 2026-10-11 | Eredivisie | Telstar 2-2 ADO Den Haag | casa | 8-0 | 30 (4) - 3 (2) | 2-1 |
 
 ## Jugadores de Telstar
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Koeman | G | 13 | 1170 | 2 | 0 | 2 | 0,2 | 2 | 0,2 | 0 | 3 | 0,2 | 2 | 0 |
-| A. Soualhia | D | 13 | 1170 | 3 | 1 | 13 | 1,0 | 3 | 0,2 | 19 | 26 | 2,0 | 3 | 0 |
-| M. Peersman | D | 13 | 1129 | 0 | 0 | 10 | 0,8 | 4 | 0,3 | 13 | 26 | 2,0 | 2 | 0 |
-| T. Owusu | M | 13 | 1113 | 5 | 1 | 18 | 1,4 | 6 | 0,5 | 8 | 14 | 1,1 | 1 | 0 |
-| N. Rossen | M | 13 | 1097 | 0 | 0 | 6 | 0,5 | 3 | 0,2 | 5 | 11 | 0,8 | 0 | 0 |
-| P. Brouwer | F | 12 | 1038 | 3 | 3 | 10 | 0,8 | 4 | 0,3 | 11 | 14 | 1,2 | 0 | 0 |
-| S. Valk | D | 11 | 990 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 6 | 9 | 0,8 | 1 | 0 |
-| Gerald Alders | D | 8 | 596 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 9 | 8 | 1,0 | 2 | 0 |
-| N. Þórisson | F | 9 | 575 | 1 | 1 | 20 | 2,2 | 7 | 0,8 | 8 | 3 | 0,3 | 1 | 1 |
-| Rui Mendes | F | 9 | 559 | 1 | 0 | 12 | 1,3 | 5 | 0,6 | 2 | 1 | 0,1 | 1 | 0 |
-| J. Hardeveld | D | 10 | 558 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 7 | 6 | 0,6 | 0 | 0 |
+| R. Koeman | G | 14 | 1260 | 2 | 0 | 2 | 0,1 | 2 | 0,1 | 0 | 3 | 0,2 | 2 | 0 |
+| A. Soualhia | D | 14 | 1260 | 3 | 1 | 14 | 1,0 | 3 | 0,2 | 21 | 30 | 2,1 | 3 | 0 |
+| T. Owusu | M | 14 | 1203 | 5 | 1 | 22 | 1,6 | 7 | 0,5 | 8 | 14 | 1,0 | 1 | 0 |
+| N. Rossen | M | 14 | 1187 | 0 | 0 | 6 | 0,4 | 3 | 0,2 | 5 | 12 | 0,9 | 0 | 0 |
+| M. Peersman | D | 14 | 1186 | 0 | 0 | 10 | 0,7 | 4 | 0,3 | 15 | 27 | 1,9 | 2 | 0 |
+| P. Brouwer | F | 13 | 1128 | 3 | 3 | 13 | 1,0 | 4 | 0,3 | 11 | 16 | 1,2 | 0 | 0 |
+| S. Valk | D | 12 | 1080 | 1 | 1 | 8 | 0,7 | 2 | 0,2 | 7 | 9 | 0,8 | 1 | 0 |
+| Gerald Alders | D | 9 | 629 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 8 | 0,9 | 2 | 0 |
+| N. Þórisson | F | 10 | 608 | 1 | 1 | 22 | 2,2 | 9 | 0,9 | 8 | 4 | 0,4 | 1 | 1 |
+| J. Hardeveld | D | 11 | 591 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 7 | 6 | 0,5 | 0 | 0 |
+| Rui Mendes | F | 10 | 567 | 1 | 0 | 13 | 1,3 | 5 | 0,5 | 2 | 1 | 0,1 | 1 | 0 |
 | Jelani Seedorf | F | 12 | 519 | 0 | 0 | 11 | 0,9 | 1 | 0,1 | 6 | 4 | 0,3 | 1 | 0 |
-| G. Caschili | D | 7 | 372 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 7 | 6 | 0,9 | 0 | 0 |
-| A. Martha | F | 7 | 367 | 1 | 1 | 7 | 1,0 | 3 | 0,4 | 8 | 4 | 0,6 | 0 | 0 |
+| A. Martha | M | 8 | 457 | 1 | 1 | 11 | 1,4 | 5 | 0,6 | 9 | 5 | 0,6 | 0 | 0 |
+| G. Caschili | D | 8 | 429 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 6 | 0,8 | 0 | 0 |
+| Isaiah Ahmed | M | 7 | 402 | 0 | 0 | 6 | 0,9 | 1 | 0,1 | 10 | 8 | 1,1 | 2 | 0 |
 | N. Shenkman | M | 9 | 327 | 1 | 2 | 5 | 0,6 | 1 | 0,1 | 0 | 2 | 0,2 | 0 | 0 |
-| Isaiah Ahmed | M | 6 | 320 | 0 | 0 | 5 | 0,8 | 1 | 0,2 | 9 | 6 | 1,0 | 2 | 0 |
-| E. Demircan | F | 9 | 252 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 3 | 5 | 0,6 | 0 | 0 |
+| E. Demircan | M | 10 | 309 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 3 | 8 | 0,8 | 0 | 0 |
 | R. Oudsten | D | 7 | 190 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 3 | 0,4 | 0 | 0 |
 | Soufiane Hetli | M | 2 | 153 | 0 | 0 | 4 | 2,0 | 1 | 0,5 | 2 | 5 | 2,5 | 0 | 0 |
 | H. Kuster | M | 7 | 145 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 7 | 1,0 | 1 | 0 |

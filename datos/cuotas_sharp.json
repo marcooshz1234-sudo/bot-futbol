@@ -1,106 +1,106 @@
 {
- "dia": "2026-11-21",
+ "dia": "2026-11-22",
  "partidos": {
-  "1550205": {
-   "oddspapi": "id1003222176555432",
+  "1570455": {
+   "oddspapi": "id1003221976555536",
    "cuotas": {
-    "fixtureId": "id1003222176555432",
-    "participant1Id": 697107,
-    "participant2Id": 696867,
+    "fixtureId": "id1003221976555536",
+    "participant1Id": 694913,
+    "participant2Id": 694909,
+    "sportId": 10,
+    "tournamentId": 32219,
+    "seasonId": null,
+    "statusId": 0,
+    "hasOdds": false,
+    "startTime": "2026-11-22T09:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-11-21T11:30:56.754Z"
+   }
+  },
+  "1552825": {
+   "oddspapi": "id1003222376555418",
+   "cuotas": {
+    "fixtureId": "id1003222376555418",
+    "participant1Id": 1272212,
+    "participant2Id": 697139,
+    "sportId": 10,
+    "tournamentId": 32223,
+    "seasonId": null,
+    "statusId": 0,
+    "hasOdds": false,
+    "startTime": "2026-11-22T11:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-11-21T11:30:56.935Z"
+   }
+  },
+  "1550199": {
+   "oddspapi": "id1003222176555438",
+   "cuotas": {
+    "fixtureId": "id1003222176555438",
+    "participant1Id": 697109,
+    "participant2Id": 697117,
     "sportId": 10,
     "tournamentId": 32221,
     "seasonId": null,
     "statusId": 0,
     "hasOdds": false,
-    "startTime": "2026-11-21T09:00:00.000Z",
+    "startTime": "2026-11-22T09:00:00.000Z",
     "trueStartTime": null,
     "trueEndTime": null,
-    "updatedAt": "2026-11-20T11:51:18.810Z"
+    "updatedAt": "2026-11-21T11:30:56.858Z"
    }
   },
-  "1557471": {
-   "oddspapi": "id1003221576555294",
+  "1575224": {
+   "oddspapi": "id1003221776555260",
    "cuotas": {
-    "fixtureId": "id1003221576555294",
-    "participant1Id": 1372932,
-    "participant2Id": 694833,
-    "sportId": 10,
-    "tournamentId": 32215,
-    "seasonId": null,
-    "statusId": 0,
-    "hasOdds": false,
-    "startTime": "2026-11-21T10:00:00.000Z",
-    "trueStartTime": null,
-    "trueEndTime": null,
-    "updatedAt": "2026-11-20T11:51:18.556Z"
-   }
-  },
-  "1557467": {
-   "oddspapi": "id1003221576555288",
-   "cuotas": {
-    "fixtureId": "id1003221576555288",
-    "participant1Id": 694825,
-    "participant2Id": 1272216,
-    "sportId": 10,
-    "tournamentId": 32215,
-    "seasonId": null,
-    "statusId": 0,
-    "hasOdds": false,
-    "startTime": "2026-11-21T10:00:00.000Z",
-    "trueStartTime": null,
-    "trueEndTime": null,
-    "updatedAt": "2026-11-20T11:51:18.478Z"
-   }
-  },
-  "1557475": {
-   "oddspapi": "id1003221576555298",
-   "cuotas": {
-    "fixtureId": "id1003221576555298",
-    "participant1Id": 694845,
-    "participant2Id": 694823,
-    "sportId": 10,
-    "tournamentId": 32215,
-    "seasonId": null,
-    "statusId": 0,
-    "hasOdds": false,
-    "startTime": "2026-11-21T10:00:00.000Z",
-    "trueStartTime": null,
-    "trueEndTime": null,
-    "updatedAt": "2026-11-20T11:51:18.609Z"
-   }
-  },
-  "1575222": {
-   "oddspapi": "id1003221776555248",
-   "cuotas": {
-    "fixtureId": "id1003221776555248",
-    "participant1Id": 694867,
-    "participant2Id": 694889,
+    "fixtureId": "id1003221776555260",
+    "participant1Id": 694875,
+    "participant2Id": 694865,
     "sportId": 10,
     "tournamentId": 32217,
     "seasonId": null,
     "statusId": 0,
     "hasOdds": false,
-    "startTime": "2026-11-21T11:30:00.000Z",
+    "startTime": "2026-11-22T11:30:00.000Z",
     "trueStartTime": null,
     "trueEndTime": null,
-    "updatedAt": "2026-11-20T17:50:12.887Z"
+    "updatedAt": "2026-11-21T17:51:10.653Z"
    }
   },
-  "1575225": {
-   "oddspapi": "id1003221776555252",
+  "1552822": {
+   "oddspapi": "id1003222376555422",
    "cuotas": {
-    "fixtureId": "id1003221776555252",
-    "participant1Id": 694863,
-    "participant2Id": 694885,
+    "fixtureId": "id1003222376555422",
+    "participant1Id": 697125,
+    "participant2Id": 1372928,
     "sportId": 10,
-    "tournamentId": 32217,
+    "tournamentId": 32223,
     "seasonId": null,
     "statusId": 0,
     "hasOdds": false,
-    "startTime": "2026-11-21T11:30:00.000Z",
+    "startTime": "2026-11-22T11:00:00.000Z",
     "trueStartTime": null,
     "trueEndTime": null,
-    "updatedAt": "2026-11-20T17:50:12.941Z"
+    "updatedAt": "2026-11-21T11:30:56.974Z"
+   }
+  },
+  "1550206": {
+   "oddspapi": "id1003222176555440",
+   "cuotas": {
+    "fixtureId": "id1003222176555440",
+    "participant1Id": 697111,
+    "participant2Id": 697123,
+    "sportId": 10,
+    "tournamentId": 32221,
+    "seasonId": null,
+    "statusId": 0,
+    "hasOdds": false,
+    "startTime": "2026-11-22T09:00:00.000Z",
+    "trueStartTime": null,
+    "trueEndTime": null,
+    "updatedAt": "2026-11-21T11:30:56.878Z"
    }
   }
  }

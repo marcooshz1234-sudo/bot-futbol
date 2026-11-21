@@ -1,7 +1,7 @@
 # Paris Saint Germain – Lorient
 **Ligue 1** · Regular Season - 12 · 28/11/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:20_
@@ -47,53 +47,53 @@ _Actualizadas: 21/11 02:20_
 ## Estadísticas de equipo
 | | Paris Saint Germain (total) | Paris Saint Germain en casa | Lorient (total) | Lorient fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 6 | 10 | 5 |
+| Partidos analizados | 15 | 6 | 10 | 5 |
 | Forma (últimos 5) | VVVVV | VVVVV | VDEVV | VEDVE |
-| Balance | 11V 2E 1D | 5V 0E 1D | 4V 3E 3D | 2V 2E 1D |
+| Balance | 12V 2E 1D | 5V 0E 1D | 4V 3E 3D | 2V 2E 1D |
 | Goles a favor / partido | 3,00 | 2,83 | 0,90 | 0,80 |
-| Goles en contra / partido | 1,07 | 1,00 | 0,80 | 0,40 |
-| Goles a favor 1ª parte | 1,21 | 1,17 | 0,30 | 0,20 |
-| Goles a favor 2ª parte | 1,79 | 1,67 | 0,60 | 0,60 |
-| Goles en contra 1ª parte | 0,36 | 0,00 | 0,30 | 0,20 |
-| Goles en contra 2ª parte | 0,71 | 1,00 | 0,50 | 0,20 |
-| Más de 1,5 goles | 86% | 83% | 50% | 40% |
-| Más de 2,5 goles | 79% | 67% | 30% | 20% |
-| Más de 3,5 goles | 64% | 50% | 10% | 0% |
-| Ambos marcan | 71% | 67% | 30% | 20% |
-| Portería a cero | 29% | 33% | 60% | 80% |
+| Goles en contra / partido | 1,13 | 1,00 | 0,80 | 0,40 |
+| Goles a favor 1ª parte | 1,27 | 1,17 | 0,30 | 0,20 |
+| Goles a favor 2ª parte | 1,73 | 1,67 | 0,60 | 0,60 |
+| Goles en contra 1ª parte | 0,40 | 0,00 | 0,30 | 0,20 |
+| Goles en contra 2ª parte | 0,73 | 1,00 | 0,50 | 0,20 |
+| Más de 1,5 goles | 87% | 83% | 50% | 40% |
+| Más de 2,5 goles | 80% | 67% | 30% | 20% |
+| Más de 3,5 goles | 67% | 50% | 10% | 0% |
+| Ambos marcan | 73% | 67% | 30% | 20% |
+| Portería a cero | 27% | 33% | 60% | 80% |
 | Se queda sin marcar | 0% | 0% | 30% | 40% |
-| xG a favor | 2,75 | 3,03 | 1,23 | 1,22 |
-| xG en contra | 1,31 | 1,03 | 1,12 | 0,91 |
-| Tiros / partido | 20,5 | 22,3 | 10,1 | 8,8 |
-| Tiros a puerta / partido | 9,1 | 10,5 | 2,8 | 2,2 |
-| Tiros recibidos | 12,6 | 9,7 | 13,9 | 14,2 |
-| Tiros a puerta recibidos | 4,4 | 3,7 | 4,1 | 4,8 |
+| xG a favor | 2,70 | 3,03 | 1,23 | 1,22 |
+| xG en contra | 1,28 | 1,03 | 1,12 | 0,91 |
+| Tiros / partido | 20,1 | 22,3 | 10,1 | 8,8 |
+| Tiros a puerta / partido | 8,9 | 10,5 | 2,8 | 2,2 |
+| Tiros recibidos | 12,0 | 9,7 | 13,9 | 14,2 |
+| Tiros a puerta recibidos | 4,3 | 3,7 | 4,1 | 4,8 |
 | Posesión media % | 66 | 67 | 47 | 46 |
-| Córners a favor | 5,4 | 5,3 | 3,3 | 2,6 |
-| Córners en contra | 3,1 | 2,3 | 5,2 | 5,8 |
-| Córners a favor 1ª parte | 2,9 | 3,0 | 1,6 | 1,2 |
+| Córners a favor | 5,3 | 5,3 | 3,3 | 2,6 |
+| Córners en contra | 2,9 | 2,3 | 5,2 | 5,8 |
+| Córners a favor 1ª parte | 2,8 | 3,0 | 1,6 | 1,2 |
 | Córners a favor 2ª parte | 2,5 | 2,3 | 1,7 | 1,4 |
-| Córners totales del partido | 8,4 | 7,7 | 8,5 | 8,4 |
-| Córners totales 1ª parte | 4,2 | 4,0 | 4,1 | 4,4 |
-| Córners totales 2ª parte | 4,2 | 3,7 | 4,4 | 4,0 |
-| Más de 8,5 córners | 50% | 33% | 40% | 40% |
-| Más de 9,5 córners | 36% | 17% | 40% | 40% |
-| Más de 10,5 córners | 21% | 17% | 30% | 40% |
-| Faltas cometidas | 7,1 | 7,5 | 10,4 | 11,4 |
+| Córners totales del partido | 8,3 | 7,7 | 8,5 | 8,4 |
+| Córners totales 1ª parte | 4,1 | 4,0 | 4,1 | 4,4 |
+| Córners totales 2ª parte | 4,1 | 3,7 | 4,4 | 4,0 |
+| Más de 8,5 córners | 47% | 33% | 40% | 40% |
+| Más de 9,5 córners | 33% | 17% | 40% | 40% |
+| Más de 10,5 córners | 20% | 17% | 30% | 40% |
+| Faltas cometidas | 7,5 | 7,5 | 10,4 | 11,4 |
 | Faltas recibidas | 11,4 | 10,8 | 15,2 | 15,4 |
-| Amarillas propias | 0,9 | 0,7 | 1,3 | 1,6 |
+| Amarillas propias | 0,8 | 0,7 | 1,3 | 1,6 |
 | Amarillas del rival | 1,9 | 1,7 | 2,0 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Paris Saint Germain | Recibe Paris Saint Germain | Tarjetas Paris Saint Germain | Goles Lorient | Recibe Lorient | Tarjetas Lorient |
 |---|---|---|---|---|---|---|
-| 1-15' | 6 | 1 | 0 | 0 | 1 | 2 |
+| 1-15' | 6 | 2 | 0 | 0 | 1 | 2 |
 | 16-30' | 6 | 3 | 0 | 1 | 1 | 2 |
-| 31-45' | 5 | 1 | 4 | 2 | 1 | 0 |
+| 31-45' | 7 | 1 | 4 | 2 | 1 | 0 |
 | 46-60' | 4 | 5 | 1 | 2 | 2 | 1 |
 | 61-75' | 10 | 3 | 3 | 2 | 2 | 4 |
-| 76-90' | 11 | 2 | 4 | 2 | 1 | 4 |
+| 76-90' | 12 | 3 | 4 | 2 | 1 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -111,35 +111,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Paris Saint Germain
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Nice 2-3 Paris Saint Germain | fuera | 5-1 | 14 (5) - 4 (3) | 0-2 |
 | 2026-11-07 | Ligue 1 | Paris Saint Germain 1-0 Estac Troyes | casa | 6-1 | 15 (7) - 8 (3) | 1-2 |
 | 2026-11-03 | Champions League | Villarreal 0-6 Paris Saint Germain | fuera | 8-4 | 22 (12) - 14 (2) | 1-4 |
 | 2026-10-30 | Ligue 1 | Le Havre 1-5 Paris Saint Germain | fuera | 3-5 | 15 (10) - 14 (5) | 0-0 |
 | 2026-10-26 | Ligue 1 | Paris Saint Germain 2-0 Lyon | casa | 7-4 | 17 (10) - 8 (5) | 2-1 |
 | 2026-10-20 | Champions League | Paris Saint Germain 4-2 Barcelona | casa | 2-3 | 22 (14) - 18 (5) | 0-1 |
-| 2026-10-17 | Ligue 1 | Strasbourg 1-3 Paris Saint Germain | fuera | 6-3 | 18 (7) - 17 (8) | 0-2 |
 
 ## Jugadores de Paris Saint Germain
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Safonov | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,4 | 0 | 0 |
+| M. Safonov | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 0,5 | 0 | 0 |
 | Vitinha | M | 13 | 1020 | 3 | 2 | 13 | 1,0 | 8 | 0,6 | 5 | 4 | 0,3 | 2 | 0 |
-| W. Pacho | D | 11 | 964 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,3 | 0 | 0 |
-| A. Hakimi | D | 12 | 887 | 3 | 3 | 23 | 1,9 | 10 | 0,8 | 3 | 10 | 0,8 | 1 | 0 |
-| Fabián Ruiz | M | 12 | 856 | 4 | 3 | 19 | 1,6 | 11 | 0,9 | 3 | 5 | 0,4 | 1 | 0 |
-| W. Zaïre-Emery | D | 12 | 844 | 0 | 2 | 8 | 0,7 | 2 | 0,2 | 3 | 5 | 0,4 | 1 | 0 |
-| Ferran Torres | F | 14 | 844 | 7 | 1 | 32 | 2,3 | 21 | 1,5 | 2 | 13 | 0,9 | 0 | 0 |
-| M. Akliouche | F | 13 | 807 | 2 | 3 | 14 | 1,1 | 7 | 0,5 | 17 | 9 | 0,7 | 1 | 0 |
-| D. Doué | F | 12 | 744 | 4 | 3 | 29 | 2,4 | 15 | 1,2 | 13 | 15 | 1,2 | 0 | 0 |
-| João Neves | M | 11 | 722 | 1 | 2 | 15 | 1,4 | 7 | 0,6 | 12 | 9 | 0,8 | 0 | 0 |
-| L. Hernández | D | 11 | 701 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 7 | 9 | 0,8 | 1 | 0 |
-| I. Zabarnyi | D | 8 | 661 | 2 | 0 | 5 | 0,6 | 3 | 0,4 | 4 | 3 | 0,4 | 1 | 0 |
-| Marquinhos | D | 7 | 599 | 3 | 0 | 4 | 0,6 | 4 | 0,6 | 5 | 2 | 0,3 | 1 | 0 |
+| W. Pacho | D | 12 | 993 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 4 | 0,3 | 0 | 0 |
+| A. Hakimi | D | 13 | 977 | 3 | 4 | 25 | 1,9 | 11 | 0,8 | 3 | 12 | 0,9 | 1 | 0 |
+| Fabián Ruiz | M | 13 | 946 | 4 | 3 | 20 | 1,5 | 11 | 0,8 | 3 | 6 | 0,5 | 1 | 0 |
+| W. Zaïre-Emery | M | 13 | 934 | 0 | 2 | 9 | 0,7 | 2 | 0,2 | 4 | 6 | 0,5 | 1 | 0 |
+| Ferran Torres | F | 15 | 890 | 8 | 1 | 34 | 2,3 | 22 | 1,5 | 2 | 14 | 0,9 | 0 | 0 |
+| M. Akliouche | F | 14 | 869 | 2 | 3 | 14 | 1,0 | 7 | 0,5 | 17 | 10 | 0,7 | 1 | 0 |
+| João Neves | M | 12 | 812 | 1 | 2 | 16 | 1,3 | 7 | 0,6 | 15 | 10 | 0,8 | 0 | 0 |
+| D. Doué | F | 13 | 788 | 5 | 3 | 30 | 2,3 | 16 | 1,2 | 13 | 15 | 1,2 | 0 | 0 |
+| L. Hernández | D | 12 | 780 | 1 | 0 | 4 | 0,3 | 2 | 0,2 | 9 | 9 | 0,8 | 1 | 0 |
+| I. Zabarnyi | D | 9 | 751 | 2 | 0 | 5 | 0,6 | 3 | 0,3 | 5 | 3 | 0,3 | 1 | 0 |
+| Marquinhos | D | 8 | 610 | 3 | 0 | 4 | 0,5 | 4 | 0,5 | 5 | 2 | 0,2 | 1 | 0 |
 | K. Kvaratskhelia | F | 9 | 460 | 1 | 1 | 18 | 2,0 | 8 | 0,9 | 3 | 7 | 0,8 | 0 | 0 |
-| M. Godts | F | 11 | 407 | 2 | 2 | 8 | 0,7 | 4 | 0,4 | 3 | 11 | 1,0 | 0 | 0 |
-| O. Dembélé | F | 8 | 398 | 4 | 5 | 22 | 2,8 | 10 | 1,2 | 1 | 1 | 0,1 | 0 | 0 |
-| Nuno Mendes | D | 5 | 368 | 0 | 0 | 6 | 1,2 | 4 | 0,8 | 4 | 16 | 3,2 | 1 | 0 |
+| M. Godts | F | 12 | 435 | 2 | 2 | 10 | 0,8 | 5 | 0,4 | 3 | 12 | 1,0 | 0 | 0 |
+| Nuno Mendes | D | 6 | 429 | 0 | 0 | 8 | 1,3 | 4 | 0,7 | 4 | 16 | 2,7 | 1 | 0 |
+| O. Dembélé | F | 9 | 427 | 4 | 6 | 22 | 2,4 | 10 | 1,1 | 2 | 1 | 0,1 | 0 | 0 |
+| Senny Mayulu | F | 8 | 378 | 4 | 2 | 10 | 1,2 | 7 | 0,9 | 6 | 7 | 0,9 | 0 | 0 |
 | Pedro Fernández | M | 8 | 335 | 0 | 0 | 4 | 0,5 | 4 | 0,5 | 4 | 6 | 0,8 | 1 | 0 |
-| Senny Mayulu | M | 7 | 317 | 3 | 2 | 8 | 1,1 | 6 | 0,9 | 2 | 7 | 1,0 | 0 | 0 |
 | Beraldo | D | 11 | 287 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 1 | 1 | 0,1 | 0 | 0 |
 
 ## Últimos partidos de Lorient

@@ -1,7 +1,7 @@
 # Arouca – Rio Ave
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Arouca (total) | Arouca en casa | Rio Ave (total) | Rio Ave fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 12 | 6 |
-| Forma (últimos 5) | DVVVV | VVDVV | DDDVV | DVDDV |
-| Balance | 7V 2E 3D | 4V 0E 1D | 3V 1E 8D | 2V 0E 4D |
-| Goles a favor / partido | 1,42 | 1,80 | 0,83 | 0,67 |
-| Goles en contra / partido | 0,92 | 0,60 | 2,00 | 1,33 |
-| Goles a favor 1ª parte | 0,58 | 1,00 | 0,33 | 0,33 |
-| Goles a favor 2ª parte | 0,83 | 0,80 | 0,50 | 0,33 |
-| Goles en contra 1ª parte | 0,42 | 0,60 | 0,75 | 0,33 |
-| Goles en contra 2ª parte | 0,50 | 0,00 | 1,25 | 1,00 |
-| Más de 1,5 goles | 50% | 60% | 67% | 50% |
-| Más de 2,5 goles | 42% | 60% | 50% | 33% |
-| Más de 3,5 goles | 25% | 20% | 42% | 17% |
-| Ambos marcan | 33% | 40% | 25% | 17% |
-| Portería a cero | 50% | 60% | 17% | 33% |
-| Se queda sin marcar | 25% | 0% | 58% | 50% |
+| Partidos analizados | 13 | 5 | 12 | 6 |
+| Forma (últimos 5) | DDVVV | VVDVV | DDDVV | DVDDV |
+| Balance | 7V 2E 4D | 4V 0E 1D | 3V 1E 8D | 2V 0E 4D |
+| Goles a favor / partido | 1,38 | 1,80 | 0,83 | 0,67 |
+| Goles en contra / partido | 1,00 | 0,60 | 2,00 | 1,33 |
+| Goles a favor 1ª parte | 0,54 | 1,00 | 0,33 | 0,33 |
+| Goles a favor 2ª parte | 0,85 | 0,80 | 0,50 | 0,33 |
+| Goles en contra 1ª parte | 0,46 | 0,60 | 0,75 | 0,33 |
+| Goles en contra 2ª parte | 0,54 | 0,00 | 1,25 | 1,00 |
+| Más de 1,5 goles | 54% | 60% | 67% | 50% |
+| Más de 2,5 goles | 46% | 60% | 50% | 33% |
+| Más de 3,5 goles | 23% | 20% | 42% | 17% |
+| Ambos marcan | 38% | 40% | 25% | 17% |
+| Portería a cero | 46% | 60% | 17% | 33% |
+| Se queda sin marcar | 23% | 0% | 58% | 50% |
 | xG a favor | 1,15 | 1,22 | 0,69 | 0,53 |
 | xG en contra | 1,16 | 0,82 | 1,75 | 1,77 |
 | Tiros / partido | 10,9 | 12,2 | 7,6 | 6,4 |
@@ -31,20 +31,20 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tiros recibidos | 13,1 | 9,0 | 15,3 | 16,6 |
 | Tiros a puerta recibidos | 3,9 | 2,6 | 5,4 | 5,6 |
 | Posesión media % | 52 | 53 | 48 | 46 |
-| Córners a favor | 3,2 | 5,0 | 3,6 | 3,2 |
-| Córners en contra | 4,8 | 3,2 | 5,8 | 6,4 |
-| Córners a favor 1ª parte | 1,5 | 2,4 | 1,9 | 2,2 |
-| Córners a favor 2ª parte | 1,7 | 2,6 | 1,7 | 1,0 |
-| Córners totales del partido | 7,9 | 8,2 | 9,5 | 9,6 |
-| Córners totales 1ª parte | 3,8 | 4,4 | 4,6 | 5,4 |
-| Córners totales 2ª parte | 4,1 | 3,8 | 4,8 | 4,2 |
-| Más de 8,5 córners | 42% | 40% | 64% | 80% |
-| Más de 9,5 córners | 42% | 40% | 45% | 60% |
-| Más de 10,5 córners | 25% | 20% | 36% | 40% |
+| Córners a favor | 2,9 | 5,0 | 3,6 | 3,2 |
+| Córners en contra | 4,4 | 3,2 | 5,8 | 6,4 |
+| Córners a favor 1ª parte | 1,4 | 2,4 | 1,9 | 2,2 |
+| Córners a favor 2ª parte | 1,5 | 2,6 | 1,7 | 1,0 |
+| Córners totales del partido | 7,3 | 8,2 | 9,5 | 9,6 |
+| Córners totales 1ª parte | 3,5 | 4,4 | 4,6 | 5,4 |
+| Córners totales 2ª parte | 3,8 | 3,8 | 4,8 | 4,2 |
+| Más de 8,5 córners | 38% | 40% | 64% | 80% |
+| Más de 9,5 córners | 38% | 40% | 45% | 60% |
+| Más de 10,5 córners | 23% | 20% | 36% | 40% |
 | Faltas cometidas | 10,7 | 9,6 | 10,5 | 10,4 |
 | Faltas recibidas | 10,1 | 9,6 | 13,4 | 11,4 |
-| Amarillas propias | 2,4 | 3,0 | 1,7 | 1,8 |
-| Amarillas del rival | 2,2 | 2,4 | 1,1 | 1,4 |
+| Amarillas propias | 2,2 | 3,0 | 1,7 | 1,8 |
+| Amarillas del rival | 2,0 | 2,4 | 1,1 | 1,4 |
 | Rojas / partido | 0,08 | 0,00 | 0,27 | 0,40 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 0 | 1 | 4 | 0 |
 | 16-30' | 4 | 3 | 2 | 0 | 3 | 0 |
-| 31-45' | 2 | 1 | 6 | 3 | 2 | 4 |
-| 46-60' | 3 | 1 | 3 | 2 | 5 | 7 |
+| 31-45' | 2 | 2 | 6 | 3 | 2 | 4 |
+| 46-60' | 4 | 2 | 3 | 2 | 5 | 7 |
 | 61-75' | 1 | 1 | 7 | 2 | 3 | 2 |
-| 76-90' | 6 | 4 | 15 | 2 | 7 | 13 |
+| 76-90' | 6 | 4 | 19 | 2 | 7 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Arouca
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Taça de Portugal | Mafra 2-1 Arouca | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-06 | Primeira Liga | Famalicao 1-0 Arouca | fuera | 2-9 | 7 (3) - 14 (5) | 3-2 |
 | 2026-11-01 | Primeira Liga | Arouca 1-0 Nacional | casa | 8-2 | 12 (5) - 5 (1) | 2-2 |
 | 2026-10-24 | Primeira Liga | Alverca 0-1 Arouca | fuera | 3-3 | 17 (4) - 10 (1) | 2-1 |
 | 2026-10-18 | Taça de Portugal | CF Os Belenenses 3-4 Arouca | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Arouca 1-0 Estrela | casa | 5-6 | 7 (3) - 11 (2) | 5-2 |
-| 2026-09-19 | Primeira Liga | Sporting CP 2-2 Arouca | fuera | 2-4 | 15 (5) - 10 (3) | 5-4 |
 
 ## Jugadores de Arouca
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

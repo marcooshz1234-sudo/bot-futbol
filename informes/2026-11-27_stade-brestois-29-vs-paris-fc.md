@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Paris FC
 **Ligue 1** · Regular Season - 12 · 27/11/2026 20:45 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:19_
@@ -51,53 +51,53 @@ _Actualizadas: 21/11 02:19_
 ## Estadísticas de equipo
 | | Stade Brestois 29 (total) | Stade Brestois 29 en casa | Paris FC (total) | Paris FC fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 10 | 5 |
-| Forma (últimos 5) | VVDEV | VDVDE | VVDVD | VDDVE |
-| Balance | 4V 3E 3D | 2V 1E 2D | 6V 2E 2D | 2V 1E 2D |
-| Goles a favor / partido | 1,80 | 2,00 | 1,70 | 1,00 |
-| Goles en contra / partido | 1,20 | 1,20 | 1,00 | 1,00 |
-| Goles a favor 1ª parte | 1,10 | 1,40 | 0,90 | 0,60 |
-| Goles a favor 2ª parte | 0,70 | 0,60 | 0,80 | 0,40 |
-| Goles en contra 1ª parte | 0,30 | 0,40 | 0,20 | 0,20 |
-| Goles en contra 2ª parte | 0,90 | 0,80 | 0,80 | 0,80 |
-| Más de 1,5 goles | 90% | 80% | 60% | 40% |
-| Más de 2,5 goles | 60% | 60% | 60% | 40% |
-| Más de 3,5 goles | 30% | 40% | 30% | 20% |
-| Ambos marcan | 70% | 60% | 50% | 40% |
-| Portería a cero | 20% | 20% | 40% | 40% |
-| Se queda sin marcar | 10% | 20% | 30% | 40% |
-| xG a favor | 2,02 | 2,53 | 1,69 | 1,49 |
-| xG en contra | 1,25 | 0,98 | 1,00 | 0,87 |
+| Partidos analizados | 11 | 5 | 10 | 5 |
+| Forma (últimos 5) | VVVDE | VDVDE | VVDVD | VDDVE |
+| Balance | 5V 3E 3D | 2V 1E 2D | 6V 2E 2D | 2V 1E 2D |
+| Goles a favor / partido | 1,73 | 2,00 | 1,70 | 1,00 |
+| Goles en contra / partido | 1,09 | 1,20 | 1,00 | 1,00 |
+| Goles a favor 1ª parte | 1,09 | 1,40 | 0,90 | 0,60 |
+| Goles a favor 2ª parte | 0,64 | 0,60 | 0,80 | 0,40 |
+| Goles en contra 1ª parte | 0,27 | 0,40 | 0,20 | 0,20 |
+| Goles en contra 2ª parte | 0,82 | 0,80 | 0,80 | 0,80 |
+| Más de 1,5 goles | 82% | 80% | 60% | 40% |
+| Más de 2,5 goles | 55% | 60% | 60% | 40% |
+| Más de 3,5 goles | 27% | 40% | 30% | 20% |
+| Ambos marcan | 64% | 60% | 50% | 40% |
+| Portería a cero | 27% | 20% | 40% | 40% |
+| Se queda sin marcar | 9% | 20% | 30% | 40% |
+| xG a favor | 1,99 | 2,53 | 1,69 | 1,49 |
+| xG en contra | 1,30 | 0,98 | 1,00 | 0,87 |
 | Tiros / partido | 16,1 | 17,6 | 13,5 | 11,8 |
-| Tiros a puerta / partido | 5,7 | 6,6 | 4,9 | 3,0 |
-| Tiros recibidos | 11,8 | 9,8 | 9,3 | 9,4 |
-| Tiros a puerta recibidos | 3,4 | 3,2 | 3,2 | 3,4 |
-| Posesión media % | 45 | 46 | 52 | 53 |
-| Córners a favor | 4,0 | 3,6 | 3,6 | 4,2 |
-| Córners en contra | 5,1 | 4,8 | 3,4 | 4,2 |
-| Córners a favor 1ª parte | 1,7 | 1,4 | 1,6 | 1,8 |
-| Córners a favor 2ª parte | 2,3 | 2,2 | 2,0 | 2,4 |
+| Tiros a puerta / partido | 5,4 | 6,6 | 4,9 | 3,0 |
+| Tiros recibidos | 12,1 | 9,8 | 9,3 | 9,4 |
+| Tiros a puerta recibidos | 3,5 | 3,2 | 3,2 | 3,4 |
+| Posesión media % | 44 | 46 | 52 | 53 |
+| Córners a favor | 3,7 | 3,6 | 3,6 | 4,2 |
+| Córners en contra | 5,4 | 4,8 | 3,4 | 4,2 |
+| Córners a favor 1ª parte | 1,5 | 1,4 | 1,6 | 1,8 |
+| Córners a favor 2ª parte | 2,2 | 2,2 | 2,0 | 2,4 |
 | Córners totales del partido | 9,1 | 8,4 | 7,0 | 8,4 |
-| Córners totales 1ª parte | 4,1 | 4,2 | 2,8 | 3,8 |
-| Córners totales 2ª parte | 5,0 | 4,2 | 4,2 | 4,6 |
-| Más de 8,5 córners | 80% | 80% | 20% | 40% |
-| Más de 9,5 córners | 50% | 20% | 10% | 20% |
-| Más de 10,5 córners | 20% | 0% | 10% | 20% |
-| Faltas cometidas | 14,4 | 13,0 | 13,9 | 14,0 |
-| Faltas recibidas | 13,2 | 12,2 | 13,1 | 13,6 |
+| Córners totales 1ª parte | 4,2 | 4,2 | 2,8 | 3,8 |
+| Córners totales 2ª parte | 4,9 | 4,2 | 4,2 | 4,6 |
+| Más de 8,5 córners | 82% | 80% | 20% | 40% |
+| Más de 9,5 córners | 45% | 20% | 10% | 20% |
+| Más de 10,5 córners | 18% | 0% | 10% | 20% |
+| Faltas cometidas | 14,6 | 13,0 | 13,9 | 14,0 |
+| Faltas recibidas | 13,4 | 12,2 | 13,1 | 13,6 |
 | Amarillas propias | 1,4 | 1,6 | 2,2 | 2,4 |
-| Amarillas del rival | 1,8 | 2,6 | 1,9 | 1,8 |
+| Amarillas del rival | 1,9 | 2,6 | 1,9 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Stade Brestois 29 | Recibe Stade Brestois 29 | Tarjetas Stade Brestois 29 | Goles Paris FC | Recibe Paris FC | Tarjetas Paris FC |
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 2 | 2 | 1 | 2 |
-| 16-30' | 5 | 0 | 1 | 3 | 1 | 2 |
+| 16-30' | 6 | 0 | 1 | 3 | 1 | 2 |
 | 31-45' | 2 | 1 | 5 | 4 | 0 | 2 |
-| 46-60' | 2 | 3 | 1 | 2 | 1 | 3 |
+| 46-60' | 2 | 3 | 2 | 2 | 1 | 3 |
 | 61-75' | 2 | 3 | 3 | 2 | 4 | 5 |
-| 76-90' | 3 | 3 | 2 | 4 | 3 | 8 |
+| 76-90' | 3 | 3 | 3 | 4 | 3 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -116,34 +116,34 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Stade Brestois 29
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Strasbourg 0-1 Stade Brestois 29 | fuera | 1-8 | 16 (2) - 15 (5) | 1-3 |
 | 2026-11-08 | Ligue 1 | Stade Brestois 29 2-0 Lyon | casa | 1-8 | 13 (6) - 10 (2) | 1-2 |
 | 2026-11-02 | Ligue 1 | Lorient 0-2 Stade Brestois 29 | fuera | 2-8 | 12 (4) - 15 (0) | 1-1 |
 | 2026-10-23 | Ligue 1 | Stade Brestois 29 1-2 Nice | casa | 3-7 | 13 (7) - 9 (2) | 3-5 |
 | 2026-10-17 | Ligue 1 | Lille 1-1 Stade Brestois 29 | fuera | 2-5 | 8 (2) - 17 (5) | 2-1 |
 | 2026-10-10 | Ligue 1 | Stade Brestois 29 5-1 Angers | casa | 4-5 | 19 (9) - 9 (3) | 1-1 |
-| 2026-09-20 | Ligue 1 | Auxerre 2-1 Stade Brestois 29 | fuera | 3-8 | 8 (2) - 11 (4) | 1-1 |
 
 ## Jugadores de Stade Brestois 29
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E. Selvik | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| B. Locko | D | 10 | 898 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 8 | 14 | 1,4 | 3 | 0 |
-| L. Ajorque | F | 10 | 892 | 5 | 1 | 25 | 2,5 | 12 | 1,2 | 25 | 13 | 1,3 | 4 | 0 |
-| J. Chotard | M | 10 | 863 | 0 | 2 | 8 | 0,8 | 2 | 0,2 | 10 | 7 | 0,7 | 0 | 0 |
-| K. Lala | D | 10 | 832 | 1 | 0 | 7 | 0,7 | 3 | 0,3 | 6 | 9 | 0,9 | 1 | 0 |
+| E. Selvik | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| B. Locko | D | 11 | 988 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 8 | 16 | 1,5 | 3 | 0 |
+| L. Ajorque | F | 11 | 982 | 5 | 1 | 28 | 2,5 | 12 | 1,1 | 26 | 15 | 1,4 | 4 | 0 |
+| J. Chotard | M | 11 | 953 | 0 | 2 | 8 | 0,7 | 2 | 0,2 | 11 | 8 | 0,7 | 0 | 0 |
+| G. Lloris | D | 10 | 881 | 0 | 1 | 5 | 0,5 | 2 | 0,2 | 7 | 7 | 0,7 | 0 | 0 |
+| K. Lala | D | 11 | 859 | 1 | 0 | 7 | 0,6 | 3 | 0,3 | 6 | 9 | 0,8 | 1 | 0 |
+| P. Mboup | M | 11 | 807 | 2 | 1 | 27 | 2,5 | 13 | 1,2 | 30 | 15 | 1,4 | 1 | 0 |
+| H. Magnetti | M | 10 | 807 | 0 | 2 | 9 | 0,9 | 2 | 0,2 | 13 | 9 | 0,9 | 0 | 0 |
 | K. Doumbia | M | 10 | 797 | 4 | 2 | 14 | 1,4 | 7 | 0,7 | 11 | 19 | 1,9 | 4 | 0 |
-| G. Lloris | D | 9 | 791 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 6 | 5 | 0,6 | 0 | 0 |
-| P. Mboup | F | 10 | 735 | 2 | 1 | 23 | 2,3 | 13 | 1,3 | 26 | 12 | 1,2 | 1 | 0 |
-| H. Magnetti | M | 9 | 717 | 0 | 2 | 9 | 1,0 | 2 | 0,2 | 11 | 8 | 0,9 | 0 | 0 |
-| L. Tousart | D | 10 | 592 | 1 | 0 | 6 | 0,6 | 5 | 0,5 | 4 | 5 | 0,5 | 0 | 0 |
+| L. Tousart | D | 11 | 682 | 1 | 0 | 6 | 0,5 | 5 | 0,5 | 5 | 6 | 0,5 | 1 | 0 |
+| Mama Baldé | F | 10 | 467 | 2 | 1 | 8 | 0,8 | 3 | 0,3 | 11 | 6 | 0,6 | 1 | 0 |
 | Raphaël Le Guen | D | 5 | 450 | 0 | 0 | 9 | 1,8 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
-| Mama Baldé | M | 9 | 449 | 2 | 1 | 7 | 0,8 | 3 | 0,3 | 10 | 6 | 0,7 | 1 | 0 |
-| J. Nonge Boende | M | 8 | 219 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 11 | 1,4 | 0 | 0 |
-| G. Versini | F | 5 | 186 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 4 | 4 | 0,8 | 0 | 0 |
-| M. Diambou | M | 7 | 156 | 0 | 1 | 5 | 0,7 | 2 | 0,3 | 5 | 2 | 0,3 | 0 | 0 |
+| J. Nonge Boende | M | 9 | 291 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 8 | 11 | 1,2 | 0 | 0 |
+| N. Edjouma | M | 6 | 207 | 3 | 0 | 10 | 1,7 | 6 | 1,0 | 2 | 4 | 0,7 | 0 | 0 |
+| G. Versini | F | 6 | 204 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 5 | 4 | 0,7 | 0 | 0 |
+| M. Diambou | M | 8 | 174 | 0 | 1 | 6 | 0,8 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
 | Romain Del Castillo | M | 2 | 138 | 1 | 0 | 1 | 0,5 | 1 | 0,5 | 3 | 1 | 0,5 | 0 | 0 |
-| N. Edjouma | M | 5 | 135 | 2 | 0 | 8 | 1,6 | 4 | 0,8 | 2 | 2 | 0,4 | 0 | 0 |
-| Luc Zogbé | D | 1 | 68 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 1,0 | 0 | 0 |
+| L. Zogbe | D | 2 | 131 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 4 | 1 | 0,5 | 0 | 0 |
 | Ibrahim Yayiya Kante | F | 3 | 36 | 0 | 0 | 3 | 1,0 | 1 | 0,3 | 2 | 2 | 0,7 | 0 | 0 |
 | Djylian N'Guessan | F | 3 | 36 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 2 | 1 | 0,3 | 0 | 0 |
 

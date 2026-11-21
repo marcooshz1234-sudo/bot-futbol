@@ -1,10 +1,10 @@
 # Elche – Atletico Madrid
 **LaLiga** · Regular Season - 14 · 28/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:15_
 
 - **1X2:** 1 **5.25**  ·  X **4.00**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.17**
@@ -19,6 +19,16 @@ _Actualizadas: 20/11 20:09_
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
 - **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**

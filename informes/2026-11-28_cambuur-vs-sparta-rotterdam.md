@@ -1,7 +1,7 @@
 # Cambuur – Sparta Rotterdam
 **Eredivisie** · Regular Season - 14 · 28/11/2026 21:00 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:20_
@@ -42,40 +42,40 @@ _Actualizadas: 21/11 02:20_
 ## Estadísticas de equipo
 | | Cambuur (total) | Cambuur en casa | Sparta Rotterdam (total) | Sparta Rotterdam fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 13 | 6 |
-| Forma (últimos 5) | DVVVE | DVEVD | DVEDV | DVEDD |
-| Balance | 5V 3E 5D | 2V 1E 4D | 3V 4E 6D | 2V 1E 3D |
-| Goles a favor / partido | 2,08 | 2,00 | 1,77 | 2,00 |
-| Goles en contra / partido | 2,08 | 2,86 | 2,38 | 2,50 |
+| Partidos analizados | 14 | 7 | 13 | 6 |
+| Forma (últimos 5) | VDVVV | DVEVD | DVEDV | DVEDD |
+| Balance | 6V 3E 5D | 2V 1E 4D | 3V 4E 6D | 2V 1E 3D |
+| Goles a favor / partido | 2,14 | 2,00 | 1,77 | 2,00 |
+| Goles en contra / partido | 2,07 | 2,86 | 2,38 | 2,50 |
 | Goles a favor 1ª parte | 1,00 | 1,00 | 0,77 | 0,83 |
-| Goles a favor 2ª parte | 1,08 | 1,00 | 1,00 | 1,17 |
-| Goles en contra 1ª parte | 1,15 | 1,86 | 1,08 | 1,00 |
-| Goles en contra 2ª parte | 0,92 | 1,00 | 1,31 | 1,50 |
-| Más de 1,5 goles | 92% | 100% | 92% | 100% |
-| Más de 2,5 goles | 77% | 100% | 92% | 100% |
-| Más de 3,5 goles | 69% | 86% | 77% | 83% |
-| Ambos marcan | 62% | 57% | 85% | 100% |
-| Portería a cero | 31% | 29% | 0% | 0% |
-| Se queda sin marcar | 8% | 14% | 15% | 0% |
+| Goles a favor 2ª parte | 1,14 | 1,00 | 1,00 | 1,17 |
+| Goles en contra 1ª parte | 1,07 | 1,86 | 1,08 | 1,00 |
+| Goles en contra 2ª parte | 1,00 | 1,00 | 1,31 | 1,50 |
+| Más de 1,5 goles | 93% | 100% | 92% | 100% |
+| Más de 2,5 goles | 79% | 100% | 92% | 100% |
+| Más de 3,5 goles | 71% | 86% | 77% | 83% |
+| Ambos marcan | 64% | 57% | 85% | 100% |
+| Portería a cero | 29% | 29% | 0% | 0% |
+| Se queda sin marcar | 7% | 14% | 15% | 0% |
 | xG a favor | 1,43 | 1,35 | 1,91 | 2,11 |
-| xG en contra | 1,78 | 1,93 | 1,92 | 1,93 |
-| Tiros / partido | 12,5 | 11,9 | 14,3 | 13,0 |
-| Tiros a puerta / partido | 5,0 | 4,6 | 5,1 | 5,8 |
-| Tiros recibidos | 13,9 | 13,7 | 16,8 | 16,7 |
-| Tiros a puerta recibidos | 5,1 | 5,4 | 5,9 | 6,5 |
+| xG en contra | 1,80 | 1,93 | 1,92 | 1,93 |
+| Tiros / partido | 12,8 | 11,9 | 14,3 | 13,0 |
+| Tiros a puerta / partido | 5,2 | 4,6 | 5,1 | 5,8 |
+| Tiros recibidos | 14,2 | 13,7 | 16,8 | 16,7 |
+| Tiros a puerta recibidos | 5,5 | 5,4 | 5,9 | 6,5 |
 | Posesión media % | 46 | 41 | 46 | 41 |
 | Córners a favor | 3,8 | 3,6 | 5,9 | 6,0 |
-| Córners en contra | 5,7 | 4,9 | 6,2 | 6,3 |
+| Córners en contra | 5,5 | 4,9 | 6,2 | 6,3 |
 | Córners a favor 1ª parte | 1,6 | 1,3 | 2,5 | 2,8 |
 | Córners a favor 2ª parte | 2,2 | 2,3 | 3,2 | 3,2 |
-| Córners totales del partido | 9,5 | 8,4 | 12,2 | 12,3 |
+| Córners totales del partido | 9,2 | 8,4 | 12,2 | 12,3 |
 | Córners totales 1ª parte | 3,8 | 3,0 | 6,5 | 6,3 |
-| Córners totales 2ª parte | 5,7 | 5,4 | 5,3 | 6,0 |
-| Más de 8,5 córners | 75% | 71% | 85% | 100% |
-| Más de 9,5 córners | 42% | 29% | 69% | 83% |
-| Más de 10,5 córners | 33% | 29% | 62% | 67% |
-| Faltas cometidas | 11,8 | 10,6 | 10,8 | 9,7 |
-| Faltas recibidas | 14,2 | 14,1 | 11,0 | 9,5 |
+| Córners totales 2ª parte | 5,4 | 5,4 | 5,3 | 6,0 |
+| Más de 8,5 córners | 69% | 71% | 85% | 100% |
+| Más de 9,5 córners | 38% | 29% | 69% | 83% |
+| Más de 10,5 córners | 31% | 29% | 62% | 67% |
+| Faltas cometidas | 12,0 | 10,6 | 10,8 | 9,7 |
+| Faltas recibidas | 14,7 | 14,1 | 11,0 | 9,5 |
 | Amarillas propias | 1,8 | 1,4 | 1,5 | 1,5 |
 | Amarillas del rival | 1,8 | 1,6 | 1,4 | 1,0 |
 | Rojas / partido | 0,08 | 0,14 | 0,00 | 0,00 |
@@ -84,11 +84,11 @@ _Actualizadas: 21/11 02:20_
 | Tramo | Goles Cambuur | Recibe Cambuur | Tarjetas Cambuur | Goles Sparta Rotterdam | Recibe Sparta Rotterdam | Tarjetas Sparta Rotterdam |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 4 | 0 | 4 | 1 | 1 |
-| 16-30' | 3 | 7 | 3 | 3 | 9 | 3 |
+| 16-30' | 4 | 7 | 3 | 3 | 9 | 3 |
 | 31-45' | 4 | 4 | 4 | 3 | 4 | 2 |
-| 46-60' | 4 | 1 | 4 | 5 | 5 | 4 |
-| 61-75' | 2 | 3 | 6 | 3 | 6 | 4 |
-| 76-90' | 8 | 8 | 10 | 5 | 6 | 7 |
+| 46-60' | 5 | 2 | 5 | 5 | 5 | 4 |
+| 61-75' | 2 | 3 | 7 | 3 | 6 | 4 |
+| 76-90' | 9 | 9 | 11 | 5 | 6 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -106,35 +106,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Cambuur
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Eredivisie | Utrecht 2-3 Cambuur | fuera | 3-3 | 16 (8) - 17 (10) | 3-2 |
 | 2026-11-08 | Eredivisie | Cambuur 2-5 PSV Eindhoven | casa | 1-1 | 10 (3) - 16 (7) | 3-2 |
 | 2026-10-31 | Eredivisie | Cambuur 4-0 GO Ahead Eagles | casa | 7-2 | 15 (7) - 10 (1) | 2-1 |
 | 2026-10-27 | KNVB Beker | Kloetinge 0-2 Cambuur | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Eredivisie | Willem II 1-6 Cambuur | fuera | 4-13 | 19 (11) - 11 (2) | 0-2 |
 | 2026-10-18 | Eredivisie | Cambuur 2-2 AZ Alkmaar | casa | 3-6 | 11 (6) - 7 (4) | 2-2 |
-| 2026-10-11 | Eredivisie | PEC Zwolle 0-1 Cambuur | fuera | 5-5 | 13 (4) - 14 (6) | 3-3 |
 
 ## Jugadores de Cambuur
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| T. Jansen | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 0,5 | 1 | 0 |
-| N. Souren | M | 12 | 1068 | 1 | 1 | 6 | 0,5 | 4 | 0,3 | 11 | 10 | 0,8 | 3 | 0 |
-| R. El Arguioui | M | 12 | 1064 | 6 | 3 | 32 | 2,7 | 15 | 1,2 | 12 | 9 | 0,8 | 2 | 0 |
-| I. Baouf | D | 12 | 1032 | 2 | 0 | 9 | 0,8 | 7 | 0,6 | 13 | 9 | 0,8 | 1 | 0 |
-| I. Hamache | F | 12 | 922 | 5 | 3 | 17 | 1,4 | 10 | 0,8 | 3 | 9 | 0,8 | 0 | 0 |
-| M. Costarelli | D | 12 | 840 | 0 | 2 | 6 | 0,5 | 1 | 0,1 | 9 | 13 | 1,1 | 2 | 0 |
-| B. van Duijl | D | 9 | 785 | 1 | 2 | 3 | 0,3 | 1 | 0,1 | 6 | 8 | 0,9 | 0 | 0 |
-| D. Bouah | D | 9 | 577 | 0 | 1 | 6 | 0,7 | 0 | 0,0 | 11 | 15 | 1,7 | 2 | 1 |
-| N. Binder | F | 10 | 563 | 5 | 2 | 11 | 1,1 | 6 | 0,6 | 11 | 10 | 1,0 | 1 | 0 |
-| M. Maertens | M | 8 | 501 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 20 | 26 | 3,2 | 2 | 0 |
+| T. Jansen | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 0,5 | 1 | 0 |
+| N. Souren | M | 13 | 1158 | 1 | 1 | 6 | 0,5 | 4 | 0,3 | 11 | 12 | 0,9 | 3 | 0 |
+| R. El Arguioui | M | 13 | 1130 | 6 | 4 | 33 | 2,5 | 15 | 1,2 | 12 | 10 | 0,8 | 2 | 0 |
+| I. Baouf | D | 13 | 1122 | 2 | 0 | 12 | 0,9 | 7 | 0,5 | 14 | 14 | 1,1 | 1 | 0 |
+| I. Hamache | F | 13 | 1012 | 6 | 3 | 20 | 1,5 | 12 | 0,9 | 3 | 9 | 0,7 | 0 | 0 |
+| M. Costarelli | D | 13 | 930 | 1 | 2 | 8 | 0,6 | 3 | 0,2 | 13 | 14 | 1,1 | 2 | 0 |
+| B. van Duijl | D | 10 | 875 | 1 | 2 | 3 | 0,3 | 1 | 0,1 | 8 | 9 | 0,9 | 1 | 0 |
+| D. Bouah | D | 10 | 658 | 0 | 1 | 8 | 0,8 | 0 | 0,0 | 12 | 18 | 1,8 | 2 | 1 |
+| N. Binder | F | 11 | 644 | 6 | 2 | 12 | 1,1 | 7 | 0,6 | 11 | 12 | 1,1 | 1 | 0 |
+| M. Maertens | M | 9 | 558 | 0 | 0 | 9 | 1,0 | 3 | 0,3 | 24 | 28 | 3,1 | 3 | 0 |
+| S. Bouhoudane | F | 12 | 484 | 0 | 3 | 9 | 0,8 | 2 | 0,2 | 4 | 2 | 0,2 | 1 | 0 |
 | J. Amofa | D | 8 | 465 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 9 | 8 | 1,0 | 0 | 0 |
-| S. Bouhoudane | F | 11 | 460 | 0 | 2 | 9 | 0,8 | 2 | 0,2 | 4 | 2 | 0,2 | 1 | 0 |
-| Iwan Henstra | F | 10 | 430 | 2 | 0 | 9 | 0,9 | 4 | 0,4 | 4 | 5 | 0,5 | 1 | 0 |
-| J. Çeka | F | 6 | 381 | 2 | 1 | 10 | 1,7 | 5 | 0,8 | 8 | 7 | 1,2 | 1 | 0 |
+| J. Çeka | F | 7 | 462 | 2 | 2 | 11 | 1,6 | 6 | 0,9 | 8 | 10 | 1,4 | 1 | 0 |
+| Iwan Henstra | F | 11 | 439 | 2 | 0 | 9 | 0,8 | 4 | 0,4 | 4 | 5 | 0,5 | 1 | 0 |
 | L. Jetten | D | 6 | 351 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 6 | 1,0 | 1 | 0 |
 | F. Kvam | F | 8 | 346 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 4 | 7 | 0,9 | 0 | 0 |
 | S. Vink | F | 9 | 261 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
+| R. Mulders | D | 7 | 197 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 6 | 0,9 | 1 | 0 |
 | W. Kooistra | F | 6 | 197 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 5 | 2 | 0,3 | 1 | 0 |
-| R. Mulders | D | 6 | 188 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 6 | 1,0 | 1 | 0 |
 | Ethan Apkakou | M | 6 | 164 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Sparta Rotterdam

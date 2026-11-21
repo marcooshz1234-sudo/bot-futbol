@@ -1,7 +1,7 @@
 # Sunderland – Jagiellonia
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Stadium of Light
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:05_
@@ -50,53 +50,53 @@ _Actualizadas: 21/11 14:05_
 ## Estadísticas de equipo
 | | Sunderland (total) | Sunderland en casa | Jagiellonia (total) | Jagiellonia fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 9 | 8 | 4 |
-| Forma (últimos 5) | VDDVE | VDVED | DDVDV | DDVE |
-| Balance | 6V 3E 7D | 5V 1E 3D | 4V 1E 3D | 1V 1E 2D |
-| Goles a favor / partido | 1,00 | 0,78 | 1,62 | 1,00 |
-| Goles en contra / partido | 1,44 | 0,89 | 1,25 | 1,25 |
-| Goles a favor 1ª parte | 0,50 | 0,44 | 1,00 | 0,50 |
-| Goles a favor 2ª parte | 0,50 | 0,33 | 0,62 | 0,50 |
-| Goles en contra 1ª parte | 0,69 | 0,33 | 0,75 | 0,75 |
-| Goles en contra 2ª parte | 0,75 | 0,56 | 0,50 | 0,50 |
-| Más de 1,5 goles | 69% | 44% | 88% | 75% |
-| Más de 2,5 goles | 31% | 11% | 75% | 50% |
-| Más de 3,5 goles | 19% | 11% | 25% | 0% |
-| Ambos marcan | 44% | 11% | 62% | 75% |
-| Portería a cero | 31% | 56% | 12% | 0% |
-| Se queda sin marcar | 31% | 44% | 25% | 25% |
-| xG a favor | 1,84 | 1,90 | 0,99 | 0,79 |
-| xG en contra | 1,65 | 1,40 | 1,34 | 1,65 |
-| Tiros / partido | 14,1 | 13,0 | 10,0 | 10,3 |
-| Tiros a puerta / partido | 4,4 | 3,9 | 4,4 | 3,3 |
-| Tiros recibidos | 12,3 | 11,0 | 18,0 | 20,0 |
-| Tiros a puerta recibidos | 3,7 | 3,4 | 5,4 | 5,3 |
-| Posesión media % | 49 | 46 | 43 | 43 |
-| Córners a favor | 4,9 | 4,9 | 2,9 | 3,0 |
-| Córners en contra | 4,4 | 4,8 | 6,1 | 8,3 |
-| Córners a favor 1ª parte | 2,2 | 2,0 | 0,7 | 0,3 |
-| Córners a favor 2ª parte | 2,7 | 2,9 | 1,4 | 2,7 |
+| Partidos analizados | 17 | 9 | 8 | 4 |
+| Forma (últimos 5) | EVDDV | VDVED | DDVDV | DDVE |
+| Balance | 6V 4E 7D | 5V 1E 3D | 4V 1E 3D | 1V 1E 2D |
+| Goles a favor / partido | 0,94 | 0,78 | 1,62 | 1,00 |
+| Goles en contra / partido | 1,35 | 0,89 | 1,25 | 1,25 |
+| Goles a favor 1ª parte | 0,47 | 0,44 | 1,00 | 0,50 |
+| Goles a favor 2ª parte | 0,47 | 0,33 | 0,62 | 0,50 |
+| Goles en contra 1ª parte | 0,65 | 0,33 | 0,75 | 0,75 |
+| Goles en contra 2ª parte | 0,71 | 0,56 | 0,50 | 0,50 |
+| Más de 1,5 goles | 65% | 44% | 88% | 75% |
+| Más de 2,5 goles | 29% | 11% | 75% | 50% |
+| Más de 3,5 goles | 18% | 11% | 25% | 0% |
+| Ambos marcan | 41% | 11% | 62% | 75% |
+| Portería a cero | 35% | 56% | 12% | 0% |
+| Se queda sin marcar | 35% | 44% | 25% | 25% |
+| xG a favor | 1,75 | 1,90 | 0,99 | 0,79 |
+| xG en contra | 1,62 | 1,40 | 1,34 | 1,65 |
+| Tiros / partido | 13,7 | 13,0 | 10,0 | 10,3 |
+| Tiros a puerta / partido | 4,2 | 3,9 | 4,4 | 3,3 |
+| Tiros recibidos | 12,7 | 11,0 | 18,0 | 20,0 |
+| Tiros a puerta recibidos | 3,9 | 3,4 | 5,4 | 5,3 |
+| Posesión media % | 48 | 46 | 43 | 43 |
+| Córners a favor | 4,8 | 4,9 | 2,9 | 3,0 |
+| Córners en contra | 4,5 | 4,8 | 6,1 | 8,3 |
+| Córners a favor 1ª parte | 2,1 | 2,0 | 0,7 | 0,3 |
+| Córners a favor 2ª parte | 2,6 | 2,9 | 1,4 | 2,7 |
 | Córners totales del partido | 9,3 | 9,7 | 9,0 | 11,3 |
 | Córners totales 1ª parte | 4,4 | 4,2 | 3,4 | 5,3 |
 | Córners totales 2ª parte | 4,9 | 5,4 | 3,3 | 6,0 |
-| Más de 8,5 córners | 44% | 44% | 57% | 100% |
-| Más de 9,5 córners | 31% | 33% | 43% | 67% |
-| Más de 10,5 córners | 31% | 33% | 29% | 67% |
-| Faltas cometidas | 11,7 | 11,3 | 15,6 | 14,7 |
+| Más de 8,5 córners | 47% | 44% | 57% | 100% |
+| Más de 9,5 córners | 29% | 33% | 43% | 67% |
+| Más de 10,5 córners | 29% | 33% | 29% | 67% |
+| Faltas cometidas | 12,2 | 11,3 | 15,6 | 14,7 |
 | Faltas recibidas | 13,9 | 13,9 | 13,1 | 9,0 |
 | Amarillas propias | 2,0 | 2,2 | 2,0 | 2,0 |
 | Amarillas del rival | 1,9 | 2,3 | 3,1 | 3,0 |
-| Rojas / partido | 0,19 | 0,11 | 0,00 | 0,00 |
+| Rojas / partido | 0,18 | 0,11 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sunderland | Recibe Sunderland | Tarjetas Sunderland | Goles Jagiellonia | Recibe Jagiellonia | Tarjetas Jagiellonia |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 2 | 2 | 2 | 2 | 1 |
 | 16-30' | 2 | 4 | 6 | 2 | 2 | 2 |
-| 31-45' | 4 | 5 | 6 | 4 | 2 | 1 |
+| 31-45' | 4 | 5 | 7 | 4 | 2 | 1 |
 | 46-60' | 1 | 6 | 4 | 1 | 0 | 4 |
 | 61-75' | 5 | 1 | 6 | 3 | 1 | 3 |
-| 76-90' | 2 | 5 | 13 | 1 | 3 | 6 |
+| 76-90' | 2 | 5 | 14 | 1 | 3 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -109,36 +109,36 @@ _Sin precedentes recientes._
 ## Últimos partidos de Sunderland
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Premier League | Aston Villa 0-0 Sunderland | fuera | 2-7 | 7 (1) - 19 (7) | 2-2 |
 | 2026-11-08 | Premier League | Sunderland 1-0 Chelsea | casa | 2-2 | 9 (2) - 10 (4) | 5-4 |
 | 2026-11-05 | Europa League | Sunderland 0-2 Dinamo Zagreb | casa | 5-3 | 17 (7) - 9 (4) | 3-2 |
 | 2026-10-31 | Premier League | Coventry 3-1 Sunderland | fuera | 4-4 | 17 (2) - 12 (4) | 0-2 |
 | 2026-10-28 | Carabao Cup | Sunderland 3-2 Brentford | casa | 0-5 | 7 (4) - 16 (7) | 1-3 |
 | 2026-10-25 | Premier League | Sunderland 0-0 Leeds | casa | 4-5 | 15 (4) - 11 (4) | 1-2 |
-| 2026-10-22 | Europa League | Lech Poznan 1-1 Sunderland | fuera | 6-3 | 25 (11) - 16 (6) | 1-0 |
 
 ## Jugadores de Sunderland
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Roefs | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,4 | 0 | 0 |
-| N. Sadiki | M | 14 | 1099 | 1 | 0 | 9 | 0,6 | 4 | 0,3 | 11 | 18 | 1,3 | 1 | 0 |
+| R. Roefs | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,4 | 0 | 0 |
+| N. Sadiki | M | 15 | 1189 | 1 | 0 | 9 | 0,6 | 4 | 0,3 | 12 | 20 | 1,3 | 1 | 0 |
+| E. Le Fée | M | 15 | 1151 | 4 | 1 | 27 | 1,8 | 10 | 0,7 | 9 | 29 | 1,9 | 1 | 0 |
 | G. Xhaka | M | 14 | 1089 | 0 | 1 | 10 | 0,7 | 4 | 0,3 | 9 | 20 | 1,4 | 3 | 0 |
-| E. Le Fée | M | 14 | 1061 | 4 | 1 | 25 | 1,8 | 9 | 0,6 | 8 | 25 | 1,8 | 1 | 0 |
-| Reinildo | D | 13 | 964 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 10 | 14 | 1,1 | 3 | 1 |
-| T. Hume | M | 14 | 930 | 0 | 0 | 12 | 0,9 | 1 | 0,1 | 16 | 11 | 0,8 | 3 | 0 |
-| N. Mukiele | D | 11 | 866 | 0 | 1 | 12 | 1,1 | 3 | 0,3 | 12 | 6 | 0,5 | 3 | 0 |
-| N. Angulo | F | 13 | 763 | 1 | 2 | 12 | 0,9 | 7 | 0,5 | 13 | 16 | 1,2 | 2 | 0 |
+| Reinildo | D | 14 | 1054 | 0 | 0 | 2 | 0,1 | 0 | 0,0 | 12 | 14 | 1,0 | 3 | 1 |
+| T. Hume | M | 15 | 1020 | 0 | 0 | 13 | 0,9 | 1 | 0,1 | 21 | 12 | 0,8 | 4 | 0 |
+| N. Mukiele | D | 12 | 956 | 0 | 1 | 12 | 1,0 | 3 | 0,2 | 12 | 6 | 0,5 | 3 | 0 |
+| N. Angulo | F | 14 | 776 | 1 | 2 | 12 | 0,9 | 7 | 0,5 | 15 | 16 | 1,1 | 3 | 0 |
+| L. O&apos;Nien | D | 10 | 758 | 0 | 0 | 7 | 0,7 | 0 | 0,0 | 6 | 6 | 0,6 | 3 | 0 |
+| T. Meunier | D | 13 | 751 | 0 | 2 | 5 | 0,4 | 4 | 0,3 | 10 | 2 | 0,2 | 1 | 0 |
 | K. Danso | D | 9 | 731 | 0 | 0 | 7 | 0,8 | 2 | 0,2 | 9 | 5 | 0,6 | 2 | 1 |
 | B. Brobbey | F | 10 | 672 | 3 | 0 | 16 | 1,6 | 8 | 0,8 | 13 | 14 | 1,4 | 2 | 0 |
-| L. O&apos;Nien | D | 9 | 668 | 0 | 0 | 7 | 0,8 | 0 | 0,0 | 6 | 5 | 0,6 | 3 | 0 |
-| T. Meunier | D | 12 | 661 | 0 | 2 | 5 | 0,4 | 4 | 0,3 | 8 | 2 | 0,2 | 1 | 0 |
+| Jules Ahoka | M | 8 | 606 | 1 | 0 | 11 | 1,4 | 3 | 0,4 | 8 | 11 | 1,4 | 1 | 0 |
 | M. Fofana | M | 11 | 605 | 1 | 0 | 15 | 1,4 | 8 | 0,7 | 8 | 9 | 0,8 | 0 | 0 |
 | O. Alderete | D | 9 | 601 | 0 | 0 | 9 | 1,0 | 1 | 0,1 | 12 | 2 | 0,2 | 2 | 1 |
+| W. Isidor | F | 12 | 550 | 1 | 0 | 17 | 1,4 | 5 | 0,4 | 16 | 10 | 0,8 | 0 | 0 |
 | C. Rigg | M | 12 | 539 | 0 | 0 | 10 | 0,8 | 1 | 0,1 | 8 | 10 | 0,8 | 2 | 0 |
-| Jules Ahoka | M | 7 | 516 | 1 | 0 | 10 | 1,4 | 3 | 0,4 | 6 | 7 | 1,0 | 1 | 0 |
 | Daniel Ballard | D | 6 | 488 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 10 | 8 | 1,3 | 2 | 0 |
-| W. Isidor | F | 11 | 473 | 1 | 0 | 16 | 1,5 | 5 | 0,5 | 11 | 9 | 0,8 | 0 | 0 |
 | D. Methalie | D | 7 | 456 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 6 | 1 | 0,1 | 1 | 0 |
-| Timur Tuterov | F | 6 | 330 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 5 | 4 | 0,7 | 0 | 0 |
+| C. Talbi | M | 7 | 419 | 2 | 0 | 10 | 1,4 | 3 | 0,4 | 2 | 2 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Jagiellonia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

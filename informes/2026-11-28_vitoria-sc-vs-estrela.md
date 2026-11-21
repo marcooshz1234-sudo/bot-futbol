@@ -1,7 +1,7 @@
 # Vitória SC – Estrela
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Vitória SC (total) | Vitória SC en casa | Estrela (total) | Estrela fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
-| Forma (últimos 5) | DEVVD | DVEEV | DDDVD | DVDEV |
-| Balance | 3V 3E 6D | 2V 2E 2D | 3V 4E 5D | 2V 2E 2D |
-| Goles a favor / partido | 1,00 | 1,33 | 1,58 | 1,83 |
-| Goles en contra / partido | 1,00 | 0,67 | 1,92 | 1,83 |
-| Goles a favor 1ª parte | 0,17 | 0,33 | 0,25 | 0,33 |
-| Goles a favor 2ª parte | 0,83 | 1,00 | 1,33 | 1,50 |
-| Goles en contra 1ª parte | 0,42 | 0,17 | 0,75 | 0,50 |
-| Goles en contra 2ª parte | 0,58 | 0,50 | 1,17 | 1,33 |
-| Más de 1,5 goles | 50% | 50% | 92% | 83% |
-| Más de 2,5 goles | 33% | 33% | 75% | 83% |
-| Más de 3,5 goles | 17% | 17% | 50% | 50% |
-| Ambos marcan | 33% | 33% | 75% | 83% |
-| Portería a cero | 42% | 50% | 0% | 0% |
-| Se queda sin marcar | 42% | 33% | 25% | 17% |
+| Partidos analizados | 13 | 7 | 12 | 6 |
+| Forma (últimos 5) | DDEVV | DDVEE | DDDVD | DVDEV |
+| Balance | 3V 3E 7D | 2V 2E 3D | 3V 4E 5D | 2V 2E 2D |
+| Goles a favor / partido | 0,92 | 1,14 | 1,58 | 1,83 |
+| Goles en contra / partido | 1,08 | 0,86 | 1,92 | 1,83 |
+| Goles a favor 1ª parte | 0,15 | 0,29 | 0,25 | 0,33 |
+| Goles a favor 2ª parte | 0,77 | 0,86 | 1,33 | 1,50 |
+| Goles en contra 1ª parte | 0,46 | 0,29 | 0,75 | 0,50 |
+| Goles en contra 2ª parte | 0,62 | 0,57 | 1,17 | 1,33 |
+| Más de 1,5 goles | 54% | 57% | 92% | 83% |
+| Más de 2,5 goles | 31% | 29% | 75% | 83% |
+| Más de 3,5 goles | 15% | 14% | 50% | 50% |
+| Ambos marcan | 31% | 29% | 75% | 83% |
+| Portería a cero | 38% | 43% | 0% | 0% |
+| Se queda sin marcar | 46% | 43% | 25% | 17% |
 | xG a favor | 1,48 | 1,92 | 1,28 | 1,50 |
 | xG en contra | 1,01 | 0,63 | 1,34 | 1,05 |
 | Tiros / partido | 16,9 | 20,8 | 12,5 | 13,2 |
@@ -31,31 +31,31 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tiros recibidos | 9,5 | 7,8 | 11,3 | 10,6 |
 | Tiros a puerta recibidos | 2,8 | 2,3 | 4,6 | 4,4 |
 | Posesión media % | 53 | 58 | 51 | 55 |
-| Córners a favor | 5,4 | 6,5 | 4,1 | 3,4 |
-| Córners en contra | 3,9 | 3,2 | 4,8 | 3,6 |
-| Córners a favor 1ª parte | 2,1 | 2,5 | 2,1 | 1,4 |
-| Córners a favor 2ª parte | 3,3 | 4,0 | 2,0 | 2,0 |
-| Córners totales del partido | 9,3 | 9,7 | 8,9 | 7,0 |
-| Córners totales 1ª parte | 4,5 | 4,2 | 4,3 | 3,6 |
-| Córners totales 2ª parte | 4,7 | 5,5 | 4,6 | 3,4 |
-| Más de 8,5 córners | 45% | 50% | 64% | 40% |
-| Más de 9,5 córners | 36% | 33% | 45% | 20% |
-| Más de 10,5 córners | 36% | 33% | 36% | 20% |
+| Córners a favor | 4,9 | 5,6 | 4,1 | 3,4 |
+| Córners en contra | 3,6 | 2,7 | 4,8 | 3,6 |
+| Córners a favor 1ª parte | 1,9 | 2,1 | 2,1 | 1,4 |
+| Córners a favor 2ª parte | 3,0 | 3,4 | 2,0 | 2,0 |
+| Córners totales del partido | 8,5 | 8,3 | 8,9 | 7,0 |
+| Córners totales 1ª parte | 4,2 | 3,6 | 4,3 | 3,6 |
+| Córners totales 2ª parte | 4,3 | 4,7 | 4,6 | 3,4 |
+| Más de 8,5 córners | 42% | 43% | 64% | 40% |
+| Más de 9,5 córners | 33% | 29% | 45% | 20% |
+| Más de 10,5 córners | 33% | 29% | 36% | 20% |
 | Faltas cometidas | 15,9 | 13,5 | 11,7 | 11,0 |
 | Faltas recibidas | 10,8 | 9,3 | 11,9 | 11,6 |
-| Amarillas propias | 2,5 | 2,0 | 2,1 | 2,2 |
-| Amarillas del rival | 2,5 | 2,2 | 1,9 | 2,2 |
-| Rojas / partido | 0,09 | 0,00 | 0,00 | 0,00 |
+| Amarillas propias | 2,4 | 1,9 | 2,1 | 2,2 |
+| Amarillas del rival | 2,5 | 2,3 | 1,9 | 2,2 |
+| Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Vitória SC | Recibe Vitória SC | Tarjetas Vitória SC | Goles Estrela | Recibe Estrela | Tarjetas Estrela |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 2 | 0 | 5 | 1 |
-| 16-30' | 0 | 2 | 7 | 1 | 2 | 6 |
+| 16-30' | 0 | 3 | 7 | 1 | 2 | 6 |
 | 31-45' | 1 | 2 | 6 | 2 | 2 | 3 |
-| 46-60' | 2 | 4 | 4 | 6 | 5 | 6 |
-| 61-75' | 3 | 1 | 7 | 6 | 3 | 1 |
-| 76-90' | 5 | 3 | 8 | 4 | 6 | 8 |
+| 46-60' | 2 | 5 | 4 | 6 | 5 | 6 |
+| 61-75' | 3 | 1 | 8 | 6 | 3 | 1 |
+| 76-90' | 5 | 3 | 9 | 4 | 6 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Vitória SC
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Taça de Portugal | Vitória SC 0-2 SC Braga | casa | –-– | – (–) - – (–) | 1-3 |
 | 2026-11-08 | Primeira Liga | Vitória SC 1-2 FC Porto | casa | 4-5 | 16 (6) - 12 (4) | 2-4 |
 | 2026-11-02 | Primeira Liga | GIL Vicente 0-0 Vitória SC | fuera | 3-2 | 11 (2) - 10 (1) | 1-2 |
 | 2026-10-23 | Primeira Liga | Vitória SC 5-0 Maritimo | casa | 6-5 | 17 (8) - 10 (2) | 4-3 |
 | 2026-10-17 | Taça de Portugal | Recreativa de Lamelas 0-1 Vitória SC | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Benfica 2-0 Vitória SC | fuera | 6-11 | 8 (0) - 23 (5) | 5-2 |
-| 2026-09-20 | Primeira Liga | Vitória SC 1-1 Moreirense | casa | 3-0 | 16 (5) - 7 (3) | 0-0 |
 
 ## Jugadores de Vitória SC
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

@@ -1,10 +1,10 @@
 # Feyenoord – FC Porto
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 22/11 00:13_
 
 - **1X2:** 1 **2.70**  ·  X **3.70**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.44**
@@ -51,52 +51,52 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | Feyenoord (total) | Feyenoord en casa | FC Porto (total) | FC Porto fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 16 | 7 |
-| Forma (últimos 5) | DDEED | DEVVV | EVVVV | VVDVV |
-| Balance | 8V 4E 4D | 3V 3E 1D | 12V 1E 3D | 6V 0E 1D |
-| Goles a favor / partido | 2,50 | 2,14 | 2,12 | 2,29 |
-| Goles en contra / partido | 1,75 | 1,43 | 0,81 | 0,86 |
-| Goles a favor 1ª parte | 1,25 | 1,00 | 0,88 | 1,00 |
-| Goles a favor 2ª parte | 1,25 | 1,14 | 1,25 | 1,29 |
-| Goles en contra 1ª parte | 0,62 | 0,57 | 0,25 | 0,29 |
-| Goles en contra 2ª parte | 1,12 | 0,86 | 0,56 | 0,57 |
+| Partidos analizados | 17 | 8 | 16 | 7 |
+| Forma (últimos 5) | DDDEE | DDEVV | EVVVV | VVDVV |
+| Balance | 8V 4E 5D | 3V 3E 2D | 12V 1E 3D | 6V 0E 1D |
+| Goles a favor / partido | 2,47 | 2,12 | 2,12 | 2,29 |
+| Goles en contra / partido | 1,82 | 1,62 | 0,81 | 0,86 |
+| Goles a favor 1ª parte | 1,24 | 1,00 | 0,88 | 1,00 |
+| Goles a favor 2ª parte | 1,24 | 1,12 | 1,25 | 1,29 |
+| Goles en contra 1ª parte | 0,71 | 0,75 | 0,25 | 0,29 |
+| Goles en contra 2ª parte | 1,12 | 0,88 | 0,56 | 0,57 |
 | Más de 1,5 goles | 88% | 100% | 88% | 86% |
-| Más de 2,5 goles | 69% | 71% | 56% | 71% |
-| Más de 3,5 goles | 62% | 57% | 31% | 29% |
-| Ambos marcan | 62% | 57% | 50% | 57% |
-| Portería a cero | 25% | 29% | 38% | 43% |
-| Se queda sin marcar | 12% | 14% | 12% | 0% |
-| xG a favor | 2,08 | 2,15 | 1,96 | 1,71 |
-| xG en contra | 1,20 | 0,94 | 1,09 | 0,88 |
-| Tiros / partido | 16,8 | 19,6 | 15,1 | 12,9 |
-| Tiros a puerta / partido | 6,5 | 6,7 | 5,8 | 5,0 |
-| Tiros recibidos | 13,6 | 10,4 | 12,0 | 12,4 |
-| Tiros a puerta recibidos | 4,9 | 3,9 | 3,7 | 3,7 |
-| Posesión media % | 52 | 56 | 52 | 53 |
-| Córners a favor | 5,3 | 6,6 | 5,7 | 5,3 |
-| Córners en contra | 3,9 | 3,4 | 3,6 | 3,7 |
+| Más de 2,5 goles | 71% | 75% | 56% | 71% |
+| Más de 3,5 goles | 65% | 62% | 31% | 29% |
+| Ambos marcan | 65% | 62% | 50% | 57% |
+| Portería a cero | 24% | 25% | 38% | 43% |
+| Se queda sin marcar | 12% | 12% | 12% | 0% |
+| xG a favor | 2,04 | 2,05 | 1,96 | 1,71 |
+| xG en contra | 1,24 | 1,06 | 1,09 | 0,88 |
+| Tiros / partido | 16,8 | 19,1 | 15,1 | 12,9 |
+| Tiros a puerta / partido | 6,3 | 6,2 | 5,8 | 5,0 |
+| Tiros recibidos | 13,4 | 10,2 | 12,0 | 12,4 |
+| Tiros a puerta recibidos | 4,9 | 4,0 | 3,7 | 3,7 |
+| Posesión media % | 53 | 58 | 52 | 53 |
+| Córners a favor | 5,5 | 6,8 | 5,7 | 5,3 |
+| Córners en contra | 3,9 | 3,5 | 3,6 | 3,7 |
 | Córners a favor 1ª parte | 2,9 | 3,1 | 3,1 | 2,9 |
-| Córners a favor 2ª parte | 2,4 | 3,4 | 2,6 | 2,4 |
-| Córners totales del partido | 9,2 | 10,0 | 9,3 | 9,0 |
-| Córners totales 1ª parte | 4,4 | 4,3 | 4,7 | 4,3 |
-| Córners totales 2ª parte | 4,8 | 5,7 | 4,6 | 4,7 |
-| Más de 8,5 córners | 56% | 71% | 53% | 57% |
-| Más de 9,5 córners | 44% | 43% | 47% | 43% |
-| Más de 10,5 córners | 44% | 43% | 33% | 43% |
-| Faltas cometidas | 9,6 | 9,0 | 12,8 | 13,9 |
-| Faltas recibidas | 12,0 | 14,1 | 11,5 | 12,3 |
-| Amarillas propias | 1,2 | 0,9 | 1,3 | 1,6 |
+| Córners a favor 2ª parte | 2,6 | 3,6 | 2,6 | 2,4 |
+| Córners totales del partido | 9,4 | 10,2 | 9,3 | 9,0 |
+| Córners totales 1ª parte | 4,4 | 4,2 | 4,7 | 4,3 |
+| Córners totales 2ª parte | 5,0 | 6,0 | 4,6 | 4,7 |
+| Más de 8,5 córners | 59% | 75% | 53% | 57% |
+| Más de 9,5 córners | 47% | 50% | 47% | 43% |
+| Más de 10,5 córners | 47% | 50% | 33% | 43% |
+| Faltas cometidas | 9,1 | 8,1 | 12,8 | 13,9 |
+| Faltas recibidas | 12,4 | 14,8 | 11,5 | 12,3 |
+| Amarillas propias | 1,2 | 0,8 | 1,3 | 1,6 |
 | Amarillas del rival | 1,6 | 2,0 | 2,1 | 1,6 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Feyenoord | Recibe Feyenoord | Tarjetas Feyenoord | Goles FC Porto | Recibe FC Porto | Tarjetas FC Porto |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 3 | 1 | 5 | 0 | 1 |
+| 1-15' | 5 | 4 | 1 | 5 | 0 | 1 |
 | 16-30' | 7 | 4 | 2 | 1 | 2 | 0 |
-| 31-45' | 9 | 3 | 5 | 8 | 2 | 8 |
-| 46-60' | 8 | 6 | 4 | 5 | 5 | 3 |
-| 61-75' | 8 | 4 | 6 | 8 | 1 | 3 |
+| 31-45' | 9 | 4 | 5 | 8 | 2 | 8 |
+| 46-60' | 8 | 7 | 4 | 5 | 5 | 3 |
+| 61-75' | 9 | 4 | 6 | 8 | 1 | 3 |
 | 76-90' | 4 | 8 | 2 | 7 | 3 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -111,36 +111,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Feyenoord
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Eredivisie | Feyenoord 2-3 Excelsior | casa | 8-4 | 16 (3) - 9 (5) | 0-2 |
 | 2026-11-08 | Eredivisie | Heerenveen 5-3 Feyenoord | fuera | 1-4 | 9 (3) - 18 (9) | 0-1 |
 | 2026-11-03 | Champions League | Feyenoord 0-3 Inter | casa | 5-4 | 11 (2) - 11 (6) | 1-2 |
 | 2026-10-31 | Eredivisie | Feyenoord 1-1 Fortuna Sittard | casa | 6-1 | 15 (6) - 11 (3) | 0-1 |
 | 2026-10-25 | Eredivisie | PSV Eindhoven 1-1 Feyenoord | fuera | 5-6 | 13 (9) - 19 (6) | 3-4 |
 | 2026-10-21 | Champions League | Real Betis 1-0 Feyenoord | fuera | 4-4 | 12 (2) - 23 (10) | 2-1 |
-| 2026-10-17 | Eredivisie | Telstar 3-4 Feyenoord | fuera | 8-7 | 21 (11) - 23 (9) | 4-1 |
 
 ## Jugadores de Feyenoord
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| T. Ernst | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Mika Màrmol | D | 16 | 1411 | 0 | 1 | 8 | 0,5 | 0 | 0,0 | 13 | 14 | 0,9 | 1 | 0 |
-| G. Zechiël | M | 16 | 1390 | 6 | 4 | 26 | 1,6 | 13 | 0,8 | 15 | 16 | 1,0 | 3 | 0 |
-| G. Read | D | 16 | 1353 | 0 | 5 | 16 | 1,0 | 4 | 0,2 | 14 | 25 | 1,6 | 1 | 0 |
+| T. Ernst | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Mika Màrmol | D | 17 | 1501 | 0 | 1 | 9 | 0,5 | 0 | 0,0 | 13 | 15 | 0,9 | 1 | 0 |
+| G. Zechiël | M | 17 | 1480 | 6 | 4 | 28 | 1,6 | 13 | 0,8 | 15 | 16 | 0,9 | 3 | 0 |
+| G. Read | D | 17 | 1443 | 1 | 5 | 18 | 1,1 | 5 | 0,3 | 14 | 29 | 1,7 | 1 | 0 |
+| L. Valente | M | 17 | 1339 | 5 | 3 | 26 | 1,5 | 12 | 0,7 | 10 | 20 | 1,2 | 0 | 0 |
 | A. Hadj-Moussa | F | 15 | 1317 | 8 | 2 | 42 | 2,8 | 22 | 1,5 | 6 | 17 | 1,1 | 2 | 0 |
-| L. Valente | F | 16 | 1249 | 5 | 3 | 25 | 1,6 | 12 | 0,8 | 10 | 19 | 1,2 | 0 | 0 |
-| C. Vanhoutte | M | 16 | 1179 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 18 | 12 | 0,8 | 5 | 0 |
+| C. Vanhoutte | M | 17 | 1224 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 18 | 14 | 0,8 | 5 | 0 |
+| Nacho Ferri | F | 16 | 1043 | 7 | 3 | 31 | 1,9 | 17 | 1,1 | 18 | 30 | 1,9 | 1 | 0 |
 | O. Targhalline | M | 15 | 1029 | 0 | 1 | 8 | 0,5 | 0 | 0,0 | 11 | 15 | 1,0 | 2 | 0 |
-| T. Watanabe | D | 14 | 965 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 9 | 2 | 0,1 | 1 | 0 |
-| Nacho Ferri | F | 15 | 953 | 7 | 3 | 29 | 1,9 | 16 | 1,1 | 18 | 26 | 1,7 | 1 | 0 |
+| T. Watanabe | D | 15 | 1010 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 10 | 3 | 0,2 | 1 | 0 |
 | J. St. Juste | D | 11 | 912 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 8 | 7 | 0,6 | 0 | 0 |
-| Javi López | D | 12 | 759 | 1 | 0 | 11 | 0,9 | 1 | 0,1 | 10 | 8 | 0,7 | 2 | 0 |
+| Javi López | D | 13 | 804 | 1 | 0 | 12 | 0,9 | 1 | 0,1 | 10 | 8 | 0,6 | 2 | 0 |
 | G. Diarra | F | 11 | 483 | 2 | 2 | 25 | 2,3 | 9 | 0,8 | 7 | 6 | 0,5 | 2 | 0 |
+| T. Kraaijeveld | D | 10 | 374 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
+| S. Steijn | M | 10 | 313 | 4 | 1 | 20 | 2,0 | 12 | 1,2 | 0 | 3 | 0,3 | 0 | 0 |
 | A. Ueda | F | 4 | 308 | 3 | 1 | 15 | 3,8 | 6 | 1,5 | 2 | 6 | 1,5 | 0 | 0 |
-| T. Kraaijeveld | M | 9 | 293 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
-| S. Steijn | M | 9 | 268 | 4 | 1 | 18 | 2,0 | 12 | 1,3 | 0 | 1 | 0,1 | 0 | 0 |
-| S. van Persie | F | 8 | 142 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
-| T. van den Elshout | M | 9 | 127 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
-| J. Schaken | F | 4 | 85 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| J. Zinhagel | F | 2 | 44 | 1 | 0 | 3 | 1,5 | 1 | 0,5 | 0 | 0 | 0,0 | 0 | 0 |
+| S. van Persie | F | 9 | 168 | 0 | 0 | 6 | 0,7 | 1 | 0,1 | 2 | 1 | 0,1 | 0 | 0 |
+| J. Schaken | F | 5 | 149 | 1 | 1 | 2 | 0,4 | 2 | 0,4 | 1 | 0 | 0,0 | 0 | 0 |
+| T. van den Elshout | M | 10 | 136 | 0 | 0 | 7 | 0,7 | 2 | 0,2 | 4 | 2 | 0,2 | 0 | 0 |
+| R. Nelson | F | 2 | 76 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 2 | 3 | 1,5 | 0 | 0 |
 
 ## Últimos partidos de FC Porto
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

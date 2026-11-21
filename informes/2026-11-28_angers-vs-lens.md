@@ -1,10 +1,10 @@
 # Angers – Lens
 **Ligue 1** · Regular Season - 12 · 28/11/2026 17:15 (hora España) · Stade Raymond-Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:15_
 
 - **1X2:** 1 **4.33**  ·  X **4.00**  ·  2 **1.70**
 - **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.20**
@@ -19,6 +19,15 @@ _Actualizadas: 20/11 20:09_
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.38** · menos **1.53**
     - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **3.00** · menos **1.36**
+    - 2,5: más **8.00** · menos **1.08**
+- **Goles del visitante:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.62** · menos **2.20**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **1X2 descanso:** 1 **4.50**  ·  X **2.40**  ·  2 **2.25**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
@@ -41,52 +50,52 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | Angers (total) | Angers en casa | Lens (total) | Lens fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 6 | 14 | 7 |
-| Forma (últimos 5) | DDEDD | DEDVD | DDDVD | DDVDE |
-| Balance | 2V 2E 6D | 1V 1E 4D | 5V 1E 8D | 2V 1E 4D |
-| Goles a favor / partido | 0,90 | 0,83 | 1,50 | 1,43 |
-| Goles en contra / partido | 1,90 | 1,83 | 2,21 | 1,86 |
-| Goles a favor 1ª parte | 0,40 | 0,50 | 0,50 | 0,57 |
+| Partidos analizados | 10 | 6 | 15 | 7 |
+| Forma (últimos 5) | DDEDD | DEDVD | EDDDV | DDVDE |
+| Balance | 2V 2E 6D | 1V 1E 4D | 5V 2E 8D | 2V 1E 4D |
+| Goles a favor / partido | 0,90 | 0,83 | 1,47 | 1,43 |
+| Goles en contra / partido | 1,90 | 1,83 | 2,13 | 1,86 |
+| Goles a favor 1ª parte | 0,40 | 0,50 | 0,47 | 0,57 |
 | Goles a favor 2ª parte | 0,50 | 0,33 | 1,00 | 0,86 |
-| Goles en contra 1ª parte | 1,30 | 1,17 | 0,79 | 0,71 |
-| Goles en contra 2ª parte | 0,60 | 0,67 | 1,43 | 1,14 |
-| Más de 1,5 goles | 80% | 83% | 86% | 86% |
-| Más de 2,5 goles | 40% | 33% | 79% | 86% |
-| Más de 3,5 goles | 30% | 17% | 36% | 43% |
-| Ambos marcan | 40% | 33% | 71% | 71% |
+| Goles en contra 1ª parte | 1,30 | 1,17 | 0,80 | 0,71 |
+| Goles en contra 2ª parte | 0,60 | 0,67 | 1,33 | 1,14 |
+| Más de 1,5 goles | 80% | 83% | 87% | 86% |
+| Más de 2,5 goles | 40% | 33% | 73% | 86% |
+| Más de 3,5 goles | 30% | 17% | 33% | 43% |
+| Ambos marcan | 40% | 33% | 73% | 71% |
 | Portería a cero | 30% | 33% | 0% | 0% |
-| Se queda sin marcar | 50% | 50% | 29% | 29% |
-| xG a favor | 1,31 | 1,53 | 1,71 | 1,61 |
-| xG en contra | 1,81 | 1,49 | 1,93 | 1,98 |
-| Tiros / partido | 12,3 | 13,7 | 14,7 | 15,4 |
-| Tiros a puerta / partido | 3,2 | 3,3 | 5,6 | 5,4 |
-| Tiros recibidos | 16,9 | 15,7 | 12,5 | 13,6 |
-| Tiros a puerta recibidos | 6,0 | 5,5 | 5,4 | 5,7 |
-| Posesión media % | 48 | 50 | 50 | 50 |
-| Córners a favor | 6,0 | 6,0 | 5,9 | 6,1 |
+| Se queda sin marcar | 50% | 50% | 27% | 29% |
+| xG a favor | 1,31 | 1,53 | 1,77 | 1,61 |
+| xG en contra | 1,81 | 1,49 | 1,85 | 1,98 |
+| Tiros / partido | 12,3 | 13,7 | 15,2 | 15,4 |
+| Tiros a puerta / partido | 3,2 | 3,3 | 5,7 | 5,4 |
+| Tiros recibidos | 16,9 | 15,7 | 12,3 | 13,6 |
+| Tiros a puerta recibidos | 6,0 | 5,5 | 5,3 | 5,7 |
+| Posesión media % | 48 | 50 | 51 | 50 |
+| Córners a favor | 6,0 | 6,0 | 6,1 | 6,1 |
 | Córners en contra | 5,5 | 6,0 | 4,1 | 4,4 |
-| Córners a favor 1ª parte | 2,6 | 2,0 | 2,8 | 2,7 |
-| Córners a favor 2ª parte | 3,4 | 4,0 | 3,1 | 3,4 |
-| Córners totales del partido | 11,5 | 12,0 | 10,0 | 10,6 |
-| Córners totales 1ª parte | 5,7 | 5,7 | 4,9 | 5,0 |
-| Córners totales 2ª parte | 5,8 | 6,3 | 5,1 | 5,6 |
-| Más de 8,5 córners | 80% | 83% | 79% | 86% |
-| Más de 9,5 córners | 70% | 83% | 64% | 71% |
-| Más de 10,5 córners | 50% | 67% | 36% | 43% |
-| Faltas cometidas | 10,5 | 11,5 | 11,8 | 10,9 |
-| Faltas recibidas | 12,2 | 11,7 | 11,5 | 10,6 |
+| Córners a favor 1ª parte | 2,6 | 2,0 | 2,9 | 2,7 |
+| Córners a favor 2ª parte | 3,4 | 4,0 | 3,2 | 3,4 |
+| Córners totales del partido | 11,5 | 12,0 | 10,3 | 10,6 |
+| Córners totales 1ª parte | 5,7 | 5,7 | 5,1 | 5,0 |
+| Córners totales 2ª parte | 5,8 | 6,3 | 5,2 | 5,6 |
+| Más de 8,5 córners | 80% | 83% | 80% | 86% |
+| Más de 9,5 córners | 70% | 83% | 67% | 71% |
+| Más de 10,5 córners | 50% | 67% | 40% | 43% |
+| Faltas cometidas | 10,5 | 11,5 | 11,7 | 10,9 |
+| Faltas recibidas | 12,2 | 11,7 | 11,7 | 10,6 |
 | Amarillas propias | 1,6 | 1,8 | 1,9 | 1,7 |
-| Amarillas del rival | 1,3 | 1,3 | 1,2 | 1,3 |
-| Rojas / partido | 0,10 | 0,00 | 0,14 | 0,00 |
+| Amarillas del rival | 1,3 | 1,3 | 1,3 | 1,3 |
+| Rojas / partido | 0,10 | 0,00 | 0,13 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Angers | Recibe Angers | Tarjetas Angers | Goles Lens | Recibe Lens | Tarjetas Lens |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 4 | 0 | 2 | 2 | 1 |
 | 16-30' | 0 | 3 | 3 | 1 | 2 | 2 |
-| 31-45' | 2 | 6 | 3 | 4 | 7 | 3 |
-| 46-60' | 2 | 2 | 1 | 5 | 7 | 4 |
-| 61-75' | 2 | 0 | 3 | 4 | 6 | 5 |
+| 31-45' | 2 | 6 | 3 | 4 | 8 | 4 |
+| 46-60' | 2 | 2 | 1 | 6 | 7 | 4 |
+| 61-75' | 2 | 0 | 3 | 4 | 6 | 6 |
 | 76-90' | 1 | 4 | 7 | 5 | 7 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -139,33 +148,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Lens
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Lens 1-1 Toulouse | casa | 9-5 | 22 (8) - 9 (5) | 2-2 |
 | 2026-11-08 | Ligue 1 | Lens 1-2 Marseille | casa | 4-6 | 13 (6) - 16 (5) | 1-2 |
 | 2026-11-04 | Champions League | Lens 1-9 Como | casa | 5-5 | 11 (3) - 18 (12) | 2-0 |
 | 2026-10-30 | Ligue 1 | Lille 1-0 Lens | fuera | 2-10 | 5 (3) - 16 (7) | 1-0 |
 | 2026-10-24 | Ligue 1 | Lens 2-1 Paris FC | casa | 6-1 | 9 (3) - 4 (1) | 3-3 |
 | 2026-10-21 | Champions League | Club Brugge KV 3-0 Lens | fuera | 5-1 | 19 (7) - 11 (5) | 2-2 |
-| 2026-10-17 | Ligue 1 | Estac Troyes 1-3 Lens | fuera | 4-6 | 13 (3) - 12 (5) | 2-2 |
 
 ## Jugadores de Lens
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Risser | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
-| F. Thauvin | M | 14 | 1159 | 6 | 8 | 33 | 2,4 | 21 | 1,5 | 12 | 18 | 1,3 | 4 | 0 |
-| M. Udol | M | 13 | 1098 | 2 | 0 | 18 | 1,4 | 7 | 0,5 | 9 | 9 | 0,7 | 1 | 1 |
-| R. Aguilar | D | 13 | 857 | 3 | 1 | 8 | 0,6 | 3 | 0,2 | 16 | 5 | 0,4 | 1 | 0 |
-| M. Cuisance | M | 12 | 841 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 16 | 4 | 0,3 | 3 | 0 |
+| R. Risser | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
+| F. Thauvin | F | 15 | 1249 | 6 | 8 | 36 | 2,4 | 21 | 1,4 | 13 | 21 | 1,4 | 5 | 0 |
+| M. Udol | M | 14 | 1188 | 2 | 0 | 22 | 1,6 | 8 | 0,6 | 9 | 12 | 0,9 | 1 | 1 |
+| R. Aguilar | M | 14 | 916 | 3 | 1 | 8 | 0,6 | 3 | 0,2 | 17 | 7 | 0,5 | 1 | 0 |
+| M. Cuisance | M | 13 | 900 | 1 | 0 | 8 | 0,6 | 3 | 0,2 | 16 | 5 | 0,4 | 3 | 0 |
+| A. Haidara | M | 14 | 801 | 0 | 0 | 9 | 0,6 | 3 | 0,2 | 12 | 7 | 0,5 | 2 | 0 |
 | K. Antonio | D | 11 | 785 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 16 | 1,5 | 0 | 0 |
-| A. Haidara | M | 13 | 770 | 0 | 0 | 9 | 0,7 | 3 | 0,2 | 10 | 7 | 0,5 | 1 | 0 |
-| Ismaelo Ganiou | D | 7 | 613 | 1 | 0 | 5 | 0,7 | 4 | 0,6 | 5 | 6 | 0,9 | 1 | 0 |
-| M. Skóraś | F | 12 | 589 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 10 | 12 | 1,0 | 3 | 0 |
-| Saud Abdulhamid | M | 8 | 546 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 7 | 11 | 1,4 | 1 | 0 |
-| S. Baidoo | D | 8 | 530 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 2 | 2 | 0,2 | 3 | 0 |
+| I. Ganiou | D | 8 | 631 | 1 | 0 | 6 | 0,8 | 5 | 0,6 | 5 | 6 | 0,8 | 1 | 0 |
+| S. Baidoo | D | 9 | 620 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 2 | 2 | 0,2 | 3 | 0 |
+| Y. Titraoui | M | 11 | 611 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 10 | 12 | 1,1 | 2 | 0 |
+| M. Skóraś | F | 13 | 590 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 10 | 12 | 0,9 | 3 | 0 |
+| Saud Abdulhamid | D | 9 | 577 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 8 | 11 | 1,2 | 1 | 0 |
 | F. Ivanović | F | 11 | 528 | 2 | 0 | 10 | 0,9 | 5 | 0,5 | 11 | 6 | 0,5 | 1 | 0 |
-| Y. Titraoui | M | 10 | 521 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 9 | 0,9 | 2 | 0 |
+| F. Sotoca | M | 9 | 524 | 1 | 1 | 12 | 1,3 | 5 | 0,6 | 7 | 6 | 0,7 | 0 | 0 |
+| A. Sima | F | 7 | 490 | 2 | 1 | 11 | 1,6 | 5 | 0,7 | 9 | 10 | 1,4 | 0 | 0 |
+| J. Todibo | D | 8 | 488 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 0 | 0 |
 | T. Hazard | F | 10 | 475 | 1 | 1 | 13 | 1,3 | 4 | 0,4 | 7 | 9 | 0,9 | 0 | 0 |
-| Abdallah Sima | F | 6 | 459 | 2 | 1 | 8 | 1,3 | 4 | 0,7 | 8 | 10 | 1,7 | 0 | 0 |
-| F. Sotoca | M | 8 | 435 | 1 | 1 | 9 | 1,1 | 3 | 0,4 | 5 | 6 | 0,8 | 0 | 0 |
-| J. Todibo | D | 7 | 398 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 8 | 1 | 0,1 | 0 | 0 |
 | A. Bulatović | M | 10 | 390 | 0 | 0 | 11 | 1,1 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
 | O. Édouard | F | 9 | 344 | 1 | 0 | 10 | 1,1 | 6 | 0,7 | 2 | 3 | 0,3 | 0 | 0 |
 | J. Kadile | F | 9 | 321 | 0 | 0 | 8 | 0,9 | 4 | 0,4 | 3 | 4 | 0,4 | 0 | 0 |

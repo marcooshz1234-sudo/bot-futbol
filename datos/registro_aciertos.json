@@ -12886,7 +12886,8 @@
   "movimiento": -0.045,
   "ventaja": 0.126,
   "prob_aprendida": 0.663,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-0"
  },
  "1575223|Home Player Shots On Target Total|Fares Chaibi - 1": {
   "partido_id": 1575223,
@@ -12908,7 +12909,8 @@
   "movimiento": null,
   "ventaja": 0.235,
   "prob_aprendida": 0.566,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1575229|Match Winner|Away": {
   "partido_id": 1575229,
@@ -12930,7 +12932,8 @@
   "movimiento": -0.025,
   "ventaja": 0.087,
   "prob_aprendida": 0.548,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1552826|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1552826,
@@ -12952,7 +12955,8 @@
   "movimiento": null,
   "ventaja": 0.194,
   "prob_aprendida": 0.641,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1552228|Home Player Shots On Target Total|Thom van Bergen - 1": {
   "partido_id": 1552228,
@@ -12974,7 +12978,8 @@
   "movimiento": null,
   "ventaja": 0.1,
   "prob_aprendida": 0.59,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-3"
  },
  "1550204|Home Player Shots On Target Total|Noa Lang - 1": {
   "partido_id": 1550204,
@@ -12996,7 +13001,8 @@
   "movimiento": null,
   "ventaja": 0.098,
   "prob_aprendida": 0.571,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1528991|Match Winner|Home": {
   "partido_id": 1528991,
@@ -13076,16 +13082,16 @@
   "opcion": "Home",
   "tipo": "resultado",
   "texto": "Gana el Liverpool",
-  "cuota": 1.67,
+  "cuota": 1.7,
   "frecuencia": 0.65,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.023,
-  "movimiento": -0.087,
-  "ventaja": 0.051,
-  "prob_aprendida": 0.729,
+  "valor_mercado": -0.006,
+  "movimiento": -0.071,
+  "ventaja": 0.062,
+  "prob_aprendida": 0.652,
   "acierto": null
  },
  "1550199|To Win Either Half|Home": {
@@ -13129,7 +13135,7 @@
   "valor_mercado": -0.017,
   "movimiento": -0.017,
   "ventaja": 0.062,
-  "prob_aprendida": 0.664,
+  "prob_aprendida": 0.641,
   "acierto": null
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
@@ -13151,7 +13157,7 @@
   "valor_mercado": -0.025,
   "movimiento": -0.031,
   "ventaja": 0.263,
-  "prob_aprendida": 0.677,
+  "prob_aprendida": 0.672,
   "acierto": null
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
@@ -13170,10 +13176,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.006,
+  "valor_mercado": -0.028,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.607,
+  "prob_aprendida": 0.652,
   "acierto": null
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
@@ -13241,7 +13247,8 @@
   "movimiento": 0.059,
   "ventaja": 0.194,
   "prob_aprendida": 0.601,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1563264|Both Teams Score|Yes": {
   "partido_id": 1563264,
@@ -13298,16 +13305,16 @@
   "opcion": "Home",
   "tipo": "resultado",
   "texto": "Gana el Cordoba",
-  "cuota": 1.91,
+  "cuota": 1.95,
   "frecuencia": 0.6,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.005,
-  "movimiento": 0.005,
-  "ventaja": 0.076,
-  "prob_aprendida": 0.655,
+  "valor_mercado": 0.01,
+  "movimiento": 0.026,
+  "ventaja": 0.087,
+  "prob_aprendida": 0.635,
   "acierto": null
  },
  "1570030|To Win Either Half|Home": {
@@ -13348,10 +13355,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
-  "movimiento": null,
+  "valor_mercado": -0.011,
+  "movimiento": 0.0,
   "ventaja": 0.244,
-  "prob_aprendida": 0.621,
+  "prob_aprendida": 0.602,
   "acierto": null
  },
  "1528988|Corners Over Under|Over 8.5": {
@@ -13420,7 +13427,8 @@
   "movimiento": -0.035,
   "ventaja": 0.201,
   "prob_aprendida": 0.413,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-0"
  },
  "1552225|Both Teams Score|Yes": {
   "partido_id": 1552225,
@@ -13432,16 +13440,16 @@
   "opcion": "Yes",
   "tipo": "goles",
   "texto": "Ambos marcan en Ajax–ADO Den Haag",
-  "cuota": 1.75,
+  "cuota": 1.8,
   "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.017,
-  "movimiento": 0.0,
-  "ventaja": 0.229,
-  "prob_aprendida": 0.619,
+  "valor_mercado": 0.059,
+  "movimiento": 0.029,
+  "ventaja": 0.244,
+  "prob_aprendida": 0.565,
   "acierto": null
  },
  "1528986|Match Winner|Away": {
@@ -13486,7 +13494,7 @@
   "valor_mercado": 0.032,
   "movimiento": 0.08,
   "ventaja": 0.133,
-  "prob_aprendida": 0.659,
+  "prob_aprendida": 0.635,
   "acierto": null
  },
  "1570030|Away Corners Over/Under|Over 3.5": {
@@ -13577,7 +13585,8 @@
   "movimiento": -0.022,
   "ventaja": 0.048,
   "prob_aprendida": 0.768,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1570029|Match Winner|Away": {
   "partido_id": 1570029,
@@ -13595,10 +13604,10 @@
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.005,
+  "valor_mercado": -0.026,
   "movimiento": 0.038,
   "ventaja": 0.224,
-  "prob_aprendida": 0.528,
+  "prob_aprendida": 0.575,
   "acierto": null
  },
  "1570034|Away Player Shots|Ruben Alcaraz - 1": {
@@ -13621,7 +13630,8 @@
   "movimiento": -0.084,
   "ventaja": 0.246,
   "prob_aprendida": 0.602,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1575221|Away Corners Over/Under|Over 2.5": {
   "partido_id": 1575221,
@@ -13666,7 +13676,8 @@
   "movimiento": null,
   "ventaja": 0.156,
   "prob_aprendida": 0.707,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-3"
  },
  "1635718|Total - Home|Over 0.5": {
   "partido_id": 1635718,
@@ -13687,7 +13698,7 @@
   "valor_mercado": -0.019,
   "movimiento": null,
   "ventaja": 0.196,
-  "prob_aprendida": 0.707,
+  "prob_aprendida": 0.676,
   "acierto": null
  },
  "1575223|Away Player Shots|Alexander Prass - 1": {
@@ -13710,7 +13721,8 @@
   "movimiento": 0.136,
   "ventaja": 0.2,
   "prob_aprendida": 0.63,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-0"
  },
  "1575223|Away Player Shots|Fisnik Asllani - 2": {
   "partido_id": 1575223,
@@ -13732,7 +13744,8 @@
   "movimiento": 0.153,
   "ventaja": 0.094,
   "prob_aprendida": 0.614,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1557467|Away Corners Over/Under|Over 3.5": {
   "partido_id": 1557467,
@@ -13754,7 +13767,8 @@
   "movimiento": -0.035,
   "ventaja": 0.201,
   "prob_aprendida": 0.411,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-0"
  },
  "1563273|Away Corners Over/Under|Over 2.5": {
   "partido_id": 1563273,
@@ -13776,7 +13790,8 @@
   "movimiento": null,
   "ventaja": 0.263,
   "prob_aprendida": 0.439,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-1"
  },
  "1557469|Away Player Shots|Thierno Barry - 2": {
   "partido_id": 1557469,
@@ -13797,7 +13812,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.248,
-  "prob_aprendida": 0.597,
+  "prob_aprendida": 0.647,
   "acierto": null
  },
  "1550200|Total - Away|Over 0.5": {
@@ -13820,7 +13835,8 @@
   "movimiento": 0.036,
   "ventaja": 0.172,
   "prob_aprendida": 0.609,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1565305|Away Corners Over/Under|Over 2.5": {
   "partido_id": 1565305,
@@ -13842,7 +13858,8 @@
   "movimiento": null,
   "ventaja": 0.133,
   "prob_aprendida": 0.427,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-1"
  },
  "1636301|Double Chance|Home/Draw": {
   "partido_id": 1636301,
@@ -13863,7 +13880,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.685,
+  "prob_aprendida": 0.711,
   "acierto": null
  },
  "1636393|Match Winner|Home": {
@@ -13885,7 +13902,7 @@
   "valor_mercado": -0.009,
   "movimiento": 0.105,
   "ventaja": 0.135,
-  "prob_aprendida": 0.644,
+  "prob_aprendida": 0.643,
   "acierto": null
  },
  "1575221|Both Teams Score|Yes": {
@@ -13953,7 +13970,8 @@
   "movimiento": -0.04,
   "ventaja": 0.095,
   "prob_aprendida": 0.689,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-0"
  },
  "1550197|Home Team Total Cards|Over 1.5": {
   "partido_id": 1550197,
@@ -13965,16 +13983,16 @@
   "opcion": "Over 1.5",
   "tipo": "tarjetas",
   "texto": "AC Milan ve más de 1,5 tarjetas",
-  "cuota": 1.67,
+  "cuota": 1.8,
   "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.072,
-  "movimiento": null,
-  "ventaja": 0.151,
-  "prob_aprendida": 0.716,
+  "valor_mercado": 0.0,
+  "movimiento": 0.078,
+  "ventaja": 0.194,
+  "prob_aprendida": 0.621,
   "acierto": null
  },
  "1575237|Goals Over/Under - Second Half|Over 1.5": {
@@ -14040,7 +14058,7 @@
   "valor_mercado": -0.039,
   "movimiento": null,
   "ventaja": 0.137,
-  "prob_aprendida": 0.565,
+  "prob_aprendida": 0.568,
   "acierto": null
  },
  "1557485|Home Player Shots|Liam Delap - 2": {
@@ -14107,7 +14125,7 @@
   "valor_mercado": 0.172,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.65,
+  "prob_aprendida": 0.612,
   "acierto": null
  },
  "1552225|Total - Away|Over 0.5": {
@@ -14151,7 +14169,7 @@
   "valor_mercado": -0.023,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.681,
+  "prob_aprendida": 0.654,
   "acierto": null
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
@@ -14240,7 +14258,8 @@
   "movimiento": null,
   "ventaja": 0.083,
   "prob_aprendida": 0.633,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-1"
  },
  "1552831|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1552831,
@@ -14284,7 +14303,8 @@
   "movimiento": 0.042,
   "ventaja": 0.1,
   "prob_aprendida": 0.821,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1570035|Total - Home|Over 0.5": {
   "partido_id": 1570035,
@@ -14306,7 +14326,8 @@
   "movimiento": 0.071,
   "ventaja": 0.133,
   "prob_aprendida": 0.674,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-0"
  },
  "1557480|Home Player Shots|Thierno Barry - 2": {
   "partido_id": 1557480,
@@ -14327,7 +14348,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.248,
-  "prob_aprendida": 0.644,
+  "prob_aprendida": 0.654,
   "acierto": null
  },
  "1557480|Away Player Shots|Alexis Mac Allister - 1": {
@@ -14349,7 +14370,161 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.63,
+  "prob_aprendida": 0.639,
+  "acierto": null
+ },
+ "1635735|Double Chance|Home/Draw": {
+  "partido_id": 1635735,
+  "fecha": "2026-11-25T21:00",
+  "competicion": "Champions",
+  "local": "Sporting CP",
+  "visitante": "Manchester United",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "tipo": "resultado",
+  "texto": "Sporting CP o empate",
+  "cuota": 1.5,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.183,
+  "prob_aprendida": 0.672,
+  "acierto": null
+ },
+ "1635703|Home Player Shots|Achraf Hakimi - 2": {
+  "partido_id": 1635703,
+  "fecha": "2026-11-25T21:00",
+  "competicion": "Champions",
+  "local": "Paris Saint Germain",
+  "visitante": "AS Roma",
+  "mercado": "Home Player Shots",
+  "opcion": "Achraf Hakimi - 2",
+  "tipo": "jugador",
+  "texto": "Achraf Hakimi: 2+ tiros",
+  "cuota": 1.53,
+  "frecuencia": 0.9,
+  "jugador_id": 9,
+  "jugador": "Achraf Hakimi",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.246,
+  "prob_aprendida": 0.568,
+  "acierto": null
+ },
+ "1552830|Home Player Shots|Pathe Mboup - 2": {
+  "partido_id": 1552830,
+  "fecha": "2026-11-27T20:45",
+  "competicion": "Ligue 1",
+  "local": "Stade Brestois 29",
+  "visitante": "Paris FC",
+  "mercado": "Home Player Shots",
+  "opcion": "Pathe Mboup - 2",
+  "tipo": "jugador",
+  "texto": "Pathe Mboup: 2+ tiros",
+  "cuota": 1.4,
+  "frecuencia": 0.9,
+  "jugador_id": 375990,
+  "jugador": "Pathe Mboup",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.186,
+  "prob_aprendida": 0.572,
+  "acierto": null
+ },
+ "1552234|To Win Either Half|Home": {
+  "partido_id": 1552234,
+  "fecha": "2026-11-28T21:00",
+  "competicion": "Eredivisie",
+  "local": "Cambuur",
+  "visitante": "Sparta Rotterdam",
+  "mercado": "To Win Either Half",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Cambuur gana alguna de las dos partes",
+  "cuota": 1.73,
+  "frecuencia": 0.75,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.036,
+  "movimiento": null,
+  "ventaja": 0.172,
+  "prob_aprendida": 0.638,
+  "acierto": null
+ },
+ "1552234|Double Chance|Home/Draw": {
+  "partido_id": 1552234,
+  "fecha": "2026-11-28T21:00",
+  "competicion": "Eredivisie",
+  "local": "Cambuur",
+  "visitante": "Sparta Rotterdam",
+  "mercado": "Double Chance",
+  "opcion": "Home/Draw",
+  "tipo": "resultado",
+  "texto": "Cambuur o empate",
+  "cuota": 1.5,
+  "frecuencia": 0.85,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.183,
+  "prob_aprendida": 0.674,
+  "acierto": null
+ },
+ "1552835|Home Player Shots|Achraf Hakimi - 2": {
+  "partido_id": 1552835,
+  "fecha": "2026-11-28T20:45",
+  "competicion": "Ligue 1",
+  "local": "Paris Saint Germain",
+  "visitante": "Lorient",
+  "mercado": "Home Player Shots",
+  "opcion": "Achraf Hakimi - 2",
+  "tipo": "jugador",
+  "texto": "Achraf Hakimi: 2+ tiros",
+  "cuota": 1.53,
+  "frecuencia": 0.9,
+  "jugador_id": 9,
+  "jugador": "Achraf Hakimi",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.246,
+  "prob_aprendida": 0.581,
+  "acierto": null
+ },
+ "1552831|Away Player Shots|Dario Essugo - 1": {
+  "partido_id": 1552831,
+  "fecha": "2026-11-28T20:45",
+  "competicion": "Ligue 1",
+  "local": "Le Havre",
+  "visitante": "Strasbourg",
+  "mercado": "Away Player Shots",
+  "opcion": "Dario Essugo - 1",
+  "tipo": "jugador",
+  "texto": "Dario Essugo: 1+ tiros",
+  "cuota": 1.4,
+  "frecuencia": 1.0,
+  "jugador_id": 308678,
+  "jugador": "Dario Essugo",
+  "campo": "tiros",
+  "n": 1,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.286,
+  "prob_aprendida": 0.578,
   "acierto": null
  }
 }

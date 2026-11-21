@@ -1,7 +1,7 @@
 # Sporting CP – Manchester United
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:04_
@@ -51,20 +51,20 @@ _Actualizadas: 21/11 14:04_
 ## Estadísticas de equipo
 | | Sporting CP (total) | Sporting CP en casa | Manchester United (total) | Manchester United fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 15 | 7 |
-| Forma (últimos 5) | VVVDD | VDDEV | EVDDD | DDEDE |
-| Balance | 10V 3E 2D | 5V 1E 2D | 3V 5E 7D | 0V 3E 4D |
-| Goles a favor / partido | 2,13 | 2,12 | 1,60 | 0,71 |
-| Goles en contra / partido | 1,00 | 1,38 | 2,00 | 2,00 |
-| Goles a favor 1ª parte | 1,00 | 1,12 | 0,60 | 0,14 |
-| Goles a favor 2ª parte | 1,13 | 1,00 | 1,00 | 0,57 |
-| Goles en contra 1ª parte | 0,27 | 0,38 | 0,80 | 0,57 |
-| Goles en contra 2ª parte | 0,73 | 1,00 | 1,20 | 1,43 |
-| Más de 1,5 goles | 87% | 88% | 93% | 100% |
-| Más de 2,5 goles | 60% | 75% | 53% | 29% |
-| Más de 3,5 goles | 53% | 62% | 47% | 29% |
-| Ambos marcan | 60% | 75% | 60% | 57% |
-| Portería a cero | 40% | 25% | 7% | 0% |
+| Partidos analizados | 16 | 9 | 15 | 7 |
+| Forma (últimos 5) | VVVVD | VVDDE | EVDDD | DDEDE |
+| Balance | 11V 3E 2D | 6V 1E 2D | 3V 5E 7D | 0V 3E 4D |
+| Goles a favor / partido | 2,25 | 2,33 | 1,60 | 0,71 |
+| Goles en contra / partido | 0,94 | 1,22 | 2,00 | 2,00 |
+| Goles a favor 1ª parte | 0,94 | 1,00 | 0,60 | 0,14 |
+| Goles a favor 2ª parte | 1,31 | 1,33 | 1,00 | 0,57 |
+| Goles en contra 1ª parte | 0,25 | 0,33 | 0,80 | 0,57 |
+| Goles en contra 2ª parte | 0,69 | 0,89 | 1,20 | 1,43 |
+| Más de 1,5 goles | 88% | 89% | 93% | 100% |
+| Más de 2,5 goles | 62% | 78% | 53% | 29% |
+| Más de 3,5 goles | 56% | 67% | 47% | 29% |
+| Ambos marcan | 56% | 67% | 60% | 57% |
+| Portería a cero | 44% | 33% | 7% | 0% |
 | Se queda sin marcar | 0% | 0% | 33% | 43% |
 | xG a favor | 2,00 | 2,09 | 1,84 | 1,18 |
 | xG en contra | 1,01 | 0,95 | 1,71 | 1,64 |
@@ -93,10 +93,10 @@ _Actualizadas: 21/11 14:04_
 | Tramo | Goles Sporting CP | Recibe Sporting CP | Tarjetas Sporting CP | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 2 | 1 | 2 | 5 | 0 |
-| 16-30' | 6 | 1 | 5 | 2 | 3 | 4 |
+| 16-30' | 6 | 1 | 6 | 2 | 3 | 4 |
 | 31-45' | 4 | 0 | 2 | 5 | 4 | 4 |
-| 46-60' | 7 | 0 | 3 | 3 | 7 | 4 |
-| 61-75' | 5 | 7 | 7 | 4 | 5 | 7 |
+| 46-60' | 8 | 0 | 3 | 3 | 7 | 4 |
+| 61-75' | 8 | 7 | 7 | 4 | 5 | 7 |
 | 76-90' | 4 | 5 | 11 | 8 | 6 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -110,12 +110,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Sporting CP
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Taça de Portugal | Sporting CP 4-0 UD da Serra | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Primeira Liga | Sporting CP 1-0 Moreirense | casa | 8-4 | 19 (5) - 9 (2) | 0-0 |
 | 2026-11-03 | Champions League | Shakhtar Donetsk 0-1 Sporting CP | fuera | 2-7 | 11 (3) - 14 (4) | 1-1 |
 | 2026-10-30 | Primeira Liga | Casa Pia 0-2 Sporting CP | fuera | 4-3 | 23 (11) - 12 (2) | 2-2 |
 | 2026-10-25 | Primeira Liga | Sporting CP 1-2 Academico Viseu | casa | 11-0 | 28 (4) - 9 (3) | 2-4 |
 | 2026-10-21 | Champions League | Sporting CP 2-3 Lask Linz | casa | 7-4 | 16 (4) - 11 (7) | 2-5 |
-| 2026-10-13 | Champions League | Lens 0-2 Sporting CP | fuera | 3-6 | 11 (5) - 21 (6) | 0-2 |
 
 ## Jugadores de Sporting CP
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

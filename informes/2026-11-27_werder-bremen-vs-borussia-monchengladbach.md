@@ -1,7 +1,7 @@
 # Werder Bremen – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 11 · 27/11/2026 20:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:19_
@@ -53,53 +53,53 @@ _Actualizadas: 21/11 02:19_
 ## Estadísticas de equipo
 | | Werder Bremen (total) | Werder Bremen en casa | Borussia Mönchengladbach (total) | Borussia Mönchengladbach fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 4 | 11 | 6 |
-| Forma (últimos 5) | DVDVE | VEVV | DEVVD | DVDDD |
-| Balance | 5V 3E 3D | 3V 1E 0D | 3V 1E 7D | 2V 0E 4D |
-| Goles a favor / partido | 2,00 | 2,50 | 1,73 | 1,67 |
-| Goles en contra / partido | 1,64 | 1,25 | 2,27 | 2,50 |
-| Goles a favor 1ª parte | 0,36 | 0,25 | 0,82 | 0,83 |
-| Goles a favor 2ª parte | 1,64 | 2,25 | 0,91 | 0,83 |
-| Goles en contra 1ª parte | 0,91 | 0,75 | 0,91 | 1,00 |
-| Goles en contra 2ª parte | 0,73 | 0,50 | 1,36 | 1,50 |
-| Más de 1,5 goles | 91% | 100% | 91% | 100% |
-| Más de 2,5 goles | 73% | 75% | 82% | 100% |
-| Más de 3,5 goles | 64% | 75% | 55% | 67% |
-| Ambos marcan | 73% | 75% | 55% | 50% |
-| Portería a cero | 18% | 25% | 27% | 17% |
-| Se queda sin marcar | 9% | 0% | 27% | 33% |
-| xG a favor | 1,65 | 2,04 | 1,53 | 1,48 |
-| xG en contra | 1,53 | 1,23 | 2,07 | 2,37 |
-| Tiros / partido | 16,2 | 17,0 | 15,6 | 16,8 |
-| Tiros a puerta / partido | 6,5 | 8,2 | 5,4 | 6,0 |
+| Partidos analizados | 11 | 4 | 12 | 6 |
+| Forma (últimos 5) | DVDVE | VEVV | DDEVV | DVDDD |
+| Balance | 5V 3E 3D | 3V 1E 0D | 3V 1E 8D | 2V 0E 4D |
+| Goles a favor / partido | 2,00 | 2,50 | 1,58 | 1,67 |
+| Goles en contra / partido | 1,64 | 1,25 | 2,17 | 2,50 |
+| Goles a favor 1ª parte | 0,36 | 0,25 | 0,75 | 0,83 |
+| Goles a favor 2ª parte | 1,64 | 2,25 | 0,83 | 0,83 |
+| Goles en contra 1ª parte | 0,91 | 0,75 | 0,83 | 1,00 |
+| Goles en contra 2ª parte | 0,73 | 0,50 | 1,33 | 1,50 |
+| Más de 1,5 goles | 91% | 100% | 83% | 100% |
+| Más de 2,5 goles | 73% | 75% | 75% | 100% |
+| Más de 3,5 goles | 64% | 75% | 50% | 67% |
+| Ambos marcan | 73% | 75% | 50% | 50% |
+| Portería a cero | 18% | 25% | 25% | 17% |
+| Se queda sin marcar | 9% | 0% | 33% | 33% |
+| xG a favor | 1,65 | 2,04 | 1,44 | 1,48 |
+| xG en contra | 1,53 | 1,23 | 2,04 | 2,37 |
+| Tiros / partido | 16,2 | 17,0 | 15,1 | 16,8 |
+| Tiros a puerta / partido | 6,5 | 8,2 | 5,1 | 6,0 |
 | Tiros recibidos | 13,9 | 13,2 | 15,7 | 16,7 |
-| Tiros a puerta recibidos | 4,7 | 3,8 | 6,9 | 7,0 |
-| Posesión media % | 49 | 49 | 47 | 48 |
-| Córners a favor | 4,9 | 4,2 | 5,2 | 5,0 |
-| Córners en contra | 4,9 | 4,0 | 5,3 | 5,2 |
-| Córners a favor 1ª parte | 1,5 | 1,5 | 2,4 | 2,7 |
-| Córners a favor 2ª parte | 3,5 | 2,8 | 2,8 | 2,3 |
-| Córners totales del partido | 9,8 | 8,2 | 10,5 | 10,2 |
-| Córners totales 1ª parte | 3,7 | 3,5 | 4,5 | 4,8 |
-| Córners totales 2ª parte | 6,1 | 4,8 | 5,9 | 5,3 |
-| Más de 8,5 córners | 64% | 50% | 73% | 67% |
-| Más de 9,5 córners | 55% | 25% | 55% | 50% |
-| Más de 10,5 córners | 55% | 25% | 45% | 50% |
-| Faltas cometidas | 10,3 | 11,2 | 13,4 | 14,5 |
-| Faltas recibidas | 10,4 | 11,0 | 9,2 | 7,5 |
-| Amarillas propias | 1,5 | 1,8 | 2,5 | 2,2 |
+| Tiros a puerta recibidos | 4,7 | 3,8 | 6,8 | 7,0 |
+| Posesión media % | 49 | 49 | 46 | 48 |
+| Córners a favor | 4,9 | 4,2 | 5,3 | 5,0 |
+| Córners en contra | 4,9 | 4,0 | 5,4 | 5,2 |
+| Córners a favor 1ª parte | 1,5 | 1,5 | 2,7 | 2,7 |
+| Córners a favor 2ª parte | 3,5 | 2,8 | 2,7 | 2,3 |
+| Córners totales del partido | 9,8 | 8,2 | 10,8 | 10,2 |
+| Córners totales 1ª parte | 3,7 | 3,5 | 5,0 | 4,8 |
+| Córners totales 2ª parte | 6,1 | 4,8 | 5,8 | 5,3 |
+| Más de 8,5 córners | 64% | 50% | 75% | 67% |
+| Más de 9,5 córners | 55% | 25% | 58% | 50% |
+| Más de 10,5 córners | 55% | 25% | 50% | 50% |
+| Faltas cometidas | 10,3 | 11,2 | 13,6 | 14,5 |
+| Faltas recibidas | 10,4 | 11,0 | 9,0 | 7,5 |
+| Amarillas propias | 1,5 | 1,8 | 2,4 | 2,2 |
 | Amarillas del rival | 1,1 | 0,8 | 1,5 | 1,0 |
-| Rojas / partido | 0,00 | 0,00 | 0,27 | 0,33 |
+| Rojas / partido | 0,00 | 0,00 | 0,25 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Werder Bremen | Recibe Werder Bremen | Tarjetas Werder Bremen | Goles Borussia Mönchengladbach | Recibe Borussia Mönchengladbach | Tarjetas Borussia Mönchengladbach |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 3 | 0 | 3 | 3 | 2 |
 | 16-30' | 1 | 5 | 4 | 2 | 6 | 2 |
-| 31-45' | 0 | 2 | 3 | 4 | 1 | 7 |
+| 31-45' | 0 | 2 | 3 | 4 | 1 | 8 |
 | 46-60' | 3 | 3 | 5 | 6 | 3 | 7 |
-| 61-75' | 7 | 1 | 1 | 3 | 4 | 1 |
-| 76-90' | 8 | 4 | 4 | 1 | 8 | 12 |
+| 61-75' | 7 | 1 | 1 | 3 | 4 | 2 |
+| 76-90' | 8 | 4 | 4 | 1 | 9 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -151,33 +151,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Borussia Mönchengladbach
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Bundesliga | Borussia Mönchengladbach 0-1 Borussia Dortmund | casa | 7-7 | 9 (2) - 15 (5) | 2-1 |
 | 2026-11-06 | Bundesliga | Hamburger SV 3-1 Borussia Mönchengladbach | fuera | 3-5 | 19 (6) - 18 (9) | 1-1 |
 | 2026-10-31 | Bundesliga | Borussia Mönchengladbach 0-0 SC Paderborn 07 | casa | 4-7 | 12 (4) - 13 (4) | 2-3 |
 | 2026-10-27 | DFB-Pokal | Borussia Mönchengladbach 2-0 Karlsruher SC | casa | 1-6 | 4 (3) - 15 (4) | 0-0 |
 | 2026-10-23 | Bundesliga | VfB Stuttgart 2-3 Borussia Mönchengladbach | fuera | 5-6 | 16 (6) - 15 (5) | 4-2 |
 | 2026-10-18 | Bundesliga | Borussia Mönchengladbach 1-2 1899 Hoffenheim | casa | 3-6 | 9 (3) - 14 (8) | 3-2 |
-| 2026-10-11 | Bundesliga | 1. FC Köln 2-1 Borussia Mönchengladbach | fuera | 6-6 | 16 (7) - 19 (7) | 3-1 |
 
 ## Jugadores de Borussia Mönchengladbach
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Sander | D | 11 | 939 | 0 | 1 | 11 | 1,0 | 3 | 0,3 | 19 | 4 | 0,4 | 1 | 1 |
+| P. Sander | D | 12 | 1029 | 0 | 1 | 12 | 1,0 | 3 | 0,2 | 20 | 4 | 0,3 | 1 | 1 |
+| J. Scally | M | 11 | 862 | 3 | 3 | 13 | 1,2 | 5 | 0,5 | 10 | 14 | 1,3 | 2 | 0 |
 | L. Ullrich | M | 10 | 784 | 2 | 2 | 8 | 0,8 | 3 | 0,3 | 12 | 9 | 0,9 | 2 | 0 |
-| J. Scally | M | 10 | 777 | 3 | 3 | 10 | 1,0 | 5 | 0,5 | 9 | 14 | 1,4 | 2 | 0 |
+| K. Diks | D | 9 | 754 | 0 | 0 | 6 | 0,7 | 1 | 0,1 | 8 | 6 | 0,7 | 5 | 0 |
 | M. Nicolas | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| W. Mohya | M | 12 | 719 | 3 | 1 | 15 | 1,2 | 6 | 0,5 | 8 | 8 | 0,7 | 1 | 0 |
 | H. Bolin | M | 9 | 676 | 4 | 1 | 18 | 2,0 | 13 | 1,4 | 10 | 13 | 1,4 | 1 | 0 |
-| K. Diks | D | 8 | 664 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 6 | 5 | 0,6 | 4 | 0 |
-| W. Mohya | M | 11 | 629 | 3 | 1 | 15 | 1,4 | 6 | 0,5 | 7 | 6 | 0,5 | 1 | 0 |
-| R. Hack | M | 11 | 545 | 2 | 2 | 9 | 0,8 | 4 | 0,4 | 8 | 5 | 0,5 | 1 | 0 |
+| R. Hack | M | 12 | 619 | 2 | 2 | 12 | 1,0 | 5 | 0,4 | 9 | 6 | 0,5 | 1 | 0 |
+| F. Neuhaus | M | 7 | 539 | 1 | 1 | 12 | 1,7 | 5 | 0,7 | 5 | 6 | 0,9 | 2 | 0 |
+| S. Machino | F | 10 | 530 | 2 | 0 | 8 | 0,8 | 3 | 0,3 | 6 | 4 | 0,4 | 3 | 0 |
+| F. Chiarodia | D | 7 | 524 | 0 | 0 | 3 | 0,4 | 2 | 0,3 | 4 | 1 | 0,1 | 1 | 0 |
+| Z. Uno | M | 7 | 479 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 16 | 3 | 0,4 | 3 | 0 |
 | D. Hashioka | D | 7 | 470 | 1 | 0 | 4 | 0,6 | 1 | 0,1 | 2 | 4 | 0,6 | 1 | 0 |
 | K. Itakura | D | 8 | 462 | 0 | 0 | 5 | 0,6 | 3 | 0,4 | 8 | 4 | 0,5 | 0 | 1 |
-| S. Machino | F | 9 | 456 | 2 | 0 | 7 | 0,8 | 2 | 0,2 | 6 | 3 | 0,3 | 3 | 0 |
-| F. Neuhaus | M | 6 | 449 | 1 | 1 | 11 | 1,8 | 5 | 0,8 | 5 | 5 | 0,8 | 2 | 0 |
-| Z. Uno | M | 6 | 434 | 0 | 1 | 3 | 0,5 | 1 | 0,2 | 13 | 3 | 0,5 | 2 | 0 |
-| F. Chiarodia | D | 6 | 434 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 2 | 1 | 0,2 | 1 | 0 |
-| I. Lidberg | F | 9 | 387 | 1 | 0 | 11 | 1,2 | 5 | 0,6 | 6 | 6 | 0,7 | 0 | 0 |
+| I. Lidberg | F | 10 | 403 | 1 | 0 | 11 | 1,1 | 5 | 0,5 | 7 | 6 | 0,6 | 0 | 0 |
+| D. Batz | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | K. Stöger | M | 5 | 321 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 6 | 5 | 1,0 | 1 | 0 |
-| F. Honorat | M | 6 | 274 | 0 | 3 | 3 | 0,5 | 2 | 0,3 | 3 | 1 | 0,2 | 0 | 0 |
-| D. Batz | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| D. Herold | M | 6 | 256 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,3 | 0 | 0 |
+| F. Honorat | M | 7 | 290 | 0 | 3 | 3 | 0,4 | 2 | 0,3 | 4 | 1 | 0,1 | 0 | 0 |
+| D. Herold | D | 7 | 272 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,3 | 0 | 0 |
 | Jan Leszczyński | D | 4 | 240 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 3 | 3 | 0,8 | 1 | 0 |

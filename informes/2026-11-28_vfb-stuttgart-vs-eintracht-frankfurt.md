@@ -1,10 +1,10 @@
 # VfB Stuttgart – Eintracht Frankfurt
 **Bundesliga** · Regular Season - 11 · 28/11/2026 18:30 (hora España) · MHPArena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:15_
 
 - **1X2:** 1 **1.70**  ·  X **4.33**  ·  2 **4.00**
 - **Doble oportunidad:** 1X **1.22**  ·  12 **1.20**  ·  X2 **2.10**
@@ -55,53 +55,53 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | VfB Stuttgart (total) | VfB Stuttgart en casa | Eintracht Frankfurt (total) | Eintracht Frankfurt fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 6 | 11 | 7 |
-| Forma (últimos 5) | VDVVD | VDEDV | EVVDV | EVDDV |
-| Balance | 8V 1E 6D | 3V 1E 2D | 5V 3E 3D | 3V 2E 2D |
-| Goles a favor / partido | 1,80 | 1,83 | 2,64 | 3,14 |
-| Goles en contra / partido | 1,27 | 1,17 | 1,91 | 2,00 |
-| Goles a favor 1ª parte | 0,87 | 1,17 | 1,73 | 2,14 |
-| Goles a favor 2ª parte | 0,93 | 0,67 | 0,91 | 1,00 |
-| Goles en contra 1ª parte | 0,47 | 0,33 | 0,73 | 0,86 |
-| Goles en contra 2ª parte | 0,80 | 0,83 | 1,18 | 1,14 |
-| Más de 1,5 goles | 73% | 67% | 82% | 86% |
-| Más de 2,5 goles | 53% | 50% | 82% | 86% |
-| Más de 3,5 goles | 40% | 50% | 82% | 86% |
-| Ambos marcan | 47% | 67% | 64% | 57% |
-| Portería a cero | 33% | 17% | 18% | 14% |
-| Se queda sin marcar | 20% | 17% | 18% | 29% |
-| xG a favor | 2,06 | 1,75 | 1,76 | 1,56 |
-| xG en contra | 1,78 | 1,64 | 2,11 | 2,50 |
-| Tiros / partido | 16,7 | 16,2 | 13,9 | 12,8 |
-| Tiros a puerta / partido | 5,7 | 5,2 | 5,6 | 4,7 |
-| Tiros recibidos | 16,4 | 14,8 | 16,1 | 16,8 |
-| Tiros a puerta recibidos | 4,9 | 4,0 | 5,9 | 6,5 |
-| Posesión media % | 56 | 57 | 50 | 48 |
-| Córners a favor | 6,1 | 6,3 | 4,8 | 3,8 |
-| Córners en contra | 5,4 | 4,7 | 5,0 | 5,3 |
-| Córners a favor 1ª parte | 2,6 | 2,5 | 2,5 | 2,2 |
-| Córners a favor 2ª parte | 3,5 | 3,8 | 2,3 | 1,7 |
-| Córners totales del partido | 11,5 | 11,0 | 9,8 | 9,2 |
-| Córners totales 1ª parte | 5,1 | 4,5 | 5,2 | 4,7 |
-| Córners totales 2ª parte | 6,3 | 6,5 | 4,6 | 4,5 |
-| Más de 8,5 córners | 80% | 50% | 60% | 50% |
-| Más de 9,5 córners | 73% | 50% | 40% | 17% |
-| Más de 10,5 córners | 60% | 50% | 30% | 17% |
+| Partidos analizados | 16 | 6 | 12 | 7 |
+| Forma (últimos 5) | EVDVV | VDEDV | VEVVD | EVDDV |
+| Balance | 8V 2E 6D | 3V 1E 2D | 6V 3E 3D | 3V 2E 2D |
+| Goles a favor / partido | 1,69 | 1,83 | 2,50 | 3,14 |
+| Goles en contra / partido | 1,19 | 1,17 | 1,75 | 2,00 |
+| Goles a favor 1ª parte | 0,81 | 1,17 | 1,67 | 2,14 |
+| Goles a favor 2ª parte | 0,88 | 0,67 | 0,83 | 1,00 |
+| Goles en contra 1ª parte | 0,44 | 0,33 | 0,67 | 0,86 |
+| Goles en contra 2ª parte | 0,75 | 0,83 | 1,08 | 1,14 |
+| Más de 1,5 goles | 69% | 67% | 75% | 86% |
+| Más de 2,5 goles | 50% | 50% | 75% | 86% |
+| Más de 3,5 goles | 38% | 50% | 75% | 86% |
+| Ambos marcan | 44% | 67% | 58% | 57% |
+| Portería a cero | 38% | 17% | 25% | 14% |
+| Se queda sin marcar | 25% | 17% | 17% | 29% |
+| xG a favor | 2,09 | 1,75 | 1,82 | 1,56 |
+| xG en contra | 1,79 | 1,64 | 2,13 | 2,50 |
+| Tiros / partido | 16,6 | 16,2 | 14,5 | 12,8 |
+| Tiros a puerta / partido | 5,6 | 5,2 | 5,6 | 4,7 |
+| Tiros recibidos | 16,7 | 14,8 | 16,1 | 16,8 |
+| Tiros a puerta recibidos | 5,1 | 4,0 | 5,7 | 6,5 |
+| Posesión media % | 56 | 57 | 49 | 48 |
+| Córners a favor | 6,0 | 6,3 | 5,2 | 3,8 |
+| Córners en contra | 5,3 | 4,7 | 5,0 | 5,3 |
+| Córners a favor 1ª parte | 2,6 | 2,5 | 2,7 | 2,2 |
+| Córners a favor 2ª parte | 3,4 | 3,8 | 2,5 | 1,7 |
+| Córners totales del partido | 11,3 | 11,0 | 10,2 | 9,2 |
+| Córners totales 1ª parte | 5,1 | 4,5 | 5,4 | 4,7 |
+| Córners totales 2ª parte | 6,2 | 6,5 | 4,8 | 4,5 |
+| Más de 8,5 córners | 81% | 50% | 64% | 50% |
+| Más de 9,5 córners | 69% | 50% | 45% | 17% |
+| Más de 10,5 córners | 56% | 50% | 36% | 17% |
 | Faltas cometidas | 10,9 | 9,5 | 11,2 | 12,0 |
-| Faltas recibidas | 10,5 | 10,3 | 11,9 | 11,3 |
+| Faltas recibidas | 10,4 | 10,3 | 11,9 | 11,3 |
 | Amarillas propias | 1,6 | 1,0 | 2,3 | 2,7 |
-| Amarillas del rival | 2,3 | 3,0 | 1,3 | 0,7 |
-| Rojas / partido | 0,00 | 0,00 | 0,10 | 0,17 |
+| Amarillas del rival | 2,1 | 3,0 | 1,4 | 0,7 |
+| Rojas / partido | 0,00 | 0,00 | 0,09 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles VfB Stuttgart | Recibe VfB Stuttgart | Tarjetas VfB Stuttgart | Goles Eintracht Frankfurt | Recibe Eintracht Frankfurt | Tarjetas Eintracht Frankfurt |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 3 | 3 | 8 | 4 | 4 |
-| 16-30' | 6 | 3 | 3 | 3 | 0 | 2 |
+| 16-30' | 6 | 3 | 3 | 4 | 0 | 2 |
 | 31-45' | 4 | 1 | 9 | 8 | 4 | 4 |
 | 46-60' | 4 | 4 | 2 | 3 | 4 | 3 |
-| 61-75' | 4 | 3 | 4 | 4 | 2 | 5 |
-| 76-90' | 6 | 5 | 3 | 3 | 7 | 9 |
+| 61-75' | 4 | 3 | 5 | 4 | 2 | 5 |
+| 76-90' | 6 | 5 | 3 | 3 | 7 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -119,67 +119,67 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de VfB Stuttgart
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Bundesliga | FC Schalke 04 0-0 VfB Stuttgart | fuera | 5-4 | 15 (4) - 21 (7) | 1-0 |
 | 2026-11-07 | Bundesliga | VfB Stuttgart 1-0 Werder Bremen | casa | 4-4 | 13 (5) - 23 (5) | 0-3 |
 | 2026-11-03 | Champions League | Galatasaray 2-0 VfB Stuttgart | fuera | 4-6 | 13 (5) - 13 (4) | 5-3 |
 | 2026-10-31 | Bundesliga | Bayer Leverkusen 2-4 VfB Stuttgart | fuera | 3-12 | 15 (7) - 24 (8) | 4-4 |
 | 2026-10-28 | DFB-Pokal | SC Paderborn 07 0-1 VfB Stuttgart | fuera | 6-4 | 19 (5) - 17 (5) | 2-1 |
 | 2026-10-23 | Bundesliga | VfB Stuttgart 2-3 Borussia Mönchengladbach | casa | 6-5 | 15 (5) - 16 (6) | 2-4 |
-| 2026-10-20 | Champions League | VfB Stuttgart 1-1 Atletico Madrid | casa | 9-4 | 18 (5) - 10 (3) | 1-0 |
 
 ## Jugadores de VfB Stuttgart
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Chabot | D | 15 | 1199 | 1 | 0 | 15 | 1,0 | 6 | 0,4 | 21 | 16 | 1,1 | 3 | 0 |
-| D. Undav | F | 15 | 1141 | 2 | 5 | 21 | 1,4 | 9 | 0,6 | 19 | 2 | 0,1 | 1 | 0 |
-| G. Prömel | M | 15 | 1116 | 1 | 1 | 16 | 1,1 | 5 | 0,3 | 16 | 9 | 0,6 | 2 | 0 |
-| M. Mittelstädt | M | 13 | 1089 | 2 | 1 | 9 | 0,7 | 5 | 0,4 | 12 | 14 | 1,1 | 2 | 0 |
-| R. Hendriks | D | 13 | 1011 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 7 | 16 | 1,2 | 2 | 0 |
-| C. Führich | M | 14 | 971 | 1 | 2 | 15 | 1,1 | 5 | 0,4 | 2 | 7 | 0,5 | 0 | 0 |
+| J. Chabot | D | 16 | 1289 | 1 | 0 | 15 | 0,9 | 6 | 0,4 | 22 | 18 | 1,1 | 3 | 0 |
+| D. Undav | M | 16 | 1221 | 2 | 5 | 24 | 1,5 | 10 | 0,6 | 21 | 2 | 0,1 | 1 | 0 |
+| G. Prömel | M | 16 | 1206 | 1 | 1 | 18 | 1,1 | 6 | 0,4 | 17 | 9 | 0,6 | 2 | 0 |
+| M. Mittelstädt | M | 14 | 1179 | 2 | 1 | 11 | 0,8 | 5 | 0,4 | 14 | 14 | 1,0 | 3 | 0 |
+| R. Hendriks | D | 14 | 1101 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 7 | 16 | 1,1 | 2 | 0 |
+| C. Führich | M | 15 | 1061 | 1 | 2 | 17 | 1,1 | 6 | 0,4 | 2 | 8 | 0,5 | 0 | 0 |
 | A. Stiller | M | 12 | 963 | 0 | 4 | 6 | 0,5 | 2 | 0,2 | 13 | 14 | 1,2 | 2 | 0 |
-| B. El Khannouss | M | 15 | 911 | 2 | 0 | 20 | 1,3 | 10 | 0,7 | 5 | 14 | 0,9 | 1 | 0 |
-| Finn Jeltsch | D | 12 | 868 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 12 | 10 | 0,8 | 1 | 0 |
+| Finn Jeltsch | D | 13 | 948 | 0 | 1 | 9 | 0,7 | 2 | 0,2 | 14 | 10 | 0,8 | 1 | 0 |
+| B. El Khannouss | M | 16 | 941 | 2 | 0 | 20 | 1,2 | 10 | 0,6 | 5 | 15 | 0,9 | 1 | 0 |
+| E. Demirović | F | 16 | 868 | 9 | 0 | 32 | 2,0 | 20 | 1,2 | 17 | 11 | 0,7 | 2 | 0 |
 | F. Bredlow | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| E. Demirović | F | 15 | 808 | 9 | 0 | 31 | 2,1 | 20 | 1,3 | 16 | 10 | 0,7 | 2 | 0 |
-| J. Vagnoman | D | 10 | 778 | 2 | 2 | 11 | 1,1 | 6 | 0,6 | 7 | 5 | 0,5 | 1 | 0 |
-| J. Leweling | M | 14 | 740 | 2 | 1 | 16 | 1,1 | 4 | 0,3 | 5 | 13 | 0,9 | 1 | 0 |
-| D. Pejčinović | F | 14 | 560 | 3 | 1 | 19 | 1,4 | 6 | 0,4 | 2 | 3 | 0,2 | 0 | 0 |
-| D. Seimen | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Leweling | M | 15 | 800 | 2 | 1 | 17 | 1,1 | 5 | 0,3 | 5 | 16 | 1,1 | 1 | 0 |
+| J. Vagnoman | D | 11 | 788 | 2 | 2 | 11 | 1,0 | 6 | 0,5 | 7 | 5 | 0,5 | 1 | 0 |
+| D. Seimen | G | 7 | 630 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| D. Pejčinović | F | 15 | 590 | 3 | 1 | 21 | 1,4 | 6 | 0,4 | 2 | 3 | 0,2 | 0 | 0 |
 | A. Karazor | M | 8 | 391 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 4 | 0,5 | 3 | 0 |
-| Y. Spalt | M | 4 | 211 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 4 | 1,0 | 1 | 0 |
-| Tiago Tomás | F | 4 | 181 | 1 | 1 | 7 | 1,8 | 4 | 1,0 | 1 | 4 | 1,0 | 0 | 0 |
+| Y. Spalt | M | 5 | 282 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 5 | 1,0 | 1 | 0 |
+| Tiago Tomás | F | 5 | 191 | 1 | 1 | 8 | 1,6 | 4 | 0,8 | 1 | 4 | 0,8 | 0 | 0 |
 | L. Assignon | D | 6 | 175 | 0 | 1 | 4 | 0,7 | 1 | 0,2 | 2 | 0 | 0,0 | 0 | 0 |
 | L. Sauer | M | 9 | 149 | 0 | 0 | 5 | 0,6 | 1 | 0,1 | 4 | 2 | 0,2 | 1 | 0 |
 
 ## Últimos partidos de Eintracht Frankfurt
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Bundesliga | Eintracht Frankfurt 1-0 1899 Hoffenheim | casa | 9-5 | 21 (6) - 16 (4) | 2-2 |
 | 2026-11-07 | Bundesliga | SC Paderborn 07 2-2 Eintracht Frankfurt | fuera | 6-2 | 16 (3) - 11 (3) | 1-1 |
 | 2026-11-01 | Bundesliga | Eintracht Frankfurt 3-1 Hamburger SV | casa | 6-6 | 15 (10) - 12 (3) | 2-4 |
 | 2026-10-27 | DFB-Pokal | Hamburger SV 1-3 Eintracht Frankfurt | fuera | 3-5 | 12 (5) - 15 (6) | 4-0 |
 | 2026-10-24 | Bundesliga | Borussia Dortmund 1-0 Eintracht Frankfurt | fuera | 1-13 | 8 (3) - 18 (5) | 2-0 |
 | 2026-10-16 | Bundesliga | Eintracht Frankfurt 1-0 1. FC Köln | casa | 7-3 | 15 (7) - 9 (3) | 2-2 |
-| 2026-10-10 | Bundesliga | RB Leipzig 6-0 Eintracht Frankfurt | fuera | 6-3 | 18 (9) - 20 (10) | 3-1 |
 
 ## Jugadores de Eintracht Frankfurt
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N. Atubolu | G | 10 | 900 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| R. Onyedika | M | 10 | 895 | 1 | 0 | 2 | 0,2 | 2 | 0,2 | 16 | 4 | 0,4 | 5 | 0 |
-| R. Koch | D | 10 | 855 | 1 | 1 | 9 | 0,9 | 6 | 0,6 | 10 | 4 | 0,4 | 1 | 0 |
-| J. Burkardt | F | 10 | 746 | 6 | 2 | 18 | 1,8 | 9 | 0,9 | 2 | 11 | 1,1 | 0 | 0 |
-| R. Dōan | M | 9 | 731 | 0 | 1 | 11 | 1,2 | 2 | 0,2 | 6 | 16 | 1,8 | 0 | 0 |
-| L. Brassier | D | 8 | 720 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 6 | 7 | 0,9 | 1 | 0 |
+| N. Atubolu | G | 11 | 990 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 0 | 2 | 0,2 | 1 | 0 |
+| R. Onyedika | M | 11 | 985 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 16 | 5 | 0,5 | 5 | 0 |
+| R. Koch | D | 11 | 945 | 1 | 1 | 9 | 0,8 | 6 | 0,5 | 11 | 4 | 0,4 | 1 | 0 |
+| J. Burkardt | F | 11 | 830 | 7 | 2 | 24 | 2,2 | 11 | 1,0 | 4 | 14 | 1,3 | 0 | 0 |
+| R. Dōan | M | 10 | 821 | 0 | 1 | 12 | 1,2 | 2 | 0,2 | 9 | 20 | 2,0 | 0 | 0 |
+| L. Brassier | D | 9 | 810 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 7 | 7 | 0,8 | 1 | 0 |
 | Elias Baum | D | 10 | 705 | 0 | 1 | 6 | 0,6 | 2 | 0,2 | 10 | 12 | 1,2 | 2 | 1 |
+| Y. Ebnoutalib | F | 11 | 695 | 7 | 1 | 25 | 2,3 | 13 | 1,2 | 4 | 9 | 0,8 | 1 | 0 |
+| K. Kosugi | D | 9 | 670 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 9 | 15 | 1,7 | 1 | 0 |
 | C. Uzun | M | 9 | 670 | 2 | 1 | 14 | 1,6 | 7 | 0,8 | 4 | 15 | 1,7 | 0 | 0 |
-| Y. Ebnoutalib | F | 10 | 611 | 7 | 1 | 20 | 2,0 | 12 | 1,2 | 4 | 8 | 0,8 | 1 | 0 |
-| K. Kosugi | D | 8 | 580 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 14 | 1,8 | 1 | 0 |
-| F. Chaïbi | M | 8 | 572 | 0 | 2 | 17 | 2,1 | 9 | 1,1 | 1 | 4 | 0,5 | 1 | 0 |
-| N. Aséko Nkili | M | 8 | 432 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,8 | 0 | 0 |
-| N. Collins | D | 6 | 375 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 9 | 0 | 0,0 | 3 | 0 |
+| F. Chaïbi | M | 9 | 662 | 0 | 2 | 21 | 2,3 | 11 | 1,2 | 3 | 4 | 0,4 | 1 | 0 |
+| N. Aséko Nkili | M | 9 | 496 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,7 | 0 | 0 |
+| N. Collins | D | 7 | 382 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 0 | 0,0 | 3 | 0 |
+| A. Knauff | D | 7 | 324 | 0 | 1 | 5 | 0,7 | 3 | 0,4 | 8 | 1 | 0,1 | 1 | 0 |
 | J. Maluze | D | 3 | 270 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 3 | 1 | 0,3 | 2 | 0 |
-| M. Götze | M | 7 | 251 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 8 | 3 | 0,4 | 3 | 0 |
-| A. Knauff | D | 6 | 241 | 0 | 0 | 3 | 0,5 | 2 | 0,3 | 8 | 0 | 0,0 | 1 | 0 |
+| M. Götze | M | 8 | 257 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 8 | 3 | 0,4 | 3 | 0 |
+| O. HÃ¸jlund | M | 4 | 127 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,5 | 1 | 0 |
 | A. Amaimouni | F | 5 | 107 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 3 | 4 | 0,8 | 0 | 0 |
-| O. HÃ¸jlund | M | 3 | 101 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,7 | 1 | 0 |
 | L. Arrhov | M | 5 | 40 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,2 | 0 | 0 |
-| N. Ilicevic | M | 2 | 27 | 0 | 0 | 2 | 1,0 | 1 | 0,5 | 2 | 1 | 0,5 | 0 | 0 |
+| M. Pimpong | F | 3 | 33 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |

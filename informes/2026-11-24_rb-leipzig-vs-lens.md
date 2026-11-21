@@ -1,10 +1,10 @@
 # RB Leipzig – Lens
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Red Bull Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 22/11 00:13_
 
 - **1X2:** 1 **1.45**  ·  X **5.00**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.62**
@@ -54,53 +54,53 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | RB Leipzig (total) | RB Leipzig en casa | Lens (total) | Lens fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 7 | 14 | 7 |
-| Forma (últimos 5) | VDVVV | VDVVV | DDDVD | DDVDE |
-| Balance | 9V 0E 6D | 6V 0E 1D | 5V 1E 8D | 2V 1E 4D |
-| Goles a favor / partido | 2,67 | 3,71 | 1,50 | 1,43 |
-| Goles en contra / partido | 1,67 | 0,71 | 2,21 | 1,86 |
-| Goles a favor 1ª parte | 0,93 | 1,43 | 0,50 | 0,57 |
-| Goles a favor 2ª parte | 1,73 | 2,29 | 1,00 | 0,86 |
-| Goles en contra 1ª parte | 0,73 | 0,29 | 0,79 | 0,71 |
-| Goles en contra 2ª parte | 0,93 | 0,43 | 1,43 | 1,14 |
-| Más de 1,5 goles | 93% | 86% | 86% | 86% |
-| Más de 2,5 goles | 80% | 86% | 79% | 86% |
-| Más de 3,5 goles | 67% | 71% | 36% | 43% |
-| Ambos marcan | 47% | 29% | 71% | 71% |
-| Portería a cero | 47% | 71% | 0% | 0% |
-| Se queda sin marcar | 7% | 0% | 29% | 29% |
-| xG a favor | 2,13 | 2,57 | 1,71 | 1,61 |
-| xG en contra | 1,76 | 1,41 | 1,93 | 1,98 |
-| Tiros / partido | 16,8 | 18,1 | 14,7 | 15,4 |
-| Tiros a puerta / partido | 6,5 | 7,6 | 5,6 | 5,4 |
-| Tiros recibidos | 13,1 | 12,0 | 12,5 | 13,6 |
-| Tiros a puerta recibidos | 5,8 | 5,1 | 5,4 | 5,7 |
-| Posesión media % | 53 | 51 | 50 | 50 |
-| Córners a favor | 5,4 | 4,9 | 5,9 | 6,1 |
-| Córners en contra | 5,5 | 6,0 | 4,1 | 4,4 |
-| Córners a favor 1ª parte | 2,3 | 2,0 | 2,8 | 2,7 |
-| Córners a favor 2ª parte | 3,1 | 2,9 | 3,1 | 3,4 |
-| Córners totales del partido | 10,9 | 10,9 | 10,0 | 10,6 |
-| Córners totales 1ª parte | 4,7 | 5,1 | 4,9 | 5,0 |
-| Córners totales 2ª parte | 6,2 | 5,7 | 5,1 | 5,6 |
-| Más de 8,5 córners | 73% | 71% | 79% | 86% |
-| Más de 9,5 córners | 60% | 57% | 64% | 71% |
-| Más de 10,5 córners | 47% | 43% | 36% | 43% |
-| Faltas cometidas | 11,0 | 12,3 | 11,8 | 10,9 |
-| Faltas recibidas | 12,3 | 11,9 | 11,5 | 10,6 |
+| Partidos analizados | 16 | 7 | 15 | 7 |
+| Forma (últimos 5) | VVDVV | VDVVV | EDDDV | DDVDE |
+| Balance | 10V 0E 6D | 6V 0E 1D | 5V 2E 8D | 2V 1E 4D |
+| Goles a favor / partido | 2,81 | 3,71 | 1,47 | 1,43 |
+| Goles en contra / partido | 1,62 | 0,71 | 2,13 | 1,86 |
+| Goles a favor 1ª parte | 0,94 | 1,43 | 0,47 | 0,57 |
+| Goles a favor 2ª parte | 1,88 | 2,29 | 1,00 | 0,86 |
+| Goles en contra 1ª parte | 0,75 | 0,29 | 0,80 | 0,71 |
+| Goles en contra 2ª parte | 0,88 | 0,43 | 1,33 | 1,14 |
+| Más de 1,5 goles | 94% | 86% | 87% | 86% |
+| Más de 2,5 goles | 81% | 86% | 73% | 86% |
+| Más de 3,5 goles | 69% | 71% | 33% | 43% |
+| Ambos marcan | 50% | 29% | 73% | 71% |
+| Portería a cero | 44% | 71% | 0% | 0% |
+| Se queda sin marcar | 6% | 0% | 27% | 29% |
+| xG a favor | 2,41 | 2,57 | 1,77 | 1,61 |
+| xG en contra | 1,71 | 1,41 | 1,85 | 1,98 |
+| Tiros / partido | 17,8 | 18,1 | 15,2 | 15,4 |
+| Tiros a puerta / partido | 6,8 | 7,6 | 5,7 | 5,4 |
+| Tiros recibidos | 13,1 | 12,0 | 12,3 | 13,6 |
+| Tiros a puerta recibidos | 5,9 | 5,1 | 5,3 | 5,7 |
+| Posesión media % | 54 | 51 | 51 | 50 |
+| Córners a favor | 5,6 | 4,9 | 6,1 | 6,1 |
+| Córners en contra | 5,4 | 6,0 | 4,1 | 4,4 |
+| Córners a favor 1ª parte | 2,4 | 2,0 | 2,9 | 2,7 |
+| Córners a favor 2ª parte | 3,2 | 2,9 | 3,2 | 3,4 |
+| Córners totales del partido | 10,9 | 10,9 | 10,3 | 10,6 |
+| Córners totales 1ª parte | 4,6 | 5,1 | 5,1 | 5,0 |
+| Córners totales 2ª parte | 6,3 | 5,7 | 5,2 | 5,6 |
+| Más de 8,5 córners | 75% | 71% | 80% | 86% |
+| Más de 9,5 córners | 62% | 57% | 67% | 71% |
+| Más de 10,5 córners | 50% | 43% | 40% | 43% |
+| Faltas cometidas | 11,1 | 12,3 | 11,7 | 10,9 |
+| Faltas recibidas | 12,1 | 11,9 | 11,7 | 10,6 |
 | Amarillas propias | 1,4 | 1,4 | 1,9 | 1,7 |
-| Amarillas del rival | 1,6 | 1,7 | 1,2 | 1,3 |
-| Rojas / partido | 0,07 | 0,00 | 0,14 | 0,00 |
+| Amarillas del rival | 1,6 | 1,7 | 1,3 | 1,3 |
+| Rojas / partido | 0,06 | 0,00 | 0,13 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles RB Leipzig | Recibe RB Leipzig | Tarjetas RB Leipzig | Goles Lens | Recibe Lens | Tarjetas Lens |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 5 | 2 | 2 | 2 | 1 |
-| 16-30' | 3 | 1 | 4 | 1 | 2 | 2 |
-| 31-45' | 7 | 5 | 3 | 4 | 7 | 3 |
-| 46-60' | 6 | 6 | 4 | 5 | 7 | 4 |
-| 61-75' | 7 | 2 | 5 | 4 | 6 | 5 |
-| 76-90' | 13 | 6 | 6 | 5 | 7 | 14 |
+| 1-15' | 4 | 5 | 4 | 2 | 2 | 1 |
+| 16-30' | 4 | 1 | 4 | 1 | 2 | 2 |
+| 31-45' | 7 | 6 | 3 | 4 | 8 | 4 |
+| 46-60' | 7 | 6 | 4 | 6 | 7 | 4 |
+| 61-75' | 8 | 2 | 5 | 4 | 6 | 6 |
+| 76-90' | 15 | 6 | 6 | 5 | 7 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -113,67 +113,67 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de RB Leipzig
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Bundesliga | Union Berlin 1-5 RB Leipzig | fuera | 8-4 | 32 (10) - 13 (8) | 2-2 |
 | 2026-11-07 | Bundesliga | RB Leipzig 5-2 FC Augsburg | casa | 2-2 | 17 (7) - 13 (8) | 1-2 |
 | 2026-11-04 | Champions League | RB Leipzig 2-3 Manchester City | casa | 5-3 | 14 (6) - 12 (5) | 4-2 |
 | 2026-10-31 | Bundesliga | FC Schalke 04 0-2 RB Leipzig | fuera | 7-3 | 18 (10) - 6 (1) | 0-2 |
 | 2026-10-27 | DFB-Pokal | Rot-Weiß Essen 1-2 RB Leipzig | fuera | 7-5 | 11 (2) - 9 (1) | 3-2 |
 | 2026-10-24 | Bundesliga | RB Leipzig 4-0 SV Elversberg | casa | 4-6 | 13 (6) - 5 (1) | 1-1 |
-| 2026-10-21 | Champions League | Real Madrid 4-1 RB Leipzig | fuera | 1-7 | 11 (6) - 18 (11) | 1-1 |
 
 ## Jugadores de RB Leipzig
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| W. Orbán | D | 15 | 1333 | 2 | 1 | 17 | 1,1 | 4 | 0,3 | 11 | 10 | 0,7 | 1 | 0 |
-| D. Raum | D | 14 | 1217 | 1 | 1 | 6 | 0,4 | 5 | 0,4 | 14 | 3 | 0,2 | 2 | 0 |
-| M. Vandevoordt | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| A. Nusa | M | 15 | 1097 | 6 | 8 | 32 | 2,1 | 17 | 1,1 | 6 | 21 | 1,4 | 3 | 0 |
-| E. Banzuzi | M | 14 | 1053 | 3 | 3 | 23 | 1,6 | 8 | 0,6 | 24 | 19 | 1,4 | 1 | 0 |
-| C. Lukeba | D | 12 | 1050 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 3 | 0,2 | 1 | 0 |
-| N. El Aynaoui | M | 13 | 1035 | 0 | 1 | 9 | 0,7 | 2 | 0,2 | 9 | 14 | 1,1 | 4 | 0 |
-| R. Baku | D | 13 | 864 | 4 | 0 | 16 | 1,2 | 10 | 0,8 | 12 | 14 | 1,1 | 1 | 0 |
-| B. Gruda | M | 13 | 832 | 2 | 5 | 17 | 1,3 | 9 | 0,7 | 13 | 21 | 1,6 | 0 | 0 |
-| T. Gomis | M | 15 | 744 | 4 | 3 | 26 | 1,7 | 10 | 0,7 | 5 | 15 | 1,0 | 0 | 0 |
-| C. Nkunku | M | 11 | 709 | 5 | 4 | 14 | 1,3 | 9 | 0,8 | 15 | 14 | 1,3 | 1 | 0 |
-| Rômulo | F | 11 | 703 | 5 | 0 | 16 | 1,5 | 10 | 0,9 | 8 | 11 | 1,0 | 0 | 0 |
-| N. Seiwald | M | 13 | 602 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 12 | 1 | 0,1 | 1 | 1 |
-| R. Reitz | M | 10 | 423 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 6 | 11 | 1,1 | 2 | 0 |
+| W. Orbán | D | 16 | 1423 | 2 | 1 | 19 | 1,2 | 4 | 0,2 | 12 | 11 | 0,7 | 1 | 0 |
+| D. Raum | D | 15 | 1307 | 1 | 2 | 6 | 0,4 | 5 | 0,3 | 14 | 3 | 0,2 | 2 | 0 |
+| M. Vandevoordt | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| A. Nusa | F | 16 | 1187 | 7 | 8 | 37 | 2,3 | 19 | 1,2 | 7 | 21 | 1,3 | 3 | 0 |
+| C. Lukeba | D | 13 | 1140 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 3 | 0,2 | 1 | 0 |
+| E. Banzuzi | M | 15 | 1114 | 3 | 3 | 23 | 1,5 | 8 | 0,5 | 26 | 21 | 1,4 | 2 | 0 |
+| N. El Aynaoui | M | 14 | 1105 | 0 | 1 | 11 | 0,8 | 2 | 0,1 | 10 | 15 | 1,1 | 4 | 0 |
+| R. Baku | D | 14 | 954 | 5 | 0 | 20 | 1,4 | 11 | 0,8 | 12 | 15 | 1,1 | 1 | 0 |
+| B. Gruda | F | 14 | 907 | 3 | 6 | 19 | 1,4 | 10 | 0,7 | 16 | 21 | 1,5 | 1 | 0 |
+| Rômulo | F | 12 | 773 | 6 | 0 | 21 | 1,8 | 13 | 1,1 | 9 | 11 | 0,9 | 0 | 0 |
+| T. Gomis | F | 16 | 764 | 4 | 4 | 31 | 1,9 | 10 | 0,6 | 5 | 15 | 0,9 | 0 | 0 |
+| C. Nkunku | F | 12 | 738 | 5 | 5 | 17 | 1,4 | 11 | 0,9 | 15 | 14 | 1,2 | 1 | 0 |
+| N. Seiwald | M | 14 | 631 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 13 | 1 | 0,1 | 1 | 1 |
+| R. Reitz | M | 11 | 443 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 6 | 12 | 1,1 | 2 | 0 |
 | B. Henrichs | D | 12 | 402 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 6 | 6 | 0,5 | 1 | 0 |
-| A. MaksimoviÄ | M | 8 | 332 | 2 | 1 | 4 | 0,5 | 3 | 0,4 | 2 | 0 | 0,0 | 0 | 0 |
+| A. MaksimoviÄ | M | 9 | 347 | 2 | 1 | 4 | 0,4 | 3 | 0,3 | 2 | 1 | 0,1 | 0 | 0 |
 | M. Estève | D | 5 | 300 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 2 | 0,4 | 0 | 0 |
+| C. Baumgartner | M | 7 | 230 | 4 | 1 | 12 | 1,7 | 5 | 0,7 | 5 | 2 | 0,3 | 2 | 0 |
 | Ø. Nyland | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 1 | 0 |
 | Max Finkgräfe | D | 5 | 171 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 5 | 1,0 | 0 | 0 |
-| C. Baumgartner | M | 6 | 169 | 4 | 1 | 9 | 1,5 | 5 | 0,8 | 4 | 0 | 0,0 | 2 | 0 |
 
 ## Últimos partidos de Lens
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Lens 1-1 Toulouse | casa | 9-5 | 22 (8) - 9 (5) | 2-2 |
 | 2026-11-08 | Ligue 1 | Lens 1-2 Marseille | casa | 4-6 | 13 (6) - 16 (5) | 1-2 |
 | 2026-11-04 | Champions League | Lens 1-9 Como | casa | 5-5 | 11 (3) - 18 (12) | 2-0 |
 | 2026-10-30 | Ligue 1 | Lille 1-0 Lens | fuera | 2-10 | 5 (3) - 16 (7) | 1-0 |
 | 2026-10-24 | Ligue 1 | Lens 2-1 Paris FC | casa | 6-1 | 9 (3) - 4 (1) | 3-3 |
 | 2026-10-21 | Champions League | Club Brugge KV 3-0 Lens | fuera | 5-1 | 19 (7) - 11 (5) | 2-2 |
-| 2026-10-17 | Ligue 1 | Estac Troyes 1-3 Lens | fuera | 4-6 | 13 (3) - 12 (5) | 2-2 |
 
 ## Jugadores de Lens
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Risser | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
-| F. Thauvin | M | 14 | 1159 | 6 | 8 | 33 | 2,4 | 21 | 1,5 | 12 | 18 | 1,3 | 4 | 0 |
-| M. Udol | M | 13 | 1098 | 2 | 0 | 18 | 1,4 | 7 | 0,5 | 9 | 9 | 0,7 | 1 | 1 |
-| R. Aguilar | D | 13 | 857 | 3 | 1 | 8 | 0,6 | 3 | 0,2 | 16 | 5 | 0,4 | 1 | 0 |
-| M. Cuisance | M | 12 | 841 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 16 | 4 | 0,3 | 3 | 0 |
+| R. Risser | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,1 | 0 | 0 |
+| F. Thauvin | F | 15 | 1249 | 6 | 8 | 36 | 2,4 | 21 | 1,4 | 13 | 21 | 1,4 | 5 | 0 |
+| M. Udol | M | 14 | 1188 | 2 | 0 | 22 | 1,6 | 8 | 0,6 | 9 | 12 | 0,9 | 1 | 1 |
+| R. Aguilar | M | 14 | 916 | 3 | 1 | 8 | 0,6 | 3 | 0,2 | 17 | 7 | 0,5 | 1 | 0 |
+| M. Cuisance | M | 13 | 900 | 1 | 0 | 8 | 0,6 | 3 | 0,2 | 16 | 5 | 0,4 | 3 | 0 |
+| A. Haidara | M | 14 | 801 | 0 | 0 | 9 | 0,6 | 3 | 0,2 | 12 | 7 | 0,5 | 2 | 0 |
 | K. Antonio | D | 11 | 785 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 8 | 16 | 1,5 | 0 | 0 |
-| A. Haidara | M | 13 | 770 | 0 | 0 | 9 | 0,7 | 3 | 0,2 | 10 | 7 | 0,5 | 1 | 0 |
-| Ismaelo Ganiou | D | 7 | 613 | 1 | 0 | 5 | 0,7 | 4 | 0,6 | 5 | 6 | 0,9 | 1 | 0 |
-| M. Skóraś | F | 12 | 589 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 10 | 12 | 1,0 | 3 | 0 |
-| Saud Abdulhamid | M | 8 | 546 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 7 | 11 | 1,4 | 1 | 0 |
-| S. Baidoo | D | 8 | 530 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 2 | 2 | 0,2 | 3 | 0 |
+| I. Ganiou | D | 8 | 631 | 1 | 0 | 6 | 0,8 | 5 | 0,6 | 5 | 6 | 0,8 | 1 | 0 |
+| S. Baidoo | D | 9 | 620 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 2 | 2 | 0,2 | 3 | 0 |
+| Y. Titraoui | M | 11 | 611 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 10 | 12 | 1,1 | 2 | 0 |
+| M. Skóraś | F | 13 | 590 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 10 | 12 | 0,9 | 3 | 0 |
+| Saud Abdulhamid | D | 9 | 577 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 8 | 11 | 1,2 | 1 | 0 |
 | F. Ivanović | F | 11 | 528 | 2 | 0 | 10 | 0,9 | 5 | 0,5 | 11 | 6 | 0,5 | 1 | 0 |
-| Y. Titraoui | M | 10 | 521 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 9 | 9 | 0,9 | 2 | 0 |
+| F. Sotoca | M | 9 | 524 | 1 | 1 | 12 | 1,3 | 5 | 0,6 | 7 | 6 | 0,7 | 0 | 0 |
+| A. Sima | F | 7 | 490 | 2 | 1 | 11 | 1,6 | 5 | 0,7 | 9 | 10 | 1,4 | 0 | 0 |
+| J. Todibo | D | 8 | 488 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 8 | 2 | 0,2 | 0 | 0 |
 | T. Hazard | F | 10 | 475 | 1 | 1 | 13 | 1,3 | 4 | 0,4 | 7 | 9 | 0,9 | 0 | 0 |
-| Abdallah Sima | F | 6 | 459 | 2 | 1 | 8 | 1,3 | 4 | 0,7 | 8 | 10 | 1,7 | 0 | 0 |
-| F. Sotoca | M | 8 | 435 | 1 | 1 | 9 | 1,1 | 3 | 0,4 | 5 | 6 | 0,8 | 0 | 0 |
-| J. Todibo | D | 7 | 398 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 8 | 1 | 0,1 | 0 | 0 |
 | A. Bulatović | M | 10 | 390 | 0 | 0 | 11 | 1,1 | 3 | 0,3 | 5 | 4 | 0,4 | 1 | 0 |
 | O. Édouard | F | 9 | 344 | 1 | 0 | 10 | 1,1 | 6 | 0,7 | 2 | 3 | 0,3 | 0 | 0 |
 | J. Kadile | F | 9 | 321 | 0 | 0 | 8 | 0,9 | 4 | 0,4 | 3 | 4 | 0,4 | 0 | 0 |

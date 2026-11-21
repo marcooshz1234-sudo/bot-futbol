@@ -1,7 +1,7 @@
 # Nice – Estac Troyes
 **Ligue 1** · Regular Season - 12 · 28/11/2026 20:45 (hora España) · Allianz Riviera
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:20_
@@ -51,53 +51,53 @@ _Actualizadas: 21/11 02:20_
 ## Estadísticas de equipo
 | | Nice (total) | Nice en casa | Estac Troyes (total) | Estac Troyes fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 5 | 11 | 5 |
-| Forma (últimos 5) | VVVDV | VVVEE | VDVED | DEDDV |
-| Balance | 5V 2E 3D | 3V 2E 0D | 3V 2E 6D | 1V 1E 3D |
-| Goles a favor / partido | 1,50 | 2,00 | 0,91 | 0,40 |
-| Goles en contra / partido | 1,20 | 1,00 | 1,64 | 1,20 |
-| Goles a favor 1ª parte | 0,80 | 1,20 | 0,55 | 0,40 |
-| Goles a favor 2ª parte | 0,70 | 0,80 | 0,36 | 0,00 |
-| Goles en contra 1ª parte | 0,70 | 0,60 | 0,73 | 0,60 |
-| Goles en contra 2ª parte | 0,50 | 0,40 | 0,91 | 0,60 |
-| Más de 1,5 goles | 80% | 80% | 73% | 60% |
-| Más de 2,5 goles | 60% | 60% | 36% | 20% |
-| Más de 3,5 goles | 10% | 20% | 27% | 0% |
-| Ambos marcan | 60% | 80% | 36% | 20% |
-| Portería a cero | 20% | 20% | 27% | 20% |
-| Se queda sin marcar | 30% | 20% | 55% | 80% |
-| xG a favor | 1,42 | 1,69 | 1,36 | 0,91 |
-| xG en contra | 1,64 | 1,49 | 1,47 | 1,57 |
-| Tiros / partido | 12,4 | 12,0 | 13,6 | 10,8 |
-| Tiros a puerta / partido | 4,4 | 4,2 | 3,6 | 1,8 |
-| Tiros recibidos | 12,7 | 13,6 | 10,8 | 12,4 |
+| Partidos analizados | 11 | 6 | 11 | 5 |
+| Forma (últimos 5) | DVVVD | DVVVE | VDVED | DEDDV |
+| Balance | 5V 2E 4D | 3V 2E 1D | 3V 2E 6D | 1V 1E 3D |
+| Goles a favor / partido | 1,55 | 2,00 | 0,91 | 0,40 |
+| Goles en contra / partido | 1,36 | 1,33 | 1,64 | 1,20 |
+| Goles a favor 1ª parte | 0,82 | 1,17 | 0,55 | 0,40 |
+| Goles a favor 2ª parte | 0,73 | 0,83 | 0,36 | 0,00 |
+| Goles en contra 1ª parte | 0,82 | 0,83 | 0,73 | 0,60 |
+| Goles en contra 2ª parte | 0,55 | 0,50 | 0,91 | 0,60 |
+| Más de 1,5 goles | 82% | 83% | 73% | 60% |
+| Más de 2,5 goles | 64% | 67% | 36% | 20% |
+| Más de 3,5 goles | 18% | 33% | 27% | 0% |
+| Ambos marcan | 64% | 83% | 36% | 20% |
+| Portería a cero | 18% | 17% | 27% | 20% |
+| Se queda sin marcar | 27% | 17% | 55% | 80% |
+| xG a favor | 1,37 | 1,55 | 1,36 | 0,91 |
+| xG en contra | 1,67 | 1,57 | 1,47 | 1,57 |
+| Tiros / partido | 11,6 | 10,7 | 13,6 | 10,8 |
+| Tiros a puerta / partido | 4,3 | 4,0 | 3,6 | 1,8 |
+| Tiros recibidos | 12,8 | 13,7 | 10,8 | 12,4 |
 | Tiros a puerta recibidos | 5,1 | 5,0 | 4,2 | 5,0 |
-| Posesión media % | 53 | 50 | 38 | 35 |
-| Córners a favor | 5,5 | 4,6 | 5,8 | 4,8 |
-| Córners en contra | 3,7 | 4,4 | 2,5 | 3,2 |
-| Córners a favor 1ª parte | 2,1 | 2,4 | 2,8 | 2,6 |
-| Córners a favor 2ª parte | 3,4 | 2,2 | 3,0 | 2,2 |
-| Córners totales del partido | 9,2 | 9,0 | 8,3 | 8,0 |
-| Córners totales 1ª parte | 3,7 | 4,8 | 4,5 | 4,4 |
-| Córners totales 2ª parte | 5,5 | 4,2 | 3,8 | 3,6 |
-| Más de 8,5 córners | 70% | 60% | 36% | 20% |
-| Más de 9,5 córners | 70% | 60% | 27% | 20% |
-| Más de 10,5 córners | 30% | 40% | 18% | 20% |
-| Faltas cometidas | 9,5 | 9,2 | 12,9 | 13,4 |
-| Faltas recibidas | 9,2 | 9,2 | 13,9 | 11,8 |
+| Posesión media % | 51 | 48 | 38 | 35 |
+| Córners a favor | 5,1 | 4,0 | 5,8 | 4,8 |
+| Córners en contra | 3,8 | 4,5 | 2,5 | 3,2 |
+| Córners a favor 1ª parte | 2,0 | 2,2 | 2,8 | 2,6 |
+| Córners a favor 2ª parte | 3,1 | 1,8 | 3,0 | 2,2 |
+| Córners totales del partido | 8,9 | 8,5 | 8,3 | 8,0 |
+| Córners totales 1ª parte | 3,6 | 4,5 | 4,5 | 4,4 |
+| Córners totales 2ª parte | 5,3 | 4,0 | 3,8 | 3,6 |
+| Más de 8,5 córners | 64% | 50% | 36% | 20% |
+| Más de 9,5 córners | 64% | 50% | 27% | 20% |
+| Más de 10,5 córners | 27% | 33% | 18% | 20% |
+| Faltas cometidas | 9,6 | 9,5 | 12,9 | 13,4 |
+| Faltas recibidas | 9,5 | 9,7 | 13,9 | 11,8 |
 | Amarillas propias | 2,3 | 2,2 | 1,8 | 1,2 |
-| Amarillas del rival | 1,4 | 1,4 | 2,1 | 2,2 |
+| Amarillas del rival | 1,3 | 1,2 | 2,1 | 2,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Nice | Recibe Nice | Tarjetas Nice | Goles Estac Troyes | Recibe Estac Troyes | Tarjetas Estac Troyes |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 3 | 2 | 1 | 2 | 0 |
+| 1-15' | 3 | 3 | 2 | 1 | 2 | 0 |
 | 16-30' | 2 | 1 | 1 | 3 | 1 | 2 |
-| 31-45' | 4 | 3 | 2 | 2 | 5 | 5 |
-| 46-60' | 1 | 2 | 3 | 0 | 5 | 3 |
-| 61-75' | 3 | 1 | 7 | 2 | 0 | 3 |
-| 76-90' | 3 | 2 | 9 | 2 | 5 | 7 |
+| 31-45' | 4 | 5 | 2 | 2 | 5 | 5 |
+| 46-60' | 1 | 2 | 4 | 0 | 5 | 3 |
+| 61-75' | 3 | 1 | 8 | 2 | 0 | 3 |
+| 76-90' | 4 | 3 | 9 | 2 | 5 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,36 +115,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Nice
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Nice 2-3 Paris Saint Germain | casa | 1-5 | 4 (3) - 14 (5) | 2-0 |
 | 2026-11-08 | Ligue 1 | Angers 0-2 Nice | fuera | 4-6 | 16 (8) - 12 (4) | 1-3 |
 | 2026-10-30 | Ligue 1 | Nice 5-2 Rennes | casa | 4-7 | 17 (8) - 18 (9) | 4-3 |
 | 2026-10-23 | Ligue 1 | Stade Brestois 29 1-2 Nice | fuera | 7-3 | 9 (2) - 13 (7) | 5-3 |
 | 2026-10-18 | Ligue 1 | Lyon 2-1 Nice | fuera | 9-1 | 12 (5) - 8 (4) | 4-0 |
 | 2026-10-11 | Ligue 1 | Nice 2-1 Strasbourg | casa | 2-3 | 11 (6) - 11 (3) | 1-1 |
-| 2026-09-20 | Ligue 1 | Nice 2-1 Lille | casa | 3-7 | 10 (4) - 21 (8) | 3-1 |
 
 ## Jugadores de Nice
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Y. Diouf | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
-| Y. Ndayishimiye | D | 10 | 868 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 5 | 0,5 | 3 | 0 |
-| J. Clauss | M | 10 | 837 | 3 | 1 | 16 | 1,6 | 8 | 0,8 | 3 | 4 | 0,4 | 0 | 0 |
-| X. Mandza Tsiendi | M | 9 | 760 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 3 | 0,3 | 1 | 0 |
+| Y. Diouf | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
+| Y. Ndayishimiye | D | 11 | 958 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 6 | 0,5 | 3 | 0 |
+| J. Clauss | M | 11 | 927 | 3 | 3 | 16 | 1,5 | 8 | 0,7 | 3 | 4 | 0,4 | 0 | 0 |
+| X. Mandza Tsiendi | D | 10 | 826 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 5 | 3 | 0,3 | 1 | 0 |
+| E. Wahi | F | 10 | 772 | 6 | 2 | 20 | 2,0 | 12 | 1,2 | 2 | 14 | 1,4 | 4 | 0 |
+| N. Nkounkou | M | 9 | 763 | 0 | 0 | 7 | 0,8 | 4 | 0,4 | 12 | 4 | 0,4 | 2 | 0 |
 | Mohamed Abdelmonem | D | 10 | 737 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 10 | 1,0 | 3 | 0 |
-| E. Wahi | F | 9 | 694 | 6 | 2 | 20 | 2,2 | 12 | 1,3 | 2 | 12 | 1,3 | 4 | 0 |
-| N. Nkounkou | M | 8 | 673 | 0 | 0 | 6 | 0,8 | 3 | 0,4 | 11 | 4 | 0,5 | 2 | 0 |
-| G. Hein | M | 10 | 661 | 0 | 3 | 5 | 0,5 | 3 | 0,3 | 3 | 4 | 0,4 | 0 | 0 |
-| D. Coulibaly | M | 9 | 630 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 11 | 6 | 0,7 | 1 | 0 |
-| M. Amoura | M | 8 | 624 | 2 | 2 | 17 | 2,1 | 6 | 0,8 | 9 | 3 | 0,4 | 3 | 0 |
-| A. Witsel | M | 8 | 589 | 0 | 0 | 6 | 0,8 | 2 | 0,2 | 2 | 9 | 1,1 | 0 | 0 |
-| S. Diop | M | 10 | 455 | 2 | 3 | 7 | 0,7 | 4 | 0,4 | 6 | 4 | 0,4 | 2 | 0 |
-| H. Boudaoui | M | 6 | 418 | 0 | 0 | 6 | 1,0 | 0 | 0,0 | 9 | 8 | 1,3 | 0 | 0 |
-| A. Seidu | D | 4 | 221 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 2 | 3 | 0,8 | 0 | 0 |
-| N. Ngoumou | F | 7 | 176 | 0 | 0 | 4 | 0,6 | 2 | 0,3 | 0 | 2 | 0,3 | 0 | 0 |
+| M. Amoura | M | 9 | 691 | 3 | 2 | 18 | 2,0 | 7 | 0,8 | 11 | 3 | 0,3 | 3 | 0 |
+| G. Hein | M | 11 | 684 | 0 | 3 | 5 | 0,5 | 3 | 0,3 | 3 | 4 | 0,4 | 0 | 0 |
+| A. Witsel | M | 9 | 667 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 2 | 9 | 1,0 | 0 | 0 |
+| D. Coulibaly | M | 10 | 642 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 11 | 7 | 0,7 | 1 | 0 |
+| S. Diop | M | 11 | 517 | 2 | 3 | 7 | 0,6 | 4 | 0,4 | 6 | 5 | 0,5 | 2 | 0 |
+| H. Boudaoui | M | 7 | 508 | 0 | 0 | 6 | 0,9 | 0 | 0,0 | 13 | 10 | 1,4 | 1 | 0 |
+| A. Seidu | D | 5 | 311 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 4 | 6 | 1,2 | 1 | 0 |
+| N. Ngoumou | F | 8 | 188 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 0 | 2 | 0,2 | 0 | 0 |
 | Melvin Bard | M | 2 | 172 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 2 | 1,0 | 0 | 0 |
 | Antoine Mendy | D | 3 | 124 | 0 | 0 | 1 | 0,3 | 0 | 0,0 | 1 | 2 | 0,7 | 0 | 0 |
 | Everton Pereira | M | 3 | 115 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 2 | 0,7 | 0 | 0 |
+| A. Abdi | D | 4 | 71 | 1 | 0 | 2 | 0,5 | 1 | 0,2 | 2 | 1 | 0,2 | 0 | 0 |
 | Zoumana Diallo | F | 1 | 60 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
-| H. Koutoune | D | 4 | 58 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 1 | 0,2 | 1 | 0 |
 
 ## Últimos partidos de Estac Troyes
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

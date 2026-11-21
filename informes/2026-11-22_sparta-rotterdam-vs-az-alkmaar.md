@@ -1,17 +1,17 @@
 # Sparta Rotterdam – AZ Alkmaar
 **Eredivisie** · Regular Season - 13 · 22/11/2026 14:30 (hora España) · Sparta Stadium Het Kasteel
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:03_
+_Actualizadas: 22/11 00:12_
 
 - **1X2:** 1 **4.33**  ·  X **4.00**  ·  2 **1.73**
 - **Doble oportunidad:** 1X **2.05**  ·  12 **1.22**  ·  X2 **1.20**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.48** · menos **2.60**
+    - 2,5: más **1.44** · menos **2.70**
     - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**
     - 5,5: más **6.50** · menos **1.11**

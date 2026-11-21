@@ -1,10 +1,10 @@
 # Leeds – Coventry
 **Premier League** · Regular Season - 12 · 28/11/2026 16:00 (hora España) · Elland Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 22/11 00:14_
 
 - **1X2:** 1 **1.55**  ·  X **4.00**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.38**
@@ -51,53 +51,53 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | Leeds (total) | Leeds en casa | Coventry (total) | Coventry fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 5 | 12 | 6 |
-| Forma (últimos 5) | VDEED | VEEVE | DVDDV | DDVDV |
-| Balance | 4V 5E 3D | 2V 3E 0D | 4V 0E 8D | 2V 0E 4D |
-| Goles a favor / partido | 1,25 | 1,40 | 1,25 | 1,17 |
-| Goles en contra / partido | 1,17 | 0,60 | 2,00 | 2,00 |
-| Goles a favor 1ª parte | 0,42 | 0,60 | 0,50 | 0,33 |
-| Goles a favor 2ª parte | 0,83 | 0,80 | 0,75 | 0,83 |
-| Goles en contra 1ª parte | 0,25 | 0,40 | 0,67 | 0,83 |
-| Goles en contra 2ª parte | 0,92 | 0,20 | 1,33 | 1,17 |
-| Más de 1,5 goles | 67% | 60% | 67% | 67% |
-| Más de 2,5 goles | 25% | 20% | 67% | 67% |
-| Más de 3,5 goles | 17% | 20% | 58% | 50% |
-| Ambos marcan | 50% | 60% | 50% | 50% |
-| Portería a cero | 42% | 40% | 8% | 17% |
-| Se queda sin marcar | 25% | 20% | 42% | 33% |
-| xG a favor | 1,45 | 1,68 | 0,99 | 0,89 |
-| xG en contra | 1,27 | 1,07 | 1,60 | 1,66 |
-| Tiros / partido | 12,6 | 13,4 | 11,6 | 10,8 |
-| Tiros a puerta / partido | 4,0 | 3,8 | 3,6 | 2,8 |
-| Tiros recibidos | 13,0 | 12,2 | 16,3 | 17,0 |
-| Tiros a puerta recibidos | 4,5 | 4,2 | 4,9 | 5,0 |
-| Posesión media % | 49 | 50 | 42 | 42 |
-| Córners a favor | 4,2 | 4,4 | 3,4 | 3,0 |
-| Córners en contra | 3,9 | 4,2 | 4,8 | 4,5 |
-| Córners a favor 1ª parte | 1,8 | 1,6 | 1,6 | 1,5 |
-| Córners a favor 2ª parte | 2,4 | 2,8 | 1,8 | 1,5 |
-| Córners totales del partido | 8,1 | 8,6 | 8,2 | 7,5 |
-| Córners totales 1ª parte | 3,4 | 3,6 | 3,9 | 3,7 |
-| Córners totales 2ª parte | 4,7 | 5,0 | 4,2 | 3,8 |
-| Más de 8,5 córners | 42% | 60% | 33% | 33% |
-| Más de 9,5 córners | 33% | 60% | 25% | 17% |
-| Más de 10,5 córners | 17% | 20% | 8% | 0% |
-| Faltas cometidas | 12,6 | 10,0 | 11,5 | 12,2 |
-| Faltas recibidas | 11,8 | 11,6 | 11,7 | 12,5 |
-| Amarillas propias | 1,8 | 1,4 | 1,3 | 1,5 |
-| Amarillas del rival | 2,3 | 2,8 | 1,4 | 1,2 |
+| Partidos analizados | 13 | 5 | 13 | 6 |
+| Forma (últimos 5) | VVDEE | VEEVE | VDVDD | DDVDV |
+| Balance | 5V 5E 3D | 2V 3E 0D | 5V 0E 8D | 2V 0E 4D |
+| Goles a favor / partido | 1,46 | 1,40 | 1,38 | 1,17 |
+| Goles en contra / partido | 1,15 | 0,60 | 2,00 | 2,00 |
+| Goles a favor 1ª parte | 0,46 | 0,60 | 0,62 | 0,33 |
+| Goles a favor 2ª parte | 1,00 | 0,80 | 0,77 | 0,83 |
+| Goles en contra 1ª parte | 0,31 | 0,40 | 0,77 | 0,83 |
+| Goles en contra 2ª parte | 0,85 | 0,20 | 1,23 | 1,17 |
+| Más de 1,5 goles | 69% | 60% | 69% | 67% |
+| Más de 2,5 goles | 31% | 20% | 69% | 67% |
+| Más de 3,5 goles | 23% | 20% | 62% | 50% |
+| Ambos marcan | 54% | 60% | 54% | 50% |
+| Portería a cero | 38% | 40% | 8% | 17% |
+| Se queda sin marcar | 23% | 20% | 38% | 33% |
+| xG a favor | 1,57 | 1,68 | 1,10 | 0,89 |
+| xG en contra | 1,22 | 1,07 | 1,62 | 1,66 |
+| Tiros / partido | 13,2 | 13,4 | 11,5 | 10,8 |
+| Tiros a puerta / partido | 4,3 | 3,8 | 3,8 | 2,8 |
+| Tiros recibidos | 13,1 | 12,2 | 16,2 | 17,0 |
+| Tiros a puerta recibidos | 4,4 | 4,2 | 4,9 | 5,0 |
+| Posesión media % | 48 | 50 | 42 | 42 |
+| Córners a favor | 4,0 | 4,4 | 3,5 | 3,0 |
+| Córners en contra | 3,8 | 4,2 | 4,8 | 4,5 |
+| Córners a favor 1ª parte | 1,7 | 1,6 | 1,5 | 1,5 |
+| Córners a favor 2ª parte | 2,3 | 2,8 | 1,9 | 1,5 |
+| Córners totales del partido | 7,8 | 8,6 | 8,3 | 7,5 |
+| Córners totales 1ª parte | 3,2 | 3,6 | 3,8 | 3,7 |
+| Córners totales 2ª parte | 4,6 | 5,0 | 4,5 | 3,8 |
+| Más de 8,5 córners | 38% | 60% | 38% | 33% |
+| Más de 9,5 córners | 31% | 60% | 31% | 17% |
+| Más de 10,5 córners | 15% | 20% | 8% | 0% |
+| Faltas cometidas | 12,8 | 10,0 | 11,5 | 12,2 |
+| Faltas recibidas | 11,3 | 11,6 | 11,8 | 12,5 |
+| Amarillas propias | 1,9 | 1,4 | 1,3 | 1,5 |
+| Amarillas del rival | 2,2 | 2,8 | 1,5 | 1,2 |
 | Rojas / partido | 0,00 | 0,00 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Leeds | Recibe Leeds | Tarjetas Leeds | Goles Coventry | Recibe Coventry | Tarjetas Coventry |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 0 | 1 | 3 | 3 | 2 |
-| 16-30' | 1 | 0 | 4 | 2 | 3 | 4 |
-| 31-45' | 3 | 3 | 7 | 1 | 2 | 1 |
-| 46-60' | 5 | 3 | 1 | 5 | 6 | 3 |
-| 61-75' | 2 | 4 | 5 | 1 | 4 | 2 |
-| 76-90' | 3 | 4 | 5 | 3 | 6 | 5 |
+| 1-15' | 1 | 0 | 1 | 4 | 4 | 2 |
+| 16-30' | 2 | 1 | 4 | 3 | 3 | 4 |
+| 31-45' | 3 | 3 | 8 | 1 | 3 | 2 |
+| 46-60' | 7 | 3 | 1 | 5 | 6 | 3 |
+| 61-75' | 2 | 4 | 6 | 1 | 4 | 3 |
+| 76-90' | 4 | 4 | 6 | 4 | 6 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,67 +115,67 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Leeds
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Premier League | Chelsea 1-4 Leeds | fuera | 2-3 | 21 (8) - 14 (3) | 3-1 |
 | 2026-11-07 | Premier League | Leeds 1-0 Tottenham | casa | 6-4 | 16 (4) - 7 (4) | 2-3 |
 | 2026-10-31 | Premier League | Bournemouth 2-0 Leeds | fuera | 4-4 | 10 (1) - 11 (5) | 2-2 |
 | 2026-10-25 | Premier League | Sunderland 0-0 Leeds | fuera | 5-4 | 11 (4) - 15 (4) | 2-1 |
 | 2026-10-18 | Premier League | Leeds 1-1 Manchester United | casa | 2-3 | 12 (5) - 13 (3) | 2-2 |
 | 2026-10-10 | Premier League | Arsenal 2-1 Leeds | fuera | 4-2 | 11 (5) - 13 (6) | 4-1 |
-| 2026-09-20 | Premier League | Leeds 0-0 Crystal Palace | casa | 4-3 | 13 (2) - 12 (4) | 2-3 |
 
 ## Jugadores de Leeds
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| E. Ampadu | M | 12 | 1080 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 21 | 12 | 1,0 | 5 | 0 |
-| T. Muharemović | D | 12 | 1080 | 1 | 2 | 8 | 0,7 | 4 | 0,3 | 7 | 9 | 0,8 | 1 | 0 |
-| J. Justin | D | 12 | 1063 | 2 | 0 | 9 | 0,8 | 4 | 0,3 | 10 | 14 | 1,2 | 1 | 0 |
-| J. Trafford | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| D. Calvert-Lewin | F | 12 | 904 | 4 | 1 | 18 | 1,5 | 11 | 0,9 | 20 | 10 | 0,8 | 3 | 0 |
-| J. Bogle | M | 11 | 833 | 2 | 0 | 11 | 1,0 | 6 | 0,5 | 15 | 16 | 1,5 | 3 | 0 |
-| N. Elvedi | D | 9 | 772 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 6 | 5 | 0,6 | 1 | 0 |
-| A. Tanaka | M | 11 | 732 | 0 | 1 | 15 | 1,4 | 3 | 0,3 | 13 | 8 | 0,7 | 3 | 0 |
-| A. Stach | M | 11 | 723 | 1 | 0 | 12 | 1,1 | 3 | 0,3 | 14 | 11 | 1,0 | 0 | 0 |
-| G. Gudmundsson | M | 9 | 643 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 9 | 12 | 1,3 | 1 | 0 |
-| N. Okafor | F | 11 | 576 | 2 | 1 | 7 | 0,6 | 2 | 0,2 | 3 | 8 | 0,7 | 1 | 0 |
-| H. Wilson | F | 10 | 441 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 5 | 5 | 0,5 | 1 | 0 |
-| B. Aaronson | M | 10 | 375 | 1 | 0 | 4 | 0,4 | 3 | 0,3 | 5 | 8 | 0,8 | 0 | 0 |
+| E. Ampadu | M | 13 | 1170 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 22 | 12 | 0,9 | 5 | 0 |
+| T. Muharemović | D | 13 | 1170 | 1 | 2 | 8 | 0,6 | 4 | 0,3 | 7 | 9 | 0,7 | 1 | 0 |
+| J. Justin | D | 13 | 1153 | 2 | 0 | 9 | 0,7 | 4 | 0,3 | 12 | 14 | 1,1 | 1 | 0 |
+| J. Trafford | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| D. Calvert-Lewin | F | 13 | 994 | 5 | 2 | 24 | 1,8 | 14 | 1,1 | 22 | 10 | 0,8 | 3 | 0 |
+| J. Bogle | M | 12 | 919 | 2 | 0 | 14 | 1,2 | 6 | 0,5 | 19 | 17 | 1,4 | 4 | 0 |
+| N. Elvedi | D | 10 | 862 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 6 | 5 | 0,5 | 1 | 0 |
+| A. Tanaka | M | 12 | 818 | 0 | 1 | 18 | 1,5 | 4 | 0,3 | 17 | 9 | 0,8 | 3 | 0 |
+| G. Gudmundsson | M | 10 | 732 | 0 | 1 | 6 | 0,6 | 1 | 0,1 | 10 | 13 | 1,3 | 2 | 0 |
+| A. Stach | M | 12 | 727 | 1 | 0 | 12 | 1,0 | 3 | 0,2 | 14 | 11 | 0,9 | 0 | 0 |
+| N. Okafor | M | 12 | 649 | 4 | 1 | 10 | 0,8 | 4 | 0,3 | 4 | 9 | 0,8 | 1 | 0 |
+| H. Wilson | F | 11 | 442 | 0 | 2 | 3 | 0,3 | 0 | 0,0 | 5 | 5 | 0,5 | 1 | 0 |
+| B. Aaronson | M | 11 | 392 | 2 | 0 | 5 | 0,5 | 4 | 0,4 | 5 | 9 | 0,8 | 0 | 0 |
+| S. Longstaff | M | 9 | 357 | 0 | 1 | 7 | 0,8 | 5 | 0,6 | 4 | 2 | 0,2 | 3 | 0 |
 | J. Bijol | D | 6 | 354 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 1 | 0,2 | 0 | 0 |
 | L. Nmecha | M | 11 | 347 | 0 | 2 | 9 | 0,8 | 1 | 0,1 | 2 | 11 | 1,0 | 0 | 0 |
-| S. Longstaff | M | 8 | 268 | 0 | 1 | 6 | 0,8 | 4 | 0,5 | 3 | 2 | 0,2 | 2 | 0 |
 | D. James | M | 6 | 259 | 1 | 0 | 6 | 1,0 | 2 | 0,3 | 7 | 2 | 0,3 | 0 | 0 |
-| J. Rodon | D | 4 | 215 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,5 | 0 | 0 |
-| M. Bard | D | 3 | 141 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
+| J. Rodon | D | 5 | 219 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 2 | 0,4 | 0 | 0 |
+| M. Bard | D | 4 | 142 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
 | M. Zetterer | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 1,0 | 0 | 0 |
 
 ## Últimos partidos de Coventry
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Premier League | Coventry 3-2 Crystal Palace | casa | 4-6 | 11 (7) - 14 (5) | 1-2 |
 | 2026-11-06 | Premier League | Everton 3-1 Coventry | fuera | 2-2 | 15 (4) - 16 (7) | 1-1 |
 | 2026-10-31 | Premier League | Coventry 3-1 Sunderland | casa | 4-4 | 12 (4) - 17 (2) | 2-0 |
 | 2026-10-24 | Premier League | Coventry 0-1 Fulham | casa | 4-6 | 13 (2) - 12 (3) | 0-2 |
 | 2026-10-19 | Premier League | Tottenham 3-1 Coventry | fuera | 4-4 | 12 (1) - 16 (5) | 3-1 |
 | 2026-10-12 | Premier League | Coventry 4-1 Newcastle | casa | 2-6 | 9 (6) - 19 (6) | 1-1 |
-| 2026-09-19 | Premier League | Nottingham Forest 0-1 Coventry | fuera | 2-6 | 10 (3) - 24 (3) | 0-2 |
 
 ## Jugadores de Coventry
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Rushworth | G | 10 | 900 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| C. Rushworth | G | 11 | 990 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| B. Thomas | D | 11 | 903 | 0 | 0 | 12 | 1,1 | 0 | 0,0 | 8 | 11 | 1,0 | 0 | 0 |
+| M. van Ewijk | D | 10 | 900 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 6 | 0,6 | 2 | 0 |
+| E. Pinnock | D | 11 | 900 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 2 | 3 | 0,3 | 1 | 0 |
 | J. Dasilva | D | 10 | 895 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 5 | 1 | 0,1 | 1 | 0 |
-| B. Thomas | D | 10 | 813 | 0 | 0 | 12 | 1,2 | 0 | 0,0 | 7 | 9 | 0,9 | 0 | 0 |
-| E. Pinnock | D | 10 | 810 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 2 | 2 | 0,2 | 1 | 0 |
-| M. van Ewijk | D | 9 | 810 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 6 | 0,7 | 2 | 0 |
-| J. Rudoni | M | 11 | 799 | 4 | 0 | 18 | 1,6 | 7 | 0,6 | 12 | 14 | 1,3 | 1 | 0 |
+| J. Rudoni | M | 12 | 889 | 4 | 2 | 19 | 1,6 | 8 | 0,7 | 13 | 16 | 1,3 | 1 | 0 |
 | Caleb Marfo Yirenkyi | M | 12 | 794 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 27 | 13 | 1,1 | 4 | 0 |
-| M. Grimes | M | 10 | 718 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 5 | 0,5 | 0 | 0 |
-| T. Sakamoto | M | 8 | 547 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 11 | 10 | 1,2 | 1 | 0 |
-| B. Thomas-Asante | F | 11 | 518 | 0 | 2 | 12 | 1,1 | 4 | 0,4 | 4 | 20 | 1,8 | 0 | 0 |
-| T. Awoniyi | F | 9 | 516 | 2 | 1 | 12 | 1,3 | 4 | 0,4 | 5 | 4 | 0,4 | 0 | 1 |
-| V. Torp | M | 8 | 421 | 2 | 2 | 10 | 1,2 | 4 | 0,5 | 4 | 2 | 0,2 | 1 | 0 |
+| M. Grimes | M | 11 | 789 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 8 | 6 | 0,5 | 1 | 0 |
+| T. Sakamoto | M | 9 | 637 | 2 | 0 | 7 | 0,8 | 3 | 0,3 | 13 | 12 | 1,3 | 1 | 0 |
+| T. Awoniyi | F | 10 | 561 | 3 | 1 | 14 | 1,4 | 6 | 0,6 | 6 | 4 | 0,4 | 0 | 1 |
+| B. Thomas-Asante | F | 12 | 538 | 0 | 2 | 14 | 1,2 | 5 | 0,4 | 4 | 21 | 1,8 | 0 | 0 |
+| V. Torp | M | 9 | 492 | 2 | 2 | 11 | 1,2 | 5 | 0,6 | 5 | 3 | 0,3 | 1 | 0 |
+| S. Mfuni | D | 7 | 475 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 7 | 4 | 0,6 | 1 | 0 |
+| F. Onyeka | M | 9 | 417 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 10 | 10 | 1,1 | 1 | 0 |
 | A. Amenda | D | 6 | 417 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 0 | 0,0 | 1 | 0 |
-| F. Onyeka | M | 8 | 398 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 9 | 10 | 1,2 | 1 | 0 |
-| S. Mfuni | D | 6 | 385 | 1 | 0 | 6 | 1,0 | 3 | 0,5 | 6 | 3 | 0,5 | 1 | 0 |
+| S. Cherif | F | 9 | 379 | 1 | 0 | 9 | 1,0 | 3 | 0,3 | 1 | 8 | 0,9 | 0 | 0 |
 | E. Mason-Clark | M | 8 | 358 | 1 | 0 | 3 | 0,4 | 3 | 0,4 | 8 | 7 | 0,9 | 0 | 0 |
-| S. Cherif | F | 8 | 334 | 1 | 0 | 9 | 1,1 | 3 | 0,4 | 1 | 8 | 1,0 | 0 | 0 |
+| Y. Gboho | M | 4 | 305 | 1 | 0 | 8 | 2,0 | 4 | 1,0 | 5 | 8 | 2,0 | 0 | 0 |
 | L. Tchaouna | F | 6 | 250 | 0 | 0 | 6 | 1,0 | 3 | 0,5 | 1 | 3 | 0,5 | 0 | 0 |
-| Y. Gboho | M | 3 | 235 | 1 | 0 | 7 | 2,3 | 4 | 1,3 | 4 | 6 | 2,0 | 0 | 0 |
-| G. Hamer | M | 8 | 218 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 2 | 0,2 | 0 | 0 |
+| G. Hamer | M | 9 | 237 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 2 | 0,2 | 0 | 0 |

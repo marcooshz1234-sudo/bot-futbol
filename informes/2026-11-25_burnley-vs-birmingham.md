@@ -1,7 +1,7 @@
 # Burnley – Birmingham
 **Championship** · Regular Season - 17 · 25/11/2026 20:45 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,40 +9,40 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Burnley (total) | Burnley en casa | Birmingham (total) | Birmingham fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 17 | 8 |
-| Forma (últimos 5) | DEEDD | EDEED | VVVDV | VDVVD |
-| Balance | 1V 9E 7D | 0V 6E 2D | 9V 5E 3D | 5V 1E 2D |
-| Goles a favor / partido | 1,35 | 1,12 | 1,76 | 1,25 |
-| Goles en contra / partido | 1,88 | 1,38 | 1,18 | 0,75 |
-| Goles a favor 1ª parte | 0,76 | 0,38 | 1,00 | 0,62 |
-| Goles a favor 2ª parte | 0,59 | 0,75 | 0,76 | 0,62 |
-| Goles en contra 1ª parte | 0,71 | 0,50 | 0,71 | 0,50 |
-| Goles en contra 2ª parte | 1,18 | 0,88 | 0,47 | 0,25 |
-| Más de 1,5 goles | 88% | 88% | 76% | 50% |
-| Más de 2,5 goles | 59% | 50% | 71% | 50% |
-| Más de 3,5 goles | 47% | 25% | 35% | 12% |
-| Ambos marcan | 82% | 88% | 59% | 50% |
-| Portería a cero | 18% | 12% | 35% | 38% |
-| Se queda sin marcar | 12% | 12% | 12% | 25% |
-| xG a favor | 1,38 | 1,09 | 1,71 | 1,82 |
-| xG en contra | 1,77 | 1,40 | 1,36 | 1,27 |
-| Tiros / partido | 13,9 | 13,1 | 13,5 | 12,1 |
-| Tiros a puerta / partido | 4,2 | 3,5 | 4,8 | 4,4 |
-| Tiros recibidos | 14,6 | 11,8 | 12,5 | 12,6 |
-| Tiros a puerta recibidos | 5,1 | 3,6 | 3,8 | 3,6 |
-| Posesión media % | 50 | 51 | 51 | 46 |
-| Córners a favor | 5,1 | 4,8 | 5,4 | 5,5 |
-| Córners en contra | 4,6 | 4,9 | 4,5 | 5,0 |
-| Córners a favor 1ª parte | 2,5 | 2,2 | 2,5 | 3,1 |
-| Córners a favor 2ª parte | 2,6 | 2,5 | 2,9 | 2,4 |
-| Córners totales del partido | 9,7 | 9,6 | 9,8 | 10,5 |
-| Córners totales 1ª parte | 4,5 | 4,5 | 4,4 | 4,9 |
-| Córners totales 2ª parte | 5,2 | 5,1 | 5,4 | 5,6 |
-| Más de 8,5 córners | 59% | 62% | 65% | 75% |
-| Más de 9,5 córners | 35% | 50% | 53% | 62% |
-| Más de 10,5 córners | 29% | 38% | 35% | 38% |
-| Faltas cometidas | 9,8 | 10,1 | 12,4 | 13,2 |
-| Faltas recibidas | 9,4 | 10,1 | 10,4 | 10,5 |
+| Partidos analizados | 17 | 8 | 18 | 9 |
+| Forma (últimos 5) | DEEDD | EDEED | DVVVD | DVDVV |
+| Balance | 1V 9E 7D | 0V 6E 2D | 9V 5E 4D | 5V 1E 3D |
+| Goles a favor / partido | 1,35 | 1,12 | 1,67 | 1,11 |
+| Goles en contra / partido | 1,88 | 1,38 | 1,17 | 0,78 |
+| Goles a favor 1ª parte | 0,76 | 0,38 | 0,94 | 0,56 |
+| Goles a favor 2ª parte | 0,59 | 0,75 | 0,72 | 0,56 |
+| Goles en contra 1ª parte | 0,71 | 0,50 | 0,67 | 0,44 |
+| Goles en contra 2ª parte | 1,18 | 0,88 | 0,50 | 0,33 |
+| Más de 1,5 goles | 88% | 88% | 72% | 44% |
+| Más de 2,5 goles | 59% | 50% | 67% | 44% |
+| Más de 3,5 goles | 47% | 25% | 33% | 11% |
+| Ambos marcan | 82% | 88% | 56% | 44% |
+| Portería a cero | 18% | 12% | 33% | 33% |
+| Se queda sin marcar | 12% | 12% | 17% | 33% |
+| xG a favor | 1,38 | 1,09 | 1,66 | 1,69 |
+| xG en contra | 1,77 | 1,40 | 1,36 | 1,29 |
+| Tiros / partido | 13,9 | 13,1 | 13,3 | 12,0 |
+| Tiros a puerta / partido | 4,2 | 3,5 | 4,7 | 4,3 |
+| Tiros recibidos | 14,6 | 11,8 | 12,7 | 12,9 |
+| Tiros a puerta recibidos | 5,1 | 3,6 | 3,9 | 3,8 |
+| Posesión media % | 50 | 51 | 51 | 47 |
+| Córners a favor | 5,1 | 4,8 | 5,3 | 5,3 |
+| Córners en contra | 4,6 | 4,9 | 4,6 | 5,2 |
+| Córners a favor 1ª parte | 2,5 | 2,2 | 2,4 | 3,0 |
+| Córners a favor 2ª parte | 2,6 | 2,5 | 2,8 | 2,3 |
+| Córners totales del partido | 9,7 | 9,6 | 9,9 | 10,6 |
+| Córners totales 1ª parte | 4,5 | 4,5 | 4,7 | 5,3 |
+| Córners totales 2ª parte | 5,2 | 5,1 | 5,2 | 5,2 |
+| Más de 8,5 córners | 59% | 62% | 67% | 78% |
+| Más de 9,5 córners | 35% | 50% | 56% | 67% |
+| Más de 10,5 córners | 29% | 38% | 39% | 44% |
+| Faltas cometidas | 9,8 | 10,1 | 12,3 | 13,0 |
+| Faltas recibidas | 9,4 | 10,1 | 10,5 | 10,7 |
 | Amarillas propias | 1,8 | 2,0 | 1,9 | 1,9 |
 | Amarillas del rival | 1,9 | 1,9 | 1,7 | 2,0 |
 | Rojas / partido | 0,06 | 0,00 | 0,00 | 0,00 |
@@ -52,8 +52,8 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 4 | 1 | 2 | 2 | 1 |
 | 16-30' | 6 | 3 | 3 | 7 | 1 | 5 |
-| 31-45' | 4 | 5 | 3 | 8 | 9 | 6 |
-| 46-60' | 6 | 5 | 2 | 5 | 1 | 9 |
+| 31-45' | 4 | 5 | 3 | 8 | 9 | 7 |
+| 46-60' | 6 | 5 | 2 | 5 | 2 | 10 |
 | 61-75' | 1 | 9 | 7 | 4 | 4 | 3 |
 | 76-90' | 3 | 6 | 15 | 4 | 3 | 10 |
 
@@ -107,33 +107,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Birmingham
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Championship | Stoke City 1-0 Birmingham | fuera | 4-7 | 11 (4) - 15 (5) | 2-2 |
 | 2026-11-07 | Championship | Birmingham 2-1 Swansea | casa | 8-5 | 21 (8) - 8 (3) | 2-2 |
 | 2026-11-03 | Championship | Birmingham 3-0 Millwall | casa | 6-2 | 19 (8) - 15 (2) | 1-1 |
 | 2026-10-31 | Championship | Lincoln 1-3 Birmingham | fuera | 3-3 | 17 (7) - 12 (6) | 2-3 |
 | 2026-10-24 | Championship | Cardiff 1-0 Birmingham | fuera | 3-3 | 7 (2) - 16 (4) | 2-1 |
 | 2026-10-17 | Championship | Birmingham 3-0 QPR | casa | 0-4 | 11 (5) - 12 (4) | 2-2 |
-| 2026-10-13 | Championship | Birmingham 4-0 Preston | casa | 6-3 | 19 (7) - 6 (1) | 1-2 |
 
 ## Jugadores de Birmingham
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C. Klarer | D | 17 | 1536 | 0 | 1 | 6 | 0,4 | 1 | 0,1 | 23 | 13 | 0,8 | 3 | 0 |
-| P. Neumann | D | 17 | 1461 | 2 | 0 | 10 | 0,6 | 4 | 0,2 | 15 | 17 | 1,0 | 3 | 0 |
-| T. Iwata | M | 17 | 1431 | 0 | 2 | 15 | 0,9 | 1 | 0,1 | 18 | 1 | 0,1 | 0 | 0 |
-| J. Stansfield | F | 17 | 1376 | 4 | 1 | 34 | 2,0 | 20 | 1,2 | 34 | 3 | 0,2 | 2 | 0 |
-| A. Cochrane | D | 17 | 1362 | 2 | 2 | 6 | 0,4 | 3 | 0,2 | 15 | 17 | 1,0 | 4 | 0 |
-| J. Beadle | G | 14 | 1221 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 8 | 0,6 | 0 | 0 |
+| C. Klarer | D | 18 | 1626 | 0 | 1 | 6 | 0,3 | 1 | 0,1 | 25 | 14 | 0,8 | 4 | 0 |
+| P. Neumann | D | 18 | 1543 | 2 | 0 | 11 | 0,6 | 5 | 0,3 | 17 | 17 | 0,9 | 3 | 0 |
+| T. Iwata | M | 18 | 1521 | 0 | 2 | 15 | 0,8 | 1 | 0,1 | 19 | 1 | 0,1 | 0 | 0 |
+| J. Stansfield | M | 18 | 1466 | 4 | 1 | 36 | 2,0 | 21 | 1,2 | 35 | 3 | 0,2 | 3 | 0 |
+| A. Cochrane | D | 18 | 1452 | 2 | 2 | 6 | 0,3 | 3 | 0,2 | 15 | 17 | 0,9 | 4 | 0 |
+| J. Beadle | G | 15 | 1311 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 9 | 0,6 | 0 | 0 |
 | B. Osayi-Samuel | D | 16 | 1212 | 0 | 0 | 4 | 0,2 | 0 | 0,0 | 14 | 21 | 1,3 | 5 | 0 |
 | J. Solis | M | 15 | 1197 | 0 | 2 | 11 | 0,7 | 3 | 0,2 | 17 | 11 | 0,7 | 4 | 0 |
-| Carlos Vicente | F | 16 | 1032 | 2 | 1 | 16 | 1,0 | 4 | 0,2 | 14 | 23 | 1,4 | 3 | 0 |
-| A. Priske | F | 13 | 982 | 7 | 1 | 24 | 1,8 | 14 | 1,1 | 22 | 13 | 1,0 | 1 | 0 |
-| L. Millar | M | 11 | 800 | 4 | 3 | 16 | 1,5 | 10 | 0,9 | 3 | 12 | 1,1 | 2 | 0 |
-| P. Roberts | M | 12 | 624 | 0 | 3 | 6 | 0,5 | 2 | 0,2 | 6 | 11 | 0,9 | 1 | 0 |
-| Paik Seung-Ho | M | 11 | 551 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 3 | 2 | 0,2 | 0 | 0 |
-| D. Gray | F | 14 | 377 | 4 | 0 | 10 | 0,7 | 7 | 0,5 | 5 | 5 | 0,4 | 0 | 0 |
-| E. Laird | D | 12 | 372 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 7 | 4 | 0,3 | 2 | 0 |
+| Carlos Vicente | F | 17 | 1046 | 2 | 1 | 16 | 0,9 | 4 | 0,2 | 14 | 23 | 1,4 | 3 | 0 |
+| A. Priske | F | 14 | 1046 | 7 | 1 | 24 | 1,7 | 14 | 1,0 | 23 | 13 | 0,9 | 1 | 0 |
+| L. Millar | M | 12 | 863 | 4 | 3 | 16 | 1,3 | 10 | 0,8 | 3 | 13 | 1,1 | 2 | 0 |
+| P. Roberts | M | 13 | 714 | 0 | 3 | 7 | 0,5 | 3 | 0,2 | 6 | 14 | 1,1 | 1 | 0 |
+| Paik Seung-Ho | M | 12 | 628 | 1 | 1 | 4 | 0,3 | 1 | 0,1 | 3 | 2 | 0,2 | 0 | 0 |
+| E. Laird | D | 13 | 448 | 0 | 0 | 8 | 0,6 | 2 | 0,2 | 10 | 10 | 0,8 | 2 | 0 |
+| D. Gray | F | 15 | 404 | 4 | 0 | 11 | 0,7 | 7 | 0,5 | 6 | 5 | 0,3 | 0 | 0 |
+| L. Vázquez | F | 15 | 321 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 6 | 5 | 0,3 | 2 | 0 |
+| M. Bird | M | 9 | 319 | 1 | 3 | 7 | 0,8 | 6 | 0,7 | 4 | 3 | 0,3 | 0 | 0 |
 | R. Allsop | G | 4 | 315 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| L. Vázquez | F | 14 | 313 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 6 | 5 | 0,4 | 2 | 0 |
-| M. Bird | M | 8 | 293 | 1 | 3 | 7 | 0,9 | 6 | 0,8 | 4 | 3 | 0,4 | 0 | 0 |
+| M. Ducksch | F | 10 | 140 | 0 | 0 | 8 | 0,8 | 2 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
 | Kristoffer Lund | D | 3 | 133 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Ducksch | F | 9 | 127 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |

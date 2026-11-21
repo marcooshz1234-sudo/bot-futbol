@@ -1,7 +1,7 @@
 # Le Havre – Strasbourg
 **Ligue 1** · Regular Season - 12 · 28/11/2026 20:45 (hora España) · Stade Océane
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:20_
@@ -51,53 +51,53 @@ _Actualizadas: 21/11 02:20_
 ## Estadísticas de equipo
 | | Le Havre (total) | Le Havre en casa | Strasbourg (total) | Strasbourg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 10 | 6 |
-| Forma (últimos 5) | DDDDD | DDDED | DVDDD | DDDDV |
-| Balance | 0V 2E 9D | 0V 1E 5D | 3V 1E 6D | 1V 0E 5D |
-| Goles a favor / partido | 0,91 | 0,50 | 1,80 | 1,50 |
-| Goles en contra / partido | 2,27 | 2,17 | 2,20 | 2,67 |
-| Goles a favor 1ª parte | 0,18 | 0,17 | 0,50 | 0,50 |
-| Goles a favor 2ª parte | 0,73 | 0,33 | 1,30 | 1,00 |
-| Goles en contra 1ª parte | 0,91 | 1,00 | 0,70 | 1,00 |
-| Goles en contra 2ª parte | 1,36 | 1,17 | 1,50 | 1,67 |
-| Más de 1,5 goles | 73% | 67% | 100% | 100% |
-| Más de 2,5 goles | 55% | 50% | 90% | 100% |
-| Más de 3,5 goles | 45% | 33% | 50% | 50% |
-| Ambos marcan | 64% | 50% | 80% | 67% |
+| Partidos analizados | 11 | 6 | 11 | 6 |
+| Forma (últimos 5) | DDDDD | DDDED | DDVDD | DDDDV |
+| Balance | 0V 2E 9D | 0V 1E 5D | 3V 1E 7D | 1V 0E 5D |
+| Goles a favor / partido | 0,91 | 0,50 | 1,64 | 1,50 |
+| Goles en contra / partido | 2,27 | 2,17 | 2,09 | 2,67 |
+| Goles a favor 1ª parte | 0,18 | 0,17 | 0,45 | 0,50 |
+| Goles a favor 2ª parte | 0,73 | 0,33 | 1,18 | 1,00 |
+| Goles en contra 1ª parte | 0,91 | 1,00 | 0,73 | 1,00 |
+| Goles en contra 2ª parte | 1,36 | 1,17 | 1,36 | 1,67 |
+| Más de 1,5 goles | 73% | 67% | 91% | 100% |
+| Más de 2,5 goles | 55% | 50% | 82% | 100% |
+| Más de 3,5 goles | 45% | 33% | 45% | 50% |
+| Ambos marcan | 64% | 50% | 73% | 67% |
 | Portería a cero | 9% | 17% | 0% | 0% |
-| Se queda sin marcar | 36% | 50% | 20% | 33% |
-| xG a favor | 1,49 | 1,39 | 1,32 | 0,95 |
+| Se queda sin marcar | 36% | 50% | 27% | 33% |
+| xG a favor | 1,49 | 1,39 | 1,36 | 0,95 |
 | xG en contra | 2,00 | 2,12 | 1,71 | 1,66 |
-| Tiros / partido | 15,7 | 16,3 | 12,6 | 10,2 |
+| Tiros / partido | 15,7 | 16,3 | 12,8 | 10,2 |
 | Tiros a puerta / partido | 4,7 | 5,0 | 4,9 | 4,3 |
-| Tiros recibidos | 12,9 | 13,0 | 14,7 | 15,7 |
-| Tiros a puerta recibidos | 5,4 | 6,0 | 5,6 | 6,2 |
-| Posesión media % | 48 | 48 | 48 | 49 |
-| Córners a favor | 4,8 | 5,5 | 2,5 | 2,0 |
-| Córners en contra | 4,4 | 3,7 | 4,7 | 4,7 |
-| Córners a favor 1ª parte | 2,5 | 2,7 | 1,6 | 1,5 |
-| Córners a favor 2ª parte | 2,3 | 2,8 | 0,9 | 0,5 |
-| Córners totales del partido | 9,2 | 9,2 | 7,2 | 6,7 |
-| Córners totales 1ª parte | 4,3 | 4,5 | 3,7 | 4,0 |
+| Tiros recibidos | 12,9 | 13,0 | 14,8 | 15,7 |
+| Tiros a puerta recibidos | 5,4 | 6,0 | 5,3 | 6,2 |
+| Posesión media % | 48 | 48 | 50 | 49 |
+| Córners a favor | 4,8 | 5,5 | 3,0 | 2,0 |
+| Córners en contra | 4,4 | 3,7 | 4,4 | 4,7 |
+| Córners a favor 1ª parte | 2,5 | 2,7 | 1,9 | 1,5 |
+| Córners a favor 2ª parte | 2,3 | 2,8 | 1,1 | 0,5 |
+| Córners totales del partido | 9,2 | 9,2 | 7,4 | 6,7 |
+| Córners totales 1ª parte | 4,3 | 4,5 | 3,8 | 4,0 |
 | Córners totales 2ª parte | 4,9 | 4,7 | 3,5 | 2,7 |
-| Más de 8,5 córners | 64% | 67% | 40% | 17% |
-| Más de 9,5 córners | 55% | 67% | 10% | 17% |
-| Más de 10,5 córners | 27% | 33% | 10% | 17% |
-| Faltas cometidas | 15,0 | 14,8 | 12,2 | 13,3 |
-| Faltas recibidas | 15,5 | 15,8 | 10,3 | 9,7 |
-| Amarillas propias | 1,6 | 1,2 | 1,7 | 2,0 |
-| Amarillas del rival | 1,5 | 1,5 | 1,7 | 1,7 |
-| Rojas / partido | 0,27 | 0,17 | 0,10 | 0,17 |
+| Más de 8,5 córners | 64% | 67% | 45% | 17% |
+| Más de 9,5 córners | 55% | 67% | 9% | 17% |
+| Más de 10,5 córners | 27% | 33% | 9% | 17% |
+| Faltas cometidas | 15,0 | 14,8 | 12,5 | 13,3 |
+| Faltas recibidas | 15,5 | 15,8 | 10,9 | 9,7 |
+| Amarillas propias | 1,6 | 1,2 | 1,8 | 2,0 |
+| Amarillas del rival | 1,5 | 1,5 | 1,6 | 1,7 |
+| Rojas / partido | 0,27 | 0,17 | 0,09 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Le Havre | Recibe Le Havre | Tarjetas Le Havre | Goles Strasbourg | Recibe Strasbourg | Tarjetas Strasbourg |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 4 | 1 | 0 | 1 | 0 |
-| 16-30' | 1 | 4 | 1 | 1 | 1 | 1 |
+| 1-15' | 1 | 4 | 1 | 0 | 1 | 2 |
+| 16-30' | 1 | 4 | 1 | 1 | 2 | 2 |
 | 31-45' | 0 | 2 | 6 | 4 | 5 | 5 |
 | 46-60' | 0 | 6 | 1 | 4 | 3 | 3 |
 | 61-75' | 3 | 4 | 2 | 2 | 4 | 4 |
-| 76-90' | 5 | 5 | 10 | 7 | 8 | 6 |
+| 76-90' | 5 | 5 | 10 | 7 | 8 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -150,33 +150,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Strasbourg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Strasbourg 0-1 Stade Brestois 29 | casa | 8-1 | 15 (5) - 16 (2) | 3-1 |
 | 2026-11-06 | Ligue 1 | Toulouse 3-1 Strasbourg | fuera | 1-7 | 9 (4) - 10 (5) | 3-3 |
 | 2026-11-01 | Ligue 1 | Strasbourg 5-1 Auxerre | casa | 5-0 | 19 (6) - 6 (2) | 0-4 |
 | 2026-10-25 | Ligue 1 | Rennes 3-0 Strasbourg | fuera | 4-2 | 12 (4) - 15 (5) | 3-1 |
 | 2026-10-17 | Ligue 1 | Strasbourg 1-3 Paris Saint Germain | casa | 3-6 | 17 (8) - 18 (7) | 2-0 |
 | 2026-10-11 | Ligue 1 | Nice 2-1 Strasbourg | fuera | 3-2 | 11 (3) - 11 (6) | 1-1 |
-| 2026-09-19 | Ligue 1 | Paris FC 2-1 Strasbourg | fuera | 0-3 | 5 (1) - 17 (7) | 2-3 |
 
 ## Jugadores de Strasbourg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| F. Jörgensen | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| Gessime Yassine | F | 10 | 829 | 4 | 3 | 16 | 1,6 | 10 | 1,0 | 14 | 28 | 2,8 | 4 | 0 |
+| F. Jörgensen | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| Gessime Yassine | M | 11 | 895 | 4 | 3 | 18 | 1,6 | 11 | 1,0 | 16 | 33 | 3,0 | 4 | 0 |
+| G. Antwi | D | 9 | 799 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 2 | 0,2 | 0 | 0 |
 | Oso | D | 8 | 720 | 0 | 2 | 7 | 0,9 | 2 | 0,2 | 6 | 11 | 1,4 | 1 | 0 |
-| G. Antwi | D | 8 | 709 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 6 | 1 | 0,1 | 0 | 0 |
 | G. Reyna | M | 10 | 645 | 3 | 0 | 11 | 1,1 | 6 | 0,6 | 7 | 10 | 1,0 | 1 | 0 |
 | J. Mitchell | D | 8 | 640 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 6 | 1 | 0,1 | 1 | 0 |
-| P. Diop | M | 10 | 594 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 8 | 6 | 0,6 | 3 | 0 |
-| Diogo Sousa | M | 9 | 561 | 1 | 1 | 7 | 0,8 | 4 | 0,4 | 12 | 3 | 0,3 | 1 | 0 |
-| Abdoul Karim Coulibaly | D | 8 | 486 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 3 | 0 | 0,0 | 1 | 0 |
-| Dário Essugo | M | 8 | 458 | 2 | 1 | 7 | 0,9 | 2 | 0,2 | 6 | 9 | 1,1 | 1 | 0 |
-| S. Nanasi | M | 7 | 439 | 0 | 3 | 9 | 1,3 | 4 | 0,6 | 3 | 3 | 0,4 | 0 | 0 |
-| C. Harder | F | 8 | 428 | 2 | 1 | 10 | 1,2 | 6 | 0,8 | 12 | 4 | 0,5 | 1 | 0 |
-| I. Doukouré | D | 5 | 406 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 4 | 4 | 0,8 | 0 | 0 |
-| J. Ortega | F | 10 | 401 | 1 | 1 | 6 | 0,6 | 5 | 0,5 | 15 | 2 | 0,2 | 1 | 0 |
-| L. Høgsberg | D | 6 | 378 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,5 | 0 | 0 |
-| S. El Mourabet | M | 8 | 367 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 4 | 4 | 0,5 | 0 | 1 |
-| S. Amo-Ameyaw | F | 8 | 272 | 2 | 0 | 9 | 1,1 | 5 | 0,6 | 4 | 4 | 0,5 | 1 | 0 |
+| P. Diop | M | 11 | 624 | 0 | 0 | 7 | 0,6 | 2 | 0,2 | 9 | 6 | 0,5 | 3 | 0 |
+| Diogo Sousa | M | 10 | 591 | 1 | 1 | 9 | 0,9 | 4 | 0,4 | 13 | 3 | 0,3 | 2 | 0 |
+| Abdoul Karim Coulibaly | D | 9 | 576 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 4 | 1 | 0,1 | 1 | 0 |
+| Dário Essugo | M | 9 | 518 | 2 | 1 | 8 | 0,9 | 2 | 0,2 | 7 | 11 | 1,2 | 2 | 0 |
+| S. Nanasi | M | 8 | 499 | 0 | 3 | 9 | 1,1 | 4 | 0,5 | 3 | 3 | 0,4 | 1 | 0 |
+| I. Doukouré | D | 6 | 496 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 4 | 4 | 0,7 | 0 | 0 |
+| L. Høgsberg | D | 7 | 468 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 4 | 0,6 | 0 | 0 |
+| J. Ortega | F | 11 | 461 | 1 | 1 | 7 | 0,6 | 5 | 0,5 | 17 | 2 | 0,2 | 1 | 0 |
+| C. Harder | F | 9 | 458 | 2 | 1 | 10 | 1,1 | 6 | 0,7 | 14 | 5 | 0,6 | 1 | 0 |
+| S. El Mourabet | M | 9 | 447 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 5 | 0,6 | 0 | 1 |
+| S. Amo-Ameyaw | F | 9 | 296 | 2 | 0 | 9 | 1,0 | 5 | 0,6 | 4 | 4 | 0,4 | 1 | 0 |
+| M. Godo | M | 4 | 231 | 1 | 0 | 9 | 2,2 | 4 | 1,0 | 2 | 7 | 1,8 | 0 | 0 |
 | Andrew Omobamidele | D | 2 | 180 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| M. Godo | F | 3 | 141 | 1 | 0 | 4 | 1,3 | 1 | 0,3 | 1 | 4 | 1,3 | 0 | 0 |
 | Fabio Baldé | M | 4 | 96 | 0 | 0 | 2 | 0,5 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |

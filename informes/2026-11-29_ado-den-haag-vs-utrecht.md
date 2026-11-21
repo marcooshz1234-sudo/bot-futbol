@@ -1,7 +1,7 @@
 # ADO Den Haag – Utrecht
 **Eredivisie** · Regular Season - 14 · 29/11/2026 12:15 (hora España) · WerkTalent Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:06_
@@ -51,53 +51,53 @@ _Actualizadas: 21/11 14:06_
 ## Estadísticas de equipo
 | | ADO Den Haag (total) | ADO Den Haag en casa | Utrecht (total) | Utrecht fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 13 | 7 |
-| Forma (últimos 5) | VDEDV | VDVED | DDVEV | DVVDV |
-| Balance | 2V 4E 7D | 2V 1E 3D | 4V 3E 6D | 3V 1E 3D |
-| Goles a favor / partido | 1,31 | 1,83 | 1,69 | 1,57 |
-| Goles en contra / partido | 2,00 | 2,17 | 2,62 | 2,29 |
-| Goles a favor 1ª parte | 0,31 | 0,17 | 0,38 | 0,57 |
-| Goles a favor 2ª parte | 1,00 | 1,67 | 1,31 | 1,00 |
-| Goles en contra 1ª parte | 1,00 | 1,33 | 1,15 | 1,29 |
-| Goles en contra 2ª parte | 1,00 | 0,83 | 1,46 | 1,00 |
-| Más de 1,5 goles | 92% | 100% | 92% | 86% |
-| Más de 2,5 goles | 62% | 83% | 85% | 86% |
-| Más de 3,5 goles | 54% | 67% | 62% | 43% |
-| Ambos marcan | 77% | 100% | 85% | 71% |
-| Portería a cero | 0% | 0% | 8% | 14% |
-| Se queda sin marcar | 23% | 0% | 8% | 14% |
-| xG a favor | 1,09 | 1,50 | 1,46 | 1,46 |
-| xG en contra | 2,04 | 1,85 | 1,87 | 1,86 |
-| Tiros / partido | 12,3 | 14,7 | 13,7 | 12,4 |
-| Tiros a puerta / partido | 3,8 | 4,8 | 4,4 | 4,6 |
-| Tiros recibidos | 17,8 | 13,3 | 17,1 | 17,3 |
-| Tiros a puerta recibidos | 6,6 | 6,2 | 6,5 | 5,9 |
-| Posesión media % | 50 | 55 | 48 | 46 |
-| Córners a favor | 3,8 | 4,8 | 4,7 | 4,9 |
-| Córners en contra | 5,9 | 3,0 | 5,8 | 5,1 |
+| Partidos analizados | 13 | 6 | 14 | 7 |
+| Forma (últimos 5) | VDEDV | VDVED | DDDVE | DVVDV |
+| Balance | 2V 4E 7D | 2V 1E 3D | 4V 3E 7D | 3V 1E 3D |
+| Goles a favor / partido | 1,31 | 1,83 | 1,71 | 1,57 |
+| Goles en contra / partido | 2,00 | 2,17 | 2,64 | 2,29 |
+| Goles a favor 1ª parte | 0,31 | 0,17 | 0,36 | 0,57 |
+| Goles a favor 2ª parte | 1,00 | 1,67 | 1,36 | 1,00 |
+| Goles en contra 1ª parte | 1,00 | 1,33 | 1,14 | 1,29 |
+| Goles en contra 2ª parte | 1,00 | 0,83 | 1,50 | 1,00 |
+| Más de 1,5 goles | 92% | 100% | 93% | 86% |
+| Más de 2,5 goles | 62% | 83% | 86% | 86% |
+| Más de 3,5 goles | 54% | 67% | 64% | 43% |
+| Ambos marcan | 77% | 100% | 86% | 71% |
+| Portería a cero | 0% | 0% | 7% | 14% |
+| Se queda sin marcar | 23% | 0% | 7% | 14% |
+| xG a favor | 1,09 | 1,50 | 1,50 | 1,46 |
+| xG en contra | 2,04 | 1,85 | 1,84 | 1,86 |
+| Tiros / partido | 12,3 | 14,7 | 13,9 | 12,4 |
+| Tiros a puerta / partido | 3,8 | 4,8 | 4,8 | 4,6 |
+| Tiros recibidos | 17,8 | 13,3 | 17,0 | 17,3 |
+| Tiros a puerta recibidos | 6,6 | 6,2 | 6,6 | 5,9 |
+| Posesión media % | 50 | 55 | 49 | 46 |
+| Córners a favor | 3,8 | 4,8 | 4,6 | 4,9 |
+| Córners en contra | 5,9 | 3,0 | 5,6 | 5,1 |
 | Córners a favor 1ª parte | 2,3 | 3,2 | 2,2 | 2,3 |
-| Córners a favor 2ª parte | 1,5 | 1,7 | 2,5 | 2,6 |
-| Córners totales del partido | 9,8 | 7,8 | 10,5 | 10,0 |
-| Córners totales 1ª parte | 5,2 | 4,8 | 5,2 | 4,1 |
-| Córners totales 2ª parte | 4,5 | 3,0 | 5,3 | 5,9 |
-| Más de 8,5 córners | 58% | 50% | 85% | 71% |
-| Más de 9,5 córners | 50% | 33% | 62% | 43% |
-| Más de 10,5 córners | 33% | 17% | 54% | 43% |
-| Faltas cometidas | 14,0 | 17,0 | 15,8 | 14,7 |
-| Faltas recibidas | 10,2 | 11,0 | 10,6 | 10,9 |
+| Córners a favor 2ª parte | 1,5 | 1,7 | 2,4 | 2,6 |
+| Córners totales del partido | 9,8 | 7,8 | 10,2 | 10,0 |
+| Córners totales 1ª parte | 5,2 | 4,8 | 5,1 | 4,1 |
+| Córners totales 2ª parte | 4,5 | 3,0 | 5,1 | 5,9 |
+| Más de 8,5 córners | 58% | 50% | 79% | 71% |
+| Más de 9,5 córners | 50% | 33% | 57% | 43% |
+| Más de 10,5 córners | 33% | 17% | 50% | 43% |
+| Faltas cometidas | 14,0 | 17,0 | 16,1 | 14,7 |
+| Faltas recibidas | 10,2 | 11,0 | 10,9 | 10,9 |
 | Amarillas propias | 1,8 | 1,3 | 1,9 | 1,1 |
-| Amarillas del rival | 1,2 | 1,2 | 1,0 | 0,6 |
+| Amarillas del rival | 1,2 | 1,2 | 1,1 | 0,6 |
 | Rojas / partido | 0,08 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles ADO Den Haag | Recibe ADO Den Haag | Tarjetas ADO Den Haag | Goles Utrecht | Recibe Utrecht | Tarjetas Utrecht |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 2 | 1 | 1 | 5 | 1 |
-| 16-30' | 3 | 4 | 1 | 1 | 3 | 2 |
+| 16-30' | 3 | 4 | 1 | 1 | 4 | 2 |
 | 31-45' | 0 | 7 | 3 | 3 | 7 | 3 |
-| 46-60' | 7 | 2 | 6 | 5 | 9 | 4 |
+| 46-60' | 7 | 2 | 6 | 6 | 10 | 6 |
 | 61-75' | 2 | 9 | 5 | 5 | 3 | 7 |
-| 76-90' | 4 | 2 | 8 | 7 | 7 | 8 |
+| 76-90' | 4 | 2 | 8 | 8 | 8 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,33 +149,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Utrecht
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Eredivisie | Utrecht 2-3 Cambuur | casa | 3-3 | 17 (10) - 16 (8) | 2-3 |
 | 2026-11-08 | Eredivisie | Utrecht 2-3 NEC Nijmegen | casa | 3-8 | 16 (5) - 16 (7) | 2-3 |
 | 2026-11-01 | Eredivisie | Telstar 4-2 Utrecht | fuera | 9-3 | 15 (5) - 16 (7) | 2-0 |
 | 2026-10-29 | KNVB Beker | Kozakken Boys 0-1 Utrecht | fuera | 8-7 | 8 (3) - 18 (3) | –-– |
 | 2026-10-24 | Eredivisie | Utrecht 1-1 PEC Zwolle | casa | 7-2 | 23 (5) - 9 (5) | 2-2 |
 | 2026-10-18 | Eredivisie | Twente 1-2 Utrecht | fuera | 4-5 | 16 (5) - 24 (5) | 2-0 |
-| 2026-10-11 | Eredivisie | Utrecht 3-1 Willem II | casa | 7-3 | 24 (6) - 9 (2) | 2-0 |
 
 ## Jugadores de Utrecht
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. de Wit | M | 13 | 1135 | 3 | 1 | 19 | 1,5 | 11 | 0,8 | 28 | 13 | 1,0 | 3 | 0 |
+| D. de Wit | M | 14 | 1225 | 3 | 1 | 20 | 1,4 | 12 | 0,9 | 33 | 14 | 1,0 | 4 | 0 |
+| M. Didden | D | 12 | 1014 | 2 | 0 | 8 | 0,7 | 4 | 0,3 | 21 | 4 | 0,3 | 0 | 0 |
+| A. Zagré | D | 13 | 1004 | 0 | 2 | 5 | 0,4 | 2 | 0,2 | 16 | 5 | 0,4 | 3 | 0 |
+| Y. Cathline | M | 14 | 998 | 4 | 2 | 29 | 2,1 | 8 | 0,6 | 13 | 29 | 2,1 | 2 | 0 |
 | N. Vesterlund | D | 12 | 977 | 0 | 2 | 3 | 0,2 | 2 | 0,2 | 10 | 8 | 0,7 | 0 | 0 |
-| A. Zagré | D | 12 | 959 | 0 | 2 | 5 | 0,4 | 2 | 0,2 | 15 | 5 | 0,4 | 2 | 0 |
-| M. Didden | D | 11 | 924 | 2 | 0 | 8 | 0,7 | 4 | 0,4 | 18 | 4 | 0,4 | 0 | 0 |
-| Y. Cathline | F | 13 | 908 | 4 | 2 | 26 | 2,0 | 6 | 0,5 | 12 | 25 | 1,9 | 2 | 0 |
-| S. Horemans | D | 12 | 854 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 8 | 1 | 0,1 | 2 | 0 |
+| S. Horemans | D | 13 | 944 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 8 | 1 | 0,1 | 2 | 0 |
+| N. Panagiotou | D | 10 | 868 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 13 | 4 | 0,4 | 2 | 0 |
 | Ángel Alarcón | F | 13 | 839 | 4 | 1 | 25 | 1,9 | 11 | 0,8 | 9 | 6 | 0,5 | 0 | 0 |
-| N. Panagiotou | D | 9 | 807 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 12 | 4 | 0,4 | 2 | 0 |
-| V. Barkas | G | 8 | 720 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
-| J. van Overeem | M | 9 | 698 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 17 | 8 | 0,9 | 2 | 0 |
-| Artem Stepanov | F | 10 | 585 | 5 | 0 | 9 | 0,9 | 6 | 0,6 | 14 | 6 | 0,6 | 2 | 0 |
-| D. van den Berg | M | 10 | 470 | 0 | 2 | 5 | 0,5 | 1 | 0,1 | 7 | 5 | 0,5 | 2 | 0 |
-| O. Agougil | M | 6 | 389 | 0 | 2 | 6 | 1,0 | 1 | 0,2 | 6 | 7 | 1,2 | 1 | 0 |
+| V. Barkas | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| J. van Overeem | M | 10 | 788 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 19 | 10 | 1,0 | 2 | 0 |
+| Artem Stepanov | F | 11 | 660 | 6 | 0 | 12 | 1,1 | 9 | 0,8 | 17 | 7 | 0,6 | 2 | 0 |
+| D. van den Berg | M | 11 | 515 | 0 | 2 | 5 | 0,5 | 1 | 0,1 | 7 | 6 | 0,5 | 2 | 0 |
+| O. Agougil | M | 7 | 434 | 0 | 2 | 7 | 1,0 | 1 | 0,1 | 7 | 7 | 1,0 | 1 | 0 |
+| M. Broholm | M | 8 | 403 | 0 | 1 | 10 | 1,2 | 2 | 0,2 | 11 | 12 | 1,5 | 1 | 0 |
+| A. Blake | F | 13 | 380 | 2 | 2 | 23 | 1,8 | 10 | 0,8 | 8 | 16 | 1,2 | 0 | 0 |
 | S. Padt | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| A. Blake | F | 12 | 351 | 2 | 1 | 17 | 1,4 | 7 | 0,6 | 8 | 15 | 1,2 | 0 | 0 |
-| M. Broholm | M | 7 | 346 | 0 | 1 | 9 | 1,3 | 2 | 0,3 | 9 | 11 | 1,6 | 1 | 0 |
 | Guus Offerhaus | M | 5 | 274 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 1 | 0,2 | 2 | 0 |
-| S. van Duijn | F | 10 | 221 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 7 | 0 | 0,0 | 0 | 0 |
-| P. Kloosterboer | D | 5 | 203 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |
+| P. Kloosterboer | D | 6 | 248 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 2 | 2 | 0,3 | 1 | 0 |
+| S. van Duijn | F | 11 | 236 | 2 | 0 | 3 | 0,3 | 2 | 0,2 | 7 | 0 | 0,0 | 0 | 0 |
 | Neville Nwankwo | D | 3 | 172 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,3 | 0 | 0 |

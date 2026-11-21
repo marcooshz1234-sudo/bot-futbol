@@ -1,13 +1,13 @@
 # Real Sociedad W – Sevilla W
 **Liga F** · Regular Season - 12 · 22/11/2026 12:00 (hora España) · Instalaciones de Zubieta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:03_
+_Actualizadas: 22/11 00:12_
 
 - **1X2:** 1 **1.53**  ·  X **4.00**  ·  2 **4.75**
-- **Doble oportunidad:** 1X **1.10**  ·  12 **1.17**  ·  X2 **2.40**
+- **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.25**
 - **Ambos marcan:** Sí **1.80**  ·  No **1.91**
 - **Goles más/menos:**
     - 1,5: más **1.20** · menos **4.33**
@@ -28,7 +28,9 @@ _Actualizadas: 21/11 14:03_
     - 0,5: más **1.53** · menos **2.38**
     - 1,5: más **3.50** · menos **1.28**
     - 2,5: más **8.50** · menos **1.05**
-- **1X2 descanso:** 1 **1.91**  ·  X **2.40**  ·  2 **5.50**
+- **Córners más/menos:**
+    - 8,5: más **1.80** · menos **2.00**
+- **1X2 descanso:** 1 **2.00**  ·  X **2.40**  ·  2 **5.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
@@ -39,8 +41,10 @@ _Actualizadas: 21/11 14:03_
 - **To Win Either Half:** 1 **1.33**  ·  2 **2.75**
 - **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **6.00**
 - **Win Both Halves:** 1 **4.00**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **6.00**  ·  Away/Yes **10.00**  ·  Home/No **2.50**  ·  Draw/No **13.00**  ·  Away/No **11.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **5.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.62**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.00**  ·  Home/No **2.62**  ·  Draw/No **13.00**  ·  Away/No **10.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.62**
+- **Total Corners (1st Half):**
+    - 4: más **1.90** · menos **1.90**
 
 ## Estadísticas de equipo
 | | Real Sociedad W (total) | Real Sociedad W en casa | Sevilla W (total) | Sevilla W fuera |

@@ -1,10 +1,10 @@
 # Slovan Bratislava – Real Betis
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 22/11 00:14_
 
 - **1X2:** 1 **9.50**  ·  X **6.00**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.75**  ·  12 **1.12**  ·  X2 **1.07**
@@ -54,58 +54,58 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | Slovan Bratislava (total) | Slovan Bratislava en casa | Real Betis (total) | Real Betis fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 4 | 17 | 9 |
-| Forma (últimos 5) | DDDDV | DEVE | VVDVE | VVDEE |
-| Balance | 4V 2E 4D | 1V 2E 1D | 12V 2E 3D | 5V 2E 2D |
-| Goles a favor / partido | 1,10 | 1,00 | 1,82 | 1,67 |
-| Goles en contra / partido | 2,10 | 1,25 | 1,35 | 1,44 |
-| Goles a favor 1ª parte | 0,50 | 0,50 | 0,76 | 0,78 |
-| Goles a favor 2ª parte | 0,60 | 0,50 | 1,06 | 0,89 |
-| Goles en contra 1ª parte | 1,10 | 0,50 | 0,41 | 0,56 |
-| Goles en contra 2ª parte | 1,00 | 0,75 | 0,94 | 0,89 |
-| Más de 1,5 goles | 100% | 100% | 65% | 78% |
-| Más de 2,5 goles | 60% | 25% | 53% | 56% |
-| Más de 3,5 goles | 30% | 0% | 35% | 33% |
-| Ambos marcan | 50% | 50% | 59% | 67% |
-| Portería a cero | 20% | 25% | 41% | 33% |
-| Se queda sin marcar | 30% | 25% | 6% | 11% |
-| xG a favor | 0,51 | 0,82 | 1,65 | 1,60 |
-| xG en contra | 3,72 | 2,21 | 1,67 | 1,69 |
-| Tiros / partido | 10,3 | 14,3 | 17,9 | 18,3 |
-| Tiros a puerta / partido | 3,8 | 3,0 | 6,5 | 6,2 |
-| Tiros recibidos | 17,7 | 10,7 | 13,5 | 14,6 |
-| Tiros a puerta recibidos | 6,7 | 4,5 | 4,9 | 5,0 |
-| Posesión media % | 41 | 46 | 53 | 55 |
-| Córners a favor | 2,6 | 2,0 | 5,7 | 6,0 |
-| Córners en contra | 5,7 | 4,2 | 5,2 | 5,9 |
-| Córners a favor 1ª parte | 1,3 | 1,0 | 2,9 | 2,4 |
-| Córners a favor 2ª parte | 0,7 | 0,5 | 2,4 | 2,8 |
-| Córners totales del partido | 8,3 | 6,2 | 10,9 | 11,9 |
-| Córners totales 1ª parte | 3,8 | 2,5 | 4,9 | 4,8 |
+| Partidos analizados | 10 | 4 | 18 | 10 |
+| Forma (últimos 5) | DDDDV | DEVE | EVVDV | EVVDE |
+| Balance | 4V 2E 4D | 1V 2E 1D | 12V 3E 3D | 5V 3E 2D |
+| Goles a favor / partido | 1,10 | 1,00 | 1,78 | 1,60 |
+| Goles en contra / partido | 2,10 | 1,25 | 1,33 | 1,40 |
+| Goles a favor 1ª parte | 0,50 | 0,50 | 0,72 | 0,70 |
+| Goles a favor 2ª parte | 0,60 | 0,50 | 1,06 | 0,90 |
+| Goles en contra 1ª parte | 1,10 | 0,50 | 0,39 | 0,50 |
+| Goles en contra 2ª parte | 1,00 | 0,75 | 0,94 | 0,90 |
+| Más de 1,5 goles | 100% | 100% | 67% | 80% |
+| Más de 2,5 goles | 60% | 25% | 50% | 50% |
+| Más de 3,5 goles | 30% | 0% | 33% | 30% |
+| Ambos marcan | 50% | 50% | 61% | 70% |
+| Portería a cero | 20% | 25% | 39% | 30% |
+| Se queda sin marcar | 30% | 25% | 6% | 10% |
+| xG a favor | 0,51 | 0,82 | 1,59 | 1,49 |
+| xG en contra | 3,72 | 2,21 | 1,70 | 1,75 |
+| Tiros / partido | 10,3 | 14,3 | 17,2 | 17,1 |
+| Tiros a puerta / partido | 3,8 | 3,0 | 6,3 | 5,9 |
+| Tiros recibidos | 17,7 | 10,7 | 14,2 | 15,6 |
+| Tiros a puerta recibidos | 6,7 | 4,5 | 5,0 | 5,1 |
+| Posesión media % | 41 | 46 | 52 | 53 |
+| Córners a favor | 2,6 | 2,0 | 5,5 | 5,6 |
+| Córners en contra | 5,7 | 4,2 | 5,3 | 6,0 |
+| Córners a favor 1ª parte | 1,3 | 1,0 | 2,8 | 2,4 |
+| Córners a favor 2ª parte | 0,7 | 0,5 | 2,3 | 2,5 |
+| Córners totales del partido | 8,3 | 6,2 | 10,8 | 11,6 |
+| Córners totales 1ª parte | 3,8 | 2,5 | 4,8 | 4,6 |
 | Córners totales 2ª parte | 3,5 | 2,2 | 5,5 | 6,2 |
-| Más de 8,5 córners | 60% | 25% | 65% | 78% |
-| Más de 9,5 córners | 30% | 0% | 59% | 78% |
-| Más de 10,5 córners | 20% | 0% | 47% | 56% |
-| Faltas cometidas | 10,7 | 12,7 | 10,7 | 10,7 |
-| Faltas recibidas | 10,7 | 12,3 | 12,8 | 11,6 |
-| Amarillas propias | 1,9 | 2,0 | 2,0 | 1,7 |
-| Amarillas del rival | 1,9 | 2,5 | 2,7 | 2,2 |
-| Rojas / partido | 0,00 | 0,00 | 0,12 | 0,11 |
+| Más de 8,5 córners | 60% | 25% | 67% | 80% |
+| Más de 9,5 córners | 30% | 0% | 56% | 70% |
+| Más de 10,5 córners | 20% | 0% | 44% | 50% |
+| Faltas cometidas | 10,7 | 12,7 | 10,9 | 11,0 |
+| Faltas recibidas | 10,7 | 12,3 | 13,2 | 12,5 |
+| Amarillas propias | 1,9 | 2,0 | 2,1 | 1,9 |
+| Amarillas del rival | 1,9 | 2,5 | 2,8 | 2,5 |
+| Rojas / partido | 0,00 | 0,00 | 0,11 | 0,10 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Slovan Bratislava | Recibe Slovan Bratislava | Tarjetas Slovan Bratislava | Goles Real Betis | Recibe Real Betis | Tarjetas Real Betis |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 0 | 1 | 2 | 2 | 0 |
+| 1-15' | 1 | 0 | 1 | 2 | 2 | 2 |
 | 16-30' | 2 | 5 | 3 | 1 | 2 | 2 |
 | 31-45' | 2 | 6 | 4 | 10 | 3 | 5 |
-| 46-60' | 2 | 6 | 4 | 6 | 7 | 5 |
+| 46-60' | 2 | 6 | 4 | 7 | 7 | 5 |
 | 61-75' | 0 | 2 | 5 | 4 | 5 | 7 |
-| 76-90' | 4 | 2 | 2 | 8 | 4 | 17 |
+| 76-90' | 4 | 2 | 2 | 8 | 5 | 19 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Real Betis:** D. Ceballos (baja, Injury); I. Losada (baja, Injury); J. Morante (baja, Hip Injury); Antony (duda, Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._
@@ -147,31 +147,31 @@ _Sin precedentes recientes._
 ## Últimos partidos de Real Betis
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | LaLiga | Sevilla 1-1 Real Betis | fuera | 2-7 | 6 (3) - 25 (6) | 4-5 |
 | 2026-11-12 | Copa del Rey | Navalcarnero 2-3 Real Betis | fuera | 13-3 | 29 (11) - 12 (4) | 4-4 |
 | 2026-11-08 | LaLiga | Elche 0-2 Real Betis | fuera | 8-9 | 18 (9) - 13 (1) | 0-4 |
 | 2026-11-04 | Champions League | Borussia Dortmund 2-1 Real Betis | fuera | 5-2 | 11 (4) - 15 (6) | 4-4 |
 | 2026-10-31 | LaLiga | Real Betis 2-1 Malaga | casa | 10-3 | 23 (6) - 10 (4) | 2-2 |
 | 2026-10-25 | LaLiga | Celta Vigo 0-0 Real Betis | fuera | 4-3 | 15 (2) - 12 (4) | 1-2 |
-| 2026-10-21 | Champions League | Real Betis 1-0 Feyenoord | casa | 4-4 | 23 (10) - 12 (2) | 1-2 |
 
 ## Jugadores de Real Betis
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Álvaro Vallés | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Natan | D | 15 | 1247 | 1 | 0 | 6 | 0,4 | 1 | 0,1 | 5 | 7 | 0,5 | 4 | 0 |
-| Héctor Bellerín | D | 14 | 1121 | 0 | 1 | 6 | 0,4 | 4 | 0,3 | 8 | 5 | 0,4 | 2 | 0 |
-| Fran García | D | 15 | 1094 | 0 | 2 | 5 | 0,3 | 2 | 0,1 | 8 | 13 | 0,9 | 1 | 0 |
-| Pablo Fornals | M | 15 | 1065 | 1 | 2 | 20 | 1,3 | 4 | 0,3 | 12 | 12 | 0,8 | 0 | 0 |
-| Antony | M | 16 | 1061 | 0 | 1 | 37 | 2,3 | 18 | 1,1 | 13 | 14 | 0,9 | 0 | 0 |
-| Marc Roca | M | 13 | 988 | 0 | 1 | 8 | 0,6 | 2 | 0,2 | 21 | 11 | 0,8 | 3 | 0 |
-| A. Ezzalzouli | M | 12 | 951 | 4 | 1 | 32 | 2,7 | 12 | 1,0 | 10 | 19 | 1,6 | 1 | 0 |
-| Isco | M | 16 | 932 | 4 | 2 | 24 | 1,5 | 17 | 1,1 | 15 | 22 | 1,4 | 1 | 0 |
-| Marc Bartra | D | 12 | 823 | 5 | 0 | 15 | 1,2 | 10 | 0,8 | 1 | 3 | 0,2 | 1 | 0 |
-| Rodrigo Riquelme | M | 15 | 708 | 5 | 1 | 19 | 1,3 | 11 | 0,7 | 7 | 14 | 0,9 | 1 | 0 |
-| T. Parrott | F | 13 | 697 | 2 | 1 | 15 | 1,2 | 5 | 0,4 | 6 | 9 | 0,7 | 0 | 0 |
+| Álvaro Vallés | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Natan | D | 16 | 1337 | 1 | 0 | 6 | 0,4 | 1 | 0,1 | 5 | 7 | 0,4 | 4 | 0 |
+| Héctor Bellerín | D | 15 | 1211 | 0 | 1 | 6 | 0,4 | 4 | 0,3 | 9 | 5 | 0,3 | 3 | 0 |
+| Fran García | D | 16 | 1184 | 0 | 2 | 5 | 0,3 | 2 | 0,1 | 8 | 17 | 1,1 | 1 | 0 |
+| Pablo Fornals | M | 16 | 1155 | 1 | 2 | 21 | 1,3 | 5 | 0,3 | 13 | 12 | 0,8 | 1 | 0 |
+| Antony | M | 17 | 1141 | 1 | 1 | 40 | 2,4 | 20 | 1,2 | 13 | 18 | 1,1 | 0 | 0 |
+| Marc Roca | M | 14 | 1078 | 0 | 1 | 8 | 0,6 | 2 | 0,1 | 27 | 14 | 1,0 | 3 | 0 |
+| Isco | M | 17 | 1022 | 4 | 3 | 25 | 1,5 | 17 | 1,0 | 17 | 28 | 1,6 | 1 | 0 |
+| A. Ezzalzouli | M | 13 | 1022 | 4 | 1 | 32 | 2,5 | 12 | 0,9 | 11 | 21 | 1,6 | 1 | 0 |
+| Marc Bartra | D | 13 | 913 | 5 | 0 | 15 | 1,2 | 10 | 0,8 | 2 | 4 | 0,3 | 1 | 0 |
+| T. Parrott | F | 14 | 725 | 2 | 1 | 16 | 1,1 | 5 | 0,4 | 7 | 9 | 0,6 | 0 | 0 |
+| Rodrigo Riquelme | M | 16 | 718 | 5 | 1 | 19 | 1,2 | 11 | 0,7 | 7 | 14 | 0,9 | 1 | 0 |
 | Valentín Gómez | D | 8 | 657 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 9 | 4 | 0,5 | 2 | 0 |
+| N. Deossa | M | 17 | 637 | 0 | 1 | 24 | 1,4 | 7 | 0,4 | 16 | 16 | 0,9 | 2 | 0 |
 | F. Bernal | M | 11 | 620 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 12 | 6 | 0,5 | 3 | 1 |
-| N. Deossa | M | 16 | 618 | 0 | 1 | 24 | 1,5 | 7 | 0,4 | 15 | 16 | 1,0 | 2 | 0 |
 | Cucho Hernández | F | 10 | 617 | 3 | 2 | 12 | 1,2 | 8 | 0,8 | 5 | 8 | 0,8 | 1 | 0 |
 | Diego Llorente | D | 7 | 571 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 5 | 3 | 0,4 | 2 | 0 |
 | Dani Ceballos | M | 12 | 494 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 19 | 1,6 | 1 | 0 |

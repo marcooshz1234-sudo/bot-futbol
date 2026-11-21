@@ -1,10 +1,10 @@
 # PSV Eindhoven – GO Ahead Eagles
 **Eredivisie** · Regular Season - 14 · 28/11/2026 18:45 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:09_
+_Actualizadas: 22/11 00:15_
 
 - **1X2:** 1 **1.27**  ·  X **6.00**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.12**  ·  X2 **3.75**
@@ -55,52 +55,52 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | PSV Eindhoven (total) | PSV Eindhoven en casa | GO Ahead Eagles (total) | GO Ahead Eagles fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 13 | 8 |
-| Forma (últimos 5) | VDVEV | DVEVV | VDVVD | VDVDE |
-| Balance | 9V 3E 4D | 4V 3E 1D | 5V 5E 3D | 2V 3E 3D |
-| Goles a favor / partido | 2,69 | 2,88 | 2,23 | 1,88 |
-| Goles en contra / partido | 1,19 | 1,00 | 2,08 | 2,38 |
-| Goles a favor 1ª parte | 1,25 | 1,12 | 0,77 | 0,75 |
-| Goles a favor 2ª parte | 1,44 | 1,75 | 1,46 | 1,12 |
-| Goles en contra 1ª parte | 0,56 | 0,62 | 0,85 | 1,00 |
-| Goles en contra 2ª parte | 0,62 | 0,38 | 1,23 | 1,38 |
+| Partidos analizados | 17 | 8 | 13 | 8 |
+| Forma (últimos 5) | VVDVE | DVEVV | VDVVD | VDVDE |
+| Balance | 10V 3E 4D | 4V 3E 1D | 5V 5E 3D | 2V 3E 3D |
+| Goles a favor / partido | 2,76 | 2,88 | 2,23 | 1,88 |
+| Goles en contra / partido | 1,18 | 1,00 | 2,08 | 2,38 |
+| Goles a favor 1ª parte | 1,35 | 1,12 | 0,77 | 0,75 |
+| Goles a favor 2ª parte | 1,41 | 1,75 | 1,46 | 1,12 |
+| Goles en contra 1ª parte | 0,53 | 0,62 | 0,85 | 1,00 |
+| Goles en contra 2ª parte | 0,65 | 0,38 | 1,23 | 1,38 |
 | Más de 1,5 goles | 88% | 100% | 92% | 88% |
-| Más de 2,5 goles | 69% | 62% | 77% | 75% |
-| Más de 3,5 goles | 50% | 50% | 77% | 75% |
-| Ambos marcan | 75% | 75% | 77% | 62% |
-| Portería a cero | 19% | 25% | 15% | 25% |
+| Más de 2,5 goles | 71% | 62% | 77% | 75% |
+| Más de 3,5 goles | 53% | 50% | 77% | 75% |
+| Ambos marcan | 76% | 75% | 77% | 62% |
+| Portería a cero | 18% | 25% | 15% | 25% |
 | Se queda sin marcar | 6% | 0% | 8% | 12% |
-| xG a favor | 2,33 | 2,60 | 1,60 | 1,61 |
-| xG en contra | 1,38 | 1,36 | 1,56 | 1,86 |
-| Tiros / partido | 18,7 | 20,6 | 14,4 | 12,1 |
-| Tiros a puerta / partido | 6,6 | 7,0 | 5,5 | 4,6 |
-| Tiros recibidos | 11,1 | 9,0 | 16,2 | 18,9 |
-| Tiros a puerta recibidos | 4,1 | 4,5 | 5,0 | 6,1 |
+| xG a favor | 2,35 | 2,60 | 1,60 | 1,61 |
+| xG en contra | 1,39 | 1,36 | 1,56 | 1,86 |
+| Tiros / partido | 18,5 | 20,6 | 14,4 | 12,1 |
+| Tiros a puerta / partido | 6,5 | 7,0 | 5,5 | 4,6 |
+| Tiros recibidos | 11,2 | 9,0 | 16,2 | 18,9 |
+| Tiros a puerta recibidos | 4,4 | 4,5 | 5,0 | 6,1 |
 | Posesión media % | 60 | 63 | 54 | 51 |
-| Córners a favor | 6,4 | 7,4 | 5,2 | 4,3 |
-| Córners en contra | 3,1 | 3,6 | 4,8 | 6,4 |
-| Córners a favor 1ª parte | 3,1 | 3,5 | 1,6 | 1,0 |
-| Córners a favor 2ª parte | 3,4 | 3,9 | 3,7 | 3,3 |
-| Córners totales del partido | 9,5 | 11,0 | 10,1 | 10,7 |
+| Córners a favor | 6,2 | 7,4 | 5,2 | 4,3 |
+| Córners en contra | 3,2 | 3,6 | 4,8 | 6,4 |
+| Córners a favor 1ª parte | 2,9 | 3,5 | 1,6 | 1,0 |
+| Córners a favor 2ª parte | 3,3 | 3,9 | 3,7 | 3,3 |
+| Córners totales del partido | 9,4 | 11,0 | 10,1 | 10,7 |
 | Córners totales 1ª parte | 4,2 | 4,9 | 3,5 | 3,3 |
 | Córners totales 2ª parte | 5,2 | 6,1 | 6,6 | 7,4 |
-| Más de 8,5 córners | 62% | 88% | 67% | 86% |
-| Más de 9,5 córners | 56% | 75% | 50% | 71% |
-| Más de 10,5 córners | 50% | 62% | 50% | 71% |
+| Más de 8,5 córners | 59% | 88% | 67% | 86% |
+| Más de 9,5 córners | 53% | 75% | 50% | 71% |
+| Más de 10,5 córners | 47% | 62% | 50% | 71% |
 | Faltas cometidas | 10,6 | 10,5 | 7,8 | 7,4 |
-| Faltas recibidas | 9,9 | 7,8 | 9,2 | 8,4 |
-| Amarillas propias | 1,7 | 1,4 | 0,8 | 0,7 |
+| Faltas recibidas | 9,8 | 7,8 | 9,2 | 8,4 |
+| Amarillas propias | 1,8 | 1,4 | 0,8 | 0,7 |
 | Amarillas del rival | 2,3 | 2,4 | 1,0 | 0,7 |
 | Rojas / partido | 0,06 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles PSV Eindhoven | Recibe PSV Eindhoven | Tarjetas PSV Eindhoven | Goles GO Ahead Eagles | Recibe GO Ahead Eagles | Tarjetas GO Ahead Eagles |
 |---|---|---|---|---|---|---|
-| 1-15' | 6 | 4 | 2 | 2 | 5 | 0 |
-| 16-30' | 8 | 2 | 3 | 4 | 1 | 1 |
-| 31-45' | 6 | 3 | 7 | 4 | 5 | 3 |
-| 46-60' | 9 | 3 | 3 | 4 | 4 | 1 |
-| 61-75' | 4 | 2 | 8 | 10 | 4 | 1 |
+| 1-15' | 7 | 4 | 2 | 2 | 5 | 0 |
+| 16-30' | 9 | 2 | 3 | 4 | 1 | 1 |
+| 31-45' | 7 | 3 | 7 | 4 | 5 | 3 |
+| 46-60' | 9 | 3 | 4 | 4 | 4 | 1 |
+| 61-75' | 5 | 3 | 10 | 10 | 4 | 1 |
 | 76-90' | 10 | 5 | 5 | 5 | 8 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -119,35 +119,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de PSV Eindhoven
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Eredivisie | NEC Nijmegen 1-4 PSV Eindhoven | fuera | 3-5 | 16 (4) - 13 (8) | 3-2 |
 | 2026-11-08 | Eredivisie | Cambuur 2-5 PSV Eindhoven | fuera | 1-1 | 16 (7) - 10 (3) | 2-3 |
 | 2026-11-04 | Champions League | PSV Eindhoven 1-2 Club Brugge KV | casa | 8-5 | 27 (9) - 10 (3) | 0-3 |
 | 2026-10-31 | Eredivisie | PSV Eindhoven 7-0 Willem II | casa | 11-1 | 20 (9) - 4 (1) | 0-2 |
 | 2026-10-25 | Eredivisie | PSV Eindhoven 1-1 Feyenoord | casa | 6-5 | 19 (6) - 13 (9) | 4-3 |
 | 2026-10-20 | Champions League | FC Porto 0-1 PSV Eindhoven | fuera | 3-2 | 18 (3) - 14 (4) | 2-0 |
-| 2026-10-17 | Eredivisie | ADO Den Haag 2-1 PSV Eindhoven | fuera | 2-3 | 15 (4) - 14 (2) | 0-3 |
 
 ## Jugadores de PSV Eindhoven
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Kovář | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| A. Obispo | D | 16 | 1328 | 0 | 2 | 10 | 0,6 | 0 | 0,0 | 23 | 8 | 0,5 | 5 | 0 |
-| S. Dest | D | 15 | 1315 | 3 | 3 | 21 | 1,4 | 12 | 0,8 | 11 | 34 | 2,3 | 3 | 0 |
-| G. Til | F | 16 | 1300 | 8 | 1 | 28 | 1,8 | 14 | 0,9 | 12 | 12 | 0,8 | 1 | 0 |
-| K. Sano | M | 15 | 1273 | 3 | 1 | 16 | 1,1 | 7 | 0,5 | 19 | 14 | 0,9 | 2 | 0 |
-| Mauro Júnior | M | 15 | 1250 | 2 | 2 | 13 | 0,9 | 6 | 0,4 | 9 | 19 | 1,3 | 2 | 0 |
-| I. Perišić | M | 14 | 1019 | 2 | 1 | 21 | 1,5 | 7 | 0,5 | 7 | 3 | 0,2 | 2 | 0 |
-| R. van Bommel | M | 14 | 987 | 4 | 3 | 27 | 1,9 | 10 | 0,7 | 23 | 9 | 0,6 | 4 | 0 |
-| L. Geertruida | D | 12 | 965 | 1 | 2 | 4 | 0,3 | 2 | 0,2 | 13 | 10 | 0,8 | 2 | 0 |
-| S. Mijnans | M | 14 | 875 | 9 | 3 | 34 | 2,4 | 17 | 1,2 | 13 | 8 | 0,6 | 1 | 1 |
-| F. Kostić | D | 10 | 644 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 7 | 5 | 0,5 | 2 | 0 |
-| R. Pepi | F | 11 | 595 | 4 | 1 | 21 | 1,9 | 8 | 0,7 | 3 | 1 | 0,1 | 0 | 0 |
+| M. Kovář | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| A. Obispo | D | 17 | 1418 | 0 | 2 | 10 | 0,6 | 0 | 0,0 | 23 | 9 | 0,5 | 5 | 0 |
+| G. Til | F | 17 | 1374 | 8 | 2 | 29 | 1,7 | 14 | 0,8 | 14 | 12 | 0,7 | 2 | 0 |
+| K. Sano | M | 16 | 1363 | 3 | 1 | 17 | 1,1 | 7 | 0,4 | 19 | 15 | 0,9 | 2 | 0 |
+| S. Dest | D | 16 | 1360 | 3 | 3 | 21 | 1,3 | 12 | 0,8 | 11 | 34 | 2,1 | 3 | 0 |
+| Mauro Júnior | M | 16 | 1291 | 2 | 2 | 13 | 0,8 | 6 | 0,4 | 9 | 19 | 1,2 | 2 | 0 |
+| I. Perišić | M | 15 | 1084 | 3 | 1 | 23 | 1,5 | 8 | 0,5 | 10 | 3 | 0,2 | 2 | 0 |
+| L. Geertruida | D | 13 | 1055 | 1 | 2 | 6 | 0,5 | 2 | 0,2 | 14 | 11 | 0,8 | 2 | 0 |
+| R. van Bommel | M | 15 | 1052 | 5 | 3 | 29 | 1,9 | 11 | 0,7 | 25 | 9 | 0,6 | 4 | 0 |
+| S. Mijnans | M | 15 | 965 | 9 | 4 | 37 | 2,5 | 18 | 1,2 | 14 | 8 | 0,5 | 1 | 1 |
+| F. Kostić | D | 11 | 734 | 1 | 0 | 7 | 0,6 | 3 | 0,3 | 8 | 5 | 0,5 | 3 | 0 |
+| R. Pepi | F | 12 | 611 | 4 | 1 | 22 | 1,8 | 8 | 0,7 | 3 | 1 | 0,1 | 0 | 0 |
 | R. Flamingo | D | 12 | 563 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 4 | 3 | 0,2 | 0 | 0 |
+| E. Bajraktarevic | F | 11 | 492 | 1 | 5 | 15 | 1,4 | 4 | 0,4 | 5 | 2 | 0,2 | 0 | 0 |
 | Paul Wanner | M | 8 | 492 | 0 | 2 | 7 | 0,9 | 5 | 0,6 | 4 | 8 | 1,0 | 0 | 0 |
-| E. Bajraktarevic | M | 10 | 467 | 1 | 5 | 14 | 1,4 | 4 | 0,4 | 5 | 2 | 0,2 | 0 | 0 |
-| N. Fernandez | M | 8 | 385 | 1 | 0 | 7 | 0,9 | 3 | 0,4 | 3 | 3 | 0,4 | 1 | 0 |
+| N. Fernandez | M | 9 | 434 | 1 | 0 | 7 | 0,8 | 3 | 0,3 | 4 | 4 | 0,4 | 2 | 0 |
 | Yarek Gasiorowski | D | 6 | 222 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 | A. Bouhamdi | F | 7 | 200 | 0 | 2 | 6 | 0,9 | 1 | 0,1 | 3 | 1 | 0,1 | 0 | 0 |
-| A. Santos | M | 6 | 121 | 1 | 0 | 4 | 0,7 | 1 | 0,2 | 2 | 4 | 0,7 | 0 | 0 |
+| A. Santos | M | 7 | 146 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 2 | 6 | 0,9 | 0 | 0 |
 | D. Man | F | 7 | 118 | 0 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 1 | 0,1 | 1 | 0 |
 
 ## Últimos partidos de GO Ahead Eagles

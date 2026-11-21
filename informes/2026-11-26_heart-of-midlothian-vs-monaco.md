@@ -1,7 +1,7 @@
 # Heart Of Midlothian – Monaco
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Tynecastle Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 14:05_
@@ -50,41 +50,41 @@ _Actualizadas: 21/11 14:05_
 ## Estadísticas de equipo
 | | Heart Of Midlothian (total) | Heart Of Midlothian en casa | Monaco (total) | Monaco fuera |
 |---|---|---|---|---|
-| Partidos analizados | 9 | 4 | 15 | 8 |
-| Forma (últimos 5) | DDEEE | EEED | EVDEV | EDDVE |
-| Balance | 0V 4E 5D | 0V 3E 1D | 9V 4E 2D | 4V 2E 2D |
-| Goles a favor / partido | 0,78 | 1,00 | 1,80 | 1,38 |
+| Partidos analizados | 9 | 4 | 16 | 8 |
+| Forma (últimos 5) | DDEEE | EEED | EEVDE | EDDVE |
+| Balance | 0V 4E 5D | 0V 3E 1D | 9V 5E 2D | 4V 2E 2D |
+| Goles a favor / partido | 0,78 | 1,00 | 1,75 | 1,38 |
 | Goles en contra / partido | 2,44 | 1,50 | 1,00 | 1,25 |
-| Goles a favor 1ª parte | 0,11 | 0,25 | 0,87 | 0,62 |
-| Goles a favor 2ª parte | 0,67 | 0,75 | 0,93 | 0,75 |
-| Goles en contra 1ª parte | 1,00 | 0,25 | 0,27 | 0,38 |
-| Goles en contra 2ª parte | 1,44 | 1,25 | 0,73 | 0,88 |
-| Más de 1,5 goles | 100% | 100% | 87% | 75% |
-| Más de 2,5 goles | 44% | 25% | 53% | 50% |
-| Más de 3,5 goles | 44% | 25% | 27% | 25% |
-| Ambos marcan | 67% | 75% | 67% | 75% |
-| Portería a cero | 0% | 0% | 27% | 12% |
-| Se queda sin marcar | 33% | 25% | 7% | 12% |
-| xG a favor | 1,22 | 1,81 | 1,30 | 0,92 |
-| xG en contra | 1,32 | 0,64 | 1,25 | 1,51 |
-| Tiros / partido | 13,7 | 14,2 | 11,9 | 10,5 |
+| Goles a favor 1ª parte | 0,11 | 0,25 | 0,81 | 0,62 |
+| Goles a favor 2ª parte | 0,67 | 0,75 | 0,94 | 0,75 |
+| Goles en contra 1ª parte | 1,00 | 0,25 | 0,31 | 0,38 |
+| Goles en contra 2ª parte | 1,44 | 1,25 | 0,69 | 0,88 |
+| Más de 1,5 goles | 100% | 100% | 88% | 75% |
+| Más de 2,5 goles | 44% | 25% | 50% | 50% |
+| Más de 3,5 goles | 44% | 25% | 25% | 25% |
+| Ambos marcan | 67% | 75% | 69% | 75% |
+| Portería a cero | 0% | 0% | 25% | 12% |
+| Se queda sin marcar | 33% | 25% | 6% | 12% |
+| xG a favor | 1,22 | 1,81 | 1,37 | 0,92 |
+| xG en contra | 1,32 | 0,64 | 1,18 | 1,51 |
+| Tiros / partido | 13,7 | 14,2 | 12,1 | 10,5 |
 | Tiros a puerta / partido | 4,2 | 4,5 | 4,7 | 4,0 |
-| Tiros recibidos | 18,1 | 14,2 | 13,0 | 17,0 |
-| Tiros a puerta recibidos | 6,6 | 5,8 | 4,3 | 5,6 |
-| Posesión media % | 46 | 46 | 52 | 50 |
-| Córners a favor | 4,9 | 4,5 | 4,1 | 3,6 |
-| Córners en contra | 6,4 | 6,2 | 5,6 | 6,0 |
+| Tiros recibidos | 18,1 | 14,2 | 12,6 | 17,0 |
+| Tiros a puerta recibidos | 6,6 | 5,8 | 4,1 | 5,6 |
+| Posesión media % | 46 | 46 | 53 | 50 |
+| Córners a favor | 4,9 | 4,5 | 4,0 | 3,6 |
+| Córners en contra | 6,4 | 6,2 | 5,2 | 6,0 |
 | Córners a favor 1ª parte | 1,7 | 2,0 | 1,7 | 1,5 |
 | Córners a favor 2ª parte | 3,2 | 2,5 | 2,3 | 2,1 |
-| Córners totales del partido | 11,3 | 10,8 | 9,7 | 9,6 |
-| Córners totales 1ª parte | 4,3 | 5,0 | 4,0 | 4,2 |
-| Córners totales 2ª parte | 6,4 | 5,8 | 5,7 | 5,4 |
-| Más de 8,5 córners | 78% | 100% | 53% | 62% |
-| Más de 9,5 córners | 56% | 75% | 47% | 50% |
-| Más de 10,5 córners | 44% | 50% | 40% | 50% |
+| Córners totales del partido | 11,3 | 10,8 | 9,2 | 9,6 |
+| Córners totales 1ª parte | 4,3 | 5,0 | 3,8 | 4,2 |
+| Córners totales 2ª parte | 6,4 | 5,8 | 5,4 | 5,4 |
+| Más de 8,5 córners | 78% | 100% | 50% | 62% |
+| Más de 9,5 córners | 56% | 75% | 44% | 50% |
+| Más de 10,5 córners | 44% | 50% | 38% | 50% |
 | Faltas cometidas | 11,3 | 9,2 | 12,1 | 12,5 |
-| Faltas recibidas | 16,3 | 14,8 | 11,6 | 12,0 |
-| Amarillas propias | 2,1 | 1,2 | 1,8 | 1,6 |
+| Faltas recibidas | 16,3 | 14,8 | 11,8 | 12,0 |
+| Amarillas propias | 2,1 | 1,2 | 1,7 | 1,6 |
 | Amarillas del rival | 2,1 | 1,8 | 1,7 | 1,8 |
 | Rojas / partido | 0,11 | 0,00 | 0,00 | 0,00 |
 
@@ -92,11 +92,11 @@ _Actualizadas: 21/11 14:05_
 | Tramo | Goles Heart Of Midlothian | Recibe Heart Of Midlothian | Tarjetas Heart Of Midlothian | Goles Monaco | Recibe Monaco | Tarjetas Monaco |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 2 | 2 | 4 | 0 | 0 |
-| 16-30' | 0 | 2 | 3 | 2 | 1 | 1 |
+| 16-30' | 0 | 2 | 3 | 2 | 2 | 1 |
 | 31-45' | 1 | 6 | 3 | 7 | 3 | 4 |
 | 46-60' | 1 | 6 | 4 | 5 | 5 | 7 |
 | 61-75' | 2 | 2 | 2 | 4 | 3 | 7 |
-| 76-90' | 4 | 6 | 8 | 5 | 3 | 8 |
+| 76-90' | 4 | 6 | 8 | 6 | 3 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -143,33 +143,33 @@ _Sin precedentes recientes._
 ## Últimos partidos de Monaco
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Ligue 1 | Monaco 1-1 Auxerre | casa | 3-0 | 15 (4) - 6 (2) | 0-1 |
 | 2026-11-08 | Ligue 1 | Le Mans 1-1 Monaco | fuera | 7-8 | 5 (3) - 19 (5) | 0-0 |
 | 2026-11-05 | Conference League | Monaco 2-0 FC Nordsjaelland | casa | 4-3 | 11 (5) - 3 (1) | 1-2 |
 | 2026-11-01 | Ligue 1 | Paris FC 3-1 Monaco | fuera | 2-3 | 9 (2) - 19 (10) | 2-2 |
 | 2026-10-25 | Ligue 1 | Monaco 1-1 Lille | casa | 6-1 | 21 (6) - 4 (2) | 3-4 |
 | 2026-10-22 | Conference League | Monaco 3-0 SC Freiburg | casa | 6-11 | 11 (7) - 12 (1) | 3-1 |
-| 2026-10-18 | Ligue 1 | Lorient 1-0 Monaco | fuera | 4-3 | 15 (4) - 9 (3) | 4-2 |
 
 ## Jugadores de Monaco
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Hrádecký | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 0 |
-| Sadibou Sané | D | 15 | 1277 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 12 | 4 | 0,3 | 0 | 0 |
-| L. Camara | M | 14 | 1229 | 2 | 1 | 8 | 0,6 | 4 | 0,3 | 19 | 46 | 3,3 | 3 | 0 |
-| Vanderson | D | 14 | 1100 | 0 | 1 | 7 | 0,5 | 3 | 0,2 | 19 | 7 | 0,5 | 3 | 0 |
+| L. Hrádecký | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 1 | 0 |
+| Sadibou Sané | D | 16 | 1367 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 12 | 7 | 0,4 | 0 | 0 |
+| L. Camara | M | 15 | 1319 | 2 | 1 | 11 | 0,7 | 4 | 0,3 | 19 | 48 | 3,2 | 3 | 0 |
+| Vanderson | M | 15 | 1190 | 0 | 2 | 8 | 0,5 | 3 | 0,2 | 20 | 8 | 0,5 | 3 | 0 |
+| D. Zakaria | M | 16 | 1110 | 0 | 0 | 9 | 0,6 | 4 | 0,2 | 13 | 6 | 0,4 | 2 | 0 |
+| Flávio Nazinho | M | 15 | 1072 | 1 | 2 | 4 | 0,3 | 2 | 0,1 | 22 | 13 | 0,9 | 3 | 0 |
+| Paris Josua  Brunner | F | 14 | 1071 | 8 | 1 | 34 | 2,4 | 18 | 1,3 | 14 | 18 | 1,3 | 0 | 0 |
 | A. Golovin | M | 14 | 1050 | 1 | 3 | 9 | 0,6 | 6 | 0,4 | 14 | 9 | 0,6 | 4 | 0 |
-| D. Zakaria | M | 15 | 1041 | 0 | 0 | 9 | 0,6 | 4 | 0,3 | 13 | 5 | 0,3 | 2 | 0 |
-| Flávio Nazinho | D | 14 | 1003 | 1 | 2 | 4 | 0,3 | 2 | 0,1 | 19 | 11 | 0,8 | 3 | 0 |
-| Paris Josua  Brunner | F | 13 | 981 | 8 | 1 | 33 | 2,5 | 18 | 1,4 | 14 | 17 | 1,3 | 0 | 0 |
-| E. Dier | D | 11 | 958 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 10 | 2 | 0,2 | 0 | 0 |
+| E. Dier | D | 12 | 1048 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 11 | 3 | 0,2 | 0 | 0 |
+| M. Abline | M | 13 | 636 | 2 | 2 | 23 | 1,8 | 7 | 0,5 | 8 | 10 | 0,8 | 0 | 0 |
+| J. Teze | D | 10 | 576 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 4 | 6 | 0,6 | 1 | 0 |
 | Stanis Idumbo Muzambo | M | 8 | 566 | 1 | 2 | 9 | 1,1 | 3 | 0,4 | 3 | 9 | 1,1 | 0 | 0 |
-| M. Abline | F | 12 | 556 | 2 | 2 | 18 | 1,5 | 6 | 0,5 | 8 | 10 | 0,8 | 0 | 0 |
-| M. Detourbet | M | 12 | 531 | 1 | 2 | 7 | 0,6 | 3 | 0,2 | 10 | 11 | 0,9 | 2 | 0 |
-| J. Teze | D | 9 | 486 | 0 | 2 | 1 | 0,1 | 0 | 0,0 | 3 | 6 | 0,7 | 1 | 0 |
+| M. Detourbet | F | 13 | 552 | 1 | 2 | 7 | 0,5 | 3 | 0,2 | 10 | 11 | 0,8 | 2 | 0 |
+| E. Diop | M | 9 | 485 | 3 | 2 | 6 | 0,7 | 4 | 0,4 | 9 | 3 | 0,3 | 1 | 0 |
 | M. Coulibaly | M | 8 | 466 | 2 | 1 | 4 | 0,5 | 3 | 0,4 | 7 | 13 | 1,6 | 1 | 0 |
-| Edan Diop | M | 8 | 464 | 2 | 2 | 5 | 0,6 | 3 | 0,4 | 9 | 3 | 0,4 | 1 | 0 |
 | C. Mawissa Elebi | D | 8 | 430 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,2 | 1 | 0 |
-| T. Minamino | M | 5 | 272 | 0 | 1 | 2 | 0,4 | 1 | 0,2 | 0 | 2 | 0,4 | 0 | 0 |
-| F. Balogun | F | 7 | 230 | 1 | 0 | 9 | 1,3 | 5 | 0,7 | 3 | 2 | 0,3 | 0 | 0 |
+| T. Minamino | M | 6 | 331 | 0 | 1 | 6 | 1,0 | 3 | 0,5 | 5 | 4 | 0,7 | 0 | 0 |
+| F. Balogun | F | 8 | 261 | 1 | 0 | 9 | 1,1 | 5 | 0,6 | 3 | 2 | 0,2 | 0 | 0 |
 | Ansu Fati | M | 5 | 205 | 2 | 0 | 5 | 1,0 | 4 | 0,8 | 3 | 1 | 0,2 | 1 | 0 |
 | Anis Soubeir | M | 8 | 186 | 0 | 0 | 3 | 0,4 | 2 | 0,2 | 6 | 1 | 0,1 | 2 | 0 |
