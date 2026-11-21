@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 14:59",
+ "actualizado": "2026-11-21 15:10",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3359,
-   "hoy": 111,
+   "seguidores": 3361,
+   "hoy": 113,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3359
+    3361
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3905,
- "total_hoy": 113,
+ "total": 3907,
+ "total_hoy": 115,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:00",
+  "hora": "15:20",
   "dia": "2026-11-21",
-  "titulo": "Este lo tenemos claro"
+  "titulo": "La combi de los empates"
  },
  "ayer": {
   "aciertos": 3,
@@ -246,7 +246,7 @@
   },
   "2026-11-21": {
    "instagram": 54,
-   "threads": 3359,
+   "threads": 3361,
    "facebook": 1,
    "telegram": 491
   }

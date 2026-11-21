@@ -53,16 +53,16 @@
    "justa": 1.71,
    "ev": 0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
-   "local": "Bayer Leverkusen",
-   "visitante": "SC Paderborn 07",
-   "inicio": "2026-11-21T15:30",
-   "texto": "Bayer Leverkusen marca 3 o más",
+   "local": "Estoril",
+   "visitante": "Felgueiras 1932",
+   "inicio": "2026-11-21T17:00",
+   "texto": "Estoril marca 2 o más",
    "cuota": 1.8,
-   "justa": 1.78,
-   "ev": 0.009,
+   "justa": 1.8,
+   "ev": -0.001,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   },
@@ -75,7 +75,7 @@
    "justa": 1.58,
    "ev": -0.004,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "Granada",
@@ -86,7 +86,7 @@
    "justa": 1.81,
    "ev": -0.007,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
   },
   {
    "local": "Arges Pitesti",
@@ -97,29 +97,7 @@
    "justa": 1.82,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 0.8
-  },
-  {
-   "local": "Eintracht Frankfurt",
-   "visitante": "1899 Hoffenheim",
-   "inicio": "2026-11-21T15:30",
-   "texto": "1899 Hoffenheim marca 2 o más",
-   "cuota": 1.73,
-   "justa": 1.75,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Bayer Leverkusen",
-   "visitante": "SC Paderborn 07",
-   "inicio": "2026-11-21T15:30",
-   "texto": "SC Paderborn 07 marca",
-   "cuota": 1.57,
-   "justa": 1.59,
-   "ev": -0.014,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 1.1
   },
   {
    "local": "Telstar",
@@ -130,11 +108,33 @@
    "justa": 1.86,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 0.8
+   "edad_h": 1.1
+  },
+  {
+   "local": "Parma",
+   "visitante": "AS Roma",
+   "inicio": "2026-11-21T18:00",
+   "texto": "Más de 1,5 goles en la 2ª parte del Parma–AS Roma",
+   "cuota": 1.73,
+   "justa": 1.76,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Castellón",
+   "visitante": "Eldense",
+   "inicio": "2026-11-21T18:30",
+   "texto": "Ambos marcan en Castellón–Eldense",
+   "cuota": 1.8,
+   "justa": 1.83,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 1.1
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T14:49",
+  "hora": "2026-11-21T15:11",
   "revisadas": 0,
   "mejor": null
  },
