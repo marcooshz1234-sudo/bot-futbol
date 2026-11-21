@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T11:11+01:00",
+ "generado": "2026-11-21T11:44+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -1285,36 +1285,6 @@
     }
    ],
    "cuota": 3.24
-  },
-  {
-   "equipo": "Borussia Mönchengladbach",
-   "liga": "Bundesliga",
-   "partido": "Borussia Mönchengladbach–Borussia Dortmund",
-   "hora": "2026-11-21T15:30",
-   "logo": "https://media.api-sports.io/football/teams/163.png",
-   "patas": [
-    {
-     "sel": "1575226|Total - Home|Over 0.5",
-     "texto": "Borussia Mönchengladbach marca",
-     "cuota": 1.4,
-     "p": 0.768,
-     "dato": "marca 1,8 por partido y el rival encaja 0,9",
-     "nota": 0.7851943278951498,
-     "partido": "Borussia Mönchengladbach–Borussia Dortmund",
-     "hora": "2026-11-21T15:30"
-    },
-    {
-     "sel": "1575226|Home Team Total Cards|Over 1.5",
-     "texto": "Borussia Mönchengladbach ve más de 1,5 tarjetas",
-     "cuota": 1.5,
-     "p": 0.723,
-     "dato": "Borussia Mönchengladbach ve 2,8 amarillas por partido",
-     "nota": 0.7649176499678361,
-     "partido": "Borussia Mönchengladbach–Borussia Dortmund",
-     "hora": "2026-11-21T15:30"
-    }
-   ],
-   "cuota": 2.1
   },
   {
    "equipo": "Borussia Dortmund",
