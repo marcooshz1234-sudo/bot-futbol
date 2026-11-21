@@ -3074,5 +3074,14 @@
   "errores_redes": {
    "threads": "767 caracteres (máx. 500)"
   }
+ },
+ "2026-11-21-pick-seguro-3": {
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
  }
 }

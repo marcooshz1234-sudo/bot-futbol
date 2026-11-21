@@ -53,17 +53,6 @@
    "justa": 2.04,
    "ev": 0.029,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Bayer Leverkusen",
-   "visitante": "SC Paderborn 07",
-   "inicio": "2026-11-21T15:30",
-   "texto": "Bayer Leverkusen marca 3 o más",
-   "cuota": 1.8,
-   "justa": 1.78,
-   "ev": 0.009,
-   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
@@ -75,7 +64,7 @@
    "justa": 1.56,
    "ev": 0.009,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -86,7 +75,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Vejle",
@@ -97,7 +86,7 @@
    "justa": 1.44,
    "ev": 0.002,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -108,33 +97,22 @@
    "justa": 1.8,
    "ev": -0.001,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "West Ham",
-   "visitante": "Preston",
-   "inicio": "2026-11-21T16:00",
-   "texto": "Preston marca",
-   "cuota": 1.8,
-   "justa": 1.82,
-   "ev": -0.009,
-   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
-   "local": "Eintracht Frankfurt",
-   "visitante": "1899 Hoffenheim",
-   "inicio": "2026-11-21T15:30",
-   "texto": "1899 Hoffenheim marca 2 o más",
+   "local": "Vejle",
+   "visitante": "HB Koge",
+   "inicio": "2026-11-21T13:30",
+   "texto": "Ambos marcan en Vejle–HB Koge",
    "cuota": 1.73,
    "justa": 1.75,
-   "ev": -0.011,
-   "fuente": "Pinnacle",
+   "ev": -0.013,
+   "fuente": "las otras casas",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T12:12",
+  "hora": "2026-11-21T12:35",
   "revisadas": 0,
   "mejor": null
  },
