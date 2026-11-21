@@ -253,7 +253,7 @@ def partido_caido(post):
         nueva = fechas_calendario().get(fid)
         try:
             dia_post = datetime.fromisoformat(post["fecha"][:16]).date()
-            if nueva and fecha(nueva).astimezone(MADRID).date() > dia_post + timedelta(days=1):
+            if nueva and not post.get("varios_dias") and fecha(nueva).astimezone(MADRID).date() > dia_post + timedelta(days=1):   # 21/11: boletos de Marcos de sáb a lun
                 return f"partido {fid} movido al {fecha(nueva).astimezone(MADRID).strftime('%d/%m')}"
         except (KeyError, ValueError):
             pass
