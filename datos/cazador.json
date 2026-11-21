@@ -53,7 +53,7 @@
    "justa": 1.71,
    "ev": 0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Estoril",
@@ -64,7 +64,7 @@
    "justa": 1.8,
    "ev": -0.001,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Telstar",
@@ -75,7 +75,7 @@
    "justa": 1.58,
    "ev": -0.004,
    "fuente": "las otras casas",
-   "edad_h": 1.1
+   "edad_h": 1.5
   },
   {
    "local": "Granada",
@@ -86,7 +86,7 @@
    "justa": 1.81,
    "ev": -0.007,
    "fuente": "las otras casas",
-   "edad_h": 1.1
+   "edad_h": 1.5
   },
   {
    "local": "Arges Pitesti",
@@ -97,7 +97,7 @@
    "justa": 1.82,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 1.1
+   "edad_h": 1.5
   },
   {
    "local": "Telstar",
@@ -108,7 +108,7 @@
    "justa": 1.86,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 1.1
+   "edad_h": 1.5
   },
   {
    "local": "Parma",
@@ -119,7 +119,7 @@
    "justa": 1.76,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Castellón",
@@ -130,11 +130,11 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 1.1
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T15:11",
+  "hora": "2026-11-21T15:32",
   "revisadas": 0,
   "mejor": null
  },
