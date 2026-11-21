@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 00:02",
+ "actualizado": "2026-11-22 00:12",
  "redes": {
   "instagram": {
    "seguidores": 55,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3477,
-   "hoy": 2,
+   "seguidores": 3480,
+   "hoy": 5,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3477
+    3480
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4030,
- "total_hoy": 3,
+ "total": 4033,
+ "total_hoy": 6,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "01:00",
+  "hora": "00:20",
   "dia": "2026-11-22",
-  "titulo": "Serie a - ganadores"
+  "titulo": "Combi por 46,78"
  },
  "ayer": null,
  "escalera": {
@@ -249,7 +249,7 @@
   },
   "2026-11-22": {
    "instagram": 55,
-   "threads": 3477,
+   "threads": 3480,
    "facebook": 1,
    "telegram": 497
   }

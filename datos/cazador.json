@@ -43,9 +43,21 @@
    "post": "2026-11-21-cuotaza-1647593-dcae0e"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Granada",
+   "visitante": "Real Madrid W",
+   "inicio": "2026-11-22T12:00",
+   "texto": "Granada marca",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.015,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-21T23:51",
+  "hora": "2026-11-22T00:12",
   "revisadas": 0,
   "mejor": null
  },
