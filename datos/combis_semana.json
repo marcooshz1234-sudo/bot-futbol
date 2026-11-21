@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T01:39+01:00",
+ "generado": "2026-11-21T02:09+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -2191,21 +2191,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550200|Match Winner|Home",
-     "texto": "Gana Como",
-     "cuota": 1.27,
-     "p": 0.744,
-     "dato": "Como: VVVEV en sus últimos 5 · en casa",
-     "nota": 0.7170467361102815,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    },
-    {
      "sel": "1552824|Match Winner|Away",
      "texto": "Gana Paris Saint Germain",
      "cuota": 1.42,
@@ -2234,6 +2219,21 @@
      "liga": "LaLiga",
      "logo_l": "https://media.api-sports.io/football/teams/529.png",
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
+    },
+    {
+     "sel": "1552825|Match Winner|Home",
+     "texto": "Gana Paris FC",
+     "cuota": 1.33,
+     "p": 0.733,
+     "dato": "Paris FC: VVVEV en sus últimos 5 · en casa",
+     "nota": 0.719891123447346,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Paris FC–Angers",
+     "hora": "2026-11-22T15:00",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/114.png",
+     "logo_v": "https://media.api-sports.io/football/teams/77.png"
     },
     {
      "sel": "1635649|Match Winner|Home",
@@ -2281,8 +2281,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 5.55,
-   "prob": 0.176
+   "cuota": 5.81,
+   "prob": 0.173
   },
   {
    "clave": "ganan-larga",
@@ -2290,36 +2290,6 @@
    "expl": "Todos los favoritos claros, hasta 12 (puede llevar los de la de arriba)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1550200|Match Winner|Home",
-     "texto": "Gana Como",
-     "cuota": 1.27,
-     "p": 0.744,
-     "dato": "Como: VVVEV en sus últimos 5 · en casa",
-     "nota": 0.7170467361102815,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    },
-    {
-     "sel": "1550202|Match Winner|Home",
-     "texto": "Gana Lazio",
-     "cuota": 1.33,
-     "p": 0.689,
-     "dato": "Lazio: VVVEV en sus últimos 5 · en casa",
-     "nota": 0.6471994167932967,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Lazio–Lecce",
-     "hora": "2026-11-21T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/487.png",
-     "logo_v": "https://media.api-sports.io/football/teams/867.png"
-    },
     {
      "sel": "1575222|Match Winner|Home",
      "texto": "Gana Bayer Leverkusen",
@@ -2411,6 +2381,36 @@
      "logo_v": "https://media.api-sports.io/football/teams/77.png"
     },
     {
+     "sel": "1575227|Match Winner|Home",
+     "texto": "Gana Werder Bremen",
+     "cuota": 1.67,
+     "p": 0.608,
+     "dato": "Werder Bremen: VEVV en sus últimos 5 · en casa",
+     "nota": 0.6152845289368369,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Werder Bremen–Hamburger SV",
+     "hora": "2026-11-22T17:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/175.png"
+    },
+    {
+     "sel": "1570456|Match Winner|Away",
+     "texto": "Gana Atletico Madrid",
+     "cuota": 1.55,
+     "p": 0.621,
+     "dato": "Atletico Madrid: VEVVV en sus últimos 5 · fuera",
+     "nota": 0.601453480653425,
+     "lado": "V",
+     "ganador": true,
+     "partido": "Getafe–Atletico Madrid",
+     "hora": "2026-11-22T21:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/546.png",
+     "logo_v": "https://media.api-sports.io/football/teams/530.png"
+    },
+    {
      "sel": "1635641|Match Winner|Home",
      "texto": "Gana Bodo/Glimt",
      "cuota": 1.48,
@@ -2471,8 +2471,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 35.9,
-   "prob": 0.017
+   "cuota": 55.02,
+   "prob": 0.012
   },
   {
    "clave": "top",
