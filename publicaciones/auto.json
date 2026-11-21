@@ -10914,12 +10914,12 @@
       "1552824|Anytime Goal Scorer|Ousmane Dembele"
     ],
     "cuotas": [
-      1.5,
       1.4,
-      1.42,
+      1.4,
+      1.45,
+      1.36,
+      1.4,
       1.44,
-      1.5,
-      1.53,
       1.57,
       1.83
     ],
@@ -10940,7 +10940,8 @@
     "cuota_bet365": 11.24,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-21T12:55"
   },
   {
     "id": "2026-11-21-loca-th-1440-escudos",
