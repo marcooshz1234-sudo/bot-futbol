@@ -11530,12 +11530,13 @@
       1.5,
       1.67,
       1.5,
-      1.75,
+      1.8,
       1.7,
       1.62,
-      1.67
+      1.8
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-21T21:31"
   },
   {
     "id": "2026-11-22-ganadores-laliga",
