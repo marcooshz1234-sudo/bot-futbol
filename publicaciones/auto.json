@@ -10712,10 +10712,10 @@
       1.73,
       1.36,
       1.4,
-      1.36,
+      1.44,
       1.57,
-      1.67,
-      1.8
+      1.73,
+      1.91
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -10735,7 +10735,7 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-21T10:16"
+    "cuotas_revisadas": "2026-11-21T11:18"
   },
   {
     "id": "2026-11-21-combi-500",
