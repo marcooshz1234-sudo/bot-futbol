@@ -53,7 +53,7 @@
    "justa": 1.81,
    "ev": -0.007,
    "fuente": "las otras casas",
-   "edad_h": 7.4
+   "edad_h": 7.7
   },
   {
    "local": "Arges Pitesti",
@@ -64,11 +64,11 @@
    "justa": 1.82,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 7.3
+   "edad_h": 7.7
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T21:25",
+  "hora": "2026-11-21T21:46",
   "revisadas": 0,
   "mejor": null
  },
