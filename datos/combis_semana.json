@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T04:35+01:00",
+ "generado": "2026-11-21T05:05+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -795,36 +795,6 @@
    "cuota": 2.07
   },
   {
-   "equipo": "Bournemouth",
-   "liga": "Premier League",
-   "partido": "Bournemouth–Nottingham Forest",
-   "hora": "2026-11-21T16:00",
-   "logo": "https://media.api-sports.io/football/teams/35.png",
-   "patas": [
-    {
-     "sel": "1557468|To Win Either Half|Home",
-     "texto": "Bournemouth gana alguna de las dos partes",
-     "cuota": 1.5,
-     "p": 0.771,
-     "dato": "Bournemouth: VVVVV en sus últimos 5",
-     "nota": 0.8500713173316444,
-     "partido": "Bournemouth–Nottingham Forest",
-     "hora": "2026-11-21T16:00"
-    },
-    {
-     "sel": "1557468|Home Team Total Cards|Over 1.5",
-     "texto": "Bournemouth ve más de 1,5 tarjetas",
-     "cuota": 1.62,
-     "p": 0.681,
-     "dato": "Bournemouth ve 2,7 amarillas por partido",
-     "nota": 0.7077290849060148,
-     "partido": "Bournemouth–Nottingham Forest",
-     "hora": "2026-11-21T16:00"
-    }
-   ],
-   "cuota": 2.43
-  },
-  {
    "equipo": "Nottingham Forest",
    "liga": "Premier League",
    "partido": "Bournemouth–Nottingham Forest",
@@ -1444,18 +1414,6 @@
      "hora": "2026-11-21T15:30"
     },
     {
-     "sel": "1575222|Away Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (0-1-2-2-1-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "SC Paderborn 07",
-     "lado": "V",
-     "partido": "Bayer Leverkusen–SC Paderborn 07",
-     "hora": "2026-11-21T15:30"
-    },
-    {
      "sel": "1575222|Away Corners Over/Under|Over 2.5",
      "texto": "SC Paderborn 07: más de 2,5 córners",
      "cuota": 1.67,
@@ -1466,7 +1424,7 @@
      "hora": "2026-11-21T15:30"
     }
    ],
-   "cuota": 3.58
+   "cuota": 2.34
   },
   {
    "equipo": "Union Berlin",
@@ -3007,21 +2965,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/490.png"
     },
     {
-     "sel": "1575222|Away Player Shots|Santiago Castaneda - 1",
-     "texto": "Santiago Castaneda: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (0-1-2-2-1-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "SC Paderborn 07",
-     "lado": "V",
-     "partido": "Bayer Leverkusen–SC Paderborn 07",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/168.png",
-     "logo_v": "https://media.api-sports.io/football/teams/185.png"
-    },
-    {
      "sel": "1575225|Total - Home|Over 0.5",
      "texto": "Union Berlin marca",
      "cuota": 1.4,
@@ -3048,6 +2991,21 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/49.png",
      "logo_v": "https://media.api-sports.io/football/teams/63.png"
+    },
+    {
+     "sel": "1557467|Player Fouls Committed|George Hemmings - 2",
+     "texto": "George Hemmings: comete 2+ faltas",
+     "cuota": 1.67,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,78 por 90' (0-2-2-2-2)",
+     "nota": 0.8684642857142858,
+     "equipo": "Aston Villa",
+     "lado": "L",
+     "partido": "Aston Villa–Sunderland",
+     "hora": "2026-11-21T16:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/66.png",
+     "logo_v": "https://media.api-sports.io/football/teams/746.png"
     },
     {
      "sel": "1550204|Player Fouls Committed|Kevin De Bruyne - 1",
@@ -3140,8 +3098,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 54.9,
-   "prob": 0.11
+   "cuota": 59.92,
+   "prob": 0.105
   }
  ],
  "otras_ligas": false,
