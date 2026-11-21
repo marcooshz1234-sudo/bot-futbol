@@ -7374,6 +7374,18 @@
    },
    {
     "equipo": 43,
+    "jugador": "G. Osho",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 43,
+    "jugador": "P. Ng",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 43,
     "jugador": "C. Robinson",
     "tipo": "Questionable",
     "motivo": "Inactive"
@@ -7462,25 +7474,7 @@
    },
    {
     "equipo": 72,
-    "jugador": "R. Burrell",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 72,
     "jugador": "T. Lamptey",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 72,
-    "jugador": "A. Lloyd",
-    "tipo": "Missing Fixture",
-    "motivo": "Hamstring Injury"
-   },
-   {
-    "equipo": 72,
-    "jugador": "N. Madsen",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    },
@@ -7489,9 +7483,33 @@
     "jugador": "A. S. Mbengue",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 72,
+    "jugador": "R. Burrell",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 72,
+    "jugador": "A. Lloyd",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 72,
+    "jugador": "N. Madsen",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
    }
   ],
   "1563270": [
+   {
+    "equipo": 41,
+    "jugador": "K. Schlotterbeck",
+    "tipo": "Missing Fixture",
+    "motivo": "Shoulder Injury"
+   },
    {
     "equipo": 41,
     "jugador": "C. Jander",
@@ -7499,40 +7517,10 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 41,
-    "jugador": "C. Larin",
-    "tipo": "Questionable",
-    "motivo": "Hamstring Injury"
-   },
-   {
-    "equipo": 69,
-    "jugador": "P. Agyemang",
-    "tipo": "Missing Fixture",
-    "motivo": "Achilles Tendon Injury"
-   },
-   {
-    "equipo": 69,
-    "jugador": "E. Cashin",
-    "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 69,
-    "jugador": "M. Clarke",
-    "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
-   },
-   {
     "equipo": 69,
     "jugador": "C. Forsyth",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 69,
-    "jugador": "R. Hedges",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 69,
@@ -7560,8 +7548,32 @@
    },
    {
     "equipo": 69,
+    "jugador": "P. Agyemang",
+    "tipo": "Questionable",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "E. Cashin",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "M. Clarke",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 69,
+    "jugador": "R. Hedges",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 69,
     "jugador": "J. Ward",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Back Injury"
    }
   ],
@@ -7957,6 +7969,12 @@
    },
    {
     "equipo": 62,
+    "jugador": "J. Rothwell",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 62,
     "jugador": "F. Seriki",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
@@ -7966,18 +7984,6 @@
     "jugador": "J. Shackleton",
     "tipo": "Missing Fixture",
     "motivo": "Health problems"
-   },
-   {
-    "equipo": 62,
-    "jugador": "P. Bamford",
-    "tipo": "Questionable",
-    "motivo": "Shoulder Injury"
-   },
-   {
-    "equipo": 62,
-    "jugador": "J. Rothwell",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 38,
@@ -8167,6 +8173,12 @@
    },
    {
     "equipo": 1335,
+    "jugador": "N. Chalobah",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1335,
     "jugador": "K. Ramsay",
     "tipo": "Questionable",
     "motivo": "Injury"
@@ -8250,8 +8262,14 @@
    {
     "equipo": 75,
     "jugador": "A. Cresswell",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 75,
+    "jugador": "S. Gallagher",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
    },
    {
     "equipo": 54,
@@ -8451,26 +8469,26 @@
    },
    {
     "equipo": 70,
-    "jugador": "W. Lankshear",
-    "tipo": "Missing Fixture",
-    "motivo": "Hamstring Injury"
-   },
-   {
-    "equipo": 70,
     "jugador": "R. Pukstas",
     "tipo": "Missing Fixture",
     "motivo": "Hamstring Injury"
    },
    {
+    "equipo": 70,
+    "jugador": "W. Lankshear",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
     "equipo": 56,
     "jugador": "N. Eile",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Illness"
    },
    {
     "equipo": 56,
     "jugador": "G. Yah",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Injury"
    }
   ],
@@ -8495,12 +8513,6 @@
    },
    {
     "equipo": 1837,
-    "jugador": "N. Broadhead",
-    "tipo": "Missing Fixture",
-    "motivo": "Thigh Injury"
-   },
-   {
-    "equipo": 1837,
     "jugador": "L. Cacace",
     "tipo": "Missing Fixture",
     "motivo": "Calf Injury"
@@ -8513,9 +8525,9 @@
    },
    {
     "equipo": 1837,
-    "jugador": "J. Windass",
-    "tipo": "Missing Fixture",
-    "motivo": "Ankle Injury"
+    "jugador": "N. Broadhead",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
    },
    {
     "equipo": 1837,
@@ -8528,15 +8540,15 @@
     "jugador": "S. Revan",
     "tipo": "Questionable",
     "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 1837,
+    "jugador": "J. Windass",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
    }
   ],
   "1563263": [
-   {
-    "equipo": 68,
-    "jugador": "G. Bazunu",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
    {
     "equipo": 68,
     "jugador": "E. Erhahon",
@@ -8563,8 +8575,14 @@
    },
    {
     "equipo": 68,
+    "jugador": "G. Bazunu",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 68,
     "jugador": "E. Toal",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Muscle Injury"
    },
    {
@@ -8620,6 +8638,12 @@
     "jugador": "M. Milovanovic",
     "tipo": "Questionable",
     "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 1355,
+    "jugador": "I. Mohamed",
+    "tipo": "Questionable",
+    "motivo": "Injury"
    }
   ],
   "1557470": [
@@ -8762,15 +8786,15 @@
    },
    {
     "equipo": 197,
-    "jugador": "P. Wanner",
-    "tipo": "Missing Fixture",
-    "motivo": "Foot Injury"
-   },
-   {
-    "equipo": 197,
     "jugador": "S. Dest",
     "tipo": "Questionable",
     "motivo": "Injury"
+   },
+   {
+    "equipo": 197,
+    "jugador": "P. Wanner",
+    "tipo": "Questionable",
+    "motivo": "Foot Injury"
    }
   ],
   "1647581": [],
@@ -9087,12 +9111,6 @@
     "jugador": "D. Visser",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 420,
-    "jugador": "D. Westerhof",
-    "tipo": "Missing Fixture",
-    "motivo": "Inactive"
    },
    {
     "equipo": 420,
@@ -9960,9 +9978,53 @@
     "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
    }
+  ],
+  "1575224": [
+   {
+    "equipo": 170,
+    "jugador": "N. Banks",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 170,
+    "jugador": "C. Brackelmann",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 170,
+    "jugador": "H. Massengo",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 170,
+    "jugador": "C. Matsima",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 170,
+    "jugador": "S. Mounie",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 164,
+    "jugador": "D. Kohr",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 164,
+    "jugador": "Silas",
+    "tipo": "Missing Fixture",
+    "motivo": "Broken shinbone"
+   }
   ]
  },
- "ultima": "2026-11-21T09:00:33.903771+01:00",
+ "ultima": "2026-11-21T09:31:29.513440+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
