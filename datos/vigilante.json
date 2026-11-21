@@ -136,31 +136,36 @@
   "prensa-1570455-b5f7d136": "2026-11-21T03:01",
   "prensa-1570458-50012bbc": "2026-11-21T03:01",
   "prensa-1557475-bc1183fb": "2026-11-21T09:03",
-  "prensa-1570459-30c88eb7": "2026-11-21T09:03"
+  "prensa-1570459-30c88eb7": "2026-11-21T09:03",
+  "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1": "2026-11-21T09:51"
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
+   "clave": "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1",
+   "t": "📉 Bayer Leverkusen–SC Paderborn 07 Santiago Castaneda - 1: la cuota ha pasado de 1.33 a 1.53 (+15%) desde que se hizo «💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥» (11:20). Suele haber una noticia detrás"
   },
   {
    "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
-   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
   },
   {
    "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
+   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
+   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -168,7 +173,7 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
+   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -188,8 +193,13 @@
    "t": "📰 Chelsea–Leeds: «Xabi Alonso confirma que Moi Caicedo está disponible con el Chelsea tras salir con molestias ante Bolivia» (Studiofutbol) · tenemos 1 post(s) de este partido: loca-th-1000-escudos"
   }
  ],
- "revisado": "2026-11-21T09:43",
+ "revisado": "2026-11-21T09:51",
  "historial": [
+  {
+   "hora": "2026-11-21T09:51",
+   "t": "📉 Bayer Leverkusen–SC Paderborn 07 Santiago Castaneda - 1: la cuota ha pasado de 1.33 a 1.53 (+15%) desde que se hizo «💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥» (11:20). Suele haber una noticia detrás",
+   "k": "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1"
+  },
   {
    "hora": "2026-11-21T09:03",
    "t": "📰 Newcastle–Arsenal: «Mikel Arteta confirma la lesión de Martín Zubimendi en pleno tramo decisivo del calendario del Arsenal» (Tribuna.com) · tenemos 2 post(s) de este partido: pick-seguro, estrella-1557475",
@@ -484,11 +494,6 @@
    "hora": "2026-11-20T00:58",
    "t": "📰 Alaves–Deportivo La Coruna: «Aubameyang enciende las alarmas en el Deportivo: molestias en el tobillo a 48 horas del partido ante el Alavés» (Cadena SER) · tenemos 1 post(s) de este partido: ganadores-laliga",
    "k": "prensa-1570453-PAubameyang"
-  },
-  {
-   "hora": "2026-11-20T00:58",
-   "t": "📰 Rayo Vallecano–Valencia: «Beñat San José, la duda del Rayo Vallecano y de sus rivales en la tabla: \"¿Europa o el descenso? Estamos todos» (Estadio Deportivo) · tenemos 1 post(s) de este partido: ganadores-laliga",
-   "k": "prensa-1570460-7d5af23c"
   }
  ]
 }

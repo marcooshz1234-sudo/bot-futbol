@@ -10655,7 +10655,7 @@
   {
     "id": "2026-11-21-loca-th-1120-escudos",
     "fecha": "2026-11-21T11:20",
-    "texto": "💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥\n\n⭐ Bayer Leverkusen vs SC Paderborn 07 · 15:30\n\n✅ 💨 Santiago Castaneda: 1+ tiros\n✅ 💨 Malik Tillman: 2+ tiros\n✅ 💨 Patrik Schick: 4+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Bayer Leverkusen–SC Paderborn 07\n✅ ☄️ Patrik Schick marca\n✅ ☄️ SC Paderborn 07 marca\n\n🎯 CUOTA 5,65 aprox. 💎 10€ → 62,70€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥\n\n⭐ Bayer Leverkusen vs SC Paderborn 07 · 15:30\n\n✅ 💨 Santiago Castaneda: 1+ tiros\n✅ 💨 Malik Tillman: 2+ tiros\n✅ 💨 Patrik Schick: 4+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Bayer Leverkusen–SC Paderborn 07\n✅ ☄️ Patrik Schick marca\n✅ ☄️ SC Paderborn 07 marca\n\n🎯 CUOTA 6,27 aprox. 💎 10€ → 62,70€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1575222|Away Player Shots|Santiago Castaneda - 1",
       "1575222|Home Player Shots|Malik Tillman - 2",
@@ -10665,7 +10665,7 @@
       "1575222|Total - Away|Over 0.5"
     ],
     "cuotas": [
-      1.53,
+      1.33,
       1.4,
       1.4,
       1.53,
@@ -10690,7 +10690,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "revisado_bajas": "2026-11-21T00:14"
+    "revisado_bajas": "2026-11-21T00:14",
+    "cuotas_revisadas": "2026-11-21T09:50"
   },
   {
     "id": "2026-11-21-loca-th-1140-escudos",
