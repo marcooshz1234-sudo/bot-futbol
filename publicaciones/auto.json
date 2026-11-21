@@ -13751,12 +13751,12 @@
     ],
     "cuotas": [
       1.4,
+      1.36,
       1.4,
-      1.4,
-      1.4,
+      1.36,
       1.4,
       1.57,
-      1.95
+      1.91
     ],
     "origen": "threads_locas",
     "cuota_bet365": 5.59,
@@ -13775,6 +13775,7 @@
       "liga": "La Liga"
     },
     "cuota_total": 5.59,
-    "cuota_calculada": true
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-21T22:05"
   }
 ]
