@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T13:17+01:00",
+ "generado": "2026-11-21T13:48+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -9,20 +9,6 @@
   {
    "liga": "LaLiga",
    "patas": [
-    {
-     "sel": "1570453|Player Fouls Committed|Ville Koski - 1",
-     "texto": "Ville Koski: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 2,00 por 90' (4-2-2-1-2-1)",
-     "nota": 0.976,
-     "equipo": "Alaves",
-     "lado": "L",
-     "partido": "Alaves–Deportivo La Coruna",
-     "hora": "2026-11-21T14:00",
-     "logo_l": "https://media.api-sports.io/football/teams/542.png",
-     "logo_v": "https://media.api-sports.io/football/teams/544.png"
-    },
     {
      "sel": "1570460|Total - Away|Over 0.5",
      "texto": "Valencia marca",
@@ -102,8 +88,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/797.png"
     }
    ],
-   "cuota": 17.69,
-   "media": 0.9305750176245752
+   "cuota": 12.64,
+   "media": 0.9230041872286711
   },
   {
    "liga": "Premier League",
@@ -1762,21 +1748,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1570453|Player Fouls Committed|Ville Koski - 1",
-     "texto": "Ville Koski: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 2,00 por 90' (4-2-2-1-2-1)",
-     "nota": 0.976,
-     "equipo": "Alaves",
-     "lado": "L",
-     "partido": "Alaves–Deportivo La Coruna",
-     "hora": "2026-11-21T14:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/542.png",
-     "logo_v": "https://media.api-sports.io/football/teams/544.png"
-    },
-    {
      "sel": "1550200|Away Player Shots|Alessandro Romano - 1",
      "texto": "Alessandro Romano: 1+ remate",
      "cuota": 1.44,
@@ -1805,6 +1776,21 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/163.png",
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
+     "sel": "1575222|Player Fouls Committed|Malik Tillman - 1",
+     "texto": "Malik Tillman: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,27 por 90' (1-1-1-1)",
+     "nota": 0.976,
+     "equipo": "Bayer Leverkusen",
+     "lado": "L",
+     "partido": "Bayer Leverkusen–SC Paderborn 07",
+     "hora": "2026-11-21T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/168.png",
+     "logo_v": "https://media.api-sports.io/football/teams/185.png"
     }
    ],
    "cuota": 2.9,
@@ -1817,14 +1803,14 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575222|Player Fouls Committed|Malik Tillman - 1",
-     "texto": "Malik Tillman: comete 1+ falta",
+     "sel": "1575222|Player Fouls Committed|Marvin Pieringer - 2",
+     "texto": "Marvin Pieringer: comete 2+ faltas",
      "cuota": 1.4,
      "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,27 por 90' (1-1-1-1)",
+     "dato": "cumple 4/4 siendo titular · 3,26 por 90' (3-3-2-4)",
      "nota": 0.976,
-     "equipo": "Bayer Leverkusen",
-     "lado": "L",
+     "equipo": "SC Paderborn 07",
+     "lado": "V",
      "partido": "Bayer Leverkusen–SC Paderborn 07",
      "hora": "2026-11-21T15:30",
      "liga": "Bundesliga",
@@ -2362,14 +2348,14 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575222|Player Fouls Committed|Marvin Pieringer - 2",
-     "texto": "Marvin Pieringer: comete 2+ faltas",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 3,26 por 90' (3-3-2-4)",
-     "nota": 0.976,
-     "equipo": "SC Paderborn 07",
-     "lado": "V",
+     "sel": "1575222|Home Player Shots|Miguel Gutierrez - 1",
+     "texto": "Miguel Gutierrez: 1+ remate",
+     "cuota": 1.57,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 0,83 por 90' (0-1-1-1-1-1)",
+     "nota": 0.9140000000000001,
+     "equipo": "Bayer Leverkusen",
+     "lado": "L",
      "partido": "Bayer Leverkusen–SC Paderborn 07",
      "hora": "2026-11-21T15:30",
      "liga": "Bundesliga",
@@ -2420,8 +2406,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
     }
    ],
-   "cuota": 6.33,
-   "prob": 0.449
+   "cuota": 7.09,
+   "prob": 0.409
   },
   {
    "clave": "faltas",
@@ -2530,21 +2516,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/173.png"
     },
     {
-     "sel": "1575222|Home Player Shots|Miguel Gutierrez - 1",
-     "texto": "Miguel Gutierrez: 1+ remate",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,83 por 90' (0-1-1-1-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Bayer Leverkusen",
-     "lado": "L",
-     "partido": "Bayer Leverkusen–SC Paderborn 07",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/168.png",
-     "logo_v": "https://media.api-sports.io/football/teams/185.png"
-    },
-    {
      "sel": "1552826|Away Player Shots|Pathe Mboup - 2",
      "texto": "Pathe Mboup: 2+ remates",
      "cuota": 1.62,
@@ -2558,6 +2529,21 @@
      "liga": "Ligue 1",
      "logo_l": "https://media.api-sports.io/football/teams/95.png",
      "logo_v": "https://media.api-sports.io/football/teams/106.png"
+    },
+    {
+     "sel": "1550201|Away Player Shots|Akor Adams - 2",
+     "texto": "Akor Adams: 2+ remates",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,45 por 90' (1-2-3-5-2-6)",
+     "nota": 0.9000000000000001,
+     "equipo": "Venezia",
+     "lado": "V",
+     "partido": "Juventus–Venezia",
+     "hora": "2026-11-22T12:30",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/496.png",
+     "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
      "sel": "1575224|Away Player Shots|Phillip Tietz - 3",
@@ -2590,7 +2576,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 8.83,
+   "cuota": 8.43,
    "prob": 0.36
   },
   {
@@ -2887,14 +2873,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/538.png"
     },
     {
-     "sel": "1550201|Away Player Shots|Akor Adams - 2",
-     "texto": "Akor Adams: 2+ remates",
-     "cuota": 1.5,
+     "sel": "1550201|Player Fouls Committed|Bremer - 1",
+     "texto": "Bremer: comete 1+ falta",
+     "cuota": 1.44,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,45 por 90' (1-2-3-5-2-6)",
-     "nota": 0.9000000000000001,
-     "equipo": "Venezia",
-     "lado": "V",
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (1-1-0-1-2-2)",
+     "nota": 0.864,
+     "equipo": "Juventus",
+     "lado": "L",
      "partido": "Juventus–Venezia",
      "hora": "2026-11-22T12:30",
      "liga": "Serie A",
@@ -2947,7 +2933,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 55.22,
+   "cuota": 53.01,
    "prob": 0.105
   }
  ],
