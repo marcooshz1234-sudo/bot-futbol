@@ -53,18 +53,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 7.4
-  },
-  {
-   "local": "Mafra",
-   "visitante": "Arouca",
-   "inicio": "2026-11-21T15:00",
-   "texto": "Mafra o empate",
-   "cuota": 2.1,
-   "justa": 2.04,
-   "ev": 0.029,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 8.0
   },
   {
    "local": "Treviso",
@@ -73,17 +62,6 @@
    "texto": "Ambos marcan en Treviso–Pergolettese",
    "cuota": 2.2,
    "justa": 2.18,
-   "ev": 0.008,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Atlético CP",
-   "visitante": "Casa Pia",
-   "inicio": "2026-11-21T12:00",
-   "texto": "Ambos marcan en Atlético CP–Casa Pia",
-   "cuota": 1.8,
-   "justa": 1.79,
    "ev": 0.008,
    "fuente": "las otras casas",
    "edad_h": 0.0
@@ -100,17 +78,6 @@
    "edad_h": 0.0
   },
   {
-   "local": "Atlético CP",
-   "visitante": "Casa Pia",
-   "inicio": "2026-11-21T12:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del Atlético CP–Casa Pia",
-   "cuota": 2.1,
-   "justa": 2.1,
-   "ev": -0.001,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
    "local": "Granada",
    "visitante": "Real Madrid W",
    "inicio": "2026-11-22T12:00",
@@ -119,7 +86,7 @@
    "justa": 1.8,
    "ev": -0.002,
    "fuente": "las otras casas",
-   "edad_h": 7.4
+   "edad_h": 7.9
   },
   {
    "local": "Estoril",
@@ -130,11 +97,44 @@
    "justa": 1.81,
    "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 7.4
+   "edad_h": 8.0
+  },
+  {
+   "local": "Edf Logrono W",
+   "visitante": "Deportivo Alavés W",
+   "inicio": "2026-11-21T19:00",
+   "texto": "Ambos marcan en Edf Logrono W–Deportivo Alavés W",
+   "cuota": 1.8,
+   "justa": 1.81,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 8.0
+  },
+  {
+   "local": "Real Sociedad W",
+   "visitante": "Sevilla W",
+   "inicio": "2026-11-22T12:00",
+   "texto": "Real Sociedad W marca 2 o más",
+   "cuota": 1.62,
+   "justa": 1.64,
+   "ev": -0.011,
+   "fuente": "las otras casas",
+   "edad_h": 7.9
+  },
+  {
+   "local": "NEC Nijmegen",
+   "visitante": "PSV Eindhoven",
+   "inicio": "2026-11-21T16:30",
+   "texto": "NEC Nijmegen marca 2 o más",
+   "cuota": 2.1,
+   "justa": 2.14,
+   "ev": -0.017,
+   "fuente": "las otras casas",
+   "edad_h": 8.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T09:43",
+  "hora": "2026-11-21T10:15",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1647593,
@@ -148,7 +148,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 7.4,
+   "edad_h": 8.0,
    "texto": "Vitória SC o empate"
   }
  },

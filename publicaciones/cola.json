@@ -9682,6 +9682,8 @@
       "fuente": "las otras casas",
       "edad_h": 6.7,
       "texto": "Vitória SC o empate"
-    }
+    },
+    "caducada": true,
+    "nota": " · caducada sola: 60 min sin aprobar"
   }
 ]
