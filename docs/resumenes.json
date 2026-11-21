@@ -3146,14 +3146,14 @@
   },
   "2026-11-21": {
     "dia": "2026-11-21",
-    "total": 13,
+    "total": 14,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 13,
+      "pendiente": 14,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 13
+      "sin_resolver": 14
     },
     "combis": [
       {
@@ -3233,13 +3233,19 @@
         "titulo": "💥 COMBI MANCHESTER CITY – FULHAM 💥",
         "estado": "pendiente",
         "cuota": 5.99
+      },
+      {
+        "id": "2026-11-21-loca-th-0940-lista-corners",
+        "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 65
+      "total": 71
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 41,03 🎰 · 41,03 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14 · pendiente\n⏳ 🧨 LA DE x14,51 🧨 · 14,51 · pendiente\n⏳ 🕘 TODO A LAS 15:30 🕘 · 8,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 8,13 · pendiente\n⏳ 🧨 LA LOCURA DE x40,91 🧨 · 40,91 · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 5,99 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 13 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 41,03 🎰 · 41,03 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14 · pendiente\n⏳ 🧨 LA DE x14,51 🧨 · 14,51 · pendiente\n⏳ 🕘 TODO A LAS 15:30 🕘 · 8,74 · pendiente\n⏳ 🐶 LA DE LOS TAPADOS 🐶 · 8,13 · pendiente\n⏳ 🧨 LA LOCURA DE x40,91 🧨 · 40,91 · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 5,99 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 14 sin resolver"
   }
 }
