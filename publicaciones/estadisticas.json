@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 03:50",
+ "actualizado": "2026-11-21 04:00",
  "redes": {
   "instagram": {
    "seguidores": 53,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3269,
-   "hoy": 21,
+   "seguidores": 3270,
+   "hoy": 22,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3269
+    3270
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3813,
- "total_hoy": 21,
+ "total": 3814,
+ "total_hoy": 22,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "04:00",
+  "hora": "05:00",
   "dia": "2026-11-21",
-  "titulo": "El duelo de tiros"
+  "titulo": "La de x14,51"
  },
  "ayer": {
   "aciertos": 3,
@@ -246,7 +246,7 @@
   },
   "2026-11-21": {
    "instagram": 53,
-   "threads": 3269,
+   "threads": 3270,
    "facebook": 1,
    "telegram": 490
   }
