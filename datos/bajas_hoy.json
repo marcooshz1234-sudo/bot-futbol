@@ -8830,6 +8830,12 @@
   "1550205": [
    {
     "equipo": 523,
+    "jugador": "D. Drobnic",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 523,
     "jugador": "A. Ndiaye",
     "tipo": "Missing Fixture",
     "motivo": "Red Card"
@@ -8847,18 +8853,6 @@
     "motivo": "Coach's decision"
    },
    {
-    "equipo": 523,
-    "jugador": "Diego Carlos",
-    "tipo": "Questionable",
-    "motivo": "Groin Injury"
-   },
-   {
-    "equipo": 523,
-    "jugador": "D. Drobnic",
-    "tipo": "Questionable",
-    "motivo": "Foot Injury"
-   },
-   {
     "equipo": 497,
     "jugador": "L. Pellegrini",
     "tipo": "Missing Fixture",
@@ -8869,6 +8863,12 @@
     "jugador": "D. Rensch",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 497,
+    "jugador": "D. S. Vasquez Llach",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    }
   ],
   "1647587": [],
@@ -8933,6 +8933,12 @@
    {
     "equipo": 543,
     "jugador": "D. Ceballos",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 543,
+    "jugador": "I. Losada",
     "tipo": "Missing Fixture",
     "motivo": "Injury"
    },
@@ -9445,7 +9451,7 @@
   ],
   "1647593": []
  },
- "ultima": "2026-11-21T00:38:39.515722+01:00",
+ "ultima": "2026-11-21T01:12:46.872920+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",

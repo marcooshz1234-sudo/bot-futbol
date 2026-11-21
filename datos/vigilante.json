@@ -134,23 +134,23 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
   },
   {
-   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
-  },
-  {
    "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
-   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
+   "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
+  },
+  {
+   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -158,7 +158,7 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
+   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -194,7 +194,7 @@
    "t": "📰 Chelsea–Leeds: «Xabi Alonso confirma que Moi Caicedo está disponible con el Chelsea tras salir con molestias ante Bolivia» (Studiofutbol) · tenemos 1 post(s) de este partido: loca-th-1000-escudos"
   }
  ],
- "revisado": "2026-11-21T01:05",
+ "revisado": "2026-11-21T01:16",
  "historial": [
   {
    "hora": "2026-11-21T00:10",
