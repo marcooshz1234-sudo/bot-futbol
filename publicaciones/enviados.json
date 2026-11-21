@@ -835,5 +835,9 @@
   },
   "2026-11-20-estrella-1575221": {
     "caducada": "cancelado"
+  },
+  "2026-11-21-pick-seguro": {
+    "enviado": "2026-11-21T10:30",
+    "mensaje_id": 575
   }
 }
