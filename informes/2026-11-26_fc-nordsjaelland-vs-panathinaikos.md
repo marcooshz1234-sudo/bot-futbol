@@ -1,7 +1,7 @@
 # FC Nordsjaelland – Panathinaikos
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Right to Dream Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 08:28_

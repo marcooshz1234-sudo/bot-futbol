@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21 02:28",
+ "generado": "2026-11-21 08:22",
  "criterios": {
   "cuota_min": 1.25,
   "frecuencia_min": 0.75,
@@ -867,6 +867,8 @@
        "valor_mercado": -0.023,
        "movimiento": -0.067,
        "cuota_inicial": 2.25,
+       "arbitro": "Saul Ais Reig",
+       "arbitro_tarjetas": 4.0,
        "posiciones": [
         18,
         20,

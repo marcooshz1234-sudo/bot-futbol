@@ -1,7 +1,7 @@
 # Estoril – Felgueiras 1932
 **Taça de Portugal** · Round of 32 · 21/11/2026 17:00 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:17_
