@@ -10710,9 +10710,9 @@
     "cuotas": [
       1.62,
       1.73,
+      1.36,
       1.4,
-      1.4,
-      1.4,
+      1.36,
       1.57,
       1.67,
       1.8
@@ -10734,7 +10734,8 @@
     "cuota_bet365": 14.52,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T10:16"
   },
   {
     "id": "2026-11-21-combi-500",
