@@ -47,18 +47,7 @@
    "justa": 2.06,
    "ev": 0.07,
    "fuente": "las otras casas",
-   "edad_h": 5.0
-  },
-  {
-   "local": "Vitória SC",
-   "visitante": "SC Braga",
-   "inicio": "2026-11-21T21:30",
-   "texto": "Más de 1,5 goles en Vitória SC–SC Braga",
-   "cuota": 1.5,
-   "justa": 1.49,
-   "ev": 0.008,
-   "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.6
   },
   {
    "local": "Treviso",
@@ -69,7 +58,29 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.6
+  },
+  {
+   "local": "Atlético CP",
+   "visitante": "Casa Pia",
+   "inicio": "2026-11-21T12:00",
+   "texto": "Ambos marcan en Atlético CP–Casa Pia",
+   "cuota": 1.8,
+   "justa": 1.79,
+   "ev": 0.008,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Vitória SC",
+   "visitante": "SC Braga",
+   "inicio": "2026-11-21T21:30",
+   "texto": "Más de 1,5 goles en Vitória SC–SC Braga",
+   "cuota": 1.5,
+   "justa": 1.49,
+   "ev": 0.008,
+   "fuente": "las otras casas",
+   "edad_h": 5.6
   },
   {
    "local": "Treviso",
@@ -80,7 +91,18 @@
    "justa": 1.79,
    "ev": 0.005,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.6
+  },
+  {
+   "local": "Atlético CP",
+   "visitante": "Casa Pia",
+   "inicio": "2026-11-21T12:00",
+   "texto": "Más de 1,5 goles en la 2ª parte del Atlético CP–Casa Pia",
+   "cuota": 2.1,
+   "justa": 2.1,
+   "ev": -0.001,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
   },
   {
    "local": "Edf Logrono W",
@@ -91,22 +113,22 @@
    "justa": 1.81,
    "ev": -0.008,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.6
   },
   {
-   "local": "Real Sociedad II",
-   "visitante": "Cadiz",
-   "inicio": "2026-11-21T16:15",
-   "texto": "Cadiz o empate",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.018,
-   "fuente": "las otras casas",
-   "edad_h": 5.0
+   "local": "Manchester City",
+   "visitante": "Fulham",
+   "inicio": "2026-11-21T13:30",
+   "texto": "Fulham marca",
+   "cuota": 1.57,
+   "justa": 1.6,
+   "ev": -0.016,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T01:05",
+  "hora": "2026-11-21T01:40",
   "revisadas": 0,
   "mejor": null
  },

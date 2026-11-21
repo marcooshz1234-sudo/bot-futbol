@@ -12566,9 +12566,9 @@
     "cuotas": [
       1.7,
       1.91,
-      1.91,
+      1.8,
       1.67,
-      1.53,
+      1.57,
       1.57,
       1.5,
       1.57
@@ -12582,7 +12582,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T01:38"
   },
   {
     "id": "2026-11-21-loca-th-0400-duelo",
