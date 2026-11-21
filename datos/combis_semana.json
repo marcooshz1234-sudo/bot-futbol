@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T09:32+01:00",
+ "generado": "2026-11-21T10:04+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -882,19 +882,9 @@
      "lado": "L",
      "partido": "Chelsea–Leeds",
      "hora": "2026-11-21T16:00"
-    },
-    {
-     "sel": "1557470|To Win Either Half|Home",
-     "texto": "Chelsea gana alguna de las dos partes",
-     "cuota": 1.53,
-     "p": 0.703,
-     "dato": "Chelsea: VDVEV en sus últimos 5",
-     "nota": 0.7354160893935979,
-     "partido": "Chelsea–Leeds",
-     "hora": "2026-11-21T16:00"
     }
    ],
-   "cuota": 4.92
+   "cuota": 3.21
   },
   {
    "equipo": "Sunderland",
