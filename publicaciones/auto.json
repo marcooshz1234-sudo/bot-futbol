@@ -13616,7 +13616,7 @@
       1.73,
       1.7,
       1.62,
-      1.57,
+      1.62,
       1.57
     ],
     "origen": "threads_locas",
@@ -13628,7 +13628,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-21T21:26"
   },
   {
     "id": "2026-11-22-loca-th-noche-2200-ganaambos",
@@ -13641,7 +13642,7 @@
       "1552822|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      1.95,
+      1.91,
       2.5,
       2.62,
       2.75
@@ -13693,7 +13694,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-21T21:26"
   },
   {
     "id": "2026-11-22-loca-th-noche-2230-lista-ambos",
@@ -13717,7 +13719,7 @@
       1.8,
       1.7,
       1.5,
-      1.57,
+      1.62,
       1.44,
       1.91
     ],
@@ -13730,7 +13732,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-21T21:26"
   },
   {
     "id": "2026-11-22-loca-th-noche-2330-escudos",
