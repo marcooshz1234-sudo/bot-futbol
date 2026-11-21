@@ -47,18 +47,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 4.2
-  },
-  {
-   "local": "Mafra",
-   "visitante": "Arouca",
-   "inicio": "2026-11-21T15:00",
-   "texto": "Mafra o empate",
-   "cuota": 2.1,
-   "justa": 2.04,
-   "ev": 0.029,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 4.6
   },
   {
    "local": "Treviso",
@@ -102,7 +91,7 @@
    "justa": 1.8,
    "ev": -0.002,
    "fuente": "las otras casas",
-   "edad_h": 4.2
+   "edad_h": 4.6
   },
   {
    "local": "Treviso",
@@ -124,11 +113,22 @@
    "justa": 1.81,
    "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 4.2
+   "edad_h": 4.7
+  },
+  {
+   "local": "Edf Logrono W",
+   "visitante": "Deportivo Alavés W",
+   "inicio": "2026-11-21T19:00",
+   "texto": "Ambos marcan en Edf Logrono W–Deportivo Alavés W",
+   "cuota": 1.8,
+   "justa": 1.81,
+   "ev": -0.008,
+   "fuente": "las otras casas",
+   "edad_h": 4.6
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T06:28",
+  "hora": "2026-11-21T06:56",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1647593,
@@ -142,7 +142,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 4.2,
+   "edad_h": 4.6,
    "texto": "Vitória SC o empate"
   }
  },

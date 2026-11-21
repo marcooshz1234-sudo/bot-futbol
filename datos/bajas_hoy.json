@@ -9478,9 +9478,79 @@
    }
   ],
   "1573654": [],
-  "1573655": []
+  "1573655": [],
+  "1608372": [],
+  "1550201": [
+   {
+    "equipo": 496,
+    "jugador": "N. Gonzalez",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "K. Grabara",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "P. Kalulu",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "M. Locatelli",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "A. Milik",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 496,
+    "jugador": "K. Thuram",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 496,
+    "jugador": "K. Yildiz",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "M. Sverko",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "A. Adorante",
+    "tipo": "Questionable",
+    "motivo": "Hernia"
+   },
+   {
+    "equipo": 517,
+    "jugador": "B. Franjic",
+    "tipo": "Questionable",
+    "motivo": "Shoulder Injury"
+   },
+   {
+    "equipo": 517,
+    "jugador": "P. Mazzocchi",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1608378": []
  },
- "ultima": "2026-11-21T06:24:27.991655+01:00",
+ "ultima": "2026-11-21T06:55:51.156044+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
