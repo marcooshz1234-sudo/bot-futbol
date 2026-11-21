@@ -10467,19 +10467,15 @@
   {
     "id": "2026-11-21-loca-th-0920-escudos",
     "fecha": "2026-11-21T09:20",
-    "texto": "💥 COMBI MANCHESTER CITY – FULHAM 💥\n\n⭐ Manchester City vs Fulham · 13:30\n\n✅ 💨 Oscar Bobb: 1+ tiros\n✅ 💨 Enzo Fernandez: 2+ tiros\n✅ 💨 Ryan McAidoo: 2+ tiros\n✅ 💨 Erling Haaland: 4+ tiros\n✅ 🥅 Erling Haaland marca\n✅ 🥅 Fulham marca\n✅ 📈 +1,5 goles en la 2ª parte del Manchester City–Fulham\n\n🎯 CUOTA 5,99 aprox. 💎 10€ → 59,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "💥 COMBI MANCHESTER CITY – FULHAM 💥\n\n⭐ Manchester City vs Fulham · 13:30\n\n✅ 💨 Oscar Bobb: 1+ tiros\n✅ 💨 Erling Haaland: 4+ tiros\n✅ 🥅 Erling Haaland marca\n✅ 🥅 Fulham marca\n✅ 📈 +1,5 goles en la 2ª parte del Manchester City–Fulham\n\n🎯 CUOTA 4,49 aprox. 💎 10€ → 59,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1557474|Away Player Shots|Oscar Bobb - 1",
-      "1557474|Home Player Shots|Enzo Fernandez - 2",
-      "1557474|Home Player Shots|Ryan McAidoo - 2",
       "1557474|Home Player Shots|Erling Haaland - 4",
       "1557474|Anytime Goal Scorer|Erling Haaland",
       "1557474|Total - Away|Over 0.5",
       "1557474|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4,
-      1.4,
       1.4,
       1.4,
       1.53,
@@ -10504,7 +10500,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-21T07:54"
+    "cuotas_revisadas": "2026-11-21T07:54",
+    "revisado_alineaciones": "2026-11-21T13:10"
   },
   {
     "id": "2026-11-21-loca-th-0940-lista-corners",
@@ -10964,7 +10961,7 @@
       1.44,
       1.53,
       1.62,
-      1.8,
+      1.73,
       2.25
     ],
     "solo_redes": true,
@@ -10984,7 +10981,8 @@
     "cuota_bet365": 14.24,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T13:10"
   },
   {
     "id": "2026-11-21-pick-seguro-5",
