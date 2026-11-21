@@ -297,3 +297,5 @@
 2026-11-20 21:14:47 getUpdates falló: RuntimeError('Telegram no responde')
 2026-11-20 21:16:54 getUpdates falló: RuntimeError('Telegram no responde')
 2026-11-20 21:33:42 botón ok|2026-11-20-verde-auto-2026-11-20-pick-tip-1446-e → ok
+2026-11-21 01:07:12 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
+2026-11-21 01:07:22 getUpdates falló: RuntimeError('Telegram 502: Bad Gateway')
