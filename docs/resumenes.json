@@ -1,79 +1,4 @@
 {
-  "2026-10-23": {
-    "dia": "2026-10-23",
-    "total": 10,
-    "cuentas": {
-      "verde": 2,
-      "rojo": 8,
-      "pendiente": 0,
-      "sin_datos": 0,
-      "no_jugo": 0,
-      "sin_resolver": 0
-    },
-    "combis": [
-      {
-        "id": "2026-10-23-cuota3",
-        "titulo": "💥 COMBINADA CUOTA 3 DEL VIERNES 💥",
-        "estado": "rojo",
-        "cuota": 3.08
-      },
-      {
-        "id": "2026-10-23-escalera",
-        "titulo": "🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀",
-        "estado": "rojo",
-        "cuota": 1.96
-      },
-      {
-        "id": "2026-10-23-segura",
-        "titulo": "🔒 COMBI SEGURA DEL VIERNES 🔒",
-        "estado": "verde",
-        "cuota": 1.66
-      },
-      {
-        "id": "2026-10-23-combi-stuttgart-gladbach",
-        "titulo": "🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪",
-        "estado": "rojo",
-        "cuota": null
-      },
-      {
-        "id": "2026-10-23-combi-torino-monza",
-        "titulo": "🇮🇹 TORINO 🆚 MONZA 🇮🇹",
-        "estado": "verde",
-        "cuota": 9.5
-      },
-      {
-        "id": "2026-10-23-combi-ipswich-forest",
-        "titulo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "estado": "rojo",
-        "cuota": 10.5
-      },
-      {
-        "id": "2026-10-23-picks-hoy",
-        "titulo": "🔥 6 PICKS PARA HOY 🔥",
-        "estado": "rojo",
-        "cuota": null
-      },
-      {
-        "id": "2026-10-23-combi-alaves-malaga",
-        "titulo": "🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸",
-        "estado": "rojo",
-        "cuota": 9.5
-      },
-      {
-        "id": "2026-10-23-loca",
-        "titulo": "🤪 COMBI LOCA DEL VIERNES 🤪",
-        "estado": "rojo",
-        "cuota": 7.94
-      },
-      {
-        "id": "2026-10-23-picks-manana",
-        "titulo": "🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥",
-        "estado": "rojo",
-        "cuota": null
-      }
-    ],
-    "texto": "📊 BALANCE DEL VIERNES · 23/10 📊\n\n❌ 💥 COMBINADA CUOTA 3 DEL VIERNES 💥 · 3,08\n❌ 🪜 RETO ESCALERA · DÍA 1 (otra vez) 🍀 · 1,96\n✅ 🔒 COMBI SEGURA DEL VIERNES 🔒 · 1,66\n❌ 🇩🇪 STUTTGART 🆚 GLADBACH 🇩🇪\n✅ 🇮🇹 TORINO 🆚 MONZA 🇮🇹 · 9,50\n❌ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IPSWICH 🆚 FOREST 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · 10,50\n❌ 🔥 6 PICKS PARA HOY 🔥\n❌ 🇪🇸 ALAVÉS 🆚 MÁLAGA 🇪🇸 · 9,50\n❌ 🤪 COMBI LOCA DEL VIERNES 🤪 · 7,94\n❌ 🔥 9 PICKS PARA MAÑANA (SÁBADO) 🔥\n\n✅ 2 acertadas · ❌ 8 falladas · ⏳ 0 sin resolver"
-  },
   "2026-10-24": {
     "dia": "2026-10-24",
     "total": 9,
@@ -3148,12 +3073,12 @@
     "dia": "2026-11-21",
     "total": 32,
     "cuentas": {
-      "verde": 3,
+      "verde": 4,
       "rojo": 22,
       "pendiente": 4,
-      "sin_datos": 3,
+      "sin_datos": 2,
       "no_jugo": 0,
-      "sin_resolver": 7
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -3183,7 +3108,7 @@
       {
         "id": "2026-11-21-ganadores-seriea",
         "titulo": "🏆 SERIE A - GANADORES",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -3350,10 +3275,36 @@
       }
     ],
     "picks": {
-      "verde": 61,
-      "rojo": 42,
+      "verde": 68,
+      "rojo": 48,
       "total": 144
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 25 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n❌ 🎰 COMBI POR 41,03 🎰 · 41,03\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40\n❌ 🏆 PREMIER LEAGUE - GANADORES\n❔ 🏆 SERIE A - GANADORES · faltan datos\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14\n❌ 🧨 LA DE x14,51 🧨 · 14,51\n❌ 🕘 TODO A LAS 15:30 🕘 · 8,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 8,13\n❌ 🧨 LA LOCURA DE x40,91 🧨 · 40,91\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 4,49\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI CHELSEA – LEEDS 🚨 · 10,49\n✅ Pick que nos gusta mucho para hoy 👀\n✅ 🪜 Reto escalera · Día 1/7\n❌ 🔥 COMBI TOTTENHAM – IPSWICH 🔥 · 13,88\n❌ 💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥 · 6,27\n❌ 🔥 COMBI BORUSSIA MÖNCHENGLADBACH – BORUSSIA DORTMUND 🔥 · 14,52\n❌ Vamos con la combi del día familia 🔥\n✅ Este lo tenemos claro 🔥\n❌ Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ Vamos con la combi del sábado familia 🔥\n❔ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · faltan datos\n❔ 🎯 MI COMBINADA PERSONAL · x24 🔥 · 23,97 · faltan datos\n⏳ 🚨 COMBI PARMA – AS ROMA 🚨 · 13,67 · pendiente\n❌ 🔥 COMBI NICE – PARIS SAINT GERMAIN 🔥 · 11,24\n❌ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 36,46\n⏳ 🤑💸 LA CENTENARIA x48,76 🤑💸 · 48,76 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 35,12 · pendiente\n⏳ ⚡ COMBI BARCELONA – VILLARREAL ⚡ · 5,59 · pendiente\n\n✅ 3 acertadas · ❌ 22 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 4 DE 26 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n❌ 🎰 COMBI POR 41,03 🎰 · 41,03\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40\n❌ 🏆 PREMIER LEAGUE - GANADORES\n✅ 🏆 SERIE A - GANADORES\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14\n❌ 🧨 LA DE x14,51 🧨 · 14,51\n❌ 🕘 TODO A LAS 15:30 🕘 · 8,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 8,13\n❌ 🧨 LA LOCURA DE x40,91 🧨 · 40,91\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 4,49\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI CHELSEA – LEEDS 🚨 · 10,49\n✅ Pick que nos gusta mucho para hoy 👀\n✅ 🪜 Reto escalera · Día 1/7\n❌ 🔥 COMBI TOTTENHAM – IPSWICH 🔥 · 13,88\n❌ 💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥 · 6,27\n❌ 🔥 COMBI BORUSSIA MÖNCHENGLADBACH – BORUSSIA DORTMUND 🔥 · 14,52\n❌ Vamos con la combi del día familia 🔥\n✅ Este lo tenemos claro 🔥\n❌ Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ Vamos con la combi del sábado familia 🔥\n❔ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · faltan datos\n❔ 🎯 MI COMBINADA PERSONAL · x24 🔥 · 23,97 · faltan datos\n⏳ 🚨 COMBI PARMA – AS ROMA 🚨 · 13,67 · pendiente\n❌ 🔥 COMBI NICE – PARIS SAINT GERMAIN 🔥 · 11,24\n❌ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 36,46\n⏳ 🤑💸 LA CENTENARIA x48,76 🤑💸 · 48,76 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 35,12 · pendiente\n⏳ ⚡ COMBI BARCELONA – VILLARREAL ⚡ · 5,59 · pendiente\n\n✅ 4 acertadas · ❌ 22 falladas · ⏳ 6 sin resolver"
+  },
+  "2026-11-22": {
+    "dia": "2026-11-22",
+    "total": 1,
+    "cuentas": {
+      "verde": 0,
+      "rojo": 0,
+      "pendiente": 1,
+      "sin_datos": 0,
+      "no_jugo": 0,
+      "sin_resolver": 1
+    },
+    "combis": [
+      {
+        "id": "2026-11-22-ganadores-laliga",
+        "titulo": "🏆 LALIGA - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
+      }
+    ],
+    "picks": {
+      "verde": 0,
+      "rojo": 0,
+      "total": 4
+    },
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 1 sin resolver"
   }
 }

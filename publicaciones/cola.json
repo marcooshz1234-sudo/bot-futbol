@@ -9973,5 +9973,19 @@
     ],
     "requiere_ok": true,
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
+  },
+  {
+    "id": "2026-11-22-casi-auto-2026-11-21-loca-th-0020-x100",
+    "fecha": "2026-11-22T00:07",
+    "texto": "😱 SE NOS ESCAPÓ POR UNA 😱\n\n💎 Combi x56,04 · 7 de 8 ✅\n❌ Solo falló: Gana el Arsenal\n\n🔥 La próxima entra. ¿Os subís? 👇",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "casi",
+    "casi_de": "2026-11-21-loca-th-0020-x100",
+    "requiere_ok": true,
+    "solo_en": [
+      "threads"
+    ]
   }
 ]

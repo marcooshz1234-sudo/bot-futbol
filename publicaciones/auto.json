@@ -13794,8 +13794,8 @@
     ],
     "cuotas": [
       1.62,
-      1.8,
-      1.8,
+      1.83,
+      1.73,
       1.8,
       1.62,
       1.83,
@@ -13810,7 +13810,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-22T00:06"
   },
   {
     "id": "2026-11-22-loca-th-0040-ganaambos",
@@ -13823,7 +13824,7 @@
       "1552822|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      1.95,
+      1.91,
       2.5,
       2.62,
       2.75
@@ -13875,7 +13876,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-22T00:06"
   },
   {
     "id": "2026-11-22-loca-th-0300-lista-ambos",
