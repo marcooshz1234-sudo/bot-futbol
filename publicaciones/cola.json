@@ -9733,5 +9733,46 @@
       "threads": "18121513453981292",
       "instagram": "18083253506392230"
     }
+  },
+  {
+    "id": "2026-11-21-estrella-1557474",
+    "fecha": "2026-11-21T13:01",
+    "texto": "Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🍿 Para darle emoción al día, con calma en el stake\n\nVamos con la combi del partido estrella (13:30) 🔥\n\n🍀 Calvin Bassey comete 1+ faltas\n🍀 David Affengruber comete 1+ faltas\n🍀 Oscar Bobb: 1+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,07 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557474|Player Fouls Committed|Calvin Bassey - 1",
+      "1557474|Player Fouls Committed|David Affengruber - 1",
+      "1557474|Away Player Shots|Oscar Bobb - 1",
+      "1557474|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.28,
+      1.4,
+      1.62
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Manchester City",
+      "visitante": "Fulham",
+      "id_l": 50,
+      "id_v": 36,
+      "logo_l": "https://media.api-sports.io/football/teams/50.png",
+      "logo_v": "https://media.api-sports.io/football/teams/36.png",
+      "fecha": "2026-11-21T13:30",
+      "liga": "Premier"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.22,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-21T11:29",
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
   }
 ]
