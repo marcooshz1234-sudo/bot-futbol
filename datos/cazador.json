@@ -45,15 +45,15 @@
  },
  "top": [
   {
-   "local": "Vitória SC",
-   "visitante": "SC Braga",
-   "inicio": "2026-11-21T21:30",
-   "texto": "Vitória SC o empate",
+   "local": "Mafra",
+   "visitante": "Arouca",
+   "inicio": "2026-11-21T15:00",
+   "texto": "Mafra o empate",
    "cuota": 2.1,
-   "justa": 1.74,
-   "ev": 0.209,
-   "fuente": "las otras casas",
-   "edad_h": 8.0
+   "justa": 2.04,
+   "ev": 0.029,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -64,7 +64,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Treviso",
@@ -75,82 +75,24 @@
    "justa": 1.8,
    "ev": -0.001,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
-   "local": "Granada",
-   "visitante": "Real Madrid W",
-   "inicio": "2026-11-22T12:00",
-   "texto": "Granada marca",
+   "local": "Bayer Leverkusen",
+   "visitante": "SC Paderborn 07",
+   "inicio": "2026-11-21T15:30",
+   "texto": "Bayer Leverkusen marca 3 o más",
    "cuota": 1.8,
-   "justa": 1.8,
-   "ev": -0.002,
-   "fuente": "las otras casas",
-   "edad_h": 7.9
-  },
-  {
-   "local": "Estoril",
-   "visitante": "Felgueiras 1932",
-   "inicio": "2026-11-21T17:00",
-   "texto": "Estoril marca 2 o más",
-   "cuota": 1.8,
-   "justa": 1.81,
-   "ev": -0.006,
-   "fuente": "las otras casas",
-   "edad_h": 8.0
-  },
-  {
-   "local": "Edf Logrono W",
-   "visitante": "Deportivo Alavés W",
-   "inicio": "2026-11-21T19:00",
-   "texto": "Ambos marcan en Edf Logrono W–Deportivo Alavés W",
-   "cuota": 1.8,
-   "justa": 1.81,
-   "ev": -0.008,
-   "fuente": "las otras casas",
-   "edad_h": 8.0
-  },
-  {
-   "local": "Real Sociedad W",
-   "visitante": "Sevilla W",
-   "inicio": "2026-11-22T12:00",
-   "texto": "Real Sociedad W marca 2 o más",
-   "cuota": 1.62,
-   "justa": 1.64,
+   "justa": 1.82,
    "ev": -0.011,
-   "fuente": "las otras casas",
-   "edad_h": 7.9
-  },
-  {
-   "local": "NEC Nijmegen",
-   "visitante": "PSV Eindhoven",
-   "inicio": "2026-11-21T16:30",
-   "texto": "NEC Nijmegen marca 2 o más",
-   "cuota": 2.1,
-   "justa": 2.14,
-   "ev": -0.017,
-   "fuente": "las otras casas",
-   "edad_h": 8.0
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T10:15",
-  "revisadas": 1,
-  "mejor": {
-   "partido_id": 1647593,
-   "local": "Vitória SC",
-   "visitante": "SC Braga",
-   "inicio": "2026-11-21T21:30",
-   "liga": "Taça de Portugal",
-   "mercado": "Double Chance",
-   "opcion": "Home/Draw",
-   "cuota": 2.1,
-   "justa": 1.74,
-   "ev": 0.209,
-   "fuente": "las otras casas",
-   "edad_h": 8.0,
-   "texto": "Vitória SC o empate"
-  }
+  "hora": "2026-11-21T10:35",
+  "revisadas": 0,
+  "mejor": null
  },
  "historial": [
   {

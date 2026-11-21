@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 10:25",
+ "actualizado": "2026-11-21 10:35",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3311,
-   "hoy": 63,
+   "seguidores": 3312,
+   "hoy": 64,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3311
+    3312
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3857,
- "total_hoy": 65,
+ "total": 3858,
+ "total_hoy": 66,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "11:00",
   "dia": "2026-11-21",
-  "titulo": "Pick que nos gusta mucho para hoy"
+  "titulo": "Reto escalera · día 1/7"
  },
  "ayer": {
   "aciertos": 3,
@@ -246,7 +246,7 @@
   },
   "2026-11-21": {
    "instagram": 54,
-   "threads": 3311,
+   "threads": 3312,
    "facebook": 1,
    "telegram": 491
   }
