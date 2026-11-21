@@ -10364,9 +10364,55 @@
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    }
-  ]
+  ],
+  "1570458": [
+   {
+    "equipo": 727,
+    "jugador": "A. Bretones",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 727,
+    "jugador": "A. Fernandez",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 727,
+    "jugador": "A. Oroz",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 535,
+    "jugador": "A. Aznou",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 535,
+    "jugador": "R. Garrido Hierro",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 535,
+    "jugador": "J. Lobete",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 535,
+    "jugador": "A. Ochoa",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   }
+  ],
+  "1570028": [],
+  "1570032": []
  },
- "ultima": "2026-11-21T12:10:38.156054+01:00",
+ "ultima": "2026-11-21T12:44:39.962987+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
