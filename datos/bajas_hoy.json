@@ -9431,9 +9431,56 @@
     "motivo": "Red Card"
    }
   ],
-  "1647593": []
+  "1647593": [],
+  "1647588": [],
+  "1552232": [
+   {
+    "equipo": 415,
+    "jugador": "M. Bruns",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 415,
+    "jugador": "S. Lemkin",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 415,
+    "jugador": "F. Thorvaldsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 415,
+    "jugador": "L. Unnerstall",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 195,
+    "jugador": "J. Hoogma",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "A. Lachkar",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "T. Didillon Hodl",
+    "tipo": "Questionable",
+    "motivo": "Inactive"
+   }
+  ],
+  "1573654": [],
+  "1573655": []
  },
- "ultima": "2026-11-21T05:49:21.875148+01:00",
+ "ultima": "2026-11-21T06:24:27.991655+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
