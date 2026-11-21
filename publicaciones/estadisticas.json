@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 11:39",
+ "actualizado": "2026-11-21 11:51",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3327,
-   "hoy": 79,
+   "seguidores": 3331,
+   "hoy": 83,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3327
+    3331
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3873,
- "total_hoy": 81,
+ "total": 3877,
+ "total_hoy": 85,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:40",
+  "hora": "12:00",
   "dia": "2026-11-21",
-  "titulo": "Combi borussia mönchengladbach – borus"
+  "titulo": "Vamos con la combi del día familia"
  },
  "ayer": {
   "aciertos": 3,
@@ -246,7 +246,7 @@
   },
   "2026-11-21": {
    "instagram": 54,
-   "threads": 3327,
+   "threads": 3331,
    "facebook": 1,
    "telegram": 491
   }
