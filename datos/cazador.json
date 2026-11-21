@@ -45,39 +45,6 @@
  },
  "top": [
   {
-   "local": "AVS",
-   "visitante": "Tondela",
-   "inicio": "2026-11-21T16:00",
-   "texto": "AVS o empate",
-   "cuota": 1.73,
-   "justa": 1.71,
-   "ev": 0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Estoril",
-   "visitante": "Felgueiras 1932",
-   "inicio": "2026-11-21T17:00",
-   "texto": "Estoril marca 2 o más",
-   "cuota": 1.8,
-   "justa": 1.8,
-   "ev": -0.001,
-   "fuente": "Pinnacle",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Telstar",
-   "visitante": "PEC Zwolle",
-   "inicio": "2026-11-21T21:00",
-   "texto": "Ambos marcan en Telstar–PEC Zwolle",
-   "cuota": 1.57,
-   "justa": 1.58,
-   "ev": -0.004,
-   "fuente": "las otras casas",
-   "edad_h": 1.5
-  },
-  {
    "local": "Granada",
    "visitante": "Real Madrid W",
    "inicio": "2026-11-22T12:00",
@@ -86,7 +53,7 @@
    "justa": 1.81,
    "ev": -0.007,
    "fuente": "las otras casas",
-   "edad_h": 1.5
+   "edad_h": 7.4
   },
   {
    "local": "Arges Pitesti",
@@ -97,44 +64,11 @@
    "justa": 1.82,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 1.5
-  },
-  {
-   "local": "Telstar",
-   "visitante": "PEC Zwolle",
-   "inicio": "2026-11-21T21:00",
-   "texto": "Telstar marca 2 o más",
-   "cuota": 1.83,
-   "justa": 1.86,
-   "ev": -0.014,
-   "fuente": "las otras casas",
-   "edad_h": 1.5
-  },
-  {
-   "local": "Parma",
-   "visitante": "AS Roma",
-   "inicio": "2026-11-21T18:00",
-   "texto": "Más de 1,5 goles en la 2ª parte del Parma–AS Roma",
-   "cuota": 1.73,
-   "justa": 1.76,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Castellón",
-   "visitante": "Eldense",
-   "inicio": "2026-11-21T18:30",
-   "texto": "Ambos marcan en Castellón–Eldense",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 7.3
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T15:32",
+  "hora": "2026-11-21T21:25",
   "revisadas": 0,
   "mejor": null
  },

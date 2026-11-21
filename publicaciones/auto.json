@@ -13594,5 +13594,183 @@
     "cuotas": [
       1.65
     ]
+  },
+  {
+    "id": "2026-11-22-loca-th-noche-2130-x100",
+    "fecha": "2026-11-21T21:30",
+    "texto": "🤑💸 LA CENTENARIA x48,76 🤑💸\n\n🇮🇹 Juventus–Venezia 12:30\n✅ 🦵 Kike Perez comete 2+ faltas\n🇫🇷 Paris FC–Angers 15:00\n✅ 💥 Lassine Sinayoko marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hull City–Brighton 15:00\n✅ 💥 Hull City marca\n🇫🇷 Lorient–Rennes 17:15\n✅ 🥇 Rennes gana una parte · ✅ ↔️ Ambos marcan\n🇩🇪 Werder Bremen–Hamburger SV 17:30\n✅ 🦵 David Wolfe comete 1+ faltas · ✅ ↔️ Ambos marcan\n🇮🇹 AC Milan–Frosinone 18:00\n✅ ⏱️ +1,5 goles en la 2ª parte del AC Milan–Frosinone\n\n🎯 CUOTA 48,76 aprox. 💎 10€ → 488€\n👇 ¿Cuál quitaríais? 👇",
+    "sel": [
+      "1550201|Player Fouls Committed|Kike Perez - 2",
+      "1552825|Anytime Goal Scorer|Lassine Sinayoko",
+      "1557472|Total - Home|Over 0.5",
+      "1552821|To Win Either Half|Away",
+      "1552821|Both Teams Score|Yes",
+      "1575227|Player Fouls Committed|David Wolfe - 1",
+      "1575227|Both Teams Score|Yes",
+      "1550197|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.62,
+      1.73,
+      1.57,
+      1.73,
+      1.7,
+      1.62,
+      1.57,
+      1.57
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 48.76,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-22-loca-th-noche-2200-ganaambos",
+    "fecha": "2026-11-21T22:00",
+    "texto": "👑⚽ GANA Y AMBOS MARCAN 👑⚽\n\n🇪🇸 Barcelona – Villarreal · 14:00\n🎭 Gana Barcelona y ambos marcan\n\n🇮🇹 AC Milan – Frosinone · 18:00\n🎭 Gana AC Milan y ambos marcan\n\n🇮🇹 Atalanta – Inter · 20:45\n🎭 Gana Inter y ambos marcan\n\n🇫🇷 Marseille – Le Mans · 20:45\n🎭 Gana Marseille y ambos marcan\n\n🎯 CUOTA 35,12 💎 · 10€ → 351€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1570455|Results/Both Teams Score|Home/Yes",
+      "1550197|Results/Both Teams Score|Home/Yes",
+      "1550198|Results/Both Teams Score|Away/Yes",
+      "1552822|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      1.95,
+      2.5,
+      2.62,
+      2.75
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 35.12,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_porque": true,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/529.png",
+          "nombre": "Barcelona",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
+          "nombre": "AC Milan",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
+          "nombre": "Inter",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "France",
+          "bandera": "🇫🇷",
+          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
+          "nombre": "Marseille",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-22-loca-th-noche-2230-lista-ambos",
+    "fecha": "2026-11-21T22:30",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇪🇸 Barcelona–Villarreal ➜ Ambos marcan @1,44\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hull City–Brighton ➜ Ambos marcan @1,80\n3. 🇮🇹 Bologna–Udinese ➜ Ambos marcan @1,80\n4. 🇮🇹 Sassuolo–Genoa ➜ Ambos marcan @1,70\n5. 🇫🇷 Lorient–Rennes ➜ Ambos marcan @1,70\n6. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Manchester United ➜ Ambos marcan @1,50\n7. 🇩🇪 Werder Bremen–Hamburger SV ➜ Ambos marcan @1,57\n8. 🇮🇹 AC Milan–Frosinone ➜ Ambos marcan @1,44\n9. 🇪🇸 Osasuna–Malaga ➜ Ambos marcan @1,91\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1570455|Both Teams Score|Yes",
+      "1550199|Both Teams Score|Yes",
+      "1550206|Both Teams Score|Yes",
+      "1557472|Both Teams Score|Yes",
+      "1552821|Both Teams Score|Yes",
+      "1557473|Both Teams Score|Yes",
+      "1575227|Both Teams Score|Yes",
+      "1550197|Both Teams Score|Yes",
+      "1570458|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.44,
+      1.8,
+      1.7,
+      1.8,
+      1.7,
+      1.5,
+      1.57,
+      1.44,
+      1.91
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-22-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-21T23:30",
+    "texto": "⚡ COMBI BARCELONA – VILLARREAL ⚡\n\n⭐ Barcelona vs Villarreal · 14:00\n\n🦵 Anthony Gordon comete 1+ faltas\n🏹 Marc Bernal: 2+ tiros\n🏹 Karim Adeyemi: 4+ tiros\n🏹 Nicolas Pepe: 2+ tiros\n☄️ Villarreal marca\n☄️ Raphinha marca\n🔁 Gana el Barcelona y ambos marcan\n\n🎯 CUOTA 5,59 aprox. 💎 10€ → 55,90€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570455|Player Fouls Committed|Anthony Gordon - 1",
+      "1570455|Home Player Shots|Marc Bernal - 2",
+      "1570455|Home Player Shots|Karim Adeyemi - 4",
+      "1570455|Away Player Shots|Nicolas Pepe - 2",
+      "1570455|Total - Away|Over 0.5",
+      "1570455|Anytime Goal Scorer|Raphinha",
+      "1570455|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.57,
+      1.95
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 5.59,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "Barcelona",
+      "visitante": "Villarreal",
+      "id_l": 529,
+      "id_v": 533,
+      "logo_l": "https://media.api-sports.io/football/teams/529.png",
+      "logo_v": "https://media.api-sports.io/football/teams/533.png",
+      "fecha": "2026-11-22T14:00",
+      "liga": "La Liga"
+    },
+    "cuota_total": 5.59,
+    "cuota_calculada": true
   }
 ]

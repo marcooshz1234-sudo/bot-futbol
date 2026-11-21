@@ -5305,5 +5305,113 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-22-loca-th-noche-2330-escudos",
+  "fecha": "2026-11-21T23:30",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1570455|Player Fouls Committed|Anthony Gordon - 1",
+   "1570455|Home Player Shots|Marc Bernal - 2",
+   "1570455|Home Player Shots|Karim Adeyemi - 4",
+   "1570455|Away Player Shots|Nicolas Pepe - 2",
+   "1570455|Total - Away|Over 0.5",
+   "1570455|Anytime Goal Scorer|Raphinha",
+   "1570455|Results/Both Teams Score|Home/Yes"
+  ],
+  "cuotas": [
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.4,
+   1.57,
+   1.95
+  ],
+  "real": 5.59,
+  "multiplicando": 16.465,
+  "aj": 0.682683924754762,
+  "parejas": [
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/partido",
+    0.99
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ],
+   [
+    "goles+jugador/contrario",
+    1.0
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goles+jugador/mismo",
+    0.9
+   ],
+   [
+    "goleador+jugador/partido",
+    0.97
+   ],
+   [
+    "jugador+resultado/partido",
+    1.0
+   ],
+   [
+    "goleador+goles/partido",
+    0.88
+   ],
+   [
+    "goleador+resultado/partido",
+    0.9
+   ]
+  ]
  }
 ]

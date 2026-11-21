@@ -9656,6 +9656,12 @@
    },
    {
     "equipo": 529,
+    "jugador": "A. Christensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 529,
     "jugador": "X. Espart",
     "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
@@ -9667,22 +9673,10 @@
     "motivo": "Calf Injury"
    },
    {
-    "equipo": 529,
-    "jugador": "A. Christensen",
-    "tipo": "Questionable",
+    "equipo": 533,
+    "jugador": "I. Akhomach",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 529,
-    "jugador": "J. Kounde",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 529,
-    "jugador": "D. Olmo",
-    "tipo": "Questionable",
-    "motivo": "Groin Injury"
    },
    {
     "equipo": 533,
@@ -9692,20 +9686,14 @@
    },
    {
     "equipo": 533,
-    "jugador": "I. Akhomach",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 533,
     "jugador": "J. Foyth",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    },
    {
     "equipo": 533,
     "jugador": "G. Moreno",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    }
   ],
@@ -9775,6 +9763,12 @@
    },
    {
     "equipo": 500,
+    "jugador": "J. Enem",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 500,
     "jugador": "T. Heggem",
     "tipo": "Missing Fixture",
     "motivo": "Coach's decision"
@@ -9790,12 +9784,6 @@
     "jugador": "J. Miranda",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 500,
-    "jugador": "J. Enem",
-    "tipo": "Questionable",
-    "motivo": "Achilles Tendon Injury"
    },
    {
     "equipo": 494,
@@ -10044,12 +10032,6 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 4665,
-    "jugador": "A. Martin",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
     "equipo": 548,
     "jugador": "L. Astiazaran",
     "tipo": "Missing Fixture",
@@ -10078,12 +10060,6 @@
     "jugador": "A. Odriozola",
     "tipo": "Missing Fixture",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 548,
-    "jugador": "M. Sarr",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
    }
   ],
   "1570031": [],
@@ -10341,12 +10317,6 @@
     "motivo": "Muscle Injury"
    },
    {
-    "equipo": 489,
-    "jugador": "S. Pavlovic",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
     "equipo": 512,
     "jugador": "G. Bracaglia",
     "tipo": "Missing Fixture",
@@ -10448,12 +10418,6 @@
    },
    {
     "equipo": 505,
-    "jugador": "M. Akanji",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 505,
     "jugador": "A. Stankovic",
     "tipo": "Questionable",
     "motivo": "Muscle Injury"
@@ -10525,19 +10489,20 @@
    {
     "equipo": 530,
     "jugador": "M. Pubill",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Ankle Injury"
    },
    {
     "equipo": 530,
     "jugador": "C. Romero",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    }
   ],
-  "1570026": []
+  "1570026": [],
+  "1647592": []
  },
- "ultima": "2026-11-21T15:18:20.023433+01:00",
+ "ultima": "2026-11-21T21:18:49.694152+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

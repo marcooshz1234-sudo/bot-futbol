@@ -867,5 +867,8 @@
   },
   "2026-11-21-pick-seguro-6": {
     "caducada": "cancelado"
+  },
+  "2026-11-21-pick-seguro-2": {
+    "caducada": true
   }
 }

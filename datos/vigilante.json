@@ -1,8 +1,6 @@
 {
  "informe": "2026-11-21",
  "vistos": {
-  "bucle-imagenes-2026111820": "2026-11-18T20:56",
-  "bucle-imagenes-2026111821": "2026-11-18T21:06",
   "repe-2026-11-19-1638338|Both Teams Score|Yes": "2026-11-19T00:17",
   "repe-2026-11-19-1638338|Double Chance|Home/Draw": "2026-11-19T00:17",
   "repe-2026-11-19-1638292|Goals Over/Under - Second Half|Over 1.5": "2026-11-19T00:17",
@@ -131,20 +129,48 @@
   "prensa-1575224-MOlise": "2026-11-21T14:49",
   "directo-2026-11-21-pick-claude-1": "2026-11-21T15:11",
   "directo-2026-11-21-pick-claude-2": "2026-11-21T15:11",
-  "redes-2026-11-21-loca-th-1440-escudos-threads-instagram": "2026-11-21T15:11"
+  "redes-2026-11-21-loca-th-1440-escudos-threads-instagram": "2026-11-21T15:11",
+  "redes-2026-11-21-loca-th-1700-escudos-threads-instagram": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-1720-escudos-threads-instagram": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-1840-duelo-threads": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-1900-x100-threads": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-1920-hora-threads": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-1940-x50-threads": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-2000-tapados-threads": "2026-11-21T21:25",
+  "redes-2026-11-21-loca-th-2020-lista-corners-threads": "2026-11-21T21:25"
  },
  "abiertos": [
   {
-   "clave": "directo-2026-11-21-pick-claude-1",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (16:30)"
+   "clave": "redes-2026-11-21-loca-th-1700-escudos-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (17:00): 💥 COMBI NAPOLI – TORINO 💥"
   },
   {
-   "clave": "directo-2026-11-21-pick-claude-2",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)"
+   "clave": "redes-2026-11-21-loca-th-1720-escudos-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (17:20): 💥 COMBI REAL MADRID – CELTA VIGO 💥"
   },
   {
-   "clave": "redes-2026-11-21-loca-th-1440-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (14:40): 🚨 COMBI FEYENOORD – EXCELSIOR 🚨"
+   "clave": "redes-2026-11-21-loca-th-1840-duelo-threads",
+   "t": "⏰ No ha salido en threads (18:40): 🥊 EL DUELO DE TIROS 🥊"
+  },
+  {
+   "clave": "redes-2026-11-21-loca-th-1900-x100-threads",
+   "t": "⏰ No ha salido en threads (19:00): 🤑 COMBI POR 86,53 🤑"
+  },
+  {
+   "clave": "redes-2026-11-21-loca-th-1920-hora-threads",
+   "t": "⏰ No ha salido en threads (19:20): ⏳ TODO A LAS 20:45 ⏳"
+  },
+  {
+   "clave": "redes-2026-11-21-loca-th-1940-x50-threads",
+   "t": "⏰ No ha salido en threads (19:40): 🤑 COMBI x42,38 🤑"
+  },
+  {
+   "clave": "redes-2026-11-21-loca-th-2000-tapados-threads",
+   "t": "⏰ No ha salido en threads (20:00): 🫣 LA DE LOS TAPADOS 🫣"
+  },
+  {
+   "clave": "redes-2026-11-21-loca-th-2020-lista-corners-threads",
+   "t": "⏰ No ha salido en threads (20:20): 🚩 CÓRNERS DEL DÍA 🚩"
   },
   {
    "clave": "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5",
@@ -152,23 +178,19 @@
   },
   {
    "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 4 posts (pick-claude-2, loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
-  },
-  {
-   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
-  },
-  {
-   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
-   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
+   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
   },
   {
    "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
@@ -176,6 +198,10 @@
   },
   {
    "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -191,8 +217,48 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
   }
  ],
- "revisado": "2026-11-21T15:32",
+ "revisado": "2026-11-21T21:25",
  "historial": [
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads ni instagram (17:00): 💥 COMBI NAPOLI – TORINO 💥",
+   "k": "redes-2026-11-21-loca-th-1700-escudos-threads-instagram"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads ni instagram (17:20): 💥 COMBI REAL MADRID – CELTA VIGO 💥",
+   "k": "redes-2026-11-21-loca-th-1720-escudos-threads-instagram"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads (18:40): 🥊 EL DUELO DE TIROS 🥊",
+   "k": "redes-2026-11-21-loca-th-1840-duelo-threads"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads (19:00): 🤑 COMBI POR 86,53 🤑",
+   "k": "redes-2026-11-21-loca-th-1900-x100-threads"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads (19:20): ⏳ TODO A LAS 20:45 ⏳",
+   "k": "redes-2026-11-21-loca-th-1920-hora-threads"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads (19:40): 🤑 COMBI x42,38 🤑",
+   "k": "redes-2026-11-21-loca-th-1940-x50-threads"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads (20:00): 🫣 LA DE LOS TAPADOS 🫣",
+   "k": "redes-2026-11-21-loca-th-2000-tapados-threads"
+  },
+  {
+   "hora": "2026-11-21T21:25",
+   "t": "⏰ No ha salido en threads (20:20): 🚩 CÓRNERS DEL DÍA 🚩",
+   "k": "redes-2026-11-21-loca-th-2020-lista-corners-threads"
+  },
   {
    "hora": "2026-11-21T15:11",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (16:30)",
@@ -452,46 +518,6 @@
    "hora": "2026-11-20T13:52",
    "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del viernes familia 🔥",
    "k": "redes-2026-11-20-combi-tres-threads-instagram"
-  },
-  {
-   "hora": "2026-11-20T13:31",
-   "t": "📰 Real Madrid–Celta Vigo: «Maldini elige entre Iniesta y Zidane y no tiene ninguna duda: \"Con diferencia\"» (SPORT) · tenemos 1 post(s) de este partido: ganadores-laliga",
-   "k": "prensa-1570461-DMaldini"
-  },
-  {
-   "hora": "2026-11-20T12:29",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick de la tarde, familia 👇 (17:00)",
-   "k": "directo-2026-11-20-pick-claude-1"
-  },
-  {
-   "hora": "2026-11-20T12:29",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Combi de la noche 🔥 (20:00)",
-   "k": "directo-2026-11-20-combi-noche"
-  },
-  {
-   "hora": "2026-11-20T12:29",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (pick-claude-1, loca-th-noche-2330-escudos, loca-th-0030-x100)",
-   "k": "repe-2026-11-20-1575221|Win Both Halves|Home"
-  },
-  {
-   "hora": "2026-11-20T12:29",
-   "t": "📰 FC Andorra–Leganes: «Luis Carrión visita a un Andorra herido que juega sin su portero sancionado» (ElGOLdigital) · tenemos 5 post(s) de este partido: loca-th-1300-tapados, combi-multi, loca-th-1630-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos",
-   "k": "prensa-1570025-530213b5"
-  },
-  {
-   "hora": "2026-11-20T11:32",
-   "t": "📰 FC Porto–Paredes: «Paredes regresa a la convocatoria del Athletic y Vivian causa baja» (Mundo Deportivo) · tenemos 1 post(s) de este partido: loca-th-1930-ganaambos",
-   "k": "prensa-1647583-4f7a5ba9"
-  },
-  {
-   "hora": "2026-11-20T10:52",
-   "t": "⏰ No ha salido en threads ni instagram (10:30): Pick de hoy, con datos detrás 📊",
-   "k": "redes-2026-11-20-pick-seguro-threads-instagram"
-  },
-  {
-   "hora": "2026-11-20T10:31",
-   "t": "📰 Lille–Lyon: «Atento Colombia: Vincent Kompany confirmó cuándo volverá a jugar Luis Díaz tras su lesión» (DSports) · tenemos 1 post(s) de este partido: combi-500",
-   "k": "prensa-1552820-LDíaz"
   }
  ]
 }

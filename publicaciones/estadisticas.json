@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21 15:31",
+ "actualizado": "2026-11-21 21:24",
  "redes": {
   "instagram": {
-   "seguidores": 54,
-   "hoy": 1,
+   "seguidores": 55,
+   "hoy": 2,
    "serie": [
     41,
     44,
@@ -11,12 +11,12 @@
     51,
     52,
     53,
-    54
+    55
    ]
   },
   "threads": {
-   "seguidores": 3361,
-   "hoy": 113,
+   "seguidores": 3448,
+   "hoy": 200,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3361
+    3448
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 491,
-   "hoy": 1,
+   "seguidores": 496,
+   "hoy": 6,
    "serie": [
     411,
     439,
@@ -50,17 +50,17 @@
     479,
     485,
     490,
-    491
+    496
    ]
   }
  },
- "total": 3907,
- "total_hoy": 115,
+ "total": 4000,
+ "total_hoy": 208,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "15:40",
+  "hora": "23:00",
   "dia": "2026-11-21",
-  "titulo": "Gana y ambos marcan"
+  "titulo": "7 picks para mañana"
  },
  "ayer": {
   "aciertos": 3,
@@ -245,10 +245,10 @@
    "telegram": 490
   },
   "2026-11-21": {
-   "instagram": 54,
-   "threads": 3361,
+   "instagram": 55,
+   "threads": 3448,
    "facebook": 1,
-   "telegram": 491
+   "telegram": 496
   }
  },
  "tipos_instagram": {
