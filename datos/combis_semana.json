@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T11:44+01:00",
+ "generado": "2026-11-21T12:15+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -2784,19 +2784,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/160.png"
     },
     {
-     "sel": "1575226|Home Team Total Cards|Over 1.5",
-     "texto": "Borussia Mönchengladbach ve más de 1,5 tarjetas",
-     "cuota": 1.5,
-     "p": 0.723,
-     "dato": "Borussia Mönchengladbach ve 2,8 amarillas por partido",
-     "nota": 0.7649176499678361,
-     "partido": "Borussia Mönchengladbach–Borussia Dortmund",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/163.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
-    {
      "sel": "1550205|Cards Over/Under|Over 2.5",
      "texto": "Más de 2,5 tarjetas en el partido",
      "cuota": 1.62,
@@ -2808,6 +2795,19 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/523.png",
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
+    },
+    {
+     "sel": "1575228|ShotOnTarget 1x2|Away",
+     "texto": "VfB Stuttgart remata más a puerta",
+     "cuota": 1.53,
+     "p": 0.717,
+     "dato": "5,8 remates a puerta de VfB Stuttgart contra 3,5 del rival",
+     "nota": 0.7586973269030223,
+     "partido": "FC Schalke 04–VfB Stuttgart",
+     "hora": "2026-11-21T18:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/174.png",
+     "logo_v": "https://media.api-sports.io/football/teams/172.png"
     },
     {
      "sel": "1570458|ShotOnTarget 1x2|Home",
@@ -2823,8 +2823,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/535.png"
     }
    ],
-   "cuota": 5.25,
-   "prob": 0.345
+   "cuota": 5.35,
+   "prob": 0.342
   },
   {
    "clave": "larga",
