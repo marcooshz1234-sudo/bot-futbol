@@ -125,7 +125,8 @@
   "prensa-1570459-30c88eb7": "2026-11-21T09:03",
   "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1": "2026-11-21T09:51",
   "redes-2026-11-21-pick-seguro-threads-instagram": "2026-11-21T10:52",
-  "redes-2026-11-21-combi-500-threads": "2026-11-21T12:23"
+  "redes-2026-11-21-combi-500-threads": "2026-11-21T12:23",
+  "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5": "2026-11-21T14:05"
  },
  "abiertos": [
   {
@@ -133,16 +134,8 @@
    "t": "⏰ No ha salido en threads (12:00): Vamos con la combi del día familia 🔥 · error: caducado: no salió a tiempo"
   },
   {
-   "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
-  },
-  {
-   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+   "clave": "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (boleto-personal, boleto-personal-th, loca-th-2020-lista-corners)"
   },
   {
    "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
@@ -153,8 +146,16 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
-   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
+   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
+  },
+  {
+   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
@@ -162,6 +163,10 @@
   },
   {
    "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -177,8 +182,13 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
   }
  ],
- "revisado": "2026-11-21T13:50",
+ "revisado": "2026-11-21T14:05",
  "historial": [
+  {
+   "hora": "2026-11-21T14:05",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (boleto-personal, boleto-personal-th, loca-th-2020-lista-corners)",
+   "k": "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5"
+  },
   {
    "hora": "2026-11-21T12:23",
    "t": "⏰ No ha salido en threads (12:00): Vamos con la combi del día familia 🔥 · error: 767 caracteres (máx. 500)",
@@ -473,11 +483,6 @@
    "hora": "2026-11-20T01:57",
    "t": "📰 Estac Troyes–Le Havre: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 11 post(s) de este partido: combi-tres, combi-multi, loca-th-0400-x50, loca-th-0600-tapados, loca-th-0700-x500, loca-th-0800-lista-corners, loca-th-0900-empates, loca-th-1000-reto, loca-th-1600-escudos, loca-th-1830-x1000, loca-th-1900-lista-corners",
    "k": "prensa-1552827-PAubameyang"
-  },
-  {
-   "hora": "2026-11-20T01:57",
-   "t": "📰 Bayern München–1. FC Köln: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 10 post(s) de este partido: combi-multi, estrella-1575221, loca-th-0200-lista-ambos, loca-th-0400-x50, loca-th-0500-hora, loca-th-0800-lista-corners, loca-th-1200-hora, loca-th-1830-x1000, loca-th-1900-lista-corners, loca-th-1930-ganaambos",
-   "k": "prensa-1575221-PAubameyang"
   }
  ]
 }

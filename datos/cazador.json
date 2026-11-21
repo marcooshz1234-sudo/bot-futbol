@@ -53,6 +53,17 @@
    "justa": 2.04,
    "ev": 0.029,
    "fuente": "Pinnacle",
+   "edad_h": 0.4
+  },
+  {
+   "local": "AVS",
+   "visitante": "Tondela",
+   "inicio": "2026-11-21T16:00",
+   "texto": "AVS o empate",
+   "cuota": 1.73,
+   "justa": 1.71,
+   "ev": 0.011,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   },
   {
@@ -64,7 +75,7 @@
    "justa": 1.78,
    "ev": 0.009,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Treviso",
@@ -75,7 +86,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Treviso",
@@ -85,6 +96,17 @@
    "cuota": 1.8,
    "justa": 1.8,
    "ev": -0.001,
+   "fuente": "Pinnacle",
+   "edad_h": 0.4
+  },
+  {
+   "local": "West Ham",
+   "visitante": "Preston",
+   "inicio": "2026-11-21T16:00",
+   "texto": "Preston marca",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.009,
    "fuente": "Pinnacle",
    "edad_h": 0.0
   },
@@ -97,7 +119,7 @@
    "justa": 1.75,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Bayer Leverkusen",
@@ -108,11 +130,11 @@
    "justa": 1.59,
    "ev": -0.014,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T13:39",
+  "hora": "2026-11-21T14:04",
   "revisadas": 0,
   "mejor": null
  },
