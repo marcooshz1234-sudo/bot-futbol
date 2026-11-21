@@ -207,7 +207,8 @@
   "2026-11-18-verde-auto-2026-11-18-escalera",
   "2026-11-19-verde-auto-2026-11-19-escalera",
   "2026-11-20-verde-auto-2026-11-20-loca-th-1200-hora",
-  "2026-11-20-verde-auto-2026-11-20-loca-th-1300-tapados"
+  "2026-11-20-verde-auto-2026-11-20-loca-th-1300-tapados",
+  "2026-11-21-verde-auto-2026-11-21-escalera"
  ],
  "grandes": [
   "1550171",
@@ -246,7 +247,7 @@
   "1640388",
   "1640575"
  ],
- "compartir": "2026-11-20",
+ "compartir": "2026-11-21",
  "semanal": "2026-46",
  "semana_anterior": {
   "mediana": 557,

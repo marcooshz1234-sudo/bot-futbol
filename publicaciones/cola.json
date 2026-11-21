@@ -9872,5 +9872,71 @@
     "nota": "Claude 21/11 15:20 · pick de la noche (Marcos: «añádelas»)",
     "texto": "Pick para la noche 👇\n\n🇫🇷 Estrasburgo – Brest · hoy 20:45\n\n🍀 Ambos marcan @1,62\n\n👨‍💻 En casa, el Estrasburgo marca 2,25 goles por partido y encaja 1,5\n👨‍💻 Han marcado los dos en todos los partidos del Estrasburgo en casa\n👨‍💻 Fuera, el Brest marca 1,6 por partido y han marcado los dos en el 80 % de sus partidos\n\n🧠 Stake 2/10",
     "caducada": true
+  },
+  {
+    "id": "2026-11-21-rojo-auto-2026-11-21-pick-seguro-5",
+    "fecha": "2026-11-21T21:34",
+    "texto": "Hoy no ha podido ser ❌\n\n❌ Gana el Aston Villa (Aston Villa – Sunderland 0–0)\n\nAquí se marcan también los fallos. Mañana volvemos con todo 💪",
+    "foto": null,
+    "origen": "bot",
+    "directo": true,
+    "resultado": "rojo",
+    "rojo_de": "2026-11-21-pick-seguro-5",
+    "requiere_ok": true,
+    "sin_instagram": true
+  },
+  {
+    "id": "2026-11-21-verde-auto-2026-11-21-pick-seguro",
+    "fecha": "2026-11-21T21:44",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Newcastle marca\n\n📈 Cuota @1,53",
+    "foto": "publicaciones/media/2026-11-21-verde-auto-2026-11-21-pick-seguro.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-21-pick-seguro"
+  },
+  {
+    "id": "2026-11-21-verde-auto-2026-11-21-escalera",
+    "fecha": "2026-11-21T21:34",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Parma marca\n\n📈 Cuota @1,80\n💶 20,00€ → 36,00€",
+    "foto": "publicaciones/media/2026-11-21-verde-auto-2026-11-21-escalera.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-21-escalera",
+    "enviado": "2026-11-21T21:36",
+    "mensaje_id": 582,
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18192446590416870",
+      "threads_enlace": "18611987404067718"
+    }
+  },
+  {
+    "id": "2026-11-21-verde-auto-2026-11-21-pick-seguro-3",
+    "fecha": "2026-11-21T21:54",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Feyenoord marca en las dos partes\n\n📈 Cuota @1,57\n\n¿Quién la llevaba? 👇💚",
+    "foto": "publicaciones/media/2026-11-21-verde-auto-2026-11-21-pick-seguro-3.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-21-pick-seguro-3"
+  },
+  {
+    "id": "2026-11-21-verde-auto-2026-11-21-pick-seguro-4",
+    "fecha": "2026-11-21T22:04",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Tottenham marca 2 o más\n\n📈 Cuota @1,50\n\nOtra más pa' la saca familia 😎",
+    "foto": "publicaciones/media/2026-11-21-verde-auto-2026-11-21-pick-seguro-4.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-21-pick-seguro-4"
   }
 ]
