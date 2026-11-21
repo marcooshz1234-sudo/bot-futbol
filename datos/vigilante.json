@@ -137,28 +137,33 @@
   "prensa-1570458-50012bbc": "2026-11-21T03:01",
   "prensa-1557475-bc1183fb": "2026-11-21T09:03",
   "prensa-1570459-30c88eb7": "2026-11-21T09:03",
-  "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1": "2026-11-21T09:51"
+  "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1": "2026-11-21T09:51",
+  "redes-2026-11-21-pick-seguro-threads-instagram": "2026-11-21T10:52"
  },
  "abiertos": [
+  {
+   "clave": "redes-2026-11-21-pick-seguro-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (10:30): Pick que nos gusta mucho para hoy 👀"
+  },
   {
    "clave": "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1",
    "t": "📉 Bayer Leverkusen–SC Paderborn 07 Santiago Castaneda - 1: la cuota ha pasado de 1.33 a 1.53 (+15%) desde que se hizo «💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥» (11:20). Suele haber una noticia detrás"
   },
   {
-   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
+   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
   },
   {
    "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
+   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
-   "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
   },
   {
    "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
@@ -189,8 +194,13 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
   }
  ],
- "revisado": "2026-11-21T10:42",
+ "revisado": "2026-11-21T10:52",
  "historial": [
+  {
+   "hora": "2026-11-21T10:52",
+   "t": "⏰ No ha salido en threads ni instagram (10:30): Pick que nos gusta mucho para hoy 👀",
+   "k": "redes-2026-11-21-pick-seguro-threads-instagram"
+  },
   {
    "hora": "2026-11-21T09:51",
    "t": "📉 Bayer Leverkusen–SC Paderborn 07 Santiago Castaneda - 1: la cuota ha pasado de 1.33 a 1.53 (+15%) desde que se hizo «💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥» (11:20). Suele haber una noticia detrás",
@@ -485,11 +495,6 @@
    "hora": "2026-11-20T00:58",
    "t": "📰 Athletic Club–Espanyol: «Grave lesión en el RCD Espanyol, rotura de cruzado y adiós a la temporada» (El Desmarque) · tenemos 10 post(s) de este partido: pick-seguro-2, estrella-1570454, loca-th-0100-ganaambos, loca-th-0400-x50, loca-th-0700-x500, loca-th-1000-reto, loca-th-1300-tapados, loca-th-1700-escudos, loca-th-1900-lista-corners, loca-th-1930-ganaambos",
    "k": "prensa-1570454-c7237918"
-  },
-  {
-   "hora": "2026-11-20T00:58",
-   "t": "📰 Alaves–Deportivo La Coruna: «Aubameyang enciende las alarmas en el Deportivo: molestias en el tobillo a 48 horas del partido ante el Alavés» (Cadena SER) · tenemos 1 post(s) de este partido: ganadores-laliga",
-   "k": "prensa-1570453-PAubameyang"
   }
  ]
 }
