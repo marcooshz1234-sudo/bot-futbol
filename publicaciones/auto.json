@@ -10347,7 +10347,7 @@
       1.83,
       1.83,
       1.91,
-      1.91,
+      1.83,
       1.83,
       1.83
     ],
@@ -10360,7 +10360,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-21T06:45"
   },
   {
     "id": "2026-11-21-ganadores-resto",
