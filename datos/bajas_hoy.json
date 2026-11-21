@@ -10023,9 +10023,73 @@
     "motivo": "Broken shinbone"
    }
   ],
-  "1647589": []
+  "1647589": [],
+  "1570459": [
+   {
+    "equipo": 4665,
+    "jugador": "M. Gueye",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "A. Mantilla",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "A. Martin",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 4665,
+    "jugador": "A. Martin",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "L. Astiazaran",
+    "tipo": "Missing Fixture",
+    "motivo": "Knock"
+   },
+   {
+    "equipo": 548,
+    "jugador": "A. Barrenetxea",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "T. Folgado",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 548,
+    "jugador": "Y. Herrera",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "A. Odriozola",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 548,
+    "jugador": "M. Sarr",
+    "tipo": "Questionable",
+    "motivo": "Calf Injury"
+   }
+  ],
+  "1570031": [],
+  "1565310": []
  },
- "ultima": "2026-11-21T10:01:50.148155+01:00",
+ "ultima": "2026-11-21T10:33:10.974997+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
