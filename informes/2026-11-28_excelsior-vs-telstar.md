@@ -1,7 +1,7 @@
 # Excelsior – Telstar
 **Eredivisie** · Regular Season - 14 · 28/11/2026 16:30 (hora España) · Stadion Woudestein
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 20:09_

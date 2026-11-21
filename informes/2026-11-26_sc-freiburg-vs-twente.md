@@ -1,10 +1,10 @@
 # SC Freiburg – Twente
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Europa-Park Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:28_
+_Actualizadas: 21/11 14:05_
 
 - **1X2:** 1 **1.85**  ·  X **3.90**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.30**  ·  12 **1.22**  ·  X2 **1.80**

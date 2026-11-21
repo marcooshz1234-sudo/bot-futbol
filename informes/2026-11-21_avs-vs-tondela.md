@@ -1,18 +1,18 @@
 # AVS – Tondela
 **Taça de Portugal** · Round of 32 · 21/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:02_
 
 - **1X2:** 1 **3.40**  ·  X **3.25**  ·  2 **1.95**
-- **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.33**
+- **Doble oportunidad:** 1X **1.73**  ·  12 **1.30**  ·  X2 **1.28**
 - **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
-    - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.40** · menos **2.75**
-    - 2,5: más **2.25** · menos **1.62**
+    - 0,5: más **1.08** · menos **8.00**
+    - 1,5: más **1.44** · menos **2.62**
+    - 2,5: más **2.35** · menos **1.57**
     - 3,5: más **4.33** · menos **1.20**
     - 4,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**

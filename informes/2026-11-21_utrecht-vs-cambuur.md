@@ -1,10 +1,10 @@
 # Utrecht – Cambuur
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:02_
 
 - **1X2:** 1 **1.91**  ·  X **4.00**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.22**  ·  X2 **1.83**
@@ -12,9 +12,9 @@ _Actualizadas: 21/11 02:17_
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
     - 2,5: más **1.44** · menos **2.70**
-    - 3,5: más **2.00** · menos **1.73**
-    - 4,5: más **3.40** · menos **1.30**
-    - 5,5: más **6.00** · menos **1.12**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -114,7 +114,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Utrecht:** A. Engwanda (baja, Hamstring Injury); V. Jensen (baja, Knee Injury); M. Jonathans (baja, Knee Injury); N. Ohio (baja, Knee Injury); K. Paredes (baja, Knee Injury)
-**Cambuur:** J. Amofa (baja, Injury); D. Visser (baja, Knee Injury); D. Westerhof (baja, Inactive); W. Asselman (duda, Injury)
+**Cambuur:** J. Amofa (baja, Injury); D. Visser (baja, Knee Injury); W. Asselman (duda, Injury)
 
 ## Enfrentamientos directos recientes
 - 2026-07-24 · Friendlies Clubs: Cambuur 1-0 Utrecht

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-21 08:17",
+ "generado": "2026-11-21 14:09",
  "picks_usados": 583,
  "aciertos": 364,
  "prometido_medio": 0.704,
@@ -23,11 +23,11 @@
    "cuota_implicita": 0.724
   },
   "resultado": {
-   "ajuste": -0.0432,
+   "ajuste": -0.0431,
    "n": 109,
    "partidos": 38.4,
    "aciertos": 68,
-   "prometido": 0.697,
+   "prometido": 0.696,
    "cuota_implicita": 0.684
   },
   "tiros": {
@@ -109,15 +109,15 @@
    "n": 42,
    "partidos": 16.2,
    "aciertos": 33,
-   "prometido": 0.791,
+   "prometido": 0.792,
    "cuota_implicita": 0.765
   },
   "Total - Away|Over 0.5": {
-   "ajuste": -0.0605,
+   "ajuste": -0.0606,
    "n": 48,
    "partidos": 14.9,
    "aciertos": 28,
-   "prometido": 0.749,
+   "prometido": 0.75,
    "cuota_implicita": 0.723
   },
   "Double Chance|Home/Away": {
@@ -169,7 +169,7 @@
    "cuota_implicita": 0.752
   },
   "Goals Over/Under - Second Half|Over 0.5": {
-   "ajuste": -0.0052,
+   "ajuste": -0.0053,
    "n": 10,
    "partidos": 2.3,
    "aciertos": 6,
@@ -499,7 +499,7 @@
  },
  "ligas": {
   "Serie A": {
-   "ajuste": 0.0191,
+   "ajuste": 0.019,
    "n": 110,
    "partidos": 27.5,
    "aciertos": 76,
@@ -547,7 +547,7 @@
    "cuota_implicita": 0.677
   },
   "Championship": {
-   "ajuste": -0.0118,
+   "ajuste": -0.0119,
    "n": 46,
    "partidos": 17.4,
    "aciertos": 28,
@@ -623,7 +623,7 @@
    "n": 2,
    "partidos": 1.8,
    "aciertos": 2,
-   "prometido": 0.852,
+   "prometido": 0.851,
    "cuota_implicita": 0.736
   },
   "Liga F": {
@@ -695,7 +695,7 @@
    "cuota_implicita": 0.706
   },
   "bet365 paga más": {
-   "ajuste": -0.0505,
+   "ajuste": -0.0504,
    "n": 60,
    "partidos": 22.1,
    "aciertos": 33,
@@ -703,7 +703,7 @@
    "cuota_implicita": 0.711
   },
   "bet365 paga menos": {
-   "ajuste": 0.1002,
+   "ajuste": 0.1003,
    "n": 45,
    "partidos": 16.2,
    "aciertos": 34,

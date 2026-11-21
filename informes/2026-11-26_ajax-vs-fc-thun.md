@@ -1,10 +1,10 @@
 # Ajax – FC Thun
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Johan Cruijff Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:28_
+_Actualizadas: 21/11 14:05_
 
 - **1X2:** 1 **1.17**  ·  X **6.25**  ·  2 **12.00**
 - **Doble oportunidad:** 1X **1.04**  ·  12 **1.11**  ·  X2 **4.50**

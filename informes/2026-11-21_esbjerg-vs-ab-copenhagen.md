@@ -1,24 +1,24 @@
 # Esbjerg – AB Copenhagen
 **1. Division** · Regular Season - 15 · 21/11/2026 15:00 (hora España) · Blue Water Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:01_
 
-- **1X2:** 1 **3.00**  ·  X **3.60**  ·  2 **2.15**
-- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.36**
-- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
+- **1X2:** 1 **3.00**  ·  X **3.50**  ·  2 **2.20**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.28**  ·  X2 **1.40**
+- **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
-    - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.48** · menos **2.60**
-    - 3,5: más **2.10** · menos **1.67**
-    - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **6.50** · menos **1.11**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.53** · menos **2.40**
+    - 3,5: más **2.25** · menos **1.57**
+    - 4,5: más **4.00** · menos **1.22**
+    - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
-    - 1,5: más **2.10** · menos **1.67**
-    - 2,5: más **4.50** · menos **1.18**
+    - 1,5: más **2.20** · menos **1.62**
+    - 2,5: más **5.00** · menos **1.17**
     - 3,5: más **13.00** · menos **1.04**
 - **Goles del local:**
     - 0,5: más **1.22** · menos **4.00**
@@ -31,22 +31,23 @@ _Actualizadas: 21/11 02:17_
     - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 10,5: más **1.83** · menos **1.83**
-- **1X2 descanso:** 1 **3.25**  ·  X **2.50**  ·  2 **2.62**
+    - 10: más **1.88** · menos **1.92**
+    - 10,5: más **2.10** · menos **1.67**
+- **1X2 descanso:** 1 **3.25**  ·  X **2.40**  ·  2 **2.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.14** · menos **5.50**
     - 1,5: más **1.67** · menos **2.10**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
-- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
-- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
-- **To Win Either Half:** 1 **1.83**  ·  2 **1.57**
-- **To Score In Both Halves By Teams:** 1 **3.25**  ·  2 **2.62**
-- **Win Both Halves:** 1 **10.00**  ·  2 **6.50**
-- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.40**  ·  Home/No **7.00**  ·  Draw/No **19.00**  ·  Away/No **5.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.60**
-- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.40**  ·  Menos de 5 **2.05**  ·  Más de 4.5 **1.75**  ·  Menos de 4.5 **2.05**
-- **Anytime Goal Scorer:** Julius Lucena **4.33**  ·  Lasse Vigen **6.00**  ·  Tobias Lykkebak **4.33**  ·  Noah Strandby **3.60**  ·  Gustav Bjerge **9.00**  ·  Marc Dal Hende **7.50**  ·  Oskar Boesen **5.50**  ·  Marcus Hansen **3.40**  ·  Gustav Grubbe **13.00**  ·  Jonathan Mathys **3.40**  ·  William Warrer **9.00**  ·  Nicklas Strunck Jakobsen **3.40**  ·  Peter Bjur **4.33**  ·  Mikail Maden **4.75**  ·  Anton Skipper **11.00**  ·  Patrick Tjornelund **13.00**  ·  Gabriel Noga **7.50**  ·  Oluwatomiwa Kolawole **5.50**  ·  Frode Aronsson **8.00**  ·  Milan Rasmussen **2.50**  ·  Muamer Brajanac **2.38**  ·  James Ampofo **3.10**  ·  Sander Strand **7.50**  ·  Jonathan Foss **11.00**  ·  Martin Kruse **6.50**  ·  Jonas Heinze **4.75**  ·  Marco Ramkilde **2.50**  ·  O'Vonte Mullings **4.33**  ·  Mikkel Brund **5.50**  ·  Noah Engell **2.38**  ·  Tobias Hageltorn **2.50**  ·  Marcus Immersen **2.75**  ·  Casper Grening **4.00**  ·  Alfred Horup **4.33**  ·  Marco Vesterholm **4.33**  ·  Mikkel Clement **4.75**  ·  Soren Ilsoe **4.75**  ·  Frederik Lindgaard **6.50**  ·  Tobias Damtoft **6.50**  ·  Adrien Koudelka **11.00**  ·  Aidan Liu **7.50**  ·  Jermain Fernandes **4.00**  ·  Villum Stokbro **6.00**  ·  Andreas Kristiansen **8.00**  ·  Jakob Zwinge **5.50**  ·  Marius Stenner **4.75**  ·  Adam Ahmad **2.88**  ·  Saliou Diop **2.05**  ·  Benjamin Hvidt **4.75**  ·  Nicolai Blicher **9.00**  ·  Anders Sonderskov **9.00**  ·  Travian Sousa **9.00**
+- **Both Teams Score - First Half:** Sí **3.50**  ·  No **1.28**
+- **Both Teams To Score - Second Half:** Sí **2.62**  ·  No **1.44**
+- **To Win Either Half:** 1 **1.83**  ·  2 **1.62**
+- **To Score In Both Halves By Teams:** 1 **3.40**  ·  2 **2.75**
+- **Win Both Halves:** 1 **10.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **4.75**  ·  Draw/Yes **4.00**  ·  Away/Yes **3.60**  ·  Home/No **6.50**  ·  Draw/No **17.00**  ·  Away/No **5.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.73**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.25**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
+- **Anytime Goal Scorer:** Julius Lucena **4.33**  ·  Lasse Vigen **6.50**  ·  Tobias Lykkebak **4.33**  ·  Noah Strandby **3.75**  ·  Gustav Bjerge **9.50**  ·  Marc Dal Hende **7.50**  ·  Oskar Boesen **5.50**  ·  Marcus Hansen **3.50**  ·  Gustav Grubbe **13.00**  ·  Jonathan Mathys **3.50**  ·  William Warrer **9.50**  ·  Nicklas Strunck Jakobsen **3.50**  ·  Peter Bjur **4.33**  ·  Mikail Maden **5.00**  ·  Anton Skipper **11.00**  ·  Patrick Tjornelund **13.00**  ·  Gabriel Noga **7.50**  ·  Oluwatomiwa Kolawole **5.50**  ·  Frode Aronsson **8.50**  ·  Milan Rasmussen **2.75**  ·  Muamer Brajanac **2.40**  ·  James Ampofo **3.20**  ·  Sander Strand **7.50**  ·  Jonathan Foss **11.00**  ·  Martin Kruse **7.00**  ·  Jonas Heinze **5.00**  ·  Marco Ramkilde **2.75**  ·  O'Vonte Mullings **4.33**  ·  Mikkel Brund **5.50**  ·  Noah Engell **2.40**  ·  Tobias Hageltorn **2.75**  ·  Marcus Immersen **3.00**  ·  Casper Grening **4.00**  ·  Alfred Horup **4.33**  ·  Marco Vesterholm **4.33**  ·  Mikkel Clement **5.00**  ·  Soren Ilsoe **5.00**  ·  Frederik Lindgaard **7.00**  ·  Tobias Damtoft **7.00**  ·  Adrien Koudelka **11.00**  ·  Aidan Liu **7.50**  ·  Jermain Fernandes **4.00**  ·  Villum Stokbro **6.50**  ·  Andreas Kristiansen **8.50**  ·  Jakob Zwinge **5.50**  ·  Marius Stenner **5.00**  ·  Adam Ahmad **3.00**  ·  Saliou Diop **2.10**  ·  Benjamin Hvidt **5.00**  ·  Nicolai Blicher **9.50**  ·  Anders Sonderskov **9.50**  ·  Travian Sousa **9.50**
 
 ## Estadísticas de equipo
 | | Esbjerg (total) | Esbjerg en casa | AB Copenhagen (total) | AB Copenhagen fuera |

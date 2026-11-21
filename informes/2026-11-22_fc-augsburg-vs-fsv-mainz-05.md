@@ -1,20 +1,20 @@
 # FC Augsburg – FSV Mainz 05
 **Bundesliga** · Regular Season - 10 · 22/11/2026 15:30 (hora España) · WWK Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **2.62**  ·  X **3.80**  ·  2 **2.45**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.25**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.40** · menos **3.00**
+    - 2,5: más **1.44** · menos **2.75**
     - 3,5: más **2.00** · menos **1.80**
     - 4,5: más **3.40** · menos **1.33**
-    - 5,5: más **5.50** · menos **1.14**
+    - 5,5: más **6.00** · menos **1.12**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -40,7 +40,7 @@ _Actualizadas: 21/11 02:18_
 - **1X2 descanso:** 1 **3.00**  ·  X **2.60**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.62** · menos **2.20**
+    - 1,5: más **1.57** · menos **2.25**
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
 - **Both Teams Score - First Half:** Sí **3.25**  ·  No **1.33**

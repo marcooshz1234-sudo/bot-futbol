@@ -1,10 +1,10 @@
 # Giana Erminio – Juventus U23
 **Serie C** · Girone A - 15 · 21/11/2026 17:30 (hora España) · Stadio Citta di Gorgonzola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:02_
 
 - **1X2:** 1 **2.55**  ·  X **3.25**  ·  2 **2.40**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.25**  ·  X2 **1.44**

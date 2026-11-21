@@ -1,19 +1,19 @@
 # Estoril – Felgueiras 1932
 **Taça de Portugal** · Round of 32 · 21/11/2026 17:00 (hora España) · Estadio Antonio Coimbra da Mota
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:02_
 
-- **1X2:** 1 **1.62**  ·  X **3.80**  ·  2 **4.33**
-- **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **2.00**
+- **1X2:** 1 **1.57**  ·  X **3.90**  ·  2 **4.50**
+- **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.20**
 - **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
-    - 2,5: más **1.95** · menos **1.85**
-    - 3,5: más **3.40** · menos **1.30**
+    - 2,5: más **1.90** · menos **1.90**
+    - 3,5: más **3.25** · menos **1.33**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.36** · menos **3.00**
@@ -29,7 +29,7 @@ _Actualizadas: 21/11 02:17_
     - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
-    - 9,5: más **1.83** · menos **1.83**
+    - 9,5: más **1.85** · menos **1.95**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -38,8 +38,8 @@ _Actualizadas: 21/11 02:17_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.36**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **6.50**
+- **To Win Either Half:** 1 **1.36**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **7.00**
 - **Win Both Halves:** 1 **4.33**  ·  2 **21.00**
 - **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **9.00**  ·  Home/No **2.62**  ·  Draw/No **11.00**  ·  Away/No **8.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.30**

@@ -1,7 +1,7 @@
 # Cambuur – Sparta Rotterdam
 **Eredivisie** · Regular Season - 14 · 28/11/2026 21:00 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:20_

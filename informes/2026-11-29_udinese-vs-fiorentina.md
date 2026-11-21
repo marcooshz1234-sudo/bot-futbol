@@ -1,0 +1,181 @@
+# Udinese – Fiorentina
+**Serie A** · Regular Season - 13 · 29/11/2026 12:30 (hora España) · Bluenergy Stadium - Stadio Friuli
+
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
+
+## Cuotas Bet365
+_Actualizadas: 21/11 14:06_
+
+- **1X2:** 1 **3.20**  ·  X **3.40**  ·  2 **2.15**
+- **Doble oportunidad:** 1X **1.67**  ·  12 **1.30**  ·  X2 **1.36**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
+- **Goles más/menos:**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.22** · menos **4.33**
+    - 2,5: más **1.73** · menos **2.10**
+    - 3,5: más **2.75** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
+    - 5,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
+- **Goles del local:**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Goles del visitante:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **11.00** · menos **1.05**
+- **1X2 descanso:** 1 **3.60**  ·  X **2.30**  ·  2 **2.75**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.20** · menos **4.33**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
+    - 3,5: más **10.00** · menos **1.06**
+- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **2.00**  ·  2 **1.62**
+- **To Score In Both Halves By Teams:** 1 **4.00**  ·  2 **3.25**
+- **Win Both Halves:** 1 **11.00**  ·  2 **7.00**
+- **Results/Both Teams Score:** Home/Yes **5.50**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.00**  ·  Draw/No **13.00**  ·  Away/No **4.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.75**
+- **Away Player Shots On Target Total:** Dodo dos Santos **81.00**  ·  Jesper Karlstrom **67.00**  ·  Nicolo Fagioli **51.00**  ·  Giorgi Chakvetadze **41.00**  ·  Juan David Arizala **41.00**  ·  Jakub Piotrowski **9.50**  ·  Giulio Vinciati **21.00**  ·  Christ Oulai **67.00**  ·  Degnand Gnonto **21.00**  ·  Vakoun Bayo **17.00**  ·  Franco Mastantuono **26.00**  ·  Mateo Pellegrino **8.00**  ·  Mergim Vojvoda **51.00**  ·  Nicolo Bertola **12.00**  ·  Unai Gomez **41.00**  ·  Lennon Miller **67.00**  ·  Cher Ndour **34.00**  ·  Victor Valdepenas **17.00**  ·  Pedro Goncalves **26.00**  ·  Lazar Jovanovic **12.00**  ·  Antonio Pirro **34.00**  ·  Federico Croci **34.00**  ·  Brando Mazzeo **13.00**  ·  Arnis Ademi **29.00**  ·  Neto Joao Mario **51.00**  ·  David Alaba **126.00**  ·  Idrissa Gueye **11.00**  ·  Radu Dragusin **17.00**  ·  Luca Ranieri **17.00**  ·  Marin Pongracic **26.00**  ·  Alejandro Jimenez **51.00**  ·  Alieu Njie **21.00**  ·  Beto **7.00**  ·  Alessandro Zanoli **51.00**  ·  Marco Brescianini **34.00**  ·  Arthur Atta **29.00**  ·  Christian Kabasele **13.00**  ·  Enzo Ebosse **21.00**  ·  Hassane Kamara **81.00**  ·  James Abankwah **23.00**  ·  Jurgen Ekkelenkamp **26.00**  ·  Keinan Davis **11.00**  ·  Matteo Palma **21.00**  ·  Oier Zarraga **51.00**  ·  Sandi Lovric **41.00**  ·  Oumar Solet **13.00**  ·  Viery Lopes **17.00**
+- **Home Player Shots:** Idrissa Gueye - 1 **1.07**  ·  Idrissa Gueye - 2 **1.40**  ·  Idrissa Gueye - 3 **2.10**  ·  Idrissa Gueye - 4 **3.75**  ·  Lazar Jovanovic - 1 **1.18**  ·  Lazar Jovanovic - 2 **1.80**  ·  Lazar Jovanovic - 3 **3.40**  ·  Lazar Jovanovic - 4 **7.00**  ·  Lazar Jovanovic - 5 **15.00**  ·  Keinan Davis - 1 **1.02**  ·  Vakoun Bayo - 1 **1.03**  ·  Giulio Vinciati - 1 **1.06**  ·  Jakub Piotrowski - 1 **1.06**  ·  Giorgi Chakvetadze - 1 **1.12**  ·  Sandi Lovric - 1 **1.11**  ·  Jurgen Ekkelenkamp - 1 **1.12**  ·  Lennon Miller - 1 **1.53**  ·  Unai Gomez - 1 **1.11**  ·  Alessandro Zanoli - 1 **1.40**  ·  Mergim Vojvoda - 1 **1.33**  ·  Nicolo Bertola - 1 **1.40**  ·  Oier Zarraga - 1 **1.40**  ·  Oumar Solet - 1 **1.44**  ·  Hassane Kamara - 1 **1.50**  ·  Jesper Karlstrom - 1 **1.44**  ·  Juan David Arizala - 1 **1.50**  ·  Enzo Ebosse - 1 **2.10**  ·  Matteo Palma - 1 **2.00**  ·  James Abankwah - 1 **2.75**  ·  Keinan Davis - 2 **1.12**  ·  Vakoun Bayo - 2 **1.18**  ·  Giulio Vinciati - 2 **1.33**  ·  Jakub Piotrowski - 2 **1.30**  ·  Giorgi Chakvetadze - 2 **1.57**  ·  Sandi Lovric - 2 **1.53**  ·  Jurgen Ekkelenkamp - 2 **1.57**  ·  Lennon Miller - 2 **3.40**  ·  Unai Gomez - 2 **1.53**  ·  Alessandro Zanoli - 2 **2.75**  ·  Mergim Vojvoda - 2 **2.38**  ·  Nicolo Bertola - 2 **2.62**  ·  Oier Zarraga - 2 **2.62**  ·  Oumar Solet - 2 **3.00**  ·  Hassane Kamara - 2 **3.25**  ·  Jesper Karlstrom - 2 **3.00**  ·  Juan David Arizala - 2 **3.25**  ·  Enzo Ebosse - 2 **6.00**  ·  Matteo Palma - 2 **5.50**  ·  James Abankwah - 2 **10.00**  ·  Keinan Davis - 3 **1.40**  ·  Vakoun Bayo - 3 **1.53**  ·  Giulio Vinciati - 3 **1.91**  ·  Jakub Piotrowski - 3 **1.83**  ·  Giorgi Chakvetadze - 3 **2.62**  ·  Sandi Lovric - 3 **2.50**  ·  Jurgen Ekkelenkamp - 3 **2.62**  ·  Lennon Miller - 3 **9.00**  ·  Unai Gomez - 3 **2.50**  ·  Alessandro Zanoli - 3 **7.00**  ·  Mergim Vojvoda - 3 **5.50**  ·  Nicolo Bertola - 3 **6.00**  ·  Oier Zarraga - 3 **6.00**  ·  Oumar Solet - 3 **7.00**  ·  Hassane Kamara - 3 **8.00**  ·  Jesper Karlstrom - 3 **7.00**  ·  Juan David Arizala - 3 **8.00**  ·  Enzo Ebosse - 3 **19.00**  ·  Matteo Palma - 3 **19.00**  ·  Keinan Davis - 4 **1.91**  ·  Vakoun Bayo - 4 **2.25**  ·  Giulio Vinciati - 4 **3.40**  ·  Jakub Piotrowski - 4 **3.25**  ·  Giorgi Chakvetadze - 4 **5.00**  ·  Sandi Lovric - 4 **4.50**  ·  Jurgen Ekkelenkamp - 4 **5.00**  ·  Lennon Miller - 4 **21.00**  ·  Unai Gomez - 4 **4.50**  ·  Alessandro Zanoli - 4 **17.00**  ·  Mergim Vojvoda - 4 **13.00**  ·  Nicolo Bertola - 4 **15.00**  ·  Oier Zarraga - 4 **15.00**  ·  Oumar Solet - 4 **19.00**  ·  Hassane Kamara - 4 **21.00**  ·  Jesper Karlstrom - 4 **19.00**  ·  Juan David Arizala - 4 **21.00**  ·  Keinan Davis - 5 **3.25**  ·  Vakoun Bayo - 5 **3.75**  ·  Giulio Vinciati - 5 **6.00**  ·  Jakub Piotrowski - 5 **6.00**  ·  Idrissa Gueye - 5 **7.00**  ·  Giorgi Chakvetadze - 5 **11.00**  ·  Sandi Lovric - 5 **10.00**  ·  Jurgen Ekkelenkamp - 5 **11.00**  ·  Unai Gomez - 5 **10.00**  ·  Keinan Davis - 6 **5.50**  ·  Vakoun Bayo - 6 **7.00**  ·  Giulio Vinciati - 6 **13.00**  ·  Jakub Piotrowski - 6 **11.00**  ·  Idrissa Gueye - 6 **15.00**  ·  Giorgi Chakvetadze - 6 **21.00**  ·  Keinan Davis - 7 **10.00**  ·  Vakoun Bayo - 7 **13.00**  ·  Giulio Vinciati - 7 **21.00**  ·  Jakub Piotrowski - 7 **21.00**  ·  Keinan Davis - 8 **19.00**  ·  Vakoun Bayo - 8 **21.00**  ·  Christian Kabasele - 1 **1.44**  ·  Christian Kabasele - 2 **3.00**  ·  Christian Kabasele - 3 **8.00**  ·  Christian Kabasele - 4 **19.00**  ·  Sandi Lovric - 6 **21.00**  ·  Jurgen Ekkelenkamp - 6 **21.00**  ·  Unai Gomez - 6 **21.00**  ·  Idrissa Gueye - 7 **21.00**  ·  David Alaba - 1 **2.38**  ·  David Alaba - 2 **8.00**  ·  David Alaba - 3 **21.00**
+- **Away Player Shots:** Pedro Goncalves - 1 **1.02**  ·  Pedro Goncalves - 2 **1.14**  ·  Pedro Goncalves - 3 **1.44**  ·  Pedro Goncalves - 4 **2.00**  ·  Pedro Goncalves - 5 **3.25**  ·  Pedro Goncalves - 6 **5.50**  ·  Pedro Goncalves - 7 **11.00**  ·  Pedro Goncalves - 8 **19.00**  ·  Degnand Gnonto - 1 **1.04**  ·  Degnand Gnonto - 2 **1.22**  ·  Degnand Gnonto - 3 **1.67**  ·  Degnand Gnonto - 4 **2.62**  ·  Degnand Gnonto - 5 **4.50**  ·  Degnand Gnonto - 6 **9.00**  ·  Degnand Gnonto - 7 **17.00**  ·  Beto - 1 **1.04**  ·  Beto - 2 **1.20**  ·  Beto - 3 **1.62**  ·  Beto - 4 **2.50**  ·  Beto - 5 **4.33**  ·  Beto - 6 **8.00**  ·  Beto - 7 **15.00**  ·  Mateo Pellegrino - 1 **1.02**  ·  Arthur Atta - 1 **1.04**  ·  Federico Croci - 1 **1.08**  ·  Marco Brescianini - 1 **1.33**  ·  Cher Ndour - 1 **1.17**  ·  Nicolo Fagioli - 1 **1.18**  ·  Christ Oulai - 1 **1.44**  ·  Alejandro Jimenez - 1 **1.28**  ·  Dodo dos Santos - 1 **1.53**  ·  Luca Ranieri - 1 **1.80**  ·  Viery Lopes - 1 **1.80**  ·  Victor Valdepenas - 1 **1.73**  ·  Marin Pongracic - 1 **2.20**  ·  Radu Dragusin - 1 **2.00**  ·  Mateo Pellegrino - 2 **1.14**  ·  Arthur Atta - 2 **1.22**  ·  Federico Croci - 2 **1.44**  ·  Franco Mastantuono - 2 **1.07**  ·  Marco Brescianini - 2 **2.38**  ·  Cher Ndour - 2 **1.73**  ·  Nicolo Fagioli - 2 **1.83**  ·  Christ Oulai - 2 **3.00**  ·  Alejandro Jimenez - 2 **2.20**  ·  Dodo dos Santos - 2 **3.40**  ·  Luca Ranieri - 2 **4.50**  ·  Viery Lopes - 2 **4.33**  ·  Victor Valdepenas - 2 **4.33**  ·  Marin Pongracic - 2 **7.00**  ·  Radu Dragusin - 2 **5.50**  ·  Mateo Pellegrino - 3 **1.44**  ·  Arthur Atta - 3 **1.67**  ·  Federico Croci - 3 **2.25**  ·  Franco Mastantuono - 3 **1.25**  ·  Marco Brescianini - 3 **5.50**  ·  Cher Ndour - 3 **3.00**  ·  Nicolo Fagioli - 3 **3.40**  ·  Christ Oulai - 3 **7.00**  ·  Alejandro Jimenez - 3 **4.50**  ·  Dodo dos Santos - 3 **9.00**  ·  Luca Ranieri - 3 **13.00**  ·  Viery Lopes - 3 **13.00**  ·  Victor Valdepenas - 3 **13.00**  ·  Marin Pongracic - 3 **21.00**  ·  Radu Dragusin - 3 **19.00**  ·  Mateo Pellegrino - 4 **2.10**  ·  Arthur Atta - 4 **2.50**  ·  Federico Croci - 4 **4.00**  ·  Franco Mastantuono - 4 **1.57**  ·  Marco Brescianini - 4 **13.00**  ·  Cher Ndour - 4 **6.00**  ·  Nicolo Fagioli - 4 **7.00**  ·  Christ Oulai - 4 **19.00**  ·  Alejandro Jimenez - 4 **11.00**  ·  Dodo dos Santos - 4 **21.00**  ·  Mateo Pellegrino - 5 **3.40**  ·  Arthur Atta - 5 **4.33**  ·  Federico Croci - 5 **8.00**  ·  Franco Mastantuono - 5 **2.25**  ·  Cher Ndour - 5 **15.00**  ·  Nicolo Fagioli - 5 **17.00**  ·  Alejandro Jimenez - 5 **21.00**  ·  Mateo Pellegrino - 6 **6.00**  ·  Arthur Atta - 6 **8.00**  ·  Federico Croci - 6 **17.00**  ·  Franco Mastantuono - 6 **3.50**  ·  Cher Ndour - 6 **21.00**  ·  Mateo Pellegrino - 7 **11.00**  ·  Arthur Atta - 7 **17.00**  ·  Franco Mastantuono - 7 **6.00**  ·  Mateo Pellegrino - 8 **19.00**  ·  Franco Mastantuono - 8 **11.00**  ·  Alieu Njie - 1 **1.08**  ·  Alieu Njie - 2 **1.40**  ·  Alieu Njie - 3 **2.20**  ·  Alieu Njie - 4 **4.00**  ·  Alieu Njie - 5 **8.00**  ·  Alieu Njie - 6 **17.00**  ·  Antonio Pirro - 1 **1.10**  ·  Brando Mazzeo - 1 **1.11**  ·  Antonio Pirro - 2 **1.44**  ·  Brando Mazzeo - 2 **1.53**  ·  Antonio Pirro - 3 **2.25**  ·  Brando Mazzeo - 3 **2.50**  ·  Antonio Pirro - 4 **4.00**  ·  Brando Mazzeo - 4 **4.50**  ·  Antonio Pirro - 5 **9.00**  ·  Brando Mazzeo - 5 **10.00**  ·  Antonio Pirro - 6 **17.00**  ·  Beto - 8 **21.00**  ·  Franco Mastantuono - 9 **19.00**  ·  Brando Mazzeo - 6 **21.00**  ·  Arnis Ademi - 1 **1.62**  ·  Arnis Ademi - 2 **3.75**  ·  Arnis Ademi - 3 **11.00**  ·  Arnis Ademi - 4 **21.00**  ·  Neto Joao Mario - 1 **1.40**  ·  Neto Joao Mario - 2 **2.62**  ·  Neto Joao Mario - 3 **6.00**  ·  Neto Joao Mario - 4 **15.00**
+- **Anytime Goal Scorer:** Dodo dos Santos **9.50**  ·  Jesper Karlstrom **8.50**  ·  Nicolo Fagioli **6.00**  ·  Giorgi Chakvetadze **4.50**  ·  Juan David Arizala **9.50**  ·  Jakub Piotrowski **4.75**  ·  Giulio Vinciati **3.25**  ·  Christ Oulai **7.00**  ·  Degnand Gnonto **3.50**  ·  Vakoun Bayo **3.00**  ·  Franco Mastantuono **3.00**  ·  Mateo Pellegrino **2.50**  ·  Mergim Vojvoda **6.00**  ·  Nicolo Bertola **8.50**  ·  Unai Gomez **4.75**  ·  Lennon Miller **7.50**  ·  Cher Ndour **6.00**  ·  Victor Valdepenas **10.00**  ·  Pedro Goncalves **3.00**  ·  Lazar Jovanovic **4.75**  ·  Antonio Pirro **3.75**  ·  Federico Croci **3.75**  ·  Brando Mazzeo **4.00**  ·  Arnis Ademi **8.50**  ·  Neto Joao Mario **8.50**  ·  David Alaba **15.00**  ·  Idrissa Gueye **3.50**  ·  Radu Dragusin **12.00**  ·  Luca Ranieri **12.00**  ·  Marin Pongracic **15.00**  ·  Alejandro Jimenez **7.00**  ·  Alieu Njie **4.00**  ·  Beto **2.62**  ·  Alessandro Zanoli **9.50**  ·  Marco Brescianini **6.00**  ·  Arthur Atta **4.00**  ·  Christian Kabasele **8.50**  ·  Enzo Ebosse **15.00**  ·  Hassane Kamara **9.50**  ·  James Abankwah **19.00**  ·  Jurgen Ekkelenkamp **4.50**  ·  Keinan Davis **2.75**  ·  Matteo Palma **12.00**  ·  Oier Zarraga **7.00**  ·  Sandi Lovric **4.75**  ·  Oumar Solet **9.50**  ·  Viery Lopes **10.00**
+- **Player to Score or Assist:** Dodo dos Santos **3.60**  ·  Jesper Karlstrom **4.75**  ·  Nicolo Fagioli **3.10**  ·  Giorgi Chakvetadze **2.60**  ·  Juan David Arizala **4.50**  ·  Jakub Piotrowski **3.20**  ·  Giulio Vinciati **2.10**  ·  Christ Oulai **3.40**  ·  Degnand Gnonto **2.30**  ·  Vakoun Bayo **2.50**  ·  Franco Mastantuono **2.20**  ·  Mateo Pellegrino **1.95**  ·  Mergim Vojvoda **3.40**  ·  Nicolo Bertola **5.50**  ·  Unai Gomez **3.00**  ·  Lennon Miller **3.40**  ·  Cher Ndour **3.20**  ·  Victor Valdepenas **6.00**  ·  Pedro Goncalves **2.10**  ·  Lazar Jovanovic **3.40**  ·  Antonio Pirro **2.62**  ·  Federico Croci **2.30**  ·  Brando Mazzeo **2.40**  ·  Arnis Ademi **5.50**  ·  Neto Joao Mario **4.33**  ·  David Alaba **9.00**  ·  Idrissa Gueye **2.60**  ·  Radu Dragusin **9.50**  ·  Luca Ranieri **6.50**  ·  Marin Pongracic **10.00**  ·  Alejandro Jimenez **3.75**  ·  Alieu Njie **3.20**  ·  Beto **2.25**  ·  Alessandro Zanoli **4.00**  ·  Marco Brescianini **4.00**  ·  Arthur Atta **2.62**  ·  Christian Kabasele **6.00**  ·  Enzo Ebosse **7.00**  ·  Hassane Kamara **4.00**  ·  James Abankwah **11.00**  ·  Jurgen Ekkelenkamp **3.00**  ·  Keinan Davis **2.25**  ·  Matteo Palma **7.50**  ·  Oier Zarraga **5.50**  ·  Sandi Lovric **3.00**  ·  Oumar Solet **7.50**  ·  Viery Lopes **5.00**
+
+## Estadísticas de equipo
+| | Udinese (total) | Udinese en casa | Fiorentina (total) | Fiorentina fuera |
+|---|---|---|---|---|
+| Partidos analizados | 13 | 8 | 13 | 5 |
+| Forma (últimos 5) | DDEDD | DDDDD | EVEDD | VDDVD |
+| Balance | 3V 2E 8D | 2V 1E 5D | 4V 3E 6D | 2V 0E 3D |
+| Goles a favor / partido | 1,15 | 0,88 | 1,85 | 2,00 |
+| Goles en contra / partido | 2,00 | 1,88 | 2,00 | 2,40 |
+| Goles a favor 1ª parte | 0,69 | 0,38 | 0,62 | 0,60 |
+| Goles a favor 2ª parte | 0,46 | 0,50 | 1,23 | 1,40 |
+| Goles en contra 1ª parte | 0,92 | 1,00 | 0,92 | 1,00 |
+| Goles en contra 2ª parte | 1,08 | 0,88 | 1,08 | 1,40 |
+| Más de 1,5 goles | 77% | 75% | 100% | 100% |
+| Más de 2,5 goles | 62% | 50% | 92% | 100% |
+| Más de 3,5 goles | 23% | 12% | 54% | 60% |
+| Ambos marcan | 62% | 50% | 77% | 80% |
+| Portería a cero | 15% | 12% | 8% | 0% |
+| Se queda sin marcar | 31% | 38% | 15% | 20% |
+| xG a favor | 1,19 | 1,33 | 1,65 | 1,46 |
+| xG en contra | 2,20 | 2,33 | 1,56 | 1,77 |
+| Tiros / partido | 14,3 | 15,0 | 16,4 | 12,6 |
+| Tiros a puerta / partido | 4,5 | 4,8 | 5,4 | 5,0 |
+| Tiros recibidos | 14,6 | 14,1 | 13,4 | 15,4 |
+| Tiros a puerta recibidos | 5,5 | 5,6 | 5,1 | 5,6 |
+| Posesión media % | 49 | 48 | 46 | 44 |
+| Córners a favor | 4,6 | 5,0 | 4,7 | 3,0 |
+| Córners en contra | 4,8 | 4,9 | 4,4 | 3,6 |
+| Córners a favor 1ª parte | 1,8 | 1,8 | 1,9 | 1,2 |
+| Córners a favor 2ª parte | 2,8 | 3,2 | 2,8 | 1,8 |
+| Córners totales del partido | 9,4 | 9,9 | 9,1 | 6,6 |
+| Córners totales 1ª parte | 3,8 | 3,9 | 3,9 | 2,4 |
+| Córners totales 2ª parte | 5,6 | 6,0 | 5,2 | 4,2 |
+| Más de 8,5 córners | 69% | 75% | 46% | 0% |
+| Más de 9,5 córners | 54% | 62% | 31% | 0% |
+| Más de 10,5 córners | 31% | 38% | 23% | 0% |
+| Faltas cometidas | 11,5 | 12,4 | 12,0 | 11,2 |
+| Faltas recibidas | 9,8 | 10,2 | 12,6 | 12,4 |
+| Amarillas propias | 1,7 | 2,1 | 2,1 | 2,4 |
+| Amarillas del rival | 0,6 | 0,5 | 1,9 | 2,2 |
+| Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
+
+## Goles y tarjetas por tramos de minutos
+| Tramo | Goles Udinese | Recibe Udinese | Tarjetas Udinese | Goles Fiorentina | Recibe Fiorentina | Tarjetas Fiorentina |
+|---|---|---|---|---|---|---|
+| 1-15' | 1 | 4 | 3 | 2 | 2 | 3 |
+| 16-30' | 2 | 1 | 4 | 2 | 5 | 4 |
+| 31-45' | 6 | 7 | 7 | 4 | 5 | 3 |
+| 46-60' | 4 | 4 | 1 | 7 | 4 | 5 |
+| 61-75' | 0 | 6 | 2 | 5 | 5 | 7 |
+| 76-90' | 2 | 4 | 5 | 4 | 5 | 5 |
+
+_Totales de la temporada (el tramo 76-90 incluye el descuento)._
+
+## Bajas y dudas
+**Fiorentina:** R. Sottil (baja, Back Injury)
+
+## Enfrentamientos directos recientes
+- 2026-03-02 · Serie A: Udinese 3-0 Fiorentina
+- 2025-12-21 · Serie A: Fiorentina 5-1 Udinese
+- 2025-05-25 · Serie A: Udinese 2-3 Fiorentina
+- 2024-12-23 · Serie A: Fiorentina 1-2 Udinese
+- 2024-01-14 · Serie A: Fiorentina 2-2 Udinese
+- 2023-09-24 · Serie A: Udinese 0-2 Fiorentina
+
+## Últimos partidos de Udinese
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-11-06 | Serie A | Venezia 2-1 Udinese | fuera | 7-3 | 13 (5) - 15 (4) | 1-1 |
+| 2026-10-31 | Serie A | Udinese 2-5 AS Roma | casa | 7-4 | 15 (7) - 14 (9) | 1-1 |
+| 2026-10-28 | Serie A | Parma 0-0 Udinese | fuera | 6-3 | 20 (5) - 8 (2) | 2-1 |
+| 2026-10-25 | Serie A | Udinese 0-2 AC Milan | casa | 5-4 | 12 (5) - 19 (7) | 1-2 |
+| 2026-10-18 | Serie A | Udinese 0-3 Lecce | casa | 1-4 | 14 (2) - 17 (11) | 1-0 |
+| 2026-10-12 | Serie A | Torino 2-1 Udinese | fuera | 3-4 | 15 (1) - 12 (4) | 1-0 |
+
+## Jugadores de Udinese
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| J. Karlström | M | 13 | 1119 | 1 | 0 | 9 | 0,7 | 4 | 0,3 | 10 | 8 | 0,6 | 5 | 0 |
+| M. Okoye | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| M. Vojvoda | M | 13 | 1023 | 0 | 1 | 9 | 0,7 | 2 | 0,2 | 1 | 9 | 0,7 | 0 | 0 |
+| J. Ekkelenkamp | M | 12 | 1022 | 3 | 1 | 21 | 1,8 | 9 | 0,8 | 5 | 6 | 0,5 | 0 | 0 |
+| J. Abankwah | D | 12 | 975 | 1 | 0 | 3 | 0,2 | 1 | 0,1 | 13 | 13 | 1,1 | 1 | 0 |
+| H. Kamara | M | 13 | 965 | 2 | 2 | 13 | 1,0 | 7 | 0,5 | 9 | 6 | 0,5 | 1 | 0 |
+| K. Davis | F | 12 | 811 | 1 | 3 | 22 | 1,8 | 8 | 0,7 | 11 | 6 | 0,5 | 1 | 0 |
+| O. Solet | D | 8 | 666 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 9 | 9 | 1,1 | 0 | 0 |
+| C. Kabasele | D | 8 | 584 | 0 | 0 | 4 | 0,5 | 1 | 0,1 | 10 | 11 | 1,4 | 0 | 0 |
+| E. Ebosse | D | 9 | 566 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 8 | 1 | 0,1 | 0 | 0 |
+| M. Palma | D | 7 | 540 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 6 | 9 | 1,3 | 1 | 0 |
+| L. Miller | M | 11 | 505 | 0 | 0 | 6 | 0,5 | 4 | 0,4 | 21 | 5 | 0,5 | 2 | 0 |
+| N. Zaniolo | M | 7 | 450 | 1 | 0 | 14 | 2,0 | 2 | 0,3 | 10 | 12 | 1,7 | 3 | 0 |
+| G. Chakvetadze | M | 8 | 449 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 7 | 1 | 0,1 | 0 | 0 |
+| Unai Gómez | M | 12 | 448 | 0 | 1 | 8 | 0,7 | 4 | 0,3 | 6 | 7 | 0,6 | 1 | 0 |
+| J. Piotrowski | M | 9 | 432 | 1 | 0 | 6 | 0,7 | 1 | 0,1 | 6 | 7 | 0,8 | 2 | 0 |
+| Idrissa Gueye | F | 6 | 233 | 1 | 0 | 11 | 1,8 | 5 | 0,8 | 3 | 3 | 0,5 | 0 | 0 |
+| J. Arizala | M | 7 | 201 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 3 | 0,4 | 0 | 0 |
+| N. Bertola | M | 6 | 190 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 2 | 0,3 | 3 | 0 |
+| V. Bayo | F | 6 | 184 | 2 | 1 | 6 | 1,0 | 3 | 0,5 | 1 | 2 | 0,3 | 1 | 0 |
+
+## Últimos partidos de Fiorentina
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-11-08 | Serie A | Fiorentina 2-2 Juventus | casa | 5-12 | 22 (6) - 18 (6) | 1-3 |
+| 2026-11-02 | Serie A | Sassuolo 2-4 Fiorentina | fuera | 3-5 | 15 (6) - 7 (2) | 3-2 |
+| 2026-10-29 | Serie A | Fiorentina 2-2 Atalanta | casa | 8-2 | 26 (4) - 10 (5) | 3-2 |
+| 2026-10-25 | Serie A | Inter 2-1 Fiorentina | fuera | 1-6 | 7 (2) - 33 (11) | 3-0 |
+| 2026-10-18 | Serie A | Fiorentina 1-3 Como | casa | 11-5 | 19 (7) - 16 (8) | 2-3 |
+| 2026-10-10 | Serie A | Genoa 2-1 Fiorentina | fuera | 4-3 | 13 (3) - 10 (4) | 3-5 |
+
+## Jugadores de Fiorentina
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| David de Gea | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 1 | 0 |
+| R. Drăgușin | D | 13 | 1122 | 0 | 2 | 6 | 0,5 | 1 | 0,1 | 14 | 9 | 0,7 | 2 | 0 |
+| C. Ndour | M | 13 | 1107 | 1 | 2 | 17 | 1,3 | 5 | 0,4 | 15 | 4 | 0,3 | 1 | 0 |
+| Franco Mastantuono | M | 13 | 971 | 4 | 0 | 39 | 3,0 | 14 | 1,1 | 12 | 28 | 2,2 | 3 | 0 |
+| Mateo Pellegrino | F | 12 | 885 | 5 | 0 | 20 | 1,7 | 10 | 0,8 | 11 | 17 | 1,4 | 2 | 0 |
+| N. Fagioli | M | 12 | 821 | 0 | 2 | 8 | 0,7 | 4 | 0,3 | 7 | 11 | 0,9 | 1 | 0 |
+| Álex Jiménez | D | 11 | 804 | 2 | 3 | 7 | 0,6 | 2 | 0,2 | 3 | 8 | 0,7 | 1 | 0 |
+| Viery | D | 11 | 717 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 11 | 3 | 0,3 | 3 | 0 |
+| A. Njie | M | 10 | 705 | 3 | 3 | 17 | 1,7 | 7 | 0,7 | 11 | 14 | 1,4 | 2 | 0 |
+| Valde | D | 10 | 604 | 1 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 7 | 0,7 | 2 | 0 |
+| João Mário | D | 9 | 594 | 1 | 1 | 9 | 1,0 | 3 | 0,3 | 6 | 13 | 1,4 | 0 | 0 |
+| M. Brescianini | M | 11 | 580 | 0 | 2 | 5 | 0,5 | 3 | 0,3 | 5 | 5 | 0,5 | 0 | 0 |
+| C. Inao OulaÃ¯ | M | 9 | 427 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 11 | 13 | 1,4 | 3 | 0 |
+| Arthur Atta | M | 6 | 400 | 0 | 0 | 9 | 1,5 | 3 | 0,5 | 1 | 2 | 0,3 | 0 | 0 |
+| Luca Ranieri | D | 5 | 399 | 1 | 0 | 4 | 0,8 | 1 | 0,2 | 6 | 2 | 0,4 | 2 | 0 |
+| W. Gnonto | F | 10 | 350 | 1 | 0 | 7 | 0,7 | 3 | 0,3 | 10 | 3 | 0,3 | 2 | 0 |
+| M. Pongračić | D | 7 | 311 | 1 | 0 | 3 | 0,4 | 1 | 0,1 | 9 | 2 | 0,3 | 0 | 0 |
+| Pote | M | 9 | 226 | 1 | 2 | 6 | 0,7 | 2 | 0,2 | 4 | 1 | 0,1 | 0 | 0 |
+| Beto | F | 10 | 206 | 0 | 1 | 9 | 0,9 | 1 | 0,1 | 5 | 1 | 0,1 | 0 | 0 |
+| Dodô | D | 5 | 181 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 2 | 0,4 | 1 | 0 |

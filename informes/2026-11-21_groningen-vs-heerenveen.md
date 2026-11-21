@@ -1,20 +1,20 @@
 # Groningen – Heerenveen
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Hitachi Capital Mobility Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
-- **1X2:** 1 **2.55**  ·  X **3.60**  ·  2 **2.60**
-- **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**
+- **1X2:** 1 **2.80**  ·  X **3.80**  ·  2 **2.30**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
     - 1,5: más **1.12** · menos **6.00**
-    - 2,5: más **1.44** · menos **2.70**
-    - 3,5: más **2.00** · menos **1.73**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
     - 4,5: más **3.50** · menos **1.28**
-    - 5,5: más **6.00** · menos **1.12**
+    - 5,5: más **6.50** · menos **1.11**
     - 6,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
@@ -33,7 +33,7 @@ _Actualizadas: 21/11 02:18_
     - 3,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 10: más **1.82** · menos **1.98**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.73**  ·  X **8.50**  ·  2 **2.40**
 - **1X2 descanso:** 1 **2.88**  ·  X **2.50**  ·  2 **3.00**
 - **Goals Over/Under - Second Half:**

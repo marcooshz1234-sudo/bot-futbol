@@ -1,14 +1,14 @@
 # Maritimo – Chaves
 **Taça de Portugal** · Round of 32 · 21/11/2026 18:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:02_
 
-- **1X2:** 1 **1.65**  ·  X **3.60**  ·  2 **4.33**
+- **1X2:** 1 **1.57**  ·  X **3.70**  ·  2 **4.75**
 - **Doble oportunidad:** 1X **1.18**  ·  12 **1.25**  ·  X2 **2.10**
-- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
+- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
 - **Goles más/menos:**
     - 0,5: más **1.05** · menos **11.00**
     - 1,5: más **1.28** · menos **3.50**
@@ -16,22 +16,22 @@ _Actualizadas: 21/11 02:17_
     - 3,5: más **3.40** · menos **1.30**
     - 4,5: más **6.50** · menos **1.11**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.30** · menos **3.40**
-    - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.00** · menos **1.12**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
-    - 2,5: más **3.50** · menos **1.28**
+    - 1,5: más **1.73** · menos **2.00**
+    - 2,5: más **3.40** · menos **1.30**
     - 3,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
-    - 0,5: más **1.57** · menos **2.25**
-    - 1,5: más **3.75** · menos **1.25**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.00** · menos **1.22**
     - 2,5: más **13.00** · menos **1.04**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
-- **1X2 descanso:** 1 **2.25**  ·  X **2.25**  ·  2 **5.50**
+- **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **5.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**
@@ -39,13 +39,12 @@ _Actualizadas: 21/11 02:17_
     - 3,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
 - **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **1.40**  ·  2 **2.75**
-- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **6.50**
-- **Win Both Halves:** 1 **4.50**  ·  2 **21.00**
-- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.00**  ·  Home/No **2.75**  ·  Draw/No **11.00**  ·  Away/No **8.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.38**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.30**
-- **Total Corners (1st Half):**
-    - 4: más **1.82** · menos **1.98**
+- **To Win Either Half:** 1 **1.36**  ·  2 **3.00**
+- **To Score In Both Halves By Teams:** 1 **2.62**  ·  2 **7.00**
+- **Win Both Halves:** 1 **4.33**  ·  2 **23.00**
+- **Results/Both Teams Score:** Home/Yes **3.75**  ·  Draw/Yes **5.50**  ·  Away/Yes **10.00**  ·  Home/No **2.62**  ·  Draw/No **11.00**  ·  Away/No **9.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.40**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
 
 ## Estadísticas de equipo
 | | Maritimo (total) | Maritimo en casa | Chaves (total) | Chaves fuera |

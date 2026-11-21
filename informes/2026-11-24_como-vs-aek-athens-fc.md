@@ -1,7 +1,7 @@
 # Como – AEK Athens FC
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 20:08_

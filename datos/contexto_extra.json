@@ -18,11 +18,7 @@
    "puesto": 3,
    "de": 18
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 2.9,
-   "temperatura": 6.3
-  }
+  "tiempo": null
  },
  "1550205": {
   "local": {
@@ -43,11 +39,7 @@
    "puesto": 3,
    "de": 20
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 3.2,
-   "temperatura": 8.6
-  }
+  "tiempo": null
  },
  "1570459": {
   "local": {
@@ -68,11 +60,7 @@
    "puesto": 5,
    "de": 20
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 30.3,
-   "temperatura": 15.3
-  }
+  "tiempo": null
  },
  "1557471": {
   "local": {
@@ -93,11 +81,7 @@
    "puesto": 20,
    "de": 20
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
-   "temperatura": 7.3
-  }
+  "tiempo": null
  },
  "1647588": {
   "local": {
@@ -134,11 +118,7 @@
    "puesto": 7,
    "de": 18
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.3,
-   "temperatura": 6.3
-  },
+  "tiempo": null,
   "arbitro": {
    "nombre": "Martijn Vos",
    "partidos": 4,
@@ -162,8 +142,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 0.8,
-   "temperatura": 12.2
+   "viento_kmh": 2.5,
+   "temperatura": 11.0
   }
  },
  "1557472": {
@@ -185,11 +165,7 @@
    "puesto": 2,
    "de": 20
   },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 10.4,
-   "temperatura": 8.6
-  }
+  "tiempo": null
  },
  "1557467": {
   "local": {
@@ -231,9 +207,9 @@
    "de": 20
   },
   "tiempo": {
-   "lluvia_mm": 2.6,
-   "viento_kmh": 6.1,
-   "temperatura": 7.8
+   "lluvia_mm": 2.7,
+   "viento_kmh": 3.2,
+   "temperatura": 8.8
   }
  },
  "1608372": {
@@ -252,9 +228,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.6,
-   "viento_kmh": 4.5,
-   "temperatura": 8.2
+   "lluvia_mm": 1.9,
+   "viento_kmh": 1.5,
+   "temperatura": 9.0
   }
  },
  "1552821": {
@@ -278,13 +254,19 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 23.7,
-   "temperatura": 11.9
+   "viento_kmh": 23.9,
+   "temperatura": 12.4
   },
   "arbitro": {
    "nombre": "Marc Bollengier",
    "partidos": 4,
    "tarjetas": 2.8
+  },
+  "cuotas": {
+   "Away": [
+    2.25,
+    2.45
+   ]
   }
  },
  "1647581": {
@@ -303,9 +285,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 1.9,
-   "viento_kmh": 21.7,
-   "temperatura": 18.9
+   "lluvia_mm": 3.5,
+   "viento_kmh": 21.6,
+   "temperatura": 18.7
   }
  },
  "1647585": {
@@ -325,7 +307,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 1.9,
+   "viento_kmh": 1.5,
    "temperatura": 13.4
   }
  },
@@ -350,8 +332,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.2,
-   "temperatura": 11.3
+   "viento_kmh": 7.0,
+   "temperatura": 11.2
   }
  },
  "1557475": {
@@ -375,8 +357,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.2,
-   "temperatura": 1.8
+   "viento_kmh": 4.3,
+   "temperatura": 1.7
   },
   "arbitro": {
    "nombre": "Chris Kavanagh",
@@ -404,9 +386,9 @@
    "de": 20
   },
   "tiempo": {
-   "lluvia_mm": 0.8,
-   "viento_kmh": 4.5,
-   "temperatura": 8.3
+   "lluvia_mm": 0.9,
+   "viento_kmh": 4.4,
+   "temperatura": 8.1
   }
  },
  "1575222": {
@@ -451,7 +433,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 2.1,
-   "temperatura": 5.7
+   "temperatura": 6.2
   }
  },
  "1563265": {
@@ -475,8 +457,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.5,
-   "temperatura": 4.6
+   "viento_kmh": 6.1,
+   "temperatura": 4.5
   },
   "arbitro": {
    "nombre": "Edward Duckworth",
@@ -486,7 +468,7 @@
   "cuotas": {
    "Away": [
     2.5,
-    2.7
+    2.8
    ]
   }
  },
@@ -536,7 +518,7 @@
    "ultimo_europa": null,
    "dias_hasta": 16,
    "siguiente_europa": null,
-   "puesto": 13,
+   "puesto": 14,
    "de": 16
   },
   "arbitro": {
@@ -566,8 +548,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 9.0
+   "viento_kmh": 9.7,
+   "temperatura": 7.5
   },
   "arbitro": {
    "nombre": "Will Finnie",
@@ -596,8 +578,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 22.0,
-   "temperatura": 16.1
+   "viento_kmh": 19.6,
+   "temperatura": 15.3
   }
  },
  "1575225": {
@@ -620,9 +602,15 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 20.2,
-   "temperatura": 6.2
+   "lluvia_mm": 0.1,
+   "viento_kmh": 17.7,
+   "temperatura": 6.5
+  },
+  "cuotas": {
+   "Away": [
+    1.6,
+    1.45
+   ]
   }
  },
  "1563263": {
@@ -646,43 +634,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.9,
-   "temperatura": 6.0
+   "viento_kmh": 13.7,
+   "temperatura": 5.2
   },
   "arbitro": {
    "nombre": "Tom Reeves",
    "partidos": 6,
    "tarjetas": 4.2
-  }
- },
- "1563270": {
-  "local": {
-   "nombre": "Southampton",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 6,
-   "de": 24
-  },
-  "visitante": {
-   "nombre": "Derby",
-   "dias_desde": 14,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 22,
-   "de": 24
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 9.0,
-   "temperatura": 9.5
-  },
-  "arbitro": {
-   "nombre": "Sam Allison",
-   "partidos": 7,
-   "tarjetas": 3.4
   }
  },
  "1565307": {
@@ -706,33 +664,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.7,
-   "temperatura": 3.6
-  }
- },
- "1557474": {
-  "local": {
-   "nombre": "Manchester City",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": "Champions",
-   "puesto": 3,
-   "de": 20
-  },
-  "visitante": {
-   "nombre": "Fulham",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 15,
-   "de": 20
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 0.0,
-   "temperatura": 5.1
+   "viento_kmh": 3.9,
+   "temperatura": 4.4
   }
  },
  "1557470": {
@@ -756,8 +689,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 9.0
+   "viento_kmh": 9.7,
+   "temperatura": 7.5
   },
   "arbitro": {
    "nombre": "Michael Oliver",
@@ -767,7 +700,7 @@
   "cuotas": {
    "Home": [
     1.8,
-    1.95
+    2.0
    ]
   }
  },
@@ -792,8 +725,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.1,
-   "temperatura": 24.1
+   "viento_kmh": 11.4,
+   "temperatura": 24.0
   },
   "arbitro": {
    "nombre": "Z. Gonzalez",
@@ -828,14 +761,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 5.7
-  },
-  "cuotas": {
-   "Home": [
-    2.7,
-    3.0
-   ]
+   "viento_kmh": 8.6,
+   "temperatura": 5.3
   }
  },
  "1647592": {
@@ -875,8 +802,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.6,
-   "temperatura": 8.6
+   "viento_kmh": 5.9,
+   "temperatura": 8.8
   }
  },
  "1552226": {
@@ -900,43 +827,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.5,
-   "temperatura": 8.2
+   "viento_kmh": 8.3,
+   "temperatura": 8.5
   },
   "arbitro": {
    "nombre": "Robin Hensgens",
    "partidos": 7,
    "tarjetas": 2.1
-  }
- },
- "1551382": {
-  "local": {
-   "nombre": "Vendsyssel FF",
-   "dias_desde": 14,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 11,
-   "de": 12
-  },
-  "visitante": {
-   "nombre": "Hvidovre",
-   "dias_desde": 11,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 1,
-   "de": 12
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 10.1,
-   "temperatura": 4.3
-  },
-  "arbitro": {
-   "nombre": "N. Lindby",
-   "partidos": 6,
-   "tarjetas": 0.0
   }
  },
  "1550200": {
@@ -960,8 +857,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.8,
-   "temperatura": 15.0
+   "viento_kmh": 5.5,
+   "temperatura": 15.1
   }
  },
  "1570027": {
@@ -986,7 +883,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 2.3,
-   "temperatura": 16.9
+   "temperatura": 16.6
   }
  },
  "1575223": {
@@ -1010,8 +907,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.1,
-   "temperatura": 6.9
+   "viento_kmh": 6.1,
+   "temperatura": 7.6
   }
  },
  "1557473": {
@@ -1036,7 +933,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 14.0,
-   "temperatura": 7.5
+   "temperatura": 7.0
   },
   "cuotas": {
    "Home": [
@@ -1065,9 +962,9 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.3,
-   "temperatura": 4.2
+   "lluvia_mm": 0.1,
+   "viento_kmh": 7.5,
+   "temperatura": 4.8
   }
  },
  "1647579": {
@@ -1102,39 +999,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 2.2,
-   "viento_kmh": 7.2,
-   "temperatura": 7.7
-  }
- },
- "1551381": {
-  "local": {
-   "nombre": "Vejle",
-   "dias_desde": 14,
-   "ultimo_europa": null,
-   "dias_hasta": 6,
-   "siguiente_europa": null,
-   "puesto": 2,
-   "de": 12
-  },
-  "visitante": {
-   "nombre": "HB Koge",
-   "dias_desde": 14,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 12,
-   "de": 12
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 16.6,
-   "temperatura": 4.0
-  },
-  "arbitro": {
-   "nombre": "J. Nielsen",
-   "partidos": 6,
-   "tarjetas": 0.0
+   "lluvia_mm": 3.5,
+   "viento_kmh": 9.7,
+   "temperatura": 8.0
   }
  },
  "1552822": {
@@ -1158,8 +1025,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 29.0,
-   "temperatura": 14.4
+   "viento_kmh": 30.2,
+   "temperatura": 14.5
   }
  },
  "1565310": {
@@ -1183,8 +1050,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 12.6,
-   "temperatura": 8.8
+   "viento_kmh": 18.7,
+   "temperatura": 9.5
   }
  },
  "1552232": {
@@ -1208,43 +1075,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.3,
-   "temperatura": 5.5
+   "viento_kmh": 5.0,
+   "temperatura": 6.3
   },
   "arbitro": {
    "nombre": "Serdar Gozubuyuk",
    "partidos": 12,
    "tarjetas": 3.8
-  }
- },
- "1563268": {
-  "local": {
-   "nombre": "Norwich",
-   "dias_desde": 14,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 13,
-   "de": 24
-  },
-  "visitante": {
-   "nombre": "Cardiff",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 16,
-   "de": 24
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 2.5,
-   "temperatura": 4.4
-  },
-  "arbitro": {
-   "nombre": "Matt Donohue",
-   "partidos": 6,
-   "tarjetas": 4.7
   }
  },
  "1647594": {
@@ -1284,39 +1121,13 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 6.8,
-   "temperatura": 4.6
+   "viento_kmh": 4.0,
+   "temperatura": 3.5
   },
   "cuotas": {
    "Home": [
     1.73,
-    1.91
-   ]
-  }
- },
- "1570453": {
-  "local": {
-   "nombre": "Alaves",
-   "dias_desde": 10,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 12,
-   "de": 20
-  },
-  "visitante": {
-   "nombre": "Deportivo La Coruna",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 10,
-   "de": 20
-  },
-  "cuotas": {
-   "Home": [
-    2.0,
-    2.2
+    2.1
    ]
   }
  },
@@ -1340,8 +1151,8 @@
    "de": 18
   },
   "tiempo": {
-   "lluvia_mm": 1.6,
-   "viento_kmh": 9.3,
+   "lluvia_mm": 2.0,
+   "viento_kmh": 8.2,
    "temperatura": 8.1
   }
  },
@@ -1391,8 +1202,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.2,
-   "temperatura": 4.2
+   "viento_kmh": 11.9,
+   "temperatura": 3.4
   },
   "arbitro": {
    "nombre": "Alex Bos",
@@ -1402,11 +1213,11 @@
   "cuotas": {
    "Home": [
     2.15,
-    2.55
+    2.8
    ],
    "Away": [
     2.9,
-    2.6
+    2.3
    ]
   }
  },
@@ -1431,8 +1242,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.5,
-   "temperatura": 7.4
+   "viento_kmh": 13.3,
+   "temperatura": 8.3
   },
   "arbitro": {
    "nombre": "Jeroen Manschot",
@@ -1442,7 +1253,7 @@
   "cuotas": {
    "Away": [
     1.5,
-    1.7
+    1.73
    ]
   }
  },
@@ -1465,7 +1276,11 @@
    "puesto": 11,
    "de": 18
   },
-  "tiempo": null
+  "tiempo": {
+   "lluvia_mm": 0.0,
+   "viento_kmh": 6.8,
+   "temperatura": 2.8
+  }
  },
  "1570455": {
   "local": {
@@ -1488,7 +1303,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 25.3,
+   "viento_kmh": 24.7,
    "temperatura": 18.7
   }
  },
@@ -1509,8 +1324,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.2,
-   "temperatura": 12.3
+   "viento_kmh": 3.3,
+   "temperatura": 12.8
   }
  },
  "1563269": {
@@ -1534,8 +1349,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.0,
-   "temperatura": 5.0
+   "viento_kmh": 5.4,
+   "temperatura": 4.6
   },
   "arbitro": {
    "nombre": "Tim Robinson",
@@ -1564,7 +1379,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 2.3,
+   "viento_kmh": 3.9,
    "temperatura": 14.0
   }
  },
@@ -1584,9 +1399,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.5,
-   "viento_kmh": 1.6,
-   "temperatura": 5.0
+   "lluvia_mm": 1.9,
+   "viento_kmh": 1.8,
+   "temperatura": 4.6
   }
  },
  "1552231": {
@@ -1635,8 +1450,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.1,
-   "temperatura": 7.8
+   "viento_kmh": 3.2,
+   "temperatura": 6.9
   },
   "arbitro": {
    "nombre": "Allard Lindhout",
@@ -1667,8 +1482,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.3,
-   "temperatura": 15.6
+   "viento_kmh": 10.2,
+   "temperatura": 15.0
   }
  },
  "1550202": {
@@ -1692,8 +1507,14 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 18.4
+   "viento_kmh": 8.4,
+   "temperatura": 18.6
+  },
+  "cuotas": {
+   "Home": [
+    1.36,
+    1.5
+   ]
   }
  },
  "1557476": {
@@ -1717,8 +1538,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.4,
-   "temperatura": 9.0
+   "viento_kmh": 9.7,
+   "temperatura": 7.5
   }
  },
  "1647589": {
@@ -1738,7 +1559,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.5,
+   "viento_kmh": 9.7,
    "temperatura": 18.8
   }
  },
@@ -1763,8 +1584,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.2,
-   "temperatura": 6.2
+   "viento_kmh": 10.5,
+   "temperatura": 6.1
   }
  },
  "1573655": {
@@ -1783,24 +1604,18 @@
    "ultimo_europa": null,
    "dias_hasta": 17,
    "siguiente_europa": null,
-   "puesto": 14,
+   "puesto": 15,
    "de": 16
   },
   "tiempo": {
    "lluvia_mm": 0.1,
-   "viento_kmh": 19.7,
-   "temperatura": 14.6
+   "viento_kmh": 19.5,
+   "temperatura": 14.9
   },
   "arbitro": {
    "nombre": "M. Planes",
    "partidos": 7,
    "tarjetas": 0.0
-  },
-  "cuotas": {
-   "Home": [
-    1.62,
-    1.45
-   ]
   }
  },
  "1552230": {
@@ -1824,8 +1639,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 10.4,
-   "temperatura": 6.9
+   "viento_kmh": 9.0,
+   "temperatura": 7.0
   },
   "arbitro": {
    "nombre": "Ingmar Oostrom",
@@ -1850,8 +1665,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.1,
-   "temperatura": 14.3
+   "viento_kmh": 5.5,
+   "temperatura": 14.6
   }
  },
  "1563272": {
@@ -1875,8 +1690,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 19.1,
-   "temperatura": 10.1
+   "viento_kmh": 19.4,
+   "temperatura": 10.2
   },
   "arbitro": {
    "nombre": "Thomas Kirk",
@@ -1904,39 +1719,9 @@
    "de": 16
   },
   "tiempo": {
-   "lluvia_mm": 1.2,
-   "viento_kmh": 7.8,
-   "temperatura": 9.0
-  }
- },
- "1573648": {
-  "local": {
-   "nombre": "FC Levante Badalona W",
-   "dias_desde": 6,
-   "ultimo_europa": null,
-   "dias_hasta": 17,
-   "siguiente_europa": null,
-   "puesto": 15,
-   "de": 16
-  },
-  "visitante": {
-   "nombre": "Deportivo de La Coruña W",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 18,
-   "siguiente_europa": null,
-   "puesto": 10,
-   "de": 16
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.1,
-   "temperatura": 16.6
-  },
-  "arbitro": {
-   "nombre": "A. Espinosa",
-   "partidos": 5,
-   "tarjetas": 0.0
+   "lluvia_mm": 1.6,
+   "viento_kmh": 3.1,
+   "temperatura": 8.7
   }
  },
  "1563264": {
@@ -1960,8 +1745,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 17.3,
-   "temperatura": 6.2
+   "viento_kmh": 16.9,
+   "temperatura": 6.0
   },
   "arbitro": {
    "nombre": "Lewis Smith",
@@ -1985,44 +1770,9 @@
    "siguiente_europa": null
   },
   "tiempo": {
-   "lluvia_mm": 0.7,
-   "viento_kmh": 6.8,
-   "temperatura": 8.5
-  }
- },
- "1570034": {
-  "local": {
-   "nombre": "Sabadell",
-   "dias_desde": 2,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 15,
-   "de": 22
-  },
-  "visitante": {
-   "nombre": "Granada CF",
-   "dias_desde": 5,
-   "ultimo_europa": null,
-   "dias_hasta": 8,
-   "siguiente_europa": null,
-   "puesto": 3,
-   "de": 22
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.4,
-   "temperatura": 17.1
-  },
-  "cuotas": {
-   "Home": [
-    2.05,
-    2.45
-   ],
-   "Away": [
-    3.5,
-    3.0
-   ]
+   "lluvia_mm": 1.6,
+   "viento_kmh": 8.6,
+   "temperatura": 8.0
   }
  },
  "1575226": {
@@ -2046,29 +1796,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 13.3,
-   "temperatura": 7.4
-  }
- },
- "1647580": {
-  "local": {
-   "nombre": "Atlético CP",
-   "dias_desde": 34,
-   "ultimo_europa": null,
-   "dias_hasta": null,
-   "siguiente_europa": null
-  },
-  "visitante": {
-   "nombre": "Casa Pia",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 9,
-   "siguiente_europa": null
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 21.6,
-   "temperatura": 18.9
+   "viento_kmh": 13.0,
+   "temperatura": 7.7
   }
  },
  "1573649": {
@@ -2092,8 +1821,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 21.6,
-   "temperatura": 15.6
+   "viento_kmh": 21.1,
+   "temperatura": 15.5
   },
   "arbitro": {
    "nombre": "P. Cebollada",
@@ -2122,8 +1851,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
-   "temperatura": 7.7
+   "viento_kmh": 6.2,
+   "temperatura": 8.2
   }
  },
  "1552826": {
@@ -2147,8 +1876,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 2.2,
-   "temperatura": 7.6
+   "viento_kmh": 2.3,
+   "temperatura": 8.2
   },
   "arbitro": {
    "nombre": "Azzedine Souifi",
@@ -2173,8 +1902,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 2.2,
-   "temperatura": 12.2
+   "viento_kmh": 4.6,
+   "temperatura": 11.5
   }
  },
  "1570460": {
@@ -2198,8 +1927,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 3.3,
-   "temperatura": 12.6
+   "viento_kmh": 4.7,
+   "temperatura": 12.3
   }
  },
  "1552823": {
@@ -2248,8 +1977,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.0,
-   "temperatura": 15.3
+   "viento_kmh": 4.5,
+   "temperatura": 15.4
   },
   "arbitro": {
    "nombre": "Jerome Brisard",
@@ -2277,9 +2006,9 @@
    "de": 12
   },
   "tiempo": {
-   "lluvia_mm": 0.1,
-   "viento_kmh": 20.5,
-   "temperatura": 7.3
+   "lluvia_mm": 0.0,
+   "viento_kmh": 25.9,
+   "temperatura": 7.5
   },
   "arbitro": {
    "nombre": "F. Klarlund",
@@ -2304,8 +2033,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 17.3,
-   "temperatura": 18.0
+   "viento_kmh": 16.4,
+   "temperatura": 17.9
   }
  },
  "1576538": {
@@ -2329,8 +2058,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.3,
-   "temperatura": 15.0
+   "viento_kmh": 11.8,
+   "temperatura": 14.4
   }
  },
  "1570461": {
@@ -2353,9 +2082,9 @@
    "de": 20
   },
   "tiempo": {
-   "lluvia_mm": 0.8,
-   "viento_kmh": 2.4,
-   "temperatura": 11.2
+   "lluvia_mm": 0.9,
+   "viento_kmh": 3.0,
+   "temperatura": 10.4
   }
  },
  "1608373": {
@@ -2391,7 +2120,7 @@
   },
   "tiempo": {
    "lluvia_mm": 0.1,
-   "viento_kmh": 6.0,
+   "viento_kmh": 5.2,
    "temperatura": 20.4
   }
  },
@@ -2415,9 +2144,9 @@
    "de": 22
   },
   "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 4.8,
-   "temperatura": 14.5
+   "lluvia_mm": 0.2,
+   "viento_kmh": 3.1,
+   "temperatura": 14.4
   }
  },
  "1573652": {
@@ -2440,9 +2169,9 @@
    "de": 16
   },
   "tiempo": {
-   "lluvia_mm": 3.9,
-   "viento_kmh": 7.5,
-   "temperatura": 13.7
+   "lluvia_mm": 5.2,
+   "viento_kmh": 10.4,
+   "temperatura": 13.6
   },
   "arbitro": {
    "nombre": "L. Trujillano",
@@ -2472,7 +2201,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 10.7,
-   "temperatura": 21.4
+   "temperatura": 21.2
   }
  },
  "1647593": {
@@ -2512,8 +2241,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 9.0,
-   "temperatura": 5.5
+   "viento_kmh": 10.1,
+   "temperatura": 6.9
   }
  },
  "1570030": {
@@ -2537,8 +2266,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 4.3,
-   "temperatura": 17.7
+   "viento_kmh": 6.9,
+   "temperatura": 17.8
   }
  },
  "1570033": {
@@ -2561,9 +2290,9 @@
    "de": 22
   },
   "tiempo": {
-   "lluvia_mm": 1.4,
-   "viento_kmh": 17.7,
-   "temperatura": 15.7
+   "lluvia_mm": 4.2,
+   "viento_kmh": 23.4,
+   "temperatura": 14.9
   }
  },
  "1563266": {
@@ -2587,8 +2316,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 2.9,
-   "temperatura": 3.4
+   "viento_kmh": 1.1,
+   "temperatura": 3.3
   },
   "arbitro": {
    "nombre": "Ruebyn Ricardo",
@@ -2617,8 +2346,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.4,
-   "temperatura": 9.6
+   "viento_kmh": 8.5,
+   "temperatura": 10.0
   }
  },
  "1552820": {
@@ -2642,44 +2371,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.0,
+   "viento_kmh": 6.8,
    "temperatura": 4.2
-  }
- },
- "1563267": {
-  "local": {
-   "nombre": "Millwall",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 4,
-   "siguiente_europa": null,
-   "puesto": 15,
-   "de": 24
-  },
-  "visitante": {
-   "nombre": "QPR",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 3,
-   "siguiente_europa": null,
-   "puesto": 8,
-   "de": 24
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 7.6,
-   "temperatura": 6.7
-  },
-  "arbitro": {
-   "nombre": "Josh Smith",
-   "partidos": 8,
-   "tarjetas": 4.9
-  },
-  "cuotas": {
-   "Home": [
-    2.4,
-    2.6
-   ]
   }
  },
  "1557468": {
@@ -2703,8 +2396,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 8.6,
-   "temperatura": 11.3
+   "viento_kmh": 9.7,
+   "temperatura": 11.0
   },
   "arbitro": {
    "nombre": "Adam Herczeg",
@@ -2726,6 +2419,12 @@
    "ultimo_europa": null,
    "dias_hasta": 7,
    "siguiente_europa": null
+  },
+  "cuotas": {
+   "Away": [
+    1.55,
+    1.75
+   ]
   }
  },
  "1647590": {
@@ -2765,8 +2464,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 11.2,
-   "temperatura": 6.9
+   "viento_kmh": 11.9,
+   "temperatura": 6.0
   }
  },
  "1552225": {
@@ -2791,7 +2490,7 @@
   "tiempo": {
    "lluvia_mm": 0.0,
    "viento_kmh": 9.0,
-   "temperatura": 8.4
+   "temperatura": 8.7
   },
   "arbitro": {
    "nombre": "Erwin Blank",
@@ -2820,33 +2519,8 @@
   },
   "tiempo": {
    "lluvia_mm": 0.0,
-   "viento_kmh": 5.4,
-   "temperatura": 16.7
-  }
- },
- "1565304": {
-  "local": {
-   "nombre": "Csikszereda",
-   "dias_desde": 14,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 16,
-   "de": 16
-  },
-  "visitante": {
-   "nombre": "Corvinul Hunedoara",
-   "dias_desde": 13,
-   "ultimo_europa": null,
-   "dias_hasta": 7,
-   "siguiente_europa": null,
-   "puesto": 7,
-   "de": 16
-  },
-  "tiempo": {
-   "lluvia_mm": 0.0,
-   "viento_kmh": 9.3,
-   "temperatura": 9.4
+   "viento_kmh": 2.9,
+   "temperatura": 17.1
   }
  },
  "1570462": {

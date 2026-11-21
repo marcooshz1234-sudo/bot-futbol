@@ -1,7 +1,7 @@
 # Nottingham Forest – Chelsea
 **Premier League** · Regular Season - 12 · 27/11/2026 21:00 (hora España) · City Ground
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
 _Actualizadas: 21/11 02:19_

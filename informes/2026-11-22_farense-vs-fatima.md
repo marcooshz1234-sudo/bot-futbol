@@ -1,10 +1,10 @@
 # Farense – Fátima
 **Taça de Portugal** · Round of 32 · 22/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **1.17**  ·  X **6.00**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.12**  ·  X2 **5.00**
@@ -31,8 +31,8 @@ _Actualizadas: 21/11 02:18_
 - **1X2 descanso:** 1 **1.53**  ·  X **2.88**  ·  2 **12.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
 - **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**

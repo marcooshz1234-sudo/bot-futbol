@@ -1,10 +1,10 @@
 # Monza – Fiorentina
 **Serie A** · Regular Season - 12 · 23/11/2026 20:45 (hora España) · Stadio Brianteo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:19_
+_Actualizadas: 21/11 14:04_
 
 - **1X2:** 1 **3.75**  ·  X **3.80**  ·  2 **1.91**
 - **Doble oportunidad:** 1X **1.83**  ·  12 **1.25**  ·  X2 **1.25**
@@ -29,9 +29,9 @@ _Actualizadas: 21/11 02:19_
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **7.00** · menos **1.10**
 - **Córners más/menos:**
-    - 9: más **1.85** · menos **1.95**
-    - 9,5: más **2.10** · menos **1.67**
-- **Córners 1X2:** 1 **2.38**  ·  X **8.00**  ·  2 **1.80**
+    - 9: más **1.80** · menos **2.00**
+    - 9,5: más **2.00** · menos **1.73**
+- **Córners 1X2:** 1 **2.30**  ·  X **8.00**  ·  2 **1.83**
 - **Tarjetas más/menos:**
     - 4,5: más **2.20** · menos **1.62**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.40**  ·  2 **2.40**
@@ -48,10 +48,10 @@ _Actualizadas: 21/11 02:19_
 - **Results/Both Teams Score:** Home/Yes **6.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **3.40**  ·  Home/No **8.00**  ·  Draw/No **15.00**  ·  Away/No **3.75**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.83**  ·  o/no 2.5 **8.50**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **3.10**
 - **Home Corners Over/Under:**
-    - 4,5: más **2.20** · menos **1.62**
+    - 4,5: más **2.10** · menos **1.67**
 - **Away Corners Over/Under:**
     - 4,5: más **1.80** · menos **1.91**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.50**
 - **Home Team Total Cards:**
     - 1,5: más **1.50** · menos **2.50**
 - **Away Team Total Cards:**
@@ -61,7 +61,9 @@ _Actualizadas: 21/11 02:19_
 - **ShotOnTarget 1x2:** 1 **2.88**  ·  X **8.00**  ·  2 **1.57**
 - **Total Shots:**
     - 28,5: más **1.80** · menos **1.91**
+    - 29,5: más **1.83** · menos **1.83**
 - **Shots.1x2:** 1 **2.30**  ·  X **15.00**  ·  2 **1.62**
+- **Away Player Shots On Target Total:** Dodo dos Santos **67.00**  ·  Nicolo Fagioli **51.00**  ·  Cyril Ngonge **26.00**  ·  Valentin Antov **19.00**  ·  Gustavo Varela **15.00**  ·  Ricardo Mangas **51.00**  ·  Adam Bakoune **26.00**  ·  Christ Oulai **51.00**  ·  Degnand Gnonto **19.00**  ·  Exequiel Zeballos **51.00**  ·  Franco Mastantuono **23.00**  ·  Mateo Pellegrino **7.00**  ·  Michael Folorunsho **17.00**  ·  Patrick Cutrone **6.50**  ·  Dany Mota **17.00**  ·  Lorenzo Lucchesi **19.00**  ·  Ebenezer Akinsanmiro **34.00**  ·  Idrissa Toure **23.00**  ·  Cher Ndour **34.00**  ·  Yvan Maye **19.00**  ·  Victor Valdepenas **15.00**  ·  Mathis Mout **21.00**  ·  Pedro Goncalves **23.00**  ·  Salvatore Cianciulli **26.00**  ·  Antonio Pirro **29.00**  ·  Manga Foe Ondoa **29.00**  ·  Jan Ziolkowski **19.00**  ·  Federico Croci **29.00**  ·  Brando Mazzeo **12.00**  ·  Arnis Ademi **26.00**  ·  Neto Joao Mario **41.00**  ·  Dennis Beldenti **12.00**  ·  Radu Dragusin **15.00**  ·  Andrea Colpani **34.00**  ·  Luca Ranieri **17.00**  ·  Marin Pongracic **23.00**  ·  Eddy Kouadio **19.00**  ·  Alejandro Jimenez **51.00**  ·  Andrea Carboni **15.00**  ·  Matteo Pessina **51.00**  ·  Omari Forson **41.00**  ·  Patrick Ciurria **34.00**  ·  Samuele Birindelli **51.00**  ·  Leonardo Colombo **67.00**  ·  Saba Goglichidze **17.00**  ·  Alieu Njie **17.00**  ·  Beto **6.50**  ·  Marco Brescianini **34.00**  ·  Arthur Atta **26.00**  ·  Jay Robinson **23.00**  ·  Viery Lopes **15.00**
 - **Away Player Shots Total:**
     - 15,5: más **1.83** · menos **1.83**
 - **Home Player Shots:** Exequiel Zeballos - 1 **1.04**  ·  Exequiel Zeballos - 2 **1.20**  ·  Exequiel Zeballos - 3 **1.62**  ·  Exequiel Zeballos - 4 **2.50**  ·  Exequiel Zeballos - 5 **4.33**  ·  Exequiel Zeballos - 6 **8.00**  ·  Exequiel Zeballos - 7 **15.00**  ·  Exequiel Zeballos - 8 **21.00**  ·  Patrick Cutrone - 1 **1.05**  ·  Gustavo Varela - 1 **1.02**  ·  Dany Mota - 1 **1.07**  ·  Jay Robinson - 1 **1.07**  ·  Andrea Colpani - 1 **1.06**  ·  Mathis Mout - 1 **1.44**  ·  Omari Forson - 1 **1.10**  ·  Patrick Ciurria - 1 **1.57**  ·  Ebenezer Akinsanmiro - 1 **1.40**  ·  Manga Foe Ondoa - 1 **1.10**  ·  Ricardo Mangas - 1 **1.73**  ·  Samuele Birindelli - 1 **1.44**  ·  Leonardo Colombo - 1 **1.28**  ·  Andrea Carboni - 1 **1.57**  ·  Saba Goglichidze - 1 **2.75**  ·  Eddy Kouadio - 1 **2.75**  ·  Lorenzo Lucchesi - 1 **1.80**  ·  Valentin Antov - 1 **2.25**  ·  Adam Bakoune - 1 **2.25**  ·  Patrick Cutrone - 2 **1.28**  ·  Gustavo Varela - 2 **1.17**  ·  Dany Mota - 2 **1.36**  ·  Jay Robinson - 2 **1.36**  ·  Andrea Colpani - 2 **1.30**  ·  Mathis Mout - 2 **3.00**  ·  Omari Forson - 2 **1.50**  ·  Patrick Ciurria - 2 **3.50**  ·  Ebenezer Akinsanmiro - 2 **2.75**  ·  Manga Foe Ondoa - 2 **1.50**  ·  Ricardo Mangas - 2 **4.33**  ·  Samuele Birindelli - 2 **3.00**  ·  Leonardo Colombo - 2 **2.20**  ·  Andrea Carboni - 2 **3.50**  ·  Saba Goglichidze - 2 **11.00**  ·  Eddy Kouadio - 2 **11.00**  ·  Lorenzo Lucchesi - 2 **4.50**  ·  Valentin Antov - 2 **7.00**  ·  Adam Bakoune - 2 **7.00**  ·  Patrick Cutrone - 3 **1.80**  ·  Gustavo Varela - 3 **1.50**  ·  Dany Mota - 3 **2.00**  ·  Jay Robinson - 3 **2.00**  ·  Andrea Colpani - 3 **1.91**  ·  Mathis Mout - 3 **7.00**  ·  Omari Forson - 3 **2.38**  ·  Patrick Ciurria - 3 **10.00**  ·  Ebenezer Akinsanmiro - 3 **6.50**  ·  Manga Foe Ondoa - 3 **2.38**  ·  Ricardo Mangas - 3 **13.00**  ·  Samuele Birindelli - 3 **7.00**  ·  Leonardo Colombo - 3 **4.50**  ·  Andrea Carboni - 3 **10.00**  ·  Lorenzo Lucchesi - 3 **15.00**  ·  Valentin Antov - 3 **21.00**  ·  Patrick Cutrone - 4 **3.00**  ·  Gustavo Varela - 4 **2.20**  ·  Dany Mota - 4 **3.50**  ·  Jay Robinson - 4 **3.50**  ·  Andrea Colpani - 4 **3.25**  ·  Mathis Mout - 4 **19.00**  ·  Omari Forson - 4 **4.33**  ·  Patrick Ciurria - 4 **21.00**  ·  Ebenezer Akinsanmiro - 4 **17.00**  ·  Manga Foe Ondoa - 4 **4.33**  ·  Samuele Birindelli - 4 **19.00**  ·  Patrick Cutrone - 5 **5.50**  ·  Gustavo Varela - 5 **3.50**  ·  Dany Mota - 5 **7.00**  ·  Jay Robinson - 5 **7.00**  ·  Andrea Colpani - 5 **6.00**  ·  Omari Forson - 5 **9.00**  ·  Patrick Cutrone - 6 **11.00**  ·  Gustavo Varela - 6 **6.50**  ·  Dany Mota - 6 **15.00**  ·  Jay Robinson - 6 **15.00**  ·  Andrea Colpani - 6 **13.00**  ·  Patrick Cutrone - 7 **19.00**  ·  Gustavo Varela - 7 **13.00**  ·  Adam Bakoune - 3 **21.00**  ·  Leonardo Colombo - 4 **11.00**  ·  Andrea Carboni - 4 **21.00**  ·  Leonardo Colombo - 5 **21.00**  ·  Jan Ziolkowski - 1 **2.25**  ·  Jan Ziolkowski - 2 **7.00**  ·  Jan Ziolkowski - 3 **21.00**  ·  Cyril Ngonge - 1 **1.07**  ·  Michael Folorunsho - 1 **1.12**  ·  Yvan Maye - 1 **2.50**  ·  Cyril Ngonge - 2 **1.36**  ·  Michael Folorunsho - 2 **1.62**  ·  Yvan Maye - 2 **9.00**  ·  Cyril Ngonge - 3 **2.00**  ·  Michael Folorunsho - 3 **2.75**  ·  Cyril Ngonge - 4 **3.50**  ·  Michael Folorunsho - 4 **5.50**  ·  Cyril Ngonge - 5 **7.00**  ·  Cyril Ngonge - 6 **15.00**  ·  Yvan Maye - 3 **21.00**  ·  Cyril Ngonge - 7 **21.00**  ·  Michael Folorunsho - 5 **11.00**  ·  Manga Foe Ondoa - 5 **9.00**  ·  Jay Robinson - 7 **21.00**  ·  Dany Mota - 7 **21.00**  ·  Omari Forson - 6 **19.00**  ·  Michael Folorunsho - 6 **21.00**  ·  Manga Foe Ondoa - 6 **19.00**  ·  Andrea Colpani - 7 **21.00**  ·  Gustavo Varela - 8 **21.00**

@@ -1,10 +1,10 @@
 # Sporting Gijon – Las Palmas
 **Segunda División** · Regular Season - 15 · 22/11/2026 16:15 (hora España) · El Molinón-Enrique Castro Quini
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **2.10**  ·  X **3.40**  ·  2 **3.30**
 - **Doble oportunidad:** 1X **1.33**  ·  12 **1.30**  ·  X2 **1.70**
@@ -30,7 +30,7 @@ _Actualizadas: 21/11 02:18_
     - 1,5: más **2.75** · menos **1.40**
     - 2,5: más **8.00** · menos **1.08**
 - **Córners más/menos:**
-    - 9,5: más **2.00** · menos **1.80**
+    - 9,5: más **1.91** · menos **1.80**
 - **Córners 1X2:** 1 **1.57**  ·  X **8.00**  ·  2 **2.75**
 - **1X2 descanso:** 1 **2.75**  ·  X **2.20**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**

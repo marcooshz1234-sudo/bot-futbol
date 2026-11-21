@@ -1,7 +1,7 @@
 # Real Betis – Rayo Vallecano
 **LaLiga** · Regular Season - 14 · 28/11/2026 14:00 (hora España) · Estadio de La Cartuja
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 14:20_

@@ -1,10 +1,10 @@
 # Granad. Tenerife W – Madrid CFF W
 **Liga F** · Regular Season - 12 · 22/11/2026 17:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **1.73**  ·  X **3.70**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **1.91**

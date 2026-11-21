@@ -1,10 +1,10 @@
 # Paris Saint Germain – AS Roma
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:27_
+_Actualizadas: 21/11 14:04_
 
 - **1X2:** 1 **1.33**  ·  X **5.00**  ·  2 **8.00**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.17**  ·  X2 **3.25**

@@ -1,10 +1,10 @@
 # Inter Club d'Escaldes – FC Copenhagen
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Estadi de la FAF
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:28_
+_Actualizadas: 21/11 14:05_
 
 - **1X2:** 1 **11.00**  ·  X **5.50**  ·  2 **1.22**
 - **Doble oportunidad:** 1X **4.00**  ·  12 **1.14**  ·  X2 **1.05**
@@ -12,9 +12,9 @@ _Actualizadas: 20/11 08:28_
 - **Goles más/menos:**
     - 1,5: más **1.14** · menos **5.50**
     - 2,5: más **1.50** · menos **2.50**
-    - 3,5: más **2.25** · menos **1.57**
+    - 3,5: más **2.20** · menos **1.62**
     - 4,5: más **3.75** · menos **1.25**
-    - 5,5: más **8.00** · menos **1.08**
+    - 5,5: más **7.00** · menos **1.10**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.10** · menos **1.67**

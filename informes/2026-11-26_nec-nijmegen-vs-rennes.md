@@ -1,10 +1,10 @@
 # NEC Nijmegen – Rennes
 **Europa League** · League Stage - 5 · 26/11/2026 21:00 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:28_
+_Actualizadas: 21/11 14:05_
 
 - **1X2:** 1 **3.00**  ·  X **3.50**  ·  2 **2.10**
 - **Doble oportunidad:** 1X **1.62**  ·  12 **1.25**  ·  X2 **1.33**

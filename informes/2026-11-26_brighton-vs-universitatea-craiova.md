@@ -1,19 +1,19 @@
 # Brighton – Universitatea Craiova
 **Conference League** · League Stage - 4 · 26/11/2026 18:45 (hora España) · Amex Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 08:28_
+_Actualizadas: 21/11 14:05_
 
 - **1X2:** 1 **1.14**  ·  X **7.50**  ·  2 **15.00**
 - **Doble oportunidad:** 1X **1.03**  ·  12 **1.10**  ·  X2 **5.50**
 - **Ambos marcan:** Sí **2.10**  ·  No **1.67**
 - **Goles más/menos:**
-    - 1,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.11** · menos **6.50**
     - 2,5: más **1.36** · menos **3.10**
-    - 3,5: más **1.83** · menos **1.83**
-    - 4,5: más **3.00** · menos **1.36**
+    - 3,5: más **1.91** · menos **1.80**
+    - 4,5: más **3.25** · menos **1.33**
     - 5,5: más **5.50** · menos **1.14**
     - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**

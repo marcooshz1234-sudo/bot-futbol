@@ -1,10 +1,10 @@
 # Granada – Real Madrid W
 **Liga F** · Regular Season - 12 · 22/11/2026 12:00 (hora España) · Ciudad Deportiva del Granada
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **9.00**  ·  X **5.25**  ·  2 **1.25**
 - **Doble oportunidad:** 1X **3.40**  ·  12 **1.11**  ·  X2 **1.03**

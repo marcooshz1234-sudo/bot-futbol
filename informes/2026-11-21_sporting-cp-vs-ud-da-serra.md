@@ -1,21 +1,21 @@
 # Sporting CP – UD da Serra
 **Taça de Portugal** · Round of 32 · 21/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:03_
 
-- **1X2:** 1 **1.01**  ·  X **29.00**  ·  2 **51.00**
-- **Doble oportunidad:** 1X **1.00**  ·  12 **1.01**  ·  X2 **26.00**
+- **1X2:** 1 **1.01**  ·  X **29.00**  ·  2 **67.00**
+- **Doble oportunidad:** 1X **1.00**  ·  12 **1.01**  ·  X2 **29.00**
 - **Goles más/menos:**
-    - 2,5: más **1.06** · menos **10.00**
+    - 2,5: más **1.07** · menos **9.00**
 - **Córners más/menos:**
     - 11,5: más **1.67** · menos **2.10**
     - 12: más **1.90** · menos **1.90**
     - 12,5: más **2.10** · menos **1.67**
-- **1X2 descanso:** 1 **1.08**  ·  X **8.00**  ·  2 **41.00**
-- **Total Corners (1st Half):** Exactamente 6 **6.00**  ·  Más de 6 **2.30**  ·  Menos de 6 **2.05**
+- **1X2 descanso:** 1 **1.08**  ·  X **8.00**  ·  2 **67.00**
+- **Total Corners (1st Half):** Más de 5.5 **1.80**  ·  Menos de 5.5 **2.00**  ·  Exactamente 6 **6.00**  ·  Más de 6 **2.02**  ·  Menos de 6 **1.78**
 
 ## Estadísticas de equipo
 | | Sporting CP (total) | Sporting CP en casa | UD da Serra (total) | UD da Serra fuera |

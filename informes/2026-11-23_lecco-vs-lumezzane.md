@@ -1,10 +1,10 @@
 # Lecco – Lumezzane
 **Serie C** · Girone A - 15 · 23/11/2026 20:45 (hora España) · Stadio Rigamonti Ceppi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:19_
+_Actualizadas: 21/11 14:04_
 
 - **1X2:** 1 **1.67**  ·  X **3.50**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.00**
@@ -21,21 +21,21 @@ _Actualizadas: 21/11 02:19_
     - 2,5: más **6.00** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.14** · menos **5.00**
-    - 1,5: más **1.67** · menos **2.10**
+    - 1,5: más **1.73** · menos **2.00**
     - 2,5: más **3.25** · menos **1.33**
     - 3,5: más **6.50** · menos **1.10**
 - **Goles del visitante:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **7.50** · menos **1.07**
+    - 0,5: más **1.50** · menos **2.50**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **8.00** · menos **1.06**
 - **Córners más/menos:**
     - 8,5: más **1.73** · menos **2.00**
     - 9: más **1.98** · menos **1.82**
 - **1X2 descanso:** 1 **2.20**  ·  X **2.30**  ·  2 **4.50**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.83** · menos **1.83**
-    - 2,5: más **3.75** · menos **1.25**
+    - 1,5: más **1.91** · menos **1.80**
+    - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **10.00** · menos **1.06**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
@@ -44,7 +44,7 @@ _Actualizadas: 21/11 02:19_
 - **Win Both Halves:** 1 **4.50**  ·  2 **17.00**
 - **Results/Both Teams Score:** Home/Yes **3.50**  ·  Draw/Yes **4.75**  ·  Away/Yes **8.00**  ·  Home/No **3.00**  ·  Draw/No **12.00**  ·  Away/No **9.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.62**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.82**  ·  Menos de 4 **1.98**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.38**
 
 ## Estadísticas de equipo
 | | Lecco (total) | Lecco en casa | Lumezzane (total) | Lumezzane fuera |

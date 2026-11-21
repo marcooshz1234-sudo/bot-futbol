@@ -1,10 +1,10 @@
 # PRO Vercelli – Novara
 **Serie C** · Girone A - 15 · 22/11/2026 12:30 (hora España) · Stadio Silvio Piola
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **2.50**  ·  X **3.10**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.44**
@@ -28,7 +28,7 @@ _Actualizadas: 21/11 02:18_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.00** · menos **1.14**
 - **Córners más/menos:**
-    - 8,5: más **1.85** · menos **1.95**
+    - 8,5: más **1.83** · menos **1.83**
 - **1X2 descanso:** 1 **3.10**  ·  X **2.20**  ·  2 **3.10**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**

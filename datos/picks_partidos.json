@@ -1,182 +1,4 @@
 {
- "2026-11-25": [
-  {
-   "partido_id": 1635718,
-   "fecha": "2026-11-25T18:45",
-   "local": "Sabah FA",
-   "visitante": "Barcelona",
-   "liga": "Champions",
-   "datos": [
-    "Los partidos del Sabah FA llevan 3,9 goles de media (últimos 8).",
-    "Los partidos del Barcelona llevan 4,6 goles de media (últimos 8).",
-    "El Barcelona ha ganado 3 de sus últimos 5 partidos."
-   ],
-   "picks": [
-    {
-     "sel": "1635718|Total - Home|Over 0.5",
-     "texto": "Sabah FA marca",
-     "cuota": 1.53,
-     "prob": 0.67
-    },
-    {
-     "sel": "1635718|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Sabah FA–Barcelona",
-     "cuota": 1.57,
-     "prob": 0.46
-    },
-    {
-     "sel": "1635718|Results/Both Teams Score|Away/Yes",
-     "texto": "Gana el Barcelona y ambos marcan",
-     "cuota": 1.8,
-     "prob": 0.42
-    }
-   ]
-  },
-  {
-   "partido_id": 1635735,
-   "fecha": "2026-11-25T21:00",
-   "local": "Sporting CP",
-   "visitante": "Manchester United",
-   "liga": "Champions",
-   "datos": [
-    "El Manchester United no ha ganado fuera en sus últimos 6 partidos.",
-    "El Sporting CP ha ganado 3 de sus últimos 5 partidos.",
-    "El Manchester United solo ha ganado 1 de sus últimos 5.",
-    "Los partidos del Sporting CP llevan 2,8 goles de media (últimos 8).",
-    "Los partidos del Manchester United llevan 3,6 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1635735|Double Chance|Home/Draw",
-     "texto": "Sporting CP o empate",
-     "cuota": 1.5,
-     "prob": 0.52
-    },
-    {
-     "sel": "1635735|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United",
-     "cuota": 1.73,
-     "prob": 0.51
-    },
-    {
-     "sel": "1635735|Both Teams Score|Yes",
-     "texto": "Ambos marcan en Sporting CP–Manchester United",
-     "cuota": 1.5,
-     "prob": 0.48
-    }
-   ]
-  },
-  {
-   "partido_id": 1635703,
-   "fecha": "2026-11-25T21:00",
-   "local": "Paris Saint Germain",
-   "visitante": "AS Roma",
-   "liga": "Champions",
-   "datos": [
-    "Los partidos del Paris Saint Germain llevan 4,4 goles de media (últimos 8).",
-    "Los partidos del AS Roma llevan 5,0 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1635703|Away Player Shots|Matias Soule - 2",
-     "texto": "Matias Soule: 2+ tiros",
-     "cuota": 1.36,
-     "prob": 0.8
-    },
-    {
-     "sel": "1635703|Home Player Shots|Desire Doue - 3",
-     "texto": "Desire Doue: 3+ tiros",
-     "cuota": 1.36,
-     "prob": 0.74
-    },
-    {
-     "sel": "1635703|Away Player Shots|Bryan Cristante - 1",
-     "texto": "Bryan Cristante: 1+ tiros",
-     "cuota": 1.4,
-     "prob": 0.74
-    },
-    {
-     "sel": "1635703|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del Paris Saint Germain–AS Roma",
-     "cuota": 1.53,
-     "prob": 0.51
-    },
-    {
-     "sel": "1635703|Total - Away|Over 0.5",
-     "texto": "AS Roma marca",
-     "cuota": 1.44,
-     "prob": 0.49
-    }
-   ]
-  },
-  {
-   "partido_id": 1635673,
-   "fecha": "2026-11-25T21:00",
-   "local": "Inter",
-   "visitante": "VfB Stuttgart",
-   "liga": "Champions",
-   "datos": [
-    "El Inter ha ganado 4 de sus últimos 5 partidos."
-   ],
-   "picks": [
-    {
-     "sel": "1635673|Away Player Shots|Jamie Leweling - 2",
-     "texto": "Jamie Leweling: 2+ tiros",
-     "cuota": 1.53,
-     "prob": 0.78
-    },
-    {
-     "sel": "1635673|Match Winner|Home",
-     "texto": "Gana el Inter",
-     "cuota": 1.42,
-     "prob": 0.62
-    }
-   ]
-  },
-  {
-   "partido_id": 1635682,
-   "fecha": "2026-11-25T21:00",
-   "local": "Lille",
-   "visitante": "Bayern München",
-   "liga": "Champions",
-   "datos": [
-    "Los partidos del Lille llevan 2,2 goles de media (últimos 8).",
-    "Los partidos del Bayern München llevan 4,1 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1635682|Away Player Shots|Dayot Upamecano - 1",
-     "texto": "Dayot Upamecano: 1+ tiros",
-     "cuota": 1.8,
-     "prob": 0.93
-    },
-    {
-     "sel": "1635682|Home Player Shots|Nabil Bentaleb - 1",
-     "texto": "Nabil Bentaleb: 1+ tiros",
-     "cuota": 1.62,
-     "prob": 0.78
-    },
-    {
-     "sel": "1635682|Home Player Shots|Soriba Diaoune - 2",
-     "texto": "Soriba Diaoune: 2+ tiros",
-     "cuota": 1.67,
-     "prob": 0.74
-    },
-    {
-     "sel": "1635682|Total - Home|Over 0.5",
-     "texto": "Lille marca",
-     "cuota": 1.5,
-     "prob": 0.68
-    },
-    {
-     "sel": "1635682|Away Player Shots|Joshua Kimmich - 1",
-     "texto": "Joshua Kimmich: 1+ tiros",
-     "cuota": 1.4,
-     "prob": 0.49
-    }
-   ]
-  }
- ],
  "2026-11-26": [
   {
    "partido_id": 1636435,
@@ -406,13 +228,15 @@
    "liga": "Conference",
    "datos": [
     "Los partidos del Brann llevan 3,5 goles de media (últimos 8).",
-    "Los partidos del Aarhus llevan 2,6 goles de media (últimos 8)."
+    "Los partidos del Aarhus llevan 2,6 goles de media (últimos 8).",
+    "El Brann ha ganado 3 de sus últimos 5 partidos.",
+    "El Aarhus no ha ganado ninguno de sus últimos 5."
    ],
    "picks": [
     {
      "sel": "1636393|Total - Home|Over 1.5",
      "texto": "Brann marca 2 o más",
-     "cuota": 1.67,
+     "cuota": 1.8,
      "prob": 0.61
     },
     {
@@ -422,29 +246,16 @@
      "prob": 0.56
     },
     {
+     "sel": "1636393|Double Chance|Home/Draw",
+     "texto": "Brann o empate",
+     "cuota": 1.36,
+     "prob": 0.55
+    },
+    {
      "sel": "1636393|Both Teams Score|Yes",
      "texto": "Ambos marcan en Brann–Aarhus",
      "cuota": 1.5,
-     "prob": 0.49
-    }
-   ]
-  },
-  {
-   "partido_id": 1636426,
-   "fecha": "2026-11-26T18:45",
-   "local": "FC Iberia 1999",
-   "visitante": "Getafe",
-   "liga": "Conference",
-   "datos": [
-    "Los partidos del FC Iberia 1999 llevan 2,4 goles de media (últimos 8).",
-    "Los partidos del Getafe llevan 3,4 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1636426|Total - Home|Over 0.5",
-     "texto": "FC Iberia 1999 marca",
-     "cuota": 1.8,
-     "prob": 0.67
+     "prob": 0.5
     }
    ]
   },
@@ -481,7 +292,7 @@
      "sel": "1636405|Total - Away|Over 0.5",
      "texto": "Lincoln Red Imps FC marca",
      "cuota": 1.53,
-     "prob": 0.48
+     "prob": 0.47
     },
     {
      "sel": "1636405|Both Teams Score|Yes",
@@ -578,7 +389,7 @@
     {
      "sel": "1636421|Total - Home|Over 0.5",
      "texto": "Heart Of Midlothian marca",
-     "cuota": 1.4,
+     "cuota": 1.36,
      "prob": 0.7
     },
     {
@@ -590,7 +401,7 @@
     {
      "sel": "1636421|Match Winner|Away",
      "texto": "Gana el Monaco",
-     "cuota": 1.62,
+     "cuota": 1.67,
      "prob": 0.47
     },
     {
@@ -600,10 +411,10 @@
      "prob": 0.46
     },
     {
-     "sel": "1636421|Total - Away|Over 1.5",
-     "texto": "Monaco marca 2 o más",
-     "cuota": 1.53,
-     "prob": 0.37
+     "sel": "1636421|To Win Either Half|Away",
+     "texto": "Monaco gana alguna de las dos partes",
+     "cuota": 1.36,
+     "prob": 0.43
     }
    ]
   },
@@ -1500,7 +1311,7 @@
      "sel": "1570469|Both Teams Score|Yes",
      "texto": "Ambos marcan en Malaga–Athletic Club",
      "cuota": 1.75,
-     "prob": 0.43
+     "prob": 0.44
     }
    ]
   },
@@ -1623,37 +1434,6 @@
    ]
   },
   {
-   "partido_id": 1552240,
-   "fecha": "2026-11-28T18:45",
-   "local": "PSV Eindhoven",
-   "visitante": "GO Ahead Eagles",
-   "liga": "Eredivisie",
-   "datos": [
-    "Los partidos del PSV Eindhoven llevan 3,2 goles de media (últimos 8).",
-    "Los partidos del GO Ahead Eagles llevan 3,8 goles de media (últimos 8)."
-   ],
-   "picks": [
-    {
-     "sel": "1552240|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte del PSV Eindhoven–GO Ahead Eagles",
-     "cuota": 1.4,
-     "prob": 0.55
-    },
-    {
-     "sel": "1552240|Total - Away|Over 0.5",
-     "texto": "GO Ahead Eagles marca",
-     "cuota": 1.4,
-     "prob": 0.53
-    },
-    {
-     "sel": "1552240|Both Teams Score|Yes",
-     "texto": "Ambos marcan en PSV Eindhoven–GO Ahead Eagles",
-     "cuota": 1.44,
-     "prob": 0.51
-    }
-   ]
-  },
-  {
    "partido_id": 1552834,
    "fecha": "2026-11-28T20:45",
    "local": "Nice",
@@ -1754,6 +1534,92 @@
      "texto": "Ambos marcan en Le Mans–Lille",
      "cuota": 1.8,
      "prob": 0.46
+    }
+   ]
+  }
+ ],
+ "2026-11-29": [
+  {
+   "partido_id": 1550215,
+   "fecha": "2026-11-29T12:30",
+   "local": "Udinese",
+   "visitante": "Fiorentina",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Udinese llevan 3,4 goles de media (últimos 8).",
+    "Los partidos del Fiorentina llevan 3,6 goles de media (últimos 8).",
+    "El Fiorentina va 15º y el Udinese 20º en la liga.",
+    "El Udinese no ha ganado ninguno de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1550215|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Udinese–Fiorentina",
+     "cuota": 1.62,
+     "prob": 0.47
+    },
+    {
+     "sel": "1550215|Double Chance|Draw/Away",
+     "texto": "Fiorentina o empate",
+     "cuota": 1.36,
+     "prob": 0.39
+    }
+   ]
+  },
+  {
+   "partido_id": 1557480,
+   "fecha": "2026-11-29T13:00",
+   "local": "Everton",
+   "visitante": "Liverpool",
+   "liga": "Premier",
+   "datos": [
+    "El Everton ha ganado 3 de sus últimos 5 partidos.",
+    "Los partidos del Everton llevan 2,4 goles de media (últimos 8).",
+    "Los partidos del Liverpool llevan 4,1 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557480|Double Chance|Home/Draw",
+     "texto": "Everton o empate",
+     "cuota": 1.7,
+     "prob": 0.53
+    },
+    {
+     "sel": "1557480|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Everton–Liverpool",
+     "cuota": 1.57,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1570472,
+   "fecha": "2026-11-29T14:00",
+   "local": "Valencia",
+   "visitante": "Osasuna",
+   "liga": "LaLiga",
+   "datos": [
+    "Los partidos del Valencia llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Osasuna llevan 3,5 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1570472|Shots. Home Total|Over 7.5",
+     "texto": "Valencia hace 8+ tiros",
+     "cuota": 1.37,
+     "prob": 0.53
+    },
+    {
+     "sel": "1570472|Double Chance|Home/Draw",
+     "texto": "Valencia o empate",
+     "cuota": 1.36,
+     "prob": 0.52
+    },
+    {
+     "sel": "1570472|Total - Away|Over 0.5",
+     "texto": "Osasuna marca",
+     "cuota": 1.44,
+     "prob": 0.52
     }
    ]
   }

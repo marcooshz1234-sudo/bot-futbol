@@ -1,7 +1,7 @@
 # Watford – Blackburn
 **Championship** · Regular Season - 17 · 25/11/2026 20:45 (hora España) · Vicarage Road
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

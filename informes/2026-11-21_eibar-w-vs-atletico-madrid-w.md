@@ -1,10 +1,10 @@
 # Eibar W – Atletico Madrid W
 **Liga F** · Regular Season - 12 · 21/11/2026 17:00 (hora España) · Estadio Municipal de Ipurua
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:17_
+_Actualizadas: 21/11 14:02_
 
 - **1X2:** 1 **8.00**  ·  X **4.50**  ·  2 **1.30**
 - **Doble oportunidad:** 1X **3.00**  ·  12 **1.12**  ·  X2 **1.05**
@@ -14,7 +14,7 @@ _Actualizadas: 21/11 02:17_
     - 1,5: más **1.25** · menos **3.75**
     - 2,5: más **1.80** · menos **2.00**
     - 3,5: más **3.00** · menos **1.36**
-    - 4,5: más **5.50** · menos **1.12**
+    - 4,5: más **5.00** · menos **1.14**
     - 5,5: más **9.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
@@ -44,7 +44,7 @@ _Actualizadas: 21/11 02:17_
 - **Win Both Halves:** 1 **41.00**  ·  2 **3.25**
 - **Results/Both Teams Score:** Home/Yes **17.00**  ·  Draw/Yes **7.00**  ·  Away/Yes **3.60**  ·  Home/No **13.00**  ·  Draw/No **11.00**  ·  Away/No **1.91**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.88**  ·  o/no 2.5 **4.33**  ·  u/yes 2.5 **10.00**  ·  u/no 2.5 **2.30**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.20**  ·  Menos de 4 **2.30**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.85**  ·  Menos de 4 **1.95**
 
 ## Estadísticas de equipo
 | | Eibar W (total) | Eibar W en casa | Atletico Madrid W (total) | Atletico Madrid W fuera |

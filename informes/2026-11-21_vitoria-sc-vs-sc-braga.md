@@ -1,34 +1,34 @@
 # Vitória SC – SC Braga
 **Taça de Portugal** · Round of 32 · 21/11/2026 21:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 08:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 14:07._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 02:18_
+_Actualizadas: 21/11 14:03_
 
 - **1X2:** 1 **3.20**  ·  X **3.20**  ·  2 **2.10**
-- **Doble oportunidad:** 1X **2.10**  ·  12 **1.25**  ·  X2 **1.17**
+- **Doble oportunidad:** 1X **1.62**  ·  12 **1.33**  ·  X2 **1.33**
 - **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.36** · menos **3.00**
     - 2,5: más **2.15** · menos **1.67**
-    - 3,5: más **4.00** · menos **1.22**
+    - 3,5: más **3.75** · menos **1.25**
     - 4,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
+    - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **9.00** · menos **1.07**
 - **Goles del local:**
-    - 0,5: más **1.50** · menos **2.50**
-    - 1,5: más **3.40** · menos **1.30**
-    - 2,5: más **10.00** · menos **1.06**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
 - **Goles del visitante:**
     - 0,5: más **1.28** · menos **3.50**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Córners más/menos:**
-    - 8,5: más **1.78** · menos **2.02**
+    - 8,5: más **1.73** · menos **2.00**
 - **1X2 descanso:** 1 **4.00**  ·  X **2.10**  ·  2 **2.88**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.28** · menos **3.50**
@@ -42,7 +42,7 @@ _Actualizadas: 21/11 02:18_
 - **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.50**  ·  Away/Yes **4.75**  ·  Home/No **5.50**  ·  Draw/No **9.00**  ·  Away/No **3.50**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
 - **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.90**  ·  Menos de 4 **1.90**
-- **Anytime Goal Scorer:** Ruben Furtado **4.00**  ·  Orest Lebedenko **7.50**  ·  Denis Huseinbasic **4.00**  ·  Adrian Barisic **13.00**  ·  Arnel Jakupovic **3.25**  ·  Mario Dorgeles **4.75**  ·  Tony Strata **11.00**  ·  Yanis da Rocha **11.00**  ·  Fabio Blanco **5.00**  ·  Oumar Camara **6.00**  ·  Matija Mitrovic **7.50**  ·  Miguel Joao Nobrega **15.00**  ·  Thiago Balieiro **15.00**  ·  Alioune Ndoye **3.50**  ·  Lohann Doucet **8.00**  ·  Yeimar Mosquera **13.00**  ·  Ahmed Sidibe **8.00**  ·  Miguel Nogueira **3.60**  ·  Rica Rocha **11.00**  ·  Joao Aragao **4.75**  ·  Mohammed Kebdani **11.00**  ·  Diego Rodrigues **7.50**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.60**  ·  Victor Andersson **4.75**  ·  Gabriel Martinez **3.75**  ·  Tomas Marques **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **3.00**  ·  Fran Navarro **2.75**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.50**  ·  Vitor Carvalho **9.00**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Francisco Dias **13.00**  ·  Teixeira Luisinho **4.00**  ·  Gustavo Silva **4.33**  ·  Marco Cruz **4.75**  ·  Silva Samu **5.00**  ·  Telmo Arcanjo **5.00**  ·  Goncalo Nogueira **6.50**  ·  Joao Miguel Teixeira Mendes **11.00**  ·  Miguel Maga **11.00**  ·  Oscar Rivas **15.00**  ·  Toni Borevkovic **15.00**  ·  Diogo Travassos **8.00**  ·  Mukendi Beni **11.00**  ·  Demir Tiknaz **7.50**  ·  Sergio Barcia **9.00**  ·  Jovan Milosevic **3.10**  ·  Santi Verdi **7.50**  ·  Joao Trovisco **3.50**  ·  Vignon Ouotro **3.25**  ·  Flinto Costa **3.10**  ·  Diogo Lobo **8.00**  ·  Jonas Wind **3.00**  ·  Alan Guimaraes **4.75**  ·  Gabriel Silva Vieira **3.10**
+- **Anytime Goal Scorer:** Ruben Furtado **4.00**  ·  Orest Lebedenko **7.00**  ·  Denis Huseinbasic **4.00**  ·  Adrian Barisic **13.00**  ·  Arnel Jakupovic **3.25**  ·  Mario Dorgeles **4.75**  ·  Tony Strata **11.00**  ·  Yanis da Rocha **11.00**  ·  Fabio Blanco **5.00**  ·  Oumar Camara **6.00**  ·  Matija Mitrovic **7.00**  ·  Miguel Joao Nobrega **15.00**  ·  Thiago Balieiro **15.00**  ·  Alioune Ndoye **3.40**  ·  Lohann Doucet **8.00**  ·  Yeimar Mosquera **13.00**  ·  Ahmed Sidibe **8.00**  ·  Miguel Nogueira **3.60**  ·  Rica Rocha **11.00**  ·  Joao Aragao **4.75**  ·  Mohammed Kebdani **11.00**  ·  Diego Rodrigues **7.00**  ·  Gustaf Lagerbielke **11.00**  ·  Pau Victor **2.38**  ·  Victor Andersson **4.75**  ·  Gabriel Martinez **3.60**  ·  Tomas Marques **11.00**  ·  Adrian Bajrami **13.00**  ·  Luz Ricardo Horta **2.88**  ·  Fran Navarro **2.75**  ·  Felipe Joao Moutinho **6.00**  ·  Jean-Baptiste Gorby **7.00**  ·  Vitor Carvalho **8.50**  ·  Bright Arrey-Mbi **11.00**  ·  Victor Gomez **11.00**  ·  Francisco Dias **13.00**  ·  Teixeira Luisinho **4.00**  ·  Gustavo Silva **4.33**  ·  Marco Cruz **4.75**  ·  Silva Samu **5.00**  ·  Telmo Arcanjo **5.00**  ·  Goncalo Nogueira **6.50**  ·  Joao Miguel Teixeira Mendes **11.00**  ·  Miguel Maga **11.00**  ·  Oscar Rivas **15.00**  ·  Toni Borevkovic **15.00**  ·  Diogo Travassos **8.00**  ·  Mukendi Beni **11.00**  ·  Demir Tiknaz **7.00**  ·  Sergio Barcia **8.50**  ·  Jovan Milosevic **3.10**  ·  Santi Verdi **7.00**  ·  Joao Trovisco **3.25**  ·  Vignon Ouotro **3.25**  ·  Flinto Costa **3.10**  ·  Diogo Lobo **8.00**  ·  Jonas Wind **2.88**  ·  Alan Guimaraes **4.75**  ·  Gabriel Silva Vieira **3.10**
 
 ## Estadísticas de equipo
 | | Vitória SC (total) | Vitória SC en casa | SC Braga (total) | SC Braga fuera |
