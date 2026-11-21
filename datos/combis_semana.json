@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T12:45+01:00",
+ "generado": "2026-11-21T13:17+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -109,20 +109,6 @@
    "liga": "Premier League",
    "patas": [
     {
-     "sel": "1557474|Player Fouls Committed|Nico O'Reilly - 1",
-     "texto": "Nico O'Reilly: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,46 por 90' (1-1-2-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Manchester City",
-     "lado": "L",
-     "partido": "Manchester City–Fulham",
-     "hora": "2026-11-21T13:30",
-     "logo_l": "https://media.api-sports.io/football/teams/50.png",
-     "logo_v": "https://media.api-sports.io/football/teams/36.png"
-    },
-    {
      "sel": "1557468|Player Fouls Committed|Ola Aina - 1",
      "texto": "Ola Aina: comete 1+ falta",
      "cuota": 1.44,
@@ -149,6 +135,20 @@
      "hora": "2026-11-21T16:00",
      "logo_l": "https://media.api-sports.io/football/teams/47.png",
      "logo_v": "https://media.api-sports.io/football/teams/57.png"
+    },
+    {
+     "sel": "1557470|Player Fouls Committed|Joao Pedro - 1",
+     "texto": "Joao Pedro: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (1-1-2-1-0-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Chelsea",
+     "lado": "L",
+     "partido": "Chelsea–Leeds",
+     "hora": "2026-11-21T16:00",
+     "logo_l": "https://media.api-sports.io/football/teams/49.png",
+     "logo_v": "https://media.api-sports.io/football/teams/63.png"
     },
     {
      "sel": "1557475|Player Fouls Committed|Ezri Konsa - 1",
@@ -205,8 +205,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     }
    ],
-   "cuota": 23.94,
-   "media": 0.9885831386258371
+   "cuota": 24.94,
+   "media": 0.9740688529115514
   },
   {
    "liga": "Serie A",
@@ -759,40 +759,6 @@
     }
    ],
    "cuota": 2.16
-  },
-  {
-   "equipo": "Manchester City",
-   "liga": "Premier League",
-   "partido": "Manchester City–Fulham",
-   "hora": "2026-11-21T13:30",
-   "logo": "https://media.api-sports.io/football/teams/50.png",
-   "patas": [
-    {
-     "sel": "1557474|Player Fouls Committed|Nico O'Reilly - 1",
-     "texto": "Nico O'Reilly: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,46 por 90' (1-1-2-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Manchester City",
-     "lado": "L",
-     "partido": "Manchester City–Fulham",
-     "hora": "2026-11-21T13:30"
-    },
-    {
-     "sel": "1557474|Goalkeeper Saves|Gianluigi Donnarumma - 2",
-     "texto": "Gianluigi Donnarumma: 2+ paradas",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 4,75 por 90' (6-2-7-4)",
-     "nota": 1.0015999999999998,
-     "equipo": "Manchester City",
-     "lado": "L",
-     "partido": "Manchester City–Fulham",
-     "hora": "2026-11-21T13:30"
-    }
-   ],
-   "cuota": 2.07
   },
   {
    "equipo": "Nottingham Forest",
@@ -1796,21 +1762,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1557474|Player Fouls Committed|Nico O'Reilly - 1",
-     "texto": "Nico O'Reilly: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,46 por 90' (1-1-2-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Manchester City",
-     "lado": "L",
-     "partido": "Manchester City–Fulham",
-     "hora": "2026-11-21T13:30",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/50.png",
-     "logo_v": "https://media.api-sports.io/football/teams/36.png"
-    },
-    {
      "sel": "1570453|Player Fouls Committed|Ville Koski - 1",
      "texto": "Ville Koski: comete 1+ falta",
      "cuota": 1.4,
@@ -1839,31 +1790,6 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/895.png",
      "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    }
-   ],
-   "cuota": 2.9,
-   "prob": 0.681
-  },
-  {
-   "clave": "dia-2026-11-21",
-   "titulo": "📅 La del sábado",
-   "expl": "Solo partidos del sábado 21",
-   "liga": "Varias",
-   "patas": [
-    {
-     "sel": "1557474|Goalkeeper Saves|Gianluigi Donnarumma - 2",
-     "texto": "Gianluigi Donnarumma: 2+ paradas",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 4,75 por 90' (6-2-7-4)",
-     "nota": 1.0015999999999998,
-     "equipo": "Manchester City",
-     "lado": "L",
-     "partido": "Manchester City–Fulham",
-     "hora": "2026-11-21T13:30",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/50.png",
-     "logo_v": "https://media.api-sports.io/football/teams/36.png"
     },
     {
      "sel": "1575226|Player Fouls Committed|Kouakou Gadou - 1",
@@ -1879,6 +1805,46 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/163.png",
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    }
+   ],
+   "cuota": 2.9,
+   "prob": 0.681
+  },
+  {
+   "clave": "dia-2026-11-21",
+   "titulo": "📅 La del sábado",
+   "expl": "Solo partidos del sábado 21",
+   "liga": "Varias",
+   "patas": [
+    {
+     "sel": "1575222|Player Fouls Committed|Malik Tillman - 1",
+     "texto": "Malik Tillman: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,27 por 90' (1-1-1-1)",
+     "nota": 0.976,
+     "equipo": "Bayer Leverkusen",
+     "lado": "L",
+     "partido": "Bayer Leverkusen–SC Paderborn 07",
+     "hora": "2026-11-21T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/168.png",
+     "logo_v": "https://media.api-sports.io/football/teams/185.png"
+    },
+    {
+     "sel": "1575225|Player Fouls Committed|Zeno Van Den Bosch - 1",
+     "texto": "Zeno Van Den Bosch: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,40 por 90' (1-2-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Union Berlin",
+     "lado": "L",
+     "partido": "Union Berlin–RB Leipzig",
+     "hora": "2026-11-21T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/182.png",
+     "logo_v": "https://media.api-sports.io/football/teams/173.png"
     },
     {
      "sel": "1557468|Player Fouls Committed|Ola Aina - 1",
@@ -1924,7 +1890,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/538.png"
     }
    ],
-   "cuota": 6.85,
+   "cuota": 6.48,
    "prob": 0.505
   },
   {
@@ -2396,14 +2362,14 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575222|Player Fouls Committed|Malik Tillman - 1",
-     "texto": "Malik Tillman: comete 1+ falta",
+     "sel": "1575222|Player Fouls Committed|Marvin Pieringer - 2",
+     "texto": "Marvin Pieringer: comete 2+ faltas",
      "cuota": 1.4,
      "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,27 por 90' (1-1-1-1)",
+     "dato": "cumple 4/4 siendo titular · 3,26 por 90' (3-3-2-4)",
      "nota": 0.976,
-     "equipo": "Bayer Leverkusen",
-     "lado": "L",
+     "equipo": "SC Paderborn 07",
+     "lado": "V",
      "partido": "Bayer Leverkusen–SC Paderborn 07",
      "hora": "2026-11-21T15:30",
      "liga": "Bundesliga",
@@ -2464,34 +2430,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575222|Player Fouls Committed|Marvin Pieringer - 2",
-     "texto": "Marvin Pieringer: comete 2+ faltas",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 3,26 por 90' (3-3-2-4)",
-     "nota": 0.976,
-     "equipo": "SC Paderborn 07",
-     "lado": "V",
-     "partido": "Bayer Leverkusen–SC Paderborn 07",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/168.png",
-     "logo_v": "https://media.api-sports.io/football/teams/185.png"
-    },
-    {
-     "sel": "1575225|Player Fouls Committed|Zeno Van Den Bosch - 1",
-     "texto": "Zeno Van Den Bosch: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,40 por 90' (1-2-2-1-1)",
-     "nota": 0.976,
-     "equipo": "Union Berlin",
+     "sel": "1550200|Player Fouls Committed|Jacobo Ramon - 1",
+     "texto": "Jacobo Ramon: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,03 por 90' (1-1-1-2-0-1)",
+     "nota": 0.9000000000000001,
+     "equipo": "Como",
      "lado": "L",
-     "partido": "Union Berlin–RB Leipzig",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/182.png",
-     "logo_v": "https://media.api-sports.io/football/teams/173.png"
+     "partido": "Como–Cagliari",
+     "hora": "2026-11-21T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/895.png",
+     "logo_v": "https://media.api-sports.io/football/teams/490.png"
     },
     {
      "sel": "1557468|Player Fouls Committed|Nikola Milenkovic - 1",
@@ -2507,6 +2458,21 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/35.png",
      "logo_v": "https://media.api-sports.io/football/teams/65.png"
+    },
+    {
+     "sel": "1557470|Player Fouls Committed|Joao Pedro - 1",
+     "texto": "Joao Pedro: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (1-1-2-1-0-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Chelsea",
+     "lado": "L",
+     "partido": "Chelsea–Leeds",
+     "hora": "2026-11-21T16:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/49.png",
+     "logo_v": "https://media.api-sports.io/football/teams/63.png"
     },
     {
      "sel": "1557472|Player Fouls Committed|Maxim De Cuyper - 1",
@@ -2539,8 +2505,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/512.png"
     }
    ],
-   "cuota": 6.98,
-   "prob": 0.436
+   "cuota": 8.01,
+   "prob": 0.36
   },
   {
    "clave": "remates",
@@ -2833,21 +2799,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550200|Player Fouls Committed|Jacobo Ramon - 1",
-     "texto": "Jacobo Ramon: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,03 por 90' (1-1-1-2-0-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Como",
-     "lado": "L",
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    },
-    {
      "sel": "1575225|Total - Home|Over 0.5",
      "texto": "Union Berlin marca",
      "cuota": 1.4,
@@ -2861,19 +2812,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/173.png"
     },
     {
-     "sel": "1557470|Player Fouls Committed|Joao Pedro - 1",
-     "texto": "Joao Pedro: comete 1+ falta",
-     "cuota": 1.5,
+     "sel": "1575226|Player Fouls Committed|Waldemar Anton - 1",
+     "texto": "Waldemar Anton: comete 1+ falta",
+     "cuota": 1.44,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (1-1-2-1-0-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "Chelsea",
-     "lado": "L",
-     "partido": "Chelsea–Leeds",
-     "hora": "2026-11-21T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/49.png",
-     "logo_v": "https://media.api-sports.io/football/teams/63.png"
+     "dato": "cumple 5/6 siendo titular · 1,67 por 90' (0-3-1-2-2-2)",
+     "nota": 0.864,
+     "equipo": "Borussia Dortmund",
+     "lado": "V",
+     "partido": "Borussia Mönchengladbach–Borussia Dortmund",
+     "hora": "2026-11-21T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/163.png",
+     "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
      "sel": "1557467|Player Fouls Committed|George Hemmings - 2",
@@ -2889,6 +2840,21 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/66.png",
      "logo_v": "https://media.api-sports.io/football/teams/746.png"
+    },
+    {
+     "sel": "1557468|Player Fouls Committed|Dan Ndoye - 1",
+     "texto": "Dan Ndoye: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,86 por 90' (2-1-3-1-2-0)",
+     "nota": 0.864,
+     "equipo": "Nottingham Forest",
+     "lado": "V",
+     "partido": "Bournemouth–Nottingham Forest",
+     "hora": "2026-11-21T16:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/35.png",
+     "logo_v": "https://media.api-sports.io/football/teams/65.png"
     },
     {
      "sel": "1550204|Player Fouls Committed|Kevin De Bruyne - 1",
@@ -2981,7 +2947,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 59.92,
+   "cuota": 55.22,
    "prob": 0.105
   }
  ],

@@ -53,7 +53,7 @@
    "justa": 2.04,
    "ev": 0.029,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Bayer Leverkusen",
@@ -62,17 +62,6 @@
    "texto": "Bayer Leverkusen marca 3 o más",
    "cuota": 1.8,
    "justa": 1.78,
-   "ev": 0.009,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Vejle",
-   "visitante": "HB Koge",
-   "inicio": "2026-11-21T13:30",
-   "texto": "HB Koge marca",
-   "cuota": 1.57,
-   "justa": 1.56,
    "ev": 0.009,
    "fuente": "Pinnacle",
    "edad_h": 0.4
@@ -86,18 +75,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.4
-  },
-  {
-   "local": "Vejle",
-   "visitante": "HB Koge",
-   "inicio": "2026-11-21T13:30",
-   "texto": "Vejle marca 2 o más",
-   "cuota": 1.44,
-   "justa": 1.44,
-   "ev": 0.002,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -108,7 +86,7 @@
    "justa": 1.8,
    "ev": -0.001,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "West Ham",
@@ -119,7 +97,7 @@
    "justa": 1.82,
    "ev": -0.009,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Eintracht Frankfurt",
@@ -130,11 +108,22 @@
    "justa": 1.75,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
+  },
+  {
+   "local": "Bayer Leverkusen",
+   "visitante": "SC Paderborn 07",
+   "inicio": "2026-11-21T15:30",
+   "texto": "SC Paderborn 07 marca",
+   "cuota": 1.57,
+   "justa": 1.59,
+   "ev": -0.014,
+   "fuente": "Pinnacle",
+   "edad_h": 0.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T12:57",
+  "hora": "2026-11-21T13:18",
   "revisadas": 0,
   "mejor": null
  },
