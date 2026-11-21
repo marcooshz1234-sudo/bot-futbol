@@ -10190,7 +10190,7 @@
     ],
     "cuotas": [
       1.4,
-      1.5
+      1.36
     ],
     "solo_en": [
       "threads"
@@ -10201,7 +10201,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-21T02:58"
   },
   {
     "id": "2026-11-21-loca-th-0500-x50",
