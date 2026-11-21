@@ -10220,9 +10220,9 @@
       1.53,
       1.8,
       1.5,
+      1.5,
       1.53,
-      1.53,
-      1.5
+      1.53
     ],
     "solo_en": [
       "threads"
@@ -10233,7 +10233,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T03:31"
   },
   {
     "id": "2026-11-21-loca-th-0600-hora",
