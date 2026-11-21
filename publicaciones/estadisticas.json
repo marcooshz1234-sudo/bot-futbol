@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 11:14",
+ "actualizado": "2026-11-21 11:24",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3319,
-   "hoy": 71,
+   "seguidores": 3322,
+   "hoy": 74,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3319
+    3322
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3865,
- "total_hoy": 73,
+ "total": 3868,
+ "total_hoy": 76,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "11:20",
+  "hora": "11:40",
   "dia": "2026-11-21",
-  "titulo": "Combi bayer leverkusen – sc paderborn "
+  "titulo": "Combi borussia mönchengladbach – borus"
  },
  "ayer": {
   "aciertos": 3,
@@ -246,7 +246,7 @@
   },
   "2026-11-21": {
    "instagram": 54,
-   "threads": 3319,
+   "threads": 3322,
    "facebook": 1,
    "telegram": 491
   }

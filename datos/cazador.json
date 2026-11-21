@@ -45,6 +45,17 @@
  },
  "top": [
   {
+   "local": "Mafra",
+   "visitante": "Arouca",
+   "inicio": "2026-11-21T15:00",
+   "texto": "Mafra o empate",
+   "cuota": 2.1,
+   "justa": 2.04,
+   "ev": 0.029,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
    "local": "Treviso",
    "visitante": "Pergolettese",
    "inicio": "2026-11-21T14:30",
@@ -53,7 +64,7 @@
    "justa": 2.18,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Treviso",
@@ -64,11 +75,33 @@
    "justa": 1.8,
    "ev": -0.001,
    "fuente": "Pinnacle",
+   "edad_h": 0.3
+  },
+  {
+   "local": "West Ham",
+   "visitante": "Preston",
+   "inicio": "2026-11-21T16:00",
+   "texto": "Preston marca",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.009,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Bayer Leverkusen",
+   "visitante": "SC Paderborn 07",
+   "inicio": "2026-11-21T15:30",
+   "texto": "Bayer Leverkusen marca 3 o más",
+   "cuota": 1.8,
+   "justa": 1.82,
+   "ev": -0.011,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T11:04",
+  "hora": "2026-11-21T11:25",
   "revisadas": 0,
   "mejor": null
  },
