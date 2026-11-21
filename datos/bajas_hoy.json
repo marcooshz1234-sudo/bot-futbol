@@ -10308,9 +10308,65 @@
    }
   ],
   "1608374": [],
-  "1608373": []
+  "1608373": [],
+  "1550197": [
+   {
+    "equipo": 489,
+    "jugador": "S. Chukwueze",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 489,
+    "jugador": "M. Gabbia",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 489,
+    "jugador": "R. Loftus-Cheek",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 489,
+    "jugador": "A. Saelemaekers",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 489,
+    "jugador": "F. Tomori",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 489,
+    "jugador": "S. Pavlovic",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 512,
+    "jugador": "G. Bracaglia",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 512,
+    "jugador": "F. Grillitsch",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 512,
+    "jugador": "A. Raimondo",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   }
+  ]
  },
- "ultima": "2026-11-21T11:37:08.073045+01:00",
+ "ultima": "2026-11-21T12:10:38.156054+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
