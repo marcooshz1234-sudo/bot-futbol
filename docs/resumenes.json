@@ -3146,14 +3146,14 @@
   },
   "2026-11-21": {
     "dia": "2026-11-21",
-    "total": 8,
+    "total": 9,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 8,
+      "pendiente": 9,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 9
     },
     "combis": [
       {
@@ -3203,13 +3203,19 @@
         "titulo": "🧨 LA DE x14,51 🧨",
         "estado": "pendiente",
         "cuota": 14.51
+      },
+      {
+        "id": "2026-11-21-loca-th-0600-hora",
+        "titulo": "🕘 TODO A LAS 15:30 🕘",
+        "estado": "pendiente",
+        "cuota": 8.74
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 41
+      "total": 44
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 41,03 🎰 · 41,03 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14 · pendiente\n⏳ 🧨 LA DE x14,51 🧨 · 14,51 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 41,03 🎰 · 41,03 · pendiente\n⏳ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40 · pendiente\n⏳ 🏆 PREMIER LEAGUE - GANADORES · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14 · pendiente\n⏳ 🧨 LA DE x14,51 🧨 · 14,51 · pendiente\n⏳ 🕘 TODO A LAS 15:30 🕘 · 8,74 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 9 sin resolver"
   }
 }
