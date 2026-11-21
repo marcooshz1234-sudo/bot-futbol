@@ -286,6 +286,15 @@ def main(objetivo=None):
             continue
         if ambiguo(p.get("error")):
             continue
+        try:   # 21/11 (Marcos): los días de las 5 grandes, en Telegram solo picks de ellas (nada de Eredivisie…)
+            import grandes_ligas
+            if grandes_ligas.fuera_de_grandes(p, p["fecha"][:10]):
+                p["caducada"] = "fuera de las 5 grandes"
+                cambios += 1
+                print(f"{p['id']}: no sale en Telegram (día de las 5 grandes y lleva otra liga)")
+                continue
+        except Exception as e:
+            print("grandes_ligas:", e)
         if p["id"] in control.get("cancelados", []):
             p["caducada"] = "cancelado"
             cambios += 1

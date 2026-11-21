@@ -257,8 +257,12 @@ def dia_bueno(dia):
 
 
 def fuera_por_dia_bueno(pa):
-    """True si es un partido menor en un día con partidos buenos (no se usa para nada nuestro)."""
+    """True si es un partido menor en un día con partidos buenos (no se usa para nada nuestro).
+    21/11 (Marcos): si juegan las 5 grandes, solo ellas (y Europa); ni la Eredivisie aunque juegue el Feyenoord."""
     try:
+        import grandes_ligas
+        if pa and not grandes_ligas.liga_permitida((pa.get("league") or {}).get("id"), dia_de(pa)):
+            return True
         return bool(pa) and not partido_bueno(pa) and dia_bueno(dia_de(pa))
     except Exception as e:
         print("dia_bueno:", e)
@@ -1878,6 +1882,15 @@ EXTRA_PICKS = {"horas": ((12, 30), (13, 30), (15, 0), (16, 30), (17, 15), (19, 0
                "minimo_tg": 7, "relajo_prob": 0.05}
 
 
+# 21/11 (Marcos: «mayormente de la Española»): un pick de LaLiga cuenta 6 puntos de probabilidad más al elegir
+ESPANA_EXTRA = 0.06
+
+
+def espana_extra(p, dia):
+    import grandes_ligas
+    return ESPANA_EXTRA if p.get("liga_id") == 140 and grandes_ligas.dia_de_grandes(dia) else 0.0
+
+
 def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=(), relajado=0):
     """16/11: (pick, hora) de un pick más para Telegram si hay una cuota buena de verdad: misma cuota y probabilidad
     que el pick del día (sin plan B), que no choque con lo de hoy y mejor de un mercado que no haya salido hoy."""
@@ -1913,6 +1926,7 @@ def pick_extra(pools, dia, hh_mm, hechos, ya=(), usados=(), relajado=0):
     def nota(p):
         t = tipo_pick(p)
         castigo = EXTRA_PICKS["castigo_tipo_hoy"] * hoy.count(t) + (SEGURO["castigo_jugador"] if t == "jugador" else 0)
+        castigo -= espana_extra(p, dia)
         return (round(p["prob_aprendida"] - castigo, 2), p["prob_aprendida"] * p["cuota"])
     return max(cand, key=nota), hora
 
@@ -2000,6 +2014,7 @@ def pick_seguro(pools, dia, segundo=False, ya=()):
         castigo = SEGURO["castigo_repetido"] * recientes.count(t) * (0.5 if t == "resultado" else 1)
         if t == "jugador":
             castigo += SEGURO["castigo_jugador"]
+        castigo -= espana_extra(p, dia)
         return (round(p["prob_aprendida"] - castigo, 2), p["prob_aprendida"] * p["cuota"])
     p = max(cand, key=nota)
     return p, hora
