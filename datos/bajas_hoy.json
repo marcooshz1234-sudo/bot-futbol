@@ -9548,9 +9548,89 @@
     "motivo": "Muscle Injury"
    }
   ],
-  "1608378": []
+  "1608378": [],
+  "1563264": [
+   {
+    "equipo": 44,
+    "jugador": "B. Amos",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 44,
+    "jugador": "A. Barnes",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "A. Broja",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "J. Bruun Larsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "B. Humphreys",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "H. Mejbri",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "M. Obafemi",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 44,
+    "jugador": "D. Satpaev",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "R. Alebiosu",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "A. Forshaw",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "M. Jorgensen",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "L. Miller",
+    "tipo": "Missing Fixture",
+    "motivo": "Achilles Tendon Injury"
+   },
+   {
+    "equipo": 67,
+    "jugador": "R. Morishita",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   }
+  ]
  },
- "ultima": "2026-11-21T06:55:51.156044+01:00",
+ "ultima": "2026-11-21T07:31:38.836857+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
