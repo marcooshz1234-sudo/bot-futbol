@@ -10087,9 +10087,42 @@
    }
   ],
   "1570031": [],
-  "1565310": []
+  "1565310": [],
+  "1552227": [
+   {
+    "equipo": 410,
+    "jugador": "P. Saathof",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 205,
+    "jugador": "R. Bayram",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 205,
+    "jugador": "E. Michut",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 205,
+    "jugador": "O. Romeny",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 205,
+    "jugador": "D. Sinkgraven",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   }
+  ],
+  "1573650": []
  },
- "ultima": "2026-11-21T10:33:10.974997+01:00",
+ "ultima": "2026-11-21T11:06:06.677660+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-loca-th-1100-escudos|Mathys Tel",
