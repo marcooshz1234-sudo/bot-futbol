@@ -138,8 +138,8 @@
  },
  "abiertos": [
   {
-   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
+   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
   },
   {
    "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
@@ -154,8 +154,12 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
+   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
    "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
@@ -163,10 +167,6 @@
   },
   {
    "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
-  },
-  {
-   "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -180,14 +180,6 @@
   {
    "clave": "repe-2026-11-21-1552823|Away Player Shots|Romain Faivre - 2",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
-  },
-  {
-   "clave": "prensa-1575223-HKane",
-   "t": "📰 Eintracht Frankfurt–1899 Hoffenheim: «Grave lesión de Harry Kane: \"Estará fuera varios meses\"» (Mundo Deportivo) · tenemos 3 post(s) de este partido: loca-th-0600-hora, combi-500, pick-seguro-4"
-  },
-  {
-   "clave": "prensa-1575226-MOlise",
-   "t": "📰 Borussia Mönchengladbach–Borussia Dortmund: «Bayern pierde a Kane y a Olise por lesión y se deja dos puntos ante Colonia» (D10) · tenemos 4 post(s) de este partido: loca-th-0600-hora, ganadores-resto, loca-th-1140-escudos, combi-500"
   },
   {
    "clave": "prensa-1570453-PAubameyang",
@@ -208,33 +200,9 @@
   {
    "clave": "prensa-1557470-01650370",
    "t": "📰 Chelsea–Leeds: «Xabi Alonso confirma que Moi Caicedo está disponible con el Chelsea tras salir con molestias ante Bolivia» (Studiofutbol) · tenemos 1 post(s) de este partido: loca-th-1000-escudos"
-  },
-  {
-   "clave": "prensa-1570030-5fbbf1c5",
-   "t": "📰 Cordoba–Oviedo: «Pablo Sáenz, nueva baja en el Oviedo antes de visitar al Córdoba CF» (El Día de Córdoba) · tenemos 1 post(s) de este partido: picks-manana"
-  },
-  {
-   "clave": "prensa-1570031-e1d3be47",
-   "t": "📰 Sporting Gijon–Las Palmas: «El Sporting apunta a tener 8 bajas contra Las Palmas» (La Voz de Asturias) · tenemos 1 post(s) de este partido: picks-manana"
-  },
-  {
-   "clave": "prensa-1550197-13bf9150",
-   "t": "📰 AC Milan–Frosinone: «Milan, Pavlovic es duda ante el Frosinone: solo completó parte del entrenamiento con el grupo. Maignan está to» (Goal.com) · tenemos 3 post(s) de este partido: picks-manana, ganadores-seriea, combi-tres"
-  },
-  {
-   "clave": "prensa-1570455-40624e79",
-   "t": "📰 Barcelona–Villarreal: «Andreas Christensen es duda ante el Villarreal por unas molestias en el sóleo» (RPC TV) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
-   "clave": "prensa-1570455-b5f7d136",
-   "t": "📰 Barcelona–Villarreal: «Alineaciones probables del FC Barcelona-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 1 post(s) de este partido: ganadores-laliga"
-  },
-  {
-   "clave": "prensa-1570458-50012bbc",
-   "t": "📰 Osasuna–Malaga: «Aznou vuelve al trabajo, pero será baja por sanción ante el Osasuna» (Mundo Deportivo) · tenemos 1 post(s) de este partido: ganadores-laliga"
   }
  ],
- "revisado": "2026-11-21T03:01",
+ "revisado": "2026-11-21T03:11",
  "historial": [
   {
    "hora": "2026-11-21T03:01",
