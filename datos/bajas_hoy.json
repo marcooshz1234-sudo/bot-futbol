@@ -8341,21 +8341,21 @@
    },
    {
     "equipo": 52,
-    "jugador": "J. Larsen",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 52,
     "jugador": "I. Sarr",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
    },
    {
     "equipo": 52,
     "jugador": "T. Tomiyasu",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
     "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 52,
+    "jugador": "J. Larsen",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
    }
   ],
   "1557476": [
@@ -10496,9 +10496,48 @@
     "tipo": "Questionable",
     "motivo": "Head Injury"
    }
-  ]
+  ],
+  "1570456": [
+   {
+    "equipo": 546,
+    "jugador": "N. Gudelj",
+    "tipo": "Missing Fixture",
+    "motivo": "Yellow Cards"
+   },
+   {
+    "equipo": 546,
+    "jugador": "Juanmi",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 546,
+    "jugador": "C. Uche",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "A. Lookman",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "M. Pubill",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 530,
+    "jugador": "C. Romero",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1570026": []
  },
- "ultima": "2026-11-21T14:47:47.285853+01:00",
+ "ultima": "2026-11-21T15:18:20.023433+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

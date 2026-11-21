@@ -10968,7 +10968,7 @@
     "cuotas": [
       3.4,
       3.25,
-      3.3
+      3.25
     ],
     "solo_en": [
       "threads"
@@ -10979,7 +10979,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-21T15:17"
   },
   {
     "id": "2026-11-21-loca-th-1540-ganaambos",
