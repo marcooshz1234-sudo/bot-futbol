@@ -47,7 +47,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 1.5
+   "edad_h": 1.9
   },
   {
    "local": "Mafra",
@@ -58,7 +58,7 @@
    "justa": 2.04,
    "ev": 0.029,
    "fuente": "Pinnacle",
-   "edad_h": 0.3
+   "edad_h": 0.0
   },
   {
    "local": "Treviso",
@@ -124,11 +124,11 @@
    "justa": 1.81,
    "ev": -0.006,
    "fuente": "las otras casas",
-   "edad_h": 1.5
+   "edad_h": 1.9
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T03:45",
+  "hora": "2026-11-21T04:11",
   "revisadas": 1,
   "mejor": {
    "partido_id": 1647593,
@@ -142,7 +142,7 @@
    "justa": 1.74,
    "ev": 0.209,
    "fuente": "las otras casas",
-   "edad_h": 1.5,
+   "edad_h": 1.9,
    "texto": "Vitória SC o empate"
   }
  },

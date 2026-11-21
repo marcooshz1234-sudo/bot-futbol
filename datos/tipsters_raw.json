@@ -10028,14 +10028,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16332",
-   "fecha": "2026-11-14T01:00",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-14T01:03",
-   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16332.jpg"
-  },
-  {
    "id": "-1001393609245/16331",
    "fecha": "2026-11-14T01:00",
    "texto": "",
@@ -11510,6 +11502,13 @@
    "texto": "",
    "foto": false,
    "visto": "2026-11-21T03:13"
+  },
+  {
+   "id": "-1001393609245/16533",
+   "fecha": "2026-11-21T04:04",
+   "texto": "DISPONIBLE HASTA LAS 13:00 H 🇪🇸",
+   "foto": false,
+   "visto": "2026-11-21T04:10"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
@@ -18295,6 +18294,28 @@
    "texto": "Viralizad este Tweet. Mañana se viene 🔥\n\nhttps://x.com/apuestascobrich/status/2123966356261400726?a=_lG6vXuzs5i-BMsUTOM&s=46",
    "foto": false,
    "visto": "2026-11-21T03:36"
+  },
+  {
+   "id": "-1001233274610/196270",
+   "fecha": "2026-11-21T04:05",
+   "texto": "Dia malo, hay que ser sinceros ✖️\n\nNo nos salieron las cosas como esperabamos y tocó fallar mas de lo habitual. De todos modos llevamos un mes impecable y mañana hay seguirlo 😇✅",
+   "foto": false,
+   "visto": "2026-11-21T04:10"
+  },
+  {
+   "id": "-1001233274610/196272",
+   "fecha": "2026-11-21T04:06",
+   "texto": "Se avecina...  ❗RETO GRATUITO❗\n\n👉 Queremos regalaros el Reto Premium 350 - 1000€ y así sumar todos con mis mejores pronósticos ✅\n\n👉 Cada uno que comience con la cantidad que desee y quien pueda con 350 ¡pues mejor! 💰\n\n🙌 ¡En breves vamos a por ello! 🏆",
+   "foto": false,
+   "visto": "2026-11-21T04:10"
+  },
+  {
+   "id": "-1001233274610/196271",
+   "fecha": "2026-11-21T04:06",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-21T04:10",
+   "foto_ruta": "datos/tipsters_fotos/ApuestasCobrich_Canal_Gratuito_196271.jpg"
   }
  ]
 }
