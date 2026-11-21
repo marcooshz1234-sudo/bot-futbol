@@ -11062,12 +11062,12 @@
     ],
     "cuotas": [
       2.0,
-      2.1,
+      2.15,
       2.0,
+      2.05,
       2.1,
-      2.0,
-      2.1,
-      2.0
+      2.2,
+      1.95
     ],
     "solo_en": [
       "threads"
@@ -11078,7 +11078,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-21T14:47"
   },
   {
     "id": "2026-11-21-pick-seguro-6",

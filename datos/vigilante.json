@@ -126,7 +126,10 @@
   "cuotamov-2026-11-21-loca-th-1120-escudos-1575222|Away Player Shots|Santiago Castaneda - 1": "2026-11-21T09:51",
   "redes-2026-11-21-pick-seguro-threads-instagram": "2026-11-21T10:52",
   "redes-2026-11-21-combi-500-threads": "2026-11-21T12:23",
-  "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5": "2026-11-21T14:05"
+  "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5": "2026-11-21T14:05",
+  "prensa-1570460-1392d98a": "2026-11-21T14:49",
+  "prensa-1557473-3bbb9c27": "2026-11-21T14:49",
+  "prensa-1575224-MOlise": "2026-11-21T14:49"
  },
  "abiertos": [
   {
@@ -138,28 +141,20 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (boleto-personal, boleto-personal-th, loca-th-2020-lista-corners)"
   },
   {
-   "clave": "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1400-escudos)"
-  },
-  {
    "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
-  },
-  {
-   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
   },
   {
    "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
+   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
   },
   {
-   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
+   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
    "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
@@ -167,6 +162,10 @@
   },
   {
    "clave": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -180,10 +179,37 @@
   {
    "clave": "repe-2026-11-21-1552823|Away Player Shots|Romain Faivre - 2",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
+  },
+  {
+   "clave": "prensa-1570460-1392d98a",
+   "t": "📰 Rayo Vallecano–Valencia: «Hasta los lesionados por la salvación: el Valencia CF viaja a Vallecas con 29 hombres y un mensaje de unión» (El Desmarque) · tenemos 1 post(s) de este partido: loca-th-1600-reto"
+  },
+  {
+   "clave": "prensa-1557473-3bbb9c27",
+   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 6 post(s) de este partido: ganadores-resto, pick-seguro, pick-seguro-3, combi-tres, combi-partido-1557473, estrella-1557473"
+  },
+  {
+   "clave": "prensa-1575224-MOlise",
+   "t": "📰 FC Augsburg–FSV Mainz 05: «Catastrófico empate para el Bayern Munich: Kane y Olise lesionados y sin el liderato en sus manos» (Telemundo) · tenemos 2 post(s) de este partido: pick-seguro-4, combi-partido-1575224"
   }
  ],
- "revisado": "2026-11-21T14:14",
+ "revisado": "2026-11-21T14:49",
  "historial": [
+  {
+   "hora": "2026-11-21T14:49",
+   "t": "📰 Rayo Vallecano–Valencia: «Hasta los lesionados por la salvación: el Valencia CF viaja a Vallecas con 29 hombres y un mensaje de unión» (El Desmarque) · tenemos 1 post(s) de este partido: loca-th-1600-reto",
+   "k": "prensa-1570460-1392d98a"
+  },
+  {
+   "hora": "2026-11-21T14:49",
+   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 6 post(s) de este partido: ganadores-resto, pick-seguro, pick-seguro-3, combi-tres, combi-partido-1557473, estrella-1557473",
+   "k": "prensa-1557473-3bbb9c27"
+  },
+  {
+   "hora": "2026-11-21T14:49",
+   "t": "📰 FC Augsburg–FSV Mainz 05: «Catastrófico empate para el Bayern Munich: Kane y Olise lesionados y sin el liderato en sus manos» (Telemundo) · tenemos 2 post(s) de este partido: pick-seguro-4, combi-partido-1575224",
+   "k": "prensa-1575224-MOlise"
+  },
   {
    "hora": "2026-11-21T14:05",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (boleto-personal, boleto-personal-th, loca-th-2020-lista-corners)",
@@ -468,21 +494,6 @@
    "hora": "2026-11-20T02:58",
    "t": "🔁 20/11: el mismo pronóstico en 3 posts (loca-th-0800-lista-corners, combi-multi, loca-th-1900-lista-corners)",
    "k": "repe-2026-11-20-1570025|Corners 1x2|Home"
-  },
-  {
-   "hora": "2026-11-20T02:58",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (picks-manana, combi-500, combi-tres)",
-   "k": "repe-2026-11-21-1550200|Home Team Total Cards|Over 0.5"
-  },
-  {
-   "hora": "2026-11-20T02:58",
-   "t": "📰 Newcastle–Arsenal: «El entorno de Martín Zubimendi descarta una salida en calidad de cedido del Arsenal ― informes» (Tribuna.com) · tenemos 2 post(s) de este partido: ganadores-premier, pick-seguro",
-   "k": "prensa-1557475-49c8b60c"
-  },
-  {
-   "hora": "2026-11-20T01:57",
-   "t": "📰 Estac Troyes–Le Havre: «Deportivo A Coruña: Aubameyang enciende las alarmas con una nueva lesión» (El Desmarque) · tenemos 11 post(s) de este partido: combi-tres, combi-multi, loca-th-0400-x50, loca-th-0600-tapados, loca-th-0700-x500, loca-th-0800-lista-corners, loca-th-0900-empates, loca-th-1000-reto, loca-th-1600-escudos, loca-th-1830-x1000, loca-th-1900-lista-corners",
-   "k": "prensa-1552827-PAubameyang"
   }
  ]
 }

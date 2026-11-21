@@ -45,17 +45,6 @@
  },
  "top": [
   {
-   "local": "Mafra",
-   "visitante": "Arouca",
-   "inicio": "2026-11-21T15:00",
-   "texto": "Mafra o empate",
-   "cuota": 2.1,
-   "justa": 2.04,
-   "ev": 0.029,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
    "local": "AVS",
    "visitante": "Tondela",
    "inicio": "2026-11-21T16:00",
@@ -75,40 +64,40 @@
    "justa": 1.78,
    "ev": 0.009,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
-   "local": "Treviso",
-   "visitante": "Pergolettese",
-   "inicio": "2026-11-21T14:30",
-   "texto": "Ambos marcan en Treviso–Pergolettese",
-   "cuota": 2.2,
-   "justa": 2.18,
-   "ev": 0.008,
+   "local": "Telstar",
+   "visitante": "PEC Zwolle",
+   "inicio": "2026-11-21T21:00",
+   "texto": "Ambos marcan en Telstar–PEC Zwolle",
+   "cuota": 1.57,
+   "justa": 1.58,
+   "ev": -0.004,
    "fuente": "las otras casas",
-   "edad_h": 0.4
+   "edad_h": 0.8
   },
   {
-   "local": "Treviso",
-   "visitante": "Pergolettese",
-   "inicio": "2026-11-21T14:30",
-   "texto": "Pergolettese marca",
+   "local": "Granada",
+   "visitante": "Real Madrid W",
+   "inicio": "2026-11-22T12:00",
+   "texto": "Granada marca",
    "cuota": 1.8,
-   "justa": 1.8,
-   "ev": -0.001,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "justa": 1.81,
+   "ev": -0.007,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
   },
   {
-   "local": "West Ham",
-   "visitante": "Preston",
-   "inicio": "2026-11-21T16:00",
-   "texto": "Preston marca",
+   "local": "Arges Pitesti",
+   "visitante": "FCSB",
+   "inicio": "2026-11-22T19:30",
+   "texto": "Arges Pitesti o empate",
    "cuota": 1.8,
    "justa": 1.82,
-   "ev": -0.009,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "ev": -0.01,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
   },
   {
    "local": "Eintracht Frankfurt",
@@ -119,7 +108,7 @@
    "justa": 1.75,
    "ev": -0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "Bayer Leverkusen",
@@ -130,11 +119,22 @@
    "justa": 1.59,
    "ev": -0.014,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
+  },
+  {
+   "local": "Telstar",
+   "visitante": "PEC Zwolle",
+   "inicio": "2026-11-21T21:00",
+   "texto": "Telstar marca 2 o más",
+   "cuota": 1.83,
+   "justa": 1.86,
+   "ev": -0.014,
+   "fuente": "las otras casas",
+   "edad_h": 0.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-21T14:04",
+  "hora": "2026-11-21T14:49",
   "revisadas": 0,
   "mejor": null
  },

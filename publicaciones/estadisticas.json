@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 14:14",
+ "actualizado": "2026-11-21 14:49",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3354,
-   "hoy": 106,
+   "seguidores": 3357,
+   "hoy": 109,
    "serie": [
     2792,
     3009,
@@ -24,7 +24,7 @@
     3215,
     3230,
     3248,
-    3354
+    3357
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 3900,
- "total_hoy": 108,
+ "total": 3903,
+ "total_hoy": 111,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "14:20",
+  "hora": "15:00",
   "dia": "2026-11-21",
-  "titulo": "Combi nice – paris saint germain"
+  "titulo": "Este lo tenemos claro"
  },
  "ayer": {
   "aciertos": 3,
@@ -246,7 +246,7 @@
   },
   "2026-11-21": {
    "instagram": 54,
-   "threads": 3354,
+   "threads": 3357,
    "facebook": 1,
    "telegram": 491
   }

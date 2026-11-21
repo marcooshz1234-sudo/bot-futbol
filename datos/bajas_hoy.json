@@ -10413,9 +10413,92 @@
   "1570032": [],
   "1647582": [],
   "1573649": [],
-  "1565307": []
+  "1565307": [],
+  "1647585": [],
+  "1550198": [
+   {
+    "equipo": 499,
+    "jugador": "I. Hien",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 499,
+    "jugador": "G. Gaetano",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 499,
+    "jugador": "O. Kossounou",
+    "tipo": "Questionable",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 499,
+    "jugador": "T. Kristensen",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "A. Bonny",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "M. Akanji",
+    "tipo": "Questionable",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "A. Stankovic",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 505,
+    "jugador": "P. Zielinski",
+    "tipo": "Questionable",
+    "motivo": "Foot Injury"
+   }
+  ],
+  "1552822": [
+   {
+    "equipo": 81,
+    "jugador": "D. Cornelius",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 81,
+    "jugador": "Emerson",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1298,
+    "jugador": "A. Bourabaa",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 1298,
+    "jugador": "D. Sidibe",
+    "tipo": "Missing Fixture",
+    "motivo": "Foot Injury"
+   },
+   {
+    "equipo": 1298,
+    "jugador": "S. Yohou",
+    "tipo": "Questionable",
+    "motivo": "Head Injury"
+   }
+  ]
  },
- "ultima": "2026-11-21T14:17:24.064595+01:00",
+ "ultima": "2026-11-21T14:47:47.285853+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

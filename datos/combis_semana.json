@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T14:18+01:00",
+ "generado": "2026-11-21T14:48+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
@@ -111,10 +111,10 @@
     {
      "sel": "1557476|Home Player Shots|Jan Paul van Hecke - 1",
      "texto": "Jan Paul van Hecke: 1+ remate",
-     "cuota": 1.62,
+     "cuota": 1.67,
      "p": 0.8,
      "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-1-2-1-0)",
-     "nota": 0.9240000000000002,
+     "nota": 0.934,
      "equipo": "Tottenham",
      "lado": "L",
      "partido": "Tottenham–Ipswich",
@@ -191,26 +191,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     }
    ],
-   "cuota": 23.71,
-   "media": 0.9306402814829801
+   "cuota": 24.45,
+   "media": 0.9320688529115514
   },
   {
    "liga": "Serie A",
    "patas": [
-    {
-     "sel": "1550200|Away Player Shots|Alessandro Romano - 1",
-     "texto": "Alessandro Romano: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,24 por 90' (2-1-1-1-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Cagliari",
-     "lado": "V",
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    },
     {
      "sel": "1550204|Player Fouls Committed|Kevin De Bruyne - 1",
      "texto": "Kevin De Bruyne: comete 1+ falta",
@@ -250,6 +236,20 @@
      "hora": "2026-11-22T15:00",
      "logo_l": "https://media.api-sports.io/football/teams/500.png",
      "logo_v": "https://media.api-sports.io/football/teams/494.png"
+    },
+    {
+     "sel": "1550206|Player Fouls Committed|Junior Messias - 1",
+     "texto": "Junior Messias: comete 1+ falta",
+     "cuota": 1.67,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,43 por 90' (2-2-0-1-1)",
+     "nota": 0.8684642857142858,
+     "equipo": "Genoa",
+     "lado": "V",
+     "partido": "Sassuolo–Genoa",
+     "hora": "2026-11-22T15:00",
+     "logo_l": "https://media.api-sports.io/football/teams/488.png",
+     "logo_v": "https://media.api-sports.io/football/teams/495.png"
     },
     {
      "sel": "1550197|Player Fouls Committed|Strahinja Pavlovic - 1",
@@ -294,8 +294,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     }
    ],
-   "cuota": 15.69,
-   "media": 0.9425037604099595
+   "cuota": 18.2,
+   "media": 0.9234843726548575
   },
   {
    "liga": "Bundesliga",
@@ -406,10 +406,10 @@
     {
      "sel": "1552824|Away Player Shots|Achraf Hakimi - 2",
      "texto": "Achraf Hakimi: 2+ remates",
-     "cuota": 1.57,
+     "cuota": 1.67,
      "p": 0.764,
      "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
-     "nota": 0.8502500000000002,
+     "nota": 0.8684642857142858,
      "equipo": "Paris Saint Germain",
      "lado": "V",
      "partido": "Nice–Paris Saint Germain",
@@ -420,24 +420,24 @@
     {
      "sel": "1552823|Total - Away|Over 0.5",
      "texto": "Auxerre marca",
-     "cuota": 1.53,
+     "cuota": 1.67,
      "p": 0.842,
      "dato": "marca 1,6 por partido y el rival encaja 0,7",
-     "nota": 0.9809617236827378,
+     "nota": 1.0119347098911182,
      "partido": "Monaco–Auxerre",
      "hora": "2026-11-21T20:45",
      "logo_l": "https://media.api-sports.io/football/teams/91.png",
      "logo_v": "https://media.api-sports.io/football/teams/108.png"
     },
     {
-     "sel": "1552826|Away Player Shots|Pathe Mboup - 2",
-     "texto": "Pathe Mboup: 2+ remates",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,95 por 90' (2-3-4-4-3-0)",
-     "nota": 0.9240000000000002,
-     "equipo": "Stade Brestois 29",
-     "lado": "V",
+     "sel": "1552826|Home Player Shots|Dario Essugo - 1",
+     "texto": "Dario Essugo: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,70 por 90' (2-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Strasbourg",
+     "lado": "L",
      "partido": "Strasbourg–Stade Brestois 29",
      "hora": "2026-11-21T20:45",
      "logo_l": "https://media.api-sports.io/football/teams/95.png",
@@ -496,8 +496,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/1298.png"
     }
    ],
-   "cuota": 20.83,
-   "media": 0.9075531888196571
+   "cuota": 20.9,
+   "media": 0.922008513380038
   },
   {
    "liga": "Champions League",
@@ -961,38 +961,36 @@
    "cuota": 2.1
   },
   {
-   "equipo": "Cagliari",
+   "equipo": "Napoli",
    "liga": "Serie A",
-   "partido": "Como–Cagliari",
-   "hora": "2026-11-21T15:00",
-   "logo": "https://media.api-sports.io/football/teams/490.png",
+   "partido": "Napoli–Torino",
+   "hora": "2026-11-21T20:45",
+   "logo": "https://media.api-sports.io/football/teams/492.png",
    "patas": [
     {
-     "sel": "1550200|Away Player Shots|Alessandro Romano - 1",
-     "texto": "Alessandro Romano: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,24 por 90' (2-1-1-1-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Cagliari",
-     "lado": "V",
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00"
+     "sel": "1550204|Player Fouls Committed|Kevin De Bruyne - 1",
+     "texto": "Kevin De Bruyne: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (1-1-0-2-2-3)",
+     "nota": 0.9000000000000001,
+     "equipo": "Napoli",
+     "lado": "L",
+     "partido": "Napoli–Torino",
+     "hora": "2026-11-21T20:45"
     },
     {
-     "sel": "1550200|Player Fouls Committed|Paul Mendy - 2",
-     "texto": "Paul Mendy: comete 2+ faltas",
-     "cuota": 1.4,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,41 por 90' (1-2-2-3-2)",
-     "nota": 0.7792857142857144,
-     "equipo": "Cagliari",
-     "lado": "V",
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00"
+     "sel": "1550204|Home Team Total Cards|Over 0.5",
+     "texto": "Napoli ve más de 0,5 tarjetas",
+     "cuota": 1.53,
+     "p": 0.788,
+     "dato": "Napoli ve 1,7 amarillas por partido",
+     "nota": 0.8843823261957985,
+     "partido": "Napoli–Torino",
+     "hora": "2026-11-21T20:45"
     }
    ],
-   "cuota": 2.02
+   "cuota": 2.29
   },
   {
    "equipo": "Torino",
@@ -1346,18 +1344,6 @@
      "hora": "2026-11-21T15:30"
     },
     {
-     "sel": "1575225|Away Player Shots|Ridle Baku - 1",
-     "texto": "Ridle Baku: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,48 por 90' (1-2-1-2-0-2)",
-     "nota": 0.864,
-     "equipo": "RB Leipzig",
-     "lado": "V",
-     "partido": "Union Berlin–RB Leipzig",
-     "hora": "2026-11-21T15:30"
-    },
-    {
      "sel": "1575225|Player Fouls Committed|Christopher Nkunku - 1",
      "texto": "Christopher Nkunku: comete 1+ falta",
      "cuota": 1.53,
@@ -1370,41 +1356,7 @@
      "hora": "2026-11-21T15:30"
     }
    ],
-   "cuota": 3.08
-  },
-  {
-   "equipo": "FC Schalke 04",
-   "liga": "Bundesliga",
-   "partido": "FC Schalke 04–VfB Stuttgart",
-   "hora": "2026-11-21T18:30",
-   "logo": "https://media.api-sports.io/football/teams/174.png",
-   "patas": [
-    {
-     "sel": "1575228|Player Fouls Committed|Satoshi Tanaka - 1",
-     "texto": "Satoshi Tanaka: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,08 por 90' (0-1-2-1-1)",
-     "nota": 0.8025714285714286,
-     "equipo": "FC Schalke 04",
-     "lado": "L",
-     "partido": "FC Schalke 04–VfB Stuttgart",
-     "hora": "2026-11-21T18:30"
-    },
-    {
-     "sel": "1575228|Player Fouls Committed|Robin Gosens - 1",
-     "texto": "Robin Gosens: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,17 por 90' (1-1-0-1-2)",
-     "nota": 0.7792857142857144,
-     "equipo": "FC Schalke 04",
-     "lado": "L",
-     "partido": "FC Schalke 04–VfB Stuttgart",
-     "hora": "2026-11-21T18:30"
-    }
-   ],
-   "cuota": 2.02
+   "cuota": 2.14
   },
   {
    "equipo": "VfB Stuttgart",
@@ -1557,21 +1509,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550200|Away Player Shots|Alessandro Romano - 1",
-     "texto": "Alessandro Romano: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,24 por 90' (2-1-1-1-1-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Cagliari",
-     "lado": "V",
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    },
-    {
      "sel": "1575226|Player Fouls Committed|Kouakou Gadou - 1",
      "texto": "Kouakou Gadou: comete 1+ falta",
      "cuota": 1.44,
@@ -1600,6 +1537,19 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/35.png",
      "logo_v": "https://media.api-sports.io/football/teams/65.png"
+    },
+    {
+     "sel": "1552823|Total - Away|Over 0.5",
+     "texto": "Auxerre marca",
+     "cuota": 1.67,
+     "p": 0.842,
+     "dato": "marca 1,6 por partido y el rival encaja 0,7",
+     "nota": 1.0119347098911182,
+     "partido": "Monaco–Auxerre",
+     "hora": "2026-11-21T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/91.png",
+     "logo_v": "https://media.api-sports.io/football/teams/108.png"
     },
     {
      "sel": "1570461|Away Player Shots|Ferran Jutgla - 2",
@@ -1662,8 +1612,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/535.png"
     }
    ],
-   "cuota": 13.93,
-   "prob": 0.409
+   "cuota": 16.16,
+   "prob": 0.391
   },
   {
    "clave": "segura",
@@ -1757,17 +1707,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/173.png"
     },
     {
-     "sel": "1570460|Total - Away|Over 0.5",
-     "texto": "Valencia marca",
-     "cuota": 1.5,
-     "p": 0.816,
-     "dato": "marca 1,8 por partido y el rival encaja 1,4",
-     "nota": 0.9272206633642828,
-     "partido": "Rayo Vallecano–Valencia",
-     "hora": "2026-11-21T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/728.png",
-     "logo_v": "https://media.api-sports.io/football/teams/532.png"
+     "sel": "1557476|Home Player Shots|Jan Paul van Hecke - 1",
+     "texto": "Jan Paul van Hecke: 1+ remate",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-1-2-1-0)",
+     "nota": 0.934,
+     "equipo": "Tottenham",
+     "lado": "L",
+     "partido": "Tottenham–Ipswich",
+     "hora": "2026-11-21T16:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/47.png",
+     "logo_v": "https://media.api-sports.io/football/teams/57.png"
     },
     {
      "sel": "1557475|Player Fouls Committed|Ezri Konsa - 1",
@@ -1785,21 +1737,23 @@
      "logo_v": "https://media.api-sports.io/football/teams/42.png"
     },
     {
-     "sel": "1552823|Total - Away|Over 0.5",
-     "texto": "Auxerre marca",
-     "cuota": 1.53,
-     "p": 0.842,
-     "dato": "marca 1,6 por partido y el rival encaja 0,7",
-     "nota": 0.9809617236827378,
-     "partido": "Monaco–Auxerre",
+     "sel": "1552826|Home Player Shots|Dario Essugo - 1",
+     "texto": "Dario Essugo: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 4/4 siendo titular · 1,70 por 90' (2-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Strasbourg",
+     "lado": "L",
+     "partido": "Strasbourg–Stade Brestois 29",
      "hora": "2026-11-21T20:45",
      "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/91.png",
-     "logo_v": "https://media.api-sports.io/football/teams/108.png"
+     "logo_l": "https://media.api-sports.io/football/teams/95.png",
+     "logo_v": "https://media.api-sports.io/football/teams/106.png"
     }
    ],
-   "cuota": 7.51,
-   "prob": 0.426
+   "cuota": 7.65,
+   "prob": 0.436
   },
   {
    "clave": "dia-2026-11-22",
@@ -2168,10 +2122,10 @@
     {
      "sel": "1575227|Match Winner|Home",
      "texto": "Gana Werder Bremen",
-     "cuota": 1.67,
-     "p": 0.608,
+     "cuota": 1.62,
+     "p": 0.614,
      "dato": "Werder Bremen: VEVV en sus últimos 5 · en casa",
-     "nota": 0.6152845289368369,
+     "nota": 0.6112404552552954,
      "lado": "L",
      "ganador": true,
      "partido": "Werder Bremen–Hamburger SV",
@@ -2256,7 +2210,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 21.32,
+   "cuota": 20.68,
    "prob": 0.038
   },
   {
@@ -2281,19 +2235,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/185.png"
     },
     {
-     "sel": "1557476|Home Player Shots|Jan Paul van Hecke - 1",
-     "texto": "Jan Paul van Hecke: 1+ remate",
-     "cuota": 1.62,
+     "sel": "1557470|Player Fouls Committed|Joao Pedro - 1",
+     "texto": "Joao Pedro: comete 1+ falta",
+     "cuota": 1.5,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (2-1-1-2-1-0)",
-     "nota": 0.9240000000000002,
-     "equipo": "Tottenham",
+     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (1-1-2-1-0-2)",
+     "nota": 0.9000000000000001,
+     "equipo": "Chelsea",
      "lado": "L",
-     "partido": "Tottenham–Ipswich",
+     "partido": "Chelsea–Leeds",
      "hora": "2026-11-21T16:00",
      "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/47.png",
-     "logo_v": "https://media.api-sports.io/football/teams/57.png"
+     "logo_l": "https://media.api-sports.io/football/teams/49.png",
+     "logo_v": "https://media.api-sports.io/football/teams/63.png"
     },
     {
      "sel": "1550197|Player Fouls Committed|Strahinja Pavlovic - 1",
@@ -2326,7 +2280,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 6.11,
+   "cuota": 5.66,
    "prob": 0.41
   },
   {
@@ -2336,34 +2290,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550200|Player Fouls Committed|Jacobo Ramon - 1",
-     "texto": "Jacobo Ramon: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,03 por 90' (1-1-1-2-0-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Como",
+     "sel": "1557467|Player Fouls Committed|George Hemmings - 2",
+     "texto": "George Hemmings: comete 2+ faltas",
+     "cuota": 1.67,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,78 por 90' (0-2-2-2-2)",
+     "nota": 0.8684642857142858,
+     "equipo": "Aston Villa",
      "lado": "L",
-     "partido": "Como–Cagliari",
-     "hora": "2026-11-21T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/490.png"
-    },
-    {
-     "sel": "1557470|Player Fouls Committed|Joao Pedro - 1",
-     "texto": "Joao Pedro: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (1-1-2-1-0-2)",
-     "nota": 0.9000000000000001,
-     "equipo": "Chelsea",
-     "lado": "L",
-     "partido": "Chelsea–Leeds",
+     "partido": "Aston Villa–Sunderland",
      "hora": "2026-11-21T16:00",
      "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/49.png",
-     "logo_v": "https://media.api-sports.io/football/teams/63.png"
+     "logo_l": "https://media.api-sports.io/football/teams/66.png",
+     "logo_v": "https://media.api-sports.io/football/teams/746.png"
     },
     {
      "sel": "1550204|Player Fouls Committed|Kevin De Bruyne - 1",
@@ -2409,10 +2348,25 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/64.png",
      "logo_v": "https://media.api-sports.io/football/teams/51.png"
+    },
+    {
+     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
+     "texto": "Eljif Elmas: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
+     "nota": 0.9000000000000001,
+     "equipo": "Atalanta",
+     "lado": "L",
+     "partido": "Atalanta–Inter",
+     "hora": "2026-11-22T20:45",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/499.png",
+     "logo_v": "https://media.api-sports.io/football/teams/505.png"
     }
    ],
-   "cuota": 7.59,
-   "prob": 0.328
+   "cuota": 8.45,
+   "prob": 0.313
   },
   {
    "clave": "remates",
@@ -2423,10 +2377,10 @@
     {
      "sel": "1552826|Away Player Shots|Pathe Mboup - 2",
      "texto": "Pathe Mboup: 2+ remates",
-     "cuota": 1.62,
+     "cuota": 1.53,
      "p": 0.8,
      "dato": "cumple 5/6 siendo titular · 2,95 por 90' (2-3-4-4-3-0)",
-     "nota": 0.9240000000000002,
+     "nota": 0.9060000000000001,
      "equipo": "Stade Brestois 29",
      "lado": "V",
      "partido": "Strasbourg–Stade Brestois 29",
@@ -2496,7 +2450,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 8.86,
+   "cuota": 8.37,
    "prob": 0.328
   },
   {
@@ -2506,30 +2460,30 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1575225|Total - Home|Over 0.5",
-     "texto": "Union Berlin marca",
-     "cuota": 1.4,
-     "p": 0.821,
-     "dato": "marca 1,2 por partido y el rival encaja 2,5",
-     "nota": 0.8763484086334166,
-     "partido": "Union Berlin–RB Leipzig",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/182.png",
-     "logo_v": "https://media.api-sports.io/football/teams/173.png"
+     "sel": "1570460|Total - Away|Over 0.5",
+     "texto": "Valencia marca",
+     "cuota": 1.5,
+     "p": 0.816,
+     "dato": "marca 1,8 por partido y el rival encaja 1,4",
+     "nota": 0.9272206633642828,
+     "partido": "Rayo Vallecano–Valencia",
+     "hora": "2026-11-21T16:15",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/728.png",
+     "logo_v": "https://media.api-sports.io/football/teams/532.png"
     },
     {
-     "sel": "1557476|Total - Away|Over 0.5",
-     "texto": "Ipswich marca",
+     "sel": "1552823|Total - Home|Over 1.5",
+     "texto": "Monaco marca 2 o más",
      "cuota": 1.5,
-     "p": 0.787,
-     "dato": "marca 1,8 por partido y el rival encaja 1,2",
-     "nota": 0.8768104519080898,
-     "partido": "Tottenham–Ipswich",
-     "hora": "2026-11-21T16:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/47.png",
-     "logo_v": "https://media.api-sports.io/football/teams/57.png"
+     "p": 0.792,
+     "dato": "marca 2,3 por partido y el rival encaja 3,6",
+     "nota": 0.8868485295433997,
+     "partido": "Monaco–Auxerre",
+     "hora": "2026-11-21T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/91.png",
+     "logo_v": "https://media.api-sports.io/football/teams/108.png"
     },
     {
      "sel": "1550204|Total - Away|Over 0.5",
@@ -2571,7 +2525,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     }
    ],
-   "cuota": 8.43,
+   "cuota": 9.03,
    "prob": 0.319
   },
   {
@@ -2592,6 +2546,19 @@
      "liga": "Bundesliga",
      "logo_l": "https://media.api-sports.io/football/teams/168.png",
      "logo_v": "https://media.api-sports.io/football/teams/185.png"
+    },
+    {
+     "sel": "1575223|Away Corners Over/Under|Over 4.5",
+     "texto": "1899 Hoffenheim: más de 4,5 córners",
+     "cuota": 1.67,
+     "p": 0.715,
+     "dato": "1899 Hoffenheim saca 7,5 córners y el rival concede 4,5",
+     "nota": 0.7779213219189817,
+     "partido": "Eintracht Frankfurt–1899 Hoffenheim",
+     "hora": "2026-11-21T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/169.png",
+     "logo_v": "https://media.api-sports.io/football/teams/167.png"
     },
     {
      "sel": "1557467|Away Corners Over/Under|Over 3.5",
@@ -2618,23 +2585,10 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/496.png",
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-     "sel": "1575224|Away Corners Over/Under|Over 4.5",
-     "texto": "FSV Mainz 05: más de 4,5 córners",
-     "cuota": 1.67,
-     "p": 0.701,
-     "dato": "FSV Mainz 05 saca 6,0 córners y el rival concede 5,8",
-     "nota": 0.7529501162924278,
-     "partido": "FC Augsburg–FSV Mainz 05",
-     "hora": "2026-11-22T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/170.png",
-     "logo_v": "https://media.api-sports.io/football/teams/164.png"
     }
    ],
    "cuota": 7.55,
-   "prob": 0.282
+   "prob": 0.287
   },
   {
    "clave": "tarjetas",
@@ -2669,17 +2623,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
     },
     {
-     "sel": "1575228|ShotOnTarget 1x2|Away",
-     "texto": "VfB Stuttgart remata más a puerta",
+     "sel": "1550204|Home Team Total Cards|Over 0.5",
+     "texto": "Napoli ve más de 0,5 tarjetas",
      "cuota": 1.53,
-     "p": 0.717,
-     "dato": "5,8 remates a puerta de VfB Stuttgart contra 3,5 del rival",
-     "nota": 0.7586973269030223,
-     "partido": "FC Schalke 04–VfB Stuttgart",
-     "hora": "2026-11-21T18:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/174.png",
-     "logo_v": "https://media.api-sports.io/football/teams/172.png"
+     "p": 0.788,
+     "dato": "Napoli ve 1,7 amarillas por partido",
+     "nota": 0.8843823261957985,
+     "partido": "Napoli–Torino",
+     "hora": "2026-11-21T20:45",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/492.png",
+     "logo_v": "https://media.api-sports.io/football/teams/503.png"
     },
     {
      "sel": "1570458|ShotOnTarget 1x2|Home",
@@ -2696,7 +2650,7 @@
     }
    ],
    "cuota": 5.35,
-   "prob": 0.342
+   "prob": 0.376
   },
   {
    "clave": "larga",
@@ -2704,6 +2658,19 @@
    "expl": "10 patas para soñar, con lo que queda",
    "liga": "Varias",
    "patas": [
+    {
+     "sel": "1575225|Total - Home|Over 0.5",
+     "texto": "Union Berlin marca",
+     "cuota": 1.4,
+     "p": 0.821,
+     "dato": "marca 1,2 por partido y el rival encaja 2,5",
+     "nota": 0.8763484086334166,
+     "partido": "Union Berlin–RB Leipzig",
+     "hora": "2026-11-21T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/182.png",
+     "logo_v": "https://media.api-sports.io/football/teams/173.png"
+    },
     {
      "sel": "1575226|Player Fouls Committed|Waldemar Anton - 1",
      "texto": "Waldemar Anton: comete 1+ falta",
@@ -2720,34 +2687,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
-     "sel": "1575225|Away Player Shots|Ridle Baku - 1",
-     "texto": "Ridle Baku: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,48 por 90' (1-2-1-2-0-2)",
-     "nota": 0.864,
-     "equipo": "RB Leipzig",
-     "lado": "V",
-     "partido": "Union Berlin–RB Leipzig",
-     "hora": "2026-11-21T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/182.png",
-     "logo_v": "https://media.api-sports.io/football/teams/173.png"
-    },
-    {
-     "sel": "1557467|Player Fouls Committed|George Hemmings - 2",
-     "texto": "George Hemmings: comete 2+ faltas",
-     "cuota": 1.67,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,78 por 90' (0-2-2-2-2)",
-     "nota": 0.8684642857142858,
-     "equipo": "Aston Villa",
-     "lado": "L",
-     "partido": "Aston Villa–Sunderland",
+     "sel": "1557476|Total - Away|Over 0.5",
+     "texto": "Ipswich marca",
+     "cuota": 1.5,
+     "p": 0.787,
+     "dato": "marca 1,8 por partido y el rival encaja 1,2",
+     "nota": 0.8768104519080898,
+     "partido": "Tottenham–Ipswich",
      "hora": "2026-11-21T16:00",
      "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/66.png",
-     "logo_v": "https://media.api-sports.io/football/teams/746.png"
+     "logo_l": "https://media.api-sports.io/football/teams/47.png",
+     "logo_v": "https://media.api-sports.io/football/teams/57.png"
     },
     {
      "sel": "1557468|Player Fouls Committed|Dan Ndoye - 1",
@@ -2765,25 +2715,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/65.png"
     },
     {
-     "sel": "1570460|Goals Over/Under First Half|Over 0.5",
-     "texto": "Gol en la 1ª parte",
-     "cuota": 1.4,
-     "p": 0.808,
-     "dato": "1,6 goles de media en las primeras partes de los dos",
-     "nota": 0.853515155344718,
-     "partido": "Rayo Vallecano–Valencia",
-     "hora": "2026-11-21T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/728.png",
-     "logo_v": "https://media.api-sports.io/football/teams/532.png"
-    },
-    {
      "sel": "1552824|Away Player Shots|Achraf Hakimi - 2",
      "texto": "Achraf Hakimi: 2+ remates",
-     "cuota": 1.57,
+     "cuota": 1.67,
      "p": 0.764,
      "dato": "cumple 4/5 siendo titular · 2,22 por 90' (1-2-2-2-3)",
-     "nota": 0.8502500000000002,
+     "nota": 0.8684642857142858,
      "equipo": "Paris Saint Germain",
      "lado": "V",
      "partido": "Nice–Paris Saint Germain",
@@ -2823,11 +2760,26 @@
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
-     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
-     "texto": "Eljif Elmas: comete 1+ falta",
+     "sel": "1550206|Player Fouls Committed|Junior Messias - 1",
+     "texto": "Junior Messias: comete 1+ falta",
+     "cuota": 1.67,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,43 por 90' (2-2-0-1-1)",
+     "nota": 0.8684642857142858,
+     "equipo": "Genoa",
+     "lado": "V",
+     "partido": "Sassuolo–Genoa",
+     "hora": "2026-11-22T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/488.png",
+     "logo_v": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+     "sel": "1550198|Player Fouls Committed|Gianluca Gaetano - 1",
+     "texto": "Gianluca Gaetano: comete 1+ falta",
      "cuota": 1.5,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
+     "dato": "cumple 5/6 siendo titular · 1,36 por 90' (1-1-2-2-2-0)",
      "nota": 0.9000000000000001,
      "equipo": "Atalanta",
      "lado": "L",
@@ -2853,7 +2805,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     }
    ],
-   "cuota": 51.14,
+   "cuota": 56.66,
    "prob": 0.099
   }
  ],
