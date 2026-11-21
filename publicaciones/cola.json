@@ -9958,5 +9958,20 @@
     "verde_de": "2026-11-21-pick-seguro-4",
     "enviado": "2026-11-21T22:04",
     "mensaje_id": 585
+  },
+  {
+    "id": "2026-11-21-balance-auto",
+    "fecha": "2026-11-21T23:51",
+    "texto": "📊 RESUMEN DEL SÁBADO 🍀\n\n✅ 4 de 5 picks en verde\n💶 10 € a cada pick → +14,00 €\n\n😤 Se nos escaparon:\n🔸 Gana el Aston Villa @1,75 · Aston Villa 0–0 Sunderland\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-21-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "requiere_ok": true,
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
   }
 ]

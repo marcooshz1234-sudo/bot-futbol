@@ -1,70 +1,11 @@
 {
  "dia": "2026-11-21",
- "generado": "2026-11-21T21:54+01:00",
+ "generado": "2026-11-21T23:50+01:00",
  "rango": [
   "2026-11-21",
   "2026-11-24"
  ],
  "combis": [
-  {
-   "liga": "LaLiga",
-   "patas": [
-    {
-     "sel": "1570455|Total - Away|Over 0.5",
-     "texto": "Villarreal marca",
-     "cuota": 1.4,
-     "p": 0.784,
-     "dato": "marca 2,1 por partido y el rival encaja 1,0",
-     "nota": 0.8134890247551745,
-     "partido": "Barcelona–Villarreal",
-     "hora": "2026-11-22T14:00",
-     "logo_l": "https://media.api-sports.io/football/teams/529.png",
-     "logo_v": "https://media.api-sports.io/football/teams/533.png"
-    },
-    {
-     "sel": "1570458|Player Fouls Committed|Abel Bretones - 1",
-     "texto": "Abel Bretones: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,17 por 90' (1-1-1-1-2-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Osasuna",
-     "lado": "L",
-     "partido": "Osasuna–Malaga",
-     "hora": "2026-11-22T18:30",
-     "logo_l": "https://media.api-sports.io/football/teams/727.png",
-     "logo_v": "https://media.api-sports.io/football/teams/535.png"
-    },
-    {
-     "sel": "1570456|Home Player Shots|Martin Satriano - 2",
-     "texto": "Martin Satriano: 2+ remates",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,46 por 90' (2-2-3-1-3-3)",
-     "nota": 0.934,
-     "equipo": "Getafe",
-     "lado": "L",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/546.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
-    },
-    {
-     "sel": "1570457|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.57,
-     "p": 0.723,
-     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
-     "nota": 0.7761154352525691,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    }
-   ],
-   "cuota": 5.29,
-   "media": 0.8813011150019359
-  },
   {
    "liga": "Serie A",
    "patas": [
@@ -240,38 +181,6 @@
  ],
  "equipos": [
   {
-   "equipo": "Villarreal",
-   "liga": "LaLiga",
-   "partido": "Barcelona–Villarreal",
-   "hora": "2026-11-22T14:00",
-   "logo": "https://media.api-sports.io/football/teams/533.png",
-   "patas": [
-    {
-     "sel": "1570455|Total - Away|Over 0.5",
-     "texto": "Villarreal marca",
-     "cuota": 1.4,
-     "p": 0.784,
-     "dato": "marca 2,1 por partido y el rival encaja 1,0",
-     "nota": 0.8134890247551745,
-     "partido": "Barcelona–Villarreal",
-     "hora": "2026-11-22T14:00"
-    },
-    {
-     "sel": "1570455|Away Player Shots|Nicolas Pepe - 2",
-     "texto": "Nicolas Pepe: 2+ remates",
-     "cuota": 1.4,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,18 por 90' (2-1-2-3-2)",
-     "nota": 0.7792857142857144,
-     "equipo": "Villarreal",
-     "lado": "V",
-     "partido": "Barcelona–Villarreal",
-     "hora": "2026-11-22T14:00"
-    }
-   ],
-   "cuota": 1.96
-  },
-  {
    "equipo": "Osasuna",
    "liga": "LaLiga",
    "partido": "Osasuna–Malaga",
@@ -401,19 +310,9 @@
      "lado": "L",
      "partido": "Juventus–Venezia",
      "hora": "2026-11-22T12:30"
-    },
-    {
-     "sel": "1550201|Home Team Total Cards|Over 0.5",
-     "texto": "Juventus ve más de 0,5 tarjetas",
-     "cuota": 1.5,
-     "p": 0.713,
-     "dato": "Juventus ve 1,3 amarillas por partido",
-     "nota": 0.7486166054946672,
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30"
     }
    ],
-   "cuota": 3.02
+   "cuota": 2.02
   },
   {
    "equipo": "Venezia",
@@ -1518,19 +1417,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1570455|Total - Away|Over 0.5",
-     "texto": "Villarreal marca",
-     "cuota": 1.4,
-     "p": 0.784,
-     "dato": "marca 2,1 por partido y el rival encaja 1,0",
-     "nota": 0.8134890247551745,
-     "partido": "Barcelona–Villarreal",
-     "hora": "2026-11-22T14:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/529.png",
-     "logo_v": "https://media.api-sports.io/football/teams/533.png"
-    },
-    {
      "sel": "1575224|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
      "cuota": 1.57,
@@ -1583,8 +1469,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     }
    ],
-   "cuota": 8.01,
-   "prob": 0.194
+   "cuota": 5.72,
+   "prob": 0.247
   },
   {
    "clave": "larga",
@@ -1606,21 +1492,6 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/496.png",
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-     "sel": "1570455|Away Player Shots|Nicolas Pepe - 2",
-     "texto": "Nicolas Pepe: 2+ remates",
-     "cuota": 1.4,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 2,18 por 90' (2-1-2-3-2)",
-     "nota": 0.7792857142857144,
-     "equipo": "Villarreal",
-     "lado": "V",
-     "partido": "Barcelona–Villarreal",
-     "hora": "2026-11-22T14:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/529.png",
-     "logo_v": "https://media.api-sports.io/football/teams/533.png"
     },
     {
      "sel": "1550206|Double Chance|Home/Draw",
@@ -1707,8 +1578,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     }
    ],
-   "cuota": 21.81,
-   "prob": 0.098
+   "cuota": 15.58,
+   "prob": 0.128
   }
  ],
  "otras_ligas": false,

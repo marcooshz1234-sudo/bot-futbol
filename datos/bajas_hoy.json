@@ -9813,6 +9813,18 @@
   "1550206": [
    {
     "equipo": 488,
+    "jugador": "V. Adzic",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 488,
+    "jugador": "D. Boloca",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 488,
     "jugador": "I. Kone",
     "tipo": "Missing Fixture",
     "motivo": "Broken Leg"
@@ -9825,20 +9837,8 @@
    },
    {
     "equipo": 488,
-    "jugador": "V. Adzic",
-    "tipo": "Questionable",
-    "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 488,
-    "jugador": "D. Berardi",
-    "tipo": "Questionable",
-    "motivo": "Inactive"
-   },
-   {
-    "equipo": 488,
-    "jugador": "D. Boloca",
-    "tipo": "Questionable",
+    "jugador": "C. Volpato",
+    "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
    },
    {
@@ -9846,12 +9846,6 @@
     "jugador": "Y. Paz",
     "tipo": "Questionable",
     "motivo": "Knee Injury"
-   },
-   {
-    "equipo": 488,
-    "jugador": "C. Volpato",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 495,
@@ -10350,9 +10344,9 @@
    },
    {
     "equipo": 727,
-    "jugador": "A. Oroz",
-    "tipo": "Questionable",
-    "motivo": "Hamstring Injury"
+    "jugador": "R. Yeboah",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
    },
    {
     "equipo": 535,
@@ -10502,7 +10496,7 @@
   "1570026": [],
   "1647592": []
  },
- "ultima": "2026-11-21T21:49:25.780247+01:00",
+ "ultima": "2026-11-21T23:42:52.796886+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

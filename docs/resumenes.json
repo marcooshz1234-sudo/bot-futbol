@@ -2938,8 +2938,8 @@
     "cuentas": {
       "verde": 4,
       "rojo": 27,
-      "pendiente": 1,
-      "sin_datos": 0,
+      "pendiente": 0,
+      "sin_datos": 1,
       "no_jugo": 0,
       "sin_resolver": 1
     },
@@ -3115,7 +3115,7 @@
       {
         "id": "2026-11-21-loca-th-noche-2130-x100",
         "titulo": "🤑 COMBI POR 29,80 🤑",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 29.8
       },
       {
@@ -3142,18 +3142,18 @@
       "rojo": 52,
       "total": 108
     },
-    "texto": "📊 BALANCE DEL VIERNES: 4 DE 31 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 2,21\n❌ 🎰 COMBI x28,12 🎰 · 28,12\n❌ ⏰ TODO A LAS 20:30 ⏰ · 2,82\n❌ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79\n❌ 🧨 COMBI x43,74 🧨 · 43,74\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🤝 LA COMBI DE LOS EMPATES 🤝 · 32,67\n❌ 💶 RETO: DE 1€ A 78,94€ 💶 · 78,94\n❌ Pick de hoy, con datos detrás 📊\n❌ 🪜 Reto escalera · Día 4/7\n❌ 🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯 · 9,53\n✅ 🚨 COMBI FC BOTOSANI – FC VOLUNTARI 🚨 · 3,20\n❌ 💥 COMBI AARHUS FREMAD – HOBRO 💥 · 3,57\n❌ 🔥 COMBI ESTAC TROYES – LE HAVRE 🔥 · 4,09\n✅ Otro pick que nos gusta mucho familia 🔥\n❌ 🚨 COMBI FC ANDORRA – LEGANES 🚨 · 5,59\n❌ Pick de la tarde, familia 👇\n❌ 🚨 COMBI ATHLETIC CLUB – ESPANYOL 🚨 · 4,41\n✅ Pick que no podía faltar hoy ⚽\n❌ 🤑 LA MILLONARIA x93,04 🤑 · 93,04\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 88,87\n✅ Pick para esta noche 👇\n❌ Otro pick para la noche ⚽\n❌ Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n⏳ 🤑 COMBI POR 29,80 🤑 · 29,80 · pendiente\n❌ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,40\n❌ ⚽ AMBOS MARCAN MAÑANA ⚽\n❌ ⚡ COMBI NEC NIJMEGEN – PSV EINDHOVEN ⚡ · 10,52\n\n✅ 4 acertadas · ❌ 27 falladas · ⏳ 1 sin resolver"
+    "texto": "📊 BALANCE DEL VIERNES: 4 DE 31 EN VERDE 📊\n\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💰🚀 COMBI POR 29,31 💰🚀 · 29,31\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 77,02\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ 🤺 EL DUELO DE TIROS 🤺 · 2,21\n❌ 🎰 COMBI x28,12 🎰 · 28,12\n❌ ⏰ TODO A LAS 20:30 ⏰ · 2,82\n❌ 🕵️ LA DE LOS TAPADOS 🕵️ · 12,79\n❌ 🧨 COMBI x43,74 🧨 · 43,74\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🤝 LA COMBI DE LOS EMPATES 🤝 · 32,67\n❌ 💶 RETO: DE 1€ A 78,94€ 💶 · 78,94\n❌ Pick de hoy, con datos detrás 📊\n❌ 🪜 Reto escalera · Día 4/7\n❌ 🎯 COMBI DE TIROS · FC ANDORRA vs LEGANES 🎯 · 9,53\n✅ 🚨 COMBI FC BOTOSANI – FC VOLUNTARI 🚨 · 3,20\n❌ 💥 COMBI AARHUS FREMAD – HOBRO 💥 · 3,57\n❌ 🔥 COMBI ESTAC TROYES – LE HAVRE 🔥 · 4,09\n✅ Otro pick que nos gusta mucho familia 🔥\n❌ 🚨 COMBI FC ANDORRA – LEGANES 🚨 · 5,59\n❌ Pick de la tarde, familia 👇\n❌ 🚨 COMBI ATHLETIC CLUB – ESPANYOL 🚨 · 4,41\n✅ Pick que no podía faltar hoy ⚽\n❌ 🤑 LA MILLONARIA x93,04 🤑 · 93,04\n❌ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 88,87\n✅ Pick para esta noche 👇\n❌ Otro pick para la noche ⚽\n❌ Hoy hay partidazo: Athletic Club 🆚 Espanyol 🇪🇸⭐\n❔ 🤑 COMBI POR 29,80 🤑 · 29,80 · faltan datos\n❌ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,40\n❌ ⚽ AMBOS MARCAN MAÑANA ⚽\n❌ ⚡ COMBI NEC NIJMEGEN – PSV EINDHOVEN ⚡ · 10,52\n\n✅ 4 acertadas · ❌ 27 falladas · ⏳ 1 sin resolver"
   },
   "2026-11-21": {
     "dia": "2026-11-21",
-    "total": 31,
+    "total": 32,
     "cuentas": {
       "verde": 3,
       "rojo": 22,
-      "pendiente": 6,
-      "sin_datos": 0,
+      "pendiente": 4,
+      "sin_datos": 3,
       "no_jugo": 0,
-      "sin_resolver": 6
+      "sin_resolver": 7
     },
     "combis": [
       {
@@ -3183,7 +3183,7 @@
       {
         "id": "2026-11-21-ganadores-seriea",
         "titulo": "🏆 SERIE A - GANADORES",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -3303,13 +3303,13 @@
       {
         "id": "2026-11-21-boleto-personal",
         "titulo": "🎯 MI COMBINADA PERSONAL DE HOY 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-21-boleto-personal-th",
         "titulo": "🎯 MI COMBINADA PERSONAL · x24 🔥",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 23.97
       },
       {
@@ -3341,13 +3341,19 @@
         "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
         "estado": "pendiente",
         "cuota": 35.12
+      },
+      {
+        "id": "2026-11-22-loca-th-noche-2330-escudos",
+        "titulo": "⚡ COMBI BARCELONA – VILLARREAL ⚡",
+        "estado": "pendiente",
+        "cuota": 5.59
       }
     ],
     "picks": {
-      "verde": 62,
+      "verde": 61,
       "rojo": 42,
-      "total": 138
+      "total": 144
     },
-    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 25 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n❌ 🎰 COMBI POR 41,03 🎰 · 41,03\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40\n❌ 🏆 PREMIER LEAGUE - GANADORES\n⏳ 🏆 SERIE A - GANADORES · pendiente\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14\n❌ 🧨 LA DE x14,51 🧨 · 14,51\n❌ 🕘 TODO A LAS 15:30 🕘 · 8,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 8,13\n❌ 🧨 LA LOCURA DE x40,91 🧨 · 40,91\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 4,49\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI CHELSEA – LEEDS 🚨 · 10,49\n✅ Pick que nos gusta mucho para hoy 👀\n✅ 🪜 Reto escalera · Día 1/7\n❌ 🔥 COMBI TOTTENHAM – IPSWICH 🔥 · 13,88\n❌ 💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥 · 6,27\n❌ 🔥 COMBI BORUSSIA MÖNCHENGLADBACH – BORUSSIA DORTMUND 🔥 · 14,52\n❌ Vamos con la combi del día familia 🔥\n✅ Este lo tenemos claro 🔥\n❌ Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ Vamos con la combi del sábado familia 🔥\n⏳ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · pendiente\n⏳ 🎯 MI COMBINADA PERSONAL · x24 🔥 · 23,97 · pendiente\n⏳ 🚨 COMBI PARMA – AS ROMA 🚨 · 13,67 · pendiente\n❌ 🔥 COMBI NICE – PARIS SAINT GERMAIN 🔥 · 11,24\n❌ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 36,46\n⏳ 🤑💸 LA CENTENARIA x48,76 🤑💸 · 48,76 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 35,12 · pendiente\n\n✅ 3 acertadas · ❌ 22 falladas · ⏳ 6 sin resolver"
+    "texto": "📊 BALANCE DEL SÁBADO: 3 DE 25 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n❌ 🎰 COMBI POR 41,03 🎰 · 41,03\n❌ ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆 · 35,40\n❌ 🏆 PREMIER LEAGUE - GANADORES\n❔ 🏆 SERIE A - GANADORES · faltan datos\n❌ ⚽ AMBOS MARCAN HOY ⚽\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,14\n❌ 🧨 LA DE x14,51 🧨 · 14,51\n❌ 🕘 TODO A LAS 15:30 🕘 · 8,74\n❌ 🐶 LA DE LOS TAPADOS 🐶 · 8,13\n❌ 🧨 LA LOCURA DE x40,91 🧨 · 40,91\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 💥 COMBI MANCHESTER CITY – FULHAM 💥 · 4,49\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI CHELSEA – LEEDS 🚨 · 10,49\n✅ Pick que nos gusta mucho para hoy 👀\n✅ 🪜 Reto escalera · Día 1/7\n❌ 🔥 COMBI TOTTENHAM – IPSWICH 🔥 · 13,88\n❌ 💥 COMBI BAYER LEVERKUSEN – SC PADERBORN 07 💥 · 6,27\n❌ 🔥 COMBI BORUSSIA MÖNCHENGLADBACH – BORUSSIA DORTMUND 🔥 · 14,52\n❌ Vamos con la combi del día familia 🔥\n✅ Este lo tenemos claro 🔥\n❌ Hoy hay partidazo: Manchester City 🆚 Fulham 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ Vamos con la combi del sábado familia 🔥\n❔ 🎯 MI COMBINADA PERSONAL DE HOY 🔥 · faltan datos\n❔ 🎯 MI COMBINADA PERSONAL · x24 🔥 · 23,97 · faltan datos\n⏳ 🚨 COMBI PARMA – AS ROMA 🚨 · 13,67 · pendiente\n❌ 🔥 COMBI NICE – PARIS SAINT GERMAIN 🔥 · 11,24\n❌ 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨 · 36,46\n⏳ 🤑💸 LA CENTENARIA x48,76 🤑💸 · 48,76 · pendiente\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 35,12 · pendiente\n⏳ ⚡ COMBI BARCELONA – VILLARREAL ⚡ · 5,59 · pendiente\n\n✅ 3 acertadas · ❌ 22 falladas · ⏳ 7 sin resolver"
   }
 }

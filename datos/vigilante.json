@@ -138,63 +138,46 @@
   "redes-2026-11-21-loca-th-1940-x50-threads": "2026-11-21T21:25",
   "redes-2026-11-21-loca-th-2000-tapados-threads": "2026-11-21T21:25",
   "redes-2026-11-21-loca-th-2020-lista-corners-threads": "2026-11-21T21:25",
-  "foto-2026-11-21-verde-auto-2026-11-21-pick-seguro": "2026-11-21T21:36"
+  "foto-2026-11-21-verde-auto-2026-11-21-pick-seguro": "2026-11-21T21:36",
+  "redes-2026-11-21-verde-auto-2026-11-21-pick-seguro-4-threads-instagram": "2026-11-21T23:51",
+  "cuotabaja-2026-11-23-semana-europa": "2026-11-21T23:51",
+  "redes-2026-11-22-loca-th-noche-2230-lista-ambos-threads": "2026-11-21T23:51"
  },
  "abiertos": [
   {
-   "clave": "redes-2026-11-21-loca-th-1700-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (17:00): 💥 COMBI NAPOLI – TORINO 💥"
+   "clave": "redes-2026-11-21-verde-auto-2026-11-21-pick-seguro-4-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (22:04): PARA DENTRO SEÑORES ✅🤑"
   },
   {
-   "clave": "redes-2026-11-21-loca-th-1720-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (17:20): 💥 COMBI REAL MADRID – CELTA VIGO 💥"
+   "clave": "cuotabaja-2026-11-23-semana-europa",
+   "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "redes-2026-11-21-loca-th-1840-duelo-threads",
-   "t": "⏰ No ha salido en threads (18:40): 🥊 EL DUELO DE TIROS 🥊"
-  },
-  {
-   "clave": "redes-2026-11-21-loca-th-1900-x100-threads",
-   "t": "⏰ No ha salido en threads (19:00): 🤑 COMBI POR 86,53 🤑"
-  },
-  {
-   "clave": "redes-2026-11-21-loca-th-1920-hora-threads",
-   "t": "⏰ No ha salido en threads (19:20): ⏳ TODO A LAS 20:45 ⏳"
-  },
-  {
-   "clave": "redes-2026-11-21-loca-th-1940-x50-threads",
-   "t": "⏰ No ha salido en threads (19:40): 🤑 COMBI x42,38 🤑"
-  },
-  {
-   "clave": "redes-2026-11-21-loca-th-2000-tapados-threads",
-   "t": "⏰ No ha salido en threads (20:00): 🫣 LA DE LOS TAPADOS 🫣"
-  },
-  {
-   "clave": "redes-2026-11-21-loca-th-2020-lista-corners-threads",
-   "t": "⏰ No ha salido en threads (20:20): 🚩 CÓRNERS DEL DÍA 🚩"
+   "clave": "redes-2026-11-22-loca-th-noche-2230-lista-ambos-threads",
+   "t": "⏰ No ha salido en threads (22:30): ⚽ AMBOS MARCAN MAÑANA ⚽"
   },
   {
    "clave": "repe-2026-11-21-1550204|Away Corners Over/Under|Over 2.5",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (boleto-personal, boleto-personal-th, loca-th-2020-lista-corners)"
   },
   {
-   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
-  },
-  {
-   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
-  },
-  {
    "clave": "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1720-escudos, loca-th-1900-x100)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552826|To Win Either Half|Home",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1900-x100, loca-th-1940-x50)"
   },
   {
    "clave": "repe-2026-11-21-1552826|Both Teams Score|Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-1820-lista-ambos, loca-th-1900-x100)"
   },
   {
-   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
+   "clave": "repe-2026-11-21-1552820|Double Chance|Draw/Away",
+   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0700-tapados, loca-th-2000-tapados)"
+  },
+  {
+   "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -202,7 +185,7 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes",
+   "clave": "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)"
   },
   {
@@ -218,8 +201,23 @@
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)"
   }
  ],
- "revisado": "2026-11-21T22:07",
+ "revisado": "2026-11-21T23:51",
  "historial": [
+  {
+   "hora": "2026-11-21T23:51",
+   "t": "⏰ No ha salido en threads ni instagram (22:04): PARA DENTRO SEÑORES ✅🤑",
+   "k": "redes-2026-11-21-verde-auto-2026-11-21-pick-seguro-4-threads-instagram"
+  },
+  {
+   "hora": "2026-11-21T23:51",
+   "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)",
+   "k": "cuotabaja-2026-11-23-semana-europa"
+  },
+  {
+   "hora": "2026-11-21T23:51",
+   "t": "⏰ No ha salido en threads (22:30): ⚽ AMBOS MARCAN MAÑANA ⚽",
+   "k": "redes-2026-11-22-loca-th-noche-2230-lista-ambos-threads"
+  },
   {
    "hora": "2026-11-21T21:36",
    "t": "🖼️ Sale a las 21:44 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑",
@@ -504,21 +502,6 @@
    "hora": "2026-11-20T18:05",
    "t": "⏰ No ha salido en instagram (17:40): Pick que no podía faltar hoy ⚽",
    "k": "redes-2026-11-20-pick-tip-1448-instagram"
-  },
-  {
-   "hora": "2026-11-20T14:54",
-   "t": "⏰ No ha salido en threads ni instagram (14:30): 🔥⚽ COMBILOCAS — ¡COMBI DE 8 PARTIDOS x26,30! 🍀",
-   "k": "redes-2026-11-20-combi-multi-threads-instagram"
-  },
-  {
-   "hora": "2026-11-20T14:44",
-   "t": "🔁 20/11: el mismo pronóstico en 3 posts (escalera-b, pick-seguro, escalera)",
-   "k": "repe-2026-11-20-1570025|Total - Home|Over 1.5"
-  },
-  {
-   "hora": "2026-11-20T14:33",
-   "t": "📰 Sevilla–Real Betis: «Dani Ceballos se pierde el derbi ante el Sevilla FC» (Sevilla Actualidad) · tenemos 1 post(s) de este partido: ganadores-laliga",
-   "k": "prensa-1570462-d1f6831e"
   }
  ]
 }
