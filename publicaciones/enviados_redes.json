@@ -3064,5 +3064,15 @@
    "threads": "18111151462957449",
    "instagram": "18248902156311258"
   }
+ },
+ "2026-11-21-combi-500": {
+  "redes": {
+   "instagram_reel": null,
+   "instagram": "18139898470711406",
+   "instagram_story": "18178852132459122"
+  },
+  "errores_redes": {
+   "threads": "767 caracteres (máx. 500)"
+  }
  }
 }
