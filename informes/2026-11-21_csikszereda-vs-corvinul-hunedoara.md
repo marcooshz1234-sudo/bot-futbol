@@ -1,10 +1,10 @@
 # Csikszereda – Corvinul Hunedoara
 **Liga I** · Regular Season - 16 · 21/11/2026 14:00 (hora España) · Stadionul Municipal
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
 - **1X2:** 1 **3.80**  ·  X **3.40**  ·  2 **1.85**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.22**
@@ -49,7 +49,7 @@ _Actualizadas: 20/11 20:06_
     - 3,5: más **1.73** · menos **2.00**
 - **Away Corners Over/Under:**
     - 5,5: más **2.00** · menos **1.73**
-- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.10**  ·  Menos de 4 **2.40**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.50**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 
 ## Estadísticas de equipo
 | | Csikszereda (total) | Csikszereda en casa | Corvinul Hunedoara (total) | Corvinul Hunedoara fuera |

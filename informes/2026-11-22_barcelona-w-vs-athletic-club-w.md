@@ -1,10 +1,10 @@
 # Barcelona W – Athletic Club W
 **Liga F** · Regular Season - 12 · 22/11/2026 19:00 (hora España) · Estadi Johan Cruyff
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:07_
+_Actualizadas: 21/11 02:18_
 
 - **1X2:** 1 **1.03**  ·  X **15.00**  ·  2 **41.00**
 - **Ambos marcan:** Sí **3.50**  ·  No **1.28**

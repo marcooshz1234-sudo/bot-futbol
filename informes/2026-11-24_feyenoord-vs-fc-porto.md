@@ -1,7 +1,7 @@
 # Feyenoord – FC Porto
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 20:08_
@@ -51,21 +51,21 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | Feyenoord (total) | Feyenoord en casa | FC Porto (total) | FC Porto fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 15 | 7 |
-| Forma (últimos 5) | DDEED | DEVVV | VVVVD | VVDVV |
-| Balance | 8V 4E 4D | 3V 3E 1D | 12V 0E 3D | 6V 0E 1D |
-| Goles a favor / partido | 2,50 | 2,14 | 2,20 | 2,29 |
-| Goles en contra / partido | 1,75 | 1,43 | 0,80 | 0,86 |
-| Goles a favor 1ª parte | 1,25 | 1,00 | 0,87 | 1,00 |
-| Goles a favor 2ª parte | 1,25 | 1,14 | 1,33 | 1,29 |
-| Goles en contra 1ª parte | 0,62 | 0,57 | 0,27 | 0,29 |
-| Goles en contra 2ª parte | 1,12 | 0,86 | 0,53 | 0,57 |
-| Más de 1,5 goles | 88% | 100% | 87% | 86% |
-| Más de 2,5 goles | 69% | 71% | 60% | 71% |
-| Más de 3,5 goles | 62% | 57% | 33% | 29% |
-| Ambos marcan | 62% | 57% | 47% | 57% |
-| Portería a cero | 25% | 29% | 40% | 43% |
-| Se queda sin marcar | 12% | 14% | 13% | 0% |
+| Partidos analizados | 16 | 7 | 16 | 7 |
+| Forma (últimos 5) | DDEED | DEVVV | EVVVV | VVDVV |
+| Balance | 8V 4E 4D | 3V 3E 1D | 12V 1E 3D | 6V 0E 1D |
+| Goles a favor / partido | 2,50 | 2,14 | 2,12 | 2,29 |
+| Goles en contra / partido | 1,75 | 1,43 | 0,81 | 0,86 |
+| Goles a favor 1ª parte | 1,25 | 1,00 | 0,88 | 1,00 |
+| Goles a favor 2ª parte | 1,25 | 1,14 | 1,25 | 1,29 |
+| Goles en contra 1ª parte | 0,62 | 0,57 | 0,25 | 0,29 |
+| Goles en contra 2ª parte | 1,12 | 0,86 | 0,56 | 0,57 |
+| Más de 1,5 goles | 88% | 100% | 88% | 86% |
+| Más de 2,5 goles | 69% | 71% | 56% | 71% |
+| Más de 3,5 goles | 62% | 57% | 31% | 29% |
+| Ambos marcan | 62% | 57% | 50% | 57% |
+| Portería a cero | 25% | 29% | 38% | 43% |
+| Se queda sin marcar | 12% | 14% | 12% | 0% |
 | xG a favor | 2,08 | 2,15 | 1,96 | 1,71 |
 | xG en contra | 1,20 | 0,94 | 1,09 | 0,88 |
 | Tiros / partido | 16,8 | 19,6 | 15,1 | 12,9 |
@@ -94,10 +94,10 @@ _Actualizadas: 20/11 20:08_
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 3 | 1 | 5 | 0 | 1 |
 | 16-30' | 7 | 4 | 2 | 1 | 2 | 0 |
-| 31-45' | 9 | 3 | 5 | 7 | 2 | 7 |
-| 46-60' | 8 | 6 | 4 | 5 | 4 | 3 |
+| 31-45' | 9 | 3 | 5 | 8 | 2 | 8 |
+| 46-60' | 8 | 6 | 4 | 5 | 5 | 3 |
 | 61-75' | 8 | 4 | 6 | 8 | 1 | 3 |
-| 76-90' | 4 | 8 | 2 | 7 | 3 | 6 |
+| 76-90' | 4 | 8 | 2 | 7 | 3 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -145,12 +145,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de FC Porto
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | Taça de Portugal | FC Porto 1-1 Paredes | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Primeira Liga | Vitória SC 1-2 FC Porto | fuera | 5-4 | 12 (4) - 16 (6) | 4-2 |
 | 2026-11-04 | Champions League | FC Porto 4-1 Napoli | casa | 5-5 | 19 (8) - 11 (6) | 1-4 |
 | 2026-10-31 | Primeira Liga | FC Porto 4-0 Estoril | casa | 8-0 | 24 (11) - 7 (0) | 1-0 |
 | 2026-10-24 | Primeira Liga | GIL Vicente 0-1 FC Porto | fuera | 8-3 | 12 (4) - 10 (2) | 1-0 |
 | 2026-10-20 | Champions League | FC Porto 0-1 PSV Eindhoven | casa | 2-3 | 14 (4) - 18 (3) | 0-2 |
-| 2026-10-14 | Champions League | Real Betis 3-2 FC Porto | fuera | 1-5 | 11 (5) - 17 (7) | 3-4 |
 
 ## Jugadores de FC Porto
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

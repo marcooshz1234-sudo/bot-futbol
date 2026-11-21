@@ -1,7 +1,7 @@
 # Lille – Bayern München
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Stade Pierre-Mauroy
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 08:27_
@@ -54,52 +54,52 @@ _Actualizadas: 20/11 08:27_
 ## Estadísticas de equipo
 | | Lille (total) | Lille en casa | Bayern München (total) | Bayern München fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 15 | 8 |
-| Forma (últimos 5) | VEVED | VDEVV | VVEVV | VVVEE |
-| Balance | 6V 4E 4D | 3V 2E 2D | 10V 5E 0D | 5V 3E 0D |
-| Goles a favor / partido | 1,29 | 1,57 | 3,40 | 2,25 |
-| Goles en contra / partido | 1,21 | 1,43 | 1,07 | 1,12 |
-| Goles a favor 1ª parte | 0,79 | 1,00 | 1,13 | 0,75 |
-| Goles a favor 2ª parte | 0,50 | 0,57 | 2,27 | 1,50 |
-| Goles en contra 1ª parte | 0,43 | 0,57 | 0,40 | 0,50 |
-| Goles en contra 2ª parte | 0,79 | 0,86 | 0,67 | 0,62 |
-| Más de 1,5 goles | 71% | 71% | 93% | 88% |
-| Más de 2,5 goles | 43% | 43% | 87% | 75% |
-| Más de 3,5 goles | 21% | 43% | 73% | 50% |
-| Ambos marcan | 50% | 57% | 73% | 75% |
-| Portería a cero | 43% | 43% | 27% | 25% |
-| Se queda sin marcar | 14% | 0% | 7% | 12% |
-| xG a favor | 1,22 | 1,57 | 3,26 | 2,98 |
-| xG en contra | 1,47 | 1,09 | 0,89 | 0,98 |
-| Tiros / partido | 10,6 | 11,6 | 22,3 | 22,8 |
-| Tiros a puerta / partido | 4,2 | 4,3 | 8,8 | 7,6 |
-| Tiros recibidos | 14,0 | 12,3 | 9,0 | 8,9 |
+| Partidos analizados | 14 | 7 | 16 | 8 |
+| Forma (últimos 5) | VEVED | VDEVV | EVVEV | VVVEE |
+| Balance | 6V 4E 4D | 3V 2E 2D | 10V 6E 0D | 5V 3E 0D |
+| Goles a favor / partido | 1,29 | 1,57 | 3,25 | 2,25 |
+| Goles en contra / partido | 1,21 | 1,43 | 1,06 | 1,12 |
+| Goles a favor 1ª parte | 0,79 | 1,00 | 1,12 | 0,75 |
+| Goles a favor 2ª parte | 0,50 | 0,57 | 2,12 | 1,50 |
+| Goles en contra 1ª parte | 0,43 | 0,57 | 0,44 | 0,50 |
+| Goles en contra 2ª parte | 0,79 | 0,86 | 0,62 | 0,62 |
+| Más de 1,5 goles | 71% | 71% | 94% | 88% |
+| Más de 2,5 goles | 43% | 43% | 81% | 75% |
+| Más de 3,5 goles | 21% | 43% | 69% | 50% |
+| Ambos marcan | 50% | 57% | 75% | 75% |
+| Portería a cero | 43% | 43% | 25% | 25% |
+| Se queda sin marcar | 14% | 0% | 6% | 12% |
+| xG a favor | 1,22 | 1,57 | 3,12 | 2,98 |
+| xG en contra | 1,47 | 1,09 | 0,97 | 0,98 |
+| Tiros / partido | 10,6 | 11,6 | 22,0 | 22,8 |
+| Tiros a puerta / partido | 4,2 | 4,3 | 8,3 | 7,6 |
+| Tiros recibidos | 14,0 | 12,3 | 8,9 | 8,9 |
 | Tiros a puerta recibidos | 4,1 | 3,0 | 3,1 | 2,9 |
 | Posesión media % | 49 | 52 | 64 | 68 |
-| Córners a favor | 3,4 | 4,1 | 7,9 | 8,8 |
-| Córners en contra | 4,8 | 3,9 | 3,3 | 3,9 |
-| Córners a favor 1ª parte | 1,4 | 1,3 | 3,6 | 3,9 |
-| Córners a favor 2ª parte | 2,1 | 2,9 | 4,3 | 4,9 |
-| Córners totales del partido | 8,2 | 8,0 | 11,2 | 12,6 |
-| Córners totales 1ª parte | 3,2 | 2,9 | 5,3 | 5,9 |
-| Córners totales 2ª parte | 5,0 | 5,1 | 5,9 | 6,8 |
-| Más de 8,5 córners | 43% | 43% | 67% | 75% |
-| Más de 9,5 córners | 29% | 29% | 60% | 75% |
-| Más de 10,5 córners | 14% | 14% | 60% | 75% |
-| Faltas cometidas | 11,0 | 11,1 | 9,3 | 8,1 |
-| Faltas recibidas | 13,5 | 13,7 | 8,7 | 9,0 |
+| Córners a favor | 3,4 | 4,1 | 7,8 | 8,8 |
+| Córners en contra | 4,8 | 3,9 | 3,1 | 3,9 |
+| Córners a favor 1ª parte | 1,4 | 1,3 | 3,5 | 3,9 |
+| Córners a favor 2ª parte | 2,1 | 2,9 | 4,2 | 4,9 |
+| Córners totales del partido | 8,2 | 8,0 | 10,8 | 12,6 |
+| Córners totales 1ª parte | 3,2 | 2,9 | 5,1 | 5,9 |
+| Córners totales 2ª parte | 5,0 | 5,1 | 5,8 | 6,8 |
+| Más de 8,5 córners | 43% | 43% | 62% | 75% |
+| Más de 9,5 córners | 29% | 29% | 56% | 75% |
+| Más de 10,5 córners | 14% | 14% | 56% | 75% |
+| Faltas cometidas | 11,0 | 11,1 | 9,1 | 8,1 |
+| Faltas recibidas | 13,5 | 13,7 | 8,3 | 9,0 |
 | Amarillas propias | 1,6 | 1,4 | 1,1 | 1,2 |
-| Amarillas del rival | 1,5 | 1,4 | 1,7 | 1,6 |
-| Rojas / partido | 0,14 | 0,14 | 0,07 | 0,12 |
+| Amarillas del rival | 1,5 | 1,4 | 1,8 | 1,6 |
+| Rojas / partido | 0,14 | 0,14 | 0,06 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Lille | Recibe Lille | Tarjetas Lille | Goles Bayern München | Recibe Bayern München | Tarjetas Bayern München |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 2 | 0 | 3 | 4 | 0 |
+| 1-15' | 4 | 2 | 0 | 3 | 5 | 0 |
 | 16-30' | 4 | 1 | 1 | 8 | 1 | 0 |
-| 31-45' | 3 | 3 | 2 | 6 | 1 | 2 |
+| 31-45' | 3 | 3 | 2 | 7 | 1 | 2 |
 | 46-60' | 0 | 3 | 4 | 12 | 2 | 4 |
-| 61-75' | 3 | 6 | 5 | 12 | 2 | 7 |
+| 61-75' | 3 | 6 | 5 | 12 | 2 | 8 |
 | 76-90' | 4 | 2 | 13 | 10 | 6 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -148,33 +148,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Bayern München
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | Bundesliga | Bayern München 1-1 1. FC Köln | casa | 5-0 | 17 (1) - 7 (4) | 1-2 |
 | 2026-11-07 | Bundesliga | FSV Mainz 05 1-2 Bayern München | fuera | 8-7 | 26 (9) - 11 (1) | 1-0 |
 | 2026-11-03 | Champions League | Atletico Madrid 0-2 Bayern München | fuera | 4-4 | 19 (5) - 9 (3) | 2-1 |
 | 2026-10-31 | Bundesliga | Bayern München 2-2 Borussia Dortmund | casa | 5-2 | 23 (5) - 12 (6) | 2-1 |
 | 2026-10-28 | DFB-Pokal | Bayern München 6-1 1. FC Magdeburg | casa | 6-0 | 19 (8) - 9 (2) | 2-3 |
 | 2026-10-25 | Bundesliga | SC Freiburg 1-3 Bayern München | fuera | 6-5 | 17 (9) - 17 (5) | 1-3 |
-| 2026-10-21 | Champions League | Bayern München 2-2 Arsenal | casa | 3-5 | 13 (5) - 14 (5) | 0-2 |
 
 ## Jugadores de Bayern München
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| H. Kane | F | 14 | 1162 | 10 | 11 | 53 | 3,8 | 20 | 1,4 | 5 | 13 | 0,9 | 0 | 0 |
-| M. Olise | M | 14 | 1155 | 11 | 5 | 51 | 3,6 | 29 | 2,1 | 7 | 32 | 2,3 | 2 | 1 |
-| D. Upamecano | D | 13 | 1080 | 3 | 0 | 13 | 1,0 | 9 | 0,7 | 16 | 3 | 0,2 | 2 | 0 |
-| J. Kimmich | M | 12 | 1001 | 1 | 4 | 15 | 1,2 | 6 | 0,5 | 0 | 14 | 1,2 | 1 | 0 |
-| J. Tah | D | 12 | 912 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 1 | 0 |
-| K. Laimer | D | 12 | 910 | 2 | 1 | 12 | 1,0 | 6 | 0,5 | 21 | 9 | 0,8 | 4 | 0 |
-| J. Stanišić | D | 14 | 880 | 0 | 1 | 7 | 0,5 | 1 | 0,1 | 5 | 5 | 0,4 | 2 | 0 |
+| M. Olise | M | 15 | 1200 | 11 | 5 | 52 | 3,5 | 29 | 1,9 | 7 | 32 | 2,1 | 2 | 1 |
+| H. Kane | F | 15 | 1182 | 10 | 11 | 53 | 3,5 | 20 | 1,3 | 5 | 13 | 0,9 | 0 | 0 |
+| D. Upamecano | D | 14 | 1150 | 3 | 0 | 14 | 1,0 | 9 | 0,6 | 18 | 3 | 0,2 | 3 | 0 |
+| J. Kimmich | M | 13 | 1091 | 1 | 4 | 16 | 1,2 | 6 | 0,5 | 0 | 14 | 1,1 | 1 | 0 |
+| J. Tah | D | 13 | 1002 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 10 | 2 | 0,2 | 1 | 0 |
+| K. Laimer | D | 13 | 980 | 2 | 1 | 14 | 1,1 | 6 | 0,5 | 22 | 10 | 0,8 | 4 | 0 |
+| J. Stanišić | D | 15 | 970 | 0 | 1 | 7 | 0,5 | 1 | 0,1 | 5 | 5 | 0,3 | 2 | 0 |
+| A. Pavlović | M | 13 | 936 | 2 | 1 | 7 | 0,5 | 3 | 0,2 | 18 | 6 | 0,5 | 2 | 0 |
 | A. Davies | D | 14 | 854 | 3 | 3 | 8 | 0,6 | 4 | 0,3 | 3 | 13 | 0,9 | 0 | 0 |
-| A. Pavlović | M | 12 | 849 | 2 | 1 | 5 | 0,4 | 3 | 0,2 | 16 | 6 | 0,5 | 2 | 0 |
-| N. Brown | M | 14 | 743 | 2 | 2 | 12 | 0,9 | 9 | 0,6 | 5 | 5 | 0,4 | 1 | 0 |
-| T. Bischof | M | 14 | 718 | 1 | 2 | 12 | 0,9 | 6 | 0,4 | 12 | 7 | 0,5 | 0 | 0 |
+| N. Brown | M | 15 | 833 | 3 | 2 | 15 | 1,0 | 10 | 0,7 | 5 | 7 | 0,5 | 1 | 0 |
+| T. Bischof | M | 15 | 788 | 1 | 3 | 14 | 0,9 | 6 | 0,4 | 12 | 7 | 0,5 | 0 | 0 |
+| J. Urbig | G | 9 | 766 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | L. Díaz | F | 10 | 712 | 5 | 1 | 20 | 2,0 | 14 | 1,4 | 12 | 6 | 0,6 | 0 | 0 |
-| J. Urbig | G | 8 | 676 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| L. Karl | M | 15 | 689 | 3 | 2 | 22 | 1,5 | 6 | 0,4 | 2 | 1 | 0,1 | 0 | 0 |
 | M. Neuer | G | 8 | 674 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| Kim Min-Jae | D | 10 | 642 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 0 | 0,0 | 1 | 0 |
 | I. Saibari | M | 13 | 630 | 3 | 3 | 28 | 2,2 | 11 | 0,8 | 10 | 3 | 0,2 | 1 | 0 |
-| Kim Min-Jae | D | 9 | 622 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 0 | 0,0 | 1 | 0 |
-| L. Karl | M | 14 | 599 | 3 | 2 | 19 | 1,4 | 6 | 0,4 | 1 | 1 | 0,1 | 0 | 0 |
 | S. Gnabry | M | 7 | 272 | 1 | 0 | 7 | 1,0 | 3 | 0,4 | 1 | 0 | 0,0 | 0 | 0 |
-| Jamal Musiala | M | 4 | 213 | 2 | 1 | 3 | 0,8 | 3 | 0,8 | 3 | 4 | 1,0 | 0 | 0 |
+| J. Musiala | M | 5 | 233 | 2 | 1 | 5 | 1,0 | 3 | 0,6 | 3 | 4 | 0,8 | 0 | 0 |
 | H. Ito | D | 5 | 122 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |

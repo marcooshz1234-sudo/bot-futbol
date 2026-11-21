@@ -1,7 +1,7 @@
 # 1. FC Köln – SV Elversberg
 **Bundesliga** · Regular Season - 11 · 28/11/2026 15:30 (hora España) · RheinEnergieStadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 20:08_
@@ -46,52 +46,52 @@ _Actualizadas: 20/11 20:08_
 ## Estadísticas de equipo
 | | 1. FC Köln (total) | 1. FC Köln en casa | SV Elversberg (total) | SV Elversberg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 6 | 11 | 6 |
-| Forma (últimos 5) | DEVED | DVEVE | DVDDV | DDDEV |
-| Balance | 4V 3E 4D | 3V 2E 1D | 5V 1E 5D | 2V 1E 3D |
-| Goles a favor / partido | 1,55 | 2,00 | 1,82 | 1,33 |
-| Goles en contra / partido | 1,36 | 1,00 | 1,91 | 1,83 |
-| Goles a favor 1ª parte | 0,27 | 0,50 | 0,91 | 0,33 |
-| Goles a favor 2ª parte | 1,27 | 1,50 | 0,91 | 1,00 |
-| Goles en contra 1ª parte | 0,64 | 0,50 | 0,45 | 0,33 |
-| Goles en contra 2ª parte | 0,73 | 0,50 | 1,45 | 1,50 |
-| Más de 1,5 goles | 82% | 83% | 82% | 67% |
-| Más de 2,5 goles | 64% | 67% | 73% | 67% |
-| Más de 3,5 goles | 27% | 33% | 55% | 50% |
-| Ambos marcan | 73% | 67% | 64% | 50% |
-| Portería a cero | 18% | 33% | 9% | 17% |
-| Se queda sin marcar | 18% | 17% | 36% | 50% |
-| xG a favor | 1,71 | 1,81 | 1,43 | 1,11 |
-| xG en contra | 1,53 | 1,28 | 1,94 | 1,80 |
-| Tiros / partido | 15,0 | 15,3 | 12,9 | 11,3 |
-| Tiros a puerta / partido | 5,4 | 6,3 | 4,9 | 4,5 |
-| Tiros recibidos | 13,5 | 14,2 | 17,9 | 17,0 |
-| Tiros a puerta recibidos | 5,0 | 4,8 | 4,5 | 4,7 |
-| Posesión media % | 52 | 48 | 50 | 53 |
-| Córners a favor | 5,3 | 5,2 | 5,5 | 4,3 |
-| Córners en contra | 5,5 | 5,5 | 6,7 | 6,2 |
-| Córners a favor 1ª parte | 2,6 | 2,5 | 3,3 | 2,0 |
-| Córners a favor 2ª parte | 2,6 | 2,7 | 2,2 | 2,3 |
-| Córners totales del partido | 10,7 | 10,7 | 12,2 | 10,5 |
-| Córners totales 1ª parte | 5,3 | 5,0 | 6,5 | 4,5 |
-| Córners totales 2ª parte | 5,5 | 5,7 | 5,7 | 6,0 |
-| Más de 8,5 córners | 64% | 67% | 73% | 67% |
-| Más de 9,5 córners | 64% | 67% | 73% | 67% |
-| Más de 10,5 córners | 45% | 67% | 55% | 33% |
-| Faltas cometidas | 10,3 | 9,7 | 11,6 | 11,0 |
-| Faltas recibidas | 11,8 | 13,8 | 13,0 | 12,8 |
+| Partidos analizados | 12 | 6 | 11 | 6 |
+| Forma (últimos 5) | EDEVE | DVEVE | DVDDV | DDDEV |
+| Balance | 4V 4E 4D | 3V 2E 1D | 5V 1E 5D | 2V 1E 3D |
+| Goles a favor / partido | 1,50 | 2,00 | 1,82 | 1,33 |
+| Goles en contra / partido | 1,33 | 1,00 | 1,91 | 1,83 |
+| Goles a favor 1ª parte | 0,33 | 0,50 | 0,91 | 0,33 |
+| Goles a favor 2ª parte | 1,17 | 1,50 | 0,91 | 1,00 |
+| Goles en contra 1ª parte | 0,67 | 0,50 | 0,45 | 0,33 |
+| Goles en contra 2ª parte | 0,67 | 0,50 | 1,45 | 1,50 |
+| Más de 1,5 goles | 83% | 83% | 82% | 67% |
+| Más de 2,5 goles | 58% | 67% | 73% | 67% |
+| Más de 3,5 goles | 25% | 33% | 55% | 50% |
+| Ambos marcan | 75% | 67% | 64% | 50% |
+| Portería a cero | 17% | 33% | 9% | 17% |
+| Se queda sin marcar | 17% | 17% | 36% | 50% |
+| xG a favor | 1,74 | 1,81 | 1,43 | 1,11 |
+| xG en contra | 1,49 | 1,28 | 1,94 | 1,80 |
+| Tiros / partido | 14,3 | 15,3 | 12,9 | 11,3 |
+| Tiros a puerta / partido | 5,2 | 6,3 | 4,9 | 4,5 |
+| Tiros recibidos | 13,8 | 14,2 | 17,9 | 17,0 |
+| Tiros a puerta recibidos | 4,7 | 4,8 | 4,5 | 4,7 |
+| Posesión media % | 50 | 48 | 50 | 53 |
+| Córners a favor | 4,8 | 5,2 | 5,5 | 4,3 |
+| Córners en contra | 5,4 | 5,5 | 6,7 | 6,2 |
+| Córners a favor 1ª parte | 2,4 | 2,5 | 3,3 | 2,0 |
+| Córners a favor 2ª parte | 2,4 | 2,7 | 2,2 | 2,3 |
+| Córners totales del partido | 10,2 | 10,7 | 12,2 | 10,5 |
+| Córners totales 1ª parte | 5,0 | 5,0 | 6,5 | 4,5 |
+| Córners totales 2ª parte | 5,2 | 5,7 | 5,7 | 6,0 |
+| Más de 8,5 córners | 58% | 67% | 73% | 67% |
+| Más de 9,5 córners | 58% | 67% | 73% | 67% |
+| Más de 10,5 córners | 42% | 67% | 55% | 33% |
+| Faltas cometidas | 9,7 | 9,7 | 11,6 | 11,0 |
+| Faltas recibidas | 11,3 | 13,8 | 13,0 | 12,8 |
 | Amarillas propias | 2,2 | 2,0 | 1,5 | 1,2 |
-| Amarillas del rival | 2,4 | 2,8 | 1,9 | 1,8 |
+| Amarillas del rival | 2,2 | 2,8 | 1,9 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles 1. FC Köln | Recibe 1. FC Köln | Tarjetas 1. FC Köln | Goles SV Elversberg | Recibe SV Elversberg | Tarjetas SV Elversberg |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 2 | 1 | 5 | 2 | 1 |
+| 1-15' | 2 | 2 | 1 | 5 | 2 | 1 |
 | 16-30' | 1 | 2 | 0 | 3 | 1 | 2 |
-| 31-45' | 1 | 3 | 5 | 2 | 2 | 2 |
-| 46-60' | 3 | 2 | 6 | 1 | 5 | 2 |
-| 61-75' | 3 | 3 | 2 | 2 | 3 | 5 |
+| 31-45' | 1 | 4 | 5 | 2 | 2 | 2 |
+| 46-60' | 3 | 2 | 7 | 1 | 5 | 2 |
+| 61-75' | 3 | 3 | 3 | 2 | 3 | 5 |
 | 76-90' | 8 | 3 | 10 | 7 | 9 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -107,36 +107,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de 1. FC Köln
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | Bundesliga | Bayern München 1-1 1. FC Köln | fuera | 0-5 | 7 (4) - 17 (1) | 2-1 |
 | 2026-11-08 | Bundesliga | 1. FC Köln 1-2 Bayer Leverkusen | casa | 2-6 | 12 (6) - 14 (8) | 6-5 |
 | 2026-11-01 | Bundesliga | Union Berlin 1-1 1. FC Köln | fuera | 6-2 | 14 (2) - 5 (2) | 3-4 |
 | 2026-10-27 | DFB-Pokal | 1. FC Köln 5-0 Union Berlin | casa | 3-4 | 14 (8) - 17 (4) | 1-3 |
 | 2026-10-24 | Bundesliga | 1. FC Köln 0-0 FC Schalke 04 | casa | 6-5 | 14 (5) - 9 (1) | 2-3 |
 | 2026-10-16 | Bundesliga | Eintracht Frankfurt 1-0 1. FC Köln | fuera | 3-7 | 9 (3) - 15 (7) | 2-2 |
-| 2026-10-11 | Bundesliga | 1. FC Köln 2-1 Borussia Mönchengladbach | casa | 6-6 | 19 (7) - 16 (7) | 1-3 |
 
 ## Jugadores de 1. FC Köln
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jahmai Simpson-Pusey | D | 11 | 990 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 12 | 1,1 | 3 | 0 |
-| M. Schwäbe | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| T. Krauß | D | 11 | 907 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 12 | 13 | 1,2 | 3 | 0 |
-| S. El Mala | F | 10 | 763 | 5 | 1 | 35 | 3,5 | 12 | 1,2 | 11 | 10 | 1,0 | 0 | 0 |
-| M. Bülter | F | 11 | 730 | 1 | 2 | 16 | 1,5 | 9 | 0,8 | 9 | 22 | 2,0 | 1 | 0 |
-| L. Maina | M | 11 | 725 | 2 | 4 | 8 | 0,7 | 6 | 0,5 | 4 | 15 | 1,4 | 2 | 0 |
-| L. Lochoshvili | D | 8 | 699 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 9 | 6 | 0,8 | 1 | 0 |
-| Í. Bergmann Jóhannesson | M | 11 | 661 | 4 | 0 | 7 | 0,6 | 6 | 0,5 | 8 | 2 | 0,2 | 2 | 0 |
-| M. Moore | M | 9 | 569 | 0 | 0 | 16 | 1,8 | 5 | 0,6 | 7 | 7 | 0,8 | 1 | 0 |
-| B. Sosa | M | 7 | 557 | 0 | 0 | 4 | 0,6 | 3 | 0,4 | 4 | 4 | 0,6 | 2 | 0 |
-| A. Castro-Montes | M | 9 | 521 | 0 | 1 | 3 | 0,3 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
-| S. Sebulonsen | M | 7 | 461 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 4 | 2 | 0,3 | 1 | 0 |
+| Jahmai Simpson-Pusey | D | 12 | 1080 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 12 | 1,0 | 3 | 0 |
+| M. Schwäbe | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| T. Krauß | M | 12 | 997 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 12 | 14 | 1,2 | 3 | 0 |
+| S. El Mala | F | 11 | 848 | 5 | 2 | 37 | 3,4 | 13 | 1,2 | 11 | 10 | 0,9 | 1 | 0 |
+| L. Maina | M | 12 | 802 | 2 | 4 | 9 | 0,8 | 7 | 0,6 | 4 | 16 | 1,3 | 2 | 0 |
+| L. Lochoshvili | D | 9 | 789 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 9 | 8 | 0,9 | 1 | 0 |
+| M. Bülter | F | 12 | 731 | 1 | 2 | 16 | 1,3 | 9 | 0,8 | 10 | 22 | 1,8 | 1 | 0 |
+| Í. Bergmann Jóhannesson | M | 12 | 674 | 4 | 0 | 7 | 0,6 | 6 | 0,5 | 8 | 2 | 0,2 | 2 | 0 |
+| M. Moore | M | 10 | 658 | 1 | 0 | 18 | 1,8 | 7 | 0,7 | 7 | 8 | 0,8 | 1 | 0 |
+| B. Sosa | M | 8 | 647 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 4 | 4 | 0,5 | 2 | 0 |
+| S. Sebulonsen | M | 8 | 546 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 4 | 2 | 0,2 | 1 | 0 |
+| A. Castro-Montes | M | 10 | 526 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 3 | 2 | 0,2 | 1 | 0 |
+| Paul Michael Junior Okon-Engstler | M | 10 | 491 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 4 | 0,4 | 3 | 0 |
+| J. Schmied | D | 9 | 450 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 7 | 2 | 0,2 | 1 | 0 |
 | G. Mensah | D | 6 | 418 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 9 | 2 | 0,3 | 2 | 0 |
-| Paul Michael Junior Okon-Engstler | M | 9 | 414 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 4 | 0,4 | 2 | 0 |
-| J. Schmied | D | 8 | 360 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 2 | 0,2 | 1 | 0 |
 | Ellyes Skhiri | M | 6 | 310 | 0 | 2 | 2 | 0,3 | 1 | 0,2 | 6 | 2 | 0,3 | 1 | 0 |
 | Ragnar Ache | F | 5 | 267 | 1 | 1 | 6 | 1,2 | 3 | 0,6 | 1 | 6 | 1,2 | 1 | 0 |
-| J. Thielmann | M | 6 | 242 | 0 | 0 | 4 | 0,7 | 1 | 0,2 | 0 | 3 | 0,5 | 0 | 0 |
+| J. Thielmann | M | 7 | 255 | 0 | 0 | 4 | 0,6 | 1 | 0,1 | 0 | 3 | 0,4 | 0 | 0 |
 | Thijs Dallinga | F | 4 | 168 | 2 | 0 | 7 | 1,8 | 4 | 1,0 | 2 | 3 | 0,8 | 0 | 0 |
-| Reigan Heskey | F | 5 | 60 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 1 | 2 | 0,4 | 0 | 0 |
+| Reigan Heskey | F | 6 | 65 | 0 | 1 | 3 | 0,5 | 0 | 0,0 | 1 | 2 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de SV Elversberg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

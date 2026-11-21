@@ -1,10 +1,10 @@
 # Sepsi OSK Sfantu Gheorghe – Rapid
 **Liga I** · Regular Season - 16 · 23/11/2026 19:00 (hora España) · Stadionul Sepsi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:08_
+_Actualizadas: 21/11 02:19_
 
 - **1X2:** 1 **3.60**  ·  X **3.30**  ·  2 **1.90**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.30**  ·  X2 **1.25**

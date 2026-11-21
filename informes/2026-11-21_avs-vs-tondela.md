@@ -1,39 +1,47 @@
 # AVS – Tondela
 **Taça de Portugal** · Round of 32 · 21/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
-- **1X2:** 1 **3.00**  ·  X **3.25**  ·  2 **2.10**
-- **Ambos marcan:** Sí **1.91**  ·  No **1.80**
+- **1X2:** 1 **3.40**  ·  X **3.25**  ·  2 **1.95**
+- **Doble oportunidad:** 1X **1.62**  ·  12 **1.30**  ·  X2 **1.33**
+- **Ambos marcan:** Sí **2.00**  ·  No **1.73**
 - **Goles más/menos:**
     - 0,5: más **1.07** · menos **9.00**
-    - 1,5: más **1.36** · menos **3.00**
-    - 2,5: más **2.15** · menos **1.67**
-    - 3,5: más **4.00** · menos **1.22**
-    - 4,5: más **9.00** · menos **1.07**
-- **Goles del local:**
+    - 1,5: más **1.40** · menos **2.75**
+    - 2,5: más **2.25** · menos **1.62**
+    - 3,5: más **4.33** · menos **1.20**
+    - 4,5: más **10.00** · menos **1.06**
+- **Goles 1ª parte más/menos:**
     - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 1,5: más **3.40** · menos **1.30**
+    - 2,5: más **10.00** · menos **1.06**
+- **Goles del local:**
+    - 0,5: más **1.57** · menos **2.25**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
     - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
+    - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
-- **1X2 descanso:** 1 **4.00**  ·  X **2.10**  ·  2 **2.88**
+- **Córners más/menos:**
+    - 9,5: más **1.98** · menos **1.82**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.05**  ·  2 **2.62**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
-- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
-- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
-- **To Win Either Half:** 1 **2.20**  ·  2 **1.67**
-- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **3.75**
-- **Win Both Halves:** 1 **13.00**  ·  2 **7.00**
-- **Results/Both Teams Score:** Home/Yes **7.00**  ·  Draw/Yes **4.75**  ·  Away/Yes **5.00**  ·  Home/No **5.00**  ·  Draw/No **9.00**  ·  Away/No **3.50**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.50**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.10**
+    - 0,5: más **1.30** · menos **3.40**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.00** · menos **1.12**
+- **Both Teams Score - First Half:** Sí **5.50**  ·  No **1.14**
+- **Both Teams To Score - Second Half:** Sí **4.00**  ·  No **1.22**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.57**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **3.50**
+- **Win Both Halves:** 1 **17.00**  ·  2 **6.50**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **5.00**  ·  Home/No **5.50**  ·  Draw/No **8.00**  ·  Away/No **3.25**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **10.00**  ·  u/yes 2.5 **6.50**  ·  u/no 2.5 **2.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **2.05**  ·  Menos de 4 **2.60**  ·  Más de 4.5 **2.05**  ·  Menos de 4.5 **1.75**
 
 ## Estadísticas de equipo
 | | AVS (total) | AVS en casa | Tondela (total) | Tondela fuera |

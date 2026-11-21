@@ -1,7 +1,7 @@
 # Wolves – Derby
 **Championship** · Regular Season - 17 · 24/11/2026 21:00 (hora España) · Molineux Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

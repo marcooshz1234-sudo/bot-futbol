@@ -1,42 +1,49 @@
 # Mafra – Arouca
 **Taça de Portugal** · Round of 32 · 21/11/2026 15:00 (hora España) · Estadio Municipal de Mafra
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
-- **1X2:** 1 **4.33**  ·  X **4.10**  ·  2 **1.55**
-- **Doble oportunidad:** 1X **2.25**  ·  12 **1.20**  ·  X2 **1.18**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **1X2:** 1 **4.10**  ·  X **3.90**  ·  2 **1.62**
+- **Doble oportunidad:** 1X **2.10**  ·  12 **1.22**  ·  X2 **1.20**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.70** · menos **2.10**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.00** · menos **1.17**
-    - 5,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.04** · menos **12.00**
+    - 1,5: más **1.28** · menos **3.50**
+    - 2,5: más **1.85** · menos **1.95**
+    - 3,5: más **3.25** · menos **1.33**
+    - 4,5: más **6.00** · menos **1.12**
+    - 5,5: más **13.00** · menos **1.04**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.36** · menos **3.00**
+    - 1,5: más **2.62** · menos **1.44**
+    - 2,5: más **7.00** · menos **1.10**
 - **Goles del local:**
     - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.50** · menos **1.28**
+    - 1,5: más **3.75** · menos **1.25**
     - 2,5: más **11.00** · menos **1.05**
 - **Goles del visitante:**
-    - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.62** · menos **2.20**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.40**  ·  2 **2.10**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.80** · menos **1.91**
+    - 2,5: más **3.50** · menos **1.28**
+    - 3,5: más **8.00** · menos **1.08**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **5.50**  ·  X **2.30**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.20** · menos **4.33**
-    - 1,5: más **1.91** · menos **1.80**
-    - 2,5: más **4.00** · menos **1.22**
-    - 3,5: más **10.00** · menos **1.06**
-- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **To Win Either Half:** 1 **2.75**  ·  2 **1.33**
-- **To Score In Both Halves By Teams:** 1 **6.00**  ·  2 **2.38**
-- **Win Both Halves:** 1 **21.00**  ·  2 **4.00**
-- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.40**  ·  Home/No **9.00**  ·  Draw/No **15.00**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.60**
+    - 0,5: más **1.22** · menos **4.00**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
+- **Both Teams To Score - Second Half:** Sí **3.75**  ·  No **1.25**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.62**
+- **Win Both Halves:** 1 **21.00**  ·  2 **4.50**
+- **Results/Both Teams Score:** Home/Yes **8.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.75**  ·  Home/No **8.00**  ·  Draw/No **12.00**  ·  Away/No **2.75**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.38**
 
 ## Estadísticas de equipo
 | | Mafra (total) | Mafra en casa | Arouca (total) | Arouca fuera |

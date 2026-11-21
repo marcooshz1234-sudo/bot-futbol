@@ -1,10 +1,10 @@
 # Bolton – Portsmouth
 **Championship** · Regular Season - 16 · 21/11/2026 16:00 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
 - **1X2:** 1 **2.90**  ·  X **3.40**  ·  2 **2.35**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.30**  ·  X2 **1.40**

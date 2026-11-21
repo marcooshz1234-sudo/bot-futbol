@@ -1,0 +1,172 @@
+# Cambuur – Sparta Rotterdam
+**Eredivisie** · Regular Season - 14 · 28/11/2026 21:00 (hora España) · Kooi Stadion
+
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
+
+## Cuotas Bet365
+_Actualizadas: 21/11 02:20_
+
+- **1X2:** 1 **2.45**  ·  X **3.70**  ·  2 **2.50**
+- **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.53**
+- **Ambos marcan:** Sí **1.40**  ·  No **2.75**
+- **Goles más/menos:**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.48** · menos **2.60**
+    - 3,5: más **2.10** · menos **1.67**
+    - 4,5: más **3.50** · menos **1.28**
+    - 5,5: más **6.50** · menos **1.11**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.25** · menos **3.75**
+    - 1,5: más **2.10** · menos **1.67**
+    - 2,5: más **4.50** · menos **1.18**
+    - 3,5: más **13.00** · menos **1.04**
+- **1X2 descanso:** 1 **3.00**  ·  X **2.50**  ·  2 **3.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.14** · menos **5.50**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.25** · menos **1.33**
+    - 3,5: más **7.00** · menos **1.10**
+- **Both Teams Score - First Half:** Sí **3.40**  ·  No **1.30**
+- **Both Teams To Score - Second Half:** Sí **2.50**  ·  No **1.50**
+- **To Win Either Half:** 1 **1.73**  ·  2 **1.73**
+- **To Score In Both Halves By Teams:** 1 **2.75**  ·  2 **2.75**
+- **Win Both Halves:** 1 **8.00**  ·  2 **8.00**
+- **Results/Both Teams Score:** Home/Yes **4.00**  ·  Draw/Yes **4.33**  ·  Away/Yes **4.00**  ·  Home/No **6.00**  ·  Draw/No **21.00**  ·  Away/No **6.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.67**  ·  o/no 2.5 **9.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **3.50**
+- **Away Player Shots On Target Total:** Lucas Jetten **67.00**  ·  Fabian Kvam **34.00**  ·  Rik Mulders **51.00**  ·  Robin van Cruijsen **9.50**  ·  Giannino Vianello **41.00**  ·  Ismael Baouf **10.00**  ·  Nicolas Binder **12.00**  ·  Casper Terho **10.00**  ·  Mitchell Van Bergen **17.00**  ·  Bas Kuipers **21.00**  ·  Jens Toornstra **41.00**  ·  Jamal Amofa **15.00**  ·  Ilyes Hamache **34.00**  ·  Shunsuke Mito **12.00**  ·  Julian Baas **21.00**  ·  Max de Ligt **29.00**  ·  Teo Quintero **21.00**  ·  Boyd Reith **23.00**  ·  Marvin Young **19.00**  ·  Bruno Martins Indi **23.00**  ·  Jason Ceka **34.00**  ·  Lushendry Martes **21.00**  ·  Younes el Meftahi **9.00**  ·  Alwande Roaldsoy **15.00**  ·  Ryan van de Pavert **67.00**  ·  Jorn Berkhout **13.00**  ·  Morgan Costarelli **67.00**  ·  Wiebe Kooistra **34.00**  ·  Ethan Apkakou **17.00**  ·  Skye Vink **15.00**  ·  Iwan Henstra **29.00**  ·  Wiebe van der Heide **15.00**  ·  Rafik El Arguioui **15.00**  ·  Nick Verschuren **13.00**  ·  Nicky Souren **17.00**  ·  Milan Zonneveld **4.75**  ·  Joel Ideho **17.00**
+- **Home Player Shots:** Billy van Duijl - 1 **1.67**  ·  Billy van Duijl - 2 **4.00**  ·  Billy van Duijl - 3 **11.00**  ·  Rafik El Arguioui - 1 **1.05**  ·  Nicolas Binder - 1 **1.03**  ·  Sami Bouhoudane - 1 **1.03**  ·  Skye Vink - 1 **1.05**  ·  Ilyes Hamache - 1 **1.10**  ·  Iwan Henstra - 1 **1.06**  ·  Wiebe van der Heide - 1 **1.06**  ·  Damian Westerhof - 1 **1.40**  ·  Wessel van der Goot - 1 **1.20**  ·  Nicky Souren - 1 **1.40**  ·  Ethan Apkakou - 1 **1.40**  ·  Ismael Baouf - 1 **1.50**  ·  Rik Mulders - 1 **1.40**  ·  Buddy Vogelzang - 1 **1.50**  ·  Lucas Jetten - 1 **1.57**  ·  Morgan Costarelli - 1 **1.53**  ·  Ryan van de Pavert - 1 **1.50**  ·  Jorn Berkhout - 1 **1.67**  ·  Jamal Amofa - 1 **1.83**  ·  Rafik El Arguioui - 2 **1.28**  ·  Nicolas Binder - 2 **1.20**  ·  Sami Bouhoudane - 2 **1.20**  ·  Skye Vink - 2 **1.25**  ·  Ilyes Hamache - 2 **1.44**  ·  Iwan Henstra - 2 **1.33**  ·  Wiebe van der Heide - 2 **1.33**  ·  Damian Westerhof - 2 **2.62**  ·  Wessel van der Goot - 2 **1.83**  ·  Nicky Souren - 2 **2.62**  ·  Ethan Apkakou - 2 **2.62**  ·  Ismael Baouf - 2 **3.25**  ·  Rik Mulders - 2 **2.62**  ·  Buddy Vogelzang - 2 **3.25**  ·  Lucas Jetten - 2 **3.50**  ·  Morgan Costarelli - 2 **3.40**  ·  Ryan van de Pavert - 2 **3.25**  ·  Jorn Berkhout - 2 **4.00**  ·  Jamal Amofa - 2 **5.00**  ·  Rafik El Arguioui - 3 **1.80**  ·  Nicolas Binder - 3 **1.57**  ·  Sami Bouhoudane - 3 **1.62**  ·  Skye Vink - 3 **1.80**  ·  Ilyes Hamache - 3 **2.25**  ·  Iwan Henstra - 3 **1.91**  ·  Wiebe van der Heide - 3 **1.91**  ·  Damian Westerhof - 3 **6.00**  ·  Wessel van der Goot - 3 **3.50**  ·  Nicky Souren - 3 **6.00**  ·  Ethan Apkakou - 3 **6.00**  ·  Ismael Baouf - 3 **8.00**  ·  Rik Mulders - 3 **6.00**  ·  Buddy Vogelzang - 3 **8.00**  ·  Lucas Jetten - 3 **10.00**  ·  Morgan Costarelli - 3 **9.00**  ·  Ryan van de Pavert - 3 **8.00**  ·  Jorn Berkhout - 3 **11.00**  ·  Rafik El Arguioui - 4 **3.00**  ·  Nicolas Binder - 4 **2.38**  ·  Sami Bouhoudane - 4 **2.50**  ·  Skye Vink - 4 **2.75**  ·  Ilyes Hamache - 4 **4.00**  ·  Iwan Henstra - 4 **3.25**  ·  Wiebe van der Heide - 4 **3.25**  ·  Damian Westerhof - 4 **15.00**  ·  Wessel van der Goot - 4 **8.00**  ·  Nicky Souren - 4 **15.00**  ·  Rafik El Arguioui - 5 **5.50**  ·  Nicolas Binder - 5 **4.00**  ·  Sami Bouhoudane - 5 **4.00**  ·  Skye Vink - 5 **5.00**  ·  Ilyes Hamache - 5 **9.00**  ·  Iwan Henstra - 5 **6.00**  ·  Wiebe van der Heide - 5 **6.00**  ·  Rafik El Arguioui - 6 **11.00**  ·  Nicolas Binder - 6 **8.00**  ·  Nicolas Binder - 7 **15.00**  ·  Jamal Amofa - 3 **15.00**  ·  Sami Bouhoudane - 6 **8.00**  ·  Skye Vink - 6 **10.00**  ·  Morgan Costarelli - 4 **21.00**  ·  Iwan Henstra - 6 **13.00**  ·  Ethan Apkakou - 4 **15.00**  ·  Ismael Baouf - 4 **21.00**  ·  Rik Mulders - 4 **15.00**  ·  Ilyes Hamache - 6 **17.00**  ·  Wiebe van der Heide - 6 **13.00**  ·  Wessel van der Goot - 5 **17.00**  ·  Devid Eugene Bouah - 1 **1.57**  ·  Devid Eugene Bouah - 2 **3.50**  ·  Devid Eugene Bouah - 3 **10.00**  ·  Mathieu Maertens - 1 **1.08**  ·  Mathieu Maertens - 2 **1.40**  ·  Mathieu Maertens - 3 **2.20**  ·  Mathieu Maertens - 4 **4.00**  ·  Mathieu Maertens - 5 **8.00**  ·  Mathieu Maertens - 6 **17.00**  ·  Buddy Vogelzang - 4 **21.00**  ·  Ryan van de Pavert - 4 **21.00**  ·  Rafik El Arguioui - 7 **19.00**  ·  Sami Bouhoudane - 7 **15.00**  ·  Skye Vink - 7 **19.00**  ·  Nicolas Binder - 8 **21.00**  ·  Jason Ceka - 1 **1.11**  ·  Jason Ceka - 2 **1.53**  ·  Jason Ceka - 3 **2.50**  ·  Jason Ceka - 4 **4.50**  ·  Fabian Kvam - 1 **1.08**  ·  Fabian Kvam - 2 **1.44**  ·  Fabian Kvam - 3 **2.25**  ·  Fabian Kvam - 4 **4.00**  ·  Fabian Kvam - 5 **8.00**  ·  Fabian Kvam - 6 **17.00**  ·  Devid Eugene Bouah - 4 **21.00**  ·  Lucas Jetten - 4 **21.00**  ·  Jason Ceka - 5 **10.00**  ·  Jason Ceka - 6 **21.00**  ·  Iwan Henstra - 7 **21.00**  ·  Wiebe van der Heide - 7 **21.00**  ·  Sami Bouhoudane - 8 **21.00**
+- **Away Player Shots:** Andrej Kostic - 5 **4.00**  ·  Cedric Hatenboer - 1 **1.25**  ·  Cedric Hatenboer - 2 **2.10**  ·  Cedric Hatenboer - 3 **4.33**  ·  Cedric Hatenboer - 4 **10.00**  ·  Shunsuke Mito - 1 **1.02**  ·  Mitchell van Bergen - 1 **1.05**  ·  Casper Terho - 1 **1.06**  ·  Joel Ideho - 1 **1.10**  ·  Younes el Meftahi - 1 **1.08**  ·  Robin van Cruijsen - 1 **1.11**  ·  Alwande Roaldsoy - 1 **1.11**  ·  Jens Toornstra - 1 **1.25**  ·  Bas Kuipers - 1 **1.33**  ·  Boyd Reith - 1 **1.50**  ·  Lushendry Martes - 1 **1.50**  ·  Teo Quintero - 1 **1.53**  ·  Marvin Young - 1 **1.57**  ·  Giannino Vianello - 1 **1.67**  ·  Max de Ligt - 1 **1.67**  ·  Nick Verschuren - 1 **1.67**  ·  Bruno Martins Indi - 1 **2.25**  ·  Milan Zonneveld - 2 **1.03**  ·  Shunsuke Mito - 2 **1.14**  ·  Mitchell van Bergen - 2 **1.25**  ·  Casper Terho - 2 **1.33**  ·  Joel Ideho - 2 **1.44**  ·  Younes el Meftahi - 2 **1.44**  ·  Robin van Cruijsen - 2 **1.53**  ·  Alwande Roaldsoy - 2 **1.53**  ·  Jens Toornstra - 2 **2.10**  ·  Bas Kuipers - 2 **2.38**  ·  Boyd Reith - 2 **3.25**  ·  Lushendry Martes - 2 **3.25**  ·  Teo Quintero - 2 **3.40**  ·  Marvin Young - 2 **3.50**  ·  Giannino Vianello - 2 **4.00**  ·  Max de Ligt - 2 **4.00**  ·  Nick Verschuren - 2 **4.00**  ·  Bruno Martins Indi - 2 **8.00**  ·  Milan Zonneveld - 3 **1.12**  ·  Shunsuke Mito - 3 **1.44**  ·  Mitchell van Bergen - 3 **1.73**  ·  Casper Terho - 3 **1.91**  ·  Joel Ideho - 3 **2.25**  ·  Younes el Meftahi - 3 **2.25**  ·  Robin van Cruijsen - 3 **2.50**  ·  Alwande Roaldsoy - 3 **2.50**  ·  Jens Toornstra - 3 **4.33**  ·  Bas Kuipers - 3 **5.50**  ·  Boyd Reith - 3 **8.00**  ·  Lushendry Martes - 3 **8.00**  ·  Teo Quintero - 3 **9.00**  ·  Marvin Young - 3 **10.00**  ·  Giannino Vianello - 3 **11.00**  ·  Max de Ligt - 3 **11.00**  ·  Nick Verschuren - 3 **11.00**  ·  Bruno Martins Indi - 3 **21.00**  ·  Milan Zonneveld - 4 **1.30**  ·  Shunsuke Mito - 4 **2.10**  ·  Mitchell van Bergen - 4 **2.75**  ·  Casper Terho - 4 **3.40**  ·  Joel Ideho - 4 **4.00**  ·  Younes el Meftahi - 4 **4.00**  ·  Robin van Cruijsen - 4 **4.50**  ·  Alwande Roaldsoy - 4 **4.50**  ·  Jens Toornstra - 4 **10.00**  ·  Bas Kuipers - 4 **13.00**  ·  Boyd Reith - 4 **21.00**  ·  Lushendry Martes - 4 **21.00**  ·  Teo Quintero - 4 **21.00**  ·  Marvin Young - 4 **21.00**  ·  Milan Zonneveld - 5 **1.67**  ·  Shunsuke Mito - 5 **3.40**  ·  Mitchell van Bergen - 5 **5.00**  ·  Casper Terho - 5 **6.00**  ·  Joel Ideho - 5 **9.00**  ·  Younes el Meftahi - 5 **8.00**  ·  Robin van Cruijsen - 5 **10.00**  ·  Alwande Roaldsoy - 5 **10.00**  ·  Milan Zonneveld - 6 **2.38**  ·  Shunsuke Mito - 6 **6.00**  ·  Mitchell van Bergen - 6 **10.00**  ·  Casper Terho - 6 **13.00**  ·  Joel Ideho - 6 **17.00**  ·  Younes el Meftahi - 6 **17.00**  ·  Robin van Cruijsen - 6 **21.00**  ·  Alwande Roaldsoy - 6 **21.00**  ·  Milan Zonneveld - 7 **3.50**  ·  Shunsuke Mito - 7 **11.00**  ·  Mitchell van Bergen - 7 **19.00**  ·  Casper Terho - 7 **21.00**  ·  Milan Zonneveld - 8 **5.50**  ·  Shunsuke Mito - 8 **21.00**  ·  Milan Zonneveld - 9 **10.00**  ·  Milan Zonneveld - 10 **17.00**  ·  Jens Toornstra - 5 **21.00**  ·  Isaac Babadi - 1 **1.10**  ·  Isaac Babadi - 2 **1.44**  ·  Isaac Babadi - 3 **2.25**  ·  Isaac Babadi - 4 **4.00**  ·  Isaac Babadi - 5 **9.00**  ·  Julian Baas - 1 **1.33**  ·  Julian Baas - 2 **2.38**  ·  Julian Baas - 3 **5.50**  ·  Julian Baas - 4 **13.00**  ·  Milan Zonneveld - 11 **21.00**  ·  Isaac Babadi - 6 **17.00**  ·  Cedric Hatenboer - 5 **21.00**  ·  Andrej Kostic - 1 **1.03**  ·  Andrej Kostic - 2 **1.18**  ·  Andrej Kostic - 3 **1.57**  ·  Andrej Kostic - 4 **2.38**  ·  Andrej Kostic - 6 **7.00**  ·  Andrej Kostic - 7 **15.00**  ·  Andrej Kostic - 8 **21.00**
+- **Anytime Goal Scorer:** Lucas Jetten **8.00**  ·  Fabian Kvam **3.75**  ·  Rik Mulders **6.50**  ·  Andrej Kostic **2.50**  ·  Billy Van Duijl **9.00**  ·  Robin van Cruijsen **4.00**  ·  Giannino Vianello **9.00**  ·  Ismael Baouf **7.50**  ·  Nicolas Binder **2.50**  ·  Casper Terho **3.25**  ·  Mathieu Maertens **5.00**  ·  Mitchell Van Bergen **3.75**  ·  Bas Kuipers **8.00**  ·  Isaac Babadi **3.75**  ·  Jens Toornstra **5.50**  ·  Devid Eugene Bouah **8.00**  ·  Jamal Amofa **11.00**  ·  Ilyes Hamache **3.75**  ·  Shunsuke Mito **3.25**  ·  Julian Baas **6.50**  ·  Max de Ligt **9.00**  ·  Teo Quintero **7.50**  ·  Boyd Reith **7.50**  ·  Marvin Young **8.00**  ·  Bruno Martins Indi **13.00**  ·  Jason Ceka **4.00**  ·  Lushendry Martes **7.50**  ·  Younes el Meftahi **3.75**  ·  Alwande Roaldsoy **4.00**  ·  Ryan van de Pavert **7.50**  ·  Jorn Berkhout **9.00**  ·  Morgan Costarelli **7.50**  ·  Wiebe Kooistra **3.75**  ·  Ethan Apkakou **6.50**  ·  Skye Vink **3.00**  ·  Iwan Henstra **3.25**  ·  Wiebe van der Heide **3.25**  ·  Sami Bouhoudane **2.62**  ·  Damian Westerhof **6.50**  ·  Wessel van der Goot **5.00**  ·  Buddy Vogelzang **7.50**  ·  Rafik El Arguioui **3.00**  ·  Nick Verschuren **9.00**  ·  Cedric Hatenboer **5.50**  ·  Nicky Souren **6.50**  ·  Milan Zonneveld **2.20**  ·  Joel Ideho **3.75**
+- **Player to Score or Assist:** Lucas Jetten **4.50**  ·  Fabian Kvam **2.75**  ·  Rik Mulders **3.50**  ·  Andrej Kostic **1.91**  ·  Billy Van Duijl **5.50**  ·  Robin van Cruijsen **2.10**  ·  Giannino Vianello **4.00**  ·  Ismael Baouf **5.50**  ·  Nicolas Binder **2.00**  ·  Casper Terho **2.00**  ·  Mathieu Maertens **2.50**  ·  Mitchell Van Bergen **2.30**  ·  Bas Kuipers **3.75**  ·  Isaac Babadi **2.10**  ·  Jens Toornstra **2.50**  ·  Devid Eugene Bouah **3.60**  ·  Jamal Amofa **3.40**  ·  Ilyes Hamache **2.40**  ·  Shunsuke Mito **2.10**  ·  Julian Baas **2.88**  ·  Max de Ligt **5.50**  ·  Teo Quintero **4.00**  ·  Boyd Reith **4.75**  ·  Marvin Young **4.50**  ·  Bruno Martins Indi **5.50**  ·  Jason Ceka **2.20**  ·  Lushendry Martes **3.75**  ·  Younes el Meftahi **2.40**  ·  Alwande Roaldsoy **2.75**  ·  Ryan van de Pavert **3.60**  ·  Jorn Berkhout **6.50**  ·  Morgan Costarelli **4.75**  ·  Wiebe Kooistra **2.40**  ·  Ethan Apkakou **4.00**  ·  Skye Vink **2.25**  ·  Iwan Henstra **2.25**  ·  Wiebe van der Heide **2.38**  ·  Sami Bouhoudane **1.95**  ·  Damian Westerhof **2.88**  ·  Wessel van der Goot **2.50**  ·  Buddy Vogelzang **4.75**  ·  Rafik El Arguioui **2.05**  ·  Nick Verschuren **6.50**  ·  Cedric Hatenboer **3.00**  ·  Nicky Souren **3.60**  ·  Milan Zonneveld **1.73**  ·  Joel Ideho **2.30**
+
+## Estadísticas de equipo
+| | Cambuur (total) | Cambuur en casa | Sparta Rotterdam (total) | Sparta Rotterdam fuera |
+|---|---|---|---|---|
+| Partidos analizados | 13 | 7 | 13 | 6 |
+| Forma (últimos 5) | DVVVE | DVEVD | DVEDV | DVEDD |
+| Balance | 5V 3E 5D | 2V 1E 4D | 3V 4E 6D | 2V 1E 3D |
+| Goles a favor / partido | 2,08 | 2,00 | 1,77 | 2,00 |
+| Goles en contra / partido | 2,08 | 2,86 | 2,38 | 2,50 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,77 | 0,83 |
+| Goles a favor 2ª parte | 1,08 | 1,00 | 1,00 | 1,17 |
+| Goles en contra 1ª parte | 1,15 | 1,86 | 1,08 | 1,00 |
+| Goles en contra 2ª parte | 0,92 | 1,00 | 1,31 | 1,50 |
+| Más de 1,5 goles | 92% | 100% | 92% | 100% |
+| Más de 2,5 goles | 77% | 100% | 92% | 100% |
+| Más de 3,5 goles | 69% | 86% | 77% | 83% |
+| Ambos marcan | 62% | 57% | 85% | 100% |
+| Portería a cero | 31% | 29% | 0% | 0% |
+| Se queda sin marcar | 8% | 14% | 15% | 0% |
+| xG a favor | 1,43 | 1,35 | 1,91 | 2,11 |
+| xG en contra | 1,78 | 1,93 | 1,92 | 1,93 |
+| Tiros / partido | 12,5 | 11,9 | 14,3 | 13,0 |
+| Tiros a puerta / partido | 5,0 | 4,6 | 5,1 | 5,8 |
+| Tiros recibidos | 13,9 | 13,7 | 16,8 | 16,7 |
+| Tiros a puerta recibidos | 5,1 | 5,4 | 5,9 | 6,5 |
+| Posesión media % | 46 | 41 | 46 | 41 |
+| Córners a favor | 3,8 | 3,6 | 5,9 | 6,0 |
+| Córners en contra | 5,7 | 4,9 | 6,2 | 6,3 |
+| Córners a favor 1ª parte | 1,6 | 1,3 | 2,5 | 2,8 |
+| Córners a favor 2ª parte | 2,2 | 2,3 | 3,2 | 3,2 |
+| Córners totales del partido | 9,5 | 8,4 | 12,2 | 12,3 |
+| Córners totales 1ª parte | 3,8 | 3,0 | 6,5 | 6,3 |
+| Córners totales 2ª parte | 5,7 | 5,4 | 5,3 | 6,0 |
+| Más de 8,5 córners | 75% | 71% | 85% | 100% |
+| Más de 9,5 córners | 42% | 29% | 69% | 83% |
+| Más de 10,5 córners | 33% | 29% | 62% | 67% |
+| Faltas cometidas | 11,8 | 10,6 | 10,8 | 9,7 |
+| Faltas recibidas | 14,2 | 14,1 | 11,0 | 9,5 |
+| Amarillas propias | 1,8 | 1,4 | 1,5 | 1,5 |
+| Amarillas del rival | 1,8 | 1,6 | 1,4 | 1,0 |
+| Rojas / partido | 0,08 | 0,14 | 0,00 | 0,00 |
+
+## Goles y tarjetas por tramos de minutos
+| Tramo | Goles Cambuur | Recibe Cambuur | Tarjetas Cambuur | Goles Sparta Rotterdam | Recibe Sparta Rotterdam | Tarjetas Sparta Rotterdam |
+|---|---|---|---|---|---|---|
+| 1-15' | 6 | 4 | 0 | 4 | 1 | 1 |
+| 16-30' | 3 | 7 | 3 | 3 | 9 | 3 |
+| 31-45' | 4 | 4 | 4 | 3 | 4 | 2 |
+| 46-60' | 4 | 1 | 4 | 5 | 5 | 4 |
+| 61-75' | 2 | 3 | 6 | 3 | 6 | 4 |
+| 76-90' | 8 | 8 | 10 | 5 | 6 | 7 |
+
+_Totales de la temporada (el tramo 76-90 incluye el descuento)._
+
+## Bajas y dudas
+_Sin bajas comunicadas por ahora._
+
+## Enfrentamientos directos recientes
+- 2023-05-21 · Eredivisie: Sparta Rotterdam 4-1 Cambuur
+- 2023-01-21 · Eredivisie: Cambuur 0-3 Sparta Rotterdam
+- 2022-01-16 · Eredivisie: Cambuur 1-1 Sparta Rotterdam
+- 2021-09-26 · Eredivisie: Sparta Rotterdam 0-4 Cambuur
+- 2019-01-13 · Eerste Divisie: Cambuur 3-3 Sparta Rotterdam
+- 2018-10-14 · Eerste Divisie: Sparta Rotterdam 3-0 Cambuur
+
+## Últimos partidos de Cambuur
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-11-08 | Eredivisie | Cambuur 2-5 PSV Eindhoven | casa | 1-1 | 10 (3) - 16 (7) | 3-2 |
+| 2026-10-31 | Eredivisie | Cambuur 4-0 GO Ahead Eagles | casa | 7-2 | 15 (7) - 10 (1) | 2-1 |
+| 2026-10-27 | KNVB Beker | Kloetinge 0-2 Cambuur | fuera | –-– | – (–) - – (–) | –-– |
+| 2026-10-24 | Eredivisie | Willem II 1-6 Cambuur | fuera | 4-13 | 19 (11) - 11 (2) | 0-2 |
+| 2026-10-18 | Eredivisie | Cambuur 2-2 AZ Alkmaar | casa | 3-6 | 11 (6) - 7 (4) | 2-2 |
+| 2026-10-11 | Eredivisie | PEC Zwolle 0-1 Cambuur | fuera | 5-5 | 13 (4) - 14 (6) | 3-3 |
+
+## Jugadores de Cambuur
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| T. Jansen | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 6 | 0,5 | 1 | 0 |
+| N. Souren | M | 12 | 1068 | 1 | 1 | 6 | 0,5 | 4 | 0,3 | 11 | 10 | 0,8 | 3 | 0 |
+| R. El Arguioui | M | 12 | 1064 | 6 | 3 | 32 | 2,7 | 15 | 1,2 | 12 | 9 | 0,8 | 2 | 0 |
+| I. Baouf | D | 12 | 1032 | 2 | 0 | 9 | 0,8 | 7 | 0,6 | 13 | 9 | 0,8 | 1 | 0 |
+| I. Hamache | F | 12 | 922 | 5 | 3 | 17 | 1,4 | 10 | 0,8 | 3 | 9 | 0,8 | 0 | 0 |
+| M. Costarelli | D | 12 | 840 | 0 | 2 | 6 | 0,5 | 1 | 0,1 | 9 | 13 | 1,1 | 2 | 0 |
+| B. van Duijl | D | 9 | 785 | 1 | 2 | 3 | 0,3 | 1 | 0,1 | 6 | 8 | 0,9 | 0 | 0 |
+| D. Bouah | D | 9 | 577 | 0 | 1 | 6 | 0,7 | 0 | 0,0 | 11 | 15 | 1,7 | 2 | 1 |
+| N. Binder | F | 10 | 563 | 5 | 2 | 11 | 1,1 | 6 | 0,6 | 11 | 10 | 1,0 | 1 | 0 |
+| M. Maertens | M | 8 | 501 | 0 | 0 | 6 | 0,8 | 1 | 0,1 | 20 | 26 | 3,2 | 2 | 0 |
+| J. Amofa | D | 8 | 465 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 9 | 8 | 1,0 | 0 | 0 |
+| S. Bouhoudane | F | 11 | 460 | 0 | 2 | 9 | 0,8 | 2 | 0,2 | 4 | 2 | 0,2 | 1 | 0 |
+| Iwan Henstra | F | 10 | 430 | 2 | 0 | 9 | 0,9 | 4 | 0,4 | 4 | 5 | 0,5 | 1 | 0 |
+| J. Çeka | F | 6 | 381 | 2 | 1 | 10 | 1,7 | 5 | 0,8 | 8 | 7 | 1,2 | 1 | 0 |
+| L. Jetten | D | 6 | 351 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 1 | 6 | 1,0 | 1 | 0 |
+| F. Kvam | F | 8 | 346 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 4 | 7 | 0,9 | 0 | 0 |
+| S. Vink | F | 9 | 261 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 3 | 2 | 0,2 | 0 | 0 |
+| W. Kooistra | F | 6 | 197 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 5 | 2 | 0,3 | 1 | 0 |
+| R. Mulders | D | 6 | 188 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 6 | 1,0 | 1 | 0 |
+| Ethan Apkakou | M | 6 | 164 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+
+## Últimos partidos de Sparta Rotterdam
+| Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
+|---|---|---|---|---|---|---|
+| 2026-11-07 | Eredivisie | ADO Den Haag 3-1 Sparta Rotterdam | fuera | 9-5 | 16 (6) - 13 (7) | 0-1 |
+| 2026-11-01 | Eredivisie | Groningen 2-3 Sparta Rotterdam | fuera | 7-2 | 8 (4) - 20 (10) | 3-1 |
+| 2026-10-28 | KNVB Beker | Sparta Rotterdam 2-2 Fortuna Sittard | casa | 5-9 | 19 (5) - 14 (5) | 1-3 |
+| 2026-10-25 | Eredivisie | Sparta Rotterdam 1-2 Ajax | casa | 5-3 | 11 (5) - 16 (4) | 1-2 |
+| 2026-10-17 | Eredivisie | Sparta Rotterdam 3-2 Willem II | casa | 3-4 | 22 (8) - 13 (4) | 4-4 |
+| 2026-10-10 | Eredivisie | GO Ahead Eagles 3-3 Sparta Rotterdam | fuera | 6-9 | 18 (8) - 17 (6) | 3-0 |
+
+## Jugadores de Sparta Rotterdam
+| Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| B. Kuipers | D | 13 | 1200 | 1 | 3 | 7 | 0,5 | 3 | 0,2 | 10 | 8 | 0,6 | 2 | 0 |
+| M. Young | D | 13 | 1183 | 2 | 2 | 10 | 0,8 | 3 | 0,2 | 11 | 14 | 1,1 | 1 | 0 |
+| L. Martes | D | 13 | 1107 | 2 | 0 | 11 | 0,8 | 6 | 0,5 | 15 | 12 | 0,9 | 4 | 0 |
+| M. Zonneveld | F | 13 | 963 | 9 | 2 | 37 | 2,8 | 16 | 1,2 | 16 | 13 | 1,0 | 1 | 0 |
+| B. Martins Indi | D | 11 | 901 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 14 | 5 | 0,5 | 2 | 0 |
+| N. Verschuren | D | 12 | 828 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 14 | 1,2 | 1 | 0 |
+| Cedric Hatenboer | M | 9 | 753 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 7 | 8 | 0,9 | 2 | 0 |
+| M. Brouwer | G | 8 | 708 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,4 | 0 | 0 |
+| I. Babadi | M | 9 | 619 | 1 | 4 | 6 | 0,7 | 3 | 0,3 | 5 | 5 | 0,6 | 2 | 0 |
+| M. van Bergen | M | 11 | 561 | 0 | 1 | 10 | 0,9 | 5 | 0,5 | 1 | 8 | 0,7 | 1 | 0 |
+| Robin van Cruijsen | M | 12 | 558 | 1 | 0 | 13 | 1,1 | 5 | 0,4 | 5 | 3 | 0,2 | 0 | 0 |
+| Julian Baas | M | 7 | 533 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 8 | 3 | 0,4 | 1 | 0 |
+| Casper Terho | F | 10 | 513 | 1 | 0 | 9 | 0,9 | 4 | 0,4 | 4 | 10 | 1,0 | 1 | 0 |
+| S. Mito | M | 7 | 498 | 0 | 2 | 4 | 0,6 | 2 | 0,3 | 1 | 7 | 1,0 | 0 | 0 |
+| F. Bednarek | G | 6 | 492 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| J. Toornstra | M | 9 | 482 | 2 | 1 | 6 | 0,7 | 3 | 0,3 | 7 | 4 | 0,4 | 1 | 0 |
+| Teo Quintero | M | 10 | 346 | 0 | 0 | 7 | 0,7 | 1 | 0,1 | 9 | 7 | 0,7 | 0 | 0 |
+| Ayoni Santos | F | 3 | 257 | 0 | 0 | 5 | 1,7 | 2 | 0,7 | 2 | 4 | 1,3 | 0 | 0 |
+| Nökkvi Þórisson | F | 3 | 209 | 1 | 1 | 7 | 2,3 | 4 | 1,3 | 9 | 5 | 1,7 | 0 | 0 |
+| Joel Ideho | F | 7 | 147 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 1 | 2 | 0,3 | 0 | 0 |

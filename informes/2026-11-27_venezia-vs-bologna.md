@@ -1,10 +1,10 @@
 # Venezia – Bologna
 **Serie A** · Regular Season - 13 · 27/11/2026 20:45 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 02:15_
+_Actualizadas: 21/11 02:19_
 
 - **1X2:** 1 **3.70**  ·  X **3.50**  ·  2 **1.95**
 - **Doble oportunidad:** 1X **1.80**  ·  12 **1.28**  ·  X2 **1.28**

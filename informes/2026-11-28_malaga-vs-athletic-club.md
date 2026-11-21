@@ -1,7 +1,7 @@
 # Malaga – Athletic Club
 **LaLiga** · Regular Season - 14 · 28/11/2026 16:15 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Actualizadas: 20/11 20:09_
@@ -51,43 +51,43 @@ _Actualizadas: 20/11 20:09_
 ## Estadísticas de equipo
 | | Malaga (total) | Malaga en casa | Athletic Club (total) | Athletic Club fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 12 | 6 |
-| Forma (últimos 5) | DDVED | DDEDE | EVVVD | EVDEV |
-| Balance | 1V 5E 7D | 0V 3E 3D | 5V 4E 3D | 2V 2E 2D |
-| Goles a favor / partido | 0,92 | 1,00 | 1,75 | 1,67 |
+| Partidos analizados | 13 | 6 | 13 | 6 |
+| Forma (últimos 5) | DDVED | DDEDE | DEVVV | EVDEV |
+| Balance | 1V 5E 7D | 0V 3E 3D | 5V 4E 4D | 2V 2E 2D |
+| Goles a favor / partido | 0,92 | 1,00 | 1,62 | 1,67 |
 | Goles en contra / partido | 1,77 | 2,00 | 1,00 | 1,17 |
-| Goles a favor 1ª parte | 0,31 | 0,50 | 0,75 | 0,83 |
-| Goles a favor 2ª parte | 0,62 | 0,50 | 1,00 | 0,83 |
-| Goles en contra 1ª parte | 0,92 | 1,00 | 0,50 | 0,67 |
-| Goles en contra 2ª parte | 0,85 | 1,00 | 0,50 | 0,50 |
-| Más de 1,5 goles | 85% | 83% | 83% | 83% |
-| Más de 2,5 goles | 46% | 50% | 50% | 33% |
-| Más de 3,5 goles | 23% | 33% | 33% | 33% |
-| Ambos marcan | 62% | 83% | 50% | 50% |
-| Portería a cero | 15% | 17% | 42% | 33% |
-| Se queda sin marcar | 31% | 17% | 25% | 33% |
-| xG a favor | 0,98 | 1,34 | 1,66 | 1,58 |
-| xG en contra | 1,75 | 1,87 | 1,21 | 1,83 |
+| Goles a favor 1ª parte | 0,31 | 0,50 | 0,69 | 0,83 |
+| Goles a favor 2ª parte | 0,62 | 0,50 | 0,92 | 0,83 |
+| Goles en contra 1ª parte | 0,92 | 1,00 | 0,46 | 0,67 |
+| Goles en contra 2ª parte | 0,85 | 1,00 | 0,54 | 0,50 |
+| Más de 1,5 goles | 85% | 83% | 77% | 83% |
+| Más de 2,5 goles | 46% | 50% | 46% | 33% |
+| Más de 3,5 goles | 23% | 33% | 31% | 33% |
+| Ambos marcan | 62% | 83% | 46% | 50% |
+| Portería a cero | 15% | 17% | 38% | 33% |
+| Se queda sin marcar | 31% | 17% | 31% | 33% |
+| xG a favor | 0,98 | 1,34 | 1,65 | 1,58 |
+| xG en contra | 1,75 | 1,87 | 1,15 | 1,83 |
 | Tiros / partido | 11,2 | 12,7 | 15,8 | 15,5 |
 | Tiros a puerta / partido | 3,5 | 4,5 | 4,8 | 4,8 |
-| Tiros recibidos | 16,3 | 14,0 | 10,8 | 13,5 |
-| Tiros a puerta recibidos | 5,8 | 5,7 | 3,8 | 4,8 |
+| Tiros recibidos | 16,3 | 14,0 | 10,4 | 13,5 |
+| Tiros a puerta recibidos | 5,8 | 5,7 | 3,7 | 4,8 |
 | Posesión media % | 49 | 51 | 56 | 55 |
-| Córners a favor | 5,1 | 5,8 | 5,8 | 6,3 |
-| Córners en contra | 5,3 | 4,3 | 4,4 | 4,7 |
+| Córners a favor | 5,1 | 5,8 | 6,1 | 6,3 |
+| Córners en contra | 5,3 | 4,3 | 4,2 | 4,7 |
 | Córners a favor 1ª parte | 2,0 | 2,8 | 3,2 | 3,7 |
-| Córners a favor 2ª parte | 3,1 | 3,0 | 2,7 | 2,7 |
-| Córners totales del partido | 10,4 | 10,2 | 10,2 | 11,0 |
+| Córners a favor 2ª parte | 3,1 | 3,0 | 2,9 | 2,7 |
+| Córners totales del partido | 10,4 | 10,2 | 10,3 | 11,0 |
 | Córners totales 1ª parte | 4,6 | 4,7 | 5,2 | 5,8 |
-| Córners totales 2ª parte | 5,8 | 5,5 | 5,1 | 5,2 |
-| Más de 8,5 córners | 83% | 100% | 58% | 67% |
-| Más de 9,5 córners | 58% | 67% | 58% | 67% |
-| Más de 10,5 córners | 42% | 33% | 50% | 50% |
-| Faltas cometidas | 11,8 | 11,5 | 11,2 | 11,5 |
+| Córners totales 2ª parte | 5,8 | 5,5 | 5,2 | 5,2 |
+| Más de 8,5 córners | 83% | 100% | 62% | 67% |
+| Más de 9,5 córners | 58% | 67% | 62% | 67% |
+| Más de 10,5 córners | 42% | 33% | 54% | 50% |
+| Faltas cometidas | 11,8 | 11,5 | 11,6 | 11,5 |
 | Faltas recibidas | 11,2 | 10,3 | 13,0 | 13,5 |
 | Amarillas propias | 2,5 | 3,2 | 1,8 | 1,8 |
-| Amarillas del rival | 2,2 | 2,7 | 2,1 | 1,7 |
-| Rojas / partido | 0,08 | 0,17 | 0,17 | 0,17 |
+| Amarillas del rival | 2,2 | 2,7 | 2,0 | 1,7 |
+| Rojas / partido | 0,08 | 0,17 | 0,15 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Malaga | Recibe Malaga | Tarjetas Malaga | Goles Athletic Club | Recibe Athletic Club | Tarjetas Athletic Club |
@@ -95,9 +95,9 @@ _Actualizadas: 20/11 20:09_
 | 1-15' | 1 | 2 | 0 | 1 | 1 | 1 |
 | 16-30' | 1 | 5 | 4 | 4 | 3 | 1 |
 | 31-45' | 2 | 5 | 10 | 4 | 2 | 3 |
-| 46-60' | 1 | 3 | 1 | 2 | 3 | 4 |
-| 61-75' | 3 | 3 | 8 | 3 | 0 | 6 |
-| 76-90' | 4 | 5 | 12 | 7 | 2 | 8 |
+| 46-60' | 1 | 3 | 1 | 2 | 3 | 5 |
+| 61-75' | 3 | 3 | 8 | 3 | 1 | 7 |
+| 76-90' | 4 | 5 | 12 | 7 | 2 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,30 +149,30 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Athletic Club
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | LaLiga | Athletic Club 0-1 Espanyol | casa | 9-2 | 17 (6) - 6 (3) | 3-1 |
 | 2026-11-07 | LaLiga | Osasuna 1-1 Athletic Club | fuera | 4-6 | 16 (4) - 17 (5) | 1-3 |
 | 2026-11-01 | LaLiga | Athletic Club 2-1 Real Sociedad | casa | 5-8 | 13 (3) - 14 (5) | 2-3 |
 | 2026-10-29 | Copa del Rey | Prat 1-6 Athletic Club | fuera | 7-1 | 25 (12) - 6 (2) | 1-1 |
 | 2026-10-25 | LaLiga | Athletic Club 4-0 Getafe | casa | 2-4 | 11 (4) - 7 (1) | 1-3 |
 | 2026-10-21 | LaLiga | Levante 3-1 Athletic Club | fuera | 9-3 | 21 (4) - 12 (7) | 1-2 |
-| 2026-10-17 | LaLiga | Valencia 0-0 Athletic Club | fuera | 6-2 | 9 (2) - 16 (3) | 3-3 |
 
 ## Jugadores de Athletic Club
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Unai Simón | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Aymeric Laporte | D | 10 | 825 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 7 | 5 | 0,5 | 1 | 1 |
-| I. Williams | F | 11 | 765 | 3 | 2 | 20 | 1,8 | 9 | 0,8 | 7 | 14 | 1,3 | 1 | 0 |
-| Álex Berenguer | M | 11 | 729 | 4 | 4 | 19 | 1,7 | 6 | 0,5 | 11 | 11 | 1,0 | 1 | 0 |
-| Yuri | D | 9 | 726 | 1 | 0 | 14 | 1,6 | 3 | 0,3 | 5 | 4 | 0,4 | 3 | 1 |
-| Robert Navarro | M | 10 | 722 | 3 | 0 | 14 | 1,4 | 9 | 0,9 | 5 | 8 | 0,8 | 1 | 0 |
-| Beñat Gerenabarrena | M | 10 | 656 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 16 | 9 | 0,9 | 4 | 0 |
-| Nico Williams | M | 10 | 616 | 2 | 1 | 20 | 2,0 | 4 | 0,4 | 9 | 10 | 1,0 | 0 | 0 |
-| Peio Canales | M | 9 | 602 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 6 | 10 | 1,1 | 0 | 0 |
+| Unai Simón | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Aymeric Laporte | D | 11 | 910 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 7 | 5 | 0,5 | 1 | 1 |
+| I. Williams | F | 12 | 855 | 3 | 2 | 25 | 2,1 | 12 | 1,0 | 11 | 16 | 1,3 | 2 | 0 |
+| Álex Berenguer | M | 12 | 819 | 4 | 4 | 20 | 1,7 | 7 | 0,6 | 12 | 12 | 1,0 | 1 | 0 |
+| Yuri | D | 10 | 816 | 1 | 0 | 15 | 1,5 | 3 | 0,3 | 7 | 5 | 0,5 | 3 | 1 |
+| Robert Navarro | M | 11 | 743 | 3 | 0 | 15 | 1,4 | 9 | 0,8 | 5 | 10 | 0,9 | 1 | 0 |
+| Nico Williams | M | 11 | 706 | 2 | 1 | 25 | 2,3 | 5 | 0,5 | 11 | 12 | 1,1 | 0 | 0 |
+| Beñat Gerenabarrena | M | 11 | 677 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 17 | 9 | 0,8 | 4 | 0 |
+| Peio Canales | M | 10 | 663 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 7 | 10 | 1,0 | 0 | 0 |
+| Oihan Sancet | M | 9 | 626 | 1 | 0 | 16 | 1,8 | 6 | 0,7 | 5 | 12 | 1,3 | 1 | 0 |
+| Hugo Rincón | D | 8 | 616 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 8 | 20 | 2,5 | 1 | 0 |
+| Yeray | D | 9 | 587 | 0 | 1 | 5 | 0,6 | 0 | 0,0 | 5 | 4 | 0,4 | 1 | 0 |
 | Aitor Paredes | D | 8 | 567 | 2 | 0 | 2 | 0,2 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
-| Hugo Rincón | D | 7 | 547 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 7 | 17 | 2,4 | 1 | 0 |
-| Oihan Sancet | M | 8 | 541 | 1 | 0 | 15 | 1,9 | 5 | 0,6 | 4 | 11 | 1,4 | 1 | 0 |
-| Yeray | D | 8 | 497 | 0 | 1 | 5 | 0,6 | 0 | 0,0 | 4 | 4 | 0,5 | 0 | 0 |
-| Ruíz de Galarreta | M | 9 | 481 | 0 | 1 | 6 | 0,7 | 1 | 0,1 | 12 | 7 | 0,8 | 3 | 0 |
+| Ruíz de Galarreta | M | 10 | 510 | 0 | 1 | 6 | 0,6 | 1 | 0,1 | 13 | 8 | 0,8 | 4 | 0 |
 | Jesús Areso | D | 7 | 461 | 0 | 1 | 3 | 0,4 | 2 | 0,3 | 4 | 7 | 1,0 | 1 | 0 |
 | Mikel Jauregizar | M | 8 | 392 | 0 | 2 | 6 | 0,8 | 3 | 0,4 | 8 | 4 | 0,5 | 0 | 0 |
 | J. Louis-Jean | D | 10 | 341 | 0 | 0 | 7 | 0,7 | 1 | 0,1 | 7 | 4 | 0,4 | 1 | 0 |

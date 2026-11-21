@@ -1,10 +1,10 @@
 # Millwall – QPR
 **Championship** · Regular Season - 16 · 21/11/2026 13:30 (hora España) · The Den
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
 - **1X2:** 1 **2.60**  ·  X **3.50**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.44**  ·  12 **1.28**  ·  X2 **1.50**

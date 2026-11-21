@@ -1,19 +1,19 @@
 # Paris FC – Angers
 **Ligue 1** · Regular Season - 11 · 22/11/2026 15:00 (hora España) · Stade Jean-Bouin
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:07_
+_Actualizadas: 21/11 02:18_
 
 - **1X2:** 1 **1.33**  ·  X **5.50**  ·  2 **8.50**
 - **Doble oportunidad:** 1X **1.08**  ·  12 **1.14**  ·  X2 **3.25**
 - **Ambos marcan:** Sí **1.95**  ·  No **1.80**
 - **Goles más/menos:**
-    - 1,5: más **1.20** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.30**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.38**
     - 3,5: más **2.50** · menos **1.53**
-    - 4,5: más **4.50** · menos **1.20**
+    - 4,5: más **4.33** · menos **1.22**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
@@ -23,7 +23,7 @@ _Actualizadas: 20/11 20:07_
     - 0,5: más **1.07** · menos **9.00**
     - 1,5: más **1.40** · menos **2.75**
     - 2,5: más **2.20** · menos **1.62**
-    - 3,5: más **4.33** · menos **1.20**
+    - 3,5: más **4.00** · menos **1.22**
     - 4,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.80** · menos **1.91**
@@ -69,7 +69,7 @@ _Actualizadas: 20/11 20:07_
 - **Away Player Shots:** Mamadou Simbakoli - 1 **1.20**  ·  Jim Allevinah - 1 **1.17**  ·  Prosper Peter - 1 **1.14**  ·  Amine El Ouazzani - 1 **1.18**  ·  Amine Sbai - 1 **1.20**  ·  Harouna Djibirin - 1 **1.18**  ·  Bane Diatta - 1 **2.62**  ·  Anthony Bermont - 1 **1.30**  ·  Branco van den Boomen - 1 **1.40**  ·  Louis Mouton - 1 **1.33**  ·  Yassin Belkhdim - 1 **2.10**  ·  Lilian Raolisoa - 1 **1.91**  ·  Emmanuel Biumla - 1 **4.00**  ·  Haris Belkebla - 1 **2.62**  ·  Carlens Arcus - 1 **2.00**  ·  Joseph Kalulu - 1 **4.00**  ·  Jordan Lefort - 1 **4.00**  ·  Mael Gernigon - 1 **4.00**  ·  Marius Louer - 1 **3.25**  ·  Ousmane Camara - 1 **4.00**  ·  Mamadou Simbakoli - 2 **1.91**  ·  Jim Allevinah - 2 **1.73**  ·  Prosper Peter - 2 **1.67**  ·  Amine El Ouazzani - 2 **1.83**  ·  Amine Sbai - 2 **1.83**  ·  Harouna Djibirin - 2 **1.83**  ·  Bane Diatta - 2 **10.00**  ·  Anthony Bermont - 2 **2.25**  ·  Branco van den Boomen - 2 **2.62**  ·  Louis Mouton - 2 **2.50**  ·  Yassin Belkhdim - 2 **6.50**  ·  Lilian Raolisoa - 2 **5.50**  ·  Emmanuel Biumla - 2 **19.00**  ·  Haris Belkebla - 2 **10.00**  ·  Carlens Arcus - 2 **6.00**  ·  Joseph Kalulu - 2 **19.00**  ·  Jordan Lefort - 2 **19.00**  ·  Mael Gernigon - 2 **19.00**  ·  Marius Louer - 2 **13.00**  ·  Ousmane Camara - 2 **19.00**  ·  Mamadou Simbakoli - 3 **3.75**  ·  Jim Allevinah - 3 **3.25**  ·  Prosper Peter - 3 **3.00**  ·  Amine El Ouazzani - 3 **3.50**  ·  Amine Sbai - 3 **3.50**  ·  Harouna Djibirin - 3 **3.50**  ·  Anthony Bermont - 3 **5.00**  ·  Branco van den Boomen - 3 **6.00**  ·  Louis Mouton - 3 **5.50**  ·  Yassin Belkhdim - 3 **19.00**  ·  Lilian Raolisoa - 3 **17.00**  ·  Carlens Arcus - 3 **19.00**  ·  Mamadou Simbakoli - 4 **8.00**  ·  Jim Allevinah - 4 **6.50**  ·  Prosper Peter - 4 **6.00**  ·  Amine El Ouazzani - 4 **7.00**  ·  Amine Sbai - 4 **8.00**  ·  Harouna Djibirin - 4 **7.00**  ·  Anthony Bermont - 4 **13.00**  ·  Branco van den Boomen - 4 **15.00**  ·  Louis Mouton - 4 **13.00**  ·  Mamadou Simbakoli - 5 **19.00**  ·  Jim Allevinah - 5 **15.00**  ·  Prosper Peter - 5 **13.00**  ·  Amine El Ouazzani - 5 **17.00**  ·  Amine Sbai - 5 **17.00**  ·  Harouna Djibirin - 5 **17.00**  ·  Prosper Peter - 6 **21.00**  ·  Anthony Bermont - 5 **21.00**  ·  Jules Bouffandeau - 1 **3.25**  ·  Jules Bouffandeau - 2 **13.00**
 - **Goalkeeper Saves:** Anthony Lopes - 2 **1.06**  ·  Anthony Lopes - 3 **1.25**  ·  Anthony Lopes - 4 **1.62**  ·  Anthony Lopes - 5 **2.38**  ·  Anthony Lopes - 6 **3.75**  ·  Anthony Lopes - 7 **7.00**  ·  Kevin Trapp - 2 **1.53**  ·  Kevin Trapp - 3 **2.62**  ·  Kevin Trapp - 4 **5.50**  ·  Kevin Trapp - 1 **1.11**
 - **Anytime Goal Scorer:** Rudy Matondo **5.50**  ·  Prosper Peter **5.50**  ·  Jean-Philippe Krasso **1.83**  ·  Anthony Bermont **7.50**  ·  Moses Simon **2.50**  ·  Omar Sissoko **2.50**  ·  Pablo Pagis **2.20**  ·  Ilan Kebbal **2.38**  ·  Maxime Lopez **7.50**  ·  Samir Chergui **6.50**  ·  Vincent Marchetti **3.60**  ·  Adama Camara **3.60**  ·  Mamadou Mbow **7.50**  ·  Yoan Kore **7.50**  ·  Marius Louer **17.00**  ·  Lassine Sinayoko **1.73**  ·  Thibault De Smet **7.50**  ·  Luca Koleosho **3.20**  ·  Louis Mouton **9.00**  ·  Pierre Lees-Melou **4.75**  ·  Jim Allevinah **7.50**  ·  Haris Belkebla **13.00**  ·  Carlens Arcus **13.00**  ·  Yassin Belkhdim **10.00**  ·  Ousmane Camara **17.00**  ·  Emmanuel Biumla **13.00**  ·  Jordan Lefort **17.00**  ·  Lilian Raolisoa **12.00**  ·  Harouna Djibirin **6.50**  ·  Diego Coppola **7.50**  ·  Jonathan Ikone **3.00**  ·  Hamari Traore **12.00**  ·  Branco van den Boomen **9.00**  ·  Amine El Ouazzani **5.50**  ·  Mael Gernigon **17.00**  ·  Bane Diatta **8.00**  ·  Emmanuel Mbemba **7.50**  ·  Joseph Kalulu **13.00**  ·  Mamadou Simbakoli **4.33**  ·  Jules Bouffandeau **12.00**  ·  Amine Sbai **6.50**  ·  Zabi Gueu **5.50**  ·  Otavio da Silva **9.00**
-- **Player to Score or Assist:** Rudy Matondo **2.75**  ·  Prosper Peter **3.75**  ·  Jean-Philippe Krasso **1.53**  ·  Anthony Bermont **4.75**  ·  Moses Simon **1.67**  ·  Omar Sissoko **1.80**  ·  Pablo Pagis **1.62**  ·  Ilan Kebbal **1.57**  ·  Maxime Lopez **3.10**  ·  Samir Chergui **4.33**  ·  Vincent Marchetti **2.20**  ·  Adama Camara **2.75**  ·  Mamadou Mbow **5.00**  ·  Yoan Kore **4.50**  ·  Marius Louer **10.00**  ·  Lassine Sinayoko **1.40**  ·  Thibault De Smet **3.20**  ·  Luca Koleosho **2.05**  ·  Louis Mouton **5.50**  ·  Pierre Lees-Melou **2.88**  ·  Jim Allevinah **4.75**  ·  Haris Belkebla **8.50**  ·  Carlens Arcus **7.00**  ·  Yassin Belkhdim **5.00**  ·  Ousmane Camara **11.00**  ·  Emmanuel Biumla **9.50**  ·  Jordan Lefort **10.00**  ·  Lilian Raolisoa **6.00**  ·  Harouna Djibirin **4.50**  ·  Diego Coppola **5.00**  ·  Jonathan Ikone **2.05**  ·  Hamari Traore **4.33**  ·  Branco van den Boomen **5.00**  ·  Amine El Ouazzani **3.75**  ·  Mael Gernigon **11.00**  ·  Bane Diatta **4.50**  ·  Emmanuel Mbemba **4.50**  ·  Joseph Kalulu **7.00**  ·  Mamadou Simbakoli **3.40**  ·  Jules Bouffandeau **6.00**  ·  Amine Sbai **4.50**  ·  Zabi Gueu **2.75**  ·  Otavio da Silva **5.00**
+- **Player to Score or Assist:** Rudy Matondo **2.75**  ·  Prosper Peter **3.75**  ·  Jean-Philippe Krasso **1.50**  ·  Anthony Bermont **4.75**  ·  Moses Simon **1.67**  ·  Omar Sissoko **1.80**  ·  Pablo Pagis **1.62**  ·  Ilan Kebbal **1.57**  ·  Maxime Lopez **3.10**  ·  Samir Chergui **4.33**  ·  Vincent Marchetti **2.10**  ·  Adama Camara **2.75**  ·  Mamadou Mbow **5.00**  ·  Yoan Kore **4.33**  ·  Marius Louer **10.00**  ·  Lassine Sinayoko **1.40**  ·  Thibault De Smet **3.20**  ·  Luca Koleosho **2.10**  ·  Louis Mouton **5.50**  ·  Pierre Lees-Melou **2.88**  ·  Jim Allevinah **4.75**  ·  Haris Belkebla **8.50**  ·  Carlens Arcus **7.00**  ·  Yassin Belkhdim **5.00**  ·  Ousmane Camara **11.00**  ·  Emmanuel Biumla **9.50**  ·  Jordan Lefort **9.50**  ·  Lilian Raolisoa **6.00**  ·  Harouna Djibirin **4.50**  ·  Diego Coppola **5.00**  ·  Jonathan Ikone **2.05**  ·  Hamari Traore **4.33**  ·  Branco van den Boomen **5.00**  ·  Amine El Ouazzani **3.75**  ·  Mael Gernigon **11.00**  ·  Bane Diatta **4.33**  ·  Emmanuel Mbemba **4.33**  ·  Joseph Kalulu **7.00**  ·  Mamadou Simbakoli **3.40**  ·  Jules Bouffandeau **6.00**  ·  Amine Sbai **4.50**  ·  Zabi Gueu **2.75**  ·  Otavio da Silva **5.00**
 
 ## Estadísticas de equipo
 | | Paris FC (total) | Paris FC en casa | Angers (total) | Angers fuera |

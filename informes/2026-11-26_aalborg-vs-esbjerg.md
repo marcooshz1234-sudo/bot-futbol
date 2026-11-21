@@ -1,7 +1,7 @@
 # Aalborg – Esbjerg
 **1. Division** · Regular Season - 16 · 26/11/2026 19:00 (hora España) · Aalborg Portland Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Aalborg (total) | Aalborg en casa | Esbjerg (total) | Esbjerg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 14 | 7 |
-| Forma (últimos 5) | EEDDE | EDEED | VEVEE | VEDDD |
-| Balance | 3V 7E 4D | 1V 4E 2D | 3V 5E 6D | 2V 1E 4D |
-| Goles a favor / partido | 1,21 | 0,71 | 1,21 | 1,00 |
-| Goles en contra / partido | 1,36 | 1,14 | 1,71 | 1,71 |
-| Goles a favor 1ª parte | 0,79 | 0,43 | 0,57 | 0,57 |
-| Goles a favor 2ª parte | 0,43 | 0,29 | 0,64 | 0,43 |
-| Goles en contra 1ª parte | 0,50 | 0,29 | 0,43 | 0,29 |
-| Goles en contra 2ª parte | 0,86 | 0,86 | 1,29 | 1,43 |
-| Más de 1,5 goles | 79% | 57% | 79% | 57% |
-| Más de 2,5 goles | 50% | 29% | 57% | 57% |
-| Más de 3,5 goles | 21% | 14% | 29% | 29% |
-| Ambos marcan | 64% | 43% | 64% | 43% |
-| Portería a cero | 21% | 29% | 14% | 29% |
-| Se queda sin marcar | 21% | 43% | 29% | 43% |
+| Partidos analizados | 15 | 7 | 14 | 7 |
+| Forma (últimos 5) | EEEDD | EDEED | VEVEE | VEDDD |
+| Balance | 3V 8E 4D | 1V 4E 2D | 3V 5E 6D | 2V 1E 4D |
+| Goles a favor / partido | 1,20 | 0,71 | 1,21 | 1,00 |
+| Goles en contra / partido | 1,33 | 1,14 | 1,71 | 1,71 |
+| Goles a favor 1ª parte | 0,80 | 0,43 | 0,57 | 0,57 |
+| Goles a favor 2ª parte | 0,40 | 0,29 | 0,64 | 0,43 |
+| Goles en contra 1ª parte | 0,47 | 0,29 | 0,43 | 0,29 |
+| Goles en contra 2ª parte | 0,87 | 0,86 | 1,29 | 1,43 |
+| Más de 1,5 goles | 80% | 57% | 79% | 57% |
+| Más de 2,5 goles | 47% | 29% | 57% | 57% |
+| Más de 3,5 goles | 20% | 14% | 29% | 29% |
+| Ambos marcan | 67% | 43% | 64% | 43% |
+| Portería a cero | 20% | 29% | 14% | 29% |
+| Se queda sin marcar | 20% | 43% | 29% | 43% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -51,11 +51,11 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 | Tramo | Goles Aalborg | Recibe Aalborg | Tarjetas Aalborg | Goles Esbjerg | Recibe Esbjerg | Tarjetas Esbjerg |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 4 | 3 | 2 | 2 | 1 |
-| 16-30' | 3 | 2 | 4 | 3 | 4 | 2 |
+| 16-30' | 4 | 2 | 4 | 3 | 4 | 2 |
 | 31-45' | 2 | 1 | 3 | 3 | 0 | 1 |
-| 46-60' | 1 | 5 | 3 | 4 | 5 | 2 |
+| 46-60' | 1 | 6 | 4 | 4 | 5 | 2 |
 | 61-75' | 1 | 2 | 1 | 3 | 5 | 2 |
-| 76-90' | 4 | 5 | 8 | 2 | 8 | 10 |
+| 76-90' | 4 | 5 | 12 | 2 | 8 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -73,12 +73,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Aalborg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | 1. Division | Kolding IF 1-1 Aalborg | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-06 | 1. Division | HB Koge 1-1 Aalborg | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-30 | 1. Division | Aalborg 1-1 Hobro | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | 1. Division | Hillerød 2-1 Aalborg | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-17 | 1. Division | Aalborg 0-1 Vejle | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-10 | 1. Division | Esbjerg 3-3 Aalborg | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-09-20 | 1. Division | Aalborg 2-2 Vendsyssel FF | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Aalborg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

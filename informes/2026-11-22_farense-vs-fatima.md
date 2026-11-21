@@ -1,10 +1,46 @@
 # Farense – Fátima
 **Taça de Portugal** · Round of 32 · 22/11/2026 16:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
+_Actualizadas: 21/11 02:18_
+
+- **1X2:** 1 **1.17**  ·  X **6.00**  ·  2 **15.00**
+- **Doble oportunidad:** 1X **1.03**  ·  12 **1.12**  ·  X2 **5.00**
+- **Ambos marcan:** Sí **2.38**  ·  No **1.53**
+- **Goles más/menos:**
+    - 1,5: más **1.17** · menos **5.00**
+    - 2,5: más **1.57** · menos **2.35**
+    - 3,5: más **2.38** · menos **1.53**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
+- **Goles 1ª parte más/menos:**
+    - 0,5: más **1.28** · menos **3.50**
+    - 1,5: más **2.25** · menos **1.57**
+    - 2,5: más **5.50** · menos **1.14**
+- **Goles del local:**
+    - 0,5: más **1.05** · menos **11.00**
+    - 1,5: más **1.30** · menos **3.40**
+    - 2,5: más **1.91** · menos **1.80**
+    - 3,5: más **3.50** · menos **1.28**
+    - 4,5: más **7.00** · menos **1.10**
+- **Goles del visitante:**
+    - 0,5: más **2.20** · menos **1.62**
+    - 1,5: más **8.00** · menos **1.08**
+- **1X2 descanso:** 1 **1.53**  ·  X **2.88**  ·  2 **12.00**
+- **Goals Over/Under - Second Half:**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Both Teams Score - First Half:** Sí **6.00**  ·  No **1.12**
+- **Both Teams To Score - Second Half:** Sí **4.33**  ·  No **1.20**
+- **To Win Either Half:** 1 **1.11**  ·  2 **6.00**
+- **To Score In Both Halves By Teams:** 1 **1.80**  ·  2 **15.00**
+- **Win Both Halves:** 1 **2.25**  ·  2 **67.00**
+- **Results/Both Teams Score:** Home/Yes **3.25**  ·  Draw/Yes **8.50**  ·  Away/Yes **29.00**  ·  Home/No **1.73**  ·  Draw/No **15.00**  ·  Away/No **23.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.75**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **13.00**  ·  u/no 2.5 **2.75**
 
 ## Estadísticas de equipo
 | | Farense (total) | Farense en casa | Fátima (total) | Fátima fuera |

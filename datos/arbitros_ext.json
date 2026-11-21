@@ -165,23 +165,24 @@
  },
  "Simone Sozza": {
   "tarjetas": [
+   1,
    3,
    4,
    6,
    8,
    5,
    1,
-   6,
-   3
+   6
   ],
-  "act": "2026-11-13"
+  "act": "2026-11-21"
  },
  "Francois Letexier": {
   "tarjetas": [
+   1,
    0,
    8
   ],
-  "act": "2026-11-13"
+  "act": "2026-11-21"
  },
  "Irfan Peljto": {
   "tarjetas": [
@@ -640,5 +641,43 @@
    4
   ],
   "act": "2026-11-20"
+ },
+ "Victor Garcia Verdura": {
+  "tarjetas": [
+   1,
+   4,
+   1,
+   8,
+   4,
+   3,
+   1,
+   2
+  ],
+  "act": "2026-11-21"
+ },
+ "Adrian Cordero Vega": {
+  "tarjetas": [
+   5,
+   3,
+   5,
+   3,
+   4,
+   5,
+   4,
+   3
+  ],
+  "act": "2026-11-21"
+ },
+ "Marco Di Bello": {
+  "tarjetas": [
+   0,
+   1,
+   3,
+   3,
+   2,
+   5,
+   8
+  ],
+  "act": "2026-11-21"
  }
 }

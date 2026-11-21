@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 579 · aciertos: 361 (62%) · beneficio a 1 € por pick: -66.46 €
+Picks ya jugados: 583 · aciertos: 364 (62%) · beneficio a 1 € por pick: -65.48 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| goles | 145 | 223 | 65% | -21.22 € |
+| goles | 147 | 225 | 65% | -19.74 € |
 | jugador | 126 | 196 | 64% | -22.32 € |
-| resultado | 67 | 108 | 62% | -8.58 € |
+| resultado | 68 | 109 | 62% | -8.08 € |
 | tarjetas | 13 | 21 | 62% | -0.30 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 4 | 15 | 27% | -8.57 € |
+| corners | 4 | 16 | 25% | -9.57 € |
 | fueras de juego | 0 | 3 | 0% | -3.00 € |
 | tiros a puerta | 0 | 2 | 0% | -2.00 € |
 
@@ -23,7 +23,7 @@ Picks ya jugados: 579 · aciertos: 361 (62%) · beneficio a 1 € por pick: -66.
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
 | To Win Either Half · Home | 6 | 7 | 86% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
-| Double Chance · Home/Draw | 9 | 12 | 75% |
+| Double Chance · Home/Draw | 10 | 13 | 77% |
 | Match Winner · Home | 9 | 12 | 75% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
 | Goals Over/Under - Second Half · Over 1.5 | 6 | 8 | 75% |
@@ -38,19 +38,25 @@ Picks ya jugados: 579 · aciertos: 361 (62%) · beneficio a 1 € por pick: -66.
 | Shots.1x2 · Away | 3 | 5 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Home · Over 1.5 | 3 | 5 | 60% |
-| Total - Away · Over 0.5 | 27 | 47 | 57% |
+| Total - Away · Over 0.5 | 28 | 48 | 58% |
+| Both Teams Score · Yes | 10 | 20 | 50% |
 | Total - Away · Over 1.5 | 2 | 4 | 50% |
-| Both Teams Score · Yes | 9 | 19 | 47% |
 | To Win Either Half · Away | 6 | 13 | 46% |
 | Double Chance · Draw/Away | 12 | 28 | 43% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
 | Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 3.5 | 1 | 3 | 33% |
-| Away Corners Over/Under · Over 2.5 | 1 | 3 | 33% |
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
+| Away Corners Over/Under · Over 2.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-20 · 3/4
+- ✅ Kolding IF o empate · 1.50 (1-1)
+- ❌ 1. FC Köln hace más de 2,5 córners · 1.73 (1-1)
+- ✅ Ambos marcan en Bayern München–1. FC Köln · 1.75 (1-1)
+- ✅ 1. FC Köln marca · 1.73 (1-1)
 
 ### 2026-11-17 · 3/4
 - ✅ Austria hace más córners · 1.57 (1-1)
@@ -136,61 +142,4 @@ Picks ya jugados: 579 · aciertos: 361 (62%) · beneficio a 1 € por pick: -66.
 - ✅ Lamine Yamal: 3+ tiros · 1.30 (1-2)
 - ✅ Marc Pubill comete 1+ faltas · 1.36 (1-2)
 - ❌ Alex Grimaldo: 1+ tiros · 1.36 (1-2)
-
-### 2026-11-07 · 29/55
-- ✅ Leeds o empate · 1.44 (1-0)
-- ❌ Tottenham o empate · 1.50 (1-0)
-- ❌ Más de 1,5 goles en Leeds–Tottenham · 1.30 (1-0)
-- ❌ Stoke City hace más de 4,5 córners · 1.73 (1-2)
-- ✅ Jayden Bogle comete 1+ faltas · 1.28 (1-0)
-- ❌ Dominic Calvert-Lewin comete 1+ faltas · 1.25 (1-0)
-- ✅ Omar Marmoush comete 1+ faltas · 1.28 (1-0)
-- ❌ Ao Tanaka comete 1+ faltas · 1.30 (1-0)
-- ❌ Jan Paul van Hecke comete 1+ faltas · 1.40 (1-0)
-- ❌ Kieffer Moore: 1+ tiros a puerta · 1.50 (1-1)
-- ✅ Fernando Lopez comete 1+ faltas · 1.25 (1-1)
-- ✅ Rafiki Said: 2+ tiros · 1.28 (1-1)
-- ✅ Más de 1,5 goles en Torino–Lecce · 1.28 (1-1)
-- ❌ Frosinone gana alguna de las dos partes · 1.73 (1-0)
-- ❌ Frosinone o empate · 1.44 (1-0)
-- ✅ Santiago Castaneda: 1+ tiros · 1.28 (2-2)
-- ❌ Tom Bischof comete 1+ faltas · 1.33 (1-2)
-- ✅ Dayot Upamecano comete 1+ faltas · 1.50 (1-2)
-- ✅ Fabian Rieder comete 1+ faltas · 1.30 (5-2)
-- ❌ Southampton gana alguna de las dos partes · 1.30 (1-0)
-- ❌ Gana el Southampton · 1.67 (1-0)
-- ✅ West Brom o empate · 1.28 (3-0)
-- ❌ Calvin Bassey comete 1+ faltas · 1.40 (1-1)
-- ✅ Nico Gonzalez comete 2+ faltas · 1.67 (1-1)
-- ✅ Jack Moylan: 1+ tiros a puerta · 1.33 (5-4)
-- ❌ Arsenal ve más de 0,5 tarjetas · 1.53 (1-0)
-- ✅ Gabriel Magalhaes comete 1+ faltas · 1.67 (1-0)
-- ❌ Camiel Neghli: 1+ tiros · 1.30 (3-0)
-- ✅ QPR ve más de 1,5 tarjetas · 1.80 (2-1)
-- ✅ Cardiff gana alguna de las dos partes · 1.50 (5-4)
-- ✅ Deportivo La Coruna o empate · 1.67 (0-0)
-- ✅ Mikel Goti: 1+ tiros · 1.25 (1-2)
-- ✅ Más de 1,5 goles en Cadiz–Oviedo · 1.30 (1-2)
-- ✅ Oviedo gana alguna de las dos partes · 1.80 (1-2)
-- ✅ Fortuna Sittard o empate · 1.28 (2-2)
-- ✅ Gana el Fortuna Sittard · 2.00 (2-2)
-- ❌ Academico Viseu gana alguna de las dos partes · 1.73 (1-0)
-- ❌ Academico Viseu o empate · 1.40 (1-0)
-- ✅ Más de 1,5 goles en Parma–Bologna · 1.36 (1-2)
-- ❌ Werder Bremen marca · 1.33 (1-0)
-- ❌ Gana el Manchester City · 1.73 (3-1)
-- ❌ Ermedin Demirovic: 3+ tiros · 1.33 (1-0)
-- ❌ Ante Budimir: 1+ tiros a puerta · 1.36 (1-1)
-- ❌ Manchester City hace más de 0,5 fueras de juego · 1.50 (3-1)
-- ✅ Más de 1,5 goles en Leganes–Albacete · 1.28 (1-3)
-- ❌ Ermedin Demirovic: 1+ tiros a puerta · 1.28 (1-0)
-- ✅ Marco Grull comete 1+ faltas · 1.28 (1-0)
-- ❌ Grischa Promel comete 1+ faltas · 1.44 (1-0)
-- ✅ Alex Berenguer comete 1+ faltas · 1.44 (1-1)
-- ✅ Abel Bretones comete 1+ faltas · 1.40 (1-1)
-- ✅ Más de 1,5 goles en Osasuna–Athletic Club · 1.33 (1-1)
-- ✅ Gol en la 1ª parte del ADO Den Haag–Sparta Rotterdam · 1.28 (3-1)
-- ❌ Más de 2,5 tarjetas en AS Roma–Sassuolo · 1.57 (3-0)
-- ✅ GO Ahead Eagles o empate · 1.40 (0-1)
-- ❌ Estac Troyes hace más de 2,5 córners · 1.57 (1-0)
 

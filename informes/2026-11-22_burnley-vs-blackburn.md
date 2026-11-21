@@ -1,10 +1,10 @@
 # Burnley – Blackburn
 **Championship** · Regular Season - 16 · 22/11/2026 13:00 (hora España) · Turf Moor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:07_
+_Actualizadas: 21/11 02:18_
 
 - **1X2:** 1 **1.85**  ·  X **3.80**  ·  2 **3.80**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.91**

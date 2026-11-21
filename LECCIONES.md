@@ -1,5 +1,36 @@
 # Lecciones del bot
 
+## 2026-11-20
+
+```
+🧠 LECCIONES DEL 20/11
+Picks del bot: 3 ✅ · 1 ❌
+
+❌ Lo que falló en lo publicado:
+• 1. FC Köln hace más de 2,5 córners → 0 de 3 córners
+• Aalborg marca 2 o más → 1 de 2 goles
+• Aarhus Fremad marca 2 o más → 1 de 2 goles
+• Alex Berenguer: 2+ tiros → 1 de 2 tiros
+• Ambos marcan en Athletic Club–Espanyol → 1 de 2 equipos que marcan
+• Ambos marcan en Trento–Cittadella → 1 de 2 equipos que marcan
+• Athletic Club marca 2 o más → 0 de 2 goles
+• Bayern München gana las dos partes → Marcador: 1–1
+• Cittadella gana alguna de las dos partes → Marcador: 1–0
+• Dani Rodriguez: 2+ tiros → 1 de 2 tiros
+• Empate en Estac Troyes–Le Havre → Marcador: 3–1
+• Empate en Farul Constanta–Universitatea Cluj → Marcador: 2–3
+• Empate en Trento–Cittadella → Marcador: 1–0
+• Espanyol hace más de 2,5 córners → 2 de 3 córners
+• FC Andorra gana alguna de las dos partes → Marcador: 1–3
+
+❌ Fallos de los picks del bot y por qué:
+• 1. FC Köln hace más de 2,5 córners — no llegó a la línea (1-1)
+
+📐 Modelo: 364/583 aciertos reales (62%) frente al 70% que prometían las estadísticas y el 71% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-17
 
 ```

@@ -1,19 +1,20 @@
 # Telstar – PEC Zwolle
 **Eredivisie** · Regular Season - 13 · 21/11/2026 21:00 (hora España) · Sportpark Schoonenberg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:07_
+_Actualizadas: 21/11 02:18_
 
 - **1X2:** 1 **2.10**  ·  X **3.50**  ·  2 **3.40**
-- **Doble oportunidad:** 1X **1.28**  ·  12 **1.28**  ·  X2 **1.73**
+- **Doble oportunidad:** 1X **1.30**  ·  12 **1.28**  ·  X2 **1.70**
 - **Ambos marcan:** Sí **1.57**  ·  No **2.25**
 - **Goles más/menos:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.65** · menos **2.20**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
+    - 0,5: más **1.04** · menos **13.00**
+    - 1,5: más **1.20** · menos **4.33**
+    - 2,5: más **1.67** · menos **2.15**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **10.00** · menos **1.06**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.30** · menos **3.40**
@@ -21,15 +22,15 @@ _Actualizadas: 20/11 20:07_
     - 2,5: más **6.00** · menos **1.12**
 - **Goles del local:**
     - 0,5: más **1.17** · menos **5.00**
-    - 1,5: más **1.80** · menos **1.91**
+    - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **10.00** · menos **1.06**
 - **Goles del visitante:**
     - 0,5: más **1.30** · menos **3.40**
     - 1,5: más **2.50** · menos **1.50**
-    - 2,5: más **6.50** · menos **1.11**
+    - 2,5: más **6.00** · menos **1.12**
 - **Córners más/menos:**
-    - 10,5: más **1.91** · menos **1.80**
+    - 10,5: más **1.98** · menos **1.82**
 - **Córners 1X2:** 1 **1.57**  ·  X **8.50**  ·  2 **2.75**
 - **1X2 descanso:** 1 **2.62**  ·  X **2.38**  ·  2 **3.60**
 - **Goals Over/Under - Second Half:**

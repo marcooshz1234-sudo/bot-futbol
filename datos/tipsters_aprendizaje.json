@@ -21,11 +21,11 @@
   "INSIDER": {
    "n": 13,
    "verdes": 11,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": 2.41,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 6.199
+   "unidades": 1.41,
+   "resueltos_con_cuota": 9,
+   "prob_cuota": 7.076
   },
   "Tipster Pérez": {
    "n": 12,
@@ -163,9 +163,11 @@
   "ApuestasCobrich - Canal Gratuito": {
    "n": 2,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.621
   },
   "AllSportsPicks": {
    "n": 1,
@@ -190,7 +192,7 @@
   "Match Winner Home": {
    "n": 25,
    "verdes": 14,
-   "rojos": 6,
+   "rojos": 7,
    "nulos": 0,
    "unidades": 1.92,
    "resueltos_con_cuota": 17,
@@ -226,11 +228,11 @@
   "Double Chance Home/Draw": {
    "n": 7,
    "verdes": 5,
-   "rojos": 1,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": 1.54,
-   "resueltos_con_cuota": 3,
-   "prob_cuota": 2.008
+   "unidades": 0.54,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.885
   },
   "Double Chance Draw/Away": {
    "n": 5,
@@ -582,20 +584,22 @@
   "Total - Home Over 2.5": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.621
   }
  },
  "equipo": {
   "—": {
    "n": 82,
    "verdes": 36,
-   "rojos": 12,
+   "rojos": 13,
    "nulos": 0,
-   "unidades": 4.41,
-   "resueltos_con_cuota": 41,
-   "prob_cuota": 27.29
+   "unidades": 3.41,
+   "resueltos_con_cuota": 42,
+   "prob_cuota": 27.911
   },
   "Spain": {
    "n": 7,
@@ -922,14 +926,16 @@
   "Athletic Club": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.877
   },
   "Bayern München": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
    "unidades": 0.0
   }
@@ -938,11 +944,11 @@
   "sin razón": {
    "n": 84,
    "verdes": 48,
-   "rojos": 10,
+   "rojos": 13,
    "nulos": 0,
-   "unidades": 12.41,
-   "resueltos_con_cuota": 43,
-   "prob_cuota": 26.789
+   "unidades": 10.41,
+   "resueltos_con_cuota": 45,
+   "prob_cuota": 28.287
   },
   "goles": {
    "n": 34,
@@ -1012,25 +1018,25 @@
   "1,50-1,80": {
    "n": 58,
    "verdes": 26,
-   "rojos": 15,
+   "rojos": 16,
    "nulos": 0,
-   "unidades": 0.56,
-   "resueltos_con_cuota": 41,
-   "prob_cuota": 25.919
+   "unidades": -0.44,
+   "resueltos_con_cuota": 42,
+   "prob_cuota": 26.54
   },
   "<1,50": {
    "n": 30,
    "verdes": 18,
-   "rojos": 4,
+   "rojos": 5,
    "nulos": 0,
-   "unidades": 0.16,
-   "resueltos_con_cuota": 22,
-   "prob_cuota": 17.844
+   "unidades": -0.84,
+   "resueltos_con_cuota": 23,
+   "prob_cuota": 18.721
   },
   "?": {
    "n": 28,
    "verdes": 16,
-   "rojos": 2,
+   "rojos": 3,
    "nulos": 0,
    "unidades": 0.0
   },
@@ -1102,16 +1108,20 @@
   "Bundesliga": {
    "n": 2,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 2,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.621
   },
   "La Liga": {
    "n": 1,
    "verdes": 0,
-   "rojos": 0,
+   "rojos": 1,
    "nulos": 0,
-   "unidades": 0.0
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.877
   }
  },
  "lado": {
@@ -1127,11 +1137,11 @@
   "local": {
    "n": 43,
    "verdes": 22,
-   "rojos": 10,
+   "rojos": 13,
    "nulos": 0,
-   "unidades": 2.6,
-   "resueltos_con_cuota": 26,
-   "prob_cuota": 16.106
+   "unidades": 0.6,
+   "resueltos_con_cuota": 28,
+   "prob_cuota": 17.604
   },
   "visitante": {
    "n": 31,
@@ -1147,11 +1157,11 @@
   "—": {
    "n": 64,
    "verdes": 24,
-   "rojos": 14,
+   "rojos": 17,
    "nulos": 0,
-   "unidades": 2.46,
-   "resueltos_con_cuota": 32,
-   "prob_cuota": 18.647
+   "unidades": 0.46,
+   "resueltos_con_cuota": 34,
+   "prob_cuota": 20.145
   },
   "goles": {
    "n": 43,
@@ -1221,11 +1231,11 @@
   "?": {
    "n": 137,
    "verdes": 69,
-   "rojos": 24,
+   "rojos": 27,
    "nulos": 0,
-   "unidades": 9.24,
-   "resueltos_con_cuota": 76,
-   "prob_cuota": 49.567
+   "unidades": 7.24,
+   "resueltos_con_cuota": 78,
+   "prob_cuota": 51.065
   },
   "sin valor": {
    "n": 4,

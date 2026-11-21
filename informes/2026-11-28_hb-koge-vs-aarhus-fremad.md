@@ -1,7 +1,7 @@
 # HB Koge – Aarhus Fremad
 **1. Division** · Regular Season - 16 · 28/11/2026 13:30 (hora España) · Capelli Sport Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | HB Koge (total) | HB Koge en casa | Aarhus Fremad (total) | Aarhus Fremad fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 14 | 7 |
-| Forma (últimos 5) | EDEDV | EDVEE | DVEED | DEDEE |
-| Balance | 2V 6E 6D | 1V 3E 3D | 4V 6E 4D | 1V 4E 2D |
-| Goles a favor / partido | 1,43 | 1,57 | 0,86 | 0,43 |
+| Partidos analizados | 14 | 7 | 15 | 7 |
+| Forma (últimos 5) | EDEDV | EDVEE | EDVEE | DEDEE |
+| Balance | 2V 6E 6D | 1V 3E 3D | 4V 7E 4D | 1V 4E 2D |
+| Goles a favor / partido | 1,43 | 1,57 | 0,87 | 0,43 |
 | Goles en contra / partido | 1,86 | 1,86 | 1,00 | 1,00 |
-| Goles a favor 1ª parte | 0,36 | 0,43 | 0,43 | 0,43 |
-| Goles a favor 2ª parte | 1,07 | 1,14 | 0,43 | 0,00 |
-| Goles en contra 1ª parte | 0,79 | 0,86 | 0,50 | 0,57 |
-| Goles en contra 2ª parte | 1,07 | 1,00 | 0,50 | 0,43 |
-| Más de 1,5 goles | 93% | 100% | 64% | 57% |
-| Más de 2,5 goles | 57% | 43% | 43% | 29% |
-| Más de 3,5 goles | 50% | 43% | 14% | 0% |
-| Ambos marcan | 64% | 71% | 43% | 29% |
-| Portería a cero | 14% | 0% | 43% | 43% |
-| Se queda sin marcar | 29% | 29% | 50% | 71% |
+| Goles a favor 1ª parte | 0,36 | 0,43 | 0,47 | 0,43 |
+| Goles a favor 2ª parte | 1,07 | 1,14 | 0,40 | 0,00 |
+| Goles en contra 1ª parte | 0,79 | 0,86 | 0,47 | 0,57 |
+| Goles en contra 2ª parte | 1,07 | 1,00 | 0,53 | 0,43 |
+| Más de 1,5 goles | 93% | 100% | 67% | 57% |
+| Más de 2,5 goles | 57% | 43% | 40% | 29% |
+| Más de 3,5 goles | 50% | 43% | 13% | 0% |
+| Ambos marcan | 64% | 71% | 47% | 29% |
+| Portería a cero | 14% | 0% | 40% | 43% |
+| Se queda sin marcar | 29% | 29% | 47% | 71% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 3 | 1 | 3 | 2 | 1 |
 | 16-30' | 1 | 4 | 3 | 2 | 3 | 3 |
-| 31-45' | 3 | 4 | 2 | 1 | 2 | 2 |
+| 31-45' | 3 | 4 | 2 | 2 | 2 | 3 |
 | 46-60' | 7 | 8 | 2 | 1 | 2 | 5 |
 | 61-75' | 5 | 6 | 5 | 4 | 2 | 2 |
-| 76-90' | 3 | 1 | 6 | 1 | 3 | 9 |
+| 76-90' | 3 | 1 | 6 | 1 | 4 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -86,12 +86,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Aarhus Fremad
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | 1. Division | Aarhus Fremad 1-1 Hobro | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-09 | 1. Division | Hvidovre 3-0 Aarhus Fremad | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | 1. Division | Aarhus Fremad 2-0 Hillerød | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | 1. Division | Vejle 0-0 Aarhus Fremad | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-16 | 1. Division | Aarhus Fremad 0-0 Esbjerg | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-09 | 1. Division | AB Copenhagen 2-0 Aarhus Fremad | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-09-19 | 1. Division | Aarhus Fremad 1-3 Hvidovre | casa | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Aarhus Fremad
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

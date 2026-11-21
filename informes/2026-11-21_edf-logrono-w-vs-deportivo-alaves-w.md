@@ -1,10 +1,10 @@
 # Edf Logrono W – Deportivo Alavés W
 **Liga F** · Regular Season - 12 · 21/11/2026 19:00 (hora España) · Estadio Las Gaunas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
 - **1X2:** 1 **1.95**  ·  X **3.40**  ·  2 **3.25**
 - **Doble oportunidad:** 1X **1.25**  ·  12 **1.25**  ·  X2 **1.70**
@@ -29,6 +29,9 @@ _Actualizadas: 20/11 20:06_
     - 0,5: más **1.40** · menos **2.75**
     - 1,5: más **3.00** · menos **1.36**
     - 2,5: más **7.00** · menos **1.08**
+- **Córners más/menos:**
+    - 8,5: más **1.67** · menos **2.10**
+    - 9: más **1.90** · menos **1.90**
 - **1X2 descanso:** 1 **2.60**  ·  X **2.20**  ·  2 **3.75**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.25** · menos **3.75**
@@ -42,6 +45,7 @@ _Actualizadas: 20/11 20:06_
 - **Win Both Halves:** 1 **6.50**  ·  2 **13.00**
 - **Results/Both Teams Score:** Home/Yes **4.33**  ·  Draw/Yes **4.75**  ·  Away/Yes **6.50**  ·  Home/No **3.50**  ·  Draw/No **11.00**  ·  Away/No **6.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.25**  ·  o/no 2.5 **9.00**  ·  u/yes 2.5 **7.00**  ·  u/no 2.5 **2.38**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.80**  ·  Menos de 4 **2.00**
 
 ## Estadísticas de equipo
 | | Edf Logrono W (total) | Edf Logrono W en casa | Deportivo Alavés W (total) | Deportivo Alavés W fuera |

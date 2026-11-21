@@ -1,17 +1,17 @@
 # Marseille – Le Mans
 **Ligue 1** · Regular Season - 11 · 22/11/2026 20:45 (hora España) · Orange Vélodrome
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:07_
+_Actualizadas: 21/11 02:19_
 
 - **1X2:** 1 **1.44**  ·  X **4.75**  ·  2 **6.50**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.18**  ·  X2 **2.62**
 - **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
-    - 2,5: más **1.53** · menos **2.50**
+    - 1,5: más **1.14** · menos **5.50**
+    - 2,5: más **1.50** · menos **2.62**
     - 3,5: más **2.30** · menos **1.62**
     - 4,5: más **4.00** · menos **1.25**
     - 5,5: más **7.00** · menos **1.10**

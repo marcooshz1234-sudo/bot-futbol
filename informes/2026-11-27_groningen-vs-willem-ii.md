@@ -1,10 +1,10 @@
 # Groningen – Willem II
 **Eredivisie** · Regular Season - 14 · 27/11/2026 20:00 (hora España) · Euroborg
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 19/11 20:08_
+_Actualizadas: 21/11 02:19_
 
 - **1X2:** 1 **1.22**  ·  X **6.25**  ·  2 **10.00**
 - **Doble oportunidad:** 1X **1.06**  ·  12 **1.12**  ·  X2 **4.00**

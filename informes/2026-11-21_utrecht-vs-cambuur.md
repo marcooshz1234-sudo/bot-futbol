@@ -1,17 +1,17 @@
 # Utrecht – Cambuur
 **Eredivisie** · Regular Season - 13 · 21/11/2026 18:45 (hora España) · Stadion Galgenwaard
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 20/11 20:09._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 21/11 02:20._
 
 ## Cuotas Bet365
-_Actualizadas: 20/11 20:06_
+_Actualizadas: 21/11 02:17_
 
 - **1X2:** 1 **1.91**  ·  X **4.00**  ·  2 **3.50**
 - **Doble oportunidad:** 1X **1.28**  ·  12 **1.22**  ·  X2 **1.83**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
-    - 1,5: más **1.11** · menos **6.50**
-    - 2,5: más **1.40** · menos **2.88**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.44** · menos **2.70**
     - 3,5: más **2.00** · menos **1.73**
     - 4,5: más **3.40** · menos **1.30**
     - 5,5: más **6.00** · menos **1.12**

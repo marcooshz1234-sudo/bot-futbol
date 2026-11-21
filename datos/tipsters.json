@@ -3675,7 +3675,12 @@
    "liga": "La Liga",
    "cuota_bet365": 1.11,
    "prob_cuota": 0.877
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   0,
+   1
+  ]
  },
  {
   "tipster": "ApuestasCobrich - Canal Gratuito",
@@ -3697,7 +3702,12 @@
    "liga": "Bundesliga",
    "cuota_bet365": 1.28,
    "prob_cuota": 0.621
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   1
+  ]
  },
  {
   "tipster": "ApuestasCobrich - Canal Gratuito",
@@ -3717,6 +3727,11 @@
    "liga": "Bundesliga",
    "cuota_bet365": 1.08,
    "prob_cuota": 0.926
-  }
+  },
+  "estado": "rojo",
+  "marcador": [
+   1,
+   1
+  ]
  }
 ]
