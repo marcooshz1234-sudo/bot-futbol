@@ -169,9 +169,14 @@
   "redes-2026-11-22-pick-seguro-5-threads-instagram": "2026-11-22T20:12",
   "repe-2026-11-22-1570456|Match Winner|Away": "2026-11-22T20:12",
   "bucle-publicar_telegram-2026112220": "2026-11-22T20:23",
-  "bucle-redes-2026112220": "2026-11-22T20:23"
+  "bucle-redes-2026112220": "2026-11-22T20:23",
+  "redes-2026-11-22-noche-atalanta2-threads-instagram": "2026-11-22T20:46"
  },
  "abiertos": [
+  {
+   "clave": "redes-2026-11-22-noche-atalanta2-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (20:26): Vamos con otro pick 🍀"
+  },
   {
    "clave": "redes-2026-11-22-pick-seguro-5-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (15:00): Vamos con otro pick 🍀"
@@ -209,8 +214,13 @@
    "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T20:36",
+ "revisado": "2026-11-22T20:46",
  "historial": [
+  {
+   "hora": "2026-11-22T20:46",
+   "t": "⏰ No ha salido en threads ni instagram (20:26): Vamos con otro pick 🍀",
+   "k": "redes-2026-11-22-noche-atalanta2-threads-instagram"
+  },
   {
    "hora": "2026-11-22T20:23",
    "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora",
@@ -505,11 +515,6 @@
    "hora": "2026-11-22T00:02",
    "t": "📰 Racing Santander–Real Sociedad: «Yangel Herrera, baja en la Real Sociedad ante el Racing por lesión» (MARCA) · tenemos 6 post(s) de este partido: loca-th-0020-x100, loca-th-0500-x50, loca-th-0700-tapados, loca-th-0900-x500, loca-th-1200-escudos, loca-th-1540-tiros",
    "k": "prensa-1570459-e749b9ab"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "📏 Regla (estrella): To Win Either Half|Away: a ese equipo le falta su estrella · «💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥» (12:00)",
-   "k": "regla-estrella-2026-11-22-loca-th-1200-escudos"
   }
  ]
 }
