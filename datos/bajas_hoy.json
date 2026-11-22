@@ -10542,12 +10542,6 @@
   ],
   "1570457": [
    {
-    "equipo": 539,
-    "jugador": "H. Nakoha",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
-   },
-   {
     "equipo": 797,
     "jugador": "M. Aguado",
     "tipo": "Missing Fixture",
@@ -10614,7 +10608,7 @@
   "1608377": [],
   "1570029": []
  },
- "ultima": "2026-11-22T20:37:34.628776+01:00",
+ "ultima": "2026-11-22T21:12:03.947636+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
