@@ -36,3 +36,25 @@ class AvisoPlan(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class AvisoAntes(unittest.TestCase):
+    """22/11 (Marcos: «la próxima avisa antes»): 3 días antes de que caduque la suscripción."""
+    def test_avisa_3_dias_antes(self):
+        import avisos
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        tmp = Path(tempfile.mkdtemp())
+        sub = lambda fin: (lambda ruta, **k: {"subscription": {"plan": "Pro", "end": fin + "T00:00:00+00:00", "active": True}})
+        ahora = datetime(2026, 12, 19, 10, 0, tzinfo=ZoneInfo("Europe/Madrid"))
+        with mock.patch.object(avisos, "DATOS", tmp):
+            av = []
+            avisos.aviso_caducidad(ahora, set(), av, api_get=sub("2026-12-22"))
+            self.assertEqual(len(av), 1)
+            self.assertIn("en 3 días", av[0][1])
+            (tmp / "api_suscripcion.json").unlink()
+            av = []
+            avisos.aviso_caducidad(ahora, set(), av, api_get=sub("2027-01-22"))
+            self.assertEqual(av, [])
+            av = []   # ya mirado hoy: no vuelve a preguntar a la API
+            avisos.aviso_caducidad(ahora, set(), av, api_get=lambda *a, **k: self.fail("pregunta otra vez"))

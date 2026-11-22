@@ -155,6 +155,12 @@ def main():
         avisos.append((f"api-plan-{plan['hora'][:10]}",
                        "⚠️ API-Football está en el PLAN GRATIS: el bot no ve marcadores ni resultados (no salen verdes, "
                        "resúmenes ni el directo de la app). Mira la suscripción en dashboard.api-football.com."))
+    # 22/11 (Marcos: «la próxima avisa antes»): una vez al día, cuándo caduca la suscripción (endpoint /status, no gasta
+    # cuota); si quedan 3 días o menos, aviso al móvil (uno por día hasta que se renueve)
+    try:
+        aviso_caducidad(ahora, hecho, avisos)
+    except Exception as e:
+        print("caducidad API:", e)
     # avisos sueltos que dejo yo a mano (p. ej. una prueba): datos/avisos_manuales.json = [{"k", "texto"}]
     for x in leer(DATOS / "avisos_manuales.json", []) or []:
         if x["k"] not in hecho:
@@ -175,6 +181,34 @@ def main():
             print("aviso no enviado:", e)
     ESTADO.write_text(json.dumps(sorted(hecho)[-1000:]), encoding="utf-8")
     print(f"Avisos enviados: {len(avisos[:8])}")
+
+
+AVISO_DIAS = 3
+
+
+def aviso_caducidad(ahora, hecho, avisos, api_get=None):
+    hoy = ahora.strftime("%Y-%m-%d")
+    est = leer(DATOS / "api_suscripcion.json", {}) or {}
+    if est.get("mirado") != hoy:
+        if api_get is None:
+            clave = os.environ.get("API_FOOTBALL_KEY")
+            if not clave:
+                return
+            from bot import API
+            api_get = API(clave).get
+        r = api_get("status")
+        sub = (r or {}).get("subscription") if isinstance(r, dict) else None
+        if not sub:
+            return
+        est = {"mirado": hoy, "plan": sub.get("plan"), "fin": str(sub.get("end") or "")[:10], "activa": sub.get("active")}
+        (DATOS / "api_suscripcion.json").write_text(json.dumps(est, ensure_ascii=False) + "\n", encoding="utf-8")
+    if not est.get("fin"):
+        return
+    quedan = (datetime.fromisoformat(est["fin"]).date() - ahora.date()).days
+    if quedan <= AVISO_DIAS and f"api-caduca-{hoy}" not in hecho:
+        cuando = "HOY" if quedan <= 0 else "mañana" if quedan == 1 else f"en {quedan} días"
+        avisos.append((f"api-caduca-{hoy}", f"💳 La suscripción de API-Football ({est.get('plan')}) caduca {cuando} ({est['fin']}). "
+                       "Renuévala en dashboard.api-football.com o el bot se queda sin marcadores, verdes ni resúmenes."))
 
 
 if __name__ == "__main__":
