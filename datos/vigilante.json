@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-22",
  "vistos": {
-  "redes-2026-11-19-pick-seguro-2-threads-instagram": "2026-11-19T18:25",
   "cuotabaja-2026-11-19-loca-th-2000-tiros": "2026-11-19T18:36",
   "regla-cuota-2026-11-19-loca-th-2000-tiros": "2026-11-19T18:36",
   "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638286|Results/Both Teams Score|Away/Yes": "2026-11-19T19:17",
@@ -208,14 +207,10 @@
   },
   {
    "clave": "bucle-cuotas_frescas-2026112218",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora"
-  },
-  {
-   "clave": "bucle-alineaciones_posts-2026112218",
-   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 3 veces en la última hora"
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T18:21",
+ "revisado": "2026-11-22T18:29",
  "historial": [
   {
    "hora": "2026-11-22T18:10",
