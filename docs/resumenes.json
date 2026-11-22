@@ -3285,12 +3285,12 @@
     "dia": "2026-11-22",
     "total": 26,
     "cuentas": {
-      "verde": 3,
+      "verde": 2,
       "rojo": 10,
       "pendiente": 7,
-      "sin_datos": 6,
+      "sin_datos": 7,
       "no_jugo": 0,
-      "sin_resolver": 13
+      "sin_resolver": 14
     },
     "combis": [
       {
@@ -3392,7 +3392,7 @@
       {
         "id": "2026-11-22-pick-seguro-2",
         "titulo": "Vamos con otro pick 🍀",
-        "estado": "verde",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -3455,6 +3455,6 @@
       "rojo": 17,
       "total": 86
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 3 DE 13 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n❌ 🏆 SERIE A - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52\n❌ 🧨 LA LOCURA DE x83,47 🧨 · 83,47\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18\n❌ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42\n✅ Vamos con el pick de hoy familia 🔥\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n❌ ⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡ · 8,06\n❌ Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❔ ⚡ COMBI ATALANTA – INTER ⚡ · 9,53 · faltan datos\n⏳ 💥 COMBI GETAFE – ATLETICO MADRID 💥 · 12,27 · pendiente\n✅ Vamos con otro pick 🍀\n❔ 💎 LOS FAVORITOS DEL DÍA 💎 · faltan datos\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,00 · faltan datos\n❔ 🃏 LA DE LOS TAPADOS 🃏 · 14,34 · faltan datos\n❔ 🤑 LA LOCURA DE x490 🤑 · faltan datos\n❔ Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐ · faltan datos\n✅ Cerramos el domingo con este 🔥\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,14 · pendiente\n⏳ 🚩 CÓRNERS DE MAÑANA 🚩 · pendiente\n\n✅ 3 acertadas · ❌ 10 falladas · ⏳ 13 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 2 DE 12 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n❌ 🏆 SERIE A - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52\n❌ 🧨 LA LOCURA DE x83,47 🧨 · 83,47\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18\n❌ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42\n✅ Vamos con el pick de hoy familia 🔥\n⏳ 🪜 Reto escalera · Día 2/7 · pendiente\n❌ ⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡ · 8,06\n❌ Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❔ ⚡ COMBI ATALANTA – INTER ⚡ · 9,53 · faltan datos\n⏳ 💥 COMBI GETAFE – ATLETICO MADRID 💥 · 12,27 · pendiente\n❔ Vamos con otro pick 🍀 · faltan datos\n❔ 💎 LOS FAVORITOS DEL DÍA 💎 · faltan datos\n❔ ⚔️ EL DUELO DE TIROS ⚔️ · 2,00 · faltan datos\n❔ 🃏 LA DE LOS TAPADOS 🃏 · 14,34 · faltan datos\n❔ 🤑 LA LOCURA DE x490 🤑 · faltan datos\n❔ Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐ · faltan datos\n✅ Cerramos el domingo con este 🔥\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,14 · pendiente\n⏳ 🚩 CÓRNERS DE MAÑANA 🚩 · pendiente\n\n✅ 2 acertadas · ❌ 10 falladas · ⏳ 14 sin resolver"
   }
 }
