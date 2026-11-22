@@ -217,6 +217,13 @@
     "requiere_ok": true,
     "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
     "enviado": "2026-11-22T23:36",
-    "mensaje_id": 595
+    "mensaje_id": 595,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
