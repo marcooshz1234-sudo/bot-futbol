@@ -891,5 +891,10 @@
   },
   "2026-11-22-pick-seguro-6": {
     "caducada": "Total - Home|Over 0.5 ya salió hoy en Telegram"
+  },
+  "2026-11-22-pick-seguro-2": {
+    "enviado": "2026-11-22T18:00",
+    "mensaje_id": 588,
+    "foto_tg": "publicaciones/media/2026-11-22-pick-seguro-2.tg.jpg"
   }
 }
