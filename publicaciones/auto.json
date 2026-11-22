@@ -11909,26 +11909,20 @@
   {
     "id": "2026-11-22-loca-th-1600-escudos",
     "fecha": "2026-11-22T16:00",
-    "texto": "🔥 COMBI MARSEILLE – LE MANS 🔥\n\n⭐ Marseille vs Le Mans · 20:45\n\n✅ 🎳 Keyliane Abdallah: 3+ tiros\n✅ 🎳 Habib Diallo: 2+ tiros\n✅ 👑 Gana el Marseille\n✅ 💥 Marseille marca 2+\n✅ 🎳 Dame Gueye: 2+ tiros\n✅ 🎳 Amine Gouiri: 4+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Marseille–Le Mans\n✅ 💥 Antoine Valero marca\n\n🎯 CUOTA 10,87 aprox. 💎 10€ → 109€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "🔥 COMBI MARSEILLE – LE MANS 🔥\n\n⭐ Marseille vs Le Mans · 20:45\n\n✅ 👑 Gana el Marseille\n✅ 💥 Marseille marca 2+\n✅ 🎳 Dame Gueye: 2+ tiros\n✅ 🎳 Amine Gouiri: 4+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Marseille–Le Mans\n\n🎯 CUOTA 7,32 aprox. 💎 10€ → 109€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
-      "1552822|Home Player Shots|Keyliane Abdallah - 3",
-      "1552822|Away Player Shots|Habib Diallo - 2",
       "1552822|Match Winner|Home",
       "1552822|Total - Home|Over 1.5",
       "1552822|Away Player Shots|Dame Gueye - 2",
       "1552822|Home Player Shots|Amine Gouiri - 4",
-      "1552822|Goals Over/Under - Second Half|Over 1.5",
-      "1552822|Anytime Goal Scorer|Antoine Valero"
+      "1552822|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4,
-      1.4,
       1.44,
       1.44,
       1.53,
       1.57,
-      1.73,
-      1.95
+      1.73
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -11947,7 +11941,8 @@
     "cuota_bet365": 10.87,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "revisado_alineaciones": "2026-11-22T20:15"
   },
   {
     "id": "2026-11-22-combi-partido-1557473",
