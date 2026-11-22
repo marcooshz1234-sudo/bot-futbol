@@ -1,7 +1,7 @@
 # FC Voluntari – CFR 1907 Cluj
 **Liga I** · Regular Season - 17 · 28/11/2026 13:30 (hora España) · Stadionul Anghel Iordanescu
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

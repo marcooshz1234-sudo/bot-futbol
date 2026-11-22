@@ -1,34 +1,51 @@
 # União de Leiria – Leça
 **Taça de Portugal** · Round of 32 · 22/11/2026 20:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:42_
 
-- **1X2:** 1 **1.57**  ·  X **3.60**  ·  2 **5.00**
-- **Ambos marcan:** Sí **1.80**  ·  No **1.91**
+- **1X2:** 1 **1.45**  ·  X **3.80**  ·  2 **6.00**
+- **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.50**
+- **Ambos marcan:** Sí **1.83**  ·  No **1.83**
 - **Goles más/menos:**
-    - 0,5: más **1.04** · menos **12.00**
+    - 0,5: más **1.04** · menos **13.00**
     - 1,5: más **1.22** · menos **4.00**
-    - 2,5: más **1.75** · menos **2.05**
-    - 3,5: más **2.75** · menos **1.40**
-    - 4,5: más **5.50** · menos **1.14**
+    - 2,5: más **1.70** · menos **2.10**
+    - 3,5: más **2.62** · menos **1.44**
+    - 4,5: más **5.00** · menos **1.17**
     - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.33** · menos **3.25**
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
-- **1X2 descanso:** 1 **2.10**  ·  X **2.38**  ·  2 **5.50**
+- **Goles del local:**
+    - 0,5: más **1.12** · menos **6.00**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
+- **Goles del visitante:**
+    - 0,5: más **1.53** · menos **2.38**
+    - 1,5: más **3.75** · menos **1.25**
+    - 2,5: más **11.00** · menos **1.05**
+- **Córners más/menos:**
+    - 9,5: más **1.73** · menos **2.00**
+    - 10: más **2.00** · menos **1.80**
+- **1X2 descanso:** 1 **2.00**  ·  X **2.40**  ·  2 **6.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.20** · menos **4.33**
     - 1,5: más **1.91** · menos **1.80**
     - 2,5: más **4.00** · menos **1.22**
     - 3,5: más **11.00** · menos **1.05**
-- **Both Teams Score - First Half:** Sí **4.50**  ·  No **1.18**
-- **Both Teams To Score - Second Half:** Sí **3.40**  ·  No **1.30**
-- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.00**  ·  Away/Yes **9.50**  ·  Home/No **2.75**  ·  Draw/No **12.00**  ·  Away/No **10.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.20**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.60**
+- **Both Teams Score - First Half:** Sí **5.00**  ·  No **1.17**
+- **Both Teams To Score - Second Half:** Sí **3.50**  ·  No **1.28**
+- **To Win Either Half:** 1 **1.28**  ·  2 **3.25**
+- **To Score In Both Halves By Teams:** 1 **2.38**  ·  2 **7.00**
+- **Win Both Halves:** 1 **3.75**  ·  2 **26.00**
+- **Results/Both Teams Score:** Home/Yes **3.40**  ·  Draw/Yes **5.50**  ·  Away/Yes **11.00**  ·  Home/No **2.50**  ·  Draw/No **12.00**  ·  Away/No **11.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.30**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **2.50**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.62**  ·  Menos de 5 **1.91**  ·  Más de 4.5 **1.85**  ·  Menos de 4.5 **1.95**
 
 ## Estadísticas de equipo
 | | União de Leiria (total) | União de Leiria en casa | Leça (total) | Leça fuera |

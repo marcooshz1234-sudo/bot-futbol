@@ -1,10 +1,10 @@
 # Lecco – Lumezzane
 **Serie C** · Girone A - 15 · 23/11/2026 20:45 (hora España) · Stadio Rigamonti Ceppi
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:42_
 
 - **1X2:** 1 **1.67**  ·  X **3.50**  ·  2 **4.20**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.22**  ·  X2 **2.00**

@@ -1,10 +1,10 @@
 # Bodo/Glimt – Lask Linz
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Aspmyra Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:42_
 
 - **1X2:** 1 **1.48**  ·  X **4.50**  ·  2 **5.25**
 - **Doble oportunidad:** 1X **1.17**  ·  12 **1.18**  ·  X2 **2.62**

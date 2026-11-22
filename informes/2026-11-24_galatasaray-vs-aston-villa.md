@@ -1,21 +1,21 @@
 # Galatasaray – Aston Villa
 **Champions League** · League Stage - 5 · 24/11/2026 18:45 (hora España) · Rams Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:42_
 
-- **1X2:** 1 **2.55**  ·  X **3.80**  ·  2 **2.35**
+- **1X2:** 1 **2.70**  ·  X **3.50**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.57**  ·  12 **1.25**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.40**  ·  No **2.75**
 - **Goles más/menos:**
-    - 1,5: más **1.14** · menos **5.50**
-    - 2,5: más **1.44** · menos **2.75**
-    - 3,5: más **2.10** · menos **1.73**
-    - 4,5: más **3.50** · menos **1.30**
-    - 5,5: más **6.00** · menos **1.12**
-    - 6,5: más **13.00** · menos **1.04**
+    - 1,5: más **1.12** · menos **6.00**
+    - 2,5: más **1.40** · menos **3.00**
+    - 3,5: más **2.00** · menos **1.80**
+    - 4,5: más **3.40** · menos **1.33**
+    - 5,5: más **5.50** · menos **1.14**
+    - 6,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.22** · menos **4.00**
     - 1,5: más **2.10** · menos **1.67**
@@ -105,7 +105,7 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
 **Galatasaray:** E. Aydin (baja, Off the roster); K. Ayhan (baja, Off the roster); C. Guner (baja, Off the roster); K. Karatas (baja, Off the roster); R. Leao (baja, Muscle Injury); V. Osimhen (baja, Knee Injury); A. Unyay (baja, Off the roster); A. Yilmaz (baja, Off the roster); R. Sallai (duda, Hamstring Injury)
-**Aston Villa:** M. Cash (baja, Concussion); M. Cisse (baja, Off the roster); B. Madjo (baja, Off the roster); A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury)
+**Aston Villa:** M. Cash (baja, Concussion); M. Cisse (baja, Off the roster); V. Lindelof (baja, Illness); B. Madjo (baja, Off the roster); A. Onana (baja, Knee Injury); M. Ruggeri (baja, Muscle Injury)
 
 ## Enfrentamientos directos recientes
 _Sin precedentes recientes._

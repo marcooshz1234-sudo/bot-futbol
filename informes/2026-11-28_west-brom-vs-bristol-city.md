@@ -1,7 +1,7 @@
 # West Brom – Bristol City
 **Championship** · Regular Season - 18 · 28/11/2026 16:00 (hora España) · The Hawthorns
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

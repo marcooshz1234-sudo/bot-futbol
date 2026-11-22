@@ -1,19 +1,19 @@
 # Feyenoord – FC Porto
 **Champions League** · League Stage - 5 · 24/11/2026 21:00 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:43_
 
-- **1X2:** 1 **2.70**  ·  X **3.70**  ·  2 **2.40**
+- **1X2:** 1 **2.60**  ·  X **3.75**  ·  2 **2.50**
 - **Doble oportunidad:** 1X **1.53**  ·  12 **1.28**  ·  X2 **1.44**
 - **Ambos marcan:** Sí **1.50**  ·  No **2.50**
 - **Goles más/menos:**
-    - 1,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.20** · menos **4.50**
     - 2,5: más **1.62** · menos **2.30**
     - 3,5: más **2.50** · menos **1.53**
-    - 4,5: más **4.33** · menos **1.22**
+    - 4,5: más **4.50** · menos **1.20**
     - 5,5: más **8.00** · menos **1.08**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.28** · menos **3.50**
@@ -102,7 +102,8 @@ _Actualizadas: 22/11 00:13_
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
 ## Bajas y dudas
-_Sin bajas comunicadas por ahora._
+**Feyenoord:** T. Beelen (baja, Broken Leg); J. Bos (baja, Knee Injury); J. Moder (baja, Knee Injury); B. Nieuwkoop (baja, Knee Injury); J. St. Juste (baja, Leg Injury); T. Wessels (baja, Inactive); A. Hadj Moussa (duda, Ankle Injury)
+**FC Porto:** G. De Carvalho (baja, Off the roster); D. Prpic (baja, Off the roster); C. Smalling (baja, Knee Injury); V. Sousa (baja, Leg Injury); William Gomes (baja, Ankle Injury)
 
 ## Enfrentamientos directos recientes
 - 2019-12-12 · UEFA Europa League: FC Porto 3-2 Feyenoord

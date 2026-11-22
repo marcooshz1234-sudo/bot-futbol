@@ -1,10 +1,10 @@
 # Granad. Tenerife W – Madrid CFF W
 **Liga F** · Regular Season - 12 · 22/11/2026 17:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:42_
 
 - **1X2:** 1 **1.73**  ·  X **3.70**  ·  2 **3.75**
 - **Doble oportunidad:** 1X **1.20**  ·  12 **1.22**  ·  X2 **1.91**
@@ -31,7 +31,8 @@ _Actualizadas: 22/11 00:13_
     - 2,5: más **7.50** · menos **1.07**
 - **Córners más/menos:**
     - 7,5: más **1.73** · menos **2.00**
-    - 8: más **2.00** · menos **1.80**
+    - 8: más **1.88** · menos **1.92**
+    - 8,5: más **2.10** · menos **1.67**
 - **1X2 descanso:** 1 **2.25**  ·  X **2.30**  ·  2 **4.33**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.22** · menos **4.00**
@@ -45,8 +46,7 @@ _Actualizadas: 22/11 00:13_
 - **Win Both Halves:** 1 **5.00**  ·  2 **17.00**
 - **Results/Both Teams Score:** Home/Yes **3.60**  ·  Draw/Yes **5.00**  ·  Away/Yes **7.00**  ·  Home/No **3.25**  ·  Draw/No **13.00**  ·  Away/No **8.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.10**  ·  o/no 2.5 **7.50**  ·  u/yes 2.5 **7.50**  ·  u/no 2.5 **2.60**
-- **Total Corners (1st Half):**
-    - 3,5: más **1.82** · menos **1.98**
+- **Total Corners (1st Half):** Más de 3.5 **1.82**  ·  Menos de 3.5 **1.98**  ·  Exactamente 4 **5.00**  ·  Más de 4 **2.62**  ·  Menos de 4 **2.00**
 
 ## Estadísticas de equipo
 | | Granad. Tenerife W (total) | Granad. Tenerife W en casa | Madrid CFF W (total) | Madrid CFF W fuera |

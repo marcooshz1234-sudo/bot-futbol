@@ -1,14 +1,14 @@
 # Vianense – Rio Ave
 **Taça de Portugal** · Round of 32 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:12_
+_Actualizadas: 22/11 07:42_
 
-- **1X2:** 1 **4.10**  ·  X **4.33**  ·  2 **1.57**
-- **Doble oportunidad:** 1X **2.25**  ·  12 **1.18**  ·  X2 **1.20**
-- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
+- **1X2:** 1 **3.60**  ·  X **4.10**  ·  2 **1.67**
+- **Doble oportunidad:** 1X **2.20**  ·  12 **1.18**  ·  X2 **1.20**
+- **Ambos marcan:** Sí **1.62**  ·  No **2.20**
 - **Goles más/menos:**
     - 1,5: más **1.18** · menos **4.50**
     - 2,5: más **1.60** · menos **2.30**
@@ -20,26 +20,30 @@ _Actualizadas: 22/11 00:12_
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.50** · menos **1.14**
 - **Goles del local:**
-    - 0,5: más **1.44** · menos **2.62**
-    - 1,5: más **3.25** · menos **1.33**
-    - 2,5: más **9.00** · menos **1.07**
+    - 0,5: más **1.40** · menos **2.75**
+    - 1,5: más **2.75** · menos **1.40**
+    - 2,5: más **8.00** · menos **1.08**
 - **Goles del visitante:**
     - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.57** · menos **2.25**
-    - 2,5: más **2.75** · menos **1.40**
-    - 3,5: más **6.00** · menos **1.12**
+    - 1,5: más **1.67** · menos **2.10**
+    - 2,5: más **3.00** · menos **1.36**
+    - 3,5: más **6.50** · menos **1.11**
 - **Córners más/menos:**
     - 9,5: más **1.78** · menos **2.02**
-- **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
+- **1X2 descanso:** 1 **4.50**  ·  X **2.40**  ·  2 **2.20**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
-- **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.10**  ·  Home/No **9.00**  ·  Draw/No **17.00**  ·  Away/No **3.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.88**
+- **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
+- **To Win Either Half:** 1 **2.50**  ·  2 **1.36**
+- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.38**
+- **Win Both Halves:** 1 **17.00**  ·  2 **4.50**
+- **Results/Both Teams Score:** Home/Yes **6.50**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.25**  ·  Home/No **8.00**  ·  Draw/No **17.00**  ·  Away/No **3.40**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.91**  ·  o/no 2.5 **7.00**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **2.88**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.90**  ·  Menos de 4.5 **1.90**
 
 ## Estadísticas de equipo
 | | Vianense (total) | Vianense en casa | Rio Ave (total) | Rio Ave fuera |

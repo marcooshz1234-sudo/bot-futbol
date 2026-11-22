@@ -1,7 +1,7 @@
 # Felgueiras 1932 – FC Porto B
 **Segunda Liga** · Regular Season - 12 · 29/11/2026 15:00 (hora España) · Stadion Dr. Machado de Matos
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

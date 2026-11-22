@@ -1,10 +1,10 @@
 # Sanjoanense – Academica
 **Taça de Portugal** · Round of 32 · 22/11/2026 12:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:12_
+_Actualizadas: 22/11 07:41_
 
 - **1X2:** 1 **4.50**  ·  X **4.20**  ·  2 **1.53**
 - **Doble oportunidad:** 1X **2.25**  ·  12 **1.20**  ·  X2 **1.17**
@@ -19,6 +19,18 @@ _Actualizadas: 22/11 00:12_
     - 0,5: más **1.25** · menos **3.75**
     - 1,5: más **2.25** · menos **1.57**
     - 2,5: más **5.00** · menos **1.17**
+- **Goles del local:**
+    - 0,5: más **1.44** · menos **2.62**
+    - 1,5: más **3.25** · menos **1.33**
+    - 2,5: más **9.00** · menos **1.07**
+- **Goles del visitante:**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.53** · menos **2.38**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
+- **Córners más/menos:**
+    - 9,5: más **1.80** · menos **2.00**
 - **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.00**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
@@ -27,8 +39,12 @@ _Actualizadas: 22/11 00:12_
     - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
-- **Results/Both Teams Score:** Home/Yes **9.00**  ·  Draw/Yes **6.00**  ·  Away/Yes **2.88**  ·  Home/No **11.00**  ·  Draw/No **17.00**  ·  Away/No **2.75**
+- **To Win Either Half:** 1 **2.75**  ·  2 **1.30**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.20**
+- **Win Both Halves:** 1 **21.00**  ·  2 **3.75**
+- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.00**  ·  Home/No **10.00**  ·  Draw/No **17.00**  ·  Away/No **3.00**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **3.00**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.91**  ·  Menos de 4 **2.88**  ·  Más de 4.5 **1.92**  ·  Menos de 4.5 **1.88**
 
 ## Estadísticas de equipo
 | | Sanjoanense (total) | Sanjoanense en casa | Academica (total) | Academica fuera |

@@ -1,7 +1,7 @@
 # NEC Nijmegen – Twente
 **Eredivisie** · Regular Season - 14 · 29/11/2026 20:00 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_

@@ -22180,31 +22180,31 @@
   "cuota": 1.8,
   "picks": [
    {
-    "partido_id": 1575224,
-    "fecha": "2026-11-22T15:30",
-    "competicion": "Bundesliga",
-    "liga_id": 78,
-    "local": "FC Augsburg",
-    "visitante": "FSV Mainz 05",
+    "partido_id": 1570456,
+    "fecha": "2026-11-22T21:00",
+    "competicion": "LaLiga",
+    "liga_id": 140,
+    "local": "Getafe",
+    "visitante": "Atletico Madrid",
     "mercado": "Total - Home",
-    "opcion": "Over 1.5",
+    "opcion": "Over 0.5",
     "tipo": "goles",
-    "texto": "FC Augsburg marca 2 o más",
+    "texto": "Getafe marca",
     "cuota": 1.8,
-    "frecuencia": 0.75,
-    "ventaja": 0.194,
-    "detalle": "FC Augsburg 8/10 · FSV Mainz 05 7/10",
-    "contexto": "peor_igualado_abajo",
+    "frecuencia": 0.55,
+    "ventaja": -0.006,
+    "detalle": "Getafe 6/10 · Atletico Madrid 5/10",
+    "contexto": "peor_abismo_medio",
     "forma": "forma_igual",
-    "bajas": "bajas_mias",
+    "bajas": "bajas_ninguno",
     "claves_fuera": {
-     "170": [
-      "Calvin Brackelmann"
-     ],
-     "164": []
+     "546": [],
+     "530": []
     },
-    "prob_aprendida": 0.574,
-    "prob_sin_calibrar": 0.6028528682132422
+    "prob_aprendida": 0.587,
+    "prob_bet365": 0.5034146962085906,
+    "prob_tipo": 0.7334553014553015,
+    "prob_sin_calibrar": 0.6169452532631495
    }
   ],
   "hora": null,

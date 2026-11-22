@@ -1,7 +1,7 @@
 # Albacete – Tenerife
 **Segunda División** · Regular Season - 16 · 29/11/2026 17:00 (hora España) · Estadio Carlos Belmonte
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._

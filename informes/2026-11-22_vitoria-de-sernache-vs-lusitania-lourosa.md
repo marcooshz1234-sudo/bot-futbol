@@ -1,24 +1,24 @@
 # Vitória de Sernache – Lusitânia Lourosa
 **Taça de Portugal** · Round of 32 · 22/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:12_
+_Actualizadas: 22/11 07:42_
 
-- **1X2:** 1 **4.33**  ·  X **4.33**  ·  2 **1.53**
-- **Doble oportunidad:** 1X **2.25**  ·  12 **1.18**  ·  X2 **1.18**
-- **Ambos marcan:** Sí **1.73**  ·  No **2.00**
+- **1X2:** 1 **3.30**  ·  X **3.80**  ·  2 **1.83**
+- **Doble oportunidad:** 1X **2.20**  ·  12 **1.18**  ·  X2 **1.20**
+- **Ambos marcan:** Sí **1.67**  ·  No **2.10**
 - **Goles más/menos:**
-    - 1,5: más **1.18** · menos **4.50**
-    - 2,5: más **1.62** · menos **2.25**
-    - 3,5: más **2.50** · menos **1.50**
-    - 4,5: más **4.50** · menos **1.18**
-    - 5,5: más **10.00** · menos **1.06**
+    - 1,5: más **1.22** · menos **4.00**
+    - 2,5: más **1.73** · menos **2.08**
+    - 3,5: más **2.75** · menos **1.40**
+    - 4,5: más **5.50** · menos **1.14**
+    - 5,5: más **11.00** · menos **1.05**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.28** · menos **3.50**
-    - 1,5: más **2.38** · menos **1.53**
-    - 2,5: más **5.50** · menos **1.14**
+    - 0,5: más **1.33** · menos **3.25**
+    - 1,5: más **2.50** · menos **1.50**
+    - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
     - 0,5: más **1.50** · menos **2.50**
     - 1,5: más **3.40** · menos **1.30**
@@ -29,19 +29,22 @@ _Actualizadas: 22/11 00:12_
     - 2,5: más **2.75** · menos **1.40**
     - 3,5: más **6.00** · menos **1.12**
     - 4,5: más **13.00** · menos **1.04**
-- **1X2 descanso:** 1 **5.50**  ·  X **2.50**  ·  2 **2.05**
+- **Córners más/menos:**
+    - 9,5: más **1.83** · menos **1.83**
+- **1X2 descanso:** 1 **4.33**  ·  X **2.30**  ·  2 **2.38**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.18** · menos **4.50**
     - 1,5: más **1.83** · menos **1.83**
     - 2,5: más **3.75** · menos **1.25**
     - 3,5: más **9.00** · menos **1.07**
-- **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
+- **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
-- **To Win Either Half:** 1 **3.25**  ·  2 **1.25**
-- **To Score In Both Halves By Teams:** 1 **6.50**  ·  2 **2.10**
-- **Win Both Halves:** 1 **26.00**  ·  2 **3.50**
-- **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.10**  ·  Home/No **9.00**  ·  Draw/No **17.00**  ·  Away/No **2.75**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **6.00**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.75**
+- **To Win Either Half:** 1 **2.25**  ·  2 **1.50**
+- **To Score In Both Halves By Teams:** 1 **4.50**  ·  2 **2.75**
+- **Win Both Halves:** 1 **15.00**  ·  2 **5.50**
+- **Results/Both Teams Score:** Home/Yes **7.50**  ·  Draw/Yes **5.50**  ·  Away/Yes **3.20**  ·  Home/No **9.00**  ·  Draw/No **17.00**  ·  Away/No **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **2.00**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **9.00**  ·  u/no 2.5 **2.75**
+- **Total Corners (1st Half):** Exactamente 4 **5.00**  ·  Más de 4 **1.95**  ·  Menos de 4 **2.75**
 
 ## Estadísticas de equipo
 | | Vitória de Sernache (total) | Vitória de Sernache en casa | Lusitânia Lourosa (total) | Lusitânia Lourosa fuera |

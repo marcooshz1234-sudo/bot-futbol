@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Augsburg
 **Bundesliga** · Regular Season - 11 · 29/11/2026 17:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_

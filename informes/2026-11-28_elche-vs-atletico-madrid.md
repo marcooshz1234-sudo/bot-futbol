@@ -1,7 +1,7 @@
 # Elche – Atletico Madrid
 **LaLiga** · Regular Season - 14 · 28/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_

@@ -1,10 +1,10 @@
 # Torreense – Benfica
 **Taça de Portugal** · Round of 32 · 22/11/2026 21:45 (hora España) · Estadio Manuel Marques
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 00:13_
+_Actualizadas: 22/11 07:42_
 
 - **1X2:** 1 **15.00**  ·  X **7.00**  ·  2 **1.17**
 - **Doble oportunidad:** 1X **5.00**  ·  12 **1.10**  ·  X2 **1.03**
@@ -17,26 +17,37 @@ _Actualizadas: 22/11 00:13_
     - 5,5: más **4.50** · menos **1.18**
     - 6,5: más **9.00** · menos **1.07**
 - **Goles 1ª parte más/menos:**
-    - 0,5: más **1.14** · menos **5.50**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.25** · menos **1.33**
-    - 3,5: más **7.00** · menos **1.10**
+    - 0,5: más **1.17** · menos **5.00**
+    - 1,5: más **1.83** · menos **1.83**
+    - 2,5: más **3.75** · menos **1.25**
+    - 3,5: más **9.00** · menos **1.07**
+- **Goles del local:**
+    - 0,5: más **1.80** · menos **1.91**
+    - 1,5: más **5.00** · menos **1.17**
+- **Goles del visitante:**
+    - 1,5: más **1.18** · menos **4.50**
+    - 2,5: más **1.57** · menos **2.25**
+    - 3,5: más **2.50** · menos **1.50**
+    - 4,5: más **4.33** · menos **1.20**
+    - 5,5: más **9.00** · menos **1.07**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
-- **1X2 descanso:** 1 **11.00**  ·  X **3.50**  ·  2 **1.44**
+    - 10: más **1.98** · menos **1.82**
+- **1X2 descanso:** 1 **10.00**  ·  X **3.25**  ·  2 **1.50**
 - **Goals Over/Under - Second Half:**
-    - 0,5: más **1.08** · menos **8.00**
-    - 1,5: más **1.44** · menos **2.62**
-    - 2,5: más **2.50** · menos **1.50**
-    - 3,5: más **5.00** · menos **1.17**
-    - 4,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.10** · menos **7.00**
+    - 1,5: más **1.50** · menos **2.50**
+    - 2,5: más **2.62** · menos **1.44**
+    - 3,5: más **5.50** · menos **1.14**
+    - 4,5: más **13.00** · menos **1.04**
 - **Both Teams Score - First Half:** Sí **4.33**  ·  No **1.20**
 - **Both Teams To Score - Second Half:** Sí **3.25**  ·  No **1.33**
 - **To Win Either Half:** 1 **5.50**  ·  2 **1.08**
 - **To Score In Both Halves By Teams:** 1 **9.00**  ·  2 **1.53**
 - **Win Both Halves:** 1 **51.00**  ·  2 **2.10**
-- **Results/Both Teams Score:** Home/Yes **23.00**  ·  Draw/Yes **8.50**  ·  Away/Yes **2.40**  ·  Home/No **29.00**  ·  Draw/No **29.00**  ·  Away/No **2.00**
+- **Results/Both Teams Score:** Home/Yes **21.00**  ·  Draw/Yes **8.00**  ·  Away/Yes **2.40**  ·  Home/No **26.00**  ·  Draw/No **26.00**  ·  Away/No **2.10**
 - **Total Goals/Both Teams To Score:** o/yes 2.5 **2.05**  ·  o/no 2.5 **3.10**  ·  u/yes 2.5 **15.00**  ·  u/no 2.5 **4.00**
+- **Total Corners (1st Half):** Exactamente 5 **5.50**  ·  Más de 5 **2.50**  ·  Menos de 5 **2.00**  ·  Más de 4.5 **1.78**  ·  Menos de 4.5 **2.02**
 
 ## Estadísticas de equipo
 | | Torreense (total) | Torreense en casa | Benfica (total) | Benfica fuera |

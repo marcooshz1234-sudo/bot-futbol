@@ -1,7 +1,7 @@
 # Toulouse – Rennes
 **Ligue 1** · Regular Season - 12 · 29/11/2026 17:15 (hora España) · Stadium de Toulouse
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_

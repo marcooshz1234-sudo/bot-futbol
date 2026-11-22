@@ -1,7 +1,7 @@
 # Manchester United – Brentford
 **Premier League** · Regular Season - 12 · 28/11/2026 16:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 00:16._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:14_
