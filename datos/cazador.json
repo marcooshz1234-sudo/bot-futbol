@@ -53,18 +53,18 @@
    "justa": 1.56,
    "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 1.8
+   "edad_h": 2.1
   },
   {
-   "local": "Barcelona",
-   "visitante": "Villarreal",
+   "local": "Cordoba",
+   "visitante": "Oviedo",
    "inicio": "2026-11-22T14:00",
-   "texto": "Barcelona marca 4 o más",
-   "cuota": 2.2,
-   "justa": 2.22,
-   "ev": -0.009,
-   "fuente": "las otras casas",
-   "edad_h": 1.8
+   "texto": "Gana el Cordoba",
+   "cuota": 2.05,
+   "justa": 2.07,
+   "ev": -0.012,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Alcione",
@@ -75,29 +75,7 @@
    "justa": 1.75,
    "ev": -0.013,
    "fuente": "las otras casas",
-   "edad_h": 1.8
-  },
-  {
-   "local": "Granada",
-   "visitante": "Real Madrid W",
-   "inicio": "2026-11-22T12:00",
-   "texto": "Granada marca",
-   "cuota": 1.83,
-   "justa": 1.86,
-   "ev": -0.015,
-   "fuente": "las otras casas",
-   "edad_h": 0.3
-  },
-  {
-   "local": "Barcelona",
-   "visitante": "Villarreal",
-   "inicio": "2026-11-22T14:00",
-   "texto": "Más de 2,5 goles en la 2ª parte del Barcelona–Villarreal",
-   "cuota": 2.1,
-   "justa": 2.13,
-   "ev": -0.015,
-   "fuente": "las otras casas",
-   "edad_h": 1.8
+   "edad_h": 2.1
   },
   {
    "local": "Ajax",
@@ -108,11 +86,22 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 1.8
+   "edad_h": 2.1
+  },
+  {
+   "local": "Granada",
+   "visitante": "Real Madrid W",
+   "inicio": "2026-11-22T12:00",
+   "texto": "Granada marca",
+   "cuota": 1.83,
+   "justa": 1.87,
+   "ev": -0.02,
+   "fuente": "las otras casas",
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T01:58",
+  "hora": "2026-11-22T02:19",
   "revisadas": 0,
   "mejor": null
  },
