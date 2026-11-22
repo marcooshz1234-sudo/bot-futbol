@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 23:25",
+ "actualizado": "2026-11-22 23:35",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3708,
-   "hoy": 233,
+   "seguidores": 3709,
+   "hoy": 234,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3708
+    3709
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4269,
- "total_hoy": 242,
+ "total": 4270,
+ "total_hoy": 243,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:30",
-  "dia": "2026-11-22",
-  "titulo": "Combi levante – elche"
+  "hora": "13:30",
+  "dia": "2026-11-23",
+  "titulo": "Vamos con la combi del lunes familia"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,19 +252,19 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3708,
+   "threads": 3709,
    "facebook": 1,
    "telegram": 506
   }
  },
  "tipos_instagram": {
-  "Combi de partido (reel)": {
-   "posts": 4,
+  "Otros (reel)": {
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 46,
+  "Combi de partido (reel)": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
