@@ -157,7 +157,9 @@
   "bucle-alineaciones_espera-2026112216": "2026-11-22T16:51",
   "bucle-cuotas_frescas-2026112217": "2026-11-22T17:01",
   "bucle-alineaciones_posts-2026112217": "2026-11-22T17:01",
-  "bucle-alineaciones_espera-2026112217": "2026-11-22T17:01"
+  "bucle-alineaciones_espera-2026112217": "2026-11-22T17:01",
+  "bucle-cuotas_frescas-2026112218": "2026-11-22T18:10",
+  "bucle-alineaciones_posts-2026112218": "2026-11-22T18:10"
  },
  "abiertos": [
   {
@@ -205,16 +207,26 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-cuotas_frescas-2026112217",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora"
+   "clave": "bucle-cuotas_frescas-2026112218",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora"
   },
   {
-   "clave": "bucle-alineaciones_posts-2026112217",
-   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 6 veces en la última hora"
+   "clave": "bucle-alineaciones_posts-2026112218",
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 5 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T17:59",
+ "revisado": "2026-11-22T18:10",
  "historial": [
+  {
+   "hora": "2026-11-22T18:10",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora",
+   "k": "bucle-cuotas_frescas-2026112218"
+  },
+  {
+   "hora": "2026-11-22T18:10",
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 5 veces en la última hora",
+   "k": "bucle-alineaciones_posts-2026112218"
+  },
   {
    "hora": "2026-11-22T17:01",
    "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 3 veces en la última hora",
@@ -504,16 +516,6 @@
    "hora": "2026-11-21T15:11",
    "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (16:30)",
    "k": "directo-2026-11-21-pick-claude-1"
-  },
-  {
-   "hora": "2026-11-21T15:11",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Pick para la noche 👇 (19:30)",
-   "k": "directo-2026-11-21-pick-claude-2"
-  },
-  {
-   "hora": "2026-11-21T15:11",
-   "t": "⏰ No ha salido en threads ni instagram (14:40): 🚨 COMBI FEYENOORD – EXCELSIOR 🚨",
-   "k": "redes-2026-11-21-loca-th-1440-escudos-threads-instagram"
   }
  ]
 }
