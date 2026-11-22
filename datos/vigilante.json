@@ -156,7 +156,8 @@
   "bucle-alineaciones_posts-2026112217": "2026-11-22T17:01",
   "bucle-alineaciones_espera-2026112217": "2026-11-22T17:01",
   "bucle-cuotas_frescas-2026112218": "2026-11-22T18:10",
-  "bucle-alineaciones_posts-2026112218": "2026-11-22T18:10"
+  "bucle-alineaciones_posts-2026112218": "2026-11-22T18:10",
+  "bucle-cuotas_frescas-2026112219": "2026-11-22T19:01"
  },
  "abiertos": [
   {
@@ -204,12 +205,17 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-cuotas_frescas-2026112218",
+   "clave": "bucle-cuotas_frescas-2026112219",
    "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T18:50",
+ "revisado": "2026-11-22T19:01",
  "historial": [
+  {
+   "hora": "2026-11-22T19:01",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora",
+   "k": "bucle-cuotas_frescas-2026112219"
+  },
   {
    "hora": "2026-11-22T18:10",
    "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora",
@@ -504,11 +510,6 @@
    "hora": "2026-11-21T21:25",
    "t": "⏰ No ha salido en threads (20:20): 🚩 CÓRNERS DEL DÍA 🚩",
    "k": "redes-2026-11-21-loca-th-2020-lista-corners-threads"
-  },
-  {
-   "hora": "2026-11-21T15:11",
-   "t": "⚠️ Sin «directo» (no saldría en Threads ni Instagram): Vamos con otro pick 🍀 (16:30)",
-   "k": "directo-2026-11-21-pick-claude-1"
   }
  ]
 }
