@@ -146,7 +146,8 @@
   "regla-dia-2026-11-23-semana-europa": "2026-11-22T12:40",
   "regla-orden-2026-11-23-semana-europa": "2026-11-22T12:40",
   "redes-2026-11-22-escalera-threads-instagram": "2026-11-22T12:49",
-  "bucle-cuotas_frescas-2026112212": "2026-11-22T12:49"
+  "bucle-cuotas_frescas-2026112212": "2026-11-22T12:49",
+  "bucle-cuotas_frescas-2026112213": "2026-11-22T13:09"
  },
  "abiertos": [
   {
@@ -202,12 +203,17 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-cuotas_frescas-2026112212",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 4 veces en la última hora"
+   "clave": "bucle-cuotas_frescas-2026112213",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T12:58",
+ "revisado": "2026-11-22T13:09",
  "historial": [
+  {
+   "hora": "2026-11-22T13:09",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora",
+   "k": "bucle-cuotas_frescas-2026112213"
+  },
   {
    "hora": "2026-11-22T12:49",
    "t": "⏰ No ha salido en threads ni instagram (11:00): 🪜 Reto escalera · Día 2/7",
@@ -502,11 +508,6 @@
    "hora": "2026-11-21T03:01",
    "t": "📰 Sporting Gijon–Las Palmas: «El Sporting apunta a tener 8 bajas contra Las Palmas» (La Voz de Asturias) · tenemos 1 post(s) de este partido: picks-manana",
    "k": "prensa-1570031-e1d3be47"
-  },
-  {
-   "hora": "2026-11-21T03:01",
-   "t": "📰 AC Milan–Frosinone: «Milan, Pavlovic es duda ante el Frosinone: solo completó parte del entrenamiento con el grupo. Maignan está to» (Goal.com) · tenemos 3 post(s) de este partido: picks-manana, ganadores-seriea, combi-tres",
-   "k": "prensa-1550197-13bf9150"
   }
  ]
 }

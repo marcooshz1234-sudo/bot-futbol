@@ -65,7 +65,7 @@
    "justa": 1.94,
    "ev": 0.133,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.5
   },
   {
    "local": "Vitória de Sernache",
@@ -76,7 +76,7 @@
    "justa": 1.96,
    "ev": 0.122,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.5
   },
   {
    "local": "União de Leiria",
@@ -87,7 +87,7 @@
    "justa": 1.63,
    "ev": 0.023,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.4
   },
   {
    "local": "Vitória de Sernache",
@@ -98,7 +98,7 @@
    "justa": 1.48,
    "ev": 0.015,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.5
   },
   {
    "local": "Vizela",
@@ -109,7 +109,7 @@
    "justa": 2.08,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.5
   },
   {
    "local": "Alcione",
@@ -120,7 +120,7 @@
    "justa": 1.75,
    "ev": -0.013,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.5
   },
   {
    "local": "Girona",
@@ -131,7 +131,7 @@
    "justa": 1.98,
    "ev": -0.014,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.4
   },
   {
    "local": "Hull City",
@@ -142,11 +142,11 @@
    "justa": 1.52,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 5.0
+   "edad_h": 5.5
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T12:40",
+  "hora": "2026-11-22T13:09",
   "revisadas": 2,
   "mejor": {
    "partido_id": 1647590,
@@ -160,7 +160,7 @@
    "justa": 1.94,
    "ev": 0.133,
    "fuente": "las otras casas",
-   "edad_h": 5.0,
+   "edad_h": 5.5,
    "texto": "Vianense o empate"
   }
  },
