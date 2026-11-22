@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 18:39",
+ "actualizado": "2026-11-22 18:49",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3677,
-   "hoy": 202,
+   "seguidores": 3679,
+   "hoy": 204,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3677
+    3679
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4236,
- "total_hoy": 209,
+ "total": 4238,
+ "total_hoy": 211,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "18:40",
+  "hora": "19:00",
   "dia": "2026-11-22",
-  "titulo": "El duelo de tiros"
+  "titulo": "La de los tapados"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,7 +252,7 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3677,
+   "threads": 3679,
    "facebook": 1,
    "telegram": 504
   }
