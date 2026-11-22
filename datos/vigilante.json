@@ -158,32 +158,15 @@
   "bucle-alineaciones_posts-2026112218": "2026-11-22T18:10",
   "bucle-cuotas_frescas-2026112219": "2026-11-22T19:01",
   "bucle-alineaciones_posts-2026112219": "2026-11-22T19:31",
-  "bucle-alineaciones_espera-2026112219": "2026-11-22T19:52"
+  "bucle-alineaciones_espera-2026112219": "2026-11-22T19:52",
+  "bucle-cuotas_frescas-2026112220": "2026-11-22T20:02",
+  "bucle-alineaciones_posts-2026112220": "2026-11-22T20:02",
+  "bucle-alineaciones_espera-2026112220": "2026-11-22T20:02"
  },
  "abiertos": [
   {
-   "clave": "redes-2026-11-22-loca-th-1400-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (14:00): 💥 COMBI AC MILAN – FROSINONE 💥"
-  },
-  {
-   "clave": "redes-2026-11-22-combi-partido-1575224-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (14:30): Os dejo la combi del FC Augsburg – FSV Mainz 05 🇩🇪🔥"
-  },
-  {
-   "clave": "redes-2026-11-22-loca-th-1520-reto-threads",
-   "t": "⏰ No ha salido en threads (15:20): 💶 RETO: DE 1€ A 226€ 💶"
-  },
-  {
-   "clave": "redes-2026-11-22-loca-th-1540-tiros-threads",
-   "t": "⏰ No ha salido en threads (15:40): 🎯 COMBI DE TIROS · RACING SANTANDER vs REAL SOCIEDAD 🎯"
-  },
-  {
    "clave": "redes-2026-11-22-loca-th-1600-escudos-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (16:00): 🔥 COMBI MARSEILLE – LE MANS 🔥"
-  },
-  {
-   "clave": "redes-2026-11-22-combi-partido-1557473-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (16:30): Os dejo la combi del Liverpool – Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥"
   },
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
@@ -202,20 +185,35 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-cuotas_frescas-2026112219",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora"
+   "clave": "bucle-cuotas_frescas-2026112220",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora"
   },
   {
-   "clave": "bucle-alineaciones_posts-2026112219",
-   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 6 veces en la última hora"
+   "clave": "bucle-alineaciones_posts-2026112220",
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 5 veces en la última hora"
   },
   {
-   "clave": "bucle-alineaciones_espera-2026112219",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 9 veces en la última hora"
+   "clave": "bucle-alineaciones_espera-2026112220",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 13 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T19:52",
+ "revisado": "2026-11-22T20:02",
  "historial": [
+  {
+   "hora": "2026-11-22T20:02",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora",
+   "k": "bucle-cuotas_frescas-2026112220"
+  },
+  {
+   "hora": "2026-11-22T20:02",
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 5 veces en la última hora",
+   "k": "bucle-alineaciones_posts-2026112220"
+  },
+  {
+   "hora": "2026-11-22T20:02",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 13 veces en la última hora",
+   "k": "bucle-alineaciones_espera-2026112220"
+  },
   {
    "hora": "2026-11-22T19:52",
    "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 9 veces en la última hora",
@@ -500,21 +498,6 @@
    "hora": "2026-11-21T21:25",
    "t": "⏰ No ha salido en threads (18:40): 🥊 EL DUELO DE TIROS 🥊",
    "k": "redes-2026-11-21-loca-th-1840-duelo-threads"
-  },
-  {
-   "hora": "2026-11-21T21:25",
-   "t": "⏰ No ha salido en threads (19:00): 🤑 COMBI POR 86,53 🤑",
-   "k": "redes-2026-11-21-loca-th-1900-x100-threads"
-  },
-  {
-   "hora": "2026-11-21T21:25",
-   "t": "⏰ No ha salido en threads (19:20): ⏳ TODO A LAS 20:45 ⏳",
-   "k": "redes-2026-11-21-loca-th-1920-hora-threads"
-  },
-  {
-   "hora": "2026-11-21T21:25",
-   "t": "⏰ No ha salido en threads (19:40): 🤑 COMBI x42,38 🤑",
-   "k": "redes-2026-11-21-loca-th-1940-x50-threads"
   }
  ]
 }
