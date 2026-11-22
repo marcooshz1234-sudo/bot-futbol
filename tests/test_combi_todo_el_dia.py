@@ -30,10 +30,38 @@ class TodoElDia(unittest.TestCase):
             self.assertTrue(30 <= c["cuota"] <= 40, c["cuota"])
             self.assertTrue(all(1.4 <= x["cuota"] <= 1.6 for x in c["patas"]))
             ids = [x["partido"] for x in c["patas"]]
-            self.assertEqual(len(ids), len(set(ids)))
+            self.assertTrue(all(ids.count(i) <= 2 for i in ids))
         self.assertFalse({x["sel"] for x in a["patas"]} & {x["sel"] for x in b["patas"]})   # dos diferentes
         resto = [x["sel"] for k, c in out.items() if not k.startswith(("todo-", "dia-")) for x in c["patas"]]
         self.assertFalse(set(resto) & {x["sel"] for x in a["patas"] + b["patas"]})   # sin repetir en las demás
+
+
+    def test_pocos_partidos_dos_patas_por_partido(self):
+        """Quedan 5 partidos: con una pata por partido no llega a @30, así que mete una 2.ª de otro mercado."""
+        pool = []
+        for i in range(5):
+            cs = [{"sel": f"{i}|M{n}|x", "texto": "t", "cuota": 1.5, "p": 0.8 - n / 10, "partido": f"P{i}", "hora": "2026-11-22T15:00"}
+                  for n in range(3)]
+            pool.append(({"id": i}, cs))
+        c = C.combi_30_40(pool, set())
+        self.assertTrue(30 <= c["cuota"] <= 40)
+        for i in range(5):
+            mers = [x["sel"].split("|")[1] for x in c["patas"] if x["partido"] == f"P{i}"]
+            self.assertLessEqual(len(mers), 2); self.assertEqual(len(mers), len(set(mers)))
+        a = {"sel": "1|Player Fouls Committed|Pepe - 1", "texto": "Pepe: comete 1+ falta", "lado": "L"}
+        self.assertFalse(C.misma_cosa(a, dict(a, sel="1|Player Fouls Committed|Juan - 1", texto="Juan: comete 1+ falta")))
+        self.assertTrue(C.misma_cosa(a, dict(a, sel="1|Home Player Shots|Pepe - 1", texto="Pepe: 1+ remate")))
+
+
+    def test_cambia_una_pata_si_se_queda_a_las_puertas(self):
+        """7 patas @1,53 + 1 @1,40 = @27,4; meter la 2.ª del partido (@1,58) pasa de 40, cambiarla por ella da @31."""
+        pata = lambda i, m, c, p: {"sel": f"{i}|{m}|x", "texto": m, "cuota": c, "p": p, "partido": f"P{i}", "hora": "h"}
+        pool = [({"id": i}, [pata(i, "M", 1.53, 0.8)]) for i in range(7)]
+        pool.append(({"id": 7}, [pata(7, "M", 1.40, 0.95), pata(7, "N", 1.58, 0.6)]))
+        c = C.combi_30_40(pool, set())
+        self.assertIsNotNone(c)
+        self.assertTrue(30 <= c["cuota"] <= 40, c["cuota"])
+        self.assertIn("7|N|x", [x["sel"] for x in c["patas"]])
 
 
 if __name__ == "__main__":

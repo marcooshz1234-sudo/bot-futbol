@@ -549,9 +549,18 @@ DOS_DIA_CUOTA = (30, 40)       # 22/11 (Marcos): las dos del día, de @30 a @40�
 DOS_DIA_PATA = (1.40, 1.60)    # …con patas de @1,40 a @1,60
 
 
+def misma_cosa(a, b):
+    """Dos patas del mismo partido que no pegan juntas: el mismo jugador o el mismo mercado de equipo."""
+    ma, mb = a["sel"].split("|")[1], b["sel"].split("|")[1]
+    if a.get("lado") and ":" in a["texto"] and b.get("lado") and ":" in b["texto"]:
+        return a["texto"].split(":")[0] == b["texto"].split(":")[0]
+    return ma == mb
+
+
 def combi_30_40(pool, usadas, evitar=()):
     """Una combi de @30-40 con patas de @1,40-1,60: la pata más probable de cada partido (los de «evitar», los
-    de la otra combi, al final), sin pasar de @40, hasta llegar a @30. Un partido una vez; None si no llega."""
+    de la otra combi, al final), sin pasar de @40, hasta llegar a @30. Si no llega, 2.ª pata de algún partido
+    (otro jugador u otro mercado, Crear apuesta); None si aun así no llega."""
     lo, hi = DOS_DIA_PATA
     partidos = []
     for p, cands in pool:
@@ -561,14 +570,29 @@ def combi_30_40(pool, usadas, evitar=()):
             partidos.append(cs)
     partidos.sort(key=lambda cs: (cs[0]["partido"] in evitar, -cs[0]["p"]))
     patas, tot = [], 1.0
-    for cs in partidos:
-        x = next((x for x in cs if tot * x["cuota"] <= DOS_DIA_CUOTA[1]), None)
-        if not x:
-            continue
-        patas.append(x)
-        tot *= x["cuota"]
-        if tot >= DOS_DIA_CUOTA[0]:
-            break
+    # 22/11: si con una pata por partido no llega a @30 (pocos partidos que quedan), una 2.ª pata del mismo partido
+    # (Crear apuesta), como mucho 2 por partido y que no sean lo mismo (dos jugadores distintos sí)
+    for ronda in (1, 2):
+        for cs in partidos:
+            if tot >= DOS_DIA_CUOTA[0]:
+                break
+            ya = [y for y in patas if y["partido"] == cs[0]["partido"]]
+            if len(ya) >= ronda:
+                continue
+            x = next((x for x in cs if x not in patas and tot * x["cuota"] <= DOS_DIA_CUOTA[1]
+                      and not any(misma_cosa(x, y) for y in ya)), None)
+            if x:
+                patas.append(x)
+                tot *= x["cuota"]
+    if tot < DOS_DIA_CUOTA[0]:   # 22/11: se queda a las puertas (@29,4): cambiar una pata por otra del mismo partido más alta
+        libres = [x for cs in partidos for x in cs if x not in patas]
+        cambio = next(((i, y) for i, x in enumerate(patas) for y in libres if y["partido"] == x["partido"]
+                       and DOS_DIA_CUOTA[0] <= tot / x["cuota"] * y["cuota"] <= DOS_DIA_CUOTA[1]
+                       and not any(misma_cosa(y, z) for z in patas if z is not x and z["partido"] == y["partido"])), None)
+        if cambio:
+            i, y = cambio
+            tot = tot / patas[i]["cuota"] * y["cuota"]
+            patas[i] = y
     if tot < DOS_DIA_CUOTA[0]:
         return None
     prob = 1.0

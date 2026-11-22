@@ -130,7 +130,10 @@ class LigasYDestacadas(unittest.TestCase):
         self.assertEqual(len(sels), len(set(sels)))                                # ningún pick en dos destacadas
         for c in ds:
             ids = [x["sel"].split("|")[0] for x in c["patas"]]
-            self.assertEqual(len(ids), len(set(ids)))                              # un partido una vez por combi
+            if c["clave"].startswith("dia-"):   # 22/11: las de @30-40 pueden llevar 2 patas de un partido (Crear apuesta)
+                self.assertTrue(all(ids.count(i) <= 2 for i in ids))
+            else:
+                self.assertEqual(len(ids), len(set(ids)))                          # un partido una vez por combi
             self.assertTrue(0 < c["prob"] <= 1)
 
 
