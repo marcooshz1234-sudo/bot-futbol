@@ -65,7 +65,7 @@
    "justa": 1.93,
    "ev": -0.01,
    "fuente": "las otras casas",
-   "edad_h": 3.0
+   "edad_h": 3.4
   },
   {
    "local": "AD Ceuta FC",
@@ -76,11 +76,11 @@
    "justa": 1.84,
    "ev": -0.019,
    "fuente": "las otras casas",
-   "edad_h": 3.0
+   "edad_h": 3.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T23:36",
+  "hora": "2026-11-22T23:57",
   "revisadas": 0,
   "mejor": null
  },
