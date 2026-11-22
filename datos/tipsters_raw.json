@@ -14800,21 +14800,6 @@
  ],
  "STAKE REAL | JB APUESTAS": [
   {
-   "id": "-1001938149766/12737",
-   "fecha": "2026-11-15T13:56",
-   "texto": "👆 YA SOLO QUEDAN 20 PLAZAS CON EL DTO, PLAZAS VOLANDO 👆",
-   "foto": false,
-   "visto": "2026-11-15T14:00"
-  },
-  {
-   "id": "-1001938149766/12738",
-   "fecha": "2026-11-15T17:16",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-15T17:21",
-   "foto_ruta": "datos/tipsters_fotos/STAKE_REAL_JB_APUESTAS_12738.jpg"
-  },
-  {
    "id": "-1001938149766/12739",
    "fecha": "2026-11-15T17:17",
    "texto": "Ya somos 20 guerreros dentro listos para forrarnos esta noche. 🫂\n\nMás de 15 personas de dentro del grupo me han dicho que les encanta la apuesta y que no entienden cómo esta a @2,30, así que daros prisa por si acaso nos la bajan. 🚨\n\n🛍️ https://jbapuestas.tipsterpage.com/JOEhEgqh",
@@ -16299,6 +16284,21 @@
    "texto": "✅",
    "foto": false,
    "visto": "2026-11-22T21:02"
+  },
+  {
+   "id": "-1001938149766/12949",
+   "fecha": "2026-11-22T21:24",
+   "texto": "👆 Ya hemos cobrado EL STAKAZO del ATM en tan solo 20 minutos, vamos con el último stakazo de la semana y para que entre todo el mundo os lo dejaré a precio de risa 💸",
+   "foto": false,
+   "visto": "2026-11-22T21:26"
+  },
+  {
+   "id": "-1001938149766/12948",
+   "fecha": "2026-11-22T21:24",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-22T21:26",
+   "foto_ruta": "datos/tipsters_fotos/STAKE_REAL_JB_APUESTAS_12948.jpg"
   }
  ],
  "ENZO TIPSTER🇦🇷": [
@@ -20359,6 +20359,13 @@
    "foto": true,
    "visto": "2026-11-22T21:02",
    "foto_ruta": "datos/tipsters_fotos/Pick_Maestro_229.jpg"
+  },
+  {
+   "id": "-1003556259193/230",
+   "fecha": "2026-11-22T21:20",
+   "texto": "Un tiro y la cobramos",
+   "foto": false,
+   "visto": "2026-11-22T21:26"
   }
  ]
 }
