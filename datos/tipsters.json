@@ -3733,5 +3733,25 @@
    1,
    1
   ]
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37166",
+  "dia": "2026-11-22",
+  "local": "Osasuna",
+  "visitante": "Malaga",
+  "partido_id": 1570458,
+  "texto": "Gana el Osasuna",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.77,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "La Liga",
+   "cuota_bet365": 1.83,
+   "prob_cuota": 0.565
+  }
  }
 ]

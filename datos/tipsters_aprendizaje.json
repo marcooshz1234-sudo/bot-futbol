@@ -10,7 +10,7 @@
    "prob_cuota": 2.453
   },
   "TipsAnalistas": {
-   "n": 15,
+   "n": 16,
    "verdes": 9,
    "rojos": 4,
    "nulos": 0,
@@ -190,7 +190,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 25,
+   "n": 26,
    "verdes": 14,
    "rojos": 7,
    "nulos": 0,
@@ -938,11 +938,18 @@
    "rojos": 1,
    "nulos": 0,
    "unidades": 0.0
+  },
+  "Osasuna": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 84,
+   "n": 85,
    "verdes": 48,
    "rojos": 13,
    "nulos": 0,
@@ -1016,7 +1023,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 58,
+   "n": 59,
    "verdes": 26,
    "rojos": 16,
    "nulos": 0,
@@ -1105,6 +1112,15 @@
    "resueltos_con_cuota": 4,
    "prob_cuota": 2.408
   },
+  "La Liga": {
+   "n": 2,
+   "verdes": 0,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": -1.0,
+   "resueltos_con_cuota": 1,
+   "prob_cuota": 0.877
+  },
   "Bundesliga": {
    "n": 2,
    "verdes": 0,
@@ -1113,15 +1129,6 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
-  },
-  "La Liga": {
-   "n": 1,
-   "verdes": 0,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": -1.0,
-   "resueltos_con_cuota": 1,
-   "prob_cuota": 0.877
   }
  },
  "lado": {
@@ -1135,7 +1142,7 @@
    "prob_cuota": 20.562
   },
   "local": {
-   "n": 43,
+   "n": 44,
    "verdes": 22,
    "rojos": 13,
    "nulos": 0,
@@ -1155,7 +1162,7 @@
  },
  "por_que": {
   "—": {
-   "n": 64,
+   "n": 65,
    "verdes": 24,
    "rojos": 17,
    "nulos": 0,
@@ -1229,7 +1236,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 137,
+   "n": 138,
    "verdes": 69,
    "rojos": 27,
    "nulos": 0,
