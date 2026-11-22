@@ -9972,7 +9972,8 @@
       "telegram"
     ],
     "requiere_ok": true,
-    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
+    "caducada": "cancelado"
   },
   {
     "id": "2026-11-22-casi-auto-2026-11-21-loca-th-0020-x100",
@@ -10073,10 +10074,10 @@
     "redes": {
       "instagram_reel": null,
       "instagram_story": null,
-      "facebook": null
+      "facebook": null,
+      "threads": "18111769121206070"
     },
     "errores_redes": {
-      "threads": "400: An unknown error occurred",
       "instagram": "contenedor ERROR: ERROR"
     }
   },
