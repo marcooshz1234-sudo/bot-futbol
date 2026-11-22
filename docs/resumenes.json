@@ -3285,12 +3285,12 @@
     "dia": "2026-11-22",
     "total": 27,
     "cuentas": {
-      "verde": 3,
-      "rojo": 13,
+      "verde": 5,
+      "rojo": 16,
       "pendiente": 6,
-      "sin_datos": 5,
+      "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 11
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -3362,7 +3362,7 @@
       {
         "id": "2026-11-22-escalera",
         "titulo": "🪜 Reto escalera · Día 2/7",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": null
       },
       {
@@ -3386,7 +3386,7 @@
       {
         "id": "2026-11-22-loca-th-1740-escudos",
         "titulo": "💥 COMBI GETAFE – ATLETICO MADRID 💥",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 12.27
       },
       {
@@ -3398,7 +3398,7 @@
       {
         "id": "2026-11-22-loca-th-1820-lista-gana",
         "titulo": "💎 LOS FAVORITOS DEL DÍA 💎",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -3410,7 +3410,7 @@
       {
         "id": "2026-11-22-loca-th-1900-tapados",
         "titulo": "🃏 LA DE LOS TAPADOS 🃏",
-        "estado": "sin_datos",
+        "estado": "rojo",
         "cuota": 14.34
       },
       {
@@ -3428,7 +3428,7 @@
       {
         "id": "2026-11-22-noche-hancko",
         "titulo": "Cerramos el domingo con este 🔥",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": null
       },
       {
@@ -3457,10 +3457,10 @@
       }
     ],
     "picks": {
-      "verde": 39,
-      "rojo": 22,
+      "verde": 43,
+      "rojo": 27,
       "total": 89
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 3 DE 16 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n❌ 🏆 SERIE A - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52\n❌ 🧨 LA LOCURA DE x83,47 🧨 · 83,47\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18\n❌ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42\n✅ Vamos con el pick de hoy familia 🔥\n❔ 🪜 Reto escalera · Día 2/7 · faltan datos\n❌ ⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡ · 8,06\n❌ Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ ⚡ COMBI ATALANTA – INTER ⚡ · 9,53\n❔ 💥 COMBI GETAFE – ATLETICO MADRID 💥 · 12,27 · faltan datos\n✅ Vamos con otro pick 🍀\n❔ 💎 LOS FAVORITOS DEL DÍA 💎 · faltan datos\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,00\n❔ 🃏 LA DE LOS TAPADOS 🃏 · 14,34 · faltan datos\n❌ 🤑 LA LOCURA DE x490 🤑\n✅ Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n❔ Cerramos el domingo con este 🔥 · faltan datos\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,14 · pendiente\n⏳ 🚩 CÓRNERS DE MAÑANA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · pendiente\n\n✅ 3 acertadas · ❌ 13 falladas · ⏳ 11 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 5 DE 21 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n❌ 🏆 SERIE A - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52\n❌ 🧨 LA LOCURA DE x83,47 🧨 · 83,47\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18\n❌ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42\n✅ Vamos con el pick de hoy familia 🔥\n❌ 🪜 Reto escalera · Día 2/7\n❌ ⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡ · 8,06\n❌ Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ ⚡ COMBI ATALANTA – INTER ⚡ · 9,53\n❌ 💥 COMBI GETAFE – ATLETICO MADRID 💥 · 12,27\n✅ Vamos con otro pick 🍀\n✅ 💎 LOS FAVORITOS DEL DÍA 💎\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,00\n❌ 🃏 LA DE LOS TAPADOS 🃏 · 14,34\n❌ 🤑 LA LOCURA DE x490 🤑\n✅ Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n✅ Cerramos el domingo con este 🔥\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,14 · pendiente\n⏳ 🚩 CÓRNERS DE MAÑANA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · pendiente\n\n✅ 5 acertadas · ❌ 16 falladas · ⏳ 6 sin resolver"
   }
 }
