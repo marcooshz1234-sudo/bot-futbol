@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 20:02",
+ "actualizado": "2026-11-22 20:12",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3685,
-   "hoy": 210,
+   "seguidores": 3686,
+   "hoy": 211,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3685
+    3686
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4244,
- "total_hoy": 217,
+ "total": 4245,
+ "total_hoy": 218,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "20:10",
+  "hora": "20:17",
   "dia": "2026-11-22",
-  "titulo": "Hoy hay partidazo atalanta inter"
+  "titulo": "Vamos con otro pick"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,19 +252,19 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3685,
+   "threads": 3686,
    "facebook": 1,
    "telegram": 504
   }
  },
  "tipos_instagram": {
-  "Otros (reel)": {
-   "posts": 47,
+  "Combi de partido (reel)": {
+   "posts": 4,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Combi de partido (reel)": {
-   "posts": 3,
+  "Otros (reel)": {
+   "posts": 46,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
