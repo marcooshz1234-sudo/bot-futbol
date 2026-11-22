@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 13:20",
+ "actualizado": "2026-11-22 16:50",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3650,
-   "hoy": 175,
+   "seguidores": 3667,
+   "hoy": 192,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3650
+    3667
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 502,
-   "hoy": 6,
+   "seguidores": 504,
+   "hoy": 8,
    "serie": [
     439,
     471,
@@ -50,17 +50,17 @@
     485,
     490,
     496,
-    502
+    504
    ]
   }
  },
- "total": 4207,
- "total_hoy": 180,
+ "total": 4226,
+ "total_hoy": 199,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "13:30",
+  "hora": "16:55",
   "dia": "2026-11-22",
-  "titulo": "Vamos con el pick de hoy familia"
+  "titulo": "Hoy hay partidazo liverpool manchester"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,9 +252,9 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3650,
+   "threads": 3667,
    "facebook": 1,
-   "telegram": 502
+   "telegram": 504
   }
  },
  "tipos_instagram": {
