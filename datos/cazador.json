@@ -41,6 +41,18 @@
    "cuota": 2.1,
    "ev": 0.209,
    "post": "2026-11-21-cuotaza-1647593-dcae0e"
+  },
+  "1647590|Double Chance|Home/Draw": {
+   "dia": "2026-11-22",
+   "cuota": 2.2,
+   "ev": 0.174,
+   "post": "2026-11-22-cuotaza-1647590-d67309"
+  },
+  "1647594|Double Chance|Home/Draw": {
+   "dia": "2026-11-22",
+   "cuota": 2.2,
+   "ev": 0.152,
+   "post": "2026-11-22-cuotaza-1647594-2fed9e"
   }
  },
  "top": [
@@ -50,10 +62,10 @@
    "inicio": "2026-11-22T15:00",
    "texto": "Vianense o empate",
    "cuota": 2.2,
-   "justa": 1.94,
-   "ev": 0.133,
-   "fuente": "las otras casas",
-   "edad_h": 1.0
+   "justa": 1.87,
+   "ev": 0.174,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "Vitória de Sernache",
@@ -61,10 +73,10 @@
    "inicio": "2026-11-22T15:00",
    "texto": "Vitória de Sernache o empate",
    "cuota": 2.2,
-   "justa": 1.96,
-   "ev": 0.122,
-   "fuente": "las otras casas",
-   "edad_h": 1.0
+   "justa": 1.91,
+   "ev": 0.152,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
   },
   {
    "local": "União de Leiria",
@@ -75,7 +87,7 @@
    "justa": 1.63,
    "ev": 0.023,
    "fuente": "las otras casas",
-   "edad_h": 1.0
+   "edad_h": 1.3
   },
   {
    "local": "Granada",
@@ -86,18 +98,7 @@
    "justa": 1.7,
    "ev": 0.02,
    "fuente": "las otras casas",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Vitória de Sernache",
-   "visitante": "Lusitânia Lourosa",
-   "inicio": "2026-11-22T15:00",
-   "texto": "Vitória de Sernache marca",
-   "cuota": 1.5,
-   "justa": 1.48,
-   "ev": 0.015,
-   "fuente": "las otras casas",
-   "edad_h": 1.0
+   "edad_h": 0.4
   },
   {
    "local": "Vizela",
@@ -108,7 +109,7 @@
    "justa": 2.08,
    "ev": 0.008,
    "fuente": "las otras casas",
-   "edad_h": 1.0
+   "edad_h": 0.0
   },
   {
    "local": "PRO Vercelli",
@@ -119,7 +120,7 @@
    "justa": 1.43,
    "ev": 0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.0
+   "edad_h": 0.4
   },
   {
    "local": "Granada",
@@ -130,11 +131,22 @@
    "justa": 1.8,
    "ev": 0.002,
    "fuente": "Pinnacle",
+   "edad_h": 0.4
+  },
+  {
+   "local": "Vitória de Sernache",
+   "visitante": "Lusitânia Lourosa",
+   "inicio": "2026-11-22T15:00",
+   "texto": "Vitória de Sernache marca",
+   "cuota": 1.5,
+   "justa": 1.5,
+   "ev": 0.001,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T08:41",
+  "hora": "2026-11-22T09:02",
   "revisadas": 2,
   "mejor": {
    "partido_id": 1647590,
@@ -145,10 +157,10 @@
    "mercado": "Double Chance",
    "opcion": "Home/Draw",
    "cuota": 2.2,
-   "justa": 1.94,
-   "ev": 0.133,
-   "fuente": "las otras casas",
-   "edad_h": 1.0,
+   "justa": 1.87,
+   "ev": 0.174,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0,
    "texto": "Vianense o empate"
   }
  },
@@ -180,6 +192,14 @@
   {
    "hora": "2026-11-21T09:03",
    "t": "Vitória SC o empate @2,10 (justa 1,74, +21%)"
+  },
+  {
+   "hora": "2026-11-22T09:02",
+   "t": "Vianense o empate @2,20 (justa 1,87, +17%)"
+  },
+  {
+   "hora": "2026-11-22T09:02",
+   "t": "Vitória de Sernache o empate @2,20 (justa 1,91, +15%)"
   }
  ]
 }

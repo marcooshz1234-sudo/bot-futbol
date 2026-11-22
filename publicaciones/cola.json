@@ -9987,5 +9987,71 @@
     "solo_en": [
       "threads"
     ]
+  },
+  {
+    "id": "2026-11-22-cuotaza-1647590-d67309",
+    "fecha": "2026-11-22T09:02",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Vianense – Rio Ave · 15:00\n\n🍀 Vianense o empate @2,20\n\n👀 Lo normal sería @1,87: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Vianense – Rio Ave (15:00)\nVianense o empate @2,20 en bet365; lo justo según Pinnacle es @1,87 (+17%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1647590|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      2.2
+    ],
+    "cuotaza": {
+      "partido_id": 1647590,
+      "local": "Vianense",
+      "visitante": "Rio Ave",
+      "inicio": "2026-11-22T15:00",
+      "liga": "Taça de Portugal",
+      "mercado": "Double Chance",
+      "opcion": "Home/Draw",
+      "cuota": 2.2,
+      "justa": 1.87,
+      "ev": 0.174,
+      "fuente": "Pinnacle",
+      "edad_h": 0.0,
+      "texto": "Vianense o empate"
+    },
+    "caducada": "fuera de las 5 grandes"
+  },
+  {
+    "id": "2026-11-22-cuotaza-1647594-2fed9e",
+    "fecha": "2026-11-22T09:02",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Vitória de Sernache – Lusitânia Lourosa · 15:00\n\n🍀 Vitória de Sernache o empate @2,20\n\n👀 Lo normal sería @1,91: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Vitória de Sernache – Lusitânia Lourosa (15:00)\nVitória de Sernache o empate @2,20 en bet365; lo justo según Pinnacle es @1,91 (+15%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1647594|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      2.2
+    ],
+    "cuotaza": {
+      "partido_id": 1647594,
+      "local": "Vitória de Sernache",
+      "visitante": "Lusitânia Lourosa",
+      "inicio": "2026-11-22T15:00",
+      "liga": "Taça de Portugal",
+      "mercado": "Double Chance",
+      "opcion": "Home/Draw",
+      "cuota": 2.2,
+      "justa": 1.91,
+      "ev": 0.152,
+      "fuente": "Pinnacle",
+      "edad_h": 0.0,
+      "texto": "Vitória de Sernache o empate"
+    },
+    "caducada": "fuera de las 5 grandes"
   }
 ]
