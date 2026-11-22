@@ -178,41 +178,82 @@ async function cargar(){
 
 // 20/11 (Marcos): combis de un partido por pata (~@1,50) con el dato de cada jugador (combis_semana.py). Él monta
 // las que quiera en bet365 y le manda la captura a Claude/al bot, que la sube a Threads, X y Telegram (1 al día).
+// 22/11 (Marcos: «organiza mejor las combis, están todas mezcladas; un orden para que sea fácil leerlas y buscar»):
+// Destacadas en 3 bloques fijos (📅 Por día → 🎯 Por tipo → 🚀 Largas), plegadas, con la cabecera que dice lo justo
+// (patas, %, horas) y un buscador de equipo, jugador o liga que abre lo que encuentra.
+let buscaCombi = "";
+const sinTildes = s => String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
+const COMBI_BLOQUES = [
+  ["dia",   "📅 Por día",  "Las del día: una con todos los partidos y dos de @30-40 (A y B)"],
+  ["tipo",  "🎯 Por tipo", "Cada una de un tipo de apuesta"],
+  ["larga", "🚀 Largas",   "Mezclando ligas, para soñar"]];
+const COMBI_TIPO = ["segura","ganan","ganan-larga","top","faltas","remates","goles","corners","tarjetas"];
+function bloqueCombi(c){ return /^(todo|dia)-/.test(c.clave) ? "dia" : COMBI_TIPO.includes(c.clave) ? "tipo" : "larga" }
+function ordenCombi(c){ const m = String(c.clave).match(/^(todo|dia)-(\d{4}-\d{2}-\d{2})(?:-([ab]))?/);
+  return m ? m[2] + ({"todo":"0"}[m[1]] || (m[3]==="a"?"1":"2")) : String(COMBI_TIPO.indexOf(c.clave)+100).padStart(4,"0") + c.clave }
+function combiCasa(c, q){ if(!q) return true;
+  return sinTildes([c.titulo, c.liga, c.equipo, c.partido, ...(c.patas||[]).map(x => [x.partido, x.texto, x.equipo, x.liga].join(" "))].join(" ")).includes(q) }
 function combiAbierta(k, def){ let m={}; try{m=JSON.parse(guardado("combis_abiertas")||"{}")}catch(e){} return k in m ? m[k] : def }
 function plegarCombi(k, def){ let m={}; try{m=JSON.parse(guardado("combis_abiertas")||"{}")}catch(e){} m[k] = !combiAbierta(k, def); guardar("combis_abiertas", JSON.stringify(m)); pintar() }
-function vCombis(){   // 20/11: se pueden plegar (toca la cabecera) y hay combis por liga y por equipo
-  const C = D.combis_semana || {}, L = C.combis || [], E = C.equipos || [];
-  if(!L.length && !E.length) return `<div class="empty">Aún no hay combis preparadas. Se actualizan solas cada 30 minutos con los partidos de los próximos 3 días.</div>`;
-  const dias = ["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"], coma = x => Number(x).toFixed(2).replace(".",",");
+function buscarCombi(v){ buscaCombi = v; const r = document.getElementById("combisRes"); if(r) r.innerHTML = combisLista() }
+function vCombis(){
+  const C = D.combis_semana || {}, L = C.combis || [], E = C.equipos || [], X = C.destacadas || [];
+  if(!L.length && !E.length && !X.length) return `<div class="empty">Aún no hay combis preparadas. Se actualizan solas cada 30 minutos con los partidos de los próximos 3 días.</div>`;
+  const [modo, tabs] = subTabs("combis", [["destacadas","⭐ Destacadas"],["liga","🏆 Por liga"],["equipo","🛡️ Por equipo"]], "destacadas");
+  const rango = C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana";
+  const expl = modo==="destacadas" ? "Ningún pick sale en dos (salvo «Todo el día», que es la A y la B juntas). El % es lo que calculamos que sale." : modo==="liga" ? "Un partido por pata, ~@1,50." : "Cada equipo con cosas solo suyas en su partido (Crear apuesta; bet365 puede dar algo menos de cuota).";
+  return `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${rango}</b><div class="mut" style="margin-top:4px">${expl} Toca una combi para abrirla. Monta las que quieras en bet365 y manda la captura: se sube a Threads, X y Telegram (1 al día).${C.otras_ligas ? `<div style="margin-top:6px;color:var(--warn)">Estos días no juegan las 5 grandes ni hay europeas, copas o selecciones: salen otras ligas.</div>` : ""}</div></div>` + tabs +
+    `<input type="search" placeholder="🔎 Buscar equipo, jugador o liga" value="${esc(buscaCombi)}" oninput="buscarCombi(this.value)" style="width:100%;box-sizing:border-box;margin:4px 0 10px;padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:var(--card,#111);color:inherit;font-size:15px">` +
+    `<div id="combisRes">${combisLista()}</div>`;
+}
+function combisLista(){
+  const C = D.combis_semana || {}, L = C.combis || [], E = C.equipos || [], X = C.destacadas || [];
+  const modo = sub["combis"] || "destacadas", q = sinTildes(buscaCombi.trim());
+  const dias = ["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"], DIAS_L = ["Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado"];
+  const coma = x => Number(x).toFixed(2).replace(".",",");
   const BAND = {"LaLiga":"🇪🇸","Segunda División":"🇪🇸","Premier League":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","Serie A":"🇮🇹","Bundesliga":"🇩🇪","Ligue 1":"🇫🇷","Eredivisie":"🇳🇱","Primeira Liga":"🇵🇹"};
   const img = u => u ? `<img src="${esc(u)}" alt="" loading="lazy" style="width:20px;height:20px;object-fit:contain">` : "";
   const cuando = h => { const f = new Date(h); return `${dias[f.getDay()]} ${h.slice(11,16)}` };
-  const X = C.destacadas || [];
-  const [modo, tabs] = subTabs("combis", [["destacadas","⭐ Destacadas"],["liga","🏆 Por liga"],["equipo","🛡️ Por equipo"]], "destacadas");
-  const rango = C.rango ? C.rango[0].slice(8)+"/"+C.rango[0].slice(5,7)+" a "+C.rango[1].slice(8)+"/"+C.rango[1].slice(5,7) : "la semana";
-  let h = `<div class="card" style="margin-bottom:10px"><b>🧮 Combis de ${rango}</b><div class="mut" style="margin-top:4px">${modo==="destacadas" ? "Mezclan ligas, cada una de un tipo, y una por día. Ningún pick sale en dos. El % es lo que calculamos que sale." : modo==="liga" ? "Un partido por pata, ~@1,50." : "Cada equipo con cosas solo suyas en su partido (Crear apuesta; bet365 puede dar algo menos de cuota)."} Se actualiza sola y quita lo que ya se ha subido. Toca una combi para plegarla. Monta las que quieras en bet365 y manda la captura: se sube a Threads, X y Telegram (1 al día).${C.otras_ligas ? `<div style="margin-top:6px;color:var(--warn)">Estos días no juegan las 5 grandes ni hay europeas, copas o selecciones: salen otras ligas.</div>` : ""}</div></div>` + tabs;
+  const horas = ps => { const hs = ps.map(x => x.hora).filter(Boolean).sort(); if(!hs.length) return "";
+    const a = cuando(hs[0]), b = cuando(hs[hs.length-1]); return a===b ? a : a.slice(0,3)===b.slice(0,3) ? `${a}–${b.slice(4)}` : `${a} → ${b}` };
+  const titulo = t => `<div class="mut" style="margin:16px 2px 6px;font-weight:700;font-size:15px">${t}</div>`;
   const pata = (x, k, conPartido) => {
     const txt = x.equipo && !String(x.texto).includes(x.equipo) ? String(x.texto).replace(/^([^:]+):/, `$1 (${x.equipo}):`) : x.texto;
     const cab = conPartido ? `<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">${x.logo_l ? img(x.logo_l)+img(x.logo_v) : "⚽"}<b style="color:#3b82f6;font-size:16px">${esc(x.partido)}</b><span class="mut" style="font-size:12px">· ${x.liga && BAND[x.liga] ? BAND[x.liga]+" " : ""}${cuando(x.hora)}</span></div>` : "";
-    return `<div style="margin-top:10px;padding-top:10px;${k?"border-top:1px solid var(--line)":""}">${cab}<div style="margin-top:${conPartido?4:0}px"><b>${esc(txt)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span>${x.p ? ` <span class="mut" style="font-size:12px">· ${Math.round(x.p*100)}%</span>` : ""}</div><div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div></div>`;
+    return `<div style="margin-top:10px;padding-top:10px;${k?"border-top:1px solid var(--line)":""}">${cab}<div style="margin-top:${conPartido?4:0}px"><b>${esc(txt)}</b> <span style="color:var(--ok)">@${coma(x.cuota)}</span>${x.p ? ` <span class="mut" style="font-size:12px">· ${Math.round(x.p*100)}%</span>` : ""}</div>${x.dato ? `<div class="mut" style="font-size:12px">📊 ${esc(x.dato)}</div>` : ""}</div>`;
   };
-  const tarjeta = (clave, def, cabeza, cuota, cuerpo) => { const ab = combiAbierta(clave, def);
-    return `<div class="card" style="margin-bottom:10px"><div data-k="${esc(clave)}" onclick="plegarCombi(this.dataset.k,${def})" style="display:flex;justify-content:space-between;align-items:center;gap:8px;cursor:pointer">${cabeza}<span style="display:flex;align-items:center;gap:8px;white-space:nowrap"><b style="color:var(--ok)">@${coma(cuota)}</b><span class="mut">${ab?"▲":"▼"}</span></span></div>${ab?cuerpo:""}</div>` };
+  const tarjeta = (clave, cabeza, cuota, cuerpo) => { const ab = q ? true : combiAbierta(clave, false);
+    return `<div class="card" style="margin-bottom:8px"><div data-k="${esc(clave)}" onclick="plegarCombi(this.dataset.k,false)" style="display:flex;justify-content:space-between;align-items:center;gap:8px;cursor:pointer">${cabeza}<span style="display:flex;align-items:center;gap:8px;white-space:nowrap"><b style="color:var(--ok)">@${coma(cuota)}</b><span class="mut">${ab?"▲":"▼"}</span></span></div>${ab?cuerpo:""}</div>` };
+  const nada = `<div class="empty">${q ? "Nada con «"+esc(buscaCombi)+"»." : "Ahora no hay combis aquí."}</div>`;
+  let h = "";
   if(modo === "destacadas"){
-    if(!X.length) return h + `<div class="empty">Ahora no hay combis destacadas.</div>`;
-    X.forEach(c => { h += tarjeta("dest:"+c.clave, true, `<div><b>${esc(c.titulo)} · ${c.patas.length} patas</b><div class="mut" style="font-size:12px">${esc(c.expl)}${c.prob ? ` · sale ${Math.round(c.prob*100)}% de las veces` : ""}</div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join("")) });
+    const xs = X.filter(c => combiCasa(c, q));
+    if(!xs.length) return nada;
+    COMBI_BLOQUES.forEach(([b, t, e]) => {
+      const cs = xs.filter(c => bloqueCombi(c) === b).sort((a, z) => ordenCombi(a) < ordenCombi(z) ? -1 : 1);
+      if(!cs.length) return;
+      h += titulo(`${t} <span style="font-weight:400;font-size:12px">· ${e}</span>`);
+      let dia = "";
+      cs.forEach(c => {
+        const m = String(c.clave).match(/^(?:todo|dia)-(\d{4}-\d{2}-\d{2})/);
+        if(m && m[1] !== dia){ dia = m[1]; const f = new Date(dia+"T12:00"); h += `<div style="margin:10px 4px 4px;font-weight:700">${DIAS_L[f.getDay()]} ${+dia.slice(8)}</div>` }
+        const sub_ = [`${c.patas.length} patas`, c.prob ? `sale ${Math.round(c.prob*100)}%` : "", horas(c.patas)].filter(Boolean).join(" · ");
+        h += tarjeta("dest:"+c.clave, `<div><b>${esc(c.titulo)}</b><div class="mut" style="font-size:12px">${sub_}</div><div class="mut" style="font-size:11px">${esc(c.expl)}</div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join(""));
+      });
+    });
     return h;
   }
   if(modo === "liga"){
-    if(!L.length) return h + `<div class="empty">Ahora no hay combis por liga.</div>`;
-    L.forEach(c => { h += tarjeta("liga:"+c.liga, true, `<b>${BAND[c.liga]||"⚽"} ${esc(c.liga)} · ${c.patas.length} patas</b>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join("")) });
+    const ls = L.filter(c => combiCasa(c, q));
+    if(!ls.length) return nada;
+    ls.forEach(c => { h += tarjeta("liga:"+c.liga, `<div><b>${BAND[c.liga]||"⚽"} ${esc(c.liga)}</b><div class="mut" style="font-size:12px">${c.patas.length} patas · ${horas(c.patas)}</div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,true)).join("")) });
     return h;
   }
-  if(!E.length) return h + `<div class="empty">Ahora no hay combis por equipo.</div>`;
-  const ligas = [...new Set(E.map(c => c.liga))];
-  ligas.forEach(lg => { h += `<div class="mut" style="margin:14px 2px 6px;font-weight:700">${BAND[lg]||"⚽"} ${esc(lg)}</div>`;
-    E.filter(c => c.liga === lg).forEach(c => {
-      h += tarjeta("eq:"+c.equipo+"|"+c.hora, false, `<div style="display:flex;align-items:center;gap:8px;min-width:0">${img(c.logo)}<div style="min-width:0"><b style="color:#3b82f6;font-size:16px">${esc(c.equipo)}</b><div class="mut" style="font-size:12px">${esc(c.partido)} · ${cuando(c.hora)} · ${c.patas.length} patas</div></div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,false)).join(""));
+  const es = E.filter(c => combiCasa(c, q));
+  if(!es.length) return nada;
+  [...new Set(es.map(c => c.liga))].forEach(lg => { h += titulo(`${BAND[lg]||"⚽"} ${esc(lg)}`);
+    es.filter(c => c.liga === lg).sort((a, z) => a.hora < z.hora ? -1 : a.hora > z.hora ? 1 : a.equipo < z.equipo ? -1 : 1).forEach(c => {
+      h += tarjeta("eq:"+c.equipo+"|"+c.hora, `<div style="display:flex;align-items:center;gap:8px;min-width:0">${img(c.logo)}<div style="min-width:0"><b style="color:#3b82f6;font-size:16px">${esc(c.equipo)}</b><div class="mut" style="font-size:12px">${esc(c.partido)} · ${cuando(c.hora)} · ${c.patas.length} patas</div></div></div>`, c.cuota, c.patas.map((x,k) => pata(x,k,false)).join(""));
     }); });
   return h;
 }
