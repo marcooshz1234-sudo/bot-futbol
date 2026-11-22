@@ -3283,14 +3283,14 @@
   },
   "2026-11-22": {
     "dia": "2026-11-22",
-    "total": 2,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -3304,13 +3304,25 @@
         "titulo": "🎰 COMBI POR 46,78 🎰",
         "estado": "pendiente",
         "cuota": 46.78
+      },
+      {
+        "id": "2026-11-22-loca-th-0040-ganaambos",
+        "titulo": "💥🏆 GANA Y AMBOS MARCAN 💥🏆",
+        "estado": "pendiente",
+        "cuota": 35.12
+      },
+      {
+        "id": "2026-11-22-ganadores-seriea",
+        "titulo": "🏆 SERIE A - GANADORES",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 11
+      "total": 12
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }

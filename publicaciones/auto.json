@@ -11387,8 +11387,8 @@
       1.7,
       1.8,
       1.7,
-      1.5,
-      1.57,
+      1.53,
+      1.62,
       1.44,
       1.91
     ],
@@ -11401,7 +11401,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-22T01:32"
   },
   {
     "id": "2026-11-22-loca-th-0400-duelo",

@@ -45,6 +45,39 @@
  },
  "top": [
   {
+   "local": "União de Leiria",
+   "visitante": "Leça",
+   "inicio": "2026-11-22T20:30",
+   "texto": "Gana el União de Leiria",
+   "cuota": 1.57,
+   "justa": 1.56,
+   "ev": 0.009,
+   "fuente": "las otras casas",
+   "edad_h": 1.4
+  },
+  {
+   "local": "Barcelona",
+   "visitante": "Villarreal",
+   "inicio": "2026-11-22T14:00",
+   "texto": "Barcelona marca 4 o más",
+   "cuota": 2.2,
+   "justa": 2.22,
+   "ev": -0.009,
+   "fuente": "las otras casas",
+   "edad_h": 1.4
+  },
+  {
+   "local": "Alcione",
+   "visitante": "Ospitaletto",
+   "inicio": "2026-11-22T14:30",
+   "texto": "Ambos marcan en Alcione–Ospitaletto",
+   "cuota": 1.73,
+   "justa": 1.75,
+   "ev": -0.013,
+   "fuente": "las otras casas",
+   "edad_h": 1.4
+  },
+  {
    "local": "Granada",
    "visitante": "Real Madrid W",
    "inicio": "2026-11-22T12:00",
@@ -54,10 +87,32 @@
    "ev": -0.015,
    "fuente": "las otras casas",
    "edad_h": 0.0
+  },
+  {
+   "local": "Barcelona",
+   "visitante": "Villarreal",
+   "inicio": "2026-11-22T14:00",
+   "texto": "Más de 2,5 goles en la 2ª parte del Barcelona–Villarreal",
+   "cuota": 2.1,
+   "justa": 2.13,
+   "ev": -0.015,
+   "fuente": "las otras casas",
+   "edad_h": 1.4
+  },
+  {
+   "local": "Ajax",
+   "visitante": "ADO Den Haag",
+   "inicio": "2026-11-22T14:30",
+   "texto": "Ambos marcan en Ajax–ADO Den Haag",
+   "cuota": 1.8,
+   "justa": 1.83,
+   "ev": -0.016,
+   "fuente": "las otras casas",
+   "edad_h": 1.4
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T00:12",
+  "hora": "2026-11-22T01:37",
   "revisadas": 0,
   "mejor": null
  },

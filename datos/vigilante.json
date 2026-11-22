@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-21",
  "vistos": {
-  "prensa-1570454-7d6aa70c": "2026-11-19T00:48",
   "cuotabaja-2026-11-19-pick-seguro": "2026-11-19T09:12",
   "regla-cuota-2026-11-19-pick-seguro": "2026-11-19T09:12",
   "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638297|Results/Both Teams Score|Home/Yes": "2026-11-19T12:24",
@@ -137,7 +136,10 @@
   "repe-2026-11-22-1570459|Player Fouls Committed|Pablo Ramon - 1": "2026-11-22T00:02",
   "repe-2026-11-22-1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1": "2026-11-22T00:02",
   "prensa-1570459-e749b9ab": "2026-11-22T00:02",
-  "regla-estrella-2026-11-22-loca-th-1200-escudos": "2026-11-22T00:02"
+  "regla-estrella-2026-11-22-loca-th-1200-escudos": "2026-11-22T00:02",
+  "redes-2026-11-22-loca-th-0040-ganaambos-threads": "2026-11-22T01:37",
+  "prensa-1570455-7d56ef12": "2026-11-22T01:37",
+  "prensa-1550197-d27f8619": "2026-11-22T01:37"
  },
  "abiertos": [
   {
@@ -145,32 +147,12 @@
    "t": "⏰ No ha salido en threads ni instagram (22:04): PARA DENTRO SEÑORES ✅🤑"
   },
   {
+   "clave": "redes-2026-11-22-loca-th-0040-ganaambos-threads",
+   "t": "⏰ No ha salido en threads (00:40): 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · error: caducado: no salió a tiempo"
+  },
+  {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
-  },
-  {
-   "clave": "redes-2026-11-22-loca-th-noche-2230-lista-ambos-threads",
-   "t": "⏰ No ha salido en threads (22:30): ⚽ AMBOS MARCAN MAÑANA ⚽"
-  },
-  {
-   "clave": "repe-2026-11-22-1552822|Match Winner|Home",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (pick-seguro-5, loca-th-1600-escudos, loca-th-1820-lista-gana)"
-  },
-  {
-   "clave": "repe-2026-11-22-1552821|Both Teams Score|Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1575227|Player Fouls Committed|David Wolfe - 1",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1300-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1550201|Player Fouls Committed|Kike Perez - 2",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-0800-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1575227|Both Teams Score|Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-22-1550198|Results/Both Teams Score|Away/Yes",
@@ -181,16 +163,12 @@
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1000-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-22-1570455|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-noche-2330-escudos, loca-th-0040-ganaambos)"
-  },
-  {
    "clave": "repe-2026-11-22-1550197|Results/Both Teams Score|Home/Yes",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1000-ganaambos)"
   },
   {
-   "clave": "repe-2026-11-22-1550197|Both Teams Score|Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos, loca-th-1400-escudos)"
+   "clave": "repe-2026-11-22-1570455|Results/Both Teams Score|Home/Yes",
+   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-noche-2330-escudos, loca-th-0040-ganaambos)"
   },
   {
    "clave": "repe-2026-11-22-1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1",
@@ -201,32 +179,43 @@
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1200-escudos, loca-th-1540-tiros)"
   },
   {
-   "clave": "prensa-1557473-3bbb9c27",
-   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 10 post(s) de este partido: ganadores-resto, pick-seguro, pick-seguro-3, combi-tres, combi-partido-1557473, estrella-1557473, loca-th-0300-lista-ambos, loca-th-0700-tapados, loca-th-1000-ganaambos, loca-th-1520-reto"
+   "clave": "repe-2026-11-22-1552822|Match Winner|Home",
+   "t": "🔁 22/11: el mismo pronóstico en 3 posts (pick-seguro-5, loca-th-1600-escudos, loca-th-1820-lista-gana)"
   },
   {
-   "clave": "prensa-1575224-MOlise",
-   "t": "📰 FC Augsburg–FSV Mainz 05: «Catastrófico empate para el Bayern Munich: Kane y Olise lesionados y sin el liderato en sus manos» (Telemundo) · tenemos 3 post(s) de este partido: pick-seguro-4, combi-partido-1575224, loca-th-0920-lista-corners"
+   "clave": "prensa-1557473-3bbb9c27",
+   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 9 post(s) de este partido: ganadores-resto, loca-th-0300-lista-ambos, loca-th-0700-tapados, loca-th-1000-ganaambos, pick-seguro, pick-seguro-4, loca-th-1520-reto, combi-partido-1557473, estrella-1557473"
+  },
+  {
+   "clave": "prensa-1570455-7d56ef12",
+   "t": "📰 Barcelona–Villarreal: «Flick Confirma Una Baja En El Barcelona Y Pone En Duda A Cubarsí» (La Red 106.1 FM) · tenemos 2 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0920-lista-corners"
   },
   {
    "clave": "prensa-1570455-40624e79",
-   "t": "📰 Barcelona–Villarreal: «Andreas Christensen es duda ante el Villarreal por unas molestias en el sóleo» (RPC TV) · tenemos 3 post(s) de este partido: loca-th-0040-ganaambos, loca-th-0300-lista-ambos, loca-th-0920-lista-corners"
+   "t": "📰 Barcelona–Villarreal: «Andreas Christensen es duda ante el Villarreal por unas molestias en el sóleo» (RPC TV) · tenemos 2 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0920-lista-corners"
   },
   {
-   "clave": "prensa-1570455-b5f7d136",
-   "t": "📰 Barcelona–Villarreal: «Alineaciones probables del FC Barcelona-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 3 post(s) de este partido: loca-th-0040-ganaambos, loca-th-0300-lista-ambos, loca-th-0920-lista-corners"
-  },
-  {
-   "clave": "regla-estrella-2026-11-22-loca-th-1200-escudos",
-   "t": "📏 Regla (estrella): To Win Either Half|Away: a ese equipo le falta su estrella · «💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥» (12:00)"
-  },
-  {
-   "clave": "regla-estrella-2026-11-22-loca-th-1200-escudos",
-   "t": "📏 Regla (estrella): Total - Away|Over 1.5: a ese equipo le falta su estrella · «💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥» (12:00)"
+   "clave": "prensa-1550197-d27f8619",
+   "t": "📰 AC Milan–Frosinone: «AC Milan-Frosinone: el Milan llega con cinco bajas y 24 puntos» (Tu Futbolero) · tenemos 5 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0900-x500, loca-th-1000-ganaambos, combi-tres, loca-th-1400-escudos"
   }
  ],
- "revisado": "2026-11-22T00:23",
+ "revisado": "2026-11-22T01:37",
  "historial": [
+  {
+   "hora": "2026-11-22T01:37",
+   "t": "⏰ No ha salido en threads (00:40): 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · error: caducado: no salió a tiempo",
+   "k": "redes-2026-11-22-loca-th-0040-ganaambos-threads"
+  },
+  {
+   "hora": "2026-11-22T01:37",
+   "t": "📰 Barcelona–Villarreal: «Flick Confirma Una Baja En El Barcelona Y Pone En Duda A Cubarsí» (La Red 106.1 FM) · tenemos 2 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0920-lista-corners",
+   "k": "prensa-1570455-7d56ef12"
+  },
+  {
+   "hora": "2026-11-22T01:37",
+   "t": "📰 AC Milan–Frosinone: «AC Milan-Frosinone: el Milan llega con cinco bajas y 24 puntos» (Tu Futbolero) · tenemos 5 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0900-x500, loca-th-1000-ganaambos, combi-tres, loca-th-1400-escudos",
+   "k": "prensa-1550197-d27f8619"
+  },
   {
    "hora": "2026-11-22T00:02",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (pick-seguro-5, loca-th-1600-escudos, loca-th-1820-lista-gana)",
@@ -511,21 +500,6 @@
    "hora": "2026-11-21T00:10",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1120-escudos)",
    "k": "repe-2026-11-21-1575222|Away Player Shots|Santiago Castaneda - 1"
-  },
-  {
-   "hora": "2026-11-21T00:10",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50)",
-   "k": "repe-2026-11-21-1552823|Away Player Shots|Romain Faivre - 2"
-  },
-  {
-   "hora": "2026-11-21T00:10",
-   "t": "📰 Newcastle–Arsenal: «Estrella del Newcastle revela que temió por el final de su carrera tras unas terribles complicaciones de su le» (Lente Desportiva) · tenemos 3 post(s) de este partido: ganadores-premier, estrella-1557475, loca-th-0020-x100",
-   "k": "prensa-1557475-c751f9e5"
-  },
-  {
-   "hora": "2026-11-21T00:10",
-   "t": "📰 Monaco–Auxerre: «Danny Namaso, baja con el Auxerre en Mónaco por lesión de tobillo» (Tu Futbolero) · tenemos 9 post(s) de este partido: ganadores-resto, pick-seguro-2, loca-th-0800-x500, loca-th-1600-reto, loca-th-1820-lista-ambos, loca-th-1900-x100, loca-th-1920-hora, loca-th-1940-x50, loca-th-2020-lista-corners",
-   "k": "prensa-1552823-c4ddd39d"
   }
  ]
 }

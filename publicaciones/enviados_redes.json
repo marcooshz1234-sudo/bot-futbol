@@ -3191,5 +3191,24 @@
    "facebook": null,
    "threads": "18119028665584084"
   }
+ },
+ "2026-11-22-loca-th-0040-ganaambos": {
+  "redes": {
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null,
+   "threads": null
+  },
+  "errores_redes": {
+   "threads": "caducado: no salió a tiempo"
+  }
+ },
+ "2026-11-22-ganadores-seriea": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": "18112195018914526",
+   "instagram": "17972050988965262"
+  }
  }
 }
