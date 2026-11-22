@@ -157,7 +157,8 @@
   "bucle-cuotas_frescas-2026112218": "2026-11-22T18:10",
   "bucle-alineaciones_posts-2026112218": "2026-11-22T18:10",
   "bucle-cuotas_frescas-2026112219": "2026-11-22T19:01",
-  "bucle-alineaciones_posts-2026112219": "2026-11-22T19:31"
+  "bucle-alineaciones_posts-2026112219": "2026-11-22T19:31",
+  "bucle-alineaciones_espera-2026112219": "2026-11-22T19:52"
  },
  "abiertos": [
   {
@@ -207,10 +208,19 @@
   {
    "clave": "bucle-alineaciones_posts-2026112219",
    "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 6 veces en la última hora"
+  },
+  {
+   "clave": "bucle-alineaciones_espera-2026112219",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 9 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T19:42",
+ "revisado": "2026-11-22T19:52",
  "historial": [
+  {
+   "hora": "2026-11-22T19:52",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 9 veces en la última hora",
+   "k": "bucle-alineaciones_espera-2026112219"
+  },
   {
    "hora": "2026-11-22T19:31",
    "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 4 veces en la última hora",
@@ -505,11 +515,6 @@
    "hora": "2026-11-21T21:25",
    "t": "⏰ No ha salido en threads (19:40): 🤑 COMBI x42,38 🤑",
    "k": "redes-2026-11-21-loca-th-1940-x50-threads"
-  },
-  {
-   "hora": "2026-11-21T21:25",
-   "t": "⏰ No ha salido en threads (20:00): 🫣 LA DE LOS TAPADOS 🫣",
-   "k": "redes-2026-11-21-loca-th-2000-tapados-threads"
   }
  ]
 }
