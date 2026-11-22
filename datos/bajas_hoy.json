@@ -10505,9 +10505,9 @@
   "1550203": [
    {
     "equipo": 1579,
-    "jugador": "S. Birindelli",
+    "jugador": "M. Folorunsho",
     "tipo": "Missing Fixture",
-    "motivo": "Leg Injury"
+    "motivo": "Calf Injury"
    },
    {
     "equipo": 1579,
@@ -10517,9 +10517,9 @@
    },
    {
     "equipo": 1579,
-    "jugador": "J. Robinson",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
+    "jugador": "C. Ngonge",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
    },
    {
     "equipo": 502,
@@ -10608,7 +10608,7 @@
   "1608377": [],
   "1570029": []
  },
- "ultima": "2026-11-22T21:42:13.623320+01:00",
+ "ultima": "2026-11-22T22:13:30.290584+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
