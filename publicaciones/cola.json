@@ -8,6 +8,58 @@
     "directo": true,
     "facebook": "foto",
     "resultado": "verde",
-    "verde_de": "2026-11-22-pick-seguro-3"
+    "verde_de": "2026-11-22-pick-seguro-3",
+    "enviado": "2026-11-22T20:16",
+    "mensaje_id": 590,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
+  },
+  {
+    "id": "2026-11-22-estrella-1550198",
+    "fecha": "2026-11-22T20:16",
+    "texto": "Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (20:45) 🔥\n\n🍀 Nicolo Barella comete 1+ faltas\n🍀 Nicola Zalewski comete 1+ faltas\n🍀 Carlos Augusto: 1+ tiros\n🍀 Nikola Krstovic: 3+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @6,43 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1550198|Player Fouls Committed|Nicolo Barella - 1",
+      "1550198|Player Fouls Committed|Nicola Zalewski - 1",
+      "1550198|Away Player Shots|Carlos Augusto - 1",
+      "1550198|Home Player Shots|Nikola Krstovic - 3",
+      "1550198|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.33,
+      1.5,
+      1.28,
+      1.44,
+      1.62
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Atalanta",
+      "visitante": "Inter",
+      "id_l": 499,
+      "id_v": 505,
+      "logo_l": "https://media.api-sports.io/football/teams/499.png",
+      "logo_v": "https://media.api-sports.io/football/teams/505.png",
+      "fecha": "2026-11-22T20:45",
+      "liga": "Serie A"
+    },
+    "solo_redes": true,
+    "cuota_total": 6.2,
+    "cuota_calculada": true,
+    "cuotas_revisadas": "2026-11-22T20:04",
+    "alineacion_ok": true,
+    "redes": {
+      "instagram_reel": null,
+      "threads": "ya-publicado",
+      "instagram": "ya-publicado"
+    }
   }
 ]
