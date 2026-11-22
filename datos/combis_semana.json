@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-22",
- "generado": "2026-11-22T01:37+01:00",
+ "generado": "2026-11-22T02:10+01:00",
  "rango": [
   "2026-11-22",
   "2026-11-25"
@@ -1103,19 +1103,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1552825|Match Winner|Home",
-     "texto": "Gana Paris FC",
-     "cuota": 1.33,
-     "p": 0.733,
-     "dato": "Paris FC: VVVEV en sus últimos 5 · en casa",
-     "nota": 0.719891123447346,
+     "sel": "1635641|Match Winner|Home",
+     "texto": "Gana Bodo/Glimt",
+     "cuota": 1.48,
+     "p": 0.639,
+     "dato": "Bodo/Glimt: EVVV en sus últimos 5 · en casa",
+     "nota": 0.6115190885387993,
      "lado": "L",
      "ganador": true,
-     "partido": "Paris FC–Angers",
-     "hora": "2026-11-22T15:00",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/114.png",
-     "logo_v": "https://media.api-sports.io/football/teams/77.png"
+     "partido": "Bodo/Glimt–Lask Linz",
+     "hora": "2026-11-24T18:45",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/327.png",
+     "logo_v": "https://media.api-sports.io/football/teams/1026.png"
     },
     {
      "sel": "1635649|Match Winner|Home",
@@ -1193,8 +1193,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/172.png"
     }
    ],
-   "cuota": 6.44,
-   "prob": 0.152
+   "cuota": 7.17,
+   "prob": 0.133
   },
   {
    "clave": "ganan-larga",
@@ -1202,36 +1202,6 @@
    "expl": "Todos los favoritos claros, hasta 12 (puede llevar los de la de arriba)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1552825|Match Winner|Home",
-     "texto": "Gana Paris FC",
-     "cuota": 1.33,
-     "p": 0.733,
-     "dato": "Paris FC: VVVEV en sus últimos 5 · en casa",
-     "nota": 0.719891123447346,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Paris FC–Angers",
-     "hora": "2026-11-22T15:00",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/114.png",
-     "logo_v": "https://media.api-sports.io/football/teams/77.png"
-    },
-    {
-     "sel": "1575227|Match Winner|Home",
-     "texto": "Gana Werder Bremen",
-     "cuota": 1.57,
-     "p": 0.62,
-     "dato": "Werder Bremen: VEVV en sus últimos 5 · en casa",
-     "nota": 0.6075887712851695,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Werder Bremen–Hamburger SV",
-     "hora": "2026-11-22T17:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/162.png",
-     "logo_v": "https://media.api-sports.io/football/teams/175.png"
-    },
     {
      "sel": "1635641|Match Winner|Home",
      "texto": "Gana Bodo/Glimt",
@@ -1353,8 +1323,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 35.98,
-   "prob": 0.022
+   "cuota": 17.23,
+   "prob": 0.048
   },
   {
    "clave": "top",
