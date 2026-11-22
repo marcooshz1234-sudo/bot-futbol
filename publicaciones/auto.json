@@ -14072,7 +14072,7 @@
       "1570457|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      3.4,
+      3.2,
       4.33,
       3.75
     ],
@@ -14115,7 +14115,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-23T00:09"
   },
   {
     "id": "2026-11-23-loca-th-0100-lista-ambos",
