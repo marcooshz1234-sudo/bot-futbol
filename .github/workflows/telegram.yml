@@ -7,6 +7,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write   # 22/11: para lanzar la tanda siguiente (relevo)
 concurrency:
   group: telegram
   cancel-in-progress: false
@@ -88,3 +89,11 @@ jobs:
             git commit -q -m "Telegram: cola actualizada $(date -u +'%Y-%m-%d %H:%M')"
             for i in 1 2 3; do timeout 90 git pull --rebase -X theirs -q && timeout 90 git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done
           fi
+      # 22/11 (el 22/11 GitHub no lanzó ningún cron de 09:28 a 12:31 y no salieron el pick de las 10:30 ni la escalera):
+      # cada tanda deja lanzada la siguiente al acabar. El cron se queda de respaldo; si coinciden, la concurrencia
+      # «telegram» las pone en fila y nunca van dos a la vez.
+      - name: Relevo, lanzar la tanda siguiente
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/actions/workflows/telegram.yml/dispatches" -f ref=main || echo "relevo fallido; queda el cron"

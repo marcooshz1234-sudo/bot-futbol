@@ -48,7 +48,7 @@ class PreferenciasTest(unittest.TestCase):
         d={'picks':[a,b], 'combis':{'cuota_3':{'picks':[a,b],'cuota':3.0}}}
         import combis_dia
         with patch.object(plantillas,'leer',return_value={}), patch.object(combis_dia,'del_dia',return_value={'partidos':[]}):
-            self.assertEqual([p for p in plantillas.posts_del_dia(dia,d) if "-datos-" not in p["id"] and "-ganadores" not in p["id"]],[])
+            self.assertEqual([p for p in plantillas.posts_del_dia(dia,d) if "-datos-" not in p["id"] and "-ganadores" not in p["id"] and "-semana-" not in p["id"]],[])
 
     def test_modelo_conserva_tabla_pero_no_recomienda_resultado(self):
         mod={'fiable':True}
