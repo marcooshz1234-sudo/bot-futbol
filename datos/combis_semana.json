@@ -1,89 +1,14 @@
 {
  "dia": "2026-11-22",
- "generado": "2026-11-22T09:10+01:00",
+ "generado": "2026-11-22T12:37+01:00",
  "rango": [
   "2026-11-22",
   "2026-11-25"
  ],
  "combis": [
   {
-   "liga": "LaLiga",
-   "patas": [
-    {
-     "sel": "1570459|Player Fouls Committed|Pablo Ramon - 1",
-     "texto": "Pablo Ramon: comete 1+ falta",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,97 por 90' (1-1-0-1-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Racing Santander",
-     "lado": "L",
-     "partido": "Racing Santander–Real Sociedad",
-     "hora": "2026-11-22T16:15",
-     "logo_l": "https://media.api-sports.io/football/teams/4665.png",
-     "logo_v": "https://media.api-sports.io/football/teams/548.png"
-    },
-    {
-     "sel": "1570458|Player Fouls Committed|Abel Bretones - 1",
-     "texto": "Abel Bretones: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,17 por 90' (1-1-1-1-2-1)",
-     "nota": 1.0015999999999998,
-     "equipo": "Osasuna",
-     "lado": "L",
-     "partido": "Osasuna–Malaga",
-     "hora": "2026-11-22T18:30",
-     "logo_l": "https://media.api-sports.io/football/teams/727.png",
-     "logo_v": "https://media.api-sports.io/football/teams/535.png"
-    },
-    {
-     "sel": "1570456|Home Player Shots|Martin Satriano - 2",
-     "texto": "Martin Satriano: 2+ remates",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,46 por 90' (2-2-3-1-3-3)",
-     "nota": 0.934,
-     "equipo": "Getafe",
-     "lado": "L",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/546.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
-    },
-    {
-     "sel": "1570457|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.57,
-     "p": 0.723,
-     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
-     "nota": 0.7761154352525691,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    }
-   ],
-   "cuota": 5.93,
-   "media": 0.9064288588131423
-  },
-  {
    "liga": "Serie A",
    "patas": [
-    {
-     "sel": "1550201|Player Fouls Committed|Kerim Alajbegovic - 1",
-     "texto": "Kerim Alajbegovic: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,38 por 90' (1-1-2-1)",
-     "nota": 0.976,
-     "equipo": "Juventus",
-     "lado": "L",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30",
-     "logo_l": "https://media.api-sports.io/football/teams/496.png",
-     "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
     {
      "sel": "1550199|Total - Away|Over 0.5",
      "texto": "Udinese marca",
@@ -151,8 +76,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     }
    ],
-   "cuota": 12.9,
-   "media": 0.9368337320561024
+   "cuota": 9.22,
+   "media": 0.9290004784673229
   },
   {
    "liga": "Champions League",
@@ -318,40 +243,6 @@
    "cuota": 2.1
   },
   {
-   "equipo": "Juventus",
-   "liga": "Serie A",
-   "partido": "Juventus–Venezia",
-   "hora": "2026-11-22T12:30",
-   "logo": "https://media.api-sports.io/football/teams/496.png",
-   "patas": [
-    {
-     "sel": "1550201|Player Fouls Committed|Kerim Alajbegovic - 1",
-     "texto": "Kerim Alajbegovic: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,38 por 90' (1-1-2-1)",
-     "nota": 0.976,
-     "equipo": "Juventus",
-     "lado": "L",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30"
-    },
-    {
-     "sel": "1550201|Home Player Shots|Bremer - 1",
-     "texto": "Bremer: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-0-1-2-2-1)",
-     "nota": 0.864,
-     "equipo": "Juventus",
-     "lado": "L",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30"
-    }
-   ],
-   "cuota": 2.02
-  },
-  {
    "equipo": "Frosinone",
    "liga": "Serie A",
    "partido": "AC Milan–Frosinone",
@@ -461,16 +352,6 @@
      "hora": "2026-11-22T15:30"
     },
     {
-     "sel": "1575224|Away Corners Over/Under|Over 4.5",
-     "texto": "FSV Mainz 05: más de 4,5 córners",
-     "cuota": 1.67,
-     "p": 0.701,
-     "dato": "FSV Mainz 05 saca 6,0 córners y el rival concede 5,8",
-     "nota": 0.7529501162924278,
-     "partido": "FC Augsburg–FSV Mainz 05",
-     "hora": "2026-11-22T15:30"
-    },
-    {
      "sel": "1575224|Double Chance|Draw/Away",
      "texto": "FSV Mainz 05 o empate",
      "cuota": 1.44,
@@ -481,7 +362,7 @@
      "hora": "2026-11-22T15:30"
     }
    ],
-   "cuota": 3.9
+   "cuota": 2.33
   },
   {
    "equipo": "Borussia Dortmund",
@@ -636,21 +517,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550201|Player Fouls Committed|Kerim Alajbegovic - 1",
-     "texto": "Kerim Alajbegovic: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.88,
-     "dato": "cumple 4/4 siendo titular · 1,38 por 90' (1-1-2-1)",
-     "nota": 0.976,
-     "equipo": "Juventus",
-     "lado": "L",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/496.png",
-     "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
      "sel": "1552821|Away Player Shots|Mahdi Camara - 1",
      "texto": "Mahdi Camara: 1+ remate",
      "cuota": 1.44,
@@ -735,10 +601,23 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/228.png",
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+     "sel": "1635703|Total - Away|Over 0.5",
+     "texto": "AS Roma marca",
+     "cuota": 1.44,
+     "p": 0.863,
+     "dato": "marca 2,8 por partido y el rival encaja 1,0",
+     "nota": 0.9729147285133615,
+     "partido": "Paris Saint Germain–AS Roma",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/85.png",
+     "logo_v": "https://media.api-sports.io/football/teams/497.png"
     }
    ],
-   "cuota": 14.39,
-   "prob": 0.413
+   "cuota": 14.8,
+   "prob": 0.405
   },
   {
    "clave": "segura",
@@ -746,6 +625,19 @@
    "expl": "Las 3 patas más probables de todo",
    "liga": "Varias",
    "patas": [
+    {
+     "sel": "1550197|Away Corners Over/Under|Over 3.5",
+     "texto": "Frosinone: más de 3,5 córners",
+     "cuota": 1.67,
+     "p": 0.82,
+     "dato": "Frosinone saca 7,5 córners y el rival concede 3,9",
+     "nota": 0.9706117837526118,
+     "partido": "AC Milan–Frosinone",
+     "hora": "2026-11-22T18:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/489.png",
+     "logo_v": "https://media.api-sports.io/football/teams/512.png"
+    },
     {
      "sel": "1570458|ShotOnTarget 1x2|Home",
      "texto": "Osasuna remata más a puerta",
@@ -771,23 +663,10 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/541.png",
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
-    },
-    {
-     "sel": "1635703|Total - Away|Over 0.5",
-     "texto": "AS Roma marca",
-     "cuota": 1.44,
-     "p": 0.863,
-     "dato": "marca 2,8 por partido y el rival encaja 1,0",
-     "nota": 0.9729147285133615,
-     "partido": "Paris Saint Germain–AS Roma",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/85.png",
-     "logo_v": "https://media.api-sports.io/football/teams/497.png"
     }
    ],
-   "cuota": 2.99,
-   "prob": 0.613
+   "cuota": 3.46,
+   "prob": 0.583
   },
   {
    "clave": "dia-2026-11-22",
@@ -795,19 +674,6 @@
    "expl": "Solo partidos del domingo 22",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1552825|Away Corners Over/Under|Over 2.5",
-     "texto": "Angers: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.803,
-     "dato": "Angers saca 6,0 córners y el rival concede 2,6",
-     "nota": 0.9287880095932427,
-     "partido": "Paris FC–Angers",
-     "hora": "2026-11-22T15:00",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/114.png",
-     "logo_v": "https://media.api-sports.io/football/teams/77.png"
-    },
     {
      "sel": "1557472|Player Fouls Committed|Maxim De Cuyper - 1",
      "texto": "Maxim De Cuyper: comete 1+ falta",
@@ -824,6 +690,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/51.png"
     },
     {
+     "sel": "1575224|Away Player Shots|Phillip Tietz - 3",
+     "texto": "Phillip Tietz: 3+ remates",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,17 por 90' (3-3-4-3-4-2)",
+     "nota": 0.9240000000000002,
+     "equipo": "FSV Mainz 05",
+     "lado": "V",
+     "partido": "FC Augsburg–FSV Mainz 05",
+     "hora": "2026-11-22T15:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/170.png",
+     "logo_v": "https://media.api-sports.io/football/teams/164.png"
+    },
+    {
      "sel": "1557473|Away Corners Over/Under|Over 3.5",
      "texto": "Manchester United: más de 3,5 córners",
      "cuota": 1.67,
@@ -837,12 +718,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
     },
     {
-     "sel": "1550197|Away Corners Over/Under|Over 3.5",
-     "texto": "Frosinone: más de 3,5 córners",
-     "cuota": 1.67,
-     "p": 0.82,
-     "dato": "Frosinone saca 7,5 córners y el rival concede 3,9",
-     "nota": 0.9706117837526118,
+     "sel": "1550197|Player Fouls Committed|Strahinja Pavlovic - 1",
+     "texto": "Strahinja Pavlovic: comete 1+ falta",
+     "cuota": 1.57,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,55 por 90' (1-4-1-2-1-0)",
+     "nota": 0.9140000000000001,
+     "equipo": "AC Milan",
+     "lado": "L",
      "partido": "AC Milan–Frosinone",
      "hora": "2026-11-22T18:00",
      "liga": "Serie A",
@@ -865,8 +748,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 12.22,
-   "prob": 0.336
+   "cuota": 11.49,
+   "prob": 0.327
   },
   {
    "clave": "dia-2026-11-23",
@@ -1316,21 +1199,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550197|Player Fouls Committed|Strahinja Pavlovic - 1",
-     "texto": "Strahinja Pavlovic: comete 1+ falta",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,55 por 90' (1-4-1-2-1-0)",
-     "nota": 0.9140000000000001,
-     "equipo": "AC Milan",
-     "lado": "L",
-     "partido": "AC Milan–Frosinone",
-     "hora": "2026-11-22T18:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/489.png",
-     "logo_v": "https://media.api-sports.io/football/teams/512.png"
-    },
-    {
      "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
      "texto": "Eljif Elmas: comete 1+ falta",
      "cuota": 1.5,
@@ -1344,6 +1212,21 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/499.png",
      "logo_v": "https://media.api-sports.io/football/teams/505.png"
+    },
+    {
+     "sel": "1570456|Away Player Shots|David Hancko - 1",
+     "texto": "David Hancko: 1+ remate",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-1-1-2-0)",
+     "nota": 0.9000000000000001,
+     "equipo": "Atletico Madrid",
+     "lado": "V",
+     "partido": "Getafe–Atletico Madrid",
+     "hora": "2026-11-22T21:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/546.png",
+     "logo_v": "https://media.api-sports.io/football/teams/530.png"
     },
     {
      "sel": "1635611|Away Player Shots|Serhou Guirassy - 2",
@@ -1376,7 +1259,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/529.png"
     }
    ],
-   "cuota": 5.51,
+   "cuota": 5.27,
    "prob": 0.41
   },
   {
@@ -1416,21 +1299,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/51.png"
     },
     {
-     "sel": "1570459|Player Fouls Committed|Pablo Ramon - 1",
-     "texto": "Pablo Ramon: comete 1+ falta",
-     "cuota": 1.57,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 0,97 por 90' (1-1-0-1-1-1)",
-     "nota": 0.9140000000000001,
-     "equipo": "Racing Santander",
-     "lado": "L",
-     "partido": "Racing Santander–Real Sociedad",
-     "hora": "2026-11-22T16:15",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/4665.png",
-     "logo_v": "https://media.api-sports.io/football/teams/548.png"
-    },
-    {
      "sel": "1550197|Player Fouls Committed|Patrizio Masini - 2",
      "texto": "Patrizio Masini: comete 2+ faltas",
      "cuota": 1.57,
@@ -1459,9 +1327,24 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/499.png",
      "logo_v": "https://media.api-sports.io/football/teams/505.png"
+    },
+    {
+     "sel": "1557469|Player Fouls Committed|Vitaly Janelt - 1",
+     "texto": "Vitaly Janelt: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (1-3-1-0-2-1)",
+     "nota": 0.84,
+     "equipo": "Brentford",
+     "lado": "L",
+     "partido": "Brentford–Everton",
+     "hora": "2026-11-23T21:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/55.png",
+     "logo_v": "https://media.api-sports.io/football/teams/45.png"
     }
    ],
-   "cuota": 8.64,
+   "cuota": 7.71,
    "prob": 0.299
   },
   {
@@ -1470,21 +1353,6 @@
    "expl": "Rematadores fijos y porteros con trabajo",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1550201|Home Player Shots|Bremer - 1",
-     "texto": "Bremer: 1+ remate",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-0-1-2-2-1)",
-     "nota": 0.864,
-     "equipo": "Juventus",
-     "lado": "L",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/496.png",
-     "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
     {
      "sel": "1557472|Home Player Shots|Mohamed Belloumi - 2",
      "texto": "Mohamed Belloumi: 2+ remates",
@@ -1501,19 +1369,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/51.png"
     },
     {
-     "sel": "1575224|Away Player Shots|Phillip Tietz - 3",
-     "texto": "Phillip Tietz: 3+ remates",
-     "cuota": 1.62,
+     "sel": "1550206|Home Player Shots|Darryl Bakola - 1",
+     "texto": "Darryl Bakola: 1+ remate",
+     "cuota": 1.4,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,17 por 90' (3-3-4-3-4-2)",
-     "nota": 0.9240000000000002,
-     "equipo": "FSV Mainz 05",
-     "lado": "V",
-     "partido": "FC Augsburg–FSV Mainz 05",
-     "hora": "2026-11-22T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/170.png",
-     "logo_v": "https://media.api-sports.io/football/teams/164.png"
+     "dato": "cumple 5/6 siendo titular · 1,02 por 90' (2-1-0-1-1-1)",
+     "nota": 0.84,
+     "equipo": "Sassuolo",
+     "lado": "L",
+     "partido": "Sassuolo–Genoa",
+     "hora": "2026-11-22T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/488.png",
+     "logo_v": "https://media.api-sports.io/football/teams/495.png"
     },
     {
      "sel": "1550198|Home Player Shots|Nikola Krstovic - 3",
@@ -1531,23 +1399,38 @@
      "logo_v": "https://media.api-sports.io/football/teams/505.png"
     },
     {
-     "sel": "1570456|Away Player Shots|David Hancko - 1",
-     "texto": "David Hancko: 1+ remate",
-     "cuota": 1.5,
+     "sel": "1635713|Away Player Shots|Matthieu Udol - 1",
+     "texto": "Matthieu Udol: 1+ remate",
+     "cuota": 1.44,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-1-1-2-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atletico Madrid",
+     "dato": "cumple 5/6 siendo titular · 1,85 por 90' (3-2-0-2-1-3)",
+     "nota": 0.864,
+     "equipo": "Lens",
      "lado": "V",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/546.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
+     "sel": "1635682|Home Player Shots|Ayase Ueda - 3",
+     "texto": "Ayase Ueda: 3+ remates",
+     "cuota": 1.57,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,38 por 90' (3-4-1-3-4)",
+     "nota": 0.8502500000000002,
+     "equipo": "Lille",
+     "lado": "L",
+     "partido": "Lille–Bayern München",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/79.png",
+     "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 7.56,
-   "prob": 0.328
+   "cuota": 6.84,
+   "prob": 0.313
   },
   {
    "clave": "goles",
@@ -1567,19 +1450,6 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/500.png",
      "logo_v": "https://media.api-sports.io/football/teams/494.png"
-    },
-    {
-     "sel": "1575224|Goals Over/Under - Second Half|Over 1.5",
-     "texto": "Más de 1,5 goles en la 2ª parte",
-     "cuota": 1.57,
-     "p": 0.702,
-     "dato": "2,4 goles de media en las segundas partes de los dos",
-     "nota": 0.7395825209402516,
-     "partido": "FC Augsburg–FSV Mainz 05",
-     "hora": "2026-11-22T15:30",
-     "liga": "Bundesliga",
-     "logo_l": "https://media.api-sports.io/football/teams/170.png",
-     "logo_v": "https://media.api-sports.io/football/teams/164.png"
     },
     {
      "sel": "1552822|Total - Away|Over 0.5",
@@ -1608,6 +1478,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
+     "sel": "1635663|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.62,
+     "p": 0.689,
+     "dato": "más de 2,5 goles en el 75% y el 71% de sus partidos",
+     "nota": 0.7238683687349731,
+     "partido": "Feyenoord–FC Porto",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/209.png",
+     "logo_v": "https://media.api-sports.io/football/teams/212.png"
+    },
+    {
      "sel": "1635703|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
      "cuota": 1.53,
@@ -1621,8 +1504,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
     }
    ],
-   "cuota": 8.93,
-   "prob": 0.22
+   "cuota": 9.22,
+   "prob": 0.216
   },
   {
    "clave": "larga",
@@ -1631,40 +1514,12 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550201|Away Corners Over/Under|Over 2.5",
-     "texto": "Venezia: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.747,
-     "dato": "Venezia saca 4,2 córners y el rival concede 3,6",
-     "nota": 0.8278435642400913,
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/496.png",
-     "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-     "sel": "1550206|Home Player Shots|Darryl Bakola - 1",
-     "texto": "Darryl Bakola: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,02 por 90' (2-1-0-1-1-1)",
-     "nota": 0.84,
-     "equipo": "Sassuolo",
-     "lado": "L",
-     "partido": "Sassuolo–Genoa",
-     "hora": "2026-11-22T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/488.png",
-     "logo_v": "https://media.api-sports.io/football/teams/495.png"
-    },
-    {
-     "sel": "1575224|Away Corners Over/Under|Over 4.5",
-     "texto": "FSV Mainz 05: más de 4,5 córners",
-     "cuota": 1.67,
-     "p": 0.701,
-     "dato": "FSV Mainz 05 saca 6,0 córners y el rival concede 5,8",
-     "nota": 0.7529501162924278,
+     "sel": "1575224|Double Chance|Draw/Away",
+     "texto": "FSV Mainz 05 o empate",
+     "cuota": 1.44,
+     "p": 0.733,
+     "dato": "FSV Mainz 05: DDVVV en sus últimos 5",
+     "nota": 0.7490716026624835,
      "partido": "FC Augsburg–FSV Mainz 05",
      "hora": "2026-11-22T15:30",
      "liga": "Bundesliga",
@@ -1715,14 +1570,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/512.png"
     },
     {
-     "sel": "1557469|Player Fouls Committed|Vitaly Janelt - 1",
-     "texto": "Vitaly Janelt: comete 1+ falta",
+     "sel": "1557469|Player Fouls Committed|Harrison Armstrong - 1",
+     "texto": "Harrison Armstrong: comete 1+ falta",
      "cuota": 1.4,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (1-3-1-0-2-1)",
+     "dato": "cumple 5/6 siendo titular · 1,21 por 90' (2-1-1-2-0-1)",
      "nota": 0.84,
-     "equipo": "Brentford",
-     "lado": "L",
+     "equipo": "Everton",
+     "lado": "V",
      "partido": "Brentford–Everton",
      "hora": "2026-11-23T21:00",
      "liga": "Premier League",
@@ -1730,27 +1585,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     },
     {
-     "sel": "1635713|Away Player Shots|Matthieu Udol - 1",
-     "texto": "Matthieu Udol: 1+ remate",
+     "sel": "1635663|Double Chance|Draw/Away",
+     "texto": "FC Porto o empate",
      "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,85 por 90' (3-2-0-2-1-3)",
-     "nota": 0.864,
-     "equipo": "Lens",
-     "lado": "V",
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1635663|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.62,
-     "p": 0.689,
-     "dato": "más de 2,5 goles en el 75% y el 71% de sus partidos",
-     "nota": 0.7238683687349731,
+     "p": 0.705,
+     "dato": "FC Porto: VVDVV en sus últimos 5",
+     "nota": 0.7002438349372134,
      "partido": "Feyenoord–FC Porto",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
@@ -1758,23 +1598,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
     },
     {
-     "sel": "1635682|Home Player Shots|Ayase Ueda - 3",
-     "texto": "Ayase Ueda: 3+ remates",
-     "cuota": 1.57,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 3,38 por 90' (3-4-1-3-4)",
-     "nota": 0.8502500000000002,
-     "equipo": "Lille",
-     "lado": "L",
-     "partido": "Lille–Bayern München",
-     "hora": "2026-11-25T21:00",
+     "sel": "1635713|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.5,
+     "p": 0.683,
+     "dato": "2,4 goles de media en las segundas partes de los dos",
+     "nota": 0.6948090876057422,
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/79.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     }
    ],
-   "cuota": 58.24,
-   "prob": 0.062
+   "cuota": 13.06,
+   "prob": 0.124
   }
  ],
  "otras_ligas": false,

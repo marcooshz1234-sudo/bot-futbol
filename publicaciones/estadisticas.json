@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 09:22",
+ "actualizado": "2026-11-22 12:38",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3614,
-   "hoy": 139,
+   "seguidores": 3641,
+   "hoy": 166,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3614
+    3641
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 501,
-   "hoy": 5,
+   "seguidores": 502,
+   "hoy": 6,
    "serie": [
     439,
     471,
@@ -50,17 +50,17 @@
     485,
     490,
     496,
-    501
+    502
    ]
   }
  },
- "total": 4170,
- "total_hoy": 143,
+ "total": 4198,
+ "total_hoy": 171,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "09:40",
+  "hora": "13:00",
   "dia": "2026-11-22",
-  "titulo": "La combi de los empates"
+  "titulo": "Combi werder bremen – hamburger sv"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,14 +252,14 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3614,
+   "threads": 3641,
    "facebook": 1,
-   "telegram": 501
+   "telegram": 502
   }
  },
  "tipos_instagram": {
   "Otros (reel)": {
-   "posts": 47,
+   "posts": 48,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
@@ -279,7 +279,7 @@
    "comentarios_media": 0.0
   },
   "Escalera (reel)": {
-   "posts": 6,
+   "posts": 5,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },

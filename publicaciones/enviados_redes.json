@@ -3243,5 +3243,33 @@
    "facebook": null,
    "threads": "18086070425380751"
   }
+ },
+ "2026-11-22-loca-th-1140-escudos": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": null,
+   "instagram": null
+  },
+  "errores_redes": {
+   "threads": "caducado: no salió a tiempo",
+   "instagram": "caducado: no salió a tiempo"
+  }
+ },
+ "2026-11-22-loca-th-1200-escudos": {
+  "redes": {
+   "instagram_reel": null,
+   "threads": "18218001115316872",
+   "instagram": "18040191869660052",
+   "threads_enlace": "18233458639336135"
+  }
+ },
+ "2026-11-22-pick-seguro-3": {
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
  }
 }

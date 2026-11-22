@@ -3283,14 +3283,14 @@
   },
   "2026-11-22": {
     "dia": "2026-11-22",
-    "total": 8,
+    "total": 11,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 8,
+      "pendiente": 11,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 8
+      "sin_resolver": 11
     },
     "combis": [
       {
@@ -3340,13 +3340,31 @@
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-22-loca-th-1140-escudos",
+        "titulo": "🚨 COMBI LORIENT – RENNES 🚨",
+        "estado": "pendiente",
+        "cuota": 7.18
+      },
+      {
+        "id": "2026-11-22-loca-th-1200-escudos",
+        "titulo": "💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥",
+        "estado": "pendiente",
+        "cuota": 6.42
+      },
+      {
+        "id": "2026-11-22-pick-seguro-3",
+        "titulo": "Vamos con el pick de hoy familia 🔥",
+        "estado": "pendiente",
+        "cuota": null
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 34
+      "total": 43
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52 · pendiente\n⏳ 🧨 LA LOCURA DE x83,47 🧨 · 83,47 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 8 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52 · pendiente\n⏳ 🧨 LA LOCURA DE x83,47 🧨 · 83,47 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18 · pendiente\n⏳ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42 · pendiente\n⏳ Vamos con el pick de hoy familia 🔥 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 11 sin resolver"
   }
 }
