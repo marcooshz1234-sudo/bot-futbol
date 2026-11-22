@@ -10348,28 +10348,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16348",
-   "fecha": "2026-11-14T19:03",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-14T19:25",
-   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16348.jpg"
-  },
-  {
-   "id": "-1001393609245/16350",
-   "fecha": "2026-11-14T19:07",
-   "texto": "APUESTA CUOTA 2.10  NBA 🏀",
-   "foto": false,
-   "visto": "2026-11-14T19:25"
-  },
-  {
-   "id": "-1001393609245/16349",
-   "fecha": "2026-11-14T19:07",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-14T19:25"
-  },
-  {
    "id": "-1001393609245/16351",
    "fecha": "2026-11-15T03:32",
    "texto": "💔💔💔💔💔💔💔💔💔💔",
@@ -11830,6 +11808,28 @@
    "foto": true,
    "visto": "2026-11-22T02:10",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16549.jpg"
+  },
+  {
+   "id": "-1001393609245/16550",
+   "fecha": "2026-11-22T02:12",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-22T02:20",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16550.jpg"
+  },
+  {
+   "id": "-1001393609245/16552",
+   "fecha": "2026-11-22T02:15",
+   "texto": "FC BARCELONA VS VILLARREAL 🇪🇸🇪🇸",
+   "foto": false,
+   "visto": "2026-11-22T02:20"
+  },
+  {
+   "id": "-1001393609245/16551",
+   "fecha": "2026-11-22T02:15",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-22T02:20"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
