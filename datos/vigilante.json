@@ -1,9 +1,6 @@
 {
  "informe": "2026-11-22",
  "vistos": {
-  "directo-2026-11-19-pick-claude-1": "2026-11-19T12:45",
-  "directo-2026-11-19-combi-ambos": "2026-11-19T12:45",
-  "repe-2026-11-19-1638327|Match Winner|Home": "2026-11-19T12:45",
   "prensa-1570454-e2b30a57": "2026-11-19T13:33",
   "cuotamov-2026-11-19-loca-th-1700-escudos-1638286|Home Player Shots|Frida Maanum - 2": "2026-11-19T14:47",
   "prensa-1570454-387117e9": "2026-11-19T15:29",
@@ -147,7 +144,9 @@
   "prensa-1570458-HKane": "2026-11-22T12:40",
   "regla-cuota-2026-11-23-semana-europa": "2026-11-22T12:40",
   "regla-dia-2026-11-23-semana-europa": "2026-11-22T12:40",
-  "regla-orden-2026-11-23-semana-europa": "2026-11-22T12:40"
+  "regla-orden-2026-11-23-semana-europa": "2026-11-22T12:40",
+  "redes-2026-11-22-escalera-threads-instagram": "2026-11-22T12:49",
+  "bucle-cuotas_frescas-2026112212": "2026-11-22T12:49"
  },
  "abiertos": [
   {
@@ -157,6 +156,10 @@
   {
    "clave": "redes-2026-11-22-loca-th-1000-ganaambos-threads",
    "t": "⏰ No ha salido en threads (10:00): ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆"
+  },
+  {
+   "clave": "redes-2026-11-22-escalera-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (11:00): 🪜 Reto escalera · Día 2/7"
   },
   {
    "clave": "redes-2026-11-22-loca-th-1100-escudos-threads-instagram",
@@ -175,16 +178,16 @@
    "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
+   "clave": "repe-2026-11-22-1570456|Total - Home|Over 0.5",
+   "t": "🔁 22/11: el mismo pronóstico en 3 posts (escalera, pick-seguro-6, loca-th-1740-escudos)"
+  },
+  {
    "clave": "repe-2026-11-22-1552822|Match Winner|Home",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (pick-seguro-5, loca-th-1600-escudos, loca-th-1820-lista-gana)"
   },
   {
    "clave": "prensa-1557473-3bbb9c27",
    "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 4 post(s) de este partido: pick-seguro-4, loca-th-1520-reto, combi-partido-1557473, estrella-1557473"
-  },
-  {
-   "clave": "prensa-1570458-HKane",
-   "t": "📰 Osasuna–Malaga: «Harry Kane, lesión de larga duración» (Fichajes.net) · tenemos 1 post(s) de este partido: combi-tres"
   },
   {
    "clave": "regla-cuota-2026-11-23-semana-europa",
@@ -197,10 +200,24 @@
   {
    "clave": "regla-orden-2026-11-23-semana-europa",
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
+  },
+  {
+   "clave": "bucle-cuotas_frescas-2026112212",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T12:40",
+ "revisado": "2026-11-22T12:49",
  "historial": [
+  {
+   "hora": "2026-11-22T12:49",
+   "t": "⏰ No ha salido en threads ni instagram (11:00): 🪜 Reto escalera · Día 2/7",
+   "k": "redes-2026-11-22-escalera-threads-instagram"
+  },
+  {
+   "hora": "2026-11-22T12:49",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 3 veces en la última hora",
+   "k": "bucle-cuotas_frescas-2026112212"
+  },
   {
    "hora": "2026-11-22T12:40",
    "t": "⏰ No ha salido en threads (09:40): 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨",
@@ -490,16 +507,6 @@
    "hora": "2026-11-21T03:01",
    "t": "📰 AC Milan–Frosinone: «Milan, Pavlovic es duda ante el Frosinone: solo completó parte del entrenamiento con el grupo. Maignan está to» (Goal.com) · tenemos 3 post(s) de este partido: picks-manana, ganadores-seriea, combi-tres",
    "k": "prensa-1550197-13bf9150"
-  },
-  {
-   "hora": "2026-11-21T03:01",
-   "t": "📰 Barcelona–Villarreal: «Andreas Christensen es duda ante el Villarreal por unas molestias en el sóleo» (RPC TV) · tenemos 1 post(s) de este partido: ganadores-laliga",
-   "k": "prensa-1570455-40624e79"
-  },
-  {
-   "hora": "2026-11-21T03:01",
-   "t": "📰 Barcelona–Villarreal: «Alineaciones probables del FC Barcelona-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 1 post(s) de este partido: ganadores-laliga",
-   "k": "prensa-1570455-b5f7d136"
   }
  ]
 }
