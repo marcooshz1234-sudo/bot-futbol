@@ -74,7 +74,14 @@
     ],
     "nota": "22/11 20:25 Marcos: «2 picks sueltos» para lo que queda (nada del Marseille)",
     "enviado": "2026-11-22T20:27",
-    "mensaje_id": 591
+    "mensaje_id": 591,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-22-noche-hancko",
@@ -88,6 +95,13 @@
     ],
     "nota": "22/11 20:38: «Gana el Atleti» lo frenó el bot (choca con «Getafe o empate» de hoy en Threads) → Hancko 1+ remate",
     "enviado": "2026-11-22T20:35",
-    "mensaje_id": 592
+    "mensaje_id": 592,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   }
 ]
