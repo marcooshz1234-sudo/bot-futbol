@@ -300,6 +300,9 @@ def main(objetivo=None):
             cambios += 1
             continue
         cuando = datetime.fromisoformat(p["fecha"]).replace(tzinfo=MADRID)
+        rel = (control.get("aprobados") or {}).get(p["id"])
+        if rel and not p.get("requiere_ok"):   # 22/11: relanzar un post que caducó por retraso (el cron se saltó 3 h)
+            cuando = max(cuando, datetime.fromisoformat(rel).replace(tzinfo=MADRID))
         if p.get("requiere_ok"):   # 09/11 (Marcos): los verdes solo salen cuando él le da a «✅ Publicar»
             ok = (control.get("aprobados") or {}).get(p["id"])
             if not ok:
