@@ -161,10 +161,6 @@
  },
  "abiertos": [
   {
-   "clave": "redes-2026-11-22-loca-th-1120-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (11:20): ⚡ COMBI SASSUOLO – GENOA ⚡"
-  },
-  {
    "clave": "redes-2026-11-22-loca-th-1140-escudos-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (11:40): 🚨 COMBI LORIENT – RENNES 🚨 · error: caducado: no salió a tiempo"
   },
@@ -213,19 +209,19 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
+   "clave": "bucle-alineaciones_espera-2026112217",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 22 veces en la última hora"
+  },
+  {
    "clave": "bucle-cuotas_frescas-2026112217",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora"
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora"
   },
   {
    "clave": "bucle-alineaciones_posts-2026112217",
-   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 5 veces en la última hora"
-  },
-  {
-   "clave": "bucle-alineaciones_espera-2026112217",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 17 veces en la última hora"
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 6 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T17:11",
+ "revisado": "2026-11-22T17:22",
  "historial": [
   {
    "hora": "2026-11-22T17:01",

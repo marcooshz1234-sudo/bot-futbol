@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 17:11",
+ "actualizado": "2026-11-22 17:21",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3669,
-   "hoy": 194,
+   "seguidores": 3671,
+   "hoy": 196,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3669
+    3671
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4228,
- "total_hoy": 201,
+ "total": 4230,
+ "total_hoy": 203,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:20",
+  "hora": "17:40",
   "dia": "2026-11-22",
-  "titulo": "Combi atalanta – inter"
+  "titulo": "Combi getafe – atletico madrid"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,19 +252,19 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3669,
+   "threads": 3671,
    "facebook": 1,
    "telegram": 504
   }
  },
  "tipos_instagram": {
-  "Combi de partido (reel)": {
-   "posts": 3,
+  "Otros (reel)": {
+   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
-  "Otros (reel)": {
-   "posts": 47,
+  "Combi de partido (reel)": {
+   "posts": 3,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
