@@ -123,9 +123,10 @@ class LigasYDestacadas(unittest.TestCase):
             p["cuotas_bet365"]["Total - Home"] = [["Over 0.5", "1.45"]]
         with mock.patch.object(CS, "equipos_partido", lambda pid: {"10", "20"}), mock.patch.object(CS, "_teams", lambda pid: {}):
             ds = CS.generar_destacadas("2026-11-21", "2026-11-23", partidos=ps, h=h)
-        self.assertTrue(ds and ds[0]["clave"] == "todas")
-        self.assertGreater(len({x["liga"] for x in ds[0]["patas"]}), 1)          # mezcla ligas
-        sels = [x["sel"] for c in ds if c["clave"] != "ganan-larga" for x in c["patas"]]
+        todas = next(c for c in ds if c["clave"] == "todas")   # 22/11: delante van las del día («Todo el…», A y B)
+        self.assertTrue(ds[0]["clave"].startswith("todo-"))
+        self.assertGreater(len({x["liga"] for x in todas["patas"]}), 1)          # mezcla ligas
+        sels = [x["sel"] for c in ds if c["clave"] != "ganan-larga" and not c["clave"].startswith("todo-") for x in c["patas"]]
         self.assertEqual(len(sels), len(set(sels)))                                # ningún pick en dos destacadas
         for c in ds:
             ids = [x["sel"].split("|")[0] for x in c["patas"]]

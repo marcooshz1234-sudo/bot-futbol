@@ -25,6 +25,7 @@ from bot import DATOS, MADRID, leer
 SALIDA = DATOS / "combis_semana.json"
 CUOTA_MIN, CUOTA_MAX, OBJETIVO = 1.38, 1.70, 1.50
 MAX_PATAS = 7
+TODO_DIA_MAX = 14   # 22/11: «Todo el día», como mucho 14 patas
 # 20/11 (Marcos: «solo de las 5 grandes ligas»): las 5 grandes, las europeas, sus copas y las selecciones. Solo si en
 # esos días no hay nada de eso, se tira de las demás ligas que sigue el bot (nunca femenino).
 GRANDES5 = ("LaLiga", "Premier League", "Serie A", "Bundesliga", "Ligue 1")
@@ -497,23 +498,40 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
             pool.append((p, cands))
     tipos = list(DESTACADAS)
     dias = sorted({_dia(p) for p, _ in pool})
-    if len(dias) > 1:   # una por día, detrás de la segura
-        for d in reversed(dias):
-            wd = datetime.fromisoformat(d).weekday()
-            tipos.insert(2, (f"dia-{d}", f"📅 La del {DIAS_ES[wd]}", f"Solo partidos del {DIAS_ES[wd]} {int(d[8:])}",
-                             lambda x, d=d: x["hora"][:10] == d, 5, "nota"))
+    # 22/11 (Marcos: «quiero también una del día mezclando todos los partidos que pueda, o que haga dos diferentes»;
+    # «esas dos, cuotas de 30-40 con patas de 1,4-1,6»): por día, las primeras: «Todo el domingo» (una pata de cada
+    # partido, hasta TODO_DIA_MAX; no gasta selecciones) y dos más, A y B, de @30-40 con patas de @1,40-1,60 y sin
+    # repetir selección entre ellas ni con el resto de destacadas.
+    for d in reversed(dias):
+        wd = datetime.fromisoformat(d).weekday()
+        tipos.insert(0, (f"todo-{d}", f"📅 Todo el {DIAS_ES[wd]}", f"Una pata de cada partido del {DIAS_ES[wd]} {int(d[8:])}",
+                         lambda x, d=d: x["hora"][:10] == d, TODO_DIA_MAX, "p"))
     usadas, out = set(), []
+    dos = {}
+    for d in dias:
+        wd = datetime.fromisoformat(d).weekday()
+        dos[d] = []
+        for letra, otra in (("A", "B"), ("B", "A")):
+            c = combi_30_40([(p, cs) for p, cs in pool if _dia(p) == d], usadas,
+                            evitar={x["partido"] for c0 in dos[d] for x in c0["patas"]})
+            if c:
+                usadas |= {x["sel"] for x in c["patas"]}
+                dos[d].append(dict(c, clave=f"dia-{d}-{letra.lower()}", titulo=f"📅 La del {DIAS_ES[wd]} · {letra}",
+                                   expl=f"@{DOS_DIA_CUOTA[0]}-{DOS_DIA_CUOTA[1]} con patas de @{coma(DOS_DIA_PATA[0])}-"
+                                        f"{coma(DOS_DIA_PATA[1])} (la {otra}, otra distinta)", liga="Varias"))
     for clave, titulo, expl, filtro, n, orden in tipos:
         mejores = []
         for p, cands in pool:
             gan = clave.startswith("ganan")
-            cs = [x for x in cands if filtro(x) and (gan or x["sel"] not in usadas) and gan == bool(x.get("ganador"))]
+            libre = clave == "ganan-larga" or clave.startswith("todo-")
+            cs = [x for x in cands if filtro(x) and (libre or x["sel"] not in usadas) and gan == bool(x.get("ganador"))]
             if cs:
                 mejores.append(max(cs, key=lambda x: x[orden]))
         patas = sorted(sorted(mejores, key=lambda x: -x[orden])[:n], key=lambda x: x["hora"])
         if len(patas) < min(3, n):
             continue
-        usadas |= {x["sel"] for x in patas}
+        if not clave.startswith("todo-"):
+            usadas |= {x["sel"] for x in patas}
         tot = 1.0
         for x in patas:
             tot *= x["cuota"]
@@ -522,7 +540,41 @@ def generar_destacadas(desde, hasta, partidos=None, h=None, fuera=(), empieza_de
             prob *= x["p"]
         out.append({"clave": clave, "titulo": titulo, "expl": expl, "liga": "Varias", "patas": patas, "cuota": round(tot, 2),
                     "prob": round(prob, 3)})
+        if clave.startswith("todo-"):
+            out += dos.get(clave[5:], [])
     return out
+
+
+DOS_DIA_CUOTA = (30, 40)       # 22/11 (Marcos): las dos del día, de @30 a @40…
+DOS_DIA_PATA = (1.40, 1.60)    # …con patas de @1,40 a @1,60
+
+
+def combi_30_40(pool, usadas, evitar=()):
+    """Una combi de @30-40 con patas de @1,40-1,60: la pata más probable de cada partido (los de «evitar», los
+    de la otra combi, al final), sin pasar de @40, hasta llegar a @30. Un partido una vez; None si no llega."""
+    lo, hi = DOS_DIA_PATA
+    partidos = []
+    for p, cands in pool:
+        cs = sorted([x for x in cands if lo <= x["cuota"] <= hi and x["sel"] not in usadas and not x.get("ganador")],
+                    key=lambda x: -x["p"])
+        if cs:
+            partidos.append(cs)
+    partidos.sort(key=lambda cs: (cs[0]["partido"] in evitar, -cs[0]["p"]))
+    patas, tot = [], 1.0
+    for cs in partidos:
+        x = next((x for x in cs if tot * x["cuota"] <= DOS_DIA_CUOTA[1]), None)
+        if not x:
+            continue
+        patas.append(x)
+        tot *= x["cuota"]
+        if tot >= DOS_DIA_CUOTA[0]:
+            break
+    if tot < DOS_DIA_CUOTA[0]:
+        return None
+    prob = 1.0
+    for x in patas:
+        prob *= x["p"]
+    return {"patas": sorted(patas, key=lambda x: x["hora"]), "cuota": round(tot, 2), "prob": round(prob, 3)}
 
 
 DIAS = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"]

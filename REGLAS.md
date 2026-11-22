@@ -213,3 +213,4 @@
 - 20/11 X: formatos de x_extra.py ACTIVOS (control `x_extra: true`): «🗓️ PARA MAÑANA» en las combis de la noche, escalera presumida, enlace de Telegram siempre en el 2.º post (nunca en el principal) y un directo de la escalera al día (min. 60–80).
 - 20/11 (Marcos): combis de un partido por pata (~@1,50 cada pata) con el dato del jugador siendo titular, preparadas con días de antelación (viernes el finde, martes entre semana) porque las cuotas bajan. Marcos las monta y manda la captura; se suben a Threads, X y Telegram (Telegram, 1 al día como mucho). Sin «recibirá falta» (sin cuota en la API).
 - 21/11 Telegram: los días que juegan las 5 grandes ligas, SOLO contenido de ellas (nada de Eredivisie, Championship, Segunda, Portugal…), y mayormente LaLiga.
+- 22/11 App, combis: cada día «Todo el día» (todos los partidos) y dos más (A y B) de @30-40 con patas de @1,40-1,60.
