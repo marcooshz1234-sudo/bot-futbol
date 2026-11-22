@@ -115,7 +115,14 @@
     "resultado": "verde",
     "verde_de": "2026-11-22-pick-seguro-5",
     "enviado": "2026-11-22T22:03",
-    "mensaje_id": 594
+    "mensaje_id": 594,
+    "redes": {
+      "threads": null,
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null
+    }
   },
   {
     "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-2",
@@ -157,6 +164,28 @@
       "facebook": null,
       "threads": "17978342865159890",
       "threads_enlace": "18142032562724439"
+    }
+  },
+  {
+    "id": "2026-11-22-verde-auto--auto-2026-11-22-loca-th-1820-lista-gana",
+    "fecha": "2026-11-22T22:23",
+    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Inter\n✅ Gana el Marseille\n✅ Gana el Atletico Madrid\n\n📈 Cuota @3,50\n\nA cobrar señores 🤑",
+    "foto": "publicaciones/media/2026-11-22-verde-auto--auto-2026-11-22-loca-th-1820-lista-gana.tarjeta.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "foto",
+    "resultado": "verde",
+    "verde_de": "2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana",
+    "solo_en": [
+      "threads"
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "18429366514151294",
+      "threads_enlace": "18012875273781212"
     }
   }
 ]
