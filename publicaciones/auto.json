@@ -12071,26 +12071,20 @@
   {
     "id": "2026-11-22-loca-th-1740-escudos",
     "fecha": "2026-11-22T17:40",
-    "texto": "💥 COMBI GETAFE – ATLETICO MADRID 💥\n\n⭐ Getafe vs Atletico Madrid · 21:00\n\n✅ 🦵 Giuliano Simeone comete 1+ faltas\n✅ 🔫 Moya Borja Mayoral: 2+ tiros\n✅ 🔫 Rodrigo Mendoza: 2+ tiros\n✅ 🔫 Alex Grimaldo: 2+ tiros\n✅ 👑 Gana el Atletico Madrid\n✅ 🚀 Getafe marca\n✅ ⏱️ +1,5 goles en la 2ª parte del Getafe–Atletico Madrid\n✅ 🚀 Jonathan David marca\n\n🎯 CUOTA 21,49 aprox. 💎 10€ → 215€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "💥 COMBI GETAFE – ATLETICO MADRID 💥\n\n⭐ Getafe vs Atletico Madrid · 21:00\n\n✅ 🦵 Giuliano Simeone comete 1+ faltas\n✅ 🔫 Alex Grimaldo: 2+ tiros\n✅ 👑 Gana el Atletico Madrid\n✅ 🚀 Getafe marca\n✅ ⏱️ +1,5 goles en la 2ª parte del Getafe–Atletico Madrid\n\n🎯 CUOTA 12,27 aprox. 💎 10€ → 215€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1570456|Player Fouls Committed|Giuliano Simeone - 1",
-      "1570456|Home Player Shots|Moya Borja Mayoral - 2",
-      "1570456|Away Player Shots|Rodrigo Mendoza - 2",
       "1570456|Away Player Shots|Alex Grimaldo - 2",
       "1570456|Match Winner|Away",
       "1570456|Total - Home|Over 0.5",
-      "1570456|Goals Over/Under - Second Half|Over 1.5",
-      "1570456|Anytime Goal Scorer|Jonathan David"
+      "1570456|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.4,
       1.4,
-      1.4,
-      1.4,
       1.55,
       1.73,
-      2.2,
-      2.3
+      2.2
     ],
     "solo_redes": true,
     "origen": "threads_locas",
@@ -12109,7 +12103,8 @@
     "cuota_bet365": 21.49,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "revisado_alineaciones": "2026-11-22T20:37"
   },
   {
     "id": "2026-11-22-pick-seguro-2",

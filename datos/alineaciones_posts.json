@@ -139,9 +139,13 @@
   "2026-11-22-loca-th-1600-escudos|Keyliane Abdallah: 3+ tiros",
   "2026-11-22-loca-th-1720-escudos|Andy Diouf: 2+ tiros",
   "2026-11-22-loca-th-1720-escudos|Jonathan Rowe: 2+ tiros",
+  "2026-11-22-loca-th-1740-escudos|Jonathan David marca",
+  "2026-11-22-loca-th-1740-escudos|Moya Borja Mayoral: 2+ tiros",
+  "2026-11-22-loca-th-1740-escudos|Rodrigo Mendoza: 2+ tiros",
   "2026-11-22-loca-th-1840-duelo|Andy Diouf: 2+ tiros",
   "2026-11-22-loca-th-1840-duelo|Jonathan Rowe: 2+ tiros",
   "2026-11-22-loca-th-1940-x500|Antoine Valero marca",
+  "2026-11-22-loca-th-1940-x500|Jonathan David marca",
   "2026-11-22-loca-th-1940-x500|Pierre Hojbjerg: 2+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
@@ -461,15 +465,18 @@
   "clave|2026-11-21-loca-th-1140-escudos|1575226|Match Winner|Away|S. Guirassy",
   "clave|2026-11-21-loca-th-1140-escudos|1575226|Total - Home|Over 0.5|H. Bolin",
   "clave|2026-11-21-pick-seguro-4|1557476|Total - Home|Over 1.5|S. Tonali",
+  "clave|2026-11-22-escalera|1570456|Total - Home|Over 0.5|M. Satriano",
   "clave|2026-11-22-estrella-1550198|1550198|Away Player Shots|Carlos Augusto - 1|P. Zieliński",
   "clave|2026-11-22-ganadores-seriea|1550198|Match Winner|Away|P. Zieliński",
   "clave|2026-11-22-loca-th-1720-escudos|1550198|Anytime Goal Scorer|Marcus Thuram|P. Zieliński",
   "clave|2026-11-22-loca-th-1720-escudos|1550198|Away Player Shots|Andy Diouf - 2|P. Zieliński",
   "clave|2026-11-22-loca-th-1720-escudos|1550198|Match Winner|Away|P. Zieliński",
   "clave|2026-11-22-loca-th-1720-escudos|1550198|Total - Away|Over 1.5|P. Zieliński",
+  "clave|2026-11-22-loca-th-1740-escudos|1570456|Total - Home|Over 0.5|M. Satriano",
   "clave|2026-11-22-loca-th-1820-lista-gana|1550198|Match Winner|Away|P. Zieliński",
   "clave|2026-11-22-loca-th-1840-duelo|1550198|Away Player Shots|Andy Diouf - 2|P. Zieliński",
   "clave|2026-11-22-loca-th-1940-x500|1550198|Anytime Goal Scorer|Marcus Thuram|P. Zieliński",
+  "clave|2026-11-22-pick-seguro-6|1570456|Total - Home|Over 0.5|M. Satriano",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -3367,10 +3374,151 @@
    }
   },
   "1570456": {
-   "hora": "2026-11-22T20:26:05.879182+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-22T20:37:19.543625+01:00",
+   "xi": [
+    "David Soria",
+    "D. Dakonam",
+    "Z. Romero",
+    "J. Valou",
+    "J. Mojica",
+    "Andrés García",
+    "O. Mangala",
+    "Francho Serrano",
+    "Ramón Terrats",
+    "Iván Azón",
+    "E. Ünal",
+    "J. Oblak",
+    "Marcos Llorente",
+    "Robin Le Normand",
+    "D. Hancko",
+    "Álex Grimaldo",
+    "Koke",
+    "Pablo Barrios",
+    "G. Simeone",
+    "Álex Baena",
+    "J. Cardoso",
+    "J. Álvarez"
+   ],
+   "banquillo": [
+    "S. Sazonov",
+    "M. Satriano",
+    "Alberto Risco",
+    "Borja Mayoral",
+    "Mario Martín",
+    "J. Letáček",
+    "Kiko Femenía",
+    "Diego Ferrer",
+    "Davinchi",
+    "A. Abqar",
+    "Mady Macalou Soumano",
+    "Bafode Gassama Gassama",
+    "R. Hueso",
+    "J. Castillo",
+    "J. David",
+    "Javier Gil",
+    "M. Hjulmand",
+    "Lee Kang-In",
+    "Rodrigo Mendoza",
+    "J. Musso",
+    "Arnau Ortiz",
+    "A. Sørloth",
+    "O. Vargas",
+    "Dani MartÃ­nez"
+   ],
+   "equipos": {
+    "546": [
+     {
+      "n": "David Soria",
+      "pos": "G"
+     },
+     {
+      "n": "D. Dakonam",
+      "pos": "D"
+     },
+     {
+      "n": "Z. Romero",
+      "pos": "D"
+     },
+     {
+      "n": "J. Valou",
+      "pos": "D"
+     },
+     {
+      "n": "J. Mojica",
+      "pos": "D"
+     },
+     {
+      "n": "Andrés García",
+      "pos": "M"
+     },
+     {
+      "n": "O. Mangala",
+      "pos": "M"
+     },
+     {
+      "n": "Francho Serrano",
+      "pos": "M"
+     },
+     {
+      "n": "Ramón Terrats",
+      "pos": "M"
+     },
+     {
+      "n": "Iván Azón",
+      "pos": "F"
+     },
+     {
+      "n": "E. Ünal",
+      "pos": "F"
+     }
+    ],
+    "530": [
+     {
+      "n": "J. Oblak",
+      "pos": "G"
+     },
+     {
+      "n": "Marcos Llorente",
+      "pos": "D"
+     },
+     {
+      "n": "Robin Le Normand",
+      "pos": "D"
+     },
+     {
+      "n": "D. Hancko",
+      "pos": "D"
+     },
+     {
+      "n": "Álex Grimaldo",
+      "pos": "D"
+     },
+     {
+      "n": "Koke",
+      "pos": "M"
+     },
+     {
+      "n": "Pablo Barrios",
+      "pos": "M"
+     },
+     {
+      "n": "G. Simeone",
+      "pos": "M"
+     },
+     {
+      "n": "Álex Baena",
+      "pos": "M"
+     },
+     {
+      "n": "J. Cardoso",
+      "pos": "M"
+     },
+     {
+      "n": "J. Álvarez",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

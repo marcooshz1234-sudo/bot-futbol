@@ -10449,12 +10449,6 @@
     "motivo": "Knee Injury"
    },
    {
-    "equipo": 81,
-    "jugador": "P. Hojbjerg",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
     "equipo": 1298,
     "jugador": "A. Bourabaa",
     "tipo": "Missing Fixture",
@@ -10620,7 +10614,7 @@
   "1608377": [],
   "1570029": []
  },
- "ultima": "2026-11-22T20:04:39.658264+01:00",
+ "ultima": "2026-11-22T20:37:34.628776+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
