@@ -45,65 +45,112 @@
  },
  "top": [
   {
+   "local": "Vianense",
+   "visitante": "Rio Ave",
+   "inicio": "2026-11-22T15:00",
+   "texto": "Vianense o empate",
+   "cuota": 2.2,
+   "justa": 1.94,
+   "ev": 0.133,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
+   "local": "Vitória de Sernache",
+   "visitante": "Lusitânia Lourosa",
+   "inicio": "2026-11-22T15:00",
+   "texto": "Vitória de Sernache o empate",
+   "cuota": 2.2,
+   "justa": 1.96,
+   "ev": 0.122,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
    "local": "União de Leiria",
    "visitante": "Leça",
    "inicio": "2026-11-22T20:30",
-   "texto": "Gana el União de Leiria",
-   "cuota": 1.57,
-   "justa": 1.56,
-   "ev": 0.009,
+   "texto": "União de Leiria marca 2 o más",
+   "cuota": 1.67,
+   "justa": 1.63,
+   "ev": 0.023,
    "fuente": "las otras casas",
-   "edad_h": 2.1
-  },
-  {
-   "local": "Cordoba",
-   "visitante": "Oviedo",
-   "inicio": "2026-11-22T14:00",
-   "texto": "Gana el Cordoba",
-   "cuota": 2.05,
-   "justa": 2.07,
-   "ev": -0.012,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  },
-  {
-   "local": "Alcione",
-   "visitante": "Ospitaletto",
-   "inicio": "2026-11-22T14:30",
-   "texto": "Ambos marcan en Alcione–Ospitaletto",
-   "cuota": 1.73,
-   "justa": 1.75,
-   "ev": -0.013,
-   "fuente": "las otras casas",
-   "edad_h": 2.1
-  },
-  {
-   "local": "Ajax",
-   "visitante": "ADO Den Haag",
-   "inicio": "2026-11-22T14:30",
-   "texto": "Ambos marcan en Ajax–ADO Den Haag",
-   "cuota": 1.8,
-   "justa": 1.83,
-   "ev": -0.016,
-   "fuente": "las otras casas",
-   "edad_h": 2.1
+   "edad_h": 1.0
   },
   {
    "local": "Granada",
    "visitante": "Real Madrid W",
    "inicio": "2026-11-22T12:00",
-   "texto": "Granada marca",
-   "cuota": 1.83,
-   "justa": 1.87,
-   "ev": -0.02,
+   "texto": "Más de 1,5 goles en la 2ª parte del Granada–Real Madrid W",
+   "cuota": 1.73,
+   "justa": 1.7,
+   "ev": 0.02,
    "fuente": "las otras casas",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Vitória de Sernache",
+   "visitante": "Lusitânia Lourosa",
+   "inicio": "2026-11-22T15:00",
+   "texto": "Vitória de Sernache marca",
+   "cuota": 1.5,
+   "justa": 1.48,
+   "ev": 0.015,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
+   "local": "Vizela",
+   "visitante": "Feirense",
+   "inicio": "2026-11-22T15:00",
+   "texto": "Ambos marcan en Vizela–Feirense",
+   "cuota": 2.1,
+   "justa": 2.08,
+   "ev": 0.008,
+   "fuente": "las otras casas",
+   "edad_h": 1.0
+  },
+  {
+   "local": "PRO Vercelli",
+   "visitante": "Novara",
+   "inicio": "2026-11-22T12:30",
+   "texto": "Novara o empate",
+   "cuota": 1.44,
+   "justa": 1.43,
+   "ev": 0.007,
+   "fuente": "Pinnacle",
+   "edad_h": 0.0
+  },
+  {
+   "local": "Granada",
+   "visitante": "Real Madrid W",
+   "inicio": "2026-11-22T12:00",
+   "texto": "Real Madrid W marca 3 o más",
+   "cuota": 1.8,
+   "justa": 1.8,
+   "ev": 0.002,
+   "fuente": "Pinnacle",
    "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T02:19",
-  "revisadas": 0,
-  "mejor": null
+  "hora": "2026-11-22T08:41",
+  "revisadas": 2,
+  "mejor": {
+   "partido_id": 1647590,
+   "local": "Vianense",
+   "visitante": "Rio Ave",
+   "inicio": "2026-11-22T15:00",
+   "liga": "Taça de Portugal",
+   "mercado": "Double Chance",
+   "opcion": "Home/Draw",
+   "cuota": 2.2,
+   "justa": 1.94,
+   "ev": 0.133,
+   "fuente": "las otras casas",
+   "edad_h": 1.0,
+   "texto": "Vianense o empate"
+  }
  },
  "historial": [
   {

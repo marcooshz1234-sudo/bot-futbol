@@ -139,60 +139,44 @@
   "regla-estrella-2026-11-22-loca-th-1200-escudos": "2026-11-22T00:02",
   "redes-2026-11-22-loca-th-0040-ganaambos-threads": "2026-11-22T01:37",
   "prensa-1570455-7d56ef12": "2026-11-22T01:37",
-  "prensa-1550197-d27f8619": "2026-11-22T01:37"
+  "prensa-1550197-d27f8619": "2026-11-22T01:37",
+  "repe-2026-11-22-1570456|Total - Home|Over 0.5": "2026-11-22T08:41",
+  "prensa-1570458-ae62bc17": "2026-11-22T08:41"
  },
  "abiertos": [
-  {
-   "clave": "redes-2026-11-21-verde-auto-2026-11-21-pick-seguro-4-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (22:04): PARA DENTRO SEÑORES ✅🤑"
-  },
-  {
-   "clave": "redes-2026-11-22-loca-th-0040-ganaambos-threads",
-   "t": "⏰ No ha salido en threads (00:40): 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · error: caducado: no salió a tiempo"
-  },
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "repe-2026-11-22-1550198|Results/Both Teams Score|Away/Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1000-ganaambos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1570455|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-noche-2330-escudos, loca-th-0040-ganaambos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1550197|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1000-ganaambos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1552822|Results/Both Teams Score|Home/Yes",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1000-ganaambos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1120-escudos)"
-  },
-  {
-   "clave": "repe-2026-11-22-1570459|Player Fouls Committed|Pablo Ramon - 1",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1200-escudos, loca-th-1540-tiros)"
+   "clave": "repe-2026-11-22-1570456|Total - Home|Over 0.5",
+   "t": "🔁 22/11: el mismo pronóstico en 3 posts (escalera, pick-seguro-6, loca-th-1740-escudos)"
   },
   {
    "clave": "repe-2026-11-22-1552822|Match Winner|Home",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (pick-seguro-5, loca-th-1600-escudos, loca-th-1820-lista-gana)"
   },
   {
-   "clave": "prensa-1570455-40624e79",
-   "t": "📰 Barcelona–Villarreal: «Andreas Christensen es duda ante el Villarreal por unas molestias en el sóleo» (RPC TV) · tenemos 2 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0920-lista-corners"
+   "clave": "prensa-1570458-ae62bc17",
+   "t": "📰 Osasuna–Malaga: «Osasuna estudia las lesiones que están afectando al equipo: estos son los posibles factores» (Diario de Navarra) · tenemos 2 post(s) de este partido: loca-th-0940-empates, combi-tres"
   },
   {
    "clave": "prensa-1557473-3bbb9c27",
-   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 8 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0700-tapados, loca-th-1000-ganaambos, pick-seguro, pick-seguro-4, loca-th-1520-reto, combi-partido-1557473, estrella-1557473"
+   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 6 post(s) de este partido: loca-th-1000-ganaambos, pick-seguro, pick-seguro-4, loca-th-1520-reto, combi-partido-1557473, estrella-1557473"
   }
  ],
- "revisado": "2026-11-22T02:19",
+ "revisado": "2026-11-22T08:41",
  "historial": [
+  {
+   "hora": "2026-11-22T08:41",
+   "t": "🔁 22/11: el mismo pronóstico en 3 posts (escalera, pick-seguro-6, loca-th-1740-escudos)",
+   "k": "repe-2026-11-22-1570456|Total - Home|Over 0.5"
+  },
+  {
+   "hora": "2026-11-22T08:41",
+   "t": "📰 Osasuna–Malaga: «Osasuna estudia las lesiones que están afectando al equipo: estos son los posibles factores» (Diario de Navarra) · tenemos 2 post(s) de este partido: loca-th-0940-empates, combi-tres",
+   "k": "prensa-1570458-ae62bc17"
+  },
   {
    "hora": "2026-11-22T01:37",
    "t": "⏰ No ha salido en threads (00:40): 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · error: caducado: no salió a tiempo",
@@ -482,16 +466,6 @@
    "hora": "2026-11-21T00:10",
    "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1540-ganaambos)",
    "k": "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes"
-  },
-  {
-   "hora": "2026-11-21T00:10",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-0020-x100, loca-th-0700-tapados, loca-th-2000-tapados)",
-   "k": "repe-2026-11-21-1552826|Double Chance|Draw/Away"
-  },
-  {
-   "hora": "2026-11-21T00:10",
-   "t": "🔁 21/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1120-escudos)",
-   "k": "repe-2026-11-21-1575222|Away Player Shots|Santiago Castaneda - 1"
   }
  ]
 }

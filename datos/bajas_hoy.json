@@ -9460,12 +9460,6 @@
    },
    {
     "equipo": 415,
-    "jugador": "S. Lemkin",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 415,
     "jugador": "F. Thorvaldsen",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
@@ -9473,6 +9467,18 @@
    {
     "equipo": 415,
     "jugador": "L. Unnerstall",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   },
+   {
+    "equipo": 415,
+    "jugador": "S. Lemkin",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 195,
+    "jugador": "T. Didillon Hodl",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
    },
@@ -9487,12 +9493,6 @@
     "jugador": "A. Lachkar",
     "tipo": "Missing Fixture",
     "motivo": "Groin Injury"
-   },
-   {
-    "equipo": 195,
-    "jugador": "T. Didillon Hodl",
-    "tipo": "Questionable",
-    "motivo": "Inactive"
    }
   ],
   "1573654": [],
@@ -9543,30 +9543,6 @@
    },
    {
     "equipo": 517,
-    "jugador": "P. Mazzocchi",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 517,
-    "jugador": "A. Adorante",
-    "tipo": "Questionable",
-    "motivo": "Hernia"
-   },
-   {
-    "equipo": 517,
-    "jugador": "B. Franjic",
-    "tipo": "Questionable",
-    "motivo": "Shoulder Injury"
-   },
-   {
-    "equipo": 517,
-    "jugador": "M. Sverko",
-    "tipo": "Questionable",
-    "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 517,
     "jugador": "A. Adorante",
     "tipo": "Missing Fixture",
     "motivo": "Hernia"
@@ -9591,6 +9567,12 @@
    },
    {
     "equipo": 517,
+    "jugador": "P. Mazzocchi",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 517,
     "jugador": "M. Sverko",
     "tipo": "Missing Fixture",
     "motivo": "Hip Injury"
@@ -9609,6 +9591,12 @@
     "jugador": "A. Barnes",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "J. Beyer",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
    },
    {
     "equipo": 44,
@@ -9642,9 +9630,21 @@
    },
    {
     "equipo": 44,
+    "jugador": "S. Sambo",
+    "tipo": "Missing Fixture",
+    "motivo": "Hand Injury"
+   },
+   {
+    "equipo": 44,
     "jugador": "D. Satpaev",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 44,
+    "jugador": "M. Tresor Ndayishimiye",
+    "tipo": "Missing Fixture",
+    "motivo": "Lacking Match Fitness"
    },
    {
     "equipo": 67,
@@ -9660,20 +9660,20 @@
    },
    {
     "equipo": 67,
-    "jugador": "M. Jorgensen",
-    "tipo": "Missing Fixture",
-    "motivo": "Muscle Injury"
-   },
-   {
-    "equipo": 67,
     "jugador": "L. Miller",
     "tipo": "Missing Fixture",
     "motivo": "Achilles Tendon Injury"
    },
    {
     "equipo": 67,
+    "jugador": "M. Jorgensen",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 67,
     "jugador": "R. Morishita",
-    "tipo": "Missing Fixture",
+    "tipo": "Questionable",
     "motivo": "Ankle Injury"
    }
   ],
@@ -9817,6 +9817,12 @@
    },
    {
     "equipo": 494,
+    "jugador": "D. Alaba",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 494,
     "jugador": "N. Bertola",
     "tipo": "Missing Fixture",
     "motivo": "Thigh Injury"
@@ -9838,12 +9844,6 @@
     "jugador": "E. Ebosse",
     "tipo": "Questionable",
     "motivo": "Ankle Injury"
-   },
-   {
-    "equipo": 494,
-    "jugador": "D. Alaba",
-    "tipo": "Missing Fixture",
-    "motivo": "Calf Injury"
    }
   ],
   "1550206": [
@@ -9916,7 +9916,19 @@
    {
     "equipo": 426,
     "jugador": "M. Brouwer",
-    "tipo": "Questionable",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 426,
+    "jugador": "T. Quintero",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
+   },
+   {
+    "equipo": 426,
+    "jugador": "N. Verschuren",
+    "tipo": "Missing Fixture",
     "motivo": "Injury"
    },
    {
@@ -9933,14 +9945,20 @@
    },
    {
     "equipo": 201,
-    "jugador": "J. Zoet",
+    "jugador": "L. Schouten",
     "tipo": "Missing Fixture",
-    "motivo": "Inactive"
+    "motivo": "Injury"
    },
    {
     "equipo": 201,
-    "jugador": "L. Schouten",
-    "tipo": "Questionable",
+    "jugador": "K. Smit",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 201,
+    "jugador": "Weslley Patati",
+    "tipo": "Missing Fixture",
     "motivo": "Injury"
    }
   ],
@@ -9963,30 +9981,6 @@
    {
     "equipo": 194,
     "jugador": "V. Tsygankov",
-    "tipo": "Missing Fixture",
-    "motivo": "Inactive"
-   },
-   {
-    "equipo": 194,
-    "jugador": "J. Brandt",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 194,
-    "jugador": "A. Gaaei",
-    "tipo": "Questionable",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 198,
-    "jugador": "D. Barany",
-    "tipo": "Missing Fixture",
-    "motivo": "Injury"
-   },
-   {
-    "equipo": 198,
-    "jugador": "A. Pozo",
     "tipo": "Missing Fixture",
     "motivo": "Inactive"
    },
@@ -10526,7 +10520,7 @@
   "1570026": [],
   "1647592": []
  },
- "ultima": "2026-11-22T02:06:30.968118+01:00",
+ "ultima": "2026-11-22T08:38:32.475639+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",

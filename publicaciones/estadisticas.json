@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 02:18",
+ "actualizado": "2026-11-22 08:40",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3516,
-   "hoy": 41,
+   "seguidores": 3607,
+   "hoy": 132,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3516
+    3607
    ]
   },
   "facebook": {
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 499,
-   "hoy": 3,
+   "seguidores": 501,
+   "hoy": 5,
    "serie": [
     439,
     471,
@@ -50,17 +50,17 @@
     485,
     490,
     496,
-    499
+    501
    ]
   }
  },
- "total": 4070,
- "total_hoy": 43,
+ "total": 4163,
+ "total_hoy": 136,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "03:00",
+  "hora": "09:00",
   "dia": "2026-11-22",
-  "titulo": "Ambos marcan hoy"
+  "titulo": "La locura de x83,47"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,9 +252,9 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3516,
+   "threads": 3607,
    "facebook": 1,
-   "telegram": 499
+   "telegram": 501
   }
  },
  "tipos_instagram": {

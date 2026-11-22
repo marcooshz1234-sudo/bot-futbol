@@ -1,11 +1,72 @@
 {
  "dia": "2026-11-22",
- "generado": "2026-11-22T02:10+01:00",
+ "generado": "2026-11-22T08:40+01:00",
  "rango": [
   "2026-11-22",
   "2026-11-25"
  ],
  "combis": [
+  {
+   "liga": "LaLiga",
+   "patas": [
+    {
+     "sel": "1570459|Player Fouls Committed|Pablo Ramon - 1",
+     "texto": "Pablo Ramon: comete 1+ falta",
+     "cuota": 1.57,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 0,97 por 90' (1-1-0-1-1-1)",
+     "nota": 0.9140000000000001,
+     "equipo": "Racing Santander",
+     "lado": "L",
+     "partido": "Racing Santander–Real Sociedad",
+     "hora": "2026-11-22T16:15",
+     "logo_l": "https://media.api-sports.io/football/teams/4665.png",
+     "logo_v": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
+     "sel": "1570458|Player Fouls Committed|Abel Bretones - 1",
+     "texto": "Abel Bretones: comete 1+ falta",
+     "cuota": 1.44,
+     "p": 0.88,
+     "dato": "cumple 6/6 siendo titular · 1,17 por 90' (1-1-1-1-2-1)",
+     "nota": 1.0015999999999998,
+     "equipo": "Osasuna",
+     "lado": "L",
+     "partido": "Osasuna–Malaga",
+     "hora": "2026-11-22T18:30",
+     "logo_l": "https://media.api-sports.io/football/teams/727.png",
+     "logo_v": "https://media.api-sports.io/football/teams/535.png"
+    },
+    {
+     "sel": "1570456|Home Player Shots|Martin Satriano - 2",
+     "texto": "Martin Satriano: 2+ remates",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,46 por 90' (2-2-3-1-3-3)",
+     "nota": 0.934,
+     "equipo": "Getafe",
+     "lado": "L",
+     "partido": "Getafe–Atletico Madrid",
+     "hora": "2026-11-22T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/546.png",
+     "logo_v": "https://media.api-sports.io/football/teams/530.png"
+    },
+    {
+     "sel": "1570457|Both Teams Score|Yes",
+     "texto": "Ambos marcan",
+     "cuota": 1.57,
+     "p": 0.723,
+     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
+     "nota": 0.7761154352525691,
+     "partido": "Levante–Elche",
+     "hora": "2026-11-23T21:00",
+     "logo_l": "https://media.api-sports.io/football/teams/539.png",
+     "logo_v": "https://media.api-sports.io/football/teams/797.png"
+    }
+   ],
+   "cuota": 5.93,
+   "media": 0.9064288588131423
+  },
   {
    "liga": "Serie A",
    "patas": [
@@ -24,20 +85,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
     },
     {
-     "sel": "1550206|Home Player Shots|Darryl Bakola - 1",
-     "texto": "Darryl Bakola: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,02 por 90' (2-1-0-1-1-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "Sassuolo",
-     "lado": "L",
-     "partido": "Sassuolo–Genoa",
-     "hora": "2026-11-22T15:00",
-     "logo_l": "https://media.api-sports.io/football/teams/488.png",
-     "logo_v": "https://media.api-sports.io/football/teams/495.png"
-    },
-    {
      "sel": "1550199|Total - Away|Over 0.5",
      "texto": "Udinese marca",
      "cuota": 1.53,
@@ -48,6 +95,20 @@
      "hora": "2026-11-22T15:00",
      "logo_l": "https://media.api-sports.io/football/teams/500.png",
      "logo_v": "https://media.api-sports.io/football/teams/494.png"
+    },
+    {
+     "sel": "1550206|Player Fouls Committed|Junior Messias - 1",
+     "texto": "Junior Messias: comete 1+ falta",
+     "cuota": 1.67,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,43 por 90' (2-2-0-1-1)",
+     "nota": 0.8684642857142858,
+     "equipo": "Genoa",
+     "lado": "V",
+     "partido": "Sassuolo–Genoa",
+     "hora": "2026-11-22T15:00",
+     "logo_l": "https://media.api-sports.io/football/teams/488.png",
+     "logo_v": "https://media.api-sports.io/football/teams/495.png"
     },
     {
      "sel": "1550197|Away Corners Over/Under|Over 3.5",
@@ -90,8 +151,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     }
    ],
-   "cuota": 11.82,
-   "media": 0.9430896844370548
+   "cuota": 12.9,
+   "media": 0.9368337320561024
   },
   {
    "liga": "Champions League",
@@ -223,40 +284,6 @@
    "cuota": 2.07
   },
   {
-   "equipo": "Atletico Madrid",
-   "liga": "LaLiga",
-   "partido": "Getafe–Atletico Madrid",
-   "hora": "2026-11-22T21:00",
-   "logo": "https://media.api-sports.io/football/teams/530.png",
-   "patas": [
-    {
-     "sel": "1570456|Away Player Shots|David Hancko - 1",
-     "texto": "David Hancko: 1+ remate",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-1-1-2-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atletico Madrid",
-     "lado": "V",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00"
-    },
-    {
-     "sel": "1570456|Player Fouls Committed|Robin Le Normand - 1",
-     "texto": "Robin Le Normand: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,32 por 90' (1-1-0-1-3)",
-     "nota": 0.8025714285714286,
-     "equipo": "Atletico Madrid",
-     "lado": "V",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00"
-    }
-   ],
-   "cuota": 2.16
-  },
-  {
    "equipo": "Brentford",
    "liga": "Premier League",
    "partido": "Brentford–Everton",
@@ -310,11 +337,11 @@
      "hora": "2026-11-22T12:30"
     },
     {
-     "sel": "1550201|Player Fouls Committed|Bremer - 1",
-     "texto": "Bremer: comete 1+ falta",
+     "sel": "1550201|Home Player Shots|Bremer - 1",
+     "texto": "Bremer: 1+ remate",
      "cuota": 1.44,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (1-1-0-1-2-2)",
+     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-0-1-2-2-1)",
      "nota": 0.864,
      "equipo": "Juventus",
      "lado": "L",
@@ -323,50 +350,6 @@
     }
    ],
    "cuota": 2.02
-  },
-  {
-   "equipo": "Venezia",
-   "liga": "Serie A",
-   "partido": "Juventus–Venezia",
-   "hora": "2026-11-22T12:30",
-   "logo": "https://media.api-sports.io/football/teams/517.png",
-   "patas": [
-    {
-     "sel": "1550201|Away Player Shots|Akor Adams - 2",
-     "texto": "Akor Adams: 2+ remates",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,45 por 90' (1-2-3-5-2-6)",
-     "nota": 0.9000000000000001,
-     "equipo": "Venezia",
-     "lado": "V",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30"
-    },
-    {
-     "sel": "1550201|Away Player Shots|John Yeboah - 2",
-     "texto": "John Yeboah: 2+ remates",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,20 por 90' (2-2-2-1-3-2)",
-     "nota": 0.864,
-     "equipo": "Venezia",
-     "lado": "V",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30"
-    },
-    {
-     "sel": "1550201|Away Corners Over/Under|Over 2.5",
-     "texto": "Venezia: más de 2,5 córners",
-     "cuota": 1.62,
-     "p": 0.747,
-     "dato": "Venezia saca 4,2 córners y el rival concede 3,6",
-     "nota": 0.8278435642400913,
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30"
-    }
-   ],
-   "cuota": 3.5
   },
   {
    "equipo": "Frosinone",
@@ -1120,10 +1103,10 @@
     {
      "sel": "1635649|Match Winner|Home",
      "texto": "Gana Como",
-     "cuota": 1.3,
-     "p": 0.785,
+     "cuota": 1.27,
+     "p": 0.791,
      "dato": "Como: VVVVE en sus últimos 5 · en casa",
-     "nota": 0.7953214510341599,
+     "nota": 0.7934488905162509,
      "lado": "L",
      "ganador": true,
      "partido": "Como–AEK Athens FC",
@@ -1135,10 +1118,10 @@
     {
      "sel": "1635713|Match Winner|Home",
      "texto": "Gana RB Leipzig",
-     "cuota": 1.45,
-     "p": 0.74,
+     "cuota": 1.42,
+     "p": 0.745,
      "dato": "RB Leipzig: VDVVV en sus últimos 5 · en casa",
-     "nota": 0.7765114904064293,
+     "nota": 0.7737163929182151,
      "lado": "L",
      "ganador": true,
      "partido": "RB Leipzig–Lens",
@@ -1193,8 +1176,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/172.png"
     }
    ],
-   "cuota": 7.17,
-   "prob": 0.133
+   "cuota": 6.86,
+   "prob": 0.134
   },
   {
    "clave": "ganan-larga",
@@ -1220,10 +1203,10 @@
     {
      "sel": "1635649|Match Winner|Home",
      "texto": "Gana Como",
-     "cuota": 1.3,
-     "p": 0.785,
+     "cuota": 1.27,
+     "p": 0.791,
      "dato": "Como: VVVVE en sus últimos 5 · en casa",
-     "nota": 0.7953214510341599,
+     "nota": 0.7934488905162509,
      "lado": "L",
      "ganador": true,
      "partido": "Como–AEK Athens FC",
@@ -1235,10 +1218,10 @@
     {
      "sel": "1635713|Match Winner|Home",
      "texto": "Gana RB Leipzig",
-     "cuota": 1.45,
-     "p": 0.74,
+     "cuota": 1.42,
+     "p": 0.745,
      "dato": "RB Leipzig: VDVVV en sus últimos 5 · en casa",
-     "nota": 0.7765114904064293,
+     "nota": 0.7737163929182151,
      "lado": "L",
      "ganador": true,
      "partido": "RB Leipzig–Lens",
@@ -1323,8 +1306,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 17.23,
-   "prob": 0.048
+   "cuota": 16.49,
+   "prob": 0.049
   },
   {
    "clave": "top",
@@ -1332,21 +1315,6 @@
    "expl": "Solo partidos de los grandes",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1550201|Away Player Shots|Akor Adams - 2",
-     "texto": "Akor Adams: 2+ remates",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 3,45 por 90' (1-2-3-5-2-6)",
-     "nota": 0.9000000000000001,
-     "equipo": "Venezia",
-     "lado": "V",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/496.png",
-     "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
     {
      "sel": "1550197|Player Fouls Committed|Strahinja Pavlovic - 1",
      "texto": "Strahinja Pavlovic: comete 1+ falta",
@@ -1361,6 +1329,21 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/489.png",
      "logo_v": "https://media.api-sports.io/football/teams/512.png"
+    },
+    {
+     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
+     "texto": "Eljif Elmas: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
+     "nota": 0.9000000000000001,
+     "equipo": "Atalanta",
+     "lado": "L",
+     "partido": "Atalanta–Inter",
+     "hora": "2026-11-22T20:45",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/499.png",
+     "logo_v": "https://media.api-sports.io/football/teams/505.png"
     },
     {
      "sel": "1635611|Away Player Shots|Serhou Guirassy - 2",
@@ -1403,36 +1386,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550201|Player Fouls Committed|Bremer - 1",
-     "texto": "Bremer: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,17 por 90' (1-1-0-1-2-2)",
-     "nota": 0.864,
-     "equipo": "Juventus",
-     "lado": "L",
-     "partido": "Juventus–Venezia",
-     "hora": "2026-11-22T12:30",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/496.png",
-     "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-     "sel": "1557472|Player Fouls Committed|Mohamed Belloumi - 1",
-     "texto": "Mohamed Belloumi: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,48 por 90' (2-1-0-1-3-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Hull City",
-     "lado": "L",
-     "partido": "Hull City–Brighton",
-     "hora": "2026-11-22T15:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/64.png",
-     "logo_v": "https://media.api-sports.io/football/teams/51.png"
-    },
-    {
      "sel": "1550206|Player Fouls Committed|Junior Messias - 1",
      "texto": "Junior Messias: comete 1+ falta",
      "cuota": 1.67,
@@ -1446,6 +1399,36 @@
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/488.png",
      "logo_v": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+     "sel": "1557472|Player Fouls Committed|Mohamed Belloumi - 1",
+     "texto": "Mohamed Belloumi: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,48 por 90' (2-1-0-1-3-1)",
+     "nota": 0.84,
+     "equipo": "Hull City",
+     "lado": "L",
+     "partido": "Hull City–Brighton",
+     "hora": "2026-11-22T15:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/64.png",
+     "logo_v": "https://media.api-sports.io/football/teams/51.png"
+    },
+    {
+     "sel": "1570459|Player Fouls Committed|Pablo Ramon - 1",
+     "texto": "Pablo Ramon: comete 1+ falta",
+     "cuota": 1.57,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 0,97 por 90' (1-1-0-1-1-1)",
+     "nota": 0.9140000000000001,
+     "equipo": "Racing Santander",
+     "lado": "L",
+     "partido": "Racing Santander–Real Sociedad",
+     "hora": "2026-11-22T16:15",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/4665.png",
+     "logo_v": "https://media.api-sports.io/football/teams/548.png"
     },
     {
      "sel": "1550197|Player Fouls Committed|Patrizio Masini - 2",
@@ -1463,11 +1446,11 @@
      "logo_v": "https://media.api-sports.io/football/teams/512.png"
     },
     {
-     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
-     "texto": "Eljif Elmas: comete 1+ falta",
+     "sel": "1550198|Player Fouls Committed|Gianluca Gaetano - 1",
+     "texto": "Gianluca Gaetano: comete 1+ falta",
      "cuota": 1.5,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
+     "dato": "cumple 5/6 siendo titular · 1,36 por 90' (1-1-2-2-2-0)",
      "nota": 0.9000000000000001,
      "equipo": "Atalanta",
      "lado": "L",
@@ -1478,7 +1461,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/505.png"
     }
    ],
-   "cuota": 8.49,
+   "cuota": 8.64,
    "prob": 0.299
   },
   {
@@ -1488,34 +1471,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550201|Away Player Shots|John Yeboah - 2",
-     "texto": "John Yeboah: 2+ remates",
+     "sel": "1550201|Home Player Shots|Bremer - 1",
+     "texto": "Bremer: 1+ remate",
      "cuota": 1.44,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,20 por 90' (2-2-2-1-3-2)",
+     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-0-1-2-2-1)",
      "nota": 0.864,
-     "equipo": "Venezia",
-     "lado": "V",
+     "equipo": "Juventus",
+     "lado": "L",
      "partido": "Juventus–Venezia",
      "hora": "2026-11-22T12:30",
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/496.png",
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
-    },
-    {
-     "sel": "1550206|Home Player Shots|Darryl Bakola - 1",
-     "texto": "Darryl Bakola: 1+ remate",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,02 por 90' (2-1-0-1-1-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "Sassuolo",
-     "lado": "L",
-     "partido": "Sassuolo–Genoa",
-     "hora": "2026-11-22T15:00",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/488.png",
-     "logo_v": "https://media.api-sports.io/football/teams/495.png"
     },
     {
      "sel": "1557472|Home Player Shots|Mohamed Belloumi - 2",
@@ -1548,6 +1516,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/164.png"
     },
     {
+     "sel": "1550198|Home Player Shots|Nikola Krstovic - 3",
+     "texto": "Nikola Krstovic: 3+ remates",
+     "cuota": 1.44,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 4,35 por 90' (6-4-3-2-6-4)",
+     "nota": 0.864,
+     "equipo": "Atalanta",
+     "lado": "L",
+     "partido": "Atalanta–Inter",
+     "hora": "2026-11-22T20:45",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/499.png",
+     "logo_v": "https://media.api-sports.io/football/teams/505.png"
+    },
+    {
      "sel": "1570456|Away Player Shots|David Hancko - 1",
      "texto": "David Hancko: 1+ remate",
      "cuota": 1.5,
@@ -1563,7 +1546,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/530.png"
     }
    ],
-   "cuota": 8.03,
+   "cuota": 7.56,
    "prob": 0.328
   },
   {
@@ -1648,19 +1631,32 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550201|Home Player Shots|Bremer - 1",
-     "texto": "Bremer: 1+ remate",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-0-1-2-2-1)",
-     "nota": 0.84,
-     "equipo": "Juventus",
-     "lado": "L",
+     "sel": "1550201|Away Corners Over/Under|Over 2.5",
+     "texto": "Venezia: más de 2,5 córners",
+     "cuota": 1.62,
+     "p": 0.747,
+     "dato": "Venezia saca 4,2 córners y el rival concede 3,6",
+     "nota": 0.8278435642400913,
      "partido": "Juventus–Venezia",
      "hora": "2026-11-22T12:30",
      "liga": "Serie A",
      "logo_l": "https://media.api-sports.io/football/teams/496.png",
      "logo_v": "https://media.api-sports.io/football/teams/517.png"
+    },
+    {
+     "sel": "1550206|Home Player Shots|Darryl Bakola - 1",
+     "texto": "Darryl Bakola: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,02 por 90' (2-1-0-1-1-1)",
+     "nota": 0.84,
+     "equipo": "Sassuolo",
+     "lado": "L",
+     "partido": "Sassuolo–Genoa",
+     "hora": "2026-11-22T15:00",
+     "liga": "Serie A",
+     "logo_l": "https://media.api-sports.io/football/teams/488.png",
+     "logo_v": "https://media.api-sports.io/football/teams/495.png"
     },
     {
      "sel": "1575224|Away Corners Over/Under|Over 4.5",
@@ -1719,36 +1715,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/512.png"
     },
     {
-     "sel": "1550198|Player Fouls Committed|Gianluca Gaetano - 1",
-     "texto": "Gianluca Gaetano: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,36 por 90' (1-1-2-2-2-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atalanta",
-     "lado": "L",
-     "partido": "Atalanta–Inter",
-     "hora": "2026-11-22T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/499.png",
-     "logo_v": "https://media.api-sports.io/football/teams/505.png"
-    },
-    {
-     "sel": "1570456|Player Fouls Committed|Robin Le Normand - 1",
-     "texto": "Robin Le Normand: comete 1+ falta",
-     "cuota": 1.44,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,32 por 90' (1-1-0-1-3)",
-     "nota": 0.8025714285714286,
-     "equipo": "Atletico Madrid",
-     "lado": "V",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/546.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
-    },
-    {
      "sel": "1557469|Player Fouls Committed|Vitaly Janelt - 1",
      "texto": "Vitaly Janelt: comete 1+ falta",
      "cuota": 1.4,
@@ -1779,6 +1745,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
+     "sel": "1635663|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.62,
+     "p": 0.689,
+     "dato": "más de 2,5 goles en el 75% y el 71% de sus partidos",
+     "nota": 0.7238683687349731,
+     "partido": "Feyenoord–FC Porto",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/209.png",
+     "logo_v": "https://media.api-sports.io/football/teams/212.png"
+    },
+    {
      "sel": "1635682|Home Player Shots|Ayase Ueda - 3",
      "texto": "Ayase Ueda: 3+ remates",
      "cuota": 1.57,
@@ -1794,8 +1773,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 47.93,
-   "prob": 0.073
+   "cuota": 58.24,
+   "prob": 0.062
   }
  ],
  "otras_ligas": false,

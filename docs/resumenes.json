@@ -3283,14 +3283,14 @@
   },
   "2026-11-22": {
     "dia": "2026-11-22",
-    "total": 5,
+    "total": 6,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 5,
+      "pendiente": 6,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 5
+      "sin_resolver": 6
     },
     "combis": [
       {
@@ -3322,13 +3322,19 @@
         "titulo": "🏆 PARTIDOS DE HOY - GANADORES",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-22-loca-th-0800-escudos",
+        "titulo": "🔥 COMBI JUVENTUS – VENEZIA 🔥",
+        "estado": "pendiente",
+        "cuota": 9.52
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 17
+      "total": 20
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 5 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 0 DE 0 EN VERDE 📊\n\n⏳ 🏆 LALIGA - GANADORES · pendiente\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n⏳ 🏆 SERIE A - GANADORES · pendiente\n⏳ 🏆 PARTIDOS DE HOY - GANADORES · pendiente\n⏳ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 6 sin resolver"
   }
 }

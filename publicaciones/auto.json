@@ -11359,7 +11359,7 @@
       1.91,
       1.95,
       2.0,
-      1.83,
+      1.91,
       2.0,
       2.0
     ],
@@ -11372,7 +11372,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-22T08:37"
   },
   {
     "id": "2026-11-22-loca-th-0920-lista-corners",
@@ -11390,7 +11391,7 @@
     "cuotas": [
       1.62,
       1.73,
-      1.57,
+      1.53,
       1.67,
       1.62,
       1.4,
@@ -11405,7 +11406,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-22T08:37"
   },
   {
     "id": "2026-11-22-loca-th-0940-empates",
@@ -11419,7 +11421,7 @@
     "cuotas": [
       3.3,
       3.5,
-      3.6
+      3.7
     ],
     "solo_en": [
       "threads"
@@ -11430,7 +11432,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-22T08:37"
   },
   {
     "id": "2026-11-22-loca-th-1000-ganaambos",
@@ -11443,7 +11446,7 @@
       "1552822|Results/Both Teams Score|Home/Yes"
     ],
     "cuotas": [
-      2.88,
+      3.0,
       2.5,
       2.62,
       2.75
@@ -11495,7 +11498,8 @@
         }
       ],
       "lema": null
-    }
+    },
+    "cuotas_revisadas": "2026-11-22T08:37"
   },
   {
     "id": "2026-11-22-pick-seguro",
