@@ -14384,7 +14384,7 @@
       "1550203|Away Player Shots|Beto - 3"
     ],
     "cuotas": [
-      1.5,
+      1.53,
       1.4
     ],
     "origen": "threads_locas",
@@ -14396,7 +14396,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-22T20:31"
   },
   {
     "id": "2026-11-23-loca-th-noche-2230-lista-corners",
