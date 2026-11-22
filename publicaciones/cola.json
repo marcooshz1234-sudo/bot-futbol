@@ -215,6 +215,8 @@
       "telegram"
     ],
     "requiere_ok": true,
-    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
+    "enviado": "2026-11-22T23:36",
+    "mensaje_id": 595
   }
 ]
