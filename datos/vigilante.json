@@ -201,10 +201,6 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-alineaciones_espera-2026112220",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 6 veces en la última hora"
-  },
-  {
    "clave": "bucle-publicar_telegram-2026112220",
    "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
   },
@@ -213,7 +209,7 @@
    "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T20:23",
+ "revisado": "2026-11-22T20:36",
  "historial": [
   {
    "hora": "2026-11-22T20:23",
