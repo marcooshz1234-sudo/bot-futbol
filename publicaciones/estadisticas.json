@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 16:50",
+ "actualizado": "2026-11-22 17:01",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -58,9 +58,9 @@
  "total_hoy": 199,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "16:55",
+  "hora": "17:20",
   "dia": "2026-11-22",
-  "titulo": "Hoy hay partidazo liverpool manchester"
+  "titulo": "Combi atalanta – inter"
  },
  "ayer": {
   "aciertos": 12,
@@ -258,17 +258,17 @@
   }
  },
  "tipos_instagram": {
+  "Combi de partido (reel)": {
+   "posts": 3,
+   "likes_media": 0.0,
+   "comentarios_media": 0.0
+  },
   "Otros (reel)": {
-   "posts": 48,
+   "posts": 47,
    "likes_media": 0.0,
    "comentarios_media": 0.0
   },
   "Combi loca (reel)": {
-   "posts": 2,
-   "likes_media": 0.0,
-   "comentarios_media": 0.0
-  },
-  "Combi de partido (reel)": {
    "posts": 2,
    "likes_media": 0.0,
    "comentarios_media": 0.0

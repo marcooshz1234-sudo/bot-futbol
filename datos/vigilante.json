@@ -154,17 +154,12 @@
   "redes-2026-11-22-combi-partido-1557473-threads-instagram": "2026-11-22T16:51",
   "prensa-1557473-BrunoFernandes": "2026-11-22T16:51",
   "prensa-1570456-3e28c7ef": "2026-11-22T16:51",
-  "bucle-alineaciones_espera-2026112216": "2026-11-22T16:51"
+  "bucle-alineaciones_espera-2026112216": "2026-11-22T16:51",
+  "bucle-cuotas_frescas-2026112217": "2026-11-22T17:01",
+  "bucle-alineaciones_posts-2026112217": "2026-11-22T17:01",
+  "bucle-alineaciones_espera-2026112217": "2026-11-22T17:01"
  },
  "abiertos": [
-  {
-   "clave": "redes-2026-11-22-escalera-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (11:00): 🪜 Reto escalera · Día 2/7"
-  },
-  {
-   "clave": "redes-2026-11-22-loca-th-1100-escudos-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (11:00): ⚡ COMBI HULL CITY – BRIGHTON ⚡"
-  },
   {
    "clave": "redes-2026-11-22-loca-th-1120-escudos-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (11:20): ⚡ COMBI SASSUOLO – GENOA ⚡"
@@ -206,14 +201,6 @@
    "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "prensa-1557473-BrunoFernandes",
-   "t": "📰 Liverpool–Manchester United: «Bruno Fernandes hace saltar todas las alarmas en el Manchester United» (Fichajes.com) · tenemos 1 post(s) de este partido: estrella-1557473"
-  },
-  {
-   "clave": "prensa-1570456-3e28c7ef",
-   "t": "📰 Getafe–Atletico Madrid: «Boselli, baja en la convocatoria del Getafe CF por lesión» (Jornada Perfecta) · tenemos 5 post(s) de este partido: loca-th-1740-escudos, loca-th-1820-lista-gana, loca-th-1900-tapados, loca-th-1920-lista-corners, loca-th-1940-x500"
-  },
-  {
    "clave": "regla-cuota-2026-11-23-semana-europa",
    "t": "📏 Regla (cuota): una pata a 1.07 (mínimo 1.20 por pata) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
@@ -226,12 +213,35 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-alineaciones_espera-2026112216",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 3 veces en la última hora"
+   "clave": "bucle-cuotas_frescas-2026112217",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 3 veces en la última hora"
+  },
+  {
+   "clave": "bucle-alineaciones_posts-2026112217",
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 3 veces en la última hora"
+  },
+  {
+   "clave": "bucle-alineaciones_espera-2026112217",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 10 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T16:51",
+ "revisado": "2026-11-22T17:01",
  "historial": [
+  {
+   "hora": "2026-11-22T17:01",
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 3 veces en la última hora",
+   "k": "bucle-cuotas_frescas-2026112217"
+  },
+  {
+   "hora": "2026-11-22T17:01",
+   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 3 veces en la última hora",
+   "k": "bucle-alineaciones_posts-2026112217"
+  },
+  {
+   "hora": "2026-11-22T17:01",
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 10 veces en la última hora",
+   "k": "bucle-alineaciones_espera-2026112217"
+  },
   {
    "hora": "2026-11-22T16:51",
    "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del domingo familia 🔥",
@@ -516,21 +526,6 @@
    "hora": "2026-11-21T15:11",
    "t": "⏰ No ha salido en threads ni instagram (14:40): 🚨 COMBI FEYENOORD – EXCELSIOR 🚨",
    "k": "redes-2026-11-21-loca-th-1440-escudos-threads-instagram"
-  },
-  {
-   "hora": "2026-11-21T14:49",
-   "t": "📰 Rayo Vallecano–Valencia: «Hasta los lesionados por la salvación: el Valencia CF viaja a Vallecas con 29 hombres y un mensaje de unión» (El Desmarque) · tenemos 1 post(s) de este partido: loca-th-1600-reto",
-   "k": "prensa-1570460-1392d98a"
-  },
-  {
-   "hora": "2026-11-21T14:49",
-   "t": "📰 Liverpool–Manchester United: «Liverpool o Manchester United: la primera venta del Barça en el mercado de invierno jugará en la Premier Leagu» (Crónica Global) · tenemos 6 post(s) de este partido: ganadores-resto, pick-seguro, pick-seguro-3, combi-tres, combi-partido-1557473, estrella-1557473",
-   "k": "prensa-1557473-3bbb9c27"
-  },
-  {
-   "hora": "2026-11-21T14:49",
-   "t": "📰 FC Augsburg–FSV Mainz 05: «Catastrófico empate para el Bayern Munich: Kane y Olise lesionados y sin el liderato en sus manos» (Telemundo) · tenemos 2 post(s) de este partido: pick-seguro-4, combi-partido-1575224",
-   "k": "prensa-1575224-MOlise"
   }
  ]
 }
