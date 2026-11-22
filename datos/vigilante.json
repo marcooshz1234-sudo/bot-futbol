@@ -167,25 +167,11 @@
   "foto-2026-11-22-noche-atleti": "2026-11-22T20:12",
   "cuotas-2026-11-22-noche-atleti": "2026-11-22T20:12",
   "redes-2026-11-22-pick-seguro-5-threads-instagram": "2026-11-22T20:12",
-  "repe-2026-11-22-1570456|Match Winner|Away": "2026-11-22T20:12"
+  "repe-2026-11-22-1570456|Match Winner|Away": "2026-11-22T20:12",
+  "bucle-publicar_telegram-2026112220": "2026-11-22T20:23",
+  "bucle-redes-2026112220": "2026-11-22T20:23"
  },
  "abiertos": [
-  {
-   "clave": "foto-2026-11-22-noche-atalanta",
-   "t": "🖼️ Sale a las 20:17 y su foto no está hecha (o es vieja): Vamos con otro pick 🍀"
-  },
-  {
-   "clave": "cuotas-2026-11-22-noche-atalanta",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick 🍀"
-  },
-  {
-   "clave": "foto-2026-11-22-noche-atleti",
-   "t": "🖼️ Sale a las 20:27 y su foto no está hecha (o es vieja): Cerramos el domingo con este 🔥"
-  },
-  {
-   "clave": "cuotas-2026-11-22-noche-atleti",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Cerramos el domingo con este 🔥"
-  },
   {
    "clave": "redes-2026-11-22-pick-seguro-5-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (15:00): Vamos con otro pick 🍀"
@@ -197,10 +183,6 @@
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.07 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
-  },
-  {
-   "clave": "repe-2026-11-22-1570456|Match Winner|Away",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (noche-atleti, loca-th-1740-escudos, loca-th-1820-lista-gana)"
   },
   {
    "clave": "repe-2026-11-22-1552822|Match Winner|Home",
@@ -219,20 +201,30 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
   {
-   "clave": "bucle-alineaciones_posts-2026112220",
-   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 4 veces en la última hora"
-  },
-  {
    "clave": "bucle-alineaciones_espera-2026112220",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 13 veces en la última hora"
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 6 veces en la última hora"
   },
   {
-   "clave": "bucle-cuotas_frescas-2026112220",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 3 veces en la última hora"
+   "clave": "bucle-publicar_telegram-2026112220",
+   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora"
+  },
+  {
+   "clave": "bucle-redes-2026112220",
+   "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T20:12",
+ "revisado": "2026-11-22T20:23",
  "historial": [
+  {
+   "hora": "2026-11-22T20:23",
+   "t": "🔧 El paso «publicar_telegram» del bot ha fallado 3 veces en la última hora",
+   "k": "bucle-publicar_telegram-2026112220"
+  },
+  {
+   "hora": "2026-11-22T20:23",
+   "t": "🔧 El paso «redes» del bot ha fallado 3 veces en la última hora",
+   "k": "bucle-redes-2026112220"
+  },
   {
    "hora": "2026-11-22T20:12",
    "t": "🖼️ Sale a las 20:17 y su foto no está hecha (o es vieja): Vamos con otro pick 🍀",
@@ -522,16 +514,6 @@
    "hora": "2026-11-22T00:02",
    "t": "📏 Regla (estrella): To Win Either Half|Away: a ese equipo le falta su estrella · «💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥» (12:00)",
    "k": "regla-estrella-2026-11-22-loca-th-1200-escudos"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "📏 Regla (estrella): Total - Away|Over 1.5: a ese equipo le falta su estrella · «💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥» (12:00)",
-   "k": "regla-estrella-2026-11-22-loca-th-1200-escudos"
-  },
-  {
-   "hora": "2026-11-21T23:51",
-   "t": "⏰ No ha salido en threads ni instagram (22:04): PARA DENTRO SEÑORES ✅🤑",
-   "k": "redes-2026-11-21-verde-auto-2026-11-21-pick-seguro-4-threads-instagram"
   }
  ]
 }
