@@ -10449,6 +10449,12 @@
     "motivo": "Knee Injury"
    },
    {
+    "equipo": 81,
+    "jugador": "P. Hojbjerg",
+    "tipo": "Questionable",
+    "motivo": "Illness"
+   },
+   {
     "equipo": 1298,
     "jugador": "A. Bourabaa",
     "tipo": "Missing Fixture",
@@ -10459,12 +10465,6 @@
     "jugador": "D. Sidibe",
     "tipo": "Missing Fixture",
     "motivo": "Foot Injury"
-   },
-   {
-    "equipo": 1298,
-    "jugador": "E. Colas",
-    "tipo": "Questionable",
-    "motivo": "Back Injury"
    }
   ],
   "1570456": [
@@ -10506,9 +10506,121 @@
    }
   ],
   "1570026": [],
-  "1647592": []
+  "1647592": [],
+  "1565309": [],
+  "1550203": [
+   {
+    "equipo": 1579,
+    "jugador": "S. Birindelli",
+    "tipo": "Missing Fixture",
+    "motivo": "Leg Injury"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "Y. Maye",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1579,
+    "jugador": "J. Robinson",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 502,
+    "jugador": "F. Parisi",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 502,
+    "jugador": "M. Pongracic",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 502,
+    "jugador": "R. Sottil",
+    "tipo": "Missing Fixture",
+    "motivo": "Back Injury"
+   }
+  ],
+  "1570457": [
+   {
+    "equipo": 539,
+    "jugador": "H. Nakoha",
+    "tipo": "Questionable",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 797,
+    "jugador": "M. Aguado",
+    "tipo": "Missing Fixture",
+    "motivo": "Ankle Injury"
+   },
+   {
+    "equipo": 797,
+    "jugador": "A. Boayar",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 797,
+    "jugador": "Y. Santiago",
+    "tipo": "Missing Fixture",
+    "motivo": "Inactive"
+   }
+  ],
+  "1573653": [],
+  "1557469": [
+   {
+    "equipo": 55,
+    "jugador": "N. Collins",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "J. Dasilva",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "K. Furo",
+    "tipo": "Missing Fixture",
+    "motivo": "Surgery"
+   },
+   {
+    "equipo": 55,
+    "jugador": "R. Henry",
+    "tipo": "Missing Fixture",
+    "motivo": "Hip Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "A. Hickey",
+    "tipo": "Missing Fixture",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 55,
+    "jugador": "I. Thiago",
+    "tipo": "Missing Fixture",
+    "motivo": "Red Card"
+   },
+   {
+    "equipo": 55,
+    "jugador": "F. Carvalho",
+    "tipo": "Questionable",
+    "motivo": "Muscle Injury"
+   }
+  ],
+  "1608377": [],
+  "1570029": []
  },
- "ultima": "2026-11-22T19:29:58.248935+01:00",
+ "ultima": "2026-11-22T20:04:39.658264+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
