@@ -215,3 +215,4 @@
 - 21/11 Telegram: los días que juegan las 5 grandes ligas, SOLO contenido de ellas (nada de Eredivisie, Championship, Segunda, Portugal…), y mayormente LaLiga.
 - 22/11 App, combis: cada día «Todo el día» (todos los partidos) y dos más (A y B) de @30-40 con patas de @1,40-1,60.
 - 22/11 API-Football: avisar a Marcos ANTES de que caduque la suscripción (3 días antes, al móvil) y en cuanto pase al plan gratis.
+- 22/11 Combi de @10 o más acertada (Threads o Telegram) → post de «combi acertada» en Telegram y FIJADO en el canal.
