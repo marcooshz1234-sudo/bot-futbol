@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 01:47",
+ "actualizado": "2026-11-22 01:58",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3504,
-   "hoy": 29,
+   "seguidores": 3511,
+   "hoy": 36,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3504
+    3511
    ]
   },
   "facebook": {
@@ -54,8 +54,8 @@
    ]
   }
  },
- "total": 4059,
- "total_hoy": 32,
+ "total": 4066,
+ "total_hoy": 39,
  "likes_hoy": 0,
  "proximo": {
   "hora": "02:00",
@@ -252,7 +252,7 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3504,
+   "threads": 3511,
    "facebook": 1,
    "telegram": 500
   }

@@ -53,7 +53,7 @@
    "justa": 1.56,
    "ev": 0.009,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.8
   },
   {
    "local": "Barcelona",
@@ -64,7 +64,7 @@
    "justa": 2.22,
    "ev": -0.009,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.8
   },
   {
    "local": "Alcione",
@@ -75,7 +75,7 @@
    "justa": 1.75,
    "ev": -0.013,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.8
   },
   {
    "local": "Granada",
@@ -86,7 +86,7 @@
    "justa": 1.86,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 0.0
+   "edad_h": 0.3
   },
   {
    "local": "Barcelona",
@@ -97,7 +97,7 @@
    "justa": 2.13,
    "ev": -0.015,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.8
   },
   {
    "local": "Ajax",
@@ -108,11 +108,11 @@
    "justa": 1.83,
    "ev": -0.016,
    "fuente": "las otras casas",
-   "edad_h": 1.4
+   "edad_h": 1.8
   }
  ],
  "ultima": {
-  "hora": "2026-11-22T01:37",
+  "hora": "2026-11-22T01:58",
   "revisadas": 0,
   "mejor": null
  },
