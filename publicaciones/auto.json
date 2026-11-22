@@ -14061,5 +14061,331 @@
     "cuotas": [
       1.67
     ]
+  },
+  {
+    "id": "2026-11-23-loca-th-0030-ganaambos",
+    "fecha": "2026-11-23T00:30",
+    "texto": "👑⚽ GANA Y AMBOS MARCAN 👑⚽\n\n🇮🇹 Monza – Fiorentina · 20:45\n✅ ↔️ Gana Fiorentina y ambos marcan\n\n🇪🇸 Levante – Elche · 21:00\n✅ ↔️ Gana Levante y ambos marcan\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00\n✅ ↔️ Gana Brentford y ambos marcan\n\n🎯 CUOTA 55,21 💎 · 10€ → 552€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1550203|Results/Both Teams Score|Away/Yes",
+      "1557469|Results/Both Teams Score|Home/Yes",
+      "1570457|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      3.4,
+      4.33,
+      3.75
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 55.21,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/502.png",
+          "nombre": "Fiorentina",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/55.png",
+          "nombre": "Brentford",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
+          "nombre": "Levante",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-23-loca-th-0100-lista-ambos",
+    "fecha": "2026-11-23T01:00",
+    "texto": "⚽ AMBOS MARCAN HOY ⚽\n\n1. 🇮🇹 Monza–Fiorentina ➜ Ambos marcan @1,50\n2. 🇪🇸 Levante–Elche ➜ Ambos marcan @1,57\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton ➜ Ambos marcan @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550203|Both Teams Score|Yes",
+      "1557469|Both Teams Score|Yes",
+      "1570457|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.5,
+      1.67,
+      1.57
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-23-loca-th-0200-duelo",
+    "fecha": "2026-11-23T02:00",
+    "texto": "🥊 EL DUELO DE TIROS 🥊\n\n⭐ Monza vs Fiorentina · 20:45\n\n✅ 🎯 Dany Mota: 2+ tiros (Monza)\n✅ 🎯 Beto: 3+ tiros (Fiorentina)\n\n🎯 CUOTA 2,00 aprox. 💎 · 10€ → 20,00€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1550203|Home Player Shots|Dany Mota - 2",
+      "1550203|Away Player Shots|Beto - 3"
+    ],
+    "cuotas": [
+      1.4,
+      1.4
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-23-loca-th-0300-lista-corners",
+    "fecha": "2026-11-23T03:00",
+    "texto": "🚩 CÓRNERS DEL DÍA 🚩\n\n1. 🇮🇹 Monza–Fiorentina ➜ +9 córners @1,80\n2. 🇪🇸 Levante–Elche ➜ Levante más córners @1,57\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton ➜ Brentford más córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550203|Corners Over Under|Over 9",
+      "1557469|Corners 1x2|Home",
+      "1570457|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.8,
+      1.67,
+      1.57
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-23-loca-th-0400-empates",
+    "fecha": "2026-11-23T04:00",
+    "texto": "⚖️ LA COMBI DE LOS EMPATES ⚖️\n\n🇮🇹 Monza – Fiorentina · 20:45 ➜ ✅ 🤝 Empate @3,80\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00 ➜ ✅ 🤝 Empate @3,50\n🇪🇸 Levante – Elche · 21:00 ➜ ✅ 🤝 Empate @3,60\n\n🎯 CUOTA 47,88 💎 · 10€ → 479€\n\n😮‍💨 Para valientes 😮‍💨",
+    "sel": [
+      "1550203|Match Winner|Draw",
+      "1557469|Match Winner|Draw",
+      "1570457|Match Winner|Draw"
+    ],
+    "cuotas": [
+      3.8,
+      3.5,
+      3.6
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 47.88,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-23-loca-th-0600-reto",
+    "fecha": "2026-11-23T06:00",
+    "texto": "💶 RETO: DE 1€ A 279€ 💶\n\n🇮🇹 Monza–Fiorentina 20:45\n⚡ Monza gana una parte · 🎯 Mateo Pellegrino marca · 🎯 Monza marca 2+\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton 21:00\n🦵 Jarrad Branthwaite comete 1+ faltas · 🎯 Igor Thiago marca · 🎯 Brentford marca 2+\n🇪🇸 Levante–Elche 21:00\n🎳 Paco Cortes: 3+ tiros · ⚡ Elche gana una parte · 🎯 Elche marca 2+\n\n🎯 CUOTA 279 aprox. 💎 1€ → 279€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1550203|To Win Either Half|Home",
+      "1550203|Anytime Goal Scorer|Mateo Pellegrino",
+      "1550203|Total - Home|Over 1.5",
+      "1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
+      "1557469|Anytime Goal Scorer|Igor Thiago",
+      "1557469|Total - Home|Over 1.5",
+      "1570457|Home Player Shots|Paco Cortes - 3",
+      "1570457|To Win Either Half|Away",
+      "1570457|Total - Away|Over 1.5"
+    ],
+    "cuotas": [
+      2.2,
+      2.2,
+      2.5,
+      2.0,
+      2.1,
+      2.0,
+      2.0,
+      2.0,
+      2.38
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 279.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-23-loca-th-0700-tiros",
+    "fecha": "2026-11-23T07:00",
+    "texto": "🎯 COMBI DE TIROS · LEVANTE vs ELCHE 🎯\n\n⭐ Levante – Elche · 21:00\n✅ 🎯 Daniel Requena: 2+ tiros\n✅ 🎯 Victor Garcia: 3+ tiros\n✅ 🎯 Thiago Fernandez: 2+ tiros\n✅ 🎯 Tete Morente: 2+ tiros\n✅ 🎯 Abiel Osorio: 3+ tiros\n\n🎯 CUOTA 6,12 aprox. 💎 · 10€ → 61,20€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
+    "sel": [
+      "1570457|Home Player Shots|Daniel Requena - 2",
+      "1570457|Home Player Shots|Victor Garcia - 3",
+      "1570457|Home Player Shots|Thiago Fernandez - 2",
+      "1570457|Away Player Shots|Tete Morente - 2",
+      "1570457|Away Player Shots|Abiel Osorio - 3"
+    ],
+    "cuotas": [
+      1.44,
+      1.44,
+      1.44,
+      1.44,
+      1.44
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 6.12,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-23-loca-th-1030-x500",
+    "fecha": "2026-11-23T10:30",
+    "texto": "🎰 LA LOCURA DE x395 🎰\n\n🇮🇹 Monza–Fiorentina 20:45\n🦵 Eddy Kouadio comete 2+ faltas · ⚖️ Monza o empate · 🌋 +1,5 goles en la 2ª parte del Monza–Fiorentina\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton 21:00\n🦵 Jarrad Branthwaite comete 1+ faltas · 💪 Everton gana una parte · 🌋 +1,5 goles en la 2ª parte del Brentford–Everton\n🇪🇸 Levante–Elche 21:00\n🌋 +1,5 goles en la 2ª parte del Levante–Elche · ☄️ Levante marca 2+ · 💪 Elche gana una parte\n\n🎯 CUOTA 395 aprox. 💎 10€ → 3.947€\n🔥 ¡A POR ELLA, FAMILIA! 🔥",
+    "sel": [
+      "1550203|Player Fouls Committed|Eddy Kouadio - 2",
+      "1550203|Double Chance|Home/Draw",
+      "1550203|Goals Over/Under - Second Half|Over 1.5",
+      "1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
+      "1557469|To Win Either Half|Away",
+      "1557469|Goals Over/Under - Second Half|Over 1.5",
+      "1570457|Goals Over/Under - Second Half|Over 1.5",
+      "1570457|Total - Home|Over 1.5",
+      "1570457|To Win Either Half|Away"
+    ],
+    "cuotas": [
+      1.83,
+      1.83,
+      1.8,
+      2.0,
+      1.91,
+      2.0,
+      1.83,
+      1.83,
+      2.0
+    ],
+    "solo_en": [
+      "threads"
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 395.0,
+    "sin_foto": true,
+    "sin_porque": true,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true
+  },
+  {
+    "id": "2026-11-23-loca-th-1630-escudos",
+    "fecha": "2026-11-23T16:30",
+    "texto": "⚡ COMBI MONZA – FIORENTINA ⚡\n\n⭐ Monza vs Fiorentina · 20:45\n\n✅ 🦵 Eddy Kouadio comete 2+ faltas\n✅ 🏹 Dany Mota: 2+ tiros\n✅ ⚡ Fiorentina gana una parte\n✅ ↔️ Ambos marcan\n\n🎯 CUOTA 6,64 aprox. 💎 10€ → 66,40€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1550203|Player Fouls Committed|Eddy Kouadio - 2",
+      "1550203|Home Player Shots|Dany Mota - 2",
+      "1550203|To Win Either Half|Away",
+      "1550203|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.83,
+      1.4,
+      1.5,
+      1.5
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Monza",
+      "visitante": "Fiorentina",
+      "id_l": 1579,
+      "id_v": 502,
+      "logo_l": "https://media.api-sports.io/football/teams/1579.png",
+      "logo_v": "https://media.api-sports.io/football/teams/502.png",
+      "fecha": "2026-11-23T20:45",
+      "liga": "Serie A"
+    },
+    "cuota_total": 6.64,
+    "cuota_calculada": true,
+    "cuota_bet365": 6.64,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
+  },
+  {
+    "id": "2026-11-23-loca-th-1700-escudos",
+    "fecha": "2026-11-23T17:00",
+    "texto": "🔥 COMBI BRENTFORD – EVERTON 🔥\n\n⭐ Brentford vs Everton · 21:00\n\n🦵 Jarrad Branthwaite comete 1+ faltas\n🎳 Harrison Armstrong: 1+ tiros\n🛡️ Everton o empate\n💣 +1,5 goles en la 2ª parte del Brentford–Everton\n\n🎯 CUOTA 11,82 aprox. 💎 10€ → 118€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
+      "1557469|Away Player Shots|Harrison Armstrong - 1",
+      "1557469|Double Chance|Draw/Away",
+      "1557469|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      2.0,
+      1.5,
+      1.57,
+      2.0
+    ],
+    "solo_redes": true,
+    "origen": "threads_locas",
+    "tarjeta": {
+      "local": "Brentford",
+      "visitante": "Everton",
+      "id_l": 55,
+      "id_v": 45,
+      "logo_l": "https://media.api-sports.io/football/teams/55.png",
+      "logo_v": "https://media.api-sports.io/football/teams/45.png",
+      "fecha": "2026-11-23T21:00",
+      "liga": "Premier League"
+    },
+    "cuota_total": 11.82,
+    "cuota_calculada": true,
+    "cuota_bet365": 11.82,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false
   }
 ]

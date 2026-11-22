@@ -1,26 +1,6 @@
 {
  "informe": "2026-11-22",
  "vistos": {
-  "repe-2026-11-20-1575221|Player Fouls Committed|Dayot Upamecano - 1": "2026-11-20T00:02",
-  "repe-2026-11-20-1608379|Double Chance|Home/Draw": "2026-11-20T00:02",
-  "repe-2026-11-20-1570454|Match Winner|Home": "2026-11-20T00:02",
-  "repe-2026-11-20-1552827|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1551380|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1575221|Results/Both Teams Score|Home/Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1570454|Results/Both Teams Score|Home/Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1570025|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1551377|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1608379|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1565306|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1575221|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1565308|Both Teams Score|Yes": "2026-11-20T00:02",
-  "repe-2026-11-20-1570025|Away Player Shots|Alex Millan - 2": "2026-11-20T00:02",
-  "repe-2026-11-20-1570025|Home Player Shots|Lautaro de Leon - 3": "2026-11-20T00:02",
-  "repe-2026-11-20-1552827|Double Chance|Draw/Away": "2026-11-20T00:02",
-  "repe-2026-11-20-1570454|Total - Home|Over 1.5": "2026-11-20T00:02",
-  "repe-2026-11-20-1570025|To Win Either Half|Home": "2026-11-20T00:02",
-  "repe-2026-11-20-1575221|Away Corners Over/Under|Over 2.5": "2026-11-20T00:02",
-  "repe-2026-11-21-1550202|Match Winner|Home": "2026-11-20T00:02",
   "prensa-1570454-c7237918": "2026-11-20T00:58",
   "prensa-1570453-PAubameyang": "2026-11-20T00:58",
   "prensa-1570460-7d5af23c": "2026-11-20T00:58",
@@ -167,12 +147,27 @@
   "bucle-publicar_telegram-2026112220": "2026-11-22T20:23",
   "bucle-redes-2026112220": "2026-11-22T20:23",
   "redes-2026-11-22-noche-atalanta2-threads-instagram": "2026-11-22T20:46",
-  "foto-2026-11-22-verde-auto-2026-11-22-pick-seguro-5": "2026-11-22T21:54"
+  "foto-2026-11-22-verde-auto-2026-11-22-pick-seguro-5": "2026-11-22T21:54",
+  "repe-2026-11-23-1550203|Both Teams Score|Yes": "2026-11-23T00:07",
+  "repe-2026-11-23-1570457|Both Teams Score|Yes": "2026-11-23T00:07",
+  "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1": "2026-11-23T00:07"
  },
  "abiertos": [
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
+  },
+  {
+   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)"
   },
   {
    "clave": "regla-cuota-2026-11-23-semana-europa",
@@ -187,8 +182,23 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   }
  ],
- "revisado": "2026-11-22T23:57",
+ "revisado": "2026-11-23T00:07",
  "historial": [
+  {
+   "hora": "2026-11-23T00:07",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)",
+   "k": "repe-2026-11-23-1550203|Both Teams Score|Yes"
+  },
+  {
+   "hora": "2026-11-23T00:07",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)",
+   "k": "repe-2026-11-23-1570457|Both Teams Score|Yes"
+  },
+  {
+   "hora": "2026-11-23T00:07",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)",
+   "k": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1"
+  },
   {
    "hora": "2026-11-22T21:54",
    "t": "🖼️ Sale a las 22:03 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑",
@@ -473,21 +483,6 @@
    "hora": "2026-11-22T00:02",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-noche-2330-escudos, loca-th-0040-ganaambos)",
    "k": "repe-2026-11-22-1570455|Results/Both Teams Score|Home/Yes"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos, loca-th-1400-escudos)",
-   "k": "repe-2026-11-22-1550197|Both Teams Score|Yes"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-1200-escudos, loca-th-1540-tiros)",
-   "k": "repe-2026-11-22-1570459|Player Fouls Committed|Pablo Ramon - 1"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1120-escudos)",
-   "k": "repe-2026-11-22-1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1"
   }
  ]
 }
