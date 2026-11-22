@@ -1,7 +1,7 @@
 # Crystal Palace – Hull City
 **Premier League** · Regular Season - 12 · 29/11/2026 15:05 (hora España) · Selhurst Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -51,42 +51,42 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | Crystal Palace (total) | Crystal Palace en casa | Hull City (total) | Hull City fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 12 | 7 |
-| Forma (últimos 5) | DDEDV | DEDVV | DEEDE | DDDED |
-| Balance | 5V 3E 9D | 3V 1E 4D | 2V 6E 4D | 1V 2E 4D |
-| Goles a favor / partido | 1,47 | 1,88 | 1,00 | 0,71 |
-| Goles en contra / partido | 1,94 | 1,75 | 1,08 | 1,14 |
-| Goles a favor 1ª parte | 0,65 | 0,88 | 0,50 | 0,43 |
-| Goles a favor 2ª parte | 0,82 | 1,00 | 0,50 | 0,29 |
-| Goles en contra 1ª parte | 1,06 | 0,75 | 0,50 | 0,71 |
-| Goles en contra 2ª parte | 0,88 | 1,00 | 0,58 | 0,43 |
-| Más de 1,5 goles | 88% | 100% | 58% | 43% |
-| Más de 2,5 goles | 65% | 75% | 33% | 29% |
-| Más de 3,5 goles | 59% | 62% | 25% | 14% |
-| Ambos marcan | 53% | 62% | 50% | 43% |
-| Portería a cero | 24% | 25% | 25% | 14% |
-| Se queda sin marcar | 29% | 12% | 33% | 43% |
-| xG a favor | 1,29 | 1,51 | 1,06 | 1,02 |
-| xG en contra | 1,97 | 2,04 | 1,40 | 1,17 |
+| Partidos analizados | 17 | 8 | 13 | 7 |
+| Forma (últimos 5) | DDEDV | DEDVV | VDEED | DDDED |
+| Balance | 5V 3E 9D | 3V 1E 4D | 3V 6E 4D | 1V 2E 4D |
+| Goles a favor / partido | 1,47 | 1,88 | 1,08 | 0,71 |
+| Goles en contra / partido | 1,94 | 1,75 | 1,00 | 1,14 |
+| Goles a favor 1ª parte | 0,65 | 0,88 | 0,46 | 0,43 |
+| Goles a favor 2ª parte | 0,82 | 1,00 | 0,62 | 0,29 |
+| Goles en contra 1ª parte | 1,06 | 0,75 | 0,46 | 0,71 |
+| Goles en contra 2ª parte | 0,88 | 1,00 | 0,54 | 0,43 |
+| Más de 1,5 goles | 88% | 100% | 62% | 43% |
+| Más de 2,5 goles | 65% | 75% | 31% | 29% |
+| Más de 3,5 goles | 59% | 62% | 23% | 14% |
+| Ambos marcan | 53% | 62% | 46% | 43% |
+| Portería a cero | 24% | 25% | 31% | 14% |
+| Se queda sin marcar | 29% | 12% | 31% | 43% |
+| xG a favor | 1,29 | 1,51 | 1,13 | 1,02 |
+| xG en contra | 1,97 | 2,04 | 1,47 | 1,17 |
 | Tiros / partido | 10,8 | 13,2 | 10,7 | 11,3 |
-| Tiros a puerta / partido | 4,1 | 4,9 | 3,2 | 2,9 |
+| Tiros a puerta / partido | 4,1 | 4,9 | 3,3 | 2,9 |
 | Tiros recibidos | 16,4 | 16,5 | 14,6 | 13,9 |
-| Tiros a puerta recibidos | 5,5 | 5,8 | 5,0 | 5,4 |
+| Tiros a puerta recibidos | 5,5 | 5,8 | 5,2 | 5,4 |
 | Posesión media % | 46 | 49 | 36 | 38 |
-| Córners a favor | 3,4 | 4,5 | 4,8 | 5,0 |
-| Córners en contra | 6,2 | 5,5 | 5,8 | 6,4 |
-| Córners a favor 1ª parte | 1,5 | 2,4 | 2,7 | 2,4 |
+| Córners a favor | 3,4 | 4,5 | 4,6 | 5,0 |
+| Córners en contra | 6,2 | 5,5 | 5,7 | 6,4 |
+| Córners a favor 1ª parte | 1,5 | 2,4 | 2,5 | 2,4 |
 | Córners a favor 2ª parte | 1,8 | 2,1 | 2,1 | 2,6 |
-| Córners totales del partido | 9,5 | 10,0 | 10,6 | 11,4 |
-| Córners totales 1ª parte | 3,9 | 4,4 | 5,7 | 5,4 |
-| Córners totales 2ª parte | 5,6 | 5,6 | 4,9 | 6,0 |
-| Más de 8,5 córners | 59% | 75% | 67% | 71% |
-| Más de 9,5 córners | 47% | 62% | 58% | 71% |
-| Más de 10,5 córners | 35% | 50% | 58% | 71% |
-| Faltas cometidas | 10,9 | 10,1 | 11,4 | 11,3 |
-| Faltas recibidas | 10,5 | 12,2 | 8,2 | 8,6 |
-| Amarillas propias | 1,6 | 1,8 | 2,8 | 3,4 |
-| Amarillas del rival | 1,8 | 2,5 | 1,0 | 1,0 |
+| Córners totales del partido | 9,5 | 10,0 | 10,3 | 11,4 |
+| Córners totales 1ª parte | 3,9 | 4,4 | 5,5 | 5,4 |
+| Córners totales 2ª parte | 5,6 | 5,6 | 4,8 | 6,0 |
+| Más de 8,5 córners | 59% | 75% | 62% | 71% |
+| Más de 9,5 córners | 47% | 62% | 54% | 71% |
+| Más de 10,5 córners | 35% | 50% | 54% | 71% |
+| Faltas cometidas | 10,9 | 10,1 | 11,1 | 11,3 |
+| Faltas recibidas | 10,5 | 12,2 | 8,9 | 8,6 |
+| Amarillas propias | 1,6 | 1,8 | 2,7 | 3,4 |
+| Amarillas del rival | 1,8 | 2,5 | 1,1 | 1,0 |
 | Rojas / partido | 0,18 | 0,25 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -94,10 +94,10 @@ _Actualizadas: 22/11 00:15_
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 8 | 1 | 0 | 3 | 2 |
 | 16-30' | 1 | 4 | 2 | 3 | 1 | 5 |
-| 31-45' | 7 | 6 | 5 | 3 | 2 | 5 |
-| 46-60' | 7 | 7 | 7 | 2 | 1 | 10 |
+| 31-45' | 7 | 6 | 5 | 3 | 2 | 6 |
+| 46-60' | 7 | 7 | 7 | 2 | 1 | 11 |
 | 61-75' | 2 | 2 | 8 | 3 | 6 | 5 |
-| 76-90' | 5 | 6 | 8 | 1 | 0 | 7 |
+| 76-90' | 5 | 6 | 8 | 3 | 0 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -150,33 +150,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Hull City
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Premier League | Hull City 2-0 Brighton | casa | 3-4 | 11 (5) - 15 (8) | 2-2 |
 | 2026-11-07 | Premier League | Arsenal 1-0 Hull City | fuera | 4-7 | 7 (2) - 21 (10) | 5-0 |
 | 2026-10-31 | Premier League | Hull City 2-2 Ipswich | casa | 6-3 | 9 (3) - 15 (3) | 3-3 |
 | 2026-10-25 | Premier League | Hull City 1-1 Brentford | casa | 5-6 | 12 (2) - 14 (6) | 0-1 |
 | 2026-10-17 | Premier League | Fulham 1-0 Hull City | fuera | 2-10 | 5 (0) - 18 (6) | 2-2 |
 | 2026-10-11 | Premier League | Hull City 2-2 Everton | casa | 7-6 | 9 (5) - 15 (7) | 2-0 |
-| 2026-09-19 | Premier League | Newcastle 2-1 Hull City | fuera | 7-4 | 22 (4) - 12 (5) | 4-1 |
 
 ## Jugadores de Hull City
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Tzolakis | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 0,7 | 1 | 0 |
-| R. Slater | M | 12 | 896 | 0 | 1 | 9 | 0,8 | 3 | 0,2 | 10 | 5 | 0,4 | 2 | 0 |
-| O. McBurnie | F | 10 | 888 | 2 | 2 | 10 | 1,0 | 5 | 0,5 | 12 | 17 | 1,7 | 3 | 0 |
+| K. Tzolakis | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 7 | 0,6 | 1 | 0 |
+| R. Slater | M | 13 | 986 | 0 | 1 | 10 | 0,8 | 3 | 0,2 | 11 | 7 | 0,5 | 2 | 0 |
+| O. McBurnie | F | 11 | 978 | 4 | 2 | 12 | 1,1 | 7 | 0,6 | 14 | 22 | 2,0 | 3 | 0 |
+| S. Ajayi | D | 11 | 943 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 3 | 2 | 0,2 | 2 | 0 |
+| L. Coyle | D | 12 | 908 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 9 | 0,8 | 2 | 0 |
 | J. Egan | D | 11 | 888 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 6 | 4 | 0,4 | 2 | 0 |
-| S. Ajayi | D | 10 | 853 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 3 | 2 | 0,2 | 2 | 0 |
-| L. Coyle | D | 11 | 824 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 7 | 8 | 0,7 | 2 | 0 |
-| M. Belloumi | M | 10 | 703 | 3 | 2 | 19 | 1,9 | 6 | 0,6 | 13 | 8 | 0,8 | 1 | 0 |
-| R. Giles | D | 10 | 701 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,1 | 1 | 0 |
-| N. Mendy | D | 8 | 568 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 10 | 2 | 0,2 | 1 | 0 |
+| M. Belloumi | M | 11 | 793 | 3 | 3 | 22 | 2,0 | 7 | 0,6 | 13 | 9 | 0,8 | 1 | 0 |
+| R. Giles | D | 11 | 724 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,1 | 1 | 0 |
+| N. Mendy | D | 9 | 658 | 1 | 0 | 8 | 0,9 | 4 | 0,4 | 11 | 2 | 0,2 | 2 | 0 |
+| E. Stroud | D | 11 | 598 | 0 | 1 | 5 | 0,5 | 1 | 0,1 | 12 | 3 | 0,3 | 4 | 0 |
 | L. Herrington | D | 10 | 533 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 2 | 0 |
-| E. Stroud | D | 10 | 531 | 0 | 1 | 5 | 0,5 | 1 | 0,1 | 12 | 3 | 0,3 | 4 | 0 |
-| M. Crooks | M | 7 | 441 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 13 | 3 | 0,4 | 5 | 0 |
-| L. Gourna-Douath | M | 6 | 379 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 4 | 0,7 | 3 | 0 |
-| Sorba Thomas | M | 6 | 364 | 0 | 1 | 2 | 0,3 | 1 | 0,2 | 2 | 3 | 0,5 | 0 | 0 |
-| T. Iroegbunam | M | 7 | 360 | 1 | 0 | 5 | 0,7 | 1 | 0,1 | 9 | 6 | 0,9 | 1 | 0 |
-| M. Cho | F | 8 | 283 | 1 | 0 | 8 | 1,0 | 4 | 0,5 | 4 | 3 | 0,4 | 0 | 0 |
+| M. Crooks | M | 8 | 509 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 14 | 3 | 0,4 | 5 | 0 |
+| L. Gourna-Douath | M | 7 | 425 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 8 | 5 | 0,7 | 4 | 0 |
+| S. Thomas | F | 7 | 409 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 2 | 5 | 0,7 | 0 | 0 |
+| T. Iroegbunam | M | 8 | 404 | 1 | 0 | 5 | 0,6 | 1 | 0,1 | 9 | 9 | 1,1 | 1 | 0 |
+| M. Cho | M | 9 | 328 | 1 | 0 | 9 | 1,0 | 4 | 0,4 | 4 | 4 | 0,4 | 0 | 0 |
 | D. Phillips | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| B. Norton-Cuffy | D | 6 | 169 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 4 | 1 | 0,2 | 2 | 0 |
+| J. Hjertø-Dahl | M | 4 | 179 | 0 | 0 | 3 | 0,8 | 1 | 0,2 | 1 | 2 | 0,5 | 0 | 0 |
+| B. Norton-Cuffy | D | 7 | 175 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 4 | 1 | 0,1 | 2 | 0 |
 | J. Gelhardt | F | 7 | 166 | 1 | 0 | 8 | 1,1 | 4 | 0,6 | 4 | 1 | 0,1 | 0 | 0 |
-| M. Targett | D | 3 | 165 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |

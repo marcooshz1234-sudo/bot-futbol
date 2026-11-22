@@ -11410,113 +11410,6 @@
     "cuotas_revisadas": "2026-11-22T08:37"
   },
   {
-    "id": "2026-11-22-loca-th-0940-empates",
-    "fecha": "2026-11-22T09:40",
-    "texto": "😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨\n\n🇮🇹 Sassuolo – Genoa · 15:00 ➜ ✅ 🤝 Empate @3,30\n🇫🇷 Lorient – Rennes · 17:15 ➜ ✅ 🤝 Empate @3,50\n🇪🇸 Osasuna – Malaga · 18:30 ➜ ✅ 🤝 Empate @3,60\n\n🎯 CUOTA 41,58 💎 · 10€ → 416€\n\n😮‍💨 Para valientes 😮‍💨",
-    "sel": [
-      "1550206|Match Winner|Draw",
-      "1552821|Match Winner|Draw",
-      "1570458|Match Winner|Draw"
-    ],
-    "cuotas": [
-      3.3,
-      3.3,
-      3.7
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 41.58,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-22T09:11"
-  },
-  {
-    "id": "2026-11-22-loca-th-1000-ganaambos",
-    "fecha": "2026-11-22T10:00",
-    "texto": "⚽🏆 GANA Y AMBOS MARCAN ⚽🏆\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool – Manchester United · 17:30\n🎭 Gana Liverpool y ambos marcan\n\n🇮🇹 AC Milan – Frosinone · 18:00\n🎭 Gana AC Milan y ambos marcan\n\n🇮🇹 Atalanta – Inter · 20:45\n🎭 Gana Inter y ambos marcan\n\n🇫🇷 Marseille – Le Mans · 20:45\n🎭 Gana Marseille y ambos marcan\n\n🎯 CUOTA 51,88 💎 · 10€ → 519€\n\n🔥 Goles y victoria: así nos gusta 🔥",
-    "sel": [
-      "1557473|Results/Both Teams Score|Home/Yes",
-      "1550197|Results/Both Teams Score|Home/Yes",
-      "1550198|Results/Both Teams Score|Away/Yes",
-      "1552822|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      3.0,
-      2.5,
-      2.62,
-      2.75
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 51.88,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true,
-    "ganadores_img": {
-      "titulo": "GANA Y AMBOS MARCAN",
-      "liga": null,
-      "filas": [
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/40.png",
-          "nombre": "Liverpool",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/489.png",
-          "nombre": "AC Milan",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        },
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/505.png",
-          "nombre": "Inter",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/81.png",
-          "nombre": "Marseille",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        }
-      ],
-      "lema": null
-    },
-    "cuotas_revisadas": "2026-11-22T08:37"
-  },
-  {
-    "id": "2026-11-22-pick-seguro",
-    "fecha": "2026-11-22T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool – Manchester United · 17:30\n\n🍀 Gana el Liverpool @1,67\n🧠 Stake 3/10\n\n👨‍💻 El Manchester United no ha ganado fuera en sus últimos 6 partidos.\n👨‍💻 El Liverpool va 5º y el Manchester United 19º en la liga.\n👨‍💻 Manchester United juega Champions en 3 días: puede rotar\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557473|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.67
-    ],
-    "cuotas_revisadas": "2026-11-22T09:11"
-  },
-  {
     "id": "2026-11-22-escalera",
     "fecha": "2026-11-22T11:00",
     "texto": "🪜 Reto escalera · Día 2/7\n\n✅ Día 1 superado: 20,00€ → 36,00€\n\n🇪🇸 Getafe marca\n\n📈 Cuota @1,80\n💶 36,00€ → 64,80€",
@@ -11529,111 +11422,6 @@
     "cuotas": [
       1.8
     ]
-  },
-  {
-    "id": "2026-11-22-loca-th-1100-escudos",
-    "fecha": "2026-11-22T11:00",
-    "texto": "⚡ COMBI HULL CITY – BRIGHTON ⚡\n\n⭐ Hull City vs Brighton · 15:00\n\n✅ 🎯 Yasin Ayari: 2+ tiros\n✅ 💪 Gana el Brighton\n✅ 🎯 Mohamed Belloumi: 2+ tiros\n✅ ☄️ Brighton marca 2+\n\n🎯 CUOTA 4,46 aprox. 💎 10€ → 44,60€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1557472|Away Player Shots|Yasin Ayari - 2",
-      "1557472|Match Winner|Away",
-      "1557472|Home Player Shots|Mohamed Belloumi - 2",
-      "1557472|Total - Away|Over 1.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.5,
-      1.5,
-      1.53
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Hull City",
-      "visitante": "Brighton",
-      "id_l": 64,
-      "id_v": 51,
-      "logo_l": "https://media.api-sports.io/football/teams/64.png",
-      "logo_v": "https://media.api-sports.io/football/teams/51.png",
-      "fecha": "2026-11-22T15:00",
-      "liga": "Premier League"
-    },
-    "cuota_total": 4.46,
-    "cuota_calculada": true,
-    "cuota_bet365": 4.46,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-22-loca-th-1120-escudos",
-    "fecha": "2026-11-22T11:20",
-    "texto": "⚡ COMBI SASSUOLO – GENOA ⚡\n\n⭐ Sassuolo vs Genoa · 15:00\n\n🦵 Mikael Egill Ellertsson comete 1+ faltas\n💨 Sebastiano Esposito: 2+ tiros\n🤝 Genoa o empate\n🌋 +1,5 goles en la 2ª parte del Sassuolo–Genoa\n\n🎯 CUOTA 8,02 aprox. 💎 10€ → 80,20€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1",
-      "1550206|Home Player Shots|Sebastiano Esposito - 2",
-      "1550206|Double Chance|Draw/Away",
-      "1550206|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.62,
-      1.4,
-      1.44,
-      2.0
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Sassuolo",
-      "visitante": "Genoa",
-      "id_l": 488,
-      "id_v": 495,
-      "logo_l": "https://media.api-sports.io/football/teams/488.png",
-      "logo_v": "https://media.api-sports.io/football/teams/495.png",
-      "fecha": "2026-11-22T15:00",
-      "liga": "Serie A"
-    },
-    "cuota_total": 8.02,
-    "cuota_calculada": true,
-    "cuota_bet365": 8.02,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-22-loca-th-1140-escudos",
-    "fecha": "2026-11-22T11:40",
-    "texto": "🚨 COMBI LORIENT – RENNES 🚨\n\n⭐ Lorient vs Rennes · 17:15\n\n✅ 🧱 Rennes o empate\n✅ 🏹 Isak Jensen: 2+ tiros\n✅ 🏹 Jean-Victor Makengo: 2+ tiros\n✅ 🌋 +1,5 goles en la 2ª parte del Lorient–Rennes\n\n🎯 CUOTA 7,18 aprox. 💎 10€ → 71,80€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1552821|Double Chance|Draw/Away",
-      "1552821|Home Player Shots|Isak Jensen - 2",
-      "1552821|Home Player Shots|Jean-Victor Makengo - 2",
-      "1552821|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.4,
-      1.44,
-      1.5,
-      2.0
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Lorient",
-      "visitante": "Rennes",
-      "id_l": 97,
-      "id_v": 94,
-      "logo_l": "https://media.api-sports.io/football/teams/97.png",
-      "logo_v": "https://media.api-sports.io/football/teams/94.png",
-      "fecha": "2026-11-22T17:15",
-      "liga": "Ligue 1"
-    },
-    "cuota_total": 7.18,
-    "cuota_calculada": true,
-    "cuota_bet365": 7.18,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
   },
   {
     "id": "2026-11-22-loca-th-1200-escudos",
@@ -11720,115 +11508,6 @@
     "enlace_telegram": false
   },
   {
-    "id": "2026-11-22-pick-seguro-4",
-    "fecha": "2026-11-22T13:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool – Manchester United · 17:30\n\n🍀 Liverpool marca 2 o más @1,53\n\n👨‍💻 El Liverpool va 5º y el Manchester United 19º en la liga.\n👨‍💻 Los partidos del Liverpool llevan 4,1 goles de media (últimos 8).\n👨‍💻 Los partidos del Manchester United llevan 3,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557473|Total - Home|Over 1.5"
-    ],
-    "cuotas": [
-      1.53
-    ]
-  },
-  {
-    "id": "2026-11-22-combi-tres",
-    "fecha": "2026-11-22T13:30",
-    "texto": "Vamos con la combi del domingo familia 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇫🇷 Gana el Paris FC\n🇮🇹 AC Milan ve más de 1,5 tarjetas\n🇪🇸 Osasuna ve más de 1,5 tarjetas\n\n📈 Cuota @3,73",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552825|Match Winner|Home",
-      "1550197|Home Team Total Cards|Over 1.5",
-      "1570458|Home Team Total Cards|Over 1.5"
-    ],
-    "cuotas": [
-      1.33,
-      1.73,
-      1.62
-    ],
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-22-loca-th-1400-escudos",
-    "fecha": "2026-11-22T14:00",
-    "texto": "💥 COMBI AC MILAN – FROSINONE 💥\n\n⭐ AC Milan vs Frosinone · 18:00\n\n💨 Giorgi Kvernadze: 2+ tiros\n💨 Samuel Chukwueze: 2+ tiros\n💨 Christian Pulisic: 3+ tiros\n💨 Daniel Birligea: 3+ tiros\n↔️ Ambos marcan\n🏆 Gana el AC Milan\n💣 +1,5 goles en la 2ª parte del AC Milan–Frosinone\n🥅 Goncalo Ramos marca\n\n🎯 CUOTA 10,72 aprox. 💎 10€ → 107€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1550197|Away Player Shots|Giorgi Kvernadze - 2",
-      "1550197|Home Player Shots|Samuel Chukwueze - 2",
-      "1550197|Home Player Shots|Christian Pulisic - 3",
-      "1550197|Away Player Shots|Daniel Birligea - 3",
-      "1550197|Both Teams Score|Yes",
-      "1550197|Match Winner|Home",
-      "1550197|Goals Over/Under - Second Half|Over 1.5",
-      "1550197|Anytime Goal Scorer|Goncalo Ramos"
-    ],
-    "cuotas": [
-      1.4,
-      1.4,
-      1.4,
-      1.4,
-      1.44,
-      1.5,
-      1.57,
-      1.83
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "AC Milan",
-      "visitante": "Frosinone",
-      "id_l": 489,
-      "id_v": 512,
-      "logo_l": "https://media.api-sports.io/football/teams/489.png",
-      "logo_v": "https://media.api-sports.io/football/teams/512.png",
-      "fecha": "2026-11-22T18:00",
-      "liga": "Serie A"
-    },
-    "cuota_total": 10.72,
-    "cuota_calculada": true,
-    "cuota_bet365": 10.72,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-22-combi-partido-1575224",
-    "fecha": "2026-11-22T14:30",
-    "texto": "Os dejo la combi del FC Augsburg – FSV Mainz 05 🇩🇪🔥\n\n🍀 FC Augsburg marca 2 o más\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 FC Augsburg o empate\n🍀 FSV Mainz 05 hace más tiros\n\n📈 Cuota @5,77 aprox.",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1575224|Total - Home|Over 1.5",
-      "1575224|Goals Over/Under - Second Half|Over 1.5",
-      "1575224|Double Chance|Home/Draw",
-      "1575224|Shots.1x2|Away"
-    ],
-    "cuotas": [
-      1.8,
-      1.57,
-      1.53,
-      1.73
-    ],
-    "tarjeta": {
-      "local": "FC Augsburg",
-      "visitante": "FSV Mainz 05",
-      "id_l": 170,
-      "id_v": 164,
-      "logo_l": "https://media.api-sports.io/football/teams/170.png",
-      "logo_v": "https://media.api-sports.io/football/teams/164.png",
-      "fecha": "2026-11-22T15:30",
-      "liga": "Bundesliga"
-    },
-    "solo_redes": true,
-    "cuota_total": 5.77,
-    "cuota_calculada": true
-  },
-  {
     "id": "2026-11-22-pick-seguro-5",
     "fecha": "2026-11-22T15:00",
     "texto": "Vamos con otro pick 🍀\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Marseille – Le Mans · 20:45\n\n🍀 Gana el Marseille @1,44\n🧠 Stake 3/10\n\n👨‍💻 El Le Mans no ha ganado fuera en sus últimos 5 partidos.\n👨‍💻 El Marseille va 5º y el Le Mans 16º en la liga.\n👨‍💻 El Marseille ha ganado 4 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
@@ -11840,153 +11519,6 @@
     ],
     "cuotas": [
       1.44
-    ]
-  },
-  {
-    "id": "2026-11-22-loca-th-1520-reto",
-    "fecha": "2026-11-22T15:20",
-    "texto": "💶 RETO: DE 1€ A 226€ 💶\n\n🇫🇷 Lorient–Rennes 17:15\n✅ 🎳 Mousa Tamari: 3+ tiros · ✅ 🎯 Rennes marca 2+ · ✅ ⏱️ +1,5 goles en la 2ª parte del Lorient–Rennes\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool–Manchester United 17:30\n✅ 🎯 Alexander Isak marca\n🇮🇹 Atalanta–Inter 20:45\n✅ 🎯 Matteo Lavelli marca\n🇫🇷 Marseille–Le Mans 20:45\n✅ 🎯 Amine Gouiri marca · ✅ ⏱️ Marseille marca en las dos partes\n🇪🇸 Getafe–Atletico Madrid 21:00\n✅ ↔️ Ambos marcan\n\n🎯 CUOTA 226 aprox. 💎 1€ → 226€\n✅ 🔥 ¡A POR ELLA, FAMILIA! 🔥",
-    "sel": [
-      "1552821|Away Player Shots|Mousa Tamari - 3",
-      "1552821|Total - Away|Over 1.5",
-      "1552821|Goals Over/Under - Second Half|Over 1.5",
-      "1557473|Anytime Goal Scorer|Alexander Isak",
-      "1550198|Anytime Goal Scorer|Matteo Lavelli",
-      "1552822|Anytime Goal Scorer|Amine Gouiri",
-      "1552822|To Score In Both Halves By Teams|Home",
-      "1570456|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      2.0,
-      2.2,
-      2.0,
-      2.1,
-      2.0,
-      2.1,
-      2.0,
-      2.0
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 226.0,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false
-  },
-  {
-    "id": "2026-11-22-loca-th-1540-tiros",
-    "fecha": "2026-11-22T15:40",
-    "texto": "🎯 COMBI DE TIROS · RACING SANTANDER vs REAL SOCIEDAD 🎯\n\n⭐ Racing Santander – Real Sociedad · 16:15\n🦵 Pablo Ramon comete 1+ faltas\n💨 Jorge Salinas: 1+ tiros\n💨 Yassir Zabiri: 3+ tiros\n💨 Pablo Garcia: 2+ tiros\n💨 Diego Diaz: 2+ tiros\n\n🎯 CUOTA 6,73 aprox. 💎 · 10€ → 67,30€\n\n🔥 Sin alineaciones aún: van los fijos 🔥",
-    "sel": [
-      "1570459|Player Fouls Committed|Pablo Ramon - 1",
-      "1570459|Home Player Shots|Jorge Salinas - 1",
-      "1570459|Home Player Shots|Yassir Zabiri - 3",
-      "1570459|Home Player Shots|Pablo Garcia - 2",
-      "1570459|Home Player Shots|Diego Diaz - 2"
-    ],
-    "cuotas": [
-      1.83,
-      1.62,
-      1.4,
-      1.44,
-      1.44
-    ],
-    "solo_en": [
-      "threads"
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 6.73,
-    "sin_foto": true,
-    "sin_porque": true,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true
-  },
-  {
-    "id": "2026-11-22-loca-th-1600-escudos",
-    "fecha": "2026-11-22T16:00",
-    "texto": "🔥 COMBI MARSEILLE – LE MANS 🔥\n\n⭐ Marseille vs Le Mans · 20:45\n\n✅ 👑 Gana el Marseille\n✅ 💥 Marseille marca 2+\n✅ 🎳 Dame Gueye: 2+ tiros\n✅ 🎳 Amine Gouiri: 4+ tiros\n✅ 🔥 +1,5 goles en la 2ª parte del Marseille–Le Mans\n\n🎯 CUOTA 7,32 aprox. 💎 10€ → 109€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1552822|Match Winner|Home",
-      "1552822|Total - Home|Over 1.5",
-      "1552822|Away Player Shots|Dame Gueye - 2",
-      "1552822|Home Player Shots|Amine Gouiri - 4",
-      "1552822|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.44,
-      1.44,
-      1.53,
-      1.57,
-      1.73
-    ],
-    "solo_redes": true,
-    "origen": "threads_locas",
-    "tarjeta": {
-      "local": "Marseille",
-      "visitante": "Le Mans",
-      "id_l": 81,
-      "id_v": 1298,
-      "logo_l": "https://media.api-sports.io/football/teams/81.png",
-      "logo_v": "https://media.api-sports.io/football/teams/1298.png",
-      "fecha": "2026-11-22T20:45",
-      "liga": "Ligue 1"
-    },
-    "cuota_total": 10.87,
-    "cuota_calculada": true,
-    "cuota_bet365": 10.87,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "revisado_alineaciones": "2026-11-22T20:15"
-  },
-  {
-    "id": "2026-11-22-combi-partido-1557473",
-    "fecha": "2026-11-22T16:30",
-    "texto": "Os dejo la combi del Liverpool – Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿🔥\n\n🍀 Gana el Liverpool\n🍀 Liverpool hace más tiros a puerta\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,53 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1557473|Match Winner|Home",
-      "1557473|ShotOnTarget 1x2|Home",
-      "1557473|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.67,
-      1.5,
-      1.73
-    ],
-    "tarjeta": {
-      "local": "Liverpool",
-      "visitante": "Manchester United",
-      "id_l": 40,
-      "id_v": 33,
-      "logo_l": "https://media.api-sports.io/football/teams/40.png",
-      "logo_v": "https://media.api-sports.io/football/teams/33.png",
-      "fecha": "2026-11-22T17:30",
-      "liga": "Premier"
-    },
-    "solo_redes": true,
-    "cuota_total": 4.53,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-22-pick-seguro-6",
-    "fecha": "2026-11-22T16:30",
-    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Getafe – Atletico Madrid · 21:00\n\n🍀 Getafe marca @1,80\n\n👨‍💻 Los partidos del Getafe llevan 3,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Atletico Madrid llevan 2,0 goles de media (últimos 8).\n👨‍💻 Atletico Madrid juega Champions en 3 días: puede rotar\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570456|Total - Home|Over 0.5"
-    ],
-    "cuotas": [
-      1.8
     ]
   },
   {
@@ -12353,6 +11885,196 @@
     "cuotas_revisadas": "2026-11-22T20:04"
   },
   {
+    "id": "2026-11-23-loca-th-noche-2100-ganaambos",
+    "fecha": "2026-11-22T21:00",
+    "texto": "💥🏆 GANA Y AMBOS MARCAN 💥🏆\n\n🇮🇹 Monza – Fiorentina · 20:45\n✅ ↔️ Gana Fiorentina y ambos marcan\n\n🇪🇸 Levante – Elche · 21:00\n✅ ↔️ Gana Levante y ambos marcan\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00\n✅ ↔️ Gana Brentford y ambos marcan\n\n🎯 CUOTA 55,21 💎 · 10€ → 552€\n\n🔥 Goles y victoria: así nos gusta 🔥",
+    "sel": [
+      "1550203|Results/Both Teams Score|Away/Yes",
+      "1557469|Results/Both Teams Score|Home/Yes",
+      "1570457|Results/Both Teams Score|Home/Yes"
+    ],
+    "cuotas": [
+      3.4,
+      4.33,
+      3.75
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 55.21,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_porque": true,
+    "ganadores_img": {
+      "titulo": "GANA Y AMBOS MARCAN",
+      "liga": null,
+      "filas": [
+        {
+          "pais": "Italy",
+          "bandera": "🇮🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/502.png",
+          "nombre": "Fiorentina",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "England",
+          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "escudo_url": "https://media.api-sports.io/football/teams/55.png",
+          "nombre": "Brentford",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        },
+        {
+          "pais": "Spain",
+          "bandera": "🇪🇸",
+          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
+          "nombre": "Levante",
+          "pick": "WIN + BTTS",
+          "seleccion": false
+        }
+      ],
+      "lema": null
+    }
+  },
+  {
+    "id": "2026-11-23-loca-th-noche-2130-lista-ambos",
+    "fecha": "2026-11-22T21:30",
+    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇮🇹 Monza–Fiorentina ➜ Ambos marcan @1,53\n2. 🇪🇸 Levante–Elche ➜ Ambos marcan @1,57\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton ➜ Ambos marcan @1,62\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550203|Both Teams Score|Yes",
+      "1557469|Both Teams Score|Yes",
+      "1570457|Both Teams Score|Yes"
+    ],
+    "cuotas": [
+      1.5,
+      1.67,
+      1.57
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-22T20:04"
+  },
+  {
+    "id": "2026-11-23-loca-th-noche-2200-duelo",
+    "fecha": "2026-11-22T22:00",
+    "texto": "🥊 EL DUELO DE TIROS 🥊\n\n⭐ Monza vs Fiorentina · 20:45\n\n✅ 🎯 Omari Forson: 2+ tiros (Monza)\n✅ 🎯 Beto: 3+ tiros (Fiorentina)\n\n🎯 CUOTA 2,14 aprox. 💎 · 10€ → 21,40€\n\n👇 ¿Quién dispara más? 👇",
+    "sel": [
+      "1550203|Home Player Shots|Omari Forson - 2",
+      "1550203|Away Player Shots|Beto - 3"
+    ],
+    "cuotas": [
+      1.53,
+      1.4
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 2.14,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-22T20:31"
+  },
+  {
+    "id": "2026-11-23-loca-th-noche-2230-lista-corners",
+    "fecha": "2026-11-22T22:30",
+    "texto": "🚩 CÓRNERS DE MAÑANA 🚩\n\n1. 🇮🇹 Monza–Fiorentina ➜ +9 córners @1,80\n2. 🇪🇸 Levante–Elche ➜ Levante más córners @1,57\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton ➜ Brentford más córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
+    "sel": [
+      "1550203|Corners Over Under|Over 9",
+      "1557469|Corners 1x2|Home",
+      "1570457|Corners 1x2|Home"
+    ],
+    "cuotas": [
+      1.8,
+      1.67,
+      1.57
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": null,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": true,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-23-loca-th-noche-2300-empates",
+    "fecha": "2026-11-22T23:00",
+    "texto": "⚖️ LA COMBI DE LOS EMPATES ⚖️\n\n🇮🇹 Monza – Fiorentina · 20:45 ➜ ✅ 🤝 Empate @3,80\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00 ➜ ✅ 🤝 Empate @3,50\n🇪🇸 Levante – Elche · 21:00 ➜ ✅ 🤝 Empate @3,60\n\n🎯 CUOTA 47,88 💎 · 10€ → 479€\n\n😮‍💨 Para valientes 😮‍💨",
+    "sel": [
+      "1550203|Match Winner|Draw",
+      "1557469|Match Winner|Draw",
+      "1570457|Match Winner|Draw"
+    ],
+    "cuotas": [
+      3.8,
+      3.5,
+      3.6
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 47.88,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_en": [
+      "threads"
+    ],
+    "sin_foto": true,
+    "sin_porque": true
+  },
+  {
+    "id": "2026-11-23-loca-th-noche-2330-escudos",
+    "fecha": "2026-11-22T23:30",
+    "texto": "⚡ COMBI LEVANTE – ELCHE ⚡\n\n⭐ Levante vs Elche · 21:00\n\n🎳 Daniel Requena: 2+ tiros\n🎳 Victor Garcia: 3+ tiros\n🎭 Ambos marcan\n👑 Levante gana una parte\n\n🎯 CUOTA 5,70 aprox. 💎 10€ → 57,00€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "sel": [
+      "1570457|Home Player Shots|Daniel Requena - 2",
+      "1570457|Home Player Shots|Victor Garcia - 3",
+      "1570457|Both Teams Score|Yes",
+      "1570457|To Win Either Half|Home"
+    ],
+    "cuotas": [
+      1.44,
+      1.44,
+      1.57,
+      1.62
+    ],
+    "origen": "threads_locas",
+    "cuota_bet365": 5.7,
+    "fijo": true,
+    "directo": true,
+    "enlace_telegram": false,
+    "solo_redes": true,
+    "tarjeta": {
+      "local": "Levante",
+      "visitante": "Elche",
+      "id_l": 539,
+      "id_v": 797,
+      "logo_l": "https://media.api-sports.io/football/teams/539.png",
+      "logo_v": "https://media.api-sports.io/football/teams/797.png",
+      "fecha": "2026-11-23T21:00",
+      "liga": "La Liga"
+    },
+    "cuota_total": 5.7,
+    "cuota_calculada": true
+  },
+  {
     "id": "2026-11-23-pick-seguro-3",
     "fecha": "2026-11-23T12:30",
     "texto": "Os dejo el pick, familia 👇\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n🇮🇹 Monza – Fiorentina · 20:45\n\n🍀 Más de 1,5 goles en la 2ª parte del Monza–Fiorentina @1,80\n\n👨‍💻 Los partidos del Monza llevan 3,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Fiorentina llevan 3,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
@@ -12405,12 +12127,12 @@
       "1636381|Match Winner|Home"
     ],
     "cuotas": [
-      1.18,
+      1.17,
       1.2,
       1.25,
-      1.07,
+      1.08,
       1.1,
-      1.33,
+      1.36,
       1.17,
       1.17,
       1.17,
@@ -12423,7 +12145,7 @@
   {
     "id": "2026-11-24-ganadores-champions",
     "fecha": "2026-11-24T00:00",
-    "texto": "🏆 CHAMPIONS LEAGUE - GANADORES\n\n1. 🇳🇴 Bodo/Glimt - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win\n3. 🇮🇹 Como - Win\n4. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City - Win\n5. 🇩🇪 Leipzig - Win\n6. 🇪🇸 Betis - Win\n7. 🇪🇸 Real Madrid - Win\n\n🍀 ¿QUIÉN SE APUNTA? 👀💚",
+    "texto": "🏆 CHAMPIONS LEAGUE - GANADORES\n\n1. 🇳🇴 Bodo/Glimt - Win\n2. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal - Win\n3. 🇮🇹 Como - Win\n4. 🇵🇹 FC Porto - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Man City - Win\n6. 🇩🇪 Leipzig - Win\n7. 🇪🇸 Betis - Win\n8. 🇪🇸 Real Madrid - Win\n\n🍀 ¿QUIÉN SE APUNTA? 👀💚",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -12433,19 +12155,21 @@
       "1635641|Match Winner|Home",
       "1635611|Match Winner|Home",
       "1635649|Match Winner|Home",
+      "1635663|Match Winner|Away",
       "1635692|Match Winner|Home",
       "1635713|Match Winner|Home",
       "1635731|Match Winner|Away",
       "1635715|Match Winner|Home"
     ],
     "cuotas": [
-      1.48,
+      1.55,
       1.36,
-      1.27,
+      1.3,
+      2.25,
       1.25,
-      1.42,
+      1.38,
       1.2,
-      1.18
+      1.17
     ],
     "ganadores_img": {
       "titulo": "CHAMPIONS LEAGUE",
@@ -12472,6 +12196,14 @@
           "bandera": "🇮🇹",
           "escudo_url": "https://media.api-sports.io/football/teams/895.png",
           "nombre": "Como",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Portugal",
+          "bandera": "🇵🇹",
+          "escudo_url": "https://media.api-sports.io/football/teams/212.png",
+          "nombre": "FC Porto",
           "pick": "WIN",
           "seleccion": false
         },
@@ -12514,29 +12246,29 @@
   {
     "id": "2026-11-24-pick-seguro",
     "fecha": "2026-11-24T10:30",
-    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Slovan Bratislava – Real Betis · 21:00\n\n🍀 Slovan Bratislava marca @1,62\n\n👨‍💻 Los partidos del Slovan Bratislava llevan 3,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Real Betis llevan 2,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Bodo/Glimt – Lask Linz · 18:45\n\n🍀 Gana el Bodo/Glimt @1,55\n\n👨‍💻 El Bodo/Glimt no ha perdido en casa en sus últimos 4 partidos (3V 1E).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635731|Total - Home|Over 0.5"
+      "1635641|Match Winner|Home"
     ],
     "cuotas": [
-      1.62
+      1.55
     ]
   },
   {
     "id": "2026-11-24-pick-seguro-3",
     "fecha": "2026-11-24T12:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Como – AEK Athens FC · 21:00\n\n🍀 Como marca en las dos partes @1,67\n\n👨‍💻 El Como no ha perdido en casa en sus últimos 6 partidos (5V 1E).\n👨‍💻 Los partidos del Como llevan 3,8 goles de media (últimos 8).\n👨‍💻 Los partidos del AEK Athens FC llevan 3,3 goles de media (últimos 6).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Manchester City – Napoli · 21:00\n\n🍀 Scott McTominay (Napoli): 2+ tiros @1,44\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635649|To Score In Both Halves By Teams|Home"
+      "1635692|Away Player Shots|Scott McTominay - 2"
     ],
     "cuotas": [
-      1.67
+      1.44
     ]
   },
   {
@@ -12556,17 +12288,17 @@
   {
     "id": "2026-11-24-combi-tres",
     "fecha": "2026-11-24T13:30",
-    "texto": "Vamos con la combi del martes familia 🔥\n📈 De las que hemos estudiado bien\n\n🇮🇹 Scott McTominay (Napoli): 2+ tiros\n🇳🇱 Filip Kostic (PSV): 1+ tiros\n🇸🇰 Slovan Bratislava marca\n\n📈 Cuota @3,36",
+    "texto": "Vamos con la combi del martes familia 🔥\n📈 De las que hemos estudiado bien\n\n🇳🇱 Sven Mijnans (PSV): 2+ tiros\n🇮🇹 Scott McTominay (Napoli): 2+ tiros\n🇸🇰 Slovan Bratislava marca\n\n📈 Cuota @2,99",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1635715|Away Player Shots|Sven Mijnans - 2",
       "1635692|Away Player Shots|Scott McTominay - 2",
-      "1635715|Away Player Shots|Filip Kostic - 1",
       "1635731|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.44,
+      1.28,
       1.44,
       1.62
     ],
@@ -12575,21 +12307,7 @@
   {
     "id": "2026-11-24-pick-seguro-5",
     "fecha": "2026-11-24T15:00",
-    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ RB Leipzig – Lens · 21:00\n\n🍀 Gana el RB Leipzig @1,42\n🧠 Stake 3/10\n\n👨‍💻 El RB Leipzig ha ganado 4 de sus últimos 5 partidos.\n👨‍💻 El Lens solo ha ganado 1 de sus últimos 5.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635713|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.42
-    ]
-  },
-  {
-    "id": "2026-11-24-pick-seguro-6",
-    "fecha": "2026-11-24T16:30",
-    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Bodo/Glimt – Lask Linz · 18:45\n\n🍀 Andres Andrade (Lask Linz): 1+ tiros @1,44\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Este lo tenemos claro 🔥\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Bodo/Glimt – Lask Linz · 18:45\n\n🍀 Andres Andrade (Lask Linz): 1+ tiros @1,44\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -12601,69 +12319,32 @@
     ]
   },
   {
-    "id": "2026-11-24-pick-seguro-2",
-    "fecha": "2026-11-24T18:00",
-    "texto": "Este lo tenemos claro 🔥\n\n⭐ Manchester City – Napoli · 21:00\n\n🍀 Scott McTominay (Napoli): 2+ tiros @1,44\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "id": "2026-11-24-pick-seguro-6",
+    "fecha": "2026-11-24T16:30",
+    "texto": "Pick de hoy, con datos detrás 📊\n🔎 Mirada a fondo: forma, bajas y cuotas\n\n⭐ Real Madrid – PSV Eindhoven · 21:00\n\n🍀 Ruben van Bommel (PSV): 2+ tiros @1,44\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635692|Away Player Shots|Scott McTominay - 2"
+      "1635715|Away Player Shots|Ruben van Bommel - 2"
     ],
     "cuotas": [
       1.44
     ]
   },
   {
-    "id": "2026-11-24-estrella-1635713",
-    "fecha": "2026-11-24T20:25",
-    "texto": "Hoy hay partidazo: RB Leipzig 🆚 Lens ⭐⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Ridle Baku: 2+ tiros\n🍀 Gana el RB Leipzig\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @2,91 aprox.",
+    "id": "2026-11-24-pick-seguro-2",
+    "fecha": "2026-11-24T18:00",
+    "texto": "Este lo tenemos claro 🔥\n\n⭐ Slovan Bratislava – Real Betis · 21:00\n\n🍀 Slovan Bratislava marca @1,62\n\n👨‍💻 Los partidos del Slovan Bratislava llevan 3,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Real Betis llevan 2,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635713|Home Player Shots|Ridle Baku - 2",
-      "1635713|Match Winner|Home",
-      "1635713|Goals Over/Under - Second Half|Over 1.5"
+      "1635731|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.4,
-      1.42,
-      1.5
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "RB Leipzig",
-      "visitante": "Lens",
-      "id_l": 173,
-      "id_v": 116,
-      "logo_l": "https://media.api-sports.io/football/teams/173.png",
-      "logo_v": "https://media.api-sports.io/football/teams/116.png",
-      "fecha": "2026-11-24T21:00",
-      "liga": "Champions"
-    },
-    "solo_redes": true,
-    "cuota_total": 2.91,
-    "cuota_calculada": true
-  },
-  {
-    "id": "2026-11-25-picks-manana",
-    "fecha": "2026-11-24T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡3 PICKS PARA MAÑANA! 🍀\n\n🇦🇿 Sabah FA marca\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stoke City gana alguna de las dos partes\n🇵🇹 Sporting CP o empate\n\n⚽ ¡Cógelos sueltos o combínalos! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1635718|Total - Home|Over 0.5",
-      "1563285|To Win Either Half|Home",
-      "1635735|Double Chance|Home/Draw"
-    ],
-    "cuotas": [
-      1.53,
-      1.73,
-      1.5
-    ],
-    "solo_redes": true
+      1.62
+    ]
   },
   {
     "id": "2026-11-25-ganadores-champions",
@@ -12684,13 +12365,13 @@
       "1635703|Match Winner|Home"
     ],
     "cuotas": [
-      1.07,
+      1.08,
       2.2,
       1.1,
-      1.44,
+      1.57,
       1.42,
       1.67,
-      1.33
+      1.36
     ],
     "ganadores_img": {
       "titulo": "CHAMPIONS LEAGUE",
@@ -12759,7 +12440,7 @@
   {
     "id": "2026-11-25-pick-seguro",
     "fecha": "2026-11-25T10:30",
-    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Sabah FA – Barcelona · 18:45\n\n🍀 Sabah FA marca @1,53\n\n👨‍💻 Los partidos del Sabah FA llevan 3,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Barcelona llevan 4,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Sabah FA – Barcelona · 18:45\n\n🍀 Sabah FA marca @1,57\n\n👨‍💻 Los partidos del Sabah FA llevan 3,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Barcelona llevan 4,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -12767,13 +12448,13 @@
       "1635718|Total - Home|Over 0.5"
     ],
     "cuotas": [
-      1.53
+      1.57
     ]
   },
   {
     "id": "2026-11-25-pick-seguro-3",
     "fecha": "2026-11-25T12:30",
-    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Lille – Bayern München · 21:00\n\n🍀 Nabil Bentaleb (Lille): 1+ tiros @1,62\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Lille – Bayern München · 21:00\n\n🍀 Nabil Bentaleb (Lille): 1+ tiros @1,53\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -12781,39 +12462,55 @@
       "1635682|Home Player Shots|Nabil Bentaleb - 1"
     ],
     "cuotas": [
-      1.62
+      1.53
     ]
   },
   {
     "id": "2026-11-25-pick-seguro-4",
     "fecha": "2026-11-25T13:30",
-    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Paris Saint Germain – AS Roma · 21:00\n\n🍀 Bryan Cristante (Roma): 1+ tiros @1,40\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Este lo tenemos claro 🔥\n📈 De las que hemos estudiado bien\n\n⭐ Paris Saint Germain – AS Roma · 21:00\n\n🍀 Más de 1,5 goles en la 2ª parte del Paris Saint Germain–AS Roma @1,53\n\n👨‍💻 Los partidos del Paris Saint Germain llevan 4,5 goles de media (últimos 8).\n👨‍💻 Los partidos del AS Roma llevan 4,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1635703|Away Player Shots|Bryan Cristante - 1"
+      "1635703|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.4
+      1.53
     ]
   },
   {
     "id": "2026-11-25-combi-tres",
     "fecha": "2026-11-25T13:30",
-    "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇩🇪 Dayot Upamecano (Bayern): 1+ tiros\n🇮🇹 Bryan Cristante (Roma): 1+ tiros\n\n📈 Cuota @2,56",
+    "texto": "Vamos con la combi del miércoles familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇦🇿 Sabah FA marca\n🇩🇪 Dayot Upamecano (Bayern): 1+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bruno Fernandes (Man United): 2+ tiros\n\n📈 Cuota @3,74",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
+      "1635718|Total - Home|Over 0.5",
       "1635682|Away Player Shots|Dayot Upamecano - 1",
-      "1635703|Away Player Shots|Bryan Cristante - 1"
+      "1635735|Away Player Shots|Bruno Fernandes - 2"
     ],
     "cuotas": [
+      1.57,
       1.83,
-      1.4
+      1.3
     ],
     "solo_redes": true
+  },
+  {
+    "id": "2026-11-25-pick-seguro-5",
+    "fecha": "2026-11-25T15:00",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n📈 De las que hemos estudiado bien\n\n⭐ Sporting CP – Manchester United · 21:00\n\n🍀 Más de 1,5 goles en la 2ª parte del Sporting CP–Manchester United @1,73\n\n👨‍💻 Los partidos del Sporting CP llevan 2,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Manchester United llevan 3,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635735|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.73
+    ]
   },
   {
     "id": "2026-11-25-pick-seguro-2",
@@ -12828,6 +12525,38 @@
     "cuotas": [
       1.83
     ]
+  },
+  {
+    "id": "2026-11-25-estrella-1635735",
+    "fecha": "2026-11-25T20:25",
+    "texto": "Hoy hay partidazo: Sporting CP 🆚 Manchester United ⭐⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (21:00) 🔥\n\n🍀 Bruno Fernandes: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Sporting CP o empate\n\n📈 Cuota @3,83 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1635735|Away Player Shots|Bruno Fernandes - 2",
+      "1635735|Goals Over/Under - Second Half|Over 1.5",
+      "1635735|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.3,
+      1.73,
+      1.5
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "Sporting CP",
+      "visitante": "Manchester United",
+      "id_l": 228,
+      "id_v": 33,
+      "logo_l": "https://media.api-sports.io/football/teams/228.png",
+      "logo_v": "https://media.api-sports.io/football/teams/33.png",
+      "fecha": "2026-11-25T21:00",
+      "liga": "Champions"
+    },
+    "solo_redes": true,
+    "cuota_total": 3.83,
+    "cuota_calculada": true
   },
   {
     "id": "2026-11-26-ganadores-europa",
@@ -12973,8 +12702,8 @@
       1.17,
       1.14,
       1.53,
-      1.5,
-      1.67,
+      1.48,
+      1.62,
       1.6,
       1.22,
       1.14
@@ -13054,7 +12783,7 @@
   {
     "id": "2026-11-26-ganadores-resto",
     "fecha": "2026-11-26T02:00",
-    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Win\n2. 🇳🇴 Brann - Win\n3. 🇱🇻 Riga - Win\n4. 🇧🇪 Anderlecht - Win\n5. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - Win\n6. 🇧🇪 Gent - Win\n7. 🇭🇷 Hajduk Split - Win\n8. 🇫🇷 Rennes - Win\n9. 🇩🇪 Friburgo - Win\n10. 🇹🇷 Trabzonspor - Win",
+    "texto": "🏆 PARTIDOS DE HOY - GANADORES\n\n1. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bournemouth - Win\n2. 🇳🇴 Brann - Win\n3. 🇨🇭 Lugano - Win\n4. 🇩🇰 FC Midtjylland - Win\n5. 🇱🇻 Riga - Win\n6. 🇧🇪 Anderlecht - Win\n7. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - Win\n8. 🇭🇷 Hajduk Split - Win\n9. 🇩🇪 Friburgo - Win\n10. 🇹🇷 Trabzonspor - Win",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13063,12 +12792,12 @@
     "sel": [
       "1636244|Match Winner|Away",
       "1636393|Match Winner|Home",
+      "1636431|Match Winner|Away",
+      "1636460|Match Winner|Away",
       "1636438|Match Winner|Away",
       "1636305|Match Winner|Away",
       "1636252|Match Winner|Home",
-      "1636412|Match Winner|Home",
       "1636420|Match Winner|Home",
-      "1636301|Match Winner|Away",
       "1636410|Match Winner|Home",
       "1636402|Match Winner|Away"
     ],
@@ -13076,12 +12805,12 @@
       1.9,
       2.1,
       2.05,
+      2.1,
+      2.05,
       1.7,
       2.0,
-      2.05,
       2.0,
-      2.1,
-      1.85,
+      1.91,
       1.85
     ],
     "ganadores_img": {
@@ -13101,6 +12830,22 @@
           "bandera": "🇳🇴",
           "escudo_url": "https://media.api-sports.io/football/teams/319.png",
           "nombre": "Brann",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Switzerland",
+          "bandera": "🇨🇭",
+          "escudo_url": "https://media.api-sports.io/football/teams/606.png",
+          "nombre": "Lugano",
+          "pick": "WIN",
+          "seleccion": false
+        },
+        {
+          "pais": "Denmark",
+          "bandera": "🇩🇰",
+          "escudo_url": "https://media.api-sports.io/football/teams/397.png",
+          "nombre": "FC Midtjylland",
           "pick": "WIN",
           "seleccion": false
         },
@@ -13129,26 +12874,10 @@
           "seleccion": false
         },
         {
-          "pais": "Belgium",
-          "bandera": "🇧🇪",
-          "escudo_url": "https://media.api-sports.io/football/teams/631.png",
-          "nombre": "Gent",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
           "pais": "Croatia",
           "bandera": "🇭🇷",
           "escudo_url": "https://media.api-sports.io/football/teams/608.png",
           "nombre": "Hajduk Split",
-          "pick": "WIN",
-          "seleccion": false
-        },
-        {
-          "pais": "France",
-          "bandera": "🇫🇷",
-          "escudo_url": "https://media.api-sports.io/football/teams/94.png",
-          "nombre": "Rennes",
           "pick": "WIN",
           "seleccion": false
         },
@@ -13175,47 +12904,45 @@
   {
     "id": "2026-11-26-pick-seguro",
     "fecha": "2026-11-26T10:30",
-    "texto": "Os dejo el pick, familia 👇\n🧠 Esta va con cabeza: analizada\n\n🟠 1899 Hoffenheim – Sturm Graz · 21:00\n\n🍀 Jon Stankovic (Sturm Graz): 1+ tiros @1,57\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Pick de hoy, con datos detrás 📊\n🧠 Esta va con cabeza: analizada\n\n🟠 Red Bull Salzburg – Ararat-Armenia · 18:45\n\n🍀 Artur Serobyan (Ararat-Armenia): 2+ tiros @1,67\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636270|Away Player Shots|Jon Stankovic - 1"
+      "1636334|Away Player Shots|Artur Serobyan - 2"
     ],
     "cuotas": [
-      1.57
+      1.67
     ]
   },
   {
     "id": "2026-11-26-lista-europa-1",
     "fecha": "2026-11-26T12:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 11 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇱🇹 Kauno Žalgiris marca\n🇨🇿 Plzen marca\n🇳🇴 Brann marca 2 o más\n🇳🇱 Peer Koopmeiners (AZ): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇳🇱 Dave Kwakman (AZ): 1+ tiros\n🇭🇺 Gana el Ferencvarosi TC\n🇧🇪 Ilias Sebaoui (St. Truiden): 2+ tiros\n\n👉 ¡Coge los que más te gusten! ✅",
+    "texto": "🏆⚽ COPAS EUROPEAS · 10 PICKS PARA HOY 🍀 (1/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇱🇹 Kauno Žalgiris marca\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇨🇿 Plzen marca\n🇨🇿 Más de 1,5 goles en la 2ª parte del Plzen–Benfica\n🇳🇱 Ramiz Zerrouki (Twente): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇳🇱 Dave Kwakman (AZ): 1+ tiros\n🇭🇺 Gana el Ferencvarosi TC\n\n👉 ¡Coge los que más te gusten! ✅",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1636431|Home Player Shots|Richard Sedlacek - 1",
       "1636334|Away Player Shots|Artur Serobyan - 2",
-      "1636421|Total - Home|Over 0.5",
       "1636438|Total - Home|Over 0.5",
+      "1636421|Total - Home|Over 0.5",
       "1636315|Total - Home|Over 0.5",
-      "1636393|Total - Home|Over 1.5",
-      "1636336|Away Player Shots|Peer Koopmeiners - 1",
+      "1636315|Goals Over/Under - Second Half|Over 1.5",
+      "1636410|Away Player Shots|Ramiz Zerrouki - 1",
       "1636270|Away Player Shots|Jon Stankovic - 1",
       "1636336|Away Player Shots|Dave Kwakman - 1",
-      "1636261|Match Winner|Home",
-      "1636420|Away Player Shots|Ilias Sebaoui - 2"
+      "1636261|Match Winner|Home"
     ],
     "cuotas": [
       1.53,
-      1.91,
-      1.36,
+      1.67,
       1.4,
       1.4,
-      1.8,
-      1.36,
-      1.57,
-      1.33,
+      1.4,
+      1.67,
+      1.4,
+      1.3,
       1.33,
       1.33
     ],
@@ -13224,6 +12951,20 @@
   {
     "id": "2026-11-26-pick-seguro-3",
     "fecha": "2026-11-26T12:30",
+    "texto": "Os dejo el pick, familia 👇\n🧠 Esta va con cabeza: analizada\n\n🟠 Crystal Palace – Real Sociedad · 21:00\n\n🍀 Orri Steinn Oskarsson (Real Sociedad): 3+ tiros @1,62\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636252|Away Player Shots|Orri Steinn Oskarsson - 3"
+    ],
+    "cuotas": [
+      1.62
+    ]
+  },
+  {
+    "id": "2026-11-26-pick-seguro-4",
+    "fecha": "2026-11-26T13:30",
     "texto": "Este lo tenemos claro 🔥\n🧠 Esta va con cabeza: analizada\n\n🟢 FK Jablonec – FC Lugano · 18:45\n\n🍀 Richard Sedlacek (FK Jablonec): 1+ tiros @1,53\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
@@ -13236,35 +12977,21 @@
     ]
   },
   {
-    "id": "2026-11-26-pick-seguro-4",
-    "fecha": "2026-11-26T13:30",
-    "texto": "Vamos con otro pick 🍀\n🧠 Esta va con cabeza: analizada\n\n🟢 SC Freiburg – Twente · 21:00\n\n🍀 Daouda Weidmann (Twente): 2+ tiros @1,57\n🧠 Stake 4/10\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1636410|Away Player Shots|Daouda Weidmann - 2"
-    ],
-    "cuotas": [
-      1.57
-    ]
-  },
-  {
     "id": "2026-11-26-combi-tres",
     "fecha": "2026-11-26T13:30",
-    "texto": "Vamos con la combi del jueves familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇭🇺 Gana el Ferencvarosi TC\n\n📈 Cuota @3,99",
+    "texto": "Vamos con la combi del jueves familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🇭🇺 Gana el Ferencvarosi TC\n🇪🇸 Orri Steinn Oskarsson (Real Sociedad): 3+ tiros\n\n📈 Cuota @3,60",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1636334|Away Player Shots|Artur Serobyan - 2",
-      "1636270|Away Player Shots|Jon Stankovic - 1",
-      "1636261|Match Winner|Home"
+      "1636261|Match Winner|Home",
+      "1636252|Away Player Shots|Orri Steinn Oskarsson - 3"
     ],
     "cuotas": [
-      1.91,
-      1.57,
-      1.33
+      1.67,
+      1.33,
+      1.62
     ],
     "solo_redes": true
   },
@@ -13285,33 +13012,33 @@
   {
     "id": "2026-11-26-lista-europa-2",
     "fecha": "2026-11-26T15:00",
-    "texto": "🏆⚽ COPAS EUROPEAS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇨🇿 Richard Sedlacek (FK Jablonec): 1+ tiros\n🇦🇲 Artur Serobyan (Ararat-Armenia): 2+ tiros\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Heart Of Midlothian marca\n🇱🇹 Kauno Žalgiris marca\n🇨🇿 Plzen marca\n🇭🇺 Ferencvarosi TC marca 2 o más\n🇳🇱 Peer Koopmeiners (AZ): 1+ tiros\n🇦🇹 Jon Stankovic (Sturm Graz): 1+ tiros\n🇳🇱 Dave Kwakman (AZ): 1+ tiros\n🇭🇺 Gana el Ferencvarosi TC\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "🏆⚽ COPAS EUROPEAS · 10 PICKS PARA HOY 🍀 (2/2)\n🤪 Para soñar un poco: con poquito dinero\n\n🇳🇴 Brann marca 2 o más\n🇳🇴 Más de 1,5 goles en la 2ª parte del Brann–Aarhus\n🇧🇪 Más de 1,5 goles en la 2ª parte del Union St. Gilloise–Lech Poznan\n🇨🇾 Más de 1,5 goles en la 2ª parte del Pafos–FC Midtjylland\n🇩🇪 Más de 1,5 goles en la 2ª parte del SC Freiburg–Twente\n🇭🇺 Ferencvarosi TC marca 2 o más\n🇧🇦 Más de 1,5 goles en la 2ª parte del Borac Banja Luka–Atalanta\n🇵🇹 Más de 1,5 goles en la 2ª parte del Torreense–Celtic\n🇳🇱 Más de 1,5 goles en la 2ª parte del NEC Nijmegen–Rennes\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Más de 1,5 goles en la 2ª parte del Crystal Palace–Real Sociedad\n\n👉 ¡Coge los que más te gusten! ✅\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636431|Home Player Shots|Richard Sedlacek - 1",
-      "1636334|Away Player Shots|Artur Serobyan - 2",
-      "1636421|Total - Home|Over 0.5",
-      "1636438|Total - Home|Over 0.5",
-      "1636315|Total - Home|Over 0.5",
+      "1636393|Total - Home|Over 1.5",
+      "1636393|Goals Over/Under - Second Half|Over 1.5",
+      "1636329|Goals Over/Under - Second Half|Over 1.5",
+      "1636460|Goals Over/Under - Second Half|Over 1.5",
+      "1636410|Goals Over/Under - Second Half|Over 1.5",
       "1636261|Total - Home|Over 1.5",
-      "1636336|Away Player Shots|Peer Koopmeiners - 1",
-      "1636270|Away Player Shots|Jon Stankovic - 1",
-      "1636336|Away Player Shots|Dave Kwakman - 1",
-      "1636261|Match Winner|Home"
+      "1636386|Goals Over/Under - Second Half|Over 1.5",
+      "1636349|Goals Over/Under - Second Half|Over 1.5",
+      "1636301|Goals Over/Under - Second Half|Over 1.5",
+      "1636252|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
-      1.53,
-      1.91,
+      1.8,
+      1.73,
+      1.67,
+      1.73,
+      1.67,
       1.36,
-      1.4,
-      1.4,
-      1.36,
-      1.36,
-      1.57,
-      1.33,
-      1.33
+      1.8,
+      1.73,
+      1.73,
+      1.73
     ],
     "solo_redes": true
   },
@@ -13346,19 +13073,19 @@
   {
     "id": "2026-11-26-estrella-1636255",
     "fecha": "2026-11-26T18:10",
-    "texto": "Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (18:45) 🔥\n\n🍀 Luka Stojkovic: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Bayer Leverkusen gana alguna de las dos partes\n🍀 Bayer Leverkusen marca 2 o más\n\n📈 Cuota @4,72 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Hoy hay partidazo: Dinamo Zagreb 🆚 Bayer Leverkusen 🟠⭐\n🎢 Cuota grande, stake pequeño 🤏\n\nVamos con la combi del partido estrella (18:45) 🔥\n\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 Luka Stojkovic: 2+ tiros\n🍀 Bayer Leverkusen gana alguna de las dos partes\n🍀 Bayer Leverkusen marca 2 o más\n\n📈 Cuota @4,72 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1636255|Home Player Shots|Luka Stojkovic - 2",
       "1636255|Goals Over/Under - Second Half|Over 1.5",
+      "1636255|Home Player Shots|Luka Stojkovic - 2",
       "1636255|To Win Either Half|Away",
       "1636255|Total - Away|Over 1.5"
     ],
     "cuotas": [
-      1.62,
       1.67,
+      1.62,
       1.36,
       1.5
     ],
@@ -13407,6 +13134,40 @@
     },
     "solo_redes": true,
     "cuota_total": 3.97,
+    "cuota_calculada": true
+  },
+  {
+    "id": "2026-11-26-combi-partido-1636301",
+    "fecha": "2026-11-26T20:25",
+    "texto": "Os dejo la combi del NEC Nijmegen – Rennes 🟠🔥\n🍿 Para darle emoción al día, con calma en el stake\n\n🍀 Mousa Tamari: 2+ tiros\n🍀 Kevin Kers: 2+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n🍀 NEC Nijmegen o empate\n\n📈 Cuota @4,89 aprox.",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1636301|Away Player Shots|Mousa Tamari - 2",
+      "1636301|Home Player Shots|Kevin Kers - 2",
+      "1636301|Goals Over/Under - Second Half|Over 1.5",
+      "1636301|Double Chance|Home/Draw"
+    ],
+    "cuotas": [
+      1.28,
+      1.28,
+      1.73,
+      1.62
+    ],
+    "espera_alineacion": true,
+    "tarjeta": {
+      "local": "NEC Nijmegen",
+      "visitante": "Rennes",
+      "id_l": 413,
+      "id_v": 94,
+      "logo_l": "https://media.api-sports.io/football/teams/413.png",
+      "logo_v": "https://media.api-sports.io/football/teams/94.png",
+      "fecha": "2026-11-26T21:00",
+      "liga": "Europa League"
+    },
+    "solo_redes": true,
+    "cuota_total": 4.89,
     "cuota_calculada": true
   },
   {
@@ -13473,7 +13234,7 @@
   {
     "id": "2026-11-27-pick-seguro",
     "fecha": "2026-11-27T10:30",
-    "texto": "Os dejo el pick, familia 👇\n📋 Números en la mano antes de meterla\n\n🇩🇪 Werder Bremen – Borussia Mönchengladbach · 20:30\n\n🍀 Gana el Werder Bremen @1,75\n🧠 Stake 3/10\n\n👨‍💻 El Werder Bremen no ha perdido en casa en sus últimos 4 partidos (3V 1E).\n👨‍💻 El Werder Bremen va 7º y el Borussia Mönchengladbach 18º en la liga.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Os dejo el pick, familia 👇\n📋 Números en la mano antes de meterla\n\n🇩🇪 Werder Bremen – Borussia Mönchengladbach · 20:30\n\n🍀 Gana el Werder Bremen @1,75\n🧠 Stake 3/10\n\n👨‍💻 El Werder Bremen no ha perdido en casa en sus últimos 5 partidos (4V 1E).\n👨‍💻 El Werder Bremen va 6º y el Borussia Mönchengladbach 18º en la liga.\n👨‍💻 El Werder Bremen ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13487,7 +13248,21 @@
   {
     "id": "2026-11-27-pick-seguro-3",
     "fecha": "2026-11-27T12:30",
-    "texto": "Os dejo el pick, familia 👇\n📋 Números en la mano antes de meterla\n\n🇩🇪 Werder Bremen – Borussia Mönchengladbach · 20:30\n\n🍀 Werder Bremen marca 2 o más @1,53\n\n👨‍💻 El Werder Bremen va 7º y el Borussia Mönchengladbach 18º en la liga.\n👨‍💻 Los partidos del Werder Bremen llevan 3,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo el pick, familia 👇\n📋 Números en la mano antes de meterla\n\n🇩🇪 Werder Bremen – Borussia Mönchengladbach · 20:30\n\n🍀 Más de 1,5 goles en la 2ª parte del Werder Bremen–Borussia Mönchengladbach @1,67\n\n👨‍💻 Los partidos del Werder Bremen llevan 3,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1575237|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.67
+    ]
+  },
+  {
+    "id": "2026-11-27-pick-seguro-4",
+    "fecha": "2026-11-27T13:30",
+    "texto": "Os dejo el pick, familia 👇\n📋 Números en la mano antes de meterla\n\n🇩🇪 Werder Bremen – Borussia Mönchengladbach · 20:30\n\n🍀 Werder Bremen marca 2 o más @1,53\n\n👨‍💻 El Werder Bremen va 6º y el Borussia Mönchengladbach 18º en la liga.\n👨‍💻 Los partidos del Werder Bremen llevan 3,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Borussia Mönchengladbach llevan 3,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13499,29 +13274,15 @@
     ]
   },
   {
-    "id": "2026-11-27-pick-seguro-4",
-    "fecha": "2026-11-27T13:30",
-    "texto": "Pick de hoy, con datos detrás 📊\n📋 Números en la mano antes de meterla\n\n🇪🇸 Levante – Racing Santander · 21:00\n\n🍀 Levante marca 2 o más @1,73\n\n👨‍💻 Los partidos del Levante llevan 2,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Racing Santander llevan 3,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1570468|Total - Home|Over 1.5"
-    ],
-    "cuotas": [
-      1.73
-    ]
-  },
-  {
     "id": "2026-11-27-combi-tres",
     "fecha": "2026-11-27T13:30",
-    "texto": "Vamos con la combi del viernes familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🇩🇪 Gana el Werder Bremen\n🇪🇸 Levante marca 2 o más\n\n📈 Cuota @3,03\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del viernes familia 🔥\n🧠 Esta va con cabeza: analizada\n\n🇩🇪 Gana el Werder Bremen\n🇪🇸 Más de 1,5 goles en la 2ª parte del Levante–Racing Santander\n\n📈 Cuota @3,03\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1575237|Match Winner|Home",
-      "1570468|Total - Home|Over 1.5"
+      "1570468|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.75,
@@ -13530,9 +13291,23 @@
     "solo_redes": true
   },
   {
+    "id": "2026-11-27-pick-seguro-5",
+    "fecha": "2026-11-27T15:00",
+    "texto": "Pick de hoy, con datos detrás 📊\n📋 Números en la mano antes de meterla\n\n🇪🇸 Levante – Racing Santander · 21:00\n\n🍀 Más de 1,5 goles en la 2ª parte del Levante–Racing Santander @1,73\n\n👨‍💻 Los partidos del Levante llevan 2,9 goles de media (últimos 8).\n👨‍💻 Los partidos del Racing Santander llevan 3,4 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1570468|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.73
+    ]
+  },
+  {
     "id": "2026-11-27-pick-seguro-2",
     "fecha": "2026-11-27T18:00",
-    "texto": "Vamos con otro pick 🍀\n\n🇮🇹 Venezia – Bologna · 20:45\n\n🍀 Venezia marca @1,40\n\n👨‍💻 Los partidos del Venezia llevan 2,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Bologna llevan 3,0 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Vamos con otro pick 🍀\n\n🇮🇹 Venezia – Bologna · 20:45\n\n🍀 Venezia marca @1,40\n\n👨‍💻 Los partidos del Venezia llevan 2,2 goles de media (últimos 8).\n👨‍💻 Los partidos del Bologna llevan 3,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13546,19 +13321,19 @@
   {
     "id": "2026-11-28-picks-manana",
     "fecha": "2026-11-27T23:00",
-    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Blackburn\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Rafiki Said (Wolves): 2+ tiros\n🇩🇪 Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n🇳🇱 Cambuur o empate\n\n⚽ ¡Cógelos sueltos o combínalos! ✅",
+    "texto": "🔥⚽ COMBILOCAS — ¡4 PICKS PARA MAÑANA! 🍀\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Rafiki Said (Wolves): 2+ tiros\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gana el Blackburn\n🇩🇪 Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin\n🇳🇱 Cambuur o empate\n\n⚽ ¡Cógelos sueltos o combínalos! ✅",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1563288|Match Winner|Home",
       "1563290|Away Player Shots|Rafiki Said - 2",
+      "1563288|Match Winner|Home",
       "1575234|Goals Over/Under - Second Half|Over 1.5",
       "1552234|Double Chance|Home/Draw"
     ],
     "cuotas": [
-      1.8,
       1.28,
+      1.8,
       1.73,
       1.5
     ],
@@ -13780,7 +13555,7 @@
   {
     "id": "2026-11-28-pick-seguro",
     "fecha": "2026-11-28T10:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Malaga – Athletic Club · 16:15\n\n🍀 Malaga marca @1,50\n\n👨‍💻 Los partidos del Malaga llevan 3,1 goles de media (últimos 8).\n👨‍💻 Los partidos del Athletic Club llevan 2,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇪🇸 Malaga – Athletic Club · 16:15\n\n🍀 Malaga marca @1,50\n\n👨‍💻 Los partidos del Malaga llevan 2,8 goles de media (últimos 8).\n👨‍💻 Los partidos del Athletic Club llevan 2,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13827,7 +13602,7 @@
   {
     "id": "2026-11-28-pick-seguro-3",
     "fecha": "2026-11-28T12:30",
-    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇩🇪 Hamburger SV – Bayern München · 15:30\n\n🍀 Hamburger SV marca @1,50\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Hamburger SV llevan 3,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Bayern München llevan 4,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇩🇪 Hamburger SV – Bayern München · 15:30\n\n🍀 Hamburger SV marca @1,50\n🧠 Stake 3/10\n\n👨‍💻 Los partidos del Hamburger SV llevan 3,2 goles de media (últimos 8).\n👨‍💻 Los partidos del Bayern München llevan 4,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13841,7 +13616,7 @@
   {
     "id": "2026-11-28-pick-seguro-4",
     "fecha": "2026-11-28T13:30",
-    "texto": "Pick que nos gusta mucho para hoy 👀\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds – Coventry · 16:00\n\n🍀 Gana el Leeds @1,55\n\n👨‍💻 El Leeds no ha perdido en casa en sus últimos 5 partidos (2V 3E).\n👨‍💻 El Leeds va 6º y el Coventry 13º en la liga.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Pick que nos gusta mucho para hoy 👀\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds – Coventry · 16:00\n\n🍀 Gana el Leeds @1,55\n\n👨‍💻 El Leeds no ha perdido en casa en sus últimos 5 partidos (2V 3E).\n👨‍💻 El Leeds va 6º y el Coventry 14º en la liga.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13872,20 +13647,6 @@
   {
     "id": "2026-11-28-pick-seguro-5",
     "fecha": "2026-11-28T15:00",
-    "texto": "Este lo tenemos claro 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Nice – Estac Troyes · 20:45\n\n🍀 Nice marca 2 o más @1,62\n\n👨‍💻 El Nice va 7º y el Estac Troyes 14º en la liga.\n👨‍💻 Los partidos del Nice llevan 3,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Estac Troyes llevan 2,1 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1552834|Total - Home|Over 1.5"
-    ],
-    "cuotas": [
-      1.62
-    ]
-  },
-  {
-    "id": "2026-11-28-pick-seguro-6",
-    "fecha": "2026-11-28T16:30",
     "texto": "Vamos con otro pick 🍀\n📊 Con datos detrás, nada de corazonadas\n\n🇫🇷 Le Havre – Strasbourg · 20:45\n\n🍀 Más de 1,5 goles en la 2ª parte del Le Havre–Strasbourg @1,80\n\n👨‍💻 Los partidos del Le Havre llevan 3,6 goles de media (últimos 8).\n👨‍💻 Los partidos del Strasbourg llevan 3,2 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
@@ -13898,9 +13659,23 @@
     ]
   },
   {
+    "id": "2026-11-28-pick-seguro-6",
+    "fecha": "2026-11-28T16:30",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📊 Con datos detrás, nada de corazonadas\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ipswich – Aston Villa · 18:30\n\n🍀 Más de 1,5 goles en la 2ª parte del Ipswich–Aston Villa @1,73\n\n👨‍💻 Los partidos del Ipswich llevan 3,2 goles de media (últimos 8).\n👨‍💻 Los partidos del Aston Villa llevan 3,0 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "analista",
+    "directo": true,
+    "sel": [
+      "1557482|Goals Over/Under - Second Half|Over 1.5"
+    ],
+    "cuotas": [
+      1.73
+    ]
+  },
+  {
     "id": "2026-11-28-pick-seguro-2",
     "fecha": "2026-11-28T18:00",
-    "texto": "Este lo tenemos claro 🔥\n\n🇫🇷 Nice – Estac Troyes · 20:45\n\n🍀 Gana el Nice @1,65\n🧠 Stake 3/10\n\n👨‍💻 El Nice va 7º y el Estac Troyes 14º en la liga.\n👨‍💻 El Nice ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
+    "texto": "Este lo tenemos claro 🔥\n\n🇫🇷 Nice – Estac Troyes · 20:45\n\n🍀 Gana el Nice @1,65\n\n👨‍💻 El Nice va 7º y el Estac Troyes 14º en la liga.\n👨‍💻 El Nice ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -13926,7 +13701,7 @@
       "1570471|Match Winner|Home"
     ],
     "cuotas": [
-      2.1,
+      2.05,
       1.22,
       2.1
     ],
@@ -13979,7 +13754,7 @@
       "1557477|Match Winner|Home"
     ],
     "cuotas": [
-      2.1,
+      1.95,
       1.55,
       1.8,
       2.15,
@@ -14137,7 +13912,7 @@
   {
     "id": "2026-11-29-pick-seguro",
     "fecha": "2026-11-29T10:30",
-    "texto": "Os dejo el pick, familia 👇\n📈 De las que hemos estudiado bien\n\n🇪🇸 Deportivo La Coruna – Barcelona · 16:15\n\n🍀 Deportivo La Coruna marca @1,50\n\n👨‍💻 Los partidos del Deportivo La Coruna llevan 2,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Barcelona llevan 4,6 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Os dejo el pick, familia 👇\n📈 De las que hemos estudiado bien\n\n🇪🇸 Deportivo La Coruna – Barcelona · 16:15\n\n🍀 Deportivo La Coruna marca @1,50\n\n👨‍💻 Los partidos del Deportivo La Coruna llevan 2,5 goles de media (últimos 8).\n👨‍💻 Los partidos del Barcelona llevan 4,9 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -14151,7 +13926,7 @@
   {
     "id": "2026-11-29-pick-seguro-3",
     "fecha": "2026-11-29T12:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton – Newcastle · 15:05\n\n🍀 Gana el Brighton @1,55\n🧠 Stake 3/10\n\n👨‍💻 El Brighton no ha perdido en casa en sus últimos 6 partidos (5V 1E).\n👨‍💻 El Brighton va 3º y el Newcastle 12º en la liga.\n👨‍💻 El Brighton ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton – Newcastle · 15:05\n\n🍀 Gana el Brighton @1,55\n🧠 Stake 3/10\n\n👨‍💻 El Brighton no ha perdido en casa en sus últimos 6 partidos (5V 1E).\n👨‍💻 El Brighton va 3º y el Newcastle 13º en la liga.\n👨‍💻 El Brighton ha ganado 3 de sus últimos 5 partidos.\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
@@ -14165,12 +13940,12 @@
   {
     "id": "2026-11-29-pick-seguro-4",
     "fecha": "2026-11-29T13:30",
-    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton – Newcastle · 15:05\n\n🍀 Brighton marca 2 o más @1,50\n\n👨‍💻 El Brighton va 3º y el Newcastle 12º en la liga.\n👨‍💻 Los partidos del Brighton llevan 2,4 goles de media (últimos 8).\n👨‍💻 Los partidos del Newcastle llevan 2,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con el pick de hoy familia 🔥\n📈 De las que hemos estudiado bien\n\n🇩🇪 1899 Hoffenheim – FC Augsburg · 17:30\n\n🍀 Más de 1,5 goles en la 2ª parte del 1899 Hoffenheim–FC Augsburg @1,50\n\n👨‍💻 Los partidos del 1899 Hoffenheim llevan 2,4 goles de media (últimos 8).\n👨‍💻 Los partidos del FC Augsburg llevan 4,8 goles de media (últimos 8).\n\n📊 Historial: 4 de 6 en verde · +4 %\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1557478|Total - Home|Over 1.5"
+      "1575232|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.5
@@ -14179,16 +13954,16 @@
   {
     "id": "2026-11-29-combi-tres",
     "fecha": "2026-11-29T13:30",
-    "texto": "Vamos con la combi del domingo familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇪🇸 Deportivo La Coruna marca\n🇮🇹 AS Roma marca en las dos partes\n\n📈 Cuota @2,59\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Vamos con la combi del domingo familia 🔥\n🧠 Pensada con calma, sin prisas\n\n🇫🇷 Más de 1,5 goles en la 2ª parte del Auxerre–Marseille\n🇮🇹 AS Roma marca en las dos partes\n\n📈 Cuota @3,11\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
-      "1570465|Total - Home|Over 0.5",
+      "1552829|Goals Over/Under - Second Half|Over 1.5",
       "1550207|To Score In Both Halves By Teams|Home"
     ],
     "cuotas": [
-      1.5,
+      1.8,
       1.73
     ],
     "solo_redes": true
@@ -14230,20 +14005,18 @@
   {
     "id": "2026-11-29-estrella-1557478",
     "fecha": "2026-11-29T14:30",
-    "texto": "Hoy hay partidazo: Brighton 🆚 Newcastle 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (15:05) 🔥\n\n🍀 Harvey Barnes: 2+ tiros\n🍀 Gana el Brighton\n🍀 Brighton marca 2 o más\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,78 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "texto": "Hoy hay partidazo: Brighton 🆚 Newcastle 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n🎉 Esta es por diversión: stake mínimo 🤏\n\nVamos con la combi del partido estrella (15:05) 🔥\n\n🍀 Harvey Barnes: 2+ tiros\n🍀 Gana el Brighton\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @4,43 aprox.\n\n🔔 Activad las notificaciones, que vienen más combis 👀",
     "foto": null,
     "origen": "analista",
     "directo": true,
     "sel": [
       "1557478|Away Player Shots|Harvey Barnes - 2",
       "1557478|Match Winner|Home",
-      "1557478|Total - Home|Over 1.5",
       "1557478|Goals Over/Under - Second Half|Over 1.5"
     ],
     "cuotas": [
       1.44,
       1.55,
-      1.5,
       1.73
     ],
     "espera_alineacion": true,
@@ -14258,7 +14031,7 @@
       "liga": "Premier"
     },
     "solo_redes": true,
-    "cuota_total": 4.78,
+    "cuota_total": 4.43,
     "cuota_calculada": true
   },
   {
@@ -14288,195 +14061,5 @@
     "cuotas": [
       1.67
     ]
-  },
-  {
-    "id": "2026-11-23-loca-th-noche-2100-ganaambos",
-    "fecha": "2026-11-22T21:00",
-    "texto": "💥🏆 GANA Y AMBOS MARCAN 💥🏆\n\n🇮🇹 Monza – Fiorentina · 20:45\n✅ ↔️ Gana Fiorentina y ambos marcan\n\n🇪🇸 Levante – Elche · 21:00\n✅ ↔️ Gana Levante y ambos marcan\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00\n✅ ↔️ Gana Brentford y ambos marcan\n\n🎯 CUOTA 55,21 💎 · 10€ → 552€\n\n🔥 Goles y victoria: así nos gusta 🔥",
-    "sel": [
-      "1550203|Results/Both Teams Score|Away/Yes",
-      "1557469|Results/Both Teams Score|Home/Yes",
-      "1570457|Results/Both Teams Score|Home/Yes"
-    ],
-    "cuotas": [
-      3.4,
-      4.33,
-      3.75
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 55.21,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_porque": true,
-    "ganadores_img": {
-      "titulo": "GANA Y AMBOS MARCAN",
-      "liga": null,
-      "filas": [
-        {
-          "pais": "Italy",
-          "bandera": "🇮🇹",
-          "escudo_url": "https://media.api-sports.io/football/teams/502.png",
-          "nombre": "Fiorentina",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        },
-        {
-          "pais": "England",
-          "bandera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-          "escudo_url": "https://media.api-sports.io/football/teams/55.png",
-          "nombre": "Brentford",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        },
-        {
-          "pais": "Spain",
-          "bandera": "🇪🇸",
-          "escudo_url": "https://media.api-sports.io/football/teams/539.png",
-          "nombre": "Levante",
-          "pick": "WIN + BTTS",
-          "seleccion": false
-        }
-      ],
-      "lema": null
-    }
-  },
-  {
-    "id": "2026-11-23-loca-th-noche-2130-lista-ambos",
-    "fecha": "2026-11-22T21:30",
-    "texto": "⚽ AMBOS MARCAN MAÑANA ⚽\n\n1. 🇮🇹 Monza–Fiorentina ➜ Ambos marcan @1,53\n2. 🇪🇸 Levante–Elche ➜ Ambos marcan @1,57\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton ➜ Ambos marcan @1,62\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1550203|Both Teams Score|Yes",
-      "1557469|Both Teams Score|Yes",
-      "1570457|Both Teams Score|Yes"
-    ],
-    "cuotas": [
-      1.5,
-      1.67,
-      1.57
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-22T20:04"
-  },
-  {
-    "id": "2026-11-23-loca-th-noche-2200-duelo",
-    "fecha": "2026-11-22T22:00",
-    "texto": "🥊 EL DUELO DE TIROS 🥊\n\n⭐ Monza vs Fiorentina · 20:45\n\n✅ 🎯 Omari Forson: 2+ tiros (Monza)\n✅ 🎯 Beto: 3+ tiros (Fiorentina)\n\n🎯 CUOTA 2,14 aprox. 💎 · 10€ → 21,40€\n\n👇 ¿Quién dispara más? 👇",
-    "sel": [
-      "1550203|Home Player Shots|Omari Forson - 2",
-      "1550203|Away Player Shots|Beto - 3"
-    ],
-    "cuotas": [
-      1.53,
-      1.4
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 2.14,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true,
-    "cuotas_revisadas": "2026-11-22T20:31"
-  },
-  {
-    "id": "2026-11-23-loca-th-noche-2230-lista-corners",
-    "fecha": "2026-11-22T22:30",
-    "texto": "🚩 CÓRNERS DE MAÑANA 🚩\n\n1. 🇮🇹 Monza–Fiorentina ➜ +9 córners @1,80\n2. 🇪🇸 Levante–Elche ➜ Levante más córners @1,57\n3. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford–Everton ➜ Brentford más córners @1,67\n\n👇 ¿Con cuál os quedáis? 👇",
-    "sel": [
-      "1550203|Corners Over Under|Over 9",
-      "1557469|Corners 1x2|Home",
-      "1570457|Corners 1x2|Home"
-    ],
-    "cuotas": [
-      1.8,
-      1.67,
-      1.57
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": null,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": true,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true
-  },
-  {
-    "id": "2026-11-23-loca-th-noche-2300-empates",
-    "fecha": "2026-11-22T23:00",
-    "texto": "⚖️ LA COMBI DE LOS EMPATES ⚖️\n\n🇮🇹 Monza – Fiorentina · 20:45 ➜ ✅ 🤝 Empate @3,80\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00 ➜ ✅ 🤝 Empate @3,50\n🇪🇸 Levante – Elche · 21:00 ➜ ✅ 🤝 Empate @3,60\n\n🎯 CUOTA 47,88 💎 · 10€ → 479€\n\n😮‍💨 Para valientes 😮‍💨",
-    "sel": [
-      "1550203|Match Winner|Draw",
-      "1557469|Match Winner|Draw",
-      "1570457|Match Winner|Draw"
-    ],
-    "cuotas": [
-      3.8,
-      3.5,
-      3.6
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 47.88,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_en": [
-      "threads"
-    ],
-    "sin_foto": true,
-    "sin_porque": true
-  },
-  {
-    "id": "2026-11-23-loca-th-noche-2330-escudos",
-    "fecha": "2026-11-22T23:30",
-    "texto": "⚡ COMBI LEVANTE – ELCHE ⚡\n\n⭐ Levante vs Elche · 21:00\n\n🎳 Daniel Requena: 2+ tiros\n🎳 Victor Garcia: 3+ tiros\n🎭 Ambos marcan\n👑 Levante gana una parte\n\n🎯 CUOTA 5,70 aprox. 💎 10€ → 57,00€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
-    "sel": [
-      "1570457|Home Player Shots|Daniel Requena - 2",
-      "1570457|Home Player Shots|Victor Garcia - 3",
-      "1570457|Both Teams Score|Yes",
-      "1570457|To Win Either Half|Home"
-    ],
-    "cuotas": [
-      1.44,
-      1.44,
-      1.57,
-      1.62
-    ],
-    "origen": "threads_locas",
-    "cuota_bet365": 5.7,
-    "fijo": true,
-    "directo": true,
-    "enlace_telegram": false,
-    "solo_redes": true,
-    "tarjeta": {
-      "local": "Levante",
-      "visitante": "Elche",
-      "id_l": 539,
-      "id_v": 797,
-      "logo_l": "https://media.api-sports.io/football/teams/539.png",
-      "logo_v": "https://media.api-sports.io/football/teams/797.png",
-      "fecha": "2026-11-23T21:00",
-      "liga": "La Liga"
-    },
-    "cuota_total": 5.7,
-    "cuota_calculada": true
   }
 ]

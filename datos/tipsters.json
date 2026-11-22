@@ -3752,6 +3752,11 @@
    "liga": "La Liga",
    "cuota_bet365": 1.83,
    "prob_cuota": 0.565
-  }
+  },
+  "estado": "verde",
+  "marcador": [
+   1,
+   0
+  ]
  }
 ]

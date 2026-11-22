@@ -1,21 +1,21 @@
 # Inter – VfB Stuttgart
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:04_
+_Actualizadas: 22/11 20:34_
 
 - **1X2:** 1 **1.42**  ·  X **5.25**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.12**  ·  12 **1.17**  ·  X2 **2.75**
 - **Ambos marcan:** Sí **1.36**  ·  No **3.00**
 - **Goles más/menos:**
-    - 1,5: más **1.06** · menos **10.00**
+    - 1,5: más **1.07** · menos **9.00**
     - 2,5: más **1.25** · menos **4.00**
     - 3,5: más **1.62** · menos **2.30**
     - 4,5: más **2.38** · menos **1.57**
     - 5,5: más **4.00** · menos **1.25**
-    - 6,5: más **6.50** · menos **1.11**
+    - 6,5: más **7.00** · menos **1.10**
     - 7,5: más **13.00** · menos **1.04**
 - **Goles 1ª parte más/menos:**
     - 0,5: más **1.14** · menos **5.50**

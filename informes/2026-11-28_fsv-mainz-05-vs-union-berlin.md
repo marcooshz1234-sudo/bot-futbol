@@ -1,7 +1,7 @@
 # FSV Mainz 05 – Union Berlin
 **Bundesliga** · Regular Season - 11 · 28/11/2026 15:30 (hora España) · Mewa Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:14_
@@ -51,53 +51,53 @@ _Actualizadas: 22/11 00:14_
 ## Estadísticas de equipo
 | | FSV Mainz 05 (total) | FSV Mainz 05 en casa | Union Berlin (total) | Union Berlin fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 12 | 6 |
-| Forma (últimos 5) | DDDDV | DDDDE | DDEDE | DDEDD |
-| Balance | 4V 1E 6D | 0V 1E 4D | 2V 4E 6D | 1V 1E 4D |
-| Goles a favor / partido | 2,45 | 1,40 | 1,00 | 0,83 |
-| Goles en contra / partido | 1,91 | 2,40 | 2,75 | 3,50 |
-| Goles a favor 1ª parte | 1,18 | 0,60 | 0,33 | 0,17 |
-| Goles a favor 2ª parte | 1,27 | 0,80 | 0,67 | 0,67 |
-| Goles en contra 1ª parte | 1,00 | 1,40 | 0,92 | 1,17 |
-| Goles en contra 2ª parte | 0,91 | 1,00 | 1,83 | 2,33 |
-| Más de 1,5 goles | 82% | 80% | 83% | 100% |
-| Más de 2,5 goles | 73% | 80% | 58% | 67% |
-| Más de 3,5 goles | 64% | 60% | 58% | 67% |
-| Ambos marcan | 55% | 80% | 50% | 33% |
-| Portería a cero | 36% | 20% | 17% | 0% |
-| Se queda sin marcar | 18% | 20% | 42% | 67% |
-| xG a favor | 1,81 | 1,77 | 1,01 | 0,69 |
-| xG en contra | 1,65 | 2,03 | 2,44 | 2,82 |
-| Tiros / partido | 16,7 | 18,2 | 11,6 | 8,7 |
-| Tiros a puerta / partido | 5,8 | 4,6 | 4,2 | 2,8 |
-| Tiros recibidos | 13,5 | 16,0 | 17,8 | 19,8 |
-| Tiros a puerta recibidos | 4,6 | 5,8 | 6,8 | 8,8 |
+| Partidos analizados | 12 | 5 | 12 | 6 |
+| Forma (últimos 5) | DDDDD | DDDDE | DDEDE | DDEDD |
+| Balance | 4V 1E 7D | 0V 1E 4D | 2V 4E 6D | 1V 1E 4D |
+| Goles a favor / partido | 2,33 | 1,40 | 1,00 | 0,83 |
+| Goles en contra / partido | 2,00 | 2,40 | 2,75 | 3,50 |
+| Goles a favor 1ª parte | 1,08 | 0,60 | 0,33 | 0,17 |
+| Goles a favor 2ª parte | 1,25 | 0,80 | 0,67 | 0,67 |
+| Goles en contra 1ª parte | 1,08 | 1,40 | 0,92 | 1,17 |
+| Goles en contra 2ª parte | 0,92 | 1,00 | 1,83 | 2,33 |
+| Más de 1,5 goles | 83% | 80% | 83% | 100% |
+| Más de 2,5 goles | 75% | 80% | 58% | 67% |
+| Más de 3,5 goles | 67% | 60% | 58% | 67% |
+| Ambos marcan | 58% | 80% | 50% | 33% |
+| Portería a cero | 33% | 20% | 17% | 0% |
+| Se queda sin marcar | 17% | 20% | 42% | 67% |
+| xG a favor | 1,76 | 1,77 | 1,01 | 0,69 |
+| xG en contra | 1,82 | 2,03 | 2,44 | 2,82 |
+| Tiros / partido | 15,9 | 18,2 | 11,6 | 8,7 |
+| Tiros a puerta / partido | 5,7 | 4,6 | 4,2 | 2,8 |
+| Tiros recibidos | 14,2 | 16,0 | 17,8 | 19,8 |
+| Tiros a puerta recibidos | 5,0 | 5,8 | 6,8 | 8,8 |
 | Posesión media % | 51 | 47 | 41 | 37 |
-| Córners a favor | 6,2 | 6,4 | 3,8 | 3,0 |
-| Córners en contra | 4,7 | 5,0 | 5,8 | 6,7 |
-| Córners a favor 1ª parte | 3,3 | 3,0 | 1,3 | 1,0 |
-| Córners a favor 2ª parte | 2,9 | 3,4 | 2,4 | 2,0 |
-| Córners totales del partido | 10,9 | 11,4 | 9,5 | 9,7 |
-| Córners totales 1ª parte | 5,6 | 5,4 | 4,2 | 4,3 |
-| Córners totales 2ª parte | 5,3 | 6,0 | 5,3 | 5,3 |
-| Más de 8,5 córners | 82% | 80% | 58% | 50% |
-| Más de 9,5 córners | 64% | 60% | 50% | 50% |
-| Más de 10,5 córners | 55% | 60% | 33% | 50% |
-| Faltas cometidas | 12,3 | 9,0 | 12,6 | 13,5 |
-| Faltas recibidas | 9,7 | 8,4 | 10,1 | 9,5 |
-| Amarillas propias | 1,9 | 1,2 | 2,7 | 2,7 |
+| Córners a favor | 5,7 | 6,4 | 3,8 | 3,0 |
+| Córners en contra | 4,8 | 5,0 | 5,8 | 6,7 |
+| Córners a favor 1ª parte | 3,0 | 3,0 | 1,3 | 1,0 |
+| Córners a favor 2ª parte | 2,7 | 3,4 | 2,4 | 2,0 |
+| Córners totales del partido | 10,5 | 11,4 | 9,5 | 9,7 |
+| Córners totales 1ª parte | 5,4 | 5,4 | 4,2 | 4,3 |
+| Córners totales 2ª parte | 5,1 | 6,0 | 5,3 | 5,3 |
+| Más de 8,5 córners | 75% | 80% | 58% | 50% |
+| Más de 9,5 córners | 58% | 60% | 50% | 50% |
+| Más de 10,5 córners | 50% | 60% | 33% | 50% |
+| Faltas cometidas | 12,2 | 9,0 | 12,6 | 13,5 |
+| Faltas recibidas | 9,8 | 8,4 | 10,1 | 9,5 |
+| Amarillas propias | 2,0 | 1,2 | 2,7 | 2,7 |
 | Amarillas del rival | 1,5 | 1,4 | 1,8 | 1,2 |
-| Rojas / partido | 0,09 | 0,00 | 0,08 | 0,17 |
+| Rojas / partido | 0,08 | 0,00 | 0,08 | 0,17 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles FSV Mainz 05 | Recibe FSV Mainz 05 | Tarjetas FSV Mainz 05 | Goles Union Berlin | Recibe Union Berlin | Tarjetas Union Berlin |
 |---|---|---|---|---|---|---|
 | 1-15' | 0 | 7 | 2 | 2 | 4 | 3 |
-| 16-30' | 5 | 2 | 2 | 0 | 4 | 5 |
-| 31-45' | 8 | 2 | 5 | 2 | 3 | 8 |
-| 46-60' | 3 | 5 | 1 | 0 | 8 | 4 |
-| 61-75' | 2 | 3 | 4 | 3 | 7 | 2 |
-| 76-90' | 9 | 2 | 9 | 5 | 7 | 11 |
+| 16-30' | 5 | 3 | 2 | 0 | 4 | 5 |
+| 31-45' | 8 | 3 | 6 | 2 | 3 | 8 |
+| 46-60' | 4 | 6 | 1 | 0 | 8 | 4 |
+| 61-75' | 2 | 3 | 5 | 3 | 7 | 2 |
+| 76-90' | 9 | 2 | 10 | 5 | 7 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,35 +115,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de FSV Mainz 05
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Bundesliga | FC Augsburg 3-1 FSV Mainz 05 | fuera | 0-6 | 7 (4) - 22 (9) | 3-1 |
 | 2026-11-07 | Bundesliga | FSV Mainz 05 1-2 Bayern München | casa | 7-8 | 11 (1) - 26 (9) | 0-1 |
 | 2026-10-30 | Bundesliga | SV Elversberg 4-1 FSV Mainz 05 | fuera | 11-5 | 10 (2) - 13 (6) | 3-0 |
 | 2026-10-27 | DFB-Pokal | VfL Bochum 2-0 FSV Mainz 05 | fuera | 6-5 | 9 (5) - 8 (3) | 1-3 |
 | 2026-10-24 | Bundesliga | FSV Mainz 05 2-3 Werder Bremen | casa | 6-7 | 18 (8) - 17 (8) | 2-1 |
 | 2026-10-17 | Bundesliga | FC Schalke 04 0-1 FSV Mainz 05 | fuera | 1-4 | 10 (6) - 9 (3) | 2-0 |
-| 2026-10-10 | Bundesliga | FSV Mainz 05 3-4 Bayer Leverkusen | casa | 4-3 | 23 (5) - 16 (7) | 3-1 |
 
 ## Jugadores de FSV Mainz 05
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| K. Sano | M | 11 | 975 | 0 | 2 | 4 | 0,4 | 0 | 0,0 | 7 | 17 | 1,5 | 1 | 0 |
-| N. Amiri | M | 10 | 863 | 2 | 3 | 17 | 1,7 | 7 | 0,7 | 5 | 12 | 1,2 | 1 | 0 |
-| P. Tietz | F | 11 | 857 | 10 | 0 | 31 | 2,8 | 17 | 1,5 | 16 | 8 | 0,7 | 1 | 0 |
-| P. Mwene | M | 10 | 857 | 1 | 3 | 8 | 0,8 | 3 | 0,3 | 8 | 11 | 1,1 | 5 | 0 |
-| S. Becker | F | 11 | 834 | 3 | 4 | 22 | 2,0 | 14 | 1,3 | 10 | 5 | 0,5 | 3 | 0 |
-| K. Potulski | D | 11 | 828 | 0 | 0 | 8 | 0,7 | 1 | 0,1 | 18 | 5 | 0,5 | 1 | 0 |
-| A. Caci | M | 11 | 789 | 3 | 4 | 6 | 0,5 | 4 | 0,4 | 12 | 5 | 0,5 | 1 | 0 |
-| S. Posch | D | 8 | 718 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 13 | 7 | 0,9 | 1 | 1 |
-| D. da Costa | D | 11 | 673 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 7 | 3 | 0,3 | 1 | 0 |
+| K. Sano | M | 12 | 1065 | 0 | 2 | 4 | 0,3 | 0 | 0,0 | 7 | 18 | 1,5 | 1 | 0 |
+| N. Amiri | M | 11 | 953 | 2 | 3 | 18 | 1,6 | 7 | 0,6 | 5 | 13 | 1,2 | 2 | 0 |
+| P. Tietz | F | 12 | 947 | 10 | 0 | 33 | 2,8 | 18 | 1,5 | 16 | 8 | 0,7 | 1 | 0 |
+| P. Mwene | M | 11 | 942 | 1 | 3 | 8 | 0,7 | 3 | 0,3 | 9 | 14 | 1,3 | 5 | 0 |
+| K. Potulski | D | 12 | 918 | 0 | 0 | 9 | 0,8 | 1 | 0,1 | 19 | 6 | 0,5 | 1 | 0 |
+| S. Becker | F | 12 | 902 | 3 | 4 | 22 | 1,8 | 14 | 1,2 | 10 | 5 | 0,4 | 3 | 0 |
+| A. Caci | M | 12 | 857 | 3 | 4 | 6 | 0,5 | 4 | 0,3 | 13 | 6 | 0,5 | 1 | 0 |
+| S. Posch | D | 9 | 808 | 0 | 0 | 6 | 0,7 | 3 | 0,3 | 17 | 7 | 0,8 | 2 | 1 |
+| D. da Costa | D | 12 | 754 | 1 | 1 | 6 | 0,5 | 1 | 0,1 | 8 | 3 | 0,2 | 1 | 0 |
 | F. Gruber | D | 7 | 630 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 10 | 0 | 0,0 | 0 | 0 |
 | Lee Jae-Sung | M | 10 | 625 | 1 | 2 | 11 | 1,1 | 3 | 0,3 | 5 | 9 | 0,9 | 1 | 0 |
+| R. Zentner | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,5 | 0 | 0 |
 | A. Schwolow | G | 6 | 540 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 2 | 0 |
-| R. Zentner | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,6 | 0 | 0 |
-| R. Königsdörffer | F | 11 | 297 | 2 | 0 | 12 | 1,1 | 3 | 0,3 | 7 | 6 | 0,5 | 3 | 0 |
-| S. Widmer | M | 7 | 207 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 2 | 4 | 0,6 | 0 | 0 |
-| P. Nebel | M | 5 | 193 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
+| R. Königsdörffer | F | 12 | 342 | 3 | 0 | 14 | 1,2 | 5 | 0,4 | 9 | 6 | 0,5 | 3 | 0 |
+| P. Nebel | M | 6 | 238 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 1 | 0,2 | 0 | 0 |
+| S. Widmer | D | 8 | 229 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 3 | 4 | 0,5 | 1 | 0 |
 | Dominik Kohr | D | 2 | 170 | 0 | 1 | 3 | 1,5 | 1 | 0,5 | 2 | 2 | 1,0 | 0 | 0 |
-| E. Martel | M | 7 | 143 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 4 | 3 | 0,4 | 0 | 0 |
-| B. Hollerbach | F | 6 | 89 | 2 | 1 | 5 | 0,8 | 2 | 0,3 | 2 | 1 | 0,2 | 0 | 0 |
+| E. Martel | M | 8 | 152 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 4 | 4 | 0,5 | 0 | 0 |
+| B. Hollerbach | F | 7 | 111 | 2 | 1 | 5 | 0,7 | 2 | 0,3 | 2 | 2 | 0,3 | 0 | 0 |
 | Otto Ruoppi | M | 4 | 61 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Union Berlin

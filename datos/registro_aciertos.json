@@ -13092,7 +13092,8 @@
   "movimiento": -0.087,
   "ventaja": 0.051,
   "prob_aprendida": 0.703,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-0"
  },
  "1550199|To Win Either Half|Home": {
   "partido_id": 1550199,
@@ -13114,7 +13115,8 @@
   "movimiento": null,
   "ventaja": 0.056,
   "prob_aprendida": 0.702,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-1"
  },
  "1550199|Match Winner|Home": {
   "partido_id": 1550199,
@@ -13136,7 +13138,8 @@
   "movimiento": -0.017,
   "ventaja": 0.062,
   "prob_aprendida": 0.641,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-1"
  },
  "1575224|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1575224,
@@ -13158,7 +13161,8 @@
   "movimiento": -0.031,
   "ventaja": 0.263,
   "prob_aprendida": 0.672,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-1"
  },
  "1575227|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1575227,
@@ -13180,7 +13184,8 @@
   "movimiento": null,
   "ventaja": 0.172,
   "prob_aprendida": 0.652,
-  "acierto": null
+  "acierto": true,
+  "marcador": "4-0"
  },
  "1550199|Home Player Shots On Target Total|Federico Bernardeschi - 1": {
   "partido_id": 1550199,
@@ -13202,7 +13207,8 @@
   "movimiento": null,
   "ventaja": 0.123,
   "prob_aprendida": 0.623,
-  "acierto": null
+  "acierto": false,
+  "marcador": "1-1"
  },
  "1528991|Home Player Shots|Konstantinos Mavropanos - 1": {
   "partido_id": 1528991,
@@ -13270,7 +13276,8 @@
   "movimiento": null,
   "ventaja": 0.151,
   "prob_aprendida": 0.614,
-  "acierto": null
+  "acierto": true,
+  "marcador": "2-2"
  },
  "1528996|Corners 1x2|Away": {
   "partido_id": 1528996,
@@ -13315,7 +13322,8 @@
   "movimiento": 0.053,
   "ventaja": 0.1,
   "prob_aprendida": 0.61,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1570030|To Win Either Half|Home": {
   "partido_id": 1570030,
@@ -13337,7 +13345,8 @@
   "movimiento": null,
   "ventaja": 0.083,
   "prob_aprendida": 0.682,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1570030|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1570030,
@@ -13359,7 +13368,8 @@
   "movimiento": 0.0,
   "ventaja": 0.244,
   "prob_aprendida": 0.602,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1528988|Corners Over Under|Over 8.5": {
   "partido_id": 1528988,
@@ -13450,7 +13460,8 @@
   "movimiento": 0.0,
   "ventaja": 0.229,
   "prob_aprendida": 0.591,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-0"
  },
  "1528986|Match Winner|Away": {
   "partido_id": 1528986,
@@ -13495,7 +13506,8 @@
   "movimiento": 0.08,
   "ventaja": 0.133,
   "prob_aprendida": 0.635,
-  "acierto": null
+  "acierto": false,
+  "marcador": "0-2"
  },
  "1570030|Away Corners Over/Under|Over 3.5": {
   "partido_id": 1570030,
@@ -13517,7 +13529,8 @@
   "movimiento": null,
   "ventaja": 0.2,
   "prob_aprendida": 0.418,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-0"
  },
  "1528993|Match Winner|Home": {
   "partido_id": 1528993,
@@ -13598,16 +13611,16 @@
   "opcion": "Away",
   "tipo": "resultado",
   "texto": "Gana el Almeria",
-  "cuota": 1.95,
+  "cuota": 1.9,
   "frecuencia": 0.75,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": 0.0,
-  "movimiento": 0.066,
-  "ventaja": 0.237,
-  "prob_aprendida": 0.517,
+  "valor_mercado": -0.026,
+  "movimiento": 0.038,
+  "ventaja": 0.224,
+  "prob_aprendida": 0.574,
   "acierto": null
  },
  "1570034|Away Player Shots|Ruben Alcaraz - 1": {
@@ -13689,16 +13702,16 @@
   "opcion": "Over 0.5",
   "tipo": "goles",
   "texto": "Sabah FA marca",
-  "cuota": 1.53,
+  "cuota": 1.57,
   "frecuencia": 0.85,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
-  "valor_mercado": -0.019,
-  "movimiento": null,
-  "ventaja": 0.196,
-  "prob_aprendida": 0.676,
+  "valor_mercado": 0.0,
+  "movimiento": 0.026,
+  "ventaja": 0.213,
+  "prob_aprendida": 0.669,
   "acierto": null
  },
  "1575223|Away Player Shots|Alexander Prass - 1": {
@@ -13812,7 +13825,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.248,
-  "prob_aprendida": 0.647,
+  "prob_aprendida": 0.643,
   "acierto": null
  },
  "1550200|Total - Away|Over 0.5": {
@@ -13880,7 +13893,7 @@
   "valor_mercado": -0.03,
   "movimiento": null,
   "ventaja": 0.133,
-  "prob_aprendida": 0.711,
+  "prob_aprendida": 0.703,
   "acierto": null
  },
  "1636393|Match Winner|Home": {
@@ -13902,7 +13915,7 @@
   "valor_mercado": -0.009,
   "movimiento": 0.105,
   "ventaja": 0.135,
-  "prob_aprendida": 0.643,
+  "prob_aprendida": 0.633,
   "acierto": null
  },
  "1575221|Both Teams Score|Yes": {
@@ -13948,7 +13961,8 @@
   "movimiento": null,
   "ventaja": 0.276,
   "prob_aprendida": 0.541,
-  "acierto": null
+  "acierto": true,
+  "marcador": "0-2"
  },
  "1550200|Home Team Total Cards|Over 0.5": {
   "partido_id": 1550200,
@@ -13993,7 +14007,8 @@
   "movimiento": 0.036,
   "ventaja": 0.172,
   "prob_aprendida": 0.674,
-  "acierto": null
+  "acierto": false,
+  "marcador": "5-1"
  },
  "1575237|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1575237,
@@ -14058,7 +14073,7 @@
   "valor_mercado": -0.039,
   "movimiento": null,
   "ventaja": 0.137,
-  "prob_aprendida": 0.568,
+  "prob_aprendida": 0.553,
   "acierto": null
  },
  "1557485|Home Player Shots|Liam Delap - 2": {
@@ -14126,7 +14141,8 @@
   "movimiento": null,
   "ventaja": 0.133,
   "prob_aprendida": 0.612,
-  "acierto": null
+  "acierto": false,
+  "marcador": "4-0"
  },
  "1552225|Total - Away|Over 0.5": {
   "partido_id": 1552225,
@@ -14148,7 +14164,8 @@
   "movimiento": -0.03,
   "ventaja": 0.183,
   "prob_aprendida": 0.63,
-  "acierto": null
+  "acierto": false,
+  "marcador": "3-0"
  },
  "1575234|Goals Over/Under - Second Half|Over 1.5": {
   "partido_id": 1575234,
@@ -14161,15 +14178,15 @@
   "tipo": "goles",
   "texto": "Más de 1,5 goles en la 2ª parte del FSV Mainz 05–Union Berlin",
   "cuota": 1.73,
-  "frecuencia": 0.75,
+  "frecuencia": 0.8,
   "jugador_id": null,
   "jugador": null,
   "campo": null,
   "n": null,
   "valor_mercado": -0.023,
   "movimiento": null,
-  "ventaja": 0.172,
-  "prob_aprendida": 0.654,
+  "ventaja": 0.222,
+  "prob_aprendida": 0.663,
   "acierto": null
  },
  "1557482|Goals Over/Under - Second Half|Over 1.5": {
@@ -14348,7 +14365,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.248,
-  "prob_aprendida": 0.654,
+  "prob_aprendida": 0.65,
   "acierto": null
  },
  "1557480|Away Player Shots|Alexis Mac Allister - 1": {
@@ -14370,7 +14387,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.1,
-  "prob_aprendida": 0.639,
+  "prob_aprendida": 0.634,
   "acierto": null
  },
  "1635735|Double Chance|Home/Draw": {
@@ -14414,7 +14431,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.246,
-  "prob_aprendida": 0.568,
+  "prob_aprendida": 0.567,
   "acierto": null
  },
  "1552830|Home Player Shots|Pathe Mboup - 2": {
@@ -14436,7 +14453,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.186,
-  "prob_aprendida": 0.572,
+  "prob_aprendida": 0.569,
   "acierto": null
  },
  "1552234|To Win Either Half|Home": {
@@ -14458,7 +14475,7 @@
   "valor_mercado": 0.036,
   "movimiento": null,
   "ventaja": 0.172,
-  "prob_aprendida": 0.638,
+  "prob_aprendida": 0.636,
   "acierto": null
  },
  "1552234|Double Chance|Home/Draw": {
@@ -14480,7 +14497,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.183,
-  "prob_aprendida": 0.674,
+  "prob_aprendida": 0.668,
   "acierto": null
  },
  "1552835|Home Player Shots|Achraf Hakimi - 2": {
@@ -14524,7 +14541,7 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.286,
-  "prob_aprendida": 0.578,
+  "prob_aprendida": 0.577,
   "acierto": null
  },
  "1570458|Home Team Total Cards|Over 1.5": {
@@ -14547,7 +14564,8 @@
   "movimiento": -0.064,
   "ventaja": 0.272,
   "prob_aprendida": 0.598,
-  "acierto": null
+  "acierto": true,
+  "marcador": "1-0"
  },
  "1576538|Match Winner|Home": {
   "partido_id": 1576538,
@@ -14569,7 +14587,8 @@
   "movimiento": null,
   "ventaja": 0.124,
   "prob_aprendida": 0.645,
-  "acierto": null
+  "acierto": false,
+  "marcador": "2-2"
  },
  "1570455|Away Team Total Cards|Over 1.5": {
   "partido_id": 1570455,
@@ -14591,7 +14610,8 @@
   "movimiento": null,
   "ventaja": 0.175,
   "prob_aprendida": 0.484,
-  "acierto": null
+  "acierto": true,
+  "marcador": "3-2"
  },
  "1563285|Match Winner|Home": {
   "partido_id": 1563285,
@@ -14612,7 +14632,7 @@
   "valor_mercado": -0.038,
   "movimiento": null,
   "ventaja": 0.256,
-  "prob_aprendida": 0.718,
+  "prob_aprendida": 0.71,
   "acierto": null
  },
  "1563285|To Win Either Half|Home": {
@@ -14634,7 +14654,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.222,
-  "prob_aprendida": 0.688,
+  "prob_aprendida": 0.683,
   "acierto": null
  },
  "1563288|Match Winner|Home": {
@@ -14656,7 +14676,7 @@
   "valor_mercado": 0.0,
   "movimiento": null,
   "ventaja": 0.044,
-  "prob_aprendida": 0.638,
+  "prob_aprendida": 0.628,
   "acierto": null
  },
  "1563290|Away Player Shots|Rafiki Said - 2": {
@@ -14678,7 +14698,95 @@
   "valor_mercado": null,
   "movimiento": null,
   "ventaja": 0.219,
-  "prob_aprendida": 0.656,
+  "prob_aprendida": 0.654,
+  "acierto": null
+ },
+ "1636410|Away Player Shots|Daouda Weidmann - 2": {
+  "partido_id": 1636410,
+  "fecha": "2026-11-26T21:00",
+  "competicion": "Conference",
+  "local": "SC Freiburg",
+  "visitante": "Twente",
+  "mercado": "Away Player Shots",
+  "opcion": "Daouda Weidmann - 2",
+  "tipo": "jugador",
+  "texto": "Daouda Weidmann: 2+ tiros",
+  "cuota": 1.44,
+  "frecuencia": 0.9,
+  "jugador_id": 336562,
+  "jugador": "Daouda Weidmann",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": -0.083,
+  "ventaja": 0.206,
+  "prob_aprendida": 0.565,
+  "acierto": null
+ },
+ "1575237|Match Winner|Home": {
+  "partido_id": 1575237,
+  "fecha": "2026-11-27T20:30",
+  "competicion": "Bundesliga",
+  "local": "Werder Bremen",
+  "visitante": "Borussia Mönchengladbach",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Gana el Werder Bremen",
+  "cuota": 1.75,
+  "frecuencia": 0.6,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.029,
+  "prob_aprendida": 0.64,
+  "acierto": null
+ },
+ "1575550|Match Winner|Home": {
+  "partido_id": 1575550,
+  "fecha": "2026-11-29T19:00",
+  "competicion": "Primeira Liga",
+  "local": "GIL Vicente",
+  "visitante": "Estoril",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "tipo": "resultado",
+  "texto": "Gana el GIL Vicente",
+  "cuota": 1.85,
+  "frecuencia": 0.65,
+  "jugador_id": null,
+  "jugador": null,
+  "campo": null,
+  "n": null,
+  "valor_mercado": 0.0,
+  "movimiento": null,
+  "ventaja": 0.109,
+  "prob_aprendida": 0.646,
+  "acierto": null
+ },
+ "1552239|Away Player Shots|Daouda Weidmann - 2": {
+  "partido_id": 1552239,
+  "fecha": "2026-11-29T20:00",
+  "competicion": "Eredivisie",
+  "local": "NEC Nijmegen",
+  "visitante": "Twente",
+  "mercado": "Away Player Shots",
+  "opcion": "Daouda Weidmann - 2",
+  "tipo": "jugador",
+  "texto": "Daouda Weidmann: 2+ tiros",
+  "cuota": 1.4,
+  "frecuencia": 0.9,
+  "jugador_id": 336562,
+  "jugador": "Daouda Weidmann",
+  "campo": "tiros",
+  "n": 2,
+  "valor_mercado": null,
+  "movimiento": null,
+  "ventaja": 0.186,
+  "prob_aprendida": 0.573,
   "acierto": null
  }
 }

@@ -1,7 +1,7 @@
 # Stade Brestois 29 – Paris FC
 **Ligue 1** · Regular Season - 12 · 27/11/2026 20:45 (hora España) · Stade Francis-Le-Blé
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:43_
@@ -59,42 +59,42 @@ _Actualizadas: 22/11 07:43_
 ## Estadísticas de equipo
 | | Stade Brestois 29 (total) | Stade Brestois 29 en casa | Paris FC (total) | Paris FC fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 5 | 10 | 5 |
-| Forma (últimos 5) | VVVDE | VDVDE | VVDVD | VDDVE |
-| Balance | 5V 3E 3D | 2V 1E 2D | 6V 2E 2D | 2V 1E 2D |
-| Goles a favor / partido | 1,73 | 2,00 | 1,70 | 1,00 |
-| Goles en contra / partido | 1,09 | 1,20 | 1,00 | 1,00 |
-| Goles a favor 1ª parte | 1,09 | 1,40 | 0,90 | 0,60 |
-| Goles a favor 2ª parte | 0,64 | 0,60 | 0,80 | 0,40 |
-| Goles en contra 1ª parte | 0,27 | 0,40 | 0,20 | 0,20 |
-| Goles en contra 2ª parte | 0,82 | 0,80 | 0,80 | 0,80 |
-| Más de 1,5 goles | 82% | 80% | 60% | 40% |
-| Más de 2,5 goles | 55% | 60% | 60% | 40% |
-| Más de 3,5 goles | 27% | 40% | 30% | 20% |
-| Ambos marcan | 64% | 60% | 50% | 40% |
-| Portería a cero | 27% | 20% | 40% | 40% |
-| Se queda sin marcar | 9% | 20% | 30% | 40% |
-| xG a favor | 1,99 | 2,53 | 1,69 | 1,49 |
-| xG en contra | 1,30 | 0,98 | 1,00 | 0,87 |
-| Tiros / partido | 16,1 | 17,6 | 13,5 | 11,8 |
-| Tiros a puerta / partido | 5,4 | 6,6 | 4,9 | 3,0 |
+| Partidos analizados | 11 | 5 | 11 | 5 |
+| Forma (últimos 5) | VVVDE | VDVDE | VVVDV | VDDVE |
+| Balance | 5V 3E 3D | 2V 1E 2D | 7V 2E 2D | 2V 1E 2D |
+| Goles a favor / partido | 1,73 | 2,00 | 1,91 | 1,00 |
+| Goles en contra / partido | 1,09 | 1,20 | 0,91 | 1,00 |
+| Goles a favor 1ª parte | 1,09 | 1,40 | 0,82 | 0,60 |
+| Goles a favor 2ª parte | 0,64 | 0,60 | 1,09 | 0,40 |
+| Goles en contra 1ª parte | 0,27 | 0,40 | 0,18 | 0,20 |
+| Goles en contra 2ª parte | 0,82 | 0,80 | 0,73 | 0,80 |
+| Más de 1,5 goles | 82% | 80% | 64% | 40% |
+| Más de 2,5 goles | 55% | 60% | 64% | 40% |
+| Más de 3,5 goles | 27% | 40% | 36% | 20% |
+| Ambos marcan | 64% | 60% | 45% | 40% |
+| Portería a cero | 27% | 20% | 45% | 40% |
+| Se queda sin marcar | 9% | 20% | 27% | 40% |
+| xG a favor | 1,99 | 2,53 | 1,86 | 1,49 |
+| xG en contra | 1,30 | 0,98 | 0,94 | 0,87 |
+| Tiros / partido | 16,1 | 17,6 | 13,9 | 11,8 |
+| Tiros a puerta / partido | 5,4 | 6,6 | 5,3 | 3,0 |
 | Tiros recibidos | 12,1 | 9,8 | 9,3 | 9,4 |
-| Tiros a puerta recibidos | 3,5 | 3,2 | 3,2 | 3,4 |
-| Posesión media % | 44 | 46 | 52 | 53 |
-| Córners a favor | 3,7 | 3,6 | 3,6 | 4,2 |
-| Córners en contra | 5,4 | 4,8 | 3,4 | 4,2 |
-| Córners a favor 1ª parte | 1,5 | 1,4 | 1,6 | 1,8 |
+| Tiros a puerta recibidos | 3,5 | 3,2 | 3,0 | 3,4 |
+| Posesión media % | 44 | 46 | 53 | 53 |
+| Córners a favor | 3,7 | 3,6 | 4,2 | 4,2 |
+| Córners en contra | 5,4 | 4,8 | 3,3 | 4,2 |
+| Córners a favor 1ª parte | 1,5 | 1,4 | 2,2 | 1,8 |
 | Córners a favor 2ª parte | 2,2 | 2,2 | 2,0 | 2,4 |
-| Córners totales del partido | 9,1 | 8,4 | 7,0 | 8,4 |
-| Córners totales 1ª parte | 4,2 | 4,2 | 2,8 | 3,8 |
+| Córners totales del partido | 9,1 | 8,4 | 7,5 | 8,4 |
+| Córners totales 1ª parte | 4,2 | 4,2 | 3,3 | 3,8 |
 | Córners totales 2ª parte | 4,9 | 4,2 | 4,2 | 4,6 |
-| Más de 8,5 córners | 82% | 80% | 20% | 40% |
-| Más de 9,5 córners | 45% | 20% | 10% | 20% |
-| Más de 10,5 córners | 18% | 0% | 10% | 20% |
-| Faltas cometidas | 14,6 | 13,0 | 13,9 | 14,0 |
-| Faltas recibidas | 13,4 | 12,2 | 13,1 | 13,6 |
-| Amarillas propias | 1,4 | 1,6 | 2,2 | 2,4 |
-| Amarillas del rival | 1,9 | 2,6 | 1,9 | 1,8 |
+| Más de 8,5 córners | 82% | 80% | 27% | 40% |
+| Más de 9,5 córners | 45% | 20% | 18% | 20% |
+| Más de 10,5 córners | 18% | 0% | 18% | 20% |
+| Faltas cometidas | 14,6 | 13,0 | 14,2 | 14,0 |
+| Faltas recibidas | 13,4 | 12,2 | 13,0 | 13,6 |
+| Amarillas propias | 1,4 | 1,6 | 2,1 | 2,4 |
+| Amarillas del rival | 1,9 | 2,6 | 1,8 | 1,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -102,9 +102,9 @@ _Actualizadas: 22/11 07:43_
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 2 | 2 | 2 | 1 | 2 |
 | 16-30' | 6 | 0 | 1 | 3 | 1 | 2 |
-| 31-45' | 2 | 1 | 5 | 4 | 0 | 2 |
-| 46-60' | 2 | 3 | 2 | 2 | 1 | 3 |
-| 61-75' | 2 | 3 | 3 | 2 | 4 | 5 |
+| 31-45' | 2 | 1 | 5 | 4 | 0 | 3 |
+| 46-60' | 2 | 3 | 2 | 4 | 1 | 3 |
+| 61-75' | 2 | 3 | 3 | 4 | 4 | 5 |
 | 76-90' | 3 | 3 | 3 | 4 | 3 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -158,33 +158,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Paris FC
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Ligue 1 | Paris FC 4-0 Angers | casa | 10-2 | 18 (9) - 9 (1) | 1-1 |
 | 2026-11-07 | Ligue 1 | Auxerre 0-1 Paris FC | fuera | 5-1 | 10 (3) - 7 (2) | 1-3 |
 | 2026-11-01 | Ligue 1 | Paris FC 3-1 Monaco | casa | 3-2 | 19 (10) - 9 (2) | 2-2 |
 | 2026-10-24 | Ligue 1 | Lens 2-1 Paris FC | fuera | 1-6 | 4 (1) - 9 (3) | 3-3 |
 | 2026-10-18 | Ligue 1 | Paris FC 4-3 Rennes | casa | 3-4 | 19 (9) - 12 (7) | 3-4 |
 | 2026-10-10 | Ligue 1 | Lorient 1-0 Paris FC | fuera | 9-3 | 17 (3) - 8 (5) | 5-1 |
-| 2026-09-19 | Ligue 1 | Paris FC 2-1 Strasbourg | casa | 3-0 | 17 (7) - 5 (1) | 3-2 |
 
 ## Jugadores de Paris FC
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D. Coppola | D | 10 | 900 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 3 | 0,3 | 1 | 0 |
-| P. Lees-Melou | M | 10 | 888 | 0 | 0 | 8 | 0,8 | 2 | 0,2 | 12 | 14 | 1,4 | 2 | 0 |
+| D. Coppola | D | 11 | 990 | 1 | 1 | 5 | 0,5 | 4 | 0,4 | 9 | 3 | 0,3 | 1 | 0 |
+| P. Lees-Melou | M | 11 | 978 | 0 | 0 | 12 | 1,1 | 3 | 0,3 | 14 | 15 | 1,4 | 2 | 0 |
+| M. Lopez | M | 11 | 916 | 3 | 2 | 7 | 0,6 | 4 | 0,4 | 8 | 6 | 0,5 | 2 | 0 |
+| K. Trapp | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
 | L. Sinayoko | F | 10 | 869 | 9 | 5 | 22 | 2,2 | 16 | 1,6 | 14 | 13 | 1,3 | 2 | 0 |
-| M. Lopez | M | 10 | 832 | 2 | 2 | 6 | 0,6 | 3 | 0,3 | 8 | 5 | 0,5 | 2 | 0 |
-| K. Trapp | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| I. Kebbal | M | 10 | 771 | 1 | 1 | 17 | 1,7 | 7 | 0,7 | 9 | 23 | 2,3 | 1 | 0 |
-| P. Pagis | M | 10 | 770 | 2 | 2 | 16 | 1,6 | 6 | 0,6 | 12 | 15 | 1,5 | 1 | 0 |
-| A. Camara | D | 8 | 672 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 9 | 4 | 0,5 | 0 | 0 |
+| P. Pagis | M | 11 | 846 | 2 | 3 | 17 | 1,5 | 7 | 0,6 | 14 | 18 | 1,6 | 1 | 0 |
+| I. Kebbal | M | 11 | 837 | 1 | 1 | 17 | 1,5 | 7 | 0,6 | 10 | 25 | 2,3 | 1 | 0 |
+| A. Camara | M | 9 | 696 | 0 | 0 | 4 | 0,4 | 2 | 0,2 | 9 | 4 | 0,4 | 0 | 0 |
+| L. Koleosho | M | 9 | 626 | 2 | 1 | 15 | 1,7 | 7 | 0,8 | 13 | 7 | 0,8 | 2 | 0 |
 | H. Traoré | D | 8 | 594 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 4 | 0,5 | 4 | 0 |
-| L. Koleosho | F | 8 | 536 | 1 | 1 | 12 | 1,5 | 5 | 0,6 | 9 | 7 | 0,9 | 1 | 0 |
-| Otávio | D | 7 | 478 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 13 | 11 | 1,6 | 2 | 0 |
-| S. Chergui | D | 6 | 467 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 12 | 2 | 0,3 | 2 | 0 |
-| M. Mbow | D | 7 | 330 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,4 | 1 | 0 |
-| R. Matondo | M | 10 | 315 | 0 | 0 | 4 | 0,4 | 3 | 0,3 | 6 | 3 | 0,3 | 1 | 0 |
+| Otávio | D | 8 | 568 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 15 | 13 | 1,6 | 2 | 0 |
+| S. Chergui | D | 7 | 543 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 13 | 2 | 0,3 | 2 | 0 |
+| R. Matondo | D | 11 | 381 | 0 | 0 | 5 | 0,5 | 3 | 0,3 | 7 | 3 | 0,3 | 1 | 0 |
+| M. Mbow | D | 8 | 344 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 3 | 0,4 | 1 | 0 |
 | M. Simon | M | 8 | 305 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 2 | 5 | 0,6 | 0 | 0 |
-| E. Zabi | M | 8 | 123 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 6 | 1 | 0,1 | 1 | 0 |
+| E. Zabi | F | 9 | 213 | 1 | 1 | 5 | 0,6 | 1 | 0,1 | 6 | 2 | 0,2 | 1 | 0 |
 | O. Nkambadio | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | E. Mbemba | D | 3 | 59 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| J. Ikoné | F | 3 | 49 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 | T. De Smet | D | 2 | 45 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 3 | 1,5 | 1 | 0 |
-| O. Sissoko | F | 5 | 36 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 2 | 4 | 0,8 | 0 | 0 |

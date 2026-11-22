@@ -1,7 +1,7 @@
 # Cittadella – PRO Vercelli
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Pier Cesare Tombolato
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Cittadella (total) | Cittadella en casa | PRO Vercelli (total) | PRO Vercelli fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 14 | 7 |
-| Forma (últimos 5) | DEEVD | EVVDV | EVEVD | EEDED |
-| Balance | 10V 2E 3D | 6V 1E 1D | 4V 5E 5D | 0V 3E 4D |
+| Partidos analizados | 15 | 8 | 15 | 7 |
+| Forma (últimos 5) | DEEVD | EVVDV | EEVEV | EEDED |
+| Balance | 10V 2E 3D | 6V 1E 1D | 4V 6E 5D | 0V 3E 4D |
 | Goles a favor / partido | 1,40 | 1,75 | 1,07 | 0,43 |
-| Goles en contra / partido | 0,60 | 0,62 | 1,57 | 1,57 |
-| Goles a favor 1ª parte | 0,47 | 0,50 | 0,43 | 0,00 |
-| Goles a favor 2ª parte | 0,93 | 1,25 | 0,64 | 0,43 |
-| Goles en contra 1ª parte | 0,47 | 0,50 | 0,57 | 0,71 |
+| Goles en contra / partido | 0,60 | 0,62 | 1,53 | 1,57 |
+| Goles a favor 1ª parte | 0,47 | 0,50 | 0,47 | 0,00 |
+| Goles a favor 2ª parte | 0,93 | 1,25 | 0,60 | 0,43 |
+| Goles en contra 1ª parte | 0,47 | 0,50 | 0,53 | 0,71 |
 | Goles en contra 2ª parte | 0,13 | 0,12 | 1,00 | 0,86 |
-| Más de 1,5 goles | 60% | 75% | 79% | 71% |
-| Más de 2,5 goles | 40% | 50% | 43% | 29% |
-| Más de 3,5 goles | 7% | 12% | 29% | 14% |
-| Ambos marcan | 33% | 38% | 50% | 43% |
-| Portería a cero | 60% | 62% | 21% | 14% |
-| Se queda sin marcar | 13% | 0% | 36% | 57% |
+| Más de 1,5 goles | 60% | 75% | 80% | 71% |
+| Más de 2,5 goles | 40% | 50% | 40% | 29% |
+| Más de 3,5 goles | 7% | 12% | 27% | 14% |
+| Ambos marcan | 33% | 38% | 53% | 43% |
+| Portería a cero | 60% | 62% | 20% | 14% |
+| Se queda sin marcar | 13% | 0% | 33% | 57% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -52,10 +52,10 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 |---|---|---|---|---|---|---|
 | 1-15' | 4 | 0 | 0 | 1 | 4 | 2 |
 | 16-30' | 0 | 4 | 5 | 2 | 1 | 2 |
-| 31-45' | 3 | 3 | 6 | 3 | 3 | 4 |
+| 31-45' | 3 | 3 | 6 | 4 | 3 | 4 |
 | 46-60' | 1 | 0 | 8 | 2 | 4 | 8 |
-| 61-75' | 8 | 1 | 4 | 5 | 3 | 4 |
-| 76-90' | 5 | 1 | 7 | 2 | 7 | 8 |
+| 61-75' | 8 | 1 | 4 | 5 | 4 | 4 |
+| 76-90' | 5 | 1 | 7 | 2 | 7 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -87,12 +87,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de PRO Vercelli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie C | PRO Vercelli 1-1 Novara | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-15 | Serie C | Pergolettese 0-0 PRO Vercelli | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Serie C | PRO Vercelli 4-2 Dolomiti Bellunesi | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-02 | Serie C | Juventus U23 1-1 PRO Vercelli | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-25 | Serie C | PRO Vercelli 2-1 Ospitaletto | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-16 | Serie C | PRO Vercelli 0-5 Lecco | casa | –-– | – (–) - – (–) | –-– |
-| 2026-10-09 | Serie C | Union Brescia 2-0 PRO Vercelli | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de PRO Vercelli
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

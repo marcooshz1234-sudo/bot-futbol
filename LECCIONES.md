@@ -1,5 +1,54 @@
 # Lecciones del bot
 
+## 2026-11-22
+
+```
+🧠 LECCIONES DEL 22/11
+Picks del bot: 12 ✅ · 8 ❌
+
+❌ Lo que falló en lo publicado:
+• Angers hace más de 2,5 córners → 2 de 3 córners
+• Bremer comete 1+ faltas → 0 de 1 falta
+• FSV Mainz 05 hace más de 4,5 córners → 0 de 5 córners
+• Gana el Bologna → Marcador: 1–1
+• Gana el Brighton → Marcador: 2–0
+• Gana el Real Sociedad → Marcador: 3–2
+• Genoa hace más de 3,5 córners → 3 de 4 córners
+• Hamburger SV marca → 0 de 1 gol
+• Jean-Victor Makengo: 2+ tiros → 1 de 2 tiros
+• Jeremie Boga marca → 0 de 1 gol
+• Jorge Salinas: 1+ tiros → 0 de 1 tiro
+• Más de 1,5 goles en la 2ª parte del Lorient–Rennes → Marcador: 1–1
+• Más de 10,5 córners en Barcelona–Villarreal → 10 de 11 córners
+• Orri Steinn Oskarsson marca → 0 de 1 gol
+• Pablo Ramon comete 1+ faltas → 0 de 1 falta
+
+❌ Fallos de los picks del bot y por qué:
+• Gana el Bologna — resultado 1-1
+• Federico Bernardeschi: 1+ tiros a puerta — jugó 79′ e hizo 0 (necesitaba 1)
+• Ambos marcan en Ajax–ADO Den Haag — solo marcó un equipo o ninguno (3-0)
+• Sporting Gijon gana alguna de las dos partes — no llegó a la línea (0-2)
+• AC Milan ve más de 1,5 tarjetas — no llegó a la línea (5-1)
+• Juventus ve más de 0,5 tarjetas — no llegó a la línea (4-0)
+• ADO Den Haag marca — ADO Den Haag no marcó lo esperado (3-0)
+• Gana el Vizela — resultado 2-2
+
+⚠️ Partidos donde cayeron varios picks a la vez (van ligados, no conviene meter dos del mismo partido en distintas combis): Bologna–Udinese, Ajax–ADO Den Haag
+
+📐 Modelo: 388/624 aciertos reales (62%) frente al 71% que prometían las estadísticas y el 70% de la cuota.
+Peso de la estadística frente a la cuota: 0.35 (antes 0.35)
+Ajustes nuevos:
+⬇️ castigo mercado Total - Away|Over 0.5: 28/50 (-8 pts)
+⬇️ castigo mercado Home Team Total Cards|Over 0.5: 1/4 (-7 pts)
+⬇️ castigo tipo jugador:faltas_c: 68/111 (-6 pts)
+⬇️ castigo tipo tarjetas: 16/27 (-5 pts)
+⬇️ castigo tipo resultado: 76/121 (-5 pts)
+⬆️ premio mercado Goals Over/Under - Second Half|Over 1.5: 9/12 (+4 pts)
+⬇️ castigo liga Segunda Liga: 0/1 (-4 pts)
+⬆️ premio liga Bundesliga: 46/74 (+3 pts)
+Desde ahora los picks se ordenan con esta probabilidad aprendida y se quitan los que ya no superan a la cuota.
+```
+
 ## 2026-11-21
 
 ```

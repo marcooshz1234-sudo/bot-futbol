@@ -1,7 +1,7 @@
 # Paris Saint Germain – Lorient
 **Ligue 1** · Regular Season - 12 · 28/11/2026 20:45 (hora España) · Parc des Princes
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:44_
@@ -59,41 +59,41 @@ _Actualizadas: 22/11 07:44_
 ## Estadísticas de equipo
 | | Paris Saint Germain (total) | Paris Saint Germain en casa | Lorient (total) | Lorient fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 6 | 10 | 5 |
-| Forma (últimos 5) | VVVVV | VVVVV | VDEVV | VEDVE |
-| Balance | 12V 2E 1D | 5V 0E 1D | 4V 3E 3D | 2V 2E 1D |
-| Goles a favor / partido | 3,00 | 2,83 | 0,90 | 0,80 |
-| Goles en contra / partido | 1,13 | 1,00 | 0,80 | 0,40 |
-| Goles a favor 1ª parte | 1,27 | 1,17 | 0,30 | 0,20 |
-| Goles a favor 2ª parte | 1,73 | 1,67 | 0,60 | 0,60 |
-| Goles en contra 1ª parte | 0,40 | 0,00 | 0,30 | 0,20 |
-| Goles en contra 2ª parte | 0,73 | 1,00 | 0,50 | 0,20 |
-| Más de 1,5 goles | 87% | 83% | 50% | 40% |
-| Más de 2,5 goles | 80% | 67% | 30% | 20% |
-| Más de 3,5 goles | 67% | 50% | 10% | 0% |
-| Ambos marcan | 73% | 67% | 30% | 20% |
-| Portería a cero | 27% | 33% | 60% | 80% |
-| Se queda sin marcar | 0% | 0% | 30% | 40% |
-| xG a favor | 2,70 | 3,03 | 1,23 | 1,22 |
-| xG en contra | 1,28 | 1,03 | 1,12 | 0,91 |
-| Tiros / partido | 20,1 | 22,3 | 10,1 | 8,8 |
+| Partidos analizados | 15 | 6 | 11 | 5 |
+| Forma (últimos 5) | VVVVV | VVVVV | EVDEV | VEDVE |
+| Balance | 12V 2E 1D | 5V 0E 1D | 4V 4E 3D | 2V 2E 1D |
+| Goles a favor / partido | 3,00 | 2,83 | 0,91 | 0,80 |
+| Goles en contra / partido | 1,13 | 1,00 | 0,82 | 0,40 |
+| Goles a favor 1ª parte | 1,27 | 1,17 | 0,36 | 0,20 |
+| Goles a favor 2ª parte | 1,73 | 1,67 | 0,55 | 0,60 |
+| Goles en contra 1ª parte | 0,40 | 0,00 | 0,36 | 0,20 |
+| Goles en contra 2ª parte | 0,73 | 1,00 | 0,45 | 0,20 |
+| Más de 1,5 goles | 87% | 83% | 55% | 40% |
+| Más de 2,5 goles | 80% | 67% | 27% | 20% |
+| Más de 3,5 goles | 67% | 50% | 9% | 0% |
+| Ambos marcan | 73% | 67% | 36% | 20% |
+| Portería a cero | 27% | 33% | 55% | 80% |
+| Se queda sin marcar | 0% | 0% | 27% | 40% |
+| xG a favor | 2,70 | 3,03 | 1,25 | 1,22 |
+| xG en contra | 1,28 | 1,03 | 1,13 | 0,91 |
+| Tiros / partido | 20,1 | 22,3 | 10,3 | 8,8 |
 | Tiros a puerta / partido | 8,9 | 10,5 | 2,8 | 2,2 |
-| Tiros recibidos | 12,0 | 9,7 | 13,9 | 14,2 |
-| Tiros a puerta recibidos | 4,3 | 3,7 | 4,1 | 4,8 |
+| Tiros recibidos | 12,0 | 9,7 | 13,8 | 14,2 |
+| Tiros a puerta recibidos | 4,3 | 3,7 | 4,0 | 4,8 |
 | Posesión media % | 66 | 67 | 47 | 46 |
-| Córners a favor | 5,3 | 5,3 | 3,3 | 2,6 |
+| Córners a favor | 5,3 | 5,3 | 3,6 | 2,6 |
 | Córners en contra | 2,9 | 2,3 | 5,2 | 5,8 |
-| Córners a favor 1ª parte | 2,8 | 3,0 | 1,6 | 1,2 |
-| Córners a favor 2ª parte | 2,5 | 2,3 | 1,7 | 1,4 |
-| Córners totales del partido | 8,3 | 7,7 | 8,5 | 8,4 |
-| Córners totales 1ª parte | 4,1 | 4,0 | 4,1 | 4,4 |
-| Córners totales 2ª parte | 4,1 | 3,7 | 4,4 | 4,0 |
-| Más de 8,5 córners | 47% | 33% | 40% | 40% |
-| Más de 9,5 córners | 33% | 17% | 40% | 40% |
-| Más de 10,5 córners | 20% | 17% | 30% | 40% |
-| Faltas cometidas | 7,5 | 7,5 | 10,4 | 11,4 |
-| Faltas recibidas | 11,4 | 10,8 | 15,2 | 15,4 |
-| Amarillas propias | 0,8 | 0,7 | 1,3 | 1,6 |
+| Córners a favor 1ª parte | 2,8 | 3,0 | 1,8 | 1,2 |
+| Córners a favor 2ª parte | 2,5 | 2,3 | 1,8 | 1,4 |
+| Córners totales del partido | 8,3 | 7,7 | 8,8 | 8,4 |
+| Córners totales 1ª parte | 4,1 | 4,0 | 4,4 | 4,4 |
+| Córners totales 2ª parte | 4,1 | 3,7 | 4,5 | 4,0 |
+| Más de 8,5 córners | 47% | 33% | 45% | 40% |
+| Más de 9,5 córners | 33% | 17% | 45% | 40% |
+| Más de 10,5 córners | 20% | 17% | 36% | 40% |
+| Faltas cometidas | 7,5 | 7,5 | 10,5 | 11,4 |
+| Faltas recibidas | 11,4 | 10,8 | 15,5 | 15,4 |
+| Amarillas propias | 0,8 | 0,7 | 1,4 | 1,6 |
 | Amarillas del rival | 1,9 | 1,7 | 2,0 | 2,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
@@ -101,10 +101,10 @@ _Actualizadas: 22/11 07:44_
 | Tramo | Goles Paris Saint Germain | Recibe Paris Saint Germain | Tarjetas Paris Saint Germain | Goles Lorient | Recibe Lorient | Tarjetas Lorient |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 2 | 0 | 0 | 1 | 2 |
-| 16-30' | 6 | 3 | 0 | 1 | 1 | 2 |
-| 31-45' | 7 | 1 | 4 | 2 | 1 | 0 |
+| 16-30' | 6 | 3 | 0 | 1 | 2 | 2 |
+| 31-45' | 7 | 1 | 4 | 3 | 1 | 0 |
 | 46-60' | 4 | 5 | 1 | 2 | 2 | 1 |
-| 61-75' | 10 | 3 | 3 | 2 | 2 | 4 |
+| 61-75' | 10 | 3 | 3 | 2 | 2 | 6 |
 | 76-90' | 12 | 3 | 4 | 2 | 1 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -157,33 +157,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Lorient
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Ligue 1 | Lorient 1-1 Rennes | casa | 7-5 | 12 (3) - 13 (3) | 2-2 |
 | 2026-11-08 | Ligue 1 | Le Havre 0-2 Lorient | fuera | 0-5 | 7 (3) - 21 (5) | 3-1 |
 | 2026-11-02 | Ligue 1 | Lorient 0-2 Stade Brestois 29 | casa | 8-2 | 15 (0) - 12 (4) | 1-1 |
 | 2026-10-25 | Ligue 1 | Angers 0-0 Lorient | fuera | 7-6 | 10 (1) - 8 (5) | 1-1 |
 | 2026-10-18 | Ligue 1 | Lorient 1-0 Monaco | casa | 3-4 | 9 (3) - 15 (4) | 2-4 |
 | 2026-10-10 | Ligue 1 | Lorient 1-0 Paris FC | casa | 3-9 | 8 (5) - 17 (3) | 1-5 |
-| 2026-09-19 | Ligue 1 | Le Mans 2-1 Lorient | fuera | 3-1 | 9 (2) - 11 (7) | 3-3 |
 
 ## Jugadores de Lorient
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Y. Mvogo | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Talbi | D | 10 | 900 | 0 | 0 | 7 | 0,7 | 3 | 0,3 | 3 | 5 | 0,5 | 1 | 0 |
-| K. Kouassi | M | 10 | 900 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 9 | 11 | 1,1 | 2 | 0 |
-| N. Adjei | D | 10 | 885 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 10 | 13 | 1,3 | 2 | 0 |
-| N. Cadiou | M | 10 | 883 | 1 | 0 | 10 | 1,0 | 1 | 0,1 | 10 | 11 | 1,1 | 2 | 0 |
-| D. Sylla | M | 10 | 876 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 16 | 1,6 | 0 | 0 |
-| J. Makengo | M | 10 | 855 | 2 | 0 | 16 | 1,6 | 5 | 0,5 | 10 | 28 | 2,8 | 2 | 0 |
-| A. Avom | M | 10 | 686 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 9 | 8 | 0,8 | 1 | 0 |
-| G. Bernardeau | M | 10 | 557 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 5 | 10 | 1,0 | 0 | 0 |
+| Y. Mvogo | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| M. Talbi | D | 11 | 990 | 1 | 0 | 8 | 0,7 | 4 | 0,4 | 3 | 5 | 0,5 | 1 | 0 |
+| N. Adjei | D | 11 | 975 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 13 | 1,2 | 2 | 0 |
+| N. Cadiou | M | 11 | 973 | 1 | 0 | 14 | 1,3 | 1 | 0,1 | 13 | 11 | 1,0 | 3 | 0 |
+| K. Kouassi | M | 11 | 971 | 0 | 2 | 4 | 0,4 | 2 | 0,2 | 10 | 14 | 1,3 | 2 | 0 |
+| D. Sylla | M | 11 | 964 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 8 | 19 | 1,7 | 0 | 0 |
+| J. Makengo | M | 11 | 945 | 2 | 0 | 17 | 1,5 | 6 | 0,5 | 10 | 34 | 3,1 | 2 | 0 |
+| A. Avom | M | 11 | 776 | 0 | 1 | 6 | 0,5 | 0 | 0,0 | 10 | 11 | 1,0 | 1 | 0 |
+| G. Bernardeau | M | 11 | 619 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 5 | 11 | 1,0 | 0 | 0 |
 | S. Touré | D | 5 | 429 | 1 | 0 | 6 | 1,2 | 2 | 0,4 | 8 | 6 | 1,2 | 1 | 0 |
-| M. Kone | F | 9 | 389 | 1 | 1 | 12 | 1,3 | 7 | 0,8 | 8 | 7 | 0,8 | 0 | 0 |
+| M. Kone | F | 10 | 417 | 1 | 1 | 13 | 1,3 | 7 | 0,7 | 10 | 7 | 0,7 | 0 | 0 |
 | I. Baldé | F | 7 | 377 | 1 | 0 | 8 | 1,1 | 1 | 0,1 | 6 | 3 | 0,4 | 0 | 0 |
-| T. Le Bris | M | 6 | 284 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 3 | 3 | 0,5 | 0 | 0 |
-| S. Faye | F | 7 | 223 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 5 | 7 | 1,0 | 1 | 0 |
+| T. Le Bris | M | 7 | 303 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 5 | 3 | 0,4 | 0 | 0 |
+| S. Faye | F | 8 | 251 | 0 | 0 | 5 | 0,6 | 0 | 0,0 | 6 | 8 | 1,0 | 2 | 0 |
+| A. Tosin | F | 5 | 196 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 2 | 2 | 0,4 | 0 | 0 |
 | Panos Katseris | M | 5 | 177 | 0 | 3 | 1 | 0,2 | 1 | 0,2 | 1 | 2 | 0,4 | 1 | 0 |
 | N. Mbamba | M | 4 | 156 | 1 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 5 | 1,2 | 0 | 0 |
 | I. Jensen | F | 6 | 154 | 1 | 0 | 2 | 0,3 | 1 | 0,2 | 0 | 4 | 0,7 | 0 | 0 |
-| A. Tosin | F | 4 | 134 | 0 | 0 | 3 | 0,8 | 0 | 0,0 | 1 | 2 | 0,5 | 0 | 0 |
+| N. Obaretin | D | 4 | 133 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 2 | 2 | 0,5 | 0 | 0 |
 | Alec Georgen | M | 2 | 96 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 1 | 0,5 | 0 | 0 |
-| N. Obaretin | D | 3 | 43 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |

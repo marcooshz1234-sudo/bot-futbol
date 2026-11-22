@@ -1,7 +1,7 @@
 # Real Sociedad – Sevilla
 **LaLiga** · Regular Season - 14 · 29/11/2026 21:00 (hora España) · Anoeta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_
@@ -51,53 +51,53 @@ _Actualizadas: 22/11 00:16_
 ## Estadísticas de equipo
 | | Real Sociedad (total) | Real Sociedad en casa | Sevilla (total) | Sevilla fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 8 | 14 | 7 |
-| Forma (últimos 5) | VEDVV | VEVVD | EEDVV | DVDEV |
-| Balance | 8V 3E 5D | 4V 2E 2D | 6V 4E 4D | 3V 2E 2D |
+| Partidos analizados | 17 | 8 | 14 | 7 |
+| Forma (últimos 5) | DVEDV | VEVVD | EEDVV | DVDEV |
+| Balance | 8V 3E 6D | 4V 2E 2D | 6V 4E 4D | 3V 2E 2D |
 | Goles a favor / partido | 1,88 | 1,25 | 1,50 | 1,86 |
-| Goles en contra / partido | 1,50 | 1,25 | 1,43 | 1,71 |
+| Goles en contra / partido | 1,59 | 1,25 | 1,43 | 1,71 |
 | Goles a favor 1ª parte | 1,00 | 0,75 | 0,50 | 0,71 |
 | Goles a favor 2ª parte | 0,88 | 0,50 | 1,00 | 1,14 |
-| Goles en contra 1ª parte | 0,44 | 0,50 | 0,50 | 0,29 |
+| Goles en contra 1ª parte | 0,53 | 0,50 | 0,50 | 0,29 |
 | Goles en contra 2ª parte | 1,06 | 0,75 | 0,93 | 1,43 |
-| Más de 1,5 goles | 81% | 75% | 79% | 86% |
-| Más de 2,5 goles | 69% | 62% | 57% | 71% |
-| Más de 3,5 goles | 38% | 12% | 43% | 57% |
-| Ambos marcan | 69% | 62% | 64% | 71% |
-| Portería a cero | 19% | 25% | 36% | 29% |
-| Se queda sin marcar | 19% | 25% | 7% | 0% |
-| xG a favor | 1,47 | 1,43 | 1,14 | 0,89 |
-| xG en contra | 1,66 | 1,22 | 1,28 | 1,39 |
-| Tiros / partido | 14,0 | 14,2 | 13,3 | 10,8 |
-| Tiros a puerta / partido | 4,9 | 4,6 | 4,5 | 4,5 |
-| Tiros recibidos | 14,5 | 11,5 | 11,5 | 13,3 |
-| Tiros a puerta recibidos | 4,9 | 3,6 | 4,4 | 5,8 |
+| Más de 1,5 goles | 82% | 75% | 79% | 86% |
+| Más de 2,5 goles | 71% | 62% | 57% | 71% |
+| Más de 3,5 goles | 41% | 12% | 43% | 57% |
+| Ambos marcan | 71% | 62% | 64% | 71% |
+| Portería a cero | 18% | 25% | 36% | 29% |
+| Se queda sin marcar | 18% | 25% | 7% | 0% |
+| xG a favor | 1,56 | 1,43 | 1,14 | 0,89 |
+| xG en contra | 1,76 | 1,22 | 1,28 | 1,39 |
+| Tiros / partido | 15,0 | 14,2 | 13,3 | 10,8 |
+| Tiros a puerta / partido | 5,0 | 4,6 | 4,5 | 4,5 |
+| Tiros recibidos | 14,4 | 11,5 | 11,5 | 13,3 |
+| Tiros a puerta recibidos | 5,1 | 3,6 | 4,4 | 5,8 |
 | Posesión media % | 52 | 51 | 45 | 43 |
-| Córners a favor | 6,2 | 7,2 | 3,7 | 2,8 |
-| Córners en contra | 4,6 | 4,6 | 3,3 | 3,7 |
-| Córners a favor 1ª parte | 3,0 | 3,6 | 1,5 | 1,8 |
-| Córners a favor 2ª parte | 3,2 | 3,6 | 2,2 | 1,0 |
-| Córners totales del partido | 10,9 | 11,9 | 7,0 | 6,5 |
-| Córners totales 1ª parte | 4,9 | 5,5 | 3,1 | 3,5 |
-| Córners totales 2ª parte | 6,0 | 6,4 | 3,9 | 3,0 |
-| Más de 8,5 córners | 81% | 88% | 38% | 17% |
-| Más de 9,5 córners | 69% | 88% | 23% | 17% |
-| Más de 10,5 córners | 62% | 75% | 15% | 17% |
-| Faltas cometidas | 12,8 | 15,4 | 15,1 | 15,7 |
+| Córners a favor | 6,7 | 7,2 | 3,7 | 2,8 |
+| Córners en contra | 4,8 | 4,6 | 3,3 | 3,7 |
+| Córners a favor 1ª parte | 3,3 | 3,6 | 1,5 | 1,8 |
+| Córners a favor 2ª parte | 3,4 | 3,6 | 2,2 | 1,0 |
+| Córners totales del partido | 11,5 | 11,9 | 7,0 | 6,5 |
+| Córners totales 1ª parte | 5,4 | 5,5 | 3,1 | 3,5 |
+| Córners totales 2ª parte | 6,1 | 6,4 | 3,9 | 3,0 |
+| Más de 8,5 córners | 82% | 88% | 38% | 17% |
+| Más de 9,5 córners | 71% | 88% | 23% | 17% |
+| Más de 10,5 córners | 65% | 75% | 15% | 17% |
+| Faltas cometidas | 12,6 | 15,4 | 15,1 | 15,7 |
 | Faltas recibidas | 10,4 | 11,4 | 13,5 | 13,0 |
 | Amarillas propias | 2,1 | 2,0 | 3,0 | 4,0 |
 | Amarillas del rival | 2,5 | 2,8 | 2,2 | 1,8 |
-| Rojas / partido | 0,19 | 0,12 | 0,31 | 0,50 |
+| Rojas / partido | 0,18 | 0,12 | 0,31 | 0,50 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Real Sociedad | Recibe Real Sociedad | Tarjetas Real Sociedad | Goles Sevilla | Recibe Sevilla | Tarjetas Sevilla |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 2 | 1 | 2 | 2 | 2 |
+| 1-15' | 4 | 4 | 1 | 2 | 2 | 2 |
 | 16-30' | 8 | 2 | 5 | 4 | 3 | 6 |
-| 31-45' | 4 | 3 | 4 | 1 | 2 | 5 |
-| 46-60' | 4 | 4 | 6 | 6 | 3 | 5 |
-| 61-75' | 6 | 7 | 13 | 1 | 5 | 5 |
-| 76-90' | 4 | 6 | 9 | 7 | 5 | 22 |
+| 31-45' | 5 | 3 | 4 | 1 | 2 | 5 |
+| 46-60' | 5 | 4 | 6 | 6 | 3 | 5 |
+| 61-75' | 6 | 8 | 14 | 1 | 5 | 5 |
+| 76-90' | 4 | 6 | 10 | 7 | 5 | 22 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,36 +115,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Real Sociedad
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | LaLiga | Racing Santander 3-2 Real Sociedad | fuera | 14-7 | 31 (7) - 12 (8) | 2-2 |
 | 2026-11-08 | LaLiga | Real Sociedad 1-0 Rayo Vallecano | casa | 7-6 | 17 (3) - 11 (3) | 2-2 |
 | 2026-11-05 | Europa League | Real Sociedad 1-1 Lyon | casa | 5-6 | 11 (4) - 12 (4) | 3-4 |
 | 2026-11-01 | LaLiga | Athletic Club 2-1 Real Sociedad | fuera | 8-5 | 14 (5) - 13 (3) | 3-2 |
 | 2026-10-25 | LaLiga | Real Sociedad 2-1 Levante | casa | 2-3 | 17 (3) - 6 (2) | 1-3 |
 | 2026-10-22 | Europa League | Lillestrom 0-6 Real Sociedad | fuera | 3-3 | 16 (8) - 14 (2) | 2-1 |
-| 2026-10-18 | LaLiga | Malaga 2-5 Real Sociedad | fuera | 5-4 | 21 (9) - 17 (6) | 2-1 |
 
 ## Jugadores de Real Sociedad
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sergio Gómez | F | 16 | 1246 | 3 | 0 | 9 | 0,6 | 5 | 0,3 | 8 | 6 | 0,4 | 1 | 0 |
+| Sergio Gómez | D | 17 | 1332 | 3 | 1 | 10 | 0,6 | 6 | 0,4 | 8 | 8 | 0,5 | 1 | 0 |
 | Jon Martín | D | 15 | 1221 | 1 | 1 | 7 | 0,5 | 2 | 0,1 | 14 | 11 | 0,7 | 2 | 1 |
-| Mikel Oyarzabal | F | 15 | 1092 | 2 | 5 | 21 | 1,4 | 11 | 0,7 | 11 | 22 | 1,5 | 2 | 0 |
-| L. Sučić | M | 15 | 1037 | 6 | 0 | 23 | 1,5 | 10 | 0,7 | 6 | 4 | 0,3 | 2 | 0 |
-| Álex Remiro | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Carlos Soler | M | 12 | 899 | 1 | 3 | 11 | 0,9 | 5 | 0,4 | 4 | 6 | 0,5 | 0 | 0 |
-| J. Aramburu | D | 11 | 865 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 34 | 19 | 1,7 | 4 | 0 |
-| Gonçalo Guedes | F | 15 | 834 | 2 | 2 | 25 | 1,7 | 9 | 0,6 | 10 | 19 | 1,3 | 1 | 0 |
-| Zubeldia | D | 11 | 803 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 10 | 2 | 0,2 | 3 | 0 |
-| O. Óskarsson | F | 14 | 803 | 6 | 0 | 28 | 2,0 | 13 | 0,9 | 16 | 6 | 0,4 | 3 | 1 |
+| Mikel Oyarzabal | F | 16 | 1182 | 3 | 5 | 28 | 1,8 | 13 | 0,8 | 11 | 23 | 1,4 | 2 | 0 |
+| L. Sučić | M | 16 | 1127 | 6 | 0 | 28 | 1,8 | 12 | 0,8 | 6 | 4 | 0,2 | 2 | 0 |
+| Álex Remiro | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 1 | 0 |
+| Carlos Soler | M | 13 | 967 | 1 | 3 | 12 | 0,9 | 5 | 0,4 | 4 | 7 | 0,5 | 0 | 0 |
+| Gonçalo Guedes | M | 16 | 924 | 3 | 2 | 31 | 1,9 | 10 | 0,6 | 11 | 22 | 1,4 | 1 | 0 |
+| Zubeldia | D | 12 | 893 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 12 | 2 | 0,2 | 3 | 0 |
+| J. Aramburu | D | 12 | 887 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 34 | 20 | 1,7 | 4 | 0 |
+| O. Óskarsson | F | 15 | 881 | 6 | 0 | 31 | 2,1 | 13 | 0,9 | 16 | 6 | 0,4 | 3 | 1 |
+| M. Sarr | D | 11 | 868 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 10 | 10 | 0,9 | 5 | 0 |
 | Barrenetxea | M | 14 | 799 | 2 | 3 | 12 | 0,9 | 4 | 0,3 | 23 | 8 | 0,6 | 2 | 0 |
-| M. Sarr | D | 10 | 778 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 9 | 0,9 | 4 | 0 |
+| Jon Gorrotxategi | M | 14 | 768 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 9 | 8 | 0,6 | 1 | 0 |
 | Y. Herrera | M | 12 | 731 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 22 | 14 | 1,2 | 5 | 0 |
-| Jon Gorrotxategi | M | 13 | 682 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 8 | 0,6 | 1 | 0 |
-| Beñat Turrientes | M | 10 | 543 | 2 | 1 | 10 | 1,0 | 7 | 0,7 | 3 | 2 | 0,2 | 3 | 0 |
-| T. Kubo | M | 11 | 458 | 1 | 1 | 4 | 0,4 | 1 | 0,1 | 3 | 9 | 0,8 | 0 | 0 |
+| Beñat Turrientes | M | 11 | 547 | 2 | 1 | 10 | 0,9 | 7 | 0,6 | 3 | 2 | 0,2 | 3 | 0 |
+| T. Kubo | F | 12 | 480 | 1 | 1 | 4 | 0,3 | 1 | 0,1 | 5 | 10 | 0,8 | 0 | 0 |
 | Unai Marrero | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,6 | 0 | 0 |
 | J. Ochieng | F | 11 | 416 | 1 | 3 | 7 | 0,6 | 3 | 0,3 | 15 | 4 | 0,4 | 0 | 0 |
 | Luken Beitia | D | 4 | 360 | 0 | 1 | 2 | 0,5 | 1 | 0,2 | 2 | 0 | 0,0 | 1 | 0 |
-| Héctor Fort | D | 7 | 216 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| Héctor Fort | D | 8 | 284 | 0 | 1 | 3 | 0,4 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Sevilla
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

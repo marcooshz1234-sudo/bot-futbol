@@ -1,17 +1,17 @@
 # Aciertos de los picks del bot
 
-Picks ya jugados: 604 · aciertos: 376 (62%) · beneficio a 1 € por pick: -67.98 €
+Picks ya jugados: 624 · aciertos: 388 (62%) · beneficio a 1 € por pick: -67.84 €
 
 ## Por tipo
 
 | Tipo | Aciertos | Picks | % | Beneficio (1 €) |
 |---|---|---|---|---|
-| jugador | 131 | 202 | 65% | -21.23 € |
-| goles | 148 | 229 | 65% | -21.94 € |
-| resultado | 72 | 114 | 63% | -6.64 € |
-| tarjetas | 14 | 23 | 61% | -0.80 € |
+| jugador | 132 | 204 | 65% | -21.32 € |
+| goles | 152 | 235 | 65% | -21.17 € |
+| resultado | 76 | 121 | 63% | -7.03 € |
+| tarjetas | 16 | 27 | 59% | -1.68 € |
 | tiros | 6 | 11 | 55% | -0.47 € |
-| corners | 5 | 20 | 25% | -11.90 € |
+| corners | 6 | 21 | 29% | -11.17 € |
 | fueras de juego | 0 | 3 | 0% | -3.00 € |
 | tiros a puerta | 0 | 2 | 0% | -2.00 € |
 
@@ -21,16 +21,16 @@ Picks ya jugados: 604 · aciertos: 376 (62%) · beneficio a 1 € por pick: -67.
 |---|---|---|---|
 | Player Fouls Committed · Jayden Bogle - 1 | 3 | 3 | 100% |
 | Player Fouls Committed · James Hill - 1 | 3 | 3 | 100% |
-| To Win Either Half · Home | 7 | 8 | 88% |
+| To Win Either Half · Home | 9 | 11 | 82% |
 | Goals Over/Under · Over 1.5 | 33 | 42 | 79% |
-| Match Winner · Home | 11 | 14 | 79% |
-| Home Team Total Cards · Over 1.5 | 10 | 13 | 77% |
 | Goals Over/Under · Over 2.5 | 15 | 20 | 75% |
+| Goals Over/Under - Second Half · Over 1.5 | 9 | 12 | 75% |
+| Home Team Total Cards · Over 1.5 | 11 | 15 | 73% |
+| Match Winner · Home | 13 | 18 | 72% |
 | Double Chance · Home/Draw | 10 | 14 | 71% |
 | Double Chance · Home/Away | 17 | 24 | 71% |
 | Match Winner · Away | 9 | 13 | 69% |
 | Goals Over/Under First Half · Over 0.5 | 31 | 45 | 69% |
-| Goals Over/Under - Second Half · Over 1.5 | 6 | 9 | 67% |
 | Away Player Shots · Nicolo Barella - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Radu Dragusin - 1 | 2 | 3 | 67% |
 | Player Fouls Committed · Evanilson - 1 | 2 | 3 | 67% |
@@ -38,20 +38,42 @@ Picks ya jugados: 604 · aciertos: 376 (62%) · beneficio a 1 € por pick: -67.
 | Total - Home · Over 0.5 | 9 | 15 | 60% |
 | Goals Over/Under - Second Half · Over 0.5 | 6 | 10 | 60% |
 | Total - Home · Over 1.5 | 3 | 5 | 60% |
-| Total - Away · Over 0.5 | 28 | 49 | 57% |
-| Both Teams Score · Yes | 11 | 21 | 52% |
+| Total - Away · Over 0.5 | 28 | 50 | 56% |
+| Both Teams Score · Yes | 12 | 23 | 52% |
+| Away Team Total Cards · Over 1.5 | 2 | 4 | 50% |
 | Total - Away · Over 1.5 | 2 | 4 | 50% |
 | To Win Either Half · Away | 6 | 13 | 46% |
 | Double Chance · Draw/Away | 12 | 28 | 43% |
+| Away Corners Over/Under · Over 3.5 | 2 | 5 | 40% |
 | Total Goals/Both Teams To Score · o/yes 2.5 | 3 | 8 | 38% |
-| Away Team Total Cards · Over 1.5 | 1 | 3 | 33% |
 | Total Shots · Over 26.5 | 1 | 3 | 33% |
 | Player Fouls Committed · Koki Machida - 1 | 1 | 3 | 33% |
-| Home Team Total Cards · Over 0.5 | 1 | 3 | 33% |
 | Away Corners Over/Under · Over 2.5 | 2 | 7 | 29% |
-| Away Corners Over/Under · Over 3.5 | 1 | 4 | 25% |
+| Home Team Total Cards · Over 0.5 | 1 | 4 | 25% |
 
 ## Últimos días
+
+### 2026-11-22 · 12/20
+- ❌ Juventus ve más de 0,5 tarjetas · 1.50 (4-0)
+- ✅ Ambos marcan en Burnley–Blackburn · 1.67 (2-2)
+- ✅ Gana el Cordoba · 2.00 (3-0)
+- ✅ Cordoba gana alguna de las dos partes · 1.50 (3-0)
+- ✅ Más de 1,5 goles en la 2ª parte del Cordoba–Oviedo · 1.80 (3-0)
+- ✅ Oviedo hace más de 3,5 córners · 1.73 (3-0)
+- ✅ Villarreal ve más de 1,5 tarjetas · 1.50 (3-2)
+- ❌ Ambos marcan en Ajax–ADO Den Haag · 1.75 (3-0)
+- ❌ ADO Den Haag marca · 1.62 (3-0)
+- ✅ Bologna gana alguna de las dos partes · 1.44 (1-1)
+- ❌ Gana el Bologna · 1.70 (1-1)
+- ❌ Federico Bernardeschi: 1+ tiros a puerta · 1.33 (1-1)
+- ✅ Junior Messias comete 1+ faltas · 1.91 (0-2)
+- ❌ Gana el Vizela · 1.90 (2-2)
+- ✅ Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 · 1.57 (3-1)
+- ❌ Sporting Gijon gana alguna de las dos partes · 1.62 (0-2)
+- ✅ Gana el Liverpool · 1.67 (4-0)
+- ✅ Más de 1,5 goles en la 2ª parte del Werder Bremen–Hamburger SV · 1.73 (4-0)
+- ❌ AC Milan ve más de 1,5 tarjetas · 1.73 (5-1)
+- ✅ Osasuna ve más de 1,5 tarjetas · 1.62 (1-0)
 
 ### 2026-11-21 · 12/21
 - ✅ Ruben Alcaraz: 1+ tiros · 1.53 (1-1)
@@ -103,8 +125,4 @@ Picks ya jugados: 604 · aciertos: 376 (62%) · beneficio a 1 € por pick: -67.
 
 ### 2026-11-14 · 1/1
 - ✅ Ambos marcan en Arzignano Valchiampo–Alcione · 1.73 (3-2)
-
-### 2026-11-09 · 2/2
-- ✅ Hvidovre o empate · 1.25 (3-0)
-- ✅ Más de 1,5 goles en Deportivo de La Coruña W–Valencia W · 1.33 (0-2)
 

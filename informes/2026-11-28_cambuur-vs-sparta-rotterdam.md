@@ -1,7 +1,7 @@
 # Cambuur – Sparta Rotterdam
 **Eredivisie** · Regular Season - 14 · 28/11/2026 21:00 (hora España) · Kooi Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:44_
@@ -59,53 +59,53 @@ _Actualizadas: 22/11 07:44_
 ## Estadísticas de equipo
 | | Cambuur (total) | Cambuur en casa | Sparta Rotterdam (total) | Sparta Rotterdam fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 13 | 6 |
-| Forma (últimos 5) | VDVVV | DVEVD | DVEDV | DVEDD |
-| Balance | 6V 3E 5D | 2V 1E 4D | 3V 4E 6D | 2V 1E 3D |
-| Goles a favor / partido | 2,14 | 2,00 | 1,77 | 2,00 |
-| Goles en contra / partido | 2,07 | 2,86 | 2,38 | 2,50 |
-| Goles a favor 1ª parte | 1,00 | 1,00 | 0,77 | 0,83 |
-| Goles a favor 2ª parte | 1,14 | 1,00 | 1,00 | 1,17 |
-| Goles en contra 1ª parte | 1,07 | 1,86 | 1,08 | 1,00 |
-| Goles en contra 2ª parte | 1,00 | 1,00 | 1,31 | 1,50 |
-| Más de 1,5 goles | 93% | 100% | 92% | 100% |
-| Más de 2,5 goles | 79% | 100% | 92% | 100% |
-| Más de 3,5 goles | 71% | 86% | 77% | 83% |
-| Ambos marcan | 64% | 57% | 85% | 100% |
+| Partidos analizados | 14 | 7 | 14 | 6 |
+| Forma (últimos 5) | VDVVV | DVEVD | DDVED | DVEDD |
+| Balance | 6V 3E 5D | 2V 1E 4D | 3V 4E 7D | 2V 1E 3D |
+| Goles a favor / partido | 2,14 | 2,00 | 1,71 | 2,00 |
+| Goles en contra / partido | 2,07 | 2,86 | 2,57 | 2,50 |
+| Goles a favor 1ª parte | 1,00 | 1,00 | 0,79 | 0,83 |
+| Goles a favor 2ª parte | 1,14 | 1,00 | 0,93 | 1,17 |
+| Goles en contra 1ª parte | 1,07 | 1,86 | 1,07 | 1,00 |
+| Goles en contra 2ª parte | 1,00 | 1,00 | 1,50 | 1,50 |
+| Más de 1,5 goles | 93% | 100% | 93% | 100% |
+| Más de 2,5 goles | 79% | 100% | 93% | 100% |
+| Más de 3,5 goles | 71% | 86% | 79% | 83% |
+| Ambos marcan | 64% | 57% | 86% | 100% |
 | Portería a cero | 29% | 29% | 0% | 0% |
-| Se queda sin marcar | 7% | 14% | 15% | 0% |
-| xG a favor | 1,43 | 1,35 | 1,91 | 2,11 |
-| xG en contra | 1,80 | 1,93 | 1,92 | 1,93 |
-| Tiros / partido | 12,8 | 11,9 | 14,3 | 13,0 |
-| Tiros a puerta / partido | 5,2 | 4,6 | 5,1 | 5,8 |
-| Tiros recibidos | 14,2 | 13,7 | 16,8 | 16,7 |
-| Tiros a puerta recibidos | 5,5 | 5,4 | 5,9 | 6,5 |
+| Se queda sin marcar | 7% | 14% | 14% | 0% |
+| xG a favor | 1,43 | 1,35 | 1,82 | 2,11 |
+| xG en contra | 1,80 | 1,93 | 1,88 | 1,93 |
+| Tiros / partido | 12,8 | 11,9 | 14,1 | 13,0 |
+| Tiros a puerta / partido | 5,2 | 4,6 | 4,9 | 5,8 |
+| Tiros recibidos | 14,2 | 13,7 | 16,6 | 16,7 |
+| Tiros a puerta recibidos | 5,5 | 5,4 | 6,1 | 6,5 |
 | Posesión media % | 46 | 41 | 46 | 41 |
 | Córners a favor | 3,8 | 3,6 | 5,9 | 6,0 |
-| Córners en contra | 5,5 | 4,9 | 6,2 | 6,3 |
+| Córners en contra | 5,5 | 4,9 | 6,1 | 6,3 |
 | Córners a favor 1ª parte | 1,6 | 1,3 | 2,5 | 2,8 |
-| Córners a favor 2ª parte | 2,2 | 2,3 | 3,2 | 3,2 |
-| Córners totales del partido | 9,2 | 8,4 | 12,2 | 12,3 |
-| Córners totales 1ª parte | 3,8 | 3,0 | 6,5 | 6,3 |
-| Córners totales 2ª parte | 5,4 | 5,4 | 5,3 | 6,0 |
-| Más de 8,5 córners | 69% | 71% | 85% | 100% |
-| Más de 9,5 córners | 38% | 29% | 69% | 83% |
-| Más de 10,5 córners | 31% | 29% | 62% | 67% |
-| Faltas cometidas | 12,0 | 10,6 | 10,8 | 9,7 |
-| Faltas recibidas | 14,7 | 14,1 | 11,0 | 9,5 |
-| Amarillas propias | 1,8 | 1,4 | 1,5 | 1,5 |
+| Córners a favor 2ª parte | 2,2 | 2,3 | 3,1 | 3,2 |
+| Córners totales del partido | 9,2 | 8,4 | 11,9 | 12,3 |
+| Córners totales 1ª parte | 3,8 | 3,0 | 6,2 | 6,3 |
+| Córners totales 2ª parte | 5,4 | 5,4 | 5,4 | 6,0 |
+| Más de 8,5 córners | 69% | 71% | 86% | 100% |
+| Más de 9,5 córners | 38% | 29% | 64% | 83% |
+| Más de 10,5 córners | 31% | 29% | 57% | 67% |
+| Faltas cometidas | 12,0 | 10,6 | 11,1 | 9,7 |
+| Faltas recibidas | 14,7 | 14,1 | 10,8 | 9,5 |
+| Amarillas propias | 1,8 | 1,4 | 1,6 | 1,5 |
 | Amarillas del rival | 1,8 | 1,6 | 1,4 | 1,0 |
-| Rojas / partido | 0,08 | 0,14 | 0,00 | 0,00 |
+| Rojas / partido | 0,08 | 0,14 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Cambuur | Recibe Cambuur | Tarjetas Cambuur | Goles Sparta Rotterdam | Recibe Sparta Rotterdam | Tarjetas Sparta Rotterdam |
 |---|---|---|---|---|---|---|
-| 1-15' | 6 | 4 | 0 | 4 | 1 | 1 |
-| 16-30' | 4 | 7 | 3 | 3 | 9 | 3 |
-| 31-45' | 4 | 4 | 4 | 3 | 4 | 2 |
-| 46-60' | 5 | 2 | 5 | 5 | 5 | 4 |
-| 61-75' | 2 | 3 | 7 | 3 | 6 | 4 |
-| 76-90' | 9 | 9 | 11 | 5 | 6 | 7 |
+| 1-15' | 6 | 4 | 0 | 5 | 1 | 1 |
+| 16-30' | 4 | 7 | 3 | 3 | 10 | 3 |
+| 31-45' | 4 | 4 | 4 | 3 | 4 | 3 |
+| 46-60' | 5 | 2 | 5 | 5 | 7 | 4 |
+| 61-75' | 2 | 3 | 7 | 3 | 7 | 6 |
+| 76-90' | 9 | 9 | 11 | 5 | 7 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -157,31 +157,31 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Sparta Rotterdam
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Eredivisie | Sparta Rotterdam 1-5 AZ Alkmaar | casa | 5-4 | 11 (2) - 14 (8) | 3-1 |
 | 2026-11-07 | Eredivisie | ADO Den Haag 3-1 Sparta Rotterdam | fuera | 9-5 | 16 (6) - 13 (7) | 0-1 |
 | 2026-11-01 | Eredivisie | Groningen 2-3 Sparta Rotterdam | fuera | 7-2 | 8 (4) - 20 (10) | 3-1 |
 | 2026-10-28 | KNVB Beker | Sparta Rotterdam 2-2 Fortuna Sittard | casa | 5-9 | 19 (5) - 14 (5) | 1-3 |
 | 2026-10-25 | Eredivisie | Sparta Rotterdam 1-2 Ajax | casa | 5-3 | 11 (5) - 16 (4) | 1-2 |
 | 2026-10-17 | Eredivisie | Sparta Rotterdam 3-2 Willem II | casa | 3-4 | 22 (8) - 13 (4) | 4-4 |
-| 2026-10-10 | Eredivisie | GO Ahead Eagles 3-3 Sparta Rotterdam | fuera | 6-9 | 18 (8) - 17 (6) | 3-0 |
 
 ## Jugadores de Sparta Rotterdam
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B. Kuipers | D | 13 | 1200 | 1 | 3 | 7 | 0,5 | 3 | 0,2 | 10 | 8 | 0,6 | 2 | 0 |
-| M. Young | D | 13 | 1183 | 2 | 2 | 10 | 0,8 | 3 | 0,2 | 11 | 14 | 1,1 | 1 | 0 |
-| L. Martes | D | 13 | 1107 | 2 | 0 | 11 | 0,8 | 6 | 0,5 | 15 | 12 | 0,9 | 4 | 0 |
-| M. Zonneveld | F | 13 | 963 | 9 | 2 | 37 | 2,8 | 16 | 1,2 | 16 | 13 | 1,0 | 1 | 0 |
-| B. Martins Indi | D | 11 | 901 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 14 | 5 | 0,5 | 2 | 0 |
+| M. Young | D | 14 | 1273 | 2 | 2 | 10 | 0,7 | 3 | 0,2 | 11 | 16 | 1,1 | 1 | 0 |
+| B. Kuipers | D | 14 | 1267 | 1 | 3 | 7 | 0,5 | 3 | 0,2 | 10 | 8 | 0,6 | 2 | 0 |
+| L. Martes | D | 14 | 1197 | 2 | 0 | 11 | 0,8 | 6 | 0,4 | 19 | 14 | 1,0 | 4 | 0 |
+| M. Zonneveld | F | 14 | 1043 | 9 | 2 | 41 | 2,9 | 16 | 1,1 | 17 | 14 | 1,0 | 1 | 0 |
+| B. Martins Indi | D | 12 | 979 | 0 | 0 | 4 | 0,3 | 2 | 0,2 | 17 | 6 | 0,5 | 2 | 1 |
+| Cedric Hatenboer | M | 10 | 830 | 1 | 0 | 6 | 0,6 | 2 | 0,2 | 8 | 8 | 0,8 | 2 | 0 |
 | N. Verschuren | D | 12 | 828 | 1 | 0 | 6 | 0,5 | 1 | 0,1 | 8 | 14 | 1,2 | 1 | 0 |
-| Cedric Hatenboer | M | 9 | 753 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 7 | 8 | 0,9 | 2 | 0 |
 | M. Brouwer | G | 8 | 708 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,4 | 0 | 0 |
-| I. Babadi | M | 9 | 619 | 1 | 4 | 6 | 0,7 | 3 | 0,3 | 5 | 5 | 0,6 | 2 | 0 |
-| M. van Bergen | M | 11 | 561 | 0 | 1 | 10 | 0,9 | 5 | 0,5 | 1 | 8 | 0,7 | 1 | 0 |
+| I. Babadi | M | 10 | 686 | 2 | 4 | 7 | 0,7 | 4 | 0,4 | 5 | 5 | 0,5 | 3 | 0 |
+| M. van Bergen | M | 12 | 651 | 0 | 1 | 10 | 0,8 | 5 | 0,4 | 1 | 9 | 0,8 | 1 | 0 |
+| J. Baas | M | 8 | 623 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 11 | 4 | 0,5 | 2 | 0 |
+| F. Bednarek | G | 7 | 582 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| S. Mito | M | 8 | 575 | 0 | 3 | 6 | 0,8 | 2 | 0,2 | 1 | 7 | 0,9 | 0 | 0 |
 | Robin van Cruijsen | M | 12 | 558 | 1 | 0 | 13 | 1,1 | 5 | 0,4 | 5 | 3 | 0,2 | 0 | 0 |
-| Julian Baas | M | 7 | 533 | 0 | 1 | 2 | 0,3 | 1 | 0,1 | 8 | 3 | 0,4 | 1 | 0 |
-| Casper Terho | F | 10 | 513 | 1 | 0 | 9 | 0,9 | 4 | 0,4 | 4 | 10 | 1,0 | 1 | 0 |
-| S. Mito | M | 7 | 498 | 0 | 2 | 4 | 0,6 | 2 | 0,3 | 1 | 7 | 1,0 | 0 | 0 |
-| F. Bednarek | G | 6 | 492 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
+| C. Terho | F | 11 | 526 | 1 | 0 | 9 | 0,8 | 4 | 0,4 | 4 | 10 | 0,9 | 1 | 0 |
 | J. Toornstra | M | 9 | 482 | 2 | 1 | 6 | 0,7 | 3 | 0,3 | 7 | 4 | 0,4 | 1 | 0 |
 | Teo Quintero | M | 10 | 346 | 0 | 0 | 7 | 0,7 | 1 | 0,1 | 9 | 7 | 0,7 | 0 | 0 |
 | Ayoni Santos | F | 3 | 257 | 0 | 0 | 5 | 1,7 | 2 | 0,7 | 2 | 4 | 1,3 | 0 | 0 |

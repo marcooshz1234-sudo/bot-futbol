@@ -1,12 +1,12 @@
 # Atletico Madrid – Viking
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España) · Metropolitano Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:05_
+_Actualizadas: 22/11 20:34_
 
-- **1X2:** 1 **1.10**  ·  X **9.50**  ·  2 **19.00**
+- **1X2:** 1 **1.10**  ·  X **9.00**  ·  2 **26.00**
 - **Doble oportunidad:** 1X **1.02**  ·  12 **1.07**  ·  X2 **7.00**
 - **Ambos marcan:** Sí **2.05**  ·  No **1.70**
 - **Goles más/menos:**

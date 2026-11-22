@@ -1,7 +1,7 @@
 # Angers – Lens
 **Ligue 1** · Regular Season - 12 · 28/11/2026 17:15 (hora España) · Stade Raymond-Kopa
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -50,43 +50,43 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | Angers (total) | Angers en casa | Lens (total) | Lens fuera |
 |---|---|---|---|---|
-| Partidos analizados | 10 | 6 | 15 | 7 |
-| Forma (últimos 5) | DDEDD | DEDVD | EDDDV | DDVDE |
-| Balance | 2V 2E 6D | 1V 1E 4D | 5V 2E 8D | 2V 1E 4D |
-| Goles a favor / partido | 0,90 | 0,83 | 1,47 | 1,43 |
-| Goles en contra / partido | 1,90 | 1,83 | 2,13 | 1,86 |
-| Goles a favor 1ª parte | 0,40 | 0,50 | 0,47 | 0,57 |
-| Goles a favor 2ª parte | 0,50 | 0,33 | 1,00 | 0,86 |
-| Goles en contra 1ª parte | 1,30 | 1,17 | 0,80 | 0,71 |
-| Goles en contra 2ª parte | 0,60 | 0,67 | 1,33 | 1,14 |
-| Más de 1,5 goles | 80% | 83% | 87% | 86% |
-| Más de 2,5 goles | 40% | 33% | 73% | 86% |
-| Más de 3,5 goles | 30% | 17% | 33% | 43% |
-| Ambos marcan | 40% | 33% | 73% | 71% |
-| Portería a cero | 30% | 33% | 0% | 0% |
-| Se queda sin marcar | 50% | 50% | 27% | 29% |
-| xG a favor | 1,31 | 1,53 | 1,77 | 1,61 |
-| xG en contra | 1,81 | 1,49 | 1,85 | 1,98 |
-| Tiros / partido | 12,3 | 13,7 | 15,2 | 15,4 |
-| Tiros a puerta / partido | 3,2 | 3,3 | 5,7 | 5,4 |
-| Tiros recibidos | 16,9 | 15,7 | 12,3 | 13,6 |
-| Tiros a puerta recibidos | 6,0 | 5,5 | 5,3 | 5,7 |
-| Posesión media % | 48 | 50 | 51 | 50 |
-| Córners a favor | 6,0 | 6,0 | 6,1 | 6,1 |
-| Córners en contra | 5,5 | 6,0 | 4,1 | 4,4 |
-| Córners a favor 1ª parte | 2,6 | 2,0 | 2,9 | 2,7 |
-| Córners a favor 2ª parte | 3,4 | 4,0 | 3,2 | 3,4 |
+| Partidos analizados | 11 | 6 | 15 | 7 |
+| Forma (últimos 5) | DDDED | DEDVD | EDDDV | DDVDE |
+| Balance | 2V 2E 7D | 1V 1E 4D | 5V 2E 8D | 2V 1E 4D |
+| Goles a favor / partido | 0,82 | 0,83 | 1,47 | 1,43 |
+| Goles en contra / partido | 2,09 | 1,83 | 2,13 | 1,86 |
+| Goles a favor 1ª parte | 0,36 | 0,50 | 0,47 | 0,57 |
+| Goles a favor 2ª parte | 0,45 | 0,33 | 1,00 | 0,86 |
+| Goles en contra 1ª parte | 1,18 | 1,17 | 0,80 | 0,71 |
+| Goles en contra 2ª parte | 0,91 | 0,67 | 1,33 | 1,14 |
+| Más de 1,5 goles | 82% | 83% | 87% | 86% |
+| Más de 2,5 goles | 45% | 33% | 73% | 86% |
+| Más de 3,5 goles | 36% | 17% | 33% | 43% |
+| Ambos marcan | 36% | 33% | 73% | 71% |
+| Portería a cero | 27% | 33% | 0% | 0% |
+| Se queda sin marcar | 55% | 50% | 27% | 29% |
+| xG a favor | 1,23 | 1,53 | 1,77 | 1,61 |
+| xG en contra | 1,96 | 1,49 | 1,85 | 1,98 |
+| Tiros / partido | 12,0 | 13,7 | 15,2 | 15,4 |
+| Tiros a puerta / partido | 3,0 | 3,3 | 5,7 | 5,4 |
+| Tiros recibidos | 17,0 | 15,7 | 12,3 | 13,6 |
+| Tiros a puerta recibidos | 6,3 | 5,5 | 5,3 | 5,7 |
+| Posesión media % | 47 | 50 | 51 | 50 |
+| Córners a favor | 5,6 | 6,0 | 6,1 | 6,1 |
+| Córners en contra | 5,9 | 6,0 | 4,1 | 4,4 |
+| Córners a favor 1ª parte | 2,4 | 2,0 | 2,9 | 2,7 |
+| Córners a favor 2ª parte | 3,3 | 4,0 | 3,2 | 3,4 |
 | Córners totales del partido | 11,5 | 12,0 | 10,3 | 10,6 |
-| Córners totales 1ª parte | 5,7 | 5,7 | 5,1 | 5,0 |
-| Córners totales 2ª parte | 5,8 | 6,3 | 5,2 | 5,6 |
-| Más de 8,5 córners | 80% | 83% | 80% | 86% |
-| Más de 9,5 córners | 70% | 83% | 67% | 71% |
-| Más de 10,5 córners | 50% | 67% | 40% | 43% |
-| Faltas cometidas | 10,5 | 11,5 | 11,7 | 10,9 |
-| Faltas recibidas | 12,2 | 11,7 | 11,7 | 10,6 |
-| Amarillas propias | 1,6 | 1,8 | 1,9 | 1,7 |
+| Córners totales 1ª parte | 5,9 | 5,7 | 5,1 | 5,0 |
+| Córners totales 2ª parte | 5,6 | 6,3 | 5,2 | 5,6 |
+| Más de 8,5 córners | 82% | 83% | 80% | 86% |
+| Más de 9,5 córners | 73% | 83% | 67% | 71% |
+| Más de 10,5 córners | 55% | 67% | 40% | 43% |
+| Faltas cometidas | 10,6 | 11,5 | 11,7 | 10,9 |
+| Faltas recibidas | 12,6 | 11,7 | 11,7 | 10,6 |
+| Amarillas propias | 1,5 | 1,8 | 1,9 | 1,7 |
 | Amarillas del rival | 1,3 | 1,3 | 1,3 | 1,3 |
-| Rojas / partido | 0,10 | 0,00 | 0,13 | 0,00 |
+| Rojas / partido | 0,09 | 0,00 | 0,13 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Angers | Recibe Angers | Tarjetas Angers | Goles Lens | Recibe Lens | Tarjetas Lens |
@@ -94,8 +94,8 @@ _Actualizadas: 22/11 00:15_
 | 1-15' | 2 | 4 | 0 | 2 | 2 | 1 |
 | 16-30' | 0 | 3 | 3 | 1 | 2 | 2 |
 | 31-45' | 2 | 6 | 3 | 4 | 8 | 4 |
-| 46-60' | 2 | 2 | 1 | 6 | 7 | 4 |
-| 61-75' | 2 | 0 | 3 | 4 | 6 | 6 |
+| 46-60' | 2 | 4 | 1 | 6 | 7 | 4 |
+| 61-75' | 2 | 2 | 4 | 4 | 6 | 6 |
 | 76-90' | 1 | 4 | 7 | 5 | 7 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -114,35 +114,35 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Angers
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Ligue 1 | Paris FC 4-0 Angers | fuera | 2-10 | 9 (1) - 18 (9) | 1-1 |
 | 2026-11-08 | Ligue 1 | Angers 0-2 Nice | casa | 6-4 | 12 (4) - 16 (8) | 3-1 |
 | 2026-11-01 | Ligue 1 | Lyon 2-0 Angers | fuera | 3-4 | 8 (2) - 21 (5) | 1-0 |
 | 2026-10-25 | Ligue 1 | Angers 0-0 Lorient | casa | 6-7 | 8 (5) - 10 (1) | 1-1 |
 | 2026-10-18 | Ligue 1 | Angers 2-5 Marseille | casa | 2-5 | 11 (3) - 21 (8) | 1-1 |
 | 2026-10-10 | Ligue 1 | Stade Brestois 29 5-1 Angers | fuera | 5-4 | 9 (3) - 19 (9) | 1-1 |
-| 2026-09-19 | Ligue 1 | Angers 2-0 Estac Troyes | casa | 2-11 | 12 (3) - 19 (3) | 3-2 |
 
 ## Jugadores de Angers
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Anthony Lopes | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| B. van den Boomen | M | 10 | 887 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 15 | 5 | 0,5 | 3 | 0 |
-| A. Sbaï | M | 10 | 864 | 1 | 1 | 16 | 1,6 | 5 | 0,5 | 8 | 13 | 1,3 | 0 | 0 |
-| Y. Belkhdim | M | 10 | 818 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 14 | 6 | 0,6 | 2 | 0 |
+| Anthony Lopes | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| B. van den Boomen | M | 11 | 977 | 1 | 1 | 4 | 0,4 | 2 | 0,2 | 16 | 6 | 0,5 | 3 | 0 |
+| A. Sbaï | M | 11 | 940 | 1 | 1 | 20 | 1,8 | 5 | 0,5 | 9 | 15 | 1,4 | 0 | 0 |
+| Y. Belkhdim | M | 11 | 904 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 17 | 8 | 0,7 | 2 | 0 |
+| O. Camara | D | 10 | 844 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 2 | 0,2 | 2 | 0 |
+| J. Kalulu | D | 10 | 828 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 3 | 12 | 1,2 | 1 | 0 |
 | J. Lefort | D | 9 | 779 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 11 | 8 | 0,9 | 2 | 1 |
-| O. Camara | D | 9 | 754 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 5 | 2 | 0,2 | 2 | 0 |
-| J. Kalulu | D | 9 | 738 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 2 | 11 | 1,2 | 1 | 0 |
-| C. Arcus | D | 9 | 688 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 1 | 0,1 | 1 | 0 |
-| J. Allevinah | M | 10 | 662 | 0 | 0 | 11 | 1,1 | 5 | 0,5 | 7 | 17 | 1,7 | 1 | 0 |
-| A. El Ouazzani | F | 8 | 530 | 2 | 2 | 9 | 1,1 | 4 | 0,5 | 6 | 10 | 1,2 | 0 | 0 |
+| C. Arcus | D | 10 | 746 | 1 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 3 | 0,3 | 1 | 0 |
+| J. Allevinah | F | 11 | 694 | 0 | 0 | 12 | 1,1 | 5 | 0,5 | 9 | 17 | 1,5 | 2 | 0 |
+| A. El Ouazzani | F | 9 | 562 | 2 | 2 | 10 | 1,1 | 4 | 0,4 | 6 | 10 | 1,1 | 0 | 0 |
 | P. Peter | F | 10 | 488 | 2 | 0 | 12 | 1,2 | 6 | 0,6 | 5 | 14 | 1,4 | 1 | 0 |
-| L. Rao-Lisoa | D | 9 | 438 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 1 | 5 | 0,6 | 0 | 0 |
-| H. Belkebla | M | 5 | 302 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 2 | 0,4 | 0 | 0 |
-| A. Bermont | M | 7 | 197 | 0 | 0 | 4 | 0,6 | 0 | 0,0 | 5 | 4 | 0,6 | 1 | 0 |
+| L. Rao-Lisoa | D | 10 | 470 | 1 | 0 | 3 | 0,3 | 1 | 0,1 | 1 | 6 | 0,6 | 0 | 0 |
+| H. Belkebla | M | 6 | 392 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 7 | 5 | 0,8 | 0 | 0 |
+| A. Bermont | M | 8 | 255 | 0 | 0 | 4 | 0,5 | 0 | 0,0 | 7 | 6 | 0,8 | 1 | 0 |
+| M. Gernigon | D | 3 | 208 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
+| U. Simbakoli | F | 9 | 163 | 0 | 0 | 10 | 1,1 | 2 | 0,2 | 5 | 5 | 0,6 | 1 | 0 |
 | Djibirin Harouna | F | 9 | 160 | 1 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 5 | 0,6 | 0 | 0 |
+| E. Biumla | M | 3 | 142 | 0 | 0 | 1 | 0,3 | 1 | 0,3 | 2 | 2 | 0,7 | 1 | 0 |
 | Bané Diatta | M | 5 | 140 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 1,0 | 0 | 0 |
-| Emmanuel Biumla | D | 2 | 128 | 0 | 0 | 1 | 0,5 | 1 | 0,5 | 2 | 1 | 0,5 | 1 | 0 |
-| Maël Gernigon | D | 2 | 118 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
-| U. Simbakoli | F | 8 | 105 | 0 | 0 | 9 | 1,1 | 2 | 0,2 | 5 | 3 | 0,4 | 1 | 0 |
 | Jacques Ekomié | D | 1 | 90 | 0 | 0 | 2 | 2,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Lens

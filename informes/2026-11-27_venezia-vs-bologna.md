@@ -1,7 +1,7 @@
 # Venezia – Bologna
 **Serie A** · Regular Season - 13 · 27/11/2026 20:45 (hora España) · Stadio Pierluigi Penzo
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:43_
@@ -59,42 +59,42 @@ _Actualizadas: 22/11 07:43_
 ## Estadísticas de equipo
 | | Venezia (total) | Venezia en casa | Bologna (total) | Bologna fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 11 | 6 |
-| Forma (últimos 5) | VDDDV | VDVDD | VVVVD | VVVVD |
-| Balance | 3V 0E 10D | 3V 0E 4D | 5V 2E 4D | 4V 0E 2D |
-| Goles a favor / partido | 0,92 | 1,14 | 1,45 | 1,67 |
-| Goles en contra / partido | 1,92 | 1,86 | 1,27 | 1,00 |
-| Goles a favor 1ª parte | 0,31 | 0,29 | 0,45 | 0,33 |
-| Goles a favor 2ª parte | 0,62 | 0,86 | 1,00 | 1,33 |
-| Goles en contra 1ª parte | 0,92 | 0,57 | 0,45 | 0,33 |
-| Goles en contra 2ª parte | 1,00 | 1,29 | 0,82 | 0,67 |
-| Más de 1,5 goles | 77% | 86% | 73% | 67% |
-| Más de 2,5 goles | 46% | 43% | 55% | 50% |
-| Más de 3,5 goles | 31% | 29% | 27% | 17% |
-| Ambos marcan | 46% | 43% | 64% | 50% |
-| Portería a cero | 8% | 14% | 9% | 17% |
-| Se queda sin marcar | 46% | 43% | 27% | 33% |
-| xG a favor | 1,47 | 1,45 | 1,65 | 1,74 |
-| xG en contra | 1,97 | 2,22 | 1,36 | 1,09 |
-| Tiros / partido | 14,2 | 15,0 | 13,5 | 13,7 |
-| Tiros a puerta / partido | 4,5 | 5,4 | 4,5 | 5,0 |
-| Tiros recibidos | 15,8 | 16,0 | 11,3 | 10,3 |
-| Tiros a puerta recibidos | 6,0 | 5,4 | 3,6 | 2,7 |
-| Posesión media % | 52 | 51 | 50 | 48 |
-| Córners a favor | 4,2 | 4,3 | 5,0 | 4,8 |
+| Partidos analizados | 14 | 7 | 12 | 6 |
+| Forma (últimos 5) | DVDDD | VDVDD | EVVVV | VVVVD |
+| Balance | 3V 0E 11D | 3V 0E 4D | 5V 3E 4D | 4V 0E 2D |
+| Goles a favor / partido | 0,86 | 1,14 | 1,42 | 1,67 |
+| Goles en contra / partido | 2,07 | 1,86 | 1,25 | 1,00 |
+| Goles a favor 1ª parte | 0,29 | 0,29 | 0,50 | 0,33 |
+| Goles a favor 2ª parte | 0,57 | 0,86 | 0,92 | 1,33 |
+| Goles en contra 1ª parte | 0,86 | 0,57 | 0,42 | 0,33 |
+| Goles en contra 2ª parte | 1,21 | 1,29 | 0,83 | 0,67 |
+| Más de 1,5 goles | 79% | 86% | 75% | 67% |
+| Más de 2,5 goles | 50% | 43% | 50% | 50% |
+| Más de 3,5 goles | 36% | 29% | 25% | 17% |
+| Ambos marcan | 43% | 43% | 67% | 50% |
+| Portería a cero | 7% | 14% | 8% | 17% |
+| Se queda sin marcar | 50% | 43% | 25% | 33% |
+| xG a favor | 1,42 | 1,45 | 1,66 | 1,74 |
+| xG en contra | 1,97 | 2,22 | 1,39 | 1,09 |
+| Tiros / partido | 14,1 | 15,0 | 13,9 | 13,7 |
+| Tiros a puerta / partido | 4,2 | 5,4 | 4,5 | 5,0 |
+| Tiros recibidos | 15,5 | 16,0 | 11,2 | 10,3 |
+| Tiros a puerta recibidos | 6,1 | 5,4 | 3,6 | 2,7 |
+| Posesión media % | 51 | 51 | 50 | 48 |
+| Córners a favor | 4,1 | 4,3 | 5,2 | 4,8 |
 | Córners en contra | 5,4 | 5,3 | 4,7 | 4,2 |
-| Córners a favor 1ª parte | 1,8 | 2,3 | 2,3 | 2,0 |
-| Córners a favor 2ª parte | 2,5 | 2,0 | 2,7 | 2,8 |
-| Córners totales del partido | 9,6 | 9,6 | 9,7 | 9,0 |
-| Córners totales 1ª parte | 3,8 | 3,6 | 4,0 | 3,3 |
-| Córners totales 2ª parte | 5,8 | 6,0 | 5,7 | 5,7 |
-| Más de 8,5 córners | 69% | 71% | 45% | 50% |
-| Más de 9,5 córners | 46% | 43% | 45% | 50% |
-| Más de 10,5 córners | 31% | 29% | 36% | 33% |
-| Faltas cometidas | 9,7 | 9,6 | 13,1 | 12,2 |
-| Faltas recibidas | 9,9 | 7,7 | 14,3 | 14,7 |
-| Amarillas propias | 1,8 | 1,9 | 2,1 | 1,3 |
-| Amarillas del rival | 1,2 | 1,3 | 2,2 | 1,7 |
+| Córners a favor 1ª parte | 1,8 | 2,3 | 2,2 | 2,0 |
+| Córners a favor 2ª parte | 2,3 | 2,0 | 3,0 | 2,8 |
+| Córners totales del partido | 9,4 | 9,6 | 9,9 | 9,0 |
+| Córners totales 1ª parte | 4,0 | 3,6 | 4,1 | 3,3 |
+| Córners totales 2ª parte | 5,4 | 6,0 | 5,8 | 5,7 |
+| Más de 8,5 córners | 64% | 71% | 50% | 50% |
+| Más de 9,5 córners | 43% | 43% | 50% | 50% |
+| Más de 10,5 córners | 29% | 29% | 42% | 33% |
+| Faltas cometidas | 9,8 | 9,6 | 13,1 | 12,2 |
+| Faltas recibidas | 10,0 | 7,7 | 14,0 | 14,7 |
+| Amarillas propias | 1,7 | 1,9 | 2,0 | 1,3 |
+| Amarillas del rival | 1,1 | 1,3 | 2,2 | 1,7 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -102,9 +102,9 @@ _Actualizadas: 22/11 07:43_
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 2 | 0 | 3 | 2 | 0 |
 | 16-30' | 2 | 6 | 3 | 1 | 2 | 3 |
-| 31-45' | 1 | 4 | 7 | 1 | 1 | 6 |
-| 46-60' | 2 | 5 | 4 | 5 | 2 | 3 |
-| 61-75' | 3 | 2 | 3 | 3 | 3 | 3 |
+| 31-45' | 1 | 4 | 7 | 2 | 1 | 6 |
+| 46-60' | 2 | 7 | 4 | 5 | 2 | 4 |
+| 61-75' | 3 | 4 | 3 | 3 | 4 | 3 |
 | 76-90' | 3 | 6 | 7 | 3 | 4 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -121,67 +121,67 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Venezia
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | Juventus 4-0 Venezia | fuera | 2-5 | 13 (1) - 12 (8) | 0-0 |
 | 2026-11-06 | Serie A | Venezia 2-1 Udinese | casa | 3-7 | 15 (4) - 13 (5) | 1-1 |
 | 2026-11-01 | Serie A | Como 1-0 Venezia | fuera | 1-8 | 7 (1) - 19 (4) | 2-1 |
 | 2026-10-28 | Serie A | Venezia 0-2 Inter | casa | 3-6 | 12 (4) - 16 (2) | 0-2 |
 | 2026-10-25 | Serie A | Genoa 1-0 Venezia | fuera | 10-2 | 19 (5) - 7 (4) | 0-1 |
 | 2026-10-17 | Serie A | Venezia 1-0 Napoli | casa | 0-12 | 9 (4) - 29 (10) | 2-0 |
-| 2026-10-12 | Serie A | Atalanta 3-1 Venezia | fuera | 7-8 | 19 (4) - 22 (11) | 2-1 |
 
 ## Jugadores de Venezia
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| F. Stanković | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| A. Adams | F | 13 | 1044 | 4 | 1 | 32 | 2,5 | 17 | 1,3 | 15 | 5 | 0,4 | 0 | 0 |
-| A. Hainaut | M | 12 | 1020 | 2 | 2 | 16 | 1,3 | 4 | 0,3 | 13 | 6 | 0,5 | 0 | 0 |
-| Kike Pérez | M | 12 | 950 | 1 | 0 | 14 | 1,2 | 6 | 0,5 | 20 | 18 | 1,5 | 3 | 0 |
-| S. Sohm | M | 12 | 886 | 0 | 1 | 5 | 0,4 | 2 | 0,2 | 6 | 8 | 0,7 | 3 | 0 |
-| R. Halhal | D | 10 | 856 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 12 | 6 | 0,6 | 1 | 0 |
-| J. Yeboah | F | 12 | 855 | 2 | 0 | 27 | 2,2 | 8 | 0,7 | 3 | 13 | 1,1 | 0 | 0 |
-| M. Moreno | D | 9 | 689 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 8 | 3 | 0,3 | 3 | 0 |
-| Juan Jesus | D | 8 | 651 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 10 | 2 | 0,2 | 3 | 0 |
+| F. Stanković | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| A. Adams | F | 14 | 1131 | 4 | 1 | 34 | 2,4 | 17 | 1,2 | 15 | 5 | 0,4 | 0 | 0 |
+| A. Hainaut | M | 13 | 1104 | 2 | 2 | 16 | 1,2 | 4 | 0,3 | 15 | 8 | 0,6 | 0 | 0 |
+| Kike Pérez | M | 13 | 1034 | 1 | 0 | 16 | 1,2 | 6 | 0,5 | 22 | 19 | 1,5 | 3 | 0 |
+| S. Sohm | M | 13 | 953 | 0 | 1 | 5 | 0,4 | 2 | 0,2 | 7 | 8 | 0,6 | 3 | 0 |
+| R. Halhal | D | 11 | 946 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 15 | 6 | 0,5 | 1 | 0 |
+| J. Yeboah | F | 13 | 878 | 2 | 0 | 30 | 2,3 | 9 | 0,7 | 3 | 16 | 1,2 | 0 | 0 |
+| M. Moreno | D | 10 | 779 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 10 | 3 | 0,3 | 3 | 0 |
+| Juan Jesus | D | 9 | 741 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 10 | 2 | 0,2 | 3 | 0 |
+| R. Haps | M | 11 | 599 | 0 | 1 | 4 | 0,4 | 1 | 0,1 | 2 | 9 | 0,8 | 1 | 0 |
+| G. Busio | M | 8 | 578 | 0 | 2 | 10 | 1,2 | 4 | 0,5 | 3 | 8 | 1,0 | 1 | 0 |
 | Joel Schingtienne | D | 8 | 569 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 3 | 0 | 0,0 | 3 | 0 |
 | T. Bašić | M | 8 | 510 | 1 | 0 | 7 | 0,9 | 3 | 0,4 | 1 | 6 | 0,8 | 1 | 0 |
-| R. Haps | D | 10 | 509 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 2 | 9 | 0,9 | 1 | 0 |
-| G. Busio | M | 7 | 488 | 0 | 2 | 9 | 1,3 | 4 | 0,6 | 3 | 6 | 0,9 | 1 | 0 |
-| R. Sagrado | D | 8 | 382 | 2 | 1 | 4 | 0,5 | 2 | 0,2 | 3 | 4 | 0,5 | 1 | 0 |
+| R. Sagrado | D | 9 | 388 | 2 | 1 | 4 | 0,4 | 2 | 0,2 | 3 | 5 | 0,6 | 1 | 0 |
 | Armel Bella-Kotchap | D | 5 | 376 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 3 | 8 | 1,6 | 0 | 0 |
 | Þ. Helgason | M | 8 | 371 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 7 | 1 | 0,1 | 0 | 0 |
+| L. Lauberbach | F | 10 | 332 | 0 | 0 | 7 | 0,7 | 3 | 0,3 | 2 | 4 | 0,4 | 0 | 0 |
 | Thierry Correia | M | 7 | 315 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 6 | 0,9 | 1 | 0 |
 | P. Mazzocchi | M | 5 | 274 | 0 | 1 | 2 | 0,4 | 0 | 0,0 | 3 | 1 | 0,2 | 1 | 0 |
-| L. Lauberbach | F | 9 | 265 | 0 | 0 | 6 | 0,7 | 3 | 0,3 | 1 | 4 | 0,4 | 0 | 0 |
-| A. Rrahmani | F | 10 | 224 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 1 | 2 | 0,2 | 0 | 0 |
+| A. Rrahmani | F | 11 | 227 | 0 | 0 | 6 | 0,5 | 2 | 0,2 | 1 | 2 | 0,2 | 0 | 0 |
 
 ## Últimos partidos de Bologna
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | Bologna 1-1 Udinese | casa | 8-4 | 18 (4) - 11 (3) | 1-2 |
 | 2026-11-07 | Serie A | Parma 1-2 Bologna | fuera | 15-1 | 33 (10) - 11 (2) | 2-3 |
 | 2026-10-31 | Serie A | Bologna 2-1 Monza | casa | 5-2 | 10 (5) - 6 (4) | 4-3 |
 | 2026-10-28 | Serie A | AC Milan 2-4 Bologna | fuera | 3-2 | 9 (5) - 8 (3) | 2-0 |
 | 2026-10-24 | Serie A | Cagliari 0-2 Bologna | fuera | 6-1 | 10 (5) - 4 (1) | 1-3 |
 | 2026-10-17 | Serie A | Bologna 1-3 Inter | casa | 2-6 | 11 (4) - 17 (8) | 4-3 |
-| 2026-10-11 | Serie A | Lecce 1-2 Bologna | fuera | 3-10 | 9 (5) - 19 (5) | 2-3 |
 
 ## Jugadores de Bologna
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Ferguson | M | 11 | 990 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 23 | 14 | 1,3 | 0 | 0 |
-| Ł. Skorupski | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| N. Cambiaghi | F | 11 | 799 | 0 | 3 | 8 | 0,7 | 2 | 0,2 | 12 | 35 | 3,2 | 1 | 0 |
-| F. Bernardeschi | F | 11 | 783 | 3 | 0 | 26 | 2,4 | 12 | 1,1 | 10 | 15 | 1,4 | 2 | 0 |
-| T. Pobega | M | 10 | 734 | 2 | 0 | 13 | 1,3 | 5 | 0,5 | 11 | 6 | 0,6 | 3 | 0 |
+| L. Ferguson | M | 12 | 1080 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 25 | 15 | 1,2 | 0 | 0 |
+| Ł. Skorupski | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| N. Cambiaghi | M | 12 | 884 | 0 | 3 | 8 | 0,7 | 2 | 0,2 | 13 | 41 | 3,4 | 1 | 0 |
+| F. Bernardeschi | M | 12 | 862 | 3 | 0 | 32 | 2,7 | 12 | 1,0 | 12 | 15 | 1,2 | 3 | 0 |
+| T. Pobega | M | 11 | 824 | 2 | 0 | 15 | 1,4 | 5 | 0,5 | 12 | 6 | 0,5 | 3 | 0 |
+| A. Theate | D | 9 | 763 | 1 | 0 | 9 | 1,0 | 3 | 0,3 | 10 | 5 | 0,6 | 1 | 0 |
+| N. Zortea | M | 10 | 723 | 1 | 1 | 5 | 0,5 | 3 | 0,3 | 8 | 5 | 0,5 | 1 | 0 |
 | Juan Miranda | M | 10 | 708 | 0 | 5 | 5 | 0,5 | 2 | 0,2 | 3 | 5 | 0,5 | 1 | 0 |
-| A. Theate | D | 8 | 673 | 1 | 0 | 8 | 1,0 | 2 | 0,2 | 6 | 5 | 0,6 | 1 | 0 |
-| N. Zortea | M | 9 | 644 | 0 | 1 | 4 | 0,4 | 2 | 0,2 | 8 | 5 | 0,6 | 1 | 0 |
-| J. Odgaard | F | 9 | 547 | 0 | 1 | 14 | 1,6 | 6 | 0,7 | 14 | 15 | 1,7 | 2 | 0 |
+| J. Odgaard | F | 10 | 637 | 0 | 2 | 18 | 1,8 | 6 | 0,6 | 16 | 17 | 1,7 | 2 | 0 |
+| N. Casale | D | 7 | 588 | 1 | 0 | 6 | 0,9 | 3 | 0,4 | 6 | 5 | 0,7 | 1 | 0 |
 | T. Heggem | D | 7 | 525 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 7 | 2 | 0,3 | 3 | 0 |
-| N. Casale | D | 6 | 498 | 1 | 0 | 5 | 0,8 | 2 | 0,3 | 6 | 5 | 0,8 | 1 | 0 |
-| R. Piccoli | F | 8 | 481 | 1 | 0 | 9 | 1,1 | 2 | 0,2 | 13 | 13 | 1,6 | 1 | 0 |
-| M. Darmian | D | 6 | 428 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 1 | 3 | 0,5 | 0 | 0 |
+| M. Darmian | D | 7 | 513 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 2 | 3 | 0,4 | 0 | 0 |
+| R. Piccoli | F | 9 | 486 | 1 | 0 | 9 | 1,0 | 2 | 0,2 | 13 | 13 | 1,4 | 1 | 0 |
 | E. Helland | D | 7 | 342 | 0 | 0 | 2 | 0,3 | 1 | 0,1 | 4 | 1 | 0,1 | 0 | 0 |
 | Emil Holm | D | 5 | 285 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 0 | 6 | 1,2 | 1 | 0 |
-| R. Orsolini | F | 5 | 222 | 2 | 0 | 3 | 0,6 | 2 | 0,4 | 2 | 5 | 1,0 | 0 | 0 |
-| R. Alhassane | M | 5 | 218 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
-| S. Mbangula | F | 6 | 200 | 3 | 0 | 9 | 1,5 | 4 | 0,7 | 1 | 6 | 1,0 | 0 | 0 |
+| R. Orsolini | M | 6 | 267 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 2 | 5 | 0,8 | 0 | 0 |
+| R. Alhassane | D | 6 | 263 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 3 | 1 | 0,2 | 0 | 0 |
+| S. Mbangula | F | 7 | 211 | 3 | 0 | 9 | 1,3 | 4 | 0,6 | 1 | 6 | 0,9 | 0 | 0 |
 | Massimo Pessina | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Vitík | D | 4 | 127 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |
+| M. Vitík | D | 5 | 138 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 0 | 0,0 | 1 | 0 |

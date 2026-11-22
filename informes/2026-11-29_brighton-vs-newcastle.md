@@ -1,7 +1,7 @@
 # Brighton – Newcastle
 **Premier League** · Regular Season - 12 · 29/11/2026 15:05 (hora España) · Amex Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -51,53 +51,53 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | Brighton (total) | Brighton en casa | Newcastle (total) | Newcastle fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 7 | 14 | 7 |
-| Forma (últimos 5) | VVVED | VVVVE | EEDDV | EDVDD |
-| Balance | 11V 4E 2D | 6V 1E 0D | 5V 4E 5D | 3V 1E 3D |
-| Goles a favor / partido | 2,35 | 3,29 | 1,43 | 1,29 |
-| Goles en contra / partido | 0,65 | 0,14 | 1,64 | 1,71 |
-| Goles a favor 1ª parte | 1,24 | 2,29 | 0,36 | 0,00 |
-| Goles a favor 2ª parte | 1,12 | 1,00 | 1,07 | 1,29 |
-| Goles en contra 1ª parte | 0,53 | 0,14 | 0,79 | 0,86 |
-| Goles en contra 2ª parte | 0,12 | 0,00 | 0,86 | 0,86 |
-| Más de 1,5 goles | 76% | 100% | 79% | 86% |
-| Más de 2,5 goles | 53% | 71% | 57% | 43% |
-| Más de 3,5 goles | 47% | 57% | 50% | 43% |
-| Ambos marcan | 24% | 14% | 64% | 57% |
-| Portería a cero | 71% | 86% | 21% | 43% |
-| Se queda sin marcar | 18% | 0% | 14% | 0% |
-| xG a favor | 2,03 | 2,59 | 1,31 | 1,28 |
-| xG en contra | 1,11 | 0,99 | 1,69 | 1,50 |
-| Tiros / partido | 18,8 | 21,6 | 14,5 | 15,6 |
-| Tiros a puerta / partido | 5,4 | 6,9 | 4,2 | 5,0 |
-| Tiros recibidos | 9,9 | 6,6 | 15,1 | 12,6 |
-| Tiros a puerta recibidos | 2,9 | 1,3 | 4,6 | 4,9 |
+| Partidos analizados | 18 | 7 | 14 | 7 |
+| Forma (últimos 5) | DVVVE | VVVVE | EEDDV | EDVDD |
+| Balance | 11V 4E 3D | 6V 1E 0D | 5V 4E 5D | 3V 1E 3D |
+| Goles a favor / partido | 2,22 | 3,29 | 1,43 | 1,29 |
+| Goles en contra / partido | 0,72 | 0,14 | 1,64 | 1,71 |
+| Goles a favor 1ª parte | 1,17 | 2,29 | 0,36 | 0,00 |
+| Goles a favor 2ª parte | 1,06 | 1,00 | 1,07 | 1,29 |
+| Goles en contra 1ª parte | 0,50 | 0,14 | 0,79 | 0,86 |
+| Goles en contra 2ª parte | 0,22 | 0,00 | 0,86 | 0,86 |
+| Más de 1,5 goles | 78% | 100% | 79% | 86% |
+| Más de 2,5 goles | 50% | 71% | 57% | 43% |
+| Más de 3,5 goles | 44% | 57% | 50% | 43% |
+| Ambos marcan | 22% | 14% | 64% | 57% |
+| Portería a cero | 67% | 86% | 21% | 43% |
+| Se queda sin marcar | 22% | 0% | 14% | 0% |
+| xG a favor | 2,04 | 2,59 | 1,31 | 1,28 |
+| xG en contra | 1,16 | 0,99 | 1,69 | 1,50 |
+| Tiros / partido | 18,6 | 21,6 | 14,5 | 15,6 |
+| Tiros a puerta / partido | 5,6 | 6,9 | 4,2 | 5,0 |
+| Tiros recibidos | 10,0 | 6,6 | 15,1 | 12,6 |
+| Tiros a puerta recibidos | 3,1 | 1,3 | 4,6 | 4,9 |
 | Posesión media % | 62 | 67 | 51 | 52 |
-| Córners a favor | 6,1 | 7,4 | 5,7 | 7,1 |
-| Córners en contra | 4,1 | 3,1 | 4,4 | 4,4 |
+| Córners a favor | 5,9 | 7,4 | 5,7 | 7,1 |
+| Córners en contra | 4,0 | 3,1 | 4,4 | 4,4 |
 | Córners a favor 1ª parte | 2,8 | 3,4 | 2,7 | 3,4 |
-| Córners a favor 2ª parte | 3,2 | 4,0 | 3,0 | 3,7 |
-| Córners totales del partido | 10,1 | 10,6 | 10,1 | 11,6 |
+| Córners a favor 2ª parte | 3,1 | 4,0 | 3,0 | 3,7 |
+| Córners totales del partido | 9,9 | 10,6 | 10,1 | 11,6 |
 | Córners totales 1ª parte | 4,6 | 4,4 | 4,7 | 5,6 |
-| Córners totales 2ª parte | 5,5 | 6,1 | 5,4 | 6,0 |
-| Más de 8,5 córners | 65% | 71% | 64% | 71% |
-| Más de 9,5 córners | 65% | 71% | 43% | 71% |
-| Más de 10,5 córners | 41% | 57% | 36% | 57% |
-| Faltas cometidas | 13,1 | 12,3 | 12,9 | 11,7 |
-| Faltas recibidas | 8,6 | 10,0 | 11,6 | 11,4 |
+| Córners totales 2ª parte | 5,4 | 6,1 | 5,4 | 6,0 |
+| Más de 8,5 córners | 61% | 71% | 64% | 71% |
+| Más de 9,5 córners | 61% | 71% | 43% | 71% |
+| Más de 10,5 córners | 39% | 57% | 36% | 57% |
+| Faltas cometidas | 13,3 | 12,3 | 12,9 | 11,7 |
+| Faltas recibidas | 8,5 | 10,0 | 11,6 | 11,4 |
 | Amarillas propias | 2,2 | 2,1 | 2,5 | 2,0 |
-| Amarillas del rival | 1,1 | 1,7 | 2,4 | 1,9 |
-| Rojas / partido | 0,06 | 0,00 | 0,07 | 0,00 |
+| Amarillas del rival | 1,2 | 1,7 | 2,4 | 1,9 |
+| Rojas / partido | 0,11 | 0,00 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Brighton | Recibe Brighton | Tarjetas Brighton | Goles Newcastle | Recibe Newcastle | Tarjetas Newcastle |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 5 | 3 | 3 | 2 | 1 |
 | 16-30' | 4 | 2 | 4 | 0 | 1 | 6 |
-| 31-45' | 11 | 2 | 7 | 2 | 8 | 5 |
+| 31-45' | 11 | 2 | 8 | 2 | 8 | 5 |
 | 46-60' | 6 | 0 | 8 | 5 | 4 | 5 |
-| 61-75' | 7 | 2 | 6 | 4 | 2 | 2 |
-| 76-90' | 6 | 0 | 11 | 6 | 6 | 19 |
+| 61-75' | 7 | 2 | 7 | 4 | 2 | 2 |
+| 76-90' | 6 | 2 | 13 | 6 | 6 | 19 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,36 +115,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Brighton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Premier League | Hull City 2-0 Brighton | fuera | 4-3 | 15 (8) - 11 (5) | 2-2 |
 | 2026-11-08 | Premier League | Brighton 2-0 Brentford | casa | 7-3 | 20 (6) - 5 (0) | 4-2 |
 | 2026-11-05 | Conference League | Getafe 0-1 Brighton | fuera | 5-5 | 15 (3) - 8 (4) | 4-1 |
 | 2026-10-31 | Premier League | Manchester City 0-1 Brighton | fuera | 2-8 | 7 (3) - 21 (6) | 3-0 |
 | 2026-10-28 | Carabao Cup | Manchester City 2-2 Brighton | fuera | 7-3 | 17 (6) - 13 (3) | 3-1 |
 | 2026-10-25 | Premier League | Liverpool 2-0 Brighton | fuera | 2-4 | 17 (1) - 13 (4) | 2-0 |
-| 2026-10-22 | Conference League | FK Jablonec 0-0 Brighton | fuera | 6-2 | 20 (3) - 8 (4) | 1-4 |
 
 ## Jugadores de Brighton
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| P. Groß | M | 17 | 1436 | 5 | 4 | 23 | 1,4 | 8 | 0,5 | 19 | 4 | 0,2 | 4 | 0 |
-| B. Verbruggen | G | 15 | 1346 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| O. Boscagli | D | 17 | 1320 | 1 | 1 | 9 | 0,5 | 3 | 0,2 | 15 | 12 | 0,7 | 4 | 0 |
-| L. Vušković | D | 16 | 1266 | 1 | 1 | 21 | 1,3 | 4 | 0,2 | 16 | 18 | 1,1 | 1 | 0 |
-| Y. Ayari | M | 16 | 1173 | 3 | 0 | 31 | 1,9 | 10 | 0,6 | 10 | 13 | 0,8 | 2 | 0 |
-| D. Gómez | M | 15 | 1131 | 2 | 2 | 28 | 1,9 | 11 | 0,7 | 17 | 3 | 0,2 | 0 | 0 |
-| M. De Cuyper | M | 16 | 1008 | 4 | 4 | 16 | 1,0 | 5 | 0,3 | 17 | 12 | 0,8 | 4 | 0 |
-| C. Kostoulas | F | 13 | 925 | 5 | 3 | 37 | 2,8 | 13 | 1,0 | 17 | 13 | 1,0 | 1 | 0 |
-| L. Dunk | D | 13 | 889 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 7 | 6 | 0,5 | 3 | 0 |
-| Costinha | D | 15 | 852 | 0 | 1 | 8 | 0,5 | 2 | 0,1 | 14 | 5 | 0,3 | 4 | 0 |
+| P. Groß | M | 18 | 1526 | 5 | 4 | 24 | 1,3 | 9 | 0,5 | 21 | 4 | 0,2 | 4 | 0 |
+| B. Verbruggen | G | 16 | 1436 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| O. Boscagli | D | 18 | 1387 | 1 | 1 | 9 | 0,5 | 3 | 0,2 | 15 | 13 | 0,7 | 4 | 0 |
+| L. Vušković | D | 17 | 1356 | 1 | 1 | 21 | 1,2 | 4 | 0,2 | 21 | 20 | 1,2 | 2 | 0 |
+| Y. Ayari | M | 17 | 1240 | 3 | 0 | 33 | 1,9 | 11 | 0,6 | 10 | 14 | 0,8 | 2 | 0 |
+| D. Gómez | M | 16 | 1211 | 2 | 2 | 32 | 2,0 | 13 | 0,8 | 18 | 4 | 0,2 | 0 | 0 |
+| M. De Cuyper | M | 17 | 1098 | 4 | 4 | 16 | 0,9 | 5 | 0,3 | 17 | 12 | 0,7 | 4 | 0 |
+| L. Dunk | D | 14 | 979 | 1 | 0 | 3 | 0,2 | 2 | 0,1 | 9 | 6 | 0,4 | 3 | 0 |
+| C. Kostoulas | F | 14 | 948 | 5 | 3 | 38 | 2,7 | 14 | 1,0 | 17 | 13 | 0,9 | 1 | 0 |
+| Costinha | D | 16 | 941 | 0 | 1 | 10 | 0,6 | 2 | 0,1 | 16 | 6 | 0,4 | 4 | 1 |
 | M. Yalcouyé | M | 17 | 826 | 4 | 0 | 13 | 0,8 | 7 | 0,4 | 13 | 15 | 0,9 | 0 | 0 |
-| F. Kadıoğlu | D | 9 | 623 | 0 | 0 | 6 | 0,7 | 2 | 0,2 | 3 | 8 | 0,9 | 2 | 0 |
-| G. Rutter | F | 13 | 594 | 3 | 4 | 20 | 1,5 | 10 | 0,8 | 12 | 5 | 0,4 | 1 | 0 |
-| José María Andrés Baixauli | M | 9 | 561 | 1 | 1 | 6 | 0,7 | 1 | 0,1 | 16 | 3 | 0,3 | 4 | 0 |
-| J. Hinshelwood | M | 10 | 461 | 4 | 0 | 15 | 1,5 | 8 | 0,8 | 8 | 5 | 0,5 | 0 | 0 |
+| G. Rutter | F | 14 | 661 | 3 | 4 | 24 | 1,7 | 12 | 0,9 | 12 | 5 | 0,4 | 1 | 0 |
+| José María Andrés Baixauli | M | 10 | 650 | 1 | 1 | 6 | 0,6 | 1 | 0,1 | 19 | 4 | 0,4 | 5 | 0 |
+| F. Kadıoğlu | D | 10 | 633 | 0 | 0 | 6 | 0,6 | 2 | 0,2 | 3 | 8 | 0,8 | 2 | 0 |
+| J. Hinshelwood | M | 11 | 484 | 4 | 0 | 15 | 1,4 | 8 | 0,7 | 9 | 5 | 0,5 | 0 | 0 |
 | M. Wieffer | M | 7 | 373 | 1 | 0 | 7 | 1,0 | 1 | 0,1 | 6 | 5 | 0,7 | 2 | 0 |
 | Jaouen Hadjam | M | 7 | 366 | 1 | 2 | 4 | 0,6 | 2 | 0,3 | 6 | 1 | 0,1 | 2 | 0 |
 | Michael Svoboda | D | 6 | 363 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 7 | 0 | 0,0 | 2 | 0 |
 | Matt O'Riley | M | 8 | 339 | 1 | 0 | 8 | 1,0 | 3 | 0,4 | 1 | 3 | 0,4 | 0 | 0 |
-| Ibrahim Osman | F | 8 | 306 | 0 | 2 | 11 | 1,4 | 1 | 0,1 | 7 | 3 | 0,4 | 0 | 0 |
+| I. Osman | F | 9 | 307 | 0 | 2 | 11 | 1,2 | 1 | 0,1 | 7 | 3 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Newcastle
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

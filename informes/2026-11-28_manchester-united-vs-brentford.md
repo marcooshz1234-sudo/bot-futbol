@@ -1,7 +1,7 @@
 # Manchester United – Brentford
 **Premier League** · Regular Season - 12 · 28/11/2026 16:00 (hora España) · Old Trafford
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:14_
@@ -50,53 +50,53 @@ _Actualizadas: 22/11 00:14_
 ## Estadísticas de equipo
 | | Manchester United (total) | Manchester United en casa | Brentford (total) | Brentford fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 13 | 8 |
-| Forma (últimos 5) | EVDDD | EVDED | DVDED | DDEEV |
-| Balance | 3V 5E 7D | 3V 2E 3D | 5V 5E 3D | 2V 4E 2D |
-| Goles a favor / partido | 1,60 | 2,38 | 2,00 | 2,00 |
-| Goles en contra / partido | 2,00 | 2,00 | 1,23 | 1,62 |
-| Goles a favor 1ª parte | 0,60 | 1,00 | 1,00 | 1,12 |
-| Goles a favor 2ª parte | 1,00 | 1,38 | 1,00 | 0,88 |
-| Goles en contra 1ª parte | 0,80 | 1,00 | 0,69 | 1,12 |
-| Goles en contra 2ª parte | 1,20 | 1,00 | 0,54 | 0,50 |
-| Más de 1,5 goles | 93% | 88% | 100% | 100% |
-| Más de 2,5 goles | 53% | 75% | 62% | 62% |
-| Más de 3,5 goles | 47% | 62% | 31% | 50% |
-| Ambos marcan | 60% | 62% | 69% | 88% |
-| Portería a cero | 7% | 12% | 23% | 0% |
-| Se queda sin marcar | 33% | 25% | 8% | 12% |
-| xG a favor | 1,84 | 2,50 | 1,65 | 1,53 |
-| xG en contra | 1,71 | 1,77 | 1,53 | 1,81 |
-| Tiros / partido | 17,5 | 19,0 | 14,5 | 15,1 |
-| Tiros a puerta / partido | 5,5 | 6,5 | 4,5 | 5,0 |
-| Tiros recibidos | 11,7 | 10,6 | 14,4 | 14,5 |
-| Tiros a puerta recibidos | 4,9 | 3,6 | 4,1 | 4,5 |
-| Posesión media % | 52 | 54 | 48 | 52 |
+| Partidos analizados | 16 | 8 | 13 | 8 |
+| Forma (últimos 5) | DEVDD | EVDED | DVDED | DDEEV |
+| Balance | 3V 5E 8D | 3V 2E 3D | 5V 5E 3D | 2V 4E 2D |
+| Goles a favor / partido | 1,50 | 2,38 | 2,00 | 2,00 |
+| Goles en contra / partido | 2,12 | 2,00 | 1,23 | 1,62 |
+| Goles a favor 1ª parte | 0,56 | 1,00 | 1,00 | 1,12 |
+| Goles a favor 2ª parte | 0,94 | 1,38 | 1,00 | 0,88 |
+| Goles en contra 1ª parte | 0,88 | 1,00 | 0,69 | 1,12 |
+| Goles en contra 2ª parte | 1,25 | 1,00 | 0,54 | 0,50 |
+| Más de 1,5 goles | 94% | 88% | 100% | 100% |
+| Más de 2,5 goles | 56% | 75% | 62% | 62% |
+| Más de 3,5 goles | 50% | 62% | 31% | 50% |
+| Ambos marcan | 56% | 62% | 69% | 88% |
+| Portería a cero | 6% | 12% | 23% | 0% |
+| Se queda sin marcar | 38% | 25% | 8% | 12% |
+| xG a favor | 1,76 | 2,50 | 1,65 | 1,53 |
+| xG en contra | 1,89 | 1,77 | 1,53 | 1,81 |
+| Tiros / partido | 17,1 | 19,0 | 14,5 | 15,1 |
+| Tiros a puerta / partido | 5,3 | 6,5 | 4,5 | 5,0 |
+| Tiros recibidos | 12,8 | 10,6 | 14,4 | 14,5 |
+| Tiros a puerta recibidos | 5,2 | 3,6 | 4,1 | 4,5 |
+| Posesión media % | 51 | 54 | 48 | 52 |
 | Córners a favor | 5,7 | 5,6 | 4,5 | 4,6 |
-| Córners en contra | 3,1 | 3,2 | 4,7 | 3,8 |
+| Córners en contra | 3,9 | 3,2 | 4,7 | 3,8 |
 | Córners a favor 1ª parte | 2,2 | 2,1 | 2,2 | 2,1 |
-| Córners a favor 2ª parte | 3,5 | 3,5 | 2,2 | 2,5 |
-| Córners totales del partido | 8,9 | 8,9 | 9,2 | 8,4 |
-| Córners totales 1ª parte | 3,9 | 4,2 | 3,9 | 3,5 |
-| Córners totales 2ª parte | 5,0 | 4,6 | 5,2 | 4,9 |
-| Más de 8,5 córners | 47% | 62% | 62% | 62% |
-| Más de 9,5 córners | 27% | 25% | 62% | 62% |
-| Más de 10,5 córners | 27% | 25% | 46% | 50% |
-| Faltas cometidas | 11,3 | 12,0 | 12,8 | 13,4 |
-| Faltas recibidas | 11,7 | 13,1 | 9,8 | 8,5 |
-| Amarillas propias | 1,9 | 1,9 | 2,2 | 2,1 |
-| Amarillas del rival | 2,1 | 2,2 | 1,8 | 1,8 |
-| Rojas / partido | 0,20 | 0,12 | 0,23 | 0,12 |
+| Córners a favor 2ª parte | 3,4 | 3,5 | 2,2 | 2,5 |
+| Córners totales del partido | 9,6 | 8,9 | 9,2 | 8,4 |
+| Córners totales 1ª parte | 4,2 | 4,2 | 3,9 | 3,5 |
+| Córners totales 2ª parte | 5,4 | 4,6 | 5,2 | 4,9 |
+| Más de 8,5 córners | 50% | 62% | 62% | 62% |
+| Más de 9,5 córners | 31% | 25% | 62% | 62% |
+| Más de 10,5 córners | 31% | 25% | 46% | 50% |
+| Faltas cometidas | 11,1 | 12,0 | 12,8 | 13,4 |
+| Faltas recibidas | 11,9 | 13,1 | 9,8 | 8,5 |
+| Amarillas propias | 1,8 | 1,9 | 2,2 | 2,1 |
+| Amarillas del rival | 2,0 | 2,2 | 1,8 | 1,8 |
+| Rojas / partido | 0,25 | 0,12 | 0,23 | 0,12 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United | Goles Brentford | Recibe Brentford | Tarjetas Brentford |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 5 | 0 | 4 | 2 | 1 |
+| 1-15' | 2 | 7 | 1 | 4 | 2 | 1 |
 | 16-30' | 2 | 3 | 4 | 1 | 4 | 5 |
 | 31-45' | 5 | 4 | 4 | 8 | 4 | 3 |
 | 46-60' | 3 | 7 | 4 | 3 | 1 | 2 |
-| 61-75' | 4 | 5 | 7 | 4 | 3 | 8 |
-| 76-90' | 8 | 6 | 15 | 6 | 3 | 12 |
+| 61-75' | 4 | 6 | 7 | 4 | 3 | 8 |
+| 76-90' | 8 | 7 | 15 | 6 | 3 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -115,36 +115,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Manchester United
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Premier League | Liverpool 4-0 Manchester United | fuera | 5-15 | 10 (3) - 28 (11) | 0-1 |
 | 2026-11-08 | Premier League | Manchester United 4-4 Aston Villa | casa | 8-1 | 26 (9) - 12 (6) | 1-1 |
 | 2026-11-03 | Champions League | Manchester United 3-2 AS Roma | casa | 3-1 | 15 (6) - 7 (4) | 3-3 |
 | 2026-10-31 | Premier League | Chelsea 2-0 Manchester United | fuera | 7-8 | 12 (5) - 19 (10) | 4-1 |
 | 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | casa | 5-4 | 17 (5) - 10 (4) | 4-1 |
 | 2026-10-21 | Champions League | Como 4-1 Manchester United | fuera | 4-1 | 13 (4) - 11 (8) | 3-1 |
-| 2026-10-18 | Premier League | Leeds 1-1 Manchester United | fuera | 3-2 | 13 (3) - 12 (5) | 2-2 |
 
 ## Jugadores de Manchester United
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Lammens | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| B. Mbeumo | F | 15 | 1255 | 4 | 1 | 27 | 1,8 | 15 | 1,0 | 12 | 14 | 0,9 | 2 | 0 |
-| Bruno Fernandes | M | 14 | 1152 | 6 | 2 | 33 | 2,4 | 11 | 0,8 | 11 | 11 | 0,8 | 3 | 0 |
-| Diogo Dalot | D | 14 | 1075 | 0 | 0 | 12 | 0,9 | 2 | 0,1 | 13 | 3 | 0,2 | 2 | 0 |
-| H. Maguire | D | 13 | 1043 | 0 | 0 | 10 | 0,8 | 2 | 0,2 | 10 | 9 | 0,7 | 5 | 0 |
-| Y. Tielemans | M | 14 | 988 | 1 | 3 | 13 | 0,9 | 5 | 0,4 | 8 | 24 | 1,7 | 1 | 0 |
-| Matheus Cunha | M | 15 | 951 | 4 | 2 | 25 | 1,7 | 15 | 1,0 | 19 | 21 | 1,4 | 0 | 1 |
-| L. Yoro | D | 11 | 792 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 8 | 2 | 0,2 | 0 | 1 |
-| Lisandro Martínez | D | 11 | 778 | 1 | 0 | 7 | 0,6 | 4 | 0,4 | 11 | 2 | 0,2 | 1 | 1 |
-| K. Mainoo | M | 11 | 747 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 9 | 7 | 0,6 | 1 | 0 |
-| Andrey Santos | M | 10 | 563 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 15 | 1,5 | 3 | 0 |
+| S. Lammens | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| B. Mbeumo | F | 16 | 1277 | 4 | 1 | 27 | 1,7 | 15 | 0,9 | 12 | 17 | 1,1 | 2 | 0 |
+| Bruno Fernandes | M | 15 | 1242 | 6 | 2 | 37 | 2,5 | 14 | 0,9 | 12 | 14 | 0,9 | 3 | 0 |
+| Diogo Dalot | D | 15 | 1165 | 0 | 0 | 12 | 0,8 | 2 | 0,1 | 15 | 3 | 0,2 | 2 | 0 |
+| H. Maguire | D | 14 | 1111 | 0 | 0 | 11 | 0,8 | 2 | 0,1 | 10 | 10 | 0,7 | 5 | 0 |
+| Y. Tielemans | M | 15 | 1053 | 1 | 3 | 14 | 0,9 | 5 | 0,3 | 9 | 27 | 1,8 | 1 | 0 |
+| Matheus Cunha | M | 16 | 996 | 4 | 2 | 25 | 1,6 | 15 | 0,9 | 19 | 23 | 1,4 | 0 | 1 |
+| Lisandro Martínez | D | 12 | 868 | 1 | 0 | 7 | 0,6 | 4 | 0,3 | 12 | 2 | 0,2 | 1 | 1 |
+| K. Mainoo | M | 12 | 834 | 0 | 1 | 4 | 0,3 | 2 | 0,2 | 9 | 7 | 0,6 | 1 | 0 |
+| L. Yoro | D | 12 | 800 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 9 | 2 | 0,2 | 0 | 2 |
+| Andrey Santos | M | 11 | 566 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 15 | 1,4 | 3 | 0 |
+| N. Mazraoui | D | 9 | 528 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 7 | 4 | 0,4 | 0 | 0 |
 | A. Diallo | M | 8 | 514 | 0 | 1 | 16 | 2,0 | 6 | 0,8 | 4 | 7 | 0,9 | 0 | 0 |
-| N. Mazraoui | D | 8 | 503 | 0 | 1 | 4 | 0,5 | 0 | 0,0 | 7 | 3 | 0,4 | 0 | 0 |
 | Marcus Rashford | M | 8 | 502 | 0 | 0 | 13 | 1,6 | 6 | 0,8 | 5 | 8 | 1,0 | 1 | 0 |
 | A. Heaven | D | 8 | 470 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 10 | 1,2 | 3 | 0 |
 | Luke Shaw | D | 5 | 425 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
-| M. Mount | M | 10 | 398 | 1 | 0 | 10 | 1,0 | 2 | 0,2 | 5 | 10 | 1,0 | 0 | 0 |
+| M. Mount | M | 11 | 423 | 1 | 0 | 10 | 0,9 | 2 | 0,2 | 5 | 11 | 1,0 | 0 | 0 |
 | C. Baleba | M | 7 | 397 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 7 | 10 | 1,4 | 1 | 0 |
-| P. Dorgu | D | 7 | 271 | 1 | 3 | 7 | 1,0 | 2 | 0,3 | 9 | 4 | 0,6 | 2 | 0 |
-| B. Šeško | F | 6 | 206 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 3 | 1 | 0,2 | 0 | 0 |
+| P. Dorgu | M | 8 | 336 | 1 | 3 | 7 | 0,9 | 2 | 0,2 | 9 | 4 | 0,5 | 2 | 0 |
+| J. Zirkzee | F | 11 | 237 | 2 | 0 | 10 | 0,9 | 5 | 0,5 | 6 | 2 | 0,2 | 1 | 0 |
 
 ## Últimos partidos de Brentford
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

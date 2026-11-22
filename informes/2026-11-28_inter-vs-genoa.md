@@ -1,7 +1,7 @@
 # Inter – Genoa
 **Serie A** · Regular Season - 13 · 28/11/2026 20:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:44_
@@ -58,50 +58,50 @@ _Actualizadas: 22/11 07:44_
 ## Estadísticas de equipo
 | | Inter (total) | Inter en casa | Genoa (total) | Genoa fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 8 | 13 | 4 |
-| Forma (últimos 5) | VVDVV | VVVDV | DVVVD | VDDD |
-| Balance | 11V 1E 3D | 7V 0E 1D | 6V 1E 6D | 1V 0E 3D |
-| Goles a favor / partido | 2,40 | 2,88 | 1,23 | 0,75 |
-| Goles en contra / partido | 1,27 | 1,38 | 1,31 | 1,50 |
-| Goles a favor 1ª parte | 0,93 | 1,12 | 0,77 | 0,50 |
-| Goles a favor 2ª parte | 1,47 | 1,75 | 0,46 | 0,25 |
-| Goles en contra 1ª parte | 0,80 | 0,50 | 0,77 | 0,75 |
-| Goles en contra 2ª parte | 0,47 | 0,88 | 0,54 | 0,75 |
-| Más de 1,5 goles | 87% | 88% | 77% | 75% |
-| Más de 2,5 goles | 73% | 75% | 46% | 50% |
-| Más de 3,5 goles | 47% | 50% | 15% | 0% |
-| Ambos marcan | 60% | 62% | 54% | 50% |
-| Portería a cero | 40% | 38% | 23% | 0% |
-| Se queda sin marcar | 0% | 0% | 23% | 50% |
-| xG a favor | 2,49 | 2,58 | 0,94 | 0,74 |
-| xG en contra | 1,31 | 1,30 | 1,25 | 1,18 |
-| Tiros / partido | 20,6 | 22,2 | 13,8 | 10,5 |
-| Tiros a puerta / partido | 7,1 | 7,9 | 3,8 | 2,5 |
-| Tiros recibidos | 11,0 | 10,0 | 13,9 | 13,2 |
-| Tiros a puerta recibidos | 3,9 | 4,0 | 4,1 | 4,0 |
-| Posesión media % | 58 | 58 | 44 | 48 |
-| Córners a favor | 6,1 | 5,6 | 4,8 | 3,2 |
-| Córners en contra | 3,3 | 2,6 | 4,8 | 4,2 |
-| Córners a favor 1ª parte | 2,7 | 2,5 | 2,5 | 1,5 |
+| Partidos analizados | 15 | 8 | 14 | 5 |
+| Forma (últimos 5) | VVDVV | VVVDV | VDVVV | VVDDD |
+| Balance | 11V 1E 3D | 7V 0E 1D | 7V 1E 6D | 2V 0E 3D |
+| Goles a favor / partido | 2,40 | 2,88 | 1,29 | 1,00 |
+| Goles en contra / partido | 1,27 | 1,38 | 1,21 | 1,20 |
+| Goles a favor 1ª parte | 0,93 | 1,12 | 0,86 | 0,80 |
+| Goles a favor 2ª parte | 1,47 | 1,75 | 0,43 | 0,20 |
+| Goles en contra 1ª parte | 0,80 | 0,50 | 0,71 | 0,60 |
+| Goles en contra 2ª parte | 0,47 | 0,88 | 0,50 | 0,60 |
+| Más de 1,5 goles | 87% | 88% | 79% | 80% |
+| Más de 2,5 goles | 73% | 75% | 43% | 40% |
+| Más de 3,5 goles | 47% | 50% | 14% | 0% |
+| Ambos marcan | 60% | 62% | 50% | 40% |
+| Portería a cero | 40% | 38% | 29% | 20% |
+| Se queda sin marcar | 0% | 0% | 21% | 40% |
+| xG a favor | 2,49 | 2,58 | 1,04 | 1,02 |
+| xG en contra | 1,31 | 1,30 | 1,30 | 1,29 |
+| Tiros / partido | 20,6 | 22,2 | 13,6 | 10,6 |
+| Tiros a puerta / partido | 7,1 | 7,9 | 3,9 | 3,0 |
+| Tiros recibidos | 11,0 | 10,0 | 14,7 | 15,6 |
+| Tiros a puerta recibidos | 3,9 | 4,0 | 4,3 | 4,6 |
+| Posesión media % | 58 | 58 | 43 | 45 |
+| Córners a favor | 6,1 | 5,6 | 4,7 | 3,2 |
+| Córners en contra | 3,3 | 2,6 | 4,9 | 4,4 |
+| Córners a favor 1ª parte | 2,7 | 2,5 | 2,4 | 1,4 |
 | Córners a favor 2ª parte | 3,3 | 3,1 | 2,4 | 1,8 |
-| Córners totales del partido | 9,4 | 8,2 | 9,7 | 7,5 |
-| Córners totales 1ª parte | 4,2 | 4,0 | 4,4 | 3,5 |
-| Córners totales 2ª parte | 5,2 | 4,2 | 5,3 | 4,0 |
-| Más de 8,5 córners | 53% | 38% | 62% | 25% |
-| Más de 9,5 córners | 33% | 25% | 46% | 0% |
-| Más de 10,5 córners | 33% | 25% | 31% | 0% |
+| Córners totales del partido | 9,4 | 8,2 | 9,6 | 7,6 |
+| Córners totales 1ª parte | 4,2 | 4,0 | 4,1 | 3,0 |
+| Córners totales 2ª parte | 5,2 | 4,2 | 5,4 | 4,6 |
+| Más de 8,5 córners | 53% | 38% | 57% | 20% |
+| Más de 9,5 córners | 33% | 25% | 43% | 0% |
+| Más de 10,5 córners | 33% | 25% | 29% | 0% |
 | Faltas cometidas | 9,6 | 9,4 | 9,8 | 9,0 |
-| Faltas recibidas | 9,4 | 10,2 | 11,5 | 16,0 |
-| Amarillas propias | 1,7 | 1,4 | 1,9 | 2,2 |
-| Amarillas del rival | 1,8 | 1,8 | 1,6 | 2,0 |
-| Rojas / partido | 0,07 | 0,12 | 0,08 | 0,00 |
+| Faltas recibidas | 9,4 | 10,2 | 11,4 | 15,0 |
+| Amarillas propias | 1,7 | 1,4 | 1,8 | 1,8 |
+| Amarillas del rival | 1,8 | 1,8 | 1,6 | 1,8 |
+| Rojas / partido | 0,07 | 0,12 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Inter | Recibe Inter | Tarjetas Inter | Goles Genoa | Recibe Genoa | Tarjetas Genoa |
 |---|---|---|---|---|---|---|
 | 1-15' | 5 | 6 | 3 | 4 | 2 | 4 |
-| 16-30' | 4 | 4 | 2 | 4 | 5 | 0 |
-| 31-45' | 5 | 2 | 7 | 2 | 3 | 2 |
+| 16-30' | 4 | 4 | 2 | 5 | 5 | 0 |
+| 31-45' | 5 | 2 | 7 | 3 | 3 | 2 |
 | 46-60' | 6 | 2 | 4 | 1 | 1 | 5 |
 | 61-75' | 3 | 3 | 6 | 2 | 2 | 5 |
 | 76-90' | 13 | 2 | 4 | 3 | 4 | 10 |
@@ -156,33 +156,33 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Genoa
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | Sassuolo 0-2 Genoa | fuera | 3-5 | 11 (5) - 25 (7) | 0-1 |
 | 2026-11-08 | Serie A | Genoa 1-2 AC Milan | casa | 3-0 | 17 (5) - 6 (2) | 2-4 |
 | 2026-11-01 | Serie A | Lecce 1-2 Genoa | fuera | 3-6 | 13 (3) - 18 (7) | 1-2 |
 | 2026-10-28 | Serie A | Genoa 2-0 Juventus | casa | 6-9 | 14 (2) - 17 (4) | 0-1 |
 | 2026-10-25 | Serie A | Genoa 1-0 Venezia | casa | 2-10 | 7 (4) - 19 (5) | 1-0 |
 | 2026-10-17 | Serie A | AS Roma 2-0 Genoa | fuera | 3-5 | 9 (1) - 15 (5) | 3-2 |
-| 2026-10-10 | Serie A | Genoa 2-1 Fiorentina | casa | 3-4 | 10 (4) - 13 (3) | 5-3 |
 
 ## Jugadores de Genoa
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Bijlow | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| L. Østigård | D | 12 | 1011 | 0 | 0 | 8 | 0,7 | 5 | 0,4 | 11 | 9 | 0,8 | 5 | 0 |
-| M. Ellertsson | M | 12 | 1000 | 2 | 1 | 7 | 0,6 | 3 | 0,2 | 12 | 12 | 1,0 | 2 | 0 |
-| A. Marcandalli | D | 13 | 997 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 10 | 5 | 0,4 | 2 | 0 |
-| J. Vásquez | D | 12 | 981 | 2 | 0 | 9 | 0,8 | 2 | 0,2 | 7 | 11 | 0,9 | 4 | 1 |
-| M. Frendrup | M | 11 | 921 | 0 | 1 | 3 | 0,3 | 1 | 0,1 | 7 | 7 | 0,6 | 0 | 0 |
-| M. Osmajić | F | 10 | 825 | 4 | 1 | 14 | 1,4 | 5 | 0,5 | 9 | 16 | 1,6 | 0 | 0 |
-| Vítinha | M | 12 | 661 | 0 | 0 | 19 | 1,6 | 6 | 0,5 | 5 | 10 | 0,8 | 1 | 0 |
-| Junior Messias | M | 12 | 603 | 2 | 1 | 12 | 1,0 | 5 | 0,4 | 6 | 19 | 1,6 | 0 | 0 |
-| T. Baldanzi | M | 9 | 567 | 2 | 2 | 15 | 1,7 | 4 | 0,4 | 7 | 4 | 0,4 | 0 | 0 |
-| L. Colombo | F | 11 | 472 | 1 | 2 | 9 | 0,8 | 5 | 0,5 | 10 | 11 | 1,0 | 0 | 0 |
-| S. Wiafe | M | 8 | 458 | 0 | 1 | 9 | 1,1 | 2 | 0,2 | 10 | 3 | 0,4 | 1 | 0 |
-| K. Ehizibue | M | 7 | 414 | 1 | 0 | 2 | 0,3 | 1 | 0,1 | 5 | 6 | 0,9 | 2 | 0 |
+| J. Bijlow | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| L. Østigård | D | 13 | 1101 | 0 | 0 | 9 | 0,7 | 5 | 0,4 | 11 | 10 | 0,8 | 5 | 0 |
+| M. Ellertsson | M | 13 | 1090 | 2 | 1 | 7 | 0,5 | 3 | 0,2 | 12 | 14 | 1,1 | 2 | 0 |
+| A. Marcandalli | D | 14 | 1087 | 1 | 0 | 5 | 0,4 | 1 | 0,1 | 11 | 5 | 0,4 | 2 | 0 |
+| J. Vásquez | D | 13 | 1071 | 2 | 0 | 10 | 0,8 | 3 | 0,2 | 7 | 11 | 0,8 | 4 | 1 |
+| M. Frendrup | M | 12 | 948 | 0 | 1 | 3 | 0,2 | 1 | 0,1 | 7 | 7 | 0,6 | 0 | 0 |
+| M. Osmajić | F | 11 | 908 | 6 | 1 | 19 | 1,7 | 8 | 0,7 | 10 | 17 | 1,5 | 0 | 0 |
+| Vítinha | F | 13 | 688 | 0 | 0 | 20 | 1,5 | 7 | 0,5 | 5 | 11 | 0,8 | 1 | 0 |
+| Junior Messias | M | 13 | 677 | 2 | 1 | 12 | 0,9 | 5 | 0,4 | 8 | 22 | 1,7 | 0 | 0 |
+| T. Baldanzi | M | 10 | 630 | 2 | 2 | 16 | 1,6 | 4 | 0,4 | 8 | 4 | 0,4 | 0 | 0 |
+| K. Ehizibue | M | 8 | 504 | 1 | 0 | 4 | 0,5 | 1 | 0,1 | 7 | 7 | 0,9 | 2 | 0 |
+| L. Colombo | F | 12 | 477 | 1 | 2 | 9 | 0,8 | 5 | 0,4 | 10 | 11 | 0,9 | 0 | 0 |
+| S. Wiafe | M | 9 | 465 | 0 | 1 | 9 | 1,0 | 2 | 0,2 | 10 | 3 | 0,3 | 1 | 0 |
+| H. Traorè | M | 7 | 447 | 0 | 1 | 4 | 0,6 | 0 | 0,0 | 6 | 3 | 0,4 | 2 | 0 |
 | D. Sow | M | 8 | 372 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 4 | 5 | 0,6 | 1 | 0 |
-| H. Traorè | M | 6 | 364 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 5 | 1 | 0,2 | 2 | 0 |
+| Alexsandro Amorim | M | 9 | 368 | 0 | 0 | 4 | 0,4 | 3 | 0,3 | 2 | 4 | 0,4 | 1 | 0 |
 | S. El Shaarawy | F | 8 | 361 | 0 | 2 | 10 | 1,2 | 2 | 0,2 | 3 | 4 | 0,5 | 0 | 0 |
 | S. Otoa | D | 6 | 345 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 5 | 4 | 0,7 | 2 | 0 |
-| Alexsandro Amorim | M | 8 | 305 | 0 | 0 | 4 | 0,5 | 3 | 0,4 | 1 | 4 | 0,5 | 1 | 0 |
 | Brooke Norton-Cuffy | M | 3 | 270 | 0 | 1 | 3 | 1,0 | 1 | 0,3 | 0 | 1 | 0,3 | 0 | 0 |
 | D. Puczka | D | 6 | 240 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |

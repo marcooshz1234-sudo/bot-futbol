@@ -1,7 +1,7 @@
 # PEC Zwolle – AZ Alkmaar
 **Eredivisie** · Regular Season - 14 · 29/11/2026 16:45 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -53,53 +53,53 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | PEC Zwolle (total) | PEC Zwolle en casa | AZ Alkmaar (total) | AZ Alkmaar fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 7 | 16 | 8 |
-| Forma (últimos 5) | VEVDE | VDVDD | VDDDV | DVEDD |
-| Balance | 4V 3E 7D | 2V 0E 5D | 9V 2E 5D | 4V 1E 3D |
-| Goles a favor / partido | 1,21 | 1,00 | 1,94 | 1,88 |
-| Goles en contra / partido | 1,93 | 2,29 | 1,25 | 1,12 |
-| Goles a favor 1ª parte | 0,57 | 0,43 | 0,62 | 0,62 |
-| Goles a favor 2ª parte | 0,64 | 0,57 | 1,31 | 1,25 |
-| Goles en contra 1ª parte | 0,93 | 1,00 | 0,62 | 0,75 |
-| Goles en contra 2ª parte | 1,00 | 1,29 | 0,62 | 0,38 |
-| Más de 1,5 goles | 86% | 71% | 81% | 75% |
-| Más de 2,5 goles | 57% | 57% | 50% | 50% |
-| Más de 3,5 goles | 43% | 43% | 38% | 50% |
-| Ambos marcan | 57% | 43% | 50% | 38% |
-| Portería a cero | 14% | 14% | 25% | 25% |
-| Se queda sin marcar | 29% | 43% | 25% | 38% |
-| xG a favor | 1,04 | 1,18 | 2,17 | 1,82 |
-| xG en contra | 1,70 | 1,83 | 1,26 | 1,33 |
-| Tiros / partido | 12,9 | 13,3 | 16,8 | 16,4 |
-| Tiros a puerta / partido | 4,4 | 4,7 | 5,9 | 6,2 |
+| Partidos analizados | 14 | 7 | 17 | 9 |
+| Forma (últimos 5) | VEVDE | VDVDD | VVDDD | VDVED |
+| Balance | 4V 3E 7D | 2V 0E 5D | 10V 2E 5D | 5V 1E 3D |
+| Goles a favor / partido | 1,21 | 1,00 | 2,12 | 2,22 |
+| Goles en contra / partido | 1,93 | 2,29 | 1,24 | 1,11 |
+| Goles a favor 1ª parte | 0,57 | 0,43 | 0,65 | 0,67 |
+| Goles a favor 2ª parte | 0,64 | 0,57 | 1,47 | 1,56 |
+| Goles en contra 1ª parte | 0,93 | 1,00 | 0,65 | 0,78 |
+| Goles en contra 2ª parte | 1,00 | 1,29 | 0,59 | 0,33 |
+| Más de 1,5 goles | 86% | 71% | 82% | 78% |
+| Más de 2,5 goles | 57% | 57% | 53% | 56% |
+| Más de 3,5 goles | 43% | 43% | 41% | 56% |
+| Ambos marcan | 57% | 43% | 53% | 44% |
+| Portería a cero | 14% | 14% | 24% | 22% |
+| Se queda sin marcar | 29% | 43% | 24% | 33% |
+| xG a favor | 1,04 | 1,18 | 2,12 | 1,77 |
+| xG en contra | 1,70 | 1,83 | 1,24 | 1,27 |
+| Tiros / partido | 12,9 | 13,3 | 16,6 | 16,1 |
+| Tiros a puerta / partido | 4,4 | 4,7 | 6,1 | 6,4 |
 | Tiros recibidos | 17,8 | 15,7 | 10,1 | 11,2 |
-| Tiros a puerta recibidos | 6,1 | 5,6 | 3,4 | 3,8 |
-| Posesión media % | 44 | 45 | 58 | 58 |
-| Córners a favor | 5,1 | 5,6 | 6,9 | 7,2 |
-| Córners en contra | 6,6 | 6,0 | 3,8 | 4,5 |
-| Córners a favor 1ª parte | 2,6 | 2,6 | 2,6 | 2,8 |
-| Córners a favor 2ª parte | 2,5 | 3,0 | 4,2 | 4,5 |
-| Córners totales del partido | 11,7 | 11,6 | 10,6 | 11,8 |
-| Córners totales 1ª parte | 5,8 | 5,1 | 4,4 | 5,0 |
-| Córners totales 2ª parte | 5,9 | 6,4 | 6,2 | 6,8 |
-| Más de 8,5 córners | 93% | 100% | 69% | 88% |
-| Más de 9,5 córners | 71% | 100% | 50% | 62% |
-| Más de 10,5 córners | 57% | 71% | 50% | 62% |
-| Faltas cometidas | 11,4 | 12,6 | 12,6 | 13,4 |
-| Faltas recibidas | 9,9 | 10,6 | 12,8 | 12,4 |
-| Amarillas propias | 1,3 | 1,3 | 1,5 | 1,8 |
-| Amarillas del rival | 1,1 | 1,7 | 1,7 | 1,8 |
+| Tiros a puerta recibidos | 6,1 | 5,6 | 3,3 | 3,6 |
+| Posesión media % | 44 | 45 | 57 | 58 |
+| Córners a favor | 5,1 | 5,6 | 6,7 | 6,9 |
+| Córners en contra | 6,6 | 6,0 | 3,8 | 4,6 |
+| Córners a favor 1ª parte | 2,6 | 2,6 | 2,5 | 2,6 |
+| Córners a favor 2ª parte | 2,5 | 3,0 | 4,2 | 4,3 |
+| Córners totales del partido | 11,7 | 11,6 | 10,5 | 11,4 |
+| Córners totales 1ª parte | 5,8 | 5,1 | 4,3 | 4,8 |
+| Córners totales 2ª parte | 5,9 | 6,4 | 6,2 | 6,7 |
+| Más de 8,5 córners | 93% | 100% | 71% | 89% |
+| Más de 9,5 córners | 71% | 100% | 47% | 56% |
+| Más de 10,5 córners | 57% | 71% | 47% | 56% |
+| Faltas cometidas | 11,4 | 12,6 | 12,4 | 12,8 |
+| Faltas recibidas | 9,9 | 10,6 | 12,9 | 12,6 |
+| Amarillas propias | 1,3 | 1,3 | 1,5 | 1,7 |
+| Amarillas del rival | 1,1 | 1,7 | 1,8 | 1,9 |
 | Rojas / partido | 0,07 | 0,14 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles PEC Zwolle | Recibe PEC Zwolle | Tarjetas PEC Zwolle | Goles AZ Alkmaar | Recibe AZ Alkmaar | Tarjetas AZ Alkmaar |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 2 | 0 | 3 | 4 | 3 |
-| 16-30' | 4 | 7 | 1 | 4 | 4 | 4 |
+| 1-15' | 1 | 2 | 0 | 3 | 5 | 3 |
+| 16-30' | 4 | 7 | 1 | 5 | 4 | 4 |
 | 31-45' | 3 | 4 | 2 | 3 | 2 | 3 |
-| 46-60' | 4 | 3 | 3 | 5 | 4 | 4 |
-| 61-75' | 3 | 5 | 2 | 5 | 2 | 3 |
-| 76-90' | 2 | 6 | 11 | 11 | 4 | 7 |
+| 46-60' | 4 | 3 | 3 | 7 | 4 | 4 |
+| 61-75' | 3 | 5 | 2 | 6 | 2 | 4 |
+| 76-90' | 2 | 6 | 11 | 12 | 4 | 7 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -151,33 +151,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de AZ Alkmaar
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Eredivisie | Sparta Rotterdam 1-5 AZ Alkmaar | fuera | 4-5 | 14 (8) - 11 (2) | 1-3 |
 | 2026-11-08 | Eredivisie | AZ Alkmaar 4-3 Groningen | casa | 7-0 | 19 (5) - 9 (5) | 1-2 |
 | 2026-11-05 | Europa League | AZ Alkmaar 1-2 Juventus | casa | 4-2 | 18 (3) - 9 (3) | 1-3 |
 | 2026-10-31 | Eredivisie | Ajax 1-0 AZ Alkmaar | fuera | 8-1 | 19 (5) - 9 (2) | 2-1 |
 | 2026-10-25 | Eredivisie | AZ Alkmaar 0-2 Twente | casa | 3-6 | 13 (5) - 16 (5) | 3-1 |
 | 2026-10-22 | Europa League | Ararat-Armenia 0-4 AZ Alkmaar | fuera | 6-5 | 17 (9) - 9 (4) | 0-2 |
-| 2026-10-18 | Eredivisie | Cambuur 2-2 AZ Alkmaar | fuera | 6-3 | 7 (4) - 11 (6) | 2-2 |
 
 ## Jugadores de AZ Alkmaar
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. De Busser | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| P. Koopmeiners | M | 16 | 1435 | 2 | 1 | 18 | 1,1 | 7 | 0,4 | 31 | 11 | 0,7 | 1 | 0 |
-| R. Daal | M | 16 | 1288 | 5 | 2 | 28 | 1,8 | 15 | 0,9 | 7 | 26 | 1,6 | 3 | 0 |
-| M. Meerdink | F | 16 | 1224 | 9 | 3 | 42 | 2,6 | 21 | 1,3 | 25 | 23 | 1,4 | 0 | 0 |
+| J. De Busser | G | 17 | 1530 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| P. Koopmeiners | M | 17 | 1525 | 2 | 1 | 18 | 1,1 | 7 | 0,4 | 32 | 12 | 0,7 | 2 | 0 |
+| R. Daal | F | 17 | 1368 | 6 | 4 | 32 | 1,9 | 17 | 1,0 | 8 | 29 | 1,7 | 3 | 0 |
+| M. Meerdink | F | 17 | 1291 | 9 | 3 | 43 | 2,5 | 21 | 1,2 | 27 | 23 | 1,4 | 0 | 0 |
+| W. Goes | D | 15 | 1222 | 0 | 1 | 7 | 0,5 | 0 | 0,0 | 12 | 16 | 1,1 | 2 | 0 |
+| D. Kwakman | M | 16 | 1216 | 2 | 1 | 21 | 1,3 | 7 | 0,4 | 10 | 30 | 1,9 | 0 | 0 |
+| E. Dijkstra | D | 15 | 1185 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 5 | 13 | 0,9 | 1 | 0 |
 | L. Schouten | D | 14 | 1181 | 1 | 0 | 8 | 0,6 | 1 | 0,1 | 17 | 6 | 0,4 | 2 | 0 |
-| D. Kwakman | M | 15 | 1136 | 1 | 1 | 20 | 1,3 | 6 | 0,4 | 10 | 29 | 1,9 | 0 | 0 |
-| W. Goes | D | 14 | 1132 | 0 | 1 | 7 | 0,5 | 0 | 0,0 | 12 | 14 | 1,0 | 2 | 0 |
-| E. Dijkstra | D | 14 | 1102 | 0 | 1 | 3 | 0,2 | 0 | 0,0 | 5 | 12 | 0,9 | 1 | 0 |
-| M. Chávez | D | 14 | 1013 | 2 | 3 | 11 | 0,8 | 6 | 0,4 | 17 | 12 | 0,9 | 1 | 0 |
+| M. Chávez | D | 15 | 1103 | 3 | 5 | 12 | 0,8 | 7 | 0,5 | 17 | 13 | 0,9 | 1 | 0 |
+| C. Stengs | M | 16 | 714 | 2 | 2 | 13 | 0,8 | 6 | 0,4 | 14 | 6 | 0,4 | 1 | 0 |
 | Weslley Patati | M | 13 | 663 | 3 | 1 | 24 | 1,8 | 9 | 0,7 | 15 | 15 | 1,2 | 3 | 0 |
-| C. Stengs | M | 15 | 647 | 1 | 2 | 10 | 0,7 | 5 | 0,3 | 12 | 6 | 0,4 | 1 | 0 |
-| V. Byskov | M | 11 | 582 | 1 | 3 | 17 | 1,5 | 6 | 0,5 | 3 | 8 | 0,7 | 0 | 0 |
-| A. Oufkir | M | 15 | 508 | 3 | 0 | 15 | 1,0 | 8 | 0,5 | 16 | 12 | 0,8 | 6 | 0 |
-| J. Clasie | M | 10 | 479 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 2 | 0 | 0,0 | 0 | 0 |
+| A. Oufkir | F | 16 | 598 | 3 | 0 | 16 | 1,0 | 9 | 0,6 | 17 | 12 | 0,8 | 6 | 0 |
+| V. Byskov | M | 12 | 592 | 1 | 3 | 17 | 1,4 | 6 | 0,5 | 3 | 9 | 0,8 | 0 | 0 |
+| W. Hoedt | D | 7 | 525 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 8 | 4 | 0,6 | 1 | 0 |
+| J. Clasie | M | 11 | 502 | 1 | 0 | 4 | 0,4 | 1 | 0,1 | 2 | 0 | 0,0 | 0 | 0 |
 | K. Smit | M | 8 | 459 | 0 | 2 | 9 | 1,1 | 2 | 0,2 | 8 | 4 | 0,5 | 0 | 0 |
-| W. Hoedt | D | 6 | 435 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 7 | 4 | 0,7 | 1 | 0 |
 | M. de Wit | D | 9 | 434 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 6 | 3 | 0,3 | 1 | 0 |
-| B. Kovacs | F | 7 | 189 | 0 | 0 | 7 | 1,0 | 2 | 0,3 | 1 | 3 | 0,4 | 0 | 0 |
-| S. Maikuma | D | 7 | 180 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 5 | 4 | 0,6 | 1 | 0 |
+| B. Kovacs | F | 8 | 212 | 0 | 0 | 8 | 1,0 | 2 | 0,2 | 1 | 6 | 0,8 | 0 | 0 |
+| S. Maikuma | D | 8 | 187 | 1 | 1 | 2 | 0,2 | 2 | 0,2 | 5 | 4 | 0,5 | 1 | 0 |
 | D. Kasius | D | 7 | 172 | 0 | 0 | 3 | 0,4 | 0 | 0,0 | 1 | 1 | 0,1 | 1 | 0 |

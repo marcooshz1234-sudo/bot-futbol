@@ -1,7 +1,7 @@
 # Frosinone – Parma
 **Serie A** · Regular Season - 13 · 28/11/2026 15:00 (hora España) · Stadio Benito Stirpe
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:14_
@@ -53,52 +53,52 @@ _Actualizadas: 22/11 00:14_
 ## Estadísticas de equipo
 | | Frosinone (total) | Frosinone en casa | Parma (total) | Parma fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 14 | 5 |
-| Forma (últimos 5) | DVVEV | VVVVV | DDVED | VDDDD |
-| Balance | 7V 3E 3D | 6V 0E 1D | 3V 2E 9D | 1V 0E 4D |
-| Goles a favor / partido | 2,23 | 2,86 | 0,86 | 1,00 |
-| Goles en contra / partido | 1,31 | 1,00 | 1,71 | 1,80 |
-| Goles a favor 1ª parte | 1,38 | 1,71 | 0,29 | 0,20 |
-| Goles a favor 2ª parte | 0,85 | 1,14 | 0,57 | 0,80 |
-| Goles en contra 1ª parte | 0,77 | 0,43 | 0,71 | 0,80 |
-| Goles en contra 2ª parte | 0,54 | 0,57 | 1,00 | 1,00 |
-| Más de 1,5 goles | 85% | 86% | 86% | 100% |
-| Más de 2,5 goles | 54% | 57% | 57% | 80% |
-| Más de 3,5 goles | 38% | 57% | 7% | 0% |
-| Ambos marcan | 54% | 57% | 43% | 40% |
-| Portería a cero | 23% | 29% | 21% | 20% |
-| Se queda sin marcar | 23% | 14% | 43% | 40% |
-| xG a favor | 1,82 | 1,98 | 0,96 | 0,63 |
-| xG en contra | 2,04 | 1,75 | 2,06 | 2,34 |
-| Tiros / partido | 19,8 | 19,3 | 10,6 | 8,2 |
-| Tiros a puerta / partido | 6,8 | 7,1 | 3,6 | 3,2 |
-| Tiros recibidos | 17,2 | 17,1 | 18,0 | 22,0 |
-| Tiros a puerta recibidos | 5,5 | 5,6 | 5,7 | 6,0 |
+| Partidos analizados | 14 | 7 | 14 | 5 |
+| Forma (últimos 5) | DDVVE | VVVVV | DDVED | VDDDD |
+| Balance | 7V 3E 4D | 6V 0E 1D | 3V 2E 9D | 1V 0E 4D |
+| Goles a favor / partido | 2,14 | 2,86 | 0,86 | 1,00 |
+| Goles en contra / partido | 1,57 | 1,00 | 1,71 | 1,80 |
+| Goles a favor 1ª parte | 1,36 | 1,71 | 0,29 | 0,20 |
+| Goles a favor 2ª parte | 0,79 | 1,14 | 0,57 | 0,80 |
+| Goles en contra 1ª parte | 0,86 | 0,43 | 0,71 | 0,80 |
+| Goles en contra 2ª parte | 0,71 | 0,57 | 1,00 | 1,00 |
+| Más de 1,5 goles | 86% | 86% | 86% | 100% |
+| Más de 2,5 goles | 57% | 57% | 57% | 80% |
+| Más de 3,5 goles | 43% | 57% | 7% | 0% |
+| Ambos marcan | 57% | 57% | 43% | 40% |
+| Portería a cero | 21% | 29% | 21% | 20% |
+| Se queda sin marcar | 21% | 14% | 43% | 40% |
+| xG a favor | 1,76 | 1,98 | 0,96 | 0,63 |
+| xG en contra | 2,09 | 1,75 | 2,06 | 2,34 |
+| Tiros / partido | 19,5 | 19,3 | 10,6 | 8,2 |
+| Tiros a puerta / partido | 6,6 | 7,1 | 3,6 | 3,2 |
+| Tiros recibidos | 16,9 | 17,1 | 18,0 | 22,0 |
+| Tiros a puerta recibidos | 5,7 | 5,6 | 5,7 | 6,0 |
 | Posesión media % | 48 | 45 | 40 | 36 |
-| Córners a favor | 6,6 | 5,9 | 3,7 | 3,0 |
-| Córners en contra | 5,9 | 5,4 | 6,9 | 8,0 |
-| Córners a favor 1ª parte | 2,5 | 2,3 | 2,0 | 2,2 |
+| Córners a favor | 6,8 | 5,9 | 3,7 | 3,0 |
+| Córners en contra | 5,6 | 5,4 | 6,9 | 8,0 |
+| Córners a favor 1ª parte | 2,6 | 2,3 | 2,0 | 2,2 |
 | Córners a favor 2ª parte | 4,1 | 3,6 | 1,7 | 0,8 |
-| Córners totales del partido | 12,5 | 11,3 | 10,6 | 11,0 |
+| Córners totales del partido | 12,4 | 11,3 | 10,6 | 11,0 |
 | Córners totales 1ª parte | 6,0 | 5,4 | 5,9 | 6,6 |
-| Córners totales 2ª parte | 6,5 | 5,9 | 4,6 | 4,4 |
-| Más de 8,5 córners | 85% | 71% | 64% | 80% |
-| Más de 9,5 córners | 77% | 57% | 50% | 80% |
-| Más de 10,5 córners | 69% | 57% | 50% | 80% |
-| Faltas cometidas | 15,5 | 16,0 | 10,7 | 9,4 |
-| Faltas recibidas | 12,2 | 13,0 | 12,4 | 11,4 |
-| Amarillas propias | 1,8 | 1,3 | 1,4 | 0,8 |
-| Amarillas del rival | 2,5 | 2,6 | 1,4 | 0,8 |
+| Córners totales 2ª parte | 6,4 | 5,9 | 4,6 | 4,4 |
+| Más de 8,5 córners | 86% | 71% | 64% | 80% |
+| Más de 9,5 córners | 79% | 57% | 50% | 80% |
+| Más de 10,5 córners | 71% | 57% | 50% | 80% |
+| Faltas cometidas | 15,6 | 16,0 | 10,7 | 9,4 |
+| Faltas recibidas | 11,7 | 13,0 | 12,4 | 11,4 |
+| Amarillas propias | 1,9 | 1,3 | 1,4 | 0,8 |
+| Amarillas del rival | 2,4 | 2,6 | 1,4 | 0,8 |
 | Rojas / partido | 0,00 | 0,00 | 0,07 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Frosinone | Recibe Frosinone | Tarjetas Frosinone | Goles Parma | Recibe Parma | Tarjetas Parma |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 2 | 3 | 0 | 3 | 3 |
-| 16-30' | 8 | 2 | 3 | 1 | 3 | 2 |
-| 31-45' | 6 | 6 | 5 | 3 | 4 | 3 |
-| 46-60' | 4 | 3 | 3 | 4 | 3 | 3 |
-| 61-75' | 3 | 2 | 3 | 0 | 6 | 2 |
+| 1-15' | 4 | 3 | 3 | 0 | 3 | 3 |
+| 16-30' | 9 | 3 | 3 | 1 | 3 | 2 |
+| 31-45' | 6 | 6 | 7 | 3 | 4 | 3 |
+| 46-60' | 4 | 5 | 4 | 4 | 3 | 3 |
+| 61-75' | 3 | 3 | 4 | 0 | 6 | 2 |
 | 76-90' | 4 | 2 | 6 | 4 | 5 | 8 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -117,36 +117,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Frosinone
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | AC Milan 5-1 Frosinone | fuera | 9-2 | 15 (3) - 12 (8) | 4-1 |
 | 2026-11-07 | Serie A | Cagliari 1-0 Frosinone | fuera | 13-3 | 29 (9) - 14 (4) | 3-3 |
 | 2026-11-01 | Serie A | Frosinone 2-0 Torino | casa | 7-7 | 20 (8) - 12 (3) | 1-3 |
 | 2026-10-29 | Serie A | Frosinone 5-1 Lecce | casa | 10-3 | 26 (9) - 15 (6) | 0-3 |
 | 2026-10-25 | Serie A | Atalanta 4-4 Frosinone | fuera | 9-8 | 24 (10) - 22 (9) | 4-1 |
 | 2026-10-16 | Serie A | Frosinone 4-2 Sassuolo | casa | 5-4 | 21 (10) - 14 (6) | 0-1 |
-| 2026-10-10 | Serie A | Napoli 3-0 Frosinone | fuera | 4-6 | 17 (1) - 19 (8) | 0-2 |
 
 ## Jugadores de Frosinone
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L. Palmisani | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
-| G. Calò | M | 12 | 1023 | 5 | 1 | 28 | 2,3 | 14 | 1,2 | 13 | 25 | 2,1 | 0 | 0 |
-| G. Kvernadze | M | 12 | 991 | 5 | 5 | 26 | 2,2 | 9 | 0,8 | 13 | 17 | 1,4 | 2 | 0 |
-| G. Calvani | D | 11 | 964 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 9 | 7 | 0,6 | 2 | 0 |
-| R. Schmid | M | 12 | 893 | 2 | 4 | 12 | 1,0 | 5 | 0,4 | 11 | 8 | 0,7 | 3 | 0 |
-| A. Oyono | D | 11 | 893 | 0 | 1 | 7 | 0,6 | 2 | 0,2 | 9 | 16 | 1,5 | 2 | 0 |
+| L. Palmisani | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 4 | 0,3 | 0 | 0 |
+| G. Calò | M | 13 | 1099 | 5 | 1 | 29 | 2,2 | 14 | 1,1 | 17 | 25 | 1,9 | 1 | 0 |
+| G. Calvani | D | 12 | 1054 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 10 | 7 | 0,6 | 2 | 0 |
+| G. Kvernadze | F | 13 | 1053 | 5 | 5 | 28 | 2,2 | 10 | 0,8 | 14 | 17 | 1,3 | 2 | 0 |
+| A. Oyono | M | 12 | 983 | 0 | 1 | 9 | 0,8 | 2 | 0,2 | 10 | 18 | 1,5 | 3 | 0 |
+| R. Schmid | M | 13 | 967 | 2 | 4 | 13 | 1,0 | 5 | 0,4 | 11 | 8 | 0,6 | 3 | 0 |
 | A. Raimondo | F | 11 | 851 | 9 | 1 | 31 | 2,8 | 12 | 1,1 | 17 | 12 | 1,1 | 3 | 0 |
+| F. Ghedjemis | F | 11 | 821 | 1 | 5 | 33 | 3,0 | 13 | 1,2 | 2 | 4 | 0,4 | 0 | 0 |
+| I. Monterisi | D | 12 | 806 | 0 | 0 | 10 | 0,8 | 2 | 0,2 | 28 | 7 | 0,6 | 2 | 0 |
 | G. Bracaglia | D | 11 | 789 | 1 | 1 | 6 | 0,5 | 5 | 0,5 | 11 | 8 | 0,7 | 5 | 0 |
-| F. Ghedjemis | M | 10 | 731 | 1 | 5 | 29 | 2,9 | 12 | 1,2 | 2 | 4 | 0,4 | 0 | 0 |
-| I. Monterisi | D | 11 | 716 | 0 | 0 | 10 | 0,9 | 2 | 0,2 | 24 | 5 | 0,5 | 1 | 0 |
-| P. Masini | M | 11 | 691 | 0 | 1 | 5 | 0,5 | 0 | 0,0 | 20 | 9 | 0,8 | 2 | 0 |
-| G. Cittadini | D | 9 | 549 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 14 | 7 | 0,8 | 1 | 0 |
+| P. Masini | M | 12 | 781 | 1 | 1 | 7 | 0,6 | 1 | 0,1 | 22 | 9 | 0,8 | 2 | 0 |
+| G. Cittadini | D | 10 | 594 | 0 | 0 | 3 | 0,3 | 1 | 0,1 | 16 | 7 | 0,7 | 2 | 0 |
 | Matteo Cichella | M | 11 | 466 | 2 | 0 | 10 | 0,9 | 7 | 0,6 | 8 | 2 | 0,2 | 0 | 0 |
+| A. Zerbin | F | 12 | 333 | 0 | 0 | 5 | 0,4 | 2 | 0,2 | 8 | 6 | 0,5 | 0 | 0 |
 | S. Fini | F | 8 | 325 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 4 | 8 | 1,0 | 0 | 0 |
-| A. Zerbin | F | 11 | 317 | 0 | 0 | 5 | 0,5 | 2 | 0,2 | 8 | 6 | 0,5 | 0 | 0 |
-| A. Terzić | D | 6 | 272 | 2 | 0 | 7 | 1,2 | 2 | 0,3 | 6 | 2 | 0,3 | 1 | 0 |
-| D. Bîrligea | F | 7 | 246 | 2 | 0 | 16 | 2,3 | 8 | 1,1 | 5 | 1 | 0,1 | 0 | 0 |
-| E. Tchato | D | 4 | 216 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 0 | 0 |
+| A. Terzić | D | 7 | 300 | 2 | 0 | 8 | 1,1 | 2 | 0,3 | 6 | 2 | 0,3 | 1 | 0 |
+| E. Tchato | M | 5 | 278 | 0 | 0 | 1 | 0,2 | 1 | 0,2 | 3 | 0 | 0,0 | 0 | 0 |
+| D. Bîrligea | F | 8 | 274 | 2 | 0 | 16 | 2,0 | 8 | 1,0 | 5 | 1 | 0,1 | 0 | 0 |
 | L. Hasa | M | 6 | 193 | 0 | 1 | 8 | 1,3 | 3 | 0,5 | 4 | 9 | 1,5 | 0 | 0 |
-| Kevin Akpoguma | D | 2 | 129 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 5 | 0 | 0,0 | 1 | 0 |
+| W. Amey | D | 6 | 173 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 0,7 | 0 | 0 |
 
 ## Últimos partidos de Parma
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

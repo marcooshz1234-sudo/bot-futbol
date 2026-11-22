@@ -1,7 +1,7 @@
 # Bolton – West Brom
 **Championship** · Regular Season - 17 · 25/11/2026 20:45 (hora España) · Toughsheet Community Stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:43_

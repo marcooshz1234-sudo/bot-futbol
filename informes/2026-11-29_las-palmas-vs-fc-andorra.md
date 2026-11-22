@@ -1,7 +1,7 @@
 # Las Palmas – FC Andorra
 **Segunda División** · Regular Season - 16 · 29/11/2026 17:00 (hora España) · Estadio de Gran Canaria
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,53 +9,53 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Las Palmas (total) | Las Palmas en casa | FC Andorra (total) | FC Andorra fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 7 | 15 | 8 |
-| Forma (últimos 5) | DVVVV | VVDED | DDEVD | DEVDE |
-| Balance | 7V 2E 6D | 3V 2E 2D | 4V 2E 9D | 2V 2E 4D |
-| Goles a favor / partido | 1,47 | 1,14 | 1,47 | 1,38 |
-| Goles en contra / partido | 1,53 | 1,14 | 1,80 | 1,62 |
-| Goles a favor 1ª parte | 0,53 | 0,57 | 0,53 | 0,38 |
-| Goles a favor 2ª parte | 0,93 | 0,57 | 0,93 | 1,00 |
-| Goles en contra 1ª parte | 0,53 | 0,57 | 1,07 | 0,88 |
-| Goles en contra 2ª parte | 1,00 | 0,57 | 0,73 | 0,75 |
-| Más de 1,5 goles | 73% | 71% | 73% | 75% |
-| Más de 2,5 goles | 60% | 57% | 67% | 62% |
-| Más de 3,5 goles | 40% | 14% | 53% | 38% |
-| Ambos marcan | 53% | 43% | 60% | 50% |
-| Portería a cero | 33% | 43% | 20% | 25% |
-| Se queda sin marcar | 20% | 29% | 27% | 38% |
-| xG a favor | 1,03 | 0,76 | 1,98 | 1,63 |
-| xG en contra | 1,30 | 1,30 | 1,42 | 1,56 |
-| Tiros / partido | 10,1 | 10,0 | 15,8 | 10,4 |
-| Tiros a puerta / partido | 3,9 | 3,1 | 5,7 | 3,7 |
-| Tiros recibidos | 13,6 | 11,3 | 10,6 | 11,7 |
+| Partidos analizados | 16 | 7 | 15 | 8 |
+| Forma (últimos 5) | VDVVV | VVDED | DDEVD | DEVDE |
+| Balance | 8V 2E 6D | 3V 2E 2D | 4V 2E 9D | 2V 2E 4D |
+| Goles a favor / partido | 1,50 | 1,14 | 1,47 | 1,38 |
+| Goles en contra / partido | 1,44 | 1,14 | 1,80 | 1,62 |
+| Goles a favor 1ª parte | 0,56 | 0,57 | 0,53 | 0,38 |
+| Goles a favor 2ª parte | 0,94 | 0,57 | 0,93 | 1,00 |
+| Goles en contra 1ª parte | 0,50 | 0,57 | 1,07 | 0,88 |
+| Goles en contra 2ª parte | 0,94 | 0,57 | 0,73 | 0,75 |
+| Más de 1,5 goles | 75% | 71% | 73% | 75% |
+| Más de 2,5 goles | 56% | 57% | 67% | 62% |
+| Más de 3,5 goles | 38% | 14% | 53% | 38% |
+| Ambos marcan | 50% | 43% | 60% | 50% |
+| Portería a cero | 38% | 43% | 20% | 25% |
+| Se queda sin marcar | 19% | 29% | 27% | 38% |
+| xG a favor | 1,10 | 0,76 | 1,98 | 1,63 |
+| xG en contra | 1,27 | 1,30 | 1,42 | 1,56 |
+| Tiros / partido | 10,3 | 10,0 | 15,8 | 10,4 |
+| Tiros a puerta / partido | 4,0 | 3,1 | 5,7 | 3,7 |
+| Tiros recibidos | 13,5 | 11,3 | 10,6 | 11,7 |
 | Tiros a puerta recibidos | 4,5 | 3,9 | 4,0 | 4,0 |
-| Posesión media % | 52 | 56 | 61 | 59 |
+| Posesión media % | 51 | 56 | 61 | 59 |
 | Córners a favor | 4,4 | 4,7 | 5,0 | 3,9 |
-| Córners en contra | 5,2 | 4,9 | 3,9 | 4,7 |
+| Córners en contra | 5,1 | 4,9 | 3,9 | 4,7 |
 | Córners a favor 1ª parte | 2,1 | 2,1 | 1,9 | 1,3 |
 | Córners a favor 2ª parte | 2,3 | 2,6 | 3,1 | 2,6 |
-| Córners totales del partido | 9,6 | 9,6 | 8,9 | 8,6 |
+| Córners totales del partido | 9,5 | 9,6 | 8,9 | 8,6 |
 | Córners totales 1ª parte | 3,9 | 3,7 | 3,8 | 3,4 |
-| Córners totales 2ª parte | 5,7 | 5,9 | 5,1 | 5,1 |
-| Más de 8,5 córners | 71% | 71% | 50% | 29% |
-| Más de 9,5 córners | 36% | 29% | 36% | 29% |
-| Más de 10,5 córners | 29% | 29% | 29% | 29% |
-| Faltas cometidas | 11,6 | 11,3 | 16,4 | 17,4 |
-| Faltas recibidas | 16,0 | 18,4 | 11,2 | 11,6 |
-| Amarillas propias | 2,8 | 3,0 | 3,1 | 4,1 |
-| Amarillas del rival | 2,6 | 3,1 | 2,1 | 2,1 |
-| Rojas / partido | 0,21 | 0,00 | 0,29 | 0,43 |
+| Córners totales 2ª parte | 5,6 | 5,9 | 5,1 | 5,1 |
+| Más de 8,5 córners | 67% | 71% | 50% | 29% |
+| Más de 9,5 córners | 33% | 29% | 36% | 29% |
+| Más de 10,5 córners | 27% | 29% | 29% | 29% |
+| Faltas cometidas | 11,7 | 11,3 | 16,4 | 17,4 |
+| Faltas recibidas | 16,1 | 18,4 | 11,2 | 11,6 |
+| Amarillas propias | 2,9 | 3,0 | 3,1 | 4,1 |
+| Amarillas del rival | 2,7 | 3,1 | 2,1 | 2,1 |
+| Rojas / partido | 0,20 | 0,00 | 0,29 | 0,43 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Las Palmas | Recibe Las Palmas | Tarjetas Las Palmas | Goles FC Andorra | Recibe FC Andorra | Tarjetas FC Andorra |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 3 | 1 | 3 | 6 | 3 |
 | 16-30' | 5 | 5 | 7 | 0 | 3 | 9 |
-| 31-45' | 1 | 0 | 6 | 5 | 7 | 11 |
+| 31-45' | 2 | 0 | 7 | 5 | 7 | 11 |
 | 46-60' | 5 | 6 | 1 | 5 | 3 | 6 |
-| 61-75' | 2 | 4 | 9 | 5 | 1 | 9 |
-| 76-90' | 7 | 5 | 19 | 4 | 7 | 13 |
+| 61-75' | 2 | 4 | 11 | 5 | 1 | 9 |
+| 76-90' | 8 | 5 | 20 | 4 | 7 | 13 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -71,35 +71,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Las Palmas
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Segunda División | Sporting Gijon 0-2 Las Palmas | fuera | 5-3 | 13 (6) - 12 (4) | 4-5 |
 | 2026-11-15 | Segunda División | Granada CF 1-0 Las Palmas | fuera | 7-2 | 12 (6) - 17 (3) | 3-3 |
 | 2026-11-09 | Segunda División | Las Palmas 2-0 Eldense | casa | 5-2 | 12 (5) - 7 (1) | 2-7 |
 | 2026-11-02 | Segunda División | Oviedo 2-3 Las Palmas | fuera | 4-7 | 10 (5) - 22 (7) | 2-2 |
 | 2026-10-27 | Copa del Rey | RSD Alcalá 1-3 Las Palmas | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Segunda División | Las Palmas 1-0 Real Sociedad II | casa | 7-6 | 13 (4) - 12 (3) | 3-3 |
-| 2026-10-17 | Segunda División | Las Palmas 0-3 Castellón | casa | 3-6 | 5 (1) - 14 (7) | 7-1 |
 
 ## Jugadores de Las Palmas
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| José Caro | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 4 | 0,3 | 0 | 0 |
-| Valentín Pezzolesi | D | 13 | 1170 | 2 | 1 | 8 | 0,6 | 4 | 0,3 | 19 | 28 | 2,2 | 2 | 0 |
-| T. Miyashiro | F | 14 | 1132 | 3 | 2 | 10 | 0,7 | 6 | 0,4 | 10 | 24 | 1,7 | 1 | 0 |
-| Álex Suárez | D | 12 | 1031 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 10 | 8 | 0,7 | 4 | 0 |
-| E. Loiodice | M | 14 | 1029 | 0 | 1 | 8 | 0,6 | 2 | 0,1 | 12 | 26 | 1,9 | 2 | 0 |
-| Kirian Rodríguez | M | 14 | 991 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 6 | 17 | 1,2 | 2 | 0 |
-| Juan Herzog | D | 11 | 945 | 0 | 0 | 4 | 0,4 | 0 | 0,0 | 14 | 3 | 0,3 | 3 | 0 |
-| Iván Jaime | F | 12 | 904 | 2 | 3 | 20 | 1,7 | 8 | 0,7 | 11 | 21 | 1,8 | 3 | 0 |
-| Manu Fuster | M | 14 | 852 | 2 | 1 | 17 | 1,2 | 9 | 0,6 | 9 | 24 | 1,7 | 1 | 0 |
-| Jesé | F | 12 | 844 | 4 | 1 | 19 | 1,6 | 10 | 0,8 | 8 | 9 | 0,8 | 2 | 1 |
+| José Caro | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,3 | 0 | 0 |
+| Valentín Pezzolesi | D | 14 | 1260 | 2 | 1 | 9 | 0,6 | 4 | 0,3 | 23 | 29 | 2,1 | 3 | 0 |
+| T. Miyashiro | M | 15 | 1215 | 4 | 2 | 12 | 0,8 | 7 | 0,5 | 11 | 27 | 1,8 | 1 | 0 |
+| Álex Suárez | D | 13 | 1121 | 1 | 0 | 5 | 0,4 | 2 | 0,2 | 12 | 9 | 0,7 | 5 | 0 |
+| E. Loiodice | M | 15 | 1112 | 1 | 1 | 10 | 0,7 | 3 | 0,2 | 13 | 29 | 1,9 | 2 | 0 |
+| Kirian Rodríguez | M | 15 | 1081 | 0 | 0 | 7 | 0,5 | 2 | 0,1 | 6 | 18 | 1,2 | 2 | 0 |
+| Juan Herzog | D | 12 | 1035 | 0 | 0 | 5 | 0,4 | 0 | 0,0 | 15 | 3 | 0,2 | 3 | 0 |
+| Iván Jaime | M | 13 | 994 | 2 | 5 | 21 | 1,6 | 8 | 0,6 | 12 | 26 | 2,0 | 3 | 0 |
+| Manu Fuster | M | 15 | 940 | 2 | 1 | 19 | 1,3 | 10 | 0,7 | 9 | 24 | 1,6 | 2 | 0 |
+| Jesé | F | 13 | 911 | 4 | 1 | 19 | 1,5 | 10 | 0,8 | 9 | 9 | 0,7 | 3 | 1 |
 | G. Bonfanti | D | 12 | 786 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 15 | 8 | 0,7 | 4 | 0 |
-| Jefté Betancor | F | 13 | 576 | 2 | 1 | 7 | 0,5 | 5 | 0,4 | 5 | 7 | 0,5 | 1 | 0 |
-| Iñaki González | M | 8 | 507 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 11 | 12 | 1,5 | 4 | 1 |
+| Jefté Betancor | F | 14 | 599 | 2 | 1 | 8 | 0,6 | 6 | 0,4 | 6 | 7 | 0,5 | 1 | 0 |
+| Iñaki González Zambrano | M | 9 | 514 | 0 | 1 | 1 | 0,1 | 0 | 0,0 | 11 | 13 | 1,4 | 4 | 1 |
 | A. Rodriguez | D | 8 | 467 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 7 | 3 | 0,4 | 3 | 0 |
-| Elías Romero | F | 11 | 270 | 1 | 2 | 4 | 0,4 | 1 | 0,1 | 6 | 3 | 0,3 | 3 | 0 |
+| Elías Romero | F | 12 | 277 | 1 | 2 | 5 | 0,4 | 2 | 0,2 | 6 | 3 | 0,2 | 3 | 0 |
 | Enrique Clemente | D | 3 | 210 | 1 | 0 | 1 | 0,3 | 1 | 0,3 | 1 | 2 | 0,7 | 0 | 0 |
+| Mateo Acimovic |  | 6 | 208 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
 | Rafael Cruz | F | 6 | 152 | 0 | 0 | 3 | 0,5 | 1 | 0,2 | 2 | 3 | 0,5 | 1 | 0 |
 | Sandro Ramírez | F | 7 | 148 | 1 | 1 | 3 | 0,4 | 2 | 0,3 | 1 | 6 | 0,9 | 0 | 0 |
-| Adrián Rodríguez del Rosario |  | 4 | 139 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 1 | 0,2 | 0 | 0 |
 | Adrián Rodríguez | D | 2 | 103 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de FC Andorra

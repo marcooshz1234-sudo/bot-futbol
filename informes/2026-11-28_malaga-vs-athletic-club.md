@@ -1,7 +1,7 @@
 # Malaga – Athletic Club
 **LaLiga** · Regular Season - 14 · 28/11/2026 16:15 (hora España) · Estadio La Rosaleda
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:14_
@@ -51,41 +51,41 @@ _Actualizadas: 22/11 00:14_
 ## Estadísticas de equipo
 | | Malaga (total) | Malaga en casa | Athletic Club (total) | Athletic Club fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 6 | 13 | 6 |
-| Forma (últimos 5) | DDVED | DDEDE | DEVVV | EVDEV |
-| Balance | 1V 5E 7D | 0V 3E 3D | 5V 4E 4D | 2V 2E 2D |
-| Goles a favor / partido | 0,92 | 1,00 | 1,62 | 1,67 |
-| Goles en contra / partido | 1,77 | 2,00 | 1,00 | 1,17 |
-| Goles a favor 1ª parte | 0,31 | 0,50 | 0,69 | 0,83 |
-| Goles a favor 2ª parte | 0,62 | 0,50 | 0,92 | 0,83 |
-| Goles en contra 1ª parte | 0,92 | 1,00 | 0,46 | 0,67 |
-| Goles en contra 2ª parte | 0,85 | 1,00 | 0,54 | 0,50 |
-| Más de 1,5 goles | 85% | 83% | 77% | 83% |
-| Más de 2,5 goles | 46% | 50% | 46% | 33% |
-| Más de 3,5 goles | 23% | 33% | 31% | 33% |
-| Ambos marcan | 62% | 83% | 46% | 50% |
-| Portería a cero | 15% | 17% | 38% | 33% |
-| Se queda sin marcar | 31% | 17% | 31% | 33% |
-| xG a favor | 0,98 | 1,34 | 1,65 | 1,58 |
-| xG en contra | 1,75 | 1,87 | 1,15 | 1,83 |
-| Tiros / partido | 11,2 | 12,7 | 15,8 | 15,5 |
-| Tiros a puerta / partido | 3,5 | 4,5 | 4,8 | 4,8 |
-| Tiros recibidos | 16,3 | 14,0 | 10,4 | 13,5 |
-| Tiros a puerta recibidos | 5,8 | 5,7 | 3,7 | 4,8 |
+| Partidos analizados | 14 | 6 | 13 | 6 |
+| Forma (últimos 5) | DDDVE | DDEDE | DEVVV | EVDEV |
+| Balance | 1V 5E 8D | 0V 3E 3D | 5V 4E 4D | 2V 2E 2D |
+| Goles a favor / partido | 0,86 | 1,00 | 1,62 | 1,67 |
+| Goles en contra / partido | 1,71 | 2,00 | 1,00 | 1,17 |
+| Goles a favor 1ª parte | 0,29 | 0,50 | 0,69 | 0,83 |
+| Goles a favor 2ª parte | 0,57 | 0,50 | 0,92 | 0,83 |
+| Goles en contra 1ª parte | 0,93 | 1,00 | 0,46 | 0,67 |
+| Goles en contra 2ª parte | 0,79 | 1,00 | 0,54 | 0,50 |
+| Más de 1,5 goles | 79% | 83% | 77% | 83% |
+| Más de 2,5 goles | 43% | 50% | 46% | 33% |
+| Más de 3,5 goles | 21% | 33% | 31% | 33% |
+| Ambos marcan | 57% | 83% | 46% | 50% |
+| Portería a cero | 14% | 17% | 38% | 33% |
+| Se queda sin marcar | 36% | 17% | 31% | 33% |
+| xG a favor | 0,96 | 1,34 | 1,65 | 1,58 |
+| xG en contra | 1,71 | 1,87 | 1,15 | 1,83 |
+| Tiros / partido | 10,8 | 12,7 | 15,8 | 15,5 |
+| Tiros a puerta / partido | 3,2 | 4,5 | 4,8 | 4,8 |
+| Tiros recibidos | 15,9 | 14,0 | 10,4 | 13,5 |
+| Tiros a puerta recibidos | 5,5 | 5,7 | 3,7 | 4,8 |
 | Posesión media % | 49 | 51 | 56 | 55 |
-| Córners a favor | 5,1 | 5,8 | 6,1 | 6,3 |
-| Córners en contra | 5,3 | 4,3 | 4,2 | 4,7 |
-| Córners a favor 1ª parte | 2,0 | 2,8 | 3,2 | 3,7 |
-| Córners a favor 2ª parte | 3,1 | 3,0 | 2,9 | 2,7 |
-| Córners totales del partido | 10,4 | 10,2 | 10,3 | 11,0 |
+| Córners a favor | 4,8 | 5,8 | 6,1 | 6,3 |
+| Córners en contra | 5,2 | 4,3 | 4,2 | 4,7 |
+| Córners a favor 1ª parte | 1,9 | 2,8 | 3,2 | 3,7 |
+| Córners a favor 2ª parte | 2,8 | 3,0 | 2,9 | 2,7 |
+| Córners totales del partido | 10,0 | 10,2 | 10,3 | 11,0 |
 | Córners totales 1ª parte | 4,6 | 4,7 | 5,2 | 5,8 |
-| Córners totales 2ª parte | 5,8 | 5,5 | 5,2 | 5,2 |
-| Más de 8,5 córners | 83% | 100% | 62% | 67% |
-| Más de 9,5 córners | 58% | 67% | 62% | 67% |
-| Más de 10,5 córners | 42% | 33% | 54% | 50% |
+| Córners totales 2ª parte | 5,4 | 5,5 | 5,2 | 5,2 |
+| Más de 8,5 córners | 77% | 100% | 62% | 67% |
+| Más de 9,5 córners | 54% | 67% | 62% | 67% |
+| Más de 10,5 córners | 38% | 33% | 54% | 50% |
 | Faltas cometidas | 11,8 | 11,5 | 11,6 | 11,5 |
-| Faltas recibidas | 11,2 | 10,3 | 13,0 | 13,5 |
-| Amarillas propias | 2,5 | 3,2 | 1,8 | 1,8 |
+| Faltas recibidas | 11,5 | 10,3 | 13,0 | 13,5 |
+| Amarillas propias | 2,3 | 3,2 | 1,8 | 1,8 |
 | Amarillas del rival | 2,2 | 2,7 | 2,0 | 1,7 |
 | Rojas / partido | 0,08 | 0,17 | 0,15 | 0,17 |
 
@@ -93,7 +93,7 @@ _Actualizadas: 22/11 00:14_
 | Tramo | Goles Malaga | Recibe Malaga | Tarjetas Malaga | Goles Athletic Club | Recibe Athletic Club | Tarjetas Athletic Club |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 2 | 0 | 1 | 1 | 1 |
-| 16-30' | 1 | 5 | 4 | 4 | 3 | 1 |
+| 16-30' | 1 | 6 | 4 | 4 | 3 | 1 |
 | 31-45' | 2 | 5 | 10 | 4 | 2 | 3 |
 | 46-60' | 1 | 3 | 1 | 2 | 3 | 5 |
 | 61-75' | 3 | 3 | 8 | 3 | 1 | 7 |
@@ -115,36 +115,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Malaga
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | LaLiga | Osasuna 1-0 Malaga | fuera | 1-4 | 5 (0) - 11 (2) | 0-2 |
 | 2026-11-07 | LaLiga | Malaga 1-2 Racing Santander | casa | 6-3 | 16 (8) - 21 (7) | 4-2 |
 | 2026-10-31 | LaLiga | Real Betis 2-1 Malaga | fuera | 3-10 | 10 (4) - 23 (6) | 2-2 |
 | 2026-10-27 | Copa del Rey | Alcazar 0-3 Malaga | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | LaLiga | Alaves 1-1 Malaga | fuera | 2-7 | 7 (3) - 18 (4) | 1-2 |
 | 2026-10-18 | LaLiga | Malaga 2-5 Real Sociedad | casa | 4-5 | 17 (6) - 21 (9) | 1-2 |
-| 2026-10-09 | LaLiga | Malaga 1-1 Espanyol | casa | 8-2 | 15 (7) - 9 (4) | 4-5 |
 
 ## Jugadores de Malaga
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alfonso Herrero | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
-| David Larrubia | F | 12 | 948 | 0 | 0 | 10 | 0,8 | 4 | 0,3 | 11 | 10 | 0,8 | 4 | 0 |
+| Alfonso Herrero | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 2 | 0,2 | 1 | 0 |
+| David Larrubia | M | 13 | 1031 | 0 | 0 | 10 | 0,8 | 4 | 0,3 | 14 | 12 | 0,9 | 4 | 0 |
+| Ángel Recio | D | 11 | 990 | 0 | 0 | 7 | 0,6 | 1 | 0,1 | 8 | 3 | 0,3 | 0 | 0 |
 | Rafita | D | 12 | 946 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 8 | 19 | 1,6 | 2 | 0 |
-| Ángel Recio | D | 10 | 900 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 6 | 3 | 0,3 | 0 | 0 |
-| Chupe | F | 12 | 876 | 1 | 0 | 19 | 1,6 | 8 | 0,7 | 11 | 9 | 0,8 | 4 | 0 |
-| Carlos Dotor | M | 11 | 808 | 2 | 0 | 10 | 0,9 | 6 | 0,5 | 13 | 7 | 0,6 | 3 | 0 |
-| Dani Lorenzo | M | 11 | 789 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 11 | 11 | 1,0 | 1 | 0 |
+| Carlos Dotor | F | 12 | 898 | 2 | 0 | 11 | 0,9 | 6 | 0,5 | 14 | 9 | 0,8 | 3 | 0 |
+| Chupe | F | 13 | 890 | 1 | 0 | 19 | 1,5 | 8 | 0,6 | 11 | 9 | 0,7 | 4 | 0 |
+| Dani Lorenzo | M | 12 | 819 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 11 | 12 | 1,0 | 1 | 0 |
 | Einar Galilea | D | 9 | 721 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 9 | 4 | 0,4 | 3 | 0 |
-| Puga | D | 10 | 580 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 14 | 8 | 0,8 | 3 | 0 |
-| Pablo Martínez | M | 8 | 487 | 1 | 2 | 8 | 1,0 | 3 | 0,4 | 6 | 1 | 0,1 | 1 | 0 |
+| Puga | D | 11 | 625 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 14 | 8 | 0,7 | 3 | 0 |
+| Pablo Martínez | M | 9 | 563 | 1 | 2 | 8 | 0,9 | 3 | 0,3 | 7 | 1 | 0,1 | 1 | 0 |
+| Adrián Niño Heredia | F | 9 | 550 | 5 | 1 | 23 | 2,6 | 13 | 1,4 | 6 | 4 | 0,4 | 1 | 0 |
+| Joaquín Muñoz | M | 11 | 541 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 5 | 15 | 1,4 | 0 | 0 |
+| José Salinas | D | 10 | 535 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 7 | 0,7 | 1 | 0 |
 | Izan Merino | M | 8 | 482 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 6 | 1 | 0,1 | 0 | 0 |
-| Joaquín Muñoz | F | 10 | 481 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 5 | 13 | 1,3 | 0 | 0 |
-| Adrián Niño Heredia | F | 8 | 460 | 5 | 1 | 22 | 2,8 | 13 | 1,6 | 5 | 3 | 0,4 | 1 | 0 |
-| José Salinas | D | 9 | 445 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 7 | 6 | 0,7 | 1 | 0 |
-| Ramón Enríquez | M | 11 | 367 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 10 | 0,9 | 3 | 0 |
+| Ramón Enríquez | M | 12 | 412 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 2 | 11 | 0,9 | 3 | 0 |
+| Rafa Rodríguez | M | 9 | 335 | 0 | 0 | 10 | 1,1 | 2 | 0,2 | 9 | 7 | 0,8 | 0 | 0 |
 | Fernando Calero | D | 4 | 333 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 3 | 0,8 | 0 | 0 |
 | Adam Aznou Ben Cheikh | D | 5 | 295 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 10 | 7 | 1,4 | 1 | 1 |
-| Rafa Rodríguez | M | 8 | 290 | 0 | 0 | 9 | 1,1 | 2 | 0,2 | 8 | 6 | 0,8 | 0 | 0 |
-| Juan Cruz | M | 7 | 251 | 0 | 1 | 3 | 0,4 | 1 | 0,1 | 2 | 2 | 0,3 | 1 | 0 |
-| Juan Berrocal | D | 3 | 110 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Juan Cruz | M | 8 | 258 | 0 | 1 | 4 | 0,5 | 1 | 0,1 | 2 | 3 | 0,4 | 1 | 0 |
+| Álex Pastor | D | 2 | 135 | 0 | 0 | 1 | 0,5 | 0 | 0,0 | 0 | 1 | 0,5 | 0 | 0 |
 
 ## Últimos partidos de Athletic Club
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

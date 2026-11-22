@@ -1,7 +1,7 @@
 # Lincoln – Wolves
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · LNER stadium
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:43_

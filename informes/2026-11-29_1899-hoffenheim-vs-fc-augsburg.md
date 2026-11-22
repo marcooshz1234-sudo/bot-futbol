@@ -1,7 +1,7 @@
 # 1899 Hoffenheim – FC Augsburg
 **Bundesliga** · Regular Season - 11 · 29/11/2026 17:30 (hora España) · SNP Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_
@@ -55,51 +55,51 @@ _Actualizadas: 22/11 00:16_
 ## Estadísticas de equipo
 | | 1899 Hoffenheim (total) | 1899 Hoffenheim en casa | FC Augsburg (total) | FC Augsburg fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 11 | 6 |
-| Forma (últimos 5) | DVEDE | VVVDD | DDVED | DVDDV |
-| Balance | 6V 2E 8D | 4V 0E 3D | 4V 3E 4D | 3V 0E 3D |
-| Goles a favor / partido | 1,69 | 2,29 | 2,36 | 2,83 |
-| Goles en contra / partido | 1,56 | 1,57 | 2,00 | 2,50 |
-| Goles a favor 1ª parte | 0,81 | 0,86 | 0,73 | 0,83 |
-| Goles a favor 2ª parte | 0,88 | 1,43 | 1,64 | 2,00 |
-| Goles en contra 1ª parte | 0,38 | 0,14 | 0,82 | 1,33 |
-| Goles en contra 2ª parte | 1,19 | 1,43 | 1,18 | 1,17 |
+| Partidos analizados | 16 | 7 | 12 | 6 |
+| Forma (últimos 5) | DVEDE | VVVDD | VDDVE | DVDDV |
+| Balance | 6V 2E 8D | 4V 0E 3D | 5V 3E 4D | 3V 0E 3D |
+| Goles a favor / partido | 1,69 | 2,29 | 2,42 | 2,83 |
+| Goles en contra / partido | 1,56 | 1,57 | 1,92 | 2,50 |
+| Goles a favor 1ª parte | 0,81 | 0,86 | 0,83 | 0,83 |
+| Goles a favor 2ª parte | 0,88 | 1,43 | 1,58 | 2,00 |
+| Goles en contra 1ª parte | 0,38 | 0,14 | 0,75 | 1,33 |
+| Goles en contra 2ª parte | 1,19 | 1,43 | 1,17 | 1,17 |
 | Más de 1,5 goles | 94% | 100% | 100% | 100% |
-| Más de 2,5 goles | 69% | 100% | 82% | 83% |
-| Más de 3,5 goles | 38% | 43% | 64% | 83% |
-| Ambos marcan | 62% | 71% | 82% | 83% |
-| Portería a cero | 19% | 29% | 18% | 17% |
+| Más de 2,5 goles | 69% | 100% | 83% | 83% |
+| Más de 3,5 goles | 38% | 43% | 67% | 83% |
+| Ambos marcan | 62% | 71% | 83% | 83% |
+| Portería a cero | 19% | 29% | 17% | 17% |
 | Se queda sin marcar | 19% | 0% | 0% | 0% |
-| xG a favor | 1,73 | 1,93 | 2,02 | 1,92 |
-| xG en contra | 1,55 | 1,83 | 2,36 | 2,25 |
-| Tiros / partido | 17,8 | 17,7 | 17,2 | 17,5 |
-| Tiros a puerta / partido | 5,5 | 6,0 | 6,9 | 7,2 |
-| Tiros recibidos | 13,9 | 14,4 | 17,9 | 18,3 |
-| Tiros a puerta recibidos | 4,1 | 3,9 | 6,1 | 7,3 |
+| xG a favor | 1,73 | 1,93 | 2,17 | 1,92 |
+| xG en contra | 1,55 | 1,83 | 2,26 | 2,25 |
+| Tiros / partido | 17,8 | 17,7 | 17,6 | 17,5 |
+| Tiros a puerta / partido | 5,5 | 6,0 | 7,1 | 7,2 |
+| Tiros recibidos | 13,9 | 14,4 | 17,0 | 18,3 |
+| Tiros a puerta recibidos | 4,1 | 3,9 | 5,9 | 7,3 |
 | Posesión media % | 55 | 51 | 46 | 45 |
-| Córners a favor | 7,2 | 7,3 | 5,0 | 5,2 |
-| Córners en contra | 5,2 | 4,9 | 5,1 | 4,5 |
-| Córners a favor 1ª parte | 2,6 | 3,3 | 2,5 | 2,7 |
+| Córners a favor | 7,2 | 7,3 | 5,1 | 5,2 |
+| Córners en contra | 5,2 | 4,9 | 4,7 | 4,5 |
+| Córners a favor 1ª parte | 2,6 | 3,3 | 2,6 | 2,7 |
 | Córners a favor 2ª parte | 4,5 | 4,0 | 2,5 | 2,5 |
-| Córners totales del partido | 12,4 | 12,1 | 10,1 | 9,7 |
-| Córners totales 1ª parte | 4,4 | 4,4 | 4,9 | 4,5 |
-| Córners totales 2ª parte | 7,9 | 7,7 | 5,2 | 5,2 |
-| Más de 8,5 córners | 94% | 86% | 55% | 50% |
-| Más de 9,5 córners | 88% | 86% | 55% | 50% |
-| Más de 10,5 córners | 69% | 57% | 55% | 50% |
+| Córners totales del partido | 12,4 | 12,1 | 9,8 | 9,7 |
+| Córners totales 1ª parte | 4,4 | 4,4 | 4,8 | 4,5 |
+| Córners totales 2ª parte | 7,9 | 7,7 | 5,0 | 5,2 |
+| Más de 8,5 córners | 94% | 86% | 50% | 50% |
+| Más de 9,5 córners | 88% | 86% | 50% | 50% |
+| Más de 10,5 córners | 69% | 57% | 50% | 50% |
 | Faltas cometidas | 14,1 | 14,4 | 9,8 | 11,7 |
-| Faltas recibidas | 9,8 | 8,6 | 9,6 | 10,3 |
+| Faltas recibidas | 9,8 | 8,6 | 9,8 | 10,3 |
 | Amarillas propias | 2,2 | 2,6 | 1,5 | 2,0 |
-| Amarillas del rival | 1,8 | 1,4 | 1,7 | 2,0 |
-| Rojas / partido | 0,19 | 0,29 | 0,09 | 0,00 |
+| Amarillas del rival | 1,8 | 1,4 | 1,8 | 2,0 |
+| Rojas / partido | 0,19 | 0,29 | 0,08 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles 1899 Hoffenheim | Recibe 1899 Hoffenheim | Tarjetas 1899 Hoffenheim | Goles FC Augsburg | Recibe FC Augsburg | Tarjetas FC Augsburg |
 |---|---|---|---|---|---|---|
 | 1-15' | 6 | 1 | 2 | 3 | 3 | 1 |
-| 16-30' | 3 | 4 | 3 | 4 | 3 | 3 |
-| 31-45' | 4 | 1 | 7 | 1 | 3 | 5 |
-| 46-60' | 5 | 5 | 2 | 6 | 3 | 2 |
+| 16-30' | 3 | 4 | 3 | 5 | 3 | 3 |
+| 31-45' | 4 | 1 | 7 | 2 | 3 | 7 |
+| 46-60' | 5 | 5 | 2 | 7 | 4 | 2 |
 | 61-75' | 4 | 5 | 11 | 5 | 4 | 4 |
 | 76-90' | 5 | 9 | 16 | 8 | 6 | 3 |
 
@@ -153,33 +153,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de FC Augsburg
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Bundesliga | FC Augsburg 3-1 FSV Mainz 05 | casa | 6-0 | 22 (9) - 7 (4) | 1-3 |
 | 2026-11-07 | Bundesliga | RB Leipzig 5-2 FC Augsburg | fuera | 2-2 | 13 (8) - 17 (7) | 2-1 |
 | 2026-10-31 | Bundesliga | FC Augsburg 1-2 SC Freiburg | casa | 1-2 | 15 (5) - 10 (2) | 0-3 |
 | 2026-10-27 | DFB-Pokal | SG Sonnenhof Grossaspach 2-4 FC Augsburg | fuera | 5-2 | 19 (9) - 11 (4) | 1-2 |
 | 2026-10-24 | Bundesliga | FC Augsburg 1-1 Union Berlin | casa | 5-1 | 25 (5) - 6 (1) | 0-3 |
 | 2026-10-17 | Bundesliga | SV Elversberg 4-3 FC Augsburg | fuera | 12-4 | 29 (8) - 19 (8) | 3-4 |
-| 2026-10-10 | Bundesliga | FC Augsburg 2-2 Bayern München | casa | 5-9 | 12 (5) - 30 (10) | 3-0 |
 
 ## Jugadores de FC Augsburg
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| F. Dahmen | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,3 | 0 | 0 |
+| F. Dahmen | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| Hennes Behrens | M | 12 | 1080 | 0 | 5 | 3 | 0,2 | 0 | 0,0 | 8 | 20 | 1,7 | 1 | 0 |
+| F. Rieder | M | 12 | 1057 | 2 | 5 | 17 | 1,4 | 6 | 0,5 | 18 | 14 | 1,2 | 1 | 0 |
 | C. Matsima | D | 11 | 990 | 0 | 0 | 6 | 0,5 | 1 | 0,1 | 3 | 3 | 0,3 | 1 | 0 |
-| Hennes Behrens | M | 11 | 990 | 0 | 5 | 3 | 0,3 | 0 | 0,0 | 7 | 18 | 1,6 | 1 | 0 |
-| F. Rieder | M | 11 | 967 | 2 | 5 | 16 | 1,5 | 6 | 0,5 | 14 | 13 | 1,2 | 1 | 0 |
+| R. Fellhauer | M | 12 | 936 | 3 | 1 | 12 | 1,0 | 6 | 0,5 | 18 | 9 | 0,8 | 2 | 0 |
 | H. Massengo | M | 11 | 895 | 1 | 1 | 3 | 0,3 | 1 | 0,1 | 9 | 9 | 0,8 | 2 | 0 |
-| R. Fellhauer | M | 11 | 846 | 3 | 1 | 11 | 1,0 | 6 | 0,5 | 17 | 9 | 0,8 | 1 | 0 |
-| M. Gregoritsch | F | 10 | 605 | 5 | 1 | 24 | 2,4 | 16 | 1,6 | 5 | 5 | 0,5 | 0 | 0 |
+| M. Gregoritsch | F | 11 | 678 | 7 | 1 | 27 | 2,5 | 18 | 1,6 | 5 | 5 | 0,5 | 0 | 0 |
+| A. Kade | M | 9 | 618 | 4 | 1 | 32 | 3,6 | 14 | 1,6 | 5 | 5 | 0,6 | 0 | 0 |
+| M. Wolf | M | 9 | 599 | 0 | 0 | 8 | 0,9 | 5 | 0,6 | 5 | 6 | 0,7 | 0 | 0 |
 | C. Brackelmann | D | 7 | 538 | 1 | 0 | 5 | 0,7 | 3 | 0,4 | 8 | 3 | 0,4 | 0 | 0 |
-| A. Kade | M | 8 | 529 | 4 | 1 | 27 | 3,4 | 12 | 1,5 | 5 | 5 | 0,6 | 0 | 0 |
-| M. Wolf | D | 8 | 526 | 0 | 0 | 7 | 0,9 | 4 | 0,5 | 4 | 6 | 0,8 | 0 | 0 |
-| A. Ibrahimović | M | 8 | 501 | 1 | 1 | 18 | 2,2 | 11 | 1,4 | 3 | 6 | 0,8 | 1 | 0 |
+| A. Ibrahimović | M | 9 | 527 | 1 | 1 | 19 | 2,1 | 11 | 1,2 | 3 | 6 | 0,7 | 1 | 0 |
 | Noahkai Banks | D | 5 | 450 | 0 | 0 | 2 | 0,4 | 0 | 0,0 | 8 | 3 | 0,6 | 2 | 0 |
+| Y. Keitel | D | 8 | 428 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 4 | 0 | 0,0 | 0 | 0 |
 | Rodrigo Ribeiro | F | 11 | 372 | 4 | 1 | 13 | 1,2 | 4 | 0,4 | 5 | 1 | 0,1 | 2 | 0 |
+| Abdulay Bah | D | 5 | 370 | 1 | 0 | 7 | 1,4 | 2 | 0,4 | 6 | 2 | 0,4 | 0 | 1 |
 | J. Gouweleeuw | D | 9 | 339 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 2 | 3 | 0,3 | 1 | 0 |
-| Y. Keitel | D | 7 | 338 | 0 | 0 | 2 | 0,3 | 0 | 0,0 | 4 | 0 | 0,0 | 0 | 0 |
-| Abdulay Bah | D | 4 | 280 | 0 | 0 | 4 | 1,0 | 0 | 0,0 | 4 | 2 | 0,5 | 0 | 1 |
-| M. Kömür | M | 11 | 240 | 1 | 0 | 8 | 0,7 | 5 | 0,5 | 2 | 6 | 0,5 | 0 | 0 |
-| Seol Young-Woo | M | 7 | 191 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 3 | 0 | 0,0 | 0 | 0 |
-| A. Claude-Maurice | M | 5 | 150 | 1 | 1 | 3 | 0,6 | 2 | 0,4 | 3 | 4 | 0,8 | 0 | 0 |
-| K. Schlotterbeck | D | 1 | 90 | 0 | 0 | 1 | 1,0 | 0 | 0,0 | 2 | 2 | 2,0 | 1 | 0 |
+| M. Kömür | M | 12 | 241 | 1 | 0 | 8 | 0,7 | 5 | 0,4 | 2 | 6 | 0,5 | 0 | 0 |
+| A. Claude-Maurice | M | 6 | 214 | 1 | 1 | 6 | 1,0 | 2 | 0,3 | 3 | 7 | 1,2 | 0 | 0 |
+| Seol Young-Woo | D | 8 | 208 | 0 | 1 | 1 | 0,1 | 1 | 0,1 | 3 | 0 | 0,0 | 0 | 0 |
+| T. Schnitzer | D | 3 | 110 | 0 | 0 | 2 | 0,7 | 1 | 0,3 | 1 | 2 | 0,7 | 0 | 0 |

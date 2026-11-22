@@ -1,7 +1,7 @@
 # Werder Bremen – Borussia Mönchengladbach
 **Bundesliga** · Regular Season - 11 · 27/11/2026 20:30 (hora España) · Weserstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:43_
@@ -61,53 +61,53 @@ _Actualizadas: 22/11 07:43_
 ## Estadísticas de equipo
 | | Werder Bremen (total) | Werder Bremen en casa | Borussia Mönchengladbach (total) | Borussia Mönchengladbach fuera |
 |---|---|---|---|---|
-| Partidos analizados | 11 | 4 | 12 | 6 |
-| Forma (últimos 5) | DVDVE | VEVV | DDEVV | DVDDD |
-| Balance | 5V 3E 3D | 3V 1E 0D | 3V 1E 8D | 2V 0E 4D |
-| Goles a favor / partido | 2,00 | 2,50 | 1,58 | 1,67 |
-| Goles en contra / partido | 1,64 | 1,25 | 2,17 | 2,50 |
-| Goles a favor 1ª parte | 0,36 | 0,25 | 0,75 | 0,83 |
-| Goles a favor 2ª parte | 1,64 | 2,25 | 0,83 | 0,83 |
-| Goles en contra 1ª parte | 0,91 | 0,75 | 0,83 | 1,00 |
-| Goles en contra 2ª parte | 0,73 | 0,50 | 1,33 | 1,50 |
-| Más de 1,5 goles | 91% | 100% | 83% | 100% |
-| Más de 2,5 goles | 73% | 75% | 75% | 100% |
-| Más de 3,5 goles | 64% | 75% | 50% | 67% |
-| Ambos marcan | 73% | 75% | 50% | 50% |
-| Portería a cero | 18% | 25% | 25% | 17% |
-| Se queda sin marcar | 9% | 0% | 33% | 33% |
-| xG a favor | 1,65 | 2,04 | 1,44 | 1,48 |
-| xG en contra | 1,53 | 1,23 | 2,04 | 2,37 |
-| Tiros / partido | 16,2 | 17,0 | 15,1 | 16,8 |
-| Tiros a puerta / partido | 6,5 | 8,2 | 5,1 | 6,0 |
-| Tiros recibidos | 13,9 | 13,2 | 15,7 | 16,7 |
-| Tiros a puerta recibidos | 4,7 | 3,8 | 6,8 | 7,0 |
-| Posesión media % | 49 | 49 | 46 | 48 |
-| Córners a favor | 4,9 | 4,2 | 5,3 | 5,0 |
-| Córners en contra | 4,9 | 4,0 | 5,4 | 5,2 |
-| Córners a favor 1ª parte | 1,5 | 1,5 | 2,7 | 2,7 |
-| Córners a favor 2ª parte | 3,5 | 2,8 | 2,7 | 2,3 |
-| Córners totales del partido | 9,8 | 8,2 | 10,8 | 10,2 |
-| Córners totales 1ª parte | 3,7 | 3,5 | 5,0 | 4,8 |
-| Córners totales 2ª parte | 6,1 | 4,8 | 5,8 | 5,3 |
-| Más de 8,5 córners | 64% | 50% | 75% | 67% |
-| Más de 9,5 córners | 55% | 25% | 58% | 50% |
-| Más de 10,5 córners | 55% | 25% | 50% | 50% |
-| Faltas cometidas | 10,3 | 11,2 | 13,6 | 14,5 |
+| Partidos analizados | 12 | 5 | 12 | 6 |
+| Forma (últimos 5) | VDVDV | VVEVV | DDEVV | DVDDD |
+| Balance | 6V 3E 3D | 4V 1E 0D | 3V 1E 8D | 2V 0E 4D |
+| Goles a favor / partido | 2,17 | 2,80 | 1,58 | 1,67 |
+| Goles en contra / partido | 1,50 | 1,00 | 2,17 | 2,50 |
+| Goles a favor 1ª parte | 0,33 | 0,20 | 0,75 | 0,83 |
+| Goles a favor 2ª parte | 1,83 | 2,60 | 0,83 | 0,83 |
+| Goles en contra 1ª parte | 0,83 | 0,60 | 0,83 | 1,00 |
+| Goles en contra 2ª parte | 0,67 | 0,40 | 1,33 | 1,50 |
+| Más de 1,5 goles | 92% | 100% | 83% | 100% |
+| Más de 2,5 goles | 75% | 80% | 75% | 100% |
+| Más de 3,5 goles | 67% | 80% | 50% | 67% |
+| Ambos marcan | 67% | 60% | 50% | 50% |
+| Portería a cero | 25% | 40% | 25% | 17% |
+| Se queda sin marcar | 8% | 0% | 33% | 33% |
+| xG a favor | 1,64 | 1,94 | 1,44 | 1,48 |
+| xG en contra | 1,52 | 1,28 | 2,04 | 2,37 |
+| Tiros / partido | 16,3 | 17,2 | 15,1 | 16,8 |
+| Tiros a puerta / partido | 6,6 | 8,0 | 5,1 | 6,0 |
+| Tiros recibidos | 14,2 | 14,0 | 15,7 | 16,7 |
+| Tiros a puerta recibidos | 4,5 | 3,4 | 6,8 | 7,0 |
+| Posesión media % | 49 | 50 | 46 | 48 |
+| Córners a favor | 4,6 | 3,6 | 5,3 | 5,0 |
+| Córners en contra | 5,2 | 4,8 | 5,4 | 5,2 |
+| Córners a favor 1ª parte | 1,3 | 1,2 | 2,7 | 2,7 |
+| Córners a favor 2ª parte | 3,2 | 2,4 | 2,7 | 2,3 |
+| Córners totales del partido | 9,8 | 8,4 | 10,8 | 10,2 |
+| Córners totales 1ª parte | 3,7 | 3,4 | 5,0 | 4,8 |
+| Córners totales 2ª parte | 6,1 | 5,0 | 5,8 | 5,3 |
+| Más de 8,5 córners | 67% | 60% | 75% | 67% |
+| Más de 9,5 córners | 50% | 20% | 58% | 50% |
+| Más de 10,5 córners | 50% | 20% | 50% | 50% |
+| Faltas cometidas | 10,4 | 11,4 | 13,6 | 14,5 |
 | Faltas recibidas | 10,4 | 11,0 | 9,0 | 7,5 |
-| Amarillas propias | 1,5 | 1,8 | 2,4 | 2,2 |
-| Amarillas del rival | 1,1 | 0,8 | 1,5 | 1,0 |
+| Amarillas propias | 1,7 | 2,0 | 2,4 | 2,2 |
+| Amarillas del rival | 1,2 | 1,2 | 1,5 | 1,0 |
 | Rojas / partido | 0,00 | 0,00 | 0,25 | 0,33 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Werder Bremen | Recibe Werder Bremen | Tarjetas Werder Bremen | Goles Borussia Mönchengladbach | Recibe Borussia Mönchengladbach | Tarjetas Borussia Mönchengladbach |
 |---|---|---|---|---|---|---|
-| 1-15' | 3 | 3 | 0 | 3 | 3 | 2 |
+| 1-15' | 3 | 3 | 1 | 3 | 3 | 2 |
 | 16-30' | 1 | 5 | 4 | 2 | 6 | 2 |
-| 31-45' | 0 | 2 | 3 | 4 | 1 | 8 |
-| 46-60' | 3 | 3 | 5 | 6 | 3 | 7 |
-| 61-75' | 7 | 1 | 1 | 3 | 4 | 2 |
-| 76-90' | 8 | 4 | 4 | 1 | 9 | 12 |
+| 31-45' | 0 | 2 | 4 | 4 | 1 | 8 |
+| 46-60' | 4 | 3 | 6 | 6 | 3 | 7 |
+| 61-75' | 9 | 1 | 1 | 3 | 4 | 2 |
+| 76-90' | 9 | 4 | 4 | 1 | 9 | 12 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -125,35 +125,35 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Werder Bremen
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Bundesliga | Werder Bremen 4-0 Hamburger SV | casa | 1-8 | 18 (7) - 17 (2) | 3-3 |
 | 2026-11-07 | Bundesliga | VfB Stuttgart 1-0 Werder Bremen | fuera | 4-4 | 23 (5) - 13 (5) | 3-0 |
 | 2026-10-31 | Bundesliga | Werder Bremen 2-0 1899 Hoffenheim | casa | 8-4 | 18 (4) - 16 (2) | 3-0 |
 | 2026-10-27 | DFB-Pokal | Borussia Dortmund 3-2 Werder Bremen | fuera | 3-4 | 12 (6) - 12 (4) | 2-2 |
 | 2026-10-24 | Bundesliga | FSV Mainz 05 2-3 Werder Bremen | fuera | 7-6 | 17 (8) - 18 (8) | 1-2 |
 | 2026-10-17 | Bundesliga | Werder Bremen 2-2 SC Paderborn 07 | casa | 5-3 | 18 (11) - 11 (4) | 1-1 |
-| 2026-10-09 | Bundesliga | Borussia Dortmund 2-2 Werder Bremen | fuera | 3-9 | 11 (4) - 21 (9) | 1-2 |
 
 ## Jugadores de Werder Bremen
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M. Friedl | D | 11 | 990 | 0 | 0 | 5 | 0,5 | 0 | 0,0 | 12 | 8 | 0,7 | 1 | 0 |
-| A. Pieper | D | 11 | 908 | 0 | 0 | 5 | 0,5 | 1 | 0,1 | 2 | 3 | 0,3 | 1 | 0 |
-| K. Hein | G | 10 | 900 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 5 | 0,5 | 0 | 0 |
-| L. Reis | M | 11 | 882 | 3 | 0 | 13 | 1,2 | 6 | 0,5 | 10 | 7 | 0,6 | 2 | 0 |
+| M. Friedl | D | 12 | 1080 | 1 | 0 | 7 | 0,6 | 2 | 0,2 | 13 | 8 | 0,7 | 1 | 0 |
+| A. Pieper | D | 12 | 998 | 0 | 0 | 5 | 0,4 | 1 | 0,1 | 3 | 4 | 0,3 | 2 | 0 |
+| K. Hein | G | 11 | 990 | 0 | 1 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
+| L. Reis | M | 12 | 970 | 3 | 1 | 13 | 1,1 | 6 | 0,5 | 13 | 8 | 0,7 | 2 | 0 |
+| N. Füllkrug | F | 12 | 927 | 13 | 1 | 42 | 3,5 | 25 | 2,1 | 25 | 9 | 0,8 | 2 | 0 |
+| O. Deman | D | 11 | 926 | 0 | 1 | 8 | 0,7 | 4 | 0,4 | 11 | 6 | 0,5 | 3 | 0 |
+| Chuky San José | M | 12 | 860 | 0 | 2 | 16 | 1,3 | 7 | 0,6 | 9 | 9 | 0,8 | 2 | 0 |
+| Y. Regeer | M | 10 | 859 | 0 | 1 | 10 | 1,0 | 4 | 0,4 | 8 | 8 | 0,8 | 2 | 0 |
 | M. Grüll | M | 11 | 858 | 2 | 7 | 21 | 1,9 | 7 | 0,6 | 13 | 18 | 1,6 | 2 | 0 |
-| O. Deman | D | 10 | 838 | 0 | 1 | 6 | 0,6 | 4 | 0,4 | 10 | 6 | 0,6 | 2 | 0 |
-| N. Füllkrug | F | 11 | 837 | 12 | 0 | 37 | 3,4 | 23 | 2,1 | 24 | 9 | 0,8 | 2 | 0 |
-| Chuky San José | M | 11 | 782 | 0 | 2 | 14 | 1,3 | 7 | 0,6 | 8 | 9 | 0,8 | 1 | 0 |
-| Y. Regeer | M | 9 | 769 | 0 | 1 | 9 | 1,0 | 4 | 0,4 | 8 | 8 | 0,9 | 2 | 0 |
-| Arthur | D | 9 | 752 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 3 | 9 | 1,0 | 3 | 0 |
-| E. Dinkçi | M | 10 | 608 | 2 | 1 | 12 | 1,2 | 4 | 0,4 | 0 | 2 | 0,2 | 0 | 0 |
-| Mick Schmetgens | D | 9 | 374 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 8 | 0,9 | 0 | 0 |
+| Arthur | D | 10 | 842 | 0 | 0 | 3 | 0,3 | 2 | 0,2 | 4 | 9 | 0,9 | 3 | 0 |
+| E. Dinkçi | M | 11 | 686 | 2 | 1 | 13 | 1,2 | 4 | 0,4 | 2 | 4 | 0,4 | 0 | 0 |
+| Mick Schmetgens | D | 10 | 376 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 3 | 8 | 0,8 | 0 | 0 |
+| J. Njinmah | M | 4 | 245 | 2 | 0 | 8 | 2,0 | 5 | 1,2 | 1 | 7 | 1,8 | 0 | 0 |
 | M. Weiser | M | 7 | 210 | 1 | 0 | 8 | 1,1 | 4 | 0,6 | 1 | 6 | 0,9 | 0 | 0 |
 | S. Lynen | M | 5 | 205 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 4 | 3 | 0,6 | 0 | 0 |
-| C. Itten | F | 8 | 183 | 0 | 0 | 7 | 0,9 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
-| Dariusz Stalmach | M | 7 | 175 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 2 | 0,3 | 1 | 0 |
-| J. Njinmah | F | 3 | 157 | 0 | 0 | 3 | 1,0 | 2 | 0,7 | 0 | 3 | 1,0 | 0 | 0 |
-| O. Wójcik | D | 4 | 114 | 0 | 1 | 3 | 0,8 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
-| Paul Erevbenagie | F | 5 | 91 | 0 | 0 | 2 | 0,4 | 1 | 0,2 | 2 | 2 | 0,4 | 0 | 0 |
+| Dariusz Stalmach | M | 8 | 187 | 1 | 0 | 1 | 0,1 | 1 | 0,1 | 5 | 2 | 0,2 | 1 | 0 |
+| C. Itten | F | 9 | 185 | 0 | 0 | 7 | 0,8 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
+| O. Wójcik | D | 5 | 116 | 0 | 1 | 3 | 0,6 | 1 | 0,2 | 1 | 0 | 0,0 | 0 | 0 |
+| P. Erevbenagie | F | 6 | 103 | 0 | 0 | 2 | 0,3 | 1 | 0,2 | 2 | 2 | 0,3 | 0 | 0 |
 | Alexander Schlager | G | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 
 ## Últimos partidos de Borussia Mönchengladbach

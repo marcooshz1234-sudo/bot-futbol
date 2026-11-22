@@ -1,7 +1,7 @@
 # Juventus U23 – Dolomiti Bellunesi
 **Serie C** · Girone A - 16 · 29/11/2026 14:30 (hora España) · Stadio Giuseppe Moccagatta
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días antes)._
@@ -9,21 +9,21 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Estadísticas de equipo
 | | Juventus U23 (total) | Juventus U23 en casa | Dolomiti Bellunesi (total) | Dolomiti Bellunesi fuera |
 |---|---|---|---|---|
-| Partidos analizados | 15 | 7 | 14 | 8 |
-| Forma (últimos 5) | VVDED | VEVED | DDDDD | DDDDE |
-| Balance | 4V 5E 6D | 3V 3E 1D | 2V 4E 8D | 2V 2E 4D |
-| Goles a favor / partido | 1,20 | 1,43 | 0,71 | 1,00 |
-| Goles en contra / partido | 1,60 | 1,00 | 1,64 | 1,50 |
-| Goles a favor 1ª parte | 0,47 | 0,57 | 0,21 | 0,12 |
-| Goles a favor 2ª parte | 0,73 | 0,86 | 0,50 | 0,88 |
-| Goles en contra 1ª parte | 0,73 | 0,57 | 0,64 | 0,62 |
+| Partidos analizados | 15 | 7 | 15 | 8 |
+| Forma (últimos 5) | VVDED | VEVED | EDDDD | DDDDE |
+| Balance | 4V 5E 6D | 3V 3E 1D | 2V 5E 8D | 2V 2E 4D |
+| Goles a favor / partido | 1,20 | 1,43 | 0,73 | 1,00 |
+| Goles en contra / partido | 1,60 | 1,00 | 1,60 | 1,50 |
+| Goles a favor 1ª parte | 0,47 | 0,57 | 0,27 | 0,12 |
+| Goles a favor 2ª parte | 0,73 | 0,86 | 0,47 | 0,88 |
+| Goles en contra 1ª parte | 0,73 | 0,57 | 0,60 | 0,62 |
 | Goles en contra 2ª parte | 0,87 | 0,43 | 1,00 | 0,88 |
-| Más de 1,5 goles | 73% | 57% | 71% | 75% |
-| Más de 2,5 goles | 60% | 43% | 57% | 50% |
-| Más de 3,5 goles | 27% | 14% | 14% | 12% |
-| Ambos marcan | 47% | 43% | 50% | 62% |
-| Portería a cero | 33% | 57% | 21% | 12% |
-| Se queda sin marcar | 40% | 29% | 50% | 38% |
+| Más de 1,5 goles | 73% | 57% | 73% | 75% |
+| Más de 2,5 goles | 60% | 43% | 53% | 50% |
+| Más de 3,5 goles | 27% | 14% | 13% | 12% |
+| Ambos marcan | 47% | 43% | 53% | 62% |
+| Portería a cero | 33% | 57% | 20% | 12% |
+| Se queda sin marcar | 40% | 29% | 47% | 38% |
 | xG a favor | – | – | – | – |
 | xG en contra | – | – | – | – |
 | Tiros / partido | – | – | – | – |
@@ -50,12 +50,12 @@ _Bet365 aún no ha publicado cuotas para este partido (suelen salir unos días a
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Juventus U23 | Recibe Juventus U23 | Tarjetas Juventus U23 | Goles Dolomiti Bellunesi | Recibe Dolomiti Bellunesi | Tarjetas Dolomiti Bellunesi |
 |---|---|---|---|---|---|---|
-| 1-15' | 2 | 6 | 1 | 1 | 1 | 0 |
+| 1-15' | 2 | 6 | 1 | 2 | 1 | 0 |
 | 16-30' | 1 | 3 | 6 | 2 | 3 | 2 |
-| 31-45' | 4 | 2 | 4 | 0 | 5 | 6 |
+| 31-45' | 4 | 2 | 4 | 0 | 5 | 8 |
 | 46-60' | 3 | 5 | 5 | 2 | 6 | 1 |
-| 61-75' | 2 | 5 | 3 | 2 | 2 | 3 |
-| 76-90' | 6 | 3 | 10 | 3 | 6 | 3 |
+| 61-75' | 2 | 5 | 3 | 2 | 2 | 4 |
+| 76-90' | 6 | 3 | 10 | 3 | 7 | 4 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -82,12 +82,12 @@ _Sin precedentes recientes._
 ## Últimos partidos de Dolomiti Bellunesi
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie C | Dolomiti Bellunesi 1-1 Athletic Carpi | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-13 | Serie C | Ospitaletto 1-0 Dolomiti Bellunesi | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-07 | Serie C | PRO Vercelli 4-2 Dolomiti Bellunesi | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-01 | Serie C | Dolomiti Bellunesi 0-4 Lecco | casa | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | Serie C | Treviso 2-1 Dolomiti Bellunesi | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-19 | Serie C | Dolomiti Bellunesi 0-3 Trento | casa | –-– | – (–) - – (–) | –-– |
-| 2026-10-10 | Serie C | Desenzano Calvina 2-0 Dolomiti Bellunesi | fuera | –-– | – (–) - – (–) | –-– |
 
 ## Jugadores de Dolomiti Bellunesi
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

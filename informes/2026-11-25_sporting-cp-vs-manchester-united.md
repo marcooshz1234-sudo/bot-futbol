@@ -1,12 +1,12 @@
 # Sporting CP – Manchester United
 **Champions League** · League Stage - 5 · 25/11/2026 21:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:04_
+_Actualizadas: 22/11 20:34_
 
-- **1X2:** 1 **2.55**  ·  X **3.50**  ·  2 **2.55**
+- **1X2:** 1 **2.60**  ·  X **3.50**  ·  2 **2.62**
 - **Doble oportunidad:** 1X **1.50**  ·  12 **1.28**  ·  X2 **1.50**
 - **Ambos marcan:** Sí **1.44**  ·  No **2.62**
 - **Goles más/menos:**
@@ -51,53 +51,53 @@ _Actualizadas: 21/11 14:04_
 ## Estadísticas de equipo
 | | Sporting CP (total) | Sporting CP en casa | Manchester United (total) | Manchester United fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 9 | 15 | 7 |
-| Forma (últimos 5) | VVVVD | VVDDE | EVDDD | DDEDE |
-| Balance | 11V 3E 2D | 6V 1E 2D | 3V 5E 7D | 0V 3E 4D |
-| Goles a favor / partido | 2,25 | 2,33 | 1,60 | 0,71 |
-| Goles en contra / partido | 0,94 | 1,22 | 2,00 | 2,00 |
-| Goles a favor 1ª parte | 0,94 | 1,00 | 0,60 | 0,14 |
-| Goles a favor 2ª parte | 1,31 | 1,33 | 1,00 | 0,57 |
-| Goles en contra 1ª parte | 0,25 | 0,33 | 0,80 | 0,57 |
-| Goles en contra 2ª parte | 0,69 | 0,89 | 1,20 | 1,43 |
-| Más de 1,5 goles | 88% | 89% | 93% | 100% |
-| Más de 2,5 goles | 62% | 78% | 53% | 29% |
-| Más de 3,5 goles | 56% | 67% | 47% | 29% |
-| Ambos marcan | 56% | 67% | 60% | 57% |
-| Portería a cero | 44% | 33% | 7% | 0% |
-| Se queda sin marcar | 0% | 0% | 33% | 43% |
-| xG a favor | 2,00 | 2,09 | 1,84 | 1,18 |
-| xG en contra | 1,01 | 0,95 | 1,71 | 1,64 |
-| Tiros / partido | 14,6 | 15,0 | 17,5 | 15,9 |
-| Tiros a puerta / partido | 5,4 | 4,9 | 5,5 | 4,3 |
-| Tiros recibidos | 10,7 | 9,9 | 11,7 | 13,0 |
-| Tiros a puerta recibidos | 3,3 | 3,5 | 4,9 | 6,3 |
-| Posesión media % | 57 | 60 | 52 | 50 |
-| Córners a favor | 4,9 | 6,4 | 5,7 | 5,9 |
-| Córners en contra | 3,4 | 2,4 | 3,1 | 3,0 |
-| Córners a favor 1ª parte | 3,1 | 4,4 | 2,2 | 2,3 |
-| Córners a favor 2ª parte | 1,7 | 2,0 | 3,5 | 3,6 |
-| Córners totales del partido | 8,3 | 8,8 | 8,9 | 8,9 |
-| Córners totales 1ª parte | 4,5 | 5,5 | 3,9 | 3,4 |
-| Córners totales 2ª parte | 3,7 | 3,2 | 5,0 | 5,4 |
-| Más de 8,5 córners | 47% | 50% | 47% | 29% |
-| Más de 9,5 córners | 27% | 50% | 27% | 29% |
-| Más de 10,5 córners | 27% | 50% | 27% | 29% |
-| Faltas cometidas | 12,3 | 11,4 | 11,3 | 10,6 |
-| Faltas recibidas | 12,4 | 14,0 | 11,7 | 10,1 |
-| Amarillas propias | 1,9 | 2,1 | 1,9 | 2,0 |
-| Amarillas del rival | 2,4 | 3,1 | 2,1 | 1,9 |
-| Rojas / partido | 0,07 | 0,12 | 0,20 | 0,29 |
+| Partidos analizados | 16 | 9 | 16 | 8 |
+| Forma (últimos 5) | VVVVD | VVDDE | DEVDD | DDDED |
+| Balance | 11V 3E 2D | 6V 1E 2D | 3V 5E 8D | 0V 3E 5D |
+| Goles a favor / partido | 2,25 | 2,33 | 1,50 | 0,62 |
+| Goles en contra / partido | 0,94 | 1,22 | 2,12 | 2,25 |
+| Goles a favor 1ª parte | 0,94 | 1,00 | 0,56 | 0,12 |
+| Goles a favor 2ª parte | 1,31 | 1,33 | 0,94 | 0,50 |
+| Goles en contra 1ª parte | 0,25 | 0,33 | 0,88 | 0,75 |
+| Goles en contra 2ª parte | 0,69 | 0,89 | 1,25 | 1,50 |
+| Más de 1,5 goles | 88% | 89% | 94% | 100% |
+| Más de 2,5 goles | 62% | 78% | 56% | 38% |
+| Más de 3,5 goles | 56% | 67% | 50% | 38% |
+| Ambos marcan | 56% | 67% | 56% | 50% |
+| Portería a cero | 44% | 33% | 6% | 0% |
+| Se queda sin marcar | 0% | 0% | 38% | 50% |
+| xG a favor | 2,00 | 2,09 | 1,76 | 1,12 |
+| xG en contra | 1,01 | 0,95 | 1,89 | 1,99 |
+| Tiros / partido | 14,6 | 15,0 | 17,1 | 15,1 |
+| Tiros a puerta / partido | 5,4 | 4,9 | 5,3 | 4,1 |
+| Tiros recibidos | 10,7 | 9,9 | 12,8 | 14,9 |
+| Tiros a puerta recibidos | 3,3 | 3,5 | 5,2 | 6,9 |
+| Posesión media % | 57 | 60 | 51 | 48 |
+| Córners a favor | 4,9 | 6,4 | 5,7 | 5,8 |
+| Córners en contra | 3,4 | 2,4 | 3,9 | 4,5 |
+| Córners a favor 1ª parte | 3,1 | 4,4 | 2,2 | 2,4 |
+| Córners a favor 2ª parte | 1,7 | 2,0 | 3,4 | 3,4 |
+| Córners totales del partido | 8,3 | 8,8 | 9,6 | 10,2 |
+| Córners totales 1ª parte | 4,5 | 5,5 | 4,2 | 4,1 |
+| Córners totales 2ª parte | 3,7 | 3,2 | 5,4 | 6,1 |
+| Más de 8,5 córners | 47% | 50% | 50% | 38% |
+| Más de 9,5 córners | 27% | 50% | 31% | 38% |
+| Más de 10,5 córners | 27% | 50% | 31% | 38% |
+| Faltas cometidas | 12,3 | 11,4 | 11,1 | 10,1 |
+| Faltas recibidas | 12,4 | 14,0 | 11,9 | 10,8 |
+| Amarillas propias | 1,9 | 2,1 | 1,8 | 1,8 |
+| Amarillas del rival | 2,4 | 3,1 | 2,0 | 1,8 |
+| Rojas / partido | 0,07 | 0,12 | 0,25 | 0,38 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sporting CP | Recibe Sporting CP | Tarjetas Sporting CP | Goles Manchester United | Recibe Manchester United | Tarjetas Manchester United |
 |---|---|---|---|---|---|---|
-| 1-15' | 6 | 2 | 1 | 2 | 5 | 0 |
+| 1-15' | 6 | 2 | 1 | 2 | 7 | 1 |
 | 16-30' | 6 | 1 | 6 | 2 | 3 | 4 |
 | 31-45' | 4 | 0 | 2 | 5 | 4 | 4 |
 | 46-60' | 8 | 0 | 3 | 3 | 7 | 4 |
-| 61-75' | 8 | 7 | 7 | 4 | 5 | 7 |
-| 76-90' | 4 | 5 | 11 | 8 | 6 | 15 |
+| 61-75' | 8 | 7 | 7 | 4 | 6 | 7 |
+| 76-90' | 4 | 5 | 11 | 8 | 7 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -144,33 +144,33 @@ _Sin precedentes recientes._
 ## Últimos partidos de Manchester United
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Premier League | Liverpool 4-0 Manchester United | fuera | 5-15 | 10 (3) - 28 (11) | 0-1 |
 | 2026-11-08 | Premier League | Manchester United 4-4 Aston Villa | casa | 8-1 | 26 (9) - 12 (6) | 1-1 |
 | 2026-11-03 | Champions League | Manchester United 3-2 AS Roma | casa | 3-1 | 15 (6) - 7 (4) | 3-3 |
 | 2026-10-31 | Premier League | Chelsea 2-0 Manchester United | fuera | 7-8 | 12 (5) - 19 (10) | 4-1 |
 | 2026-10-25 | Premier League | Manchester United 0-3 Bournemouth | casa | 5-4 | 17 (5) - 10 (4) | 4-1 |
 | 2026-10-21 | Champions League | Como 4-1 Manchester United | fuera | 4-1 | 13 (4) - 11 (8) | 3-1 |
-| 2026-10-18 | Premier League | Leeds 1-1 Manchester United | fuera | 3-2 | 13 (3) - 12 (5) | 2-2 |
 
 ## Jugadores de Manchester United
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. Lammens | G | 14 | 1260 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| B. Mbeumo | F | 15 | 1255 | 4 | 1 | 27 | 1,8 | 15 | 1,0 | 12 | 14 | 0,9 | 2 | 0 |
-| Bruno Fernandes | M | 14 | 1152 | 6 | 2 | 33 | 2,4 | 11 | 0,8 | 11 | 11 | 0,8 | 3 | 0 |
-| Diogo Dalot | D | 14 | 1075 | 0 | 0 | 12 | 0,9 | 2 | 0,1 | 13 | 3 | 0,2 | 2 | 0 |
-| H. Maguire | D | 13 | 1043 | 0 | 0 | 10 | 0,8 | 2 | 0,2 | 10 | 9 | 0,7 | 5 | 0 |
-| Y. Tielemans | M | 14 | 988 | 1 | 3 | 13 | 0,9 | 5 | 0,4 | 8 | 24 | 1,7 | 1 | 0 |
-| Matheus Cunha | M | 15 | 951 | 4 | 2 | 25 | 1,7 | 15 | 1,0 | 19 | 21 | 1,4 | 0 | 1 |
-| L. Yoro | D | 11 | 792 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 8 | 2 | 0,2 | 0 | 1 |
-| Lisandro Martínez | D | 11 | 778 | 1 | 0 | 7 | 0,6 | 4 | 0,4 | 11 | 2 | 0,2 | 1 | 1 |
-| K. Mainoo | M | 11 | 747 | 0 | 1 | 3 | 0,3 | 2 | 0,2 | 9 | 7 | 0,6 | 1 | 0 |
-| Andrey Santos | M | 10 | 563 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 15 | 1,5 | 3 | 0 |
+| S. Lammens | G | 15 | 1350 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
+| B. Mbeumo | F | 16 | 1277 | 4 | 1 | 27 | 1,7 | 15 | 0,9 | 12 | 17 | 1,1 | 2 | 0 |
+| Bruno Fernandes | M | 15 | 1242 | 6 | 2 | 37 | 2,5 | 14 | 0,9 | 12 | 14 | 0,9 | 3 | 0 |
+| Diogo Dalot | D | 15 | 1165 | 0 | 0 | 12 | 0,8 | 2 | 0,1 | 15 | 3 | 0,2 | 2 | 0 |
+| H. Maguire | D | 14 | 1111 | 0 | 0 | 11 | 0,8 | 2 | 0,1 | 10 | 10 | 0,7 | 5 | 0 |
+| Y. Tielemans | M | 15 | 1053 | 1 | 3 | 14 | 0,9 | 5 | 0,3 | 9 | 27 | 1,8 | 1 | 0 |
+| Matheus Cunha | M | 16 | 996 | 4 | 2 | 25 | 1,6 | 15 | 0,9 | 19 | 23 | 1,4 | 0 | 1 |
+| Lisandro Martínez | D | 12 | 868 | 1 | 0 | 7 | 0,6 | 4 | 0,3 | 12 | 2 | 0,2 | 1 | 1 |
+| K. Mainoo | M | 12 | 834 | 0 | 1 | 4 | 0,3 | 2 | 0,2 | 9 | 7 | 0,6 | 1 | 0 |
+| L. Yoro | D | 12 | 800 | 0 | 0 | 3 | 0,2 | 0 | 0,0 | 9 | 2 | 0,2 | 0 | 2 |
+| Andrey Santos | M | 11 | 566 | 0 | 0 | 2 | 0,2 | 1 | 0,1 | 9 | 15 | 1,4 | 3 | 0 |
+| N. Mazraoui | D | 9 | 528 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 7 | 4 | 0,4 | 0 | 0 |
 | A. Diallo | M | 8 | 514 | 0 | 1 | 16 | 2,0 | 6 | 0,8 | 4 | 7 | 0,9 | 0 | 0 |
-| N. Mazraoui | D | 8 | 503 | 0 | 1 | 4 | 0,5 | 0 | 0,0 | 7 | 3 | 0,4 | 0 | 0 |
 | Marcus Rashford | M | 8 | 502 | 0 | 0 | 13 | 1,6 | 6 | 0,8 | 5 | 8 | 1,0 | 1 | 0 |
 | A. Heaven | D | 8 | 470 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 9 | 10 | 1,2 | 3 | 0 |
 | Luke Shaw | D | 5 | 425 | 0 | 1 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 2 | 0 |
-| M. Mount | M | 10 | 398 | 1 | 0 | 10 | 1,0 | 2 | 0,2 | 5 | 10 | 1,0 | 0 | 0 |
+| M. Mount | M | 11 | 423 | 1 | 0 | 10 | 0,9 | 2 | 0,2 | 5 | 11 | 1,0 | 0 | 0 |
 | C. Baleba | M | 7 | 397 | 0 | 0 | 7 | 1,0 | 1 | 0,1 | 7 | 10 | 1,4 | 1 | 0 |
-| P. Dorgu | D | 7 | 271 | 1 | 3 | 7 | 1,0 | 2 | 0,3 | 9 | 4 | 0,6 | 2 | 0 |
-| B. Šeško | F | 6 | 206 | 2 | 0 | 4 | 0,7 | 2 | 0,3 | 3 | 1 | 0,2 | 0 | 0 |
+| P. Dorgu | M | 8 | 336 | 1 | 3 | 7 | 0,9 | 2 | 0,2 | 9 | 4 | 0,5 | 2 | 0 |
+| J. Zirkzee | F | 11 | 237 | 2 | 0 | 10 | 0,9 | 5 | 0,5 | 6 | 2 | 0,2 | 1 | 0 |

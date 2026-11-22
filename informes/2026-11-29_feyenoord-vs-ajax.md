@@ -1,7 +1,7 @@
 # Feyenoord – Ajax
 **Eredivisie** · Regular Season - 14 · 29/11/2026 14:30 (hora España) · De Kuip
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -53,53 +53,53 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | Feyenoord (total) | Feyenoord en casa | Ajax (total) | Ajax fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 21 | 11 |
-| Forma (últimos 5) | DDDEE | DDEVV | EVVVV | EVVVD |
-| Balance | 8V 4E 5D | 3V 3E 2D | 14V 5E 2D | 8V 2E 1D |
+| Partidos analizados | 17 | 8 | 22 | 11 |
+| Forma (últimos 5) | DDDEE | DDEVV | VEVVV | EVVVD |
+| Balance | 8V 4E 5D | 3V 3E 2D | 15V 5E 2D | 8V 2E 1D |
 | Goles a favor / partido | 2,47 | 2,12 | 3,00 | 3,36 |
-| Goles en contra / partido | 1,82 | 1,62 | 1,33 | 1,27 |
-| Goles a favor 1ª parte | 1,24 | 1,00 | 1,24 | 1,09 |
-| Goles a favor 2ª parte | 1,24 | 1,12 | 1,76 | 2,27 |
-| Goles en contra 1ª parte | 0,71 | 0,75 | 0,67 | 0,55 |
-| Goles en contra 2ª parte | 1,12 | 0,88 | 0,67 | 0,73 |
+| Goles en contra / partido | 1,82 | 1,62 | 1,27 | 1,27 |
+| Goles a favor 1ª parte | 1,24 | 1,00 | 1,32 | 1,09 |
+| Goles a favor 2ª parte | 1,24 | 1,12 | 1,68 | 2,27 |
+| Goles en contra 1ª parte | 0,71 | 0,75 | 0,64 | 0,55 |
+| Goles en contra 2ª parte | 1,12 | 0,88 | 0,64 | 0,73 |
 | Más de 1,5 goles | 88% | 100% | 95% | 100% |
-| Más de 2,5 goles | 71% | 75% | 81% | 91% |
-| Más de 3,5 goles | 65% | 62% | 71% | 73% |
-| Ambos marcan | 65% | 62% | 81% | 82% |
-| Portería a cero | 24% | 25% | 19% | 18% |
+| Más de 2,5 goles | 71% | 75% | 82% | 91% |
+| Más de 3,5 goles | 65% | 62% | 68% | 73% |
+| Ambos marcan | 65% | 62% | 77% | 82% |
+| Portería a cero | 24% | 25% | 23% | 18% |
 | Se queda sin marcar | 12% | 12% | 0% | 0% |
-| xG a favor | 2,04 | 2,05 | 2,14 | 2,20 |
-| xG en contra | 1,24 | 1,06 | 1,43 | 1,48 |
+| xG a favor | 2,04 | 2,05 | 2,09 | 2,20 |
+| xG en contra | 1,24 | 1,06 | 1,36 | 1,48 |
 | Tiros / partido | 16,8 | 19,1 | 20,9 | 18,0 |
-| Tiros a puerta / partido | 6,3 | 6,2 | 7,8 | 7,5 |
-| Tiros recibidos | 13,4 | 10,2 | 11,0 | 11,9 |
-| Tiros a puerta recibidos | 4,9 | 4,0 | 4,1 | 4,5 |
+| Tiros a puerta / partido | 6,3 | 6,2 | 7,9 | 7,5 |
+| Tiros recibidos | 13,4 | 10,2 | 10,7 | 11,9 |
+| Tiros a puerta recibidos | 4,9 | 4,0 | 4,0 | 4,5 |
 | Posesión media % | 53 | 58 | 62 | 61 |
 | Córners a favor | 5,5 | 6,8 | 7,0 | 6,8 |
 | Córners en contra | 3,9 | 3,5 | 3,6 | 4,2 |
-| Córners a favor 1ª parte | 2,9 | 3,1 | 3,9 | 4,5 |
-| Córners a favor 2ª parte | 2,6 | 3,6 | 3,1 | 2,4 |
+| Córners a favor 1ª parte | 2,9 | 3,1 | 3,8 | 4,5 |
+| Córners a favor 2ª parte | 2,6 | 3,6 | 3,2 | 2,4 |
 | Córners totales del partido | 9,4 | 10,2 | 10,6 | 11,0 |
-| Córners totales 1ª parte | 4,4 | 4,2 | 5,2 | 6,1 |
-| Córners totales 2ª parte | 5,0 | 6,0 | 5,4 | 4,9 |
-| Más de 8,5 córners | 59% | 75% | 81% | 91% |
-| Más de 9,5 córners | 47% | 50% | 52% | 64% |
-| Más de 10,5 córners | 47% | 50% | 48% | 64% |
-| Faltas cometidas | 9,1 | 8,1 | 9,5 | 10,9 |
-| Faltas recibidas | 12,4 | 14,8 | 11,0 | 11,8 |
-| Amarillas propias | 1,2 | 0,8 | 1,8 | 2,1 |
-| Amarillas del rival | 1,6 | 2,0 | 2,0 | 1,9 |
+| Córners totales 1ª parte | 4,4 | 4,2 | 5,1 | 6,1 |
+| Córners totales 2ª parte | 5,0 | 6,0 | 5,5 | 4,9 |
+| Más de 8,5 córners | 59% | 75% | 82% | 91% |
+| Más de 9,5 córners | 47% | 50% | 55% | 64% |
+| Más de 10,5 córners | 47% | 50% | 50% | 64% |
+| Faltas cometidas | 9,1 | 8,1 | 9,3 | 10,9 |
+| Faltas recibidas | 12,4 | 14,8 | 10,8 | 11,8 |
+| Amarillas propias | 1,2 | 0,8 | 1,7 | 2,1 |
+| Amarillas del rival | 1,6 | 2,0 | 1,9 | 1,9 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Feyenoord | Recibe Feyenoord | Tarjetas Feyenoord | Goles Ajax | Recibe Ajax | Tarjetas Ajax |
 |---|---|---|---|---|---|---|
-| 1-15' | 5 | 4 | 1 | 8 | 1 | 2 |
+| 1-15' | 5 | 4 | 1 | 10 | 1 | 2 |
 | 16-30' | 7 | 4 | 2 | 5 | 5 | 5 |
-| 31-45' | 9 | 4 | 5 | 13 | 8 | 5 |
+| 31-45' | 9 | 4 | 5 | 14 | 8 | 5 |
 | 46-60' | 8 | 7 | 4 | 14 | 3 | 2 |
 | 61-75' | 9 | 4 | 6 | 12 | 3 | 8 |
-| 76-90' | 4 | 8 | 2 | 11 | 9 | 14 |
+| 76-90' | 4 | 8 | 2 | 11 | 9 | 15 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -151,33 +151,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Ajax
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Eredivisie | Ajax 3-0 ADO Den Haag | casa | 8-3 | 21 (10) - 4 (1) | 1-0 |
 | 2026-11-08 | Eredivisie | Twente 2-2 Ajax | fuera | 2-9 | 6 (2) - 22 (5) | 5-3 |
 | 2026-11-05 | Conference League | FC Midtjylland 1-6 Ajax | fuera | 8-1 | 24 (11) - 10 (4) | 0-3 |
 | 2026-10-31 | Eredivisie | Ajax 1-0 AZ Alkmaar | casa | 1-8 | 9 (2) - 19 (5) | 1-2 |
 | 2026-10-25 | Eredivisie | Sparta Rotterdam 1-2 Ajax | fuera | 3-5 | 16 (4) - 11 (5) | 2-1 |
 | 2026-10-22 | Conference League | Ajax 2-0 Atalanta | casa | 8-9 | 21 (7) - 16 (1) | 2-2 |
-| 2026-10-18 | Eredivisie | Groningen 2-5 Ajax | fuera | 4-7 | 15 (11) - 16 (5) | 2-1 |
 
 ## Jugadores de Ajax
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Y. Baas | D | 18 | 1467 | 2 | 1 | 11 | 0,6 | 3 | 0,2 | 9 | 15 | 0,8 | 3 | 0 |
+| A. Bouwman | D | 17 | 1458 | 1 | 0 | 7 | 0,4 | 4 | 0,2 | 11 | 6 | 0,4 | 3 | 0 |
 | M. ter Stegen | G | 16 | 1440 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
-| Y. Baas | M | 17 | 1377 | 2 | 1 | 9 | 0,5 | 3 | 0,2 | 9 | 15 | 0,9 | 3 | 0 |
-| A. Bouwman | D | 16 | 1368 | 1 | 0 | 6 | 0,4 | 3 | 0,2 | 11 | 6 | 0,4 | 3 | 0 |
-| J. Mokio | M | 21 | 1328 | 3 | 2 | 28 | 1,3 | 9 | 0,4 | 26 | 7 | 0,3 | 4 | 0 |
-| D. Klaassen | M | 20 | 1253 | 9 | 1 | 26 | 1,3 | 15 | 0,8 | 12 | 8 | 0,4 | 2 | 0 |
-| O. Gloukh | M | 20 | 1229 | 6 | 8 | 37 | 1,9 | 22 | 1,1 | 3 | 19 | 0,9 | 2 | 0 |
-| Lucas Rosa | D | 15 | 1182 | 0 | 2 | 7 | 0,5 | 2 | 0,1 | 18 | 16 | 1,1 | 5 | 0 |
-| J. Brandt | M | 17 | 1146 | 8 | 2 | 26 | 1,5 | 15 | 0,9 | 6 | 5 | 0,3 | 1 | 0 |
-| O. Wijndal | D | 14 | 959 | 2 | 2 | 8 | 0,6 | 5 | 0,4 | 13 | 10 | 0,7 | 1 | 0 |
-| T. Arokodare | F | 17 | 912 | 13 | 4 | 46 | 2,7 | 21 | 1,2 | 15 | 16 | 0,9 | 1 | 0 |
+| J. Mokio | M | 22 | 1418 | 4 | 2 | 30 | 1,4 | 11 | 0,5 | 27 | 8 | 0,4 | 4 | 0 |
+| D. Klaassen | M | 21 | 1323 | 11 | 2 | 28 | 1,3 | 17 | 0,8 | 12 | 8 | 0,4 | 2 | 0 |
+| O. Gloukh | F | 21 | 1291 | 6 | 9 | 38 | 1,8 | 23 | 1,1 | 3 | 19 | 0,9 | 2 | 0 |
+| Lucas Rosa | D | 16 | 1244 | 0 | 3 | 7 | 0,4 | 2 | 0,1 | 19 | 16 | 1,0 | 5 | 0 |
+| J. Brandt | M | 18 | 1166 | 8 | 2 | 26 | 1,4 | 15 | 0,8 | 6 | 5 | 0,3 | 1 | 0 |
+| O. Wijndal | D | 15 | 1049 | 2 | 2 | 9 | 0,6 | 5 | 0,3 | 14 | 10 | 0,7 | 1 | 0 |
+| T. Arokodare | F | 18 | 974 | 13 | 4 | 49 | 2,7 | 23 | 1,3 | 15 | 18 | 1,0 | 1 | 0 |
+| S. Berghuis | F | 13 | 794 | 2 | 5 | 28 | 2,2 | 13 | 1,0 | 7 | 10 | 0,8 | 1 | 0 |
 | A. Ouazane | M | 20 | 791 | 3 | 5 | 28 | 1,4 | 13 | 0,7 | 9 | 25 | 1,2 | 4 | 0 |
-| S. Berghuis | F | 12 | 774 | 2 | 5 | 27 | 2,2 | 13 | 1,1 | 7 | 9 | 0,8 | 1 | 0 |
 | S. Amrabat | M | 11 | 743 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 8 | 8 | 0,7 | 1 | 0 |
 | Caio Henrique | D | 12 | 729 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 7 | 4 | 0,3 | 1 | 0 |
+| A. Gaaei | D | 8 | 650 | 1 | 0 | 13 | 1,6 | 3 | 0,4 | 14 | 4 | 0,5 | 3 | 0 |
 | Thilo Kehrer | D | 8 | 631 | 1 | 2 | 5 | 0,6 | 4 | 0,5 | 3 | 8 | 1,0 | 0 | 0 |
-| Anton Gaaei | D | 7 | 622 | 1 | 0 | 12 | 1,7 | 3 | 0,4 | 12 | 4 | 0,6 | 2 | 0 |
 | Youri Regeer | M | 8 | 586 | 0 | 1 | 3 | 0,4 | 3 | 0,4 | 9 | 8 | 1,0 | 2 | 0 |
-| Marcos Leonardo | F | 16 | 557 | 3 | 0 | 21 | 1,3 | 9 | 0,6 | 5 | 11 | 0,7 | 1 | 0 |
+| Marcos Leonardo | F | 17 | 585 | 3 | 0 | 21 | 1,2 | 9 | 0,5 | 5 | 11 | 0,6 | 1 | 0 |
+| M. Paes | G | 6 | 547 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Kasper Dolberg | F | 9 | 523 | 3 | 3 | 20 | 2,2 | 10 | 1,1 | 6 | 5 | 0,6 | 0 | 0 |
-| D. Janse | D | 9 | 514 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 10 | 1,1 | 1 | 0 |

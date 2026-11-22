@@ -1,7 +1,7 @@
 # Sassuolo – Napoli
 **Serie A** · Regular Season - 13 · 29/11/2026 15:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -51,52 +51,52 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | Sassuolo (total) | Sassuolo en casa | Napoli (total) | Napoli fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 7 | 16 | 8 |
-| Forma (últimos 5) | DDDDD | DDEVE | VEDDV | DDVDD |
-| Balance | 3V 3E 7D | 3V 2E 2D | 6V 3E 7D | 2V 1E 5D |
-| Goles a favor / partido | 1,54 | 2,00 | 1,56 | 1,38 |
-| Goles en contra / partido | 2,31 | 2,14 | 1,56 | 1,88 |
-| Goles a favor 1ª parte | 0,77 | 1,00 | 0,62 | 0,50 |
-| Goles a favor 2ª parte | 0,77 | 1,00 | 0,94 | 0,88 |
-| Goles en contra 1ª parte | 1,00 | 1,00 | 0,50 | 0,50 |
-| Goles en contra 2ª parte | 1,31 | 1,14 | 1,06 | 1,38 |
+| Partidos analizados | 14 | 8 | 16 | 8 |
+| Forma (últimos 5) | DDDDD | DDDEV | VEDDV | DDVDD |
+| Balance | 3V 3E 8D | 3V 2E 3D | 6V 3E 7D | 2V 1E 5D |
+| Goles a favor / partido | 1,43 | 1,75 | 1,56 | 1,38 |
+| Goles en contra / partido | 2,29 | 2,12 | 1,56 | 1,88 |
+| Goles a favor 1ª parte | 0,71 | 0,88 | 0,62 | 0,50 |
+| Goles a favor 2ª parte | 0,71 | 0,88 | 0,94 | 0,88 |
+| Goles en contra 1ª parte | 1,07 | 1,12 | 0,50 | 0,50 |
+| Goles en contra 2ª parte | 1,21 | 1,00 | 1,06 | 1,38 |
 | Más de 1,5 goles | 100% | 100% | 75% | 88% |
-| Más de 2,5 goles | 77% | 71% | 50% | 50% |
-| Más de 3,5 goles | 38% | 43% | 38% | 50% |
-| Ambos marcan | 77% | 86% | 56% | 62% |
-| Portería a cero | 8% | 14% | 25% | 12% |
-| Se queda sin marcar | 15% | 0% | 19% | 25% |
-| xG a favor | 1,28 | 1,15 | 1,64 | 1,51 |
-| xG en contra | 1,93 | 1,94 | 1,55 | 1,54 |
-| Tiros / partido | 12,6 | 11,4 | 14,8 | 14,6 |
-| Tiros a puerta / partido | 4,6 | 4,4 | 5,8 | 5,4 |
-| Tiros recibidos | 16,0 | 13,6 | 16,6 | 16,4 |
-| Tiros a puerta recibidos | 6,7 | 6,3 | 4,6 | 4,9 |
-| Posesión media % | 48 | 48 | 51 | 54 |
-| Córners a favor | 4,0 | 3,9 | 4,9 | 5,2 |
-| Córners en contra | 5,8 | 4,6 | 5,4 | 5,4 |
-| Córners a favor 1ª parte | 1,8 | 1,3 | 2,3 | 2,8 |
-| Córners a favor 2ª parte | 2,2 | 2,6 | 2,6 | 2,5 |
-| Córners totales del partido | 9,8 | 8,4 | 10,3 | 10,6 |
-| Córners totales 1ª parte | 4,6 | 4,0 | 5,1 | 5,6 |
-| Córners totales 2ª parte | 5,2 | 4,4 | 5,2 | 5,0 |
-| Más de 8,5 córners | 62% | 43% | 75% | 75% |
-| Más de 9,5 córners | 46% | 29% | 62% | 62% |
-| Más de 10,5 córners | 38% | 29% | 38% | 38% |
-| Faltas cometidas | 9,8 | 10,0 | 9,8 | 9,2 |
-| Faltas recibidas | 12,5 | 13,0 | 9,2 | 9,2 |
-| Amarillas propias | 1,3 | 1,7 | 1,6 | 1,4 |
-| Amarillas del rival | 1,8 | 2,1 | 1,6 | 2,1 |
-| Rojas / partido | 0,08 | 0,14 | 0,12 | 0,25 |
+| Más de 2,5 goles | 71% | 62% | 50% | 50% |
+| Más de 3,5 goles | 36% | 38% | 38% | 50% |
+| Ambos marcan | 71% | 75% | 56% | 62% |
+| Portería a cero | 7% | 12% | 25% | 12% |
+| Se queda sin marcar | 21% | 12% | 19% | 25% |
+| xG a favor | 1,31 | 1,25 | 1,64 | 1,51 |
+| xG en contra | 1,95 | 1,97 | 1,55 | 1,54 |
+| Tiros / partido | 13,5 | 13,1 | 14,8 | 14,6 |
+| Tiros a puerta / partido | 4,8 | 4,8 | 5,8 | 5,4 |
+| Tiros recibidos | 15,6 | 13,2 | 16,6 | 16,4 |
+| Tiros a puerta recibidos | 6,6 | 6,1 | 4,6 | 4,9 |
+| Posesión media % | 49 | 50 | 51 | 54 |
+| Córners a favor | 4,1 | 4,0 | 4,9 | 5,2 |
+| Córners en contra | 5,6 | 4,4 | 5,4 | 5,4 |
+| Córners a favor 1ª parte | 1,6 | 1,1 | 2,3 | 2,8 |
+| Córners a favor 2ª parte | 2,4 | 2,9 | 2,6 | 2,5 |
+| Córners totales del partido | 9,7 | 8,4 | 10,3 | 10,6 |
+| Córners totales 1ª parte | 4,4 | 3,6 | 5,1 | 5,6 |
+| Córners totales 2ª parte | 5,4 | 4,8 | 5,2 | 5,0 |
+| Más de 8,5 córners | 57% | 38% | 75% | 75% |
+| Más de 9,5 córners | 43% | 25% | 62% | 62% |
+| Más de 10,5 córners | 36% | 25% | 38% | 38% |
+| Faltas cometidas | 9,9 | 10,1 | 9,8 | 9,2 |
+| Faltas recibidas | 12,2 | 12,5 | 9,2 | 9,2 |
+| Amarillas propias | 1,3 | 1,6 | 1,6 | 1,4 |
+| Amarillas del rival | 1,7 | 1,9 | 1,6 | 2,1 |
+| Rojas / partido | 0,07 | 0,12 | 0,12 | 0,25 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Sassuolo | Recibe Sassuolo | Tarjetas Sassuolo | Goles Napoli | Recibe Napoli | Tarjetas Napoli |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 4 | 0 | 3 | 1 | 2 |
-| 16-30' | 2 | 5 | 0 | 4 | 5 | 1 |
-| 31-45' | 5 | 4 | 3 | 3 | 2 | 7 |
+| 16-30' | 2 | 6 | 0 | 4 | 5 | 1 |
+| 31-45' | 5 | 5 | 3 | 3 | 2 | 7 |
 | 46-60' | 2 | 8 | 4 | 5 | 3 | 5 |
-| 61-75' | 4 | 4 | 5 | 5 | 6 | 4 |
+| 61-75' | 4 | 4 | 6 | 5 | 6 | 4 |
 | 76-90' | 4 | 5 | 6 | 5 | 8 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -115,36 +115,36 @@ _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 ## Últimos partidos de Sassuolo
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | Sassuolo 0-2 Genoa | casa | 5-3 | 25 (7) - 11 (5) | 1-0 |
 | 2026-11-07 | Serie A | AS Roma 3-0 Sassuolo | fuera | 1-12 | 6 (1) - 28 (9) | 0-0 |
 | 2026-11-02 | Serie A | Sassuolo 2-4 Fiorentina | casa | 5-3 | 7 (2) - 15 (6) | 2-3 |
 | 2026-10-27 | Serie A | Sassuolo 2-6 Lazio | casa | 2-1 | 9 (1) - 16 (8) | 1-1 |
 | 2026-10-24 | Serie A | Como 2-0 Sassuolo | fuera | 4-6 | 7 (0) - 14 (6) | 2-2 |
 | 2026-10-16 | Serie A | Frosinone 4-2 Sassuolo | fuera | 4-5 | 14 (6) - 21 (10) | 1-0 |
-| 2026-10-11 | Serie A | Sassuolo 1-1 AC Milan | casa | 3-5 | 10 (4) - 11 (6) | 2-4 |
 
 ## Jugadores de Sassuolo
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A. Laurienté | F | 13 | 1026 | 2 | 1 | 27 | 2,1 | 9 | 0,7 | 11 | 21 | 1,6 | 1 | 0 |
-| J. Doig | M | 12 | 944 | 1 | 1 | 4 | 0,3 | 1 | 0,1 | 5 | 4 | 0,3 | 0 | 0 |
-| A. Murić | G | 9 | 810 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
-| N. Matić | M | 11 | 807 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 4 | 7 | 0,6 | 1 | 0 |
-| S. Cinquegrano | M | 11 | 781 | 0 | 2 | 7 | 0,6 | 3 | 0,3 | 13 | 10 | 0,9 | 1 | 0 |
+| A. Laurienté | F | 14 | 1116 | 2 | 1 | 37 | 2,6 | 12 | 0,9 | 11 | 22 | 1,6 | 1 | 0 |
+| J. Doig | D | 13 | 949 | 1 | 1 | 5 | 0,4 | 1 | 0,1 | 5 | 4 | 0,3 | 0 | 0 |
+| A. Murić | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,2 | 0 | 0 |
+| N. Matić | M | 12 | 886 | 0 | 2 | 4 | 0,3 | 1 | 0,1 | 4 | 9 | 0,8 | 1 | 0 |
+| S. Cinquegrano | M | 12 | 792 | 0 | 2 | 8 | 0,7 | 3 | 0,2 | 13 | 10 | 0,8 | 1 | 0 |
 | D. Bakola | M | 11 | 757 | 0 | 3 | 9 | 0,8 | 4 | 0,4 | 5 | 17 | 1,5 | 0 | 0 |
-| K. Bowie | F | 13 | 696 | 1 | 0 | 16 | 1,2 | 6 | 0,5 | 12 | 18 | 1,4 | 1 | 0 |
-| D. Berardi | F | 10 | 655 | 2 | 0 | 12 | 1,2 | 9 | 0,9 | 6 | 15 | 1,5 | 2 | 0 |
+| D. Berardi | F | 11 | 745 | 2 | 0 | 18 | 1,6 | 12 | 1,1 | 7 | 16 | 1,5 | 2 | 0 |
+| K. Bowie | F | 14 | 741 | 1 | 0 | 17 | 1,2 | 6 | 0,4 | 13 | 18 | 1,3 | 1 | 0 |
+| K. Thorstvedt | M | 11 | 589 | 1 | 0 | 11 | 1,0 | 6 | 0,5 | 7 | 14 | 1,3 | 1 | 1 |
+| S. Esposito | F | 10 | 564 | 2 | 1 | 5 | 0,5 | 3 | 0,3 | 12 | 13 | 1,3 | 0 | 0 |
 | D. Ćaleta-Car | D | 7 | 540 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 6 | 1 | 0,1 | 0 | 0 |
+| J. Idzes | D | 6 | 531 | 0 | 0 | 3 | 0,5 | 0 | 0,0 | 8 | 4 | 0,7 | 1 | 0 |
 | Vasilije Adžić | M | 10 | 519 | 4 | 1 | 8 | 0,8 | 6 | 0,6 | 7 | 1 | 0,1 | 0 | 0 |
-| S. Esposito | F | 9 | 519 | 2 | 1 | 5 | 0,6 | 3 | 0,3 | 11 | 13 | 1,4 | 0 | 0 |
 | C. Odenthal | D | 6 | 514 | 2 | 0 | 5 | 0,8 | 2 | 0,3 | 3 | 3 | 0,5 | 0 | 0 |
-| K. Thorstvedt | M | 10 | 499 | 1 | 0 | 10 | 1,0 | 6 | 0,6 | 6 | 12 | 1,2 | 0 | 1 |
 | Fedde Leysen | D | 7 | 492 | 0 | 1 | 2 | 0,3 | 0 | 0,0 | 5 | 1 | 0,1 | 1 | 0 |
-| J. Idzes | D | 5 | 441 | 0 | 0 | 3 | 0,6 | 0 | 0,0 | 6 | 4 | 0,8 | 1 | 0 |
+| I. Van der Brempt | M | 6 | 418 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 8 | 2 | 0,3 | 1 | 0 |
 | L. Lipani | M | 11 | 397 | 1 | 0 | 2 | 0,2 | 1 | 0,1 | 5 | 1 | 0,1 | 2 | 0 |
 | S. Turati | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 1 | 0 |
 | C. Volpato | M | 7 | 359 | 2 | 0 | 5 | 0,7 | 5 | 0,7 | 4 | 6 | 0,9 | 1 | 0 |
-| I. Van der Brempt | D | 5 | 339 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 6 | 2 | 0,4 | 1 | 0 |
-| B. Domínguez | M | 8 | 248 | 1 | 0 | 5 | 0,6 | 3 | 0,4 | 1 | 10 | 1,2 | 0 | 0 |
+| Rafael Obrador | M | 7 | 276 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 2 | 0,3 | 0 | 0 |
 
 ## Últimos partidos de Napoli
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

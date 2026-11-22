@@ -1,10 +1,10 @@
 # Borac Banja Luka – Atalanta
 **Conference League** · League Stage - 4 · 26/11/2026 21:00 (hora España) · Gradski stadion Banja Luka
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
-_Actualizadas: 21/11 14:05_
+_Actualizadas: 22/11 20:34_
 
 - **1X2:** 1 **4.75**  ·  X **4.10**  ·  2 **1.60**
 - **Doble oportunidad:** 1X **2.30**  ·  12 **1.22**  ·  X2 **1.18**
@@ -29,21 +29,31 @@ _Actualizadas: 21/11 14:05_
     - 2,5: más **2.62** · menos **1.44**
     - 3,5: más **5.50** · menos **1.14**
     - 4,5: más **13.00** · menos **1.04**
-- **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.10**
+- **Córners más/menos:**
+    - 9: más **1.90** · menos **1.90**
+    - 9,5: más **2.10** · menos **1.67**
+- **Córners 1X2:** 1 **2.75**  ·  X **8.00**  ·  2 **1.57**
+- **1X2 descanso:** 1 **5.00**  ·  X **2.50**  ·  2 **2.05**
 - **Goals Over/Under - Second Half:**
     - 0,5: más **1.17** · menos **5.00**
     - 1,5: más **1.80** · menos **1.91**
     - 2,5: más **3.50** · menos **1.28**
-    - 3,5: más **9.00** · menos **1.07**
+    - 3,5: más **8.00** · menos **1.08**
 - **Both Teams Score - First Half:** Sí **4.00**  ·  No **1.22**
 - **Both Teams To Score - Second Half:** Sí **3.00**  ·  No **1.36**
 - **To Win Either Half:** 1 **2.62**  ·  2 **1.33**
-- **To Score In Both Halves By Teams:** 1 **5.00**  ·  2 **2.25**
+- **To Score In Both Halves By Teams:** 1 **5.50**  ·  2 **2.20**
 - **Win Both Halves:** 1 **19.00**  ·  2 **4.00**
 - **Results/Both Teams Score:** Home/Yes **8.00**  ·  Draw/Yes **5.00**  ·  Away/Yes **3.00**  ·  Home/No **10.00**  ·  Draw/No **17.00**  ·  Away/No **3.00**
-- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.00**  ·  u/no 2.5 **3.00**
+- **Total Goals/Both Teams To Score:** o/yes 2.5 **1.95**  ·  o/no 2.5 **6.50**  ·  u/yes 2.5 **8.50**  ·  u/no 2.5 **3.00**
+- **Home Corners Over/Under:**
+    - 3,5: más **1.80** · menos **1.91**
+- **Away Corners Over/Under:**
+    - 4,5: más **1.62** · menos **2.20**
+- **Total Corners (1st Half):**
+    - 4: más **1.78** · menos **2.02**
 - **Away Player Shots On Target Total:** Javison Idele **21.00**  ·  Giacomo Raspadori **12.00**  ·  Franck Kessie **34.00**  ·  Giorgio Scalvini **11.00**  ·  Jacopo Mirra **13.00**  ·  Matteo Plaia **13.00**  ·  Digne Pounga **34.00**  ·  Jonathan Rowe **17.00**  ·  Nicola Zalewski **26.00**  ·  Eljif Elmas **26.00**  ·  Gianluca Gaetano **41.00**  ·  Charles De Ketelaere **7.50**  ·  Davide Zappacosta **51.00**  ·  Lazar Samardzic **34.00**  ·  Mario Pasalic **21.00**  ·  Raoul Bellanova **21.00**  ·  Sead Kolasinac **29.00**  ·  Lorenzo Bernasconi **21.00**  ·  Ederson Silva **41.00**  ·  Kamaldeen Sulemana **23.00**  ·  Nikola Krstovic **7.00**  ·  Thomas Kristensen **13.00**  ·  Gianluca Scamacca **7.50**  ·  Relja Obric **10.00**
-- **Anytime Goal Scorer:** Luka Juricic **2.75**  ·  Javison Idele **5.00**  ·  Giacomo Raspadori **2.50**  ·  Franck Kessie **4.50**  ·  Omar Sijaric **6.00**  ·  Brainimir Cipetic **8.00**  ·  Nikola Terzic **4.50**  ·  Stefan Savic **4.50**  ·  Giorgio Scalvini **8.00**  ·  Anderson Esiti **11.00**  ·  Sinisa Sanicanin **21.00**  ·  Jacopo Mirra **8.00**  ·  Matteo Plaia **8.00**  ·  Sergej Levak **3.60**  ·  Albert Navarro **9.50**  ·  Federico Steffanoni **6.00**  ·  Pavle Djajic **4.33**  ·  David Vukovic **6.00**  ·  Sandi Ogrinec **6.00**  ·  Stojan Vranjes **6.00**  ·  Srdjan Grahovac **11.00**  ·  Jurich Carolina **13.00**  ·  Sebastian Herrera **9.50**  ·  Bart Meijers **13.00**  ·  Matej Deket **3.25**  ·  Nemanja Jaksic **13.00**  ·  Amar Milak **4.50**  ·  Karlo Peric **2.75**  ·  Abel Pascual **13.00**  ·  Amer Hiros **5.00**  ·  Andujar Dani Romera **2.75**  ·  Petar Kunic **4.50**  ·  Ivan Kukavica **9.00**  ·  Erik Radan **11.00**  ·  Digne Pounga **4.50**  ·  Andrea Bonanomi **4.00**  ·  Isaac Isoa **8.00**  ·  Jonathan Rowe **2.62**  ·  Ante Roguljic **7.00**  ·  Nicola Zalewski **3.10**  ·  Eljif Elmas **3.60**  ·  Gianluca Gaetano **6.00**  ·  Charles De Ketelaere **2.75**  ·  Davide Zappacosta **6.50**  ·  Lazar Samardzic **3.60**  ·  Mario Pasalic **5.00**  ·  Raoul Bellanova **7.00**  ·  Sead Kolasinac **11.00**  ·  Lorenzo Bernasconi **8.00**  ·  Ederson Silva **5.00**  ·  Kamaldeen Sulemana **3.10**  ·  Nikola Krstovic **2.20**  ·  Thomas Kristensen **9.50**  ·  Milos Jojic **6.00**  ·  Gianluca Scamacca **2.05**  ·  Relja Obric **8.00**  ·  Viktor Rogan **13.00**
+- **Anytime Goal Scorer:** Luka Juricic **2.75**  ·  Javison Idele **5.00**  ·  Giacomo Raspadori **2.50**  ·  Franck Kessie **4.50**  ·  Omar Sijaric **6.00**  ·  Brainimir Cipetic **8.50**  ·  Nikola Terzic **4.50**  ·  Stefan Savic **4.50**  ·  Giorgio Scalvini **7.50**  ·  Anderson Esiti **11.00**  ·  Sinisa Sanicanin **21.00**  ·  Jacopo Mirra **7.50**  ·  Matteo Plaia **7.50**  ·  Sergej Levak **3.60**  ·  Albert Navarro **9.50**  ·  Federico Steffanoni **5.00**  ·  Pavle Djajic **4.33**  ·  David Vukovic **6.00**  ·  Sandi Ogrinec **6.00**  ·  Stojan Vranjes **6.00**  ·  Srdjan Grahovac **11.00**  ·  Jurich Carolina **13.00**  ·  Sebastian Herrera **9.50**  ·  Bart Meijers **13.00**  ·  Matej Deket **3.25**  ·  Nemanja Jaksic **13.00**  ·  Amar Milak **4.50**  ·  Karlo Peric **2.75**  ·  Abel Pascual **13.00**  ·  Amer Hiros **5.00**  ·  Andujar Dani Romera **2.75**  ·  Petar Kunic **4.50**  ·  Ivan Kukavica **8.50**  ·  Erik Radan **11.00**  ·  Digne Pounga **4.50**  ·  Andrea Bonanomi **4.00**  ·  Isaac Isoa **7.50**  ·  Jonathan Rowe **2.62**  ·  Ante Roguljic **7.00**  ·  Nicola Zalewski **3.10**  ·  Eljif Elmas **3.60**  ·  Gianluca Gaetano **5.00**  ·  Charles De Ketelaere **2.75**  ·  Davide Zappacosta **6.50**  ·  Lazar Samardzic **3.60**  ·  Mario Pasalic **5.00**  ·  Raoul Bellanova **7.00**  ·  Sead Kolasinac **11.00**  ·  Lorenzo Bernasconi **7.50**  ·  Ederson Silva **5.00**  ·  Kamaldeen Sulemana **3.10**  ·  Nikola Krstovic **2.20**  ·  Thomas Kristensen **9.50**  ·  Milos Jojic **6.00**  ·  Gianluca Scamacca **2.05**  ·  Relja Obric **7.50**  ·  Viktor Rogan **13.00**
 
 ## Estadísticas de equipo
 | | Borac Banja Luka (total) | Borac Banja Luka en casa | Atalanta (total) | Atalanta fuera |

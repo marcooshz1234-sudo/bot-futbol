@@ -1,7 +1,7 @@
 # SC Paderborn 07 – FC Schalke 04
 **Bundesliga** · Regular Season - 11 · 28/11/2026 15:30 (hora España) · Home Deluxe Arena
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:14_

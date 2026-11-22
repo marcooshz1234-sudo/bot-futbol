@@ -1,10 +1,10 @@
 # União de Leiria – Leça
 **Taça de Portugal** · Round of 32 · 22/11/2026 20:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
-_Actualizadas: 22/11 07:42_
+_Actualizadas: 22/11 20:33_
 
 - **1X2:** 1 **1.45**  ·  X **3.80**  ·  2 **6.00**
 - **Doble oportunidad:** 1X **1.11**  ·  12 **1.22**  ·  X2 **2.50**
@@ -21,14 +21,13 @@ _Actualizadas: 22/11 07:42_
     - 1,5: más **2.50** · menos **1.50**
     - 2,5: más **6.50** · menos **1.11**
 - **Goles del local:**
-    - 0,5: más **1.12** · menos **6.00**
-    - 1,5: más **1.67** · menos **2.10**
-    - 2,5: más **3.00** · menos **1.36**
-    - 3,5: más **6.50** · menos **1.11**
+    - 0,5: más **1.11** · menos **6.50**
+    - 1,5: más **1.57** · menos **2.25**
+    - 2,5: más **2.75** · menos **1.40**
+    - 3,5: más **6.00** · menos **1.12**
 - **Goles del visitante:**
-    - 0,5: más **1.53** · menos **2.38**
-    - 1,5: más **3.75** · menos **1.25**
-    - 2,5: más **11.00** · menos **1.05**
+    - 0,5: más **1.62** · menos **2.20**
+    - 1,5: más **4.33** · menos **1.20**
 - **Córners más/menos:**
     - 9,5: más **1.73** · menos **2.00**
     - 10: más **2.00** · menos **1.80**

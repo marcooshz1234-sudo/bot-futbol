@@ -1,7 +1,7 @@
 # Celta Vigo – Villarreal
 **LaLiga** · Regular Season - 14 · 29/11/2026 18:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_
@@ -51,53 +51,53 @@ _Actualizadas: 22/11 00:16_
 ## Estadísticas de equipo
 | | Celta Vigo (total) | Celta Vigo en casa | Villarreal (total) | Villarreal fuera |
 |---|---|---|---|---|
-| Partidos analizados | 18 | 9 | 17 | 9 |
-| Forma (últimos 5) | DVEDD | EDEVD | VDDVV | VVDDV |
-| Balance | 4V 7E 7D | 2V 3E 4D | 6V 3E 8D | 3V 2E 4D |
-| Goles a favor / partido | 1,11 | 1,22 | 1,76 | 2,11 |
-| Goles en contra / partido | 1,00 | 1,11 | 1,71 | 1,67 |
-| Goles a favor 1ª parte | 0,56 | 0,67 | 0,76 | 0,89 |
-| Goles a favor 2ª parte | 0,56 | 0,56 | 1,00 | 1,22 |
-| Goles en contra 1ª parte | 0,28 | 0,33 | 0,94 | 0,78 |
-| Goles en contra 2ª parte | 0,72 | 0,78 | 0,76 | 0,89 |
-| Más de 1,5 goles | 67% | 78% | 76% | 78% |
-| Más de 2,5 goles | 50% | 56% | 71% | 78% |
-| Más de 3,5 goles | 11% | 11% | 59% | 67% |
-| Ambos marcan | 44% | 56% | 59% | 67% |
-| Portería a cero | 39% | 33% | 18% | 11% |
-| Se queda sin marcar | 44% | 33% | 29% | 22% |
-| xG a favor | 1,18 | 1,34 | 1,81 | 1,76 |
-| xG en contra | 1,30 | 1,46 | 1,40 | 1,49 |
-| Tiros / partido | 11,9 | 11,7 | 16,2 | 15,1 |
-| Tiros a puerta / partido | 3,5 | 4,3 | 5,5 | 5,5 |
-| Tiros recibidos | 13,8 | 14,6 | 12,8 | 13,8 |
-| Tiros a puerta recibidos | 4,3 | 4,3 | 4,2 | 4,0 |
-| Posesión media % | 50 | 50 | 57 | 57 |
-| Córners a favor | 4,2 | 3,9 | 6,6 | 6,4 |
-| Córners en contra | 4,2 | 3,9 | 5,1 | 6,4 |
-| Córners a favor 1ª parte | 1,6 | 1,3 | 3,8 | 3,8 |
-| Córners a favor 2ª parte | 2,6 | 2,6 | 2,8 | 2,6 |
-| Córners totales del partido | 8,4 | 7,8 | 11,7 | 12,8 |
-| Córners totales 1ª parte | 3,5 | 2,8 | 6,2 | 6,4 |
-| Córners totales 2ª parte | 4,9 | 5,0 | 5,5 | 6,4 |
-| Más de 8,5 córners | 35% | 33% | 75% | 88% |
-| Más de 9,5 córners | 29% | 22% | 69% | 75% |
-| Más de 10,5 córners | 29% | 22% | 62% | 75% |
-| Faltas cometidas | 12,1 | 10,9 | 11,1 | 10,9 |
-| Faltas recibidas | 12,4 | 13,6 | 12,2 | 13,9 |
-| Amarillas propias | 1,5 | 1,2 | 2,2 | 2,2 |
-| Amarillas del rival | 1,9 | 1,9 | 2,4 | 2,8 |
-| Rojas / partido | 0,06 | 0,11 | 0,06 | 0,12 |
+| Partidos analizados | 18 | 9 | 18 | 10 |
+| Forma (últimos 5) | DVEDD | EDEVD | DVDDV | DVVDD |
+| Balance | 4V 7E 7D | 2V 3E 4D | 6V 3E 9D | 3V 2E 5D |
+| Goles a favor / partido | 1,11 | 1,22 | 1,78 | 2,10 |
+| Goles en contra / partido | 1,00 | 1,11 | 1,78 | 1,80 |
+| Goles a favor 1ª parte | 0,56 | 0,67 | 0,83 | 1,00 |
+| Goles a favor 2ª parte | 0,56 | 0,56 | 0,94 | 1,10 |
+| Goles en contra 1ª parte | 0,28 | 0,33 | 0,89 | 0,70 |
+| Goles en contra 2ª parte | 0,72 | 0,78 | 0,89 | 1,10 |
+| Más de 1,5 goles | 67% | 78% | 78% | 80% |
+| Más de 2,5 goles | 50% | 56% | 72% | 80% |
+| Más de 3,5 goles | 11% | 11% | 61% | 70% |
+| Ambos marcan | 44% | 56% | 61% | 70% |
+| Portería a cero | 39% | 33% | 17% | 10% |
+| Se queda sin marcar | 44% | 33% | 28% | 20% |
+| xG a favor | 1,18 | 1,34 | 1,72 | 1,58 |
+| xG en contra | 1,30 | 1,46 | 1,51 | 1,69 |
+| Tiros / partido | 11,9 | 11,7 | 15,5 | 13,9 |
+| Tiros a puerta / partido | 3,5 | 4,3 | 5,3 | 5,1 |
+| Tiros recibidos | 13,8 | 14,6 | 13,8 | 15,6 |
+| Tiros a puerta recibidos | 4,3 | 4,3 | 4,5 | 4,6 |
+| Posesión media % | 50 | 50 | 56 | 54 |
+| Córners a favor | 4,2 | 3,9 | 6,2 | 5,7 |
+| Córners en contra | 4,2 | 3,9 | 5,4 | 6,8 |
+| Córners a favor 1ª parte | 1,6 | 1,3 | 3,6 | 3,3 |
+| Córners a favor 2ª parte | 2,6 | 2,6 | 2,6 | 2,3 |
+| Córners totales del partido | 8,4 | 7,8 | 11,6 | 12,4 |
+| Córners totales 1ª parte | 3,5 | 2,8 | 6,2 | 6,3 |
+| Córners totales 2ª parte | 4,9 | 5,0 | 5,4 | 6,1 |
+| Más de 8,5 córners | 35% | 33% | 76% | 89% |
+| Más de 9,5 córners | 29% | 22% | 71% | 78% |
+| Más de 10,5 córners | 29% | 22% | 59% | 67% |
+| Faltas cometidas | 12,1 | 10,9 | 11,5 | 11,8 |
+| Faltas recibidas | 12,4 | 13,6 | 12,1 | 13,6 |
+| Amarillas propias | 1,5 | 1,2 | 2,3 | 2,4 |
+| Amarillas del rival | 1,9 | 1,9 | 2,4 | 2,7 |
+| Rojas / partido | 0,06 | 0,11 | 0,12 | 0,22 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Celta Vigo | Recibe Celta Vigo | Tarjetas Celta Vigo | Goles Villarreal | Recibe Villarreal | Tarjetas Villarreal |
 |---|---|---|---|---|---|---|
-| 1-15' | 4 | 0 | 1 | 2 | 5 | 1 |
+| 1-15' | 4 | 0 | 1 | 4 | 5 | 2 |
 | 16-30' | 2 | 3 | 2 | 6 | 2 | 1 |
-| 31-45' | 4 | 2 | 3 | 5 | 9 | 8 |
-| 46-60' | 2 | 5 | 5 | 4 | 3 | 6 |
-| 61-75' | 4 | 3 | 5 | 4 | 3 | 5 |
-| 76-90' | 4 | 5 | 11 | 9 | 7 | 16 |
+| 31-45' | 4 | 2 | 3 | 5 | 9 | 9 |
+| 46-60' | 2 | 5 | 5 | 4 | 4 | 8 |
+| 61-75' | 4 | 3 | 5 | 4 | 5 | 6 |
+| 76-90' | 4 | 5 | 11 | 9 | 7 | 17 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -149,33 +149,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Villarreal
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | LaLiga | Barcelona 3-2 Villarreal | fuera | 0-10 | 4 (2) - 30 (9) | 4-2 |
 | 2026-11-08 | LaLiga | Villarreal 2-0 Getafe | casa | 9-4 | 22 (7) - 9 (1) | 2-2 |
 | 2026-11-03 | Champions League | Villarreal 0-6 Paris Saint Germain | casa | 4-8 | 14 (2) - 22 (12) | 4-1 |
 | 2026-10-30 | LaLiga | Villarreal 0-1 Espanyol | casa | 7-3 | 14 (4) - 5 (3) | 3-3 |
 | 2026-10-27 | Copa del Rey | Manacor 0-5 Villarreal | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-24 | LaLiga | Valencia 1-2 Villarreal | fuera | 9-6 | 19 (3) - 9 (5) | 3-3 |
-| 2026-10-20 | Champions League | Liverpool 4-3 Villarreal | fuera | 2-7 | 14 (5) - 22 (7) | 2-0 |
 
 ## Jugadores de Villarreal
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Renato Veiga | D | 15 | 1350 | 0 | 1 | 6 | 0,4 | 0 | 0,0 | 10 | 2 | 0,1 | 4 | 0 |
-| P. Gueye | M | 15 | 1163 | 3 | 0 | 24 | 1,6 | 9 | 0,6 | 13 | 28 | 1,9 | 1 | 1 |
-| P. Gulácsi | G | 11 | 990 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| S. Mouriño | D | 13 | 941 | 2 | 0 | 7 | 0,5 | 5 | 0,4 | 23 | 9 | 0,7 | 5 | 0 |
-| Santi Comesaña | M | 15 | 917 | 0 | 0 | 2 | 0,1 | 2 | 0,1 | 24 | 10 | 0,7 | 4 | 0 |
-| Alberto Moleiro | M | 16 | 913 | 2 | 4 | 21 | 1,3 | 8 | 0,5 | 7 | 5 | 0,3 | 2 | 0 |
-| G. Mikautadze | F | 16 | 904 | 5 | 2 | 27 | 1,7 | 16 | 1,0 | 5 | 13 | 0,8 | 1 | 0 |
-| T. Buchanan | M | 13 | 860 | 1 | 0 | 26 | 2,0 | 10 | 0,8 | 12 | 29 | 2,2 | 3 | 0 |
-| A. Freeman | D | 15 | 801 | 1 | 0 | 4 | 0,3 | 2 | 0,1 | 4 | 13 | 0,9 | 1 | 0 |
-| Ayoze Pérez | F | 15 | 753 | 1 | 5 | 16 | 1,1 | 9 | 0,6 | 10 | 15 | 1,0 | 1 | 0 |
-| Pau Navarro | D | 10 | 706 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 8 | 3 | 0,3 | 2 | 0 |
-| Sergi Cardona | D | 11 | 701 | 1 | 1 | 5 | 0,5 | 2 | 0,2 | 14 | 13 | 1,2 | 3 | 0 |
-| Carlos Romero | D | 10 | 695 | 1 | 0 | 6 | 0,6 | 2 | 0,2 | 3 | 8 | 0,8 | 1 | 0 |
-| N. Pépé | F | 10 | 585 | 2 | 1 | 15 | 1,5 | 9 | 0,9 | 2 | 6 | 0,6 | 1 | 0 |
+| Renato Veiga | D | 16 | 1440 | 0 | 1 | 6 | 0,4 | 0 | 0,0 | 12 | 2 | 0,1 | 4 | 0 |
+| P. Gueye | M | 16 | 1253 | 3 | 0 | 25 | 1,6 | 9 | 0,6 | 15 | 33 | 2,1 | 2 | 1 |
+| P. Gulácsi | G | 12 | 1080 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| Santi Comesaña | M | 16 | 993 | 0 | 0 | 2 | 0,1 | 2 | 0,1 | 27 | 11 | 0,7 | 4 | 0 |
+| G. Mikautadze | F | 17 | 990 | 5 | 2 | 27 | 1,6 | 16 | 0,9 | 5 | 14 | 0,8 | 1 | 0 |
+| Alberto Moleiro | F | 17 | 978 | 2 | 5 | 22 | 1,3 | 8 | 0,5 | 11 | 5 | 0,3 | 3 | 0 |
+| S. Mouriño | D | 14 | 945 | 2 | 0 | 7 | 0,5 | 5 | 0,4 | 23 | 9 | 0,6 | 5 | 0 |
+| T. Buchanan | M | 14 | 936 | 2 | 0 | 27 | 1,9 | 11 | 0,8 | 13 | 30 | 2,1 | 3 | 0 |
+| A. Freeman | D | 16 | 891 | 1 | 0 | 4 | 0,2 | 2 | 0,1 | 6 | 13 | 0,8 | 2 | 0 |
+| Pau Navarro | D | 11 | 796 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 10 | 3 | 0,3 | 2 | 1 |
+| Ayoze Pérez | F | 16 | 767 | 1 | 5 | 16 | 1,0 | 9 | 0,6 | 10 | 15 | 0,9 | 1 | 0 |
+| Carlos Romero | D | 11 | 760 | 1 | 0 | 6 | 0,5 | 2 | 0,2 | 4 | 9 | 0,8 | 2 | 0 |
+| Sergi Cardona | D | 12 | 726 | 1 | 1 | 5 | 0,4 | 2 | 0,2 | 14 | 14 | 1,2 | 3 | 0 |
+| N. Pépé | F | 11 | 599 | 2 | 1 | 15 | 1,4 | 9 | 0,8 | 2 | 6 | 0,5 | 1 | 0 |
 | N. Saliba | M | 10 | 554 | 0 | 1 | 6 | 0,6 | 1 | 0,1 | 11 | 10 | 1,0 | 1 | 0 |
 | J. Foyth | D | 8 | 539 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 5 | 3 | 0,4 | 3 | 0 |
 | Gerard Moreno | F | 13 | 522 | 2 | 1 | 11 | 0,8 | 3 | 0,2 | 6 | 4 | 0,3 | 0 | 0 |
-| C. Macia | M | 9 | 463 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 4 | 0,4 | 1 | 0 |
+| C. Macia | M | 10 | 488 | 0 | 0 | 3 | 0,3 | 0 | 0,0 | 7 | 4 | 0,4 | 1 | 0 |
+| T. Oluwaseyi | M | 12 | 464 | 3 | 0 | 15 | 1,2 | 7 | 0,6 | 6 | 2 | 0,2 | 0 | 0 |
 | Luiz Júnior | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| Ilias Akhomach | M | 9 | 394 | 0 | 2 | 6 | 0,7 | 2 | 0,2 | 4 | 6 | 0,7 | 1 | 0 |

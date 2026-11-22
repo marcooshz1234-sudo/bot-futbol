@@ -1,7 +1,7 @@
 # PSV Eindhoven – GO Ahead Eagles
 **Eredivisie** · Regular Season - 14 · 28/11/2026 18:45 (hora España) · Philips Stadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -55,42 +55,42 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | PSV Eindhoven (total) | PSV Eindhoven en casa | GO Ahead Eagles (total) | GO Ahead Eagles fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 8 | 13 | 8 |
-| Forma (últimos 5) | VVDVE | DVEVV | VDVVD | VDVDE |
-| Balance | 10V 3E 4D | 4V 3E 1D | 5V 5E 3D | 2V 3E 3D |
-| Goles a favor / partido | 2,76 | 2,88 | 2,23 | 1,88 |
-| Goles en contra / partido | 1,18 | 1,00 | 2,08 | 2,38 |
-| Goles a favor 1ª parte | 1,35 | 1,12 | 0,77 | 0,75 |
-| Goles a favor 2ª parte | 1,41 | 1,75 | 1,46 | 1,12 |
-| Goles en contra 1ª parte | 0,53 | 0,62 | 0,85 | 1,00 |
-| Goles en contra 2ª parte | 0,65 | 0,38 | 1,23 | 1,38 |
-| Más de 1,5 goles | 88% | 100% | 92% | 88% |
-| Más de 2,5 goles | 71% | 62% | 77% | 75% |
-| Más de 3,5 goles | 53% | 50% | 77% | 75% |
-| Ambos marcan | 76% | 75% | 77% | 62% |
-| Portería a cero | 18% | 25% | 15% | 25% |
-| Se queda sin marcar | 6% | 0% | 8% | 12% |
-| xG a favor | 2,35 | 2,60 | 1,60 | 1,61 |
-| xG en contra | 1,39 | 1,36 | 1,56 | 1,86 |
-| Tiros / partido | 18,5 | 20,6 | 14,4 | 12,1 |
-| Tiros a puerta / partido | 6,5 | 7,0 | 5,5 | 4,6 |
-| Tiros recibidos | 11,2 | 9,0 | 16,2 | 18,9 |
-| Tiros a puerta recibidos | 4,4 | 4,5 | 5,0 | 6,1 |
+| Partidos analizados | 17 | 8 | 14 | 8 |
+| Forma (últimos 5) | VVDVE | DVEVV | DVDVV | VDVDE |
+| Balance | 10V 3E 4D | 4V 3E 1D | 5V 5E 4D | 2V 3E 3D |
+| Goles a favor / partido | 2,76 | 2,88 | 2,07 | 1,88 |
+| Goles en contra / partido | 1,18 | 1,00 | 2,00 | 2,38 |
+| Goles a favor 1ª parte | 1,35 | 1,12 | 0,71 | 0,75 |
+| Goles a favor 2ª parte | 1,41 | 1,75 | 1,36 | 1,12 |
+| Goles en contra 1ª parte | 0,53 | 0,62 | 0,79 | 1,00 |
+| Goles en contra 2ª parte | 0,65 | 0,38 | 1,21 | 1,38 |
+| Más de 1,5 goles | 88% | 100% | 86% | 88% |
+| Más de 2,5 goles | 71% | 62% | 71% | 75% |
+| Más de 3,5 goles | 53% | 50% | 71% | 75% |
+| Ambos marcan | 76% | 75% | 71% | 62% |
+| Portería a cero | 18% | 25% | 14% | 25% |
+| Se queda sin marcar | 6% | 0% | 14% | 12% |
+| xG a favor | 2,35 | 2,60 | 1,57 | 1,61 |
+| xG en contra | 1,39 | 1,36 | 1,54 | 1,86 |
+| Tiros / partido | 18,5 | 20,6 | 14,9 | 12,1 |
+| Tiros a puerta / partido | 6,5 | 7,0 | 5,8 | 4,6 |
+| Tiros recibidos | 11,2 | 9,0 | 15,9 | 18,9 |
+| Tiros a puerta recibidos | 4,4 | 4,5 | 4,8 | 6,1 |
 | Posesión media % | 60 | 63 | 54 | 51 |
-| Córners a favor | 6,2 | 7,4 | 5,2 | 4,3 |
-| Córners en contra | 3,2 | 3,6 | 4,8 | 6,4 |
-| Córners a favor 1ª parte | 2,9 | 3,5 | 1,6 | 1,0 |
-| Córners a favor 2ª parte | 3,3 | 3,9 | 3,7 | 3,3 |
-| Córners totales del partido | 9,4 | 11,0 | 10,1 | 10,7 |
-| Córners totales 1ª parte | 4,2 | 4,9 | 3,5 | 3,3 |
-| Córners totales 2ª parte | 5,2 | 6,1 | 6,6 | 7,4 |
-| Más de 8,5 córners | 59% | 88% | 67% | 86% |
-| Más de 9,5 córners | 53% | 75% | 50% | 71% |
-| Más de 10,5 córners | 47% | 62% | 50% | 71% |
-| Faltas cometidas | 10,6 | 10,5 | 7,8 | 7,4 |
-| Faltas recibidas | 9,8 | 7,8 | 9,2 | 8,4 |
-| Amarillas propias | 1,8 | 1,4 | 0,8 | 0,7 |
-| Amarillas del rival | 2,3 | 2,4 | 1,0 | 0,7 |
+| Córners a favor | 6,2 | 7,4 | 5,8 | 4,3 |
+| Córners en contra | 3,2 | 3,6 | 4,5 | 6,4 |
+| Córners a favor 1ª parte | 2,9 | 3,5 | 2,1 | 1,0 |
+| Córners a favor 2ª parte | 3,3 | 3,9 | 3,8 | 3,3 |
+| Córners totales del partido | 9,4 | 11,0 | 10,4 | 10,7 |
+| Córners totales 1ª parte | 4,2 | 4,9 | 3,9 | 3,3 |
+| Córners totales 2ª parte | 5,2 | 6,1 | 6,5 | 7,4 |
+| Más de 8,5 córners | 59% | 88% | 69% | 86% |
+| Más de 9,5 córners | 53% | 75% | 54% | 71% |
+| Más de 10,5 córners | 47% | 62% | 54% | 71% |
+| Faltas cometidas | 10,6 | 10,5 | 8,2 | 7,4 |
+| Faltas recibidas | 9,8 | 7,8 | 9,8 | 8,4 |
+| Amarillas propias | 1,8 | 1,4 | 0,9 | 0,7 |
+| Amarillas del rival | 2,3 | 2,4 | 1,1 | 0,7 |
 | Rojas / partido | 0,06 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -99,9 +99,9 @@ _Actualizadas: 22/11 00:15_
 | 1-15' | 7 | 4 | 2 | 2 | 5 | 0 |
 | 16-30' | 9 | 2 | 3 | 4 | 1 | 1 |
 | 31-45' | 7 | 3 | 7 | 4 | 5 | 3 |
-| 46-60' | 9 | 3 | 4 | 4 | 4 | 1 |
-| 61-75' | 5 | 3 | 10 | 10 | 4 | 1 |
-| 76-90' | 10 | 5 | 5 | 5 | 8 | 4 |
+| 46-60' | 9 | 3 | 4 | 4 | 5 | 1 |
+| 61-75' | 5 | 3 | 10 | 10 | 4 | 2 |
+| 76-90' | 10 | 5 | 5 | 5 | 8 | 5 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -153,33 +153,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de GO Ahead Eagles
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Eredivisie | GO Ahead Eagles 0-1 Fortuna Sittard | casa | 13-1 | 21 (10) - 12 (2) | 2-2 |
 | 2026-11-07 | Eredivisie | Excelsior 0-1 GO Ahead Eagles | fuera | 0-7 | 6 (2) - 14 (2) | 1-1 |
 | 2026-10-31 | Eredivisie | Cambuur 4-0 GO Ahead Eagles | fuera | 2-7 | 10 (1) - 15 (7) | 1-2 |
 | 2026-10-27 | KNVB Beker | Koninklijke HFC 0-5 GO Ahead Eagles | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-23 | Eredivisie | GO Ahead Eagles 3-2 Telstar | casa | 4-2 | 16 (7) - 12 (3) | 1-1 |
 | 2026-10-18 | Eredivisie | PEC Zwolle 4-1 GO Ahead Eagles | fuera | 6-5 | 18 (6) - 19 (9) | 0-0 |
-| 2026-10-10 | Eredivisie | GO Ahead Eagles 3-3 Sparta Rotterdam | casa | 9-6 | 17 (6) - 18 (8) | 0-3 |
 
 ## Jugadores de GO Ahead Eagles
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| J. Kramer | D | 12 | 1080 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 15 | 11 | 0,9 | 1 | 0 |
-| S. Tengstedt | M | 12 | 1016 | 9 | 2 | 31 | 2,6 | 17 | 1,4 | 7 | 18 | 1,5 | 1 | 0 |
-| M. Suray | M | 12 | 998 | 3 | 4 | 17 | 1,4 | 6 | 0,5 | 13 | 10 | 0,8 | 0 | 0 |
-| V. Edvardsen | F | 12 | 959 | 3 | 2 | 17 | 1,4 | 11 | 0,9 | 7 | 0 | 0,0 | 0 | 0 |
-| A. Sampsted | D | 12 | 956 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 5 | 8 | 0,7 | 0 | 0 |
-| M. Meulensteen | M | 11 | 955 | 1 | 2 | 10 | 0,9 | 5 | 0,5 | 10 | 17 | 1,5 | 0 | 0 |
+| J. Kramer | D | 13 | 1170 | 0 | 0 | 3 | 0,2 | 1 | 0,1 | 18 | 11 | 0,8 | 2 | 0 |
+| S. Tengstedt | M | 13 | 1106 | 9 | 2 | 38 | 2,9 | 21 | 1,6 | 9 | 19 | 1,5 | 1 | 0 |
+| M. Suray | M | 13 | 1083 | 3 | 4 | 20 | 1,5 | 7 | 0,5 | 13 | 11 | 0,8 | 0 | 0 |
+| V. Edvardsen | M | 13 | 1049 | 3 | 2 | 18 | 1,4 | 12 | 0,9 | 8 | 0 | 0,0 | 0 | 0 |
+| M. Meulensteen | M | 12 | 1045 | 1 | 2 | 13 | 1,1 | 7 | 0,6 | 11 | 20 | 1,7 | 0 | 0 |
+| A. Sampsted | D | 13 | 1023 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 5 | 9 | 0,7 | 0 | 0 |
 | K. Haug | G | 10 | 900 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | E. Linthorst | M | 11 | 842 | 1 | 1 | 5 | 0,5 | 3 | 0,3 | 4 | 4 | 0,4 | 0 | 0 |
+| J. Dirksen | D | 10 | 825 | 1 | 0 | 6 | 0,6 | 2 | 0,2 | 5 | 5 | 0,5 | 3 | 0 |
 | D. James | D | 11 | 809 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 5 | 8 | 0,7 | 1 | 0 |
-| J. Dirksen | D | 9 | 748 | 1 | 0 | 5 | 0,6 | 2 | 0,2 | 5 | 4 | 0,4 | 3 | 0 |
-| S. Sigurðarson | F | 12 | 678 | 4 | 1 | 25 | 2,1 | 8 | 0,7 | 2 | 7 | 0,6 | 0 | 0 |
+| S. Sigurðarson | F | 13 | 756 | 4 | 1 | 28 | 2,2 | 9 | 0,7 | 4 | 12 | 0,9 | 0 | 0 |
+| T. Baeten | D | 13 | 385 | 0 | 0 | 11 | 0,8 | 4 | 0,3 | 8 | 9 | 0,7 | 2 | 0 |
+| Y. Rahmouni | M | 10 | 366 | 0 | 0 | 6 | 0,6 | 1 | 0,1 | 5 | 1 | 0,1 | 1 | 0 |
 | G. van Zwam | D | 7 | 319 | 0 | 0 | 3 | 0,4 | 1 | 0,1 | 1 | 2 | 0,3 | 0 | 0 |
-| T. Baeten | M | 12 | 308 | 0 | 0 | 11 | 0,9 | 4 | 0,3 | 7 | 8 | 0,7 | 2 | 0 |
-| E. Flataker | F | 8 | 277 | 1 | 0 | 6 | 0,8 | 3 | 0,4 | 3 | 2 | 0,2 | 0 | 0 |
-| Y. Rahmouni | M | 9 | 276 | 0 | 0 | 4 | 0,4 | 1 | 0,1 | 4 | 0 | 0,0 | 1 | 0 |
-| O. Sivertsen | F | 10 | 236 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 3 | 2 | 0,2 | 0 | 0 |
-| Tomas Galvez | D | 5 | 199 | 0 | 1 | 1 | 0,2 | 1 | 0,2 | 1 | 1 | 0,2 | 1 | 0 |
-| J. Cillessen | G | 2 | 180 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 1,0 | 0 | 0 |
+| E. Flataker | F | 9 | 289 | 1 | 0 | 6 | 0,7 | 3 | 0,3 | 3 | 2 | 0,2 | 0 | 0 |
+| J. Cillessen | G | 3 | 270 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 2 | 0,7 | 0 | 0 |
+| O. Sivertsen | F | 11 | 259 | 0 | 1 | 2 | 0,2 | 1 | 0,1 | 3 | 3 | 0,3 | 0 | 0 |
+| Tomas Galvez | D | 6 | 212 | 0 | 1 | 2 | 0,3 | 2 | 0,3 | 1 | 1 | 0,2 | 1 | 0 |
 | R. Margaret | F | 4 | 63 | 0 | 0 | 2 | 0,5 | 1 | 0,2 | 0 | 0 | 0,0 | 0 | 0 |
 | Eus Waayers | D | 1 | 31 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 1 | 0 | 0,0 | 0 | 0 |

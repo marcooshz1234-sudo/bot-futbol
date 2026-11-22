@@ -1,7 +1,7 @@
 # Moreirense – Santa Clara
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España) · Parque Joaquim de Almeida Freitas
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:44_

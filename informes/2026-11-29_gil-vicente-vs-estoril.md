@@ -1,7 +1,7 @@
 # GIL Vicente – Estoril
 **Primeira Liga** · Regular Season - 12 · 29/11/2026 19:00 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:44_
@@ -58,21 +58,21 @@ _Actualizadas: 22/11 07:44_
 ## Estadísticas de equipo
 | | GIL Vicente (total) | GIL Vicente en casa | Estoril (total) | Estoril fuera |
 |---|---|---|---|---|
-| Partidos analizados | 12 | 6 | 12 | 6 |
-| Forma (últimos 5) | VEDVV | EDEDV | DDDED | DEDDD |
-| Balance | 6V 3E 3D | 2V 2E 2D | 0V 3E 9D | 0V 1E 5D |
-| Goles a favor / partido | 1,08 | 0,67 | 0,67 | 0,50 |
-| Goles en contra / partido | 0,83 | 0,50 | 1,92 | 2,00 |
-| Goles a favor 1ª parte | 0,33 | 0,50 | 0,00 | 0,00 |
-| Goles a favor 2ª parte | 0,75 | 0,17 | 0,67 | 0,50 |
-| Goles en contra 1ª parte | 0,33 | 0,17 | 0,75 | 0,50 |
-| Goles en contra 2ª parte | 0,50 | 0,33 | 1,17 | 1,50 |
-| Más de 1,5 goles | 50% | 33% | 83% | 83% |
-| Más de 2,5 goles | 33% | 0% | 50% | 50% |
-| Más de 3,5 goles | 17% | 0% | 25% | 17% |
-| Ambos marcan | 42% | 17% | 58% | 50% |
-| Portería a cero | 42% | 50% | 8% | 0% |
-| Se queda sin marcar | 33% | 50% | 42% | 50% |
+| Partidos analizados | 13 | 7 | 12 | 6 |
+| Forma (últimos 5) | VVEDV | VEDED | DDDED | DEDDD |
+| Balance | 7V 3E 3D | 3V 2E 2D | 0V 3E 9D | 0V 1E 5D |
+| Goles a favor / partido | 1,23 | 1,00 | 0,67 | 0,50 |
+| Goles en contra / partido | 0,85 | 0,57 | 1,92 | 2,00 |
+| Goles a favor 1ª parte | 0,38 | 0,57 | 0,00 | 0,00 |
+| Goles a favor 2ª parte | 0,85 | 0,43 | 0,67 | 0,50 |
+| Goles en contra 1ª parte | 0,38 | 0,29 | 0,75 | 0,50 |
+| Goles en contra 2ª parte | 0,46 | 0,29 | 1,17 | 1,50 |
+| Más de 1,5 goles | 54% | 43% | 83% | 83% |
+| Más de 2,5 goles | 38% | 14% | 50% | 50% |
+| Más de 3,5 goles | 23% | 14% | 25% | 17% |
+| Ambos marcan | 46% | 29% | 58% | 50% |
+| Portería a cero | 38% | 43% | 8% | 0% |
+| Se queda sin marcar | 31% | 43% | 42% | 50% |
 | xG a favor | 1,21 | 1,27 | 1,01 | 0,79 |
 | xG en contra | 0,92 | 0,62 | 1,65 | 1,94 |
 | Tiros / partido | 13,4 | 15,5 | 13,7 | 9,4 |
@@ -100,10 +100,10 @@ _Actualizadas: 22/11 07:44_
 | Tramo | Goles GIL Vicente | Recibe GIL Vicente | Tarjetas GIL Vicente | Goles Estoril | Recibe Estoril | Tarjetas Estoril |
 |---|---|---|---|---|---|---|
 | 1-15' | 2 | 1 | 1 | 0 | 4 | 1 |
-| 16-30' | 1 | 2 | 4 | 0 | 2 | 5 |
-| 31-45' | 1 | 1 | 5 | 0 | 3 | 7 |
-| 46-60' | 3 | 2 | 6 | 3 | 2 | 1 |
-| 61-75' | 1 | 1 | 4 | 2 | 6 | 7 |
+| 16-30' | 2 | 2 | 4 | 0 | 2 | 5 |
+| 31-45' | 1 | 2 | 6 | 0 | 3 | 7 |
+| 46-60' | 5 | 2 | 6 | 3 | 2 | 1 |
+| 61-75' | 1 | 1 | 5 | 2 | 6 | 7 |
 | 76-90' | 5 | 3 | 7 | 3 | 6 | 11 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -122,12 +122,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de GIL Vicente
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Taça de Portugal | GIL Vicente 3-1 Olhanense | casa | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Primeira Liga | Santa Clara 1-2 GIL Vicente | fuera | 9-1 | 20 (4) - 9 (0) | 2-4 |
 | 2026-11-02 | Primeira Liga | GIL Vicente 0-0 Vitória SC | casa | 2-3 | 10 (1) - 11 (2) | 2-1 |
 | 2026-10-24 | Primeira Liga | GIL Vicente 0-1 FC Porto | casa | 3-8 | 10 (2) - 12 (4) | 0-1 |
 | 2026-10-19 | Primeira Liga | SC Braga 1-2 GIL Vicente | fuera | 1-4 | 10 (4) - 18 (6) | 3-3 |
 | 2026-10-14 | Taça de Portugal | União Santarém 2-3 GIL Vicente | fuera | –-– | – (–) - – (–) | –-– |
-| 2026-10-09 | Primeira Liga | Moreirense 0-1 GIL Vicente | fuera | 3-4 | 13 (3) - 12 (2) | 4-3 |
 
 ## Jugadores de GIL Vicente
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |

@@ -1,7 +1,7 @@
 # Blackburn – Charlton
 **Championship** · Regular Season - 18 · 28/11/2026 13:30 (hora España) · Ewood Park
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:43_
@@ -59,53 +59,53 @@ _Actualizadas: 22/11 07:43_
 ## Estadísticas de equipo
 | | Blackburn (total) | Blackburn en casa | Charlton (total) | Charlton fuera |
 |---|---|---|---|---|
-| Partidos analizados | 17 | 9 | 18 | 10 |
-| Forma (últimos 5) | VDDVD | VDVVV | DVDDD | DDDED |
-| Balance | 7V 3E 7D | 5V 0E 4D | 5V 5E 8D | 2V 2E 6D |
-| Goles a favor / partido | 1,47 | 1,67 | 1,00 | 1,10 |
-| Goles en contra / partido | 1,53 | 1,33 | 1,72 | 2,40 |
-| Goles a favor 1ª parte | 0,59 | 0,56 | 0,44 | 0,50 |
-| Goles a favor 2ª parte | 0,88 | 1,11 | 0,56 | 0,60 |
-| Goles en contra 1ª parte | 0,82 | 0,56 | 0,89 | 1,10 |
-| Goles en contra 2ª parte | 0,71 | 0,78 | 0,83 | 1,30 |
-| Más de 1,5 goles | 88% | 100% | 78% | 100% |
-| Más de 2,5 goles | 82% | 89% | 61% | 80% |
-| Más de 3,5 goles | 29% | 11% | 33% | 50% |
-| Ambos marcan | 76% | 89% | 61% | 70% |
-| Portería a cero | 18% | 11% | 17% | 0% |
-| Se queda sin marcar | 12% | 0% | 33% | 30% |
-| xG a favor | 1,05 | 1,45 | 0,92 | 0,87 |
-| xG en contra | 1,69 | 1,25 | 1,61 | 2,08 |
+| Partidos analizados | 18 | 9 | 18 | 10 |
+| Forma (últimos 5) | EVDDV | VDVVV | DVDDD | DDDED |
+| Balance | 7V 4E 7D | 5V 0E 4D | 5V 5E 8D | 2V 2E 6D |
+| Goles a favor / partido | 1,50 | 1,67 | 1,00 | 1,10 |
+| Goles en contra / partido | 1,56 | 1,33 | 1,72 | 2,40 |
+| Goles a favor 1ª parte | 0,61 | 0,56 | 0,44 | 0,50 |
+| Goles a favor 2ª parte | 0,89 | 1,11 | 0,56 | 0,60 |
+| Goles en contra 1ª parte | 0,83 | 0,56 | 0,89 | 1,10 |
+| Goles en contra 2ª parte | 0,72 | 0,78 | 0,83 | 1,30 |
+| Más de 1,5 goles | 89% | 100% | 78% | 100% |
+| Más de 2,5 goles | 83% | 89% | 61% | 80% |
+| Más de 3,5 goles | 33% | 11% | 33% | 50% |
+| Ambos marcan | 78% | 89% | 61% | 70% |
+| Portería a cero | 17% | 11% | 17% | 0% |
+| Se queda sin marcar | 11% | 0% | 33% | 30% |
+| xG a favor | 1,09 | 1,45 | 0,92 | 0,87 |
+| xG en contra | 1,64 | 1,25 | 1,61 | 2,08 |
 | Tiros / partido | 11,8 | 12,9 | 9,8 | 8,6 |
-| Tiros a puerta / partido | 4,1 | 4,4 | 3,1 | 3,5 |
-| Tiros recibidos | 17,2 | 16,0 | 16,1 | 18,6 |
+| Tiros a puerta / partido | 4,0 | 4,4 | 3,1 | 3,5 |
+| Tiros recibidos | 16,9 | 16,0 | 16,1 | 18,6 |
 | Tiros a puerta recibidos | 4,2 | 3,3 | 5,2 | 6,5 |
 | Posesión media % | 48 | 47 | 43 | 40 |
-| Córners a favor | 6,0 | 5,8 | 4,3 | 4,0 |
-| Córners en contra | 5,8 | 5,8 | 6,2 | 6,5 |
-| Córners a favor 1ª parte | 2,9 | 2,9 | 2,1 | 2,0 |
-| Córners a favor 2ª parte | 3,1 | 2,9 | 2,2 | 2,0 |
-| Córners totales del partido | 11,8 | 11,6 | 10,4 | 10,5 |
+| Córners a favor | 5,8 | 5,8 | 4,3 | 4,0 |
+| Córners en contra | 5,7 | 5,8 | 6,2 | 6,5 |
+| Córners a favor 1ª parte | 2,8 | 2,9 | 2,1 | 2,0 |
+| Córners a favor 2ª parte | 3,0 | 2,9 | 2,2 | 2,0 |
+| Córners totales del partido | 11,5 | 11,6 | 10,4 | 10,5 |
 | Córners totales 1ª parte | 5,6 | 5,3 | 4,8 | 4,9 |
-| Córners totales 2ª parte | 6,2 | 6,2 | 5,6 | 5,6 |
-| Más de 8,5 córners | 88% | 89% | 67% | 60% |
-| Más de 9,5 córners | 82% | 78% | 61% | 60% |
-| Más de 10,5 córners | 65% | 56% | 50% | 60% |
-| Faltas cometidas | 11,6 | 11,1 | 12,6 | 13,8 |
-| Faltas recibidas | 10,9 | 10,9 | 10,6 | 9,1 |
-| Amarillas propias | 2,2 | 2,6 | 1,9 | 2,1 |
-| Amarillas del rival | 1,6 | 1,8 | 1,8 | 2,0 |
+| Córners totales 2ª parte | 5,9 | 6,2 | 5,6 | 5,6 |
+| Más de 8,5 córners | 83% | 89% | 67% | 60% |
+| Más de 9,5 córners | 78% | 78% | 61% | 60% |
+| Más de 10,5 córners | 61% | 56% | 50% | 60% |
+| Faltas cometidas | 11,8 | 11,1 | 12,6 | 13,8 |
+| Faltas recibidas | 11,2 | 10,9 | 10,6 | 9,1 |
+| Amarillas propias | 2,3 | 2,6 | 1,9 | 2,1 |
+| Amarillas del rival | 1,8 | 1,8 | 1,8 | 2,0 |
 | Rojas / partido | 0,06 | 0,00 | 0,06 | 0,10 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Blackburn | Recibe Blackburn | Tarjetas Blackburn | Goles Charlton | Recibe Charlton | Tarjetas Charlton |
 |---|---|---|---|---|---|---|
 | 1-15' | 3 | 5 | 2 | 4 | 3 | 2 |
-| 16-30' | 3 | 4 | 5 | 3 | 7 | 2 |
-| 31-45' | 4 | 5 | 11 | 1 | 6 | 9 |
-| 46-60' | 9 | 4 | 4 | 3 | 7 | 7 |
-| 61-75' | 1 | 4 | 6 | 2 | 3 | 5 |
-| 76-90' | 5 | 4 | 11 | 5 | 5 | 10 |
+| 16-30' | 3 | 5 | 5 | 3 | 7 | 2 |
+| 31-45' | 5 | 5 | 11 | 1 | 6 | 9 |
+| 46-60' | 9 | 5 | 5 | 3 | 7 | 7 |
+| 61-75' | 2 | 4 | 7 | 2 | 3 | 5 |
+| 76-90' | 5 | 4 | 12 | 5 | 5 | 10 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -123,36 +123,36 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Blackburn
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Championship | Burnley 2-2 Blackburn | fuera | 2-4 | 12 (3) - 12 (4) | 3-4 |
 | 2026-11-07 | Championship | Blackburn 2-1 West Ham | casa | 4-9 | 5 (3) - 20 (5) | 3-2 |
 | 2026-11-03 | Championship | Blackburn 1-2 Stoke City | casa | 6-5 | 14 (3) - 11 (3) | 3-4 |
 | 2026-10-31 | Championship | Swansea 4-0 Blackburn | fuera | 2-1 | 7 (2) - 20 (9) | 1-0 |
 | 2026-10-24 | Championship | Blackburn 2-0 Wrexham | casa | 7-9 | 16 (5) - 24 (1) | 3-2 |
 | 2026-10-17 | Championship | West Brom 3-2 Blackburn | fuera | 4-8 | 10 (2) - 25 (4) | 3-2 |
-| 2026-10-13 | Championship | Bristol City 0-1 Blackburn | fuera | 5-10 | 3 (1) - 20 (7) | –-– |
 
 ## Jugadores de Blackburn
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| S. McLoughlin | D | 17 | 1530 | 1 | 1 | 6 | 0,4 | 1 | 0,1 | 11 | 14 | 0,8 | 2 | 0 |
-| T. Cantwell | M | 17 | 1347 | 2 | 2 | 26 | 1,5 | 14 | 0,8 | 17 | 20 | 1,2 | 5 | 0 |
-| O. Afolayan | M | 17 | 1256 | 6 | 2 | 31 | 1,8 | 14 | 0,8 | 33 | 35 | 2,1 | 2 | 0 |
+| S. McLoughlin | D | 18 | 1620 | 1 | 2 | 7 | 0,4 | 1 | 0,1 | 12 | 14 | 0,8 | 3 | 0 |
+| T. Cantwell | M | 18 | 1436 | 3 | 2 | 28 | 1,6 | 15 | 0,8 | 17 | 22 | 1,2 | 5 | 0 |
+| O. Afolayan | M | 18 | 1341 | 6 | 2 | 31 | 1,7 | 14 | 0,8 | 36 | 37 | 2,1 | 2 | 0 |
+| Kristi Montgomery | M | 17 | 1336 | 1 | 1 | 5 | 0,3 | 2 | 0,1 | 20 | 12 | 0,7 | 3 | 0 |
 | R. Alebiosu | D | 15 | 1255 | 0 | 1 | 7 | 0,5 | 2 | 0,1 | 7 | 4 | 0,3 | 0 | 0 |
-| Kristi Montgomery | M | 16 | 1246 | 1 | 1 | 4 | 0,2 | 2 | 0,1 | 18 | 10 | 0,6 | 3 | 0 |
 | B. Tóth | G | 13 | 1170 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 6 | 0,5 | 0 | 0 |
 | Sam Morsy | M | 15 | 1120 | 0 | 1 | 6 | 0,4 | 2 | 0,1 | 19 | 12 | 0,8 | 5 | 0 |
-| H. Pickering | D | 13 | 1020 | 0 | 2 | 2 | 0,2 | 0 | 0,0 | 9 | 10 | 0,8 | 3 | 0 |
-| R. Morishita | M | 13 | 1013 | 2 | 3 | 10 | 0,8 | 6 | 0,5 | 7 | 11 | 0,8 | 0 | 0 |
-| A. Guðjohnsen | F | 15 | 969 | 11 | 1 | 20 | 1,3 | 13 | 0,9 | 14 | 14 | 0,9 | 3 | 0 |
-| Tom Atcheson | D | 11 | 903 | 0 | 1 | 4 | 0,4 | 0 | 0,0 | 9 | 4 | 0,4 | 3 | 1 |
-| H. Carter | D | 12 | 818 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 2 | 1 | 0,1 | 2 | 0 |
-| J. Fevrier | M | 17 | 703 | 1 | 2 | 21 | 1,2 | 6 | 0,4 | 9 | 10 | 0,6 | 1 | 0 |
+| H. Pickering | M | 14 | 1110 | 0 | 2 | 2 | 0,1 | 0 | 0,0 | 10 | 11 | 0,8 | 3 | 0 |
+| A. Guðjohnsen | F | 16 | 1059 | 12 | 1 | 24 | 1,5 | 14 | 0,9 | 14 | 17 | 1,1 | 3 | 0 |
+| R. Morishita | M | 14 | 1033 | 2 | 3 | 11 | 0,8 | 6 | 0,4 | 7 | 12 | 0,9 | 0 | 0 |
+| Tom Atcheson | D | 12 | 911 | 0 | 1 | 4 | 0,3 | 0 | 0,0 | 9 | 4 | 0,3 | 3 | 1 |
+| H. Carter | D | 13 | 908 | 0 | 0 | 6 | 0,5 | 0 | 0,0 | 4 | 1 | 0,1 | 3 | 0 |
+| J. Fevrier | F | 18 | 765 | 1 | 2 | 23 | 1,3 | 7 | 0,4 | 10 | 11 | 0,6 | 1 | 0 |
+| A. Pears | G | 5 | 450 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
 | Yuri Ribeiro | D | 8 | 412 | 0 | 0 | 1 | 0,1 | 0 | 0,0 | 5 | 5 | 0,6 | 1 | 0 |
-| Aynsley Pears | G | 4 | 360 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,2 | 0 | 0 |
-| M. Baradji | M | 8 | 304 | 0 | 0 | 4 | 0,5 | 2 | 0,2 | 8 | 5 | 0,6 | 1 | 0 |
+| M. Baradji | M | 9 | 394 | 0 | 0 | 5 | 0,6 | 2 | 0,2 | 9 | 6 | 0,7 | 1 | 0 |
+| Gady Beyuku | M | 6 | 351 | 0 | 0 | 4 | 0,7 | 0 | 0,0 | 8 | 6 | 1,0 | 3 | 0 |
 | A. Forshaw | M | 6 | 294 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 4 | 4 | 0,7 | 2 | 0 |
-| Gady Beyuku | D | 5 | 261 | 0 | 0 | 4 | 0,8 | 0 | 0,0 | 5 | 4 | 0,8 | 2 | 0 |
 | J. Garrett | M | 8 | 227 | 0 | 0 | 1 | 0,1 | 1 | 0,1 | 6 | 4 | 0,5 | 1 | 0 |
-| Y. Ohashi | F | 7 | 159 | 0 | 1 | 3 | 0,4 | 2 | 0,3 | 8 | 5 | 0,7 | 0 | 0 |
+| Y. Ohashi | F | 8 | 164 | 0 | 1 | 3 | 0,4 | 2 | 0,2 | 9 | 6 | 0,8 | 0 | 0 |
 
 ## Últimos partidos de Charlton
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |

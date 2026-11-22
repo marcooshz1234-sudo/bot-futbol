@@ -1,7 +1,7 @@
 # Deportivo La Coruna – Barcelona
 **LaLiga** · Regular Season - 14 · 29/11/2026 16:15 (hora España) · Estadio Municipal de Riazor
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:15_
@@ -55,53 +55,53 @@ _Actualizadas: 22/11 00:15_
 ## Estadísticas de equipo
 | | Deportivo La Coruna (total) | Deportivo La Coruna en casa | Barcelona (total) | Barcelona fuera |
 |---|---|---|---|---|
-| Partidos analizados | 14 | 6 | 16 | 8 |
-| Forma (últimos 5) | DEVVD | VEEDV | VVVDD | VDVVV |
-| Balance | 4V 6E 4D | 2V 3E 1D | 14V 0E 2D | 7V 0E 1D |
-| Goles a favor / partido | 1,36 | 1,33 | 3,88 | 3,75 |
-| Goles en contra / partido | 1,21 | 1,00 | 1,19 | 1,38 |
-| Goles a favor 1ª parte | 0,50 | 0,50 | 1,69 | 1,38 |
-| Goles a favor 2ª parte | 0,86 | 0,83 | 2,19 | 2,38 |
-| Goles en contra 1ª parte | 0,57 | 0,50 | 0,50 | 0,62 |
-| Goles en contra 2ª parte | 0,64 | 0,50 | 0,69 | 0,75 |
+| Partidos analizados | 14 | 6 | 17 | 8 |
+| Forma (últimos 5) | DEVVD | VEEDV | VVVVD | VDVVV |
+| Balance | 4V 6E 4D | 2V 3E 1D | 15V 0E 2D | 7V 0E 1D |
+| Goles a favor / partido | 1,36 | 1,33 | 3,82 | 3,75 |
+| Goles en contra / partido | 1,21 | 1,00 | 1,24 | 1,38 |
+| Goles a favor 1ª parte | 0,50 | 0,50 | 1,59 | 1,38 |
+| Goles a favor 2ª parte | 0,86 | 0,83 | 2,24 | 2,38 |
+| Goles en contra 1ª parte | 0,57 | 0,50 | 0,59 | 0,62 |
+| Goles en contra 2ª parte | 0,64 | 0,50 | 0,65 | 0,75 |
 | Más de 1,5 goles | 79% | 83% | 100% | 100% |
 | Más de 2,5 goles | 43% | 33% | 94% | 100% |
-| Más de 3,5 goles | 29% | 17% | 69% | 88% |
-| Ambos marcan | 71% | 83% | 69% | 75% |
-| Portería a cero | 14% | 0% | 31% | 25% |
+| Más de 3,5 goles | 29% | 17% | 71% | 88% |
+| Ambos marcan | 71% | 83% | 71% | 75% |
+| Portería a cero | 14% | 0% | 29% | 25% |
 | Se queda sin marcar | 21% | 17% | 0% | 0% |
-| xG a favor | 1,15 | 1,25 | 3,06 | 3,04 |
-| xG en contra | 1,30 | 1,02 | 1,17 | 1,39 |
-| Tiros / partido | 11,5 | 13,0 | 20,1 | 18,6 |
+| xG a favor | 1,15 | 1,25 | 3,07 | 3,04 |
+| xG en contra | 1,30 | 1,02 | 1,11 | 1,39 |
+| Tiros / partido | 11,5 | 13,0 | 20,6 | 18,6 |
 | Tiros a puerta / partido | 4,2 | 4,8 | 7,9 | 7,5 |
-| Tiros recibidos | 13,5 | 11,2 | 7,9 | 9,0 |
-| Tiros a puerta recibidos | 4,4 | 4,3 | 3,8 | 5,0 |
+| Tiros recibidos | 13,5 | 11,2 | 7,7 | 9,0 |
+| Tiros a puerta recibidos | 4,4 | 4,3 | 3,6 | 5,0 |
 | Posesión media % | 48 | 48 | 68 | 66 |
-| Córners a favor | 5,1 | 5,5 | 5,9 | 3,6 |
-| Córners en contra | 5,5 | 4,5 | 2,9 | 2,1 |
-| Córners a favor 1ª parte | 2,0 | 2,0 | 3,1 | 1,5 |
+| Córners a favor | 5,1 | 5,5 | 6,2 | 3,6 |
+| Córners en contra | 5,5 | 4,5 | 2,8 | 2,1 |
+| Córners a favor 1ª parte | 2,0 | 2,0 | 3,2 | 1,5 |
 | Córners a favor 2ª parte | 3,1 | 3,5 | 2,9 | 2,1 |
 | Córners totales del partido | 10,5 | 10,0 | 8,9 | 5,8 |
-| Córners totales 1ª parte | 4,7 | 4,7 | 4,7 | 2,9 |
+| Córners totales 1ª parte | 4,7 | 4,7 | 4,8 | 2,9 |
 | Córners totales 2ª parte | 5,8 | 5,3 | 4,2 | 2,9 |
-| Más de 8,5 córners | 62% | 50% | 38% | 0% |
-| Más de 9,5 córners | 62% | 50% | 38% | 0% |
-| Más de 10,5 córners | 31% | 17% | 38% | 0% |
+| Más de 8,5 córners | 62% | 50% | 41% | 0% |
+| Más de 9,5 córners | 62% | 50% | 41% | 0% |
+| Más de 10,5 córners | 31% | 17% | 35% | 0% |
 | Faltas cometidas | 11,8 | 12,3 | 10,9 | 10,6 |
-| Faltas recibidas | 13,0 | 11,2 | 10,8 | 11,0 |
-| Amarillas propias | 2,2 | 1,5 | 1,3 | 1,0 |
-| Amarillas del rival | 2,5 | 2,3 | 1,9 | 1,5 |
-| Rojas / partido | 0,23 | 0,33 | 0,00 | 0,00 |
+| Faltas recibidas | 13,0 | 11,2 | 11,2 | 11,0 |
+| Amarillas propias | 2,2 | 1,5 | 1,4 | 1,0 |
+| Amarillas del rival | 2,5 | 2,3 | 2,1 | 1,5 |
+| Rojas / partido | 0,23 | 0,33 | 0,06 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
 | Tramo | Goles Deportivo La Coruna | Recibe Deportivo La Coruna | Tarjetas Deportivo La Coruna | Goles Barcelona | Recibe Barcelona | Tarjetas Barcelona |
 |---|---|---|---|---|---|---|
-| 1-15' | 1 | 1 | 2 | 9 | 2 | 0 |
+| 1-15' | 1 | 1 | 2 | 9 | 4 | 0 |
 | 16-30' | 3 | 3 | 4 | 9 | 4 | 3 |
 | 31-45' | 3 | 4 | 4 | 9 | 2 | 5 |
-| 46-60' | 2 | 3 | 4 | 10 | 2 | 6 |
-| 61-75' | 4 | 2 | 2 | 12 | 2 | 3 |
-| 76-90' | 6 | 4 | 15 | 13 | 7 | 4 |
+| 46-60' | 2 | 3 | 4 | 11 | 2 | 6 |
+| 61-75' | 4 | 2 | 2 | 14 | 2 | 5 |
+| 76-90' | 6 | 4 | 15 | 13 | 7 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -153,33 +153,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Barcelona
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | LaLiga | Barcelona 3-2 Villarreal | casa | 10-0 | 30 (9) - 4 (2) | 2-4 |
 | 2026-11-08 | LaLiga | Atletico Madrid 1-2 Barcelona | fuera | 2-4 | 19 (4) - 9 (4) | 1-3 |
 | 2026-11-03 | Champions League | Barcelona 3-0 Aston Villa | casa | 4-8 | 16 (8) - 9 (1) | 1-3 |
 | 2026-10-31 | LaLiga | Barcelona 6-1 Alaves | casa | 4-3 | 13 (7) - 7 (3) | 2-3 |
 | 2026-10-25 | LaLiga | Barcelona 1-2 Real Madrid | casa | 6-6 | 18 (6) - 10 (5) | 3-3 |
 | 2026-10-20 | Champions League | Paris Saint Germain 4-2 Barcelona | fuera | 3-2 | 18 (5) - 22 (14) | 1-0 |
-| 2026-10-17 | LaLiga | Real Betis 2-5 Barcelona | fuera | 5-2 | 18 (10) - 6 (5) | 2-3 |
 
 ## Jugadores de Barcelona
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Lamine Yamal | M | 16 | 1355 | 13 | 12 | 69 | 4,3 | 25 | 1,6 | 19 | 30 | 1,9 | 2 | 0 |
-| Joan García | G | 15 | 1305 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| Lamine Yamal | F | 17 | 1445 | 13 | 13 | 78 | 4,6 | 26 | 1,5 | 20 | 33 | 1,9 | 2 | 0 |
+| Joan García | G | 16 | 1395 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 3 | 0,2 | 0 | 0 |
+| Pedri | M | 17 | 1202 | 1 | 4 | 10 | 0,6 | 1 | 0,1 | 3 | 16 | 0,9 | 1 | 0 |
 | Pau Cubarsí Paredes | D | 13 | 1142 | 0 | 2 | 3 | 0,2 | 0 | 0,0 | 9 | 3 | 0,2 | 1 | 0 |
-| Pedri | M | 16 | 1112 | 1 | 3 | 9 | 0,6 | 1 | 0,1 | 3 | 12 | 0,8 | 1 | 0 |
-| Gerard Martín | D | 14 | 1029 | 0 | 0 | 2 | 0,1 | 1 | 0,1 | 11 | 7 | 0,5 | 1 | 0 |
-| Raphinha | F | 14 | 1014 | 19 | 3 | 37 | 2,6 | 24 | 1,7 | 6 | 8 | 0,6 | 1 | 0 |
-| Fermín | M | 15 | 1010 | 8 | 7 | 30 | 2,0 | 18 | 1,2 | 23 | 12 | 0,8 | 3 | 0 |
-| A. Gordon | M | 15 | 949 | 3 | 4 | 29 | 1,9 | 18 | 1,2 | 9 | 8 | 0,5 | 1 | 0 |
+| Gerard Martín | D | 15 | 1119 | 1 | 0 | 4 | 0,3 | 2 | 0,1 | 11 | 7 | 0,5 | 1 | 0 |
+| Raphinha | F | 15 | 1104 | 19 | 3 | 38 | 2,5 | 24 | 1,6 | 9 | 10 | 0,7 | 2 | 0 |
+| Fermín | M | 16 | 1085 | 9 | 7 | 33 | 2,1 | 20 | 1,2 | 26 | 14 | 0,9 | 3 | 1 |
+| A. Gordon | F | 16 | 971 | 3 | 4 | 31 | 1,9 | 19 | 1,2 | 9 | 9 | 0,6 | 1 | 0 |
 | Rodri | M | 14 | 945 | 1 | 1 | 5 | 0,4 | 2 | 0,1 | 10 | 11 | 0,8 | 1 | 0 |
-| João Cancelo | D | 13 | 782 | 2 | 3 | 10 | 0,8 | 4 | 0,3 | 10 | 4 | 0,3 | 3 | 0 |
+| João Cancelo | D | 14 | 872 | 2 | 3 | 13 | 0,9 | 5 | 0,4 | 11 | 5 | 0,4 | 3 | 0 |
+| Eric García | D | 11 | 777 | 1 | 0 | 7 | 0,6 | 3 | 0,3 | 5 | 3 | 0,3 | 0 | 0 |
 | X. Espart | D | 9 | 724 | 2 | 2 | 7 | 0,8 | 3 | 0,3 | 15 | 6 | 0,7 | 1 | 0 |
-| Eric García | D | 10 | 693 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 5 | 2 | 0,2 | 0 | 0 |
-| Marc Bernal | M | 14 | 585 | 0 | 2 | 6 | 0,4 | 1 | 0,1 | 13 | 8 | 0,6 | 1 | 0 |
-| K. Adeyemi | F | 15 | 546 | 4 | 2 | 23 | 1,5 | 10 | 0,7 | 7 | 17 | 1,1 | 2 | 0 |
+| Marc Bernal | M | 15 | 674 | 0 | 2 | 8 | 0,5 | 1 | 0,1 | 15 | 8 | 0,5 | 2 | 0 |
+| K. Adeyemi | F | 16 | 614 | 4 | 2 | 26 | 1,6 | 11 | 0,7 | 7 | 20 | 1,2 | 2 | 0 |
+| Dani Olmo | M | 13 | 538 | 1 | 4 | 19 | 1,5 | 9 | 0,7 | 6 | 14 | 1,1 | 2 | 0 |
 | A. Christensen | D | 8 | 522 | 0 | 1 | 2 | 0,2 | 0 | 0,0 | 8 | 2 | 0,2 | 0 | 0 |
-| Dani Olmo | M | 12 | 516 | 1 | 4 | 17 | 1,4 | 8 | 0,7 | 5 | 13 | 1,1 | 2 | 0 |
-| Jules Koundé | D | 8 | 458 | 1 | 1 | 3 | 0,4 | 2 | 0,2 | 5 | 6 | 0,8 | 0 | 0 |
+| J. Koundé | D | 9 | 464 | 1 | 1 | 3 | 0,3 | 2 | 0,2 | 5 | 6 | 0,7 | 0 | 0 |
 | Gabriel Jesus | F | 10 | 296 | 4 | 1 | 10 | 1,0 | 5 | 0,5 | 2 | 6 | 0,6 | 0 | 0 |
-| Gavi | M | 9 | 230 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 6 | 2 | 0,2 | 0 | 0 |
-| B. Farinas | D | 3 | 217 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 2 | 0 | 0,0 | 0 | 0 |
+| F. de Jong | D | 5 | 253 | 0 | 0 | 1 | 0,2 | 0 | 0,0 | 3 | 1 | 0,2 | 0 | 0 |
+| Gavi | M | 10 | 231 | 0 | 0 | 2 | 0,2 | 2 | 0,2 | 6 | 2 | 0,2 | 0 | 0 |

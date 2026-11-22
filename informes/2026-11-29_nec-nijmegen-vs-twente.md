@@ -1,7 +1,7 @@
 # NEC Nijmegen – Twente
 **Eredivisie** · Regular Season - 14 · 29/11/2026 20:00 (hora España) · Goffertstadion
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_
@@ -53,42 +53,42 @@ _Actualizadas: 22/11 00:16_
 ## Estadísticas de equipo
 | | NEC Nijmegen (total) | NEC Nijmegen en casa | Twente (total) | Twente fuera |
 |---|---|---|---|---|
-| Partidos analizados | 21 | 11 | 21 | 10 |
-| Forma (últimos 5) | DVVDE | DVEEE | EVVVV | VVVEE |
-| Balance | 6V 7E 8D | 2V 5E 4D | 12V 5E 4D | 5V 4E 1D |
-| Goles a favor / partido | 1,52 | 1,55 | 2,57 | 3,10 |
-| Goles en contra / partido | 1,95 | 2,00 | 1,10 | 1,20 |
-| Goles a favor 1ª parte | 0,52 | 0,27 | 0,90 | 1,30 |
-| Goles a favor 2ª parte | 1,00 | 1,27 | 1,67 | 1,80 |
-| Goles en contra 1ª parte | 1,14 | 1,27 | 0,52 | 0,50 |
-| Goles en contra 2ª parte | 0,81 | 0,73 | 0,57 | 0,70 |
-| Más de 1,5 goles | 90% | 100% | 81% | 90% |
-| Más de 2,5 goles | 76% | 82% | 67% | 70% |
-| Más de 3,5 goles | 57% | 64% | 57% | 70% |
-| Ambos marcan | 76% | 100% | 62% | 70% |
-| Portería a cero | 5% | 0% | 29% | 20% |
-| Se queda sin marcar | 24% | 0% | 10% | 10% |
-| xG a favor | 1,70 | 1,70 | 2,72 | 2,89 |
-| xG en contra | 1,76 | 1,52 | 0,70 | 0,66 |
-| Tiros / partido | 15,6 | 18,3 | 22,1 | 21,1 |
+| Partidos analizados | 21 | 11 | 22 | 10 |
+| Forma (últimos 5) | DVVDE | DVEEE | VEVVV | VVVEE |
+| Balance | 6V 7E 8D | 2V 5E 4D | 13V 5E 4D | 5V 4E 1D |
+| Goles a favor / partido | 1,52 | 1,55 | 2,55 | 3,10 |
+| Goles en contra / partido | 1,95 | 2,00 | 1,09 | 1,20 |
+| Goles a favor 1ª parte | 0,52 | 0,27 | 0,86 | 1,30 |
+| Goles a favor 2ª parte | 1,00 | 1,27 | 1,68 | 1,80 |
+| Goles en contra 1ª parte | 1,14 | 1,27 | 0,50 | 0,50 |
+| Goles en contra 2ª parte | 0,81 | 0,73 | 0,59 | 0,70 |
+| Más de 1,5 goles | 90% | 100% | 82% | 90% |
+| Más de 2,5 goles | 76% | 82% | 68% | 70% |
+| Más de 3,5 goles | 57% | 64% | 55% | 70% |
+| Ambos marcan | 76% | 100% | 64% | 70% |
+| Portería a cero | 5% | 0% | 27% | 20% |
+| Se queda sin marcar | 24% | 0% | 9% | 10% |
+| xG a favor | 1,70 | 1,70 | 2,71 | 2,89 |
+| xG en contra | 1,76 | 1,52 | 0,66 | 0,66 |
+| Tiros / partido | 15,6 | 18,3 | 22,4 | 21,1 |
 | Tiros a puerta / partido | 5,2 | 6,3 | 7,8 | 7,7 |
-| Tiros recibidos | 11,7 | 9,9 | 9,4 | 10,4 |
-| Tiros a puerta recibidos | 4,5 | 3,6 | 3,4 | 3,6 |
-| Posesión media % | 55 | 61 | 62 | 62 |
+| Tiros recibidos | 11,7 | 9,9 | 9,0 | 10,4 |
+| Tiros a puerta recibidos | 4,5 | 3,6 | 3,3 | 3,6 |
+| Posesión media % | 55 | 61 | 63 | 62 |
 | Córners a favor | 5,3 | 6,5 | 7,4 | 7,5 |
-| Córners en contra | 3,1 | 2,6 | 2,9 | 2,8 |
-| Córners a favor 1ª parte | 2,1 | 2,6 | 3,6 | 4,1 |
+| Córners en contra | 3,1 | 2,6 | 2,7 | 2,8 |
+| Córners a favor 1ª parte | 2,1 | 2,6 | 3,5 | 4,1 |
 | Córners a favor 2ª parte | 3,1 | 3,8 | 3,8 | 3,4 |
-| Córners totales del partido | 8,4 | 9,1 | 10,3 | 10,3 |
-| Córners totales 1ª parte | 3,7 | 3,9 | 5,0 | 5,2 |
+| Córners totales del partido | 8,4 | 9,1 | 10,1 | 10,3 |
+| Córners totales 1ª parte | 3,7 | 3,9 | 4,9 | 5,2 |
 | Córners totales 2ª parte | 4,7 | 5,1 | 5,2 | 5,1 |
-| Más de 8,5 córners | 43% | 45% | 76% | 80% |
-| Más de 9,5 córners | 33% | 36% | 57% | 60% |
-| Más de 10,5 córners | 33% | 36% | 48% | 40% |
-| Faltas cometidas | 11,8 | 10,2 | 11,8 | 13,1 |
-| Faltas recibidas | 12,3 | 13,0 | 10,1 | 10,0 |
+| Más de 8,5 córners | 43% | 45% | 73% | 80% |
+| Más de 9,5 córners | 33% | 36% | 55% | 60% |
+| Más de 10,5 córners | 33% | 36% | 45% | 40% |
+| Faltas cometidas | 11,8 | 10,2 | 11,5 | 13,1 |
+| Faltas recibidas | 12,3 | 13,0 | 10,3 | 10,0 |
 | Amarillas propias | 1,6 | 1,1 | 1,3 | 1,4 |
-| Amarillas del rival | 1,8 | 2,0 | 1,9 | 1,6 |
+| Amarillas del rival | 1,8 | 2,0 | 1,8 | 1,6 |
 | Rojas / partido | 0,05 | 0,00 | 0,05 | 0,10 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -97,9 +97,9 @@ _Actualizadas: 22/11 00:16_
 | 1-15' | 3 | 6 | 3 | 6 | 3 | 1 |
 | 16-30' | 4 | 7 | 2 | 5 | 6 | 5 |
 | 31-45' | 4 | 11 | 9 | 8 | 2 | 8 |
-| 46-60' | 6 | 6 | 3 | 7 | 6 | 5 |
+| 46-60' | 6 | 6 | 3 | 8 | 7 | 5 |
 | 61-75' | 7 | 8 | 5 | 10 | 3 | 3 |
-| 76-90' | 8 | 3 | 12 | 18 | 3 | 8 |
+| 76-90' | 8 | 3 | 12 | 19 | 3 | 9 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -151,33 +151,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Twente
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Eredivisie | Twente 2-1 Willem II | casa | 6-0 | 29 (9) - 2 (1) | 1-0 |
 | 2026-11-08 | Eredivisie | Twente 2-2 Ajax | casa | 9-2 | 22 (5) - 6 (2) | 3-5 |
 | 2026-11-05 | Conference League | Twente 3-1 Pafos | casa | 12-1 | 29 (13) - 6 (4) | 1-2 |
 | 2026-11-01 | Eredivisie | Excelsior 0-9 Twente | fuera | 8-0 | 28 (15) - 0 (0) | 1-1 |
 | 2026-10-25 | Eredivisie | AZ Alkmaar 0-2 Twente | fuera | 6-3 | 16 (5) - 13 (5) | 1-3 |
 | 2026-10-22 | Conference League | Lincoln Red Imps FC 1-4 Twente | fuera | 6-1 | 26 (8) - 5 (2) | 2-0 |
-| 2026-10-18 | Eredivisie | Twente 1-2 Utrecht | casa | 5-4 | 24 (5) - 16 (5) | 0-2 |
 
 ## Jugadores de Twente
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R. Zerrouki | M | 20 | 1722 | 3 | 1 | 24 | 1,2 | 5 | 0,2 | 27 | 15 | 0,8 | 4 | 0 |
-| B. van Rooij | D | 20 | 1715 | 0 | 2 | 4 | 0,2 | 3 | 0,1 | 22 | 9 | 0,5 | 1 | 0 |
-| W. Weghorst | F | 19 | 1618 | 11 | 5 | 50 | 2,6 | 29 | 1,5 | 28 | 26 | 1,4 | 3 | 0 |
-| R. Nijstad | D | 18 | 1574 | 2 | 0 | 7 | 0,4 | 2 | 0,1 | 9 | 5 | 0,3 | 2 | 0 |
-| R. Pröpper | D | 19 | 1507 | 3 | 0 | 18 | 0,9 | 8 | 0,4 | 20 | 14 | 0,7 | 4 | 0 |
-| S. Ørjasæter | M | 18 | 1337 | 3 | 11 | 34 | 1,9 | 16 | 0,9 | 3 | 15 | 0,8 | 1 | 0 |
-| D. Rots | M | 19 | 1333 | 4 | 2 | 33 | 1,7 | 11 | 0,6 | 19 | 21 | 1,1 | 2 | 0 |
-| A. Adelgaard | D | 16 | 1313 | 1 | 1 | 10 | 0,6 | 4 | 0,2 | 24 | 11 | 0,7 | 2 | 0 |
-| D. Weidmann | M | 17 | 1301 | 6 | 6 | 43 | 2,5 | 24 | 1,4 | 23 | 32 | 1,9 | 2 | 1 |
-| Y. Taha | M | 17 | 1229 | 3 | 4 | 34 | 2,0 | 12 | 0,7 | 21 | 9 | 0,5 | 3 | 0 |
+| R. Zerrouki | M | 21 | 1812 | 4 | 1 | 27 | 1,3 | 7 | 0,3 | 27 | 17 | 0,8 | 4 | 0 |
+| B. van Rooij | D | 21 | 1805 | 0 | 2 | 6 | 0,3 | 3 | 0,1 | 22 | 9 | 0,4 | 1 | 0 |
+| W. Weghorst | F | 20 | 1705 | 11 | 5 | 54 | 2,7 | 30 | 1,5 | 28 | 27 | 1,4 | 3 | 0 |
+| R. Nijstad | D | 19 | 1664 | 2 | 0 | 9 | 0,5 | 2 | 0,1 | 11 | 5 | 0,3 | 3 | 0 |
+| R. Pröpper | D | 20 | 1597 | 3 | 0 | 20 | 1,0 | 9 | 0,5 | 22 | 16 | 0,8 | 4 | 0 |
+| D. Rots | M | 20 | 1423 | 4 | 2 | 34 | 1,7 | 11 | 0,6 | 19 | 22 | 1,1 | 2 | 0 |
+| S. Ørjasæter | M | 19 | 1410 | 3 | 11 | 37 | 1,9 | 16 | 0,8 | 3 | 15 | 0,8 | 1 | 0 |
+| D. Weidmann | M | 18 | 1391 | 6 | 7 | 50 | 2,8 | 26 | 1,4 | 24 | 34 | 1,9 | 2 | 1 |
+| A. Adelgaard | D | 17 | 1373 | 1 | 1 | 10 | 0,6 | 4 | 0,2 | 25 | 12 | 0,7 | 2 | 0 |
+| Y. Taha | M | 18 | 1289 | 3 | 4 | 37 | 2,1 | 14 | 0,8 | 21 | 12 | 0,7 | 3 | 0 |
+| J. Drommel | G | 11 | 990 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
 | Lars Unnerstall | G | 10 | 930 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| J. Drommel | G | 10 | 900 | 0 | 2 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
-| M. Pjaca | F | 19 | 843 | 6 | 1 | 19 | 1,0 | 13 | 0,7 | 5 | 6 | 0,3 | 0 | 0 |
+| M. Pjaca | F | 20 | 873 | 7 | 1 | 20 | 1,0 | 14 | 0,7 | 5 | 6 | 0,3 | 0 | 0 |
 | Max Bruns | D | 10 | 758 | 3 | 1 | 8 | 0,8 | 5 | 0,5 | 4 | 6 | 0,6 | 1 | 0 |
 | T. van den Belt | M | 19 | 579 | 3 | 3 | 23 | 1,2 | 10 | 0,5 | 6 | 2 | 0,1 | 0 | 0 |
-| K. Hlynsson | M | 11 | 426 | 0 | 0 | 9 | 0,8 | 4 | 0,4 | 6 | 9 | 0,8 | 0 | 0 |
-| Lucas Vennegoor of Hesselink | F | 14 | 308 | 1 | 0 | 10 | 0,7 | 3 | 0,2 | 3 | 4 | 0,3 | 0 | 0 |
+| K. Hlynsson | M | 12 | 443 | 0 | 1 | 9 | 0,8 | 4 | 0,3 | 6 | 10 | 0,8 | 0 | 0 |
+| Lucas Vennegoor of Hesselink | F | 15 | 338 | 1 | 0 | 11 | 0,7 | 3 | 0,2 | 3 | 4 | 0,3 | 0 | 0 |
 | Filip Thorvaldsen | F | 9 | 212 | 0 | 0 | 11 | 1,2 | 7 | 0,8 | 2 | 0 | 0,0 | 0 | 0 |
 | Mathias Kjølø | M | 5 | 127 | 0 | 0 | 3 | 0,6 | 1 | 0,2 | 3 | 2 | 0,4 | 0 | 0 |
-| S. Lemkin | D | 1 | 90 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |
+| S. Lemkin | D | 2 | 93 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 0 | 0,0 | 0 | 0 |

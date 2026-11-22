@@ -1,7 +1,7 @@
 # Como – Juventus
 **Serie A** · Regular Season - 13 · 29/11/2026 20:45 (hora España) · Stadio Giuseppe Sinigaglia
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 00:16_
@@ -51,42 +51,42 @@ _Actualizadas: 22/11 00:16_
 ## Estadísticas de equipo
 | | Como (total) | Como en casa | Juventus (total) | Juventus fuera |
 |---|---|---|---|---|
-| Partidos analizados | 16 | 7 | 15 | 8 |
-| Forma (últimos 5) | VDVVV | VVVVE | EVVDV | EVDVV |
-| Balance | 11V 2E 3D | 6V 1E 0D | 8V 4E 3D | 4V 2E 2D |
-| Goles a favor / partido | 2,44 | 2,14 | 1,73 | 1,50 |
-| Goles en contra / partido | 1,00 | 0,43 | 1,07 | 1,25 |
-| Goles a favor 1ª parte | 1,06 | 0,86 | 0,73 | 0,75 |
-| Goles a favor 2ª parte | 1,38 | 1,29 | 1,00 | 0,75 |
-| Goles en contra 1ª parte | 0,62 | 0,00 | 0,53 | 0,62 |
-| Goles en contra 2ª parte | 0,38 | 0,43 | 0,53 | 0,62 |
-| Más de 1,5 goles | 88% | 71% | 93% | 88% |
-| Más de 2,5 goles | 56% | 43% | 47% | 50% |
-| Más de 3,5 goles | 44% | 29% | 27% | 25% |
-| Ambos marcan | 62% | 43% | 47% | 62% |
-| Portería a cero | 25% | 57% | 40% | 25% |
-| Se queda sin marcar | 19% | 14% | 13% | 12% |
-| xG a favor | 1,86 | 1,94 | 1,50 | 1,59 |
+| Partidos analizados | 16 | 7 | 16 | 8 |
+| Forma (últimos 5) | VDVVV | VVVVE | VEVVD | EVDVV |
+| Balance | 11V 2E 3D | 6V 1E 0D | 9V 4E 3D | 4V 2E 2D |
+| Goles a favor / partido | 2,44 | 2,14 | 1,88 | 1,50 |
+| Goles en contra / partido | 1,00 | 0,43 | 1,00 | 1,25 |
+| Goles a favor 1ª parte | 1,06 | 0,86 | 0,69 | 0,75 |
+| Goles a favor 2ª parte | 1,38 | 1,29 | 1,19 | 0,75 |
+| Goles en contra 1ª parte | 0,62 | 0,00 | 0,50 | 0,62 |
+| Goles en contra 2ª parte | 0,38 | 0,43 | 0,50 | 0,62 |
+| Más de 1,5 goles | 88% | 71% | 94% | 88% |
+| Más de 2,5 goles | 56% | 43% | 50% | 50% |
+| Más de 3,5 goles | 44% | 29% | 31% | 25% |
+| Ambos marcan | 62% | 43% | 44% | 62% |
+| Portería a cero | 25% | 57% | 44% | 25% |
+| Se queda sin marcar | 19% | 14% | 12% | 12% |
+| xG a favor | 1,86 | 1,94 | 1,53 | 1,59 |
 | xG en contra | 1,18 | 0,81 | 0,95 | 1,19 |
-| Tiros / partido | 17,0 | 16,6 | 15,7 | 16,9 |
-| Tiros a puerta / partido | 6,3 | 5,9 | 5,1 | 5,5 |
-| Tiros recibidos | 12,4 | 9,7 | 11,1 | 13,0 |
-| Tiros a puerta recibidos | 3,3 | 2,3 | 3,0 | 3,4 |
+| Tiros / partido | 17,0 | 16,6 | 15,5 | 16,9 |
+| Tiros a puerta / partido | 6,3 | 5,9 | 5,3 | 5,5 |
+| Tiros recibidos | 12,4 | 9,7 | 11,2 | 13,0 |
+| Tiros a puerta recibidos | 3,3 | 2,3 | 2,9 | 3,4 |
 | Posesión media % | 60 | 60 | 56 | 59 |
-| Córners a favor | 5,2 | 5,1 | 7,3 | 8,0 |
-| Córners en contra | 4,2 | 3,3 | 3,6 | 3,6 |
+| Córners a favor | 5,2 | 5,1 | 7,2 | 8,0 |
+| Córners en contra | 4,2 | 3,3 | 3,5 | 3,6 |
 | Córners a favor 1ª parte | 2,8 | 2,7 | 3,8 | 4,4 |
-| Córners a favor 2ª parte | 2,5 | 2,4 | 3,5 | 3,6 |
-| Córners totales del partido | 9,5 | 8,4 | 10,9 | 11,6 |
-| Córners totales 1ª parte | 4,4 | 4,1 | 5,1 | 5,4 |
-| Córners totales 2ª parte | 5,1 | 4,3 | 5,8 | 6,2 |
-| Más de 8,5 córners | 62% | 43% | 73% | 75% |
-| Más de 9,5 córners | 44% | 29% | 60% | 62% |
-| Más de 10,5 córners | 31% | 14% | 53% | 50% |
-| Faltas cometidas | 8,9 | 8,7 | 13,2 | 14,5 |
+| Córners a favor 2ª parte | 2,5 | 2,4 | 3,4 | 3,6 |
+| Córners totales del partido | 9,5 | 8,4 | 10,7 | 11,6 |
+| Córners totales 1ª parte | 4,4 | 4,1 | 5,2 | 5,4 |
+| Córners totales 2ª parte | 5,1 | 4,3 | 5,5 | 6,2 |
+| Más de 8,5 córners | 62% | 43% | 69% | 75% |
+| Más de 9,5 córners | 44% | 29% | 56% | 62% |
+| Más de 10,5 córners | 31% | 14% | 50% | 50% |
+| Faltas cometidas | 8,9 | 8,7 | 13,1 | 14,5 |
 | Faltas recibidas | 11,4 | 9,3 | 11,2 | 10,9 |
-| Amarillas propias | 1,1 | 1,3 | 1,5 | 1,8 |
-| Amarillas del rival | 1,9 | 1,9 | 1,6 | 1,4 |
+| Amarillas propias | 1,1 | 1,3 | 1,4 | 1,8 |
+| Amarillas del rival | 1,9 | 1,9 | 1,5 | 1,4 |
 | Rojas / partido | 0,00 | 0,00 | 0,00 | 0,00 |
 
 ## Goles y tarjetas por tramos de minutos
@@ -95,8 +95,8 @@ _Actualizadas: 22/11 00:16_
 | 1-15' | 3 | 2 | 0 | 2 | 3 | 2 |
 | 16-30' | 6 | 6 | 1 | 5 | 3 | 7 |
 | 31-45' | 8 | 2 | 4 | 4 | 2 | 0 |
-| 46-60' | 11 | 2 | 3 | 1 | 1 | 5 |
-| 61-75' | 2 | 1 | 3 | 5 | 3 | 4 |
+| 46-60' | 11 | 2 | 3 | 3 | 1 | 5 |
+| 61-75' | 2 | 1 | 3 | 7 | 3 | 4 |
 | 76-90' | 9 | 3 | 7 | 9 | 4 | 6 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
@@ -147,33 +147,33 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Juventus
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Serie A | Juventus 4-0 Venezia | casa | 5-2 | 12 (8) - 13 (1) | 0-0 |
 | 2026-11-08 | Serie A | Fiorentina 2-2 Juventus | fuera | 12-5 | 18 (6) - 22 (6) | 3-1 |
 | 2026-11-05 | Europa League | AZ Alkmaar 1-2 Juventus | fuera | 2-4 | 9 (3) - 18 (3) | 3-1 |
 | 2026-11-01 | Serie A | Juventus 2-0 Napoli | casa | 13-4 | 18 (4) - 8 (1) | 3-1 |
 | 2026-10-28 | Serie A | Genoa 2-0 Juventus | fuera | 9-6 | 17 (4) - 14 (2) | 1-0 |
 | 2026-10-25 | Serie A | Lecce 0-2 Juventus | fuera | 3-5 | 8 (2) - 16 (4) | 0-1 |
-| 2026-10-22 | Europa League | Juventus 2-2 Rennes | casa | 7-5 | 14 (4) - 16 (5) | 1-1 |
 
 ## Jugadores de Juventus
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| G. Vicario | G | 15 | 1349 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
 | P. Kalulu | D | 15 | 1305 | 0 | 0 | 4 | 0,3 | 1 | 0,1 | 9 | 6 | 0,4 | 0 | 0 |
-| G. Vicario | G | 14 | 1259 | 0 | 0 | 0 | 0,0 | 0 | 0,0 | 0 | 1 | 0,1 | 0 | 0 |
-| R. Kolo Muani | F | 15 | 1146 | 4 | 4 | 21 | 1,4 | 7 | 0,5 | 25 | 17 | 1,1 | 1 | 0 |
-| Bremer | D | 15 | 1141 | 3 | 0 | 13 | 0,9 | 4 | 0,3 | 16 | 4 | 0,3 | 1 | 0 |
-| Douglas Luiz | M | 15 | 1080 | 1 | 2 | 18 | 1,2 | 5 | 0,3 | 23 | 19 | 1,3 | 3 | 0 |
+| Bremer | D | 16 | 1231 | 3 | 0 | 13 | 0,8 | 4 | 0,2 | 16 | 4 | 0,2 | 1 | 0 |
+| R. Kolo Muani | F | 16 | 1230 | 5 | 4 | 23 | 1,4 | 9 | 0,6 | 25 | 21 | 1,3 | 1 | 0 |
+| Douglas Luiz | M | 16 | 1125 | 1 | 2 | 19 | 1,2 | 6 | 0,4 | 23 | 19 | 1,2 | 3 | 0 |
 | J. Lucumí | D | 14 | 1031 | 0 | 1 | 5 | 0,4 | 1 | 0,1 | 5 | 1 | 0,1 | 4 | 0 |
-| W. McKennie | M | 11 | 853 | 1 | 1 | 6 | 0,5 | 2 | 0,2 | 5 | 3 | 0,3 | 0 | 0 |
-| N. Woltemade | F | 13 | 750 | 4 | 2 | 26 | 2,0 | 9 | 0,7 | 11 | 23 | 1,8 | 0 | 0 |
-| Z. Çelik | D | 10 | 734 | 2 | 1 | 2 | 0,2 | 2 | 0,2 | 8 | 4 | 0,4 | 1 | 0 |
-| T. Koopmeiners | M | 14 | 721 | 2 | 1 | 11 | 0,8 | 5 | 0,4 | 15 | 9 | 0,6 | 0 | 0 |
-| Kerim-Sam Alajbegović | F | 14 | 666 | 2 | 1 | 22 | 1,6 | 9 | 0,6 | 9 | 7 | 0,5 | 1 | 0 |
-| P. Sarr | M | 9 | 577 | 0 | 0 | 8 | 0,9 | 2 | 0,2 | 10 | 4 | 0,4 | 0 | 0 |
+| W. McKennie | M | 12 | 943 | 1 | 1 | 7 | 0,6 | 2 | 0,2 | 7 | 4 | 0,3 | 0 | 0 |
+| T. Koopmeiners | M | 15 | 811 | 3 | 1 | 12 | 0,8 | 6 | 0,4 | 16 | 11 | 0,7 | 0 | 0 |
+| Z. Çelik | D | 11 | 802 | 2 | 1 | 3 | 0,3 | 2 | 0,2 | 8 | 4 | 0,4 | 1 | 0 |
+| N. Woltemade | F | 14 | 795 | 5 | 3 | 27 | 1,9 | 10 | 0,7 | 14 | 24 | 1,7 | 0 | 0 |
+| Kerim-Sam Alajbegović | M | 15 | 711 | 2 | 1 | 23 | 1,5 | 9 | 0,6 | 9 | 8 | 0,5 | 1 | 0 |
+| P. Sarr | M | 10 | 622 | 0 | 0 | 8 | 0,8 | 2 | 0,2 | 10 | 4 | 0,4 | 0 | 0 |
 | Francisco Conceição | F | 9 | 525 | 1 | 1 | 17 | 1,9 | 8 | 0,9 | 13 | 9 | 1,0 | 1 | 0 |
-| F. Gatti | D | 9 | 488 | 1 | 1 | 7 | 0,8 | 2 | 0,2 | 11 | 5 | 0,6 | 2 | 0 |
+| F. Gatti | D | 10 | 510 | 1 | 1 | 7 | 0,7 | 2 | 0,2 | 11 | 5 | 0,5 | 2 | 0 |
+| L. Kelly | D | 9 | 499 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 6 | 5 | 0,6 | 1 | 0 |
 | N. González | F | 9 | 472 | 2 | 0 | 13 | 1,4 | 5 | 0,6 | 8 | 14 | 1,6 | 0 | 0 |
-| A. Cambiaso | M | 10 | 447 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 6 | 6 | 0,6 | 2 | 0 |
-| L. Kelly | D | 8 | 409 | 0 | 0 | 2 | 0,2 | 0 | 0,0 | 5 | 4 | 0,5 | 1 | 0 |
-| J. Boga | M | 10 | 275 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 1 | 8 | 0,8 | 0 | 0 |
-| Manuel Locatelli | M | 3 | 270 | 0 | 1 | 1 | 0,3 | 0 | 0,0 | 8 | 8 | 2,7 | 1 | 0 |
-| E. Zhegrova | F | 9 | 255 | 2 | 2 | 13 | 1,4 | 8 | 0,9 | 3 | 2 | 0,2 | 1 | 0 |
+| A. Cambiaso | D | 11 | 463 | 0 | 2 | 3 | 0,3 | 1 | 0,1 | 7 | 6 | 0,5 | 2 | 0 |
+| E. Zhegrova | M | 10 | 345 | 2 | 3 | 16 | 1,6 | 10 | 1,0 | 4 | 2 | 0,2 | 1 | 0 |
+| J. Cabal | D | 6 | 295 | 1 | 0 | 5 | 0,8 | 3 | 0,5 | 4 | 1 | 0,2 | 2 | 0 |
+| J. Boga | F | 11 | 281 | 1 | 0 | 5 | 0,5 | 2 | 0,2 | 3 | 9 | 0,8 | 0 | 0 |

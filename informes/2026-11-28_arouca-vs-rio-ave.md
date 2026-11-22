@@ -1,7 +1,7 @@
 # Arouca – Rio Ave
 **Primeira Liga** · Regular Season - 12 · 28/11/2026 16:30 (hora España)
 
-_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 07:45._
+_Datos de esta temporada en todas las competiciones analizadas. Generado el 22/11 20:36._
 
 ## Cuotas Bet365
 _Actualizadas: 22/11 07:44_
@@ -58,21 +58,21 @@ _Actualizadas: 22/11 07:44_
 ## Estadísticas de equipo
 | | Arouca (total) | Arouca en casa | Rio Ave (total) | Rio Ave fuera |
 |---|---|---|---|---|
-| Partidos analizados | 13 | 5 | 12 | 6 |
-| Forma (últimos 5) | DDVVV | VVDVV | DDDVV | DVDDV |
-| Balance | 7V 2E 4D | 4V 0E 1D | 3V 1E 8D | 2V 0E 4D |
-| Goles a favor / partido | 1,38 | 1,80 | 0,83 | 0,67 |
-| Goles en contra / partido | 1,00 | 0,60 | 2,00 | 1,33 |
-| Goles a favor 1ª parte | 0,54 | 1,00 | 0,33 | 0,33 |
-| Goles a favor 2ª parte | 0,85 | 0,80 | 0,50 | 0,33 |
-| Goles en contra 1ª parte | 0,46 | 0,60 | 0,75 | 0,33 |
-| Goles en contra 2ª parte | 0,54 | 0,00 | 1,25 | 1,00 |
-| Más de 1,5 goles | 54% | 60% | 67% | 50% |
-| Más de 2,5 goles | 46% | 60% | 50% | 33% |
-| Más de 3,5 goles | 23% | 20% | 42% | 17% |
-| Ambos marcan | 38% | 40% | 25% | 17% |
-| Portería a cero | 46% | 60% | 17% | 33% |
-| Se queda sin marcar | 23% | 0% | 58% | 50% |
+| Partidos analizados | 13 | 5 | 13 | 7 |
+| Forma (últimos 5) | DDVVV | VVDVV | DDDDV | DDVDD |
+| Balance | 7V 2E 4D | 4V 0E 1D | 3V 1E 9D | 2V 0E 5D |
+| Goles a favor / partido | 1,38 | 1,80 | 0,77 | 0,57 |
+| Goles en contra / partido | 1,00 | 0,60 | 1,92 | 1,29 |
+| Goles a favor 1ª parte | 0,54 | 1,00 | 0,31 | 0,29 |
+| Goles a favor 2ª parte | 0,85 | 0,80 | 0,46 | 0,29 |
+| Goles en contra 1ª parte | 0,46 | 0,60 | 0,77 | 0,43 |
+| Goles en contra 2ª parte | 0,54 | 0,00 | 1,15 | 0,86 |
+| Más de 1,5 goles | 54% | 60% | 62% | 43% |
+| Más de 2,5 goles | 46% | 60% | 46% | 29% |
+| Más de 3,5 goles | 23% | 20% | 38% | 14% |
+| Ambos marcan | 38% | 40% | 23% | 14% |
+| Portería a cero | 46% | 60% | 15% | 29% |
+| Se queda sin marcar | 23% | 0% | 62% | 57% |
 | xG a favor | 1,15 | 1,22 | 0,69 | 0,53 |
 | xG en contra | 1,16 | 0,82 | 1,75 | 1,77 |
 | Tiros / partido | 10,9 | 12,2 | 7,6 | 6,4 |
@@ -100,11 +100,11 @@ _Actualizadas: 22/11 07:44_
 | Tramo | Goles Arouca | Recibe Arouca | Tarjetas Arouca | Goles Rio Ave | Recibe Rio Ave | Tarjetas Rio Ave |
 |---|---|---|---|---|---|---|
 | 1-15' | 1 | 1 | 0 | 1 | 4 | 0 |
-| 16-30' | 4 | 3 | 2 | 0 | 3 | 0 |
-| 31-45' | 2 | 2 | 6 | 3 | 2 | 4 |
+| 16-30' | 4 | 3 | 2 | 0 | 3 | 1 |
+| 31-45' | 2 | 2 | 6 | 3 | 3 | 4 |
 | 46-60' | 4 | 2 | 3 | 2 | 5 | 7 |
 | 61-75' | 1 | 1 | 7 | 2 | 3 | 2 |
-| 76-90' | 6 | 4 | 19 | 2 | 7 | 13 |
+| 76-90' | 6 | 4 | 19 | 2 | 7 | 14 |
 
 _Totales de la temporada (el tramo 76-90 incluye el descuento)._
 
@@ -156,12 +156,12 @@ _Sin bajas comunicadas por ahora._
 ## Últimos partidos de Rio Ave
 | Fecha | Comp. | Partido | Res. | Córners | Tiros (a puerta) | Amarillas |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Taça de Portugal | Vianense 1-0 Rio Ave | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-11-08 | Primeira Liga | Rio Ave 0-1 SC Braga | casa | 0-8 | 4 (3) - 13 (2) | 2-1 |
 | 2026-11-01 | Primeira Liga | Academico Viseu 2-1 Rio Ave | fuera | 6-5 | 12 (5) - 13 (5) | 2-1 |
 | 2026-10-25 | Primeira Liga | Rio Ave 0-4 Famalicao | casa | 4-2 | 7 (2) - 12 (5) | 3-0 |
 | 2026-10-17 | Taça de Portugal | Louletano 0-1 Rio Ave | fuera | –-– | – (–) - – (–) | –-– |
 | 2026-10-11 | Primeira Liga | Rio Ave 3-2 Nacional | casa | 8-8 | 11 (7) - 12 (5) | 2-0 |
-| 2026-09-19 | Primeira Liga | Alverca 1-0 Rio Ave | fuera | 3-8 | 6 (3) - 23 (6) | 2-2 |
 
 ## Jugadores de Rio Ave
 | Jugador | Pos | PJ | Min | Goles | Asist | Tiros | Tiros/PJ | A puerta | A puerta/PJ | Faltas com. | Faltas rec. | Faltas rec./PJ | Amarillas | Rojas |
