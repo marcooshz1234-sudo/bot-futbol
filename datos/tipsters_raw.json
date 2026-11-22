@@ -1148,37 +1148,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47201",
-   "fecha": "2026-11-16T22:33",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T22:39",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47201.jpg"
-  },
-  {
-   "id": "-1001468963672/47200",
-   "fecha": "2026-11-16T22:33",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T22:39",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47200.jpg"
-  },
-  {
-   "id": "-1001468963672/47199",
-   "fecha": "2026-11-16T22:33",
-   "texto": "",
-   "foto": true,
-   "visto": "2026-11-16T22:39",
-   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47199.jpg"
-  },
-  {
-   "id": "-1001468963672/47202",
-   "fecha": "2026-11-16T22:35",
-   "texto": "✅✅✅✅\n\n¡SEXTO VERDE CONSECUTIVO! \nValorar este contenido no lo encontráis en ningún lado, esto es dedicación y trabajo no tiene más. Muy contento de regalar un buen día. ¡Comienza una nueva semana juntos!",
-   "foto": false,
-   "visto": "2026-11-16T22:39"
-  },
-  {
    "id": "-1001468963672/47203",
    "fecha": "2026-11-16T22:39",
    "texto": "",
@@ -2646,6 +2615,36 @@
    "texto": "✅✅✅✅\n\n¡ASÍ SE TIRA UN STAKE 5, REGALO! \nEs brutal el regalo de esta cuota, no tenía sentido. En 30 minutos lo cobramos, es increíble que gran lectura donde apenas sufrimos. Muy contento por el análisis, demostrando una vez más que somos lo mejor del sector. ¡Seguimos trabajando!",
    "foto": false,
    "visto": "2026-11-22T22:23"
+  },
+  {
+   "id": "-1001468963672/47418",
+   "fecha": "2026-11-22T23:16",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-22T23:21",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47418.jpg"
+  },
+  {
+   "id": "-1001468963672/47420",
+   "fecha": "2026-11-22T23:17",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-22T23:21",
+   "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47420.jpg"
+  },
+  {
+   "id": "-1001468963672/47419",
+   "fecha": "2026-11-22T23:17",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-22T23:21"
+  },
+  {
+   "id": "-1001468963672/47421",
+   "fecha": "2026-11-22T23:20",
+   "texto": "¡Esto es apostar de manera inteligente una vez más! 🟢\n\n✈️ Nuevo logro desbloqueado: ganar dinero viajando este fin de semana. Gran fin de semana para volver después del parón de selecciones. \n\nMe considero una persona inteligente a la hora de apostar, 47 personas ganaron un pastizal, lo demostré con fotos y videos.",
+   "foto": false,
+   "visto": "2026-11-22T23:21"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -20500,6 +20499,14 @@
    "foto": true,
    "visto": "2026-11-22T22:47",
    "foto_ruta": "datos/tipsters_fotos/Pick_Maestro_235.jpg"
+  },
+  {
+   "id": "-1003556259193/236",
+   "fecha": "2026-11-22T23:18",
+   "texto": "Que pena, pero volveremos con venganza!",
+   "foto": true,
+   "visto": "2026-11-22T23:21",
+   "foto_ruta": "datos/tipsters_fotos/Pick_Maestro_236.jpg"
   }
  ]
 }
