@@ -166,9 +166,14 @@
   "repe-2026-11-22-1570456|Match Winner|Away": "2026-11-22T20:12",
   "bucle-publicar_telegram-2026112220": "2026-11-22T20:23",
   "bucle-redes-2026112220": "2026-11-22T20:23",
-  "redes-2026-11-22-noche-atalanta2-threads-instagram": "2026-11-22T20:46"
+  "redes-2026-11-22-noche-atalanta2-threads-instagram": "2026-11-22T20:46",
+  "foto-2026-11-22-verde-auto-2026-11-22-pick-seguro-5": "2026-11-22T21:54"
  },
  "abiertos": [
+  {
+   "clave": "foto-2026-11-22-verde-auto-2026-11-22-pick-seguro-5",
+   "t": "🖼️ Sale a las 22:03 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑"
+  },
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
@@ -186,8 +191,13 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   }
  ],
- "revisado": "2026-11-22T21:45",
+ "revisado": "2026-11-22T21:54",
  "historial": [
+  {
+   "hora": "2026-11-22T21:54",
+   "t": "🖼️ Sale a las 22:03 y su foto no está hecha (o es vieja): PARA DENTRO SEÑORES ✅🤑",
+   "k": "foto-2026-11-22-verde-auto-2026-11-22-pick-seguro-5"
+  },
   {
    "hora": "2026-11-22T20:46",
    "t": "⏰ No ha salido en threads ni instagram (20:26): Vamos con otro pick 🍀",
@@ -482,11 +492,6 @@
    "hora": "2026-11-22T00:02",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-0500-x50, loca-th-0600-hora, loca-th-1120-escudos)",
    "k": "repe-2026-11-22-1550206|Player Fouls Committed|Mikael Egill Ellertsson - 1"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "📰 Racing Santander–Real Sociedad: «Yangel Herrera, baja en la Real Sociedad ante el Racing por lesión» (MARCA) · tenemos 6 post(s) de este partido: loca-th-0020-x100, loca-th-0500-x50, loca-th-0700-tapados, loca-th-0900-x500, loca-th-1200-escudos, loca-th-1540-tiros",
-   "k": "prensa-1570459-e749b9ab"
   }
  ]
 }
