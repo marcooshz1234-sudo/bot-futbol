@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-22",
- "generado": "2026-11-22T19:56+01:00",
+ "generado": "2026-11-22T20:26+01:00",
  "rango": [
   "2026-11-22",
   "2026-11-25"
@@ -111,6 +111,18 @@
    "logo": "https://media.api-sports.io/football/teams/55.png",
    "patas": [
     {
+     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
+     "texto": "Jannik Schuster: comete 1+ falta",
+     "cuota": 1.67,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
+     "nota": 1.0808,
+     "equipo": "Brentford",
+     "lado": "L",
+     "partido": "Brentford–Everton",
+     "hora": "2026-11-23T21:00"
+    },
+    {
      "sel": "1557469|Player Fouls Committed|Keane Lewis-Potter - 1",
      "texto": "Keane Lewis-Potter: comete 1+ falta",
      "cuota": 1.5,
@@ -135,41 +147,7 @@
      "hora": "2026-11-23T21:00"
     }
    ],
-   "cuota": 2.1
-  },
-  {
-   "equipo": "Atalanta",
-   "liga": "Serie A",
-   "partido": "Atalanta–Inter",
-   "hora": "2026-11-22T20:45",
-   "logo": "https://media.api-sports.io/football/teams/499.png",
-   "patas": [
-    {
-     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
-     "texto": "Eljif Elmas: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atalanta",
-     "lado": "L",
-     "partido": "Atalanta–Inter",
-     "hora": "2026-11-22T20:45"
-    },
-    {
-     "sel": "1550198|Player Fouls Committed|Gianluca Gaetano - 1",
-     "texto": "Gianluca Gaetano: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,36 por 90' (1-1-2-2-2-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atalanta",
-     "lado": "L",
-     "partido": "Atalanta–Inter",
-     "hora": "2026-11-22T20:45"
-    }
-   ],
-   "cuota": 2.25
+   "cuota": 3.51
   },
   {
    "equipo": "Borussia Dortmund",
@@ -318,59 +296,6 @@
  ],
  "destacadas": [
   {
-   "clave": "todo-2026-11-22",
-   "titulo": "📅 Todo el domingo",
-   "expl": "Una pata de cada partido del domingo 22",
-   "liga": "Varias",
-   "patas": [
-    {
-     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
-     "texto": "Eljif Elmas: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atalanta",
-     "lado": "L",
-     "partido": "Atalanta–Inter",
-     "hora": "2026-11-22T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/499.png",
-     "logo_v": "https://media.api-sports.io/football/teams/505.png"
-    },
-    {
-     "sel": "1552822|Total - Away|Over 0.5",
-     "texto": "Le Mans marca",
-     "cuota": 1.5,
-     "p": 0.757,
-     "dato": "marca 1,0 por partido y el rival encaja 1,5",
-     "nota": 0.8243083027473337,
-     "partido": "Marseille–Le Mans",
-     "hora": "2026-11-22T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/81.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1298.png"
-    },
-    {
-     "sel": "1570456|Home Player Shots|Martin Satriano - 2",
-     "texto": "Martin Satriano: 2+ remates",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,46 por 90' (2-2-3-1-3-3)",
-     "nota": 0.934,
-     "equipo": "Getafe",
-     "lado": "L",
-     "partido": "Getafe–Atletico Madrid",
-     "hora": "2026-11-22T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/546.png",
-     "logo_v": "https://media.api-sports.io/football/teams/530.png"
-    }
-   ],
-   "cuota": 3.76,
-   "prob": 0.484
-  },
-  {
    "clave": "todo-2026-11-23",
    "titulo": "📅 Todo el lunes",
    "expl": "Una pata de cada partido del lunes 23",
@@ -392,12 +317,12 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     },
     {
-     "sel": "1557469|Player Fouls Committed|Keane Lewis-Potter - 1",
-     "texto": "Keane Lewis-Potter: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,75 por 90' (1-4-2-1-1-0)",
-     "nota": 0.9000000000000001,
+     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
+     "texto": "Jannik Schuster: comete 1+ falta",
+     "cuota": 1.67,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
+     "nota": 1.0808,
      "equipo": "Brentford",
      "lado": "L",
      "partido": "Brentford–Everton",
@@ -420,8 +345,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/797.png"
     }
    ],
-   "cuota": 3.39,
-   "prob": 0.509
+   "cuota": 3.78,
+   "prob": 0.56
   },
   {
    "clave": "todo-2026-11-24",
@@ -655,6 +580,21 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     },
     {
+     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
+     "texto": "Jannik Schuster: comete 1+ falta",
+     "cuota": 1.67,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
+     "nota": 1.0808,
+     "equipo": "Brentford",
+     "lado": "L",
+     "partido": "Brentford–Everton",
+     "hora": "2026-11-23T21:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/55.png",
+     "logo_v": "https://media.api-sports.io/football/teams/45.png"
+    },
+    {
      "sel": "1635715|Total - Away|Over 0.5",
      "texto": "PSV Eindhoven marca",
      "cuota": 1.44,
@@ -666,21 +606,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/541.png",
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
-    },
-    {
-     "sel": "1635611|Away Player Shots|Maximilian Beier - 2",
-     "texto": "Maximilian Beier: 2+ remates",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 2,20 por 90' (3-1-2-2-2-2)",
-     "nota": 0.934,
-     "equipo": "Borussia Dortmund",
-     "lado": "V",
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
      "sel": "1635718|Total - Home|Over 0.5",
@@ -723,7 +648,7 @@
     }
    ],
    "cuota": 19.11,
-   "prob": 0.325
+   "prob": 0.358
   },
   {
    "clave": "segura",
@@ -731,21 +656,6 @@
    "expl": "Las 3 patas más probables de todo",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1550198|Player Fouls Committed|Eljif Elmas - 1",
-     "texto": "Eljif Elmas: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,70 por 90' (2-5-1-0-1-1)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atalanta",
-     "lado": "L",
-     "partido": "Atalanta–Inter",
-     "hora": "2026-11-22T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/499.png",
-     "logo_v": "https://media.api-sports.io/football/teams/505.png"
-    },
     {
      "sel": "1570456|Away Player Shots|David Hancko - 1",
      "texto": "David Hancko: 1+ remate",
@@ -775,9 +685,24 @@
      "liga": "Premier League",
      "logo_l": "https://media.api-sports.io/football/teams/55.png",
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
+    },
+    {
+     "sel": "1635611|Away Player Shots|Maximilian Beier - 2",
+     "texto": "Maximilian Beier: 2+ remates",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,20 por 90' (3-1-2-2-2-2)",
+     "nota": 0.934,
+     "equipo": "Borussia Dortmund",
+     "lado": "V",
+     "partido": "Arsenal–Borussia Dortmund",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/42.png",
+     "logo_v": "https://media.api-sports.io/football/teams/165.png"
     }
    ],
-   "cuota": 3.38,
+   "cuota": 3.76,
    "prob": 0.512
   },
   {
@@ -1017,21 +942,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550198|Player Fouls Committed|Gianluca Gaetano - 1",
-     "texto": "Gianluca Gaetano: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,36 por 90' (1-1-2-2-2-0)",
-     "nota": 0.9000000000000001,
-     "equipo": "Atalanta",
-     "lado": "L",
-     "partido": "Atalanta–Inter",
-     "hora": "2026-11-22T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/499.png",
-     "logo_v": "https://media.api-sports.io/football/teams/505.png"
-    },
-    {
      "sel": "1635611|Away Player Shots|Serhou Guirassy - 2",
      "texto": "Serhou Guirassy: 2+ remates",
      "cuota": 1.53,
@@ -1045,6 +955,19 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/42.png",
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
+     "sel": "1635692|Total - Away|Over 0.5",
+     "texto": "Napoli marca",
+     "cuota": 1.62,
+     "p": 0.757,
+     "dato": "marca 1,4 por partido y el rival encaja 1,5",
+     "nota": 0.8453303783926799,
+     "partido": "Manchester City–Napoli",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/50.png",
+     "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
      "sel": "1635718|Home Player Shots|Umarali Rakhmonaliev - 1",
@@ -1075,8 +998,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/157.png"
     }
    ],
-   "cuota": 5.06,
-   "prob": 0.408
+   "cuota": 5.46,
+   "prob": 0.386
   },
   {
    "clave": "remates",
@@ -1170,19 +1093,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1552822|Total - Away|Over 0.5",
-     "texto": "Le Mans marca",
-     "cuota": 1.5,
-     "p": 0.757,
-     "dato": "marca 1,0 por partido y el rival encaja 1,5",
-     "nota": 0.8243083027473337,
-     "partido": "Marseille–Le Mans",
-     "hora": "2026-11-22T20:45",
-     "liga": "Ligue 1",
-     "logo_l": "https://media.api-sports.io/football/teams/81.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1298.png"
-    },
-    {
      "sel": "1550203|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.57,
@@ -1196,17 +1106,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     },
     {
-     "sel": "1635692|Total - Away|Over 0.5",
-     "texto": "Napoli marca",
-     "cuota": 1.62,
-     "p": 0.757,
-     "dato": "marca 1,4 por partido y el rival encaja 1,5",
-     "nota": 0.8453303783926799,
-     "partido": "Manchester City–Napoli",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/50.png",
-     "logo_v": "https://media.api-sports.io/football/teams/492.png"
+     "sel": "1570457|Both Teams Score|Yes",
+     "texto": "Ambos marcan",
+     "cuota": 1.57,
+     "p": 0.723,
+     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
+     "nota": 0.7761154352525691,
+     "partido": "Levante–Elche",
+     "hora": "2026-11-23T21:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/539.png",
+     "logo_v": "https://media.api-sports.io/football/teams/797.png"
     },
     {
      "sel": "1635715|Both Teams Score|Yes",
@@ -1222,6 +1132,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
+     "sel": "1635731|Total - Home|Over 0.5",
+     "texto": "Slovan Bratislava marca",
+     "cuota": 1.62,
+     "p": 0.724,
+     "dato": "marca 1,0 por partido y el rival encaja 1,4",
+     "nota": 0.7871692382194571,
+     "partido": "Slovan Bratislava–Real Betis",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png"
+    },
+    {
      "sel": "1635728|Goals Over/Under|Over 2.5",
      "texto": "Más de 2,5 goles",
      "cuota": 1.53,
@@ -1235,8 +1158,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
     }
    ],
-   "cuota": 8.76,
-   "prob": 0.256
+   "cuota": 9.16,
+   "prob": 0.234
   },
   {
    "clave": "larga",
@@ -1260,19 +1183,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     },
     {
-     "sel": "1570457|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.57,
-     "p": 0.723,
-     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
-     "nota": 0.7761154352525691,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    },
-    {
      "sel": "1635713|Away Player Shots|Matthieu Udol - 1",
      "texto": "Matthieu Udol: 1+ remate",
      "cuota": 1.44,
@@ -1286,19 +1196,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/173.png",
      "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1635731|Total - Home|Over 0.5",
-     "texto": "Slovan Bratislava marca",
-     "cuota": 1.62,
-     "p": 0.724,
-     "dato": "marca 1,0 por partido y el rival encaja 1,4",
-     "nota": 0.7871692382194571,
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
      "sel": "1635663|Goals Over/Under|Over 2.5",
@@ -1340,8 +1237,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
     }
    ],
-   "cuota": 19.06,
-   "prob": 0.13
+   "cuota": 7.5,
+   "prob": 0.248
   }
  ],
  "otras_ligas": false,
