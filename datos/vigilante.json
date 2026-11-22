@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-22",
  "vistos": {
-  "cuotamov-2026-11-19-loca-th-1930-ganaambos-1638286|Results/Both Teams Score|Away/Yes": "2026-11-19T19:17",
   "repe-2026-11-20-1575221|Player Fouls Committed|Marius Bulter - 1": "2026-11-19T20:54",
   "repe-2026-11-20-1575221|Away Player Shots|Sebastian Sebulonsen - 1": "2026-11-19T20:54",
   "regla-cuota_alta-2026-11-20-estrella-1575221": "2026-11-19T20:54",
@@ -206,10 +205,10 @@
   },
   {
    "clave": "bucle-cuotas_frescas-2026112219",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora"
+   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 6 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T19:11",
+ "revisado": "2026-11-22T19:20",
  "historial": [
   {
    "hora": "2026-11-22T19:01",
