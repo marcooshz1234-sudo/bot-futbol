@@ -210,7 +210,7 @@
   },
   {
    "clave": "bucle-alineaciones_espera-2026112217",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 22 veces en la última hora"
+   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 18 veces en la última hora"
   },
   {
    "clave": "bucle-cuotas_frescas-2026112217",
@@ -221,7 +221,7 @@
    "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 6 veces en la última hora"
   }
  ],
- "revisado": "2026-11-22T17:22",
+ "revisado": "2026-11-22T17:32",
  "historial": [
   {
    "hora": "2026-11-22T17:01",
