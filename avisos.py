@@ -149,6 +149,12 @@ def main():
             hecho.add(k)
     except Exception as e:
         print("combis semana:", e)
+    # 22/11: si API-Football responde «plan» (suscripción caducada → plan gratis), aviso al móvil una vez al día
+    plan = leer(DATOS / "api_plan.json", {}) or {}
+    if plan.get("hora", "")[:10] == ahora.strftime("%Y-%m-%d") and f"api-plan-{plan['hora'][:10]}" not in hecho:
+        avisos.append((f"api-plan-{plan['hora'][:10]}",
+                       "⚠️ API-Football está en el PLAN GRATIS: el bot no ve marcadores ni resultados (no salen verdes, "
+                       "resúmenes ni el directo de la app). Mira la suscripción en dashboard.api-football.com."))
     # avisos sueltos que dejo yo a mano (p. ej. una prueba): datos/avisos_manuales.json = [{"k", "texto"}]
     for x in leer(DATOS / "avisos_manuales.json", []) or []:
         if x["k"] not in hecho:

@@ -116,6 +116,13 @@ class API:
                 if "requests" in texto and "limit" in texto.lower():
                     raise LimiteAlcanzado()
                 print(f"  ! la API devolvió errores en {ruta} {params}: {texto}")
+                if "plan" in texto.lower():   # 22/11: la suscripción pasó al plan gratis y nadie se enteró en todo el día
+                    try:
+                        (DATOS / "api_plan.json").write_text(json.dumps(
+                            {"error": texto, "hora": datetime.now(MADRID).strftime("%Y-%m-%dT%H:%M")}, ensure_ascii=False) + "\n",
+                            encoding="utf-8")
+                    except Exception:
+                        pass
                 return []
             time.sleep(0.25)
             return datos.get("response") or []
