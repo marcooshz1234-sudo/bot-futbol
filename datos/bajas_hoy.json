@@ -9838,12 +9838,6 @@
     "jugador": "K. Davis",
     "tipo": "Questionable",
     "motivo": "Injury"
-   },
-   {
-    "equipo": 494,
-    "jugador": "E. Ebosse",
-    "tipo": "Questionable",
-    "motivo": "Ankle Injury"
    }
   ],
   "1550206": [
@@ -10224,9 +10218,33 @@
   "1575227": [
    {
     "equipo": 162,
+    "jugador": "F. Agu",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "S. Alvero",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "M. Grull",
+    "tipo": "Missing Fixture",
+    "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 162,
     "jugador": "S. Musah",
     "tipo": "Missing Fixture",
     "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 162,
+    "jugador": "M. N'Diaye",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
    },
    {
     "equipo": 162,
@@ -10241,40 +10259,16 @@
     "motivo": "Knee Injury"
    },
    {
-    "equipo": 162,
-    "jugador": "F. Agu",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 162,
-    "jugador": "S. Alvero",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 162,
-    "jugador": "M. Grull",
-    "tipo": "Questionable",
-    "motivo": "Calf Injury"
-   },
-   {
-    "equipo": 162,
-    "jugador": "S. Lynen",
-    "tipo": "Questionable",
-    "motivo": "Illness"
-   },
-   {
-    "equipo": 162,
-    "jugador": "M. N'Diaye",
-    "tipo": "Questionable",
-    "motivo": "Groin Injury"
-   },
-   {
     "equipo": 175,
     "jugador": "A. S. Lokonga",
     "tipo": "Missing Fixture",
     "motivo": "Calf Injury"
+   },
+   {
+    "equipo": 175,
+    "jugador": "B. Nadir",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 175,
@@ -10293,12 +10287,6 @@
     "jugador": "J. Torunarigha",
     "tipo": "Missing Fixture",
     "motivo": "Hip Injury"
-   },
-   {
-    "equipo": 175,
-    "jugador": "B. Nadir",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
    },
    {
     "equipo": 175,
@@ -10418,15 +10406,15 @@
    },
    {
     "equipo": 499,
-    "jugador": "G. Gaetano",
-    "tipo": "Questionable",
-    "motivo": "Muscle Injury"
+    "jugador": "O. Kossounou",
+    "tipo": "Missing Fixture",
+    "motivo": "Thigh Injury"
    },
    {
     "equipo": 499,
-    "jugador": "O. Kossounou",
+    "jugador": "G. Gaetano",
     "tipo": "Questionable",
-    "motivo": "Thigh Injury"
+    "motivo": "Muscle Injury"
    },
    {
     "equipo": 505,
@@ -10520,7 +10508,7 @@
   "1570026": [],
   "1647592": []
  },
- "ultima": "2026-11-22T08:38:32.475639+01:00",
+ "ultima": "2026-11-22T09:12:08.171809+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
