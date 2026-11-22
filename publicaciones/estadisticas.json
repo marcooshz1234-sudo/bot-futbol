@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22 21:23",
+ "actualizado": "2026-11-22 21:35",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3692,
-   "hoy": 217,
+   "seguidores": 3693,
+   "hoy": 218,
    "serie": [
     3009,
     3160,
@@ -24,7 +24,7 @@
     3230,
     3248,
     3475,
-    3692
+    3693
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4252,
- "total_hoy": 225,
+ "total": 4253,
+ "total_hoy": 226,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "21:30",
+  "hora": "22:00",
   "dia": "2026-11-22",
-  "titulo": "Ambos marcan mañana"
+  "titulo": "El duelo de tiros"
  },
  "ayer": {
   "aciertos": 12,
@@ -252,7 +252,7 @@
   },
   "2026-11-22": {
    "instagram": 54,
-   "threads": 3692,
+   "threads": 3693,
    "facebook": 1,
    "telegram": 505
   }

@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-22",
- "generado": "2026-11-22T21:02+01:00",
+ "generado": "2026-11-22T21:34+01:00",
  "rango": [
   "2026-11-22",
   "2026-11-25"
@@ -295,59 +295,6 @@
   }
  ],
  "destacadas": [
-  {
-   "clave": "todo-2026-11-23",
-   "titulo": "📅 Todo el lunes",
-   "expl": "Una pata de cada partido del lunes 23",
-   "liga": "Varias",
-   "patas": [
-    {
-     "sel": "1550203|Player Fouls Committed|Radu Dragusin - 1",
-     "texto": "Radu Dragusin: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,50 por 90' (2-1-1-2-1-2)",
-     "nota": 1.0472,
-     "equipo": "Fiorentina",
-     "lado": "V",
-     "partido": "Monza–Fiorentina",
-     "hora": "2026-11-23T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/1579.png",
-     "logo_v": "https://media.api-sports.io/football/teams/502.png"
-    },
-    {
-     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.04,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/55.png",
-     "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
-    {
-     "sel": "1570457|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.57,
-     "p": 0.723,
-     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
-     "nota": 0.7761154352525691,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    }
-   ],
-   "cuota": 3.6,
-   "prob": 0.56
-  },
   {
    "clave": "todo-2026-11-24",
    "titulo": "📅 Todo el martes",
@@ -1111,19 +1058,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/502.png"
     },
     {
-     "sel": "1570457|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.57,
-     "p": 0.723,
-     "dato": "marcan los dos en el 80% y el 71% de sus partidos",
-     "nota": 0.7761154352525691,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    },
-    {
      "sel": "1635731|Total - Home|Over 0.5",
      "texto": "Slovan Bratislava marca",
      "cuota": 1.62,
@@ -1150,6 +1084,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/212.png"
     },
     {
+     "sel": "1635713|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.5,
+     "p": 0.683,
+     "dato": "2,4 goles de media en las segundas partes de los dos",
+     "nota": 0.6948090876057422,
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
      "sel": "1635728|Both Teams Score|Yes",
      "texto": "Ambos marcan",
      "cuota": 1.44,
@@ -1163,8 +1110,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/533.png"
     }
    ],
-   "cuota": 8.8,
-   "prob": 0.204
+   "cuota": 8.41,
+   "prob": 0.192
   }
  ],
  "otras_ligas": false,
