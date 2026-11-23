@@ -14813,7 +14813,7 @@
     ],
     "cuotas": [
       2.2,
-      1.95,
+      1.8,
       1.57,
       1.67,
       1.8,
@@ -14829,7 +14829,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-24T00:04"
   },
   {
     "id": "2026-11-24-loca-th-0100-lista-ambos",
@@ -14843,11 +14844,11 @@
       "1635731|Both Teams Score|Yes"
     ],
     "cuotas": [
-      1.5,
-      1.7,
-      1.5,
       1.53,
-      1.75
+      1.62,
+      1.44,
+      1.53,
+      1.7
     ],
     "solo_en": [
       "threads"
@@ -14858,7 +14859,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-24T00:04"
   },
   {
     "id": "2026-11-24-loca-th-0200-duelo",
