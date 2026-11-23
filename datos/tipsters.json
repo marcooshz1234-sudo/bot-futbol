@@ -3758,5 +3758,25 @@
    1,
    0
   ]
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100962",
+  "dia": "2026-11-24",
+  "local": "Real Madrid",
+  "visitante": "PSV Eindhoven",
+  "partido_id": 1635715,
+  "texto": "Gana el Real Madrid",
+  "mercado": "Match Winner",
+  "opcion": "Home",
+  "cuota": 1.53,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "UEFA Champions League",
+   "cuota_bet365": 1.17,
+   "prob_cuota": 0.654
+  }
  }
 ]

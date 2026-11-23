@@ -225,5 +225,22 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-24-pick-tip-1",
+    "fecha": "2026-11-23T01:27",
+    "texto": "Vamos con otro pick, familia 👇\n🧠 Pensada con calma, sin prisas\n\n🍀 Gana el Real Madrid @1,53\n\n⚽ Real Madrid – PSV Eindhoven · mañana 21:00",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [
+      "1635715|Match Winner|Home"
+    ],
+    "cuotas": [
+      1.53
+    ],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)"
   }
 ]

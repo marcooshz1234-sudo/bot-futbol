@@ -45,6 +45,15 @@
    "resueltos_con_cuota": 3,
    "prob_cuota": 1.915
   },
+  "TRADER FOOTBALL || FREE👨🏼‍💻": {
+   "n": 10,
+   "verdes": 6,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 1.11,
+   "resueltos_con_cuota": 8,
+   "prob_cuota": 5.288
+  },
   "CRIMINALPICKS🕵🏻‍♂️": {
    "n": 10,
    "verdes": 5,
@@ -53,15 +62,6 @@
    "unidades": 2.75,
    "resueltos_con_cuota": 8,
    "prob_cuota": 3.754
-  },
-  "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 9,
-   "verdes": 6,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 1.11,
-   "resueltos_con_cuota": 8,
-   "prob_cuota": 5.288
   },
   "AllSportsPicks ⚽🏀🎾": {
    "n": 8,
@@ -190,7 +190,7 @@
  },
  "mercado": {
   "Match Winner Home": {
-   "n": 26,
+   "n": 27,
    "verdes": 15,
    "rojos": 7,
    "nulos": 0,
@@ -947,11 +947,18 @@
    "unidades": 0.77,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.565
+  },
+  "Real Madrid": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "razon": {
   "sin razón": {
-   "n": 85,
+   "n": 86,
    "verdes": 49,
    "rojos": 13,
    "nulos": 0,
@@ -1025,7 +1032,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 59,
+   "n": 60,
    "verdes": 27,
    "rojos": 16,
    "nulos": 0,
@@ -1131,6 +1138,13 @@
    "unidades": -1.0,
    "resueltos_con_cuota": 1,
    "prob_cuota": 0.621
+  },
+  "UEFA Champions League": {
+   "n": 1,
+   "verdes": 0,
+   "rojos": 0,
+   "nulos": 0,
+   "unidades": 0.0
   }
  },
  "lado": {
@@ -1144,7 +1158,7 @@
    "prob_cuota": 20.562
   },
   "local": {
-   "n": 44,
+   "n": 45,
    "verdes": 23,
    "rojos": 13,
    "nulos": 0,
@@ -1164,7 +1178,7 @@
  },
  "por_que": {
   "—": {
-   "n": 65,
+   "n": 66,
    "verdes": 25,
    "rojos": 17,
    "nulos": 0,
@@ -1238,7 +1252,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 138,
+   "n": 139,
    "verdes": 70,
    "rojos": 27,
    "nulos": 0,
