@@ -14662,7 +14662,7 @@
       1.62,
       1.73,
       1.67,
-      1.83,
+      1.91,
       1.57,
       1.62,
       1.75
@@ -14676,7 +14676,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-23T20:08"
   },
   {
     "id": "2026-11-24-loca-th-noche-2130-lista-ambos",
@@ -14692,8 +14693,8 @@
     "cuotas": [
       1.5,
       1.7,
+      1.44,
       1.5,
-      1.53,
       1.75
     ],
     "origen": "threads_locas",
@@ -14705,7 +14706,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-23T20:08"
   },
   {
     "id": "2026-11-24-loca-th-noche-2200-duelo",
