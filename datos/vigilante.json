@@ -147,9 +147,14 @@
   "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1": "2026-11-23T00:07",
   "prensa-1635692-31be0c46": "2026-11-23T00:28",
   "prensa-1635641-c9519c65": "2026-11-23T00:28",
-  "prensa-1635611-378392d6": "2026-11-23T00:28"
+  "prensa-1635611-378392d6": "2026-11-23T00:28",
+  "redes-2026-11-24-pick-tip-1-threads-instagram": "2026-11-23T01:49"
  },
  "abiertos": [
+  {
+   "clave": "redes-2026-11-24-pick-tip-1-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (01:27): Vamos con otro pick, familia 👇"
+  },
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
@@ -179,8 +184,13 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   }
  ],
- "revisado": "2026-11-23T01:39",
+ "revisado": "2026-11-23T01:49",
  "historial": [
+  {
+   "hora": "2026-11-23T01:49",
+   "t": "⏰ No ha salido en threads ni instagram (01:27): Vamos con otro pick, familia 👇",
+   "k": "redes-2026-11-24-pick-tip-1-threads-instagram"
+  },
   {
    "hora": "2026-11-23T00:28",
    "t": "📰 Manchester City–Napoli: «Napoli: Antonio Vergara se lesiona a los 10 minutos y sale entre lágrimas; Allegri lo sustituye por De Bruyne» (Goal.com) · tenemos 2 post(s) de este partido: semana-europa, ganadores-champions",
@@ -475,11 +485,6 @@
    "hora": "2026-11-22T00:02",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos)",
    "k": "repe-2026-11-22-1575227|Both Teams Score|Yes"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2200-ganaambos, loca-th-0040-ganaambos, loca-th-1000-ganaambos)",
-   "k": "repe-2026-11-22-1550197|Results/Both Teams Score|Home/Yes"
   }
  ]
 }
