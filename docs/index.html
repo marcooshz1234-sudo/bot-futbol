@@ -449,22 +449,24 @@ function vPicksDia(){
   // 13/11 (Marcos: «cuando estén en directo, si se aciertan que se pongan en verde»): en directo, lo que ya va
   // saliendo lleva su «🟢 Va bien» (antes no salía nada hasta el ✅ final); lo que va mal no se marca
   const icono = e => e==="verde"?"✅":e==="rojo"?"❌":e==="anulada"?"🔵":e==="va_bien"?`<span class="chip va_bien">🟢 Va bien</span>`:"";
-  let h = t + `<div class="mut" style="margin:0 4px 10px;font-size:13px">${G.reduce((n,g)=>n+g.picks.length,0)} picks en ${G.length} partidos · 📢 = salió en el canal</div>`;
+  let h = t + `<div class="mut" style="margin:0 4px 10px;font-size:13px">${G.reduce((n,g)=>n+g.picks.length,0)} picks en ${G.length} partidos · toca un partido para ver sus picks · 📢 = salió en el canal</div>`;
   let liga = "";
   for(const g of G){
     if(g.liga!==liga){ liga = g.liga; h += `<h2 style="margin-top:18px">${esc(liga||"")}</h2>`; }
-    h += `<div class="card" style="margin-bottom:16px;padding:12px 14px">
-      <div class="row" style="gap:8px;align-items:center;margin-bottom:6px">
+    const ab = combiAbierta("pdia:"+g.partido_id, false);
+    h += `<div class="card" style="margin-bottom:10px;padding:12px 14px">
+      <div class="row" data-k="pdia:${g.partido_id}" onclick="plegarCombi(this.dataset.k,false)" style="gap:8px;align-items:center;cursor:pointer">
         <span class="hora" style="min-width:46px">${esc(g.fecha.slice(11,16))}</span>
         <img src="${esc(g.logo_l)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy">
         <b class="sp" style="font-size:15px">${esc(g.local)} – ${esc(g.visitante)}</b>
-        <img src="${esc(g.logo_v)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy"></div>
-      ${g.en_juego?`<div class="mut" style="font-size:12.5px;padding:2px 0 6px;line-height:1.45">🎯 Qué se juegan<br>
+        <img src="${esc(g.logo_v)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy">
+        <span class="mut" style="font-size:12px;white-space:nowrap">${g.picks.length} · ${ab?"▲":"▼"}</span></div>
+      ${!ab?"":`<div style="margin-top:6px">${g.en_juego?`<div class="mut" style="font-size:12.5px;padding:2px 0 6px;line-height:1.45">🎯 Qué se juegan<br>
         ${[["local",g.local],["visitante",g.visitante]].map(([k,n])=>`${g.en_juego[k].estado==="nada"?"😴":g.en_juego[k].estado==="se_juega"?"🔥":"➖"} <b>${esc(n)}</b>: ${esc(g.en_juego[k].texto)}`).join("<br>")}</div>`:""}
       ${g.picks.map(x=>`<div class="row" style="font-size:14px;padding:5px 0;border-top:1px solid var(--line)">
         <span style="width:22px">${x.canal?"📢":"🍀"}</span><span class="sp">${esc(x.texto)} ${icono(x.estado)}${x.sin_motivo?` <span class="chip warn">⚠️ no se juega nada</span>`:""}</span>
         ${x.prob?`<span class="mut" style="font-size:12px;margin-right:8px">${Math.round(x.prob*100)}%</span>`:""}
-        <span class="cuota" style="font-size:15px">${x.cuota?"@"+n2(x.cuota):""}</span></div>`).join("")}
+        <span class="cuota" style="font-size:15px">${x.cuota?"@"+n2(x.cuota):""}</span></div>`).join("")}</div>`}
     </div>`;
   }
   return h + `<div class="mut" style="padding:0 4px">El % es lo que da nuestro modelo · Son datos, no consejos de apuesta</div>`;

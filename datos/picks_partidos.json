@@ -2486,5 +2486,242 @@
     }
    ]
   }
+ ],
+ "2026-11-23": [
+  {
+   "partido_id": 1565309,
+   "fecha": "2026-11-23T19:00",
+   "local": "Sepsi OSK Sfantu Gheorghe",
+   "visitante": "Rapid",
+   "liga": "Liga I",
+   "datos": [
+    "Los partidos del Sepsi OSK Sfantu Gheorghe llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Rapid llevan 3,2 goles de media (últimos 8).",
+    "El Rapid va 3º y el Sepsi OSK Sfantu Gheorghe 11º en la liga.",
+    "El Sepsi OSK Sfantu Gheorghe solo ha ganado 1 de sus últimos 5.",
+    "El Rapid ha ganado 3 de sus últimos 5 partidos."
+   ],
+   "picks": [
+    {
+     "sel": "1565309|Total - Home|Over 0.5",
+     "texto": "Sepsi OSK Sfantu Gheorghe marca",
+     "cuota": 1.44,
+     "prob": 0.64
+    },
+    {
+     "sel": "1565309|Corners 1x2|Away",
+     "texto": "Rapid hace más córners",
+     "cuota": 1.5,
+     "prob": 0.35
+    }
+   ]
+  },
+  {
+   "partido_id": 1573653,
+   "fecha": "2026-11-23T20:00",
+   "local": "Espanyol W",
+   "visitante": "Valencia W",
+   "liga": "Liga F",
+   "datos": [
+    "Los partidos del Espanyol W llevan 2,9 goles de media (últimos 8).",
+    "Los partidos del Valencia W llevan 2,2 goles de media (últimos 8).",
+    "La cuota de que gane Valencia W ha bajado de 3,8 a 3,0: el mercado lo ve más claro"
+   ],
+   "picks": [
+    {
+     "sel": "1573653|Total - Away|Over 0.5",
+     "texto": "Valencia W marca",
+     "cuota": 1.5,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1570029,
+   "fecha": "2026-11-23T20:30",
+   "local": "AD Ceuta FC",
+   "visitante": "Almeria",
+   "liga": "Segunda",
+   "datos": [
+    "Los partidos del AD Ceuta FC llevan 2,8 goles de media (últimos 8).",
+    "Los partidos del Almeria llevan 2,8 goles de media (últimos 8).",
+    "AD Ceuta FC está en descenso (22º): se juega mucho",
+    "El Almeria va 2º y el AD Ceuta FC 22º en la liga."
+   ],
+   "picks": [
+    {
+     "sel": "1570029|Total - Home|Over 0.5",
+     "texto": "AD Ceuta FC marca",
+     "cuota": 1.4,
+     "prob": 0.64
+    },
+    {
+     "sel": "1570029|Home Team Total Cards|Over 2.5",
+     "texto": "AD Ceuta FC ve más de 2,5 tarjetas",
+     "cuota": 1.53,
+     "prob": 0.63
+    },
+    {
+     "sel": "1570029|Both Teams Score|Yes",
+     "texto": "Ambos marcan en AD Ceuta FC–Almeria",
+     "cuota": 1.62,
+     "prob": 0.54
+    },
+    {
+     "sel": "1570029|Total - Away|Over 1.5",
+     "texto": "Almeria marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.37
+    }
+   ]
+  },
+  {
+   "partido_id": 1550203,
+   "fecha": "2026-11-23T20:45",
+   "local": "Monza",
+   "visitante": "Fiorentina",
+   "liga": "Serie A",
+   "datos": [
+    "Los partidos del Monza llevan 3,8 goles de media (últimos 8).",
+    "Los partidos del Fiorentina llevan 3,6 goles de media (últimos 8).",
+    "El Monza solo ha ganado 1 de sus últimos 5."
+   ],
+   "picks": [
+    {
+     "sel": "1550203|Home Team Total Cards|Over 1.5",
+     "texto": "Monza ve más de 1,5 tarjetas",
+     "cuota": 1.67,
+     "prob": 0.62
+    },
+    {
+     "sel": "1550203|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte del Monza–Fiorentina",
+     "cuota": 1.73,
+     "prob": 0.56
+    },
+    {
+     "sel": "1550203|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Monza–Fiorentina",
+     "cuota": 1.53,
+     "prob": 0.5
+    },
+    {
+     "sel": "1550203|Shots.1x2|Away",
+     "texto": "Fiorentina hace más tiros",
+     "cuota": 1.53,
+     "prob": 0.45
+    },
+    {
+     "sel": "1550203|Total - Away|Over 1.5",
+     "texto": "Fiorentina marca 2 o más",
+     "cuota": 1.67,
+     "prob": 0.35
+    }
+   ]
+  },
+  {
+   "partido_id": 1608377,
+   "fecha": "2026-11-23T20:45",
+   "local": "Lecco",
+   "visitante": "Lumezzane",
+   "liga": "Serie C",
+   "datos": [
+    "Los partidos del Lecco llevan 3,5 goles de media (últimos 8).",
+    "Los partidos del Lumezzane llevan 2,6 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1608377|Total - Home|Over 1.5",
+     "texto": "Lecco marca 2 o más",
+     "cuota": 1.73,
+     "prob": 0.57
+    },
+    {
+     "sel": "1608377|Total - Away|Over 0.5",
+     "texto": "Lumezzane marca",
+     "cuota": 1.5,
+     "prob": 0.49
+    },
+    {
+     "sel": "1608377|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Lecco–Lumezzane",
+     "cuota": 1.67,
+     "prob": 0.48
+    }
+   ]
+  },
+  {
+   "partido_id": 1570457,
+   "fecha": "2026-11-23T21:00",
+   "local": "Levante",
+   "visitante": "Elche",
+   "liga": "LaLiga",
+   "datos": [
+    "Levante está en descenso (18º): se juega mucho"
+   ],
+   "picks": [
+    {
+     "sel": "1570457|Home Team Total Cards|Over 1.5",
+     "texto": "Levante ve más de 1,5 tarjetas",
+     "cuota": 1.5,
+     "prob": 0.63
+    },
+    {
+     "sel": "1570457|Shots.1x2|Home",
+     "texto": "Levante hace más tiros",
+     "cuota": 1.4,
+     "prob": 0.54
+    },
+    {
+     "sel": "1570457|Shots. Home Total|Over 7.5",
+     "texto": "Levante hace 8+ tiros",
+     "cuota": 1.37,
+     "prob": 0.52
+    },
+    {
+     "sel": "1570457|Double Chance|Home/Draw",
+     "texto": "Levante o empate",
+     "cuota": 1.36,
+     "prob": 0.49
+    },
+    {
+     "sel": "1570457|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Levante–Elche",
+     "cuota": 1.57,
+     "prob": 0.47
+    }
+   ]
+  },
+  {
+   "partido_id": 1557469,
+   "fecha": "2026-11-23T21:00",
+   "local": "Brentford",
+   "visitante": "Everton",
+   "liga": "Premier",
+   "datos": [
+    "Los partidos del Brentford llevan 3,0 goles de media (últimos 8).",
+    "Los partidos del Everton llevan 2,4 goles de media (últimos 8)."
+   ],
+   "picks": [
+    {
+     "sel": "1557469|Home Team Total Cards|Over 1.5",
+     "texto": "Brentford ve más de 1,5 tarjetas",
+     "cuota": 1.62,
+     "prob": 0.62
+    },
+    {
+     "sel": "1557469|Double Chance|Home/Draw",
+     "texto": "Brentford o empate",
+     "cuota": 1.36,
+     "prob": 0.48
+    },
+    {
+     "sel": "1557469|Both Teams Score|Yes",
+     "texto": "Ambos marcan en Brentford–Everton",
+     "cuota": 1.67,
+     "prob": 0.46
+    }
+   ]
+  }
  ]
 }

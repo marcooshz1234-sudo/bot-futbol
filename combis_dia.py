@@ -393,10 +393,13 @@ def gana_sin_motivo(ex, p):
     return que_se_juegan.sin_motivo(pa["league"]["id"], pa["fixture"]["id"], la)
 
 
+_PARA_APP = False   # 23/11: la lista de la app (Picks por partido) lleva TODOS los partidos del día
+
+
 def pool_partido(ex, hist, ap):
     """Picks posibles de un partido con su probabilidad aprendida. [] si no hay datos.
     11/11 (Marcos): con Pinnacle de referencia (sharp.py): fuera las patas caras; en las demás, su probabilidad."""
-    if fuera_por_dia_bueno(ex.get("partido")):   # 12/11: día bueno → solo partidos buenos
+    if fuera_por_dia_bueno(ex.get("partido")) and not _PARA_APP:   # 12/11: día bueno → solo partidos buenos
         return []
     from bot import CUOTA_MAXIMA_PATA
     pool = [p for p in _pool_partido(ex, hist, ap) if p.get("cuota", 0) <= CUOTA_MAXIMA_PATA]   # 13/11: máx. 1,80
@@ -1252,7 +1255,8 @@ def guardar_picks_partidos(dia, pools, hist, por_partido=5):
     ruta = DATOS / "picks_partidos.json"
     todo = leer(ruta, {}) or {}
     todo[dia] = sorted(salida, key=lambda x: x["fecha"])
-    for d in sorted(todo)[:-4]:   # solo los últimos días
+    ayer = (datetime.now(MADRID) - timedelta(days=1)).strftime("%Y-%m-%d")
+    for d in [d for d in todo if d < ayer]:   # 23/11: fuera solo lo pasado (antes: los 4 últimos, y hoy se caía)
         todo.pop(d)
     ruta.write_text(json.dumps(todo, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
@@ -1537,7 +1541,25 @@ def del_dia(dia, hist=None, ap=None, guardar=False):
             apuntar(r[1])
     if guardar:   # 12/11 (Marcos): todos los picks del bot por partido, con datos, para la app
         try:
-            guardar_picks_partidos(dia, pools, hist)
+            # 23/11 (Marcos: «en picks de la app quiero los de todos estos partidos»): también los partidos que el
+            # filtro del día (5 grandes / día bueno) deja fuera de lo que se publica
+            global _PARA_APP
+            ya = {pl[0]["partido_id"] for pl in pools if pl}
+            extra = []
+            _PARA_APP = True
+            try:
+                for f in EXTRA.glob("*.json"):
+                    ex = leer(f) or {}
+                    pa = ex.get("partido")
+                    if (not pa or pa["fixture"]["id"] in ya or
+                            datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d") != dia):
+                        continue
+                    pl = [p for p in (pool_partido(ex, hist, ap) or []) if not p.get("solo_pick")]
+                    if pl:
+                        extra.append(pl)
+            finally:
+                _PARA_APP = False
+            guardar_picks_partidos(dia, pools + extra, hist)
         except Exception as e:
             print("picks por partido:", str(e)[:150])
     return res

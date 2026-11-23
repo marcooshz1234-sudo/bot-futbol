@@ -130,3 +130,15 @@ assert.ok(!vm.runInContext('vBot()',context).includes('start=retry_'));
   assert.ok(vm.runInContext('combisLista()', context).includes('Getafe marca'));
   console.log('Combis: por día → por tipo → largas, plegadas y con buscador.');
 }
+
+// 23/11 (Marcos: «en picks quiero los de todos los partidos y siempre minimizado; si le doy, se despliega»)
+{
+  vm.runInContext(`D.picks_partidos = {[D.hoy]: [{partido_id: 1570029, fecha: D.hoy+'T20:30', local:'Ceuta', visitante:'Almeria', liga:'Segunda División', logo_l:'', logo_v:'',
+    picks:[{texto:'Ceuta marca', cuota:1.4, prob:0.64}]}]}; sub.pdia = D.hoy;
+    var _alm = {}; localStorage = {getItem: k => _alm[k] ?? null, setItem: (k, v) => { _alm[k] = String(v) }};`, context);
+  const h = vm.runInContext('vPicksDia()', context);
+  assert.ok(h.includes('Ceuta') && !h.includes('Ceuta marca'));                    // plegado: el partido sí, los picks no
+  vm.runInContext(`var _p = pintar; pintar = () => {}; plegarCombi("pdia:1570029", false); pintar = _p;`, context);
+  assert.ok(vm.runInContext('vPicksDia()', context).includes('Ceuta marca'));        // al tocar, se abre
+  console.log('Picks por partido: plegados y se abren al tocar.');
+}
