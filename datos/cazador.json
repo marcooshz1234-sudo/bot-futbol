@@ -71,7 +71,7 @@
    "justa": 1.89,
    "ev": 0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "AD Ceuta FC",
@@ -82,7 +82,7 @@
    "justa": 1.99,
    "ev": 0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "AD Ceuta FC",
@@ -93,11 +93,11 @@
    "justa": 2.01,
    "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-23T17:12",
+  "hora": "2026-11-23T17:41",
   "revisadas": 0,
   "mejor": null
  },
