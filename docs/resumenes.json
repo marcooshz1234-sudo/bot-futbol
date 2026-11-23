@@ -3404,12 +3404,12 @@
     "dia": "2026-11-23",
     "total": 19,
     "cuentas": {
-      "verde": 1,
+      "verde": 2,
       "rojo": 0,
       "pendiente": 9,
-      "sin_datos": 9,
+      "sin_datos": 8,
       "no_jugo": 0,
-      "sin_resolver": 18
+      "sin_resolver": 17
     },
     "combis": [
       {
@@ -3499,7 +3499,7 @@
       {
         "id": "2026-11-23-noche-ceuta",
         "titulo": "Ceuta marca",
-        "estado": "sin_datos",
+        "estado": "verde",
         "cuota": 1.4
       },
       {
@@ -3528,10 +3528,10 @@
       }
     ],
     "picks": {
-      "verde": 4,
+      "verde": 5,
       "rojo": 0,
       "total": 57
     },
-    "texto": "📊 BALANCE DEL LUNES: 1 DE 1 EN VERDE 📊\n\n❔ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 55,21 · faltan datos\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n⏳ Gana el Real Madrid · 1,53 · pendiente\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,00 · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · faltan datos\n❔ 💶 RETO: DE 1€ A 279€ 💶 · faltan datos\n⏳ 🎯 COMBI DE TIROS · LEVANTE vs ELCHE 🎯 · 6,12 · pendiente\n❔ 🎰 LA LOCURA DE x395 🎰 · faltan datos\n⏳ Más de 1,5 goles en la 2ª parte del Monza–Fiorentina · 1,73 · pendiente\n✅ Levante ve más de 1,5 tarjetas · 1,50\n⏳ Brentford ve más de 1,5 tarjetas · 1,62 · pendiente\n❔ ⚡ COMBI MONZA – FIORENTINA ⚡ · 4,50 · faltan datos\n⏳ 🔥 COMBI BRENTFORD – EVERTON 🔥 · 11,82 · pendiente\n❔ Ceuta marca · 1,40 · faltan datos\n⏳ 💰🚀 COMBI POR 27,55 💰🚀 · 27,55 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,40 · pendiente\n⏳ 🎰 COMBI x20,14 🎰 · 20,14 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 18 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 2 DE 2 EN VERDE 📊\n\n❔ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 55,21 · faltan datos\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n⏳ Gana el Real Madrid · 1,53 · pendiente\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,00 · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · faltan datos\n❔ 💶 RETO: DE 1€ A 279€ 💶 · faltan datos\n⏳ 🎯 COMBI DE TIROS · LEVANTE vs ELCHE 🎯 · 6,12 · pendiente\n❔ 🎰 LA LOCURA DE x395 🎰 · faltan datos\n⏳ Más de 1,5 goles en la 2ª parte del Monza–Fiorentina · 1,73 · pendiente\n✅ Levante ve más de 1,5 tarjetas · 1,50\n⏳ Brentford ve más de 1,5 tarjetas · 1,62 · pendiente\n❔ ⚡ COMBI MONZA – FIORENTINA ⚡ · 4,50 · faltan datos\n⏳ 🔥 COMBI BRENTFORD – EVERTON 🔥 · 11,82 · pendiente\n✅ Ceuta marca · 1,40\n⏳ 💰🚀 COMBI POR 27,55 💰🚀 · 27,55 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,40 · pendiente\n⏳ 🎰 COMBI x20,14 🎰 · 20,14 · pendiente\n\n✅ 2 acertadas · ❌ 0 falladas · ⏳ 17 sin resolver"
   }
 }
