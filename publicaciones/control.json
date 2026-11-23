@@ -49,7 +49,6 @@
     "2026-11-18-balance-auto": "📊 RESUMEN DEL MIÉRCOLES 🍀\n\n✅ 4 de 6 picks en verde\n\n😤 Se nos escaparon:\n🔸 Combi de 2 (se cayó por: Häcken (fem.) marca) · Häcken (fem.) 0–2 Manchester City (fem.)\n🔸 Gol en la 1ª mitad + más de 2 goles · Juventus (fem.) 2–0 OH Leuven (fem.)\n\n🔔 Mañana más. Activad las notificaciones 👀"
   },
   "avisados": [
-    "2026-11-19-escalera",
     "2026-11-19-loca-th-1100-duelo",
     "2026-11-19-loca-th-1130-hora",
     "2026-11-19-loca-th-1400-x500",
@@ -248,7 +247,8 @@
     "2026-11-24-loca-th-noche-2230-x50",
     "2026-11-24-loca-th-noche-2300-hora",
     "2026-11-23-semana-europa",
-    "2026-11-24-ganadores-champions"
+    "2026-11-24-ganadores-champions",
+    "2026-11-23-balance-auto"
   ],
   "partidos_fuera": [
     1575537
@@ -316,7 +316,8 @@
     "13ff056aa9": "2026-11-22-verde-auto-2026-11-22-estrella-1550198",
     "56ee292300": "2026-11-23-pick-tip-1",
     "ca1931a6ff": "2026-11-23-pick-tip-2",
-    "f1046c36b6": "2026-11-23-pick-tip-3"
+    "f1046c36b6": "2026-11-23-pick-tip-3",
+    "5ac88ffb92": "2026-11-23-balance-auto"
   },
   "aprobados": {
     "2026-11-10-verde-auto-2026-11-10-escalera": "2026-11-10T22:17",
