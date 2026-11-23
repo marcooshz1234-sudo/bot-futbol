@@ -1223,13 +1223,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47225",
-   "fecha": "2026-11-16T23:42",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-16T23:50"
-  },
-  {
    "id": "-1001468963672/47226",
    "fecha": "2026-11-16T23:55",
    "texto": "",
@@ -2718,6 +2711,13 @@
    "foto": true,
    "visto": "2026-11-23T19:39",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47448.jpg"
+  },
+  {
+   "id": "-1001468963672/47449",
+   "fecha": "2026-11-23T20:01",
+   "texto": "⏰… ¡En una hora comienza nuestra apuesta!",
+   "foto": false,
+   "visto": "2026-11-23T20:04"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
@@ -18868,6 +18868,14 @@
    "texto": "Me parece buena por eso os la dejo, Vini parece q ha despertado un poco, el otro día contra el Celta fue de lo mejor del Madrid y creo que le toca marcar para recuperar sensaciones de nuevo",
    "foto": false,
    "visto": "2026-11-23T17:01"
+  },
+  {
+   "id": "-1002538677212/5161",
+   "fecha": "2026-11-23T20:03",
+   "texto": "Os dejo aumento para el 🇪🇸🇪🇸",
+   "foto": true,
+   "visto": "2026-11-23T20:04",
+   "foto_ruta": "datos/tipsters_fotos/OC_TIPSTER_5161.jpg"
   }
  ],
  "ApuestasCobrich - Canal Gratuito": [

@@ -131,7 +131,8 @@
   "redes-2026-11-23-combi-tres-threads-instagram": "2026-11-23T13:57",
   "redes-2026-11-23-noche-brentford-threads-instagram": "2026-11-23T15:50",
   "prensa-1635667-LamineYamal": "2026-11-23T17:12",
-  "redes-2026-11-23-noche-ceuta-threads-instagram": "2026-11-23T18:13"
+  "redes-2026-11-23-noche-ceuta-threads-instagram": "2026-11-23T18:13",
+  "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1": "2026-11-23T20:05"
  },
  "abiertos": [
   {
@@ -159,6 +160,10 @@
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)"
   },
   {
+   "clave": "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-seguro-4, loca-th-noche-2100-x100, loca-th-noche-2230-x50)"
+  },
+  {
    "clave": "regla-cuota-2026-11-23-semana-europa",
    "t": "📏 Regla (cuota): una pata a 1.08 (mínimo 1.20 por pata) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
@@ -175,8 +180,13 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T19:55",
+ "revisado": "2026-11-23T20:05",
  "historial": [
+  {
+   "hora": "2026-11-23T20:05",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-seguro-4, loca-th-noche-2100-x100, loca-th-noche-2230-x50)",
+   "k": "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1"
+  },
   {
    "hora": "2026-11-23T18:13",
    "t": "⏰ No ha salido en threads ni instagram (17:45): Seguimos con otro que nos gusta 🔥",
@@ -471,11 +481,6 @@
    "hora": "2026-11-22T12:40",
    "t": "📏 Regla (cuota): una pata a 1.07 (mínimo 1.20 por pata) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)",
    "k": "regla-cuota-2026-11-23-semana-europa"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "📏 Regla (dia): combi con partidos de días distintos (si falla uno, se cae todo) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)",
-   "k": "regla-dia-2026-11-23-semana-europa"
   }
  ]
 }
