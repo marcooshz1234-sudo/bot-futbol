@@ -3218,8 +3218,8 @@
     "cuentas": {
       "verde": 5,
       "rojo": 16,
-      "pendiente": 7,
-      "sin_datos": 0,
+      "pendiente": 3,
+      "sin_datos": 4,
       "no_jugo": 0,
       "sin_resolver": 7
     },
@@ -3365,25 +3365,25 @@
       {
         "id": "2026-11-23-loca-th-noche-2130-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN MAÑANA ⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-23-loca-th-noche-2200-duelo",
         "titulo": "🥊 EL DUELO DE TIROS 🥊",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 2.14
       },
       {
         "id": "2026-11-23-loca-th-noche-2230-lista-corners",
         "titulo": "🚩 CÓRNERS DE MAÑANA 🚩",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-23-loca-th-noche-2300-empates",
         "titulo": "⚖️ LA COMBI DE LOS EMPATES ⚖️",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 47.88
       },
       {
@@ -3398,7 +3398,7 @@
       "rojo": 27,
       "total": 88
     },
-    "texto": "📊 BALANCE DEL DOMINGO: 5 DE 21 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n❌ 🏆 SERIE A - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52\n❌ 🧨 LA LOCURA DE x83,47 🧨 · 83,47\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18\n❌ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42\n✅ Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 · 1,57\n❌ 🪜 Reto escalera · Día 2/7\n❌ ⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡ · 8,06\n❌ Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ ⚡ COMBI ATALANTA – INTER ⚡ · 9,53\n❌ 💥 COMBI GETAFE – ATLETICO MADRID 💥 · 12,27\n✅ Marseille marca 2 o más · 1,44\n✅ 💎 LOS FAVORITOS DEL DÍA 💎\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,00\n❌ 🃏 LA DE LOS TAPADOS 🃏 · 14,34\n❌ 🤑 LA LOCURA DE x490 🤑\n✅ Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n✅ David Hancko 1+ remate · 1,50\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,14 · pendiente\n⏳ 🚩 CÓRNERS DE MAÑANA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · pendiente\n⏳ ⚡ COMBI LEVANTE – ELCHE ⚡ · 5,70 · pendiente\n\n✅ 5 acertadas · ❌ 16 falladas · ⏳ 7 sin resolver"
+    "texto": "📊 BALANCE DEL DOMINGO: 5 DE 21 EN VERDE 📊\n\n❌ 🏆 LALIGA - GANADORES\n⏳ 🎰 COMBI POR 46,78 🎰 · 46,78 · pendiente\n⏳ 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · 35,12 · pendiente\n❌ 🏆 SERIE A - GANADORES\n❌ 🏆 PARTIDOS DE HOY - GANADORES\n❌ 🔥 COMBI JUVENTUS – VENEZIA 🔥 · 9,52\n❌ 🧨 LA LOCURA DE x83,47 🧨 · 83,47\n❌ 🚩 CÓRNERS DEL DÍA 🚩\n❌ 🚨 COMBI LORIENT – RENNES 🚨 · 7,18\n❌ 💥 COMBI RACING SANTANDER – REAL SOCIEDAD 💥 · 6,42\n✅ Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05 · 1,57\n❌ 🪜 Reto escalera · Día 2/7\n❌ ⚡ COMBI WERDER BREMEN – HAMBURGER SV ⚡ · 8,06\n❌ Hoy hay partidazo: Liverpool 🆚 Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐\n❌ ⚡ COMBI ATALANTA – INTER ⚡ · 9,53\n❌ 💥 COMBI GETAFE – ATLETICO MADRID 💥 · 12,27\n✅ Marseille marca 2 o más · 1,44\n✅ 💎 LOS FAVORITOS DEL DÍA 💎\n❌ ⚔️ EL DUELO DE TIROS ⚔️ · 2,00\n❌ 🃏 LA DE LOS TAPADOS 🃏 · 14,34\n❌ 🤑 LA LOCURA DE x490 🤑\n✅ Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n✅ David Hancko 1+ remate · 1,50\n❔ ⚽ AMBOS MARCAN MAÑANA ⚽ · faltan datos\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,14 · faltan datos\n❔ 🚩 CÓRNERS DE MAÑANA 🚩 · faltan datos\n❔ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · faltan datos\n⏳ ⚡ COMBI LEVANTE – ELCHE ⚡ · 5,70 · pendiente\n\n✅ 5 acertadas · ❌ 16 falladas · ⏳ 7 sin resolver"
   },
   "2026-11-23": {
     "dia": "2026-11-23",
@@ -3406,8 +3406,8 @@
     "cuentas": {
       "verde": 1,
       "rojo": 0,
-      "pendiente": 17,
-      "sin_datos": 1,
+      "pendiente": 9,
+      "sin_datos": 9,
       "no_jugo": 0,
       "sin_resolver": 18
     },
@@ -3415,13 +3415,13 @@
       {
         "id": "2026-11-23-loca-th-0030-ganaambos",
         "titulo": "👑⚽ GANA Y AMBOS MARCAN 👑⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 55.21
       },
       {
         "id": "2026-11-23-loca-th-0100-lista-ambos",
         "titulo": "⚽ AMBOS MARCAN HOY ⚽",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -3433,25 +3433,25 @@
       {
         "id": "2026-11-23-loca-th-0200-duelo",
         "titulo": "🥊 EL DUELO DE TIROS 🥊",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 2.0
       },
       {
         "id": "2026-11-23-loca-th-0300-lista-corners",
         "titulo": "🚩 CÓRNERS DEL DÍA 🚩",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
         "id": "2026-11-23-loca-th-0400-empates",
         "titulo": "⚖️ LA COMBI DE LOS EMPATES ⚖️",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 47.88
       },
       {
         "id": "2026-11-23-loca-th-0600-reto",
         "titulo": "💶 RETO: DE 1€ A 279€ 💶",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -3463,7 +3463,7 @@
       {
         "id": "2026-11-23-loca-th-1030-x500",
         "titulo": "🎰 LA LOCURA DE x395 🎰",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": null
       },
       {
@@ -3487,7 +3487,7 @@
       {
         "id": "2026-11-23-loca-th-1630-escudos",
         "titulo": "⚡ COMBI MONZA – FIORENTINA ⚡",
-        "estado": "pendiente",
+        "estado": "sin_datos",
         "cuota": 4.5
       },
       {
@@ -3528,10 +3528,10 @@
       }
     ],
     "picks": {
-      "verde": 6,
+      "verde": 4,
       "rojo": 0,
       "total": 57
     },
-    "texto": "📊 BALANCE DEL LUNES: 1 DE 1 EN VERDE 📊\n\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 55,21 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ Gana el Real Madrid · 1,53 · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,00 · pendiente\n⏳ 🚩 CÓRNERS DEL DÍA 🚩 · pendiente\n⏳ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · pendiente\n⏳ 💶 RETO: DE 1€ A 279€ 💶 · pendiente\n⏳ 🎯 COMBI DE TIROS · LEVANTE vs ELCHE 🎯 · 6,12 · pendiente\n⏳ 🎰 LA LOCURA DE x395 🎰 · pendiente\n⏳ Más de 1,5 goles en la 2ª parte del Monza–Fiorentina · 1,73 · pendiente\n✅ Levante ve más de 1,5 tarjetas · 1,50\n⏳ Brentford ve más de 1,5 tarjetas · 1,62 · pendiente\n⏳ ⚡ COMBI MONZA – FIORENTINA ⚡ · 4,50 · pendiente\n⏳ 🔥 COMBI BRENTFORD – EVERTON 🔥 · 11,82 · pendiente\n❔ Ceuta marca · 1,40 · faltan datos\n⏳ 💰🚀 COMBI POR 27,55 💰🚀 · 27,55 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,40 · pendiente\n⏳ 🎰 COMBI x20,14 🎰 · 20,14 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 18 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 1 DE 1 EN VERDE 📊\n\n❔ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 55,21 · faltan datos\n❔ ⚽ AMBOS MARCAN HOY ⚽ · faltan datos\n⏳ Gana el Real Madrid · 1,53 · pendiente\n❔ 🥊 EL DUELO DE TIROS 🥊 · 2,00 · faltan datos\n❔ 🚩 CÓRNERS DEL DÍA 🚩 · faltan datos\n❔ ⚖️ LA COMBI DE LOS EMPATES ⚖️ · 47,88 · faltan datos\n❔ 💶 RETO: DE 1€ A 279€ 💶 · faltan datos\n⏳ 🎯 COMBI DE TIROS · LEVANTE vs ELCHE 🎯 · 6,12 · pendiente\n❔ 🎰 LA LOCURA DE x395 🎰 · faltan datos\n⏳ Más de 1,5 goles en la 2ª parte del Monza–Fiorentina · 1,73 · pendiente\n✅ Levante ve más de 1,5 tarjetas · 1,50\n⏳ Brentford ve más de 1,5 tarjetas · 1,62 · pendiente\n❔ ⚡ COMBI MONZA – FIORENTINA ⚡ · 4,50 · faltan datos\n⏳ 🔥 COMBI BRENTFORD – EVERTON 🔥 · 11,82 · pendiente\n❔ Ceuta marca · 1,40 · faltan datos\n⏳ 💰🚀 COMBI POR 27,55 💰🚀 · 27,55 · pendiente\n⏳ ⚽ AMBOS MARCAN MAÑANA ⚽ · pendiente\n⏳ 🤺 EL DUELO DE TIROS 🤺 · 4,40 · pendiente\n⏳ 🎰 COMBI x20,14 🎰 · 20,14 · pendiente\n\n✅ 1 acertadas · ❌ 0 falladas · ⏳ 18 sin resolver"
   }
 }
