@@ -10646,20 +10646,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16370",
-   "fecha": "2026-11-15T22:57",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-15T23:01"
-  },
-  {
-   "id": "-1001393609245/16371",
-   "fecha": "2026-11-15T23:55",
-   "texto": "YA EN DIRECTO EN TWITCH 🎮\n\nVOY CON APUESTA QUE EMPIEZA YA\n\nhttps://www.twitch.tv/pabloanalista",
-   "foto": false,
-   "visto": "2026-11-15T23:57"
-  },
-  {
    "id": "-1001393609245/16372",
    "fecha": "2026-11-16T01:58",
    "texto": "✅🎮✅🎮✅🎮✅🎮✅🎮✅",
@@ -12129,6 +12115,20 @@
    "foto": true,
    "visto": "2026-11-23T03:51",
    "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16570.jpg"
+  },
+  {
+   "id": "-1001393609245/16572",
+   "fecha": "2026-11-23T03:51",
+   "texto": "18/18 EDICIONES EN NOVIEMBRE ✅",
+   "foto": false,
+   "visto": "2026-11-23T04:04"
+  },
+  {
+   "id": "-1001393609245/16573",
+   "fecha": "2026-11-23T03:52",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-23T04:04"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
