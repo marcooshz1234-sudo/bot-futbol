@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-23",
  "vistos": {
-  "redes-2026-11-20-pick-tip-1448-instagram": "2026-11-20T18:05",
   "estrella-2026-11-21-pick-seguro-c751f9e5": "2026-11-20T19:19",
   "estrella-2026-11-21-estrella-1557475-c751f9e5": "2026-11-20T19:19",
   "regla-estrella-2026-11-21-pick-seguro": "2026-11-20T19:19",
@@ -139,7 +138,8 @@
   "redes-2026-11-23-noche-levante-threads-instagram": "2026-11-23T13:36",
   "redes-2026-11-23-combi-tres-threads-instagram": "2026-11-23T13:57",
   "redes-2026-11-23-noche-brentford-threads-instagram": "2026-11-23T15:50",
-  "prensa-1635667-LamineYamal": "2026-11-23T17:12"
+  "prensa-1635667-LamineYamal": "2026-11-23T17:12",
+  "redes-2026-11-23-noche-ceuta-threads-instagram": "2026-11-23T18:13"
  },
  "abiertos": [
   {
@@ -151,6 +151,10 @@
    "t": "⏰ No ha salido en threads ni instagram (15:30): Vamos con otro pick, familia 👇"
   },
   {
+   "clave": "redes-2026-11-23-noche-ceuta-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (17:45): Seguimos con otro que nos gusta 🔥"
+  },
+  {
    "clave": "redes-2026-11-23-combi-tres-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del lunes familia 🔥"
   },
@@ -159,12 +163,12 @@
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
-   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
-  },
-  {
    "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
   },
   {
    "clave": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
@@ -187,8 +191,13 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T18:02",
+ "revisado": "2026-11-23T18:13",
  "historial": [
+  {
+   "hora": "2026-11-23T18:13",
+   "t": "⏰ No ha salido en threads ni instagram (17:45): Seguimos con otro que nos gusta 🔥",
+   "k": "redes-2026-11-23-noche-ceuta-threads-instagram"
+  },
   {
    "hora": "2026-11-23T17:12",
    "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 1 post(s) de este partido: ganadores-champions",
@@ -483,11 +492,6 @@
    "hora": "2026-11-22T12:40",
    "t": "📏 Regla (dia): combi con partidos de días distintos (si falla uno, se cae todo) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)",
    "k": "regla-dia-2026-11-23-semana-europa"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)",
-   "k": "regla-orden-2026-11-23-semana-europa"
   }
  ]
 }
