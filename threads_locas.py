@@ -129,8 +129,12 @@ def patas_partido(ex):
             except (TypeError, ValueError):
                 continue
             if n >= 2 and MIN_PATA <= c <= 3.5:
+                fr = frec_tiros(pa["fixture"]["id"], mercado, nombre.strip(), n)   # 23/11: lo que tira de verdad
+                if fr is None or fr < TIROS_MIN_FREC:
+                    continue
                 out.append({"partido_id": pa["fixture"]["id"], "mercado": mercado, "opcion": str(o), "cuota": c,
-                            "familia": "jugador", "texto": f"{nombre.strip()}: {n}+ tiros", "prob": 1 / c / 1.07})
+                            "familia": "jugador", "texto": f"{nombre.strip()}: {n}+ tiros",
+                            "prob": round((fr + 1 / c / 1.07) / 2, 3)})
     # jugadores habituales (titulares en 5 de los últimos 8), sin esperar a las alineaciones
     try:
         for j in C.jugadores_estrella(pa["fixture"]["id"]):
@@ -489,6 +493,35 @@ def gana_y_ambos(partidos, semilla, usados):
     return filas, cuota, "\n".join(lineas)
 
 
+# 23/11 (Marcos: «Varela tira un montón y está a 1,50; Beto apenas ha tirado y está a 1,40, ¿por qué pone a Beto?»):
+# los tiros de jugador se elegían solo por la cuota de bet365 (la más baja), sin mirar lo que tira de verdad. Ahora
+# cuenta lo que ha hecho en sus últimos partidos (con 45+ minutos): fuera si no tenemos sus datos o si llega a esos
+# tiros en menos del 60 %, y entre los que quedan, el que más veces lo cumple.
+TIROS_MIN_FREC, TIROS_PARTIDOS = 0.60, 10
+_HIST = {}
+
+
+def frec_tiros(fid, mercado, nombre, n):
+    """(veces que llegó a n tiros / partidos) en sus últimos partidos, o None si no tenemos sus datos."""
+    import picks as P
+    if "h" not in _HIST:
+        _HIST["h"] = P.historial()
+    pa = (_ex(fid) or {}).get("partido") or {}
+    lado = "home" if mercado.startswith("Home") else "away"
+    try:
+        fijos = P.plantilla_fija(pa["teams"][lado]["id"], _HIST["h"])
+    except Exception:
+        return None
+    for _, d in fijos.items():
+        if P.mismo_jugador(d["nombre"], nombre):
+            regs = [r for r in (d.get("partidos") or []) if (r.get("min") or 0) >= 45 and r.get("tiros") is not None]
+            regs = regs[-TIROS_PARTIDOS:]
+            if len(regs) < 5:
+                return None
+            return sum(r["tiros"] >= n for r in regs) / len(regs)
+    return None
+
+
 def duelo_tiros(partidos, semilla, usados):
     """⚔️ Un jugador de cada equipo con 2+ tiros (los habituales que da bet365), en el mismo partido."""
     for pt in partidos:
@@ -503,13 +536,16 @@ def duelo_tiros(partidos, semilla, usados):
                 except (TypeError, ValueError):
                     continue
                 if n >= 2 and MIN_PATA <= c <= 3.0 and libre(pt["fid"], mercado, str(o), usados):
-                    if not mejor or c < mejor[1]:
-                        mejor = (str(o), c, nombre.strip(), n)
+                    fr = frec_tiros(pt["fid"], mercado, nombre.strip(), n)
+                    if fr is None or fr < TIROS_MIN_FREC:
+                        continue
+                    if not mejor or (fr, -c) > (mejor[4], -mejor[1]):
+                        mejor = (str(o), c, nombre.strip(), n, fr)
             if mejor:
                 lados.append((mercado, mejor))
         if len(lados) < 2:
             continue
-        sel = [(pt, _pata(pt, m, o, c, f"{nom}: {n}+ tiros", "jugador")) for m, (o, c, nom, n) in lados]
+        sel = [(pt, _pata(pt, m, o, c, f"{nom}: {n}+ tiros", "jugador")) for m, (o, c, nom, n, _f) in lados]
         cuota = cuota_bet(sel)
         lineas = ["⚔️ EL DUELO DE TIROS ⚔️", "", f"⭐ {pt['local']} vs {pt['visitante']} · {pt['ini'].strftime('%H:%M')}", ""]
         lineas += [f"🎯 {p['texto']} ({eq})" for (_, p), eq in zip(sel, (pt["local"], pt["visitante"]))]
