@@ -136,20 +136,40 @@
   "prensa-1635611-378392d6": "2026-11-23T00:28",
   "redes-2026-11-24-pick-tip-1-threads-instagram": "2026-11-23T01:49",
   "prensa-1635715-1f3aad01": "2026-11-23T09:41",
-  "escalera-2026-11-23": "2026-11-23T12:04"
+  "escalera-2026-11-23": "2026-11-23T12:04",
+  "cuotas-2026-11-23-noche-levante": "2026-11-23T12:56",
+  "cuotas-2026-11-23-noche-brentford": "2026-11-23T12:56",
+  "cuotas-2026-11-23-noche-ceuta": "2026-11-23T12:56",
+  "redes-2026-11-23-pick-seguro-3-threads-instagram": "2026-11-23T12:56"
  },
  "abiertos": [
+  {
+   "clave": "cuotas-2026-11-23-noche-levante",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Empezamos el día con este pick, familia 👇"
+  },
+  {
+   "clave": "cuotas-2026-11-23-noche-brentford",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
+  },
+  {
+   "clave": "cuotas-2026-11-23-noche-ceuta",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Seguimos con otro que nos gusta 🔥"
+  },
+  {
+   "clave": "redes-2026-11-23-pick-seguro-3-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (12:30): Os dejo el pick, familia 👇"
+  },
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
-   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
-  },
-  {
    "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
   },
   {
    "clave": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
@@ -172,8 +192,28 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T12:45",
+ "revisado": "2026-11-23T12:56",
  "historial": [
+  {
+   "hora": "2026-11-23T12:56",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Empezamos el día con este pick, familia 👇",
+   "k": "cuotas-2026-11-23-noche-levante"
+  },
+  {
+   "hora": "2026-11-23T12:56",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
+   "k": "cuotas-2026-11-23-noche-brentford"
+  },
+  {
+   "hora": "2026-11-23T12:56",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Seguimos con otro que nos gusta 🔥",
+   "k": "cuotas-2026-11-23-noche-ceuta"
+  },
+  {
+   "hora": "2026-11-23T12:56",
+   "t": "⏰ No ha salido en threads ni instagram (12:30): Os dejo el pick, familia 👇",
+   "k": "redes-2026-11-23-pick-seguro-3-threads-instagram"
+  },
   {
    "hora": "2026-11-23T12:04",
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy",
@@ -453,26 +493,6 @@
    "hora": "2026-11-22T01:37",
    "t": "📰 Barcelona–Villarreal: «Flick Confirma Una Baja En El Barcelona Y Pone En Duda A Cubarsí» (La Red 106.1 FM) · tenemos 2 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0920-lista-corners",
    "k": "prensa-1570455-7d56ef12"
-  },
-  {
-   "hora": "2026-11-22T01:37",
-   "t": "📰 AC Milan–Frosinone: «AC Milan-Frosinone: el Milan llega con cinco bajas y 24 puntos» (Tu Futbolero) · tenemos 5 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0900-x500, loca-th-1000-ganaambos, combi-tres, loca-th-1400-escudos",
-   "k": "prensa-1550197-d27f8619"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (pick-seguro-5, loca-th-1600-escudos, loca-th-1820-lista-gana)",
-   "k": "repe-2026-11-22-1552822|Match Winner|Home"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-1300-escudos)",
-   "k": "repe-2026-11-22-1575227|Player Fouls Committed|David Wolfe - 1"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-0020-x100, loca-th-0800-escudos)",
-   "k": "repe-2026-11-22-1550201|Player Fouls Committed|Kike Perez - 2"
   }
  ]
 }

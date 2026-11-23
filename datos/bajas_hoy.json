@@ -10612,9 +10612,151 @@
    }
   ],
   "1608377": [],
-  "1570029": []
+  "1570029": [],
+  "1635641": [
+   {
+    "equipo": 327,
+    "jugador": "H. Evjen",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 327,
+    "jugador": "A. Mikkelsen",
+    "tipo": "Missing Fixture",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 327,
+    "jugador": "I. Sjong",
+    "tipo": "Missing Fixture",
+    "motivo": "Injury"
+   },
+   {
+    "equipo": 1026,
+    "jugador": "G. Bello",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 1026,
+    "jugador": "K. Cheikne",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 1026,
+    "jugador": "R. Harakate",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 1026,
+    "jugador": "A. Smakaj",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   }
+  ],
+  "1635667": [
+   {
+    "equipo": 645,
+    "jugador": "E. Aydin",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 645,
+    "jugador": "K. Ayhan",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 645,
+    "jugador": "C. Guner",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 645,
+    "jugador": "K. Karatas",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 645,
+    "jugador": "R. Leao",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   },
+   {
+    "equipo": 645,
+    "jugador": "V. Osimhen",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 645,
+    "jugador": "A. Unyay",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 645,
+    "jugador": "A. Yilmaz",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 645,
+    "jugador": "I. Jakobs",
+    "tipo": "Questionable",
+    "motivo": "Groin Injury"
+   },
+   {
+    "equipo": 645,
+    "jugador": "R. Sallai",
+    "tipo": "Questionable",
+    "motivo": "Hamstring Injury"
+   },
+   {
+    "equipo": 66,
+    "jugador": "M. Cash",
+    "tipo": "Missing Fixture",
+    "motivo": "Concussion"
+   },
+   {
+    "equipo": 66,
+    "jugador": "M. Cisse",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 66,
+    "jugador": "V. Lindelof",
+    "tipo": "Missing Fixture",
+    "motivo": "Illness"
+   },
+   {
+    "equipo": 66,
+    "jugador": "B. Madjo",
+    "tipo": "Missing Fixture",
+    "motivo": "Off the roster"
+   },
+   {
+    "equipo": 66,
+    "jugador": "A. Onana",
+    "tipo": "Missing Fixture",
+    "motivo": "Knee Injury"
+   },
+   {
+    "equipo": 66,
+    "jugador": "M. Ruggeri",
+    "tipo": "Missing Fixture",
+    "motivo": "Muscle Injury"
+   }
+  ]
  },
- "ultima": "2026-11-23T12:21:33.035143+01:00",
+ "ultima": "2026-11-23T12:54:51.117809+01:00",
  "avisados": [
   "2026-11-20-loca-th-0400-x50|Maroan Sannadi",
   "2026-11-21-boleto-personal-th|Raphael Le Guen",
