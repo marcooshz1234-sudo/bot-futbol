@@ -141,7 +141,12 @@
   "repe-2026-11-24-1635641|Anytime Goal Scorer|Jens Hauge": "2026-11-24T00:03",
   "repe-2026-11-24-1635715|Away Corners Over/Under|Over 2.5": "2026-11-24T00:03",
   "repe-2026-11-24-1635715|Away Player Shots|Ivan Perisic - 2": "2026-11-24T00:03",
-  "prensa-1635715-0a4401b5": "2026-11-24T00:03"
+  "prensa-1635715-0a4401b5": "2026-11-24T00:03",
+  "estrella-2026-11-25-ganadores-champions-LamineYamal": "2026-11-24T00:42",
+  "prensa-1635718-d71edce6": "2026-11-24T00:42",
+  "prensa-1635728-17791f3a": "2026-11-24T00:42",
+  "prensa-1635728-ab80c38a": "2026-11-24T00:42",
+  "estrella-2026-11-25-ganadores-champions-MOlise": "2026-11-24T00:42"
  },
  "abiertos": [
   {
@@ -169,40 +174,40 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (combi-partido-1635713, loca-th-noche-2300-hora, loca-th-0030-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
+   "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
+   "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Total - Away|Over 1.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
-  },
-  {
-   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
+   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635715|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
   },
   {
-   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
+   "clave": "repe-2026-11-24-1635713|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-0300-x50)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1400-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635649|Total - Away|Over 0.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-noche-2300-hora, loca-th-0030-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635663|Goals Over/Under - Second Half|Over 1.5",
@@ -253,16 +258,57 @@
    "t": "📰 Bodo/Glimt–Lask Linz: «Andrés Andrade sufre lesión de ligamentos en el tobillo, infirmó LASK Linz» (RPC TV) · tenemos 11 post(s) de este partido: escalera, lista-europa-1, lista-europa-2, loca-th-0200-duelo, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, loca-th-1130-x100, loca-th-1600-x500, loca-th-1830-x1000"
   },
   {
-   "clave": "prensa-1635611-378392d6",
-   "t": "📰 Arsenal–Borussia Dortmund: «Arsenal descarta el fichaje de Julián Álvarez: el motivo» (El Crack Deportivo) · tenemos 12 post(s) de este partido: lista-europa-1, pick-seguro-3, combi-tres, lista-europa-2, loca-th-0300-x50, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1130-x100, loca-th-1400-x50, loca-th-1830-x1000, loca-th-1900-lista-corners"
+   "clave": "prensa-1635731-0093ac47",
+   "t": "📰 Slovan Bratislava–Real Betis: «Alineación probable del Betis ante el Slovan Bratislava: Lo Celso, baja de última hora» (Andalucía Información) · tenemos 5 post(s) de este partido: lista-europa-1, pick-seguro-2, loca-th-0100-lista-ambos, loca-th-0300-x50, loca-th-1400-x50"
   },
   {
-   "clave": "prensa-1635667-LamineYamal",
-   "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 4 post(s) de este partido: loca-th-0800-reto, loca-th-1130-x100, loca-th-1400-x50, loca-th-1830-x1000"
+   "clave": "estrella-2026-11-25-ganadores-champions-LamineYamal",
+   "t": "⭐ Sabah FA–Barcelona: «Lamine Yamal será baja ante el Sabah por molestias en el tobillo» (Diario Las Américas). «🏆 CHAMPIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo"
+  },
+  {
+   "clave": "prensa-1635718-d71edce6",
+   "t": "📰 Sabah FA–Barcelona: «Fabrizio Romano no descarta la salida de Alejandro Balde del FC Barcelona: \"Deco dijo que se iba a quedar, yo » (DAZN) · tenemos 1 post(s) de este partido: ganadores-champions"
+  },
+  {
+   "clave": "prensa-1635728-17791f3a",
+   "t": "📰 Slavia Praha–Villarreal: «Alineaciones probables del Slavia Praha-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 1 post(s) de este partido: ganadores-champions"
+  },
+  {
+   "clave": "prensa-1635728-ab80c38a",
+   "t": "📰 Slavia Praha–Villarreal: «Nathan Saliba se suma a la lista de bajas del Villarreal» (castellonaldia.elmundo.es) · tenemos 1 post(s) de este partido: ganadores-champions"
+  },
+  {
+   "clave": "estrella-2026-11-25-ganadores-champions-MOlise",
+   "t": "⭐ Lille–Bayern München: «Informes apuntan a la ausencia de Michael Olise en el Bayern de Múnich ante el Lille por lesión» (Elbotola). «🏆 CHAMPIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo"
   }
  ],
- "revisado": "2026-11-24T00:31",
+ "revisado": "2026-11-24T00:42",
  "historial": [
+  {
+   "hora": "2026-11-24T00:42",
+   "t": "⭐ Sabah FA–Barcelona: «Lamine Yamal será baja ante el Sabah por molestias en el tobillo» (Diario Las Américas). «🏆 CHAMPIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo",
+   "k": "estrella-2026-11-25-ganadores-champions-LamineYamal"
+  },
+  {
+   "hora": "2026-11-24T00:42",
+   "t": "📰 Sabah FA–Barcelona: «Fabrizio Romano no descarta la salida de Alejandro Balde del FC Barcelona: \"Deco dijo que se iba a quedar, yo » (DAZN) · tenemos 1 post(s) de este partido: ganadores-champions",
+   "k": "prensa-1635718-d71edce6"
+  },
+  {
+   "hora": "2026-11-24T00:42",
+   "t": "📰 Slavia Praha–Villarreal: «Alineaciones probables del Slavia Praha-Villarreal: onces, bajas y dudas» (BeSoccer ES) · tenemos 1 post(s) de este partido: ganadores-champions",
+   "k": "prensa-1635728-17791f3a"
+  },
+  {
+   "hora": "2026-11-24T00:42",
+   "t": "📰 Slavia Praha–Villarreal: «Nathan Saliba se suma a la lista de bajas del Villarreal» (castellonaldia.elmundo.es) · tenemos 1 post(s) de este partido: ganadores-champions",
+   "k": "prensa-1635728-ab80c38a"
+  },
+  {
+   "hora": "2026-11-24T00:42",
+   "t": "⭐ Lille–Bayern München: «Informes apuntan a la ausencia de Michael Olise en el Bayern de Múnich ante el Lille por lesión» (Elbotola). «🏆 CHAMPIONS LEAGUE - GANADORES» (00:00) va a favor de ese equipo: te propongo quitarlo",
+   "k": "estrella-2026-11-25-ganadores-champions-MOlise"
+  },
   {
    "hora": "2026-11-24T00:03",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-feyenoord, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)",
@@ -537,31 +583,6 @@
    "hora": "2026-11-22T20:12",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Cerramos el domingo con este 🔥",
    "k": "cuotas-2026-11-22-noche-atleti"
-  },
-  {
-   "hora": "2026-11-22T20:12",
-   "t": "⏰ No ha salido en threads ni instagram (15:00): Vamos con otro pick 🍀",
-   "k": "redes-2026-11-22-pick-seguro-5-threads-instagram"
-  },
-  {
-   "hora": "2026-11-22T20:12",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (noche-atleti, loca-th-1740-escudos, loca-th-1820-lista-gana)",
-   "k": "repe-2026-11-22-1570456|Match Winner|Away"
-  },
-  {
-   "hora": "2026-11-22T20:02",
-   "t": "🔧 El paso «cuotas_frescas» del bot ha fallado 5 veces en la última hora",
-   "k": "bucle-cuotas_frescas-2026112220"
-  },
-  {
-   "hora": "2026-11-22T20:02",
-   "t": "🔧 El paso «alineaciones_posts» del bot ha fallado 5 veces en la última hora",
-   "k": "bucle-alineaciones_posts-2026112220"
-  },
-  {
-   "hora": "2026-11-22T20:02",
-   "t": "🔧 El paso «alineaciones_espera» del bot ha fallado 13 veces en la última hora",
-   "k": "bucle-alineaciones_espera-2026112220"
   }
  ]
 }
