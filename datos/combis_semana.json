@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-23",
- "generado": "2026-11-23T21:22+01:00",
+ "generado": "2026-11-23T21:56+01:00",
  "rango": [
   "2026-11-23",
   "2026-11-26"
@@ -2993,17 +2993,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
-     "sel": "1635715|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.53,
-     "p": 0.74,
-     "dato": "marcan los dos en el 75% y el 78% de sus partidos",
-     "nota": 0.8006405207266494,
-     "partido": "Real Madrid–PSV Eindhoven",
+     "sel": "1635731|Total - Home|Over 0.5",
+     "texto": "Slovan Bratislava marca",
+     "cuota": 1.67,
+     "p": 0.724,
+     "dato": "marca 1,0 por partido y el rival encaja 1,4",
+     "nota": 0.7952793105705545,
+     "partido": "Slovan Bratislava–Real Betis",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/541.png",
-     "logo_v": "https://media.api-sports.io/football/teams/197.png"
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png"
     },
     {
      "sel": "1636457|Goals Over/Under|Over 2.5",
@@ -3045,8 +3045,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
-   "cuota": 9.62,
-   "prob": 0.232
+   "cuota": 10.5,
+   "prob": 0.227
   },
   {
    "clave": "corners",
@@ -3132,17 +3132,17 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
-     "sel": "1635731|Total - Home|Over 0.5",
-     "texto": "Slovan Bratislava marca",
-     "cuota": 1.67,
-     "p": 0.724,
-     "dato": "marca 1,0 por partido y el rival encaja 1,4",
-     "nota": 0.7952793105705545,
-     "partido": "Slovan Bratislava–Real Betis",
+     "sel": "1635663|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.62,
+     "p": 0.689,
+     "dato": "más de 2,5 goles en el 75% y el 71% de sus partidos",
+     "nota": 0.7238683687349731,
+     "partido": "Feyenoord–FC Porto",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
+     "logo_l": "https://media.api-sports.io/football/teams/209.png",
+     "logo_v": "https://media.api-sports.io/football/teams/212.png"
     },
     {
      "sel": "1635625|Player Fouls Committed|Ademola Lookman - 1",
@@ -3251,8 +3251,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 70.66,
-   "prob": 0.044
+   "cuota": 68.55,
+   "prob": 0.042
   }
  ],
  "otras_ligas": false,
