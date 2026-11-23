@@ -1,7 +1,5 @@
 {
  "avisados": [
-  "2026-10-28-combi-tres|Nicolo Barella: 1+ tiros",
-  "2026-10-30-combi-partido-1563233|Thomas Cannon comete 1+ faltas",
   "2026-10-31-combi-loca|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-partido-1575203|Tom Bischof comete 1+ faltas",
   "2026-10-31-combi-tres|Cian Ashford: 1+ tiros",
@@ -480,6 +478,12 @@
   "clave|2026-11-22-pick-seguro-6|1570456|Total - Home|Over 0.5|M. Satriano",
   "clave|2026-11-23-loca-th-0200-duelo|1550203|Away Player Shots|Beto - 3|A. Njie",
   "clave|2026-11-23-loca-th-0600-reto|1550203|Anytime Goal Scorer|Mateo Pellegrino|A. Njie",
+  "clave|2026-11-23-loca-th-0600-reto|1557469|Total - Home|Over 1.5|Thiago",
+  "clave|2026-11-23-loca-th-0600-reto|1570457|To Win Either Half|Away|T. Lemar",
+  "clave|2026-11-23-loca-th-0600-reto|1570457|Total - Away|Over 1.5|T. Lemar",
+  "clave|2026-11-23-loca-th-0700-tiros|1570457|Away Player Shots|Abiel Osorio - 3|T. Lemar",
+  "clave|2026-11-23-loca-th-0700-tiros|1570457|Away Player Shots|Tete Morente - 2|T. Lemar",
+  "clave|2026-11-23-loca-th-1030-x500|1570457|To Win Either Half|Away|T. Lemar",
   "clave|2026-11-23-loca-th-1630-escudos|1550203|To Win Either Half|Away|A. Njie",
   "clave|2026-11-23-loca-th-noche-2200-duelo|1550203|Away Player Shots|Beto - 3|A. Njie",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
@@ -1219,16 +1223,292 @@
    }
   },
   "1557469": {
-   "hora": "2026-11-23T20:24:44.467499+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-23T20:35:32.835110+01:00",
+   "xi": [
+    "C. Kelleher",
+    "M. Kayode",
+    "K. Ajer",
+    "S. van den Berg",
+    "K. Lewis-Potter",
+    "Y. Yarmolyuk",
+    "V. Janelt",
+    "D. Ouattara",
+    "M. Damsgaard",
+    "J. Anthony",
+    "C. Wilson",
+    "J. Pickford",
+    "J. O&apos;Brien",
+    "J. Tarkowski",
+    "J. Branthwaite",
+    "V. Mykolenko",
+    "H. Armstrong",
+    "J. Garner",
+    "M. Röhl",
+    "K. Dewsbury-Hall",
+    "Tyrique George",
+    "T. Barry"
+   ],
+   "banquillo": [
+    "Gustavo Gomes",
+    "Fábio Carvalho",
+    "M. Sangaré",
+    "M. Jensen",
+    "K. Schade",
+    "B. Fredrick",
+    "E. Diouf",
+    "Jannik Schuster",
+    "H. Valdimarsson",
+    "H. Hackney",
+    "B. Johnson",
+    "M. Travers",
+    "A. Maitland-Niles",
+    "M. Keane",
+    "J. Grealish",
+    "T. Dibling",
+    "C. Nørgaard",
+    "C. Alcaraz"
+   ],
+   "equipos": {
+    "55": [
+     {
+      "n": "C. Kelleher",
+      "pos": "G"
+     },
+     {
+      "n": "M. Kayode",
+      "pos": "D"
+     },
+     {
+      "n": "K. Ajer",
+      "pos": "D"
+     },
+     {
+      "n": "S. van den Berg",
+      "pos": "D"
+     },
+     {
+      "n": "K. Lewis-Potter",
+      "pos": "D"
+     },
+     {
+      "n": "Y. Yarmolyuk",
+      "pos": "M"
+     },
+     {
+      "n": "V. Janelt",
+      "pos": "M"
+     },
+     {
+      "n": "D. Ouattara",
+      "pos": "M"
+     },
+     {
+      "n": "M. Damsgaard",
+      "pos": "M"
+     },
+     {
+      "n": "J. Anthony",
+      "pos": "M"
+     },
+     {
+      "n": "C. Wilson",
+      "pos": "F"
+     }
+    ],
+    "45": [
+     {
+      "n": "J. Pickford",
+      "pos": "G"
+     },
+     {
+      "n": "J. O&apos;Brien",
+      "pos": "D"
+     },
+     {
+      "n": "J. Tarkowski",
+      "pos": "D"
+     },
+     {
+      "n": "J. Branthwaite",
+      "pos": "D"
+     },
+     {
+      "n": "V. Mykolenko",
+      "pos": "D"
+     },
+     {
+      "n": "H. Armstrong",
+      "pos": "M"
+     },
+     {
+      "n": "J. Garner",
+      "pos": "M"
+     },
+     {
+      "n": "M. Röhl",
+      "pos": "M"
+     },
+     {
+      "n": "K. Dewsbury-Hall",
+      "pos": "M"
+     },
+     {
+      "n": "Tyrique George",
+      "pos": "M"
+     },
+     {
+      "n": "T. Barry",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1570457": {
-   "hora": "2026-11-23T20:24:44.467499+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-23T20:35:32.835110+01:00",
+   "xi": [
+    "M. Ryan",
+    "J. Toljan",
+    "A. Mandi",
+    "Dela",
+    "Manu Sánchez",
+    "Oriol Rey",
+    "Jon Ander Olasagasti",
+    "Brugui",
+    "Reque",
+    "T. Fernández",
+    "Iván Romero",
+    "M. Dituro",
+    "Buba Sangaré",
+    "F. Redondo",
+    "Víctor Chust",
+    "R. Revivo",
+    "Gonzalo Villar",
+    "J. Morcillo",
+    "A. Osorio",
+    "L. Cepeda",
+    "Fer Niño",
+    "Germán Valera"
+   ],
+   "banquillo": [
+    "Hugo Sotelo",
+    "M. Santos",
+    "P. Ratkov",
+    "Nacho Pérez",
+    "Ifeanyi Ndukwe",
+    "Yanis Musuayi",
+    "Víctor García",
+    "Etta Eyong",
+    "Pablo Cuñat",
+    "Paco Cortés",
+    "Jorge Cabello",
+    "E. Bardeli",
+    "Matia Barzic Gutiérrez",
+    "E. Ponce",
+    "Bigas",
+    "Tete Morente",
+    "F. Buonanotte",
+    "G. Diangana",
+    "Alejandro Iturbe",
+    "Martim Neto",
+    "K. Lomónaco",
+    "Josan",
+    "T. Lemar",
+    "Alvaro Padilla"
+   ],
+   "equipos": {
+    "539": [
+     {
+      "n": "M. Ryan",
+      "pos": "G"
+     },
+     {
+      "n": "J. Toljan",
+      "pos": "D"
+     },
+     {
+      "n": "A. Mandi",
+      "pos": "D"
+     },
+     {
+      "n": "Dela",
+      "pos": "D"
+     },
+     {
+      "n": "Manu Sánchez",
+      "pos": "D"
+     },
+     {
+      "n": "Oriol Rey",
+      "pos": "M"
+     },
+     {
+      "n": "Jon Ander Olasagasti",
+      "pos": "M"
+     },
+     {
+      "n": "Brugui",
+      "pos": "M"
+     },
+     {
+      "n": "Reque",
+      "pos": "M"
+     },
+     {
+      "n": "T. Fernández",
+      "pos": "M"
+     },
+     {
+      "n": "Iván Romero",
+      "pos": "F"
+     }
+    ],
+    "797": [
+     {
+      "n": "M. Dituro",
+      "pos": "G"
+     },
+     {
+      "n": "Buba Sangaré",
+      "pos": "D"
+     },
+     {
+      "n": "F. Redondo",
+      "pos": "D"
+     },
+     {
+      "n": "Víctor Chust",
+      "pos": "D"
+     },
+     {
+      "n": "R. Revivo",
+      "pos": "D"
+     },
+     {
+      "n": "Gonzalo Villar",
+      "pos": "M"
+     },
+     {
+      "n": "J. Morcillo",
+      "pos": "M"
+     },
+     {
+      "n": "A. Osorio",
+      "pos": "M"
+     },
+     {
+      "n": "L. Cepeda",
+      "pos": "F"
+     },
+     {
+      "n": "Fer Niño",
+      "pos": "F"
+     },
+     {
+      "n": "Germán Valera",
+      "pos": "F"
+     }
+    ]
+   }
   }
  }
 }

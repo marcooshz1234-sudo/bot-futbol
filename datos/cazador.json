@@ -61,21 +61,9 @@
    "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [
-  {
-   "local": "Lecco",
-   "visitante": "Lumezzane",
-   "inicio": "2026-11-23T20:45",
-   "texto": "Lecco marca 2 o más",
-   "cuota": 1.91,
-   "justa": 1.89,
-   "ev": 0.011,
-   "fuente": "Pinnacle",
-   "edad_h": 0.0
-  }
- ],
+ "top": [],
  "ultima": {
-  "hora": "2026-11-23T20:15",
+  "hora": "2026-11-23T20:36",
   "revisadas": 0,
   "mejor": null
  },
