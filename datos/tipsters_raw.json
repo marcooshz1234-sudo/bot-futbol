@@ -1148,13 +1148,6 @@
  ],
  "Tipster Pérez": [
   {
-   "id": "-1001468963672/47214",
-   "fecha": "2026-11-16T22:49",
-   "texto": "",
-   "foto": false,
-   "visto": "2026-11-16T23:00"
-  },
-  {
    "id": "-1001468963672/47218",
    "fecha": "2026-11-16T22:53",
    "texto": "CUOTA @2.40.",
@@ -2643,6 +2636,13 @@
    "foto": true,
    "visto": "2026-11-23T11:01",
    "foto_ruta": "datos/tipsters_fotos/Tipster_Pérez_47434.jpg"
+  },
+  {
+   "id": "-1001468963672/47436",
+   "fecha": "2026-11-23T11:16",
+   "texto": "",
+   "foto": false,
+   "visto": "2026-11-23T11:24"
   }
  ],
  "AllSportsPicks ⚽🏀🎾": [
