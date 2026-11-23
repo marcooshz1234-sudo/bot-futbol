@@ -276,7 +276,17 @@ function nombreCorto(p){   // 28/10: «⚽ Quién gana hoy» en vez de «QUIÉN 
   if(/balance/.test(id) || /BALANCE/.test(tt)) return "📊 Balance del día";
   if(/500/.test(id)) return "🧮 De 1 € a 500 €";
   if(/exacto/.test(id) || /EXACTOS/.test(tt)) return "🎯 Resultados exactos";
-  return sinEmoji(p.titulo||p.texto);
+  return sinMayus(sinEmoji(p.titulo||p.texto));
+}
+// 23/11 (Marcos: «app profesional», «como tú veas»): los títulos en MAYÚSCULAS de Threads, en formato normal;
+// los equipos que juegan (D.partidos) con su nombre bien escrito
+function sinMayus(t){
+  t = String(t||""); const letras = t.replace(/ vs /g," ").replace(/[^A-Za-zÁÉÍÓÚÑÜáéíóúñü]/g,"");
+  if(letras.length < 4 || letras !== letras.toUpperCase()) return t;
+  let r = t.toLowerCase().replace(/^(\s*)(\S)/, (m, a, b) => a + b.toUpperCase()).replace(/ vs /g, " – ");
+  const nombres = [...new Set((D && D.partidos || []).flatMap(m => [m.local, m.visitante]).filter(Boolean))].sort((a,b) => b.length - a.length);
+  for(const n of nombres){ const i = r.toLowerCase().indexOf(n.toLowerCase()); if(i >= 0) r = r.slice(0, i) + n + r.slice(i + n.length) }
+  return r.replace(/combilocas/gi, "Combilocas").replace(/€/g, " €").replace(/  €/g, " €");
 }
 function escudosDe(fid){
   const pm = D.partidos.find(m => String(m.id)===String(fid));

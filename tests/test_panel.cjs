@@ -142,3 +142,11 @@ assert.ok(!vm.runInContext('vBot()',context).includes('start=retry_'));
   assert.ok(vm.runInContext('vPicksDia()', context).includes('Ceuta marca'));        // al tocar, se abre
   console.log('Picks por partido: plegados y se abren al tocar.');
 }
+
+// 23/11: títulos de Threads en mayúsculas → formato normal, con los equipos bien escritos
+{
+  vm.runInContext(`D.partidos = [{local:'Levante', visitante:'Elche'}]`, context);
+  assert.strictEqual(vm.runInContext(`sinMayus('COMBI DE TIROS · LEVANTE vs ELCHE')`, context), 'Combi de tiros · Levante – Elche');
+  assert.strictEqual(vm.runInContext(`sinMayus('Ceuta marca')`, context), 'Ceuta marca');
+  console.log('Títulos: sin mayúsculas.');
+}
