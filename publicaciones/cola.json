@@ -324,5 +324,20 @@
     ],
     "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
     "fuera_ok": true
+  },
+  {
+    "id": "2026-11-23-pick-tip-1",
+    "fecha": "2026-11-23T13:46",
+    "texto": "Os dejo otro pick que pinta muy bien 👀\n🧠 Pensada con calma, sin prisas\n\n🍀 Más de 2.5 goles @1,57\n\n⚽ Istanbul Basaksehir – Corum FK · hoy 18:00\n\n👨‍💻 El Basaksehir en casa suele imponer ritmo y generar muchas ocasiones\n👨‍💻 El Corum fuera de casa suele dejar espacios y conceder goles\n👨‍💻 La cuota de 1.57 da margen para un over en un partido descompensado",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]

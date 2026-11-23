@@ -3778,5 +3778,24 @@
    "cuota_bet365": 1.17,
    "prob_cuota": 0.654
   }
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/100973",
+  "dia": "2026-11-23",
+  "hora": "18:00",
+  "local": "Istanbul Basaksehir",
+  "visitante": "Corum FK",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.57,
+  "stake": null,
+  "argumento": [
+   "El Basaksehir en casa suele imponer ritmo y generar muchas ocasiones",
+   "El Corum fuera de casa suele dejar espacios y conceder goles",
+   "La cuota de 1.57 da margen para un over en un partido descompensado"
+  ],
+  "argumento_propio": true
  }
 ]
