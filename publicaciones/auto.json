@@ -12457,12 +12457,12 @@
       "1636381|Match Winner|Home"
     ],
     "cuotas": [
-      1.12,
+      1.17,
       1.25,
       1.27,
       1.08,
       1.11,
-      1.38,
+      1.42,
       1.17,
       1.17,
       1.17,
@@ -12470,7 +12470,8 @@
       1.14,
       1.17
     ],
-    "solo_redes": true
+    "solo_redes": true,
+    "cuotas_revisadas": "2026-11-23T22:03"
   },
   {
     "id": "2026-11-24-ganadores-champions",
