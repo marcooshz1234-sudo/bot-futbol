@@ -167,7 +167,7 @@ def partidos_del_dia(dia):
         ini = datetime.fromisoformat(pa["fixture"]["date"]).astimezone(MADRID)
         if ini.strftime("%Y-%m-%d") != dia:
             continue
-        patas = patas_partido(ex)
+        patas = [x for x in patas_partido(ex) if respaldado(pa["fixture"]["id"], x["mercado"], x["opcion"])]   # 23/11
         if patas:
             from nombres import espanol
             fem = lambda n: re.sub(r" W$", " (fem.)", espanol(n))   # 18/11: «Häcken W» → «Häcken (fem.)»
@@ -348,7 +348,86 @@ def cuota_bet(sel):
 
 
 def libre(fid, mercado, opcion, usados):
-    return usados.get((fid, mercado, str(opcion)), 0) < MAX_USOS
+    # 23/11 (Marcos: «arréglalo en todos los tipos de apuestas; en Threads, aparte de las cuotas grandes, que sean
+    # cosas que las respalden un poco los datos»): ninguna pata entra si los datos no la respaldan (respaldado)
+    return usados.get((fid, mercado, str(opcion)), 0) < MAX_USOS and respaldado(fid, mercado, str(opcion))
+
+
+# ---- 23/11: respaldo de los datos para cada pata de Threads ----
+CAMPO_JUG = {"Player Fouls Committed": "faltas_c", "Player Shots On Target": "a_puerta",
+             "Home Player Shots On Target": "a_puerta", "Away Player Shots On Target": "a_puerta",
+             "Home Player Shots": "tiros", "Away Player Shots": "tiros", "Player Shots": "tiros"}
+MARGEN = 1.06          # lo que se queda la casa en la cuota
+RESP_MIN_EQ = 0.8      # cada equipo, al menos el 80 % de lo que dice la cuota (sin margen)
+_RESP = {}
+
+
+def _hist():
+    import picks as P
+    if "h" not in _HIST:
+        _HIST["h"] = P.historial()
+    return _HIST["h"]
+
+
+def frec_jugador(fid, mercado, nombre, campo, n, lado=None):
+    """(veces que llegó a n / partidos con 45'+) en sus últimos 10, o None si no tenemos sus datos."""
+    import picks as P
+    pa = (_ex(fid) or {}).get("partido") or {}
+    lados = [lado] if lado else ["home", "away"]
+    for ld in lados:
+        try:
+            fijos = P.plantilla_fija(pa["teams"][ld]["id"], _hist())
+        except Exception:
+            continue
+        for _, d in fijos.items():
+            if P.mismo_jugador(d["nombre"], nombre):
+                regs = [r for r in (d.get("partidos") or []) if (r.get("min") or 0) >= 45 and r.get(campo) is not None]
+                regs = regs[-TIROS_PARTIDOS:]
+                if len(regs) < 5:
+                    return None
+                return sum(r[campo] >= n for r in regs) / len(regs)
+    return None
+
+
+def respaldado(fid, mercado, opcion):
+    """¿Los datos respaldan la pata? Jugadores: que lo cumpla en sus últimos 10 (tiros/faltas/a puerta: 60 %;
+    goleador: al menos lo que dice la cuota). Equipos: que el % de los dos equipos (últimos 10, como los picks de
+    Telegram) llegue a lo que dice la cuota, y cada uno al menos al 80 % de eso. Sin datos → no."""
+    k = (fid, mercado, opcion)
+    if k in _RESP:
+        return _RESP[k]
+    ok = False
+    try:
+        ex = _ex(fid) or {}
+        c = _cuota_de(ex.get("cuotas") or {}, mercado, opcion)
+        implicita = 1 / c / MARGEN if c else None
+        if mercado in CAMPO_JUG and " - " in opcion:
+            nombre, n = opcion.rsplit(" - ", 1)
+            lado = "home" if mercado.startswith("Home") else "away" if mercado.startswith("Away") else None
+            fr = frec_jugador(fid, mercado, nombre.strip(), CAMPO_JUG[mercado], int(float(n)), lado)
+            ok = fr is not None and fr >= TIROS_MIN_FREC
+        elif mercado == "Anytime Goal Scorer":
+            fr = frec_jugador(fid, mercado, opcion, "goles", 1)
+            ok = fr is not None and implicita is not None and fr >= implicita
+        elif implicita:
+            import picks as P
+            pa = ex["partido"]
+            loc, vis = pa["teams"]["home"]["id"], pa["teams"]["away"]["id"]
+            h = _hist()
+            h_loc = [(x, loc) for x in h.get(loc, [])[:P.ULTIMOS]]
+            h_vis = [(x, vis) for x in h.get(vis, [])[:P.ULTIMOS]]
+            f_loc, f_vis = P.evaluador(mercado, opcion, True), P.evaluador(mercado, opcion, False)
+            if f_loc and f_vis:
+                a, na = P.frecuencia(f_loc, h_loc)
+                b, nb = P.frecuencia(f_vis, h_vis)
+                if na >= P.MIN_PARTIDOS and nb >= P.MIN_PARTIDOS:
+                    frec = (a + b) / (na + nb)
+                    ok = frec >= implicita and min(a / na, b / nb) >= RESP_MIN_EQ * implicita
+    except Exception as e:
+        print("respaldo:", mercado, opcion, str(e)[:80])
+        ok = False
+    _RESP[k] = ok
+    return ok
 
 
 def _abreviar(t):
@@ -503,23 +582,7 @@ _HIST = {}
 
 def frec_tiros(fid, mercado, nombre, n):
     """(veces que llegó a n tiros / partidos) en sus últimos partidos, o None si no tenemos sus datos."""
-    import picks as P
-    if "h" not in _HIST:
-        _HIST["h"] = P.historial()
-    pa = (_ex(fid) or {}).get("partido") or {}
-    lado = "home" if mercado.startswith("Home") else "away"
-    try:
-        fijos = P.plantilla_fija(pa["teams"][lado]["id"], _HIST["h"])
-    except Exception:
-        return None
-    for _, d in fijos.items():
-        if P.mismo_jugador(d["nombre"], nombre):
-            regs = [r for r in (d.get("partidos") or []) if (r.get("min") or 0) >= 45 and r.get("tiros") is not None]
-            regs = regs[-TIROS_PARTIDOS:]
-            if len(regs) < 5:
-                return None
-            return sum(r["tiros"] >= n for r in regs) / len(regs)
-    return None
+    return frec_jugador(fid, mercado, nombre, "tiros", n, "home" if mercado.startswith("Home") else "away")
 
 
 def duelo_tiros(partidos, semilla, usados):

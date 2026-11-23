@@ -218,3 +218,4 @@
 - 22/11 Combi de @10 o más acertada (Threads o Telegram) → post de «combi acertada» en Telegram y FIJADO en el canal.
 - 23/11 Telegram: los picks de mañana, nunca antes de las 21:00 (detrás de los de hoy). El primer pick del día abre con «Empezamos el día…»; «otro pick…» solo si ya ha salido alguno. En el «Por qué», nada de noticias que no sean de fútbol de verdad (homenajes, fallecimientos…).
 - 23/11 Tiros de jugador: nunca solo por la cuota; tiene que cumplirlo en 6 de sus últimos 10 partidos, y sin datos del jugador no se pone.
+- 23/11 Threads: cada pata, aunque la combi sea de cuota grande, respaldada por los datos (equipos: su % en los últimos 10 llega a lo que dice la cuota; jugadores: 6 de 10; sin datos, no entra).
