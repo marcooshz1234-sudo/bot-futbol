@@ -1,6 +1,6 @@
 {
  "dia": "2026-11-23",
- "generado": "2026-11-23T19:49+01:00",
+ "generado": "2026-11-23T20:21+01:00",
  "rango": [
   "2026-11-23",
   "2026-11-26"
@@ -1208,59 +1208,6 @@
  ],
  "destacadas": [
   {
-   "clave": "todo-2026-11-23",
-   "titulo": "📅 Todo el lunes",
-   "expl": "Una pata de cada partido del lunes 23",
-   "liga": "Varias",
-   "patas": [
-    {
-     "sel": "1550203|Player Fouls Committed|Radu Dragusin - 1",
-     "texto": "Radu Dragusin: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,50 por 90' (2-1-1-2-1-2)",
-     "nota": 1.0472,
-     "equipo": "Fiorentina",
-     "lado": "V",
-     "partido": "Monza–Fiorentina",
-     "hora": "2026-11-23T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/1579.png",
-     "logo_v": "https://media.api-sports.io/football/teams/502.png"
-    },
-    {
-     "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
-     "texto": "Jannik Schuster: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.88,
-     "dato": "cumple 5/5 siendo titular · 1,66 por 90' (2-1-2-1-2)",
-     "nota": 1.04,
-     "equipo": "Brentford",
-     "lado": "L",
-     "partido": "Brentford–Everton",
-     "hora": "2026-11-23T21:00",
-     "liga": "Premier League",
-     "logo_l": "https://media.api-sports.io/football/teams/55.png",
-     "logo_v": "https://media.api-sports.io/football/teams/45.png"
-    },
-    {
-     "sel": "1570457|Away Corners Over/Under|Over 3.5",
-     "texto": "Elche: más de 3,5 córners",
-     "cuota": 1.67,
-     "p": 0.742,
-     "dato": "Elche saca 4,7 córners y el rival concede 5,4",
-     "nota": 0.8274281804606652,
-     "partido": "Levante–Elche",
-     "hora": "2026-11-23T21:00",
-     "liga": "LaLiga",
-     "logo_l": "https://media.api-sports.io/football/teams/539.png",
-     "logo_v": "https://media.api-sports.io/football/teams/797.png"
-    }
-   ],
-   "cuota": 3.83,
-   "prob": 0.575
-  },
-  {
    "clave": "todo-2026-11-24",
    "titulo": "📅 Todo el martes",
    "expl": "Una pata de cada partido del martes 24",
@@ -2406,21 +2353,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550203|Player Fouls Committed|Radu Dragusin - 1",
-     "texto": "Radu Dragusin: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.88,
-     "dato": "cumple 6/6 siendo titular · 1,50 por 90' (2-1-1-2-1-2)",
-     "nota": 1.0472,
-     "equipo": "Fiorentina",
-     "lado": "V",
-     "partido": "Monza–Fiorentina",
-     "hora": "2026-11-23T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/1579.png",
-     "logo_v": "https://media.api-sports.io/football/teams/502.png"
-    },
-    {
      "sel": "1557469|Player Fouls Committed|Jannik Schuster - 1",
      "texto": "Jannik Schuster: comete 1+ falta",
      "cuota": 1.5,
@@ -2447,6 +2379,19 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/42.png",
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
+     "sel": "1635692|Away Corners Over/Under|Over 2.5",
+     "texto": "Napoli: más de 2,5 córners",
+     "cuota": 1.67,
+     "p": 0.832,
+     "dato": "Napoli saca 5,2 córners y el rival concede 3,9",
+     "nota": 0.9926617227694676,
+     "partido": "Manchester City–Napoli",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/50.png",
+     "logo_v": "https://media.api-sports.io/football/teams/492.png"
     },
     {
      "sel": "1635718|Away Player Shots|Lamine Yamal - 5",
@@ -2505,8 +2450,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
     }
    ],
-   "cuota": 28.05,
-   "prob": 0.433
+   "cuota": 30.62,
+   "prob": 0.409
   },
   {
    "clave": "segura",
@@ -2530,17 +2475,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     },
     {
-     "sel": "1635692|Away Corners Over/Under|Over 2.5",
-     "texto": "Napoli: más de 2,5 córners",
-     "cuota": 1.67,
-     "p": 0.832,
-     "dato": "Napoli saca 5,2 córners y el rival concede 3,9",
-     "nota": 0.9926617227694676,
-     "partido": "Manchester City–Napoli",
+     "sel": "1635611|Player Fouls Committed|Gabriel Magalhaes - 1",
+     "texto": "Gabriel Magalhaes: comete 1+ falta",
+     "cuota": 1.53,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-0-2-1-1)",
+     "nota": 0.9060000000000001,
+     "equipo": "Arsenal",
+     "lado": "L",
+     "partido": "Arsenal–Borussia Dortmund",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/50.png",
-     "logo_v": "https://media.api-sports.io/football/teams/492.png"
+     "logo_l": "https://media.api-sports.io/football/teams/42.png",
+     "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
      "sel": "1635724|Home Corners Over/Under|Over 4.5",
@@ -2556,8 +2503,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/611.png"
     }
    ],
-   "cuota": 4.18,
-   "prob": 0.534
+   "cuota": 3.83,
+   "prob": 0.514
   },
   {
    "clave": "ganan",
@@ -2924,21 +2871,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/45.png"
     },
     {
-     "sel": "1635611|Player Fouls Committed|Gabriel Magalhaes - 1",
-     "texto": "Gabriel Magalhaes: comete 1+ falta",
-     "cuota": 1.53,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,00 por 90' (1-1-0-2-1-1)",
-     "nota": 0.9060000000000001,
-     "equipo": "Arsenal",
-     "lado": "L",
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
-    {
      "sel": "1635715|Player Fouls Committed|Mauro Junior - 1",
      "texto": "Mauro Junior: comete 1+ falta",
      "cuota": 1.4,
@@ -2982,9 +2914,24 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/228.png",
      "logo_v": "https://media.api-sports.io/football/teams/33.png"
+    },
+    {
+     "sel": "1635642|Player Fouls Committed|Dominik Szoboszlai - 1",
+     "texto": "Dominik Szoboszlai: comete 1+ falta",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,55 por 90' (1-4-2-1-0-1)",
+     "nota": 0.84,
+     "equipo": "Liverpool",
+     "lado": "V",
+     "partido": "Club Brugge KV–Liverpool",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/569.png",
+     "logo_v": "https://media.api-sports.io/football/teams/40.png"
     }
    ],
-   "cuota": 6.42,
+   "cuota": 5.88,
    "prob": 0.328
   },
   {
@@ -3079,19 +3026,6 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1550203|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.57,
-     "p": 0.792,
-     "dato": "más de 2,5 goles en el 83% y el 100% de sus partidos",
-     "nota": 0.9001470469580382,
-     "partido": "Monza–Fiorentina",
-     "hora": "2026-11-23T20:45",
-     "liga": "Serie A",
-     "logo_l": "https://media.api-sports.io/football/teams/1579.png",
-     "logo_v": "https://media.api-sports.io/football/teams/502.png"
-    },
-    {
      "sel": "1635692|Total - Away|Over 0.5",
      "texto": "Napoli marca",
      "cuota": 1.57,
@@ -3142,10 +3076,23 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/651.png",
      "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    {
+     "sel": "1636410|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.48,
+     "p": 0.75,
+     "dato": "más de 2,5 goles en el 88% y el 70% de sus partidos",
+     "nota": 0.8005547777810855,
+     "partido": "SC Freiburg–Twente",
+     "hora": "2026-11-26T21:00",
+     "liga": "Conference League",
+     "logo_l": "https://media.api-sports.io/football/teams/160.png",
+     "logo_v": "https://media.api-sports.io/football/teams/415.png"
     }
    ],
-   "cuota": 10.2,
-   "prob": 0.245
+   "cuota": 9.62,
+   "prob": 0.232
   },
   {
    "clave": "corners",
@@ -3276,21 +3223,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
-     "sel": "1635642|Player Fouls Committed|Dominik Szoboszlai - 1",
-     "texto": "Dominik Szoboszlai: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,55 por 90' (1-4-2-1-0-1)",
-     "nota": 0.84,
-     "equipo": "Liverpool",
-     "lado": "V",
-     "partido": "Club Brugge KV–Liverpool",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/569.png",
-     "logo_v": "https://media.api-sports.io/football/teams/40.png"
-    },
-    {
      "sel": "1635625|Player Fouls Committed|Ademola Lookman - 1",
      "texto": "Ademola Lookman: comete 1+ falta",
      "cuota": 1.5,
@@ -3345,21 +3277,34 @@
      "logo_v": "https://media.api-sports.io/football/teams/201.png"
     },
     {
-     "sel": "1636410|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.48,
-     "p": 0.75,
-     "dato": "más de 2,5 goles en el 88% y el 70% de sus partidos",
-     "nota": 0.8005547777810855,
+     "sel": "1636410|Both Teams Score|Yes",
+     "texto": "Ambos marcan",
+     "cuota": 1.44,
+     "p": 0.739,
+     "dato": "marcan los dos en el 75% y el 70% de sus partidos",
+     "nota": 0.7589488214438651,
      "partido": "SC Freiburg–Twente",
      "hora": "2026-11-26T21:00",
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/160.png",
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+     "sel": "1636301|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.57,
+     "p": 0.713,
+     "dato": "más de 2,5 goles en el 82% y el 71% de sus partidos",
+     "nota": 0.7581802795076851,
+     "partido": "NEC Nijmegen–Rennes",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/413.png",
+     "logo_v": "https://media.api-sports.io/football/teams/94.png"
     }
    ],
-   "cuota": 58.35,
-   "prob": 0.067
+   "cuota": 63.67,
+   "prob": 0.059
   }
  ],
  "otras_ligas": false,
