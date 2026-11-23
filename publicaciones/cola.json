@@ -453,5 +453,20 @@
       "threads": "17947227294370072",
       "threads_enlace": "17969141874210587"
     }
+  },
+  {
+    "id": "2026-11-23-balance-auto",
+    "fecha": "2026-11-23T23:15",
+    "texto": "📊 RESUMEN DEL LUNES 🍀\n\n✅ 2 de 2 picks en verde\n💶 10 € a cada pick → +9,00 €\n\n🔔 Mañana más. Activad las notificaciones 👀",
+    "foto": "publicaciones/media/2026-11-23-balance-auto.jpg",
+    "origen": "bot",
+    "directo": true,
+    "facebook": "texto",
+    "sin_instagram": true,
+    "solo_en": [
+      "telegram"
+    ],
+    "requiere_ok": true,
+    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar."
   }
 ]
