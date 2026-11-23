@@ -55,32 +55,9 @@
    "post": "2026-11-22-cuotaza-1647594-2fed9e"
   }
  },
- "top": [
-  {
-   "local": "AD Ceuta FC",
-   "visitante": "Almeria",
-   "inicio": "2026-11-23T20:30",
-   "texto": "AD Ceuta FC o empate",
-   "cuota": 1.91,
-   "justa": 1.93,
-   "ev": -0.01,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
-  },
-  {
-   "local": "AD Ceuta FC",
-   "visitante": "Almeria",
-   "inicio": "2026-11-23T20:30",
-   "texto": "Almeria marca 2 o más",
-   "cuota": 1.8,
-   "justa": 1.84,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
-  }
- ],
+ "top": [],
  "ultima": {
-  "hora": "2026-11-23T04:23",
+  "hora": "2026-11-23T04:53",
   "revisadas": 0,
   "mejor": null
  },
