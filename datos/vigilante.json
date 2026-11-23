@@ -138,7 +138,8 @@
   "redes-2026-11-23-pick-seguro-3-threads-instagram": "2026-11-23T12:56",
   "redes-2026-11-23-noche-levante-threads-instagram": "2026-11-23T13:36",
   "redes-2026-11-23-combi-tres-threads-instagram": "2026-11-23T13:57",
-  "redes-2026-11-23-noche-brentford-threads-instagram": "2026-11-23T15:50"
+  "redes-2026-11-23-noche-brentford-threads-instagram": "2026-11-23T15:50",
+  "prensa-1635667-LamineYamal": "2026-11-23T17:12"
  },
  "abiertos": [
   {
@@ -174,6 +175,10 @@
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)"
   },
   {
+   "clave": "prensa-1635667-LamineYamal",
+   "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 1 post(s) de este partido: ganadores-champions"
+  },
+  {
    "clave": "regla-cuota-2026-11-23-semana-europa",
    "t": "📏 Regla (cuota): una pata a 1.08 (mínimo 1.20 por pata) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
@@ -190,8 +195,13 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T17:02",
+ "revisado": "2026-11-23T17:12",
  "historial": [
+  {
+   "hora": "2026-11-23T17:12",
+   "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 1 post(s) de este partido: ganadores-champions",
+   "k": "prensa-1635667-LamineYamal"
+  },
   {
    "hora": "2026-11-23T15:50",
    "t": "⏰ No ha salido en threads ni instagram (15:30): Vamos con otro pick, familia 👇",
@@ -486,11 +496,6 @@
    "hora": "2026-11-22T12:40",
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)",
    "k": "regla-orden-2026-11-23-semana-europa"
-  },
-  {
-   "hora": "2026-11-22T08:41",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (escalera, pick-seguro-6, loca-th-1740-escudos)",
-   "k": "repe-2026-11-22-1570456|Total - Home|Over 0.5"
   }
  ]
 }
