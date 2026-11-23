@@ -422,7 +422,14 @@
     "verde_de": "2026-11-23-loca-th-noche-2200-duelo",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17941187904125779"
+    }
   },
   {
     "id": "2026-11-23-verde-auto-2026-11-23-loca-th-0200-duelo",
@@ -436,6 +443,13 @@
     "verde_de": "2026-11-23-loca-th-0200-duelo",
     "solo_en": [
       "threads"
-    ]
+    ],
+    "redes": {
+      "instagram": null,
+      "instagram_reel": null,
+      "instagram_story": null,
+      "facebook": null,
+      "threads": "17947227294370072"
+    }
   }
 ]
