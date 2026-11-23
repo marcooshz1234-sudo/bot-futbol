@@ -249,5 +249,38 @@
       "instagram_story": null,
       "facebook": null
     }
+  },
+  {
+    "id": "2026-11-23-cuotaza-1608377-181ed6",
+    "fecha": "2026-11-23T09:00",
+    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Lecco – Lumezzane · 20:45\n\n🍀 Lumezzane o empate @1,95\n\n👀 Lo normal sería @1,76: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+    "foto": null,
+    "origen": "cazador",
+    "directo": true,
+    "requiere_ok": true,
+    "aviso": "🚨 CUOTAZA: Lecco – Lumezzane (20:45)\nLumezzane o empate @1,95 en bet365; lo justo según las otras casas es @1,76 (+11%).\n¿La subimos? Solo sale si le das a Publicar.",
+    "sin_instagram": true,
+    "sel": [
+      "1608377|Double Chance|Draw/Away"
+    ],
+    "cuotas": [
+      1.95
+    ],
+    "cuotaza": {
+      "partido_id": 1608377,
+      "local": "Lecco",
+      "visitante": "Lumezzane",
+      "inicio": "2026-11-23T20:45",
+      "liga": "Serie C - Girone A",
+      "mercado": "Double Chance",
+      "opcion": "Draw/Away",
+      "cuota": 1.95,
+      "justa": 1.76,
+      "ev": 0.106,
+      "fuente": "las otras casas",
+      "edad_h": 0.5,
+      "texto": "Lumezzane o empate"
+    },
+    "caducada": "fuera de las 5 grandes"
   }
 ]

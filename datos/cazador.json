@@ -53,13 +53,67 @@
    "cuota": 2.2,
    "ev": 0.152,
    "post": "2026-11-22-cuotaza-1647594-2fed9e"
+  },
+  "1608377|Double Chance|Draw/Away": {
+   "dia": "2026-11-23",
+   "cuota": 1.95,
+   "ev": 0.106,
+   "post": "2026-11-23-cuotaza-1608377-181ed6"
   }
  },
- "top": [],
+ "top": [
+  {
+   "local": "Lecco",
+   "visitante": "Lumezzane",
+   "inicio": "2026-11-23T20:45",
+   "texto": "Lumezzane o empate",
+   "cuota": 1.95,
+   "justa": 1.76,
+   "ev": 0.106,
+   "fuente": "las otras casas",
+   "edad_h": 0.5
+  },
+  {
+   "local": "Lecco",
+   "visitante": "Lumezzane",
+   "inicio": "2026-11-23T20:45",
+   "texto": "Lumezzane marca",
+   "cuota": 1.5,
+   "justa": 1.43,
+   "ev": 0.051,
+   "fuente": "las otras casas",
+   "edad_h": 0.5
+  },
+  {
+   "local": "AD Ceuta FC",
+   "visitante": "Almeria",
+   "inicio": "2026-11-23T20:30",
+   "texto": "AD Ceuta FC marca",
+   "cuota": 1.4,
+   "justa": 1.41,
+   "ev": -0.004,
+   "fuente": "las otras casas",
+   "edad_h": 0.5
+  }
+ ],
  "ultima": {
-  "hora": "2026-11-23T08:28",
-  "revisadas": 0,
-  "mejor": null
+  "hora": "2026-11-23T09:00",
+  "revisadas": 1,
+  "mejor": {
+   "partido_id": 1608377,
+   "local": "Lecco",
+   "visitante": "Lumezzane",
+   "inicio": "2026-11-23T20:45",
+   "liga": "Serie C - Girone A",
+   "mercado": "Double Chance",
+   "opcion": "Draw/Away",
+   "cuota": 1.95,
+   "justa": 1.76,
+   "ev": 0.106,
+   "fuente": "las otras casas",
+   "edad_h": 0.5,
+   "texto": "Lumezzane o empate"
+  }
  },
  "historial": [
   {
@@ -97,6 +151,10 @@
   {
    "hora": "2026-11-22T09:02",
    "t": "Vitória de Sernache o empate @2,20 (justa 1,91, +15%)"
+  },
+  {
+   "hora": "2026-11-23T09:00",
+   "t": "Lumezzane o empate @1,95 (justa 1,76, +11%)"
   }
  ]
 }
