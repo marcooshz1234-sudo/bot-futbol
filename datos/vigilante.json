@@ -133,7 +133,8 @@
   "cuotas-2026-11-24-pick-extra-leipzig": "2026-11-23T23:01",
   "cuotas-2026-11-24-pick-extra-city": "2026-11-23T23:01",
   "cuotas-2026-11-24-pick-extra-feyenoord": "2026-11-23T23:01",
-  "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5": "2026-11-23T23:01"
+  "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5": "2026-11-23T23:01",
+  "prensa-1635641-10690e46": "2026-11-23T23:50"
  },
  "abiertos": [
   {
@@ -149,12 +150,12 @@
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
   },
   {
-   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
-   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
-  },
-  {
    "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
   },
   {
    "clave": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
@@ -165,12 +166,21 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, estrella-1635692, loca-th-noche-2100-x100)"
   },
   {
+   "clave": "prensa-1635641-10690e46",
+   "t": "📰 Bodo/Glimt–Lask Linz: «Bodø/Glimt-Lask Linz: el Bodø/Glimt llega con tres bajas» (Tu Futbolero) · tenemos 4 post(s) de este partido: ganadores-champions, escalera, lista-europa-1, lista-europa-2"
+  },
+  {
    "clave": "escalera-2026-11-23",
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T23:40",
+ "revisado": "2026-11-23T23:50",
  "historial": [
+  {
+   "hora": "2026-11-23T23:50",
+   "t": "📰 Bodo/Glimt–Lask Linz: «Bodø/Glimt-Lask Linz: el Bodø/Glimt llega con tres bajas» (Tu Futbolero) · tenemos 4 post(s) de este partido: ganadores-champions, escalera, lista-europa-1, lista-europa-2",
+   "k": "prensa-1635641-10690e46"
+  },
   {
    "hora": "2026-11-23T23:01",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
@@ -465,11 +475,6 @@
    "hora": "2026-11-22T12:40",
    "t": "⏰ No ha salido en threads (09:40): 😮‍💨 LA COMBI DE LOS EMPATES 😮‍💨",
    "k": "redes-2026-11-22-loca-th-0940-empates-threads"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "⏰ No ha salido en threads (10:00): ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆",
-   "k": "redes-2026-11-22-loca-th-1000-ganaambos-threads"
   }
  ]
 }
