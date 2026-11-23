@@ -12313,7 +12313,7 @@
     "cuotas": [
       1.83,
       1.83,
-      1.8,
+      1.73,
       2.0,
       1.91,
       2.0,
@@ -12330,7 +12330,8 @@
     "sin_porque": true,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": true
+    "enlace_telegram": true,
+    "cuotas_revisadas": "2026-11-23T09:03"
   },
   {
     "id": "2026-11-23-pick-seguro-3",
