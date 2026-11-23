@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23 22:49",
+ "actualizado": "2026-11-23 23:00",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3741,
-   "hoy": 27,
+   "seguidores": 3740,
+   "hoy": 26,
    "serie": [
     3160,
     3215,
@@ -24,7 +24,7 @@
     3248,
     3475,
     3714,
-    3741
+    3740
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4301,
- "total_hoy": 26,
+ "total": 4300,
+ "total_hoy": 25,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "23:00",
+  "hora": "23:30",
   "dia": "2026-11-23",
-  "titulo": "Todo a las 2100"
+  "titulo": "Los picks de la semana"
  },
  "ayer": {
   "aciertos": 12,
@@ -258,7 +258,7 @@
   },
   "2026-11-23": {
    "instagram": 54,
-   "threads": 3741,
+   "threads": 3740,
    "facebook": 1,
    "telegram": 505
   }

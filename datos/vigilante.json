@@ -129,9 +129,25 @@
   "prensa-1635667-LamineYamal": "2026-11-23T17:12",
   "redes-2026-11-23-noche-ceuta-threads-instagram": "2026-11-23T18:13",
   "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1": "2026-11-23T20:05",
-  "prensa-1635731-0093ac47": "2026-11-23T20:56"
+  "prensa-1635731-0093ac47": "2026-11-23T20:56",
+  "cuotas-2026-11-24-pick-extra-leipzig": "2026-11-23T23:01",
+  "cuotas-2026-11-24-pick-extra-city": "2026-11-23T23:01",
+  "cuotas-2026-11-24-pick-extra-feyenoord": "2026-11-23T23:01",
+  "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5": "2026-11-23T23:01"
  },
  "abiertos": [
+  {
+   "clave": "cuotas-2026-11-24-pick-extra-leipzig",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
+  },
+  {
+   "clave": "cuotas-2026-11-24-pick-extra-city",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
+  },
+  {
+   "clave": "cuotas-2026-11-24-pick-extra-feyenoord",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
+  },
   {
    "clave": "cuotabaja-2026-11-23-semana-europa",
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
@@ -149,8 +165,8 @@
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)"
   },
   {
-   "clave": "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-seguro-4, loca-th-noche-2100-x100, loca-th-noche-2230-x50)"
+   "clave": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, estrella-1635692, loca-th-noche-2100-x100)"
   },
   {
    "clave": "regla-cuota-2026-11-23-semana-europa",
@@ -169,8 +185,28 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T22:50",
+ "revisado": "2026-11-23T23:01",
  "historial": [
+  {
+   "hora": "2026-11-23T23:01",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
+   "k": "cuotas-2026-11-24-pick-extra-leipzig"
+  },
+  {
+   "hora": "2026-11-23T23:01",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
+   "k": "cuotas-2026-11-24-pick-extra-city"
+  },
+  {
+   "hora": "2026-11-23T23:01",
+   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇",
+   "k": "cuotas-2026-11-24-pick-extra-feyenoord"
+  },
+  {
+   "hora": "2026-11-23T23:01",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-extra-city, estrella-1635692, loca-th-noche-2100-x100)",
+   "k": "repe-2026-11-24-1635692|Goals Over/Under - Second Half|Over 1.5"
+  },
   {
    "hora": "2026-11-23T20:56",
    "t": "📰 Slovan Bratislava–Real Betis: «Alineación probable del Betis ante el Slovan Bratislava: Lo Celso, baja de última hora» (Andalucía Información) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, pick-seguro-2, loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2300-hora",
@@ -450,26 +486,6 @@
    "hora": "2026-11-22T12:40",
    "t": "⏰ No ha salido en threads (10:00): ⚽🏆 GANA Y AMBOS MARCAN ⚽🏆",
    "k": "redes-2026-11-22-loca-th-1000-ganaambos-threads"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "⏰ No ha salido en threads ni instagram (11:00): ⚡ COMBI HULL CITY – BRIGHTON ⚡",
-   "k": "redes-2026-11-22-loca-th-1100-escudos-threads-instagram"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "⏰ No ha salido en threads ni instagram (11:20): ⚡ COMBI SASSUOLO – GENOA ⚡",
-   "k": "redes-2026-11-22-loca-th-1120-escudos-threads-instagram"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "⏰ No ha salido en threads ni instagram (11:40): 🚨 COMBI LORIENT – RENNES 🚨 · error: caducado: no salió a tiempo",
-   "k": "redes-2026-11-22-loca-th-1140-escudos-threads-instagram"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "📰 Osasuna–Malaga: «Harry Kane, lesión de larga duración» (Fichajes.net) · tenemos 1 post(s) de este partido: combi-tres",
-   "k": "prensa-1570458-HKane"
   }
  ]
 }
