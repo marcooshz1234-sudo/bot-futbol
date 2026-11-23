@@ -14748,7 +14748,7 @@
       1.73,
       1.57,
       1.8,
-      1.57,
+      1.5,
       1.62
     ],
     "origen": "threads_locas",
@@ -14760,7 +14760,8 @@
       "threads"
     ],
     "sin_foto": true,
-    "sin_porque": true
+    "sin_porque": true,
+    "cuotas_revisadas": "2026-11-23T21:46"
   },
   {
     "id": "2026-11-24-loca-th-noche-2300-hora",
