@@ -12412,7 +12412,7 @@
     "cuotas": [
       2.0,
       1.5,
-      1.57,
+      1.62,
       2.0
     ],
     "solo_redes": true,
@@ -12432,7 +12432,8 @@
     "cuota_bet365": 11.82,
     "fijo": true,
     "directo": true,
-    "enlace_telegram": false
+    "enlace_telegram": false,
+    "cuotas_revisadas": "2026-11-23T15:34"
   },
   {
     "id": "2026-11-23-semana-europa",
