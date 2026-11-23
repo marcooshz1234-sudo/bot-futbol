@@ -1,10 +1,6 @@
 {
  "informe": "2026-11-23",
  "vistos": {
-  "estrella-2026-11-21-pick-seguro-c751f9e5": "2026-11-20T19:19",
-  "estrella-2026-11-21-estrella-1557475-c751f9e5": "2026-11-20T19:19",
-  "regla-estrella-2026-11-21-pick-seguro": "2026-11-20T19:19",
-  "regla-estrella-2026-11-21-estrella-1557475": "2026-11-20T19:19",
   "directo-2026-11-20-pick-claude-4": "2026-11-20T19:30",
   "directo-2026-11-20-pick-claude-5": "2026-11-20T19:30",
   "repe-2026-11-20-1552827|Corners 1x2|Home": "2026-11-20T19:30",
@@ -143,10 +139,6 @@
  },
  "abiertos": [
   {
-   "clave": "redes-2026-11-23-noche-levante-threads-instagram",
-   "t": "⏰ No ha salido en threads ni instagram (13:15): Empezamos el día con este pick, familia 👇"
-  },
-  {
    "clave": "redes-2026-11-23-noche-brentford-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (15:30): Vamos con otro pick, familia 👇"
   },
@@ -163,12 +155,12 @@
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
-   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
@@ -191,7 +183,7 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T19:13",
+ "revisado": "2026-11-23T19:24",
  "historial": [
   {
    "hora": "2026-11-23T18:13",
