@@ -186,6 +186,13 @@ def sin_porque(texto):
 OTRO = re.compile(r"^(Otro pick|Vamos con otro|Os dejo otro|Este también|Seguimos con|Y otro|Otro más)", re.I)
 EMPEZAR = re.compile(r"^(Empezamos|Arrancamos|Abrimos el día|Primer pick)", re.I)
 FRASES_EMPEZAR = ["Empezamos el día con este pick, familia 👇", "Arrancamos el día con este 🔥", "Abrimos el día con este pick 🍀"]
+EL_PICK = re.compile(r"\bel pick\b", re.I)
+try:
+    from plantillas import SALUDOS_PICK as _S
+    from copiar_tipsters import ABRE_PICK as _A, ABRE_COMBI as _C
+    SALUDOS = set(_S) | set(_A) | set(_C)
+except Exception:
+    SALUDOS = set()
 FRASES_OTRO = ["Vamos con otro pick, familia 👇", "Seguimos con otro que nos gusta 🔥", "Os dejo otro pick que pinta muy bien 👀"]
 
 
@@ -219,9 +226,13 @@ def primera_frase(p, texto, primero):
     lineas = texto.split("\n", 1)
     cab, resto = lineas[0], (lineas[1] if len(lineas) > 1 else "")
     n = sum(map(ord, p["id"]))
-    if primero and OTRO.search(cab.strip()):
+    c = cab.strip()
+    # 23/11 12:37 (Marcos: «ha subido "Os dejo el pick, familia", ¿a qué se refiere con EL pick?»): cualquier saludo
+    # genérico del primer pick pasa a «Empezamos el día…»; después, los de «el pick» pasan a «otro pick»
+    saludo = c in SALUDOS or OTRO.search(c) or EMPEZAR.search(c)
+    if primero and saludo and not EMPEZAR.search(c):
         cab = FRASES_EMPEZAR[n % len(FRASES_EMPEZAR)]
-    elif not primero and EMPEZAR.search(cab.strip()):
+    elif not primero and (EMPEZAR.search(c) or EL_PICK.search(c)):
         cab = FRASES_OTRO[n % len(FRASES_OTRO)]
     return cab + ("\n" + resto if len(lineas) > 1 else "")
 

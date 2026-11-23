@@ -24,7 +24,11 @@ class OrdenDelDia(unittest.TestCase):
         self.assertTrue(t.endswith("🍀 Gana el Madrid"))
         t = PT.primera_frase(p, "Empezamos el día con este pick\n🍀 x", primero=False)
         self.assertTrue(PT.OTRO.search(t.split("\n")[0]))
-        self.assertEqual(PT.primera_frase(p, "Pick de hoy 📊\nx", primero=True), "Pick de hoy 📊\nx")   # neutra: igual
+        t = PT.primera_frase(p, "Os dejo el pick, familia 👇\nx", primero=True)                 # 12:37: «¿qué pick?»
+        self.assertTrue(PT.EMPEZAR.search(t.split("\n")[0]))
+        t = PT.primera_frase(p, "Os dejo el pick, familia 👇\nx", primero=False)
+        self.assertTrue(PT.OTRO.search(t.split("\n")[0]))
+        self.assertEqual(PT.primera_frase(p, "🚨 CUOTAZA EN BET365 🚨\nx", primero=True), "🚨 CUOTAZA EN BET365 🚨\nx")
 
     def test_pick_de_manana_espera_a_la_noche(self):
         tmp = Path(tempfile.mkdtemp())
