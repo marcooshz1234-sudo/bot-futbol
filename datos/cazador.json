@@ -71,7 +71,7 @@
    "justa": 1.89,
    "ev": 0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "AD Ceuta FC",
@@ -82,7 +82,7 @@
    "justa": 1.99,
    "ev": 0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   },
   {
    "local": "AD Ceuta FC",
@@ -93,33 +93,11 @@
    "justa": 2.01,
    "ev": -0.007,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "Arsenal",
-   "visitante": "Borussia Dortmund",
-   "inicio": "2026-11-24T21:00",
-   "texto": "Ambos marcan en Arsenal–Borussia Dortmund",
-   "cuota": 1.95,
-   "justa": 1.98,
-   "ev": -0.014,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
-  },
-  {
-   "local": "Feyenoord",
-   "visitante": "FC Porto",
-   "inicio": "2026-11-24T21:00",
-   "texto": "Feyenoord marca 2 o más",
-   "cuota": 2.2,
-   "justa": 2.24,
-   "ev": -0.019,
-   "fuente": "las otras casas",
-   "edad_h": 7.8
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-23T16:21",
+  "hora": "2026-11-23T16:50",
   "revisadas": 0,
   "mejor": null
  },
