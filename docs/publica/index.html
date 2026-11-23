@@ -460,7 +460,7 @@ function vPicksDia(){
         <img src="${esc(g.logo_l)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy">
         <b class="sp" style="font-size:15px">${esc(g.local)} – ${esc(g.visitante)}</b>
         <img src="${esc(g.logo_v)}" alt="" style="width:24px;height:24px;object-fit:contain" loading="lazy">
-        <span class="mut" style="font-size:12px;white-space:nowrap">${g.picks.length} · ${ab?"▲":"▼"}</span></div>
+        <span class="mut" style="font-size:12px;white-space:nowrap">${g.picks.length} pick${g.picks.length>1?"s":""} ${ab?"▲":"▼"}</span></div>
       ${!ab?"":`<div style="margin-top:6px">${g.en_juego?`<div class="mut" style="font-size:12.5px;padding:2px 0 6px;line-height:1.45">🎯 Qué se juegan<br>
         ${[["local",g.local],["visitante",g.visitante]].map(([k,n])=>`${g.en_juego[k].estado==="nada"?"😴":g.en_juego[k].estado==="se_juega"?"🔥":"➖"} <b>${esc(n)}</b>: ${esc(g.en_juego[k].texto)}`).join("<br>")}</div>`:""}
       ${g.picks.map(x=>`<div class="row" style="font-size:14px;padding:5px 0;border-top:1px solid var(--line)">

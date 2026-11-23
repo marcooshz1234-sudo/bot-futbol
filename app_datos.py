@@ -49,6 +49,33 @@ def resumen_comunidad(ahora):
     return {"participantes": len({p["uid"] for p in sem}), "picks": len(sem)}
 
 
+SALUDO = re.compile(r"^(Empezamos|Arrancamos|Abrimos|Vamos con|Seguimos|Os dejo|Otro pick|Pick (de hoy|que)|Este (lo|nos|también)|"
+                    r"Cerramos|Combi para|Combinada (que|para)|Y otro|Otro más)", re.I)
+
+
+def titulo_de(texto):
+    """23/11 (Marcos: «quiero que la app sea profesional»): el título de un post es lo que se apuesta, no el saludo
+    («Vamos con otro pick, familia» → «Gana el Real Madrid»)."""
+    lineas = [l.strip() for l in (texto or "").strip().splitlines() if l.strip()]
+    if not lineas:
+        return ""
+    if SALUDO.search(re.sub(r"^[^\w¡¿]+", "", lineas[0])):
+        picks_ = [l for l in lineas if l.startswith("🍀")]
+        if len(picks_) == 1:
+            return _es(re.sub(r"\s*@\s*\d+[.,]\d+.*$", "", picks_[0].lstrip("🍀").strip()))
+        if picks_:
+            return f"Combi de {len(picks_)} picks"
+    return lineas[0]
+
+
+def _es(t):
+    try:
+        from nombres import espanol
+        return re.sub(r" W\b", " (fem.)", espanol(t))
+    except Exception:
+        return t
+
+
 def datos_partido(fid):
     final = leer(PARTIDOS / f"{fid}.json")
     if final and final.get("estado") in FT:
@@ -950,6 +977,14 @@ def main():
     for x in esc.get("historial") or []:   # el mismo día y escalón una sola vez (el último)
         unicos[(x.get("dia"), x.get("escalon"))] = x
     escalera = {"actual": esc.get("actual"), "historial": list(unicos.values())[-20:]}
+    try:   # 23/11 (app profesional): nombres en español también en la escalera («Inter Milano W» → «Inter (fem.)»)
+        from nombres import espanol
+        for x in escalera["historial"] + ([escalera["actual"]] if escalera["actual"] else []):
+            for pk in x.get("picks") or []:
+                if pk.get("texto"):
+                    pk["texto"] = re.sub(r" W\b", " (fem.)", espanol(pk["texto"]))
+    except Exception as e:
+        print("escalera (nombres):", e)
     if escalera["actual"]:
         escalera["actual"] = dict(escalera["actual"], picks=[dict(p, estado=estado_pick(p)) if "mercado" in p else p
                                                              for p in escalera["actual"]["picks"]])
@@ -1008,11 +1043,15 @@ def main():
     def cuota_post(t):
         m = re.search(r"cuota(?: total)?(?: aprox\.)?:?\s*~?(\d+[.,]\d+)", t, re.I) or \
             re.search(r"CREAR APUESTA x(\d+[.,]\d+)", t)   # 27/10: boletos de bet365
+        if not m:   # 23/11: un pick suelto («🍀 Gana el Madrid @1,53») también tiene su cuota
+            picks_ = re.findall(r"^🍀\s*.+?@\s*(\d+[.,]\d+)", t, re.M)
+            if len(picks_) == 1:
+                return float(picks_[0].replace(",", "."))
         return float(m.group(1).replace(",", ".")) if m else None
 
     publicados, calendario = [], []
     for p in sorted(todos, key=lambda x: x["fecha"]):
-        base = {"id": p["id"], "fecha": p["fecha"], "titulo": p["texto"].strip().splitlines()[0],
+        base = {"id": p["id"], "fecha": p["fecha"], "titulo": titulo_de(p["texto"]),
                 "texto": p["texto"], "foto": p.get("foto"), "cuota": cuota_post(p["texto"]),
                 "redes": sorted(k for k, v in (p.get("redes") or {}).items() if v) + (["telegram"] if p.get("mensaje_id") else [])}
         if p.get("enviado") or p.get("mensaje_id") or p.get("redes"):
@@ -1075,7 +1114,7 @@ def main():
                 f["texto"], f["partido"] = t, f["partido"] or pa
             filas = [conf.pata(x) for x in filas]   # 31/10: «comprobando» y «anulada» (confirmar.py)
             est = p.get("resultado") or confirmar.estado_combi(filas)
-            publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
+            publicados_hoy.append({"id": p["id"], "titulo": titulo_de(p["texto"]), "fecha": p["fecha"],
                                    "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas})
             continue
         legs = picks_de_post(p, conocidos)
@@ -1100,7 +1139,7 @@ def main():
         filas = [conf.pata(x) for x in filas]
         est = p.get("resultado") or confirmar.estado_combi(filas)
         lista = bool(re.search(r"QUIÉN GANA|RESULTADOS EXACTOS|PICKS PARA|OPCIONES|RACHAS|DATOS PARA", filas and p["texto"].splitlines()[0].upper() or ""))
-        publicados_hoy.append({"id": p["id"], "titulo": p["texto"].strip().splitlines()[0], "fecha": p["fecha"],
+        publicados_hoy.append({"id": p["id"], "titulo": titulo_de(p["texto"]), "fecha": p["fecha"],
                                "cuota": cuota_post(p["texto"]), "estado": est, "picks": filas, "lista": lista})
 
     # 01/11 (Marcos): mis combis (docs/mis/datos.json), con el mismo Confirmador para que no se pisen
