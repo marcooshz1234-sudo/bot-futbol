@@ -46,7 +46,7 @@
    "prob_cuota": 1.915
   },
   "TRADER FOOTBALL || FREE👨🏼‍💻": {
-   "n": 10,
+   "n": 11,
    "verdes": 6,
    "rojos": 2,
    "nulos": 0,
@@ -55,7 +55,7 @@
    "prob_cuota": 5.288
   },
   "CRIMINALPICKS🕵🏻‍♂️": {
-   "n": 10,
+   "n": 11,
    "verdes": 5,
    "rojos": 3,
    "nulos": 0,
@@ -199,13 +199,22 @@
    "prob_cuota": 10.851
   },
   "Goals Over/Under Over 2.5": {
-   "n": 15,
+   "n": 16,
    "verdes": 8,
    "rojos": 5,
    "nulos": 0,
    "unidades": -0.14,
    "resueltos_con_cuota": 11,
    "prob_cuota": 7.081
+  },
+  "Match Winner Away": {
+   "n": 10,
+   "verdes": 7,
+   "rojos": 2,
+   "nulos": 0,
+   "unidades": 1.63,
+   "resueltos_con_cuota": 7,
+   "prob_cuota": 4.522
   },
   "Goals Over/Under Over 1.5": {
    "n": 10,
@@ -215,15 +224,6 @@
    "unidades": 1.76,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.734
-  },
-  "Match Winner Away": {
-   "n": 9,
-   "verdes": 7,
-   "rojos": 2,
-   "nulos": 0,
-   "unidades": 1.63,
-   "resueltos_con_cuota": 7,
-   "prob_cuota": 4.522
   },
   "Double Chance Home/Draw": {
    "n": 7,
@@ -593,7 +593,7 @@
  },
  "equipo": {
   "—": {
-   "n": 82,
+   "n": 83,
    "verdes": 36,
    "rojos": 13,
    "nulos": 0,
@@ -611,7 +611,7 @@
    "prob_cuota": 2.772
   },
   "Almeria": {
-   "n": 4,
+   "n": 5,
    "verdes": 4,
    "rojos": 0,
    "nulos": 0,
@@ -958,7 +958,7 @@
  },
  "razon": {
   "sin razón": {
-   "n": 86,
+   "n": 87,
    "verdes": 49,
    "rojos": 13,
    "nulos": 0,
@@ -967,7 +967,7 @@
    "prob_cuota": 28.852
   },
   "goles": {
-   "n": 34,
+   "n": 35,
    "verdes": 14,
    "rojos": 9,
    "nulos": 0,
@@ -976,7 +976,7 @@
    "prob_cuota": 16.364
   },
   "casa/fuera": {
-   "n": 28,
+   "n": 29,
    "verdes": 14,
    "rojos": 7,
    "nulos": 0,
@@ -1032,7 +1032,7 @@
  },
  "cuota": {
   "1,50-1,80": {
-   "n": 60,
+   "n": 61,
    "verdes": 27,
    "rojos": 16,
    "nulos": 0,
@@ -1057,7 +1057,7 @@
    "unidades": 0.0
   },
   "1,80-2,20": {
-   "n": 20,
+   "n": 21,
    "verdes": 9,
    "rojos": 3,
    "nulos": 0,
@@ -1077,7 +1077,7 @@
  },
  "liga": {
   "?": {
-   "n": 61,
+   "n": 62,
    "verdes": 25,
    "rojos": 7,
    "nulos": 0,
@@ -1103,6 +1103,15 @@
    "resueltos_con_cuota": 9,
    "prob_cuota": 6.251
   },
+  "Segunda División": {
+   "n": 6,
+   "verdes": 4,
+   "rojos": 1,
+   "nulos": 0,
+   "unidades": 1.15,
+   "resueltos_con_cuota": 4,
+   "prob_cuota": 2.408
+  },
   "Copa del Rey": {
    "n": 5,
    "verdes": 3,
@@ -1111,15 +1120,6 @@
    "unidades": -0.64,
    "resueltos_con_cuota": 5,
    "prob_cuota": 3.596
-  },
-  "Segunda División": {
-   "n": 5,
-   "verdes": 4,
-   "rojos": 1,
-   "nulos": 0,
-   "unidades": 1.15,
-   "resueltos_con_cuota": 4,
-   "prob_cuota": 2.408
   },
   "La Liga": {
    "n": 2,
@@ -1149,7 +1149,7 @@
  },
  "lado": {
   "partido": {
-   "n": 69,
+   "n": 70,
    "verdes": 29,
    "rojos": 10,
    "nulos": 0,
@@ -1167,7 +1167,7 @@
    "prob_cuota": 18.169
   },
   "visitante": {
-   "n": 31,
+   "n": 32,
    "verdes": 22,
    "rojos": 6,
    "nulos": 0,
@@ -1178,7 +1178,7 @@
  },
  "por_que": {
   "—": {
-   "n": 66,
+   "n": 68,
    "verdes": 25,
    "rojos": 17,
    "nulos": 0,
@@ -1252,7 +1252,7 @@
  },
  "valor_pinnacle": {
   "?": {
-   "n": 139,
+   "n": 140,
    "verdes": 70,
    "rojos": 27,
    "nulos": 0,
@@ -1261,7 +1261,7 @@
    "prob_cuota": 51.63
   },
   "sin valor": {
-   "n": 4,
+   "n": 5,
    "verdes": 2,
    "rojos": 2,
    "nulos": 0,

@@ -3797,5 +3797,27 @@
    "La cuota de 1.57 da margen para un over en un partido descompensado"
   ],
   "argumento_propio": true
+ },
+ {
+  "tipster": "CRIMINALPICKS🕵🏻‍♂️",
+  "fuente": "-1002685171001/11074",
+  "dia": "2026-11-23",
+  "local": "AD Ceuta FC",
+  "visitante": "Almeria",
+  "partido_id": 1570029,
+  "texto": "Gana el Almeria",
+  "mercado": "Match Winner",
+  "opcion": "Away",
+  "cuota": 1.95,
+  "stake": null,
+  "argumento": [],
+  "auto": true,
+  "analisis": {
+   "liga": "Segunda División",
+   "cuota_bet365": 2.0,
+   "prob_cuota": 0.513,
+   "prob_pinnacle": 0.503,
+   "valor_pinnacle": -0.018
+  }
  }
 ]
