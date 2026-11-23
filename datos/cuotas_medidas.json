@@ -6615,5 +6615,59 @@
     1.0
    ]
   ]
+ },
+ {
+  "id": "2026-11-24-loca-th-0200-duelo",
+  "fecha": "2026-11-24T02:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1635641|Home Player Shots|Jens Hauge - 2",
+   "1635641|Away Player Shots|Andres Andrade - 2"
+  ],
+  "cuotas": [
+   1.44,
+   3.0
+  ],
+  "real": 4.4,
+  "multiplicando": 4.32,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/contrario",
+    1.0
+   ]
+  ]
+ },
+ {
+  "id": "2026-11-24-loca-th-0900-tiros",
+  "fecha": "2026-11-24T09:00",
+  "fuente": "cuota comprobada",
+  "sel": [
+   "1635715|Away Player Shots|Ruben van Bommel - 2",
+   "1635715|Away Player Shots|Guus Til - 2",
+   "1635715|Away Player Shots|Ivan Perisic - 2"
+  ],
+  "cuotas": [
+   1.44,
+   1.83,
+   2.0
+  ],
+  "real": 4.81,
+  "multiplicando": 5.27,
+  "aj": null,
+  "parejas": [
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ],
+   [
+    "jugador+jugador/mismo",
+    0.97
+   ]
+  ]
  }
 ]

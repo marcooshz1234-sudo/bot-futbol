@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-11-23 23:50",
+ "actualizado": "2026-11-24 00:02",
  "redes": {
   "instagram": {
    "seguidores": 54,
    "hoy": 0,
    "serie": [
-    48,
     51,
     52,
     53,
     55,
+    54,
     54,
     54
    ]
   },
   "threads": {
    "seguidores": 3742,
-   "hoy": 28,
+   "hoy": 0,
    "serie": [
-    3160,
     3215,
     3230,
     3248,
     3475,
     3714,
+    3742,
     3742
    ]
   },
@@ -44,28 +44,25 @@
    "seguidores": 506,
    "hoy": 0,
    "serie": [
-    471,
     479,
     485,
     490,
     496,
+    506,
     506,
     506
    ]
   }
  },
  "total": 4303,
- "total_hoy": 28,
+ "total_hoy": 0,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "00:00",
+  "hora": "10:30",
   "dia": "2026-11-24",
-  "titulo": "Champions league - ganadores"
+  "titulo": "Vamos con otro pick, familia"
  },
- "ayer": {
-  "aciertos": 12,
-  "total": 20
- },
+ "ayer": null,
  "escalera": {
   "dia": 1,
   "de": 7,
@@ -257,6 +254,12 @@
    "telegram": 506
   },
   "2026-11-23": {
+   "instagram": 54,
+   "threads": 3742,
+   "facebook": 1,
+   "telegram": 506
+  },
+  "2026-11-24": {
    "instagram": 54,
    "threads": 3742,
    "facebook": 1,
