@@ -54,3 +54,12 @@ class OrdenDelDia(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class UnPickPorPartido(unittest.TestCase):
+    """22-23/11: «Marsella marca 2+» y luego «Gana el Marsella»; mañana iban «Gana el Bodø» y la escalera del Bodø."""
+    def test_guardia_en_publicar(self):
+        src = Path(PT.__file__).read_text(encoding="utf-8")
+        i = src.index('p["caducada"] = f"mismo partido que {otro}"')
+        self.assertLess(i, src.index("texto = preparar_texto(con_porque("))
+        self.assertIn('and str(q.get("enviado", ""))[:10] == dia_', src)

@@ -218,6 +218,13 @@ def espera_a_la_noche(p, ahora):
     return bool(d and d > ahora.strftime("%Y-%m-%d") and ahora.strftime("%H:%M") < HORA_MANANA)
 
 
+def borrados_tg():
+    try:
+        return set(json.loads((RAIZ / "publicaciones" / "borrados.json").read_text(encoding="utf-8")))
+    except Exception:
+        return set()
+
+
 def es_pick(p):
     return bool(p.get("sel")) and not ES_RESULTADO.search(p["id"]) and "-verde" not in p["id"]
 
@@ -398,6 +405,17 @@ def main(objetivo=None):
         if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
             continue
+        if es_pick(p):   # 23/11 (Marcos: «no puede haber el mismo día "Marsella marca 2" y "gana el Marsella"»)
+            mios = {x.split("|")[0] for x in p.get("sel") or []}
+            dia_ = ahora.strftime("%Y-%m-%d")
+            otro = next((q["id"] for q in cola + auto if q is not p and es_pick(q) and q.get("mensaje_id")
+                         and str(q.get("enviado", ""))[:10] == dia_ and q["id"] not in borrados_tg()
+                         and mios & {x.split("|")[0] for x in q.get("sel") or []}), None)
+            if otro:
+                p["caducada"] = f"mismo partido que {otro}"
+                cambios += 1
+                print(f"{p['id']}: no sale, ya ha salido hoy un pick de ese partido ({otro})")
+                continue
         if espera_a_la_noche(p, ahora):
             print(f"{p['id']}: es de otro día, espera a las {HORA_MANANA}")
             continue

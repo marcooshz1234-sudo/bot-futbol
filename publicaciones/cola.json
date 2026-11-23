@@ -1,377 +1,413 @@
 [
-  {
-    "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-3",
-    "fecha": "2026-11-22T20:15",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05\n\n📈 Cuota @1,57",
-    "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-pick-seguro-3.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-22-pick-seguro-3",
-    "enviado": "2026-11-22T20:16",
-    "mensaje_id": 590,
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    }
-  },
-  {
-    "id": "2026-11-22-estrella-1550198",
-    "fecha": "2026-11-22T20:16",
-    "texto": "Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (20:45) 🔥\n\n🍀 Nicolo Barella comete 1+ faltas\n🍀 Nicola Zalewski comete 1+ faltas\n🍀 Carlos Augusto: 1+ tiros\n🍀 Nikola Krstovic: 3+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @6,43 aprox.",
-    "foto": null,
-    "origen": "analista",
-    "directo": true,
-    "sel": [
-      "1550198|Player Fouls Committed|Nicolo Barella - 1",
-      "1550198|Player Fouls Committed|Nicola Zalewski - 1",
-      "1550198|Away Player Shots|Carlos Augusto - 1",
-      "1550198|Home Player Shots|Nikola Krstovic - 3",
-      "1550198|Goals Over/Under - Second Half|Over 1.5"
-    ],
-    "cuotas": [
-      1.33,
-      1.5,
-      1.28,
-      1.44,
-      1.62
-    ],
-    "espera_alineacion": true,
-    "tarjeta": {
-      "local": "Atalanta",
-      "visitante": "Inter",
-      "id_l": 499,
-      "id_v": 505,
-      "logo_l": "https://media.api-sports.io/football/teams/499.png",
-      "logo_v": "https://media.api-sports.io/football/teams/505.png",
-      "fecha": "2026-11-22T20:45",
-      "liga": "Serie A"
-    },
-    "solo_redes": true,
-    "cuota_total": 6.2,
-    "cuota_calculada": true,
-    "cuotas_revisadas": "2026-11-22T20:04",
-    "alineacion_ok": true,
-    "redes": {
-      "instagram_reel": null,
-      "threads": "ya-publicado",
-      "instagram": "ya-publicado"
-    }
-  },
-  {
-    "id": "2026-11-22-noche-atalanta2",
-    "fecha": "2026-11-22T20:26",
-    "texto": "Vamos con otro pick 🍀\n\n🇮🇹 Atalanta – Inter · 20:45\n\n🍀 Ambos marcan @1,44\n\n👨‍💻 Ambos marcan en 6 de los últimos 10 del Atalanta.\n👨‍💻 Y en 5 de los últimos 10 del Inter.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más picks 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "sel": [
-      "1550198|Both Teams Score|Yes"
-    ],
-    "nota": "22/11 20:25 Marcos: «2 picks sueltos» para lo que queda (nada del Marseille)",
-    "enviado": "2026-11-22T20:27",
-    "mensaje_id": 591,
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    }
-  },
-  {
-    "id": "2026-11-22-noche-hancko",
-    "fecha": "2026-11-22T20:33",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "texto": "Cerramos el domingo con este 🔥\n\n🇪🇸 Getafe – Atlético de Madrid · 21:00\n\n🍀 David Hancko 1+ remate @1,50\n\n👨‍💻 Titular fijo en la defensa del Atlético y va mucho arriba a balón parado.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "sel": [
-      "1570456|Away Player Shots|David Hancko - 1"
-    ],
-    "nota": "22/11 20:38: «Gana el Atleti» lo frenó el bot (choca con «Getafe o empate» de hoy en Threads) → Hancko 1+ remate",
-    "enviado": "2026-11-22T20:35",
-    "mensaje_id": 592,
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    }
-  },
-  {
-    "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-5",
-    "fecha": "2026-11-22T22:03",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Marseille\n\n📈 Cuota @1,44\n\nSeguimos sumando 📈",
-    "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-pick-seguro-5.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-22-pick-seguro-5",
-    "enviado": "2026-11-22T22:03",
-    "mensaje_id": 594,
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    }
-  },
-  {
-    "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-2",
-    "fecha": "2026-11-22T21:50",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Marseille marca 2 o más\n\n📈 Cuota @1,44\n\n¿Quién la llevaba? 👇💚",
-    "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-pick-seguro-2.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-22-pick-seguro-2",
-    "enviado": "2026-11-22T21:53",
-    "mensaje_id": 593,
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    }
-  },
-  {
-    "id": "2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana",
-    "fecha": "2026-11-22T21:53",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Inter\n✅ Gana el Marseille\n✅ Gana el Atletico Madrid\n\n📈 Cuota @3,50\n\nA cobrar señores 🤑",
-    "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-22-loca-th-1820-lista-gana",
-    "solo_en": [
-      "threads"
-    ],
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "17978342865159890",
-      "threads_enlace": "18142032562724439"
-    }
-  },
-  {
-    "id": "2026-11-22-verde-auto--auto-2026-11-22-loca-th-1820-lista-gana",
-    "fecha": "2026-11-22T22:23",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Inter\n✅ Gana el Marseille\n✅ Gana el Atletico Madrid\n\n📈 Cuota @3,50\n\nA cobrar señores 🤑",
-    "foto": "publicaciones/media/2026-11-22-verde-auto--auto-2026-11-22-loca-th-1820-lista-gana.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana",
-    "solo_en": [
-      "threads"
-    ],
-    "redes": {
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null,
-      "threads": "18429366514151294",
-      "threads_enlace": "18012875273781212"
-    }
-  },
-  {
-    "id": "2026-11-22-verde-auto-2026-11-22-estrella-1550198",
-    "fecha": "2026-11-22T22:58",
-    "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Nicolo Barella comete 1+ faltas\n✅ Nicola Zalewski comete 1+ faltas\n✅ Carlos Augusto: 1+ tiros\n✅ Nikola Krstovic: 3+ tiros\n✅ Más de 1,5 goles en la 2ª parte del Atalanta–Inter\n\n📈 Cuota @6,43",
-    "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-estrella-1550198.tarjeta.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "foto",
-    "resultado": "verde",
-    "verde_de": "2026-11-22-estrella-1550198",
-    "requiere_ok": true,
-    "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
-    "solo_redes": true
-  },
-  {
-    "id": "2026-11-22-balance-auto",
-    "fecha": "2026-11-22T23:15",
-    "texto": "📊 RESUMEN DEL DOMINGO 🍀\n\n✅ 5 de 6 picks en verde\n💶 10 € a cada pick → +13,90 €\n\n😤 Se nos escaparon:\n🔸 Getafe marca @1,80 · Getafe 0–3 Atletico Madrid\n\n🔔 Mañana más. Activad las notificaciones 👀",
-    "foto": "publicaciones/media/2026-11-22-balance-auto.jpg",
-    "origen": "bot",
-    "directo": true,
-    "facebook": "texto",
-    "sin_instagram": true,
-    "solo_en": [
-      "telegram"
-    ],
-    "requiere_ok": true,
-    "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
-    "enviado": "2026-11-22T23:36",
-    "mensaje_id": 595,
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    }
-  },
-  {
-    "id": "2026-11-24-pick-tip-1",
-    "fecha": "2026-11-23T01:27",
-    "texto": "Vamos con otro pick, familia 👇\n🧠 Pensada con calma, sin prisas\n\n🍀 Gana el Real Madrid @1,53\n\n⚽ Real Madrid – PSV Eindhoven · mañana 21:00",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "tipster_bueno": true,
-    "sel": [
-      "1635715|Match Winner|Home"
-    ],
-    "cuotas": [
-      1.53
-    ],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "redes": {
-      "threads": null,
-      "instagram": null,
-      "instagram_reel": null,
-      "instagram_story": null,
-      "facebook": null
-    },
-    "foto_tg": "publicaciones/media/2026-11-24-pick-tip-1.tg.jpg",
-    "enviado": "2026-11-23T09:30",
-    "mensaje_id": 597
-  },
-  {
-    "id": "2026-11-23-cuotaza-1608377-181ed6",
-    "fecha": "2026-11-23T09:00",
-    "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Lecco – Lumezzane · 20:45\n\n🍀 Lumezzane o empate @1,95\n\n👀 Lo normal sería @1,76: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
-    "foto": null,
-    "origen": "cazador",
-    "directo": true,
-    "requiere_ok": true,
-    "aviso": "🚨 CUOTAZA: Lecco – Lumezzane (20:45)\nLumezzane o empate @1,95 en bet365; lo justo según las otras casas es @1,76 (+11%).\n¿La subimos? Solo sale si le das a Publicar.",
-    "sin_instagram": true,
-    "sel": [
-      "1608377|Double Chance|Draw/Away"
-    ],
-    "cuotas": [
-      1.95
-    ],
-    "cuotaza": {
-      "partido_id": 1608377,
-      "local": "Lecco",
-      "visitante": "Lumezzane",
-      "inicio": "2026-11-23T20:45",
-      "liga": "Serie C - Girone A",
-      "mercado": "Double Chance",
-      "opcion": "Draw/Away",
-      "cuota": 1.95,
-      "justa": 1.76,
-      "ev": 0.106,
-      "fuente": "las otras casas",
-      "edad_h": 0.5,
-      "texto": "Lumezzane o empate"
-    },
-    "caducada": "fuera de las 5 grandes"
-  },
-  {
-    "id": "2026-11-23-noche-levante",
-    "fecha": "2026-11-23T13:15",
-    "texto": "Empezamos el día con este pick, familia 👇\n\n🇪🇸 Levante – Elche · 21:00\n\n🍀 Levante ve más de 1,5 tarjetas @1,50\n\n👨‍💻 El Levante ha visto 2 o más tarjetas en 6 de sus últimos 9.\n👨‍💻 Y en los partidos del Elche pasa en 8 de 9.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "sel": [
-      "1570457|Home Team Total Cards|Over 1.5"
-    ],
-    "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
-    "enviado": "2026-11-23T13:15",
-    "mensaje_id": 599
-  },
-  {
-    "id": "2026-11-23-noche-brentford",
-    "fecha": "2026-11-23T15:30",
-    "texto": "Vamos con otro pick, familia 👇\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00\n\n🍀 Brentford ve más de 1,5 tarjetas @1,62\n\n👨‍💻 El Brentford ha visto 2 o más tarjetas en 6 de sus últimos 10.\n👨‍💻 Y en los partidos del Everton pasa en 7 de 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "sel": [
-      "1557469|Home Team Total Cards|Over 1.5"
-    ],
-    "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
-    "enviado": "2026-11-23T15:30",
-    "mensaje_id": 600
-  },
-  {
-    "id": "2026-11-23-noche-ceuta",
-    "fecha": "2026-11-23T17:45",
-    "texto": "Seguimos con otro que nos gusta 🔥\n\n🇪🇸 Ceuta – Almería · 20:30\n\n🍀 Ceuta marca @1,40\n\n👨‍💻 El Ceuta ha marcado en 7 de sus últimos 10.\n👨‍💻 El Almería ha encajado en 6 de sus últimos 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
-    "foto": null,
-    "origen": "claude",
-    "directo": true,
-    "sel": [
-      "1570029|Total - Home|Over 0.5"
-    ],
-    "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
-    "fuera_ok": true,
-    "enviado": "2026-11-23T17:45",
-    "mensaje_id": 601
-  },
-  {
-    "id": "2026-11-23-pick-tip-1",
-    "fecha": "2026-11-23T13:46",
-    "texto": "Os dejo otro pick que pinta muy bien 👀\n🧠 Pensada con calma, sin prisas\n\n🍀 Más de 2.5 goles @1,57\n\n⚽ Istanbul Basaksehir – Corum FK · hoy 18:00\n\n👨‍💻 El Basaksehir en casa suele imponer ritmo y generar muchas ocasiones\n👨‍💻 El Corum fuera de casa suele dejar espacios y conceder goles\n👨‍💻 La cuota de 1.57 da margen para un over en un partido descompensado",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "tipster_bueno": true,
-    "sel": [],
-    "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "requiere_ok": true,
-    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
-  },
-  {
-    "id": "2026-11-23-pick-tip-2",
-    "fecha": "2026-11-23T18:43",
-    "texto": "Este nos encanta para hoy 🔥\n📋 Números en la mano antes de meterla\n\n🍀 Crear apuesta: más de 3 tarjetas + el Elche marca @1,66\n\n⚽ Levante – Elche · hoy 21:00\n\n👨‍💻 Derbi valenciano con tensión: se esperan bastantes faltas y amonestaciones\n👨‍💻 El Elche suele llegar al área rival y ver puerta fuera de casa\n\n🧠 Stake 3/10",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "tipster_bueno": false,
-    "sel": [],
-    "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "requiere_ok": true,
-    "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
-  },
-  {
-    "id": "2026-11-23-pick-tip-3",
-    "fecha": "2026-11-23T18:43",
-    "texto": "Este nos encanta para hoy 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Más de 2.5 goles @1,66\n\n⚽ Monza – Fiorentina · hoy 20:45\n\n👨‍💻 La Fiorentina tiene pegada arriba y el Monza concede bastante atrás\n👨‍💻 Partido abierto de Serie A con dos equipos que necesitan puntos\n\n🧠 Stake 3/10",
-    "foto": null,
-    "origen": "tipster",
-    "directo": true,
-    "forzar": true,
-    "tipster_bueno": true,
-    "sel": [],
-    "cuotas": [],
-    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
-    "requiere_ok": true,
-    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+ {
+  "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-3",
+  "fecha": "2026-11-22T20:15",
+  "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Más de 1,5 goles en la 2ª parte del FC Augsburg–FSV Mainz 05\n\n📈 Cuota @1,57",
+  "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-pick-seguro-3.tarjeta.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "foto",
+  "resultado": "verde",
+  "verde_de": "2026-11-22-pick-seguro-3",
+  "enviado": "2026-11-22T20:16",
+  "mensaje_id": 590,
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
   }
+ },
+ {
+  "id": "2026-11-22-estrella-1550198",
+  "fecha": "2026-11-22T20:16",
+  "texto": "Hoy hay partidazo: Atalanta 🆚 Inter 🇮🇹⭐\n🤪 Para soñar un poco: con poquito dinero\n\nVamos con la combi del partido estrella (20:45) 🔥\n\n🍀 Nicolo Barella comete 1+ faltas\n🍀 Nicola Zalewski comete 1+ faltas\n🍀 Carlos Augusto: 1+ tiros\n🍀 Nikola Krstovic: 3+ tiros\n🍀 Más de 1,5 goles en la 2ª parte\n\n📈 Cuota @6,43 aprox.",
+  "foto": null,
+  "origen": "analista",
+  "directo": true,
+  "sel": [
+   "1550198|Player Fouls Committed|Nicolo Barella - 1",
+   "1550198|Player Fouls Committed|Nicola Zalewski - 1",
+   "1550198|Away Player Shots|Carlos Augusto - 1",
+   "1550198|Home Player Shots|Nikola Krstovic - 3",
+   "1550198|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "cuotas": [
+   1.33,
+   1.5,
+   1.28,
+   1.44,
+   1.62
+  ],
+  "espera_alineacion": true,
+  "tarjeta": {
+   "local": "Atalanta",
+   "visitante": "Inter",
+   "id_l": 499,
+   "id_v": 505,
+   "logo_l": "https://media.api-sports.io/football/teams/499.png",
+   "logo_v": "https://media.api-sports.io/football/teams/505.png",
+   "fecha": "2026-11-22T20:45",
+   "liga": "Serie A"
+  },
+  "solo_redes": true,
+  "cuota_total": 6.2,
+  "cuota_calculada": true,
+  "cuotas_revisadas": "2026-11-22T20:04",
+  "alineacion_ok": true,
+  "redes": {
+   "instagram_reel": null,
+   "threads": "ya-publicado",
+   "instagram": "ya-publicado"
+  }
+ },
+ {
+  "id": "2026-11-22-noche-atalanta2",
+  "fecha": "2026-11-22T20:26",
+  "texto": "Vamos con otro pick 🍀\n\n🇮🇹 Atalanta – Inter · 20:45\n\n🍀 Ambos marcan @1,44\n\n👨‍💻 Ambos marcan en 6 de los últimos 10 del Atalanta.\n👨‍💻 Y en 5 de los últimos 10 del Inter.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más picks 👀",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1550198|Both Teams Score|Yes"
+  ],
+  "nota": "22/11 20:25 Marcos: «2 picks sueltos» para lo que queda (nada del Marseille)",
+  "enviado": "2026-11-22T20:27",
+  "mensaje_id": 591,
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
+ },
+ {
+  "id": "2026-11-22-noche-hancko",
+  "fecha": "2026-11-22T20:33",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "texto": "Cerramos el domingo con este 🔥\n\n🇪🇸 Getafe – Atlético de Madrid · 21:00\n\n🍀 David Hancko 1+ remate @1,50\n\n👨‍💻 Titular fijo en la defensa del Atlético y va mucho arriba a balón parado.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+  "sel": [
+   "1570456|Away Player Shots|David Hancko - 1"
+  ],
+  "nota": "22/11 20:38: «Gana el Atleti» lo frenó el bot (choca con «Getafe o empate» de hoy en Threads) → Hancko 1+ remate",
+  "enviado": "2026-11-22T20:35",
+  "mensaje_id": 592,
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
+ },
+ {
+  "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-5",
+  "fecha": "2026-11-22T22:03",
+  "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Marseille\n\n📈 Cuota @1,44\n\nSeguimos sumando 📈",
+  "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-pick-seguro-5.tarjeta.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "foto",
+  "resultado": "verde",
+  "verde_de": "2026-11-22-pick-seguro-5",
+  "enviado": "2026-11-22T22:03",
+  "mensaje_id": 594,
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
+ },
+ {
+  "id": "2026-11-22-verde-auto-2026-11-22-pick-seguro-2",
+  "fecha": "2026-11-22T21:50",
+  "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Marseille marca 2 o más\n\n📈 Cuota @1,44\n\n¿Quién la llevaba? 👇💚",
+  "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-pick-seguro-2.tarjeta.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "foto",
+  "resultado": "verde",
+  "verde_de": "2026-11-22-pick-seguro-2",
+  "enviado": "2026-11-22T21:53",
+  "mensaje_id": 593,
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
+ },
+ {
+  "id": "2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana",
+  "fecha": "2026-11-22T21:53",
+  "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Inter\n✅ Gana el Marseille\n✅ Gana el Atletico Madrid\n\n📈 Cuota @3,50\n\nA cobrar señores 🤑",
+  "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana.tarjeta.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "foto",
+  "resultado": "verde",
+  "verde_de": "2026-11-22-loca-th-1820-lista-gana",
+  "solo_en": [
+   "threads"
+  ],
+  "redes": {
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null,
+   "threads": "17978342865159890",
+   "threads_enlace": "18142032562724439"
+  }
+ },
+ {
+  "id": "2026-11-22-verde-auto--auto-2026-11-22-loca-th-1820-lista-gana",
+  "fecha": "2026-11-22T22:23",
+  "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Gana el Inter\n✅ Gana el Marseille\n✅ Gana el Atletico Madrid\n\n📈 Cuota @3,50\n\nA cobrar señores 🤑",
+  "foto": "publicaciones/media/2026-11-22-verde-auto--auto-2026-11-22-loca-th-1820-lista-gana.tarjeta.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "foto",
+  "resultado": "verde",
+  "verde_de": "2026-11-22-verde-auto-2026-11-22-loca-th-1820-lista-gana",
+  "solo_en": [
+   "threads"
+  ],
+  "redes": {
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null,
+   "threads": "18429366514151294",
+   "threads_enlace": "18012875273781212"
+  }
+ },
+ {
+  "id": "2026-11-22-verde-auto-2026-11-22-estrella-1550198",
+  "fecha": "2026-11-22T22:58",
+  "texto": "PARA DENTRO SEÑORES ✅🤑\n\n✅ Nicolo Barella comete 1+ faltas\n✅ Nicola Zalewski comete 1+ faltas\n✅ Carlos Augusto: 1+ tiros\n✅ Nikola Krstovic: 3+ tiros\n✅ Más de 1,5 goles en la 2ª parte del Atalanta–Inter\n\n📈 Cuota @6,43",
+  "foto": "publicaciones/media/2026-11-22-verde-auto-2026-11-22-estrella-1550198.tarjeta.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "foto",
+  "resultado": "verde",
+  "verde_de": "2026-11-22-estrella-1550198",
+  "requiere_ok": true,
+  "aviso": "💚 ¡VERDE! Te lo paso porque lleva varias patas del mismo partido y su cuota no está confirmada. Sale cuando le des a Publicar.",
+  "solo_redes": true
+ },
+ {
+  "id": "2026-11-22-balance-auto",
+  "fecha": "2026-11-22T23:15",
+  "texto": "📊 RESUMEN DEL DOMINGO 🍀\n\n✅ 5 de 6 picks en verde\n💶 10 € a cada pick → +13,90 €\n\n😤 Se nos escaparon:\n🔸 Getafe marca @1,80 · Getafe 0–3 Atletico Madrid\n\n🔔 Mañana más. Activad las notificaciones 👀",
+  "foto": "publicaciones/media/2026-11-22-balance-auto.jpg",
+  "origen": "bot",
+  "directo": true,
+  "facebook": "texto",
+  "sin_instagram": true,
+  "solo_en": [
+   "telegram"
+  ],
+  "requiere_ok": true,
+  "aviso": "📊 Resumen de la noche listo. Sale cuando le des a Publicar.",
+  "enviado": "2026-11-22T23:36",
+  "mensaje_id": 595,
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  }
+ },
+ {
+  "id": "2026-11-24-pick-tip-1",
+  "fecha": "2026-11-23T01:27",
+  "texto": "Vamos con otro pick, familia 👇\n🧠 Pensada con calma, sin prisas\n\n🍀 Gana el Real Madrid @1,53\n\n⚽ Real Madrid – PSV Eindhoven · mañana 21:00",
+  "foto": null,
+  "origen": "tipster",
+  "directo": true,
+  "forzar": true,
+  "tipster_bueno": true,
+  "sel": [
+   "1635715|Match Winner|Home"
+  ],
+  "cuotas": [
+   1.53
+  ],
+  "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+  "redes": {
+   "threads": null,
+   "instagram": null,
+   "instagram_reel": null,
+   "instagram_story": null,
+   "facebook": null
+  },
+  "foto_tg": "publicaciones/media/2026-11-24-pick-tip-1.tg.jpg",
+  "enviado": "2026-11-23T09:30",
+  "mensaje_id": 597
+ },
+ {
+  "id": "2026-11-23-cuotaza-1608377-181ed6",
+  "fecha": "2026-11-23T09:00",
+  "texto": "🚨 CUOTAZA EN BET365 🚨\n\n⚽ Lecco – Lumezzane · 20:45\n\n🍀 Lumezzane o empate @1,95\n\n👀 Lo normal sería @1,76: está mal puesta. Corred antes de que la bajen ⚡\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más combis 👀",
+  "foto": null,
+  "origen": "cazador",
+  "directo": true,
+  "requiere_ok": true,
+  "aviso": "🚨 CUOTAZA: Lecco – Lumezzane (20:45)\nLumezzane o empate @1,95 en bet365; lo justo según las otras casas es @1,76 (+11%).\n¿La subimos? Solo sale si le das a Publicar.",
+  "sin_instagram": true,
+  "sel": [
+   "1608377|Double Chance|Draw/Away"
+  ],
+  "cuotas": [
+   1.95
+  ],
+  "cuotaza": {
+   "partido_id": 1608377,
+   "local": "Lecco",
+   "visitante": "Lumezzane",
+   "inicio": "2026-11-23T20:45",
+   "liga": "Serie C - Girone A",
+   "mercado": "Double Chance",
+   "opcion": "Draw/Away",
+   "cuota": 1.95,
+   "justa": 1.76,
+   "ev": 0.106,
+   "fuente": "las otras casas",
+   "edad_h": 0.5,
+   "texto": "Lumezzane o empate"
+  },
+  "caducada": "fuera de las 5 grandes"
+ },
+ {
+  "id": "2026-11-23-noche-levante",
+  "fecha": "2026-11-23T13:15",
+  "texto": "Empezamos el día con este pick, familia 👇\n\n🇪🇸 Levante – Elche · 21:00\n\n🍀 Levante ve más de 1,5 tarjetas @1,50\n\n👨‍💻 El Levante ha visto 2 o más tarjetas en 6 de sus últimos 9.\n👨‍💻 Y en los partidos del Elche pasa en 8 de 9.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones, que vienen más 👀",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1570457|Home Team Total Cards|Over 1.5"
+  ],
+  "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
+  "enviado": "2026-11-23T13:15",
+  "mensaje_id": 599
+ },
+ {
+  "id": "2026-11-23-noche-brentford",
+  "fecha": "2026-11-23T15:30",
+  "texto": "Vamos con otro pick, familia 👇\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford – Everton · 21:00\n\n🍀 Brentford ve más de 1,5 tarjetas @1,62\n\n👨‍💻 El Brentford ha visto 2 o más tarjetas en 6 de sus últimos 10.\n👨‍💻 Y en los partidos del Everton pasa en 7 de 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1557469|Home Team Total Cards|Over 1.5"
+  ],
+  "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
+  "enviado": "2026-11-23T15:30",
+  "mensaje_id": 600
+ },
+ {
+  "id": "2026-11-23-noche-ceuta",
+  "fecha": "2026-11-23T17:45",
+  "texto": "Seguimos con otro que nos gusta 🔥\n\n🇪🇸 Ceuta – Almería · 20:30\n\n🍀 Ceuta marca @1,40\n\n👨‍💻 El Ceuta ha marcado en 7 de sus últimos 10.\n👨‍💻 El Almería ha encajado en 6 de sus últimos 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1570029|Total - Home|Over 0.5"
+  ],
+  "nota": "23/11 12:49 Marcos: picks de esta noche repartidos desde mediodía (nada de Rumanía)",
+  "fuera_ok": true,
+  "enviado": "2026-11-23T17:45",
+  "mensaje_id": 601
+ },
+ {
+  "id": "2026-11-23-pick-tip-1",
+  "fecha": "2026-11-23T13:46",
+  "texto": "Os dejo otro pick que pinta muy bien 👀\n🧠 Pensada con calma, sin prisas\n\n🍀 Más de 2.5 goles @1,57\n\n⚽ Istanbul Basaksehir – Corum FK · hoy 18:00\n\n👨‍💻 El Basaksehir en casa suele imponer ritmo y generar muchas ocasiones\n👨‍💻 El Corum fuera de casa suele dejar espacios y conceder goles\n👨‍💻 La cuota de 1.57 da margen para un over en un partido descompensado",
+  "foto": null,
+  "origen": "tipster",
+  "directo": true,
+  "forzar": true,
+  "tipster_bueno": true,
+  "sel": [],
+  "cuotas": [],
+  "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+  "requiere_ok": true,
+  "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+ },
+ {
+  "id": "2026-11-23-pick-tip-2",
+  "fecha": "2026-11-23T18:43",
+  "texto": "Este nos encanta para hoy 🔥\n📋 Números en la mano antes de meterla\n\n🍀 Crear apuesta: más de 3 tarjetas + el Elche marca @1,66\n\n⚽ Levante – Elche · hoy 21:00\n\n👨‍💻 Derbi valenciano con tensión: se esperan bastantes faltas y amonestaciones\n👨‍💻 El Elche suele llegar al área rival y ver puerta fuera de casa\n\n🧠 Stake 3/10",
+  "foto": null,
+  "origen": "tipster",
+  "directo": true,
+  "forzar": true,
+  "tipster_bueno": false,
+  "sel": [],
+  "cuotas": [],
+  "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+  "requiere_ok": true,
+  "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
+ },
+ {
+  "id": "2026-11-23-pick-tip-3",
+  "fecha": "2026-11-23T18:43",
+  "texto": "Este nos encanta para hoy 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Más de 2.5 goles @1,66\n\n⚽ Monza – Fiorentina · hoy 20:45\n\n👨‍💻 La Fiorentina tiene pegada arriba y el Monza concede bastante atrás\n👨‍💻 Partido abierto de Serie A con dos equipos que necesitan puntos\n\n🧠 Stake 3/10",
+  "foto": null,
+  "origen": "tipster",
+  "directo": true,
+  "forzar": true,
+  "tipster_bueno": true,
+  "sel": [],
+  "cuotas": [],
+  "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+  "requiere_ok": true,
+  "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+ },
+ {
+  "id": "2026-11-24-pick-extra-leipzig",
+  "fecha": "2026-11-24T10:30",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1635713|Match Winner|Home"
+  ],
+  "nota": "23/11 22:50 Marcos: «para mañana deja preparado la mayoría del día, 7-10 picks»",
+  "texto": "Vamos con otro pick, familia 👇\n\n⭐ RB Leipzig – Lens · 21:00\n\n🍀 Gana el RB Leipzig @1,38\n\n👨‍💻 El RB Leipzig ha ganado 7 de sus últimos 10.\n👨‍💻 El Lens ha perdido 6 de sus últimos 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀"
+ },
+ {
+  "id": "2026-11-24-pick-extra-city",
+  "fecha": "2026-11-24T13:30",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1635692|Goals Over/Under - Second Half|Over 1.5"
+  ],
+  "nota": "23/11 22:50 Marcos: «para mañana deja preparado la mayoría del día, 7-10 picks»",
+  "texto": "Vamos con otro pick, familia 👇\n\n⭐ Manchester City – Napoli · 21:00\n\n🍀 Más de 1,5 goles en la 2.ª parte @1,57\n\n👨‍💻 En 8 de los últimos 10 del City hubo 2+ goles en la 2.ª parte.\n👨‍💻 En el Napoli, en 5 de 10.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀"
+ },
+ {
+  "id": "2026-11-24-pick-extra-feyenoord",
+  "fecha": "2026-11-24T17:30",
+  "foto": null,
+  "origen": "claude",
+  "directo": true,
+  "sel": [
+   "1635663|Both Teams Score|Yes"
+  ],
+  "nota": "23/11 22:50 Marcos: «para mañana deja preparado la mayoría del día, 7-10 picks»",
+  "texto": "Vamos con otro pick, familia 👇\n\n⭐ Feyenoord – FC Porto · 21:00\n\n🍀 Ambos marcan @1,50\n\n👨‍💻 Ambos marcan en 6 de los últimos 10 del Feyenoord.\n👨‍💻 Y en 7 de los últimos 10 del Porto.\n\n🔞 Juega con cabeza\n🔔 Activad las notificaciones 👀"
+ }
 ]
