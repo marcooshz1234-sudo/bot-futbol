@@ -343,5 +343,35 @@
     "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
     "requiere_ok": true,
     "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-23-pick-tip-2",
+    "fecha": "2026-11-23T18:43",
+    "texto": "Este nos encanta para hoy 🔥\n📋 Números en la mano antes de meterla\n\n🍀 Crear apuesta: más de 3 tarjetas + el Elche marca @1,66\n\n⚽ Levante – Elche · hoy 21:00\n\n👨‍💻 Derbi valenciano con tensión: se esperan bastantes faltas y amonestaciones\n👨‍💻 El Elche suele llegar al área rival y ver puerta fuera de casa\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": false,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (es un «Crear apuesta» de varias condiciones): si sale, su verde y el resumen van a mano."
+  },
+  {
+    "id": "2026-11-23-pick-tip-3",
+    "fecha": "2026-11-23T18:43",
+    "texto": "Este nos encanta para hoy 🔥\n🧠 Esta va con cabeza: analizada\n\n🍀 Más de 2.5 goles @1,66\n\n⚽ Monza – Fiorentina · hoy 20:45\n\n👨‍💻 La Fiorentina tiene pegada arriba y el Monza concede bastante atrás\n👨‍💻 Partido abierto de Serie A con dos equipos que necesitan puntos\n\n🧠 Stake 3/10",
+    "foto": null,
+    "origen": "tipster",
+    "directo": true,
+    "forzar": true,
+    "tipster_bueno": true,
+    "sel": [],
+    "cuotas": [],
+    "nota": "copiado de un tipster (Marcos 11/11: sí o sí, sin su nombre)",
+    "requiere_ok": true,
+    "aviso": "⚠️ El bot no puede seguir esta copia (no encuentra el partido en sus calendarios): si sale, su verde y el resumen van a mano."
   }
 ]

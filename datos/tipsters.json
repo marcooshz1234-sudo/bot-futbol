@@ -3819,5 +3819,59 @@
    "prob_pinnacle": 0.503,
    "valor_pinnacle": -0.018
   }
+ },
+ {
+  "tipster": "TipsAnalistas",
+  "fuente": "Tipsanalistas/37174",
+  "dia": "2026-11-23",
+  "hora": "20:45",
+  "local": "Lecco",
+  "visitante": "Lumezzane",
+  "texto": "Lumezzane o empate (X2)",
+  "mercado": "Double Chance",
+  "opcion": "Draw/Away",
+  "cuota": 2.0,
+  "argumento": [
+   "El Lecco no pierde pero en casa se le atascan los partidos: muchos empates como local",
+   "Llega con seis bajas, entre ellas dos delanteros que suman buena parte de sus goles",
+   "El Lumezzane defiende replegado y hace daño al contragolpe, y fuera ya ha ganado"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "Tipster Pérez",
+  "fuente": "-1001468963672/47438",
+  "dia": "2026-11-23",
+  "hora": "21:00",
+  "local": "Levante",
+  "visitante": "Elche",
+  "texto": "Crear apuesta: más de 3 tarjetas + el Elche marca",
+  "mercado": "Crear apuesta",
+  "opcion": "Tarjetas +3 & Elche portería a 0: No",
+  "cuota": 1.66,
+  "stake": 3,
+  "argumento": [
+   "Derbi valenciano con tensión: se esperan bastantes faltas y amonestaciones",
+   "El Elche suele llegar al área rival y ver puerta fuera de casa"
+  ],
+  "argumento_propio": true
+ },
+ {
+  "tipster": "TRADER FOOTBALL || FREE👨🏼‍💻",
+  "fuente": "-1001550157115/101003",
+  "dia": "2026-11-23",
+  "hora": "20:45",
+  "local": "Monza",
+  "visitante": "Fiorentina",
+  "texto": "Más de 2.5 goles",
+  "mercado": "Goals Over/Under",
+  "opcion": "Over 2.5",
+  "cuota": 1.66,
+  "stake": 3,
+  "argumento": [
+   "La Fiorentina tiene pegada arriba y el Monza concede bastante atrás",
+   "Partido abierto de Serie A con dos equipos que necesitan puntos"
+  ],
+  "argumento_propio": true
  }
 ]
