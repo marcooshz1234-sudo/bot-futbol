@@ -131,7 +131,8 @@
   "redes-2026-11-23-noche-brentford-threads-instagram": "2026-11-23T15:50",
   "prensa-1635667-LamineYamal": "2026-11-23T17:12",
   "redes-2026-11-23-noche-ceuta-threads-instagram": "2026-11-23T18:13",
-  "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1": "2026-11-23T20:05"
+  "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1": "2026-11-23T20:05",
+  "prensa-1635731-0093ac47": "2026-11-23T20:56"
  },
  "abiertos": [
   {
@@ -147,12 +148,12 @@
    "t": "🪫 No saldrá (una pata a 1.08 (mínimo 1.20 por pata)): 🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆 (23:30)"
   },
   {
-   "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
-   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
-  },
-  {
    "clave": "repe-2026-11-23-1550203|Both Teams Score|Yes",
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos, loca-th-1630-escudos)"
+  },
+  {
+   "clave": "repe-2026-11-23-1570457|Both Teams Score|Yes",
+   "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-lista-ambos, loca-th-noche-2330-escudos, loca-th-0100-lista-ambos)"
   },
   {
    "clave": "repe-2026-11-23-1557469|Player Fouls Committed|Jarrad Branthwaite - 1",
@@ -161,6 +162,10 @@
   {
    "clave": "repe-2026-11-24-1635641|Away Player Shots|Sascha Horvath - 1",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-seguro-4, loca-th-noche-2100-x100, loca-th-noche-2230-x50)"
+  },
+  {
+   "clave": "prensa-1635731-0093ac47",
+   "t": "📰 Slovan Bratislava–Real Betis: «Alineación probable del Betis ante el Slovan Bratislava: Lo Celso, baja de última hora» (Andalucía Información) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, pick-seguro-2, loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2300-hora"
   },
   {
    "clave": "regla-cuota-2026-11-23-semana-europa",
@@ -179,8 +184,13 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T20:46",
+ "revisado": "2026-11-23T20:56",
  "historial": [
+  {
+   "hora": "2026-11-23T20:56",
+   "t": "📰 Slovan Bratislava–Real Betis: «Alineación probable del Betis ante el Slovan Bratislava: Lo Celso, baja de última hora» (Andalucía Información) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, pick-seguro-2, loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-noche-2300-hora",
+   "k": "prensa-1635731-0093ac47"
+  },
   {
    "hora": "2026-11-23T20:05",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (pick-seguro-4, loca-th-noche-2100-x100, loca-th-noche-2230-x50)",
@@ -475,11 +485,6 @@
    "hora": "2026-11-22T12:40",
    "t": "📰 Osasuna–Malaga: «Harry Kane, lesión de larga duración» (Fichajes.net) · tenemos 1 post(s) de este partido: combi-tres",
    "k": "prensa-1570458-HKane"
-  },
-  {
-   "hora": "2026-11-22T12:40",
-   "t": "📏 Regla (cuota): una pata a 1.07 (mínimo 1.20 por pata) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)",
-   "k": "regla-cuota-2026-11-23-semana-europa"
   }
  ]
 }
