@@ -180,6 +180,52 @@ def sin_porque(texto):
     return not re.search(r"👨‍💻|Por qué|^\s*•", texto or "", re.M)   # «🧠 Pensada con calma» es una etiqueta, no un porqué
 
 
+# 23/11 (Marcos: «es por la mañana, todavía no han mandado ningún pick y ya pone "otro pick que nos gusta"… que tengan
+# sentido, que vayan unas con otras: empezamos el día con este pick»): si es el primer pick del día en Telegram, la frase
+# de «otro» se cambia por una de empezar; y una de empezar, si ya ha salido alguno, por una de «otro».
+OTRO = re.compile(r"^(Otro pick|Vamos con otro|Os dejo otro|Este también|Seguimos con|Y otro|Otro más)", re.I)
+EMPEZAR = re.compile(r"^(Empezamos|Arrancamos|Abrimos el día|Primer pick)", re.I)
+FRASES_EMPEZAR = ["Empezamos el día con este pick, familia 👇", "Arrancamos el día con este 🔥", "Abrimos el día con este pick 🍀"]
+FRASES_OTRO = ["Vamos con otro pick, familia 👇", "Seguimos con otro que nos gusta 🔥", "Os dejo otro pick que pinta muy bien 👀"]
+
+
+HORA_MANANA = "21:00"   # 23/11 (Marcos: «¿por qué sube un pick para mañana si todavía no ha dado ni los de hoy?»)
+
+
+def dia_del_pick(p):
+    """El día (Madrid) del primer partido del pick, de datos/proximos; None si no se sabe."""
+    from bot import EXTRA
+    dias = []
+    for s_ in p.get("sel") or []:
+        try:
+            ex = json.loads((EXTRA / f"{str(s_).split('|')[0]}.json").read_text(encoding="utf-8"))
+            dias.append(datetime.fromisoformat(ex["partido"]["fixture"]["date"]).astimezone(MADRID).strftime("%Y-%m-%d"))
+        except Exception:
+            pass
+    return min(dias) if dias else None
+
+
+def espera_a_la_noche(p, ahora):
+    """Un pick de un partido de otro día no sale hasta las 21:00 de la víspera (detrás de los de hoy)."""
+    d = dia_del_pick(p) if es_pick(p) else None
+    return bool(d and d > ahora.strftime("%Y-%m-%d") and ahora.strftime("%H:%M") < HORA_MANANA)
+
+
+def es_pick(p):
+    return bool(p.get("sel")) and not ES_RESULTADO.search(p["id"]) and "-verde" not in p["id"]
+
+
+def primera_frase(p, texto, primero):
+    lineas = texto.split("\n", 1)
+    cab, resto = lineas[0], (lineas[1] if len(lineas) > 1 else "")
+    n = sum(map(ord, p["id"]))
+    if primero and OTRO.search(cab.strip()):
+        cab = FRASES_EMPEZAR[n % len(FRASES_EMPEZAR)]
+    elif not primero and EMPEZAR.search(cab.strip()):
+        cab = FRASES_OTRO[n % len(FRASES_OTRO)]
+    return cab + ("\n" + resto if len(lineas) > 1 else "")
+
+
 def con_porque(p, texto):
     """16/11 (Marcos: «en Telegram tiene que haber explicación… por qué coges cada pick o cosas de ese partido»): si un
     pick va sin porqué, se le añaden 1-3 razones (razones.py: forma, tabla, rachas) y qué se juega cada uno."""
@@ -308,6 +354,10 @@ def main(objetivo=None):
             if not ok:
                 continue
             cuando = datetime.fromisoformat(ok).replace(tzinfo=MADRID)
+        d_ = dia_del_pick(p) if es_pick(p) else None
+        if d_ and d_ > cuando.strftime("%Y-%m-%d"):   # 23/11: de otro día → cuenta desde las 21:00 de la víspera
+            vispera = datetime.fromisoformat(d_ + "T" + HORA_MANANA).replace(tzinfo=MADRID) - timedelta(days=1)
+            cuando = max(cuando, vispera)
         if cuando > ahora:
             continue
         if espera_buenos_dias(p, ahora):
@@ -337,7 +387,15 @@ def main(objetivo=None):
         if p.get("tarjeta") and not (RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg").exists():
             print(f"Esperando la foto del partido: {p['id']}")   # 28/10 (Marcos): combi de partido SIEMPRE con foto
             continue
+        if espera_a_la_noche(p, ahora):
+            print(f"{p['id']}: es de otro día, espera a las {HORA_MANANA}")
+            continue
         texto = preparar_texto(con_porque(p, control.get("textos", {}).get(p["id"], p["texto"])))
+        if es_pick(p):   # 23/11: «empezamos el día» / «otro pick» según haya salido ya alguno hoy
+            hoy_ = ahora.strftime("%Y-%m-%d")
+            primero = not any(es_pick(q) and q.get("mensaje_id") and str(q.get("enviado", ""))[:10] == hoy_
+                              for q in cola + auto if q is not p)
+            texto = primera_frase(p, texto, primero)
         foto = p.get("foto") or foto_de_marca(p, texto)
         # 27/10 (Marcos): las combis de un partido también van con su foto (escudos y hora) en Telegram
         tarjeta = RAIZ / "publicaciones" / "media" / f"{p['id']}.tarjeta.jpg"

@@ -38,7 +38,7 @@ TIPOS = {   # tipo → palabras (en minúsculas y sin tildes); \b para no pillar
     "vuelve": r"\bvuelve a (jugar|entrenar|la convocatoria|estar)|\brecupera a|alta medica|\breaparece|ya entrena",
     "rotaciones": r"\brotacion|\bsuplentes\b|once alternativo|\bjuveniles\b|\bcanteranos\b|dosificar|reservar a",
     "portero": r"\bportero\b|\bguardameta\b|bajo palos",
-    "campo": r"se jugara en|estadio alternativo|\bcesped\b|cambio de estadio|fuera de su campo|campo neutral|puerta cerrada|sin publico",
+    "campo": r"se jugara en|estadio alternativo|\bcesped\b.{0,40}(mal estado|helad|inundad|levantad|impracticable|estado)|(mal estado|estado).{0,40}\bcesped\b|cambio de estadio|fuera de su campo|campo neutral|puerta cerrada|sin publico",
     "aplazado": r"\baplaza|\bsuspend|nueva fecha",
     "entrenador": r"\bdestitu|\bcesad|nuevo entrenador|nuevo tecnico|\binterino\b|debut en el banquillo|\bultimatum",
     "crisis": r"\bhuelga\b|\bimpago|sin cobrar|concurso de acreedores|venta del club|\bprotesta",
@@ -220,6 +220,9 @@ FUTBOL = (r"\bfutbol|\bseleccion|\bpartido|\bjugador|\bplantilla|\bclub\b|\bentr
           r"\bhinchas|\bgol(es)?\b|\bequipo\b|\bfederacion|\bbanquillo|\bmister\b")
 
 
+NO_RAZON = r"homenaje|fallec|muere|murio|luto|minuto de silencio|condolenc|familia del|in memoriam|recuerdo a"
+
+
 def razones(fid, pick=None):
     """Hechos para el pick del día (campo, aplazamiento, entrenador, crisis), con el periódico.
     16/11: solo titulares de fútbol («Protestan en contra de centros de IA en Escocia» salió en Suiza–Escocia) y la
@@ -231,6 +234,9 @@ def razones(fid, pick=None):
     out = []
     for n in (leer(SALIDA, {}) or {}).get(str(fid), []):
         if not re.search(FUTBOL, norm(n.get("titulo"))):
+            continue
+        # 23/11 (salió «El homenaje más sentido a Jesús de Miguel… sobre el césped del Bernabéu» como porqué del Madrid)
+        if re.search(NO_RAZON, norm(n.get("titulo"))):
             continue
         for t, peso in (("campo", 4), ("aplazado", 3), ("entrenador", 3), ("crisis", 4)):
             if t == "crisis" and nuestro and t in n.get("tipos", []) and norm(n.get("equipo")) == norm(nuestro):

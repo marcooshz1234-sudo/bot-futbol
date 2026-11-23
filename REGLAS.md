@@ -216,3 +216,4 @@
 - 22/11 App, combis: cada día «Todo el día» (todos los partidos) y dos más (A y B) de @30-40 con patas de @1,40-1,60.
 - 22/11 API-Football: avisar a Marcos ANTES de que caduque la suscripción (3 días antes, al móvil) y en cuanto pase al plan gratis.
 - 22/11 Combi de @10 o más acertada (Threads o Telegram) → post de «combi acertada» en Telegram y FIJADO en el canal.
+- 23/11 Telegram: los picks de mañana, nunca antes de las 21:00 (detrás de los de hoy). El primer pick del día abre con «Empezamos el día…»; «otro pick…» solo si ya ha salido alguno. En el «Por qué», nada de noticias que no sean de fútbol de verdad (homenajes, fallecimientos…).
