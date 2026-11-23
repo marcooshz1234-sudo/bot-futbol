@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24 00:02",
+ "actualizado": "2026-11-24 00:12",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3742,
-   "hoy": 0,
+   "seguidores": 3744,
+   "hoy": 2,
    "serie": [
     3215,
     3230,
@@ -24,7 +24,7 @@
     3475,
     3714,
     3742,
-    3742
+    3744
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4303,
- "total_hoy": 0,
+ "total": 4305,
+ "total_hoy": 2,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "10:30",
+  "hora": "00:30",
   "dia": "2026-11-24",
-  "titulo": "Vamos con otro pick, familia"
+  "titulo": "La centenaria x63,23"
  },
  "ayer": null,
  "escalera": {
@@ -261,7 +261,7 @@
   },
   "2026-11-24": {
    "instagram": 54,
-   "threads": 3742,
+   "threads": 3744,
    "facebook": 1,
    "telegram": 506
   }

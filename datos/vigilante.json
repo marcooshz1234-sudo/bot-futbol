@@ -1,21 +1,6 @@
 {
  "informe": "2026-11-23",
  "vistos": {
-  "repe-2026-11-21-1552826|To Win Either Half|Home": "2026-11-21T00:10",
-  "repe-2026-11-21-1550205|Home Player Shots|Enrico Del Prato - 1": "2026-11-21T00:10",
-  "repe-2026-11-21-1570461|Goals Over/Under - Second Half|Over 1.5": "2026-11-21T00:10",
-  "repe-2026-11-21-1552826|Both Teams Score|Yes": "2026-11-21T00:10",
-  "repe-2026-11-21-1552820|Double Chance|Draw/Away": "2026-11-21T00:10",
-  "repe-2026-11-21-1552229|Results/Both Teams Score|Away/Yes": "2026-11-21T00:10",
-  "repe-2026-11-21-1552226|Results/Both Teams Score|Home/Yes": "2026-11-21T00:10",
-  "repe-2026-11-21-1552824|Results/Both Teams Score|Away/Yes": "2026-11-21T00:10",
-  "repe-2026-11-21-1552826|Double Chance|Draw/Away": "2026-11-21T00:10",
-  "repe-2026-11-21-1575222|Away Player Shots|Santiago Castaneda - 1": "2026-11-21T00:10",
-  "repe-2026-11-21-1552823|Away Player Shots|Romain Faivre - 2": "2026-11-21T00:10",
-  "prensa-1557475-c751f9e5": "2026-11-21T00:10",
-  "prensa-1552823-c4ddd39d": "2026-11-21T00:10",
-  "prensa-1570462-b6540e1c": "2026-11-21T00:10",
-  "prensa-1570461-13556558": "2026-11-21T00:10",
   "prensa-1575223-HKane": "2026-11-21T03:01",
   "prensa-1575226-MOlise": "2026-11-21T03:01",
   "prensa-1570030-5fbbf1c5": "2026-11-21T03:01",
@@ -188,16 +173,16 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0300-x50, loca-th-0600-x500)"
   },
   {
-   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
-  },
-  {
    "clave": "repe-2026-11-24-1635611|Total - Away|Over 0.5",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2230-x50, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635731|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-noche-2130-lista-ambos, loca-th-0100-lista-ambos)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635663|To Win Either Half|Away",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2100-x100, loca-th-0030-x100, loca-th-0300-x50)"
   },
   {
    "clave": "repe-2026-11-24-1635692|Both Teams Score|Yes",
@@ -224,12 +209,12 @@
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-noche-2230-x50, loca-th-0300-x50, loca-th-1130-x100)"
   },
   {
-   "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
-   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
-  },
-  {
    "clave": "repe-2026-11-24-1635611|Both Teams Score|Yes",
    "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0300-x50, loca-th-1400-x50)"
+  },
+  {
+   "clave": "repe-2026-11-24-1635667|Anytime Goal Scorer|Nicolas Jackson",
+   "t": "🔁 24/11: el mismo pronóstico en 3 posts (loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100)"
   },
   {
    "clave": "repe-2026-11-24-1635641|Double Chance|Draw/Away",
@@ -268,10 +253,6 @@
    "t": "📰 Bodo/Glimt–Lask Linz: «Andrés Andrade sufre lesión de ligamentos en el tobillo, infirmó LASK Linz» (RPC TV) · tenemos 11 post(s) de este partido: escalera, lista-europa-1, lista-europa-2, loca-th-0200-duelo, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, loca-th-1130-x100, loca-th-1600-x500, loca-th-1830-x1000"
   },
   {
-   "clave": "prensa-1635715-0a4401b5",
-   "t": "📰 Real Madrid–PSV Eindhoven: «Real Madrid dice que el delantero Endrick estará de baja por una lesión muscular» (Independent en Español) · tenemos 14 post(s) de este partido: lista-europa-1, combi-tres, lista-europa-2, pick-seguro-6, estrella-1635715, loca-th-0100-lista-ambos, loca-th-0300-x50, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-0800-reto, loca-th-0900-tiros, loca-th-1130-x100, loca-th-1830-x1000, loca-th-1900-lista-corners"
-  },
-  {
    "clave": "prensa-1635611-378392d6",
    "t": "📰 Arsenal–Borussia Dortmund: «Arsenal descarta el fichaje de Julián Álvarez: el motivo» (El Crack Deportivo) · tenemos 13 post(s) de este partido: lista-europa-1, pick-seguro-3, combi-tres, lista-europa-2, loca-th-0030-x100, loca-th-0300-x50, loca-th-0500-tapados, loca-th-0600-x500, loca-th-0700-lista-corners, loca-th-1130-x100, loca-th-1400-x50, loca-th-1830-x1000, loca-th-1900-lista-corners"
   },
@@ -280,7 +261,7 @@
    "t": "📰 Galatasaray–Aston Villa: «Lamine Yamal lidera las bajas del Barça para viajar a Bakú» (Notimérica) · tenemos 5 post(s) de este partido: loca-th-0030-x100, loca-th-0800-reto, loca-th-1130-x100, loca-th-1400-x50, loca-th-1830-x1000"
   }
  ],
- "revisado": "2026-11-24T00:03",
+ "revisado": "2026-11-24T00:12",
  "historial": [
   {
    "hora": "2026-11-24T00:03",
