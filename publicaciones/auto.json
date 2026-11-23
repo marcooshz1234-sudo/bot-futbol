@@ -12367,16 +12367,14 @@
   {
     "id": "2026-11-23-loca-th-1630-escudos",
     "fecha": "2026-11-23T16:30",
-    "texto": "⚡ COMBI MONZA – FIORENTINA ⚡\n\n⭐ Monza vs Fiorentina · 20:45\n\n✅ 🦵 Eddy Kouadio comete 2+ faltas\n✅ 🏹 Dany Mota: 2+ tiros\n✅ ⚡ Fiorentina gana una parte\n✅ ↔️ Ambos marcan\n\n🎯 CUOTA 6,64 aprox. 💎 10€ → 66,40€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
+    "texto": "⚡ COMBI MONZA – FIORENTINA ⚡\n\n⭐ Monza vs Fiorentina · 20:45\n\n✅ 🦵 Eddy Kouadio comete 2+ faltas\n✅ ⚡ Fiorentina gana una parte\n✅ ↔️ Ambos marcan\n\n🎯 CUOTA 4,50 aprox. 💎 10€ → 66,40€\n🍀 ¿LA PINTAMOS DE VERDE? 👀💚",
     "sel": [
       "1550203|Player Fouls Committed|Eddy Kouadio - 2",
-      "1550203|Home Player Shots|Dany Mota - 2",
       "1550203|To Win Either Half|Away",
       "1550203|Both Teams Score|Yes"
     ],
     "cuotas": [
       1.83,
-      1.36,
       1.5,
       1.53
     ],
@@ -12398,7 +12396,8 @@
     "fijo": true,
     "directo": true,
     "enlace_telegram": false,
-    "cuotas_revisadas": "2026-11-23T16:05"
+    "cuotas_revisadas": "2026-11-23T16:05",
+    "revisado_alineaciones": "2026-11-23T20:19"
   },
   {
     "id": "2026-11-23-loca-th-1700-escudos",

@@ -147,6 +147,7 @@
   "2026-11-22-loca-th-1940-x500|Antoine Valero marca",
   "2026-11-22-loca-th-1940-x500|Jonathan David marca",
   "2026-11-22-loca-th-1940-x500|Pierre Hojbjerg: 2+ tiros",
+  "2026-11-23-loca-th-1630-escudos|Dany Mota: 2+ tiros",
   "clave|2026-11-02-combi-partido-1569998|1569998|Total - Away|Over 0.5|V. Kopotun",
   "clave|2026-11-02-marcos-1|1550178|Match Winner|Home|E. Elmas",
   "clave|2026-11-02-marcos-6|1550178|Match Winner|Home|E. Elmas",
@@ -477,6 +478,10 @@
   "clave|2026-11-22-loca-th-1840-duelo|1550198|Away Player Shots|Andy Diouf - 2|P. Zieliński",
   "clave|2026-11-22-loca-th-1940-x500|1550198|Anytime Goal Scorer|Marcus Thuram|P. Zieliński",
   "clave|2026-11-22-pick-seguro-6|1570456|Total - Home|Over 0.5|M. Satriano",
+  "clave|2026-11-23-loca-th-0200-duelo|1550203|Away Player Shots|Beto - 3|A. Njie",
+  "clave|2026-11-23-loca-th-0600-reto|1550203|Anytime Goal Scorer|Mateo Pellegrino|A. Njie",
+  "clave|2026-11-23-loca-th-1630-escudos|1550203|To Win Either Half|Away|A. Njie",
+  "clave|2026-11-23-loca-th-noche-2200-duelo|1550203|Away Player Shots|Beto - 3|A. Njie",
   "mis|2026-11-01-athletic-real|1570433|Home Player Shots On Target Total|Robert Navarro - 1",
   "mis|2026-11-01-burgos-castellon|1569993|Away Player Shots|Alvaro Garcia - 3",
   "mis|2026-11-01-burgos-castellon|1569993|Home Player Shots|Jon Karrikaburu - 1",
@@ -1066,10 +1071,152 @@
    }
   },
   "1550203": {
-   "hora": "2026-11-23T20:09:18.232886+01:00",
-   "xi": [],
-   "banquillo": [],
-   "equipos": {}
+   "hora": "2026-11-23T20:19:33.084085+01:00",
+   "xi": [
+    "D. Thiam",
+    "E. Kouadio",
+    "S. Goglichidze",
+    "A. Carboni",
+    "S. Birindelli",
+    "E. Akinsanmiro",
+    "L. Colombo",
+    "M. Pessina",
+    "Ricardo Mangas",
+    "Gustavo Varela",
+    "Jay Robinson",
+    "David de Gea",
+    "Álex Jiménez",
+    "R. Drăgușin",
+    "Viery",
+    "João Mário",
+    "C. Ndour",
+    "C. Inao OulaÃ¯",
+    "Franco Mastantuono",
+    "Pote",
+    "W. Gnonto",
+    "Mateo Pellegrino"
+   ],
+   "banquillo": [
+    "J. Ziółkowski",
+    "A. Bakoune",
+    "E. Zeballos",
+    "V. Antov",
+    "A. Colpani",
+    "P. Cutrone",
+    "O. Forson",
+    "L. Lucchesi",
+    "Dany Mota",
+    "M. Mout",
+    "M. Ondoa",
+    "A. Strajnar",
+    "N. Törnqvist",
+    "I. Touré",
+    "L. Ranieri",
+    "A. Njie",
+    "L. Lezzerini",
+    "N. Fagioli",
+    "Dodô",
+    "O. Christensen",
+    "M. Brescianini",
+    "Beto",
+    "A. Atta",
+    "Valde",
+    "B. Mazzeo"
+   ],
+   "equipos": {
+    "1579": [
+     {
+      "n": "D. Thiam",
+      "pos": "G"
+     },
+     {
+      "n": "E. Kouadio",
+      "pos": "D"
+     },
+     {
+      "n": "S. Goglichidze",
+      "pos": "D"
+     },
+     {
+      "n": "A. Carboni",
+      "pos": "D"
+     },
+     {
+      "n": "S. Birindelli",
+      "pos": "M"
+     },
+     {
+      "n": "E. Akinsanmiro",
+      "pos": "M"
+     },
+     {
+      "n": "L. Colombo",
+      "pos": "M"
+     },
+     {
+      "n": "M. Pessina",
+      "pos": "M"
+     },
+     {
+      "n": "Ricardo Mangas",
+      "pos": "M"
+     },
+     {
+      "n": "Gustavo Varela",
+      "pos": "F"
+     },
+     {
+      "n": "Jay Robinson",
+      "pos": "F"
+     }
+    ],
+    "502": [
+     {
+      "n": "David de Gea",
+      "pos": "G"
+     },
+     {
+      "n": "Álex Jiménez",
+      "pos": "D"
+     },
+     {
+      "n": "R. Drăgușin",
+      "pos": "D"
+     },
+     {
+      "n": "Viery",
+      "pos": "D"
+     },
+     {
+      "n": "João Mário",
+      "pos": "D"
+     },
+     {
+      "n": "C. Ndour",
+      "pos": "M"
+     },
+     {
+      "n": "C. Inao OulaÃ¯",
+      "pos": "M"
+     },
+     {
+      "n": "Franco Mastantuono",
+      "pos": "M"
+     },
+     {
+      "n": "Pote",
+      "pos": "M"
+     },
+     {
+      "n": "W. Gnonto",
+      "pos": "M"
+     },
+     {
+      "n": "Mateo Pellegrino",
+      "pos": "F"
+     }
+    ]
+   }
   },
   "1557469": {
    "hora": "2026-11-23T20:14:22.724002+01:00",
