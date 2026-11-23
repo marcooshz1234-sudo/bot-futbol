@@ -3402,14 +3402,14 @@
   },
   "2026-11-23": {
     "dia": "2026-11-23",
-    "total": 2,
+    "total": 4,
     "cuentas": {
       "verde": 0,
       "rojo": 0,
-      "pendiente": 2,
+      "pendiente": 4,
       "sin_datos": 0,
       "no_jugo": 0,
-      "sin_resolver": 2
+      "sin_resolver": 4
     },
     "combis": [
       {
@@ -3423,13 +3423,25 @@
         "titulo": "⚽ AMBOS MARCAN HOY ⚽",
         "estado": "pendiente",
         "cuota": null
+      },
+      {
+        "id": "2026-11-24-pick-tip-1",
+        "titulo": "Vamos con otro pick, familia 👇",
+        "estado": "pendiente",
+        "cuota": null
+      },
+      {
+        "id": "2026-11-23-loca-th-0200-duelo",
+        "titulo": "🥊 EL DUELO DE TIROS 🥊",
+        "estado": "pendiente",
+        "cuota": 2.0
       }
     ],
     "picks": {
       "verde": 0,
       "rojo": 0,
-      "total": 6
+      "total": 9
     },
-    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 55,21 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 2 sin resolver"
+    "texto": "📊 BALANCE DEL LUNES: 0 DE 0 EN VERDE 📊\n\n⏳ 👑⚽ GANA Y AMBOS MARCAN 👑⚽ · 55,21 · pendiente\n⏳ ⚽ AMBOS MARCAN HOY ⚽ · pendiente\n⏳ Vamos con otro pick, familia 👇 · pendiente\n⏳ 🥊 EL DUELO DE TIROS 🥊 · 2,00 · pendiente\n\n✅ 0 acertadas · ❌ 0 falladas · ⏳ 4 sin resolver"
   }
 }
