@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23 17:41",
+ "actualizado": "2026-11-23 17:51",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -41,8 +41,8 @@
    ]
   },
   "telegram": {
-   "seguidores": 504,
-   "hoy": -2,
+   "seguidores": 503,
+   "hoy": -3,
    "serie": [
     471,
     479,
@@ -50,17 +50,17 @@
     490,
     496,
     506,
-    504
+    503
    ]
   }
  },
- "total": 4294,
- "total_hoy": 19,
+ "total": 4293,
+ "total_hoy": 18,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "17:45",
+  "hora": "23:30",
   "dia": "2026-11-23",
-  "titulo": "Seguimos con otro que nos gusta"
+  "titulo": "Los picks de la semana"
  },
  "ayer": {
   "aciertos": 12,
@@ -260,7 +260,7 @@
    "instagram": 54,
    "threads": 3735,
    "facebook": 1,
-   "telegram": 504
+   "telegram": 503
   }
  },
  "tipos_instagram": {
