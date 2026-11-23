@@ -900,5 +900,11 @@
     "enviado": "2026-11-23T12:36",
     "mensaje_id": 598,
     "foto_tg": "publicaciones/media/2026-11-23-pick-seguro-3.tg.jpg"
+  },
+  "2026-11-24-pick-seguro": {
+    "caducada": "cancelado"
+  },
+  "2026-11-24-pick-seguro-4": {
+    "caducada": "cancelado"
   }
 }
