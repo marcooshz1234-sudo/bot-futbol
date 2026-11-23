@@ -141,7 +141,8 @@
   "prensa-1635692-31be0c46": "2026-11-23T00:28",
   "prensa-1635641-c9519c65": "2026-11-23T00:28",
   "prensa-1635611-378392d6": "2026-11-23T00:28",
-  "redes-2026-11-24-pick-tip-1-threads-instagram": "2026-11-23T01:49"
+  "redes-2026-11-24-pick-tip-1-threads-instagram": "2026-11-23T01:49",
+  "prensa-1635715-1f3aad01": "2026-11-23T09:41"
  },
  "abiertos": [
   {
@@ -161,6 +162,10 @@
    "t": "🔁 23/11: el mismo pronóstico en 3 posts (loca-th-0600-reto, loca-th-1030-x500, loca-th-1700-escudos)"
   },
   {
+   "clave": "prensa-1635715-1f3aad01",
+   "t": "📰 Real Madrid–PSV Eindhoven: «La lesión de Ferland Mendy y su futuro en el Real Madrid» (madridistahoy.com) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, combi-tres, lista-europa-2, pick-seguro-6, estrella-1635715"
+  },
+  {
    "clave": "regla-cuota-2026-11-23-semana-europa",
    "t": "📏 Regla (cuota): una pata a 1.08 (mínimo 1.20 por pata) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   },
@@ -173,8 +178,13 @@
    "t": "📏 Regla (orden): patas no ordenadas por hora de inicio (02/11) · «🏆🔥 LOS PICKS DE LA SEMANA · COMBILOCAS 🔥🏆» (23:30)"
   }
  ],
- "revisado": "2026-11-23T09:31",
+ "revisado": "2026-11-23T09:41",
  "historial": [
+  {
+   "hora": "2026-11-23T09:41",
+   "t": "📰 Real Madrid–PSV Eindhoven: «La lesión de Ferland Mendy y su futuro en el Real Madrid» (madridistahoy.com) · tenemos 7 post(s) de este partido: semana-europa, ganadores-champions, lista-europa-1, combi-tres, lista-europa-2, pick-seguro-6, estrella-1635715",
+   "k": "prensa-1635715-1f3aad01"
+  },
   {
    "hora": "2026-11-23T01:49",
    "t": "⏰ No ha salido en threads ni instagram (01:27): Vamos con otro pick, familia 👇",
@@ -469,11 +479,6 @@
    "hora": "2026-11-22T00:02",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos)",
    "k": "repe-2026-11-22-1552821|Both Teams Score|Yes"
-  },
-  {
-   "hora": "2026-11-22T00:02",
-   "t": "🔁 22/11: el mismo pronóstico en 3 posts (loca-th-noche-2130-x100, loca-th-noche-2230-lista-ambos, loca-th-0300-lista-ambos)",
-   "k": "repe-2026-11-22-1575227|Both Teams Score|Yes"
   }
  ]
 }
