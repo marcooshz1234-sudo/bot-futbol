@@ -1,7 +1,6 @@
 {
  "informe": "2026-11-23",
  "vistos": {
-  "prensa-1570461-DMaldini": "2026-11-20T13:31",
   "redes-2026-11-20-combi-tres-threads-instagram": "2026-11-20T13:52",
   "prensa-1570462-d1f6831e": "2026-11-20T14:33",
   "repe-2026-11-20-1570025|Total - Home|Over 1.5": "2026-11-20T14:44",
@@ -140,9 +139,14 @@
   "cuotas-2026-11-23-noche-levante": "2026-11-23T12:56",
   "cuotas-2026-11-23-noche-brentford": "2026-11-23T12:56",
   "cuotas-2026-11-23-noche-ceuta": "2026-11-23T12:56",
-  "redes-2026-11-23-pick-seguro-3-threads-instagram": "2026-11-23T12:56"
+  "redes-2026-11-23-pick-seguro-3-threads-instagram": "2026-11-23T12:56",
+  "redes-2026-11-23-noche-levante-threads-instagram": "2026-11-23T13:36"
  },
  "abiertos": [
+  {
+   "clave": "redes-2026-11-23-noche-levante-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (13:15): Empezamos el día con este pick, familia 👇"
+  },
   {
    "clave": "cuotas-2026-11-23-noche-brentford",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
@@ -184,8 +188,13 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T13:26",
+ "revisado": "2026-11-23T13:36",
  "historial": [
+  {
+   "hora": "2026-11-23T13:36",
+   "t": "⏰ No ha salido en threads ni instagram (13:15): Empezamos el día con este pick, familia 👇",
+   "k": "redes-2026-11-23-noche-levante-threads-instagram"
+  },
   {
    "hora": "2026-11-23T12:56",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Empezamos el día con este pick, familia 👇",
@@ -480,11 +489,6 @@
    "hora": "2026-11-22T01:37",
    "t": "⏰ No ha salido en threads (00:40): 💥🏆 GANA Y AMBOS MARCAN 💥🏆 · error: caducado: no salió a tiempo",
    "k": "redes-2026-11-22-loca-th-0040-ganaambos-threads"
-  },
-  {
-   "hora": "2026-11-22T01:37",
-   "t": "📰 Barcelona–Villarreal: «Flick Confirma Una Baja En El Barcelona Y Pone En Duda A Cubarsí» (La Red 106.1 FM) · tenemos 2 post(s) de este partido: loca-th-0300-lista-ambos, loca-th-0920-lista-corners",
-   "k": "prensa-1570455-7d56ef12"
   }
  ]
 }
