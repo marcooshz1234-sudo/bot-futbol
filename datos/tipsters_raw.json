@@ -10646,20 +10646,6 @@
  ],
  "PABLO ANALISTA": [
   {
-   "id": "-1001393609245/16367",
-   "fecha": "2026-11-15T22:50",
-   "texto": "✅",
-   "foto": false,
-   "visto": "2026-11-15T23:01"
-  },
-  {
-   "id": "-1001393609245/16369",
-   "fecha": "2026-11-15T22:51",
-   "texto": "ÚLTIMAS EDICIONES 105/114 ✅\n\nEDICIONES EN NOVIEMBRE 7/7 ✅",
-   "foto": false,
-   "visto": "2026-11-15T23:01"
-  },
-  {
    "id": "-1001393609245/16370",
    "fecha": "2026-11-15T22:57",
    "texto": "",
@@ -12127,6 +12113,22 @@
    "texto": "ÚLTIMOS MINUTOS PARA ENTRAR 🔒",
    "foto": false,
    "visto": "2026-11-23T00:19"
+  },
+  {
+   "id": "-1001393609245/16571",
+   "fecha": "2026-11-23T03:50",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-23T03:51",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16571.jpg"
+  },
+  {
+   "id": "-1001393609245/16570",
+   "fecha": "2026-11-23T03:50",
+   "texto": "",
+   "foto": true,
+   "visto": "2026-11-23T03:51",
+   "foto_ruta": "datos/tipsters_fotos/PABLO_ANALISTA_16570.jpg"
   }
  ],
  "CREAR APUESTA CUOTA 101 MIA - SAC": [
