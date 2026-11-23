@@ -144,10 +144,6 @@
  },
  "abiertos": [
   {
-   "clave": "cuotas-2026-11-23-noche-levante",
-   "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Empezamos el día con este pick, familia 👇"
-  },
-  {
    "clave": "cuotas-2026-11-23-noche-brentford",
    "t": "📉 Sin «cuotas» (la app no lo sigue y no saldría su verde): Vamos con otro pick, familia 👇"
   },
@@ -192,7 +188,7 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T13:06",
+ "revisado": "2026-11-23T13:16",
  "historial": [
   {
    "hora": "2026-11-23T12:56",
