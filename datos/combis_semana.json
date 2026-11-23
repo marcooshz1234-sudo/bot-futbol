@@ -1,9 +1,9 @@
 {
- "dia": "2026-11-23",
- "generado": "2026-11-23T23:58+01:00",
+ "dia": "2026-11-24",
+ "generado": "2026-11-24T00:30+01:00",
  "rango": [
-  "2026-11-23",
-  "2026-11-26"
+  "2026-11-24",
+  "2026-11-27"
  ],
  "combis": [
   {
@@ -302,6 +302,80 @@
  ],
  "equipos": [
   {
+   "equipo": "Werder Bremen",
+   "liga": "Bundesliga",
+   "partido": "Werder Bremen–Borussia Mönchengladbach",
+   "hora": "2026-11-27T20:30",
+   "logo": "https://media.api-sports.io/football/teams/162.png",
+   "patas": [
+    {
+     "sel": "1575237|Total - Home|Over 1.5",
+     "texto": "Werder Bremen marca 2 o más",
+     "cuota": 1.53,
+     "p": 0.742,
+     "dato": "marca 2,8 por partido y el rival encaja 2,5",
+     "nota": 0.8038472226614475,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30"
+    },
+    {
+     "sel": "1575237|To Win Either Half|Home",
+     "texto": "Werder Bremen gana alguna de las dos partes",
+     "cuota": 1.4,
+     "p": 0.774,
+     "dato": "Werder Bremen: VVEVV en sus últimos 5",
+     "nota": 0.7965595726394152,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30"
+    }
+   ],
+   "cuota": 2.14
+  },
+  {
+   "equipo": "Stade Brestois 29",
+   "liga": "Ligue 1",
+   "partido": "Stade Brestois 29–Paris FC",
+   "hora": "2026-11-27T20:45",
+   "logo": "https://media.api-sports.io/football/teams/106.png",
+   "patas": [
+    {
+     "sel": "1552830|Home Player Shots|Raphael Le Guen - 1",
+     "texto": "Raphael Le Guen: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,80 por 90' (3-2-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Stade Brestois 29",
+     "lado": "L",
+     "partido": "Stade Brestois 29–Paris FC",
+     "hora": "2026-11-27T20:45"
+    },
+    {
+     "sel": "1552830|Home Player Shots|Pathe Mboup - 2",
+     "texto": "Pathe Mboup: 2+ remates",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,95 por 90' (2-3-4-4-3-0)",
+     "nota": 0.84,
+     "equipo": "Stade Brestois 29",
+     "lado": "L",
+     "partido": "Stade Brestois 29–Paris FC",
+     "hora": "2026-11-27T20:45"
+    },
+    {
+     "sel": "1552830|Double Chance|Home/Draw",
+     "texto": "Stade Brestois 29 o empate",
+     "cuota": 1.67,
+     "p": 0.722,
+     "dato": "Stade Brestois 29: VDVDE en sus últimos 5",
+     "nota": 0.7906999011186944,
+     "partido": "Stade Brestois 29–Paris FC",
+     "hora": "2026-11-27T20:45"
+    }
+   ],
+   "cuota": 3.27
+  },
+  {
    "equipo": "Arsenal",
    "liga": "Champions League",
    "partido": "Arsenal–Borussia Dortmund",
@@ -465,19 +539,9 @@
      "lado": "L",
      "partido": "RB Leipzig–Lens",
      "hora": "2026-11-24T21:00"
-    },
-    {
-     "sel": "1635713|Match Winner|Home",
-     "texto": "Gana RB Leipzig",
-     "cuota": 1.38,
-     "p": 0.765,
-     "dato": "RB Leipzig: VDVVV en sus últimos 5",
-     "nota": 0.7691582652119671,
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00"
     }
    ],
-   "cuota": 3.46
+   "cuota": 2.5
   },
   {
    "equipo": "Lens",
@@ -554,38 +618,6 @@
     }
    ],
    "cuota": 3.17
-  },
-  {
-   "equipo": "Slovan Bratislava",
-   "liga": "Champions League",
-   "partido": "Slovan Bratislava–Real Betis",
-   "hora": "2026-11-24T21:00",
-   "logo": "https://media.api-sports.io/football/teams/656.png",
-   "patas": [
-    {
-     "sel": "1635731|Player Fouls Committed|Sandro Cruz - 1",
-     "texto": "Sandro Cruz: comete 1+ falta",
-     "cuota": 1.4,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,15 por 90' (0-2-1-2-1-1)",
-     "nota": 0.84,
-     "equipo": "Slovan Bratislava",
-     "lado": "L",
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00"
-    },
-    {
-     "sel": "1635731|Total - Home|Over 0.5",
-     "texto": "Slovan Bratislava marca",
-     "cuota": 1.67,
-     "p": 0.724,
-     "dato": "marca 1,0 por partido y el rival encaja 1,4",
-     "nota": 0.7952793105705545,
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00"
-    }
-   ],
-   "cuota": 2.34
   },
   {
    "equipo": "Sabah FA",
@@ -2291,6 +2323,72 @@
    "liga": "Varias"
   },
   {
+   "clave": "todo-2026-11-27",
+   "titulo": "📅 Todo el viernes",
+   "expl": "Una pata de cada partido del viernes 27",
+   "liga": "Varias",
+   "patas": [
+    {
+     "sel": "1575237|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.5,
+     "p": 0.78,
+     "dato": "más de 2,5 goles en el 80% y el 100% de sus partidos",
+     "nota": 0.8647292447937993,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/163.png"
+    },
+    {
+     "sel": "1552830|Home Player Shots|Raphael Le Guen - 1",
+     "texto": "Raphael Le Guen: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,80 por 90' (3-2-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Stade Brestois 29",
+     "lado": "L",
+     "partido": "Stade Brestois 29–Paris FC",
+     "hora": "2026-11-27T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/106.png",
+     "logo_v": "https://media.api-sports.io/football/teams/114.png"
+    },
+    {
+     "sel": "1557485|Home Player Shots|Dan Ndoye - 2",
+     "texto": "Dan Ndoye: 2+ remates",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,72 por 90' (0-3-3-5-3-4)",
+     "nota": 0.934,
+     "equipo": "Nottingham Forest",
+     "lado": "L",
+     "partido": "Nottingham Forest–Chelsea",
+     "hora": "2026-11-27T21:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/65.png",
+     "logo_v": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
+     "sel": "1570468|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.5,
+     "p": 0.694,
+     "dato": "más de 2,5 goles en el 80% y el 57% de sus partidos",
+     "nota": 0.7143325539775862,
+     "partido": "Levante–Racing Santander",
+     "hora": "2026-11-27T21:00",
+     "liga": "LaLiga",
+     "logo_l": "https://media.api-sports.io/football/teams/539.png",
+     "logo_v": "https://media.api-sports.io/football/teams/4665.png"
+    }
+   ],
+   "cuota": 5.26,
+   "prob": 0.381
+  },
+  {
    "clave": "todas",
    "titulo": "🌍 Lo mejor de todas las ligas",
    "expl": "La mejor pata de cada partido, mezclando ligas",
@@ -2321,21 +2419,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/50.png",
      "logo_v": "https://media.api-sports.io/football/teams/492.png"
-    },
-    {
-     "sel": "1635713|Home Player Shots|Willi Orban - 1",
-     "texto": "Willi Orban: 1+ remate",
-     "cuota": 1.67,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-1-2-0-2-1)",
-     "nota": 0.934,
-     "equipo": "RB Leipzig",
-     "lado": "L",
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
      "sel": "1635718|Away Player Shots|Lamine Yamal - 5",
@@ -2392,10 +2475,25 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/4799.png",
      "logo_v": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+     "sel": "1552830|Home Player Shots|Raphael Le Guen - 1",
+     "texto": "Raphael Le Guen: 1+ remate",
+     "cuota": 1.4,
+     "p": 0.88,
+     "dato": "cumple 5/5 siendo titular · 1,80 por 90' (3-2-2-1-1)",
+     "nota": 0.976,
+     "equipo": "Stade Brestois 29",
+     "lado": "L",
+     "partido": "Stade Brestois 29–Paris FC",
+     "hora": "2026-11-27T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/106.png",
+     "logo_v": "https://media.api-sports.io/football/teams/114.png"
     }
    ],
-   "cuota": 34.09,
-   "prob": 0.372
+   "cuota": 28.58,
+   "prob": 0.409
   },
   {
    "clave": "segura",
@@ -2419,14 +2517,14 @@
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
     },
     {
-     "sel": "1635713|Away Player Shots|Andrija Bulatovic - 1",
-     "texto": "Andrija Bulatovic: 1+ remate",
-     "cuota": 1.62,
+     "sel": "1635713|Home Player Shots|Willi Orban - 1",
+     "texto": "Willi Orban: 1+ remate",
+     "cuota": 1.67,
      "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
-     "nota": 0.9240000000000002,
-     "equipo": "Lens",
-     "lado": "V",
+     "dato": "cumple 5/6 siendo titular · 1,33 por 90' (2-1-2-0-2-1)",
+     "nota": 0.934,
+     "equipo": "RB Leipzig",
+     "lado": "L",
      "partido": "RB Leipzig–Lens",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
@@ -2447,7 +2545,7 @@
      "logo_v": "https://media.api-sports.io/football/teams/611.png"
     }
    ],
-   "cuota": 4.14,
+   "cuota": 4.27,
    "prob": 0.514
   },
   {
@@ -2456,51 +2554,6 @@
    "expl": "El favorito de cada partido gana, de @1,20 a @1,80",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1635649|Match Winner|Home",
-     "texto": "Gana Como",
-     "cuota": 1.27,
-     "p": 0.791,
-     "dato": "Como: VVVVE en sus últimos 5 · en casa",
-     "nota": 0.7934488905162509,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Como–AEK Athens FC",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/575.png"
-    },
-    {
-     "sel": "1635713|Match Winner|Home",
-     "texto": "Gana RB Leipzig",
-     "cuota": 1.38,
-     "p": 0.752,
-     "dato": "RB Leipzig: VDVVV en sus últimos 5 · en casa",
-     "nota": 0.7703180705277848,
-     "lado": "L",
-     "ganador": true,
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1635611|Match Winner|Home",
-     "texto": "Gana Arsenal",
-     "cuota": 1.36,
-     "p": 0.734,
-     "dato": "Arsenal: VVVVV en sus últimos 5 · en casa",
-     "nota": 0.7337957399573124,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
     {
      "sel": "1635703|Match Winner|Home",
      "texto": "Gana Paris Saint Germain",
@@ -2515,6 +2568,21 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/85.png",
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
+    },
+    {
+     "sel": "1635673|Match Winner|Home",
+     "texto": "Gana Inter",
+     "cuota": 1.4,
+     "p": 0.673,
+     "dato": "Inter: VVVDV en sus últimos 5 · en casa",
+     "nota": 0.6438128868399151,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Inter–VfB Stuttgart",
+     "hora": "2026-11-25T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/505.png",
+     "logo_v": "https://media.api-sports.io/football/teams/172.png"
     },
     {
      "sel": "1636315|Match Winner|Away",
@@ -2545,10 +2613,40 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/651.png",
      "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    {
+     "sel": "1636270|Match Winner|Home",
+     "texto": "Gana 1899 Hoffenheim",
+     "cuota": 1.33,
+     "p": 0.642,
+     "dato": "1899 Hoffenheim: VVVDD en sus últimos 5 · en casa",
+     "nota": 0.5683817609895292,
+     "lado": "L",
+     "ganador": true,
+     "partido": "1899 Hoffenheim–Sturm Graz",
+     "hora": "2026-11-26T21:00",
+     "liga": "Europa League",
+     "logo_l": "https://media.api-sports.io/football/teams/167.png",
+     "logo_v": "https://media.api-sports.io/football/teams/637.png"
+    },
+    {
+     "sel": "1575237|Match Winner|Home",
+     "texto": "Gana Werder Bremen",
+     "cuota": 1.75,
+     "p": 0.675,
+     "dato": "Werder Bremen: VVEVV en sus últimos 5 · en casa",
+     "nota": 0.7661721117897013,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/163.png"
     }
    ],
-   "cuota": 6.56,
-   "prob": 0.156
+   "cuota": 8.97,
+   "prob": 0.104
   },
   {
    "clave": "ganan-larga",
@@ -2556,66 +2654,6 @@
    "expl": "Todos los favoritos claros, hasta 12 (puede llevar los de la de arriba)",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1635641|Match Winner|Home",
-     "texto": "Gana Bodo/Glimt",
-     "cuota": 1.55,
-     "p": 0.629,
-     "dato": "Bodo/Glimt: EVVV en sus últimos 5 · en casa",
-     "nota": 0.6158228864571023,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Bodo/Glimt–Lask Linz",
-     "hora": "2026-11-24T18:45",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/327.png",
-     "logo_v": "https://media.api-sports.io/football/teams/1026.png"
-    },
-    {
-     "sel": "1635649|Match Winner|Home",
-     "texto": "Gana Como",
-     "cuota": 1.27,
-     "p": 0.791,
-     "dato": "Como: VVVVE en sus últimos 5 · en casa",
-     "nota": 0.7934488905162509,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Como–AEK Athens FC",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/895.png",
-     "logo_v": "https://media.api-sports.io/football/teams/575.png"
-    },
-    {
-     "sel": "1635713|Match Winner|Home",
-     "texto": "Gana RB Leipzig",
-     "cuota": 1.38,
-     "p": 0.752,
-     "dato": "RB Leipzig: VDVVV en sus últimos 5 · en casa",
-     "nota": 0.7703180705277848,
-     "lado": "L",
-     "ganador": true,
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
-    },
-    {
-     "sel": "1635611|Match Winner|Home",
-     "texto": "Gana Arsenal",
-     "cuota": 1.36,
-     "p": 0.734,
-     "dato": "Arsenal: VVVVV en sus últimos 5 · en casa",
-     "nota": 0.7337957399573124,
-     "lado": "L",
-     "ganador": true,
-     "partido": "Arsenal–Borussia Dortmund",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/42.png",
-     "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
     {
      "sel": "1635703|Match Winner|Home",
      "texto": "Gana Paris Saint Germain",
@@ -2720,10 +2758,25 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/167.png",
      "logo_v": "https://media.api-sports.io/football/teams/637.png"
+    },
+    {
+     "sel": "1575237|Match Winner|Home",
+     "texto": "Gana Werder Bremen",
+     "cuota": 1.75,
+     "p": 0.675,
+     "dato": "Werder Bremen: VVEVV en sus últimos 5 · en casa",
+     "nota": 0.7661721117897013,
+     "lado": "L",
+     "ganador": true,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/163.png"
     }
    ],
-   "cuota": 51.56,
-   "prob": 0.015
+   "cuota": 24.42,
+   "prob": 0.038
   },
   {
    "clave": "top",
@@ -2762,21 +2815,6 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
-     "sel": "1635625|Player Fouls Committed|Robin Le Normand - 1",
-     "texto": "Robin Le Normand: comete 1+ falta",
-     "cuota": 1.62,
-     "p": 0.8,
-     "dato": "cumple 5/6 siendo titular · 1,45 por 90' (1-1-0-1-3-2)",
-     "nota": 0.9240000000000002,
-     "equipo": "Atletico Madrid",
-     "lado": "L",
-     "partido": "Atletico Madrid–Viking",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/530.png",
-     "logo_v": "https://media.api-sports.io/football/teams/759.png"
-    },
-    {
      "sel": "1636298|Total - Away|Over 0.5",
      "texto": "Levski Sofia marca",
      "cuota": 1.67,
@@ -2788,9 +2826,24 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/81.png",
      "logo_v": "https://media.api-sports.io/football/teams/646.png"
+    },
+    {
+     "sel": "1557485|Home Player Shots|Dan Ndoye - 2",
+     "texto": "Dan Ndoye: 2+ remates",
+     "cuota": 1.67,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 3,72 por 90' (0-3-3-5-3-4)",
+     "nota": 0.934,
+     "equipo": "Nottingham Forest",
+     "lado": "L",
+     "partido": "Nottingham Forest–Chelsea",
+     "hora": "2026-11-27T21:00",
+     "liga": "Premier League",
+     "logo_l": "https://media.api-sports.io/football/teams/65.png",
+     "logo_v": "https://media.api-sports.io/football/teams/49.png"
     }
    ],
-   "cuota": 7.1,
+   "cuota": 7.32,
    "prob": 0.408
   },
   {
@@ -2815,19 +2868,19 @@
      "logo_v": "https://media.api-sports.io/football/teams/197.png"
     },
     {
-     "sel": "1635713|Player Fouls Committed|Christopher Nkunku - 1",
-     "texto": "Christopher Nkunku: comete 1+ falta",
-     "cuota": 1.5,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 1,65 por 90' (1-2-0-1-3)",
-     "nota": 0.8375000000000001,
-     "equipo": "RB Leipzig",
+     "sel": "1635625|Player Fouls Committed|Robin Le Normand - 1",
+     "texto": "Robin Le Normand: comete 1+ falta",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,45 por 90' (1-1-0-1-3-2)",
+     "nota": 0.9240000000000002,
+     "equipo": "Atletico Madrid",
      "lado": "L",
-     "partido": "RB Leipzig–Lens",
-     "hora": "2026-11-24T21:00",
+     "partido": "Atletico Madrid–Viking",
+     "hora": "2026-11-25T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/173.png",
-     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+     "logo_l": "https://media.api-sports.io/football/teams/530.png",
+     "logo_v": "https://media.api-sports.io/football/teams/759.png"
     },
     {
      "sel": "1635703|Player Fouls Committed|Joao Neves - 1",
@@ -2875,8 +2928,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/40.png"
     }
    ],
-   "cuota": 6.3,
-   "prob": 0.313
+   "cuota": 6.8,
+   "prob": 0.328
   },
   {
    "clave": "remates",
@@ -2885,19 +2938,19 @@
    "liga": "Varias",
    "patas": [
     {
-     "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
-     "texto": "Alvaro Valles: 2+ paradas",
-     "cuota": 1.5,
-     "p": 0.764,
-     "dato": "cumple 4/5 siendo titular · 3,40 por 90' (4-3-4-1-5)",
-     "nota": 0.8375000000000001,
-     "equipo": "Real Betis",
+     "sel": "1635713|Away Player Shots|Andrija Bulatovic - 1",
+     "texto": "Andrija Bulatovic: 1+ remate",
+     "cuota": 1.62,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 1,53 por 90' (2-1-2-0-1-3)",
+     "nota": 0.9240000000000002,
+     "equipo": "Lens",
      "lado": "V",
-     "partido": "Slovan Bratislava–Real Betis",
+     "partido": "RB Leipzig–Lens",
      "hora": "2026-11-24T21:00",
      "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
     },
     {
      "sel": "1635718|Away Player Shots|Marc Bernal - 1",
@@ -2960,8 +3013,8 @@
      "logo_v": "https://media.api-sports.io/football/teams/168.png"
     }
    ],
-   "cuota": 7.56,
-   "prob": 0.313
+   "cuota": 8.16,
+   "prob": 0.328
   },
   {
    "clave": "goles",
@@ -2969,19 +3022,6 @@
    "expl": "Marca, ambos marcan, más de 1,5 / 2,5 y gol en cada parte",
    "liga": "Varias",
    "patas": [
-    {
-     "sel": "1635731|Total - Home|Over 0.5",
-     "texto": "Slovan Bratislava marca",
-     "cuota": 1.67,
-     "p": 0.724,
-     "dato": "marca 1,0 por partido y el rival encaja 1,4",
-     "nota": 0.7952793105705545,
-     "partido": "Slovan Bratislava–Real Betis",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/656.png",
-     "logo_v": "https://media.api-sports.io/football/teams/543.png"
-    },
     {
      "sel": "1636315|Goals Over/Under - Second Half|Over 1.5",
      "texto": "Más de 1,5 goles en la 2ª parte",
@@ -3033,10 +3073,23 @@
      "liga": "Conference League",
      "logo_l": "https://media.api-sports.io/football/teams/160.png",
      "logo_v": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+     "sel": "1575237|Goals Over/Under|Over 2.5",
+     "texto": "Más de 2,5 goles",
+     "cuota": 1.5,
+     "p": 0.78,
+     "dato": "más de 2,5 goles en el 80% y el 100% de sus partidos",
+     "nota": 0.8647292447937993,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/163.png"
     }
    ],
-   "cuota": 11.17,
-   "prob": 0.214
+   "cuota": 10.03,
+   "prob": 0.231
   },
   {
    "clave": "corners",
@@ -3056,19 +3109,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/85.png",
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
-    },
-    {
-     "sel": "1635682|Corners 1x2|Away",
-     "texto": "Bayern München saca más córners",
-     "cuota": 1.44,
-     "p": 0.709,
-     "dato": "6,5 córners de Bayern München contra 4,2 del rival",
-     "nota": 0.707431705850159,
-     "partido": "Lille–Bayern München",
-     "hora": "2026-11-25T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/79.png",
-     "logo_v": "https://media.api-sports.io/football/teams/157.png"
     },
     {
      "sel": "1636428|Corners Over Under|Over 8.5",
@@ -3095,10 +3135,23 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/651.png",
      "logo_v": "https://media.api-sports.io/football/teams/4360.png"
+    },
+    {
+     "sel": "1575237|Away Corners Over/Under|Over 3.5",
+     "texto": "Borussia Mönchengladbach: más de 3,5 córners",
+     "cuota": 1.67,
+     "p": 0.721,
+     "dato": "Borussia Mönchengladbach saca 5,0 córners y el rival concede 4,8",
+     "nota": 0.7884020867795394,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/163.png"
     }
    ],
-   "cuota": 6.51,
-   "prob": 0.252
+   "cuota": 7.55,
+   "prob": 0.256
   },
   {
    "clave": "larga",
@@ -3106,6 +3159,36 @@
    "expl": "10 patas para soñar, con lo que queda",
    "liga": "Varias",
    "patas": [
+    {
+     "sel": "1635713|Player Fouls Committed|Christopher Nkunku - 1",
+     "texto": "Christopher Nkunku: comete 1+ falta",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 1,65 por 90' (1-2-0-1-3)",
+     "nota": 0.8375000000000001,
+     "equipo": "RB Leipzig",
+     "lado": "L",
+     "partido": "RB Leipzig–Lens",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/173.png",
+     "logo_v": "https://media.api-sports.io/football/teams/116.png"
+    },
+    {
+     "sel": "1635731|Goalkeeper Saves|Alvaro Valles - 2",
+     "texto": "Alvaro Valles: 2+ paradas",
+     "cuota": 1.5,
+     "p": 0.764,
+     "dato": "cumple 4/5 siendo titular · 3,40 por 90' (4-3-4-1-5)",
+     "nota": 0.8375000000000001,
+     "equipo": "Real Betis",
+     "lado": "V",
+     "partido": "Slovan Bratislava–Real Betis",
+     "hora": "2026-11-24T21:00",
+     "liga": "Champions League",
+     "logo_l": "https://media.api-sports.io/football/teams/656.png",
+     "logo_v": "https://media.api-sports.io/football/teams/543.png"
+    },
     {
      "sel": "1635611|Home Player Shots|Mikel Merino - 2",
      "texto": "Mikel Merino: 2+ remates",
@@ -3120,19 +3203,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/42.png",
      "logo_v": "https://media.api-sports.io/football/teams/165.png"
-    },
-    {
-     "sel": "1635663|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.62,
-     "p": 0.689,
-     "dato": "más de 2,5 goles en el 75% y el 71% de sus partidos",
-     "nota": 0.7238683687349731,
-     "partido": "Feyenoord–FC Porto",
-     "hora": "2026-11-24T21:00",
-     "liga": "Champions League",
-     "logo_l": "https://media.api-sports.io/football/teams/209.png",
-     "logo_v": "https://media.api-sports.io/football/teams/212.png"
     },
     {
      "sel": "1635625|Player Fouls Committed|Ademola Lookman - 1",
@@ -3161,45 +3231,6 @@
      "liga": "Champions League",
      "logo_l": "https://media.api-sports.io/football/teams/85.png",
      "logo_v": "https://media.api-sports.io/football/teams/497.png"
-    },
-    {
-     "sel": "1636329|Goals Over/Under|Over 2.5",
-     "texto": "Más de 2,5 goles",
-     "cuota": 1.44,
-     "p": 0.73,
-     "dato": "más de 2,5 goles en el 67% y el 100% de sus partidos",
-     "nota": 0.7433953311601362,
-     "partido": "Union St. Gilloise–Lech Poznan",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/1393.png",
-     "logo_v": "https://media.api-sports.io/football/teams/347.png"
-    },
-    {
-     "sel": "1636393|To Win Either Half|Home",
-     "texto": "Brann gana alguna de las dos partes",
-     "cuota": 1.57,
-     "p": 0.696,
-     "dato": "Brann: VVDV en sus últimos 5",
-     "nota": 0.7288494853053133,
-     "partido": "Brann–Aarhus",
-     "hora": "2026-11-26T18:45",
-     "liga": "Conference League",
-     "logo_l": "https://media.api-sports.io/football/teams/319.png",
-     "logo_v": "https://media.api-sports.io/football/teams/406.png"
-    },
-    {
-     "sel": "1636315|Both Teams Score|Yes",
-     "texto": "Ambos marcan",
-     "cuota": 1.57,
-     "p": 0.689,
-     "dato": "marcan los dos en el 67% y el 67% de sus partidos",
-     "nota": 0.7153679217461042,
-     "partido": "Plzen–Benfica",
-     "hora": "2026-11-26T18:45",
-     "liga": "Europa League",
-     "logo_l": "https://media.api-sports.io/football/teams/567.png",
-     "logo_v": "https://media.api-sports.io/football/teams/211.png"
     },
     {
      "sel": "1636336|Double Chance|Draw/Away",
@@ -3239,10 +3270,38 @@
      "liga": "Europa League",
      "logo_l": "https://media.api-sports.io/football/teams/413.png",
      "logo_v": "https://media.api-sports.io/football/teams/94.png"
+    },
+    {
+     "sel": "1575237|Goals Over/Under - Second Half|Over 1.5",
+     "texto": "Más de 1,5 goles en la 2ª parte",
+     "cuota": 1.67,
+     "p": 0.745,
+     "dato": "2,7 goles de media en las segundas partes de los dos",
+     "nota": 0.8329252076665442,
+     "partido": "Werder Bremen–Borussia Mönchengladbach",
+     "hora": "2026-11-27T20:30",
+     "liga": "Bundesliga",
+     "logo_l": "https://media.api-sports.io/football/teams/162.png",
+     "logo_v": "https://media.api-sports.io/football/teams/163.png"
+    },
+    {
+     "sel": "1552830|Home Player Shots|Pathe Mboup - 2",
+     "texto": "Pathe Mboup: 2+ remates",
+     "cuota": 1.4,
+     "p": 0.8,
+     "dato": "cumple 5/6 siendo titular · 2,95 por 90' (2-3-4-4-3-0)",
+     "nota": 0.84,
+     "equipo": "Stade Brestois 29",
+     "lado": "L",
+     "partido": "Stade Brestois 29–Paris FC",
+     "hora": "2026-11-27T20:45",
+     "liga": "Ligue 1",
+     "logo_l": "https://media.api-sports.io/football/teams/106.png",
+     "logo_v": "https://media.api-sports.io/football/teams/114.png"
     }
    ],
-   "cuota": 64.44,
-   "prob": 0.041
+   "cuota": 58.96,
+   "prob": 0.059
   }
  ],
  "otras_ligas": false,
