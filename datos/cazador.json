@@ -71,33 +71,11 @@
    "justa": 1.89,
    "ev": 0.011,
    "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "AD Ceuta FC",
-   "visitante": "Almeria",
-   "inicio": "2026-11-23T20:30",
-   "texto": "Gana el Almeria",
-   "cuota": 2.0,
-   "justa": 1.99,
-   "ev": 0.007,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
-  },
-  {
-   "local": "AD Ceuta FC",
-   "visitante": "Almeria",
-   "inicio": "2026-11-23T20:30",
-   "texto": "AD Ceuta FC o empate",
-   "cuota": 2.0,
-   "justa": 2.01,
-   "ev": -0.007,
-   "fuente": "Pinnacle",
-   "edad_h": 0.4
+   "edad_h": 0.0
   }
  ],
  "ultima": {
-  "hora": "2026-11-23T19:55",
+  "hora": "2026-11-23T20:15",
   "revisadas": 0,
   "mejor": null
  },
