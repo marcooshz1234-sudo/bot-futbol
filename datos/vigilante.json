@@ -137,12 +137,17 @@
   "cuotas-2026-11-23-noche-ceuta": "2026-11-23T12:56",
   "redes-2026-11-23-pick-seguro-3-threads-instagram": "2026-11-23T12:56",
   "redes-2026-11-23-noche-levante-threads-instagram": "2026-11-23T13:36",
-  "redes-2026-11-23-combi-tres-threads-instagram": "2026-11-23T13:57"
+  "redes-2026-11-23-combi-tres-threads-instagram": "2026-11-23T13:57",
+  "redes-2026-11-23-noche-brentford-threads-instagram": "2026-11-23T15:50"
  },
  "abiertos": [
   {
    "clave": "redes-2026-11-23-noche-levante-threads-instagram",
    "t": "⏰ No ha salido en threads ni instagram (13:15): Empezamos el día con este pick, familia 👇"
+  },
+  {
+   "clave": "redes-2026-11-23-noche-brentford-threads-instagram",
+   "t": "⏰ No ha salido en threads ni instagram (15:30): Vamos con otro pick, familia 👇"
   },
   {
    "clave": "cuotas-2026-11-23-noche-ceuta",
@@ -185,8 +190,13 @@
    "t": "🪜 Son más de las 12:00 y no hay escalera de hoy"
   }
  ],
- "revisado": "2026-11-23T15:40",
+ "revisado": "2026-11-23T15:50",
  "historial": [
+  {
+   "hora": "2026-11-23T15:50",
+   "t": "⏰ No ha salido en threads ni instagram (15:30): Vamos con otro pick, familia 👇",
+   "k": "redes-2026-11-23-noche-brentford-threads-instagram"
+  },
   {
    "hora": "2026-11-23T13:57",
    "t": "⏰ No ha salido en threads ni instagram (13:30): Vamos con la combi del lunes familia 🔥",
@@ -481,11 +491,6 @@
    "hora": "2026-11-22T08:41",
    "t": "🔁 22/11: el mismo pronóstico en 3 posts (escalera, pick-seguro-6, loca-th-1740-escudos)",
    "k": "repe-2026-11-22-1570456|Total - Home|Over 0.5"
-  },
-  {
-   "hora": "2026-11-22T08:41",
-   "t": "📰 Osasuna–Malaga: «Osasuna estudia las lesiones que están afectando al equipo: estos son los posibles factores» (Diario de Navarra) · tenemos 2 post(s) de este partido: loca-th-0940-empates, combi-tres",
-   "k": "prensa-1570458-ae62bc17"
   }
  ]
 }
