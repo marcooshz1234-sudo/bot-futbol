@@ -207,7 +207,7 @@ def borrar_en_todas(token_tg, canal, p):
                     pass
             res.append(f"⚠️ {nombre}: {motivo}\n👉 Ábrelo y bórralo: " + (" ".join(enlaces) or "(no encuentro el enlace)"))
     hechos = leer(RAIZ / "publicaciones" / "borrados.json", [])
-    escribir(RAIZ / "publicaciones" / "borrados.json", (hechos + [p["id"]])[-200:])
+    escribir(RAIZ / "publicaciones" / "borrados.json", (hechos + [p["id"]])[-300:])
     guardar(f"borrado {p['id']}")
     return "🗑️ " + p["texto"].splitlines()[0][:50] + "\n\n" + "\n\n".join(res)
 
