@@ -45,10 +45,20 @@ def dia_de_grandes(dia, datos=None):
 
 
 def liga_de(fid, datos=None):
+    """23/11: si no está en los calendarios (p. ej. aún no se habían bajado), la liga de datos/proximos/<fid>.json:
+    el Monza–Fiorentina (Serie A) se quedó fuera como «no de las 5 grandes»."""
     try:
-        return _calendario(datos)[0].get(int(fid))
+        liga = _calendario(datos)[0].get(int(fid))
     except (TypeError, ValueError):
         return None
+    if liga is None:
+        try:
+            ex = json.loads((Path(datos or RAIZ / "datos") / "proximos" / f"{int(fid)}.json").read_text(encoding="utf-8"))
+            lid = ex["partido"]["league"]["id"]
+            liga = lid if lid in GRANDES5 + EUROPA else None
+        except Exception:
+            pass
+    return liga
 
 
 def fuera_de_grandes(p, dia, datos=None):

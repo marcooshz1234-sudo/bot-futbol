@@ -33,6 +33,12 @@ class GrandesLigas(unittest.TestCase):
         self.assertFalse(G.fuera_de_grandes(ere, "2026-11-25", self.tmp))                 # entre semana sin grandes
         self.assertTrue(G.fuera_de_grandes({"sel": ["1|a|b", "999|a|b"]}, "2026-11-21", self.tmp))   # combi mezclada
 
+    def test_si_no_esta_en_el_calendario_mira_proximos(self):
+        (self.tmp / "proximos").mkdir()
+        (self.tmp / "proximos" / "1550203.json").write_text(json.dumps({"partido": {"league": {"id": 135}}}))
+        self.assertEqual(G.liga_de(1550203, self.tmp), 135)
+        self.assertFalse(G.fuera_de_grandes({"sel": ["1550203|a|b"]}, "2026-11-21", self.tmp))
+
     def test_generadores(self):
         self.assertFalse(G.liga_permitida(88, "2026-11-21", self.tmp))
         self.assertTrue(G.liga_permitida(140, "2026-11-21", self.tmp))
