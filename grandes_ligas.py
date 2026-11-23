@@ -64,6 +64,8 @@ def liga_de(fid, datos=None):
 def fuera_de_grandes(p, dia, datos=None):
     """True si el post lleva algún pick de fuera de las 5 grandes (o Europa) en un día de grandes."""
     sel = [s for s in (p.get("sel") or []) if s]
+    if p.get("fuera_ok"):   # 23/11: Marcos lo ha pedido aunque sea de otra liga (p. ej. Ceuta–Almería, Segunda)
+        return False
     if not sel or not dia_de_grandes(dia, datos):
         return False
     return any(liga_de(s.split("|")[0], datos) is None for s in sel)

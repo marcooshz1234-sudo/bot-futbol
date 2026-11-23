@@ -32,6 +32,7 @@ class GrandesLigas(unittest.TestCase):
         self.assertFalse(G.fuera_de_grandes({"sel": []}, "2026-11-21", self.tmp))          # verdes, resúmenes…
         self.assertFalse(G.fuera_de_grandes(ere, "2026-11-25", self.tmp))                 # entre semana sin grandes
         self.assertTrue(G.fuera_de_grandes({"sel": ["1|a|b", "999|a|b"]}, "2026-11-21", self.tmp))   # combi mezclada
+        self.assertFalse(G.fuera_de_grandes(dict(ere, fuera_ok=True), "2026-11-21", self.tmp))         # pedido por Marcos
 
     def test_si_no_esta_en_el_calendario_mira_proximos(self):
         (self.tmp / "proximos").mkdir()
