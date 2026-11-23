@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23 02:49",
+ "actualizado": "2026-11-23 03:00",
  "redes": {
   "instagram": {
    "seguidores": 54,
@@ -15,8 +15,8 @@
    ]
   },
   "threads": {
-   "seguidores": 3717,
-   "hoy": 3,
+   "seguidores": 3718,
+   "hoy": 4,
    "serie": [
     3160,
     3215,
@@ -24,7 +24,7 @@
     3248,
     3475,
     3714,
-    3717
+    3718
    ]
   },
   "facebook": {
@@ -54,13 +54,13 @@
    ]
   }
  },
- "total": 4278,
- "total_hoy": 3,
+ "total": 4279,
+ "total_hoy": 4,
  "likes_hoy": 0,
  "proximo": {
-  "hora": "03:00",
+  "hora": "04:00",
   "dia": "2026-11-23",
-  "titulo": "Córners del día"
+  "titulo": "La combi de los empates"
  },
  "ayer": {
   "aciertos": 12,
@@ -258,7 +258,7 @@
   },
   "2026-11-23": {
    "instagram": 54,
-   "threads": 3717,
+   "threads": 3718,
    "facebook": 1,
    "telegram": 506
   }
